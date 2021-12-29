@@ -1,112 +1,112 @@
-﻿# TODO: Translation updated at 2021-12-19 22:56
+﻿# TODO: Translation updated at 2021-12-19 11:46
 
 translate russian strings:
 
     # game/code/data/prologue.rpy:16
     old "Min"
-    new "Min"
+    new "Мин"
 
     # game/code/data/prologue.rpy:16
     old "Lyssa"
-    new "Lyssa"
+    new "Лисса"
 
     # game/code/data/prologue.rpy:16
     old "Maria"
-    new "Maria"
+    new "Мария"
 
     # game/code/data/prologue.rpy:16
     old "Cynthia"
-    new "Cynthia"
+    new "Синтия"
 
     # game/code/data/prologue.rpy:16
     old "Oliver"
-    new "Oliver"
+    new "Оливер"
 
     # game/code/data/prologue.rpy:16
     old "Aaleyah"
-    new "Aaleyah"
+    new "Алия"
 
     # game/code/data/prologue.rpy:16
     old "Daisy"
-    new "Daisy"
+    new "Дейзи"
 
     # game/code/data/prologue.rpy:16
     old "Dahlia"
-    new "Dahlia"
+    new "Далия"
 
     # game/code/data/prologue.rpy:16
     old "Stacy"
-    new "Stacy"
+    new "Стейси"
 
     # game/code/data/prologue.rpy:16
     old "Polly"
-    new "Polly"
+    new "Полли"
 
     # game/code/data/prologue.rpy:16
     old "Vanessa"
-    new "Vanessa"
+    new "Ванесса"
 
     # game/code/data/prologue.rpy:16
     old "Allison"
-    new "Allison"
+    new "Эллисон"
 
     # game/code/data/prologue.rpy:16
     old "Jessie"
-    new "Jessie"
+    new "Джесси"
 
     # game/code/data/prologue.rpy:16
     old "Chloe"
-    new "Chloe"
+    new "Хлоя"
 
     # game/code/data/prologue.rpy:16
     old "Iona"
-    new "Iona"
+    new "Иона"
 
     # game/code/data/prologue.rpy:16
     old "Hana"
-    new "Hana"
+    new "Хана"
 
     # game/code/data/prologue.rpy:16
     old "Chase"
-    new "Chase"
+    new "Чейс"
 
     # game/code/data/prologue.rpy:16
     old "The Judge"
-    new "The Judge"
+    new "Судья"
 
     # game/code/data/prologue.rpy:45
     old "Enema"
-    new "Enema"
+    new "Клизма"
 
     # game/code/data/prologue.rpy:45
     old "Watersports"
-    new "Watersports"
+    new "Водные виды спорта"
 
     # game/code/data/prologue.rpy:45
     old "Footfetish"
-    new "Footfetish"
+    new "Футфетиш"
 
     # game/code/data/prologue.rpy:45
     old "Cumgarnish"
-    new "Cumgarnish"
+    new "Гарнир из спермы"
 
     # game/code/data/prologue.rpy:45
     old "Fisting"
-    new "Fisting"
+    new "Фистинг"
 
     # game/code/data/prologue.rpy:45
     old "Pegging"
-    new "Pegging"
+    new "Пеггинг"
 
     # game/code/data/prologue.rpy:80
     old "dog"
-    new "dog"
+    new "собака"
 
     # game/code/data/prologue.rpy:80
     old "cuddle"
-    new "cuddle"
+    new "обьятия"
 
     # game/code/data/prologue.rpy:80
     old "adult magazines"
-    new "adult magazines"
+    new "журналы для взрослых"
 
