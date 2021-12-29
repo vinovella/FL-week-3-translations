@@ -25,12 +25,3 @@ translate russian strings:
     # game/code/screens/extended/screens_fl.rpy:46
     old "Page [page]"
     new "Page [page]"
-
-    # game/code/screens/extended/screens_fl.rpy:94
-    old "<"
-    new "<"
-
-    # game/code/screens/extended/screens_fl.rpy:102
-    old ">"
-    new ">"
-
