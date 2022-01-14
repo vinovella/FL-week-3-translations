@@ -110,3 +110,11 @@ translate russian strings:
     old "adult magazines"
     new "журналы для взрослых"
 
+# TODO: Translation updated at 2022-01-14 16:57
+
+translate russian strings:
+
+    # game/code/data/prologue.rpy:45
+    old "Trans Content"
+    new "Trans Content"
+

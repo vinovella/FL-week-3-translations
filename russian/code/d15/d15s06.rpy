@@ -1598,3 +1598,17 @@ translate russian strings:
     old "I love you too"
     new "Я тоже тебя люблю"
 
+# TODO: Translation updated at 2022-01-14 16:57
+
+# game/code/d15/d15s06.rpy:453
+translate russian d15s06_house_3d2533db:
+
+    # mct "I just had Maria do this to me, but that was completely different."
+    mct "I just had Maria do this to me, but that was completely different."
+
+# game/code/d15/d15s06.rpy:454
+translate russian d15s06_house_297a3a1b:
+
+    # mct "I'm not trying to degrade or humiliate anyone now. Lyssa actually wants to do it."
+    mct "I'm not trying to degrade or humiliate anyone now. Lyssa actually wants to do it."
+
