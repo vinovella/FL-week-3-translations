@@ -1,14 +1,6 @@
-﻿# TODO: Translation updated at 2021-12-19 22:56
+﻿# TODO: Translation updated at 2022-02-15 16:23
 
 translate russian strings:
-
-    # game/code/screens/extended/screens_fl.rpy:11
-    old "CG Gallery"
-    new "CG Gallery"
-
-    # game/code/screens/extended/screens_fl.rpy:17
-    old "Replay Room"
-    new "Replay Room"
 
     # game/code/screens/extended/screens_fl.rpy:23
     old "Bonus Content"
@@ -25,3 +17,4 @@ translate russian strings:
     # game/code/screens/extended/screens_fl.rpy:46
     old "Page [page]"
     new "Page [page]"
+

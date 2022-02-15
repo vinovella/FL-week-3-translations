@@ -20,11 +20,11 @@ translate russian strings:
     old "Not_"
     new "Не_"
 
-# TODO: Translation updated at 2022-02-15 16:18
+# TODO: Translation updated at 2022-01-31 15:43
 
 # game/code/d15/prologue.rpy:146
 translate russian prologue_finalize_37146da5:
 
     # "Great! Now you're ready to play the third week of Fetish Locator!"
-    "Great! Now you're ready to play the third week of Fetish Locator!"
+    "Отлично! Теперь вы готовы играть в третью неделю Фетиш Локатора!"
 

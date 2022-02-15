@@ -934,11 +934,11 @@ translate russian strings:
     old "Don't"
     new "Не делать ничего"
 
-# TODO: Translation updated at 2022-01-14 16:57
+# TODO: Translation updated at 2022-01-31 15:43
 
 # game/code/d15/d15s04dd.rpy:531
 translate russian d15s04dd_1fac3b26:
 
     # "Doctor" "Thank you. Please, sit. I have your test results here..."
-    "Doctor" "Thank you. Please, sit. I have your test results here..."
+    "Doctor" "Спасибо. Пожалуйста, садитесь. Я получила результаты ваших анализов..."
 

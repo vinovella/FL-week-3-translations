@@ -126,55 +126,55 @@ translate russian strings:
     old "SKIP RECAP"
     new "ПРОПУСТИТЬ"
 
-# TODO: Translation updated at 2022-02-15 16:18
+# TODO: Translation updated at 2022-01-31 15:43
 
 translate russian strings:
 
-    # game/code/screens/screens_fl.rpy:525
+    # game/code/screens/screens_fl.rpy:539
     old "Please choose your preferences"
-    new "Please choose your preferences"
+    new "Пожалуйста, выберите ваши предпочтения"
 
-    # game/code/screens/screens_fl.rpy:654
+    # game/code/screens/screens_fl.rpy:668
     old "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
-    new "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
+    new "Вернитесь назад и включите фетиш {b}Водные виды спорта{/b}, чтобы иметь возможность выбрать Мин"
 
-    # game/code/screens/screens_fl.rpy:661
+    # game/code/screens/screens_fl.rpy:675
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
-    new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
-
-    # game/code/screens/screens_fl.rpy:690
-    old "AmRose Romance or Slave?"
-    new "AmRose Romance or Slave?"
+    new "Вернитесь назад и включите {b}Транс-контент{/b}, чтобы иметь возможность выбрать Лиссу"
 
     # game/code/screens/screens_fl.rpy:704
+    old "AmRose Romance or Slave?"
+    new "АмРоуз Романтика или Рабство?"
+
+    # game/code/screens/screens_fl.rpy:718
     old "Did you kiss her?"
-    new "Did you kiss her?"
+    new "Вы ее поцеловали?"
 
-    # game/code/screens/screens_fl.rpy:720
+    # game/code/screens/screens_fl.rpy:734
     old "Lyssa Romance or BDSM?"
-    new "Lyssa Romance or BDSM?"
+    new "Лисса Романтика или BDSM?"
 
-    # game/code/screens/screens_fl.rpy:738
+    # game/code/screens/screens_fl.rpy:752
     old "Did you say you love her?"
-    new "Did you say you love her?"
+    new "Вы сказали, что любите ее?"
 
-    # game/code/screens/screens_fl.rpy:864
+    # game/code/screens/screens_fl.rpy:878
     old "Kids with Stacy?"
-    new "Kids with Stacy?"
+    new "Дети от Стейси?"
 
-    # game/code/screens/screens_fl.rpy:881
+    # game/code/screens/screens_fl.rpy:895
     old "Do you agree to be a father?"
-    new "Do you agree to be a father?"
+    new "Вы согласились стать отцом?"
 
-    # game/code/screens/screens_fl.rpy:898
+    # game/code/screens/screens_fl.rpy:912
     old "Did you ask her to wear shoes with cum?"
-    new "Did you ask her to wear shoes with cum?"
+    new "Вы попросили ее надеть туфли со спермой?"
 
-    # game/code/screens/screens_fl.rpy:915
+    # game/code/screens/screens_fl.rpy:929
     old "Did you gave the password to her?"
-    new "Did you gave the password to her?"
+    new "Вы дали ей пароль?"
 
-    # game/code/screens/screens_fl.rpy:933
+    # game/code/screens/screens_fl.rpy:947
     old "Did you let Pete hit on Samiya?"
-    new "Did you let Pete hit on Samiya?"
+    new "Вы позволили Питу остаться с Самией?"
 

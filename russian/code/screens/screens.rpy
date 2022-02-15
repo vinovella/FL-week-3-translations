@@ -66,6 +66,14 @@ translate russian strings:
     old "Switch Language"
     new "Переключить язык"
 
+    # game/code/screens/screens.rpy:354
+    old "CG Gallery"
+    new "Галерея персонажей"
+
+    # game/code/screens/screens.rpy:359
+    old "Replay Room"
+    new "Комната повторов"
+
     # game/code/screens/screens.rpy:364
     old "End Replay"
     new "Конец повтора"
@@ -377,3 +385,4 @@ translate russian strings:
     # game/code/screens/screens.rpy:1772
     old "Menu"
     new "Меню"
+
