@@ -126,3 +126,55 @@ translate russian strings:
     old "SKIP RECAP"
     new "ПРОПУСТИТЬ"
 
+# TODO: Translation updated at 2022-02-15 16:18
+
+translate russian strings:
+
+    # game/code/screens/screens_fl.rpy:525
+    old "Please choose your preferences"
+    new "Please choose your preferences"
+
+    # game/code/screens/screens_fl.rpy:654
+    old "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
+    new "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
+
+    # game/code/screens/screens_fl.rpy:661
+    old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
+    new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
+
+    # game/code/screens/screens_fl.rpy:690
+    old "AmRose Romance or Slave?"
+    new "AmRose Romance or Slave?"
+
+    # game/code/screens/screens_fl.rpy:704
+    old "Did you kiss her?"
+    new "Did you kiss her?"
+
+    # game/code/screens/screens_fl.rpy:720
+    old "Lyssa Romance or BDSM?"
+    new "Lyssa Romance or BDSM?"
+
+    # game/code/screens/screens_fl.rpy:738
+    old "Did you say you love her?"
+    new "Did you say you love her?"
+
+    # game/code/screens/screens_fl.rpy:864
+    old "Kids with Stacy?"
+    new "Kids with Stacy?"
+
+    # game/code/screens/screens_fl.rpy:881
+    old "Do you agree to be a father?"
+    new "Do you agree to be a father?"
+
+    # game/code/screens/screens_fl.rpy:898
+    old "Did you ask her to wear shoes with cum?"
+    new "Did you ask her to wear shoes with cum?"
+
+    # game/code/screens/screens_fl.rpy:915
+    old "Did you gave the password to her?"
+    new "Did you gave the password to her?"
+
+    # game/code/screens/screens_fl.rpy:933
+    old "Did you let Pete hit on Samiya?"
+    new "Did you let Pete hit on Samiya?"
+

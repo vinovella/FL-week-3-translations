@@ -1612,3 +1612,101 @@ translate russian d15s06_house_297a3a1b:
     # mct "I'm not trying to degrade or humiliate anyone now. Lyssa actually wants to do it."
     mct "I'm not trying to degrade or humiliate anyone now. Lyssa actually wants to do it."
 
+# TODO: Translation updated at 2022-02-15 16:18
+
+# game/code/d15/d15s06.rpy:533
+translate russian d15s06_house_46f186d8:
+
+    # mct "This feels...nice."
+    mct "This feels...nice."
+
+# game/code/d15/d15s06.rpy:536
+translate russian d15s06_house_a104c11d:
+
+    # mct "Her hands are so soft."
+    mct "Her hands are so soft."
+
+# game/code/d15/d15s06.rpy:539
+translate russian d15s06_house_ac398b86:
+
+    # mct "I should try to relax."
+    mct "I should try to relax."
+
+# game/code/d15/d15s06.rpy:542
+translate russian d15s06_house_35d46112:
+
+    # mh "How does that feel? I'm not too big, am I?"
+    mh "How does that feel? I'm not too big, am I?"
+
+# game/code/d15/d15s06.rpy:545
+translate russian d15s06_house_9eaaf0e1:
+
+    # mc "I feel very...full *Chuckles*."
+    mc "I feel very...full *Chuckles*."
+
+# game/code/d15/d15s06.rpy:548
+translate russian d15s06_house_fc08e093:
+
+    # mct "Fuck, her dick is nothing like I've experienced before."
+    mct "Fuck, her dick is nothing like I've experienced before."
+
+# game/code/d15/d15s06.rpy:551
+translate russian d15s06_house_7257d258:
+
+    # mct "She is {i}so{/i} {i}{b}big{/b}{/i}.{w} I need to relax or this will go nowhere."
+    mct "She is {i}so{/i} {i}{b}big{/b}{/i}.{w} I need to relax or this will go nowhere."
+
+# game/code/d15/d15s06.rpy:554
+translate russian d15s06_house_0d99273b:
+
+    # mh "If this is all we can do, that's alright."
+    mh "If this is all we can do, that's alright."
+
+# game/code/d15/d15s06.rpy:555
+translate russian d15s06_house_46be1fcc:
+
+    # mh "We don't have to go all the way right away."
+    mh "We don't have to go all the way right away."
+
+# game/code/d15/d15s06.rpy:558
+translate russian d15s06_house_e227237e:
+
+    # mc "I can take it. Just, give me a minute to catch my breath."
+    mc "I can take it. Just, give me a minute to catch my breath."
+
+# game/code/d15/d15s06.rpy:560
+translate russian d15s06_house_2df0c4c8_1:
+
+    # mh "Okay."
+    mh "Okay."
+
+# game/code/d15/d15s06.rpy:565
+translate russian d15s06_house_8100ca13:
+
+    # mc "Alright. I—I think I'm good."
+    mc "Alright. I—I think I'm good."
+
+# game/code/d15/d15s06.rpy:569
+translate russian d15s06_house_b7bfeaab:
+
+    # mct "*Slight Moan*"
+    mct "*Slight Moan*"
+
+# game/code/d15/d15s06.rpy:571
+translate russian d15s06_house_4a34fa64:
+
+    # mct "This...this feels weird, but it feels good as well."
+    mct "This...this feels weird, but it feels good as well."
+
+# game/code/d15/d15s06.rpy:575
+translate russian d15s06_house_523e7637:
+
+    # mct "It's so much different when it's the real thing."
+    mct "It's so much different when it's the real thing."
+
+# game/code/d15/d15s06.rpy:579
+translate russian d15s06_house_8f645d73:
+
+    # mc "I want you to go deeper."
+    mc "I want you to go deeper."
+
