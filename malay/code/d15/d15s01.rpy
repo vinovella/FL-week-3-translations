@@ -544,7 +544,7 @@ translate malay d15s01_cagedecision_a1f8a66a:
 translate malay d15s01_cagedecision_b114346a:
 
     # mc "They're cages.{w}.. for my penis."
-    mc Mereka sangkar... {w}untuk kote aku."
+    mc "Mereka sangkar... {w}untuk kote aku."
 
 # game/code/d15/d15s01.rpy:472
 translate malay d15s01_cagedecision_e18b2360:
@@ -976,7 +976,7 @@ translate malay d15s01_arj_bj_564b507f:
 translate malay d15s01_arj_bj_b6599b52:
 
     # arj "Good, because he's gonna need to cum at least once more before he will fit into that tiny cage."
-    arj Bagus, kerana dia perlu pancut sekurang-kurangnya sekali lagi sebelum dia masuk ke dalam sangkar kecil itu."
+    arj "Bagus, kerana dia perlu pancut sekurang-kurangnya sekali lagi sebelum dia masuk ke dalam sangkar kecil itu."
 
 # game/code/d15/d15s01.rpy:780
 translate malay d15s01_arj_bj_8461111e:
@@ -1085,7 +1085,7 @@ translate malay d15s01_arj_bj_fe52dbce:
 
     # lc "Anytime he wants?"
     lc "Bila-bila masa dia nak?"
-    
+
 # game/code/d15/d15s01.rpy:836
 translate malay d15s01_arj_bj_76294118:
 
@@ -1331,7 +1331,7 @@ translate malay d15s01_face_fucking_1afb8e65:
 
     # mc "What do you mean? She's one of my closest friends."
     mc "Apa maksud kau? Dia antara kawan rapat aku."
-    
+
 # game/code/d15/d15s01.rpy:1054
 translate malay d15s01_face_fucking_4980b683:
 
@@ -1505,7 +1505,7 @@ translate malay d15s01_face_fucking_e2e6ceff:
 
     # lc "That's the sound of devotion."
     lc "Itulah bunyi pengabdian."
-    
+
 # game/code/d15/d15s01.rpy:1155
 translate malay d15s01_face_fucking_dd0dc79d:
 
@@ -1667,7 +1667,7 @@ translate malay d15s01_face_fucking_2c4ca683:
 
     # lc "Is that so? Well now, let's ask her. [mcname] is your Master. Does that make me your Mistress?"
     lc "Begitukah? Sekarang, mari kita tanya dia. [mcname] ialah Tuanmu. Maksudnya aku Puan kau kan?"
-    
+
 # game/code/d15/d15s01.rpy:1236
 translate malay d15s01_face_fucking_e18db772:
 
@@ -1877,7 +1877,7 @@ translate malay d15s01_end_6d945290:
 translate malay d15s01_end_213654d5:
 
     # mct "If I don't get this thing off by tomorrow night I'm going to be seriously pissed off."
-    mct Jika aku tak menaggalkannya pada malam esok, menagmuklah aku nanti. Macam Godzilla."
+    mct "Jika aku tak menaggalkannya pada malam esok, menagmuklah aku nanti. Macam Godzilla."
 
 # game/code/d15/d15s01.rpy:1373
 translate malay d15s01_end_828dcaf7:
@@ -1920,7 +1920,7 @@ translate malay d15s01_end_8030d795:
 
     # arj "I wouldn't worry about that."
     arj "Aku tak akan risau tentang itu."
-    
+
 # game/code/d15/d15s01.rpy:1396
 translate malay d15s01_end_d9af6597:
 
@@ -2003,7 +2003,7 @@ translate malay d15s01_end_7ba08d06:
 translate malay d15s01_end_b3a60611:
 
     # mc "I just want you to know that I love you and appreciate everything you've done."
-    mc Aku cuma nak kau tahu yang aku sayang kau dan hargai semua yang kau dah buat."
+    mc "Aku cuma nak kau tahu yang aku sayang kau dan hargai semua yang kau dah buat."
 
 # game/code/d15/d15s01.rpy:1430
 translate malay d15s01_end_86f77a53:
@@ -2216,4 +2216,3 @@ translate malay strings:
     # game/code/d15/d15s01.rpy:307
     old "Decide Which Cage to Wear"
     new "Tentukan Sangkar Mana Yang Akan Dipakai"
-
