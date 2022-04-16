@@ -41,7 +41,7 @@ translate malay d15s06_c2ffbd64:
 
     # mc "Wow, well my day suddenly got a whole lot better."
     mc "Wow, hari aku tiba-tiba menjadi lebih baik."
-    
+
 # game/code/d15/d15s06.rpy:88
 translate malay d15s06_b6e04664:
 
@@ -976,7 +976,7 @@ translate malay d15s06_pillowtalk_a88cd26e:
 translate malay d15s06_pillowtalk_6c480847:
 
     # mh "He's pretty timid and shy most of the time but you should see him when he gets the confidence to act out. *Laughs*"
-    mh  Dia agak pemalu tapi kena tengok apabila dia mendapat keyakinan untuk berlakon. *Ketawa*"
+    mh "Dia agak pemalu tapi kena tengok apabila dia mendapat keyakinan untuk berlakon. *Ketawa*"
 
 # game/code/d15/d15s06.rpy:790
 translate malay d15s06_pillowtalk_b2b2b038:
@@ -1705,4 +1705,3 @@ translate malay strings:
     # game/code/d15/d15s06.rpy:870
     old "I love you too"
     new "Aku sayang kau juga"
-

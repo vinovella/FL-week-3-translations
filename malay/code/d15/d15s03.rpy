@@ -341,7 +341,7 @@ translate malay d15s03_middle_d19d36be:
 
     # pb "You don't want to know. It's some disgusting shit."
     pb "kau jangan nak tahu. Ia adalah sesuatu yang menjijikkan."
-    
+
 # game/code/d15/d15s03.rpy:189
 translate malay d15s03_middle_0e97394d:
 
@@ -419,7 +419,7 @@ translate malay d15s03_middle_65401d68:
 
     # pb "I, uh... {w} I heard some rumors through the grapevine. Any truth to them?"
     pb "Aku, uh... {w}Aku ada dengar khabar angin. Ada yang betul tentangnya?"
-    
+
 # game/code/d15/d15s03.rpy:228
 translate malay d15s03_middle_7f4c9957:
 
@@ -448,7 +448,7 @@ translate malay d15s03_middle_84e288fc:
 translate malay d15s03_middle_052cc958:
 
     # mc "Ha! I wish. {w}Wait, seriously? Is that what people are saying?"
-    mc " Ha! HArap begitulah. {w Tunggu, serius? Adakah itu apa yang orang cakap?"
+    mc " Ha! HArap begitulah.{w} Tunggu, serius? Adakah itu apa yang orang cakap?"
 
 # game/code/d15/d15s03.rpy:243
 translate malay d15s03_middle_ca59b672:
@@ -515,7 +515,7 @@ translate malay d15s03_dw_setup_c7293e56:
 
     # pb "There was one more. Sounds like you've been getting pretty serious with Dahlia as well."
     pb " Ada lagi satu. Nampaknya awak dah mula serius dengan Dahlia juga. "
-    
+
 # game/code/d15/d15s03.rpy:282
 translate malay d15s03_dw_setup_38b5e631:
 
@@ -917,4 +917,3 @@ translate malay d15s03_end_2263a909:
 
     # pb "Anyway, I am heading out.{w} Later dude."
     pb "Apa-apa pun, aku keluar dulu. {w}Jumpa nanti."
-

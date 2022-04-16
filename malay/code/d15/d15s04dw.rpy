@@ -988,7 +988,7 @@ translate malay d15s04dw_d59efa93:
 translate malay d15s04dw_1e901623:
 
     # sb "So, one of us fucks his mouth while the other fucks his ass, and then we switch?"
-    sb  Jadi, salah seorang daripada kita kongkek mulutnya manakala seorang lagi kongkek pantatnya, dan kemudian kita tukar?"
+    sb "Jadi, salah seorang daripada kita kongkek mulutnya manakala seorang lagi kongkek pantatnya, dan kemudian kita tukar?"
 
 # game/code/d15/d15s04dw.rpy:606
 translate malay d15s04dw_c51a8805:
@@ -1073,4 +1073,3 @@ translate malay strings:
     # game/code/d15/d15s04dw.rpy:497
     old "Let the girls think it was entirely up to them"
     new "Biarkan mereka berfikir itu terpulang kepada mereka"
-

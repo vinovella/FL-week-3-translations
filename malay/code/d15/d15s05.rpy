@@ -442,7 +442,7 @@ translate malay d15s05_bj_bae9b47a:
 translate malay d15s05_bj_9f81e027:
 
     # mk "A three-holed cum slut available to all cummers."
-    mk  Perempuan murahan berlubang tiga yang sentiasa bersedia."
+    mk "Perempuan murahan berlubang tiga yang sentiasa bersedia."
 
 # game/code/d15/d15s05.rpy:344
 translate malay d15s05_bj_458cad16:
@@ -1429,4 +1429,3 @@ translate malay strings:
     # game/code/d15/d15s05.rpy:245
     old "Wrap this Up"
     new "Selesaikan ini"
-
