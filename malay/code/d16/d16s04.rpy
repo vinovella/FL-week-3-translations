@@ -1138,7 +1138,7 @@ translate malay d16s04_ddad79bd:
 translate malay d16s04_8da67c47:
 
     # mct "I can be over in a bit tho."
-    mct "Akiu boleh datang sekejap lagi."
+    mct "Aku boleh datang sekejap lagi."
 
 # game/code/d16/d16s04.rpy:411
 translate malay d16s04_e242fd49:
