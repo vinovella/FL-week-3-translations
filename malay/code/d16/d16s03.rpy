@@ -1000,7 +1000,7 @@ translate malay d16s03_7394e456:
 translate malay d16s03_a41c7f6f:
 
     # arj "Sure, I'll get ready for class... and meet you there?"
-    arj Tentu, saya akan bersiap untuk ke kelas... dan jumpa awak di sana?"
+    arj "Tentu, saya akan bersiap untuk ke kelas... dan jumpa awak di sana?"
 
 # game/code/d16/d16s03.rpy:371
 translate malay d16s03_67bccabd:
@@ -2001,4 +2001,3 @@ translate malay strings:
     # game/code/d16/d16s03.rpy:726
     old "Tell Lydia That You Enjoyed It As Well"
     new "Beritahu Lydia Yang Anda Juga Menikmatinya "
-

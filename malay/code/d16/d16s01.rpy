@@ -47,7 +47,7 @@ translate malay d16s01_f360d4e1:
 
     # arj "Hey, we should try to keep it down a bit. [mcname] is sleeping still."
     arj "Hey, kita kena senyap sikit. [mcname] masih tidur."
-    
+
 # game/code/d16/d16s01.rpy:30
 translate malay d16s01_a6752256:
 
@@ -71,7 +71,7 @@ translate malay d16s01_71399fd5:
 
     # sy "Oh, would you look at that. The man of the hour is awake as well. Perfect timing."
     sy "Oh, tengoklah. Dah bangun pun dia. Tepat masanya."
-    
+
 # game/code/d16/d16s01.rpy:50
 translate malay d16s01_e205fc38:
 
@@ -118,7 +118,7 @@ translate malay d16s01_f6e6aa80:
 translate malay d16s01_ed59ad4d:
 
     # arj "Fixed up the power drain issue and hacked together some lithium-ions as the power supply."
-    arj  Memperbaiki isu saliran kuasa dan menggodam bersama beberapa litium-ion sebagai bekalan kuasa."
+    arj "Memperbaiki isu saliran kuasa dan menggodam bersama beberapa litium-ion sebagai bekalan kuasa."
 
 # game/code/d16/d16s01.rpy:66
 translate malay d16s01_b6fc2dde:
@@ -443,7 +443,7 @@ translate malay d16s01_577fe339:
 
     # arj "Yeah. So we can just have that running in the background and try to figure out if we have any other options when it comes to Fetish Locator as well."
     arj "Yeah. Jadi kita hanya boleh menjalankannya di latar belakang dan cuba memikirkan sama ada kita mempunyai sebarang pilihan lain mengenai Fetish Locator juga."
-    
+
 # game/code/d16/d16s01.rpy:174
 translate malay d16s01_643eeddb:
 
@@ -515,4 +515,3 @@ translate malay d16s01_fa3a59b5:
 
     # sy "Jackass."
     sy "Sial betul."
-
