@@ -828,3 +828,401 @@ translate russian strings:
     old "Fuck her"
     new "Трахнуть ее"
 
+# TODO: Translation updated at 2022-05-10 20:00
+
+# game/code/d17/d17s02.rpy:54
+translate russian d17s02_cac1f672:
+
+    # mc "What's up"
+    mc "What's up"
+
+# game/code/d17/d17s02.rpy:89
+translate russian replay_d17s02_cafec360:
+
+    # vw "So? How did it go?"
+    vw "So? How did it go?"
+
+# game/code/d17/d17s02.rpy:91
+translate russian replay_d17s02_5db09cbc:
+
+    # mc "Well, damn. I just came in. Don't I even get something to drink?"
+    mc "Well, damn. I just came in. Don't I even get something to drink?"
+
+# game/code/d17/d17s02.rpy:93
+translate russian replay_d17s02_e46105de:
+
+    # vw "Oh, I'm so sorry. It's just that—"
+    vw "Oh, I'm so sorry. It's just that—"
+
+# game/code/d17/d17s02.rpy:95
+translate russian replay_d17s02_155a2f91:
+
+    # mc "I'm messing with you. It's alright.{w} C'mon, sit."
+    mc "I'm messing with you. It's alright.{w} C'mon, sit."
+
+# game/code/d17/d17s02.rpy:97
+translate russian replay_d17s02_7f82756a:
+
+    # vw "So, uhm... What did she say? Is she still mad at me about what happened at the party?"
+    vw "So, uhm... What did she say? Is she still mad at me about what happened at the party?"
+
+# game/code/d17/d17s02.rpy:98
+translate russian replay_d17s02_2fbb7006:
+
+    # mc "Absolutely."
+    mc "Absolutely."
+
+# game/code/d17/d17s02.rpy:100
+translate russian replay_d17s02_43f9529e:
+
+    # vw "Oh God, I ruined everything!"
+    vw "Oh God, I ruined everything!"
+
+# game/code/d17/d17s02.rpy:101
+translate russian replay_d17s02_68804eff:
+
+    # mc "Hey, look at me. I said I had good news, didn't I?"
+    mc "Hey, look at me. I said I had good news, didn't I?"
+
+# game/code/d17/d17s02.rpy:102
+translate russian replay_d17s02_07ab8719:
+
+    # mc "It took some convincing, but she said that she's willing to talk with you."
+    mc "It took some convincing, but she said that she's willing to talk with you."
+
+# game/code/d17/d17s02.rpy:104
+translate russian replay_d17s02_88a2e41e:
+
+    # vw "What...?"
+    vw "What...?"
+
+# game/code/d17/d17s02.rpy:105
+translate russian replay_d17s02_b47e3561:
+
+    # vw "Thank you so much!"
+    vw "Thank you so much!"
+
+# game/code/d17/d17s02.rpy:107
+translate russian replay_d17s02_9f0d1355:
+
+    # vw "That's all I wanted! Oh my God, I'll be able to talk to my baby again."
+    vw "That's all I wanted! Oh my God, I'll be able to talk to my baby again."
+
+# game/code/d17/d17s02.rpy:109
+translate russian replay_d17s02_280246a3:
+
+    # vw "That's all I wanted! Oh my God, I'll be able to talk to her again."
+    vw "That's all I wanted! Oh my God, I'll be able to talk to her again."
+
+# game/code/d17/d17s02.rpy:111
+translate russian replay_d17s02_a11704b1:
+
+    # mc "There's a condition though."
+    mc "There's a condition though."
+
+# game/code/d17/d17s02.rpy:112
+translate russian replay_d17s02_23098fc0:
+
+    # vw "Anything, I don't care."
+    vw "Anything, I don't care."
+
+# game/code/d17/d17s02.rpy:113
+translate russian replay_d17s02_7d10f966:
+
+    # mc "Well, no need to be so dramatic.{w} She just wanted me there."
+    mc "Well, no need to be so dramatic.{w} She just wanted me there."
+
+# game/code/d17/d17s02.rpy:115
+translate russian replay_d17s02_f95fb9ae:
+
+    # vw "Oh, that's actually great! You'll be able to help her listen to me and mediate."
+    vw "Oh, that's actually great! You'll be able to help her listen to me and mediate."
+
+# game/code/d17/d17s02.rpy:116
+translate russian replay_d17s02_c76dbc9c:
+
+    # mc "I'm not really sure about that..."
+    mc "I'm not really sure about that..."
+
+# game/code/d17/d17s02.rpy:117
+translate russian replay_d17s02_04a7c106:
+
+    # vw "You'll do great. I trust you. And considering she picked you for this, she must really trust you as well.{w} When is she willing to talk?"
+    vw "You'll do great. I trust you. And considering she picked you for this, she must really trust you as well.{w} When is she willing to talk?"
+
+# game/code/d17/d17s02.rpy:119
+translate russian replay_d17s02_52ed006c:
+
+    # mc "We didn't settle a date."
+    mc "We didn't settle a date."
+
+# game/code/d17/d17s02.rpy:120
+translate russian replay_d17s02_751f8ae9:
+
+    # mc "Though I have a vague idea of when she's free, when are you—"
+    mc "Though I have a vague idea of when she's free, when are you—"
+
+# game/code/d17/d17s02.rpy:122
+translate russian replay_d17s02_4f3474da:
+
+    # vw "Any time. Just let me know when and where and I'll be there."
+    vw "Any time. Just let me know when and where and I'll be there."
+
+# game/code/d17/d17s02.rpy:123
+translate russian replay_d17s02_7158eb1c:
+
+    # mc "Alright. I'll figure something out."
+    mc "Alright. I'll figure something out."
+
+# game/code/d17/d17s02.rpy:124
+translate russian replay_d17s02_87ebcc68:
+
+    # vw "Oh my God. I can't believe this is happening."
+    vw "Oh my God. I can't believe this is happening."
+
+# game/code/d17/d17s02.rpy:126
+translate russian replay_d17s02_3ec0b7b7:
+
+    # vw "I'm so happy."
+    vw "I'm so happy."
+
+# game/code/d17/d17s02.rpy:130
+translate russian replay_d17s02_4fa6b770:
+
+    # vw "Thank you so much, [mcname]!"
+    vw "Thank you so much, [mcname]!"
+
+# game/code/d17/d17s02.rpy:132
+translate russian replay_d17s02_f5bd4db7:
+
+    # mc "Be careful. You're only going to get one chance at this."
+    mc "Be careful. You're only going to get one chance at this."
+
+# game/code/d17/d17s02.rpy:133
+translate russian replay_d17s02_9af9da82:
+
+    # vw "I will be. Do you think I need to do anything to prepare?"
+    vw "I will be. Do you think I need to do anything to prepare?"
+
+# game/code/d17/d17s02.rpy:134
+translate russian replay_d17s02_6455b73c:
+
+    # mc "Well...{w} How do I put this politely?"
+    mc "Well...{w} How do I put this politely?"
+
+# game/code/d17/d17s02.rpy:136
+translate russian replay_d17s02_c89e0947:
+
+    # vw "It's okay. I'll do anything for her."
+    vw "It's okay. I'll do anything for her."
+
+# game/code/d17/d17s02.rpy:137
+translate russian replay_d17s02_2e5a2c67:
+
+    # mc "I think you need to learn to be a bit more...open to listening."
+    mc "I think you need to learn to be a bit more...open to listening."
+
+# game/code/d17/d17s02.rpy:138
+translate russian replay_d17s02_01a92e8d:
+
+    # vw "What do you mean?"
+    vw "What do you mean?"
+
+# game/code/d17/d17s02.rpy:140
+translate russian replay_d17s02_8d69b040:
+
+    # mc "I've noticed that you can be very intimidating and forceful with what you want at times."
+    mc "I've noticed that you can be very intimidating and forceful with what you want at times."
+
+# game/code/d17/d17s02.rpy:142
+translate russian replay_d17s02_f2700582:
+
+    # mc "Intimidation and forcefulness aren't exactly the most useful tools to use when trying to mend a relationship."
+    mc "Intimidation and forcefulness aren't exactly the most useful tools to use when trying to mend a relationship."
+
+# game/code/d17/d17s02.rpy:144
+translate russian replay_d17s02_b6eccd10:
+
+    # vw "So what? Do I need to be submissive? Why do I have to be..."
+    vw "So what? Do I need to be submissive? Why do I have to be..."
+
+# game/code/d17/d17s02.rpy:146
+translate russian replay_d17s02_53ba7708:
+
+    # mc "Well it's not submi—"
+    mc "Well it's not submi—"
+
+# game/code/d17/d17s02.rpy:147
+translate russian replay_d17s02_c089cc68:
+
+    # vw "No, I understand. I have this toxic pattern of managing my personal relationships like they're my clients."
+    vw "No, I understand. I have this toxic pattern of managing my personal relationships like they're my clients."
+
+# game/code/d17/d17s02.rpy:149
+translate russian replay_d17s02_b7f7559b:
+
+    # mc "That's..."
+    mc "That's..."
+
+# game/code/d17/d17s02.rpy:150
+translate russian replay_d17s02_ff6bdcbc:
+
+    # vw "Surprisingly insightful? I know. I've been trying to figure out what I can do to...grow, I suppose.{w} And I want you to teach me."
+    vw "Surprisingly insightful? I know. I've been trying to figure out what I can do to...grow, I suppose.{w} And I want you to teach me."
+
+# game/code/d17/d17s02.rpy:151
+translate russian replay_d17s02_9e7c094c:
+
+    # mc "Come again?"
+    mc "Come again?"
+
+# game/code/d17/d17s02.rpy:153
+translate russian replay_d17s02_5337f0ea:
+
+    # vw "I want you to teach me how to be submissive."
+    vw "I want you to teach me how to be submissive."
+
+# game/code/d17/d17s02.rpy:154
+translate russian replay_d17s02_01940f90:
+
+    # vw "I know, I know, but I learn best by doing. And one of the things I like most is..."
+    vw "I know, I know, but I learn best by doing. And one of the things I like most is..."
+
+# game/code/d17/d17s02.rpy:156
+translate russian replay_d17s02_0f70ad37:
+
+    # mc "Sex?"
+    mc "Sex?"
+
+# game/code/d17/d17s02.rpy:157
+translate russian replay_d17s02_5dfa3cab:
+
+    # vw "Yes."
+    vw "Yes."
+
+# game/code/d17/d17s02.rpy:159
+translate russian replay_d17s02_b44e752d:
+
+    # mc "Okay, so... Let me get this straight.{w} You want me to dominate you so that you can learn to be more \"submissive\" in your personal relationships and give people more control."
+    mc "Okay, so... Let me get this straight.{w} You want me to dominate you so that you can learn to be more \"submissive\" in your personal relationships and give people more control."
+
+# game/code/d17/d17s02.rpy:161
+translate russian replay_d17s02_5df320ab:
+
+    # vw "You don't have to make it sound that weird!"
+    vw "You don't have to make it sound that weird!"
+
+# game/code/d17/d17s02.rpy:162
+translate russian replay_d17s02_1341cebf:
+
+    # vw "I'm trying to learn the best way I know how."
+    vw "I'm trying to learn the best way I know how."
+
+# game/code/d17/d17s02.rpy:166
+translate russian replay_d17s02_cdd0b035:
+
+    # mc "I'm sorry, you're right. I didn't mean to make fun of you or anything."
+    mc "I'm sorry, you're right. I didn't mean to make fun of you or anything."
+
+# game/code/d17/d17s02.rpy:168
+translate russian replay_d17s02_7ee9cf6f:
+
+    # mct "But it {i}is{/i} a bit weird."
+    mct "But it {i}is{/i} a bit weird."
+
+# game/code/d17/d17s02.rpy:170
+translate russian replay_d17s02_cd16eeee:
+
+    # mc "Still, I'm down to do it."
+    mc "Still, I'm down to do it."
+
+# game/code/d17/d17s02.rpy:172
+translate russian replay_d17s02_51a5f091:
+
+    # vw "Great! You can be a little rough with me, I don't mind."
+    vw "Great! You can be a little rough with me, I don't mind."
+
+# game/code/d17/d17s02.rpy:174
+translate russian replay_d17s02_83419b0f:
+
+    # mct "Probably shouldn't go too hard on her first go."
+    mct "Probably shouldn't go too hard on her first go."
+
+# game/code/d17/d17s02.rpy:175
+translate russian replay_d17s02_2bc216d6:
+
+    # mct "Hm... What should I make her do to teach her submission?"
+    mct "Hm... What should I make her do to teach her submission?"
+
+# game/code/d17/d17s02.rpy:177
+translate russian replay_d17s02_b323a4ae:
+
+    # vw "Hey, sexy."
+    vw "Hey, sexy."
+
+# game/code/d17/d17s02.rpy:179
+translate russian replay_d17s02_dbd3ea4e:
+
+    # vw "You never make me wait long."
+    vw "You never make me wait long."
+
+# game/code/d17/d17s02.rpy:181
+translate russian replay_d17s02_76a1e1a2:
+
+    # mc "Well, you certainly have a persuasive way about you."
+    mc "Well, you certainly have a persuasive way about you."
+
+# game/code/d17/d17s02.rpy:183
+translate russian replay_d17s02_20db13e2:
+
+    # vw "Mm, do I now?"
+    vw "Mm, do I now?"
+
+# game/code/d17/d17s02.rpy:184
+translate russian replay_d17s02_a01a3759:
+
+    # vw "I missed you.{w} Let me make you feel good today."
+    vw "I missed you.{w} Let me make you feel good today."
+
+# game/code/d17/d17s02.rpy:185
+translate russian replay_d17s02_cbfe82a9:
+
+    # vw "I want you to let loose."
+    vw "I want you to let loose."
+
+# game/code/d17/d17s02.rpy:191
+translate russian replay_d17s02_29876a0a:
+
+    # mc "Let loose? You sure you can handle me?"
+    mc "Let loose? You sure you can handle me?"
+
+# game/code/d17/d17s02.rpy:193
+translate russian replay_d17s02_4e328013:
+
+    # vw "Try me. I'm not a delicate thing."
+    vw "Try me. I'm not a delicate thing."
+
+# game/code/d17/d17s02.rpy:195
+translate russian replay_d17s02_507df855:
+
+    # vw "Let me jerk you off with my feet."
+    vw "Let me jerk you off with my feet."
+
+# game/code/d17/d17s02.rpy:196
+translate russian replay_d17s02_1cb65248:
+
+    # vw "I know you like that."
+    vw "I know you like that."
+
+# game/code/d17/d17s02.rpy:198
+translate russian replay_d17s02_931ce48f:
+
+    # mc "A tempting offer..."
+    mc "A tempting offer..."
+
+# game/code/d17/d17s02.rpy:344
+translate russian d17s02_vw_fucking_e35203c6:
+
+    # mc "I'm going to fuck you into the table, and you're going to take it. Understood?"
+    mc "I'm going to fuck you into the table, and you're going to take it. Understood?"
+

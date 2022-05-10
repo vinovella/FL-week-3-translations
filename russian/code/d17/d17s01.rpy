@@ -1738,3 +1738,11 @@ translate russian strings:
     old "Decline"
     new "Пропустить"
 
+# TODO: Translation updated at 2022-05-10 20:00
+
+# game/code/d17/d17s01.rpy:562
+translate russian d17s01_anal_sex_69616fc6:
+
+    # arj "Feels like you're knee deep in my colon."
+    arj "Feels like you're knee deep in my colon."
+

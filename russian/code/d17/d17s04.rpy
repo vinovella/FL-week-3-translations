@@ -1240,3 +1240,11 @@ translate russian strings:
     old "Refuse"
     new "Отказаться"
 
+# TODO: Translation updated at 2022-05-10 20:00
+
+# game/code/d17/d17s04.rpy:43
+translate russian d17s04_538722ec:
+
+    # "After a short journey by bus"
+    "After a short journey by bus"
+

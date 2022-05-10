@@ -780,3 +780,11 @@ translate russian d16s06_89a8c10f:
     # flr "You have earned [d16s06_points] points."
     flr "Вы заработали [d16s06_points] очков."
 
+# TODO: Translation updated at 2022-05-10 20:00
+
+# game/code/d16/d16s06.rpy:595
+translate russian d16s06_d7755542:
+
+    # aw "*Laughs* \"Emotions\" huh? Well, I'm sure glad I got to experience it."
+    aw "*Laughs* \"Emotions\" huh? Well, I'm sure glad I got to experience it."
+
