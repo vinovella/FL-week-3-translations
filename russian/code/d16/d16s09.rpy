@@ -70,7 +70,7 @@ translate russian d16s09_f49fff8f:
 translate russian d16s09_5818326f:
 
     # nk "There you go!"
-    nk "Вот ты где!"
+    nk "Вуаля!"
 
 # game/code/d16/d16s09.rpy:55
 translate russian d16s09_04a8f54f:
@@ -172,7 +172,7 @@ translate russian d16s09_f33505a0:
 translate russian d16s09_f04bac6b:
 
     # mc "Soon enough.{w} Let's get out of here."
-    mc "Достаточно скоро. {w}Давай убираться отсюда."
+    mc "Совсем скоро. {w}Давай убираться отсюда."
 
 # game/code/d16/d16s09.rpy:85
 translate russian d16s09_0457ec52:

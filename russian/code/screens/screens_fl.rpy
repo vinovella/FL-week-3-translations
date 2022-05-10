@@ -177,4 +177,3 @@ translate russian strings:
     # game/code/screens/screens_fl.rpy:947
     old "Did you let Pete hit on Samiya?"
     new "Вы позволили Питу остаться с Самией?"
-

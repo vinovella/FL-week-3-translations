@@ -2158,7 +2158,7 @@ translate russian d15s01_end_aea53fd2:
 translate russian d15s01_end_4ff2e68d:
 
     # nk "Oh good. I really ... {w}I really want to see you. To speak with you."
-    nk "О, хорошо. Я действительно... {w}Действительно хочу тебя увидеть. Чтобы поговорить с тобой."
+    nk "О, хорошо. Я действительно... {w}Действительно хочу тебя увидеть. Нужно поговорить с тобой."
 
 # game/code/d15/d15s01.rpy:1136
 translate russian d15s01_end_96235f48:

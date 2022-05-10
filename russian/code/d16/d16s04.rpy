@@ -868,13 +868,13 @@ translate russian d16s04_c48fb477:
 translate russian d16s04_3af1155b:
 
     # mc "Don't freak out. It's just I need to do this right now."
-    mc "Не пугайся. Просто мне нужно сделать это прямо сейчас."
+    mc "Не пугайся. Просто мне нужно было сделать это прямо сейчас."
 
 # game/code/d16/d16s04.rpy:313
 translate russian d16s04_c0374efa:
 
     # kb "Alright...?"
-    kb "Хорошо...?"
+    kb "Ладно...?"
 
 # game/code/d16/d16s04.rpy:315
 translate russian d16s04_cc12458d:
@@ -898,7 +898,7 @@ translate russian d16s04_c6fdd931:
 translate russian d16s04_a72857c3:
 
     # mc "You talking about the Gold Stars made me think and uh... yep."
-    mc "Твой рассказ о Золотых Звездах заставил меня задуматься и... ага."
+    mc "Твой рассказ о Золотых Звездах заставил меня задуматься и... да."
 
 # game/code/d16/d16s04.rpy:320
 translate russian d16s04_579a9020:
@@ -946,13 +946,13 @@ translate russian d16s04_2b35b6fe_1:
 translate russian d16s04_e56c3d00:
 
     # mc "Yeah, sure, alright. Here."
-    mc "Да, конечно, ладно. Вот."
+    mc "Да, конечно. Вот."
 
 # game/code/d16/d16s04.rpy:342
 translate russian d16s04_9d8390ca:
 
     # kb "Thanks man."
-    kb "Спасибо."
+    kb "Спасибо чувак."
 
 # game/code/d16/d16s04.rpy:344
 translate russian d16s04_cccf76b8:
@@ -1000,7 +1000,7 @@ translate russian d16s04_5592b726:
 translate russian d16s04_d498c6b3:
 
     # mct "I think it's best if I wait it out."
-    mct "Думаю, будет лучше, если я подожду это."
+    mct "Думаю, будет лучше, если я подожду с этим."
 
 # game/code/d16/d16s04.rpy:366
 translate russian d16s04_51194012:

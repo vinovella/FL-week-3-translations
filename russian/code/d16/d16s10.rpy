@@ -136,7 +136,7 @@ translate russian d16s10_97083a85:
 translate russian d16s10_36b1da51:
 
     # arj "I absolutely loved Vice City when I was a kid. Didn't really get into the ones after that."
-    arj "Когда был ребенком, мне очень понравилась Vice City. После этого я по-настоящему не вникала в другие игры."
+    arj "Когда я была еще ребенком, мне очень понравилась Vice City. После этого я по-настоящему не вникала в другие игры."
 
 # game/code/d16/d16s10.rpy:63
 translate russian d16s10_663fe16d:

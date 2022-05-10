@@ -268,23 +268,23 @@ translate russian strings:
     old "Not right now"
     new "Не сейчас"
 
-# TODO: Translation updated at 2022-02-15 16:23
+# TODO: Translation updated at 2022-04-11 19:23
 
 # game/code/d16/d16s02.rpy:55
 translate russian d16s02_4f3aca5a:
 
     # fl "Ensnare and enrapture. Some are far better at it than others."
-    fl "Ensnare and enrapture. Some are far better at it than others."
+    fl "Соблазнять и очаровывать. У некоторых это получается гораздо лучше, чем у других."
 
 # game/code/d16/d16s02.rpy:56
 translate russian d16s02_c543ffcb:
 
     # fl "{i}Cunnilingus{/i} is our Fetish of the Day."
-    fl "{i}Cunnilingus{/i} is our Fetish of the Day."
+    fl "{i}Куннилингус{/i} - наш фетиш дня."
 
 # game/code/d16/d16s02.rpy:57
 translate russian d16s02_71e9aca5:
 
     # fl "How will {i}you{/i} fare?"
-    fl "How will {i}you{/i} fare?"
+    fl "Как {i}ты{/i} справишься?"
 
