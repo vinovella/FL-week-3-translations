@@ -82,7 +82,7 @@ translate malay d17s03_94524693:
 translate malay d17s03_0ee986a9:
 
     # ir "Yup. Going on about a year now."
-    ir "Yup. "Anda seorang pelayan bar, kan?"
+    ir "Yup. Anda seorang pelayan bar, kan?"
 
 # game/code/d17/d17s03.rpy:36
 translate malay d17s03_77749042:
@@ -605,7 +605,7 @@ translate malay d17s03_02767222:
 
     # ir "Yeah, well, I always had Hana and her family. Even after her parents divorced, they both stayed close with us."
     ir "Yeah, aku selalu ada Hana dan keluarganya. Walaupun selepas ibu bapanya bercerai, mereka berdua tetap rapat dengan kami."
-    
+
 # game/code/d17/d17s03.rpy:212
 translate malay d17s03_cea2f1fd:
 
@@ -718,7 +718,7 @@ translate malay d17s03_9c0afb95:
 translate malay d17s03_8f64fa6b:
 
     # ir "What?! No!{w} Hell no!"
-    ir "Apa?! {W}WOI! {w}Tak! {w}Tidak!"
+    ir "Apa?!{w} WOI!{w} Tak!{w} Tidak!"
 
 # game/code/d17/d17s03.rpy:249
 translate malay d17s03_580b897a:
@@ -965,4 +965,3 @@ translate malay d17s03_2051d66a:
 
     # mc "Understood."
     mc "{i}Arahan diterima, puan!{/i}"
-
