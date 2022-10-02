@@ -4,7 +4,7 @@
 translate chinese d15s01_6dca3502:
 
     # "female voice" "Wake up. Breakfast is almost ready."
-    "female voice" "Wake up. Breakfast is almost ready."
+    "女声" "Wake up. Breakfast is almost ready."
 
 # game/code/d15/d15s01.rpy:174
 translate chinese d15s01_89d29ebf:
