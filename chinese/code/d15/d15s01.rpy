@@ -4,253 +4,253 @@
 translate chinese d15s01_6dca3502:
 
     # "female voice" "Wake up. Breakfast is almost ready."
-    "女声" "Wake up. Breakfast is almost ready."
+    "女声" "起床了。早餐快好了。"
 
 # game/code/d15/d15s01.rpy:174
 translate chinese d15s01_89d29ebf:
 
     # mc "Mom?"
-    mc "Mom?"
+    mc "老妈?"
 
 # game/code/d15/d15s01.rpy:181
 translate chinese d15s01_a659dd9d:
 
     # arj "Ha! No. Wake up, [mcname]. It's AmRose."
-    arj "Ha! No. Wake up, [mcname]. It's AmRose."
+    arj "哈！才怪。醒醒吧，[mcname]。我是爱洛丝。"
 
 # game/code/d15/d15s01.rpy:183
 translate chinese d15s01_59f5b92b:
 
     # mc "AmRose?"
-    mc "AmRose?"
+    mc "爱洛丝？"
 
 # game/code/d15/d15s01.rpy:186
 translate chinese d15s01_ed0f703a:
 
     # arj "Yes, AmRose. You know, your secret girlfriend?"
-    arj "Yes, AmRose. You know, your secret girlfriend?"
+    arj "没错，爱洛丝。认出你的秘密女友了没？"
 
 # game/code/d15/d15s01.rpy:188
 translate chinese d15s01_0970e0eb:
 
     # arj "Yes, AmRose. You know, your personal sex slave?"
-    arj "Yes, AmRose. You know, your personal sex slave?"
+    arj "没错，爱洛丝。认出你的私人性奴了没？"
 
 # game/code/d15/d15s01.rpy:192
 translate chinese d15s01_21c1e969:
 
     # mc "Oh, hey AmRose. What's up?"
-    mc "Oh, hey AmRose. What's up?"
+    mc "啊哈，是你呀，爱洛丝。有什么事吗？"
 
 # game/code/d15/d15s01.rpy:195
 translate chinese d15s01_3c39de12:
 
     # arj "Lydia's downstairs making breakfast. I'm heading down too. Get your ass out of bed and join us."
-    arj "Lydia's downstairs making breakfast. I'm heading down too. Get your ass out of bed and join us."
+    arj "莉迪亚在楼下做早餐。我也要下去了。劳驾挪下贵臀，加入我们。"
 
 # game/code/d15/d15s01.rpy:199
 translate chinese d15s01_546d00c0:
 
     # mc "I'll be right there."
-    mc "I'll be right there."
+    mc "我马上就来。"
 
 # game/code/d15/d15s01.rpy:200
 translate chinese d15s01_dbd1a0f1:
 
     # mct "Was she naked? {w}Why was she naked?"
-    mct "Was she naked? {w}Why was she naked?"
+    mct "她是裸着的？{w}为什么她没穿衣服？"
 
 # game/code/d15/d15s01.rpy:206
 translate chinese d15s01_98c8094a:
 
     # mc "Has anyone seen my clothes?"
-    mc "Has anyone seen my clothes?"
+    mc "有人看到我衣服了吗？"
 
 # game/code/d15/d15s01.rpy:209
 translate chinese d15s01_76c15206:
 
     # arj "You'll get them back after breakfast."
-    arj "You'll get them back after breakfast."
+    arj "吃完早饭就会还给你的。"
 
 # game/code/d15/d15s01.rpy:214
 translate chinese d15s01_e3ab8b2c:
 
     # mc "Where's Stacy?"
-    mc "Where's Stacy?"
+    mc "史黛西在哪？"
 
 # game/code/d15/d15s01.rpy:217
 translate chinese d15s01_87b33273:
 
     # arj "She woke me up before dawn, saying she wanted to get back to her apartment."
-    arj "She woke me up before dawn, saying she wanted to get back to her apartment."
+    arj "天还没亮她就把我叫醒了，说她要回公寓了。"
 
 # game/code/d15/d15s01.rpy:220
 translate chinese d15s01_f0327cb9:
 
     # mc "Weird. Did she seem okay?"
-    mc "Weird. Did she seem okay?"
+    mc "奇怪。她看起来还好吗？"
 
 # game/code/d15/d15s01.rpy:223
 translate chinese d15s01_3688fcec:
 
     # arj "She said she couldn't sleep well in a strange bed. Other than that she seemed cheerful."
-    arj "She said she couldn't sleep well in a strange bed. Other than that she seemed cheerful."
+    arj "除了她说很认床，在陌生的床上睡不好之外，其余看起来挺开心的。"
 
 # game/code/d15/d15s01.rpy:225
 translate chinese d15s01_0f457a8b:
 
     # mc "Huh. Okay..."
-    mc "Huh. Okay..."
+    mc "好吧..."
 
 # game/code/d15/d15s01.rpy:227
 translate chinese d15s01_3c91d149:
 
     # mc "And where is Ly-"
-    mc "And where is Ly-"
+    mc "那莉--在哪..."
 
 # game/code/d15/d15s01.rpy:231
 translate chinese d15s01_e2435341:
 
     # mc "Where is Ly-"
-    mc "Where is Ly-"
+    mc "莉--在哪..."
 
 # game/code/d15/d15s01.rpy:242
 translate chinese d15s01_00a0358d:
 
     # mc "Why is everyone naked?"
-    mc "Why is everyone naked?"
+    mc "大家怎么都裸着？"
 
 # game/code/d15/d15s01.rpy:245
 translate chinese d15s01_a77cb4fc:
 
     # arj "We figured it would make you more comfortable."
-    arj "We figured it would make you more comfortable."
+    arj "我们觉得这样会让你更舒服。"
 
 # game/code/d15/d15s01.rpy:249
 translate chinese d15s01_d5c07c74:
 
     # lc "I objected, but eventually AmRose convinced me."
-    lc "I objected, but eventually AmRose convinced me."
+    lc "我本来是反对的，但最后爱洛丝说服了我。"
 
 # game/code/d15/d15s01.rpy:252
 translate chinese d15s01_06a35ef6:
 
     # mc "Okay. {w}Um, thanks."
-    mc "Okay. {w}Um, thanks."
+    mc "好吧，{w}呃，谢了。"
 
 # game/code/d15/d15s01.rpy:255
 translate chinese d15s01_3efcbc46:
 
     # arj " I thought you would like both of your ladies making you breakfast naked!"
-    arj " I thought you would like both of your ladies making you breakfast naked!"
+    arj "我觉得你会喜欢我们两位女士光着为你做早餐！"
 
 # game/code/d15/d15s01.rpy:257
 translate chinese d15s01_07831e80:
 
     # mc "Yea, that is great!"
-    mc "Yea, that is great!"
+    mc "没错，再棒不过了！"
 
 # game/code/d15/d15s01.rpy:260
 translate chinese d15s01_6bc01f45:
 
     # lc "There's a package on the table for you."
-    lc "There's a package on the table for you."
+    lc "桌子上有个给你的包裹。"
 
 # game/code/d15/d15s01.rpy:264
 translate chinese d15s01_def0ad19:
 
     # mc "What is it?"
-    mc "What is it?"
+    mc "是什么？"
 
 # game/code/d15/d15s01.rpy:267
 translate chinese d15s01_5edc49c6:
 
     # lc "Just a box. It was delivered here this morning. Addressed to you."
-    lc "Just a box. It was delivered here this morning. Addressed to you."
+    lc "就是个盒子。今天早上送来的，写着是寄给你的。"
 
 # game/code/d15/d15s01.rpy:270
 translate chinese d15s01_0a0d77b3:
 
     # arj "I took a look already...{w} Not sure what that is."
-    arj "I took a look already...{w} Not sure what that is."
+    arj "我瞄了一眼...{w}不确定是什么东西。"
 
 # game/code/d15/d15s01.rpy:273
 translate chinese d15s01_08a86e16:
 
     # mc "Weird. {w}Well, I guess I better open it."
-    mc "Weird. {w}Well, I guess I better open it."
+    mc "奇怪啊。{w}我觉得最好还是打开看看。"
 
 # game/code/d15/d15s01.rpy:283
 translate chinese d15s01_36d95df8:
 
     # lc "What's inside?"
-    lc "What's inside?"
+    lc "里面是什么？"
 
 # game/code/d15/d15s01.rpy:286
 translate chinese d15s01_86e5d603:
 
     # mc "There's a note {w}and two... um{w}, devices."
-    mc "There's a note {w}and two... um{w}, devices."
+    mc "有一张纸条{w}和两个...呃{w}, 设备。"
 
 # game/code/d15/d15s01.rpy:290
 translate chinese d15s01_2428af12:
 
     # arj "What kind of devices?"
-    arj "What kind of devices?"
+    arj "什么设备？"
 
 # game/code/d15/d15s01.rpy:294
 translate chinese d15s01_532ce8e3:
 
     # mc "I think they're penis cages."
-    mc "I think they're penis cages."
+    mc "我想它们是阴茎笼。"
 
 # game/code/d15/d15s01.rpy:297
 translate chinese d15s01_fc1200af:
 
     # arj "Oh, good."
-    arj "Oh, good."
+    arj "哦，还好。"
 
 # game/code/d15/d15s01.rpy:300
 translate chinese d15s01_12ce22dd:
 
     # lc "Why is that good?"
-    lc "Why is that good?"
+    lc "为什么这算还好？"
 
 # game/code/d15/d15s01.rpy:303
 translate chinese d15s01_077e55b0:
 
     # arj "I was afraid it would be something much worse."
-    arj "I was afraid it would be something much worse."
+    arj "我担心会是更糟的东西。"
 
 # game/code/d15/d15s01.rpy:310
 translate chinese d15s01_menu1_8fea2db2:
 
     # mc "Hmm..."
-    mc "Hmm..."
+    mc "嗯..."
 
 # game/code/d15/d15s01.rpy:337
 translate chinese d15s01_readnote_2e56de0b:
 
     # "The box. You opened it. The timer has started."
-    "The box. You opened it. The timer has started."
+    "那个盒子。你打开它后，计时器就开始了。"
 
 # game/code/d15/d15s01.rpy:338
 translate chinese d15s01_readnote_00434c3b:
 
     # "You have 5 minutes to enter your selection in the app and 30 minutes to become caged."
-    "You have 5 minutes to enter your selection in the app and 30 minutes to become caged."
+    "你有5分钟时间在软件中输入你的选择，然后被关起来30分钟。"
 
 # game/code/d15/d15s01.rpy:339
 translate chinese d15s01_readnote_8ec8a013:
 
     # "These twin cages are almost identical, but your choice will have a drastic impact on your life."
-    "These twin cages are almost identical, but your choice will have a drastic impact on your life."
+    "这两个笼子几乎一模一样，但你的选择将给生活带来巨大影响。"
 
 # game/code/d15/d15s01.rpy:340
 translate chinese d15s01_readnote_df478242:
 
     # "The first is known as Love Conquers the cage. I commend this cage to you, if you are weak in will and hold fast to your humanity."
-    "The first is known as Love Conquers the cage. I commend this cage to you, if you are weak in will and hold fast to your humanity."
+    "第一个被称为爱的征服之笼。如果你意志薄弱，想克服缺点，我建议你选这个笼子。"
 
 # game/code/d15/d15s01.rpy:341
 translate chinese d15s01_readnote_835e8f24:
