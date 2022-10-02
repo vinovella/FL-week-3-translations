@@ -256,493 +256,493 @@ translate chinese d15s01_readnote_df478242:
 translate chinese d15s01_readnote_835e8f24:
 
     # "The second is called the Needlessly Tight Restriction. This I commend for those safe in their manhood, or willing to risk being traumatized."
-    "The second is called the Needlessly Tight Restriction. This I commend for those safe in their manhood, or willing to risk being traumatized."
+    "第二个笼子被称为无谓的限制。这个我推荐给那些对自己的男人身份感到安全，或者愿意冒受伤风险的人尝试。"
 
 # game/code/d15/d15s01.rpy:342
 translate chinese d15s01_readnote_2151a859:
 
     # "Failure to obey would be considered ungrateful."
-    "Failure to obey would be considered ungrateful."
+    "不服从将被视为不知好歹。"
 
 # game/code/d15/d15s01.rpy:343
 translate chinese d15s01_readnote_ba7b3e0f:
 
     # "The cage will be replacing your Fetish Tracker."
-    "The cage will be replacing your Fetish Tracker."
+    "笼子将取代你的性趣探测器。"
 
 # game/code/d15/d15s01.rpy:344
 translate chinese d15s01_readnote_80120b22:
 
     # "Perform enough perverse acts to prove yourself worthy of being free."
-    "Perform enough perverse acts to prove yourself worthy of being free."
+    "表现足够多的变态行为来证明自己值得获得自由。"
 
 # game/code/d15/d15s01.rpy:356
 translate chinese d15s01_thoughts_LC_04686833:
 
     # mct "Love conquers the cage. Strange. I wonder what that means."
-    mct "Love conquers the cage. Strange. I wonder what that means."
+    mct "爱的征服之笼。名字有点怪啊。我想知道这是什么意思。"
 
 # game/code/d15/d15s01.rpy:358
 translate chinese d15s01_thoughts_LC_ca0a9de5:
 
     # mct "It reminds me of that \"Love Conquers All\" cut of \"Brazil\", where they chopped off the final minutes of the movie."
-    mct "It reminds me of that \"Love Conquers All\" cut of \"Brazil\", where they chopped off the final minutes of the movie."
+    mct "这让我想起了电影\"巴西\"的那个\"爱征服一切\"的剪辑，他们剪掉了电影的最后几分钟。"
 
 # game/code/d15/d15s01.rpy:359
 translate chinese d15s01_thoughts_LC_ce95388b:
 
     # mct "Executives thought that audiences couldn't handle a dark psychological ending, so they cut the film to be a romance - even though that ruined the director's intention."
-    mct "Executives thought that audiences couldn't handle a dark psychological ending, so they cut the film to be a romance - even though that ruined the director's intention."
+    mct "高管们觉得观众无法接受黑暗的心理结局，所以他们把影片剪成了一部爱情片--尽管这背离了导演的初衷。"
 
 # game/code/d15/d15s01.rpy:361
 translate chinese d15s01_thoughts_LC_d78280ea:
 
     # mct "It seems like Studio Executives do that all the time - changing a film to make it appeal to a wider audience."
-    mct "It seems like Studio Executives do that all the time - changing a film to make it appeal to a wider audience."
+    mct "电影公司的高管们似乎一直都是这样--以吸引更多观众之名，修改一部电影。"
 
 # game/code/d15/d15s01.rpy:364
 translate chinese d15s01_thoughts_LC_2fbeeb00:
 
     # mct "I'm not sure what that could possibly have to do with a cock cage..."
-    mct "I'm not sure what that could possibly have to do with a cock cage..."
+    mct "不知道这和鸡笼有什么关系..."
 
 # game/code/d15/d15s01.rpy:365
 translate chinese d15s01_thoughts_LC_a9db4751:
 
     # mct "Love conquers the cage. Think about the name and what the note said."
-    mct "Love conquers the cage. Think about the name and what the note said."
+    mct "爱的征服之笼。就这个名字和纸条的内容来看..."
 
 # game/code/d15/d15s01.rpy:367
 translate chinese d15s01_thoughts_LC_8f6b4117:
 
     # mct "This will have a drastic impact on my life. Love conquers..."
-    mct "This will have a drastic impact on my life. Love conquers..."
+    mct "会给我的生活带来巨大影响。爱的征服..."
 
 # game/code/d15/d15s01.rpy:368
 translate chinese d15s01_thoughts_LC_afea8bd8:
 
     # mct "This clearly seems like the safer choice, but might not be the best option for me."
-    mct "This clearly seems like the safer choice, but might not be the best option for me."
+    mct "这个选项显然更安全，但对我来说可能不是最佳选择。"
 
 # game/code/d15/d15s01.rpy:380
 translate chinese d15s01_thoughts_NTR_b8daeb45:
 
     # mct "Needlessly Tight Restriction. The Needlessly Tight Restriction."
-    mct "Needlessly Tight Restriction. The Needlessly Tight Restriction."
+    mct "无谓的限制。无谓的限制。"
 
 # game/code/d15/d15s01.rpy:383
 translate chinese d15s01_thoughts_NTR_1ed699b0:
 
     # mct "There's a clue in there somewhere...{w} There's gotta be. hmm..."
-    mct "There's a clue in there somewhere...{w} There's gotta be. hmm..."
+    mct "这里面一定有线索...{w}应该是有的。我看看..."
 
 # game/code/d15/d15s01.rpy:385
 translate chinese d15s01_thoughts_NTR_66c12cfc:
 
     # mct "Maybe something about the letters? {w}N.T.R. {w}En Tee Arrr. {w}Enter? {# Don't translate NTR it is a name of the fetish#}"
-    mct "Maybe something about the letters? {w}N.T.R. {w}En Tee Arrr. {w}Enter? {# Don't translate NTR it is a name of the fetish#}"
+    mct "是这些字母吗？w}N.T.R. {w}N, T, R.{w}Enter? 输入？ {# Don't translate NTR it is a name of the fetish#}"
 
 # game/code/d15/d15s01.rpy:386
 translate chinese d15s01_thoughts_NTR_7a02c46f:
 
     # mct "What does it want me to enter? {w}No, that's stupid. What the hell am I thinking?"
-    mct "What does it want me to enter? {w}No, that's stupid. What the hell am I thinking?"
+    mct "它要我输入什么？{w}不，这太傻了。我想什么呢？"
 
 # game/code/d15/d15s01.rpy:388
 translate chinese d15s01_thoughts_NTR_87b9dc8f:
 
     # mct "This is clearly the more dangerous option, but you know what they say..."
-    mct "This is clearly the more dangerous option, but you know what they say..."
+    mct "这个选择显然风险更高，但人们常说..."
 
 # game/code/d15/d15s01.rpy:390
 translate chinese d15s01_thoughts_NTR_3cd0ce1c:
 
     # mct "Sometimes you just gotta catch the tail by the tiger and grab the horns by the bull."
-    mct "Sometimes you just gotta catch the tail by the tiger and grab the horns by the bull."
+    mct "有时你需要抓住老虎的尾巴，公牛的角。"
 
 # game/code/d15/d15s01.rpy:400
 translate chinese d15s01_cagedecision_96a1c094:
 
     # mc "Alright, I've decided."
-    mc "Alright, I've decided."
+    mc "好吧，我决定了。"
 
 # game/code/d15/d15s01.rpy:403
 translate chinese d15s01_cagedecision_a9be34fe:
 
     # arj "Decided on which one?"
-    arj "Decided on which one?"
+    arj "选哪一个？"
 
 # game/code/d15/d15s01.rpy:406
 translate chinese d15s01_cagedecision_ecc974f8:
 
     # mc "This is just too much. I'm not going to do it."
-    mc "This is just too much. I'm not going to do it."
+    mc "这对我来说实在太过分了。我不会参与的。
 
 # game/code/d15/d15s01.rpy:408
 translate chinese d15s01_cagedecision_025138ba:
 
     # arj "You can't do that! It would-"
-    arj "You can't do that! It would-"
+    arj "你不能这样！它会--"
 
 # game/code/d15/d15s01.rpy:410
 translate chinese d15s01_cagedecision_dc4db0c7:
 
     # mc "I know, I know, but..."
-    mc "I know, I know, but..."
+    mc "我知道，我都知道，但是..."
 
 # game/code/d15/d15s01.rpy:413
 translate chinese d15s01_cagedecision_daf1ca7b:
 
     # lc "It would what? {w}AmRose, what do you mean?"
-    lc "It would what? {w}AmRose, what do you mean?"
+    lc "会怎么样？{w}爱洛丝，你能说完吗？"
 
 # game/code/d15/d15s01.rpy:416
 translate chinese d15s01_cagedecision_b479318b:
 
     # arj "Oh, um... {w}I just meant that it would be against the rules of the game."
-    arj "Oh, um... {w}I just meant that it would be against the rules of the game."
+    arj "啊，呃...{w}我的意思是，这样会违反游戏规则。"
 
 # game/code/d15/d15s01.rpy:419
 translate chinese d15s01_cagedecision_561f5897:
 
     # lc "Oh, okay. {w}Rules are important."
-    lc "Oh, okay. {w}Rules are important."
+    lc "哦，好吧。{w}规则的确很重要。"
 
 # game/code/d15/d15s01.rpy:423
 translate chinese d15s01_cagedecision_3c26bf6b:
 
     # mc "Look, I'm just saying this is too much. This is going too far. I'm not doing it."
-    mc "Look, I'm just saying this is too much. This is going too far. I'm not doing it."
+    mc "听着，我只是说这样太过分了。真的不合适。我拒绝加入。"
 
 # game/code/d15/d15s01.rpy:427
 translate chinese d15s01_cagedecision_0dea2f11:
 
     # arj "I get that. I really really do, but this isn't just about you, ya'know?"
-    arj "I get that. I really really do, but this isn't just about you, ya'know?"
+    arj "我明白。我真的懂你的意思，但这事不仅仅关乎你，你想过吗？"
 
 # game/code/d15/d15s01.rpy:428
 translate chinese d15s01_cagedecision_4f1d505f:
 
     # arj "If you stop playing the game, then everybody {i}on our team{/i} loses."
-    arj "If you stop playing the game, then everybody {i}on our team{/i} loses."
+    arj "如果你退出，那{i}我们队里的{/i} 每个人都会输。"
 
 # game/code/d15/d15s01.rpy:431
 translate chinese d15s01_cagedecision_7e36f4f4:
 
     # mc "Shit, I know. I don't want to disappoint you or anyone else, but-"
-    mc "Shit, I know. I don't want to disappoint you or anyone else, but-"
+    mc "妈的，我知道。我不想让你还有其他人失望，但是--"
 
 # game/code/d15/d15s01.rpy:433
 translate chinese d15s01_cagedecision_ff627007:
 
     # mc "Shit, I know. I don't want to hurt you or anyone else, but-"
-    mc "Shit, I know. I don't want to hurt you or anyone else, but-"
+    mc "妈的，我知道。我不想伤害你还有其他人，但是--"
 
 # game/code/d15/d15s01.rpy:438
 translate chinese d15s01_cagedecision_78ba19ce:
 
     # lc "Then don't."
-    lc "Then don't."
+    lc "那就不要这样。"
 
 # game/code/d15/d15s01.rpy:440
 translate chinese d15s01_cagedecision_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/d15/d15s01.rpy:443
 translate chinese d15s01_cagedecision_a3c5d05f:
 
     # lc "You failed once. You failed a challenge. And now you want to give up? You want to just quit the game?"
-    lc "You failed once. You failed a challenge. And now you want to give up? You want to just quit the game?"
+    lc "你已经失败过一次。你之前做挑战失败了，现在还想放弃吗？你想直接退出游戏？"
 
 # game/code/d15/d15s01.rpy:446
 translate chinese d15s01_cagedecision_3ab92e4b:
 
     # lc "Think about how many people turned up and put out for you the last few days. Think about them."
-    lc "Think about how many people turned up and put out for you the last few days. Think about them."
+    lc "想想看，在过去的几天里，有多少人为你挺身而出。想想他们。"
 
 # game/code/d15/d15s01.rpy:448
 translate chinese d15s01_cagedecision_959126b6:
 
     # lc "Do you think they wanted you to fail? Do you think they want you to just give up?"
-    lc "Do you think they wanted you to fail? Do you think they want you to just give up?"
+    lc "你觉得他们希望你失败吗？他们希望你就这样放弃吗？"
 
 # game/code/d15/d15s01.rpy:450
 translate chinese d15s01_cagedecision_89673278:
 
     # lc "I don't know the rules of this game or who's on your team, but I'll tell you what I do know."
-    lc "I don't know the rules of this game or who's on your team, but I'll tell you what I do know."
+    lc "我不知道这个游戏的规则，也不知道你团队里都有谁，但我告诉你我知道什么。"
 
 # game/code/d15/d15s01.rpy:452
 translate chinese d15s01_cagedecision_dab0deea:
 
     # lc "I know that you can do this. I know that you have a ton of people rooting for you."
-    lc "I know that you can do this. I know that you have a ton of people rooting for you."
+    lc "我知道你能做到的。我知道有一大批人站在你身后。."
 
 # game/code/d15/d15s01.rpy:455
 translate chinese d15s01_cagedecision_5c07c7a4:
 
     # lc "If you are going to lose this game, it won't be because you weren't up for the challenge, or because you quit and gave up."
-    lc "If you are going to lose this game, it won't be because you weren't up for the challenge, or because you quit and gave up."
+    lc "如果要输掉这场比赛，那也不会是因为你没准备好迎接挑战，更不会是因为你想退出。"
 
 # game/code/d15/d15s01.rpy:456
 translate chinese d15s01_cagedecision_fd6fc90b:
 
     # lc "You lost a challenge. Sure, you're feeling down and disappointed with yourself."
-    lc "You lost a challenge. Sure, you're feeling down and disappointed with yourself."
+    lc "你输了一场挑战。你感到沮丧，对自己失望，这都很正常。"
 
 # game/code/d15/d15s01.rpy:459
 translate chinese d15s01_cagedecision_019a10bc:
 
     # lc "Well you know what? Shit happens. Deal with it; Man up; Soldier on. You can do this."
-    lc "Well you know what? Shit happens. Deal with it; Man up; Soldier on. You can do this."
+    lc "那然后呢？破烂事总上赶着来。面对它；振作起来；继续战斗。你可以做到的。"
 
 # game/code/d15/d15s01.rpy:462
 translate chinese d15s01_cagedecision_db581ccd:
 
     # arj "Wow."
-    arj "Wow."
+    arj "哇。"
 
 # game/code/d15/d15s01.rpy:464
 translate chinese d15s01_cagedecision_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "你说得对。"
 
 # game/code/d15/d15s01.rpy:467
 translate chinese d15s01_cagedecision_c20b3735:
 
     # lc "Sorry, I got a little carried away. {w}What is it you're supposed to do anyway?"
-    lc "Sorry, I got a little carried away. {w}What is it you're supposed to do anyway?"
+    lc "对不起，我有点忘乎所以了。{w}话说你到底要做什么啊？"
 
 # game/code/d15/d15s01.rpy:470
 translate chinese d15s01_cagedecision_ce1a50f7:
 
     # arj "Um... you see what's in that box, don't you?"
-    arj "Um... you see what's in that box, don't you?"
+    arj "呃...你看到那个盒子里的东西了吧？"
 
 # game/code/d15/d15s01.rpy:473
 translate chinese d15s01_cagedecision_a1f8a66a:
 
     # lc "Sure, but I have no idea what I'm looking at."
-    lc "Sure, but I have no idea what I'm looking at."
+    lc "看到了，但不知道具体是干嘛的。"
 
 # game/code/d15/d15s01.rpy:475
 translate chinese d15s01_cagedecision_b114346a:
 
     # mc "They're cages.{w}.. for my penis."
-    mc "They're cages.{w}.. for my penis."
+    mc "这些笼子是{w}...用来装我的弟弟。"
 
 # game/code/d15/d15s01.rpy:478
 translate chinese d15s01_cagedecision_e18b2360:
 
     # lc "What?!"
-    lc "What?!"
+    lc "什么?!"
 
 # game/code/d15/d15s01.rpy:480
 translate chinese d15s01_cagedecision_741b0e14:
 
     # mc "I have to pick which one to wear."
-    mc "I have to pick which one to wear."
+    mc "我必须挑一个佩戴上。"
 
 # game/code/d15/d15s01.rpy:483
 translate chinese d15s01_cagedecision_91e86472:
 
     # arj "And he doesn't want to be locked in either one."
-    arj "And he doesn't want to be locked in either one."
+    arj "但他本人不想被任何一个笼子锁上。"
 
 # game/code/d15/d15s01.rpy:486
 translate chinese d15s01_cagedecision_083c643b:
 
     # lc "Well, fuck that."
-    lc "Well, fuck that."
+    lc "好吧，真操蛋。"
 
 # game/code/d15/d15s01.rpy:488
 translate chinese d15s01_cagedecision_bd88faff:
 
     # mc "EXACTLY!!!"
-    mc "EXACTLY!!!"
+    mc "是吧!!!"
 
 # game/code/d15/d15s01.rpy:491
 translate chinese d15s01_cagedecision_046a3300:
 
     # lc "Pick one, slap that bad boy on."
-    lc "Pick one, slap that bad boy on."
+    lc "选一个，给那小家伙点厉害看看。"
 
 # game/code/d15/d15s01.rpy:499
 translate chinese d15s01_cagedecision_bc8b2f36:
 
     # arj "What?!"
-    arj "What?!"
+    arj "什么?!"
 
 # game/code/d15/d15s01.rpy:503
 translate chinese d15s01_cagedecision_34149add:
 
     # lc "Seriously, what's the problem?"
-    lc "Seriously, what's the problem?"
+    lc "我认真的，有什么问题吗？"
 
 # game/code/d15/d15s01.rpy:505
 translate chinese d15s01_cagedecision_2cdcc916:
 
     # lc "Think about all the things we could do together if we didn't have to worry about me getting carried away..."
-    lc "Think about all the things we could do together if we didn't have to worry about me getting carried away..."
+    lc "如果我努力保持理智的话，想想看，我们可以一起做好多事..."
 
 # game/code/d15/d15s01.rpy:508
 translate chinese d15s01_cagedecision_d7472ea3:
 
     # lc "No other restraint would be necessary. We could do anything - without the risk of... penis."
-    lc "No other restraint would be necessary. We could do anything - without the risk of... penis."
+    lc "就不需要其他约束了。我们什么都可以做--不用担心...你的弟弟。"
 
 # game/code/d15/d15s01.rpy:512
 translate chinese d15s01_cagedecision_db2860f4:
 
     # arj "I hate to agree, but... {w}For completely different reasons, I want you to do this."
-    arj "I hate to agree, but... {w}For completely different reasons, I want you to do this."
+    arj "我不想同意，但...{w}出于完全不同的原因，我希望你接受挑战。"
 
 # game/code/d15/d15s01.rpy:514
 translate chinese d15s01_cagedecision_e6dbd754:
 
     # arj "I hate to agree, but... {w}For completely different reasons, I need you to do this."
-    arj "I hate to agree, but... {w}For completely different reasons, I need you to do this."
+    arj "我讨厌同意，但...{w}由于完全不同的原因，我需要你接下挑战。."
 
 # game/code/d15/d15s01.rpy:517
 translate chinese d15s01_cagedecision_41c4b613:
 
     # arj "Listen, [mcname], just pick one and put it on for now. We can figure out the rest later."
-    arj "Listen, [mcname], just pick one and put it on for now. We can figure out the rest later."
+    arj "听着，[mcname]，先选一个，然后戴上它就行了。剩下的我们以后再想办法。"
 
 # game/code/d15/d15s01.rpy:520
 translate chinese d15s01_cagedecision_72f4e1d5:
 
     # mc "Fine. AmRose, can you give me my phone?"
-    mc "Fine. AmRose, can you give me my phone?"
+    mc "好吧。爱洛丝，你能把手机给我吗？"
 
 # game/code/d15/d15s01.rpy:523
 translate chinese d15s01_cagedecision_e3b98d53:
 
     # arj "Oh, sure."
-    arj "Oh, sure."
+    arj "哦，好呀。"
 
 # game/code/d15/d15s01.rpy:527
 translate chinese d15s01_cagedecision_69366e5b:
 
     # arj "There you go!"
-    arj "There you go!"
+    arj "给你！"
 
 # game/code/d15/d15s01.rpy:530
 translate chinese d15s01_cagedecision_bf89fb7f:
 
     # mct "Where was she hiding that?"
-    mct "Where was she hiding that?"
+    mct "她把它藏在哪儿了？"
 
 # game/code/d15/d15s01.rpy:533
 translate chinese d15s01_cagedecision_85e35563:
 
     # mc "Alright. I just gotta login to the app and select one of these \"bad boys\"..."
-    mc "Alright. I just gotta login to the app and select one of these \"bad boys\"..."
+    mc "好吧。我只需要登录进去，选择其中一个\"坏家伙\"..."
 
 # game/code/d15/d15s01.rpy:538
 translate chinese d15s01_cagedecision_0c399e49:
 
     # mct "Oh look, the Fetish of the Day is Cumshot. {w}Annnd my points have been zero'd out."
-    mct "Oh look, the Fetish of the Day is Cumshot. {w}Annnd my points have been zero'd out."
+    mct "瞧，今日性癖是颜射。{w}我的积分已经被清零了。"
 
 # game/code/d15/d15s01.rpy:539
 translate chinese d15s01_cagedecision_35bde775:
 
     # mct "Well, I doubt I would be scoring any points for cumshots even if I was still earning points... at least not once I lock my dick in a cage."
-    mct "Well, I doubt I would be scoring any points for cumshots even if I was still earning points... at least not once I lock my dick in a cage."
+    mct "好吧，我怀疑即使射成功了，我也不会得分...至少在我把老二锁在笼子里之前不会得分。"
 
 # game/code/d15/d15s01.rpy:543
 translate chinese d15s01_cagedecision_ad4ce309:
 
     # lc "Why didn't someone tell me about these things before? What do these letters mean?"
-    lc "Why didn't someone tell me about these things before? What do these letters mean?"
+    lc "为什么以前都没人跟我说过？这些字母是什么意思？"
 
 # game/code/d15/d15s01.rpy:545
 translate chinese d15s01_cagedecision_e3898994:
 
     # mc "It's a riddle or something.{w}.. don't worry about it."
-    mc "It's a riddle or something.{w}.. don't worry about it."
+    mc "是个谜语之类的谜题{w}...不用担心。"
 
 # game/code/d15/d15s01.rpy:546
 translate chinese d15s01_cagedecision_9575e2ab:
 
     # mc "Fine. I choose..."
-    mc "Fine. I choose..."
+    mc "好吧。我选择..."
 
 # game/code/d15/d15s01.rpy:559
 translate chinese d15s01_cage_lc_2598cd29:
 
     # mc "I guess I'll take the Love Conquers cage. The one labeled LC."
-    mc "I guess I'll take the Love Conquers cage. The one labeled LC."
+    mc "我想我要的是爱情征服的笼子。标有LC的那个。."
 
 # game/code/d15/d15s01.rpy:561
 translate chinese d15s01_cage_lc_073f0268:
 
     # lc "Oh nice, it's just like you'll have my initials tattooed on your manhood."
-    lc "Oh nice, it's just like you'll have my initials tattooed on your manhood."
+    lc "可以哎，感觉就像你在自己的家伙上纹上我名字的缩写。"
 
 # game/code/d15/d15s01.rpy:564
 translate chinese d15s01_cage_lc_8ec04bdc:
 
     # mc "Yeah, just like that."
-    mc "Yeah, just like that."
+    mc "没错，就是这个意思。"
 
 # game/code/d15/d15s01.rpy:567
 translate chinese d15s01_cage_lc_9e27e0aa:
 
     # lc "Maybe I could get a tattoo of something for you."
-    lc "Maybe I could get a tattoo of something for you."
+    lc "也许我可以为你纹个什么东西。"
 
 # game/code/d15/d15s01.rpy:569
 translate chinese d15s01_cage_lc_e15a70a6:
 
     # arj "Really?"
-    arj "Really?"
+    arj "真的吗？"
 
 # game/code/d15/d15s01.rpy:571
 translate chinese d15s01_cage_lc_94bc3ef4:
 
     # lc "Well, maybe a temporary tattoo."
-    lc "Well, maybe a temporary tattoo."
+    lc "呃，也许搞个临时纹身。"
 
 # game/code/d15/d15s01.rpy:581
 translate chinese d15s01_cage_ntr_ef76c768:
 
     # mc "I guess I'll take the Needlessly Tight Restriction. NTR for me."
-    mc "I guess I'll take the Needlessly Tight Restriction. NTR for me."
+    mc "我要选择无谓的限制。就选NTR了。"
 
 # game/code/d15/d15s01.rpy:583
 translate chinese d15s01_cage_ntr_2b71e423:
 
     # arj "Really? I didn't think... {w}I mean, I thought you would take the one with Lydia's initials on it."
-    arj "Really? I didn't think... {w}I mean, I thought you would take the one with Lydia's initials on it."
+    arj "真的吗？没想到...{w}我是说，我以为你会选带有莉迪亚名字缩写的那个。"
 
 # game/code/d15/d15s01.rpy:588
 translate chinese d15s01_cage_ntr_26c1d277:
 
     # mc "Oh, huh. I didn't think about that."
-    mc "Oh, huh. I didn't think about that."
+    mc "哦，呵呵。我没想到这一点。"
 
 # game/code/d15/d15s01.rpy:593
 translate chinese d15s01_cage_ntr_6d2a8e7c:
 
     # lc "You could change your mind?"
-    lc "You could change your mind?"
+    lc "你可以改变主意吗？"
 
 # game/code/d15/d15s01.rpy:595
 translate chinese d15s01_cage_ntr_b1ad86ea:
 
     # mc "No, I don't think I can."
-    mc "No, I don't think I can."
+    mc "不行，好像是不能的。"
 
 # game/code/d15/d15s01.rpy:597
 translate chinese d15s01_cage_ntr_4896d46f:
 
     # lc "Oh, well... Okay."
-    lc "Oh, well... Okay."
+    lc "哦...好吧。"
 
 # game/code/d15/d15s01.rpy:610
 translate chinese d15s01_caged_f1448494:
