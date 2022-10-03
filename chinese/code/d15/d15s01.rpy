@@ -340,7 +340,7 @@ translate chinese d15s01_thoughts_NTR_1ed699b0:
 translate chinese d15s01_thoughts_NTR_66c12cfc:
 
     # mct "Maybe something about the letters? {w}N.T.R. {w}En Tee Arrr. {w}Enter? {# Don't translate NTR it is a name of the fetish#}"
-    mct "是这些字母吗？w}N.T.R. {w}N, T, R.{w}Enter? 输入？ {# Don't translate NTR it is a name of the fetish#}"
+    mct "是这些字母吗？{w}N.T.R. {w}N, T, R.{w}Enter? 输入？ {# Don't translate NTR it is a name of the fetish#}"
 
 # game/code/d15/d15s01.rpy:386
 translate chinese d15s01_thoughts_NTR_7a02c46f:
@@ -478,7 +478,7 @@ translate chinese d15s01_cagedecision_89673278:
 translate chinese d15s01_cagedecision_dab0deea:
 
     # lc "I know that you can do this. I know that you have a ton of people rooting for you."
-    lc "我知道你能做到的。我知道有一大批人站在你身后。."
+    lc "我知道你能做到的。我知道有一大批人站在你身后。"
 
 # game/code/d15/d15s01.rpy:455
 translate chinese d15s01_cagedecision_5c07c7a4:
@@ -604,7 +604,7 @@ translate chinese d15s01_cagedecision_db2860f4:
 translate chinese d15s01_cagedecision_e6dbd754:
 
     # arj "I hate to agree, but... {w}For completely different reasons, I need you to do this."
-    arj "我讨厌同意，但...{w}由于完全不同的原因，我需要你接下挑战。."
+    arj "我讨厌同意，但...{w}由于完全不同的原因，我需要你接下挑战。"
 
 # game/code/d15/d15s01.rpy:517
 translate chinese d15s01_cagedecision_41c4b613:
@@ -676,7 +676,7 @@ translate chinese d15s01_cagedecision_9575e2ab:
 translate chinese d15s01_cage_lc_2598cd29:
 
     # mc "I guess I'll take the Love Conquers cage. The one labeled LC."
-    mc "我想我要的是爱情征服的笼子。标有LC的那个。."
+    mc "我想我要选爱情征服之笼。标有LC的那个。"
 
 # game/code/d15/d15s01.rpy:561
 translate chinese d15s01_cage_lc_073f0268:
