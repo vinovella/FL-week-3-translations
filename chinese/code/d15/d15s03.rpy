@@ -658,7 +658,7 @@ translate chinese d15s03_dw_setup_ad1eaa57:
 translate chinese d15s03_dw_setup_9f63a24e:
 
     # pb "So, unless you want Dahlia walking all over you... well, you know what you've gotta do, right?"
-    pb "所以，除非你想让达莉亚踩在你身上...就这样，你知道你该做点什么吧？"
+    pb "所以，除非你想让黛丽娅踩在你身上...就这样，你知道你该做点什么吧？"
 
 # game/code/d15/d15s03.rpy:359
 translate chinese d15s03_dw_setup_0b8535ba:
