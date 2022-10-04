@@ -364,7 +364,7 @@ translate chinese d15s02_cf8fc324:
 translate chinese d15s02_eec9d203:
 
     # nk "If not, I'll be in touch. You'll be a part of the child's life, but I can't promise much more than that."
-    nk "如果你另有打算，我会保持联系。你可以参与孩子的生活，但我不能保证更多。"
+    nk "如果你另有打算，我会保持联系。你可以参与孩子的生活，但多的我也不能保证了。"
 
 # game/code/d15/d15s02.rpy:185
 translate chinese d15s02_6651ab87:
