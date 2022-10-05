@@ -136,7 +136,7 @@ translate chinese d15s04dw_0af3f775:
 translate chinese d15s04dw_e5d9c8e3:
 
     # dw "Oh, ha ha, bitch. Maybe we're here to discuss your sex addiction."
-    dw "哦，哈哈，烂人。也许我们是来讨论你的性瘾的。."
+    dw "哦，哈哈，烂人。也许我们是来讨论你的性瘾的。"
 
 # game/code/d15/d15s04dw.rpy:97
 translate chinese d15s04dw_27bfcfc1:
