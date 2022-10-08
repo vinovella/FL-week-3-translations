@@ -88,13 +88,13 @@ translate russian d16s06_791a972a:
 translate russian d16s06_92e3bb3c:
 
     # aw "I think it's sweet but very misguided."
-    aw "Думаю, что это мило, но очень ошибочно."
+    aw "Думаю, что это мило, но это ошибка."
 
 # game/code/d16/d16s06.rpy:100
 translate russian d16s06_b1909416:
 
     # aw "I'm sorry about how I acted during the party. But it's not your place to butt into this."
-    aw "Я сожалею что так вела себя во время вечеринки. Но это не твое дело вмешиваться в это."
+    aw "Я сожалею что так вела себя во время вечеринки. Но это не твое дело. Не вмешивайся в это."
 
 # game/code/d16/d16s06.rpy:102
 translate russian d16s06_042b3a51:
@@ -166,7 +166,7 @@ translate russian d16s06_ff90bb28:
 translate russian d16s06_f61e4289:
 
     # aw "All she has ever done is try and control me."
-    aw "Все, что она когда-либо делала, это контролировала меня."
+    aw "Все, что она делала, это контролировала меня."
 
 # game/code/d16/d16s06.rpy:130
 translate russian d16s06_a151b4e8:
@@ -184,7 +184,7 @@ translate russian d16s06_67f5166d:
 translate russian d16s06_cc7de763:
 
     # mc "I talked to her and asked her if she wanted to talk to you. To try and fix things."
-    mc "Я поговорил с ней и спросил, не хочет ли она поговорить с тобой. Чтобы попытаться все исправить."
+    mc "Я поговорил с ней и спросил, не хочет ли она встретится с тобой. Чтобы попытаться все исправить."
 
 # game/code/d16/d16s06.rpy:134
 translate russian d16s06_014d8ec8:
@@ -556,7 +556,7 @@ translate russian d16s06_f6685c9a:
 translate russian d16s06_7d933ecc:
 
     # aw "Okay. I'm thinking you eat me out, I suck you off, and then you fuck me."
-    aw "Хорошо. Я думаю, ты вылизываешь мне, я отсасываю у тебя, а потом ты трахаешь меня."
+    aw "Хорошо. Сделаем так, ты вылизываешь мне, я отсасываю у тебя, а потом ты трахаешь меня."
 
 # game/code/d16/d16s06.rpy:254
 translate russian d16s06_a8d48160:
@@ -780,11 +780,37 @@ translate russian d16s06_89a8c10f:
     # flr "You have earned [d16s06_points] points."
     flr "Вы заработали [d16s06_points] очков."
 
-# TODO: Translation updated at 2022-05-10 20:00
+# TODO: Translation updated at 2022-06-05 14:57
 
 # game/code/d16/d16s06.rpy:595
 translate russian d16s06_d7755542:
 
     # aw "*Laughs* \"Emotions\" huh? Well, I'm sure glad I got to experience it."
-    aw "*Laughs* \"Emotions\" huh? Well, I'm sure glad I got to experience it."
+    aw "*смеется* \"Эмоции?\" Да? Что ж, я очень рада, что мне довелось это испытать."
+
+# TODO: Translation updated at 2022-08-06 21:12
+
+# game/code/d16/d16s06.rpy:239
+translate russian d16s06_7fa6b07f:
+
+    # aw "I've been playing around with toys and edging the fans forever now."
+    aw "Я уже целую вечность играю с игрушками и подшучиваю над фанатами."
+
+# game/code/d16/d16s06.rpy:240
+translate russian d16s06_2fd3b885:
+
+    # aw "Thought I'd finally reward the loyal ones with something special."
+    aw "Подумала, что наконец-то вознагражу верных зрителей чем-то особенным."
+
+# game/code/d16/d16s06.rpy:243
+translate russian d16s06_4ebf4ad5:
+
+    # aw "I know that you can always get the...{i}most{/i} out of me, so here we are."
+    aw "Я знаю, что ты всегда можешь получить от меня... {i}максимум{/i}, так что мы здесь."
+
+# game/code/d16/d16s06.rpy:286
+translate russian d16s06_a35a5a5a:
+
+    # mc "I'm alright. And I just have to wait until this new challenge is over."
+    mc "Я в порядке. Мне просто нужно подождать, пока не закончится это новое испытание."
 

@@ -942,3 +942,37 @@ translate russian d15s04dd_1fac3b26:
     # "Doctor" "Thank you. Please, sit. I have your test results here..."
     "Doctor" "Спасибо. Пожалуйста, садитесь. Я получила результаты ваших анализов..."
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+# game/code/d15/d15s04dd.rpy:362
+translate russian d15s04dd_23db955f:
+
+    # mc "I failed a challenge. My new challenge is this cockcage."
+    mc "Я не справился с заданием. И моё новое задание - это клетка для члена."
+
+translate russian strings:
+
+    # game/code/d15/d15s04dd.rpy:21
+    old "1 hour later"
+    new "1 час спустя."
+
+# TODO: Translation updated at 2022-08-24 12:18
+
+# game/code/d15/d15s04dd.rpy:183
+translate russian d15s04dd_ff7b6382:
+
+    # dd "*Chuckles*"
+    dd "*смеется*"
+
+# game/code/d15/d15s04dd.rpy:275
+translate russian d15s04dd_9117778a:
+
+    # dd "It might be weird, but I've always had it on my bucket list."
+    dd "Это может показаться странным, но у меня это всегда было в моем списке желаний."
+
+# game/code/d15/d15s04dd.rpy:559
+translate russian d15s04dd_8014433d:
+
+    # dd "I don't know what came over me, but I can't say that it wasn't hot."
+    dd "Я не знаю, что на меня нашло, но это было горячо."
+

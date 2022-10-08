@@ -276,3 +276,17 @@ translate russian knock_40511e6c:
     # "*knock knock*"
     "*Тук тук*"
 
+# TODO: Translation updated at 2022-06-05 14:57
+
+# game/code/labels.rpy:334
+translate russian metalknock1_40511e6c:
+
+    # "*knock knock*"
+    "*Тук тук*"
+
+# game/code/labels.rpy:340
+translate russian metalknock2_40511e6c:
+
+    # "*knock knock*"
+    "*Тук тук*"
+

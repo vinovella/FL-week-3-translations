@@ -2216,3 +2216,55 @@ translate russian strings:
     old "Decide Which Cage to Wear"
     new "Решить, какую клетку надеть"
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+# game/code/d15/d15s01.rpy:431
+translate russian d15s01_cagedecision_7e36f4f4:
+
+    # mc "Shit, I know. I don't want to disappoint you or anyone else, but-"
+    mc "Черт, я знаю. Я не хочу разочаровывать тебя, но..."
+
+# game/code/d15/d15s01.rpy:513
+translate russian d15s01_cagedecision_db2860f4:
+
+    # arj "I hate to agree, but... {w}For completely different reasons, I want you to do this."
+    arj "Не хочется соглашаться, но... {w}По некоторым причинам я хочу, чтобы ты сделал это."
+
+# game/code/d15/d15s01.rpy:1096
+translate russian d15s01_face_fucking_d7e2f883:
+
+    # arj "I'm his completely willing and consensual sex slave."
+    arj "Я его добровольная секс-рабыня по обоюдному согласию."
+
+# game/code/d15/d15s01.rpy:1419
+translate russian d15s01_end_67efc426:
+
+    # arj "If that means negotiating with the Fetish Master to do something, I will do it."
+    arj "Если для этого нужно договориться с Фетиш Локатором, то я сделаю это."
+
+translate russian strings:
+
+    # game/code/d15/d15s01.rpy:141
+    old "Week Three\nDay 15\nMonday"
+    new "Третья неделя\nДень 15\nПонедельник"
+
+# TODO: Translation updated at 2022-08-24 12:18
+
+# game/code/d15/d15s01.rpy:343
+translate russian d15s01_readnote_ba7b3e0f:
+
+    # "The cage will be replacing your Fetish Tracker."
+    "Клетка заменит ваш Фетиш-Трекер."
+
+# game/code/d15/d15s01.rpy:443
+translate russian d15s01_cagedecision_a3c5d05f:
+
+    # lc "You failed once. You failed a challenge. And now you want to give up? You want to just quit the game?"
+    lc "Однажды ты потерпел неудачу. Ты провалил испытание. А теперь хочешь сдаться? Хочешь просто выйти из игры?"
+
+# game/code/d15/d15s01.rpy:455
+translate russian d15s01_cagedecision_5c07c7a4:
+
+    # lc "If you are going to lose this game, it won't be because you weren't up for the challenge, or because you quit and gave up."
+    lc "Если ты проигрываешь эту игру, то не потому, что не справился с заданием или сдался."
+

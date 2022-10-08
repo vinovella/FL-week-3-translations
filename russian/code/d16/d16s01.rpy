@@ -516,3 +516,11 @@ translate russian d16s01_fa3a59b5:
     # sy "Jackass."
     sy "Придурок."
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+translate russian strings:
+
+    # game/code/d16/d16s01.rpy:8
+    old "Tuesday\nDay-16"
+    new "Вторник\nДень-16."
+

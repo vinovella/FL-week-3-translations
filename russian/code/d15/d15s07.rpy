@@ -1198,3 +1198,19 @@ translate russian strings:
     old "I'm getting kinda bored of the watersports"
     new "Водные виды спорта мне уже порядком надоели"
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+translate russian strings:
+
+    # game/code/d15/d15s07.rpy:35
+    old "Later that day"
+    new "Позже в этот же день."
+
+# TODO: Translation updated at 2022-08-24 12:18
+
+# game/code/d15/d15s07.rpy:76
+translate russian d15s07_2c517df3:
+
+    # mes "Antony isn't in the picture anymore."
+    mes "На Энтони можно больше не обращать внимания."
+

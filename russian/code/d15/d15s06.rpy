@@ -1708,3 +1708,17 @@ translate russian d15s06_house_8f645d73:
     # mc "I want you to go deeper."
     mc "Я хочу, чтобы ты вошла глубже."
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+# game/code/d15/d15s06.rpy:350
+translate russian d15s06_house_1c83b9e5:
+
+    # mc "I lost a challenge with Fetish Locator and this is my new challenge."
+    mc "Я провалил задание от Фетиш Локатора, и это моё новое задание."
+
+translate russian strings:
+
+    # game/code/d15/d15s06.rpy:148
+    old "10 minutes later"
+    new "10 минут спустя."
+

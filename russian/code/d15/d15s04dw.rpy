@@ -1074,3 +1074,19 @@ translate russian strings:
     old "Let the girls think it was entirely up to them"
     new "Пусть девочки думают, что это полностью их заслуга"
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+translate russian strings:
+
+    # game/code/d15/d15s04dw.rpy:17
+    old "30 minute later"
+    new "30 минут спустя."
+
+# TODO: Translation updated at 2022-08-24 12:18
+
+# game/code/d15/d15s04dw.rpy:323
+translate russian d15s04dw_eb3e097b:
+
+    # dw "I'm sure he's got a book around here somewhere that I can use as a paddle."
+    dw "Я уверена, что у него где-то тут есть книга, которую я могу использовать в качестве паддла."
+

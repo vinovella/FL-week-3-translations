@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-11 19:23
+﻿# TODO: Translation updated at 2022-06-06 10:42
 
 # game/code/d17/d17s03.rpy:4
 translate russian d17s03_e843f07b:
@@ -965,4 +965,12 @@ translate russian d17s03_2051d66a:
 
     # mc "Understood."
     mc "Понял."
+
+# TODO: Translation updated at 2022-08-24 12:18
+
+# game/code/d17/d17s03.rpy:319
+translate russian d17s03_a531f536:
+
+    # mct "That doesn't sound like jealousy at all."
+    mct "Это совсем не похоже на ревность."
 

@@ -1188,3 +1188,55 @@ translate russian strings:
     old "I won't be able to come"
     new "Я не смогу приехать"
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+# game/code/d16/d16s04.rpy:297
+translate russian d16s04_be6b3495:
+
+    # mc "Are you in the VIP program?"
+    mc "Участвуешь ли ты в VIP-программе?"
+
+# game/code/d16/d16s04.rpy:353
+translate russian d16s04_694ebda1:
+
+    # mct "It seems like the Gold Stars for the VIP program was a beta test or something."
+    mct "Похоже, что Золотые звезды для VIP-программы были каким-то бета-тестом."
+
+# game/code/d16/d16s04.rpy:360
+translate russian d16s04_664b9c5e:
+
+    # mct "FL told me that I can't use the Gold Stars to skip a challenge, but maybe that has changed now?"
+    mct "ФЛ писал, что нельзя использовать Золотые звезды, чтобы пропускать задание, но, может быть, теперь это изменилось?"
+
+# game/code/d16/d16s04.rpy:388
+translate russian d16s04_aa4b18fa:
+
+    # mct "Says here that I have one ongoing challenge and that I can reduce the length of it for three Gold Stars!"
+    mct "Здесь говорится, что у меня есть одно постоянное задание и что я могу сократить его продолжительность за три Золотые звезды!"
+
+# game/code/d16/d16s04.rpy:394
+translate russian d16s04_b746fd4f:
+
+    # mct "And apparently I've gone through this challenge long enough that I could end it right now!"
+    mct "И, по-видимому, я уже достаточно долго прохожу через это испытание, чтобы закончить его прямо сейчас!"
+
+# game/code/d16/d16s04.rpy:447
+translate russian d16s04_f1376ad1:
+
+    # mc "I failed a challenge from FL. This was my new challenge."
+    mc "Я провалил задание от ФЛ. И это теперь моё новое задание."
+
+# TODO: Translation updated at 2022-08-24 12:18
+
+# game/code/d16/d16s04.rpy:360
+translate russian d16s04_637b7c7b:
+
+    # mct "FL told me that I can use the Gold Stars to skip a challenge, but maybe that has changed now?"
+    mct "В ФЛ было написано, что нельзя использовать Золотые звезды, чтобы пропускать задание, но, может быть, теперь это изменилось?"
+
+# game/code/d16/d16s04.rpy:362
+translate russian d16s04_92e0675f:
+
+    # mct "FL told me that I can use the Gold Stars to skip the punishment, but maybe that has changed now?"
+    mct "В ФЛ было написано, что нельзя использовать Золотые звезды, чтобы избежать наказания, но, может быть, теперь это изменилось?"
+

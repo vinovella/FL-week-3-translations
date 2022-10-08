@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-11 19:23
+﻿# TODO: Translation updated at 2022-06-06 10:42
 
 # game/code/d17/d17s08.rpy:49
 translate russian d17s08_b0017cfc:
@@ -474,1373 +474,695 @@ translate russian d17s08_a49ed4f8:
     # mc "Okay."
     mc "Хорошо."
 
-# game/code/d17/d17s08.rpy:206
-translate russian d17s08_d9fc70c6:
-
-    # mc "Stacy?"
-    mc "Стейси?"
-
-# game/code/d17/d17s08.rpy:208
-translate russian d17s08_f453bbd3:
-
-    # sy "I'm creeping."
-    sy "Я тихонечко."
-
-# game/code/d17/d17s08.rpy:209
-translate russian d17s08_9d83a8e2:
-
-    # mc "What are you doing here?"
-    mc "Что ты здесь делаешь?"
-
-# game/code/d17/d17s08.rpy:211
-translate russian d17s08_39848f85:
-
-    # sy "I need to get the data off your {i}USB device{/i}."
-    sy "Мне нужно получить данные с твоего {i}USB-девайса{/i}."
-
-# game/code/d17/d17s08.rpy:213
-translate russian d17s08_60740d9f:
-
-    # mc "But, I mean, how are you here?"
-    mc "Но, я имею в виду, как ты здесь оказалась?"
-
-# game/code/d17/d17s08.rpy:215
-translate russian d17s08_3fc417d4:
-
-    # sy "I let myself in."
-    sy "Я вошла в дверь."
-
-# game/code/d17/d17s08.rpy:217
-translate russian d17s08_1c43d221:
-
-    # mc "I'm certain the door was locked."
-    mc "Я уверен, что дверь была заперта."
-
-# game/code/d17/d17s08.rpy:219
-translate russian d17s08_dc931c83:
-
-    # sy "And it will be locked again after I leave."
-    sy "И она снова будет заперта после того, как я уйду."
-
-# game/code/d17/d17s08.rpy:221
-translate russian d17s08_11455b53:
-
-    # mc "What?"
-    mc "Что?"
-
-# game/code/d17/d17s08.rpy:222
-translate russian d17s08_f2d3d375:
-
-    # sy "Just give me the device."
-    sy "Просто отдай мне устройство."
-
-# game/code/d17/d17s08.rpy:224
-translate russian d17s08_ba347f77:
-
-    # mc "Uh, sure."
-    mc "Ух, конечно."
-
-# game/code/d17/d17s08.rpy:226
-translate russian d17s08_ee35b364:
-
-    # sy "How long does your girlfriend take in the shower?"
-    sy "Как долго твоя девушка принимает душ?"
-
-# game/code/d17/d17s08.rpy:228
-translate russian d17s08_e8f7b771:
-
-    # mc "I mean, she's a girl, so..."
-    mc "Ну, она же девушка, так что..."
-
-# game/code/d17/d17s08.rpy:230
-translate russian d17s08_91362fe5:
-
-    # sy "Hmm. I don't take very long in the shower."
-    sy "Хмм. Я не очень долго нахожусь в душе."
-
-# game/code/d17/d17s08.rpy:232
-translate russian d17s08_1f519986:
-
-    # mc "Yeah, but she's..."
-    mc "Да, но она..."
-
-# game/code/d17/d17s08.rpy:233
-translate russian d17s08_315d7bee:
-
-    # mc "Probably 30 minutes to an hour?"
-    mc "Наверное, от 30 минут до часа."
-
-# game/code/d17/d17s08.rpy:235
-translate russian d17s08_06cc84b6:
-
-    # sy "That should be plenty of time for the data transfer."
-    sy "Этого должно быть достаточно для передачи данных."
-
-# game/code/d17/d17s08.rpy:237
-translate russian d17s08_bc4fd44d:
-
-    # mc "Oh, okay."
-    mc "О, ладно."
-
-# game/code/d17/d17s08.rpy:240
-translate russian d17s08_a637bdbf:
-
-    # sy "Actually... that should also be plenty of time for a little fun."
-    sy "Вообще-то... тут достаточно времени даже для небольшого веселья."
-
-# game/code/d17/d17s08.rpy:243
-translate russian d17s08_04e7cdbb:
-
-    # mc "I mean, we could just wait for Lydia to get back if you want-"
-    mc "Ну мы могли бы просто подождать возвращения Лидии, если ты хочешь..."
-
-# game/code/d17/d17s08.rpy:245
-translate russian d17s08_f1c647ff:
-
-    # mc "Yeah, probably don't want Lydia to know about us just yet."
-    mc "Да, наверное, я пока не хочу, чтобы Лидия узнала о нас."
-
-# game/code/d17/d17s08.rpy:247
-translate russian d17s08_ef44867b:
-
-    # sy "Shhh. {w}We're being sneaky."
-    sy "Тшшш. {w}Мы действуем скрытно."
-
-# game/code/d17/d17s08.rpy:249
-translate russian d17s08_bc4fd44d_1:
-
-    # mc "Oh, okay."
-    mc "О, ладно."
-
-# game/code/d17/d17s08.rpy:251
-translate russian d17s08_36cdf563:
-
-    # sy "This looks delicious."
-    sy "Он выглядит восхитительно."
-
-# game/code/d17/d17s08.rpy:253
-translate russian d17s08_ebfe863e:
-
-    # mc "I'll take your word for it."
-    mc "Поверю тебе на слово."
-
-# game/code/d17/d17s08.rpy:255
-translate russian d17s08_d9d0b6cc:
-
-    # sy "Let me show you."
-    sy "Позволь мне показать."
-
-# game/code/d17/d17s08.rpy:273
-translate russian d17s08_0dbea11a:
-
-    # sy "How was that?"
-    sy "Как тебе?"
-
-# game/code/d17/d17s08.rpy:275
-translate russian d17s08_dfe3b92b:
-
-    # mc "Your mouth is amazing."
-    mc "У тебя потрясающий рот."
-
-# game/code/d17/d17s08.rpy:277
-translate russian d17s08_ece54638:
-
-    # sy "Just my mouth?"
-    sy "Только мой рот?"
-
-# game/code/d17/d17s08.rpy:280
-translate russian d17s08_d81ea2ae:
-
-    # mc "You are absolutely amazing, sis."
-    mc "Ты вся потрясающая, сестренка."
-
-# game/code/d17/d17s08.rpy:282
-translate russian d17s08_1e0a0800:
-
-    # mc "You are absolutely amazing."
-    mc "Ты вся потрясающая."
-
-# game/code/d17/d17s08.rpy:284
-translate russian d17s08_6f9707dc:
-
-    # sy "Damn right."
-    sy "Чертовски верно."
-
-# game/code/d17/d17s08.rpy:285
-translate russian d17s08_7e66a919:
-
-    # mc "You're a fucking goddess."
-    mc "Ты гребаная богиня."
-
-# game/code/d17/d17s08.rpy:286
-translate russian d17s08_c0c2337e:
-
-    # sy "You said it."
-    sy "Ты сам это сказал."
-
-# game/code/d17/d17s08.rpy:288
-translate russian d17s08_04478ac2:
-
-    # mc "Just a little bit more..."
-    mc "Еще чуть-чуть..."
-
-# game/code/d17/d17s08.rpy:289
-translate russian d17s08_76346d47:
-
-    # sy "Only if you promise to come down my throat."
-    sy "Только если ты пообещаешь кончить мне в горло."
-
-# game/code/d17/d17s08.rpy:291
-translate russian d17s08_33d2db8d:
-
-    # mc "You want me to fuck your face?"
-    mc "Ты хочешь, чтобы я трахнул тебя в горло?"
-
-# game/code/d17/d17s08.rpy:292
-translate russian d17s08_b1d2190a:
-
-    # sy "No. I want you to cum in my mouth so intensely that it shoots down my throat."
-    sy "Нет. Я хочу, чтобы ты кончил мне в рот так сильно, чтобы залетело прямо в горло."
-
-# game/code/d17/d17s08.rpy:293
-translate russian d17s08_36552c30:
-
-    # mc "Oh, fuck yes."
-    mc "Ох, черт, да."
-
-# game/code/d17/d17s08.rpy:295
-translate russian d17s08_1f5aa9f1:
-
-    # mc "What a fucking goddess you are..."
-    mc "Какая же ты, бля, богиня..."
-
-# game/code/d17/d17s08.rpy:297
-translate russian d17s08_c1dff962:
-
-    # mc "Oh..."
-    mc "Ох..."
-
-# game/code/d17/d17s08.rpy:298
-translate russian d17s08_715b63e4:
-
-    # mc "OH-"
-    mc "ОХ..."
-
-# game/code/d17/d17s08.rpy:302
-translate russian d17s08_cff9e1b2:
-
-    # mc "OH FUCK YESSS"
-    mc "ОХ, БЛЯ ДААА!"
-
-# game/code/d17/d17s08.rpy:304
-translate russian d17s08_69bea1a5:
-
-    # mc "That's-"
-    mc "Это..."
-
-# game/code/d17/d17s08.rpy:305
-translate russian d17s08_d64a2696:
-
-    # mc "That's fucking terrific."
-    mc "Это чертовски потрясающе."
-
-# game/code/d17/d17s08.rpy:306
-translate russian d17s08_8678e9c7:
-
-    # mc "How did you get so good at that?"
-    mc "Где ты так научилась?"
-
-# game/code/d17/d17s08.rpy:308
-translate russian d17s08_01f0c2ac:
-
-    # sy "Research."
-    sy "Изучала."
-
-# game/code/d17/d17s08.rpy:310
-translate russian d17s08_0a7ca4c7:
-
-    # mc "Research?"
-    mc "Изучала?"
-
-# game/code/d17/d17s08.rpy:312
-translate russian d17s08_fd1425ca:
-
-    # sy "I had six months to go through your porn box."
-    sy "У меня было шесть месяцев, чтобы просмотреть твою коробку с порнографией."
-
-# game/code/d17/d17s08.rpy:314
-translate russian d17s08_7488ae3e:
-
-    # mc "Oh yeah."
-    mc "Ах, да."
-
-# game/code/d17/d17s08.rpy:316
-translate russian d17s08_e3c7e8fb:
-
-    # sy "I know exactly what you want and how to give it to you."
-    sy "Я точно знаю, чего ты хочешь и как тебе это дать."
-
-# game/code/d17/d17s08.rpy:318
-translate russian d17s08_9270f444:
-
-    # mc "You are incredible."
-    mc "Ты невероятна."
-
-# game/code/d17/d17s08.rpy:322
-translate russian d17s08_40ba64dd:
-
-    # sy "Oh, look at that, we have got [d17s08_points] points for..."
-    sy "О, посмотри, нам дали [d17s08_points] очков за..."
-
-# game/code/d17/d17s08.rpy:325
-translate russian d17s08_386a2729:
-
-    # sy "So, how's things?"
-    sy "Ну, как дела?"
-
-# game/code/d17/d17s08.rpy:327
-translate russian d17s08_7187a437:
-
-    # mc "Um... good?"
-    mc "Эм... хорошо?"
-
-# game/code/d17/d17s08.rpy:329
-translate russian d17s08_f10db3de:
-
-    # sy "You own clothes, don't you?"
-    sy "У тебя есть своя одежда, верно?"
-
-# game/code/d17/d17s08.rpy:331
-translate russian d17s08_fcaf3220:
-
-    # mc "It was just my girlfriend & I.{w}.. I was getting ready to sleep."
-    mc "Тут только я и моя девушка.{w}.. Я готовилась ко сну."
-
-# game/code/d17/d17s08.rpy:333
-translate russian d17s08_4d7f0c0b:
-
-    # sy "I'm not complaining. I'm just saying, after Sunday..."
-    sy "Я не жалуюсь. Просто говорю, что после воскресенья..."
-
-# game/code/d17/d17s08.rpy:335
-translate russian d17s08_e46b7572:
-
-    # mc "You and AmRose stole my clothes on Sunday."
-    mc "Ты с АмРоуз украла мою одежду в воскресенье."
-
-# game/code/d17/d17s08.rpy:337
-translate russian d17s08_9af6b524:
-
-    # sy "Are you even allowed to wear clothing in this house?"
-    sy "Тебе вообще разрешено носить одежду в этом доме?"
-
-# game/code/d17/d17s08.rpy:339
-translate russian d17s08_2f5731d3:
-
-    # mc "Yes. I am allowed to wear clothing."
-    mc "Да. Мне разрешено носить одежду."
-
-# game/code/d17/d17s08.rpy:341
-translate russian d17s08_bddb1774:
-
-    # mc "*mumbles* probably"
-    mc "*бормочет* Наверное."
-
-# game/code/d17/d17s08.rpy:343
-translate russian d17s08_0acdabbb:
-
-    # sy "Alright. I'll give you the benefit of the doubt."
-    sy "Хорошо. Я дам тебе преимущество "
-
-# game/code/d17/d17s08.rpy:345
-translate russian d17s08_afad4af1:
-
-    # mc "So, when did you modify your phone to download data on-?"
-    mc "Значит ты модифицировала свой телефон для загрузки данных с...?"
-
-# game/code/d17/d17s08.rpy:347
-translate russian d17s08_a49d7f40:
-
-    # sy "Finding Mira? Oh, earlier today."
-    sy "Найти Миру? Ох, сегодня пораньше."
-
-# game/code/d17/d17s08.rpy:348
-translate russian d17s08_ccdf5709:
-
-    # mc "Mira?"
-    mc "Мира?"
-
-# game/code/d17/d17s08.rpy:349
-translate russian d17s08_ac4ccd5d:
-
-    # sy "That shiba inu we're trying to find. You know the one I'm talking about."
-    sy "Та, которую мы пытаемся найти. Ты знаешь, о ком я говорю."
-
-# game/code/d17/d17s08.rpy:351
-translate russian d17s08_60658749:
-
-    # mct "Oh, right. Retention might be listening."
-    mct "Ох, точно. Локатор, возможно, подслушивает."
-
-# game/code/d17/d17s08.rpy:352
-translate russian d17s08_5850c7f6:
-
-    # mc "Right, that lost... dog. I didn't realize it had a name."
-    mc "Верно, та... собака. Я не знал, что у нее есть имя."
-
-# game/code/d17/d17s08.rpy:354
-translate russian d17s08_be98a638:
-
-    # sy "Don't worry. We'll find it."
-    sy "Не волнуйся. Мы найдем ее."
-
-# game/code/d17/d17s08.rpy:356
-translate russian d17s08_d289b245:
-
-    # mc "So, is there any progress on finding... Mira?"
-    mc "Есть ли прогресс в поиске... Миры?"
-
-# game/code/d17/d17s08.rpy:358
-translate russian d17s08_4bd7bded:
-
-    # sy "Well, the data transfer goes both ways. There's an update to the search software."
-    sy "Передача данных идет в обе стороны. У нас вышло обновление поискового программного обеспечения."
-
-# game/code/d17/d17s08.rpy:359
-translate russian d17s08_c7ca3906:
-
-    # mc "That sounds nice."
-    mc "Звучит многообещающе."
-
-# game/code/d17/d17s08.rpy:361
-translate russian d17s08_864e5c06:
-
-    # sy "Hopefully we'll find Mira tomorrow."
-    sy "Надеюсь, завтра мы найдем Миру."
-
-# game/code/d17/d17s08.rpy:364
-translate russian d17s08_a1289911:
-
-    # mc "Uh, sis. My girlfriend's coming this way."
-    mc "Ух, сестренка. Моя девушка идет сюда."
-
-# game/code/d17/d17s08.rpy:366
-translate russian d17s08_242324f2:
-
-    # mc "Uh, Stacy. Lydia's coming this way."
-    mc "Ух, Стейси. Лидия идет сюда."
-
-# game/code/d17/d17s08.rpy:368
-translate russian d17s08_96f753dd:
-
-    # mc "Hey sexy lady."
-    mc "Привет, сексуальная леди."
-
-# game/code/d17/d17s08.rpy:369
-translate russian d17s08_63a926ed:
-
-    # lc "Hey yourself, naked man."
-    lc "И тебе привет, голый парниша!"
-
-# game/code/d17/d17s08.rpy:372
-translate russian d17s08_2376c239:
-
-    # lc "Oh good, you jerked off while I was in the shower."
-    lc "О, хорошо, ты подрочил, пока я была в душе."
-
-# game/code/d17/d17s08.rpy:374
-translate russian d17s08_59332753:
-
-    # lc "Not that I didn't want to be here when you came, but I'm tired."
-    lc "Не то чтобы я не хотела быть здесь, когда ты кончил, но я устала."
-
-# game/code/d17/d17s08.rpy:376
-translate russian d17s08_653e0ff8:
-
-    # lc "Damn, you're so fucking sexy."
-    lc "Черт, ты чертовски сексуален."
-
-# game/code/d17/d17s08.rpy:378
-translate russian d17s08_dfc6e236:
-
-    # lc "If I wasn't so fucking tired I would throw you on the bed and have my way with you."
-    lc "Если бы я не была так чертовски уставшей, я бы бросила тебя на кровать и занялась тобой."
-
-# game/code/d17/d17s08.rpy:380
-translate russian d17s08_8280a992:
-
-    # lc "Wow. You are so incredibly sexy right now."
-    lc "Вау. Ты сейчас так невероятно сексуален."
-
-# game/code/d17/d17s08.rpy:382
-translate russian d17s08_61f2fd92:
-
-    # lc "If I wasn't so tired I would do such horrible things with you."
-    lc "Если бы я не была такой уставшей, я бы сделала с тобой самые ужасные вещи."
-
-# game/code/d17/d17s08.rpy:384
-translate russian d17s08_64559936:
-
-    # mc "Too much time studying for finals?"
-    mc "Слишком много времени уделяешь подготовке к экзаменам?"
-
-# game/code/d17/d17s08.rpy:386
-translate russian d17s08_8e9ab5b6:
-
-    # lc "You have no idea how much my throat hurts from singing practice."
-    lc "Ты даже не представляешь, как сильно у меня болит горло от занятий пением."
-
-# game/code/d17/d17s08.rpy:388
-translate russian d17s08_bac69fdd:
-
-    # lc "Did you hear-?"
-    lc "Ты слышал...?"
-
-# game/code/d17/d17s08.rpy:396
-translate russian d17s08_daeb626d:
-
-    # lc "What was that for?"
-    lc "Зачем это?"
-
-# game/code/d17/d17s08.rpy:397
-translate russian d17s08_6195c941:
-
-    # mc "I was just overwhelmed with the desire to kiss you."
-    mc "Меня просто переполняло желание поцеловать тебя."
-
-# game/code/d17/d17s08.rpy:399
-translate russian d17s08_e8044916:
-
-    # lc "I like that."
-    lc "Мне это понравилось."
-
-# game/code/d17/d17s08.rpy:401
-translate russian d17s08_43ddfa89:
-
-    # mc "So, you were telling me about your neighbor?"
-    mc "Так, ты рассказывала о своем соседе?"
-
-# game/code/d17/d17s08.rpy:403
-translate russian d17s08_9f4d732b:
-
-    # lc "Oh, you remembered that."
-    lc "Ох, ты запомнил."
-
-# game/code/d17/d17s08.rpy:404
-translate russian d17s08_cc9c6425:
-
-    # mc "Was I supposed to forget about it?"
-    mc "А я должен был забыть об этом?"
-
-# game/code/d17/d17s08.rpy:406
-translate russian d17s08_3cc7853c:
-
-    # lc "If you don't mind... I'll tell you about it some other time."
-    lc "Если ты не возражаешь... То я расскажу об этом в другой раз."
-
-# game/code/d17/d17s08.rpy:407
-translate russian d17s08_3270b79d:
-
-    # mc "I dunno..."
-    mc "Не знаю..."
-
-# game/code/d17/d17s08.rpy:408
-translate russian d17s08_da60c4c6:
-
-    # lc "Yeah?"
-    lc "Что?"
-
-# game/code/d17/d17s08.rpy:410
-translate russian d17s08_7cad9df1:
-
-    # mc "It seems like you've been cheating on me by watching other people..."
-    mc "Похоже, ты изменила мне, наблюдая за другим парнем..."
-
-# game/code/d17/d17s08.rpy:412
-translate russian d17s08_ffcf64bc:
-
-    # lc "Ha! It's not like that-"
-    lc "Ха! Это не так..."
-
-# game/code/d17/d17s08.rpy:414
-translate russian d17s08_442b70ed:
-
-    # mc "I might have to punish you for not telling me about it."
-    mc "Возможно, мне придется наказать тебя за то, что ты не рассказала мне об этом."
-
-# game/code/d17/d17s08.rpy:416
-translate russian d17s08_6274a69b:
-
-    # lc "Okay, okay! {w}I promise to make it up to you in the morning."
-    lc "Ладно, ладно! {w}Я обещаю загладить свою вину утром."
-
-# game/code/d17/d17s08.rpy:417
-translate russian d17s08_5e2b3f7d:
-
-    # mc "I hope so."
-    mc "Надеюсь, что так и будет."
-
-# game/code/d17/d17s08.rpy:419
-translate russian d17s08_8c716c86:
-
-    # lc "Good night, my lovely."
-    lc "Спокойной ночи, моя прелесть."
-
-# game/code/d17/d17s08.rpy:421
-translate russian d17s08_7eb2a637:
-
-    # mc "Rest well, my love."
-    mc "Отдыхай хорошо, любовь моя."
-
-# game/code/d17/d17s08.rpy:423
-translate russian d17s08_a5dc5d88:
-
-    # mc "*mumbles* These women are going to be the end of me."
-    mc "*бормочет* Эти женщины сведут меня в могилу."
-
-# game/code/d17/d17s08.rpy:424
-translate russian d17s08_e18b2360:
-
-    # lc "What?!"
-    lc "Что?!"
-
-# game/code/d17/d17s08.rpy:425
-translate russian d17s08_05500ff6:
-
-    # mc "Huh?"
-    mc "Что?"
-
-# game/code/d17/d17s08.rpy:426
-translate russian d17s08_f53778bb:
-
-    # lc "What did you say?"
-    lc "Что ты сказал?"
-
-# game/code/d17/d17s08.rpy:427
-translate russian d17s08_4ccba40f:
-
-    # mc "Rest well, beautiful."
-    mc "Отдыхай хорошо, красавица."
-
-# game/code/d17/d17s08.rpy:428
-translate russian d17s08_89c46f33:
-
-    # lc "Oh. {w}Thank you."
-    lc "А. {w}Спасибо."
-
-# game/code/d17/d17s08.rpy:430
-translate russian d17s08_4ccba40f_1:
-
-    # mc "Rest well, beautiful."
-    mc "Отдыхай хорошо, красавица."
-
-# game/code/d17/d17s08.rpy:432
-translate russian d17s08_3e257e18:
-
-    # lc "Oh, remind me in the morning..."
-    lc "Ох, напомни мне утром..."
-
-# game/code/d17/d17s08.rpy:433
-translate russian d17s08_c17ef8ec:
-
-    # mc "What's that?"
-    mc "О чем?"
-
-# game/code/d17/d17s08.rpy:434
-translate russian d17s08_78cf9394:
-
-    # lc "I want you to help me create my Fetish Locator account."
-    lc "Я хочу, чтобы ты помог мне создать аккаунт на Фетиш Локаторе."
-
-# game/code/d17/d17s08.rpy:436
-translate russian d17s08_55d60f89:
-
-    # mct "Oh, crap."
-    mct "Вот дерьмо."
-
-# TODO: Translation updated at 2022-05-10 20:00
-
 # game/code/d17/d17s08.rpy:209
 translate russian replay_d17s08_d9fc70c6:
 
     # mc "Stacy?"
-    mc "Stacy?"
+    mc "Стейси?"
 
 # game/code/d17/d17s08.rpy:211
 translate russian replay_d17s08_f453bbd3:
 
     # sy "I'm creeping."
-    sy "I'm creeping."
+    sy "Я тихонечко."
 
 # game/code/d17/d17s08.rpy:212
 translate russian replay_d17s08_9d83a8e2:
 
     # mc "What are you doing here?"
-    mc "What are you doing here?"
+    mc "Что ты здесь делаешь?"
 
 # game/code/d17/d17s08.rpy:214
 translate russian replay_d17s08_39848f85:
 
     # sy "I need to get the data off your {i}USB device{/i}."
-    sy "I need to get the data off your {i}USB device{/i}."
+    sy "Мне нужно получить данные с твоего {i}USB-девайса{/i}."
 
 # game/code/d17/d17s08.rpy:216
 translate russian replay_d17s08_60740d9f:
 
     # mc "But, I mean, how are you here?"
-    mc "But, I mean, how are you here?"
+    mc "Нет, я имею в виду, как ты здесь оказалась?"
 
 # game/code/d17/d17s08.rpy:218
 translate russian replay_d17s08_3fc417d4:
 
     # sy "I let myself in."
-    sy "I let myself in."
+    sy "Я вошла в дверь."
 
 # game/code/d17/d17s08.rpy:220
 translate russian replay_d17s08_1c43d221:
 
     # mc "I'm certain the door was locked."
-    mc "I'm certain the door was locked."
+    mc "Я уверен, что дверь была заперта."
 
 # game/code/d17/d17s08.rpy:222
 translate russian replay_d17s08_dc931c83:
 
     # sy "And it will be locked again after I leave."
-    sy "And it will be locked again after I leave."
+    sy "И она снова будет заперта после того, как я уйду."
 
 # game/code/d17/d17s08.rpy:224
 translate russian replay_d17s08_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Что?"
 
 # game/code/d17/d17s08.rpy:225
 translate russian replay_d17s08_f2d3d375:
 
     # sy "Just give me the device."
-    sy "Just give me the device."
+    sy "Просто отдай мне устройство."
 
 # game/code/d17/d17s08.rpy:227
 translate russian replay_d17s08_ba347f77:
 
     # mc "Uh, sure."
-    mc "Uh, sure."
+    mc "Ух, конечно."
 
 # game/code/d17/d17s08.rpy:229
 translate russian replay_d17s08_ee35b364:
 
     # sy "How long does your girlfriend take in the shower?"
-    sy "How long does your girlfriend take in the shower?"
+    sy "Как долго твоя девушка принимает душ?"
 
 # game/code/d17/d17s08.rpy:231
 translate russian replay_d17s08_e8f7b771:
 
     # mc "I mean, she's a girl, so..."
-    mc "I mean, she's a girl, so..."
+    mc "Ну, она же девушка, так что..."
 
 # game/code/d17/d17s08.rpy:233
 translate russian replay_d17s08_91362fe5:
 
     # sy "Hmm. I don't take very long in the shower."
-    sy "Hmm. I don't take very long in the shower."
+    sy "Хмм. Я не очень долго нахожусь в душе."
 
 # game/code/d17/d17s08.rpy:235
 translate russian replay_d17s08_1f519986:
 
     # mc "Yeah, but she's..."
-    mc "Yeah, but she's..."
+    mc "Да, но она..."
 
 # game/code/d17/d17s08.rpy:236
 translate russian replay_d17s08_315d7bee:
 
     # mc "Probably 30 minutes to an hour?"
-    mc "Probably 30 minutes to an hour?"
+    mc "Наверное, от 30 минут до часа."
 
 # game/code/d17/d17s08.rpy:238
 translate russian replay_d17s08_06cc84b6:
 
     # sy "That should be plenty of time for the data transfer."
-    sy "That should be plenty of time for the data transfer."
+    sy "Этого должно быть достаточно для передачи данных."
 
 # game/code/d17/d17s08.rpy:240
 translate russian replay_d17s08_bc4fd44d:
 
     # mc "Oh, okay."
-    mc "Oh, okay."
+    mc "О, ладно."
 
-# game/code/d17/d17s08.rpy:243
+# game/code/d17/d17s08.rpy:244
 translate russian replay_d17s08_a637bdbf:
 
     # sy "Actually... that should also be plenty of time for a little fun."
-    sy "Actually... that should also be plenty of time for a little fun."
+    sy "Вообще-то... тут достаточно времени даже для небольшого веселья."
 
-# game/code/d17/d17s08.rpy:246
+# game/code/d17/d17s08.rpy:247
 translate russian replay_d17s08_04e7cdbb:
 
     # mc "I mean, we could just wait for Lydia to get back if you want-"
-    mc "I mean, we could just wait for Lydia to get back if you want-"
+    mc "Ну мы могли бы просто подождать возвращения Лидии, если ты хочешь..."
 
-# game/code/d17/d17s08.rpy:248
+# game/code/d17/d17s08.rpy:249
 translate russian replay_d17s08_f1c647ff:
 
     # mc "Yeah, probably don't want Lydia to know about us just yet."
-    mc "Yeah, probably don't want Lydia to know about us just yet."
+    mc "Да, наверное, я пока не хочу, чтобы Лидия узнала о нас."
 
-# game/code/d17/d17s08.rpy:250
+# game/code/d17/d17s08.rpy:251
 translate russian replay_d17s08_ef44867b:
 
     # sy "Shhh. {w}We're being sneaky."
-    sy "Shhh. {w}We're being sneaky."
+    sy "Тшшш. {w}Мы действуем скрытно."
 
-# game/code/d17/d17s08.rpy:252
+# game/code/d17/d17s08.rpy:253
 translate russian replay_d17s08_bc4fd44d_1:
 
     # mc "Oh, okay."
-    mc "Oh, okay."
+    mc "О, ладно."
 
-# game/code/d17/d17s08.rpy:254
+# game/code/d17/d17s08.rpy:255
 translate russian replay_d17s08_36cdf563:
 
     # sy "This looks delicious."
-    sy "This looks delicious."
+    sy "Он выглядит восхитительно."
 
-# game/code/d17/d17s08.rpy:256
+# game/code/d17/d17s08.rpy:257
 translate russian replay_d17s08_ebfe863e:
 
     # mc "I'll take your word for it."
-    mc "I'll take your word for it."
+    mc "Поверю тебе на слово."
 
-# game/code/d17/d17s08.rpy:258
+# game/code/d17/d17s08.rpy:259
 translate russian replay_d17s08_d9d0b6cc:
 
     # sy "Let me show you."
-    sy "Let me show you."
+    sy "Позволь мне показать."
 
-# game/code/d17/d17s08.rpy:276
+# game/code/d17/d17s08.rpy:277
 translate russian replay_d17s08_0dbea11a:
 
     # sy "How was that?"
-    sy "How was that?"
+    sy "Как тебе?"
 
-# game/code/d17/d17s08.rpy:278
+# game/code/d17/d17s08.rpy:279
 translate russian replay_d17s08_dfe3b92b:
 
     # mc "Your mouth is amazing."
-    mc "Your mouth is amazing."
+    mc "У тебя потрясающий рот."
 
-# game/code/d17/d17s08.rpy:280
+# game/code/d17/d17s08.rpy:281
 translate russian replay_d17s08_ece54638:
 
     # sy "Just my mouth?"
-    sy "Just my mouth?"
+    sy "Только рот?"
 
-# game/code/d17/d17s08.rpy:283
+# game/code/d17/d17s08.rpy:284
 translate russian replay_d17s08_d81ea2ae:
 
     # mc "You are absolutely amazing, sis."
-    mc "You are absolutely amazing, sis."
+    mc "Ты вся потрясающая, сестренка."
 
-# game/code/d17/d17s08.rpy:285
+# game/code/d17/d17s08.rpy:286
 translate russian replay_d17s08_1e0a0800:
 
     # mc "You are absolutely amazing."
-    mc "You are absolutely amazing."
+    mc "Ты вся потрясающая."
 
-# game/code/d17/d17s08.rpy:287
+# game/code/d17/d17s08.rpy:288
 translate russian replay_d17s08_6f9707dc:
 
     # sy "Damn right."
-    sy "Damn right."
+    sy "Чертовски верно."
 
-# game/code/d17/d17s08.rpy:288
+# game/code/d17/d17s08.rpy:289
 translate russian replay_d17s08_7e66a919:
 
     # mc "You're a fucking goddess."
-    mc "You're a fucking goddess."
+    mc "Ты гребаная богиня."
 
-# game/code/d17/d17s08.rpy:289
+# game/code/d17/d17s08.rpy:290
 translate russian replay_d17s08_c0c2337e:
 
     # sy "You said it."
-    sy "You said it."
+    sy "Ты сам это сказал."
 
-# game/code/d17/d17s08.rpy:291
+# game/code/d17/d17s08.rpy:292
 translate russian replay_d17s08_04478ac2:
 
     # mc "Just a little bit more..."
-    mc "Just a little bit more..."
+    mc "Еще чуть-чуть..."
 
-# game/code/d17/d17s08.rpy:292
+# game/code/d17/d17s08.rpy:293
 translate russian replay_d17s08_76346d47:
 
     # sy "Only if you promise to come down my throat."
-    sy "Only if you promise to come down my throat."
+    sy "Только если пообещаешь кончить мне в горло."
 
-# game/code/d17/d17s08.rpy:294
+# game/code/d17/d17s08.rpy:295
 translate russian replay_d17s08_33d2db8d:
 
     # mc "You want me to fuck your face?"
-    mc "You want me to fuck your face?"
+    mc "Ты хочешь, чтобы я трахнул тебя в горло?"
 
-# game/code/d17/d17s08.rpy:295
+# game/code/d17/d17s08.rpy:296
 translate russian replay_d17s08_b1d2190a:
 
     # sy "No. I want you to cum in my mouth so intensely that it shoots down my throat."
-    sy "No. I want you to cum in my mouth so intensely that it shoots down my throat."
+    sy "Нет. Я хочу, чтобы ты кончил мне в рот так сильно, чтобы залетело прямо в горло."
 
-# game/code/d17/d17s08.rpy:296
+# game/code/d17/d17s08.rpy:297
 translate russian replay_d17s08_36552c30:
 
     # mc "Oh, fuck yes."
-    mc "Oh, fuck yes."
+    mc "Ох, черт, да."
 
-# game/code/d17/d17s08.rpy:298
+# game/code/d17/d17s08.rpy:299
 translate russian replay_d17s08_1f5aa9f1:
 
     # mc "What a fucking goddess you are..."
-    mc "What a fucking goddess you are..."
+    mc "Какая же ты, бля, богиня..."
 
-# game/code/d17/d17s08.rpy:300
+# game/code/d17/d17s08.rpy:301
 translate russian replay_d17s08_c1dff962:
 
     # mc "Oh..."
-    mc "Oh..."
+    mc "Ох..."
 
-# game/code/d17/d17s08.rpy:301
+# game/code/d17/d17s08.rpy:302
 translate russian replay_d17s08_715b63e4:
 
     # mc "OH-"
-    mc "OH-"
+    mc "ОХ..."
 
-# game/code/d17/d17s08.rpy:305
+# game/code/d17/d17s08.rpy:306
 translate russian replay_d17s08_cff9e1b2:
 
     # mc "OH FUCK YESSS"
-    mc "OH FUCK YESSS"
+    mc "ОХ, БЛЯ ДААА!"
 
-# game/code/d17/d17s08.rpy:307
+# game/code/d17/d17s08.rpy:308
 translate russian replay_d17s08_69bea1a5:
 
     # mc "That's-"
-    mc "That's-"
+    mc "Это..."
 
-# game/code/d17/d17s08.rpy:308
+# game/code/d17/d17s08.rpy:309
 translate russian replay_d17s08_d64a2696:
 
     # mc "That's fucking terrific."
-    mc "That's fucking terrific."
+    mc "Это чертовски потрясающе."
 
-# game/code/d17/d17s08.rpy:309
+# game/code/d17/d17s08.rpy:310
 translate russian replay_d17s08_8678e9c7:
 
     # mc "How did you get so good at that?"
-    mc "How did you get so good at that?"
+    mc "Где ты так научилась?"
 
-# game/code/d17/d17s08.rpy:311
+# game/code/d17/d17s08.rpy:312
 translate russian replay_d17s08_01f0c2ac:
 
     # sy "Research."
-    sy "Research."
+    sy "Изучила."
 
-# game/code/d17/d17s08.rpy:313
+# game/code/d17/d17s08.rpy:314
 translate russian replay_d17s08_0a7ca4c7:
 
     # mc "Research?"
-    mc "Research?"
+    mc "Изучила?"
 
-# game/code/d17/d17s08.rpy:315
+# game/code/d17/d17s08.rpy:316
 translate russian replay_d17s08_fd1425ca:
 
     # sy "I had six months to go through your porn box."
-    sy "I had six months to go through your porn box."
+    sy "У меня было шесть месяцев, чтобы просмотреть твою коробку с порнографией."
 
-# game/code/d17/d17s08.rpy:317
+# game/code/d17/d17s08.rpy:318
 translate russian replay_d17s08_7488ae3e:
 
     # mc "Oh yeah."
-    mc "Oh yeah."
+    mc "Ах, да."
 
-# game/code/d17/d17s08.rpy:319
+# game/code/d17/d17s08.rpy:320
 translate russian replay_d17s08_e3c7e8fb:
 
     # sy "I know exactly what you want and how to give it to you."
-    sy "I know exactly what you want and how to give it to you."
+    sy "Я точно знаю, чего ты хочешь и как тебе это дать."
 
-# game/code/d17/d17s08.rpy:321
+# game/code/d17/d17s08.rpy:322
 translate russian replay_d17s08_9270f444:
 
     # mc "You are incredible."
-    mc "You are incredible."
+    mc "Ты невероятна."
 
-# game/code/d17/d17s08.rpy:325
+# game/code/d17/d17s08.rpy:326
 translate russian replay_d17s08_40ba64dd:
 
     # sy "Oh, look at that, we have got [d17s08_points] points for..."
-    sy "Oh, look at that, we have got [d17s08_points] points for..."
+    sy "О, посмотри, нам дали [d17s08_points] очков за..."
 
-# game/code/d17/d17s08.rpy:328
+# game/code/d17/d17s08.rpy:329
 translate russian replay_d17s08_386a2729:
 
     # sy "So, how's things?"
-    sy "So, how's things?"
+    sy "Ну, как дела?"
 
-# game/code/d17/d17s08.rpy:330
+# game/code/d17/d17s08.rpy:331
 translate russian replay_d17s08_7187a437:
 
     # mc "Um... good?"
-    mc "Um... good?"
+    mc "Эм... хорошо?"
 
-# game/code/d17/d17s08.rpy:332
+# game/code/d17/d17s08.rpy:333
 translate russian replay_d17s08_f10db3de:
 
     # sy "You own clothes, don't you?"
-    sy "You own clothes, don't you?"
+    sy "У тебя есть своя одежда, верно?"
 
-# game/code/d17/d17s08.rpy:334
+# game/code/d17/d17s08.rpy:335
 translate russian replay_d17s08_fcaf3220:
 
     # mc "It was just my girlfriend & I.{w}.. I was getting ready to sleep."
-    mc "It was just my girlfriend & I.{w}.. I was getting ready to sleep."
+    mc "Тут только я и моя девушка.{w}.. Я готовился ко сну."
 
-# game/code/d17/d17s08.rpy:336
+# game/code/d17/d17s08.rpy:337
 translate russian replay_d17s08_4d7f0c0b:
 
     # sy "I'm not complaining. I'm just saying, after Sunday..."
-    sy "I'm not complaining. I'm just saying, after Sunday..."
+    sy "Я не жалуюсь. Просто говорю, что после воскресенья..."
 
-# game/code/d17/d17s08.rpy:338
+# game/code/d17/d17s08.rpy:339
 translate russian replay_d17s08_e46b7572:
 
     # mc "You and AmRose stole my clothes on Sunday."
-    mc "You and AmRose stole my clothes on Sunday."
+    mc "Ты с АмРоуз украла мою одежду в воскресенье."
 
-# game/code/d17/d17s08.rpy:340
+# game/code/d17/d17s08.rpy:341
 translate russian replay_d17s08_9af6b524:
 
     # sy "Are you even allowed to wear clothing in this house?"
-    sy "Are you even allowed to wear clothing in this house?"
+    sy "Тебе вообще разрешено носить одежду в этом доме?"
 
-# game/code/d17/d17s08.rpy:342
+# game/code/d17/d17s08.rpy:343
 translate russian replay_d17s08_2f5731d3:
 
     # mc "Yes. I am allowed to wear clothing."
-    mc "Yes. I am allowed to wear clothing."
+    mc "Да. Мне разрешено носить одежду."
 
-# game/code/d17/d17s08.rpy:344
+# game/code/d17/d17s08.rpy:345
 translate russian replay_d17s08_bddb1774:
 
     # mc "*mumbles* probably"
-    mc "*mumbles* probably"
+    mc "*бормочет* Наверное."
 
-# game/code/d17/d17s08.rpy:346
+# game/code/d17/d17s08.rpy:347
 translate russian replay_d17s08_0acdabbb:
 
     # sy "Alright. I'll give you the benefit of the doubt."
-    sy "Alright. I'll give you the benefit of the doubt."
+    sy "Хорошо. Я дам тебе преимущество "
 
-# game/code/d17/d17s08.rpy:348
+# game/code/d17/d17s08.rpy:349
 translate russian replay_d17s08_afad4af1:
 
     # mc "So, when did you modify your phone to download data on-?"
-    mc "So, when did you modify your phone to download data on-?"
+    mc "Значит ты модифицировала свой телефон для загрузки данных с...?"
 
-# game/code/d17/d17s08.rpy:350
+# game/code/d17/d17s08.rpy:351
 translate russian replay_d17s08_a49d7f40:
 
     # sy "Finding Mira? Oh, earlier today."
-    sy "Finding Mira? Oh, earlier today."
+    sy "Найти Миру? О, еще сегодня с утра."
 
-# game/code/d17/d17s08.rpy:351
+# game/code/d17/d17s08.rpy:352
 translate russian replay_d17s08_ccdf5709:
 
     # mc "Mira?"
-    mc "Mira?"
+    mc "Мира?"
 
-# game/code/d17/d17s08.rpy:352
+# game/code/d17/d17s08.rpy:353
 translate russian replay_d17s08_ac4ccd5d:
 
     # sy "That shiba inu we're trying to find. You know the one I'm talking about."
-    sy "That shiba inu we're trying to find. You know the one I'm talking about."
+    sy "Та, которую мы пытаемся найти. Ты знаешь, о ком я говорю."
 
-# game/code/d17/d17s08.rpy:354
+# game/code/d17/d17s08.rpy:355
 translate russian replay_d17s08_60658749:
 
     # mct "Oh, right. Retention might be listening."
-    mct "Oh, right. Retention might be listening."
+    mct "Ох, точно. Локатор же подслушивает."
 
-# game/code/d17/d17s08.rpy:355
+# game/code/d17/d17s08.rpy:356
 translate russian replay_d17s08_5850c7f6:
 
     # mc "Right, that lost... dog. I didn't realize it had a name."
-    mc "Right, that lost... dog. I didn't realize it had a name."
+    mc "Верно, та... собака. Я не знал, что у нее есть имя."
 
-# game/code/d17/d17s08.rpy:357
+# game/code/d17/d17s08.rpy:358
 translate russian replay_d17s08_be98a638:
 
     # sy "Don't worry. We'll find it."
-    sy "Don't worry. We'll find it."
+    sy "Не волнуйся. Мы найдем ее."
 
-# game/code/d17/d17s08.rpy:359
+# game/code/d17/d17s08.rpy:360
 translate russian replay_d17s08_d289b245:
 
     # mc "So, is there any progress on finding... Mira?"
-    mc "So, is there any progress on finding... Mira?"
+    mc "Есть ли прогресс в поиске... Миры?"
 
-# game/code/d17/d17s08.rpy:361
+# game/code/d17/d17s08.rpy:362
 translate russian replay_d17s08_4bd7bded:
 
     # sy "Well, the data transfer goes both ways. There's an update to the search software."
-    sy "Well, the data transfer goes both ways. There's an update to the search software."
+    sy "Передача данных идет полным ходом. У нас вышло обновление поискового программного обеспечения."
 
-# game/code/d17/d17s08.rpy:362
+# game/code/d17/d17s08.rpy:363
 translate russian replay_d17s08_c7ca3906:
 
     # mc "That sounds nice."
-    mc "That sounds nice."
+    mc "Звучит многообещающе."
 
-# game/code/d17/d17s08.rpy:364
+# game/code/d17/d17s08.rpy:365
 translate russian replay_d17s08_864e5c06:
 
     # sy "Hopefully we'll find Mira tomorrow."
-    sy "Hopefully we'll find Mira tomorrow."
+    sy "Надеюсь, уже завтра мы найдем эту Миру."
 
-# game/code/d17/d17s08.rpy:367
+# game/code/d17/d17s08.rpy:368
 translate russian replay_d17s08_a1289911:
 
     # mc "Uh, sis. My girlfriend's coming this way."
-    mc "Uh, sis. My girlfriend's coming this way."
+    mc "Ух, сестренка. Моя девушка идет сюда."
 
-# game/code/d17/d17s08.rpy:369
+# game/code/d17/d17s08.rpy:370
 translate russian replay_d17s08_242324f2:
 
     # mc "Uh, Stacy. Lydia's coming this way."
-    mc "Uh, Stacy. Lydia's coming this way."
+    mc "Ух, Стейси. Лидия идет сюда."
 
-# game/code/d17/d17s08.rpy:371
+# game/code/d17/d17s08.rpy:372
 translate russian replay_d17s08_96f753dd:
 
     # mc "Hey sexy lady."
-    mc "Hey sexy lady."
+    mc "Привет, сексуальная леди."
 
-# game/code/d17/d17s08.rpy:372
+# game/code/d17/d17s08.rpy:373
 translate russian replay_d17s08_63a926ed:
 
     # lc "Hey yourself, naked man."
-    lc "Hey yourself, naked man."
+    lc "И тебе привет, голый парниша!"
 
-# game/code/d17/d17s08.rpy:375
+# game/code/d17/d17s08.rpy:376
 translate russian replay_d17s08_2376c239:
 
     # lc "Oh good, you jerked off while I was in the shower."
-    lc "Oh good, you jerked off while I was in the shower."
+    lc "О, хорошо, ты подрочил, пока я была в душе."
 
-# game/code/d17/d17s08.rpy:377
+# game/code/d17/d17s08.rpy:378
 translate russian replay_d17s08_59332753:
 
     # lc "Not that I didn't want to be here when you came, but I'm tired."
-    lc "Not that I didn't want to be here when you came, but I'm tired."
+    lc "Не то чтобы я не хотела быть здесь, когда ты кончил, но я устала."
 
-# game/code/d17/d17s08.rpy:379
+# game/code/d17/d17s08.rpy:380
 translate russian replay_d17s08_653e0ff8:
 
     # lc "Damn, you're so fucking sexy."
-    lc "Damn, you're so fucking sexy."
+    lc "Проклятье, ты так чертовски сексуален."
 
-# game/code/d17/d17s08.rpy:381
+# game/code/d17/d17s08.rpy:382
 translate russian replay_d17s08_dfc6e236:
 
     # lc "If I wasn't so fucking tired I would throw you on the bed and have my way with you."
-    lc "If I wasn't so fucking tired I would throw you on the bed and have my way with you."
+    lc "Если бы я не была так чертовски уставшей, я бы бросила тебя на кровать и занялась тобой."
 
-# game/code/d17/d17s08.rpy:383
+# game/code/d17/d17s08.rpy:384
 translate russian replay_d17s08_8280a992:
 
     # lc "Wow. You are so incredibly sexy right now."
-    lc "Wow. You are so incredibly sexy right now."
+    lc "Вау. Ты сейчас так невероятно сексуален."
 
-# game/code/d17/d17s08.rpy:385
+# game/code/d17/d17s08.rpy:386
 translate russian replay_d17s08_61f2fd92:
 
     # lc "If I wasn't so tired I would do such horrible things with you."
-    lc "If I wasn't so tired I would do such horrible things with you."
+    lc "Если бы я не была такой уставшей, я бы сделала с тобой самые ужасные вещи."
 
-# game/code/d17/d17s08.rpy:387
+# game/code/d17/d17s08.rpy:388
 translate russian replay_d17s08_64559936:
 
     # mc "Too much time studying for finals?"
-    mc "Too much time studying for finals?"
+    mc "Слишком много времени уделяешь подготовке к экзаменам?"
 
-# game/code/d17/d17s08.rpy:389
+# game/code/d17/d17s08.rpy:390
 translate russian replay_d17s08_8e9ab5b6:
 
     # lc "You have no idea how much my throat hurts from singing practice."
-    lc "You have no idea how much my throat hurts from singing practice."
+    lc "Ты даже не представляешь, как сильно у меня болит горло от занятий пением."
 
-# game/code/d17/d17s08.rpy:391
+# game/code/d17/d17s08.rpy:392
 translate russian replay_d17s08_bac69fdd:
 
     # lc "Did you hear-?"
-    lc "Did you hear-?"
+    lc "Ты слышал...?"
 
-# game/code/d17/d17s08.rpy:399
+# game/code/d17/d17s08.rpy:400
 translate russian replay_d17s08_daeb626d:
 
     # lc "What was that for?"
-    lc "What was that for?"
+    lc "Зачем это?"
 
-# game/code/d17/d17s08.rpy:400
+# game/code/d17/d17s08.rpy:401
 translate russian replay_d17s08_6195c941:
 
     # mc "I was just overwhelmed with the desire to kiss you."
-    mc "I was just overwhelmed with the desire to kiss you."
+    mc "Меня просто переполняло желание поцеловать тебя."
 
-# game/code/d17/d17s08.rpy:402
+# game/code/d17/d17s08.rpy:403
 translate russian replay_d17s08_e8044916:
 
     # lc "I like that."
-    lc "I like that."
+    lc "Мне это понравилось."
 
-# game/code/d17/d17s08.rpy:404
+# game/code/d17/d17s08.rpy:405
 translate russian replay_d17s08_43ddfa89:
 
     # mc "So, you were telling me about your neighbor?"
-    mc "So, you were telling me about your neighbor?"
+    mc "Так, ты рассказывала о своем соседе?"
 
-# game/code/d17/d17s08.rpy:406
+# game/code/d17/d17s08.rpy:407
 translate russian replay_d17s08_9f4d732b:
 
     # lc "Oh, you remembered that."
-    lc "Oh, you remembered that."
+    lc "Ох, ты запомнил."
 
-# game/code/d17/d17s08.rpy:407
+# game/code/d17/d17s08.rpy:408
 translate russian replay_d17s08_cc9c6425:
 
     # mc "Was I supposed to forget about it?"
-    mc "Was I supposed to forget about it?"
+    mc "А я должен был забыть об этом?"
 
-# game/code/d17/d17s08.rpy:409
+# game/code/d17/d17s08.rpy:410
 translate russian replay_d17s08_3cc7853c:
 
     # lc "If you don't mind... I'll tell you about it some other time."
-    lc "If you don't mind... I'll tell you about it some other time."
+    lc "Если не возражаешь... То я расскажу об этом в другой раз."
 
-# game/code/d17/d17s08.rpy:410
+# game/code/d17/d17s08.rpy:411
 translate russian replay_d17s08_3270b79d:
 
     # mc "I dunno..."
-    mc "I dunno..."
+    mc "Даже не знаю..."
 
-# game/code/d17/d17s08.rpy:411
+# game/code/d17/d17s08.rpy:412
 translate russian replay_d17s08_da60c4c6:
 
     # lc "Yeah?"
-    lc "Yeah?"
+    lc "Что?"
 
-# game/code/d17/d17s08.rpy:413
+# game/code/d17/d17s08.rpy:414
 translate russian replay_d17s08_7cad9df1:
 
     # mc "It seems like you've been cheating on me by watching other people..."
-    mc "It seems like you've been cheating on me by watching other people..."
+    mc "Похоже, ты изменила мне, наблюдая за другим парнем..."
 
-# game/code/d17/d17s08.rpy:415
+# game/code/d17/d17s08.rpy:416
 translate russian replay_d17s08_ffcf64bc:
 
     # lc "Ha! It's not like that-"
-    lc "Ha! It's not like that-"
+    lc "Ха! Это не так..."
 
-# game/code/d17/d17s08.rpy:417
+# game/code/d17/d17s08.rpy:418
 translate russian replay_d17s08_442b70ed:
 
     # mc "I might have to punish you for not telling me about it."
-    mc "I might have to punish you for not telling me about it."
+    mc "Возможно, мне придется наказать тебя за то, что ты не рассказала мне об этом."
 
-# game/code/d17/d17s08.rpy:419
+# game/code/d17/d17s08.rpy:420
 translate russian replay_d17s08_6274a69b:
 
     # lc "Okay, okay! {w}I promise to make it up to you in the morning."
-    lc "Okay, okay! {w}I promise to make it up to you in the morning."
+    lc "Ладно, ладно! {w}Я обещаю загладить свою вину утром."
 
-# game/code/d17/d17s08.rpy:420
+# game/code/d17/d17s08.rpy:421
 translate russian replay_d17s08_5e2b3f7d:
 
     # mc "I hope so."
-    mc "I hope so."
+    mc "Надеюсь, что так и будет."
 
-# game/code/d17/d17s08.rpy:422
+# game/code/d17/d17s08.rpy:423
 translate russian replay_d17s08_8c716c86:
 
     # lc "Good night, my lovely."
-    lc "Good night, my lovely."
+    lc "Спокойной ночи, моя прелесть."
 
-# game/code/d17/d17s08.rpy:424
+# game/code/d17/d17s08.rpy:425
 translate russian replay_d17s08_7eb2a637:
 
     # mc "Rest well, my love."
-    mc "Rest well, my love."
+    mc "Отдыхай хорошо, любовь моя."
 
-# game/code/d17/d17s08.rpy:426
+# game/code/d17/d17s08.rpy:427
 translate russian replay_d17s08_a5dc5d88:
 
     # mc "*mumbles* These women are going to be the end of me."
-    mc "*mumbles* These women are going to be the end of me."
+    mc "*бормочет* Эти женщины сведут меня в могилу."
 
-# game/code/d17/d17s08.rpy:427
+# game/code/d17/d17s08.rpy:428
 translate russian replay_d17s08_e18b2360:
 
     # lc "What?!"
-    lc "What?!"
+    lc "Что?!"
 
-# game/code/d17/d17s08.rpy:428
+# game/code/d17/d17s08.rpy:429
 translate russian replay_d17s08_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "Что?"
 
-# game/code/d17/d17s08.rpy:429
+# game/code/d17/d17s08.rpy:430
 translate russian replay_d17s08_f53778bb:
 
     # lc "What did you say?"
-    lc "What did you say?"
+    lc "Что ты сказал?"
 
-# game/code/d17/d17s08.rpy:430
+# game/code/d17/d17s08.rpy:431
 translate russian replay_d17s08_4ccba40f:
 
     # mc "Rest well, beautiful."
-    mc "Rest well, beautiful."
+    mc "Отдыхай хорошо, красавица."
 
-# game/code/d17/d17s08.rpy:431
+# game/code/d17/d17s08.rpy:432
 translate russian replay_d17s08_89c46f33:
 
     # lc "Oh. {w}Thank you."
-    lc "Oh. {w}Thank you."
+    lc "А. {w}Спасибо."
 
-# game/code/d17/d17s08.rpy:433
+# game/code/d17/d17s08.rpy:434
 translate russian replay_d17s08_4ccba40f_1:
 
     # mc "Rest well, beautiful."
-    mc "Rest well, beautiful."
+    mc "Отдыхай хорошо, красавица."
 
-# game/code/d17/d17s08.rpy:435
+# game/code/d17/d17s08.rpy:436
 translate russian replay_d17s08_3e257e18:
 
     # lc "Oh, remind me in the morning..."
-    lc "Oh, remind me in the morning..."
+    lc "Ох, напомни мне утром..."
 
-# game/code/d17/d17s08.rpy:436
+# game/code/d17/d17s08.rpy:437
 translate russian replay_d17s08_c17ef8ec:
 
     # mc "What's that?"
-    mc "What's that?"
+    mc "О чем?"
 
-# game/code/d17/d17s08.rpy:437
+# game/code/d17/d17s08.rpy:438
 translate russian replay_d17s08_78cf9394:
 
     # lc "I want you to help me create my Fetish Locator account."
-    lc "I want you to help me create my Fetish Locator account."
+    lc "Я хочу, чтобы ты помог мне создать аккаунт на Фетиш Локаторе."
 
-# game/code/d17/d17s08.rpy:439
+# game/code/d17/d17s08.rpy:440
 translate russian replay_d17s08_55d60f89:
 
     # mct "Oh, crap."
-    mct "Oh, crap."
+    mct "Вот дерьмо."
+
+# TODO: Translation updated at 2022-08-24 12:18
+
+# game/code/d17/d17s08.rpy:360
+translate russian replay_d17s08_46a1f2b0:
+
+    # mct "Oh, right. Fetish Locator might be listening."
+    mct "Ох, точно. Локатор же подслушивает."
 

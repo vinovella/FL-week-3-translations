@@ -118,3 +118,11 @@ translate russian strings:
     old "Trans Content"
     new "Транс-контент"
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+translate russian strings:
+
+    # game/code/data/prologue.rpy:16
+    old "Polly & Nora"
+    new "Полли & Нора"
+

@@ -1430,3 +1430,11 @@ translate russian strings:
     old "Wrap this Up"
     new "Закончить"
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+translate russian strings:
+
+    # game/code/d15/d15s05.rpy:53
+    old "30 minutes later"
+    new "30 минут спустя."
+

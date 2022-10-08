@@ -1372,3 +1372,61 @@ translate russian strings:
     old "Tell her how you came while she was under the table"
     new "Рассказать ей, как ты кончил, пока она была под столом"
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+# game/code/d16/d16s10.rpy:662
+translate russian d16s10_ddf85c07:
+
+    # arj "It seems to know more about those of us in VIP-"
+    arj "Кажется, он знает больше о тех из нас, кто находится в VIP..."
+
+# game/code/d16/d16s10.rpy:670
+translate russian d16s10_b08a13b4:
+
+    # mc "The VIP Program?"
+    mc "В VIP-программе?"
+
+# game/code/d16/d16s10.rpy:690
+translate russian d16s10_be3018ad:
+
+    # mc "What did you do to get in the VIP Program? Did you send them pics or what?"
+    mc "Что ты сделала, чтобы попасть в VIP-программу? Ты отправила лишние фотографии или что?"
+
+translate russian strings:
+
+    # game/code/d16/d16s10.rpy:26
+    old "Later that evening"
+    new "Позже тем же вечером."
+
+# TODO: Translation updated at 2022-08-24 12:18
+
+# game/code/d16/d16s10.rpy:272
+translate russian d16s10_5956f153:
+
+    # mc "There we were, Lydia and myself in a fancy restaurant."
+    mc "Так мы и сидели. Лидия и я в шикарном ресторане."
+
+# game/code/d16/d16s10.rpy:534
+translate russian d16s10_1bbfea8c:
+
+    # arj "Got you happy, sexy, fun time thought?"
+    arj "Есть ли у тебя счастливые, сексуальные, веселые мысли?"
+
+# game/code/d16/d16s10.rpy:610
+translate russian d16s10_85e7d53d:
+
+    # arj "Maybe something like the G-forces experienced by pilots."
+    arj "Возможно, что-то вроде перегрузок, испытываемых пилотами."
+
+# game/code/d16/d16s10.rpy:663
+translate russian d16s10_c8e73589:
+
+    # arj "It seems to know more about those of us in the VIP-"
+    arj "Кажется, что они знает больше о тех из нас, кто состоит в ВИП..."
+
+# game/code/d16/d16s10.rpy:665
+translate russian d16s10_ce9c98af:
+
+    # arj "It seems to know more about those of us in the reten-"
+    arj "Кажется, что они знает больше о тех из нас, кто состоит в удер..."
+

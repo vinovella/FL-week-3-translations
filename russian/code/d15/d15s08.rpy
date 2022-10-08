@@ -1164,3 +1164,17 @@ translate russian d15s08_543ca118:
     # "Please save your game here."
     "Это конец текущей версии игры. Пожалуйста, сохраните игру здесь."
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+# game/code/d15/d15s08.rpy:69
+translate russian d15s08_1297c740:
+
+    # sy "The business of discovering who is behind Fetish Locator and winning the treasure?"
+    sy "Дело о том, как узнать, кто стоит за Фетиш Локатором, и найти сокровища?"
+
+# game/code/d15/d15s08.rpy:128
+translate russian d15s08_58dfa537:
+
+    # mc "Okay, Angels! Let's recap. Fetish Locator should have a physical server and we're going to find it."
+    mc "Хорошо, Ангелочки! Давайте подведем итоги. У Фетиш Локатора должен быть сервер, и мы должны его найти."
+

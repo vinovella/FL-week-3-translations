@@ -1098,3 +1098,11 @@ translate russian strings:
     old "Ask her if she got any pictures"
     new "Спросить ее, есть ли у нее фотографии."
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+translate russian strings:
+
+    # game/code/d16/d16s05.rpy:9
+    old "After the class"
+    new "После урока."
+

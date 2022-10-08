@@ -288,3 +288,11 @@ translate russian d16s02_71e9aca5:
     # fl "How will {i}you{/i} fare?"
     fl "Как {i}ты{/i} справишься?"
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+translate russian strings:
+
+    # game/code/d16/d16s02.rpy:22
+    old "15 minutes later"
+    new "15 минут спустя."
+

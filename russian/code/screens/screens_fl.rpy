@@ -177,3 +177,83 @@ translate russian strings:
     # game/code/screens/screens_fl.rpy:947
     old "Did you let Pete hit on Samiya?"
     new "Вы позволили Питу остаться с Самией?"
+
+# TODO: Translation updated at 2022-08-06 21:12
+
+translate russian strings:
+
+    # game/code/screens/screens_fl.rpy:199
+    old "Due to some new changes in Android OS, to import your save from Week 2 you need to follow these instructions."
+    new ""
+
+    # game/code/screens/screens_fl.rpy:201
+    old "1. Close the game and find the Week save file named \"FetishLocator\" in - \"InternalStorage/RenPy/persistent/\""
+    new ""
+
+    # game/code/screens/screens_fl.rpy:203
+    old "2. Copy the \"FetishLocator\" file to the following folder (replace existing files if any) -"
+    new ""
+
+    # game/code/screens/screens_fl.rpy:205
+    old "\"Internal storage/Android/data/com.patreon.fetishlocator.week3/files/saves/\"."
+    new ""
+
+    # game/code/screens/screens_fl.rpy:208
+    old "Contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} if you need help."
+    new ""
+
+    # game/code/screens/screens_fl.rpy:234
+    old "Your device can't save the game progress through different weeks. Please, allow FL App to write on the external storage."
+    new ""
+
+    # game/code/screens/screens_fl.rpy:236
+    old "On most devices you can set the permissions on the Setting app."
+    new ""
+
+    # game/code/screens/screens_fl.rpy:237
+    old "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
+    new ""
+
+    # game/code/screens/screens_fl.rpy:238
+    old "2. Set the permission to -> \"Allow management of all files\"."
+    new ""
+
+    # game/code/screens/screens_fl.rpy:240
+    old "Now the game should work."
+    new ""
+
+    # game/code/screens/screens_fl.rpy:242
+    old "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
+    new ""
+
+    # game/code/screens/screens_fl.rpy:244
+    old "1. Enable \"Show hidden items\" option in Windows Explorer."
+    new ""
+
+    # game/code/screens/screens_fl.rpy:245
+    old "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
+    new ""
+
+    # game/code/screens/screens_fl.rpy:246
+    old "3. Create a backup of the file \"FetishLocator\" and delete it."
+    new ""
+
+    # game/code/screens/screens_fl.rpy:248
+    old "5. After launching the game once, you can put the backed up \"FetishLocator\" file back to it's location to get your Previous Week's saves back."
+    new ""
+
+    # game/code/screens/screens_fl.rpy:256
+    old "Confirm"
+    new ""
+
+    # game/code/screens/screens_fl.rpy:965
+    old "Did you creampie Nora and agree to be the father?"
+    new ""
+
+# TODO: Translation updated at 2022-08-24 12:18
+
+translate russian strings:
+
+    # game/code/screens/screens_fl.rpy:1002
+    old "Did you give the password to her?"
+    new ""

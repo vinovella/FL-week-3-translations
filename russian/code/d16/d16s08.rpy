@@ -942,3 +942,49 @@ translate russian d16s08_719d7ead:
     # arj "Ha ha. Let's go, then."
     arj "Ха-ха. Тогда пошли."
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+# game/code/d16/d16s08.rpy:104
+translate russian d16s08_94638573:
+
+    # arj "Oh yeah, the bartender. She's in the VIP Program too."
+    arj "Ах да, бармен. Она тоже участвует в VIP-программе."
+
+# game/code/d16/d16s08.rpy:109
+translate russian d16s08_cd84f12c:
+
+    # mc "Which is probably how Hana found out about Fetish Locator and the VIP Program."
+    mc "Вероятно, именно так Хана узнала о Фетиш Локаторе и VIP-программе."
+
+# game/code/d16/d16s08.rpy:235
+translate russian d16s08_83b91498:
+
+    # mc "Oh, right."
+    mc "Ох, верно."
+
+# TODO: Translation updated at 2022-08-24 12:18
+
+# game/code/d16/d16s08.rpy:168
+translate russian d16s08_d5a669ec:
+
+    # arj "Close? She doesn't seem like the type to get close with anyone."
+    arj "Близки? Похоже, сейчас не время с кем-то сближаться."
+
+# game/code/d16/d16s08.rpy:219
+translate russian d16s08_4a5dd297:
+
+    # mc "I wouldn't say that. {w}It's more of a same-sex experiment for me."
+    mc "Я бы так не сказал. {w}Для меня это больше похоже на однополый эксперимент."
+
+# game/code/d16/d16s08.rpy:271
+translate russian d16s08_6df0603b:
+
+    # mc "I think she may want me to dress up next time. {w}Get into some sort of costume."
+    mc "Думаю, она хочет, чтобы я переоделся к следующему разу. {w}Надел какой-нибудь костюм."
+
+# game/code/d16/d16s08.rpy:301
+translate russian d16s08_92fd0e4a:
+
+    # mc "Yeah. I really need to talk to her about some things tomorrow, so maybe I can work a little fun time in as well."
+    mc "Да. Мне действительно нужно поговорить с ней о некоторых вещах, так что, может быть, я тоже смогу немного развлечься."
+

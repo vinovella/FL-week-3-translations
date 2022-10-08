@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-11 19:23
+﻿# TODO: Translation updated at 2022-06-06 10:42
 
 # game/code/d17/d17s05mo.rpy:4
 translate russian d17s05mo_e843f07b:

@@ -117,8 +117,23 @@ translate russian strings:
     old "Jerome"
     new "Джером"
 
+    old "Tracey"
+    new "Трейси"
+
     old "Mr. Melville"
     new "мистер Мелвилл"
+
+    old "Teresa Lewald"
+    new "Тереза Левальд"
+
+    old "Claudie Fulton"
+    new "Клаудия Фултон"
+
+    old "Kanya"
+    new "Канья"
+
+    old "Jim"
+    new "Джим"
 
     old "Mysterious Woman"
     new "Таинственная девушка"
@@ -141,17 +156,38 @@ translate russian strings:
     old "Waitress"
     new "Официантка"
 
+    old "Bartender"
+    new "Бармен"
+
     old "Voice"
     new "Голос"
 
     old "female voice"
     new "Женский голос"
 
+    old "Customer"
+    new "Покупатель"
+
+    old "Stranger"
+    new "Незнакомец"
+
+    old "Stranger 1"
+    new "Незнакомец 1"
+
+    old "Stranger 2"
+    new "Незнакомец 2"
+
+    old "Stranger 3"
+    new "Незнакомец 3"
+
     old "Narrator"
     new "Рассказчик"
 
     old "Developer"
     new "Разработчик"
+
+    old "Fetish Master"
+    new "Фетиш Локатор"
 
     old "Fetish Locator Retention"
     new "Программа удержания Фетиш-Локатора"

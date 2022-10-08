@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-11 19:23
+﻿# TODO: Translation updated at 2022-06-06 10:42
 
 # game/code/d17/d17s06dw.rpy:35
 translate russian d17s06dw_e843f07b:
@@ -450,721 +450,721 @@ translate russian d17s06dw_first_room_844f0afb:
     # mc "Yeah, sure. {w}The light doesn't make this place even more creepy, right?"
     mc "Да, конечно. {w}Со светом будет не так жутко, верно?"
 
-# game/code/d17/d17s06dw.rpy:235
+# game/code/d17/d17s06dw.rpy:236
 translate russian d17s06dw_clown_room_ef394b1d:
 
     # mc "Fuck! {w}This is the scariest room yet."
     mc "Черт! {w}Это самая страшная комната которую я только видел."
 
-# game/code/d17/d17s06dw.rpy:237
+# game/code/d17/d17s06dw.rpy:238
 translate russian d17s06dw_clown_room_f2c62be9:
 
     # sb "It's not so bad. {w}Kinda feels like home."
     sb "Все не так уж плохо. {w}Я даже чувствую себя как дома."
 
-# game/code/d17/d17s06dw.rpy:239
+# game/code/d17/d17s06dw.rpy:240
 translate russian d17s06dw_clown_room_8343aca3:
 
     # mc "That might be even more disturbing."
     mc "От этого еще более тревожно."
 
-# game/code/d17/d17s06dw.rpy:241
+# game/code/d17/d17s06dw.rpy:242
 translate russian d17s06dw_clown_room_716f8d2d:
 
     # dw "There's nothing scary here. {w}Hmm, it almost feels alive."
     dw "Здесь нет ничего страшного. {w}Хмм, они только кажутся живыми."
 
-# game/code/d17/d17s06dw.rpy:243
+# game/code/d17/d17s06dw.rpy:244
 translate russian d17s06dw_clown_room_19fe3dab:
 
     # mc "That doesn't bother you??? That thing freaks me the fuck out."
     mc "Тебя это не беспокоит??? Эта штука чертовски пугает меня."
 
-# game/code/d17/d17s06dw.rpy:245
+# game/code/d17/d17s06dw.rpy:246
 translate russian d17s06dw_clown_room_2c8138e5:
 
     # sb "You know, this might be a good time for that thing we talked about earlier."
     sb "Знаешь, возможно, сейчас самое подходящее время для того, о чем мы говорили ранее."
 
-# game/code/d17/d17s06dw.rpy:247
+# game/code/d17/d17s06dw.rpy:248
 translate russian d17s06dw_clown_room_7f16e184:
 
     # mc "What thing?"
     mc "Для чего?"
 
-# game/code/d17/d17s06dw.rpy:249
+# game/code/d17/d17s06dw.rpy:250
 translate russian d17s06dw_clown_room_3499f73a:
 
     # dw "Slave! Listen to your Mistress. Come stand her in front of me."
     dw "Раб! Слушай свою Госпожу. Подойди и встань передо мной."
 
-# game/code/d17/d17s06dw.rpy:251
+# game/code/d17/d17s06dw.rpy:252
 translate russian d17s06dw_clown_room_afa307c1:
 
     # mc "In front of the scary clown?"
     mc "Перед страшным клоуном?"
 
-# game/code/d17/d17s06dw.rpy:253
+# game/code/d17/d17s06dw.rpy:254
 translate russian d17s06dw_clown_room_f06a5419:
 
     # dw "Exactly. Don't keep me waiting."
     dw "Вот именно. Не заставляй меня ждать."
 
-# game/code/d17/d17s06dw.rpy:255
+# game/code/d17/d17s06dw.rpy:256
 translate russian d17s06dw_clown_room_7fd3a623:
 
     # mc "Yes, Mistress."
     mc "Да, Госпожа."
 
-# game/code/d17/d17s06dw.rpy:257
+# game/code/d17/d17s06dw.rpy:258
 translate russian d17s06dw_clown_room_0d68882e:
 
     # dw "Now get undressed."
     dw "А теперь раздевайся."
 
-# game/code/d17/d17s06dw.rpy:259
+# game/code/d17/d17s06dw.rpy:260
 translate russian d17s06dw_clown_room_55310c42:
 
     # mc "Seriously?"
     mc "Серьёзно?"
 
-# game/code/d17/d17s06dw.rpy:261
+# game/code/d17/d17s06dw.rpy:262
 translate russian d17s06dw_clown_room_0ab77972:
 
     # dw "Why not? {w}We've got the place all to ourselves."
     dw "Почему бы и нет? {w}Тут все в нашем полном распоряжении."
 
-# game/code/d17/d17s06dw.rpy:262
+# game/code/d17/d17s06dw.rpy:263
 translate russian d17s06dw_clown_room_e8c922e5:
 
     # mc "Seriously??"
     mc "Серьёзно?"
 
-# game/code/d17/d17s06dw.rpy:264
+# game/code/d17/d17s06dw.rpy:265
 translate russian d17s06dw_clown_room_8575e379:
 
     # sb "They're probably not going to send any new people into the Funhouse with the lights off."
     sb "Сюда не будут пускать новых посетителей, по крайней мере пока не включат свет."
 
-# game/code/d17/d17s06dw.rpy:266
+# game/code/d17/d17s06dw.rpy:267
 translate russian d17s06dw_clown_room_63572980:
 
     # dw "Listen to your Mistress. {w}NOW STRIP!"
     dw "Слушай свою Госпожу. {w}РАЗДЕВАЙСЯ!"
 
-# game/code/d17/d17s06dw.rpy:268
+# game/code/d17/d17s06dw.rpy:269
 translate russian d17s06dw_clown_room_c0052b5c:
 
     # mc "Okay, okay."
     mc "Ладно, ладно."
 
-# game/code/d17/d17s06dw.rpy:270
+# game/code/d17/d17s06dw.rpy:271
 translate russian d17s06dw_clown_room_deee5d98:
 
     # dw "That goes for you too, Samiya."
     dw "Это относится и к тебе, Самия."
 
-# game/code/d17/d17s06dw.rpy:272
+# game/code/d17/d17s06dw.rpy:273
 translate russian d17s06dw_clown_room_1c19e85d:
 
     # sb "Does it? Why?"
     sb "Правда? Почему?"
 
-# game/code/d17/d17s06dw.rpy:274
+# game/code/d17/d17s06dw.rpy:275
 translate russian d17s06dw_clown_room_466bc830:
 
     # dw "Because [mcname] is going to do your favorite thing."
     dw "Потому что [mcname] будет заниматься твоим любимым делом."
 
-# game/code/d17/d17s06dw.rpy:276
+# game/code/d17/d17s06dw.rpy:277
 translate russian d17s06dw_clown_room_cdb82408:
 
     # sb "What does that mean? He's going to pay my bills, get me some ice cream, and lick my cunt?"
     sb "Что это значит? Он будет оплачивать мои счета, покупать мне мороженое и лизать мою пизду?"
 
-# game/code/d17/d17s06dw.rpy:278
+# game/code/d17/d17s06dw.rpy:279
 translate russian d17s06dw_clown_room_79134cbc:
 
     # dw "No, silly. {w}He's going to fuck your ass until you cum."
     dw "Нет, глупая. {w}Он будет трахать твою задницу, пока ты не кончишь."
 
-# game/code/d17/d17s06dw.rpy:280
+# game/code/d17/d17s06dw.rpy:281
 translate russian d17s06dw_clown_room_7fa8576f:
 
     # sb "What?"
     sb "Что?"
 
-# game/code/d17/d17s06dw.rpy:282
+# game/code/d17/d17s06dw.rpy:283
 translate russian d17s06dw_clown_room_fbc6352e:
 
     # mct "I like this plan."
     mct "Мне нравится этот план."
 
-# game/code/d17/d17s06dw.rpy:284
+# game/code/d17/d17s06dw.rpy:285
 translate russian d17s06dw_clown_room_80645560:
 
     # sb "What the hell, Dahlia?"
     sb "Какого черта, Далия?"
 
-# game/code/d17/d17s06dw.rpy:285
+# game/code/d17/d17s06dw.rpy:286
 translate russian d17s06dw_clown_room_d2be6260:
 
     # sb "You think that just because I'm a whore my favorite thing in the whole damn world is getting some dick in my ass?!"
     sb "Ты думаешь, что потому, что я шлюха, то мне больше всего на свете нравится, когда в мою задницу вставляют члены?!"
 
-# game/code/d17/d17s06dw.rpy:287
+# game/code/d17/d17s06dw.rpy:288
 translate russian d17s06dw_clown_room_9f5841fe:
 
     # dw "What? No, dumbass. {w}I {u}KNOW{/u} that you get the best orgasms when you're being dicked in the ass because I'VE KNOWN You for-fucking-ever."
     dw "Что? Нет, тупица. {w}Я {u}ЗНАЮ{/u}, что ты получаешь лучшие оргазмы, когда тебе вставляют член в задницу, потому что я знаю тебя всю жизнь."
 
-# game/code/d17/d17s06dw.rpy:289
+# game/code/d17/d17s06dw.rpy:290
 translate russian d17s06dw_clown_room_6cefcbac:
 
     # sb "Oh."
     sb "Ох."
 
-# game/code/d17/d17s06dw.rpy:291
+# game/code/d17/d17s06dw.rpy:292
 translate russian d17s06dw_clown_room_dbad1d81:
 
     # dw "Do you even remember your 18th birthday party?"
     dw "Ты хоть помнишь свою 18-ю годовщину?"
 
-# game/code/d17/d17s06dw.rpy:293
+# game/code/d17/d17s06dw.rpy:294
 translate russian d17s06dw_clown_room_77213280:
 
     # sb "Heh. I had forgotten about that."
     sb "Хех. Я забыла об этом."
 
-# game/code/d17/d17s06dw.rpy:295
+# game/code/d17/d17s06dw.rpy:296
 translate russian d17s06dw_clown_room_ac33cf78:
 
     # dw "Has something changed since then?"
     dw "Что-то изменилось с тех пор?"
 
-# game/code/d17/d17s06dw.rpy:297
+# game/code/d17/d17s06dw.rpy:298
 translate russian d17s06dw_clown_room_9d6ea1fa:
 
     # sb "Yeah, a whole fucking LOT has changed since then.{w}.. but you're right about the anal orgasms."
     sb "Да, с тех пор многое изменилось.{w}.. но ты права насчет анальных оргазмов."
 
-# game/code/d17/d17s06dw.rpy:299
+# game/code/d17/d17s06dw.rpy:300
 translate russian d17s06dw_clown_room_87aa7ebe:
 
     # dw "I'm sorry, what was that?"
     dw "Ну а я что сказала?"
 
-# game/code/d17/d17s06dw.rpy:301
+# game/code/d17/d17s06dw.rpy:302
 translate russian d17s06dw_clown_room_7abb6a1f:
 
     # sb "Fine, but he better do it properly. {w}I don't want him to creampie my ass and leave me with blue balls."
     sb "Хорошо, но ему лучше сделать все правильно. {w}Я не хочу, чтобы он обкончал мою задницу и оставил меня с синими яйцами."
 
-# game/code/d17/d17s06dw.rpy:303
+# game/code/d17/d17s06dw.rpy:304
 translate russian d17s06dw_clown_room_baf550b7:
 
     # mct "Can girls even get blue balls?"
     mct "Могут ли у девушек быть синие яйца?"
 
-# game/code/d17/d17s06dw.rpy:307
+# game/code/d17/d17s06dw.rpy:308
 translate russian d17s06dw_clown_room_f09e6461:
 
     # dw "He's going to fuck you until you have the best orgasm of your life."
     dw "Он будет трахать тебя до тех пор, пока ты не испытаешь лучший оргазм в своей жизни."
 
-# game/code/d17/d17s06dw.rpy:309
+# game/code/d17/d17s06dw.rpy:310
 translate russian d17s06dw_clown_room_1e0599c7:
 
     # dw "OR ELSE. {w}Do I make myself understood?"
     dw "ИЛИ НЕТ. {w}Понял ли ты меня?"
 
-# game/code/d17/d17s06dw.rpy:311
+# game/code/d17/d17s06dw.rpy:312
 translate russian d17s06dw_clown_room_7fd3a623_1:
 
     # mc "Yes, Mistress."
     mc "Да, Госпожа."
 
-# game/code/d17/d17s06dw.rpy:315
+# game/code/d17/d17s06dw.rpy:316
 translate russian d17s06dw_clown_room_14026ad6:
 
     # dw "Good, now jerk that penis of yours until it is hard enough to be useful."
     dw "Хорошо, а теперь дрочи свой пенис, чтобы он стал достаточно твердым, чтобы быть полезным."
 
-# game/code/d17/d17s06dw.rpy:317
+# game/code/d17/d17s06dw.rpy:318
 translate russian d17s06dw_clown_room_2bbbef16:
 
     # mc "I'm a little distracted."
     mc "Я немного напуган."
 
-# game/code/d17/d17s06dw.rpy:319
+# game/code/d17/d17s06dw.rpy:320
 translate russian d17s06dw_clown_room_a8b964f8:
 
     # dw "Aww, does this scary little thing make your pee-pee all limp and useless?"
     dw "Оу, неужели эта страшная маленькая штучка делает твою писю вялой и бесполезной?"
 
-# game/code/d17/d17s06dw.rpy:321
+# game/code/d17/d17s06dw.rpy:322
 translate russian d17s06dw_clown_room_fe33c121:
 
     # mc "I... {w}yeah, kinda."
     mc "Я... {w}да, вроде того."
 
-# game/code/d17/d17s06dw.rpy:323
+# game/code/d17/d17s06dw.rpy:324
 translate russian d17s06dw_clown_room_6965627e:
 
     # dw "Well, man up, pussy. I demand that you get that dick hard immediately."
     dw "Ну, мужайся, киска. Я требую, чтобы ты немедленно возбудил свой член."
 
-# game/code/d17/d17s06dw.rpy:325
+# game/code/d17/d17s06dw.rpy:326
 translate russian d17s06dw_clown_room_c32ad71a:
 
     # mc "Yes, Mistress. {w}I'm sorry, Mistress."
     mc "Да, Госпожа. {w}Прошу прощения, Госпожа."
 
-# game/code/d17/d17s06dw.rpy:329
+# game/code/d17/d17s06dw.rpy:330
 translate russian d17s06dw_clown_room_15d94cc9:
 
     # mc "Wait. Is that a cadaver cart?"
     mc "Подождите. Это тележка для трупов?"
 
-# game/code/d17/d17s06dw.rpy:331
+# game/code/d17/d17s06dw.rpy:332
 translate russian d17s06dw_clown_room_23056262:
 
     # sb "Are you ready for me yet, stud?"
     sb "Ты уже готов для меня, жеребец?"
 
-# game/code/d17/d17s06dw.rpy:333
+# game/code/d17/d17s06dw.rpy:334
 translate russian d17s06dw_clown_room_291f4320:
 
     # mc "Just a minute. {w}I'm almost there."
     mc "Ещё минутку. {w}Я почти готов."
 
-# game/code/d17/d17s06dw.rpy:335
+# game/code/d17/d17s06dw.rpy:336
 translate russian d17s06dw_clown_room_13a6cac3:
 
     # dw "Listen up.{w} You are going to pleasure my friend in every possible way she demands."
     dw "Слушай внимательно. {w}Ты должен доставить удовольствие моей подруге всеми возможными способами, которых она потребует."
 
-# game/code/d17/d17s06dw.rpy:336
+# game/code/d17/d17s06dw.rpy:337
 translate russian d17s06dw_clown_room_db94aef2:
 
     # dw "You are going to make her orgasm from her asshole to make me happy."
     dw "Ты должен довести ее до оргазма через ее задницу, чтобы сделать меня счастливой."
 
-# game/code/d17/d17s06dw.rpy:337
+# game/code/d17/d17s06dw.rpy:338
 translate russian d17s06dw_clown_room_56f45037:
 
     # dw "But you are not - I repeat, NOT - going to cum yourself.{w} I have something special in mind for that."
     dw "Но ты не - я повторяю, НЕ - должен кончать сам. {w}У меня есть кое-какие планы на этот счет."
 
-# game/code/d17/d17s06dw.rpy:339
+# game/code/d17/d17s06dw.rpy:340
 translate russian d17s06dw_clown_room_ec1803f8:
 
     # mct "YES yes YES yes!"
     mct "ДА, да, ДА, да!"
 
-# game/code/d17/d17s06dw.rpy:340
+# game/code/d17/d17s06dw.rpy:341
 translate russian d17s06dw_clown_room_344ff11c:
 
     # mct "I'm going to assfuck Samiya as much as I want."
     mct "Я буду трахать Самию в жопу столько, сколько захочу."
 
-# game/code/d17/d17s06dw.rpy:341
+# game/code/d17/d17s06dw.rpy:342
 translate russian d17s06dw_clown_room_9419880a:
 
     # mct "This is a fucking dream cum true!"
     mct "Это гребаная мечта, ставшая явью!"
 
-# game/code/d17/d17s06dw.rpy:347
+# game/code/d17/d17s06dw.rpy:348
 translate russian d17s06dw_clown_room_e925112f:
 
     # sb "C'mer boy. First you're going to eat my ass and make sure I'm all lubed up."
     sb "Давай, парень. Сначала вылижи мою задницу и убедись, что она вся смазана."
 
-# game/code/d17/d17s06dw.rpy:349
+# game/code/d17/d17s06dw.rpy:350
 translate russian d17s06dw_clown_room_a49ed4f8:
 
     # mc "Okay."
     mc "Ладно."
 
-# game/code/d17/d17s06dw.rpy:357
+# game/code/d17/d17s06dw.rpy:358
 translate russian d17s06dw_clown_room_0ed2180c:
 
     # sb "That's good enough. Now stand up and shove your cock in my shithole as gently as you can."
     sb "Этого достаточно. А теперь встань и засунь свой член в мою дырочку так нежно, как только сможешь."
 
-# game/code/d17/d17s06dw.rpy:360
+# game/code/d17/d17s06dw.rpy:361
 translate russian d17s06dw_clown_room_3cd41a84:
 
     # mc "You know, at the mud wrestling event..."
     mc "Знаешь, во время той борьбы в грязи..."
 
-# game/code/d17/d17s06dw.rpy:361
+# game/code/d17/d17s06dw.rpy:362
 translate russian d17s06dw_clown_room_21e5d450:
 
     # mc "You could have just told me you wanted to lose."
     mc "Ты могла бы просто сказать мне, что хочешь проиграть."
 
-# game/code/d17/d17s06dw.rpy:363
+# game/code/d17/d17s06dw.rpy:364
 translate russian d17s06dw_clown_room_840f270a:
 
     # sb "It was a job, and there was an audience."
     sb "Это была работа, и там была аудитория."
 
-# game/code/d17/d17s06dw.rpy:365
+# game/code/d17/d17s06dw.rpy:366
 translate russian d17s06dw_clown_room_e4a23fbf:
 
     # mc "I guess that makes sense."
     mc "Да, ты права."
 
-# game/code/d17/d17s06dw.rpy:366
+# game/code/d17/d17s06dw.rpy:367
 translate russian d17s06dw_clown_room_1dfaeb17:
 
     # sb "Also, I really didn't want to lose."
     sb "Кроме того, я не хотела проиграть."
 
-# game/code/d17/d17s06dw.rpy:368
+# game/code/d17/d17s06dw.rpy:369
 translate russian d17s06dw_clown_room_ff373efe:
 
     # dw "She's really competitive if you hadn't noticed."
     dw "Она действительно любит посоревноваться, если ты не заметил."
 
-# game/code/d17/d17s06dw.rpy:370
+# game/code/d17/d17s06dw.rpy:371
 translate russian d17s06dw_clown_room_d051fb6f:
 
     # sb "You're one to talk."
     sb "А ты из тех, кто любит поговорить."
 
-# game/code/d17/d17s06dw.rpy:381
+# game/code/d17/d17s06dw.rpy:382
 translate russian d17s06dw_clown_room_5e9487ab:
 
     # sb "So, what about you, [mcname]?"
     sb "А что насчет тебя, [mcname]?"
 
-# game/code/d17/d17s06dw.rpy:382
+# game/code/d17/d17s06dw.rpy:383
 translate russian d17s06dw_clown_room_8a83b08b:
 
     # mc "I enjoy a healthy competition."
     mc "Я наслаждаюсь здоровым соревнованием."
 
-# game/code/d17/d17s06dw.rpy:385
+# game/code/d17/d17s06dw.rpy:386
 translate russian d17s06dw_clown_room_9abb110b:
 
     # sb "I mean, you don't seem like a sub."
     sb "Я хотела сказать, ты не похож на того кто любит подчиняться."
 
-# game/code/d17/d17s06dw.rpy:386
+# game/code/d17/d17s06dw.rpy:387
 translate russian d17s06dw_clown_room_a6be913e:
 
     # mc "So?"
     mc "И?"
 
-# game/code/d17/d17s06dw.rpy:389
+# game/code/d17/d17s06dw.rpy:390
 translate russian d17s06dw_clown_room_e62a5954:
 
     # sb "So, are you a reluctant submissive?"
     sb "Значит, ты пассивный саб?"
 
-# game/code/d17/d17s06dw.rpy:390
+# game/code/d17/d17s06dw.rpy:391
 translate russian d17s06dw_clown_room_fd4eab1d:
 
     # sb "Or do you just get off on Dahlia ordering you around?"
     sb "Или ты просто получаешь удовольствие от того, что Далия тобой командует?"
 
-# game/code/d17/d17s06dw.rpy:393
+# game/code/d17/d17s06dw.rpy:394
 translate russian d17s06dw_clown_room_a111d345:
 
     # mc "I enjoy being with my Mistress."
     mc "Мне нравится быть со своей Госпожой."
 
-# game/code/d17/d17s06dw.rpy:394
+# game/code/d17/d17s06dw.rpy:395
 translate russian d17s06dw_clown_room_abd765d2:
 
     # mc "Other than that, I don't overthink it."
     mc "Кроме этого, я не слишком задумывался об этом."
 
-# game/code/d17/d17s06dw.rpy:442
+# game/code/d17/d17s06dw.rpy:443
 translate russian d17s06dw_clown_room_a66be8e1:
 
     # sb "Fuck!"
     sb "Бля!"
 
-# game/code/d17/d17s06dw.rpy:443
+# game/code/d17/d17s06dw.rpy:444
 translate russian d17s06dw_clown_room_def0ad19:
 
     # mc "What is it?"
     mc "Что случилось?"
 
-# game/code/d17/d17s06dw.rpy:446
+# game/code/d17/d17s06dw.rpy:447
 translate russian d17s06dw_clown_room_825db2af:
 
     # sb "I'M GOING TO CUM SOON!!"
     sb "Я СЕЙЧАС КОНЧУ!!"
 
-# game/code/d17/d17s06dw.rpy:450
+# game/code/d17/d17s06dw.rpy:451
 translate russian d17s06dw_clown_room_026ac64a:
 
     # dw "About time."
     dw "Самое время."
 
-# game/code/d17/d17s06dw.rpy:452
+# game/code/d17/d17s06dw.rpy:453
 translate russian d17s06dw_clown_room_6c665a24:
 
     # sb "I just need to reposition myself a little"
     sb "Мне нужно немного изменить свое позу."
 
-# game/code/d17/d17s06dw.rpy:454
+# game/code/d17/d17s06dw.rpy:455
 translate russian d17s06dw_clown_room_0be45825:
 
     # mc "Wait - if you rub your clit, I'll disappoint Dahlia. She wants you to cum just from anal sex."
     mc "Подожди, если ты будешь потирать свой клитор, то я разочарую Далию. Она хочет, чтобы ты кончила только от анального секса."
 
-# game/code/d17/d17s06dw.rpy:456
+# game/code/d17/d17s06dw.rpy:457
 translate russian d17s06dw_clown_room_1544706b:
 
     # sb "That's not what I'm doing."
     sb "Это не то, что я хочу сделать."
 
-# game/code/d17/d17s06dw.rpy:460
+# game/code/d17/d17s06dw.rpy:461
 translate russian d17s06dw_clown_room_6a1a3249:
 
     # mc "Wha-?!"
     mc "Что...?!"
 
-# game/code/d17/d17s06dw.rpy:462
+# game/code/d17/d17s06dw.rpy:463
 translate russian d17s06dw_clown_room_c17dbc27:
 
     # sb "YAAAAAAaaaaAYYYyyyeyeeSSSSSSS!!!"
     sb "АААААААааааААААххххххххх!!!"
 
-# game/code/d17/d17s06dw.rpy:464
+# game/code/d17/d17s06dw.rpy:465
 translate russian d17s06dw_clown_room_12e277c3:
 
     # mc "OWOWOOWOOWOOOOoooOOOOOOwwwWWWW!!!!"
     mc "ОУОУООУООУООООоооООООООуууУУУУ!!!!"
 
-# game/code/d17/d17s06dw.rpy:467
+# game/code/d17/d17s06dw.rpy:468
 translate russian d17s06dw_clown_room_48bac1de:
 
     # dw "I hope you didn't cum while she did."
     dw "Надеюсь, ты не кончил, пока она кончала."
 
-# game/code/d17/d17s06dw.rpy:469
+# game/code/d17/d17s06dw.rpy:470
 translate russian d17s06dw_clown_room_1b8fd748:
 
     # mc "She put my balls in a vise!"
     mc "Она зажала мои яйца рукой!"
 
-# game/code/d17/d17s06dw.rpy:471
+# game/code/d17/d17s06dw.rpy:472
 translate russian d17s06dw_clown_room_236a5e27:
 
     # dw "Is that a \"Yes\" or a \"No\", slave?"
     dw "Это \"Да\" или \"Нет\", раб?"
 
-# game/code/d17/d17s06dw.rpy:473
+# game/code/d17/d17s06dw.rpy:474
 translate russian d17s06dw_clown_room_290eb067:
 
     # mc "*sigh* No, Mistress. I didn't cum while she was crushing my testicles."
     mc "*вздох* Нет, Госпожа. Я не кончил, так-как она зажала мои яички."
 
-# game/code/d17/d17s06dw.rpy:475
+# game/code/d17/d17s06dw.rpy:476
 translate russian d17s06dw_clown_room_53eb94dd:
 
     # dw "Good. Now, come here."
     dw "Хорошо. А теперь иди сюда."
 
-# game/code/d17/d17s06dw.rpy:477
+# game/code/d17/d17s06dw.rpy:478
 translate russian d17s06dw_clown_room_7fd3a623_2:
 
     # mc "Yes, Mistress."
     mc "Да, Госпожа."
 
-# game/code/d17/d17s06dw.rpy:479
+# game/code/d17/d17s06dw.rpy:480
 translate russian d17s06dw_clown_room_3e0a75b6:
 
     # dw "Now, whenever you are ready..."
     dw "Сейчас, когда будешь готов..."
 
-# game/code/d17/d17s06dw.rpy:481
+# game/code/d17/d17s06dw.rpy:482
 translate russian d17s06dw_clown_room_166a7ca4:
 
     # dw "Whenever your nice hard-on is ready to explode."
     dw "В тот момент, когда твой член уже будет готов взорваться."
 
-# game/code/d17/d17s06dw.rpy:483
+# game/code/d17/d17s06dw.rpy:484
 translate russian d17s06dw_clown_room_ddef141a:
 
     # dw "I want you to shoot your load into this clown's mouth."
     dw "Я хочу, чтобы ты всадил свой заряд в рот этому клоуну."
 
-# game/code/d17/d17s06dw.rpy:500
+# game/code/d17/d17s06dw.rpy:501
 translate russian d17s06dw_clown_room_79d083ce:
 
     # mct "Mmmm... {w}Totally worth it."
     mct "Мммм... {w}Оно того стоило."
 
-# game/code/d17/d17s06dw.rpy:502
+# game/code/d17/d17s06dw.rpy:503
 translate russian d17s06dw_clown_room_fdfa3e4d:
 
     # dw "Well done."
     dw "Отличная работа."
 
-# game/code/d17/d17s06dw.rpy:504
+# game/code/d17/d17s06dw.rpy:505
 translate russian d17s06dw_clown_room_100bdfd6:
 
     # dw "Looks like your semen cannon filled up the clown's balloon."
     dw "Похоже, твоя семенная пушка заполнила воздушный шар клоуна."
 
-# game/code/d17/d17s06dw.rpy:511
+# game/code/d17/d17s06dw.rpy:512
 translate russian d17s06dw_clown_room_a66b03f5:
 
     # sb "Huh, the lights are back on."
     sb "Ха, свет снова зажегся."
 
-# game/code/d17/d17s06dw.rpy:513
+# game/code/d17/d17s06dw.rpy:514
 translate russian d17s06dw_clown_room_140af9b4:
 
     # dw "Thank you, Captain Obvious."
     dw "Спасибо, Капитан Очевидность."
 
-# game/code/d17/d17s06dw.rpy:515
+# game/code/d17/d17s06dw.rpy:516
 translate russian d17s06dw_clown_room_3b14a328:
 
     # sb "You're welcome, Señor Dickface."
     sb "Не за что, сеньора Хуесоска."
 
-# game/code/d17/d17s06dw.rpy:517
+# game/code/d17/d17s06dw.rpy:518
 translate russian d17s06dw_clown_room_69cabffc:
 
     # mc "Ladies, ladies. Please. {w}Can we just get the hell out of here?"
     mc "Дамы, дамы. Пожалуйста. {w}Можем мы убраться отсюда к чертям?"
 
-# game/code/d17/d17s06dw.rpy:519
+# game/code/d17/d17s06dw.rpy:520
 translate russian d17s06dw_clown_room_80d88165:
 
     # dw "Sure, sure."
     dw "Конечно, конечно."
 
-# game/code/d17/d17s06dw.rpy:522
+# game/code/d17/d17s06dw.rpy:523
 translate russian d17s06dw_clown_room_b16113ca:
 
     # dw "Is that your phone?"
     dw "Это твой телефон?"
 
-# game/code/d17/d17s06dw.rpy:524
+# game/code/d17/d17s06dw.rpy:525
 translate russian d17s06dw_clown_room_2b618890:
 
     # sb "No, it's his."
     sb "Нет, это его."
 
-# game/code/d17/d17s06dw.rpy:530
+# game/code/d17/d17s06dw.rpy:531
 translate russian d17s06dw_clown_room_878eba30:
 
     # mct "Oh good. {w}I earned [d17s06_points] points"
     mct "О, хорошо. {w}Я получил [d17s06_points] очков."
 
-# game/code/d17/d17s06dw.rpy:532
+# game/code/d17/d17s06dw.rpy:533
 translate russian d17s06dw_clown_room_b1154bd9:
 
     # mct "Makes sense. My phone -and that other device- are battery powered."
     mct "Да. Мой телефон - и это устройство - работают от аккумулятора."
 
-# game/code/d17/d17s06dw.rpy:536
+# game/code/d17/d17s06dw.rpy:537
 translate russian d17s06dw_clown_room_ae1dd831:
 
     # sb "Hey [mcname]."
     sb "Эй, [mcname]."
 
-# game/code/d17/d17s06dw.rpy:538
+# game/code/d17/d17s06dw.rpy:539
 translate russian d17s06dw_clown_room_f49fff8f:
 
     # mc "Yeah?"
     mc "Да?"
 
-# game/code/d17/d17s06dw.rpy:540
+# game/code/d17/d17s06dw.rpy:541
 translate russian d17s06dw_clown_room_a238b19c:
 
     # sb "I just wanted to tell you. {w}About that whole fucking my ass until I came..."
     sb "Я просто хотела тебе сказать. {w}О том, что ты трахал меня в задницу, пока я не кончила..."
 
-# game/code/d17/d17s06dw.rpy:542
+# game/code/d17/d17s06dw.rpy:543
 translate russian d17s06dw_clown_room_32c9aaa0:
 
     # mc "Your Welcome."
     mc "Пожалуйста."
 
-# game/code/d17/d17s06dw.rpy:544
+# game/code/d17/d17s06dw.rpy:545
 translate russian d17s06dw_clown_room_1b1e5faf:
 
     # sb "No, I wanted to say that you owe me a metric fuckton of money for that experience."
     sb "Нет, я хотела сказать, что ты должен мне чертову уйму денег за этот секс."
 
-# game/code/d17/d17s06dw.rpy:545
+# game/code/d17/d17s06dw.rpy:546
 translate russian d17s06dw_clown_room_6455f485:
 
     # sb "I'll send you a bill."
     sb "Я пришлю тебе счет."
 
-# game/code/d17/d17s06dw.rpy:547
+# game/code/d17/d17s06dw.rpy:548
 translate russian d17s06dw_clown_room_6a1a3249_1:
 
     # mc "Wha-?!"
     mc "Что...?!"
 
-# game/code/d17/d17s06dw.rpy:559
+# game/code/d17/d17s06dw.rpy:560
 translate russian d17s06dw_breakup_1538d80a:
 
     # mc "Heya Dahlia!"
     mc "Привет, Далия!"
 
-# game/code/d17/d17s06dw.rpy:561
+# game/code/d17/d17s06dw.rpy:562
 translate russian d17s06dw_breakup_08226ef3:
 
     # dw "Hey, [mcname]. {w}Let's keep this short, okay?"
     dw "Привет, [mcname]. {w}Давай покороче, хорошо?"
 
-# game/code/d17/d17s06dw.rpy:563
+# game/code/d17/d17s06dw.rpy:564
 translate russian d17s06dw_breakup_e2734edd:
 
     # mc "Huh? {w}What's going on?"
     mc "Что? {w}Что происходит?"
 
-# game/code/d17/d17s06dw.rpy:565
+# game/code/d17/d17s06dw.rpy:566
 translate russian d17s06dw_breakup_17da9b8f:
 
     # dw "Look - it's over. Deal with it."
     dw "Слушай - все кончено. Просто смирись с этим."
 
-# game/code/d17/d17s06dw.rpy:567
+# game/code/d17/d17s06dw.rpy:568
 translate russian d17s06dw_breakup_9a45d107:
 
     # mc "What?! {w}What are you talking about???"
     mc "Что?! {w}О чем ты говоришь???"
 
-# game/code/d17/d17s06dw.rpy:569
+# game/code/d17/d17s06dw.rpy:570
 translate russian d17s06dw_breakup_0c74839a:
 
     # dw "Did I stutter? I'm done with you. Find yourself another mistress to displease."
     dw "Я непонятно выражаюсь? Я с тобой закончила. Найди себе другую Госпожу, чтобы доставлять ей удовольствие."
 
-# game/code/d17/d17s06dw.rpy:570
+# game/code/d17/d17s06dw.rpy:571
 translate russian d17s06dw_breakup_528accdb:
 
     # mc "I don't understand."
     mc "Я не понимаю."
 
-# game/code/d17/d17s06dw.rpy:572
+# game/code/d17/d17s06dw.rpy:573
 translate russian d17s06dw_breakup_f72e31d9:
 
     # dw "Live in ignorance, then. And lose my phone number."
     dw "Тогда живи в невежестве. И забудь мой номер телефона."
 
-# game/code/d17/d17s06dw.rpy:574
+# game/code/d17/d17s06dw.rpy:575
 translate russian d17s06dw_breakup_5a5d11e7:
 
     # mc "Dahlia, wait..."
     mc "Далия, постой..."
 
-# game/code/d17/d17s06dw.rpy:576
+# game/code/d17/d17s06dw.rpy:577
 translate russian d17s06dw_breakup_6525077f:
 
     # mct "What the fuck just happened?"

@@ -918,3 +918,19 @@ translate russian d15s03_end_2263a909:
     # pb "Anyway, I am heading out.{w} Later dude."
     pb "В любом случае, мне пора. {w}Увидимся, чувак."
 
+# TODO: Translation updated at 2022-08-06 21:12
+
+translate russian strings:
+
+    # game/code/d15/d15s03.rpy:6
+    old "20 minutes later"
+    new "20 минут спустя."
+
+# TODO: Translation updated at 2022-08-24 12:18
+
+# game/code/d15/d15s03.rpy:251
+translate russian d15s03_middle_eb0418a8:
+
+    # pb "Yeah. Somebody said that you two were at a jewelry store, shopping for rings."
+    pb "Да. Кто-то говорил, что вы даже были в ювелирном магазине, выбирали кольца."
+

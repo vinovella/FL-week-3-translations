@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-11 19:23
+﻿# TODO: Translation updated at 2022-06-06 10:42
 
 # game/code/d17/d17s01.rpy:40
 translate russian d17s01_8459a306:
@@ -768,961 +768,961 @@ translate russian d17s01_6860d713:
     # arj "Yeah, it is."
     arj "Да, это так."
 
-# game/code/d17/d17s01.rpy:310
+# game/code/d17/d17s01.rpy:312
 translate russian d17s01_ntr_5e58e857:
 
     # lc "MMmmmmmm..."
     lc "Ммммммммм..."
 
-# game/code/d17/d17s01.rpy:311
+# game/code/d17/d17s01.rpy:313
 translate russian d17s01_ntr_33b913c7:
 
     # lc "Yes, yes, right there!!"
     lc "Да, да, именно так!!!"
 
-# game/code/d17/d17s01.rpy:312
+# game/code/d17/d17s01.rpy:314
 translate russian d17s01_ntr_c835d811:
 
     # mc "Wow. Watching this is something else."
     mc "Вау. Смотреть со стороны на это - совсем другое дело."
 
-# game/code/d17/d17s01.rpy:314
+# game/code/d17/d17s01.rpy:316
 translate russian d17s01_ntr_a247aa22:
 
     # lc "This is wonderful.{w} You have a very talented tongue."
     lc "Это замечательно. {w}У тебя очень талантливый язык."
 
-# game/code/d17/d17s01.rpy:315
+# game/code/d17/d17s01.rpy:317
 translate russian d17s01_ntr_f6edf5ae:
 
     # lc "Please don't stop... I'm so close."
     lc "Пожалуйста, не останавливайся... Я уже близко."
 
-# game/code/d17/d17s01.rpy:319
+# game/code/d17/d17s01.rpy:321
 translate russian d17s01_ntr_98e109a3:
 
     # lc "Fetish Locator?"
     lc "Фетиш Локатор?"
 
-# game/code/d17/d17s01.rpy:321
+# game/code/d17/d17s01.rpy:323
 translate russian d17s01_ntr_97a8ccdc:
 
     # mc "What does it say?"
     mc "Что там написано?"
 
-# game/code/d17/d17s01.rpy:322
+# game/code/d17/d17s01.rpy:324
 translate russian d17s01_ntr_e7bcff5b:
 
     # lc "\"Come knocking at the rear entrance of Shady Thicket, what you'll find can be immensely satisfying.\"{w} Today's Fetish is Anal."
     lc "\"Если постучать в задний вход Тенистой Чащи, и то, что вы там найдете, может доставить вам огромное удовольствие.\" {w}Сегодняшний Фетиш дня - Анальный секс."
 
-# game/code/d17/d17s01.rpy:324
+# game/code/d17/d17s01.rpy:326
 translate russian d17s01_ntr_cf40f1c1:
 
     # lc "What do you say, love?{w} Do you want to have a go at her back door?"
     lc "Что скажешь, любимый? {w}Не хочешь навестить её в заднюю дверь?"
 
-# game/code/d17/d17s01.rpy:327
+# game/code/d17/d17s01.rpy:329
 translate russian d17s01_ntr_4ca905f6:
 
     # mc "I'd rather have a go at you."
     mc "Я бы предпочел сделать это с тобой."
 
-# game/code/d17/d17s01.rpy:329
+# game/code/d17/d17s01.rpy:331
 translate russian d17s01_ntr_b3f2216d:
 
     # lc "Not on the menu, I'm afraid."
     lc "Боюсь, этого нет в меню."
 
-# game/code/d17/d17s01.rpy:336
+# game/code/d17/d17s01.rpy:338
 translate russian d17s01_ntr_2513fab4:
 
     # mc "I will let her finish what she started first."
     mc "Я позволю ей сначала закончить то, что она начала."
 
-# game/code/d17/d17s01.rpy:338
+# game/code/d17/d17s01.rpy:340
 translate russian d17s01_ntr_b22588fe:
 
     # lc "I like that idea."
     lc "Мне нравится эта идея."
 
-# game/code/d17/d17s01.rpy:340
+# game/code/d17/d17s01.rpy:342
 translate russian d17s01_ntr_3b74a6ee:
 
     # mc "Mind if I jerk off meanwhile?"
     mc "Не возражаешь, если я пока подрочу?"
 
-# game/code/d17/d17s01.rpy:347
+# game/code/d17/d17s01.rpy:349
 translate russian d17s01_ntr_4786adb2:
 
     # mc "No, I think I'll pass."
     mc "Нет, думаю, я пас."
 
-# game/code/d17/d17s01.rpy:349
+# game/code/d17/d17s01.rpy:351
 translate russian d17s01_ntr_50ff96c1:
 
     # lc "In that case, I'll let her finish what she's started here."
     lc "В таком случае, я позволю ей закончить то, что она начала."
 
-# game/code/d17/d17s01.rpy:351
+# game/code/d17/d17s01.rpy:353
 translate russian d17s01_ntr_da005f97:
 
     # mc "Mind if I jerk off?"
     mc "Не возражаешь, если я подрочу?"
 
-# game/code/d17/d17s01.rpy:354
+# game/code/d17/d17s01.rpy:356
 translate russian d17s01_ntr_5c425860:
 
     # lc "Be my guest."
     lc "Не стесняйся."
 
-# game/code/d17/d17s01.rpy:371
+# game/code/d17/d17s01.rpy:373
 translate russian d17s01_lick_kitty_3095690c:
 
     # lc "Come here, love. Let me help you."
     lc "Иди сюда, любимый. Позволь мне помочь тебе."
 
-# game/code/d17/d17s01.rpy:372
+# game/code/d17/d17s01.rpy:374
 translate russian d17s01_lick_kitty_52dfbde1:
 
     # mct "I won't say no to that."
     mct "Не откажусь."
 
-# game/code/d17/d17s01.rpy:388
+# game/code/d17/d17s01.rpy:390
 translate russian d17s01_lick_kitty_45b944f8:
 
     # arj "Air!!!"
     arj "Воздух!!!"
 
-# game/code/d17/d17s01.rpy:395
+# game/code/d17/d17s01.rpy:397
 translate russian d17s01_lick_kitty_3dc369f1:
 
     # arj "Argh!!!"
     arj "Аргх!!!"
 
-# game/code/d17/d17s01.rpy:396
+# game/code/d17/d17s01.rpy:398
 translate russian d17s01_lick_kitty_ca7e5c1e:
 
     # arj "My eyes!!!{w} Why?!"
     arj "Мои глаза!!! {w}Зачем?!"
 
-# game/code/d17/d17s01.rpy:398
+# game/code/d17/d17s01.rpy:400
 translate russian d17s01_lick_kitty_da481a5e:
 
     # mc "I'm sorry, luv, I couldn't help it."
     mc "Прости, милая, я не смог удержаться."
 
-# game/code/d17/d17s01.rpy:400
+# game/code/d17/d17s01.rpy:402
 translate russian d17s01_lick_kitty_8742d517:
 
     # arj "Damn that burns!{w} Sorry, it's okay. It's okay..."
     arj "Черт, как горит! {w}Извини, все в порядке. Все в порядке..."
 
-# game/code/d17/d17s01.rpy:402
+# game/code/d17/d17s01.rpy:404
 translate russian d17s01_lick_kitty_522d5a5a:
 
     # lc "After that, I feel like I should have a cigarette."
     lc "После этого я прямо чувствую, что мне нужно выкурить сигарету."
 
-# game/code/d17/d17s01.rpy:404
+# game/code/d17/d17s01.rpy:406
 translate russian d17s01_lick_kitty_74fc6761:
 
     # mc "Me too."
     mc "Я тоже."
 
-# game/code/d17/d17s01.rpy:410
+# game/code/d17/d17s01.rpy:412
 translate russian d17s01_lick_kitty_9f958a6c:
 
     # lc "Get rid of your clothes and move over here."
     lc "Избавься от своей одежды и двигай сюда."
 
-# game/code/d17/d17s01.rpy:414
+# game/code/d17/d17s01.rpy:416
 translate russian d17s01_lick_kitty_7f5a1b93:
 
     # lc "I'd like to have a good view of this."
     lc "Я хочу иметь хороший обзор."
 
-# game/code/d17/d17s01.rpy:416
+# game/code/d17/d17s01.rpy:418
 translate russian d17s01_lick_kitty_4cd44184:
 
     # arj "..."
     arj "..."
 
-# game/code/d17/d17s01.rpy:418
+# game/code/d17/d17s01.rpy:420
 translate russian d17s01_lick_kitty_f985f8be:
 
     # mc "Incoming!"
     mc "Вхожу!"
 
-# game/code/d17/d17s01.rpy:427
+# game/code/d17/d17s01.rpy:429
 translate russian d17s01_no_ntr_07dd011a:
 
     # mc "We are ready."
     mc "Мы готовы."
 
-# game/code/d17/d17s01.rpy:429
+# game/code/d17/d17s01.rpy:431
 translate russian d17s01_no_ntr_80a121ce:
 
     # lc "I will get rid of my clothes."
     lc "Я избавлюсь от своей одежды."
 
-# game/code/d17/d17s01.rpy:433
+# game/code/d17/d17s01.rpy:435
 translate russian d17s01_no_ntr_339324c3:
 
     # lc "Be gentle.{w} She's a virgin... sorta."
     lc "Будь нежен. {w}Она ещё девственница... вроде бы."
 
-# game/code/d17/d17s01.rpy:436
+# game/code/d17/d17s01.rpy:438
 translate russian d17s01_no_ntr_b9df5a98:
 
     # arj "*mumbling* thanks, cunt."
     arj "*бормочет* Спасибо, пизда."
 
-# game/code/d17/d17s01.rpy:438
+# game/code/d17/d17s01.rpy:440
 translate russian d17s01_no_ntr_efa7c633:
 
     # arj "*mumbling* thanks, bitch."
     arj "*бормочет* Спасибо, сучка."
 
-# game/code/d17/d17s01.rpy:440
+# game/code/d17/d17s01.rpy:442
 translate russian d17s01_no_ntr_af82a459:
 
     # mc "You sure you don't want any lube?"
     mc "Ты уверена, что тебе не нужна смазка?"
 
-# game/code/d17/d17s01.rpy:442
+# game/code/d17/d17s01.rpy:444
 translate russian d17s01_no_ntr_916000a0:
 
     # lc "Positive."
     lc "Положительно."
 
-# game/code/d17/d17s01.rpy:444
+# game/code/d17/d17s01.rpy:446
 translate russian d17s01_no_ntr_ae0f48a6:
 
     # mc "I wasn't asking you, hon.{w} AmRose? We've got syrup, butter..."
     mc "Я не тебя спрашивал, дорогая. {w}АмРоуз? У нас есть сироп, масло..."
 
-# game/code/d17/d17s01.rpy:446
+# game/code/d17/d17s01.rpy:448
 translate russian d17s01_no_ntr_2d4268b1:
 
     # arj "I have some gun oil in the bedroom..."
     arj "У меня в спальне есть немного масла..."
 
-# game/code/d17/d17s01.rpy:448
+# game/code/d17/d17s01.rpy:450
 translate russian d17s01_no_ntr_ff2fe935:
 
     # mc "You want me to get it?"
     mc "Ты хочешь, чтобы я его принес?"
 
-# game/code/d17/d17s01.rpy:450
+# game/code/d17/d17s01.rpy:452
 translate russian d17s01_no_ntr_85fea182:
 
     # lc "Please don't.{w} I'd like to see what it's like...{w} raw. Is that the word?"
     lc "Пожалуйста, не надо. {w}Я бы хотела посмотреть, на что это будет похоже..."
 
-# game/code/d17/d17s01.rpy:452
+# game/code/d17/d17s01.rpy:454
 translate russian d17s01_no_ntr_56124645:
 
     # arj "It's okay.{w} Fuck me raw. I want to feel what it's like."
     arj "Все в порядке. {w}Трахай меня грубо. Я хочу почувствовать, на что это похоже."
 
-# game/code/d17/d17s01.rpy:454
+# game/code/d17/d17s01.rpy:456
 translate russian d17s01_no_ntr_a49ed4f8:
 
     # mc "Okay."
     mc "Ладно."
 
-# game/code/d17/d17s01.rpy:456
+# game/code/d17/d17s01.rpy:458
 translate russian d17s01_no_ntr_3ca42aaf:
 
     # lc "You might want to go slow at first."
     lc "Возможно, сначала нужно действовать медленно."
 
-# game/code/d17/d17s01.rpy:458
+# game/code/d17/d17s01.rpy:460
 translate russian d17s01_no_ntr_85974aab:
 
     # arj "No!"
     arj "Нет!"
 
-# game/code/d17/d17s01.rpy:459
+# game/code/d17/d17s01.rpy:461
 translate russian d17s01_no_ntr_11455b53:
 
     # mc "What?"
     mc "Что?"
 
-# game/code/d17/d17s01.rpy:461
+# game/code/d17/d17s01.rpy:463
 translate russian d17s01_no_ntr_5d7689bd:
 
     # arj "It's like ripping off a band-aid.{w} You fuck my ass, I push back on you, and we get you balls deep as fast as possible."
     arj "Это почти как срывать пластырь. {w}Ты заталкивай мне в задницу, а я буду давить тебе на встречу, и мы быстро протолкнем твой член внутрь по самые яйца."
 
-# game/code/d17/d17s01.rpy:462
+# game/code/d17/d17s01.rpy:464
 translate russian d17s01_no_ntr_cfce055e:
 
     # mc "Are you sure?"
     mc "Ты уверена?"
 
-# game/code/d17/d17s01.rpy:464
+# game/code/d17/d17s01.rpy:466
 translate russian d17s01_no_ntr_583c3dbf:
 
     # lc "That sounds like it would be incredibly painful."
     lc "Похоже, это будет невероятно болезненно."
 
-# game/code/d17/d17s01.rpy:467
+# game/code/d17/d17s01.rpy:469
 translate russian d17s01_no_ntr_74aeb474:
 
     # arj "If you're going to fucking rape my ass at least do what I tell you to do."
     arj "Если ты собираешься, блядь, насиловать мою задницу, то делай так, как я говорю."
 
-# game/code/d17/d17s01.rpy:469
+# game/code/d17/d17s01.rpy:471
 translate russian d17s01_no_ntr_96f17797:
 
     # arj "If you're going to fucking fuck me in the shitter at least do what I tell you to do."
     arj "Если ты собираешься трахнуть меня в задницу, то делай так, как я говорю."
 
-# game/code/d17/d17s01.rpy:471
+# game/code/d17/d17s01.rpy:473
 translate russian d17s01_no_ntr_a49ed4f8_1:
 
     # mc "Okay."
     mc "Ладно."
 
-# game/code/d17/d17s01.rpy:483
+# game/code/d17/d17s01.rpy:485
 translate russian d17s01_anal_sex_700f5a57:
 
     # arj "FUUUUUuuuuuuuuUUUUUCCCCCCKKKINNNNGGGG HELL!!!"
     arj "ОооооооооооооооооооооохххххххххХХХ БЛЯ!!!"
 
-# game/code/d17/d17s01.rpy:485
+# game/code/d17/d17s01.rpy:487
 translate russian d17s01_anal_sex_c9fac30e:
 
     # lc "She asked for it."
     lc "Она сама напросилась на это."
 
-# game/code/d17/d17s01.rpy:487
+# game/code/d17/d17s01.rpy:489
 translate russian d17s01_anal_sex_06a5de85:
 
     # mc "Shit!{w} Are you alright?!"
     mc "Черт! {w}Ты в порядке?!"
 
-# game/code/d17/d17s01.rpy:489
+# game/code/d17/d17s01.rpy:491
 translate russian d17s01_anal_sex_c1627605:
 
     # arj "FUCK!!{w} You are a LOT bigger than my toys!"
     arj "БЛЯ!! {w}У тебя НАМНОГО больше, чем мои игрушки!"
 
-# game/code/d17/d17s01.rpy:491
+# game/code/d17/d17s01.rpy:493
 translate russian d17s01_anal_sex_457a2223:
 
     # mc "I can't seem to pull out."
     mc "Кажется я не могу вытащить."
 
-# game/code/d17/d17s01.rpy:493
+# game/code/d17/d17s01.rpy:495
 translate russian d17s01_anal_sex_32e06c71:
 
     # arj "OW!!! OW!!! OW!!{w} STOP THAT!!!"
     arj "ОУ!!! ОУ!!! ОУ!!! {w}ОСТАНОВИСЬ!!!"
 
-# game/code/d17/d17s01.rpy:495
+# game/code/d17/d17s01.rpy:497
 translate russian d17s01_anal_sex_f0eeda9a:
 
     # mc "Sorry, sorry."
     mc "Прости, прости."
 
-# game/code/d17/d17s01.rpy:496
+# game/code/d17/d17s01.rpy:498
 translate russian d17s01_anal_sex_f3c8b7d1:
 
     # arj "Give me a second."
     arj "Дай мне секунду."
 
-# game/code/d17/d17s01.rpy:498
+# game/code/d17/d17s01.rpy:500
 translate russian d17s01_anal_sex_150ef387:
 
     # arj "*deep breath*"
     arj "*глубоко дышит*"
 
-# game/code/d17/d17s01.rpy:499
+# game/code/d17/d17s01.rpy:501
 translate russian d17s01_anal_sex_fbc923d2:
 
     # arj "Okay. If you don't mind, I'm going to fuck your cock for a bit"
     arj "Хорошо. Теперь можешь потихоньку начинать двигаться..."
 
-# game/code/d17/d17s01.rpy:501
+# game/code/d17/d17s01.rpy:503
 translate russian d17s01_anal_sex_5ef7d2dc:
 
     # lc "Sounds good to me."
     lc "По-моему, звучит интересно."
 
-# game/code/d17/d17s01.rpy:503
+# game/code/d17/d17s01.rpy:505
 translate russian d17s01_anal_sex_8831a11c:
 
     # mc "Sounds great to me."
     mc "По-моему, звучит офигенно."
 
-# game/code/d17/d17s01.rpy:510
+# game/code/d17/d17s01.rpy:512
 translate russian d17s01_anal_sex_1d6444af:
 
     # lc "HA!"
     lc "ХА!"
 
-# game/code/d17/d17s01.rpy:512
+# game/code/d17/d17s01.rpy:514
 translate russian d17s01_anal_sex_75e1f4cc:
 
     # arj "What is it?"
     arj "Что?"
 
-# game/code/d17/d17s01.rpy:514
+# game/code/d17/d17s01.rpy:516
 translate russian d17s01_anal_sex_58327a21:
 
     # lc "Fetish Locator."
     lc "Фетиш Локатор."
 
-# game/code/d17/d17s01.rpy:515
+# game/code/d17/d17s01.rpy:517
 translate russian d17s01_anal_sex_97a8ccdc:
 
     # mc "What does it say?"
     mc "Что там написано?"
 
-# game/code/d17/d17s01.rpy:517
+# game/code/d17/d17s01.rpy:519
 translate russian d17s01_anal_sex_164d82cf:
 
     # lc "\"Come knocking at the rear entrance of Shady Thicket, what you'll find can be immensely satisfying.{w} Today's Fetish is Anal."
     lc "\"Если постучать в задний вход Тенистой Чащи, и то, что вы там найдете, может доставить вам огромное удовольствие.\" {w}Сегодняшний Фетиш дня - Анальный секс."
 
-# game/code/d17/d17s01.rpy:519
+# game/code/d17/d17s01.rpy:521
 translate russian d17s01_anal_sex_58fef8e5:
 
     # mc "Haha, that is funny."
     mc "Ха-ха, это смешно."
 
-# game/code/d17/d17s01.rpy:521
+# game/code/d17/d17s01.rpy:523
 translate russian d17s01_anal_sex_5b328454:
 
     # arj "Oh, fuck me."
     arj "Ох, трахай меня."
 
-# game/code/d17/d17s01.rpy:523
+# game/code/d17/d17s01.rpy:525
 translate russian d17s01_anal_sex_10bdbab7:
 
     # lc "Exactly."
     lc "Совершенно верно."
 
-# game/code/d17/d17s01.rpy:526
+# game/code/d17/d17s01.rpy:528
 translate russian d17s01_anal_sex_7acb55da:
 
     # arj "Oh, ha, ha.{w} Ow!"
     arj "Ох, ах, ах. {w}Оу!"
 
-# game/code/d17/d17s01.rpy:529
+# game/code/d17/d17s01.rpy:531
 translate russian d17s01_anal_sex_096bcc92:
 
     # mc "Too much?"
     mc "Слишком сильно?"
 
-# game/code/d17/d17s01.rpy:530
+# game/code/d17/d17s01.rpy:532
 translate russian d17s01_anal_sex_84c11fbb:
 
     # arj "FUCK!{w} No, it's good. Keep going."
     arj "БЛЯ! {w}Нет, все хорошо. Продолжай."
 
-# game/code/d17/d17s01.rpy:540
+# game/code/d17/d17s01.rpy:542
 translate russian d17s01_anal_sex_c057ab34:
 
     # lc "I'm surprised. I thought you would get off on this."
     lc "Я удивлена. Думала, тебе это нравится."
 
-# game/code/d17/d17s01.rpy:543
+# game/code/d17/d17s01.rpy:545
 translate russian d17s01_anal_sex_059091eb:
 
     # arj "I will."
     arj "Нравится."
 
-# game/code/d17/d17s01.rpy:544
+# game/code/d17/d17s01.rpy:546
 translate russian d17s01_anal_sex_bb0565a9:
 
     # arj "I just need...{w} to get used to his size."
     arj "Просто мне нужно... {w}привыкнуть к его размеру."
 
-# game/code/d17/d17s01.rpy:547
+# game/code/d17/d17s01.rpy:549
 translate russian d17s01_anal_sex_4239202c:
 
     # mc "Would some lubricant help?"
     mc "Может использовать смазку?"
 
-# game/code/d17/d17s01.rpy:548
+# game/code/d17/d17s01.rpy:550
 translate russian d17s01_anal_sex_01f758f7:
 
     # arj "Too late."
     arj "Уже поздно."
 
-# game/code/d17/d17s01.rpy:551
+# game/code/d17/d17s01.rpy:553
 translate russian d17s01_anal_sex_6d49c75e:
 
     # lc "Maybe next time?"
     lc "Может в следующий раз?"
 
-# game/code/d17/d17s01.rpy:554
+# game/code/d17/d17s01.rpy:556
 translate russian d17s01_anal_sex_781f6644:
 
     # arj "Probably."
     arj "Может."
 
-# game/code/d17/d17s01.rpy:557
+# game/code/d17/d17s01.rpy:559
 translate russian d17s01_anal_sex_2c582b8a:
 
     # mc "Fuck your ass feels amazing."
     mc "Трахать твою задницу - это потрясающе."
 
-# game/code/d17/d17s01.rpy:560
-translate russian d17s01_anal_sex_a8b35340:
+# game/code/d17/d17s01.rpy:562
+translate russian d17s01_anal_sex_69616fc6:
 
-    # arj "Feels like your knee deep in my colon."
-    arj "Такое ощущение, будто ты засунул свою ногу по самое колено глубоко в мою задницу."
+    # arj "Feels like you're knee deep in my colon."
+    arj "Такое ощущение, будто ты глубоко засунул свою ногу по самое колено в мою задницу."
 
-# game/code/d17/d17s01.rpy:563
+# game/code/d17/d17s01.rpy:565
 translate russian d17s01_anal_sex_47890a68:
 
     # mc "I don't think I can stop myself."
     mc "Не думаю, что смогу остановиться."
 
-# game/code/d17/d17s01.rpy:566
+# game/code/d17/d17s01.rpy:568
 translate russian d17s01_anal_sex_1f2b44e4:
 
     # arj "Please... please... keep fucking my dirty ass."
     arj "Пожалуйста... пожалуйста... продолжай трахать мою грязную задницу."
 
-# game/code/d17/d17s01.rpy:569
+# game/code/d17/d17s01.rpy:571
 translate russian d17s01_anal_sex_135521c7:
 
     # lc "That is so hot."
     lc "Это так горячо."
 
-# game/code/d17/d17s01.rpy:570
+# game/code/d17/d17s01.rpy:572
 translate russian d17s01_anal_sex_fd6f33e0:
 
     # mc "I think so too."
     mc "Я тоже так думаю."
 
-# game/code/d17/d17s01.rpy:575
+# game/code/d17/d17s01.rpy:577
 translate russian d17s01_anal_sex_ba63f56c:
 
     # lc "Can you keep talking dirty like that?{w} It's so damn sexy."
     lc "Ты можешь продолжать грязно говорить? {w}Это так чертовски сексуально."
 
-# game/code/d17/d17s01.rpy:577
+# game/code/d17/d17s01.rpy:579
 translate russian d17s01_anal_sex_bb44e802:
 
     # arj "FUCK!"
     arj "БЛЯ!"
 
-# game/code/d17/d17s01.rpy:578
+# game/code/d17/d17s01.rpy:580
 translate russian d17s01_anal_sex_145828ca:
 
     # arj "Fuck my dirty shitbox you whoremonger."
     arj "Трахай мою грязную развратную дырочку, ты, шлюхоёб."
 
-# game/code/d17/d17s01.rpy:579
+# game/code/d17/d17s01.rpy:581
 translate russian d17s01_anal_sex_381db7d6:
 
     # arj "You like that? You like fucking my tight ass?"
     arj "Тебе это нравится? Тебе нравится трахать мою тугую задницу?"
 
-# game/code/d17/d17s01.rpy:582
+# game/code/d17/d17s01.rpy:584
 translate russian d17s01_anal_sex_79359761:
 
     # arj "You like fucking my dirty shitbox?"
     arj "Тебе нравится трахать мою грязную развратную задницу?"
 
-# game/code/d17/d17s01.rpy:583
+# game/code/d17/d17s01.rpy:585
 translate russian d17s01_anal_sex_f3241ef0:
 
     # arj "Tell me, please"
     arj "Ответь мне, пожалуйста."
 
-# game/code/d17/d17s01.rpy:584
+# game/code/d17/d17s01.rpy:586
 translate russian d17s01_anal_sex_175d8c36:
 
     # mc "I fucking love it."
     mc "Мне это пиздец как нравится."
 
-# game/code/d17/d17s01.rpy:590
+# game/code/d17/d17s01.rpy:592
 translate russian d17s01_anal_sex_eb26bfcd:
 
     # mc "It feels like it was made for my pleasure!"
     mc "Такое впечатление, что она специально создана для моего удовольствия!"
 
-# game/code/d17/d17s01.rpy:591
+# game/code/d17/d17s01.rpy:593
 translate russian d17s01_anal_sex_21acf1cb:
 
     # arj "FUCK YES!{w} Ravage my little starfish!"
     arj "БЛЯТЬ, ДА! {w}Разъеби мою маленькую тугую дырочку!"
 
-# game/code/d17/d17s01.rpy:593
+# game/code/d17/d17s01.rpy:595
 translate russian d17s01_anal_sex_a3865e3d:
 
     # mc "I'm going to rape your tiny asshole until you bleed!!!"
     mc "Я буду трахать твою тугую задницу, пока она не раздолбится как следует!!!"
 
-# game/code/d17/d17s01.rpy:595
+# game/code/d17/d17s01.rpy:597
 translate russian d17s01_anal_sex_fc383192:
 
     # mc "I'm going to fuck your outhouse asterisk until I can't get enough!!!"
     mc "Я буду трахать твою шикарную попу до тех пор, пока мне не надоест!!!"
 
-# game/code/d17/d17s01.rpy:598
+# game/code/d17/d17s01.rpy:600
 translate russian d17s01_anal_sex_f66617d4:
 
     # lc "DAMN! I'm going to cum soon!"
     lc "ПРОКЛЯТЬЕ! Я скоро кончу!"
 
-# game/code/d17/d17s01.rpy:600
+# game/code/d17/d17s01.rpy:602
 translate russian d17s01_anal_sex_8c25dd17:
 
     # mc "I'm about to dump a load of cum up her little fuckhole..."
     mc "Я собираюсь залить порцию спермы в ее узенькую дырочку..."
 
-# game/code/d17/d17s01.rpy:601
+# game/code/d17/d17s01.rpy:603
 translate russian d17s01_anal_sex_8f1e981f:
 
     # arj "OOOOOooohhhaafffucckkkmeee!{w} HARDER!{w} MORE!!!"
     arj "ОООООооохххббблллляяяяя! {w}СИЛЬНЕЕ! {w}ЕЩЁ!!!"
 
-# game/code/d17/d17s01.rpy:603
+# game/code/d17/d17s01.rpy:605
 translate russian d17s01_anal_sex_f41aa05d:
 
     # lc "I'M CUMMINNNGGGGGG!!!"
     lc "Я КОНЧАААЮЮЮЮ!!!"
 
-# game/code/d17/d17s01.rpy:605
+# game/code/d17/d17s01.rpy:607
 translate russian d17s01_anal_sex_0e7836ca:
 
     # mc "TAKE IT YOU BITCH!!!"
     mc "ПРИМИ ЭТО, СУЧКА!!!"
 
-# game/code/d17/d17s01.rpy:608
+# game/code/d17/d17s01.rpy:610
 translate russian d17s01_anal_sex_7fed454e:
 
     # arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX LIKE I WAS YOUR SISTER!!!"
     arj "ААОООХооооооххх!!! ДА!!! {w}КОНЧАЙ В МОЙ ГРЯЗНУЮ ДЫРОЧКУ, КАК БУДТО Я ТВОЯ СЕСТРА!!!"
 
-# game/code/d17/d17s01.rpy:610
+# game/code/d17/d17s01.rpy:612
 translate russian d17s01_anal_sex_6669855a:
 
     # arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX YOU FUCKING DEFILER!!!"
     arj "ААОООХооооооххх!!! ДА! {w}КОНЧАЙ В МОЙ ГРЯЗНУЮ ДЫРОЧКУ, ТЫ, ГРЕБАННЫЙ НАСИЛЬНИК!!!"
 
-# game/code/d17/d17s01.rpy:612
+# game/code/d17/d17s01.rpy:614
 translate russian d17s01_anal_sex_e695f042:
 
     # arj "AAOOOAAHoooaahhh!!!{w} CREAMPIE MY DIRTBOX YOU ASSHOLE!!!"
     arj "ААОООХооооооххх!!! {w}КОНЧАЙ В МОЙ ГРЯЗНУЮ ДЫРОЧКУ, НЕГОДЯЙ!!!"
 
-# game/code/d17/d17s01.rpy:616
+# game/code/d17/d17s01.rpy:618
 translate russian d17s01_anal_sex_c25c3bf6:
 
     # lc "Damn. That was amazing."
     lc "Черт. Это было потрясающе."
 
-# game/code/d17/d17s01.rpy:618
+# game/code/d17/d17s01.rpy:620
 translate russian d17s01_anal_sex_8f14300c:
 
     # mc "After that, I wish I had a cigarette."
     mc "После такого я жалею, что не курю сигарет."
 
-# game/code/d17/d17s01.rpy:620
+# game/code/d17/d17s01.rpy:622
 translate russian d17s01_anal_sex_790ea5a9:
 
     # lc "Me too."
     lc "Я тоже."
 
-# game/code/d17/d17s01.rpy:624
+# game/code/d17/d17s01.rpy:626
 translate russian d17s01_anal_sex_ce974d5f:
 
     # arj "Use my holes like you own them!"
     arj "Используй мою дырочку как тебе хочется, ведь она принадлежат тебе!"
 
-# game/code/d17/d17s01.rpy:626
+# game/code/d17/d17s01.rpy:628
 translate russian d17s01_anal_sex_2ca2909d:
 
     # arj "Use my holes any way you like!"
     arj "Используй мои дырочки как тебе угодно!"
 
-# game/code/d17/d17s01.rpy:629
+# game/code/d17/d17s01.rpy:631
 translate russian d17s01_anal_sex_eb26bfcd_1:
 
     # mc "It feels like it was made for my pleasure!"
     mc "Такое ощущение, что она создана специально для моего удовольствия!"
 
-# game/code/d17/d17s01.rpy:630
+# game/code/d17/d17s01.rpy:632
 translate russian d17s01_anal_sex_21acf1cb_1:
 
     # arj "FUCK YES!{w} Ravage my little starfish!"
     arj "ЕБАТЬ ДА! {w}Растяни мою маленькую дырочку!"
 
-# game/code/d17/d17s01.rpy:633
+# game/code/d17/d17s01.rpy:635
 translate russian d17s01_anal_sex_60458b0d:
 
     # mc "I'm going to fuck your tight asterisk until I can't get enough!!!"
     mc "Я буду трахать твою тугую дырочку до тех пор, пока мне не надоест!!!"
 
-# game/code/d17/d17s01.rpy:634
+# game/code/d17/d17s01.rpy:636
 translate russian d17s01_anal_sex_43f4ec7c:
 
     # arj "FUCK YESSS!!!"
     arj "БЛЯТЬ ДАААА!!!"
 
-# game/code/d17/d17s01.rpy:637
+# game/code/d17/d17s01.rpy:639
 translate russian d17s01_anal_sex_f66617d4_1:
 
     # lc "DAMN! I'm going to cum soon!"
     lc "ПРОКЛЯТЬЕ! Я скоро кончу!"
 
-# game/code/d17/d17s01.rpy:640
+# game/code/d17/d17s01.rpy:642
 translate russian d17s01_anal_sex_8c25dd17_1:
 
     # mc "I'm about to dump a load of cum up her little fuckhole..."
     mc "Я собираюсь залить порцию спермы в ее узенькую дырочку..."
 
-# game/code/d17/d17s01.rpy:641
+# game/code/d17/d17s01.rpy:643
 translate russian d17s01_anal_sex_8f1e981f_1:
 
     # arj "OOOOOooohhhaafffucckkkmeee!{w} HARDER!{w} MORE!!!"
     arj "ОООООооохххббблллляяяяя! {w}СИЛЬНЕЕ! {w}ЕЩЁ!!!"
 
-# game/code/d17/d17s01.rpy:643
+# game/code/d17/d17s01.rpy:645
 translate russian d17s01_anal_sex_f41aa05d_1:
 
     # lc "I'M CUMMINNNGGGGGG!!!"
     lc "Я КОНЧАААЮЮЮЮ!!!"
 
-# game/code/d17/d17s01.rpy:646
+# game/code/d17/d17s01.rpy:648
 translate russian d17s01_anal_sex_58ed1359:
 
     # mc "TAKE MY SEED SWEETIE!!!"
     mc "ПРИМИ МОЕ СЕМЯ, МИЛАЯ!!!"
 
-# game/code/d17/d17s01.rpy:648
+# game/code/d17/d17s01.rpy:650
 translate russian d17s01_anal_sex_a1727faa:
 
     # mc "TAKE IT ALL SLAVE!!!"
     mc "ПРИМИ ВСЕ, РАБЫНЯ!!!"
 
-# game/code/d17/d17s01.rpy:649
+# game/code/d17/d17s01.rpy:651
 translate russian d17s01_anal_sex_b4a5e3fe:
 
     # arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX!!!"
     arj "ААОООХооооооххх!!! ДА!!! {w}КОНЧАЙ В МОЙ ГРЯЗНУЮ ДЫРОЧКУ!!!"
 
-# game/code/d17/d17s01.rpy:660
+# game/code/d17/d17s01.rpy:662
 translate russian d17s01_end_62d1e03e:
 
     # mc "So, what was this plan you have for dealing with Waller?"
     mc "Итак, какой у тебя план для борьбы с Уоллер?"
 
-# game/code/d17/d17s01.rpy:662
+# game/code/d17/d17s01.rpy:664
 translate russian d17s01_end_1ca8f44f:
 
     # lc "Not a plan, just some ideas.{w} You know how to make friends. Do you know how to turn an enemy into an ally?"
     lc "Не план, а просто некоторые идеи. {w}Ты умеешь заводить друзей. А знаешь, как превратить врага в союзника?"
 
-# game/code/d17/d17s01.rpy:664
+# game/code/d17/d17s01.rpy:666
 translate russian d17s01_end_0b038bfc:
 
     # arj "You mean bribery, blackmail, that sort of thing?"
     arj "Ты имеешь в виду подкуп, шантаж и тому подобное?"
 
-# game/code/d17/d17s01.rpy:666
+# game/code/d17/d17s01.rpy:668
 translate russian d17s01_end_16fb724c:
 
     # lc "Never in those words."
     lc "Не такими словами."
 
-# game/code/d17/d17s01.rpy:668
+# game/code/d17/d17s01.rpy:670
 translate russian d17s01_end_9660f269:
 
     # mc "We convince her that we're on the same side.{w}.. that I'm a friend."
     mc "Мы убедим ее, что мы на одной стороне.{w}.. что я друг."
 
-# game/code/d17/d17s01.rpy:670
+# game/code/d17/d17s01.rpy:672
 translate russian d17s01_end_7bbeb38c:
 
     # lc "That's one possibility. There are also two others."
     lc "Это один из вариантов. Но есть еще два других."
 
-# game/code/d17/d17s01.rpy:672
+# game/code/d17/d17s01.rpy:674
 translate russian d17s01_end_53313c57:
 
     # mc "Nordin and Lewald."
     mc "Нордин и Левальд."
 
-# game/code/d17/d17s01.rpy:674
+# game/code/d17/d17s01.rpy:676
 translate russian d17s01_end_30e1fa11:
 
     # arj "If you can convince two of the judges to pass you, there's nothing she can do about it."
     arj "Если ты сможешь убедить двух экзаменаторов пропустить тебя, то она ничего не сможет поделать."
 
-# game/code/d17/d17s01.rpy:675
+# game/code/d17/d17s01.rpy:677
 translate russian d17s01_end_2f36e43d:
 
     # lc "Of course, I could never help you with that.{w} It's not like Cynthia and her mother are in some sort of bizarre sex cult now and could easily be manipulated."
     lc "Конечно, но я не смогу помочь тебе с этим. {w}Похоже, что Синтия и ее мать сейчас находятся в каком-то причудливом секс-культе и ими не легко манипулировать."
 
-# game/code/d17/d17s01.rpy:677
+# game/code/d17/d17s01.rpy:679
 translate russian d17s01_end_c2f7646c:
 
     # mc "That might work, but I'm definitely not fucking Nordin."
     mc "Это может сработать, но я вообще не знаю, что делать с Нординым."
 
-# game/code/d17/d17s01.rpy:679
+# game/code/d17/d17s01.rpy:681
 translate russian d17s01_end_9cb2e453:
 
     # lc "Maybe you could convince someone-"
     lc "Может, ты сможешь убедить кого-нибудь..."
 
-# game/code/d17/d17s01.rpy:681
+# game/code/d17/d17s01.rpy:683
 translate russian d17s01_end_fc29fb62:
 
     # arj "I'm not fucking Nordin either."
     arj "Я тоже не имею понятия, что делать с Нординым."
 
-# game/code/d17/d17s01.rpy:683
+# game/code/d17/d17s01.rpy:685
 translate russian d17s01_end_a4e470a0:
 
     # lc "I'm sure there's something he wants."
     lc "Я уверена, что ему что-нибудь нужно."
 
-# game/code/d17/d17s01.rpy:685
+# game/code/d17/d17s01.rpy:687
 translate russian d17s01_end_a14550d1:
 
     # mc "Yeah.{w} I'm sure there's some way to get leverage on each of them."
     mc "Да. {w}Я уверен, что есть способ получить рычаги воздействия на каждого из них."
 
-# game/code/d17/d17s01.rpy:687
+# game/code/d17/d17s01.rpy:689
 translate russian d17s01_end_c906d47d:
 
     # arj "Go above and beyond."
     arj "Наверное нужно поискать."
 
-# game/code/d17/d17s01.rpy:689
+# game/code/d17/d17s01.rpy:691
 translate russian d17s01_end_2ae5f3ed:
 
     # lc "Prove that you're really excellent at marketing-"
     lc "Докажи, что ты действительно отлично разбираешься в маркетинге..."
 
-# game/code/d17/d17s01.rpy:691
+# game/code/d17/d17s01.rpy:693
 translate russian d17s01_end_fb4ea995:
 
     # arj "Business Management."
     arj "Управление бизнесом."
 
-# game/code/d17/d17s01.rpy:693
+# game/code/d17/d17s01.rpy:695
 translate russian d17s01_end_54d5500a:
 
     # lc "Really?"
     lc "Да?"
 
-# game/code/d17/d17s01.rpy:695
+# game/code/d17/d17s01.rpy:697
 translate russian d17s01_end_d821cc85:
 
     # mc "Yeah, business management.{w} I mean, marketing is part of that, but-"
     mc "Да, управление бизнесом. {w}Маркетинг является частью него, но..."
 
-# game/code/d17/d17s01.rpy:697
+# game/code/d17/d17s01.rpy:699
 translate russian d17s01_end_00ae5e39:
 
     # lc "Sorry. Prove that you're really excellent at business management. That you know how to..."
     lc "Извиняюсь. Докажи, что ты действительно отлично разбираешься в управлении бизнесом. Что ты знаешь, как..."
 
-# game/code/d17/d17s01.rpy:699
+# game/code/d17/d17s01.rpy:701
 translate russian d17s01_end_f7f8897e:
 
     # arj "Manage businesses?"
     arj "Управлять бизнесом?"
 
-# game/code/d17/d17s01.rpy:701
+# game/code/d17/d17s01.rpy:703
 translate russian d17s01_end_a660f5a2:
 
     # mc "I think she's talking about using the same skills they've taught me to sell my judges on the idea that I deserve to pass."
     mc "Я думаю, она говорит об использовании тех навыков, которым меня учили, чтобы убедить моих экзаменаторов в том, что я заслуживаю прохождения."
 
-# game/code/d17/d17s01.rpy:703
+# game/code/d17/d17s01.rpy:705
 translate russian d17s01_end_ce1cdbd6:
 
     # lc "Exactly.{w} Thank you."
     lc "Вот именно. {w}Спасибо."
 
-# game/code/d17/d17s01.rpy:705
+# game/code/d17/d17s01.rpy:707
 translate russian d17s01_end_8a560b88:
 
     # arj "Speaking of which..."
     arj "Кстати говоря..."
 
-# game/code/d17/d17s01.rpy:707
+# game/code/d17/d17s01.rpy:709
 translate russian d17s01_end_bbaf582f:
 
     # mc "Oh, yeah. We should get to class."
     mc "Ах, да. Нам пора идти на занятия."
 
-# game/code/d17/d17s01.rpy:713
+# game/code/d17/d17s01.rpy:715
 translate russian d17s01_end_a9245d6d:
 
     # flr "You have earned [d17s01_points] points."
     flr "Вы заработали [d17s01_points] очков."
 
-# game/code/d17/d17s01.rpy:716
+# game/code/d17/d17s01.rpy:718
 translate russian d17s01_end_a9245d6d_1:
 
     # flr "You have earned [d17s01_points] points."
     flr "Вы заработали [d17s01_points] очков."
 
-# game/code/d17/d17s01.rpy:720
+# game/code/d17/d17s01.rpy:722
 translate russian d17s01_end_177e7094:
 
     # lc "Good luck."
     lc "Удачи."
 
-# game/code/d17/d17s01.rpy:722
+# game/code/d17/d17s01.rpy:724
 translate russian d17s01_end_426d0312:
 
     # lc "Oh, do either of you know whether Min is having a party tonight?"
     lc "Кто-нибудь знает, будет ли у Мин сегодня вечеринка?"
 
-# game/code/d17/d17s01.rpy:724
+# game/code/d17/d17s01.rpy:726
 translate russian d17s01_end_57518a32:
 
     # arj "I haven't heard anything."
     arj "Я ничего такого не слышала."
 
-# game/code/d17/d17s01.rpy:726
+# game/code/d17/d17s01.rpy:728
 translate russian d17s01_end_ff8d0c78:
 
     # mc "She's probably too focused on studying for finals."
     mc "Возможно, она тоже сосредоточена на подготовке к экзаменам."
 
-# game/code/d17/d17s01.rpy:727
+# game/code/d17/d17s01.rpy:729
 translate russian d17s01_end_fef17408:
 
     # lc "That's a shame. I was kinda curious."
     lc "Очень жаль. Мне было бы любопытно поприсутствовать."
 
-# game/code/d17/d17s01.rpy:729
+# game/code/d17/d17s01.rpy:731
 translate russian d17s01_end_2a1af8cf:
 
     # arj "Didn't you already go to one?"
     arj "Разве ты уже не была на прошлой вечеринке?"
 
-# game/code/d17/d17s01.rpy:731
+# game/code/d17/d17s01.rpy:733
 translate russian d17s01_end_51de9da6:
 
     # lc "True, that's where we met, but..."
     lc "Да, там мы и познакомились, но..."
 
-# game/code/d17/d17s01.rpy:733
+# game/code/d17/d17s01.rpy:735
 translate russian d17s01_end_f60c0af0:
 
     # lc "Well, a lot has changed in the past couple of weeks."
     lc "За последние пару недель многое изменилось."
 
-# game/code/d17/d17s01.rpy:735
+# game/code/d17/d17s01.rpy:737
 translate russian d17s01_end_c1108e29:
 
     # mc "You're telling me."
@@ -1730,19 +1730,19 @@ translate russian d17s01_end_c1108e29:
 
 translate russian strings:
 
-    # game/code/d17/d17s01.rpy:330
+    # game/code/d17/d17s01.rpy:332
     old "Fuck AmRose's Ass"
     new "Трахнуть АмРоуз в задницу"
 
-    # game/code/d17/d17s01.rpy:330
+    # game/code/d17/d17s01.rpy:332
     old "Decline"
     new "Пропустить"
 
-# TODO: Translation updated at 2022-05-10 20:00
+# TODO: Translation updated at 2022-08-24 12:18
 
-# game/code/d17/d17s01.rpy:562
-translate russian d17s01_anal_sex_69616fc6:
+translate russian strings:
 
-    # arj "Feels like you're knee deep in my colon."
-    arj "Feels like you're knee deep in my colon."
+    # game/code/d17/d17s01.rpy:40
+    old "Wednesday\nDay-17"
+    new "Среда\nДень-17"
 
