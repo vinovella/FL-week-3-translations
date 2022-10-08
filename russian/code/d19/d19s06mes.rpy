@@ -1140,3 +1140,35 @@ translate russian d19s06mes_ac9adf42:
     # mes "I haven't had that much fun since she went into the Pandora room."
     mes "Мне не было так весело с тех пор, как она вошла в комнату Пандоры."
 
+# TODO: Translation updated at 2022-10-08 16:15
+
+# game/code/d19/d19s06mes.rpy:434
+translate russian d19s06mes_e31c3d0a:
+
+    # cl "I don't want to consent to just getting peed on, but I will eagerly consent to the humiliation of being peed on as a punishment for my...{w} whatever excuse you come up with."
+    cl "I don't want to consent to just getting peed on, but I will eagerly consent to the humiliation of being peed on as a punishment for my...{w} whatever excuse you come up with."
+
+# game/code/d19/d19s06mes.rpy:456
+translate russian d19s06mes_2f758ea1:
+
+    # cl "Okay!"
+    cl "Okay!"
+
+# game/code/d19/d19s06mes.rpy:458
+translate russian d19s06mes_d9994a44:
+
+    # cl "I'm ready!!!"
+    cl "I'm ready!!!"
+
+# game/code/d19/d19s06mes.rpy:482
+translate russian d19s06mes_5a911799:
+
+    # cl "I don't think my nips and clit have ever been so hard."
+    cl "I don't think my nips and clit have ever been so hard."
+
+# game/code/d19/d19s06mes.rpy:483
+translate russian d19s06mes_95c2a186:
+
+    # cl "I want it all over my face!"
+    cl "I want it all over my face!"
+

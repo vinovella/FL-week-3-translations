@@ -2412,3 +2412,23 @@ translate russian strings:
     old "Say that is enough for today"
     new "Сказать, что на сегодня достаточно"
 
+# TODO: Translation updated at 2022-10-08 16:15
+
+# game/code/d15/extended/d15s05b_ext.rpy:77
+translate russian d15s05b_ext_9b13a846:
+
+    # mc "Sure. I just don't understand why we can't know where we are going?"
+    mc "Sure. I just don't understand why we can't know where we are going?"
+
+# game/code/d15/extended/d15s05b_ext.rpy:521
+translate russian d15s05b_fisto_5c57a6aa:
+
+    # nk "Any other tips and tricks?"
+    nk "Any other tips and tricks?"
+
+# game/code/d15/extended/d15s05b_ext.rpy:1232
+translate russian d15s05b_spitroast_05667b29:
+
+    # mc "You are sharing an intense, pleasurable, powerfully emotional and sexual moment."
+    mc "You are sharing an intense, pleasurable, powerfully emotional and sexual moment."
+

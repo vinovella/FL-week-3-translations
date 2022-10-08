@@ -774,3 +774,11 @@ translate russian strings:
     old "Tell Her It Was Fun"
     new "Сказать, что это было весело"
 
+# TODO: Translation updated at 2022-10-08 16:15
+
+# game/code/d19/d19s01lc.rpy:73
+translate russian d19s01lc_1d50fecb:
+
+    # lc "I didn't know it would start a VIP Program or promise one million dollars!!! I just thought it would be something fun and sexy!"
+    lc "I didn't know it would start a VIP Program or promise one million dollars!!! I just thought it would be something fun and sexy!"
+
