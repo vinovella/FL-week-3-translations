@@ -16,19 +16,19 @@ translate chinese d15s06_a6953c1d:
 translate chinese d15s06_bc672ce4:
 
     # mh "Hey. Are you busy right now?"
-    mh "...嘿，你现在在忙吗？"
+    mh "嘿，你现在在忙吗？"
 
 # game/code/d15/d15s06.rpy:85
 translate chinese d15s06_98a9acf6:
 
     # mc "No, is everything alright?"
-    mc "不忙，你都还好吗？?"
+    mc "不忙，你还好吗？"
 
 # game/code/d15/d15s06.rpy:87
 translate chinese d15s06_8740b823:
 
     # mh "Everything's great. I thought today would be a good day for that date I promised you."
-    mh "...很好啊。我想今天会是个好日子，我答应过你那个约会嘛。"
+    mh "很好啊。我想今天会是个好日子，我答应过你那个约会嘛。"
 
 # game/code/d15/d15s06.rpy:90
 translate chinese d15s06_c2ffbd64:
@@ -40,7 +40,7 @@ translate chinese d15s06_c2ffbd64:
 translate chinese d15s06_b6e04664:
 
     # mh "Glad to hear. I'm coming to pick you up right now."
-    mh "...听你这么说我很高兴。我现在就来接你。"
+    mh "听你这么说我很高兴。我现在就来接你。"
 
 # game/code/d15/d15s06.rpy:95
 translate chinese d15s06_eb834df9:
@@ -52,7 +52,7 @@ translate chinese d15s06_eb834df9:
 translate chinese d15s06_197edeec:
 
     # mh "Yes. Don't worry about dressing up. You'll be fine as is."
-    mh "...对啊，不用担心打扮的问题。你保持原样就可以了。"
+    mh "对啊，不用担心打扮的问题。你保持原样就可以了。"
 
 # game/code/d15/d15s06.rpy:100
 translate chinese d15s06_2cec29e2:
@@ -94,7 +94,7 @@ translate chinese d15s06_a6953c1d_1:
 translate chinese d15s06_bc672ce4_1:
 
     # mh "Hey. Are you busy right now?"
-    mh "...嘿，你现在忙吗？"
+    mh "嘿，你现在忙吗？"
 
 # game/code/d15/d15s06.rpy:123
 translate chinese d15s06_8114a09f:
@@ -112,7 +112,7 @@ translate chinese d15s06_7f08e5f1:
 translate chinese d15s06_8349ed94:
 
     # mh "Great. I thought today would be a good day for that date I promised you."
-    mh "...太好了。我想今天会是个好日子，我答应过你那个约会嘛。"
+    mh "太好了。我想今天会是个好日子，我答应过你那个约会嘛。"
 
 # game/code/d15/d15s06.rpy:129
 translate chinese d15s06_c2ffbd64_1:
@@ -124,7 +124,7 @@ translate chinese d15s06_c2ffbd64_1:
 translate chinese d15s06_b6e04664_1:
 
     # mh "Glad to hear. I'm coming to pick you up right now."
-    mh "...听你这么说我很高兴。我现在就来接你。"
+    mh "听你这么说我很高兴。我现在就来接你。"
 
 # game/code/d15/d15s06.rpy:133
 translate chinese d15s06_eb834df9_1:
@@ -136,7 +136,7 @@ translate chinese d15s06_eb834df9_1:
 translate chinese d15s06_197edeec_1:
 
     # mh "Yes. Don't worry about dressing up. You'll be fine as is."
-    mh "...对啊，不用担心穿搭的问题。你保持原样就可以了。"
+    mh "对啊，不用担心穿搭的问题。你保持原样就可以了。"
 
 # game/code/d15/d15s06.rpy:136
 translate chinese d15s06_2cec29e2_1:
@@ -184,7 +184,7 @@ translate chinese d15s06_5ee810c7:
 translate chinese d15s06_5d0f36c6:
 
     # mh "Why don't you forget about her and come with me? I'm sure I could..."
-    mh "...你为什么不忘了她，和我一起去耍呢？我相信我可以..."
+    mh "你为什么不忘了她，和我一起去耍呢？我相信我可以..."
 
 # game/code/d15/d15s06.rpy:173
 translate chinese d15s06_b7bc0101:
@@ -220,7 +220,7 @@ translate chinese d15s06_4fc34701:
 translate chinese d15s06_e75c2ccb:
 
     # mh "I'm not sure whether I should be offended or not."
-    mh "...我该把它理解为夸奖呢，还是冒犯呢。"
+    mh "我该把它理解为夸奖呢，还是冒犯呢。"
 
 # game/code/d15/d15s06.rpy:194
 translate chinese d15s06_952b811f:
@@ -238,7 +238,7 @@ translate chinese d15s06_5cc6b562:
 translate chinese d15s06_f03f5855:
 
     # mh "Of course. I haven't worked so hard to {i}not{/i} have fancy things."
-    mh "...当然了。我这么努力工作就是为了{i}拥有{/i}花哨的东西。"
+    mh "当然了。我这么努力工作就是为了{i}拥有{/i}花哨的东西。"
 
 # game/code/d15/d15s06.rpy:205
 translate chinese d15s06_11813316:
@@ -268,7 +268,7 @@ translate chinese d15s06_8971613c:
 translate chinese d15s06_bd48798d:
 
     # mh "Mm-hm. Oliver's an excellent driver and I trust him with our safety more than any other person I can think of."
-    mh "嗯哼。奥利弗是个很优秀的司机，我相信他比我能想到的任何人都能保证我们的安全。"
+    mh "嗯哼。奥利弗是个很优秀的司机，我相信他比我想到的任何人都能保证我们的安全。"
 
 # game/code/d15/d15s06.rpy:230
 translate chinese d15s06_53226ea5:
@@ -286,7 +286,7 @@ translate chinese d15s06_360363d0:
 translate chinese d15s06_50bdc99f:
 
     # mh "What's the rush? I want to enjoy ourselves."
-    mh "...急什么呢？我想玩得开心点。"
+    mh "急什么呢？我想玩得开心点。"
 
 # game/code/d15/d15s06.rpy:239
 translate chinese d15s06_552f6731:
@@ -322,7 +322,7 @@ translate chinese d15s06_3f1c2f86:
 translate chinese d15s06_06775981:
 
     # mh "And we're quite far away from anyone else."
-    mh "...我们离其他所有人都很远。"
+    mh "我们离其他所有人都很远。"
 
 # game/code/d15/d15s06.rpy:274
 translate chinese d15s06_8c09a8d7:
@@ -760,7 +760,7 @@ translate chinese d15s06_house_fc08e093:
 translate chinese d15s06_house_7257d258:
 
     # mct "She is {i}so{/i} {i}{b}big{/b}{/i}.{w} I need to relax or this will go nowhere."
-    mct "她也{i}太{/i} {i}{b}太{/b}{/i}了吧。我需要放松点，不然就不行了。"
+    mct "她也{i}太{/i} {i}{b}大{/b}{/i}了吧。我需要放松点，不然就不行了。"
 
 # game/code/d15/d15s06.rpy:567
 translate chinese d15s06_house_0d99273b:
@@ -1270,7 +1270,7 @@ translate chinese d15s06_kitchen_65bf3354:
 translate chinese d15s06_kitchen_ec2a61a4:
 
     # mc "Yeah... It's just, I won't be able to stay the night."
-    mc "没事... 只是，我不能在这里过夜了。"
+    mc "没事...只是，我不能在这里过夜了。"
 
 # game/code/d15/d15s06.rpy:1020
 translate chinese d15s06_kitchen_918fea83:
@@ -1390,7 +1390,7 @@ translate chinese d15s06_end_b3065beb:
 translate chinese d15s06_end_07b5879c:
 
     # mct "Why does Min want me to come to Lydia's place all of a sudden?"
-    mct "W为什么明突然要我去莉迪亚那里？"
+    mct "为什么明突然要我去莉迪亚那里？"
 
 # game/code/d15/d15s06.rpy:1101
 translate chinese d15s06_end_b063725f:
