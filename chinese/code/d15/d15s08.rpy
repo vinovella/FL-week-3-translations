@@ -400,7 +400,7 @@ translate chinese d15s08_40f873a4:
 translate chinese d15s08_1b3a03e0:
 
     # arj "You know I'll help you with that."
-    arj "你知道我会帮助你的。"
+    arj "你知道我会帮你的。"
 
 # game/code/d15/d15s08.rpy:212
 translate chinese d15s08_108bda6c:
@@ -490,7 +490,7 @@ translate chinese d15s08_df938662:
 translate chinese d15s08_87a6b4f8:
 
     # hr "No. No problem. {w}I just don't want to be taken advantage of."
-    hr "没有，没有问题。{w}我只是不希望被人利用。"
+    hr "没有，没问题。{w}我只是不希望被人利用。"
 
 # game/code/d15/d15s08.rpy:256
 translate chinese d15s08_27ec38aa:
