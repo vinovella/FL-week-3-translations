@@ -352,13 +352,13 @@ translate chinese d15s05b_ext_95a7e131:
 translate chinese d15s05b_ext_618559e6:
 
     # pw "You want me to use my strap-on on your pussy?"
-    pw "你想让我在你小穴里用上绑带？?"
+    pw "你想让我在你小穴里用上绑带？"
 
 # game/code/d15/extended/d15s05b_ext.rpy:217
 translate chinese d15s05b_ext_8818d563:
 
     # nk "Can you two spit-roast me?{w} I don't care which holes you use - as long as [mcname] doesn't cum in my pussy."
-    nk "你们两个能不能一起填满我的洞{w} 我不在乎具体是谁上哪个洞--只要[mcname]不射在我里面就行。"
+    nk "你们两个能不能一起填满我的洞？{w} 我不在乎具体是谁上哪个洞--只要[mcname]不射在我里面就行。"
 
 # game/code/d15/extended/d15s05b_ext.rpy:219
 translate chinese d15s05b_ext_979fcb2a:
@@ -562,7 +562,7 @@ translate chinese d15s05b_ext_2b420f05:
 translate chinese d15s05b_ext_35ae0663:
 
     # nk "Will you let me tell this?"
-    nk "你能让我讲吗？"
+    nk "你能让我来讲吗？"
 
 # game/code/d15/extended/d15s05b_ext.rpy:306
 translate chinese d15s05b_ext_64130f3c:
@@ -1630,7 +1630,7 @@ translate chinese d15s05b_post_lesbians_91f0d73d:
 translate chinese d15s05b_post_lesbians_775135a8:
 
     # pw "I think I know something that would take your mind off things."
-    pw "我知道有个东西，可以让你忘掉这些事情。"
+    pw "我知道有个东西，可以让你忘掉这些困惑。"
 
 # game/code/d15/extended/d15s05b_ext.rpy:903
 translate chinese d15s05b_post_lesbians_4d9ff9e8:
