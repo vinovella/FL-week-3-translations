@@ -602,3 +602,29 @@ translate chinese strings:
     old "Ask for a picture"
     new "Ask for a picture"
 
+# TODO: Translation updated at 2022-10-16 21:06
+
+# game/code/d19/d19s08.rpy:57
+translate chinese d19s08_9ed673da:
+
+    # mct "But is it even worth it? I {i}know{/i} that Zarah will not vote for me no matter what."
+    mct "But is it even worth it? I {i}know{/i} that Zarah will not vote for me no matter what."
+
+# game/code/d19/d19s08.rpy:58
+translate chinese d19s08_811695fa:
+
+    # mct "What's the point of trying? It'd just be a waste of time anyway."
+    mct "What's the point of trying? It'd just be a waste of time anyway."
+
+# game/code/d19/d19s08.rpy:63
+translate chinese d19s08_eb096e82:
+
+    # mct "I guess there still might be a chance. Might as well take it."
+    mct "I guess there still might be a chance. Might as well take it."
+
+# game/code/d19/d19s08.rpy:67
+translate chinese d19s08_57356ffb:
+
+    # mct "Yeah. Fuck that. There's nothing I can do about Zarah. But I'm still gonna call Lyssa."
+    mct "Yeah. Fuck that. There's nothing I can do about Zarah. But I'm still gonna call Lyssa."
+

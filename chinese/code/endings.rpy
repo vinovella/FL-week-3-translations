@@ -114,3 +114,39 @@ translate chinese strings:
     old "Ending #18"
     new "Ending #18"
 
+# TODO: Translation updated at 2022-10-16 21:06
+
+# game/code/endings.rpy:34
+translate chinese ending_10_984be117:
+
+    # "This ending will be implemented later."
+    "This ending will be implemented later."
+
+# game/code/endings.rpy:35
+translate chinese ending_10_8ffd33e4:
+
+    # "You can save the game here and experience this ending once it will be implemented!"
+    "You can save the game here and experience this ending once it will be implemented!"
+
+# game/code/endings.rpy:102
+translate chinese ending_14_984be117:
+
+    # "This ending will be implemented later."
+    "This ending will be implemented later."
+
+# game/code/endings.rpy:103
+translate chinese ending_14_8ffd33e4:
+
+    # "You can save the game here and experience this ending once it will be implemented!"
+    "You can save the game here and experience this ending once it will be implemented!"
+
+translate chinese strings:
+
+    # game/code/endings.rpy:28
+    old "Ending #10"
+    new "Ending #10"
+
+    # game/code/endings.rpy:96
+    old "Ending #14"
+    new "Ending #14"
+
