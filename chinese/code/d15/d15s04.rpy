@@ -226,7 +226,7 @@ translate chinese d15s04_64d401e5:
 translate chinese d15s04_b86aa049:
 
     # mct "Eh, probably nothing. I should get going."
-    mct 呃，可能也没什么。我该走了。"
+    mct "呃，可能也没什么。我该走了。"
 
 # game/code/d15/d15s04.rpy:148
 translate chinese d15s04_studying_d796d9e0:
@@ -265,4 +265,3 @@ translate chinese strings:
     # game/code/d15/d15s04.rpy:54
     old "Spend time with Daisy"
     new "与黛西共度时光"
-

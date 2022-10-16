@@ -376,7 +376,7 @@ translate chinese d15s01_cagedecision_a9be34fe:
 translate chinese d15s01_cagedecision_ecc974f8:
 
     # mc "This is just too much. I'm not going to do it."
-    mc "这对我来说实在太过分了。我不会参与的。
+    mc "这对我来说实在太过分了。我不会参与的。"
 
 # game/code/d15/d15s01.rpy:408
 translate chinese d15s01_cagedecision_025138ba:
@@ -2225,4 +2225,3 @@ translate chinese strings:
     # game/code/d15/d15s01.rpy:311
     old "Decide Which Cage to Wear"
     new "决定选哪个笼子"
-

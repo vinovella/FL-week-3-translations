@@ -1036,7 +1036,7 @@ translate chinese d15s06_pillowtalk_1529cb5d:
 translate chinese d15s06_pillowtalk_8f655505:
 
     # mc "He...may or may not have sucked me off."
-    mc "他...可能给我口交了，也可能没有。
+    mc "他...可能给我口交了，也可能没有。"
 
 # game/code/d15/d15s06.rpy:852
 translate chinese d15s06_pillowtalk_95371c1f:
@@ -1703,4 +1703,3 @@ translate chinese strings:
     # game/code/d15/d15s06.rpy:900
     old "I love you too"
     new "我也爱你"
-

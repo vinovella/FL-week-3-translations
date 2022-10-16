@@ -790,7 +790,7 @@ translate chinese d15s05_assfuck_ae4e8b19:
 translate chinese d15s05_assfuck_cfd55eb9:
 
     # mk "Sir, shouldn't I-?"
-    mk 主人，我是不是应该--？"
+    mk "主人，我是不是应该--？"
 
 # game/code/d15/d15s05.rpy:538
 translate chinese d15s05_assfuck_def0ad19:
@@ -1342,7 +1342,7 @@ translate chinese d15s05_end_3a03bf2f:
 translate chinese d15s05_end_39ac8d15:
 
     # mc "... Whatever.{w} Have a nice life."
-    mc "...随便吧。{W}祝你好好生活。
+    mc "...随便吧。{w}祝你好好生活。"
 
 # game/code/d15/d15s05.rpy:861
 translate chinese d15s05_end_81397175:
@@ -1423,4 +1423,3 @@ translate chinese strings:
     # game/code/d15/d15s05.rpy:262
     old "Wrap this Up"
     new "结束"
-

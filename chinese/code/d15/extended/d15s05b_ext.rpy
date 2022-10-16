@@ -2248,7 +2248,7 @@ translate chinese d15s05b_spitroast_d695085e:
 translate chinese d15s05b_spitroast_05667b29:
 
     # mc "You are sharing an intense, pleasurable, powerfully emotional and sexual moment."
-    mc "你们正在分享一个紧张、愉悦、极具性张力的时刻。
+    mc "你们正在分享一个紧张、愉悦、极具性张力的时刻。"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1234
 translate chinese d15s05b_spitroast_0f7de7de:
@@ -2411,4 +2411,3 @@ translate chinese strings:
     # game/code/d15/extended/d15s05b_ext.rpy:940
     old "Say that is enough for today"
     new "今天就到此为止吧"
-

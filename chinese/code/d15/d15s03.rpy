@@ -784,7 +784,7 @@ translate chinese d15s03_dw_setup_9f379e49:
 translate chinese d15s03_dw_setup_26fd0d8a:
 
     # pb "Maybe. {w}Maybe I don't want to wait."
-    pb "也许吧。{w}也许我不想等。
+    pb "也许吧。{w}也许我不想等。"
 
 # game/code/d15/d15s03.rpy:410
 translate chinese d15s03_dw_setup_b2b9e19d:
@@ -917,4 +917,3 @@ translate chinese strings:
     # game/code/d15/d15s03.rpy:12
     old "20 minutes later"
     new "20分钟后"
-

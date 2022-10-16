@@ -1132,7 +1132,7 @@ translate chinese d15s08_d61354c6:
 translate chinese d15s08_0dfc1d08:
 
     # mct "Oh yeah, tomorrow. {w}Gotta think of some ways to earn points."
-    mct "是啊，明天。{w}要想点办法来赚取点数。
+    mct "是啊，明天。{w}要想点办法来赚取点数。"
 
 # game/code/d15/d15s08.rpy:567
 translate chinese d15s08_0d61d35a:
@@ -1157,4 +1157,3 @@ translate chinese d15s08_bcfe6e94:
 
     # mct "...zzZZZzzzz..."
     mct "...zzZZZzzzz..."
-
