@@ -94,7 +94,7 @@ translate chinese d16s01_47876170:
 translate chinese d16s01_0f2e2912:
 
     # sy "Working title: {b}Fetish-Locator-Locator-Inator™{/b}."
-    sy "工作名称：{b}性趣探测器-探测器-定位器™{/b}。"
+    sy "暂定名称：{b}性趣探测器-探测器-定位器™{/b}。"
 
 # game/code/d16/d16s01.rpy:119
 translate chinese d16s01_ce907ec8:
@@ -214,7 +214,7 @@ translate chinese d16s01_d53b0e53:
 translate chinese d16s01_0b0f857f:
 
     # sy "Meaning that when Fetish Locator sends anything to you or receives anything from you, the Fetish-Locator-Locator-Inator™ secretly writes all that info down."
-    sy "意思是说，不管恋物定位器向你发送什么或从你那里收到任何消息，恋物定位器-定位器-定位器™都会秘密地记录下所有这些信息。"
+    sy "意思是说，不管性趣探测器向你发送什么或从你那里收到任何消息，性趣探测器-探测器-定位器™都会秘密地记录下所有这些信息。"
 
 # game/code/d16/d16s01.rpy:180
 translate chinese d16s01_34351075:
@@ -226,7 +226,7 @@ translate chinese d16s01_34351075:
 translate chinese d16s01_a2a49102:
 
     # mc "That's great. So all I have to do is just connect to Fetish Locator and we'll get its location?"
-    mc "太好了。所以我只需要连接恋物定位器，就能知道它的位置了？"
+    mc "太好了。所以我只需要连接性趣探测器，就能知道它的位置了？"
 
 # game/code/d16/d16s01.rpy:186
 translate chinese d16s01_6517cb86:
@@ -400,7 +400,7 @@ translate chinese d16s01_42ddb90f:
 translate chinese d16s01_0733307d:
 
     # arj "So, complete challenges, buy stuff, and just interact with Fetish Locator as much as you can I suppose."
-    arj "所以，完成挑战，在平台消费，尽可能多地与性趣探测器互动。"
+    arj "就是说，完成挑战，在平台消费，尽可能多地与性趣探测器互动。"
 
 # game/code/d16/d16s01.rpy:254
 translate chinese d16s01_4898b166:
