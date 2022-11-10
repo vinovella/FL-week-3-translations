@@ -124,7 +124,7 @@ translate chinese d16s01_b6fc2dde:
 translate chinese d16s01_ddc04b62:
 
     # sy "With only a 36.72%% chance of blowing up in your face!"
-    sy "在你脸上爆炸的几率只有36.72%！"
+    sy "在你脸上爆炸的几率只有36.72%%！"
 
 # game/code/d16/d16s01.rpy:136
 translate chinese d16s01_e4546705:
@@ -515,4 +515,3 @@ translate chinese strings:
     # game/code/d16/d16s01.rpy:8
     old "Tuesday\nDay-16"
     new "星期二\n第16天"
-
