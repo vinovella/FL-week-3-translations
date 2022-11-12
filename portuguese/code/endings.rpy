@@ -114,3 +114,39 @@ translate portuguese strings:
     old "Ending #18"
     new "Ending #18"
 
+# TODO: Translation updated at 2022-11-12 13:06
+
+# game/code/endings.rpy:28
+translate portuguese ending_10_984be117:
+
+    # "This ending will be implemented later."
+    "This ending will be implemented later."
+
+# game/code/endings.rpy:29
+translate portuguese ending_10_8ffd33e4:
+
+    # "You can save the game here and experience this ending once it will be implemented!"
+    "You can save the game here and experience this ending once it will be implemented!"
+
+# game/code/endings.rpy:96
+translate portuguese ending_14_984be117:
+
+    # "This ending will be implemented later."
+    "This ending will be implemented later."
+
+# game/code/endings.rpy:97
+translate portuguese ending_14_8ffd33e4:
+
+    # "You can save the game here and experience this ending once it will be implemented!"
+    "You can save the game here and experience this ending once it will be implemented!"
+
+translate portuguese strings:
+
+    # game/code/endings.rpy:22
+    old "Ending #10"
+    new "Ending #10"
+
+    # game/code/endings.rpy:90
+    old "Ending #14"
+    new "Ending #14"
+

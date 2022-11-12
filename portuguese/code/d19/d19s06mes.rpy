@@ -1146,3 +1146,11 @@ translate portuguese d19s06mes_ac9adf42:
     # mes "I haven't had that much fun since she went into the Pandora room."
     mes "I haven't had that much fun since she went into the Pandora room."
 
+# TODO: Translation updated at 2022-11-12 13:06
+
+# game/code/d19/d19s06mes.rpy:477
+translate portuguese d19s06mes_6edb2059:
+
+    # cl "Oh fuck yes."
+    cl "Oh fuck yes."
+

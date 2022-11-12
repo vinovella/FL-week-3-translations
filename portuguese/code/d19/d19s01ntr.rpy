@@ -1074,3 +1074,11 @@ translate portuguese strings:
     old "Go Fuck Yourself"
     new "Go Fuck Yourself"
 
+# TODO: Translation updated at 2022-11-12 13:06
+
+# game/code/d19/d19s01ntr.rpy:279
+translate portuguese d19s01ntr_decision_e1a0041c:
+
+    # lc "You see... Whom?"
+    lc "You see... Whom?"
+
