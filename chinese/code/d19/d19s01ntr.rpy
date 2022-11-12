@@ -1074,3 +1074,11 @@ translate chinese strings:
     old "Go Fuck Yourself"
     new "Go Fuck Yourself"
 
+# TODO: Translation updated at 2022-11-12 12:59
+
+# game/code/d19/d19s01ntr.rpy:279
+translate chinese d19s01ntr_decision_e1a0041c:
+
+    # lc "You see... Whom?"
+    lc "You see... Whom?"
+

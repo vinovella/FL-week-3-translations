@@ -230,3 +230,19 @@ translate chinese strings:
     old "SKIP RECAP"
     new "SKIP RECAP"
 
+# TODO: Translation updated at 2022-11-12 12:59
+
+translate chinese strings:
+
+    # game/code/screens/screens_fl.rpy:248
+    old "4. After launching the game once, you can put the backed up \"FetishLocator\" file back to it's location to get your Previous Week's saves back."
+    new "4. After launching the game once, you can put the backed up \"FetishLocator\" file back to it's location to get your Previous Week's saves back."
+
+    # game/code/screens/screens_fl.rpy:352
+    old "Save your game now"
+    new "Save your game now"
+
+    # game/code/screens/screens_fl.rpy:354
+    old "{u}Done{/u}"
+    new "{u}Done{/u}"
+
