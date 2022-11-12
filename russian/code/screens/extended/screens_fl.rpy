@@ -18,3 +18,11 @@ translate russian strings:
     old "Page [page]"
     new "Page [page]"
 
+# TODO: Translation updated at 2022-11-12 13:05
+
+translate russian strings:
+
+    # game/code/screens/extended/screens_fl.rpy:142
+    old "Coming Soon"
+    new "Coming Soon"
+
