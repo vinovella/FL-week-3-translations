@@ -1,23 +1,5 @@
 ﻿# TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/labels.rpy:74
-translate malay failed_mp_5d0c3fdc:
-
-    # "Your device cannot save the game progress through different weeks.\nPlease, allow FL to write on the external storage."
-    "Your device cannot save the game progress through different weeks.\nPlease, allow FL to write on the external storage."
-
-# game/code/labels.rpy:76
-translate malay failed_mp_cd72322d:
-
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-
-# game/code/labels.rpy:78
-translate malay failed_mp_d50e830d:
-
-    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-    "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
-
 # game/code/labels.rpy:98
 translate malay after_credits_4092fc7e:
 
@@ -276,3 +258,16 @@ translate malay knock_40511e6c:
     # "*knock knock*"
     "*knock knock*"
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+# game/code/labels.rpy:348
+translate malay metalknock1_40511e6c:
+
+    # "*knock knock*"
+    "*knock knock*"
+
+# game/code/labels.rpy:354
+translate malay metalknock2_40511e6c:
+
+    # "*knock knock*"
+    "*knock knock*"

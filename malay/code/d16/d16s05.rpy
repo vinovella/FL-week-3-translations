@@ -1098,3 +1098,11 @@ translate malay strings:
     old "Ask her if she got any pictures"
     new "Tanya dia jika dia mendapat sebarang gambar"
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+translate malay strings:
+
+    # game/code/d16/d16s05.rpy:9
+    old "After the class"
+    new "After the class"
+

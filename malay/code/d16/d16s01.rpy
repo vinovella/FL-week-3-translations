@@ -515,3 +515,11 @@ translate malay d16s01_fa3a59b5:
 
     # sy "Jackass."
     sy "Sial betul."
+# TODO: Translation updated at 2022-11-12 13:01
+
+translate malay strings:
+
+    # game/code/d16/d16s01.rpy:8
+    old "Tuesday\nDay-16"
+    new "Tuesday\nDay-16"
+

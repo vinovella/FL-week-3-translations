@@ -1144,3 +1144,11 @@ translate malay strings:
     old "We make a good trio"
     new "We make a good trio"
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+translate malay strings:
+
+    # game/code/d17/d17s06pn.rpy:545
+    old "Some time later"
+    new "Some time later"
+

@@ -166,3 +166,87 @@ translate malay strings:
     old "SKIP RECAP"
     new "SKIP RECAP"
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+translate malay strings:
+
+    # game/code/screens/screens_fl.rpy:199
+    old "Due to some new changes in Android OS, to import your save from Week 2 you need to follow these instructions."
+    new "Due to some new changes in Android OS, to import your save from Week 2 you need to follow these instructions."
+
+    # game/code/screens/screens_fl.rpy:201
+    old "1. Close the game and find the Week save file named \"FetishLocator\" in - \"InternalStorage/RenPy/persistent/\""
+    new "1. Close the game and find the Week save file named \"FetishLocator\" in - \"InternalStorage/RenPy/persistent/\""
+
+    # game/code/screens/screens_fl.rpy:203
+    old "2. Copy the \"FetishLocator\" file to the following folder (replace existing files if any) -"
+    new "2. Copy the \"FetishLocator\" file to the following folder (replace existing files if any) -"
+
+    # game/code/screens/screens_fl.rpy:205
+    old "\"Internal storage/Android/data/com.patreon.fetishlocator.week3/files/saves/\"."
+    new "\"Internal storage/Android/data/com.patreon.fetishlocator.week3/files/saves/\"."
+
+    # game/code/screens/screens_fl.rpy:208
+    old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
+    new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
+
+    # game/code/screens/screens_fl.rpy:234
+    old "Your device can't save the game progress through different weeks. Please, allow FL App to write on the external storage."
+    new "Your device can't save the game progress through different weeks. Please, allow FL App to write on the external storage."
+
+    # game/code/screens/screens_fl.rpy:236
+    old "On most devices you can set the permissions on the Setting app."
+    new "On most devices you can set the permissions on the Setting app."
+
+    # game/code/screens/screens_fl.rpy:237
+    old "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
+    new "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
+
+    # game/code/screens/screens_fl.rpy:238
+    old "2. Set the permission to -> \"Allow management of all files\"."
+    new "2. Set the permission to -> \"Allow management of all files\"."
+
+    # game/code/screens/screens_fl.rpy:240
+    old "Now the game should work."
+    new "Now the game should work."
+
+    # game/code/screens/screens_fl.rpy:242
+    old "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
+    new "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
+
+    # game/code/screens/screens_fl.rpy:244
+    old "1. Enable \"Show hidden items\" option in Windows Explorer."
+    new "1. Enable \"Show hidden items\" option in Windows Explorer."
+
+    # game/code/screens/screens_fl.rpy:245
+    old "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
+    new "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
+
+    # game/code/screens/screens_fl.rpy:246
+    old "3. Create a backup of the file \"FetishLocator\" and delete it."
+    new "3. Create a backup of the file \"FetishLocator\" and delete it."
+
+    # game/code/screens/screens_fl.rpy:248
+    old "4. After launching the game once, you can put the backed up \"FetishLocator\" file back to it's location to get your Previous Week's saves back."
+    new "4. After launching the game once, you can put the backed up \"FetishLocator\" file back to it's location to get your Previous Week's saves back."
+
+    # game/code/screens/screens_fl.rpy:256
+    old "Confirm"
+    new "Confirm"
+
+    # game/code/screens/screens_fl.rpy:352
+    old "Save your game now"
+    new "Save your game now"
+
+    # game/code/screens/screens_fl.rpy:354
+    old "{u}Done{/u}"
+    new "{u}Done{/u}"
+
+    # game/code/screens/screens_fl.rpy:1007
+    old "Did you creampie Nora and agree to be the father?"
+    new "Did you creampie Nora and agree to be the father?"
+
+    # game/code/screens/screens_fl.rpy:1041
+    old "Did you give the password to her?"
+    new "Did you give the password to her?"
+

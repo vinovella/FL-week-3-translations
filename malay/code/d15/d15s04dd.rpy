@@ -934,3 +934,35 @@ translate malay strings:
     old "Don't"
     new "Jangam"
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+# game/code/d15/d15s04dd.rpy:183
+translate malay d15s04dd_ff7b6382:
+
+    # dd "*Chuckles*"
+    dd "*Chuckles*"
+
+# game/code/d15/d15s04dd.rpy:275
+translate malay d15s04dd_9117778a:
+
+    # dd "It might be weird, but I've always had it on my bucket list."
+    dd "It might be weird, but I've always had it on my bucket list."
+
+# game/code/d15/d15s04dd.rpy:365
+translate malay d15s04dd_23db955f:
+
+    # mc "I failed a challenge. My new challenge is this cockcage."
+    mc "I failed a challenge. My new challenge is this cockcage."
+
+# game/code/d15/d15s04dd.rpy:559
+translate malay d15s04dd_8014433d:
+
+    # dd "I don't know what came over me, but I can't say that it wasn't hot."
+    dd "I don't know what came over me, but I can't say that it wasn't hot."
+
+translate malay strings:
+
+    # game/code/d15/d15s04dd.rpy:21
+    old "1 hour later"
+    new "1 hour later"
+

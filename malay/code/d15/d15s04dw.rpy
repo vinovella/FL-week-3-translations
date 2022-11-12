@@ -1073,3 +1073,17 @@ translate malay strings:
     # game/code/d15/d15s04dw.rpy:497
     old "Let the girls think it was entirely up to them"
     new "Biarkan mereka berfikir itu terpulang kepada mereka"
+# TODO: Translation updated at 2022-11-12 13:01
+
+# game/code/d15/d15s04dw.rpy:323
+translate malay d15s04dw_eb3e097b:
+
+    # dw "I'm sure he's got a book around here somewhere that I can use as a paddle."
+    dw "I'm sure he's got a book around here somewhere that I can use as a paddle."
+
+translate malay strings:
+
+    # game/code/d15/d15s04dw.rpy:17
+    old "30 minutes later"
+    new "30 minutes later"
+

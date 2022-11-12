@@ -1158,3 +1158,11 @@ translate malay replay_d17s08_55d60f89:
     # mct "Oh, crap."
     mct "Oh, crap."
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+# game/code/d17/d17s08.rpy:503
+translate malay replay_d17s08_46a1f2b0:
+
+    # mct "Oh, right. Fetish Locator might be listening."
+    mct "Oh, right. Fetish Locator might be listening."
+

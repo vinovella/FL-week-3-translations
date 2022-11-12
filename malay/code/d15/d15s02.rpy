@@ -466,3 +466,17 @@ translate malay strings:
     old "Had Enough Fun for Now"
     new "Sudah Cukup Buat Masa Ini"
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+# game/code/d15/d15s02.rpy:90
+translate malay d15s02_b6e0d059:
+
+    # nk "Was 20, one-after-the-other, too much?"
+    nk "Was 20, one-after-the-other, too much?"
+
+translate malay strings:
+
+    # game/code/d15/d15s02.rpy:10
+    old "10 minutes of walking later"
+    new "10 minutes of walking later"
+

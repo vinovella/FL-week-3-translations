@@ -2216,3 +2216,53 @@ translate malay strings:
     # game/code/d15/d15s01.rpy:307
     old "Decide Which Cage to Wear"
     new "Tentukan Sangkar Mana Yang Akan Dipakai"
+# TODO: Translation updated at 2022-11-12 13:01
+
+# game/code/d15/d15s01.rpy:343
+translate malay d15s01_readnote_ba7b3e0f:
+
+    # "The cage will be replacing your Fetish Tracker."
+    "The cage will be replacing your Fetish Tracker."
+
+# game/code/d15/d15s01.rpy:431
+translate malay d15s01_cagedecision_7e36f4f4:
+
+    # mc "Shit, I know. I don't want to disappoint you or anyone else, but-"
+    mc "Shit, I know. I don't want to disappoint you or anyone else, but-"
+
+# game/code/d15/d15s01.rpy:443
+translate malay d15s01_cagedecision_a3c5d05f:
+
+    # lc "You failed once. You failed a challenge. And now you want to give up? You want to just quit the game?"
+    lc "You failed once. You failed a challenge. And now you want to give up? You want to just quit the game?"
+
+# game/code/d15/d15s01.rpy:455
+translate malay d15s01_cagedecision_5c07c7a4:
+
+    # lc "If you are going to lose this game, it won't be because you weren't up for the challenge, or because you quit and gave up."
+    lc "If you are going to lose this game, it won't be because you weren't up for the challenge, or because you quit and gave up."
+
+# game/code/d15/d15s01.rpy:512
+translate malay d15s01_cagedecision_db2860f4:
+
+    # arj "I hate to agree, but... {w}For completely different reasons, I want you to do this."
+    arj "I hate to agree, but... {w}For completely different reasons, I want you to do this."
+
+# game/code/d15/d15s01.rpy:1095
+translate malay d15s01_face_fucking_d7e2f883:
+
+    # arj "I'm his completely willing and consensual sex slave."
+    arj "I'm his completely willing and consensual sex slave."
+
+# game/code/d15/d15s01.rpy:1418
+translate malay d15s01_end_67efc426:
+
+    # arj "If that means negotiating with the Fetish Master to do something, I will do it."
+    arj "If that means negotiating with the Fetish Master to do something, I will do it."
+
+translate malay strings:
+
+    # game/code/d15/d15s01.rpy:141
+    old "Week Three\nDay 15\nMonday"
+    new "Week Three\nDay 15\nMonday"
+

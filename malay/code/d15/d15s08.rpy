@@ -1158,3 +1158,17 @@ translate malay d15s08_bcfe6e94:
     # mct "...zzZZZzzzz..."
     mct "...zzZZZzzzz..."
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+# game/code/d15/d15s08.rpy:75
+translate malay d15s08_1297c740:
+
+    # sy "The business of discovering who is behind Fetish Locator and winning the treasure?"
+    sy "The business of discovering who is behind Fetish Locator and winning the treasure?"
+
+# game/code/d15/d15s08.rpy:134
+translate malay d15s08_58dfa537:
+
+    # mc "Okay, Angels! Let's recap. Fetish Locator should have a physical server and we're going to find it."
+    mc "Okay, Angels! Let's recap. Fetish Locator should have a physical server and we're going to find it."
+

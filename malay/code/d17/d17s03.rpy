@@ -965,3 +965,11 @@ translate malay d17s03_2051d66a:
 
     # mc "Understood."
     mc "{i}Arahan diterima, puan!{/i}"
+# TODO: Translation updated at 2022-11-12 13:01
+
+# game/code/d17/d17s03.rpy:458
+translate malay d17s03_a531f536:
+
+    # mct "That doesn't sound like jealousy at all."
+    mct "That doesn't sound like jealousy at all."
+

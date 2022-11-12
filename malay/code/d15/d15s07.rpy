@@ -1198,3 +1198,17 @@ translate malay strings:
     old "I'm getting kinda bored of the watersports"
     new "Saya agak bosan dengan watersports sahaja"
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+# game/code/d15/d15s07.rpy:76
+translate malay d15s07_2c517df3:
+
+    # mes "Antony isn't in the picture anymore."
+    mes "Antony isn't in the picture anymore."
+
+translate malay strings:
+
+    # game/code/d15/d15s07.rpy:35
+    old "Later that day"
+    new "Later that day"
+

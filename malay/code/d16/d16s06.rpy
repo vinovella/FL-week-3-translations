@@ -780,3 +780,35 @@ translate malay d16s06_89a8c10f:
     # flr "You have earned [d16s06_points] points."
     flr "Anda telah memperoleh [d16s06_points] mata."
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+# game/code/d16/d16s06.rpy:239
+translate malay d16s06_7fa6b07f:
+
+    # aw "I've been playing around with toys and edging the fans forever now."
+    aw "I've been playing around with toys and edging the fans forever now."
+
+# game/code/d16/d16s06.rpy:240
+translate malay d16s06_2fd3b885:
+
+    # aw "Thought I'd finally reward the loyal ones with something special."
+    aw "Thought I'd finally reward the loyal ones with something special."
+
+# game/code/d16/d16s06.rpy:243
+translate malay d16s06_4ebf4ad5:
+
+    # aw "I know that you can always get the...{i}most{/i} out of me, so here we are."
+    aw "I know that you can always get the...{i}most{/i} out of me, so here we are."
+
+# game/code/d16/d16s06.rpy:286
+translate malay d16s06_a35a5a5a:
+
+    # mc "I'm alright. And I just have to wait until this new challenge is over."
+    mc "I'm alright. And I just have to wait until this new challenge is over."
+
+# game/code/d16/d16s06.rpy:602
+translate malay d16s06_d7755542:
+
+    # aw "*Laughs* \"Emotions\" huh? Well, I'm sure glad I got to experience it."
+    aw "*Laughs* \"Emotions\" huh? Well, I'm sure glad I got to experience it."
+

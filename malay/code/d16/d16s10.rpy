@@ -1372,3 +1372,53 @@ translate malay strings:
     old "Tell her how you came while she was under the table"
     new "Beritahu dia bagaimana anda pancut semasa dia berada di bawah meja"
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+# game/code/d16/d16s10.rpy:272
+translate malay d16s10_5956f153:
+
+    # mc "There we were, Lydia and myself in a fancy restaurant."
+    mc "There we were, Lydia and myself in a fancy restaurant."
+
+# game/code/d16/d16s10.rpy:534
+translate malay d16s10_1bbfea8c:
+
+    # arj "Got you happy, sexy, fun time thought?"
+    arj "Got you happy, sexy, fun time thought?"
+
+# game/code/d16/d16s10.rpy:610
+translate malay d16s10_85e7d53d:
+
+    # arj "Maybe something like the G-forces experienced by pilots."
+    arj "Maybe something like the G-forces experienced by pilots."
+
+# game/code/d16/d16s10.rpy:663
+translate malay d16s10_c8e73589:
+
+    # arj "It seems to know more about those of us in the VIP-"
+    arj "It seems to know more about those of us in the VIP-"
+
+# game/code/d16/d16s10.rpy:665
+translate malay d16s10_ce9c98af:
+
+    # arj "It seems to know more about those of us in the reten-"
+    arj "It seems to know more about those of us in the reten-"
+
+# game/code/d16/d16s10.rpy:671
+translate malay d16s10_b08a13b4:
+
+    # mc "The VIP Program?"
+    mc "The VIP Program?"
+
+# game/code/d16/d16s10.rpy:691
+translate malay d16s10_be3018ad:
+
+    # mc "What did you do to get in the VIP Program? Did you send them pics or what?"
+    mc "What did you do to get in the VIP Program? Did you send them pics or what?"
+
+translate malay strings:
+
+    # game/code/d16/d16s10.rpy:26
+    old "Later that evening"
+    new "Later that evening"
+

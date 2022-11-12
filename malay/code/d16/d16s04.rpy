@@ -1188,3 +1188,47 @@ translate malay strings:
     old "I won't be able to come"
     new "Tak dapat datang"
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+# game/code/d16/d16s04.rpy:295
+translate malay d16s04_be6b3495:
+
+    # mc "Are you in the VIP program?"
+    mc "Are you in the VIP program?"
+
+# game/code/d16/d16s04.rpy:351
+translate malay d16s04_694ebda1:
+
+    # mct "It seems like the Gold Stars for the VIP program was a beta test or something."
+    mct "It seems like the Gold Stars for the VIP program was a beta test or something."
+
+# game/code/d16/d16s04.rpy:358
+translate malay d16s04_637b7c7b:
+
+    # mct "FL told me that I can use the Gold Stars to skip a challenge, but maybe that has changed now?"
+    mct "FL told me that I can use the Gold Stars to skip a challenge, but maybe that has changed now?"
+
+# game/code/d16/d16s04.rpy:360
+translate malay d16s04_92e0675f:
+
+    # mct "FL told me that I can use the Gold Stars to skip the punishment, but maybe that has changed now?"
+    mct "FL told me that I can use the Gold Stars to skip the punishment, but maybe that has changed now?"
+
+# game/code/d16/d16s04.rpy:386
+translate malay d16s04_aa4b18fa:
+
+    # mct "Says here that I have one ongoing challenge and that I can reduce the length of it for three Gold Stars!"
+    mct "Says here that I have one ongoing challenge and that I can reduce the length of it for three Gold Stars!"
+
+# game/code/d16/d16s04.rpy:392
+translate malay d16s04_b746fd4f:
+
+    # mct "And apparently I've gone through this challenge long enough that I could end it right now!"
+    mct "And apparently I've gone through this challenge long enough that I could end it right now!"
+
+# game/code/d16/d16s04.rpy:445
+translate malay d16s04_f1376ad1:
+
+    # mc "I failed a challenge from FL. This was my new challenge."
+    mc "I failed a challenge from FL. This was my new challenge."
+

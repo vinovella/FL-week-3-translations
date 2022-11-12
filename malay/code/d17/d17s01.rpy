@@ -1737,3 +1737,11 @@ translate malay strings:
     # game/code/d17/d17s01.rpy:332
     old "Decline"
     new "Tolak"
+# TODO: Translation updated at 2022-11-12 13:01
+
+translate malay strings:
+
+    # game/code/d17/d17s01.rpy:40
+    old "Wednesday\nDay-17"
+    new "Wednesday\nDay-17"
+

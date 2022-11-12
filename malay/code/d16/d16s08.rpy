@@ -942,3 +942,47 @@ translate malay d16s08_719d7ead:
     # arj "Ha ha. Let's go, then."
     arj "Ha ha. Jomlah."
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+# game/code/d16/d16s08.rpy:104
+translate malay d16s08_94638573:
+
+    # arj "Oh yeah, the bartender. She's in the VIP Program too."
+    arj "Oh yeah, the bartender. She's in the VIP Program too."
+
+# game/code/d16/d16s08.rpy:109
+translate malay d16s08_cd84f12c:
+
+    # mc "Which is probably how Hana found out about Fetish Locator and the VIP Program."
+    mc "Which is probably how Hana found out about Fetish Locator and the VIP Program."
+
+# game/code/d16/d16s08.rpy:168
+translate malay d16s08_d5a669ec:
+
+    # arj "Close? She doesn't seem like the type to get close with anyone."
+    arj "Close? She doesn't seem like the type to get close with anyone."
+
+# game/code/d16/d16s08.rpy:219
+translate malay d16s08_4a5dd297:
+
+    # mc "I wouldn't say that. {w}It's more of a same-sex experiment for me."
+    mc "I wouldn't say that. {w}It's more of a same-sex experiment for me."
+
+# game/code/d16/d16s08.rpy:235
+translate malay d16s08_83b91498:
+
+    # mc "Oh, right."
+    mc "Oh, right."
+
+# game/code/d16/d16s08.rpy:271
+translate malay d16s08_6df0603b:
+
+    # mc "I think she may want me to dress up next time. {w}Get into some sort of costume."
+    mc "I think she may want me to dress up next time. {w}Get into some sort of costume."
+
+# game/code/d16/d16s08.rpy:301
+translate malay d16s08_92fd0e4a:
+
+    # mc "Yeah. I really need to talk to her about some things tomorrow, so maybe I can work a little fun time in as well."
+    mc "Yeah. I really need to talk to her about some things tomorrow, so maybe I can work a little fun time in as well."
+

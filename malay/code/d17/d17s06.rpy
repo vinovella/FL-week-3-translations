@@ -102,3 +102,11 @@ translate malay strings:
     old "Go back to studying"
     new "Go back to studying"
 
+# TODO: Translation updated at 2022-11-12 13:01
+
+translate malay strings:
+
+    # game/code/d17/d17s06.rpy:13
+    old "Back at the dorm"
+    new "Back at the dorm"
+
