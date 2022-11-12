@@ -58,7 +58,7 @@ Those are used to be replaced with something. In most cases that is character na
 Those are quotes that need to be escaped to work properly. Be very careful with those. The wrong quote can break the whole game.  
 You can read more about RenPy syntax here:  
 [https://www.renpy.org/dev-doc/html/translations.html](https://www.renpy.org/dev-doc/html/translations.html)  
-If there is something not clear reach out on our [Discord](https://discord.gg/b6CNu2C) on the #translations channel (ask if you need access). 
+If there is something not clear reach out on our [Discord](https://discord.gg/efmQRNtFks) on the #translations channel (ask if you need access). 
 
 # How to work with GitHub
 

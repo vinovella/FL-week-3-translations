@@ -55,8 +55,8 @@ translate chinese strings:
     new "\"Internal storage/Android/data/com.patreon.fetishlocator.week3/files/saves/\"."
 
     # game/code/screens/screens_fl.rpy:208
-    old "Contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} if you need help."
-    new "Contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} if you need help."
+    old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
+    new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
 
     # game/code/screens/screens_fl.rpy:213
     old "Or"
