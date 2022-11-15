@@ -64,7 +64,7 @@ translate chinese d16s04_d752e824:
 translate chinese d16s04_ed429b60:
 
     # mc "Nothing. Just, I guess I never took you for a fiction type of a gal."
-    mc "没什么。只是，我从来没想过你是个小说迷。"
+    mc "没什么。只是，我从没想过你是个小说迷。"
 
 # game/code/d16/d16s04.rpy:69
 translate chinese d16s04_7fc34c19:
@@ -142,7 +142,7 @@ translate chinese d16s04_6cbf2f01:
 translate chinese d16s04_7a2553bd:
 
     # mes "Just pages upon pages of descriptions. Like, I don't care about the life of the great grandfather of the jeweler that etched the protagonist's heirloom toothpick!"
-    mes "只是一页又一页的堆砌。比如，我不关心给主角的传家宝牙签刻字的珠宝商他曾祖父的生活！"
+    mes "它们纯是一页又一页的堆砌。比如，我不关心给主角的传家宝牙签刻字的珠宝商他曾祖父的生活！"
 
 # game/code/d16/d16s04.rpy:97
 translate chinese d16s04_38843014:
@@ -490,7 +490,7 @@ translate chinese d16s04_0e475984:
 translate chinese d16s04_4d10bee1:
 
     # mc "There {i}has{/i} to be better ways to live life. And there {i}{b}has{/b}{/i} to be better things to fucking recycle."
-    mc "{i}肯定{/i}有更好的生活方式。他妈{i}{b}肯定{/b}{/i}也有更好的东西可以回收。"
+    mc "{i}肯定{/i}有更好的生活方式。你他妈{i}{b}肯定{/b}{/i}也有更好的东西可以回收。"
 
 # game/code/d16/d16s04.rpy:245
 translate chinese d16s04_0d371527:
@@ -550,355 +550,355 @@ translate chinese d16s04_981ad90a:
 translate chinese d16s04_72d80bea:
 
     # mc "Wait, what? Why?"
-    mc "Wait, what? Why?"
+    mc "等等，什么？为什么？"
 
 # game/code/d16/d16s04.rpy:269
 translate chinese d16s04_1f4fa4b2:
 
     # kb "It's just that I always think that she isn't going to be into the shit I'm into, but nope. She just goes along with whatever."
-    kb "It's just that I always think that she isn't going to be into the shit I'm into, but nope. She just goes along with whatever."
+    kb "我总是觉得她不会对我喜欢的东西感兴趣，但不是的。她就是随遇而安。"
 
 # game/code/d16/d16s04.rpy:270
 translate chinese d16s04_33375ec5:
 
     # kb "I love how open minded she is about stuff."
-    kb "I love how open minded she is about stuff."
+    kb "我喜欢她对事物的开放态度。"
 
 # game/code/d16/d16s04.rpy:272
 translate chinese d16s04_953e3e62:
 
     # mc "Hm."
-    mc "Hm."
+    mc "嗯。"
 
 # game/code/d16/d16s04.rpy:274
 translate chinese d16s04_41e42f8c:
 
     # kb "Oh, we got a Gold Star recently as well."
-    kb "Oh, we got a Gold Star recently as well."
+    kb "哦，我们最近也得到了一颗金星。"
 
 # game/code/d16/d16s04.rpy:279
 translate chinese d16s04_ef94533b:
 
     # mc "Still you. But hold up. You got a Gold Star?"
-    mc "Still you. But hold up. You got a Gold Star?"
+    mc "还得是你。等等。你们得到了金星？"
 
 # game/code/d16/d16s04.rpy:282
 translate chinese d16s04_51bdb5ec:
 
     # mc "Hold up. You got a Gold Star?"
-    mc "Hold up. You got a Gold Star?"
+    mc "等一下。你得到了金星？"
 
 # game/code/d16/d16s04.rpy:284
 translate chinese d16s04_08de66b0:
 
     # mc "A Gold Star, huh?"
-    mc "A Gold Star, huh?"
+    mc "确定是金星吗？"
 
 # game/code/d16/d16s04.rpy:288
 translate chinese d16s04_f5a65b9a:
 
     # kb "Yeah."
-    kb "Yeah."
+    kb "对呀。"
 
 # game/code/d16/d16s04.rpy:291
 translate chinese d16s04_d7e455dc:
 
     # mc "...How?"
-    mc "...How?"
+    mc "...怎么会？"
 
 # game/code/d16/d16s04.rpy:294
 translate chinese d16s04_09dcb738:
 
     # kb "What do you mean how?"
-    kb "What do you mean how?"
+    kb "什么意思？"
 
 # game/code/d16/d16s04.rpy:297
 translate chinese d16s04_be6b3495:
 
     # mc "Are you in the VIP program?"
-    mc "Are you in the VIP program?"
+    mc "你参与了VIP计划吗？"
 
 # game/code/d16/d16s04.rpy:299
 translate chinese d16s04_9f3a4ad8:
 
     # mc "Are you in the retention program?"
-    mc "Are you in the retention program?"
+    mc "你参与了留存计划吗？"
 
 # game/code/d16/d16s04.rpy:302
 translate chinese d16s04_9c47bf8b:
 
     # kb "The what now?"
-    kb "The what now?"
+    kb "你说什么计划？"
 
 # game/code/d16/d16s04.rpy:303
 translate chinese d16s04_a9dde11e:
 
     # kb "My dude, I don't know what you're talking about. But I got a notification from FL a couple of days back saying that they released a new thing. That new thing was the Gold Star stuff."
-    kb "My dude, I don't know what you're talking about. But I got a notification from FL a couple of days back saying that they released a new thing. That new thing was the Gold Star stuff."
+    kb "老兄，我不知道你在说什么。但我几天前收到软件通知，说他们发布了一个新东西。就是金星之类的挑战。"
 
 # game/code/d16/d16s04.rpy:306
 translate chinese d16s04_5e2a19bc:
 
     # mc "Huh, what else did it say?"
-    mc "Huh, what else did it say?"
+    mc "嗯，软件还说了什么？"
 
 # game/code/d16/d16s04.rpy:309
 translate chinese d16s04_fc1e93aa:
 
     # kb "Uhh, I don't remember. Something about how their closed beta was a success, so they're rolling it out to the masses."
-    kb "Uhh, I don't remember. Something about how their closed beta was a success, so they're rolling it out to the masses."
+    kb "呃，我不记得了。好像说他们之前的封闭测试很成功，所以将向大众推广。"
 
 # game/code/d16/d16s04.rpy:312
 translate chinese d16s04_375fc6c7:
 
     # mc "And what does it do exactly?"
-    mc "And what does it do exactly?"
+    mc "那东西到底是干嘛的？"
 
 # game/code/d16/d16s04.rpy:315
 translate chinese d16s04_17b00802:
 
     # kb "The Gold Stars?"
-    kb "The Gold Stars?"
+    kb "你说金星？"
 
 # game/code/d16/d16s04.rpy:319
 translate chinese d16s04_355c13d1:
 
     # mct "AmRose told me about that a bit back."
-    mct "AmRose told me about that a bit back."
+    mct "爱洛丝之前跟我说过这个事。"
 
 # game/code/d16/d16s04.rpy:322
 translate chinese d16s04_b1ae9bf1:
 
     # kb "You've never gotten one?"
-    kb "You've never gotten one?"
+    kb "你一颗都没得到过？"
 
 # game/code/d16/d16s04.rpy:325
 translate chinese d16s04_fca52711:
 
     # mc "No."
-    mc "No."
+    mc "没有。"
 
 # game/code/d16/d16s04.rpy:328
 translate chinese d16s04_0b3991e2:
 
     # kb "Well, FL has a thing called \"Gold Stars.\" Basically, if you do some wild fetishey thing, you have a chance to get one."
-    kb "Well, FL has a thing called \"Gold Stars.\" Basically, if you do some wild fetishey thing, you have a chance to get one."
+    kb "嗯，性趣探测器有个东西叫\"金星。\"基本上，如果你挑战疯狂性癖，就有机会得到一个。"
 
 # game/code/d16/d16s04.rpy:330
 translate chinese d16s04_deb4948d:
 
     # kb "The main criteria is that what you're doing has to be pretty unique and out there."
-    kb "The main criteria is that what you're doing has to be pretty unique and out there."
+    kb "主要标准是，你所做的事必须相当独特。"
 
 # game/code/d16/d16s04.rpy:331
 translate chinese d16s04_bf750554:
 
     # kb "There aren't any specific rules or fetishes that count, so you just have to freestyle it and figure it out."
-    kb "There aren't any specific rules or fetishes that count, so you just have to freestyle it and figure it out."
+    kb "没规定任何具体的规则或癖好，所以你要自由发挥，自己想办法。"
 
 # game/code/d16/d16s04.rpy:335
 translate chinese d16s04_35cde387:
 
     # mc "And you got one for felching Chloe?"
-    mc "And you got one for felching Chloe?"
+    mc "所以你靠和克洛伊做爱得到了一颗金星？"
 
 # game/code/d16/d16s04.rpy:337
 translate chinese d16s04_c68fbcba:
 
     # mc "And you got one with Chloe?"
-    mc "And you got one with Chloe?"
+    mc "所以你和克洛伊得到了一颗金星？"
 
 # game/code/d16/d16s04.rpy:338
 translate chinese d16s04_2ff9bd83:
 
     # mct "What did he even do with her?"
-    mct "What did he even do with her?"
+    mct "他到底跟她做了什么？"
 
 # game/code/d16/d16s04.rpy:341
 translate chinese d16s04_c1b16753:
 
     # kb "Yep."
-    kb "Yep."
+    kb "是的。"
 
 # game/code/d16/d16s04.rpy:343
 translate chinese d16s04_1526c621:
 
     # kb "It seems pretty interesting, said something about how you can restore daily streaks with it. Oh, you get cool badges and profile customization stuff. Discounts in the shop. Higher priority on any ads you post. Stuff like that."
-    kb "It seems pretty interesting, said something about how you can restore daily streaks with it. Oh, you get cool badges and profile customization stuff. Discounts in the shop. Higher priority on any ads you post. Stuff like that."
+    kb "这东西挺有意思的，说什么你可以用它来恢复每天的连贯性。哦，你会得到很酷的徽章，还有什么个人资料定制。在商店里有折扣。你发布的任何广告都有更高优先级。诸如此类吧。"
 
 # game/code/d16/d16s04.rpy:346
 translate chinese d16s04_5693a819:
 
     # mc "Huh..."
-    mc "Huh..."
+    mc "嗯..."
 
 # game/code/d16/d16s04.rpy:349
 translate chinese d16s04_99428ff6:
 
     # kb "Yeah, it's just your usual gamify stuff. Pretty smart, IMO."
-    kb "Yeah, it's just your usual gamify stuff. Pretty smart, IMO."
+    kb "这都成了日常游戏内容了。依我看，这招相当聪明。"
 
 # game/code/d16/d16s04.rpy:353
 translate chinese d16s04_694ebda1:
 
     # mct "It seems like the Gold Stars for the VIP program was a beta test or something."
-    mct "It seems like the Gold Stars for the VIP program was a beta test or something."
+    mct "看来VIP计划的金星是个测试版之类的东西。"
 
 # game/code/d16/d16s04.rpy:355
 translate chinese d16s04_3d8d5fdd:
 
     # mct "It seems like the Gold Stars for the retention program was a beta test of sorts."
-    mct "It seems like the Gold Stars for the retention program was a beta test of sorts."
+    mct "看起来留存计划的金星是个测试版之类的东西。"
 
 # game/code/d16/d16s04.rpy:356
 translate chinese d16s04_cb724e06:
 
     # mct "What does this mean? Has the function of the Stars changed?"
-    mct "What does this mean? Has the function of the Stars changed?"
+    mct "这是怎么回事？金星的功能变了吗？"
 
 # game/code/d16/d16s04.rpy:360
 translate chinese d16s04_637b7c7b:
 
     # mct "FL told me that I can use the Gold Stars to skip a challenge, but maybe that has changed now?"
-    mct "FL told me that I can use the Gold Stars to skip a challenge, but maybe that has changed now?"
+    mct "软件告诉我，我可以用金星跳过一个挑战，但也许现在已经改了？"
 
 # game/code/d16/d16s04.rpy:362
 translate chinese d16s04_92e0675f:
 
     # mct "FL told me that I can use the Gold Stars to skip the punishment, but maybe that has changed now?"
-    mct "FL told me that I can use the Gold Stars to skip the punishment, but maybe that has changed now?"
+    mct "软件告诉我，我可以用金星跳过惩罚，但也许现在已经改了？"
 
 # game/code/d16/d16s04.rpy:365
 translate chinese d16s04_f0193a30:
 
     # kb "You alright, man?"
-    kb "You alright, man?"
+    kb "你还好吗，伙计？"
 
 # game/code/d16/d16s04.rpy:368
 translate chinese d16s04_437c9daa:
 
     # mc "Hm? Yeah. Yeah, I'm alright."
-    mc "Hm? Yeah. Yeah, I'm alright."
+    mc "啊？啊，没事，我很好。"
 
 # game/code/d16/d16s04.rpy:370
 translate chinese d16s04_cabd4770:
 
     # mc "Just got lost in thought for a bit."
-    mc "Just got lost in thought for a bit."
+    mc "只是迷糊了一下。"
 
 # game/code/d16/d16s04.rpy:372
 translate chinese d16s04_bdb6cd54:
 
     # kb "Alright."
-    kb "Alright."
+    kb "好吧。"
 
 # game/code/d16/d16s04.rpy:377
 translate chinese d16s04_4fd2cb3a:
 
     # rn "Good morning, everyone."
-    rn "Good morning, everyone."
+    rn "大家早上好。"
 
 # game/code/d16/d16s04.rpy:381
 translate chinese d16s04_57f4a86c:
 
     # rn "I was caught up with some personal things today, so it seems I was a bit late."
-    rn "I was caught up with some personal things today, so it seems I was a bit late."
+    rn "我今天被一些私人事务缠住了，所以有点迟到了。"
 
 # game/code/d16/d16s04.rpy:386
 translate chinese d16s04_8f99a0e1:
 
     # mct "Bingo. It's right here."
-    mct "Bingo. It's right here."
+    mct "啊哈。就在这。"
 
 # game/code/d16/d16s04.rpy:388
 translate chinese d16s04_aa4b18fa:
 
     # mct "Says here that I have one ongoing challenge and that I can reduce the length of it for three Gold Stars!"
-    mct "Says here that I have one ongoing challenge and that I can reduce the length of it for three Gold Stars!"
+    mct "这里说我当前有个正在进行的挑战，我可以用三颗金星减少挑战长度！"
 
 # game/code/d16/d16s04.rpy:390
 translate chinese d16s04_795648f9:
 
     # mct "Says here that I have one ongoing punishment and that I can reduce the length of it for three Gold Stars!"
-    mct "Says here that I have one ongoing punishment and that I can reduce the length of it for three Gold Stars!"
+    mct "这里说我当前有个正在进行的惩罚，我可以用三颗金星减少惩罚长度！"
 
 # game/code/d16/d16s04.rpy:394
 translate chinese d16s04_b746fd4f:
 
     # mct "And apparently I've gone through this challenge long enough that I could end it right now!"
-    mct "And apparently I've gone through this challenge long enough that I could end it right now!"
+    mct "显然，我已经受够了这个挑战，我现在就可以结束它！"
 
 # game/code/d16/d16s04.rpy:396
 translate chinese d16s04_da1dc5f0:
 
     # mct "And apparently I've gone through the punishment long enough that I can end it right now!"
-    mct "And apparently I've gone through the punishment long enough that I can end it right now!"
+    mct "显然，我已经受够了这个惩罚，我现在就可以结束它！"
 
 # game/code/d16/d16s04.rpy:399
 translate chinese d16s04_9a7fe382:
 
     # mct "Jesus Christ, I have just barely enough."
-    mct "Jesus Christ, I have just barely enough."
+    mct "我去，我刚刚好够用。"
 
 # game/code/d16/d16s04.rpy:401
 translate chinese d16s04_faa5165f:
 
     # mct "But I can end this!"
-    mct "But I can end this!"
+    mct "总算可以结束这一切！"
 
 # game/code/d16/d16s04.rpy:402
 translate chinese d16s04_0c7bd4c0:
 
     # mct "Wait... Should I do this later tonight or right now?"
-    mct "Wait... Should I do this later tonight or right now?"
+    mct "等等... 我应该今天晚些时候做还是现在就做？"
 
 # game/code/d16/d16s04.rpy:405
 translate chinese d16s04_f2e2abd3:
 
     # mct "I want to be out of this fucking thing yesterday, but getting it off right now might be...awkward."
-    mct "I want to be out of this fucking thing yesterday, but getting it off right now might be...awkward."
+    mct "我昨天就想把这该死的东西拿出来，但现在就拿出来可能会...很尴尬。"
 
 # game/code/d16/d16s04.rpy:417
 translate chinese d16s04_2fdc61a1:
 
     # mct "Fuck that. I want out, {i}{b}now{/b}{/i}"
-    mct "Fuck that. I want out, {i}{b}now{/b}{/i}"
+    mct "去他的。我{i}{b}现在{/b}{/i}就想出来。"
 
 # game/code/d16/d16s04.rpy:420
 translate chinese d16s04_f6ad261b:
 
     # mct "What now?"
-    mct "What now?"
+    mct "现在怎么办？"
 
 # game/code/d16/d16s04.rpy:422
 translate chinese d16s04_72a6c3b3:
 
     # flr "Your request has been received and approved. Enjoy your freedom!"
-    flr "Your request has been received and approved. Enjoy your freedom!"
+    flr "您的请求已收到并得到批准。享受个人自由吧!"
 
 # game/code/d16/d16s04.rpy:425
 translate chinese d16s04_f0c9a692:
 
     # kb "Huh?"
-    kb "Huh?"
+    kb "嗯？"
 
 # game/code/d16/d16s04.rpy:428
 translate chinese d16s04_c48fb477:
 
     # mct "Shit, I forgot that Kevin was here."
-    mct "Shit, I forgot that Kevin was here."
+    mct "该死，我忘了凯文在这里。"
 
 # game/code/d16/d16s04.rpy:435
 translate chinese d16s04_3af1155b:
 
     # mc "Don't freak out. It's just I need to do this right now."
-    mc "Don't freak out. It's just I need to do this right now."
+    mc "别吓坏了。只是我现在需要做这事。"
 
 # game/code/d16/d16s04.rpy:438
 translate chinese d16s04_c0374efa:
 
     # kb "Alright...?"
-    kb "Alright...?"
+    kb "好吧...？"
 
 # game/code/d16/d16s04.rpy:441
 translate chinese d16s04_cc12458d:
@@ -916,55 +916,55 @@ translate chinese d16s04_2b35b6fe:
 translate chinese d16s04_f1376ad1:
 
     # mc "I failed a challenge from FL. This was my new challenge."
-    mc "I failed a challenge from FL. This was my new challenge."
+    mc "我没有通过软件的挑战。这是新挑战。"
 
 # game/code/d16/d16s04.rpy:449
 translate chinese d16s04_c6fdd931:
 
     # mc "I failed a thing from FL. This was my punishment."
-    mc "I failed a thing from FL. This was my punishment."
+    mc "我没能达到软件的要求。这是对我的惩罚。"
 
 # game/code/d16/d16s04.rpy:450
 translate chinese d16s04_a72857c3:
 
     # mc "You talking about the Gold Stars made me think and uh... yep."
-    mc "You talking about the Gold Stars made me think and uh... yep."
+    mc "你说到金星，让我想到...就是这样了。"
 
 # game/code/d16/d16s04.rpy:452
 translate chinese d16s04_579a9020:
 
     # kb "...Huh."
-    kb "...Huh."
+    kb "...嗯。"
 
 # game/code/d16/d16s04.rpy:462
 translate chinese d16s04_6a21c158:
 
     # kb "Can I have it?"
-    kb "Can I have it?"
+    kb "可以给我吗？"
 
 # game/code/d16/d16s04.rpy:464
 translate chinese d16s04_3f9df27f:
 
     # mc "...What?"
-    mc "...What?"
+    mc "...什么？"
 
 # game/code/d16/d16s04.rpy:466
 translate chinese d16s04_e7960abc:
 
     # kb "If you're not using it."
-    kb "If you're not using it."
+    kb "如果你不用它的话。"
 
 # game/code/d16/d16s04.rpy:469
 translate chinese d16s04_d4d3861f:
 
     # mc "...You want the cock cage that I wore?"
-    mc "...You want the cock cage that I wore?"
+    mc "...你想要我穿的鸡笼？"
 
 # game/code/d16/d16s04.rpy:471
 translate chinese d16s04_c1b16753_1:
 
     # kb "Yep."
-    kb "Yep."
+    kb "对头。"
 
 # game/code/d16/d16s04.rpy:473
 translate chinese d16s04_2b35b6fe_1:
@@ -976,73 +976,73 @@ translate chinese d16s04_2b35b6fe_1:
 translate chinese d16s04_e56c3d00:
 
     # mc "Yeah, sure, alright. Here."
-    mc "Yeah, sure, alright. Here."
+    mc "呃，当然。给你。"
 
 # game/code/d16/d16s04.rpy:483
 translate chinese d16s04_9d8390ca:
 
     # kb "Thanks man."
-    kb "Thanks man."
+    kb "谢谢你，伙计。"
 
 # game/code/d16/d16s04.rpy:486
 translate chinese d16s04_cccf76b8:
 
     # mc "No problem. Reduce, reuse, recycle, right?"
-    mc "No problem. Reduce, reuse, recycle, right?"
+    mc "没问题。很符合你减少、再利用、再循环的宗旨吧？"
 
 # game/code/d16/d16s04.rpy:493
 translate chinese d16s04_17ee4e25:
 
     # kb "Guess that's another use for the Gold Stars then."
-    kb "Guess that's another use for the Gold Stars then."
+    kb "看来这是金星的另一个用途了。"
 
 # game/code/d16/d16s04.rpy:494
 translate chinese d16s04_01f6194e:
 
     # kb "Versatile things."
-    kb "Versatile things."
+    kb "真是多功能啊。"
 
 # game/code/d16/d16s04.rpy:497
 translate chinese d16s04_a87a337b:
 
     # mc "Yep."
-    mc "Yep."
+    mc "是的。"
 
 # game/code/d16/d16s04.rpy:500
 translate chinese d16s04_91e3ef00:
 
     # kb "Hey, no one's gonna know about this from me."
-    kb "Hey, no one's gonna know about this from me."
+    kb "嘿，我不会跟其他人说的。"
 
 # game/code/d16/d16s04.rpy:501
 translate chinese d16s04_caa4d217:
 
     # kb "Scout's honor."
-    kb "Scout's honor."
+    kb "这是童子军的荣誉。"
 
 # game/code/d16/d16s04.rpy:504
 translate chinese d16s04_5592b726:
 
     # mc "Thanks, man. I appreciate it."
-    mc "Thanks, man. I appreciate it."
+    mc "谢谢，伙计。我很感激。"
 
 # game/code/d16/d16s04.rpy:513
 translate chinese d16s04_d498c6b3:
 
     # mct "I think it's best if I wait it out."
-    mct "I think it's best if I wait it out."
+    mct "我想最好还是等等。"
 
 # game/code/d16/d16s04.rpy:514
 translate chinese d16s04_51194012:
 
     # mct "I waited this long, I can wait a couple more hours."
-    mct "I waited this long, I can wait a couple more hours."
+    mct "我等了这么久，还可以再等几个小时。"
 
 # game/code/d16/d16s04.rpy:521
 translate chinese d16s04_ad1c152e:
 
     # mct "Do I even have any?"
-    mct "Do I even have any?"
+    mct "我有金星吗？"
 
 # game/code/d16/d16s04.rpy:522
 translate chinese d16s04_a20cefa7:
@@ -1054,167 +1054,167 @@ translate chinese d16s04_a20cefa7:
 translate chinese d16s04_32aafe18:
 
     # mct "Damn."
-    mct "Damn."
+    mct "该死。"
 
 # game/code/d16/d16s04.rpy:526
 translate chinese d16s04_7474b8b9:
 
     # mct "Well, shit. There goes that plan."
-    mct "Well, shit. There goes that plan."
+    mct "靠，倒霉。这个计划泡汤了。"
 
 # game/code/d16/d16s04.rpy:528
 translate chinese d16s04_ba765917:
 
     # mct "At least I know that it can be done."
-    mct "At least I know that it can be done."
+    mct "至少我知道这是可行的。"
 
 # game/code/d16/d16s04.rpy:529
 translate chinese d16s04_1d0b4138:
 
     # mct "Now where the hell do I find {i}{b}three{/b}{/i} Gold Stars...?"
-    mct "Now where the hell do I find {i}{b}three{/b}{/i} Gold Stars...?"
+    mct "现在我到哪里去找{i}{b}三颗{/b}{/i}金星...？"
 
 # game/code/d16/d16s04.rpy:534
 translate chinese d16s04_86ded4ec:
 
     # sy "Oi are you out of class yet?"
-    sy "Oi are you out of class yet?"
+    sy "哎，你下课了吗？"
 
 # game/code/d16/d16s04.rpy:535
 translate chinese d16s04_f5d64e17:
 
     # mct "Stacy?"
-    mct "Stacy?"
+    mct "史黛西？"
 
 # game/code/d16/d16s04.rpy:537
 translate chinese d16s04_aa9d576a:
 
     # mct "No it just started."
-    mct "No it just started."
+    mct "没，刚上课。"
 
 # game/code/d16/d16s04.rpy:540
 translate chinese d16s04_1bd45c8f:
 
     # sy "Ok well I got a thing I gotta go to."
-    sy "Ok well I got a thing I gotta go to."
+    sy "好吧，我有件事要去办。"
 
 # game/code/d16/d16s04.rpy:542
 translate chinese d16s04_b0435d59:
 
     # sy "Could you pick me up after class?"
-    sy "Could you pick me up after class?"
+    sy "下课后你能来接我吗？"
 
 # game/code/d16/d16s04.rpy:543
 translate chinese d16s04_62590352:
 
     # mct "\"Thing\"?"
-    mct "\"Thing\"?"
+    mct "\"办事\"?"
 
 # game/code/d16/d16s04.rpy:546
 translate chinese d16s04_d881593e:
 
     # mct "Sure."
-    mct "Sure."
+    mct "当然可以。"
 
 # game/code/d16/d16s04.rpy:548
 translate chinese d16s04_06f295c4:
 
     # sy "Nice luv u byeeee xoxo."
-    sy "Nice luv u byeeee xoxo."
+    sy "太好了，爱你哟。回见，亲亲"
 
 # game/code/d16/d16s04.rpy:550
 translate chinese d16s04_0cca44fa:
 
     # sy "Study hard ya dingus."
-    sy "Study hard ya dingus."
+    sy "努力学习吧，小家伙"
 
 # game/code/d16/d16s04.rpy:554
 translate chinese d16s04_9a3c5809:
 
     # mct "Allison?"
-    mct "Allison?"
+    mct "艾莉森？"
 
 # game/code/d16/d16s04.rpy:555
 translate chinese d16s04_757942ea:
 
     # aw "Hey, are you busy?"
-    aw "Hey, are you busy?"
+    aw "嘿，你在忙吗？"
 
 # game/code/d16/d16s04.rpy:558
 translate chinese d16s04_71f12e7a:
 
     # mct "Depends what's up?"
-    mct "Depends what's up?"
+    mct "那要看是什么事了？"
 
 # game/code/d16/d16s04.rpy:560
 translate chinese d16s04_e28ed308:
 
     # aw "Can you come over for a bit?"
-    aw "Can you come over for a bit?"
+    aw "你能过来一下吗？"
 
 # game/code/d16/d16s04.rpy:564
 translate chinese d16s04_bc02264d:
 
     # mct "Hm, this might be my chance to talk to Allison about what went down at the party."
-    mct "Hm, this might be my chance to talk to Allison about what went down at the party."
+    mct "嗯，这是个机会，我也许能和艾莉森谈谈聚会上发生的事。"
 
 # game/code/d16/d16s04.rpy:568
 translate chinese d16s04_ddad79bd:
 
     # mct "Sure im in class rn."
-    mct "Sure im in class rn."
+    mct "当然，我现在在上课。"
 
 # game/code/d16/d16s04.rpy:571
 translate chinese d16s04_8da67c47:
 
     # mct "I can be over in a bit tho."
-    mct "I can be over in a bit tho."
+    mct "我一会儿就能过来。"
 
 # game/code/d16/d16s04.rpy:573
 translate chinese d16s04_e242fd49:
 
     # aw "Great! Thank you."
-    aw "Great! Thank you."
+    aw "太好了! 谢谢你。"
 
 # game/code/d16/d16s04.rpy:580
 translate chinese d16s04_e43814e1:
 
     # mct "Sorry im with someone rn."
-    mct "Sorry im with someone rn."
+    mct "抱歉了，我现在和别人在一起。"
 
 # game/code/d16/d16s04.rpy:583
 translate chinese d16s04_91c04852:
 
     # aw "Oh, it's alright then."
-    aw "Oh, it's alright then."
+    aw "哦，那就没事了。"
 
 # game/code/d16/d16s04.rpy:585
 translate chinese d16s04_fa09a3e5:
 
     # aw "See you later."
-    aw "See you later."
+    aw "回头见。"
 
 # game/code/d16/d16s04.rpy:589
 translate chinese d16s04_2ff01f73:
 
     # rn "Alright. Let's get started then, shall we?"
-    rn "Alright. Let's get started then, shall we?"
+    rn "好。那我们就开始吧，好吗？"
 
 translate chinese strings:
 
     # game/code/d16/d16s04.rpy:407
     old "Freedom, {i}{b}now{/b}{/i}"
-    new "Freedom, {i}{b}now{/b}{/i}"
+    new "要自由，{i}{b}就现在{/b}{/i}"
 
     # game/code/d16/d16s04.rpy:407
     old "Hold out for a better opportunity"
-    new "Hold out for a better opportunity"
+    new "撑住，等待更好的机会"
 
     # game/code/d16/d16s04.rpy:565
     old "I'll be over"
-    new "I'll be over"
+    new "我会过去"
 
     # game/code/d16/d16s04.rpy:565
     old "I won't be able to come"
-    new "I won't be able to come"
+    new "我过不去"
 
