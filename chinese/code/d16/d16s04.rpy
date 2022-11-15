@@ -4,547 +4,547 @@
 translate chinese d16s04_010937cb:
 
     # mct "Phew, seems like everyone's a little late today."
-    mct "Phew, seems like everyone's a little late today."
+    mct "呼，看来今天大家都迟到了。"
 
 # game/code/d16/d16s04.rpy:32
 translate chinese d16s04_8dd003ce:
 
     # mct "Not a lot of people today.{w} Guess I'm early."
-    mct "Not a lot of people today.{w} Guess I'm early."
+    mct "今天人不多啊。{w}看来我来早了。"
 
 # game/code/d16/d16s04.rpy:41
 translate chinese d16s04_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "嘿。"
 
 # game/code/d16/d16s04.rpy:44
 translate chinese d16s04_19300751:
 
     # mes "Hey yourself."
-    mes "Hey yourself."
+    mes "哈喽。"
 
 # game/code/d16/d16s04.rpy:47
 translate chinese d16s04_1d46c928:
 
     # mc "May I?"
-    mc "May I?"
+    mc "可以坐吗？"
 
 # game/code/d16/d16s04.rpy:50
 translate chinese d16s04_8c363274:
 
     # mes "Sure."
-    mes "Sure."
+    mes "当然可以。"
 
 # game/code/d16/d16s04.rpy:55
 translate chinese d16s04_699dca67:
 
     # mc "What are you reading there?"
-    mc "What are you reading there?"
+    mc "你在看什么书？"
 
 # game/code/d16/d16s04.rpy:58
 translate chinese d16s04_806b6e77:
 
     # mes "\"The Silent Patient.\" Lydia recommended it to me a while back."
-    mes "\"The Silent Patient.\" Lydia recommended it to me a while back."
+    mes "\"沉默的病人。\" 莉迪亚不久前向我推荐的。"
 
 # game/code/d16/d16s04.rpy:61
 translate chinese d16s04_ad1eaa57:
 
     # mc "Huh."
-    mc "Huh."
+    mc "啊。"
 
 # game/code/d16/d16s04.rpy:63
 translate chinese d16s04_d752e824:
 
     # mes "What?"
-    mes "What?"
+    mes "怎么？"
 
 # game/code/d16/d16s04.rpy:66
 translate chinese d16s04_ed429b60:
 
     # mc "Nothing. Just, I guess I never took you for a fiction type of a gal."
-    mc "Nothing. Just, I guess I never took you for a fiction type of a gal."
+    mc "没什么。只是，我从来没想过你是个小说迷。"
 
 # game/code/d16/d16s04.rpy:69
 translate chinese d16s04_7fc34c19:
 
     # mes "What does that mean?"
-    mes "What does that mean?"
+    mes "怎么说？"
 
 # game/code/d16/d16s04.rpy:72
 translate chinese d16s04_8cc539ae:
 
     # mc "Well, you're one of the smartest people I know. The image I have of you in my head is you building rockets, fighting mummies, and climbing the Eiffel Tower or something."
-    mc "Well, you're one of the smartest people I know. The image I have of you in my head is you building rockets, fighting mummies, and climbing the Eiffel Tower or something."
+    mc "你是我认识的最聪明的人之一。你在我脑海里的形象是制造火箭，和木乃伊战斗，攀登埃菲尔铁塔这样酷飒类型的。"
 
 # game/code/d16/d16s04.rpy:73
 translate chinese d16s04_6586976a:
 
     # mc "I just never took you for someone that liked to spend a lot of time inside their own mind I guess."
-    mc "I just never took you for someone that liked to spend a lot of time inside their own mind I guess."
+    mc "我从来没想过你是个喜欢花很多时间思考自己的人。"
 
 # game/code/d16/d16s04.rpy:75
 translate chinese d16s04_6743aa4e:
 
     # mc "If that makes any sense."
-    mc "If that makes any sense."
+    mc "如果你明白我什么意思的话。"
 
 # game/code/d16/d16s04.rpy:77
 translate chinese d16s04_617f9817:
 
     # mes "It does...I think."
-    mes "It does...I think."
+    mes "我应该...听明白了。"
 
 # game/code/d16/d16s04.rpy:78
 translate chinese d16s04_9a3a7b2d:
 
     # mes "And you're right, for the most part. I'm not big into books. I want to do stuff, not read about people doing stuff."
-    mes "And you're right, for the most part. I'm not big into books. I want to do stuff, not read about people doing stuff."
+    mes "在很大程度上，你是对的。我不太喜欢书。我想做点什么，而不是读别人的故事，看他们做什么。"
 
 # game/code/d16/d16s04.rpy:81
 translate chinese d16s04_1eb783f0:
 
     # mes "But I've been fed enough book reading propaganda by Lydia over the years and I just finally broke down I guess."
-    mes "But I've been fed enough book reading propaganda by Lydia over the years and I just finally broke down I guess."
+    mes "但这些年来，莉迪亚不断给我灌输读书的观念，我终于屈服了。"
 
 # game/code/d16/d16s04.rpy:82
 translate chinese d16s04_8b2b4c89:
 
     # mes "And I dunno. This sounded interesting, so I thought why not?"
-    mes "And I dunno. This sounded interesting, so I thought why not?"
+    mes "我也说不上来。读书听起来还挺有意思，所以我想为什么不试试呢？"
 
 # game/code/d16/d16s04.rpy:85
 translate chinese d16s04_d593c6be:
 
     # mc "So how is it then?"
-    mc "So how is it then?"
+    mc "你读过后感觉如何呢？"
 
 # game/code/d16/d16s04.rpy:88
 translate chinese d16s04_5961d47e:
 
     # mes "Reading books in general or the book specifically?"
-    mes "Reading books in general or the book specifically?"
+    mes "你是指泛读，还是指这本书？"
 
 # game/code/d16/d16s04.rpy:91
 translate chinese d16s04_9c2b0af4:
 
     # mc "Both, I guess."
-    mc "Both, I guess."
+    mc "都有吧。"
 
 # game/code/d16/d16s04.rpy:94
 translate chinese d16s04_6cbf2f01:
 
     # mes "Well, it's been interesting. I remember reading some fiction stuff in high school and it was all so boring."
-    mes "Well, it's been interesting. I remember reading some fiction stuff in high school and it was all so boring."
+    mes "嗯，很有趣。我记得高中时读过一些小说，都很无聊。"
 
 # game/code/d16/d16s04.rpy:96
 translate chinese d16s04_7a2553bd:
 
     # mes "Just pages upon pages of descriptions. Like, I don't care about the life of the great grandfather of the jeweler that etched the protagonist's heirloom toothpick!"
-    mes "Just pages upon pages of descriptions. Like, I don't care about the life of the great grandfather of the jeweler that etched the protagonist's heirloom toothpick!"
+    mes "只是一页又一页的堆砌。比如，我不关心给主角的传家宝牙签刻字的珠宝商他曾祖父的生活！"
 
 # game/code/d16/d16s04.rpy:97
 translate chinese d16s04_38843014:
 
     # mes "Move the story along already."
-    mes "Move the story along already."
+    mes "我只想对作者说：给我讲主角的故事！"
 
 # game/code/d16/d16s04.rpy:100
 translate chinese d16s04_9135ece0:
 
     # mc "Yeah. Some writers go overboard with that."
-    mc "Yeah. Some writers go overboard with that."
+    mc "是的。有些作家在这方面确实太过火了。"
 
 # game/code/d16/d16s04.rpy:103
 translate chinese d16s04_f5474c42:
 
     # mes "Yeah. Anyway, this, thankfully, doesn't do that."
-    mes "Yeah. Anyway, this, thankfully, doesn't do that."
+    mes "对吧。不管怎么说，幸好这本书没这样。"
 
 # game/code/d16/d16s04.rpy:104
 translate chinese d16s04_f9bd9711:
 
     # mes "Which I like."
-    mes "Which I like."
+    mes "我喜欢。"
 
 # game/code/d16/d16s04.rpy:106
 translate chinese d16s04_a9e6c441:
 
     # mes "And it's been...interesting imagining this all out in my mind. You could even say it's been fun."
-    mes "And it's been...interesting imagining this all out in my mind. You could even say it's been fun."
+    mes "而且我会在脑海中想象相关情节...蛮有趣的。甚至可以说乐趣十足。"
 
 # game/code/d16/d16s04.rpy:109
 translate chinese d16s04_8a277c5d:
 
     # mc "Wow, well, I'm glad you're having fun."
-    mc "Wow, well, I'm glad you're having fun."
+    mc "哇，好吧，很高兴你能这么享受。"
 
 # game/code/d16/d16s04.rpy:110
 translate chinese d16s04_37f88c26:
 
     # mc "Maybe you can read it to me sometime."
-    mc "Maybe you can read it to me sometime."
+    mc "也许你可以找个时间读给我听。"
 
 # game/code/d16/d16s04.rpy:113
 translate chinese d16s04_727efb9b:
 
     # mes "...Read it to you?"
-    mes "...Read it to you?"
+    mes "...读给你听？"
 
 # game/code/d16/d16s04.rpy:114
 translate chinese d16s04_0446baf7:
 
     # mes "...Why?"
-    mes "...Why?"
+    mes "...为什么？"
 
 # game/code/d16/d16s04.rpy:117
 translate chinese d16s04_e7a121a5:
 
     # mc "Well, let's see."
-    mc "Well, let's see."
+    mc "嗯，让我想想。"
 
 # game/code/d16/d16s04.rpy:118
 translate chinese d16s04_770c339e:
 
     # mc "One, I like your voice, and I like hearing you talk.{w} Two, I like spending time with you."
-    mc "One, I like your voice, and I like hearing you talk.{w} Two, I like spending time with you."
+    mc "第一，我喜欢你的声音，我喜欢听你说话。{w}第二，我喜欢和你在一起。"
 
 # game/code/d16/d16s04.rpy:119
 translate chinese d16s04_6f0962be:
 
     # mc "Three, imagine us on the roof of your place with a nice bottle of wine and some cheese, reading under the stars. That sounds like a pretty amazing time to me."
-    mc "Three, imagine us on the roof of your place with a nice bottle of wine and some cheese, reading under the stars. That sounds like a pretty amazing time to me."
+    mc "第三，想象一下我们在你家的屋顶上，喝着一瓶好酒，吃着奶酪，在星空下看书。我觉得会相当美妙。"
 
 # game/code/d16/d16s04.rpy:122
 translate chinese d16s04_e01d7967:
 
     # mes "Well, all the light pollution around here will probably make it so there's barely any stars visible. But uhm...that does sound nice."
-    mes "Well, all the light pollution around here will probably make it so there's barely any stars visible. But uhm...that does sound nice."
+    mes "嗯，这里的光污染可能会让我们几乎看不到一颗星星。但是...听起来确实不错。"
 
 # game/code/d16/d16s04.rpy:125
 translate chinese d16s04_b5862292:
 
     # mc "Maybe we can go somewhere away from here then."
-    mc "Maybe we can go somewhere away from here then."
+    mc "也许我们可以离开这里去别的地方。"
 
 # game/code/d16/d16s04.rpy:126
 translate chinese d16s04_976fd459:
 
     # mc "Oh, there was something I wanted to ask, by the way. A favor."
-    mc "Oh, there was something I wanted to ask, by the way. A favor."
+    mc "对了，我有件事想问你。想请你帮个忙。"
 
 # game/code/d16/d16s04.rpy:129
 translate chinese d16s04_2fae0d8a:
 
     # mes "Hm?"
-    mes "Hm?"
+    mes "嗯？"
 
 # game/code/d16/d16s04.rpy:132
 translate chinese d16s04_c1a03056:
 
     # mc "I'm having a rough time studying. All the FL stuff plus everything else.{w} And the finals are coming fast."
-    mc "I'm having a rough time studying. All the FL stuff plus everything else.{w} And the finals are coming fast."
+    mc "我在学习上遇到了困难。因为这个软件还有其他一堆的事。{w} 期末考试不是要来了嘛。"
 
 # game/code/d16/d16s04.rpy:133
 translate chinese d16s04_0c24fc52:
 
     # mc "I was wondering if you'd be down to help me study?{w} If it's not a bother."
-    mc "I was wondering if you'd be down to help me study?{w} If it's not a bother."
+    mc "你愿不愿意帮助我学习呢？{w}如果不麻烦的话。"
 
 # game/code/d16/d16s04.rpy:136
 translate chinese d16s04_366a8bf5:
 
     # mes "Of course not."
-    mes "Of course not."
+    mes "当然不麻烦。"
 
 # game/code/d16/d16s04.rpy:137
 translate chinese d16s04_557d513b:
 
     # mes "Maybe we can study at my place."
-    mes "Maybe we can study at my place."
+    mes "也许我们可以在我那里学习。"
 
 # game/code/d16/d16s04.rpy:140
 translate chinese d16s04_513a6f40:
 
     # mes "I'll bring the cheese, you bring the wine."
-    mes "I'll bring the cheese, you bring the wine."
+    mes "我带奶酪，你带酒。"
 
 # game/code/d16/d16s04.rpy:143
 translate chinese d16s04_5ca7c899:
 
     # mc "*Chuckles* I'm not sure we'll get much studying done at that point but sounds good to me."
-    mc "*Chuckles* I'm not sure we'll get much studying done at that point but sounds good to me."
+    mc "*轻笑* 不确定真到那个时候能学多少习，但对我来说听起来不错。"
 
 # game/code/d16/d16s04.rpy:146
 translate chinese d16s04_c3d55868:
 
     # mes "I need to use the washroom. Talk to you later."
-    mes "I need to use the washroom. Talk to you later."
+    mes "我需要用下洗手间。待会再聊。"
 
 # game/code/d16/d16s04.rpy:149
 translate chinese d16s04_869fb62d:
 
     # mc "Alright. Bye."
-    mc "Alright. Bye."
+    mc "好。回见。"
 
 # game/code/d16/d16s04.rpy:164
 translate chinese d16s04_6d1546a5:
 
     # kb "Hey! [mcname]. Sup, man?"
-    kb "Hey! [mcname]. Sup, man?"
+    kb "嘿！[mcname]。最近怎么样啊，伙计？"
 
 # game/code/d16/d16s04.rpy:167
 translate chinese d16s04_ce5b0bbc:
 
     # mc "Just waiting for the class to start.{w} What's up?"
-    mc "Just waiting for the class to start.{w} What's up?"
+    mc "就在等着上课啊。{w}怎么了？"
 
 # game/code/d16/d16s04.rpy:173
 translate chinese d16s04_d50a618d:
 
     # kb "Feels like we haven't talked in forever."
-    kb "Feels like we haven't talked in forever."
+    kb "感觉我们已经很久没说过话了。"
 
 # game/code/d16/d16s04.rpy:176
 translate chinese d16s04_6d38857e:
 
     # mc "Mood. The fuck you been up to anyway?"
-    mc "Mood. The fuck you been up to anyway?"
+    mc "没吧。你他妈这阵子忙什么？"
 
 # game/code/d16/d16s04.rpy:179
 translate chinese d16s04_4f46d7aa:
 
     # kb "Eh, the usual, y'know? Hanging with Chloe. Studying. Oh, I got a part-time gig actually."
-    kb "Eh, the usual, y'know? Hanging with Chloe. Studying. Oh, I got a part-time gig actually."
+    kb "呃，和往常一样啊？和克洛伊在一起。还有学习。哦，我还得到了一份兼职工作。"
 
 # game/code/d16/d16s04.rpy:181
 translate chinese d16s04_a9bf6c3e:
 
     # mc "Oh shit, nice! Mr. Moneybags over here."
-    mc "Oh shit, nice! Mr. Moneybags over here."
+    mc "靠，不错啊！原来成了大款啊。"
 
 # game/code/d16/d16s04.rpy:184
 translate chinese d16s04_345e5edc:
 
     # kb "Moneybags my ass. It pays like dogshit."
-    kb "Moneybags my ass. It pays like dogshit."
+    kb "大款个屁。薪水少的狗屎一样。"
 
 # game/code/d16/d16s04.rpy:186
 translate chinese d16s04_a3c3928e:
 
     # mc "Oof. Welp, something's better than nothing, right?"
-    mc "Oof. Welp, something's better than nothing, right?"
+    mc "哎。好吧，有总比没有好吧？"
 
 # game/code/d16/d16s04.rpy:189
 translate chinese d16s04_7860a471:
 
     # kb "Yeah that's what I tell myself every day to not kill myself."
-    kb "Yeah that's what I tell myself every day to not kill myself."
+    kb "可不，我每天都这样告诉自己，不能想不开。"
 
 # game/code/d16/d16s04.rpy:191
 translate chinese d16s04_8ef0df4f:
 
     # mc "To you not killing yourself."
-    mc "To you not killing yourself."
+    mc "为你没想不开干杯。"
 
 # game/code/d16/d16s04.rpy:194
 translate chinese d16s04_9c009f15:
 
     # kb "*Chuckles* To not killing myself."
-    kb "*Chuckles* To not killing myself."
+    kb "*嗤笑* 为我没想不开干杯。"
 
 # game/code/d16/d16s04.rpy:195
 translate chinese d16s04_ee1225c5:
 
     # mc "You're not gonna kill yourself, right?"
-    mc "You're not gonna kill yourself, right?"
+    mc "你不会选择自我了结吧？"
 
 # game/code/d16/d16s04.rpy:197
 translate chinese d16s04_3232c1bf:
 
     # kb "I'm fucking around man, I'm not gonna kill myself. Christ."
-    kb "I'm fucking around man, I'm not gonna kill myself. Christ."
+    kb "我在开玩笑，才不会想不开呢。拜托。"
 
 # game/code/d16/d16s04.rpy:199
 translate chinese d16s04_e75ae87c:
 
     # kb "I'm not ready to go on a grippy sock vacation just yet."
-    kb "I'm not ready to go on a grippy sock vacation just yet."
+    kb "我还没准备好去精神病院消磨时光。"
 
 # game/code/d16/d16s04.rpy:202
 translate chinese d16s04_0f8a42f8:
 
     # kb "Not to mention poor Chloe would be pretty bummed, and I can't do that to her."
-    kb "Not to mention poor Chloe would be pretty bummed, and I can't do that to her."
+    kb "更不用说可怜的克洛伊会很沮丧，我不能这样对她。"
 
 # game/code/d16/d16s04.rpy:204
 translate chinese d16s04_ae2cd861:
 
     # mc "How's it been with her anyway?"
-    mc "How's it been with her anyway?"
+    mc "你和她最近怎么样？"
 
 # game/code/d16/d16s04.rpy:208
 translate chinese d16s04_97a27c91:
 
     # mc "Last we met, I uh..."
-    mc "Last we met, I uh..."
+    mc "我们上次见面时，我..."
 
 # game/code/d16/d16s04.rpy:211
 translate chinese d16s04_d0d3fcff:
 
     # kb "Came in her ass which I then ate?"
-    kb "Came in her ass which I then ate?"
+    kb "你操了她，然后被我吃了？"
 
 # game/code/d16/d16s04.rpy:213
 translate chinese d16s04_36037676:
 
     # mc "...Right."
-    mc "...Right."
+    mc "...对。"
 
 # game/code/d16/d16s04.rpy:214
 translate chinese d16s04_3449f278:
 
     # mc "That was..."
-    mc "That was..."
+    mc "真是..."
 
 # game/code/d16/d16s04.rpy:217
 translate chinese d16s04_14738c89:
 
     # kb "Interesting? Fucked up? Awoke something in you?"
-    kb "Interesting? Fucked up? Awoke something in you?"
+    kb "有意思？还是太操蛋？唤醒了你心中什么东西？"
 
 # game/code/d16/d16s04.rpy:219
 translate chinese d16s04_7c42d2f9:
 
     # mc "All of the above I guess, sans a new awakening. But who the fuck knows anymore."
-    mc "All of the above I guess, sans a new awakening. But who the fuck knows anymore."
+    mc "我觉得都有，除了没觉醒什么。但谁他妈知道呢。"
 
 # game/code/d16/d16s04.rpy:221
 translate chinese d16s04_066ba4be:
 
     # kb "What do you mean?"
-    kb "What do you mean?"
+    kb "什么意思？"
 
 # game/code/d16/d16s04.rpy:222
 translate chinese d16s04_cc125d32:
 
     # mc "This FL stuff has me doing stuff I never imagined."
-    mc "This FL stuff has me doing stuff I never imagined."
+    mc "性趣探测器这个软件让我尝试了之前从未想过的事。"
 
 # game/code/d16/d16s04.rpy:224
 translate chinese d16s04_e990ba22:
 
     # kb "Good stuff or bad stuff?"
-    kb "Good stuff or bad stuff?"
+    kb "好事还是坏事？"
 
 # game/code/d16/d16s04.rpy:225
 translate chinese d16s04_bf42f129:
 
     # mc "Only time will tell."
-    mc "Only time will tell."
+    mc "只有时间才能证明喽。"
 
 # game/code/d16/d16s04.rpy:228
 translate chinese d16s04_7815532d:
 
     # kb "Dramatic fuck."
-    kb "Dramatic fuck."
+    kb "靠，太戏剧性了。"
 
 # game/code/d16/d16s04.rpy:231
 translate chinese d16s04_234ed0af:
 
     # mc "You felched my cum outta your sister's ass!"
-    mc "You felched my cum outta your sister's ass!"
+    mc "你把我的精液从你妹妹的屁股里吸出来了！"
 
 # game/code/d16/d16s04.rpy:233
 translate chinese d16s04_f03c27e1:
 
     # mc "You felched my cum outta your girlfriend's ass!"
-    mc "You felched my cum outta your girlfriend's ass!"
+    mc "你把我的精液从你女朋友的屁股里吸出来了！"
 
 # game/code/d16/d16s04.rpy:234
 translate chinese d16s04_936d7eeb:
 
     # mc "You can't talk."
-    mc "You can't talk."
+    mc "你还说我！"
 
 # game/code/d16/d16s04.rpy:237
 translate chinese d16s04_139ef9c1:
 
     # kb "Hedonism, baby. Life's fucked and we're all gonna die."
-    kb "Hedonism, baby. Life's fucked and we're all gonna die."
+    kb "享乐主义多美呀，宝贝。生活一团糟，我们迟早都会死。"
 
 # game/code/d16/d16s04.rpy:238
 translate chinese d16s04_9afc4bf6:
 
     # kb "Gotta live it to the fullest while you're here."
-    kb "Gotta live it to the fullest while you're here."
+    kb "趁还在的时候，一定要活得最充实。"
 
 # game/code/d16/d16s04.rpy:240
 translate chinese d16s04_0e475984:
 
     # kb "And waste not, want not, my friend. Gotta recycle where you can and not let anything go to waste."
-    kb "And waste not, want not, my friend. Gotta recycle where you can and not let anything go to waste."
+    kb "既不浪费，也不贪婪，我的朋友。要尽可能地回收利用，不浪费任何东西。"
 
 # game/code/d16/d16s04.rpy:242
 translate chinese d16s04_4d10bee1:
 
     # mc "There {i}has{/i} to be better ways to live life. And there {i}{b}has{/b}{/i} to be better things to fucking recycle."
-    mc "There {i}has{/i} to be better ways to live life. And there {i}{b}has{/b}{/i} to be better things to fucking recycle."
+    mc "{i}肯定{/i}有更好的生活方式。他妈{i}{b}肯定{/b}{/i}也有更好的东西可以回收。"
 
 # game/code/d16/d16s04.rpy:245
 translate chinese d16s04_0d371527:
 
     # kb "Try it before you razz me."
-    kb "Try it before you razz me."
+    kb "在骂我之前你还是先试试吧。"
 
 # game/code/d16/d16s04.rpy:247
 translate chinese d16s04_e8c5af83:
 
     # mc "Eh, I think I'm good."
-    mc "Eh, I think I'm good."
+    mc "呃，不用了。"
 
 # game/code/d16/d16s04.rpy:250
 translate chinese d16s04_fc6ccd1f:
 
     # kb "A day's gon' come where you have to suck a creampie—maybe even your own, I ain't judging—from the ass and/or pussy of a person you love, and I want you to remember your old pal Kevo when it happens."
-    kb "A day's gon' come where you have to suck a creampie—maybe even your own, I ain't judging—from the ass and/or pussy of a person you love, and I want you to remember your old pal Kevo when it happens."
+    kb "总有一天，你得从你爱的人屁股和/或小穴里吮吸淫液--甚至是你自己的，我不作评价--到那个时候，希望你能记住你的老朋友小凯。"
 
 # game/code/d16/d16s04.rpy:252
 translate chinese d16s04_7c3a755d:
 
     # mc "*Chuckles* Right, I'll keep you in mind."
-    mc "*Chuckles* Right, I'll keep you in mind."
+    mc "*咯咯笑* 好，我会记住你的。"
 
 # game/code/d16/d16s04.rpy:254
 translate chinese d16s04_d6d6c7d8:
 
     # kb "And, I forgot to mention. I got a Gold Star for that. So who's the creampie sucker now?"
-    kb "And, I forgot to mention. I got a Gold Star for that. So who's the creampie sucker now?"
+    kb "还有，我忘了说。我因此得到了一颗金星。所以现在谁是吸精能者？"
 
 # game/code/d16/d16s04.rpy:258
 translate chinese d16s04_618fb559:
 
     # kb "Pretty good. Great even. God, I love that woman."
-    kb "Pretty good. Great even. God, I love that woman."
+    kb "真不错。太棒了。天啊，我爱死那个女人了。"
 
 # game/code/d16/d16s04.rpy:260
 translate chinese d16s04_13b86c32:
 
     # mc "Good for you, man. You deserve someone good."
-    mc "Good for you, man. You deserve someone good."
+    mc "干得好，伙计。你值得一个好女生。"
 
 # game/code/d16/d16s04.rpy:263
 translate chinese d16s04_87ac3346:
 
     # kb "Thanks."
-    kb "Thanks."
+    kb "谢了。"
 
 # game/code/d16/d16s04.rpy:264
 translate chinese d16s04_981ad90a:
 
     # kb "It's always equal parts hilarious and nauseating whenever I suggest doing something to her."
-    kb "It's always equal parts hilarious and nauseating whenever I suggest doing something to her."
+    kb "每当我建议对她做点什么时，我总是觉得既好笑又恶心。"
 
 # game/code/d16/d16s04.rpy:266
 translate chinese d16s04_72d80bea:
