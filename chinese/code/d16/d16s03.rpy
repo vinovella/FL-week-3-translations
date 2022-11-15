@@ -238,7 +238,7 @@ translate chinese d16s03_860c298e:
 translate chinese d16s03_68ce535d:
 
     # lc "You're the ultimate turn on. {w}You being caged just ... safe? comfortable? Do you know what I mean?"
-    lc "你总是能让我性奋。{你被关在笼子里...安全？或者说自在？你明白我的意思吗？"
+    lc "你总是能让我性奋。{w}你被关在笼子里...安全？或者说自在？你明白我的意思吗？"
 
 # game/code/d16/d16s03.rpy:148
 translate chinese d16s03_99d0253c:
@@ -760,7 +760,7 @@ translate chinese d16s03_e096cc48:
 translate chinese d16s03_da1aa4fd:
 
     # arj "I understand. Thank you for letting me watch this. {w}It was very informative."
-    arj 我明白。谢谢你让我看这个。{w}对我很有意义。"
+    arj "我明白。谢谢你让我看这个。{w}对我很有意义。"
 
 # game/code/d16/d16s03.rpy:446
 translate chinese d16s03_22a0abcf:
@@ -1282,13 +1282,13 @@ translate chinese d16s03_708c6770:
 translate chinese d16s03_e0621bd5:
 
     # lc "There's this scene where that blue guy... there's several of him. Almost all of them are focused on making love to his wife... girlfriend... whatever she was."
-    lc "有这样一个场景，那个蓝衣人...有好几个蓝衣人。几乎所有人都想和他妻子..."女朋友...不管她是什么，都想和她做爱。"
+    lc "有这样一个场景，那个蓝衣人...有好几个蓝衣人。几乎所有人都想和他妻子...女朋友...不管她是什么，都想和她做爱。"
 
 # game/code/d16/d16s03.rpy:710
 translate chinese d16s03_70c2cfff:
 
     # mc "Yeah. Doctor Manhattan and Laurie Jupiter."
-    mc 是的。曼哈顿博士和劳里·朱庇特。"
+    mc "是的。曼哈顿博士和劳里·朱庇特。"
 
 # game/code/d16/d16s03.rpy:713
 translate chinese d16s03_107b6098:
@@ -2001,4 +2001,3 @@ translate chinese strings:
     # game/code/d16/d16s03.rpy:1026
     old "Tell Lydia That You Enjoyed It As Well"
     new "告诉莉迪亚，你也很享受"
-
