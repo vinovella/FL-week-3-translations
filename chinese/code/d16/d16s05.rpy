@@ -22,7 +22,7 @@ translate chinese d16s05_95fb65d7:
 translate chinese d16s05_c1f733bb:
 
     # sy "Not to mention, if you really cared about privacy, you'd have knocked."
-    sy "更不用说，如果你真的注重隐私，应该敲门的。"
+    sy "再说了，如果你真的注重隐私，应该敲门的。"
 
 # game/code/d16/d16s05.rpy:32
 translate chinese d16s05_10d8c479:
@@ -58,7 +58,7 @@ translate chinese d16s05_26ed2594:
 translate chinese d16s05_74991b70:
 
     # mc "What are you dressing up for anyway?"
-    mc "你打扮成这样到底是为了什么？"
+    mc "你到底是为什么打扮成这样？"
 
 # game/code/d16/d16s05.rpy:63
 translate chinese d16s05_70db20f4:
@@ -136,13 +136,13 @@ translate chinese d16s05_12945c16:
 translate chinese d16s05_88ccb475:
 
     # sy "I'm gonna need to find a job sooner or later."
-    sy "我迟早要找一份工作。"
+    sy "我迟早要找工作的。"
 
 # game/code/d16/d16s05.rpy:91
 translate chinese d16s05_d52a4038:
 
     # sy "Can't live that hot-girl life while broke."
-    sy "不能在没钱的时候过那种辣妹子的生活。"
+    sy "没钱的时候可没法过那种辣妹子的生活。"
 
 # game/code/d16/d16s05.rpy:93
 translate chinese d16s05_c537ddd1:
@@ -166,13 +166,13 @@ translate chinese d16s05_215e1dcd:
 translate chinese d16s05_e02ad694:
 
     # sy "Fuck yeah, that's what I'm talking about."
-    sy "好耶，这就是我要的感觉。."
+    sy "好耶，这就是我要的感觉。"
 
 # game/code/d16/d16s05.rpy:104
 translate chinese d16s05_aaa5766b:
 
     # sy "Ugh, I gotta piss. Knew I shouldn't have drunk that second cup of coffee."
-    sy "唉，我得去尿尿。就知道我不该喝第二杯咖啡。"
+    sy "唉，我得去尿尿。就知道不该喝第二杯咖啡的。"
 
 # game/code/d16/d16s05.rpy:107
 translate chinese d16s05_853b737f:
@@ -196,7 +196,7 @@ translate chinese d16s05_69fed768:
 translate chinese d16s05_c36c5785:
 
     # sy "Not sure, they weren't specific."
-    sy "不确定，他们没有具体说明。"
+    sy "不确定，他们没具体说明。"
 
 # game/code/d16/d16s05.rpy:119
 translate chinese d16s05_d78f366c:
@@ -226,13 +226,13 @@ translate chinese d16s05_54051cea:
 translate chinese d16s05_347ea5e9:
 
     # mc "Do you even know how much they're paying?"
-    mc "你知道他们给多少钱吗？"
+    mc "你知道他们工资给开多少吗？"
 
 # game/code/d16/d16s05.rpy:131
 translate chinese d16s05_1558ad73:
 
     # sy "Nope. But I'm sure I can sweet talk myself into a couple hundred grand."
-    sy "不知道。但我相信我可以用甜言蜜语让自己得到几十万。"
+    sy "不知道。但我相信我可以靠甜言蜜语让自己赚的盆满钵满。"
 
 # game/code/d16/d16s05.rpy:133
 translate chinese d16s05_5e44a000:
@@ -256,7 +256,7 @@ translate chinese d16s05_e15e1041:
 translate chinese d16s05_b2805601:
 
     # sy "They literally had the audacity to just go \"{i}Somehow{/i} Palpatine returned.\" {b}Somehow!?{/b}, {i}{b}Somehow!?{/b}{/i}?"
-    sy "他们简直是胆大包天，直接说：{i}不知何故{/i}帕尔帕廷回来了。 {b}不知何故!?{/b}, {i}{b}不知何故!?{/b}{/i}??"
+    sy "他们简直是胆大包天，直接说：\"{i}不知何故{/i} 帕尔帕廷回来了。\" {b}不知何故!?{/b}, {i}{b}不知何故!?{/b}{/i}?"
 
 # game/code/d16/d16s05.rpy:148
 translate chinese d16s05_a5a58593:
@@ -322,7 +322,7 @@ translate chinese d16s05_993e9628:
 translate chinese d16s05_32c9ed06:
 
     # mc "Short version of it is that you get a special token if you do wild, fetishy shit which you can then use to skip/shorten certain challenges."
-    mc "简而言之，就是如果你挑战了疯狂的性癖，你会得到一个特殊代币，然后你可以用它来跳过或者缩短某些挑战。"
+    mc "简而言之，就是如果你挑战了疯狂的性癖，你会得到特殊代币，然后你可以用它来跳过或者缩短某些挑战。"
 
 # game/code/d16/d16s05.rpy:175
 translate chinese d16s05_c8325d75:
@@ -334,7 +334,7 @@ translate chinese d16s05_c8325d75:
 translate chinese d16s05_27b0f30f:
 
     # sy "Huh, well, that's great! You finally got your dick back."
-    sy "嗯，这就好了！你终于找回了你的小弟弟。"
+    sy "嗯，这就好了！你终于把那小家伙拯救出来了。"
 
 # game/code/d16/d16s05.rpy:179
 translate chinese d16s05_44d41454:
@@ -346,7 +346,7 @@ translate chinese d16s05_44d41454:
 translate chinese d16s05_00a31899:
 
     # mc "Same ol', same ol'."
-    mc "我还是希望能摆脱她。"
+    mc "我还是希望能摆脱掉这玩意。"
 
 # game/code/d16/d16s05.rpy:186
 translate chinese d16s05_14e8906d:
@@ -376,7 +376,7 @@ translate chinese d16s05_74abaaf7:
 translate chinese d16s05_f705863b:
 
     # mc "It's just..."
-    mc "只是..."
+    mc "就是..."
 
 # game/code/d16/d16s05.rpy:198
 translate chinese d16s05_cb15f7a6:
@@ -466,7 +466,7 @@ translate chinese d16s05_872f21af:
 translate chinese d16s05_8ab5ae4f:
 
     # sy "Don't like it though. But I get it."
-    sy "虽然我不喜欢。但我明白。"
+    sy "虽然我不喜欢这话。但我明白的。"
 
 # game/code/d16/d16s05.rpy:237
 translate chinese d16s05_022c5afa:
@@ -520,7 +520,7 @@ translate chinese d16s05_408c2c0a:
 translate chinese d16s05_91b3f912:
 
     # mc "Oh calm down, you drama queen. It's literally only been like 15 minutes."
-    mc "冷静点，你这个戏剧女王。实际上只过了15分钟。"
+    mc "冷静点，你这个戏精。实际上只过了15分钟。"
 
 # game/code/d16/d16s05.rpy:284
 translate chinese d16s05_048bc1c1:
@@ -550,7 +550,7 @@ translate chinese d16s05_b18aa2bc:
 translate chinese d16s05_cad3d574:
 
     # mc "Only if you make it one. Now drink up."
-    mc "如果你真的把它变成影射的话。现在喝吧。"
+    mc "如果你真的理解成影射的话，那就是讽刺。现在喝吧。"
 
 # game/code/d16/d16s05.rpy:309
 translate chinese d16s05_c281cb0e:
@@ -598,7 +598,7 @@ translate chinese d16s05_2a31549c:
 translate chinese d16s05_1bbb82ce:
 
     # sy "So I wanted something that was related to tech, but far away from that whole bubble."
-    sy "所以我想做与科技有关的事，但要远离这整个泡沫。"
+    sy "所以我想做与科技有关的事，但又想远离这整个泡沫。"
 
 # game/code/d16/d16s05.rpy:329
 translate chinese d16s05_b086d03e:
@@ -622,7 +622,7 @@ translate chinese d16s05_6d530aab:
 translate chinese d16s05_4271e38e:
 
     # mc "So this is just a stepping stone then?"
-    mc "那么这只是一块垫脚石？"
+    mc "也就是说，这工作只是块垫脚石？"
 
 # game/code/d16/d16s05.rpy:342
 translate chinese d16s05_e7d4bd91:
@@ -664,7 +664,7 @@ translate chinese d16s05_2fc07473:
 translate chinese d16s05_bdb7e1b3:
 
     # sy "Literally like...only three people in the whole world know about us. Two of them being us.{w} I'm sure it'll be fine."
-    sy "你真正想想，整个世界上只有三个人知道我们的事。其中两个是我们。{w} 我相信会没事的。"
+    sy "你好好想想，整个世界上只有三个人知道我们的事。其中两个还是我俩。{w} 我相信会没事的。"
 
 # game/code/d16/d16s05.rpy:376
 translate chinese d16s05_953e3e62:
@@ -688,7 +688,7 @@ translate chinese d16s05_d6853969:
 translate chinese d16s05_2817129d:
 
     # sy "You two went on that date, right? The one I crashed."
-    sy "你们俩去约会了，对吗？我还阻挠的那次。"
+    sy "你们俩去约会了，对吗？我还坏事的那次。"
 
 # game/code/d16/d16s05.rpy:388
 translate chinese d16s05_d9225ff6:
@@ -706,7 +706,7 @@ translate chinese d16s05_1dc0a15b:
 translate chinese d16s05_211e3808:
 
     # sy "...That's like the driest answer ever."
-    sy "...这是有史以来最枯燥的回答。"
+    sy "...真是有史以来最枯燥的回答。"
 
 # game/code/d16/d16s05.rpy:397
 translate chinese d16s05_81b02185:
@@ -718,13 +718,13 @@ translate chinese d16s05_81b02185:
 translate chinese d16s05_b77fbf83:
 
     # sy "I wanna know the spicy deets!"
-    sy "我想知道火辣的细节！"
+    sy "我想知道带感的细节！"
 
 # game/code/d16/d16s05.rpy:403
 translate chinese d16s05_7a743563:
 
     # mc "Uh-uh, nope."
-    mc "呃，不要。."
+    mc "呃，不要。"
 
 # game/code/d16/d16s05.rpy:406
 translate chinese d16s05_41d06e53:
@@ -754,7 +754,7 @@ translate chinese d16s05_ab33ffd2:
 translate chinese d16s05_bc396837:
 
     # mct "*Chuckles* Dom, huh?"
-    mct "*轻笑*  家里的氛围?"
+    mct "*轻笑* 家里的氛围?"
 
 # game/code/d16/d16s05.rpy:418
 translate chinese d16s05_da626596:
@@ -898,7 +898,7 @@ translate chinese d16s05_407cebc9:
 translate chinese d16s05_069d84bc:
 
     # sy "Oh, and a fucking polygraph test on top of all that!? For a fucking data entry position!?"
-    sy "哦，还有他妈的测谎仪！？为了一个该死的数据录入职位!?"
+    sy "哦，还有他妈的测谎仪!? 就为了个该死的数据录入职位!?"
 
 # game/code/d16/d16s05.rpy:509
 translate chinese d16s05_a3182c70:
@@ -916,7 +916,7 @@ translate chinese d16s05_66a5117a:
 translate chinese d16s05_d0356af7:
 
     # sy "I swear to God, it was the dumbest shit ever."
-    sy "我向上天发誓，这是最蠢的狗屁工作。"
+    sy "我敢向天发誓，这是最蠢的狗屁工作。"
 
 # game/code/d16/d16s05.rpy:518
 translate chinese d16s05_a75d6526:
@@ -928,7 +928,7 @@ translate chinese d16s05_a75d6526:
 translate chinese d16s05_0da34214:
 
     # sy "Well... I dunno. It's a stable job and I can start whenever."
-    sy "嗯... 我不知道。这份工作很稳定，我随时都可以开始。"
+    sy "嗯... 我不知道。这份工作很稳定，我随时都可以开工。"
 
 # game/code/d16/d16s05.rpy:522
 translate chinese d16s05_4967428d:
@@ -958,7 +958,7 @@ translate chinese d16s05_800d7353:
 translate chinese d16s05_12c0c1df:
 
     # mc "Welp, you gotta start somewhere."
-    mc "好吧，你得从某个地方开始。"
+    mc "好吧，不管怎样你得先起步。"
 
 # game/code/d16/d16s05.rpy:531
 translate chinese d16s05_12cb10ae:
@@ -982,7 +982,7 @@ translate chinese d16s05_ec4db3fe:
 translate chinese d16s05_1bdd6e0d:
 
     # mc "Wanna go get ice cream before we go home?"
-    mc "我们回家之前想去吃冰淇淋吗？"
+    mc "我们回家之前要不要去吃冰淇淋？"
 
 # game/code/d16/d16s05.rpy:543
 translate chinese d16s05_b4bbb763:
@@ -1024,7 +1024,7 @@ translate chinese d16s05_bc02264d:
 translate chinese d16s05_4f1f996c:
 
     # mct "Sure im with someone right now."
-    mct "当然，我现在和别人在一起。"
+    mct "好啊，我现在和别人在一起。"
 
 # game/code/d16/d16s05.rpy:565
 translate chinese d16s05_8da67c47:
@@ -1078,7 +1078,7 @@ translate chinese d16s05_e0a106af:
 translate chinese d16s05_3fa818ba:
 
     # mc "Cookie dough? You're gonna get salmonella or something."
-    mc "曲奇面团？你会得沙门氏菌之类的东西。"
+    mc "曲奇面团？你会得沙门氏菌那种东西的。"
 
 # game/code/d16/d16s05.rpy:592
 translate chinese d16s05_f7e4f4e5:
