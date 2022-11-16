@@ -766,333 +766,333 @@ translate chinese d16s05_da626596:
 translate chinese d16s05_6abc3f50:
 
     # mc "Any spicy deets that may or may not exist will solely be known between her and me, and that's it."
-    mc "Any spicy deets that may or may not exist will solely be known between her and me, and that's it."
+    mc "任何可能存在或不存在的火辣细节都只有她和我知道，仅此而已。"
 
 # game/code/d16/d16s05.rpy:422
 translate chinese d16s05_0057bd7c:
 
     # sy "Aw. That's no—"
-    sy "Aw. That's no—"
+    sy "啊。不--"
 
 # game/code/d16/d16s05.rpy:427
 translate chinese d16s05_f76aedcb:
 
     # "Woman" "Stacy Young? Do we have a Stacy Young in here?"
-    "Woman" "Stacy Young? Do we have a Stacy Young in here?"
+    "女人" " 史黛西·杨？我们这里有叫史黛西·杨的人吗？"
 
 # game/code/d16/d16s05.rpy:429
 translate chinese d16s05_7e30f1b5:
 
     # "Woman" "Stacy Brawn? Do we have a Stacy Brawn in here?"
-    "Woman" "Stacy Brawn? Do we have a Stacy Brawn in here?"
+    "女人" "史黛西·布朗？我们这里有叫史黛西·布朗的吗？"
 
 # game/code/d16/d16s05.rpy:432
 translate chinese d16s05_b8161c52:
 
     # sy "Oh shit. Uh, yes! That's me."
-    sy "Oh shit. Uh, yes! That's me."
+    sy "靠。在！就是我。"
 
 # game/code/d16/d16s05.rpy:435
 translate chinese d16s05_9aaae8ae:
 
     # "Woman" "Great, come this way please."
-    "Woman" "Great, come this way please."
+    "女人" "很好，请走这边。"
 
 # game/code/d16/d16s05.rpy:438
 translate chinese d16s05_567faf98:
 
     # sy "Of course."
-    sy "Of course."
+    sy "好的。"
 
 # game/code/d16/d16s05.rpy:441
 translate chinese d16s05_4f9e374a:
 
     # sy "Oh my God, okay. I got this. Wish me luck."
-    sy "Oh my God, okay. I got this. Wish me luck."
+    sy "天哪天哪。我可以的。祝我好运。"
 
 # game/code/d16/d16s05.rpy:443
 translate chinese d16s05_ee40ef6b:
 
     # mc "Hey, I'm proud of you. You got this."
-    mc "Hey, I'm proud of you. You got this."
+    mc "嘿，我为你感到骄傲。你可以的。"
 
 # game/code/d16/d16s05.rpy:446
 translate chinese d16s05_18f45a12:
 
     # sy "Uhm, thank you."
-    sy "Uhm, thank you."
+    sy "嗯，谢啦。"
 
 # game/code/d16/d16s05.rpy:448
 translate chinese d16s05_88bde6bc:
 
     # "Woman" "*Coughs*"
-    "Woman" "*Coughs*"
+    "女人" "*咳嗽*"
 
 # game/code/d16/d16s05.rpy:450
 translate chinese d16s05_53fdf96d:
 
     # sy "Uh, okay, love you, byeee."
-    sy "Uh, okay, love you, byeee."
+    sy "好吧，爱你，走了啊。"
 
 # game/code/d16/d16s05.rpy:470
 translate chinese d16s05_0de19143:
 
     # mc "Hey. How'd it go?"
-    mc "Hey. How'd it go?"
+    mc "嘿，进展如何？"
 
 # game/code/d16/d16s05.rpy:473
 translate chinese d16s05_888ebf2e:
 
     # sy "Let's go."
-    sy "Let's go."
+    sy "我们走吧。"
 
 # game/code/d16/d16s05.rpy:474
 translate chinese d16s05_a3958bf9:
 
     # mct "Not well then..."
-    mct "Not well then..."
+    mct "看来是不太好了..."
 
 # game/code/d16/d16s05.rpy:481
 translate chinese d16s05_7bdf47c4:
 
     # sy "Like, seriously, who the fuck does drug tests these days!?"
-    sy "Like, seriously, who the fuck does drug tests these days!?"
+    sy "说真的，这年头谁还做药检啊!?"
 
 # game/code/d16/d16s05.rpy:482
 translate chinese d16s05_6ea7d144:
 
     # sy "Life is shit and we're all zooted out of our minds to cope anyway."
-    sy "Life is shit and we're all zooted out of our minds to cope anyway."
+    sy "生活就是一坨屎，反正我们都被搞得晕头转向，无法应对。"
 
 # game/code/d16/d16s05.rpy:483
 translate chinese d16s05_2905d6b4:
 
     # sy "They can go fuck themselves with that drug test shit."
-    sy "They can go fuck themselves with that drug test shit."
+    sy "他们可以用那该死的药物测试去测测自己。"
 
 # game/code/d16/d16s05.rpy:486
 translate chinese d16s05_304c149c:
 
     # mc "Yeah, it's kinda annoying."
-    mc "Yeah, it's kinda annoying."
+    mc "对，确实挺讨厌。"
 
 # game/code/d16/d16s05.rpy:491
 translate chinese d16s05_c3f9317d:
 
     # mc "Did you get any pictures though?"
-    mc "Did you get any pictures though?"
+    mc "你拍到了什么吗？"
 
 # game/code/d16/d16s05.rpy:494
 translate chinese d16s05_80238046:
 
     # sy "Oh, yeah actually."
-    sy "Oh, yeah actually."
+    sy "哦，还真拍到了。"
 
 # game/code/d16/d16s05.rpy:496
 translate chinese d16s05_407cebc9:
 
     # sy "Had to bend myself in 17 different angles to piss in the cup without pissing on myself in public."
-    sy "Had to bend myself in 17 different angles to piss in the cup without pissing on myself in public."
+    sy "为了不在公共场合尿到自己身上，我不得不把自己弯成17个不同的角度来往杯子里撒尿。"
 
 # game/code/d16/d16s05.rpy:508
 translate chinese d16s05_069d84bc:
 
     # sy "Oh, and a fucking polygraph test on top of all that!? For a fucking data entry position!?"
-    sy "Oh, and a fucking polygraph test on top of all that!? For a fucking data entry position!?"
+    sy "哦，还有他妈的测谎仪！？为了一个该死的数据录入职位!?"
 
 # game/code/d16/d16s05.rpy:509
 translate chinese d16s05_a3182c70:
 
     # sy "What do they think I'm going to do? Wikileaks 2: Electric Boogaloo?"
-    sy "What do they think I'm going to do? Wikileaks 2: Electric Boogaloo?"
+    sy "他们以为我要做什么？维基解密2？"
 
 # game/code/d16/d16s05.rpy:512
 translate chinese d16s05_66a5117a:
 
     # mc "*Chuckles*"
-    mc "*Chuckles*"
+    mc "*咯咯咯*"
 
 # game/code/d16/d16s05.rpy:515
 translate chinese d16s05_d0356af7:
 
     # sy "I swear to God, it was the dumbest shit ever."
-    sy "I swear to God, it was the dumbest shit ever."
+    sy "我向上天发誓，这是最蠢的狗屁工作。"
 
 # game/code/d16/d16s05.rpy:518
 translate chinese d16s05_a75d6526:
 
     # mc "I'm guessing you're gonna pass on the job then?"
-    mc "I'm guessing you're gonna pass on the job then?"
+    mc "我猜你会放弃这份工作？"
 
 # game/code/d16/d16s05.rpy:521
 translate chinese d16s05_0da34214:
 
     # sy "Well... I dunno. It's a stable job and I can start whenever."
-    sy "Well... I dunno. It's a stable job and I can start whenever."
+    sy "嗯... 我不知道。这份工作很稳定，我随时都可以开始。"
 
 # game/code/d16/d16s05.rpy:522
 translate chinese d16s05_4967428d:
 
     # sy "The pay is...alright I guess. Liveable."
-    sy "The pay is...alright I guess. Liveable."
+    sy "工资...我想还行。可以维持生计。"
 
 # game/code/d16/d16s05.rpy:523
 translate chinese d16s05_a6c59dd0:
 
     # sy "I dunno. I'll have to sleep on it."
-    sy "I dunno. I'll have to sleep on it."
+    sy "不知道。我得好好考虑一下。"
 
 # game/code/d16/d16s05.rpy:526
 translate chinese d16s05_b6ac60e5:
 
     # sy "Ugh, I can't wait until I have my own thing."
-    sy "Ugh, I can't wait until I have my own thing."
+    sy "唉，我等不及要拥有自己的事业了。"
 
 # game/code/d16/d16s05.rpy:527
 translate chinese d16s05_800d7353:
 
     # sy "I can do whatever, whenever, and no one can tell me shit."
-    sy "I can do whatever, whenever, and no one can tell me shit."
+    sy "我可以在任何时间做任何事，没有人可以对我指手画脚。"
 
 # game/code/d16/d16s05.rpy:530
 translate chinese d16s05_12c0c1df:
 
     # mc "Welp, you gotta start somewhere."
-    mc "Welp, you gotta start somewhere."
+    mc "好吧，你得从某个地方开始。"
 
 # game/code/d16/d16s05.rpy:531
 translate chinese d16s05_12cb10ae:
 
     # mc "I'm sure you'll be running the department by the end of the month."
-    mc "I'm sure you'll be running the department by the end of the month."
+    mc "我敢说你在月底就能管理这个部门了。"
 
 # game/code/d16/d16s05.rpy:534
 translate chinese d16s05_3b7b82e8:
 
     # sy "Ugh, they don't tell you how exhausting interviews are."
-    sy "Ugh, they don't tell you how exhausting interviews are."
+    sy "唉，他们没告诉你面试有多累。"
 
 # game/code/d16/d16s05.rpy:537
 translate chinese d16s05_ec4db3fe:
 
     # mc "Yep. They're super draining."
-    mc "Yep. They're super draining."
+    mc "是的，面试都超级耗费精力。"
 
 # game/code/d16/d16s05.rpy:540
 translate chinese d16s05_1bdd6e0d:
 
     # mc "Wanna go get ice cream before we go home?"
-    mc "Wanna go get ice cream before we go home?"
+    mc "我们回家之前想去吃冰淇淋吗？"
 
 # game/code/d16/d16s05.rpy:543
 translate chinese d16s05_b4bbb763:
 
     # sy "Yes!"
-    sy "Yes!"
+    sy "好啊！"
 
 # game/code/d16/d16s05.rpy:549
 translate chinese d16s05_9a3c5809:
 
     # mct "Allison?"
-    mct "Allison?"
+    mct "艾莉森？"
 
 # game/code/d16/d16s05.rpy:550
 translate chinese d16s05_757942ea:
 
     # aw "Hey, are you busy?"
-    aw "Hey, are you busy?"
+    aw "嘿，你在忙吗？"
 
 # game/code/d16/d16s05.rpy:553
 translate chinese d16s05_71f12e7a:
 
     # mct "Depends what's up?"
-    mct "Depends what's up?"
+    mct "那要看是什么事了？"
 
 # game/code/d16/d16s05.rpy:555
 translate chinese d16s05_e28ed308:
 
     # aw "Can you come over for a bit?"
-    aw "Can you come over for a bit?"
+    aw "你能过来一下吗？"
 
 # game/code/d16/d16s05.rpy:558
 translate chinese d16s05_bc02264d:
 
     # mct "Hm, this might be my chance to talk to Allison about what went down at the party."
-    mct "Hm, this might be my chance to talk to Allison about what went down at the party."
+    mct "嗯，这可能是个机会，我可以和艾莉森谈谈聚会上发生的事。"
 
 # game/code/d16/d16s05.rpy:562
 translate chinese d16s05_4f1f996c:
 
     # mct "Sure im with someone right now."
-    mct "Sure im with someone right now."
+    mct "当然，我现在和别人在一起。"
 
 # game/code/d16/d16s05.rpy:565
 translate chinese d16s05_8da67c47:
 
     # mct "I can be over in a bit tho."
-    mct "I can be over in a bit tho."
+    mct "我一会儿就能过去。"
 
 # game/code/d16/d16s05.rpy:567
 translate chinese d16s05_e242fd49:
 
     # aw "Great! Thank you."
-    aw "Great! Thank you."
+    aw "太好了! 谢谢你。"
 
 # game/code/d16/d16s05.rpy:574
 translate chinese d16s05_e43814e1:
 
     # mct "Sorry im with someone rn."
-    mct "Sorry im with someone rn."
+    mct "抱歉啦，我现在和别人在一起。"
 
 # game/code/d16/d16s05.rpy:577
 translate chinese d16s05_91c04852:
 
     # aw "Oh, it's alright then."
-    aw "Oh, it's alright then."
+    aw "哦，那就没事了。"
 
 # game/code/d16/d16s05.rpy:579
 translate chinese d16s05_fa09a3e5:
 
     # aw "See you later."
-    aw "See you later."
+    aw "回头见。"
 
 # game/code/d16/d16s05.rpy:583
 translate chinese d16s05_dd34295a:
 
     # sy "Everything alright?"
-    sy "Everything alright?"
+    sy "一切都好吗？"
 
 # game/code/d16/d16s05.rpy:585
 translate chinese d16s05_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "嗯哼。"
 
 # game/code/d16/d16s05.rpy:587
 translate chinese d16s05_e0a106af:
 
     # sy "Nice. You know, I really wanna try that cookie dough ice cream."
-    sy "Nice. You know, I really wanna try that cookie dough ice cream."
+    sy "那就好。你知道吗，我真想尝尝那个曲奇面团冰淇淋。"
 
 # game/code/d16/d16s05.rpy:590
 translate chinese d16s05_3fa818ba:
 
     # mc "Cookie dough? You're gonna get salmonella or something."
-    mc "Cookie dough? You're gonna get salmonella or something."
+    mc "曲奇面团？你会得沙门氏菌之类的东西。"
 
 # game/code/d16/d16s05.rpy:592
 translate chinese d16s05_f7e4f4e5:
 
     # sy "Worth it."
-    sy "Worth it."
+    sy "那也值得一试。"
 
 translate chinese strings:
 
     # game/code/d16/d16s05.rpy:9
     old "After the class"
-    new "After the class"
+    new "下课后"
 
     # game/code/d16/d16s05.rpy:488
     old "Ask her if she got any pictures"
-    new "Ask her if she got any pictures"
+    new "问她有没有照片"
 
