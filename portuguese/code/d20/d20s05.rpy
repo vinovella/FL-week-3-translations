@@ -1346,3 +1346,11 @@ translate portuguese strings:
     old "Talk About Your Summer Plans"
     new "Talk About Your Summer Plans"
 
+# TODO: Translation updated at 2022-11-19 23:15
+
+# game/code/d20/d20s05.rpy:250
+translate portuguese d20s05_pool_5f2ca332:
+
+    # mc "Let's change things up a bit."
+    mc "Let's change things up a bit."
+

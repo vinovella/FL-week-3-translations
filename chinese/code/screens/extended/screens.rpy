@@ -38,3 +38,39 @@ translate chinese strings:
     old "Endings"
     new "Endings"
 
+# TODO: Translation updated at 2022-11-19 23:17
+
+translate chinese strings:
+
+    # game/code/screens/extended/screens.rpy:150
+    old "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
+    new "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
+
+    # game/code/screens/extended/screens.rpy:160
+    old "LOAD A SAVE FROM WEEK 2"
+    new "LOAD A SAVE FROM WEEK 2"
+
+    # game/code/screens/extended/screens.rpy:192
+    old "ABOUT"
+    new "ABOUT"
+
+    # game/code/screens/extended/screens.rpy:202
+    old "HELP"
+    new "HELP"
+
+    # game/code/screens/extended/screens.rpy:255
+    old "CG\nGALLERY"
+    new "CG\nGALLERY"
+
+    # game/code/screens/extended/screens.rpy:265
+    old "REPLAY ROOM"
+    new "REPLAY ROOM"
+
+    # game/code/screens/extended/screens.rpy:282
+    old "BONUS CONTENT"
+    new "BONUS CONTENT"
+
+    # game/code/screens/extended/screens.rpy:292
+    old "ENDINGS"
+    new "ENDINGS"
+

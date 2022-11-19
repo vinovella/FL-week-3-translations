@@ -246,3 +246,35 @@ translate portuguese strings:
     old "{u}Done{/u}"
     new "{u}Done{/u}"
 
+# TODO: Translation updated at 2022-11-19 23:15
+
+translate portuguese strings:
+
+    # game/code/screens/screens_fl.rpy:819
+    old "AmRose Romance or Slave route?"
+    new "AmRose Romance or Slave route?"
+
+    # game/code/screens/screens_fl.rpy:833
+    old "Did you kiss AmRose?"
+    new "Did you kiss AmRose?"
+
+    # game/code/screens/screens_fl.rpy:849
+    old "Do you want to dominate Lyssa?"
+    new "Do you want to dominate Lyssa?"
+
+    # game/code/screens/screens_fl.rpy:867
+    old "Did you say that you love Lydia?"
+    new "Did you say that you love Lydia?"
+
+    # game/code/screens/screens_fl.rpy:990
+    old "Did you agree to have kids with Stacy?"
+    new "Did you agree to have kids with Stacy?"
+
+    # game/code/screens/screens_fl.rpy:1024
+    old "Did you ask Vanessa to wear shoes with cum?"
+    new "Did you ask Vanessa to wear shoes with cum?"
+
+    # game/code/screens/screens_fl.rpy:1041
+    old "Did you give the password to Hana?"
+    new "Did you give the password to Hana?"
+
