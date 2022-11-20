@@ -112,7 +112,7 @@ translate chinese d16s09_52bbbabc:
 translate chinese d16s09_e515632a:
 
     # mc "What about Polly - your blind date?"
-    mc "波莉呢--她可是相亲对象？"
+    mc "波莉呢--她可是你的相亲对象？"
 
 # game/code/d16/d16s09.rpy:92
 translate chinese d16s09_385343d0:
