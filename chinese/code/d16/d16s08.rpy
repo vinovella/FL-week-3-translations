@@ -112,7 +112,7 @@ translate chinese d16s08_7a6e4853:
 translate chinese d16s08_a89d2d90:
 
     # mc "Apparently she's amazing at blow jobs, so I'll probably pursue her in that direction."
-    mc "显然，她在口交方面很厉害，所以我俩可能会朝那个方向发展。"
+    mc "显然，她的口活很厉害，所以我俩可能会朝那个方向发展。"
 
 # game/code/d16/d16s08.rpy:86
 translate chinese d16s08_08bd4667:
@@ -202,7 +202,7 @@ translate chinese d16s08_3fe466db:
 translate chinese d16s08_56b51bcb:
 
     # arj "I still can't believe you hooked up with both of them.{w}.. and especially can't believe you hooked up with both of them together."
-    arj "我还是不敢相信你和她们两个人都勾搭上了。{w}...尤其不敢相信你同时和两个人一起做了。"
+    arj "我还是不敢相信你和她们两个人都勾搭上了{w}...尤其不敢相信你同时和两个人一起做了。"
 
 # game/code/d16/d16s08.rpy:135
 translate chinese d16s08_af347610:
@@ -250,13 +250,13 @@ translate chinese d16s08_348af411:
 translate chinese d16s08_cf7d1e52:
 
     # arj "I guess that's her choice. {w}Talk to her about it."
-    arj "I、我觉得这应该由她来做选择。{w}跟她说说吧。"
+    arj "我觉得这应该由她来做选择。{w}跟她说说吧。"
 
 # game/code/d16/d16s08.rpy:159
 translate chinese d16s08_4eb2cdc7:
 
     # mc "Yeah. {w}If we do anything, it won't be just for the points. That would be...{w} wrong."
-    mc "嗯。 {w}不管我们做什么，都不会只是为了点数。那样...{w}不对。"
+    mc "嗯。{w}不管我们做什么，都不会只是为了点数。那样...{w}不对。"
 
 # game/code/d16/d16s08.rpy:160
 translate chinese d16s08_92664674:
@@ -634,7 +634,7 @@ translate chinese d16s08_1414bc97:
 translate chinese d16s08_36be32a5:
 
     # mc "Wasn't creampie a Saturday? That didn't seem so difficult."
-    mc "星期六的时候不是体内射精吗？好像没有那么难。"
+    mc "星期六的时候不是体内射精吗？好像没那么难。"
 
 # game/code/d16/d16s08.rpy:352
 translate chinese d16s08_67ca6189:
@@ -814,7 +814,7 @@ translate chinese d16s08_94507c05:
 translate chinese d16s08_497147a5:
 
     # arj "Never use the word, \"just\". If anything was \"just\" as easy as you think then it would be done already."
-    arj "永远不要用这个词，\"只是\"\。如果事情都\"只是\"像你想的那么容易，那它早就完成了。"
+    arj "永远不要用这个词，\"只是\"\。如果事情都\"只是\"像你想的那么容易，那早就不需要我们担心了。"
 
 # game/code/d16/d16s08.rpy:441
 translate chinese d16s08_0031a960:
