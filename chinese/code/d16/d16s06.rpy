@@ -118,7 +118,7 @@ translate chinese d16s06_cd59fcce:
 translate chinese d16s06_38785104:
 
     # aw "Get me to come back as her submissive little daughter?"
-    aw "让我回来做她顺从的小女儿？"
+    aw "让我回来做她乖巧听话的小女儿？"
 
 # game/code/d16/d16s06.rpy:153
 translate chinese d16s06_79b4f258:
@@ -250,7 +250,7 @@ translate chinese d16s06_ee03588b:
 translate chinese d16s06_b62de387:
 
     # aw "God... I sure wasn't expecting this when I called you over."
-    aw "天啊... 我叫你过来的时候，绝对没想到会这样。"
+    aw "天啊...我叫你过来的时候，绝对没想到会这样。"
 
 # game/code/d16/d16s06.rpy:212
 translate chinese d16s06_890a7222:
@@ -424,7 +424,7 @@ translate chinese d16s06_c0883fbc:
 translate chinese d16s06_a533c3b3:
 
     # mc "*Laughs* Thank you. I appreciate that. But no, it's alright."
-    mc "*笑* 谢谢你。我很感激。不过不用，没关系的。."
+    mc "*笑* 谢谢你。我很感激。不过不用，没关系的。"
 
 # game/code/d16/d16s06.rpy:303
 translate chinese d16s06_6ae75cd8:
