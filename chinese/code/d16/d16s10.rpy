@@ -304,7 +304,7 @@ translate chinese d16s10_bd5a73f5:
 translate chinese d16s10_ed5c164a:
 
     # arj "Go on."
-    arj "继续说。
+    arj "继续说。"
 
 # game/code/d16/d16s10.rpy:174
 translate chinese d16s10_b42f70ac:
@@ -1381,4 +1381,3 @@ translate chinese strings:
     # game/code/d16/d16s10.rpy:201
     old "Tell her how you came while she was under the table"
     new "告诉她你是怎么在她躲在桌下时高潮的"
-
