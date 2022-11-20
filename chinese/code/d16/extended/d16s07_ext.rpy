@@ -256,7 +256,7 @@ translate chinese d16s07_ext_2da3e5fd:
 translate chinese d16s07_ext_2a567508:
 
     # jf "Well, this costume actually isn't going to be sold. The client commissioned it but only wanted pics of me with it on, {i}plus{/i} pics of me...\"using\" it..."
-    jf "嗯，这套服装装实际上是不会卖的。客户确实委托我做了，但只想要我穿上它的照片，还有我...  使用  它的照片..."
+    jf "嗯，这套服装装实际上是不会卖的。客户确实委托我做了，但只想要我穿上它的照片，{i}还有{/i}我...\"使用\"它的照片..."
 
 # game/code/d16/extended/d16s07_ext.rpy:193
 translate chinese d16s07_ext_01f21684:
@@ -286,7 +286,7 @@ translate chinese d16s07_ext_42077b12:
 translate chinese d16s07_ext_f3f23115:
 
     # mc "Right, right."
-    mc "对，对。."
+    mc "对，对。"
 
 # game/code/d16/extended/d16s07_ext.rpy:209
 translate chinese d16s07_ext_7cdf18a2:
@@ -310,7 +310,7 @@ translate chinese d16s07_ext_66910a6c:
 translate chinese d16s07_ext_e60a81d1:
 
     # mc "And my own pickle is out of order until I get out of said pickle."
-    mc "我的家伙在我摆脱某些东西之前都不能工作了。"
+    mc "我的家伙在我摆脱某些东西之前都不能干活了。"
 
 # game/code/d16/extended/d16s07_ext.rpy:219
 translate chinese d16s07_ext_278ee114:
@@ -328,7 +328,7 @@ translate chinese d16s07_ext_a87a337b:
 translate chinese d16s07_ext_026d25ce:
 
     # jf "Oh, uhm, that's okay."
-    jf "哦，呃，那好吧。."
+    jf "哦，呃，那好吧。"
 
 # game/code/d16/extended/d16s07_ext.rpy:226
 translate chinese d16s07_ext_3d967461:
