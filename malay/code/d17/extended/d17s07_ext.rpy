@@ -493,10 +493,10 @@ translate malay d17s07_ext_2f9b64c6:
     mc "That's great! Wait, is it?"
 
 # game/code/d17/extended/d17s07_ext.rpy:444
-translate malay d17s07_ext_929a4c65:
+translate malay d17s07_ext_709ab2b7:
 
-    # jf "I was sure at first, but I thought about it some more and, yeah, I think it's great!"
-    jf "I was sure at first, but I thought about it some more and, yeah, I think it's great!"
+    # jf "I wasn't sure at first, but I thought about it some more and, yeah, I think it's great!"
+    jf "I wasn't sure at first, but I thought about it some more and, yeah, I think it's great!"
 
 # game/code/d17/extended/d17s07_ext.rpy:445
 translate malay d17s07_ext_5daa645e:
@@ -637,4 +637,3 @@ translate malay strings:
     # game/code/d17/extended/d17s07_ext.rpy:466
     old "Agree to go with her"
     new "Agree to go with her"
-

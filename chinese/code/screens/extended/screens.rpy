@@ -74,3 +74,19 @@ translate chinese strings:
     old "ENDINGS"
     new "ENDINGS"
 
+# TODO: Translation updated at 2022-11-22 14:25
+
+translate chinese strings:
+
+    # game/code/screens/extended/screens.rpy:108
+    old "Support us on Patreon"
+    new "Support us on Patreon"
+
+    # game/code/screens/extended/screens.rpy:109
+    old "Join us on Discord"
+    new "Join us on Discord"
+
+    # game/code/screens/extended/screens.rpy:110
+    old "Quit Game"
+    new "Quit Game"
+
