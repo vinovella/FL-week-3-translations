@@ -1,116 +1,116 @@
-﻿# TODO: Translation updated at 2022-09-16 00:18
+﻿# TODO: Translation updated at 2022-11-22 23:46
 
 translate portuguese strings:
 
     # game/code/data/prologue.rpy:16
     old "Min"
-    new "Min"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Lyssa"
-    new "Lyssa"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Maria"
-    new "Maria"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Cynthia"
-    new "Cynthia"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Oliver"
-    new "Oliver"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Aaleyah"
-    new "Aaleyah"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Daisy"
-    new "Daisy"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Dahlia"
-    new "Dahlia"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Stacy"
-    new "Stacy"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Polly & Nora"
-    new "Polly & Nora"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Vanessa"
-    new "Vanessa"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Allison"
-    new "Allison"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Jessie"
-    new "Jessie"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Chloe"
-    new "Chloe"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Iona"
-    new "Iona"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Hana"
-    new "Hana"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "Chase"
-    new "Chase"
+    new ""
 
     # game/code/data/prologue.rpy:16
     old "The Judge"
-    new "The Judge"
+    new ""
 
     # game/code/data/prologue.rpy:45
     old "Enema"
-    new "Enema"
+    new ""
 
     # game/code/data/prologue.rpy:45
     old "Watersports"
-    new "Watersports"
+    new ""
 
     # game/code/data/prologue.rpy:45
     old "Footfetish"
-    new "Footfetish"
+    new ""
 
     # game/code/data/prologue.rpy:45
     old "Cumgarnish"
-    new "Cumgarnish"
+    new ""
 
     # game/code/data/prologue.rpy:45
     old "Fisting"
-    new "Fisting"
+    new ""
 
     # game/code/data/prologue.rpy:45
     old "Pegging"
-    new "Pegging"
+    new ""
 
     # game/code/data/prologue.rpy:45
     old "Trans Content"
-    new "Trans Content"
+    new ""
 
     # game/code/data/prologue.rpy:79
     old "dog"
-    new "dog"
+    new ""
 
     # game/code/data/prologue.rpy:79
     old "cuddle"
-    new "cuddle"
+    new ""
 
     # game/code/data/prologue.rpy:79
     old "adult magazines"
-    new "adult magazines"
+    new ""
 

@@ -1,44 +1,40 @@
-﻿# TODO: Translation updated at 2022-09-16 00:18
+﻿# TODO: Translation updated at 2022-11-22 23:46
 
 translate portuguese strings:
 
-    # game/code/screens/extended/screens_fl.rpy:11
+    # game/code/screens/extended/screens_fl.rpy:27
     old "CG Gallery"
-    new "CG Gallery"
+    new ""
 
-    # game/code/screens/extended/screens_fl.rpy:17
+    # game/code/screens/extended/screens_fl.rpy:33
     old "Replay Room"
-    new "Replay Room"
+    new ""
 
-    # game/code/screens/extended/screens_fl.rpy:23
+    # game/code/screens/extended/screens_fl.rpy:39
     old "Bonus Content"
-    new "Bonus Content"
-
-    # game/code/screens/extended/screens_fl.rpy:30
-    old "Hints on"
-    new "Hints on"
-
-    # game/code/screens/extended/screens_fl.rpy:30
-    old "Hints off"
-    new "Hints off"
+    new ""
 
     # game/code/screens/extended/screens_fl.rpy:46
+    old "Hints on"
+    new ""
+
+    # game/code/screens/extended/screens_fl.rpy:46
+    old "Hints off"
+    new ""
+
+    # game/code/screens/extended/screens_fl.rpy:62
     old "Page [page]"
-    new "Page [page]"
+    new ""
 
-    # game/code/screens/extended/screens_fl.rpy:94
+    # game/code/screens/extended/screens_fl.rpy:110
     old "<"
-    new "<"
+    new ""
 
-    # game/code/screens/extended/screens_fl.rpy:102
+    # game/code/screens/extended/screens_fl.rpy:118
     old ">"
-    new ">"
-
-# TODO: Translation updated at 2022-11-12 13:06
-
-translate portuguese strings:
+    new ""
 
     # game/code/screens/extended/screens_fl.rpy:142
     old "Coming Soon"
-    new "Coming Soon"
+    new ""
 

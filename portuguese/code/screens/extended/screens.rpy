@@ -1,76 +1,72 @@
-﻿# TODO: Translation updated at 2022-11-12 13:06
+﻿# TODO: Translation updated at 2022-11-22 23:46
 
 translate portuguese strings:
-
-    # game/code/screens/extended/screens.rpy:18
-    old "PLAY"
-    new "PLAY"
-
-    # game/code/screens/extended/screens.rpy:28
-    old "LOAD"
-    new "LOAD"
-
-    # game/code/screens/extended/screens.rpy:38
-    old "BONUS"
-    new "BONUS"
 
     # game/code/screens/extended/screens.rpy:48
-    old "SETTINGS"
-    new "SETTINGS"
+    old "PLAY"
+    new ""
 
     # game/code/screens/extended/screens.rpy:58
-    old "LANGUAGE"
-    new "LANGUAGE"
+    old "LOAD"
+    new ""
 
     # game/code/screens/extended/screens.rpy:68
+    old "BONUS"
+    new ""
+
+    # game/code/screens/extended/screens.rpy:78
+    old "SETTINGS"
+    new ""
+
+    # game/code/screens/extended/screens.rpy:88
+    old "LANGUAGE"
+    new ""
+
+    # game/code/screens/extended/screens.rpy:98
     old "INFO"
-    new "INFO"
+    new ""
 
-    # game/code/screens/extended/screens.rpy:112
-    old "Play without a save from Week 2"
-    new "Play without a save from Week 2"
+    # game/code/screens/extended/screens.rpy:108
+    old "Support us on Patreon"
+    new ""
 
-    # game/code/screens/extended/screens.rpy:122
-    old "Load a save from Week 2"
-    new "Load a save from Week 2"
+    # game/code/screens/extended/screens.rpy:109
+    old "Join us on Discord"
+    new ""
 
-    # game/code/screens/extended/screens.rpy:207
-    old "Endings"
-    new "Endings"
+    # game/code/screens/extended/screens.rpy:110
+    old "Quit Game"
+    new ""
 
-# TODO: Translation updated at 2022-11-19 23:15
-
-translate portuguese strings:
-
-    # game/code/screens/extended/screens.rpy:150
+    # game/code/screens/extended/screens.rpy:156
     old "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
-    new "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
+    new ""
 
-    # game/code/screens/extended/screens.rpy:160
+    # game/code/screens/extended/screens.rpy:166
     old "LOAD A SAVE FROM WEEK 2"
-    new "LOAD A SAVE FROM WEEK 2"
+    new ""
 
-    # game/code/screens/extended/screens.rpy:192
+    # game/code/screens/extended/screens.rpy:198
     old "ABOUT"
-    new "ABOUT"
+    new ""
 
-    # game/code/screens/extended/screens.rpy:202
+    # game/code/screens/extended/screens.rpy:208
     old "HELP"
-    new "HELP"
+    new ""
 
-    # game/code/screens/extended/screens.rpy:255
+    # game/code/screens/extended/screens.rpy:261
     old "CG\nGALLERY"
-    new "CG\nGALLERY"
+    new ""
 
-    # game/code/screens/extended/screens.rpy:265
+    # game/code/screens/extended/screens.rpy:271
     old "REPLAY ROOM"
-    new "REPLAY ROOM"
+    new ""
 
-    # game/code/screens/extended/screens.rpy:282
+    # game/code/screens/extended/screens.rpy:288
     old "BONUS CONTENT"
-    new "BONUS CONTENT"
+    new ""
 
-    # game/code/screens/extended/screens.rpy:292
+    # game/code/screens/extended/screens.rpy:298
     old "ENDINGS"
-    new "ENDINGS"
+    new ""
 
