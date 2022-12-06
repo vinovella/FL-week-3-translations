@@ -1622,3 +1622,11 @@ translate chinese strings:
     old "Go home"
     new "Go home"
 
+# TODO: Translation updated at 2022-12-06 22:18
+
+# game/code/d20/d20s07.rpy:754
+translate chinese d20s07_last_show_b9af505f:
+
+    # nk "You think they will do that?"
+    nk "You think they will do that?"
+

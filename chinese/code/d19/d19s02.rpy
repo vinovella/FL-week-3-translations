@@ -772,3 +772,11 @@ translate chinese strings:
     old "Go to her"
     new "Go to her"
 
+# TODO: Translation updated at 2022-12-06 22:18
+
+# game/code/d19/d19s02.rpy:541
+translate chinese d19s02_d138a5d3:
+
+    # mct "I forgot to ask AmRose while she is here."
+    mct "I forgot to ask AmRose while she is here."
+

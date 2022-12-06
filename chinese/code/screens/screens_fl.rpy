@@ -278,3 +278,11 @@ translate chinese strings:
     old "Did you give the password to Hana?"
     new "Did you give the password to Hana?"
 
+# TODO: Translation updated at 2022-12-06 22:18
+
+translate chinese strings:
+
+    # game/code/screens/screens_fl.rpy:444
+    old "RETURN"
+    new "RETURN"
+
