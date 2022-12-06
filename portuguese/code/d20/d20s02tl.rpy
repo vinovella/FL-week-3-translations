@@ -2224,3 +2224,11 @@ translate portuguese strings:
     old "Whip Them Both Together"
     new ""
 
+# TODO: Translation updated at 2022-12-06 22:13
+
+# game/code/d20/d20s02tl.rpy:236
+translate portuguese d20s02tl_pray_62f090f2:
+
+    # mc "Finally, surrender yourself to my teaching."
+    mc ""
+

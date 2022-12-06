@@ -927,4 +927,3 @@ translate portuguese strings:
     # game/code/d16/extended/d16s07_ext.rpy:640
     old "Cum outside"
     new "Gozar fora"
-

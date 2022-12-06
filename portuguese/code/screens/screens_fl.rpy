@@ -230,3 +230,11 @@ translate portuguese strings:
     old "SKIP RECAP"
     new ""
 
+# TODO: Translation updated at 2022-12-06 22:13
+
+translate portuguese strings:
+
+    # game/code/screens/screens_fl.rpy:444
+    old "RETURN"
+    new ""
+

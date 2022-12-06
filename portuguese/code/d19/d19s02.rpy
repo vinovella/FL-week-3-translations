@@ -772,3 +772,11 @@ translate portuguese strings:
     old "Go to her"
     new ""
 
+# TODO: Translation updated at 2022-12-06 22:13
+
+# game/code/d19/d19s02.rpy:541
+translate portuguese d19s02_d138a5d3:
+
+    # mct "I forgot to ask AmRose while she is here."
+    mct ""
+

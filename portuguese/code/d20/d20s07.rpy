@@ -1622,3 +1622,11 @@ translate portuguese strings:
     old "Go home"
     new ""
 
+# TODO: Translation updated at 2022-12-06 22:13
+
+# game/code/d20/d20s07.rpy:754
+translate portuguese d20s07_last_show_b9af505f:
+
+    # nk "You think they will do that?"
+    nk ""
+
