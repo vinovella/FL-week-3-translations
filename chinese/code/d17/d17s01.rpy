@@ -814,7 +814,7 @@ translate chinese d17s01_ntr_e7bcff5b:
 translate chinese d17s01_ntr_cf40f1c1:
 
     # lc "What do you say, love?{w} Do you want to have a go at her back door?"
-    lc "你怎么说，亲爱的？{w} 你想在她的后门来一发吗？
+    lc "你怎么说，亲爱的？{w} 你想在她的后门来一发吗？"
 
 # game/code/d17/d17s01.rpy:332
 translate chinese d17s01_ntr_4ca905f6:
@@ -1402,13 +1402,13 @@ translate chinese d17s01_anal_sex_7fed454e:
 translate chinese d17s01_anal_sex_6669855a:
 
     # arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX YOU FUCKING DEFILER!!!"
-    arj "噢噢哦--嗯嗯呃呃啊!!! 好舒服!!!{W} 你这个混蛋，在操我下面啊啊!!!"
+    arj "噢噢哦--嗯嗯呃呃啊!!! 好舒服!!!{w} 你这个混蛋，在操我下面啊啊!!!"
 
 # game/code/d17/d17s01.rpy:617
 translate chinese d17s01_anal_sex_e695f042:
 
     # arj "AAOOOAAHoooaahhh!!!{w} CREAMPIE MY DIRTBOX YOU ASSHOLE!!!"
-    arj "噢噢哦--嗯嗯呃呃啊!!! 好舒服!!!{W} 你这个混蛋，在操我下面啊啊!!!"
+    arj "噢噢哦--嗯嗯呃呃啊!!! 好舒服!!!{w} 你这个混蛋，在操我下面啊啊!!!"
 
 # game/code/d17/d17s01.rpy:621
 translate chinese d17s01_anal_sex_c25c3bf6:
@@ -1735,4 +1735,3 @@ translate chinese strings:
     # game/code/d17/d17s01.rpy:335
     old "Decline"
     new "跳过"
-

@@ -220,7 +220,7 @@ translate chinese replay_d17s02_7158eb1c:
 translate chinese replay_d17s02_87ebcc68:
 
     # vw "Oh my God. I can't believe this is happening."
-    vw "我的天。我无法相信这一切会发生。
+    vw "我的天。我无法相信这一切会发生。"
 
 # game/code/d17/d17s02.rpy:133
 translate chinese replay_d17s02_3ec0b7b7:
@@ -815,4 +815,3 @@ translate chinese strings:
     # game/code/d17/d17s02.rpy:277
     old "Fuck her"
     new "操她"
-
