@@ -58,13 +58,13 @@ translate chinese d17s02_be991112:
 translate chinese d17s02_3b3d85e6:
 
     # vw "I think im getting a...fever"
-    vw "我想我要发烧了"
+    vw "我想我要...发烧了"
 
 # game/code/d17/d17s02.rpy:72
 translate chinese d17s02_0246b290:
 
     # mct "Does she not have work?"
-    mct "她没有工作吗？"
+    mct "她没工作吗？"
 
 # game/code/d17/d17s02.rpy:76
 translate chinese d17s02_bdfd6709:
@@ -94,13 +94,13 @@ translate chinese replay_d17s02_5db09cbc:
 translate chinese replay_d17s02_e46105de:
 
     # vw "Oh, I'm so sorry. It's just that—"
-    vw "哦，很抱歉。只是--"
+    vw "哦，抱歉。只是--"
 
 # game/code/d17/d17s02.rpy:102
 translate chinese replay_d17s02_155a2f91:
 
     # mc "I'm messing with you. It's alright.{w} C'mon, sit."
-    mc "我在跟你闹着玩。没关系的。{w}来吧，坐。"
+    mc "跟你闹着玩的。没关系。{w}来吧，坐。"
 
 # game/code/d17/d17s02.rpy:104
 translate chinese replay_d17s02_7f82756a:
@@ -220,7 +220,7 @@ translate chinese replay_d17s02_7158eb1c:
 translate chinese replay_d17s02_87ebcc68:
 
     # vw "Oh my God. I can't believe this is happening."
-    vw "我的天。我无法相信这一切会发生。"
+    vw "天啊。不敢相信我真的如愿了。"
 
 # game/code/d17/d17s02.rpy:133
 translate chinese replay_d17s02_3ec0b7b7:
@@ -310,7 +310,7 @@ translate chinese replay_d17s02_b7f7559b:
 translate chinese replay_d17s02_ff6bdcbc:
 
     # vw "Surprisingly insightful? I know. I've been trying to figure out what I can do to...grow, I suppose.{w} And I want you to teach me."
-    vw "有令人惊讶的洞察力？我知道。我一直在想我能做些什么来…成长{w}我想让你教我。"
+    vw "有令人惊讶的洞察力？我知道。我一直在想我能做些什么来...成长。{w}我想让你教我。"
 
 # game/code/d17/d17s02.rpy:158
 translate chinese replay_d17s02_9e7c094c:
@@ -346,19 +346,19 @@ translate chinese replay_d17s02_5dfa3cab:
 translate chinese replay_d17s02_b44e752d:
 
     # mc "Okay, so... Let me get this straight.{w} You want me to dominate you so that you can learn to be more \"submissive\" in your personal relationships and give people more control."
-    mc "好吧，那... 让我来理理清楚。{w} 你想让我支配你，这样你就能学会在人际关系中更加\顺从\，给别人更多的控制权。"
+    mc "好吧，那... 让我来理理清楚。{w} 你想让我支配你，这样你就能学会在人际关系中更加\"顺从\"，给别人更多的控制权。"
 
 # game/code/d17/d17s02.rpy:168
 translate chinese replay_d17s02_5df320ab:
 
     # vw "You don't have to make it sound that weird!"
-    vw "没必要让它听起来那么奇怪！"
+    vw "你不用把它说的那么奇怪！"
 
 # game/code/d17/d17s02.rpy:169
 translate chinese replay_d17s02_1341cebf:
 
     # vw "I'm trying to learn the best way I know how."
-    vw "我正在努力用我知道的最好的方式来学习。"
+    vw "我正努力用我知道的最好的方式来学习。"
 
 # game/code/d17/d17s02.rpy:173
 translate chinese replay_d17s02_cdd0b035:
@@ -394,7 +394,7 @@ translate chinese replay_d17s02_83419b0f:
 translate chinese replay_d17s02_2bc216d6:
 
     # mct "Hm... What should I make her do to teach her submission?"
-    mct "嗯...我应该让她做什么来教她服从？"
+    mct "嗯...要教她服从，我应该让她做点什么呢？"
 
 # game/code/d17/d17s02.rpy:184
 translate chinese replay_d17s02_b323a4ae:
@@ -406,7 +406,7 @@ translate chinese replay_d17s02_b323a4ae:
 translate chinese replay_d17s02_dbd3ea4e:
 
     # vw "You never make me wait long."
-    vw "你从来不让我等很久。"
+    vw "你从来不会让我等很久。"
 
 # game/code/d17/d17s02.rpy:188
 translate chinese replay_d17s02_76a1e1a2:
