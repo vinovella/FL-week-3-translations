@@ -190,7 +190,7 @@ translate chinese d17s01_46999ec7:
 translate chinese d17s01_8186c760:
 
     # arj "I mean, sure, we're here for breakfast and studying, but maybe your girlfriend would enjoy something else."
-    arj "我的意思是，当然，我们是来吃早餐，来学习的，但也许你女朋友会喜欢别的东西。"
+    arj "我是说，当然，我们是来吃早餐，来学习的，但也许你女朋友会喜欢别的东西。"
 
 # game/code/d17/d17s01.rpy:109
 translate chinese d17s01_11ddf51d:
@@ -340,7 +340,7 @@ translate chinese d17s01_a3379bfd:
 translate chinese d17s01_656534e3:
 
     # arj "Yeah, so... everybody tries to find out anyway."
-    arj "话是这么说...反正每个人都想知道。"
+    arj "话是这么说...反正每个人都想知道的嘛。"
 
 # game/code/d17/d17s01.rpy:165
 translate chinese d17s01_fee432f6:
@@ -448,13 +448,13 @@ translate chinese d17s01_534ceec3:
 translate chinese d17s01_81d96176:
 
     # lc "I don't think we're even the same blood type."
-    lc "我觉得我们连血型都不一样。"
+    lc "恐怕我们连血型都不一样。"
 
 # game/code/d17/d17s01.rpy:199
 translate chinese d17s01_1560f212:
 
     # mc "I wasn't talking about one of mine."
-    mc "我说的不是我的。"
+    mc "我不是说我的肾。"
 
 # game/code/d17/d17s01.rpy:201
 translate chinese d17s01_cfdb5771:
@@ -568,7 +568,7 @@ translate chinese d17s01_4412e5c7:
 translate chinese d17s01_b8c40966:
 
     # lc "Let me make this easier on all of us.{w} Nordin, Lewald, and Waller."
-    lc "我来让大家都轻松一点。{w}诺丁，卢瓦尔德，还有沃勒。"
+    lc "我来让大家都轻松一点。{w}诺丁，莱瓦尔德，还有沃勒。"
 
 # game/code/d17/d17s01.rpy:240
 translate chinese d17s01_5876ac99:
@@ -640,7 +640,7 @@ translate chinese d17s01_aaca2f5e:
 translate chinese d17s01_28a8c6c5:
 
     # mc "All semester she's been making threats that she could see to it that I didn't take finals, or that I wouldn't pass finals, etc."
-    mc "整个学期她都在威胁我，说她可以保证我不能参加期末考试，或者我不能通过期末考试。"
+    mc "整个学期她都在威胁我，说她可以确保我不能参加期末考试，或者我不能通过期末考试。"
 
 # game/code/d17/d17s01.rpy:263
 translate chinese d17s01_6664898b:
@@ -808,13 +808,13 @@ translate chinese d17s01_ntr_97a8ccdc:
 translate chinese d17s01_ntr_e7bcff5b:
 
     # lc "\"Come knocking at the rear entrance of Shady Thicket, what you'll find can be immensely satisfying.\"{w} Today's Fetish is Anal."
-    lc "\"叩响阴暗丛林的后门，你会发现可以得到极大的满足。\"{w} 今日星期是肛交。"
+    lc "\"叩响阴暗丛林的后门，你会发现可以得到极大的满足。\"{w} 今日性癖是肛交。"
 
 # game/code/d17/d17s01.rpy:329
 translate chinese d17s01_ntr_cf40f1c1:
 
     # lc "What do you say, love?{w} Do you want to have a go at her back door?"
-    lc "你怎么说，亲爱的？{w} 你想在她的后门来一发吗？"
+    lc "你怎么说，亲爱的？{w} 想在她的后门来一发吗？"
 
 # game/code/d17/d17s01.rpy:332
 translate chinese d17s01_ntr_4ca905f6:
@@ -1276,7 +1276,7 @@ translate chinese d17s01_anal_sex_69616fc6:
 translate chinese d17s01_anal_sex_47890a68:
 
     # mc "I don't think I can stop myself."
-    mc "我无法阻止自己。"
+    mc "我情难自已呀。"
 
 # game/code/d17/d17s01.rpy:571
 translate chinese d17s01_anal_sex_1f2b44e4:
@@ -1462,7 +1462,7 @@ translate chinese d17s01_anal_sex_60458b0d:
 translate chinese d17s01_anal_sex_43f4ec7c:
 
     # arj "FUCK YESSS!!!"
-    arj "FUCK YESSS!!!"
+    arj "操啊，我要死啦!!!"
 
 # game/code/d17/d17s01.rpy:642
 translate chinese d17s01_anal_sex_f66617d4_1:
