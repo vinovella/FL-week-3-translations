@@ -958,5 +958,5 @@ translate chinese d17s03_f166ee3d:
 translate chinese d17s03_2051d66a:
 
     # mc "Understood."
-    mc "明白了。"
+    mc "明白。"
 
