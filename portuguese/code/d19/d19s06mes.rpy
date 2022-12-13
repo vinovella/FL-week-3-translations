@@ -1146,3 +1146,23 @@ translate portuguese d19s06mes_ac9adf42:
     # mes "I haven't had that much fun since she went into the Pandora room."
     mes ""
 
+# TODO: Translation updated at 2022-12-13 23:34
+
+# game/code/d19/d19s06mes.rpy:673
+translate portuguese d19s06mes_a19ae317:
+
+    # cl "It's going to pee on me. How is that magnificent?"
+    cl ""
+
+# game/code/d19/d19s06mes.rpy:676
+translate portuguese d19s06mes_a6c1de56:
+
+    # mes "He's not just going to pee on you. Open your mouth wide, now!"
+    mes ""
+
+translate portuguese strings:
+
+    # game/code/d19/d19s06mes.rpy:220
+    old "Do you want to see watersports?"
+    new ""
+

@@ -123,7 +123,7 @@ translate russian strings:
     old "Mr. Melville"
     new "мистер Мелвилл"
 
-    old "Teresa Lewald"
+    old "Theresa Lewald"
     new "Тереза Левальд"
 
     old "Claudie Fulton"

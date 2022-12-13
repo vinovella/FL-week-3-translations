@@ -1154,3 +1154,23 @@ translate chinese d19s06mes_6edb2059:
     # cl "Oh fuck yes."
     cl "Oh fuck yes."
 
+# TODO: Translation updated at 2022-12-13 23:31
+
+# game/code/d19/d19s06mes.rpy:673
+translate chinese d19s06mes_a19ae317:
+
+    # cl "It's going to pee on me. How is that magnificent?"
+    cl "It's going to pee on me. How is that magnificent?"
+
+# game/code/d19/d19s06mes.rpy:676
+translate chinese d19s06mes_a6c1de56:
+
+    # mes "He's not just going to pee on you. Open your mouth wide, now!"
+    mes "He's not just going to pee on you. Open your mouth wide, now!"
+
+translate chinese strings:
+
+    # game/code/d19/d19s06mes.rpy:220
+    old "Do you want to see watersports?"
+    new "Do you want to see watersports?"
+

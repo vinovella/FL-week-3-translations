@@ -940,3 +940,17 @@ translate portuguese strings:
     old "Switch"
     new ""
 
+# TODO: Translation updated at 2022-12-13 23:34
+
+# game/code/d19/d19s09.rpy:987
+translate portuguese d19s09_end_8a44ad0b:
+
+    # sy "I want to go back to the server room... to see exactly what they were doing."
+    sy ""
+
+# game/code/d19/d19s09.rpy:988
+translate portuguese d19s09_end_9cc11ce7:
+
+    # sy "It's... actually kinda interesting. Whoever built it wasn't completely dumb."
+    sy ""
+

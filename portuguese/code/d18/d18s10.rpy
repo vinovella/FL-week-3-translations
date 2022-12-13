@@ -750,3 +750,11 @@ translate portuguese d18s10_end_1da49de8_1:
     # mct "I can't even."
     mct ""
 
+# TODO: Translation updated at 2022-12-13 23:34
+
+translate portuguese strings:
+
+    # game/code/d18/d18s10.rpy:226
+    old "What is your darkest fantasy about Lydia?"
+    new ""
+
