@@ -1452,3 +1452,23 @@ translate portuguese strings:
     old "Lie"
     new ""
 
+# TODO: Translation updated at 2022-12-14 23:12
+
+# game/code/d20/d20s04.rpy:598
+translate portuguese d20s04_zw_wrong_6a261f5c:
+
+    # zw "I still don't believe you.{w}"
+    zw ""
+
+# game/code/d20/d20s04.rpy:599
+translate portuguese d20s04_zw_wrong_802fab48:
+
+    # zw "You are a liar and do NOT have my vote."
+    zw ""
+
+translate portuguese strings:
+
+    # game/code/d20/d20s04.rpy:545
+    old "She was just visiting."
+    new ""
+

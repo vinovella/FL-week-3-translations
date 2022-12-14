@@ -1452,3 +1452,23 @@ translate chinese strings:
     old "Lie"
     new "Lie"
 
+# TODO: Translation updated at 2022-12-14 23:13
+
+# game/code/d20/d20s04.rpy:598
+translate chinese d20s04_zw_wrong_6a261f5c:
+
+    # zw "I still don't believe you.{w}"
+    zw "I still don't believe you.{w}"
+
+# game/code/d20/d20s04.rpy:599
+translate chinese d20s04_zw_wrong_802fab48:
+
+    # zw "You are a liar and do NOT have my vote."
+    zw "You are a liar and do NOT have my vote."
+
+translate chinese strings:
+
+    # game/code/d20/d20s04.rpy:545
+    old "She was just visiting."
+    new "She was just visiting."
+
