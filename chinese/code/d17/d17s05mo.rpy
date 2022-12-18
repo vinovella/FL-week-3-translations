@@ -4,37 +4,37 @@
 translate chinese d17s05mo_7c42b679:
 
     # mct "Didn't know Oliver was a biker."
-    mct "Didn't know Oliver was a biker."
+    mct "没想到奥利弗还是个车手。"
 
 # game/code/d17/d17s05mo.rpy:12
 translate chinese d17s05mo_080365ff:
 
     # mc "Didn't know you were into bikes."
-    mc "Didn't know you were into bikes."
+    mc "没想到你对单车还感兴趣。"
 
 # game/code/d17/d17s05mo.rpy:13
 translate chinese d17s05mo_4b634951:
 
     # op "Oh, hi, [mcname]."
-    op "Oh, hi, [mcname]."
+    op "哦，你好，[mcname]。"
 
 # game/code/d17/d17s05mo.rpy:15
 translate chinese d17s05mo_d6bbbe24:
 
     # op "I'm a—a, hobbyist, I suppose."
-    op "I'm a—a, hobbyist, I suppose."
+    op "我算个--算，业余爱好者吧。"
 
 # game/code/d17/d17s05mo.rpy:17
 translate chinese d17s05mo_3db46cea:
 
     # mc "Huh, cool. She's pretty."
-    mc "Huh, cool. She's pretty."
+    mc "哇哦。她真漂亮。"
 
 # game/code/d17/d17s05mo.rpy:19
 translate chinese d17s05mo_37fb6bf9:
 
     # op "Heh, she is."
-    op "Heh, she is."
+    op "呵，确实。"
 
 # game/code/d17/d17s05mo.rpy:23
 translate chinese d17s05mo_32d23f2a:
@@ -46,121 +46,121 @@ translate chinese d17s05mo_32d23f2a:
 translate chinese d17s05mo_cd659e9e:
 
     # mh "I was wondering what was taking you so long."
-    mh "I was wondering what was taking you so long."
+    mh "我在想你怎么这么久才来。"
 
 # game/code/d17/d17s05mo.rpy:29
 translate chinese d17s05mo_9b4fc0c0:
 
     # mc "Public transportation is a wonderful thing."
-    mc "Public transportation is a wonderful thing."
+    mc "公共交通是个好东西。"
 
 # game/code/d17/d17s05mo.rpy:31
 translate chinese d17s05mo_e9096685:
 
     # mh "Oh, you should've told me, I could've—"
-    mh "Oh, you should've told me, I could've—"
+    mh "哦，你应该跟我说，我可以--"
 
 # game/code/d17/d17s05mo.rpy:33
 translate chinese d17s05mo_f1514b0a:
 
     # mc "I'm here now, aren't I?"
-    mc "I'm here now, aren't I?"
+    mc "我现在人已经到了，对吧？"
 
 # game/code/d17/d17s05mo.rpy:37
 translate chinese d17s05mo_54d8c5e9:
 
     # mh "Oh, look at that. Oliver's here as well. Perfect timing."
-    mh "Oh, look at that. Oliver's here as well. Perfect timing."
+    mh "看呀。奥利弗也在这。时机正完美。"
 
 # game/code/d17/d17s05mo.rpy:39
 translate chinese d17s05mo_7a6eb03f:
 
     # op "Hi Miss Harris!"
-    op "Hi Miss Harris!"
+    op "嗨，哈里斯小姐！"
 
 # game/code/d17/d17s05mo.rpy:40
 translate chinese d17s05mo_a8d4a08e:
 
     # mc "Did you know that he was into bikes?"
-    mc "Did you know that he was into bikes?"
+    mc "你知道他喜欢单车吗？"
 
 # game/code/d17/d17s05mo.rpy:42
 translate chinese d17s05mo_d841c121:
 
     # mh "He really doesn't seem like the type, does he?"
-    mh "He really doesn't seem like the type, does he?"
+    mh "他看起来真不像是那种人，对吧？"
 
 # game/code/d17/d17s05mo.rpy:44
 translate chinese d17s05mo_a48431c7:
 
     # mc "He's a man of many mysteries."
-    mc "He's a man of many mysteries."
+    mc "他这个人神秘莫测。"
 
 # game/code/d17/d17s05mo.rpy:46
 translate chinese d17s05mo_6949c748:
 
     # mh "Come on in, you two."
-    mh "Come on in, you two."
+    mh "进来吧，你们两个。"
 
 # game/code/d17/d17s05mo.rpy:49
 translate chinese d17s05mo_f34b319c:
 
     # mh "*Laughs* You two make yourselves comfortable."
-    mh "*Laughs* You two make yourselves comfortable."
+    mh "*笑* 你们两个请自便。"
 
 # game/code/d17/d17s05mo.rpy:50
 translate chinese d17s05mo_e8ab7aaa:
 
     # mh "Can I get you two something to drink?"
-    mh "Can I get you two something to drink?"
+    mh "要不要给你们俩拿点喝的？"
 
 # game/code/d17/d17s05mo.rpy:52
 translate chinese d17s05mo_8916e817:
 
     # mc "I'll just have whatever he's having."
-    mc "I'll just have whatever he's having."
+    mc "他吃什么我就吃什么。"
 
 # game/code/d17/d17s05mo.rpy:54
 translate chinese d17s05mo_1b4f8074:
 
     # mh "*Chuckles* Alright. Oliver?"
-    mh "*Chuckles* Alright. Oliver?"
+    mh "*笑* 好吧。奥利弗？"
 
 # game/code/d17/d17s05mo.rpy:56
 translate chinese d17s05mo_2966b652:
 
     # op "I could go for some tea."
-    op "I could go for some tea."
+    op "我想喝点茶。"
 
 # game/code/d17/d17s05mo.rpy:58
 translate chinese d17s05mo_3ae02f54:
 
     # mh "Tea it is then."
-    mh "Tea it is then."
+    mh "那就喝茶吧。"
 
 # game/code/d17/d17s05mo.rpy:63
 translate chinese d17s05mo_575d3270:
 
     # mc "So, how's it been? Been a bit since last time."
-    mc "So, how's it been? Been a bit since last time."
+    mc "话说，最近怎么样？离我们上次聊天有点日子了。"
 
 # game/code/d17/d17s05mo.rpy:65
 translate chinese d17s05mo_7a470331:
 
     # op "Yes... Last time..."
-    op "Yes... Last time..."
+    op "对...上次..."
 
 # game/code/d17/d17s05mo.rpy:67
 translate chinese d17s05mo_18758a6b:
 
     # mc "...You still nervous about that?"
-    mc "...You still nervous about that?"
+    mc "...你还在为那事紧张吗？"
 
 # game/code/d17/d17s05mo.rpy:69
 translate chinese d17s05mo_31338864:
 
     # op "I just... We... Miss Harris."
-    op "I just... We... Miss Harris."
+    op "我只是... 我们... 哈里斯小姐。"
 
 # game/code/d17/d17s05mo.rpy:71
 translate chinese d17s05mo_1edfc786:
