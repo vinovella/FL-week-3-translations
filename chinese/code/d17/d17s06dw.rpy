@@ -4,223 +4,223 @@
 translate chinese d17s06dw_41176219:
 
     # mc "Hello, ladies!"
-    mc "Hello, ladies!"
+    mc "女士们好呀！"
 
 # game/code/d17/d17s06dw.rpy:55
 translate chinese d17s06dw_decb2652:
 
     # sb "Heya, [mcname]."
-    sb "Heya, [mcname]."
+    sb "嗨，[mcname]。"
 
 # game/code/d17/d17s06dw.rpy:57
 translate chinese d17s06dw_b696e15b:
 
     # dw "About time you showed up."
-    dw "About time you showed up."
+    dw "你早该来了。"
 
 # game/code/d17/d17s06dw.rpy:59
 translate chinese d17s06dw_31fd9c32:
 
     # mc "But I -"
-    mc "But I -"
+    mc "但是我--"
 
 # game/code/d17/d17s06dw.rpy:61
 translate chinese d17s06dw_01f750c3:
 
     # dw "No, I don't want to hear your excuses. Do better next time."
-    dw "No, I don't want to hear your excuses. Do better next time."
+    dw "不，我不想听你的借口。下次要做得更好。"
 
 # game/code/d17/d17s06dw.rpy:63
 translate chinese d17s06dw_1e7fb7ce:
 
     # sb "Be nice, Dahlia. We're here to thank him!"
-    sb "Be nice, Dahlia. We're here to thank him!"
+    sb "对他友好点，黛丽娅。我们是来感谢他的！"
 
 # game/code/d17/d17s06dw.rpy:65
 translate chinese d17s06dw_583b0bfe:
 
     # mc "Thank me? {w}For what?"
-    mc "Thank me? {w}For what?"
+    mc "感谢我？{w}因为什么？"
 
 # game/code/d17/d17s06dw.rpy:67
 translate chinese d17s06dw_e062934c:
 
     # sb "For bringing us back together, of course."
-    sb "For bringing us back together, of course."
+    sb "当然是为了让我们重新在一起。"
 
 # game/code/d17/d17s06dw.rpy:69
 translate chinese d17s06dw_83b91498:
 
     # mc "Oh, right."
-    mc "Oh, right."
+    mc "哦，对。"
 
 # game/code/d17/d17s06dw.rpy:71
 translate chinese d17s06dw_38fef4bf:
 
     # dw "At least you follow orders better than you follow conversations."
-    dw "At least you follow orders better than you follow conversations."
+    dw "至少你服从命令比服从谈话好。"
 
 # game/code/d17/d17s06dw.rpy:73
 translate chinese d17s06dw_12a5256d:
 
     # mc "I'm-"
-    mc "I'm-"
+    mc "我--"
 
 # game/code/d17/d17s06dw.rpy:75
 translate chinese d17s06dw_0b8d4785:
 
     # dw "Your next words had better be, \"Yes, Mistress. I'm sorry, Mistress."
-    dw "Your next words had better be, \"Yes, Mistress. I'm sorry, Mistress."
+    dw "你的下一句话最好是，\"是的，主人。我很抱歉。"
 
 # game/code/d17/d17s06dw.rpy:77
 translate chinese d17s06dw_4f30b519:
 
     # mc "Oh, um.{w}.. right."
-    mc "Oh, um.{w}.. right."
+    mc "哦，嗯{w}...好。"
 
 # game/code/d17/d17s06dw.rpy:81
 translate chinese d17s06dw_faa42600:
 
     # sb "Seriously?"
-    sb "Seriously?"
+    sb "说真的？"
 
 # game/code/d17/d17s06dw.rpy:83
 translate chinese d17s06dw_171a1a5b:
 
     # mc "Yes, Mistress. I'm sorry, Mistress."
-    mc "Yes, Mistress. I'm sorry, Mistress."
+    mc "是的，主人。我很抱歉。"
 
 # game/code/d17/d17s06dw.rpy:85
 translate chinese d17s06dw_23d25068:
 
     # dw "Good boy. Tell me - are you afraid of heights?"
-    dw "Good boy. Tell me - are you afraid of heights?"
+    dw "乖。告诉我--你有恐高症吗？"
 
 # game/code/d17/d17s06dw.rpy:87
 translate chinese d17s06dw_cfb40a80:
 
     # mc "No, Mistress."
-    mc "No, Mistress."
+    mc "报告主人，没有。"
 
 # game/code/d17/d17s06dw.rpy:89
 translate chinese d17s06dw_f9699225:
 
     # dw "Very well. Go get us three tickets to the Funhouse. {w}Let's see how scary that is."
-    dw "Very well. Go get us three tickets to the Funhouse. {w}Let's see how scary that is."
+    dw "很好。去给我们弄三张游乐场的票。{w}让我们看看有多吓人。"
 
 # game/code/d17/d17s06dw.rpy:91
 translate chinese d17s06dw_9af8e86f:
 
     # mc "Oh, okay. {w}I mean- Right away, Mistress."
-    mc "Oh, okay. {w}I mean- Right away, Mistress."
+    mc "哦，好的。{w}啊--这就去，主人。"
 
 # game/code/d17/d17s06dw.rpy:93
 translate chinese d17s06dw_6e7cdecd:
 
     # mc "I'll be right back."
-    mc "I'll be right back."
+    mc "我马上回来。"
 
 # game/code/d17/d17s06dw.rpy:98
 translate chinese d17s06dw_7a35e2f7:
 
     # sb "What was that all about?"
-    sb "What was that all about?"
+    sb "怎么回事？"
 
 # game/code/d17/d17s06dw.rpy:100
 translate chinese d17s06dw_374e9d4c:
 
     # dw "Don't be nice to him. It undermines my authority."
-    dw "Don't be nice to him. It undermines my authority."
+    dw "对他别太友善。这会削弱我的权威。"
 
 # game/code/d17/d17s06dw.rpy:102
 translate chinese d17s06dw_4c0a3456:
 
     # sb "Undermines your authority? {w}I'm okay with that."
-    sb "Undermines your authority? {w}I'm okay with that."
+    sb "削弱你的权威？{w}我觉得还好哎。"
 
 # game/code/d17/d17s06dw.rpy:104
 translate chinese d17s06dw_ee45e64d:
 
     # dw "Didn't you want [mcname] to have fun tonight?"
-    dw "Didn't you want [mcname] to have fun tonight?"
+    dw "你不是想让[mcname]今晚玩得开心吗？"
 
 # game/code/d17/d17s06dw.rpy:106
 translate chinese d17s06dw_5fc388fc:
 
     # sb "Yeah, but I was thinking of something more like lots of drinking and a threesome."
-    sb "Yeah, but I was thinking of something more like lots of drinking and a threesome."
+    sb "想啊，但我想的是像喝很多酒，还有3P之类的事。"
 
 # game/code/d17/d17s06dw.rpy:108
 translate chinese d17s06dw_d15a51ba:
 
     # dw "Well, he enjoys serving his Mistress. So, don't confuse the poor boy."
-    dw "Well, he enjoys serving his Mistress. So, don't confuse the poor boy."
+    dw "他喜欢服侍他的女主人。所以，别把这个可怜的孩子弄糊涂了。"
 
 # game/code/d17/d17s06dw.rpy:110
 translate chinese d17s06dw_b0d901e8:
 
     # sb "So, what - you expect me to break his balls?"
-    sb "So, what - you expect me to break his balls?"
+    sb "那又怎样--你指望我打烂他的蛋蛋？"
 
 # game/code/d17/d17s06dw.rpy:112
 translate chinese d17s06dw_8156b0b0:
 
     # dw "Just don't undermine me. {w}Don't worry, I'll let you thank him properly later."
-    dw "Just don't undermine me. {w}Don't worry, I'll let you thank him properly later."
+    dw "不要贬低我。{w}别担心，我以后会让你好好感谢他的。"
 
 # game/code/d17/d17s06dw.rpy:114
 translate chinese d17s06dw_9ad8f44d:
 
     # sb "What does that mean?"
-    sb "What does that mean?"
+    sb "什么意思？"
 
 # game/code/d17/d17s06dw.rpy:116
 translate chinese d17s06dw_71fa3616:
 
     # dw "Maybe not a threesome, but you can entertain him by doing your favorite thing."
-    dw "Maybe not a threesome, but you can entertain him by doing your favorite thing."
+    dw "也许不是3P，但你可以做你最喜欢的事来娱乐他。"
 
 # game/code/d17/d17s06dw.rpy:118
 translate chinese d17s06dw_06ba8908:
 
     # sb "*sarcastically* Oh good, my way. Thank you Vizzini. {w}Which way is my way?"
-    sb "*sarcastically* Oh good, my way. Thank you Vizzini. {w}Which way is my way?"
+    sb "*讽刺地* 哦，那可真是太感谢你了。{w}所以我最喜欢做什么呢？"
 
 # game/code/d17/d17s06dw.rpy:121
 translate chinese d17s06dw_2464f166:
 
     # mc "I have returned with the tickets, Mistress. {w}Uh, Mistresses?"
-    mc "I have returned with the tickets, Mistress. {w}Uh, Mistresses?"
-
+    mc "我已经带着票回来了，主人。{w}呃，两位主人？"
+  
 # game/code/d17/d17s06dw.rpy:123
 translate chinese d17s06dw_890329cc:
 
     # dw "Just one Mistress, slave. I'm not ready to share you with anyone else, yet."
-    dw "Just one Mistress, slave. I'm not ready to share you with anyone else, yet."
+    dw "只有一个女主人，小奴隶。我还没准备好和其他人共享你。"
 
 # game/code/d17/d17s06dw.rpy:125
 translate chinese d17s06dw_9566cc04:
 
     # mc "Thank you, Mistress."
-    mc "Thank you, Mistress."
+    mc "谢谢，主人。"
 
 # game/code/d17/d17s06dw.rpy:127
 translate chinese d17s06dw_0ac8e57b:
 
     # dw "I wish I had bought you a collar and a leash."
-    dw "I wish I had bought you a collar and a leash."
+    dw "真希望我给你买了项圈，还有皮带。"
 
 # game/code/d17/d17s06dw.rpy:129
 translate chinese d17s06dw_2ad44f96:
 
     # sb "Oh, I have a nice collection you could choose from."
-    sb "Oh, I have a nice collection you could choose from."
+    sb "哦，我收藏了很多都不错，你可以选择。"
 
 # game/code/d17/d17s06dw.rpy:131
 translate chinese d17s06dw_fc889f24:
 
     # dw "Well, for now he'll have to stay off-leash. {w}Are you ready for Walkies?"
-    dw "Well, for now he'll have to stay off-leash. {w}Are you ready for Walkies?"
+    dw "呵，现在他必须摆脱束缚。{w}你准备好了吗？"
 
 # game/code/d17/d17s06dw.rpy:133
 translate chinese d17s06dw_2b35b6fe:
@@ -232,13 +232,13 @@ translate chinese d17s06dw_2b35b6fe:
 translate chinese d17s06dw_2b745c73:
 
     # dw "C'mon, slave. HEEL"
-    dw "C'mon, slave. HEEL"
+    dw "来吧，奴隶。跟上"
 
 # game/code/d17/d17s06dw.rpy:137
 translate chinese d17s06dw_d2b6c63e:
 
     # sb "LOL"
-    sb "LOL"
+    sb "大笑"
 
 # game/code/d17/d17s06dw.rpy:139
 translate chinese d17s06dw_2b35b6fe_1:
@@ -250,25 +250,25 @@ translate chinese d17s06dw_2b35b6fe_1:
 translate chinese d17s06dw_d0c8f02d:
 
     # sb "She's just playing with you, you know. {w}This is fun for her."
-    sb "She's just playing with you, you know. {w}This is fun for her."
+    sb "你知道，她只是在和你开玩笑。{w}她觉得很有意思。"
 
 # game/code/d17/d17s06dw.rpy:143
 translate chinese d17s06dw_54962c52:
 
     # mc "... {w}Fine. I'm coming."
-    mc "... {w}Fine. I'm coming."
+    mc "...{w}好吧。我这就来。"
 
 # game/code/d17/d17s06dw.rpy:154
 translate chinese d17s06dw_first_room_f01f33e7:
 
     # mc "Why does everything look like an abandoned sanatorium?"
-    mc "Why does everything look like an abandoned sanatorium?"
+    mc "为什么这里看起来像废弃的疗养院？"
 
 # game/code/d17/d17s06dw.rpy:156
 translate chinese d17s06dw_first_room_26062f66:
 
     # dw "It does look like an old mental hospital, doesn't it?"
-    dw "It does look like an old mental hospital, doesn't it?"
+    dw "它看起来确实像个破精神病院，不是吗？"
 
 # game/code/d17/d17s06dw.rpy:158
 translate chinese d17s06dw_first_room_d8a71cca:
