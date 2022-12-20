@@ -160,7 +160,7 @@ translate chinese d17s05mo_18758a6b:
 translate chinese d17s05mo_31338864:
 
     # op "I just... We... Miss Harris."
-    op 就是...我们...哈里斯小姐。"
+    op "就是...我们...哈里斯小姐。"
 
 # game/code/d17/d17s05mo.rpy:71
 translate chinese d17s05mo_1edfc786:
@@ -844,7 +844,7 @@ translate chinese d17s05mo_d09f83d7:
 translate chinese d17s05mo_f84ceed8:
 
     # mh "Wait. Oliver, are you a virgin?"
-    mh 等等。奥利弗，你还是个处吗？"
+    mh "等等。奥利弗，你还是个处吗？"
 
 # game/code/d17/d17s05mo.rpy:294
 translate chinese d17s05mo_77a73769:
@@ -1133,4 +1133,3 @@ translate chinese d17s05mo_be58e169:
 
     # mh "Well, I'm glad."
     mh "嗯，那就好。"
-

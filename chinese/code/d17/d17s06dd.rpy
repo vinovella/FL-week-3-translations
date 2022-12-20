@@ -1236,9 +1236,8 @@ translate chinese strings:
 
     # game/code/d17/d17s06dd.rpy:379
     old "Wait - Is it safe?"
-    new 等等--这样安全吗？"
+    new "等等--这样安全吗？"
 
     # game/code/d17/d17s06dd.rpy:379
     old "Don't Care"
     new "不关心"
-
