@@ -4,439 +4,439 @@
 translate chinese d17s07_ext_360a8ee5:
 
     # mct "Seems like Jessie sent me a text. \"Can you come over? Please.\""
-    mct "Seems like Jessie sent me a text. \"Can you come over? Please.\""
+    mct "好像杰西给我发了条短信。\"你能过来吗？拜托了。\""
 
 # game/code/d17/extended/d17s07_ext.rpy:53
 translate chinese d17s07_ext_cb7a1173:
 
     # mct "Sent 40 minutes ago with no follow-up."
-    mct "Sent 40 minutes ago with no follow-up."
+    mct "40分钟前发的，没有后续消息。"
 
 # game/code/d17/extended/d17s07_ext.rpy:55
 translate chinese d17s07_ext_193fc34b:
 
     # mct "Jessie has never sent me a text like that before."
-    mct "Jessie has never sent me a text like that before."
+    mct "杰西以前从没给我发过这样的短信。"
 
 # game/code/d17/extended/d17s07_ext.rpy:59
 translate chinese d17s07_ext_b57d7645:
 
     # mc "Jessie?"
-    mc "Jessie?"
+    mc "杰西?"
 
 # game/code/d17/extended/d17s07_ext.rpy:60
 translate chinese d17s07_ext_66f22b41:
 
     # jf "Oh [mcname]. You are here."
-    jf "Oh [mcname]. You are here."
+    jf "哦[mcname]。你在这啊。"
 
 # game/code/d17/extended/d17s07_ext.rpy:62
 translate chinese d17s07_ext_571843c0:
 
     # mct "Something's definitely wrong."
-    mct "Something's definitely wrong."
+    mct "肯定有问题。"
 
 # game/code/d17/extended/d17s07_ext.rpy:64
 translate chinese d17s07_ext_598cbda9:
 
     # mc "What's up? You alright?"
-    mc "What's up? You alright?"
+    mc "怎么了？你还好吗？"
 
 # game/code/d17/extended/d17s07_ext.rpy:66
 translate chinese d17s07_ext_7643c293:
 
     # jf "Mm-hm, I'm okay."
-    jf "Mm-hm, I'm okay."
+    jf "嗯嗯，没事。"
 
 # game/code/d17/extended/d17s07_ext.rpy:76
 translate chinese d17s07_ext_2ad319a8:
 
     # jf "I was just thinking."
-    jf "I was just thinking."
+    jf "我只是在想。"
 
 # game/code/d17/extended/d17s07_ext.rpy:77
 translate chinese d17s07_ext_9221b22f:
 
     # jf "For everything we've done together."
-    jf "For everything we've done together."
+    jf "为了我们一起做的一切。"
 
 # game/code/d17/extended/d17s07_ext.rpy:79
 translate chinese d17s07_ext_ea54f9a3:
 
     # jf "For everything of mine that I've given you."
-    jf "For everything of mine that I've given you."
+    jf "为了我奉献给你的一切。"
 
 # game/code/d17/extended/d17s07_ext.rpy:81
 translate chinese d17s07_ext_ab5e0ffa:
 
     # jf "I've never really been all that honest, have I?"
-    jf "I've never really been all that honest, have I?"
+    jf "我从来没那么诚实过，对吧?"
 
 # game/code/d17/extended/d17s07_ext.rpy:83
 translate chinese d17s07_ext_dfac120e:
 
     # mc "Haven't you?"
-    mc "Haven't you?"
+    mc "没有吗？"
 
 # game/code/d17/extended/d17s07_ext.rpy:87
 translate chinese d17s07_ext_4932cce5:
 
     # jf "Tell me."
-    jf "Tell me."
+    jf "告诉我。"
 
 # game/code/d17/extended/d17s07_ext.rpy:91
 translate chinese d17s07_ext_0ed3abc5:
 
     # jf "Do you like me this way?"
-    jf "Do you like me this way?"
+    jf "你喜欢我这样子吗？"
 
 # game/code/d17/extended/d17s07_ext.rpy:95
 translate chinese d17s07_ext_436d1313:
 
     # jf "Like a normal girl?"
-    jf "Like a normal girl?"
+    jf "像个正常的女孩？"
 
 # game/code/d17/extended/d17s07_ext.rpy:97
 translate chinese d17s07_ext_d92439d9:
 
     # mc "Yes. I do."
-    mc "Yes. I do."
+    mc "嗯，我喜欢。"
 
 # game/code/d17/extended/d17s07_ext.rpy:99
 translate chinese d17s07_ext_154a2834:
 
     # jf "I'm glad. I'm really, really glad."
-    jf "I'm glad. I'm really, really glad."
+    jf "我很高兴。真的，非常高兴。"
 
 # game/code/d17/extended/d17s07_ext.rpy:105
 translate chinese d17s07_ext_59b53974:
 
     # jf "Come. Take me, [mcname]."
-    jf "Come. Take me, [mcname]."
+    jf "来吧。任你索取，[mcname]。"
 
 # game/code/d17/extended/d17s07_ext.rpy:131
 translate chinese d17s07_ext_8b887fa3:
 
     # mc "You're soaking."
-    mc "You're soaking."
+    mc "你湿透了。"
 
 # game/code/d17/extended/d17s07_ext.rpy:133
 translate chinese d17s07_ext_19e42da6:
 
     # jf "I know. I want to feel you in me."
-    jf "I know. I want to feel you in me."
+    jf "我知道。我想感受你在我体内的感觉。"
 
 # game/code/d17/extended/d17s07_ext.rpy:137
 translate chinese d17s07_ext_31fcda0f:
 
     # jf "*Moans* I love the way you feel in me, [mcname]."
-    jf "*Moans* I love the way you feel in me, [mcname]."
+    jf "*呻吟* 我喜欢你把我填满的感觉，[mcname]。"
 
 # game/code/d17/extended/d17s07_ext.rpy:145
 translate chinese d17s07_ext_b9b99ee8:
 
     # jf "*Moans* Harder, please. *Staggered breaths* I want to feel every bit of you."
-    jf "*Moans* Harder, please. *Staggered breaths* I want to feel every bit of you."
+    jf "*呻吟* 求求你，再用力点。*交错呼吸* 你每一点，每个角度，我都想感受。"
 
 # game/code/d17/extended/d17s07_ext.rpy:159
 translate chinese d17s07_ext_b3d1a45f:
 
     # jf "I want you to make me yours."
-    jf "I want you to make me yours."
+    jf "我想让你把我标记成你的。"
 
 # game/code/d17/extended/d17s07_ext.rpy:173
 translate chinese d17s07_ext_012b094d:
 
     # jf "*Louder and louder moans* Yes, {i}yes{/i}..."
-    jf "*Louder and louder moans* Yes, {i}yes{/i}..."
+    jf "*越来越大的呻吟* 啊，{i}好舒服{/i}..."
 
 # game/code/d17/extended/d17s07_ext.rpy:200
 translate chinese d17s07_ext_fb25e80a:
 
     # jf "[mcname], you're gonna make me cum. Cum with me. Please, cum with me."
-    jf "[mcname], you're gonna make me cum. Cum with me. Please, cum with me."
+    jf "[mcname]，你要让我射出来。和我一起高潮。求你了，和我一起射吧。"
 
 # game/code/d17/extended/d17s07_ext.rpy:203
 translate chinese d17s07_ext_75df400e:
 
     # jf "I want to feel you filling me, [mcname]."
-    jf "I want to feel you filling me, [mcname]."
+    jf "我想感受你在我里面胀大的感觉，[mcname]。"
 
 # game/code/d17/extended/d17s07_ext.rpy:220
 translate chinese d17s07_ext_c7c8bd04:
 
     # mc "Do you feel better now?"
-    mc "Do you feel better now?"
+    mc "你现在感觉好些了吗？"
 
 # game/code/d17/extended/d17s07_ext.rpy:222
 translate chinese d17s07_ext_36091a3b:
 
     # jf "You didn't believe me for a second did you?"
-    jf "You didn't believe me for a second did you?"
+    jf "你一秒钟都不相信我，是吗？"
 
 # game/code/d17/extended/d17s07_ext.rpy:224
 translate chinese d17s07_ext_2a8c112f:
 
     # mc "Would you have?"
-    mc "Would you have?"
+    mc "你会吗？"
 
 # game/code/d17/extended/d17s07_ext.rpy:226
 translate chinese d17s07_ext_2518141d:
 
     # jf "*Chuckles* Good point."
-    jf "*Chuckles* Good point."
+    jf "*咯咯笑* 说得好。"
 
 # game/code/d17/extended/d17s07_ext.rpy:230
 translate chinese d17s07_ext_cfd27420:
 
     # jf "I do feel better now. Thank you."
-    jf "I do feel better now. Thank you."
+    jf "我现在确实感觉好多了。谢谢你。"
 
 # game/code/d17/extended/d17s07_ext.rpy:232
 translate chinese d17s07_ext_fe54932d:
 
     # mc "Do you want to talk about anything?"
-    mc "Do you want to talk about anything?"
+    mc "你想聊点什么吗？"
 
 # game/code/d17/extended/d17s07_ext.rpy:234
 translate chinese d17s07_ext_6b292323:
 
     # jf "I don't know what to say."
-    jf "I don't know what to say."
+    jf "我不知道该说什么。"
 
 # game/code/d17/extended/d17s07_ext.rpy:236
 translate chinese d17s07_ext_d77fb916:
 
     # mc "You asked me if I liked you, like a \"normal girl\"."
-    mc "You asked me if I liked you, like a \"normal girl\"."
+    mc "你刚才问我喜不喜欢你\"像个正常女孩那样\"。"
 
 # game/code/d17/extended/d17s07_ext.rpy:238
 translate chinese d17s07_ext_ace89548:
 
     # jf "*Smiles* I did, didn't I?"
-    jf "*Smiles* I did, didn't I?"
+    jf "*微笑* 我这么问了？"
 
 # game/code/d17/extended/d17s07_ext.rpy:239
 translate chinese d17s07_ext_99a71a50:
 
     # jf "*Sighs* It's just..."
-    jf "*Sighs* It's just..."
+    jf "*叹气* 只是..."
 
 # game/code/d17/extended/d17s07_ext.rpy:241
 translate chinese d17s07_ext_7f7d1aeb:
 
     # mc "You're about to get your period?"
-    mc "You're about to get your period?"
+    mc "你要来月经了？"
 
 # game/code/d17/extended/d17s07_ext.rpy:245
 translate chinese d17s07_ext_d9fbe98f:
 
     # mc "*Laughing* Sorry!"
-    mc "*Laughing* Sorry!"
+    mc "*笑* 对不起！"
 
 # game/code/d17/extended/d17s07_ext.rpy:247
 translate chinese d17s07_ext_b27ba66d:
 
     # jf "*Smiling* You should be."
-    jf "*Smiling* You should be."
+    jf "*微笑* 你是该对不起。"
 
 # game/code/d17/extended/d17s07_ext.rpy:249
 translate chinese d17s07_ext_d6f01205:
 
     # mc "Jeez, I was just trying to bring a little levity into the situation."
-    mc "Jeez, I was just trying to bring a little levity into the situation."
+    mc "哎呀，我只是想让气氛轻松一点儿。"
 
 # game/code/d17/extended/d17s07_ext.rpy:251
 translate chinese d17s07_ext_63fc1ff1:
 
     # jf "It's just that thinking back on every moment we've been together. I've been in a mask."
-    jf "It's just that thinking back on every moment we've been together. I've been in a mask."
+    jf "回想起我们在一起的每一分每一秒，我一直戴着面具。"
 
 # game/code/d17/extended/d17s07_ext.rpy:253
 translate chinese d17s07_ext_fc856abc:
 
     # jf "And it just..."
-    jf "And it just..."
+    jf "而这只是..."
 
 # game/code/d17/extended/d17s07_ext.rpy:254
 translate chinese d17s07_ext_599e4130:
 
     # jf "My aunt died."
-    jf "My aunt died."
+    jf "我姑姑死了。"
 
 # game/code/d17/extended/d17s07_ext.rpy:256
 translate chinese d17s07_ext_3edc66f8:
 
     # mc "Oh... I'm so sorry."
-    mc "Oh... I'm so sorry."
+    mc "哦...很抱歉。"
 
 # game/code/d17/extended/d17s07_ext.rpy:258
 translate chinese d17s07_ext_3715b40d:
 
     # jf "It's okay. I wasn't that close to her."
-    jf "It's okay. I wasn't that close to her."
+    jf "没关系。我跟她不是很亲近。"
 
 # game/code/d17/extended/d17s07_ext.rpy:259
 translate chinese d17s07_ext_cf4e906e:
 
     # jf "I guess she was sorta the black sheep of the family."
-    jf "I guess she was sorta the black sheep of the family."
+    jf "我猜她算是家里的害群之马吧。"
 
 # game/code/d17/extended/d17s07_ext.rpy:260
 translate chinese d17s07_ext_c244e2bc:
 
     # jf "She lived on her own, in some farm out in the country, away from family."
-    jf "She lived on her own, in some farm out in the country, away from family."
+    jf "她自己住在乡下一个农场里，远离家人。"
 
 # game/code/d17/extended/d17s07_ext.rpy:262
 translate chinese d17s07_ext_6c8f1f16:
 
     # jf "No one knew if she had a partner, or even friends for that matter."
-    jf "No one knew if she had a partner, or even friends for that matter."
+    jf "没人知道她有没有伴侣，也不知道是否有朋友。"
 
 # game/code/d17/extended/d17s07_ext.rpy:263
 translate chinese d17s07_ext_636e02ee:
 
     # jf "She always kept to herself and didn't care much about others."
-    jf "She always kept to herself and didn't care much about others."
+    jf "她总是独来独往，不怎么关心别人。"
 
 # game/code/d17/extended/d17s07_ext.rpy:264
 translate chinese d17s07_ext_1e572db7:
 
     # jf "I only really met her a handful of times in my life."
-    jf "I only really met her a handful of times in my life."
+    jf "我一生中真正见到她的次数屈指可数。"
 
 # game/code/d17/extended/d17s07_ext.rpy:266
 translate chinese d17s07_ext_0d274538:
 
     # jf "And now I get a letter saying that she's dead."
-    jf "And now I get a letter saying that she's dead."
+    jf "结果现在我收到一封信，说她已经死了。"
 
 # game/code/d17/extended/d17s07_ext.rpy:267
 translate chinese d17s07_ext_6ebd2534:
 
     # jf "It just...made me think."
-    jf "It just...made me think."
+    jf "这...让我不禁在想。"
 
 # game/code/d17/extended/d17s07_ext.rpy:268
 translate chinese d17s07_ext_764ad0c1:
 
     # jf "I love cosplay. I love becoming other characters."
-    jf "I love cosplay. I love becoming other characters."
+    jf "我喜欢cosplay。 我喜欢变成其他角色。"
 
 # game/code/d17/extended/d17s07_ext.rpy:270
 translate chinese d17s07_ext_02ec3fe6:
 
     # jf "But somewhere along the way, becoming other characters became a crutch for me so that I don't have to risk anything for myself."
-    jf "But somewhere along the way, becoming other characters became a crutch for me so that I don't have to risk anything for myself."
+    jf "但在这个过程中，扮演其他角色成了我的一种依靠，这样我就不必为自己冒任何风险。"
 
 # game/code/d17/extended/d17s07_ext.rpy:271
 translate chinese d17s07_ext_60f741d8:
 
     # jf "Who cares if Mirim Arotsu gets feelings for someone but then gets those feelings crushed. She isn't real, right? *Sad chuckle*"
-    jf "Who cares if Mirim Arotsu gets feelings for someone but then gets those feelings crushed. She isn't real, right? *Sad chuckle*"
+    jf "谁在乎游戏人物对真人产生了感情，后来这些感情又被粉碎。 她根本不是真实的，对吗？ *悲伤的笑声*"
 
 # game/code/d17/extended/d17s07_ext.rpy:273
 translate chinese d17s07_ext_32bd2707:
 
     # jf "And I was fine with that... But that letter just... I don't know."
-    jf "And I was fine with that... But that letter just... I don't know."
+    jf "我对此其实一点没有意见... 只是那封信... 我不知道。"
 
 # game/code/d17/extended/d17s07_ext.rpy:274
 translate chinese d17s07_ext_0105e50c:
 
     # jf "God, maybe my period {i}is{/i} starting."
-    jf "God, maybe my period {i}is{/i} starting."
+    jf "天，也许我的月经{i}是{/i}来了。"
 
 # game/code/d17/extended/d17s07_ext.rpy:278
 translate chinese d17s07_ext_c98b31fd:
 
     # jf "But yeah..."
-    jf "But yeah..."
+    jf "但是..."
 
 # game/code/d17/extended/d17s07_ext.rpy:282
 translate chinese d17s07_ext_1914c827:
 
     # mc "Jessie. Do you have something to say to me?"
-    mc "Jessie. Do you have something to say to me?"
+    mc "杰西。 你有话要对我说吗？"
 
 # game/code/d17/extended/d17s07_ext.rpy:284
 translate chinese d17s07_ext_d98f7d81:
 
     # jf "I think I'm in love with you, [mcname]. And I'm really scared."
-    jf "I think I'm in love with you, [mcname]. And I'm really scared."
+    jf "我好像爱上你了，[mcname]。 我真的很害怕。"
 
 # game/code/d17/extended/d17s07_ext.rpy:289
 translate chinese d17s07_ext_df2093b4:
 
     # mc "I think I'm in love with you too."
-    mc "I think I'm in love with you too."
+    mc "我好像也爱上了你。"
 
 # game/code/d17/extended/d17s07_ext.rpy:293
 translate chinese d17s07_ext_c1d270c7:
 
     # mc "I really like you, Jessie. I care about you."
-    mc "I really like you, Jessie. I care about you."
+    mc "我真的喜欢你，杰西。 很在乎你。"
 
 # game/code/d17/extended/d17s07_ext.rpy:294
 translate chinese d17s07_ext_7f971d1e:
 
     # mc "So I'm going to be honest with you."
-    mc "So I'm going to be honest with you."
+    mc "所以我打算对你说实话。"
 
 # game/code/d17/extended/d17s07_ext.rpy:295
 translate chinese d17s07_ext_4907a0fd:
 
     # mc "I'm sorry. I...don't feel the same way."
-    mc "I'm sorry. I...don't feel the same way."
+    mc "抱歉。我...没有同样的感觉。"
 
 # game/code/d17/extended/d17s07_ext.rpy:299
 translate chinese d17s07_ext_183895fa:
 
     # jf "Uhm... Thank you."
-    jf "Uhm... Thank you."
+    jf "呃...谢谢。"
 
 # game/code/d17/extended/d17s07_ext.rpy:301
 translate chinese d17s07_ext_9b36ef1f:
 
     # jf "I...I appreciate your honesty."
-    jf "I...I appreciate your honesty."
+    jf "我...谢谢你的诚实。"
 
 # game/code/d17/extended/d17s07_ext.rpy:302
 translate chinese d17s07_ext_8422dc2b:
 
     # jf "*Sniffling* Can we still be friends?"
-    jf "*Sniffling* Can we still be friends?"
+    jf "*吸鼻子* 我们还能做朋友吗？"
 
 # game/code/d17/extended/d17s07_ext.rpy:304
 translate chinese d17s07_ext_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然可以。"
 
 # game/code/d17/extended/d17s07_ext.rpy:315
 translate chinese d17s07_ext_38f31db5:
 
     # jf "*Sniffling and giggling* I'm so glad. I'm {i}{b}so{/b}{/i} glad."
-    jf "*Sniffling and giggling* I'm so glad. I'm {i}{b}so{/b}{/i} glad."
+    jf "*流泪加傻笑*我很高兴。 真的{i}{b}很{/b}{/i}高兴。"
 
 # game/code/d17/extended/d17s07_ext.rpy:317
 translate chinese d17s07_ext_25d45362:
 
     # mc "I'm glad too, but you're also kinda suffocating me."
-    mc "I'm glad too, but you're also kinda suffocating me."
+    mc "我也高兴，但你也快让我窒息了。"
 
 # game/code/d17/extended/d17s07_ext.rpy:319
 translate chinese d17s07_ext_77c50657:
 
     # jf "Oh! I'm so sorry!"
-    jf "Oh! I'm so sorry!"
+    jf "哦！抱歉！"
 
 # game/code/d17/extended/d17s07_ext.rpy:321
 translate chinese d17s07_ext_30c9edb8:
 
     # jf "I was just...really excited."
-    jf "I was just...really excited."
+    jf "我只是...非常兴奋。"
 
 # game/code/d17/extended/d17s07_ext.rpy:323
 translate chinese d17s07_ext_337f794f:
