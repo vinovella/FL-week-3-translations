@@ -442,198 +442,198 @@ translate chinese d17s07_ext_30c9edb8:
 translate chinese d17s07_ext_337f794f:
 
     # mc "*Chuckling* I could tell."
-    mc "*Chuckling* I could tell."
+    mc "*嗤笑* 我看得出来。"
 
 # game/code/d17/extended/d17s07_ext.rpy:325
 translate chinese d17s07_ext_6b242045:
 
     # jf "This also really makes this next part much easier."
-    jf "This also really makes this next part much easier."
+    jf "这也让接下来变得容易多了。"
 
 # game/code/d17/extended/d17s07_ext.rpy:327
 translate chinese d17s07_ext_3b64f817:
 
     # mc "Next part? How many parts are there?"
-    mc "Next part? How many parts are there?"
+    mc "接下来？还有什么？"
 
 # game/code/d17/extended/d17s07_ext.rpy:329
 translate chinese d17s07_ext_773c6a26:
 
     # jf "*Chuckling* Just one more."
-    jf "*Chuckling* Just one more."
+    jf "*嗤笑* 还有一个部分。"
 
 # game/code/d17/extended/d17s07_ext.rpy:331
 translate chinese d17s07_ext_9fc91e94:
 
     # jf "I told you about my aunt, right?"
-    jf "I told you about my aunt, right?"
+    jf "我跟你说过我姑姑吧？"
 
 # game/code/d17/extended/d17s07_ext.rpy:332
 translate chinese d17s07_ext_9637fff8:
 
     # jf "Well, I'm her closest living relative."
-    jf "Well, I'm her closest living relative."
+    jf "嗯，我是她最亲近的人。"
 
 # game/code/d17/extended/d17s07_ext.rpy:334
 translate chinese d17s07_ext_464bb70e:
 
     # jf "The letter didn't just tell me that she died, it also was a summons to accept her inheritance."
-    jf "The letter didn't just tell me that she died, it also was a summons to accept her inheritance."
+    jf "那封信不仅是告知我她的死亡，也传唤我接受她的遗产。"
 
 # game/code/d17/extended/d17s07_ext.rpy:335
 translate chinese d17s07_ext_d23f732d:
 
     # jf "I'm getting her farm estate!"
-    jf "I'm getting her farm estate!"
+    jf "我要得到她的农场了！"
 
 # game/code/d17/extended/d17s07_ext.rpy:337
 translate chinese d17s07_ext_2f9b64c6:
 
     # mc "That's great! Wait, is it?"
-    mc "That's great! Wait, is it?"
+    mc "太好了! 等等，真的吗？"
 
 # game/code/d17/extended/d17s07_ext.rpy:444
 translate chinese d17s07_ext_709ab2b7:
 
     # jf "I wasn't sure at first, but I thought about it some more and, yeah, I think it's great!"
-    jf "I wasn't sure at first, but I thought about it some more and, yeah, I think it's great!"
+    jf "我一开始不确定，但又想了一下，嗯，我觉得很好！"
 
 # game/code/d17/extended/d17s07_ext.rpy:340
 translate chinese d17s07_ext_5daa645e:
 
     # jf "I have no motivation to continue studying, and am quickly running out of space for my cosplay suits."
-    jf "I have no motivation to continue studying, and am quickly running out of space for my cosplay suits."
+    jf "我没有继续学习的动力了，而且我的cos服很快就没地方放了。"
 
 # game/code/d17/extended/d17s07_ext.rpy:344
 translate chinese d17s07_ext_e4c75b8a:
 
     # jf "Something like this might be just what I need to set up my workshop properly!"
-    jf "Something like this might be just what I need to set up my workshop properly!"
+    jf "这封信可能正是我需要的，我可以考虑建个工作室！"
 
 # game/code/d17/extended/d17s07_ext.rpy:346
 translate chinese d17s07_ext_87986acb:
 
     # mc "That sounds great. I can help you look into the tax situation and get—"
-    mc "That sounds great. I can help you look into the tax situation and get—"
+    mc "听起来不错。我可以帮你研究下税收情况，再--"
 
 # game/code/d17/extended/d17s07_ext.rpy:348
 translate chinese d17s07_ext_29373da5:
 
     # jf "That's actually what I wanted to talk to you about."
-    jf "That's actually what I wanted to talk to you about."
+    jf "这其实就是我想和你谈的。"
 
 # game/code/d17/extended/d17s07_ext.rpy:349
 translate chinese d17s07_ext_05372161:
 
     # jf "Well, not taxes. Just... I want you to come with me."
-    jf "Well, not taxes. Just... I want you to come with me."
+    jf "嗯，我不是指税收情况。只是... 我想让你跟我一起。"
 
 # game/code/d17/extended/d17s07_ext.rpy:351
 translate chinese d17s07_ext_fcb94f49:
 
     # mc "Come with you?"
-    mc "Come with you?"
+    mc "和你一起去？"
 
 # game/code/d17/extended/d17s07_ext.rpy:353
 translate chinese d17s07_ext_be8bb26e:
 
     # jf "I don't want to do this without you. I know that it's a lot to ask like this..."
-    jf "I don't want to do this without you. I know that it's a lot to ask like this..."
+    jf "没有你，我不想做这事。我知道这样的要求很过分..."
 
 # game/code/d17/extended/d17s07_ext.rpy:354
 translate chinese d17s07_ext_8160456f:
 
     # jf "And I would understand if you didn't want to.{w} But I want you to come with me."
-    jf "And I would understand if you didn't want to.{w} But I want you to come with me."
+    jf "如果你不愿意，我也会理解。{w} 我只是希望你能和我一起。"
 
 # game/code/d17/extended/d17s07_ext.rpy:360
 translate chinese d17s07_ext_9beec032:
 
     # mct "This feels right. This feels crazy, but this feels right."
-    mct "This feels right. This feels crazy, but this feels right."
+    mct "我觉得这样是对的。虽然感觉很疯狂，但这样是对的。"
 
 # game/code/d17/extended/d17s07_ext.rpy:361
 translate chinese d17s07_ext_d62594f3:
 
     # mct "And I want to see where it goes."
-    mct "And I want to see where it goes."
+    mct "我也想看看事情走向如何。"
 
 # game/code/d17/extended/d17s07_ext.rpy:363
 translate chinese d17s07_ext_78ce128a:
 
     # mc "Okay. I'll come with you."
-    mc "Okay. I'll come with you."
+    mc "好吧，我和你一起去。"
 
 # game/code/d17/extended/d17s07_ext.rpy:367
 translate chinese d17s07_ext_0febd879:
 
     # jf "I love you so much."
-    jf "I love you so much."
+    jf "我好爱你。"
 
 # game/code/d17/extended/d17s07_ext.rpy:373
 translate chinese d17s07_ext_77f52e5e:
 
     # mc "Jessie I...I can't. I want to, I want to be able to. But I just can't."
-    mc "Jessie I...I can't. I want to, I want to be able to. But I just can't."
+    mc "杰西...我不行。我心里想，打心眼里希望能陪你一起。可我做不到。"
 
 # game/code/d17/extended/d17s07_ext.rpy:374
 translate chinese d17s07_ext_8bc22afc:
 
     # mc "I have too many responsibilities here. Too many people that I care about."
-    mc "I have too many responsibilities here. Too many people that I care about."
+    mc "我在这里有太多责任。太多我关心的人。"
 
 # game/code/d17/extended/d17s07_ext.rpy:375
 translate chinese d17s07_ext_2ad2b903:
 
     # mc "Not to mention my finals.{w} I just... I can't. I'm sorry."
-    mc "Not to mention my finals.{w} I just... I can't. I'm sorry."
+    mc "更不用说我的期末考试了。{w}我... 不可以。对不起。"
 
 # game/code/d17/extended/d17s07_ext.rpy:377
 translate chinese d17s07_ext_35c9c7cc:
 
     # jf "It's okay. There's nothing to be sorry about. I understand."
-    jf "It's okay. There's nothing to be sorry about. I understand."
+    jf "没关系。没什么可抱歉的。我理解。"
 
 # game/code/d17/extended/d17s07_ext.rpy:378
 translate chinese d17s07_ext_62f27c95:
 
     # jf "But... I think I will be going. I don't want to stay here anymore, [mcname]."
-    jf "But... I think I will be going. I don't want to stay here anymore, [mcname]."
+    jf "但是...我想我要走了。我不想再呆在这里了，[mcname]."
 
 # game/code/d17/extended/d17s07_ext.rpy:380
 translate chinese d17s07_ext_83495ed0:
 
     # mc "I understand."
-    mc "I understand."
+    mc "我理解。"
 
 # game/code/d17/extended/d17s07_ext.rpy:381
 translate chinese d17s07_ext_08de1fb5:
 
     # mc "Promise to stay in touch?"
-    mc "Promise to stay in touch?"
+    mc "你保证会保持联系？"
 
 # game/code/d17/extended/d17s07_ext.rpy:383
 translate chinese d17s07_ext_c18eff2f:
 
     # jf "Of course! You're not getting rid of me that easily."
-    jf "Of course! You're not getting rid of me that easily."
+    jf "当然! 你没那么容易摆脱我。"
 
 # game/code/d17/extended/d17s07_ext.rpy:394
 translate chinese d17s07_end_cf220f30:
 
     # mct "Looks like I got [d17s07_points] points."
-    mct "Looks like I got [d17s07_points] points."
+    mct "看来我得到了[d17s07_points]点数。"
 
 translate chinese strings:
 
     # game/code/d17/extended/d17s07_ext.rpy:285
     old "I think I'm in love with you too"
-    new "I think I'm in love with you too"
+    new "我想我也爱上了你"
 
     # game/code/d17/extended/d17s07_ext.rpy:285
     old "Let her down"
-    new "Let her down"
+    new "让她失望"
 
     # game/code/d17/extended/d17s07_ext.rpy:355
     old "Agree to go with her"
-    new "Agree to go with her"
+    new "同意跟她走"
