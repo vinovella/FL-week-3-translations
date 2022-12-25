@@ -66,3 +66,51 @@ translate portuguese strings:
     old "Ending 13: Pregnant Nora"
     new ""
 
+# TODO: Translation updated at 2022-12-26 00:31
+
+translate portuguese strings:
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 17: Iona"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 17: Lyssa"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Bring Stacy with you"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 18: Dahlia & Samiya"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 18: Cynthia"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 19: Lydia's Dungeon"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 19: Stacy & Lyssa"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "You need to date Dahlia"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "You need to date Daisy"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 19: Stacy"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 20: Stacy & AmRose"
+    new ""
+

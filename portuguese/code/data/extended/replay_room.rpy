@@ -274,3 +274,11 @@ translate portuguese strings:
     old "Ending 10: Min & Nari"
     new ""
 
+# TODO: Translation updated at 2022-12-26 00:31
+
+translate portuguese strings:
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 10: Montage"
+    new ""
+

@@ -38,3 +38,15 @@ translate portuguese strings:
     old "Coming Soon"
     new ""
 
+# TODO: Translation updated at 2022-12-26 00:31
+
+translate portuguese strings:
+
+    # game/code/screens/extended/screens_fl.rpy:32
+    old "Ending not implemented yet"
+    new ""
+
+    # game/code/screens/extended/screens_fl.rpy:38
+    old "You haven't unlocked this ending"
+    new ""
+
