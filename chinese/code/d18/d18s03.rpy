@@ -4,133 +4,133 @@
 translate chinese d18s03_ec5dba5c:
 
     # mc "Hey Minnie."
-    mc "Hey Minnie."
+    mc "嘿，明儿。"
 
 # game/code/d18/d18s03.rpy:63
 translate chinese d18s03_c57f559c:
 
     # mes "Don't call me that.{w} Did you bring...{w} cheese?"
-    mes "Don't call me that.{w} Did you bring...{w} cheese?"
+    mes "别这么叫我。{w}你有没有带...{w}奶酪？"
 
 # game/code/d18/d18s03.rpy:65
 translate chinese d18s03_9631dfec:
 
     # mc "The best I could find."
-    mc "The best I could find."
+    mc "当然，这是我能找到的最好的了。"
 
 # game/code/d18/d18s03.rpy:67
 translate chinese d18s03_da2ccb3e:
 
     # mes "You know I'm lactose intolerant, right?"
-    mes "You know I'm lactose intolerant, right?"
+    mes "你知道我乳糖不耐的吧？"
 
 # game/code/d18/d18s03.rpy:69
 translate chinese d18s03_b34166f2:
 
     # mc "Seriously?! I didn't-"
-    mc "Seriously?! I didn't-"
+    mc "真的吗！？我不--"
 
 # game/code/d18/d18s03.rpy:71
 translate chinese d18s03_61a3b8b5:
 
     # mes "I'm just messing with you.{w} Although, my mother was killed by a giant cheese wheel."
-    mes "I'm just messing with you.{w} Although, my mother was killed by a giant cheese wheel."
+    mes "跟你开玩笑啦。{w}虽然我妈妈死于一个巨大的奶酪圈。"
 
 # game/code/d18/d18s03.rpy:73
 translate chinese d18s03_130495f6:
 
     # mc "Now I know you're joking."
-    mc "Now I know you're joking."
+    mc "现在我知道你在开玩笑。"
 
 # game/code/d18/d18s03.rpy:75
 translate chinese d18s03_3ae3eefb:
 
     # mes "German beer festivals can get out of control."
-    mes "German beer festivals can get out of control."
+    mes "德国啤酒节可能会失控。"
 
 # game/code/d18/d18s03.rpy:77
 translate chinese d18s03_fb7bcec0:
 
     # mc "Well, this gouda claims to be from Holland..."
-    mc "Well, this gouda claims to be from Holland..."
+    mc "嗯，这个奶酪号称是荷兰产的..."
 
 # game/code/d18/d18s03.rpy:79
 translate chinese d18s03_31732d27:
 
     # mes "Correction. The smoked gouda you brought is from {b}the{/b} province of South Holland in the Netherlands."
-    mes "Correction. The smoked gouda you brought is from {b}the{/b} province of South Holland in the Netherlands."
+    mes "更正一下。你带来的烟熏奶酪来自荷兰的南荷兰{b}省{/b}。"
 
 # game/code/d18/d18s03.rpy:81
 translate chinese d18s03_678ea6fa:
 
     # mc "Are you planning on busting my balls all day today?"
-    mc "Are you planning on busting my balls all day today?"
+    mc "你打算今天一整天都跟我开玩笑吗？"
 
 # game/code/d18/d18s03.rpy:83
 translate chinese d18s03_01a28e6c:
 
     # mes "If you're lucky.{w} Although I was serious about not calling me, \"Minnie\"."
-    mes "If you're lucky.{w} Although I was serious about not calling me, \"Minnie\"."
+    mes "如果你运气好的话。{w}虽然关于不叫我\"明儿\"，我是认真的。"
 
 # game/code/d18/d18s03.rpy:85
 translate chinese d18s03_a7f2d2d2:
 
     # mc "Noted. Neither the mouse nor small in stature."
-    mc "Noted. Neither the mouse nor small in stature."
+    mc "我知道了。不开玩笑了。"
 
 # game/code/d18/d18s03.rpy:87
 translate chinese d18s03_a8cc2905:
 
     # mes "You did well. This is one of my favorites."
-    mes "You did well. This is one of my favorites."
+    mes "你做得很好。这是我的最爱之一。"
 
 # game/code/d18/d18s03.rpy:89
 translate chinese d18s03_019e500b:
 
     # mc "Well, it was either that or wine - and I figured you are particular about your wine."
-    mc "Well, it was either that or wine - and I figured you are particular about your wine."
+    mc "嗯，要么这个，要么是酒--你对你的酒好像很讲究。"
 
 # game/code/d18/d18s03.rpy:91
 translate chinese d18s03_2093761c:
 
     # mes "I am. I know just the right Malbec to pair with this."
-    mes "I am. I know just the right Malbec to pair with this."
+    mes "是的。我知道哪款马尔贝克酒适合搭配这一款。"
 
 # game/code/d18/d18s03.rpy:95
 translate chinese d18s03_a91ab50d:
 
     # mc "So, your mom...?"
-    mc "So, your mom...?"
+    mc "那你妈妈...？"
 
 # game/code/d18/d18s03.rpy:97
 translate chinese d18s03_2f74d4bf:
 
     # mes "Oh, she's perfectly healthy. I don't think she's ever even been to Germany."
-    mes "Oh, she's perfectly healthy. I don't think she's ever even been to Germany."
+    mes "哦，她很健康。她应该还没去过德国。"
 
 # game/code/d18/d18s03.rpy:99
 translate chinese d18s03_a72c4b3e:
 
     # mc "Any other family tragedies I should know about?"
-    mc "Any other family tragedies I should know about?"
+    mc "还有别的我应该知道的家庭悲伤故事吗？"
 
 # game/code/d18/d18s03.rpy:101
 translate chinese d18s03_6dc107af:
 
     # mes "My brother is working for our father. They're both overseas somewhere these days.{w} South Korea, probably."
-    mes "My brother is working for our father. They're both overseas somewhere these days.{w} South Korea, probably."
+    mes "我哥哥在为我们的父亲工作。他们最近都在国外。{w}可能是韩国。"
 
 # game/code/d18/d18s03.rpy:102
 translate chinese d18s03_83a8823b:
 
     # mes "Mom's currently visiting Tokyo."
-    mes "Mom's currently visiting Tokyo."
+    mes "妈妈目前在东京访问。"
 
 # game/code/d18/d18s03.rpy:104
 translate chinese d18s03_1103ab79:
 
     # mc "So, you're all alone?"
-    mc "So, you're all alone?"
+    mc "也就是说，你是一个人？"
 
 # game/code/d18/d18s03.rpy:106
 translate chinese d18s03_6ca8a528:
