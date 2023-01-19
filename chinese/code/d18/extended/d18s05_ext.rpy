@@ -4,217 +4,217 @@
 translate chinese d18s05_ext_0d9b52ab:
 
     # mct "You spin me right 'round, baby right 'round, like a record, baby..."
-    mct "You spin me right 'round, baby right 'round, like a record, baby..."
+    mct "宝贝，你抱着我旋转了整整一圈，宝贝，一圈就像一张光盘..."
 
 # game/code/d18/extended/d18s05_ext.rpy:69
 translate chinese d18s05_ext_e88c3bd3:
 
     # mct "What the fuck?"
-    mct "What the fuck?"
+    mct "什么鬼？"
 
 # game/code/d18/extended/d18s05_ext.rpy:91
 translate chinese d18s05_ext_e36172dc:
 
     # mc "Pete, what the fuck are you doing?"
-    mc "Pete, what the fuck are you doing?"
+    mc "皮特，你他妈在干嘛？"
 
 # game/code/d18/extended/d18s05_ext.rpy:101
 translate chinese d18s05_ext_2356b882:
 
     # sb "Look at what you just did! You got me all dirty."
-    sb "Look at what you just did! You got me all dirty."
+    sb "看看你刚才做了什么！把我弄得脏兮兮的。"
 
 # game/code/d18/extended/d18s05_ext.rpy:104
 translate chinese d18s05_ext_57e77cd0:
 
     # mc "And you came on my fucking pants!"
-    mc "And you came on my fucking pants!"
+    mc "你他妈还在我裤子上射了！"
 
 # game/code/d18/extended/d18s05_ext.rpy:107
 translate chinese d18s05_ext_96540db5:
 
     # pb "S-Sorry, fuck, I didn't really mean to."
-    pb "S-Sorry, fuck, I didn't really mean to."
+    pb "对-对不起，靠，我不是故意的。"
 
 # game/code/d18/extended/d18s05_ext.rpy:110
 translate chinese d18s05_ext_1ffd481b:
 
     # sb "Apologize by fixing your mistake. You were supposed to tell me when you were gonna cum."
-    sb "Apologize by fixing your mistake. You were supposed to tell me when you were gonna cum."
+    sb "通过实际行动道歉吧。你应该告诉我你什么时候会射。"
 
 # game/code/d18/extended/d18s05_ext.rpy:112
 translate chinese d18s05_ext_83da4356:
 
     # sb "Now get on all fours and clean your dirty load off me and eat me out."
-    sb "Now get on all fours and clean your dirty load off me and eat me out."
+    sb "现在跪在地上，把你的脏东西从我身上清理掉，然后舔我小穴。"
 
 # game/code/d18/extended/d18s05_ext.rpy:115
 translate chinese d18s05_ext_20e9106d:
 
     # pb "Yes, Mistress. Gladly."
-    pb "Yes, Mistress. Gladly."
+    pb "遵命，女主人。乐意之至。"
 
 # game/code/d18/extended/d18s05_ext.rpy:132
 translate chinese d18s05_ext_e2a4e5b8:
 
     # mc "What the fuck is going on here? \"Mistress\"?"
-    mc "What the fuck is going on here? \"Mistress\"?"
+    mc "这他妈是怎么回事？\"女主人\"?"
 
 # game/code/d18/extended/d18s05_ext.rpy:135
 translate chinese d18s05_ext_8d200d45:
 
     # sb "Did you not tell him? Tisk, tisk."
-    sb "Did you not tell him? Tisk, tisk."
+    sb "你没告诉他吗？啧啧。"
 
 # game/code/d18/extended/d18s05_ext.rpy:137
 translate chinese d18s05_ext_f15275b0:
 
     # sb "Pete here has willingly given himself to me and has become my little boy-toy, to care for and do with as I please."
-    sb "Pete here has willingly given himself to me and has become my little boy-toy, to care for and do with as I please."
+    sb "皮特心甘情愿地把自己交给我，成了我的小玩伴，任我摆布。"
 
 # game/code/d18/extended/d18s05_ext.rpy:140
 translate chinese d18s05_ext_e0ae9d2d:
 
     # sb "Isn't that right?"
-    sb "Isn't that right?"
+    sb "不是吗？"
 
 # game/code/d18/extended/d18s05_ext.rpy:143
 translate chinese d18s05_ext_d8f15f97:
 
     # pb "Yes, Mistress."
-    pb "Yes, Mistress."
+    pb "正是，女主人。"
 
 # game/code/d18/extended/d18s05_ext.rpy:146
 translate chinese d18s05_ext_69a6df63:
 
     # mc "I... *Exasperated sigh* Sure. Fine. Good for you two."
-    mc "I... *Exasperated sigh* Sure. Fine. Good for you two."
+    mc "我... *气愤地叹口气* 行吧，可以。你们俩真不错。"
 
 # game/code/d18/extended/d18s05_ext.rpy:147
 translate chinese d18s05_ext_48aa6509:
 
     # mc "But did you really have to cum all over the entire fucking apartment, man? It's gonna smell like cum in here for months."
-    mc "But did you really have to cum all over the entire fucking apartment, man? It's gonna smell like cum in here for months."
+    mc "但你真的有必要把整个公寓射得到处都是吗？这里几个月都会有精液的味道。"
 
 # game/code/d18/extended/d18s05_ext.rpy:150
 translate chinese d18s05_ext_3fee1eb1:
 
     # sb "To be honest, your dorm already smelled like cum, so nothing will change there."
-    sb "To be honest, your dorm already smelled like cum, so nothing will change there."
+    sb "说实话，你的宿舍已经有精液的味道了，所以不会有什么变化。"
 
 # game/code/d18/extended/d18s05_ext.rpy:152
 translate chinese d18s05_ext_00764d53:
 
     # sb "But he'll still clean up after himself, won't he?"
-    sb "But he'll still clean up after himself, won't he?"
+    sb "但他还是会自己打扫的，对吧？"
 
 # game/code/d18/extended/d18s05_ext.rpy:155
 translate chinese d18s05_ext_0b222aa7:
 
     # pb "I'll clean it up!"
-    pb "I'll clean it up!"
+    pb "我会打扫的！"
 
 # game/code/d18/extended/d18s05_ext.rpy:157
 translate chinese d18s05_ext_f0a783f8:
 
     # mct "Pete cleaning up after himself? Huh, maybe this might actually be a good development."
-    mct "Pete cleaning up after himself? Huh, maybe this might actually be a good development."
+    mct "皮特自己打扫？呵，也许这真是个好消息呢。"
 
 # game/code/d18/extended/d18s05_ext.rpy:160
 translate chinese d18s05_ext_1cd279e4:
 
     # mc "*Chuckles* Kinda fucking hilarious that some dumb spinning chair move I made up has somehow gotten to even you two."
-    mc "*Chuckles* Kinda fucking hilarious that some dumb spinning chair move I made up has somehow gotten to even you two."
+    mc "*嗤笑* 真他妈搞笑，我编的旋转椅蠢动作，不知怎么连你们俩都知道了。"
 
 # game/code/d18/extended/d18s05_ext.rpy:163
 translate chinese d18s05_ext_6a98e6ea:
 
     # sb "What do you mean?"
-    sb "What do you mean?"
+    sb "什么意思？"
 
 # game/code/d18/extended/d18s05_ext.rpy:166
 translate chinese d18s05_ext_2bf392c6:
 
     # mc "Jerking off while spinning in a chair to get light-headed. I was the first one to do that."
-    mc "Jerking off while spinning in a chair to get light-headed. I was the first one to do that."
+    mc "一边在椅子上打转一边打飞机，以让自己头晕目眩。我是第一个这么做的人。"
 
 # game/code/d18/extended/d18s05_ext.rpy:169
 translate chinese d18s05_ext_faa42600:
 
     # sb "Seriously?"
-    sb "Seriously?"
+    sb "真的吗？"
 
 # game/code/d18/extended/d18s05_ext.rpy:172
 translate chinese d18s05_ext_1fb5cd3c:
 
     # pb "Damn, dude, you're famous! It's all over the Fetish Feed."
-    pb "Damn, dude, you're famous! It's all over the Fetish Feed."
+    pb "靠，老兄，你出名了！软件上到处都是这个。"
 
 # game/code/d18/extended/d18s05_ext.rpy:175
 translate chinese d18s05_ext_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/d18/extended/d18s05_ext.rpy:178
 translate chinese d18s05_ext_a17f9d18:
 
     # sb "We were looking for some new fetishes to do for that Fetish Locator app thing and saw that spinning chair move."
-    sb "We were looking for some new fetishes to do for that Fetish Locator app thing and saw that spinning chair move."
+    sb "我们正在为性趣探测器软件寻找新的性癖，看到了那个转椅动作。"
 
 # game/code/d18/extended/d18s05_ext.rpy:182
 translate chinese d18s05_ext_dd43feb8:
 
     # sb "A lot of people were doing it and it looked fun, so we decided to try it out. Interesting that you came up with it."
-    sb "A lot of people were doing it and it looked fun, so we decided to try it out. Interesting that you came up with it."
+    sb "很多人都在做这个动作，看起来很有趣，所以我们决定尝试一下。真有意思，你想出了这个办法。"
 
 # game/code/d18/extended/d18s05_ext.rpy:184
 translate chinese d18s05_ext_80a4aeed:
 
     # sb "*Moans* You've gotten better at this."
-    sb "*Moans* You've gotten better at this."
+    sb "*呻吟* 你的功夫变得更厉害了。"
 
 # game/code/d18/extended/d18s05_ext.rpy:189
 translate chinese d18s05_ext_11dfcb2a:
 
     # mct "Oh, don't mind me. Please continue."
-    mct "Oh, don't mind me. Please continue."
+    mct "嘿，别管我。请继续。"
 
 # game/code/d18/extended/d18s05_ext.rpy:191
 translate chinese d18s05_ext_278ddde7:
 
     # sb "Stop, get up and show me your penis."
-    sb "Stop, get up and show me your penis."
+    sb "停，站起来，给我看你的鸡巴。"
 
 # game/code/d18/extended/d18s05_ext.rpy:196
 translate chinese d18s05_ext_60199fed:
 
     # sb "*Snorts* He's still out of commission, huh?"
-    sb "*Snorts* He's still out of commission, huh?"
+    sb "*不满的哼声* 他这还是不在状态吧？"
 
 # game/code/d18/extended/d18s05_ext.rpy:199
 translate chinese d18s05_ext_7ee0cab6:
 
     # pb "I'm sorry, Mistress."
-    pb "I'm sorry, Mistress."
+    pb "对不起，女主人。"
 
 # game/code/d18/extended/d18s05_ext.rpy:202
 translate chinese d18s05_ext_50f85b12:
 
     # pb "Uh, maybe he can take my place, Mistress."
-    pb "Uh, maybe he can take my place, Mistress."
+    pb "呃，也许他可以代替我的位置，女主人。"
 
 # game/code/d18/extended/d18s05_ext.rpy:206
 translate chinese d18s05_ext_643a2b29:
 
     # sb "I'm fine with it. What do you say?"
-    sb "I'm fine with it. What do you say?"
+    sb "我没意见。你怎么说？"
 
 # game/code/d18/extended/d18s05_ext.rpy:209
 translate chinese d18s05_ext_1185f6a6:
 
     # mc "What exactly do you want from me?"
-    mc "What exactly do you want from me?"
+    mc "你到底想从我这里得到什么？"
 
 # game/code/d18/extended/d18s05_ext.rpy:212
 translate chinese d18s05_ext_8c4f8c0d:
