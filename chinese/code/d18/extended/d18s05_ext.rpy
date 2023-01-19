@@ -220,485 +220,485 @@ translate chinese d18s05_ext_1185f6a6:
 translate chinese d18s05_ext_8c4f8c0d:
 
     # sb "I'm horny and I need someone to fuck me. Mr. Flaccid here can't get it up right now, so he's offering you up instead."
-    sb "I'm horny and I need someone to fuck me. Mr. Flaccid here can't get it up right now, so he's offering you up instead."
+    sb "我欲火焚身，需要有人来操我。我们的软JJ先生现在没法勃起，所以他推荐了你。"
 
 # game/code/d18/extended/d18s05_ext.rpy:219
 translate chinese d18s05_ext_d06b3207:
 
     # mc "Sure. I'm ready to go anytime."
-    mc "Sure. I'm ready to go anytime."
+    mc "当然，我随时都可以。"
 
 # game/code/d18/extended/d18s05_ext.rpy:222
 translate chinese d18s05_ext_28faf18e:
 
     # sb "Perfect."
-    sb "Perfect."
+    sb "很好。"
 
 # game/code/d18/extended/d18s05_ext.rpy:224
 translate chinese d18s05_ext_0f97ddd9:
 
     # sb "And you, I want to stand near the wall and jerk off that flaccid cock of yours while you watch him fuck me, understood?"
-    sb "And you, I want to stand near the wall and jerk off that flaccid cock of yours while you watch him fuck me, understood?"
+    sb "还有你，在你看他操我的时候，我要站在墙边，给你那软JJ好好撸撸，明白吗?"
 
 # game/code/d18/extended/d18s05_ext.rpy:227
 translate chinese d18s05_ext_d8f15f97_1:
 
     # pb "Yes, Mistress."
-    pb "Yes, Mistress."
+    pb "明白，女主人。"
 
 # game/code/d18/extended/d18s05_ext.rpy:234
 translate chinese d18s05_ext_11d08885:
 
     # mc "Yeah, sorry. But I'm not interested"
-    mc "Yeah, sorry. But I'm not interested"
+    mc "啊，对不起。我不感兴趣"
 
 # game/code/d18/extended/d18s05_ext.rpy:237
 translate chinese d18s05_ext_535545d3:
 
     # pb "Come on, man! Jus—"
-    pb "Come on, man! Jus—"
+    pb "来吧，伙计！就只用-"
 
 # game/code/d18/extended/d18s05_ext.rpy:240
 translate chinese d18s05_ext_4133720c:
 
     # sb "Hush. He said he isn't interested."
-    sb "Hush. He said he isn't interested."
+    sb "嘘。他说他不感兴趣。"
 
 # game/code/d18/extended/d18s05_ext.rpy:242
 translate chinese d18s05_ext_b9e01013:
 
     # sb "Put something on and call us a cab to my place. We can continue there."
-    sb "Put something on and call us a cab to my place. We can continue there."
+    sb "穿上衣服，给我们叫辆出租车到我家去。我们在那里继续。"
 
 # game/code/d18/extended/d18s05_ext.rpy:245
 translate chinese d18s05_ext_4907a6ba:
 
     # sb "Oh, and tell Dahlia to meet me there instead of here."
-    sb "Oh, and tell Dahlia to meet me there instead of here."
+    sb "哦，告诉黛丽娅在那里见我，不要在这。"
 
 # game/code/d18/extended/d18s05_ext.rpy:264
 translate chinese d18s05_sex_4facc25a:
 
     # sb "Yes... Fuck me as hard as you can."
-    sb "Yes... Fuck me as hard as you can."
+    sb "啊，就是这样... 尽你所能地操我。"
 
 # game/code/d18/extended/d18s05_ext.rpy:277
 translate chinese d18s05_sex_32c1bf8b:
 
     # sb "Yes! Yes! Harder, pound me harder!"
-    sb "Yes! Yes! Harder, pound me harder!"
+    sb "啊啊啊！用力！插的再深一点！"
 
 # game/code/d18/extended/d18s05_ext.rpy:303
 translate chinese d18s05_sex_cbc835f7:
 
     # dw "{i}{b}Ahem{/b}{/i}."
-    dw "{i}{b}Ahem{/b}{/i}."
+    dw "{i}{b}咳咳{/b}{/i}."
 
 # game/code/d18/extended/d18s05_ext.rpy:306
 translate chinese d18s05_sex_2f5b10fc:
 
     # sb "Oh, hey, Dahlia."
-    sb "Oh, hey, Dahlia."
+    sb "哦，嘿，黛丽娅。"
 
 # game/code/d18/extended/d18s05_ext.rpy:309
 translate chinese d18s05_sex_1dc30aa2:
 
     # dw "[mcname], I don't remember giving you permission to fuck Samiya."
-    dw "[mcname], I don't remember giving you permission to fuck Samiya."
+    dw "[mcname]，我记得好像没准许你操萨米亚啊。"
 
 # game/code/d18/extended/d18s05_ext.rpy:312
 translate chinese d18s05_sex_294637e6:
 
     # mc "Dah— I mean, Mistress, I— She—"
-    mc "Dah— I mean, Mistress, I— She—"
+    mc "黛--呃，女主人，我--她--"
 
 # game/code/d18/extended/d18s05_ext.rpy:315
 translate chinese d18s05_sex_bee79c5a:
 
     # sb "*Laughs* You're going to make him overheat."
-    sb "*Laughs* You're going to make him overheat."
+    sb "*笑*  你会让他热的发烫的。"
 
 # game/code/d18/extended/d18s05_ext.rpy:318
 translate chinese d18s05_sex_e62c707c:
 
     # dw "And you, aren't you tired of taking my men?"
-    dw "And you, aren't you tired of taking my men?"
+    dw "还有你，老是卷走我的人，你不累吗？"
 
 # game/code/d18/extended/d18s05_ext.rpy:321
 translate chinese d18s05_sex_1cc95c5d:
 
     # sb "I didn't know you two were exclusive."
-    sb "I didn't know you two were exclusive."
+    sb "我不知道你们俩是专属一对啊。"
 
 # game/code/d18/extended/d18s05_ext.rpy:323
 translate chinese d18s05_sex_7bfd5be2:
 
     # sb "My toy here was too flaccid to fuck me like I wanted, so he suggested [mcname] instead."
-    sb "My toy here was too flaccid to fuck me like I wanted, so he suggested [mcname] instead."
+    sb "我的小玩伴过于软塌塌了，不能满足我的需求呀，所以他建议[mcname]来替他。"
 
 # game/code/d18/extended/d18s05_ext.rpy:324
 translate chinese d18s05_sex_47c60f57:
 
     # sb "I asked [mcname] plainly, and he said, yes."
-    sb "I asked [mcname] plainly, and he said, yes."
+    sb "我直截了当地问[mcname]，他说，可以。"
 
 # game/code/d18/extended/d18s05_ext.rpy:327
 translate chinese d18s05_sex_faabca89:
 
     # dw "Oh, did he now?"
-    dw "Oh, did he now?"
+    dw "哦，是吗？"
 
 # game/code/d18/extended/d18s05_ext.rpy:330
 translate chinese d18s05_sex_a15c2108:
 
     # mc "I'm sorry, Mistress. I didn't—"
-    mc "I'm sorry, Mistress. I didn't—"
+    mc "对不起，主人。我没..."
 
 # game/code/d18/extended/d18s05_ext.rpy:333
 translate chinese d18s05_sex_49d8e551:
 
     # dw "Shh. I'm in a forgiving mood today. So I'll forgive you, but you will have to earn it."
-    dw "Shh. I'm in a forgiving mood today. So I'll forgive you, but you will have to earn it."
+    dw "嘘，我今天心情不错。所以我会原谅你，但你得自己去争取。"
 
 # game/code/d18/extended/d18s05_ext.rpy:335
 translate chinese d18s05_sex_3bcf32d0:
 
     # dw "Crawl to me and worship my feet."
-    dw "Crawl to me and worship my feet."
+    dw "爬到我这里来，跪拜在我脚下。"
 
 # game/code/d18/extended/d18s05_ext.rpy:338
 translate chinese d18s05_sex_7fd3a623:
 
     # mc "Yes, Mistress."
-    mc "Yes, Mistress."
+    mc "遵命，主人。"
 
 # game/code/d18/extended/d18s05_ext.rpy:345
 translate chinese d18s05_sex_c9aa8332:
 
     # sb "Aw, and now I don't have anyone to fuck me."
-    sb "Aw, and now I don't have anyone to fuck me."
+    sb "啊，现在没人操我了。"
 
 # game/code/d18/extended/d18s05_ext.rpy:349
 translate chinese d18s05_sex_03864990:
 
     # pb "Mistress..."
-    pb "Mistress..."
+    pb "女主人..."
 
 # game/code/d18/extended/d18s05_ext.rpy:353
 translate chinese d18s05_sex_0467280e:
 
     # sb "Oh? Did [mcname] worshiping her feet make you hard? Or was it seeing him fuck me while you couldn't?"
-    sb "Oh? Did [mcname] worshiping her feet make you hard? Or was it seeing him fuck me while you couldn't?"
+    sb "哦，[mcname]跪拜在她脚下让你硬了吗？还是因为看到他操我而你却不行？"
 
 # game/code/d18/extended/d18s05_ext.rpy:355
 translate chinese d18s05_sex_2a08c5a7:
 
     # sb "Doesn't matter, I suppose. Get that dick over here and fuck me. You know what will happen if you fail."
-    sb "Doesn't matter, I suppose. Get that dick over here and fuck me. You know what will happen if you fail."
+    sb "无所谓了。把鸡巴送过来操我。你知道如果你失败了会发生什么。"
 
 # game/code/d18/extended/d18s05_ext.rpy:359
 translate chinese d18s05_sex_57c29744:
 
     # pb "Yes, Mistress. I will do my best."
-    pb "Yes, Mistress. I will do my best."
+    pb "好的，主人。我会尽力的。"
 
 # game/code/d18/extended/d18s05_ext.rpy:380
 translate chinese d18s05_sex_9057efc9:
 
     # dw "How the hell did you turn him into a sub?"
-    dw "How the hell did you turn him into a sub?"
+    dw "你到底是怎么把他变成受的？"
 
 # game/code/d18/extended/d18s05_ext.rpy:384
 translate chinese d18s05_sex_e595ca08:
 
     # sb "Mmm, him? He came to me."
-    sb "Mmm, him? He came to me."
+    sb "他啊？他来找我的。"
 
 # game/code/d18/extended/d18s05_ext.rpy:387
 translate chinese d18s05_sex_eae04d0a:
 
     # sb "Harder. All that muscle and is this the best you can do?"
-    sb "Harder. All that muscle and is this the best you can do?"
+    sb "再用点力。你有那么多肌肉，这就是你的最佳水平吗？"
 
 # game/code/d18/extended/d18s05_ext.rpy:392
 translate chinese d18s05_sex_e70578a2:
 
     # dw "He came to you asked to be your sub? Surprising."
-    dw "He came to you asked to be your sub? Surprising."
+    dw "他来找你要求做你的奴隶？真是没想到。"
 
 # game/code/d18/extended/d18s05_ext.rpy:393
 translate chinese d18s05_sex_296b3dd9:
 
     # dw "Never would've taken a manly man like him to be a sub."
-    dw "Never would've taken a manly man like him to be a sub."
+    dw "没人会选择像他这么阳刚的男人来做奴隶。"
 
 # game/code/d18/extended/d18s05_ext.rpy:397
 translate chinese d18s05_sex_4fb80f38:
 
     # sb "Fuck, yes, yes!"
-    sb "Fuck, yes, yes!"
+    sb "操，还真是！"
 
 # game/code/d18/extended/d18s05_ext.rpy:400
 translate chinese d18s05_sex_e2ea486f:
 
     # sb "Hah! Never judge a book by its cover and all that."
-    sb "Hah! Never judge a book by its cover and all that."
+    sb "哈！永远不要以貌取人。"
 
 # game/code/d18/extended/d18s05_ext.rpy:405
 translate chinese d18s05_sex_1bab0303:
 
     # dw "I hope you didn't lose your energy on her. Now I'm getting horny as well."
-    dw "I hope you didn't lose your energy on her. Now I'm getting horny as well."
+    dw "希望你在她身上还留有精力。现在我也开始饥渴了。"
 
 # game/code/d18/extended/d18s05_ext.rpy:409
 translate chinese d18s05_sex_ee09b3a9:
 
     # mc "No, Mistress. I can keep going."
-    mc "No, Mistress. I can keep going."
+    mc "不会的，主人。我可以继续。"
 
 # game/code/d18/extended/d18s05_ext.rpy:412
 translate chinese d18s05_sex_e2ab959b:
 
     # dw "Good. Get in bed and lay down."
-    dw "Good. Get in bed and lay down."
+    dw "好。到床上去，然后躺下。"
 
 # game/code/d18/extended/d18s05_ext.rpy:435
 translate chinese d18s05_sex_209d8508:
 
     # dw "*Light moans* If nothing else, your dick is worth the trouble of keeping you around."
-    dw "*Light moans* If nothing else, your dick is worth the trouble of keeping you around."
+    dw "*轻柔的呻吟声*，如果不出意外的话，你的老二值得我把你留在身边。"
 
 # game/code/d18/extended/d18s05_ext.rpy:440
 translate chinese d18s05_sex_9566cc04:
 
     # mc "Thank you, Mistress."
-    mc "Thank you, Mistress."
+    mc "谢谢你，女主人。"
 
 # game/code/d18/extended/d18s05_ext.rpy:519
 translate chinese d18s05_sex_ca6b8b57:
 
     # mc "Mistress, I'm close!"
-    mc "Mistress, I'm close!"
+    mc "女主人，我快来了！"
 
 # game/code/d18/extended/d18s05_ext.rpy:523
 translate chinese d18s05_sex_6b3abdb9:
 
     # pb "Me too!"
-    pb "Me too!"
+    pb "我也是！"
 
 # game/code/d18/extended/d18s05_ext.rpy:526
 translate chinese d18s05_sex_c0313beb:
 
     # sb "In me!"
-    sb "In me!"
+    sb "射我里面！"
 
 # game/code/d18/extended/d18s05_ext.rpy:529
 translate chinese d18s05_sex_01d41846:
 
     # dw "On me! Don't you dare cum inside!"
-    dw "On me! Don't you dare cum inside!"
+    dw "射我身上！你敢给我射里面！"
 
 # game/code/d18/extended/d18s05_ext.rpy:550
 translate chinese d18s05_after_sex_7eb0b5dd:
 
     # sb "*Relaxed sigh* I needed that."
-    sb "*Relaxed sigh* I needed that."
+    sb "*放松的叹息* 我需要这样。"
 
 # game/code/d18/extended/d18s05_ext.rpy:553
 translate chinese d18s05_after_sex_af667783:
 
     # dw "Eh, I didn't cum, but I suppose it was still fun enough."
-    dw "Eh, I didn't cum, but I suppose it was still fun enough."
+    dw "呃，我没那么爽，但我想还是有点意思的。"
 
 # game/code/d18/extended/d18s05_ext.rpy:559
 translate chinese d18s05_after_sex_f679945d:
 
     # dw "What? What are you smirking about?"
-    dw "What? What are you smirking about?"
+    dw "干嘛？你在傻笑什么？"
 
 # game/code/d18/extended/d18s05_ext.rpy:562
 translate chinese d18s05_after_sex_60d72752:
 
     # sb "Nothing. Being a more relaxed dominant suits you."
-    sb "Nothing. Being a more relaxed dominant suits you."
+    sb "没什么。做个更放松的主宰者很适合你。"
 
 # game/code/d18/extended/d18s05_ext.rpy:565
 translate chinese d18s05_after_sex_6e8493ed:
 
     # dw "Just because I'm not screaming don't mean I've gotten soft."
-    dw "Just because I'm not screaming don't mean I've gotten soft."
+    dw "我没大声叫嚷并不意味着我脾气变好了。"
 
 # game/code/d18/extended/d18s05_ext.rpy:566
 translate chinese d18s05_after_sex_b9501852:
 
     # dw "And I have plenty of things I want to show my little pet. Just not here."
-    dw "And I have plenty of things I want to show my little pet. Just not here."
+    dw "我还有很多东西想让我的小宠物看看。只是不在这里罢了。"
 
 # game/code/d18/extended/d18s05_ext.rpy:569
 translate chinese d18s05_after_sex_7a87c2ef:
 
     # sb "*Chuckles* Right, right."
-    sb "*Chuckles* Right, right."
+    sb "*轻笑* 行吧行吧。"
 
 # game/code/d18/extended/d18s05_ext.rpy:572
 translate chinese d18s05_after_sex_abf3d735:
 
     # sb "Oh, perfect timing actually."
-    sb "Oh, perfect timing actually."
+    sb "哦，时机正好。"
 
 # game/code/d18/extended/d18s05_ext.rpy:573
 translate chinese d18s05_after_sex_e16297d8:
 
     # sb "Pete and I are going to the Caribbean."
-    sb "Pete and I are going to the Caribbean."
+    sb "皮特和我要去加勒比海。"
 
 # game/code/d18/extended/d18s05_ext.rpy:576
 translate chinese d18s05_after_sex_a4489dec:
 
     # dw "You what!?"
-    dw "You what!?"
+    dw "你要干嘛!?"
 
 # game/code/d18/extended/d18s05_ext.rpy:579
 translate chinese d18s05_after_sex_f87e0cc4:
 
     # sb "Calm down."
-    sb "Calm down."
+    sb "冷静点。"
 
 # game/code/d18/extended/d18s05_ext.rpy:580
 translate chinese d18s05_after_sex_d36f975d:
 
     # sb "I've been thinking about it for a bit now."
-    sb "I've been thinking about it for a bit now."
+    sb "我已经考虑了一段时间了。"
 
 # game/code/d18/extended/d18s05_ext.rpy:583
 translate chinese d18s05_after_sex_f26fa239:
 
     # sb "I hate this place. It's a fucking concrete jungle. I've always wanted to get the hell out of here."
-    sb "I hate this place. It's a fucking concrete jungle. I've always wanted to get the hell out of here."
+    sb "我讨厌这里。这他妈就是个水泥丛林。我一直都想离开这个鬼地方。"
 
 # game/code/d18/extended/d18s05_ext.rpy:584
 translate chinese d18s05_after_sex_7102ee2c:
 
     # sb "Now I've finally gotten enough saved up to do it."
-    sb "Now I've finally gotten enough saved up to do it."
+    sb "现在我终于攒够了钱，可以行动了。"
 
 # game/code/d18/extended/d18s05_ext.rpy:587
 translate chinese d18s05_after_sex_0ded540c:
 
     # dw "And he's coming with you? How long have you two even been together?"
-    dw "And he's coming with you? How long have you two even been together?"
+    dw "他要和你一起去？你们俩在一起多久了？"
 
 # game/code/d18/extended/d18s05_ext.rpy:590
 translate chinese d18s05_after_sex_fea7b848:
 
     # sb "Yes. And does it matter?"
-    sb "Yes. And does it matter?"
+    sb "对，一起去。那和在一起多久有关系吗？"
 
 # game/code/d18/extended/d18s05_ext.rpy:591
 translate chinese d18s05_after_sex_bdc0ec11:
 
     # sb "He knows {i}very{/i} well what will happen if he crosses me. So I trust him not to."
-    sb "He knows {i}very{/i} well what will happen if he crosses me. So I trust him not to."
+    sb "他{i}很{/i}清楚如果得罪我会有什么下场。所以我相信他不会这样。"
 
 # game/code/d18/extended/d18s05_ext.rpy:594
 translate chinese d18s05_after_sex_b585f519:
 
     # sb "Anyway. What I wanted to ask was whether you'd be interested in coming with me."
-    sb "Anyway. What I wanted to ask was whether you'd be interested in coming with me."
+    sb "不话说回来。我想问的是你有没有兴趣和我一起去。"
 
 # game/code/d18/extended/d18s05_ext.rpy:595
 translate chinese d18s05_after_sex_00e0185b:
 
     # sb "Your boy-toy can come as well if you want."
-    sb "Your boy-toy can come as well if you want."
+    sb "如果你愿意，你的男宠也可以来。"
 
 # game/code/d18/extended/d18s05_ext.rpy:598
 translate chinese d18s05_after_sex_b61e361e:
 
     # dw "I... Huh."
-    dw "I... Huh."
+    dw "我...呵。"
 
 # game/code/d18/extended/d18s05_ext.rpy:601
 translate chinese d18s05_after_sex_d6e7046c:
 
     # dw "What do you think?"
-    dw "What do you think?"
+    dw "你觉得怎么样？"
 
 # game/code/d18/extended/d18s05_ext.rpy:604
 translate chinese d18s05_after_sex_2485f494:
 
     # mc "I..."
-    mc "I..."
+    mc "我..."
 
 # game/code/d18/extended/d18s05_ext.rpy:606
 translate chinese d18s05_after_sex_3110016f:
 
     # mct "Even without the exams and Fetish Locator, is this something I would actually want?"
-    mct "Even without the exams and Fetish Locator, is this something I would actually want?"
+    mct "即使没有考试和恋物癖定位器，这是我真正想要的吗？"
 
 # game/code/d18/extended/d18s05_ext.rpy:613
 translate chinese d18s05_after_sex_a771e1d4:
 
     # mc "I...wouldn't mind it."
-    mc "I...wouldn't mind it."
+    mc "我...不介意这样。"
 
 # game/code/d18/extended/d18s05_ext.rpy:616
 translate chinese d18s05_after_sex_0a62b2e5:
 
     # dw "Not minding it is different from wanting it."
-    dw "Not minding it is different from wanting it."
+    dw "不介意和想要可不一样。"
 
 # game/code/d18/extended/d18s05_ext.rpy:619
 translate chinese d18s05_after_sex_0cc8eeb4:
 
     # mc "Well...I want you. I want my, Mistress."
-    mc "Well...I want you. I want my, Mistress."
+    mc "嗯...我想要你。我想要我的，女主人。"
 
 # game/code/d18/extended/d18s05_ext.rpy:622
 translate chinese d18s05_after_sex_8ca67a59:
 
     # sb "Aw, well isn't that sweet."
-    sb "Aw, well isn't that sweet."
+    sb "哦，你的嘴真甜。"
 
 # game/code/d18/extended/d18s05_ext.rpy:628
 translate chinese d18s05_after_sex_74ad775a:
 
     # mc "I can't."
-    mc "I can't."
+    mc "我不行。"
 
 # game/code/d18/extended/d18s05_ext.rpy:629
 translate chinese d18s05_after_sex_b111288c:
 
     # mc "I have too much here to uproot it all and leave like that."
-    mc "I have too much here to uproot it all and leave like that."
+    mc "我在这里有太多依恋和责任，不能就这样甩袖子走人。"
 
 # game/code/d18/extended/d18s05_ext.rpy:632
 translate chinese d18s05_after_sex_032351fa:
 
     # sb "Reasonable enough. I don't have shit here and the only people I give half a shit about are in this room right now, so. Not much to lose on my end"
-    sb "Reasonable enough. I don't have shit here and the only people I give half a shit about are in this room right now, so. Not much to lose on my end"
+    sb "合情合理。我在这里什么都没有，而且我唯一在乎的人现在就在这房间里。所以对我来说损失不大"
 
 # game/code/d18/extended/d18s05_ext.rpy:635
 translate chinese d18s05_after_sex_63d5ae98:
 
     # dw "*Chuckles* That's about the same for me as well."
-    dw "*Chuckles* That's about the same for me as well."
+    dw "*轻笑* 我也差不多。"
 
 # game/code/d18/extended/d18s05_ext.rpy:638
 translate chinese d18s05_after_sex_268b612e:
 
     # dw "I need time to think about it. I might not have much here for me, but there are still things I need to sort out if I actually do this."
-    dw "I need time to think about it. I might not have much here for me, but there are still things I need to sort out if I actually do this."
+    dw "我需要时间考虑一下。我这里可能没有太多东西，但如果真的要走，还有一些事需要整理。"
 
 # game/code/d18/extended/d18s05_ext.rpy:641
 translate chinese d18s05_after_sex_fdd61d2f:
 
     # sb "Take your time."
-    sb "Take your time."
+    sb "慢慢来。"
 
 translate chinese strings:
 
     # game/code/d18/extended/d18s05_ext.rpy:213
     old "Fuck Samiya"
-    new "Fuck Samiya"
+    new "操萨米亚"
 
