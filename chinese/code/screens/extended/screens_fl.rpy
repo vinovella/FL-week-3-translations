@@ -42,3 +42,15 @@ translate chinese strings:
     old "Coming Soon"
     new "Coming Soon"
 
+# TODO: Translation updated at 2023-01-19 23:31
+
+translate chinese strings:
+
+    # game/code/screens/extended/screens_fl.rpy:32
+    old "Ending not implemented yet"
+    new ""
+
+    # game/code/screens/extended/screens_fl.rpy:38
+    old "You haven't unlocked this ending"
+    new ""
+

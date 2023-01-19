@@ -274,3 +274,11 @@ translate chinese strings:
     old "Ending 10: Min & Nari"
     new "Ending 10: Min & Nari"
 
+# TODO: Translation updated at 2023-01-19 23:31
+
+translate chinese strings:
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 10: Montage"
+    new ""
+

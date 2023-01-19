@@ -702,3 +702,11 @@ translate chinese strings:
     old "Fuck Samiya"
     new "操萨米亚"
 
+# TODO: Translation updated at 2023-01-19 23:31
+
+# game/code/d18/extended/d18s05_ext.rpy:650
+translate chinese d18s05_after_sex_511784d8:
+
+    # dw "Good luck! I actually hope it works out for you guys!"
+    dw ""
+
