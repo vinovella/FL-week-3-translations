@@ -646,7 +646,7 @@ translate chinese d18s05_after_sex_a771e1d4:
 translate chinese d18s05_after_sex_0a62b2e5:
 
     # dw "Not minding it is different from wanting it."
-    dw "不介意和想要可不一样。"
+    dw "不介意和你想要可不一样。"
 
 # game/code/d18/extended/d18s05_ext.rpy:619
 translate chinese d18s05_after_sex_0cc8eeb4:
