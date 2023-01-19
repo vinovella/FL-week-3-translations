@@ -66,3 +66,99 @@ translate chinese strings:
     old "Ending 13: Pregnant Nora"
     new "Ending 13: Pregnant Nora"
 
+# TODO: Translation updated at 2023-01-19 23:50
+
+translate chinese strings:
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 15: Dahlia & Samiya"
+    new "Day 15: Dahlia & Samiya"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 15: Daisy"
+    new "Day 15: Daisy"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 17: Vanessa"
+    new "Day 17: Vanessa"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 17: Iona"
+    new "Day 17: Iona"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 17: Lyssa"
+    new "Day 17: Lyssa"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Bring Stacy with you"
+    new "Bring Stacy with you"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 17: Daisy"
+    new "Day 17: Daisy"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 17: Dahlia & Samiya"
+    new "Day 17: Dahlia & Samiya"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 17: Polly & Nora"
+    new "Day 17: Polly & Nora"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 17: Jessie"
+    new "Day 17: Jessie"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 18: Dahlia & Samiya"
+    new "Day 18: Dahlia & Samiya"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 18: Cynthia"
+    new "Day 18: Cynthia"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 19: Lydia's Dungeon"
+    new "Day 19: Lydia's Dungeon"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 19: Stacy & Lyssa"
+    new "Day 19: Stacy & Lyssa"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 19: Daisy"
+    new "Day 19: Daisy"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "You need to date Dahlia"
+    new "You need to date Dahlia"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 19: Dahlia"
+    new "Day 19: Dahlia"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "You need to date Daisy"
+    new "You need to date Daisy"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 19: Stacy"
+    new "Day 19: Stacy"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 19: Lyssa"
+    new "Day 19: Lyssa"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 20: Stacy & AmRose"
+    new "Day 20: Stacy & AmRose"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 20: Min"
+    new "Day 20: Min"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Ending 10: Min"
+    new "Ending 10: Min"
+

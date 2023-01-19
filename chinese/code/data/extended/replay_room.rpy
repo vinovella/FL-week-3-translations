@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
+﻿# TODO: Translation updated at 2023-01-19 23:50
 
 translate chinese strings:
 
@@ -19,16 +19,8 @@ translate chinese strings:
     new "Needlessly tight restriction"
 
     # game/code/data/extended/replay_room.rpy:15
-    old "Day 15: Daisy"
-    new "Day 15: Daisy"
-
-    # game/code/data/extended/replay_room.rpy:15
     old "Kiss Daisy"
     new "Kiss Daisy"
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Day 15: Dahlia & Samiya"
-    new "Day 15: Dahlia & Samiya"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't take credit"
@@ -70,10 +62,6 @@ translate chinese strings:
     old "Day 16: Spinning Chair"
     new "Day 16: Spinning Chair"
 
-# TODO: Translation updated at 2022-12-13 23:31
-
-translate chinese strings:
-
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Lydia & AmRose LC Path"
     new "Day 17: Lydia & AmRose LC Path"
@@ -81,10 +69,6 @@ translate chinese strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Lydia & AmRose NTR Path"
     new "Day 17: Lydia & AmRose NTR Path"
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Day 17: Vanessa"
-    new "Day 17: Vanessa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Hana"
@@ -99,24 +83,8 @@ translate chinese strings:
     new "Day 17: Lyssa Domination"
 
     # game/code/data/extended/replay_room.rpy:15
-    old "Day 17: Daisy"
-    new "Day 17: Daisy"
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Day 17: Dahlia & Samiya"
-    new "Day 17: Dahlia & Samiya"
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Day 17: Polly & Nora"
-    new "Day 17: Polly & Nora"
-
-    # game/code/data/extended/replay_room.rpy:15
     old "Don't creampie Nora"
     new "Don't creampie Nora"
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Day 17: Jessie"
-    new "Day 17: Jessie"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Stacy"
@@ -169,18 +137,6 @@ translate chinese strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Lydia NTR Flashback"
     new "Day 19: Lydia NTR Flashback"
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Day 19: Lyssa"
-    new "Day 19: Lyssa"
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Day 19: Daisy"
-    new "Day 19: Daisy"
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Day 19: Dahlia"
-    new "Day 19: Dahlia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Masturbate"
@@ -247,10 +203,6 @@ translate chinese strings:
     new "Day 20: Kevin & Chloe"
 
     # game/code/data/extended/replay_room.rpy:15
-    old "Day 20: Min"
-    new "Day 20: Min"
-
-    # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Oliver"
     new "Day 20: Oliver"
 
@@ -263,22 +215,10 @@ translate chinese strings:
     new "Day 20: Polly & Nora"
 
     # game/code/data/extended/replay_room.rpy:15
-    old "Day 20: Iona Video"
-    new "Day 20: Iona Video"
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Ending 10: Min"
-    new "Ending 10: Min"
+    old "Ending 10: Montage"
+    new "Ending 10: Montage"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 10: Min & Nari"
     new "Ending 10: Min & Nari"
-
-# TODO: Translation updated at 2023-01-19 23:31
-
-translate chinese strings:
-
-    # game/code/data/extended/replay_room.rpy:15
-    old "Ending 10: Montage"
-    new ""
 
