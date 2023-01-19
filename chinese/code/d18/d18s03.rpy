@@ -382,7 +382,7 @@ translate chinese d18s03_fd66f41e:
 translate chinese d18s03_df0cf6bc:
 
     # mes "What?! You're kidding me!!!"
-    mes 什么?! 你在开玩笑!!!"
+    mes "什么?! 你在开玩笑!!!"
 
 # game/code/d18/d18s03.rpy:200
 translate chinese d18s03_d91d93d0:
@@ -1432,7 +1432,7 @@ translate chinese d18s03_sex_c7804123:
 translate chinese d18s03_sex_d6711339:
 
     # mes "Anyway and everyway that his perverse mind could dream of?{w} Right here? In my own house?"
-    mes "就任由他对我为所欲为，做什么都可以？{w} 就在这里？在我自己房子里？""
+    mes "就任由他对我为所欲为，做什么都可以？{w} 就在这里？在我自己房子里？"
 
 # game/code/d18/d18s03.rpy:720
 translate chinese d18s03_sex_2034c056:
@@ -1450,7 +1450,7 @@ translate chinese d18s03_sex_f736c0a1:
 translate chinese d18s03_sex_b73ccbf7:
 
     # mc "Fuck no.{w} You're mine and I'm not sharing you with anyone."
-    mc ""他妈的当然不行。{w}你是我的，我不会与任何人共享你。"
+    mc "他妈的当然不行。{w}你是我的，我不会与任何人共享你。"
 
 # game/code/d18/d18s03.rpy:730
 translate chinese d18s03_sex_ac9e3733:
@@ -1751,4 +1751,3 @@ translate chinese strings:
     # game/code/d18/d18s03.rpy:710
     old "No. Definitely NOT"
     new "不，绝对不行"
-

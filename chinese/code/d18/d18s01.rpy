@@ -442,7 +442,7 @@ translate chinese d18s01_shower_83085384:
 translate chinese d18s01_shower_ffcf7d5a:
 
     # lc "You're the first and only."
-    lc "你是第一个，也是唯一一个。
+    lc "你是第一个，也是唯一一个。"
 
 # game/code/d18/d18s01.rpy:186
 translate chinese d18s01_shower_58fbc973:
@@ -898,7 +898,7 @@ translate chinese d18s01_shower_ntr_c7aab6d4:
 translate chinese d18s01_shower_ntr_3c558b4a:
 
     # mc "No! I fell asleep!!!"
-    mc 不是！我睡着了!!!"
+    mc "不是！我睡着了!!!"
 
 # game/code/d18/d18s01.rpy:321
 translate chinese d18s01_shower_ntr_c6f5a916:
@@ -1313,4 +1313,3 @@ translate chinese strings:
     # game/code/d18/d18s01.rpy:14
     old "Thursday\nDay-18"
     new "周四\n第18天"
-

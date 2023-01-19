@@ -160,7 +160,7 @@ translate chinese d18s08_887f8589:
 translate chinese d18s08_0e872b16:
 
     # "Both" "Yep."
-    "两人" "是的。
+    "两人" "是的。"
 
 # game/code/d18/d18s08.rpy:79
 translate chinese d18s08_a4707eed:
@@ -269,4 +269,3 @@ translate chinese d18s08_a2f0bfe0:
 
     # hr "Let's go find the new professor. We don't have time to waste."
     hr "我们去找新教授吧。没时间可以浪费了。"
-

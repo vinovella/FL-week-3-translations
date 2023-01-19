@@ -538,7 +538,7 @@ translate chinese d18s04_4067e6ce:
 translate chinese d18s04_80394ff3:
 
     # vw "I'm the one that's sorry. I'm the one that messed everything up."
-    vw "我才是要说对不起的人。是我把一切都搞砸了。
+    vw "我才是要说对不起的人。是我把一切都搞砸了。"
 
 # game/code/d18/d18s04.rpy:357
 translate chinese d18s04_bd119a99:
@@ -1145,4 +1145,3 @@ translate chinese strings:
     # game/code/d18/d18s04.rpy:382
     old "Remind Them You Are There"
     new "提醒她们你也在"
-
