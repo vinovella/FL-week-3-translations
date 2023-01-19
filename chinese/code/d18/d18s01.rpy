@@ -586,7 +586,7 @@ translate chinese d18s01_shower_9c6839c8:
 translate chinese d18s01_shower_8b94327f:
 
     # mc "Fetish Locator has a VIP Program.{w}.. and I've teamed up with some other people to win the $$1kk prize."
-    mc "性趣探测器有个VIP计划。{w}...我和别人合作，赢得了1百万美元奖金。"
+    mc "性趣探测器有个VIP计划{w}...我和别人合作，赢得了1百万美元奖金。"
 
 # game/code/d18/d18s01.rpy:225
 translate chinese d18s01_shower_687e69d2:
