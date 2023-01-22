@@ -1259,4 +1259,3 @@ translate portuguese d17s05ms_be58e169:
 
     # mh "Well, I'm glad."
     mh ""
-

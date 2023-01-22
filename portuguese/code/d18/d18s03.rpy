@@ -70,7 +70,7 @@ translate portuguese d18s03_678ea6fa:
 translate portuguese d18s03_01a28e6c:
 
     # mes "If you're lucky.{w} Although I was serious about not calling me, \"Minnie\"."
-    mes "Se você tiver essa sorte.{w} Mas eu estava falando sério quando falei para não me chamar de \"Minnie"."
+    mes "Se você tiver essa sorte.{w} Mas eu estava falando sério quando falei para não me chamar de \"Minnie\"."
 
 # game/code/d18/d18s03.rpy:104
 translate portuguese d18s03_a7f2d2d2:
@@ -1751,4 +1751,3 @@ translate portuguese strings:
     # game/code/d18/d18s03.rpy:996
     old "No. Definitely NOT"
     new "Não. Definitivamente NÃO"
-

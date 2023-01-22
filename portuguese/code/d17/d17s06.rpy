@@ -34,7 +34,7 @@ translate portuguese d17s06_aa1f0924:
 translate portuguese d17s06_c8493c79:
 
     # mct "Dahlia is at the amusement park and expects me to meet her there."
-    mct "Dahlia tá no parque de diversão e quer que eu a encontre lá.\"
+    mct "Dahlia tá no parque de diversão e quer que eu a encontre lá."
 
 # game/code/d17/d17s06.rpy:40
 translate portuguese d17s06_9819c11e:
@@ -105,4 +105,3 @@ translate portuguese strings:
     # game/code/d17/d17s06.rpy:51
     old "Go back to studying"
     new "Voltar a estudar"
-
