@@ -1180,3 +1180,23 @@ translate russian d19s06mes_6edb2059:
     # cl "Oh fuck yes."
     cl "Oh fuck yes."
 
+# TODO: Translation updated at 2023-02-01 00:21
+
+# game/code/d19/d19s06mes.rpy:674
+translate russian d19s06mes_a19ae317:
+
+    # cl "It's going to pee on me. How is that magnificent?"
+    cl "It's going to pee on me. How is that magnificent?"
+
+# game/code/d19/d19s06mes.rpy:677
+translate russian d19s06mes_a6c1de56:
+
+    # mes "He's not just going to pee on you. Open your mouth wide, now!"
+    mes "He's not just going to pee on you. Open your mouth wide, now!"
+
+translate russian strings:
+
+    # game/code/d19/d19s06mes.rpy:220
+    old "Do you want to see watersports?"
+    new "Do you want to see watersports?"
+

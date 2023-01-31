@@ -293,3 +293,15 @@ translate russian strings:
     old "Did you give the password to Hana?"
     new "Did you give the password to Hana?"
 
+# TODO: Translation updated at 2023-02-01 00:21
+
+translate russian strings:
+
+    # game/code/screens/screens_fl.rpy:40
+    old "Ending not implemented yet"
+    new "Ending not implemented yet"
+
+    # game/code/screens/screens_fl.rpy:46
+    old "You haven't unlocked this ending"
+    new "You haven't unlocked this ending"
+

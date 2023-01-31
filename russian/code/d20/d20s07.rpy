@@ -1622,3 +1622,11 @@ translate russian strings:
     old "Go home"
     new "Go home"
 
+# TODO: Translation updated at 2023-02-01 00:21
+
+# game/code/d20/d20s07.rpy:756
+translate russian d20s07_last_show_b9af505f:
+
+    # nk "You think they will do that?"
+    nk "You think they will do that?"
+

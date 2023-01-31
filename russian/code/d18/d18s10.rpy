@@ -752,3 +752,11 @@ translate russian d18s10_lc_reveal_51ffbe39:
     # mct "Lydia has been manipulating me through the VIP Program???"
     mct "Лидия манипулировала мной через VIP-программу???"
 
+# TODO: Translation updated at 2023-02-01 00:21
+
+translate russian strings:
+
+    # game/code/d18/d18s10.rpy:226
+    old "What is your darkest fantasy about Lydia?"
+    new "What is your darkest fantasy about Lydia?"
+

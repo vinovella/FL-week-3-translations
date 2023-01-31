@@ -2224,3 +2224,11 @@ translate russian strings:
     old "Whip Them Both Together"
     new "Whip Them Both Together"
 
+# TODO: Translation updated at 2023-02-01 00:21
+
+# game/code/d20/d20s02tl.rpy:243
+translate russian d20s02tl_pray_62f090f2:
+
+    # mc "Finally, surrender yourself to my teaching."
+    mc "Finally, surrender yourself to my teaching."
+
