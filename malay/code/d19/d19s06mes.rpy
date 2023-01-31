@@ -1146,3 +1146,23 @@ translate malay d19s06mes_ac9adf42:
     # mes "I haven't had that much fun since she went into the Pandora room."
     mes "I haven't had that much fun since she went into the Pandora room."
 
+# TODO: Translation updated at 2023-02-01 00:18
+
+# game/code/d19/d19s06mes.rpy:674
+translate malay d19s06mes_a19ae317:
+
+    # cl "It's going to pee on me. How is that magnificent?"
+    cl "It's going to pee on me. How is that magnificent?"
+
+# game/code/d19/d19s06mes.rpy:677
+translate malay d19s06mes_a6c1de56:
+
+    # mes "He's not just going to pee on you. Open your mouth wide, now!"
+    mes "He's not just going to pee on you. Open your mouth wide, now!"
+
+translate malay strings:
+
+    # game/code/d19/d19s06mes.rpy:220
+    old "Do you want to see watersports?"
+    new "Do you want to see watersports?"
+

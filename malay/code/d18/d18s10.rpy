@@ -750,3 +750,11 @@ translate malay d18s10_end_1da49de8_1:
     # mct "I can't even."
     mct "I can't even."
 
+# TODO: Translation updated at 2023-02-01 00:18
+
+translate malay strings:
+
+    # game/code/d18/d18s10.rpy:226
+    old "What is your darkest fantasy about Lydia?"
+    new "What is your darkest fantasy about Lydia?"
+

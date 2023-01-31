@@ -74,3 +74,19 @@ translate malay strings:
     old "ENDINGS"
     new "ENDINGS"
 
+# TODO: Translation updated at 2023-02-01 00:18
+
+translate malay strings:
+
+    # game/code/screens/extended/screens.rpy:96
+    old "Support us on Patreon"
+    new "Support us on Patreon"
+
+    # game/code/screens/extended/screens.rpy:97
+    old "Join us on Discord"
+    new "Join us on Discord"
+
+    # game/code/screens/extended/screens.rpy:98
+    old "Quit Game"
+    new "Quit Game"
+

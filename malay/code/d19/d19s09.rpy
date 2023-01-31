@@ -940,3 +940,17 @@ translate malay strings:
     old "Switch"
     new "Switch"
 
+# TODO: Translation updated at 2023-02-01 00:18
+
+# game/code/d19/d19s09.rpy:988
+translate malay d19s09_end_8a44ad0b:
+
+    # sy "I want to go back to the server room... to see exactly what they were doing."
+    sy "I want to go back to the server room... to see exactly what they were doing."
+
+# game/code/d19/d19s09.rpy:989
+translate malay d19s09_end_9cc11ce7:
+
+    # sy "It's... actually kinda interesting. Whoever built it wasn't completely dumb."
+    sy "It's... actually kinda interesting. Whoever built it wasn't completely dumb."
+
