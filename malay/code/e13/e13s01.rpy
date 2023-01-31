@@ -6,3 +6,11 @@ translate malay strings:
     old "Ending 13"
     new "Ending 13"
 
+# TODO: Translation updated at 2023-01-31 17:16
+
+translate Malay strings:
+
+    # game/code/e13/e13s01.rpy:14
+    old "Ending 13"
+    new "Ending 13"
+
