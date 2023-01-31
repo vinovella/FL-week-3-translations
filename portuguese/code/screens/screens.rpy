@@ -354,3 +354,11 @@ translate portuguese strings:
     old "Menu"
     new ""
 
+# TODO: Translation updated at 2023-01-31 17:12
+
+translate portuguese strings:
+
+    # game/code/screens/screens.rpy:354
+    old "Endings"
+    new ""
+

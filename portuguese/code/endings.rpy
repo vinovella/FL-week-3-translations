@@ -1,148 +1,88 @@
-﻿# TODO: Translation updated at 2022-11-22 23:46
+﻿# TODO: Translation updated at 2023-01-31 17:12
 
-# game/code/endings.rpy:12
-translate portuguese ending_07_984be117:
-
-    # "This ending will be implemented later."
-    ""
-
-# game/code/endings.rpy:13
-translate portuguese ending_07_8ffd33e4:
-
-    # "You can save the game here and experience this ending once it will be implemented!"
-    ""
-
-# game/code/endings.rpy:28
-translate portuguese ending_10_984be117:
+# game/code/endings.rpy:250
+translate portuguese ending_not_available_984be117:
 
     # "This ending will be implemented later."
     ""
 
-# game/code/endings.rpy:29
-translate portuguese ending_10_8ffd33e4:
-
-    # "You can save the game here and experience this ending once it will be implemented!"
-    ""
-
-# game/code/endings.rpy:44
-translate portuguese ending_11_984be117:
-
-    # "This ending will be implemented later."
-    ""
-
-# game/code/endings.rpy:45
-translate portuguese ending_11_8ffd33e4:
-
-    # "You can save the game here and experience this ending once it will be implemented!"
-    ""
-
-# game/code/endings.rpy:60
-translate portuguese ending_12_984be117:
-
-    # "This ending will be implemented later."
-    ""
-
-# game/code/endings.rpy:61
-translate portuguese ending_12_8ffd33e4:
-
-    # "You can save the game here and experience this ending once it will be implemented!"
-    ""
-
-# game/code/endings.rpy:77
-translate portuguese ending_13_858bcbec:
-
-    # "This ending is available in the Extended Edition of FL Week 3."
-    ""
-
-# game/code/endings.rpy:78
-translate portuguese ending_13_a7276431:
-
-    # "You can save the game here and experience this ending in the Extended Edition!"
-    ""
-
-# game/code/endings.rpy:96
-translate portuguese ending_14_984be117:
-
-    # "This ending will be implemented later."
-    ""
-
-# game/code/endings.rpy:97
-translate portuguese ending_14_8ffd33e4:
-
-    # "You can save the game here and experience this ending once it will be implemented!"
-    ""
-
-# game/code/endings.rpy:110
-translate portuguese ending_16_984be117:
-
-    # "This ending will be implemented later."
-    ""
-
-# game/code/endings.rpy:111
-translate portuguese ending_16_8ffd33e4:
-
-    # "You can save the game here and experience this ending once it will be implemented!"
-    ""
-
-# game/code/endings.rpy:126
-translate portuguese ending_17_984be117:
-
-    # "This ending will be implemented later."
-    ""
-
-# game/code/endings.rpy:127
-translate portuguese ending_17_8ffd33e4:
-
-    # "You can save the game here and experience this ending once it will be implemented!"
-    ""
-
-# game/code/endings.rpy:140
-translate portuguese ending_18_984be117:
-
-    # "This ending will be implemented later."
-    ""
-
-# game/code/endings.rpy:141
-translate portuguese ending_18_8ffd33e4:
+# game/code/endings.rpy:251
+translate portuguese ending_not_available_8ffd33e4:
 
     # "You can save the game here and experience this ending once it will be implemented!"
     ""
 
 translate portuguese strings:
 
-    # game/code/endings.rpy:6
-    old "Ending #7"
+    # game/code/endings.rpy:4
+    old "Ending #1\nS&M Studio"
     new ""
 
-    # game/code/endings.rpy:22
-    old "Ending #10"
+    # game/code/endings.rpy:20
+    old "Ending #2\nLyssa Runaway"
     new ""
 
-    # game/code/endings.rpy:38
-    old "Ending #11"
+    # game/code/endings.rpy:33
+    old "Ending #3\nTwo Girls Two Dicks"
     new ""
 
-    # game/code/endings.rpy:54
-    old "Ending #12"
+    # game/code/endings.rpy:46
+    old "Ending #4\n[mcname]'s Sex Dungeon'"
     new ""
 
-    # game/code/endings.rpy:71
-    old "Ending #13"
+    # game/code/endings.rpy:59
+    old "Ending #5\nSausage Party"
     new ""
 
-    # game/code/endings.rpy:90
-    old "Ending #14"
+    # game/code/endings.rpy:72
+    old "Ending #6\nQueen's Harem"
     new ""
 
-    # game/code/endings.rpy:104
-    old "Ending #16"
+    # game/code/endings.rpy:85
+    old "Ending #7\nA New Chair"
     new ""
 
-    # game/code/endings.rpy:120
-    old "Ending #17"
+    # game/code/endings.rpy:98
+    old "Ending #8\nMy Happy Ginger Family"
     new ""
 
-    # game/code/endings.rpy:134
-    old "Ending #18"
+    # game/code/endings.rpy:114
+    old "Ending #09\nFetish Locator Rebooted"
+    new ""
+
+    # game/code/endings.rpy:128
+    old "Ending #10\nRunaway"
+    new ""
+
+    # game/code/endings.rpy:144
+    old "Ending #11\nRed Diamond"
+    new ""
+
+    # game/code/endings.rpy:157
+    old "Ending #12\nMothers & Daughters"
+    new ""
+
+    # game/code/endings.rpy:171
+    old "Ending #13\nPregnant Nora"
+    new ""
+
+    # game/code/endings.rpy:187
+    old "Ending #14\nPolly & Nora"
+    new ""
+
+    # game/code/endings.rpy:200
+    old "Ending #15\nWaterfall"
+    new ""
+
+    # game/code/endings.rpy:213
+    old "Ending #16\nBreeding Ponies"
+    new ""
+
+    # game/code/endings.rpy:226
+    old "Ending #17\nNot Guilty"
+    new ""
+
+    # game/code/endings.rpy:239
+    old "Ending #18\nQuartet"
     new ""
 
