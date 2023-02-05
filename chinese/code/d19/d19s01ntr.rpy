@@ -4,7 +4,7 @@
 translate chinese d19s01ntr_bef95491:
 
     # mc "Huh?{w} What?!{w} Where am I?"
-    mc "啊？{w}怎么回事{w}我在哪？"
+    mc "啊？{w}怎么回事?!{w}我在哪？"
 
 # game/code/d19/d19s01ntr.rpy:28
 translate chinese d19s01ntr_1de62988:
@@ -46,7 +46,7 @@ translate chinese d19s01ntr_044bb933:
 translate chinese d19s01ntr_6c1f8f67:
 
     # mc "What the fuck is going on here?"
-    mc "这他妈是怎么回事？?"
+    mc "这他妈是怎么回事？"
 
 # game/code/d19/d19s01ntr.rpy:45
 translate chinese d19s01ntr_659c72ed:
@@ -220,7 +220,7 @@ translate chinese d19s01ntr_continue_3504e0f5:
 translate chinese d19s01ntr_continue_f4a6da17:
 
     # lc "While Min danced to my perversions and your friends fell into my grasp you were nowhere to be found."
-    lc "当明随着我的变态起舞，而你的朋友们落入我手中时，你却无处可寻。"
+    lc "当明随着我的变态起舞，你的朋友们也落入我手中时，你却无处可寻。"
 
 # game/code/d19/d19s01ntr.rpy:136
 translate chinese d19s01ntr_continue_55af8b90:
@@ -232,13 +232,13 @@ translate chinese d19s01ntr_continue_55af8b90:
 translate chinese d19s01ntr_continue_66767435:
 
     # mct "My friends? Min? I don't understand..."
-    mct "我朋友？明？我不明白..."
+    mct "我朋友？还有明？我不明白..."
 
 # game/code/d19/d19s01ntr.rpy:140
 translate chinese d19s01ntr_continue_53db33b7:
 
     # lc "I didn't specifically target your little friends. Like so many others they fell willingly into my trap.{w} I think they'll like it here."
-    lc "我没有特别针对你的小伙伴。他们和其他人一样，心甘情愿地落入我的陷阱。{w}我想他们会喜欢这里的。"
+    lc "我没有特别针对你的小伙伴。他们和其他人一样，都是心甘情愿地落入我的陷阱。{w}我想他们会喜欢这里的。"
 
 # game/code/d19/d19s01ntr.rpy:141
 translate chinese d19s01ntr_continue_a11d55c8:
@@ -262,7 +262,7 @@ translate chinese d19s01ntr_continue_12f51939:
 translate chinese d19s01ntr_continue_8fb1ce95:
 
     # lc "I know what you're thinking. What about my little gimp, Jerome?"
-    lc "我知道你在想什么。那我的小奸人杰罗姆呢？"
+    lc "我知道你在想什么。那我的小狗腿杰罗姆呢？"
 
 # game/code/d19/d19s01ntr.rpy:147
 translate chinese d19s01ntr_continue_0e7e6f43:
@@ -274,7 +274,7 @@ translate chinese d19s01ntr_continue_0e7e6f43:
 translate chinese d19s01ntr_continue_06d5d9c4:
 
     # lc "It was all calculated.{w} You never even realized the theme of that party, did you?"
-    lc "这都是经过计算的。{w}你根本不知道那个派对的主题是什么吧？"
+    lc "这都是谋划好的的。{w}你根本不知道那个派对的主题是什么吧？"
 
 # game/code/d19/d19s01ntr.rpy:150
 translate chinese d19s01ntr_continue_a4925949:
@@ -388,7 +388,7 @@ translate chinese d19s01ntr_continue_a40b5d13:
 translate chinese d19s01ntr_continue_b33c222c:
 
     # lc "*sigh* Release his mouth so he can speak."
-    lc "*叹息* 放开他的嘴，让他说话。"
+    lc "*叹气* 放开他的嘴，让他说话。"
 
 # game/code/d19/d19s01ntr.rpy:184
 translate chinese d19s01ntr_continue_3311073f:
@@ -622,7 +622,7 @@ translate chinese d19s01ntr_decision_2f065d13:
 translate chinese d19s01ntr_decision_ae5ec326:
 
     # mc "Yes, Mistress. I have decided."
-    mc "是的，女主人。我已经决定了。"
+    mc "是的，主人。我已经决定了。"
 
 # game/code/d19/d19s01ntr.rpy:297
 translate chinese d19s01ntr_decision_765104a8:
@@ -676,7 +676,7 @@ translate chinese d19s01ntr_end_d1acc24f:
 translate chinese d19s01ntr_end_30a22e70:
 
     # mc "Oh no.{w} Is it time to \"Bring Out the Gimp\"?"
-    mc "不是吧。{w} 是时候\"把奸人带出来\"了吗？"
+    mc "不是吧。{w} 是时候\"把狗腿子带出来\"了吗？"
 
 # game/code/d19/d19s01ntr.rpy:324
 translate chinese d19s01ntr_end_1bdeabce:
