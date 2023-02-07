@@ -724,7 +724,7 @@ translate chinese d19s01ntr_end_8d42ed45:
 translate chinese d19s01ntr_end_27003b76:
 
     # mc "I feel just like Moses.{w} Freeing the slaves."
-    mc "我觉得自己就像摩西。{w}解放奴隶。
+    mc "我觉得自己就像摩西。{w}解放奴隶。"
 
 # game/code/d19/d19s01ntr.rpy:361
 translate chinese d19s01ntr_end_66638917:
@@ -1081,4 +1081,3 @@ translate chinese d19s01ntr_decision_e1a0041c:
 
     # lc "You see... Whom?"
     lc "你看...是谁？"
-
