@@ -598,7 +598,7 @@ translate portuguese d18s05_after_sex_fea7b848:
 translate portuguese d18s05_after_sex_bdc0ec11:
 
     # sb "He knows {i}very{/i} well what will happen if he crosses me. So I trust him not to."
-    sb "Ele sabe {i}{/i} bem o que vai acontecer se fizer merda comigo. Então confio que não o faça."
+    sb "Ele sabe {i}muito{/i} bem o que vai acontecer se fizer merda comigo. Então confio que não o faça."
 
 # game/code/d18/extended/d18s05_ext.rpy:598
 translate portuguese d18s05_after_sex_b585f519:
