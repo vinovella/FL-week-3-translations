@@ -208,7 +208,7 @@ translate chinese d19s04dd_0d83a2c9:
 translate chinese d19s04dd_2910e0c0:
 
     # dd "OAOoaoaoaoaoaoaAA!!!"
-    dd 嗷嗷嗷啊--啊啊啊啊!!!"
+    dd "嗷嗷嗷啊--啊啊啊啊!!!"
 
 # game/code/d19/d19s04dd.rpy:219
 translate chinese d19s04dd_f2ce3a58:
@@ -634,7 +634,7 @@ translate chinese d19s04dd_plushie_88e6cc57:
 translate chinese d19s04dd_plushie_92c94d21:
 
     # dd "Yeah, they pay out 2-1. It's a dozen numbers, but not technically a third of the board because-"
-    dd 是的，比率是2-1。这是一打数字，但严格来说还不到轮盘的三分之一，因为--"
+    dd "是的，比率是2-1。这是一打数字，但严格来说还不到轮盘的三分之一，因为--"
 
 # game/code/d19/d19s04dd.rpy:395
 translate chinese d19s04dd_plushie_aa0e8881:
@@ -952,7 +952,7 @@ translate chinese d19s04dd_plushie_f8ce1c74:
 translate chinese d19s04dd_plushie_85f81af2:
 
     # dd "Can we not talk about this right now? I'm trying to talk to [mcname]."
-    dd "我们现在能不谈这个吗？我正试着和[mcname]谈谈。
+    dd "我们现在能不谈这个吗？我正试着和[mcname]谈谈。"
 
 # game/code/d19/d19s04dd.rpy:505
 translate chinese d19s04dd_plushie_c8561570:
@@ -1121,4 +1121,3 @@ translate chinese strings:
     # game/code/d19/d19s04dd.rpy:521
     old "I need time to think"
     new "我需要时间思考"
-
