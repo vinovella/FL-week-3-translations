@@ -28,7 +28,7 @@ translate portuguese d18s04_8aaa3db5:
 translate portuguese d18s04_c5e0d6aa:
 
     # vw "How do you want me?"
-    vw "Como você em quer?"
+    vw "Como você me quer?"
 
 # game/code/d18/d18s04.rpy:97
 translate portuguese d18s04_2dc8a1cd:
@@ -238,7 +238,7 @@ translate portuguese d18s04_700cd10e:
 translate portuguese d18s04_4451cda1:
 
     # mc "Because she's a cock hungry, sex-crazed slut, and I had to get her in a position to {i}truly{/i} listen to your side of things."
-    mc "Porque ela é uma vadia fomenta por pau, e eu tive que colocar ela nessa posição pra te ouvir {i}de verdade {/i} o seu lado."
+    mc "Porque ela é uma vadia fomenta por pau, e eu tive que colocar ela nessa posição pra ouvir {i}de verdade {/i} o seu lado."
 
 # game/code/d18/d18s04.rpy:226
 translate portuguese d18s04_c8eef0ca:
@@ -310,7 +310,7 @@ translate portuguese d18s04_c28fd43c:
 translate portuguese d18s04_d11f2731:
 
     # aw "All because you were afraid of a young girl exploring her sexuality."
-    aw "Tudo poque você tinha medo de uma garota jovem explorando sua sexualidade."
+    aw "Tudo porque você tinha medo de uma garota jovem explorando sua sexualidade."
 
 # game/code/d18/d18s04.rpy:264
 translate portuguese d18s04_abfdbdbf:
