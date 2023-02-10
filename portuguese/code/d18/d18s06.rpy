@@ -478,7 +478,7 @@ translate portuguese d18s06_dd422714:
 translate portuguese d18s06_b82b80f4:
 
     # hr "How did I get teamed up with the 3 Stooges?"
-    hr "Como oque eu consegui vir junto dos três patetas?"
+    hr "Como que eu consegui vir junto dos três patetas?"
 
 # game/code/d18/d18s06.rpy:243
 translate portuguese d18s06_03ddde42:
