@@ -152,7 +152,7 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:734
     old "Lyssa Romance or BDSM?"
-    new "Лисса Романтика или BDSM?"
+    new "Лисса   Романтика или BDSM?"
 
     # game/code/screens/screens_fl.rpy:752
     old "Did you say you love her?"
@@ -177,131 +177,136 @@ translate russian strings:
     # game/code/screens/screens_fl.rpy:947
     old "Did you let Pete hit on Samiya?"
     new "Вы позволили Питу остаться с Самией?"
-# TODO: Translation updated at 2022-11-12 13:05
+
+# TODO: Translation updated at 2022-08-06 21:12
 
 translate russian strings:
 
     # game/code/screens/screens_fl.rpy:199
     old "Due to some new changes in Android OS, to import your save from Week 2 you need to follow these instructions."
-    new "Due to some new changes in Android OS, to import your save from Week 2 you need to follow these instructions."
+    new "В связи с некоторыми новыми изменениями в ОС Android, чтобы импортировать ваше сохранение со 2-й недели, вам необходимо следовать этим инструкциям."
 
     # game/code/screens/screens_fl.rpy:201
     old "1. Close the game and find the Week save file named \"FetishLocator\" in - \"InternalStorage/RenPy/persistent/\""
-    new "1. Close the game and find the Week save file named \"FetishLocator\" in - \"InternalStorage/RenPy/persistent/\""
+    new "Закройте игру и найдите файл сохранения недели с именем \"FetishLocator\" в - \"InternalStorage/RenPy/persistent/\""
 
     # game/code/screens/screens_fl.rpy:203
     old "2. Copy the \"FetishLocator\" file to the following folder (replace existing files if any) -"
-    new "2. Copy the \"FetishLocator\" file to the following folder (replace existing files if any) -"
+    new "Скопируйте файл \"FetishLocator\" в следующую папку (замените существующие файлы, если таковые имеются) -"
 
     # game/code/screens/screens_fl.rpy:205
     old "\"Internal storage/Android/data/com.patreon.fetishlocator.week3/files/saves/\"."
-    new "\"Internal storage/Android/data/com.patreon.fetishlocator.week3/files/saves/\"."
+    new "Внутреннее хранилище: Internal storage/Android/data/com.patreon.fetishlocator.week3/files/saves/\"."
 
     # game/code/screens/screens_fl.rpy:208
-    old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
-    new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
+    old "Contact us on {a=https://discord.gg/b6CNu2C}Discord{/a} if you need help."
+    new "Свяжитесь с нами в {a=https://discord.gg/b6CNu2C}Discord{/a}, если вам нужна помощь."
 
     # game/code/screens/screens_fl.rpy:234
     old "Your device can't save the game progress through different weeks. Please, allow FL App to write on the external storage."
-    new "Your device can't save the game progress through different weeks. Please, allow FL App to write on the external storage."
+    new "Если ваше устройство не может сохранять прогресс конца недели, то тогда, пожалуйста, разрешите приложению FL записывать данные во внешнее хранилище."
 
     # game/code/screens/screens_fl.rpy:236
     old "On most devices you can set the permissions on the Setting app."
-    new "On most devices you can set the permissions on the Setting app."
+    new "На большинстве устройств можно дать разрешение в настройках приложения."
 
     # game/code/screens/screens_fl.rpy:237
     old "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
-    new "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
+    new "1. Настройки -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
 
     # game/code/screens/screens_fl.rpy:238
     old "2. Set the permission to -> \"Allow management of all files\"."
-    new "2. Set the permission to -> \"Allow management of all files\"."
+    new "2. Установите разрешение на -> \"Allow management of all files\"."
 
     # game/code/screens/screens_fl.rpy:240
     old "Now the game should work."
-    new "Now the game should work."
+    new "Теперь игра должна сохранять."
 
     # game/code/screens/screens_fl.rpy:242
     old "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
-    new "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
+    new "Если ваше устройство не может сохранять прогресс конца недели, то тогда, пожалуйста, следуйте этим инструкциям, чтобы устранить эту проблему."
 
     # game/code/screens/screens_fl.rpy:244
     old "1. Enable \"Show hidden items\" option in Windows Explorer."
-    new "1. Enable \"Show hidden items\" option in Windows Explorer."
+    new "1. Включите \"Показывать скрытые элементы\" в проводнике Windows."
 
     # game/code/screens/screens_fl.rpy:245
     old "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
-    new "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
+    new "2. Перейдите в папку - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\"."
 
     # game/code/screens/screens_fl.rpy:246
     old "3. Create a backup of the file \"FetishLocator\" and delete it."
-    new "3. Create a backup of the file \"FetishLocator\" and delete it."
+    new "3. Сделайте резервную копию файла \"FetishLocator\" и удалите сам файл."
 
     # game/code/screens/screens_fl.rpy:248
-    old "4. After launching the game once, you can put the backed up \"FetishLocator\" file back to it's location to get your Previous Week's saves back."
-    new "4. After launching the game once, you can put the backed up \"FetishLocator\" file back to it's location to get your Previous Week's saves back."
+    old "5. After launching the game once, you can put the backed up \"FetishLocator\" file back to it's location to get your Previous Week's saves back."
+    new "5. После запуска игры один раз, вы сможете вернуть резервную копию файла \"FetishLocator\" обратно в его расположение, чтобы вернуть сохранения за предыдущую неделю."
 
     # game/code/screens/screens_fl.rpy:256
     old "Confirm"
-    new "Confirm"
+    new "Подтвердить"
+
+    # game/code/screens/screens_fl.rpy:965
+    old "Did you creampie Nora and agree to be the father?"
+    new "Вы трахнули Нору и согласились быть отцом?"
+
+# TODO: Translation updated at 2022-08-24 12:18
+
+translate russian strings:
+
+    # game/code/screens/screens_fl.rpy:1002
+    old "Did you give the password to her?"
+    new "Вы дали ей пароль?"
+
+# TODO: Translation updated at 2022-11-05 13:07
+
+translate russian strings:
 
     # game/code/screens/screens_fl.rpy:352
     old "Save your game now"
-    new "Save your game now"
+    new "Сохраните свою игру прямо сейчас"
 
     # game/code/screens/screens_fl.rpy:354
     old "{u}Done{/u}"
-    new "{u}Done{/u}"
+    new "{u}Готово{/u}"
 
-    # game/code/screens/screens_fl.rpy:1007
-    old "Did you creampie Nora and agree to be the father?"
-    new "Did you creampie Nora and agree to be the father?"
-
-    # game/code/screens/screens_fl.rpy:1041
-    old "Did you give the password to her?"
-    new "Did you give the password to her?"
-
-# TODO: Translation updated at 2022-11-19 23:16
+# TODO: Translation updated at 2022-12-30 19:37
 
 translate russian strings:
 
-    # game/code/screens/screens_fl.rpy:819
+    # game/code/screens/screens_fl.rpy:214
+    old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
+    new "Свяжитесь с нами на {a=https://discord.gg/efmQRNtFks}Discord{/a}, если вам нужна помощь."
+
+    # game/code/screens/screens_fl.rpy:256
+    old "4. After launching the game once, you can put the backed up \"FetishLocator\" file back to it's location to get your Previous Week's saves back."
+    new "4. После однократного запуска игры вы можете поместить резервную копию файла \"FetishLocator\" обратно в исходное местоположение, чтобы вернуть сохранения за предыдущую неделю."
+
+    # game/code/screens/screens_fl.rpy:824
     old "AmRose Romance or Slave route?"
-    new "AmRose Romance or Slave route?"
+    new "АмРоуз Романтика или Путь рабыни?"
 
-    # game/code/screens/screens_fl.rpy:833
+    # game/code/screens/screens_fl.rpy:838
     old "Did you kiss AmRose?"
-    new "Did you kiss AmRose?"
+    new "Вы поцеловали АмРоуз?"
 
-    # game/code/screens/screens_fl.rpy:849
+    # game/code/screens/screens_fl.rpy:854
     old "Do you want to dominate Lyssa?"
-    new "Do you want to dominate Lyssa?"
+    new "Вы хотите доминировать над Лиссой?"
 
-    # game/code/screens/screens_fl.rpy:867
+    # game/code/screens/screens_fl.rpy:872
     old "Did you say that you love Lydia?"
-    new "Did you say that you love Lydia?"
+    new "Вы сказали, что любите Лидию?"
 
-    # game/code/screens/screens_fl.rpy:990
+    # game/code/screens/screens_fl.rpy:995
     old "Did you agree to have kids with Stacy?"
-    new "Did you agree to have kids with Stacy?"
+    new "Вы согласились завести детей со Стейси?"
 
-    # game/code/screens/screens_fl.rpy:1024
+    # game/code/screens/screens_fl.rpy:1029
     old "Did you ask Vanessa to wear shoes with cum?"
-    new "Did you ask Vanessa to wear shoes with cum?"
+    new "Вы попросили Ванессу надеть туфли со спермой?"
 
-    # game/code/screens/screens_fl.rpy:1041
+    # game/code/screens/screens_fl.rpy:1046
     old "Did you give the password to Hana?"
-    new "Did you give the password to Hana?"
-
-# TODO: Translation updated at 2023-02-01 00:21
-
-translate russian strings:
-
-    # game/code/screens/screens_fl.rpy:40
-    old "Ending not implemented yet"
-    new "Ending not implemented yet"
-
-    # game/code/screens/screens_fl.rpy:46
-    old "You haven't unlocked this ending"
-    new "You haven't unlocked this ending"
+    new "Вы дали пароль Хане?"
 

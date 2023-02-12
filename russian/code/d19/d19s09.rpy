@@ -946,17 +946,17 @@ translate russian strings:
     old "Switch"
     new "Поменяться"
 
-# TODO: Translation updated at 2023-02-01 00:21
+# TODO: Translation updated at 2022-12-30 19:37
 
 # game/code/d19/d19s09.rpy:988
 translate russian d19s09_end_8a44ad0b:
 
     # sy "I want to go back to the server room... to see exactly what they were doing."
-    sy "I want to go back to the server room... to see exactly what they were doing."
+    sy "Я хочу вернуться в серверную... Хочу посмотреть, как именно все там сделано."
 
 # game/code/d19/d19s09.rpy:989
 translate russian d19s09_end_9cc11ce7:
 
     # sy "It's... actually kinda interesting. Whoever built it wasn't completely dumb."
-    sy "It's... actually kinda interesting. Whoever built it wasn't completely dumb."
+    sy "Это... на самом деле довольно интересно. Тот, кто его создал, не был полным болваном."
 

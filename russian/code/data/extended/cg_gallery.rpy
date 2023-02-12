@@ -66,91 +66,91 @@ translate russian strings:
     old "Ending 13: Pregnant Nora"
     new "Финал 13: Беременная Нора"
 
-# TODO: Translation updated at 2023-02-01 00:21
+# TODO: Translation updated at 2022-12-30 19:37
 
 translate russian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Vanessa"
-    new "Day 17: Vanessa"
+    new "День 17: Ванесса"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Iona"
-    new "Day 17: Iona"
+    new "День 17: Иона"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Lyssa"
-    new "Day 17: Lyssa"
+    new "День 17: Лисса"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Bring Stacy with you"
-    new "Bring Stacy with you"
+    new "Взять Стейси с собой"
 
     # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 17: Daisy"
-    new "Day 17: Daisy"
+    old "Day 17: Daisey"
+    new "День 17: Дейзи"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Dahlia & Samiya"
-    new "Day 17: Dahlia & Samiya"
+    new "День 17: Далия и Самия"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Polly & Nora"
-    new "Day 17: Polly & Nora"
+    new "День 17: Полли и Нора"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Jessie"
-    new "Day 17: Jessie"
+    new "День 17: Джесси"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 18: Dahlia & Samiya"
-    new "Day 18: Dahlia & Samiya"
+    new "День 18: Далия и Самия"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 18: Cynthia"
-    new "Day 18: Cynthia"
+    new "День 18: Синтия"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Lydia's Dungeon"
-    new "Day 19: Lydia's Dungeon"
+    new "День 19: Подвал Лидии"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Stacy & Lyssa"
-    new "Day 19: Stacy & Lyssa"
+    new "День 19: Стейси и Лисса"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Daisy"
-    new "Day 19: Daisy"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "You need to date Dahlia"
-    new "You need to date Dahlia"
-
-    # game/code/data/extended/cg_gallery.rpy:21
-    old "Day 19: Dahlia"
-    new "Day 19: Dahlia"
+    new "День 19: Дейзи"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You need to date Daisy"
-    new "You need to date Daisy"
+    new "Нужно встречаться с Дейзи"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 19: Dahlia"
+    new "День 19: Далия"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "You need to date Dahlia"
+    new "Нужно встречаться с Далией"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Stacy"
-    new "Day 19: Stacy"
+    new "День 19: Стейси"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Lyssa"
-    new "Day 19: Lyssa"
+    new "День 19: Лисса"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 20: Stacy & AmRose"
-    new "Day 20: Stacy & AmRose"
+    new "День 20: Стейси и АмРоуз"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 20: Min"
-    new "Day 20: Min"
+    new "День 20: Мин"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 10: Min"
-    new "Ending 10: Min"
+    new "Концовка 10: Мин"
 

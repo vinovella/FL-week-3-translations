@@ -135,6 +135,24 @@ translate russian strings:
     old "Jim"
     new "Джим"
 
+    old "Victor Yates Jr."
+    new "Виктор Йейтс мл."
+
+    old "Mr. Min"
+    new "Мистер Мин"
+
+    old "Mrs. Min"
+    new "Миссис Мин"
+
+    old "Min Do-yun"
+    new "Мин До-юн"
+
+    old "Nari"
+    new "Нари"
+
+    old "TV"
+    new "ТВ"
+
     old "Mysterious Woman"
     new "Таинственная девушка"
 
@@ -164,6 +182,9 @@ translate russian strings:
 
     old "female voice"
     new "Женский голос"
+
+    old "Male voice"
+    new "Мужской голос"
 
     old "Customer"
     new "Покупатель"

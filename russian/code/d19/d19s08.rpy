@@ -334,7 +334,7 @@ translate russian d19s08_b4defd4a:
 translate russian d19s08_8cd334ff:
 
     # mh "I'll be there, hidden, listening in."
-    mh "Я буду там, в укрытии, подслушивать."
+    mh "Я буду там, неподалеку, подслушивать."
 
 # game/code/d19/d19s08.rpy:142
 translate russian d19s08_db34fc93:
@@ -436,7 +436,7 @@ translate russian d19s08_a4fc5b00:
 translate russian d19s08_1367b8a9:
 
     # mh "Not exactly. But I'm sure I can make some time. Just let me know when you need me."
-    mh "Не совсем. Но я уверена, что смогу выкроить немного времени. Просто дай мне знать, когда я тебе понадоблюсь."
+    mh "Не совсем. Но уверена, что смогу выкроить немного времени. Просто дай мне знать, когда я тебе понадоблюсь."
 
 # game/code/d19/d19s08.rpy:169
 translate russian d19s08_57ac8b65:
@@ -602,29 +602,29 @@ translate russian strings:
     old "Ask for a picture"
     new "Попросить фотографию"
 
-# TODO: Translation updated at 2022-10-08 16:15
+# TODO: Translation updated at 2022-11-05 13:07
 
 # game/code/d19/d19s08.rpy:57
 translate russian d19s08_9ed673da:
 
     # mct "But is it even worth it? I {i}know{/i} that Zarah will not vote for me no matter what."
-    mct "But is it even worth it? I {i}know{/i} that Zarah will not vote for me no matter what."
+    mct "Но стоит ли оно того? Я просто {i}уверен{/i}, что Зара провалит меня на экзамене, несмотря ни на что."
 
 # game/code/d19/d19s08.rpy:58
 translate russian d19s08_811695fa:
 
     # mct "What's the point of trying? It'd just be a waste of time anyway."
-    mct "What's the point of trying? It'd just be a waste of time anyway."
+    mct "Какой смысл пытаться? В любом случае, это будет пустая трата времени."
 
 # game/code/d19/d19s08.rpy:63
 translate russian d19s08_eb096e82:
 
     # mct "I guess there still might be a chance. Might as well take it."
-    mct "I guess there still might be a chance. Might as well take it."
+    mct "Думаю, что все еще есть шанс. Нужно использовать его."
 
 # game/code/d19/d19s08.rpy:67
 translate russian d19s08_57356ffb:
 
     # mct "Yeah. Fuck that. There's nothing I can do about Zarah. But I'm still gonna call Lyssa."
-    mct "Yeah. Fuck that. There's nothing I can do about Zarah. But I'm still gonna call Lyssa."
+    mct "Да. К черту всё. Я ничего не могу поделать с Зарой. Но я все равно позвоню Лиссе."
 

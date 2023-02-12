@@ -1140,63 +1140,61 @@ translate russian d19s06mes_ac9adf42:
     # mes "I haven't had that much fun since she went into the Pandora room."
     mes "Мне не было так весело с тех пор, как она вошла в комнату Пандоры."
 
-# TODO: Translation updated at 2022-10-08 16:15
+# TODO: Translation updated at 2022-11-05 13:07
 
 # game/code/d19/d19s06mes.rpy:434
 translate russian d19s06mes_e31c3d0a:
 
     # cl "I don't want to consent to just getting peed on, but I will eagerly consent to the humiliation of being peed on as a punishment for my...{w} whatever excuse you come up with."
-    cl "I don't want to consent to just getting peed on, but I will eagerly consent to the humiliation of being peed on as a punishment for my...{w} whatever excuse you come up with."
+    cl "Я не хочу соглашаться на то, чтобы на меня мочились, но я охотно соглашусь на то, что на меня будут писать в наказание за мои... {w}какое бы оправдание у этого не было."
 
 # game/code/d19/d19s06mes.rpy:456
 translate russian d19s06mes_2f758ea1:
 
     # cl "Okay!"
-    cl "Okay!"
+    cl "Ладно!"
 
 # game/code/d19/d19s06mes.rpy:458
 translate russian d19s06mes_d9994a44:
 
     # cl "I'm ready!!!"
-    cl "I'm ready!!!"
+    cl "Я готова!!!"
 
 # game/code/d19/d19s06mes.rpy:482
 translate russian d19s06mes_5a911799:
 
     # cl "I don't think my nips and clit have ever been so hard."
-    cl "I don't think my nips and clit have ever been so hard."
+    cl "Я не помню, чтобы раньше мои соски и клитор были такими набухшими."
 
 # game/code/d19/d19s06mes.rpy:483
 translate russian d19s06mes_95c2a186:
 
     # cl "I want it all over my face!"
-    cl "I want it all over my face!"
+    cl "Я хочу, чтобы это было на моем лице!"
 
-# TODO: Translation updated at 2022-11-12 13:05
-
-# game/code/d19/d19s06mes.rpy:477
-translate russian d19s06mes_6edb2059:
-
-    # cl "Oh fuck yes."
-    cl "Oh fuck yes."
-
-# TODO: Translation updated at 2023-02-01 00:21
+# TODO: Translation updated at 2022-12-30 19:37
 
 # game/code/d19/d19s06mes.rpy:674
 translate russian d19s06mes_a19ae317:
 
     # cl "It's going to pee on me. How is that magnificent?"
-    cl "It's going to pee on me. How is that magnificent?"
+    cl "Он собирается помочиться на меня. Разве это великолепно?"
 
 # game/code/d19/d19s06mes.rpy:677
 translate russian d19s06mes_a6c1de56:
 
     # mes "He's not just going to pee on you. Open your mouth wide, now!"
-    mes "He's not just going to pee on you. Open your mouth wide, now!"
+    mes "Он не просто пописает на тебя. Открой рот пошире, сейчас же!"
+
+# game/code/d19/d19s06mes.rpy:736
+translate russian d19s06mes_6edb2059:
+
+    # cl "Oh fuck yes."
+    cl "Ох, да."
 
 translate russian strings:
 
     # game/code/d19/d19s06mes.rpy:220
     old "Do you want to see watersports?"
-    new "Do you want to see watersports?"
+    new "Хотите увидеть контент с мочей?"
 

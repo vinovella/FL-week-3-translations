@@ -124,7 +124,7 @@ translate russian d19s07_c2907ace:
 translate russian d19s07_aa9655b3:
 
     # mc "It's for my final exam."
-    mc "Это нужно для моего выпускного экзамена."
+    mc "Это нужно для моего предстоящего экзамена."
 
 # game/code/d19/d19s07.rpy:104
 translate russian d19s07_7b4092ce:

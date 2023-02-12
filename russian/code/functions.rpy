@@ -32,5 +32,5 @@ translate russian strings:
 
     # game/code/functions.rpy:223
     old "You can only select one out of Daisy and Dahlia"
-    new "Вы можете выбрать только одну между Дейзи и Далии."
+    new "Вы можете выбрать только одну между Дейзи и Далией."
 

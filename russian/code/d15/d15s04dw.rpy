@@ -1088,5 +1088,5 @@ translate russian strings:
 translate russian d15s04dw_eb3e097b:
 
     # dw "I'm sure he's got a book around here somewhere that I can use as a paddle."
-    dw "Я уверена, что у него где-то тут есть книга, которую я могу использовать в качестве паддла."
+    dw "Я уверена, что у него где-то тут есть книга, которую можно использовать в качестве паддла."
 

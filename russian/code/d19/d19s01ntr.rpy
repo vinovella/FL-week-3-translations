@@ -1074,11 +1074,11 @@ translate russian strings:
     old "Go Fuck Yourself"
     new "Иди нахуй!"
 
-# TODO: Translation updated at 2022-11-12 13:05
+# TODO: Translation updated at 2022-12-30 19:37
 
-# game/code/d19/d19s01ntr.rpy:279
+# game/code/d19/d19s01ntr.rpy:386
 translate russian d19s01ntr_decision_e1a0041c:
 
     # lc "You see... Whom?"
-    lc "You see... Whom?"
+    lc "Ты понимаешь?"
 

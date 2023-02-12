@@ -1,5 +1,23 @@
 ﻿# TODO: Translation updated at 2021-12-19 11:46
 
+# game/code/labels.rpy:74
+translate russian failed_mp_5d0c3fdc:
+
+    # "Your device cannot save the game progress through different weeks.\nPlease, allow FL to write on the external storage."
+    "Ваше устройство не может передавать сохранение прогресса игры из разных недель.\nПожалуйста, позвольте ФЛ записаться на внешнем хранилище."
+
+# game/code/labels.rpy:76
+translate russian failed_mp_cd72322d:
+
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    "На большинстве устройств вы можете установить разрешения на вкладке настройки:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nПо любому вопросу, пожалуйста, свяжитесь с нами по адресу {a=https://discord.gg/b6CNu2C}Discord{/a}."
+
+# game/code/labels.rpy:78
+translate russian failed_mp_d50e830d:
+
+    # "On most devices you can set the permissions on the setting tab:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nFor any issue, please contact us on {a=https://www.patreon.com/fetishlocator}Patreon{/a} or on {a=https://discord.gg/b6CNu2C}Discord{/a}."
+    "На большинстве устройств можно установить права доступа на вкладке настроек:\nSetting -> Apps -> Fetish Locator -> Permissions -> Storage.\nЕсли у вас возникли вопросы, пожалуйста, свяжитесь с нами на {a=https://www.patreon.com/fetishlocator}Patreon{/a} или на {a=https://discord.gg/b6CNu2C}Discord{/a}."
+
 # game/code/labels.rpy:98
 translate russian after_credits_4092fc7e:
 
@@ -271,3 +289,4 @@ translate russian metalknock2_40511e6c:
 
     # "*knock knock*"
     "*Тук тук*"
+

@@ -1316,17 +1316,17 @@ translate russian strings:
     old "Thursday\nDay-18"
     new "Четверг\nДень-18."
 
-# TODO: Translation updated at 2022-10-08 16:15
+# TODO: Translation updated at 2022-11-05 13:07
 
 # game/code/d18/d18s01.rpy:217
 translate russian d18s01_shower_df6c05a7:
 
     # mc "The VIP Program."
-    mc "The VIP Program."
+    mc "VIP-программа."
 
 # game/code/d18/d18s01.rpy:269
 translate russian d18s01_shower_ntr_35ce70c6:
 
     # lc "All the things you've done!{w} You're basically the poster child for sex on this campus. You've probably fucked every willing woman in town... is it every willing man too?"
-    lc "All the things you've done!{w} You're basically the poster child for sex on this campus. You've probably fucked every willing woman in town... is it every willing man too?"
+    lc "Вот кто ты такой! {w}Ты, по сути, ходячая реклама секса в этом кампусе. Ты, наверное, перетрахал уже всех женщин в кампусе. И не удивлюсь, если и мужчин тоже!"
 
