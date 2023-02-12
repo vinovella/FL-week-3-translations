@@ -448,7 +448,7 @@ translate chinese d19s06_video_be5e38fb:
 translate chinese d19s06_video_ba760293:
 
     # cl "Please! {i}{b}Please{/b}{/i}! As God is my witness, I'm free of lust! Please, stop this terrible pain!"
-    cl "求求你! {i}{b}求你了/b}{/i}! 上帝为我作证，我已经摆脱了情欲! 求你，别让我痛苦了！"
+    cl "求求你! {i}{b}求你了{/b}{/i}! 上帝为我作证，我已经摆脱了情欲! 求你，别让我痛苦了！"
 
 # game/code/d19/d19s06.rpy:205
 translate chinese d19s06_video_3978731e:
@@ -964,7 +964,7 @@ translate chinese d19s06_lewald_b1d88aba_1:
 translate chinese d19s06_lewald_7c267f1b:
 
     # mc "Sir.{w} You should address me as \"Sir\", \"Master\", or \"[mclogin]\" from now on."
-    mc "先生。{w} 从现在开始，你应该称呼我为\"先生\" 、\"主人\" 或\"[mclogin]\"。" from now on."
+    mc "先生。{w} 从现在开始，你应该称呼我为\"先生\" 、\"主人\" 或\"[mclogin]\"。from now on."
 
 # game/code/d19/d19s06.rpy:424
 translate chinese d19s06_lewald_bcbd57e8:
@@ -1035,4 +1035,3 @@ translate chinese strings:
     # game/code/d19/d19s06.rpy:396
     old "Both Cynthia and Her Mother"
     new "辛西娅和她妈妈都要在"
-
