@@ -424,7 +424,7 @@ translate chinese d19s07_problem_e52f875c:
 translate chinese d19s07_problem_b7cba9af:
 
     # mc "Well, not JUST because of the sex."
-    mc "W嗯，不只是因为做爱。"
+    mc "嗯，不只是--因为做爱。"
 
 # game/code/d19/d19s07.rpy:227
 translate chinese d19s07_problem_7a90f655:
@@ -724,19 +724,19 @@ translate chinese d19s07_roleplay_80911e33:
 translate chinese d19s07_roleplay_c240a5ef:
 
     # mk "That is actually what I wanted to - discuss - with you."
-    mk "其实我正想和你--讨论--这个问题。"
+    mk "其实我正想和您--讨论--这个问题。"
 
 # game/code/d19/d19s07.rpy:330
 translate chinese d19s07_roleplay_2310f1b4:
 
     # mc "Oh? What do you mean?"
-    mc "哦，什么意思？"
+    mc "哦？什么意思？"
 
 # game/code/d19/d19s07.rpy:332
 translate chinese d19s07_roleplay_b5503647:
 
     # mk "I wanted to talk to you about Mister Young's pencil."
-    mk "我想和你谈谈杨先生的铅笔。"
+    mk "我想和您谈谈杨先生的铅笔。"
 
 # game/code/d19/d19s07.rpy:334
 translate chinese d19s07_roleplay_9a737d2c:
@@ -754,7 +754,7 @@ translate chinese d19s07_roleplay_9297ce39:
 translate chinese d19s07_roleplay_1167abff:
 
     # mk "Professor, I was hoping to talk to you about my lost pencil."
-    mk "教授，我希望能和你谈谈我丢失的铅笔。"
+    mk "教授，我希望能和您谈谈我丢失的铅笔。"
 
 # game/code/d19/d19s07.rpy:340
 translate chinese d19s07_roleplay_0efac822:
@@ -784,7 +784,7 @@ translate chinese d19s07_roleplay_1a1bd218:
 translate chinese d19s07_roleplay_2075745d:
 
     # mc "Let him make the first move - physically. Your job is to seduce him into making a move."
-    mc "让他迈出第一步--他生理上先主动。你的工作是引诱他出手。"
+    mc "让他迈出第一步--让他生理上先主动。你的工作是引诱他出手。"
 
 # game/code/d19/d19s07.rpy:349
 translate chinese d19s07_roleplay_bb4267b1:
@@ -802,7 +802,7 @@ translate chinese d19s07_roleplay_05500ff6:
 translate chinese d19s07_roleplay_c538f358:
 
     # mk "No, not Hancock. That other film he was in. Where the guy is supposed to get 90%% of the way to the kiss, but let her come that last 10%%... or not."
-    mk "不，不是汉考克。是他参演的那部电影。在那里，男人付出90%% 的努力去索求一个吻，但让女人做最后的10%% ...或者我记错了。"
+    mk "不，不是汉考克。是他参演的那部电影。在那里，男人付出90%%的努力去索求一个吻，但让女人做最后的10%% ...或者我记错了。"
 
 # game/code/d19/d19s07.rpy:353
 translate chinese d19s07_roleplay_368403b6:
@@ -814,7 +814,7 @@ translate chinese d19s07_roleplay_368403b6:
 translate chinese d19s07_roleplay_907643da:
 
     # mk "Still, I should get to 90%% and let him put out the last 10%%."
-    mk "尽管如此，90%% 还是应该我主动，然后让他完成最后的10%% 。"
+    mk "尽管如此，90%%还是应该我主动，然后让他完成最后的10%% 。"
 
 # game/code/d19/d19s07.rpy:356
 translate chinese d19s07_roleplay_889da061:
@@ -916,7 +916,7 @@ translate chinese d19s07_roleplay_f36e5aec:
 translate chinese d19s07_roleplay_cd2ea23b:
 
     # mk "So, all you really need is his dick inside me.{w} Oral, anal, vaginal... it doesn't make a difference, right?"
-    mk "所以，你真正需要的是他把鸡巴插我体内。{w}口交、肛交、阴道...没什么区别，对吗？"
+    mk "所以，你真正需要的是他把鸡巴插我体内。{w}口交、肛交、阴道性交...没什么区别，对吗？"
 
 # game/code/d19/d19s07.rpy:389
 translate chinese d19s07_roleplay_6f1d711b:
@@ -1084,7 +1084,7 @@ translate chinese d19s07_sex_b77e29f3:
 translate chinese d19s07_sex_8d5613b2:
 
     # mct "That's my cue."
-    mct "这是在提示我"
+    mct "这是在提示我。"
 
 # game/code/d19/d19s07.rpy:443
 translate chinese d19s07_sex_9d5c06d4:
@@ -1102,7 +1102,7 @@ translate chinese d19s07_sex_fc41bcf6:
 translate chinese d19s07_sex_b5ec67e0:
 
     # mk "TAKE ME LIKE THERE'S NO TOMORROW."
-    mk "把我当做没有明天的人。"
+    mk "把今天当成是我的末日，狠狠操我。"
 
 # game/code/d19/d19s07.rpy:453
 translate chinese d19s07_sex_c3388faf:
