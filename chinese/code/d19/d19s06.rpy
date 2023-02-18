@@ -964,7 +964,7 @@ translate chinese d19s06_lewald_b1d88aba_1:
 translate chinese d19s06_lewald_7c267f1b:
 
     # mc "Sir.{w} You should address me as \"Sir\", \"Master\", or \"[mclogin]\" from now on."
-    mc "先生。{w} 从现在开始，你应该称呼我为\"先生\" 、\"主人\" 或\"[mclogin]\"。from now on."
+    mc "先生。{w} 从现在开始，你应该称呼我为\"先生\" 、\"主人\" 或\"[mclogin]\"。"
 
 # game/code/d19/d19s06.rpy:424
 translate chinese d19s06_lewald_bcbd57e8:
