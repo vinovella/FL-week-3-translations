@@ -526,7 +526,7 @@ translate chinese d19s03_watersports_b1757273:
 translate chinese d19s03_watersports_be1be8ef:
 
     # mh "Hm... It must've been something really risque if she told you not to tell me about it. The only thing that I can think of then is the stuff we did with pee."
-    mh "嗯…如果她让你别告诉我，那一定是很有伤风化的事。我唯一能想到的就是我们用尿液做的实验。"
+    mh "嗯... 如果她让你别告诉我，那一定是很有伤风化的事。我唯一能想到的就是我们用尿液做的实验。"
 
 # game/code/d19/extended/d19s03_ext.rpy:509
 translate chinese d19s03_watersports_e0890294:
@@ -676,7 +676,7 @@ translate chinese d19s03_watersports_b1bad84f:
 translate chinese d19s03_watersports_ce7a1f29:
 
     # mh "*Moans loudly* Fuuuck, I can feel it. I can feel your pee. It feels so good!"
-    mh "*大声呻吟* 操啊啊，我能感觉到。能感觉到你的尿液。 感觉真他妈棒！"
+    mh "*大声呻吟* 操啊啊，我能感觉到。能感觉到你的尿液。 妈的爽死了！"
 
 # game/code/d19/extended/d19s03_ext.rpy:643
 translate chinese d19s03_watersports_2b41adff:
@@ -796,13 +796,13 @@ translate chinese d19s03_talk_8d5fe7a2:
 translate chinese d19s03_talk_d4a2f771:
 
     # mct "I wanted to call Lyssa to talk about what to do with Zarah."
-    mct "我想给丽莎打电话，谈谈如何处理扎拉的问题。"
+    mct "我想给丽莎打电话，谈谈如何处理萨拉的问题。"
 
 # game/code/d19/extended/d19s03_ext.rpy:731
 translate chinese d19s03_talk_9ed673da:
 
     # mct "But is it even worth it? I {i}know{/i} that Zarah will not vote for me no matter what."
-    mct "但这值得吗？我{i}知道{/i}扎拉无论如何都不会投票给我。"
+    mct "但这值得吗？我{i}知道{/i}萨拉无论如何都不会投票给我。"
 
 # game/code/d19/extended/d19s03_ext.rpy:732
 translate chinese d19s03_talk_811695fa:
@@ -868,7 +868,7 @@ translate chinese d19s03_ask_mh_dfc0300d:
 translate chinese d19s03_ask_mh_b79150bb:
 
     # mh "Hm. Spiteful school faculty is always a pain."
-    mh "嗯。恶毒的教员总是令人生厌。"
+    mh "嗯。这么恶毒的教员总是令人生厌。"
 
 # game/code/d19/extended/d19s03_ext.rpy:762
 translate chinese d19s03_ask_mh_a34cae2a:
@@ -976,7 +976,7 @@ translate chinese d19s03_ask_mh_240e05b3:
 translate chinese d19s03_ask_mh_5dee11f7:
 
     # mc "*Exhales* Okay. So lure Zarah out, talk with her, and see if we can get any incriminating information out of her."
-    mc "*长呼气*好吧，那就把萨拉引出来，和她谈谈，看看我们能不能从她嘴里套出什么罪证。"
+    mc "*长呼气* 好吧，那就把萨拉引出来，和她谈谈，看看我们能不能从她嘴里套出什么罪证。"
 
 # game/code/d19/extended/d19s03_ext.rpy:797
 translate chinese d19s03_ask_mh_e7608abd:
@@ -1030,7 +1030,7 @@ translate chinese d19s03_dont_ask_83078e78:
 translate chinese d19s03_dont_ask_9350160c:
 
     # mc "I really appreciate that."
-    mc "我真的很感激。"
+    mc "真的谢谢你。"
 
 translate chinese strings:
 
