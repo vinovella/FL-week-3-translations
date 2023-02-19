@@ -622,7 +622,7 @@ translate chinese d19s06mes_f5d586f7:
 translate chinese d19s06mes_6a471aa2:
 
     # mc "OOoooo FUCK!!!"
-    mc "我去，靠靠靠！!!!"
+    mc "我去，靠靠靠!!!"
 
 # game/code/d19/d19s06mes.rpy:318
 translate chinese d19s06mes_7acf0f8d:
@@ -700,7 +700,7 @@ translate chinese d19s06mes_15c67078:
 translate chinese d19s06mes_77936dd0:
 
     # mc "Well, at least that tells us something."
-    mc "好吧，至少这告诉我们一些事情。"
+    mc "好吧，至少这让我们明白了一件事。"
 
 # game/code/d19/d19s06mes.rpy:345
 translate chinese d19s06mes_3a745d95:
@@ -712,7 +712,7 @@ translate chinese d19s06mes_3a745d95:
 translate chinese d19s06mes_3a1b171d:
 
     # mc "You object to being smothered."
-    mc "你喜欢窒息的感觉，但反对被闷死。"
+    mc "你喜欢窒息的感觉，但不想真被闷死。"
 
 # game/code/d19/d19s06mes.rpy:349
 translate chinese d19s06mes_9855f2d6:
@@ -808,7 +808,7 @@ translate chinese d19s06mes_45055120:
 translate chinese d19s06mes_1cb3e4d9:
 
     # mct "Shocking. I'm pretty sure that being confused is Cynthia's natural state."
-    mct "惊讶是吧。我很确定，不解是辛西娅的自然状态。"
+    mct "惊讶是吧。我很确定，辛西娅正常状态下就是始终一副不解的样子。"
 
 # game/code/d19/d19s06mes.rpy:382
 translate chinese d19s06mes_a0586c16:
@@ -874,7 +874,7 @@ translate chinese d19s06mes_b5c21ce9:
 translate chinese d19s06mes_cc4782cc:
 
     # mes "Yes. It's actually quite enjoyable."
-    mes "是的，实际上是很享受的。"
+    mes "对，实际上还挺享受。"
 
 # game/code/d19/d19s06mes.rpy:404
 translate chinese d19s06mes_4c9e2819:
@@ -928,7 +928,7 @@ translate chinese d19s06mes_bafffe4a:
 translate chinese d19s06mes_d8d6e290:
 
     # mc "No. It should be her choice."
-    mc "不，这应该是她的选择。"
+    mc "不，这应该让她来选择。"
 
 # game/code/d19/d19s06mes.rpy:422
 translate chinese d19s06mes_51a33661:
