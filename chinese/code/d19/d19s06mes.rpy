@@ -286,7 +286,7 @@ translate chinese d19s06mes_f3caa719:
 translate chinese d19s06mes_dde405a3:
 
     # mc "If you really object to what we are doing, grunt three times."
-    mc "如果你真的反对我们的所作所为，就咕哝三声。" 
+    mc "如果你真的反对我们的所作所为，就咕哝三声。"
 
 # game/code/d19/d19s06mes.rpy:143
 translate chinese d19s06mes_5f5c1930:
@@ -1132,7 +1132,7 @@ translate chinese d19s06mes_f6a5e098:
 translate chinese d19s06mes_e37d31e8:
 
     # cl "Thanks for all of this Min."
-    cl "明，谢谢你所做的一切。
+    cl "明，谢谢你所做的一切。"
 
 # game/code/d19/d19s06mes.rpy:504
 translate chinese d19s06mes_48270f84:
@@ -1173,4 +1173,3 @@ translate chinese strings:
     # game/code/d19/d19s06mes.rpy:220
     old "Do you want to see watersports?"
     new "你想看水上运动吗?"
-

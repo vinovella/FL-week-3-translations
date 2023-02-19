@@ -262,7 +262,7 @@ translate chinese d19s08_bd6c534f:
 translate chinese d19s08_7b354a65:
 
     # mh "*Laughs* Fine, fine. But not right now."
-    mh *笑* 好吧，好吧。但不是现在。"
+    mh "*笑* 好吧，好吧。但不是现在。"
 
 # game/code/d19/d19s08.rpy:121
 translate chinese d19s08_a80b257e:
@@ -627,4 +627,3 @@ translate chinese d19s08_57356ffb:
 
     # mct "Yeah. Fuck that. There's nothing I can do about Zarah. But I'm still gonna call Lyssa."
     mct "算了。去他妈的。对于萨拉，我无能为力。但我还是要给丽莎打电话。"
-
