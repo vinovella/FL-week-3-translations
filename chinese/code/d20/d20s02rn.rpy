@@ -550,7 +550,7 @@ translate chinese d20s02rn_cont_anal_180e6698:
 translate chinese d20s02rn_cont_anal_3e913745:
 
     # rn "Don't lie to me, Cum Slut.{w} I'm sure all your holes have been well used and abused."
-    rn 别骗我了，骚货。{w}我相信你所有的洞都已被充分使用，甚至被滥用了。"
+    rn "别骗我了，骚货。{w}我相信你所有的洞都已被充分使用，甚至被滥用了。"
 
 # game/code/d20/d20s02rn.rpy:259
 translate chinese d20s02rn_cont_anal_4b2d4a9b:
@@ -937,4 +937,3 @@ translate chinese strings:
     # game/code/d20/d20s02rn.rpy:237
     old "Let them keep going"
     new "让他们继续"
-

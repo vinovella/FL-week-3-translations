@@ -160,7 +160,7 @@ translate chinese d20s01_a6c8d5dd:
 translate chinese d20s01_701d2464:
 
     # mc "What!?"
-    mc 什么!?"
+    mc "什么!?"
 
 # game/code/d20/d20s01.rpy:78
 translate chinese d20s01_021120c9:
@@ -567,4 +567,3 @@ translate chinese strings:
     # game/code/d20/d20s01.rpy:113
     old "Do you want Stacy to pee on you?"
     new "你想让史黛西在你身上撒尿吗？"
-

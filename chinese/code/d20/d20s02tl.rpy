@@ -514,7 +514,7 @@ translate chinese d20s02tl_nude_bb2775be:
 translate chinese d20s02tl_nude_aaa6acee:
 
     # mc "I know, Theresa. I want to see how you worship.{w}.. Impress me."
-    mc "我知道，特蕾莎。我想看看你是怎么敬拜我的.{w.. 给我留个好印象。"
+    mc "我知道，特蕾莎。我想看看你是怎么敬拜我的.{w}.. 给我留个好印象。"
 
 # game/code/d20/d20s02tl.rpy:275
 translate chinese d20s02tl_nude_e377af5f:
@@ -2231,4 +2231,3 @@ translate chinese d20s02tl_pray_62f090f2:
 
     # mc "Finally, surrender yourself to my teaching."
     mc "Finally, surrender yourself to my teaching."
-
