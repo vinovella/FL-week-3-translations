@@ -4,199 +4,199 @@
 translate chinese d20s02tl_56e9281f:
 
     # mc "Excuse me, profe-{w} *cough*"
-    mc "Excuse me, profe-{w} *cough*"
+    mc "不好意思，教shou-{w} *咳咳*"
 
 # game/code/d20/d20s02tl.rpy:83
 translate chinese d20s02tl_b4937316:
 
     # mc "Hello, Theresa."
-    mc "Hello, Theresa."
+    mc "你好啊，特蕾莎。"
 
 # game/code/d20/d20s02tl.rpy:85
 translate chinese d20s02tl_d0af7cf1:
 
     # tl "Good morning, Mister Young."
-    tl "Good morning, Mister Young."
+    tl "早上好，杨先生。"
 
 # game/code/d20/d20s02tl.rpy:87
 translate chinese d20s02tl_27514ca7:
 
     # mc "You recognize me?"
-    mc "You recognize me?"
+    mc "你认识我？"
 
 # game/code/d20/d20s02tl.rpy:89
 translate chinese d20s02tl_1ae89f60:
 
     # tl "I spoke with Professor Nordin and my daughter after our phone call."
-    tl "I spoke with Professor Nordin and my daughter after our phone call."
+    tl "我们打过电话之后，我跟诺丁教授，还有我的女儿谈过。"
 
 # game/code/d20/d20s02tl.rpy:90
 translate chinese d20s02tl_2cf21f78:
 
     # mct "This could quickly spiral... I need to seize control of the conversation."
-    mct "This could quickly spiral... I need to seize control of the conversation."
+    mct "情况不太妙... 我需要抓住谈话的控制权。"
 
 # game/code/d20/d20s02tl.rpy:91
 translate chinese d20s02tl_54fa0602:
 
     # tl "You have an interesting reputation-"
-    tl "You have an interesting reputation-"
+    tl "你的名声很有意思--"
 
 # game/code/d20/d20s02tl.rpy:93
 translate chinese d20s02tl_8c832aa0:
 
     # mc "Theresa, where is your daughter?"
-    mc "Theresa, where is your daughter?"
+    mc "特蕾莎，你女儿在哪？"
 
 # game/code/d20/d20s02tl.rpy:96
 translate chinese d20s02tl_f045fcd6:
 
     # tl "Cynthia is... uh...{w} She's praying and preparing."
-    tl "Cynthia is... uh...{w} She's praying and preparing."
+    tl "辛西娅...呃...{w}她正在祈祷，做准备。"
 
 # game/code/d20/d20s02tl.rpy:98
 translate chinese d20s02tl_bf29f5ca:
 
     # tl "Cynthia? I didn't-{w} You didn't say that she should be here."
-    tl "Cynthia? I didn't-{w} You didn't say that she should be here."
+    tl "辛西娅？我没--{w} 你没说她应该在这。"
 
 # game/code/d20/d20s02tl.rpy:100
 translate chinese d20s02tl_b83222aa:
 
     # mc "Did that answer my question?"
-    mc "Did that answer my question?"
+    mc "我有问你她该不该来吗？"
 
 # game/code/d20/d20s02tl.rpy:103
 translate chinese d20s02tl_3f68fe91:
 
     # tl "I'm sorry. I don't know where she is. She should be here soon. "
-    tl "I'm sorry. I don't know where she is. She should be here soon. "
+    tl "对不起。我不知道她在哪。应该很快就会来了。 "
 
 # game/code/d20/d20s02tl.rpy:105
 translate chinese d20s02tl_9506b639:
 
     # tl "I'm sorry. I don't know where she is."
-    tl "I'm sorry. I don't know where she is."
+    tl "对不起。我不知道她在哪。"
 
 # game/code/d20/d20s02tl.rpy:106
 translate chinese d20s02tl_84508cf4:
 
     # tl "Do you want me to call her cell?"
-    tl "Do you want me to call her cell?"
+    tl "你想让我打电话给她吗？"
 
 # game/code/d20/d20s02tl.rpy:108
 translate chinese d20s02tl_d765a705:
 
     # mc "Failing already.{w} Let's set some ground rules."
-    mc "Failing already.{w} Let's set some ground rules."
+    mc "你已经办事不力了。{w}我们先制定几条基本规则吧。"
 
 # game/code/d20/d20s02tl.rpy:109
 translate chinese d20s02tl_6e06831e:
 
     # mc "You need to follow instructions."
-    mc "You need to follow instructions."
+    mc "你需要听从指示。"
 
 # game/code/d20/d20s02tl.rpy:111
 translate chinese d20s02tl_00de4439:
 
     # mc "You should NOT try to anticipate my whims, wants, or needs."
-    mc "You should NOT try to anticipate my whims, wants, or needs."
+    mc "你，决不能，揣摩我突然的念头、愿望或需求。"
 
 # game/code/d20/d20s02tl.rpy:112
 translate chinese d20s02tl_01e2df25:
 
     # mc "Is that clear, Theresa?"
-    mc "Is that clear, Theresa?"
+    mc "听清楚了吗，特蕾莎？"
 
 # game/code/d20/d20s02tl.rpy:114
 translate chinese d20s02tl_7ea02eba:
 
     # tl "Yes, sir. I'm sorry, sir. I'll try to do better."
-    tl "Yes, sir. I'm sorry, sir. I'll try to do better."
+    tl "清楚了，先生。很抱歉。我会努力做得更好。"
 
 # game/code/d20/d20s02tl.rpy:116
 translate chinese d20s02tl_017fae01:
 
     # mc "You will address me as Teacher, understood?"
-    mc "You will address me as Teacher, understood?"
+    mc "你要称呼我为“老师”，明白吗？"
 
 # game/code/d20/d20s02tl.rpy:118
 translate chinese d20s02tl_720c0dce:
 
     # tl "Yes, Teacher."
-    tl "Yes, Teacher."
+    tl "好的，老师。"
 
 # game/code/d20/d20s02tl.rpy:120
 translate chinese d20s02tl_2d72c2c7:
 
     # mc "Do not forget it.{w} Now let's try some basic instructions."
-    mc "Do not forget it.{w} Now let's try some basic instructions."
+    mc "别忘了。{w}现在我们来试试一些基本指令。"
 
 # game/code/d20/d20s02tl.rpy:121
 translate chinese d20s02tl_5ae8c01e:
 
     # mc "Theresa, kneel down."
-    mc "Theresa, kneel down."
+    mc "特蕾莎，跪下。"
 
 # game/code/d20/d20s02tl.rpy:123
 translate chinese d20s02tl_2209ea2d:
 
     # tl "Uhhh... okay."
-    tl "Uhhh... okay."
+    tl "呃...好的。"
 
 # game/code/d20/d20s02tl.rpy:127
 translate chinese d20s02tl_4c9fd3a7:
 
     # mc "Now drop and give me push-ups."
-    mc "Now drop and give me push-ups."
+    mc "现在趴下，做俯卧撑。"
 
 # game/code/d20/d20s02tl.rpy:129
 translate chinese d20s02tl_7631d455:
 
     # tl "Teacher?"
-    tl "Teacher?"
+    tl "老师？"
 
 # game/code/d20/d20s02tl.rpy:130
 translate chinese d20s02tl_ee21e75a:
 
     # mc "No questions. Show me that you can follow basic instructions."
-    mc "No questions. Show me that you can follow basic instructions."
+    mc "不能提问。向我证明你可以听从基本指令。"
 
 # game/code/d20/d20s02tl.rpy:132
 translate chinese d20s02tl_467685c9:
 
     # tl "Yes, sir."
-    tl "Yes, sir."
+    tl "好的，先生。"
 
 # game/code/d20/d20s02tl.rpy:133
 translate chinese d20s02tl_1e14821a:
 
     # mc "I told you to call me \"Teacher\"."
-    mc "I told you to call me \"Teacher\"."
+    mc "我告诉过你，要叫我\"老师\"。"
 
 # game/code/d20/d20s02tl.rpy:134
 translate chinese d20s02tl_212c3e7d:
 
     # tl "Yes, Teacher. I'm sorry, Teacher."
-    tl "Yes, Teacher. I'm sorry, Teacher."
+    tl "是的，老师。很抱歉。"
 
 # game/code/d20/d20s02tl.rpy:140
 translate chinese d20s02tl_5ff41908:
 
     # mc "Keep going until I tell you to stop."
-    mc "Keep going until I tell you to stop."
+    mc "继续，直到我让你停下来。"
 
 # game/code/d20/d20s02tl.rpy:142
 translate chinese d20s02tl_81e1c46b:
 
     # tl "I'm doing my best, Teacher."
-    tl "I'm doing my best, Teacher."
+    tl "我已经尽力了，老师。"
 
 # game/code/d20/d20s02tl.rpy:146
 translate chinese d20s02tl_f2e3e69e:
 
     # mc "Good enough. Now kneel facing me."
-    mc "Good enough. Now kneel facing me."
+    mc "可以了。现在面对我跪下。"
 
 # game/code/d20/d20s02tl.rpy:148
 translate chinese d20s02tl_a4cd1341:
@@ -208,313 +208,313 @@ translate chinese d20s02tl_a4cd1341:
 translate chinese d20s02tl_bccffd51:
 
     # mc "What should I do with you next, Theresa?"
-    mc "What should I do with you next, Theresa?"
+    mc "接下来我应该对你做什么，特蕾莎？"
 
 # game/code/d20/d20s02tl.rpy:152
 translate chinese d20s02tl_5ae88fa0:
 
     # tl "I shall not attempt to anticipate your whims, wants, or needs."
-    tl "I shall not attempt to anticipate your whims, wants, or needs."
+    tl "我决不能揣摩您突然的念头、愿望或需求。"
 
 # game/code/d20/d20s02tl.rpy:153
 translate chinese d20s02tl_da9a27be:
 
     # mc "Good.{w} You are paying attention."
-    mc "Good.{w} You are paying attention."
+    mc "好。{w} 你有专心听讲。"
 
 # game/code/d20/d20s02tl.rpy:158
 translate chinese d20s02tl_a25428c1:
 
     # mc "Now suck my cock, bitch."
-    mc "Now suck my cock, bitch."
+    mc "现在舔我的鸡巴，婊子。"
 
 # game/code/d20/d20s02tl.rpy:174
 translate chinese d20s02tl_pray_1b2fb40a:
 
     # mc "I want you to pray with me, Theresa."
-    mc "I want you to pray with me, Theresa."
+    mc "我想让你和我一起祈祷，特蕾莎。"
 
 # game/code/d20/d20s02tl.rpy:175
 translate chinese d20s02tl_pray_7271f94b:
 
     # mc "Give me your hands."
-    mc "Give me your hands."
+    mc "把你的手给我。"
 
 # game/code/d20/d20s02tl.rpy:177
 translate chinese d20s02tl_pray_8337ec34:
 
     # tl "Okay, Teacher... like this?"
-    tl "Okay, Teacher... like this?"
+    tl "好的，老师...像这样吗？"
 
 # game/code/d20/d20s02tl.rpy:179
 translate chinese d20s02tl_pray_f31df6f9:
 
     # mc "Very nice.{w} Today, I have a new prayer for you to learn."
-    mc "Very nice.{w} Today, I have a new prayer for you to learn."
+    mc "很好。{w} 今天，我有新的祈祷词要让你学习。"
 
 # game/code/d20/d20s02tl.rpy:180
 translate chinese d20s02tl_pray_720c0dce:
 
     # tl "Yes, Teacher."
-    tl "Yes, Teacher."
+    tl "好的，老师。"
 
 # game/code/d20/d20s02tl.rpy:182
 translate chinese d20s02tl_pray_14a44d36:
 
     # mc "First, prepare your heart for the Master."
-    mc "First, prepare your heart for the Master."
+    mc "首先，准备好你的心意来接受主。"
 
 # game/code/d20/d20s02tl.rpy:184
 translate chinese d20s02tl_pray_3a68a987:
 
     # tl "I prepare my heart for the Master to come."
-    tl "I prepare my heart for the Master to come."
+    tl "我准备好我的心意，等待主的到来。"
 
 # game/code/d20/d20s02tl.rpy:185
 translate chinese d20s02tl_pray_d24686d0:
 
     # mc "Next, prepare your mind for the Master."
-    mc "Next, prepare your mind for the Master."
+    mc "接下来，准备好你的心智来接受主。"
 
 # game/code/d20/d20s02tl.rpy:187
 translate chinese d20s02tl_pray_d89ded9b:
 
     # tl "I prepare my mind for the Master to come."
-    tl "I prepare my mind for the Master to come."
+    tl "我准备好我的心智，等待主的到来。"
 
 # game/code/d20/d20s02tl.rpy:188
 translate chinese d20s02tl_pray_f99ddc7b:
 
     # mc "Now, prepare your body for the Master."
-    mc "Now, prepare your body for the Master."
+    mc "现在，准备好你的身体来接受主。"
 
 # game/code/d20/d20s02tl.rpy:190
 translate chinese d20s02tl_pray_55f72b63:
 
     # tl "I prepare my body for the Master to come."
-    tl "I prepare my body for the Master to come."
+    tl "我准备好我的身体，等待主的到来。"
 
 # game/code/d20/d20s02tl.rpy:191
 translate chinese d20s02tl_pray_a5bbc1f5:
 
     # mct "Finally, surrender yourself to my teaching."
-    mct "Finally, surrender yourself to my teaching."
+    mct "最后，臣服于我的教导。"
 
 # game/code/d20/d20s02tl.rpy:193
 translate chinese d20s02tl_pray_09cf030f:
 
     # tl "This day I surrender to the Teacher my heart to use as he sees fit."
-    tl "This day I surrender to the Teacher my heart to use as he sees fit."
+    tl "今天，我把我的心意交给老师，让他随意使用。"
 
 # game/code/d20/d20s02tl.rpy:195
 translate chinese d20s02tl_pray_00e025ec:
 
     # tl "This day I surrender to the Teacher my mind to use as he sees fit."
-    tl "This day I surrender to the Teacher my mind to use as he sees fit."
+    tl "今天，我把我的心智交给老师，让他随意使用。"
 
 # game/code/d20/d20s02tl.rpy:197
 translate chinese d20s02tl_pray_c5006fe3:
 
     # tl "This day I surrender to the Teacher my body to use as he sees fit."
-    tl "This day I surrender to the Teacher my body to use as he sees fit."
+    tl "今天，我把我的身体交给老师，让他随意使用。"
 
 # game/code/d20/d20s02tl.rpy:199
 translate chinese d20s02tl_pray_1a696ea6:
 
     # tl "This I pray."
-    tl "This I pray."
+    tl "我祈祷如上。"
 
 # game/code/d20/d20s02tl.rpy:200
 translate chinese d20s02tl_pray_55dec9b0:
 
     # mct "Wow. That sounded pretty cool."
-    mct "Wow. That sounded pretty cool."
+    mct "哇，听起来真不错。"
 
 # game/code/d20/d20s02tl.rpy:202
 translate chinese d20s02tl_pray_1d5f9fe0:
 
     # mc "Very good, Theresa."
-    mc "Very good, Theresa."
+    mc "非常好，特蕾莎。"
 
 # game/code/d20/d20s02tl.rpy:203
 translate chinese d20s02tl_pray_c71e65fb:
 
     # mct "I wonder what I can get her to do now."
-    mct "I wonder what I can get her to do now."
+    mct "要想想现在能让她做什么。"
 
 # game/code/d20/d20s02tl.rpy:204
 translate chinese d20s02tl_pray_7275b9d8:
 
     # mc "Now it is time to test your devotion and willingness to follow instructions."
-    mc "Now it is time to test your devotion and willingness to follow instructions."
+    mc "现在是时候考验你的奉献精神和服从指示的意愿了。"
 
 # game/code/d20/d20s02tl.rpy:206
 translate chinese d20s02tl_pray_634b8417:
 
     # tl "I am ready, Teacher."
-    tl "I am ready, Teacher."
+    tl "我已经准备好了，老师。"
 
 # game/code/d20/d20s02tl.rpy:211
 translate chinese d20s02tl_pray_60b8806e:
 
     # mc "I demand that you pleasure yourself before me."
-    mc "I demand that you pleasure yourself before me."
+    mc "我要求你在我面前愉悦自己。"
 
 # game/code/d20/d20s02tl.rpy:213
 translate chinese d20s02tl_pray_724587ca:
 
     # tl "Excuse me, Teacher?"
-    tl "Excuse me, Teacher?"
+    tl "请您再说一遍，老师？"
 
 # game/code/d20/d20s02tl.rpy:215
 translate chinese d20s02tl_pray_be1f9178:
 
     # mc "Masturbate for me, Theresa."
-    mc "Masturbate for me, Theresa."
+    mc "给我手淫，特蕾莎。"
 
 # game/code/d20/d20s02tl.rpy:227
 translate chinese d20s02tl_nude_4a187798:
 
     # mc "You're overdressed."
-    mc "You're overdressed."
+    mc "你穿得太多了。"
 
 # game/code/d20/d20s02tl.rpy:229
 translate chinese d20s02tl_nude_0993e48c:
 
     # tl "I'm sorry, Teacher."
-    tl "I'm sorry, Teacher."
+    tl "对不起，老师。"
 
 # game/code/d20/d20s02tl.rpy:231
 translate chinese d20s02tl_nude_bb205ad2:
 
     # mc "Rectify this.{w} Stand up and get undressed."
-    mc "Rectify this.{w} Stand up and get undressed."
+    mc "纠正这个错误。{w}站起来，脱掉衣服。"
 
 # game/code/d20/d20s02tl.rpy:233
 translate chinese d20s02tl_nude_720c0dce:
 
     # tl "Yes, Teacher."
-    tl "Yes, Teacher."
+    tl "是，老师。"
 
 # game/code/d20/d20s02tl.rpy:234
 translate chinese d20s02tl_nude_55021c68:
 
     # mc "Faster, Theresa. Don't waste my time."
-    mc "Faster, Theresa. Don't waste my time."
+    mc "快一点。不要浪费我的时间。"
 
 # game/code/d20/d20s02tl.rpy:235
 translate chinese d20s02tl_nude_b298ef0c:
 
     # tl "Yes, Teacher. Of course."
-    tl "Yes, Teacher. Of course."
+    tl "好的，老师。"
 
 # game/code/d20/d20s02tl.rpy:237
 translate chinese d20s02tl_nude_7a2724fb:
 
     # tl "I am finished, Teacher."
-    tl "I am finished, Teacher."
+    tl "老师，我已经好了。"
 
 # game/code/d20/d20s02tl.rpy:241
 translate chinese d20s02tl_nude_d68e0bf4:
 
     # mc "I see that.{w} Tell me, what is the most important part of a man?"
-    mc "I see that.{w} Tell me, what is the most important part of a man?"
+    mc "我看见了。{w}告诉我，一个男人最重要的是什么？"
 
 # game/code/d20/d20s02tl.rpy:243
 translate chinese d20s02tl_nude_5918d933:
 
     # tl "His manhood."
-    tl "His manhood."
+    tl "他的男子气概。"
 
 # game/code/d20/d20s02tl.rpy:245
 translate chinese d20s02tl_nude_1979ad85:
 
     # mc "How do you show your devotion to a man?"
-    mc "How do you show your devotion to a man?"
+    mc "你如何向一个男人表达你的忠诚？"
 
 # game/code/d20/d20s02tl.rpy:247
 translate chinese d20s02tl_nude_6f8aef89:
 
     # tl "Should I tell you or show you, Teacher?"
-    tl "Should I tell you or show you, Teacher?"
+    tl "我应该告诉您，还是展示给您看，老师？"
 
 # game/code/d20/d20s02tl.rpy:248
 translate chinese d20s02tl_nude_4d329ffb:
 
     # mc "Tell me first, Theresa."
-    mc "Tell me first, Theresa."
+    mc "先告诉我，特蕾莎。"
 
 # game/code/d20/d20s02tl.rpy:250
 translate chinese d20s02tl_nude_97b44d5d:
 
     # tl "I show my devotion to a man by worshiping his manhood - with my eyes, my words, my mouth, and my entire body."
-    tl "I show my devotion to a man by worshiping his manhood - with my eyes, my words, my mouth, and my entire body."
+    tl "我通过崇拜一个男人的男子气概来表示我对他的忠诚--用我的眼睛、我的话语、我的嘴和我的整个身体。"
 
 # game/code/d20/d20s02tl.rpy:252
 translate chinese d20s02tl_nude_9d501fd0:
 
     # mc "Are you prepared to show your devotion to me, Theresa?"
-    mc "Are you prepared to show your devotion to me, Theresa?"
+    mc "你准备好向我展示你的忠诚了吗，特蕾莎？"
 
 # game/code/d20/d20s02tl.rpy:254
 translate chinese d20s02tl_nude_daef5cd8:
 
     # tl "I...{w} I am prepared to worship your manhood with my eyes, my words, and my mouth."
-    tl "I...{w} I am prepared to worship your manhood with my eyes, my words, and my mouth."
+    tl "我...{w}我准备好用我的眼睛、话语和嘴巴来崇拜您的男子气概。"
 
 # game/code/d20/d20s02tl.rpy:258
 translate chinese d20s02tl_nude_1dde71d6:
 
     # mc "Hold that position."
-    mc "Hold that position."
+    mc "保持这个姿势。"
 
 # game/code/d20/d20s02tl.rpy:260
 translate chinese d20s02tl_nude_0b7140b8:
 
     # tl "Oh...{w} my."
-    tl "Oh...{w} my."
+    tl "哦...{w}天啊。"
 
 # game/code/d20/d20s02tl.rpy:262
 translate chinese d20s02tl_nude_3b6c45cf:
 
     # mc "Do you have something to say, Theresa?"
-    mc "Do you have something to say, Theresa?"
+    mc "你有什么要说的吗，特蕾莎？"
 
 # game/code/d20/d20s02tl.rpy:264
 translate chinese d20s02tl_nude_c8f29e28:
 
     # tl "I am prepared to worship.{w} Your manhood... your entire body..."
-    tl "I am prepared to worship.{w} Your manhood... your entire body..."
+    tl "我准备好崇拜您了。{w}您的男子气概...整个身体..."
 
 # game/code/d20/d20s02tl.rpy:265
 translate chinese d20s02tl_nude_8591b451:
 
     # tl "You are sculpted far better than most gods."
-    tl "You are sculpted far better than most gods."
+    tl "您被雕刻得远比大多数神明要好。"
 
 # game/code/d20/d20s02tl.rpy:266
 translate chinese d20s02tl_nude_9c5dbc01:
 
     # tl "May I please show you my devotion, Teacher?"
-    tl "May I please show you my devotion, Teacher?"
+    tl "老师，我可以向您展示我的虔诚吗？"
 
 # game/code/d20/d20s02tl.rpy:268
 translate chinese d20s02tl_nude_72c05a7a:
 
     # mc "You may, Theresa."
-    mc "You may, Theresa."
+    mc "可以，特蕾莎。"
 
 # game/code/d20/d20s02tl.rpy:270
 translate chinese d20s02tl_nude_bb2775be:
 
     # tl "You may use me as you see fit, Teacher."
-    tl "You may use me as you see fit, Teacher."
+    tl "老师，您可以随意使用我。"
 
 # game/code/d20/d20s02tl.rpy:271
 translate chinese d20s02tl_nude_aaa6acee:
 
     # mc "I know, Theresa. I want to see how you worship.{w}.. Impress me."
-    mc "I know, Theresa. I want to see how you worship.{w}.. Impress me."
+    mc "我知道，特蕾莎。我想看看你是怎么敬拜我的.{w.. 给我留个好印象。"
 
 # game/code/d20/d20s02tl.rpy:275
 translate chinese d20s02tl_nude_e377af5f:
