@@ -28,7 +28,7 @@ translate chinese d20s02tl_27514ca7:
 translate chinese d20s02tl_1ae89f60:
 
     # tl "I spoke with Professor Nordin and my daughter after our phone call."
-    tl "我们打过电话之后，我跟诺丁教授，还有我的女儿谈过。"
+    tl "我们打过电话之后，我跟诺丁教授，还有我女儿谈过。"
 
 # game/code/d20/d20s02tl.rpy:90
 translate chinese d20s02tl_2cf21f78:
@@ -58,7 +58,7 @@ translate chinese d20s02tl_f045fcd6:
 translate chinese d20s02tl_bf29f5ca:
 
     # tl "Cynthia? I didn't-{w} You didn't say that she should be here."
-    tl "辛西娅？我没--{w} 你没说她应该在这。"
+    tl "辛西娅？我没--{w}你没说她应该在这。"
 
 # game/code/d20/d20s02tl.rpy:100
 translate chinese d20s02tl_b83222aa:
@@ -130,7 +130,7 @@ translate chinese d20s02tl_720c0dce:
 translate chinese d20s02tl_2d72c2c7:
 
     # mc "Do not forget it.{w} Now let's try some basic instructions."
-    mc "别忘了。{w}现在我们来试试一些基本指令。"
+    mc "记牢了。{w}现在我们来试试基本指令。"
 
 # game/code/d20/d20s02tl.rpy:121
 translate chinese d20s02tl_5ae8c01e:
@@ -346,7 +346,7 @@ translate chinese d20s02tl_pray_c71e65fb:
 translate chinese d20s02tl_pray_7275b9d8:
 
     # mc "Now it is time to test your devotion and willingness to follow instructions."
-    mc "现在是时候考验你的奉献精神和服从指示的意愿了。"
+    mc "现在是时候考验你的奉献精神，还有服从指示的意愿了。"
 
 # game/code/d20/d20s02tl.rpy:206
 translate chinese d20s02tl_pray_634b8417:
@@ -358,7 +358,7 @@ translate chinese d20s02tl_pray_634b8417:
 translate chinese d20s02tl_pray_60b8806e:
 
     # mc "I demand that you pleasure yourself before me."
-    mc "我要求你在我面前愉悦自己。"
+    mc "我要求你在我面前取悦你自己。"
 
 # game/code/d20/d20s02tl.rpy:213
 translate chinese d20s02tl_pray_724587ca:
@@ -514,7 +514,7 @@ translate chinese d20s02tl_nude_bb2775be:
 translate chinese d20s02tl_nude_aaa6acee:
 
     # mc "I know, Theresa. I want to see how you worship.{w}.. Impress me."
-    mc "我知道，特蕾莎。我想看看你是怎么敬拜我的.{w}.. 给我留个好印象。"
+    mc "我知道，特蕾莎。我想看看你是怎么敬拜我的.{w}.. 现在是你的展示机会。"
 
 # game/code/d20/d20s02tl.rpy:275
 translate chinese d20s02tl_nude_e377af5f:
@@ -604,7 +604,7 @@ translate chinese d20s02tl_nude_a1666c34:
 translate chinese d20s02tl_nude_1823c32d:
 
     # mc "You did well.{w} Just remember this is about discipline, not pleasure."
-    mc "你做得很好。{w}只要记住我在管束你，而不是让你取悦我。"
+    mc "你做得很好。{w}但要记住我是在管束你，而不是让你取悦我。"
 
 # game/code/d20/d20s02tl.rpy:312
 translate chinese d20s02tl_nude_05b35af9:
@@ -640,7 +640,7 @@ translate chinese d20s02tl_whip_c6dc508a:
 translate chinese d20s02tl_whip_4fa2666a:
 
     # mc "Good. Now spread your legs apart wider...{w} a little wider than that."
-    mc "好。现在把你的腿分得更大一点...{w}再宽一点。"
+    mc "好。现在把你的腿分开一点...{w}再宽一点。"
 
 # game/code/d20/d20s02tl.rpy:339
 translate chinese d20s02tl_whip_6f36ba86:
@@ -694,7 +694,7 @@ translate chinese d20s02tl_whip_2b2c1fcd:
 translate chinese d20s02tl_whip_f9ca69bc:
 
     # mc "There is no devil here. Only a woman with a soaked pussy."
-    mc "这里没有魔鬼。只有一个女人的阴部湿透了。"
+    mc "这里没有魔鬼。只有一个女人的花穴湿透了。"
 
 # game/code/d20/d20s02tl.rpy:358
 translate chinese d20s02tl_whip_f6872461:
@@ -712,25 +712,25 @@ translate chinese d20s02tl_whip_54dcf628:
 translate chinese d20s02tl_whip_c0cda155:
 
     # mc "Don't lie. Your body is telling me the truth."
-    mc "别撒谎。你的身体在说实话。"
+    mc "别撒谎。你的身体很诚实。"
 
 # game/code/d20/d20s02tl.rpy:366
 translate chinese d20s02tl_whip_5d5d819c:
 
     # tl "But Teacher! Punishment is the only way!"
-    tl "但是老师！你知道吗？惩罚是唯一的方法！"
+    tl "但是老师！您知道吗？惩罚是唯一的方法！"
 
 # game/code/d20/d20s02tl.rpy:370
 translate chinese d20s02tl_whip_74e430cc:
 
     # mc "I can show you a better way, but only if you're honest with me."
-    mc "我可以告诉你一个更好的方法，但前提是你要对我诚实。"
+    mc "我可以告诉你一个更好的方法，但前提是，你要对我诚实。"
 
 # game/code/d20/d20s02tl.rpy:372
 translate chinese d20s02tl_whip_7eef85f2:
 
     # tl "Yes, Teacher!{w} You're right!!"
-    tl "是的，老师！{w}你是对的!!"
+    tl "是的，老师！{w}您是对的!!"
 
 # game/code/d20/d20s02tl.rpy:373
 translate chinese d20s02tl_whip_b55ba8fe:
@@ -766,13 +766,13 @@ translate chinese d20s02tl_whip_f01203ca:
 translate chinese d20s02tl_whip_02aa3743:
 
     # mc "It's Teacher, and that is why I am here."
-    mc "叫我老师，所以我才来这里。"
+    mc "叫我老师。所以我才来这里，帮你。"
 
 # game/code/d20/d20s02tl.rpy:391
 translate chinese d20s02tl_fuck_de565d48:
 
     # mc "When was the last time you were properly fucked, Theresa?"
-    mc "特蕾莎，你上一次次被好好地操是什么时候？"
+    mc "特蕾莎，你上一次被好好地操是什么时候？"
 
 # game/code/d20/d20s02tl.rpy:392
 translate chinese d20s02tl_fuck_aa1fc63b:
@@ -784,25 +784,25 @@ translate chinese d20s02tl_fuck_aa1fc63b:
 translate chinese d20s02tl_fuck_6814f3eb:
 
     # mc "Did you enjoy it?"
-    mc "你喜欢吗？"
+    mc "你喜欢那次吗？"
 
 # game/code/d20/d20s02tl.rpy:395
 translate chinese d20s02tl_fuck_1e8ec46f:
 
     # tl "I performed my duty, Teacher."
-    tl "我履行了我的职责，老师。"
+    tl "我做了我该做的。"
 
 # game/code/d20/d20s02tl.rpy:396
 translate chinese d20s02tl_fuck_710ea832:
 
     # mc "Let me rephrase - when was the last time you had an orgasm during sex, Theresa?"
-    mc "让我换个说法--特蕾莎，你最后一次在做爱时达到高潮是什么时候？"
+    mc "让我换个说法--特蕾莎，你最后一次体验性高潮是什么时候？"
 
 # game/code/d20/d20s02tl.rpy:398
 translate chinese d20s02tl_fuck_21dc6d56:
 
     # tl "More than one score years, Teacher. When my daughter was conceived."
-    tl "很多年前了，老师。当我怀上女儿的时候。"
+    tl "很多年前了，老师。当时我怀着女儿。"
 
 # game/code/d20/d20s02tl.rpy:399
 translate chinese d20s02tl_fuck_2bb05851:
@@ -826,7 +826,7 @@ translate chinese d20s02tl_fuck_a83d370a:
 translate chinese d20s02tl_fuck_76993bb2:
 
     # tl "I must save her before she is too far gone!!!"
-    tl "我必须在她堕落得更深之前拯救她!!!"
+    tl "我必须在她更堕落之前拯救她!!!"
 
 # game/code/d20/d20s02tl.rpy:405
 translate chinese d20s02tl_fuck_f28403e9:
@@ -838,7 +838,7 @@ translate chinese d20s02tl_fuck_f28403e9:
 translate chinese d20s02tl_fuck_375bbd09:
 
     # mc "You learned the wrong lesson. You repressed who you are when you should have embraced it."
-    mc "你吸取了错误的教训。压抑了真实的自己，而你本该拥抱真实的自己。"
+    mc "你吸取了错误的教训。压抑了真实的自己，而你本该拥抱自己的本来面目。"
 
 # game/code/d20/d20s02tl.rpy:407
 translate chinese d20s02tl_fuck_b20bda7e:
@@ -856,7 +856,7 @@ translate chinese d20s02tl_fuck_ee4da7f8:
 translate chinese d20s02tl_fuck_d4e0be7d:
 
     # mc "They were wrong, Theresa.{w} Would you turn your back on Cynthia for anything?"
-    mc "他们错了，特蕾莎。{w}你会因为这样的事情而背弃辛西娅吗？"
+    mc "他们错了，特蕾莎。{w}你会因为这样的事而背弃辛西娅吗？"
 
 # game/code/d20/d20s02tl.rpy:412
 translate chinese d20s02tl_fuck_7f7820d7:
@@ -874,7 +874,7 @@ translate chinese d20s02tl_fuck_72710386:
 translate chinese d20s02tl_fuck_0bbd56d9:
 
     # mc "It is your parents who sinned. It is your parents who failed you."
-    mc "是你的父母犯了罪。是你的父母辜负了你。"
+    mc "是你的父母犯了罪。是他们辜负了你。"
 
 # game/code/d20/d20s02tl.rpy:417
 translate chinese d20s02tl_fuck_5bcd6f4c:
@@ -910,19 +910,19 @@ translate chinese d20s02tl_fuck_e78b6589:
 translate chinese d20s02tl_fuck_d957818a:
 
     # tl "You don't need my permission, Teacher. You have authority over me."
-    tl "你不需要我的许可，老师。你对我有绝对的权利。"
+    tl "您不需要我的许可，老师。您对我有绝对的支配权。"
 
 # game/code/d20/d20s02tl.rpy:428
 translate chinese d20s02tl_fuck_999a9add:
 
     # mc "I need your permission, Theresa. You will only have sex for your own pleasure from now on."
-    mc "我需要你的允许，特蕾莎。从现在起，只会为了自己的快乐而做爱。"
+    mc "我需要你的允许，特蕾莎。从现在起，你只会为了自己的快乐而做爱。"
 
 # game/code/d20/d20s02tl.rpy:429
 translate chinese d20s02tl_fuck_b6cff5f9:
 
     # mc "From this day forward you shall only have sex for enjoyment - never to please others without also pleasing yourself."
-    mc "从今天起，你只为享受而做爱--绝不是为了取悦他人而勉强自己。"
+    mc "从今天起，你只为享受而做爱--绝不会为了取悦他人而勉强自己。"
 
 # game/code/d20/d20s02tl.rpy:431
 translate chinese d20s02tl_fuck_b8770285:
@@ -934,13 +934,13 @@ translate chinese d20s02tl_fuck_b8770285:
 translate chinese d20s02tl_fuck_44657bc3:
 
     # mc "Let's try. Your body is wet and ready. Is your mind ready?"
-    mc "让我们试试。你的身体是湿的，做好了准备。你心理上准备好了吗？"
+    mc "让我们试试。你下面已经湿了，身体是做好了准备。心理上准备好了吗？"
 
 # game/code/d20/d20s02tl.rpy:434
 translate chinese d20s02tl_fuck_18c234f7:
 
     # tl "I'll try, Teacher.{w} We'll try this together. You have my permission."
-    tl "我试试看，老师。{w}我们一起试试。我允许你这么做。"
+    tl "我试试看，老师。{w}我们一起试试。我允许您对我为所欲为。"
 
 # game/code/d20/d20s02tl.rpy:436
 translate chinese d20s02tl_fuck_00e09d97:
@@ -958,13 +958,13 @@ translate chinese d20s02tl_fuck_f94b0801:
 translate chinese d20s02tl_fuck_645ff039:
 
     # mc "No, Theresa. That is a good thing! You should be enjoying this!!"
-    mc "不，特蕾莎。这是件好事! 你应该学会享受!!"
+    mc "不，特蕾莎。这是好事! 你应该学会享受!!"
 
 # game/code/d20/d20s02tl.rpy:444
 translate chinese d20s02tl_fuck_f0208f70:
 
     # tl "I am, Teacher. God forgive me, but you feel amazing inside me!"
-    tl "我在享受，老师。愿主原谅我，但有你在我体内的感觉很奇妙！"
+    tl "我在享受，老师。愿主原谅我，但您在我下面，在我体内的感觉很奇妙！"
 
 # game/code/d20/d20s02tl.rpy:446
 translate chinese d20s02tl_fuck_563136f5:
@@ -988,7 +988,7 @@ translate chinese d20s02tl_fuck_cf5a2ba6:
 translate chinese d20s02tl_fuck_aa8854d0:
 
     # tl "Teacher! I don't know what to do!"
-    tl "老师! 我不知道该怎么办！"
+    tl "老师！我不知道该怎么办！"
 
 # game/code/d20/d20s02tl.rpy:452
 translate chinese d20s02tl_fuck_3d363093:
@@ -1024,7 +1024,7 @@ translate chinese d20s02tl_cum_6cbbac04:
 translate chinese d20s02tl_cum_945451f5:
 
     # tl "FUUUUUUCCCKKKKK!!!"
-    tl "好! 来吧，特蕾莎! 尽情喷!!!"
+    tl "我...要喷了!!!"
 
 # game/code/d20/d20s02tl.rpy:477
 translate chinese d20s02tl_cum_1fa80872:
@@ -1036,7 +1036,7 @@ translate chinese d20s02tl_cum_1fa80872:
 translate chinese d20s02tl_cum_e4fc6ae6:
 
     # tl "Can we do it again, please?"
-    tl "我们能再来一次吗，求你了？"
+    tl "我们能再来一次吗，求您了？"
 
 # game/code/d20/d20s02tl.rpy:479
 translate chinese d20s02tl_cum_597d0c11:
@@ -1048,7 +1048,7 @@ translate chinese d20s02tl_cum_597d0c11:
 translate chinese d20s02tl_cum_28f9bd3b:
 
     # tl "Teacher, may I tell you what I really want right now?"
-    tl "老师，我可以告诉你我现在真正想要什么吗？"
+    tl "老师，我可以告诉您我现在真正想要什么吗？"
 
 # game/code/d20/d20s02tl.rpy:482
 translate chinese d20s02tl_cum_def0ad19:
@@ -1078,13 +1078,13 @@ translate chinese d20s02tl_cum_c4feab3e:
 translate chinese d20s02tl_cum_3db4c83b:
 
     # tl "Yes, Teacher, please.{w} Pleasure my sphincter with your manhood."
-    tl "是的，老师，求您了。{w}用你的男子气概满足我的括约肌。"
+    tl "是的，老师，求您了。{w}用您的男子气概满足我的括约肌。"
 
 # game/code/d20/d20s02tl.rpy:488
 translate chinese d20s02tl_cum_ceb3f515:
 
     # mc "It's my duty to please that booty."
-    mc "取悦这个蜜臀是我的职责呵。"
+    mc "取悦这个蜜臀是我职责所在呵。"
 
 # game/code/d20/d20s02tl.rpy:492
 translate chinese d20s02tl_cum_6c2cf287:
@@ -1114,7 +1114,7 @@ translate chinese d20s02tl_cum_6b02f0e0:
 translate chinese d20s02tl_cum_9acb5636:
 
     # tl "I'M CUMMING, TEACHER!!!"
-    tl "老师，我喷了!!!"
+    tl "老师，我要来了!!!"
 
 # game/code/d20/d20s02tl.rpy:510
 translate chinese d20s02tl_cum_ab50a3ea:
@@ -1300,13 +1300,13 @@ translate chinese d20s02tl_cl_ad24b0d1:
 translate chinese d20s02tl_cl_12d284e4:
 
     # mc "Your mother is a woman of faith and devotion. This was an expression of her devotion."
-    mc "你母亲是个有信仰和奉献精神的女人。这是她忠诚的表现。"
+    mc "你母亲有信仰，也很有奉献精神。这是她忠诚的表现。"
 
 # game/code/d20/d20s02tl.rpy:584
 translate chinese d20s02tl_cl_fa4eff14:
 
     # cl "You can't...{w} I mean, you were just inside my mother's...{w} You were inside my mom?!"
-    cl "你不能...{w}我是说，你刚就在我妈里...{w}你在我妈妈里面？?!"
+    cl "你不能...{w}我是说，你刚就在我妈里...{w}你在我妈妈里面?!"
 
 # game/code/d20/d20s02tl.rpy:586
 translate chinese d20s02tl_cl_6780dcf5:
@@ -1336,13 +1336,13 @@ translate chinese d20s02tl_cl_aafa2576:
 translate chinese d20s02tl_cl_702515d9:
 
     # mc "Cynthia, please disrobe and kneel next to your mother."
-    mc "辛西娅，请脱掉衣服，跪在你母亲身边。"
+    mc "辛西娅，请脱掉衣服，跪在你妈妈身边。"
 
 # game/code/d20/d20s02tl.rpy:593
 translate chinese d20s02tl_cl_e5059fbd:
 
     # mc "I promise everything will make sense soon."
-    mc "我保证很快就会清楚。"
+    mc "我保证很快你就会明白。"
 
 # game/code/d20/d20s02tl.rpy:595
 translate chinese d20s02tl_cl_9ba99840:
@@ -1372,7 +1372,7 @@ translate chinese d20s02tl_cl_c167d9f8:
 translate chinese d20s02tl_cl_9f80c88c:
 
     # mc "Good girls.{w} Straight backs and chin up."
-    mc "好女孩。挺直腰板，抬起下巴。"
+    mc "好女孩。{w}挺直腰板，抬起下巴。"
 
 # game/code/d20/d20s02tl.rpy:602
 translate chinese d20s02tl_cl_cf72da4b:
@@ -1420,7 +1420,7 @@ translate chinese d20s02tl_cl_pray_3a68a987:
 translate chinese d20s02tl_cl_pray_02e83be1:
 
     # cl "I prepare my heart for the Master."
-    cl "我为主人预备好我的心意。"
+    cl "我为主预备好我的心意。"
 
 # game/code/d20/d20s02tl.rpy:633
 translate chinese d20s02tl_cl_pray_6fbbd05d:
@@ -1432,13 +1432,13 @@ translate chinese d20s02tl_cl_pray_6fbbd05d:
 translate chinese d20s02tl_cl_pray_d89ded9b:
 
     # tl "I prepare my mind for the Master to come."
-    tl "我准备好我的心智，等待主人的到来。"
+    tl "我准备好我的心智，等待主的到来。"
 
 # game/code/d20/d20s02tl.rpy:636
 translate chinese d20s02tl_cl_pray_1d4d65d4:
 
     # cl "I prepare my mind for the Master."
-    cl "我为主人准备好我的心智。"
+    cl "我为主准备好我的心智。"
 
 # game/code/d20/d20s02tl.rpy:637
 translate chinese d20s02tl_cl_pray_24720721:
@@ -1450,13 +1450,13 @@ translate chinese d20s02tl_cl_pray_24720721:
 translate chinese d20s02tl_cl_pray_55f72b63:
 
     # tl "I prepare my body for the Master to come."
-    tl "我准备好我的身体，等待主人的到来。"
+    tl "我准备好我的身体，等待主的到来。"
 
 # game/code/d20/d20s02tl.rpy:640
 translate chinese d20s02tl_cl_pray_4375fb7b:
 
     # cl "I prepare my body for the Master."
-    cl "我为主人准备好我的身体。"
+    cl "我为主准备好我的身体。"
 
 # game/code/d20/d20s02tl.rpy:643
 translate chinese d20s02tl_cl_pray_46b8badd:
@@ -1582,7 +1582,7 @@ translate chinese d20s02tl_cl_whip_2319b273:
 translate chinese d20s02tl_cl_whip_c0a0e6b5:
 
     # mc "I shall begin with your breasts. Please clasp your hands behind your back."
-    mc "我会从你的奶子开始。请把手扣在背后。"
+    mc "我会从你的奶子开始。把手扣在背后。"
 
 # game/code/d20/d20s02tl.rpy:689
 translate chinese d20s02tl_cl_whip_1660a238:
@@ -1630,7 +1630,7 @@ translate chinese d20s02tl_cl_whip_5e773c29:
 translate chinese d20s02tl_cl_whip_dcb8d475:
 
     # cl "Three, [mcname]."
-    cl "三，[mpname]。"
+    cl "三，[mcname]。"
 
 # game/code/d20/d20s02tl.rpy:712
 translate chinese d20s02tl_cl_whip_e7a4f80c:
@@ -1714,7 +1714,7 @@ translate chinese d20s02tl_cl_whip_301c13a2:
 translate chinese d20s02tl_cl_whip_d3bf4b7c:
 
     # cl "Yes, [mcname]! One!"
-    cl "是的，[mcname]! 一！"
+    cl "好的，[mcname]! 一！"
 
 # game/code/d20/d20s02tl.rpy:745
 translate chinese d20s02tl_cl_whip_a40dcd27:
@@ -1756,7 +1756,7 @@ translate chinese d20s02tl_cl_whip_22759f77:
 translate chinese d20s02tl_cl_whip_cddedeb5:
 
     # tl "Yes, Teacher!"
-    tl "是的，老师！"
+    tl "湿了，老师！"
 
 # game/code/d20/d20s02tl.rpy:765
 translate chinese d20s02tl_cl_whip_24598b2a:
@@ -1828,7 +1828,7 @@ translate chinese d20s02tl_cl_fuck_28f83a54:
 translate chinese d20s02tl_cl_fuck_c0655d39:
 
     # tl "Then yes, Teacher. I believe I will."
-    tl "那好，老师。我会照你的要求去做。"
+    tl "那好，老师。我会照您的要求去做。"
 
 # game/code/d20/d20s02tl.rpy:789
 translate chinese d20s02tl_cl_fuck_d96bdd87:
@@ -1846,7 +1846,7 @@ translate chinese d20s02tl_cl_fuck_b46f8407:
 translate chinese d20s02tl_cl_fuck_ead79674:
 
     # tl "I...{w} I would prefer if you didn't do that, but if it is your desire...{w} I would do so."
-    tl "我...{w}我希望可以不这样，但如果您希望如此...{w}我愿意照你说的做。"
+    tl "我...{w}我希望可以不用这样，但如果您希望如此...{w}我愿意照您说的做。"
 
 # game/code/d20/d20s02tl.rpy:793
 translate chinese d20s02tl_cl_fuck_99c2def8:
@@ -1858,7 +1858,7 @@ translate chinese d20s02tl_cl_fuck_99c2def8:
 translate chinese d20s02tl_cl_fuck_c9b9ad62:
 
     # mc "Don't worry, girls.{w} I don't require you to be intimate together, but rather at the same time."
-    mc "别担心，姑娘们。{w}我不要求你们亲密无间，只是同一时间把自己都交给我而已。"
+    mc "别担心，姑娘们。{w}我不要求你们亲密无间，只要同一时间把自己都交给我就好。"
 
 # game/code/d20/d20s02tl.rpy:796
 translate chinese d20s02tl_cl_fuck_be7905b5:
@@ -1984,7 +1984,7 @@ translate chinese d20s02tl_cl_fuck_759d7e9e:
 translate chinese d20s02tl_cl_fuck_e7b73187:
 
     # tl "A plus plus."
-    tl "太不可思议了。"
+    tl "真是不可思议。"
 
 # game/code/d20/d20s02tl.rpy:850
 translate chinese d20s02tl_cl_fuck_edde0c34:
@@ -2038,13 +2038,13 @@ translate chinese d20s02tl_cl_fuck_3e750f1b:
 translate chinese d20s02tl_cl_fuck_9476304a:
 
     # mct "Chick chicka chicka..."
-    mct "操，插的好爽..."
+    mct "操，这么爽..."
 
 # game/code/d20/d20s02tl.rpy:865
 translate chinese d20s02tl_cl_fuck_f92348e5:
 
     # mct "Fucking hell.{w} I didn't even have to tell her to do that."
-    mct "妈的。{w} 我都不用让她要这么做。"
+    mct "妈的。{w} 我都不用指示她要这么做。"
 
 # game/code/d20/d20s02tl.rpy:875
 translate chinese d20s02tl_cl_fuck_d985e5d0:
@@ -2086,13 +2086,13 @@ translate chinese d20s02tl_cl_fuck_9ccf0ab4:
 translate chinese d20s02tl_cl_fuck_3db3d360:
 
     # mct "I could spend all day fucking these two, but I have exams."
-    mct "我可以花一整天和这两个人做爱，但我还有考试。"
+    mct "我可以花一整天和这两个人做爱，不过我还有考试。"
 
 # game/code/d20/d20s02tl.rpy:889
 translate chinese d20s02tl_cl_fuck_a9f70c1b:
 
     # mc "Cynthia, you may dress and go get cleaned up.{w} I need to have a few words with your mother before I go."
-    mc "辛西娅，你可以穿上衣服去洗洗了。在我走之前，我要和你母亲说几句话。"
+    mc "辛西娅，你可以穿上衣服去洗洗了。{w}在我走之前，我要和你妈妈说几句话。"
 
 # game/code/d20/d20s02tl.rpy:890
 translate chinese d20s02tl_cl_fuck_4d7eb699:
@@ -2134,7 +2134,7 @@ translate chinese d20s02tl_end_9a4b95e3:
 translate chinese d20s02tl_end_751f189b:
 
     # tl "You are a very impressive young man. We should definitely do this again sometime, as you say."
-    tl "你是个令人印象深刻的年轻人。就像你说的，我们以后一定要再来一次。"
+    tl "年轻人，你确实令人印象深刻。就像你说的，我们以后一定要再来一次。"
 
 # game/code/d20/d20s02tl.rpy:909
 translate chinese d20s02tl_end_578ce6cf:
@@ -2152,13 +2152,13 @@ translate chinese d20s02tl_end_8a761e3c:
 translate chinese d20s02tl_end_05f7d2af:
 
     # mc "I still need to do a few other things to prepare for the exam. I hope you don't mind if I-"
-    mc "我还有别的事要做来应付考试。希望你不要介意..."
+    mc "因为要备考，我还有别的事要做。希望你不介意--"
 
 # game/code/d20/d20s02tl.rpy:916
 translate chinese d20s02tl_end_23aa0c99:
 
     # tl "Was any of this real for you? Or was this just a game?"
-    tl "这些对你来说是真的吗？还是说只是个游戏？"
+    tl "这些对你来说是真的吗？还是说只是游戏一场？"
 
 # game/code/d20/d20s02tl.rpy:918
 translate chinese d20s02tl_end_e64d1d60:
@@ -2222,7 +2222,7 @@ translate chinese strings:
 
     # game/code/d20/d20s02tl.rpy:667
     old "Whip Them Both Together"
-    new "让她们互相照顾"
+    new "一起指导她们俩"
 
 # TODO: Translation updated at 2022-12-06 22:18
 
@@ -2230,4 +2230,4 @@ translate chinese strings:
 translate chinese d20s02tl_pray_62f090f2:
 
     # mc "Finally, surrender yourself to my teaching."
-    mc "最后，你要臣服于我的教导。"
+    mc "最后，臣服于我的教导。"
