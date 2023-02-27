@@ -916,13 +916,13 @@ translate portuguese d20s05_plans_d4dd894d:
 translate portuguese d20s05_plans_e0388910:
 
     # mes "Just enjoy a month or two with nothing to do."
-    mes "Só aproveitar um ou dois meses sem fazer nada."
+    mes "Só aproveitar uns meses sem fazer nada."
 
 # game/code/d20/d20s05.rpy:434
 translate portuguese d20s05_plans_e761b3b0:
 
     # mc "You talked about high frequency trading. Is that still something you're interested in?"
-    mc "Você falou frequentemente sobre mercado de ações. Ainda é algo que você tá interessada?"
+    mc "Você falou obre negociação de alta frequência. Ainda é algo que você tá interessada?"
 
 # game/code/d20/d20s05.rpy:436
 translate portuguese d20s05_plans_e6f7e59b:
