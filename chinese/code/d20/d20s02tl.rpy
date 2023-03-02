@@ -556,7 +556,7 @@ translate chinese d20s02tl_nude_07cab443:
 translate chinese d20s02tl_nude_e66f7e49:
 
     # tl "Yes, Teacher. I will do my best to impress you."
-    tl 好的，老师。我将尽我所能给您留下深刻印象。"
+    tl "好的，老师。我将尽我所能给您留下深刻印象。"
 
 # game/code/d20/d20s02tl.rpy:294
 translate chinese d20s02tl_nude_3d344185:

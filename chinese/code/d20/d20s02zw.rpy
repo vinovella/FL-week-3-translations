@@ -178,7 +178,7 @@ translate chinese d20s02zw_a16822d8:
 translate chinese d20s02zw_116b818d:
 
     # mc "Why the fuck do you hate me so much!?"
-    mc 你他妈为什么这么恨我!?"
+    mc "你他妈为什么这么恨我!?"
 
 # game/code/d20/d20s02zw.rpy:119
 translate chinese d20s02zw_9e96733c:
@@ -963,4 +963,3 @@ translate chinese strings:
     # game/code/d20/d20s02zw.rpy:199
     old "Go to Lyssa and Zarah"
     new "去找丽莎和萨拉"
-
