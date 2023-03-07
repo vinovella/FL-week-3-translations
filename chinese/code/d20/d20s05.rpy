@@ -670,7 +670,7 @@ translate chinese d20s05_pool_talk_1673f78c:
 translate chinese d20s05_pool_talk_93f050d5:
 
     # mc "Of course, there isn't any $1kk prize. All of that was a lie."
-    mc 当然，没有所谓的一百万美元奖金。所有这些都是谎言。"
+    mc "当然，没有所谓的一百万美元奖金。所有这些都是谎言。"
 
 # game/code/d20/d20s05.rpy:350
 translate chinese d20s05_pool_talk_4239b503:
@@ -820,7 +820,7 @@ translate chinese d20s05_pool_talk_0a078fe2:
 translate chinese d20s05_pool_talk_09d05969:
 
     # mc "She did tell me that you weren't \"ripe\" yet. She didn't want to \"pluck\" you until you were completely her sex slave."
-    mc 她确实跟我说过，你还不\"成熟\"。在你完全成为她的性奴之前，她不想把你\"摘\"下来。"
+    mc "她确实跟我说过，你还不\"成熟\"。在你完全成为她的性奴之前，她不想把你\"摘\"下来。"
 
 # game/code/d20/d20s05.rpy:401
 translate chinese d20s05_pool_talk_c4dc7027:
@@ -868,7 +868,7 @@ translate chinese d20s05_plans_cb70afb1:
 translate chinese d20s05_plans_e967717a:
 
     # mes "Huh?{w} Oh, what were you saying?"
-    mes "啊？{w} 哦，你刚才说什么？
+    mes "啊？{w} 哦，你刚才说什么？"
 
 # game/code/d20/d20s05.rpy:419
 translate chinese d20s05_plans_071d1a5c:
@@ -1353,4 +1353,3 @@ translate chinese d20s05_pool_5f2ca332:
 
     # mc "Let's change things up a bit."
     mc "让我们稍微改变一下。"
-

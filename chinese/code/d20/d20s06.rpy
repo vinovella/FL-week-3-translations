@@ -34,7 +34,7 @@ translate chinese d20s06_90799e97:
 translate chinese d20s06_ae8d8df0:
 
     # op "Here. It's, uhm, a gift..."
-    op 给。这是，一个礼物..."
+    op "给。这是，一个礼物..."
 
 # game/code/d20/d20s06.rpy:47
 translate chinese d20s06_2681b642:
@@ -525,4 +525,3 @@ translate chinese strings:
     # game/code/d20/d20s06.rpy:294
     old "Eat Oliver's cum"
     new "吃奥利弗的精液"
-
