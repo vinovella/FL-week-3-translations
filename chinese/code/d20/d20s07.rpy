@@ -1048,579 +1048,579 @@ translate chinese d20s07_last_show_a928c589:
 translate chinese d20s07_last_show_c07bc56d:
 
     # nk "I was making coffee, and waiting for you guys to finish."
-    nk "I was making coffee, and waiting for you guys to finish."
+    nk "我在煮咖啡，等你们完事。"
 
 # game/code/d20/d20s07.rpy:483
 translate chinese d20s07_last_show_704fa92d:
 
     # pw "I know you want to join in."
-    pw "I know you want to join in."
+    pw "我知道你想加入进来。"
 
 # game/code/d20/d20s07.rpy:485
 translate chinese d20s07_last_show_e636fae3:
 
     # pw "[mcname], stop fucking me for a second and tell her."
-    pw "[mcname], stop fucking me for a second and tell her."
+    pw "[mcname]，先别操我了，告诉她。"
 
 # game/code/d20/d20s07.rpy:487
 translate chinese d20s07_last_show_33164725:
 
     # mc "It's her choice, isn't it, whether she wants to join in."
-    mc "It's her choice, isn't it, whether she wants to join in."
+    mc "不管她想不想加入，都是她的选择，不是吗。"
 
 # game/code/d20/d20s07.rpy:488
 translate chinese d20s07_last_show_b9e270aa:
 
     # pw "You're no help, [mcname]!"
-    pw "You're no help, [mcname]!"
+    pw "你这话一点没帮上忙，[mcname]！"
 
 # game/code/d20/d20s07.rpy:490
 translate chinese d20s07_last_show_81a5cdf1:
 
     # nk "I'd like to join, if there weren't so many people watching."
-    nk "I'd like to join, if there weren't so many people watching."
+    nk "如果不是有那么多人在看的话，我也想加入。"
 
 # game/code/d20/d20s07.rpy:492
 translate chinese d20s07_last_show_fdd2e7e8:
 
     # pw "So join!"
-    pw "So join!"
+    pw "那就来吧！"
 
 # game/code/d20/d20s07.rpy:494
 translate chinese d20s07_last_show_f2f449a3:
 
     # nk "I'm too embarrassed."
-    nk "I'm too embarrassed."
+    nk "太尴尬了。"
 
 # game/code/d20/d20s07.rpy:502
 translate chinese d20s07_last_show_887cd2e1:
 
     # pw "Here, wear this!"
-    pw "Here, wear this!"
+    pw "来，戴上这个！"
 
 # game/code/d20/d20s07.rpy:504
 translate chinese d20s07_last_show_b78920af:
 
     # nk "A blindfold? And a collar? Why is this there?"
-    nk "A blindfold? And a collar? Why is this there?"
+    nk "眼罩？还有项圈？为什么会有这个？"
 
 # game/code/d20/d20s07.rpy:506
 translate chinese d20s07_last_show_ec90e3c4:
 
     # pw "For occasions like this one."
-    pw "For occasions like this one."
+    pw "专门为了像这样的场合。"
 
 # game/code/d20/d20s07.rpy:507
 translate chinese d20s07_last_show_c744505c:
 
     # pw "It'll be like old times."
-    pw "It'll be like old times."
+    pw "跟我们以前一样。"
 
 # game/code/d20/d20s07.rpy:509
 translate chinese d20s07_last_show_530cfd80:
 
     # nk "I don't remember wearing a collar."
-    nk "I don't remember wearing a collar."
+    nk "我不记得以前有戴项圈。"
 
 # game/code/d20/d20s07.rpy:511
 translate chinese d20s07_last_show_95f9361a:
 
     # pw "And new times!"
-    pw "And new times!"
+    pw "新时代嘛！"
 
 # game/code/d20/d20s07.rpy:513
 translate chinese d20s07_last_show_b4bc507d:
 
     # nk "I'm not really sure."
-    nk "I'm not really sure."
+    nk "我不太确定。"
 
 # game/code/d20/d20s07.rpy:515
 translate chinese d20s07_last_show_5474fb44:
 
     # mc "Hey, if she doesn't want to, she doesn't want to."
-    mc "Hey, if she doesn't want to, she doesn't want to."
+    mc "嘿，如果她不愿意，那就是真不想了。"
 
 # game/code/d20/d20s07.rpy:517
 translate chinese d20s07_last_show_08fbf54c:
 
     # pw "Yeah, but this is supposed to be a happy event. It's not right for her to be left out."
-    pw "Yeah, but this is supposed to be a happy event. It's not right for her to be left out."
+    pw "嗯，但这本该能让我们都快乐。让她被排除在外是不对的。"
 
 # game/code/d20/d20s07.rpy:519
 translate chinese d20s07_last_show_fd9d3a0f:
 
     # pw "Nora, remember the first time we had sex? How we explored each other's bodies, how it felt touching, and smelling, licking, and tasting each other?"
-    pw "Nora, remember the first time we had sex? How we explored each other's bodies, how it felt touching, and smelling, licking, and tasting each other?"
+    pw "诺拉，还记得我们第一次做爱的时候吗？记得我们沉迷于探索对方的身体，摸着、闻着对方，去舔、去品尝对方的感觉吗？"
 
 # game/code/d20/d20s07.rpy:521
 translate chinese d20s07_last_show_31b80606:
 
     # nk "I do."
-    nk "I do."
+    nk "记得。"
 
 # game/code/d20/d20s07.rpy:523
 translate chinese d20s07_last_show_ee7a49ba:
 
     # pw "And you weren't into girls then. A bird in one hand is worth two in the bush for you."
-    pw "And you weren't into girls then. A bird in one hand is worth two in the bush for you."
+    pw "你那时并不喜欢女孩。对你来说，一鸟在手胜过双鸟在林。"
 
 # game/code/d20/d20s07.rpy:524
 translate chinese d20s07_last_show_e743e0a8:
 
     # mct "Is that from the Shakespeare class?..."
-    mct "Is that from the Shakespeare class?..."
+    mct "这是从莎士比亚的课上学到的吗..."
 
 # game/code/d20/d20s07.rpy:525
 translate chinese d20s07_last_show_62140661:
 
     # pw "Let's explore. Let's share our joy for everyone to see."
-    pw "Let's explore. Let's share our joy for everyone to see."
+    pw "我们现在也来一起探索。共享彼此的快乐，让大家都能看到。"
 
 # game/code/d20/d20s07.rpy:527
 translate chinese d20s07_last_show_ed42837f:
 
     # nk "What if the footage gets out? What if everyone sees?"
-    nk "What if the footage gets out? What if everyone sees?"
+    nk "如果录像传出去怎么办？如果大家都看到了怎么办？"
 
 # game/code/d20/d20s07.rpy:529
 translate chinese d20s07_last_show_92c51af3:
 
     # pw "Who cares? We're moving out of this place anyway. Let's just feel good together. Trust me."
-    pw "Who cares? We're moving out of this place anyway. Let's just feel good together. Trust me."
+    pw "谁在乎呢？反正我们也要搬出去。咱们一心只管感受美好。相信我。"
 
 # game/code/d20/d20s07.rpy:531
 translate chinese d20s07_last_show_a70226f8:
 
     # mc "And if it bothers you, we'll tell people to stop recording."
-    mc "And if it bothers you, we'll tell people to stop recording."
+    mc "如果打扰到你，我们会叫人停止录制。"
 
 # game/code/d20/d20s07.rpy:533
 translate chinese d20s07_last_show_e6b7dee9:
 
     # nk "You think thy will do that?"
-    nk "You think thy will do that?"
+    nk "你觉得他们会愿意吗？"
 
 # game/code/d20/d20s07.rpy:535
 translate chinese d20s07_last_show_9735aea1:
 
     # pw "Yeah, you will stop recording, right everyone?"
-    pw "Yeah, you will stop recording, right everyone?"
+    pw "会啊，你们会停止录制，对吗，大家？"
 
 # game/code/d20/d20s07.rpy:537
 translate chinese d20s07_last_show_754a0f9c:
 
     # pw "Take your clothes off."
-    pw "Take your clothes off."
+    pw "脱掉你的衣服。"
 
 # game/code/d20/d20s07.rpy:541
 translate chinese d20s07_last_show_7ffa80b4:
 
     # nk "Wow."
-    nk "Wow."
+    nk "哇。"
 
 # game/code/d20/d20s07.rpy:543
 translate chinese d20s07_last_show_df9a8211:
 
     # pw "See? Told you."
-    pw "See? Told you."
+    pw "看吧，告诉你了。"
 
 # game/code/d20/d20s07.rpy:544
 translate chinese d20s07_last_show_2ff45315:
 
     # pw "I'm getting in the mood."
-    pw "I'm getting in the mood."
+    pw "我开始有兴致了。"
 
 # game/code/d20/d20s07.rpy:552
 translate chinese d20s07_last_show_509cbb15:
 
     # nk "Fuck me! Just like that, choke me harder."
-    nk "Fuck me! Just like that, choke me harder."
+    nk "操！就像这样，用力掐我的脖子。"
 
 # game/code/d20/d20s07.rpy:554
 translate chinese d20s07_last_show_c5e54a25:
 
     # mc "You're so tight."
-    mc "You're so tight."
+    mc "你太紧了。"
 
 # game/code/d20/d20s07.rpy:556
 translate chinese d20s07_last_show_e15bbb38:
 
     # nk "Don't you like that?"
-    nk "Don't you like that?"
+    nk "你不喜欢这样吗？"
 
 # game/code/d20/d20s07.rpy:568
 translate chinese d20s07_last_show_5dbaafe9:
 
     # mct "Shit, I might come."
-    mct "Shit, I might come."
+    mct "妈的，我这么快就要来了。"
 
 # game/code/d20/d20s07.rpy:569
 translate chinese d20s07_last_show_3f378be0:
 
     # mc "Polly, come lick her asshole so I can stick my dick in it."
-    mc "Polly, come lick her asshole so I can stick my dick in it."
+    mc "波莉，过来舔她屁眼，我好把鸡巴插进去。"
 
 # game/code/d20/d20s07.rpy:571
 translate chinese d20s07_last_show_91cfce1b:
 
     # pw "I want to get fucked too."
-    pw "I want to get fucked too."
+    pw "我也想被操。"
 
 # game/code/d20/d20s07.rpy:573
 translate chinese d20s07_last_show_a052b73d:
 
     # nk "No, keep fucking me."
-    nk "No, keep fucking me."
+    nk "不，继续操我。"
 
 # game/code/d20/d20s07.rpy:575
 translate chinese d20s07_last_show_3f7e165f:
 
     # mc "You asked for it."
-    mc "You asked for it."
+    mc "你自找的。"
 
 # game/code/d20/d20s07.rpy:585
 translate chinese d20s07_last_show_900966e3:
 
     # nk "What are you doing?"
-    nk "What are you doing?"
+    nk "你在干嘛？"
 
 # game/code/d20/d20s07.rpy:587
 translate chinese d20s07_last_show_20e0fced:
 
     # pw "I think the customers want a better look. Right?"
-    pw "I think the customers want a better look. Right?"
+    pw "我觉得顾客们想看得更清楚。对吗？"
 
 # game/code/d20/d20s07.rpy:589
 translate chinese d20s07_last_show_e888866e:
 
     # nk "Wait... ahh!"
-    nk "Wait... ahh!"
+    nk "等等...啊！"
 
 # game/code/d20/d20s07.rpy:591
 translate chinese d20s07_last_show_3992d7c1:
 
     # pw "You like fucking in front of a group of people, you exhibitionist whore?"
-    pw "You like fucking in front of a group of people, you exhibitionist whore?"
+    pw "你喜欢在一群人面前做爱，你这个暴露狂婊子？"
 
 # game/code/d20/d20s07.rpy:593
 translate chinese d20s07_last_show_211cbaad:
 
     # nk "Yes, wait, I don't know! I-"
-    nk "Yes, wait, I don't know! I-"
+    nk "是的，等等，我不知道！我--"
 
 # game/code/d20/d20s07.rpy:609
 translate chinese d20s07_last_show_4de49457:
 
     # mk "Are we just going to watch?"
-    mk "Are we just going to watch?"
+    mk "我们就只看着吗？"
 
 # game/code/d20/d20s07.rpy:611
 translate chinese d20s07_last_show_3166fa1c:
 
     # tm "If I'm allowed to."
-    tm "If I'm allowed to."
+    tm "如果我受到允许的话。"
 
 # game/code/d20/d20s07.rpy:649
 translate chinese d20s07_last_show_5dbf4870:
 
     # pw "Here you go, guys, enjoy."
-    pw "Here you go, guys, enjoy."
+    pw "来了，伙计们，享受吧。"
 
 # game/code/d20/d20s07.rpy:651
 translate chinese d20s07_last_show_cdf76c1e:
 
     # mk "Thanks. Although I ordered something else. Ah, forget it, just do your thing."
-    mk "Thanks. Although I ordered something else. Ah, forget it, just do your thing."
+    mk "谢谢。虽然我点了别的东西。算了，做你自己的事吧。"
 
 # game/code/d20/d20s07.rpy:653
 translate chinese d20s07_last_show_c7165b2c:
 
     # tm "What do you think about this?"
-    tm "What do you think about this?"
+    tm "你觉得这个怎么样？"
 
 # game/code/d20/d20s07.rpy:655
 translate chinese d20s07_last_show_df291e48:
 
     # mk "I like to watch."
-    mk "I like to watch."
+    mk "我喜欢看。"
 
 # game/code/d20/d20s07.rpy:657
 translate chinese d20s07_last_show_036d345c:
 
     # tm "It's nice, isn't it? Seeing two people get along so well."
-    tm "It's nice, isn't it? Seeing two people get along so well."
+    tm "这很好，对吧？看到两个人相处得这么好。"
 
 # game/code/d20/d20s07.rpy:675
 translate chinese d20s07_last_show_69747ea0:
 
     # pw "Do you guys want anything else?"
-    pw "Do you guys want anything else?"
+    pw "你们还想要什么吗？"
 
 # game/code/d20/d20s07.rpy:677
 translate chinese d20s07_last_show_6de04c96:
 
     # tm "Yeah, go over there and suck his cock."
-    tm "Yeah, go over there and suck his cock."
+    tm "想！去那边给他口交啊。"
 
 # game/code/d20/d20s07.rpy:678
 translate chinese d20s07_last_show_fc18fdfa:
 
     # tm "We have a bet on who's going to make [mcname] cum."
-    tm "We have a bet on who's going to make [mcname] cum."
+    tm "我们在打赌，谁会让[mcname]射精。"
 
 # game/code/d20/d20s07.rpy:700
 translate chinese d20s07_last_show_d8ccf91a:
 
     # pw "What are you doing?"
-    pw "What are you doing?"
+    pw "你在干嘛？"
 
 # game/code/d20/d20s07.rpy:702
 translate chinese d20s07_last_show_f834ffa6:
 
     # nk "Couldn't hear you."
-    nk "Couldn't hear you."
+    nk "听不到你说什么。"
 
 # game/code/d20/d20s07.rpy:704
 translate chinese d20s07_last_show_5ff9a309:
 
     # pw "I said, what are you doing?"
-    pw "I said, what are you doing?"
+    pw "我说，你在做什么？"
 
 # game/code/d20/d20s07.rpy:706
 translate chinese d20s07_last_show_15c7eaec:
 
     # nk "Well, if you guys are going to fuck on my shift, I might as well make some money off it."
-    nk "Well, if you guys are going to fuck on my shift, I might as well make some money off it."
+    nk "好吧，如果你们要在我当班的时候做爱，我还不如从中赚点钱。"
 
 # game/code/d20/d20s07.rpy:707
 translate chinese d20s07_last_show_44ecf9ad:
 
     # nk "Keep going."
-    nk "Keep going."
+    nk "继续。"
 
 # game/code/d20/d20s07.rpy:709
 translate chinese d20s07_last_show_7c6353bd:
 
     # mc "Come here, Polly."
-    mc "Come here, Polly."
+    mc "过来，波莉。"
 
 # game/code/d20/d20s07.rpy:715
 translate chinese d20s07_last_show_93e17e1f:
 
     # tm "This is awesome."
-    tm "This is awesome."
+    tm "这真是太棒了。"
 
 # game/code/d20/d20s07.rpy:717
 translate chinese d20s07_last_show_600de901:
 
     # mk "My favorite. You're the best."
-    mk "My favorite. You're the best."
+    mk "你是我的最爱。你是最棒的。"
 
 # game/code/d20/d20s07.rpy:720
 translate chinese d20s07_last_show_89d6a8e2:
 
     # mk "I wish he went that hard with me."
-    mk "I wish he went that hard with me."
+    mk "我希望他也能这样狠狠操我。"
 
 # game/code/d20/d20s07.rpy:721
 translate chinese d20s07_last_show_eff456cc:
 
     # mk "I did suck his dick in a toilet stall though."
-    mk "I did suck his dick in a toilet stall though."
+    mk "不过我确实在厕所隔间里给他口交过。"
 
 # game/code/d20/d20s07.rpy:723
 translate chinese d20s07_last_show_1bb89b8b:
 
     # mk "Looks like they are having great fun."
-    mk "Looks like they are having great fun."
+    mk "看起来他们玩得很开心。"
 
 # game/code/d20/d20s07.rpy:724
 translate chinese d20s07_last_show_6c158171:
 
     # mk "I will have to try a dick."
-    mk "I will have to try a dick."
+    mk "我想尝尝鸡巴的味道。"
 
 # game/code/d20/d20s07.rpy:727
 translate chinese d20s07_last_show_129f3f4f:
 
     # nk "We went on a ferris wheel, so that's sorta similar."
-    nk "We went on a ferris wheel, so that's sorta similar."
+    nk "和我们坐摩天轮的感觉有点类似。"
 
 # game/code/d20/d20s07.rpy:729
 translate chinese d20s07_last_show_24afb9bd:
 
     # nk "Yeah. You should give it a try."
-    nk "Yeah. You should give it a try."
+    nk "对。你应该试一试。"
 
 # game/code/d20/d20s07.rpy:730
 translate chinese d20s07_last_show_754363d4:
 
     # nk "I can ask [mcname] if you want."
-    nk "I can ask [mcname] if you want."
+    nk "如果你想，我可以问[mcname]。"
 
 # game/code/d20/d20s07.rpy:732
 translate chinese d20s07_last_show_41db6a1c:
 
     # mc "I can hear you, you know?"
-    mc "I can hear you, you know?"
+    mc "我能听到的，好吗？"
 
 # game/code/d20/d20s07.rpy:734
 translate chinese d20s07_last_show_aed9ec96:
 
     # tm "You guys are doing great."
-    tm "You guys are doing great."
+    tm "你们做得很好。"
 
 # game/code/d20/d20s07.rpy:736
 translate chinese d20s07_last_show_b627c0e0:
 
     # mk "I don't think it's a competition, but yeah. I'm rooting for Nora."
-    mk "I don't think it's a competition, but yeah. I'm rooting for Nora."
+    mk "我不认为这是一场竞争，但是我在为诺拉加油。"
 
 # game/code/d20/d20s07.rpy:738
 translate chinese d20s07_last_show_3919c35f:
 
     # tm "So am I."
-    tm "So am I."
+    tm "我也是。"
 
 # game/code/d20/d20s07.rpy:740
 translate chinese d20s07_last_show_95787b3e:
 
     # pw "I thought you guys were rooting for me... sob..."
-    pw "I thought you guys were rooting for me... sob..."
+    pw "我以为你们是支持我的...呜呜..."
 
 # game/code/d20/d20s07.rpy:742
 translate chinese d20s07_last_show_34804f5b:
 
     # mk "We are, we're just bigger fans of the girl who gives us free coffee!"
-    mk "We are, we're just bigger fans of the girl who gives us free coffee!"
+    mk "支持你！只是我们更喜欢给免费咖啡的女孩！"
 
 # game/code/d20/d20s07.rpy:744
 translate chinese d20s07_last_show_1d0331c6:
 
     # pw "I am the one who did that!"
-    pw "I am the one who did that!"
+    pw "那个人就是我呀！"
 
 # game/code/d20/d20s07.rpy:746
 translate chinese d20s07_last_show_996a1aa8:
 
     # mk "You don't even know how to work the machine properly."
-    mk "You don't even know how to work the machine properly."
+    mk "你都不知道怎么正确使用机器。"
 
 # game/code/d20/d20s07.rpy:748
 translate chinese d20s07_last_show_13f89f25:
 
     # tm "And I'm pretty sure you guys were having sex in the backroom."
-    tm "And I'm pretty sure you guys were having sex in the backroom."
+    tm "而且我很确定你们在里屋做爱了。"
 
 # game/code/d20/d20s07.rpy:749
 translate chinese d20s07_last_show_3ec13154:
 
     # tm "I came in and left as soon as I heard you people doing that. Near food..."
-    tm "I came in and left as soon as I heard you people doing that. Near food..."
+    tm "我当时进来了，一听到你们这些人在做那个，就离开了。你们当时靠近食物..."
 
 # game/code/d20/d20s07.rpy:751
 translate chinese d20s07_last_show_7ba68482:
 
     # mk "Is that why you never come here?"
-    mk "Is that why you never come here?"
+    mk "这就是你从不来这里的原因吗？"
 
 # game/code/d20/d20s07.rpy:753
 translate chinese d20s07_last_show_325b8439:
 
     # tm "That and the coffee's like twelve dollars."
-    tm "That and the coffee's like twelve dollars."
+    tm "我撞见了那一幕，还有没喝的咖啡要12美元。"
 
 # game/code/d20/d20s07.rpy:755
 translate chinese d20s07_last_show_0e27d3e5:
 
     # nk "You are among my favorite customers."
-    nk "You are among my favorite customers."
+    nk "你是我最喜欢的顾客之一。"
 
 # game/code/d20/d20s07.rpy:757
 translate chinese d20s07_last_show_45ef733a:
 
     # pw "Please fuck my ass."
-    pw "Please fuck my ass."
+    pw "请操我的屁股。"
 
 # game/code/d20/d20s07.rpy:765
 translate chinese d20s07_last_show_39069b07:
 
     # pw "You're fucking me so rough! You're going to make me cum non-stop in front of everyone!"
-    pw "You're fucking me so rough! You're going to make me cum non-stop in front of everyone!"
+    pw "Y你...插得太猛了! 你会让我在所有人面前不停地高潮！"
 
 # game/code/d20/d20s07.rpy:770
 translate chinese d20s07_last_show_cabed7a6:
 
     # pw "I'm going to go crazy."
-    pw "I'm going to go crazy."
+    pw "我要疯了。"
 
 # game/code/d20/d20s07.rpy:773
 translate chinese d20s07_last_show_4f848938:
 
     # pw "Fuck me like a bitch."
-    pw "Fuck me like a bitch."
+    pw "我是婊子，求你狠狠操我！"
 
 # game/code/d20/d20s07.rpy:778
 translate chinese d20s07_last_show_e054ce99:
 
     # mc "I'm going to cum!"
-    mc "I'm going to cum!"
+    mc "我要射了！"
 
 # game/code/d20/d20s07.rpy:802
 translate chinese d20s07_end_a1e4c885:
 
     # nk "Ladies and gentlemen, we have some good news and bad news."
-    nk "Ladies and gentlemen, we have some good news and bad news."
+    nk "女士们，先生们，我们要送上好消息，以及坏消息。"
 
 # game/code/d20/d20s07.rpy:803
 translate chinese d20s07_end_405a50ce:
 
     # nk "First, the bad news. I hope you enjoyed that, because that is the last time we're going to serve you here."
-    nk "First, the bad news. I hope you enjoyed that, because that is the last time we're going to serve you here."
+    nk "首先，先说坏消息。希望大家喜欢刚才的表演，因为这是我们最后一次在这里为各位服务了。"
 
 # game/code/d20/d20s07.rpy:805
 translate chinese d20s07_end_2716aa36:
 
     # nk "Our corporate overlords at MegaBucks have bought us out."
-    nk "Our corporate overlords at MegaBucks have bought us out."
+    nk "大公司 MegaBucks已经把我们买断了。"
 
 # game/code/d20/d20s07.rpy:806
 translate chinese d20s07_end_9126efd3:
 
     # nk "The good news? Your coffee is free."
-    nk "The good news? Your coffee is free."
+    nk "至于好消息？各位的咖啡免费。"
 
 # game/code/d20/d20s07.rpy:808
 translate chinese d20s07_end_7fc75239:
 
     # pw "And there's more."
-    pw "And there's more."
+    pw "还有呢。"
 
 # game/code/d20/d20s07.rpy:809
 translate chinese d20s07_end_63af3f33:
 
     # pw "Nora will re-open in a different location, and I'll be there as her partner. We hope to see you all there."
-    pw "Nora will re-open in a different location, and I'll be there as her partner. We hope to see you all there."
+    pw "诺拉将在另一个地方重新开业，我将作为她的搭档去那。希望在那里见到大家。"
 
 # game/code/d20/d20s07.rpy:811
 translate chinese d20s07_end_2a0e7ea0:
 
     # nk "Thank you!"
-    nk "Thank you!"
+    nk "谢谢各位！"
 
 translate chinese strings:
 
     # game/code/d20/d20s07.rpy:67
     old "At Nora's café"
-    new "At Nora's café"
+    new "在诺拉的咖啡馆"
 
     # game/code/d20/d20s07.rpy:348
     old "Go with Polly and Nora"
-    new "Go with Polly and Nora"
+    new "和波莉、诺拉一起去"
 
     # game/code/d20/d20s07.rpy:348
     old "Go home"
-    new "Go home"
+    new "回家"
 
 # TODO: Translation updated at 2022-12-06 22:18
 
@@ -1628,5 +1628,5 @@ translate chinese strings:
 translate chinese d20s07_last_show_b9af505f:
 
     # nk "You think they will do that?"
-    nk "You think they will do that?"
+    nk "你觉得他们会那样吗？"
 
