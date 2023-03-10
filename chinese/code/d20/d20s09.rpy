@@ -208,7 +208,7 @@ translate chinese d20s09_dc1de0ea:
 translate chinese d20s09_0464fb34:
 
     # hr "Yeah? And? She didn't give a damn about you."
-    hr "是吗？然后呢？她根本不在乎你。"
+    hr "是吗？然后呢？她又根本不在乎你。"
 
 # game/code/d20/d20s09.rpy:102
 translate chinese d20s09_055e2526:
@@ -244,7 +244,7 @@ translate chinese d20s09_e24f7666:
 translate chinese d20s09_6c1aec27:
 
     # hr "I'm saying that I know what happened was shit. But there's better shit out there. You can't let yourself be weighed down by what happened."
-    hr "我是说，我知道发生的事都一团糟。但外面还有更好的。你不能被已经发生的事压垮。"
+    hr "我是说，我知道发生的事都一团糟。但外面还有更好的。你不能被已经发生的事给压垮。"
 
 # game/code/d20/d20s09.rpy:114
 translate chinese d20s09_17f729a5:
@@ -268,13 +268,13 @@ translate chinese d20s09_09b12965:
 translate chinese d20s09_70eaa0aa:
 
     # hr "Hm? Here?"
-    hr "嗯？在这？"
+    hr "嗯？在这过夜？"
 
 # game/code/d20/d20s09.rpy:122
 translate chinese d20s09_786f7661:
 
     # mc "Yeah. One last night. For old-time's sake. Keep me company. I could use it."
-    mc "对。最后一个晚上。看在老交情的份上。陪陪我吧。"
+    mc "对。最后一个晚上了。看在老交情的份上。陪陪我吧。"
 
 # game/code/d20/d20s09.rpy:124
 translate chinese d20s09_52f08aa1:
@@ -316,19 +316,19 @@ translate chinese d20s09_f0659f60:
 translate chinese d20s09_177c6fb0:
 
     # hr "*Chuckles* I guess. Anyway, I wanted to ask if you expected this to go somewhere?"
-    hr "*轻笑* 行吧，总之，我想问你希望这事走向如何？"
+    hr "*轻笑* 行吧，总之，我想问你，希望这事走向如何？"
 
 # game/code/d20/d20s09.rpy:137
 translate chinese d20s09_b86fdf8c:
 
     # mc "Define \"this.\""
-    mc "定义\"这事\"。"
+    mc "定义一下\"这事\"。"
 
 # game/code/d20/d20s09.rpy:139
 translate chinese d20s09_bdb52748:
 
     # hr "Us. In this room."
-    hr "我们俩。在这个房间里。"
+    hr "我们俩。共处一室。"
 
 # game/code/d20/d20s09.rpy:141
 translate chinese d20s09_996772e0:
