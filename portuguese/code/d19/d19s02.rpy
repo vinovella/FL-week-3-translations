@@ -780,3 +780,11 @@ translate portuguese d19s02_d138a5d3:
     # mct "I forgot to ask AmRose while she is here."
     mct "Esqueci de perguntar pra AmRose enquanto ela tá aqui."
 
+# TODO: Translation updated at 2023-03-10 21:23
+
+# game/code/d19/d19s02.rpy:498
+translate portuguese d19s02_b0400d74:
+
+    # mct "I'll be there"
+    mct ""
+
