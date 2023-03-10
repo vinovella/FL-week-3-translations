@@ -780,3 +780,8 @@ translate chinese d19s02_d138a5d3:
     # mct "I forgot to ask AmRose while she is here."
     mct "刚才爱洛丝在的时候我忘了问她。"
 
+# game/code/d19/d19s02.rpy:498
+translate chinese d19s02_b0400d74:
+
+    # mct "I'll be there"
+    mct "I'll be there"
