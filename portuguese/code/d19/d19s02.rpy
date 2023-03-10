@@ -449,7 +449,7 @@ translate portuguese d19s02_4b0e095d:
 
     # sy "You're gonna bribe them?"
     sy "Vai subornar eles?"
- 
+
 # game/code/d19/d19s02.rpy:376
 translate portuguese d19s02_69d286d1:
 
@@ -786,5 +786,4 @@ translate portuguese d19s02_d138a5d3:
 translate portuguese d19s02_b0400d74:
 
     # mct "I'll be there"
-    mct ""
-
+    mct "Eu vou aí"
