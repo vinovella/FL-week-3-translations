@@ -22,7 +22,7 @@ translate chinese d20s01_9c21972a:
 translate chinese d20s01_5f13ef96:
 
     # mc "Why would I go back to sleep if I'm already dreaming?"
-    mc "如果我已经在做梦了，为什么还要回去睡觉呢?"
+    mc "如果我已经在做梦了，为什么还要回去睡觉呢？"
 
 # game/code/d20/d20s01.rpy:30
 translate chinese d20s01_398bcc1f:
@@ -460,7 +460,7 @@ translate chinese d20s01_judges_2fe9d939:
 translate chinese d20s01_judges_5ffcd4c3:
 
     # arj "Some lesbian. Though that's becoming more and more of a lie everyday it seems."
-    arj "一个女同。虽然这一点好像每天都有争议。"
+    arj "是一个女同。虽然这一点好像每天都有争议。"
 
 # game/code/d20/d20s01.rpy:207
 translate chinese d20s01_judges_01f61278:
