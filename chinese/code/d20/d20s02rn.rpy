@@ -136,7 +136,7 @@ translate chinese d20s02rn_c087d79f:
 translate chinese d20s02rn_a8efdf33:
 
     # rn "Yes, Miss Kovalevich. It is rather warm. I prefer it that way.{w} You'll understand when you get older."
-    rn "是的，科瓦列维奇小姐。非常暖和。我更喜欢这样。{w}等你长大了就会明白了。"
+    rn "是的，科瓦列维奇小姐。这里很暖和。我更喜欢这样。{w}等你长大了就会明白了。"
 
 # game/code/d20/d20s02rn.rpy:93
 translate chinese d20s02rn_81ceb85d:
@@ -172,7 +172,7 @@ translate chinese d20s02rn_95ff38c8:
 translate chinese d20s02rn_cf229ae4:
 
     # rn "I'm rapidly running out of availability and you don't seem to be getting any closer to telling me what this is about."
-    rn "我很快就没空了，而且看来你也不打算告诉我这是怎么回事了。"
+    rn "我很快就没空了，而且看来你也不打算告诉我你为什么来了。"
 
 # game/code/d20/d20s02rn.rpy:105
 translate chinese d20s02rn_7154853d:
