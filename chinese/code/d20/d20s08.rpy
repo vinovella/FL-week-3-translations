@@ -16,13 +16,13 @@ translate chinese d20s08_c4c28fdb:
 translate chinese d20s08_87dff618:
 
     # arj "Whether or not you were the one that broke through the police tape."
-    arj "你是不是那个突破警戒线的人。"
+    arj "关于你是不是突破警戒线的人。"
 
 # game/code/d20/d20s08.rpy:37
 translate chinese d20s08_15543b99:
 
     # mc "Nope, not me. What's Stacy doing?"
-    mc "不，不是我。史黛西在干嘛？"
+    mc "我可不是。史黛西在干嘛？"
 
 # game/code/d20/d20s08.rpy:38
 translate chinese d20s08_e32434d9:
@@ -58,7 +58,7 @@ translate chinese d20s08_d8f31d44:
 translate chinese d20s08_2bc1fb15:
 
     # sy "I didn't say, \"No.\" I need more time to be sure."
-    sy "我可没这么说\"没有。\"我需要更多时间再确定下。"
+    sy "我可没直接说\"没有。\"我需要更多时间再确定下。"
 
 # game/code/d20/d20s08.rpy:46
 translate chinese d20s08_fe68c5f5:
