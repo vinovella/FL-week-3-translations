@@ -4,265 +4,265 @@
 translate chinese d21s02_3a53d660:
 
     # mc "Thank you for meeting me... angels."
-    mc "Thank you for meeting me... angels."
+    mc "谢谢你来见我...天使。"
 
 # game/code/d21/d21s02.rpy:28
 translate chinese d21s02_b2d2a033:
 
     # arj "Yeah, I don't know why she wore that."
-    arj "Yeah, I don't know why she wore that."
+    arj "嗯，不知道她为什么要穿那个。"
 
 # game/code/d21/d21s02.rpy:30
 translate chinese d21s02_e694b56a:
 
     # sy "It's our mission outfit! Why aren't you wearing yours?"
-    sy "It's our mission outfit! Why aren't you wearing yours?"
+    sy "这是我们的任务装！你怎么不穿你的？"
 
 # game/code/d21/d21s02.rpy:32
 translate chinese d21s02_48033b73:
 
     # arj "No. Just no. Why would you even-?"
-    arj "No. Just no. Why would you even-?"
+    arj "不穿，就是不穿。你为什么--？"
 
 # game/code/d21/d21s02.rpy:34
 translate chinese d21s02_35fb3602:
 
     # sy "I'm going to break that bitch. She's going down, and I'm the shovel."
-    sy "I'm going to break that bitch. She's going down, and I'm the shovel."
+    sy "我要打烂那个婊子。她要倒下了，而我就是那把铲子。"
 
 # game/code/d21/d21s02.rpy:36
 translate chinese d21s02_682c2874:
 
     # arj "What?"
-    arj "What?"
+    arj "什么？"
 
 # game/code/d21/d21s02.rpy:38
 translate chinese d21s02_8cb16c49:
 
     # sy "She's going away for life and I'm gonna punch her prison ticket."
-    sy "She's going away for life and I'm gonna punch her prison ticket."
+    sy "她要被判终身监禁，我会给她开监狱罚单。"
 
 # game/code/d21/d21s02.rpy:39
 translate chinese d21s02_b7178a25:
 
     # arj "That doesn't even-"
-    arj "That doesn't even-"
+    arj "这根本不--"
 
 # game/code/d21/d21s02.rpy:41
 translate chinese d21s02_e2b47eef:
 
     # sy "She's going downtown and upstate, and I'm her taxi."
-    sy "She's going downtown and upstate, and I'm her taxi."
+    sy "她要去市中心还有偏远的北部，而我是她的出租车。"
 
 # game/code/d21/d21s02.rpy:43
 translate chinese d21s02_4017227e:
 
     # mc "You can stop now."
-    mc "You can stop now."
+    mc "你可以停下来了。"
 
 # game/code/d21/d21s02.rpy:45
 translate chinese d21s02_e00c48cb:
 
     # sy "Let me at her. I'm here to chew gum and send Lydia to GenPop-"
-    sy "Let me at her. I'm here to chew gum and send Lydia to GenPop-"
+    sy "让我来。我来嚼口香糖，把莉迪亚送往GenPop--"
 
 # game/code/d21/d21s02.rpy:47
 translate chinese d21s02_175e7f8b:
 
     # arj "PLEASE STOP!"
-    arj "PLEASE STOP!"
+    arj "求你闭嘴！"
 
 # game/code/d21/d21s02.rpy:49
 translate chinese d21s02_3d88cadd:
 
     # "Police Officer" "Excuse me, are you [mcname] Young?"
-    "Police Officer" "Excuse me, are you [mcname] Young?"
+    "警察" "不好意思，你是杨[mcname]吗？"
 
 # game/code/d21/d21s02.rpy:51
 translate chinese d21s02_10d58019:
 
     # mc "Yes, we're here to see Lydia Cox. I made an appointment."
-    mc "Yes, we're here to see Lydia Cox. I made an appointment."
+    mc "是，我们是来找莉迪亚·考克斯的。我提前预约了。"
 
 # game/code/d21/d21s02.rpy:53
 translate chinese d21s02_c7895dc4:
 
     # "Police Officer" "Yeah, she signed for you to visit. I'm afraid she's only allowed two visitors at any time."
-    "Police Officer" "Yeah, she signed for you to visit. I'm afraid she's only allowed two visitors at any time."
+    "警官" "嗯，她签了名让你去看她。恐怕只能允许两名访客进入。"
 
 # game/code/d21/d21s02.rpy:55
 translate chinese d21s02_d4ba5962:
 
     # sy "Let me at her. Let me at her!{w} I'll put that bitch away so long she'll never meet her great grandchildren!"
-    sy "Let me at her. Let me at her!{w} I'll put that bitch away so long she'll never meet her great grandchildren!"
+    sy "让我来。我来对付她！{w}我要把那个婊子关起来，让她永远见不到曾孙子！"
 
 # game/code/d21/d21s02.rpy:57
 translate chinese d21s02_51246772:
 
     # mc "That doesn't even make any sense."
-    mc "That doesn't even make any sense."
+    mc "这根本没有任何意义。"
 
 # game/code/d21/d21s02.rpy:59
 translate chinese d21s02_7848ee13:
 
     # arj "Go ahead, take Stacy. If I see that cunt again I'll break her fucking neck."
-    arj "Go ahead, take Stacy. If I see that cunt again I'll break her fucking neck."
+    arj "去吧，带上史黛西。如果我再看到那个婊子，就拧断她的脖子。"
 
 # game/code/d21/d21s02.rpy:61
 translate chinese d21s02_0f65ccd7:
 
     # "Police Officer" "I'll pretend I didn't hear that."
-    "Police Officer" "I'll pretend I didn't hear that."
+    "警察" "我就当没听见。"
 
 # game/code/d21/d21s02.rpy:63
 translate chinese d21s02_2a8f9b26:
 
     # mct "Shit. Which unhinged lunatic do I bring with me?"
-    mct "Shit. Which unhinged lunatic do I bring with me?"
+    mct "靠。两个都是不正常的疯子，我该带哪个？"
 
 # game/code/d21/d21s02.rpy:67
 translate chinese d21s02_a37460c3:
 
     # mc "AmRose, you're with me.{w} No killing."
-    mc "AmRose, you're with me.{w} No killing."
+    mc "爱洛丝，你和我一起。{w}不许出人命。"
 
 # game/code/d21/d21s02.rpy:69
 translate chinese d21s02_bcdad471:
 
     # arj "What about maiming?"
-    arj "What about maiming?"
+    arj "致残可以吗？"
 
 # game/code/d21/d21s02.rpy:71
 translate chinese d21s02_b384039a:
 
     # mc "Ask permission first."
-    mc "Ask permission first."
+    mc "要先征求我的同意。"
 
 # game/code/d21/d21s02.rpy:75
 translate chinese d21s02_98e954e6:
 
     # mc "Stacy, get your shit together. You're with me."
-    mc "Stacy, get your shit together. You're with me."
+    mc "史黛西，把你东西收拾好。你和我一起。"
 
 # game/code/d21/d21s02.rpy:77
 translate chinese d21s02_74814b1b:
 
     # sy "Oh yeah, time to fuck this bitch up."
-    sy "Oh yeah, time to fuck this bitch up."
+    sy "好耶，是时候收拾这个婊子了。"
 
 # game/code/d21/d21s02.rpy:79
 translate chinese d21s02_9606d9c2:
 
     # mc "I said, \"Get your shit together.\" That means behave."
-    mc "I said, \"Get your shit together.\" That means behave."
+    mc "我说，\"把你的东西收拾好。\" 意思是要听话。"
 
 # game/code/d21/d21s02.rpy:80
 translate chinese d21s02_2769e8c9:
 
     # sy "Fine..."
-    sy "Fine..."
+    sy "好吧..."
 
 # game/code/d21/d21s02.rpy:86
 translate chinese d21s02_8197cdc4:
 
     # mc "Alright. AmRose, you're with me. Don't fuck this up."
-    mc "Alright. AmRose, you're with me. Don't fuck this up."
+    mc "好吧。爱洛丝，你跟着我。别把事情搞砸了。"
 
 # game/code/d21/d21s02.rpy:91
 translate chinese d21s02_1110c5a1:
 
     # mc "Alright. Stacy, you're with me. Don't fuck this up."
-    mc "Alright. Stacy, you're with me. Don't fuck this up."
+    mc "好吧。史黛西，你跟着我。别把事情搞砸了。"
 
 # game/code/d21/d21s02.rpy:98
 translate chinese d21s02_meet_lc_4684c542:
 
     # mc "Ah. Hello, Clarice"
-    mc "Ah. Hello, Clarice"
+    mc "啊，你好，克拉丽斯"
 
 # game/code/d21/d21s02.rpy:101
 translate chinese d21s02_meet_lc_0baf648b:
 
     # lc "That's my line."
-    lc "That's my line."
+    lc "这是我的台词。"
 
 # game/code/d21/d21s02.rpy:103
 translate chinese d21s02_meet_lc_eff57eab:
 
     # mc "It seemed appropriate, given the terrain."
-    mc "It seemed appropriate, given the terrain."
+    mc "台词跟这里的环境正适配啊。"
 
 # game/code/d21/d21s02.rpy:105
 translate chinese d21s02_meet_lc_fb3b26b5:
 
     # lc "Except you're on the wrong side of the bars... for now."
-    lc "Except you're on the wrong side of the bars... for now."
+    lc "除了一点，眼下...该站在铁窗里面的，是你。"
 
 # game/code/d21/d21s02.rpy:108
 translate chinese d21s02_meet_lc_95b433d4:
 
     # lc "I ain't seen nobody buffalo Bill like you buffalo'd Bill."
-    lc "I ain't seen nobody buffalo Bill like you buffalo'd Bill."
+    lc "我还没见过谁像你这样崇尚水牛比尔式的狂野自由的人。"
 
 # game/code/d21/d21s02.rpy:110
 translate chinese d21s02_meet_lc_22e2ad21:
 
     # mc "Kill Bill."
-    mc "Kill Bill."
+    mc "杀死比尔。"
 
 # game/code/d21/d21s02.rpy:112
 translate chinese d21s02_meet_lc_53224e1f:
 
     # lc "Volume 2."
-    lc "Volume 2."
+    lc "第二卷。"
 
 # game/code/d21/d21s02.rpy:114
 translate chinese d21s02_meet_lc_4e9bed13:
 
     # mc "Good to see you, too."
-    mc "Good to see you, too."
+    mc "我也很高兴见到你。"
 
 # game/code/d21/d21s02.rpy:134
 translate chinese d21s02_ntr_arj_4e3e9555:
 
     # arj "I know I talked a good game in front of Stacy, but honestly... I'm scared."
-    arj "I know I talked a good game in front of Stacy, but honestly... I'm scared."
+    arj "我知道我在史黛西面前说得很好，但说实话... 我很害怕。"
 
 # game/code/d21/d21s02.rpy:136
 translate chinese d21s02_ntr_arj_92a665d3:
 
     # mc "It's a scary place. Just remember that we get to walk out of here."
-    mc "It's a scary place. Just remember that we get to walk out of here."
+    mc "这个地方是可怕。没事，记住我们能走出这里就好。"
 
 # game/code/d21/d21s02.rpy:138
 translate chinese d21s02_ntr_arj_5f52a95d:
 
     # arj "It's not that. Lydia scares me. What you've told me about the real person hiding behind that frigid mask..."
-    arj "It's not that. Lydia scares me. What you've told me about the real person hiding behind that frigid mask..."
+    arj "不是的。莉迪亚让我害怕。我怕隐藏在那张冰冷面具后的真正的人..."
 
 # game/code/d21/d21s02.rpy:140
 translate chinese d21s02_ntr_arj_16ea885c:
 
     # mc "It's all good. You're safe."
-    mc "It's all good. You're safe."
+    mc "没事没事。你是安全的。"
 
 # game/code/d21/d21s02.rpy:141
 translate chinese d21s02_ntr_arj_0ffa9f24:
 
     # mc "Just remember who is on which side of the bars."
-    mc "Just remember who is on which side of the bars."
+    mc "记住我们在铁栅栏的外边，她在里面就行了。"
 
 # game/code/d21/d21s02.rpy:145
 translate chinese d21s02_ntr_arj_29306229:
 
     # arj "Okay. Let's do this."
-    arj "Okay. Let's do this."
+    arj "好。我们开始吧。"
 
 # game/code/d21/d21s02.rpy:147
 translate chinese d21s02_ntr_arj_7287e85d:
 
     # arj "What's up, bitch? Enjoying the view?"
-    arj "What's up, bitch? Enjoying the view?"
+    arj "嘿，婊子，你怎么样？在欣赏风景吗？"
 
 # game/code/d21/d21s02.rpy:149
 translate chinese d21s02_ntr_arj_7a8bceb0:
