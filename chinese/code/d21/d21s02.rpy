@@ -1108,7 +1108,7 @@ translate chinese d21s02_mc_lc_bf0ad310:
 translate chinese d21s02_mc_lc_4377a2f7:
 
     # "Bzzzzz" with hpunch
-    "哔哔哔" 提示音
+    "哔哔哔" with hpunch
 
 # game/code/d21/d21s02.rpy:436
 translate chinese d21s02_mc_lc_3f969e9c:
@@ -1315,4 +1315,3 @@ translate chinese strings:
     # game/code/d21/d21s02.rpy:82
     old "Select Stacy"
     new "选择史黛西"
-
