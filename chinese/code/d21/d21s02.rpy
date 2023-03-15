@@ -268,505 +268,505 @@ translate chinese d21s02_ntr_arj_7287e85d:
 translate chinese d21s02_ntr_arj_7a8bceb0:
 
     # lc "Girl, you missed out. If our boyfriend hadn't interfered you'd be happily lapping up my juices right now and you know it."
-    lc "Girl, you missed out. If our boyfriend hadn't interfered you'd be happily lapping up my juices right now and you know it."
+    lc "姑娘，你错过了。如果我们的男朋友没干涉的话，你现在会很高兴地舔着我的淫水，你知道吧。"
 
 # game/code/d21/d21s02.rpy:151
 translate chinese d21s02_ntr_arj_9510eedb:
 
     # arj "Fuck you. You don't know me."
-    arj "Fuck you. You don't know me."
+    arj "去你的。你不了解我。"
 
 # game/code/d21/d21s02.rpy:153
 translate chinese d21s02_ntr_arj_10b8f8f2:
 
     # lc "I can practically feel it. Can you taste me from there?"
-    lc "I can practically feel it. Can you taste me from there?"
+    lc "我完全感觉得到。你在那里能尝到我的味道吗？"
 
 # game/code/d21/d21s02.rpy:154
 translate chinese d21s02_ntr_arj_75d4337c:
 
     # lc "Why don't you get down on your knees right now and stick your tongue through the bars."
-    lc "Why don't you get down on your knees right now and stick your tongue through the bars."
+    lc "你为什么不现在就跪下来，把舌头伸到栅栏里去。"
 
 # game/code/d21/d21s02.rpy:156
 translate chinese d21s02_ntr_arj_6c834469:
 
     # arj "Nice cage. Shouldn't you have some sort of Hannibal Lector mask or something?"
-    arj "Nice cage. Shouldn't you have some sort of Hannibal Lector mask or something?"
+    arj "这笼子不错。你不应该戴个汉尼拔·莱克特的面具什么的吗?"
 
 # game/code/d21/d21s02.rpy:158
 translate chinese d21s02_ntr_arj_a598cc7f:
 
     # lc "Why? Are you afraid I might eat you instead?"
-    lc "Why? Are you afraid I might eat you instead?"
+    lc "怎么，你怕我吃了你？"
 
 # game/code/d21/d21s02.rpy:160
 translate chinese d21s02_ntr_arj_05dfc2f1:
 
     # arj "Fuck you."
-    arj "Fuck you."
+    arj "去你妈的。"
 
 # game/code/d21/d21s02.rpy:162
 translate chinese d21s02_ntr_arj_b62bed16:
 
     # arj "I can't do this. I don't know if I want to kill her or-"
-    arj "I can't do this. I don't know if I want to kill her or-"
+    arj "我做不到。我不知道我是想杀她还是--"
 
 # game/code/d21/d21s02.rpy:164
 translate chinese d21s02_ntr_arj_fcfd5469:
 
     # mc "It's alright. Give me a couple minutes to talk to her. Then we can leave."
-    mc "It's alright. Give me a couple minutes to talk to her. Then we can leave."
+    mc "没关系。给我几分钟和她谈谈。然后我们就可以离开了。"
 
 # game/code/d21/d21s02.rpy:166
 translate chinese d21s02_ntr_arj_7c3b0303:
 
     # arj "Fine. Make it quick."
-    arj "Fine. Make it quick."
+    arj "好吧。那你快点。"
 
 # game/code/d21/d21s02.rpy:168
 translate chinese d21s02_ntr_arj_33c0d550:
 
     # lc "That's what she said. *chuckles*"
-    lc "That's what she said. *chuckles*"
+    lc "她说的算喽。*咯咯笑*"
 
 # game/code/d21/d21s02.rpy:175
 translate chinese d21s02_lc_arj_25905d2d:
 
     # lc "AmRose? Why is she here?"
-    lc "AmRose? Why is she here?"
+    lc "爱洛丝？她为什么在这？"
 
 # game/code/d21/d21s02.rpy:177
 translate chinese d21s02_lc_arj_2cd41cf7:
 
     # mc "Moral support. She wanted to-"
-    mc "Moral support. She wanted to-"
+    mc "给我精神上的支持。她想--"
 
 # game/code/d21/d21s02.rpy:179
 translate chinese d21s02_lc_arj_89965a29:
 
     # arj "I'm here to kick your ass if you step out of line."
-    arj "I'm here to kick your ass if you step out of line."
+    arj "如果你越界了，我就来痛扁你。"
 
 # game/code/d21/d21s02.rpy:180
 translate chinese d21s02_lc_arj_41b040b2:
 
     # arj "Maybe even strangle you for the shit you pulled already."
-    arj "Maybe even strangle you for the shit you pulled already."
+    arj "甚至可能因为你做的那些蠢事而掐死你。"
 
 # game/code/d21/d21s02.rpy:182
 translate chinese d21s02_lc_arj_be6c8904:
 
     # lc "The shit I pulled? Look who's talking."
-    lc "The shit I pulled? Look who's talking."
+    lc "我做的蠢事？亏你有脸说！"
 
 # game/code/d21/d21s02.rpy:184
 translate chinese d21s02_lc_arj_735cc388:
 
     # arj "Shut your fucking mouth right there!!!"
-    arj "Shut your fucking mouth right there!!!"
+    arj "闭上你的臭嘴!!!"
 
 # game/code/d21/d21s02.rpy:186
 translate chinese d21s02_lc_arj_375b2126:
 
     # lc "Don't worry. I'm not about to out you in front of our boyfriend."
-    lc "Don't worry. I'm not about to out you in front of our boyfriend."
+    lc "别担心。我不会在咱们男朋友面前揭发你的。"
 
 # game/code/d21/d21s02.rpy:188
 translate chinese d21s02_lc_arj_e082abc9:
 
     # arj "You better forget all about that and never say a damn thing or else I swear I'll-"
-    arj "You better forget all about that and never say a damn thing or else I swear I'll-"
+    arj "你最好把那事全忘了，一个字也别提，否则我发誓--"
 
 # game/code/d21/d21s02.rpy:190
 translate chinese d21s02_lc_arj_7dd04eb8:
 
     # lc "I wouldn't. I'm sorry. I shouldn't have said anything."
-    lc "I wouldn't. I'm sorry. I shouldn't have said anything."
+    lc "不会的。很抱歉。我不该说的。"
 
 # game/code/d21/d21s02.rpy:191
 translate chinese d21s02_lc_arj_97250439:
 
     # arj "Alright then."
-    arj "Alright then."
+    arj "那行吧。"
 
 # game/code/d21/d21s02.rpy:193
 translate chinese d21s02_lc_arj_79b9bb46:
 
     # lc "But you better talk to Jerome. He probably watched everything."
-    lc "But you better talk to Jerome. He probably watched everything."
+    lc "但你最好和杰罗姆谈谈。他可能全都看到了。"
 
 # game/code/d21/d21s02.rpy:196
 translate chinese d21s02_lc_arj_e9f97432:
 
     # arj "God dammit. Why are you doing this to me?"
-    arj "God dammit. Why are you doing this to me?"
+    arj "该死的。你为什么要这样对我？"
 
 # game/code/d21/d21s02.rpy:197
 translate chinese d21s02_lc_arj_2646f864:
 
     # lc "I'm not doing anything. I didn't know you would do that."
-    lc "I'm not doing anything. I didn't know you would do that."
+    lc "我什么都没做。我不知道你会这样。"
 
 # game/code/d21/d21s02.rpy:198
 translate chinese d21s02_lc_arj_b2bcb486:
 
     # arj "You blackmailed me into doing those livestreams or else-"
-    arj "You blackmailed me into doing those livestreams or else-"
+    arj "你要挟我做那些直播，否则--"
 
 # game/code/d21/d21s02.rpy:200
 translate chinese d21s02_lc_arj_163c57e8:
 
     # lc "That wasn't me! Maybe that was Jerome. Maybe it was just the A.I."
-    lc "That wasn't me! Maybe that was Jerome. Maybe it was just the A.I."
+    lc "不是我! 也许是杰罗姆。也许是人工智能呢。"
 
 # game/code/d21/d21s02.rpy:201
 translate chinese d21s02_lc_arj_3effccd7:
 
     # lc "I didn't know anything about that at the time. I thought you were just doing it for points."
-    lc "I didn't know anything about that at the time. I thought you were just doing it for points."
+    lc "当时我对这些一无所知。我以为你只是为了赚点数才做的。"
 
 # game/code/d21/d21s02.rpy:203
 translate chinese d21s02_lc_arj_3d042075:
 
     # arj "I'm not done with you."
-    arj "I'm not done with you."
+    arj "我跟你还没完呢。"
 
 # game/code/d21/d21s02.rpy:205
 translate chinese d21s02_lc_arj_23b580f7:
 
     # lc "I'm not the person you think I am."
-    lc "I'm not the person you think I am."
+    lc "我不是你想的那种人。"
 
 # game/code/d21/d21s02.rpy:206
 translate chinese d21s02_lc_arj_1276da63:
 
     # lc "But I am so sorry this all happened. That's why I'm here. I hope you can see that someday."
-    lc "But I am so sorry this all happened. That's why I'm here. I hope you can see that someday."
+    lc "但是发生了这样的事我很抱歉。所以我才在这里。我希望有一天能得到你的理解。"
 
 # game/code/d21/d21s02.rpy:213
 translate chinese d21s02_ntr_sy_9bd5f9d8:
 
     # sy "Shut your cunt mouth, bitch.{w} Now, tell me who you work for!"
-    sy "Shut your cunt mouth, bitch.{w} Now, tell me who you work for!"
+    sy "臭婊子，闭上你的臭嘴。{w} 说，你在为谁工作！"
 
 # game/code/d21/d21s02.rpy:215
 translate chinese d21s02_ntr_sy_1863c05d:
 
     # lc "I'm sorry, was I supposed to shut up or talk?"
-    lc "I'm sorry, was I supposed to shut up or talk?"
+    lc "对不起，我是该闭嘴还是该说话？"
 
 # game/code/d21/d21s02.rpy:217
 translate chinese d21s02_ntr_sy_508f0b09:
 
     # sy "TALK, BITCH!"
-    sy "TALK, BITCH!"
+    sy "说话，臭婊子！"
 
 # game/code/d21/d21s02.rpy:219
 translate chinese d21s02_ntr_sy_0cb1b8bf:
 
     # lc "Nobody paid me nothing."
-    lc "Nobody paid me nothing."
+    lc "没人给我钱。"
 
 # game/code/d21/d21s02.rpy:221
 translate chinese d21s02_ntr_sy_d2f34b83:
 
     # sy "Ah ha!{w} So, you admit that you're the mastermind behind Fetish Locator!"
-    sy "Ah ha!{w} So, you admit that you're the mastermind behind Fetish Locator!"
+    sy "啊哈！{w}所以，你承认你是性趣探测器背后的主谋！"
 
 # game/code/d21/d21s02.rpy:223
 translate chinese d21s02_ntr_sy_7665101e:
 
     # lc "I admitted nothing. I just said that nobody paid me."
-    lc "I admitted nothing. I just said that nobody paid me."
+    lc "我什么都没承认。我只是说没人给我钱。"
 
 # game/code/d21/d21s02.rpy:225
 translate chinese d21s02_ntr_sy_8ba53896:
 
     # sy "Don't play games with me, Slut!"
-    sy "Don't play games with me, Slut!"
+    sy "还想玩文字游戏，臭荡妇！"
 
 # game/code/d21/d21s02.rpy:227
 translate chinese d21s02_ntr_sy_b310603e:
 
     # mc "Whoa whoa whoa. Let's dial it back a bit."
-    mc "Whoa whoa whoa. Let's dial it back a bit."
+    mc "喔喔喔。咱们稍微回退一下。"
 
 # game/code/d21/d21s02.rpy:229
 translate chinese d21s02_ntr_sy_61ba299b:
 
     # lc "You realize these \"visitations\" aren't recorded, and are illegal to record, right?"
-    lc "You realize these \"visitations\" aren't recorded, and are illegal to record, right?"
+    lc "你知道\"访问\"网站是没有记录的，而且记录是非法的，对吧？"
 
 # game/code/d21/d21s02.rpy:231
 translate chinese d21s02_ntr_sy_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "什么？"
 
 # game/code/d21/d21s02.rpy:233
 translate chinese d21s02_ntr_sy_c32fd555:
 
     # mc "No, I don't think she realized that."
-    mc "No, I don't think she realized that."
+    mc "我觉得她不知道这一点。"
 
 # game/code/d21/d21s02.rpy:235
 translate chinese d21s02_ntr_sy_8f36fd08:
 
     # lc "How exactly did you think this was going to play out? That I would sign a full confession or something?"
-    lc "How exactly did you think this was going to play out? That I would sign a full confession or something?"
+    lc "你到底是怎么想的？你以为我会签署一份完整的供词还是什么？"
 
 # game/code/d21/d21s02.rpy:237
 translate chinese d21s02_ntr_sy_3735fadb:
 
     # sy "Well, yeah. After I berated you-"
-    sy "Well, yeah. After I berated you-"
+    sy "可不是。等我痛斥你之后--"
 
 # game/code/d21/d21s02.rpy:239
 translate chinese d21s02_ntr_sy_771266c5:
 
     # lc "Not gonna happen.{w} What about you? Why are you here?"
-    lc "Not gonna happen.{w} What about you? Why are you here?"
+    lc "不可能。{w}那你呢？你为什么在这？"
 
 # game/code/d21/d21s02.rpy:241
 translate chinese d21s02_ntr_sy_4149803b:
 
     # mc "I was just planning on visiting my girlfriend and/or ex-girlfriend."
-    mc "I was just planning on visiting my girlfriend and/or ex-girlfriend."
+    mc "我只是打算来看看我的女朋友和/或前女友。"
 
 # game/code/d21/d21s02.rpy:243
 translate chinese d21s02_ntr_sy_4f162270:
 
     # lc "How sweet."
-    lc "How sweet."
+    lc "真贴心呵。"
 
 # game/code/d21/d21s02.rpy:245
 translate chinese d21s02_ntr_sy_056249f8:
 
     # mc "Stacy, can you give us a couple minutes."
-    mc "Stacy, can you give us a couple minutes."
+    mc "史黛西，你能给我们几分钟时间吗。"
 
 # game/code/d21/d21s02.rpy:247
 translate chinese d21s02_ntr_sy_589d97b2:
 
     # sy "You want me to leave? I'm not done with her."
-    sy "You want me to leave? I'm not done with her."
+    sy "你想让我走？我和她还没完。"
 
 # game/code/d21/d21s02.rpy:249
 translate chinese d21s02_ntr_sy_620c664e:
 
     # lc "Oh yes, you are."
-    lc "Oh yes, you are."
+    lc "哦，是还没完。"
 
 # game/code/d21/d21s02.rpy:251
 translate chinese d21s02_ntr_sy_6c781a38:
 
     # mc "You don't have to leave. Just take a couple steps back for a minute."
-    mc "You don't have to leave. Just take a couple steps back for a minute."
+    mc "你不用离开。只要退后几步就可以了。"
 
 # game/code/d21/d21s02.rpy:253
 translate chinese d21s02_ntr_sy_f9d63640:
 
     # sy "Sure, okay."
-    sy "Sure, okay."
+    sy "好，那行。"
 
 # game/code/d21/d21s02.rpy:260
 translate chinese d21s02_lc_sy_4d709f97:
 
     # sy "Shame. Shame! Shame!!!"
-    sy "Shame. Shame! Shame!!!"
+    sy "丢人。丢人！真丢人!!!"
 
 # game/code/d21/d21s02.rpy:262
 translate chinese d21s02_lc_sy_2c84abb6:
 
     # lc "Um... Stacy, right?"
-    lc "Um... Stacy, right?"
+    lc "嗯...你，是叫史黛西吧？"
 
 # game/code/d21/d21s02.rpy:264
 translate chinese d21s02_lc_sy_79944d50:
 
     # sy "So you admit you know who I am?!"
-    sy "So you admit you know who I am?!"
+    sy "所以你承认你知道我?!"
 
 # game/code/d21/d21s02.rpy:266
 translate chinese d21s02_lc_sy_f29157a5:
 
     # lc "I think so. What is all this?"
-    lc "I think so. What is all this?"
+    lc "应该吧。这都是什么？"
 
 # game/code/d21/d21s02.rpy:268
 translate chinese d21s02_lc_sy_d381037a:
 
     # sy "I'm here to beat a confession out of you."
-    sy "I'm here to beat a confession out of you."
+    sy "我是来逼供的。"
 
 # game/code/d21/d21s02.rpy:270
 translate chinese d21s02_lc_sy_56a8999f:
 
     # mc "She already confessed."
-    mc "She already confessed."
+    mc "她已经认罪了。"
 
 # game/code/d21/d21s02.rpy:272
 translate chinese d21s02_lc_sy_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "什么？"
 
 # game/code/d21/d21s02.rpy:274
 translate chinese d21s02_lc_sy_7bccdd3e:
 
     # lc "I already confessed to everything. That's why I'm here."
-    lc "I already confessed to everything. That's why I'm here."
+    lc "我已经全都坦白了。所以我才在这。"
 
 # game/code/d21/d21s02.rpy:276
 translate chinese d21s02_lc_sy_bf80a9a1:
 
     # sy "So..."
-    sy "So..."
+    sy "所以..."
 
 # game/code/d21/d21s02.rpy:278
 translate chinese d21s02_lc_sy_90724f3c:
 
     # lc "I'm sorry. Did you lose your train of thought?"
-    lc "I'm sorry. Did you lose your train of thought?"
+    lc "抱歉。你是不是跑题了？"
 
 # game/code/d21/d21s02.rpy:280
 translate chinese d21s02_lc_sy_f7945636:
 
     # sy "Yeah, I had this whole thing planned. Do you mind if I ask you a question about all that?"
-    sy "Yeah, I had this whole thing planned. Do you mind if I ask you a question about all that?"
+    sy "是啊，我早就计划好了。你介意我问一个相关问题吗？"
 
 # game/code/d21/d21s02.rpy:282
 translate chinese d21s02_lc_sy_e30f5a54:
 
     # lc "Sure. Why not?"
-    lc "Sure. Why not?"
+    lc "当然，为什么不问？"
 
 # game/code/d21/d21s02.rpy:284
 translate chinese d21s02_lc_sy_85262b60:
 
     # sy "How did you do it?"
-    sy "How did you do it?"
+    sy "你是怎么做到的？"
 
 # game/code/d21/d21s02.rpy:286
 translate chinese d21s02_lc_sy_7b0cf382:
 
     # lc "Well, Jerome really did the bulk of it. He created the app and-"
-    lc "Well, Jerome really did the bulk of it. He created the app and-"
+    lc "嗯，实际是杰罗姆做了大部分工作。他开发了这个应用程序，并且--"
 
 # game/code/d21/d21s02.rpy:288
 translate chinese d21s02_lc_sy_2d81001a:
 
     # sy "Not that part. I mean, how did you get so many people playing?"
-    sy "Not that part. I mean, how did you get so many people playing?"
+    sy "不是这个。我是说，你是怎么让这么多人玩的？"
 
 # game/code/d21/d21s02.rpy:290
 translate chinese d21s02_lc_sy_65aa357f:
 
     # lc "Oh, I did do that part. It was just about recognizing social nexuses."
-    lc "Oh, I did do that part. It was just about recognizing social nexuses."
+    lc "哦，这部分确实是我完成的。就是识别社会关系罢了。"
 
 # game/code/d21/d21s02.rpy:292
 translate chinese d21s02_lc_sy_418b4f2e:
 
     # sy "Social nexii?"
-    sy "Social nexii?"
+    sy "社会关系？"
 
 # game/code/d21/d21s02.rpy:294
 translate chinese d21s02_lc_sy_a04b5b81:
 
     # mc "I think the plural of nexus is nexus."
-    mc "I think the plural of nexus is nexus."
+    mc "我觉得她是指错综复杂的社会关系。"
 
 # game/code/d21/d21s02.rpy:296
 translate chinese d21s02_lc_sy_426738d3:
 
     # lc "Although maybe it would be better to think of it as confluence points."
-    lc "Although maybe it would be better to think of it as confluence points."
+    lc "尽管把它看成是汇合点，也许会更好。"
 
 # game/code/d21/d21s02.rpy:298
 translate chinese d21s02_lc_sy_84f0f23d:
 
     # sy "I'm not sure I understand."
-    sy "I'm not sure I understand."
+    sy "我不太明白。"
 
 # game/code/d21/d21s02.rpy:300
 translate chinese d21s02_lc_sy_1f717e5c:
 
     # lc "Every social group has a single central hub. Often many different social groups center around a specific hub."
-    lc "Every social group has a single central hub. Often many different social groups center around a specific hub."
+    lc "每个社会团体都有一个中心枢纽。通常，许多社会团体都以一个特定的中心点为中心。"
 
 # game/code/d21/d21s02.rpy:301
 translate chinese d21s02_lc_sy_2bb3c707:
 
     # lc "[mcname] is a great example. Over the past few weeks his social group has exploded, and he's become central to many existing social groups. They all revolve around him."
-    lc "[mcname] is a great example. Over the past few weeks his social group has exploded, and he's become central to many existing social groups. They all revolve around him."
+    lc "[mcname]就是个很好的例子。在过去的几周里，他的社交团体迅速膨胀，现在已经成为许多社交团体的中心。他们都围着他转。"
 
 # game/code/d21/d21s02.rpy:303
 translate chinese d21s02_lc_sy_3ed137ba:
 
     # lc "All those people he's met. All those people he's influenced. They're like threads in a spider's web."
-    lc "All those people he's met. All those people he's influenced. They're like threads in a spider's web."
+    lc "他见过那么多人，影响了那么多人。他们就像蜘蛛网上的线。"
 
 # game/code/d21/d21s02.rpy:304
 translate chinese d21s02_lc_sy_0ec81f5a:
 
     # lc "He makes decisions that ripple through the lives of everyone around him."
-    lc "He makes decisions that ripple through the lives of everyone around him."
+    lc "他做出的决定会影响到周围每个人的生活。"
 
 # game/code/d21/d21s02.rpy:306
 translate chinese d21s02_lc_sy_acd6fe78:
 
     # sy "So, you found people - these social nexus or confluence points - and you provoked them into playing Fetish Locator?"
-    sy "So, you found people - these social nexus or confluence points - and you provoked them into playing Fetish Locator?"
+    sy "所以，你找到了那些人--就是你说的社会纽带或汇合点--你煽动他们玩性趣探测器？"
 
 # game/code/d21/d21s02.rpy:308
 translate chinese d21s02_lc_sy_ecd82c3a:
 
     # lc "I'd say that I influenced them. Sometimes it was a person. Sometimes it was just a place where people gathered."
-    lc "I'd say that I influenced them. Sometimes it was a person. Sometimes it was just a place where people gathered."
+    lc "我得说，我影响了他们。有时是一个人。有时它只是一个人们聚集的地方。"
 
 # game/code/d21/d21s02.rpy:309
 translate chinese d21s02_lc_sy_499ad93e:
 
     # lc "Drop an invite customized to that nexus, then watch the app spread to their group."
-    lc "Drop an invite customized to that nexus, then watch the app spread to their group."
+    lc "给团体汇合点发送定制的邀请，然后看着这个应用程序传播到他们的群体。"
 
 # game/code/d21/d21s02.rpy:311
 translate chinese d21s02_lc_sy_e7f637e1:
 
     # sy "Huh. That gives me a lot to think about."
-    sy "Huh. That gives me a lot to think about."
+    sy "嗯，这让我想了很多。"
 
 # game/code/d21/d21s02.rpy:313
 translate chinese d21s02_lc_sy_4fa2f743:
 
     # mc "This is all very interesting, but... Can you give us a minute?"
-    mc "This is all very interesting, but... Can you give us a minute?"
+    mc "这些都很有趣，但是...能让我们单独谈谈吗？"
 
 # game/code/d21/d21s02.rpy:314
 translate chinese d21s02_lc_sy_d05c54d7:
 
     # sy "Oh, sure."
-    sy "Oh, sure."
+    sy "哦，当然。"
 
 # game/code/d21/d21s02.rpy:316
 translate chinese d21s02_lc_sy_34711265:
 
     # mc "Thanks, sis."
-    mc "Thanks, sis."
+    mc "谢谢老妹。"
 
 # game/code/d21/d21s02.rpy:318
 translate chinese d21s02_lc_sy_c7b75a22:
 
     # mc "Thanks, Stacy."
-    mc "Thanks, Stacy."
+    mc "谢了，史黛西。"
 
 # game/code/d21/d21s02.rpy:320
 translate chinese d21s02_lc_sy_5d288244:
 
     # lc "I'm sure she means well."
-    lc "I'm sure she means well."
+    lc "我相信她是好意。"
 
 # game/code/d21/d21s02.rpy:321
 translate chinese d21s02_lc_sy_5e2b3f7d:
