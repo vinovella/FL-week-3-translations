@@ -4,73 +4,73 @@
 translate chinese d21s05_2c96e7d1:
 
     # mc "Hey AmRose, what's going on?"
-    mc "Hey AmRose, what's going on?"
+    mc "嘿，爱洛丝，怎么了？"
 
 # game/code/d21/d21s05.rpy:78
 translate chinese d21s05_71b2b5a9:
 
     # arj "I'll tell you in a minute. First, there's someone waiting to see you..."
-    arj "I'll tell you in a minute. First, there's someone waiting to see you..."
+    arj "一会儿告诉你。首先，有人在等着见你..."
 
 # game/code/d21/d21s05.rpy:81
 translate chinese d21s05_e08d236d:
 
     # mc "Can I get a kiss first?"
-    mc "Can I get a kiss first?"
+    mc "能先给我一个吻吗？"
 
 # game/code/d21/d21s05.rpy:86
 translate chinese d21s05_a3a6ec08:
 
     # arj "Always."
-    arj "Always."
+    arj "当然。"
 
 # game/code/d21/d21s05.rpy:89
 translate chinese d21s05_16843e56:
 
     # mc "Show me the way."
-    mc "Show me the way."
+    mc "给我指路。"
 
 # game/code/d21/d21s05.rpy:90
 translate chinese d21s05_281d6fdb:
 
     # arj "Anytime."
-    arj "Anytime."
+    arj "随时都可以。"
 
 # game/code/d21/d21s05.rpy:94
 translate chinese d21s05_6d98fa3b:
 
     # arj "I heard what you did for [mcname].{w} Maria, you really went above and beyond."
-    arj "I heard what you did for [mcname].{w} Maria, you really went above and beyond."
+    arj "我听说了你为[mcname]{w}所做的一切。玛丽亚，你真的做得非常好。"
 
 # game/code/d21/d21s05.rpy:96
 translate chinese d21s05_43f484dc:
 
     # mk "It was...{w} well, honestly it was pretty disgusting."
-    mk "It was...{w} well, honestly it was pretty disgusting."
+    mk "说实话...{w}这太恶心了。"
 
 # game/code/d21/d21s05.rpy:97
 translate chinese d21s05_b814a4c4:
 
     # mc "I can't even imagine... and I was there."
-    mc "I can't even imagine... and I was there."
+    mc "我都不敢想象...我就在现场。"
 
 # game/code/d21/d21s05.rpy:98
 translate chinese d21s05_ea61214b:
 
     # arj "So, I just wanted to throw a little Thank You Party for you. Ya'know, so we could say Thanks."
-    arj "So, I just wanted to throw a little Thank You Party for you. Ya'know, so we could say Thanks."
+    arj "所以，我只是想为你举办一个小小的感谢派对。这样我们就可以表示感谢了。"
 
 # game/code/d21/d21s05.rpy:99
 translate chinese d21s05_9c5669f3:
 
     # mc "Seriously, thank you.{w} What I saw was unimaginable."
-    mc "Seriously, thank you.{w} What I saw was unimaginable."
+    mc "说真的，谢谢你。{w}这太不可思议了。"
 
 # game/code/d21/d21s05.rpy:100
 translate chinese d21s05_a777aa7b:
 
     # mk "Yeah... I think we could all use a brain cleanser."
-    mk "Yeah... I think we could all use a brain cleanser."
+    mk "是的...我们都可以用一下大脑排毒剂。"
 
 # game/code/d21/d21s05.rpy:104
 translate chinese d21s05_8cb8fcbd:
@@ -88,187 +88,187 @@ translate chinese d21s05_2723ca54:
 translate chinese d21s05_08f06a72:
 
     # mc "Uhm... Prost!"
-    mc "Uhm... Prost!"
+    mc "呃...干杯！"
 
 # game/code/d21/d21s05.rpy:109
 translate chinese d21s05_f4d57327:
 
     # mk "Harosh! What is this?!"
-    mk "Harosh! What is this?!"
+    mk "哈--咳! 这是什么?!"
 
 # game/code/d21/d21s05.rpy:110
 translate chinese d21s05_a8b8209b:
 
     # arj "Only the best."
-    arj "Only the best."
+    arj "这可是最好的。"
 
 # game/code/d21/d21s05.rpy:112
 translate chinese d21s05_5f013e55:
 
     # mc "It tastes great, but it burns like I just swallowed a furnace."
-    mc "It tastes great, but it burns like I just swallowed a furnace."
+    mc "味道很好，但感觉很灼热，就像刚吞下一个火炉一样。"
 
 # game/code/d21/d21s05.rpy:113
 translate chinese d21s05_deaf31c5:
 
     # arj "Would you like some more?"
-    arj "Would you like some more?"
+    arj "你想再来点吗？"
 
 # game/code/d21/d21s05.rpy:115
 translate chinese d21s05_d61d714f:
 
     # mk "Yes, please!"
-    mk "Yes, please!"
+    mk "好哎！"
 
 # game/code/d21/d21s05.rpy:116
 translate chinese d21s05_34cd6e17:
 
     # mc "I'm good."
-    mc "I'm good."
+    mc "我不用了。"
 
 # game/code/d21/d21s05.rpy:118
 translate chinese d21s05_b1bcda08:
 
     # mc "So, is this just a Thank You party for Maria?"
-    mc "So, is this just a Thank You party for Maria?"
+    mc "那，这只是为玛丽亚举办的感谢派对喽？"
 
 # game/code/d21/d21s05.rpy:119
 translate chinese d21s05_d20f8af7:
 
     # mk "I was wondering."
-    mk "I was wondering."
+    mk "我也在想呢。"
 
 # game/code/d21/d21s05.rpy:121
 translate chinese d21s05_02bbb522:
 
     # arj "I wouldn't call it \"Just\" anything, but yes, it's a Thank You party."
-    arj "I wouldn't call it \"Just\" anything, but yes, it's a Thank You party."
+    arj "我不觉得只是\"为她而办\"，但你后半句说对了，这确实是个感谢派对。"
 
 # game/code/d21/d21s05.rpy:123
 translate chinese d21s05_df0b5075:
 
     # mk "Oh, thanks."
-    mk "Oh, thanks."
+    mk "哦，谢谢。"
 
 # game/code/d21/d21s05.rpy:124
 translate chinese d21s05_a2b1f6fa:
 
     # mc "I think it's us - or more specifically me - that should be thanking you, Maria."
-    mc "I think it's us - or more specifically me - that should be thanking you, Maria."
+    mc "我想我们--或者更确切地说，应该是我--要感谢你，玛丽亚。"
 
 # game/code/d21/d21s05.rpy:126
 translate chinese d21s05_fdaadfa1:
 
     # mk "Um... You're welcome?"
-    mk "Um... You're welcome?"
+    mk "呃...不客气？"
 
 # game/code/d21/d21s05.rpy:127
 translate chinese d21s05_e4e4a05f:
 
     # mc "So, what's the plan, AmRose?"
-    mc "So, what's the plan, AmRose?"
+    mc "好了，计划是什么，爱洛丝？"
 
 # game/code/d21/d21s05.rpy:128
 translate chinese d21s05_5106f980:
 
     # arj "I figure that the three of us get drunk, watch a movie, order some pizza, and see what happens."
-    arj "I figure that the three of us get drunk, watch a movie, order some pizza, and see what happens."
+    arj "我想我们三个喝个烂醉，看个电影，再点些披萨，看看会发生什么。"
 
 # game/code/d21/d21s05.rpy:129
 translate chinese d21s05_42726bc3:
 
     # mc "You mean, sex?"
-    mc "You mean, sex?"
+    mc "你是说，做爱？"
 
 # game/code/d21/d21s05.rpy:130
 translate chinese d21s05_469f19d7:
 
     # arj "If that's what happens I'm cool with it."
-    arj "If that's what happens I'm cool with it."
+    arj "如果朝这方面发展的话，我很乐意。"
 
 # game/code/d21/d21s05.rpy:132
 translate chinese d21s05_4f7d654a:
 
     # mk "That's interesting."
-    mk "That's interesting."
+    mk "有意思。"
 
 # game/code/d21/d21s05.rpy:136
 translate chinese d21s05_6cd2c5ef:
 
     # mc "You have no idea. AmRose can get pretty crazy when alcohol is involved."
-    mc "You have no idea. AmRose can get pretty crazy when alcohol is involved."
+    mc "你不知道。当涉及到酒精时，爱洛丝可以变得相当疯狂。"
 
 # game/code/d21/d21s05.rpy:138
 translate chinese d21s05_4a2f2b22:
 
     # arj "If you're talking about that enema challenge, I'll have you know I watered that bottle down a lot before I boofed it."
-    arj "If you're talking about that enema challenge, I'll have you know I watered that bottle down a lot before I boofed it."
+    arj "如果你说的是那个灌肠挑战，我要说明，要知道我在灌肠前给瓶子里注了很多水。"
 
 # game/code/d21/d21s05.rpy:139
 translate chinese d21s05_437defe7:
 
     # mk "Mmmrow?"
-    mk "Mmmrow?"
+    mk "喔吼？"
 
 # game/code/d21/d21s05.rpy:140
 translate chinese d21s05_17572006:
 
     # mc "I'm sure I have no idea what you're talking about."
-    mc "I'm sure I have no idea what you're talking about."
+    mc "我真的不知道你在说什么。"
 
 # game/code/d21/d21s05.rpy:141
 translate chinese d21s05_46093749:
 
     # arj "Look, I'm just saying-"
-    arj "Look, I'm just saying-"
+    arj "听着，我只是说--"
 
 # game/code/d21/d21s05.rpy:143
 translate chinese d21s05_0422b06d:
 
     # mc "I think we know what you're saying."
-    mc "I think we know what you're saying."
+    mc "我想我们知道你在说什么。"
 
 # game/code/d21/d21s05.rpy:145
 translate chinese d21s05_99aa7847:
 
     # mk "Do you mind if I invite some friends?"
-    mk "Do you mind if I invite some friends?"
+    mk "你介意我邀请几个朋友吗？"
 
 # game/code/d21/d21s05.rpy:146
 translate chinese d21s05_f0ab4b13:
 
     # mc "Doesn't bother me."
-    mc "Doesn't bother me."
+    mc "不介意啊。"
 
 # game/code/d21/d21s05.rpy:148
 translate chinese d21s05_5a76c07a:
 
     # arj "I mean, I kinda figured, after a couple more shots one of you-"
-    arj "I mean, I kinda figured, after a couple more shots one of you-"
+    arj "我是想说，我在想，再喝几杯后，你们俩有一个人--"
 
 # game/code/d21/d21s05.rpy:149
 translate chinese d21s05_0f272027:
 
     # mk "They're good friends.{w} And they'll keep within the goals of the party."
-    mk "They're good friends.{w} And they'll keep within the goals of the party."
+    mk "请的都是好朋友。{w}而且他们会严格追随派对的主题的。"
 
 # game/code/d21/d21s05.rpy:150
 translate chinese d21s05_11bb6221:
 
     # mc "I like this idea."
-    mc "I like this idea."
+    mc "我喜欢这个主意。"
 
 # game/code/d21/d21s05.rpy:154
 translate chinese d21s05_ebb123c3:
 
     # arj "Who knows? I just might get drunk enough for someone to get fisted."
-    arj "Who knows? I just might get drunk enough for someone to get fisted."
+    arj "谁知道呢？我可能会喝得酩酊大醉，被人给上了。"
 
 # game/code/d21/d21s05.rpy:156
 translate chinese d21s05_0d850e32:
 
     # mk "Mmmrow?!"
-    mk "Mmmrow?!"
+    mk "喔吼?!"
 
 # game/code/d21/d21s05.rpy:158
 translate chinese d21s05_c9eca468:
