@@ -4,523 +4,523 @@
 translate chinese d21s06_a1ce140a:
 
     # arj "So exactly how many fivesomes have you been a part of?"
-    arj "So exactly how many fivesomes have you been a part of?"
+    arj "那你究竟参加过多少次五人行？"
 
 # game/code/d21/d21s06.rpy:18
 translate chinese d21s06_3d329940:
 
     # mc "Me, personally?"
-    mc "Me, personally?"
+    mc "你说我，自己？"
 
 # game/code/d21/d21s06.rpy:20
 translate chinese d21s06_f0993cbb:
 
     # arj "Is there anyone else here?"
-    arj "Is there anyone else here?"
+    arj "这里还有其他人吗？"
 
 # game/code/d21/d21s06.rpy:22
 translate chinese d21s06_828ff008:
 
     # mc "There's you, and me, and the door here, and other doors, presumably people behind those doors..."
-    mc "There's you, and me, and the door here, and other doors, presumably people behind those doors..."
+    mc "有你，有我，有这扇门，还有其他的门，这些门后面应该还有人..."
 
 # game/code/d21/d21s06.rpy:24
 translate chinese d21s06_370d5b81:
 
     # arj "So you're not going to tell me, in other words."
-    arj "So you're not going to tell me, in other words."
+    arj "看你这样子，是不打算告诉我了。"
 
 # game/code/d21/d21s06.rpy:26
 translate chinese d21s06_b3c505b9:
 
     # mc "I'm working that out."
-    mc "I'm working that out."
+    mc "我正努力回答呢。"
 
 # game/code/d21/d21s06.rpy:28
 translate chinese d21s06_e4f4a266:
 
     # mc "No, I'm not trying to mess with you. When I tell you I don't remember, I mean it."
-    mc "No, I'm not trying to mess with you. When I tell you I don't remember, I mean it."
+    mc "我不想惹你生气。只是我回答不记得的时候，是认真的。"
 
 # game/code/d21/d21s06.rpy:30
 translate chinese d21s06_57dfa3a8:
 
     # arj "You don't remember or you plead the fifth?"
-    arj "You don't remember or you plead the fifth?"
+    arj "你是真不记得了，还是在拒绝回答？"
 
 # game/code/d21/d21s06.rpy:32
 translate chinese d21s06_a2dbe1e2:
 
     # mc "I don't remember."
-    mc "I don't remember."
+    mc "我不记得了。"
 
 # game/code/d21/d21s06.rpy:34
 translate chinese d21s06_7b95aa66:
 
     # arj "You don't remember, if you, [mcname], have been a part of any fivesomes."
-    arj "You don't remember, if you, [mcname], have been a part of any fivesomes."
+    arj "你完全不记得，[mcname]，曾经，有过哪怕一次加入过五人行？"
 
 # game/code/d21/d21s06.rpy:36
 translate chinese d21s06_28ba79cd:
 
     # mc "That's right."
-    mc "That's right."
+    mc "没错。"
 
 # game/code/d21/d21s06.rpy:38
 translate chinese d21s06_80885426:
 
     # arj "You're lying. Big fat liar."
-    arj "You're lying. Big fat liar."
+    arj "你在撒谎。大骗子。"
 
 # game/code/d21/d21s06.rpy:40
 translate chinese d21s06_a3d22504:
 
     # mc "You're all I need, baby."
-    mc "You're all I need, baby."
+    mc "我只需要你，宝贝。"
 
 # game/code/d21/d21s06.rpy:41
 translate chinese d21s06_ec548dfc:
 
     # arj "Oh, quit it."
-    arj "Oh, quit it."
+    arj "你可算了吧。"
 
 # game/code/d21/d21s06.rpy:45
 translate chinese d21s06_bbfe313f:
 
     # sy "What are you guys, arguing?"
-    sy "What are you guys, arguing?"
+    sy "你们在吵什么？"
 
 # game/code/d21/d21s06.rpy:47
 translate chinese d21s06_e05431c2:
 
     # arj "Apparently, this fine man has the memory of a goldfish."
-    arj "Apparently, this fine man has the memory of a goldfish."
+    arj "显然，这个各方面都极其出色的男人却有着金鱼一样的记忆力。"
 
 # game/code/d21/d21s06.rpy:49
 translate chinese d21s06_147a28bc:
 
     # mc "Speaking of which, how did we get here? Where am I? Who are you?"
-    mc "Speaking of which, how did we get here? Where am I? Who are you?"
+    mc "说到这里，我们是怎么来的？我在哪？你们又是谁？"
 
 # game/code/d21/d21s06.rpy:51
 translate chinese d21s06_a90256ec:
 
     # arj "Here's hoping dementia doesn't run in the family."
-    arj "Here's hoping dementia doesn't run in the family."
+    arj "希望痴呆症不会家族遗传。"
 
 # game/code/d21/d21s06.rpy:53
 translate chinese d21s06_e974f1f5:
 
     # sy "Idiot. Also, you know the door was open, right?"
-    sy "Idiot. Also, you know the door was open, right?"
+    sy "白痴。还有，你知道门是开着的吧？"
 
 # game/code/d21/d21s06.rpy:55
 translate chinese d21s06_16cd5eb0:
 
     # mc "You keep your door unlocked?"
-    mc "You keep your door unlocked?"
+    mc "你没锁门？"
 
 # game/code/d21/d21s06.rpy:57
 translate chinese d21s06_d0eccf61:
 
     # sy "Well, I knew you were coming, and I was in the shower, so yes. I mentioned it when I called you."
-    sy "Well, I knew you were coming, and I was in the shower, so yes. I mentioned it when I called you."
+    sy "我知道你要来啊，我当时在洗澡，所以就没锁。我给你打电话时提到过。"
 
 # game/code/d21/d21s06.rpy:59
 translate chinese d21s06_2dd4a63a:
 
     # mc "What if we were burglars?"
-    mc "What if we were burglars?"
+    mc "如果我们是小偷呢？"
 
 # game/code/d21/d21s06.rpy:61
 translate chinese d21s06_c178a941:
 
     # sy "Then I would have caught you already because you're still standing out in the hallway! So are you coming in or what?"
-    sy "Then I would have caught you already because you're still standing out in the hallway! So are you coming in or what?"
+    sy "那我早就抓住你了，因为你还站在走廊上呢！你到底进不进来？"
 
 # game/code/d21/d21s06.rpy:63
 translate chinese d21s06_9394a56a:
 
     # mc "AmRose, didn't we have somewhere else to be?"
-    mc "AmRose, didn't we have somewhere else to be?"
+    mc "爱洛丝，我们不是还有别的地方要去吗？"
 
 # game/code/d21/d21s06.rpy:67
 translate chinese d21s06_a2d86756:
 
     # sy "First, there's the business of your living situation."
-    sy "First, there's the business of your living situation."
+    sy "首先，这是你的住所。"
 
 # game/code/d21/d21s06.rpy:69
 translate chinese d21s06_6ed4ff36:
 
     # sy "You're fine with being here, right?"
-    sy "You're fine with being here, right?"
+    sy "你在这里住的很好，对吗？"
 
 # game/code/d21/d21s06.rpy:71
 translate chinese d21s06_029a00d1:
 
     # mc "If you're okay with it, then I'm okay with it. I just have to bring my stuff."
-    mc "If you're okay with it, then I'm okay with it. I just have to bring my stuff."
+    mc "如果你觉得没问题，那我也没问题。我只是要带上我的东西。"
 
 # game/code/d21/d21s06.rpy:73
 translate chinese d21s06_018ff40f:
 
     # sy "Are you going to remember where it is?"
-    sy "Are you going to remember where it is?"
+    sy "你还记得东西都在哪吗？"
 
 # game/code/d21/d21s06.rpy:75
 translate chinese d21s06_43eccb7d:
 
     # mc "Come on, give me a bit of credit, I came here, didn't I?"
-    mc "Come on, give me a bit of credit, I came here, didn't I?"
+    mc "拜托，给我点面子吧，我不是来过这里吗？"
 
 # game/code/d21/d21s06.rpy:77
 translate chinese d21s06_4c2480e3:
 
     # sy "Yeah, with AmRose."
-    sy "Yeah, with AmRose."
+    sy "对，和爱洛丝一起来过。"
 
 # game/code/d21/d21s06.rpy:79
 translate chinese d21s06_88f50ab9:
 
     # arj "I'm sure he'll be fine. He gets around."
-    arj "I'm sure he'll be fine. He gets around."
+    arj "我相信他不会有事的。他能四处走动。"
 
 # game/code/d21/d21s06.rpy:82
 translate chinese d21s06_76f89eaa:
 
     # arj "You're living with me, right?"
-    arj "You're living with me, right?"
+    arj "你和我住一起，对吧？"
 
 # game/code/d21/d21s06.rpy:83
 translate chinese d21s06_0ba00e5c:
 
     # mc "Right. You told me that on the way here."
-    mc "Right. You told me that on the way here."
+    mc "对。你在来的路上告诉我的。"
 
 # game/code/d21/d21s06.rpy:84
 translate chinese d21s06_2cd0cd35:
 
     # arj "No, I didn't."
-    arj "No, I didn't."
+    arj "不，我没说。"
 
 # game/code/d21/d21s06.rpy:86
 translate chinese d21s06_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的？"
 
 # game/code/d21/d21s06.rpy:88
 translate chinese d21s06_8ef825df:
 
     # sy "I'm scared, is he faking it or being serious?"
-    sy "I'm scared, is he faking it or being serious?"
+    sy "我真害怕了，他是装的还是认真的？"
 
 # game/code/d21/d21s06.rpy:90
 translate chinese d21s06_9ba29489:
 
     # mc "I'm just joking. Yeah, if AmRose will have me, I'll be glad to split the rent with her."
-    mc "I'm just joking. Yeah, if AmRose will have me, I'll be glad to split the rent with her."
+    mc "我只是在开玩笑。如果爱洛丝愿意要我，我很乐意和她平分房租。"
 
 # game/code/d21/d21s06.rpy:91
 translate chinese d21s06_10d7653e:
 
     # arj "Fantastic. Movie nights are coming back then."
-    arj "Fantastic. Movie nights are coming back then."
+    arj "太棒了。那属于我们的电影之夜就要回来了。"
 
 # game/code/d21/d21s06.rpy:96
 translate chinese d21s06_928bebab:
 
     # mc "I'll take care of it."
-    mc "I'll take care of it."
+    mc "我会处理好的。"
 
 # game/code/d21/d21s06.rpy:98
 translate chinese d21s06_393f8281:
 
     # sy "What do you mean, you'll take care of it?"
-    sy "What do you mean, you'll take care of it?"
+    sy "你说会处理好，是什么意思？"
 
 # game/code/d21/d21s06.rpy:99
 translate chinese d21s06_fd626a1c:
 
     # sy "Did you come into a great deal of money in the past few days? Your credit went up for the first time?"
-    sy "Did you come into a great deal of money in the past few days? Your credit went up for the first time?"
+    sy "你在过去几天里是不是进了一大笔钱？你的信用第一次上升了？"
 
 # game/code/d21/d21s06.rpy:101
 translate chinese d21s06_7fb4101f:
 
     # mc "I'll get around."
-    mc "I'll get around."
+    mc "我会搞定的。"
 
 # game/code/d21/d21s06.rpy:102
 translate chinese d21s06_3c4e939b:
 
     # arj "Really, [mcname]? What, you're going to be homeless?"
-    arj "Really, [mcname]? What, you're going to be homeless?"
+    arj "怎么，[mcname]？你要无家可归了？"
 
 # game/code/d21/d21s06.rpy:104
 translate chinese d21s06_9e88dd5a:
 
     # mc "I prefer the term 'transitory person' myself."
-    mc "I prefer the term 'transitory person' myself."
+    mc "我自己更喜欢'临时人士'这个词。"
 
 # game/code/d21/d21s06.rpy:105
 translate chinese d21s06_a66b985e:
 
     # mc "But no, I'll find a place. Can't be too hard to find."
-    mc "But no, I'll find a place. Can't be too hard to find."
+    mc "没事，我会找到住的地方。不会太难找的。"
 
 # game/code/d21/d21s06.rpy:109
 translate chinese d21s06_488745c7:
 
     # sy "Fine, be sure that's taken care of then."
-    sy "Fine, be sure that's taken care of then."
+    sy "好吧，那你一定要把这事处理好。"
 
 # game/code/d21/d21s06.rpy:111
 translate chinese d21s06_46e968c0:
 
     # mc "I will. Thanks for your help."
-    mc "I will. Thanks for your help."
+    mc "会的。多谢你的帮忙。"
 
 # game/code/d21/d21s06.rpy:113
 translate chinese d21s06_fb986ab2:
 
     # sy "Alright, good. How about you, AmRose? You ready to go?"
-    sy "Alright, good. How about you, AmRose? You ready to go?"
+    sy "好。你呢，爱洛丝？你要走了吗？"
 
 # game/code/d21/d21s06.rpy:115
 translate chinese d21s06_a7c62671:
 
     # arj "Yeah."
-    arj "Yeah."
+    arj "嗯。"
 
 # game/code/d21/d21s06.rpy:117
 translate chinese d21s06_2dbca056:
 
     # sy "Give me a moment, let me bring the clothes."
-    sy "Give me a moment, let me bring the clothes."
+    sy "给我点时间，我把衣服拿来。"
 
 # game/code/d21/d21s06.rpy:120
 translate chinese d21s06_a331213d:
 
     # mc "It's also very hard to change into a suit right after a fivesome."
-    mc "It's also very hard to change into a suit right after a fivesome."
+    mc "在五人行之后，很难马上换上西装。"
 
 # game/code/d21/d21s06.rpy:122
 translate chinese d21s06_d4ec4e3f:
 
     # arj "Or before one."
-    arj "Or before one."
+    arj "五人行之前也不简单啊。"
 
 # game/code/d21/d21s06.rpy:124
 translate chinese d21s06_1d7c7f90:
 
     # mc "Yeah, that has to be a kink, right? People wearing clothes to an orgy, what's the purpose other than for teasing and to elude imagination into fantasy?"
-    mc "Yeah, that has to be a kink, right? People wearing clothes to an orgy, what's the purpose other than for teasing and to elude imagination into fantasy?"
+    mc "嗯，这一定是种癖好吧？人们穿着衣服参加狂欢，除了为了挑逗，还有增加彼此的想象力外，还有什么目的？"
 
 # game/code/d21/d21s06.rpy:125
 translate chinese d21s06_98b3ec46:
 
     # arj "No, I think it has more to do with social class."
-    arj "No, I think it has more to do with social class."
+    arj "不，我认为这与社会阶层有更大关系。"
 
 # game/code/d21/d21s06.rpy:126
 translate chinese d21s06_1575df4e:
 
     # mc "And what social class are we in, wearing the same clothes and pants everyone else wears?"
-    mc "And what social class are we in, wearing the same clothes and pants everyone else wears?"
+    mc "那我们穿着和别人一样的衣服和裤子，又是什么阶层？"
 
 # game/code/d21/d21s06.rpy:127
 translate chinese d21s06_af7c3410:
 
     # arj "Middle class."
-    arj "Middle class."
+    arj "中产阶级。"
 
 # game/code/d21/d21s06.rpy:129
 translate chinese d21s06_00a54c7b:
 
     # arj "What are you doing, exactly?"
-    arj "What are you doing, exactly?"
+    arj "你到底在做什么？"
 
 # game/code/d21/d21s06.rpy:131
 translate chinese d21s06_c7637583:
 
     # mc "Taking off my clothes."
-    mc "Taking off my clothes."
+    mc "脱掉衣服。"
 
 # game/code/d21/d21s06.rpy:133
 translate chinese d21s06_24c9bb5d:
 
     # arj "Alright."
-    arj "Alright."
+    arj "好吧。"
 
 # game/code/d21/d21s06.rpy:135
 translate chinese d21s06_7dfab7d7:
 
     # mc "You're not going to ask why?"
-    mc "You're not going to ask why?"
+    mc "你不打算问为什么？"
 
 # game/code/d21/d21s06.rpy:137
 translate chinese d21s06_8b02450d:
 
     # arj "I'm assuming you have a good reason."
-    arj "I'm assuming you have a good reason."
+    arj "你应该有充分的理由吧。"
 
 # game/code/d21/d21s06.rpy:139
 translate chinese d21s06_a577f4b8:
 
     # mc "It's a surprise."
-    mc "It's a surprise."
+    mc "这是个惊喜。"
 
 # game/code/d21/d21s06.rpy:141
 translate chinese d21s06_3341c12f:
 
     # sy "And here are your clothes-"
-    sy "And here are your clothes-"
+    sy "还有，这是你的衣服--"
 
 # game/code/d21/d21s06.rpy:142
 translate chinese d21s06_b53bd614:
 
     # mc "Ta-da."
-    mc "Ta-da."
+    mc "嗒嗒。"
 
 # game/code/d21/d21s06.rpy:144
 translate chinese d21s06_032e8e68:
 
     # sy "You know, if you encourage this, it's only gonna get worse."
-    sy "You know, if you encourage this, it's only gonna get worse."
+    sy "你知道，如果你鼓励这样，情况只会越来越糟。"
 
 # game/code/d21/d21s06.rpy:146
 translate chinese d21s06_be5d012b:
 
     # mc "Have a taste."
-    mc "Have a taste."
+    mc "尝尝吧。"
 
 # game/code/d21/d21s06.rpy:148
 translate chinese d21s06_75178bdb:
 
     # sy "We're in an apartment right now."
-    sy "We're in an apartment right now."
+    sy "我们现在在公寓里。"
 
 # game/code/d21/d21s06.rpy:150
 translate chinese d21s06_fedc1d14:
 
     # mc "So what?"
-    mc "So what?"
+    mc "那又怎样？"
 
 # game/code/d21/d21s06.rpy:151
 translate chinese d21s06_5b04d957:
 
     # sy "My apartment. I don't want my neighbors to think I'm a pervert."
-    sy "My apartment. I don't want my neighbors to think I'm a pervert."
+    sy "这是我的公寓。我不想让邻居认为我是变态。"
 
 # game/code/d21/d21s06.rpy:153
 translate chinese d21s06_166f772b:
 
     # mc "I think it's a bit too late for that."
-    mc "I think it's a bit too late for that."
+    mc "现在说这个有点太晚了。"
 
 # game/code/d21/d21s06.rpy:154
 translate chinese d21s06_d94ffc1f:
 
     # mc "What do they think about the cage?"
-    mc "What do they think about the cage?"
+    mc "他们对笼子怎么看？"
 
 # game/code/d21/d21s06.rpy:156
 translate chinese d21s06_ede393b5:
 
     # sy "They never saw it."
-    sy "They never saw it."
+    sy "没人见过笼子。"
 
 # game/code/d21/d21s06.rpy:157
 translate chinese d21s06_c7807e9f:
 
     # mc "You don't have neighbors over?"
-    mc "You don't have neighbors over?"
+    mc "你没有邻居过来？"
 
 # game/code/d21/d21s06.rpy:158
 translate chinese d21s06_682c1023:
 
     # sy "Nope. I don't have neighbors over."
-    sy "Nope. I don't have neighbors over."
+    sy "没。从来没有邻居过来。"
 
 # game/code/d21/d21s06.rpy:160
 translate chinese d21s06_1ad0713f:
 
     # sy "Here, wear this in the meantime."
-    sy "Here, wear this in the meantime."
+    sy "来，快把这个穿上。"
 
 # game/code/d21/d21s06.rpy:162
 translate chinese d21s06_6dad086a:
 
     # mc "That? Really?"
-    mc "That? Really?"
+    mc "这？真的吗？"
 
 # game/code/d21/d21s06.rpy:164
 translate chinese d21s06_74abaaf7:
 
     # sy "Why not?"
-    sy "Why not?"
+    sy "怎么了？"
 
 # game/code/d21/d21s06.rpy:166
 translate chinese d21s06_60b4a83b:
 
     # mc "I thought you had a better sense of humor than that..."
-    mc "I thought you had a better sense of humor than that..."
+    mc "我以为你的幽默感不止这样呢..."
 
 # game/code/d21/d21s06.rpy:167
 translate chinese d21s06_8d049fd8:
 
     # sy "Shut up and wear it!"
-    sy "Shut up and wear it!"
+    sy "闭嘴，快穿上！"
 
 # game/code/d21/d21s06.rpy:169
 translate chinese d21s06_df8d949a:
 
     # mc "I feel like Hugh Hefner in the Playboy mansion."
-    mc "I feel like Hugh Hefner in the Playboy mansion."
+    mc "我觉得自己就像花花公子豪宅里的休·海夫纳。"
 
 # game/code/d21/d21s06.rpy:171
 translate chinese d21s06_50a02fb7:
 
     # sy "Badboy, not Playboy! All that porn and you can't read anymore!"
-    sy "Badboy, not Playboy! All that porn and you can't read anymore!"
+    sy "是坏小子，不是花花公子！看了那么多黄片，你连字都不认识了吗！"
 
 # game/code/d21/d21s06.rpy:173
 translate chinese d21s06_b8726199:
 
     # mc "Call a medic! We have progressing case of deteriorating sense of humor!"
-    mc "Call a medic! We have progressing case of deteriorating sense of humor!"
+    mc "叫医生！我们的病情正在恶化。幽默感每况愈下！"
 
 # game/code/d21/d21s06.rpy:175
 translate chinese d21s06_5497af85:
 
     # mc "How are we taking this apart?"
-    mc "How are we taking this apart?"
+    mc "我们怎么把它拆开？"
 
 # game/code/d21/d21s06.rpy:176
 translate chinese d21s06_7859e334:
 
     # arj "The inverse of how we put it together."
-    arj "The inverse of how we put it together."
+    arj "怎么组装的，就怎么反着来。"
 
 # game/code/d21/d21s06.rpy:178
 translate chinese d21s06_aef15cc3:
 
     # mc "I honestly don't remember how we put it together."
-    mc "I honestly don't remember how we put it together."
+    mc "我真不记得是怎么把它装起来的。"
 
 # game/code/d21/d21s06.rpy:179
 translate chinese d21s06_d07725d7:
 
     # arj "We did it the old-fashioned way. Since this thing prevents any wi-fi connection."
-    arj "We did it the old-fashioned way. Since this thing prevents any wi-fi connection."
+    arj "我们用的是老办法。因为这个东西不能连接wi-fi。"
 
 # game/code/d21/d21s06.rpy:181
 translate chinese d21s06_9ecdcc2d:
 
     # mc "Doesn't it need to be turned on to do that?"
-    mc "Doesn't it need to be turned on to do that?"
+    mc "它不是需要打开才行吗？"
 
 # game/code/d21/d21s06.rpy:182
 translate chinese d21s06_43872691:
