@@ -40,7 +40,7 @@ translate chinese d21s05_281d6fdb:
 translate chinese d21s05_6d98fa3b:
 
     # arj "I heard what you did for [mcname].{w} Maria, you really went above and beyond."
-    arj "我听说了你为[mcname]{w}所做的一切。玛丽亚，你真的做得非常好。"
+    arj "我听说你为[mcname]做了很多。{w}玛丽亚，你真的做得非常好。"
 
 # game/code/d21/d21s05.rpy:96
 translate chinese d21s05_43f484dc:
@@ -58,13 +58,13 @@ translate chinese d21s05_b814a4c4:
 translate chinese d21s05_ea61214b:
 
     # arj "So, I just wanted to throw a little Thank You Party for you. Ya'know, so we could say Thanks."
-    arj "所以，我只是想为你举办一个小小的感谢派对。这样我们就可以表示感谢了。"
+    arj "是这样，我只是想为你举办一个小小的感谢派对。这样我们就可以，表示感谢了。"
 
 # game/code/d21/d21s05.rpy:99
 translate chinese d21s05_9c5669f3:
 
     # mc "Seriously, thank you.{w} What I saw was unimaginable."
-    mc "说真的，谢谢你。{w}这太不可思议了。"
+    mc "说真的，谢谢你。{w}太出乎我的意料了。"
 
 # game/code/d21/d21s05.rpy:100
 translate chinese d21s05_a777aa7b:
@@ -76,13 +76,13 @@ translate chinese d21s05_a777aa7b:
 translate chinese d21s05_8cb8fcbd:
 
     # arj "Slainte!"
-    arj "Slainte!"
+    arj "Slainte!（苏格兰语）"
 
 # game/code/d21/d21s05.rpy:105
 translate chinese d21s05_2723ca54:
 
     # mk "Na Zdorovie!"
-    mk "Na Zdorovie!"
+    mk "淦呗！"
 
 # game/code/d21/d21s05.rpy:107
 translate chinese d21s05_08f06a72:
@@ -100,19 +100,19 @@ translate chinese d21s05_f4d57327:
 translate chinese d21s05_a8b8209b:
 
     # arj "Only the best."
-    arj "这可是最好的。"
+    arj "这可是最好的酒。"
 
 # game/code/d21/d21s05.rpy:112
 translate chinese d21s05_5f013e55:
 
     # mc "It tastes great, but it burns like I just swallowed a furnace."
-    mc "味道很好，但感觉很灼热，就像刚吞下一个火炉一样。"
+    mc "味道很好，但感觉很灼热，像刚吞下一个火炉一样。"
 
 # game/code/d21/d21s05.rpy:113
 translate chinese d21s05_deaf31c5:
 
     # arj "Would you like some more?"
-    arj "你想再来点吗？"
+    arj "再来点吗？"
 
 # game/code/d21/d21s05.rpy:115
 translate chinese d21s05_d61d714f:
@@ -166,7 +166,7 @@ translate chinese d21s05_fdaadfa1:
 translate chinese d21s05_e4e4a05f:
 
     # mc "So, what's the plan, AmRose?"
-    mc "好了，计划是什么，爱洛丝？"
+    mc "对了，爱洛丝，计划是什么？"
 
 # game/code/d21/d21s05.rpy:128
 translate chinese d21s05_5106f980:
@@ -250,7 +250,7 @@ translate chinese d21s05_5a76c07a:
 translate chinese d21s05_0f272027:
 
     # mk "They're good friends.{w} And they'll keep within the goals of the party."
-    mk "请的都是好朋友。{w}而且他们会严格追随派对的主题的。"
+    mk "请的都是好朋友。{w}而且他们会严格配合派对的主题的。"
 
 # game/code/d21/d21s05.rpy:150
 translate chinese d21s05_11bb6221:
@@ -286,7 +286,7 @@ translate chinese d21s05_9215de55:
 translate chinese d21s05_c773b35f:
 
     # mk "Oh, I'm definitely calling them now."
-    mk "哦，现在绝对要给他们打电话了。"
+    mk "哦，现在给他们打电话更合适了。"
 
 # game/code/d21/d21s05.rpy:174
 translate chinese d21s05_party_06cbfe18:
@@ -340,7 +340,7 @@ translate chinese d21s05_party_08e29035:
 translate chinese d21s05_party_b479bc72:
 
     # mc "Maybe I should have another shot."
-    mc "也许我应该再打一针。"
+    mc "也许我应该再来一杯。"
 
 # game/code/d21/d21s05.rpy:190
 translate chinese d21s05_party_40f174d9:
@@ -382,7 +382,7 @@ translate chinese d21s05_party_69b97c04:
 translate chinese d21s05_party_fe0b4beb:
 
     # mk "Please do. You know how it is."
-    mk "请吧。你知道是怎么回事。"
+    mk "请吧。你知道怎么个流程。"
 
 # game/code/d21/d21s05.rpy:200
 translate chinese d21s05_party_20d25084:
@@ -394,7 +394,7 @@ translate chinese d21s05_party_20d25084:
 translate chinese d21s05_party_bce6fd93:
 
     # mk "Do a good job. He deserves it."
-    mk "好好干。 这是他应得的。"
+    mk "好好干。这是他应得的。"
 
 # game/code/d21/d21s05.rpy:203
 translate chinese d21s05_party_148fcc07:
@@ -406,7 +406,7 @@ translate chinese d21s05_party_148fcc07:
 translate chinese d21s05_party_744cad65:
 
     # mk "You should know. You're my favourite person."
-    mk "你应该知道。 你是我最喜欢的人。"
+    mk "你应该知道。你是我最喜欢的人。"
 
 # game/code/d21/d21s05.rpy:206
 translate chinese d21s05_party_1f922762:
@@ -418,13 +418,13 @@ translate chinese d21s05_party_1f922762:
 translate chinese d21s05_party_af91e2e3:
 
     # mk "I'm also something else-"
-    mk "也还有别的身份--"
+    mk "还有别的身份--"
 
 # game/code/d21/d21s05.rpy:214
 translate chinese d21s05_party_a57f47b2:
 
     # mk "I'm a subservient slut that loves to please.{w}.. anyone.{w}.. everyone."
-    mk "我是个顺从的荡妇，喜欢取悦{w}...别人{w}... 取悦所有人。"
+    mk "我是个顺从的荡妇，喜欢取悦{w}...别人{w}...取悦所有人。"
 
 # game/code/d21/d21s05.rpy:216
 translate chinese d21s05_party_982b5b3b:
@@ -436,13 +436,13 @@ translate chinese d21s05_party_982b5b3b:
 translate chinese d21s05_party_066c4a67:
 
     # ah "What were you watching on the tv? Is this view better?"
-    ah "你在看什么电视节目？这边的风景是不是更好？"
+    ah "你在看什么节目？这边的风景是不是更好？"
 
 # game/code/d21/d21s05.rpy:218
 translate chinese d21s05_party_d0f10e09:
 
     # mc "I don't even remember{w}, and yes. Much better."
-    mc "回答你上一个问题，我都不记得了{w}，至于第二个问题，是的，这里的景色美多了。"
+    mc "我已经不记得看什么电视了{w}，至于你第二个问题，是的，这里的景色美多了。"
 
 # game/code/d21/d21s05.rpy:228
 translate chinese d21s05_party_65963e70:
@@ -472,7 +472,7 @@ translate chinese d21s05_party_bf78992b:
 translate chinese d21s05_party_bcd00acb:
 
     # arj "Fuck me... I'm too drunk to process this..."
-    arj "操...  我太醉了，担心做不了..."
+    arj "操... 我太醉了，担心做不了..."
 
 # game/code/d21/d21s05.rpy:242
 translate chinese d21s05_party_89442f56:
@@ -490,7 +490,7 @@ translate chinese d21s05_party_5cba9725:
 translate chinese d21s05_party_1c318800:
 
     # mk "Are you just going to watch? My asshole feels empty."
-    mk "你就这么看着吗？ 我的屁眼感觉很空虚虚。"
+    mk "你就这么看着吗？我的屁眼感觉很空虚。"
 
 # game/code/d21/d21s05.rpy:255
 translate chinese d21s05_party_51620d67:
@@ -508,7 +508,7 @@ translate chinese d21s05_party_437cb506:
 translate chinese d21s05_party_5a7fd872:
 
     # tr "Goddammit, I'm gonna end up with \"Murdered by his pants\" on my tombstone."
-    tr "该死，我的墓碑上会写着\"被他的裤子谋杀。\" "
+    tr "该死，我的墓碑上会写着\"被他的裤子顶死。\" "
 
 # game/code/d21/d21s05.rpy:260
 translate chinese d21s05_party_b705fb18:
@@ -526,7 +526,7 @@ translate chinese d21s05_party_48299757:
 translate chinese d21s05_party_791dfa9b:
 
     # ah "Then fuck her shitty dry ass with your pathetic hard-on."
-    ah "那就用你那可怜的硬屄操烂她的屁股"
+    ah "那就用你那可怜的硬屄操烂她的屁股。"
 
 # game/code/d21/d21s05.rpy:265
 translate chinese d21s05_party_5664c729:
@@ -544,7 +544,7 @@ translate chinese d21s05_party_49a91001:
 translate chinese d21s05_party_4c3587fc:
 
     # mk "GAH!!!{w} Finally!"
-    mk "啊啊！{w} 要被插死了啊！"
+    mk "啊啊!!!{w} 插得我好爽！"
 
 # game/code/d21/d21s05.rpy:276
 translate chinese d21s05_party_b961996f:
@@ -556,7 +556,7 @@ translate chinese d21s05_party_b961996f:
 translate chinese d21s05_party_347434d3:
 
     # tr "I bet you've never felt so full!"
-    tr "我敢打赌你从来没被插这么满！"
+    tr "我敢打赌你从来没被插这么满过！"
 
 # game/code/d21/d21s05.rpy:280
 translate chinese d21s05_party_3faf2ed4:
@@ -604,7 +604,7 @@ translate chinese d21s05_party_0746867d:
 translate chinese d21s05_party_673ef29c:
 
     # mk "Fucking hell."
-    mk "操啊啊。"
+    mk "操啊。"
 
 # game/code/d21/d21s05.rpy:305
 translate chinese d21s05_party_c5cf7272:
@@ -664,7 +664,7 @@ translate chinese d21s05_party_544256e3:
 translate chinese d21s05_party_844661e9:
 
     # ah "Fuck yes, work it you little cunt licker."
-    ah "操啊，动起来，你这个舔屄的小家伙。"
+    ah "操啊，你这个舔屄奴，动起来！"
 
 # game/code/d21/d21s05.rpy:353
 translate chinese d21s05_party_d3c77959:
@@ -676,7 +676,7 @@ translate chinese d21s05_party_d3c77959:
 translate chinese d21s05_party_1c727432:
 
     # mc "That depends. Are you thinking about how I'm going to fuck your face?"
-    mc "那要看情况。 你是不是在想我要怎么操你的脸？"
+    mc "那要看情况。你是不是在想我要怎么操你的脸？"
 
 # game/code/d21/d21s05.rpy:357
 translate chinese d21s05_party_b1860dfb:
@@ -688,7 +688,7 @@ translate chinese d21s05_party_b1860dfb:
 translate chinese d21s05_party_666ab88c:
 
     # ah "I was thinking you could fuck this little sissy in the ass while he's licking my cunt."
-    ah "我在想让这个小娘娘腔舔我的屄，同时你可以操他屁股。"
+    ah "我想让这个小娘娘腔舔我的屄，同时你可以操他屁股。"
 
 # game/code/d21/d21s05.rpy:360
 translate chinese d21s05_party_b5eb687c:
@@ -700,7 +700,7 @@ translate chinese d21s05_party_b5eb687c:
 translate chinese d21s05_party_c0b181b8:
 
     # ah "It wouldn't make you gay, if you're worried about that.{w} This little bitch is practically one of the girls."
-    ah "这不会让你变成男同的，如果你是担心这个的话。{w}这个小婊子基本上和女孩没差了。"
+    ah "你不会因为这个变成男同的，如果你是担心这个的话。{w}这个小婊子基本上和女孩没差了。"
 
 # game/code/d21/d21s05.rpy:364
 translate chinese d21s05_party_71084baa:
@@ -712,7 +712,7 @@ translate chinese d21s05_party_71084baa:
 translate chinese d21s05_party_2703f63a:
 
     # ah "See, [mcname]? Even the lesbian enjoys this little rug muncher. That's gotta make him a girl."
-    ah "看到了吗，[mcname]？连拉拉都喜欢这个小娘娘腔。他一定是个女孩。"
+    ah "看到了吗，[mcname]？连拉拉都喜欢这个小娘娘腔。他绝对是个女孩。"
 
 # game/code/d21/d21s05.rpy:366
 translate chinese d21s05_party_0decd532:
@@ -760,19 +760,19 @@ translate chinese d21s05_fuck_tr_e010143f:
 translate chinese d21s05_fuck_tr_7e62c2e6:
 
     # tr "*muffled, but louder*"
-    tr "*含混着, 但声音更大*"
+    tr "*含混着，但声音更大*"
 
 # game/code/d21/d21s05.rpy:388
 translate chinese d21s05_fuck_tr_b2fee71c:
 
     # tr "Exceptionally thankful."
-    tr "极其感激。"
+    tr "感激不尽。"
 
 # game/code/d21/d21s05.rpy:390
 translate chinese d21s05_fuck_tr_4172b25d:
 
     # mc "And you, Aaleyah?"
-    mc "极其感激。"
+    mc "你呢，艾蕾亚？"
 
 # game/code/d21/d21s05.rpy:392
 translate chinese d21s05_fuck_tr_dbc0ab3c:
@@ -790,7 +790,7 @@ translate chinese d21s05_fuck_tr_406b82d9:
 translate chinese d21s05_fuck_tr_9427129d:
 
     # mc "Believe me.{w} I am."
-    mc "相信我。{w} 我是。"
+    mc "相信我。{w}我是担心。"
 
 # game/code/d21/d21s05.rpy:397
 translate chinese d21s05_fuck_tr_1dfcf0c6:
@@ -814,7 +814,7 @@ translate chinese d21s05_fuck_tr_bfb49f8c:
 translate chinese d21s05_fuck_tr_a126e41d:
 
     # ah "Man? Ha!!!"
-    ah "男人？哈！！！"
+    ah "男人？哈!!!"
 
 # game/code/d21/d21s05.rpy:402
 translate chinese d21s05_fuck_tr_01e21a27:
@@ -868,7 +868,7 @@ translate chinese d21s05_fuck_tr_c1e7f53c:
 translate chinese d21s05_fuck_tr_d2c14819:
 
     # ah "Oh?"
-    ah "Oh?"
+    ah "哦？"
 
 # game/code/d21/d21s05.rpy:422
 translate chinese d21s05_fuck_tr_181619cc:
@@ -934,7 +934,7 @@ translate chinese d21s05_fuck_ah_b6e74aae:
 translate chinese d21s05_fuck_ah_a16bfa5f:
 
     # ah "Oh my fucking g-"
-    ah "哦，我他妈的--"
+    ah "哦，我他妈--"
 
 # game/code/d21/d21s05.rpy:449
 translate chinese d21s05_fuck_ah_94743a50:
@@ -1024,7 +1024,7 @@ translate chinese d21s05_end_ae585453:
 translate chinese d21s05_end_7cd8bee9:
 
     # mc "Sounds like it's unanimous."
-    mc "听起来好像一致通过了。"
+    mc "听起来大家都同意了。"
 
 # game/code/d21/d21s05.rpy:487
 translate chinese d21s05_end_a355e890:
@@ -1078,7 +1078,7 @@ translate chinese d21s05_end_57c87f8a:
 translate chinese d21s05_end_36c4c552:
 
     # tr "TAKE ITTITITTIitititiitIT allLLLlllll"
-    tr "操！全都给你"
+    tr "操！全都给你--啊--"
 
 # game/code/d21/d21s05.rpy:514
 translate chinese d21s05_end_e34f4673:
@@ -1096,7 +1096,7 @@ translate chinese d21s05_end_8f311345:
 translate chinese d21s05_end_57fc07db:
 
     # ah "Damn. I wish someone was fucking me."
-    ah "操。真希望有人操我"
+    ah "操。真希望有人操我。"
 
 # game/code/d21/d21s05.rpy:519
 translate chinese d21s05_end_25ecc89c:
