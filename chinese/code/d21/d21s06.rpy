@@ -10,7 +10,7 @@ translate chinese d21s06_a1ce140a:
 translate chinese d21s06_3d329940:
 
     # mc "Me, personally?"
-    mc "你说我，自己？"
+    mc "你说，我自己？"
 
 # game/code/d21/d21s06.rpy:20
 translate chinese d21s06_f0993cbb:
@@ -22,7 +22,7 @@ translate chinese d21s06_f0993cbb:
 translate chinese d21s06_828ff008:
 
     # mc "There's you, and me, and the door here, and other doors, presumably people behind those doors..."
-    mc "有你，有我，有这扇门，还有其他的门，这些门后面应该还有人..."
+    mc "有你，有我，有这扇门，还有其他门，这些门后面应该还有人..."
 
 # game/code/d21/d21s06.rpy:24
 translate chinese d21s06_370d5b81:
@@ -58,7 +58,7 @@ translate chinese d21s06_a2dbe1e2:
 translate chinese d21s06_7b95aa66:
 
     # arj "You don't remember, if you, [mcname], have been a part of any fivesomes."
-    arj "你完全不记得，[mcname]，曾经，有过哪怕一次加入过五人行？"
+    arj "[mcname]，你完全不记得，曾经，哪怕有过一次加入过五人行？"
 
 # game/code/d21/d21s06.rpy:36
 translate chinese d21s06_28ba79cd:
@@ -184,7 +184,7 @@ translate chinese d21s06_4c2480e3:
 translate chinese d21s06_88f50ab9:
 
     # arj "I'm sure he'll be fine. He gets around."
-    arj "我相信他不会有事的。他能四处走动。"
+    arj "我相信他不会有事。他会自己解决的。"
 
 # game/code/d21/d21s06.rpy:82
 translate chinese d21s06_76f89eaa:
@@ -244,7 +244,7 @@ translate chinese d21s06_393f8281:
 translate chinese d21s06_fd626a1c:
 
     # sy "Did you come into a great deal of money in the past few days? Your credit went up for the first time?"
-    sy "你在过去几天里是不是进了一大笔钱？你的信用第一次上升了？"
+    sy "你过去几天里是不是进了一大笔钱？你的信用第一次上升了？"
 
 # game/code/d21/d21s06.rpy:101
 translate chinese d21s06_7fb4101f:
@@ -304,7 +304,7 @@ translate chinese d21s06_2dbca056:
 translate chinese d21s06_a331213d:
 
     # mc "It's also very hard to change into a suit right after a fivesome."
-    mc "在五人行之后，很难马上换上西装。"
+    mc "在五人行之后，很难马上换上衣服。"
 
 # game/code/d21/d21s06.rpy:122
 translate chinese d21s06_d4ec4e3f:
@@ -340,7 +340,7 @@ translate chinese d21s06_af7c3410:
 translate chinese d21s06_00a54c7b:
 
     # arj "What are you doing, exactly?"
-    arj "你到底在做什么？"
+    arj "你到底在干嘛？"
 
 # game/code/d21/d21s06.rpy:131
 translate chinese d21s06_c7637583:
@@ -382,7 +382,7 @@ translate chinese d21s06_3341c12f:
 translate chinese d21s06_b53bd614:
 
     # mc "Ta-da."
-    mc "嗒嗒。"
+    mc "嗒-哒。"
 
 # game/code/d21/d21s06.rpy:144
 translate chinese d21s06_032e8e68:
@@ -520,7 +520,7 @@ translate chinese d21s06_d07725d7:
 translate chinese d21s06_9ecdcc2d:
 
     # mc "Doesn't it need to be turned on to do that?"
-    mc "它不是需要打开才行吗？"
+    mc "不是需要打开才行吗？"
 
 # game/code/d21/d21s06.rpy:182
 translate chinese d21s06_43872691:
@@ -562,7 +562,7 @@ translate chinese d21s06_28a0046d:
 translate chinese d21s06_90dd921c:
 
     # sy "I was looking into it, but they're kinda expensive. I certainly can't afford it."
-    sy "我正在考虑，但它们有点贵。我当然负担不起。"
+    sy "我正在考虑，但自存仓有点贵。我当然负担不起。"
 
 # game/code/d21/d21s06.rpy:191
 translate chinese d21s06_cb9e5a25:
@@ -580,13 +580,13 @@ translate chinese d21s06_851911ba:
 translate chinese d21s06_bd897dfc:
 
     # mc "I thought I figured that out."
-    mc "我以为我想明白了。"
+    mc "我想明白了。"
 
 # game/code/d21/d21s06.rpy:195
 translate chinese d21s06_e240c11f:
 
     # sy "You deferred it."
-    sy "你推迟了。"
+    sy "事后想明白了。"
 
 # game/code/d21/d21s06.rpy:196
 translate chinese d21s06_3adb97ac:
@@ -634,7 +634,7 @@ translate chinese d21s06_f83439e9:
 translate chinese d21s06_be43759c:
 
     # arj "Okay, Stacy, I got your joke, you don't need to keep prolonging it."
-    arj "好了，史黛西，我明白你的笑话了，你不用再拖了。"
+    arj "好了，史黛西，我明白你的笑话，你不用再说了。"
 
 # game/code/d21/d21s06.rpy:206
 translate chinese d21s06_0983192b:
@@ -670,7 +670,7 @@ translate chinese d21s06_af0eb5dd:
 translate chinese d21s06_86823ceb:
 
     # arj "We came here to dismantle the whole thing, and now you just want to start it up again?"
-    arj "我们来这就是要消灭这东西的，而现在你却想重启？"
+    arj "我们来这就是要消灭这东西的，现在你却想重启它？"
 
 # game/code/d21/d21s06.rpy:214
 translate chinese d21s06_07c441ef:
@@ -694,7 +694,7 @@ translate chinese d21s06_a73fc0aa:
 translate chinese d21s06_4d3bdad2:
 
     # sy "See, if we were to involve others in our circle of trust, people we really can trust..."
-    sy "看，如果我们让值得信任的其他人参与进来，那些真正可以信任的人..."
+    sy "听我说，如果我们让值得信任的人参与进来，那些真正可以信任的人..."
 
 # game/code/d21/d21s06.rpy:218
 translate chinese d21s06_514a6eaa:
@@ -838,7 +838,7 @@ translate chinese d21s06_e4065b21:
 translate chinese d21s06_e7bb672a:
 
     # mc "Plus, I have a court date in a few weeks. It's not the ideal time for me to think about rebooting an app or landing a job at a wellness spa."
-    mc "另外，几周后我要出庭。对我来说，不管是考虑重启程序，还是在水疗中心工作，现在都不是理想时机。"
+    mc "另外，几周后我要出庭。对我来说，不管是考虑重启应用，还是在水疗中心工作，现在都不是理想时机。"
 
 # game/code/d21/d21s06.rpy:252
 translate chinese d21s06_3fbc0d24:
@@ -898,7 +898,7 @@ translate chinese d21s06_73a9695b:
 translate chinese d21s06_cf1adef2:
 
     # mc "Yeah."
-    mc "是的。"
+    mc "嗯。"
 
 # game/code/d21/d21s06.rpy:264
 translate chinese d21s06_8c4e591b:
@@ -916,7 +916,7 @@ translate chinese d21s06_63180005:
 translate chinese d21s06_1b5ca0f1:
 
     # mc "Interested in rebooting Fetish Locator?"
-    mc "对重启性趣探测器有没有兴趣？"
+    mc "你问我对重启性趣探测器有没有兴趣？"
 
 # game/code/d21/d21s06.rpy:283
 translate chinese d21s06_e2b7759d:
@@ -964,7 +964,7 @@ translate chinese d21s06_5deed4a0:
 translate chinese d21s06_22e45b3b:
 
     # arj "I don't want to listen to her sales pitch on rebooting Fetish Locator."
-    arj "我不想听她关于重启性趣探测器的推销词。"
+    arj "我不想听她一直推销重启性趣探测器的计划。"
 
 # game/code/d21/d21s06.rpy:296
 translate chinese d21s06_56c3991c:
@@ -1042,7 +1042,7 @@ translate chinese d21s06_0af59612:
 translate chinese d21s06_c660d74a:
 
     # sy "Pro, most people who used Fetish Locator had a good experience with them."
-    sy "优点，大多数性趣探测器的使用使用都有良好的体验。"
+    sy "优点，大多数性趣探测器的用户都有良好的体验。"
 
 # game/code/d21/d21s06.rpy:316
 translate chinese d21s06_6546d529:
@@ -1096,13 +1096,13 @@ translate chinese d21s06_791cffe0:
 translate chinese d21s06_51f9b7a4:
 
     # arj "How can I not be? It's like you're an amnesiac, forgetting why we're here, why we helped you take this cage apart in the first place."
-    arj "How can I not be? It's like you're an amnesiac, forgetting why we're here, why we helped you take this cage apart in the first place."
+    arj "我怎么能不消极呢？你就像失忆了一样，忘记了我们来这里的目的，忘记了我们一开始为什么要帮你把笼子拆开。"
 
 # game/code/d21/d21s06.rpy:329
 translate chinese d21s06_3f2b16a1:
 
     # arj "It wasn't so we keep it around in case we need it, we did it so we get rid of it."
-    arj "我怎么能不消极呢？你就像失忆了一样，忘记了我们来这里的目的，忘记了我们一开始为什么要帮你把笼子拆开。"
+    arj "我们并不是要留着它以备不时之需，这一切的努力都是为了摆脱它。"
 
 # game/code/d21/d21s06.rpy:330
 translate chinese d21s06_26f966cb:
@@ -1186,7 +1186,7 @@ translate chinese d21s06_84a6fd86:
 translate chinese d21s06_3d78d5f9:
 
     # arj "I chose to enter a relationship with you and I'm quite happy I did. I regret my involvement with Fetish Locator."
-    arj "我选择与你建立恋爱关系，也很高兴我这样做了。但我很后悔参与了性趣探测器。"
+    arj "我选择与你建立恋爱关系，我也很高兴自己这样做了。但我很后悔参与了性趣探测器。"
 
 # game/code/d21/d21s06.rpy:353
 translate chinese d21s06_fdf60e35:
@@ -1222,7 +1222,7 @@ translate chinese d21s06_ab888f37:
 translate chinese d21s06_7250b67e:
 
     # sy "Under a new name of course."
-    sy "当然是用了新名字。"
+    sy "当然要用新名字。"
 
 # game/code/d21/d21s06.rpy:363
 translate chinese d21s06_945831bf:
@@ -1240,7 +1240,7 @@ translate chinese d21s06_50ef34a5:
 translate chinese d21s06_f873f48c:
 
     # sy "I imagine we make it exclusive, invite-only for now, and open it up to more users as we make sure this is the road we want to go down."
-    sy "我想我们先把它做成独家的，玩家受邀才能加入，然后向更多用户开放，以此确定，这是我们想走的路。"
+    sy "我想我们先把它做成独家的，玩家受邀才能加入，然后向更多用户开放，以此确定这是我们想走的路。"
 
 # game/code/d21/d21s06.rpy:367
 translate chinese d21s06_9c2a3e79:
@@ -1414,7 +1414,7 @@ translate chinese d21s06_reboot_fl_72b5e5e4:
 translate chinese d21s06_reboot_fl_74b52c71:
 
     # sy "You know how in some film productions, they have some 'intimacy advisor' on set to have coordination between the director and the actors?"
-    sy "你知道在一些电影制作中，他们在片场有'亲密关系顾问'，来协调导演和演员之间的关系吗？"
+    sy "你知不知道在一些电影制作中，他们在片场有'亲密关系顾问'，来协调导演和演员之间的关系？"
 
 # game/code/d21/d21s06.rpy:431
 translate chinese d21s06_reboot_fl_b407179f:
@@ -1432,7 +1432,7 @@ translate chinese d21s06_reboot_fl_87e3421f:
 translate chinese d21s06_reboot_fl_e439aa1c:
 
     # sy "You would have a position like that in the company."
-    sy "你在公司里会有这样的职位。"
+    sy "你在公司里的职位就和这个差不多。"
 
 # game/code/d21/d21s06.rpy:435
 translate chinese d21s06_reboot_fl_0866133d:
@@ -1492,7 +1492,7 @@ translate chinese d21s06_reboot_fl_309b061d:
 translate chinese d21s06_reboot_fl_ec7b26e1:
 
     # arj "Yeah. If I'm unhappy with an idea, like, oh, I don't know, an app that spies on its users, I want to be able to say, no, don't do that."
-    arj "如果我对一个想法不满意，比如，我不知道，一个监视用户的应用程序，我希望能够说，不要这样做。"
+    arj "如果我对一个想法不满意，比如，呃，我不知道，一个监视用户的应用程序，我希望能够拒绝，劝你们不要这样做。"
 
 # game/code/d21/d21s06.rpy:451
 translate chinese d21s06_reboot_fl_73ae511b:
@@ -1504,7 +1504,7 @@ translate chinese d21s06_reboot_fl_73ae511b:
 translate chinese d21s06_reboot_fl_793f8cda:
 
     # sy "What? Everyone does it!"
-    sy "什么？每个人都这么做！"
+    sy "什么？大家都这么做！"
 
 # game/code/d21/d21s06.rpy:454
 translate chinese d21s06_reboot_fl_e56a1f89:
@@ -1624,13 +1624,13 @@ translate chinese d21s06_reboot_fl_6d70e240:
 translate chinese d21s06_reboot_fl_e3616b15:
 
     # arj "However, there is one more thing, and this is serious."
-    arj "不过还有一件事，还很严重。"
+    arj "不过还有一件事，很严重。"
 
 # game/code/d21/d21s06.rpy:485
 translate chinese d21s06_reboot_fl_2a4fbcc8:
 
     # arj "If you were to be all in about this plan... you have to promise me, promise me nothing like what happened with Fetish Locator will happen again."
-    arj "如果你完全同意这个计划...你必须向我保证，保证不会再发生像恋物定位器那样的事。"
+    arj "如果你完全同意这个计划...你必须向我保证，保证不会再发生像性趣探测器那样的事。"
 
 # game/code/d21/d21s06.rpy:487
 translate chinese d21s06_reboot_fl_15e4f837:
@@ -1660,7 +1660,7 @@ translate chinese d21s06_reboot_fl_bec7bdda:
 translate chinese d21s06_reboot_fl_d3a6634e:
 
     # mc "You have our word, AmRose. We would never do anything to break your strict confidence. I swear it."
-    mc "我们向你保证，爱洛丝。我们绝不会破坏你的信任，去做坏事的。我发誓。"
+    mc "我们向你保证，爱洛丝。我们绝不会破坏你的信任，不会去做坏事的。我发誓。"
 
 # game/code/d21/d21s06.rpy:496
 translate chinese d21s06_reboot_fl_5b792732:
@@ -1708,7 +1708,7 @@ translate chinese d21s06_reboot_fl_4fe4d74b:
 translate chinese d21s06_reboot_fl_bd37d5dd:
 
     # sy "You're the best!"
-    sy "你是最棒的！"
+    sy "你最棒了！"
 
 # game/code/d21/d21s06.rpy:508
 translate chinese d21s06_reboot_fl_eaa31b74:
@@ -1732,7 +1732,7 @@ translate chinese d21s06_reboot_fl_3a24d1c1:
 translate chinese d21s06_reboot_fl_a0e38f39:
 
     # arj "Oh, now you're going to make me blush."
-    arj "哦，现在你要让我脸红了。"
+    arj "哦，我脸都要红了。"
 
 # game/code/d21/d21s06.rpy:515
 translate chinese d21s06_reboot_fl_ad278b3d:
@@ -1834,13 +1834,13 @@ translate chinese d21s06_reboot_fl_2af34ea1:
 translate chinese d21s06_reboot_fl_e5455d01:
 
     # sy "What about Stacy's Bone Zone?"
-    sy "史黛西的骨区？"
+    sy "叫“史黛西的约炮区”，怎么样？"
 
 # game/code/d21/d21s06.rpy:544
 translate chinese d21s06_reboot_fl_69033c5a:
 
     # sy "Or Finder. It's like that other dating app, except I replaced the first letter with an F."
-    sy "或者测测怎么样。和那个约会软件一样，只不过我把叠音换成了测测。"
+    sy "或者“测测”怎么样。和那个约会软件一样，只不过我把叠音换成了测测。"
 
 # game/code/d21/d21s06.rpy:546
 translate chinese d21s06_reboot_fl_593599a5:
@@ -1858,7 +1858,7 @@ translate chinese d21s06_no_fl_2cd1dfd8:
 translate chinese d21s06_no_fl_df8bb7ca:
 
     # sy "I know why you guys are a little hesitant on hearing it, but just give me one minute, and I'll tell you why it's a good idea."
-    sy "我知道为什么你们听了会有点犹豫，但只要给我一分钟，我就会告诉你们为什么这是个好主意。"
+    sy "我知道为什么你们听了会有点犹豫，但给我一分钟就行，我会告诉你们为什么这是个好主意。"
 
 # game/code/d21/d21s06.rpy:557
 translate chinese d21s06_no_fl_0503ef5f:
@@ -1888,7 +1888,7 @@ translate chinese d21s06_no_fl_18d641b9:
 translate chinese d21s06_no_fl_ad3129e2:
 
     # arj "I have no interest in anything related to Fetish Locator, old or new."
-    arj "我对与性趣探测器有关的任何事都没有兴趣，没有例外。"
+    arj "我对任何与性趣探测器有关的事都没有兴趣，没有例外。"
 
 # game/code/d21/d21s06.rpy:565
 translate chinese d21s06_no_fl_254d07c9:
@@ -1936,7 +1936,7 @@ translate chinese d21s06_no_fl_6ec24262:
 translate chinese d21s06_no_fl_0772c775:
 
     # arj "[mcname]. Do you want to come with me?"
-    arj "[mcname]。你想和我一起吗？"
+    arj "[mcname]，你想和我一起吗？"
 
 # game/code/d21/d21s06.rpy:580
 translate chinese d21s06_no_fl_72d3767e:
@@ -2008,13 +2008,13 @@ translate chinese d21s06_no_fl_41a4dfa4:
 translate chinese d21s06_no_fl_d5241d13:
 
     # arj "Hey!"
-    arj "嘿！"
+    arj "喂！"
 
 # game/code/d21/d21s06.rpy:603
 translate chinese d21s06_no_fl_1ce5f9f7:
 
     # sy "Really? A farm? What are you going to do there?"
-    sy "你认真的吗？去农场？你要去那里干嘛？"
+    sy "你认真的吗？去农场？去那里干嘛？"
 
 # game/code/d21/d21s06.rpy:605
 translate chinese d21s06_no_fl_96194d39:
@@ -2044,7 +2044,7 @@ translate chinese d21s06_no_fl_659de358:
 translate chinese d21s06_no_fl_15fb4eb7:
 
     # arj "I didn't really hear your idea. Well, it's been a minute, I have to go or I'll miss the train."
-    arj "我并没真正听到你的想法。好了，已经过了一分钟了，我得走了，不然就赶不上火车了。"
+    arj "我并没听到你真正的想法。好了，已经过了一分钟了，我得走了，不然就赶不上火车了。"
 
 # game/code/d21/d21s06.rpy:612
 translate chinese d21s06_no_fl_9ea0272f:
@@ -2098,7 +2098,7 @@ translate chinese d21s06_no_fl_fdd57a94:
 translate chinese d21s06_no_fl_d839bd45:
 
     # sy "You're really out of practice, you know that? Business deals abound. Now, let's start listing them. A thousand for a 4x4 piece. That sounds about right."
-    sy "你真是脑子秀逗了吧？商业交易比比皆是。我们来一一列出来。一千块钱买一个4x4的碎片。这听起来差不多了。"
+    sy "你真是脑子秀逗了吧？商业交易比比皆是。我们来一一列出来。一千块钱买个4x4的碎片。这听起来差不多了。"
 
 # game/code/d21/d21s06.rpy:629
 translate chinese d21s06_no_fl_1885a552:
@@ -2182,7 +2182,7 @@ translate chinese d21s06_waterfall_17cc5734:
 translate chinese d21s06_waterfall_41ff3d7e:
 
     # mes "Hey."
-    mes "嘿。"
+    mes "喂。"
 
 # game/code/d21/d21s06.rpy:660
 translate chinese d21s06_waterfall_9eefde61:
@@ -2212,7 +2212,7 @@ translate chinese d21s06_waterfall_cdabc831:
 translate chinese d21s06_waterfall_ba428702:
 
     # sy "Hey, Min! I'm here with [mcname] and AmRose!"
-    sy "嘿，明! 我和[mcname]，还要爱洛丝在一起！"
+    sy "嘿，明! 我和[mcname]，还有爱洛丝在一起！"
 
 # game/code/d21/d21s06.rpy:669
 translate chinese d21s06_waterfall_fe53ce04:
@@ -2224,7 +2224,7 @@ translate chinese d21s06_waterfall_fe53ce04:
 translate chinese d21s06_waterfall_933a5233:
 
     # mes "Hi, Stacy. Hi, AmRose."
-    mes "嗨，史黛西。你好，爱洛丝。"
+    mes "你们好啊，史黛西，还有爱洛丝。"
 
 # game/code/d21/d21s06.rpy:672
 translate chinese d21s06_waterfall_142d2d73:
@@ -2266,7 +2266,7 @@ translate chinese d21s06_waterfall_a1e01b67:
 translate chinese d21s06_waterfall_17c9a9d8:
 
     # sy "Not as much as you, but yeah."
-    sy "嗯，不过没你那么喜欢。"
+    sy "没你那么喜欢。"
 
 # game/code/d21/d21s06.rpy:682
 translate chinese d21s06_waterfall_b11d2580:
@@ -2344,7 +2344,7 @@ translate chinese d21s06_waterfall_c2909545:
 translate chinese d21s06_waterfall_f3e95fbb:
 
     # mc "You actually have to fill out forms to copyright something, you can't just claim something and not do anything."
-    mc "你实际上必须填写表格才能获得版权，不能只是声称某个东西属于你，但实际什么都不做。"
+    mc "实际上你必须填写表格才能获得版权，不能只是声称某个东西属于你，但实际什么都不做。"
 
 # game/code/d21/d21s06.rpy:715
 translate chinese d21s06_waterfall_ab72c95b:
@@ -2416,7 +2416,7 @@ translate chinese d21s06_wellness_spa_f308289e:
 translate chinese d21s06_wellness_spa_690198d9:
 
     # mes "It's one-of-a-kind. I figure it will draw in a lot of men and women."
-    mes "这个东西独一无二。我想它会吸引很多男人和女人。
+    mes "这个东西独一无二。我想它会吸引很多男人和女人。"
 
 # game/code/d21/d21s06.rpy:739
 translate chinese d21s06_wellness_spa_802119a8:
@@ -2446,7 +2446,7 @@ translate chinese d21s06_wellness_spa_626aaba9:
 translate chinese d21s06_wellness_spa_74b1c957:
 
     # mes "It's all optional. People can pay to enjoy the vanilla spa experience."
-    mes "这都是可选的。人们可以付费享受香草式的水疗体验。"
+    mes "都可以啊。人们可以付费享受香草式的水疗体验。"
 
 # game/code/d21/d21s06.rpy:745
 translate chinese d21s06_wellness_spa_c4ca3301:
@@ -2476,7 +2476,7 @@ translate chinese d21s06_wellness_spa_3545488f:
 translate chinese d21s06_wellness_spa_40d0b7e7:
 
     # mes "That's the point, dry slogan, wet experience."
-    mes "这就是重点，干巴巴的口号，湿漉漉的水疗体验。"
+    mes "这就是重点，干巴巴的口号，爽到飞起的水疗体验。"
 
 # game/code/d21/d21s06.rpy:752
 translate chinese d21s06_wellness_spa_9c3827ac:
@@ -2536,7 +2536,7 @@ translate chinese d21s06_wellness_spa_d3cae0fb:
 translate chinese d21s06_wellness_spa_8fbe034e:
 
     # mes "It was either that or the Squirt Spa. That one might have been too obvious."
-    mes "要么这个，要么是喷疗中心。那一个可能太明显了。"
+    mes "要么这个，要么是喷疗中心。那个可能太明显了。"
 
 # game/code/d21/d21s06.rpy:766
 translate chinese d21s06_wellness_spa_30f17f59:
@@ -2560,7 +2560,7 @@ translate chinese d21s06_wellness_spa_ebbfb5a8:
 translate chinese d21s06_wellness_spa_08f69221:
 
     # mes "We can make it work with an injection of capital. We know some people on campus who accomplished something similar. Loans and such."
-    mes "可以通过注资让它运转起来。我们认识校园里的一些人，他们也做了类似的事。贷款之类的。"
+    mes "可以通过注资让它运转起来。我们在校园里认识的有些人，他们也做了类似的事。贷款之类的。"
 
 # game/code/d21/d21s06.rpy:771
 translate chinese d21s06_wellness_spa_936da8a3:
@@ -2572,7 +2572,7 @@ translate chinese d21s06_wellness_spa_936da8a3:
 translate chinese d21s06_wellness_spa_81c2261b:
 
     # mc "Mine? I can't even find a place."
-    mc "问我？ 我连住的地方都找不到。."
+    mc "问我？我连住的地方都找不到。"
 
 # game/code/d21/d21s06.rpy:773
 translate chinese d21s06_wellness_spa_41e3722b:
@@ -2614,7 +2614,7 @@ translate chinese d21s06_wellness_spa_26ee5270:
 translate chinese d21s06_wellness_spa_50bfa3fd:
 
     # mc "More of an excuse to form a imperial Chinese harem."
-    mc "更像是一个组建中国皇室后宫的借口。"
+    mc "倒更像是一个组建中国皇室后宫的借口。"
 
 # game/code/d21/d21s06.rpy:783
 translate chinese d21s06_wellness_spa_378f0c06:
@@ -2662,7 +2662,7 @@ translate chinese d21s06_wellness_spa_e1acbb60:
 translate chinese d21s06_wellness_spa_36a29d41:
 
     # mes "No. The spa is professionally run. It will just have some extras."
-    mes "不是，水疗中心是专业经营。它只是会有一些额外的功能。"
+    mes "不是，水疗中心是专业经营。它只是会有一些额外功能。"
 
 # game/code/d21/d21s06.rpy:792
 translate chinese d21s06_wellness_spa_e4b4e4a6:
@@ -2686,7 +2686,7 @@ translate chinese d21s06_wellness_spa_1bf1e07c:
 translate chinese d21s06_wellness_spa_b5098d8a:
 
     # mes "No. They wouldn't allow spas of what we're proposing."
-    mes "不，他们不会通过我们所提议的水疗中心。"
+    mes "不，我们所提议的水疗中心在亚洲不会被通过的。"
 
 # game/code/d21/d21s06.rpy:798
 translate chinese d21s06_wellness_spa_a31340dd:
@@ -2722,7 +2722,7 @@ translate chinese d21s06_wellness_spa_115dbcaf:
 translate chinese d21s06_wellness_spa_7454332c:
 
     # mc "Actually, we have a working list."
-    mc "实际上，我们有一个工作列表。"
+    mc "实际上，我们有个目标清单。"
 
 # game/code/d21/d21s06.rpy:807
 translate chinese d21s06_wellness_spa_2cd4c788:
@@ -2772,7 +2772,7 @@ translate chinese strings:
 
     # game/code/d21/d21s06.rpy:376
     old "No, forget it"
-    new "不要，算了吧。"
+    new "不要，算了吧"
 
     # game/code/d21/d21s06.rpy:395
     old "Please enter a new name for Fetish Locator."
