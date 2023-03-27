@@ -1336,13 +1336,13 @@ translate chinese d21s06_reboot_fl_db9edca0:
 translate chinese d21s06_reboot_fl_6ae37544:
 
     # sy "At least he didn't name it Locate Fetish."
-    sy "至少他没有给它取名为"\探测性癖\"。"
+    sy "至少他没有给它取名为\"探测性癖\"。"
 
 # game/code/d21/d21s06.rpy:411
 translate chinese d21s06_reboot_fl_acaa56d1:
 
     # sy "Locate Fetish? Really???"
-    sy ""\探测性癖\"？真的吗???"
+    sy "\"探测性癖\"？真的吗???"
 
 # game/code/d21/d21s06.rpy:414
 translate chinese d21s06_reboot_fl_f4d2de8b:
@@ -2785,4 +2785,3 @@ translate chinese strings:
     # game/code/d21/d21s06.rpy:685
     old "No, I have to give it more thought."
     new "不，我得再考虑一下。"
-
