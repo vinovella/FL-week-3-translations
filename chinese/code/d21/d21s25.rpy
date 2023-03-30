@@ -34,7 +34,7 @@ translate chinese d21s25_c61d8a8d:
 translate chinese d21s25_7f99a1c4:
 
     # dd "Which reminds me! Congrats on getting your ending!"
-    dd "这倒提醒了我！恭喜你有个圆满的结局！"
+    dd "这倒提醒了我！恭喜你有个圆满结局！"
 
 # game/code/d21/d21s25.rpy:21
 translate chinese d21s25_bcfc0939:
@@ -52,7 +52,7 @@ translate chinese d21s25_b4efc4bd:
 translate chinese d21s25_03d68df6:
 
     # sy "Whaaat!? Girl, you absolutely gotta get it ASAP. It's the best ending!"
-    sy "不是吧!? 我跟你说，你一定要尽快去看。这是最好的结局！"
+    sy "不是吧!? 我跟你说，你一定要尽快去看。这个结局最好不过了！"
 
 # game/code/d21/d21s25.rpy:28
 translate chinese d21s25_c5944965:
@@ -76,7 +76,7 @@ translate chinese d21s25_870b1bcc:
 translate chinese d21s25_ba501109:
 
     # sy "But I'll say this, {i}you learn about some {b}very important{/b} things in it.{/i}"
-    sy "但我要说的是，{i}你会学到{b}非常重要{/b} 的东西。{/i}"
+    sy "但我要说的是，{i}你会学到{b}非常重要{/b}的东西。{/i}"
 
 # game/code/d21/d21s25.rpy:35
 translate chinese d21s25_0280824f:
@@ -118,7 +118,7 @@ translate chinese d21s25_a17db195:
 translate chinese d21s25_6daca271:
 
     # dd "Yeah, she is from Vinovella University!"
-    dd "对呀，她是Vinovella大学的！"
+    dd "对呀，她是维诺维拉大学的！"
 
 # game/code/d21/d21s25.rpy:77
 translate chinese d21s25_66e7bad8:
@@ -154,7 +154,7 @@ translate chinese d21s25_cea763ec:
 translate chinese d21s25_79db875b:
 
     # sm "Congrats on finally opening up the S&M Studio, by the way!"
-    sm "对了，恭喜你们，S&M工作室终于开张了！"
+    sm "对了，恭喜恭喜，S&M工作室终于开张了！"
 
 # game/code/d21/d21s25.rpy:88
 translate chinese d21s25_37ca87df:
@@ -190,7 +190,7 @@ translate chinese d21s25_2f4a8e5f:
 translate chinese d21s25_072d8a15:
 
     # sy "Not sure yet. Though the ViNovella team is already hard at work on it."
-    sy "还不确定。尽管ViNovella团队已经在努力工作了。"
+    sy "还不确定。尽管维诺团队已经在努力工作了。"
 
 # game/code/d21/d21s25.rpy:97
 translate chinese d21s25_f3f38b0e:
@@ -220,7 +220,7 @@ translate chinese d21s25_91f033d5:
 translate chinese d21s25_60fdd400:
 
     # dd "Well... I'm sure they won't be too mad if you share a {i}little{/i}."
-    dd "嗯...如果只分享{i}一点点{/i}.，我相信他们不会生气的。"
+    dd "嗯...如果只分享{i}一点点{/i}，我相信他们不会生气的。"
 
 # game/code/d21/d21s25.rpy:102
 translate chinese d21s25_bb36f67a:
@@ -280,13 +280,13 @@ translate chinese d21s25_352da388:
 translate chinese d21s25_73eb5eb5:
 
     # sy "I know! I can't wait to see what ViNovella has prepared for us next!"
-    sy "是吧！我迫不及待地想看ViNovella接下来为我们准备了什么！"
+    sy "是吧！我迫不及待地想看维诺维拉接下来为我们准备了什么！"
 
 # game/code/d21/d21s25.rpy:131
 translate chinese d21s25_e4b3c0d3:
 
     # dd "But what about Vinovella University though?"
-    dd "但是Vinovella大学呢？"
+    dd "但是维诺维拉大学呢？"
 
 # game/code/d21/d21s25.rpy:132
 translate chinese d21s25_cbe5ee17:
@@ -298,13 +298,13 @@ translate chinese d21s25_cbe5ee17:
 translate chinese d21s25_cf40d33d:
 
     # dd "Yeah! I love it! Nia's story is my favorite. That group of hers seem so spooky..."
-    dd "玩过！我很喜欢！妮娅的故事是我的最爱。她那群人看起来好吓人..."
+    dd "玩过！我很喜欢！我最喜欢妮娅的故事了。她那群人看起来好吓人..."
 
 # game/code/d21/d21s25.rpy:134
 translate chinese d21s25_dc1362cc:
 
     # zp "Hah! Yeah. I wish I could fuck up that Andre prick though."
-    zp "哈！是的。我真希望能搞死安德烈那个大屌。"
+    zp "哈！真是。我真希望能搞死安德烈那个大屌。"
 
 # game/code/d21/d21s25.rpy:136
 translate chinese d21s25_db88b20d:
@@ -352,7 +352,7 @@ translate chinese d21s25_470ffbdd:
 translate chinese d21s25_4041f0a9:
 
     # zp "Well, I heard from the grapevine that Vi is planning to finish Book-1 during 2024, but there isn't anything concrete yet."
-    zp "嗯，我听小道消息说，Vi计划在2024年完成第1册，但现在还没有具体消息。"
+    zp "嗯，我听小道消息说，维诺那个大神计划在2024年完成第1册，但现在还没有具体消息。"
 
 # game/code/d21/d21s25.rpy:149
 translate chinese d21s25_321e2b80:
@@ -448,7 +448,7 @@ translate chinese d21s25_cbfc591a:
 translate chinese d21s25_090df343:
 
     # jh "Well, I mean, yes. I would've loved to meet Lyssa... She's just really cool!"
-    jh "呃，我确实喜欢丽莎。我很想见见她...她真的很酷！"
+    jh "呃，我确实喜欢丽莎。好想见见她...她真的很酷！"
 
 # game/code/d21/d21s25.rpy:181
 translate chinese d21s25_8c2ec808:
@@ -466,7 +466,7 @@ translate chinese d21s25_1cafa86a:
 translate chinese d21s25_ce6e9610:
 
     # dd "{size=20}Josie had an old crush on him and that's now sparking up again, and Lara is very protective of Josie and not really trusting of the guy. But he's growing on her slowly.{/size}"
-    dd "{size=20}乔西以前对他有好感，现在又火花四射了，劳拉非常保护乔西，对这个家伙不太信任。  但他对她的好感正在慢慢加深。{/size}"
+    dd "{size=20}乔西以前对他有好感，现在又火花四射了，劳拉很保护乔西，对这个家伙不太信任。但他对她的好感正在慢慢加深。{/size}"
 
 # game/code/d21/d21s25.rpy:184
 translate chinese d21s25_861876bc:
@@ -574,5 +574,5 @@ translate chinese d21s25_054483a6:
 translate chinese d21s25_050e12e8:
 
     # dd "I'd like that very much."
-    dd "我非常乐意。"
+    dd "乐意之至。"
 
