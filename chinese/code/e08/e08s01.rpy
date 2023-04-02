@@ -16,19 +16,19 @@ translate chinese e08s01_686a1a72:
 translate chinese e08s01_022a1e3a:
 
     # arj "Aw. That's cute."
-    arj "噢~真可爱。"
+    arj "噢~ 真可爱。"
 
 # game/code/e08/e08s01.rpy:74
 translate chinese e08s01_5d145c03:
 
     # mc "Since there's no roses growing around here, this one I named after you."
-    mc "因为这附近没有玫瑰，所以我以你的名字命名了这朵花。"
+    mc "因为这附近没有玫瑰，所以我以你的名字给这朵花命名了。"
 
 # game/code/e08/e08s01.rpy:78
 translate chinese e08s01_49a753e9:
 
     # mc "I have an app on my phone that identifies the names of different flowers and stuff."
-    mc "我手机上有个应用程序，可以识别不同的花。"
+    mc "我手机上有个程序，可以识别不同的花。"
 
 # game/code/e08/e08s01.rpy:79
 translate chinese e08s01_a8a5e648:
@@ -70,7 +70,7 @@ translate chinese e08s01_e15a70a6:
 translate chinese e08s01_56471a62:
 
     # mc "Yeah. I'm not even making that up. In French, it's called a fleur-de-Lydia."
-    mc "对。不是我编的。在法语中，它被称为 "叫莉迪亚之花"。"
+    mc "对。不是我编的。在法语中，它被称为 "莉迪亚之花"。"
 
 # game/code/e08/e08s01.rpy:88
 translate chinese e08s01_9e281d9a:
@@ -160,7 +160,7 @@ translate chinese e08s01_43d9dcf2:
 translate chinese e08s01_8a497fa4:
 
     # mc "I meant health foods. Anything green."
-    mc "我是说健康食品。只要是绿色的都是这样。"
+    mc "我是说健康食品。只要是绿色的都这样。"
 
 # game/code/e08/e08s01.rpy:108
 translate chinese e08s01_ae0ca077:
@@ -232,7 +232,7 @@ translate chinese e08s01_52910354:
 translate chinese e08s01_efc1c52a:
 
     # mc "Basic chemistry."
-    mc "基础化学。"
+    mc "这是基础化学。"
 
 # game/code/e08/e08s01.rpy:123
 translate chinese e08s01_442bfd1f:
@@ -250,13 +250,13 @@ translate chinese e08s01_52ae2508:
 translate chinese e08s01_e5c1b983:
 
     # arj "I doubt it. How does a barn randomly explode?"
-    arj "我表示怀疑。谷仓怎么会随机爆炸呢？"
+    arj "我不相信。谷仓怎么会随机爆炸呢？"
 
 # game/code/e08/e08s01.rpy:127
 translate chinese e08s01_b2959411:
 
     # mc "I don't know, that's why it's random."
-    mc "我不知道，所以才叫它随机爆炸啊。"
+    mc "我不知道，所以才叫它--随机爆炸啊。"
 
 # game/code/e08/e08s01.rpy:129
 translate chinese e08s01_bbb798c9:
@@ -328,7 +328,7 @@ translate chinese e08s01_ffdf6ee4:
 translate chinese e08s01_acf23214:
 
     # arj "*Whispers* Plus I don't think you're a dummy. I picked you after all, didn't I?"
-    arj "*低语* 另外，我不认为你是个笨蛋。我毕竟选了你，不是吗？"
+    arj "*低语* 再说，我不认为你是个笨蛋。我毕竟选了你，不是吗？"
 
 # game/code/e08/e08s01.rpy:145
 translate chinese e08s01_f39a644a:
@@ -502,7 +502,7 @@ translate chinese e08s01_993780f9:
 translate chinese e08s01_88bb02ca:
 
     # ac "Maybe we can spend some time together."
-    ac "也许我们可以一起处处看。"
+    ac "也许我们可以处处看。"
 
 # game/code/e08/e08s01.rpy:194
 translate chinese e08s01_ac6cb51e:
@@ -778,7 +778,7 @@ translate chinese e08s01_ef858acc:
 translate chinese e08s01_98640f36:
 
     # arj "You ever stop and wonder about the things we have now?"
-    arj "你有没有停下来，想想我们现在拥有的东西？"
+    arj "你有没有停下来，想想我们现在拥有的一切？"
 
 # game/code/e08/e08s01.rpy:259
 translate chinese e08s01_6ff67542:
@@ -874,7 +874,7 @@ translate chinese e08s01_fd71de68:
 translate chinese e08s01_beebfcce:
 
     # arj "I thought you did that yesterday."
-    arj "我以为你昨天做了呢。"
+    arj "我以为你昨天清理了呢。"
 
 # game/code/e08/e08s01.rpy:285
 translate chinese e08s01_c045360b:
@@ -1150,7 +1150,7 @@ translate chinese e08s01_arj_back_9d5c99ca:
 translate chinese e08s01_arj_back_be3a126a:
 
     # mc "Ashley gave me this when you were talking with Frank. Said they were money tree seeds as a joke."
-    mc "你和弗兰克谈话时，艾希莉给了我这个。他开玩笑说是摇钱树的种子。"
+    mc "你和弗兰克谈话时，艾希莉给了我这个。她开玩笑说是摇钱树的种子。"
 
 # game/code/e08/e08s01.rpy:379
 translate chinese e08s01_arj_back_974da45d:
