@@ -70,7 +70,7 @@ translate chinese e08s01_e15a70a6:
 translate chinese e08s01_56471a62:
 
     # mc "Yeah. I'm not even making that up. In French, it's called a fleur-de-Lydia."
-    mc "对。不是我编的。在法语中，它被称为 "莉迪亚之花"。"
+    mc "对。不是我编的。在法语中，它被称为 \"莉迪亚之花\"。"
 
 # game/code/e08/e08s01.rpy:88
 translate chinese e08s01_9e281d9a:
@@ -1277,4 +1277,3 @@ translate chinese strings:
     # game/code/e08/e08s01.rpy:398
     old "After watching tv for some time"
     new "看了一段时间的电视后"
-

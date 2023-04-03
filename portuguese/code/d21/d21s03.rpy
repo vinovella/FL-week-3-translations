@@ -394,7 +394,7 @@ translate portuguese d21s03_1ffca4a0:
 translate portuguese d21s03_9acecc2e:
 
     # mc "Well... I'm not sure. There was this \"VIP Fetish Challenge Program\" thing."
-    mc "Bom... Não sei ao certo. Tinha essa parada de \"Programa VIP de Desafio de Fetiche".
+    mc "Bom... Não sei ao certo. Tinha essa parada de \"Programa VIP de Desafio de Fetiche."
 
 # game/code/d21/d21s03.rpy:136
 translate portuguese d21s03_d565ad6a:
@@ -685,4 +685,3 @@ translate portuguese strings:
     # game/code/d21/d21s03.rpy:129
     old "Don't mention it"
     new "Não mencionar"
-

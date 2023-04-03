@@ -1792,7 +1792,7 @@ translate portuguese d21s07_closing_93c29f66:
 translate portuguese d21s07_closing_b7849be1:
 
     # mc "Then what did you mean, \"No\"?"
-    mc "Então o que você quis dizer com \"Não"?"
+    mc "Então o que você quis dizer com \"Não\"?"
 
 # game/code/d21/d21s07.rpy:661
 translate portuguese d21s07_closing_bccceea6:
@@ -1963,4 +1963,3 @@ translate portuguese strings:
     # game/code/d21/d21s07.rpy:624
     old "Let Lydia Down"
     new "Rejeitar Lydia"
-
