@@ -4,523 +4,523 @@
 translate chinese e08s02_bc4608e2:
 
     # mc "What's the haul looking like?"
-    mc "What's the haul looking like?"
+    mc "东西看起来怎么样？"
 
 # game/code/e08/e08s02.rpy:68
 translate chinese e08s02_86515e76:
 
     # arj "Looking pretty good. There's a few cracked ones, and a few wet ones, but all in all, at least a dozen."
-    arj "Looking pretty good. There's a few cracked ones, and a few wet ones, but all in all, at least a dozen."
+    arj "不错。有几颗裂了的，有几颗湿了的，但总的来说，至少有十几颗。"
 
 # game/code/e08/e08s02.rpy:70
 translate chinese e08s02_742b44c0:
 
     # mc "A dozen? Wow, that's great."
-    mc "A dozen? Wow, that's great."
+    mc "有一打？太棒了。"
 
 # game/code/e08/e08s02.rpy:72
 translate chinese e08s02_d57241b9:
 
     # arj "Wish I can give the moms a treat. Like how we give Remy raw meat every once in a while."
-    arj "Wish I can give the moms a treat. Like how we give Remy raw meat every once in a while."
+    arj "要是能让鸡妈妈们吃顿好的就好了。就像我们每隔一段时间就给瑞美吃生肉一样。"
 
 # game/code/e08/e08s02.rpy:74
 translate chinese e08s02_fce6bb30:
 
     # mc "I'm glad chickens only eat feed. I don't want meat-eating chickens."
-    mc "I'm glad chickens only eat feed. I don't want meat-eating chickens."
+    mc "我很高兴鸡只吃饲料。我不想要吃肉的鸡。"
 
 # game/code/e08/e08s02.rpy:75
 translate chinese e08s02_cf51afe0:
 
     # mc "I wouldn't be able to sleep at night, because I'd be afraid of them coming in the house and eating me."
-    mc "I wouldn't be able to sleep at night, because I'd be afraid of them coming in the house and eating me."
+    mc "我晚上会睡不着觉，因为我害怕它们跑到房子里来吃我。"
 
 # game/code/e08/e08s02.rpy:76
 translate chinese e08s02_0d6f54b6:
 
     # arj "Yeah, you already have one person eating you, and that's enough."
-    arj "Yeah, you already have one person eating you, and that's enough."
+    arj "是啊，已经有一个人在吃你了，这就够了。"
 
 # game/code/e08/e08s02.rpy:77
 translate chinese e08s02_3bafe7f5:
 
     # mc "Get your mind out of the gutter!"
-    mc "Get your mind out of the gutter!"
+    mc "想点正经的!"
 
 # game/code/e08/e08s02.rpy:79
 translate chinese e08s02_97b2efbc:
 
     # arj "I can't. Especially not after that last session."
-    arj "I can't. Especially not after that last session."
+    arj "做不到啊。特别是在上次之后。"
 
 # game/code/e08/e08s02.rpy:81
 translate chinese e08s02_d9e41a2d:
 
     # mc "You're incorrigible."
-    mc "You're incorrigible."
+    mc "你无可救药了。"
 
 # game/code/e08/e08s02.rpy:82
 translate chinese e08s02_10b4fd90:
 
     # arj "I mean it, that was really good. I haven't felt this good in a while."
-    arj "I mean it, that was really good. I haven't felt this good in a while."
+    arj "我是认真的，上次真的很好。我已经很久没有感觉这么爽了。"
 
 # game/code/e08/e08s02.rpy:83
 translate chinese e08s02_fc02a2ca:
 
     # mc "What's changed?"
-    mc "What's changed?"
+    mc "有什么变化？"
 
 # game/code/e08/e08s02.rpy:84
 translate chinese e08s02_bc7d21b5:
 
     # arj "I'm not sure."
-    arj "I'm not sure."
+    arj "我不确定。"
 
 # game/code/e08/e08s02.rpy:86
 translate chinese e08s02_65260b06:
 
     # mc "Settle down, girl! The cows are already in here."
-    mc "Settle down, girl! The cows are already in here."
+    mc "嘿，安静点！牛已经在这里了。"
 
 # game/code/e08/e08s02.rpy:87
 translate chinese e08s02_c419e287:
 
     # arj "I think she's barking at something else."
-    arj "I think she's barking at something else."
+    arj "我想她是在叫别的东西。"
 
 # game/code/e08/e08s02.rpy:89
 translate chinese e08s02_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/e08/e08s02.rpy:90
 translate chinese e08s02_7f544e08:
 
     # arj "Probably at that storm approaching."
-    arj "Probably at that storm approaching."
+    arj "可能是预感了暴风雨的来临。"
 
 # game/code/e08/e08s02.rpy:91
 translate chinese e08s02_a39b627f:
 
     # mc "Right, then."
-    mc "Right, then."
+    mc "好吧。"
 
 # game/code/e08/e08s02.rpy:92
 translate chinese e08s02_d317b47f:
 
     # mc "Let's finish up cleaning the barn, and get all the animals inside, so we can start boarding up the windows."
-    mc "Let's finish up cleaning the barn, and get all the animals inside, so we can start boarding up the windows."
+    mc "咱们把谷仓打扫干净，把所有动物都弄进去，这样就可以开始用木板封窗户了。"
 
 # game/code/e08/e08s02.rpy:93
 translate chinese e08s02_8e1b3ec2:
 
     # mc "Do we know when it's going to hit?"
-    mc "Do we know when it's going to hit?"
+    mc "暴风雨什么时候会来？"
 
 # game/code/e08/e08s02.rpy:95
 translate chinese e08s02_45b299a7:
 
     # arj "Tomorrow, I think."
-    arj "Tomorrow, I think."
+    arj "我觉得明天吧。"
 
 # game/code/e08/e08s02.rpy:97
 translate chinese e08s02_3db30863:
 
     # mc "Seriously? That quick?"
-    mc "Seriously? That quick?"
+    mc "真的吗？这么快？"
 
 # game/code/e08/e08s02.rpy:98
 translate chinese e08s02_676bbd3b:
 
     # mc "That's one downside of living out here. In the city, I had never seen a tornado or a hurricane."
-    mc "That's one downside of living out here. In the city, I had never seen a tornado or a hurricane."
+    mc "这就是住在这里的一个缺点。在城市里，我从未见过龙卷风或飓风。"
 
 # game/code/e08/e08s02.rpy:99
 translate chinese e08s02_4d52a5fd:
 
     # arj "I just hope it's not too bad."
-    arj "I just hope it's not too bad."
+    arj "只希望情况不要太糟。"
 
 # game/code/e08/e08s02.rpy:101
 translate chinese e08s02_060e40ef:
 
     # mc "I should call the neighbors and let them know."
-    mc "I should call the neighbors and let them know."
+    mc "我应该打电话给邻居，也跟他们说一下。"
 
 # game/code/e08/e08s02.rpy:103
 translate chinese e08s02_b67cc297:
 
     # arj "Well, I think they do know, that's why they came over. They're preparing for the storm too."
-    arj "Well, I think they do know, that's why they came over. They're preparing for the storm too."
+    arj "我想他们是知道的，所以之前才过来。他们也在为风暴做准备。"
 
 # game/code/e08/e08s02.rpy:104
 translate chinese e08s02_b8de06d3:
 
     # mc "Oh."
-    mc "Oh."
+    mc "哦。"
 
 # game/code/e08/e08s02.rpy:105
 translate chinese e08s02_a7c62671:
 
     # arj "Yeah."
-    arj "Yeah."
+    arj "是吧。"
 
 # game/code/e08/e08s02.rpy:107
 translate chinese e08s02_f3ad781a:
 
     # mc "Then what was that thing about the game? And cheese curds?"
-    mc "Then what was that thing about the game? And cheese curds?"
+    mc "那游戏是怎么回事？还有干酪凝块？"
 
 # game/code/e08/e08s02.rpy:109
 translate chinese e08s02_269f28f6:
 
     # arj "I assume they don't think it'd be that bad."
-    arj "I assume they don't think it'd be that bad."
+    arj "我猜他们认为情况不会那么糟。"
 
 # game/code/e08/e08s02.rpy:111
 translate chinese e08s02_0b2d0da4:
 
     # mc "Well, they would know, they've been here a lot longer than we have."
-    mc "Well, they would know, they've been here a lot longer than we have."
+    mc "嗯，可能吧，他们在这里的时间比我们长得多。"
 
 # game/code/e08/e08s02.rpy:112
 translate chinese e08s02_a5713ad3:
 
     # mc "Let's hope they're right."
-    mc "Let's hope they're right."
+    mc "希望他们是对的。"
 
 # game/code/e08/e08s02.rpy:113
 translate chinese e08s02_07f329cc:
 
     # mc "I really need to check the weather forecast every now and again."
-    mc "I really need to check the weather forecast every now and again."
+    mc "我时不时就要看一下天气预报。"
 
 # game/code/e08/e08s02.rpy:114
 translate chinese e08s02_5b1957aa:
 
     # arj "When's the last time you used your phone?"
-    arj "When's the last time you used your phone?"
+    arj "你最后一次使用手机是什么时候？"
 
 # game/code/e08/e08s02.rpy:116
 translate chinese e08s02_52f197e7:
 
     # mc "Honestly, not that much."
-    mc "Honestly, not that much."
+    mc "老实说，没多久。"
 
 # game/code/e08/e08s02.rpy:117
 translate chinese e08s02_62a957a5:
 
     # mc "I get texts from Stacy every now and again."
-    mc "I get texts from Stacy every now and again."
+    mc "我时不时会收到史黛西的短信。"
 
 # game/code/e08/e08s02.rpy:119
 translate chinese e08s02_9e365426:
 
     # arj "Really? What's she up to now?"
-    arj "Really? What's she up to now?"
+    arj "真的啊？她现在做什么呢？"
 
 # game/code/e08/e08s02.rpy:121
 translate chinese e08s02_063d1a03:
 
     # mc "She's on vacation in Japan. She sent me some photos of her on Fuji-san."
-    mc "She's on vacation in Japan. She sent me some photos of her on Fuji-san."
+    mc "在日本度假。她给我发了几张在富士山的照片。"
 
 # game/code/e08/e08s02.rpy:122
 translate chinese e08s02_a1326573:
 
     # mc "Apparently it's quite dirty there."
-    mc "Apparently it's quite dirty there."
+    mc "显然那里很脏。"
 
 # game/code/e08/e08s02.rpy:123
 translate chinese e08s02_38b22955:
 
     # mc "But other than that, not much. I mean, I get it. Everyone's pretty busy and all. It is a bit isolating though, isn't it?"
-    mc "But other than that, not much. I mean, I get it. Everyone's pretty busy and all. It is a bit isolating though, isn't it?"
+    mc "但除此之外，也没什么。我是说，我明白。每个人都很忙。但这有点孤立了，不是吗？"
 
 # game/code/e08/e08s02.rpy:124
 translate chinese e08s02_b89309aa:
 
     # mc "Being away from other people."
-    mc "Being away from other people."
+    mc "远离其他人。"
 
 # game/code/e08/e08s02.rpy:126
 translate chinese e08s02_4da58625:
 
     # arj "Well, people are always a phone call away. Or a walk. Not like we live in the desert."
-    arj "Well, people are always a phone call away. Or a walk. Not like we live in the desert."
+    arj "他们总是一个电话就能搞定，或者走两步就能联系。不像我们住在沙漠里。"
 
 # game/code/e08/e08s02.rpy:127
 translate chinese e08s02_cc07ae0a:
 
     # mc "I haven't really gotten a chance to talk to others now that I think about it."
-    mc "I haven't really gotten a chance to talk to others now that I think about it."
+    mc "现在想想，我还没有机会和别人谈谈呢。"
 
 # game/code/e08/e08s02.rpy:128
 translate chinese e08s02_8e788348:
 
     # arj "Shame there's no coffee shop or anything to talk to people around here. There is a library around here, though it's pretty empty most of the time."
-    arj "Shame there's no coffee shop or anything to talk to people around here. There is a library around here, though it's pretty empty most of the time."
+    arj "可惜这里没有咖啡店，也没有任何可以和人聊天的地方。这附近有个图书馆，不过大部分时间都是空的。"
 
 # game/code/e08/e08s02.rpy:130
 translate chinese e08s02_aacbae05:
 
     # mc "I mean, that's not such a bad thing, right?"
-    mc "I mean, that's not such a bad thing, right?"
+    mc "我在想，这并不是一件坏事，对吧？"
 
 # game/code/e08/e08s02.rpy:131
 translate chinese e08s02_9654c5dc:
 
     # arj "You mean silence?"
-    arj "You mean silence?"
+    arj "你是说安静？"
 
 # game/code/e08/e08s02.rpy:132
 translate chinese e08s02_e334e13f:
 
     # mc "Something like that."
-    mc "Something like that."
+    mc "差不多吧。"
 
 # game/code/e08/e08s02.rpy:134
 translate chinese e08s02_57bec497:
 
     # arj "Silence is good, yeah."
-    arj "Silence is good, yeah."
+    arj "嗯，安静是好事。"
 
 # game/code/e08/e08s02.rpy:135
 translate chinese e08s02_f4e85547:
 
     # arj "I find it better to talk to others too though."
-    arj "I find it better to talk to others too though."
+    arj "不过，我发现和别人交谈更好。"
 
 # game/code/e08/e08s02.rpy:136
 translate chinese e08s02_10a3781b:
 
     # mc "That's one thing I liked about being in college. Just being in proximity with other people, you know? I could walk outside my room and find other people to talk to. And everyone always wanted something."
-    mc "That's one thing I liked about being in college. Just being in proximity with other people, you know? I could walk outside my room and find other people to talk to. And everyone always wanted something."
+    mc "这是我喜欢上大学的原因之一。和其他人在一起，你懂吧？我可以走出房间去找别人聊天。每个人都想有所得。"
 
 # game/code/e08/e08s02.rpy:137
 translate chinese e08s02_1fe77c46:
 
     # mc "And now, it's pretty quiet."
-    mc "And now, it's pretty quiet."
+    mc "而现在，这里非常安静。"
 
 # game/code/e08/e08s02.rpy:141
 translate chinese e08s02_cd8a5d2c:
 
     # arj "You know, I was reading a biography of a band that I like, and in it, the author described how bands on average stay together for about seven to eight years."
-    arj "You know, I was reading a biography of a band that I like, and in it, the author described how bands on average stay together for about seven to eight years."
+    arj "你知道，我在读一本我喜欢的乐队的传记，作者在里面描述了乐队平均在一起的时间，大约是七到八年。"
 
 # game/code/e08/e08s02.rpy:142
 translate chinese e08s02_57cd78d4:
 
     # arj "That coincides with the average time when a marriage falls apart."
-    arj "That coincides with the average time when a marriage falls apart."
+    arj "这和婚姻破裂的平均时间相一致。"
 
 # game/code/e08/e08s02.rpy:143
 translate chinese e08s02_5e4f424a:
 
     # arj "Isn't that a big shame?"
-    arj "Isn't that a big shame?"
+    arj "是不是很遗憾？"
 
 # game/code/e08/e08s02.rpy:144
 translate chinese e08s02_a16db31d:
 
     # mc "It is."
-    mc "It is."
+    mc "确实。"
 
 # game/code/e08/e08s02.rpy:146
 translate chinese e08s02_b3d48372:
 
     # arj "I mean being together for that long, just to grow to hate each other, I mean, that's a tragedy."
-    arj "I mean being together for that long, just to grow to hate each other, I mean, that's a tragedy."
+    arj "在一起那么久，就会变得彼此讨厌，真是个悲剧。"
 
 # game/code/e08/e08s02.rpy:147
 translate chinese e08s02_d13bf679:
 
     # arj "I don't want anything like that to happen to us, you know."
-    arj "I don't want anything like that to happen to us, you know."
+    arj "你知道，我不希望这样的事发生在我们身上。"
 
 # game/code/e08/e08s02.rpy:148
 translate chinese e08s02_45de1ca3:
 
     # mc "Why would that happen?"
-    mc "Why would that happen?"
+    mc "我们怎么会这样呢？"
 
 # game/code/e08/e08s02.rpy:150
 translate chinese e08s02_aecca327:
 
     # arj "I'm not saying it will."
-    arj "I'm not saying it will."
+    arj "我没说一定会发生。"
 
 # game/code/e08/e08s02.rpy:151
 translate chinese e08s02_bab16cbb:
 
     # arj "I'm just wondering if we can beat the odds."
-    arj "I'm just wondering if we can beat the odds."
+    arj "我只是想知道，我们是否能战胜这种困难。"
 
 # game/code/e08/e08s02.rpy:153
 translate chinese e08s02_40a9c3a8:
 
     # mc "Well, I'm happy now, and you're happy now, and isn't that what matters? We can worry about the future but it won't help anything."
-    mc "Well, I'm happy now, and you're happy now, and isn't that what matters? We can worry about the future but it won't help anything."
+    mc "嗯，我现在很快乐，你现在也很快乐，这不是最重要的吗？我们可以担心未来，但这无济于事。"
 
 # game/code/e08/e08s02.rpy:154
 translate chinese e08s02_9e3a8b68:
 
     # mc "We just have to worry about getting through this day."
-    mc "We just have to worry about getting through this day."
+    mc "我们只需要担心如何度过今天。"
 
 # game/code/e08/e08s02.rpy:156
 translate chinese e08s02_ef858acc:
 
     # arj "You're right."
-    arj "You're right."
+    arj "你说得对。"
 
 # game/code/e08/e08s02.rpy:157
 translate chinese e08s02_0214499b:
 
     # arj "I don't know what fell over me. I guess I'm feeling a little bit worried about the storm, and all. Sorry."
-    arj "I don't know what fell over me. I guess I'm feeling a little bit worried about the storm, and all. Sorry."
+    arj "我不知道是什么东西砸到我身上了。我怕是有点担心这场风暴。对不起。"
 
 # game/code/e08/e08s02.rpy:159
 translate chinese e08s02_de9794b7:
 
     # mc "Nothing to feel sorry for. Let's clean the nests and then start boarding up the barn, and then we'll take a nice, long bath together, how's that sound?"
-    mc "Nothing to feel sorry for. Let's clean the nests and then start boarding up the barn, and then we'll take a nice, long bath together, how's that sound?"
+    mc "没什么可抱歉的。我们先把鸟窝打扫干净，然后用木板把谷仓封起来，再一起好好洗个澡，怎么样？"
 
 # game/code/e08/e08s02.rpy:160
 translate chinese e08s02_c7076d0b:
 
     # arj "That sounds good."
-    arj "That sounds good."
+    arj "听起来不错。"
 
 # game/code/e08/e08s02.rpy:161
 translate chinese e08s02_aefbe0e6:
 
     # arj "But before that, I want to say something."
-    arj "But before that, I want to say something."
+    arj "但在那之前，我想说几句话。"
 
 # game/code/e08/e08s02.rpy:162
 translate chinese e08s02_def0ad19:
 
     # mc "What is it?"
-    mc "What is it?"
+    mc "怎么？"
 
 # game/code/e08/e08s02.rpy:164
 translate chinese e08s02_76edcfcf:
 
     # arj "Well, you know, I don't want this marriage to fall into a routine."
-    arj "Well, you know, I don't want this marriage to fall into a routine."
+    arj "嗯，你知道，我不希望这段婚姻陷入常规。"
 
 # game/code/e08/e08s02.rpy:165
 translate chinese e08s02_23fbf480:
 
     # arj "And I don't want to lie to you either."
-    arj "And I don't want to lie to you either."
+    arj "我也不想对你撒谎。"
 
 # game/code/e08/e08s02.rpy:166
 translate chinese e08s02_36d3de2d:
 
     # arj "There was something I wanted to do for a long time, but I haven't felt ready to say it."
-    arj "There was something I wanted to do for a long time, but I haven't felt ready to say it."
+    arj "有件事我想做很久了，但一直没准备好说出来。"
 
 # game/code/e08/e08s02.rpy:168
 translate chinese e08s02_5578bffd:
 
     # mc "You know you can tell me anything. Is there something wrong?"
-    mc "You know you can tell me anything. Is there something wrong?"
+    mc "你什么都可以告诉我。出什么事了吗？"
 
 # game/code/e08/e08s02.rpy:170
 translate chinese e08s02_1c596998:
 
     # arj "No, it's nothing serious like that."
-    arj "No, it's nothing serious like that."
+    arj "不，没那么严重。"
 
 # game/code/e08/e08s02.rpy:171
 translate chinese e08s02_b7e29af4:
 
     # arj "But I don't want you to think lower of me."
-    arj "But I don't want you to think lower of me."
+    arj "但我不想让你看低我。"
 
 # game/code/e08/e08s02.rpy:173
 translate chinese e08s02_5e0a4184:
 
     # mc "Lower of you?"
-    mc "Lower of you?"
+    mc "看低你？"
 
 # game/code/e08/e08s02.rpy:174
 translate chinese e08s02_a013e959:
 
     # mc "AmRose, you know how much I love you, right? You have nothing to be ashamed about, whatever you want to tell me, say it."
-    mc "AmRose, you know how much I love you, right? You have nothing to be ashamed about, whatever you want to tell me, say it."
+    mc "爱洛丝，你知道我有多爱你吧？没有什么好羞愧的，不管你想对我说什么，说出来。"
 
 # game/code/e08/e08s02.rpy:176
 translate chinese e08s02_f7d709cd:
 
     # arj "Okay, well..."
-    arj "Okay, well..."
+    arj "好吧，嗯..."
 
 # game/code/e08/e08s02.rpy:177
 translate chinese e08s02_f0966344:
 
     # arj "It's about our sex life."
-    arj "It's about our sex life."
+    arj "是关于我们的性生活的。"
 
 # game/code/e08/e08s02.rpy:178
 translate chinese e08s02_6651ab87:
 
     # mc "Alright."
-    mc "Alright."
+    mc "明白。"
 
 # game/code/e08/e08s02.rpy:180
 translate chinese e08s02_73686ede:
 
     # arj "I want to try something. Something new."
-    arj "I want to try something. Something new."
+    arj "我想试试。一些新东西。"
 
 # game/code/e08/e08s02.rpy:181
 translate chinese e08s02_4e06e94c:
 
     # mc "Is it Frank? Ashley?"
-    mc "Is it Frank? Ashley?"
+    mc "是弗兰克吗？还是艾希莉？"
 
 # game/code/e08/e08s02.rpy:182
 translate chinese e08s02_e1715634:
 
     # arj "No, not really."
-    arj "No, not really."
+    arj "不，不是的。"
 
 # game/code/e08/e08s02.rpy:184
 translate chinese e08s02_d6bf403a:
 
     # mc "I swear you liked them."
-    mc "I swear you liked them."
+    mc "我敢说，你喜欢他们。"
 
 # game/code/e08/e08s02.rpy:186
 translate chinese e08s02_aa854945:
 
     # arj "I do, but right now, I'm just talking about us two."
-    arj "I do, but right now, I'm just talking about us two."
+    arj "是的，但现在，我只是在说我们两个。"
 
 # game/code/e08/e08s02.rpy:187
 translate chinese e08s02_4ae759af:
 
     # mc "Can you give me a hint about what you want to talk about?"
-    mc "Can you give me a hint about what you want to talk about?"
+    mc "关于谈话内容，你能给我一个提示吗？"
 
 # game/code/e08/e08s02.rpy:188
 translate chinese e08s02_ec39b12f:
 
     # arj "Well... it involves what I alluded to..."
-    arj "Well... it involves what I alluded to..."
+    arj "嗯...涉及到我刚才提到的..."
 
 # game/code/e08/e08s02.rpy:190
 translate chinese e08s02_27126c08:
 
     # mct "I know she gave me hints about it..."
-    mct "I know she gave me hints about it..."
+    mct "我知道她给过我暗示..."
 
 # game/code/e08/e08s02.rpy:191
 translate chinese e08s02_cc8294db:
