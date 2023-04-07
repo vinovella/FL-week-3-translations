@@ -442,7 +442,7 @@ translate portuguese d15s06_house_951bcf9d:
 translate portuguese d15s06_house_3ac1d854:
 
     # mc "Nooo, thank you. I appreciate the thought, but I don't want anything of the sort going near me."
-    mc "Nããão, obrigado. Aprecio o gesto,m as não quero nada disso perto de mim."
+    mc "Nããão, obrigado. Aprecio o gesto, mas não quero nada disso perto de mim."
 
 # game/code/d15/d15s06.rpy:373
 translate portuguese d15s06_house_7a579ccf:
