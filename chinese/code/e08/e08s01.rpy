@@ -832,13 +832,13 @@ translate chinese e08s01_6a31178d:
 translate chinese e08s01_1e1cca5b:
 
     # arj "A bit. We should feed our girl too."
-    arj "有一点。我们也该喂饱女儿呢。"
+    arj "有一点。我们也该喂饱小家伙呢。"
 
 # game/code/e08/e08s01.rpy:273
 translate chinese e08s01_4efa488c:
 
     # arj "Remy's still sleeping."
-    arj "瑞美还在睡觉。"
+    arj "雷米还在睡觉。"
 
 # game/code/e08/e08s01.rpy:277
 translate chinese e08s01_c82ccabf:
