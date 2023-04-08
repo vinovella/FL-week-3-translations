@@ -1186,7 +1186,7 @@ translate chinese e08s02_scat_90354454:
 translate chinese e08s02_scat_2f715c5d:
 
     # arj "Not making a choice is a choice like any other. I didn't respond. I couldn't respond. I remember getting the message and sitting there in my chair."
-    arj "不做选择也是一种选择。我没回应。也无法回应。我记得收到短信后，就那样呆坐在椅子上。
+    arj "不做选择也是一种选择。我没回应。也无法回应。我记得收到短信后，就那样呆坐在椅子上。"
 
 # game/code/e08/e08s02.rpy:362
 translate chinese e08s02_scat_c425b006:
