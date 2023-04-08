@@ -10,7 +10,7 @@ translate chinese e08s02_bc4608e2:
 translate chinese e08s02_86515e76:
 
     # arj "Looking pretty good. There's a few cracked ones, and a few wet ones, but all in all, at least a dozen."
-    arj "不错。有几颗裂了的，有几颗湿了的，但总的来说，至少有十几颗。"
+    arj "不错。有几颗裂了，有几颗湿了，但总的来说，至少有十几颗。"
 
 # game/code/e08/e08s02.rpy:70
 translate chinese e08s02_742b44c0:
@@ -202,7 +202,7 @@ translate chinese e08s02_07f329cc:
 translate chinese e08s02_5b1957aa:
 
     # arj "When's the last time you used your phone?"
-    arj "你最后一次使用手机是什么时候？"
+    arj "你最后一次用手机是什么时候？"
 
 # game/code/e08/e08s02.rpy:116
 translate chinese e08s02_52f197e7:
@@ -238,7 +238,7 @@ translate chinese e08s02_a1326573:
 translate chinese e08s02_38b22955:
 
     # mc "But other than that, not much. I mean, I get it. Everyone's pretty busy and all. It is a bit isolating though, isn't it?"
-    mc "但除此之外，也没什么。我是说，我明白。每个人都很忙。但这有点孤立了，不是吗？"
+    mc "但除此之外，也没什么。我是说，我明白。每个人都很忙。但这样有点封闭了，不是吗？"
 
 # game/code/e08/e08s02.rpy:124
 translate chinese e08s02_b89309aa:
@@ -382,7 +382,7 @@ translate chinese e08s02_ef858acc:
 translate chinese e08s02_0214499b:
 
     # arj "I don't know what fell over me. I guess I'm feeling a little bit worried about the storm, and all. Sorry."
-    arj "我不知道是什么东西砸到我身上了。我怕是有点担心这场风暴。对不起。"
+    arj "不知道是什么东西砸到我身上了。我怕是有点担心这场风暴。对不起。"
 
 # game/code/e08/e08s02.rpy:159
 translate chinese e08s02_de9794b7:
@@ -676,7 +676,7 @@ translate chinese e08s02_f15f0de7:
 translate chinese e08s02_scat_70550dc0:
 
     # arj "Remember when we invented a new fetish once? Spinning in the chair?"
-    arj "还记得我们曾经发明了一种新的性癖吗？在椅子上旋转？"
+    arj "还记得我们曾经发明了一种新的性癖吗？在椅子上旋转那个？"
 
 # game/code/e08/e08s02.rpy:244
 translate chinese e08s02_scat_d5c941d6:
@@ -928,13 +928,13 @@ translate chinese e08s02_scat_7ea69251:
 translate chinese e08s02_scat_b3a5625f:
 
     # arj "Sorta like a primitive version of FFLI."
-    arj "有点像原始版本的FFLI。"
+    arj "有点像原始版本的性趣探测器追踪器。"
 
 # game/code/e08/e08s02.rpy:301
 translate chinese e08s02_scat_943aa007:
 
     # mc "FFLI?"
-    mc "FFLI?"
+    mc "性趣探测器追踪器?"
 
 # game/code/e08/e08s02.rpy:303
 translate chinese e08s02_scat_c1624746:
@@ -1756,13 +1756,13 @@ translate chinese e08s02_scat_f508036d:
 translate chinese e08s02_scat_a6d608d2:
 
     # arj "Yeah, but what about Remy, and the cows, and the chickens?..."
-    arj "是啊，但是瑞美怎么办，还有牛，还有鸡？..."
+    arj "是啊，但是雷米怎么办，还有牛，还有鸡？..."
 
 # game/code/e08/e08s02.rpy:498
 translate chinese e08s02_scat_f740019b:
 
     # mc "Alright, I'll take Remy inside the house, and let the animals roam outside for a bit while we finish up business in here."
-    mc "好吧，我带瑞美进屋，让动物们在外面闲逛一会儿，咱们在这儿把事办完。"
+    mc "好吧，我带雷米进屋，让动物们在外面闲逛一会儿，咱们在这儿把事办完。"
 
 # game/code/e08/e08s02.rpy:500
 translate chinese e08s02_scat_56a35b69:
@@ -1828,13 +1828,13 @@ translate chinese e08s02_scat_98bfe0ce:
 translate chinese e08s02_scat_9a06766c:
 
     # mc "It's funny, I was having a conversation with her, and when she saw what I was buying, she completely shut down. I think she assumed I was getting it for myself."
-    mc "有趣的是，我正和她说着话呢，她一看到我买的东西，就完全闭嘴了。她大概是以为我是给自己买的。"
+    mc "有趣的是，我正和她说着话呢，她一看到我买的东西，就完全闭嘴了。她大概以为我是给自己买的。"
 
 # game/code/e08/e08s02.rpy:525
 translate chinese e08s02_sex_48371324:
 
     # mc "Alright, take off your clothes. Let me get started."
-    mc "好了，脱掉衣服。让我开始吧。"
+    mc "好了，脱掉衣服。咱们开始吧。"
 
 # game/code/e08/e08s02.rpy:526
 translate chinese e08s02_sex_01a267b9:
