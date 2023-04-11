@@ -22,7 +22,7 @@ translate chinese e08s05_13476567:
 translate chinese e08s05_b3178871:
 
     # "Mayor" "We are here to honor the good work done by two new members of our community, who went above and beyond in their charitable mission."
-    "镇长" "我们在这里向社区的两位新成员所做的出色工作表示敬意，他们在慈善使命方面做得非常好。"
+    "镇长" "我们在这里向社区的两位新成员所做的出色工作表示敬意，他们在慈善使命方面做得相当出色。"
 
 # game/code/e08/e08s05.rpy:113
 translate chinese e08s05_ebf0dccb:
@@ -46,7 +46,7 @@ translate chinese e08s05_fd01d28b:
 translate chinese e08s05_81f9ff76:
 
     # "Mayor" "I had recently read an article from our esteemed local newspaper press."
-    "镇长" "我最近从我们当地著名报纸上读到一篇文章。"
+    "镇长" "我最近从我们当地著名的报纸上读到一篇文章。"
 
 # game/code/e08/e08s05.rpy:120
 translate chinese e08s05_c51dd140:
@@ -70,7 +70,7 @@ translate chinese e08s05_7e1df331:
 translate chinese e08s05_882766d7:
 
     # "Mayor" "Where are they?"
-    "镇长" "他们在哪儿？"
+    "镇长" "这对夫妇在哪儿？"
 
 # game/code/e08/e08s05.rpy:128
 translate chinese e08s05_9584b5db:
@@ -136,7 +136,7 @@ translate chinese e08s05_e3e169eb:
 translate chinese e08s05_c9b74380:
 
     # mc "Did you notice that? He said two again."
-    mc "你注意到了吗？他又提到了两个人。"
+    mc "你注意到了吗？他还是说两个人。"
 
 # game/code/e08/e08s05.rpy:155
 translate chinese e08s05_98e54c9d:
@@ -148,19 +148,19 @@ translate chinese e08s05_98e54c9d:
 translate chinese e08s05_c2170cb1:
 
     # fc "What are you two whispering about in there? You better be talking about me."
-    fc "你们两个在里面嘀咕什么呢？最好是在说我。"
+    fc "你们两个在嘀咕什么呢？最好是在说我。"
 
 # game/code/e08/e08s05.rpy:159
 translate chinese e08s05_c87316e5:
 
     # mc "He keeps saying two."
-    mc "他一直说两个人。"
+    mc "他一直说是两个人。"
 
 # game/code/e08/e08s05.rpy:161
 translate chinese e08s05_54d009c4:
 
     # ac "Well, did you two have a child we didn't know about?"
-    ac "怎么，你俩是不是有个孩子，我们都不知道？"
+    ac "怎么，你俩难不成有个孩子，我们都不知道？"
 
 # game/code/e08/e08s05.rpy:163
 translate chinese e08s05_a63625ea:
@@ -220,7 +220,7 @@ translate chinese e08s05_9cd05e3a:
 translate chinese e08s05_8ebfdadf:
 
     # arj "[mcname], as well as Remy, our beautiful little dog, who is at home sleeping, as well as the Coopers, helped retrofit our barn into a help center."
-    arj "[mcname]，还有我们家漂亮的小狗Remy，它正在家里睡觉呢，还有库珀一家，帮助我们把谷仓改造成一个帮助中心。"
+    arj "[mcname]，还有我们家漂亮的小狗雷米，它正在家里睡觉呢，还有库珀一家，帮助我们把谷仓改造成一个救助中心。"
 
 # game/code/e08/e08s05.rpy:189
 translate chinese e08s05_bbeff351:
@@ -250,7 +250,7 @@ translate chinese e08s05_bffea011:
 translate chinese e08s05_1afd13b3:
 
     # mc "There's no way to top what AmRose has said. She's the intellectual of the two. Err, three of us. Remy is the unseen holy ghost."
-    mc "我不可能比爱洛丝说的更好了。她是我们两个人，呃，我们三个人中的参谋长。雷米是看不见的圣灵。"
+    mc "我的感言不可能比爱洛丝说的更好了。她是我们俩，呃，我们三个人中的参谋长。雷米是看不见的圣灵。"
 
 # game/code/e08/e08s05.rpy:203
 translate chinese e08s05_a438c23b:
@@ -298,13 +298,13 @@ translate chinese e08s05_10098b8c:
 translate chinese e08s05_383a56c3:
 
     # mc "In spite of their difficulty, they have aided tremendously to the building up of our barn. Without them, we simply could not have the tools nor knowledge to do anything."
-    mc "尽管困难重重，他们还是大力帮助我们建造谷仓。没有他们，我们根本不可能有工具以及知识来做任何事。"
+    mc "尽管困难重重，他们还是大力帮助我们建造谷仓。没有他们，我们根本不可能具备工具以及相应的知识，也不可能做出这样的成绩。"
 
 # game/code/e08/e08s05.rpy:218
 translate chinese e08s05_4f75a124:
 
     # mc "I also want to thank my wife, AmRose, for bringing me here. Without her, I could literally be anywhere and everywhere else all at once."
-    mc "我还要感谢我的妻子爱洛丝，是她带我来到这里。没有她,我可能会去任何地方。"
+    mc "我还要感谢我的妻子爱洛丝，是她带我来到这里。没有她，我可能在世界上任何一个角落四处游荡。"
 
 # game/code/e08/e08s05.rpy:220
 translate chinese e08s05_53c58bed:
@@ -316,13 +316,13 @@ translate chinese e08s05_53c58bed:
 translate chinese e08s05_f8ac19df:
 
     # mc "In a few hours, we're going to have a little get-together, a community gathering at our farm. We'd be glad if you showed up."
-    mc "几小时后，我们将在农场举行一个小型聚会，一个社区聚会。如果你能来，我们会很高兴。"
+    mc "几小时后，我们将在农场举行一个小型聚会，一个社区聚会。如果各位能来，我们会很高兴。"
 
 # game/code/e08/e08s05.rpy:230
 translate chinese e08s05_talk_64d59ee3:
 
     # ac "Congratulations, [mcname]. It was a wonderful speech, did you come up with that by yourself or did you have help?"
-    ac "恭喜你，[mcname]。你的演讲真精彩，你是自己想出来的还是有人帮你？"
+    ac "恭喜你，[mcname]。你的演讲真精彩，是你自己想出来的还是有人帮你？"
 
 # game/code/e08/e08s05.rpy:232
 translate chinese e08s05_talk_de7136da:
@@ -754,7 +754,7 @@ translate chinese e08s05_party_a3b3c69e:
 translate chinese e08s05_party_561bf062:
 
     # ac "Well, we lost everything, there's nothing for us here."
-    ac "嗯，我们失去了一切，这里什么都没有了。"
+    ac "哎，我们失去了一切，这里什么都没有了。"
 
 # game/code/e08/e08s05.rpy:393
 translate chinese e08s05_party_df9c8a01:
@@ -952,7 +952,7 @@ translate chinese e08s05_party_71228538:
 translate chinese e08s05_party_ddb30c9e:
 
     # mc "Not books?"
-    mc "不是书？"
+    mc "不是买书？"
 
 # game/code/e08/e08s05.rpy:455
 translate chinese e08s05_party_2bc4dd4b:
@@ -1006,7 +1006,7 @@ translate chinese e08s05_party_3c76dc96:
 translate chinese e08s05_party_21f92991:
 
     # mc "I'm very well acquainted, too, with matters administrative, I understand business both micro and macro-economical..."
-    mc "我也很熟悉行政事务，我既懂微观经济也懂宏观经济..."
+    mc "我也很熟悉行政事务，我既懂微观经济，也懂宏观经济..."
 
 # game/code/e08/e08s05.rpy:474
 translate chinese e08s05_party_55801468:
@@ -1060,7 +1060,7 @@ translate chinese e08s05_party_495c186b:
 translate chinese e08s05_party_a73334c6:
 
     # fc "Yeah... she's a genius even if she plays the fool. She's a widowmaker. Women really are the perfect creatures, aren't they?"
-    fc "对...即使她装傻，那也是个天才。她是个守寡人。女人真的是完美的生物，不是吗？"
+    fc "对...即使她装傻，那也是个天才。她是个守寡人。女人真是完美的生物，不是吗？"
 
 # game/code/e08/e08s05.rpy:488
 translate chinese e08s05_party_53dfa826:
@@ -1072,7 +1072,7 @@ translate chinese e08s05_party_53dfa826:
 translate chinese e08s05_party_26181221:
 
     # fc "Your wife is wonderful, how'd you manage to get with her?"
-    fc "你的妻子很好，你是怎么和她在一起的？"
+    fc "你妻子很好啊，你是怎么和她在一起的？"
 
 # game/code/e08/e08s05.rpy:492
 translate chinese e08s05_party_13db53e7:
