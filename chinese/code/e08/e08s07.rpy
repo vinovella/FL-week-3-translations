@@ -88,7 +88,7 @@ translate chinese e08s07_c045a129:
 translate chinese e08s07_06165f3e:
 
     # sy "Mmhmm.{w} And it's good to know I can still pull your leg even though you're a rooting tooting farmer now."
-    sy "嗯。{w}尽管你现在是个根深蒂固的农民，我还是很高兴知道可以开你的玩笑。"
+    sy "嗯。{w}尽管你现在是个根深蒂固的农民，我还是很高兴可以开你的玩笑。"
 
 # game/code/e08/e08s07.rpy:141
 translate chinese e08s07_7b4e06ad:
@@ -118,7 +118,7 @@ translate chinese e08s07_d96ecafb:
 translate chinese e08s07_473f6d41:
 
     # mc "Yup."
-    mc "是的。"
+    mc "没错。"
 
 # game/code/e08/e08s07.rpy:152
 translate chinese e08s07_04705616:
@@ -154,13 +154,13 @@ translate chinese e08s07_10617771:
 translate chinese e08s07_af505cb5:
 
     # sy "Before I left home, I actually pinned down his safehouse."
-    sy "在我离开家之前，我实际上已经把他的安全屋封住了。。"
+    sy "在我离开家之前，我其实已经把他的安全屋封住了。"
 
 # game/code/e08/e08s07.rpy:162
 translate chinese e08s07_033f265c:
 
     # sy "The SWAT team probably bagged and tagged him a few hours ago."
-    sy "特警小组可能几个小时前就把他装进袋子里，打上了标签。"
+    sy "特警小组可能几个小时前就把他抓住了，给他安了电子追终器。"
 
 # game/code/e08/e08s07.rpy:164
 translate chinese e08s07_d589767e:
@@ -172,13 +172,13 @@ translate chinese e08s07_d589767e:
 translate chinese e08s07_5ed25353:
 
     # sy "Not personally. I just managed to figure out he was using the same encryption when using burner phones as improvised explosives."
-    sy "不是物理意义上的打倒。我发现他在使用一次性手机作为简易炸弹时使用了相同的加密。"
+    sy "不是物理意义上的打倒。我发现他在使用一次性手机作为简易炸弹时，使用了相同的加密方式。"
 
 # game/code/e08/e08s07.rpy:168
 translate chinese e08s07_2c6ef9b0:
 
     # sy "I figured he'd test out the connections before doing a heist. All it took was me finding a location not at a bank and I knew I had him."
-    sy "我想他在抢劫之前会先测试一下连接。我只需要找到一个不是银行的地方，我就知道我抓到他了。"
+    sy "我想他在抢劫之前会先测试一下连接。我只需要找到一个不是银行的地方，我就知道抓到他了。"
 
 # game/code/e08/e08s07.rpy:170
 translate chinese e08s07_d19a8cca:
@@ -196,13 +196,13 @@ translate chinese e08s07_25fbe21c:
 translate chinese e08s07_26b5e680:
 
     # sy "Haha. It was nothing. Unlocking the mystery of Fetish Locator still takes the prize for best crime busting in my book."
-    sy "哈。这没什么。在我看来，解开恋物定位器之谜仍然可以获最佳破案奖。"
+    sy "哈。这没什么。在我看来，解开性趣探测器之谜仍然可以获最佳破案奖。"
 
 # game/code/e08/e08s07.rpy:175
 translate chinese e08s07_d71f3430:
 
     # sy "But enough shop talk. Why don't you show me around?"
-    sy "不谈工作了。你为什么不带我四处看看呢？"
+    sy "不谈这些了。你为什么不带我四处看看呢？"
 
 # game/code/e08/e08s07.rpy:196
 translate chinese e08s07_garden_42361b6c:
@@ -220,7 +220,7 @@ translate chinese e08s07_garden_b1e364a4:
 translate chinese e08s07_garden_d63f0872:
 
     # arj "Yup, well us plus the solid, seeds, sunlight and all the extra rain from the storm."
-    arj "嗯哼，我们俩人加上固体、种子、阳光和暴风雨带来的额外雨水。"
+    arj "嗯哼，我们俩人加上土壤、种子、阳光和暴风雨带来的额外雨水。"
 
 # game/code/e08/e08s07.rpy:204
 translate chinese e08s07_garden_334bef01:
@@ -238,13 +238,13 @@ translate chinese e08s07_garden_fd37c6e4:
 translate chinese e08s07_garden_2f5b4ff4:
 
     # sy "Honestly I still think you're crazy, but I can appreciate the stuff that drew you here."
-    sy "说实话，我还是觉得你很疯狂,但是我可以欣赏这里的东西吸引你。"
+    sy "说实话，我还是觉得你很疯狂，但是我很欣赏这里的东西吸引到你。"
 
 # game/code/e08/e08s07.rpy:209
 translate chinese e08s07_garden_8a48a5f2:
 
     # sy "The city can be so..."
-    sy "城市可以这么..."
+    sy "城市这么..."
 
 # game/code/e08/e08s07.rpy:211
 translate chinese e08s07_garden_d10a0b5a:
@@ -256,13 +256,13 @@ translate chinese e08s07_garden_d10a0b5a:
 translate chinese e08s07_garden_034d1529:
 
     # arj "Overwhelming."
-    arj "具有压垮性。"
+    arj "信息繁杂。"
 
 # game/code/e08/e08s07.rpy:215
 translate chinese e08s07_garden_5975a707:
 
     # sy "I was going to say tedious. But out here, it's just you and the world."
-    sy "我本来想说乏味。但在这里，只有人自己和这个世界。"
+    sy "我本来想说乏味。但这里不一样，只有人自己和这个世界。"
 
 # game/code/e08/e08s07.rpy:217
 translate chinese e08s07_garden_b10ee5be:
@@ -286,7 +286,7 @@ translate chinese e08s07_garden_1465c53e:
 translate chinese e08s07_garden_c6b2d983:
 
     # sy "You better believe it."
-    sy "你最好相信。"
+    sy "不能再赞同了。"
 
 # game/code/e08/e08s07.rpy:234
 translate chinese e08s07_night_b7daf91a:
@@ -370,7 +370,7 @@ translate chinese e08s07_continue_7f2899b1:
 translate chinese e08s07_continue_01d380e8:
 
     # mc "Join?"
-    mc "加入？"
+    mc "加入我们？"
 
 # game/code/e08/e08s07.rpy:281
 translate chinese e08s07_continue_bf141fc5:
@@ -400,7 +400,7 @@ translate chinese e08s07_continue_29e1c76d:
 translate chinese e08s07_continue_bcfc76bc:
 
     # arj "You're going to need all the help you can get, buster."
-    arj "你会需要我们的帮助，老兄。"
+    arj "老兄，你会需要我们的帮助的。"
 
 # game/code/e08/e08s07.rpy:291
 translate chinese e08s07_continue_40408da0:
@@ -472,7 +472,7 @@ translate chinese e08s07_arj_sy_73beb9a8:
 translate chinese e08s07_arj_sy_377badfe:
 
     # arj "Yes... oh fuck. Give it to me, [mcname]!"
-    arj "好...操啊。把它给我，[mcname]!"
+    arj "好...操啊。喂给我吧，[mcname]!"
 
 # game/code/e08/e08s07.rpy:353
 translate chinese e08s07_arj_sy_4e936d08:
@@ -484,7 +484,7 @@ translate chinese e08s07_arj_sy_4e936d08:
 translate chinese e08s07_arj_sy_a683c006:
 
     # arj "That's it. Oh fuck! Yesss!"
-    arj "就是这样。要被捅破了!——啊!"
+    arj "就是这样。要被捅破了--啊!"
 
 # game/code/e08/e08s07.rpy:383
 translate chinese e08s07_arj_sy_c023c36e:
@@ -514,7 +514,7 @@ translate chinese e08s07_arj_sy_006b7232:
 translate chinese e08s07_arj_sy_8edd7f9b:
 
     # arj "Fuck her, [mcname]."
-    arj "操她,[mcname]。"
+    arj "操她，[mcname]。"
 
 # game/code/e08/e08s07.rpy:397
 translate chinese e08s07_arj_sy_79f5c7fc:
@@ -532,7 +532,7 @@ translate chinese e08s07_arj_sy_cf70ab89:
 translate chinese e08s07_arj_sy_2eea6456:
 
     # sy "That's it. More! Oh I've fucking missed this!"
-    sy "就是这样。我还要！啊，我他妈真想念这个鸡巴！"
+    sy "就是这样。我还要！我他妈真想念这个鸡巴！"
 
 # game/code/e08/e08s07.rpy:406
 translate chinese e08s07_arj_sy_ae8148a1:
@@ -598,7 +598,7 @@ translate chinese e08s07_arj_sy_158be327:
 translate chinese e08s07_arj_sy_d1c7adfe:
 
     # arj "Go harder, [mcname]!"
-    arj "猛干她，[mcname]！"
+    arj "狠狠地干她，[mcname]！"
 
 # game/code/e08/e08s07.rpy:466
 translate chinese e08s07_arj_sy_2a41114d:
@@ -616,7 +616,7 @@ translate chinese e08s07_arj_sy_79fd956d:
 translate chinese e08s07_arj_sy_5024b9be:
 
     # sy "Please. I want it inside."
-    sy "求你。求你内射。"
+    sy "求你。求你内射！"
 
 # game/code/e08/e08s07.rpy:487
 translate chinese e08s07_arj_sy_03ff1f09:
@@ -748,7 +748,7 @@ translate chinese e08s07_arj_only_d7173310:
 translate chinese e08s07_arj_only_e0a30a13:
 
     # arj "Oh god. Yes... your hard dick... inside me... I'm losing control!"
-    arj "天哪。好舒服...你的硬鸡巴...在我里面...我要失控了！"
+    arj "天哪。好舒服...你的硬鸡巴...在我里面...我要忍不住了！"
 
 # game/code/e08/e08s07.rpy:606
 translate chinese e08s07_arj_only_65819d2b:
@@ -766,7 +766,7 @@ translate chinese e08s07_arj_only_c523a963:
 translate chinese e08s07_arj_only_a67d63ff:
 
     # arj "And she can't wait for you to knock her up all over again!"
-    arj "她已经等不及让你再把她肚子搞大！"
+    arj "她已经等不及让你把她的肚子二次搞大！"
 
 # game/code/e08/e08s07.rpy:611
 translate chinese e08s07_arj_only_4ee0ae6a:
@@ -784,7 +784,7 @@ translate chinese e08s07_arj_only_249ea65b:
 translate chinese e08s07_arj_only_3a8d6a70:
 
     # arj "Ahhhaaahh. Give me your best shot!"
-    arj "嗯...啊...。都给我吧！"
+    arj "嗯...啊...都给我！"
 
 # game/code/e08/e08s07.rpy:627
 translate chinese e08s07_arj_only_3da258c0:
@@ -802,7 +802,7 @@ translate chinese e08s07_arj_only_c550a5ab:
 translate chinese e08s07_arj_only_cea17a6d:
 
     # arj "*Breathless* Cum... give me the cum I love so much!"
-    arj "*喘不过气* 射吧...把我最爱的精液射给我吧！"
+    arj "*喘不过气* 射吧...把我最爱的精液射给我！"
 
 # game/code/e08/e08s07.rpy:637
 translate chinese e08s07_arj_only_efb8a03b:
@@ -880,7 +880,7 @@ translate chinese e08s07_next_day_e6a2b7ef:
 translate chinese e08s07_next_day_24563a93:
 
     # sy "So the squad needs their ace computer gal."
-    sy "所以小队需要他们的王牌电脑高手。"
+    sy "所以小队需要他们的王牌电脑高手赶紧回去。"
 
 # game/code/e08/e08s07.rpy:702
 translate chinese e08s07_next_day_6b9b725d:
@@ -922,7 +922,7 @@ translate chinese e08s07_next_day_7fb88f8f:
 translate chinese e08s07_next_day_49ab8ac6:
 
     # mc "Me too.{w} There is no place in the world I'd rather be."
-    mc "我也是。在这个世界上，我最愿意待的就是这里了。"
+    mc "我也是。{w}在这个世界上，我最愿意待的就是这里了。"
 
 translate chinese strings:
 
@@ -940,13 +940,13 @@ translate chinese strings:
 
     # game/code/e08/e08s07.rpy:370
     old "Cum on AmRose's face"
-    new "在爱洛丝的脸上射精"
+    new "在爱洛丝脸上射精"
 
     # game/code/e08/e08s07.rpy:640
     old "Cum inside your wife"
-    new "在你妻子体内射精"
+    new "在你老婆体内射精"
 
     # game/code/e08/e08s07.rpy:640
     old "Cum on your wife's face"
-    new "在你妻子的脸上射精"
+    new "在你老婆脸上射精"
 
