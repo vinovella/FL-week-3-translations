@@ -34,7 +34,7 @@ translate chinese e08s07_625167b0:
 translate chinese e08s07_005ae5fe:
 
     # sy "Haha. Am, you sound so formal. Bring it in."
-    sy "哈哈。你听起来太正式了。别客气了。
+    sy "哈哈。你听起来太正式了。别客气了。"
 
 # game/code/e08/e08s07.rpy:120
 translate chinese e08s07_2a6383ed:

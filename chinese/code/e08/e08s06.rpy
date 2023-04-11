@@ -370,7 +370,7 @@ translate chinese e08s06_home_alone_5f9eb387:
 translate chinese e08s06_home_alone_55de8145:
 
     # mc "I love you AmRose..."
-    mc "我爱你，爱洛丝...
+    mc "我爱你，爱洛丝..."
 
 # game/code/e08/e08s06.rpy:226
 translate chinese e08s06_home_alone_a208dbce:
