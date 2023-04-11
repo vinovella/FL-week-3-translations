@@ -10,7 +10,7 @@ translate chinese e08s06_ee0292ba:
 translate chinese e08s06_81a301ba:
 
     # fc "You got the hang of it."
-    fc "你已经掌握窍门了。"
+    fc "你已经掌握了窍门。"
 
 # game/code/e08/e08s06.rpy:69
 translate chinese e08s06_50cdf71b:
@@ -64,7 +64,7 @@ translate chinese e08s06_473f6d41:
 translate chinese e08s06_82d92223:
 
     # arj "You boys work too fast. I was just giving Ashley all my links for study guides for their college courses."
-    arj "你们这些家伙干得太快了。我刚把我所有的大学课程学习指南链接都给了艾希莉。"
+    arj "你们干得太快了。我刚把我所有的大学课程学习指南链接都给了艾希莉。"
 
 # game/code/e08/e08s06.rpy:88
 translate chinese e08s06_8ba6c6b8:
@@ -100,7 +100,7 @@ translate chinese e08s06_0ba247b3:
 translate chinese e08s06_e6c9aa82:
 
     # arj "I know you will. I can't believe you guys are heading out."
-    arj "我也这么觉得。真不敢相信你们要走了。"
+    arj "我对你们有信心。真不敢相信你们要走了。"
 
 # game/code/e08/e08s06.rpy:106
 translate chinese e08s06_bd3a07d4:
@@ -136,13 +136,13 @@ translate chinese e08s06_6bd11eec:
 translate chinese e08s06_1033e9d1:
 
     # arj "Of course not."
-    arj "哈哈，我人好着呢。"
+    arj "哈，我人好着呢。"
 
 # game/code/e08/e08s06.rpy:120
 translate chinese e08s06_b5c9d3c7:
 
     # fc "Once the new place is ready for guests, we'll have you over for dinner."
-    fc "一旦新地方准备好接待客人，我们就请你们来吃晚饭。"
+    fc "一旦新地方准备好接待客人，我们就请你们来吃饭。"
 
 # game/code/e08/e08s06.rpy:122
 translate chinese e08s06_005fc219:
@@ -154,7 +154,7 @@ translate chinese e08s06_005fc219:
 translate chinese e08s06_83aa299a:
 
     # mct "Haven't really seen her cooking abilities in action."
-    mct "还没有真正见识过她的烹饪能力。"
+    mct "还真没有见识过她的烹饪能力。"
 
 # game/code/e08/e08s06.rpy:125
 translate chinese e08s06_606e2d02:
@@ -190,7 +190,7 @@ translate chinese e08s06_home_alone_4661a639:
 translate chinese e08s06_home_alone_e8f5d7ed:
 
     # arj "Before this and the women's shelter, the biggest group I've been a part of was the party planning committee to help you out with your challenge."
-    arj "在发生这件事以及妇女收容所建立之前，我参加过的最大的团体是派对策划小组，帮助你应对软件挑战。"
+    arj "在发生这件事以及建立妇女收容所之前，我参加过的最大的团体是派对策划小组，为了帮助你应对软件挑战。"
 
 # game/code/e08/e08s06.rpy:155
 translate chinese e08s06_home_alone_16b64640:
@@ -226,7 +226,7 @@ translate chinese e08s06_home_alone_e16d15d6:
 translate chinese e08s06_home_alone_e1a16e3d:
 
     # mc "I'm excited. Feels like we really made it."
-    mc "我很兴奋。感觉我们真的做到了。"
+    mc "我好兴奋。感觉我们真的做到了。"
 
 # game/code/e08/e08s06.rpy:168
 translate chinese e08s06_home_alone_cb490129:
@@ -244,7 +244,7 @@ translate chinese e08s06_home_alone_013cc363:
 translate chinese e08s06_home_alone_57e358ce:
 
     # arj "You were stubborn as a mule some days."
-    arj "有些时候，你倔得像一头骡子。"
+    arj "有些时候，你倔得像头骡子。"
 
 # game/code/e08/e08s06.rpy:173
 translate chinese e08s06_home_alone_db0cdb10:
@@ -262,7 +262,7 @@ translate chinese e08s06_home_alone_ed52d7fd:
 translate chinese e08s06_home_alone_18e41d90:
 
     # arj "We've gotten invites to two barn-raisings, a christening and the open-mic night."
-    arj "我们收到了很多个活动邀请，两个谷仓聚会、一个洗礼仪式，还有一次开麦之夜。"
+    arj "我们收到了很多活动的邀请，两个谷仓聚会、一个洗礼仪式，还有一个开麦之夜。"
 
 # game/code/e08/e08s06.rpy:180
 translate chinese e08s06_home_alone_e3f2d36b:
@@ -274,7 +274,7 @@ translate chinese e08s06_home_alone_e3f2d36b:
 translate chinese e08s06_home_alone_23462a37:
 
     # arj "Yup. I guess they fix up the farm on Thursdays and turn it into something like the 'Chuckle Barn'."
-    arj "嗯哼。我猜他们会在星期四把农场修整一下，变成电视节目‘笑声谷仓’之类的地方。."
+    arj "嗯哼。我猜他们会在星期四把农场修整一下，变成电视节目'笑声谷仓'之类的地方。"
 
 # game/code/e08/e08s06.rpy:184
 translate chinese e08s06_home_alone_b85746b1:
@@ -322,7 +322,7 @@ translate chinese e08s06_home_alone_560f4725:
 translate chinese e08s06_home_alone_d6cb8c8c:
 
     # arj "I played my role, but it was only because you gave me the strength to do it, [mcname]."
-    arj "我扮演了我的角色，但这只是因为你给了我力量，[mcname]。"
+    arj "我有起点作用，但这只是因为你给了我力量，[mcname]。"
 
 # game/code/e08/e08s06.rpy:210
 translate chinese e08s06_home_alone_9160c957:
@@ -556,13 +556,13 @@ translate chinese e08s06_sex_5e0a434a:
 translate chinese e08s06_sex_cce621b4:
 
     # arj "Haha. Just don't forget your other chores."
-    arj "哈哈。别忘了你的其他家务。"
+    arj "哈哈。别忘了你其他的家务。"
 
 # game/code/e08/e08s06.rpy:358
 translate chinese e08s06_montage_cc58ca4e:
 
     # arj "Yes. Oh god. Knock me up!"
-    arj "嗯哼。嗯...把我肚子搞大！"
+    arj "嗯哼。啊...把我肚子搞大！"
 
 # game/code/e08/e08s06.rpy:374
 translate chinese e08s06_montage_3dd32731:
