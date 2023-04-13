@@ -616,7 +616,7 @@ translate chinese e01s01_choice_done_e701b72f:
 translate chinese e01s01_choice_done_ec2e2e7a:
 
     # sy "*Staggered moans of pleasure* Fuck.{w} Yes.{w} Yes.{w} Yes!"
-    sy "*快乐的交错呻吟声* 操。{w} 要死了。{w} 要死了。{w} 爽死我了啊！
+    sy "*快乐的交错呻吟声* 操。{w} 要死了。{w} 要死了。{w} 爽死我了啊！"
 
 # game/code/e01/e01s01.rpy:515
 translate chinese e01s01_choice_done_083ec9a2:
@@ -1372,7 +1372,7 @@ translate chinese e01s01_inbetween_1_7834020e:
 translate chinese e01s01_inbetween_1_ca7f0397:
 
     # mc "*Laughs* I guess you'll need plenty of energy to keep going."
-    mc *笑*看来你需要补充能量才能继续前进了。"
+    mc "*笑*看来你需要补充能量才能继续前进了。"
 
 # game/code/e01/e01s01.rpy:1102
 translate chinese e01s01_inbetween_2_7d6bc20d:
