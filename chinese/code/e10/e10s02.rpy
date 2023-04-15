@@ -268,211 +268,211 @@ translate chinese e10s02_f69562ef:
 translate chinese e10s02_73b9b8d0:
 
     # mm "I've always been a fan of the Tigers."
-    mm "I've always been a fan of the Tigers."
+    mm "我一直是老虎队的球迷。"
 
 # game/code/e10/e10s02.rpy:163
 translate chinese e10s02_b54ac9de:
 
     # mc "The Detroit Tigers? I've heard of them. \"Go Lions and take the Tigers with you\"."
-    mc "The Detroit Tigers? I've heard of them. \"Go Lions and take the Tigers with you\"."
+    mc "底特律老虎队？我听说过他们。\"雄狮们，带着老虎一起上场\"。"
 
 # game/code/e10/e10s02.rpy:166
 translate chinese e10s02_f1aa3ea1:
 
     # mb "Sorry, no. Mother means the Hanshin Tigers. She's a bit obsessed with Japan."
-    mb "Sorry, no. Mother means the Hanshin Tigers. She's a bit obsessed with Japan."
+    mb "对不起，不是这样的。我妈妈是指阪神老虎队。她有点迷恋日本。"
 
 # game/code/e10/e10s02.rpy:169
 translate chinese e10s02_c29c33d4:
 
     # mm "Don't forget that you were born there, Bruce. Have you heard this story?"
-    mm "Don't forget that you were born there, Bruce. Have you heard this story?"
+    mm "别忘了你出生在那里，布鲁斯。你听说过这个故事吗？"
 
 # game/code/e10/e10s02.rpy:171
 translate chinese e10s02_0ae4d833:
 
     # mct "Oh bother, I have the feeling I'm in for a long story about Bruce's birth..."
-    mct "Oh bother, I have the feeling I'm in for a long story about Bruce's birth..."
+    mct "哦，麻烦了，我感觉我要听她讲关于布鲁斯出生的长故事了..."
 
 # game/code/e10/e10s02.rpy:184
 translate chinese e10s02_dc7d891d:
 
     # md "If I may interrupt to discuss business."
-    md "If I may interrupt to discuss business."
+    md "请允许我打断一下，讨论下业务。"
 
 # game/code/e10/e10s02.rpy:187
 translate chinese e10s02_5c4c774b:
 
     # md "Daughter, you will be working at headquarters. There is a job opening that you must fill."
-    md "Daughter, you will be working at headquarters. There is a job opening that you must fill."
+    md "女儿，你要在总部工作。有个职位空缺，你必须去填上。"
 
 # game/code/e10/e10s02.rpy:190
 translate chinese e10s02_7616c38f:
 
     # mes "Of course, father. The summer internships start in a couple of weeks, so-"
-    mes "Of course, father. The summer internships start in a couple of weeks, so-"
+    mes "好的，爸爸。再过几周暑期实习就要开始了，所以--"
 
 # game/code/e10/e10s02.rpy:193
 translate chinese e10s02_d739aa85:
 
     # md "Not this time.{w} I believe that you are ready for something different"
-    md "Not this time.{w} I believe that you are ready for something different"
+    md "这次不行。{w}我相信你已经准备好迎接不一样的生活了。"
 
 # game/code/e10/e10s02.rpy:196
 translate chinese e10s02_4254ce0b:
 
     # mes "I don't understand-"
-    mes "I don't understand-"
+    mes "我不明白--"
 
 # game/code/e10/e10s02.rpy:198
 translate chinese e10s02_2aa454af:
 
     # md "We have discussed it and decided that you are ready for a real position. You can start tomorrow."
-    md "We have discussed it and decided that you are ready for a real position. You can start tomorrow."
+    md "我们已经讨论过了，认为你准备好接受真正的职位了。你明天就可以开始。"
 
 # game/code/e10/e10s02.rpy:201
 translate chinese e10s02_31aa10d2:
 
     # mes "Wha-?"
-    mes "Wha-?"
+    mes "什么？"
 
 # game/code/e10/e10s02.rpy:202
 translate chinese e10s02_a083872c:
 
     # mes "What? Should I continue my education somewhere else?"
-    mes "What? Should I continue my education somewhere else?"
+    mes "什么？学业呢？我要到别的地方继续深造？"
 
 # game/code/e10/e10s02.rpy:205
 translate chinese e10s02_8b451d52:
 
     # mb "Father and I have discussed it. You may return in the autumn, but you're clearly ready to start full-time."
-    mb "Father and I have discussed it. You may return in the autumn, but you're clearly ready to start full-time."
+    mb "爸爸和我讨论过了。你可以在秋天回来，但你显然已经准备好开始全职工作了。"
 
 # game/code/e10/e10s02.rpy:207
 translate chinese e10s02_5d990fef:
 
     # mes "But I don't-"
-    mes "But I don't-"
+    mes "可我不--"
 
 # game/code/e10/e10s02.rpy:209
 translate chinese e10s02_af8fd4e6:
 
     # mes "I was supposed to-"
-    mes "I was supposed to-"
+    mes "我应该--"
 
 # game/code/e10/e10s02.rpy:211
 translate chinese e10s02_e0a2027c:
 
     # mb "There is nothing to understand. This is a terrific opportunity."
-    mb "There is nothing to understand. This is a terrific opportunity."
+    mb "没有什么可拒绝的。这是一个极好的机会。"
 
 # game/code/e10/e10s02.rpy:214
 translate chinese e10s02_90627f14:
 
     # md "Your brother was initially against this - he thought you deserved a break after your studies - but neither of us want to waste your potential."
-    md "Your brother was initially against this - he thought you deserved a break after your studies - but neither of us want to waste your potential."
+    md "你哥哥最初是反对的--他认为你应该在学业结束后休息一下--但我们都不想浪费你的潜力。"
 
 # game/code/e10/e10s02.rpy:217
 translate chinese e10s02_bb912d5d:
 
     # mes "Yes, father.{w} I understand."
-    mes "Yes, father.{w} I understand."
+    mes "好的，爸爸。{w}我明白了。"
 
 # game/code/e10/e10s02.rpy:219
 translate chinese e10s02_0993fb34:
 
     # mc "Excuse me, but what the fuck?"
-    mc "Excuse me, but what the fuck?"
+    mc "不好意思打断一下，这他妈是怎么回事？"
 
 # game/code/e10/e10s02.rpy:222
 translate chinese e10s02_d9011b48:
 
     # mb "This is family business, [mcname].."
-    mb "This is family business, [mcname].."
+    mb "这是家族企业，[mcname].."
 
 # game/code/e10/e10s02.rpy:230
 translate chinese e10s02_ac3c10bf:
 
     # mc "Min, what do you really think about this?"
-    mc "Min, what do you really think about this?"
+    mc "明，你到底是怎么想的？"
 
 # game/code/e10/e10s02.rpy:233
 translate chinese e10s02_a0b6e32f:
 
     # mes "[mcname], please. Don't do this."
-    mes "[mcname], please. Don't do this."
+    mes "[mcname]。别这样。"
 
 # game/code/e10/e10s02.rpy:238
 translate chinese e10s02_5476e36c:
 
     # mc "She has told me she wanted to do something else."
-    mc "She has told me she wanted to do something else."
+    mc "她告诉我她想做别的事。"
 
 # game/code/e10/e10s02.rpy:239
 translate chinese e10s02_d9557a4f:
 
     # mc "Did it ever occur to you to ask her about her plans? About her goals?"
-    mc "Did it ever occur to you to ask her about her plans? About her goals?"
+    mc "你有没有想过问问她的计划？问问她有什么目标？"
 
 # game/code/e10/e10s02.rpy:242
 translate chinese e10s02_a0b6e32f_1:
 
     # mes "[mcname], please. Don't do this."
-    mes "[mcname], please. Don't do this."
+    mes "[mcname]。别这样。"
 
 # game/code/e10/e10s02.rpy:247
 translate chinese e10s02_847e583c:
 
     # mc "What the hell, Min?! You're the strongest person that I know. You'd cut a birthday cake with a battle axe."
-    mc "What the hell, Min?! You're the strongest person that I know. You'd cut a birthday cake with a battle axe."
+    mc "搞什么鬼，明？!你是我认识的最坚强的人。你会用战斧切开一个生日蛋糕。"
 
 # game/code/e10/e10s02.rpy:248
 translate chinese e10s02_2febb978:
 
     # mc "It makes no sense that someone - let alone your own flesh & blood - would disrespect your opinion and tell you-"
-    mc "It makes no sense that someone - let alone your own flesh & blood - would disrespect your opinion and tell you-"
+    mc "别人没道理不尊重你的意见--更不用说和你有血缘关系的家人了，这毫无道理。"
 
 # game/code/e10/e10s02.rpy:252
 translate chinese e10s02_b9bbf975:
 
     # mc "Ask her about High Frequency Trading! Ask her about Sentimental Analysis of Social Media! Ask her about what she wants to do with her life!"
-    mc "Ask her about High Frequency Trading! Ask her about Sentimental Analysis of Social Media! Ask her about what she wants to do with her life!"
+    mc "问她关于高频交易的问题!问问她关于社交媒体的情感分析!问问她这辈子想做什么!"
 
 # game/code/e10/e10s02.rpy:253
 translate chinese e10s02_b9ba7622:
 
     # mc "I've listened to her. I'll can tell you what Min is going to do-"
-    mc "I've listened to her. I'll can tell you what Min is going to do-"
+    mc "我听她说过。我可以告诉你，明将要做什么--"
 
 # game/code/e10/e10s02.rpy:256
 translate chinese e10s02_9f5fe95d:
 
     # md "Enough!"
-    md "Enough!"
+    md "够了!"
 
 # game/code/e10/e10s02.rpy:257
 translate chinese e10s02_a27df2e1:
 
     # md "You do not understand. This is our family business. \"Min\" is who we are, and Eun-Soo will follow the path I set down."
-    md "You do not understand. This is our family business. \"Min\" is who we are, and Eun-Soo will follow the path I set down."
+    md "你不明白。这是我们的家族事业。\"明\" 是我们的身份，恩秀会遵循我设定的道路。"
 
 # game/code/e10/e10s02.rpy:258
 translate chinese e10s02_508689a3:
 
     # md "Is that understood?!"
-    md "Is that understood?!"
+    md "明白了吗?!"
 
 # game/code/e10/e10s02.rpy:261
 translate chinese e10s02_a6b0ca26:
 
     # mes "Yes, father."
-    mes "Yes, father."
+    mes "明白，爸爸。"
 
 # game/code/e10/e10s02.rpy:263
 translate chinese e10s02_049086da:
 
     # mb "Yes, father."
-    mb "Yes, father."
+    mb "是的，爸爸。"
 
 # game/code/e10/e10s02.rpy:265
 translate chinese e10s02_2b35b6fe:
@@ -484,7 +484,7 @@ translate chinese e10s02_2b35b6fe:
 translate chinese e10s02_a79134e4:
 
     # md "It seems that the meal is finished. Our guest would not want to overstay his welcome."
-    md "It seems that the meal is finished. Our guest would not want to overstay his welcome."
+    md "看来，这顿饭已经吃完了。我们的客人可不想待得太久。"
 
 # game/code/e10/e10s02.rpy:273
 translate chinese e10s02_2b35b6fe_1:
@@ -496,91 +496,91 @@ translate chinese e10s02_2b35b6fe_1:
 translate chinese e10s02_8c71e137:
 
     # mes "Of course, father. [mcname], let's go."
-    mes "Of course, father. [mcname], let's go."
+    mes "好的，爸爸。[mcname]，我们走吧。"
 
 # game/code/e10/e10s02.rpy:280
 translate chinese e10s02_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "我会走。"
 
 # game/code/e10/e10s02.rpy:281
 translate chinese e10s02_79f9e729:
 
     # mc "Let me just be clear. I have your daughter's best interests at heart."
-    mc "Let me just be clear. I have your daughter's best interests at heart."
+    mc "让我说清楚一点。我一心为你女儿着想。"
 
 # game/code/e10/e10s02.rpy:282
 translate chinese e10s02_2ea42706:
 
     # mc "We merely disagree at what is in her best interests."
-    mc "We merely disagree at what is in her best interests."
+    mc "我们只是就什么对她是最有利的这点上存在分歧。"
 
 # game/code/e10/e10s02.rpy:285
 translate chinese e10s02_c18904f9:
 
     # md "I have arranged a suitable apartment for my daughter and whomever she decides to live with her."
-    md "I have arranged a suitable apartment for my daughter and whomever she decides to live with her."
+    md "我已经为我女儿和她决定的伴侣安排了一套合适的公寓。"
 
 # game/code/e10/e10s02.rpy:287
 translate chinese e10s02_6a25ef9e:
 
     # mc "You mentioned full-time work. I assume there is a reasonable salary?"
-    mc "You mentioned full-time work. I assume there is a reasonable salary?"
+    mc "Y你提到了全职工作。我想应该有一份合理的薪水吧？"
 
 # game/code/e10/e10s02.rpy:289
 translate chinese e10s02_a0c77c71:
 
     # md "She will have a substantial salary on paper. Of course, that will be reinvested in the company and she will receive her allowance from the family cards."
-    md "She will have a substantial salary on paper. Of course, that will be reinvested in the company and she will receive her allowance from the family cards."
+    md "理论上她会有一份可观的薪水。当然，这些钱将被再投资到公司，她将从家庭账户里获得津贴。"
 
 # game/code/e10/e10s02.rpy:292
 translate chinese e10s02_0b74165e:
 
     # mc "That is unacceptable. You will track and control her home and purchases?!"
-    mc "That is unacceptable. You will track and control her home and purchases?!"
+    mc "这是不可接受的。你们要跟踪并控制她的家，还有消费情况?!"
 
 # game/code/e10/e10s02.rpy:294
 translate chinese e10s02_f01a490b:
 
     # mes "*whisper* [mcname]! Can we discuss this later?"
-    mes "*whisper* [mcname]! Can we discuss this later?"
+    mes "*耳语* [mcname]!我们能晚点再讨论吗？"
 
 # game/code/e10/e10s02.rpy:297
 translate chinese e10s02_e3bebce1:
 
     # mb "I'm sure we understand that - in your own way - you are trying to look out for my sister."
-    mb "I'm sure we understand that - in your own way - you are trying to look out for my sister."
+    mb "我相信我们都理解--以你自己的方式--你在努力照顾我妹妹。"
 
 # game/code/e10/e10s02.rpy:299
 translate chinese e10s02_65891b6d:
 
     # md "I do not."
-    md "I do not."
+    md "我没有。"
 
 # game/code/e10/e10s02.rpy:302
 translate chinese e10s02_16d837b0:
 
     # md "Stay out of our family's business, [mcname]."
-    md "Stay out of our family's business, [mcname]."
+    md "别插手我们家族的事，[mcname]。"
 
 # game/code/e10/e10s02.rpy:304
 translate chinese e10s02_7e2a7b19:
 
     # mes "Shh. Let's just go."
-    mes "Shh. Let's just go."
+    mes "嘘。我们走吧。"
 
 translate chinese strings:
 
     # game/code/e10/e10s02.rpy:6
     old "The next day"
-    new "The next day"
+    new "第二天"
 
     # game/code/e10/e10s02.rpy:224
     old "Ask her what she really thinks about this"
-    new "Ask her what she really thinks about this"
+    new "问她对此的真实想法"
 
     # game/code/e10/e10s02.rpy:224
     old "Tell them that she has other plans"
-    new "Tell them that she has other plans"
+    new "告诉他们她有别的计划"
 
