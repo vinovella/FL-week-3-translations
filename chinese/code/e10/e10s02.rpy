@@ -4,265 +4,265 @@
 translate chinese e10s02_b5278bcc:
 
     # mes "[mcname]. This is my family. They're important to me. So, be respectful."
-    mes "[mcname]. This is my family. They're important to me. So, be respectful."
+    mes "[mcname]，这是我的家人。他们对我很重要。所以，要尊重他们。"
 
 # game/code/e10/e10s02.rpy:20
 translate chinese e10s02_d0f44e92:
 
     # mc "Of course, Min."
-    mc "Of course, Min."
+    mc "当然了，明。"
 
 # game/code/e10/e10s02.rpy:23
 translate chinese e10s02_547d3da2:
 
     # mes "Oh fuck. I should have told you sooner. Min is my family name."
-    mes "Oh fuck. I should have told you sooner. Min is my family name."
+    mes "操。我应该早点告诉你的。闵是我的姓。"
 
 # game/code/e10/e10s02.rpy:26
 translate chinese e10s02_6a8d2208:
 
     # mc "That makes sense. So your parents are-"
-    mc "That makes sense. So your parents are-"
+    mc "这就说得通了。那你的父母是--"
 
 # game/code/e10/e10s02.rpy:29
 translate chinese e10s02_a962f490:
 
     # mes "Just call them Mr. & Mrs. Min. You'll be fine."
-    mes "Just call them Mr. & Mrs. Min. You'll be fine."
+    mes "叫他们闵先生和闵太太就行了。没事的。"
 
 # game/code/e10/e10s02.rpy:32
 translate chinese e10s02_f3f2f3d8:
 
     # mc "Anyone else I should know about tonight?"
-    mc "Anyone else I should know about tonight?"
+    mc "今晚我还应该先了解下什么人吗？"
 
 # game/code/e10/e10s02.rpy:35
 translate chinese e10s02_44a04f9b:
 
     # mes "My older brother will probably be there. He's important. He's set to take over the family business when my father retires."
-    mes "My older brother will probably be there. He's important. He's set to take over the family business when my father retires."
+    mes "我哥哥可能会去。他很重要。他准备在我父亲退休后接管家族生意。"
 
 # game/code/e10/e10s02.rpy:38
 translate chinese e10s02_2303b416:
 
     # mc "Is your father planning on retiring soon?"
-    mc "Is your father planning on retiring soon?"
+    mc "你爸爸打算不久退休吗？"
 
 # game/code/e10/e10s02.rpy:41
 translate chinese e10s02_d652d874:
 
     # mes "Not for a few decades, hopefully."
-    mes "Not for a few decades, hopefully."
+    mes "希望几十年内都不会。"
 
 # game/code/e10/e10s02.rpy:44
 translate chinese e10s02_a0059203:
 
     # mc "Okay. What do I call your brother?"
-    mc "Okay. What do I call your brother?"
+    mc "好。我该怎么称呼你哥哥？"
 
 # game/code/e10/e10s02.rpy:47
 translate chinese e10s02_59d38164:
 
     # mes "He'll introduce himself, but calling him Do-yun should be fine."
-    mes "He'll introduce himself, but calling him Do-yun should be fine."
+    mes "他会介绍自己，但叫他道允应该没问题。"
 
 # game/code/e10/e10s02.rpy:50
 translate chinese e10s02_a9153106:
 
     # mc "His name is Do-yun Min?"
-    mc "His name is Do-yun Min?"
+    mc "他叫道允闵？"
 
 # game/code/e10/e10s02.rpy:53
 translate chinese e10s02_b93746e9:
 
     # mes "No. His name is Min Do-yun. We put the surname before the given name."
-    mes "No. His name is Min Do-yun. We put the surname before the given name."
+    mes "不是。他叫闵道允。我们把姓放在名的前面。"
 
 # game/code/e10/e10s02.rpy:56
 translate chinese e10s02_57572cdb:
 
     # mc "Right, sorry. Anything else I should know?"
-    mc "Right, sorry. Anything else I should know?"
+    mc "噢，对不起。还有什么我该知道的吗？"
 
 # game/code/e10/e10s02.rpy:59
 translate chinese e10s02_370a9fa6:
 
     # mes "Just try not to-"
-    mes "Just try not to-"
+    mes "试着不要--"
 
 # game/code/e10/e10s02.rpy:60
 translate chinese e10s02_3fc86124:
 
     # mes "You know what, just try not to talk too much. Be respectful. Don't embarrass yourself or me."
-    mes "You know what, just try not to talk too much. Be respectful. Don't embarrass yourself or me."
+    mes "算了，你还是尽量别说太多。要有礼貌。别让你自己和我难堪。"
 
 # game/code/e10/e10s02.rpy:63
 translate chinese e10s02_06eb03ff:
 
     # mc "I'll do my best."
-    mc "I'll do my best."
+    mc "我尽力。"
 
 # game/code/e10/e10s02.rpy:66
 translate chinese e10s02_15503ce6:
 
     # mes "Alright."
-    mes "Alright."
+    mes "好吧。"
 
 # game/code/e10/e10s02.rpy:75
 translate chinese e10s02_ce08204e:
 
     # md "{i}*says something in language you don't understand*{/i}"
-    md "{i}*says something in language you don't understand*{/i}"
+    md "{i}*用你听不懂的语言说了些什么*{/i}"
 
 # game/code/e10/e10s02.rpy:78
 translate chinese e10s02_c4db894e:
 
     # mes "Yes, father.{w} This is the man I told you about."
-    mes "Yes, father.{w} This is the man I told you about."
+    mes "对，爸爸。{w}这就是我跟你说过的那个人。"
 
 # game/code/e10/e10s02.rpy:81
 translate chinese e10s02_4c61156c:
 
     # mct "What's happening? Should I bow? Should I say something?{w} Crap. I am not prepared for this."
-    mct "What's happening? Should I bow? Should I say something?{w} Crap. I am not prepared for this."
+    mct "怎么了怎么了？我应该鞠躬吗？我该说点什么吗？{w} 糟了。我还没准备好。"
 
 # game/code/e10/e10s02.rpy:87
 translate chinese e10s02_59b814d1:
 
     # mc "Hello. My name is [mcname] Young.{w} Well, I guess in your custom I am Young [mcname]."
-    mc "Hello. My name is [mcname] Young.{w} Well, I guess in your custom I am Young [mcname]."
+    mc "你好。我叫[mcname]杨。{w}好吧，我猜在你们的文化里，我应该叫杨[mcname]。"
 
 # game/code/e10/e10s02.rpy:90
 translate chinese e10s02_15fd73fd:
 
     # md "{i}*speaks in a language you don't understand*{/i}"
-    md "{i}*speaks in a language you don't understand*{/i}"
+    md "{i}*说着你听不懂的语言*{/i}"
 
 # game/code/e10/e10s02.rpy:93
 translate chinese e10s02_b82a39a2:
 
     # mes "No, father. That was my ex-boyfriend. He...{w} disrespected me. I am with [mcname] now."
-    mes "No, father. That was my ex-boyfriend. He...{w} disrespected me. I am with [mcname] now."
+    mes "不，爸爸。那是我前男友。他...{w}他不尊重我。我现在和[mcname]在一起。"
 
 # game/code/e10/e10s02.rpy:96
 translate chinese e10s02_93eef468:
 
     # mc "This is a power play."
-    mc "This is a power play."
+    mc "这是一场权力游戏。"
 
 # game/code/e10/e10s02.rpy:98
 translate chinese e10s02_03ad0a6a:
 
     # mc "You're the head of a successful multinational corporation. You speak English."
-    mc "You're the head of a successful multinational corporation. You speak English."
+    mc "你是一家成功的跨国公司的老板。你会说英语。"
 
 # game/code/e10/e10s02.rpy:101
 translate chinese e10s02_75e4ca5c:
 
     # mc "Moreover, you already spoke to M-"
-    mc "Moreover, you already spoke to M-"
+    mc "而且，你已经和M--"
 
 # game/code/e10/e10s02.rpy:102
 translate chinese e10s02_bed64e5e:
 
     # mc "-To your daughter. You know who I am. You're just bringing up her ex-boyfriend to amplify your own power."
-    mc "-To your daughter. You know who I am. You're just bringing up her ex-boyfriend to amplify your own power."
+    mc "-你已经和你女儿谈过了。你知道我是谁。你提起她的前男友只是想扩大自己的影响力。"
 
 # game/code/e10/e10s02.rpy:105
 translate chinese e10s02_91ba1686:
 
     # md "*laughs* Very good, [mcname]. You might not be completely useless after all."
-    md "*laughs* Very good, [mcname]. You might not be completely useless after all."
+    md "*笑*非常好，[mcname]。也许你并不是一无是处。"
 
 # game/code/e10/e10s02.rpy:108
 translate chinese e10s02_720a8a8a:
 
     # mc "So, shall we drop these pretenses and behave like ordinary people?"
-    mc "So, shall we drop these pretenses and behave like ordinary people?"
+    mc "那么，我们能不能放下这些伪装，像普通人一样说话呢？"
 
 # game/code/e10/e10s02.rpy:111
 translate chinese e10s02_db5d7aef:
 
     # md "No.{w} Please seat down. Lunch will be served."
-    md "No.{w} Please seat down. Lunch will be served."
+    md "不可以。请坐。午餐马上就来。"
 
 # game/code/e10/e10s02.rpy:123
 translate chinese e10s02_1afa3d8c:
 
     # md "I don't believe you have met my wife nor my son."
-    md "I don't believe you have met my wife nor my son."
+    md "我想你还没见过我妻子和儿子吧。""
 
 # game/code/e10/e10s02.rpy:126
 translate chinese e10s02_86a5e4c2:
 
     # mm "It is a pleasure to meet you, [mcname]. Our daughter speaks highly of you."
-    mm "It is a pleasure to meet you, [mcname]. Our daughter speaks highly of you."
+    mm "很高兴见到你，[mcname]。我们的女儿对你赞不绝口。
 
 # game/code/e10/e10s02.rpy:129
 translate chinese e10s02_38d8867a:
 
     # mc "Thank you, ma'am."
-    mc "Thank you, ma'am."
+    mc "谢谢您，夫人。"
 
 # game/code/e10/e10s02.rpy:132
 translate chinese e10s02_10b72718:
 
     # mb "Hey [mcname]. Just call me Don."
-    mb "Hey [mcname]. Just call me Don."
+    mb "嘿[mcname]。叫我“道”就行了。"
 
 # game/code/e10/e10s02.rpy:135
 translate chinese e10s02_a44b1991:
 
     # md "There is no need to be so informal."
-    md "There is no need to be so informal."
+    md "没必要这么随便。"
 
 # game/code/e10/e10s02.rpy:138
 translate chinese e10s02_fb405b1e:
 
     # mb "Relax, dad. This isn't a business deal. It's a social occasion."
-    mb "Relax, dad. This isn't a business deal. It's a social occasion."
+    mb "放松点，爸爸。这不是商业交易。只是个社交场合。"
 
 # game/code/e10/e10s02.rpy:139
 translate chinese e10s02_3400e76f:
 
     # mb "During social interactions it is optimal to relax the rules and go with the flow."
-    mb "During social interactions it is optimal to relax the rules and go with the flow."
+    mb "在社交活动中，放松规则，顺其自然是最佳选择。"
 
 # game/code/e10/e10s02.rpy:142
 translate chinese e10s02_18e08b6b:
 
     # md "I suppose you are right, but it does not sit well with me."
-    md "I suppose you are right, but it does not sit well with me."
+    md "我想你是对的，但我觉得不舒服。"
 
 # game/code/e10/e10s02.rpy:145
 translate chinese e10s02_2a063180:
 
     # mc "Thank you both. I agree with Do-yun, er... Don?{w} I am not yet comfortable with the formalities-"
-    mc "Thank you both. I agree with Do-yun, er... Don?{w} I am not yet comfortable with the formalities-"
+    mc "谢谢你们。我同意道允的观点，呃...应该叫你“道”？{w}我还不太习惯这种礼节--"
 
 # game/code/e10/e10s02.rpy:148
 translate chinese e10s02_506d30e3:
 
     # mes "I'm certain that in time [mcname] will learn - and that he will impress you, father."
-    mes "I'm certain that in time [mcname] will learn - and that he will impress you, father."
+    mes "我相信迟早[mcname]会学会的--他会给你留下深刻印象的，爸爸。"
 
 # game/code/e10/e10s02.rpy:151
 translate chinese e10s02_c54121d7:
 
     # mb "[mcname], what do you think about the baseball season? Do you have a favorite team?"
-    mb "[mcname], what do you think about the baseball season? Do you have a favorite team?"
+    mb "[mcname]，你对棒球赛季有什么看法？你有喜欢的球队吗？"
 
 # game/code/e10/e10s02.rpy:154
 translate chinese e10s02_be8b63f7:
 
     # mc "Um, actually I've never followed baseball...{w} I could tell you about football, but we have a few months before the season starts."
-    mc "Um, actually I've never followed baseball...{w} I could tell you about football, but we have a few months before the season starts."
+    mc "嗯，实际上我从来没有关注过棒球...我可以给你讲讲足球，但我们还有几个月才开始赛季。"
 
 # game/code/e10/e10s02.rpy:157
 translate chinese e10s02_f69562ef:
 
     # mb "Oh."
-    mb "Oh."
+    mb "哦。"
 
 # game/code/e10/e10s02.rpy:160
 translate chinese e10s02_73b9b8d0:
