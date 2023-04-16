@@ -190,13 +190,13 @@ translate chinese e10s02_db5d7aef:
 translate chinese e10s02_1afa3d8c:
 
     # md "I don't believe you have met my wife nor my son."
-    md "我想你还没见过我妻子和儿子吧。""
+    md "我想你还没见过我妻子和儿子吧。"
 
 # game/code/e10/e10s02.rpy:126
 translate chinese e10s02_86a5e4c2:
 
     # mm "It is a pleasure to meet you, [mcname]. Our daughter speaks highly of you."
-    mm "很高兴见到你，[mcname]。我们的女儿对你赞不绝口。
+    mm "很高兴见到你，[mcname]。我们的女儿对你赞不绝口。"
 
 # game/code/e10/e10s02.rpy:129
 translate chinese e10s02_38d8867a:
