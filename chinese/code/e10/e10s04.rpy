@@ -10,13 +10,13 @@ translate chinese e10s04_b53797f0:
 translate chinese e10s04_f69e10b4:
 
     # mes "Let's do a con first. I wanna get those out of the way as soon as possible."
-    mes "我们先分析下缺点吧。我想尽快解决这些问题。"
+    mes "我们先做个弊端分析吧。我想尽快解决这些问题。"
 
 # game/code/e10/e10s04.rpy:27
 translate chinese e10s04_f8fee544:
 
     # mc "Good idea. Okay, so first con."
-    mc "好主意。好，第一个缺点。"
+    mc "好主意。好，第一个弊端。"
 
 # game/code/e10/e10s04.rpy:30
 translate chinese e10s04_4370f87a:
@@ -28,7 +28,7 @@ translate chinese e10s04_4370f87a:
 translate chinese e10s04_21695b74:
 
     # mes "Why is that a con?"
-    mes "为什么这是缺点？"
+    mes "这怎么会对我们不利？"
 
 # game/code/e10/e10s04.rpy:36
 translate chinese e10s04_4bf7fd41:
@@ -58,7 +58,7 @@ translate chinese e10s04_c29d33da:
 translate chinese e10s04_00b1fe18:
 
     # mc "Yeah but as far as they'll know, you'd still be working for your father. This would just be my thing."
-    mc "是的，但就他们所知，你还在为你父亲工作。这只会是我的事。"
+    mc "对，但即使他们知道了，你也还是在为你父亲工作。这个公司只会是我的事。"
 
 # game/code/e10/e10s04.rpy:49
 translate chinese e10s04_c1e8e081:
@@ -130,7 +130,7 @@ translate chinese e10s04_49f5654b:
 translate chinese e10s04_f8ef467d:
 
     # mc "I think that's enough cons for now. Let's do a couple pros."
-    mc "我觉得现在的缺点已经够多了。我们说些优点吧。"
+    mc "我觉得现在的弊端已经够多了。我们说些有利的点吧。"
 
 # game/code/e10/e10s04.rpy:84
 translate chinese e10s04_d902cf3c:
@@ -172,7 +172,7 @@ translate chinese e10s04_393e7a79:
 translate chinese e10s04_297a17c9:
 
     # mc "Exactly— Oh! And the biggest thing."
-    mc "没错-哦！还有最重要的一点。"
+    mc "没错--哦！还有最重要的一点。"
 
 # game/code/e10/e10s04.rpy:101
 translate chinese e10s04_f1125abb:
@@ -190,7 +190,7 @@ translate chinese e10s04_294600af:
 translate chinese e10s04_8ffdea92:
 
     # mes "But that doesn't mean we won't be free from the investors and any trouble we will inevitably come across."
-    mes "但这并不意味着我们就能摆脱投资者，也不意味着我们从此再也不会有任何麻烦。"
+    mes "但这并不意味着我们就能在找投资者上不会碰壁，也不意味着我们从此再也不会有任何麻烦。"
 
 # game/code/e10/e10s04.rpy:108
 translate chinese e10s04_f4699c38:
@@ -220,7 +220,7 @@ translate chinese e10s04_e5336328:
 translate chinese e10s04_b644b024:
 
     # mc "*Chuckles* Yeah. It isn't as helpful as I thought it would be."
-    mc "*笑* 是啊。它并没有我想象的那么有用。"
+    mc "*咯咯笑* 是啊。它并没有我想象的那么有用。"
 
 # game/code/e10/e10s04.rpy:127
 translate chinese e10s04_c2067bde:
@@ -310,7 +310,7 @@ translate chinese e10s04_98290cf2:
 translate chinese e10s04_1b50994f:
 
     # mc "Stop worrying. It's all gonna work out just fine."
-    mc "别担心了。一切都会好起来的"
+    mc "别担心了。一切都会好起来的。"
 
 # game/code/e10/e10s04.rpy:189
 translate chinese e10s04_1efbd8f4:
@@ -376,7 +376,7 @@ translate chinese e10s04_4540b306:
 translate chinese e10s04_f9a91182:
 
     # mes "\"Check her out\", huh?"
-    mes "只是\"看看她\"，是吧？"
+    mes "你确定？只是\"看看她\"？"
 
 # game/code/e10/e10s04.rpy:222
 translate chinese e10s04_3fd95715:
