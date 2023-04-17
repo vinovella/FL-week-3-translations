@@ -40,13 +40,13 @@ translate chinese e10s06_8fa23e95:
 translate chinese e10s06_7c6336c5:
 
     # mc "C'mon, it adds to the celebratory spirit!"
-    mc "来吧，增添节日气氛嘛"
+    mc "来吧，增添节日气氛嘛！"
 
 # game/code/e10/e10s06.rpy:104
 translate chinese e10s06_39b8f855:
 
     # ns "Here you go, Sir."
-    ns "给您，先生。"
+    ns "给，先生。"
 
 # game/code/e10/e10s06.rpy:108
 translate chinese e10s06_51f02fe4:
@@ -88,7 +88,7 @@ translate chinese e10s06_0aa35eef:
 translate chinese e10s06_f6cdd05c:
 
     # mc "From our humble beginnings with Me, Min and Nari, to where we are now."
-    mc "我们当初卑微的开始，我，明和纳莉，知道如今走到这里。"
+    mc "我们当初卑微的开始，我，明和纳莉，直到如今走到这里。"
 
 # game/code/e10/e10s06.rpy:144
 translate chinese e10s06_a17d7888:
@@ -100,13 +100,13 @@ translate chinese e10s06_a17d7888:
 translate chinese e10s06_c9b249f9:
 
     # mc "I know that we have a couple perfectionists in here that might be beating themselves up a bit over how it took us 15 iterations to get here."
-    mc "我知道我们这里有几个完美主义者，他们可能会因为我们花了15次迭代才达到这里而自责。"
+    mc "我知道我们这里有几个完美主义者，他们可能在因为我们花了15次迭代才达到这里而自责。"
 
 # game/code/e10/e10s06.rpy:148
 translate chinese e10s06_2e69b944:
 
     # mc "But I want to stress how proud I am of each and every one of you. It's not about how fast we did it, it's about how well we did it."
-    mc "但我想强调的是，我为你们每一个人感到骄傲。重要的不是我们做得有多快，而是我们做得有多好。"
+    mc "但我想强调的是，我为你们每一个人感到骄傲。重要的不是我们做得有多快，而是做得有多好。"
 
 # game/code/e10/e10s06.rpy:151
 translate chinese e10s06_58fef226:
@@ -124,7 +124,7 @@ translate chinese e10s06_8378bd7b:
 translate chinese e10s06_62777011:
 
     # mc "Her tenacity, her will, and her vision is what lead us to where we are today."
-    mc "她的坚韧、她的意志和她的远见卓识引领我们走到了今天。"
+    mc "她的坚韧、她的意志和她的远见卓识，引领我们走到了今天。"
 
 # game/code/e10/e10s06.rpy:169
 translate chinese e10s06_76e88dd8:
@@ -148,7 +148,7 @@ translate chinese e10s06_e4e42ce0:
 translate chinese e10s06_af0d69f2:
 
     # mc "Oh? What was that? Was that a yes I heard?"
-    mc "哦？你说什么？我听到了，你是同意了吗？"
+    mc "哦？你说什么？我可以理解为，你是同意了吗？"
 
 # game/code/e10/e10s06.rpy:185
 translate chinese e10s06_fdcf3625:
@@ -166,19 +166,19 @@ translate chinese e10s06_f63b6987:
 translate chinese e10s06_15093f6b:
 
     # mes "I've been planning this for a while anyway, so I guess this can double as my inaugural announcement."
-    mes "反正我已经计划了一段时间了，所以我想这可以作为我的就职宣言。"
+    mes "反正我已经计划了一段时间了，所以我想这可以当成我的就职宣言。"
 
 # game/code/e10/e10s06.rpy:199
 translate chinese e10s06_e7c1dabb:
 
     # mc "See? Already thinking up new ways to be more efficient. This is why she'll be a great CEO."
-    mc "看到了吗？已经在想新方法来提高效率了。这就是她会成为一名出色的CEO的证明。"
+    mc "看到了吗？这位已经在想新方法来提高就职效率了。这就是她会成为一名出色的CEO的证明。"
 
 # game/code/e10/e10s06.rpy:206
 translate chinese e10s06_0c64ce23:
 
     # mes "{i}Anyway.{/i} As [mcname] said, I'm proud of the work we've done here as well."
-    mes "{i}好了。{/i}正如[mcname]所说，我为我们在这里所做的工作感到自豪。"
+    mes "{i}好了。{/i}正如[mcname]所说，我为我们所做的工作、达成的成就感到自豪。"
 
 # game/code/e10/e10s06.rpy:209
 translate chinese e10s06_d63236db:
@@ -208,13 +208,13 @@ translate chinese e10s06_4b6481a6:
 translate chinese e10s06_ebd9e565:
 
     # mc "I was thinking...CMO. I'm much better at marketing and finagling the investors anyway."
-    mc "我会是...CMO。我更擅长营销，擅长欺骗投资者。"
+    mc "我会是...CMO。我更擅长营销，擅长骗过投资者。"
 
 # game/code/e10/e10s06.rpy:227
 translate chinese e10s06_dda8237d:
 
     # mes "Implying that I'm not good at marketing and finagling?"
-    mes "你在暗示我不擅长营销和欺骗吗？"
+    mes "你在暗示我不擅长营销，不擅长骗人吗？"
 
 # game/code/e10/e10s06.rpy:235
 translate chinese e10s06_1335e325:
@@ -238,7 +238,7 @@ translate chinese e10s06_70ed879f:
 translate chinese e10s06_d1e7f03e:
 
     # mc "Oh, {i}oh{/i}. Absolutely."
-    mc "哦，{i}哦{/i}。当然要。"
+    mc "哦，{i}哦{/i}！当然要。"
 
 # game/code/e10/e10s06.rpy:246
 translate chinese e10s06_acf5d3bc:
@@ -262,19 +262,19 @@ translate chinese e10s06_e27f27ff:
 translate chinese e10s06_after_video_12a28887:
 
     # mes "Yes, yes yes! Fuck you're hitting me so deep right now, God. Harder!"
-    mes "啊...继续...老公，你插得我好深啊...再用力一点！"
+    mes "嗯...啊...继续！老公，你插得我好深啊... 再用力点！"
 
 # game/code/e10/e10s06.rpy:357
 translate chinese e10s06_after_video_c84da6ed:
 
     # mc "Yeah, you like that? Getting fucked like a slut, while all your employees are just outside."
-    mc "你喜欢吗？你所有的员工都在外面，你这个荡妇在里面被操。"
+    mc "你喜欢吗？你所有的员工都在外面，而你这个荡妇，在里面被操。"
 
 # game/code/e10/e10s06.rpy:360
 translate chinese e10s06_after_video_9a986de8:
 
     # mes "Yes! God, yes, it feels so good. You feel so good, [mcname]."
-    mes "是的！啊...嗯...好爽...。感觉太好了，[mcname]。"
+    mes "喜欢死了！啊...嗯...好爽... 我要上天了啊，[mcname]。"
 
 # game/code/e10/e10s06.rpy:441
 translate chinese e10s06_after_video_5e76f8a7:
@@ -304,7 +304,7 @@ translate chinese e10s06_after_video_c47a7964:
 translate chinese e10s06_after_video_038406df:
 
     # mes "Not— *Strangled moans* Not right now, Nari."
-    mes "我不-- *窒息的呻吟* 现在不行，纳莉。"
+    mes "不-- *窒息的呻吟* 现在不行，纳莉。"
 
 # game/code/e10/e10s06.rpy:453
 translate chinese e10s06_after_video_4dc4249d:
@@ -322,7 +322,7 @@ translate chinese e10s06_after_video_3971976f:
 translate chinese e10s06_after_video_27cb68ee:
 
     # mc "*Chuckles* I love it when you act possessive."
-    mc "*笑* 我喜欢你表现出占有欲的样子。"
+    mc "*轻笑* 我喜欢你表现出占有欲的样子。"
 
 # game/code/e10/e10s06.rpy:467
 translate chinese e10s06_after_video_318fa452:
