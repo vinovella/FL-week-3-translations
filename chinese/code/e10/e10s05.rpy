@@ -28,7 +28,7 @@ translate chinese e10s05_2fa3b246:
 translate chinese e10s05_755b79d7:
 
     # ns "I could.{w}.. but I probably won't."
-    ns 理论上可以.{w}..但我可能不会这么叫。"
+    ns 理论上可以.{w}..但我应该不会这么叫。"
 
 # game/code/e10/e10s05.rpy:73
 translate chinese e10s05_178aa920:
@@ -148,7 +148,7 @@ translate chinese e10s05_6b7a17d3:
 translate chinese e10s05_dc777ef4:
 
     # ns "Hmm. I'm not sure how I feel about this."
-    ns "嗯。我说不好对此有什么感觉。"
+    ns "嗯。我说不好现在的感觉。"
 
 # game/code/e10/e10s05.rpy:127
 translate chinese e10s05_b150009e:
@@ -166,13 +166,13 @@ translate chinese e10s05_9a0a6d47:
 translate chinese e10s05_4c6c2516:
 
     # ns "Well, when the CRAP department was created they didn't know ETL would become the buzzword. They just knew they were CRAP jobs."
-    ns "嗯，当CRAP部门成立时，他们不知道EL会成为流行语。他们只知道这些工作如其名，都是垃圾。"
+    ns "嗯，当CRAP部门成立时，他们不知道ETL会成为流行语。他们只知道这些工作实如其名，都是垃圾。"
 
 # game/code/e10/e10s05.rpy:136
 translate chinese e10s05_88ac7b43:
 
     # mc "Interesting.{w} You're going to train machine learning to analyze social media for this project, right?"
-    mc "有意思。{w}为了这个项目，你会训练机器学习来分析社交媒体，对吗？"
+    mc "有意思。{w}为了这个项目，你会训练机器学习、让它们分析社交媒体，对吗？"
 
 # game/code/e10/e10s05.rpy:139
 translate chinese e10s05_a55162f3:
@@ -310,7 +310,7 @@ translate chinese e10s05_029504b8:
 translate chinese e10s05_2f21b8ed:
 
     # mes "You had an open relationship with Lydia and still managed to cheat on her with AmRose."
-    mes "你和莉迪亚有过一段公开关系，但还是和爱洛丝偷情了。"
+    mes "你和莉迪亚曾经是公开的男女朋友，但你不还是和爱洛丝偷情了。"
 
 # game/code/e10/e10s05.rpy:215
 translate chinese e10s05_19930d06:
@@ -322,7 +322,7 @@ translate chinese e10s05_19930d06:
 translate chinese e10s05_d24e33bd:
 
     # mes "I suppose it's my fault - I'm working all the time and should've known your immense sex drive."
-    mes "看来这是我的错--我一直在工作，应该知道你的性欲有多强。"
+    mes "看来这是我的错--我一直在工作，本应该知道你的性欲有多强。"
 
 # game/code/e10/e10s05.rpy:221
 translate chinese e10s05_79c8897b:
@@ -340,13 +340,13 @@ translate chinese e10s05_ec2a4f6c:
 translate chinese e10s05_a7d607d3:
 
     # mes "She's not too bright, is she? Why did we hire her?"
-    mes "她不太聪明吧？我们为什么要雇佣她？"
+    mes "她不太聪明吧？我们为什么要雇她？"
 
 # game/code/e10/e10s05.rpy:230
 translate chinese e10s05_5d4367b3:
 
     # mc "She's actually a fucking genius. 205 IQ.{w} She's just not that great at understanding people."
-    mc "她其实是个天才。IQ高达20。{w}她只是不太善于理解别人。"
+    mc "她其实是个天才。IQ 高达205呢。{w}她只是不太善于理解别人。"
 
 # game/code/e10/e10s05.rpy:233
 translate chinese e10s05_f603d8e3:
@@ -442,7 +442,7 @@ translate chinese e10s05_82eaaced:
 translate chinese e10s05_42bd829d:
 
     # mc "Wait, what?"
-    mc "等等，什么啊"
+    mc "等等，什么啊？"
 
 # game/code/e10/e10s05.rpy:281
 translate chinese e10s05_b000a19f:
@@ -454,7 +454,7 @@ translate chinese e10s05_b000a19f:
 translate chinese e10s05_c3a952f6:
 
     # ns "I mean, I hadn't thought about it before, but you're both very attractive people and I do love the way [mcname]'s brain works."
-    ns "我是说，我之前没想过，你们俩都是很有魅力的人，我也很喜欢 [mcname]的思维方式。"
+    ns "我是说，我之前没想过，你们俩都是很有魅力的人，我也很喜欢[mcname]的思维方式。"
 
 # game/code/e10/e10s05.rpy:291
 translate chinese e10s05_95322407:
@@ -502,7 +502,7 @@ translate chinese e10s05_f2085d19:
 translate chinese e10s05_561b5135:
 
     # ns "Right, but if it was.{w}.. would you invite me?"
-    ns "对，但如果我们可以...{w}..你会邀请我吗？"
+    ns "对，但如果我们可以.{w}..你会邀请我吗？"
 
 # game/code/e10/e10s05.rpy:315
 translate chinese e10s05_ca033652:
@@ -520,7 +520,7 @@ translate chinese e10s05_550556e8:
 translate chinese e10s05_d5bfd1ff:
 
     # ns "I mean, you're both very attractive people and well, let me be clear."
-    ns "我是说，你们都是很有魅力的人，嗯，让我说清楚。"
+    ns "我是说，你们都很有魅力，嗯，让我说清楚。"
 
 # game/code/e10/e10s05.rpy:324
 translate chinese e10s05_4e29f4f9:
@@ -610,7 +610,7 @@ translate chinese e10s05_8e9b120d:
 translate chinese e10s05_d8a11b19:
 
     # ns "Please do!{w} I'll even make it more interesting for you!"
-    ns "求你了！{w}我会让你更感兴趣的！"
+    ns "求你了！{w}我会让你觉得性趣大增的！"
 
 # game/code/e10/e10s05.rpy:368
 translate chinese e10s05_799c7ee7:
@@ -664,7 +664,7 @@ translate chinese e10s05_289cdaf3:
 translate chinese e10s05_907529d4:
 
     # mes "Am I understanding this correctly?"
-    mes "我理解的对吗？"
+    mes "我没理解错吧？"
 
 # game/code/e10/e10s05.rpy:395
 translate chinese e10s05_1296752b:
@@ -676,19 +676,19 @@ translate chinese e10s05_1296752b:
 translate chinese e10s05_0bb85c63:
 
     # mes "You want to fuck me and [mcname]."
-    mes "你想操我和[mcame]。"
+    mes "你想操我和[mcname]。"
 
 # game/code/e10/e10s05.rpy:401
 translate chinese e10s05_d1167d6f:
 
     # ns "Okay.{w} I mean, yes. Yes, I do!{w} If that's okay."
-    ns "老实说吧，{w}是的。是的，我喜欢这样！{w}如果可以的话。"
+    ns "老实说吧，{w}是的。是的，我喜欢这样！{w}如果可以得到你的允许的话。"
 
 # game/code/e10/e10s05.rpy:404
 translate chinese e10s05_405ce2d0:
 
     # mes "And the only thing that is stopping that from happening right now is [mcname] can't decide if it's something he wants?"
-    mes "现在唯一的阻碍是[mcame]不知道这是不是他想要的？"
+    mes "现在唯一的阻碍是，[mcname]不知道这是不是他想要的？"
 
 # game/code/e10/e10s05.rpy:407
 translate chinese e10s05_162b3021:
@@ -706,7 +706,7 @@ translate chinese e10s05_1cb5c920:
 translate chinese e10s05_3cade5e2:
 
     # mes "Well, [mcname]. Can I see you in our office?"
-    mes "嗯，[mcame]。你能来办公室吗？"
+    mes "[mcname]。你能来办公室一趟吗？"
 
 # game/code/e10/e10s05.rpy:416
 translate chinese e10s05_625d9bea:
@@ -718,7 +718,7 @@ translate chinese e10s05_625d9bea:
 translate chinese e10s05_4fed4f7f:
 
     # mes "We'll be back at 6pm er, 18:00 to tell you his decision."
-    mes "我们会在下午6点，呃，18点回来告诉你他的决定。"
+    mes "我们会在下午6点，呃，18点回来，把他的决定告诉你。"
 
 # game/code/e10/e10s05.rpy:422
 translate chinese e10s05_dc4c734a:
@@ -748,13 +748,13 @@ translate chinese e10s05_ea8382c4:
 translate chinese e10s05_791d3611:
 
     # ns "I have an oral fixation, so there's that.{w} Oh! And I'm on the pill so you may come inside me all you want!"
-    ns "我有口欲滞留，所以就是这样。{w}哦！我吃了避孕药，所以你可以随便进入我的身体！"
+    ns "我有口欲滞留，就是这样。{w}还有！我吃了避孕药，所以你可以随便进我身体里！"
 
 # game/code/e10/e10s05.rpy:437
 translate chinese e10s05_635d25cc:
 
     # mes "Do you need more convincing?"
-    mes "你还需要更多的说服力吗？"
+    mes "我还需要劝你吗？"
 
 # game/code/e10/e10s05.rpy:440
 translate chinese e10s05_1c85b0f2:
@@ -766,7 +766,7 @@ translate chinese e10s05_1c85b0f2:
 translate chinese e10s05_266fcfa3:
 
     # mes "Come on.{w} Let's have a little fun together."
-    mes "来吧。{w}我们一起找点乐子吧。"
+    mes "来吧。{w}我们一起找点乐子。"
 
 # game/code/e10/e10s05.rpy:450
 translate chinese e10s05_bf3fdf45:
@@ -832,13 +832,13 @@ translate chinese e10s05_threesome_4678ef46:
 translate chinese e10s05_threesome_5f1005c6:
 
     # ns "I just like rules. They're comforting."
-    ns "我只是喜欢规则。它们让我觉得舒服。"
+    ns "我只是喜欢规则。规则让我觉得舒服。"
 
 # game/code/e10/e10s05.rpy:504
 translate chinese e10s05_threesome_c69e6a4c:
 
     # mc "Speaking of which. If you're still interested-"
-    mc "说到这个。如果你还感兴趣--"
+    mc "说到这个。如果你对加入我们还感兴趣的话--"
 
 # game/code/e10/e10s05.rpy:507
 translate chinese e10s05_threesome_5df275e9:
@@ -850,7 +850,7 @@ translate chinese e10s05_threesome_5df275e9:
 translate chinese e10s05_threesome_83f9284e:
 
     # mc "I just want to be perfectly clear that this has nothing to do with your work, your employment, or anything else-"
-    mc "我只是想完全说清楚，这和你的工作，你的岗位，或者其他任何事情都没有关系-"
+    mc "我只是想完全说清楚，这和你的工作，你的岗位，或者和其他任何事情都没有关系--"
 
 # game/code/e10/e10s05.rpy:513
 translate chinese e10s05_threesome_363d1dde:
@@ -880,7 +880,7 @@ translate chinese e10s05_threesome_e7a94b11:
 translate chinese e10s05_threesome_bf1aecff:
 
     # mes "You're hard, aren't you?"
-    mes "你这么硬了，啊？"
+    mes "你这么硬了，是吧？"
 
 # game/code/e10/e10s05.rpy:538
 translate chinese e10s05_threesome_45281e99:
@@ -982,13 +982,13 @@ translate chinese e10s05_sex_1a484d47:
 translate chinese e10s05_sex_042d702c:
 
     # ns "Wow! You both are really loud when you achieve orgasm."
-    ns "哇！你们俩在达到高潮时都很大声。"
+    ns "哇！你们俩在达到高潮时都很大声啊。"
 
 # game/code/e10/e10s05.rpy:644
 translate chinese e10s05_sex_cce51873:
 
     # mes "Are you a quiet one?"
-    mes "你高潮会很安静吗？"
+    mes "你高潮时会很安静吗？"
 
 # game/code/e10/e10s05.rpy:647
 translate chinese e10s05_sex_47ce4227:
@@ -1000,13 +1000,13 @@ translate chinese e10s05_sex_47ce4227:
 translate chinese e10s05_sex_6e107a81:
 
     # mc "You should try it. Really let it out when you climax."
-    mc "你应该试试。当达到高潮时，要真正地释放出来。在你又硬起来之前，"
+    mc "你应该试试。当达到高潮时，要真正地释放出来。"
 
 # game/code/e10/e10s05.rpy:657
 translate chinese e10s05_sex_5548700c:
 
     # ns "Before you get hard again, could we try something else?"
-    ns "我们能试试别的吗？"
+    ns "在你又硬起来之前，我们能试试别的吗？"
 
 # game/code/e10/e10s05.rpy:660
 translate chinese e10s05_sex_5af23fe7:
@@ -1036,7 +1036,7 @@ translate chinese e10s05_watersports_0a7acf5f:
 translate chinese e10s05_watersports_80dca3c5:
 
     # mes "You've already munched my carpet. Sure, why not?"
-    mes "你已经嚼过我的地毯了。当然可以，试试看吧？"
+    mes "你已经侵略过我下面的地毯了。当然可以，试试看吧？"
 
 # game/code/e10/e10s05.rpy:687
 translate chinese e10s05_watersports_0b896059:
@@ -1048,7 +1048,7 @@ translate chinese e10s05_watersports_0b896059:
 translate chinese e10s05_watersports_d55a5716:
 
     # mes "Or just scissoring."
-    mes "又叫剪刀式。"
+    mes "又叫“剪刀式”。"
 
 # game/code/e10/e10s05.rpy:698
 translate chinese e10s05_watersports_7c27833c:
@@ -1108,7 +1108,7 @@ translate chinese e10s05_watersports_252f0df2:
 translate chinese e10s05_watersports_12a08e0b:
 
     # mes "But I do have a top three list for the best things ever."
-    mes "但我有列出三件最棒的事情。"
+    mes "但我有列出三件最棒的事。"
 
 # game/code/e10/e10s05.rpy:725
 translate chinese e10s05_watersports_2f47aeb4:
@@ -1120,7 +1120,7 @@ translate chinese e10s05_watersports_2f47aeb4:
 translate chinese e10s05_watersports_76a82948:
 
     # mes "Having [mcname] pee on me is the third best thing ever.{w}.. especially in my mouth."
-    mes "让[mcame]尿在我身上是我经历过的第三美妙的事.{w}.. 尤其是尿我嘴里。"
+    mes "让[mcname]尿在我身上是我经历过的排名第三的美妙之事.{w}.. 尤其是尿我嘴里。"
 
 # game/code/e10/e10s05.rpy:732
 translate chinese e10s05_watersports_5314bb6e:
@@ -1150,7 +1150,7 @@ translate chinese e10s05_watersports_1dc01e38:
 translate chinese e10s05_watersports_3784461b:
 
     # mes "...than sucking down [mcname]'s hot piss."
-    mes "...莫过于舔[mcame]的热尿了。"
+    mes "...莫过于舔[mcname]的热尿了。"
 
 # game/code/e10/e10s05.rpy:757
 translate chinese e10s05_watersports_ca5c51f1:
@@ -1222,7 +1222,7 @@ translate chinese e10s05_end_sex_a261ed44:
 translate chinese e10s05_end_sex_171a29a5:
 
     # ns "[mcname], I am ready."
-    ns "[mcame]，我准备好了。"
+    ns "[mcname]，我准备好了。"
 
 # game/code/e10/e10s05.rpy:799
 translate chinese e10s05_end_sex_03b9dffd:
@@ -1330,7 +1330,7 @@ translate chinese e10s05_end_sex_b64c5938:
 translate chinese e10s05_end_sex_c8261340:
 
     # mc "I swear I'm going to cum-"
-    mc "我要高潮了"
+    mc "我要高潮了--"
 
 # game/code/e10/e10s05.rpy:879
 translate chinese e10s05_end_sex_576643ae:
@@ -1342,13 +1342,13 @@ translate chinese e10s05_end_sex_576643ae:
 translate chinese e10s05_end_sex_9cb85c1b:
 
     # mc "...fuck.{w}..Fuck.{w}..FUCK."
-    mc " ...操。{w}..操.{w}..操。我也是"
+    mc " ...操。{w}..操.{w}..操。"
 
 # game/code/e10/e10s05.rpy:885
 translate chinese e10s05_end_sex_a00f6213:
 
     # mes "Cum for me, sweetie. Coat this slut's insides with your hot spoo."
-    mes "亲爱的。用你的滚烫的精液灌满这个荡妇的内脏"
+    mes "为我射出来，亲爱的。用你滚烫的精液灌满这个荡妇的内脏。"
 
 # game/code/e10/e10s05.rpy:889
 translate chinese e10s05_end_sex_62c43011:
@@ -1360,7 +1360,7 @@ translate chinese e10s05_end_sex_62c43011:
 translate chinese e10s05_end_sex_4df20a5f:
 
     # ns "YES! YES YES!!!"
-    ns "给我！给我给我啊啊!!!"
+    ns "给我！给我给我啊!!!"
 
 # game/code/e10/e10s05.rpy:893
 translate chinese e10s05_end_sex_ccf5126d:
