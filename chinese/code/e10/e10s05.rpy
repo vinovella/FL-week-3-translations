@@ -4,253 +4,253 @@
 translate chinese e10s05_7a026cc4:
 
     # ns "Hey boss!"
-    ns "Hey boss!"
+    ns "嘿，老板！"
 
 # game/code/e10/e10s05.rpy:61
 translate chinese e10s05_8e331544:
 
     # mc "Nari, I've told you - you don't need to call me that."
-    mc "Nari, I've told you - you don't need to call me that."
+    mc "纳莉，我告诉过你，不用这么叫我。"
 
 # game/code/e10/e10s05.rpy:64
 translate chinese e10s05_927d1915:
 
     # ns "But, you are the boss."
-    ns "But, you are the boss."
+    ns "但是，你是老板没错啊。"
 
 # game/code/e10/e10s05.rpy:67
 translate chinese e10s05_2fa3b246:
 
     # mc "Well, you're our first employee. I think you can call me [mcname]."
-    mc "Well, you're our first employee. I think you can call me [mcname]."
+    mc "嗯，你是我们的第一个员工。你可以叫我[mcname]."
 
 # game/code/e10/e10s05.rpy:70
 translate chinese e10s05_755b79d7:
 
     # ns "I could.{w}.. but I probably won't."
-    ns "I could.{w}.. but I probably won't."
+    ns 理论上可以.{w}..但我可能不会这么叫。"
 
 # game/code/e10/e10s05.rpy:73
 translate chinese e10s05_178aa920:
 
     # mc "...{w} I'm not going to win this, am I?"
-    mc "...{w} I'm not going to win this, am I?"
+    mc "...{w}在这点上我赢不过你，对吧？"
 
 # game/code/e10/e10s05.rpy:76
 translate chinese e10s05_9ee3958e:
 
     # ns "In information technology we believe, \"If you do not say what you mean, you can never mean what you say\"."
-    ns "In information technology we believe, \"If you do not say what you mean, you can never mean what you say\"."
+    ns "在信息技术领域，我们相信，\"如果你不能言有所衷，就永远不可能表里一致\"。"
 
 # game/code/e10/e10s05.rpy:78
 translate chinese e10s05_da3244a1:
 
     # mct "Sure, and in business management we're taught to never say what you really mean."
-    mct "Sure, and in business management we're taught to never say what you really mean."
+    mct "当然，在企业管理中，我们被教导永远不要说出心里真正的意思。"
 
 # game/code/e10/e10s05.rpy:80
 translate chinese e10s05_1bdef7c2:
 
     # mc "Anyway, what can I do for you?"
-    mc "Anyway, what can I do for you?"
+    mc "好了，你找我是做什么？"
 
 # game/code/e10/e10s05.rpy:83
 translate chinese e10s05_38cbf2eb:
 
     # ns "I was going through your notes again. What you're talking about isn't *technically* HFT."
-    ns "I was going through your notes again. What you're talking about isn't *technically* HFT."
+    ns "我又看了一遍你的笔记。*从技术上讲*，你所说的并不是 HFT."
 
 # game/code/e10/e10s05.rpy:86
 translate chinese e10s05_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "什么意思？"
 
 # game/code/e10/e10s05.rpy:89
 translate chinese e10s05_46772b3c:
 
     # ns "It's not high frequency trading."
-    ns "It's not high frequency trading."
+    ns "这不是高频交易。"
 
 # game/code/e10/e10s05.rpy:92
 translate chinese e10s05_5a8ad4ee:
 
     # mc "*(sigh)* I know what HFT means.{w} Why do you think this isn't HFT?"
-    mc "*(sigh)* I know what HFT means.{w} Why do you think this isn't HFT?"
+    mc "*(叹气)* 我知道HFT是什么意思。{w}你为什么认为这不是高频交易？"
 
 # game/code/e10/e10s05.rpy:95
 translate chinese e10s05_f2537499:
 
     # ns "Okay, then you know that HFT means inserting oneself as a middleman between a declared buyer and a declared seller in a few milliseconds to guarantee a small but certain profit."
-    ns "Okay, then you know that HFT means inserting oneself as a middleman between a declared buyer and a declared seller in a few milliseconds to guarantee a small but certain profit."
+    ns "好吧，那你知道高频交易意味着在几毫秒内自己作为中间人，介入买家和卖家之间，以保证少量但确定的利润。"
 
 # game/code/e10/e10s05.rpy:98
 translate chinese e10s05_10149f10:
 
     # mc "Right. We're not doing that."
-    mc "Right. We're not doing that."
+    mc "对。我们不会那样做。"
 
 # game/code/e10/e10s05.rpy:101
 translate chinese e10s05_4064c22e:
 
     # ns "We aren't even capable of doing that."
-    ns "We aren't even capable of doing that."
+    ns "我们根本没有能力这样做。"
 
 # game/code/e10/e10s05.rpy:104
 translate chinese e10s05_0bc9b8ec:
 
     # mc "So, we're expanding the definition."
-    mc "So, we're expanding the definition."
+    mc "所以，我们扩展了HFT的定义。"
 
 # game/code/e10/e10s05.rpy:107
 translate chinese e10s05_7e865031:
 
     # ns "You can do that?"
-    ns "You can do that?"
+    ns "可以这样吗？"
 
 # game/code/e10/e10s05.rpy:110
 translate chinese e10s05_23420862:
 
     # mc "Sure, why not?{w} HFT is just a marketing term for us. It gets us the investors to do our business."
-    mc "Sure, why not?{w} HFT is just a marketing term for us. It gets us the investors to do our business."
+    mc "当然，为什么不可以？{w} 高频交易对我们来说只是一个营销术语。我们靠它吸引投资者来做生意。"
 
 # game/code/e10/e10s05.rpy:113
 translate chinese e10s05_27367d78:
 
     # ns "And what we're really doing is cross referencing social media posts with movements in the financial markets."
-    ns "And what we're really doing is cross referencing social media posts with movements in the financial markets."
+    ns "我们真正在做的，是将社交媒体上的帖子与金融市场的动态交叉对比。"
 
 # game/code/e10/e10s05.rpy:116
 translate chinese e10s05_8660e364:
 
     # mc "Right. It's called sentiment analysis, but that usually takes hours or days to process."
-    mc "Right. It's called sentiment analysis, but that usually takes hours or days to process."
+    mc "对。这被称为情感分析，但通常需要几个小时或几天的时间来处理。"
 
 # game/code/e10/e10s05.rpy:117
 translate chinese e10s05_4c41ce1f:
 
     # mc "Your job is to get that down to less than 3 seconds."
-    mc "Your job is to get that down to less than 3 seconds."
+    mc "你的任务是把时间缩短到3秒以内。"
 
 # game/code/e10/e10s05.rpy:120
 translate chinese e10s05_7a67b4c7:
 
     # ns "Three seconds isn't high frequency."
-    ns "Three seconds isn't high frequency."
+    ns "三秒不是高频。"
 
 # game/code/e10/e10s05.rpy:123
 translate chinese e10s05_6b7a17d3:
 
     # mc "It's not, but I'm not going to sell anyone on Medium Frequency Transactions."
-    mc "It's not, but I'm not going to sell anyone on Medium Frequency Transactions."
+    mc "没错，但我不会把中频交易卖给任何人。"
 
 # game/code/e10/e10s05.rpy:126
 translate chinese e10s05_dc777ef4:
 
     # ns "Hmm. I'm not sure how I feel about this."
-    ns "Hmm. I'm not sure how I feel about this."
+    ns "嗯。我说不好对此有什么感觉。"
 
 # game/code/e10/e10s05.rpy:127
 translate chinese e10s05_b150009e:
 
     # ns "I mean, in my previous job we had a department whose official job was \"Entry, Transform, and Load\", but which all of us called, \"Collection, Reformat, Alter, and Publish\"."
-    ns "I mean, in my previous job we had a department whose official job was \"Entry, Transform, and Load\", but which all of us called, \"Collection, Reformat, Alter, and Publish\"."
+    ns "我的意思是，在我以前的工作中，我们有一个部门的正式工作是\"输入、转换和加载\"，但我们都叫它\"收集、重新格式化、修改和发布\"，也就是CRAP。"
 
 # game/code/e10/e10s05.rpy:130
 translate chinese e10s05_9a0a6d47:
 
     # mc "You referred to ETL as CRAP?"
-    mc "You referred to ETL as CRAP?"
+    mc "你们把ETL称为CRAP？"
 
 # game/code/e10/e10s05.rpy:133
 translate chinese e10s05_4c6c2516:
 
     # ns "Well, when the CRAP department was created they didn't know ETL would become the buzzword. They just knew they were CRAP jobs."
-    ns "Well, when the CRAP department was created they didn't know ETL would become the buzzword. They just knew they were CRAP jobs."
+    ns "嗯，当CRAP部门成立时，他们不知道EL会成为流行语。他们只知道这些工作如其名，都是垃圾。"
 
 # game/code/e10/e10s05.rpy:136
 translate chinese e10s05_88ac7b43:
 
     # mc "Interesting.{w} You're going to train machine learning to analyze social media for this project, right?"
-    mc "Interesting.{w} You're going to train machine learning to analyze social media for this project, right?"
+    mc "有意思。{w}为了这个项目，你会训练机器学习来分析社交媒体，对吗？"
 
 # game/code/e10/e10s05.rpy:139
 translate chinese e10s05_a55162f3:
 
     # ns "Exactly. Grouping social media posts by geographic location, then identifying correlations between-"
-    ns "Exactly. Grouping social media posts by geographic location, then identifying correlations between-"
+    ns "没错。根据地理位置对社交媒体帖子进行分组，然后确定它们之间的相关性--"
 
 # game/code/e10/e10s05.rpy:142
 translate chinese e10s05_b38c29fe:
 
     # mc "I know how it works.{w} So, internally why don't you refer to it as Social Collection Analysis Training?"
-    mc "I know how it works.{w} So, internally why don't you refer to it as Social Collection Analysis Training?"
+    mc "我知道这是怎么回事。{w}那么，你们内部为什么不把它称为社会收集分析培训呢？"
 
 # game/code/e10/e10s05.rpy:145
 translate chinese e10s05_d2b4efba:
 
     # ns "You want me to do SCAT work?"
-    ns "You want me to do SCAT work?"
+    ns "你想让我做SCAT工作？"
 
 # game/code/e10/e10s05.rpy:148
 translate chinese e10s05_afd74152:
 
     # mc "What do you think?"
-    mc "What do you think?"
+    mc "你怎么想？"
 
 # game/code/e10/e10s05.rpy:151
 translate chinese e10s05_c129ad1f:
 
     # ns "That Is Awesome!"
-    ns "That Is Awesome!"
+    ns "太棒了！"
 
 # game/code/e10/e10s05.rpy:152
 translate chinese e10s05_4f74c241:
 
     # ns "You're the best boss ever!!!"
-    ns "You're the best boss ever!!!"
+    ns "你是最好的老板!!!"
 
 # game/code/e10/e10s05.rpy:166
 translate chinese e10s05_e15c80b9:
 
     # mes "J'Accuse!"
-    mes "J'Accuse!"
+    mes "真造孽！"
 
 # game/code/e10/e10s05.rpy:169
 translate chinese e10s05_83a71ace:
 
     # ns "What?"
-    ns "What?"
+    ns "什么？"
 
 # game/code/e10/e10s05.rpy:172
 translate chinese e10s05_96e91dd2:
 
     # mc "Min?!"
-    mc "Min?!"
+    mc "明?!"
 
 # game/code/e10/e10s05.rpy:175
 translate chinese e10s05_11092ed0:
 
     # mes "J'ACCUSE!!!"
-    mes "J'ACCUSE!!!"
+    mes "造孽啊!!!"
 
 # game/code/e10/e10s05.rpy:178
 translate chinese e10s05_4e4adb22:
 
     # mc "Min! It's not what it looks like!!"
-    mc "Min! It's not what it looks like!!"
+    mc "明！事情不是你想的那样!!"
 
 # game/code/e10/e10s05.rpy:181
 translate chinese e10s05_76cdaf54:
 
     # mes "WHOREMONGER!!!"
-    mes "WHOREMONGER!!!"
+    mes "你这个婊子!!!"
 
 # game/code/e10/e10s05.rpy:184
 translate chinese e10s05_c73fc2d4:
 
     # ns "What?! What's going on???!!!"
-    ns "What?! What's going on???!!!"
+    ns "什么?! 怎么回事???!!!"
 
 # game/code/e10/e10s05.rpy:187
 translate chinese e10s05_1d94e439:
