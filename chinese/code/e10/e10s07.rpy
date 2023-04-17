@@ -16,7 +16,7 @@ translate chinese e10s07_1c20b376:
 translate chinese e10s07_fe7af3f7:
 
     # mc "*whisper* I told you..."
-    mc "*耳语* 我告诉过你..."
+    mc "*耳语* 我就跟你说过..."
 
 # game/code/e10/e10s07.rpy:23
 translate chinese e10s07_8d6682f3:
@@ -46,7 +46,7 @@ translate chinese e10s07_f4bed3f6:
 translate chinese e10s07_73074e14:
 
     # md "I already invested. Not in your funds, but in your business. I currently own 18 percent of the shares."
-    md "我已经投资了。不是投资你的基金，而是投资你的生意。我目前拥有18%的股份。"
+    md "我已经投资了。不是投资你的基金，而是投资生意。我目前有18%的股份。"
 
 # game/code/e10/e10s07.rpy:36
 translate chinese e10s07_f80ecf41:
@@ -82,7 +82,7 @@ translate chinese e10s07_9fbfb41b:
 translate chinese e10s07_31ec27a6:
 
     # mc "Shhh, hon. Let's see what he proposes before we react."
-    mc "嘘，亲爱的，我们先看看他有什么提议再作反应。"
+    mc "嘘，亲爱的，我们先看看他有什么提议，再作反应。"
 
 # game/code/e10/e10s07.rpy:52
 translate chinese e10s07_56e35683:
@@ -100,7 +100,7 @@ translate chinese e10s07_facf1ccf:
 translate chinese e10s07_c87317e7:
 
     # md "Of course, and I assume as CEO you have some shares as well. This offer is quite amicable for everyone involved."
-    md "当然，我想作为首席执行官，你也持有股份的吧。这个提议对所有人都很友好。"
+    md "当然，我想作为CEO，你也持有股份的吧。这个提议对所有人都很友好。"
 
 # game/code/e10/e10s07.rpy:61
 translate chinese e10s07_4c9e924d:
@@ -112,7 +112,7 @@ translate chinese e10s07_4c9e924d:
 translate chinese e10s07_e23d2d85:
 
     # md "[mcname] can remain there as CEO, but we've recently hired some professionals that can do things better than your rag-tag band of employees."
-    md "[mcname]可以继续担任首席执行官，但我们最近聘请了一些专业人士，他们可以比你们这些乌合之众做得更好。"
+    md "[mcname]可以继续担任CEO，但我们最近聘请了一些专业人士，他们可以比你们这些乌合之众做得更好。"
 
 # game/code/e10/e10s07.rpy:67
 translate chinese e10s07_d5f76cc2:
@@ -160,7 +160,7 @@ translate chinese e10s07_3a208ebb:
 translate chinese e10s07_2d8d1978:
 
     # mc "So, the board rejecting your proposal is just a formality."
-    mc "也就是说，董事会拒绝你的提议只是走过场而已。"
+    mc "也就是说，董事会拒绝你的提议只是走走过场而已。"
 
 # game/code/e10/e10s07.rpy:85
 translate chinese e10s07_2035e8ae:
@@ -196,7 +196,7 @@ translate chinese e10s07_7afa6342:
 translate chinese e10s07_1115310a:
 
     # mc "Eun-Soo has other plans. Would you like to tell him?"
-    mc "恩秀有其他的计划。你要告诉他吗？"
+    mc "恩秀有其他计划。你要告诉他吗？"
 
 # game/code/e10/e10s07.rpy:103
 translate chinese e10s07_17eb2bf1:
@@ -232,7 +232,7 @@ translate chinese e10s07_690bfab9:
 translate chinese e10s07_32dd6dfb:
 
     # mc "Thank you again for a lovely meal. I look forward to seeing you again soon."
-    mc "再次感谢您的盛情款待。我期待很快再见。"
+    mc "再次感谢您的盛情款待。期待我们很快再见。"
 
 # game/code/e10/e10s07.rpy:119
 translate chinese e10s07_0045eebf:
@@ -280,13 +280,13 @@ translate chinese e10s07_0d38f696:
 translate chinese e10s07_4ba9f6df:
 
     # mc "I never insulted you. I have offered you nothing but respect."
-    mc "我从来没有侮辱过你。我对你无比尊重。"
+    mc "我从来没有侮辱过您。我对您无比尊重。"
 
 # game/code/e10/e10s07.rpy:140
 translate chinese e10s07_f50a211a:
 
     # mc "All I've asked is that you show us the same respect you expect for yourself."
-    mc "我所要求的就是，你要像尊重自己一样尊重我们。"
+    mc "我所要求的就是，您要像尊重自己一样尊重我们。"
 
 # game/code/e10/e10s07.rpy:144
 translate chinese e10s07_e3febeb4:
@@ -298,7 +298,7 @@ translate chinese e10s07_e3febeb4:
 translate chinese e10s07_168859aa:
 
     # mc "Your guidance is no longer necessary. I can look after Min Eun-Soo."
-    mc "我们不再需要你的指导了。 我可以照顾好闵恩秀。"
+    mc "我们不再需要你的指导了。我可以照顾好闵恩秀。"
 
 # game/code/e10/e10s07.rpy:149
 translate chinese e10s07_4d293f34:
@@ -310,7 +310,7 @@ translate chinese e10s07_4d293f34:
 translate chinese e10s07_df2c6f42:
 
     # md "I understand.{w} I underestimated you. Both of you, apparently."
-    md "我明白。{w} 我低估了你。显然是低估了你们两个。"
+    md "我明白。{w} 我低估了你。也显然低估了你们两个。"
 
 # game/code/e10/e10s07.rpy:153
 translate chinese e10s07_cb4d9027:
@@ -346,13 +346,13 @@ translate chinese e10s07_0c9f5e7b:
 translate chinese e10s07_746e5445:
 
     # mm "And why not? I want grandbabies, and you're brother can't even seem to get a date."
-    mm "为什么不生一个呢？我想要外孙，而你的哥哥似乎连个约会对象都找不到。"
+    mm "为什么不生一个呢？我想要外孙，而你哥哥他连个约会对象都找不到。"
 
 # game/code/e10/e10s07.rpy:171
 translate chinese e10s07_1bf1ef60:
 
     # mb "Hey - I'm just focusing on work right now. There's plenty of time."
-    mb "嘿，我现在只是专注于工作。我们有的是时间。"
+    mb "嘿，我现在只是专注于工作。有的是时间好嘛。"
 
 # game/code/e10/e10s07.rpy:173
 translate chinese e10s07_d135212a:
@@ -418,7 +418,7 @@ translate chinese e10s07_aba73ffa:
 translate chinese e10s07_5c4ff2d1:
 
     # mm "And of course I want lots of grandbabies from both of you as soon as possible."
-    mm "当然，我希望你们俩能尽快给我生很多孙子。"
+    mm "当然，我希望你们俩能尽快给我生很多外孙。"
 
 # game/code/e10/e10s07.rpy:198
 translate chinese e10s07_4eb7943b:
