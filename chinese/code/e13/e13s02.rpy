@@ -4,7 +4,7 @@
 translate chinese e13s02_0ccad110:
 
     # nk "You know the deal, Jim. We'll reopen in a few hours for the evening \"Open Mic Night\", but we're closed for now."
-    nk "  你知道的，吉姆。几小时后我们会在晚上的\"开麦之夜\"重新开业，但我们现在已经关门了。"
+    nk "你知道的，吉姆。几小时后我们会在晚上的\"开麦之夜\"重新开业，但现在我们已经关门了。"
 
 # game/code/e13/e13s02.rpy:84
 translate chinese e13s02_0d80f13c:
@@ -22,7 +22,7 @@ translate chinese e13s02_8e6b9eae:
 translate chinese e13s02_a1218fef:
 
     # "Customer" "Woo! Free drinks! Thanks, Nora!"
-    "客户" "哇!免费饮料!谢谢诺拉!"
+    "顾客" "哇！免费饮料！谢谢你诺拉！"
 
 # game/code/e13/e13s02.rpy:97
 translate chinese e13s02_eeefc10d:
@@ -40,7 +40,7 @@ translate chinese replay_e13s02_10dab207:
 translate chinese replay_e13s02_722aeaa4:
 
     # nk "Think of it as child wrangling practice costs."
-    nk "把它看作是托儿课的费用吧。"
+    nk "把这看作是托儿课的费用吧。"
 
 # game/code/e13/e13s02.rpy:108
 translate chinese replay_e13s02_a3905fb6:
@@ -70,7 +70,7 @@ translate chinese replay_e13s02_37046512:
 translate chinese replay_e13s02_0063df44:
 
     # nk "Oh, I {i}expect{/i} you to."
-    nk " {i}一定{/i}要来哦。"
+    nk "{i}一定{/i}要来哦。"
 
 # game/code/e13/e13s02.rpy:123
 translate chinese replay_e13s02_3f7cd159:
@@ -88,19 +88,19 @@ translate chinese replay_e13s02_e326e5aa:
 translate chinese replay_e13s02_e6216693:
 
     # mc "I thought you might be horny considering the way you were eye fucking me throughout the day."
-    mc "考虑到你一整天都在和我眉来眼去的样子，我想你可能是很饥渴了。"
+    mc "考虑到你一整天都在和我眉来眼去的样子，我想你应该是很饥渴了。"
 
 # game/code/e13/e13s02.rpy:134
 translate chinese replay_e13s02_cbd26234:
 
     # nk "*Soft giggle* Mmm, well you're certainly raring to go. Why don't I give your other head down there some attention?"
-    nk "*轻笑* 嗯，你肯定是欲火焚身了。要我来关注一下你下面的另一个脑袋吗？"
+    nk "*轻笑* 嗯，你肯定是欲火焚身了。要我来关注一下你下面的另一个家伙吗？"
 
 # game/code/e13/e13s02.rpy:145
 translate chinese replay_e13s02_f35b4a9c:
 
     # nk "Yeah, you like my soft hands, don't you?"
-    nk "啊，你喜欢我柔软的手，对吗？"
+    nk "啊，你喜欢我柔软细嫩的手，对吗？"
 
 # game/code/e13/e13s02.rpy:151
 translate chinese replay_e13s02_905561d0:
@@ -118,7 +118,7 @@ translate chinese replay_e13s02_ac5355ef:
 translate chinese replay_e13s02_e6131ea9:
 
     # nk "*Gags* Yeah, sorry. God, I hate this overactive gag reflex I now have."
-    nk "*插科打诨* 是啊，对不起。哎，我真是讨厌现在这种过度活跃的呕吐反射。"
+    nk "*戏谑* 是啊，对不起。哎，我真是讨厌现在这种过度活跃的呕吐反射。"
 
 # game/code/e13/e13s02.rpy:182
 translate chinese replay_e13s02_f38ec24d:
@@ -154,7 +154,7 @@ translate chinese replay_e13s02_ff39dba5:
 translate chinese replay_e13s02_519509e3:
 
     # nk "*Chuckles* It's okay. Did it feel good?"
-    nk "*笑* 没关系。感觉好吗？"
+    nk "*轻笑* 没关系。感觉好吗？"
 
 # game/code/e13/e13s02.rpy:219
 translate chinese replay_e13s02_384fbcba:
@@ -166,19 +166,19 @@ translate chinese replay_e13s02_384fbcba:
 translate chinese replay_e13s02_ccf599fb:
 
     # nk "Hehe, well, looks like we'll have to keep doing that some more to get more practice then."
-    nk "呵，好吧，看来我们得继续这样做，要多多加以练习。"
+    nk "呵，好吧，看来我们得继续这样，要多多加以练习。"
 
 # game/code/e13/e13s02.rpy:225
 translate chinese replay_e13s02_9f5a0c80:
 
     # nk "You wanna get clea— *Yelps*"
-    nk "你想要干- *大叫*"
+    nk "你想干- *兴奋地叫*"
 
 # game/code/e13/e13s02.rpy:230
 translate chinese replay_e13s02_6d87a5e8:
 
     # mc "Oh no, I'm not done yet. I'm not finished until you are."
-    mc "哦，不，我还没享受完呢。你不舒服我就不结束。"
+    mc "才不要，我还没享受完呢。你不舒服我就不结束。"
 
 # game/code/e13/e13s02.rpy:233
 translate chinese replay_e13s02_d9065bbd:
@@ -220,7 +220,7 @@ translate chinese e13s02_vag_5dfc6d4d:
 translate chinese e13s02_vag_d8a0c06b:
 
     # nk "Harder, harder! *Moans* Please, [mcname]. I want you to fuck me as hard as you can."
-    nk "用力，再插深一点！*呻吟*求你，[mcname]。我要你用尽力气肏弄我啊啊"
+    nk "用力，再插深一点！*呻吟* 求你，[mcname]。我要你用尽力气肏弄我啊啊"
 
 # game/code/e13/e13s02.rpy:334
 translate chinese e13s02_anal_932907d8:
@@ -232,7 +232,7 @@ translate chinese e13s02_anal_932907d8:
 translate chinese e13s02_anal_e4b33fef:
 
     # mct "She told me a story about fucking her boyfriend at his parent's house."
-    mct "她给我讲了一个故事，说她在她男朋友父母家和他上床。"
+    mct "她给我讲了个故事，说她在她男朋友父母家和他上床。"
 
 # game/code/e13/e13s02.rpy:338
 translate chinese e13s02_anal_00981cd3:
@@ -244,7 +244,7 @@ translate chinese e13s02_anal_00981cd3:
 translate chinese e13s02_anal_96c71ace:
 
     # mct "The boyfriend's mother asked if they weren't concerned about the baby's safety."
-    mct "她男朋友的妈妈问他们，是否担心孩子的安全。"
+    mct "她男友的妈妈问他们，是否担心孩子的安全。"
 
 # game/code/e13/e13s02.rpy:341
 translate chinese e13s02_anal_bfa0552e:
@@ -256,7 +256,7 @@ translate chinese e13s02_anal_bfa0552e:
 translate chinese e13s02_anal_0f660a06:
 
     # mct "He said, \"Mom - she's got more than one hole.\""
-    mct "他说，\"老妈，她的洞不止一个。\""
+    mct "他说，\"老妈，她又不止一个洞。\""
 
 # game/code/e13/e13s02.rpy:347
 translate chinese e13s02_anal_1f07a747:
@@ -280,7 +280,7 @@ translate chinese e13s02_anal_9804b9da:
 translate chinese e13s02_anal_3fcb50fb:
 
     # mc "You know it."
-    mc "你知道的。"
+    mc "我坏不坏，你是知道的。"
 
 # game/code/e13/e13s02.rpy:359
 translate chinese e13s02_anal_96e3028c:
@@ -310,7 +310,7 @@ translate chinese e13s02_anal_61fffd69:
 translate chinese e13s02_vag_after_anal_25e448bf:
 
     # nk "Woah, stop!"
-    nk "哇，停！"
+    nk "喔，停！"
 
 # game/code/e13/e13s02.rpy:402
 translate chinese e13s02_vag_after_anal_eaab9b23:
@@ -328,7 +328,7 @@ translate chinese e13s02_vag_after_anal_861d514f:
 translate chinese e13s02_vag_after_anal_787955d6:
 
     # nk "An infection could hurt the baby."
-    nk "感染可能会伤害宝宝。"
+    nk "如果感染，可能会伤害宝宝。"
 
 # game/code/e13/e13s02.rpy:409
 translate chinese e13s02_vag_after_anal_6656c3a9:
@@ -364,7 +364,7 @@ translate chinese e13s02_wrap_8c770944:
 translate chinese e13s02_wrap_abb5228f:
 
     # nk "*Laughs* Ha! {w}He can be taught."
-    nk "*笑* 哈！{w}孺子可教。"
+    nk "*大笑* 哈！{w}孺子可教。"
 
 translate chinese strings:
 
