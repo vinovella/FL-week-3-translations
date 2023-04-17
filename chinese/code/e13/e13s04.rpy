@@ -10,13 +10,13 @@ translate chinese e13s04_b0f568c1:
 translate chinese e13s04_93557ce5:
 
     # nk "Did he finally settle down?"
-    nk "他终于安定下来了吗？"
+    nk "他终于肯安静下来了吗？"
 
 # game/code/e13/e13s04.rpy:55
 translate chinese e13s04_9095cd3d:
 
     # mc "Mm. He is an {i}extremely{/i} opinionated young gentleman."
-    mc "嗯，他是个{i}极度{/i}有主见的年轻绅士呢。"
+    mc "嗯，他可是个{i}极度{/i}有主见的小绅士。"
 
 # game/code/e13/e13s04.rpy:56
 translate chinese e13s04_99af8c52:
@@ -28,7 +28,7 @@ translate chinese e13s04_99af8c52:
 translate chinese e13s04_163372bc:
 
     # nk "*Laughs* Unfairly!? Well, I never!"
-    nk "*笑* 不公平!？唉，我真是冤枉!"
+    nk "*笑* 不公平!? 唉，我真是冤枉!"
 
 # game/code/e13/e13s04.rpy:68
 translate chinese replay_e13s04_46d46f1f:
@@ -70,7 +70,7 @@ translate chinese replay_e13s04_4cffdf57:
 translate chinese replay_e13s04_36eec22d:
 
     # nk "Well, I wasn't {i}completely{/i} sure."
-    nk "嗯~我不{i}完全{/i}确定呢。"
+    nk "嗯~ 我不{i}完全{/i}确定呢。"
 
 # game/code/e13/e13s04.rpy:91
 translate chinese replay_e13s04_e39dc5bb:
@@ -100,13 +100,13 @@ translate chinese replay_e13s04_7db49a65:
 translate chinese replay_e13s04_79129c7f:
 
     # nk "The final not-so-blind date *Soft laugh*."
-    nk "最后一次不那么盲目的约会 *轻笑*"
+    nk "让我想起了最后一次不那么盲目的约会。 *轻笑*"
 
 # game/code/e13/e13s04.rpy:108
 translate chinese replay_e13s04_23d73c14:
 
     # mc "Well, it's a long ways away from being final anything if I have a say in it."
-    mc "嗯，如果我有发言权的话，咱们还有很长一段路要走呢。"
+    mc "嗯，如果我有发言权的话，咱们还有很长一段路要共同走过呢。"
 
 # game/code/e13/e13s04.rpy:111
 translate chinese replay_e13s04_cef07d27:
@@ -142,7 +142,7 @@ translate chinese replay_e13s04_c9c8dc7c:
 translate chinese replay_e13s04_ef9e1cab:
 
     # nk "Yes! Fuck, God yes. That feels {i}so{/i} good."
-    nk "啊...人家...{i}受不了{/i}了..."
+    nk "啊！好舒服...人家...{i}受不了{/i}了..."
 
 # game/code/e13/e13s04.rpy:157
 translate chinese replay_e13s04_d0a52e3a:
@@ -154,7 +154,7 @@ translate chinese replay_e13s04_d0a52e3a:
 translate chinese replay_e13s04_37969b53:
 
     # nk "Yes, yes! I'm close! [mcname], I'm gonna—!"
-    nk "不行了不行了!我要泄了啊啊![name]，我要--!"
+    nk "不行了！不行了！我要泄了啊！[mcname]，我要--!"
 
 # game/code/e13/e13s04.rpy:165
 translate chinese replay_e13s04_b7e53779:
@@ -184,19 +184,19 @@ translate chinese replay_e13s04_7b4716ff:
 translate chinese replay_e13s04_a4e4f076:
 
     # nk "*Loud moans* Yes, fuck… Yes! I love you, [mcname]."
-    nk "*大声呻吟* 啊，妈的...继续!我爱你，[mcname]."
+    nk "*大声呻吟* 啊，妈的...继续！我爱你，[mcname]."
 
 # game/code/e13/e13s04.rpy:207
 translate chinese replay_e13s04_dd27a96a:
 
     # nk "Give me another baby! Make me pregnant again!"
-    nk "再给我一个孩子!让我再怀孕一次!"
+    nk "再给我一个孩子！让我再怀孕一次！"
 
 # game/code/e13/e13s04.rpy:218
 translate chinese replay_e13s04_230e9195:
 
     # nk "*Staggered moans* I—I'm gonna cum. Cum with me, [mcname]."
-    nk "*交错的呻吟*我要来了。跟我一起射，[mcname]."
+    nk "*交错的呻吟* 我--要来了。跟我一起射，[mcname]."
 
 # game/code/e13/e13s04.rpy:235
 translate chinese replay_e13s04_6c4a69a8:
