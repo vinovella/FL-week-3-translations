@@ -40,7 +40,7 @@ translate chinese e13s03_d464a456:
 translate chinese e13s03_bce47427:
 
     # mc "Alright, let's go."
-    mc "好，我们走吧。"
+    mc "好，我们走。"
 
 # game/code/e13/e13s03.rpy:52
 translate chinese e13s03_082f7386:
@@ -76,7 +76,7 @@ translate chinese e13s03_after_clip_7c927b78:
 translate chinese e13s03_after_clip_aacd8544:
 
     # "Doctor" "Congratulations, you have one healthy baby boy!"
-    "医生" "恭喜你，你有个健康的男孩儿了!"
+    "医生" "恭喜你，你有个健康的男娃儿了!"
 
 translate chinese strings:
 
