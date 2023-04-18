@@ -4,7 +4,7 @@
 translate chinese e01s02_fd8d44aa:
 
     # mc "Where the fuck are we going?"
-    mc " 我们到底要去哪？"
+    mc "我们到底要去哪？"
 
 # game/code/e01/e01s02.rpy:14
 translate chinese e01s02_b13190df:
@@ -58,7 +58,7 @@ translate chinese e01s02_d7e307e4:
 translate chinese e01s02_d647c5ff:
 
     # mc "You're the only one I want to go to bed with at night and wake up next to in the morning."
-    mc "你是唯一一个我晚上想一起陪着睡觉，早上想一起在身边醒来的人。"
+    mc "你是唯一一个我晚上想一起陪着睡觉，早上想一起醒来的人。"
 
 # game/code/e01/e01s02.rpy:31
 translate chinese e01s02_2609d69d:
@@ -70,7 +70,7 @@ translate chinese e01s02_2609d69d:
 translate chinese e01s02_0cc2e585:
 
     # sy "Okay, enough with the mushy stuff. Let me tell you about your surprise!"
-    sy "好了，不说这些肉麻的话了。我来为你揭开这个惊喜吧!"
+    sy "好了，不说这些肉麻话了。我来为你揭开这个惊喜吧!"
 
 # game/code/e01/e01s02.rpy:35
 translate chinese e01s02_39f27e8d:
@@ -106,7 +106,7 @@ translate chinese e01s02_aad729bb:
 translate chinese e01s02_1fdb905b:
 
     # sy "Gah! Just..."
-    sy "嗐!你就..."
+    sy "嗐！你就..."
 
 # game/code/e01/e01s02.rpy:48
 translate chinese e01s02_a15b4a11:
@@ -124,7 +124,7 @@ translate chinese e01s02_b68059e8:
 translate chinese e01s02_9cef3f26:
 
     # sy "Yeah, but if you work a decent job with raises and inflation and all that - I'd be surprised if you don't make a few million before you turn seventy."
-    sy "是啊，但如果你有一份体面的工作，加上加薪和通货膨胀什么的--如果你在七十岁之前没有赚到几百万，我会很惊讶的。"
+    sy "是啊，但如果你有一份体面的工作，加上加薪和通货膨胀什么的--如果你在七十岁之前还没有赚到几百万，我会很惊讶的。"
 
 # game/code/e01/e01s02.rpy:54
 translate chinese e01s02_d45a66d7:
@@ -136,7 +136,7 @@ translate chinese e01s02_d45a66d7:
 translate chinese e01s02_0c1fa20a:
 
     # sy "Something like that. Enough money that you'll never have to work again."
-    sy "好吧，好吧。所以你是说，我中了乐透，或者去赌场中了头奖。"
+    sy "差不多吧。钱多到你不用再工作的那种。"
 
 # game/code/e01/e01s02.rpy:58
 translate chinese e01s02_d094470a:
@@ -148,13 +148,13 @@ translate chinese e01s02_d094470a:
 translate chinese e01s02_cf421ca5:
 
     # mc "Every fucking relative will come out of the woodwork asking for a few thousand for something or a few hundred thousand to start their own business."
-    mc "每个烦人的亲戚都会突然冒出来，跟我讨几千块做事，或者要几十万来创业。"
+    mc "那些个烦人的亲戚都会突然冒出来，跟我讨几千块做事，或者要几十万来创业。"
 
 # game/code/e01/e01s02.rpy:60
 translate chinese e01s02_e7c95eb8:
 
     # mc "Every time I go to the grocery store or whatever I'd have to worry about scam artists trying to fake injuries and sue me."
-    mc "每次我去杂货店或其他地方，我都得担心骗子碰瓷，假装受伤还起诉我。"
+    mc "每次我去商店买东西或干点什么，我都得担心骗子碰瓷，他们假装受伤还起诉我。"
 
 # game/code/e01/e01s02.rpy:61
 translate chinese e01s02_08cc5e15:
@@ -274,13 +274,13 @@ translate chinese e01s02_43a083f4:
 translate chinese e01s02_e76219fe:
 
     # mc "Speaking of which - when will I get that back?"
-    mc "说到这个，我什么时候能拿回来？"
+    mc "说到这个，我什么时候能拿回来那些东西？"
 
 # game/code/e01/e01s02.rpy:92
 translate chinese e01s02_e9770062:
 
     # sy "As if you need it anymore. Anyway, I've confiscated it for research purposes."
-    sy "好像你还需要它似的。不管怎样，我为了研究目的把它没收了。"
+    sy "好像你还需要它似的。不管怎样，我为了研究用，把它没收了。"
 
 # game/code/e01/e01s02.rpy:94
 translate chinese e01s02_cccc4977:
@@ -310,7 +310,7 @@ translate chinese e01s02_764b69bb:
 translate chinese e01s02_b6933220:
 
     # mc "I don't... we... what?"
-    mc "不是吧...我们...什么？"
+    mc "不是吧...我们...干什么？"
 
 # game/code/e01/e01s02.rpy:104
 translate chinese e01s02_5ff784b2:
@@ -394,7 +394,7 @@ translate chinese e01s02_7627de93:
 translate chinese e01s02_27728f0f:
 
     # sy "Oh, that's the best part! I have some great leads on new talent."
-    sy "哦，那就最棒了!我也有一些线索，可以培养人。"
+    sy "哦，那就最棒了！我也有一些线索，可以培养新人。"
 
 # game/code/e01/e01s02.rpy:129
 translate chinese e01s02_793a8c09:
@@ -466,7 +466,7 @@ translate chinese e01s02_b180d10e:
 translate chinese e01s02_479e5112:
 
     # sy "I might not be able to tell you who did it, but if you went there-"
-    sy "我也许不能告诉你那人是谁，但如果你去了那儿--"
+    sy "我也许说不出来那人是谁，但如果你去到了现场--"
 
 # game/code/e01/e01s02.rpy:152
 translate chinese e01s02_1bf2a72b:
@@ -532,7 +532,7 @@ translate chinese e01s02_7a974976:
 translate chinese e01s02_a37dff9c:
 
     # mc "You created what... some sort of locator for particular fetishes?"
-    mc "你创造了什么...追踪特定性癖的定位器？"
+    mc "你创造了一种...追踪特定性癖的定位器？"
 
 # game/code/e01/e01s02.rpy:174
 translate chinese e01s02_e90338be:
@@ -640,7 +640,7 @@ translate chinese e01s02_aa01dbb5:
 translate chinese e01s02_55c96b26:
 
     # sy "We do almost everything together, but I identify prospective actresses and then you seduce and encourage them to have sex with you... and we film it."
-    sy "我们几乎所有事都一起做，不过我来我确定潜在的女演员，然后你勾引并鼓励她们与你发生关系...我们把它拍下来。"
+    sy "我们几乎所有事都一起做，不过我来我确定潜在的女演员，然后你勾引她们，鼓励她们与你发生关系...我们把它拍下来。"
 
 # game/code/e01/e01s02.rpy:213
 translate chinese e01s02_4b8e92a4:
@@ -652,25 +652,25 @@ translate chinese e01s02_4b8e92a4:
 translate chinese e01s02_a064a748:
 
     # mc "We are NOT going to film sex scenes without their knowledge!!! That's horrible!!!"
-    mc "我们决不能在他们不知情的情况下拍摄性爱场景!!! 太可怕了!!!"
+    mc "我们决不能在她们不知情的情况下拍摄性爱画面!!! 太可怕了!!!"
 
 # game/code/e01/e01s02.rpy:221
 translate chinese e01s02_f9476b57:
 
     # sy "I didn't say anything like that. Of course we'd have them agree on pseudonyms and get consent forms."
-    sy "我可没说过那样的话。当然，我们会让他们就使用假名达成一致，并拿到同意书。"
+    sy "我可没说过那样的话。当然，我们会让她们就使用假名达成一致，我们还会确保她们签下同意书。"
 
 # game/code/e01/e01s02.rpy:223
 translate chinese e01s02_26f775ce:
 
     # mc "Oh. Maybe that's not so bad then, but I still feel like... I dunno..."
-    mc "哦。也许那还不算太糟，但我还是觉得...不知道..."
+    mc "哦。那也许还不算太糟，但我还是觉得...不知道..."
 
 # game/code/e01/e01s02.rpy:225
 translate chinese e01s02_91c8e938:
 
     # sy "Like you're the bait and I'm the fisherman?"
-    sy "觉得你是诱饵，我是渔夫？"
+    sy "还是觉得你是诱饵，我是渔夫？"
 
 # game/code/e01/e01s02.rpy:226
 translate chinese e01s02_70a3db7f:
