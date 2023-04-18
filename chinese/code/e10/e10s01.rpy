@@ -88,19 +88,19 @@ translate chinese e10s01_89a574d9:
 translate chinese e10s01_c97c621f:
 
     # mc "A lick would have sufficed..."
-    mc "舔一下就够了..."
+    mc "本来舔一下就够了..."
 
 # game/code/e10/e10s01.rpy:120
 translate chinese e10s01_bf87cec9:
 
     # mes "A lot has changed in twenty years."
-    mes "二十年来，很多事都变了。"
+    mes "二十年来，社会变得很快呀。"
 
 # game/code/e10/e10s01.rpy:121
 translate chinese e10s01_662cb197:
 
     # mes "Back then, you had to go to a PC bang to use a computer, even. Now even children have a computer in their pockets."
-    mes "那时候必须去网吧房才能用电脑。现在连孩子们口袋里都有电脑了。"
+    mes "那时候必须去网吧房才能用电脑。现在连孩子们都人手一个电脑了。"
 
 # game/code/e10/e10s01.rpy:123
 translate chinese e10s01_4020ede7:
@@ -178,13 +178,13 @@ translate chinese e10s01_09f2de35:
 translate chinese e10s01_68859e1b:
 
     # mes "Yeah. Only men are eligible for conscription. Women can join if they want to, but it's not mandatory."
-    mes "嗯。只有男性才有征兵资格。如果女性愿意，也可以加入，但这不是强制性的。"
+    mes "嗯。只有男性才有征兵资格。如果女性愿意，也可以加入，但女性参军不是强制性的。"
 
 # game/code/e10/e10s01.rpy:158
 translate chinese e10s01_6d97e7c8:
 
     # mes "My brother wanted an exemption, but he didn't qualify. It was a whole mess. My dad wanted me to come down and convince him to join."
-    mes "我哥哥想要豁免，但他没有资格。真是一团糟。我爸爸想让我过去说服他加入。"
+    mes "我哥哥想要豁免，但他没有资格。真是一团糟。我爸爸想让我过去说服他进部队。"
 
 # game/code/e10/e10s01.rpy:159
 translate chinese e10s01_6e4c2ccc:
@@ -232,7 +232,7 @@ translate chinese e10s01_e21c4d7f:
 translate chinese e10s01_56c3991c:
 
     # mc "Why not?"
-    mc "为什么不看他们？"
+    mc "为什么不看了？"
 
 # game/code/e10/e10s01.rpy:177
 translate chinese e10s01_7f28da4d:
@@ -256,7 +256,7 @@ translate chinese e10s01_1590f2e0:
 translate chinese e10s01_80b815e7:
 
     # mc "No, I do. I'm not ashamed of them either."
-    mc "不，挺好的。我也不以他们为耻。"
+    mc "不，挺好的。我反正不以他们为耻。"
 
 # game/code/e10/e10s01.rpy:184
 translate chinese e10s01_fe9bb2d3:
@@ -292,7 +292,7 @@ translate chinese e10s01_31cb0c49:
 translate chinese e10s01_56c03c39:
 
     # mes "I can really go for a smoke."
-    mes "我真的可以去抽根烟。"
+    mes "我真可以去抽根烟。"
 
 # game/code/e10/e10s01.rpy:208
 translate chinese e10s01_3fa0ecd6:
@@ -328,7 +328,7 @@ translate chinese e10s01_795bee30:
 translate chinese e10s01_be3c2319:
 
     # mes "As you should, being one yourself."
-    mes "我说这是你应该做的。"
+    mes "我说，这是你应该做的。"
 
 # game/code/e10/e10s01.rpy:219
 translate chinese e10s01_7c156129:
@@ -340,7 +340,7 @@ translate chinese e10s01_7c156129:
 translate chinese e10s01_e41bfd67:
 
     # mes "Appa, gwenchanayo. Ne. Eomma nin yo?"
-    mes "Appa, gwenchanayo. Ne. Eomma nin yo?"
+    mes "(说着韩语) Appa, gwenchanayo. Ne. Eomma nin yo?"
 
 # game/code/e10/e10s01.rpy:231
 translate chinese e10s01_eb3ddd60:
@@ -358,7 +358,7 @@ translate chinese e10s01_b97a2588:
 translate chinese e10s01_96b0621c:
 
     # mc "Is everything okay? Did he want something?"
-    mc "一切都好吗？他有什么要求吗？"
+    mc "一切都好吗？他想干什么吗？"
 
 # game/code/e10/e10s01.rpy:237
 translate chinese e10s01_1bc0c478:
@@ -370,7 +370,7 @@ translate chinese e10s01_1bc0c478:
 translate chinese e10s01_e62ca33c:
 
     # mc "Oh, God. Don't mention food."
-    mc "天哪。别提食物了。"
+    mc "天哪。别提吃的了。"
 
 # game/code/e10/e10s01.rpy:240
 translate chinese e10s01_3d330bc2:
@@ -388,7 +388,7 @@ translate chinese e10s01_824c43b1:
 translate chinese e10s01_cf995eb5:
 
     # mes "I can never tell if you're joking or not."
-    mes "我从来不知道你是不是在开玩笑。"
+    mes "我从来判断不出来你是不是在开玩笑。"
 
 # game/code/e10/e10s01.rpy:246
 translate chinese e10s01_2694ac5d:
@@ -454,7 +454,7 @@ translate chinese e10s01_4b0fd43b:
 translate chinese e10s01_744fdb6d:
 
     # mc "And it'd be nice for you to introduce me to them."
-    mc "而且，你能把我介绍给他们也不错。。"
+    mc "而且，你能把我介绍给他们也不错。"
 
 # game/code/e10/e10s01.rpy:270
 translate chinese e10s01_3bfd96b8:
@@ -478,7 +478,7 @@ translate chinese e10s01_d9c2c70f:
 translate chinese e10s01_cdce6486:
 
     # mes "My father is more concerned about who's going to run his company after he's gone."
-    mes "我父亲更关心的是他死后谁来管理他的公司。"
+    mes "我父亲更关心的是他死后，谁来管理他的公司。"
 
 # game/code/e10/e10s01.rpy:279
 translate chinese e10s01_ece83362:
@@ -622,7 +622,7 @@ translate chinese e10s01_237762aa:
 translate chinese e10s01_004708c6:
 
     # mc "Yeah, my knees are buckled."
-    mc "是的，我的膝盖被扣住了。"
+    mc "是啊，我的膝盖被扣住了。"
 
 # game/code/e10/e10s01.rpy:332
 translate chinese e10s01_745354df:
@@ -646,7 +646,7 @@ translate chinese e10s01_45fc26bb:
 translate chinese e10s01_2eac4bd5:
 
     # mes "Ahjusshi!"
-    mes "Ahjusshi!"
+    mes "(说着韩语) Ahjusshi!"
 
 # game/code/e10/e10s01.rpy:343
 translate chinese e10s01_2b7b5e27:
@@ -724,7 +724,7 @@ translate chinese e10d01_sex_e0c2a854:
 translate chinese e10d01_sex_4bb8495a:
 
     # mes "Someone will see. Look, there's a camera up there."
-    mes "会有人看到的。看，上面有个摄像头。"
+    mes "早晚都会有人看到的。看，上面有个摄像头。"
 
 # game/code/e10/e10s01.rpy:402
 translate chinese e10d01_sex_7150423f:
@@ -742,7 +742,7 @@ translate chinese e10d01_sex_05443a28:
 translate chinese e10d01_sex_dc5a82fe:
 
     # mc "No! I don't want to spend the night in jail."
-    mc "别!我不想在监狱里过夜。"
+    mc "别！我不想在监狱里过夜。"
 
 # game/code/e10/e10s01.rpy:409
 translate chinese e10d01_sex_8af43924:
@@ -880,7 +880,7 @@ translate chinese e10d01_sex_52297805:
 translate chinese e10d01_sex_25c51c31:
 
     # mct "She's afraid of taking charge in her personal life, and so she's channeling her aggression into sex."
-    mct "她害怕在个人生活中负责任，所以她将自己的攻击性转化到性爱中。"
+    mct "她害怕在个人生活中负责任，所以将自己的攻击性转移到性爱中。"
 
 # game/code/e10/e10s01.rpy:487
 translate chinese e10d01_sex_2a526e60:
@@ -910,7 +910,7 @@ translate chinese e10d01_sex_b9f16d72:
 translate chinese e10d01_sex_95e60284:
 
     # mc "I can feel how wet you're getting."
-    mc "我能感觉到你有多湿。"
+    mc "我能感觉到，你湿透了，流了这么多水。"
 
 # game/code/e10/e10s01.rpy:519
 translate chinese e10d01_sex_b70d89f2:
@@ -940,13 +940,13 @@ translate chinese e10d01_sex_2f3e3777:
 translate chinese e10d01_sex_211f6668:
 
     # mc "Your pussy is so warm and tight."
-    mc "你的蜜穴又热又紧。"
+    mc "妈的，你的蜜穴又热又紧。"
 
 # game/code/e10/e10s01.rpy:577
 translate chinese e10d01_sex_3f258e6a:
 
     # mc "I might get you pregnant, you know?"
-    mc "我可能会让你怀孕，你知道吗？"
+    mc "我可能会让你怀孕，知道吗？"
 
 # game/code/e10/e10s01.rpy:582
 translate chinese e10d01_sex_4be6799a:
@@ -982,13 +982,13 @@ translate chinese e10d01_sex_5bc5723f:
 translate chinese e10d01_sex_505daf63:
 
     # mes "Fuck me harder! Don't stop!"
-    mes "狠狠操我!别停!"
+    mes "狠狠操我！别停！"
 
 # game/code/e10/e10s01.rpy:610
 translate chinese e10d01_sex_b1f8587c:
 
     # mes "Cumming! I'm cumming!"
-    mes "来了来了!我喷了啊!"
+    mes "来了来了！啊！我要喷了！"
 
 # game/code/e10/e10s01.rpy:614
 translate chinese e10d01_sex_b20b5cf4:
@@ -1024,7 +1024,7 @@ translate chinese e10d01_sex_f452b864:
 translate chinese e10d01_sex_3b266d79:
 
     # mes "What, in case I have the smell of piss on me?{w} Go ahead."
-    mes "什么，怕我身上有尿骚味？{w}来吧。"
+    mes "怎么，怕我身上有尿骚味？{w}来吧。"
 
 # game/code/e10/e10s01.rpy:655
 translate chinese e10d01_sex_3cd71903:
@@ -1060,7 +1060,7 @@ translate chinese e10s01_final_sex_f141aa80:
 translate chinese e10s01_final_sex_074f17ae:
 
     # mc "Just tell them you're having sex with me. He'll understand."
-    mc "就告诉他们我们是炮友。他会明白的。"
+    mc "就告诉他们，我们是炮友。他会明白的。"
 
 # game/code/e10/e10s01.rpy:705
 translate chinese e10s01_final_sex_f7ebb51d:
@@ -1072,7 +1072,7 @@ translate chinese e10s01_final_sex_f7ebb51d:
 translate chinese e10s01_final_sex_8f35c282:
 
     # mc "You're tightening up though."
-    mc "你里面在收紧。"
+    mc "呼... 你里面在收紧。"
 
 # game/code/e10/e10s01.rpy:711
 translate chinese e10s01_final_sex_be90e7e2:
