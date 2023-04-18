@@ -362,3 +362,11 @@ translate chinese strings:
     old "Menu"
     new "Menu"
 
+# TODO: Translation updated at 2023-04-18 22:46
+
+translate chinese strings:
+
+    # game/code/screens/screens.rpy:1033
+    old "Connect Your Toy"
+    new "Connect Your Toy"
+
