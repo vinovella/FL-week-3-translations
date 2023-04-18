@@ -22,7 +22,7 @@ translate chinese e10s02_547d3da2:
 translate chinese e10s02_6a8d2208:
 
     # mc "That makes sense. So your parents are-"
-    mc "这就说得通了。那你的父母是--"
+    mc "这就说得通了。那你父母是--"
 
 # game/code/e10/e10s02.rpy:29
 translate chinese e10s02_a962f490:
@@ -46,7 +46,7 @@ translate chinese e10s02_44a04f9b:
 translate chinese e10s02_2303b416:
 
     # mc "Is your father planning on retiring soon?"
-    mc "你爸爸打算不久退休吗？"
+    mc "你爸爸打算不久后退休吗？"
 
 # game/code/e10/e10s02.rpy:41
 translate chinese e10s02_d652d874:
@@ -148,7 +148,7 @@ translate chinese e10s02_b82a39a2:
 translate chinese e10s02_93eef468:
 
     # mc "This is a power play."
-    mc "这是一场权力游戏。"
+    mc "这是一场权力的游戏。"
 
 # game/code/e10/e10s02.rpy:98
 translate chinese e10s02_03ad0a6a:
@@ -160,19 +160,19 @@ translate chinese e10s02_03ad0a6a:
 translate chinese e10s02_75e4ca5c:
 
     # mc "Moreover, you already spoke to M-"
-    mc "而且，你已经和M--"
+    mc "而且，你已经和明--"
 
 # game/code/e10/e10s02.rpy:102
 translate chinese e10s02_bed64e5e:
 
     # mc "-To your daughter. You know who I am. You're just bringing up her ex-boyfriend to amplify your own power."
-    mc "-你已经和你女儿谈过了。你知道我是谁。你提起她的前男友只是想扩大自己的影响力。"
+    mc "--你已经和你女儿谈过了。你知道我是谁。你提起她的前男友只是想扩大自己的影响力。"
 
 # game/code/e10/e10s02.rpy:105
 translate chinese e10s02_91ba1686:
 
     # md "*laughs* Very good, [mcname]. You might not be completely useless after all."
-    md "*笑*非常好，[mcname]。也许你并不是一无是处。"
+    md "*大笑* 非常好，[mcname]。也许你并不是一无是处。"
 
 # game/code/e10/e10s02.rpy:108
 translate chinese e10s02_720a8a8a:
@@ -184,7 +184,7 @@ translate chinese e10s02_720a8a8a:
 translate chinese e10s02_db5d7aef:
 
     # md "No.{w} Please seat down. Lunch will be served."
-    md "不可以。请坐。午餐马上就来。"
+    md "不可以。{w}请坐。午餐马上就来。"
 
 # game/code/e10/e10s02.rpy:123
 translate chinese e10s02_1afa3d8c:
@@ -232,7 +232,7 @@ translate chinese e10s02_3400e76f:
 translate chinese e10s02_18e08b6b:
 
     # md "I suppose you are right, but it does not sit well with me."
-    md "我想你是对的，但我觉得不舒服。"
+    md "也许你是对的，但我觉得不舒服。"
 
 # game/code/e10/e10s02.rpy:145
 translate chinese e10s02_2a063180:
@@ -256,7 +256,7 @@ translate chinese e10s02_c54121d7:
 translate chinese e10s02_be8b63f7:
 
     # mc "Um, actually I've never followed baseball...{w} I could tell you about football, but we have a few months before the season starts."
-    mc "嗯，实际上我从来没有关注过棒球...我可以给你讲讲足球，但我们还有几个月才开始赛季。"
+    mc "嗯，实际上我从来没有关注过棒球...{w} 我可以给你讲讲足球，但我们还有几个月才开始赛季。"
 
 # game/code/e10/e10s02.rpy:157
 translate chinese e10s02_f69562ef:
@@ -292,7 +292,7 @@ translate chinese e10s02_c29c33d4:
 translate chinese e10s02_0ae4d833:
 
     # mct "Oh bother, I have the feeling I'm in for a long story about Bruce's birth..."
-    mct "哦，麻烦了，我感觉我要听她讲关于布鲁斯出生的长故事了..."
+    mct "哦，麻烦了，我感觉我要听她讲关于布鲁斯出生的冗长故事了..."
 
 # game/code/e10/e10s02.rpy:184
 translate chinese e10s02_dc7d891d:
@@ -334,7 +334,7 @@ translate chinese e10s02_2aa454af:
 translate chinese e10s02_31aa10d2:
 
     # mes "Wha-?"
-    mes "什么？"
+    mes "什么--？"
 
 # game/code/e10/e10s02.rpy:202
 translate chinese e10s02_a083872c:
@@ -424,7 +424,7 @@ translate chinese e10s02_a0b6e32f_1:
 translate chinese e10s02_847e583c:
 
     # mc "What the hell, Min?! You're the strongest person that I know. You'd cut a birthday cake with a battle axe."
-    mc "搞什么鬼，明？!你是我认识的最坚强的人。你会用战斧切开一个生日蛋糕。"
+    mc "搞什么鬼，明?! 你是我认识的最坚强的人。你会用战斧切开一个生日蛋糕。"
 
 # game/code/e10/e10s02.rpy:248
 translate chinese e10s02_2febb978:
@@ -436,7 +436,7 @@ translate chinese e10s02_2febb978:
 translate chinese e10s02_b9bbf975:
 
     # mc "Ask her about High Frequency Trading! Ask her about Sentimental Analysis of Social Media! Ask her about what she wants to do with her life!"
-    mc "问她关于高频交易的问题!问问她关于社交媒体的情感分析!问问她这辈子想做什么!"
+    mc "问她关于高频交易的问题！问问她关于社交媒体的情感分析！问问她，这辈子想做什么!"
 
 # game/code/e10/e10s02.rpy:253
 translate chinese e10s02_b9ba7622:
@@ -454,7 +454,7 @@ translate chinese e10s02_9f5fe95d:
 translate chinese e10s02_a27df2e1:
 
     # md "You do not understand. This is our family business. \"Min\" is who we are, and Eun-Soo will follow the path I set down."
-    md "你不明白。这是我们的家族事业。\"明\" 是我们的身份，恩秀会遵循我设定的道路。"
+    md "你不明白。这是我们的家族事业。\"闵\" 是我们的身份，恩秀会遵循我设定的道路。"
 
 # game/code/e10/e10s02.rpy:258
 translate chinese e10s02_508689a3:
@@ -484,7 +484,7 @@ translate chinese e10s02_2b35b6fe:
 translate chinese e10s02_a79134e4:
 
     # md "It seems that the meal is finished. Our guest would not want to overstay his welcome."
-    md "看来，这顿饭已经吃完了。我们的客人可不想待得太久。"
+    md "看来，这顿饭已经吃完了。我们的客人不想在此逗留太久。"
 
 # game/code/e10/e10s02.rpy:273
 translate chinese e10s02_2b35b6fe_1:
@@ -526,19 +526,19 @@ translate chinese e10s02_c18904f9:
 translate chinese e10s02_6a25ef9e:
 
     # mc "You mentioned full-time work. I assume there is a reasonable salary?"
-    mc "Y你提到了全职工作。我想应该有一份合理的薪水吧？"
+    mc "你提到了全职工作。我想应该有一份合理的薪水吧？"
 
 # game/code/e10/e10s02.rpy:289
 translate chinese e10s02_a0c77c71:
 
     # md "She will have a substantial salary on paper. Of course, that will be reinvested in the company and she will receive her allowance from the family cards."
-    md "理论上她会有一份可观的薪水。当然，这些钱将被再投资到公司，她将从家庭账户里获得津贴。"
+    md "理论上她会有一份可观的薪水。当然，这些钱将被再投资到公司，她会从家庭账户里获得津贴。"
 
 # game/code/e10/e10s02.rpy:292
 translate chinese e10s02_0b74165e:
 
     # mc "That is unacceptable. You will track and control her home and purchases?!"
-    mc "这是不可接受的。你们要跟踪并控制她的家，还有消费情况?!"
+    mc "完全没办法接受！你们要跟踪并控制她的住处，还要控制她的消费情况?!"
 
 # game/code/e10/e10s02.rpy:294
 translate chinese e10s02_f01a490b:
@@ -582,5 +582,5 @@ translate chinese strings:
 
     # game/code/e10/e10s02.rpy:224
     old "Tell them that she has other plans"
-    new "告诉他们她有别的计划"
+    new "告诉他们，她有别的计划"
 
