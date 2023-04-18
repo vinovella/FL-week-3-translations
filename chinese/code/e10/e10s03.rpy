@@ -4,7 +4,7 @@
 translate chinese e10s03_9bb71d64:
 
     # mc "*Whistles* Damn. This is one bougie apartment."
-    mc "*口哨* 哇靠。这么豪华的公寓啊。"
+    mc "*吹口哨* 哇靠。这么豪华的公寓啊。"
 
 # game/code/e10/e10s03.rpy:26
 translate chinese e10s03_27401c6f:
@@ -28,7 +28,7 @@ translate chinese e10s03_c8087d18:
 translate chinese e10s03_7cf18945:
 
     # mes "{i}The daughter of the \"illustrious CEO\" needs to have a publicly glamorous apartment.{/i}"
-    mes "{i}\"著名CEO\"的女儿需要有一套光鲜的公寓。{/i}"
+    mes "总之{i}\"著名CEO\"的女儿需要有一套光鲜的公寓。{/i}"
 
 # game/code/e10/e10s03.rpy:38
 translate chinese e10s03_b2b9e19d:
@@ -40,13 +40,13 @@ translate chinese e10s03_b2b9e19d:
 translate chinese e10s03_9e5ad24c:
 
     # mes "It means it's all a ploy to keep up appearances to the outside world."
-    mes "就是说，这一切都不过是个策略，只是为了在外界面前保持形象。"
+    mes "就是说，这一切都不过是个策略，只是为了让他在外界面前保持形象。"
 
 # game/code/e10/e10s03.rpy:42
 translate chinese e10s03_3c0c0f5d:
 
     # mes "My comfort is just a nice little bonus."
-    mes "我个人的舒适度只是基于此的一个小奖励。"
+    mes "我个人的舒适度只是基于他的良好形象的一个小奖励。"
 
 # game/code/e10/e10s03.rpy:46
 translate chinese e10s03_297d66b0:
@@ -64,7 +64,7 @@ translate chinese e10s03_039656b2:
 translate chinese e10s03_25392970:
 
     # mc "Damn if I wouldn't like to be controlled like {i}this{/i}."
-    mc "如果不喜欢像{i}这样{/i}被控制的话，那真是操蛋了。"
+    mc "如果不喜欢被控制过上{i}这样{/i}的生活，那真是操蛋了。"
 
 # game/code/e10/e10s03.rpy:54
 translate chinese e10s03_81aef917:
@@ -286,7 +286,7 @@ translate chinese e10s03_c3949d9f:
 translate chinese e10s03_b0a496bf:
 
     # mes "I would've preferred hard labor."
-    mes "我更喜欢艰苦的劳动。"
+    mes "我更喜欢艰苦劳动。"
 
 # game/code/e10/e10s03.rpy:197
 translate chinese e10s03_e56a89b9:
@@ -310,7 +310,7 @@ translate chinese e10s03_36197f1d:
 translate chinese e10s03_62bf1979:
 
     # mc "Do you want me to order some dinner real quick, though?"
-    mc "你想让我快速点一些晚餐吗？"
+    mc "你要不要我去点几样快餐？"
 
 # game/code/e10/e10s03.rpy:209
 translate chinese e10s03_d472ee2d:
@@ -382,7 +382,7 @@ translate chinese e10s03_motage_end_f20be193:
 translate chinese e10s03_motage_end_087444d0:
 
     # mc "From this existence where we watch idly as life drifts away. This life where we barely touch each other anymore."
-    mc "从这个我们无所事事地看着生命流逝的状态中摆脱出来。在这种生活中，我们几乎没有接触过彼此。"
+    mc "从这个我们无所事事地看着生命流逝的状态中摆脱出来。在这样的生活里，我们几乎没有接触过彼此。"
 
 # game/code/e10/e10s03.rpy:447
 translate chinese e10s03_motage_end_ce24f3e9:
@@ -436,7 +436,7 @@ translate chinese e10s03_motage_end_26273f8d:
 translate chinese e10s03_motage_end_74d8fedb:
 
     # mc "If I have an abundance of anything, it's time, so I've been using that time to research and learn more about HFTUSA—though I haven't had time to workshop a good name for it."
-    mc "要说我有什么无尽的资源，那就是时间，所以我一直在利用这段时间来研究和学习更多关于hfusa的知识--尽管我还来得及为它起个好名字。"
+    mc "要说我有什么无尽的资源，那就是时间，所以我一直在利用这段时间来研究和学习更多关于HFTUSA的知识--尽管我还没来得及为它起个好名字。"
 
 # game/code/e10/e10s03.rpy:470
 translate chinese e10s03_motage_end_65724075:
@@ -502,7 +502,7 @@ translate chinese e10s03_motage_end_b27675ec:
 translate chinese e10s03_motage_end_80447ba0:
 
     # mc "But I know that you can't do that while also working at your father's place.{w} So let me {i}help{/i}.{w} Together, we can do this."
-    mc "但我知道你不能一边在你父亲那里工作，一边又这样。我来{i}帮你{/i}。{w}我们一起努力，就能做到..."
+    mc "但我知道你不能一边在你父亲那里工作，一边又来这里。我来{i}帮你{/i}。{w}我们一起努力，就能做到。"
 
 # game/code/e10/e10s03.rpy:495
 translate chinese e10s03_motage_end_ac49604b:
