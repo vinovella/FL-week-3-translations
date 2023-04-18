@@ -10,7 +10,7 @@ translate chinese e01s01_48c97c49:
 translate chinese e01s01_ae1518b4:
 
     # sy "*Giggles* Oops, sorry."
-    sy "*傻笑* 哦，对不起。"
+    sy "*咯咯笑* 哦，对不起。"
 
 # game/code/e01/e01s01.rpy:215
 translate chinese e01s01_f70df938:
@@ -130,7 +130,7 @@ translate chinese e01s01_6412f819:
 translate chinese e01s01_257e25aa:
 
     # sy "Regardless, the point is that we do a lot of {i}different{/i} fetishes."
-    sy "不管怎样，关键是我们做了很多{i}不同的{/i}性癖。"
+    sy "不管怎样，关键是我们尝试了很多{i}不同的{/i}性癖。"
 
 # game/code/e01/e01s01.rpy:256
 translate chinese e01s01_585bbc63:
@@ -172,7 +172,7 @@ translate chinese e01s01_72425dce:
 translate chinese e01s01_b2e06c7f:
 
     # sy "We'll then take the stuff that we match on and do 'em! Simple as that."
-    sy "说然后我们就选出彼此匹配的性癖，开始行动！就是这么简单。"
+    sy "然后我们就选出彼此匹配的性癖，开始行动！就是这么简单。"
 
 # game/code/e01/e01s01.rpy:268
 translate chinese e01s01_f84339fd:
@@ -280,7 +280,7 @@ translate chinese e01s01_choice_done_33503503:
 translate chinese e01s01_choice_done_721b8bfc:
 
     # mc "{i}That{/i}, I'm fine with."
-    mc "{i}那个啊 {/i}，我没问题"
+    mc "{i}那个啊 {/i}，我没问题。"
 
 # game/code/e01/e01s01.rpy:315
 translate chinese e01s01_choice_done_43b5a0a7:
@@ -304,7 +304,7 @@ translate chinese e01s01_choice_done_280a6d52:
 translate chinese e01s01_choice_done_06815254:
 
     # mc "I think I am, but we'll have to try and find out, won't we?"
-    mc "我想着是没问题，但我们得试着去了解一下，不是吗？"
+    mc "我想着是没问题，但实际还是得试着去了解一下，不是吗？"
 
 # game/code/e01/e01s01.rpy:323
 translate chinese e01s01_choice_done_e8be3e65:
@@ -340,13 +340,13 @@ translate chinese e01s01_choice_done_a7da4738:
 translate chinese e01s01_choice_done_2a2cd37d:
 
     # mc "Hey! No judging."
-    mc "嘿！不能评判的。"
+    mc "嘿！不要做评判好嘛。"
 
 # game/code/e01/e01s01.rpy:341
 translate chinese e01s01_choice_done_bf56ff69:
 
     # sy "No judging here. Just making observations."
-    sy "没做评判。只是观察而已。"
+    sy "没做评判。观察观察而已。"
 
 # game/code/e01/e01s01.rpy:343
 translate chinese e01s01_choice_done_6c988c90:
@@ -448,7 +448,7 @@ translate chinese e01s01_choice_done_b02e4d08:
 translate chinese e01s01_choice_done_431c4705:
 
     # sy "Come and make me scream, [mcname]."
-    sy "让我尖叫吧，[mcname]。"
+    sy "让我为你叫出来，[mcname]。"
 
 # game/code/e01/e01s01.rpy:401
 translate chinese e01s01_choice_done_3361410e:
@@ -460,13 +460,13 @@ translate chinese e01s01_choice_done_3361410e:
 translate chinese e01s01_choice_done_ecb25ec0:
 
     # sy "I can't wait to feel you fill me up."
-    sy "我要感受你的大鸡巴填满我的感觉！"
+    sy "我要感受你的大鸡巴狠狠地插我、填满我的感觉！"
 
 # game/code/e01/e01s01.rpy:419
 translate chinese e01s01_choice_done_e9580aa3:
 
     # sy "*Moans* God, I will never get tired of your dick."
-    sy "*呻吟*哈啊，我永远不会厌倦你的鸡巴。"
+    sy "*呻吟* 哈啊，我永远不会厌倦你的鸡巴。"
 
 # game/code/e01/e01s01.rpy:429
 translate chinese e01s01_choice_done_41b911f5:
@@ -550,7 +550,7 @@ translate chinese e01s01_choice_done_ff93f057:
 translate chinese e01s01_choice_done_6b7d247c:
 
     # sy "*Muted moans of pleasure* Why does this feel so {i}good{/i}."
-    sy "*快乐的轻声呻吟*为什么感觉这么{i}爽{/i}？"
+    sy "*快乐的轻声呻吟* 为什么感觉这么{i}爽{/i}？"
 
 # game/code/e01/e01s01.rpy:480
 translate chinese e01s01_choice_done_1f70b2da:
@@ -604,7 +604,7 @@ translate chinese e01s01_choice_done_7d4458e1:
 translate chinese e01s01_choice_done_d5f73df3:
 
     # sy "No. Just...go slow."
-    sy "不要。只是...慢慢来。"
+    sy "不要。慢...慢来就行。"
 
 # game/code/e01/e01s01.rpy:502
 translate chinese e01s01_choice_done_e701b72f:
@@ -616,7 +616,7 @@ translate chinese e01s01_choice_done_e701b72f:
 translate chinese e01s01_choice_done_ec2e2e7a:
 
     # sy "*Staggered moans of pleasure* Fuck.{w} Yes.{w} Yes.{w} Yes!"
-    sy "*快乐的交错呻吟声* 操。{w} 要死了。{w} 要死了。{w} 爽死我了啊！"
+    sy "*快乐的交错呻吟声* 操。{w}要死了。{w}要死了。{w}爽死我了啊！"
 
 # game/code/e01/e01s01.rpy:515
 translate chinese e01s01_choice_done_083ec9a2:
@@ -646,19 +646,19 @@ translate chinese e01s01_choice_done_39983d6e:
 translate chinese e01s01_choice_done_dd6ede0c:
 
     # sy "*Louder and louder moans* Fuuuck, I'm gonna cum! Cum with me!"
-    sy "*越来越大的呻吟声* 哈~啊~我要来了！和我一起射！"
+    sy "*越来越大的呻吟声* 哈~ 啊~ 我要来了！和我一起射！"
 
 # game/code/e01/e01s01.rpy:557
 translate chinese e01s01_choice_done_8e474f2e:
 
     # sy "*Quivers and whimpers* I can feel your cum inside. It feels warm."
-    sy "*颤抖着呜咽* 我能感觉到你的精液在里面。感觉很暖和。"
+    sy "*颤抖着呜咽* 我能感觉到你的精液在里面...好暖和..."
 
 # game/code/e01/e01s01.rpy:563
 translate chinese e01s01_choice_done_736abc08:
 
     # sy "*Quivers and whimpers* I can feel your cum on my ass. It feels warm."
-    sy "*颤抖着呜咽* 我能感觉到你的精液在我屁股上，感觉很暖和。"
+    sy "*颤抖着呜咽* 我能感觉到你的精液在我屁股上...好暖和..."
 
 # game/code/e01/e01s01.rpy:566
 translate chinese e01s01_choice_done_4d492940:
@@ -712,7 +712,7 @@ translate chinese e01s01_scene_vanilla_01_ce461a90:
 translate chinese e01s01_scene_vanilla_01_5efbea12:
 
     # mc "You're so fucking tight for me."
-    mc "你真他妈紧。"
+    mc "骚货，你真他妈紧。"
 
 # game/code/e01/e01s01.rpy:638
 translate chinese e01s01_scene_vanilla_01_c1aa2ed4:
@@ -724,13 +724,13 @@ translate chinese e01s01_scene_vanilla_01_c1aa2ed4:
 translate chinese e01s01_scene_vanilla_01_58b99472:
 
     # sy "*Moans loudly* I love you too, [mcname]!"
-    sy "*大声呻吟*我也爱你，[mcname]！"
+    sy "*大声呻吟* 我也爱你，[mcname]！"
 
 # game/code/e01/e01s01.rpy:641
 translate chinese e01s01_scene_vanilla_01_8bbb72db:
 
     # sy "Now fuck me harder!"
-    sy "再猛一点操我！"
+    sy "狠狠地操我！"
 
 # game/code/e01/e01s01.rpy:643
 translate chinese e01s01_scene_vanilla_01_2eec2dcb:
@@ -754,13 +754,13 @@ translate chinese e01s01_scene_vanilla_02_807ac9ef:
 translate chinese e01s01_scene_vanilla_02_a34008f8:
 
     # mc "In jealousy, maybe."
-    mc "嫉妒的看着吧。"
+    mc "让他们嫉妒的看着吧。"
 
 # game/code/e01/e01s01.rpy:676
 translate chinese e01s01_scene_vanilla_02_9a82983e:
 
     # sy "You make me feel so fucking good, [mcname]."
-    sy "你让我真的很舒服，[mcname]。"
+    sy "你真的让我很舒服，[mcname]。"
 
 # game/code/e01/e01s01.rpy:686
 translate chinese e01s01_scene_bdsm_dom_1c07c505:
@@ -808,7 +808,7 @@ translate chinese e01s01_scene_bdsm_dom_806e91ba:
 translate chinese e01s01_scene_bdsm_dom_93cf0240:
 
     # sy "*Squirms in painful pleasure* No! Please, Sir! I'm too sensitive right now!"
-    sy "*在痛苦的快感中乱扭* 不要了！求求你,先生！我现在太敏感了！"
+    sy "*在痛苦的快感中乱扭* 不要了！求求你，先生！我现在太敏感了！"
 
 # game/code/e01/e01s01.rpy:707
 translate chinese e01s01_scene_bdsm_dom_59f9e686:
@@ -862,7 +862,7 @@ translate chinese e01s01_scene_bdsm_dom_05482e8a:
 translate chinese e01s01_scene_bdsm_dom_1d14349b:
 
     # sy "Yea— *Burps*"
-    sy "好吃-*打嗝*"
+    sy "好吃-- *打嗝*"
 
 # game/code/e01/e01s01.rpy:751
 translate chinese e01s01_scene_bdsm_dom_98b9998c:
@@ -898,7 +898,7 @@ translate chinese e01s01_scene_bdsm_dom_9d6593ad:
 translate chinese e01s01_scene_bdsm_dom_cf3c01db:
 
     # mc "I'm gonna jam my cock so far up your ass, you'll be shitting my cum for days."
-    mc "我要把我的鸡巴塞进你的屁眼里，你会拉我的精液好几天。"
+    mc "我要把我的鸡巴塞进你屁眼里，接下来好几天，你拉屎都会含着我的精液。"
 
 # game/code/e01/e01s01.rpy:775
 translate chinese e01s01_scene_bdsm_dom_39b467f9:
@@ -910,13 +910,13 @@ translate chinese e01s01_scene_bdsm_dom_39b467f9:
 translate chinese e01s01_scene_bdsm_dom_6baff035:
 
     # sy "Yes! Yes, please! Give me your cum, Sir!"
-    sy "是的！是的,求你给我！把你的精液给我，先生！"
+    sy "是的！我想要，求你给我！把你的精液给我，主人！"
 
 # game/code/e01/e01s01.rpy:780
 translate chinese e01s01_scene_bdsm_dom_c9bfe73d:
 
     # sy "*Voice quivers* Oooh, I can feel it! Oh God, fuck, it feels so good!"
-    sy "*声音颤抖* 哦，我能感觉到你的精液！天啊，这感觉太棒了！"
+    sy "*声音颤抖* 哦，我能感觉到你的精液！天啊，感觉...好美啊啊！"
 
 # game/code/e01/e01s01.rpy:782
 translate chinese e01s01_scene_bdsm_dom_a20cefa7:
@@ -1036,7 +1036,7 @@ translate chinese e01s01_scene_bdsm_sub_38f6cf02:
 translate chinese e01s01_scene_bdsm_sub_67d11845:
 
     # sy "Laughs* Good boy!"
-    sy "笑*好孩子！"
+    sy "笑* 好孩子！"
 
 # game/code/e01/e01s01.rpy:857
 translate chinese e01s01_scene_bdsm_sub_4ec6563d:
@@ -1096,7 +1096,7 @@ translate chinese e01s01_scene_bdsm_sub_7280a3f0:
 translate chinese e01s01_scene_bdsm_sub_e2f1b8d7:
 
     # sy "You're gonna take my cock like a good little slut, got it? I don't want to hear a peep from you."
-    sy "你要像个小荡妇一样拿着我的鸡巴，明白吗？我不想听到你的任何声音。"
+    sy "你要像个小荡妇一样拿着我的鸡巴，明白吗？我不想听到你发出任何声音。"
 
 # game/code/e01/e01s01.rpy:885
 translate chinese e01s01_scene_bdsm_sub_3a16b025:
@@ -1276,7 +1276,7 @@ translate chinese e01s01_scene_watersports_a806bf69:
 translate chinese e01s01_scene_watersports_b114773b:
 
     # sy "*Giggling* This feels so wrong, but it's so hot!"
-    sy "*咯咯笑*这感觉太不对劲了，但耐不住又这么性感！"
+    sy "*咯咯笑* 这感觉太不对劲了，但耐不住又这么性感！"
 
 # game/code/e01/e01s01.rpy:998
 translate chinese e01s01_scene_watersports_60f63ab2:
@@ -1288,13 +1288,13 @@ translate chinese e01s01_scene_watersports_60f63ab2:
 translate chinese e01s01_scene_watersports_bc11483c:
 
     # sy "*Loud moans* Fuck, [mcname]! God that feels fucking amazing."
-    sy "*大声呻吟*操，[mcname]！天啊，这感觉太棒了。"
+    sy "*大声呻吟* 操，[mcname]！天啊，这感觉太棒了。"
 
 # game/code/e01/e01s01.rpy:1004
 translate chinese e01s01_scene_watersports_a76a144b:
 
     # sy "Stop, stop. Please. Fuck me. I wanna feel you inside of me."
-    sy "停，停停。求你干我。我想感受你插我的感觉。"
+    sy "停，停停停。求你干我。我想感受你在我里面抽插的感觉。"
 
 # game/code/e01/e01s01.rpy:1006
 translate chinese e01s01_scene_watersports_11f36ed7:
@@ -1306,13 +1306,13 @@ translate chinese e01s01_scene_watersports_11f36ed7:
 translate chinese e01s01_scene_watersports_49d16ca0:
 
     # sy "*Voice quivers* Yes... Fuck... Yes..."
-    sy "*声音颤抖着*啊...啊...好爽..."
+    sy "*声音颤抖着* 啊... 啊... 好爽..."
 
 # game/code/e01/e01s01.rpy:1033
 translate chinese e01s01_scene_watersports_b573d2e0:
 
     # sy "Staggered moans* Oh my God, [mcname]. It feels weird."
-    sy "交错的呻吟*天啊，[mcname]。感觉很奇怪。"
+    sy "交错的呻吟* 天啊，[mcname]。感觉很奇怪。"
 
 # game/code/e01/e01s01.rpy:1034
 translate chinese e01s01_scene_watersports_d535cba4:
@@ -1342,13 +1342,13 @@ translate chinese e01s01_scene_watersports_ba6ec926:
 translate chinese e01s01_scene_watersports_38776729:
 
     # sy "I wanna feel your cum and piss inside of me."
-    sy "我想感受你的精液和尿都在我体内的感觉。"
+    sy "我想感受你的精液和尿液都在我体内的感觉。"
 
 # game/code/e01/e01s01.rpy:1052
 translate chinese e01s01_scene_watersports_e27c6a54:
 
     # sy "*Giggles* That's so hot."
-    sy "*轻笑* 魂都没了。"
+    sy "*轻笑* 我魂儿都没了。"
 
 # game/code/e01/e01s01.rpy:1054
 translate chinese e01s01_scene_watersports_cf5a8618:
@@ -1372,7 +1372,7 @@ translate chinese e01s01_inbetween_1_7834020e:
 translate chinese e01s01_inbetween_1_ca7f0397:
 
     # mc "*Laughs* I guess you'll need plenty of energy to keep going."
-    mc "*笑*看来你需要补充能量才能继续前进了。"
+    mc "*笑* 看来你需要补充能量才能继续前进了。"
 
 # game/code/e01/e01s01.rpy:1102
 translate chinese e01s01_inbetween_2_7d6bc20d:
@@ -1402,7 +1402,7 @@ translate chinese e01s01_inbetween_3_7d05dd5d:
 translate chinese e01s01_inbetween_3_2fffe059:
 
     # sy "Yeah... But I think I stretched something."
-    sy "还好...但我觉得我是不是拉伤了。"
+    sy "还好...但我觉得自己是不是拉伤了。"
 
 # game/code/e01/e01s01.rpy:1121
 translate chinese e01s01_inbetween_3_ad09b856:
@@ -1456,7 +1456,7 @@ translate chinese e01s01_inbetween_3_ab60044a:
 translate chinese e01s01_inbetween_3_85c8f185:
 
     # sy "I am. Now come and kiss me."
-    sy "我就是。来吻我吧。"
+    sy "我就是贪得无厌。来吻我。"
 
 # game/code/e01/e01s01.rpy:1154
 translate chinese e01s01_inbetween_4_9e98f7af:
@@ -1504,13 +1504,13 @@ translate chinese e01s01_inbetween_4_f3a1a299:
 translate chinese e01s01_inbetween_5_f0be0c1e:
 
     # sy "Where the hell is it!? It could've just disappeared, we used it just yesterday!"
-    sy "它到底在哪！？怎么就这么消失了，我们昨天还用过呢！"
+    sy "它到底在哪!? 怎么就这么消失了，我们昨天还用过呢！"
 
 # game/code/e01/e01s01.rpy:1192
 translate chinese e01s01_inbetween_5_09c36e88:
 
     # mc "Did we throw it out? We finished one of the bottles, right?"
-    mc "我们把它扔了吗？我们用完了一瓶，对吧？"
+    mc "我们把它扔了吗？之前用完了一瓶，对吧？"
 
 # game/code/e01/e01s01.rpy:1193
 translate chinese e01s01_inbetween_5_e4d41dcf:
@@ -1540,7 +1540,7 @@ translate chinese e01s01_inbetween_5_aa2fb29a:
 translate chinese e01s01_inbetween_5_e237d4dc:
 
     # mc "Well... We don't {i}have{/i} to. I'm sure with enough spit and some...{i}persuading{/i}, we can get you to open up just fine."
-    mc "嗯...我们不用非得去买。我相信只要有足够的口水还有...{i}口头抚慰{/i}，你会张得很开的。"
+    mc "嗯...我们不用{i}非得去{/i}买。我相信只要有足够的口水还有...{i}口头抚慰{/i}，你会张得很开的。"
 
 # game/code/e01/e01s01.rpy:1205
 translate chinese e01s01_inbetween_5_69379607:
@@ -1582,7 +1582,7 @@ translate chinese e01s01_inbetween_finale_2170fd5d:
 translate chinese e01s01_inbetween_finale_8a6a4f96:
 
     # sy "{size=20}I wouldn't mind another round or two... {i}If you have it in you.{/i}{/size}"
-    sy "{size=20}我不介意再来一两轮...{i}如果你还行的话{/i}{/size}"
+    sy "{size=20}我不介意再来一两轮...{i}如果你还行的话。{/i}{/size}"
 
 # game/code/e01/e01s01.rpy:1229
 translate chinese e01s01_inbetween_finale_f5f1a451:
@@ -1600,7 +1600,7 @@ translate chinese e01s01_inbetween_finale_b41f5199:
 translate chinese e01s01_finale_3022d55e:
 
     # sy "*Moans loudly* I'm gon— I'm gonna cum. I'm gonna fucking pass out."
-    sy "*大声呻吟*我要-我要来了。我他妈要昏过去了。"
+    sy "*大声呻吟* 我要--我要来了。我他妈要去了啊..."
 
 # game/code/e01/e01s01.rpy:1256
 translate chinese e01s01_finale_3a7b618c:
@@ -1624,7 +1624,7 @@ translate chinese e01s01_finale_95c7633a:
 translate chinese e01s01_finale_8b14f7f4:
 
     # sy "That was... *Catches her breath* Just what I wanted."
-    sy "真是...*屏住呼吸* 正是我想要的。"
+    sy "真是... *屏住呼吸* 正是我想要的。"
 
 # game/code/e01/e01s01.rpy:1284
 translate chinese e01s01_finale_7b471f6f:
@@ -1670,7 +1670,7 @@ translate chinese strings:
 
     # game/code/e01/e01s01.rpy:1225
     old "Let's do it all over again"
-    new "让我们重开始"
+    new "让我们重新开始"
 
     # game/code/e01/e01s01.rpy:1225
     old "Let's finish this"
