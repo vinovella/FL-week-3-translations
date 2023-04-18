@@ -46,7 +46,7 @@ translate chinese e10s07_f4bed3f6:
 translate chinese e10s07_73074e14:
 
     # md "I already invested. Not in your funds, but in your business. I currently own 18 percent of the shares."
-    md "我已经投资了。不是投资你的基金，而是投资生意。我目前有18%的股份。"
+    md "我已经投资了。不是投资你的基金，而是投资生意。我目前有18%%的股份。"
 
 # game/code/e10/e10s07.rpy:36
 translate chinese e10s07_f80ecf41:

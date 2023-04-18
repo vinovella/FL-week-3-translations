@@ -28,7 +28,7 @@ translate chinese e10s05_2fa3b246:
 translate chinese e10s05_755b79d7:
 
     # ns "I could.{w}.. but I probably won't."
-    ns 理论上可以.{w}..但我应该不会这么叫。"
+    ns "理论上可以.{w}..但我应该不会这么叫。"
 
 # game/code/e10/e10s05.rpy:73
 translate chinese e10s05_178aa920:
