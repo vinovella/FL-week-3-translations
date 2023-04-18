@@ -362,3 +362,11 @@ translate portuguese strings:
     old "Endings"
     new ""
 
+# TODO: Translation updated at 2023-04-18 22:49
+
+translate portuguese strings:
+
+    # game/code/screens/screens.rpy:1033
+    old "Connect Your Toy"
+    new ""
+

@@ -950,3 +950,10 @@ translate portuguese strings:
     old "Cum on your wife's face"
     new "Gozar no rosto da sua esposa"
 
+# TODO: Translation updated at 2023-04-18 22:49
+
+# game/code/e08/e08s07.rpy:1029
+translate portuguese e08s07_next_day_191559e1:
+
+    # mc "What's up?"
+    mc "O que houve?"
