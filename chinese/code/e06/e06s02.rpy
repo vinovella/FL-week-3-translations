@@ -826,7 +826,7 @@ translate chinese e06s02_inside_ef31455a:
 translate chinese e06s02_inside_3a9a551c:
 
     # mes "Mmhmm. You're going to keep seeing this... and so much more."
-    mes "嗯哼。你永远都能欣赏到这一幕...还有更多呢。
+    mes "嗯哼。你永远都能欣赏到这一幕...还有更多呢。"
 
 # game/code/e06/e06s02.rpy:519
 translate chinese e06s02_inside_7ae09767:
