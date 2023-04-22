@@ -4,85 +4,85 @@
 translate portuguese ending_not_available_984be117:
 
     # "This ending will be implemented later."
-    ""
+    "Esse final será implementado depois."
 
 # game/code/endings.rpy:251
 translate portuguese ending_not_available_8ffd33e4:
 
     # "You can save the game here and experience this ending once it will be implemented!"
-    ""
+    "Você pode salvar o jogo aqui e aproveitar esse final quando for implementado!"
 
 translate portuguese strings:
 
     # game/code/endings.rpy:4
     old "Ending #1\nS&M Studio"
-    new ""
+    new "Final #1\nEstúdio S&M"
 
     # game/code/endings.rpy:20
     old "Ending #2\nLyssa Runaway"
-    new ""
+    new "Final #2\nFugindo com Lyssa"
 
     # game/code/endings.rpy:33
     old "Ending #3\nTwo Girls Two Dicks"
-    new ""
+    new "Final #3\nDuas Garotas Dois Paus"
 
     # game/code/endings.rpy:46
     old "Ending #4\n[mcname]'s Sex Dungeon'"
-    new ""
+    new "Final #4\nCalabouço sexual do [mcname]"
 
     # game/code/endings.rpy:59
     old "Ending #5\nSausage Party"
-    new ""
+    new "Final #5\nMuita Salsicha"
 
     # game/code/endings.rpy:72
     old "Ending #6\nQueen's Harem"
-    new ""
+    new "Final #6\nHarem da Rainha"
 
     # game/code/endings.rpy:85
     old "Ending #7\nA New Chair"
-    new ""
+    new "Final #7\nUma Nova Cadeira"
 
     # game/code/endings.rpy:98
     old "Ending #8\nMy Happy Ginger Family"
-    new ""
+    new "Final #8\nMinha Família Ruiva Feliz"
 
     # game/code/endings.rpy:114
     old "Ending #09\nFetish Locator Rebooted"
-    new ""
+    new "Final #09\nFetish Locator Reiniciado"
 
     # game/code/endings.rpy:128
     old "Ending #10\nRunaway"
-    new ""
+    new "Final #10\nFugindo"
 
     # game/code/endings.rpy:144
     old "Ending #11\nRed Diamond"
-    new ""
+    new "Final #11\nDiamante Vermelho"
 
     # game/code/endings.rpy:157
     old "Ending #12\nMothers & Daughters"
-    new ""
+    new "Final #12\nMães & Filhas"
 
     # game/code/endings.rpy:171
     old "Ending #13\nPregnant Nora"
-    new ""
+    new "Final #13\nNora Grávida"
 
     # game/code/endings.rpy:187
     old "Ending #14\nPolly & Nora"
-    new ""
+    new "Final #14\nPolly & Nora"
 
     # game/code/endings.rpy:200
     old "Ending #15\nWaterfall"
-    new ""
+    new "Final #15\nQueda D'água"
 
     # game/code/endings.rpy:213
     old "Ending #16\nBreeding Ponies"
-    new ""
+    new "Final #16\nCriando Pôneis"
 
     # game/code/endings.rpy:226
     old "Ending #17\nNot Guilty"
-    new ""
+    new "Final #17\nInocente"
 
     # game/code/endings.rpy:239
     old "Ending #18\nQuartet"
-    new ""
+    new "Final #18\nQuarteto"
 
