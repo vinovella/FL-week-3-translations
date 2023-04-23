@@ -34,6 +34,7 @@ def find_missing_strings(f, fp, whitelist):
                 continue
             try:
                 output_file.write(u"{0}: {1}\n".format(i, line))
+                ## output_file.write(u"{0}: {1}\n".format(i, line[3:]))
             except:
                 output_file.write(u"{0}: unparsed line\n".format(i))
         output_file.write(u"\n")
