@@ -1910,3 +1910,46 @@ translate chinese strings:
     old "Lydia should Blow Lyssa's mind (and cock)"
     new "Lydia should Blow Lyssa's mind (and cock)"
 
+# TODO: Translation updated at 2023-04-24 02:24
+
+# game/code/e06/e06s08.rpy:149
+translate chinese e06s08_cake_c3b7c93b_1:
+
+    # arj "Get a room!"
+    arj "Get a room!"
+
+# game/code/e06/e06s08.rpy:152
+translate chinese e06s08_cake_d89f2732_1:
+
+    # "*laughter*"
+    "*laughter*"
+
+# game/code/e06/e06s08.rpy:156
+translate chinese e06s08_cake_c3b7c93b_2:
+
+    # arj "Get a room!"
+    arj "Get a room!"
+
+# game/code/e06/e06s08.rpy:159
+translate chinese e06s08_cake_d89f2732_2:
+
+    # "*laughter*"
+    "*laughter*"
+
+# game/code/e06/e06s08.rpy:163
+translate chinese e06s08_cake_c3b7c93b_3:
+
+    # arj "Get a room!"
+    arj "Get a room!"
+
+# game/code/e06/e06s08.rpy:165
+translate chinese e06s08_cake_d89f2732_3:
+
+    # "*laughter*"
+    "*laughter*"
+
+# game/code/e06/e06s08.rpy:348
+translate chinese d06s08_sy_4a9a11a2:
+
+    # sy "CREAMPIE ME [mcname!u]!!!"
+    sy "CREAMPIE ME [mcname!u]!!!"
