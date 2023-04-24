@@ -1402,7 +1402,7 @@ translate chinese e06s03_sex_chair_sy_6f7db2dd:
 translate chinese e06s03_sex_chair_sy_bf8a280a:
 
     # sy "How does it feel? Having his warm cum inside you?"
-    sy "感觉怎么样？他温暖的精液射你里面？
+    sy "感觉怎么样？他温暖的精液射你里面？"
 
 # game/code/e06/e06s03.rpy:515
 translate chinese e06s03_sex_chair_sy_8ca01703:
