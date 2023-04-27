@@ -172,7 +172,7 @@ translate chinese e06s07_0f8c73fc:
 translate chinese e06s07_dcc18ce5:
 
     # sy "Any last minute reservations?"
-    sy "最后要改变什么吗？
+    sy "最后要改变什么吗？"
 
 # game/code/e06/e06s07.rpy:74
 translate chinese e06s07_f5bf9e2b:
@@ -550,7 +550,8 @@ translate chinese e06s07_18701c32:
 translate chinese e06s07_ac729b7a:
 
     # lc "We will follow the guidance of our Queen and serve [mcname] to the best of our abilities."
-    lc "我们将听从女王的指示，尽我们最大的努力为[mcname]服务。
+    lc "我们将听从女王的指示，尽我们最大的努力为[mcname]服务。"
+
 # game/code/e06/e06s07.rpy:233
 translate chinese e06s07_188d9a69:
 
