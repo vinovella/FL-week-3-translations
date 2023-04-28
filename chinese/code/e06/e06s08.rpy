@@ -4,61 +4,61 @@
 translate chinese e06s08_4a8802e8:
 
     # mct "I can't believe I'm married. Fucking shit."
-    mct "I can't believe I'm married. Fucking shit."
+    mct "真不敢相信我结婚了。操。"
 
 # game/code/e06/e06s08.rpy:19
 translate chinese e06s08_566ee41d:
 
     # mct "I'm married to Lydia. I am the luckiest man alive."
-    mct "I'm married to Lydia. I am the luckiest man alive."
+    mct "我和莉迪亚结婚了。我是世界上最幸运的人。"
 
 # game/code/e06/e06s08.rpy:21
 translate chinese e06s08_9a98d923:
 
     # mct "I better get ready. I don't want my new wife to find me unprepared."
-    mct "I better get ready. I don't want my new wife to find me unprepared."
+    mct "我最好准备一下。我不想让新婚妻子发现我毫无准备。"
 
 # game/code/e06/e06s08.rpy:30
 translate chinese e06s08_0dfc46ff:
 
     # lc "I'm ready..."
-    lc "I'm ready..."
+    lc "我准备好了..."
 
 # game/code/e06/e06s08.rpy:31
 translate chinese e06s08_3d470fd3:
 
     # lc "I'm nervous, but I'm ready."
-    lc "I'm nervous, but I'm ready."
+    lc "我很紧张，但我准备好了。"
 
 # game/code/e06/e06s08.rpy:33
 translate chinese e06s08_2490a7f5:
 
     # mc "It's just us, love. You can come down."
-    mc "It's just us, love. You can come down."
+    mc "只有我们两个，亲爱的。你可以下来。"
 
 # game/code/e06/e06s08.rpy:34
 translate chinese e06s08_d3d5e100:
 
     # lc "Thank you, my love."
-    lc "Thank you, my love."
+    lc "谢谢你，亲爱的。"
 
 # game/code/e06/e06s08.rpy:38
 translate chinese e06s08_e2f5eddc:
 
     # lc "How do I look?"
-    lc "How do I look?"
+    lc "我看起来怎么样？"
 
 # game/code/e06/e06s08.rpy:39
 translate chinese e06s08_48e60ec8:
 
     # mc "Like I'm about to bust the zipper on these rented pants."
-    mc "Like I'm about to bust the zipper on these rented pants."
+    mc "我忍不住要把租来的裤子的拉链扯掉了。"
 
 # game/code/e06/e06s08.rpy:41
 translate chinese e06s08_5364d743:
 
     # lc "Well, we can't have that."
-    lc "Well, we can't have that."
+    lc "好吧，我们不能那样。"
 
 # game/code/e06/e06s08.rpy:42
 translate chinese e06s08_7e807afb:
