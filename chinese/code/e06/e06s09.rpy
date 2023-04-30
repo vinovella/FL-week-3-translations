@@ -1200,3 +1200,11 @@ translate chinese strings:
     old "Check on Her"
     new "Check on Her"
 
+# TODO: Translation updated at 2023-04-30 17:23
+
+translate chinese strings:
+
+    # game/code/e06/e06s09.rpy:23
+    old "Later That Evening"
+    new "Later That Evening"
+

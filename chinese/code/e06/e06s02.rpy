@@ -1596,3 +1596,11 @@ translate chinese strings:
     old "Inside Min's house"
     new "在明房子里"
 
+# TODO: Translation updated at 2023-04-30 17:23
+
+translate chinese strings:
+
+    # game/code/e06/e06s02.rpy:40
+    old "The Next Day"
+    new "The Next Day"
+

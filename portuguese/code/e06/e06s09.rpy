@@ -1200,3 +1200,11 @@ translate portuguese strings:
     old "Check on Her"
     new "Dar uma Olhada Nela"
 
+# TODO: Translation updated at 2023-04-30 17:22
+
+translate portuguese strings:
+
+    # game/code/e06/e06s09.rpy:23
+    old "Later That Evening"
+    new ""
+

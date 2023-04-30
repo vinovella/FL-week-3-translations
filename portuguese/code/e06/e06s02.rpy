@@ -1596,3 +1596,11 @@ translate portuguese strings:
     old "Inside Min's house"
     new "Dentro da casa da Min"
 
+# TODO: Translation updated at 2023-04-30 17:16
+
+translate portuguese strings:
+
+    # game/code/e06/e06s02.rpy:40
+    old "The Next Day"
+    new ""
+

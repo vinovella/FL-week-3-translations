@@ -222,3 +222,39 @@ translate chinese strings:
     old "Ending 10: Min & Nari"
     new "Ending 10: Min & Nari"
 
+# TODO: Translation updated at 2023-04-30 17:23
+
+translate chinese strings:
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Day 21: Fivesome"
+    new "Day 21: Fivesome"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Don't leave Maria"
+    new "Don't leave Maria"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Day 21: Judge"
+    new "Day 21: Judge"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 01: Stacy"
+    new "Ending 01: Stacy"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 08: AmRose"
+    new "Ending 08: AmRose"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 08: Swinging Sex"
+    new "Ending 08: Swinging Sex"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 08: Stacy & Pregnant AmRose"
+    new "Ending 08: Stacy & Pregnant AmRose"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 08: Pregnant AmRose"
+    new "Ending 08: Pregnant AmRose"
+

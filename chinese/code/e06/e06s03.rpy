@@ -1896,3 +1896,11 @@ translate chinese strings:
     old "A few minutes and strange instructions later."
     new "几分钟后，奇怪的指示。"
 
+# TODO: Translation updated at 2023-04-30 17:23
+
+translate chinese strings:
+
+    # game/code/e06/e06s03.rpy:8
+    old "A Few Days Later"
+    new "A Few Days Later"
+

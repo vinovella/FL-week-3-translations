@@ -1896,3 +1896,11 @@ translate portuguese strings:
     old "A few minutes and strange instructions later."
     new "Alguns minutos e instruções estranhas depois"
 
+# TODO: Translation updated at 2023-04-30 17:16
+
+translate portuguese strings:
+
+    # game/code/e06/e06s03.rpy:8
+    old "A Few Days Later"
+    new ""
+

@@ -472,7 +472,7 @@ translate chinese d06s08_sy_f0bc4238:
 translate chinese d06s08_sy_26df2275:
 
     # mct "This is so weird to fuck and reminisce simultaneously."
-    mct "一边做爱一边回忆真是太奇怪了。
+    mct "一边做爱一边回忆真是太奇怪了。"
 
 # game/code/e06/e06s08.rpy:218
 translate chinese d06s08_sy_7764ddf9:
@@ -790,7 +790,7 @@ translate chinese d06s08_mes_faa7fe1d:
 translate chinese d06s08_mes_fcaf4f4d:
 
     # mes "*moaning* Oh, fuck yes. Thank you, [mcname]."
-    mes *呻吟* 哦，好舒服。谢谢你，[mcname]。"
+    mes "*呻吟* 哦，好舒服。谢谢你，[mcname]。"
 
 # game/code/e06/e06s08.rpy:342
 translate chinese d06s08_mes_f47697fc:

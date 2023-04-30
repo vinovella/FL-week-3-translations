@@ -282,3 +282,39 @@ translate portuguese strings:
     old "Ending 10: Montage"
     new ""
 
+# TODO: Translation updated at 2023-04-30 17:16
+
+translate portuguese strings:
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Day 21: Fivesome"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Don't leave Maria"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Day 21: Judge"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 01: Stacy"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 08: AmRose"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 08: Swinging Sex"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 08: Stacy & Pregnant AmRose"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 08: Pregnant AmRose"
+    new ""
+

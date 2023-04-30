@@ -420,3 +420,11 @@ translate chinese e06s01_328b4b2e:
     # mc "Good night, Lydia..."
     mc "晚安，莉迪亚..."
 
+# TODO: Translation updated at 2023-04-30 17:23
+
+translate chinese strings:
+
+    # game/code/e06/e06s01.rpy:28
+    old "Later That Day"
+    new "Later That Day"
+
