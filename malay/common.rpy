@@ -4,17 +4,17 @@ translate malay strings:
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
-    new "Open [text] directory."
+    new "Buka [text] direktori."
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
-    new "audio when minimized"
+    new "audio apabila diminimumkan"
 
     # renpy/common/00preferences.rpy:527
     old "main volume"
-    new "main volume"
+    new "suara utama"
 
     # renpy/common/00preferences.rpy:531
     old "mute main"
-    new "mute main"
+    new "bisu utama"
 
