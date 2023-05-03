@@ -370,3 +370,11 @@ translate malay strings:
     old "Menu"
     new "Menu"
 
+# TODO: Translation updated at 2023-05-03 19:39
+
+translate malay strings:
+
+    # game/code/screens/screens.rpy:1036
+    old "Connect Your Toy"
+    new "Connect Your Toy"
+

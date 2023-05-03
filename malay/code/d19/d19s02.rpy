@@ -780,3 +780,11 @@ translate malay d19s02_d138a5d3:
     # mct "I forgot to ask AmRose while she is here."
     mct "I forgot to ask AmRose while she is here."
 
+# TODO: Translation updated at 2023-05-03 19:39
+
+# game/code/d19/d19s02.rpy:510
+translate malay d19s02_b0400d74:
+
+    # mct "I'll be there"
+    mct "I'll be there"
+
