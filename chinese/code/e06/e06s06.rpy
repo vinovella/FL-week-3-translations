@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-03 19:47
+﻿# TODO: Translation updated at 2023-05-03 19:57
 
 # game/code/e06/e06s06.rpy:17
 translate chinese e06s06_820294b7:
@@ -1057,10 +1057,10 @@ translate chinese e06s06_fuck_arj_c77b3033:
     arj "Oh... OH... I'm CUMMING!"
 
 # game/code/e06/e06s06.rpy:666
-translate chinese e06s06_finish_1_1181b9e1:
+translate chinese e06s06_finish_1_c1f0c4b2:
 
-    # mh "[mcname] That's it, [mcname]. You heard Lysa... show her how you make me cum!"
-    mh "[mcname] That's it, [mcname]. You heard Lysa... show her how you make me cum!"
+    # mh "[mcname] That's it, [mcname]. You heard Lyssa... show her how you make me cum!"
+    mh "[mcname] That's it, [mcname]. You heard Lyssa... show her how you make me cum!"
 
 # game/code/e06/e06s06.rpy:667
 translate chinese e06s06_finish_1_f23f3a6b:

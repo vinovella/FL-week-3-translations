@@ -115,9 +115,9 @@ translate portuguese e06s06_cfb6d02e:
     lc "Sim, se isso te faz sentir melhor, eu estou muito ciente que você e meu noivo ficaram íntimos antes."
 
 # game/code/e06/e06s06.rpy:72
-translate portuguese e06s06_cd9dbf63:
+translate portuguese e06s06_50470c12:
 
-    # mh " I see. So you know all about that, but you still wish to marry him?"
+    # mh "I see. So you know all about that, but you still wish to marry him?"
     mh "Entendo. Então você sabe tudo isso, e mesmo assim quer casar com ele?"
 
 # game/code/e06/e06s06.rpy:75
@@ -475,9 +475,9 @@ translate portuguese e06s06_mh_harem_0887a9c1:
     mh "Ooouhaah..."
 
 # game/code/e06/e06s06.rpy:256
-translate portuguese e06s06_mh_harem_56844f23:
+translate portuguese e06s06_mh_harem_87b0ddec:
 
-    # arj "She feels so warm, [mcname]"
+    # arj "She feels so warm, [mcname]."
     arj "Ela tá tão quentinha, [mcname]."
 
 # game/code/e06/e06s06.rpy:262
@@ -1245,4 +1245,26 @@ translate portuguese strings:
     # game/code/e06/e06s06.rpy:649
     old "Fuck Lyssa while she fucks AmRose"
     new "Foder Lyssa enquanto ela fode AmRose"
+
+# TODO: Translation updated at 2023-05-03 19:50
+
+# game/code/e06/e06s06.rpy:176
+translate portuguese e06s06_mh_harem_beccaddc:
+
+    # lc "Of course. We're not asking you to give up anything. You would just be adding to our happiness, if you'd like."
+    lc ""
+
+# game/code/e06/e06s06.rpy:513
+translate portuguese e06s06_fuck_mh_5eec93b7:
+
+    # mh "Do not think I forgot about you, Miss Jenkins."
+    mh ""
+
+# TODO: Translation updated at 2023-05-03 19:56
+
+# game/code/e06/e06s06.rpy:666
+translate portuguese e06s06_finish_1_c1f0c4b2:
+
+    # mh "[mcname] That's it, [mcname]. You heard Lyssa... show her how you make me cum!"
+    mh ""
 

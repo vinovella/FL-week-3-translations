@@ -18,3 +18,15 @@ translate portuguese strings:
     old "Play"
     new ""
 
+# TODO: Translation updated at 2023-05-03 19:50
+
+translate portuguese strings:
+
+    # game/code/screens/endings.rpy:75
+    old "Continue playing the story"
+    new ""
+
+    # game/code/screens/endings.rpy:79
+    old "Return to Mainmenu"
+    new ""
+

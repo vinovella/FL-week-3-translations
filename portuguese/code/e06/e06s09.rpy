@@ -510,10 +510,10 @@ translate portuguese e06s09_deep_e3ec587b:
     # mc "Viola!"
     mc "Viola!"
 
-# game/code/e06/e06s09.rpy:329
-translate portuguese e06s09_deep_2cfa008b:
+# game/code/e06/e06s09.rpy:479
+translate portuguese e06s09_deep_450db347:
 
-    # lc "OH FUCK THAT'S DEEP!"
+    # lc "FUCK THAT'S DEEP!"
     lc "AIH PORRA, QUE FUNDO!"
 
 # game/code/e06/e06s09.rpy:330
