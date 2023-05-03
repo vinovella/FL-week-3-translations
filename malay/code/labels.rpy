@@ -588,3 +588,29 @@ translate malay after_credits_050e12e8:
     # dd "I'd like that very much."
     dd "I'd like that very much."
 
+# TODO: Translation updated at 2023-05-03 19:43
+
+# game/code/labels.rpy:742
+translate malay buzz_4377a2f7:
+
+    # "Bzzzzz" with hpunch
+    "Bzzzzz" with hpunch
+
+# game/code/labels.rpy:748
+translate malay knock_40511e6c:
+
+    # "*knock knock*"
+    "*knock knock*"
+
+# game/code/labels.rpy:754
+translate malay metalknock1_40511e6c:
+
+    # "*knock knock*"
+    "*knock knock*"
+
+# game/code/labels.rpy:760
+translate malay metalknock2_40511e6c:
+
+    # "*knock knock*"
+    "*knock knock*"
+
