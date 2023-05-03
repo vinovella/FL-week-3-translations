@@ -36,7 +36,7 @@ translate malay strings:
 
     # game/code/credit_sprites.rpy:124
     old "This game was only\nmade possible with\nall the support we have\nfrom Patreon\nand SubscribeStar"
-    new "Permainan ini hanya\nhanya dibuat dengan\nsemua sokongan yang kami ada\ndaripada Patreon\ndan SubscribeStar"
+    new "Permainan ini hanya\ndibuat dengan\nsemua sokongan yang kami ada\ndaripada Patreon\ndan SubscribeStar"
 
     # game/code/credit_sprites.rpy:132
     old "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
