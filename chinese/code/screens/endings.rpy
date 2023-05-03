@@ -18,3 +18,15 @@ translate chinese strings:
     old "Play"
     new "Play"
 
+# TODO: Translation updated at 2023-05-03 19:47
+
+translate chinese strings:
+
+    # game/code/screens/endings.rpy:75
+    old "Continue playing the story"
+    new "Continue playing the story"
+
+    # game/code/screens/endings.rpy:79
+    old "Return to Mainmenu"
+    new "Return to Mainmenu"
+

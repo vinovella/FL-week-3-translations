@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-04-30 17:23
+﻿# TODO: Translation updated at 2023-05-03 19:47
 
 # game/code/e06/e06s06.rpy:17
 translate chinese e06s06_820294b7:
@@ -115,10 +115,10 @@ translate chinese e06s06_cfb6d02e:
     lc "Yes, so I am well aware that you and my fiance have been intimate before, if that makes you feel better."
 
 # game/code/e06/e06s06.rpy:72
-translate chinese e06s06_cd9dbf63:
+translate chinese e06s06_50470c12:
 
-    # mh " I see. So you know all about that, but you still wish to marry him?"
-    mh " I see. So you know all about that, but you still wish to marry him?"
+    # mh "I see. So you know all about that, but you still wish to marry him?"
+    mh "I see. So you know all about that, but you still wish to marry him?"
 
 # game/code/e06/e06s06.rpy:75
 translate chinese e06s06_d8687b9b:
@@ -325,10 +325,10 @@ translate chinese e06s06_mh_harem_88bfe7e6:
     mh "Is this true, Lydia?"
 
 # game/code/e06/e06s06.rpy:176
-translate chinese e06s06_mh_harem_5704597e:
+translate chinese e06s06_mh_harem_beccaddc:
 
-    # lc "Of course. We're not asking you to give up anything. Just to add more, if you'd like."
-    lc "Of course. We're not asking you to give up anything. Just to add more, if you'd like."
+    # lc "Of course. We're not asking you to give up anything. You would just be adding to our happiness, if you'd like."
+    lc "Of course. We're not asking you to give up anything. You would just be adding to our happiness, if you'd like."
 
 # game/code/e06/e06s06.rpy:179
 translate chinese e06s06_mh_harem_b46b8b7a:
@@ -475,10 +475,10 @@ translate chinese e06s06_mh_harem_0887a9c1:
     mh "Ooouhaah..."
 
 # game/code/e06/e06s06.rpy:256
-translate chinese e06s06_mh_harem_56844f23:
+translate chinese e06s06_mh_harem_87b0ddec:
 
-    # arj "She feels so warm, [mcname]"
-    arj "She feels so warm, [mcname]"
+    # arj "She feels so warm, [mcname]."
+    arj "She feels so warm, [mcname]."
 
 # game/code/e06/e06s06.rpy:262
 translate chinese e06s06_mh_harem_d404d3dd:
@@ -835,10 +835,10 @@ translate chinese e06s06_fuck_mh_fc0bcc15:
     mh "Oh! Baby... You're already pushing so deep..."
 
 # game/code/e06/e06s06.rpy:513
-translate chinese e06s06_fuck_mh_b0376778:
+translate chinese e06s06_fuck_mh_5eec93b7:
 
-    # mh "Do not think I forgot about you, AmRose."
-    mh "Do not think I forgot about you, AmRose."
+    # mh "Do not think I forgot about you, Miss Jenkins."
+    mh "Do not think I forgot about you, Miss Jenkins."
 
 # game/code/e06/e06s06.rpy:518
 translate chinese e06s06_fuck_mh_6ce4f9d1:
@@ -1057,10 +1057,10 @@ translate chinese e06s06_fuck_arj_c77b3033:
     arj "Oh... OH... I'm CUMMING!"
 
 # game/code/e06/e06s06.rpy:666
-translate chinese e06s06_finish_1_7dcb9551:
+translate chinese e06s06_finish_1_1181b9e1:
 
-    # mh "[mcname] That's it, [mcname]. You heard your fiance... make... make me cum!"
-    mh "[mcname] That's it, [mcname]. You heard your fiance... make... make me cum!"
+    # mh "[mcname] That's it, [mcname]. You heard Lysa... show her how you make me cum!"
+    mh "[mcname] That's it, [mcname]. You heard Lysa... show her how you make me cum!"
 
 # game/code/e06/e06s06.rpy:667
 translate chinese e06s06_finish_1_f23f3a6b:

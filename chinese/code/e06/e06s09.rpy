@@ -118,7 +118,7 @@ translate chinese e06s09_blowjob_a504f2ae:
 translate chinese e06s09_blowjob_f583023b:
 
     # mct "Somehow I fucking married her."
-    mct "不知怎么的，我他妈竟然娶了她。
+    mct "不知怎么的，我他妈竟然娶了她。"
 
 # game/code/e06/e06s09.rpy:145
 translate chinese e06s09_blowjob_ef3fbc79:
@@ -1207,4 +1207,12 @@ translate chinese strings:
     # game/code/e06/e06s09.rpy:23
     old "Later That Evening"
     new "那天晚上晚些时候"
+
+# TODO: Translation updated at 2023-05-03 19:47
+
+# game/code/e06/e06s09.rpy:479
+translate chinese e06s09_deep_450db347:
+
+    # lc "FUCK THAT'S DEEP!"
+    lc "啊，好深！"
 
