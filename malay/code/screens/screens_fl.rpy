@@ -220,7 +220,7 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:245
     old "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
-    new "2. Pergi ke folder - \"C:/Users/username/AppData/Roaming/RenPy/persistent/".
+    new "2. Pergi ke folder - \"C:/Users/username/AppData/Roaming/RenPy/persistent\"."
 
     # game/code/screens/screens_fl.rpy:246
     old "3. Create a backup of the file \"FetishLocator\" and delete it."
