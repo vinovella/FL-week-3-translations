@@ -4,229 +4,229 @@
 translate chinese e06s05_2357bc1b:
 
     # mc "Can I take this freaking blindfold off already?"
-    mc "Can I take this freaking blindfold off already?"
+    mc "我能把这该死的眼罩拿掉了吗？"
 
 # game/code/e06/e06s05.rpy:27
 translate chinese e06s05_7a26e784:
 
     # arj "Now you can. We're here."
-    arj "Now you can. We're here."
+    arj "现在可以了。我们在这呢。"
 
 # game/code/e06/e06s05.rpy:30
 translate chinese e06s05_36b544e9:
 
     # mc "Huh. Interesting place."
-    mc "Huh. Interesting place."
+    mc "啊。这地方还挺有意思。"
 
 # game/code/e06/e06s05.rpy:31
 translate chinese e06s05_d84592da:
 
     # mc "Where is here?"
-    mc "Where is here?"
+    mc "这是哪里？"
 
 # game/code/e06/e06s05.rpy:34
 translate chinese e06s05_55217b27:
 
     # sy "This is your bachelor party, silly!"
-    sy "This is your bachelor party, silly!"
+    sy "笨蛋，这是你的单身派对！"
 
 # game/code/e06/e06s05.rpy:37
 translate chinese e06s05_5c6224fd:
 
     # sy "We were going to hire a stripper or escort or something..."
-    sy "We were going to hire a stripper or escort or something..."
+    sy "我们本打算雇个脱衣舞娘或者妓女什么的..."
 
 # game/code/e06/e06s05.rpy:40
 translate chinese e06s05_73eb2e38:
 
     # mct "I wonder if that would've been Samiya or... what was her name? Chastity?"
-    mct "I wonder if that would've been Samiya or... what was her name? Chastity?"
+    mct "那样的话，会不会见到萨米亚还是...她叫什么来着？贞洁吗？"
 
 # game/code/e06/e06s05.rpy:42
 translate chinese e06s05_b9f50c11:
 
     # mct "I wonder if that would've been Samiya?"
-    mct "I wonder if that would've been Samiya?"
+    mct "那样的话，会不会见到萨米亚？"
 
 # game/code/e06/e06s05.rpy:45
 translate chinese e06s05_818db14c:
 
     # sy "... but then someone you know volunteered to do it for free!"
-    sy "... but then someone you know volunteered to do it for free!"
+    sy "...但后来你认识的人自愿、免费揽下了这活！"
 
 # game/code/e06/e06s05.rpy:50
 translate chinese e06s05_44fa13ec:
 
     # arj "Just this way."
-    arj "Just this way."
+    arj "这边走。"
 
 # game/code/e06/e06s05.rpy:53
 translate chinese e06s05_d61c9b7b:
 
     # lc "Should I really be here? The bride usually isn't at the bachelor party."
-    lc "Should I really be here? The bride usually isn't at the bachelor party."
+    lc "我真的应该在这里吗？新娘通常不参加单身派对的。"
 
 # game/code/e06/e06s05.rpy:55
 translate chinese e06s05_fa0a9567:
 
     # arj "You are going to love this - if half of what I've heard about you is true."
-    arj "You are going to love this - if half of what I've heard about you is true."
+    arj "如果我听到的关于你的事有一半是真的--那你会喜欢这个的。"
 
 # game/code/e06/e06s05.rpy:56
 translate chinese e06s05_4871923e:
 
     # lc "What do you mean?"
-    lc "What do you mean?"
+    lc "怎么说？"
 
 # game/code/e06/e06s05.rpy:59
 translate chinese e06s05_f76c88cc:
 
     # arj "I mean that I'm going to handcuff and blindfold you."
-    arj "I mean that I'm going to handcuff and blindfold you."
+    arj "就是说，我要给你戴上手铐，蒙上眼睛。"
 
 # game/code/e06/e06s05.rpy:61
 translate chinese e06s05_53a23e17:
 
     # lc "... you are?"
-    lc "... you are?"
+    lc "...要这样？"
 
 # game/code/e06/e06s05.rpy:63
 translate chinese e06s05_40b5d261:
 
     # arj "And you're going to have to listen to everything that happens."
-    arj "And you're going to have to listen to everything that happens."
+    arj "你只能用耳朵来判断发生了什么。"
 
 # game/code/e06/e06s05.rpy:66
 translate chinese e06s05_b00cc436:
 
     # lc "I'm not sure if your the most devious woman I've ever met or if you're the first woman to ever really understand me."
-    lc "I'm not sure if your the most devious woman I've ever met or if you're the first woman to ever really understand me."
+    lc "我不知道是该说你是我见过最狡猾的女人，还是你第一个真正懂我的人。"
 
 # game/code/e06/e06s05.rpy:73
 translate chinese e06s05_4d07466b:
 
     # mes "Hey! I'm right here, ya'know."
-    mes "Hey! I'm right here, ya'know."
+    mes "嘿！我可是在这呢，都听到了。"
 
 # game/code/e06/e06s05.rpy:75
 translate chinese e06s05_9d47af52:
 
     # lc "Be honest. Would you ever tie me up and force me to listen to my love fucking other women?"
-    lc "Be honest. Would you ever tie me up and force me to listen to my love fucking other women?"
+    lc "要诚实嘛。你会把我绑起来，强迫我听我的爱人和其他女人做爱吗？"
 
 # game/code/e06/e06s05.rpy:77
 translate chinese e06s05_f2cb8f78:
 
     # mes "Maybe... now that I know you're into that."
-    mes "Maybe... now that I know you're into that."
+    mes "也许吧...现在我知道你喜欢这个了。"
 
 # game/code/e06/e06s05.rpy:79
 translate chinese e06s05_ad485f59:
 
     # arj "Oh, he's not going to fuck all of us."
-    arj "Oh, he's not going to fuck all of us."
+    arj "哦，他不会操我们所有人的。"
 
 # game/code/e06/e06s05.rpy:80
 translate chinese e06s05_fe42d5ad:
 
     # lc "He's not?"
-    lc "He's not?"
+    lc "不会吗？"
 
 # game/code/e06/e06s05.rpy:81
 translate chinese e06s05_59062f92:
 
     # arj "In fact, he's not going to fuck any of us."
-    arj "In fact, he's not going to fuck any of us."
+    arj "事实上，他不会干我们中的任何一个。"
 
 # game/code/e06/e06s05.rpy:83
 translate chinese e06s05_3dcd77fd:
 
     # mes "Why not?"
-    mes "Why not?"
+    mes "为什么？"
 
 # game/code/e06/e06s05.rpy:84
 translate chinese e06s05_b7687316:
 
     # arj "Wait and see... {w}or, wait and listen, I guess."
-    arj "Wait and see... {w}or, wait and listen, I guess."
+    arj "等着瞧...{w}或者应该说，等着听听看。"
 
 # game/code/e06/e06s05.rpy:86
 translate chinese e06s05_7af77e4e:
 
     # lc "Are you planning to gag me as well?"
-    lc "Are you planning to gag me as well?"
+    lc "你打算把我也塞住吗？"
 
 # game/code/e06/e06s05.rpy:87
 translate chinese e06s05_18c9ef3d:
 
     # arj "I hadn't thought of that. Just be quiet and enjoy the show."
-    arj "I hadn't thought of that. Just be quiet and enjoy the show."
+    arj "我还没想过呢。安静地享受表演吧。"
 
 # game/code/e06/e06s05.rpy:89
 translate chinese e06s05_1e08ecfc:
 
     # lc "What are you going to do if I'm not quiet?"
-    lc "What are you going to do if I'm not quiet?"
+    lc "如果我不安静，你打算怎么办？"
 
 # game/code/e06/e06s05.rpy:90
 translate chinese e06s05_0cee710c:
 
     # arj "I can always shove my fist-"
-    arj "I can always shove my fist-"
+    arj "我可以随时用拳头--"
 
 # game/code/e06/e06s05.rpy:92
 translate chinese e06s05_75a23950:
 
     # lc "Okay! Okay. No need for that."
-    lc "Okay! Okay. No need for that."
+    lc "好吧！好吧。没必要这样。"
 
 # game/code/e06/e06s05.rpy:93
 translate chinese e06s05_9c98f4fe:
 
     # arj "Good girl."
-    arj "Good girl."
+    arj "这才乖。"
 
 # game/code/e06/e06s05.rpy:95
 translate chinese e06s05_a0ab034b:
 
     # mc "Seriously, what is this place?"
-    mc "Seriously, what is this place?"
+    mc "说真的，这是什么地方？"
 
 # game/code/e06/e06s05.rpy:96
 translate chinese e06s05_334a0fbe:
 
     # mes "Isn't it obvious? It's a photo studio."
-    mes "Isn't it obvious? It's a photo studio."
+    mes "不是很明显吗？这是一家照相馆。"
 
 # game/code/e06/e06s05.rpy:98
 translate chinese e06s05_cd0ee247:
 
     # mc "I guess that explains a few things. What's with the cross and such?"
-    mc "I guess that explains a few things. What's with the cross and such?"
+    mc "这就说得通了。那个十字架是怎么回事？"
 
 # game/code/e06/e06s05.rpy:99
 translate chinese e06s05_d961b307:
 
     # mes "They mostly shoot erotica, bdsm, artistic nudes, and that sort of thing."
-    mes "They mostly shoot erotica, bdsm, artistic nudes, and that sort of thing."
+    mes "他们大多拍摄色情、BDSM、艺术裸体之类的东西。"
 
 # game/code/e06/e06s05.rpy:101
 translate chinese e06s05_2d4ac9ad:
 
     # sy "Just relax and get excited. The show is about to start."
-    sy "Just relax and get excited. The show is about to start."
+    sy "放松点，让自己兴奋起来。演出马上就要开始了。"
 
 # game/code/e06/e06s05.rpy:116
 translate chinese e06s05_show_start_4c068439:
 
     # sy "Ladies... and gentleman."
-    sy "Ladies... and gentleman."
+    sy "女士们...还有这位绅士。"
 
 # game/code/e06/e06s05.rpy:117
 translate chinese e06s05_show_start_a03cd6d0:
 
     # sy "Prepare yourself for a One Night Only Experience!"
-    sy "Prepare yourself for a One Night Only Experience!"
+    sy "准备好迎接仅限一晚的体验吧！"
 
 # game/code/e06/e06s05.rpy:118
 translate chinese e06s05_show_start_3f67d841:
