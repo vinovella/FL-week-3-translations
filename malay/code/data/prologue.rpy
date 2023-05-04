@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
+# TODO: Translation updated at 2022-03-02 02:41
 
 translate malay strings:
 
@@ -72,7 +72,7 @@ translate malay strings:
 
     # game/code/data/prologue.rpy:16
     old "The Judge"
-    new "The Judge"
+    new "Hakim"
 
     # game/code/data/prologue.rpy:45
     old "Enema"
@@ -80,39 +80,39 @@ translate malay strings:
 
     # game/code/data/prologue.rpy:45
     old "Watersports"
-    new "Watersports"
+    new "Sukan air"
 
     # game/code/data/prologue.rpy:45
     old "Footfetish"
-    new "Footfetish"
+    new "Fetish kaki"
 
     # game/code/data/prologue.rpy:45
     old "Cumgarnish"
-    new "Cumgarnish"
+    new "Hiasan Pancutan"
 
     # game/code/data/prologue.rpy:45
     old "Fisting"
-    new "Fisting"
+    new "Penumbuk"
 
     # game/code/data/prologue.rpy:45
     old "Pegging"
-    new "Pegging"
+    new "Menambat"
 
     # game/code/data/prologue.rpy:45
     old "Trans Content"
-    new "Trans Content"
+    new "Kandungan Trans"
 
     # game/code/data/prologue.rpy:79
     old "dog"
-    new "dog"
+    new "anjing"
 
     # game/code/data/prologue.rpy:79
     old "cuddle"
-    new "cuddle"
+    new "berpelukan"
 
     # game/code/data/prologue.rpy:79
     old "adult magazines"
-    new "adult magazines"
+    new "majalah dewasa"
 
 # TODO: Translation updated at 2022-11-12 13:01
 
@@ -120,5 +120,4 @@ translate malay strings:
 
     # game/code/data/prologue.rpy:16
     old "Polly & Nora"
-    new "Polly & Nora"
-
+    new "Polly Dan Nora"
