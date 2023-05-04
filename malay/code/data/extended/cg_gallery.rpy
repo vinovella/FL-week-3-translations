@@ -1,70 +1,70 @@
-﻿# TODO: Translation updated at 2022-11-12 13:01
+# TODO: Translation updated at 2022-11-12 13:01
 
 translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: AmRose"
-    new "Day 15: AmRose"
+    new "Hari 15: AmRose"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: Dahlia & Samia"
-    new "Day 15: Dahlia & Samia"
+    new "Hari 15: Dahlia & Samia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: Daisey"
-    new "Day 15: Daisey"
+    new "Hari 15: Daisy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: Lyssa"
-    new "Day 15: Lyssa"
+    new "Hari 15: Lyssa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Express your love"
-    new "Express your love"
+    new "Luahkan cinta anda"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: Girls"
-    new "Day 15: Girls"
+    new "Hari 15: Perempuan"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: AmRose"
-    new "Day 16: AmRose"
+    new "Hari 16: AmRose"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Lydia"
-    new "Day 16: Lydia"
+    new "Hari 16: Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Stacy"
-    new "Day 16: Stacy"
+    new "Hari 16: Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Stacy Washroom"
-    new "Day 16: Stacy Washroom"
+    new "Hari 16: Tandas Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ask for photos"
-    new "Ask for photos"
+    new "Tanya pasal gambar"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Allison"
-    new "Day 16: Allison"
+    new "Hari 16: Allison"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't remove cock cage before this scene"
-    new "Don't remove cock cage before this scene"
+    new "Jangan tanggalkan sangkar kote sebelum adegan ini"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Jessie & Kanya"
-    new "Day 16: Jessie & Kanya"
+    new "Hari 16: Jessie & Kanya"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 13: Nora"
-    new "Ending 13: Nora"
+    new "Pengakhiran 13: Nora"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 13: Pregnant Nora"
-    new "Ending 13: Pregnant Nora"
+    new "Pengakhiran 13: Nora Mengandung"
 
 # TODO: Translation updated at 2023-02-01 00:18
 
@@ -72,71 +72,71 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Vanessa"
-    new "Day 17: Vanessa"
+    new "Hari 17: Vanessa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Iona"
-    new "Day 17: Iona"
+    new "Hari 17: Iona"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Lyssa"
-    new "Day 17: Lyssa"
+    new "Hari 17: Lyssa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Bring Stacy with you"
-    new "Bring Stacy with you"
+    new "Bawa Stacy sekali"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Daisy"
-    new "Day 17: Daisy"
+    new "Hari 17: Daisy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Dahlia & Samiya"
-    new "Day 17: Dahlia & Samiya"
+    new "Hari 17: Dahlia & Samiya"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Polly & Nora"
-    new "Day 17: Polly & Nora"
+    new "Hari 17: Polly & Nora"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Jessie"
-    new "Day 17: Jessie"
+    new "Hari 17: Jessie"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 18: Dahlia & Samiya"
-    new "Day 18: Dahlia & Samiya"
+    new "Hari 18: Dahlia & Samiya"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 18: Cynthia"
-    new "Day 18: Cynthia"
+    new "Hari 18: Cynthia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Lydia's Dungeon"
-    new "Day 19: Lydia's Dungeon"
+    new "Hari 19: Penjara Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Stacy & Lyssa"
-    new "Day 19: Stacy & Lyssa"
+    new "Hari 19: Stacy & Lyssa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Daisy"
-    new "Day 19: Daisy"
+    new "Hari 19: Daisy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You need to date Dahlia"
-    new "You need to date Dahlia"
+    new "Awak perlu dating dengan Dahlia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Dahlia"
-    new "Day 19: Dahlia"
+    new "Hari 19: Dahlia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You need to date Daisy"
-    new "You need to date Daisy"
+    new "Awak perlu dating dengan Daisy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Stacy"
-    new "Day 19: Stacy"
+    new "Hari 19: Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Lyssa"
@@ -152,5 +152,4 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 10: Min"
-    new "Ending 10: Min"
-
+    new "Pengakhiran 10: Min"
