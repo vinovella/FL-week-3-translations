@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-04-30 17:23
+# TODO: Translation updated at 2023-04-30 17:23
 
 # game/code/e06/e06s05.rpy:25
 translate chinese e06s05_2357bc1b:
@@ -376,7 +376,7 @@ translate chinese e06s05_show_start_7988ac39:
 translate chinese e06s05_show_start_846ec958:
 
     # dd "Heya Squizzel. How am I doing?"
-    dd 嘿，斯奎泽。我做得怎么样？"
+    dd "嘿，斯奎泽。我做得怎么样？"
 
 # game/code/e06/e06s05.rpy:165
 translate chinese e06s05_show_start_8ac8d27e:
@@ -412,7 +412,7 @@ translate chinese e06s05_show_start_f6618459:
 translate chinese e06s05_show_start_2052e576:
 
     # dd "Thanks, Min. I'm Daisy, by the way."
-    dd "谢谢，明。顺便说一下，我叫黛西。
+    dd "谢谢，明。顺便说一下，我叫黛西。" 
 
 # game/code/e06/e06s05.rpy:172
 translate chinese e06s05_show_start_19405a17:
@@ -472,7 +472,7 @@ translate chinese e06s05_show_start_b5b346d1:
 translate chinese e06s05_show_start_866a4b39:
 
     # dd "You can do everything you want with me."
-    dd 你想对我做什么都可以。"
+    dd "你想对我做什么都可以。"
 
 # game/code/e06/e06s05.rpy:187
 translate chinese e06s05_show_start_7825e1c3:
