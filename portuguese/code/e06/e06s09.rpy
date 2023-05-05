@@ -1206,5 +1206,5 @@ translate portuguese strings:
 
     # game/code/e06/e06s09.rpy:23
     old "Later That Evening"
-    new ""
+    new "Mais Tarde na Noite"
 
