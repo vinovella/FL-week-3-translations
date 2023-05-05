@@ -1000,115 +1000,115 @@ translate chinese e06s05_sy_choice_308729c7:
 translate chinese e06s05_sy_choice_263ef98b:
 
     # mc "I'm almost afraid to find out what the old standard is."
-    mc "I'm almost afraid to find out what the old standard is."
+    mc "我都不敢回想以前的标准是什么了。"
 
 # game/code/e06/e06s05.rpy:349
 translate chinese e06s05_sy_choice_18723dfd:
 
     # sy "Quite simple. I put on a strap-on and fuck her until she cums."
-    sy "Quite simple. I put on a strap-on and fuck her until she cums."
+    sy "很简单。我戴上一个假鸡巴，然后操她，直到她硬起来。"
 
 # game/code/e06/e06s05.rpy:350
 translate chinese e06s05_sy_choice_581ad4f2:
 
     # mc "That doesn't sound so bad."
-    mc "That doesn't sound so bad."
+    mc "听起来没那么糟。"
 
 # game/code/e06/e06s05.rpy:351
 translate chinese e06s05_sy_choice_ad909a8e:
 
     # mc "Hmmm..."
-    mc "Hmmm..."
+    mc "嗯...
 
 # game/code/e06/e06s05.rpy:369
 translate chinese e06s05_sy_puke_2dcd6d79:
 
     # sy "Excellent! You won't regret it."
-    sy "Excellent! You won't regret it."
+    sy "太好了！你不会后悔的。"
 
 # game/code/e06/e06s05.rpy:370
 translate chinese e06s05_sy_puke_5783ff6e:
 
     # sy "Would you mind holding her head while I do this?"
-    sy "Would you mind holding her head while I do this?"
+    sy "我肏她的时候你能扶着她的头吗？"
 
 # game/code/e06/e06s05.rpy:372
 translate chinese e06s05_sy_puke_aaf6cec1:
 
     # dd "My arms too - if you don't mind."
-    dd "My arms too - if you don't mind."
+    dd "也帮忙扶下我的胳膊--如果你不介意的话。"
 
 # game/code/e06/e06s05.rpy:373
 translate chinese e06s05_sy_puke_82e23f43:
 
     # mc "You've done something like this before?"
-    mc "You've done something like this before?"
+    mc "你以前这样做过吗？"
 
 # game/code/e06/e06s05.rpy:375
 translate chinese e06s05_sy_puke_757844f5:
 
     # dd "More like I've seen it done. I know I'm going to instinctively thrash about when I can't breathe."
-    dd "More like I've seen it done. I know I'm going to instinctively thrash about when I can't breathe."
+    dd "不如说是我见过。我知道当我无法呼吸的时候，我会本能地乱动。"
 
 # game/code/e06/e06s05.rpy:377
 translate chinese e06s05_sy_puke_8283cdd9:
 
     # mc "Hopefully it won't come to that."
-    mc "Hopefully it won't come to that."
+    mc "希望不会发展到那一步。"
 
 # game/code/e06/e06s05.rpy:378
 translate chinese e06s05_sy_puke_9d9f7a40:
 
     # dd "I kinda hope it will."
-    dd "I kinda hope it will."
+    dd "我倒是挺希望的。"
 
 # game/code/e06/e06s05.rpy:380
 translate chinese e06s05_sy_puke_366cc8ff:
 
     # sy "Who's ready to gag on my cock?!"
-    sy "Who's ready to gag on my cock?!"
+    sy "谁准备好要被我的鸡巴封喉了?!"
 
 # game/code/e06/e06s05.rpy:381
 translate chinese e06s05_sy_puke_33055863:
 
     # mct "Not me."
-    mct "Not me."
+    mct "不是我。"
 
 # game/code/e06/e06s05.rpy:382
 translate chinese e06s05_sy_puke_dd5197dc:
 
     # dd "I guess I am."
-    dd "I guess I am."
+    dd "我来吧。"
 
 # game/code/e06/e06s05.rpy:384
 translate chinese e06s05_sy_puke_8b98baa1:
 
     # sy "C'mon, Daisy. Put more heart into it!"
-    sy "C'mon, Daisy. Put more heart into it!"
+    sy "这样不行，黛西。再用心一点！"
 
 # game/code/e06/e06s05.rpy:385
 translate chinese e06s05_sy_puke_61da4bdc:
 
     # dd "I AM!!!"
-    dd "I AM!!!"
+    dd "我要!!!"
 
 # game/code/e06/e06s05.rpy:386
 translate chinese e06s05_sy_puke_05711bba:
 
     # sy "What do you want?!"
-    sy "What do you want?!"
+    sy "你想要什么?!"
 
 # game/code/e06/e06s05.rpy:388
 translate chinese e06s05_sy_puke_adecc299:
 
     # dd "To Choke On Your Cock!!"
-    dd "To Choke On Your Cock!!"
+    dd "被你的鸡巴噎死!!"
 
 # game/code/e06/e06s05.rpy:390
 translate chinese e06s05_sy_puke_b83db04e:
 
     # sy "OKAY!!!"
-    sy "OKAY!!!"
+    sy "好!!!"
 
 # game/code/e06/e06s05.rpy:391
 translate chinese e06s05_sy_puke_cfd22fd8:
@@ -1120,7 +1120,7 @@ translate chinese e06s05_sy_puke_cfd22fd8:
 translate chinese e06s05_sy_puke_d4797497:
 
     # sy "C'mon, you can do better than that!"
-    sy "C'mon, you can do better than that!"
+    sy "这样不行，你可以做得更好！"
 
 # game/code/e06/e06s05.rpy:394
 translate chinese e06s05_sy_puke_368dc8fe:
@@ -1132,19 +1132,19 @@ translate chinese e06s05_sy_puke_368dc8fe:
 translate chinese e06s05_sy_puke_aa7d37fa:
 
     # sy "Sorry, did you need a breather?"
-    sy "Sorry, did you need a breather?"
+    sy "抱歉，你需要喘口气吗？"
 
 # game/code/e06/e06s05.rpy:397
 translate chinese e06s05_sy_puke_7250bf83:
 
     # dd "*gasps for air* Again!"
-    dd "*gasps for air* Again!"
+    dd "*喘气* 再来"
 
 # game/code/e06/e06s05.rpy:398
 translate chinese e06s05_sy_puke_b83db04e_1:
 
     # sy "OKAY!!!"
-    sy "OKAY!!!"
+    sy "好!!!"
 
 # game/code/e06/e06s05.rpy:400
 translate chinese e06s05_sy_puke_611f63b8:
@@ -1156,295 +1156,295 @@ translate chinese e06s05_sy_puke_611f63b8:
 translate chinese e06s05_sy_puke_ea1e437c:
 
     # sy "Hold that thought."
-    sy "Hold that thought."
+    sy "坚持住。"
 
 # game/code/e06/e06s05.rpy:403
 translate chinese e06s05_sy_puke_65ab8302:
 
     # sy "Looks like the stock market is going down, but the weather is getting warmer."
-    sy "Looks like the stock market is going down, but the weather is getting warmer."
+    sy "看起来股市在下跌，但是天气正在变暖。"
 
 # game/code/e06/e06s05.rpy:404
 translate chinese e06s05_sy_puke_35588d8a:
 
     # sy "Oh, and surprise - politicians are doing political things."
-    sy "Oh, and surprise - politicians are doing political things."
+    sy "哦，令人惊讶的是，政客们在处理政治事务。"
 
 # game/code/e06/e06s05.rpy:405
 translate chinese e06s05_sy_puke_1e0983da:
 
     # sy "Okay, that's enough."
-    sy "Okay, that's enough."
+    sy "好了，够了。"
 
 # game/code/e06/e06s05.rpy:407
 translate chinese e06s05_sy_puke_486e689e:
 
     # dd "*gasps for air* Almost there!"
-    dd "*gasps for air* Almost there!"
+    dd "*大口喘气* 快到了！"
 
 # game/code/e06/e06s05.rpy:408
 translate chinese e06s05_sy_puke_a472533b:
 
     # mc "Do you even have a gag reflex?"
-    mc "Do you even have a gag reflex?"
+    mc "你没有呕吐反射的吗？"
 
 # game/code/e06/e06s05.rpy:409
 translate chinese e06s05_sy_puke_73c97e03:
 
     # dd "Not that I know of... AGAIN!!!"
-    dd "Not that I know of... AGAIN!!!"
+    dd "据我所知没有...再来!!!"
 
 # game/code/e06/e06s05.rpy:411
 translate chinese e06s05_sy_puke_cf93456c:
 
     # sy "A woman after my own heart."
-    sy "A woman after my own heart."
+    sy "她很合我心意。"
 
 # game/code/e06/e06s05.rpy:412
 translate chinese e06s05_sy_puke_15bf62a0:
 
     # sy "I'm afraid that's as deep as it will go. If this doesn't do it, I might have to use my arm."
-    sy "I'm afraid that's as deep as it will go. If this doesn't do it, I might have to use my arm."
+    sy "他恐怕就只能到这个深度了。如果这还不行，我可能要上胳膊了。"
 
 # game/code/e06/e06s05.rpy:414
 translate chinese e06s05_sy_puke_d988ed7f:
 
     # mc "I think that might be enough."
-    mc "I think that might be enough."
+    mc "我想这就够了。"
 
 # game/code/e06/e06s05.rpy:415
 translate chinese e06s05_sy_puke_8499262c:
 
     # sy "Just a few more seconds."
-    sy "Just a few more seconds."
+    sy "再等几秒钟。"
 
 # game/code/e06/e06s05.rpy:416
 translate chinese e06s05_sy_puke_96830551:
 
     # mc "Is the goal to suffocate her?"
-    mc "Is the goal to suffocate her?"
+    mc "目的是让她窒息吗？"
 
 # game/code/e06/e06s05.rpy:417
 translate chinese e06s05_sy_puke_6e54c6d2:
 
     # sy "Oh, fine. You're no fun."
-    sy "Oh, fine. You're no fun."
+    sy "好吧。你真没意思。"
 
 # game/code/e06/e06s05.rpy:419
 translate chinese e06s05_sy_puke_39cfb545:
 
     # sy "Does that feel better?"
-    sy "Does that feel better?"
+    sy "这样感觉好点了吗？"
 
 # game/code/e06/e06s05.rpy:424
 translate chinese e06s05_sy_puke_8b7e80b5:
 
     # mc "I think that's a yes."
-    mc "I think that's a yes."
+    mc "肯定的。"
 
 # game/code/e06/e06s05.rpy:426
 translate chinese e06s05_sy_puke_79514910:
 
     # sy "Ewww. I did not think this through."
-    sy "Ewww. I did not think this through."
+    sy "咦。我还真没考虑过。"
 
 # game/code/e06/e06s05.rpy:427
 translate chinese e06s05_sy_puke_47291874:
 
     # mc "Messy is a fetish, ya'know."
-    mc "Messy is a fetish, ya'know."
+    mc "凌乱也是一种恋物癖，你知道的。"
 
 # game/code/e06/e06s05.rpy:428
 translate chinese e06s05_sy_puke_9c5d479b:
 
     # sy "This is not baked beans or split pea soup."
-    sy "This is not baked beans or split pea soup."
+    sy "这不是烤豆或豌豆汤。"
 
 # game/code/e06/e06s05.rpy:430
 translate chinese e06s05_sy_puke_6a5fb38f:
 
     # sy "I need to get out of these clothes."
-    sy "I need to get out of these clothes."
+    sy "我得脱掉这些衣服。"
 
 # game/code/e06/e06s05.rpy:431
 translate chinese e06s05_sy_puke_279eac90:
 
     # arj "Towels are-"
-    arj "Towels are-"
+    arj "毛巾--"
 
 # game/code/e06/e06s05.rpy:432
 translate chinese e06s05_sy_puke_fc8862af:
 
     # sy "I know where they are."
-    sy "I know where they are."
+    sy "我知道它们在哪里。"
 
 # game/code/e06/e06s05.rpy:445
 translate chinese e06s05_sy_strapon_54a2fa06:
 
     # sy "*singing* I'm gonna tap dat ass. I don't have twenty dollars nor a pocket."
-    sy "*singing* I'm gonna tap dat ass. I don't have twenty dollars nor a pocket."
+    sy "*唱着歌* 我要打你的屁股。20块我没有，口袋也木得。"
 
 # game/code/e06/e06s05.rpy:446
 translate chinese e06s05_sy_strapon_95287c6e:
 
     # sy "*singing* I'm I'm I'm hunting. Looking for a cumslut."
-    sy "*singing* I'm I'm I'm hunting. Looking for a cumslut."
+    sy "*唱着歌* 我在我在我在猎艳。婊子快快现。"
 
 # game/code/e06/e06s05.rpy:447
 translate chinese e06s05_sy_strapon_24fd05d1:
 
     # sy "*singing* This is fucking awesome."
-    sy "*singing* This is fucking awesome."
+    sy "*唱着歌* 他妈的这爽的感觉。"
 
 # game/code/e06/e06s05.rpy:449
 translate chinese e06s05_sy_strapon_e12fcb41:
 
     # mc "You're going to make her cum, right?"
-    mc "You're going to make her cum, right?"
+    mc "你会让她高潮的，对吧？"
 
 # game/code/e06/e06s05.rpy:450
 translate chinese e06s05_sy_strapon_5e8910ec:
 
     # sy "Some girls can cum from their ass."
-    sy "Some girls can cum from their ass."
+    sy "有些女孩能从屁股里射出来"
 
 # game/code/e06/e06s05.rpy:452
 translate chinese e06s05_sy_strapon_517ccf50:
 
     # mc "I'll test that later. For now, you can fuck her pussy."
-    mc "I'll test that later. For now, you can fuck her pussy."
+    mc "我稍后再测试。现在，你可以操她小穴了。"
 
 # game/code/e06/e06s05.rpy:453
 translate chinese e06s05_sy_strapon_f878e240:
 
     # sy "Either way. That's fine with me."
-    sy "Either way. That's fine with me."
+    sy "无论是哪种方式，我都没意见。"
 
 # game/code/e06/e06s05.rpy:454
 translate chinese e06s05_sy_strapon_25f1c37f:
 
     # mc "Cool. How do you want her?"
-    mc "Cool. How do you want her?"
+    mc "好。你要她怎么配合？"
 
 # game/code/e06/e06s05.rpy:456
 translate chinese e06s05_sy_strapon_e3e77bbf:
 
     # sy "Doggy style works for me. I can take her just the way she is."
-    sy "Doggy style works for me. I can take her just the way she is."
+    sy "狗狗式就行。她本来的样子就很适合我。"
 
 # game/code/e06/e06s05.rpy:457
 translate chinese e06s05_sy_strapon_b7b3c701:
 
     # sy "You sure you don't want me to shock her?"
-    sy "You sure you don't want me to shock her?"
+    sy "你确定不要我电击她吗？"
 
 # game/code/e06/e06s05.rpy:459
 translate chinese e06s05_sy_strapon_f597efa0:
 
     # dd "I'm okay with that."
-    dd "I'm okay with that."
+    dd "我没意见。"
 
 # game/code/e06/e06s05.rpy:460
 translate chinese e06s05_sy_strapon_bb11f2c9:
 
     # mc "Daisy, shush. Stacy, humor me. Just keep it in the pink."
-    mc "Daisy, shush. Stacy, humor me. Just keep it in the pink."
+    mc "黛西，嘘。史黛西，听我的。让她有个良好状态吧。嗯..."
 
 # game/code/e06/e06s05.rpy:462
 translate chinese e06s05_sy_strapon_92b4a772:
 
     # dd "Mmmm..."
-    dd "Mmmm..."
+    dd "嗯..."
 
 # game/code/e06/e06s05.rpy:464
 translate chinese e06s05_sy_strapon_9325cdf5:
 
     # sy "You like that?"
-    sy "You like that?"
+    sy "你喜欢吗？"
 
 # game/code/e06/e06s05.rpy:465
 translate chinese e06s05_sy_strapon_7b81b6f9:
 
     # dd "Did you warm it up beforehand?"
-    dd "Did you warm it up beforehand?"
+    dd "你事先预热了吗？"
 
 # game/code/e06/e06s05.rpy:471
 translate chinese e06s05_sy_strapon_b29a7941:
 
     # sy "Seemed like the least I could do."
-    sy "Seemed like the least I could do."
+    sy "这是我最起码能做的。"
 
 # game/code/e06/e06s05.rpy:472
 translate chinese e06s05_sy_strapon_37c0aaa5:
 
     # dd "That's a very nice touch."
-    dd "That's a very nice touch."
+    dd "触感不错。"
 
 # game/code/e06/e06s05.rpy:473
 translate chinese e06s05_sy_strapon_a80695aa:
 
     # dd "OH FUCK!"
-    dd "OH FUCK!"
+    dd "啊，操！"
 
 # game/code/e06/e06s05.rpy:475
 translate chinese e06s05_sy_strapon_b0af8df7:
 
     # mc "What is it? Is everything okay?!"
-    mc "What is it? Is everything okay?!"
+    mc "怎么样？还好吗?!"
 
 # game/code/e06/e06s05.rpy:476
 translate chinese e06s05_sy_strapon_208ee5d2:
 
     # dd "I CAN'T FUCKING BELIEVE IT!!"
-    dd "I CAN'T FUCKING BELIEVE IT!!"
+    dd "我真他妈不敢相信!!"
 
 # game/code/e06/e06s05.rpy:478
 translate chinese e06s05_sy_strapon_831c387a:
 
     # mc "Daisy? Are you having a heart attack or something???"
-    mc "Daisy? Are you having a heart attack or something???"
+    mc "黛西？你是心脏病发作了还是怎么了???"
 
 # game/code/e06/e06s05.rpy:479
 translate chinese e06s05_sy_strapon_de8c9d95:
 
     # dd "What?! No, nothing like that."
-    dd "What?! No, nothing like that."
+    dd "什么?! 不，不是那样的。"
 
 # game/code/e06/e06s05.rpy:481
 translate chinese e06s05_sy_strapon_5174e72f:
 
     # dd "It's just that..."
-    dd "It's just that..."
+    dd "只是..."
 
 # game/code/e06/e06s05.rpy:482
 translate chinese e06s05_sy_strapon_33bf3272:
 
     # dd "... she fucks..."
-    dd "... she fucks..."
+    dd "....她操我的感觉..."
 
 # game/code/e06/e06s05.rpy:483
 translate chinese e06s05_sy_strapon_e8e673d6:
 
     # dd "... like you do."
-    dd "... like you do."
+    dd "...就像你一样。"
 
 # game/code/e06/e06s05.rpy:485
 translate chinese e06s05_sy_strapon_2321d60b:
 
     # mc "Oh. I guess that makes sense."
-    mc "Oh. I guess that makes sense."
+    mc "哦。那就说得通了。"
 
 # game/code/e06/e06s05.rpy:486
 translate chinese e06s05_sy_strapon_e25aea59:
 
     # dd "It does?"
-    dd "It does?"
+    dd "是吗？"
 
 # game/code/e06/e06s05.rpy:487
 translate chinese e06s05_sy_strapon_09766bfa:
 
     # sy "I suppose it does."
-    sy "I suppose it does."
+    sy "我想是的。"
 
 # game/code/e06/e06s05.rpy:489
 translate chinese e06s05_sy_strapon_4237fb9e:
