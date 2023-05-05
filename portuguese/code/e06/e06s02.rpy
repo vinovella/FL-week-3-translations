@@ -1602,5 +1602,5 @@ translate portuguese strings:
 
     # game/code/e06/e06s02.rpy:40
     old "The Next Day"
-    new ""
+    new "O Próximo Dia"
 
