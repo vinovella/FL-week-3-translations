@@ -1902,5 +1902,5 @@ translate portuguese strings:
 
     # game/code/e06/e06s03.rpy:8
     old "A Few Days Later"
-    new ""
+    new "Alguns Dias Depois"
 
