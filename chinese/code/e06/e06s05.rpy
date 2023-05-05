@@ -1018,7 +1018,8 @@ translate chinese e06s05_sy_choice_581ad4f2:
 translate chinese e06s05_sy_choice_ad909a8e:
 
     # mc "Hmmm..."
-    mc "嗯...
+
+    mc "嗯..."
 
 # game/code/e06/e06s05.rpy:369
 translate chinese e06s05_sy_puke_2dcd6d79:
