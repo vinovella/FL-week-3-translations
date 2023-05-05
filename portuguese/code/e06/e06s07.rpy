@@ -690,5 +690,5 @@ translate portuguese strings:
 
     # game/code/e06/e06s07.rpy:4
     old "Two Weeks Later"
-    new ""
+    new "Duas Semanas Depois"
 
