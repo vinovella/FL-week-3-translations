@@ -1000,43 +1000,43 @@ translate chinese e06s05_sy_choice_308729c7:
 translate chinese e06s05_sy_choice_263ef98b:
 
     # mc "I'm almost afraid to find out what the old standard is."
-    mc "I'm almost afraid to find out what the old standard is."
+    mc "我都不敢回想以前的标准是什么了。"
 
 # game/code/e06/e06s05.rpy:349
 translate chinese e06s05_sy_choice_18723dfd:
 
     # sy "Quite simple. I put on a strap-on and fuck her until she cums."
-    sy "Quite simple. I put on a strap-on and fuck her until she cums."
+    sy "很简单。我戴上一个假鸡巴，然后操她，直到她硬起来。"
 
 # game/code/e06/e06s05.rpy:350
 translate chinese e06s05_sy_choice_581ad4f2:
 
     # mc "That doesn't sound so bad."
-    mc "That doesn't sound so bad."
+    mc "听起来没那么糟。"
 
 # game/code/e06/e06s05.rpy:351
 translate chinese e06s05_sy_choice_ad909a8e:
 
     # mc "Hmmm..."
-    mc "Hmmm..."
+    mc "嗯..."
 
 # game/code/e06/e06s05.rpy:369
 translate chinese e06s05_sy_puke_2dcd6d79:
 
     # sy "Excellent! You won't regret it."
-    sy "Excellent! You won't regret it."
+    sy "太好了！你不会后悔的。"
 
 # game/code/e06/e06s05.rpy:370
 translate chinese e06s05_sy_puke_5783ff6e:
 
     # sy "Would you mind holding her head while I do this?"
-    sy "Would you mind holding her head while I do this?"
+    sy "我肏她的时候你能扶着她的头吗？"
 
 # game/code/e06/e06s05.rpy:372
 translate chinese e06s05_sy_puke_aaf6cec1:
 
     # dd "My arms too - if you don't mind."
-    dd "My arms too - if you don't mind."
+    dd "也帮忙扶下我的胳膊--如果你不介意的话。"
 
 # game/code/e06/e06s05.rpy:373
 translate chinese e06s05_sy_puke_82e23f43:
