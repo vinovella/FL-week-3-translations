@@ -1919,331 +1919,331 @@ translate chinese e06s05_arj_enema_f20787ba:
 translate chinese e06s05_arj_enema_de5c459e:
 
     # arj "Just let it work."
-    arj "Just let it work."
+    arj "等着它发挥作用吧。"
 
 # game/code/e06/e06s05.rpy:623
 translate chinese e06s05_arj_enema_78f2cc0b:
 
     # dd "CUM FUCK SLUT BURN ITCH CRAZY BITCH WHOT IS THIS?!?!?!?!"
-    dd "CUM FUCK SLUT BURN ITCH CRAZY BITCH WHOT IS THIS?!?!?!?!"
+    dd "操啊又烫又痒你这个婊子放了什么?!?!?!?!"
 
 # game/code/e06/e06s05.rpy:624
 translate chinese e06s05_arj_enema_06d45c6a:
 
     # arj "Not much longer now."
-    arj "Not much longer now."
+    arj "没多久了。"
 
 # game/code/e06/e06s05.rpy:625
 translate chinese e06s05_arj_enema_a9bc6ec2:
 
     # dd "AHHHHAHAHHAHAHHHHHHOOOOWWWWWWWWW!!!!"
-    dd "AHHHHAHAHHAHAHHHHHHOOOOWWWWWWWWW!!!!"
+    dd "啊啊啊!!!!"
 
 # game/code/e06/e06s05.rpy:627
 translate chinese e06s05_arj_enema_6f5d3e64:
 
     # mc "Daisy - do you remember your safe word?!"
-    mc "Daisy - do you remember your safe word?!"
+    mc "黛西--你还记得你的安全词吗?!"
 
 # game/code/e06/e06s05.rpy:628
 translate chinese e06s05_arj_enema_e910f207:
 
     # dd "DON'T YOU DARE FUCKING STOP THIS RIDE NOW!!!"
-    dd "DON'T YOU DARE FUCKING STOP THIS RIDE NOW!!!"
+    dd "你他妈现在不准停!!!"
 
 # game/code/e06/e06s05.rpy:629
 translate chinese e06s05_arj_enema_f962bb7e:
 
     # mc "Oh. Okay."
-    mc "Oh. Okay."
+    mc "哦。好吧。"
 
 # game/code/e06/e06s05.rpy:631
 translate chinese e06s05_arj_enema_be43e840:
 
     # arj "You'd be surprised how much fun you can have with your backdoor."
-    arj "You'd be surprised how much fun you can have with your backdoor."
+    arj "你会惊讶地发现后门能让你爽上天。"
 
 # game/code/e06/e06s05.rpy:632
 translate chinese e06s05_arj_enema_225d3233:
 
     # mc "Apparently."
-    mc "Apparently."
+    mc "明显。"
 
 # game/code/e06/e06s05.rpy:633
 translate chinese e06s05_arj_enema_26a8932e:
 
     # dd "I'M AN EXPOSED NERVE!!!"
-    dd "I'M AN EXPOSED NERVE!!!"
+    dd "我是一个暴露狂!!!"
 
 # game/code/e06/e06s05.rpy:635
 translate chinese e06s05_arj_enema_47ea51dd:
 
     # mc "I think we forgot something."
-    mc "I think we forgot something."
+    mc "我想我们忘了什么。"
 
 # game/code/e06/e06s05.rpy:636
 translate chinese e06s05_arj_enema_7348b99e:
 
     # arj "What's that?"
-    arj "What's that?"
+    arj "什么？"
 
 # game/code/e06/e06s05.rpy:637
 translate chinese e06s05_arj_enema_2daaa1c7:
 
     # mc "We're going to need a bucket or something."
-    mc "We're going to need a bucket or something."
+    mc "我们需要一个水桶之类的东西。"
 
 # game/code/e06/e06s05.rpy:639
 translate chinese e06s05_arj_enema_df15444d:
 
     # arj "Oh yeah."
-    arj "Oh yeah."
+    arj "哦，对哦。"
 
 # game/code/e06/e06s05.rpy:640
 translate chinese e06s05_arj_enema_cf113120:
 
     # sy "On it!"
-    sy "On it!"
+    sy "这就去!"
 
 # game/code/e06/e06s05.rpy:641
 translate chinese e06s05_arj_enema_82c08c3f:
 
     # arj "Good thinking, [mcname]."
-    arj "Good thinking, [mcname]."
+    arj "好主意，[mcname]。"
 
 # game/code/e06/e06s05.rpy:643
 translate chinese e06s05_arj_enema_a26a53e5:
 
     # dd "I'M GOING TO KILL YOU ALL!!!"
-    dd "I'M GOING TO KILL YOU ALL!!!"
+    dd "我要把你们都杀了!!!"
 
 # game/code/e06/e06s05.rpy:644
 translate chinese e06s05_arj_enema_60ecbc48:
 
     # mc "That doesn't sound like something Daisy would normally say."
-    mc "That doesn't sound like something Daisy would normally say."
+    mc "这听起来不像是黛西通常会说的话。"
 
 # game/code/e06/e06s05.rpy:645
 translate chinese e06s05_arj_enema_06f3eeee:
 
     # dd "THEN I'M GOING TO FUCK ALL YOUR CORPSES UNTIL I FEEL THIS GOOD AGAIN!!!"
-    dd "THEN I'M GOING TO FUCK ALL YOUR CORPSES UNTIL I FEEL THIS GOOD AGAIN!!!"
+    dd "然后我要奸尸，把你们所有人都干个遍，直到我再次感觉这么美!!!"
 
 # game/code/e06/e06s05.rpy:646
 translate chinese e06s05_arj_enema_5e728ef4:
 
     # mc "That's unsettling."
-    mc "That's unsettling."
+    mc "这有点吓人了啊。"
 
 # game/code/e06/e06s05.rpy:648
 translate chinese e06s05_arj_enema_c3b4f596:
 
     # arj "I mean, I could always mix up another batch."
-    arj "I mean, I could always mix up another batch."
+    arj "嘿，我可以再调制另一批。"
 
 # game/code/e06/e06s05.rpy:649
 translate chinese e06s05_arj_enema_7c14008a:
 
     # dd "I WANT IT ALL!!! GIVE IT TO ME NOW!!!"
-    dd "I WANT IT ALL!!! GIVE IT TO ME NOW!!!"
+    dd "我全都要!!现在就给我!!!"
 
 # game/code/e06/e06s05.rpy:650
 translate chinese e06s05_arj_enema_cc3a9d55:
 
     # mc "Wow. This is really intense."
-    mc "Wow. This is really intense."
+    mc "哇。这感觉真的很强烈。"
 
 # game/code/e06/e06s05.rpy:652
 translate chinese e06s05_arj_enema_7cf8890a:
 
     # arj "What do you say, [mcname]? Do you want me to be the bucket? You could even fuck me while-"
-    arj "What do you say, [mcname]? Do you want me to be the bucket? You could even fuck me while-"
+    arj "你说呢，[mcname]？你想让我当水桶吗？你甚至可以在操我的同时--"
 
 # game/code/e06/e06s05.rpy:655
 translate chinese e06s05_arj_enema_f3aac6e7:
 
     # sy "I've got the bucket!"
-    sy "I've got the bucket!"
+    sy "我拿到桶了!"
 
 # game/code/e06/e06s05.rpy:656
 translate chinese e06s05_arj_enema_6470e464:
 
     # arj "Rain check, then."
-    arj "Rain check, then."
+    arj "那就改天吧。"
 
 # game/code/e06/e06s05.rpy:658
 translate chinese e06s05_arj_enema_707837b7:
 
     # arj "Oh good. It's about time we let her unleash the beast."
-    arj "Oh good. It's about time we let her unleash the beast."
+    arj "哦，很好。是时候让她释放兽性了。"
 
 # game/code/e06/e06s05.rpy:659
 translate chinese e06s05_arj_enema_f46a5e3d:
 
     # mc "I imagine it will be more like flooding the Nile."
-    mc "I imagine it will be more like flooding the Nile."
+    mc "我觉得这更像是尼罗河的洪水。"
 
 # game/code/e06/e06s05.rpy:661
 translate chinese e06s05_arj_enema_ba2b4ce4:
 
     # arj "Watch and learn."
-    arj "Watch and learn."
+    arj "看着吧，学着点。"
 
 # game/code/e06/e06s05.rpy:662
 translate chinese e06s05_arj_enema_6ab8b812:
 
     # dd "AAAAAHHHHHHHHHHYYYYYEEEEEEAAAAAHHH"
-    dd "AAAAAHHHHHHHHHHYYYYYEEEEEEAAAAAHHH"
+    dd "啊啊啊要...死了啊...啊啊"
 
 # game/code/e06/e06s05.rpy:664
 translate chinese e06s05_arj_enema_df96b3b8:
 
     # dd "Fucking hell. I'm sweating like a... thing that gets overheated."
-    dd "Fucking hell. I'm sweating like a... thing that gets overheated."
+    dd "操。我真是汗流浃背...太热了。"
 
 # game/code/e06/e06s05.rpy:665
 translate chinese e06s05_arj_enema_cfc45a15:
 
     # mc "How does that feel, Daisy?"
-    mc "How does that feel, Daisy?"
+    mc "那感觉怎么样，黛西？"
 
 # game/code/e06/e06s05.rpy:666
 translate chinese e06s05_arj_enema_1e7cd951:
 
     # dd "Like a flaming drunk orgasm that wouldn't stop."
-    dd "Like a flaming drunk orgasm that wouldn't stop."
+    dd "就像那种醉酒性高潮，全程醉醺醺的，欲罢不能。"
 
 # game/code/e06/e06s05.rpy:668
 translate chinese e06s05_arj_enema_fbb696ac:
 
     # arj "Exactly."
-    arj "Exactly."
+    arj "没错。"
 
 # game/code/e06/e06s05.rpy:669
 translate chinese e06s05_arj_enema_ab79aaa4:
 
     # mc "You're wasted on electronics. You should have been a chemistry major."
-    mc "You're wasted on electronics. You should have been a chemistry major."
+    mc "你学电子学真是浪费了。你应该学化学的。"
 
 # game/code/e06/e06s05.rpy:671
 translate chinese e06s05_arj_enema_793052d5:
 
     # arj "Oh, this is just for fun."
-    arj "Oh, this is just for fun."
+    arj "就是为了好玩嘛。"
 
 # game/code/e06/e06s05.rpy:672
 translate chinese e06s05_arj_enema_c8472e17:
 
     # arj "You should see what I can do with electricity."
-    arj "You should see what I can do with electricity."
+    arj "你应该看看我用电能做什么。"
 
 # game/code/e06/e06s05.rpy:673
 translate chinese e06s05_arj_enema_0886c18e:
 
     # mc "Fair enough. Let's give Daisy a few minutes to collect herself."
-    mc "Fair enough. Let's give Daisy a few minutes to collect herself."
+    mc "行吧。我们给黛西几分钟，让她镇定一下。"
 
 # game/code/e06/e06s05.rpy:674
 translate chinese e06s05_arj_enema_443b9298:
 
     # sy "She looks like she needs an old priest, a young priest, and a bath in holy water."
-    sy "She looks like she needs an old priest, a young priest, and a bath in holy water."
+    sy "她看起来需要一个老牧师，一个年轻牧师，再来个圣水澡。"
 
 # game/code/e06/e06s05.rpy:676
 translate chinese e06s05_arj_enema_a3714c4a:
 
     # dd "I need a towel, a shower, and a pint of vodka."
-    dd "I need a towel, a shower, and a pint of vodka."
+    dd "我需要一条毛巾，洗个澡，还要一瓶伏特加。"
 
 # game/code/e06/e06s05.rpy:677
 translate chinese e06s05_arj_enema_e0356027:
 
     # dd "Not necessarily in that order."
-    dd "Not necessarily in that order."
+    dd "不一定要按这个顺序。"
 
 # game/code/e06/e06s05.rpy:680
 translate chinese e06s05_arj_enema_6dadfd59:
 
     # dd "Alright, what's next?"
-    dd "Alright, what's next?"
+    dd "好吧，接下来是什么？"
 
 # game/code/e06/e06s05.rpy:690
 translate chinese e06s05_arj_fisting_8824564d:
 
     # arj "What's the largest thing you've ever had up your ass?"
-    arj "What's the largest thing you've ever had up your ass?"
+    arj "你屁股里最大装过什么东西？"
 
 # game/code/e06/e06s05.rpy:691
 translate chinese e06s05_arj_fisting_56e10097:
 
     # mct "I hope she doesn't ask me that."
-    mct "I hope she doesn't ask me that."
+    mct "我希望她不要问我这个问题。"
 
 # game/code/e06/e06s05.rpy:692
 translate chinese e06s05_arj_fisting_fd75f3c6:
 
     # dd "You know those dragon dildos? The novelty things?"
-    dd "You know those dragon dildos? The novelty things?"
+    dd "你知道那些龙形假阳具吗？那种奇的东西？"
 
 # game/code/e06/e06s05.rpy:694
 translate chinese e06s05_arj_fisting_5673902d:
 
     # arj "You fit one of those in your butthole?"
-    arj "You fit one of those in your butthole?"
+    arj "你屁眼里能装下一个吗？"
 
 # game/code/e06/e06s05.rpy:695
 translate chinese e06s05_arj_fisting_b5684414:
 
     # dd "Well, one at first..."
-    dd "Well, one at first..."
+    dd "嗯，一开始只有一个..."
 
 # game/code/e06/e06s05.rpy:696
 translate chinese e06s05_arj_fisting_db581ccd:
 
     # arj "Wow."
-    arj "Wow."
+    arj "哇。"
 
 # game/code/e06/e06s05.rpy:698
 translate chinese e06s05_arj_fisting_ed1e9833:
 
     # dd "Oh, and freshmen year this was this inflatable-"
-    dd "Oh, and freshmen year this was this inflatable-"
+    dd "哦，大一的时候，是充气的--"
 
 # game/code/e06/e06s05.rpy:699
 translate chinese e06s05_arj_fisting_712a33c8:
 
     # mc "I think we get the point."
-    mc "I think we get the point."
+    mc "我们明白了。"
 
 # game/code/e06/e06s05.rpy:700
 translate chinese e06s05_arj_fisting_4425326e:
 
     # dd "Okay."
-    dd "Okay."
+    dd "好。"
 
 # game/code/e06/e06s05.rpy:702
 translate chinese e06s05_arj_fisting_91591f4b:
 
     # arj "Huh. I guess this should be easy for both of us."
-    arj "Huh. I guess this should be easy for both of us."
+    arj "啊。我想这对我们俩来说都很容易。"
 
 # game/code/e06/e06s05.rpy:703
 translate chinese e06s05_arj_fisting_c9003aec:
 
     # dd "I haven't had anything back there in about a year, though. So it might be kinda tight."
-    dd "I haven't had anything back there in about a year, though. So it might be kinda tight."
+    dd "不过，我已经有一年没有塞过任何东西了。所以可能有点紧。"
 
 # game/code/e06/e06s05.rpy:705
 translate chinese e06s05_arj_fisting_2a664dcc:
 
     # arj "Well, let's see if it is like riding a bike."
-    arj "Well, let's see if it is like riding a bike."
+    arj "好吧，让我们看看是不是像骑自行车一样。"
 
 # game/code/e06/e06s05.rpy:706
 translate chinese e06s05_arj_fisting_97cdae3c:
 
     # dd "With or without the seat?"
-    dd "With or without the seat?"
+    dd "有没有座位？"
 
 # game/code/e06/e06s05.rpy:707
 translate chinese e06s05_arj_fisting_2b35b6fe:
@@ -2255,523 +2255,523 @@ translate chinese e06s05_arj_fisting_2b35b6fe:
 translate chinese e06s05_arj_fisting_22d02f76:
 
     # arj "Moving on."
-    arj "Moving on."
+    arj "继续。"
 
 # game/code/e06/e06s05.rpy:711
 translate chinese e06s05_arj_fisting_eb11fc1e:
 
     # dd "Oh my. You've done this before, haven't you?"
-    dd "Oh my. You've done this before, haven't you?"
+    dd "哦，天哪。你以前是不是干过这种事？"
 
 # game/code/e06/e06s05.rpy:713
 translate chinese e06s05_arj_fisting_ea98fadc:
 
     # arj "I think this will be easier for both of us if you don't ask questions right now."
-    arj "I think this will be easier for both of us if you don't ask questions right now."
+    arj "如果你现在不问问题，对我们俩都好办。"
 
 # game/code/e06/e06s05.rpy:714
 translate chinese e06s05_arj_fisting_0fa72193:
 
     # dd "Why?"
-    dd "Why?"
+    dd "为什么？"
 
 # game/code/e06/e06s05.rpy:718
 translate chinese e06s05_arj_fisting_8ab0d48d:
 
     # arj "I'm not really comfortable with conversation while I do this sort of thing."
-    arj "I'm not really comfortable with conversation while I do this sort of thing."
+    arj "我做这种事的时候，真的不太适应聊天。"
 
 # game/code/e06/e06s05.rpy:719
 translate chinese e06s05_arj_fisting_4ee19b1e:
 
     # dd "Why is that? Do you think-"
-    dd "Why is that? Do you think-"
+    dd "为什么？你认为--"
 
 # game/code/e06/e06s05.rpy:723
 translate chinese e06s05_arj_fisting_eea9f795:
 
     # arj "I'm not sure about you, but I come from a fairly conservative background."
-    arj "I'm not sure about you, but I come from a fairly conservative background."
+    arj "我不确定你是什么情况，但我来自一个相当保守的家庭。"
 
 # game/code/e06/e06s05.rpy:724
 translate chinese e06s05_arj_fisting_946e701c:
 
     # arj "This sort of thing... it just isn't done."
-    arj "This sort of thing... it just isn't done."
+    arj "这种事情...就是不能做。"
 
 # game/code/e06/e06s05.rpy:728
 translate chinese e06s05_arj_fisting_b0dd94e3:
 
     # dd "Are you worried it would displease your Mom and Dad?"
-    dd "Are you worried it would displease your Mom and Dad?"
+    dd "你担心这会让你爸妈不高兴吗？"
 
 # game/code/e06/e06s05.rpy:729
 translate chinese e06s05_arj_fisting_ac2a8da9:
 
     # arj "Seriously? We're going to talk about this now?"
-    arj "Seriously? We're going to talk about this now?"
+    arj "你认真的？我们现在要谈这个吗？"
 
 # game/code/e06/e06s05.rpy:730
 translate chinese e06s05_arj_fisting_80f46a22:
 
     # arj "Okay, yes. My parents wouldn't understand this at all."
-    arj "Okay, yes. My parents wouldn't understand this at all."
+    arj "好吧，你说得对。我父母根本不会理解这一点。"
 
 # game/code/e06/e06s05.rpy:734
 translate chinese e06s05_arj_fisting_dfee49bf:
 
     # arj "But this really isn't the time to talk about such things."
-    arj "But this really isn't the time to talk about such things."
+    arj "但现在真的不是谈论这些的时候。"
 
 # game/code/e06/e06s05.rpy:735
 translate chinese e06s05_arj_fisting_9e4273c8:
 
     # dd "Why not?"
-    dd "Why not?"
+    dd "为什么不是？"
 
 # game/code/e06/e06s05.rpy:736
 translate chinese e06s05_arj_fisting_aadad784:
 
     # dd "Your parents still think of you as a child. You still think of them thinking of you as a child."
-    dd "Your parents still think of you as a child. You still think of them thinking of you as a child."
+    dd "你的父母仍然把你当孩子看待。你仍然认为他们把你当孩子看待。"
 
 # game/code/e06/e06s05.rpy:737
 translate chinese e06s05_arj_fisting_674eae44:
 
     # dd "You're an adult now, AmRose. You get to do what you want."
-    dd "You're an adult now, AmRose. You get to do what you want."
+    dd "你现在是个成年人了，爱洛丝。你可以做任何想做的事。"
 
 # game/code/e06/e06s05.rpy:741
 translate chinese e06s05_arj_fisting_038c5a04:
 
     # arj "That's not it. Look, can I just fist your ass in peace?"
-    arj "That's not it. Look, can I just fist your ass in peace?"
+    arj "不是这样的。听着，我能安静地把拳头插进你屁股里吗？"
 
 # game/code/e06/e06s05.rpy:742
 translate chinese e06s05_arj_fisting_9a7585fd:
 
     # arj "I don't need a therapy session right now."
-    arj "I don't need a therapy session right now."
+    arj "我现在不需要心理治疗。"
 
 # game/code/e06/e06s05.rpy:744
 translate chinese e06s05_arj_fisting_0238cf7f:
 
     # dd "A little faster. Like that. Yes."
-    dd "A little faster. Like that. Yes."
+    dd "再快一点。就像这样。没错。"
 
 # game/code/e06/e06s05.rpy:745
 translate chinese e06s05_arj_fisting_828a2aa0:
 
     # dd "And I think you do. Why else would you be doing this?"
-    dd "And I think you do. Why else would you be doing this?"
+    dd "我觉得你需要谈谈。不然你为什么要这么做？"
 
 # game/code/e06/e06s05.rpy:746
 translate chinese e06s05_arj_fisting_6ade894d:
 
     # arj "I mean, I love [mcname]."
-    arj "I mean, I love [mcname]."
+    arj "我的意思是，我喜欢[mcname]。"
 
 # game/code/e06/e06s05.rpy:747
 translate chinese e06s05_arj_fisting_83edd951:
 
     # dd "You started this. You suggested this."
-    dd "You started this. You suggested this."
+    dd "是你挑起来的。这是你建议的。"
 
 # game/code/e06/e06s05.rpy:749
 translate chinese e06s05_arj_fisting_af1aadc5:
 
     # dd "Damn, girl. You're good at this."
-    dd "Damn, girl. You're good at this."
+    dd "操，可以啊。你很擅长这个。"
 
 # game/code/e06/e06s05.rpy:750
 translate chinese e06s05_arj_fisting_a9549484:
 
     # arj "Thank you. You're not so bad yourself."
-    arj "Thank you. You're not so bad yourself."
+    arj "谢谢。你也还不赖。"
 
 # game/code/e06/e06s05.rpy:752
 translate chinese e06s05_arj_fisting_3190be1f:
 
     # dd "I just think FUCKME that you should consider OHFUCKYES why you're really doing it."
-    dd "I just think FUCKME that you should consider OHFUCKYES why you're really doing it."
+    dd "我只是觉得...操啊...你应该考虑一下...哈...你为什么要这么做。"
 
 # game/code/e06/e06s05.rpy:754
 translate chinese e06s05_arj_fisting_e1589b55:
 
     # dd "I mean FASTER if you climbed Mount Fuji HARDER wouldn't your parents be proud of you?"
-    dd "I mean FASTER if you climbed Mount Fuji HARDER wouldn't your parents be proud of you?"
+    dd "我的意思是...再快一点...如果你登上了富士山...用力点...，你的父母不会为你感到骄傲吗？"
 
 # game/code/e06/e06s05.rpy:756
 translate chinese e06s05_arj_fisting_ce3fe6dc:
 
     # dd "HOLYSHITBALLS even though YOUMAKEMEWEAK they've never done it?"
-    dd "HOLYSHITBALLS even though YOUMAKEMEWEAK they've never done it?"
+    dd "呼...尽管...你把我都抽干了...尽管他们从来没有实现过这种成就？"
 
 # game/code/e06/e06s05.rpy:757
 translate chinese e06s05_arj_fisting_d384e46d:
 
     # arj "Quit talking. Just cum already."
-    arj "Quit talking. Just cum already."
+    arj "别说话了。现在就射吧。"
 
 # game/code/e06/e06s05.rpy:759
 translate chinese e06s05_arj_fisting_91fa10d4:
 
     # dd "GGGAHHAHAHAHHAHAHAHAHAAAYEEEEESSSSS!!!!"
-    dd "GGGAHHAHAHAHHAHAHAHAHAAAYEEEEESSSSS!!!!"
+    dd "噶啊啊啊啊啊我要去了啊啊!!!"
 
 # game/code/e06/e06s05.rpy:760
 translate chinese e06s05_arj_fisting_101a5ad8:
 
     # mct "Wow. That was intense."
-    mct "Wow. That was intense."
+    mct "哇。太激烈了。"
 
 # game/code/e06/e06s05.rpy:761
 translate chinese e06s05_arj_fisting_450982b2:
 
     # arj "Good girl. I'll think about what you said."
-    arj "Good girl. I'll think about what you said."
+    arj "好孩子。我会考虑你说的话。"
 
 # game/code/e06/e06s05.rpy:763
 translate chinese e06s05_arj_fisting_b85f6643:
 
     # dd "Thank you."
-    dd "Thank you."
+    dd "谢谢。"
 
 # game/code/e06/e06s05.rpy:764
 translate chinese e06s05_arj_fisting_8946c892:
 
     # dd "And thank you for the orgasm from my ass... the assgasm?"
-    dd "And thank you for the orgasm from my ass... the assgasm?"
+    dd "还要谢谢你让我的屁股达到了高潮...简称腚潮？"
 
 # game/code/e06/e06s05.rpy:765
 translate chinese e06s05_arj_fisting_df716b72:
 
     # dd "It was very satisfying."
-    dd "It was very satisfying."
+    dd "我非常满意。"
 
 # game/code/e06/e06s05.rpy:767
 translate chinese e06s05_arj_fisting_f62306f8:
 
     # arj "I'm glad."
-    arj "I'm glad."
+    arj "我很高兴。"
 
 # game/code/e06/e06s05.rpy:774
 translate chinese e06s05_dd_bound_ea3167a8:
 
     # mc "So, now I guess it's my turn."
-    mc "So, now I guess it's my turn."
+    mc "那么，现在该轮到我了。"
 
 # game/code/e06/e06s05.rpy:775
 translate chinese e06s05_dd_bound_bf7463b1:
 
     # sy "In a way, it is all our turns."
-    sy "In a way, it is all our turns."
+    sy "某种程度上说，该轮到我们了。"
 
 # game/code/e06/e06s05.rpy:776
 translate chinese e06s05_dd_bound_8a340642:
 
     # mc "What does that mean?"
-    mc "What does that mean?"
+    mc "这是什么意思？"
 
 # game/code/e06/e06s05.rpy:778
 translate chinese e06s05_dd_bound_5b46a314:
 
     # sy "Min, you're familiar with bondage, right?"
-    sy "Min, you're familiar with bondage, right?"
+    sy "明，你对捆绑很熟悉吧？"
 
 # game/code/e06/e06s05.rpy:779
 translate chinese e06s05_dd_bound_39ace011:
 
     # mes "I am."
-    mes "I am."
+    mes "是的。"
 
 # game/code/e06/e06s05.rpy:783
 translate chinese e06s05_dd_bound_0b9fcd6f:
 
     # sy "Excellent. I'll need both of your help with this."
-    sy "Excellent. I'll need both of your help with this."
+    sy "好。这件事我需要你们俩的帮助。"
 
 # game/code/e06/e06s05.rpy:785
 translate chinese e06s05_dd_bound_176a3024:
 
     # mc "Nice work."
-    mc "Nice work."
+    mc "干得好。"
 
 # game/code/e06/e06s05.rpy:786
 translate chinese e06s05_dd_bound_111fabce:
 
     # sy "I couldn't have done it without you... both of you."
-    sy "I couldn't have done it without you... both of you."
+    sy "没有你，我不可能做到...你们两个都很重要。"
 
 # game/code/e06/e06s05.rpy:787
 translate chinese e06s05_dd_bound_099b57a4:
 
     # mes "You're welcome."
-    mes "You're welcome."
+    mes "不用客气。"
 
 # game/code/e06/e06s05.rpy:789
 translate chinese e06s05_dd_bound_7efad164:
 
     # arj "Don't worry about me. I've just been drinking and enjoying the show!"
-    arj "Don't worry about me. I've just been drinking and enjoying the show!"
+    arj "别担心我。我只是在喝酒，享受表演!"
 
 # game/code/e06/e06s05.rpy:790
 translate chinese e06s05_dd_bound_f8f9d16c:
 
     # mct "Well, it sounds like AmRose is good and sloshed."
-    mct "Well, it sounds like AmRose is good and sloshed."
+    mct "好吧，听起来爱洛丝很好，而且喝得很醉。"
 
 # game/code/e06/e06s05.rpy:792
 translate chinese e06s05_dd_bound_cbc7dcc3:
 
     # mc "So, Stacy, what's next on your plan for this wonderful bachelor party?"
-    mc "So, Stacy, what's next on your plan for this wonderful bachelor party?"
+    mc "那史黛西，你这个精彩的单身派对下一步计划是什么？"
 
 # game/code/e06/e06s05.rpy:793
 translate chinese e06s05_dd_bound_3b842e52:
 
     # sy "Do I hear a hint of sarcasm, [mcname]?"
-    sy "Do I hear a hint of sarcasm, [mcname]?"
+    sy "你是在讽刺我吗，[mcname]？"
 
 # game/code/e06/e06s05.rpy:794
 translate chinese e06s05_dd_bound_ee79d685:
 
     # mc "Not in the slightest. I'm loving every minute of it so far."
-    mc "Not in the slightest. I'm loving every minute of it so far."
+    mc "一点也没那个意思。到目前为止，它的每一分钟我都很喜欢。"
 
 # game/code/e06/e06s05.rpy:795
 translate chinese e06s05_dd_bound_6bb3b3fe:
 
     # sy "Well good, because the next part of my marvelous plan is for you to fuck Daisy any way you want."
-    sy "Well good, because the next part of my marvelous plan is for you to fuck Daisy any way you want."
+    sy "很好，因为我的下一步计划就是让你随心所欲地操黛西。"
 
 # game/code/e06/e06s05.rpy:797
 translate chinese e06s05_dd_bound_0a707361:
 
     # mc "Her ass is mine."
-    mc "Her ass is mine."
+    mc "她的屁股是我的。"
 
 # game/code/e06/e06s05.rpy:798
 translate chinese e06s05_dd_bound_380a2181:
 
     # sy "Perfect. Meanwhile, the rest of us will amuse ourselves by humiliating her."
-    sy "Perfect. Meanwhile, the rest of us will amuse ourselves by humiliating her."
+    sy "完美。与此同时，我们其余的人将以羞辱她为乐。"
 
 # game/code/e06/e06s05.rpy:799
 translate chinese e06s05_dd_bound_c26bc3b5:
 
     # arj "Whoooo Hwooooo!"
-    arj "Whoooo Hwooooo!"
+    arj "喔呼!"
 
 # game/code/e06/e06s05.rpy:801
 translate chinese e06s05_dd_bound_ab04227e:
 
     # mes "Oh, I'm looking forward to this."
-    mes "Oh, I'm looking forward to this."
+    mes "哦，我很期待这个。"
 
 # game/code/e06/e06s05.rpy:802
 translate chinese e06s05_dd_bound_de8b550c:
 
     # mc "Whatever you want. Just don't get in my way."
-    mc "Whatever you want. Just don't get in my way."
+    mc "随便你们。别妨碍我就行。"
 
 # game/code/e06/e06s05.rpy:803
 translate chinese e06s05_dd_bound_6dc854da:
 
     # dd "Yeah?"
-    dd "Yeah?"
+    dd "嗯？"
 
 # game/code/e06/e06s05.rpy:805
 translate chinese e06s05_dd_bound_af39afa4:
 
     # mc "I seriously need to fuck something right now - and I'm determined it will be your ass."
-    mc "I seriously need to fuck something right now - and I'm determined it will be your ass."
+    mc "我现在真的需要开干了--我决定，就是你的屁股了。"
 
 # game/code/e06/e06s05.rpy:806
 translate chinese e06s05_dd_bound_d3d1b4d8:
 
     # dd "That's my [mcname]."
-    dd "That's my [mcname]."
+    dd "这才是我的[mcname]."
 
 # game/code/e06/e06s05.rpy:810
 translate chinese e06s05_dd_bound_c5685c44:
 
     # mct "Goddamn this feels fucking amazing."
-    mct "Goddamn this feels fucking amazing."
+    mct "妈的，这感觉太棒了。"
 
 # game/code/e06/e06s05.rpy:814
 translate chinese e06s05_dd_bound_c41a5e17:
 
     # mct "I mean, sure, her pussy technically feels better..."
-    mct "I mean, sure, her pussy technically feels better..."
+    mct "不过当然，严格来说，操她小穴技术上感觉会更好..."
 
 # game/code/e06/e06s05.rpy:815
 translate chinese e06s05_dd_bound_af1acb56:
 
     # mct "...but psychologically... that asshole... fuck yes."
-    mct "...but psychologically... that asshole... fuck yes."
+    mct "...但从心理上来说...操屁眼...别有一番感觉。"
 
 # game/code/e06/e06s05.rpy:817
 translate chinese e06s05_dd_bound_b5d41685:
 
     # mc "Hell Yes!"
-    mc "Hell Yes!"
+    mc "啊啊!"
 
 # game/code/e06/e06s05.rpy:818
 translate chinese e06s05_dd_bound_183b8a6d:
 
     # mes "You like that?"
-    mes "You like that?"
+    mes "你喜欢吗？"
 
 # game/code/e06/e06s05.rpy:819
 translate chinese e06s05_dd_bound_cbd424f4:
 
     # mc "Fuck, that is so hot."
-    mc "Fuck, that is so hot."
+    mc "妈的，太性感了。"
 
 # game/code/e06/e06s05.rpy:821
 translate chinese e06s05_dd_bound_238a0341:
 
     # mes "You want me to do it again?"
-    mes "You want me to do it again?"
+    mes "你想让我再做一次？"
 
 # game/code/e06/e06s05.rpy:822
 translate chinese e06s05_dd_bound_e2a5c93d:
 
     # mc "YES"
-    mc "YES"
+    mc "是的"
 
 # game/code/e06/e06s05.rpy:824
 translate chinese e06s05_dd_bound_88fd06d9:
 
     # mc "Fuck me that's hot!"
-    mc "Fuck me that's hot!"
+    mc "操，这太要命了!"
 
 # game/code/e06/e06s05.rpy:825
 translate chinese e06s05_dd_bound_da8ab254:
 
     # mes "I can almost feel you getting harder."
-    mes "I can almost feel you getting harder."
+    mes "我能感觉到你越来越硬了。"
 
 # game/code/e06/e06s05.rpy:827
 translate chinese e06s05_dd_bound_1a5e79dc:
 
     # sy "Hey, sexy people. What about me?"
-    sy "Hey, sexy people. What about me?"
+    sy "嘿，性感先生。那我呢？"
 
 # game/code/e06/e06s05.rpy:828
 translate chinese e06s05_dd_bound_1ff5d424:
 
     # mc "You know you're always the hottest woman around."
-    mc "You know you're always the hottest woman around."
+    mc "你知道你一直是最性感的女人。"
 
 # game/code/e06/e06s05.rpy:829
 translate chinese e06s05_dd_bound_aee95c72:
 
     # sy "I don't know. She might give me a run for my money."
-    sy "I don't know. She might give me a run for my money."
+    sy "我不知道。她也许...能和我一较高下。"
 
 # game/code/e06/e06s05.rpy:831
 translate chinese e06s05_dd_bound_d19f6bc9:
 
     # mct "Damn! That's hawt!!!"
-    mct "Damn! That's hawt!!!"
+    mct "妈的!我受不了了!!!"
 
 # game/code/e06/e06s05.rpy:833
 translate chinese e06s05_dd_bound_040620b8:
 
     # sy "What do you think, [mcname]? Who's the sexiest bitch now?!"
-    sy "What do you think, [mcname]? Who's the sexiest bitch now?!"
+    sy "说你觉得怎么样，[mcname]]？现在谁是最性感的婊子?!"
 
 # game/code/e06/e06s05.rpy:834
 translate chinese e06s05_dd_bound_ba9f21ad:
 
     # mc "Ask me again tomorrow."
-    mc "Ask me again tomorrow."
+    mc "明天再问我。"
 
 # game/code/e06/e06s05.rpy:838
 translate chinese e06s05_dd_bound_c5165073:
 
     # mes "What about this, [mcname]? {w}Does it make you even harder when I spit in this cunt's face?"
-    mes "What about this, [mcname]? {w}Does it make you even harder when I spit in this cunt's face?"
+    mes "这个怎么样，[mcname]]？{w}当我朝这个婊子的脸上吐口水的时候，是不是让你更难受了？"
 
 # game/code/e06/e06s05.rpy:839
 translate chinese e06s05_dd_bound_827ebe19:
 
     # mc "Honestly? Yes."
-    mc "Honestly? Yes."
+    mc "老实说？是的。"
 
 # game/code/e06/e06s05.rpy:841
 translate chinese e06s05_dd_bound_4466857c:
 
     # mes "What if I do this? {w}Does it make you hard watching me rub my spit into the face of the girl you're fucking?"
-    mes "What if I do this? {w}Does it make you hard watching me rub my spit into the face of the girl you're fucking?"
+    mes "如果我这样做呢？{w}看着我在你操的女孩脸上擦唾沫，你会难受吗？"
 
 # game/code/e06/e06s05.rpy:842
 translate chinese e06s05_dd_bound_af67f1b4:
 
     # mes "The girl you're fucking in the ass?"
-    mes "The girl you're fucking in the ass?"
+    mes "而你，正在操她屁股？"
 
 # game/code/e06/e06s05.rpy:844
 translate chinese e06s05_dd_bound_6e8fcec9:
 
     # mes "Would it help if I spit on her asshole while you're fucking her?"
-    mes "Would it help if I spit on her asshole while you're fucking her?"
+    mes "在你操她的时候，我往她屁眼上吐口水会不会好点？"
 
 # game/code/e06/e06s05.rpy:848
 translate chinese e06s05_dd_bound_7a45ad01:
 
     # arj "Look at you, Daisy."
-    arj "Look at you, Daisy."
+    arj "看看你，黛西。"
 
 # game/code/e06/e06s05.rpy:849
 translate chinese e06s05_dd_bound_baa995f7:
 
     # arj "Perfect skin, perfect face, perfect body, perfect tits..."
-    arj "Perfect skin, perfect face, perfect body, perfect tits..."
+    arj "无瑕的皮肤，精致的脸蛋，完美的身材，硕大的奶子..."
 
 # game/code/e06/e06s05.rpy:850
 translate chinese e06s05_dd_bound_2f4871b0:
 
     # mct "Perfect ass. Fucking amazing asshole."
-    mct "Perfect ass. Fucking amazing asshole."
+    mct "紧致的翘臀，要男人命的屁眼儿。"
 
 # game/code/e06/e06s05.rpy:852
 translate chinese e06s05_dd_bound_7c6c2a31:
 
     # arj "You like that? I bet you do."
-    arj "You like that? I bet you do."
+    arj "你喜欢吗？我敢说你绝对喜欢。"
 
 # game/code/e06/e06s05.rpy:853
 translate chinese e06s05_dd_bound_e645bcef:
 
     # arj "I bet you enjoy everything that ever happens to you."
-    arj "I bet you enjoy everything that ever happens to you."
+    arj "我敢说，你很享受发生在你身上的一切。"
 
 # game/code/e06/e06s05.rpy:855
 translate chinese e06s05_dd_bound_4190e0d0:
 
     # arj "You like this? You do, don't you? You love being humiliated by people like me."
-    arj "You like this? You do, don't you? You love being humiliated by people like me."
+    arj "是不是？你很享受的吧？你喜欢被我这样的人羞辱。"
 
 # game/code/e06/e06s05.rpy:856
 translate chinese e06s05_dd_bound_28992ef3:
 
     # arj "You're the perfect fucking slut"
-    arj "You're the perfect fucking slut"
+    arj "你真是个完美的荡妇"
 
 # game/code/e06/e06s05.rpy:857
 translate chinese e06s05_dd_bound_f79942ef:
 
     # mct "She's not wrong there, but I suspect AmRose has some issues."
-    mct "She's not wrong there, but I suspect AmRose has some issues."
+    mct "她没有错，但我怀疑爱洛丝有问题。"
 
 # game/code/e06/e06s05.rpy:859
 translate chinese e06s05_dd_bound_8f0c8415:
 
     # mct "I really need to-"
-    mct "I really need to-"
+    mct "我真的需要..."
 
 # game/code/e06/e06s05.rpy:860
 translate chinese e06s05_dd_bound_d5c0d6e2:
