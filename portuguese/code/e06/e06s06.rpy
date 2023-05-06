@@ -1262,9 +1262,9 @@ translate portuguese e06s06_fuck_mh_5eec93b7:
 
 # TODO: Translation updated at 2023-05-03 19:56
 
-# game/code/e06/e06s06.rpy:666
-translate portuguese e06s06_finish_1_c1f0c4b2:
+# game/code/e06/e06s06.rpy:673
+translate portuguese e06s06_finish_1_6979e580:
 
-    # mh "[mcname] That's it, [mcname]. You heard Lyssa... show her how you make me cum!"
+    # mh "[mcname] That's it, [mcname]. Show Lydia how you make me cum!"
     mh ""
 
