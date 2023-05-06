@@ -1451,427 +1451,427 @@ translate chinese e06s05_sy_strapon_09766bfa:
 translate chinese e06s05_sy_strapon_4237fb9e:
 
     # dd "I don't understand. How can you hit me in just the right spots like [mcname] does?"
-    dd "I don't understand. How can you hit me in just the right spots like [mcname] does?"
+    dd "我不明白。你怎么能像[mcname]那样正中我的爽点呢？"
 
 # game/code/e06/e06s05.rpy:490
 translate chinese e06s05_sy_strapon_d8d6d7fc:
 
     # dd "No one has ever fucked me like he does."
-    dd "No one has ever fucked me like he does."
+    dd "从来没有人像他这样操过我。"
 
 # game/code/e06/e06s05.rpy:491
 translate chinese e06s05_sy_strapon_9fe5a53a:
 
     # mc "Well, we both learned from the same porn stash."
-    mc "Well, we both learned from the same porn stash."
+    mc "我们都是从同一个A片库里学来的。"
 
 # game/code/e06/e06s05.rpy:493
 translate chinese e06s05_sy_strapon_3ba07e3f:
 
     # sy "That's true, but there's also the other thing."
-    sy "That's true, but there's also the other thing."
+    sy "没错，但还有另一个原因。"
 
 # game/code/e06/e06s05.rpy:494
 translate chinese e06s05_sy_strapon_5dac24e3:
 
     # dd "What's that?!"
-    dd "What's that?!"
+    dd "是什么?!"
 
 # game/code/e06/e06s05.rpy:495
 translate chinese e06s05_sy_strapon_a3af0603:
 
     # sy "I've known [mcname] as far back as I can remember."
-    sy "I've known [mcname] as far back as I can remember."
+    sy "从我记事起，我就认识他了。"
 
 # game/code/e06/e06s05.rpy:497
 translate chinese e06s05_sy_strapon_f4a4f169:
 
     # dd "Explain! But keep fucking me like this!!!"
-    dd "Explain! But keep fucking me like this!!!"
+    dd "继续说!但是操我也别停!!!!!"
 
 # game/code/e06/e06s05.rpy:499
 translate chinese e06s05_sy_strapon_341e3cc7:
 
     # mc "It's true. Stacy is my sister."
-    mc "It's true. Stacy is my sister."
+    mc "没错。史黛西是我妹妹。"
 
 # game/code/e06/e06s05.rpy:500
 translate chinese e06s05_sy_strapon_c86210e3:
 
     # mc "My younger sister."
-    mc "My younger sister."
+    mc "她比我小。"
 
 # game/code/e06/e06s05.rpy:502
 translate chinese e06s05_sy_strapon_b388251c:
 
     # mc "It's true. Stacy was just an infant when her family moved in next door."
-    mc "It's true. Stacy was just an infant when her family moved in next door."
+    mc "没错。史黛西的家人搬到我们隔壁时，她还只是个婴儿。"
 
 # game/code/e06/e06s05.rpy:503
 translate chinese e06s05_sy_strapon_de973cc0:
 
     # mc "I can still remember that white car pulling up and her mom holding her..."
-    mc "I can still remember that white car pulling up and her mom holding her..."
+    mc "我还记得那辆白色的车停了下来，她妈妈抱着她..."
 
 # game/code/e06/e06s05.rpy:505
 translate chinese e06s05_sy_strapon_93fe3630:
 
     # dd "Seriously?!"
-    dd "Seriously?!"
+    dd "真的吗?!"
 
 # game/code/e06/e06s05.rpy:506
 translate chinese e06s05_sy_strapon_4e12a8be:
 
     # sy "Yeah."
-    sy "Yeah."
+    sy "是啊。"
 
 # game/code/e06/e06s05.rpy:507
 translate chinese e06s05_sy_strapon_59ea2816:
 
     # dd "That is so hot!"
-    dd "That is so hot!"
+    dd "太性感了!"
 
 # game/code/e06/e06s05.rpy:509
 translate chinese e06s05_sy_strapon_07a46e31:
 
     # dd "Do you two fuck?"
-    dd "Do you two fuck?"
+    dd "你们俩做爱吗？"
 
 # game/code/e06/e06s05.rpy:510
 translate chinese e06s05_sy_strapon_17951c33:
 
     # mc "We do now."
-    mc "We do now."
+    mc "现在是做过了。"
 
 # game/code/e06/e06s05.rpy:512
 translate chinese e06s05_sy_strapon_f51b8a91:
 
     # dd "Oh Gawd!!!"
-    dd "Oh Gawd!!!"
+    dd "哦，天哪!!!"
 
 # game/code/e06/e06s05.rpy:513
 translate chinese e06s05_sy_strapon_89951894:
 
     # dd "Oh Maw Jebus!!!"
-    dd "Oh Maw Jebus!!!"
+    dd "天啊天啊!!!"
 
 # game/code/e06/e06s05.rpy:514
 translate chinese e06s05_sy_strapon_61d008a7:
 
     # dd "FUCKING HELLBEAST MOTHERFUCKING YESSSSSSSSSSSSSSSS!!!"
-    dd "FUCKING HELLBEAST MOTHERFUCKING YESSSSSSSSSSSSSSSS!!!"
+    dd "阿巴阿巴...哈啊!!!"
 
 # game/code/e06/e06s05.rpy:516
 translate chinese e06s05_sy_strapon_7ae3f46d:
 
     # sy "Wow."
-    sy "Wow."
+    sy "哇。"
 
 # game/code/e06/e06s05.rpy:517
 translate chinese e06s05_sy_strapon_e795b69a:
 
     # mc "I think she came."
-    mc "I think she came."
+    mc "看来她是高潮了。"
 
 # game/code/e06/e06s05.rpy:518
 translate chinese e06s05_sy_strapon_b40b6b31:
 
     # sy "Either that or we need to make a circle of salt and confine that demon really quick."
-    sy "Either that or we need to make a circle of salt and confine that demon really quick."
+    sy "要不然她就是恶魔上身了，我们要围个盐圈，把那个恶魔关起来。"
 
 # game/code/e06/e06s05.rpy:520
 translate chinese e06s05_sy_strapon_bf6ad955:
 
     # dd "I'm fine."
-    dd "I'm fine."
+    dd "我好着呢。"
 
 # game/code/e06/e06s05.rpy:521
 translate chinese e06s05_sy_strapon_bb78f2f2:
 
     # dd "That was awesome."
-    dd "That was awesome."
+    dd "太棒了。"
 
 # game/code/e06/e06s05.rpy:530
 translate chinese e06s05_arj_choice_cdd88e41:
 
     # arj "My turn?"
-    arj "My turn?"
+    arj "轮到我了？"
 
 # game/code/e06/e06s05.rpy:531
 translate chinese e06s05_arj_choice_ab5e9c67:
 
     # mc "Yes, it is. Do you have any plans, AmRose?"
-    mc "Yes, it is. Do you have any plans, AmRose?"
+    mc "是的。你有什么计划吗，爱洛丝？"
 
 # game/code/e06/e06s05.rpy:532
 translate chinese e06s05_arj_choice_d6b79589:
 
     # arj "Indeed. And I've been paying attention, so I've narrowed it down to two options."
-    arj "Indeed. And I've been paying attention, so I've narrowed it down to two options."
+    arj "还真有。我一直有在关注，所以我把范围缩小到了两个选项。"
 
 # game/code/e06/e06s05.rpy:534
 translate chinese e06s05_arj_choice_f5244280:
 
     # mc "Excellent. What are they?"
-    mc "Excellent. What are they?"
+    mc "很好。都是什么？"
 
 # game/code/e06/e06s05.rpy:535
 translate chinese e06s05_arj_choice_7500d3e4:
 
     # arj "Option one and option two."
-    arj "Option one and option two."
+    arj "选项一和选项二。"
 
 # game/code/e06/e06s05.rpy:536
 translate chinese e06s05_arj_choice_0f4a7572:
 
     # mc "And those are...?"
-    mc "And those are...?"
+    mc "具体是...？"
 
 # game/code/e06/e06s05.rpy:538
 translate chinese e06s05_arj_choice_68d4735a:
 
     # arj "Pick one and then I'll tell you what you've won."
-    arj "Pick one and then I'll tell you what you've won."
+    arj "挑一个，然后我告诉你具体选项。"
 
 # game/code/e06/e06s05.rpy:539
 translate chinese e06s05_arj_choice_95fedf6e:
 
     # dd "Oh! I know this one! Always pick whatever's behind the third door!"
-    dd "Oh! I know this one! Always pick whatever's behind the third door!"
+    dd "哦!我知道这个!永远选第三扇门后面的东西!"
 
 # game/code/e06/e06s05.rpy:540
 translate chinese e06s05_arj_choice_ec6ab1d2:
 
     # mc "AmRose..."
-    mc "AmRose..."
+    mc "爱洛丝..."
 
 # game/code/e06/e06s05.rpy:542
 translate chinese e06s05_arj_choice_e5a241f4:
 
     # arj "What? I wouldn't cheat."
-    arj "What? I wouldn't cheat."
+    arj "干嘛？我不会作弊的。"
 
 # game/code/e06/e06s05.rpy:543
 translate chinese e06s05_arj_choice_8869b63e:
 
     # mc "I'm not saying you would, but explain anyway."
-    mc "I'm not saying you would, but explain anyway."
+    mc "我不是说你会作弊，但还是解释一下吧。"
 
 # game/code/e06/e06s05.rpy:545
 translate chinese e06s05_arj_choice_e8a9a1d8:
 
     # arj "Fine. Option one is an enema."
-    arj "Fine. Option one is an enema."
+    arj "好吧。选项一是灌肠。"
 
 # game/code/e06/e06s05.rpy:546
 translate chinese e06s05_arj_choice_70e3818d:
 
     # dd "That doesn't sound so bad."
-    dd "That doesn't sound so bad."
+    dd "听起来没那么糟。"
 
 # game/code/e06/e06s05.rpy:547
 translate chinese e06s05_arj_choice_1510c992:
 
     # mc "This isn't going to be like last time - when you shoved a bottle of gin up your ass and nearly died - is it?"
-    mc "This isn't going to be like last time - when you shoved a bottle of gin up your ass and nearly died - is it?"
+    mc "这次不会像上次那样吧--你把整瓶杜松子酒塞进屁股里，差点死掉的那次？"
 
 # game/code/e06/e06s05.rpy:549
 translate chinese e06s05_arj_choice_89511d1e:
 
     # arj "No, of course not. Although it is my special blend... I've spent years perfecting it."
-    arj "No, of course not. Although it is my special blend... I've spent years perfecting it."
+    arj "不，当然不是。虽然这是我的特制调酒...我花了几年时间来完善呢。"
 
 # game/code/e06/e06s05.rpy:550
 translate chinese e06s05_arj_choice_03786bf0:
 
     # dd "That doesn't sound so good either."
-    dd "That doesn't sound so good either."
+    dd "这听起来也不怎么好。"
 
 # game/code/e06/e06s05.rpy:551
 translate chinese e06s05_arj_choice_2d71a817:
 
     # mc "Let's put a pin in that. What's option two?"
-    mc "Let's put a pin in that. What's option two?"
+    mc "我们先把这个放一边吧。选项二是什么？"
 
 # game/code/e06/e06s05.rpy:553
 translate chinese e06s05_arj_choice_a5ae625a:
 
     # arj "I fist her ass."
-    arj "I fist her ass."
+    arj "我用拳头打她的屁股。"
 
 # game/code/e06/e06s05.rpy:554
 translate chinese e06s05_arj_choice_b7eb7d4e:
 
     # dd "Well, I admire her bluntness."
-    dd "Well, I admire her bluntness."
+    dd "好吧，我欣赏她的直率。"
 
 # game/code/e06/e06s05.rpy:556
 translate chinese e06s05_arj_choice_5c69578c:
 
     # mc "Nothing unexpected there? You're not going to coat your hand in hot sauce or something first?"
-    mc "Nothing unexpected there? You're not going to coat your hand in hot sauce or something first?"
+    mc "没有什么意外吧？你不会先在手上涂上辣酱什么的吧？"
 
 # game/code/e06/e06s05.rpy:557
 translate chinese e06s05_arj_choice_b7a8dac7:
 
     # arj "Would I do that?"
-    arj "Would I do that?"
+    arj "我会那样做吗？"
 
 # game/code/e06/e06s05.rpy:558
 translate chinese e06s05_arj_choice_428c909f:
 
     # mc "... I'm honestly not sure."
-    mc "... I'm honestly not sure."
+    mc "...老实说，我也不确定。"
 
 # game/code/e06/e06s05.rpy:559
 translate chinese e06s05_arj_choice_ab13d5d3:
 
     # arj "Nothing fancy. I'll even let Daisy pick the lube before I fist her."
-    arj "Nothing fancy. I'll even let Daisy pick the lube before I fist her."
+    arj "不会搞花哨的东西。在我给黛西拳交之前，我会让她挑选润滑油。"
 
 # game/code/e06/e06s05.rpy:561
 translate chinese e06s05_arj_choice_1b1accbe:
 
     # dd "Gun oil! LOTS of Gun oil!"
-    dd "Gun oil! LOTS of Gun oil!"
+    dd "枪油!要很多枪油!"
 
 # game/code/e06/e06s05.rpy:562
 translate chinese e06s05_arj_choice_eeb39e8f:
 
     # mc "Does it make that much of a difference?"
-    mc "Does it make that much of a difference?"
+    mc "这有那么大的区别吗？"
 
 # game/code/e06/e06s05.rpy:563
 translate chinese e06s05_arj_choice_f0ac83ab:
 
     # dd "In my experience? YES!"
-    dd "In my experience? YES!"
+    dd "以我个人的经验而言？是的!"
 
 # game/code/e06/e06s05.rpy:565
 translate chinese e06s05_arj_choice_6a798597:
 
     # arj "That would be my choice as well."
-    arj "That would be my choice as well."
+    arj "那也是我的选择。"
 
 # game/code/e06/e06s05.rpy:566
 translate chinese e06s05_arj_choice_9cb347ca:
 
     # mct "Well, I guess I have a decision to make..."
-    mct "Well, I guess I have a decision to make..."
+    mct "嗯，我得做个选择了..."
 
 # game/code/e06/e06s05.rpy:586
 translate chinese e06s05_arj_enema_abbeb899:
 
     # mc "You said this is your own blend? Aren't enemas usually performed with just warm water?"
-    mc "You said this is your own blend? Aren't enemas usually performed with just warm water?"
+    mc "你说这是你自己调制的？灌肠不是通常只用温水吗？"
 
 # game/code/e06/e06s05.rpy:587
 translate chinese e06s05_arj_enema_033c194e:
 
     # arj "Actually, a lot of enema solutions include a laxative."
-    arj "Actually, a lot of enema solutions include a laxative."
+    arj "实际上，很多灌肠液都含有泻药。"
 
 # game/code/e06/e06s05.rpy:588
 translate chinese e06s05_arj_enema_b8be531e:
 
     # mc "Please tell me you didn't do that."
-    mc "Please tell me you didn't do that."
+    mc "请告诉我你没有加泻药。"
 
 # game/code/e06/e06s05.rpy:590
 translate chinese e06s05_arj_enema_f449f1a8:
 
     # arj "Oh no, of course not."
-    arj "Oh no, of course not."
+    arj "哦，不，当然没有。"
 
 # game/code/e06/e06s05.rpy:591
 translate chinese e06s05_arj_enema_7b471f6f:
 
     # mc "Good."
-    mc "Good."
+    mc "好。"
 
 # game/code/e06/e06s05.rpy:592
 translate chinese e06s05_arj_enema_47876dab:
 
     # mct "The last thing I want is her shitting on my cock later."
-    mct "The last thing I want is her shitting on my cock later."
+    mct "我最不想要的就是她在我鸡巴上拉屎。"
 
 # game/code/e06/e06s05.rpy:594
 translate chinese e06s05_arj_enema_eb581fa2:
 
     # arj "Like I said, this is my own blend. It's mostly warm milk, of course."
-    arj "Like I said, this is my own blend. It's mostly warm milk, of course."
+    arj "就像我说的，这是我自己调制的。当然，主要是热牛奶。"
 
 # game/code/e06/e06s05.rpy:595
 translate chinese e06s05_arj_enema_07842935:
 
     # mc "I feel like I should be concerned about the other ingredients."
-    mc "I feel like I should be concerned about the other ingredients."
+    mc "我觉得我还应该问一下其他成分。"
 
 # game/code/e06/e06s05.rpy:596
 translate chinese e06s05_arj_enema_da1fb770:
 
     # arj "You shouldn't."
-    arj "You shouldn't."
+    arj "你不用。"
 
 # game/code/e06/e06s05.rpy:598
 translate chinese e06s05_arj_enema_c7d91dcd:
 
     # arj "*whispers* She might."
-    arj "*whispers* She might."
+    arj "*低语* 她可能需要。"
 
 # game/code/e06/e06s05.rpy:599
 translate chinese e06s05_arj_enema_845c4c57:
 
     # mc "What was that?"
-    mc "What was that?"
+    mc "说什么呢？"
 
 # game/code/e06/e06s05.rpy:600
 translate chinese e06s05_arj_enema_7e7ffe09:
 
     # dd "She said that I might want to be concerned about the other ingredients."
-    dd "She said that I might want to be concerned about the other ingredients."
+    dd "她说我可能要注意一下其他成分。"
 
 # game/code/e06/e06s05.rpy:602
 translate chinese e06s05_arj_enema_b8de06d3:
 
     # mc "Oh."
-    mc "Oh."
+    mc "哦。"
 
 # game/code/e06/e06s05.rpy:603
 translate chinese e06s05_arj_enema_dee62411:
 
     # mct "Maybe this isn't such a good idea."
-    mct "Maybe this isn't such a good idea."
+    mct "也许这不是一个好主意。"
 
 # game/code/e06/e06s05.rpy:605
 translate chinese e06s05_arj_enema_50bb89ff:
 
     # dd "OH MY FUCK!!!"
-    dd "OH MY FUCK!!!"
+    dd "哦，操!!!"
 
 # game/code/e06/e06s05.rpy:606
 translate chinese e06s05_arj_enema_d7641047:
 
     # mc "Daisy? Are you okay?!"
-    mc "Daisy? Are you okay?!"
+    mc "黛西？你还好吗?!"
 
 # game/code/e06/e06s05.rpy:607
 translate chinese e06s05_arj_enema_92434a0a:
 
     # dd "FUCK YESSSSSSSS!!!!"
-    dd "FUCK YESSSSSSSS!!!!"
+    dd "妈的，好着呢!!!!"
 
 # game/code/e06/e06s05.rpy:609
 translate chinese e06s05_arj_enema_856360c3:
 
     # arj "I wouldn't do anything bad to her."
-    arj "I wouldn't do anything bad to her."
+    arj "我不会做任何伤害她的事。"
 
 # game/code/e06/e06s05.rpy:610
 translate chinese e06s05_arj_enema_b8d65c14:
 
     # mc "Oh, good. I was afraid you used some tabasco sauce or hot peppers or something like that."
-    mc "Oh, good. I was afraid you used some tabasco sauce or hot peppers or something like that."
+    mc "哦，太好了。我怕你用了辣酱或者辣椒之类的东西。"
 
 # game/code/e06/e06s05.rpy:612
 translate chinese e06s05_arj_enema_4cd44184:
@@ -1883,37 +1883,37 @@ translate chinese e06s05_arj_enema_4cd44184:
 translate chinese e06s05_arj_enema_0bda1cc9:
 
     # mc "You didn't, right?"
-    mc "You didn't, right?"
+    mc "你没有，对吧？"
 
 # game/code/e06/e06s05.rpy:615
 translate chinese e06s05_arj_enema_d45567ee:
 
     # dd "FUCK ME FUCK ME FUCK ME!!!"
-    dd "FUCK ME FUCK ME FUCK ME!!!"
+    dd "操操操!!!"
 
 # game/code/e06/e06s05.rpy:616
 translate chinese e06s05_arj_enema_a2d05bc5:
 
     # arj "It's a special blend... and secret."
-    arj "It's a special blend... and secret."
+    arj "这是一种特殊的调制品...而且是秘密。"
 
 # game/code/e06/e06s05.rpy:617
 translate chinese e06s05_arj_enema_2cc6a6f2:
 
     # dd "OH MY GGGGGGGGGAAAAAAAAAAWWWWWWWWWdddddd!!!!"
-    dd "OH MY GGGGGGGGGAAAAAAAAAAWWWWWWWWWdddddd!!!!"
+    dd "我的...天啊啊啊啊!!!"
 
 # game/code/e06/e06s05.rpy:619
 translate chinese e06s05_arj_enema_e5d005f4:
 
     # mc "Well, she seems to be enjoying it."
-    mc "Well, she seems to be enjoying it."
+    mc "嗯，她好像很享受。"
 
 # game/code/e06/e06s05.rpy:620
 translate chinese e06s05_arj_enema_f20787ba:
 
     # dd "WHAT THE HELL DID YOU DO TO ME!!!"
-    dd "WHAT THE HELL DID YOU DO TO ME!!!"
+    dd "你到底对我做了什么!!!"
 
 # game/code/e06/e06s05.rpy:621
 translate chinese e06s05_arj_enema_de5c459e:
