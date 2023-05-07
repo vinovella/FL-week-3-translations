@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
+# TODO: Translation updated at 2022-03-02 02:41
 
 # game/code/d15/d15s04.rpy:19
 translate malay d15s04_16275f53:
@@ -10,13 +10,13 @@ translate malay d15s04_16275f53:
 translate malay d15s04_a13bdd91:
 
     # mct "Hm. I got some time to kill. Wonder what I should do?"
-    mct "Hm. Aku ada masa lebih sekarang. Tertanya-tanya apa yang perlu aku lakukan?"
+    mct "Hm. Aku ada masa lebih sekarang. Tertanya-tanya juga apa yang benda yang perlu aku lakukan?"
     
 # game/code/d15/d15s04.rpy:28
 translate malay d15s04_9f527ffc:
 
     # mk "Hey can you meet me today? The place you and AmRose sent me to."
-    mk "Hey boleh kau jumpa aku hari ini? Tempat awak dan AmRose hantar aku."
+    mk "Hey boleh kau jumpa aku hari ini? Tempat kau dan AmRose hantar aku."
 
 # game/code/d15/d15s04.rpy:30
 translate malay d15s04_d15b5473:
@@ -52,7 +52,7 @@ translate malay d15s04_49ef765f:
 translate malay d15s04_b3065beb:
 
     # mes "I'll tell you there."
-    mes "Aku akan memberitahu kau di sana."
+    mes "Aku akan beritahu kau di sana."
 
 # game/code/d15/d15s04.rpy:48
 translate malay d15s04_84f16542:
@@ -112,7 +112,7 @@ translate malay d15s04_058f65b0:
 translate malay d15s04_67a8b4aa:
 
     # mct "*Sigh* Here goes nothing."
-    mct "*Mengeluh* Harap tak ada apa-apa."
+    mct "*Mengeluh* Harapnya tak ada apa-apa."
 
 # game/code/d15/d15s04.rpy:84
 translate malay d15s04_f92f8d1f:
@@ -124,7 +124,7 @@ translate malay d15s04_f92f8d1f:
 translate malay d15s04_a6b44dbe:
 
     # mct "Hm... I wonder if Daisy—"
-    mct "Hm... Aku tertanya-tanya jika Daisy— "
+    mct "Hm... Aku tertanya-tanya kalau Daisy— "
 
 # game/code/d15/d15s04.rpy:97
 translate malay d15s04_610b9d0e:
@@ -154,7 +154,7 @@ translate malay d15s04_db6882f8:
 translate malay d15s04_55bafd6d:
 
     # dd "Haha perfect timing. I was wondering if you could pick me up?"
-    dd "Haha masa yang tepat. Aku tertanya-tanya boleh tak kau jemput aku?"
+    dd "Haha tepat masanya. Aku tertanya-tanya boleh tak kau jemput aku?"
 
 # game/code/d15/d15s04.rpy:108
 translate malay d15s04_dcaba903:
@@ -172,7 +172,7 @@ translate malay d15s04_3bc88a55:
 translate malay d15s04_d4d8f96f:
 
     # dd "Everything's fine. I just wanted you there."
-    dd "Semuanya okay saja. Aku nak kau pergi sekali dengan aku."
+    dd "Semuanya okay saja. Aku nak ajak kau sekali."
 
 # game/code/d15/d15s04.rpy:115
 translate malay d15s04_aeda6b0d:
@@ -184,7 +184,7 @@ translate malay d15s04_aeda6b0d:
 translate malay d15s04_7e053e33:
 
     # mct "Alright sure. I'll come pick you up."
-    mct "Baiklah. Aku akan datang menjemput kau."
+    mct "Baiklah. Aku datang jemput kau."
 
 # game/code/d15/d15s04.rpy:120
 translate malay d15s04_37511836:
@@ -244,13 +244,13 @@ translate malay d15s04_studying_d796d9e0:
 translate malay d15s04_studying_a81d15e8:
 
     # mct "I'm not sure how that information helps me in the present, but alright."
-    mct "Aku tak pasti macma mana maklumat itu membantu aku pada masa ini, tapi bolehlah."
+    mct "Aku tak pasti macma mana maklumat itu dapat bantu aku pada masa ini, tapi bolehlah."
 
 # game/code/d15/d15s04.rpy:149
 translate malay d15s04_studying_50f0b0b4:
 
     # mct "Business, business, business. I need to get my hands on whatever Unikitty's on."
-    mct " Perniagaan, perniagaan, perniagaan. Aku kena faham apa sahaja yang Unikitty lakukan."
+    mct "Perniagaan, perniagaan, perniagaan. Aku kena faham apa sahaja yang Unikitty lakukan."
 
 # game/code/d15/d15s04.rpy:151
 translate malay d15s04_studying_1df2c329:
@@ -266,7 +266,7 @@ translate malay strings:
 
     # game/code/d15/d15s04.rpy:50
     old "Invite Dahlia and Samiya here to talk"
-    new "Jemput Dahlia dan Samiya ke sini untuk bercakap"
+    new "Jemput Dahlia dan Samiya ke sini untuk berbincang"
 
     # game/code/d15/d15s04.rpy:50
     old "Spend time with Daisy"
