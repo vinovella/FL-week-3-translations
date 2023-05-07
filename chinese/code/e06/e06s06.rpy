@@ -1057,10 +1057,10 @@ translate chinese e06s06_fuck_arj_c77b3033:
     arj "哦...哦...我...要射了！"
 
 # game/code/e06/e06s06.rpy:673
-translate chinese e06s06_finish_1_6979e580:
+translate chinese e06s06_finish_1_04a9c018:
 
-    # mh "[mcname] That's it, [mcname]. Show Lydia how you make me cum!"
-    mh "[mcname]就是这样，[mcname]。你听到你未婚妻了...射...让我射！"
+    # mh "That's it, [mcname]. Show Lydia how you make me cum!"
+    mh "就是这样，[mcname]。你听到你未婚妻了...射...让我射！"
 
 # game/code/e06/e06s06.rpy:674
 translate chinese e06s06_finish_1_f23f3a6b:

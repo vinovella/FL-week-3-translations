@@ -86,3 +86,15 @@ translate chinese strings:
     old "Ending #18\nQuartet"
     new "Ending #18\nQuartet"
 
+# TODO: Translation updated at 2023-05-07 15:44
+
+translate chinese strings:
+
+    # game/code/endings.rpy:49
+    old "Ending #4\nMy Sex Dungeon"
+    new "Ending #4\nMy Sex Dungeon"
+
+    # game/code/endings.rpy:169
+    old "Ending #12\nRedhead Resort"
+    new "Ending #12\nRedhead Resort"
+

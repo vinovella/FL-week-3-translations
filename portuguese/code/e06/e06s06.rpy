@@ -1260,11 +1260,8 @@ translate portuguese e06s06_fuck_mh_5eec93b7:
     # mh "Do not think I forgot about you, Miss Jenkins."
     mh ""
 
-# TODO: Translation updated at 2023-05-03 19:56
-
 # game/code/e06/e06s06.rpy:673
-translate portuguese e06s06_finish_1_6979e580:
+translate portuguese e06s06_finish_1_04a9c018:
 
-    # mh "[mcname] That's it, [mcname]. Show Lydia how you make me cum!"
+    # mh "That's it, [mcname]. Show Lydia how you make me cum!"
     mh ""
-

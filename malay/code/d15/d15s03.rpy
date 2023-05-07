@@ -770,7 +770,7 @@ translate malay d15s03_dw_setup_f820fcc8:
 
 # game/code/d15/d15s03.rpy:392
 translate malay d15s03_dw_setup_bf15c4e1:
-`
+
     # pb "I just think that sometimes it's all one big joke."
     pb "Aku hanya fikir kadang-kadang itu semua satu jenaka yang besar."
 
