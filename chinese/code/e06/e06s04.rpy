@@ -10,7 +10,7 @@ translate chinese e06s04_882706cd:
 translate chinese e06s04_925f9977:
 
     # lc "I'm going to go freshen up."
-    lc "我要去梳洗一下。"
+    lc "我要去洗洗。"
 
 # game/code/e06/e06s04.rpy:25
 translate chinese e06s04_fa102d42:
@@ -100,7 +100,7 @@ translate chinese e06s04_454a3661:
 translate chinese e06s04_0f606fb8:
 
     # mes "Mmm. Think you have time to reapply my sunscreen before you have your hands full?"
-    mes "嗯。你觉得在你忙得不可开交之前，有时间给我补一遍防晒霜吗？"
+    mes "嗯。在你忙得不可开交之前，你有时间给我补一遍防晒霜吗？"
 
 # game/code/e06/e06s04.rpy:91
 translate chinese e06s04_1bf60051:
@@ -118,7 +118,7 @@ translate chinese e06s04_fefca8ce:
 translate chinese e06s04_8042f4f4:
 
     # mes "Umm. I think you missed a few spots?"
-    mes "嗯。我想你漏掉了几个地方吧?"
+    mes "嗯。我想你漏掉了几个地方吧？"
 
 # game/code/e06/e06s04.rpy:114
 translate chinese e06s04_5a034afa:
@@ -130,13 +130,13 @@ translate chinese e06s04_5a034afa:
 translate chinese e06s04_b5b37a2e:
 
     # mes "Spoilsport. But I'm sure I'll get some time with my favorite teacher tonight."
-    mes "扫兴。但今晚，我一定会有时间和我最喜欢的老师一起度过。"
+    mes "真扫兴。但今晚，我一定会有时间和我最喜欢的老师一起度过。"
 
 # game/code/e06/e06s04.rpy:124
 translate chinese e06s04_8d5661a3:
 
     # mes "Mmm. I guess I can be patient. For now. Not like I have to wait as long as Lydia is."
-    mes "行吧。我可以耐心点。就目前而言。我又不用像丽迪雅那样等那么久。"
+    mes "行吧。我可以耐心点。就目前而言。我又不用像莉迪亚那样等那么久。"
 
 # game/code/e06/e06s04.rpy:138
 translate chinese e06s04_df5835f9:
@@ -172,7 +172,7 @@ translate chinese e06s04_0a979c32:
 translate chinese e06s04_18356222:
 
     # mes "Me? Never. If anything, I'm Chaotic Lawful."
-    mes "我？我才不是。如果有什么区别的话，那我也代表着既混乱又无序。"
+    mes "我？我才不是。如果有什么区别的话，那我代表着既混乱又无序。"
 
 # game/code/e06/e06s04.rpy:158
 translate chinese e06s04_473111d5:
@@ -220,7 +220,7 @@ translate chinese e06s04_7e44b287:
 translate chinese e06s04_d7ecf23b:
 
     # sy "Yup. By 'take care of myself', I mean I know I'll always have someone to help me when I screw up."
-    sy "嗯哼。我说的照顾好自己，是指我知道当我搞砸了的时候，总会有人来帮助我。"
+    sy "嗯哼。我说的'照顾好自己'，是指我知道当我搞砸了的时候，总会有人来帮助我。"
 
 # game/code/e06/e06s04.rpy:188
 translate chinese e06s04_d74cf3ea:
@@ -238,7 +238,7 @@ translate chinese e06s04_03850b18:
 translate chinese e06s04_36586c76:
 
     # mes "Nope. I called dibs when I moved in."
-    mes "不。我搬进来的时候就说了我的权利。"
+    mes "不。我搬进来的时候就明确了自己的权利。"
 
 # game/code/e06/e06s04.rpy:197
 translate chinese e06s04_b02fe471:
@@ -256,7 +256,7 @@ translate chinese e06s04_4a8a9e5a:
 translate chinese e06s04_93e79b50:
 
     # mes "I guess in this case, it was more a perk of being Lydia's best friend. She wanted to come to me first after she got out of jail."
-    mes "在这件事上，这更多的是作为莉迪亚最好的朋友的福利。她出狱后想先来找我。"
+    mes "在这件事上，我更多的是作为莉迪亚最好的朋友而享有一些福利。她出狱后想先来找我。"
 
 # game/code/e06/e06s04.rpy:206
 translate chinese e06s04_c95a234f:
@@ -322,7 +322,7 @@ translate chinese e06s04_drinks_da8738d4:
 translate chinese e06s04_drinks_9d182b73:
 
     # lc "Mmhmm. Thank god I'll at least be able to have some fun of my own watching you and the others until the big day."
-    lc "嗯哼。谢天谢地，我至少可以在大喜之日之前看你和其他人的表演，有一些自己的乐趣。"
+    lc "嗯哼。谢天谢地，我至少可以在大喜之日之前看你和其他人的表演，这样还有点乐趣。"
 
 # game/code/e06/e06s04.rpy:256
 translate chinese e06s04_drinks_176560fe:
@@ -388,7 +388,7 @@ translate chinese e06s04_later_ad6d5f24:
 translate chinese e06s04_later_13c84637:
 
     # sy "You still have no jitters about all this? Having us all live here, and each of us getting our brains fucked to oblivion by the lucky stallion here."
-    sy "你对这一切没有紧张感吗让我们都住在这里，让我们每个人的脑子都被这个幸运的种马操得稀里糊涂。"
+    sy "你对这一切没有紧张感吗？让我们都住在这里，让我们每个人的脑子都被这个幸运的种马操得稀里糊涂。"
 
 # game/code/e06/e06s04.rpy:311
 translate chinese e06s04_later_3f45d272:
@@ -406,13 +406,13 @@ translate chinese e06s04_later_6dce681b:
 translate chinese e06s04_later_80b52b85:
 
     # lc "Of course, I'm alright with it. I love [mcname] with all my heart, and nothing gets me more excited than seeing him fuck other girls."
-    lc "当然，我不介意。我全心全意地爱着他，没有什么比看到他操其他女孩更让我兴奋了。"
+    lc "当然，我不介意。我全心全意地爱着[mcname]，没有什么比看到他操其他女孩更让我兴奋的了。"
 
 # game/code/e06/e06s04.rpy:320
 translate chinese e06s04_later_da4a14a6:
 
     # sy "But you still want him to fuck you one day, right?"
-    sy "但你还是希望他有一天能上你，对吧"
+    sy "但你还是希望他有一天能上你，对吧？"
 
 # game/code/e06/e06s04.rpy:323
 translate chinese e06s04_later_2c1fea64:
@@ -424,7 +424,7 @@ translate chinese e06s04_later_2c1fea64:
 translate chinese e06s04_later_7f6f836d:
 
     # lc "And of course, I'll probably want him to do everything he's done to all of you as well."
-    lc "And 当然，我可能也会希望他也同样这样对你们。"
+    lc "当然，我可能也会希望他也同样这样对你们。"
 
 # game/code/e06/e06s04.rpy:328
 translate chinese e06s04_later_161ab4ba:
@@ -436,7 +436,7 @@ translate chinese e06s04_later_161ab4ba:
 translate chinese e06s04_later_851a97b8:
 
     # mes "With that mindset, I wonder which one of us will have the first bun in the oven."
-    mes "有了这种心态，我想知道我们谁会第一个有孩子。"
+    mes "有了这种心态，我想知道我们之中，谁会第一个有孩子。"
 
 # game/code/e06/e06s04.rpy:334
 translate chinese e06s04_later_e03aa1aa:
@@ -466,7 +466,7 @@ translate chinese e06s04_later_4fa467ad:
 translate chinese e06s04_later_5baec176:
 
     # lc "It will happen at the right moment."
-    lc "它会在适当的时候发生。"
+    lc "该有的时候就会有。"
 
 # game/code/e06/e06s04.rpy:349
 translate chinese e06s04_later_9de78716:
@@ -496,7 +496,7 @@ translate chinese e06s04_later_ad97ad96:
 translate chinese e06s04_later_df62864c:
 
     # arj "I'd love to help out with the wedding."
-    arj "我很乐意帮忙办婚礼。"
+    arj "我很乐意帮忙操办婚礼。"
 
 # game/code/e06/e06s04.rpy:362
 translate chinese e06s04_later_54d5500a:
@@ -532,7 +532,7 @@ translate chinese e06s04_later_e756f4b3:
 translate chinese e06s04_later_ed049c8e:
 
     # mes "And someone who won't freak out knowing that it's a wedding that includes an existing polyamorous harem."
-    mes "而且这人知道这是一场多配偶制后宫的婚礼，也不会惊慌失措。"
+    mes "而且这人即使知道这是一场多配偶制后宫的婚礼，也不会惊慌失措。"
 
 # game/code/e06/e06s04.rpy:380
 translate chinese e06s04_later_28b7b2fc:
@@ -562,19 +562,19 @@ translate chinese e06s04_later_4af7a871:
 translate chinese e06s04_later_31e6984c:
 
     # sy "She could totally do it. She's a lawyer she knows the legal side of things, and she told me once that she's a certified minister."
-    sy "她完全可以。她是一名律师，了解法律方面的事，有一次她告诉我，她是一名合格的牧师。"
+    sy "完全可以。她是律师，了解法律方面的事，有一次她告诉我，她还是一名取得合格证明的牧师。"
 
 # game/code/e06/e06s04.rpy:393
 translate chinese e06s04_later_95c98222:
 
     # sy "I think she even officiated a wedding for some of her friends."
-    sy "我觉得她可能为她的朋友主持过婚礼。"
+    sy "她之前还为她的朋友主持过婚礼。"
 
 # game/code/e06/e06s04.rpy:396
 translate chinese e06s04_later_8e7a88ff:
 
     # mc "Is that alright with you, my darling?"
-    mc "这样行吗，亲爱的?"
+    mc "这样行吗，亲爱的？"
 
 # game/code/e06/e06s04.rpy:399
 translate chinese e06s04_later_2061a105:
@@ -610,7 +610,7 @@ translate chinese e06s04_later_d6fd6991:
 translate chinese e06s04_later_03cf1a1f:
 
     # arj "Well, if the cake is taken, I'm sure I can handle decorations. Where are you two planning to have the event?"
-    arj "好吧，如果蛋糕被拿到手，我肯定能处理好装饰工作。你们俩打算在哪里举行婚礼"
+    arj "好吧，如果蛋糕被拿到手，我肯定能处理好装饰工作。你们俩打算在哪里举行婚礼？"
 
 # game/code/e06/e06s04.rpy:416
 translate chinese e06s04_later_a851a215:
@@ -640,13 +640,13 @@ translate chinese e06s04_later_3c351097:
 translate chinese e06s04_later_318460bb:
 
     # lc "We just need a place where the whole harem can witness our wonderful day."
-    lc "只要这个地方能让所有后宫的人都能见证我们美好的一天就行。"
+    lc "只要这个地方能让所有后宫成员都能见证我们美好的一天就行。"
 
 # game/code/e06/e06s04.rpy:429
 translate chinese e06s04_later_b8c03505:
 
     # lc "Right?"
-    lc "对吧?"
+    lc "对吧？"
 
 # game/code/e06/e06s04.rpy:432
 translate chinese e06s04_later_3c0bbbee:
@@ -664,13 +664,13 @@ translate chinese e06s04_later_f3fd8ec8:
 translate chinese e06s04_later_6c5cdb32:
 
     # mc "If you change your mind about having the wedding here, or you want anything else, just tell me."
-    mc "如果你改变主意，不打算在这里举行婚礼，或者你想要什么，就告诉我。"
+    mc "如果你改变主意，不打算在这里举行婚礼了，再或者你想要什么，就告诉我。"
 
 # game/code/e06/e06s04.rpy:445
 translate chinese e06s04_later_9963463c:
 
     # lc "All I need is you, [mcname]. Everything else will fall into place, I know it will. I love you, darling."
-    lc "我只需要你，[mcname]。其他一切都会水到渠成的，我深信不疑。我爱你，亲爱的。"
+    lc "我只需要你，[mcname]。其他一切都会水到渠成的，我对此深信不疑。我爱你，亲爱的。"
 
 # game/code/e06/e06s04.rpy:448
 translate chinese e06s04_later_31152f7e:
@@ -688,13 +688,13 @@ translate chinese e06s04_later_a910dc2d:
 translate chinese e06s04_later_1be08199:
 
     # mes "Isn't every day of his life a bachelor party?"
-    mes "他不是每天都在开单身派对吗?"
+    mes "他不是每天都在开单身派对吗？"
 
 # game/code/e06/e06s04.rpy:458
 translate chinese e06s04_later_cf0a62d7:
 
     # sy "Traditions exist for a reason. Just because [mcname] has all of us doesn't mean we should skip an important moment like this."
-    sy "传统能成为传统是有原因的。仅仅因为他拥有我们这些人，并不意味着我们应该跳过这样一个重要的时刻。"
+    sy "传统能成为传统是有原因的。仅仅因为[mcname]拥有我们这些人，并不意味着我们应该跳过这样一个重要的时刻。"
 
 # game/code/e06/e06s04.rpy:461
 translate chinese e06s04_later_6bea0edd:
@@ -718,7 +718,7 @@ translate chinese e06s04_later_e00e4fee:
 translate chinese e06s04_later_28c66834:
 
     # arj "You don't have to do it alone. In fact, I know a girl that I think would be perfect for the main event. She's always the best and makes a party really shine."
-    arj "你不必一个人去做。事实上，我认识一个女孩，我觉得她是主活动的完美人选。她总是最棒的，能让派对真正地展现个性。"
+    arj "你不必一个人去做。事实上，我认识一个女孩，我觉得她是主活动的完美人选。她一直都很棒，能让派对真正地展现出个性。"
 
 # game/code/e06/e06s04.rpy:473
 translate chinese e06s04_later_35abc2db:
