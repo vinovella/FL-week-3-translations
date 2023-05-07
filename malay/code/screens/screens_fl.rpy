@@ -40,7 +40,7 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:278
     old "Or"
-    new "Or"
+    new "Atau"
 
     # game/code/screens/screens_fl.rpy:284
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
@@ -72,7 +72,7 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:605
     old "Please select the girls"
-    new "Please select the girls"
+    new "Sila pilih diantara mereka"
 
     # game/code/screens/screens_fl.rpy:655
     old "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
