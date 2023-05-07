@@ -34,7 +34,7 @@ translate chinese e06s09_da10ef46:
 translate chinese e06s09_1c590a13:
 
     # lc "I'm yours forever. Take me every way you can imagine."
-    lc "我永远属于你。以你能想象的任何方式占有我。。"
+    lc "我永远属于你。以你能想象的任何方式占有我。"
 
 # game/code/e06/e06s09.rpy:37
 translate chinese e06s09_d35b238a:
@@ -100,7 +100,7 @@ translate chinese e06s09_blowjob_a31340dd:
 translate chinese e06s09_blowjob_316340f3:
 
     # lc "On command. Anytime you want me."
-    lc "随时候着。只要你需要我。"
+    lc "我随时候着。只要你需要我。"
 
 # game/code/e06/e06s09.rpy:141
 translate chinese e06s09_blowjob_c1b91c89:
@@ -118,7 +118,7 @@ translate chinese e06s09_blowjob_a504f2ae:
 translate chinese e06s09_blowjob_f583023b:
 
     # mct "Somehow I fucking married her."
-    mct "不知怎么的，我他妈竟然娶了她。"
+    mct "稀里糊涂的，我他妈竟然娶了她。"
 
 # game/code/e06/e06s09.rpy:145
 translate chinese e06s09_blowjob_ef3fbc79:
@@ -316,7 +316,7 @@ translate chinese e06s09_doggy_style_138d226b:
 translate chinese e06s09_doggy_style_f32209bb:
 
     # mc "... and switch to your asshole anytime I want."
-    mc "...还能随时切换到你的屁眼"
+    mc "...还能随时切换到你的屁眼。"
 
 # game/code/e06/e06s09.rpy:245
 translate chinese e06s09_doggy_style_e4a92fb1:
@@ -352,7 +352,7 @@ translate chinese e06s09_doggy_style_ddc40df9:
 translate chinese e06s09_doggy_style_844eea23:
 
     # lc "Just don't fuck my ass tonight!"
-    lc "今晚别操我的屁股"
+    lc "今晚别操我的屁股就行！"
 
 # game/code/e06/e06s09.rpy:253
 translate chinese e06s09_doggy_style_56c3991c:
@@ -460,7 +460,7 @@ translate chinese e06s09_face_fuck_43a567ba:
 translate chinese e06s09_face_fuck_1000f445:
 
     # mc "That is the hottest thing I've ever heard."
-    mc "这是我听过的最惹火的话。"
+    mc "这是我听过的最要命的话。"
 
 # game/code/e06/e06s09.rpy:303
 translate chinese e06s09_face_fuck_1f61092d_1:
@@ -484,7 +484,7 @@ translate chinese e06s09_face_fuck_63a00ae6:
 translate chinese e06s09_face_fuck_5dac1d98:
 
     # mct "I better change things up before I cum balls deep in her lungs."
-    mct "在我把子弹射进她肺里之前，我最好做点改变。"
+    mct "在我把子弹射进她肺里之前，我最好换个花样。"
 
 # game/code/e06/e06s09.rpy:317
 translate chinese e06s09_deep_6eb13459:
@@ -928,19 +928,19 @@ translate chinese e06s08_post_climax_25d942f6:
 translate chinese e06s08_post_climax_a91921f8:
 
     # sy "You deserved the wedding you dreamed of. It only happens once."
-    sy "你值得一个梦想中的婚礼。人生中只有一次的浪漫婚礼。"
+    sy "你值得一个梦想中的婚礼。这可是人生中只有一次的浪漫婚礼。"
 
 # game/code/e06/e06s09.rpy:523
 translate chinese e06s08_post_climax_d6c54563:
 
     # lc "True. Then Min giving you a hard time about who went first."
-    lc "没错。然后明在谁先来的问题上给了你绊子。"
+    lc "没错。然后明在谁先来的问题上给你使了绊子。"
 
 # game/code/e06/e06s09.rpy:524
 translate chinese e06s08_post_climax_966aae39:
 
     # sy "It wasn't so bad."
-    sy "没那么糟。"
+    sy "没那么严重。"
 
 # game/code/e06/e06s09.rpy:526
 translate chinese e06s08_post_climax_677848cd:
@@ -1178,7 +1178,7 @@ translate chinese strings:
 
     # game/code/e06/e06s09.rpy:53
     old "Try Something Fancy"
-    new "尝试新奇的东西"
+    new "尝试新鲜花样"
 
     # game/code/e06/e06s09.rpy:53
     old "Slope"
