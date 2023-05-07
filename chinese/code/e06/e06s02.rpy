@@ -88,7 +88,7 @@ translate chinese e06s02_f526fd43:
 translate chinese e06s02_805f069e:
 
     # lc "How will I ever convince the world to see me differently? They'll treat me like a criminal, forever."
-    lc "我怎么才能让世界改变对我的看法？他们会把我当罪犯一样对待，永远如此。"
+    lc "我怎么才能让全世界改变对我的看法？他们会把我当罪犯一样对待，永远如此。"
 
 # game/code/e06/e06s02.rpy:110
 translate chinese e06s02_857175cd:
@@ -196,7 +196,7 @@ translate chinese e06s02_6f3788af:
 translate chinese e06s02_85411c4f:
 
     # mes "No. When people put onions on your burger when you asked for no onions."
-    mes "不是的。如果人们要在你的汉堡里加洋葱，而你却要求不放洋葱。"
+    mes "这不叫搞砸。如果人们要在你的汉堡里加洋葱，而你却要求不放。"
 
 # game/code/e06/e06s02.rpy:167
 translate chinese e06s02_c6a67ef1:
@@ -208,7 +208,7 @@ translate chinese e06s02_c6a67ef1:
 translate chinese e06s02_a7db7448:
 
     # mes "What you did was illegal and duplicitous."
-    mes "而你的行为是非法的，是两面派。"
+    mes "而你的行为，这叫非法，叫两面派。"
 
 # game/code/e06/e06s02.rpy:171
 translate chinese e06s02_eab9aaab:
@@ -238,7 +238,7 @@ translate chinese e06s02_3c306ef9:
 translate chinese e06s02_de7714ea:
 
     # mes "But that doesn't hold any water for me, [mcname]."
-    mes "但这在我面前根本站不住脚，[mcname]。"
+    mes "但在我面前根本站不住脚，[mcname]。"
 
 # game/code/e06/e06s02.rpy:182
 translate chinese e06s02_29994ac1:
@@ -484,7 +484,7 @@ translate chinese e06s02_inside_59e30423:
 translate chinese e06s02_inside_11455b53:
 
     # mc "What?"
-    mc "什么？"
+    mc "怎么会？"
 
 # game/code/e06/e06s02.rpy:326
 translate chinese e06s02_inside_fdcf3625:
@@ -526,7 +526,7 @@ translate chinese e06s02_inside_83bf5d23:
 translate chinese e06s02_inside_2bc8af86:
 
     # mes "I bet your nipples could cut glass right about now."
-    mes "我敢打赌，你的乳头现在就能割玻璃了。"
+    mes "我敢打赌，你的乳头现在能割玻璃了。"
 
 # game/code/e06/e06s02.rpy:348
 translate chinese e06s02_inside_90a5de01:
@@ -574,7 +574,7 @@ translate chinese e06s02_inside_827bd663:
 translate chinese e06s02_inside_0f65f7df:
 
     # mes "Squizzle never would have existed without FL."
-    mes "没有性趣探测器， 斯奎兹就不会存在。"
+    mes "没有性趣探测器，斯奎兹就不会存在。"
 
 # game/code/e06/e06s02.rpy:367
 translate chinese e06s02_inside_a755748b:
@@ -616,7 +616,7 @@ translate chinese e06s02_inside_2ccbd619:
 translate chinese e06s02_inside_b01c2ee6:
 
     # lc "I know it won't count for much, but once I realized how far things had gotten, I turned myself in and explained what was happening."
-    lc "我知道这么说没多大意义，但当我意识到事情已经发展到这个地步时，我就去自首了，解释了发生的事。"
+    lc "我知道这么说没多大意义，但当我意识到事情已经发展到这个地步时，我就去自首了，把事情都解释清楚了。"
 
 # game/code/e06/e06s02.rpy:381
 translate chinese e06s02_inside_ba401dd3:
@@ -646,7 +646,7 @@ translate chinese e06s02_inside_77edfd14:
 translate chinese e06s02_inside_204a9a46:
 
     # lc "I know but. It's not like a switch. Between us, you picked up all the firsts and..."
-    lc "我知道，但是。这东西不像开关。我们之间，所有的第一都是你的..."
+    lc "我知道，但是这东西不像开关那么简单。我们之间，永远都是你拿第一..."
 
 # game/code/e06/e06s02.rpy:394
 translate chinese e06s02_inside_a9ed4e36:
@@ -658,7 +658,7 @@ translate chinese e06s02_inside_a9ed4e36:
 translate chinese e06s02_inside_38bf30c7:
 
     # mes "*Chuckle* I'll admit, a part of me did get a little bored always being first."
-    mes "*轻笑* 我得承认，我内心的一部分确实有点厌倦了总是做第一。"
+    mes "*轻笑* 我得承认，我内心确实有点厌倦了总是做第一。"
 
 # game/code/e06/e06s02.rpy:398
 translate chinese e06s02_inside_339aaba1:
@@ -688,7 +688,7 @@ translate chinese e06s02_inside_c5a65083:
 translate chinese e06s02_inside_fc22139e:
 
     # mes "No more secrets. Or we are done and that's that."
-    mes "不再有秘密。否则我们就完了，就这样了。"
+    mes "不能再有秘密。否则我们就完了，就这样。"
 
 # game/code/e06/e06s02.rpy:415
 translate chinese e06s02_inside_c117bfaa:
@@ -772,13 +772,13 @@ translate chinese e06s02_inside_a58d0e37:
 translate chinese e06s02_inside_14982f2a:
 
     # mes "It's been more than a month since I've seen you. And if you don't give me some dick right now, I'm kicking you both out of my house."
-    mes "我已经一个多月没见到你了。你现在不把鸡巴给我 的话，我就把你们俩赶出我的房子。"
+    mes "我已经一个多月没见到你了。你现在不把鸡巴给我的话，我就把你们俩赶出我的房子。"
 
 # game/code/e06/e06s02.rpy:467
 translate chinese e06s02_inside_c760cdf3:
 
     # lc "I suppose that he can be one thing we truly don't compete over."
-    lc "我想，在这一点上，我们真正不会为了他展开竞争。"
+    lc "我想，在这一点上，我们不会真的为了他展开竞争。"
 
 # game/code/e06/e06s02.rpy:470
 translate chinese e06s02_inside_951b3f39:
@@ -820,7 +820,7 @@ translate chinese e06s02_inside_97779572:
 translate chinese e06s02_inside_ef31455a:
 
     # lc "I worried... when I was in a cell, that I'd never get to see something like this again."
-    lc "我之前还担心...之前被关在牢房里的时候，我担心再也看不到这样的东西了。"
+    lc "我之前还担心...被关在牢房里的时候，我还担心再也看不到这样的东西了。"
 
 # game/code/e06/e06s02.rpy:516
 translate chinese e06s02_inside_3a9a551c:
@@ -868,7 +868,7 @@ translate chinese e06s02_bj_67d98a7a:
 translate chinese e06s02_bj_bebe370f:
 
     # lc "Yes... keep going... That looks so fun. So primal..."
-    lc "没错...继续...好有冲击力。好原始的性欲..."
+    lc "没错...继续...好有冲击力。这原始的性欲..."
 
 # game/code/e06/e06s02.rpy:569
 translate chinese e06s02_bj_a71b0e99:
@@ -886,7 +886,7 @@ translate chinese e06s02_bj_f84c7857:
 translate chinese e06s02_bj_7e7f582f:
 
     # mct "I'll never get tired of watching my girl drooling as I fuck other girls."
-    mct "我的女孩在一旁观看我操其他女孩，还流着口水，天啊，这幅画面我永远难忘。"
+    mct "我心爱的女孩在一旁观看我操其他女孩，还流着口水，天啊，这幅画面我永远难忘。"
 
 # game/code/e06/e06s02.rpy:586
 translate chinese e06s02_bj_e0c9be44:
@@ -916,7 +916,7 @@ translate chinese e06s02_bj_22743387:
 translate chinese e06s02_bj_71d15ac7:
 
     # mes "I've missed your cock so fucking much, [mcname]."
-    mes "我太他妈想念你的鸡巴了，[mcname]。"
+    mes "我他妈太想念你的鸡巴了，[mcname]。"
 
 # game/code/e06/e06s02.rpy:619
 translate chinese e06s02_bj_2c66c77f:
@@ -1012,7 +1012,7 @@ translate chinese e06s02_bj_b48ce370:
 translate chinese e06s02_bj_95ec38ce:
 
     # lc "It was, but as deep as our love goes, I'm still so grateful that I didn't lose you, Min."
-    lc "是的，但是尽管我们的爱很深，我还是很感激没有失去你，明。"
+    lc "是的，尽管我们的爱很深，我还是很感激没有失去你，明。"
 
 # game/code/e06/e06s02.rpy:700
 translate chinese e06s02_bj_2ce90328:
@@ -1066,7 +1066,7 @@ translate chinese e06s02_sex_255368e0:
 translate chinese e06s02_sex_85e59949:
 
     # lc "Mmm. Do you want this big thick cock to hammer that tight little pussy of yours."
-    lc "嗯。你想让这根又大又粗的鸡巴敲打你那又紧又窄的骚穴吗？"
+    lc "嗯。你想让这根又大又粗的鸡巴猛插你那又紧又窄的骚穴吗？"
 
 # game/code/e06/e06s02.rpy:751
 translate chinese e06s02_sex_87ef72ce:
@@ -1126,7 +1126,7 @@ translate chinese e06s02_sex_8030eff3:
 translate chinese e06s02_sex_f0d4c776:
 
     # mc "Oh fuck. Your pussy is locking around my cock."
-    mc "操啊。你的淫穴把我的鸡巴缠得好紧"
+    mc "操啊。你的淫穴把我的鸡巴缠得好紧。"
 
 # game/code/e06/e06s02.rpy:781
 translate chinese e06s02_sex_a86a90f4:
@@ -1354,7 +1354,7 @@ translate chinese e06s02_sex_e99a3f55:
 translate chinese e06s02_sex_30a17289:
 
     # mes "Haha. God... oh fuck. You don't know... what you're missing."
-    mes "哈哈。天...啊...。你不知道...你错过了什么？"
+    mes "哈哈。天...啊...你不知道...你错过了什么？"
 
 # game/code/e06/e06s02.rpy:956
 translate chinese e06s02_sex_c353c64b:
@@ -1396,13 +1396,13 @@ translate chinese e06s02_sex_681b46c9:
 translate chinese e06s02_sex_2d78a730:
 
     # lc "Or [mcname] will always beat us."
-    lc "否则[mcname]永远会打败我们。"
+    lc "否则咱们永远也无法战胜[mcname]。"
 
 # game/code/e06/e06s02.rpy:975
 translate chinese e06s02_sex_4f89cc72:
 
     # mes "*Laughs and pants*"
-    mes "*大笑加喘气*"
+    mes "*大笑着喘气*"
 
 # game/code/e06/e06s02.rpy:978
 translate chinese e06s02_sex_96dcddf2:
@@ -1504,7 +1504,7 @@ translate chinese e06s02_sex_d8c51d34:
 translate chinese e06s02_sex_2ed4c0f4:
 
     # mes "Of course it will be."
-    mes "当然会的。"
+    mes "确实不会容易。"
 
 # game/code/e06/e06s02.rpy:1042
 translate chinese e06s02_sex_f7a873ae:
@@ -1522,7 +1522,7 @@ translate chinese e06s02_sex_b13a261f:
 translate chinese e06s02_sex_6e3fb5a0:
 
     # mes "Of course I am."
-    mes "我当然会了。"
+    mes "我当然是对的。"
 
 # game/code/e06/e06s02.rpy:1050
 translate chinese e06s02_sex_cfdfa501:
@@ -1602,5 +1602,5 @@ translate chinese strings:
 
     # game/code/e06/e06s02.rpy:40
     old "The Next Day"
-    new "The Next Day"
+    new "第二天"
 
