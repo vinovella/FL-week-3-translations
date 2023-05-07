@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
+# TODO: Translation updated at 2022-03-02 02:41
 
 # game/code/d15/d15s03.rpy:6
 translate malay d15s03_16275f53:
@@ -10,25 +10,25 @@ translate malay d15s03_16275f53:
 translate malay d15s03_6150bb0b:
 
     # mct "Just need to get my stuff and-"
-    mct "Hanya perlu ambil barangan aku dan-"
+    mct "Hanya perlu ambil barang aku dan-"
 
 # game/code/d15/d15s03.rpy:17
 translate malay d15s03_34ee1bae:
 
     # mc "Oh, hey Pete. {w}It's almost weird seeing you here."
-    mc "Oh, hey Pete. {w} Hampir pelik tengok kau di sini."
+    mc "Oh, hey Pete. {w}Nampak pelik tengok kau di sini."
 
 # game/code/d15/d15s03.rpy:20
 translate malay d15s03_76b13bf6:
 
     # pb "Likewise. It seems like I've been spending more time in our room than you have lately."
-    pb "Sama juga. Nampaknya akulebih banyak menghabiskan masa di bilik kita berbanding kau sejak kebelakangan ini."
+    pb "Sama juga. Nampaknya aku lebih banyak menghabiskan masa di bilik kita berbanding kau sejak kebelakangan ini."
 
 # game/code/d15/d15s03.rpy:23
 translate malay d15s03_55d596d1:
 
     # mc "Seriously? Next thing you're going to tell me you've been spending all your free time studying."
-    mc "Biar betul? Perkara seterusnya yang kau akan beritahu aku yang kau telah menghabiskan semua masa lapang kau untuk belajar."
+    mc "Biar betul? Benda seterusnya yang kau akan beritahu aku yang kau dah habiskan semua masa lapang kau untuk belajar."
 
 # game/code/d15/d15s03.rpy:26
 translate malay d15s03_4f86996d:
@@ -70,13 +70,13 @@ translate malay d15s03_191559e1:
 translate malay d15s03_hr_theft_f4fa6ad1:
 
     # pb "You haven't been messing with my stuff, have you?"
-    pb "Kau tak sentuh barang saya kan? "
+    pb "Kau tak sentuh barang aku kan? "
 
 # game/code/d15/d15s03.rpy:56
 translate malay d15s03_hr_theft_05d9bc7e:
 
     # mc "What? No. {w}Why do you ask?"
-    mc "Apa? Tak. {w} Kenapa kau tanya?"
+    mc "Apa? Tak. {w}Kenapa kau tanya?"
 
 # game/code/d15/d15s03.rpy:58
 translate malay d15s03_hr_theft_8617eabb:
@@ -94,13 +94,13 @@ translate malay d15s03_hr_theft_7f3761cd:
 translate malay d15s03_hr_theft_5fab2127:
 
     # pb "Well, it was here on my desk like always. Then it wasn't here. So, yeah, someone took it."
-    pb "Baiklah, ia berada di sini di atas meja aku seperti selalu. Kemudian ia tak ada di sini. Jadi, ya, seseorang telah mencurinya."
+    pb "Baiklah, ia berada di sini di atas meja aku seperti selalu. Kemudian ia tak ada di sini. Jadi, ya, ada orang dah curinya."
 
 # game/code/d15/d15s03.rpy:67
 translate malay d15s03_hr_theft_38f37c10:
 
     # mc "Fuck. That sucks. {w}Maybe one of the guys is pranking you?"
-    mc "Kurang ajar. {w} Mungkin salah seorang kawan kau mempermainkan kau?"
+    mc "Kurang ajar. {w}Mungkin salah seorang kawan kau mempermainkan kau?"
 
 # game/code/d15/d15s03.rpy:70
 translate malay d15s03_hr_theft_fc318384:
@@ -160,7 +160,7 @@ translate malay d15s03_hr_theft_63d2c8b3:
 translate malay d15s03_hr_theft_ef8ba214:
 
     # mc "Nah, we're cool. No harm, no foul. It was a reasonable ask."
-    mc "Tak apa. Tak salah pun. Ia adalah soalan yang munasabah."
+    mc "Tak apa. Tak salah pun. Ia soalan yang munasabah."
 
 # game/code/d15/d15s03.rpy:99
 translate malay d15s03_hr_theft_d605adfd:
@@ -172,7 +172,7 @@ translate malay d15s03_hr_theft_d605adfd:
 translate malay d15s03_hr_theft_143f9b57:
 
     # mct "Would Hana have done that? Would she have told me if she did?"
-    mct "Adakah Hana akan melakukan itu? Adakah dia akan memberitahu aku jika dia melakukannya?"
+    mct "Hana? Dia akan memberitahu aku jika dia lakukannya?"
 
 # game/code/d15/d15s03.rpy:103
 translate malay d15s03_hr_theft_0c8bbe21:
@@ -202,7 +202,7 @@ translate malay d15s03_hr_theft_0b85de73:
 translate malay d15s03_hr_theft_37ec66f3:
 
     # mc "And she did steal Stacy's luggage when she was pissed at you that one time."
-    mc "Dan dia telah mencuri beg Stacy apabila dia marah pada kau suatu masa dahulu. "
+    mc "Dan dia telah mencuri beg Stacy apabila dia marah pada kau suatu masa dulu."
 
 # game/code/d15/d15s03.rpy:118
 translate malay d15s03_hr_theft_815c27aa:
@@ -220,13 +220,13 @@ translate malay d15s03_hr_theft_eb366006:
 translate malay d15s03_hr_theft_faab21b0:
 
     # pb "And then she would just steal something else to prove that she didn't steal anything."
-    pb "Dan kemudian dia hanya akan mencuri sesuatu yang lain untuk buktikan yang dia tak mencuri apa-apa."
+    pb "Dan kemudian dia hanya akan mcuri benda lain untuk buktikan yang dia tak mencuri apa-apa."
 
 # game/code/d15/d15s03.rpy:127
 translate malay d15s03_hr_theft_d2504689:
 
     # mc "As weird as that sounds, you're probably right."
-    mc "Walaupun kedengaran pelik, kau mungkin betul."
+    mc "Walaupun pelik, kau mungkin betul."
 
 # game/code/d15/d15s03.rpy:130
 translate malay d15s03_hr_theft_5c3ffda3:
@@ -244,7 +244,7 @@ translate malay d15s03_hr_theft_35ab8f09:
 translate malay d15s03_hr_theft_1feb4308:
 
     # pb "If I go around looking for who stole it, I'll just make things worse."
-    pb "Kalau aku pergi cari siapa yang mencurinya, aku akan memburukkan keadaan."
+    pb "Kalau aku pergi cari siapa yang mencurinya, aku akan burukkan keadaan."
 
 # game/code/d15/d15s03.rpy:136
 translate malay d15s03_hr_theft_c98a8c37:
@@ -334,13 +334,13 @@ translate malay d15s03_middle_5d501e32:
 translate malay d15s03_middle_60259738:
 
     # mc "What is it trying to get you to do?"
-    mc "apa yang ia minta kau lakukan?"
+    mc "Apa yang ia minta kau lakukan?"
 
 # game/code/d15/d15s03.rpy:186
 translate malay d15s03_middle_d19d36be:
 
     # pb "You don't want to know. It's some disgusting shit."
-    pb "kau jangan nak tahu. Ia adalah sesuatu yang menjijikkan."
+    pb "Kau jangan nak tahu. Ianya sesuatu yang menjijikkan."
 
 # game/code/d15/d15s03.rpy:189
 translate malay d15s03_middle_0e97394d:
@@ -376,13 +376,13 @@ translate malay d15s03_middle_329283d3:
 translate malay d15s03_middle_99811563:
 
     # mc "What happens if you don't... {w}er, what do you get for doing that stuff, if you did it?"
-    mc "Apa yang berlaku kalau kau tak... {w} er, apa yang kau dapat untuk melakukan perkara itu, jika kau lakukannya?"
+    mc "Apa yang berlaku kalau kau tak... {w}er, apa yang kau dapat untuk lakukan perkara itu, jika kau lakukannya?"
 
 # game/code/d15/d15s03.rpy:207
 translate malay d15s03_middle_38219b40:
 
     # pb "Jack shit. {w}It claims that it will share my pics with my parents or something, but I don't care about that."
-    pb "Tak ada apa pun. {w}Ia mendakwa yang ia akan berkongsi gambar aku dengan ibu bapa aku atau sesuatu, tapi aku tak peduli tentang itu."
+    pb "Tak ada apa pun. {w}Ia dakwa yang ia akan berkongsi gambar aku dengan ibu bapa aku atau sesuatu, tapi aku tak peduli tentang itu."
 
 # game/code/d15/d15s03.rpy:210
 translate malay d15s03_middle_a31340dd:
@@ -406,7 +406,7 @@ translate malay d15s03_middle_8b5d1eb5:
 translate malay d15s03_middle_bbf7a1e9:
 
     # pb "Exactly. Let's talk about something else."
-    pb "Betul sekali. Mari kita berborak tentang perkara lain."
+    pb "Betul sekali. Mari kita berborak pasal benda lain."
 
 # game/code/d15/d15s03.rpy:222
 translate malay d15s03_middle_b85746b1:
@@ -418,7 +418,7 @@ translate malay d15s03_middle_b85746b1:
 translate malay d15s03_middle_65401d68:
 
     # pb "I, uh... {w} I heard some rumors through the grapevine. Any truth to them?"
-    pb "Aku, uh... {w}Aku ada dengar khabar angin. Ada yang betul tentangnya?"
+    pb "Aku, uh... {w}Aku ada dengar khabar angin. Ada betul tentangnya?"
 
 # game/code/d15/d15s03.rpy:228
 translate malay d15s03_middle_7f4c9957:
@@ -448,13 +448,13 @@ translate malay d15s03_middle_84e288fc:
 translate malay d15s03_middle_052cc958:
 
     # mc "Ha! I wish. {w}Wait, seriously? Is that what people are saying?"
-    mc " Ha! HArap begitulah.{w} Tunggu, serius? Adakah itu apa yang orang cakap?"
+    mc " Ha! HArap macam tulah. {w}Tunggu, serius? Adakah itu apa yang orang cakap?"
 
 # game/code/d15/d15s03.rpy:243
 translate malay d15s03_middle_ca59b672:
 
     # pb "Yeah. Somebody said that you two were at a jewelers shopping for rings."
-    pb "Yeah. Seseorang berkata yang korang berdua berada di kedai barang kemas membeli cincin."
+    pb "Yeah. Ada orang kata yang korang berdua berada di kedai barang kemas membeli cincin."
 
 # game/code/d15/d15s03.rpy:246
 translate malay d15s03_middle_6f15d520:
@@ -484,7 +484,7 @@ translate malay d15s03_middle_f8ff5a4f:
 translate malay d15s03_middle_ac904af0:
 
     # mc "That I'm screwing every woman I can get my hands on?"
-    mc "Yang aku kongkek setiap wanita yang aku boleh dapatkan?"
+    mc "Yang aku kongkek setiap perempuan yang aku boleh dapatkan?"
 
 # game/code/d15/d15s03.rpy:259
 translate malay d15s03_middle_4c75576a:
@@ -508,13 +508,13 @@ translate malay d15s03_middle_253448c2:
 translate malay d15s03_dw_setup_32dd7cec:
 
     # mc "Ha! {w}I'll think about it. Was that all the rumors?"
-    mc " Ha! {w} Saya akan fikirkan. Adakah itu semua khabar angin? "
+    mc " Ha! {w}Nanti aku fikirkan. Adakah itu semua khabar anginnya?"
 
 # game/code/d15/d15s03.rpy:279
 translate malay d15s03_dw_setup_c7293e56:
 
     # pb "There was one more. Sounds like you've been getting pretty serious with Dahlia as well."
-    pb " Ada lagi satu. Nampaknya awak dah mula serius dengan Dahlia juga. "
+    pb "Ada lagi satu. Nampaknya kau dah mula serius dengan Dahlia juga. "
 
 # game/code/d15/d15s03.rpy:282
 translate malay d15s03_dw_setup_38b5e631:
@@ -550,25 +550,25 @@ translate malay d15s03_dw_setup_7f02325f:
 translate malay d15s03_dw_setup_6def426a:
 
     # mc "I mean, I know she saw me and Samiya together yesterday."
-    mc " Maksud saya, saya tahu dia nampak saya dan Samiya bersama semalam. "
+    mc "Maksud aku, aku tahu dia nampak aku dan Samiya bersama semalam."
 
 # game/code/d15/d15s03.rpy:298
 translate malay d15s03_dw_setup_ddbd9210:
 
     # pb "You were with Samiya?"
-    pb " Awak bersama Samiya? "
+    pb "Kau bersama Samiya? "
 
 # game/code/d15/d15s03.rpy:301
 translate malay d15s03_dw_setup_17d3c737:
 
     # mc "It was an event at a party, ya'know? {w}Started as mud wrestling, ended up being something else."
-    mc "Ia adalah acara di sebuah parti, kau tahu? {w} Bermula sebagai gusti lumpur, akhirnya menjadi sesuatu yang lain."
+    mc "Ia adalah acara di sebuah parti, kau tahu? {w}Bermula sebagai gusti lumpur, akhirnya menjadi sesuatu yang lain."
 
 # game/code/d15/d15s03.rpy:304
 translate malay d15s03_dw_setup_3a1fc5bb:
 
     # pb "Dahlia saw that?"
-    pb " Dahlia nampak tu? "
+    pb "Dahlia nampak tu?"
 
 # game/code/d15/d15s03.rpy:307
 translate malay d15s03_dw_setup_a34f14d1:
@@ -580,19 +580,19 @@ translate malay d15s03_dw_setup_a34f14d1:
 translate malay d15s03_dw_setup_3e311433:
 
     # mc "She said something about Samiya fucking someone else's boyfriend \"again\"."
-    mc " Dia berkata sesuatu tentang Samiya kongkek teman lelaki orang lain \"sekali lagi\"."
+    mc "Dia berkata sesuatu tentang Samiya kongkek teman lelaki orang lain \"sekali lagi\"."
 
 # game/code/d15/d15s03.rpy:311
 translate malay d15s03_dw_setup_e2abdc52:
 
     # pb "Yeah... {w}That girl is damaged goods, ya'know?"
-    pb "Yeah... {w} Perempuan tu barang rosak, tahu tak?"
+    pb "Yeah... {w}Perempuan tu rosak, tahu tak?"
 
 # game/code/d15/d15s03.rpy:314
 translate malay d15s03_dw_setup_7e609263:
 
     # mc "Samiya? I mean, she's a-"
-    mc "Samiya? Maksud aku, dia seorang- "
+    mc "Samiya? Maksud aku, dia seorang-"
 
 # game/code/d15/d15s03.rpy:317
 translate malay d15s03_dw_setup_74cb820e:
@@ -664,7 +664,7 @@ translate malay d15s03_dw_setup_ad1eaa57:
 translate malay d15s03_dw_setup_9f63a24e:
 
     # pb "So, unless you want Dahlia walking all over you... well, you know what you've gotta do, right?"
-    pb "Jadi, melainkan kau nak Dahlia berjalan di atas kau... baik, kau tahu apa yang kau perlu buat, kan?"
+    pb "Jadi, melainkan kau nak Dahlia berjalan di atas kau... kau tahu apa yang kau kena buat, kan?"
 
 # game/code/d15/d15s03.rpy:351
 translate malay d15s03_dw_setup_0b8535ba:
@@ -706,7 +706,7 @@ translate malay d15s03_dw_setup_e93b0819:
 translate malay d15s03_dw_setup_f41ab2df:
 
     # pb "Okay then. {w}Show her who's boss."
-    pb "Baiklah. {w} Tunjukkan dia siapa bosnya."
+    pb "Baiklah. {w}Tunjukkan dia siapa bosnya."
 
 # game/code/d15/d15s03.rpy:367
 translate malay d15s03_dw_setup_f36e5aec:
@@ -770,9 +770,9 @@ translate malay d15s03_dw_setup_f820fcc8:
 
 # game/code/d15/d15s03.rpy:392
 translate malay d15s03_dw_setup_bf15c4e1:
-
+`
     # pb "I just think that sometimes it's all one big joke."
-    pb "Aku hanya fikir kadang-kadang itu semua satu jenaka besar."
+    pb "Aku hanya fikir kadang-kadang itu semua satu jenaka yang besar."
 
 # game/code/d15/d15s03.rpy:393
 translate malay d15s03_dw_setup_4e8a50c9:
@@ -790,7 +790,7 @@ translate malay d15s03_dw_setup_9f379e49:
 translate malay d15s03_dw_setup_26fd0d8a:
 
     # pb "Maybe. {w}Maybe I don't want to wait."
-    pb "Mungkin. {w} Mungkin aku tak nak menunggu. "
+    pb "Mungkin. {w} Mungkin aku tak nak menunggu."
 
 # game/code/d15/d15s03.rpy:402
 translate malay d15s03_dw_setup_b2b9e19d:
@@ -923,11 +923,10 @@ translate malay d15s03_end_2263a909:
 translate malay d15s03_middle_eb0418a8:
 
     # pb "Yeah. Somebody said that you two were at a jewelry store, shopping for rings."
-    pb "Yeah. Somebody said that you two were at a jewelry store, shopping for rings."
+    pb "Yeah. Ada orang kata yang korang berdua berada di kedai barang kemas, membeli-belah cincin."
 
 translate malay strings:
 
     # game/code/d15/d15s03.rpy:12
     old "20 minutes later"
-    new "20 minutes later"
-
+    new "20 minit kemudian..."
