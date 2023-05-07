@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
+# TODO: Translation updated at 2022-03-02 02:41
 
 # game/code/d15/d15s04dw.rpy:15
 translate malay d15s04dw_e843f07b:
@@ -10,7 +10,7 @@ translate malay d15s04dw_e843f07b:
 translate malay d15s04dw_4290d7de:
 
     # mct "Hmm. {w}That should be enough time. They should be here soon."
-    mct "Hmm. {w}Itu sepatutnya cukup masanya. Mereka akan tiba tak lama lagi."
+    mct "Hmm. {w}Patutnya cukup masanya. Mereka akan tiba tak lama lagi."
 
 # game/code/d15/d15s04dw.rpy:22
 translate malay d15s04dw_279a8f1e:
@@ -70,7 +70,7 @@ translate malay d15s04dw_4c515d56:
 translate malay d15s04dw_5a1150a9:
 
     # dw "I've got a few ideas about that too. {w}They start with getting your pants off."
-    dw "aku juga ada beberapa idea tentang itu. {w}Mereka bermula dengan menanggalkan seluar kau."
+    dw "Aku pun sama. {w}Mereka bermula dengan menanggalkan seluar kau."
 
 # game/code/d15/d15s04dw.rpy:51
 translate malay d15s04dw_51f49e55:
@@ -88,7 +88,7 @@ translate malay d15s04dw_d195d6d5:
 translate malay d15s04dw_5a0d161f:
 
     # mc "Anyway, I got to thinking about how upset you are at-"
-    mc "Apa-apa pun, aku kena fikirkan betapa kecewanya kau di- "
+    mc "Apa-apa pun, aku kena fikirkan betapa kecewanya kau di-"
 
 # game/code/d15/d15s04dw.rpy:60
 translate malay d15s04dw_f612b808:
@@ -136,13 +136,13 @@ translate malay d15s04dw_ccc2bcb3:
 translate malay d15s04dw_0af3f775:
 
     # sb "So this is supposed to be some sort of intervention? Are we talking about her drinking?"
-    sb "Jadi ini sepatutnya satu campur tangan? Adakah kita bercakap tentang dia minum?"
+    sb "Jadi ini sepatutnya satu campur tangan? Adakah kita akan bercakap tentang dia dan alkoholnya?"
 
 # game/code/d15/d15s04dw.rpy:89
 translate malay d15s04dw_e5d9c8e3:
 
     # dw "Oh, ha ha, bitch. Maybe we're here to discuss your sex addiction."
-    dw "Oh, ha ha, bitch.  Mungkin kami di sini untuk membincangkan ketagihan seks awak. "
+    dw "Oh, ha ha, sundal.  Mungkin kami di sini untuk membincangkan ketagihan seks kau."
 
 # game/code/d15/d15s04dw.rpy:92
 translate malay d15s04dw_27bfcfc1:
@@ -172,19 +172,19 @@ translate malay d15s04dw_53221166:
 translate malay d15s04dw_2fdfa84d:
 
     # mc "I'm sure there's a perfectly reasonable-"
-    mc "Aku pasti ada yang perkara sangat munasabah-"
+    mc "Aku pasti ada benda yang sangat munasabah-"
 
 # game/code/d15/d15s04dw.rpy:107
 translate malay d15s04dw_4c012916:
 
     # sb "Oh, like either of us are reasonable people. You must be the dumbest smart person-"
-    sb " Oh, seperti mana-mana antara kami adalah orang yang munasabah. Anda mesti orang yang paling bodoh pintar- "
+    sb " Oh, macamlah mana-mana antara kami adalah orang yang munasabah. Kau mesti orang yang paling bodoh pintar-"
 
 # game/code/d15/d15s04dw.rpy:110
 translate malay d15s04dw_d325b541:
 
     # dw "You know what, [mcname]? I've got an idea. Let's try this."
-    dw " Anda tahu, [mcname] ? Saya ada idea. Mari cuba ini. "
+    dw "Kau tahu, [mcname]? Aku ada idea. Mari cuba ini."
 
 # game/code/d15/d15s04dw.rpy:113
 translate malay d15s04dw_018cc069:
@@ -202,7 +202,7 @@ translate malay d15s04dw_ed5dede8:
 translate malay d15s04dw_11455b53:
 
     # mc "What?"
-    mc " Apa? "
+    mc "Apa?"
 
 # game/code/d15/d15s04dw.rpy:122
 translate malay d15s04dw_7fa8576f:
@@ -220,7 +220,7 @@ translate malay d15s04dw_8152af41:
 translate malay d15s04dw_361b64ba:
 
     # dw "GET YOUR FUCKING PANTS OFF NOW, SLAVE!!!"
-    dw "TANGGALKAN SELUAR ANDA SEKARANG!!! "
+    dw "TANGGALKAN SELUAR KAU SEKARANG!!! "
 
 # game/code/d15/d15s04dw.rpy:129
 translate malay d15s04dw_19aa576b:
@@ -232,7 +232,7 @@ translate malay d15s04dw_19aa576b:
 translate malay d15s04dw_dc2c45bf:
 
     # mc "This really isn't the time-"
-    mc "Ini bukan masanya- "
+    mc "Ini bukan masanya-"
 
 # game/code/d15/d15s04dw.rpy:135
 translate malay d15s04dw_66fdfbd9:
@@ -250,13 +250,13 @@ translate malay d15s04dw_57521fe8:
 translate malay d15s04dw_fe07d8b6:
 
     # mc "Dahlia, be serious-"
-    mc " Dahlia, seriuslah- "
+    mc " Dahlia, seriuslah-"
 
 # game/code/d15/d15s04dw.rpy:144
 translate malay d15s04dw_83ec32a0:
 
     # dw "Oh, I'm serious."
-    dw "Oh, I'm serious."
+    dw "Oh, aku serious."
 
 # game/code/d15/d15s04dw.rpy:150
 translate malay d15s04dw_ce0f48fb:
@@ -280,7 +280,7 @@ translate malay d15s04dw_c52b165d:
 translate malay d15s04dw_69afa652:
 
     # sb "Oh no. *giggles* It looks like your slave has given his manhood to someone else."
-    sb "Oh tidak. *ketawa* Nampaknya dia dah bagi kejantanan dia kat orang lain."
+    sb "Oh tak. *ketawa* Nampaknya dia dah bagi kejantanan dia kat orang lain."
 
 # game/code/d15/d15s04dw.rpy:165
 translate malay d15s04dw_10ef2a95:
@@ -322,7 +322,7 @@ translate malay d15s04dw_91dbed49:
 translate malay d15s04dw_f2483fad:
 
     # sb "Yes?"
-    sb " Ya? "
+    sb "Ya?"
 
 # game/code/d15/d15s04dw.rpy:185
 translate malay d15s04dw_af092567:
@@ -472,7 +472,7 @@ translate malay d15s04dw_51821582:
 translate malay d15s04dw_4a7e053b:
 
     # dw "Just shove it up his ass. Don't be gentle."
-    dw "Masukkan saja ke dalam bobtotnya."
+    dw "Masukkan saja ke dalam bontotnya."
 
 # game/code/d15/d15s04dw.rpy:283
 translate malay d15s04dw_0c2ccf1f:
@@ -502,13 +502,13 @@ translate malay d15s04dw_b8e773d6:
 translate malay d15s04dw_add6793a:
 
     # sb "Head's or tails, [mcname]?"
-    sb " Kepala atau ekor, [mcname] ? "
+    sb "Kepala atau ekor, [mcname]?"
 
 # game/code/d15/d15s04dw.rpy:297
 translate malay d15s04dw_11455b53_1:
 
     # mc "What?"
-    mc " Apa? "
+    mc "Apa?"
 
 # game/code/d15/d15s04dw.rpy:305
 translate malay d15s04dw_1fbc723e:
@@ -628,13 +628,13 @@ translate malay d15s04dw_85a208cc:
 translate malay d15s04dw_5baa75e6:
 
     # mc "Fuck. {w}That woman is going to be the death of me."
-    mc "Sial betul. {w}Perempuan itu akan menjadi kematian aku."
+    mc "Sial betul. {w}Perempuan itu boleh bunuh aku."
 
 # game/code/d15/d15s04dw.rpy:377
 translate malay d15s04dw_63809e09:
 
     # mct "Fine. Whatever. {w}Just endure this a little longer."
-    mct "Baiklah. Apa-apalah. {w}Hanya bertahan sedikit lagi."
+    mct "Baiklah. Apa-apalah. {w}Sikit sahaja lagi."
 
 # game/code/d15/d15s04dw.rpy:386
 translate malay d15s04dw_0e8c9c6d:
@@ -670,7 +670,7 @@ translate malay d15s04dw_698200b3:
 translate malay d15s04dw_3425c3f0:
 
     # sb "Fine - I fucked your boyfriend! There. Are you happy? I've finally admitted it!"
-    sb "Baiklah - aku kongkek teman lelaki kau! Kau gembira sekkarang? Aku akhirnya mengakuinya!"
+    sb "Baiklah - aku kongkek teman lelaki kau! Kau gembira sekarang? Aku akhirnya mengakuinya!"
 
 # game/code/d15/d15s04dw.rpy:414
 translate malay d15s04dw_58ebe977:
@@ -730,25 +730,25 @@ translate malay d15s04dw_f52c35f3:
 translate malay d15s04dw_50c839bd:
 
     # sb "Of course I wanted him, but he was yours. I would never steal from you."
-    sb "Mestilah aku mahukan dia, tapi dia milik kau. Aku tak akan pernah mencuri daripada kau."
+    sb "Mestilah aku nak dia, tapi dia milik kau. Aku tak akan pernah mencuri daripada kau."
 
 # game/code/d15/d15s04dw.rpy:445
 translate malay d15s04dw_6c142fe4:
 
     # dw "But you fucked him."
-    dw "Tapi kau kongkek dia. "
+    dw "Tapi kau kongkek dia."
 
 # game/code/d15/d15s04dw.rpy:447
 translate malay d15s04dw_c63915c8:
 
     # sb "But I fucked him..."
-    sb "Tapi saya kongkek dia..."
+    sb "Tapi aku kongkek dia..."
 
 # game/code/d15/d15s04dw.rpy:453
 translate malay d15s04dw_ef235fde:
 
     # sb "And if we're being perfectly honest, I've fucked [mcname] too."
-    sb " Dan jika kita betulr-betul jujur, aku juga dah kongkek [mcname]."
+    sb "Dan jika kita betul-betul jujur, aku juga dah kongkek [mcname]."
 
 # game/code/d15/d15s04dw.rpy:459
 translate malay d15s04dw_88776cc3:
@@ -772,7 +772,7 @@ translate malay d15s04dw_e1362e1f:
 translate malay d15s04dw_a3e566b0:
 
     # dw "So, you really are-?"
-    dw "Jadi, kau -?"
+    dw "Jadi, kau-?"
 
 # game/code/d15/d15s04dw.rpy:471
 translate malay d15s04dw_6ce329d5:
@@ -838,7 +838,7 @@ translate malay d15s04dw_a922091f:
 translate malay d15s04dw_f98f627b:
 
     # sb "Look, I'm gonna get out of here."
-    sb "Aku akan keluar dari sini."
+    sb "Aku nak keluar dari sini."
 
 # game/code/d15/d15s04dw.rpy:511
 translate malay d15s04dw_4b0e57ee:
@@ -970,7 +970,7 @@ translate malay d15s04dw_a8d44f5e:
 translate malay d15s04dw_885b35ba:
 
     # sb "Of course. What are you thinking?"
-    sb "Sudah tentu. Apa yang kau fikirkan? "
+    sb "Mestilah. Apa yang kau fikirkan?"
 
 # game/code/d15/d15s04dw.rpy:597
 translate malay d15s04dw_20b797db:
@@ -1079,11 +1079,10 @@ translate malay strings:
 translate malay d15s04dw_eb3e097b:
 
     # dw "I'm sure he's got a book around here somewhere that I can use as a paddle."
-    dw "I'm sure he's got a book around here somewhere that I can use as a paddle."
+    dw "Aku rasa dia ada buku yang kita boleh gunakan sebagai pemukul."
 
 translate malay strings:
 
     # game/code/d15/d15s04dw.rpy:17
     old "30 minutes later"
-    new "30 minutes later"
-
+    new "30 minit kemudian"
