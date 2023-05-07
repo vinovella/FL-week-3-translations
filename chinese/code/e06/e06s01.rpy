@@ -124,7 +124,7 @@ translate chinese e06s01_d3ad0144:
 translate chinese e06s01_7d8d1212:
 
     # lc "Didn't want you regretting anything and leaving."
-    lc "我不想让你后悔离开。"
+    lc "我不想让你心怀遗憾的离开。"
 
 # game/code/e06/e06s01.rpy:95
 translate chinese e06s01_7eaac46d:
@@ -172,7 +172,7 @@ translate chinese e06s01_200dcac1:
 translate chinese e06s01_cdfb4896:
 
     # mc "It's like trying to catch a snowball after it's been tumbling downhill for ten minutes."
-    mc "这就像一个雪球往山下滚了十分钟后，你再去接它一样。"
+    mc "这就像一个雪球往山下滚了十分钟后，你再试图去接它一样。"
 
 # game/code/e06/e06s01.rpy:114
 translate chinese e06s01_d0468e36:
@@ -286,13 +286,13 @@ translate chinese e06s01_17ec13ae:
 translate chinese e06s01_6ddd330f:
 
     # mc "Besides... I think you enjoyed having my cock locked up in your own way. You can admit it."
-    mc "除了..我觉得你喜欢用你自己的方式把我的鸡巴锁起来。你要承认这一点。是.."
+    mc "除了...我觉得你喜欢用你自己的方式把我的鸡巴锁起来。你要承认这一点。"
 
 # game/code/e06/e06s01.rpy:173
 translate chinese e06s01_944d121e:
 
     # lc "Yes... I liked it. Being assured that no matter what, I couldn't give in."
-    lc "我是喜欢。我确信无论发生什么，我都不会屈服。"
+    lc "我是喜欢... 我确信无论发生什么，我都不会屈服。"
 
 # game/code/e06/e06s01.rpy:174
 translate chinese e06s01_22a1523a:
@@ -376,7 +376,7 @@ translate chinese e06s01_f7cce481:
 translate chinese e06s01_fa0bce90:
 
     # mc "Of course. Just don't be surprised if I'm more animal than man when we finally make love."
-    mc "当然。只是，如果我们最后做爱的时候，我更像动物而不是人，你别惊讶。"
+    mc "当然。只是，如果我们最后做爱的时候，我比起人更像一头野兽，到时你可别惊讶。"
 
 # game/code/e06/e06s01.rpy:212
 translate chinese e06s01_22085584:
@@ -388,7 +388,7 @@ translate chinese e06s01_22085584:
 translate chinese e06s01_d45dc55a:
 
     # lc "When you're... unrestrained..."
-    lc "当你...无拘无束的时候...你能做什么..."
+    lc "当你...无拘无束的时候...能做什么..."
 
 # game/code/e06/e06s01.rpy:222
 translate chinese e06s01_b3614f1d:
@@ -426,5 +426,5 @@ translate chinese strings:
 
     # game/code/e06/e06s01.rpy:28
     old "Later That Day"
-    new "Later That Day"
+    new "当天晚些时候"
 
