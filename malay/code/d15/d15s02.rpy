@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
+# TODO: Translation updated at 2022-03-02 02:41
 
 # game/code/d15/d15s02.rpy:10
 translate malay d15s02_22983615:
@@ -16,19 +16,19 @@ translate malay d15s02_ce86b6d4:
 translate malay d15s02_161e4dac:
 
     # mc "I thought it was something urgent."
-    mc "Aku ingatkan ianya sesuatu yang mendesak."
+    mc "Aku ingatkan ianya sesuatu yang terdesak."
 
 # game/code/d15/d15s02.rpy:25
 translate malay d15s02_cbfce223:
 
     # nk "Heard you fucked 20 women over the weekend."
-    nk "Dengar kau kongkek 20 perempuan pada hujung minggu."
+    nk "Dengar cerita kau kongkek 20 perempuan pada hujung minggu."
 
 # game/code/d15/d15s02.rpy:28
 translate malay d15s02_26963494:
 
     # mc "Tried to, more like. That was the assignment, but I didn't manage it."
-    mc "Begitu jugalah. Ianya tugasan, tapi aku tak dapat buatnya."
+    mc "Macam itu jugalah. Itulah tugasannya, tapi aku tak dapat buatnya."
 
 # game/code/d15/d15s02.rpy:31
 translate malay d15s02_4bfe2e0d:
@@ -40,7 +40,7 @@ translate malay d15s02_4bfe2e0d:
 translate malay d15s02_1147813b:
 
     # nk "What did you lose—if anything?"
-    nk "Apa yang kau hilang—jika ada?"
+    nk "Apa yang kau akan hilang—jika ada?"
 
 # game/code/d15/d15s02.rpy:35
 translate malay d15s02_5f1ed132:
@@ -100,7 +100,7 @@ translate malay d15s02_183f2a6e:
 translate malay d15s02_9b18fedf:
 
     # nk "How do you feel?"
-    nk "Apa perasaan awak?"
+    nk "Apa perasaan kau?"
 
 # game/code/d15/d15s02.rpy:66
 translate malay d15s02_e1800d38:
@@ -190,7 +190,7 @@ translate malay d15s02_cf996605:
 translate malay d15s02_c1789c21:
 
     # mc "Wow. That's a hell of a lot of money."
-    mc "Wow. Sungguh banyak wangnya."
+    mc "Wow. Banyak juga wangnya."
 
 # game/code/d15/d15s02.rpy:110
 translate malay d15s02_59601492:
@@ -232,13 +232,13 @@ translate malay d15s02_8bbed3e2:
 translate malay d15s02_e170f30a:
 
     # nk "Thinking about going somewhere nice and sunny. And hopefully a lot cheaper."
-    nk "Berfikir tentang pergi ke tempat yang bagus dan cerah. Dan semoga lebih murah."
+    nk "Berfikir tentang pergi ke tempat yang bagus dan cerah. Dan harapnya murah."
 
 # game/code/d15/d15s02.rpy:124
 translate malay d15s02_343159d4:
 
     # mc "...So it's certain then?"
-    mc "... Jadi sudah pasti?"
+    mc "...Jadi dah pasti?"
 
 # game/code/d15/d15s02.rpy:127
 translate malay d15s02_708291b4:
@@ -268,7 +268,7 @@ translate malay d15s02_3ffa32c1:
 translate malay d15s02_e64ba32b:
 
     # mc "That kid in your belly is my child as much as it is yours. I want to be there for him."
-    mc "Anak dalam perut kau itu adalah anak aku sama seperti anak kau. Aku nak berada di sana untuknya."
+    mc "Anak dalam perut kau itu adalah anak aku sama seperti anak kau. Aku nak berada di sampingnya untuknya."
 
 # game/code/d15/d15s02.rpy:141
 translate malay d15s02_dcb03a56:
@@ -298,7 +298,7 @@ translate malay d15s02_bb861f9e:
 translate malay d15s02_04bd8fb0:
 
     # mc "...I made my choice that day. No amount of apologizing is gonna take back what I did."
-    mc "... Aku dah buat pilihan aku pada hari itu. Tak ada sebarang permohonan maaf akan menarik balik apa yang aku lakukan."
+    mc "...Aku dah buat pilihan aku pada hari itu. Tak ada sebarang permohonan maaf akan menarik balik apa yang aku lakukan."
 
 # game/code/d15/d15s02.rpy:153
 translate malay d15s02_568d31c7:
@@ -328,7 +328,7 @@ translate malay d15s02_b55219f0:
 translate malay d15s02_9971da35:
 
     # nk "I don't want to be left alone in the middle of nowhere because you realize that you can't settle down and need to fuck someone else to get your kicks."
-    nk "Aku tak nak ditinggalkan keseorangan kerana kau sedar yang kau tak  boleh bertenang dan perlu kongkek orang lain."
+    nk "Aku tak nak ditinggalkan keseorangan kerana kau sedar yang kau tak boleh bertenang dan perlu kongkek orang lain."
 
 # game/code/d15/d15s02.rpy:165
 translate malay d15s02_a20cefa7_2:
@@ -352,7 +352,7 @@ translate malay d15s02_7eb569a7:
 translate malay d15s02_a5ff7b2b:
 
     # mc "I {i}have{/i} been a real prick."
-    mc "Aku {i}telah{/i} menjadi seorang yang culas."
+    mc "Aku {i}telah{/i} menjadi seorang yang sangat culas."
 
 # game/code/d15/d15s02.rpy:175
 translate malay d15s02_00e13f39:
@@ -364,13 +364,13 @@ translate malay d15s02_00e13f39:
 translate malay d15s02_cf8fc324:
 
     # nk "If...if this is real. If you really want to do this. Be here tomorrow."
-    nk "Kalau... kalau ini betul-betul. Kalau kau betul-betul nak buat ni. Esok datang ke sini."
+    nk "Kalau... kalau ini betul. Kalau kau betul-betul nak buat ni. Esok datang ke sini."
 
 # game/code/d15/d15s02.rpy:179
 translate malay d15s02_eec9d203:
 
     # nk "If not, I'll be in touch. You'll be a part of the child's life, but I can't promise much more than that."
-    nk "Jika tak, aku akan hubungi kau. Kau akan jadi sebahagian daripada hidup kau, tapi aku tak boleh berjanji lebih daripada itu."
+    nk "Jika tak, aku akan hubungi kau. Kau akan jadi sebahagian daripada hidup anak ni, tapi aku tak boleh berjanji lebih daripada itu."
 
 # game/code/d15/d15s02.rpy:182
 translate malay d15s02_6651ab87:
@@ -418,7 +418,7 @@ translate malay d15s02_716019b8:
 translate malay d15s02_66a102f9:
 
     # nk "I have a lot to think about."
-    nk "Banyak yang perlu aku fikirkan."
+    nk "Banyak benda yang perlu aku fikirkan."
 
 # game/code/d15/d15s02.rpy:201
 translate malay d15s02_a24f1b2d:
@@ -460,7 +460,7 @@ translate malay strings:
 
     # game/code/d15/d15s02.rpy:59
     old "Itching to Break Free"
-    new "Gatal untuk Melepaskan"
+    new "Gatal untuk Lepaskan"
 
     # game/code/d15/d15s02.rpy:59
     old "Had Enough Fun for Now"
@@ -472,11 +472,11 @@ translate malay strings:
 translate malay d15s02_b6e0d059:
 
     # nk "Was 20, one-after-the-other, too much?"
-    nk "Was 20, one-after-the-other, too much?"
+    nk "20 satu demi satu terlalu banyak?"
 
 translate malay strings:
 
     # game/code/d15/d15s02.rpy:10
     old "10 minutes of walking later"
-    new "10 minutes of walking later"
+    new "Selepas 10 minit berjalan"
 
