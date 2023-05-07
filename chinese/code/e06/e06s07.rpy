@@ -148,7 +148,7 @@ translate chinese e06s07_7be63fa7:
 translate chinese e06s07_7f35d134:
 
     # mc "You didn't manage to convince anyone else to wear their mission outfits today, did you?"
-    mc "你今天没能服其他人穿上任务服，是吗？"
+    mc "你今天没能说服其他人穿上任务服，是吗？"
 
 # game/code/e06/e06s07.rpy:66
 translate chinese e06s07_108eefe1:
@@ -172,7 +172,7 @@ translate chinese e06s07_0f8c73fc:
 translate chinese e06s07_dcc18ce5:
 
     # sy "Any last minute reservations?"
-    sy "最后要改变什么吗？"
+    sy "最后有什么要交代的吗？"
 
 # game/code/e06/e06s07.rpy:74
 translate chinese e06s07_f5bf9e2b:
@@ -238,13 +238,13 @@ translate chinese e06s07_6e461af4:
 translate chinese e06s07_78f6d538:
 
     # mh "... we are gathered here to celebrate the lawful union and bonds of matrimony between Lydia Cox and [mcname] Young."
-    mh "...我们聚集在这里，庆祝莉迪亚·考克斯和杨[mcname] 的合法结合。"
+    mh "...我们聚集在这里，庆祝莉迪亚·考克斯和杨[mcname]的合法结合。"
 
 # game/code/e06/e06s07.rpy:101
 translate chinese e06s07_7d730ed8:
 
     # mh "The couple selected their own vows, which they will now read."
-    mh "这对新人选择了自己的誓词，现在他们将宣读誓词。"
+    mh "这对新人选择自己说誓词，现在他们将宣读誓词。"
 
 # game/code/e06/e06s07.rpy:104
 translate chinese e06s07_b6623c88:
@@ -262,7 +262,7 @@ translate chinese e06s07_483051f3:
 translate chinese e06s07_7b79191a:
 
     # lc "Without doubt or question, I promise to love you, honor you, and submit myself to you in all things."
-    lc "，我承诺毫无疑问、无条件地爱你，尊敬你，并在所有事情上服从你。"
+    lc "我承诺毫无疑问、无条件地爱你，尊敬你，并在所有事情上服从你。"
 
 # game/code/e06/e06s07.rpy:110
 translate chinese e06s07_64d63c9d:
@@ -334,7 +334,7 @@ translate chinese e06s07_6eec208d:
 translate chinese e06s07_b66a888f:
 
     # mc "I know we said we were going to write our own vows, but-"
-    mc "我知道我们过要自己写誓词，可没想到--"
+    mc "我知道我们说过要自己写誓词，可没想到--"
 
 # game/code/e06/e06s07.rpy:134
 translate chinese e06s07_5e1c72da:
@@ -424,13 +424,13 @@ translate chinese e06s07_2268550a:
 translate chinese e06s07_f5368a8d:
 
     # mh "Did you want to say anything about your Harem?"
-    mh "关于你的后宫，你有什么要的吗？"
+    mh "关于你的后宫，你有什么要说的吗？"
 
 # game/code/e06/e06s07.rpy:179
 translate chinese e06s07_0e40d027:
 
     # mc "Oh! Um, give me a minute."
-    mc "哦！嗯，给我一分钟。"
+    mc "哦！呃，给我一分钟。"
 
 # game/code/e06/e06s07.rpy:182
 translate chinese e06s07_45a9d417:
@@ -472,13 +472,13 @@ translate chinese e06s07_6fa0aa6e:
 translate chinese e06s07_233f0d4a:
 
     # arj "*whispers* You might want to..."
-    arj "*低语* 你可以..."
+    arj "*低语* 你可以说..."
 
 # game/code/e06/e06s07.rpy:202
 translate chinese e06s07_a3c130f8:
 
     # mc "That sounds good to me. Let me see how much of that I remember."
-    mc "听起来不错。让我看看我还记得多少。"
+    mc "听起来不错。让我看看还记得多少。"
 
 # game/code/e06/e06s07.rpy:205
 translate chinese e06s07_5525fcba:
@@ -490,7 +490,7 @@ translate chinese e06s07_5525fcba:
 translate chinese e06s07_9607a85e:
 
     # mc "To see to their contentment and satisfy their sexual needs - either by myself or using members of my Harem."
-    mc "让他们满意，满足他们的性需求--要么我自己上，要么让我的后宫成员上。"
+    mc "让她们满意，满足她们的性需求--要么我自己上，要么让我的后宫成员上。"
 
 # game/code/e06/e06s07.rpy:209
 translate chinese e06s07_542e4451:
@@ -502,7 +502,7 @@ translate chinese e06s07_542e4451:
 translate chinese e06s07_0a69ae3b:
 
     # mc "And to love and care for each member of the Harem so long as they are useful to me."
-    mc "我会爱护、照顾后宫的每一个成员，只要他们对我有用。"
+    mc "我会爱护、照顾后宫的每一个成员，只要她们对我有用。"
 
 # game/code/e06/e06s07.rpy:213
 translate chinese e06s07_76298393:
@@ -526,7 +526,7 @@ translate chinese e06s07_608d4b1b:
 translate chinese e06s07_99d11dd3:
 
     # lc "Thank you, Lyssa. Yes, on behalf of the Harem I pledge the following:"
-    lc "谢谢你，丽莎。是的，我代表后宫宣誓如下"
+    lc "谢谢你，丽莎。是的，我代表后宫宣誓如下："
 
 # game/code/e06/e06s07.rpy:225
 translate chinese e06s07_a514b698:
@@ -544,7 +544,7 @@ translate chinese e06s07_3189fe99:
 translate chinese e06s07_18701c32:
 
     # lc "We pledge our hearts to [mcname]'s tender care."
-    lc "我们保证把我们的心交给[mcname]的温柔关怀"
+    lc "我们保证把我们的心交给[mcname]的温柔关怀。"
 
 # game/code/e06/e06s07.rpy:230
 translate chinese e06s07_ac729b7a:
@@ -604,7 +604,7 @@ translate chinese e06s07_6fa0aa6e_1:
 translate chinese e06s07_b82257d8:
 
     # mc "That was it. I just felt like I should say, \"I do\"."
-    mc "没了。我只是觉得我应该，\"我愿意\"。"
+    mc "没了。我只是觉得我应该说，\"我愿意\"。"
 
 # game/code/e06/e06s07.rpy:258
 translate chinese e06s07_6e48bc15:
@@ -690,5 +690,5 @@ translate chinese strings:
 
     # game/code/e06/e06s07.rpy:4
     old "Two Weeks Later"
-    new "Two Weeks Later"
+    new "两周后"
 
