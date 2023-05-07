@@ -72,7 +72,7 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:605
     old "Please select the girls"
-    new "Please select the girls"
+    new "Sila pilih diantara mereka"
 
     # game/code/screens/screens_fl.rpy:655
     old "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
