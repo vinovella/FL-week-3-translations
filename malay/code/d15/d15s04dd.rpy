@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
+# TODO: Translation updated at 2022-03-02 02:41
 
 # game/code/d15/d15s04dd.rpy:21
 translate malay d15s04dd_58b263af:
@@ -10,13 +10,13 @@ translate malay d15s04dd_58b263af:
 translate malay d15s04dd_ab7f1b7a:
 
     # mc "Not as many people here today."
-    mc "Tak ramai pula orang di sini hari ini."
+    mc "Tak ramai pula orang hari ini."
 
 # game/code/d15/d15s04dd.rpy:31
 translate malay d15s04dd_e00dba16:
 
     # dd "Yeah. I like it. It's not as suffocating."
-    dd "Yeah. Aku sukakannya. Ia tak lah melemaskan sangat."
+    dd "Yeah. Aku sukakannya. Ia tak lah lemas sangat."
 
 # game/code/d15/d15s04dd.rpy:36
 translate malay d15s04dd_66ed430a:
@@ -64,7 +64,7 @@ translate malay d15s04dd_9719365e:
 translate malay d15s04dd_87db569c:
 
     # "Receptionist" "Great. The doctor might be away for a bit, but you can just wait inside until they're back."
-    "Penyambut tetamu"  "Baiklah. Doktor mungkin tiada sebentar, tapi anda boleh tunggu di dalam sehingga mereka kembali."
+    "Penyambut tetamu"  "Baiklah. Doktor mungkin tak ada sebentar, tapi anda boleh tunggu di dalam sehingga mereka kembali."
 
 # game/code/d15/d15s04dd.rpy:60
 translate malay d15s04dd_b85f6643:
@@ -124,13 +124,13 @@ translate malay d15s04dd_ccf7d028:
 translate malay d15s04dd_3dc09195:
 
     # dd "I'm not sure how she hasn't changed it yet. Like... I don't get it."
-    dd "Aku tak pasti macam mana dia belum mengubahnya lagi. Seperti... Aku tak faham."
+    dd "Aku tak pasti macam mana dia belum mengubahnya lagi. Macam... Aku tak faham."
 
 # game/code/d15/d15s04dd.rpy:99
 translate malay d15s04dd_b193a95b:
 
     # mc "This also implies that there's a whole dynasty of Bierbottoms out there."
-    mc " ni juga membayangkan ada juga terdapat seluruh dinasti Bierbottom di luar sana."
+    mc "Ini juga membayangkan ada juga terdapat seluruh dinasti Bierbottom di luar sana."
 
 # game/code/d15/d15s04dd.rpy:102
 translate malay d15s04dd_b40946f1:
@@ -202,7 +202,7 @@ translate malay d15s04dd_478b9332:
 translate malay d15s04dd_a70c5e68:
 
     # dd "...I'm alright. Just thinking about stuff."
-    dd "... Aku okay sajaha. Hanya memikirkan beberapa perkara sahaja."
+    dd "... Aku okay. Hanya memikirkan beberapa perkara sahaja."
 
 # game/code/d15/d15s04dd.rpy:133
 translate malay d15s04dd_7471de15:
@@ -214,7 +214,7 @@ translate malay d15s04dd_7471de15:
 translate malay d15s04dd_e197f0b9:
 
     # dd "My thoughts are worth a lot more than that, come on now."
-    dd "Fikiran aku lebih bernilai daripada itu, ayuh sekarang."
+    dd "Fikiran aku lebih bernilai daripada itu, kau ni."
 
 # game/code/d15/d15s04dd.rpy:139
 translate malay d15s04dd_e124385f:
@@ -262,7 +262,7 @@ translate malay d15s04dd_537acfa7:
 translate malay d15s04dd_41489c48:
 
     # dd "And now the future has caught up with me and I'm... I don't know what to do."
-    dd "Dan sekarang masa depan telah mengejar aku dan aku.. Aku tak tahu apa yang perlu dilakukan."
+    dd "Dan sekarang masa depan telah mengejar aku dan aku.. Aku tak tahu apa yang kena dilakukan."
 
 # game/code/d15/d15s04dd.rpy:155
 translate malay d15s04dd_521f3fb8:
@@ -304,7 +304,7 @@ translate malay d15s04dd_5a77a095:
 translate malay d15s04dd_09b481e9:
 
     # dd "I have enough saved up to make it work...for the most part."
-    dd "Aku dah ada simpanan yang mencukupi untuk menjadikannya berfungsi... sebahagian besarnya lah."
+    dd "Aku dah ada simpanan yang mencukupi untuk melakukannya... sebahagian besarnya lah."
 
 # game/code/d15/d15s04dd.rpy:171
 translate malay d15s04dd_e54f5eb0:
@@ -322,7 +322,7 @@ translate malay d15s04dd_94c1c874:
 translate malay d15s04dd_8671a0fc:
 
     # dd "Supply firewood for the town."
-    dd "Bekalkan kayu api untuk bandar ."
+    dd "Bekalkan kayu api untuk bandar."
 
 # game/code/d15/d15s04dd.rpy:177
 translate malay d15s04dd_4434b223:
@@ -406,7 +406,7 @@ translate malay d15s04dd_e4544547:
 translate malay d15s04dd_973a3103:
 
     # "???" "If you can wait, that's great, but we can get you another appointment at another date as well if you would prefer that."
-    "???" "Jika anda boleh menunggu, itu bagus, tetapi kami boleh memberi anda temu janji lain pada tarikh lain juga jika anda mahukan itu."
+    "???" "Jika anda boleh menunggu, itu bagus, tapi kami boleh memberi anda temu janji lain pada tarikh lain juga jika anda mahukan itu."
 
 # game/code/d15/d15s04dd.rpy:219
 translate malay d15s04dd_890bb8d1:
@@ -466,7 +466,7 @@ translate malay d15s04dd_f8edddd9:
 translate malay d15s04dd_11455b53:
 
     # mc "What?"
-    mc " Apa? "
+    mc "Apa?"
 
 # game/code/d15/d15s04dd.rpy:256
 translate malay d15s04dd_0e1b7a6c:
@@ -496,7 +496,7 @@ translate malay d15s04dd_5cf68132:
 translate malay d15s04dd_96420425:
 
     # mc "Wait a minute, are you thinking about dressing up as a nurse {i}right now?{/i}"
-    mc "Tunggu sebentar, kau berfikir tentang berpakaian sebagai jururawat {i}sekarang?{/i}"
+    mc "Tunggu, kau berfikir tentang berpakaian sebagai jururawat {i}sekarang?{/i}"
 
 # game/code/d15/d15s04dd.rpy:272
 translate malay d15s04dd_c176a51f:
@@ -556,37 +556,37 @@ translate malay d15s04dd_893b3277:
 translate malay d15s04dd_5dd2ada7:
 
     # dd "Come with me, the doctor told me to get your vitals."
-    dd "Jom ikut saya, doktor suruh saya periksa awak."
+    dd "Jom ikut aku, doktor suruh saya periksa kau."
 
 # game/code/d15/d15s04dd.rpy:312
 translate malay d15s04dd_d2176733:
 
     # dd "Oh my, your heart is beating very fast. You wouldn't happen to be excited, would you?"
-    dd "Ya ampun, jantung awak berdegup kencang. Awak takkan teruja kan?"
+    dd "Ya ampun, jantung kau berdegup kencang. Kau takkan teruja kan?"
 
 # game/code/d15/d15s04dd.rpy:317
 translate malay d15s04dd_b50d3a4e:
 
     # dd "Oh you're definitely excited now, aren't you?"
-    dd "Oh anda pasti teruja sekarang, kan?"
+    dd "Oh kau pasti teruja sekarang, kan?"
 
 # game/code/d15/d15s04dd.rpy:320
 translate malay d15s04dd_31a6acd1:
 
     # mc "Well, what can I say? It's not everyday I get a physical from an aspiring lumberjack."
-    mc "Baiklah, apa yang boleh saya katakan? Bukan setiap hari saya mendapat fizikal daripada pembalak yang bercita-cita tinggi."
+    mc "Baiklah, apa yang boleh aku katakan? Bukan setiap hari aku mendapat fizikal daripada pembalak yang bercita-cita tinggi."
 
 # game/code/d15/d15s04dd.rpy:326
 translate malay d15s04dd_6f60f7b0:
 
     # dd "Oh gosh. If I'm responsible for this hardwood, I want to try and ease your pain a bit."
-    dd "Ya ampun. Jika saya bertanggungjawab untuk kayu keras ini, saya ingin mencuba dan mengurangkan sedikit kesakitan awak."
+    dd "Ya ampun. Jika aku bertanggungjawab untuk kayu keras ini, aku ingin mencuba dan mengurangkan sedikit kesakitan kau."
 
 # game/code/d15/d15s04dd.rpy:327
 translate malay d15s04dd_09f98df8:
 
     # dd "Would you like that?"
-    dd "Awak sukakannya?"
+    dd "Kau sukakannya?"
 
 # game/code/d15/d15s04dd.rpy:330
 translate malay d15s04dd_d9d532bf:
@@ -646,7 +646,7 @@ translate malay d15s04dd_e0e3a9d7:
 translate malay d15s04dd_faa3142e:
 
     # mc "Well, we could probably cut it off, but uh... For one thing, I don't want tools like that near my junk."
-    mc " Baiklah, kita mungkin boleh memotongnya, tapi uh... Untuk satu perkara, aku tak nak alat seperti itu dekat kote aku."
+    mc " Baiklah, kita mungkin boleh memotongnya, tapi uh... aku tak nak alat seperti itu dekat kote aku."
 
 # game/code/d15/d15s04dd.rpy:362
 translate malay d15s04dd_538b2734:
@@ -820,7 +820,7 @@ translate malay d15s04dd_82e18332:
 translate malay d15s04dd_bfb7a12f:
 
     # dd "Oh, it's no problem."
-    dd "Oh, tiada masalah."
+    dd "Oh, tak ada masalah."
 
 # game/code/d15/d15s04dd.rpy:531
 translate malay d15s04dd_1fac3b26:
@@ -932,7 +932,7 @@ translate malay strings:
 
     # game/code/d15/d15s04dd.rpy:570
     old "Don't"
-    new "Jangam"
+    new "Jangan"
 
 # TODO: Translation updated at 2022-11-12 13:01
 
@@ -940,29 +940,29 @@ translate malay strings:
 translate malay d15s04dd_ff7b6382:
 
     # dd "*Chuckles*"
-    dd "*Chuckles*"
+    dd "*Ketawa*"
 
 # game/code/d15/d15s04dd.rpy:275
 translate malay d15s04dd_9117778a:
 
     # dd "It might be weird, but I've always had it on my bucket list."
-    dd "It might be weird, but I've always had it on my bucket list."
+    dd "Mungkin nampak pelik tapi ia sentiasa ada dalam senarai baldi aku."
 
 # game/code/d15/d15s04dd.rpy:365
 translate malay d15s04dd_23db955f:
 
     # mc "I failed a challenge. My new challenge is this cockcage."
-    mc "I failed a challenge. My new challenge is this cockcage."
+    mc "Aku gagal dalam satu cabaran. Dan ini adalah cabaran baru aku."
 
 # game/code/d15/d15s04dd.rpy:559
 translate malay d15s04dd_8014433d:
 
     # dd "I don't know what came over me, but I can't say that it wasn't hot."
-    dd "I don't know what came over me, but I can't say that it wasn't hot."
+    dd "Aku tak tahu apa yang terjadi tadi, tapi aku tak boleh kata ianya tak menarik."
 
 translate malay strings:
 
     # game/code/d15/d15s04dd.rpy:21
     old "1 hour later"
-    new "1 hour later"
+    new "Sejam kemudian"
 
