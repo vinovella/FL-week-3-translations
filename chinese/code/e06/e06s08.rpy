@@ -112,7 +112,7 @@ translate chinese e06s08_e9ceaa5d:
 translate chinese e06s08_6cdf14eb:
 
     # sy "Cream Pies!"
-    sy "奶油馅饼！"
+    sy "奶油派来了！"
 
 # game/code/e06/e06s08.rpy:56
 translate chinese e06s08_d89f2732:
@@ -148,25 +148,25 @@ translate chinese e06s08_d38a5123:
 translate chinese e06s08_3fb2e937:
 
     # sy "Cream pies... right?"
-    sy "是...奶油派...吗？"
+    sy "不是...奶油派...吗？"
 
 # game/code/e06/e06s08.rpy:71
 translate chinese e06s08_40206a97:
 
     # lc "Seriously? This is my wedding. Spice cake with orange filling and buttercream icing. I was specific."
-    lc "认真的吗？这是我的婚礼。香草蛋糕，加有橘子馅和奶油糖霜。我说得很明确。"
+    lc "认真的吗？这是我的婚礼。香草蛋糕呢，还要有橘子馅和奶油糖霜。我说得很明确。"
 
 # game/code/e06/e06s08.rpy:72
 translate chinese e06s08_385825ca:
 
     # lc "Where's my motherfucking cake?"
-    lc " 我的蛋糕呢？"
+    lc "我的蛋糕呢？"
 
 # game/code/e06/e06s08.rpy:74
 translate chinese e06s08_008d06ec:
 
     # mc "Hon, love, calm down. I'm sure they-"
-    mc "亲爱的，冷静点。我相信他们--"
+    mc "亲爱的，冷静点。我相信她们--"
 
 # game/code/e06/e06s08.rpy:76
 translate chinese e06s08_7aac99c2:
@@ -280,13 +280,13 @@ translate chinese e06s08_cake_5f93dd45:
 translate chinese e06s08_cake_2093f82e:
 
     # sy "That's not right! The best man always gives the first toast at a wedding!"
-    sy "那不对！ 婚礼上总是由伴郎第一个敬酒！"
+    sy "那不对！婚礼上总是由伴郎第一个敬酒！"
 
 # game/code/e06/e06s08.rpy:129
 translate chinese e06s08_cake_22ece3f4:
 
     # sy "The maid-of-honor is supposed to give the second toast!"
-    sy "她伴娘应该致第二个祝酒词！"
+    sy "伴娘应该致第二个祝酒词！"
 
 # game/code/e06/e06s08.rpy:130
 translate chinese e06s08_cake_5aca01c6:
@@ -322,7 +322,7 @@ translate chinese e06s08_cake_bd260c4c:
 translate chinese e06s08_cake_1601f1d6:
 
     # mct "Stacy is the person I'm closest to in the world - except my new wife, of course..."
-    mct "史黛西是我在这个世界上最亲近的人当然，除了我的新婚妻子..."
+    mct "史黛西是我在这个世界上最亲近的人。当然，除了我的新婚妻子..."
 
 # game/code/e06/e06s08.rpy:141
 translate chinese e06s08_cake_d2a3c171:
@@ -442,7 +442,7 @@ translate chinese d06s08_sy_ec50a06b:
 translate chinese d06s08_sy_1cd50ce3:
 
     # sy "So, I knew [mcname] back before I knew anything about computers or even what the internet was."
-    sy "所以，在我还不了解电脑，甚至不知道什么是互联网的时候，我就认识他了。"
+    sy "所以，在我还不了解电脑，甚至不知道什么是互联网的时候，我就认识[mcname]了。"
 
 # game/code/e06/e06s08.rpy:208
 translate chinese d06s08_sy_b7f4f13c:
@@ -478,7 +478,7 @@ translate chinese d06s08_sy_26df2275:
 translate chinese d06s08_sy_7764ddf9:
 
     # sy "Where was I? Oh yeah, the television."
-    sy "我说到哪儿了哦，对了，电视。"
+    sy "我说到哪儿了？哦，对了，电视。"
 
 # game/code/e06/e06s08.rpy:219
 translate chinese d06s08_sy_74804a57:
@@ -550,7 +550,7 @@ translate chinese d06s08_sy_68281a55:
 translate chinese d06s08_sy_92f79119:
 
     # sy "Then he said, \"But you are a good person and you are loved\"."
-    sy "然后他说，\"但，你本人还是很棒，很好，你被爱着。\""
+    sy "然后他说，\"但，你本人还是很棒，很好的，你被爱着。\""
 
 # game/code/e06/e06s08.rpy:243
 translate chinese d06s08_sy_625b4eb0:
@@ -580,7 +580,7 @@ translate chinese d06s08_sy_b4a6422f:
 translate chinese d06s08_sy_c82f3337:
 
     # sy "I dried my eyes, looked at her and said, \"I'm grounded. I'll be in my room\"."
-    sy "我擦干眼泪，看着她\"我被禁足了。我会老实呆在我的房间里\"。"
+    sy "我擦干眼泪，看着她说，\"我被禁足了。我会老实呆在我的房间里\"。"
 
 # game/code/e06/e06s08.rpy:249
 translate chinese d06s08_sy_f6a656ab:
@@ -652,7 +652,7 @@ translate chinese d06s08_sy_c180f6ea:
 translate chinese d06s08_sy_3d2a49db:
 
     # sy "Really? You know you don't have to this time."
-    sy "真的吗你知道，这次你不必这么做。"
+    sy "真的吗？你知道，这次你不必这么做。"
 
 # game/code/e06/e06s08.rpy:270
 translate chinese d06s08_sy_d39b3965:
@@ -706,13 +706,13 @@ translate chinese d06s08_sy_efa5770b:
 translate chinese d06s08_mes_6f5ace7a:
 
     # mes "How would you like me, [mcname]?"
-    mes "你觉得我怎么样，[mcname]"
+    mes "你觉得我怎么样，[mcname]？"
 
 # game/code/e06/e06s08.rpy:317
 translate chinese d06s08_mes_cfb518ab:
 
     # mes "As best man, it's Stacy's job to talk about the groom."
-    mes "作为伴郎，史黛西的工作是聊聊新郎。"
+    mes "作为伴郎，史黛西的工作是聊新郎。"
 
 # game/code/e06/e06s08.rpy:318
 translate chinese d06s08_mes_b95fbd1c:
@@ -760,7 +760,7 @@ translate chinese d06s08_mes_46eab8cd:
 translate chinese d06s08_mes_6c4df295:
 
     # mes "She had just been on a world tour with her parents' band, so her accent was from all over the place."
-    mes "她刚刚跟着父母的乐队进行了一次世界巡演，所以她的口音来自世界各地。"
+    mes "她刚刚跟着父母的乐队进行了一次世界巡演，所以她的口音夹杂了世界各地的方言。"
 
 # game/code/e06/e06s08.rpy:332
 translate chinese d06s08_mes_dbe213a9:
@@ -784,7 +784,7 @@ translate chinese d06s08_mes_8eee7680:
 translate chinese d06s08_mes_faa7fe1d:
 
     # mes "Of course I did, so we decided to make it a competition. Who could tie our shoes the fastest?"
-    mes "我当然会系，所以我们决定开展一场比赛。看谁系鞋带最快"
+    mes "我当然会系，所以我们决定开展一场比赛。看谁系鞋带最快？"
 
 # game/code/e06/e06s08.rpy:341
 translate chinese d06s08_mes_fcaf4f4d:
@@ -856,19 +856,19 @@ translate chinese d06s08_mes_889a6d98:
 translate chinese d06s08_mes_74586722:
 
     # mes "Whew! That was something else."
-    mes "嘘！可真不错。"
+    mes "呼！可真不错。"
 
 # game/code/e06/e06s08.rpy:361
 translate chinese d06s08_mes_ceb54a40:
 
     # mes "Lydia. [mcname]. May all your \"for better or worse\" moments be far better than worse."
-    mes "莉迪亚。[mcname]。愿你们\"顺境或逆境时刻\"\所有的都万事顺利。"
+    mes "莉迪亚。[mcname]。愿你们所有的\"顺境或逆境时刻\"\都万事顺利。"
 
 # game/code/e06/e06s08.rpy:362
 translate chinese d06s08_mes_4f9dd9fe:
 
     # lc "My oldest friend, my Maid-of-Honor, my best gal friend. Min... may I kiss you?"
-    lc "我的老朋友，我的伴娘，我最好的朋友。明...我可以吻你吗"
+    lc "我的老朋友，我的伴娘，我最好的朋友。明...我可以吻你吗？"
 
 # game/code/e06/e06s08.rpy:363
 translate chinese d06s08_mes_323c22d0:
@@ -898,7 +898,7 @@ translate chinese d06s08_mes_af68046e:
 translate chinese d06s08_mes_770b0d3e:
 
     # mes "OHHH!! OHHHHH!!!! AHHHHHH YESS!!!"
-    mes "哦噢就是这样啊啊!!!"
+    mes "哦噢!! 就是这样!!!! 啊啊!!!"
 
 # game/code/e06/e06s08.rpy:375
 translate chinese d06s08_mes_67d24b89:
@@ -940,7 +940,7 @@ translate chinese d06s08_arj_ae61a32a:
 translate chinese d06s08_arj_e30e9a1f:
 
     # arj "[mcname], would you mind starting off slow?"
-    arj " [mcname]，你介意慢慢开始吗"
+    arj " [mcname]，你介意慢慢开始吗？"
 
 # game/code/e06/e06s08.rpy:404
 translate chinese d06s08_arj_f9f134be:
@@ -976,13 +976,13 @@ translate chinese d06s08_arj_258ce9c9:
 translate chinese d06s08_arj_f0a78f81:
 
     # arj "I'm definitely a plotter. I even lay in bed at night planning conversations I'll have so they can seem spontaneous the next day."
-    arj "我绝对是个谋划家。我甚至会在晚上躺在床上计划第二天要进行的谈话，这样到时看起来就很自然。"
+    arj "我绝对是个谋划家。我甚至会在晚上躺在床上，计划第二天要进行的谈话，这样到时看起来就很自然。"
 
 # game/code/e06/e06s08.rpy:422
 translate chinese d06s08_arj_a24a12c6:
 
     # arj "So, naturally, you'd expect that I planned out this speech - this toast - very carefully ahead of time."
-    arj "所以，自然而然地，你会认为我事先很仔细地计划好了这次演讲——预演了这次祝酒词。"
+    arj "所以，自然而然地，你会认为我事先很仔细地计划好了这次演讲--预演了这次祝酒词。"
 
 # game/code/e06/e06s08.rpy:423
 translate chinese d06s08_arj_d939fe5b:
@@ -1000,73 +1000,73 @@ translate chinese d06s08_arj_74fa6832:
 translate chinese d06s08_arj_86e09db6:
 
     # arj "At the time he was banging my roommate. At first I thought he was annoying, but it didn't take long to realize that I was lying to myself."
-    arj "当时他和我的室友搞在一起。一开始我觉得他很烦人，但没过多久我就意识到，"
+    arj "当时他和我的室友搞在一起。一开始我觉得他很烦人，但没过多久我就意识到，我是在自欺欺人。"
 
 # game/code/e06/e06s08.rpy:427
 translate chinese d06s08_arj_9b78f415:
 
     # arj "I really wanted him to be banging me instead."
-    arj "我是在自欺欺人。"
+    arj "我真的好想他能和我上床。"
 
 # game/code/e06/e06s08.rpy:428
 translate chinese d06s08_arj_93523bdd:
 
     # arj "Even back then he was probably lusting after Lydia."
-    arj "我真的好像他能和我上床。"
+    arj "即使在那个时候，他可能也在觊觎莉迪亚。"
 
 # game/code/e06/e06s08.rpy:429
 translate chinese d06s08_arj_bc4438ec:
 
     # arj "For a long time they hadn't met or spoken, but he talked about her constantly."
-    arj "即使在那个时候，他可能也在觊觎莉迪亚。"
+    arj "在很长一段时间里，他们没有见过面，也没有说过话，但他总是提起她。"
 
 # game/code/e06/e06s08.rpy:431
 translate chinese d06s08_arj_ca9e8992:
 
     # arj "All the while I silently begged for him to notice me. To touch me. To fuck me. To love me."
-    arj "在很长一段时间里，他们没有见过面，也没有说过话，但他总是提起她。"
+    arj "我一直默默地恳求他注意到我。抚摸我。来操我。来爱我。"
 
 # game/code/e06/e06s08.rpy:432
 translate chinese d06s08_arj_597eebaa:
 
     # arj "Funnily enough, he didn't really notice me, touch me, fuck me, or love me until he finally started dating Lydia."
-    arj "我一直默默地恳求他注意到我。抚摸我。来操我。来爱我。"
+    arj "有趣的是，他并没有真正注意到我，抚摸我，操我，或者爱我，直到他终于开始和莉迪亚约会。"
 
 # game/code/e06/e06s08.rpy:433
 translate chinese d06s08_arj_29f2c297:
 
     # arj "I lied to myself again and again. I told myself she wasn't good enough for him."
-    arj "有趣的是，他并没有真正注意到我，抚摸我，操我，或者爱我，直到他终于开始和莉迪亚约会。"
+    arj "我一次又一次地欺骗自己。我告诉自己，她配不上他。"
 
 # game/code/e06/e06s08.rpy:434
 translate chinese d06s08_arj_ca71739f:
 
     # arj "I told myself I wasn't good enough for him."
-    arj "我一次又一次地欺骗自己。我告诉自己，她配不上他。"
+    arj "我告诉自己，我配不上他。"
 
 # game/code/e06/e06s08.rpy:439
 translate chinese d06s08_arj_0d5b279f:
 
     # arj "I tried to rationalize every possible combination and scheme my way into his heart."
-    arj "我告诉自己，我配不上他。"
+    arj "我试着为每一种可能的组合找理由，想方设法进入[mcname] 的内心。"
 
 # game/code/e06/e06s08.rpy:440
 translate chinese d06s08_arj_2851e914:
 
     # arj "The truth is, Lydia is good enough for him. Lydia and [mcname] clearly love each other."
-    arj "我试着为每一种可能的组合找理由，想方设法进入[mcname] 的内心。"
+    arj "事实是，莉迪亚配得上他。莉迪亚和[mcname]显然都爱着对方。"
 
 # game/code/e06/e06s08.rpy:441
 translate chinese d06s08_arj_aae43f5b:
 
     # arj "The truth is, I am also good enough for him. I love him deeply and I understand now that he really does love me as well."
-    arj "事实上，莉迪亚配得上他。莉迪亚和[mcname] 显然爱着对方。"
+    arj "事实是，我也足够配得上他。我深深地爱着他，现在我明白，他也真的爱我。"
 
 # game/code/e06/e06s08.rpy:442
 translate chinese d06s08_arj_617eed02:
 
     # arj "The truth is, I've been deeply insecure about myself and my own feelings."
-    arj "事实是，我也足够配得上他。我深深地爱着他，现在我明白，他也真的爱我。事实上，我一直对自己和自己的感受深感不安。"
+    arj "事实是，我一直对自己和自己的感受深感不安。"
 
 # game/code/e06/e06s08.rpy:444
 translate chinese d06s08_arj_a300a18a:
@@ -1144,7 +1144,7 @@ translate chinese d06s08_arj_c93a01bb:
 translate chinese d06s08_arj_5ce19dce:
 
     # mc "MMmmm uuu ggghhhhhh..."
-    mc "低吼 啊啊啊啊..."
+    mc "呃呃呃啊啊啊啊..."
 
 # game/code/e06/e06s08.rpy:468
 translate chinese d06s08_arj_e9eaea13:
@@ -1192,7 +1192,7 @@ translate chinese d06s08_arj_0961b1c2:
 translate chinese d06s08_arj_43ae7693:
 
     # lc "And when I address you?"
-    lc "那我怎么称呼你呢"
+    lc "那我怎么称呼你呢？"
 
 # game/code/e06/e06s08.rpy:478
 translate chinese d06s08_arj_a146b9eb:
@@ -1204,7 +1204,7 @@ translate chinese d06s08_arj_a146b9eb:
 translate chinese d06s08_arj_0c79a563:
 
     # lc "Okay. AmRose, may I kiss you?"
-    lc "好。爱洛丝，我可以吻你吗"
+    lc "好。爱洛丝，我可以吻你吗？"
 
 # game/code/e06/e06s08.rpy:480
 translate chinese d06s08_arj_508f26b9:
@@ -1216,7 +1216,7 @@ translate chinese d06s08_arj_508f26b9:
 translate chinese d06s08_arj_134263ca:
 
     # lc "AmRose, my love, my harem mate... may I eat [mcname]'s seed from you?"
-    lc "爱洛丝，我的爱人，我的后宫伴侣...我可以从你那里吃[mcname]'的精液吗？"
+    lc "爱洛丝，我的爱人，我的后宫伴侣...我可以从你那里吃[mcname]的精液吗？"
 
 # game/code/e06/e06s08.rpy:487
 translate chinese d06s08_arj_39a94d57:
@@ -1234,7 +1234,7 @@ translate chinese d06s08_arj_462fe6a5:
 translate chinese d06s08_arj_b3550854:
 
     # arj "I mean, we already forgave you."
-    arj "我是说，我们已经原谅你了。"
+    arj "要知道，我们已经原谅你了。"
 
 # game/code/e06/e06s08.rpy:490
 translate chinese d06s08_arj_640bd7e4:
@@ -1312,7 +1312,7 @@ translate chinese d06s08_dd_5dfe0018:
 translate chinese d06s08_dd_028fe1f7:
 
     # dd "Wreck me, [mcname]. Which way would you like me?"
-    dd "尽情蹂躏我，[mcname]。你喜欢我选怎么来？"
+    dd "尽情蹂躏我，[mcname]。你想要我怎么来？"
 
 # game/code/e06/e06s08.rpy:546
 translate chinese d06s08_dd_2ee948b8:
@@ -1366,7 +1366,7 @@ translate chinese d06s08_dd_7dbfc138:
 translate chinese d06s08_dd_285da686:
 
     # dd "Fuck, [mcname], I can feel the tip of your cock in my stomach!"
-    dd "操，我能感觉到你的马眼顶到了我的胃！"
+    dd "操，[mcname]，我能感觉到你的马眼顶到了我的胃！"
 
 # game/code/e06/e06s08.rpy:558
 translate chinese d06s08_dd_5470d03b:
@@ -1510,7 +1510,7 @@ translate chinese d06s08_mh_7d9d5608:
 translate chinese d06s08_mh_1322d74a:
 
     # mc "Work, work, work."
-    mc "工作，工作，工作。"
+    mc "干，干，干。"
 
 # game/code/e06/e06s08.rpy:607
 translate chinese d06s08_mh_a116a050:
@@ -1636,7 +1636,7 @@ translate chinese d06s08_mh_aae27614:
 translate chinese d06s08_mh_4d5d6c2a:
 
     # mc "YESSSSSss I AM"
-    mc "来了"
+    mc "来了啊啊啊"
 
 # game/code/e06/e06s08.rpy:639
 translate chinese d06s08_mh_c355956d:
@@ -1720,7 +1720,7 @@ translate chinese d06s08_mh_87e85f91:
 translate chinese d06s08_mh_89695c94:
 
     # mh "Gladly. Shall I just climb up on the bar like this?"
-    mh "好呀。我就这样爬到吧台上，好吗"
+    mh "好呀。我就这样爬到吧台上，好吗？"
 
 # game/code/e06/e06s08.rpy:658
 translate chinese d06s08_mh_74a6d754:
@@ -1780,7 +1780,7 @@ translate chinese d06s08_mh_117c0384:
 translate chinese d06s08_mh_d24b1e3d:
 
     # lc "Would you like me to... ya'know..."
-    lc "W我能不能...你知道吧..."
+    lc "我能不能...你知道吧..."
 
 # game/code/e06/e06s08.rpy:672
 translate chinese d06s08_mh_9ad1ca67:
@@ -1908,7 +1908,7 @@ translate chinese strings:
 
     # game/code/e06/e06s08.rpy:677
     old "Lydia should Blow Lyssa's mind (and cock)"
-    new "莉迪亚应该给丽莎性奋起来，给她吹箫"
+    new "莉迪亚应该让丽莎性奋起来，给她吹箫"
 
 # TODO: Translation updated at 2023-04-24 02:24
 
