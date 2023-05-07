@@ -40,7 +40,7 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:278
     old "Or"
-    new "Or"
+    new "Atau"
 
     # game/code/screens/screens_fl.rpy:284
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
