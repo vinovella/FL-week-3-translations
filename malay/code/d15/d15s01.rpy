@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
+# TODO: Translation updated at 2022-03-02 02:41
 
 # game/code/d15/d15s01.rpy:141
 translate malay d15s01_493aa6b9:
@@ -16,7 +16,7 @@ translate malay d15s01_941aded9:
 translate malay d15s01_6dca3502:
 
     # "female voice" "Wake up. Breakfast is almost ready."
-    "suara perempuan" "Sayang. Bangunlah. Sarapan hampir siap."
+    "suara perempuan" "Sayang. Bangunlah. Sarapan dah nak siap."
 
 # game/code/d15/d15s01.rpy:170
 translate malay d15s01_89d29ebf:
@@ -28,7 +28,7 @@ translate malay d15s01_89d29ebf:
 translate malay d15s01_a659dd9d:
 
     # arj "Ha! No. Wake up, [mcname]. It's AmRose."
-    arj "Ha! Tak. Bangun, [mcname]. Ianya AmRose."
+    arj "Ha! Tak. Bangunlah, [mcname]. Ianya AmRose."
 
 # game/code/d15/d15s01.rpy:179
 translate malay d15s01_59f5b92b:
@@ -58,19 +58,19 @@ translate malay d15s01_21c1e969:
 translate malay d15s01_3c39de12:
 
     # arj "Lydia's downstairs making breakfast. I'm heading down too. Get your ass out of bed and join us."
-    arj "Lydia di tingkat bawah sedang buat sarapan. Aku juga akan turun. Bangunlah dari katil dan sertai kami."
+    arj "Lydia dekat bawah tenagh buat sarapan. Aku juga akan turun. Bangunlah dari katil dan sertai kami."
 
 # game/code/d15/d15s01.rpy:195
 translate malay d15s01_546d00c0:
 
     # mc "I'll be right there."
-    mc "Aku akan ke sana."
+    mc "Baiklah. Aku akan ke sana."
 
 # game/code/d15/d15s01.rpy:196
 translate malay d15s01_dbd1a0f1:
 
     # mct "Was she naked? {w}Why was she naked?"
-    mct "Adakah dia berbogel? {w}Kenapa dia bogel?"
+    mct "Dia bogel ke? {w}Kenapa dia bogel?"
 
 # game/code/d15/d15s01.rpy:202
 translate malay d15s01_98c8094a:
@@ -82,7 +82,7 @@ translate malay d15s01_98c8094a:
 translate malay d15s01_76c15206:
 
     # arj "You'll get them back after breakfast."
-    arj "Kau akan dapatkannya semula selepas sarapan pagi."
+    arj "Sarapan dulu nanti baru dapat baju kau."
 
 # game/code/d15/d15s01.rpy:210
 translate malay d15s01_e3ab8b2c:
@@ -94,7 +94,7 @@ translate malay d15s01_e3ab8b2c:
 translate malay d15s01_87b33273:
 
     # arj "She woke me up before dawn, saying she wanted to get back to her apartment."
-    arj "Dia kejutkankan aku sebelum subuh, dia kata dia nak balik ke apartmennya."
+    arj "Dia kejutkan aku sebelum subuh, dia kata dia nak balik ke apartmennya."
 
 # game/code/d15/d15s01.rpy:216
 translate malay d15s01_f0327cb9:
@@ -142,7 +142,7 @@ translate malay d15s01_a77cb4fc:
 translate malay d15s01_d5c07c74:
 
     # lc "I objected, but eventually AmRose convinced me."
-    lc "Aku membantah, tetapi AmRose akhirnya meyakinkan aku."
+    lc "Aku membantah, tapi AmRose berjaya meyakinkan aku."
 
 # game/code/d15/d15s01.rpy:248
 translate malay d15s01_06a35ef6:
@@ -190,7 +190,7 @@ translate malay d15s01_0a0d77b3:
 translate malay d15s01_08a86e16:
 
     # mc "Weird. {w}Well, I guess I better open it."
-    mc "Pelik. {w}Aku rasa lebih baik aku membukanya."
+    mc "Pelik. {w}Lebih baik aku buka dan tengok."
 
 # game/code/d15/d15s01.rpy:279
 translate malay d15s01_36d95df8:
@@ -232,7 +232,7 @@ translate malay d15s01_12ce22dd:
 translate malay d15s01_077e55b0:
 
     # arj "I was afraid it would be something much worse."
-    arj "Aku takut ia akan menjadi sesuatu yang lebih teruk."
+    arj "Aku takut ia akan jadi sesuatu yang lebih teruk."
 
 # game/code/d15/d15s01.rpy:306
 translate malay d15s01_menu1_8fea2db2:
@@ -250,7 +250,7 @@ translate malay d15s01_readnote_2e56de0b:
 translate malay d15s01_readnote_00434c3b:
 
     # "You have 5 minutes to enter your selection in the app and 30 minutes to become caged."
-    "Anda mempunyai 5 minit untuk memasukkan pilihan anda dalam apl dan 30 minit untuk memasang sangkar."
+    "Anda ada 5 minit untuk memasukkan pilihan anda dalam apl dan 30 minit untuk memasang sangkar."
 
 # game/code/d15/d15s01.rpy:335
 translate malay d15s01_readnote_8ec8a013:
@@ -268,25 +268,25 @@ translate malay d15s01_readnote_df478242:
 translate malay d15s01_readnote_835e8f24:
 
     # "The second is called the Needlessly Tight Restriction. This I commend for those safe in their manhood, or willing to risk being traumatized."
-    "Yang kedua dipanggil Sekatan Yang Tak Perlu Ketat. Saya mengesyorkan sangkar ini bagi mereka yang selamat dalam kelelakian mereka, atau sanggup berisiko mengalami trauma."
+    "Yang kedua dipanggil Sekatan Yang Tak Perlu Ketat. Saya mengesyorkan sangkar ini bagi mereka yang berasa selamat dalam kelelakian mereka, atau sanggup berisiko mengalami trauma."
 
 # game/code/d15/d15s01.rpy:338
 translate malay d15s01_readnote_2151a859:
 
     # "Failure to obey would be considered ungrateful."
-    "Kegagalan untuk mematuhi akan dianggap tidak bersyukur."
+    "Kegagalan untuk mematuhi akan dianggap tak bersyukur."
 
 # game/code/d15/d15s01.rpy:339
 translate malay d15s01_readnote_7e5541ff:
 
     # "The cage will replace your Fetish Tracker."
-    "Sangkar akan menggantikan Fetish Tracker anda."
+    "Sangkar ini akan menggantikan Fetish Tracker anda."
 
 # game/code/d15/d15s01.rpy:340
 translate malay d15s01_readnote_80120b22:
 
     # "Perform enough perverse acts to prove yourself worthy of being free."
-    "Lakukan tindakan songsang yang cukup untuk membuktikan diri anda layak untuk bebas."
+    "Lakukan tindakan songsang yang cukup untuk buktikan diri anda layak untuk bebas."
 
 # game/code/d15/d15s01.rpy:352
 translate malay d15s01_thoughts_LC_04686833:
@@ -310,7 +310,7 @@ translate malay d15s01_thoughts_LC_ce95388b:
 translate malay d15s01_thoughts_LC_d78280ea:
 
     # mct "It seems like Studio Executives do that all the time - changing a film to make it appeal to a wider audience."
-    mct "Nampaknya Eksekutif Studio melakukan perkara itu sepanjang masa - menukar filem untuk menjadikannya menarik kepada khalayak yang lebih luas."
+    mct "Nampaknya Eksekutif Studio melakukannya sepanjang masa - menukar filem untuk menjadikannya menarik kepada khalayak yang lebih luas."
 
 # game/code/d15/d15s01.rpy:360
 translate malay d15s01_thoughts_LC_2fbeeb00:
@@ -424,13 +424,13 @@ translate malay d15s01_cagedecision_561f5897:
 translate malay d15s01_cagedecision_3c26bf6b:
 
     # mc "Look, I'm just saying this is too much. This is going too far. I'm not doing it."
-    mc "Begini, aku nak kata ini dah melampau sangat. Aku tak akan melakukannya."
+    mc "Macam ni, aku nak kata ini dah melampau sangat. Aku tak akan melakukannya."
 
 # game/code/d15/d15s01.rpy:423
 translate malay d15s01_cagedecision_0dea2f11:
 
     # arj "I get that. I really really do, but this isn't just about you, ya'know?"
-    arj "Aku faham. Aku betul-betul faham, tapi ini bukan hanya tentang kau, kau tahu?"
+    arj "Aku faham. Aku betul-betul faham, tapi ini bukan sahaja tentang kau, kau tahu?"
 
 # game/code/d15/d15s01.rpy:424
 translate malay d15s01_cagedecision_4f1d505f:
@@ -490,13 +490,13 @@ translate malay d15s01_cagedecision_dab0deea:
 translate malay d15s01_cagedecision_e43f5053:
 
     # lc "If you are going to lose this game it won't be because you weren't up for the challenge."
-    lc "Jika kau akan kalah dalam permainan ini, ia bukan kerana kau tak bersedia untuk menghadapi cabaran itu."
+    lc "Jika kau akan kalah dalam permainan ini, ia bukan sebab kau tak bersedia untuk menghadapi cabaran itu."
 
 # game/code/d15/d15s01.rpy:449
 translate malay d15s01_cagedecision_19851e41:
 
     # lc "If you are going to lose this game it won't be because you quit or gave up."
-    lc "Jika kau akan kalah dalam permainan ini ia bukan kerana kau berhenti atau berputus asa."
+    lc "Jika kau akan kalah dalam permainan ini ia bukan sebab kau berhenti atau berputus asa."
 
 # game/code/d15/d15s01.rpy:450
 translate malay d15s01_cagedecision_fd6fc90b:
@@ -556,7 +556,7 @@ translate malay d15s01_cagedecision_e18b2360:
 translate malay d15s01_cagedecision_741b0e14:
 
     # mc "I have to pick which one to wear."
-    mc "Aku perlu pilih yang mana satu untuk dipakai."
+    mc "Aku kena pilih yang mana satu untuk dipakai."
 
 # game/code/d15/d15s01.rpy:477
 translate malay d15s01_cagedecision_91e86472:
@@ -580,7 +580,7 @@ translate malay d15s01_cagedecision_bd88faff:
 translate malay d15s01_cagedecision_046a3300:
 
     # lc "Pick one, slap that bad boy on."
-    lc "Pilih satu, pakai budak jahat itu."
+    lc "Pilih satu, dan pakaikannya."
 
 # game/code/d15/d15s01.rpy:495
 translate malay d15s01_cagedecision_bc8b2f36:
@@ -688,7 +688,7 @@ translate malay d15s01_cage_lc_2598cd29:
 translate malay d15s01_cage_lc_073f0268:
 
     # lc "Oh nice, it's just like you'll have my initials tattooed on your manhood."
-    lc "Oh bagus, ia seperti kau akan ada inisial aku ditatu pada kelelakian kau."
+    lc "Oh baguslah, ia seperti kau akan ada inisial aku ditatu pada kelelakian kau."
 
 # game/code/d15/d15s01.rpy:560
 translate malay d15s01_cage_lc_8ec04bdc:
@@ -736,7 +736,7 @@ translate malay d15s01_cage_ntr_26c1d277:
 translate malay d15s01_cage_ntr_6d2a8e7c:
 
     # lc "You could change your mind?"
-    lc "Kau boleh ubah fikiran kau?"
+    lc "Boleh ubah fikiran kau?"
 
 # game/code/d15/d15s01.rpy:591
 translate malay d15s01_cage_ntr_b1ad86ea:
@@ -934,7 +934,7 @@ translate malay d15s01_arj_bj_a71f2947:
 translate malay d15s01_arj_bj_661f4e81:
 
     # arj "Lydia - are you paying attention?"
-    arj "Lydia - kau sedang beri perhatian?"
+    arj "Lydia - kau tengah beri perhatian?"
 
 # game/code/d15/d15s01.rpy:754
 translate malay d15s01_arj_bj_ca53ea96:
@@ -952,7 +952,7 @@ translate malay d15s01_arj_bj_9ffb2bca:
 translate malay d15s01_arj_bj_8cad54d5:
 
     # lc "Really? What are you going to-"
-    lc "Betul ? Apa yang kau nak-"
+    lc "Betul? Apa yang kau nak-"
 
 # game/code/d15/d15s01.rpy:765
 translate malay d15s01_arj_bj_c05fe527:
@@ -1018,13 +1018,13 @@ translate malay d15s01_arj_bj_fbb7f99b:
 translate malay d15s01_arj_bj_7756f3f4:
 
     # lc "Someday. {w}Maybe."
-    lc "Suatu hari nanti. {w}Mungkin..."
+    lc "Satu hari nanti. {w}Mungkin..."
 
 # game/code/d15/d15s01.rpy:801
 translate malay d15s01_arj_bj_c1146012:
 
     # lc "I'm not quite ready for that... just yet."
-    lc "Aku belum cukup bersedia untuk...  (w)untuk itu."
+    lc "Aku tak cukup bersedia untuk...  (w)untuk itu."
 
 # game/code/d15/d15s01.rpy:805
 translate malay d15s01_arj_bj_590a197c:
@@ -1054,7 +1054,7 @@ translate malay d15s01_arj_bj_14e6427f:
 translate malay d15s01_arj_bj_b04723f4:
 
     # mc "Fuck me, AmRose. {w}You're so good at this I could come on the floor and be glad about it."
-    mc "Sial betul, AmRose. {w}Kau sangat mahir dalam hal ini, aku boleh pancut ke lantai dan gembira mengenainya."
+    mc "Sial betul, AmRose. {w}Kau sangat mahir dalam hal ini, aku boleh pancut ke lantai dan gembira dengannya."
 
 # game/code/d15/d15s01.rpy:822
 translate malay d15s01_arj_bj_cc652795:
@@ -1234,7 +1234,7 @@ translate malay d15s01_lc_bj_fca3fe83:
 translate malay d15s01_lc_bj_379732ad:
 
     # arj "You managed to surprise me Lydia!"
-    arj "Kau berjaya kejutkan aku Lydia!"
+    arj "Kau berjaya terkejutkan aku Lydia!"
 
 # game/code/d15/d15s01.rpy:972
 translate malay d15s01_lc_bj_232c3f6d:
@@ -1306,7 +1306,7 @@ translate malay d15s01_face_fucking_fbc7815a:
 translate malay d15s01_face_fucking_0d9a7d89:
 
     # lc "Oh, no. Please, why don't you start."
-    lc "Oh, tak. Tolong, kenapa kau tak mulakan."
+    lc "Oh, tak. Tolonglah, kenapa kau tak mulakan."
 
 # game/code/d15/d15s01.rpy:1038
 translate malay d15s01_face_fucking_bf6fd8a5:
@@ -1324,7 +1324,7 @@ translate malay d15s01_face_fucking_e760fb02:
 translate malay d15s01_face_fucking_3cbcf1c9:
 
     # lc "What is AmRose to you?"
-    lc "Siapakah AmRose bagi kau?"
+    lc "Siapa AmRose bagi kau?"
 
 # game/code/d15/d15s01.rpy:1050
 translate malay d15s01_face_fucking_1afb8e65:
@@ -1336,7 +1336,7 @@ translate malay d15s01_face_fucking_1afb8e65:
 translate malay d15s01_face_fucking_4980b683:
 
     # lc "She's your friend, sure, but you don't fuck all of your friends. {w}Then again, maybe you do."
-    lc "Dia kawan anda, pasti, tapi kau tak kongkek semua kawan kau. {w}Tapi kemudian, mungkin kau melakukannya."
+    lc "Dia kawan kau, baiklah, tapi kau tak kongkek semua kawan kau. {w}Tapi kemudian, mungkin kau melakukannya."
 
 # game/code/d15/d15s01.rpy:1057
 translate malay d15s01_face_fucking_e2e17f37:
@@ -1666,7 +1666,7 @@ translate malay d15s01_face_fucking_6795650f:
 translate malay d15s01_face_fucking_2c4ca683:
 
     # lc "Is that so? Well now, let's ask her. [mcname] is your Master. Does that make me your Mistress?"
-    lc "Begitukah? Sekarang, mari kita tanya dia. [mcname] ialah Tuanmu. Maksudnya aku Puan kau kan?"
+    lc "Macam itu ke? Sekarang, mari kita tanya dia. [mcname] ialah Tuanmu. Maksudnya aku Puan kau kan?"
 
 # game/code/d15/d15s01.rpy:1236
 translate malay d15s01_face_fucking_e18db772:
@@ -1714,7 +1714,7 @@ translate malay d15s01_face_fucking_f4e4fa76:
 translate malay d15s01_face_fucking_a2f3c3d8:
 
     # lc "Then let's work together fucking her hole with your majestic, long, hard cock."
-    lc "Kalau begitu mari kita bekerja sama-sama kongkek lubangnya dengan kote kau yang megah, panjang dan keras."
+    lc "Kalau begitu mari kita kerja sama-sama kongkek lubangnya dengan kote kau yang megah, panjang dan keras."
 
 # game/code/d15/d15s01.rpy:1256
 translate malay d15s01_face_fucking_b0fa508f_1:
@@ -1774,7 +1774,7 @@ translate malay d15s01_face_fucking_adf2abda:
 translate malay d15s01_face_fucking_bc207532:
 
     # lc "Good girl. {w}Good slut. {w}Good slave."
-    lc "Perempuan yang baik. {w}Perempuan murahan yang baik. {w}Budak yang baik. {w}Bagus."
+    lc "Perempuan yang baik. {w}Perempuan murahan yang baik. {w}Hamba yang baik. {w}Bagus."
 
 # game/code/d15/d15s01.rpy:1292
 translate malay d15s01_face_fucking_333118f4:
@@ -1822,7 +1822,7 @@ translate malay d15s01_end_06a142c8:
 translate malay d15s01_end_ac6f2180:
 
     # mct "In all the excitement I had forgotten why we were doing this."
-    mct "Dalam semua keterujaan aku terlupa mengapa kami melakukan ini."
+    mct "Dalam semua keterujaan aku terlupa kenapa kami melakukan ini."
 
 
 # game/code/d15/d15s01.rpy:1330
@@ -1877,7 +1877,7 @@ translate malay d15s01_end_6d945290:
 translate malay d15s01_end_213654d5:
 
     # mct "If I don't get this thing off by tomorrow night I'm going to be seriously pissed off."
-    mct "Jika aku tak menaggalkannya pada malam esok, menagmuklah aku nanti. Macam Godzilla."
+    mct "Jika aku tak menaggalkannya pada malam esok, mengamuklah aku nanti. Macam Godzilla."
 
 # game/code/d15/d15s01.rpy:1373
 translate malay d15s01_end_828dcaf7:
@@ -1931,7 +1931,7 @@ translate malay d15s01_end_d9af6597:
 translate malay d15s01_end_45f45efb:
 
     # arj "It's electronic. Electronics are my thing, remember?"
-    arj "Ianya elektronik. Elektronik adalah benda aku, ingat?"
+    arj "Ianya elektronik. Elektronik adalah hobi aku, ingat?"
 
 # game/code/d15/d15s01.rpy:1401
 translate malay d15s01_end_59f898e4:
@@ -1949,7 +1949,7 @@ translate malay d15s01_end_1be0680b:
 translate malay d15s01_end_75687721:
 
     # arj "If that means jailbreaking that cage to unlock it, I will."
-    arj "Jika itu bermakna jailbreaking sangkar itu untuk mbuka kuncinya, aku akan melakukannya."
+    arj "Jika itu bermakna jailbreaking sangkar itu untuk membuka kuncinya, aku akan melakukannya."
 
 # game/code/d15/d15s01.rpy:1410
 translate malay d15s01_end_a059c448:
@@ -1967,7 +1967,7 @@ translate malay d15s01_end_ec323efe:
 translate malay d15s01_end_7dad41db:
 
     # mc "Stop, stop. AmRose, I get it."
-    mc "Berhenti, berhenti. AmRose, aku faham."
+    mc "Berhenti, henti. AmRose, aku faham."
 
 # game/code/d15/d15s01.rpy:1416
 translate malay d15s01_end_5e7a4c3d:
@@ -2075,7 +2075,7 @@ translate malay d15s01_end_c6b9df9a:
 translate malay d15s01_end_c36f9ef4:
 
     # mct "*sigh* That went well. I hope."
-    mct "*mengeluh* Itu berjalan lancar. Harapnya."
+    mct "*mengeluh* Itu berjalan dengan lancar. Haraplah."
 
 # game/code/d15/d15s01.rpy:1467
 translate malay d15s01_end_9dd4c65a:
@@ -2153,7 +2153,7 @@ translate malay d15s01_end_f61dc92e:
 translate malay d15s01_end_aea53fd2:
 
     # mc "Nothing much. I just need to do a couple things first."
-    mc "Tak ada apa-apa. Aku cuma perlu buat beberapa perkara dulu."
+    mc "Tak ada apa-apa. Aku cuma perlu buat beberapa benda dulu."
 
 # game/code/d15/d15s01.rpy:1493
 translate malay d15s01_end_4ff2e68d:
@@ -2222,47 +2222,46 @@ translate malay strings:
 translate malay d15s01_readnote_ba7b3e0f:
 
     # "The cage will be replacing your Fetish Tracker."
-    "The cage will be replacing your Fetish Tracker."
+    "Sangkar itu akan menggantikan Penjejak Fetish anda."
 
 # game/code/d15/d15s01.rpy:431
 translate malay d15s01_cagedecision_7e36f4f4:
 
     # mc "Shit, I know. I don't want to disappoint you or anyone else, but-"
-    mc "Shit, I know. I don't want to disappoint you or anyone else, but-"
+    mc "Sial, aku tahu. Aku tak nak mengecewakan kau atau orang lain, tapi-"
 
 # game/code/d15/d15s01.rpy:443
 translate malay d15s01_cagedecision_a3c5d05f:
 
     # lc "You failed once. You failed a challenge. And now you want to give up? You want to just quit the game?"
-    lc "You failed once. You failed a challenge. And now you want to give up? You want to just quit the game?"
+    lc "Kau hanya gagal sekali. Kau gagal dalam satu cabaran. Dan sekarang kau nak berputus asa? Kamu nak berhenti main macam tu je?"
 
 # game/code/d15/d15s01.rpy:455
 translate malay d15s01_cagedecision_5c07c7a4:
 
     # lc "If you are going to lose this game, it won't be because you weren't up for the challenge, or because you quit and gave up."
-    lc "If you are going to lose this game, it won't be because you weren't up for the challenge, or because you quit and gave up."
+    lc "Kalau kau akan kalah dalam perlawanan ini, ia bukan sebab kau tak bersedia untuk cabaran itu, atau sebab kau berhenti dan berputus asa."
 
 # game/code/d15/d15s01.rpy:512
 translate malay d15s01_cagedecision_db2860f4:
 
     # arj "I hate to agree, but... {w}For completely different reasons, I want you to do this."
-    arj "I hate to agree, but... {w}For completely different reasons, I want you to do this."
+    arj "Aku tak suka bersetuju, tapi... {w}Atas sebab-sebab yang berbeza, aku nak kau lakukannya."
 
 # game/code/d15/d15s01.rpy:1095
 translate malay d15s01_face_fucking_d7e2f883:
 
     # arj "I'm his completely willing and consensual sex slave."
-    arj "I'm his completely willing and consensual sex slave."
+    arj "Aku adalah hamba seksnya yang rela dan suka sama suka."
 
 # game/code/d15/d15s01.rpy:1418
 translate malay d15s01_end_67efc426:
 
     # arj "If that means negotiating with the Fetish Master to do something, I will do it."
-    arj "If that means negotiating with the Fetish Master to do something, I will do it."
+    arj "Jika itu bermakna berunding dengan Guru Fetish untuk melakukan sesuatu, saya akan melakukannya."
 
 translate malay strings:
 
     # game/code/d15/d15s01.rpy:141
     old "Week Three\nDay 15\nMonday"
-    new "Week Three\nDay 15\nMonday"
-
+    new "Minggu Ketiga\nHari 15\nIsnin"
