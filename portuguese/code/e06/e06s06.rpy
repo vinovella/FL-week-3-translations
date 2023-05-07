@@ -1252,16 +1252,16 @@ translate portuguese strings:
 translate portuguese e06s06_mh_harem_beccaddc:
 
     # lc "Of course. We're not asking you to give up anything. You would just be adding to our happiness, if you'd like."
-    lc ""
+    lc "Claro. Não estamos pedindo que abra mão de nada. Você só estaria adicionando à nossa felicidade, se quiser."
 
 # game/code/e06/e06s06.rpy:513
 translate portuguese e06s06_fuck_mh_5eec93b7:
 
     # mh "Do not think I forgot about you, Miss Jenkins."
-    mh ""
+    mh "Não pense que esqueci de você, Senhorita Jenkins."
 
 # game/code/e06/e06s06.rpy:673
 translate portuguese e06s06_finish_1_04a9c018:
 
     # mh "That's it, [mcname]. Show Lydia how you make me cum!"
-    mh ""
+    mh "Isso, [mcname]. Mostra para a Lydia que pode me dar um orgasmo!"
