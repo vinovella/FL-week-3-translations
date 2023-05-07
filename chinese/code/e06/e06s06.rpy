@@ -4,301 +4,301 @@
 translate chinese e06s06_820294b7:
 
     # mh "It is good to see you, [mcname]. I was beginning to feel a little concerned when you finally called. Is everything all right?"
-    mh "It is good to see you, [mcname]. I was beginning to feel a little concerned when you finally called. Is everything all right?"
+    mh "很高兴见到你，[mcname]。我都开始担心了，还好你打来了电话。一切都好吗？"
 
 # game/code/e06/e06s06.rpy:23
 translate chinese e06s06_9dcfde78:
 
     # mc "Totally. Sorry for the radio silence. The end of my classes was a very busy time."
-    mc "Totally. Sorry for the radio silence. The end of my classes was a very busy time."
+    mc "好着呢。抱歉刚才没声音。下课的时候我很忙。"
 
 # game/code/e06/e06s06.rpy:27
 translate chinese e06s06_d941d7b4:
 
     # mh "Yes. It seems you've had adventures both on campus and off campus."
-    mh "Yes. It seems you've had adventures both on campus and off campus."
+    mh "是的。看来你在校内和校外都经历过冒险。"
 
 # game/code/e06/e06s06.rpy:29
 translate chinese e06s06_676803a4:
 
     # mh "I know we've technically met in passing, but I should introduce myself. Lyssa Harris."
-    mh "I know we've technically met in passing, but I should introduce myself. Lyssa Harris."
+    mh "我知道严格来说我们打过照面，但我应该介绍一下我自己。丽莎·哈里斯。"
 
 # game/code/e06/e06s06.rpy:32
 translate chinese e06s06_e5572961:
 
     # lc "Lydia Cox."
-    lc "Lydia Cox."
+    lc "莉迪亚·考克斯。"
 
 # game/code/e06/e06s06.rpy:35
 translate chinese e06s06_e3732b5a:
 
     # arj "Amber-Rose Jenkins, but everyone calls me AmRose."
-    arj "Amber-Rose Jenkins, but everyone calls me AmRose."
+    arj "爱洛丝·詹金斯，但是大家都叫我爱洛丝。"
 
 # game/code/e06/e06s06.rpy:38
 translate chinese e06s06_e81c6560:
 
     # mh "Please have a seat."
-    mh "Please have a seat."
+    mh "请坐。"
 
 # game/code/e06/e06s06.rpy:43
 translate chinese e06s06_dfb3001e:
 
     # lc "[mcname] has told me so much about you. You really are an amazing woman."
-    lc "[mcname] has told me so much about you. You really are an amazing woman."
+    lc "[mcname]跟我说了很多关于你的事。你真是了不起。"
 
 # game/code/e06/e06s06.rpy:46
 translate chinese e06s06_3d0bfa8a:
 
     # mh "Well, you're very flattering Miss Cox."
-    mh "Well, you're very flattering Miss Cox."
+    mh "嗯，考克斯小姐，你太过奖了。"
 
 # game/code/e06/e06s06.rpy:47
 translate chinese e06s06_02592ba3:
 
     # mh "How can I help you today?"
-    mh "How can I help you today?"
+    mh "今天我能帮你什么忙吗？"
 
 # game/code/e06/e06s06.rpy:50
 translate chinese e06s06_b53492da:
 
     # mc "Well, Lydia and I are actually getting married the weekend after next."
-    mc "Well, Lydia and I are actually getting married the weekend after next."
+    mc "嗯，莉迪亚和我其实下个周末就要结婚了。"
 
 # game/code/e06/e06s06.rpy:53
 translate chinese e06s06_838e8b35:
 
     # mh "*Clears throat* Congratulations. That is quite... quite a development."
-    mh "*Clears throat* Congratulations. That is quite... quite a development."
+    mh "*清喉咙* 恭喜你。那真是...进展相当大啊。"
 
 # game/code/e06/e06s06.rpy:56
 translate chinese e06s06_1ceb482f:
 
     # lc "We would love it if you could be our officiant, Lyssa. {w}Stacy said that you've done a service before for your friends. {w}It would be wonderful if you could do the same for us."
-    lc "We would love it if you could be our officiant, Lyssa. {w}Stacy said that you've done a service before for your friends. {w}It would be wonderful if you could do the same for us."
+    lc "丽莎，如果你能做我们的主婚人，我们会很高兴的。史黛西说你以前帮你朋友主持过。如果你能为我们主持一场，那就太好了。"
 
 # game/code/e06/e06s06.rpy:59
 translate chinese e06s06_9a7b5901:
 
     # mh "Yes... [mcname], excuse my bluntness, you never told me you were engaged, or involved in anything so serious."
-    mh "Yes... [mcname], excuse my bluntness, you never told me you were engaged, or involved in anything so serious."
+    mh "...请原谅我的直率，你从来没有告诉过我你订婚了，也没说过你身处一段这么认真的恋情。"
 
 # game/code/e06/e06s06.rpy:61
 translate chinese e06s06_c1bd7f26:
 
     # mh "And there were many chances for you to mention that."
-    mh "And there were many chances for you to mention that."
+    mh "你有很多机会提到这一点。"
 
 # game/code/e06/e06s06.rpy:64
 translate chinese e06s06_24620278:
 
     # mc "Right. The thing about that is well... It's actually a funny story."
-    mc "Right. The thing about that is well... It's actually a funny story."
+    mc "对。关于这个问题...这其实是个有趣的故事。"
 
 # game/code/e06/e06s06.rpy:67
 translate chinese e06s06_a8507cf4:
 
     # lc "I should explain. While we have been dating for a while, [mcname] had my full permission to be involved with other women."
-    lc "I should explain. While we have been dating for a while, [mcname] had my full permission to be involved with other women."
+    lc "我应该解释一下。虽然我们已经约会了一段时间，但我完全允许[mcname]和其他女人交往。"
 
 # game/code/e06/e06s06.rpy:70
 translate chinese e06s06_262b39ca:
 
     # arj "I know it's a little out there, but it's the truth, I assure you. Lydia supports [mcname]'s freedom wholeheartedly."
-    arj "I know it's a little out there, but it's the truth, I assure you. Lydia supports [mcname]'s freedom wholeheartedly."
+    arj "我知道这有点离谱，但这是事实，我向你保证。莉迪亚全心全意地支持[mcname]的自由。"
 
 # game/code/e06/e06s06.rpy:73
 translate chinese e06s06_cfb6d02e:
 
     # lc "Yes, so I am well aware that you and my fiance have been intimate before, if that makes you feel better."
-    lc "Yes, so I am well aware that you and my fiance have been intimate before, if that makes you feel better."
+    lc "是的，我很清楚你和我的未婚夫以前很亲密，如果这能让你感觉好点的话。"
 
 # game/code/e06/e06s06.rpy:76
 translate chinese e06s06_50470c12:
 
     # mh "I see. So you know all about that, but you still wish to marry him?"
-    mh "I see. So you know all about that, but you still wish to marry him?"
+    mh "我明白了。这么说你都知道了，可你还想嫁给他？"
 
 # game/code/e06/e06s06.rpy:79
 translate chinese e06s06_d8687b9b:
 
     # mc "Hey? {w}I'm sitting right here."
-    mc "Hey? {w}I'm sitting right here."
+    mc "嘿？{w}我就坐在这里。"
 
 # game/code/e06/e06s06.rpy:82
 translate chinese e06s06_00c55189:
 
     # mh "Excuse me, I'm asking the questions here."
-    mh "Excuse me, I'm asking the questions here."
+    mh "不好意思，我在问问题。"
 
 # game/code/e06/e06s06.rpy:84
 translate chinese e06s06_f4eacc76:
 
     # mh "You can understand that this is not something I hear on a daily basis, Miss Cox."
-    mh "You can understand that this is not something I hear on a daily basis, Miss Cox."
+    mh "希望你可以理解，这不是我每天都能听到的话，考克斯小姐。"
 
 # game/code/e06/e06s06.rpy:87
 translate chinese e06s06_99adb688:
 
     # lc "Sure, but at the end of the day, we're both quite happy. What about you, AmRose?"
-    lc "Sure, but at the end of the day, we're both quite happy. What about you, AmRose?"
+    lc "我理解，但是在一天结束的时候，我们俩都很开心。你呢，爱洛丝先生？"
 
 # game/code/e06/e06s06.rpy:90
 translate chinese e06s06_6c5ad7d4:
 
     # arj "I'll admit, it's not your average relationship. But as long as [mcname] is happy, I'm happy."
-    arj "I'll admit, it's not your average relationship. But as long as [mcname] is happy, I'm happy."
+    arj "我承认，这关系并不常见。但只要[mcname] 开心，我就开心。"
 
 # game/code/e06/e06s06.rpy:93
 translate chinese e06s06_a25003b6:
 
     # mh "Forgive me, I thought I had a handle on this, but I think it just slipped from my fingers."
-    mh "Forgive me, I thought I had a handle on this, but I think it just slipped from my fingers."
+    mh "原谅我，我以为我能把它抓住，但还是让它从我的指缝里溜走了。"
 
 # game/code/e06/e06s06.rpy:94
 translate chinese e06s06_19e06fdd:
 
     # mh "So... this is some kind of open relationship currently. But it will conclude when the two of you tie the knot?"
-    mh "So... this is some kind of open relationship currently. But it will conclude when the two of you tie the knot?"
+    mh "所以...这是一种开放式的关系。但你们俩结为夫妻之后，就结束了吧？"
 
 # game/code/e06/e06s06.rpy:97
 translate chinese e06s06_1c87520b:
 
     # lc "Oh no. I'll always let my love do as he wishes, even after we're married. We have a system. But I need to be married so he can finally-"
-    lc "Oh no. I'll always let my love do as he wishes, even after we're married. We have a system. But I need to be married so he can finally-"
+    lc "哦，不。即使我们结婚了，我也会永远让我的爱人做他想做的事。我们有一个共建的守则。但我必须结婚，这样他才能最终--"
 
 # game/code/e06/e06s06.rpy:98
 translate chinese e06s06_24a6696e:
 
     # lc "FINALLY... deflower me."
-    lc "FINALLY... deflower me."
+    lc "最终...给我开苞。"
 
 # game/code/e06/e06s06.rpy:101
 translate chinese e06s06_1068aba2:
 
     # mh "So as I understand it, you're in some kind of harem, [mcname]."
-    mh "So as I understand it, you're in some kind of harem, [mcname]."
+    mh "所以在我看来，你是有一个后宫里，[mcname]。"
 
 # game/code/e06/e06s06.rpy:104
 translate chinese e06s06_18b3ea92:
 
     # mc "Yes. Lydia and AmRose are just two members of it."
-    mc "Yes. Lydia and AmRose are just two members of it."
+    mc "是的。莉迪亚和爱洛丝只是其中的两个成员。"
 
 # game/code/e06/e06s06.rpy:107
 translate chinese e06s06_61bcb51a:
 
     # mh "Fascinating. I have had many strange experiences in the court of law, but never something quite like this."
-    mh "Fascinating. I have had many strange experiences in the court of law, but never something quite like this."
+    mh "真有意思。我在法庭上有过许多奇怪的经历，但从来没有过这样的体验。"
 
 # game/code/e06/e06s06.rpy:110
 translate chinese e06s06_aafebc5f:
 
     # mh "Since you are all consenting adults, I have no wish to delay your happiness."
-    mh "Since you are all consenting adults, I have no wish to delay your happiness."
+    mh "既然你们都是自愿的成年人，我不想耽误你们的幸福。"
 
 # game/code/e06/e06s06.rpy:111
 translate chinese e06s06_14a9db7c:
 
     # mh "It would be my privilege to officiate your wedding."
-    mh "It would be my privilege to officiate your wedding."
+    mh "我很荣幸为你们主持婚礼。"
 
 # game/code/e06/e06s06.rpy:114
 translate chinese e06s06_b20f99f1:
 
     # lc "Yes!"
-    lc "Yes!"
+    lc "好哎！"
 
 # game/code/e06/e06s06.rpy:117
 translate chinese e06s06_949b0e9f:
 
     # arj "Awesome."
-    arj "Awesome."
+    arj "酷毙了。"
 
 # game/code/e06/e06s06.rpy:120
 translate chinese e06s06_10f662c9:
 
     # mc "Stacy certainly had the right idea for us to come to you."
-    mc "Stacy certainly had the right idea for us to come to you."
+    mc "史黛西让我们来找你，真是太对了。"
 
 # game/code/e06/e06s06.rpy:123
 translate chinese e06s06_4c5ab094:
 
     # mh "Of course, Stacy knows about this too."
-    mh "Of course, Stacy knows about this too."
+    mh "可不是，史黛西也知道这件事啊。"
 
 # game/code/e06/e06s06.rpy:126
 translate chinese e06s06_8eb5269b:
 
     # arj "Haha. Oh she is a little more involved than that. She's basically been the second member of his harem for some time now."
-    arj "Haha. Oh she is a little more involved than that. She's basically been the second member of his harem for some time now."
+    arj "哈哈。她还不止于此。这一段时间以来，她基本上是他后宫的第二个成员。"
 
 # game/code/e06/e06s06.rpy:129
 translate chinese e06s06_c6f8bab9:
 
     # mh "Mmm. Sounds like you have quite the appetite, [mcname]."
-    mh "Mmm. Sounds like you have quite the appetite, [mcname]."
+    mh "嗯。听起来你的胃口不小啊，[mcname]。"
 
 # game/code/e06/e06s06.rpy:134
 translate chinese e06s06_20a99663:
 
     # mc "Thanks again, Lyssa. This means a lot to me."
-    mc "Thanks again, Lyssa. This means a lot to me."
+    mc "再次谢谢你，丽莎。这对我来说意义重大。"
 
 # game/code/e06/e06s06.rpy:137
 translate chinese e06s06_f0ca49c5:
 
     # mh "You're welcome."
-    mh "You're welcome."
+    mh "不客气。"
 
 # game/code/e06/e06s06.rpy:140
 translate chinese e06s06_b57aec7f:
 
     # lc "See you at the wedding."
-    lc "See you at the wedding."
+    lc "婚礼上见。"
 
 # game/code/e06/e06s06.rpy:143
 translate chinese e06s06_81ac33e6:
 
     # arj "I'll have Min send you any additional details."
-    arj "I'll have Min send you any additional details."
+    arj "我会让明把其他细节发给你。"
 
 # game/code/e06/e06s06.rpy:146
 translate chinese e06s06_31db8cd4:
 
     # mh "Wonderful."
-    mh "Wonderful."
+    mh "太好了。"
 
 # game/code/e06/e06s06.rpy:158
 translate chinese e06s06_mh_harem_b7529b38:
 
     # mc "You should join us Lyssa. We can continue where we left off."
-    mc "You should join us Lyssa. We can continue where we left off."
+    mc "你应该加入我们，丽莎。我们可以再续前缘。"
 
 # game/code/e06/e06s06.rpy:161
 translate chinese e06s06_mh_harem_720d7642:
 
     # mh "I... I don't know about that, [mcname]. I love you, you know that I do."
-    mh "I... I don't know about that, [mcname]. I love you, you know that I do."
+    mh "我...我不知道，[mcname]。我爱你，你知道的。"
 
 # game/code/e06/e06s06.rpy:163
 translate chinese e06s06_mh_harem_dd639e70:
 
     # mh "But this... cooperative enterprise you have... I imagined that I would end up being the wet blanket of the group."
-    mh "But this... cooperative enterprise you have... I imagined that I would end up being the wet blanket of the group."
+    mh "但是你的这个...合作企业...我想我最终会成为这个团体的扫兴者。"
 
 # game/code/e06/e06s06.rpy:166
 translate chinese e06s06_mh_harem_6539c221:
 
     # mc "I think that's just the fear of the unknown talking, Lyssa."
-    mc "I think that's just the fear of the unknown talking, Lyssa."
+    mc "丽莎，你这只是对未知的恐惧罢了。."
 
 # game/code/e06/e06s06.rpy:167
 translate chinese e06s06_mh_harem_7bc1ceff:
 
     # mc "Listen, I know this is a lot, and it's sudden, but that doesn't change how I feel. I'd love to have you with us..."
-    mc "Listen, I know this is a lot, and it's sudden, but that doesn't change how I feel. I'd love to have you with us..."
+    mc "听着，我知道这对你来说很复杂，很突然，但这改变不了我对你的感觉。我希望你能和我们在一起..."
 
 # game/code/e06/e06s06.rpy:170
 translate chinese e06s06_mh_harem_cf2cad07:
