@@ -118,7 +118,7 @@ translate chinese e06s03_783a3362:
 translate chinese e06s03_c283e274:
 
     # mc "She wasn't thrilled when she learned you'd been lying to me."
-    mc "当她知道你一直在对我撒谎时，她一点也不高兴。"
+    mc "当知道你一直在对我撒谎时，她很不高兴。"
 
 # game/code/e06/e06s03.rpy:59
 translate chinese e06s03_043dddc0:
@@ -238,13 +238,13 @@ translate chinese e06s03_d983939d:
 translate chinese e06s03_c040e973:
 
     # lc "*Whispers* You didn't tell me Amber-Rose would be here."
-    lc "*低语* 你没告诉我安珀-爱洛丝会在这里。"
+    lc "*低语* 你没告诉我爱洛丝会在这里。"
 
 # game/code/e06/e06s03.rpy:103
 translate chinese e06s03_85bd4d21:
 
     # mc "Uh... surprise."
-    mc "呃...惊喜。"
+    mc "呃...惊喜吧。"
 
 # game/code/e06/e06s03.rpy:104
 translate chinese e06s03_dd8a2961:
@@ -304,7 +304,7 @@ translate chinese e06s03_b36986bf:
 translate chinese e06s03_932d06d3:
 
     # sy "Oh yeah, helping her find her earrings?"
-    sy "哦，对哈，帮她找耳环？"
+    sy "哦，是嘛，帮她找耳环？"
 
 # game/code/e06/e06s03.rpy:122
 translate chinese e06s03_449b5820:
@@ -340,7 +340,7 @@ translate chinese e06s03_54024e72:
 translate chinese e06s03_d0b62d46:
 
     # arj "All I could think about was how people would react when they saw the photo of me."
-    arj "我满脑子想的都是人们看到我的照片会有什么反应。"
+    arj "我满脑子想的都是人们看到我的照片后会有什么反应。"
 
 # game/code/e06/e06s03.rpy:134
 translate chinese e06s03_9d94e82f:
@@ -352,13 +352,13 @@ translate chinese e06s03_9d94e82f:
 translate chinese e06s03_f9b0b6e6:
 
     # arj "And the cherry on top would have been losing the degree I worked so hard on because I would have had to leave."
-    arj "最重要的是，我可能会失去辛辛苦苦拿到的学位！因为我不得不离开。"
+    arj "最重要的是，我可能会失去辛辛苦苦拿到的学位！因为很可能要面临辍学。"
 
 # game/code/e06/e06s03.rpy:138
 translate chinese e06s03_f1b2379f:
 
     # arj "I guess... I should have figured out it was all too good to be true."
-    arj "我在想...我早该发现这一切都让人迷醉，甚至很不真实。"
+    arj "我在想...我早该发现这让人迷醉的一切，是那么不真实。"
 
 # game/code/e06/e06s03.rpy:139
 translate chinese e06s03_522baa38:
@@ -424,13 +424,13 @@ translate chinese e06s03_92c1d28f:
 translate chinese e06s03_0668af91:
 
     # sy "[mcname] is a big boy, I know he can take care of himself."
-    sy "[mcname]是个大男孩，我知道他能照顾好自己。"
+    sy "[mcname]是个成年人，我知道他能照顾好自己。"
 
 # game/code/e06/e06s03.rpy:160
 translate chinese e06s03_d428c531:
 
     # arj "You literally wanted to get duct tape and a big knobbly dildo from the sex store so we could teach that blonde bitch a lesson."
-    arj "你真的想从性用品商店买强力胶带和一个大号的假阳具，这样我们就可以给那个金发婊子上一课了。"
+    arj "你真想从性用品商店买强力胶带和大号的假阳具，这样我们就可以给那个金发婊子上一课了。"
 
 # game/code/e06/e06s03.rpy:162
 translate chinese e06s03_e0aa3777:
@@ -472,7 +472,7 @@ translate chinese e06s03_176560fe:
 translate chinese e06s03_efdad690:
 
     # arj "When he found out, [mcname] told us almost immediately."
-    arj "当他发现时，他几乎立刻告诉了我们。"
+    arj "当[mcname]发现时，他几乎立刻告诉了我们。"
 
 # game/code/e06/e06s03.rpy:179
 translate chinese e06s03_0f7c0542:
@@ -496,7 +496,7 @@ translate chinese e06s03_822a8f27:
 translate chinese e06s03_dae0f3f5:
 
     # sy "Hehe, like you could ever go a day without having [mcname] dick you down."
-    sy "呵呵，好像你能过一天不被[mcname] 的鸡巴耍一样。"
+    sy "呵呵，好像你能过一天不被[mcname]的鸡巴耍的日子一样。"
 
 # game/code/e06/e06s03.rpy:186
 translate chinese e06s03_309bb511:
@@ -526,7 +526,7 @@ translate chinese e06s03_c39d45e7:
 translate chinese e06s03_0bf3a800:
 
     # mc "For staying away for a bit to help Lydia?"
-    mc "原谅我这段时间的离开，去帮莉迪亚了？"
+    mc "原谅我这段时间的离开，原谅我去帮莉迪亚了？"
 
 # game/code/e06/e06s03.rpy:202
 translate chinese e06s03_30f7632f:
@@ -634,13 +634,13 @@ translate chinese e06s03_service_ad3719a2:
 translate chinese e06s03_service_5dcc1aa2:
 
     # sy "Ahem. Today the sexy and noble Judge will designate the special punishment for the prisoner."
-    sy "咳咳。今天，性感而高贵的本法官将指定对囚犯的特殊惩罚。"
+    sy "咳咳。今天，性感而高贵的法官先生将指定对囚犯的特殊惩罚。"
 
 # game/code/e06/e06s03.rpy:251
 translate chinese e06s03_service_c86d72f0:
 
     # sy "One Lydia Cox."
-    sy "说上莉迪亚·考克斯。"
+    sy "上莉迪亚·考克斯。"
 
 # game/code/e06/e06s03.rpy:253
 translate chinese e06s03_service_3fc1f800:
@@ -652,7 +652,7 @@ translate chinese e06s03_service_3fc1f800:
 translate chinese e06s03_service_4373a64e:
 
     # lc "I am. Whatever it takes..."
-    lc "准备好了。不惜一切代价..."
+    lc "准备好了。我愿不惜一切代价..."
 
 # game/code/e06/e06s03.rpy:256
 translate chinese e06s03_service_ab3c5425:
@@ -676,7 +676,7 @@ translate chinese e06s03_service_a04ee837:
 translate chinese e06s03_service_fff3224f:
 
     # mc "Oh right. Yes. uh... Bailiff?"
-    mc "哦，好吧。嗯...法警？"
+    mc "哦，好吧。你在叫我...法警？"
 
 # game/code/e06/e06s03.rpy:263
 translate chinese e06s03_service_f130fbdf:
@@ -700,7 +700,7 @@ translate chinese e06s03_service_a5e6f5a6:
 translate chinese e06s03_service_ee29ec27:
 
     # sy "I second the motion of my very cunning co-baliff."
-    sy "我支持这位狡猾的联合法警的提议。"
+    sy "我支持这位狡猾的法警同事的提议。"
 
 # game/code/e06/e06s03.rpy:268
 translate chinese e06s03_service_7fbc65f1:
@@ -748,7 +748,7 @@ translate chinese e06s03_service_aaed4152:
 translate chinese e06s03_service_a96e9744:
 
     # arj "Yes... you heard our Master..."
-    arj "是的...你听到我们主人的话了..."
+    arj "嗯哼...你听到我们主人的话了..."
 
 # game/code/e06/e06s03.rpy:290
 translate chinese e06s03_service_da796064:
@@ -814,13 +814,13 @@ translate chinese e06s03_service_54a9587d:
 translate chinese e06s03_service_89504fc3:
 
     # lc "Yes, Mistress."
-    lc "谢谢您，主人。"
+    lc "谢谢您，女主人。"
 
 # game/code/e06/e06s03.rpy:310
 translate chinese e06s03_service_9fed8611:
 
     # sy "Do you like it, being our sexy little prisoner slut."
-    sy "你喜欢吗，这样当我们的性感囚犯荡妇"
+    sy "你喜欢吗，这样当我们的性感囚犯荡妇？"
 
 # game/code/e06/e06s03.rpy:311
 translate chinese e06s03_service_f469746c:
@@ -886,7 +886,7 @@ translate chinese e06s03_service_190edeb5:
 translate chinese e06s03_bj_c1722485:
 
     # arj "Ahem, Master... she's serviced us well. What do you want next?"
-    arj "咳咳，主人...她把我们招待得很好。你下一步想怎么样？"
+    arj "咳咳，主人...她把我们招待得很好。您下一步想怎么样？"
 
 # game/code/e06/e06s03.rpy:344
 translate chinese e06s03_bj_c4d10a5c:
@@ -964,7 +964,7 @@ translate chinese e06s03_bj_90c70b1f:
 translate chinese e06s03_bj_57992143:
 
     # arj "Tut-tut. Only the Mistresses and I get to enjoy Master's cock."
-    arj "啧。只有女主人和我才能享受主人的鸡鸡。"
+    arj "啧。只有女主人和我才能享受主人的肉棒。"
 
 # game/code/e06/e06s03.rpy:364
 translate chinese e06s03_bj_58ed0dcc:
@@ -988,7 +988,7 @@ translate chinese e06s03_bj_89504fc3:
 translate chinese e06s03_bj_b54ecda9:
 
     # sy "Woohoo! Free dick real-estate!"
-    sy "哇哦！免费的鸡巴地产！"
+    sy "哇哦！免费的鸡巴盛宴！"
 
 # game/code/e06/e06s03.rpy:375
 translate chinese e06s03_bj_52999c32:
@@ -1024,7 +1024,7 @@ translate chinese e06s03_sex_bed_c6a3d091:
 translate chinese e06s03_sex_bed_66c611db:
 
     # lc "Yes, Mistress... But I'm a little surprised you want me like this."
-    lc "准备好了，女主人...但我有点惊讶你想要我来。"
+    lc "准备好了，女主人...但我没想到你想要我来。"
 
 # game/code/e06/e06s03.rpy:391
 translate chinese e06s03_sex_bed_78d27c31:
@@ -1186,7 +1186,7 @@ translate chinese e06s03_sex_bed_728023a3:
 translate chinese e06s03_sex_bed_ebfac050:
 
     # lc "Master. I want to taste you. I want to lick all over your cock as you slam it inside Amber-Rose."
-    lc "主人。我想尝尝你的味道。你在喂爱洛丝的时候...我想舔遍你的鸡巴"
+    lc "主人。我想尝尝你的味道。你在喂爱洛丝的时候...我想舔遍你的鸡巴。"
 
 # game/code/e06/e06s03.rpy:434
 translate chinese e06s03_sex_bed_cfca7979:
@@ -1198,7 +1198,7 @@ translate chinese e06s03_sex_bed_cfca7979:
 translate chinese e06s03_sex_bed_99f9ff03:
 
     # mc "But you heard your Mistresses. Today, my dick belongs to them..."
-    mc "但你听见你女主人说的话了。今天，我的鸡巴属于她们..."
+    mc "但你听见女主人说的话了。今天，我的鸡巴属于她们..."
 
 # game/code/e06/e06s03.rpy:437
 translate chinese e06s03_sex_bed_b845b66a:
@@ -1270,7 +1270,7 @@ translate chinese e06s03_sex_chair_arj_f5d9b31f:
 translate chinese e06s03_sex_chair_arj_7f34a3b8:
 
     # sy "*Uncontrolled giggle* I want... your cock inside me next... Watching AmRose..."
-    sy "*无法控制的傻笑* 我想要...接下来...你的鸡巴在我里面...看爱洛丝..."
+    sy "*无法控制的傻笑* 我想要...接下来...你的鸡巴在我里面...看着爱洛丝..."
 
 # game/code/e06/e06s03.rpy:467
 translate chinese e06s03_sex_chair_arj_d029452d:
@@ -1348,7 +1348,7 @@ translate chinese e06s03_sex_chair_arj_f3b5d592:
 translate chinese e06s03_sex_chair_arj_dcbf1181:
 
     # arj "*Frantic moans* And you know... what's coming..."
-    arj "*疯狂的呻吟*你知道...接下来..."
+    arj "*疯狂的呻吟* 你知道...接下来..."
 
 # game/code/e06/e06s03.rpy:490
 translate chinese e06s03_sex_chair_arj_822cfe95:
@@ -1390,7 +1390,7 @@ translate chinese e06s03_sex_chair_arj_f6932494:
 translate chinese e06s03_sex_chair_arj_24ac184e:
 
     # sy "You better have another round in the cylinder, buster."
-    sy "老兄，你最好再来一发"
+    sy "老兄，你最好再来一发。"
 
 # game/code/e06/e06s03.rpy:512
 translate chinese e06s03_sex_chair_sy_6f7db2dd:
@@ -1402,7 +1402,7 @@ translate chinese e06s03_sex_chair_sy_6f7db2dd:
 translate chinese e06s03_sex_chair_sy_bf8a280a:
 
     # sy "How does it feel? Having his warm cum inside you?"
-    sy "感觉怎么样？他温暖的精液射你里面？"
+    sy "他温暖的精液射你体内，感觉怎么样？"
 
 # game/code/e06/e06s03.rpy:515
 translate chinese e06s03_sex_chair_sy_8ca01703:
@@ -1450,7 +1450,7 @@ translate chinese e06s03_sex_chair_sy_9db2816e:
 translate chinese e06s03_sex_chair_sy_2a5a6a04:
 
     # lc "It may take a little getting used to, Mistress."
-    lc "女主人，可能需要一段时间来适应。"
+    lc "女主人，我可能需要一段时间来适应。"
 
 # game/code/e06/e06s03.rpy:527
 translate chinese e06s03_sex_chair_sy_f25cb013:
@@ -1468,7 +1468,7 @@ translate chinese e06s03_sex_chair_sy_e1670a57:
 translate chinese e06s03_sex_chair_sy_8b689d95:
 
     # lc "Master, please finger me. I want your fingers inside of me as you fill up Stacy."
-    lc "主人，请指奸我。你填满史黛西的时候，我要你的手指伸进我里面"
+    lc "主人，请指奸我。你填满史黛西的时候，我要你的手指伸进我里面。"
 
 # game/code/e06/e06s03.rpy:536
 translate chinese e06s03_sex_chair_sy_4bfd98c9:
@@ -1480,7 +1480,7 @@ translate chinese e06s03_sex_chair_sy_4bfd98c9:
 translate chinese e06s03_sex_chair_sy_791988fc:
 
     # arj "It's up to you, Master."
-    arj "由你决定，主人。"
+    arj "由您决定，主人。"
 
 # game/code/e06/e06s03.rpy:538
 translate chinese e06s03_sex_chair_sy_da7578a4:
@@ -1564,7 +1564,7 @@ translate chinese e06s03_sex_chair_sy_f7e0c8f8:
 translate chinese e06s03_sex_chair_sy_663fd096:
 
     # sy "God... fuck fuck! Fhhuuuaaak!"
-    sy "啊啊...操啊！美死我了啊"
+    sy "啊啊...操啊！美死我了啊！"
 
 # game/code/e06/e06s03.rpy:561
 translate chinese e06s03_sex_chair_sy_c8460734:
@@ -1642,7 +1642,7 @@ translate chinese e06s03_sex_anal_11455b53:
 translate chinese e06s03_sex_anal_021a294a:
 
     # arj "Please don't tell me only my pussy gets to have some fun today."
-    arj "请不要告诉我今天只有我的小穴能玩得开心。"
+    arj "请不要告诉我，今天只有我的小穴能玩得开心。"
 
 # game/code/e06/e06s03.rpy:588
 translate chinese e06s03_sex_anal_387de3ea:
@@ -1762,13 +1762,13 @@ translate chinese e06s03_end_34da49aa:
 translate chinese e06s03_end_2d928dbe:
 
     # lc "When you fucked Amber-Rose on top of me...I felt goosebumps on my arms..."
-    lc "当你在我身上操爱洛丝的时候...我胳膊上都起了鸡皮疙瘩..."
+    lc "当你在我身上操爱洛丝的时候...我胳膊上都起鸡皮疙瘩了..."
 
 # game/code/e06/e06s03.rpy:636
 translate chinese e06s03_end_1f7ba768:
 
     # lc "But... knowing you were right here... the whole way through..."
-    lc "但...知道你就在这里...从头到尾..."
+    lc "但...知道你就在这里...你始终都在..."
 
 # game/code/e06/e06s03.rpy:638
 translate chinese e06s03_end_e20759a8:
@@ -1834,7 +1834,7 @@ translate chinese e06s03_end_e5912cb2:
 translate chinese e06s03_end_0239c6d2:
 
     # sy "Then we'll have to have a serious chat."
-    sy "那我们得好好谈谈了"
+    sy "那我们就得好好谈谈了。"
 
 # game/code/e06/e06s03.rpy:659
 translate chinese e06s03_end_8ebd650a:
@@ -1902,5 +1902,5 @@ translate chinese strings:
 
     # game/code/e06/e06s03.rpy:8
     old "A Few Days Later"
-    new "A Few Days Later"
+    new "几天后"
 
