@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
+# TODO: Translation updated at 2022-03-02 02:41
 
 # game/code/d15/d15s07.rpy:35
 translate malay d15s07_a025bf8e:
@@ -10,7 +10,7 @@ translate malay d15s07_a025bf8e:
 translate malay d15s07_a875bc2a:
 
     # mct "Min messaged me to meet her here. I wonder-"
-    mct "Min mesej aku untuk berjumpa dengannya dekat sini. Aku tertanya-"
+    mct "Min mesej aku suruh jumpa dengannya dekat sini. Aku tertanya-"
 
 # game/code/d15/d15s07.rpy:45
 translate malay d15s07_202c1813:
@@ -142,7 +142,7 @@ translate malay d15s07_2c1c462d:
 translate malay d15s07_4eec5434:
 
     # lc "I'm not saying we should make it a regular thing, but... {w}Min has a point."
-    lc "Aku tak kata yang kita harus menjadikannya perkara biasa, tapi... {w}Min ada betulnya."
+    lc "Aku tak kata yang kita harus menjadikannya satu perkara yang biasa, tapi... {w}Min ada betulnya."
 
 # game/code/d15/d15s07.rpy:111
 translate malay d15s07_f8d554f1:
@@ -154,7 +154,7 @@ translate malay d15s07_f8d554f1:
 translate malay d15s07_ef353ec7:
 
     # mc "So, I'm here for moral support? To help Lydia get through this?"
-    mc "Jadi, saya di sini untuk sokongan moral? Untuk membantu Lydia melalui ini?"
+    mc "Jadi, aku di sini untuk sokongan moral? Untuk membantu Lydia melalui ini?"
 
 # game/code/d15/d15s07.rpy:116
 translate malay d15s07_d2e9ac07:
@@ -220,7 +220,7 @@ translate malay d15s07_fab877f3:
 translate malay d15s07_whatsthat_e1133a00:
 
     # mc "Before I get undressed, there's a little something you should know..."
-    mc "Sebelum aku buka baju, ada benda kecil yang kau patut tahu..."
+    mc "Sebelum aku buka baju, ada benda yang kau patut tahu..."
 
 # game/code/d15/d15s07.rpy:169
 translate malay d15s07_whatsthat_f85dfd95:
@@ -334,7 +334,7 @@ translate malay d15s07_mes_pee_on_mc_bdb994ee:
 translate malay d15s07_mes_pee_on_mc_78cab2df:
 
     # mc "No, I understand. It's okay."
-    mc "Tak, saya faham. Tak apa."
+    mc "Tak, aku faham. Tak apa."
 
 # game/code/d15/d15s07.rpy:247
 translate malay d15s07_mes_pee_on_mc_c6b253e2:
@@ -358,7 +358,7 @@ translate malay d15s07_mes_pee_on_mc_8aafd34a:
 translate malay d15s07_mes_pee_on_mc_f60f089e:
 
     # lc "Yeah, that's fine."
-    lc "Yeah, tak mengapa."
+    lc "Yeah, tak apa."
 
 # game/code/d15/d15s07.rpy:261
 translate malay d15s07_mes_pee_on_mc_5c7898e3:
@@ -388,7 +388,7 @@ translate malay d15s07_mes_pee_on_mc_e042bc51:
 translate malay d15s07_mes_pee_on_mc_c3e0048d:
 
     # mes "He's an attractive guy. We're sharing an intimate moment. There's an emotional connection."
-    mes "Dia seorang lelaki yang menarik. Kami berkongsi detik yang intim. Terdapat hubungan emosi."
+    mes "Dia seorang lelaki yang menarik. Kami berkongsi detik yang intim. Ada hubungan emosi."
 
 # game/code/d15/d15s07.rpy:275
 translate malay d15s07_mes_pee_on_mc_ddf8c196:
@@ -424,7 +424,7 @@ translate malay d15s07_mes_pee_on_mc_cd6093b6:
 translate malay d15s07_mes_pee_on_mc_cf2f760d:
 
     # lc "Well, let's give it a try and see how I feel about it."
-    lc "Baiklah, mari kita cuba dan lihat perasaan aku mengenainya."
+    lc "Baiklah, mari kita cuba dan tengok perasaan aku pasalnya."
 
 # game/code/d15/d15s07.rpy:290
 translate malay d15s07_mes_pee_on_mc_11de420c:
@@ -484,7 +484,7 @@ translate malay d15s07_mc_pee_on_mes_9a23d2c1:
 translate malay d15s07_mc_pee_on_mes_b5960a3a:
 
     # mc "Exactly. {w}Although, I'm not sure how likely it is that I can pretend that hard."
-    mc "Tepat sekali. {w}Apa-apa pun, aku tak pasti kemungkinan besar saya boleh berpura-pura sebegitu."
+    mc "Tepat sekali. {w}Apa-apa pun, aku tak pasti kemungkinan besar aku boleh berpura-pura sebegitu."
 
 # game/code/d15/d15s07.rpy:341
 translate malay d15s07_mc_pee_on_mes_71151f60:
@@ -526,7 +526,7 @@ translate malay d15s07_mc_pee_on_mes_5d333be8:
 translate malay d15s07_mc_pee_on_mes_8c51b289:
 
     # mc "... and trying not to notice that everyone else in the room is horny as fuck."
-    mc "... dan cuba untuk tak perasan bahawa semua orang di dalam bilik itu terangsang."
+    mc "... dan cuba untuk tak perasan yang semua orang di dalam bilik itu terangsang."
     
 # game/code/d15/d15s07.rpy:394
 translate malay d15s07_mc_pee_on_mes_f03ff917:
@@ -742,7 +742,7 @@ translate malay d15s07_lc_pee_on_mes_c1ac3d8d:
 translate malay d15s07_lc_pee_on_mes_290ca639:
 
     # mc "Do you feel that? That soft pleasure as the liquid releases from you?"
-    mc "kau rasakannya? Keseronokan itu semasa cecair dilepaskan daripada kau?"
+    mc "Kau rasakannya? Keseronokan itu semasa cecair dilepaskan daripada kau?"
 
 # game/code/d15/d15s07.rpy:543
 translate malay d15s07_lc_pee_on_mes_00273a0a:
@@ -766,7 +766,7 @@ translate malay d15s07_lc_pee_on_mes_d1e43e7c:
 translate malay d15s07_lc_pee_on_mes_f53f7a84:
 
     # lc "Yesssss... {w}I want this."
-    lc "Yaaaa... {w}aku nak ini."
+    lc "Yaaaa... {w}Aku nak ini."
 
 # game/code/d15/d15s07.rpy:560
 translate malay d15s07_ntr_path_2a8543a8:
@@ -982,7 +982,7 @@ translate malay d15s07_lc_path_4f17adfc:
 translate malay d15s07_lc_path_2da1c531:
 
     # mc "How does it feel?"
-    mc "Bagaimana rasanya?"
+    mc "Macam mana rasanya?"
 
 # game/code/d15/d15s07.rpy:662
 translate malay d15s07_lc_path_c7e0bb7c:
@@ -1024,7 +1024,7 @@ translate malay d15s07_lc_path_6b01de69:
 translate malay d15s07_lc_path_4908b346:
 
     # mc "Cum for me, Lydia. {w}Cum from your best friend's tongue."
-    mc "Pancut untuk saya, Lydia. {w}Pancut daripada lidah kawan baik awak."
+    mc "Pancut untuk aku, Lydia. {w}Pancut daripada lidah kawan baik kau."
 
 # game/code/d15/d15s07.rpy:680
 translate malay d15s07_lc_path_1bfed957:
@@ -1144,7 +1144,7 @@ translate malay d15s07_end_8fc1d935:
 translate malay d15s07_end_6e08783b:
 
     # mc "Huh. Lydia, what do you think about that?"
-    mc "Huh. Lydia, apa pendapat awak tentang itu?"
+    mc "Huh. Lydia, apa pendapat kau tentang itu?"
 
 # game/code/d15/d15s07.rpy:754
 translate malay d15s07_end_3e8d3e9b:
@@ -1180,23 +1180,23 @@ translate malay strings:
 
     # game/code/d15/d15s07.rpy:121
     old "I am ready to pee"
-    new "Saya bersedia untuk kencing"
+    new "Aku bersedia untuk kencing"
 
     # game/code/d15/d15s07.rpy:121
     old "I want to drink Min's piss first"
-    new "Saya nak minum kencing Min dulu"
+    new "Aku nak minum kencing Min dulu"
 
     # game/code/d15/d15s07.rpy:121
     old "I'm just here for moral support"
-    new "Saya di sini hanya untuk sokongan moral"
+    new "Aku di sini hanya untuk sokongan moral"
 
     # game/code/d15/d15s07.rpy:737
     old "We should definitely do that"
-    new "Kita pasti perlu buat itu"
+    new "Kita pasti perlu lakukan itu"
 
     # game/code/d15/d15s07.rpy:737
     old "I'm getting kinda bored of the watersports"
-    new "Saya agak bosan dengan watersports sahaja"
+    new "Aku agak bosan dengan watersports sahaja"
 
 # TODO: Translation updated at 2022-11-12 13:01
 
@@ -1204,11 +1204,10 @@ translate malay strings:
 translate malay d15s07_2c517df3:
 
     # mes "Antony isn't in the picture anymore."
-    mes "Antony isn't in the picture anymore."
+    mes "Antony tak bersama dengan aku lagi."
 
 translate malay strings:
 
     # game/code/d15/d15s07.rpy:35
     old "Later that day"
-    new "Later that day"
-
+    new "Kemudiannya"
