@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
+# TODO: Translation updated at 2022-03-02 02:41
 
 # game/code/d15/d15s08.rpy:4
 translate malay d15s08_e843f07b:
@@ -22,13 +22,13 @@ translate malay d15s08_09ac58cf:
 translate malay d15s08_645edcac:
 
     # sy "We're in the... {w}We can see you."
-    sy "Kami berada di... {w}Boleh nampak kaulah."
+    sy "Kami ada dekat... {w}Boleh nampak kaulah."
 
 # game/code/d15/d15s08.rpy:30
 translate malay d15s08_3a3d693a:
 
     # mc "Oh, right. {w}Sorry I couldn't be here sooner. It's been one hell of a day."
-    mc "Oh, betul. {w}Maaf aku tak dapat ke sini lebih awal. Penat juga hari ini."
+    mc "Oh, betul. {w}Maaf aku tak dapat datang sini lebih awal. Penat juga hari ini."
 
 # game/code/d15/d15s08.rpy:32
 translate malay d15s08_549ef43a:
@@ -148,7 +148,7 @@ translate malay d15s08_f800bed0:
 translate malay d15s08_1a0b3191:
 
     # arj "She seems rather fixated on your roommate. She even got access to his laptop."
-    arj "Dia kelihatan agak terpaku pada rakan sebilik kau. Dia juga mendapat akses kepada komputer ribanya."
+    arj "Dia nampak agak terpaku pada rakan sebilik kau. Dia juga dapat akses kepada komputer ribanya."
 
 # game/code/d15/d15s08.rpy:88
 translate malay d15s08_299efa02:
@@ -208,7 +208,7 @@ translate malay d15s08_69c25b65:
 translate malay d15s08_9d2075b0:
 
     # hr "He was the most likely suspect, but not the only one. I also provided them the information I found on Min, Antony, Davey, and others."
-    hr "Dia adalah salah satu suspek, tapi bukan satu-satunya. Aku juga memberikan mereka maklumat yang aku jumpa di Min, Antony, Davey dan lain-lain."
+    hr "Dia adalah salah satu suspek, tapi bukan satu-satunya. Aku juga berikan mereka maklumat yang aku jumpa di Min, Antony, Davey dan lain-lain."
 
 # game/code/d15/d15s08.rpy:117
 translate malay d15s08_5bb1c187:
@@ -262,7 +262,7 @@ translate malay d15s08_30460db9:
 translate malay d15s08_ce4181e7:
 
     # sy "So, we're working under the assumption that the app has physical servers somewhere nearby."
-    sy "Jadi, kita bekerja di bawah andaian bahawa aplikasi itu ada pelayan fizikal di suatu tempat berdekatan."
+    sy "Jadi, kita bekerja di bawah andaian yang aplikasi itu ada pelayan fizikal di suatu tempat berdekatan."
 
 # game/code/d15/d15s08.rpy:138
 translate malay d15s08_4f684b4c:
@@ -280,13 +280,13 @@ translate malay d15s08_dcecc625:
 translate malay d15s08_6cd8a6f7:
 
     # mc "Fair enough. AmRose, how's the hardware going?"
-    mc "Cukup adil. AmRose, macam mana dengan perkakasannya?"
+    mc "Baiklah. AmRose, macam mana dengan perkakasannya?"
     
 # game/code/d15/d15s08.rpy:146
 translate malay d15s08_a0d9db8e:
 
     # arj "I picked up this little toy a couple months ago. I wasn't sure what I would ever use it for, but it is perfect for this."
-    arj "Aku ambil benda ini beberapa bulan yang lalu. Aku tak pasti untuk apa aku akan menggunakannya, tapi ia sesuai untuk ini."
+    arj "Aku ambil benda ini beberapa bulan lepas. Aku tak pasti untuk apa aku akan menggunakannya, tapi ia sesuai untuk ini."
 
 # game/code/d15/d15s08.rpy:147
 translate malay d15s08_0194250e:
@@ -310,7 +310,7 @@ translate malay d15s08_993bb9cc:
 translate malay d15s08_5206a696:
 
     # mc "How bad are we talking about?"
-    mc "Seberapa buruk ?"
+    mc "Seberapa buruk?"
 
 # game/code/d15/d15s08.rpy:157
 translate malay d15s08_5d78a982:
@@ -334,7 +334,7 @@ translate malay d15s08_11195cca:
 translate malay d15s08_15cd3ce0:
 
     # hr "We're kinda on the clock here. Time is a factor."
-    hr "Kami agak pada jam di sini. Masa adalah faktor."
+    hr "Kita kesuntukkan masa. Masa adalah faktor."
 
 # game/code/d15/d15s08.rpy:169
 translate malay d15s08_bd61ff24:
@@ -364,7 +364,7 @@ translate malay d15s08_824e38a3:
 translate malay d15s08_1b1f96e3:
 
     # hr "I guess that makes you the project manager, [mcname]."
-    hr "Aku rasa itu menjadikan anda pengurus projek, [mcname]."
+    hr "Aku rasa itu menjadikan kau pengurus projek, [mcname]."
 
 # game/code/d15/d15s08.rpy:184
 translate malay d15s08_e5b9c1f4:
@@ -496,13 +496,13 @@ translate malay d15s08_87a6b4f8:
 translate malay d15s08_27ec38aa:
 
     # mc "On my honor, the only person I intend to exploit here is myself."
-    mc "Atas nama aku, satu-satunya orang yang aku ingin eksploitasikan di sini ialah diri akusendiri."
+    mc "Atas nama aku, satu-satunya orang yang aku ingin eksploitasikan di sini ialah diri aku sendiri."
 
 # game/code/d15/d15s08.rpy:247
 translate malay d15s08_61f9b11c:
 
     # hr "Sounds good.{w} On that note - I'll leave you ladies to work in peace."
-    hr "Kedengarannya bagus.{w}Kalau macam itu - Aku akan meninggalkan anda wanita untuk bekerja dengan tenang."
+    hr "Baiklah.{w}Kalau macam itu - Aku akan meninggalkan korang untuk bekerja dengan tenang."
 
 # game/code/d15/d15s08.rpy:250
 translate malay d15s08_2d893182:
@@ -658,7 +658,7 @@ translate malay d15s08_db1115fe:
 translate malay d15s08_cdd0c246:
 
     # hr "Uh huh. {w}Well, it's none of my business."
-    hr "Uh huh. {w}Apa-apalah, itu bukan urusan saya."
+    hr "Uh huh. {w}Apa-apalah, itu bukan urusan aku."
 
 # game/code/d15/d15s08.rpy:319
 translate malay d15s08_8d5ec82b:
@@ -874,7 +874,7 @@ translate malay d15s08_34bdddd0:
 translate malay d15s08_f6f498ff:
 
     # arj "I mean, don't get me wrong. At first it was a hell of a shock."
-    arj "Maksud aku, jangan salah faham. Mula-mula agak terkajut juga."
+    arj "Maksud aku, jangan salah faham. Mula-mula agak terkejut juga."
 
 # game/code/d15/d15s08.rpy:426
 translate malay d15s08_8646a62f:
@@ -934,13 +934,13 @@ translate malay d15s08_374e97e1:
 translate malay d15s08_aaf9264e:
 
     # mc "Okay. I guess I'm cool with that."
-    mc "Okay. Saya rasa saya selesa dengan itu."
+    mc "Okay. Aku rasa aku selesa dengan itu."
 
 # game/code/d15/d15s08.rpy:452
 translate malay d15s08_4ec77d2c:
 
     # sy "[mcname] needs to relax."
-    sy "[mcname] perlu berehat."
+    sy "[mcname] kena berehat."
 
 # game/code/d15/d15s08.rpy:455
 translate malay d15s08_0c545ee6:
@@ -1120,7 +1120,7 @@ translate malay d15s08_3c862b57:
 translate malay d15s08_9c7431d1:
 
     # sy "Just a few more lines of code..."
-    sy "Hanya beberapa baris kod lagi..."
+    sy "Lagi sikit baris kod lagi..."
 
 # game/code/d15/d15s08.rpy:550
 translate malay d15s08_d61354c6:
@@ -1164,11 +1164,10 @@ translate malay d15s08_bcfe6e94:
 translate malay d15s08_1297c740:
 
     # sy "The business of discovering who is behind Fetish Locator and winning the treasure?"
-    sy "The business of discovering who is behind Fetish Locator and winning the treasure?"
+    sy "Urusan mencari siapa di belakang Fetish Locator dan memenangi harta karun?"
 
 # game/code/d15/d15s08.rpy:134
 translate malay d15s08_58dfa537:
 
     # mc "Okay, Angels! Let's recap. Fetish Locator should have a physical server and we're going to find it."
-    mc "Okay, Angels! Let's recap. Fetish Locator should have a physical server and we're going to find it."
-
+    mc "Baiklah, Angels! Mari kita imbas semula. Fetish Locator sepatutnya ada pelayan fizikal di dalam atau berhampiran kampus."
