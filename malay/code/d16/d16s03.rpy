@@ -28,7 +28,7 @@ translate malay d16s03_81048389:
 translate malay d16s03_713c969c:
 
     # lc "Mmmmm... {w}What is that taste?"
-    lc "Mmmmm... {w}Rasa apa tu?"
+    lc "Mmmmm... {w}Apa rasa tu?"
 
 # game/code/d16/d16s03.rpy:33
 translate malay d16s03_4bce5e48:
@@ -124,7 +124,7 @@ translate malay d16s03_fe0a659d:
 translate malay d16s03_5bcf7558:
 
     # lc "Mmmmm... tasty."
-    lc "Mmmmm... sedapnua."
+    lc "Mmmmm... sedapnya."
 
 # game/code/d16/d16s03.rpy:72
 translate malay d16s03_0dfdcd09:
@@ -340,7 +340,7 @@ translate malay d16s03_11455b53_1:
 translate malay d16s03_e456e7ea:
 
     # lc "Only while we're having sex, you know? You wouldn't have to wear it all day or anything like that."
-    lc "Hanya semasa kita melakukan hubungan seks, kau tahu? Kau takn perlu memakainya sepanjang hari atau apa-apa seperti itu."
+    lc "Hanya semasa kita melakukan hubungan seks, kau tahu? Kau tak perlu memakainya sepanjang hari atau apa-apa seperti itu."
 
 # game/code/d16/d16s03.rpy:145
 translate malay d16s03_ed62ac63:
@@ -352,7 +352,7 @@ translate malay d16s03_ed62ac63:
 translate malay d16s03_4d33c580:
 
     # lc "Okay. Well, I guess you two had better get going."
-    lc "Okay. aku rasa anda berdua lebih baik pergi."
+    lc "Okay. Aku rasa korang berdua lebih baik pergi."
 
 # game/code/d16/d16s03.rpy:149
 translate malay d16s03_6612ff16:
@@ -382,7 +382,7 @@ translate malay d16s03_f85dfd95:
 translate malay d16s03_9bcea669:
 
     # mc "A little something to spice things up."
-    mc "Sesuatu yang menarik untuk kira berdua."
+    mc "Sesuatu yang menarik untuk kita berdua."
 
 # game/code/d16/d16s03.rpy:165
 translate malay d16s03_a93a47bc:
@@ -412,7 +412,7 @@ translate malay d16s03_0acc0d7f:
 translate malay d16s03_3262ce96:
 
     # mc "First, Lydia likes to hear about my sex stories and even watch. I want you to experience what it feels like to be watched."
-    mc "Pertama, Lydia suka dengar tentang cerita seks aku dan juga melihatnya. Aku nak kau merasai bagaimana rasanya ditengok."
+    mc "Pertama, Lydia suka dengar tentang cerita seks aku dan juga melihatnya. Aku nak kau merasai macam mana rasanya."
 
 # game/code/d16/d16s03.rpy:175
 translate malay d16s03_8a8ef549:
@@ -430,7 +430,7 @@ translate malay d16s03_9bd48aa0:
 translate malay d16s03_8d070557:
 
     # arj "I guess I can try this.{w}.. for you."
-    arj "aku rasa aku boleh cuba ini... {w}untuk kau."
+    arj "Aku rasa aku boleh cuba ini... {w}untuk kau."
 
 # game/code/d16/d16s03.rpy:181
 translate malay d16s03_a64e8bc0:
@@ -514,7 +514,7 @@ translate malay d16s03_085722e2:
 translate malay d16s03_0244b0da:
 
     # lc "Sorry, just a line I heard somewhere. I wanted to try it out."
-    lc "Maaf, hanya satu baris yang saya dengar di suatu tempat. Saya ingin mencubanya."
+    lc "Maaf, hanya satu baris yang aku dengar di suatu tempat. Aku ingin mencubanya."
 
 # game/code/d16/d16s03.rpy:214
 translate malay d16s03_bc4fd44d:
@@ -592,7 +592,7 @@ translate malay d16s03_9b65b5eb:
 translate malay d16s03_cdc757cd:
 
     # lc "I would ask you to roll over, but I'm afraid I would bury my head in your sensitive parts and make you painfully uncomfortable."
-    lc "Aku nak minta kau berguling, tapi aku khuatir aku akan membenamkan kepala aku di bahagian sensitif anda dan buat kau berasa tak selesa."
+    lc "Aku nak minta kau berguling, tapi aku khuatir aku akan membenamkan kepala aku di bahagian sensitif kau dan buat kau berasa tak selesa."
 
 # game/code/d16/d16s03.rpy:239
 translate malay d16s03_ea8dbb28:
@@ -916,7 +916,7 @@ translate malay d16s03_0923cc2e:
 translate malay d16s03_5efa3f9f:
 
     # lc "Terrific. It was interesting being the one who is watched by someone else."
-    lc "Hebat. Menariknya jadi orang yang ditonton oleh orang lain."
+    lc "Hebat. Menarik juga jadi orang yang ditonton oleh orang lain."
 
 # game/code/d16/d16s03.rpy:348
 translate malay d16s03_78def226:
@@ -1000,13 +1000,13 @@ translate malay d16s03_7394e456:
 translate malay d16s03_a41c7f6f:
 
     # arj "Sure, I'll get ready for class... and meet you there?"
-    arj "Tentu, saya akan bersiap untuk ke kelas... dan jumpa awak di sana?"
+    arj "Tentu, aku nak bersiap untuk ke kelas... dan jumpa kau di sana?"
 
 # game/code/d16/d16s03.rpy:371
 translate malay d16s03_67bccabd:
 
     # mc "Sounds like a plan."
-    mc "Bunyi seperti rancangan."
+    mc "Bailah."
 
 # game/code/d16/d16s03.rpy:373
 translate malay d16s03_6dda13c8:
@@ -1348,13 +1348,13 @@ translate malay d16s03_2d53a33d:
 translate malay d16s03_59855731:
 
     # mc "Which you said was a window to your unconscious desires."
-    mc "Yang kau katakan adalah tingkap kepada keinginan tidak sedar kau."
+    mc "Yang kau katakan adalah tingkap kepada keinginan tak sedar kau."
 
 # game/code/d16/d16s03.rpy:512
 translate malay d16s03_fe53cd10:
 
     # lc "I know it can't happen... it's just not possible..."
-    lc "aku tahu ia tak boleh berlaku... cuma tak mungkin..."
+    lc "Aku tahu ia tak boleh berlaku... Cuma tak mungkin..."
 
 # game/code/d16/d16s03.rpy:514
 translate malay d16s03_c0052b5c:
@@ -1522,7 +1522,7 @@ translate malay d16s03_448adea7:
 translate malay d16s03_8fdf3012:
 
     # mc "Well, I don't have just one. Every time I zone out or daydream I have a new one."
-    mc "Jadi,  aku tak ada satu sahaja. Setiap kali aku keluar zon atau berkhayal, aku ada yang baharu."
+    mc "Jadi, aku tak ada satu sahaja. Setiap kali aku keluar zon atau berkhayal, aku ada yang baharu."
 
 # game/code/d16/d16s03.rpy:574
 translate malay d16s03_a522e76d:
@@ -1714,7 +1714,7 @@ translate malay d16s03_7e40d834:
 translate malay d16s03_34982273:
 
     # mc "In your hair, on your face, in your mouth, on your breasts and body..."
-    mc "Di rambut anda, di muka kau, di mulut kau, di payudara dan badan kau..."
+    mc "Di rambut kau, di muka kau, di mulut kau, di tetek dan badan kau..."
 
 # game/code/d16/d16s03.rpy:657
 translate malay d16s03_1c40ad89:
@@ -1810,7 +1810,7 @@ translate malay d16s03_096bcc92:
 translate malay d16s03_97bd2ba9:
 
     # lc "I just don't know if I'll ever be ready for that."
-    lc "Aku tak tahu kalau aku bersedia untuk itu"
+    lc "Aku tak tahu kalau aku bersedia untuk itu."
 
 # game/code/d16/d16s03.rpy:696
 translate malay d16s03_5188117d:
@@ -1918,13 +1918,13 @@ translate malay d16s03_f85dfd95_3:
 translate malay d16s03_99058afd:
 
     # mc "You're my favorite girl."
-    mc "Kaulah gadis kegemaran aku."
+    mc "Kaulah perempuan kegemaran aku."
 
 # game/code/d16/d16s03.rpy:743
 translate malay d16s03_67d6c8ac:
 
     # mc "Thank you. I enjoyed it at least as much as you did!"
-    mc "Terima kasih. Aku menikmatinya sekurang-kurangnya sama seperti anda!"
+    mc "Terima kasih. Aku menikmatinya sekurang-kurangnya sama seperti kau!"
 
 # game/code/d16/d16s03.rpy:746
 translate malay d16s03_950957dd:
@@ -1960,7 +1960,7 @@ translate malay strings:
 
     # game/code/d16/d16s03.rpy:123
     old "Agree & Want AmRose to Watch"
-    new " Setuju & Mahu AmRose Tonton "
+    new "Setuju & Nak AmRose Tengok"
 
     # game/code/d16/d16s03.rpy:123
     old "Agree & Ask AmRose to Leave"
@@ -2000,4 +2000,4 @@ translate malay strings:
 
     # game/code/d16/d16s03.rpy:726
     old "Tell Lydia That You Enjoyed It As Well"
-    new "Beritahu Lydia Yang Anda Juga Menikmatinya "
+    new "Beritahu Lydia Yang Anda Juga Menikmatinya"
