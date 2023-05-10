@@ -88,7 +88,7 @@ translate malay d16s05_175cb703:
 translate malay d16s05_5416ab6b:
 
     # mc "I know what a job is, you sarcastic ass."
-    mc "Aku tahu apa itu, tak guna."
+    mc "Aku tahulah, tak guna."
 
 # game/code/d16/d16s05.rpy:51
 translate malay d16s05_903fcba2:
@@ -106,7 +106,7 @@ translate malay d16s05_36ce294c:
 translate malay d16s05_7f2fb618:
 
     # mc "About you getting a job."
-    mc "PAsal kau dah dapat kerja pekerjaan."
+    mc "Pasal kau dah dapat kerja."
 
 # game/code/d16/d16s05.rpy:56
 translate malay d16s05_6cb2efbb:
@@ -148,7 +148,7 @@ translate malay d16s05_88ccb475:
 translate malay d16s05_d52a4038:
 
     # sy "Can't live that hot-girl life while broke."
-    sy "Tak boleh menjalani kehidupan gadis panas itu semasa bangkrap."
+    sy "Tak boleh jalani kehidupan gadis panas itu semasa bangkrap."
 
 # game/code/d16/d16s05.rpy:66
 translate malay d16s05_c537ddd1:
@@ -196,7 +196,7 @@ translate malay d16s05_168a01a4:
 translate malay d16s05_69fed768:
 
     # mc "Fair enough.{w} So what's this gig anyway?"
-    mc "Bailah.{w} Jadi apakah kerjanya?"
+    mc "Bailah. {w}Jadi apakah kerjanya?"
 
 # game/code/d16/d16s05.rpy:81
 translate malay d16s05_c36c5785:
@@ -226,7 +226,7 @@ translate malay d16s05_3ef4a176:
 translate malay d16s05_54051cea:
 
     # sy "Hey, I'm not saying no to that government money."
-    sy "Hey, aku tak akan mengatakan tidak kepada wang kerajaan itu."
+    sy "Hey, aku tak akan mengatakan tak kepada wang kerajaan itu."
 
 # game/code/d16/d16s05.rpy:87
 translate malay d16s05_347ea5e9:
@@ -256,13 +256,13 @@ translate malay d16s05_75cafdd2:
 translate malay d16s05_e15e1041:
 
     # sy "I'm ready to go."
-    sy "Aku bersedia untuk pergi."
+    sy "Dah untuk pergi."
 
 # game/code/d16/d16s05.rpy:97
 translate malay d16s05_b2805601:
 
     # sy "They literally had the audacity to just go \"{i}Somehow{/i} Palpatine returned.\" {b}Somehow!?{/b}, {i}{b}Somehow!?{/b}{/i}?"
-    sy "Mereka betul-betul berani untuk pergi dengan \"{i}Entah bagaimana{/i} Palpatine kembali.\" {b}Entah bagaimana!?{/b}, {i}{b}Entah bagaimana!?{/b} {/i}?"
+    sy "Mereka betul-betul berani untuk pergi dengan \"{i}Entah macam mana{/i} Palpatine kembali.\" {b}Entah macam mana!?{/b}, {i}{b}Entah macam mana!?{/b} {/i}?"
 
 # game/code/d16/d16s05.rpy:99
 translate malay d16s05_a5a58593:
@@ -388,7 +388,7 @@ translate malay d16s05_f705863b:
 translate malay d16s05_cb15f7a6:
 
     # mc "I know that we are...{i}more{/i} than we were before now."
-    mc "Aku tahu yang kita kita...{i}dah lebih{/i} daripada sebelum ini."
+    mc "Aku tahu yang kita...{i}dah lebih{/i} daripada sebelum ini."
 
 # game/code/d16/d16s05.rpy:139
 translate malay d16s05_41e4ea68:
@@ -460,7 +460,7 @@ translate malay d16s05_b8900318:
 translate malay d16s05_44581e0a:
 
     # mc "I don't know what might happen, I just want us to be careful."
-    mc "Saya tidak tahu apa yang mungkin berlaku, saya cuma mahu kita berhati-hati."
+    mc "Aku tak tahu apa yang mungkin berlaku, aku cuma nak kita berhati-hati."
 
 # game/code/d16/d16s05.rpy:161
 translate malay d16s05_872f21af:
@@ -604,13 +604,13 @@ translate malay d16s05_2a31549c:
 translate malay d16s05_1bbb82ce:
 
     # sy "So I wanted something that was related to tech, but far away from that whole bubble."
-    sy "Jadi saya mahukan sesuatu yang berkaitan dengan teknologi, tetapi jauh dari keseluruhan gelembung itu."
+    sy "Jadi aku nakkan sesuatu yang berkaitan dengan teknologi, tapi jauh dari keseluruhan gelembung itu."
 
 # game/code/d16/d16s05.rpy:227
 translate malay d16s05_b086d03e:
 
     # sy "And then it's like I said. Saw the flyer, thought it might be something, and now here we are. Still waiting..."
-    sy "Dan kemudian ia macam apa yang aku katakan. TEngok risalah itu, fikir ia mungkin sesuatu, dan kini di sinilah kita. Masih menunggu..."
+    sy "Dan kemudian ia macam apa yang aku katakan. Tengok risalah itu, fikir ia mungkin sesuatu, dan kini di sinilah kita. Masih menunggu..."
 
 # game/code/d16/d16s05.rpy:229
 translate malay d16s05_4a258fbd:
@@ -664,7 +664,7 @@ translate malay d16s05_382815eb:
 translate malay d16s05_2fc07473:
 
     # sy "Yeah, but it's not like we blast everything for everyone to see."
-    sy "Yeah, tetapi ia bukan seperti kita meletupkan segala-galanya untuk dilihat oleh semua orang."
+    sy "Yeah, tapi ia bukan seperti kita meletupkan segala-galanya untuk dilihat oleh semua orang."
 
 # game/code/d16/d16s05.rpy:255
 translate malay d16s05_bdb7e1b3:
@@ -820,7 +820,7 @@ translate malay d16s05_4f9e374a:
 translate malay d16s05_ee40ef6b:
 
     # mc "Hey, I'm proud of you. You got this."
-    mc "Hey, saya bangga dengan awak. Kau boleh lakukan ini."
+    mc "Hey, aku bangga dengan kau. Kau boleh lakukan ini."
 
 # game/code/d16/d16s05.rpy:307
 translate malay d16s05_18f45a12:
@@ -910,7 +910,7 @@ translate malay d16s05_069d84bc:
 translate malay d16s05_a3182c70:
 
     # sy "What do they think I'm going to do? Wikileaks 2: Electric Boogaloo?"
-    sy "Apa yang mereka fikir aku akan lakukan? Wikileaks 2: Electric Boogaloo?"
+    sy "Apa yang mereka fikir aku akan lakukan? {i}Wikileaks 2: Electric Boogaloo?{/i}"
 
 # game/code/d16/d16s05.rpy:352
 translate malay d16s05_66a5117a:
@@ -958,7 +958,7 @@ translate malay d16s05_b6ac60e5:
 translate malay d16s05_800d7353:
 
     # sy "I can do whatever, whenever, and no one can tell me shit."
-    sy "Aku boleh melakukan apa sahaja, bila-bila masa, dan tak ada siapa yang boleh memberitahu aku apa pun."
+    sy "Aku boleh melakukan apa sahaja, bila-bila masa, dan tak ada siapa yang boleh beritahu aku apa pun."
 
 # game/code/d16/d16s05.rpy:365
 translate malay d16s05_12c0c1df:
@@ -1104,5 +1104,4 @@ translate malay strings:
 
     # game/code/d16/d16s05.rpy:9
     old "After the class"
-    new "After the class"
-
+    new "Selepas kelas"
