@@ -22,7 +22,7 @@ translate malay d16s06_23535841:
 translate malay d16s06_5e531ec9:
 
     # aw "Hey! You came."
-    aw "Hey! Kau datang."
+    aw "Hey! Kau dah sampai."
 
 # game/code/d16/d16s06.rpy:76
 translate malay d16s06_46750735:
@@ -196,7 +196,7 @@ translate malay d16s06_014d8ec8:
 translate malay d16s06_3f8e64df:
 
     # mc "I can't say whether she's changed or not, but I can say that she's sincere in wanting to apologize and fix things."
-    mc "Aku tak boleh kata sama ada dia dah berubah atau tak, tapi aku boleh kata yang dia ikhlas ingin meminta maaf dan membetulkan keadaan."
+    mc "Aku tak boleh kata sama ada dia dah berubah atau tak, tapi aku boleh kata yang dia ikhlas ingin meminta maaf dan betulkan keadaan."
 
 # game/code/d16/d16s06.rpy:137
 translate malay d16s06_8b06c413:
@@ -220,7 +220,7 @@ translate malay d16s06_187d673f:
 translate malay d16s06_dc953261:
 
     # aw "*Sniffles* Fine.{w} I will talk to her."
-    aw "Baiklah.{w} Aku akan bercakap dengannya."
+    aw "Baiklah. {w}Aku akan bercakap dengannya."
 
 # game/code/d16/d16s06.rpy:142
 translate malay d16s06_ac137ce1:
@@ -238,7 +238,7 @@ translate malay d16s06_11455b53:
 translate malay d16s06_f1a22ddf:
 
     # aw "I'm not talking to her alone. I will kill her if she starts her shit."
-    aw "Aku tak bercakap dengannya seorang diri. Saya akan bunuh dia jika dia mulakan perangainya."
+    aw "Aku tak bercakap dengannya seorang diri. Aku akan bunuh dia jika dia mulakan perangainya."
 
 # game/code/d16/d16s06.rpy:148
 translate malay d16s06_c949da16:
@@ -376,7 +376,7 @@ translate malay d16s06_94880495:
 translate malay d16s06_75155517:
 
     # mc "And in return... I...I got put into a cockcage."
-    mc "Dan sebagai balasan... aku... aku kena pakai sangkar ini."
+    mc "Dan sebagai balasan... Aku... Aku kena pakai sangkar ini."
 
 # game/code/d16/d16s06.rpy:195
 translate malay d16s06_b2547cf7:
@@ -400,7 +400,7 @@ translate malay d16s06_9f0d57c3:
 translate malay d16s06_ca683c95:
 
     # mc "I'm alright. And I just have to wait until the punishment is over."
-    mc "Aku okay. Dan saya hanya perlu menunggu sehingga hukuman tamat."
+    mc "Aku okay. Dan aku kena menunggu sehingga hukuman tamat."
 
 # game/code/d16/d16s06.rpy:203
 translate malay d16s06_acd02d33:
@@ -418,7 +418,7 @@ translate malay d16s06_fa1483e6:
 translate malay d16s06_c0883fbc:
 
     # aw "Shit, uh, sorry. Do you want me to cover up or—"
-    aw "Sial, uh, maaf. Awak nak aku—"
+    aw "Sial, uh, maaf. Kau nak aku—"
 
 # game/code/d16/d16s06.rpy:209
 translate malay d16s06_a533c3b3:
@@ -472,7 +472,7 @@ translate malay d16s06_7cd820d6:
 translate malay d16s06_9f16a0cd:
 
     # aw "We can see about doing it when you're out of that thing, don't worry about it."
-    aw "Kita boleh cakap pasal itu bila kau boleh tanggalkannya, jangan risau mengenainya."
+    aw "Kita boleh cakap pasal itu bila kau boleh tanggalkannya, jangan risau pasalnya."
 
 # game/code/d16/d16s06.rpy:225
 translate malay d16s06_462b814d:
@@ -520,7 +520,7 @@ translate malay d16s06_141e7714:
 translate malay d16s06_a2c7bbf1:
 
     # mc "Most unhelpful answer ever."
-    mc "Tak memebantu..."
+    mc "Tak membantu..."
 
 # game/code/d16/d16s06.rpy:240
 translate malay d16s06_51e1153b:
@@ -598,19 +598,19 @@ translate malay d16s06_45b29df7:
 translate malay d16s06_50a156f2:
 
     # aw "I have a very special present for you all today."
-    aw "Saya ada hadiah yang sangat istimewa untuk anda semua hari ini."
+    aw "Aku ada hadiah yang sangat istimewa untuk anda semua hari ini."
 
 # game/code/d16/d16s06.rpy:270
 translate malay d16s06_1e9e1bb9:
 
     # aw "My good friend [mclogin] is here with me today."
-    aw "Rakan baik saya [mclogin] ada bersama saya hari ini."
+    aw "Rakan baik aku [mclogin] ada bersama aku hari ini."
 
 # game/code/d16/d16s06.rpy:272
 translate malay d16s06_10e01240:
 
     # aw "We're gonna start off nice and slow before we get to the...finale if you will. So make sure to keep those bits coming."
-    aw "Kami akan bermula dengan baik dan perlahan sebelum kami sampai ke... akhir jika anda mahu."
+    aw "Kami akan bermula dengan baik dan perlahan sebelum kami sampai ke... akhir jika korang nak."
 
 # game/code/d16/d16s06.rpy:285
 translate malay d16s06_f4af65e8:
@@ -634,7 +634,7 @@ translate malay d16s06_e2b6ce7c:
 translate malay d16s06_e02d42a2:
 
     # aw "What do you all think? Should I give him a little reward?"
-    aw "Apa pendapat kamu semua? Patutkah saya beri dia sedikit ganjaran?"
+    aw "Apa pendapat korang semua? Patutkah aku beri dia sedikit ganjaran?"
 
 # game/code/d16/d16s06.rpy:302
 translate malay d16s06_2957cac1:
@@ -652,7 +652,7 @@ translate malay d16s06_3694dc87:
 translate malay d16s06_71bc0f64:
 
     # aw "Mmm, I love this dick."
-    aw "Mmm, saya suka kote ini."
+    aw "Mmm, Aku suka kote ini."
 
 # game/code/d16/d16s06.rpy:321
 translate malay d16s06_a83c62ef:
@@ -664,19 +664,19 @@ translate malay d16s06_a83c62ef:
 translate malay d16s06_9940f75a:
 
     # aw "*Laughs* Ahem, I might've gone a little overboard it seems."
-    aw "*Ketawa* Ehem, nampaknya saya sudah melampaui batas."
+    aw "*Ketawa* Ehem, nampaknya aku sudah melampaui batas."
 
 # game/code/d16/d16s06.rpy:332
 translate malay d16s06_8e92a963:
 
     # aw "Let me go get cleane—"
-    aw "Biar saya pergi bersih—"
+    aw "Biar aku pergi bersih—"
 
 # game/code/d16/d16s06.rpy:333
 translate malay d16s06_bdcf079a:
 
     # mc "Oh no.{w} I'm not done with you yet."
-    mc "Oh tak.{w} Belum selesai lagi."
+    mc "Oh tak. {w}Belum selesai lagi."
 
 # game/code/d16/d16s06.rpy:356
 translate malay d16s06_8924eb9b:
@@ -700,19 +700,19 @@ translate malay d16s06_25ca1602:
 translate malay d16s06_f066036a:
 
     # aw "I... Wow. Christ. *Laughs* I guess you all enjoyed that as much as I did."
-    aw "*Ketawa* Saya rasa anda semua menikmatinya sama seperti saya."
+    aw "*Ketawa* Aku rasa koarng semua menikmatinya sama macam aku."
 
 # game/code/d16/d16s06.rpy:401
 translate malay d16s06_c57d815f:
 
     # aw "I think I need to take some time to catch my breath."
-    aw "Saya rasa saya perlu mengambil sedikit masa untuk menarik nafas."
+    aw "Aku rasa aku kena mengambil sedikit masa untuk menarik nafas."
 
 # game/code/d16/d16s06.rpy:403
 translate malay d16s06_46d8a991:
 
     # aw "I'll see you all in a bit."
-    aw "Saya akan jumpa anda semua sebentar lagi."
+    aw "Aku akan jumpa korang semua sebentar lagi."
 
 # game/code/d16/d16s06.rpy:405
 translate malay d16s06_3962ec5a:
@@ -736,7 +736,7 @@ translate malay d16s06_dbf86460:
 translate malay d16s06_42f5d300:
 
     # aw "Help me up."
-    aw "Tolong saya bangun."
+    aw "Tolong aku bangun."
 
 # game/code/d16/d16s06.rpy:411
 translate malay d16s06_8b9f16a2:
@@ -748,7 +748,7 @@ translate malay d16s06_8b9f16a2:
 translate malay d16s06_361ab8ea:
 
     # mc "Maybe I went a little too hard."
-    mc "Mungkin saya terlalu kasar tadi."
+    mc "Mungkin aku terlalu kasar tadi."
 
 # game/code/d16/d16s06.rpy:415
 translate malay d16s06_5f7a6f24:
@@ -772,7 +772,7 @@ translate malay d16s06_58c6d057:
 translate malay d16s06_0279c970:
 
     # aw "*Laughs* Emotions\" huh? Well, I'm sure glad I got to experience it."
-    aw "*Ketawa* Emosi\" huh? Gembira aku dapat mengalaminya."
+    aw "*Ketawa* \"Emosi\" huh? Aku pasti gembira kerana aku dapat mengalaminya."
 
 # game/code/d16/d16s06.rpy:425
 translate malay d16s06_89a8c10f:
@@ -786,29 +786,28 @@ translate malay d16s06_89a8c10f:
 translate malay d16s06_7fa6b07f:
 
     # aw "I've been playing around with toys and edging the fans forever now."
-    aw "I've been playing around with toys and edging the fans forever now."
+    aw "Aku dah bermain-main dengan mainan dan mengetepikan peminat selama-lamanya sekarang."
 
 # game/code/d16/d16s06.rpy:240
 translate malay d16s06_2fd3b885:
 
     # aw "Thought I'd finally reward the loyal ones with something special."
-    aw "Thought I'd finally reward the loyal ones with something special."
+    aw "Aku fikir akhirnya aku akan beri ganjaran kepada mereka yang setia dengan sesuatu yang istimewa."
 
 # game/code/d16/d16s06.rpy:243
 translate malay d16s06_4ebf4ad5:
 
     # aw "I know that you can always get the...{i}most{/i} out of me, so here we are."
-    aw "I know that you can always get the...{i}most{/i} out of me, so here we are."
+    aw "Aku tahu yang kau sentiasa boleh mendapatkan...{i}kebanyakan{/i} daripada aku, jadi disinilah kita."
 
 # game/code/d16/d16s06.rpy:286
 translate malay d16s06_a35a5a5a:
 
     # mc "I'm alright. And I just have to wait until this new challenge is over."
-    mc "I'm alright. And I just have to wait until this new challenge is over."
+    mc "Aku tak apa-apa. Dan aku hanya kena menunggu sehingga cabaran baru ini berakhir."
 
 # game/code/d16/d16s06.rpy:602
 translate malay d16s06_d7755542:
 
     # aw "*Laughs* \"Emotions\" huh? Well, I'm sure glad I got to experience it."
-    aw "*Laughs* \"Emotions\" huh? Well, I'm sure glad I got to experience it."
-
+    aw "*Ketawa* \"Emosi\" huh? Aku pasti gembira kerana aku dapat mengalaminya."
