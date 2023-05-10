@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
+# TODO: Translation updated at 2022-03-02 02:41
 
 # game/code/d16/d16s02.rpy:21
 translate malay d16s02_be2623d1:
@@ -10,7 +10,7 @@ translate malay d16s02_be2623d1:
 translate malay d16s02_0eb8c9ee:
 
     # mc "It's always fun to feel like the talk of the town when you step out of there."
-    mc "Ianya menyeronokkan untuk berasa seperti orang ramai apabila anda melangkah keluar dari sana."
+    mc "Ianya menyeronokkan untuk berasa seperti buah mulut orang ramai apabila kau melangkah keluar dari sana."
 
 # game/code/d16/d16s02.rpy:26
 translate malay d16s02_fad13f3c:
@@ -76,7 +76,7 @@ translate malay d16s02_42b42580:
 translate malay d16s02_3e6d654b:
 
     # arj "Did you text her—?"
-    arj "Kau dahhantar mesej kepadanya—?"
+    arj "Kau dah hantar mesej kepadanya—?"
 
 # game/code/d16/d16s02.rpy:49
 translate malay d16s02_0dcd4e1c:
@@ -88,13 +88,13 @@ translate malay d16s02_0dcd4e1c:
 translate malay d16s02_5bfd7003:
 
     # mc "Oh. Looks like we'll have to wait a bit."
-    mc "Oh. Nampaknya kita kena tunggu sebentar."
+    mc "Oh. Nampaknya kita kena tunggu kejap."
 
 # game/code/d16/d16s02.rpy:52
 translate malay d16s02_c60994e6:
 
     # mct "Wonder if I missed anything else—"
-    mct "Tertanya-tanya jika aku terlepas apa-apa lagi—"
+    mct "Tertanya-tanya juga jika aku terlepas apa-apa lagi—"
 
 # game/code/d16/d16s02.rpy:55
 translate malay d16s02_4f3aca5a:
@@ -214,7 +214,7 @@ translate malay d16s02_1394344b:
 translate malay d16s02_1f25df7d:
 
     # mc "Cum for me."
-    mc "Pancut untuk saya."
+    mc "Pancut untuk aku."
 
 # game/code/d16/d16s02.rpy:176
 translate malay d16s02_9621aefa:
@@ -274,5 +274,4 @@ translate malay strings:
 
     # game/code/d16/d16s02.rpy:22
     old "15 minutes later"
-    new "15 minutes later"
-
+    new "15 minit kemudian"
