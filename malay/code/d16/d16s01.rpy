@@ -10,7 +10,7 @@ translate malay d16s01_bf7ab2c9:
 translate malay d16s01_66e01943:
 
     # sy "Oh shit, it compiled on the first try! That doesn't bode well..."
-    sy "Oh sial, ia disusun pada percubaan pertama! Itu petanda yang tak baik..."
+    sy "Oh sial, ia dikumpul pada percubaan pertama! Itu petanda yang tak baik..."
 
 # game/code/d16/d16s01.rpy:15
 translate malay d16s01_a20cefa7:
@@ -46,7 +46,7 @@ translate malay d16s01_a20cefa7_2:
 translate malay d16s01_f360d4e1:
 
     # arj "Hey, we should try to keep it down a bit. [mcname] is sleeping still."
-    arj "Hey, kita kena senyap sikit. [mcname] masih tidur."
+    arj "Hey, kita kena senyap sikit. [mcname] masih tidur lagi."
 
 # game/code/d16/d16s01.rpy:30
 translate malay d16s01_a6752256:
@@ -82,7 +82,7 @@ translate malay d16s01_e205fc38:
 translate malay d16s01_887e498b:
 
     # mc "You two didn't get a lick of sleep last night, did you?"
-    mc "Kamu berdua tak lena tidur semalam, kan?"
+    mc "Korang berdua tak lena tidur semalam, kan?"
 
 # game/code/d16/d16s01.rpy:54
 translate malay d16s01_fa532572:
@@ -94,7 +94,7 @@ translate malay d16s01_fa532572:
 translate malay d16s01_47876170:
 
     # arj "We were too hyped up to sleep. So we decided to put that energy to use and keep working on the thing."
-    arj "Kami terlalu teruja untuk tidur. Jadi kami memutuskan untuk menggunakan tenaga itu dan terus mengusahakan perkara itu."
+    arj "Kami terlalu teruja untuk tidur. Jadi kami memutuskan untuk menggunakan tenaga itu dan terus bekerja."
 
 # game/code/d16/d16s01.rpy:58
 translate malay d16s01_0f2e2912:
@@ -112,7 +112,7 @@ translate malay d16s01_ce907ec8:
 translate malay d16s01_f6e6aa80:
 
     # arj "The hardware side of things is finally done."
-    arj "Bahagian perkakasan sesuatu akhirnya selesai."
+    arj "Bahagian perkakasan dah selesai akhirnya."
 
 # game/code/d16/d16s01.rpy:64
 translate malay d16s01_ed59ad4d:
@@ -136,13 +136,13 @@ translate malay d16s01_ddc04b62:
 translate malay d16s01_e4546705:
 
     # arj "I'm pretty proud of it if I do say so myself."
-    arj "Saya cukup berbangga dengannya jika aku sendiri yang berkata demikian."
+    arj "Aku bangga dengannya jika aku sendiri yang kata begitu."
 
 # game/code/d16/d16s01.rpy:75
 translate malay d16s01_d81db1dc:
 
     # mc "Woah, you should be. This is great!"
-    mc "Woah, kau sepatutnya begitu. Ini hebat!"
+    mc "Woah, kau sepatutnyalah. Ini hebat!"
 
 # game/code/d16/d16s01.rpy:77
 translate malay d16s01_f9b6f25d:
@@ -178,7 +178,7 @@ translate malay d16s01_a01d0df1:
 translate malay d16s01_aa80ef70:
 
     # sy "Give me your phone."
-    sy "Beri saya telefon kau."
+    sy "Bagi aku telefon kau."
 
 # game/code/d16/d16s01.rpy:92
 translate malay d16s01_f713aeb6:
@@ -208,7 +208,7 @@ translate malay d16s01_04ba50c3:
 translate malay d16s01_5bb29158:
 
     # sy "I connected your phone to the Fetish-Locator-Locator-Inator™ network."
-    sy "Aku sambungkan telefon anda ke rangkaian Fetish-Locator-Locator-Inator™."
+    sy "Aku sambungkan telefon kau ke rangkaian Fetish-Locator-Locator-Inator™."
 
 # game/code/d16/d16s01.rpy:103
 translate malay d16s01_d53b0e53:
@@ -292,7 +292,7 @@ translate malay d16s01_a278c733:
 translate malay d16s01_f626f797:
 
     # sy "Pish, have at least a {i}little{/i} confidence in us, [mcname]."
-    sy "Eh, sekurang-kurangnya adalah {i}sedikit{/i} keyakinan dengan kita, [mcname]."
+    sy "Eh, sekurang-kurangnya yakinlah {i}sikit{/i} dengan kita, [mcname]."
 
 # game/code/d16/d16s01.rpy:129
 translate malay d16s01_e4faede9:
@@ -352,13 +352,13 @@ translate malay d16s01_f4487708:
 translate malay d16s01_7b74d818:
 
     # sy "Yeah. And I don't necessarily think that it'll take a super long time to crack."
-    sy "Yeah. Dan aku tak semestinya berfikir bahawa ia akan mengambil masa yang sangat lama untuk retak."
+    sy "Yeah. Dan aku tak semestinya berfikir yang ia akan mengambil masa yang sangat lama untuk retak."
 
 # game/code/d16/d16s01.rpy:147
 translate malay d16s01_515e4cc2:
 
     # sy "But the uncertainty sucks."
-    sy "Tetapi ketidakpastian itu menyebalkan."
+    sy "Tapi ketidakpastian itu menyebalkan."
 
 # game/code/d16/d16s01.rpy:149
 translate malay d16s01_293939e8:
@@ -508,7 +508,7 @@ translate malay d16s01_7499d70f:
 translate malay d16s01_89c03462:
 
     # mc "I'll be out in a bit!"
-    mc "Aku keluat sekejap!"
+    mc "Aku keluar sekejap!"
 
 # game/code/d16/d16s01.rpy:197
 translate malay d16s01_fa3a59b5:
@@ -521,5 +521,4 @@ translate malay strings:
 
     # game/code/d16/d16s01.rpy:8
     old "Tuesday\nDay-16"
-    new "Tuesday\nDay-16"
-
+    new "Selasa\nHari-16"
