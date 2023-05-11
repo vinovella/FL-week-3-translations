@@ -40,7 +40,7 @@ translate malay d16s08_1521dd2a:
 translate malay d16s08_792e2594:
 
     # arj "Yeah, we both need to do some studying, but I meant your other plans."
-    arj "Yeah, kita berdua perlu belajar, tapi maksuda aku ialah rancangan kau yang lain."
+    arj "Yeah, kita berdua perlu belajar, tapi maksud aku ialah rancangan kau yang lain."
 
 # game/code/d16/d16s08.rpy:27
 translate malay d16s08_29e0e3f7:
@@ -358,13 +358,13 @@ translate malay d16s08_6e10e723:
 translate malay d16s08_9aa1a868:
 
     # arj "I guess no one knows better how to pleasure a man than another man."
-    arj "Aku rasa tiada siapa yang lebih tahu cara menggembirakan lelaki daripada lelaki lain."
+    arj "Aku rasa tak ada siapa yang lebih tahu cara menggembirakan lelaki daripada lelaki lain."
 
 # game/code/d16/d16s08.rpy:144
 translate malay d16s08_6260ba22:
 
     # mc "I wouldn't say that. {w}It's more of a same-sex experimentation for me."
-    mc "Aku tak akan berkata begitu. {w}Ia lebih kepada percubaan sejenis jantina untuk aku."
+    mc "Aku tak akan berkata macam tu. {w}Ia lebih kepada percubaan sejenis jantina untuk aku."
 
 # game/code/d16/d16s08.rpy:145
 translate malay d16s08_944a1ab2:
@@ -472,7 +472,7 @@ translate malay d16s08_cad3726a:
 translate malay d16s08_94d43672:
 
     # mc "I'm not sure how I feel about it. {w}It could be really exciting or it could be just plain weird."
-    mc "Aku tidak pasti perasaan aku mengenainya. {w}Ia mungkin betul-betul mengujakan atau mungkin pelik."
+    mc "Aku tak pasti perasaan aku mengenainya. {w}Ia mungkin betul-betul mengujakan atau mungkin pelik."
 
 # game/code/d16/d16s08.rpy:184
 translate malay d16s08_3b9f88e3:
@@ -514,7 +514,7 @@ translate malay d16s08_11b0942a:
 translate malay d16s08_143a9b1c:
 
     # arj "The M.I.L.F."
-    arj "The M.I.L.F."
+    arj "{i}The M.I.L.F.{/i}"
 
 # game/code/d16/d16s08.rpy:199
 translate malay d16s08_d68a52f8:
@@ -586,7 +586,7 @@ translate malay d16s08_7503fc34:
 translate malay d16s08_793927ec:
 
     # mc "Yeah, I figured that out too. Mondays for Men, Tuesdays for Women."
-    mc "Yeah, aku juga faham. Isnin untuk Lelaki, Selasa untuk Wanita."
+    mc "Yeah, aku juga faham. Isnin untuk Lelaki, Selasa untuk Perempuan."
 
 # game/code/d16/d16s08.rpy:223
 translate malay d16s08_c93dd78f:
@@ -808,7 +808,7 @@ translate malay d16s08_497147a5:
 translate malay d16s08_0031a960:
 
     # sy "I'll forgive you this time. Partially because I have too much to do tonight trying to make this seem like it was easy."
-    sy "Aku maafkan kau kali ini. Sebahagiannya kerana aku ada terlalu banyak yang perlu dilakukan malam ini cuba menjadikan ini kelihatan seperti mudah."
+    sy "Aku maafkan kau kali ini. Sebahagiannya kerana aku ada terlalu banyak yang perlu dilakukan malam ini cuba menjadikan ini nampak mudah."
 
 # game/code/d16/d16s08.rpy:298
 translate malay d16s08_c19a7e30:
@@ -862,7 +862,7 @@ translate malay d16s08_fbb696ac:
 translate malay d16s08_bbfcccfa:
 
     # sy "Love you both."
-    sy "Sayang Korang berdua."
+    sy "Sayang korang berdua."
 
 # game/code/d16/d16s08.rpy:320
 translate malay d16s08_81a4e083:
@@ -948,41 +948,40 @@ translate malay d16s08_719d7ead:
 translate malay d16s08_94638573:
 
     # arj "Oh yeah, the bartender. She's in the VIP Program too."
-    arj "Oh yeah, the bartender. She's in the VIP Program too."
+    arj "Oh ya, pelayan bar. Dia juga dalam Program VIP."
 
 # game/code/d16/d16s08.rpy:109
 translate malay d16s08_cd84f12c:
 
     # mc "Which is probably how Hana found out about Fetish Locator and the VIP Program."
-    mc "Which is probably how Hana found out about Fetish Locator and the VIP Program."
+    mc "Ini mungkin cara Hana tahu tentang Fetish Locator dan Program VIP."
 
 # game/code/d16/d16s08.rpy:168
 translate malay d16s08_d5a669ec:
 
     # arj "Close? She doesn't seem like the type to get close with anyone."
-    arj "Close? She doesn't seem like the type to get close with anyone."
-
+    arj "Rapat? Nampaknya dia bukan jenis yang rapat dengan sesiapa."
+    
 # game/code/d16/d16s08.rpy:219
 translate malay d16s08_4a5dd297:
 
     # mc "I wouldn't say that. {w}It's more of a same-sex experiment for me."
-    mc "I wouldn't say that. {w}It's more of a same-sex experiment for me."
+    mc "Aku tak akan kata macam tu. {w}Ia lebih kepada percubaan seks sejenis untuk aku."
 
 # game/code/d16/d16s08.rpy:235
 translate malay d16s08_83b91498:
 
     # mc "Oh, right."
-    mc "Oh, right."
+    mc "Oh, betul."
 
 # game/code/d16/d16s08.rpy:271
 translate malay d16s08_6df0603b:
 
     # mc "I think she may want me to dress up next time. {w}Get into some sort of costume."
-    mc "I think she may want me to dress up next time. {w}Get into some sort of costume."
+    mc "Aku rasa dia mungkin nak aku berkostum lain kali..."
 
 # game/code/d16/d16s08.rpy:301
 translate malay d16s08_92fd0e4a:
 
     # mc "Yeah. I really need to talk to her about some things tomorrow, so maybe I can work a little fun time in as well."
-    mc "Yeah. I really need to talk to her about some things tomorrow, so maybe I can work a little fun time in as well."
-
+    mc "Yeah. Aku betul-betul kena bercakap dengannya tentang beberapa perkara esok, jadi mungkin aku boleh bekerja sedikit masa yang menyeronokkan juga."
