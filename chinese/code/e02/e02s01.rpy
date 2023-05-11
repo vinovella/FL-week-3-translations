@@ -4,613 +4,613 @@
 translate chinese e02s01_e6009a2c:
 
     # mc "It shouldn't be this hard to read something like this."
-    mc "It shouldn't be this hard to read something like this."
+    mc "这种东西应该不难读的。"
 
 # game/code/e02/e02s01.rpy:39
 translate chinese e02s01_66d79561:
 
     # mh "Reading a map is like any skill, you have to put it into use, or it goes away."
-    mh "Reading a map is like any skill, you have to put it into use, or it goes away."
+    mh "看地图就和其他技能一样，你必须用起来，否则本领就会消失。"
 
 # game/code/e02/e02s01.rpy:41
 translate chinese e02s01_52f884c3:
 
     # mc "When's the last time you followed a map?"
-    mc "When's the last time you followed a map?"
+    mc "你上次跟着地图走是什么时候？"
 
 # game/code/e02/e02s01.rpy:43
 translate chinese e02s01_d1b4fa83:
 
     # mh "Quite a while ago."
-    mh "Quite a while ago."
+    mh "很久以前了。"
 
 # game/code/e02/e02s01.rpy:44
 translate chinese e02s01_40f987b1:
 
     # mh "I use my personal device for everything related to geography. Satellite navigation for driving, a cellular phone for walking short distances, or on my way to public transport."
-    mh "I use my personal device for everything related to geography. Satellite navigation for driving, a cellular phone for walking short distances, or on my way to public transport."
+    mh "所有与地理有关的，我都用电子设备处理。开车时用卫星导航，短距离步行或乘坐公共交通工具时用手机。"
 
 # game/code/e02/e02s01.rpy:47
 translate chinese e02s01_c332e930:
 
     # mc "And a map for traveling the frozen wastelands, apparently."
-    mc "And a map for traveling the frozen wastelands, apparently."
+    mc "显然在冰冻的荒原上旅行时，还能用地图。"
 
 # game/code/e02/e02s01.rpy:49
 translate chinese e02s01_06ae2c73:
 
     # mh "It's more analogue then you're used to, isn't it?"
-    mh "It's more analogue then you're used to, isn't it?"
+    mh "咱们这是模拟，然后你已经习惯了，不是吗？"
 
 # game/code/e02/e02s01.rpy:50
 translate chinese e02s01_ce366297:
 
     # mc "I don't get your insistence on using this when we have a phone."
-    mc "I don't get your insistence on using this when we have a phone."
+    mc "我不明白你为什么非要用这个，我们都有手机了。"
 
 # game/code/e02/e02s01.rpy:53
 translate chinese e02s01_dc6ed5de:
 
     # mh "You have your phone with you, I don't."
-    mh "You have your phone with you, I don't."
+    mh "你带着手机，我没有。"
 
 # game/code/e02/e02s01.rpy:55
 translate chinese e02s01_3a0221ec:
 
     # mc "Don't tell me you left it on the bed."
-    mc "Don't tell me you left it on the bed."
+    mc "别告诉我你把它落在床上了。"
 
 # game/code/e02/e02s01.rpy:58
 translate chinese e02s01_1706c70a:
 
     # mh "It was a deliberate choice on my end. I did not want to have any contact with work while being away."
-    mh "It was a deliberate choice on my end. I did not want to have any contact with work while being away."
+    mh "这是我深思熟虑的选择。我不想在休假期间与工作有任何接触。"
 
 # game/code/e02/e02s01.rpy:59
 translate chinese e02s01_a6490918:
 
     # mh "If I bring my phone, I might as well carry my pager around and pack my clothes in a briefcase, and bring reference books of constitutional law for reading material."
-    mh "If I bring my phone, I might as well carry my pager around and pack my clothes in a briefcase, and bring reference books of constitutional law for reading material."
+    mh "如果带着手机，我还不如随身带着传呼机，把衣服装在公文包里，带着宪法参考书作为阅读材料。"
 
 # game/code/e02/e02s01.rpy:62
 translate chinese e02s01_a929cbd8:
 
     # mc "You associate your phone with work?"
-    mc "You associate your phone with work?"
+    mc "你把手机和工作联系起来了？"
 
 # game/code/e02/e02s01.rpy:64
 translate chinese e02s01_556504fd:
 
     # mh "What do you associate it with?"
-    mh "What do you associate it with?"
+    mh "那你把它和什么联系在一起？"
 
 # game/code/e02/e02s01.rpy:66
 translate chinese e02s01_3772aa1f:
 
     # mc "With you."
-    mc "With you."
+    mc "你。"
 
 # game/code/e02/e02s01.rpy:67
 translate chinese e02s01_1589b987:
 
     # mh "I don't call you that often."
-    mh "I don't call you that often."
+    mh "我不常给你打电话。"
 
 # game/code/e02/e02s01.rpy:68
 translate chinese e02s01_32c8451a:
 
     # mc "You should, I associate my phone with you."
-    mc "You should, I associate my phone with you."
+    mc "你应该多打的，我把我的手机和你联系在一起。"
 
 # game/code/e02/e02s01.rpy:71
 translate chinese e02s01_9349d5d1:
 
     # mc "What if someone needs to contact you?"
-    mc "What if someone needs to contact you?"
+    mc "如果有人需要联系你怎么办？"
 
 # game/code/e02/e02s01.rpy:74
 translate chinese e02s01_2d276cc1:
 
     # mh "Then they can call you."
-    mh "Then they can call you."
+    mh "那他们可以打电话给你。"
 
 # game/code/e02/e02s01.rpy:75
 translate chinese e02s01_716019b8:
 
     # mc "Right."
-    mc "Right."
+    mc "没错。"
 
 # game/code/e02/e02s01.rpy:78
 translate chinese e02s01_cb206782:
 
     # mc "Oliver sent me a text, I assume it's about you, but maybe it's about me."
-    mc "Oliver sent me a text, I assume it's about you, but maybe it's about me."
+    mc "奥利弗给我发了一条短信，我猜是关于你的，也许是说我的。"
 
 # game/code/e02/e02s01.rpy:79
 translate chinese e02s01_dd658229:
 
     # mc "I'll check."
-    mc "I'll check."
+    mc "我看看。"
 
 # game/code/e02/e02s01.rpy:86
 translate chinese e02s01_47dd15c0:
 
     # mc "How did people travel before the millennium? Did a group of people just make a vague plan saying they're going to meet someplace and give everyone a week to figure it out?"
-    mc "How did people travel before the millennium? Did a group of people just make a vague plan saying they're going to meet someplace and give everyone a week to figure it out?"
+    mc "千禧年之前人们是怎么旅行的？是不是一群人只是制定一个模糊的计划，说在某个地方见面，然后给每个人一个星期的时间去自己探路？"
 
 # game/code/e02/e02s01.rpy:88
 translate chinese e02s01_25b556c8:
 
     # mh "By the way, you were holding the map upside down. Doesn't really matter anymore."
-    mh "By the way, you were holding the map upside down. Doesn't really matter anymore."
+    mh "顺便说一下，你把地图拿倒了。不过不重要了。"
 
 # game/code/e02/e02s01.rpy:90
 translate chinese e02s01_18f5d0c9:
 
     # mc "Oh man, what are you saying, we've been walking in the wrong direction this whole time?"
-    mc "Oh man, what are you saying, we've been walking in the wrong direction this whole time?"
+    mc "天啊，你在说什么，我们一直走错方向了？"
 
 # game/code/e02/e02s01.rpy:91
 translate chinese e02s01_1b42f723:
 
     # mh "No, not the entire time."
-    mh "No, not the entire time."
+    mh "不，不至于全程都走错了。"
 
 # game/code/e02/e02s01.rpy:94
 translate chinese e02s01_d8316ff5:
 
     # mc "We should call for help. I think I have a flare in my backpack."
-    mc "We should call for help. I think I have a flare in my backpack."
+    mc "我们应该呼救。我背包里好像有照明弹。"
 
 # game/code/e02/e02s01.rpy:96
 translate chinese e02s01_a4666811:
 
     # mh "We can do this. It's important to try out new things."
-    mh "We can do this. It's important to try out new things."
+    mh "我们能找到路。尝试新事物很重要。"
 
 # game/code/e02/e02s01.rpy:99
 translate chinese e02s01_81f0012d:
 
     # mc "I thought we were trying new things with the skiing."
-    mc "I thought we were trying new things with the skiing."
+    mc "我们能找到路。尝试新事物很重要。"
 
 # game/code/e02/e02s01.rpy:101
 translate chinese e02s01_f5c5212c:
 
     # mh "Look! We're here."
-    mh "Look! We're here."
+    mh "看！我们到了。"
 
 # game/code/e02/e02s01.rpy:108
 translate chinese e02s01_5094fa35:
 
     # mc "This place is amazing."
-    mc "This place is amazing."
+    mc "这地方太棒了。"
 
 # game/code/e02/e02s01.rpy:111
 translate chinese e02s01_a1a6871b:
 
     # mh "Bigger than the images suggest."
-    mh "Bigger than the images suggest."
+    mh "比图片显示的要大。"
 
 # game/code/e02/e02s01.rpy:114
 translate chinese e02s01_e85e691c:
 
     # mc "You sure know how to pick them, Lyssa."
-    mc "You sure know how to pick them, Lyssa."
+    mc "丽莎，你真会挑地方。"
 
 # game/code/e02/e02s01.rpy:123
 translate chinese e02s01_fb8f6c72:
 
     # mc "Look, this is where we are. Right next to us should be the common area."
-    mc "Look, this is where we are. Right next to us should be the common area."
+    mc "看，我们就在这。我们旁边应该是公共区域。"
 
 # game/code/e02/e02s01.rpy:124
 translate chinese e02s01_d1a4b78a:
 
     # mc "Oh wow, cool, there's a sauna, an indoor pool, massage therapy, and all sorts of indoor recreational activities. Where is our cabin?"
-    mc "Oh wow, cool, there's a sauna, an indoor pool, massage therapy, and all sorts of indoor recreational activities. Where is our cabin?"
+    mc "哇，太酷了，这里有桑拿、室内游泳池、按摩治疗，还有各种室内娱乐活动。我们的小屋在哪里？"
 
 # game/code/e02/e02s01.rpy:127
 translate chinese e02s01_c85ea333:
 
     # mh "They're right next to us, in separate buildings. And out there should be the ski resort, on top of the mountain."
-    mh "They're right next to us, in separate buildings. And out there should be the ski resort, on top of the mountain."
+    mh "就在我们旁边，在单独的建筑里。外面应该有滑雪场，在山顶上。"
 
 # game/code/e02/e02s01.rpy:128
 translate chinese e02s01_33d8a741:
 
     # mh "Let's go."
-    mh "Let's go."
+    mh "我们走吧。"
 
 # game/code/e02/e02s01.rpy:131
 translate chinese e02s01_03f41aa0:
 
     # mc "Wait, don't we have to check in?"
-    mc "Wait, don't we have to check in?"
+    mc "等等，我们不需要登记吗？"
 
 # game/code/e02/e02s01.rpy:133
 translate chinese e02s01_67a3f716:
 
     # mh "We just did."
-    mh "We just did."
+    mh "刚刚登记过了。"
 
 # game/code/e02/e02s01.rpy:135
 translate chinese e02s01_994df957:
 
     # mh "You know the IDs they sent us in the mail? It has a NFC sensor. It's why the doors opened as we walked in."
-    mh "You know the IDs they sent us in the mail? It has a NFC sensor. It's why the doors opened as we walked in."
+    mh "你知道他们寄给我们的身份证吗？上面有一个NFC传感器。所以我们一走进来，门就开了。"
 
 # game/code/e02/e02s01.rpy:137
 translate chinese e02s01_bca33c79:
 
     # mc "I guess all fancy, high-tech joints do that?"
-    mc "I guess all fancy, high-tech joints do that?"
+    mc "我猜所有高级的高科技场所都这样吧？"
 
 # game/code/e02/e02s01.rpy:140
 translate chinese e02s01_d6a9e702:
 
     # mh "It's the latest style."
-    mh "It's the latest style."
+    mh "这是最新的款式。"
 
 # game/code/e02/e02s01.rpy:142
 translate chinese e02s01_8af759e9:
 
     # mc "Big deal. The supermarket near me does the same thing."
-    mc "Big deal. The supermarket near me does the same thing."
+    mc "有什么大不了的。我附近的超市也能这样。"
 
 # game/code/e02/e02s01.rpy:143
 translate chinese e02s01_56d215a6:
 
     # mh "The doors back home cannot discern wealth and privilege."
-    mh "The doors back home cannot discern wealth and privilege."
+    mh "家里的门不能辨别财富和特权。"
 
 # game/code/e02/e02s01.rpy:146
 translate chinese e02s01_de91d24a:
 
     # mc "I thought you wanted to escape from work, can't do that if this place is plugged into the matrix."
-    mc "I thought you wanted to escape from work, can't do that if this place is plugged into the matrix."
+    mc "我以为你想逃离工作，如果这个地方被接入了矩阵，那你还是免不了要工作。"
 
 # game/code/e02/e02s01.rpy:148
 translate chinese e02s01_b72e0052:
 
     # mh "I fail to recall any lawyers in that movie..."
-    mh "I fail to recall any lawyers in that movie..."
+    mh "我不记得那部电影里有律师..."
 
 # game/code/e02/e02s01.rpy:151
 translate chinese e02s01_693b0567:
 
     # mc "You haven't seen the new one, then."
-    mc "You haven't seen the new one, then."
+    mc "那你还没看过新的那部。"
 
 # game/code/e02/e02s01.rpy:154
 translate chinese e02s01_e35ca2ef:
 
     # mh "New one?"
-    mh "New one?"
+    mh "新的那部？"
 
 # game/code/e02/e02s01.rpy:157
 translate chinese e02s01_6a1ca8aa:
 
     # mc "Forget I mentioned it. Are we all good to go?"
-    mc "Forget I mentioned it. Are we all good to go?"
+    mc "当我没说。我们可以走了吗？"
 
 # game/code/e02/e02s01.rpy:159
 translate chinese e02s01_d7aee8fe:
 
     # mh "I believe so."
-    mh "I believe so."
+    mh "我想是的。"
 
 # game/code/e02/e02s01.rpy:160
 translate chinese e02s01_5d3615c5:
 
     # mc "Then what are we waiting for?"
-    mc "Then what are we waiting for?"
+    mc "那我们还在等什么？"
 
 # game/code/e02/e02s01.rpy:171
 translate chinese e02s01_242b6dd2:
 
     # mc "Wow. How much did this lodge cost?"
-    mc "Wow. How much did this lodge cost?"
+    mc "哇。这房子花了多少钱？"
 
 # game/code/e02/e02s01.rpy:177
 translate chinese e02s01_6a56f27b:
 
     # mc "Oh, come on!"
-    mc "Oh, come on!"
+    mc "嘿！"
 
 # game/code/e02/e02s01.rpy:178
 translate chinese e02s01_215e4a74:
 
     # mh "One of my clients recommended it."
-    mh "One of my clients recommended it."
+    mh "我的一个客户推荐了它。"
 
 # game/code/e02/e02s01.rpy:181
 translate chinese e02s01_f16bed0a:
 
     # mh "\"Snowy Peaks enjoys the prestige of the international jet set, while being affordable and accessible to all\". I'm quoting the brochure, of course."
-    mh "\"Snowy Peaks enjoys the prestige of the international jet set, while being affordable and accessible to all\". I'm quoting the brochure, of course."
+    mh "\"雪峰在国际享有盛名，同时让所有人都能负担得起。\"当然，我引用的是宣传册上的内容。"
 
 # game/code/e02/e02s01.rpy:182
 translate chinese e02s01_aea1060a:
 
     # mc "And how much did our lodging cost?"
-    mc "And how much did our lodging cost?"
+    mc "那我们的住宿费是多少？"
 
 # game/code/e02/e02s01.rpy:185
 translate chinese e02s01_e25a039b:
 
     # mh "[mcname], presidents and prime ministers stayed here."
-    mh "[mcname], presidents and prime ministers stayed here."
+    mh "[mcname]，总统和首相们都在这里住过。"
 
 # game/code/e02/e02s01.rpy:187
 translate chinese e02s01_11809067:
 
     # mc "Which ones?"
-    mc "Which ones?"
+    mc "哪些人？"
 
 # game/code/e02/e02s01.rpy:188
 translate chinese e02s01_68999d96:
 
     # mh "Ones that aren't alive anymore."
-    mh "Ones that aren't alive anymore."
+    mh "那些不再活着的人。"
 
 # game/code/e02/e02s01.rpy:191
 translate chinese e02s01_03a2f528:
 
     # mc "Even worse, this place is historic. I'll never repay my student loans at this rate."
-    mc "Even worse, this place is historic. I'll never repay my student loans at this rate."
+    mc "更糟糕的是，这个地方是有历史意义的。照这样下去，我永远也还不上我的学生贷款。"
 
 # game/code/e02/e02s01.rpy:192
 translate chinese e02s01_977cea68:
 
     # mh "Don't worry, I have an all-paid expenses account."
-    mh "Don't worry, I have an all-paid expenses account."
+    mh "别担心，我有全额报销账户。"
 
 # game/code/e02/e02s01.rpy:193
 translate chinese e02s01_aa90d708:
 
     # mc "Hard cost to justify."
-    mc "Hard cost to justify."
+    mc "这成本合理吗哈哈。"
 
 # game/code/e02/e02s01.rpy:196
 translate chinese e02s01_3df3c1e7:
 
     # mh "Consider it my bonus. I really don't take time off."
-    mh "Consider it my bonus. I really don't take time off."
+    mh "就当这是我的奖金吧。我真的没有休息过。"
 
 # game/code/e02/e02s01.rpy:198
 translate chinese e02s01_06f96365:
 
     # mc "Except that time we met on the beach."
-    mc "Except that time we met on the beach."
+    mc "除了我们在海滩上相遇的那一次。"
 
 # game/code/e02/e02s01.rpy:199
 translate chinese e02s01_56db2518:
 
     # mh "Beach?"
-    mh "Beach?"
+    mh "海滩？"
 
 # game/code/e02/e02s01.rpy:202
 translate chinese e02s01_4f503176:
 
     # mc "Where I saw you and Vanessa talking."
-    mc "Where I saw you and Vanessa talking."
+    mc "当时我看见你和瓦妮莎在说话。"
 
 # game/code/e02/e02s01.rpy:204
 translate chinese e02s01_c622759c:
 
     # mh "That wasn't time off. Before you came, that was a business meeting."
-    mh "That wasn't time off. Before you came, that was a business meeting."
+    mh "那不是休假。在你来之前，那是一个商务会议。"
 
 # game/code/e02/e02s01.rpy:205
 translate chinese e02s01_d765e5d2:
 
     # mc "I, too, conduct my business meetings in nothing but a bra and panties."
-    mc "I, too, conduct my business meetings in nothing but a bra and panties."
+    mc "那我也是，只穿内衣和内裤开商务会议。"
 
 # game/code/e02/e02s01.rpy:208
 translate chinese e02s01_74f825c8:
 
     # mh "It was a hot occasion."
-    mh "It was a hot occasion."
+    mh "那个场合很热的。"
 
 # game/code/e02/e02s01.rpy:210
 translate chinese e02s01_3d7000cf:
 
     # mc "Ha. You can say that again."
-    mc "Ha. You can say that again."
+    mc "哈。你说得对。"
 
 # game/code/e02/e02s01.rpy:213
 translate chinese e02s01_e8b9fac9:
 
     # mh "Anyway, it's all bought and paid for, so let's relax and enjoy our time here together."
-    mh "Anyway, it's all bought and paid for, so let's relax and enjoy our time here together."
+    mh "不管怎样，都是花钱买的，咱们还是放松一下，享受在这里的时光吧。"
 
 # game/code/e02/e02s01.rpy:215
 translate chinese e02s01_60a0e717:
 
     # mc "You convinced me. I'm going to put my phone from vibrate to silent."
-    mc "You convinced me. I'm going to put my phone from vibrate to silent."
+    mc "我被你说服了。我要把手机从震动调到静音。"
 
 # game/code/e02/e02s01.rpy:216
 translate chinese e02s01_6c55acfb:
 
     # mh "That's my boy."
-    mh "That's my boy."
+    mh "这才是我的孩子。"
 
 # game/code/e02/e02s01.rpy:217
 translate chinese e02s01_09f87bcf:
 
     # mc "What do you want to do first?"
-    mc "What do you want to do first?"
+    mc "你想先做什么？"
 
 # game/code/e02/e02s01.rpy:218
 translate chinese e02s01_155ed413:
 
     # mh "I'm tempted to take a shower."
-    mh "I'm tempted to take a shower."
+    mh "我很想洗个澡。"
 
 # game/code/e02/e02s01.rpy:221
 translate chinese e02s01_1a3a815e:
 
     # mc "Are you at all interested in checking out the hot tub first?"
-    mc "Are you at all interested in checking out the hot tub first?"
+    mc "你有兴趣先看看热水池吗？"
 
 # game/code/e02/e02s01.rpy:224
 translate chinese e02s01_2f631098:
 
     # mh "Why?"
-    mh "Why?"
+    mh "为什么？"
 
 # game/code/e02/e02s01.rpy:230
 translate chinese e02s01_8f363728:
 
     # mh "Isn't it a little early for that?"
-    mh "Isn't it a little early for that?"
+    mh "现在做这个是不是有点早？"
 
 # game/code/e02/e02s01.rpy:232
 translate chinese e02s01_4d164db8:
 
     # mc "Hey, it was an idea."
-    mc "Hey, it was an idea."
+    mc "嘿，我只是提议嘛。"
 
 # game/code/e02/e02s01.rpy:233
 translate chinese e02s01_134bfa5a:
 
     # mh "I know. I want to warm up first."
-    mh "I know. I want to warm up first."
+    mh "我知道。我想先热热身。"
 
 # game/code/e02/e02s01.rpy:236
 translate chinese e02s01_22d13004:
 
     # mh "How about we get us some room service?"
-    mh "How about we get us some room service?"
+    mh "要不我们叫点客房服务吧？"
 
 # game/code/e02/e02s01.rpy:238
 translate chinese e02s01_3b61be20:
 
     # mc "I've never had caviar."
-    mc "I've never had caviar."
+    mc "我从来没吃过鱼子酱。"
 
 # game/code/e02/e02s01.rpy:239
 translate chinese e02s01_da950293:
 
     # mct "Is caviar popular? Aren't they little balls of fish... oh, forget it."
-    mct "Is caviar popular? Aren't they little balls of fish... oh, forget it."
+    mct "鱼子酱很受欢迎吗？它们不是小鱼卵吗？哦，算了。"
 
 # game/code/e02/e02s01.rpy:242
 translate chinese e02s01_93a4fabc:
 
     # mh "You'll need some crackers with that."
-    mh "You'll need some crackers with that."
+    mh "你需要饼干和它配着吃。"
 
 # game/code/e02/e02s01.rpy:244
 translate chinese e02s01_9ae350a6:
 
     # mc "Okay, what else?"
-    mc "Okay, what else?"
+    mc "好，还有什么？"
 
 # game/code/e02/e02s01.rpy:245
 translate chinese e02s01_f8134806:
 
     # mh "Something to drink."
-    mh "Something to drink."
+    mh "喝的东西。"
 
 # game/code/e02/e02s01.rpy:246
 translate chinese e02s01_9b735494:
 
     # mc "Coffee? I don't know what people drink with caviar. Cristal?"
-    mc "Coffee? I don't know what people drink with caviar. Cristal?"
+    mc "咖啡吗？我不知道人们配着鱼子酱喝什么。水晶香槟？"
 
 # game/code/e02/e02s01.rpy:249
 translate chinese e02s01_2419caaf:
 
     # mh "We should get some wine."
-    mh "We should get some wine."
+    mh "我们应该喝点酒。"
 
 # game/code/e02/e02s01.rpy:250
 translate chinese e02s01_797de19a:
 
     # mh "I'll go change."
-    mh "I'll go change."
+    mh "我去换衣服。"
 
 # game/code/e02/e02s01.rpy:253
 translate chinese e02s01_53996ee4:
 
     # mc "Hello? Room service please."
-    mc "Hello? Room service please."
+    mc "你好？请提供客房服务。"
 
 # game/code/e02/e02s01.rpy:254
 translate chinese e02s01_26b256be:
 
     # mct "Oh, right. It's not like they would automate room service."
-    mct "Oh, right. It's not like they would automate room service."
+    mct "哦，对了。他们又不会把客房服务自动化。"
 
 # game/code/e02/e02s01.rpy:257
 translate chinese e02s01_98266f3b:
 
     # mc "Lyssa! There's no room service."
-    mc "Lyssa! There's no room service."
+    mc "丽莎！没有客房服务。"
 
 # game/code/e02/e02s01.rpy:259
 translate chinese e02s01_9cfab8d7:
 
     # mh "Well, what now?"
-    mh "Well, what now?"
+    mh "那现在怎么办？"
 
 # game/code/e02/e02s01.rpy:262
 translate chinese e02s01_d98c9b43:
 
     # mc "I'll find wine somewhere. Be back soon."
-    mc "I'll find wine somewhere. Be back soon."
+    mc "我去找酒喝。很快就回来。"
 
 # game/code/e02/e02s01.rpy:264
 translate chinese e02s01_b28f16bf:
 
     # mh "Alright."
-    mh "Alright."
+    mh "好吧。"
 
 # game/code/e02/e02s01.rpy:274
 translate chinese e02s01_hot_bath_31a3613b:
 
     # mh "It's not bad, right?"
-    mh "It's not bad, right?"
+    mh "还不错吧？"
 
 # game/code/e02/e02s01.rpy:276
 translate chinese e02s01_hot_bath_03703d1f:
 
     # mc "The wine or the hot tub?"
-    mc "The wine or the hot tub?"
+    mc "你是说红酒还是热水池？"
 
 # game/code/e02/e02s01.rpy:277
 translate chinese e02s01_hot_bath_eb8dbf96:
 
     # mh "The hot tub."
-    mh "The hot tub."
+    mh "热水池。"
 
 # game/code/e02/e02s01.rpy:280
 translate chinese e02s01_hot_bath_875c06c3:
 
     # mc "Are you implying I'm not a seasoned sommelier? Like I wouldn't know my way around wine tasting."
-    mc "Are you implying I'm not a seasoned sommelier? Like I wouldn't know my way around wine tasting."
+    mc "你是在暗示我不是个经验丰富的侍酒师吗？就好像我不懂品酒一样。"
 
 # game/code/e02/e02s01.rpy:282
 translate chinese e02s01_hot_bath_d913ce8b:
 
     # mh "If you do, then that's good, because I want to try more wine."
-    mh "If you do, then that's good, because I want to try more wine."
+    mh "你知道的话就好了，因为我想尝试更多的酒。"
 
 # game/code/e02/e02s01.rpy:285
 translate chinese e02s01_hot_bath_6ff466be:
 
     # mc "Wine is an expensive hobby."
-    mc "Wine is an expensive hobby."
+    mc "喝酒是一个很昂贵的爱好。"
 
 # game/code/e02/e02s01.rpy:287
 translate chinese e02s01_hot_bath_9485771e:
 
     # mh "Every hobby is an expensive hobby nowadays."
-    mh "Every hobby is an expensive hobby nowadays."
+    mh "现在每个爱好都是昂贵的。"
 
 # game/code/e02/e02s01.rpy:288
 translate chinese e02s01_hot_bath_fbca3276:
