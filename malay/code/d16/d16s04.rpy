@@ -16,7 +16,7 @@ translate malay d16s04_010937cb:
 translate malay d16s04_8dd003ce:
 
     # mct "Not a lot of people today.{w} Guess I'm early."
-    mct "TAk ramai pula orang hari ini. {w}Rasanya aku sampai awal."
+    mct "Tak ramai pula orang hari ini. {w}Rasanya aku sampai awal."
 
 # game/code/d16/d16s04.rpy:33
 translate malay d16s04_669664cb:
@@ -178,13 +178,13 @@ translate malay d16s04_f9bd9711:
 translate malay d16s04_a9e6c441:
 
     # mes "And it's been...interesting imagining this all out in my mind. You could even say it's been fun."
-    mes "Dan sudah...menarik membayangkan semua ini terlintas di fikiran saya. Anda juga boleh mengatakan ia menyeronokkan."
+    mes "Dan sudah... menarik membayangkan semua ini terlintas di fikiran aku. Kau juga boleh kata ianya menyeronokkan."
 
 # game/code/d16/d16s04.rpy:80
 translate malay d16s04_8a277c5d:
 
     # mc "Wow, well, I'm glad you're having fun."
-    mc "Wow, well, aku gembira kau berseronok."
+    mc "Huh, aku gembira kau berseronok."
 
 # game/code/d16/d16s04.rpy:81
 translate malay d16s04_37f88c26:
@@ -298,7 +298,7 @@ translate malay d16s04_869fb62d:
 translate malay d16s04_6d1546a5:
 
     # kb "Hey! [mcname]. Sup, man?"
-    kb "Hey! [mcname]. Apa khabar dengan kau?"
+    kb "Hey! [mcname]. Kau apa khabar?"
 
 # game/code/d16/d16s04.rpy:121
 translate malay d16s04_ce5b0bbc:
@@ -382,7 +382,7 @@ translate malay d16s04_e75ae87c:
 translate malay d16s04_0f8a42f8:
 
     # kb "Not to mention poor Chloe would be pretty bummed, and I can't do that to her."
-    kb "Apatah lagi nanti Chloe yang malang akan sangat kecewa, dan aku tak boleh berbuat demikian kepadanya."
+    kb "Apatah lagi nanti Chloe yang malang akan sangat kecewa, dan aku tak boleh buat macam tu dekat dia."
 
 # game/code/d16/d16s04.rpy:147
 translate malay d16s04_ae2cd861:
@@ -394,7 +394,7 @@ translate malay d16s04_ae2cd861:
 translate malay d16s04_97a27c91:
 
     # mc "Last we met, I uh..."
-    mc "Terakhir kita berjumpa, aku uh..."
+    mc "Kali terakhir kita berjumpa, aku uh..."
 
 # game/code/d16/d16s04.rpy:152
 translate malay d16s04_d0d3fcff:
@@ -448,7 +448,7 @@ translate malay d16s04_e990ba22:
 translate malay d16s04_bf42f129:
 
     # mc "Only time will tell."
-    mc "Hanya masa yang akan menentukan."
+    mc "Hanya masa yang akan beritahu."
 
 # game/code/d16/d16s04.rpy:165
 translate malay d16s04_7815532d:
@@ -514,7 +514,7 @@ translate malay d16s04_e8c5af83:
 translate malay d16s04_fc6ccd1f:
 
     # kb "A day's gon' come where you have to suck a creampie—maybe even your own, I ain't judging—from the ass and/or pussy of a person you love, and I want you to remember your old pal Kevo when it happens."
-    kb "Suatu hari akan tiba di mana kau kena menghisap cerampie—mungkin juga milik kau, aku tak menilai—daripada bontot dan/atau pepek orang yang kau sayangi, dan aku nak kau mengingati kawan lama kau Kevo apabila ia berlaku."
+    kb "Suatu hari akan tiba di mana kau kena menghisap cerampie— mungkin juga milik kau, aku tak menilai—daripada bontot dan/atau pepek orang yang kau sayangi, dan aku nak kau mengingati kawan lama kau Kevo apabila ia berlaku."
 
 # game/code/d16/d16s04.rpy:182
 translate malay d16s04_7c3a755d:
@@ -532,7 +532,7 @@ translate malay d16s04_d6d6c7d8:
 translate malay d16s04_618fb559:
 
     # kb "Pretty good. Great even. God, I love that woman."
-    kb "Cukup bagus. Hebat juga. Oh aku suka perempuan itu."
+    kb "Cukup bagus. Hebat juga. Oh, aku suka perempuan itu."
 
 # game/code/d16/d16s04.rpy:188
 translate malay d16s04_13b86c32:
@@ -562,13 +562,13 @@ translate malay d16s04_72d80bea:
 translate malay d16s04_1f4fa4b2:
 
     # kb "It's just that I always think that she isn't going to be into the shit I'm into, but nope. She just goes along with whatever."
-    kb "Cuma aku selalu berfikir yang dia tak akan menyukai perkara yang aku suka, tapi tidak. Dia hanya terus lakukannya."
+    kb "Cuma aku selalu berfikir yang dia tak akan menyukai perkara yang aku suka, tapi tak. Dia hanya terus lakukannya."
 
 # game/code/d16/d16s04.rpy:195
 translate malay d16s04_33375ec5:
 
     # kb "I love how open minded she is about stuff."
-    kb "Saya suka betapa terbukanya dia tentang perkara."
+    kb "Aku suka betapa terbukanya dia tentang perkara."
 
 # game/code/d16/d16s04.rpy:196
 translate malay d16s04_953e3e62:
@@ -622,7 +622,7 @@ translate malay d16s04_09dcb738:
 translate malay d16s04_9f3a4ad8:
 
     # mc "Are you in the retention program?"
-    mc "Adakah anda dalam program pengekalan?"
+    mc "Kau dalam program pengekalan?"
 
 # game/code/d16/d16s04.rpy:217
 translate malay d16s04_9c47bf8b:
@@ -688,7 +688,7 @@ translate malay d16s04_0b3991e2:
 translate malay d16s04_deb4948d:
 
     # kb "The main criteria is that what you're doing has to be pretty unique and out there."
-    kb "Kriteria utama ialah apa yang anda lakukan mestilah agak unik dan di luar sana."
+    kb "Kriteria utama ialah apa yang kau lakukan mestilah agak unik dan di luar sana."
 
 # game/code/d16/d16s04.rpy:238
 translate malay d16s04_bf750554:
@@ -748,7 +748,7 @@ translate malay d16s04_3d8d5fdd:
 translate malay d16s04_cb724e06:
 
     # mct "What does this mean? Has the function of the Stars changed?"
-    mct "Apakah maksud ini? Adakah fungsi Bintang telah berubah?"
+    mct "Apa maksudnya? Adakah fungsi Bintang telah berubah?"
 
 # game/code/d16/d16s04.rpy:257
 translate malay d16s04_51f10828:
@@ -760,7 +760,7 @@ translate malay d16s04_51f10828:
 translate malay d16s04_f0193a30:
 
     # kb "You alright, man?"
-    kb "Kau okay?"
+    kb "Kau okay? Jauh termenung..."
 
 # game/code/d16/d16s04.rpy:261
 translate malay d16s04_437c9daa:
@@ -820,7 +820,7 @@ translate malay d16s04_9a7fe382:
 translate malay d16s04_faa5165f:
 
     # mct "But I can end this!"
-    mct "Tapi aku boleh menamatkan ini!"
+    mct "Tapi aku boleh tamatkan ini!"
 
 # game/code/d16/d16s04.rpy:284
 translate malay d16s04_0c7bd4c0:
@@ -898,7 +898,7 @@ translate malay d16s04_c6fdd931:
 translate malay d16s04_a72857c3:
 
     # mc "You talking about the Gold Stars made me think and uh... yep."
-    mc "kau bercakap tentang Bintang Emas membuatkan aku berfikir dan uh... yep."
+    mc "Kau bercakap tentang Bintang Emas buatkan aku berfikir dan uh... yep."
 
 # game/code/d16/d16s04.rpy:320
 translate malay d16s04_579a9020:
@@ -958,7 +958,7 @@ translate malay d16s04_9d8390ca:
 translate malay d16s04_cccf76b8:
 
     # mc "No problem. Reduce, reuse, recycle, right?"
-    mc "Tiada masalah. Kurangkan, guna semula, kitar semula, kan?"
+    mc "Tak ada masalah. Kurangkan, guna semula, kitar semula, kan?"
 
 # game/code/d16/d16s04.rpy:350
 translate malay d16s04_17ee4e25:
@@ -1066,7 +1066,7 @@ translate malay d16s04_aa9d576a:
 translate malay d16s04_1bd45c8f:
 
     # sy "Ok well I got a thing I gotta go to."
-    sy "Ok, saya ada benda yang perlu aku pergi."
+    sy "Ok, aku ada benda yang perlu aku pergi."
 
 # game/code/d16/d16s04.rpy:389
 translate malay d16s04_b0435d59:
@@ -1182,7 +1182,7 @@ translate malay strings:
 
     # game/code/d16/d16s04.rpy:406
     old "I'll be over"
-    new "Datang nanti"
+    new "Nanti Datang"
 
     # game/code/d16/d16s04.rpy:406
     old "I won't be able to come"
@@ -1194,41 +1194,40 @@ translate malay strings:
 translate malay d16s04_be6b3495:
 
     # mc "Are you in the VIP program?"
-    mc "Are you in the VIP program?"
+    mc "Kau ada dalam program VIP??"
 
 # game/code/d16/d16s04.rpy:351
 translate malay d16s04_694ebda1:
 
     # mct "It seems like the Gold Stars for the VIP program was a beta test or something."
-    mct "It seems like the Gold Stars for the VIP program was a beta test or something."
+    mct "Nampaknya Bintang Emas untuk program VIP adalah ujian beta atau sesuatu."
 
 # game/code/d16/d16s04.rpy:358
 translate malay d16s04_637b7c7b:
 
     # mct "FL told me that I can use the Gold Stars to skip a challenge, but maybe that has changed now?"
-    mct "FL told me that I can use the Gold Stars to skip a challenge, but maybe that has changed now?"
+    mct "FL beritahu aku yang aku boleh menggunakan Bintang Emas untuk melangkau cabaran, tapi mungkin itu dah berubah sekarang?"
 
 # game/code/d16/d16s04.rpy:360
 translate malay d16s04_92e0675f:
 
     # mct "FL told me that I can use the Gold Stars to skip the punishment, but maybe that has changed now?"
-    mct "FL told me that I can use the Gold Stars to skip the punishment, but maybe that has changed now?"
+    mct "FL beritahu aku yang aku boleh menggunakan Bintang Emas untuk melangkau hukuman, tetapi mungkin itu dah berubah sekarang?"
 
 # game/code/d16/d16s04.rpy:386
 translate malay d16s04_aa4b18fa:
 
     # mct "Says here that I have one ongoing challenge and that I can reduce the length of it for three Gold Stars!"
-    mct "Says here that I have one ongoing challenge and that I can reduce the length of it for three Gold Stars!"
+    mct "Dekat sini ada kata yang aku aku ada satu cabaran yang berterusan dan aku boleh mengurangkan tempohnya untuk tiga Bintang Emas!"
 
 # game/code/d16/d16s04.rpy:392
 translate malay d16s04_b746fd4f:
 
     # mct "And apparently I've gone through this challenge long enough that I could end it right now!"
-    mct "And apparently I've gone through this challenge long enough that I could end it right now!"
+    mct "Dan nampaknya aku telah melalui cabaran ini cukup lama sehingga aku boleh tamatkannya sekarang!"
 
 # game/code/d16/d16s04.rpy:445
 translate malay d16s04_f1376ad1:
 
     # mc "I failed a challenge from FL. This was my new challenge."
-    mc "I failed a challenge from FL. This was my new challenge."
-
+    mc "Aku gagal satu cabaran dari FL. Ini adalah cabaran baru aku."
