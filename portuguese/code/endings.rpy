@@ -86,3 +86,15 @@ translate portuguese strings:
     old "Ending #18\nQuartet"
     new "Final #18\nQuarteto"
 
+# TODO: Translation updated at 2023-05-13 22:33
+
+translate portuguese strings:
+
+    # game/code/endings.rpy:49
+    old "Ending #4\nMy Sex Dungeon"
+    new ""
+
+    # game/code/endings.rpy:169
+    old "Ending #12\nRedhead Resort"
+    new ""
+

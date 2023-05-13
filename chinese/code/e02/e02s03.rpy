@@ -860,3 +860,11 @@ translate chinese strings:
     old "That was amazing"
     new "That was amazing"
 
+# TODO: Translation updated at 2023-05-13 23:00
+
+# game/code/e02/e02s03.rpy:298
+translate chinese e02s03_lodge_64ffe7e5:
+
+    # mh "Oh, how romantic. And I about to be dominated... like a beast in wild?"
+    mh "Oh, how romantic. And I about to be dominated... like a beast in wild?"
+

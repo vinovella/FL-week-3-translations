@@ -1604,3 +1604,11 @@ translate portuguese strings:
     old "The Next Day"
     new "O Próximo Dia"
 
+# TODO: Translation updated at 2023-05-13 22:33
+
+# game/code/e06/e06s02.rpy:64
+translate portuguese e06s02_40511e6c:
+
+    # "*knock knock*"
+    ""
+

@@ -1306,3 +1306,23 @@ translate chinese strings:
     old "Just give them some advice"
     new "Just give them some advice"
 
+# TODO: Translation updated at 2023-05-13 23:00
+
+# game/code/e02/e02s06.rpy:317
+translate chinese e02s06_experiment_d8b5fe3c:
+
+    # mc "I think a gal like you likes a little danger..."
+    mc "I think a gal like you likes a little danger..."
+
+# game/code/e02/e02s06.rpy:326
+translate chinese e02s06_experiment_80379bdf:
+
+    # fc "No ma'am.{w} Can I give it a whirl?"
+    fc "No ma'am.{w} Can I give it a whirl?"
+
+# game/code/e02/e02s06.rpy:343
+translate chinese e02s06_experiment_aa4fa88f:
+
+    # ac "I got real wet thinking about showing it off for you, [mcname]."
+    ac "I got real wet thinking about showing it off for you, [mcname]."
+

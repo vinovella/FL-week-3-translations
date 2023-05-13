@@ -1306,3 +1306,23 @@ translate portuguese strings:
     old "Just give them some advice"
     new "Apenas aconselhá-los"
 
+# TODO: Translation updated at 2023-05-13 22:33
+
+# game/code/e02/e02s06.rpy:317
+translate portuguese e02s06_experiment_d8b5fe3c:
+
+    # mc "I think a gal like you likes a little danger..."
+    mc ""
+
+# game/code/e02/e02s06.rpy:326
+translate portuguese e02s06_experiment_80379bdf:
+
+    # fc "No ma'am.{w} Can I give it a whirl?"
+    fc ""
+
+# game/code/e02/e02s06.rpy:343
+translate portuguese e02s06_experiment_aa4fa88f:
+
+    # ac "I got real wet thinking about showing it off for you, [mcname]."
+    ac ""
+
