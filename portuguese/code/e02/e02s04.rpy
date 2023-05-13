@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-13 22:33
+﻿# TODO: Translation updated at 2023-05-13 23:03
 
 # game/code/e02/e02s04.rpy:12
 translate portuguese e02s04_fa7cdc9b:
@@ -115,9 +115,9 @@ translate portuguese e02s04_427cce14:
     mc ""
 
 # game/code/e02/e02s04.rpy:61
-translate portuguese e02s04_4dcd4033:
+translate portuguese e02s04_cdd817d4:
 
-    # mh "Flattery works bed, but it will not get you into my office."
+    # mh "Flattery works in bed, but it will not get you into my office."
     mh ""
 
 # game/code/e02/e02s04.rpy:64
@@ -163,9 +163,9 @@ translate portuguese e02s04_photo_bbdf5b32:
     mh ""
 
 # game/code/e02/e02s04.rpy:90
-translate portuguese e02s04_photo_e92a29ac:
+translate portuguese e02s04_photo_8831022a:
 
-    # ap "Oh I'm so sorry. My wife meant to take a photo of me, but I think I moved to the side too much."
+    # ap "Oh I'm so sorry. My wife asked to take a photo of her but my aim was off."
     ap ""
 
 # game/code/e02/e02s04.rpy:92
@@ -253,9 +253,9 @@ translate portuguese e02s04_photo_a73f30b7:
     atp ""
 
 # game/code/e02/e02s04.rpy:136
-translate portuguese e02s04_photo_5d586bfb:
+translate portuguese e02s04_photo_9dc3bfdf:
 
-    # mh "So, what was this? You were going to post a scoop of me while I'm on vacation with my boyfriend?"
+    # mh "So, what was this? You were going to post a scoop of me while I'm on vacation?"
     mh ""
 
 # game/code/e02/e02s04.rpy:139
@@ -361,21 +361,21 @@ translate portuguese e02s04_photo_0bb4aecf:
     atp ""
 
 # game/code/e02/e02s04.rpy:179
-translate portuguese e02s04_photo_1d2edc76:
+translate portuguese e02s04_photo_39efc70a:
 
-    # atp "But then I realized it was you and I thought..."
+    # atp "But {i}then{/i} I realized it was you and I thought..."
     atp ""
 
 # game/code/e02/e02s04.rpy:180
-translate portuguese e02s04_photo_048d423b:
+translate portuguese e02s04_photo_1b1c21ae:
 
-    # atp "But you're on vacation and I didn't want to bother you but I've wanted to meet you so I just snapped a picture."
+    # atp "{i}But{/i} you're on vacation and I didn't want to bother you but I've wanted to meet you so I told Alexander to get your attention."
     atp ""
 
 # game/code/e02/e02s04.rpy:183
-translate portuguese e02s04_photo_8dd4e603:
+translate portuguese e02s04_photo_21dcdaaf:
 
-    # mc "Yeah, that sounds like panic, Angela."
+    # mc "Sounds a little strange, Angela."
     mc ""
 
 # game/code/e02/e02s04.rpy:186
@@ -439,15 +439,15 @@ translate portuguese e02s04_fireplace_8ee9cd18:
     mh ""
 
 # game/code/e02/e02s04.rpy:220
-translate portuguese e02s04_fireplace_b5b41ff7:
+translate portuguese e02s04_fireplace_20d2e621:
 
-    # atp "How do they not care? When I have told people, their best reactions were blank stares."
+    # atp "How do they not care? I've had people just give me blank stares when I told them."
     atp ""
 
 # game/code/e02/e02s04.rpy:221
-translate portuguese e02s04_fireplace_3f658717:
+translate portuguese e02s04_fireplace_e4778d74:
 
-    # atp "Some days I wish I never told anyone. I feel now people judge me on that instead of my work."
+    # atp "Some days I wish I kept it a secret. Some people started acting different to me at work."
     atp ""
 
 # game/code/e02/e02s04.rpy:222
@@ -553,9 +553,9 @@ translate portuguese e02s04_fireplace_37e82bf7:
     ap ""
 
 # game/code/e02/e02s04.rpy:266
-translate portuguese e02s04_fireplace_8c1cc307:
+translate portuguese e02s04_fireplace_012064ef:
 
-    # atp "His comes out a lot when I shove a dildo up his ass."
+    # atp "His 'golden voice' comes out a lot when I shove a dildo up his ass."
     atp ""
 
 # game/code/e02/e02s04.rpy:269
@@ -565,9 +565,9 @@ translate portuguese e02s04_fireplace_9d16da61:
     ap ""
 
 # game/code/e02/e02s04.rpy:272
-translate portuguese e02s04_fireplace_9cf21ae6:
+translate portuguese e02s04_fireplace_6a632e20:
 
-    # atp "What? I was running out of topics to talk about."
+    # atp "What? I was running out of things to talk about."
     atp ""
 
 # game/code/e02/e02s04.rpy:275
@@ -589,9 +589,9 @@ translate portuguese e02s04_fireplace_c18d7515:
     ap ""
 
 # game/code/e02/e02s04.rpy:282
-translate portuguese e02s04_fireplace_70f67f90:
+translate portuguese e02s04_fireplace_b148fed4:
 
-    # ap "I mean you two seem nice but I'm sure you don't want to hear about our sex life."
+    # ap "I mean you two seem nice but I'm sure you don't want to hear details like that."
     ap ""
 
 # game/code/e02/e02s04.rpy:285
@@ -667,9 +667,9 @@ translate portuguese e02s04_fireplace_1efb1360:
     ap ""
 
 # game/code/e02/e02s04.rpy:320
-translate portuguese e02s04_fireplace_4f007acd:
+translate portuguese e02s04_fireplace_10ec4b3f:
 
-    # mct "Okay. I got the feeling these two were a bit high-strung, but this is something else."
+    # mct "Wow. I got the feeling these two were a bit high-strung, but this is something else."
     mct ""
 
 # game/code/e02/e02s04.rpy:323
@@ -691,9 +691,9 @@ translate portuguese e02s04_fireplace_6b4192ff:
     atp ""
 
 # game/code/e02/e02s04.rpy:330
-translate portuguese e02s04_fireplace_1fd987d5:
+translate portuguese e02s04_fireplace_bc655e72:
 
-    # ap "That's not what I said. This... this is why I wanted us to come."
+    # ap "That's not what I said. This- *sighs* This is why I wanted us to come."
     ap ""
 
 # game/code/e02/e02s04.rpy:332
@@ -715,63 +715,63 @@ translate portuguese e02s04_fireplace_c2eb23fc:
     atp ""
 
 # game/code/e02/e02s04.rpy:339
-translate portuguese e02s04_fireplace_867a9a44:
+translate portuguese e02s04_fireplace_cf283332:
 
-    # mc "So I was thinking, maybe we go play another round of chess."
+    # mc "{size=-10}*whispers* So I was thinking, maybe we go play another round of chess.{/size}"
     mc ""
 
 # game/code/e02/e02s04.rpy:342
-translate portuguese e02s04_fireplace_1a6dfb04:
+translate portuguese e02s04_fireplace_8669d6dd:
 
-    # mh "I'm not really in the mood to play games."
+    # mh "{size=-10}*whispers* I'm not really in the mood to play games.{/size}"
     mh ""
 
 # game/code/e02/e02s04.rpy:345
-translate portuguese e02s04_fireplace_c825d33b:
+translate portuguese e02s04_fireplace_19f85401:
 
-    # mc "Well how about at least we go to our cabin. You know..."
+    # mc "{size=-10}*whispers* Well how about at least we go to our cabin. You know...{/size}"
     mc ""
 
 # game/code/e02/e02s04.rpy:346
-translate portuguese e02s04_fireplace_cd90c9c9:
+translate portuguese e02s04_fireplace_0e37059a:
 
-    # mct "...away from them."
+    # mct "{size=-10}..away from them.{/size}"
     mct ""
 
 # game/code/e02/e02s04.rpy:348
-translate portuguese e02s04_fireplace_631057df:
+translate portuguese e02s04_fireplace_f35d9d98:
 
-    # mh "I want to help."
+    # mh "{size=-10}*whispers* I want to help.{/size}"
     mh ""
 
 # game/code/e02/e02s04.rpy:349
-translate portuguese e02s04_fireplace_2b35b6fe:
+translate portuguese e02s04_fireplace_62103bcb:
 
-    # mc "..."
+    # mc "{size=-10}...{/size}"
     mc ""
 
 # game/code/e02/e02s04.rpy:352
-translate portuguese e02s04_fireplace_fa767a02:
+translate portuguese e02s04_fireplace_4bdbcff8:
 
-    # mh "[mcname]"
+    # mh "{size=-10}*whispers* [mcname].{/size}"
     mh ""
 
 # game/code/e02/e02s04.rpy:355
-translate portuguese e02s04_fireplace_c6ba0853:
+translate portuguese e02s04_fireplace_7f5e570f:
 
-    # mc "Huh? Sorry I think my mind broke. Help them?"
+    # mc "{size=-10}*whispers* Don't they seem beyond help?{/size}"
     mc ""
 
 # game/code/e02/e02s04.rpy:357
-translate portuguese e02s04_fireplace_047b8682:
+translate portuguese e02s04_fireplace_b8f60720:
 
-    # mh "No one is beyond help."
+    # mh "{size=-10}*whispers* No one is beyond help.{/size}"
     mh ""
 
 # game/code/e02/e02s04.rpy:360
-translate portuguese e02s04_fireplace_baacd30c:
+translate portuguese e02s04_fireplace_a5d57ad0:
 
-    # mc "Okay... so how exactly would we help?"
+    # mc "{size=-10}*whispers* Okay... so how exactly would we help?{/size}"
     mc ""
 
 # game/code/e02/e02s04.rpy:362
@@ -829,9 +829,9 @@ translate portuguese e02s04_fireplace_3273322b:
     atp ""
 
 # game/code/e02/e02s04.rpy:378
-translate portuguese e02s04_fireplace_bb1b777e:
+translate portuguese e02s04_fireplace_7e6c4867:
 
-    # ap "This will be different. We'd both agree to this instead of you signing us both up for something without asking me."
+    # ap "This will be different. We'd both agree to this instead of you signing us for something without asking me."
     ap ""
 
 # game/code/e02/e02s04.rpy:380
@@ -996,523 +996,535 @@ translate portuguese e02s04_fireplace_7761144d:
     # atp "I guess we'll see."
     atp ""
 
-# game/code/e02/e02s04.rpy:453
+# game/code/e02/e02s04.rpy:433
+translate portuguese e02s04_fireplace_22ef3819:
+
+    # mh "To our room?"
+    mh ""
+
+# game/code/e02/e02s04.rpy:434
+translate portuguese e02s04_fireplace_0967b47e:
+
+    # mc "You read my mind."
+    mc ""
+
+# game/code/e02/e02s04.rpy:454
 translate portuguese e02s04_next_day_5024f954:
 
     # mh "Mmm. What time is it?"
     mh ""
 
-# game/code/e02/e02s04.rpy:456
+# game/code/e02/e02s04.rpy:457
 translate portuguese e02s04_next_day_14ba5475:
 
     # mc "Early. But I already feel fully rested. {w}These beds are amazing."
     mc ""
 
-# game/code/e02/e02s04.rpy:458
+# game/code/e02/e02s04.rpy:459
 translate portuguese e02s04_next_day_ac3b5b40:
 
     # mh "Mmmhmm."
     mh ""
 
-# game/code/e02/e02s04.rpy:461
+# game/code/e02/e02s04.rpy:462
 translate portuguese e02s04_next_day_2183183a:
 
     # mc "I know you don't want to talk about work. But I've got some pretty intense messages from Oliver on here."
     mc ""
 
-# game/code/e02/e02s04.rpy:463
+# game/code/e02/e02s04.rpy:464
 translate portuguese e02s04_next_day_ea0d1bf8:
 
     # mh "Did he say which case is giving him trouble?"
     mh ""
 
-# game/code/e02/e02s04.rpy:466
+# game/code/e02/e02s04.rpy:467
 translate portuguese e02s04_next_day_393a0407:
 
     # mc "He says it's privileged information. Not for my peasant eyes."
     mc ""
 
-# game/code/e02/e02s04.rpy:469
+# game/code/e02/e02s04.rpy:470
 translate portuguese e02s04_next_day_12a093f5:
 
     # mh "I haven't taken a real vacation in forever. {w}Can it {i}really{/i} be that important?"
     mh ""
 
-# game/code/e02/e02s04.rpy:472
-translate portuguese e02s04_next_day_d1051f29:
+# game/code/e02/e02s04.rpy:473
+translate portuguese e02s04_next_day_ab5dc583:
 
-    # mc "Oliver knows that. I don't think he'd go to this much effort if it wasn't important, Lyssa."
+    # mc "I don't think he'd go to this much effort if it wasn't important, Lyssa."
     mc ""
 
-# game/code/e02/e02s04.rpy:475
+# game/code/e02/e02s04.rpy:476
 translate portuguese e02s04_next_day_241fc11e:
 
     # mh "Okay. Alright, I'll call him tomorrow. Let me borrow your phone."
     mh ""
 
-# game/code/e02/e02s04.rpy:477
+# game/code/e02/e02s04.rpy:478
 translate portuguese e02s04_next_day_ec742939:
 
     # mh "That does appear to be an above average amount of text messages."
     mh ""
 
-# game/code/e02/e02s04.rpy:479
+# game/code/e02/e02s04.rpy:480
 translate portuguese e02s04_next_day_473f6d41:
 
     # mc "Yup."
     mc ""
 
-# game/code/e02/e02s04.rpy:482
+# game/code/e02/e02s04.rpy:483
 translate portuguese e02s04_next_day_d6d5d5a1:
 
     # mh "I'll text him now."
     mh ""
 
-# game/code/e02/e02s04.rpy:483
+# game/code/e02/e02s04.rpy:484
 translate portuguese e02s04_next_day_ce8dad45:
 
     # mh "Hey Oliver. This is Lyssa. Call you tomorrow."
     mh ""
 
-# game/code/e02/e02s04.rpy:485
+# game/code/e02/e02s04.rpy:486
 translate portuguese e02s04_next_day_5b48782b:
 
     # mh "Done. I hope that didn't spoil things."
     mh ""
 
-# game/code/e02/e02s04.rpy:486
-translate portuguese e02s04_next_day_e63040ed:
+# game/code/e02/e02s04.rpy:487
+translate portuguese e02s04_next_day_c3121cc0:
 
-    # mh "The more I step back into the work pool, the more my brain will leave vacation mountain."
+    # mh "The more I step back into the work lake, the more my brain will leave vacation mountain."
     mh ""
 
-# game/code/e02/e02s04.rpy:489
+# game/code/e02/e02s04.rpy:490
 translate portuguese e02s04_next_day_4b9c519b:
 
     # mc "You're fine, Lyssa. A little work distraction is nothing compared to the distraction from yesterday."
     mc ""
 
-# game/code/e02/e02s04.rpy:492
+# game/code/e02/e02s04.rpy:493
 translate portuguese e02s04_next_day_5a8bf385:
 
     # mh "It was distracting. But... I kind of enjoyed it. Offering them some pointers."
     mh ""
 
-# game/code/e02/e02s04.rpy:495
+# game/code/e02/e02s04.rpy:496
 translate portuguese e02s04_next_day_c83ce422:
 
     # mc "You certainly got into your element."
     mc ""
 
-# game/code/e02/e02s04.rpy:498
+# game/code/e02/e02s04.rpy:499
 translate portuguese e02s04_next_day_aed80020:
 
     # mh "We both did. Do you think it helped them? Angela and Alexander."
     mh ""
 
-# game/code/e02/e02s04.rpy:501
+# game/code/e02/e02s04.rpy:502
 translate portuguese e02s04_next_day_c1b7a06d:
 
     # mc "I don't think it could hurt. Man, can you imagine coming all this way out there for some special couples therapy and the therapist doesn't make it?"
     mc ""
 
-# game/code/e02/e02s04.rpy:502
+# game/code/e02/e02s04.rpy:503
 translate portuguese e02s04_next_day_58ab3709:
 
     # mc "Talk about bad luck."
     mc ""
 
-# game/code/e02/e02s04.rpy:505
+# game/code/e02/e02s04.rpy:506
 translate portuguese e02s04_next_day_a8f92618:
 
     # mh "Mmm. Maybe it was meant to be..."
     mh ""
 
-# game/code/e02/e02s04.rpy:508
+# game/code/e02/e02s04.rpy:509
 translate portuguese e02s04_next_day_9413fd35:
 
     # mc "I know that look, what are you up to, Lyssa?"
     mc ""
 
-# game/code/e02/e02s04.rpy:511
+# game/code/e02/e02s04.rpy:512
 translate portuguese e02s04_next_day_e97e8df6:
 
     # mh "I'll tell you on the way, but first we need to shower."
     mh ""
 
-# game/code/e02/e02s04.rpy:514
+# game/code/e02/e02s04.rpy:515
 translate portuguese e02s04_next_day_5aab8d3f:
 
     # mc "Okay, I like where this is going so far."
     mc ""
 
-# game/code/e02/e02s04.rpy:539
+# game/code/e02/e02s04.rpy:525
+translate portuguese e02s04_next_day_54319235:
+
+    # mh "Shower time, Baby."
+    mh ""
+
+# game/code/e02/e02s04.rpy:540
 translate portuguese e02s04_next_day_2_2383f5da:
 
     # mh "Well well well, I see we have visitors."
     mh ""
 
-# game/code/e02/e02s04.rpy:542
+# game/code/e02/e02s04.rpy:543
 translate portuguese e02s04_next_day_2_4952c290:
 
     # mc "Hi. Can we help you?"
     mc ""
 
-# game/code/e02/e02s04.rpy:545
+# game/code/e02/e02s04.rpy:546
 translate portuguese e02s04_next_day_2_79cbd550:
 
     # ms "Hello. We're in the next cabin over. I'm Mikaela and this is Dorothy."
     ms ""
 
-# game/code/e02/e02s04.rpy:546
+# game/code/e02/e02s04.rpy:547
 translate portuguese e02s04_next_day_2_3a19e63d:
 
     # ms "Dorothy wanted to talk to you later, but I was hoping to catch you before you hit the slopes."
     ms ""
 
-# game/code/e02/e02s04.rpy:549
-translate portuguese e02s04_next_day_2_7e6df767:
+# game/code/e02/e02s04.rpy:550
+translate portuguese e02s04_next_day_2_2dd956e3:
 
-    # mct "Lyssa loves to start conversations..."
-    mct ""
+    # mc "Nice to meet you two."
+    mc ""
 
-# game/code/e02/e02s04.rpy:552
+# game/code/e02/e02s04.rpy:553
 translate portuguese e02s04_next_day_2_b49038fa:
 
     # mh "I'm Lyssa and this is my boyfriend. Let's get in from the cold."
     mh ""
 
-# game/code/e02/e02s04.rpy:555
+# game/code/e02/e02s04.rpy:556
 translate portuguese e02s04_next_day_2_b1876f9d:
 
     # mh "Everything alright, Mikaela?"
     mh ""
 
-# game/code/e02/e02s04.rpy:558
+# game/code/e02/e02s04.rpy:559
 translate portuguese e02s04_next_day_2_804b5fbe:
 
     # ms "Hmmm. Yup. I thought so."
     ms ""
 
-# game/code/e02/e02s04.rpy:561
+# game/code/e02/e02s04.rpy:562
 translate portuguese e02s04_next_day_2_9cf607e4:
 
     # mh "What?"
     mh ""
 
-# game/code/e02/e02s04.rpy:563
+# game/code/e02/e02s04.rpy:564
 translate portuguese e02s04_next_day_2_361c3ae6:
 
     # dn "You two got the best cabin."
     dn ""
 
-# game/code/e02/e02s04.rpy:566
+# game/code/e02/e02s04.rpy:567
 translate portuguese e02s04_next_day_2_10c8a3cf:
 
     # mc "Aren't they all the same layout?"
     mc ""
 
-# game/code/e02/e02s04.rpy:569
+# game/code/e02/e02s04.rpy:570
 translate portuguese e02s04_next_day_2_8a465964:
 
     # ms "Same layout, but ours keep getting hit with the wind. It's built secure enough, but that cold likes to sneak in through the walls."
     ms ""
 
-# game/code/e02/e02s04.rpy:570
+# game/code/e02/e02s04.rpy:571
 translate portuguese e02s04_next_day_2_e054e66b:
 
     # ms "But it's fine. If we didn't have a cold cabin, we wouldn't enjoy the sauna so much."
     ms ""
 
-# game/code/e02/e02s04.rpy:573
+# game/code/e02/e02s04.rpy:574
 translate portuguese e02s04_next_day_2_d35c9ded:
 
     # dn "Mmhmm. That's true."
     dn ""
 
-# game/code/e02/e02s04.rpy:576
+# game/code/e02/e02s04.rpy:577
 translate portuguese e02s04_next_day_2_30d577e6:
 
     # mh "So, what brings you over this early?"
     mh ""
 
-# game/code/e02/e02s04.rpy:579
+# game/code/e02/e02s04.rpy:580
 translate portuguese e02s04_next_day_2_13ac55d8:
 
     # ms "We wanted to apologize for how we acted yesterday."
     ms ""
 
-# game/code/e02/e02s04.rpy:582
+# game/code/e02/e02s04.rpy:583
 translate portuguese e02s04_next_day_2_db4e95cc:
 
     # mh "I don't understand."
     mh ""
 
-# game/code/e02/e02s04.rpy:585
+# game/code/e02/e02s04.rpy:586
 translate portuguese e02s04_next_day_2_c7a8b484:
 
     # ms "That couple just couldn't leave you alone to enjoy your vacation."
     ms ""
 
-# game/code/e02/e02s04.rpy:588
+# game/code/e02/e02s04.rpy:589
 translate portuguese e02s04_next_day_2_918a84b7:
 
     # dn "We certainly could have stuck around and maybe given you an out."
     dn ""
 
-# game/code/e02/e02s04.rpy:591
+# game/code/e02/e02s04.rpy:592
 translate portuguese e02s04_next_day_2_a770b5e8:
 
     # mc "That's really nice of you to be concerned, but it wasn't all bad."
     mc ""
 
-# game/code/e02/e02s04.rpy:594
+# game/code/e02/e02s04.rpy:595
 translate portuguese e02s04_next_day_2_122f888f:
 
     # ms "Really? They weren't like stalking you or something?"
     ms ""
 
-# game/code/e02/e02s04.rpy:597
+# game/code/e02/e02s04.rpy:598
 translate portuguese e02s04_next_day_2_69036438:
 
     # mc "No. It was more of a misunderstanding. I mean, don't get me wrong, they're an interesting pair, but not jerks or anything like that."
     mc ""
 
-# game/code/e02/e02s04.rpy:600
-translate portuguese e02s04_next_day_2_c6877f15:
+# game/code/e02/e02s04.rpy:601
+translate portuguese e02s04_next_day_2_d64285b4:
 
-    # mh "Yes, we even ended up... ahem."
+    # mh "Yes, we even ended up... I guess you'd say we shared a few words of potential wisdom."
     mh ""
 
-# game/code/e02/e02s04.rpy:602
-translate portuguese e02s04_next_day_2_6485c2c6:
-
-    # mc "It was nothing much, just shared some words of wisdom."
-    mc ""
-
-# game/code/e02/e02s04.rpy:605
+# game/code/e02/e02s04.rpy:604
 translate portuguese e02s04_next_day_2_d7b95be3:
 
     # dn "Well, now you have to tell us what it was about."
     dn ""
 
-# game/code/e02/e02s04.rpy:607
+# game/code/e02/e02s04.rpy:606
 translate portuguese e02s04_next_day_2_7b881570:
 
     # ms "Totally. Hosts shouldn't tease their guests."
     ms ""
 
-# game/code/e02/e02s04.rpy:610
+# game/code/e02/e02s04.rpy:609
 translate portuguese e02s04_next_day_2_475e6bcc:
 
     # mh "They were curious about us because I am transgender. We ended up talking after that about our relationships."
     mh ""
 
-# game/code/e02/e02s04.rpy:613
+# game/code/e02/e02s04.rpy:612
 translate portuguese e02s04_next_day_2_88ec7067:
 
     # ms "And you two are comfortable... talking with people about their relationships?"
     ms ""
 
-# game/code/e02/e02s04.rpy:616
+# game/code/e02/e02s04.rpy:615
 translate portuguese e02s04_next_day_2_8a48ee7c:
 
     # mc "Hehe, well we're not usually super open around strangers, but everyone kept their clothes on."
     mc ""
 
-# game/code/e02/e02s04.rpy:618
+# game/code/e02/e02s04.rpy:617
 translate portuguese e02s04_next_day_2_dfc3c9f2:
 
     # mh "Mmhmm."
     mh ""
 
-# game/code/e02/e02s04.rpy:621
+# game/code/e02/e02s04.rpy:620
 translate portuguese e02s04_next_day_2_dee28fdc:
 
     # ms "Mind if I ask you something?"
     ms ""
 
-# game/code/e02/e02s04.rpy:623
+# game/code/e02/e02s04.rpy:622
 translate portuguese e02s04_next_day_2_10ee1c4d:
 
     # mh "Go ahead, I won't bite."
     mh ""
 
-# game/code/e02/e02s04.rpy:625
+# game/code/e02/e02s04.rpy:624
 translate portuguese e02s04_next_day_2_4cd089a0:
 
     # dn "Has your situation affected your sex life?"
     dn ""
 
-# game/code/e02/e02s04.rpy:628
+# game/code/e02/e02s04.rpy:627
 translate portuguese e02s04_next_day_2_67cd98ba:
 
     # mh "[mcname] and I have a very great relationship, despite whatever obstacles we may face, we overcome them through communication and love."
     mh ""
 
-# game/code/e02/e02s04.rpy:631
+# game/code/e02/e02s04.rpy:630
 translate portuguese e02s04_next_day_2_cc9b870d:
 
     # ms "That sounds wonderful."
     ms ""
 
-# game/code/e02/e02s04.rpy:632
+# game/code/e02/e02s04.rpy:631
 translate portuguese e02s04_next_day_2_d486cdaa:
 
     # ms "We actually came to Snowy Peaks to talk to a counselor about it, but he didn't make it."
     ms ""
 
-# game/code/e02/e02s04.rpy:635
+# game/code/e02/e02s04.rpy:634
 translate portuguese e02s04_next_day_2_d5ec033b:
 
     # mc "The other couple, they came to see him too."
     mc ""
 
-# game/code/e02/e02s04.rpy:638
+# game/code/e02/e02s04.rpy:637
 translate portuguese e02s04_next_day_2_ddbf3d42:
 
     # dn "Oh... that makes sense. Then maybe we should invite them to our next meeting."
     dn ""
 
-# game/code/e02/e02s04.rpy:640
+# game/code/e02/e02s04.rpy:639
 translate portuguese e02s04_next_day_2_fab20edd:
 
     # mh "Meeting?"
     mh ""
 
-# game/code/e02/e02s04.rpy:643
+# game/code/e02/e02s04.rpy:642
 translate portuguese e02s04_next_day_2_67eb1a57:
 
     # ms "Yes we met with Frank and Ashley - the Coopers. They're another couple here."
     ms ""
 
-# game/code/e02/e02s04.rpy:646
+# game/code/e02/e02s04.rpy:645
 translate portuguese e02s04_next_day_2_bc2013d6:
 
     # mc "Right, we met them earlier."
     mc ""
 
-# game/code/e02/e02s04.rpy:649
+# game/code/e02/e02s04.rpy:648
 translate portuguese e02s04_next_day_2_24c86245:
 
     # ms "That's great. Ever since we met them we've been having our own counseling sessions."
     ms ""
 
-# game/code/e02/e02s04.rpy:651
+# game/code/e02/e02s04.rpy:650
 translate portuguese e02s04_next_day_2_aeddc368:
 
     # dn "Just minus the counselor."
     dn ""
 
-# game/code/e02/e02s04.rpy:652
+# game/code/e02/e02s04.rpy:651
 translate portuguese e02s04_next_day_2_4b063db9:
 
     # ms "Maybe we don't need one. You two seem to have things figured out. Maybe... you could listen in and share some advice."
     ms ""
 
-# game/code/e02/e02s04.rpy:653
+# game/code/e02/e02s04.rpy:652
 translate portuguese e02s04_next_day_2_f387c7fb:
 
     # dn "Hmmm."
     dn ""
 
+# game/code/e02/e02s04.rpy:655
+translate portuguese e02s04_next_day_2_6ddfd566:
+
+    # ms "The meetings are nice and casual, very low presh."
+    ms ""
+
 # game/code/e02/e02s04.rpy:656
-translate portuguese e02s04_next_day_2_db49b112:
+translate portuguese e02s04_next_day_2_bd60aa95:
 
-    # ms "The meetings are nice and casual, but don't feel any pressure to stop by."
+    # ms "I'm sure Frank and Ashley would love to get your thoughts too!"
     ms ""
 
-# game/code/e02/e02s04.rpy:657
-translate portuguese e02s04_next_day_2_0d2acc82:
-
-    # ms "I'm sure Frank and Ashley would love to get your thoughts."
-    ms ""
-
-# game/code/e02/e02s04.rpy:660
+# game/code/e02/e02s04.rpy:659
 translate portuguese e02s04_next_day_2_9842eeae:
 
     # mh "We will certainly have to consider it."
     mh ""
 
-# game/code/e02/e02s04.rpy:663
+# game/code/e02/e02s04.rpy:662
 translate portuguese e02s04_next_day_2_99625c33:
 
     # dn "Great. We'll stay in touch."
     dn ""
 
-# game/code/e02/e02s04.rpy:671
+# game/code/e02/e02s04.rpy:670
 translate portuguese e02s04_end_ecaafca1:
 
     # mc "Seems like everyone is here for therapy except us."
     mc ""
 
-# game/code/e02/e02s04.rpy:672
+# game/code/e02/e02s04.rpy:671
 translate portuguese e02s04_end_d0e1af1e:
 
     # mc "Is it even appropriate for us to get involved?"
     mc ""
 
-# game/code/e02/e02s04.rpy:675
+# game/code/e02/e02s04.rpy:674
 translate portuguese e02s04_end_1b7223b3:
 
     # mh "I think so. We're just offering advice based on our own experience."
     mh ""
 
-# game/code/e02/e02s04.rpy:678
+# game/code/e02/e02s04.rpy:677
 translate portuguese e02s04_end_3ddd033b:
 
     # mc "It's strange how open they are with us."
     mc ""
 
-# game/code/e02/e02s04.rpy:680
+# game/code/e02/e02s04.rpy:679
 translate portuguese e02s04_end_2420c5da:
 
     # mh "Some people have issues opening up to doctors because it can be difficult when the subject is sexual."
     mh ""
 
-# game/code/e02/e02s04.rpy:681
+# game/code/e02/e02s04.rpy:680
 translate portuguese e02s04_end_33180752:
 
     # mh "I mean some professionals don't even have the vocabulary to cover it."
     mh ""
 
-# game/code/e02/e02s04.rpy:684
+# game/code/e02/e02s04.rpy:683
 translate portuguese e02s04_end_1a960296:
 
     # mc "And we do?"
     mc ""
 
-# game/code/e02/e02s04.rpy:686
-translate portuguese e02s04_end_3adc7c8a:
+# game/code/e02/e02s04.rpy:685
+translate portuguese e02s04_end_a69c749b:
 
-    # mh "We will after we spend some time studying up today. I'm going to need your phone again, [mcname]"
+    # mh "We will after we spend some time studying up today. I'm going to need your phone again, [mcname]."
     mh ""
 
-# game/code/e02/e02s04.rpy:689
+# game/code/e02/e02s04.rpy:688
 translate portuguese e02s04_end_5080d0f0:
 
     # mc "Wait... we're actually doing this?"
     mc ""
 
-# game/code/e02/e02s04.rpy:692
+# game/code/e02/e02s04.rpy:691
 translate portuguese e02s04_end_cbd5b230:
 
     # mh "You don't want to?"
     mh ""
 
-# game/code/e02/e02s04.rpy:695
+# game/code/e02/e02s04.rpy:694
 translate portuguese e02s04_end_e6035d91:
 
     # mc "No it's not that, it's just... I guess it is kind of exciting."
     mc ""
 
-# game/code/e02/e02s04.rpy:696
+# game/code/e02/e02s04.rpy:695
 translate portuguese e02s04_end_b35bb58c:
 
     # mc "Everyone deserves love and if we can help some people with their problems, I'm game."
     mc ""
 
-# game/code/e02/e02s04.rpy:699
+# game/code/e02/e02s04.rpy:698
 translate portuguese e02s04_end_7361cd1d:
 
     # mh "Good. And while we're preparing, we can figure out who we should focus our efforts on."
@@ -1520,7 +1532,7 @@ translate portuguese e02s04_end_7361cd1d:
 
 translate portuguese strings:
 
-    # game/code/e02/e02s04.rpy:531
+    # game/code/e02/e02s04.rpy:532
     old "One shower later"
     new ""
 
