@@ -34,13 +34,13 @@ translate chinese e02s03_1fb28747:
 translate chinese e02s03_61d58146:
 
     # mc "Even though I lost, I still enjoyed it. When we played Cards against Humans, that was one of those moments where I really got to know you, Lyssa."
-    mc "虽然我输了，但我还是很享受。当我们玩反人类牌的时候，那是我真正了解你的时刻之一，丽莎。"
+    mc "虽然我输了，但还是很享受的。当我们玩反人类牌的时候，那是我真正了解你的时刻之一，丽莎。"
 
 # game/code/e02/e02s03.rpy:24
 translate chinese e02s03_db00bc0f:
 
     # mh "Yes, it was a wonderful moment. You know it is a shame we did not pack the deck."
-    mh "是的，那个时刻真美妙。你知道，我们没收拾好牌局真是太可惜了。"
+    mh "是的，那个时刻真美妙。不过我们没收拾好牌局真是太可惜了。"
 
 # game/code/e02/e02s03.rpy:25
 translate chinese e02s03_19521bee:
@@ -94,13 +94,13 @@ translate chinese e02s03_8307bafc:
 translate chinese e02s03_1492ee63:
 
     # mc "I think we would have connected somehow... somewhere."
-    mc "我觉得我们会以某种方式...在某个地方联系起来。"
+    mc "我觉得我们会以某种方式...在某个地方建立联系。"
 
 # game/code/e02/e02s03.rpy:45
 translate chinese e02s03_e71ad64c:
 
     # mh "Mmm, like we were meant to be."
-    mh "嗯，就像我们注定要在一起。"
+    mh "嗯，我们注定要在一起。"
 
 # game/code/e02/e02s03.rpy:48
 translate chinese e02s03_a0ccd0f2:
@@ -112,7 +112,7 @@ translate chinese e02s03_a0ccd0f2:
 translate chinese e02s03_3ccdcbe2:
 
     # mh "I think we would have found one another as well."
-    mh "我想我们也会找到彼此的。"
+    mh "我也觉得我们会找到彼此的。"
 
 # game/code/e02/e02s03.rpy:54
 translate chinese e02s03_bde8529c:
@@ -148,7 +148,7 @@ translate chinese e02s03_7752447b:
 translate chinese e02s03_04132ab2:
 
     # ac "Frank, this is our first vacation in years. We barely have time for ourselves..."
-    ac "弗兰克，这是我们多年来的第一个假期。我们几乎没有自己的时间..."
+    ac "弗兰克，这是我们多年来的第一个假期。之前都不怎么有自己的时间..."
 
 # game/code/e02/e02s03.rpy:68
 translate chinese e02s03_ad2f759a:
@@ -172,7 +172,7 @@ translate chinese e02s03_e25a0a7c:
 translate chinese e02s03_e0e3b8b1:
 
     # fc "We'll... oh. Um well we will figure it out."
-    fc "我们...哦。呃，会解决的。"
+    fc "我们...嗯。呃，会解决的。"
 
 # game/code/e02/e02s03.rpy:76
 translate chinese e02s03_f3787c3d:
@@ -202,7 +202,7 @@ translate chinese e02s03_51e51214:
 translate chinese e02s03_30c18909:
 
     # fc "How's it going?"
-    fc "还好吗？"
+    fc "你们好吗？"
 
 # game/code/e02/e02s03.rpy:87
 translate chinese e02s03_dda6369b:
@@ -250,13 +250,13 @@ translate chinese e02s03_6cb57fc1:
 translate chinese e02s03_d8f1c051:
 
     # fc "So is this a pre-engagement trip? Or are you two here for the sessions?"
-    fc "所以你们这是订婚前的旅行？还是说你们俩是来治疗的？"
+    fc "所以你们这是订婚前的旅行？还是说你们俩是为了别的来的？"
 
 # game/code/e02/e02s03.rpy:104
 translate chinese e02s03_be570cb2:
 
     # mc "It's our first big trip together. It's been amazing."
-    mc "这是我们第一次一起旅行。一路太美了。"
+    mc "这是我们第一次一起旅行。一路上太美了。"
 
 # game/code/e02/e02s03.rpy:105
 translate chinese e02s03_dfc3c9f2:
@@ -286,7 +286,7 @@ translate chinese e02s03_fe0d5fe9:
 translate chinese e02s03_0dfc37df:
 
     # ac "Don't bore our new friends."
-    ac "别烦我们的新朋友了。"
+    ac "别再烦我们的新朋友了。"
 
 # game/code/e02/e02s03.rpy:115
 translate chinese e02s03_82e96d40:
@@ -316,7 +316,7 @@ translate chinese e02s03_573c9751:
 translate chinese e02s03_1b4d2edb:
 
     # fc "But we talked to the other couples and have still been trying to... I don't know, to share and figure out solutions."
-    fc "但我们和其他夫妇谈过了，还在努力...我不知道，努力分享，然后找出解决方案。"
+    fc "但我们和其他夫妇谈过了，还在努力...我不知道，努力分享我们的问题，然后找出解决方案。"
 
 # game/code/e02/e02s03.rpy:125
 translate chinese e02s03_73cf4df7:
@@ -334,7 +334,7 @@ translate chinese e02s03_9f7adc04:
 translate chinese e02s03_4d36d26c:
 
     # mct "I don't know if we should get involved."
-    mct "我不知道我们是否应该参与进来。"
+    mct "我不知道我们该不该参与进来。"
 
 # game/code/e02/e02s03.rpy:131
 translate chinese e02s03_59d90154:
@@ -352,7 +352,7 @@ translate chinese e02s03_0c7cde4c:
 translate chinese e02s03_2c7c87ef:
 
     # fc "That's kind of you, but I think it would be fine. Especially if you met the other couples."
-    fc "你们真是得体，不过我想可以的。尤其是当你遇到其他夫妇的时候。"
+    fc "你们真是得体，不过我想可以的。尤其是当你遇到其他夫妇就知道了。"
 
 # game/code/e02/e02s03.rpy:136
 translate chinese e02s03_1f215d3a:
@@ -400,7 +400,7 @@ translate chinese e02s03_b406be32:
 translate chinese e02s03_c0e25008:
 
     # mct "We will? I didn't picture Lyssa as a people watcher."
-    mct "可以吗？我没想到丽莎是个善于识人的人。"
+    mct "可以吗？我没想到丽莎还这么善于识人。"
 
 # game/code/e02/e02s03.rpy:153
 translate chinese e02s03_294cfb38:
@@ -454,13 +454,13 @@ translate chinese e02s03_lodge_02f7b642:
 translate chinese e02s03_lodge_6fe05156:
 
     # mh "Haha. I'm going wireless this trip. No beeps or vibrations. Just moans and gasps."
-    mh "哈哈。这次旅行我要用无线通讯。没有哔哔声或振动的声音。只有呻吟和喘息。"
+    mh "哈哈。这次旅行我要用无线通讯。没有哔哔声或振动的声音。只有呻吟和喘息声。"
 
 # game/code/e02/e02s03.rpy:181
 translate chinese e02s03_lodge_14d0faf3:
 
     # mc "I love the sound of that, but these texts, well they're starting to pile up."
-    mc "我喜欢这个声音，但是这些短信，它们开始堆积起来了。"
+    mc "我喜欢这个声音，但是这些短信，它们开始变得越来越多了。"
 
 # game/code/e02/e02s03.rpy:183
 translate chinese e02s03_lodge_f5d59589:
@@ -532,7 +532,7 @@ translate chinese e02s03_lodge_13f3c3ef:
 translate chinese e02s03_lodge_fa862fbc:
 
     # mh "Oh, how romantic. Amd I about to be dominated... like a beast in wild?"
-    mh "哦，真浪漫。我是不是要被支配了...像野兽一样吗？"
+    mh "哦，真浪漫。我是不是要被支配了...你要像野兽一样狂野吗？"
 
 # game/code/e02/e02s03.rpy:212
 translate chinese e02s03_lodge_3d276eaa:
@@ -562,7 +562,7 @@ translate chinese e02s03_lodge_0669ff00:
 translate chinese e02s03_lodge_beea348e:
 
     # mc "I can live with that. Now come here..."
-    mc "我可以接受。现在到这儿来..."
+    mc "行吧，我接受你这么说。现在到这儿来..."
 
 # game/code/e02/e02s03.rpy:224
 translate chinese e02s03_lodge_83078e78:
@@ -574,7 +574,7 @@ translate chinese e02s03_lodge_83078e78:
 translate chinese e02s03_lodge_187c95ef:
 
     # mh "I adore you, [mcname]"
-    mh "我崇拜你，[mcname]"
+    mh "我好崇拜你，[mcname]"
 
 # game/code/e02/e02s03.rpy:228
 translate chinese e02s03_lodge_cb56b5eb:
@@ -730,7 +730,7 @@ translate chinese e02s03_lodge_bd7e0d71_1:
 translate chinese e02s03_lodge_2bafe8b0_1:
 
     # mh "Yes! Finish... inside me... I want it all, darling..."
-    mh "是的!完成...在我...我都要，亲爱的..."
+    mh "好爽!来吧...在我...里面，我想要...亲爱的..."
 
 # game/code/e02/e02s03.rpy:266
 translate chinese e02s03_lodge_a2aaa812:
@@ -796,7 +796,7 @@ translate chinese e02s03_cum_again_77f5b9a9:
 translate chinese e02s03_cum_again_016fb449:
 
     # mh "Your tongue is going so keep. You're getting so good at that!"
-    mh "你的舌头像个小马达。你越来越擅长这个了!"
+    mh "你的舌头像个小马达。你越来越擅长了!"
 
 # game/code/e02/e02s03.rpy:293
 translate chinese e02s03_cum_again_d42f691a:
@@ -866,5 +866,5 @@ translate chinese strings:
 translate chinese e02s03_lodge_64ffe7e5:
 
     # mh "Oh, how romantic. And I about to be dominated... like a beast in wild?"
-    mh "哦，真浪漫。我是不是要被支配了...像野兽一样吗？"
+    mh "哦，真浪漫。我是不是要被支配了...你要像野兽一样吗？"
 
