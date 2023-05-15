@@ -76,7 +76,7 @@ translate portuguese d16s02_3e6d654b:
 translate portuguese d16s02_0dcd4e1c:
 
     # lc "I'm in the shower! I'll be out in a minute!"
-    lc "Eu estuo no chuveiro! Jájá eu saio!"
+    lc "Eu estou no chuveiro! Jájá eu saio!"
 
 # game/code/d16/d16s02.rpy:75
 translate portuguese d16s02_5bfd7003:
