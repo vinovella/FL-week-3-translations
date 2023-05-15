@@ -40,7 +40,7 @@ translate chinese e02s02_b6818d71:
 translate chinese e02s02_bca0ef8c:
 
     # mh "It’ll be fine. I doubt it’s anything to worry about. Forty deaths a year isn’t that extreme."
-    mh "会没事的。我觉得没什么好担心的。一年40人死亡并没有那么极端。"
+    mh "会没事的。我觉得没什么好担心的。一年40人死亡也没那么可怕。"
 
 # game/code/e02/e02s02.rpy:28
 translate chinese e02s02_a148b8c1:
@@ -172,7 +172,7 @@ translate chinese e02s02_b32ccb90:
 translate chinese e02s02_2f5aa4d5:
 
     # mc "No, the snow would break you, are you joking?"
-    mc "不，雪会把你压碎的，你在开玩笑吧？"
+    mc "不，雪会把你压死的，你在开玩笑吧？"
 
 # game/code/e02/e02s02.rpy:90
 translate chinese e02s02_1c518baf:
@@ -190,7 +190,7 @@ translate chinese e02s02_99b1a5dd:
 translate chinese e02s02_d6860954:
 
     # mh "It’s your hypothetical. Plus, the snow here is really fluffy and light. It wouldn’t be like what you’re imagining."
-    mh "这是你的假想。另外，这里的雪很蓬松，很轻。它不会像你想象的那样。"
+    mh "这是你的假想。另外，这里的雪很蓬松，很轻。不会像你想象的那样。"
 
 # game/code/e02/e02s02.rpy:97
 translate chinese e02s02_93934b84:
@@ -334,13 +334,13 @@ translate chinese e02s02_510d6486:
 translate chinese e02s02_50a35951:
 
     # mh "Honestly, this is a really bad idea... but a great new experience."
-    mh "老实说，这个主意真是不怎么样...不过是个前所未有的体验。"
+    mh "老实说，这个主意真是不怎么样...不过倒是个前所未有的体验。"
 
 # game/code/e02/e02s02.rpy:164
 translate chinese e02s02_8726eb3b:
 
     # mc "Keep going. Lick my balls too while my dick is in your mouth."
-    mc "继续。当我的鸡巴在你嘴里的时候也要舔我的蛋蛋。"
+    mc "继续。当我的鸡巴在你嘴里的时候，也要舔我的蛋蛋。"
 
 # game/code/e02/e02s02.rpy:166
 translate chinese e02s02_b5802def:
@@ -514,7 +514,7 @@ translate chinese e02s02_03cfded3:
 translate chinese e02s02_2d9cf50b:
 
     # mc "Okay, you don’t ski that often. How are you so good at it then?"
-    mc "好吧，你不常滑雪。那你怎么会这么擅长呢？"
+    mc "好吧，你不常滑雪。那怎么会这么擅长呢？"
 
 # game/code/e02/e02s02.rpy:243
 translate chinese e02s02_8bd0c333:
@@ -538,13 +538,13 @@ translate chinese e02s02_8932a542:
 translate chinese e02s02_23c478c0:
 
     # mh "I mean warming up as in stretching."
-    mh "我的意思就是伸展运动。"
+    mh "我的意思就是要多做伸展运动。"
 
 # game/code/e02/e02s02.rpy:253
 translate chinese e02s02_684cfd96:
 
     # mc "Ah gotcha! Good thing we already stretched out the most important part."
-    mc "啊，明白了!还好我们已经拉伸的够充分了。"
+    mc "啊，明白了!还好我们已经伸展的够充分了。"
 
 # game/code/e02/e02s02.rpy:256
 translate chinese e02s02_5cfe04d0:
