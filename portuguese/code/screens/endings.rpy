@@ -18,15 +18,19 @@ translate portuguese strings:
     old "Play"
     new ""
 
-# TODO: Translation updated at 2023-05-03 19:50
+# TODO: Translation updated at 2023-05-16 01:31
 
 translate portuguese strings:
 
-    # game/code/screens/endings.rpy:75
-    old "Continue playing the story"
+    # game/code/screens/endings.rpy:64
+    old "Starting this ending will lose unsaved progress.\nAre you sure you want to do this?"
     new ""
 
-    # game/code/screens/endings.rpy:79
-    old "Return to Mainmenu"
+    # game/code/screens/endings.rpy:78
+    old "Return to the Main Story"
+    new ""
+
+    # game/code/screens/endings.rpy:82
+    old "Exit to Mainmenu"
     new ""
 

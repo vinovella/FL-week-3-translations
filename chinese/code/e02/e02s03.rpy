@@ -868,3 +868,11 @@ translate chinese e02s03_lodge_64ffe7e5:
     # mh "Oh, how romantic. And I about to be dominated... like a beast in wild?"
     mh "哦，真浪漫。我是不是要被支配了...你要像野兽一样吗？"
 
+# TODO: Translation updated at 2023-05-16 01:29
+
+# game/code/e02/e02s03.rpy:285
+translate chinese e02s03_lodge_d9ce7b3b:
+
+    # mh "Would you be a gentleman and help me undress?"
+    mh "Would you be a gentleman and help me undress?"
+
