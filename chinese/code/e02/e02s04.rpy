@@ -4,745 +4,745 @@
 translate chinese e02s04_fa7cdc9b:
 
     # mc "How much?"
-    mc "How much?"
+    mc "多少钱？"
 
 # game/code/e02/e02s04.rpy:13
 translate chinese e02s04_cba3e59a:
 
     # mc "Come on, how much?"
-    mc "Come on, how much?"
+    mc "说嘛，多少钱？"
 
 # game/code/e02/e02s04.rpy:16
 translate chinese e02s04_c9c374c5:
 
     # mh "I am not going to bother answering that. It is really a silly question."
-    mh "I am not going to bother answering that. It is really a silly question."
+    mh "我懒得回答。这个问题真蠢。"
 
 # game/code/e02/e02s04.rpy:19
 translate chinese e02s04_a4c2d21c:
 
     # mc "But I'm curious. Would you represent me in court for free, or would I have to pay you?"
-    mc "But I'm curious. Would you represent me in court for free, or would I have to pay you?"
+    mc "可是我很好奇。你愿意免费为我出庭辩护吗，还是我得付钱给你？"
 
 # game/code/e02/e02s04.rpy:22
 translate chinese e02s04_446acdeb:
 
     # mh "Of course I would do it pro-bono, [mcname]."
-    mh "Of course I would do it pro-bono, [mcname]."
+    mh "我当然会无偿地为你服务，[mcname]。"
 
 # game/code/e02/e02s04.rpy:25
 translate chinese e02s04_80cc9f92:
 
     # mc "That means for free right?"
-    mc "That means for free right?"
+    mc "意思是免费的，对吗？"
 
 # game/code/e02/e02s04.rpy:28
 translate chinese e02s04_d09871a8:
 
     # mh "Yes. But we do not have to worry about me representing you because you will not be committing any crimes, correct?"
-    mh "Yes. But we do not have to worry about me representing you because you will not be committing any crimes, correct?"
+    mh "是的。但我们不必担心我为你辩护的问题，因为你不会犯下任何罪行，对吗？"
 
 # game/code/e02/e02s04.rpy:31
 translate chinese e02s04_0cb50db4:
 
     # mc "Of course not, but I'm glad to know you'd be in my corner."
-    mc "Of course not, but I'm glad to know you'd be in my corner."
+    mc "当然，但我很高兴知道你会站在我这边。"
 
 # game/code/e02/e02s04.rpy:32
 translate chinese e02s04_cf37f363:
 
     # mc "Maybe I should try that out - being in your corner, I mean. During a trial."
-    mc "Maybe I should try that out - being in your corner, I mean. During a trial."
+    mc "也许我应该试试--我是说站在你这边。在审判期间。"
 
 # game/code/e02/e02s04.rpy:33
 translate chinese e02s04_42507f38:
 
     # mc "Are you hiring?"
-    mc "Are you hiring?"
+    mc "你们在招人吗？"
 
 # game/code/e02/e02s04.rpy:36
 translate chinese e02s04_ee087b37:
 
     # mh "I always keep my eyes open for talent."
-    mh "I always keep my eyes open for talent."
+    mh "我总是睁大眼睛寻找人才。"
 
 # game/code/e02/e02s04.rpy:39
 translate chinese e02s04_40b79f60:
 
     # mc "Well there is no one more talented than me. And we work so well together in the bedroom. Just imagine what we could do outside of it."
-    mc "Well there is no one more talented than me. And we work so well together in the bedroom. Just imagine what we could do outside of it."
+    mc "嗯，没有人比我更有才华了。我们在床上也很般配。想象一下，我们在外面能一起大展身手。"
 
 # game/code/e02/e02s04.rpy:42
 translate chinese e02s04_8f355e21:
 
     # mh "I do not need to imagine. We are out of the bedroom as often as we are in it."
-    mh "I do not need to imagine. We are out of the bedroom as often as we are in it."
+    mh "我不需要想象。我们离开卧室的时间和在卧室的时间一样多。"
 
 # game/code/e02/e02s04.rpy:45
 translate chinese e02s04_debd7d22:
 
     # mc "Ha! True. {w}Still, what if I was interested in pitching in?"
-    mc "Ha! True. {w}Still, what if I was interested in pitching in?"
+    mc "哈!没错。{w}不过，如果我有兴趣帮忙呢？"
 
 # game/code/e02/e02s04.rpy:48
 translate chinese e02s04_17707427:
 
     # mh "I think you are pulling my leg."
-    mh "I think you are pulling my leg."
+    mh "我认为你是在开我玩笑。"
 
 # game/code/e02/e02s04.rpy:51
 translate chinese e02s04_27c6e311:
 
     # mc "Come on, I've always liked the law."
-    mc "Come on, I've always liked the law."
+    mc "别这样，我一直都很喜欢法律。"
 
 # game/code/e02/e02s04.rpy:54
 translate chinese e02s04_d792eb3d:
 
     # mh "[mcname] I love you, but liking the law and applying yourself to it are two {i}very{/i} different things."
-    mh "[mcname] I love you, but liking the law and applying yourself to it are two {i}very{/i} different things."
+    mh "[mcname]我爱你，但喜欢法律和投身于法律是{i}完全{/i} 不同的两件事。"
 
 # game/code/e02/e02s04.rpy:55
 translate chinese e02s04_bef7a842:
 
     # mh "And you would need a lot of experience before working in any office."
-    mh "And you would need a lot of experience before working in any office."
+    mh "在进入任何办公室工作之前，你都需要有很多经验。"
 
 # game/code/e02/e02s04.rpy:58
 translate chinese e02s04_427cce14:
 
     # mc "Even if I have an {i}in{/i} with a kickass lawyer?"
-    mc "Even if I have an {i}in{/i} with a kickass lawyer?"
+    mc "即使我在一个厉害的律师{i}身上{/i}英勇善战？"
 
 # game/code/e02/e02s04.rpy:61
 translate chinese e02s04_cdd817d4:
 
     # mh "Flattery works in bed, but it will not get you into my office."
-    mh "Flattery works in bed, but it will not get you into my office."
+    mh "奉承在床上有用，但不能让你进我的办公室。"
 
 # game/code/e02/e02s04.rpy:64
 translate chinese e02s04_50dcb3f4:
 
     # mc "Just think about it. I could be your sexy intern, bending over a file cabinet."
-    mc "Just think about it. I could be your sexy intern, bending over a file cabinet."
+    mc "想想吧。我可以做你的性感实习生，俯身在文件柜前。"
 
 # game/code/e02/e02s04.rpy:65
 translate chinese e02s04_589acb0b:
 
     # mc "Giving you a massage whenever your shoulders need a little rubbing..."
-    mc "Giving you a massage whenever your shoulders need a little rubbing..."
+    mc "只要你的肩膀需要按摩，就给你按摩..."
 
 # game/code/e02/e02s04.rpy:68
 translate chinese e02s04_06a5d34c:
 
     # mh "You're already defeating your case, Mister. I would never get any work done."
-    mh "You're already defeating your case, Mister. I would never get any work done."
+    mh "你已经败诉了，先生。有你在，我什么工作都完成不了。"
 
 # game/code/e02/e02s04.rpy:71
 translate chinese e02s04_bc692d24:
 
     # mc "Hahaha. Can't blame a guy for trying."
-    mc "Hahaha. Can't blame a guy for trying."
+    mc "哈哈哈。永远不能责怪一个努力尝试的人。"
 
 # game/code/e02/e02s04.rpy:81
 translate chinese e02s04_photo_845c4c57:
 
     # mc "What was that?"
-    mc "What was that?"
+    mc "怎么了？"
 
 # game/code/e02/e02s04.rpy:84
 translate chinese e02s04_photo_4dcc526a:
 
     # mh "Over there. That couple just took a picture of us."
-    mh "Over there. That couple just took a picture of us."
+    mh "在那边。那对夫妇刚刚给我们拍了张照片。"
 
 # game/code/e02/e02s04.rpy:87
 translate chinese e02s04_photo_bbdf5b32:
 
     # mh "Excuse me, did you want something? A picture perhaps?"
-    mh "Excuse me, did you want something? A picture perhaps?"
+    mh "对不起，你想要什么吗？是要拍照吗？"
 
 # game/code/e02/e02s04.rpy:90
 translate chinese e02s04_photo_8831022a:
 
     # ap "Oh I'm so sorry. My wife asked to take a photo of her but my aim was off."
-    ap "Oh I'm so sorry. My wife asked to take a photo of her but my aim was off."
+    ap "哦，很抱歉。我妻子让我给她拍张照片，但我拍偏了。"
 
 # game/code/e02/e02s04.rpy:92
 translate chinese e02s04_photo_5ae2f27f:
 
     # atp "Hmmph. Yes, that's what happened."
-    atp "Hmmph. Yes, that's what happened."
+    atp "噢。对，就是这么回事。"
 
 # game/code/e02/e02s04.rpy:93
 translate chinese e02s04_photo_f432e7b9:
 
     # ap "Angela, stop."
-    ap "Angela, stop."
+    ap "安吉拉，别这样。"
 
 # game/code/e02/e02s04.rpy:100
 translate chinese e02s04_photo_8c26cb31:
 
     # mc "What's going on?"
-    mc "What's going on?"
+    mc "发生什么事了？"
 
 # game/code/e02/e02s04.rpy:103
 translate chinese e02s04_photo_a6c28f39:
 
     # atp "Relax. It was nothing sinister. We, uh, couldn't help but overhear your conversation."
-    atp "Relax. It was nothing sinister. We, uh, couldn't help but overhear your conversation."
+    atp "放松。我们人不坏。只是不小心听到了你们的谈话。"
 
 # game/code/e02/e02s04.rpy:105
 translate chinese e02s04_photo_e4002560:
 
     # ap "Can you..."
-    ap "Can you..."
+    ap "你能..."
 
 # game/code/e02/e02s04.rpy:107
 translate chinese e02s04_photo_3135da05:
 
     # atp "Oh, grow up, Alexander."
-    atp "Oh, grow up, Alexander."
+    atp "哦，成熟点吧，亚历山大。"
 
 # game/code/e02/e02s04.rpy:110
 translate chinese e02s04_photo_97733348:
 
     # mh "Wait, I recognize you. {w}Alexander Portillo, Channel Six, right?"
-    mh "Wait, I recognize you. {w}Alexander Portillo, Channel Six, right?"
+    mh "等等，我认识你。你是{w}第六频道的，那个亚历山大·波蒂略，对吧？"
 
 # game/code/e02/e02s04.rpy:113
 translate chinese e02s04_photo_05f710da:
 
     # ap "Oh, uh-huh. Yes. I didn't imagine you'd recognize me. This is my wife, Angela."
-    ap "Oh, uh-huh. Yes. I didn't imagine you'd recognize me. This is my wife, Angela."
+    ap "嗯哼。是的。我没想到你会认出我来。这是我的妻子安吉拉。"
 
 # game/code/e02/e02s04.rpy:115
 translate chinese e02s04_photo_e7da310f:
 
     # atp "And you are Melissa Harris."
-    atp "And you are Melissa Harris."
+    atp "你是梅丽莎·哈里斯。"
 
 # game/code/e02/e02s04.rpy:118
 translate chinese e02s04_photo_fb983c70:
 
     # mh "Pleased to meet you. This is my boyfriend, [mcname], now can you delete that photo?"
-    mh "Pleased to meet you. This is my boyfriend, [mcname], now can you delete that photo?"
+    mh "很高兴见到你们。这是我男朋友[mcname]，现在能请你删掉那张照片吗？"
 
 # game/code/e02/e02s04.rpy:121
 translate chinese e02s04_photo_85e6258a:
 
     # ap "So strict. It's not illegal to snap a few shots on vacation."
-    ap "So strict. It's not illegal to snap a few shots on vacation."
+    ap "这么严啊。度假时拍几张照片不违法吧。"
 
 # game/code/e02/e02s04.rpy:124
 translate chinese e02s04_photo_9d06fa20:
 
     # mh "Then perhaps you could explain why you took a picture of us."
-    mh "Then perhaps you could explain why you took a picture of us."
+    mh "那也许你能解释一下为什么给我们拍照。"
 
 # game/code/e02/e02s04.rpy:130
 translate chinese e02s04_photo_f63d5142:
 
     # ap "There, it's gone."
-    ap "There, it's gone."
+    ap "看，删掉了。"
 
 # game/code/e02/e02s04.rpy:133
 translate chinese e02s04_photo_a73f30b7:
 
     # atp "And we're terribly sorry for disturbing you."
-    atp "And we're terribly sorry for disturbing you."
+    atp "非常抱歉打扰了你们。"
 
 # game/code/e02/e02s04.rpy:136
 translate chinese e02s04_photo_9dc3bfdf:
 
     # mh "So, what was this? You were going to post a scoop of me while I'm on vacation?"
-    mh "So, what was this? You were going to post a scoop of me while I'm on vacation?"
+    mh "所以呢，这是怎么回事？你打算在我度假的时候发布我的独家新闻？"
 
 # game/code/e02/e02s04.rpy:139
 translate chinese e02s04_photo_7798498a:
 
     # atp "Hahaha. I'd have to be pretty desperate to try selling that. No offense."
-    atp "Hahaha. I'd have to be pretty desperate to try selling that. No offense."
+    atp "哈哈哈。那我生活得陷入多大的绝境才会想要卖掉它。无意冒犯。"
 
 # game/code/e02/e02s04.rpy:140
 translate chinese e02s04_photo_38b50f82:
 
     # atp "You're a banging lawyer, but do you think anyone would care to find out that you summer up in the mountains?"
-    atp "You're a banging lawyer, but do you think anyone would care to find out that you summer up in the mountains?"
+    atp "你是个相当出色的律师，但你认为有人会想知道你在山里避暑吗？"
 
 # game/code/e02/e02s04.rpy:143
 translate chinese e02s04_photo_9cdfd432:
 
     # ap "Please excuse us, we were just excited and-"
-    ap "Please excuse us, we were just excited and-"
+    ap "请原谅，我们只是太兴奋了，而且--"
 
 # game/code/e02/e02s04.rpy:146
 translate chinese e02s04_photo_7bf185d4:
 
     # atp "Not excited, just bored. We've skied and skied and then we noticed you and..."
-    atp "Not excited, just bored. We've skied and skied and then we noticed you and..."
+    atp "不是兴奋，只是无聊。我们滑了又滑，然后注意到了你..."
 
 # game/code/e02/e02s04.rpy:147
 translate chinese e02s04_photo_781f3ba4:
 
     # atp "Well you and I are like two peas in a pod, Ms. Harris."
-    atp "Well you and I are like two peas in a pod, Ms. Harris."
+    atp "你和我就像一个豆荚里的两颗豆子，哈里斯小姐。"
 
 # game/code/e02/e02s04.rpy:150
 translate chinese e02s04_photo_cb8e98cf:
 
     # mh "Two peas in a pod? {w}What do you mean by that?"
-    mh "Two peas in a pod? {w}What do you mean by that?"
+    mh "一个豆荚里的两颗豆子？{w}你这话是什么意思？"
 
 # game/code/e02/e02s04.rpy:153
 translate chinese e02s04_photo_84bb0e2c:
 
     # ap "Listen, we're really sorry for bothering you. We should go."
-    ap "Listen, we're really sorry for bothering you. We should go."
+    ap "听着，我们真的很抱歉打扰你。我们该走了。"
 
 # game/code/e02/e02s04.rpy:156
 translate chinese e02s04_photo_57a303eb:
 
     # atp "You're just as curious as I am, Alexander."
-    atp "You're just as curious as I am, Alexander."
+    atp "亚历山大，你和我一样好奇。"
 
 # game/code/e02/e02s04.rpy:157
 translate chinese e02s04_photo_35fd49b3:
 
     # atp "You're transgender right?"
-    atp "You're transgender right?"
+    atp "你是变性人，对吧？"
 
 # game/code/e02/e02s04.rpy:160
 translate chinese e02s04_photo_aafe8056:
 
     # ap "Angela!"
-    ap "Angela!"
+    ap "安吉拉!"
 
 # game/code/e02/e02s04.rpy:162
 translate chinese e02s04_photo_58513a00:
 
     # atp "What?"
-    atp "What?"
+    atp "怎么？"
 
 # game/code/e02/e02s04.rpy:165
 translate chinese e02s04_photo_1ed9e342:
 
     # ap "That is inappropriate!"
-    ap "That is inappropriate!"
+    ap "这太不合适了!"
 
 # game/code/e02/e02s04.rpy:167
 translate chinese e02s04_photo_c2712e6d:
 
     # atp "Oh, come on."
-    atp "Oh, come on."
+    atp "哦，得了吧。"
 
 # game/code/e02/e02s04.rpy:170
 translate chinese e02s04_photo_7102307b:
 
     # mh "I am. Is that why you were taking photos of me?"
-    mh "I am. Is that why you were taking photos of me?"
+    mh "是的。这就是你给我拍照的原因吗？"
 
 # game/code/e02/e02s04.rpy:173
 translate chinese e02s04_photo_79cc4def:
 
     # atp "No. Well, it's... I mean it's really kind of a funny story."
-    atp "No. Well, it's... I mean it's really kind of a funny story."
+    atp "没有。呃...我的意思是，这个故事真的是有意思。"
 
 # game/code/e02/e02s04.rpy:175
 translate chinese e02s04_photo_07644846:
 
     # ap "I think Angela just panicked."
-    ap "I think Angela just panicked."
+    ap "我想安吉拉只是慌了。"
 
 # game/code/e02/e02s04.rpy:178
 translate chinese e02s04_photo_0bb4aecf:
 
     # atp "I did not panic. I just... well, I thought it was you but I didn't know it was you."
-    atp "I did not panic. I just... well, I thought it was you but I didn't know it was you."
+    atp "我没慌。我只是...嗯，我以为是你，但我不知道是你。"
 
 # game/code/e02/e02s04.rpy:179
 translate chinese e02s04_photo_39efc70a:
 
     # atp "But {i}then{/i} I realized it was you and I thought..."
-    atp "But {i}then{/i} I realized it was you and I thought..."
+    atp "但是{i}接下来{/i}我意识到是你，我想..."
 
 # game/code/e02/e02s04.rpy:180
 translate chinese e02s04_photo_1b1c21ae:
 
     # atp "{i}But{/i} you're on vacation and I didn't want to bother you but I've wanted to meet you so I told Alexander to get your attention."
-    atp "{i}But{/i} you're on vacation and I didn't want to bother you but I've wanted to meet you so I told Alexander to get your attention."
+    atp "{i}但是{/i}你在度假，我不想打扰你，但是我很想见见你，所以我让亚历山大来引起你的注意。"
 
 # game/code/e02/e02s04.rpy:183
 translate chinese e02s04_photo_21dcdaaf:
 
     # mc "Sounds a little strange, Angela."
-    mc "Sounds a little strange, Angela."
+    mc "听起来有点奇怪，安吉拉。"
 
 # game/code/e02/e02s04.rpy:186
 translate chinese e02s04_photo_c7769a77:
 
     # atp "I will admit to being slightly flustered. It's uh... it's not easy for me... just."
-    atp "I will admit to being slightly flustered. It's uh... it's not easy for me... just."
+    atp "我承认我是有点慌张。呃...只是...这对我来说并不容易..."
 
 # game/code/e02/e02s04.rpy:187
 translate chinese e02s04_photo_85e3c151:
 
     # atp "I think it's better if I show you."
-    atp "I think it's better if I show you."
+    atp "我想我示范给你看比较好。"
 
 # game/code/e02/e02s04.rpy:191
 translate chinese e02s04_photo_c7c41f08:
 
     # mh "Peas in a pod, hmmm?"
-    mh "Peas in a pod, hmmm?"
+    mh "给我看豆荚里的豆子，是吧"
 
 # game/code/e02/e02s04.rpy:194
 translate chinese e02s04_photo_9c8529b9:
 
     # atp "Haha. Yeah. So, do you mind if we chat?"
-    atp "Haha. Yeah. So, do you mind if we chat?"
+    atp "哈哈。是啊。所以，你介意我们聊聊吗？"
 
 # game/code/e02/e02s04.rpy:197
 translate chinese e02s04_photo_139c290f:
 
     # mh "Yes. But why don't we start fresh? I am Lyssa and this is my boyfriend, [mcname]."
-    mh "Yes. But why don't we start fresh? I am Lyssa and this is my boyfriend, [mcname]."
+    mh "行啊。我们何不重新开始呢？我是丽莎，这是我的男朋友，[mcname]。"
 
 # game/code/e02/e02s04.rpy:200
 translate chinese e02s04_photo_15e5860b:
 
     # atp "Lyssa, [mcname]. Nice."
-    atp "Lyssa, [mcname]. Nice."
+    atp "丽莎， [mcname]。很高兴认识你们。"
 
 # game/code/e02/e02s04.rpy:201
 translate chinese e02s04_photo_67fb70ba:
 
     # atp "I'm Angela, and you know my husband, Alexander."
-    atp "I'm Angela, and you know my husband, Alexander."
+    atp "我是安吉拉，你认识我的丈夫，亚历山大。"
 
 # game/code/e02/e02s04.rpy:203
 translate chinese e02s04_photo_87655d2c:
 
     # ap "Pleasure, and thanks for being so understanding."
-    ap "Pleasure, and thanks for being so understanding."
+    ap "很高兴见到你们，也谢谢你们这么善解人意。"
 
 # game/code/e02/e02s04.rpy:214
 translate chinese e02s04_fireplace_af7148fc:
 
     # atp "So your assistant knows and you've told many of the people at the courthouse... and they don't care?"
-    atp "So your assistant knows and you've told many of the people at the courthouse... and they don't care?"
+    atp "所以你的助理知道了，你也告诉了法院的很多人...他们不在乎吗？"
 
 # game/code/e02/e02s04.rpy:217
 translate chinese e02s04_fireplace_8ee9cd18:
 
     # mh "Correct."
-    mh "Correct."
+    mh "没错。"
 
 # game/code/e02/e02s04.rpy:220
 translate chinese e02s04_fireplace_20d2e621:
 
     # atp "How do they not care? I've had people just give me blank stares when I told them."
-    atp "How do they not care? I've had people just give me blank stares when I told them."
+    atp "他们怎么会不在乎呢？我曾经跟别人坦白过，但他们只是给我一个白眼。"
 
 # game/code/e02/e02s04.rpy:221
 translate chinese e02s04_fireplace_e4778d74:
 
     # atp "Some days I wish I kept it a secret. Some people started acting different to me at work."
-    atp "Some days I wish I kept it a secret. Some people started acting different to me at work."
+    atp "有时候我真希望我能保守这个秘密。有些人开始在工作中对我表现得不一样了。"
 
 # game/code/e02/e02s04.rpy:222
 translate chinese e02s04_fireplace_ea300e24:
 
     # atp "I'm one of the most accomplished executives at Channel Six. Not just in the company, but in the industry..."
-    atp "I'm one of the most accomplished executives at Channel Six. Not just in the company, but in the industry..."
+    atp "我是第六频道最有成就的高管之一。不仅仅是在公司，而是在这个行业..."
 
 # game/code/e02/e02s04.rpy:223
 translate chinese e02s04_fireplace_3aa7a0f8:
 
     # atp "... but I'm still just known as the \"Stallion\"."
-    atp "... but I'm still just known as the \"Stallion\"."
+    atp "...但大家还是叫我\"种马\"。"
 
 # game/code/e02/e02s04.rpy:226
 translate chinese e02s04_fireplace_ad95afc1:
 
     # mh "I admire your bravery for putting yourself out there. I... My only advice would be to do your best to tune out the idiots."
-    mh "I admire your bravery for putting yourself out there. I... My only advice would be to do your best to tune out the idiots."
+    mh "我很钦佩你的勇气，敢于挑战自我。我...我唯一的建议就是尽量不去理会那些白痴。"
 
 # game/code/e02/e02s04.rpy:227
 translate chinese e02s04_fireplace_df2927f3:
 
     # mh "I know that is not easy. As more people accept you, more people learn about you, and more idiots come out of the woodwork."
-    mh "I know that is not easy. As more people accept you, more people learn about you, and more idiots come out of the woodwork."
+    mh "我知道这并不容易。随着越来越多的人接受你，越来越多的人了解你，就会有越来越多的傻瓜冒出来。"
 
 # game/code/e02/e02s04.rpy:230
 translate chinese e02s04_fireplace_398f637e:
 
     # atp "Getting to open up about it feels good. And I appreciate you being, uh... {w}being patient with me."
-    atp "Getting to open up about it feels good. And I appreciate you being, uh... {w}being patient with me."
+    atp "敞开心扉的感觉很好。我很感激你...{w}对我这么有耐心。"
 
 # game/code/e02/e02s04.rpy:232
 translate chinese e02s04_fireplace_ba76b91e:
 
     # mh "Water under the bridge, my dear."
-    mh "Water under the bridge, my dear."
+    mh "都过去了，亲爱的。"
 
 # game/code/e02/e02s04.rpy:235
 translate chinese e02s04_fireplace_dd3767f7:
 
     # mc "So how did you two get together?"
-    mc "So how did you two get together?"
+    mc "那你们俩是怎么走到一起的？"
 
 # game/code/e02/e02s04.rpy:238
 translate chinese e02s04_fireplace_5c7ffc4b:
 
     # ap "We met in college, both working on our journalism degrees. And we've been together ever since."
-    ap "We met in college, both working on our journalism degrees. And we've been together ever since."
+    ap "我们是在大学里认识的，都在攻读新闻学学位。从那以后我们就一直在一起。"
 
 # game/code/e02/e02s04.rpy:241
 translate chinese e02s04_fireplace_03ffe92b:
 
     # mc "Working together in the same place. That's got to be nice."
-    mc "Working together in the same place. That's got to be nice."
+    mc "在同一个地方一起工作。那一定很不错。"
 
 # game/code/e02/e02s04.rpy:244
 translate chinese e02s04_fireplace_f9ab9b36:
 
     # ap "Uh-yeah. It's very nice. Lot of fun."
-    ap "Uh-yeah. It's very nice. Lot of fun."
+    ap "啊哈。很不错。非常有趣。"
 
 # game/code/e02/e02s04.rpy:247
 translate chinese e02s04_fireplace_78ac8cc7:
 
     # mc "So she makes the show run but you lead the show right?"
-    mc "So she makes the show run but you lead the show right?"
+    mc "所以她负责台前，而你负责幕后，对吗？"
 
 # game/code/e02/e02s04.rpy:250
 translate chinese e02s04_fireplace_56d100ce:
 
     # ap "Haha. You're very kind. With all the grit and effort that goes into it, it {i}looks{/i} like I run the show, but I just put my spin on whatever is on the teleprompter."
-    ap "Haha. You're very kind. With all the grit and effort that goes into it, it {i}looks{/i} like I run the show, but I just put my spin on whatever is on the teleprompter."
+    ap "哈哈。你这么说真得体。虽然我也确实很努力，{i}看起来{/i}就像我在主持整个节目，但也不过是把我的观点放在提词器上。"
 
 # game/code/e02/e02s04.rpy:251
 translate chinese e02s04_fireplace_47e7a8fa:
 
     # ap "Well, my spin and my voice."
-    ap "Well, my spin and my voice."
+    ap "嗯，我献出了我的观点，还有声音。"
 
 # game/code/e02/e02s04.rpy:254
 translate chinese e02s04_fireplace_7dfe218c:
 
     # mc "You kind of sound like everyone else."
-    mc "You kind of sound like everyone else."
+    mc "你听起来和我们平常没什么两样。"
 
 # game/code/e02/e02s04.rpy:257
 translate chinese e02s04_fireplace_37d1f220:
 
     # ap "That's because I didn't turn on my \"newsreader voice\"."
-    ap "That's because I didn't turn on my \"newsreader voice\"."
+    ap "那是因为我没有打开我的\"新闻播音员职业腔\"。"
 
 # game/code/e02/e02s04.rpy:260
 translate chinese e02s04_fireplace_e3956977:
 
     # mc "Woah. You like... it's almost like you turned into a different person. Not bad."
-    mc "Woah. You like... it's almost like you turned into a different person. Not bad."
+    mc "哇。感觉...就好像你变成了另一个人。真不错。"
 
 # game/code/e02/e02s04.rpy:263
 translate chinese e02s04_fireplace_37e82bf7:
 
     # ap "Thanks. Yeah I call it my \"golden voice\". Usually it only comes out in the newsroom."
-    ap "Thanks. Yeah I call it my \"golden voice\". Usually it only comes out in the newsroom."
+    ap "谢谢。我把它叫做我的\"金嗓子\"。通常只在新闻室里才会说出来。"
 
 # game/code/e02/e02s04.rpy:266
 translate chinese e02s04_fireplace_012064ef:
 
     # atp "His 'golden voice' comes out a lot when I shove a dildo up his ass."
-    atp "His 'golden voice' comes out a lot when I shove a dildo up his ass."
+    atp "当我把假鸡巴塞进他的屁股时，他的‘金嗓子’就会经常出现。"
 
 # game/code/e02/e02s04.rpy:269
 translate chinese e02s04_fireplace_9d16da61:
 
     # ap "Angela. Really?!"
-    ap "Angela. Really?!"
+    ap "安吉拉。你要这样吗?!"
 
 # game/code/e02/e02s04.rpy:272
 translate chinese e02s04_fireplace_6a632e20:
 
     # atp "What? I was running out of things to talk about."
-    atp "What? I was running out of things to talk about."
+    atp "不行吗？我已经没有什么可谈的了。"
 
 # game/code/e02/e02s04.rpy:275
 translate chinese e02s04_fireplace_df7415df:
 
     # ap "Yes, but you can stand to be a little more discreet about things."
-    ap "Yes, but you can stand to be a little more discreet about things."
+    ap "行啊，但是你可以更谨慎一些。"
 
 # game/code/e02/e02s04.rpy:277
 translate chinese e02s04_fireplace_3e7bd8dc:
 
     # atp "Why are you acting embarrassed?"
-    atp "Why are you acting embarrassed?"
+    atp "你为什么表现得很尴尬？"
 
 # game/code/e02/e02s04.rpy:279
 translate chinese e02s04_fireplace_c18d7515:
 
     # ap "Well it is embarrassing to me."
-    ap "Well it is embarrassing to me."
+    ap "嗯，对我来说很尴尬。"
 
 # game/code/e02/e02s04.rpy:282
 translate chinese e02s04_fireplace_b148fed4:
 
     # ap "I mean you two seem nice but I'm sure you don't want to hear details like that."
-    ap "I mean you two seem nice but I'm sure you don't want to hear details like that."
+    ap "我的意思是你们两个看起来很好，但我相信你们肯定不想听像这样的细节。"
 
 # game/code/e02/e02s04.rpy:285
 translate chinese e02s04_fireplace_f0b825fa:
 
     # mc "It's all good. We're just having a friendly conversation."
-    mc "It's all good. We're just having a friendly conversation."
+    mc "没事没事。我们只是在友好地交谈。"
 
 # game/code/e02/e02s04.rpy:287
 translate chinese e02s04_fireplace_4ce1ae3f:
 
     # mh "Yes, very friendly."
-    mh "Yes, very friendly."
+    mh "对，在轻松谈话嘛。"
 
 # game/code/e02/e02s04.rpy:290
 translate chinese e02s04_fireplace_f77a1525:
 
     # ap "So you won't tell anyone?"
-    ap "So you won't tell anyone?"
+    ap "所以你不会告诉任何人？"
 
 # game/code/e02/e02s04.rpy:293
 translate chinese e02s04_fireplace_29b7f854:
 
     # mh "Of course not."
-    mh "Of course not."
+    mh "当然不会。"
 
 # game/code/e02/e02s04.rpy:296
 translate chinese e02s04_fireplace_d0d86538:
 
     # atp "So tell me, [mcname]... Do you enjoy the other side? Having Lyssa take the wheel so to speak?"
-    atp "So tell me, [mcname]... Do you enjoy the other side? Having Lyssa take the wheel so to speak?"
+    atp "所以告诉我，[mcname]...你喜欢换花样吗？让丽莎 掌握主导权，可以这么说？"
 
 # game/code/e02/e02s04.rpy:300
 translate chinese e02s04_fireplace_1b48ebcf:
 
     # mc "Definitely. We enjoy switching things up now and then."
-    mc "Definitely. We enjoy switching things up now and then."
+    mc "当然。我们喜欢时不时地做出改变。"
 
 # game/code/e02/e02s04.rpy:303
 translate chinese e02s04_fireplace_ffcfe4e2:
 
     # atp "Haha. Alexander is always in the mood for me to toss his salad or stretch his starfish."
-    atp "Haha. Alexander is always in the mood for me to toss his salad or stretch his starfish."
+    atp "哈哈。亚历山大总是想让我给他上演拌沙拉或者海星式。"
 
 # game/code/e02/e02s04.rpy:307
 translate chinese e02s04_fireplace_ee161fc3:
 
     # mc "We haven't tried that yet."
-    mc "We haven't tried that yet."
+    mc "我们还没试过呢。"
 
 # game/code/e02/e02s04.rpy:310
 translate chinese e02s04_fireplace_9b041e14:
 
     # atp "Well don't wait too long. I'm sure Lyssa wouldn't mind trying out your backdoor, [mcname]"
-    atp "Well don't wait too long. I'm sure Lyssa wouldn't mind trying out your backdoor, [mcname]"
+    atp "不要等太久。我相信丽莎不会介意试试你的后门。"
 
 # game/code/e02/e02s04.rpy:313
 translate chinese e02s04_fireplace_0f42c392:
 
     # mh "Different people like different things, Angela."
-    mh "Different people like different things, Angela."
+    mh "安吉拉，不同的人喜欢的东西也不一样。"
 
 # game/code/e02/e02s04.rpy:316
 translate chinese e02s04_fireplace_004def0a:
 
     # atp "Sure, but some people need others to lead the way - or they'll never be adventurous."
-    atp "Sure, but some people need others to lead the way - or they'll never be adventurous."
+    atp "当然，但是有些人需要别人带头，否则他们永远不会冒险。"
 
 # game/code/e02/e02s04.rpy:319
 translate chinese e02s04_fireplace_1efb1360:
 
     # ap "That doesn't mean I want to be led by your cock every day, Angela."
-    ap "That doesn't mean I want to be led by your cock every day, Angela."
+    ap "那并不意味着我想每天被你的鸡巴牵着走，安吉拉。"
 
 # game/code/e02/e02s04.rpy:320
 translate chinese e02s04_fireplace_10ec4b3f:
 
     # mct "Wow. I got the feeling these two were a bit high-strung, but this is something else."
-    mct "Wow. I got the feeling these two were a bit high-strung, but this is something else."
+    mct "哇。我感觉这两个人有点紧张，但这是另一回事。"
 
 # game/code/e02/e02s04.rpy:323
 translate chinese e02s04_fireplace_5535f776:
 
     # atp "This is the first I've heard that, Alexander."
-    atp "This is the first I've heard that, Alexander."
+    atp "这是我第一次听你这么说，亚历山大。"
 
 # game/code/e02/e02s04.rpy:326
 translate chinese e02s04_fireplace_eafdf6e7:
 
     # ap "*Sigh* That is a little surprising to hear. There have been many times where I've asked you to be more gentle and loving."
-    ap "*Sigh* That is a little surprising to hear. There have been many times where I've asked you to be more gentle and loving."
+    ap "*叹气* 你觉得惊讶吗。我已经多次要求你温柔一点，更友爱一点。"
 
 # game/code/e02/e02s04.rpy:328
 translate chinese e02s04_fireplace_6b4192ff:
 
     # atp "So now I don't love you..."
-    atp "So now I don't love you..."
+    atp "所以现在我不爱你了..."
 
 # game/code/e02/e02s04.rpy:330
 translate chinese e02s04_fireplace_bc655e72:
 
     # ap "That's not what I said. This- *sighs* This is why I wanted us to come."
-    ap "That's not what I said. This- *sighs* This is why I wanted us to come."
+    ap "我没这么说。这-- *叹气* 这就是我希望我们来这的原因。"
 
 # game/code/e02/e02s04.rpy:332
 translate chinese e02s04_fireplace_38ecd124:
 
     # atp "Yes, but there is no point now because the dumb therapist didn't show up."
-    atp "Yes, but there is no point now because the dumb therapist didn't show up."
+    atp "是的，但是现在没有意义了，因为那个愚蠢的治疗师没有出现。"
 
 # game/code/e02/e02s04.rpy:334
 translate chinese e02s04_fireplace_f1ca51c7:
 
     # ap "You must be so disappointed. From the moment I mentioned it, you didn't think it would help us."
-    ap "You must be so disappointed. From the moment I mentioned it, you didn't think it would help us."
+    ap "你一定很失望。从我提到它的那一刻起，你就认为它对我们没有帮助。"
 
 # game/code/e02/e02s04.rpy:336
 translate chinese e02s04_fireplace_c2eb23fc:
 
     # atp "So far I'm not wrong."
-    atp "So far I'm not wrong."
+    atp "到目前为止我没有错。"
 
 # game/code/e02/e02s04.rpy:339
 translate chinese e02s04_fireplace_cf283332:
 
     # mc "{size=-10}*whispers* So I was thinking, maybe we go play another round of chess.{/size}"
-    mc "{size=-10}*whispers* So I was thinking, maybe we go play another round of chess.{/size}"
+    mc "{size=-10}*低语* 所以我在想，也许我们可以再下一轮国际象棋。{/size}"
 
 # game/code/e02/e02s04.rpy:342
 translate chinese e02s04_fireplace_8669d6dd:
 
     # mh "{size=-10}*whispers* I'm not really in the mood to play games.{/size}"
-    mh "{size=-10}*whispers* I'm not really in the mood to play games.{/size}"
+    mh "{size=-10}}*低语* 我真的没有心情玩游戏。{/size}"
 
 # game/code/e02/e02s04.rpy:345
 translate chinese e02s04_fireplace_19f85401:
 
     # mc "{size=-10}*whispers* Well how about at least we go to our cabin. You know...{/size}"
-    mc "{size=-10}*whispers* Well how about at least we go to our cabin. You know...{/size}"
+    mc "{size=-10}*低语* 好吧，至少我们回小屋去。你知道...{/size}"
 
 # game/code/e02/e02s04.rpy:346
 translate chinese e02s04_fireplace_0e37059a:
 
     # mct "{size=-10}..away from them.{/size}"
-    mct "{size=-10}..away from them.{/size}"
+    mct "{size=-10}...远离他们。{/size}"
 
 # game/code/e02/e02s04.rpy:348
 translate chinese e02s04_fireplace_f35d9d98:
 
     # mh "{size=-10}*whispers* I want to help.{/size}"
-    mh "{size=-10}*whispers* I want to help.{/size}"
+    mh "{size=-10}}*低语* 我想帮忙。{/size}"
 
 # game/code/e02/e02s04.rpy:349
 translate chinese e02s04_fireplace_62103bcb:
@@ -754,103 +754,103 @@ translate chinese e02s04_fireplace_62103bcb:
 translate chinese e02s04_fireplace_4bdbcff8:
 
     # mh "{size=-10}*whispers* [mcname].{/size}"
-    mh "{size=-10}*whispers* [mcname].{/size}"
+    mh "{size=-10}*低语* [mcname].{/size}"
 
 # game/code/e02/e02s04.rpy:355
 translate chinese e02s04_fireplace_7f5e570f:
 
     # mc "{size=-10}*whispers* Don't they seem beyond help?{/size}"
-    mc "{size=-10}*whispers* Don't they seem beyond help?{/size}"
+    mc "{size=-10}*低语* 他们不是很明显没救了吗？{/size}"
 
 # game/code/e02/e02s04.rpy:357
 translate chinese e02s04_fireplace_b8f60720:
 
     # mh "{size=-10}*whispers* No one is beyond help.{/size}"
-    mh "{size=-10}*whispers* No one is beyond help.{/size}"
+    mh "{size=-10}*低语* 没有人是无可救药的。{/size}"
 
 # game/code/e02/e02s04.rpy:360
 translate chinese e02s04_fireplace_a5d57ad0:
 
     # mc "{size=-10}*whispers* Okay... so how exactly would we help?{/size}"
-    mc "{size=-10}*whispers* Okay... so how exactly would we help?{/size}"
+    mc "{size=-10}*低语* 好吧...那么我们到底要怎么帮忙呢？{/size}"
 
 # game/code/e02/e02s04.rpy:362
 translate chinese e02s04_fireplace_b4c7b8d5:
 
     # mh "You mentioned a therapist. Did you two come here for some couple's therapy?"
-    mh "You mentioned a therapist. Did you two come here for some couple's therapy?"
+    mh "你提到了治疗师。你们俩是来这里接受夫妻心理治疗的吗？"
 
 # game/code/e02/e02s04.rpy:364
 translate chinese e02s04_fireplace_a2a77c34:
 
     # atp "Yes, that was the plan."
-    atp "Yes, that was the plan."
+    atp "是的，这就是我们的计划。"
 
 # game/code/e02/e02s04.rpy:365
 translate chinese e02s04_fireplace_9736ecb0:
 
     # ap "But the poor doctor got hurt or something on the trip here. So, he cancelled after we were already here."
-    ap "But the poor doctor got hurt or something on the trip here. So, he cancelled after we were already here."
+    ap "但是那个可怜的医生在来这儿的路上受伤了。所以，我们已经到了，他却取消了。"
 
 # game/code/e02/e02s04.rpy:367
 translate chinese e02s04_fireplace_97e3c859:
 
     # mc "At least this place is great for snowboarding. You get a nice vacation out of it."
-    mc "At least this place is great for snowboarding. You get a nice vacation out of it."
+    mc "至少这个地方很适合单板滑雪。你们还是可以度过一个愉快的假期。"
 
 # game/code/e02/e02s04.rpy:369
 translate chinese e02s04_fireplace_094a5a44:
 
     # ap "Oh, absolutely."
-    ap "Oh, absolutely."
+    ap "哦，当然。"
 
 # game/code/e02/e02s04.rpy:371
 translate chinese e02s04_fireplace_2cb9203a:
 
     # mh "Angela, Alexander, do you mind if I offer some suggestions?"
-    mh "Angela, Alexander, do you mind if I offer some suggestions?"
+    mh "安吉拉，亚历山大，你们介意我提些建议吗？"
 
 # game/code/e02/e02s04.rpy:373
 translate chinese e02s04_fireplace_065f2729:
 
     # ap "I mean. Sure, but you're not a therapist are you?"
-    ap "I mean. Sure, but you're not a therapist are you?"
+    ap "当然可以，但你不是心理医生，对吧？"
 
 # game/code/e02/e02s04.rpy:375
 translate chinese e02s04_fireplace_c1693c5f:
 
     # mh "Oh no, but I've definitely seen my share of personalities in the courtroom. I might be able to give you an insight."
-    mh "Oh no, but I've definitely seen my share of personalities in the courtroom. I might be able to give you an insight."
+    mh "哦，不，但我确实看到了我的个性。"
 
 # game/code/e02/e02s04.rpy:377
 translate chinese e02s04_fireplace_3273322b:
 
     # atp "I'm open to trying something. Just last month I tried to shake things up with that couple's dating site."
-    atp "I'm open to trying something. Just last month I tried to shake things up with that couple's dating site."
+    atp "我愿意尝试新东西。就在上个月，我还在那个情侣约会网站上做了一些尝试。"
 
 # game/code/e02/e02s04.rpy:378
 translate chinese e02s04_fireplace_7e6c4867:
 
     # ap "This will be different. We'd both agree to this instead of you signing us for something without asking me."
-    ap "This will be different. We'd both agree to this instead of you signing us for something without asking me."
+    ap "这不一样。这次经过了我们的一致同意，而不是像上次你未经我同意就签字。"
 
 # game/code/e02/e02s04.rpy:380
 translate chinese e02s04_fireplace_48b41d0e:
 
     # mh "That is it, right there."
-    mh "That is it, right there."
+    mh "就是这点。"
 
 # game/code/e02/e02s04.rpy:382
 translate chinese e02s04_fireplace_11762849:
 
     # atp "What's it?"
-    atp "What's it?"
+    atp "什么？"
 
 # game/code/e02/e02s04.rpy:384
 translate chinese e02s04_fireplace_0061d983:
 
     # mh "Your husband is trying to tell you something. I am going to be brutally honest with you both. Alexander..."
-    mh "Your husband is trying to tell you something. I am going to be brutally honest with you both. Alexander..."
+    mh "你丈夫正试图告诉你一些事。我要对你们俩实话实说。亚历山大..."
 
 # game/code/e02/e02s04.rpy:385
 translate chinese e02s04_fireplace_6eccf0e9:
