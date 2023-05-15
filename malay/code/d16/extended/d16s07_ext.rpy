@@ -598,7 +598,7 @@ translate malay d16s07_ext_a5a6d074:
 translate malay d16s07_ext_824e387c:
 
     # mc "Hm? Sorry."
-    mc "Hm? Sorry."
+    mc "Hm? Maaf."
 
 # game/code/d16/extended/d16s07_ext.rpy:374
 translate malay d16s07_ext_292aaa47:
