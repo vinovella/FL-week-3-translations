@@ -936,11 +936,11 @@ translate chinese e02s07_sex_6927c19c:
     # mc "The anus and anal canal are extremely sensitive to touch, and as a result the pleasure felt can be profound."
     mc "The anus and anal canal are extremely sensitive to touch, and as a result the pleasure felt can be profound."
 
-# game/code/e02/e02s07.rpy:488
-translate chinese e02s07_sex_67cb84ea:
+# game/code/e02/e02s07.rpy:506
+translate chinese e02s07_sex_0ab94a8f:
 
-    # mh "Exactly. The pleasure - or pain - can be one of the most intense experiences on ever has."
-    mh "Exactly. The pleasure - or pain - can be one of the most intense experiences on ever has."
+    # mh "Exactly. The pleasure - or pain - can be one of the most intense experiences one ever has."
+    mh "Exactly. The pleasure - or pain - can be one of the most intense experiences one ever has."
 
 # game/code/e02/e02s07.rpy:494
 translate chinese e02s07_sex_fbb0f273:
@@ -1665,4 +1665,3 @@ translate chinese strings:
     # game/code/e02/e02s07.rpy:448
     old "Let Lyssa Fuck You Instead"
     new "Let Lyssa Fuck You Instead"
-

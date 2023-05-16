@@ -126,11 +126,11 @@ translate chinese e02s10_cf000704:
     # mc "Really? I was thinking this would be for when you're finished with the lawsuit."
     mc "Really? I was thinking this would be for when you're finished with the lawsuit."
 
-# game/code/e02/e02s10.rpy:70
-translate chinese e02s10_2e40df10:
+# game/code/e02/e02s10.rpy:78
+translate chinese e02s10_9b9880f8:
 
-    # mh "*sighs* The lawsuit is not going away any time soon.. But that is why this is perfect for me."
-    mh "*sighs* The lawsuit is not going away any time soon.. But that is why this is perfect for me."
+    # mh "*sighs* The lawsuit is not going away any time soon. But that is why this is perfect for me."
+    mh "*sighs* The lawsuit is not going away any time soon. But that is why this is perfect for me."
 
 # game/code/e02/e02s10.rpy:71
 translate chinese e02s10_f831b0a9:
@@ -822,11 +822,11 @@ translate chinese e02s10_months_later_09f81a15:
     # mh "I just need to be sure I will have my partner in crime with me. If you think you are up to it."
     mh "I just need to be sure I will have my partner in crime with me. If you think you are up to it."
 
-# game/code/e02/e02s10.rpy:452
-translate chinese e02s10_months_later_6cc0df78:
+# game/code/e02/e02s10.rpy:471
+translate chinese e02s10_months_later_4ce195cc:
 
-    # mc "Absolutely! Besides, woudln't it be a waste if we just made it a really nice place to fuck?"
-    mc "Absolutely! Besides, woudln't it be a waste if we just made it a really nice place to fuck?"
+    # mc "Absolutely! Besides, wouldn't it be a waste if we just made it a really nice place to fuck?"
+    mc "Absolutely! Besides, wouldn't it be a waste if we just made it a really nice place to fuck?"
 
 # game/code/e02/e02s10.rpy:455
 translate chinese e02s10_months_later_e41e6825:
@@ -853,4 +853,3 @@ translate chinese strings:
     # game/code/e02/e02s10.rpy:411
     old "A few months later"
     new "A few months later"
-

@@ -858,11 +858,11 @@ translate chinese e02s08_sex_51d1985d:
     # ap "Mhm. Do it. Choke on it like you made me choke on your dick."
     ap "Mhm. Do it. Choke on it like you made me choke on your dick."
 
-# game/code/e02/e02s08.rpy:397
-translate chinese e02s08_sex_3506da80:
+# game/code/e02/e02s08.rpy:413
+translate chinese e02s08_sex_cf36e7fc:
 
-    # mct "Well, we all gotta start out somewhere."
-    mct "Well, we all gotta start out somewhere."
+    # mc "Well, we all gotta start out somewhere."
+    mc "Well, we all gotta start out somewhere."
 
 # game/code/e02/e02s08.rpy:401
 translate chinese e02s08_sex_b7baeaf2:
@@ -1482,11 +1482,11 @@ translate chinese e02s08_foursome_76affe65:
     # mc "I don't— Fuck I don't think I can hold on much longer."
     mc "I don't— Fuck I don't think I can hold on much longer."
 
-# game/code/e02/e02s08.rpy:725
-translate chinese e02s08_foursome_e8f4f50e:
+# game/code/e02/e02s08.rpy:748
+translate chinese e02s08_foursome_828a1e73:
 
-    # mh "*Voice husky* Yeah... You're so tight, Angela."
-    mh "*Voice husky* Yeah... You're so tight, Angela."
+    # mh "*husky voice* Yeah... You're so tight, Angela."
+    mh "*husky voice* Yeah... You're so tight, Angela."
 
 # game/code/e02/e02s08.rpy:728
 translate chinese e02s08_foursome_a62fb468:
@@ -1593,4 +1593,3 @@ translate chinese strings:
     # game/code/e02/e02s08.rpy:329
     old "Be submissive with Lyssa"
     new "Be submissive with Lyssa"
-

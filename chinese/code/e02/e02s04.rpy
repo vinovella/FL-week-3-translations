@@ -222,11 +222,11 @@ translate chinese e02s04_photo_e7da310f:
     # atp "And you are Melissa Harris."
     atp "你是梅丽莎·哈里斯。"
 
-# game/code/e02/e02s04.rpy:118
-translate chinese e02s04_photo_fb983c70:
+# game/code/e02/e02s04.rpy:128
+translate chinese e02s04_photo_a2b13b41:
 
-    # mh "Pleased to meet you. This is my boyfriend, [mcname], now can you delete that photo?"
-    mh "很高兴见到你们。这是我男朋友[mcname]，现在能请你删掉那张照片吗？"
+    # mh "Pleased to meet you. This is my boyfriend, [mcname]. Now can you delete that photo?"
+    mh "很高兴见到你们。这是我男朋友[mcname]。现在能请你删掉那张照片吗？"
 
 # game/code/e02/e02s04.rpy:121
 translate chinese e02s04_photo_85e6258a:
@@ -732,11 +732,11 @@ translate chinese e02s04_fireplace_19f85401:
     # mc "{size=-10}*whispers* Well how about at least we go to our cabin. You know...{/size}"
     mc "{size=-10}*低语* 好吧，至少我们回小屋去。你知道...{/size}"
 
-# game/code/e02/e02s04.rpy:346
-translate chinese e02s04_fireplace_0e37059a:
+# game/code/e02/e02s04.rpy:373
+translate chinese e02s04_fireplace_81a40b8d:
 
-    # mct "{size=-10}..away from them.{/size}"
-    mct "{size=-10}...远离他们。{/size}"
+    # mc "{size=-10}..away from them.{/size}"
+    mc "{size=-10}...远离他们。{/size}"
 
 # game/code/e02/e02s04.rpy:348
 translate chinese e02s04_fireplace_f35d9d98:
@@ -1140,11 +1140,11 @@ translate chinese e02s04_next_day_a8f92618:
     # mh "Mmm. Maybe it was meant to be..."
     mh "嗯。也许这是命中注定..."
 
-# game/code/e02/e02s04.rpy:509
-translate chinese e02s04_next_day_9413fd35:
+# game/code/e02/e02s04.rpy:571
+translate chinese e02s04_next_day_234defd5:
 
-    # mc "I know that look, what are you up to, Lyssa?"
-    mc "我知道你这表情，丽莎，你到底想干什么？"
+    # mc "I know that look. What are you up to, Lyssa?"
+    mc "我知道你这表情，丽莎。你到底想干什么？"
 
 # game/code/e02/e02s04.rpy:512
 translate chinese e02s04_next_day_e97e8df6:
@@ -1356,11 +1356,11 @@ translate chinese e02s04_next_day_2_4cd089a0:
     # dn "Has your situation affected your sex life?"
     dn "你的情况影响到你的性生活了吗？"
 
-# game/code/e02/e02s04.rpy:627
-translate chinese e02s04_next_day_2_67cd98ba:
+# game/code/e02/e02s04.rpy:704
+translate chinese e02s04_next_day_2_6103a7f3:
 
-    # mh "[mcname] and I have a very great relationship, despite whatever obstacles we may face, we overcome them through communication and love."
-    mh "我和[mcname]的关系非常好，尽管我们可能面临一些障碍，但我们都通过沟通和爱克服掉了。"
+    # mh "[mcname] and I have a very great relationship. Despite whatever obstacles we may face, we overcome them through communication and love."
+    mh "我和[mcname]的关系非常好，尽管我们可能面临一些障碍。但我们都通过沟通和爱克服掉了。"
 
 # game/code/e02/e02s04.rpy:630
 translate chinese e02s04_next_day_2_cc9b870d:
@@ -1535,4 +1535,3 @@ translate chinese strings:
     # game/code/e02/e02s04.rpy:532
     old "One shower later"
     new "冲澡后"
-

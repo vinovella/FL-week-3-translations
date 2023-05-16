@@ -4,7 +4,7 @@
 translate chinese e02s05_71d34fa3:
 
     # mc "You want it harder?"
-    mc "你想更猛一点吗？
+    mc "你想更猛一点吗？"
 
 # game/code/e02/e02s05.rpy:20
 translate chinese e02s05_7781c8a8:
@@ -268,7 +268,7 @@ translate chinese e02s05_later_8daef3dd:
 translate chinese e02s05_later_4f33fb7c:
 
     # mc "And if we can't help, you guys can pretend like we aren't here."
-    mc "如果我们帮不上忙，你们可以假装我们不在这里。
+    mc "如果我们帮不上忙，你们可以假装我们不在这里。"
 
 # game/code/e02/e02s05.rpy:146
 translate chinese e02s05_later_5ee4ddcf:
@@ -514,7 +514,7 @@ translate chinese e02s05_later_639f0296:
 translate chinese e02s05_later_4d6c00b5:
 
     # mh "Of course, I'm sure we all know how to get in touch with each other."
-    mh 当然，我相信我们都知道如何联系彼此。"
+    mh "当然，我相信我们都知道如何联系彼此。"
 
 # game/code/e02/e02s05.rpy:245
 translate chinese e02s05_later_3a8e84ea:
@@ -622,7 +622,7 @@ translate chinese e02s05_menu_37338b68:
 translate chinese e02s05_menu_ac0b9fc9:
 
     # mh "Same thing we do every night, Pinky."
-    mh "跟我们每晚做的一样，迷人宝贝。
+    mh "跟我们每晚做的一样，迷人宝贝。"
 
 # game/code/e02/e02s05.rpy:302
 translate chinese e02s05_menu_51657ec4:
