@@ -1279,3 +1279,11 @@ translate chinese strings:
     # game/code/e02/e02s01.rpy:406
     old "Give Lyssa pleasure"
     new "让丽莎开心"
+
+# TODO: Translation updated at 2023-05-17 01:28
+
+# game/code/e02/e02s01.rpy:713
+translate chinese e02s01_give_pleasure_f7d6991f:
+
+    # mh "Fuck me harder!"
+    mh "狠狠地插我！"

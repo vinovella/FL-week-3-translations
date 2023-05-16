@@ -1280,3 +1280,10 @@ translate portuguese strings:
     old "Give Lyssa pleasure"
     new "Satisfazer Lyssa"
 
+# TODO: Translation updated at 2023-05-17 01:29
+
+# game/code/e02/e02s01.rpy:713
+translate portuguese e02s01_give_pleasure_f7d6991f:
+
+    # mh "Fuck me harder!"
+    mh "Me fode mais forte!"
