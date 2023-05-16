@@ -856,683 +856,683 @@ translate chinese e02s04_fireplace_0061d983:
 translate chinese e02s04_fireplace_6eccf0e9:
 
     # mct "It's always a treat getting to see Lyssa in action."
-    mct "It's always a treat getting to see Lyssa in action."
+    mct "看到丽莎的表演总是一种享受。"
 
 # game/code/e02/e02s04.rpy:387
 translate chinese e02s04_fireplace_8439d294:
 
     # ap "Um. Yes?"
-    ap "Um. Yes?"
+    ap "嗯。是吗？"
 
 # game/code/e02/e02s04.rpy:389
 translate chinese e02s04_fireplace_f5592960:
 
     # mh "You seem like a very nice man, Alexander."
-    mh "You seem like a very nice man, Alexander."
+    mh "你看起来是个很好的人，亚历山大。"
 
 # game/code/e02/e02s04.rpy:390
 translate chinese e02s04_fireplace_5cc5f5b2:
 
     # mh "You're unassuming, calm, rational, but you are not outspoken - which seems odd given what you do for a living."
-    mh "You're unassuming, calm, rational, but you are not outspoken - which seems odd given what you do for a living."
+    mh "你谦逊、冷静、理性，但你并非有话直说--考虑到你的职业，这似乎很奇怪。"
 
 # game/code/e02/e02s04.rpy:392
 translate chinese e02s04_fireplace_3e8756fe:
 
     # ap "I suppose that's true."
-    ap "I suppose that's true."
+    ap "说的不错。"
 
 # game/code/e02/e02s04.rpy:394
 translate chinese e02s04_fireplace_20c000d9:
 
     # mc "But that's just work. You're playing a specific role, but that doesn't mean you want to do that all the time."
-    mc "But that's just work. You're playing a specific role, but that doesn't mean you want to do that all the time."
+    mc "那只是工作。你在职场中扮演一个特定的角色，但这并不意味着你想一直保持这样。"
 
 # game/code/e02/e02s04.rpy:396
 translate chinese e02s04_fireplace_fc1832b5:
 
     # ap "Yes."
-    ap "Yes."
+    ap "是的。"
 
 # game/code/e02/e02s04.rpy:398
 translate chinese e02s04_fireplace_5cd03cbe:
 
     # mh "And you, Angela, you are the complete opposite. You are full of energy, you say whatever is on your mind."
-    mh "And you, Angela, you are the complete opposite. You are full of energy, you say whatever is on your mind."
+    mh "而你，安吉拉，你完全相反。你充满了"
 
 # game/code/e02/e02s04.rpy:399
 translate chinese e02s04_fireplace_1d77236e:
 
     # mh "Your job fits your personality perfectly. You're the one in charge, all the time."
-    mh "Your job fits your personality perfectly. You're the one in charge, all the time."
+    mh "你的工作和你的个性非常吻合。你是管事的，一直都是。"
 
 # game/code/e02/e02s04.rpy:401
 translate chinese e02s04_fireplace_ff4126cb:
 
     # atp "Damn right."
-    atp "Damn right."
+    atp "太对了。"
 
 # game/code/e02/e02s04.rpy:403
 translate chinese e02s04_fireplace_694e9cff:
 
     # mh "And I think that is part of the problem. You two are just so opposite that without good and open communication, I think that things will get worse."
-    mh "And I think that is part of the problem. You two are just so opposite that without good and open communication, I think that things will get worse."
+    mh "我认为这是问题的一部分。你们俩正好相反，如果没有良好、坦诚的沟通，关系会变得更糟。"
 
 # game/code/e02/e02s04.rpy:404
 translate chinese e02s04_fireplace_88886ab0:
 
     # mh "In the courtroom, if the lawyer and client are not honest with one another, there is no way they'll win the case."
-    mh "In the courtroom, if the lawyer and client are not honest with one another, there is no way they'll win the case."
+    mh "在法庭上，如果律师和当事人对彼此都不诚实，他们就不可能打赢官司。"
 
 # game/code/e02/e02s04.rpy:405
 translate chinese e02s04_fireplace_8400a2bd:
 
     # mct "Huh. On TV, clients are always holding back things from their lawyer. I guess it's different in the real world."
-    mct "Huh. On TV, clients are always holding back things from their lawyer. I guess it's different in the real world."
+    mct "啊。在电视上，客户总是对他们的律师有所隐瞒。看来和现实世界不一样。"
 
 # game/code/e02/e02s04.rpy:408
 translate chinese e02s04_fireplace_cb2d7258:
 
     # atp "So what, we should talk more?"
-    atp "So what, we should talk more?"
+    atp "所以呢，我们应该多谈谈吗？"
 
 # game/code/e02/e02s04.rpy:411
 translate chinese e02s04_fireplace_ee1b26dd:
 
     # mh "Communicate more, yes. That's part of it."
-    mh "Communicate more, yes. That's part of it."
+    mh "是的，多交流。这是其中的一部分。"
 
 # game/code/e02/e02s04.rpy:412
 translate chinese e02s04_fireplace_b4c98586:
 
     # mh "I think there is something deeper just beneath the surface."
-    mh "I think there is something deeper just beneath the surface."
+    mh "我认为在表面之下还有更深层的东西。"
 
 # game/code/e02/e02s04.rpy:415
 translate chinese e02s04_fireplace_9628af6c:
 
     # atp "Well we appreciate the advice. I think we'll give you two some space."
-    atp "Well we appreciate the advice. I think we'll give you two some space."
+    atp "我们很感谢你的建议。我想还是给你们俩留点空间吧。"
 
 # game/code/e02/e02s04.rpy:416
 translate chinese e02s04_fireplace_627cadc5:
 
     # atp "We don't want to take up any more of your vacation."
-    atp "We don't want to take up any more of your vacation."
+    atp "我们不想再占用你们的假期了。"
 
 # game/code/e02/e02s04.rpy:419
 translate chinese e02s04_fireplace_87add3f5:
 
     # mc "Not a problem."
-    mc "Not a problem."
+    mc "没问题。"
 
 # game/code/e02/e02s04.rpy:421
 translate chinese e02s04_fireplace_d4a7a895:
 
     # ap "Thanks so much for your patience. And um... you'll keep this between us."
-    ap "Thanks so much for your patience. And um... you'll keep this between us."
+    ap "T非常感谢你的耐心。还有...这件事你不要告诉别人。"
 
 # game/code/e02/e02s04.rpy:423
 translate chinese e02s04_fireplace_106e6132:
 
     # mc "Of course. No problem."
-    mc "Of course. No problem."
+    mc "当然可以。没问题。"
 
 # game/code/e02/e02s04.rpy:426
 translate chinese e02s04_fireplace_8c6c7812:
 
     # ap "Thanks."
-    ap "Thanks."
+    ap "谢谢。"
 
 # game/code/e02/e02s04.rpy:429
 translate chinese e02s04_fireplace_ab0498d1:
 
     # mh "I just hope it helps."
-    mh "I just hope it helps."
+    mh "我只是希望能够对你们有所帮助。"
 
 # game/code/e02/e02s04.rpy:431
 translate chinese e02s04_fireplace_7761144d:
 
     # atp "I guess we'll see."
-    atp "I guess we'll see."
+    atp "我们拭目以待。"
 
 # game/code/e02/e02s04.rpy:433
 translate chinese e02s04_fireplace_22ef3819:
 
     # mh "To our room?"
-    mh "To our room?"
+    mh "去我们的房间？"
 
 # game/code/e02/e02s04.rpy:434
 translate chinese e02s04_fireplace_0967b47e:
 
     # mc "You read my mind."
-    mc "You read my mind."
+    mc "被你看透了。"
 
 # game/code/e02/e02s04.rpy:454
 translate chinese e02s04_next_day_5024f954:
 
     # mh "Mmm. What time is it?"
-    mh "Mmm. What time is it?"
+    mh "嗯。现在几点了？"
 
 # game/code/e02/e02s04.rpy:457
 translate chinese e02s04_next_day_14ba5475:
 
     # mc "Early. But I already feel fully rested. {w}These beds are amazing."
-    mc "Early. But I already feel fully rested. {w}These beds are amazing."
+    mc "早着呢。但我已经感觉在休息了。{w}这些床太棒了。"
 
 # game/code/e02/e02s04.rpy:459
 translate chinese e02s04_next_day_ac3b5b40:
 
     # mh "Mmmhmm."
-    mh "Mmmhmm."
+    mh "嗯。"
 
 # game/code/e02/e02s04.rpy:462
 translate chinese e02s04_next_day_2183183a:
 
     # mc "I know you don't want to talk about work. But I've got some pretty intense messages from Oliver on here."
-    mc "I know you don't want to talk about work. But I've got some pretty intense messages from Oliver on here."
+    mc "我知道你不想谈工作。但是我从奥利弗那里得到了一些非常强烈的信息。"
 
 # game/code/e02/e02s04.rpy:464
 translate chinese e02s04_next_day_ea0d1bf8:
 
     # mh "Did he say which case is giving him trouble?"
-    mh "Did he say which case is giving him trouble?"
+    mh "他有没有说哪个案子给他带来麻烦？"
 
 # game/code/e02/e02s04.rpy:467
 translate chinese e02s04_next_day_393a0407:
 
     # mc "He says it's privileged information. Not for my peasant eyes."
-    mc "He says it's privileged information. Not for my peasant eyes."
+    mc "他说这是机密信息。我这农民的眼睛可看不出来。"
 
 # game/code/e02/e02s04.rpy:470
 translate chinese e02s04_next_day_12a093f5:
 
     # mh "I haven't taken a real vacation in forever. {w}Can it {i}really{/i} be that important?"
-    mh "I haven't taken a real vacation in forever. {w}Can it {i}really{/i} be that important?"
+    mh "我已经很久没有真正度过假了。什么案子{i}真的{/i}那么重要吗？"
 
 # game/code/e02/e02s04.rpy:473
 translate chinese e02s04_next_day_ab5dc583:
 
     # mc "I don't think he'd go to this much effort if it wasn't important, Lyssa."
-    mc "I don't think he'd go to this much effort if it wasn't important, Lyssa."
+    mc "如果不是重要的事，我想他是不会费这么大劲的，丽莎。"
 
 # game/code/e02/e02s04.rpy:476
 translate chinese e02s04_next_day_241fc11e:
 
     # mh "Okay. Alright, I'll call him tomorrow. Let me borrow your phone."
-    mh "Okay. Alright, I'll call him tomorrow. Let me borrow your phone."
+    mh "好了。我明天给他打电话。让我借用一下你的手机。"
 
 # game/code/e02/e02s04.rpy:478
 translate chinese e02s04_next_day_ec742939:
 
     # mh "That does appear to be an above average amount of text messages."
-    mh "That does appear to be an above average amount of text messages."
+    mh "这么多条，好像确实是高于日常对话的平均水平了。"
 
 # game/code/e02/e02s04.rpy:480
 translate chinese e02s04_next_day_473f6d41:
 
     # mc "Yup."
-    mc "Yup."
+    mc "是的。"
 
 # game/code/e02/e02s04.rpy:483
 translate chinese e02s04_next_day_d6d5d5a1:
 
     # mh "I'll text him now."
-    mh "I'll text him now."
+    mh "我现在就给他发短信。"
 
 # game/code/e02/e02s04.rpy:484
 translate chinese e02s04_next_day_ce8dad45:
 
     # mh "Hey Oliver. This is Lyssa. Call you tomorrow."
-    mh "Hey Oliver. This is Lyssa. Call you tomorrow."
+    mh "嗨，奥利弗。我是丽莎。明天给你打电话。"
 
 # game/code/e02/e02s04.rpy:486
 translate chinese e02s04_next_day_5b48782b:
 
     # mh "Done. I hope that didn't spoil things."
-    mh "Done. I hope that didn't spoil things."
+    mh "好了。希望这没有破坏我们的气氛。"
 
 # game/code/e02/e02s04.rpy:487
 translate chinese e02s04_next_day_c3121cc0:
 
     # mh "The more I step back into the work lake, the more my brain will leave vacation mountain."
-    mh "The more I step back into the work lake, the more my brain will leave vacation mountain."
+    mh "我多想一点工作上的事，我的大脑就越会越早偏离这次的度假。"
 
 # game/code/e02/e02s04.rpy:490
 translate chinese e02s04_next_day_4b9c519b:
 
     # mc "You're fine, Lyssa. A little work distraction is nothing compared to the distraction from yesterday."
-    mc "You're fine, Lyssa. A little work distraction is nothing compared to the distraction from yesterday."
+    mc "你很好，丽莎。与昨天的分心相比，工作上的一点分心根本不算什么。"
 
 # game/code/e02/e02s04.rpy:493
 translate chinese e02s04_next_day_5a8bf385:
 
     # mh "It was distracting. But... I kind of enjoyed it. Offering them some pointers."
-    mh "It was distracting. But... I kind of enjoyed it. Offering them some pointers."
+    mh "是让人分心。但是...我还挺喜欢的。向他们提供一些建议。"
 
 # game/code/e02/e02s04.rpy:496
 translate chinese e02s04_next_day_c83ce422:
 
     # mc "You certainly got into your element."
-    mc "You certainly got into your element."
+    mc "你确实进入了自己的领域。"
 
 # game/code/e02/e02s04.rpy:499
 translate chinese e02s04_next_day_aed80020:
 
     # mh "We both did. Do you think it helped them? Angela and Alexander."
-    mh "We both did. Do you think it helped them? Angela and Alexander."
+    mh "我们都是。你认为这对他们有帮助吗？安吉拉和亚历山大。"
 
 # game/code/e02/e02s04.rpy:502
 translate chinese e02s04_next_day_c1b7a06d:
 
     # mc "I don't think it could hurt. Man, can you imagine coming all this way out there for some special couples therapy and the therapist doesn't make it?"
-    mc "I don't think it could hurt. Man, can you imagine coming all this way out there for some special couples therapy and the therapist doesn't make it?"
+    mc "我不认为这有什么坏处。你想想，大老远跑到这里来接受特殊的夫妻治疗，结果治疗师却没现身，这算什么事呀？"
 
 # game/code/e02/e02s04.rpy:503
 translate chinese e02s04_next_day_58ab3709:
 
     # mc "Talk about bad luck."
-    mc "Talk about bad luck."
+    mc "真倒霉。"
 
 # game/code/e02/e02s04.rpy:506
 translate chinese e02s04_next_day_a8f92618:
 
     # mh "Mmm. Maybe it was meant to be..."
-    mh "Mmm. Maybe it was meant to be..."
+    mh "嗯。也许这是命中注定..."
 
 # game/code/e02/e02s04.rpy:509
 translate chinese e02s04_next_day_9413fd35:
 
     # mc "I know that look, what are you up to, Lyssa?"
-    mc "I know that look, what are you up to, Lyssa?"
+    mc "我知道你这表情，丽莎，你到底想干什么？"
 
 # game/code/e02/e02s04.rpy:512
 translate chinese e02s04_next_day_e97e8df6:
 
     # mh "I'll tell you on the way, but first we need to shower."
-    mh "I'll tell you on the way, but first we need to shower."
+    mh "我在路上告诉你，不过我们得先洗个澡。"
 
 # game/code/e02/e02s04.rpy:515
 translate chinese e02s04_next_day_5aab8d3f:
 
     # mc "Okay, I like where this is going so far."
-    mc "Okay, I like where this is going so far."
+    mc "好吧，我喜欢目前的进展。"
 
 # game/code/e02/e02s04.rpy:525
 translate chinese e02s04_next_day_54319235:
 
     # mh "Shower time, Baby."
-    mh "Shower time, Baby."
+    mh "洗澡时间到了，宝贝。"
 
 # game/code/e02/e02s04.rpy:540
 translate chinese e02s04_next_day_2_2383f5da:
 
     # mh "Well well well, I see we have visitors."
-    mh "Well well well, I see we have visitors."
+    mh "哎等等等等，我看到有人来了。"
 
 # game/code/e02/e02s04.rpy:543
 translate chinese e02s04_next_day_2_4952c290:
 
     # mc "Hi. Can we help you?"
-    mc "Hi. Can we help you?"
+    mc "嗨。我们能帮你吗？"
 
 # game/code/e02/e02s04.rpy:546
 translate chinese e02s04_next_day_2_79cbd550:
 
     # ms "Hello. We're in the next cabin over. I'm Mikaela and this is Dorothy."
-    ms "Hello. We're in the next cabin over. I'm Mikaela and this is Dorothy."
+    ms "你好。我们在隔壁小屋。我是米凯拉，这是多萝西。"
 
 # game/code/e02/e02s04.rpy:547
 translate chinese e02s04_next_day_2_3a19e63d:
 
     # ms "Dorothy wanted to talk to you later, but I was hoping to catch you before you hit the slopes."
-    ms "Dorothy wanted to talk to you later, but I was hoping to catch you before you hit the slopes."
+    ms "多萝西想晚点跟你谈谈，但我希望能在你撞到斜坡之前见到你们。"
 
 # game/code/e02/e02s04.rpy:550
 translate chinese e02s04_next_day_2_2dd956e3:
 
     # mc "Nice to meet you two."
-    mc "Nice to meet you two."
+    mc "很高兴认识你们两个。"
 
 # game/code/e02/e02s04.rpy:553
 translate chinese e02s04_next_day_2_b49038fa:
 
     # mh "I'm Lyssa and this is my boyfriend. Let's get in from the cold."
-    mh "I'm Lyssa and this is my boyfriend. Let's get in from the cold."
+    mh "我叫丽莎，这是我男朋友。我们进去吧，免得受冻。"
 
 # game/code/e02/e02s04.rpy:556
 translate chinese e02s04_next_day_2_b1876f9d:
 
     # mh "Everything alright, Mikaela?"
-    mh "Everything alright, Mikaela?"
+    mh "一切都好吧，米凯拉？"
 
 # game/code/e02/e02s04.rpy:559
 translate chinese e02s04_next_day_2_804b5fbe:
 
     # ms "Hmmm. Yup. I thought so."
-    ms "Hmmm. Yup. I thought so."
+    ms "嗯。是的。都很好。"
 
 # game/code/e02/e02s04.rpy:562
 translate chinese e02s04_next_day_2_9cf607e4:
 
     # mh "What?"
-    mh "What?"
+    mh "什么？"
 
 # game/code/e02/e02s04.rpy:564
 translate chinese e02s04_next_day_2_361c3ae6:
 
     # dn "You two got the best cabin."
-    dn "You two got the best cabin."
+    dn "你们俩的小屋是最好的。"
 
 # game/code/e02/e02s04.rpy:567
 translate chinese e02s04_next_day_2_10c8a3cf:
 
     # mc "Aren't they all the same layout?"
-    mc "Aren't they all the same layout?"
+    mc "屋子的布局不都一样吗？"
 
 # game/code/e02/e02s04.rpy:570
 translate chinese e02s04_next_day_2_8a465964:
 
     # ms "Same layout, but ours keep getting hit with the wind. It's built secure enough, but that cold likes to sneak in through the walls."
-    ms "Same layout, but ours keep getting hit with the wind. It's built secure enough, but that cold likes to sneak in through the walls."
+    ms "同样的布局，但我们的总是被风吹到。房子建得很安全，可那股寒气总喜欢从墙里溜进来。"
 
 # game/code/e02/e02s04.rpy:571
 translate chinese e02s04_next_day_2_e054e66b:
 
     # ms "But it's fine. If we didn't have a cold cabin, we wouldn't enjoy the sauna so much."
-    ms "But it's fine. If we didn't have a cold cabin, we wouldn't enjoy the sauna so much."
+    ms "但是没关系。如果我们的小屋没那么冷，我们也就不会这么享受桑拿了。"
 
 # game/code/e02/e02s04.rpy:574
 translate chinese e02s04_next_day_2_d35c9ded:
 
     # dn "Mmhmm. That's true."
-    dn "Mmhmm. That's true."
+    dn "这倒是真的。"
 
 # game/code/e02/e02s04.rpy:577
 translate chinese e02s04_next_day_2_30d577e6:
 
     # mh "So, what brings you over this early?"
-    mh "So, what brings you over this early?"
+    mh "什么风把你吹来这么早？"
 
 # game/code/e02/e02s04.rpy:580
 translate chinese e02s04_next_day_2_13ac55d8:
 
     # ms "We wanted to apologize for how we acted yesterday."
-    ms "We wanted to apologize for how we acted yesterday."
+    ms "我们想为昨天的行为道歉。"
 
 # game/code/e02/e02s04.rpy:583
 translate chinese e02s04_next_day_2_db4e95cc:
 
     # mh "I don't understand."
-    mh "I don't understand."
+    mh "我不明白。"
 
 # game/code/e02/e02s04.rpy:586
 translate chinese e02s04_next_day_2_c7a8b484:
 
     # ms "That couple just couldn't leave you alone to enjoy your vacation."
-    ms "That couple just couldn't leave you alone to enjoy your vacation."
+    ms "那对夫妇就是不能让你单独享受假期。"
 
 # game/code/e02/e02s04.rpy:589
 translate chinese e02s04_next_day_2_918a84b7:
 
     # dn "We certainly could have stuck around and maybe given you an out."
-    dn "We certainly could have stuck around and maybe given you an out."
+    dn "我们当然可以留下来，也许给你一个机会。"
 
 # game/code/e02/e02s04.rpy:592
 translate chinese e02s04_next_day_2_a770b5e8:
 
     # mc "That's really nice of you to be concerned, but it wasn't all bad."
-    mc "That's really nice of you to be concerned, but it wasn't all bad."
+    mc "你这么关心我真是太好了，但也不全是坏事。"
 
 # game/code/e02/e02s04.rpy:595
 translate chinese e02s04_next_day_2_122f888f:
 
     # ms "Really? They weren't like stalking you or something?"
-    ms "Really? They weren't like stalking you or something?"
+    ms "真的吗？他们不会是在跟踪你吧？"
 
 # game/code/e02/e02s04.rpy:598
 translate chinese e02s04_next_day_2_69036438:
 
     # mc "No. It was more of a misunderstanding. I mean, don't get me wrong, they're an interesting pair, but not jerks or anything like that."
-    mc "No. It was more of a misunderstanding. I mean, don't get me wrong, they're an interesting pair, but not jerks or anything like that."
+    mc "没有。这更像是一场误会。不要误解我的意思，他们是有趣的一对，但不是混蛋之类的。"
 
 # game/code/e02/e02s04.rpy:601
 translate chinese e02s04_next_day_2_d64285b4:
 
     # mh "Yes, we even ended up... I guess you'd say we shared a few words of potential wisdom."
-    mh "Yes, we even ended up... I guess you'd say we shared a few words of potential wisdom."
+    mh "是的，我们甚至最后...可以说我们分享了一些潜在的智慧之言。"
 
 # game/code/e02/e02s04.rpy:604
 translate chinese e02s04_next_day_2_d7b95be3:
 
     # dn "Well, now you have to tell us what it was about."
-    dn "Well, now you have to tell us what it was about."
+    dn "好吧，现在你得告诉我们是怎么回事了。"
 
 # game/code/e02/e02s04.rpy:606
 translate chinese e02s04_next_day_2_7b881570:
 
     # ms "Totally. Hosts shouldn't tease their guests."
-    ms "Totally. Hosts shouldn't tease their guests."
+    ms "完全。主人不应该取笑客人。"
 
 # game/code/e02/e02s04.rpy:609
 translate chinese e02s04_next_day_2_475e6bcc:
 
     # mh "They were curious about us because I am transgender. We ended up talking after that about our relationships."
-    mh "They were curious about us because I am transgender. We ended up talking after that about our relationships."
+    mh "他们对我们很好奇，因为我是变性人。在那之后，我们谈到了我们的关系。"
 
 # game/code/e02/e02s04.rpy:612
 translate chinese e02s04_next_day_2_88ec7067:
 
     # ms "And you two are comfortable... talking with people about their relationships?"
-    ms "And you two are comfortable... talking with people about their relationships?"
+    ms "你们俩很习惯于...和别人谈论他们的关系？"
 
 # game/code/e02/e02s04.rpy:615
 translate chinese e02s04_next_day_2_8a48ee7c:
 
     # mc "Hehe, well we're not usually super open around strangers, but everyone kept their clothes on."
-    mc "Hehe, well we're not usually super open around strangers, but everyone kept their clothes on."
+    mc "呵呵，我们在陌生人面前通常不会太开放，但大家都穿着衣服呢。"
 
 # game/code/e02/e02s04.rpy:617
 translate chinese e02s04_next_day_2_dfc3c9f2:
 
     # mh "Mmhmm."
-    mh "Mmhmm."
+    mh "嗯。"
 
 # game/code/e02/e02s04.rpy:620
 translate chinese e02s04_next_day_2_dee28fdc:
 
     # ms "Mind if I ask you something?"
-    ms "Mind if I ask you something?"
+    ms "介意我问你个问题吗？"
 
 # game/code/e02/e02s04.rpy:622
 translate chinese e02s04_next_day_2_10ee1c4d:
 
     # mh "Go ahead, I won't bite."
-    mh "Go ahead, I won't bite."
+    mh "问吧，我不会咬人的。"
 
 # game/code/e02/e02s04.rpy:624
 translate chinese e02s04_next_day_2_4cd089a0:
 
     # dn "Has your situation affected your sex life?"
-    dn "Has your situation affected your sex life?"
+    dn "你的情况影响到你的性生活了吗？"
 
 # game/code/e02/e02s04.rpy:627
 translate chinese e02s04_next_day_2_67cd98ba:
 
     # mh "[mcname] and I have a very great relationship, despite whatever obstacles we may face, we overcome them through communication and love."
-    mh "[mcname] and I have a very great relationship, despite whatever obstacles we may face, we overcome them through communication and love."
+    mh "我和[mcname]的关系非常好，尽管我们可能面临一些障碍，但我们都通过沟通和爱克服掉了。"
 
 # game/code/e02/e02s04.rpy:630
 translate chinese e02s04_next_day_2_cc9b870d:
 
     # ms "That sounds wonderful."
-    ms "That sounds wonderful."
+    ms "听起来不错。"
 
 # game/code/e02/e02s04.rpy:631
 translate chinese e02s04_next_day_2_d486cdaa:
 
     # ms "We actually came to Snowy Peaks to talk to a counselor about it, but he didn't make it."
-    ms "We actually came to Snowy Peaks to talk to a counselor about it, but he didn't make it."
+    ms "实际上，我们实际上是来雪峰找咨询师谈这个问题的，但他没能来。"
 
 # game/code/e02/e02s04.rpy:634
 translate chinese e02s04_next_day_2_d5ec033b:
 
     # mc "The other couple, they came to see him too."
-    mc "The other couple, they came to see him too."
+    mc "另外一对夫妇也来看他了。"
 
 # game/code/e02/e02s04.rpy:637
 translate chinese e02s04_next_day_2_ddbf3d42:
 
     # dn "Oh... that makes sense. Then maybe we should invite them to our next meeting."
-    dn "Oh... that makes sense. Then maybe we should invite them to our next meeting."
+    dn "哦...可以理解。那么也许我们应该邀请他们参加我们的下次会议。"
 
 # game/code/e02/e02s04.rpy:639
 translate chinese e02s04_next_day_2_fab20edd:
 
     # mh "Meeting?"
-    mh "Meeting?"
+    mh "会议？"
 
 # game/code/e02/e02s04.rpy:642
 translate chinese e02s04_next_day_2_67eb1a57:
 
     # ms "Yes we met with Frank and Ashley - the Coopers. They're another couple here."
-    ms "Yes we met with Frank and Ashley - the Coopers. They're another couple here."
+    ms "是的，我们见到了弗兰克和艾希莉--那对库珀夫妇。他们也来这了。"
 
 # game/code/e02/e02s04.rpy:645
 translate chinese e02s04_next_day_2_bc2013d6:
 
     # mc "Right, we met them earlier."
-    mc "Right, we met them earlier."
+    mc "对，我们之前见过他们。"
 
 # game/code/e02/e02s04.rpy:648
 translate chinese e02s04_next_day_2_24c86245:
 
     # ms "That's great. Ever since we met them we've been having our own counseling sessions."
-    ms "That's great. Ever since we met them we've been having our own counseling sessions."
+    ms "太好了。自从我们遇到他们之后，我们就开始了自己的心理咨询。"
 
 # game/code/e02/e02s04.rpy:650
 translate chinese e02s04_next_day_2_aeddc368:
 
     # dn "Just minus the counselor."
-    dn "Just minus the counselor."
+    dn "只是少了咨询师。"
 
 # game/code/e02/e02s04.rpy:651
 translate chinese e02s04_next_day_2_4b063db9:
 
     # ms "Maybe we don't need one. You two seem to have things figured out. Maybe... you could listen in and share some advice."
-    ms "Maybe we don't need one. You two seem to have things figured out. Maybe... you could listen in and share some advice."
+    ms "也许我们不需要咨询师。你们俩看来蛮有智慧的。也许...你可以来听听，分享一些建议。"
 
 # game/code/e02/e02s04.rpy:652
 translate chinese e02s04_next_day_2_f387c7fb:
 
     # dn "Hmmm."
-    dn "Hmmm."
+    dn "嗯。"
 
 # game/code/e02/e02s04.rpy:655
 translate chinese e02s04_next_day_2_6ddfd566:
 
     # ms "The meetings are nice and casual, very low presh."
-    ms "The meetings are nice and casual, very low presh."
+    ms "我们的会议很愉快，很随意，非常低调。"
 
 # game/code/e02/e02s04.rpy:656
 translate chinese e02s04_next_day_2_bd60aa95:
 
     # ms "I'm sure Frank and Ashley would love to get your thoughts too!"
-    ms "I'm sure Frank and Ashley would love to get your thoughts too!"
+    ms "我相信弗兰克和艾希莉也很想知道你的想法!"
 
 # game/code/e02/e02s04.rpy:659
 translate chinese e02s04_next_day_2_9842eeae:
 
     # mh "We will certainly have to consider it."
-    mh "We will certainly have to consider it."
+    mh "我们肯定会考虑的。"
 
 # game/code/e02/e02s04.rpy:662
 translate chinese e02s04_next_day_2_99625c33:
 
     # dn "Great. We'll stay in touch."
-    dn "Great. We'll stay in touch."
+    dn "太好了。我们保持联系。"
 
 # game/code/e02/e02s04.rpy:670
 translate chinese e02s04_end_ecaafca1:
 
     # mc "Seems like everyone is here for therapy except us."
-    mc "Seems like everyone is here for therapy except us."
+    mc "似乎除了我们，每个人都在这里接受治疗。"
 
 # game/code/e02/e02s04.rpy:671
 translate chinese e02s04_end_d0e1af1e:
 
     # mc "Is it even appropriate for us to get involved?"
-    mc "Is it even appropriate for us to get involved?"
+    mc "我们参与其中到底合适吗？"
 
 # game/code/e02/e02s04.rpy:674
 translate chinese e02s04_end_1b7223b3:
 
     # mh "I think so. We're just offering advice based on our own experience."
-    mh "I think so. We're just offering advice based on our own experience."
+    mh "没什么不合适的。我们只是根据自己的经验提供建议。"
 
 # game/code/e02/e02s04.rpy:677
 translate chinese e02s04_end_3ddd033b:
 
     # mc "It's strange how open they are with us."
-    mc "It's strange how open they are with us."
+    mc "他们对我们这么坦诚，真奇怪。"
 
 # game/code/e02/e02s04.rpy:679
 translate chinese e02s04_end_2420c5da:
 
     # mh "Some people have issues opening up to doctors because it can be difficult when the subject is sexual."
-    mh "Some people have issues opening up to doctors because it can be difficult when the subject is sexual."
+    mh "有些人很难对医生敞开心扉，因为当话题涉及性时，就不容易谈开。"
 
 # game/code/e02/e02s04.rpy:680
 translate chinese e02s04_end_33180752:
 
     # mh "I mean some professionals don't even have the vocabulary to cover it."
-    mh "I mean some professionals don't even have the vocabulary to cover it."
+    mh "我的意思是，一些专业人士甚至都没掌握足够的词汇来描述它。"
 
 # game/code/e02/e02s04.rpy:683
 translate chinese e02s04_end_1a960296:
 
     # mc "And we do?"
-    mc "And we do?"
+    mc "我们就可以吗？"
 
 # game/code/e02/e02s04.rpy:685
 translate chinese e02s04_end_a69c749b:
 
     # mh "We will after we spend some time studying up today. I'm going to need your phone again, [mcname]."
-    mh "We will after we spend some time studying up today. I'm going to need your phone again, [mcname]."
+    mh "今天我们花点时间学习一下就知道了。我又需要你的手机了，[mcname]。"
 
 # game/code/e02/e02s04.rpy:688
 translate chinese e02s04_end_5080d0f0:
 
     # mc "Wait... we're actually doing this?"
-    mc "Wait... we're actually doing this?"
+    mc "等等...我们真的要这么做吗？"
 
 # game/code/e02/e02s04.rpy:691
 translate chinese e02s04_end_cbd5b230:
 
     # mh "You don't want to?"
-    mh "You don't want to?"
+    mh "你不想？"
 
 # game/code/e02/e02s04.rpy:694
 translate chinese e02s04_end_e6035d91:
 
     # mc "No it's not that, it's just... I guess it is kind of exciting."
-    mc "No it's not that, it's just... I guess it is kind of exciting."
+    mc "不，不是的，只是...我觉得很兴奋。"
 
 # game/code/e02/e02s04.rpy:695
 translate chinese e02s04_end_b35bb58c:
 
     # mc "Everyone deserves love and if we can help some people with their problems, I'm game."
-    mc "Everyone deserves love and if we can help some people with their problems, I'm game."
+    mc "每个人都值得被爱，如果我们能帮助一些人解决他们的问题，我很乐意。"
 
 # game/code/e02/e02s04.rpy:698
 translate chinese e02s04_end_7361cd1d:
 
     # mh "Good. And while we're preparing, we can figure out who we should focus our efforts on."
-    mh "Good. And while we're preparing, we can figure out who we should focus our efforts on."
+    mh "好。在我们准备的时候，我们可以分析清楚应该把精力集中在谁身上。"
 
 translate chinese strings:
 
     # game/code/e02/e02s04.rpy:532
     old "One shower later"
-    new "One shower later"
+    new "冲澡后"
 
