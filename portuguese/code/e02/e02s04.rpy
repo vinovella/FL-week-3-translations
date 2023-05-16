@@ -222,10 +222,10 @@ translate portuguese e02s04_photo_e7da310f:
     # atp "And you are Melissa Harris."
     atp "E você é Melissa Harris."
 
-# game/code/e02/e02s04.rpy:118
-translate portuguese e02s04_photo_fb983c70:
+# game/code/e02/e02s04.rpy:128
+translate portuguese e02s04_photo_a2b13b41:
 
-    # mh "Pleased to meet you. This is my boyfriend, [mcname], now can you delete that photo?"
+    # mh "Pleased to meet you. This is my boyfriend, [mcname]. Now can you delete that photo?"
     mh "Prazer em conhecê-los. Esse é meu namorado, [mcname]. Agora, podem deletar aquela foto?"
 
 # game/code/e02/e02s04.rpy:121
@@ -732,11 +732,11 @@ translate portuguese e02s04_fireplace_19f85401:
     # mc "{size=-10}*whispers* Well how about at least we go to our cabin. You know...{/size}"
     mc "{size=-10}*sussurra* Bom, que tal pelo menos irmos pra nossa cabine. Sabe...{/size}"
 
-# game/code/e02/e02s04.rpy:346
-translate portuguese e02s04_fireplace_0e37059a:
+# game/code/e02/e02s04.rpy:373
+translate portuguese e02s04_fireplace_81a40b8d:
 
-    # mct "{size=-10}..away from them.{/size}"
-    mct "{size=-10}...longe deles{/size}"
+    # mc "{size=-10}..away from them.{/size}"
+    mc "{size=-10}...longe deles{/size}"
 
 # game/code/e02/e02s04.rpy:348
 translate portuguese e02s04_fireplace_f35d9d98:
@@ -1140,10 +1140,10 @@ translate portuguese e02s04_next_day_a8f92618:
     # mh "Mmm. Maybe it was meant to be..."
     mh "Mmm. Talvez era o destino..."
 
-# game/code/e02/e02s04.rpy:509
-translate portuguese e02s04_next_day_9413fd35:
+# game/code/e02/e02s04.rpy:571
+translate portuguese e02s04_next_day_234defd5:
 
-    # mc "I know that look, what are you up to, Lyssa?"
+    # mc "I know that look. What are you up to, Lyssa?"
     mc "Eu conheço esse olhar. O que você tá tramando, Lyssa?"
 
 # game/code/e02/e02s04.rpy:512
@@ -1356,10 +1356,10 @@ translate portuguese e02s04_next_day_2_4cd089a0:
     # dn "Has your situation affected your sex life?"
     dn "A sua situação já afetou sua vida sexual?"
 
-# game/code/e02/e02s04.rpy:627
-translate portuguese e02s04_next_day_2_67cd98ba:
+# game/code/e02/e02s04.rpy:704
+translate portuguese e02s04_next_day_2_6103a7f3:
 
-    # mh "[mcname] and I have a very great relationship, despite whatever obstacles we may face, we overcome them through communication and love."
+    # mh "[mcname] and I have a very great relationship. Despite whatever obstacles we may face, we overcome them through communication and love."
     mh "[mcname] e eu temos um ótimo relacionamento. Apesar dos obstáculos que possamos enfrentar, nós os superamos com comunicação e amor."
 
 # game/code/e02/e02s04.rpy:630
@@ -1535,4 +1535,3 @@ translate portuguese strings:
     # game/code/e02/e02s04.rpy:532
     old "One shower later"
     new "Um banho depois"
-

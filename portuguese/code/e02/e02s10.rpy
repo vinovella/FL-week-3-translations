@@ -126,11 +126,11 @@ translate portuguese e02s10_cf000704:
     # mc "Really? I was thinking this would be for when you're finished with the lawsuit."
     mc "Sério? Eu estava pensando que seria pra depois que você terminasse o processo."
 
-# game/code/e02/e02s10.rpy:70
-translate portuguese e02s10_2e40df10:
+# game/code/e02/e02s10.rpy:78
+translate portuguese e02s10_9b9880f8:
 
-    # mh "*sighs* The lawsuit is not going away any time soon.. But that is why this is perfect for me."
-    mh "*Suspiro* O processo não vai acabar tão cedo... Mas é por isso que é perfeito para mim."
+    # mh "*sighs* The lawsuit is not going away any time soon. But that is why this is perfect for me."
+    mh "*Suspiro* O processo não vai acabar tão cedo. Mas é por isso que é perfeito para mim."
 
 # game/code/e02/e02s10.rpy:71
 translate portuguese e02s10_f831b0a9:
@@ -822,10 +822,10 @@ translate portuguese e02s10_months_later_09f81a15:
     # mh "I just need to be sure I will have my partner in crime with me. If you think you are up to it."
     mh "Só preciso me certificar que meu parceiro de crime estaria ao meu lado. Acho que você consegue."
 
-# game/code/e02/e02s10.rpy:452
-translate portuguese e02s10_months_later_6cc0df78:
+# game/code/e02/e02s10.rpy:471
+translate portuguese e02s10_months_later_4ce195cc:
 
-    # mc "Absolutely! Besides, woudln't it be a waste if we just made it a really nice place to fuck?"
+    # mc "Absolutely! Besides, wouldn't it be a waste if we just made it a really nice place to fuck?"
     mc "Com certeza! Além disso, não seria um desperdício se a gente tivesse arrumado um lugar só pra foder?"
 
 # game/code/e02/e02s10.rpy:455
@@ -853,4 +853,3 @@ translate portuguese strings:
     # game/code/e02/e02s10.rpy:411
     old "A few months later"
     new "Alguns messe depois"
-

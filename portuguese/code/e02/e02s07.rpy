@@ -936,10 +936,10 @@ translate portuguese e02s07_sex_6927c19c:
     # mc "The anus and anal canal are extremely sensitive to touch, and as a result the pleasure felt can be profound."
     mc "O ânus e o canal anal são extremamente sensíveis ao toque, e por consequência, o prazer que se pode sentir pode ser profundo."
 
-# game/code/e02/e02s07.rpy:488
-translate portuguese e02s07_sex_67cb84ea:
+# game/code/e02/e02s07.rpy:506
+translate portuguese e02s07_sex_0ab94a8f:
 
-    # mh "Exactly. The pleasure - or pain - can be one of the most intense experiences on ever has."
+    # mh "Exactly. The pleasure - or pain - can be one of the most intense experiences one ever has."
     mh "Exato. O prazer - ou dor - pode ser uma das experiências mais intensas que se pode ter."
 
 # game/code/e02/e02s07.rpy:494
@@ -1665,4 +1665,3 @@ translate portuguese strings:
     # game/code/e02/e02s07.rpy:448
     old "Let Lyssa Fuck You Instead"
     new "Deixar Lyssa te Foder ao Invés Disso"
-

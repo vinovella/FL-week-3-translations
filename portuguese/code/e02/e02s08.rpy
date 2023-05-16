@@ -858,11 +858,11 @@ translate portuguese e02s08_sex_51d1985d:
     # ap "Mhm. Do it. Choke on it like you made me choke on your dick."
     ap "Mhm. Vai. Engasga nele como você me faz engasgar no seu pau."
 
-# game/code/e02/e02s08.rpy:397
-translate portuguese e02s08_sex_3506da80:
+# game/code/e02/e02s08.rpy:413
+translate portuguese e02s08_sex_cf36e7fc:
 
-    # mct "Well, we all gotta start out somewhere."
-    mct "Bom, todos temos que começar em algum lugar."
+    # mc "Well, we all gotta start out somewhere."
+    mc "Bom, todos temos que começar em algum lugar."
 
 # game/code/e02/e02s08.rpy:401
 translate portuguese e02s08_sex_b7baeaf2:
@@ -1482,10 +1482,10 @@ translate portuguese e02s08_foursome_76affe65:
     # mc "I don't— Fuck I don't think I can hold on much longer."
     mc "Eu não- Porra, acho que não vou aguentar muito mais."
 
-# game/code/e02/e02s08.rpy:725
-translate portuguese e02s08_foursome_e8f4f50e:
+# game/code/e02/e02s08.rpy:748
+translate portuguese e02s08_foursome_828a1e73:
 
-    # mh "*Voice husky* Yeah... You're so tight, Angela."
+    # mh "*husky voice* Yeah... You're so tight, Angela."
     mh "*Voz rouca* É... Você está tão apertada, Angela."
 
 # game/code/e02/e02s08.rpy:728
@@ -1593,4 +1593,3 @@ translate portuguese strings:
     # game/code/e02/e02s08.rpy:329
     old "Be submissive with Lyssa"
     new "Se submeter a Lyssa"
-
