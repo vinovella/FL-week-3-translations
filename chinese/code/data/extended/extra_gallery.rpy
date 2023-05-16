@@ -262,6 +262,10 @@ translate chinese strings:
     old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
     new "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
 
+    # game/code/data/extended/extra_gallery.rpy:314
+    old "YOU'RE GOING TO\nUSE IT FOR GOOD, RIGHT?"
+    new "YOU'RE GOING TO\nUSE IT FOR GOOD, RIGHT?"
+
     # game/code/data/extended/extra_gallery.rpy:306
     old "RIGHT?"
     new "RIGHT?"
@@ -289,4 +293,10 @@ translate chinese strings:
     # game/code/data/extended/extra_gallery.rpy:434
     old "The whole\nharem pregnant"
     new "The whole\nharem pregnant"
+
+    # game/code/data/extended/extra_gallery.rpy:231
+    old "HIGH SCORE :\n[persistent.minigame_max_score]"
+    new "HIGH SCORE :\n[persistent.minigame_max_score]"
+
+    
 

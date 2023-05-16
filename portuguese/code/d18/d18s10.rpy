@@ -758,3 +758,11 @@ translate portuguese strings:
     old "What is your darkest fantasy about Lydia?"
     new "Qual é a sua maior fantasia sobre a Lydia?"
 
+# TODO: Translation updated at 2023-05-16 23:37
+
+translate portuguese strings:
+
+    # game/code/d18/d18s10.rpy:246
+    old "Just Sex, a lot of Sex"
+    new ""
+

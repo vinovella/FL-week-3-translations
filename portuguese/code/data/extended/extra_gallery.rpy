@@ -262,6 +262,10 @@ translate portuguese strings:
     old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
     new ""
 
+    # game/code/data/extended/extra_gallery.rpy:314
+    old "YOU'RE GOING TO\nUSE IT FOR GOOD, RIGHT?"
+    new ""
+
     # game/code/data/extended/extra_gallery.rpy:306
     old "RIGHT?"
     new ""
@@ -288,5 +292,9 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:434
     old "The whole\nharem pregnant"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:231
+    old "HIGH SCORE :\n[persistent.minigame_max_score]"
     new ""
 

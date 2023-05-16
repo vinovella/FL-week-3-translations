@@ -318,3 +318,51 @@ translate portuguese strings:
     old "Ending 08: Pregnant AmRose"
     new ""
 
+# TODO: Translation updated at 2023-05-16 23:37
+
+translate portuguese strings:
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Day 21: Hana"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 02: Lyssa"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 02: Lyssa, Ashley & Frank"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 02: Lyssa, Angela & Alexander"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 02: Lyssa, Dorothy & Mikaela"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Lydia & Min"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Lydia, Stacy & AmRose"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Bachelor Party"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Lyssa & AmRose"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Wedding Reception"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Lydia"
+    new ""
+

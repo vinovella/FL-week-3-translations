@@ -758,3 +758,11 @@ translate chinese strings:
     old "What is your darkest fantasy about Lydia?"
     new "你对莉迪亚最黑暗的幻想是什么？"
 
+# TODO: Translation updated at 2023-05-16 23:34
+
+translate chinese strings:
+
+    # game/code/d18/d18s10.rpy:246
+    old "Just Sex, a lot of Sex"
+    new "Just Sex, a lot of Sex"
+

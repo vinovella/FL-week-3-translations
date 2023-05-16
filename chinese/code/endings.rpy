@@ -1,16 +1,40 @@
-﻿# TODO: Translation updated at 2023-01-31 17:14
+﻿# TODO: Translation updated at 2023-05-16 23:34
 
-# game/code/endings.rpy:250
-translate chinese ending_not_available_984be117:
+# game/code/endings.rpy:279
+translate chinese ending_not_available_f3f9fce0:
 
-    # "This ending will be implemented later."
-    "This ending will be implemented later."
+    # "You have reached the current end of this story path. This ending will be implemented in the future as free DLC."
+    "You have reached the current end of this story path. This ending will be implemented in the future as free DLC."
 
-# game/code/endings.rpy:251
-translate chinese ending_not_available_8ffd33e4:
+# game/code/endings.rpy:281
+translate chinese ending_not_available_2ad33c15:
 
-    # "You can save the game here and experience this ending once it will be implemented!"
-    "You can save the game here and experience this ending once it will be implemented!"
+    # "You have reached the current end of this story path. This ending will be implemented in the future as DLC."
+    "You have reached the current end of this story path. This ending will be implemented in the future as DLC."
+
+# game/code/endings.rpy:282
+translate chinese ending_not_available_eb531d10:
+
+    # "Be sure to follow our Steam Page to stay up to date for all news related to Fetish Locator."
+    "Be sure to follow our Steam Page to stay up to date for all news related to Fetish Locator."
+
+# game/code/endings.rpy:284
+translate chinese ending_not_available_7495b934:
+
+    # "You have reached the current end of this story path. This ending will be implemented in the future."
+    "You have reached the current end of this story path. This ending will be implemented in the future."
+
+# game/code/endings.rpy:285
+translate chinese ending_not_available_4bc3c22a:
+
+    # "Be sure to follow our Patreon to stay up to date for news."
+    "Be sure to follow our Patreon to stay up to date for news."
+
+# game/code/endings.rpy:286
+translate chinese ending_not_available_0b50ab45:
+
+    # "While this ending is not fully implemented, there are six other endings that are complete and available to explore."
+    "While this ending is not fully implemented, there are six other endings that are complete and available to explore."
 
 translate chinese strings:
 
@@ -26,9 +50,9 @@ translate chinese strings:
     old "Ending #3\nTwo Girls Two Dicks"
     new "Ending #3\nTwo Girls Two Dicks"
 
-    # game/code/endings.rpy:46
-    old "Ending #4\n[mcname]'s Sex Dungeon'"
-    new "Ending #4\n[mcname]'s Sex Dungeon'"
+    # game/code/endings.rpy:49
+    old "Ending #4\nMy Sex Dungeon"
+    new "Ending #4\nMy Sex Dungeon"
 
     # game/code/endings.rpy:59
     old "Ending #5\nSausage Party"
@@ -58,9 +82,9 @@ translate chinese strings:
     old "Ending #11\nRed Diamond"
     new "Ending #11\nRed Diamond"
 
-    # game/code/endings.rpy:157
-    old "Ending #12\nMothers & Daughters"
-    new "Ending #12\nMothers & Daughters"
+    # game/code/endings.rpy:169
+    old "Ending #12\nRedhead Resort"
+    new "Ending #12\nRedhead Resort"
 
     # game/code/endings.rpy:171
     old "Ending #13\nPregnant Nora"
@@ -85,16 +109,4 @@ translate chinese strings:
     # game/code/endings.rpy:239
     old "Ending #18\nQuartet"
     new "Ending #18\nQuartet"
-
-# TODO: Translation updated at 2023-05-07 15:44
-
-translate chinese strings:
-
-    # game/code/endings.rpy:49
-    old "Ending #4\nMy Sex Dungeon"
-    new "Ending #4\nMy Sex Dungeon"
-
-    # game/code/endings.rpy:169
-    old "Ending #12\nRedhead Resort"
-    new "Ending #12\nRedhead Resort"
 

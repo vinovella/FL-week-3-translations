@@ -258,3 +258,51 @@ translate chinese strings:
     old "Ending 08: Pregnant AmRose"
     new "Ending 08: Pregnant AmRose"
 
+# TODO: Translation updated at 2023-05-16 23:34
+
+translate chinese strings:
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Day 21: Hana"
+    new "Day 21: Hana"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 02: Lyssa"
+    new "Ending 02: Lyssa"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 02: Lyssa, Ashley & Frank"
+    new "Ending 02: Lyssa, Ashley & Frank"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 02: Lyssa, Angela & Alexander"
+    new "Ending 02: Lyssa, Angela & Alexander"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 02: Lyssa, Dorothy & Mikaela"
+    new "Ending 02: Lyssa, Dorothy & Mikaela"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Lydia & Min"
+    new "Ending 06: Lydia & Min"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Lydia, Stacy & AmRose"
+    new "Ending 06: Lydia, Stacy & AmRose"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Bachelor Party"
+    new "Ending 06: Bachelor Party"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Lyssa & AmRose"
+    new "Ending 06: Lyssa & AmRose"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Wedding Reception"
+    new "Ending 06: Wedding Reception"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Lydia"
+    new "Ending 06: Lydia"
+
