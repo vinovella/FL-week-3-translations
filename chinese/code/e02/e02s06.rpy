@@ -4,577 +4,577 @@
 translate chinese e02s06_52e800c4:
 
     # fc "Nice place. And a hot tub to boot!"
-    fc "Nice place. And a hot tub to boot!"
+    fc "好地方。还有一个热水浴缸!"
 
 # game/code/e02/e02s06.rpy:18
 translate chinese e02s06_e5a4b140:
 
     # mc "Oh yeah. It's perfect for after a long day on the slopes."
-    mc "Oh yeah. It's perfect for after a long day on the slopes."
+    mc "是的。在雪地里度过漫长的一天后，这里非常完美。"
 
 # game/code/e02/e02s06.rpy:19
 translate chinese e02s06_b080443a:
 
     # ac "Hi Lyssa."
-    ac "Hi Lyssa."
+    ac "嗨，丽莎。"
 
 # game/code/e02/e02s06.rpy:20
 translate chinese e02s06_3e7fa466:
 
     # mh "Hello Ashley."
-    mh "Hello Ashley."
+    mh "你好，艾希莉。"
 
 # game/code/e02/e02s06.rpy:22
 translate chinese e02s06_13d0ef89:
 
     # ac "How are you feeling after all that snowboarding, [mcname]?"
-    ac "How are you feeling after all that snowboarding, [mcname]?"
+    ac "玩了那么久滑雪板之后，你感觉怎么样？"
 
 # game/code/e02/e02s06.rpy:23
 translate chinese e02s06_bef97653:
 
     # mc "Amazing. I got some serious air on one of the jumps. Thought I was going to die when I landed."
-    mc "Amazing. I got some serious air on one of the jumps. Thought I was going to die when I landed."
+    mc "太棒了。有一次我跳得很猛，在空中停留了很长时间。当我落地的时候，还以为我要死了。"
 
 # game/code/e02/e02s06.rpy:25
 translate chinese e02s06_e1339cbe:
 
     # ac "You looked amazing. What about you, Lyssa?"
-    ac "You looked amazing. What about you, Lyssa?"
+    ac "你看起来人很精神。你呢，丽莎？"
 
 # game/code/e02/e02s06.rpy:26
 translate chinese e02s06_fcb14040:
 
     # mh "I feel great."
-    mh "I feel great."
+    mh "感觉好极了。"
 
 # game/code/e02/e02s06.rpy:27
 translate chinese e02s06_5fc91a1d:
 
     # mh "It is going to be a shame when I wake up and don't get to see these vistas each morning."
-    mh "It is going to be a shame when I wake up and don't get to see these vistas each morning."
+    mh "如果我每天早上醒来时，不能看到这些景色，这将是一种耻辱。"
 
 # game/code/e02/e02s06.rpy:29
 translate chinese e02s06_edbd18b1:
 
     # mh "Please come in..."
-    mh "Please come in..."
+    mh "请进..."
 
 # game/code/e02/e02s06.rpy:33
 translate chinese e02s06_cb3e24bc:
 
     # mh "Here you are, Frank. Nothing like a Chateau LaRose after a long day on the slopes."
-    mh "Here you are, Frank. Nothing like a Chateau LaRose after a long day on the slopes."
+    mh "给你，弗兰克。经过漫长的一整天的滑雪后，没有什么能比喝上一杯拉罗斯酒庄的酒更有意义了。"
 
 # game/code/e02/e02s06.rpy:34
 translate chinese e02s06_3e64451a:
 
     # fc "You're the best, Lyssa."
-    fc "You're the best, Lyssa."
+    fc "你最棒了，丽莎。"
 
 # game/code/e02/e02s06.rpy:36
 translate chinese e02s06_0bc00de3:
 
     # mc "Oh. Hey there."
-    mc "Oh. Hey there."
+    mc "哦。嘿。"
 
 # game/code/e02/e02s06.rpy:40
 translate chinese e02s06_100a95ba:
 
     # mh "I wanted to ask you two, is everything alright? Things seemed a little cold between you."
-    mh "I wanted to ask you two, is everything alright? Things seemed a little cold between you."
+    mh "我想问你们两个，一切都好吗？你们之间似乎有些冷淡。"
 
 # game/code/e02/e02s06.rpy:42
 translate chinese e02s06_32053907:
 
     # ac "Haha. Guess we aren't as slick as we thought."
-    ac "Haha. Guess we aren't as slick as we thought."
+    ac "哈哈。看来我们不像自己想的那么滑头。"
 
 # game/code/e02/e02s06.rpy:43
 translate chinese e02s06_d1ef8134:
 
     # ac "Well, last night before bed... we were fooling around and then things got a little heated."
-    ac "Well, last night before bed... we were fooling around and then things got a little heated."
+    ac "嗯，昨晚睡觉前...我们只是随便玩玩，然后事情就变得有点不可收拾了。"
 
 # game/code/e02/e02s06.rpy:45
 translate chinese e02s06_7d010a14:
 
     # mc "What happened?"
-    mc "What happened?"
+    mc "发生什么事了？"
 
 # game/code/e02/e02s06.rpy:47
 translate chinese e02s06_a11510e7:
 
     # ac "Umm... Maybe we shouldn't."
-    ac "Umm... Maybe we shouldn't."
+    ac "嗯...也许我们不该说。"
 
 # game/code/e02/e02s06.rpy:48
 translate chinese e02s06_4e4a1864:
 
     # fc "Yeah. It's not polite to air your dirty laundry out in front of friends."
-    fc "Yeah. It's not polite to air your dirty laundry out in front of friends."
+    fc "是的。在朋友面前把家丑外扬是不礼貌的。"
 
 # game/code/e02/e02s06.rpy:50
 translate chinese e02s06_6af17e20:
 
     # mc "It's okay, you can tell us."
-    mc "It's okay, you can tell us."
+    mc "没关系，你可以告诉我们。"
 
 # game/code/e02/e02s06.rpy:51
 translate chinese e02s06_07580c98:
 
     # mh "Yes, and it will stay between us. On my honor, nothing you say here is going to be shared."
-    mh "Yes, and it will stay between us. On my honor, nothing you say here is going to be shared."
+    mh "是的，这是我们之间的秘密。以我的名誉担保，你在这里说的任何话都不会被传出去。"
 
 # game/code/e02/e02s06.rpy:52
 translate chinese e02s06_60a1959a:
 
     # mc "Or songified."
-    mc "Or songified."
+    mc "也不会被编成歌曲。"
 
 # game/code/e02/e02s06.rpy:54
 translate chinese e02s06_24a5cce3:
 
     # fc "Haha. Well that's a relief. Hmmm where to start?"
-    fc "Haha. Well that's a relief. Hmmm where to start?"
+    fc "哈哈。那我就放心了。嗯，从哪里开始呢？"
 
 # game/code/e02/e02s06.rpy:55
 translate chinese e02s06_bd470869:
 
     # ac "I mean... the funny thing is that our problems feel minor compared to what the others are dealing with."
-    ac "I mean... the funny thing is that our problems feel minor compared to what the others are dealing with."
+    ac "在我看来...有趣的是，与其他人要处理的问题相比，我们的问题显得微不足道。"
 
 # game/code/e02/e02s06.rpy:57
 translate chinese e02s06_1b275d99:
 
     # fc "You're sure right about that, honey."
-    fc "You're sure right about that, honey."
+    fc "你说得对，亲爱的。"
 
 # game/code/e02/e02s06.rpy:58
 translate chinese e02s06_771141e8:
 
     # ac "I guess, I would say."
-    ac "I guess, I would say."
+    ac "我想应该是吧。"
 
 # game/code/e02/e02s06.rpy:60
 translate chinese e02s06_241fd607:
 
     # ac "Things are good. And... I mean they're good, you know."
-    ac "Things are good. And... I mean they're good, you know."
+    ac "一切都很好。而且...我的意思是一切进展顺利，你知道。"
 
 # game/code/e02/e02s06.rpy:61
 translate chinese e02s06_009ff3ae:
 
     # fc "But we want {i}great{/i}, you know? We want the sparks and the excitement, like when we first tied the knot."
-    fc "But we want {i}great{/i}, you know? We want the sparks and the excitement, like when we first tied the knot."
+    fc "但是我们想要的是{i}很棒{/i}的感觉，你知道吗？我们想要火花，还有那种兴奋感，就像我们第一次结婚时那样。"
 
 # game/code/e02/e02s06.rpy:63
 translate chinese e02s06_8249bb1c:
 
     # ac "And this felt like the perfect place. We were going to get a professional's insight, but we were also going on our first vacation in years."
-    ac "And this felt like the perfect place. We were going to get a professional's insight, but we were also going on our first vacation in years."
+    ac "我觉得这个地方相当完美。我们想听听专业人士的见解，但这也是我们多年来第一次度假。"
 
 # game/code/e02/e02s06.rpy:64
 translate chinese e02s06_d44fab26:
 
     # ac "So we even brought these to go the extra mile."
-    ac "So we even brought these to go the extra mile."
+    ac "所以我们甚至带了这些来做辅助。"
 
 # game/code/e02/e02s06.rpy:70
 translate chinese e02s06_4bc61cca:
 
     # mc "What do you have there?"
-    mc "What do you have there?"
+    mc "你拿的是什么？"
 
 # game/code/e02/e02s06.rpy:72
 translate chinese e02s06_23753411:
 
     # ac "A full gambit of marital aides. Or at least they used to be."
-    ac "A full gambit of marital aides. Or at least they used to be."
+    ac "完美婚姻的全套辅助工具。或者至少过去是这样。"
 
 # game/code/e02/e02s06.rpy:74
 translate chinese e02s06_fcacd465:
 
     # ac "Frank and I would play Cowboys and Indians, the baron and the farm girl."
-    ac "Frank and I would play Cowboys and Indians, the baron and the farm girl."
+    ac "弗兰克和我将扮演牛仔和印第安人，男爵和农家姑娘。"
 
 # game/code/e02/e02s06.rpy:75
 translate chinese e02s06_e5c9b5ac:
 
     # ac "Mmm. We'd go for hours."
-    ac "Mmm. We'd go for hours."
+    ac "嗯。我们一玩就是几个小时。"
 
 # game/code/e02/e02s06.rpy:77
 translate chinese e02s06_3004d719:
 
     # fc "Yeah we even tried it here. It was fun, but damn if we couldn't find that spark."
-    fc "Yeah we even tried it here. It was fun, but damn if we couldn't find that spark."
+    fc "是的，我们还在这里试过。过程还算有趣，但该死的是我们找不到那种火花。。"
 
 # game/code/e02/e02s06.rpy:78
 translate chinese e02s06_becdb843:
 
     # fc "And last night, well we kind of ended up in a shouting match when we couldn't get into the groove."
-    fc "And last night, well we kind of ended up in a shouting match when we couldn't get into the groove."
+    fc "昨天晚上，当我们无法进入最佳状态时，就以大吵大闹而告终。"
 
 # game/code/e02/e02s06.rpy:79
 translate chinese e02s06_88ac570c:
 
     # ac "It was stupid."
-    ac "It was stupid."
+    ac "这太蠢了。"
 
 # game/code/e02/e02s06.rpy:81
 translate chinese e02s06_57a46a7d:
 
     # fc "It was my fault, I brought up having a kid again."
-    fc "It was my fault, I brought up having a kid again."
+    fc "这是我的错，我又提出要孩子了。"
 
 # game/code/e02/e02s06.rpy:82
 translate chinese e02s06_b14e51ff:
 
     # ac "No...you know it's not like that Frank. I want a child too, but things have to be more stable before that happens."
-    ac "No...you know it's not like that Frank. I want a child too, but things have to be more stable before that happens."
+    ac "不...你知道不是那样的，弗兰克。我也想要个孩子，但在那之前，我们之间必须更稳定。"
 
 # game/code/e02/e02s06.rpy:83
 translate chinese e02s06_bee98ba8:
 
     # fc "Yeah but that is the issue, isn't it? It drains all the magic out of the moment."
-    fc "Yeah but that is the issue, isn't it? It drains all the magic out of the moment."
+    fc "是的，但这就是问题所在，不是吗？它耗尽了我们当下所有的魔力。"
 
 # game/code/e02/e02s06.rpy:84
 translate chinese e02s06_a177059d:
 
     # mct "Frank sounds very worried that if they can't return things to how they were, their relationship might crumble."
-    mct "Frank sounds very worried that if they can't return things to how they were, their relationship might crumble."
+    mct "弗兰克听起来很担心，如果他们不能回到从前，那这段关系可能会破裂。"
 
 # game/code/e02/e02s06.rpy:86
 translate chinese e02s06_1d2fdb37:
 
     # mh "The burden of a child is an enormous one. Naturally it is an incredible thing, but I can understand Ashley's hesitation."
-    mh "The burden of a child is an enormous one. Naturally it is an incredible thing, but I can understand Ashley's hesitation."
+    mh "孩子会是个巨大的负担。养育孩子当然非常了不起，不过我能理解艾希莉的犹豫。"
 
 # game/code/e02/e02s06.rpy:87
 translate chinese e02s06_591e609c:
 
     # mh "Still... that doesn't mean you cannot find the magic between just the two of you until you are in a better position to start a family."
-    mh "Still... that doesn't mean you cannot find the magic between just the two of you until you are in a better position to start a family."
+    mh "不过...这并不意味着在你有更好的条件组建家庭之前，你就找不到两个人之间的魔力。"
 
 # game/code/e02/e02s06.rpy:88
 translate chinese e02s06_ee19947d:
 
     # fc "Well I'm all ears, Lyssa."
-    fc "Well I'm all ears, Lyssa."
+    fc "我洗耳恭听，丽莎。"
 
 # game/code/e02/e02s06.rpy:90
 translate chinese e02s06_a30b6bb9:
 
     # mh "It appears that costume sex might have provided enough of a spark once, but as the years go on, bigger changes are sometimes required."
-    mh "It appears that costume sex might have provided enough of a spark once, but as the years go on, bigger changes are sometimes required."
+    mh "看起来，一次性的情趣扮装可能是提供了足够的火花，但随着时间的推移，有时需要更大的改变。"
 
 # game/code/e02/e02s06.rpy:91
 translate chinese e02s06_ee34f2c2:
 
     # mh "Did you know that most successful partnerships last seven years?"
-    mh "Did you know that most successful partnerships last seven years?"
+    mh "你知道吗？大多数成功的合作关系都能持续七年。"
 
 # game/code/e02/e02s06.rpy:93
 translate chinese e02s06_26141393:
 
     # ac "How do you know that?"
-    ac "How do you know that?"
+    ac "你怎么知道的？"
 
 # game/code/e02/e02s06.rpy:94
 translate chinese e02s06_40b91ace:
 
     # mh "During law school, I studied a great number of cases. Sadly, divorce occupies a significant number of cases in the country."
-    mh "During law school, I studied a great number of cases. Sadly, divorce occupies a significant number of cases in the country."
+    mh "在法学院期间，我研究了大量案例。可悲的是，离婚在国内占据了相当大的比例。"
 
 # game/code/e02/e02s06.rpy:96
 translate chinese e02s06_c670df44:
 
     # mh "How long have you two been together?"
-    mh "How long have you two been together?"
+    mh "你们俩在一起多久了？"
 
 # game/code/e02/e02s06.rpy:98
 translate chinese e02s06_5db27f6f:
 
     # fc "Let's see, we were high-school sweethearts, we were both in college when I inherited a farm from the family."
-    fc "Let's see, we were high-school sweethearts, we were both in college when I inherited a farm from the family."
+    fc "让我想想，我们是高中情侣，我从家里继承农场的时候我们都在上大学。"
 
 # game/code/e02/e02s06.rpy:99
 translate chinese e02s06_e6afda26:
 
     # fc "And we've been doing that ever since."
-    fc "And we've been doing that ever since."
+    fc "从那以后我们就一直这样了。"
 
 # game/code/e02/e02s06.rpy:100
 translate chinese e02s06_ff481286:
 
     # ac "Yeah, our eighth anniversary will come this year."
-    ac "Yeah, our eighth anniversary will come this year."
+    ac "是啊，今年就是我们的八周年纪念日了。"
 
 # game/code/e02/e02s06.rpy:102
 translate chinese e02s06_c6c19c2b:
 
     # mh "Impressive."
-    mh "Impressive."
+    mh "真是佩服。"
 
 # game/code/e02/e02s06.rpy:103
 translate chinese e02s06_45cd967b:
 
     # mct "Woah. Eight years together..."
-    mct "Woah. Eight years together..."
+    mct "哇。在一起八年..."
 
 # game/code/e02/e02s06.rpy:104
 translate chinese e02s06_3b669c95:
 
     # fc "Well how do we keep things going?"
-    fc "Well how do we keep things going?"
+    fc "那么，我们如何才能继续下去呢？"
 
 # game/code/e02/e02s06.rpy:106
 translate chinese e02s06_769e377e:
 
     # ac "It's okay, Frank. I'm not going to leave you just because of statistics."
-    ac "It's okay, Frank. I'm not going to leave you just because of statistics."
+    ac "没关系，弗兰克。我不会因为统计数据就离开你。"
 
 # game/code/e02/e02s06.rpy:107
 translate chinese e02s06_29bd9fc6:
 
     # fc "Right. I mean... I wasn't actually worried... it's just..."
-    fc "Right. I mean... I wasn't actually worried... it's just..."
+    fc "正确。不过...我其实并不担心...只是..."
 
 # game/code/e02/e02s06.rpy:108
 translate chinese e02s06_f998b021:
 
     # fc "Well worrying."
-    fc "Well worrying."
+    fc "嗯，挺在意的。"
 
 # game/code/e02/e02s06.rpy:110
 translate chinese e02s06_bc9d02a6:
 
     # mc "Right those are just numbers. But, if we could help you find your spark, I'm sure that could help you two out."
-    mc "Right those are just numbers. But, if we could help you find your spark, I'm sure that could help you two out."
+    mc "那些只是数字。但是，如果我们能帮你们重新找到火花，我相信这对你们俩都有帮助。"
 
 # game/code/e02/e02s06.rpy:111
 translate chinese e02s06_244ba2e8:
 
     # fc "No arguments there pal."
-    fc "No arguments there pal."
+    fc "N我完全同意，伙计。"
 
 # game/code/e02/e02s06.rpy:112
 translate chinese e02s06_a5b3bd85:
 
     # ac "Hmmm. Did you have a suggestion in mind, Lyssa?"
-    ac "Hmmm. Did you have a suggestion in mind, Lyssa?"
+    ac "嗯。丽莎，你有什么建议吗？"
 
 # game/code/e02/e02s06.rpy:114
 translate chinese e02s06_255b97d7:
 
     # mh "Well, you'll have to excuse my bluntness, but I've noticed your eyes landing on [mcname] almost as much as they've landed on your husband."
-    mh "Well, you'll have to excuse my bluntness, but I've noticed your eyes landing on [mcname] almost as much as they've landed on your husband."
+    mh "好吧，你得原谅我的直率，但我注意到你的眼睛落在[mcname]上的次数几乎和落在你丈夫身上的次数一样多。"
 
 # game/code/e02/e02s06.rpy:115
 translate chinese e02s06_18f87bdf:
 
     # mct "What?"
-    mct "What?"
+    mct "什么？"
 
 # game/code/e02/e02s06.rpy:117
 translate chinese e02s06_9450a136:
 
     # mh "And Frank, you seem a little curious about what's been hiding underneath my extra layers."
-    mh "And Frank, you seem a little curious about what's been hiding underneath my extra layers."
+    mh "还有，弗兰克，你似乎对隐藏在我多余的衣服下面的东西有点好奇。"
 
 # game/code/e02/e02s06.rpy:118
 translate chinese e02s06_2c961180:
 
     # fc "Well I... heh... just a bit. Just being polite, you know."
-    fc "Well I... heh... just a bit. Just being polite, you know."
+    fc "嗯，我...哈哈...一点点。只是出于礼貌，你知道的。"
 
 # game/code/e02/e02s06.rpy:120
 translate chinese e02s06_56f613e8:
 
     # mh "You two love each other deeply, but I imagine both of you still have healthy sexual appetites."
-    mh "You two love each other deeply, but I imagine both of you still have healthy sexual appetites."
+    mh "你们俩深爱着对方，但我想你们俩都有健康的性欲。"
 
 # game/code/e02/e02s06.rpy:122
 translate chinese e02s06_8c9392c2:
 
     # mc "So maybe that's it, maybe the missing ingredient in your relationship is trying out a more open style and seeing if that works."
-    mc "So maybe that's it, maybe the missing ingredient in your relationship is trying out a more open style and seeing if that works."
+    mc "所以也许就是这样，也许你们的关系中缺失的因素就是尝试一种更开放的风格，看看是否有效。"
 
 # game/code/e02/e02s06.rpy:123
 translate chinese e02s06_fc9726bc:
 
     # mc "I'm not saying you separate or anything, but maybe you find some people that could help spice things up with you."
-    mc "I'm not saying you separate or anything, but maybe you find some people that could help spice things up with you."
+    mc "我不是说你们俩要分开，但也许你可以邀请新人来帮你们增添情趣。"
 
 # game/code/e02/e02s06.rpy:125
 translate chinese e02s06_c39367a9:
 
     # fc "That sounds like an affair."
-    fc "That sounds like an affair."
+    fc "听起来像是出轨。"
 
 # game/code/e02/e02s06.rpy:126
 translate chinese e02s06_a3d2fa26:
 
     # mh "Most times, an affair really involves more of a deception on the part of someone in the relationship."
-    mh "Most times, an affair really involves more of a deception on the part of someone in the relationship."
+    mh "大多数时候，婚外情意味着关系中某一方有更多的出轨行为。"
 
 # game/code/e02/e02s06.rpy:127
 translate chinese e02s06_40423552:
 
     # ac "We wouldn't be keeping this a secret from each other."
-    ac "We wouldn't be keeping this a secret from each other."
+    ac "我们不会对彼此隐瞒这个秘密的。"
 
 # game/code/e02/e02s06.rpy:128
 translate chinese e02s06_bfd2aa0f:
 
     # fc "Yeah, I guess it would be out in the open. And if it got too far, we hit the brakes."
-    fc "Yeah, I guess it would be out in the open. And if it got too far, we hit the brakes."
+    fc "是的，我想我们都会公开的。如果局势出乎意料，我们就踩刹车。"
 
 # game/code/e02/e02s06.rpy:129
 translate chinese e02s06_ec06500c:
 
     # ac "Mmhmm."
-    ac "Mmhmm."
+    ac "嗯。"
 
 # game/code/e02/e02s06.rpy:132
 translate chinese e02s06_06b713d4:
 
     # mc "I've met people before you have a very healthy relationship, but still mix things up with other people when they're in the right mood."
-    mc "I've met people before you have a very healthy relationship, but still mix things up with other people when they're in the right mood."
+    mc "我以前遇到过一些人，他们的关系非常健康，但当他们心情好的时候，还是会和其他人混在一起。"
 
 # game/code/e02/e02s06.rpy:133
 translate chinese e02s06_0b773472:
 
     # fc "Well how about that..."
-    fc "Well how about that..."
+    fc "这样的话..."
 
 # game/code/e02/e02s06.rpy:135
 translate chinese e02s06_6f1be6f0:
 
     # ac "I mean I have to admit it, it kind of sounds a little kinky. A little exciting."
-    ac "I mean I have to admit it, it kind of sounds a little kinky. A little exciting."
+    ac "我必须承认，这听起来有点变态。还有点令人兴奋。"
 
 # game/code/e02/e02s06.rpy:136
 translate chinese e02s06_8c6d5f94:
 
     # fc "I'll say."
-    fc "I'll say."
+    fc "我同意。"
 
 # game/code/e02/e02s06.rpy:138
 translate chinese e02s06_9ef00ad8:
 
     # ac "You two have certainly given us a lot to think about it."
-    ac "You two have certainly given us a lot to think about it."
+    ac "你们俩确实给了我们很多思考的机会。"
 
 # game/code/e02/e02s06.rpy:139
 translate chinese e02s06_737e3f7a:
 
     # fc "Mmhmm. We'll have a child when we're good and ready. But in the mean-time, we'll see how things go, mixing in a bit of relish in our hotdogs hehe."
-    fc "Mmhmm. We'll have a child when we're good and ready. But in the mean-time, we'll see how things go, mixing in a bit of relish in our hotdogs hehe."
+    fc "嗯哼。等我们准备好了就会要孩子。但与此同时，我们会看看事情的进展如何，在我们的热狗里加点调料，呵呵。"
 
 # game/code/e02/e02s06.rpy:140
 translate chinese e02s06_efd24273:
 
     # mh "I'm glad we could help."
-    mh "I'm glad we could help."
+    mh "很高兴我们能帮上忙。"
 
 # game/code/e02/e02s06.rpy:155
 translate chinese e02s06_no_sex_e3901344:
 
     # ac "Thanks again for listening to us."
-    ac "Thanks again for listening to us."
+    ac "再次感谢你们听我们说话。"
 
 # game/code/e02/e02s06.rpy:156
 translate chinese e02s06_no_sex_51f89a92:
 
     # mh "It was my pleasure."
-    mh "It was my pleasure."
+    mh "这是我的荣幸。"
 
 # game/code/e02/e02s06.rpy:158
 translate chinese e02s06_no_sex_0e9895e1:
 
     # ac "If you ever come out by the farms, look us up..."
-    ac "If you ever come out by the farms, look us up..."
+    ac "如果你路过农场，来看看我们..."
 
 # game/code/e02/e02s06.rpy:159
 translate chinese e02s06_no_sex_b0fed26d:
 
     # mc "Haha. Alright."
-    mc "Haha. Alright."
+    mc "哈哈。好。"
 
 # game/code/e02/e02s06.rpy:163
 translate chinese e02s06_no_sex_10999f42:
 
     # mh "I hope we offered some good advice."
-    mh "I hope we offered some good advice."
+    mh "希望我们提供了一些好的建议。"
 
 # game/code/e02/e02s06.rpy:164
 translate chinese e02s06_no_sex_6feaaec3:
 
     # mc "I think we did. And they'll know if it's right for them."
-    mc "I think we did. And they'll know if it's right for them."
+    mc "我觉得我们做到了。他们会知道这个建议是否适合他们。"
 
 # game/code/e02/e02s06.rpy:165
 translate chinese e02s06_no_sex_8cdd06c2:
 
     # mc "If it works great. If not..."
-    mc "If it works great. If not..."
+    mc "效果很好就好了。如果不好..."
 
 # game/code/e02/e02s06.rpy:167
 translate chinese e02s06_no_sex_a4a3b77f:
 
     # mh "They'll have made a new memory at least."
-    mh "They'll have made a new memory at least."
+    mh "他们至少会有一个新的记忆。"
 
 # game/code/e02/e02s06.rpy:168
 translate chinese e02s06_no_sex_555dc946:
 
     # mh "One that's not farm related."
-    mh "One that's not farm related."
+    mh "一个与农场无关的记忆。"
 
 # game/code/e02/e02s06.rpy:170
 translate chinese e02s06_no_sex_69c25b65:
 
     # mc "Yeah..."
-    mc "Yeah..."
+    mc "是的..."
 
 # game/code/e02/e02s06.rpy:171
 translate chinese e02s06_no_sex_f3d2aeb4:
 
     # mc "We should get our own farm."
-    mc "We should get our own farm."
+    mc "我们应该有自己的农场。"
 
 # game/code/e02/e02s06.rpy:173
 translate chinese e02s06_no_sex_6da58d3e:
 
     # mh "Haha. Dream on."
-    mh "Haha. Dream on."
+    mh "哈哈。做梦吧。"
 
 # game/code/e02/e02s06.rpy:174
 translate chinese e02s06_no_sex_f68eff7d:
 
     # mc "I'm totally serious."
-    mc "I'm totally serious."
+    mc "我是认真的。"
 
 # game/code/e02/e02s06.rpy:175
 translate chinese e02s06_no_sex_7b8b24e6:
 
     # mh "I bet you are, now come here."
-    mh "I bet you are, now come here."
+    mh "我明白，现在过来吧。"
 
 # game/code/e02/e02s06.rpy:186
 translate chinese e02s06_experiment_451da73f:
 
     # fc "Well... if you two don't mind, we might fix to try it out here."
-    fc "Well... if you two don't mind, we might fix to try it out here."
+    fc "嗯...如果你们两个不介意的话，我们可以在这里试一试。"
 
 # game/code/e02/e02s06.rpy:187
 translate chinese e02s06_experiment_cd724662:
 
     # ac "Ooooh, now there's an idea."
-    ac "Ooooh, now there's an idea."
+    ac "哦，现在我有个主意了。 "
 
 # game/code/e02/e02s06.rpy:189
 translate chinese e02s06_experiment_bafaa3be:
