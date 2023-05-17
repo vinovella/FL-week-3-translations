@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
+# TODO: Translation updated at 2022-03-02 02:41
 
 # game/code/d16/d16s10.rpy:24
 translate malay d16s10_0ce60b86:
@@ -10,7 +10,7 @@ translate malay d16s10_0ce60b86:
 translate malay d16s10_d9159219:
 
     # mc "I should probably call Lydia in a little while."
-    mc "Aku kena telefon Lydia sekejap lagi."
+    mc "Aku kena telefon Lydia kejap lagi."
 
 # game/code/d16/d16s10.rpy:30
 translate malay d16s10_eebcbe44:
@@ -112,7 +112,7 @@ translate malay d16s10_b8de06d3:
 translate malay d16s10_59506057:
 
     # arj "I also like factory games. They're a lot like working with computer hardware."
-    arj "\Aku juga suka permainan kilang. Ia sama seperti bekerja dengan perkakasan komputer."
+    arj "Aku juga suka permainan kilang. Ia sama seperti bekerja dengan perkakasan komputer."
 
 # game/code/d16/d16s10.rpy:57
 translate malay d16s10_ce233756:
@@ -130,7 +130,7 @@ translate malay d16s10_43ff28c1:
 translate malay d16s10_97083a85:
 
     # mc "Some. Mostly stuff like GTA, Ass's Creed, that sort of thing."
-    mc "Sesetengahnya. Kebanyakan perkara seperti GTA, Assassin's Creed, yang macam itulah."
+    mc "Sesetengahnya. Semuanya macam GTA, Assassin's Creed, yang macam itulah."
 
 # game/code/d16/d16s10.rpy:62
 translate malay d16s10_36b1da51:
@@ -142,7 +142,7 @@ translate malay d16s10_36b1da51:
 translate malay d16s10_663fe16d:
 
     # mc "Really? I keep meaning to go back and try that, but it was before my time."
-    mc "Betul ke? Aku nak sangat main dan mencubanya, tetapi ia sebelum masa aku."
+    mc "Betul ke? Aku nak sangat main dan mencubanya, tapi ia sebelum masa aku."
 
 # game/code/d16/d16s10.rpy:65
 translate malay d16s10_02d64f68:
@@ -226,7 +226,7 @@ translate malay d16s10_a11d4715:
 translate malay d16s10_d58a1705:
 
     # mc "Okay... let's take your new chair for a ride."
-    mc "Okay... jom kita tumpang kerusi baru awak."
+    mc "Okay... jom kita tumpang kerusi baru kau."
 
 # game/code/d16/d16s10.rpy:91
 translate malay d16s10_177ecfe7:
@@ -298,7 +298,7 @@ translate malay d16s10_646a4a27:
 translate malay d16s10_a2e08c9c:
 
     # arj "Like scarfing or auto-erotic aphyxiation?"
-    arj "Seperti skarfing atau aphyxiation auto-erotik?"
+    arj "Seperti skarfing atau afiksia auto-erotik?"
 
 # game/code/d16/d16s10.rpy:113
 translate malay d16s10_bd5a73f5:
@@ -322,7 +322,7 @@ translate malay d16s10_b42f70ac:
 translate malay d16s10_a466da08:
 
     # arj "Fair enough. {w}I doubt anyone else has tried anything like this."
-    arj "baiklah. {w}Aku ragu ada orang lain yang pernah mencuba sesuatu seperti ini."
+    arj "Baiklah. {w}Aku ragu ada orang lain yang pernah cuba sesuatu macam ni."
 
 # game/code/d16/d16s10.rpy:121
 translate malay d16s10_e5bb7d5c:
@@ -418,7 +418,7 @@ translate malay d16s10_873d047b:
 translate malay d16s10_b1a37c3d:
 
     # mc "You're relaxing on top of your sleeping bag and talking to me while I look through the camp supplies we packed."
-    mc "Kau berehat di atas beg tidur anda dan bercakap dengan aku sambil aku tengok bekalan kem yang kita bungkus."
+    mc "Kau berehat di atas beg tidur kau dan bercakap dengan aku sambil aku tengok bekalan kem yang kita bungkus."
 
 # game/code/d16/d16s10.rpy:154
 translate malay d16s10_5fd28399:
@@ -478,7 +478,7 @@ translate malay d16s10_dcfba29c:
 translate malay d16s10_deb01f38:
 
     # mc "Suddenly you start complaining that it is too hot in our tent."
-    mc "Tiba-tiba awak mula merungut kerana khemah kami terlalu panas."
+    mc "Tiba-tiba kau mula merungut kerana khemah kita terlalu panas."
 
 # game/code/d16/d16s10.rpy:169
 translate malay d16s10_5d9bd2d4:
@@ -784,7 +784,7 @@ translate malay d16s10_529a9681:
 translate malay d16s10_ea3b1273:
 
     # arj "I'm all good now. {w}You keep looking at your phone. What's wrong?"
-    arj "AKu okay je. {w}Kenapa dengan telefon kau?"
+    arj "Aku okay je. {w}Kenapa dengan telefon kau?"
 
 # game/code/d16/d16s10.rpy:262
 translate malay d16s10_e70338ab:
@@ -916,7 +916,7 @@ translate malay d16s10_74e6928b:
 translate malay d16s10_ce770def:
 
     # mc "You sound like my dentist."
-    mc "Kau dengar macam doktor gigi aku."
+    mc "Suara kau macam doktor gigi aku."
 
 # game/code/d16/d16s10.rpy:309
 translate malay d16s10_ed4fbec4:
@@ -940,7 +940,7 @@ translate malay d16s10_44b5687e:
 translate malay d16s10_1720f377:
 
     # mc "Maybe a little slower than I spun you?"
-    mc "Mungkin lambat sedikit daripada saya memutarkan awak?"
+    mc "Mungkin perlahan sedikit daripada aku memutarkan kau?"
 
 # game/code/d16/d16s10.rpy:315
 translate malay d16s10_13604058:
@@ -1024,7 +1024,7 @@ translate malay d16s10_62c43011:
 translate malay d16s10_31610352:
 
     # arj "How do you feel?"
-    arj "Apakah perasaan anda?"
+    arj "Apa perasaan kau?"
 
 # game/code/d16/d16s10.rpy:351
 translate malay d16s10_c49b542f:
@@ -1048,7 +1048,7 @@ translate malay d16s10_f90c17a8:
 translate malay d16s10_a9b5ccc7:
 
     # arj "I bet we could figure out what the correct RPM is."
-    arj  "Aku yakin kita boleh tahupakah RPM yang betul."
+    arj  "Aku yakin kita boleh tahu apakah RPM yang betul."
 
 # game/code/d16/d16s10.rpy:357
 translate malay d16s10_f2354e31:
@@ -1306,7 +1306,7 @@ translate malay d16s10_9984346b:
 translate malay d16s10_0dffc48f:
 
     # mc "Okay. I'll be with you in a few minutes."
-    mc "Okay. Aku akan bersama anda dalam beberapa minit."
+    mc "Okay. Kejap lagi aku bersama dengan kau."
 
 # game/code/d16/d16s10.rpy:434
 translate malay d16s10_bc889293:
@@ -1378,47 +1378,46 @@ translate malay strings:
 translate malay d16s10_5956f153:
 
     # mc "There we were, Lydia and myself in a fancy restaurant."
-    mc "There we were, Lydia and myself in a fancy restaurant."
+    mc "Di sanalah kami, Lydia dan aku berada di sebuah restoran mewah."
 
 # game/code/d16/d16s10.rpy:534
 translate malay d16s10_1bbfea8c:
 
     # arj "Got you happy, sexy, fun time thought?"
-    arj "Got you happy, sexy, fun time thought?"
+    arj "Kau dah fikirkan sesuatu yang seksi?"
 
 # game/code/d16/d16s10.rpy:610
 translate malay d16s10_85e7d53d:
 
     # arj "Maybe something like the G-forces experienced by pilots."
-    arj "Maybe something like the G-forces experienced by pilots."
+    arj "Mungkin sesuatu seperti kuasa G yang dialami oleh juruterbang."
 
 # game/code/d16/d16s10.rpy:663
 translate malay d16s10_c8e73589:
 
     # arj "It seems to know more about those of us in the VIP-"
-    arj "It seems to know more about those of us in the VIP-"
+    arj "Nampaknya lebih tahu tentang kami di-"
 
 # game/code/d16/d16s10.rpy:665
 translate malay d16s10_ce9c98af:
 
     # arj "It seems to know more about those of us in the reten-"
-    arj "It seems to know more about those of us in the reten-"
+    arj "Nampaknya lebih tahu tentang kami di-"
 
 # game/code/d16/d16s10.rpy:671
 translate malay d16s10_b08a13b4:
 
     # mc "The VIP Program?"
-    mc "The VIP Program?"
+    mc "Program VIP?"
 
 # game/code/d16/d16s10.rpy:691
 translate malay d16s10_be3018ad:
 
     # mc "What did you do to get in the VIP Program? Did you send them pics or what?"
-    mc "What did you do to get in the VIP Program? Did you send them pics or what?"
+    mc "Apa yang kau buat untuk masuk Program VIP? Kau hantar gambar atau apa?"
 
 translate malay strings:
 
     # game/code/d16/d16s10.rpy:26
     old "Later that evening"
-    new "Later that evening"
-
+    new "Pada sebelah petangnya"
