@@ -580,731 +580,731 @@ translate chinese e02s06_experiment_cd724662:
 translate chinese e02s06_experiment_bafaa3be:
 
     # fc "Well don't sound too excited."
-    fc "Well don't sound too excited."
+    fc "好吧，别太兴奋了。"
 
 # game/code/e02/e02s06.rpy:190
 translate chinese e02s06_experiment_4cd76d9a:
 
     # ac "I'm excited to share this moment with you, sweetheart."
-    ac "I'm excited to share this moment with you, sweetheart."
+    ac "我很高兴能和你分享这一刻，亲爱的。"
 
 # game/code/e02/e02s06.rpy:191
 translate chinese e02s06_experiment_5389d15d:
 
     # fc "Haha."
-    fc "Haha."
+    fc "哈哈。"
 
 # game/code/e02/e02s06.rpy:193
 translate chinese e02s06_experiment_75b0b3c5:
 
     # mc "Shall we put our teachings into practice?"
-    mc "Shall we put our teachings into practice?"
+    mc "我们为他们亲身示范下好吗？"
 
 # game/code/e02/e02s06.rpy:194
 translate chinese e02s06_experiment_394e7cdf:
 
     # mh "Haha. I'm game if you are."
-    mh "Haha. I'm game if you are."
+    mh "哈哈。如果你愿意，我也愿意。"
 
 # game/code/e02/e02s06.rpy:196
 translate chinese e02s06_experiment_eee29147:
 
     # ac "Excellent. I think I know just how to start us off."
-    ac "Excellent. I think I know just how to start us off."
+    ac "太好了。我想我知道怎么开始了。"
 
 # game/code/e02/e02s06.rpy:202
 translate chinese e02s06_experiment_fedcdeb4:
 
     # fc "You're amazing, darling."
-    fc "You're amazing, darling."
+    fc "你太棒了，亲爱的。"
 
 # game/code/e02/e02s06.rpy:203
 translate chinese e02s06_experiment_ce4a38e5:
 
     # ac "Heheh. Thanks honey."
-    ac "Heheh. Thanks honey."
+    ac "哈哈。谢谢宝贝。"
 
 # game/code/e02/e02s06.rpy:205
 translate chinese e02s06_experiment_0fde8f4b:
 
     # mct "That costume suits her just perfectly."
-    mct "That costume suits her just perfectly."
+    mct "那套服装太适合她了。"
 
 # game/code/e02/e02s06.rpy:206
 translate chinese e02s06_experiment_ccb6160f:
 
     # mct "I wish we brought Lyssa's cop outfit."
-    mct "I wish we brought Lyssa's cop outfit."
+    mct "真希望我们带了丽莎的警服。"
 
 # game/code/e02/e02s06.rpy:208
 translate chinese e02s06_experiment_8053ccb7:
 
     # ac "Mind if I borrow your horse for a moment, partner?"
-    ac "Mind if I borrow your horse for a moment, partner?"
+    ac "我能借用一下你的吗，伙计？"
 
 # game/code/e02/e02s06.rpy:212
 translate chinese e02s06_experiment_e879797e:
 
     # mh "Just bring him back soon, please."
-    mh "Just bring him back soon, please."
+    mh "请尽快把他带回来。"
 
 # game/code/e02/e02s06.rpy:213
 translate chinese e02s06_experiment_ff0d2c75:
 
     # ac "Of course."
-    ac "Of course."
+    ac "当然。"
 
 # game/code/e02/e02s06.rpy:215
 translate chinese e02s06_experiment_222bcdfa:
 
     # ac "Drop your socks, Mister. And your boots and pants haha."
-    ac "Drop your socks, Mister. And your boots and pants haha."
+    ac "放下你的袜子，先生。还有你的靴子和裤子。"
 
 # game/code/e02/e02s06.rpy:216
 translate chinese e02s06_experiment_f64f6ee7:
 
     # mc "Alright, just take it easy, Miss."
-    mc "Alright, just take it easy, Miss."
+    mc "好吧，放轻松，小姐。"
 
 # game/code/e02/e02s06.rpy:217
 translate chinese e02s06_experiment_4c1606ed:
 
     # ac "No sudden moves. I'd hate for my gun to go off..."
-    ac "No sudden moves. I'd hate for my gun to go off..."
+    ac "不要突然行动。我可不想我的枪走火了..."
 
 # game/code/e02/e02s06.rpy:219
 translate chinese e02s06_experiment_1b4e4021:
 
     # ac "You're playing with fire there..."
-    ac "You're playing with fire there..."
+    ac "你这是在玩火..."
 
 # game/code/e02/e02s06.rpy:220
 translate chinese e02s06_experiment_3dcaff71:
 
     # mc "I think a gal likes you likes a little danger..."
-    mc "I think a gal likes you likes a little danger..."
+    mc "我觉得像你这样的女孩正喜欢危险的东西..."
 
 # game/code/e02/e02s06.rpy:221
 translate chinese e02s06_experiment_cca7cec8:
 
     # ac "Mmhmm..."
-    ac "Mmhmm..."
+    ac "哼嗯..."
 
 # game/code/e02/e02s06.rpy:223
 translate chinese e02s06_experiment_376cea39:
 
     # fc "Pardon me, but holy cow."
-    fc "Pardon me, but holy cow."
+    fc "请原谅，我滴个天神哪。"
 
 # game/code/e02/e02s06.rpy:225
 translate chinese e02s06_experiment_b3df50fe:
 
     # mh "You don't see something like this on the farm much?"
-    mh "You don't see something like this on the farm much?"
+    mh "你在农场里不常看到这样的东西吗？"
 
 # game/code/e02/e02s06.rpy:226
 translate chinese e02s06_experiment_d1f48c27:
 
     # fc "No ma'am.{w}Can I give it a whirl?"
-    fc "No ma'am.{w}Can I give it a whirl?"
+    fc "是的，夫人。{w}我能试一试吗？"
 
 # game/code/e02/e02s06.rpy:227
 translate chinese e02s06_experiment_5439b1a1:
 
     # mh "Yes you may, but go slowly..."
-    mh "Yes you may, but go slowly..."
+    mh "可以，但是要慢慢来..."
 
 # game/code/e02/e02s06.rpy:229
 translate chinese e02s06_experiment_29a1d749:
 
     # ac "Mmm. Let me see what I'm working with."
-    ac "Mmm. Let me see what I'm working with."
+    ac "嗯。让我看看这里有什么。"
 
 # game/code/e02/e02s06.rpy:231
 translate chinese e02s06_experiment_98190969:
 
     # ac "I might have to steal you and the gold..."
-    ac "I might have to steal you and the gold..."
+    ac "我可能得把你和金子都给偷了..."
 
 # game/code/e02/e02s06.rpy:233
 translate chinese e02s06_experiment_a13d8157:
 
     # ac "Mmmrmm..."
-    ac "Mmmrmm..."
+    ac "啊..."
 
 # game/code/e02/e02s06.rpy:235
 translate chinese e02s06_experiment_65aaf84b:
 
     # mc "You look amazing as a cowgirl, Ashley."
-    mc "You look amazing as a cowgirl, Ashley."
+    mc "艾希莉，你扮女牛仔真漂亮。"
 
 # game/code/e02/e02s06.rpy:237
 translate chinese e02s06_experiment_8d06044c:
 
     # ac "It's a real treat, isn't it?"
-    ac "It's a real treat, isn't it?"
+    ac "真是一顿美餐，不是吗？"
 
 # game/code/e02/e02s06.rpy:239
 translate chinese e02s06_experiment_37c9e14a:
 
     # ac "I got real wet thinnking about showing it off for you, [mcname]."
-    ac "I got real wet thinnking about showing it off for you, [mcname]."
+    ac "一想到要在你面前秀一下，我就浑身湿透了，[mcname]。
 
 # game/code/e02/e02s06.rpy:241
 translate chinese e02s06_experiment_b802d180:
 
     # ac "Show me what you've got, my stallion."
-    ac "Show me what you've got, my stallion."
+    ac "让我看看你有什么本事，我的种马。"
 
 # game/code/e02/e02s06.rpy:242
 translate chinese e02s06_experiment_a4653830:
 
     # mc "Yes ma'am."
-    mc "Yes ma'am."
+    mc "遵命，夫人。"
 
 # game/code/e02/e02s06.rpy:250
 translate chinese e02s06_experiment_70b80f0a:
 
     # ac "Oh fuck! That's it... don't go slow with me, Mister."
-    ac "Oh fuck! That's it... don't go slow with me, Mister."
+    ac "哦，操！就是这样...别跟我慢吞吞的。"
 
 # game/code/e02/e02s06.rpy:251
 translate chinese e02s06_experiment_5da0c11f:
 
     # ac "*Panting* It's not my first redeo!"
-    ac "*Panting* It's not my first redeo!"
+    ac "*喘气* 这不是我第一次红杏出墙!"
 
 # game/code/e02/e02s06.rpy:253
 translate chinese e02s06_experiment_c37b536f:
 
     # mc "Fuck... you're already tightening up, Ashley."
-    mc "Fuck... you're already tightening up, Ashley."
+    mc "操...你已经紧张起来了，艾希莉。"
 
 # game/code/e02/e02s06.rpy:254
 translate chinese e02s06_experiment_d72d6db3:
 
     # ac "Just keep going... ram that big cock inside me... Yes... oh fuck!"
-    ac "Just keep going... ram that big cock inside me... Yes... oh fuck!"
+    ac "继续...把那根大鸡巴塞进我身体里...啊...哦，操!"
 
 # game/code/e02/e02s06.rpy:256
 translate chinese e02s06_experiment_d42ce178:
 
     # fc "Holy shit. Babe... that's so hot."
-    fc "Holy shit. Babe... that's so hot."
+    fc "妈的。宝贝...太性感了。"
 
 # game/code/e02/e02s06.rpy:257
 translate chinese e02s06_experiment_174d8f5d:
 
     # ac "Mrwaah..."
-    ac "Mrwaah..."
+    ac "mua..."
 
 # game/code/e02/e02s06.rpy:258
 translate chinese e02s06_experiment_59fc9037:
 
     # mh "Mmm..."
-    mh "Mmm..."
+    mh "嗯..."
 
 # game/code/e02/e02s06.rpy:260
 translate chinese e02s06_experiment_a40b918b:
 
     # fc "Sorry, everything okay?"
-    fc "Sorry, everything okay?"
+    fc "对不起，还好吗？"
 
 # game/code/e02/e02s06.rpy:261
 translate chinese e02s06_experiment_8426c129:
 
     # mh "It's fine, you just started pumping harder when you started watching her."
-    mh "It's fine, you just started pumping harder when you started watching her."
+    mh "没事，你刚开始一看她，这边就用力抽插了"
 
 # game/code/e02/e02s06.rpy:262
 translate chinese e02s06_experiment_c149817b:
 
     # fc "Haha. Like I said... this is exciting. A little crazy {w} but very exciting."
-    fc "Haha. Like I said... this is exciting. A little crazy {w} but very exciting."
+    fc "哈哈。我说过...这很令人兴奋。有点疯狂，{w} 但也很刺激。"
 
 # game/code/e02/e02s06.rpy:263
 translate chinese e02s06_experiment_3d1174d8:
 
     # mh "First time you've stroked another cock?"
-    mh "First time you've stroked another cock?"
+    mh "你第一次撸别的鸡巴？"
 
 # game/code/e02/e02s06.rpy:264
 translate chinese e02s06_experiment_dadcc200:
 
     # fc "There was one time at college, but it was nothing like yours..."
-    fc "There was one time at college, but it was nothing like yours..."
+    fc "大学里有过一次，但跟你的完全不一样..."
 
 # game/code/e02/e02s06.rpy:266
 translate chinese e02s06_experiment_af670536:
 
     # mh "Mmm... I'll take that as a compliment."
-    mh "Mmm... I'll take that as a compliment."
+    mh "嗯...我就当你夸奖我了。"
 
 # game/code/e02/e02s06.rpy:267
 translate chinese e02s06_experiment_0a4a4c81:
 
     # ac "Hold on, [mcname]. Let me change things up a little."
-    ac "Hold on, [mcname]. Let me change things up a little."
+    ac "等一下，[mcname]。让我稍微变换一下。"
 
 # game/code/e02/e02s06.rpy:269
 translate chinese e02s06_experiment_b928df65:
 
     # ac "Fuck!"
-    ac "Fuck!"
+    ac "操!"
 
 # game/code/e02/e02s06.rpy:270
 translate chinese e02s06_experiment_b9005320:
 
     # fc "You okay?"
-    fc "You okay?"
+    fc "你没事吧？"
 
 # game/code/e02/e02s06.rpy:271
 translate chinese e02s06_experiment_2a67b17b:
 
     # ac "Just lost my breath for a moment."
-    ac "Just lost my breath for a moment."
+    ac "只是一时没喘过气来。"
 
 # game/code/e02/e02s06.rpy:273
 translate chinese e02s06_experiment_44e57042:
 
     # ac "It feels amazing, [mcname]. Keep going..."
-    ac "It feels amazing, [mcname]. Keep going..."
+    ac "感觉太棒了，[mcname]。继续..."
 
 # game/code/e02/e02s06.rpy:274
 translate chinese e02s06_experiment_7f0dc9a8:
 
     # mc "Alright... you sure everyone is still uh... comfortable?"
-    mc "Alright... you sure everyone is still uh... comfortable?"
+    mc "好吧...你确定大家都还...舒服吗？"
 
 # game/code/e02/e02s06.rpy:275
 translate chinese e02s06_experiment_22fadf5e:
 
     # ac "Fuck yes... Frank is... nuhaah... enjoying himself a lot."
-    ac "Fuck yes... Frank is... nuhaah... enjoying himself a lot."
+    ac "操...确定...弗兰克...现在啊啊...玩得很开心。"
 
 # game/code/e02/e02s06.rpy:276
 translate chinese e02s06_experiment_55f7f36e:
 
     # ac "Watching me like this... trying out new things"
-    ac "Watching me like this... trying out new things"
+    ac "这样看着我...尝试新事物"
 
 # game/code/e02/e02s06.rpy:278
 translate chinese e02s06_experiment_61b2be73:
 
     # ac "I thought I just wanted to try out the thrill of being fucked by someone else."
-    ac "I thought I just wanted to try out the thrill of being fucked by someone else."
+    ac "我以为我只是想试试被别人操的快感。"
 
 # game/code/e02/e02s06.rpy:279
 translate chinese e02s06_experiment_bc10f9e1:
 
     # ac "But seeing Frank stroke Lyssa's cock...It's so fresh and new. I love it!"
-    ac "But seeing Frank stroke Lyssa's cock...It's so fresh and new. I love it!"
+    ac "但看到弗兰克撸丽莎的鸡巴...这也太新鲜了。我爱死它了!"
 
 # game/code/e02/e02s06.rpy:281
 translate chinese e02s06_experiment_aff18c56:
 
     # mc "I'm glad it's working out."
-    mc "I'm glad it's working out."
+    mc "我很高兴这个建议成功了。"
 
 # game/code/e02/e02s06.rpy:282
 translate chinese e02s06_experiment_846bce54:
 
     # mct "Since everyone is still on the same page, I can really let go."
-    mct "Since everyone is still on the same page, I can really let go."
+    mct "既然大家的想法都一致，我真的可以放手了。"
 
 # game/code/e02/e02s06.rpy:284
 translate chinese e02s06_experiment_3fc324ff:
 
     # ac "Oh fuck."
-    ac "Oh fuck."
+    ac "哦，操。"
 
 # game/code/e02/e02s06.rpy:286
 translate chinese e02s06_experiment_22c8c4d5:
 
     # ac "Frank... honey... you can't just stroke a juicy cock like that?"
-    ac "Frank... honey... you can't just stroke a juicy cock like that?"
+    ac "弗兰克...亲爱的...你不能就这样只是上手摸这个硬鸡巴吧？"
 
 # game/code/e02/e02s06.rpy:287
 translate chinese e02s06_experiment_187a0530:
 
     # fc "I can't?"
-    fc "I can't?"
+    fc "不行吗？"
 
 # game/code/e02/e02s06.rpy:289
 translate chinese e02s06_experiment_71ee1f93:
 
     # ac "Nope. You got to open up and kiss it."
-    ac "Nope. You got to open up and kiss it."
+    ac "不。你得敞开心扉，亲吻它。"
 
 # game/code/e02/e02s06.rpy:290
 translate chinese e02s06_experiment_0c573836:
 
     # fc "Wowah... that's... I mean... it's pretty big."
-    fc "Wowah... that's... I mean... it's pretty big."
+    fc "哇...这...我的意思是...它相当大。"
 
 # game/code/e02/e02s06.rpy:291
 translate chinese e02s06_experiment_17fcab54:
 
     # ac "Please Frank... tonight is... all about trying new things."
-    ac "Please Frank... tonight is... all about trying new things."
+    ac "求你了，弗兰克...今晚的一切...都是为了尝试新事物的。"
 
 # game/code/e02/e02s06.rpy:293
 translate chinese e02s06_experiment_68e7a11a:
 
     # fc "That alright with you, Lyssa?"
-    fc "That alright with you, Lyssa?"
+    fc "这样行吗，丽莎？"
 
 # game/code/e02/e02s06.rpy:294
 translate chinese e02s06_experiment_5688c22e:
 
     # mh "Mmm. Give it your best shot, Frank."
-    mh "Mmm. Give it your best shot, Frank."
+    mh "嗯。全力以赴吧，弗兰克。"
 
 # game/code/e02/e02s06.rpy:302
 translate chinese e02s06_experiment_98fada7e:
 
     # mh "Mmmraah..."
-    mh "Mmmraah..."
+    mh "啊啊啊..."
 
 # game/code/e02/e02s06.rpy:304
 translate chinese e02s06_experiment_c7ce7d12:
 
     # ac "Ooof... how is he?"
-    ac "Ooof... how is he?"
+    ac "他怎么样？"
 
 # game/code/e02/e02s06.rpy:305
 translate chinese e02s06_experiment_40f3b111:
 
     # mh "A little nervous... but I believe he is getting used to my size now..."
-    mh "A little nervous... but I believe he is getting used to my size now..."
+    mh "有点紧张...不过我相信他现在已经习惯我的尺寸了..."
 
 # game/code/e02/e02s06.rpy:307
 translate chinese e02s06_experiment_bbfa3a9b:
 
     # ac "Oh fuck! Speaking of getting used to someone..."
-    ac "Oh fuck! Speaking of getting used to someone..."
+    ac "哦，操!说到习惯一个人..."
 
 # game/code/e02/e02s06.rpy:308
 translate chinese e02s06_experiment_ef4a923c:
 
     # ac "Right there... Mmmph... harder!"
-    ac "Right there... Mmmph... harder!"
+    ac "就在那儿...嗯嗯嗯...用力!"
 
 # game/code/e02/e02s06.rpy:310
 translate chinese e02s06_experiment_f6723ac7:
 
     # fc "*Hungry sucking*"
-    fc "*Hungry sucking*"
+    fc "*饥饿的舔舐*"
 
 # game/code/e02/e02s06.rpy:311
 translate chinese e02s06_experiment_324e587c:
 
     # mh "Yes... you are doing excellent, Frank."
-    mh "Yes... you are doing excellent, Frank."
+    mh "是的...你做得很好，弗兰克。"
 
 # game/code/e02/e02s06.rpy:313
 translate chinese e02s06_experiment_774edb90:
 
     # ac "Ride me baby... ride me hard...!"
-    ac "Ride me baby... ride me hard...!"
+    ac "骑我吧，宝贝...狠狠地骑我..."
 
 # game/code/e02/e02s06.rpy:314
 translate chinese e02s06_experiment_68db96aa:
 
     # mct "Her pussy is clamping down down on me while watching her husband."
-    mct "Her pussy is clamping down down on me while watching her husband."
+    mct "她上边在看着她的丈夫，下边她的小穴狠狠压在我身上。"
 
 # game/code/e02/e02s06.rpy:316
 translate chinese e02s06_experiment_6c72a833:
 
     # mc "*Grunting* Ashley... I'm getting close."
-    mc "*Grunting* Ashley... I'm getting close."
+    mc " *哼哼着* 艾希莉...我快了。"
 
 # game/code/e02/e02s06.rpy:317
 translate chinese e02s06_experiment_dfe9ee84:
 
     # ac "Mmm... inside... inside my mouth!"
-    ac "Mmm... inside... inside my mouth!"
+    ac "嗯...射出来...射我嘴里!"
 
 # game/code/e02/e02s06.rpy:319
 translate chinese e02s06_experiment_5e48bfe9:
 
     # ac "Come on city slicker... give me every salty drop... I want it..."
-    ac "Come on city slicker... give me every salty drop... I want it..."
+    ac "来吧，年轻人......每一滴咸咸的精华都给我...我想要..."
 
 # game/code/e02/e02s06.rpy:321
 translate chinese e02s06_experiment_68173d25:
 
     # ac "Awwaaahhh..."
-    ac "Awwaaahhh..."
+    ac "啊啊啊啊..."
 
 # game/code/e02/e02s06.rpy:323
 translate chinese e02s06_experiment_af5992c0:
 
     # fc "Sweet mercy... that was a real treat."
-    fc "Sweet mercy... that was a real treat."
+    fc "天哪...真是一种享受。"
 
 # game/code/e02/e02s06.rpy:324
 translate chinese e02s06_experiment_f1e7ccbb:
 
     # mh "Playing with me... or watching Ashley gulp down [mcname]'s cum?"
-    mh "Playing with me... or watching Ashley gulp down [mcname]'s cum?"
+    mh "这个精液，是跟我玩的...还是看着艾希莉吞下[mcname]的精液而射出来？"
 
 # game/code/e02/e02s06.rpy:326
 translate chinese e02s06_experiment_2d1d2c46:
 
     # fc "Both, haha!"
-    fc "Both, haha!"
+    fc "都有，哈哈!"
 
 # game/code/e02/e02s06.rpy:330
 translate chinese e02s06_experiment_169ef49f:
 
     # fc "Come here, darling..."
-    fc "Come here, darling..."
+    fc "过来，亲爱的..."
 
 # game/code/e02/e02s06.rpy:331
 translate chinese e02s06_experiment_3690a354:
 
     # ac "Yes, honey..."
-    ac "Yes, honey..."
+    ac "亲爱的..."
 
 # game/code/e02/e02s06.rpy:333
 translate chinese e02s06_experiment_beff3776:
 
     # ac "Oooh. Another strong cock... just for me..."
-    ac "Oooh. Another strong cock... just for me..."
+    ac "噢。又是一个巨无霸鸡巴...只是我一个人的..."
 
 # game/code/e02/e02s06.rpy:334
 translate chinese e02s06_experiment_97d0131f:
 
     # fc "Anything you want, I'll get it for you... I love you, Ashley!"
-    fc "Anything you want, I'll get it for you... I love you, Ashley!"
+    fc "你要什么，我都给你弄来...我爱你，艾希莉!"
 
 # game/code/e02/e02s06.rpy:336
 translate chinese e02s06_experiment_0ac446f5:
 
     # ac "I love you too, Frank..."
-    ac "I love you too, Frank..."
+    ac "我也爱你，弗兰克..."
 
 # game/code/e02/e02s06.rpy:337
 translate chinese e02s06_experiment_e8da21d1:
 
     # ac "How about you put it in my ass next?"
-    ac "How about you put it in my ass next?"
+    ac "接下来你把它塞到我屁股里怎么样？"
 
 # game/code/e02/e02s06.rpy:341
 translate chinese e02s06_experiment_b6e37d7e:
 
     # mh "Baby... that feels so good. But I want to taste you."
-    mh "Baby... that feels so good. But I want to taste you."
+    mh "宝贝...感觉好极了。但我想尝尝你的味道。"
 
 # game/code/e02/e02s06.rpy:342
 translate chinese e02s06_experiment_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的吗？"
 
 # game/code/e02/e02s06.rpy:344
 translate chinese e02s06_experiment_399e658c:
 
     # mh "Yes... it is... I just want to taste your cock after watching it pound away inside Ashley."
-    mh "Yes... it is... I just want to taste your cock after watching it pound away inside Ashley."
+    mh "是的...我想...在你干过艾希莉之后，尝尝你鸡巴的味道"
 
 # game/code/e02/e02s06.rpy:345
 translate chinese e02s06_experiment_1e01a266:
 
     # mc "Say no more."
-    mc "Say no more."
+    mc "别说了。"
 
 # game/code/e02/e02s06.rpy:349
 translate chinese e02s06_experiment_7bd9e706:
 
     # mh "*Heavy moans*"
-    mh "*Heavy moans*"
+    mh "*粗重的呻吟*"
 
 # game/code/e02/e02s06.rpy:351
 translate chinese e02s06_experiment_2305eb12:
 
     # mct "Fuck me, Lyssa... I don't know how long I'll last if you go like that..."
-    mct "Fuck me, Lyssa... I don't know how long I'll last if you go like that..."
+    mct "我操，丽莎...像你这样搞，我不知道我能坚持多久"
 
 # game/code/e02/e02s06.rpy:352
 translate chinese e02s06_experiment_917e64e8:
 
     # mh "Mmrrmmmph!"
-    mh "Mmrrmmmph!"
+    mh "嗯...嗯..."
 
 # game/code/e02/e02s06.rpy:353
 translate chinese e02s06_experiment_95163c02:
 
     # fc "Hey guys. Ashley had an idea..."
-    fc "Hey guys. Ashley had an idea..."
+    fc "嘿，伙计们。艾希莉有个主意..."
 
 # game/code/e02/e02s06.rpy:355
 translate chinese e02s06_experiment_b3d1b04f:
 
     # ac "Lyssa... I want to feel your cock... too..."
-    ac "Lyssa... I want to feel your cock... too..."
+    ac "丽莎...我还想感受下你的鸡巴......"
 
 # game/code/e02/e02s06.rpy:356
 translate chinese e02s06_experiment_27d01558:
 
     # ac "And my pussy is open for business again."
-    ac "And my pussy is open for business again."
+    ac "我下面的小穴又开始营业了"
 
 # game/code/e02/e02s06.rpy:357
 translate chinese e02s06_experiment_1be373a1:
 
     # fc "I want her to fuck you first."
-    fc "I want her to fuck you first."
+    fc "我想让她先操你。"
 
 # game/code/e02/e02s06.rpy:377
 translate chinese e02s06_experiment_4a4f0dfd:
 
     # ac "Ah, fuck!"
-    ac "Ah, fuck!"
+    ac "啊，操!"
 
 # game/code/e02/e02s06.rpy:378
 translate chinese e02s06_experiment_656c46cd:
 
     # ac "Jesus Christ!"
-    ac "Jesus Christ!"
+    ac "天啊!"
 
 # game/code/e02/e02s06.rpy:379
 translate chinese e02s06_experiment_eb455ca7:
 
     # fc "Boy howdy!"
-    fc "Boy howdy!"
+    fc "我去!"
 
 # game/code/e02/e02s06.rpy:381
 translate chinese e02s06_experiment_e3b2d83c:
 
     # ac "I still have one hole... Come on, [mcname]"
-    ac "I still have one hole... Come on, [mcname]"
+    ac "我还有一个洞...来吧，[mcname]"
 
 # game/code/e02/e02s06.rpy:382
 translate chinese e02s06_experiment_d017b1ee:
 
     # fc "Yeah partner, the more the merrier, haha!"
-    fc "Yeah partner, the more the merrier, haha!"
+    fc "是啊，老兄，人越多越开心，哈哈!"
 
 # game/code/e02/e02s06.rpy:392
 translate chinese e02s06_experiment_c1725224:
 
     # ac "I'm going to cum!"
-    ac "I'm going to cum!"
+    ac "我要高潮了!"
 
 # game/code/e02/e02s06.rpy:393
 translate chinese e02s06_experiment_650bce16:
 
     # ac "So hard!"
-    ac "So hard!"
+    ac "要去了啊啊!"
 
 # game/code/e02/e02s06.rpy:397
 translate chinese e02s06_experiment_8dbbbe79:
 
     # fc "Wait a minute, we haven't come yet. Isn't that right?"
-    fc "Wait a minute, we haven't come yet. Isn't that right?"
+    fc "等一下，我们还没来呢。对不对？"
 
 # game/code/e02/e02s06.rpy:409
 translate chinese e02s06_experiment_30955397:
 
     # ac "Hahaha. Mmmm... I look like I'm covered in white chocolate."
-    ac "Hahaha. Mmmm... I look like I'm covered in white chocolate."
+    ac "哈哈哈。嗯...我看起来浑身都是白巧克力。"
 
 # game/code/e02/e02s06.rpy:410
 translate chinese e02s06_experiment_f6311823:
 
     # fc "You look great, honey."
-    fc "You look great, honey."
+    fc "亲爱的，你看起来棒极了。"
 
 # game/code/e02/e02s06.rpy:411
 translate chinese e02s06_experiment_82f2f1e1:
 
     # ac "I'm a mess. But thanks, sweetheart."
-    ac "I'm a mess. But thanks, sweetheart."
+    ac "我一定很狼狈。不过谢谢你，亲爱的。"
 
 # game/code/e02/e02s06.rpy:413
 translate chinese e02s06_experiment_3063e20c:
 
     # mc "So... how did it feel this time?"
-    mc "So... how did it feel this time?"
+    mc "所以...这次感觉怎么样？"
 
 # game/code/e02/e02s06.rpy:414
 translate chinese e02s06_experiment_f19d25af:
 
     # ac "I'll let you know when I can feel something besides your guys' cum all over me."
-    ac "I'll let you know when I can feel something besides your guys' cum all over me."
+    ac "等我感觉到除了你们男人的精液外还有别的东西的时候，我会告诉你的。"
 
 # game/code/e02/e02s06.rpy:415
 translate chinese e02s06_experiment_b22b08b9:
 
     # ac "Just teasing. I can only speak for myself. But it certainly felt like old times for me."
-    ac "Just teasing. I can only speak for myself. But it certainly felt like old times for me."
+    ac "开玩笑哈。我只能代表我自己。但对我来说，感觉确实像回到了过去。"
 
 # game/code/e02/e02s06.rpy:416
 translate chinese e02s06_experiment_e0eb2005:
 
     # fc "And then some!"
-    fc "And then some!"
+    fc "比过去还有感觉！"
 
 # game/code/e02/e02s06.rpy:425
 translate chinese e02s06_sex_end_f6c7bad6:
 
     # fc "Here's to our hosts. Lyssa, [mcname], you two went out on a limb for us. We really appreciate it."
-    fc "Here's to our hosts. Lyssa, [mcname], you two went out on a limb for us. We really appreciate it."
+    fc "敬我们的东道主。丽莎，[mcname] ，你们俩为我们做了很多努力。我们真的很感激。"
 
 # game/code/e02/e02s06.rpy:427
 translate chinese e02s06_sex_end_697e1a77:
 
     # ac "And we'll never forget it."
-    ac "And we'll never forget it."
+    ac "我们永远不会忘记。"
 
 # game/code/e02/e02s06.rpy:428
 translate chinese e02s06_sex_end_7704bf72:
 
     # mh "Thanks you two, but we barely did anything."
-    mh "Thanks you two, but we barely did anything."
+    mh "谢谢你们两个，但我们几乎没做什么。"
 
 # game/code/e02/e02s06.rpy:430
 translate chinese e02s06_sex_end_6ea328de:
 
     # mct "She's always so humble and perfect. I love you so much, Lyssa."
-    mct "She's always so humble and perfect. I love you so much, Lyssa."
+    mct "她总是那么谦虚，那么完美。我太爱你了，丽莎。"
 
 # game/code/e02/e02s06.rpy:431
 translate chinese e02s06_sex_end_7b46d02a:
 
     # mh "How about instead of cheers to us..."
-    mh "How about instead of cheers to us..."
+    mh "与其为我们干杯..."
 
 # game/code/e02/e02s06.rpy:433
 translate chinese e02s06_sex_end_453947db:
 
     # mh "Cheers to the Snowy Peaks Resort!"
-    mh "Cheers to the Snowy Peaks Resort!"
+    mh "为雪峰度假村干杯!"
 
 # game/code/e02/e02s06.rpy:434
 translate chinese e02s06_sex_end_98f299e8:
 
     # fc "Cheers."
-    fc "Cheers."
+    fc "干杯。"
 
 # game/code/e02/e02s06.rpy:436
 translate chinese e02s06_sex_end_60e0a0c1:
 
     # ac "Hear hear!"
-    ac "Hear hear!"
+    ac "说得好!"
 
 translate chinese strings:
 
     # game/code/e02/e02s06.rpy:142
     old "Help them experiment"
-    new "Help them experiment"
+    new "帮助他们做实验"
 
     # game/code/e02/e02s06.rpy:142
     old "Just give them some advice"
-    new "Just give them some advice"
+    new "给他们一些建议就行"
 
 # TODO: Translation updated at 2023-05-13 23:02
 
@@ -1312,17 +1312,17 @@ translate chinese strings:
 translate chinese e02s06_experiment_d8b5fe3c:
 
     # mc "I think a gal like you likes a little danger..."
-    mc "I think a gal like you likes a little danger..."
+    mc "我觉得像你这样的女孩正喜欢危险的东西..."
 
 # game/code/e02/e02s06.rpy:326
 translate chinese e02s06_experiment_80379bdf:
 
     # fc "No ma'am.{w} Can I give it a whirl?"
-    fc "No ma'am.{w} Can I give it a whirl?"
+    fc "是的，夫人。{w}我能试一试吗？"
 
 # game/code/e02/e02s06.rpy:343
 translate chinese e02s06_experiment_aa4fa88f:
 
     # ac "I got real wet thinking about showing it off for you, [mcname]."
-    ac "I got real wet thinking about showing it off for you, [mcname]."
+    ac "一想到要在你面前秀一下，我就浑身湿透了，[mcname]。"
 
