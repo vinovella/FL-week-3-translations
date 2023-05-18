@@ -196,7 +196,7 @@ translate chinese e02s07_3a8fa1a1:
 translate chinese e02s07_d7d28c81:
 
     # mc "Really, it's all good. There's nothing to be ashamed about."
-    mc "真的，这非常正常。没有什么好羞愧的。
+    mc "真的，这非常正常。没有什么好羞愧的。"
 
 # game/code/e02/e02s07.rpy:108
 translate chinese e02s07_3c9d19a8:
@@ -946,7 +946,7 @@ translate chinese e02s07_sex_0ab94a8f:
 translate chinese e02s07_sex_fbb0f273:
 
     # mh "Third, is the psychological aspect. About 90%% of sexual pleasure occurs in the brain."
-    mh "第三，心理方面。大约90%的性快感发生在大脑中。"
+    mh "第三，心理方面。大约90%%的性快感发生在大脑中。"
 
 # game/code/e02/e02s07.rpy:495
 translate chinese e02s07_sex_956a52e4:

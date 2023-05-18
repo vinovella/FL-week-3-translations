@@ -748,7 +748,7 @@ translate chinese e02s06_experiment_8d06044c:
 translate chinese e02s06_experiment_37c9e14a:
 
     # ac "I got real wet thinnking about showing it off for you, [mcname]."
-    ac "一想到要在你面前秀一下，我就浑身湿透了，[mcname]。
+    ac "一想到要在你面前秀一下，我就浑身湿透了，[mcname]。"
 
 # game/code/e02/e02s06.rpy:241
 translate chinese e02s06_experiment_b802d180:
