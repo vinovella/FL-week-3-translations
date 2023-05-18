@@ -22,7 +22,7 @@ translate malay d17s01_628e3044:
 translate malay d17s01_20288045:
 
     # mct "It's a good thing no one is here to see me talking to my cock.{w} Where is AmRose?"
-    mct "Nasib baik tiada sesiapa di sini untuk melihat saya bercakap dengan ayam saya. {w}Mana AmRose?"
+    mct "Nasib baik tak ada siapa dekat sini untuk tnegok aku bercakap dengan kote aku. {w}Mana AmRose?"
 
 # game/code/d17/d17s01.rpy:53
 translate malay d17s01_f7484208:
@@ -64,13 +64,13 @@ translate malay d17s01_85539b83:
 translate malay d17s01_c3742bb7:
 
     # arj "Um, good morning, [mcname]. Did you forget we invited your girlfriend over for breakfast?"
-    arj "Um, selamat pagi, [mcname]. Kau lupa kita menjemput teman wanita kau untuk sarapan?"
+    arj "Um, selamat pagi, [mcname]. Kau lupa kita jemput teman wanita kau untuk sarapan?"
 
 # game/code/d17/d17s01.rpy:66
 translate malay d17s01_aff36e20:
 
     # mc "Maybe I should get changed."
-    mc "Mungkin saya tukar baju."
+    mc "Mungkin aku kena tukar baju."
 
 # game/code/d17/d17s01.rpy:68
 translate malay d17s01_efbea2b8:
@@ -148,7 +148,7 @@ translate malay d17s01_a4cd16d2:
 translate malay d17s01_ec9cfd79:
 
     # lc "I meant testing our ability to remain focused despite distractions."
-    lc "Maksud saya menguji keupayaan kita untuk kekal fokus walaupun terdapat gangguan."
+    lc "Maksud aku menguji keupayaan kita untuk kekal fokus walaupun terdapat gangguan."
 
 # game/code/d17/d17s01.rpy:93
 translate malay d17s01_20436e1c:
@@ -214,7 +214,7 @@ translate malay d17s01_7dab5de3:
 translate malay d17s01_15b35388:
 
     # lc "I might think up a few ideas.{w} We can talk about that later."
-    lc "Aku mungkin memikirkan beberapa idea. {w}Kita boleh membincangkannya nanti."
+    lc "Aku mungkin memikirkan beberapa idea. {w}Kita boleh bincangkannya nanti."
 
 # game/code/d17/d17s01.rpy:111
 translate malay d17s01_9a93238a:
@@ -238,7 +238,7 @@ translate malay d17s01_bb647f11:
 translate malay d17s01_675c78f7:
 
     # arj "I've got Nordin, Lambert, and Foltest. What about you?"
-    arj "Saya ada Nordin, Lambert dan Foltest. Bagaimana dengan anda?"
+    arj "Aku ada Nordin, Lambert dan Foltest. Macam mana dengan kau?"
 
 # game/code/d17/d17s01.rpy:127
 translate malay d17s01_5663556f:
@@ -322,7 +322,7 @@ translate malay d17s01_6b1b47e8:
 translate malay d17s01_04bb67ca:
 
     # mc "Nordin, definitely. I'm pretty sure that Lewald will be on the panel too. I'm not sure about the third."
-    mc "Nordin, sudah pasti. Aku pasti Lewald akan menjadi panel juga. Aku tidak pasti siapa yang ketiga."
+    mc "Nordin, sudah pasti. Aku pasti Lewald akan menjadi panel juga. Aku tak pasti siapa yang ketiga."
 
 # game/code/d17/d17s01.rpy:154
 translate malay d17s01_2b82e62c:
@@ -358,7 +358,7 @@ translate malay d17s01_fee432f6:
 translate malay d17s01_49bf9173:
 
     # arj "I didn't cheat!{w} They gave each of us a puzzle to figure out. The solution was to..."
-    arj "Aku tak menipu!{w} Mereka memberikan setiap seorang daripada kami teka-teki untuk difikirkan. Penyelesaiannya ialah..."
+    arj "Aku tak menipu! {w}Mereka memberikan setiap seorang daripada kami teka-teki untuk difikirkan. Penyelesaiannya ialah..."
 
 # game/code/d17/d17s01.rpy:165
 translate malay d17s01_1f1cd9e0:
@@ -394,7 +394,7 @@ translate malay d17s01_57ccf91c:
 translate malay d17s01_fc940640:
 
     # mc "Any chance you could ask them for me?"
-    mc "Ada peluang anda boleh meminta mereka untuk aku?"
+    mc "Ada peluang kau boleh meminta mereka untuk aku?"
 
 # game/code/d17/d17s01.rpy:176
 translate malay d17s01_f3ffc1f0:
@@ -466,7 +466,7 @@ translate malay d17s01_1560f212:
 translate malay d17s01_cfdb5771:
 
     # arj "Let's not get side-tracked.{w} Lydia, what would you want for this information?"
-    arj "Jangan kita terpesong. {w}Lydia, apakah yang kau nak untuk maklumat ini?"
+    arj "Jangan kita terpesong. {w}Lydia, apa yang kau nak untuk maklumat ini?"
 
 # game/code/d17/d17s01.rpy:201
 translate malay d17s01_49f46706:
@@ -700,7 +700,7 @@ translate malay d17s01_653e7d26:
 translate malay d17s01_dbe4d1cf:
 
     # lc "I wasn't serious about that. I was just winding you two up before telling what I knew."
-    lc "Aku tak serius mengenai perkara itu. Saya hanya membingungkan korang berdua sebelum memberitahu apa yang aku tahu."
+    lc "Aku tak serius mengenai perkara itu. Aku hanya membingungkan korang berdua sebelum memberitahu apa yang aku tahu."
 
 # game/code/d17/d17s01.rpy:278
 translate malay d17s01_1c84857e:
@@ -748,7 +748,7 @@ translate malay d17s01_6c21fd4d:
 translate malay d17s01_cc96d855:
 
     # mc "Looking forward to hearing them.{w}.. later. Much later."
-    mc "Tidak sabar untuk mendengarnya... {w}nanti. Selepas ini."
+    mc "Tak sabar untuk mendengarnya... {w}nanti. Selepas ini."
 
 # game/code/d17/d17s01.rpy:294
 translate malay d17s01_e49b9b88:
@@ -1018,7 +1018,7 @@ translate malay d17s01_no_ntr_ff2fe935:
 translate malay d17s01_no_ntr_85fea182:
 
         # lc "Please don't.{w} I'd like to see what it's like...{w} raw. Is that the word?"
-    lc "Tolong jangan.{w}Aku nak tengok macam mana... {w}mentah rasanya. Adakah itu perkataannya?"
+    lc "Tolong jangan. {w}Aku nak tengok macam mana... {w}mentah rasanya. Adakah itu perkataannya?"
 
 # game/code/d17/d17s01.rpy:454
 translate malay d17s01_no_ntr_56124645:
@@ -1036,7 +1036,7 @@ translate malay d17s01_no_ntr_a49ed4f8:
 translate malay d17s01_no_ntr_3ca42aaf:
 
         # lc "You might want to go slow at first."
-    lc "Kau mungkin mahu pergi perlahan pada mulanya."
+    lc "Kau mungkin nak pergi perlahan pada mulanya."
 
 # game/code/d17/d17s01.rpy:460
 translate malay d17s01_no_ntr_85974aab:
@@ -1072,7 +1072,7 @@ translate malay d17s01_no_ntr_583c3dbf:
 translate malay d17s01_no_ntr_74aeb474:
 
         # arj "If you're going to fucking rape my ass at least do what I tell you to do."
-    arj "Jika kau akan merogol pantat saya sekurang-kurangnya lakukan apa yang aku suruh kau lakukan."
+    arj "Jika kau akan merogol bontot aku sekurang-kurangnya lakukan apa yang aku suruh kau lakukan."
 
 # game/code/d17/d17s01.rpy:471
 translate malay d17s01_no_ntr_96f17797:
@@ -1102,7 +1102,7 @@ translate malay d17s01_anal_sex_c9fac30e:
 translate malay d17s01_anal_sex_06a5de85:
 
         # mc "Shit!{w} Are you alright?!"
-    mc "Sial! {w}Kau sihat?!"
+    mc "Sial! {w}Kau okay?!"
 
 # game/code/d17/d17s01.rpy:491
 translate malay d17s01_anal_sex_c1627605:
@@ -1186,7 +1186,7 @@ translate malay d17s01_anal_sex_97a8ccdc:
 translate malay d17s01_anal_sex_164d82cf:
 
         # lc "\"Come knocking at the rear entrance of Shady Thicket, what you'll find can be immensely satisfying.{w} Today's Fetish is Anal."
-    lc "\"Ayuh mengetuk pintu masuk belakang Shady Thicket, apa yang anda akan dapati sangat memuaskan.{w} Fetish Today is Anal."
+    lc "\"Ayuh mengetuk pintu masuk belakang Shady Thicket, apa yang anda akan dapati sangat memuaskan. {w}Fetish Hari Ini ialah Anal."
 
 # game/code/d17/d17s01.rpy:521
 translate malay d17s01_anal_sex_58fef8e5:
@@ -1210,7 +1210,7 @@ translate malay d17s01_anal_sex_10bdbab7:
 translate malay d17s01_anal_sex_7acb55da:
 
         # arj "Oh, ha, ha.{w} Ow!"
-    arj "Oh, ha, ha.{w} Ow!"
+    arj "Oh, ha, ha. {w}Ow!"
 
 # game/code/d17/d17s01.rpy:531
 translate malay d17s01_anal_sex_096bcc92:
@@ -1384,7 +1384,7 @@ translate malay d17s01_anal_sex_8c25dd17:
 translate malay d17s01_anal_sex_8f1e981f:
 
         # arj "OOOOOooohhhaafffucckkkmeee!{w} HARDER!{w} MORE!!!"
-    arj "OOOOOooohhhaafffucckkkmeee! {w}DALAM! {w}LAGI!!!"
+    arj "OOOHHHHAAAAAAHSIALLLL! {w}DALAM! {w}LAGI!!!"
 
 # game/code/d17/d17s01.rpy:605
 translate malay d17s01_anal_sex_f41aa05d:
@@ -1426,7 +1426,7 @@ translate malay d17s01_anal_sex_c25c3bf6:
 translate malay d17s01_anal_sex_8f14300c:
 
         # mc "After that, I wish I had a cigarette."
-    mc "Selepas itu, saya harap saya mempunyai rokok."
+    mc "Selepas itu, aku harap aku ada rokok."
 
 # game/code/d17/d17s01.rpy:622
 translate malay d17s01_anal_sex_790ea5a9:
@@ -1522,7 +1522,7 @@ translate malay d17s01_end_62d1e03e:
 translate malay d17s01_end_1ca8f44f:
 
         # lc "Not a plan, just some ideas.{w} You know how to make friends. Do you know how to turn an enemy into an ally?"
-    lc "Bukan rancangan, hanya beberapa idea. {w}Kautahu cara berkawan. Kau tahu cara menukar musuh menjadi sekutu?"
+    lc "Bukan rancangan, hanya beberapa idea. {w}Kau tahu cara berkawan. Kau tahu cara menukar musuh menjadi sekutu?"
 
 # game/code/d17/d17s01.rpy:666
 translate malay d17s01_end_0b038bfc:
@@ -1588,7 +1588,7 @@ translate malay d17s01_end_fc29fb62:
 translate malay d17s01_end_a4e470a0:
 
         # lc "I'm sure there's something he wants."
-    lc "Saya pasti ada sesuatu yang dia mahukan."
+    lc "Aku pasti ada sesuatu yang dia nak."
 
 # game/code/d17/d17s01.rpy:687
 translate malay d17s01_end_a14550d1:
@@ -1630,7 +1630,7 @@ translate malay d17s01_end_d821cc85:
 translate malay d17s01_end_00ae5e39:
 
         # lc "Sorry. Prove that you're really excellent at business management. That you know how to..."
-    lc "Maaf. Buktikan yang aku betul-betul cemerlang dalam pengurusan perniagaan. Yang kau tahu bagaimana untuk..."
+    lc "Maaf. Buktikan yang aku betul-betul cemerlang dalam pengurusan perniagaan. Yang kau tahu macam mana untuk..."
 
 # game/code/d17/d17s01.rpy:701
 translate malay d17s01_end_f7f8897e:
@@ -1720,7 +1720,7 @@ translate malay d17s01_end_51de9da6:
 translate malay d17s01_end_f60c0af0:
 
         # lc "Well, a lot has changed in the past couple of weeks."
-    lc "Banyak yang telah berubah dalam beberapa minggu yang lalu."
+    lc "Banyak yang telah berubah dalam beberapa minggu yang lepas."
 
 # game/code/d17/d17s01.rpy:737
 translate malay d17s01_end_c1108e29:
@@ -1743,5 +1743,4 @@ translate malay strings:
 
     # game/code/d17/d17s01.rpy:40
     old "Wednesday\nDay-17"
-    new "Wednesday\nDay-17"
-
+    new "Rabu\nHari 17"
