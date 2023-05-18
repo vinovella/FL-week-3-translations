@@ -678,10 +678,10 @@ translate portuguese e02s06_experiment_1b4e4021:
     # ac "You're playing with fire there..."
     ac "Você está brincando com fogo aí..."
 
-# game/code/e02/e02s06.rpy:220
-translate portuguese e02s06_experiment_3dcaff71:
+# game/code/e02/e02s06.rpy:317
+translate portuguese e02s06_experiment_d8b5fe3c:
 
-    # mc "I think a gal likes you likes a little danger..."
+    # mc "I think a gal like you likes a little danger..."
     mc "Acho que uma moça que nem você gosta de um pouquinho de perigo..."
 
 # game/code/e02/e02s06.rpy:221
@@ -702,10 +702,10 @@ translate portuguese e02s06_experiment_b3df50fe:
     # mh "You don't see something like this on the farm much?"
     mh "Você não vê uma coisa dessa muito na fazenda?"
 
-# game/code/e02/e02s06.rpy:226
-translate portuguese e02s06_experiment_d1f48c27:
+# game/code/e02/e02s06.rpy:326
+translate portuguese e02s06_experiment_80379bdf:
 
-    # fc "No ma'am.{w}Can I give it a whirl?"
+    # fc "No ma'am.{w} Can I give it a whirl?"
     fc "Não, senhora.{w} Posso dar uma testada?"
 
 # game/code/e02/e02s06.rpy:227
@@ -744,10 +744,10 @@ translate portuguese e02s06_experiment_8d06044c:
     # ac "It's a real treat, isn't it?"
     ac "É bem legalzinha, né?"
 
-# game/code/e02/e02s06.rpy:239
-translate portuguese e02s06_experiment_37c9e14a:
+# game/code/e02/e02s06.rpy:343
+translate portuguese e02s06_experiment_aa4fa88f:
 
-    # ac "I got real wet thinnking about showing it off for you, [mcname]."
+    # ac "I got real wet thinking about showing it off for you, [mcname]."
     ac "Eu fiquei encharcada te mostrando isso, [mcname]."
 
 # game/code/e02/e02s06.rpy:241
@@ -852,11 +852,11 @@ translate portuguese e02s06_experiment_b928df65:
     # ac "Fuck!"
     ac "Porra!"
 
-# game/code/e02/e02s06.rpy:270
-translate portuguese e02s06_experiment_b9005320:
+# game/code/e02/e02s06.rpy:516
+translate portuguese e02s06_experiment_91d8a70c:
 
-    # fc "You okay?"
-    fc "Você está bem?"
+    # mc "You okay?"
+    mc "Você está bem?"
 
 # game/code/e02/e02s06.rpy:271
 translate portuguese e02s06_experiment_2a67b17b:
@@ -1122,11 +1122,11 @@ translate portuguese e02s06_experiment_7bd9e706:
     # mh "*Heavy moans*"
     mh "*Gemidos fortes*"
 
-# game/code/e02/e02s06.rpy:351
-translate portuguese e02s06_experiment_2305eb12:
+# game/code/e02/e02s06.rpy:683
+translate portuguese e02s06_experiment_8d6183a1:
 
-    # mct "Fuck me, Lyssa... I don't know how long I'll last if you go like that..."
-    mct "Porra, Lyssa... não sei quanto tempo eu vou durar se você continuar assim..."
+    # mc "Fuck me, Lyssa... I don't know how long I'll last if you go like that..."
+    mc "Porra, Lyssa... não sei quanto tempo eu vou durar se você continuar assim..."
 
 # game/code/e02/e02s06.rpy:352
 translate portuguese e02s06_experiment_917e64e8:
@@ -1305,24 +1305,3 @@ translate portuguese strings:
     # game/code/e02/e02s06.rpy:142
     old "Just give them some advice"
     new "Apenas aconselhá-los"
-
-# TODO: Translation updated at 2023-05-13 23:03
-
-# game/code/e02/e02s06.rpy:317
-translate portuguese e02s06_experiment_d8b5fe3c:
-
-    # mc "I think a gal like you likes a little danger..."
-    mc ""
-
-# game/code/e02/e02s06.rpy:326
-translate portuguese e02s06_experiment_80379bdf:
-
-    # fc "No ma'am.{w} Can I give it a whirl?"
-    fc ""
-
-# game/code/e02/e02s06.rpy:343
-translate portuguese e02s06_experiment_aa4fa88f:
-
-    # ac "I got real wet thinking about showing it off for you, [mcname]."
-    ac ""
-

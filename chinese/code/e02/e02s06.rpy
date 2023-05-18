@@ -852,11 +852,11 @@ translate chinese e02s06_experiment_b928df65:
     # ac "Fuck!"
     ac "操!"
 
-# game/code/e02/e02s06.rpy:270
-translate chinese e02s06_experiment_b9005320:
+# game/code/e02/e02s06.rpy:516
+translate chinese e02s06_experiment_91d8a70c:
 
-    # fc "You okay?"
-    fc "你没事吧？"
+    # mc "You okay?"
+    mc "你没事吧？"
 
 # game/code/e02/e02s06.rpy:271
 translate chinese e02s06_experiment_2a67b17b:
@@ -1122,11 +1122,11 @@ translate chinese e02s06_experiment_7bd9e706:
     # mh "*Heavy moans*"
     mh "*粗重的呻吟*"
 
-# game/code/e02/e02s06.rpy:351
-translate chinese e02s06_experiment_2305eb12:
+# game/code/e02/e02s06.rpy:683
+translate chinese e02s06_experiment_8d6183a1:
 
-    # mct "Fuck me, Lyssa... I don't know how long I'll last if you go like that..."
-    mct "我操，丽莎...像你这样搞，我不知道我能坚持多久"
+    # mc "Fuck me, Lyssa... I don't know how long I'll last if you go like that..."
+    mc "我操，丽莎...像你这样搞，我不知道我能坚持多久"
 
 # game/code/e02/e02s06.rpy:352
 translate chinese e02s06_experiment_917e64e8:
@@ -1325,4 +1325,3 @@ translate chinese e02s06_experiment_aa4fa88f:
 
     # ac "I got real wet thinking about showing it off for you, [mcname]."
     ac "一想到要在你面前秀一下，我就浑身湿透了，[mcname]。"
-
