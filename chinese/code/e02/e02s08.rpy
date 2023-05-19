@@ -4,7 +4,7 @@
 translate chinese e02s08_646c2663:
 
     # mc "You really think we can help them?"
-    mc "你真的认为我们能帮助他们吗？"
+    mc "你真的觉得我们能帮助他们？"
 
 # game/code/e02/e02s08.rpy:18
 translate chinese e02s08_389167b1:
@@ -16,7 +16,7 @@ translate chinese e02s08_389167b1:
 translate chinese e02s08_18987b3e:
 
     # mc "I'm not sure. Sometimes a thing gets broke and just can't be fixed."
-    mc "我不确定。有时候东西坏了，就无法修复了。"
+    mc "我不确定。要知道有时候东西坏了，就无法修复了。"
 
 # game/code/e02/e02s08.rpy:22
 translate chinese e02s08_8b31b2aa:
@@ -28,7 +28,7 @@ translate chinese e02s08_8b31b2aa:
 translate chinese e02s08_b0a95d21:
 
     # mh "*Chuckles* Don't worry. I'm optimistic, but I don't have any delusions about fixing anything either. We're just...here to hear them out."
-    mh "*咯咯笑* 别担心。我很乐观，但我也不妄想解决任何问题。我们只是…来听听他们的问题。"
+    mh "*咯咯笑* 别担心。我很乐观，但我也不会妄想解决任何问题。我们只是...来听听他们的问题。"
 
 # game/code/e02/e02s08.rpy:26
 translate chinese e02s08_bb48b903:
@@ -40,19 +40,19 @@ translate chinese e02s08_bb48b903:
 translate chinese e02s08_f0e0b39c:
 
     # mc "Sure, but I feel like there's more here than just hearing them out."
-    mc "当然，但我觉得除了仅仅是听他们倾诉问题之外，这里还有更多的东西。"
+    mc "当然，但我觉得除了仅仅是听他们倾诉问题之外，这里还有更多要做的。"
 
 # game/code/e02/e02s08.rpy:32
 translate chinese e02s08_fe077d2b:
 
     # mh "*Laughs softly* Maybe. But that's a conversation for later, okay?"
-    mh "*轻声笑* 也许吧。但这是以后的话题，好吗？"
+    mh "*轻声笑* 也许吧。但我们以后再聊这个话题，好吗？"
 
 # game/code/e02/e02s08.rpy:37
 translate chinese e02s08_b7073e6c:
 
     # ap "Hey! There you are."
-    ap "嘿！你在这儿。"
+    ap "嘿！你们在这儿。"
 
 # game/code/e02/e02s08.rpy:40
 translate chinese e02s08_49691a8a:
@@ -118,7 +118,7 @@ translate chinese e02s08_cd98e4f8:
 translate chinese e02s08_2464bf9b:
 
     # mc "Actually, I think maybe you should sit this one out and let Alex speak instead."
-    mc "事实上，我觉得你应该坐着不发声，让亚历克斯来发言。"
+    mc "事实上，我觉得你应该坐着不发声，让亚历山大来发言。"
 
 # game/code/e02/e02s08.rpy:70
 translate chinese e02s08_703f64da:
@@ -142,13 +142,13 @@ translate chinese e02s08_1ac30a89:
 translate chinese e02s08_324a539e:
 
     # mh "You both deserve to be fully heard out."
-    mh "你们俩都应该被充分倾听。"
+    mh "你们俩都应该被充分地倾听。"
 
 # game/code/e02/e02s08.rpy:80
 translate chinese e02s08_b47292a9:
 
     # mh "How do you feel?"
-    mh "你感觉怎么样？"
+    mh "你怎么想的？"
 
 # game/code/e02/e02s08.rpy:83
 translate chinese e02s08_1b9417d9:
@@ -172,7 +172,7 @@ translate chinese e02s08_732c55b4:
 translate chinese e02s08_630fc560:
 
     # atp "*Sighs* Okay. Fine."
-    atp "*叹气* 好吧。好了。"
+    atp "*叹气* 好吧。算了。"
 
 # game/code/e02/e02s08.rpy:95
 translate chinese e02s08_5e103d50:
@@ -208,7 +208,7 @@ translate chinese e02s08_166ef820:
 translate chinese e02s08_f7dd5c97:
 
     # ap "*Sighs* I guess I just don't feel like I get the chance to even speak up sometimes."
-    ap "*叹气* 我只是觉得我有时候大声说话的机会都没有."
+    ap "*叹气* 我只是觉得我有时候大声说话的机会都没有。"
 
 # game/code/e02/e02s08.rpy:111
 translate chinese e02s08_6c525557:
@@ -220,7 +220,7 @@ translate chinese e02s08_6c525557:
 translate chinese e02s08_5105ca02:
 
     # ap "You just... Darling, I love you so much, but you're also so...so, abrasive sometimes."
-    ap "你只是...亲爱的，我很爱你，但你也很...有时会很刺耳。"
+    ap "你太...亲爱的，我很爱你，但你也很...有时会很刺耳。"
 
 # game/code/e02/e02s08.rpy:115
 translate chinese e02s08_b191ffb0:
@@ -250,13 +250,13 @@ translate chinese e02s08_6269d570:
 translate chinese e02s08_4618de9b:
 
     # atp "I don't get it. You said that before, but I thought you wanted this."
-    atp "我不明白。你之前说过，但我以为你想要这样。"
+    atp "我不明白。你之前说过这些，但我以为你想要这样。"
 
 # game/code/e02/e02s08.rpy:122
 translate chinese e02s08_8aa0517d:
 
     # atp "I asked you how you wanted to deal with our relationship at work. {i}You{/i} said that you want work to be professional. Was that a lie?"
-    atp "我问你想如何处理我们的工作关系。是{i}你{/i}说你希望工作就是工作。那是个谎言吗？"
+    atp "我问你想如何处理我们的工作关系。是{i}你{/i}说你希望工作就是工作。所以你那时说的不是真心话吗？"
 
 # game/code/e02/e02s08.rpy:125
 translate chinese e02s08_00f0681b:
@@ -268,7 +268,7 @@ translate chinese e02s08_00f0681b:
 translate chinese e02s08_8cb330f2:
 
     # atp "So you just went along with it 'cause that's what I wanted? Is that it?"
-    atp "所以你就同意了，因为那是我想要的？是这样吗？"
+    atp "所以你就同意了，就因为那是我想要的？是这样吗？"
 
 # game/code/e02/e02s08.rpy:130
 translate chinese e02s08_ee7396c0:
@@ -304,13 +304,13 @@ translate chinese e02s08_09e00760:
 translate chinese e02s08_b8cd7790:
 
     # ap "The... *sighs* The fucking promotion."
-    ap "那个... *叹气*这该死的晋升。"
+    ap "那个... *叹气* 这该死的晋升。"
 
 # game/code/e02/e02s08.rpy:143
 translate chinese e02s08_11e24953:
 
     # atp "What of it?"
-    atp "那又怎么样？"
+    atp "晋升又怎么样？"
 
 # game/code/e02/e02s08.rpy:145
 translate chinese e02s08_fda45f85:
@@ -370,7 +370,7 @@ translate chinese e02s08_a81c8a03:
 translate chinese e02s08_7ced12cc:
 
     # ap "Maybe...maybe you haven't changed. Maybe I'm just seeing things clearly for the first time."
-    ap "也许...也许你没有变。也许我只是第一次把事情看得很清楚。"
+    ap "也许吧...也许你没有变。也许我只是第一次把这些看得很透。"
 
 # game/code/e02/e02s08.rpy:166
 translate chinese e02s08_db312d4d:
@@ -388,7 +388,7 @@ translate chinese e02s08_6fa13d61:
 translate chinese e02s08_e57d4e8c:
 
     # ap "I love you, Sweetheart. I love you so fucking much."
-    ap "我爱你，甜心。我他妈太爱你了。"
+    ap "我爱你，小甜心。我他妈太爱你了。"
 
 # game/code/e02/e02s08.rpy:173
 translate chinese e02s08_02959113:
@@ -400,7 +400,7 @@ translate chinese e02s08_02959113:
 translate chinese e02s08_13801034:
 
     # atp "Of course I fucking love you! I— *sniffles* I just..."
-    atp "我他妈当然爱你！我--*抽泣*我只是..."
+    atp "我他妈当然爱你！我-- *抽泣* 我只是..."
 
 # game/code/e02/e02s08.rpy:177
 translate chinese e02s08_1b80375a:
@@ -436,7 +436,7 @@ translate chinese e02s08_ca1e040c:
 translate chinese e02s08_3a41d6a7:
 
     # atp "*Laughs hoarsely* Yeah. *sniffles* So much for a peaceful vacation, huh?"
-    atp "*沙哑地笑着* 是的。*抽泣*这就是我们平静的假期，是吧？"
+    atp "*沙哑地笑着* 是的。*抽鼻子* 这就是我们平静的假期，是吧？"
 
 # game/code/e02/e02s08.rpy:194
 translate chinese e02s08_0f50e2e4:
@@ -502,7 +502,7 @@ translate chinese e02s08_7b32c967:
 translate chinese e02s08_b5c754f5:
 
     # mh "Oh, {i}oh{/i}."
-    mh "哦，{i}哦{/i}。"
+    mh "哦？{i}哦{/i}~~"
 
 # game/code/e02/e02s08.rpy:216
 translate chinese e02s08_e0deac83:
@@ -520,7 +520,7 @@ translate chinese e02s08_40721d00:
 translate chinese e02s08_0c698c97:
 
     # ap "And uhm, well. I can't say that I {i}don't{/i} exactly see what she's seeing either."
-    ap "嗯，好吧。我也不能说我{i}没有{/i}看到她见到的东西。"
+    ap "嗯，好吧。我也不能否认她心心念念的东西，我也{i}看到{/i}了。"
 
 # game/code/e02/e02s08.rpy:222
 translate chinese e02s08_c742728e:
@@ -592,19 +592,19 @@ translate chinese e02s08_180a2c33:
 translate chinese e02s08_028f87f8:
 
     # ap "Well, yes."
-    ap "嗯，是的。"
+    ap "呃，是啊。"
 
 # game/code/e02/e02s08.rpy:249
 translate chinese e02s08_917094e6:
 
     # mc "Why don't you switch the roles tonight? Angela becomes the sub, you become the dom."
-    mc "今晚你为什么不换一下角色呢？安吉拉做顺从者，你做支配者。"
+    mc "今晚你们为什么不换一下角色呢？安吉拉做顺从者，你做支配者。"
 
 # game/code/e02/e02s08.rpy:251
 translate chinese e02s08_0bbe8520:
 
     # atp "*Laughs softly* Why would we do that? Alex loves being my sub, and I'm his dom. Why do we need to change that now when it has nothing to do with our issues?"
-    atp "*轻声笑* 我们为什么要这样做？亚历克斯喜欢当我的顺从者，而我是支配者。既然这与我们的问题毫无关系，为什么我们现在要改变这一点呢？"
+    atp "*轻声笑* 我们为什么要这样做？亚历山大喜欢当我的顺从者，而我是支配者。既然这与我们的问题毫无关系，为什么我们现在要改变这一点呢？"
 
 # game/code/e02/e02s08.rpy:254
 translate chinese e02s08_00e9eb28:
@@ -622,19 +622,19 @@ translate chinese e02s08_623bf918:
 translate chinese e02s08_2afaafbe:
 
     # atp "Okay, but we're not that kinda couple. Alex wouldn't even know what to do if he was calling the shots."
-    atp "好吧，但我们不是那种夫妇。如果由亚历克斯做支配者，他甚至不知道该怎么做。"
+    atp "好吧，但我们不是那种夫妇。如果由亚历山大做支配者，他甚至不知道该怎么做。"
 
 # game/code/e02/e02s08.rpy:261
 translate chinese e02s08_dac08936:
 
     # mc "So? That's nothing that you can't teach him."
-    mc "那又怎样，没什么是你不能教他的。"
+    mc "那又怎样？没什么是你不能教他的。"
 
 # game/code/e02/e02s08.rpy:264
 translate chinese e02s08_77548fab:
 
     # atp "This is something that you want?"
-    atp "这是你想要的东西吗？"
+    atp "所以你想要这样吗？"
 
 # game/code/e02/e02s08.rpy:266
 translate chinese e02s08_72acfe8e:
@@ -646,7 +646,7 @@ translate chinese e02s08_72acfe8e:
 translate chinese e02s08_d8dcc1be:
 
     # atp "...Seriously? Why is this the first I'm hearing of this?"
-    atp "...真的吗？为什么我第一次听说？"
+    atp "...真的吗？为什么我第一次听你说？"
 
 # game/code/e02/e02s08.rpy:271
 translate chinese e02s08_74c2a1c6:
@@ -658,7 +658,7 @@ translate chinese e02s08_74c2a1c6:
 translate chinese e02s08_6501504b:
 
     # atp "I... Yes, work is important, but you're my {i}husband{/i}, Alex."
-    atp "我...是的，工作很重要，但你是我的{i}丈夫{/i}，亚历克斯。"
+    atp "我...是的，工作很重要，但你是我的{i}丈夫{/i}，亚历山大。"
 
 # game/code/e02/e02s08.rpy:276
 translate chinese e02s08_ff5051ad:
@@ -676,7 +676,7 @@ translate chinese e02s08_364bd804:
 translate chinese e02s08_fcb7fc47:
 
     # ap "It's a part of it."
-    ap "这只是其中的一部分。"
+    ap "我想做的还有更多。"
 
 # game/code/e02/e02s08.rpy:286
 translate chinese e02s08_fda30282:
@@ -694,7 +694,7 @@ translate chinese e02s08_6ee56065:
 translate chinese e02s08_f48b942d:
 
     # ap "Oh, uh yeah."
-    ap "哦，嗯，是的。"
+    ap "哦，呃，是的。"
 
 # game/code/e02/e02s08.rpy:294
 translate chinese e02s08_97357347:
@@ -784,7 +784,7 @@ translate chinese e02s08_sex_2c160b30:
 translate chinese e02s08_sex_9f353378:
 
     # mc "God, Lyssa. Your mouth feels fucking heavenly. I want to warm my cock inside of you all day long."
-    mc "天哪，丽莎。你的嘴真他妈享受。我想我的鸡巴在你里面待上一整天。"
+    mc "天哪，丽莎。你的嘴真他妈享受。我想让我的鸡巴在你里面待上一整天。"
 
 # game/code/e02/e02s08.rpy:359
 translate chinese e02s08_sex_aeda1cf1:
@@ -838,7 +838,7 @@ translate chinese e02s08_sex_70d96eb4:
 translate chinese e02s08_sex_d9e91db4:
 
     # mh "Alexander, I suggest that you sit down and let Angela take care of you. This is a good opportunity for you two to change the dynamic before going into anything more intense."
-    mh "亚历山大，我建议你坐下来，让安吉拉照顾你。这是你们俩进入更激烈的状态之前改变关系的好机会"
+    mh "亚历山大，我建议你坐下来，让安吉拉照顾你。这是你们俩进入更激烈的状态之前，改变关系的好机会。"
 
 # game/code/e02/e02s08.rpy:388
 translate chinese e02s08_sex_fc7b496a:
@@ -850,25 +850,25 @@ translate chinese e02s08_sex_fc7b496a:
 translate chinese e02s08_sex_8f247437:
 
     # atp "Do you want me to choke on this hard dick...uh, Sir?"
-    atp "你想让我被这根硬梆梆的硬鸡巴噎住吗？呃,先生？"
+    atp "你想让我被这根硬梆梆的硬鸡巴噎住吗？呃，先生？"
 
 # game/code/e02/e02s08.rpy:393
 translate chinese e02s08_sex_51d1985d:
 
     # ap "Mhm. Do it. Choke on it like you made me choke on your dick."
-    ap "嗯。照做吧。用喉头吞我的家伙，就像你用鸡巴噎我一样"
+    ap "嗯。照做吧。用喉头吞我的家伙，就像你用鸡巴噎我一样。"
 
 # game/code/e02/e02s08.rpy:413
 translate chinese e02s08_sex_cf36e7fc:
 
     # mc "Well, we all gotta start out somewhere."
-    mc "嗯，我们都要从某个地方开始。"
+    mc "好吧，即使不完美，勇于开始总是好的。"
 
 # game/code/e02/e02s08.rpy:401
 translate chinese e02s08_sex_b7baeaf2:
 
     # mh "*Laughs softly*"
-    mh "**轻声笑**"
+    mh "*轻声笑*"
 
 # game/code/e02/e02s08.rpy:405
 translate chinese e02s08_sex_21176163:
@@ -886,7 +886,7 @@ translate chinese e02s08_sex_9c6bb74e:
 translate chinese e02s08_sex_6a0352aa:
 
     # mc "Being dominant isn't all about telling your partner what to do and then relaxing either."
-    mc "成为主导者并不只是告诉你的伴侣该做什么"
+    mc "成为主导者并不只是告诉你的伴侣该做什么。"
 
 # game/code/e02/e02s08.rpy:419
 translate chinese e02s08_sex_a880b04e:
@@ -898,7 +898,7 @@ translate chinese e02s08_sex_a880b04e:
 translate chinese e02s08_sex_75df4179:
 
     # mh "Exactly. Put your hands on her head. Make her feel how much you want her even deeper."
-    mh "完全正确。把手放在她头上。让她更深刻地感受到你有多想要她。"
+    mh "说的没错。把手放在她头上。让她更深刻地感受到你有多想要她。"
 
 # game/code/e02/e02s08.rpy:426
 translate chinese e02s08_sex_1321fadd:
@@ -976,7 +976,7 @@ translate chinese e02s08_sex_8b94c144:
 translate chinese e02s08_sex_18bf0177:
 
     # mh "Yes, Master."
-    mh "是的，主人。"
+    mh "遵命，主人。"
 
 # game/code/e02/e02s08.rpy:463
 translate chinese e02s08_sex_07232d3d:
@@ -1042,7 +1042,7 @@ translate chinese e02s08_sex_089401ae:
 translate chinese e02s08_sex_702a8ed4:
 
     # atp "Mhm..."
-    atp "嗯..."
+    atp "嗯啊..."
 
 # game/code/e02/e02s08.rpy:488
 translate chinese e02s08_sex_33e362ca:
@@ -1066,13 +1066,13 @@ translate chinese e02s08_sex_bb8afcad:
 translate chinese e02s08_sex_c2b934d2:
 
     # mc "*Chuckles* You heard her, Slut. We better put on a good show."
-    mc "*Chuckles* 你听到了，荡妇。让我们好好表演一场。"
+    mc "*轻笑* 你听到了，荡妇。让我们好好表演一场。"
 
 # game/code/e02/e02s08.rpy:501
 translate chinese e02s08_sex_8281f584:
 
     # mh "*Moans loudly* Yes, please. Fuck me and show them how it's done!"
-    mh "*大声呻吟* 啊，操我。尽情干我，让他们看看是怎么做！"
+    mh "*大声呻吟* 啊，操我。尽情干我，让他们看看是怎么做的！"
 
 # game/code/e02/e02s08.rpy:504
 translate chinese e02s08_sex_70d5c497:
@@ -1090,7 +1090,7 @@ translate chinese e02s08_sex_e6efb42e:
 translate chinese e02s08_sex_bf766ce1:
 
     # mh "*Moans breathlessly* Fuuuck, [mcname]. You feel so good!"
-    mh "*上气不接下气地呻吟*操， [mcname]。你真厉害！"
+    mh "*上气不接下气地呻吟* 操， [mcname]。你真厉害！"
 
 # game/code/e02/e02s08.rpy:514
 translate chinese e02s08_sex_f961a190:
@@ -1120,7 +1120,7 @@ translate chinese e02s08_sex_7b471f6f:
 translate chinese e02s08_sex_de09bd5f:
 
     # mc "You better not forget it, understood?"
-    mc "你最好别忘了，明白吗？"
+    mc "你最好给我记牢了，明白吗？"
 
 # game/code/e02/e02s08.rpy:525
 translate chinese e02s08_sex_0bb768cf:
@@ -1138,7 +1138,7 @@ translate chinese e02s08_sex_aaa34b5a:
 translate chinese e02s08_sex_e2b94e9c:
 
     # mh "Your dick feels so good. Please fuck me harder!"
-    mh "你的鸡巴感觉好棒。狠狠插我！"
+    mh "你的鸡巴感觉好棒。请狠狠插我！"
 
 # game/code/e02/e02s08.rpy:538
 translate chinese e02s08_sex_fcdc3883:
@@ -1168,7 +1168,7 @@ translate chinese e02s08_sex_c58aec66:
 translate chinese e02s08_sex_9d84e84a:
 
     # mc "Yes! Please, I want you inside me."
-    mc "是的！求你了，我要你插进来。"
+    mc "想！求你了，我要你插进来。"
 
 # game/code/e02/e02s08.rpy:564
 translate chinese e02s08_sex_ff74a8da:
@@ -1192,7 +1192,7 @@ translate chinese e02s08_sex_690f9cdc:
 translate chinese e02s08_sex_138fa8e9:
 
     # mc "*Moans* Fu-Fuck. You fill me up so fucking good."
-    mc "*呻吟*操。你插得我好爽"
+    mc "*呻吟* 操。你插得我好爽。"
 
 # game/code/e02/e02s08.rpy:578
 translate chinese e02s08_sex_0428b970:
@@ -1342,7 +1342,7 @@ translate chinese e02s08_foursome_c6659ff5:
 translate chinese e02s08_foursome_6e585805:
 
     # ap "I mean it. I like knowing that I {i}could{/i} have control if I wanted to. That you'd trust me with it."
-    ap "我是认真的。我知道如果我想，就{i}可以{/i}重新拿回控制权。你会信任我的。"
+    ap "我是认真的。我知道只要我想，就{i}可以{/i}重新拿回控制权。你会信任我的。"
 
 # game/code/e02/e02s08.rpy:661
 translate chinese e02s08_foursome_1e64ff8a:
@@ -1378,7 +1378,7 @@ translate chinese e02s08_foursome_b37c998d:
 translate chinese e02s08_foursome_fba5673b:
 
     # mh "Of course. Let me guide you two."
-    mh "当然。我来指导你们两个。"
+    mh "好啊。我来指导你们两个。"
 
 # game/code/e02/e02s08.rpy:677
 translate chinese e02s08_foursome_b9cffa08:
@@ -1432,7 +1432,7 @@ translate chinese e02s08_foursome_5ed948e8:
 translate chinese e02s08_foursome_ca997221:
 
     # atp "Yes! If I can't, fucking make me!"
-    atp "确定！如果我不能，那就逼我！"
+    atp "确定！如果我做不到，那就逼我吞下去！"
 
 # game/code/e02/e02s08.rpy:697
 translate chinese e02s08_foursome_c0e191c2:
@@ -1444,7 +1444,7 @@ translate chinese e02s08_foursome_c0e191c2:
 translate chinese e02s08_foursome_dd0c80b8:
 
     # atp "Oh, oh fuck, oh fuck, oh fuck. Fucking break me. Break my asshole."
-    atp "哦操，哦操，哦操。继续干我。干我的屁眼。"
+    atp "哦操，哦操，哦操。继续干我。干我的屁眼啊啊。"
 
 # game/code/e02/e02s08.rpy:703
 translate chinese e02s08_foursome_3f825866:
@@ -1480,7 +1480,7 @@ translate chinese e02s08_foursome_56a19539:
 translate chinese e02s08_foursome_76affe65:
 
     # mc "I don't— Fuck I don't think I can hold on much longer."
-    mc "我不--妈的，我觉得我撑不了多久了。"
+    mc "我不行了--妈的，我觉得我撑不了多久了。"
 
 # game/code/e02/e02s08.rpy:748
 translate chinese e02s08_foursome_828a1e73:
@@ -1516,13 +1516,13 @@ translate chinese e02s08_foursome_589e7436:
 translate chinese e02s08_foursome_852ef57f:
 
     # ap "*Shaky voice* Yes! Come here."
-    ap "*声音颤抖* 是的！过来。"
+    ap "*声音颤抖* 好！过来。"
 
 # game/code/e02/e02s08.rpy:748
 translate chinese e02s08_foursome_b5465003:
 
     # ap "My God, they stretched you out so much. Their cum is so fucking hot inside of you."
-    ap "我的上帝，他们把你拉伸得太紧了。他们的精液都灌进去了，太他妈要命了"
+    ap "我的天，他们把你拉伸得太紧了。他们的精液都灌进去了，太他妈要命了。"
 
 # game/code/e02/e02s08.rpy:750
 translate chinese e02s08_foursome_95b54c30:
@@ -1552,7 +1552,7 @@ translate chinese e02s08_foursome_1225b8aa:
 translate chinese e02s08_foursome_dd22efc1:
 
     # ap "Oh my God, oh my fucking God. I have never cum that hard either. Fuck."
-    ap "我的天，天啊。我也没这么爽过。他妈的。"
+    ap "我的天，老天啊。我也没这么爽过。他妈的。"
 
 # game/code/e02/e02s08.rpy:764
 translate chinese e02s08_foursome_c53c7674:
