@@ -40,7 +40,7 @@ translate chinese e02s09_b59b86a6:
 translate chinese e02s09_db1cd15c:
 
     # mh "Oliver, take a breath. What happened?"
-    mh "奥利弗，深呼吸。发生了什么事？"
+    mh "奥利弗，深呼吸。发生什么事了？"
 
 # game/code/e02/e02s09.rpy:41
 translate chinese e02s09_3f394a7e:
@@ -58,7 +58,7 @@ translate chinese e02s09_0f7cc6aa:
 translate chinese e02s09_7ad7b474:
 
     # mct "That's putting it lightly."
-    mct "说的太委婉了。"
+    mct "说的太简单了。"
 
 # game/code/e02/e02s09.rpy:47
 translate chinese e02s09_d210fe94:
@@ -70,7 +70,7 @@ translate chinese e02s09_d210fe94:
 translate chinese e02s09_45dd974c:
 
     # op "Right. Here you go, Lyssa."
-    op "好的。给你，丽莎。"
+    op "好。给你，丽莎。"
 
 # game/code/e02/e02s09.rpy:53
 translate chinese e02s09_def0ad19:
@@ -94,13 +94,13 @@ translate chinese e02s09_c595c74d:
 translate chinese e02s09_9f94a657:
 
     # mh "Illi nothi. Latin for \"those bastards\"!{w} I will bring ruin down on them for this!"
-    mh "我没事。拉丁文的意思是\"那些混蛋\"！{w}他们要完蛋了！"
+    mh "Illi nothi. 拉丁文的意思是\"那些混蛋\"！{w}他们要完蛋了！"
 
 # game/code/e02/e02s09.rpy:63
 translate chinese e02s09_bd63a0e0:
 
     # mc "Wow wow wow. Let's not get biblical."
-    mc "哇哇哇。我们别再谈圣经了。"
+    mc "喂喂喂。我们别再谈圣经了。"
 
 # game/code/e02/e02s09.rpy:64
 translate chinese e02s09_e977c1c6:
@@ -124,13 +124,13 @@ translate chinese e02s09_1ef706f6:
 translate chinese e02s09_251e6d72:
 
     # mh "They're one of the largest, most ruthless firms in the county."
-    mh "他们是这里最大、最无情的公司之一"
+    mh "他们是这里最大、最残忍的公司之一。"
 
 # game/code/e02/e02s09.rpy:73
 translate chinese e02s09_4b814802:
 
     # op "In the state!"
-    op "在这个国家都是！"
+    op "在这个国家都排的上！"
 
 # game/code/e02/e02s09.rpy:75
 translate chinese e02s09_ccd0fb41:
@@ -142,7 +142,7 @@ translate chinese e02s09_ccd0fb41:
 translate chinese e02s09_f369dfd5:
 
     # mc "So what? They're trying to buy you up or something? Big fish eating a smaller fish?"
-    mc "那又怎样？他们想收买你还是怎么的？大鱼吃小鱼？"
+    mc "那又怎样？他们想收买你还是怎么的？搞大鱼吃小鱼那一套？"
 
 # game/code/e02/e02s09.rpy:80
 translate chinese e02s09_2535d119:
@@ -172,7 +172,7 @@ translate chinese e02s09_b2b9e19d:
 translate chinese e02s09_9a5724f2:
 
     # mh "It is a rather diabolical move, framed by Silvercorp's trademark \"subtlety\"."
-    mh "I这是很邪恶的一招，体现了希尔威公司标志性的\"微妙\"。"
+    mh "这是很邪恶的一招，体现了希尔威公司标志性的\"狡猾\"。"
 
 # game/code/e02/e02s09.rpy:89
 translate chinese e02s09_ca3c2f39:
@@ -190,7 +190,7 @@ translate chinese e02s09_7e816463:
 translate chinese e02s09_305913a7:
 
     # mh "This is not the end."
-    mh "这不是结束。"
+    mh "这绝不是结束。"
 
 # game/code/e02/e02s09.rpy:96
 translate chinese e02s09_929f90fa:
@@ -202,7 +202,7 @@ translate chinese e02s09_929f90fa:
 translate chinese e02s09_88a459f7:
 
     # mh "I am sorry, [mcname]. It appears we will not be taking another trip for some time."
-    mh "对不起，[mcname]。看来我们一段时间内不会再旅行。"
+    mh "对不起，[mcname]。看来我们一段时间内不会再旅行了。"
 
 # game/code/e02/e02s09.rpy:101
 translate chinese e02s09_00d79c2c:
@@ -232,7 +232,7 @@ translate chinese e02s09_d701b7e7:
 translate chinese e02s09_0d2d82cc:
 
     # mh "Absolutely. But Silvercorp knew that if Fanderly's attorney brought me in, their case would be dead in the water."
-    mh "当然。但希尔威公司知道，如果范德利的律师把我带进来，他们的案子就完蛋了。"
+    mh "正是。希尔威公司知道，如果范德利的律师把我带进来，他们的案子就完蛋了。"
 
 # game/code/e02/e02s09.rpy:112
 translate chinese e02s09_5420b870:
@@ -322,13 +322,13 @@ translate chinese e02s09_a900e46f:
 translate chinese e02s09_031774df:
 
     # mc "It's alright. You know me, always eager to help."
-    mc "没关系。你知道的，我总是乐于助人。"
+    mc "没关系。你知道的，我总是乐于帮助你。"
 
 # game/code/e02/e02s09.rpy:146
 translate chinese e02s09_ce621806:
 
     # mh "Indeed. But you should know...{w} This will not be a walk in the park."
-    mh "的确。但是你应该知道...{w}这可不是在公园里散步那么容易。"
+    mh "确实。但是你应该知道...{w}这可不是在公园里散步那么容易。"
 
 # game/code/e02/e02s09.rpy:147
 translate chinese e02s09_55c0d118:
@@ -346,7 +346,7 @@ translate chinese e02s09_home_f63a03bc:
 translate chinese e02s09_home_2dbf2dea:
 
     # mh "Mmmm."
-    mh "嗯。"
+    mh "哎。"
 
 # game/code/e02/e02s09.rpy:166
 translate chinese e02s09_home_b789d6af:
@@ -376,13 +376,13 @@ translate chinese e02s09_home_cf6b97a0:
 translate chinese e02s09_home_7a849038:
 
     # mc "Yup. Grinding away with you tonight taught me that I definitely dodged a bullet when I chose business over law."
-    mc "是的。今晚和你一起努力工作教会了我，当初我选择商业而不是法律时，绝对是躲过了一劫。"
+    mc "是啊。今晚和你一起努力工作教会了我，当初我选择商业而不是法律时，绝对是躲过了一劫。"
 
 # game/code/e02/e02s09.rpy:177
 translate chinese e02s09_home_aa41904e:
 
     # mh "Hahaha."
-    mh "有吗？"
+    mh "哈哈哈。"
 
 # game/code/e02/e02s09.rpy:180
 translate chinese e02s09_home_affb8bd3:
@@ -412,7 +412,7 @@ translate chinese e02s09_home_dd448649:
 translate chinese e02s09_home_2b050c99:
 
     # mh "That would be amazing. But they are not evil. Distressing as this is, it is all just business."
-    mh "那也太美了。但他们不是反派。尽管这令人痛苦，但这一切都只是商业竞争。"
+    mh "那也太美好了。但他们不是反派。尽管很遗憾，但这一切都只是商业竞争。"
 
 # game/code/e02/e02s09.rpy:188
 translate chinese e02s09_home_93a616ce:
@@ -430,7 +430,7 @@ translate chinese e02s09_home_cd0c5a04:
 translate chinese e02s09_home_819883ab:
 
     # mc "You help people. Even when you don't have to."
-    mc "你帮助别人。即使你不需要这么做。"
+    mc "你帮助别人。即使本无需这么做。"
 
 # game/code/e02/e02s09.rpy:195
 translate chinese e02s09_home_1c887c69:
@@ -574,13 +574,13 @@ translate chinese e02s09_home_again_782143fc:
 translate chinese e02s09_home_again_6bb602b0:
 
     # mh "Oh yes. But I don't want to talk about that.{w} I just want you to rock my world."
-    mh "哦，是的。但我不想谈这个。{w} 我只想让你震撼我的世界。"
+    mh "哦，没事。但我不想谈这个。{w} 我只想让你...震撼我的世界。"
 
 # game/code/e02/e02s09.rpy:269
 translate chinese e02s09_home_again_84f16542:
 
     # mc "Okay..."
-    mc "好吧..."
+    mc "好啊..."
 
 # game/code/e02/e02s09.rpy:273
 translate chinese e02s09_home_again_28be578f:
@@ -604,7 +604,7 @@ translate chinese e02s09_home_again_fed67299:
 translate chinese e02s09_home_again_1bb97b29:
 
     # mh "Well {i}this{/i} is embarrassing."
-    mh "嗯，{i}这个{/i}太尴尬了。"
+    mh "呃，{i}这个{/i}太尴尬了。"
 
 # game/code/e02/e02s09.rpy:280
 translate chinese e02s09_home_again_a75a132d:
@@ -640,7 +640,7 @@ translate chinese e02s09_home_again_6e1039a9:
 translate chinese e02s09_home_again_c3d6a5a7:
 
     # mc "Nothing is wrong with you. We can just cuddle tonight."
-    mc "你没什么问题。今晚我们就抱抱吧。"
+    mc "你没什么问题。今晚我们就抱着吧。"
 
 # game/code/e02/e02s09.rpy:294
 translate chinese e02s09_home_again_69a398c0:
@@ -718,7 +718,7 @@ translate chinese e02s09_home_again_e51ca2c5:
 translate chinese e02s09_home_again_bc306508:
 
     # mct "Maybe that's what commercials are for."
-    mct "也许这就是广告的作用。"
+    mct "也许这就是商业营销的作用。"
 
 # game/code/e02/e02s09.rpy:343
 translate chinese e02s09_next_morning_0dcf63c6:
@@ -730,7 +730,7 @@ translate chinese e02s09_next_morning_0dcf63c6:
 translate chinese e02s09_next_morning_afa28ab9:
 
     # mh "Yes. I've got the transcript analysis all ready to go."
-    mh "是的。我已经把笔录分析都准备好了。"
+    mh "带齐了。我已经把笔录分析都准备好了。"
 
 # game/code/e02/e02s09.rpy:352
 translate chinese e02s09_next_morning_4b2f38bf:
@@ -754,7 +754,7 @@ translate chinese e02s09_next_morning_ecc79a7e:
 translate chinese e02s09_next_morning_9288ac7d:
 
     # mc "You'll see. I had an idea last night."
-    mc "你会看到的。昨晚我有个主意。"
+    mc "你会知道的。昨晚我有个主意。"
 
 # game/code/e02/e02s09.rpy:362
 translate chinese e02s09_next_morning_575910a6:
