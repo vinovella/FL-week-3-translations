@@ -28,7 +28,7 @@ translate chinese e02s10_994ead61:
 translate chinese e02s10_6b97d59f:
 
     # mh "This is the place I am going to love?"
-    mh "这就是我会爱上的地方？"
+    mh "这就是你说的，我会爱上的地方？"
 
 # game/code/e02/e02s10.rpy:29
 translate chinese e02s10_a1983d1d:
@@ -76,7 +76,7 @@ translate chinese e02s10_052806d3:
 translate chinese e02s10_98d0904e:
 
     # mh "You set up a program reaching out to people like the Coopers and you expect me to carve out time for this misadventure?"
-    mh "你设立了一个项目，帮助像库珀夫妇这样的人，你还指望我抽出时间来做这件不幸的事？"
+    mh "你设立了一个项目，帮助像库珀夫妇这样的人，你还希望我抽出时间来帮助不幸的他们？"
 
 # game/code/e02/e02s10.rpy:47
 translate chinese e02s10_39013e28:
@@ -100,7 +100,7 @@ translate chinese e02s10_0ad8f2a9:
 translate chinese e02s10_06324e9c:
 
     # mc "It's like the song says, 'Baby, you're worth it'."
-    mc "就像歌里唱的那样，‘宝贝，你值得拥有。"
+    mc "就像歌里唱的那样，'宝贝，你值得拥有'。"
 
 # game/code/e02/e02s10.rpy:57
 translate chinese e02s10_6af77995:
@@ -124,7 +124,7 @@ translate chinese e02s10_5e558e86:
 translate chinese e02s10_cf000704:
 
     # mc "Really? I was thinking this would be for when you're finished with the lawsuit."
-    mc "真的吗？我想等你完成诉讼了"
+    mc "真的吗？我想着等你完成诉讼了再开始筹备。"
 
 # game/code/e02/e02s10.rpy:78
 translate chinese e02s10_9b9880f8:
@@ -172,7 +172,7 @@ translate chinese e02s10_97842f80:
 translate chinese e02s10_577a222a:
 
     # mh "Since I cannot help out people in the courtroom until the lawsuit is ended or tossed out, the opportunity to assist people will be a welcome distraction."
-    mh "因为在诉讼结束或被驳回之前，我无法在法庭上帮助人们，所以通过这个机会能帮助人们会很好地帮我分散注意力。"
+    mh "因为在诉讼结束或被驳回之前，我无法在法庭上帮助人们，所以通过这个机会能帮助有需要的人，会很好地帮我分散注意力。"
 
 # game/code/e02/e02s10.rpy:86
 translate chinese e02s10_e06c012e:
@@ -220,7 +220,7 @@ translate chinese e02s10_89942c77:
 translate chinese e02s10_f40db261:
 
     # mh "Indeed. We need to be sure it's up to our standards. Things can get very intense during our sessions."
-    mh "的确。我们需要确保它符合我们的标准。在我们的治疗过程中，情况可能会变得非常紧张。"
+    mh "的确。我们需要确保它符合我们的标准。在我们的治疗过程中，现场可能会变得非常激烈。"
 
 # game/code/e02/e02s10.rpy:117
 translate chinese e02s10_sex_7fc9f5b5:
@@ -244,7 +244,7 @@ translate chinese e02s10_sex_aaf40349:
 translate chinese e02s10_sex_dff96efe:
 
     # mc "I think I feel the same when we're apart."
-    mc "我觉得我们分开的时候我也有同样的感觉。"
+    mc "我觉得我们分开的时候，我也有同样的感觉。"
 
 # game/code/e02/e02s10.rpy:135
 translate chinese e02s10_sex_e286d011:
@@ -280,7 +280,7 @@ translate chinese e02s10_sex_158291f6:
 translate chinese e02s10_sex_3889ce99:
 
     # mh "I guess I have been a little pent-up."
-    mh "我想我憋得太久了。"
+    mh "我想我是憋得太久了。"
 
 # game/code/e02/e02s10.rpy:157
 translate chinese e02s10_sex_7ae56416:
@@ -292,7 +292,7 @@ translate chinese e02s10_sex_7ae56416:
 translate chinese e02s10_sex_fade5633:
 
     # mh "Mmm."
-    mh "嗯。"
+    mh "嗯..."
 
 # game/code/e02/e02s10.rpy:160
 translate chinese e02s10_sex_9be9931b:
@@ -310,7 +310,7 @@ translate chinese e02s10_sex_462bb255:
 translate chinese e02s10_sex_bc28052e:
 
     # mc "Mmhmm. I want to taste every bit of you."
-    mc "嗯。我想尝遍你身上的每一寸地方。"
+    mc "嗯哼。我想尝遍你身上的每一寸地方。"
 
 # game/code/e02/e02s10.rpy:164
 translate chinese e02s10_sex_b00ee745:
@@ -340,7 +340,7 @@ translate chinese e02s10_sex_5b9dbb94:
 translate chinese e02s10_sex_680eddca:
 
     # mh "But I want to. Right now, all I can think about is fulfilling my craving."
-    mh "但是我想。现在，我满脑子想的都是满足我的渴望。"
+    mh "但是我想。现在，我满脑子想的都是满足我的欲望。"
 
 # game/code/e02/e02s10.rpy:179
 translate chinese e02s10_sex_a96a034c:
@@ -364,7 +364,7 @@ translate chinese e02s10_sex_8108e8f3:
 translate chinese e02s10_sex_53a90ca6:
 
     # mh "Mwaaah!"
-    mh "Mwaaah!"
+    mh "哈啊!"
 
 # game/code/e02/e02s10.rpy:198
 translate chinese e02s10_sex_a6db4e60:
@@ -376,7 +376,7 @@ translate chinese e02s10_sex_a6db4e60:
 translate chinese e02s10_sex_96e5f25e:
 
     # mc "I imagine we are really going to need to get this couch scotch-guarded."
-    mc "我想我们真的需要护住这张沙发，不让它沾上我们的爱液了"
+    mc "我想我们真的需要护住这张沙发，不让它沾上我们的爱液了。"
 
 # game/code/e02/e02s10.rpy:206
 translate chinese e02s10_sex_7ef83949:
@@ -388,7 +388,7 @@ translate chinese e02s10_sex_7ef83949:
 translate chinese e02s10_sex_4be1fdc6:
 
     # mh "Yeah. Can we scotch-guard the whole place?"
-    mh "是的。我们能护住整个地方吗"
+    mh "说得对。我们能护住整个地方吗？"
 
 # game/code/e02/e02s10.rpy:211
 translate chinese e02s10_sex_faa03e1a:
@@ -400,7 +400,7 @@ translate chinese e02s10_sex_faa03e1a:
 translate chinese e02s10_sex_ded3a615:
 
     # mh "We may also have to invest in a healthy supplies of tissues."
-    mh "我们可能还得投资供应纸巾。"
+    mh "我们可能还得投资，供应纸巾。"
 
 # game/code/e02/e02s10.rpy:215
 translate chinese e02s10_sex_179f54c7:
@@ -424,7 +424,7 @@ translate chinese e02s10_sex_0c4e6ed2:
 translate chinese e02s10_sex_ed9fa125:
 
     # mc "We do make the best music together."
-    mc "我们一起谱写最好的音乐。"
+    mc "我们一起谱写最美的音乐。"
 
 # game/code/e02/e02s10.rpy:227
 translate chinese e02s10_sex_5b938866:
@@ -448,7 +448,7 @@ translate chinese e02s10_sex_879d666d:
 translate chinese e02s10_sex_1e9b1d57:
 
     # mh "Come on, Baby. My ass is not {b}that{/b} delicate."
-    mh "来吧，宝贝。我的屁股没b}那么{/b}娇嫩。"
+    mh "来吧，宝贝。我的屁股没{b}那么{/b}娇嫩。"
 
 # game/code/e02/e02s10.rpy:236
 translate chinese e02s10_sex_1d8408de:
@@ -490,13 +490,13 @@ translate chinese e02s10_sex_d704a4d5:
 translate chinese e02s10_sex_62972c47:
 
     # mh "Yes! I'm close-"
-    mh "是的!我就快--"
+    mh "啊，好爽！我就快--"
 
 # game/code/e02/e02s10.rpy:253
 translate chinese e02s10_sex_678dd26e:
 
     # mct "Oh damn! Feels like she's going to pull my dick right off my body!"
-    mct "哦，该死!感觉她要把我的鸡巴从我身上扯下来!"
+    mct "哦，该死！感觉她要把我的鸡巴从我身上扯下来!"
 
 # game/code/e02/e02s10.rpy:256
 translate chinese e02s10_sex_32d23f2a:
@@ -514,7 +514,7 @@ translate chinese e02s10_sex_c2ea84bb:
 translate chinese e02s10_sex_de383224:
 
     # mh "Your cock... smothered in your cum... jammed inside me."
-    mh "你的鸡巴...光滑的精液...卡在我里面了。"
+    mh "你的鸡巴...顺着光滑的精液...卡在我里面了。"
 
 # game/code/e02/e02s10.rpy:267
 translate chinese e02s10_sex_7c2eeb66:
@@ -538,7 +538,7 @@ translate chinese e02s10_double_anal_f24df0e8:
 translate chinese e02s10_double_anal_7fa3390b:
 
     # mh "I... enjoy being the pounder on occasion."
-    mh "我...偶尔享受自己当捣蛋鬼。"
+    mh "我...偶尔享受自己当“捣蛋鬼”。"
 
 # game/code/e02/e02s10.rpy:287
 translate chinese e02s10_double_anal_3032117a:
@@ -568,7 +568,7 @@ translate chinese e02s10_double_anal_f822c1ea:
 translate chinese e02s10_double_anal_4661a639:
 
     # mc "Mmhmm."
-    mc "嗯。"
+    mc "嗯嗯嗯..."
 
 # game/code/e02/e02s10.rpy:306
 translate chinese e02s10_double_anal_018c8609:
@@ -592,7 +592,7 @@ translate chinese e02s10_double_anal_7a613480:
 translate chinese e02s10_double_anal_fd573d45:
 
     # mh "Yes. But I want to try something else."
-    mh "是的。但我想试试别的东西。"
+    mh "很好。但我想试试别的东西。"
 
 # game/code/e02/e02s10.rpy:322
 translate chinese e02s10_double_anal_68d4d5a6:
@@ -646,7 +646,7 @@ translate chinese e02s10_double_anal_8c0d8804:
 translate chinese e02s10_double_anal_cd6ce308:
 
     # mc "Oh fuck! Fuck fuck FUCK!"
-    mc "哦，操!操，操，操!"
+    mc "哦，操操操!"
 
 # game/code/e02/e02s10.rpy:363
 translate chinese e02s10_double_anal_c7cf2826:
@@ -676,7 +676,7 @@ translate chinese e02s10_double_anal_f4b83a2f:
 translate chinese e02s10_double_anal_388d7c91:
 
     # mh "Good \"new\", I hope."
-    mh "好的新体验，我希望。"
+    mh "是好的\"新\"体验，我希望。"
 
 # game/code/e02/e02s10.rpy:374
 translate chinese e02s10_double_anal_0f84e77e:
@@ -706,13 +706,13 @@ translate chinese e02s10_sex_end_32a62fef:
 translate chinese e02s10_sex_end_321f6a21:
 
     # mc "So my official title can be Master [mcname]?"
-    mc "那么我的正式头衔可以是大师了？"
+    mc "那么我的正式头衔可以是[mcname]大师了？"
 
 # game/code/e02/e02s10.rpy:389
 translate chinese e02s10_sex_end_3f47e7dd:
 
     # mh "Mmm. I think not."
-    mh "嗯。我不这么认为。."
+    mh "嗯。我不这么认为。"
 
 # game/code/e02/e02s10.rpy:392
 translate chinese e02s10_sex_end_2876efd9:
@@ -748,13 +748,13 @@ translate chinese e02s10_sex_end_78d1dcdf:
 translate chinese e02s10_months_later_50e7e4a8:
 
     # mh "Thank you. Yes.{w} Absolutely.{w} Lunch next week sounds amazing."
-    mh "谢谢你。好的。{w}当然。{w}下周的午餐听起来很不错。"
+    mh "谢谢你。好的。{w}当然。{w}下周一起吃午餐当然好啊。"
 
 # game/code/e02/e02s10.rpy:423
 translate chinese e02s10_months_later_9ff9c7c9:
 
     # mc "So, what happened?"
-    mc "那么，发生了什么事？"
+    mc "怎么，发生什么事了？"
 
 # game/code/e02/e02s10.rpy:426
 translate chinese e02s10_months_later_41f2fd41:
@@ -772,13 +772,13 @@ translate chinese e02s10_months_later_7effa7ca:
 translate chinese e02s10_months_later_a3812800:
 
     # mh "I couldn't have done it without you."
-    mh "没有你我做不到。"
+    mh "没有你我做不到现在这样。"
 
 # game/code/e02/e02s10.rpy:433
 translate chinese e02s10_months_later_ccd00e12:
 
     # mh "No matter what Silvercorp unleashed upon me, fixing up the space with you truly kept me going, [mcname]."
-    mh "不管西尔弗公司对我做了什么，和你在一起装修这里是我前进的动力，[mcname]。"
+    mh "不管希尔威公司对我做了什么，和你在一起装修这里是我前进的动力，[mcname]。"
 
 # game/code/e02/e02s10.rpy:436
 translate chinese e02s10_months_later_16ef91c9:
@@ -826,7 +826,7 @@ translate chinese e02s10_months_later_09f81a15:
 translate chinese e02s10_months_later_4ce195cc:
 
     # mc "Absolutely! Besides, wouldn't it be a waste if we just made it a really nice place to fuck?"
-    mc "当然!再说了，如果我们只是把这里变成一个绝佳的做爱场所，不是很浪费吗？"
+    mc "当然可以！再说了，如果我们只是把这里变成一个绝佳的做爱场所，不是很浪费吗？"
 
 # game/code/e02/e02s10.rpy:455
 translate chinese e02s10_months_later_e41e6825:
@@ -838,7 +838,7 @@ translate chinese e02s10_months_later_e41e6825:
 translate chinese e02s10_months_later_8446c5fa:
 
     # mc "Look out world! Harris-Young Solutions is coming to town to fix your relationships!"
-    mc "全世界都注意了!哈里斯-杨解答公司要来解决你的关系!"
+    mc "全世界都注意了！哈里斯-杨解答公司要来解决你们的关系难题了!"
 
 translate chinese strings:
 
