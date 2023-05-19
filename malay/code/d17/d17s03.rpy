@@ -82,7 +82,7 @@ translate malay d17s03_94524693:
 translate malay d17s03_0ee986a9:
 
     # ir "Yup. Going on about a year now."
-    ir "Yup. Anda seorang pelayan bar, kan?"
+    ir "Yup. Dah setahun."
 
 # game/code/d17/d17s03.rpy:36
 translate malay d17s03_77749042:
@@ -118,7 +118,7 @@ translate malay d17s03_a4969e9f:
 translate malay d17s03_394bb1a6:
 
     # mc "Okay...{w} So why was Hana so concerned about your safety at Min's Party last week?"
-    mc "Atau {i}Fucked Up By Assholes in the Rear{/i} Okay... {w}Kenapa Hana risau sangat dengan kau di Min's Party minggu lepas?"
+    mc "Atau {i}Fucked Up By Assholes in the Rear{/i} Okay... {w}Kenapa Hana risau sangat dengan kau di parti Min minggu lepas?"
 
 # game/code/d17/d17s03.rpy:47
 translate malay d17s03_0e0d712c:
@@ -172,7 +172,7 @@ translate malay d17s03_e28b8a06:
 translate malay d17s03_4788bebf:
 
     # ir "No, there isn't.{w} Anyway, tales for another time."
-    ir "Tak, tidak ada. {w}Apa-apa pun, itu aku cerita lain kali."
+    ir "Tak, tak ada. {w}Apa-apa pun, itu aku cerita lain kali."
 
 # game/code/d17/d17s03.rpy:65
 translate malay d17s03_842391ed:
@@ -214,7 +214,7 @@ translate malay d17s03_16c7e2c3:
 translate malay d17s03_d6b60c55:
 
     # ir "Yes, but-{w} Anyway, I wanted to talk to you about the one I can't say."
-    ir "Ya, tapi- {w}Apa-apa pun, saya ingin bercakap dengan kau tentang benda yang aku tak boleh katakan."
+    ir "Ya, tapi- {w}Apa-apa pun, aku nak cakap dengan kau tentang benda yang aku tak boleh katakan."
 
 # game/code/d17/d17s03.rpy:78
 translate malay d17s03_8414ebd2:
@@ -466,7 +466,7 @@ translate malay d17s03_b8de06d3:
 translate malay d17s03_0c3f13f9:
 
     # mc "Is there something you want to tell me about him?"
-    mc "Ada benda kau nak beritahuv aku tentang dia?"
+    mc "Ada benda kau nak beritahu aku tentang dia?"
 
 # game/code/d17/d17s03.rpy:162
 translate malay d17s03_ccf066fe:
@@ -484,7 +484,7 @@ translate malay d17s03_b725e9ca:
 translate malay d17s03_4edcb9d8:
 
     # ir "You know that she used to hate the idea of tattoos?"
-    ir "Kau tahu dulu dia dulu tak suka tatu??"
+    ir "Kau tahu dulu dia dulu tak suka tatu?"
 
 # game/code/d17/d17s03.rpy:168
 translate malay d17s03_7da5a154:
@@ -616,7 +616,7 @@ translate malay d17s03_cea2f1fd:
 translate malay d17s03_4f796d84:
 
     # ir "Not when we were young. When we were children he was always there and always spoiled us both."
-    ir "Bukan semasa kami kecil. Semasa =kami kecil dia sentiasa ada dan sentiasa memanjakan kami berdua."
+    ir "Bukan semasa kami kecil. Semasa kami kecil dia sentiasa ada dan sentiasa memanjakan kami berdua."
 
 # game/code/d17/d17s03.rpy:216
 translate malay d17s03_557c7ca6:
@@ -688,7 +688,7 @@ translate malay d17s03_ce018735:
 translate malay d17s03_a76a6e36:
 
     # mc "Let me get this straight. You and Hana have known each other practically since birth."
-    mc "AKu famam macam ni. Kau dan Hana sudah kenal secara praktikal sejak lahir."
+    mc "Aku faham macam ni. Kau dan Hana sudah kenal secara praktikal sejak lahir."
 
 # game/code/d17/d17s03.rpy:239
 translate malay d17s03_823913ef:
@@ -706,7 +706,7 @@ translate malay d17s03_da76153b:
 translate malay d17s03_0aeeadff:
 
     # ir "Most people do."
-    ir "Kebanyakan orang begitu."
+    ir "Kebanyakan orang macam tu."
 
 # game/code/d17/d17s03.rpy:246
 translate malay d17s03_9c0afb95:
@@ -718,7 +718,7 @@ translate malay d17s03_9c0afb95:
 translate malay d17s03_8f64fa6b:
 
     # ir "What?! No!{w} Hell no!"
-    ir "Apa?!{w} WOI!{w} Tak!{w} Tidak!"
+    ir "Apa?! {w}WOI! {w}Tak! {w}Tidak!"
 
 # game/code/d17/d17s03.rpy:249
 translate malay d17s03_580b897a:
@@ -892,7 +892,7 @@ translate malay d17s03_bd13bba7:
 translate malay d17s03_cfb1c03e:
 
     # ir "Give me one fucking reason I shouldn't put you in the coma ward."
-    ir "Beri saya satu sebab aku tak patut masukkan kau dalam wad koma."
+    ir "Beri aku satu sebab aku tak patut masukkan kau dalam wad koma."
 
 # game/code/d17/d17s03.rpy:311
 translate malay d17s03_2a57a178:
@@ -958,7 +958,7 @@ translate malay d17s03_8fbdcfd6:
 translate malay d17s03_f166ee3d:
 
     # ir "And Hana's reputation.{w} I WILL NOT HAVE HER DRAGGED IN FRONT OF THE MEDIA."
-    ir "Dan reputasi Hana. {w}SAYA TIDAK AKAN BIARKAN AKU DAN DIA DISERET DI DEPAN MEDIA."
+    ir "Dan reputasi Hana. {w}AKU TAK AKAN BIARKAN DIA DISERET DI DEPAN MEDIA."
 
 # game/code/d17/d17s03.rpy:332
 translate malay d17s03_2051d66a:
@@ -971,5 +971,4 @@ translate malay d17s03_2051d66a:
 translate malay d17s03_a531f536:
 
     # mct "That doesn't sound like jealousy at all."
-    mct "That doesn't sound like jealousy at all."
-
+    mct "Itu tak dengar macam cemburu."
