@@ -28,19 +28,19 @@ translate chinese e02s04_a4c2d21c:
 translate chinese e02s04_446acdeb:
 
     # mh "Of course I would do it pro-bono, [mcname]."
-    mh "我当然会无偿地为你服务，[mcname]。"
+    mh "我当然会无偿为你服务，[mcname]。"
 
 # game/code/e02/e02s04.rpy:25
 translate chinese e02s04_80cc9f92:
 
     # mc "That means for free right?"
-    mc "意思是免费的，对吗？"
+    mc "意思是你会免费为我辩护，对吗？"
 
 # game/code/e02/e02s04.rpy:28
 translate chinese e02s04_d09871a8:
 
     # mh "Yes. But we do not have to worry about me representing you because you will not be committing any crimes, correct?"
-    mh "是的。但我们不必担心我为你辩护的问题，因为你不会犯下任何罪行，对吗？"
+    mh "是的。但我们不必担心我为你辩护的问题，因为你不会犯下任何罪行，好吗？"
 
 # game/code/e02/e02s04.rpy:31
 translate chinese e02s04_0cb50db4:
@@ -52,7 +52,7 @@ translate chinese e02s04_0cb50db4:
 translate chinese e02s04_cf37f363:
 
     # mc "Maybe I should try that out - being in your corner, I mean. During a trial."
-    mc "也许我应该试试--我是说站在你这边。在审判期间。"
+    mc "也许我应该试试--我是说在审判期间，站在你这边。"
 
 # game/code/e02/e02s04.rpy:33
 translate chinese e02s04_42507f38:
@@ -64,7 +64,7 @@ translate chinese e02s04_42507f38:
 translate chinese e02s04_ee087b37:
 
     # mh "I always keep my eyes open for talent."
-    mh "我总是睁大眼睛寻找人才。"
+    mh "我对人才总是求贤若渴。"
 
 # game/code/e02/e02s04.rpy:39
 translate chinese e02s04_40b79f60:
@@ -76,7 +76,7 @@ translate chinese e02s04_40b79f60:
 translate chinese e02s04_8f355e21:
 
     # mh "I do not need to imagine. We are out of the bedroom as often as we are in it."
-    mh "我不需要想象。我们离开卧室的时间和在卧室的时间一样多。"
+    mh "我不需要想象。我们离开卧室的时间和待在卧室的时间一样多。"
 
 # game/code/e02/e02s04.rpy:45
 translate chinese e02s04_debd7d22:
@@ -88,7 +88,7 @@ translate chinese e02s04_debd7d22:
 translate chinese e02s04_17707427:
 
     # mh "I think you are pulling my leg."
-    mh "我认为你是在开我玩笑。"
+    mh "你一定是在开我玩笑。"
 
 # game/code/e02/e02s04.rpy:51
 translate chinese e02s04_27c6e311:
@@ -160,19 +160,19 @@ translate chinese e02s04_photo_4dcc526a:
 translate chinese e02s04_photo_bbdf5b32:
 
     # mh "Excuse me, did you want something? A picture perhaps?"
-    mh "对不起，你想要什么吗？是要拍照吗？"
+    mh "对不起，你想要什么吗？要拍照吗？"
 
 # game/code/e02/e02s04.rpy:90
 translate chinese e02s04_photo_8831022a:
 
     # ap "Oh I'm so sorry. My wife asked to take a photo of her but my aim was off."
-    ap "哦，很抱歉。我妻子让我给她拍张照片，但我拍偏了。"
+    ap "哦，真对不起。我妻子让我给她拍张照片，但我拍偏了。"
 
 # game/code/e02/e02s04.rpy:92
 translate chinese e02s04_photo_5ae2f27f:
 
     # atp "Hmmph. Yes, that's what happened."
-    atp "噢。对，就是这么回事。"
+    atp "噢。对对对，就是这么回事。"
 
 # game/code/e02/e02s04.rpy:93
 translate chinese e02s04_photo_f432e7b9:
@@ -190,7 +190,7 @@ translate chinese e02s04_photo_8c26cb31:
 translate chinese e02s04_photo_a6c28f39:
 
     # atp "Relax. It was nothing sinister. We, uh, couldn't help but overhear your conversation."
-    atp "放松。我们人不坏。只是不小心听到了你们的谈话。"
+    atp "放轻松。我们人不坏。只是不小心听到了你们的谈话。"
 
 # game/code/e02/e02s04.rpy:105
 translate chinese e02s04_photo_e4002560:
@@ -268,7 +268,7 @@ translate chinese e02s04_photo_7798498a:
 translate chinese e02s04_photo_38b50f82:
 
     # atp "You're a banging lawyer, but do you think anyone would care to find out that you summer up in the mountains?"
-    atp "你是个相当出色的律师，但你认为有人会想知道你在山里避暑吗？"
+    atp "你是个相当出色的律师，但你觉得会有人关注你有没有在山里避暑吗？"
 
 # game/code/e02/e02s04.rpy:143
 translate chinese e02s04_photo_9cdfd432:
@@ -298,7 +298,7 @@ translate chinese e02s04_photo_cb8e98cf:
 translate chinese e02s04_photo_84bb0e2c:
 
     # ap "Listen, we're really sorry for bothering you. We should go."
-    ap "听着，我们真的很抱歉打扰你。我们该走了。"
+    ap "听着，真的很抱歉打扰你们了。咱们该走了。"
 
 # game/code/e02/e02s04.rpy:156
 translate chinese e02s04_photo_57a303eb:
@@ -340,13 +340,13 @@ translate chinese e02s04_photo_c2712e6d:
 translate chinese e02s04_photo_7102307b:
 
     # mh "I am. Is that why you were taking photos of me?"
-    mh "是的。这就是你给我拍照的原因吗？"
+    mh "我是。这就是你给我拍照的原因吗？"
 
 # game/code/e02/e02s04.rpy:173
 translate chinese e02s04_photo_79cc4def:
 
     # atp "No. Well, it's... I mean it's really kind of a funny story."
-    atp "没有。呃...我的意思是，这个故事真的是有意思。"
+    atp "那倒不是。呃...我的意思是，这个故事真的是有意思。"
 
 # game/code/e02/e02s04.rpy:175
 translate chinese e02s04_photo_07644846:
@@ -376,13 +376,13 @@ translate chinese e02s04_photo_1b1c21ae:
 translate chinese e02s04_photo_21dcdaaf:
 
     # mc "Sounds a little strange, Angela."
-    mc "听起来有点奇怪，安吉拉。"
+    mc "听起来不是很有逻辑，安吉拉。"
 
 # game/code/e02/e02s04.rpy:186
 translate chinese e02s04_photo_c7769a77:
 
     # atp "I will admit to being slightly flustered. It's uh... it's not easy for me... just."
-    atp "我承认我是有点慌张。呃...只是...这对我来说并不容易..."
+    atp "我承认我是有点慌。呃...只是...这对我来说并不容易..."
 
 # game/code/e02/e02s04.rpy:187
 translate chinese e02s04_photo_85e3c151:
@@ -394,7 +394,7 @@ translate chinese e02s04_photo_85e3c151:
 translate chinese e02s04_photo_c7c41f08:
 
     # mh "Peas in a pod, hmmm?"
-    mh "给我看豆荚里的豆子，是吧"
+    mh "给我看豆荚里的豆子，是吧？"
 
 # game/code/e02/e02s04.rpy:194
 translate chinese e02s04_photo_9c8529b9:
@@ -430,7 +430,7 @@ translate chinese e02s04_photo_87655d2c:
 translate chinese e02s04_fireplace_af7148fc:
 
     # atp "So your assistant knows and you've told many of the people at the courthouse... and they don't care?"
-    atp "所以你的助理知道了，你也告诉了法院的很多人...他们不在乎吗？"
+    atp "所以你的助理知道你的情况，你也告诉了法院的很多人...他们不在乎吗？"
 
 # game/code/e02/e02s04.rpy:217
 translate chinese e02s04_fireplace_8ee9cd18:
@@ -550,7 +550,7 @@ translate chinese e02s04_fireplace_e3956977:
 translate chinese e02s04_fireplace_37e82bf7:
 
     # ap "Thanks. Yeah I call it my \"golden voice\". Usually it only comes out in the newsroom."
-    ap "谢谢。我把它叫做我的\"金嗓子\"。通常只在新闻室里才会说出来。"
+    ap "谢谢。我把它叫做我的\"金嗓子\"。通常只在新闻室里才会用这种腔调。"
 
 # game/code/e02/e02s04.rpy:266
 translate chinese e02s04_fireplace_012064ef:
@@ -574,7 +574,7 @@ translate chinese e02s04_fireplace_6a632e20:
 translate chinese e02s04_fireplace_df7415df:
 
     # ap "Yes, but you can stand to be a little more discreet about things."
-    ap "行啊，但是你可以更谨慎一些。"
+    ap "行，但是你可以更谨慎一些。"
 
 # game/code/e02/e02s04.rpy:277
 translate chinese e02s04_fireplace_3e7bd8dc:
@@ -604,7 +604,7 @@ translate chinese e02s04_fireplace_f0b825fa:
 translate chinese e02s04_fireplace_4ce1ae3f:
 
     # mh "Yes, very friendly."
-    mh "对，在轻松谈话嘛。"
+    mh "对，轻松谈话嘛。"
 
 # game/code/e02/e02s04.rpy:290
 translate chinese e02s04_fireplace_f77a1525:
@@ -622,7 +622,7 @@ translate chinese e02s04_fireplace_29b7f854:
 translate chinese e02s04_fireplace_d0d86538:
 
     # atp "So tell me, [mcname]... Do you enjoy the other side? Having Lyssa take the wheel so to speak?"
-    atp "所以告诉我，[mcname]...你喜欢换花样吗？让丽莎 掌握主导权，可以这么说？"
+    atp "所以告诉我，[mcname]...你喜欢换花样吗？让丽莎掌握主导权，可以这么说？"
 
 # game/code/e02/e02s04.rpy:300
 translate chinese e02s04_fireplace_1b48ebcf:
@@ -634,7 +634,7 @@ translate chinese e02s04_fireplace_1b48ebcf:
 translate chinese e02s04_fireplace_ffcfe4e2:
 
     # atp "Haha. Alexander is always in the mood for me to toss his salad or stretch his starfish."
-    atp "哈哈。亚历山大总是想让我给他上演拌沙拉或者海星式。"
+    atp "哈哈。亚历山大总是想让我给他上演“拌沙拉”或者“海星式”。"
 
 # game/code/e02/e02s04.rpy:307
 translate chinese e02s04_fireplace_ee161fc3:
@@ -646,7 +646,7 @@ translate chinese e02s04_fireplace_ee161fc3:
 translate chinese e02s04_fireplace_9b041e14:
 
     # atp "Well don't wait too long. I'm sure Lyssa wouldn't mind trying out your backdoor, [mcname]"
-    atp "不要等太久。我相信丽莎不会介意试试你的后门。"
+    atp "那你们最近就可以试试。我相信丽莎不会介意试试你的后门，[mcname]。"
 
 # game/code/e02/e02s04.rpy:313
 translate chinese e02s04_fireplace_0f42c392:
@@ -658,7 +658,7 @@ translate chinese e02s04_fireplace_0f42c392:
 translate chinese e02s04_fireplace_004def0a:
 
     # atp "Sure, but some people need others to lead the way - or they'll never be adventurous."
-    atp "当然，但是有些人需要别人带头，否则他们永远不会冒险。"
+    atp "没错，但是有些人需要别人带头，否则他们永远不会冒险。"
 
 # game/code/e02/e02s04.rpy:319
 translate chinese e02s04_fireplace_1efb1360:
@@ -670,7 +670,7 @@ translate chinese e02s04_fireplace_1efb1360:
 translate chinese e02s04_fireplace_10ec4b3f:
 
     # mct "Wow. I got the feeling these two were a bit high-strung, but this is something else."
-    mct "哇。我感觉这两个人有点紧张，但这是另一回事。"
+    mct "哇。我感觉这两个人有点剑拔弩的意思，但这是另一回事。"
 
 # game/code/e02/e02s04.rpy:323
 translate chinese e02s04_fireplace_5535f776:
@@ -688,7 +688,7 @@ translate chinese e02s04_fireplace_eafdf6e7:
 translate chinese e02s04_fireplace_6b4192ff:
 
     # atp "So now I don't love you..."
-    atp "所以现在我不爱你了..."
+    atp "所以你是说现在我不爱你了..."
 
 # game/code/e02/e02s04.rpy:330
 translate chinese e02s04_fireplace_bc655e72:
@@ -712,7 +712,7 @@ translate chinese e02s04_fireplace_f1ca51c7:
 translate chinese e02s04_fireplace_c2eb23fc:
 
     # atp "So far I'm not wrong."
-    atp "到目前为止我没有错。"
+    atp "反正到目前为止我没有错。"
 
 # game/code/e02/e02s04.rpy:339
 translate chinese e02s04_fireplace_cf283332:
@@ -772,7 +772,7 @@ translate chinese e02s04_fireplace_b8f60720:
 translate chinese e02s04_fireplace_a5d57ad0:
 
     # mc "{size=-10}*whispers* Okay... so how exactly would we help?{/size}"
-    mc "{size=-10}*低语* 好吧...那么我们到底要怎么帮忙呢？{/size}"
+    mc "{size=-10}*低语* 好吧...那我们到底要怎么帮忙呢？{/size}"
 
 # game/code/e02/e02s04.rpy:362
 translate chinese e02s04_fireplace_b4c7b8d5:
@@ -820,7 +820,7 @@ translate chinese e02s04_fireplace_065f2729:
 translate chinese e02s04_fireplace_c1693c5f:
 
     # mh "Oh no, but I've definitely seen my share of personalities in the courtroom. I might be able to give you an insight."
-    mh "哦，不，但我确实看到了我的个性。"
+    mh "对，我不是医生，但我在法庭上确实看到了我的作用，我也许能给你们一点建议。"
 
 # game/code/e02/e02s04.rpy:377
 translate chinese e02s04_fireplace_3273322b:
@@ -856,7 +856,7 @@ translate chinese e02s04_fireplace_0061d983:
 translate chinese e02s04_fireplace_6eccf0e9:
 
     # mct "It's always a treat getting to see Lyssa in action."
-    mct "看到丽莎的表演总是一种享受。"
+    mct "看到丽莎自信满满的样子总是一种享受。"
 
 # game/code/e02/e02s04.rpy:387
 translate chinese e02s04_fireplace_8439d294:
@@ -898,7 +898,7 @@ translate chinese e02s04_fireplace_fc1832b5:
 translate chinese e02s04_fireplace_5cd03cbe:
 
     # mh "And you, Angela, you are the complete opposite. You are full of energy, you say whatever is on your mind."
-    mh "而你，安吉拉，你完全相反。你充满了"
+    mh "而你，安吉拉，你完全相反。你充满了活力，想到什么就说什么。"
 
 # game/code/e02/e02s04.rpy:399
 translate chinese e02s04_fireplace_1d77236e:
@@ -970,7 +970,7 @@ translate chinese e02s04_fireplace_87add3f5:
 translate chinese e02s04_fireplace_d4a7a895:
 
     # ap "Thanks so much for your patience. And um... you'll keep this between us."
-    ap "T非常感谢你的耐心。还有...这件事你不要告诉别人。"
+    ap "非常感谢你的耐心。还有...这件事你不要告诉别人。"
 
 # game/code/e02/e02s04.rpy:423
 translate chinese e02s04_fireplace_106e6132:
@@ -1024,25 +1024,25 @@ translate chinese e02s04_next_day_14ba5475:
 translate chinese e02s04_next_day_ac3b5b40:
 
     # mh "Mmmhmm."
-    mh "嗯。"
+    mh "嗯..."
 
 # game/code/e02/e02s04.rpy:462
 translate chinese e02s04_next_day_2183183a:
 
     # mc "I know you don't want to talk about work. But I've got some pretty intense messages from Oliver on here."
-    mc "我知道你不想谈工作。但是我从奥利弗那里得到了一些非常强烈的信息。"
+    mc "我知道你不想谈工作。但是奥利弗发了一连串的信息过来。"
 
 # game/code/e02/e02s04.rpy:464
 translate chinese e02s04_next_day_ea0d1bf8:
 
     # mh "Did he say which case is giving him trouble?"
-    mh "他有没有说哪个案子给他带来麻烦？"
+    mh "他有没有提到是哪个案子这么麻烦？"
 
 # game/code/e02/e02s04.rpy:467
 translate chinese e02s04_next_day_393a0407:
 
     # mc "He says it's privileged information. Not for my peasant eyes."
-    mc "他说这是机密信息。我这农民的眼睛可看不出来。"
+    mc "他说这是机密信息。我这粗人的眼睛可看不出来。"
 
 # game/code/e02/e02s04.rpy:470
 translate chinese e02s04_next_day_12a093f5:
@@ -1096,7 +1096,7 @@ translate chinese e02s04_next_day_5b48782b:
 translate chinese e02s04_next_day_c3121cc0:
 
     # mh "The more I step back into the work lake, the more my brain will leave vacation mountain."
-    mh "我多想一点工作上的事，我的大脑就越会越早偏离这次的度假。"
+    mh "我越多想一点工作上的事，我的大脑就越会越无法享受这次的度假。"
 
 # game/code/e02/e02s04.rpy:490
 translate chinese e02s04_next_day_4b9c519b:
@@ -1174,7 +1174,7 @@ translate chinese e02s04_next_day_2_2383f5da:
 translate chinese e02s04_next_day_2_4952c290:
 
     # mc "Hi. Can we help you?"
-    mc "嗨。我们能帮你吗？"
+    mc "嗨。怎么了吗？"
 
 # game/code/e02/e02s04.rpy:546
 translate chinese e02s04_next_day_2_79cbd550:
@@ -1186,13 +1186,13 @@ translate chinese e02s04_next_day_2_79cbd550:
 translate chinese e02s04_next_day_2_3a19e63d:
 
     # ms "Dorothy wanted to talk to you later, but I was hoping to catch you before you hit the slopes."
-    ms "多萝西想晚点跟你谈谈，但我希望能在你撞到斜坡之前见到你们。"
+    ms "多萝西想晚点跟你谈谈，但我希望能在你撞到雪坡之前见到你们。"
 
 # game/code/e02/e02s04.rpy:550
 translate chinese e02s04_next_day_2_2dd956e3:
 
     # mc "Nice to meet you two."
-    mc "很高兴认识你们两个。"
+    mc "很高兴认识你们两位。"
 
 # game/code/e02/e02s04.rpy:553
 translate chinese e02s04_next_day_2_b49038fa:
@@ -1252,7 +1252,7 @@ translate chinese e02s04_next_day_2_d35c9ded:
 translate chinese e02s04_next_day_2_30d577e6:
 
     # mh "So, what brings you over this early?"
-    mh "什么风把你吹来这么早？"
+    mh "什么风把你们吹来这么早？"
 
 # game/code/e02/e02s04.rpy:580
 translate chinese e02s04_next_day_2_13ac55d8:
@@ -1270,13 +1270,13 @@ translate chinese e02s04_next_day_2_db4e95cc:
 translate chinese e02s04_next_day_2_c7a8b484:
 
     # ms "That couple just couldn't leave you alone to enjoy your vacation."
-    ms "那对夫妇就是不能让你单独享受假期。"
+    ms "那对夫妇就是不能让你们单独享受假期。"
 
 # game/code/e02/e02s04.rpy:589
 translate chinese e02s04_next_day_2_918a84b7:
 
     # dn "We certainly could have stuck around and maybe given you an out."
-    dn "我们当然可以留下来，也许给你一个机会。"
+    dn "我们当然可以留下来，也许给你们一个机会。"
 
 # game/code/e02/e02s04.rpy:592
 translate chinese e02s04_next_day_2_a770b5e8:
@@ -1294,7 +1294,7 @@ translate chinese e02s04_next_day_2_122f888f:
 translate chinese e02s04_next_day_2_69036438:
 
     # mc "No. It was more of a misunderstanding. I mean, don't get me wrong, they're an interesting pair, but not jerks or anything like that."
-    mc "没有。这更像是一场误会。不要误解我的意思，他们是有趣的一对，但不是混蛋之类的。"
+    mc "没有。这更像是一场误会。不要误解我的意思，他们这一对很有意思，绝不是混蛋之类的。"
 
 # game/code/e02/e02s04.rpy:601
 translate chinese e02s04_next_day_2_d64285b4:
@@ -1312,7 +1312,7 @@ translate chinese e02s04_next_day_2_d7b95be3:
 translate chinese e02s04_next_day_2_7b881570:
 
     # ms "Totally. Hosts shouldn't tease their guests."
-    ms "完全。主人不应该取笑客人。"
+    ms "当然。主人不应该取笑客人。"
 
 # game/code/e02/e02s04.rpy:609
 translate chinese e02s04_next_day_2_475e6bcc:
@@ -1336,7 +1336,7 @@ translate chinese e02s04_next_day_2_8a48ee7c:
 translate chinese e02s04_next_day_2_dfc3c9f2:
 
     # mh "Mmhmm."
-    mh "嗯。"
+    mh "也是。"
 
 # game/code/e02/e02s04.rpy:620
 translate chinese e02s04_next_day_2_dee28fdc:
@@ -1366,7 +1366,7 @@ translate chinese e02s04_next_day_2_6103a7f3:
 translate chinese e02s04_next_day_2_cc9b870d:
 
     # ms "That sounds wonderful."
-    ms "听起来不错。"
+    ms "那真不错。"
 
 # game/code/e02/e02s04.rpy:631
 translate chinese e02s04_next_day_2_d486cdaa:
@@ -1420,13 +1420,13 @@ translate chinese e02s04_next_day_2_aeddc368:
 translate chinese e02s04_next_day_2_4b063db9:
 
     # ms "Maybe we don't need one. You two seem to have things figured out. Maybe... you could listen in and share some advice."
-    ms "也许我们不需要咨询师。你们俩看来蛮有智慧的。也许...你可以来听听，分享一些建议。"
+    ms "也许我们不需要咨询师。你们俩看来蛮有智慧的。也许...你们可以来听听，分享一些建议。"
 
 # game/code/e02/e02s04.rpy:652
 translate chinese e02s04_next_day_2_f387c7fb:
 
     # dn "Hmmm."
-    dn "嗯。"
+    dn "就是。"
 
 # game/code/e02/e02s04.rpy:655
 translate chinese e02s04_next_day_2_6ddfd566:
@@ -1480,13 +1480,13 @@ translate chinese e02s04_end_3ddd033b:
 translate chinese e02s04_end_2420c5da:
 
     # mh "Some people have issues opening up to doctors because it can be difficult when the subject is sexual."
-    mh "有些人很难对医生敞开心扉，因为当话题涉及性时，就不容易谈开。"
+    mh "有些人很难对医生敞开心扉，因为当话题涉及到性时，就不容易谈开。"
 
 # game/code/e02/e02s04.rpy:680
 translate chinese e02s04_end_33180752:
 
     # mh "I mean some professionals don't even have the vocabulary to cover it."
-    mh "我的意思是，一些专业人士甚至都没掌握足够的词汇来描述它。"
+    mh "我的意思是，一些专业人士甚至都没掌握足够的词汇来描述这种关系。"
 
 # game/code/e02/e02s04.rpy:683
 translate chinese e02s04_end_1a960296:
@@ -1528,7 +1528,7 @@ translate chinese e02s04_end_b35bb58c:
 translate chinese e02s04_end_7361cd1d:
 
     # mh "Good. And while we're preparing, we can figure out who we should focus our efforts on."
-    mh "好。在我们准备的时候，我们可以分析清楚应该把精力集中在谁身上。"
+    mh "好。在我们准备的时候，我们可以条分缕析，搞清楚应该把精力集中在谁身上。"
 
 translate chinese strings:
 
