@@ -508,7 +508,7 @@ translate chinese e02s10_sex_32d23f2a:
 translate chinese e02s10_sex_c2ea84bb:
 
     # mc "Oh shit!"
-    mc 我靠我靠!"
+    mc "我靠我靠!"
 
 # game/code/e02/e02s10.rpy:266
 translate chinese e02s10_sex_de383224:
