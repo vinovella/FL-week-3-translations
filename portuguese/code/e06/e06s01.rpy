@@ -428,3 +428,15 @@ translate portuguese strings:
     old "Later That Day"
     new "Mais Tarde Naquele Dia"
 
+# TODO: Translation updated at 2023-05-20 02:57
+
+translate portuguese strings:
+
+    # game/code/e06/e06s01.rpy:12
+    old "Choose optional characters for this ending"
+    new ""
+
+    # game/code/e06/e06s01.rpy:47
+    old "Continue"
+    new ""
+

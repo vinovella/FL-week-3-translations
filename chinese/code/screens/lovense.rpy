@@ -102,3 +102,27 @@ translate chinese strings:
     old "Please enter your HTTP Port number:"
     new "Please enter your HTTP Port number:"
 
+# TODO: Translation updated at 2023-05-20 02:53
+
+translate chinese strings:
+
+    # game/code/screens/lovense.rpy:71
+    old "Your favorite toy now works with Fetish Locator!"
+    new "Your favorite toy now works with Fetish Locator!"
+
+    # game/code/screens/lovense.rpy:74
+    old "Get any Lovense toy with our exclusive 55% discount and sync it with Fetish Locator!"
+    new "Get any Lovense toy with our exclusive 55% discount and sync it with Fetish Locator!"
+
+    # game/code/screens/lovense.rpy:75
+    old "Limited time offer!"
+    new "Limited time offer!"
+
+    # game/code/screens/lovense.rpy:81
+    old "Get your discount now"
+    new "Get your discount now"
+
+    # game/code/screens/lovense.rpy:84
+    old "{u}Connect your toy!{/u}"
+    new "{u}Connect your toy!{/u}"
+

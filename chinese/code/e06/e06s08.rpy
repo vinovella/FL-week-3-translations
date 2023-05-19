@@ -1953,3 +1953,11 @@ translate chinese d06s08_sy_4a9a11a2:
 
     # sy "CREAMPIE ME [mcname!u]!!!"
     sy "我想被你内射，[mcname!u]!!!"
+
+# TODO: Translation updated at 2023-05-20 02:53
+
+translate chinese strings:
+
+    # game/code/e06/e06s08.rpy:1185
+    old "Lydia should Rim Lyssa's ass"
+    new "Lydia should Rim Lyssa's ass"

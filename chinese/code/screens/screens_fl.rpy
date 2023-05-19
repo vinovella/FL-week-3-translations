@@ -286,3 +286,15 @@ translate chinese strings:
     old "RETURN"
     new "RETURN"
 
+# TODO: Translation updated at 2023-05-20 02:53
+
+translate chinese strings:
+
+    # game/code/screens/screens_fl.rpy:1316
+    old "Skip Recap\nof Week-1"
+    new "Skip Recap\nof Week-1"
+
+    # game/code/screens/screens_fl.rpy:1322
+    old "Skip Recap\nof Week-2"
+    new "Skip Recap\nof Week-2"
+

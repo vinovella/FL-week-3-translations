@@ -238,3 +238,15 @@ translate portuguese strings:
     old "RETURN"
     new ""
 
+# TODO: Translation updated at 2023-05-20 02:57
+
+translate portuguese strings:
+
+    # game/code/screens/screens_fl.rpy:1316
+    old "Skip Recap\nof Week-1"
+    new ""
+
+    # game/code/screens/screens_fl.rpy:1322
+    old "Skip Recap\nof Week-2"
+    new ""
+

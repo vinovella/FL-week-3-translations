@@ -102,3 +102,27 @@ translate portuguese strings:
     old "Please enter your HTTP Port number:"
     new ""
 
+# TODO: Translation updated at 2023-05-20 02:57
+
+translate portuguese strings:
+
+    # game/code/screens/lovense.rpy:71
+    old "Your favorite toy now works with Fetish Locator!"
+    new ""
+
+    # game/code/screens/lovense.rpy:74
+    old "Get any Lovense toy with our exclusive 55% discount and sync it with Fetish Locator!"
+    new ""
+
+    # game/code/screens/lovense.rpy:75
+    old "Limited time offer!"
+    new ""
+
+    # game/code/screens/lovense.rpy:81
+    old "Get your discount now"
+    new ""
+
+    # game/code/screens/lovense.rpy:84
+    old "{u}Connect your toy!{/u}"
+    new ""
+

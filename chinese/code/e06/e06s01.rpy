@@ -428,3 +428,15 @@ translate chinese strings:
     old "Later That Day"
     new "当天晚些时候"
 
+# TODO: Translation updated at 2023-05-20 02:53
+
+translate chinese strings:
+
+    # game/code/e06/e06s01.rpy:12
+    old "Choose optional characters for this ending"
+    new "Choose optional characters for this ending"
+
+    # game/code/e06/e06s01.rpy:47
+    old "Continue"
+    new "Continue"
+
