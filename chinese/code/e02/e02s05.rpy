@@ -136,7 +136,7 @@ translate chinese e02s05_later_83d93ffe:
 translate chinese e02s05_later_1ccc4613:
 
     # ac "It seems like Frank and I are the only ones sharing."
-    ac "似乎只有弗兰克和我在分享。"
+    ac "感觉只有弗兰克和我在分享。"
 
 # game/code/e02/e02s05.rpy:93
 translate chinese e02s05_later_ef40fb8f:
@@ -154,7 +154,7 @@ translate chinese e02s05_later_53b3ea05:
 translate chinese e02s05_later_b527932b:
 
     # ap "No, she's right. Something feels off, but I couldn't tell you what it is."
-    ap "不，她说得对。哪里感觉不太对劲，但我说不上来是哪里"
+    ap "不，她说得对。哪里感觉不太对劲，但我说不上来是哪里。"
 
 # game/code/e02/e02s05.rpy:102
 translate chinese e02s05_later_de59d7ef:
@@ -190,13 +190,13 @@ translate chinese e02s05_later_532b9db9:
 translate chinese e02s05_later_afb7b809:
 
     # mct "I hope everyone feels that way."
-    mct "我希望每个人都有这样的感觉。"
+    mct "希望每个人都有这样的感觉。"
 
 # game/code/e02/e02s05.rpy:113
 translate chinese e02s05_later_3c85a2b6:
 
     # fc "Why don't you two sit down and get started."
-    fc "你们俩为什么不坐下来开始呢？"
+    fc "你们俩为什么不坐下来呢，然后我们开始。"
 
 # game/code/e02/e02s05.rpy:116
 translate chinese e02s05_later_14383023:
@@ -220,7 +220,7 @@ translate chinese e02s05_later_056d84f8:
 translate chinese e02s05_later_f333732d:
 
     # mh "Hi. I'm Melissa Harris and this is my boyfriend, [mcname]."
-    mh "嗨。我是梅丽莎·哈里斯，这是我的男朋友，[mcname]]。"
+    mh "嗨。我是梅丽莎·哈里斯，这是我的男朋友，[mcname]。"
 
 # game/code/e02/e02s05.rpy:127
 translate chinese e02s05_later_a58c992f:
@@ -238,13 +238,13 @@ translate chinese e02s05_later_31619ec5:
 translate chinese e02s05_later_ef8aa687:
 
     # fc "Hi [mcname], Hello Lyssa."
-    fc "嗨[mcname]，你好丽莎。"
+    fc "你们好，[mcname]和丽莎。"
 
 # game/code/e02/e02s05.rpy:136
 translate chinese e02s05_later_bbbdc8e8:
 
     # mc "We've been together for a little while now. I'd say we have a happy and healthy relationship."
-    mc "我们在一起有一段时间了。我想说我们的关系很是幸福健康。"
+    mc "我们在一起有一段时间了。我想说我们的关系很幸福，很健康。"
 
 # game/code/e02/e02s05.rpy:139
 translate chinese e02s05_later_1a7ee2b4:
@@ -298,7 +298,7 @@ translate chinese e02s05_later_9af9b7be:
 translate chinese e02s05_later_689eba5f:
 
     # atp "As for the rest of you, I'm basically the person that runs Channel Six and its sister broadcasts."
-    atp "至于你们其他人，我基本上就是负责第六频道及其姐妹号广播的人"
+    atp "至于你们其他人，我基本上就是负责第六频道及其姐妹号广播的人。"
 
 # game/code/e02/e02s05.rpy:157
 translate chinese e02s05_later_5d84fbd4:
@@ -328,7 +328,7 @@ translate chinese e02s05_later_9ddfd0d2:
 translate chinese e02s05_later_4c39fbd1:
 
     # ap "Uh, yeah. If you live in our city. I pretty much just cover local news."
-    ap "是的。如果你住在我们的城市。我基本上只报道当地新闻。"
+    ap "是的。如果你住在我们的城市的话。我基本上只报道当地新闻。"
 
 # game/code/e02/e02s05.rpy:167
 translate chinese e02s05_later_62d33b85:
@@ -376,7 +376,7 @@ translate chinese e02s05_later_408ecff0:
 translate chinese e02s05_later_8b9d5a5e:
 
     # ac "But other things."
-    ac "你想要的还有别的事。"
+    ac "你想要的还有别的。"
 
 # game/code/e02/e02s05.rpy:182
 translate chinese e02s05_later_eaea8c40:
@@ -430,7 +430,7 @@ translate chinese e02s05_later_96b34a0d:
 translate chinese e02s05_later_8a340642:
 
     # mc "What does that mean?"
-    mc "这是什么意思？"
+    mc "什么意思？"
 
 # game/code/e02/e02s05.rpy:206
 translate chinese e02s05_later_1cd3312d:
@@ -520,7 +520,7 @@ translate chinese e02s05_later_4d6c00b5:
 translate chinese e02s05_later_3a8e84ea:
 
     # ms "We're usually on the slopes or in the sauna."
-    ms "我们通常在斜坡上或在桑拿房里。"
+    ms "我们通常在雪坡上或在桑拿房里。"
 
 # game/code/e02/e02s05.rpy:247
 translate chinese e02s05_later_8d4da17a:
@@ -538,7 +538,7 @@ translate chinese e02s05_later_2171c2d6:
 translate chinese e02s05_later_b0fdd0f8:
 
     # ap "I hope they have more of those gourmet burgers tonight."
-    ap "希望他们今晚有更多的那种美味汉堡。"
+    ap "希望他们今晚有更多的美味汉堡。"
 
 # game/code/e02/e02s05.rpy:264
 translate chinese e02s05_menu_4d492940:
@@ -604,7 +604,7 @@ translate chinese e02s05_menu_68625f7d:
 translate chinese e02s05_menu_3229c053:
 
     # mc "Okay. Let's do that tomorrow. Which one?"
-    mc "好了。我们明天就这么做吧。要哪个？"
+    mc "好。我们明天就这么做吧。选谁呢？"
 
 # game/code/e02/e02s05.rpy:292
 translate chinese e02s05_menu_8bb50aca:
@@ -664,7 +664,7 @@ translate chinese e02s05_menu_de18fb8e:
 translate chinese e02s05_menu_c8bdaec4:
 
     # mh "No, silly. Guess what I want to do tomorrow."
-    mh "不，傻瓜。猜猜我明天想做什么。"
+    mh "不是啦，傻瓜。猜猜我明天想做什么。"
 
 # game/code/e02/e02s05.rpy:324
 translate chinese e02s05_menu_d3387467:
