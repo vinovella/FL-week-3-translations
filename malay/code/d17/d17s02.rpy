@@ -130,7 +130,7 @@ translate malay replay_d17s02_2fbb7006:
 translate malay replay_d17s02_43f9529e:
 
     # vw "Oh God, I ruined everything!"
-    vw "Oh tidak, aku dah rosakkan segala-galanya!"
+    vw "Oh tak, aku dah rosakkan segala-galanya!"
 
 # game/code/d17/d17s02.rpy:101
 translate malay replay_d17s02_68804eff:
@@ -160,13 +160,13 @@ translate malay replay_d17s02_b47e3561:
 translate malay replay_d17s02_9f0d1355:
 
     # vw "That's all I wanted! Oh my God, I'll be able to talk to my baby again."
-    vw "Itu sahaja yang aku nak! Aku akan dapat bercakap dengan bayi saya lagi."
+    vw "Itu sahaja yang aku nak! Aku akan dapat bercakap dengan bayi aku lagi."
 
 # game/code/d17/d17s02.rpy:109
 translate malay replay_d17s02_280246a3:
 
     # vw "That's all I wanted! Oh my God, I'll be able to talk to her again."
-    vw "Itu sahaja yang aku nak! Aku akan dapat bercakap dengan bayi saya lagi."
+    vw "Itu sahaja yang aku nak! Aku akan dapat bercakap dengan dia lagi."
 
 # game/code/d17/d17s02.rpy:111
 translate malay replay_d17s02_a11704b1:
@@ -184,7 +184,7 @@ translate malay replay_d17s02_23098fc0:
 translate malay replay_d17s02_7d10f966:
 
     # mc "Well, no need to be so dramatic.{w} She just wanted me there."
-    mc "Jangan terlalu dramatik sangat. {w}Dia hanya aku ada di sana."
+    mc "Jangan terlalu dramatik sangat. {w}Dia nak aku ada di sana."
 
 # game/code/d17/d17s02.rpy:115
 translate malay replay_d17s02_f95fb9ae:
@@ -322,7 +322,7 @@ translate malay replay_d17s02_b7f7559b:
 translate malay replay_d17s02_ff6bdcbc:
 
     # vw "Surprisingly insightful? I know. I've been trying to figure out what I can do to...grow, I suppose.{w} And I want you to teach me."
-    vw "Mengejutkan? Aku tahu. Aku telah cuba memikirkan apa yang boleh aku lakukan untuk... membesar, saya rasa. {w}Dan aku nak kau mengajar aku bagaimana."
+    vw "Mengejutkan? Aku tahu. Aku telah cuba memikirkan apa yang boleh aku lakukan untuk... membesar, aku rasa. {w}Dan aku nak kau mengajar aku macam mana."
 
 # game/code/d17/d17s02.rpy:151
 translate malay replay_d17s02_9e7c094c:
@@ -334,7 +334,7 @@ translate malay replay_d17s02_9e7c094c:
 translate malay replay_d17s02_5337f0ea:
 
     # vw "I want you to teach me how to be submissive."
-    vw "Aku nak kau mengajar aku bagaimana untuk patuh."
+    vw "Aku nak kau mengajar aku macam mana untuk patuh."
 
 # game/code/d17/d17s02.rpy:154
 translate malay replay_d17s02_01940f90:
@@ -394,19 +394,19 @@ translate malay replay_d17s02_cd16eeee:
 translate malay replay_d17s02_51a5f091:
 
     # vw "Great! You can be a little rough with me, I don't mind."
-    vw "Hebat! Anda boleh bersikap kasar sedikit dengan saya, saya tidak kisah."
+    vw "Hebat! Kau boleh kasar sedikit dengan aku, aku tak kisah."
 
 # game/code/d17/d17s02.rpy:174
 translate malay replay_d17s02_83419b0f:
 
     # mct "Probably shouldn't go too hard on her first go."
-    mct "Mungkin tidak sepatutnya bekerja keras pada perjalanan pertamanya."
+    mct "Mungkin tak sepatutnya terlalu keras pada mulanya."
 
 # game/code/d17/d17s02.rpy:175
 translate malay replay_d17s02_2bc216d6:
 
     # mct "Hm... What should I make her do to teach her submission?"
-    mct "Hm... Apa yang patut saya suruh dia buat untuk mengajar penyerahannya?"
+    mct "Hm... Apa yang patut aku suruh dia buat untuk mengajar penyerahannya?"
 
 # game/code/d17/d17s02.rpy:177
 translate malay replay_d17s02_b323a4ae:
@@ -508,7 +508,7 @@ translate malay d17s02_menu_1098f458:
 translate malay d17s02_menu_ecc8b1e0:
 
     # mc " I want you to worship me."
-    mc  " Aku nak kau sembah aku."
+    mc  "Aku nak kau sembah aku."
 
 # game/code/d17/d17s02.rpy:224
 translate malay d17s02_menu_b24a575a:
@@ -532,7 +532,7 @@ translate malay d17s02_menu_3783ce26_1:
 translate malay d17s02_menu_33943bd9:
 
     # mc "Do you understand me, slut?"
-    mc "Awak faham saya, perempuan murahan?"
+    mc "Kau faham aku, perempuan murahan?"
 
 # game/code/d17/d17s02.rpy:231
 translate malay d17s02_menu_2da595b6:
@@ -622,7 +622,7 @@ translate malay d17s02_vw_cockworship_79843d82:
 translate malay d17s02_vw_cockworship_6fa2ccc3:
 
     # vw "*Gasps lightly for air* Did you— Did you like that, Sir?"
-    vw "*Tercungap-cungap mencari udara* Adakah anda— Adakah anda suka itu, Tuan?"
+    vw "*Tercungap-cungap mencari udara* Kau— Kau sukakan itu, Tuan?"
 
 # game/code/d17/d17s02.rpy:309
 translate malay d17s02_vw_cockworship_cc20ed55:
@@ -640,7 +640,7 @@ translate malay d17s02_vw_cockworship_8b9ee863:
 translate malay d17s02_vw_cockworship_04ff3331:
 
     # vw "Would you please fuck me now, Sir?"
-    vw "Sudikah anda meniduri saya sekarang, Tuan?"
+    vw "Boleh tak kau kongkek aku sekarang, Tuan?"
 
 # game/code/d17/d17s02.rpy:325
 translate malay d17s02_vw_cockworship_70e7de7c:
@@ -694,7 +694,7 @@ translate malay d17s02_vw_fucking_f06a99e2:
 translate malay d17s02_vw_fucking_1d933d9e:
 
     # vw "You know, I wore those shoes that you came in."
-    vw "Kau tahu, aku pakai kasut yang pancut dalam."
+    vw "Kau tahu, aku pakai kasut yang kau pancut dalam."
 
 # game/code/d17/d17s02.rpy:378
 translate malay d17s02_vw_fucking_fdad1b11:
