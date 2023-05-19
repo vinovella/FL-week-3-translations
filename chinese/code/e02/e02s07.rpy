@@ -22,7 +22,7 @@ translate chinese e02s07_668ed583:
 translate chinese e02s07_18b7d90a:
 
     # mh "Now you're thinking. It's great for relaxing the muscles after a long day on the slopes."
-    mh "说对了！经过漫长的一整天的滑雪后，这对放松肌肉很有帮助。"
+    mh "正是。经过漫长的一整天的滑雪后，这对放松肌肉很有帮助。"
 
 # game/code/e02/e02s07.rpy:27
 translate chinese e02s07_3153dbac:
@@ -70,7 +70,7 @@ translate chinese e02s07_01d579de:
 translate chinese e02s07_a30eb7ca:
 
     # ms "Still, let me know if anything happens. The heat and humidity could-"
-    ms "尽管如此，如果有任何不适，还是要告诉我。高温和潮湿会--"
+    ms "尽管如此，如果有任何不适，还是要告诉我。高温加潮湿会--"
 
 # game/code/e02/e02s07.rpy:49
 translate chinese e02s07_2596e5e7:
@@ -136,7 +136,7 @@ translate chinese e02s07_443a7009:
 translate chinese e02s07_ad649492:
 
     # dn "YES! No, I mean. I'm fine. It's just..."
-    dn "确定！我很好。只是..."
+    dn "没事！我很好。只是..."
 
 # game/code/e02/e02s07.rpy:84
 translate chinese e02s07_d5abf6eb:
@@ -214,13 +214,13 @@ translate chinese e02s07_797b80a2:
 translate chinese e02s07_98b68b5d:
 
     # dn "You were in the closet?"
-    dn "你在壁橱里？"
+    dn "你在柜子里？"
 
 # game/code/e02/e02s07.rpy:117
 translate chinese e02s07_3210c033:
 
     # mc "Oh, no. Not like that. I was standing in a closet - a space for hanging clothes - when she showed me her big secret for the first time."
-    mc "哦，不。不是那样的。当她第一次向我展示这个大秘密时，我正站在一个衣橱里--一个挂衣服的地方。"
+    mc "哦，不。不是那样的。当她第一次向我展示这个大秘密时，我正待在柜子里--一个挂衣服的地方。"
 
 # game/code/e02/e02s07.rpy:120
 translate chinese e02s07_e9dbb54a:
@@ -244,7 +244,7 @@ translate chinese e02s07_9f7800e9:
 translate chinese e02s07_2e5c9c96:
 
     # ms "Really, you don't have to-"
-    ms "真的，你不必--"
+    ms "说真的，你们不必--"
 
 # game/code/e02/e02s07.rpy:132
 translate chinese e02s07_e9d439e4:
@@ -268,13 +268,13 @@ translate chinese e02s07_38b5e631:
 translate chinese e02s07_43621dfd:
 
     # mc "I mean, yay. We're still doing that."
-    mc "我是说，耶。我们马上就去了。"
+    mc "我是说，好耶。我们马上就去了。"
 
 # game/code/e02/e02s07.rpy:144
 translate chinese e02s07_49eefbda:
 
     # mh "I'm sorry that got awkward. I hope we can try again sometime."
-    mh "我很抱歉搞得很尴尬。希望我们有机会再试一次。"
+    mh "抱歉搞得这么尴尬。希望我们有机会再来一次。"
 
 # game/code/e02/e02s07.rpy:147
 translate chinese e02s07_fe12d3cd:
@@ -298,7 +298,7 @@ translate chinese e02s07_849d124b:
 translate chinese e02s07_next_day_7bc13352:
 
     # ms "Hello...?"
-    ms "你好...？"
+    ms "嘿...？"
 
 # game/code/e02/e02s07.rpy:175
 translate chinese e02s07_next_day_7966990d:
@@ -370,7 +370,7 @@ translate chinese e02s07_next_day_99eb9a77:
 translate chinese e02s07_next_day_0c5424a6:
 
     # mh "Go right ahead, but don't feel like you need to explain anything."
-    mh "尽管说，但不要觉得你需要解释任何事情。"
+    mh "有话尽管说，但不要觉得你需要解释任何事情。"
 
 # game/code/e02/e02s07.rpy:209
 translate chinese e02s07_next_day_8a0ed7df:
@@ -442,13 +442,13 @@ translate chinese e02s07_next_day_eebef2ab:
 translate chinese e02s07_next_day_651e6ee9:
 
     # mc "It is definitely something to be proud of."
-    mc "这绝对是件值得骄傲的事情。"
+    mc "这绝对是件值得骄傲的事。"
 
 # game/code/e02/e02s07.rpy:243
 translate chinese e02s07_next_day_bf4d36ae:
 
     # ms "Please don't misunderstand. We're both lesbians."
-    ms "请不要误解。我们都是女同。"
+    ms "请不要误会。我们都是女同。"
 
 # game/code/e02/e02s07.rpy:246
 translate chinese e02s07_next_day_2e77fba3:
@@ -472,13 +472,13 @@ translate chinese e02s07_next_day_51d66c67:
 translate chinese e02s07_next_day_9eddff96:
 
     # ms "You forget that I was in the closet a lot longer than you."
-    ms "你忘了我在壁橱里待的时间比你长得多。"
+    ms "你忘了我在柜子里待的时间比你长得多。"
 
 # game/code/e02/e02s07.rpy:258
 translate chinese e02s07_next_day_f65d7224:
 
     # dn "Oh, right. You were even married for a while."
-    dn "哦，对了。你甚至还结过一次婚。"
+    dn "哦，对哈。你甚至还结过一次婚。"
 
 # game/code/e02/e02s07.rpy:261
 translate chinese e02s07_next_day_7c58093f:
@@ -514,7 +514,7 @@ translate chinese e02s07_next_day_73cf4df7:
 translate chinese e02s07_next_day_f2cdf5a1:
 
     # ms "Anyway, Dorothy's less experienced than I am, but I've never even seen a guy your size before."
-    ms "不管怎样，多萝西的经验比我少，但我从来没见过你这么大的。"
+    ms "不管怎样，我的经验比多萝西要多，但我从来没见过你这么大的。"
 
 # game/code/e02/e02s07.rpy:277
 translate chinese e02s07_next_day_92dc2dd1:
@@ -562,13 +562,13 @@ translate chinese e02s07_next_day_bad8c937:
 translate chinese e02s07_next_day_55a1cadd:
 
     # mc "It works for us. We love being together."
-    mc "对我们很有效。我们喜欢在一起。"
+    mc "完全可以。我们喜欢在一起。"
 
 # game/code/e02/e02s07.rpy:301
 translate chinese e02s07_next_day_ace79fd0:
 
     # dn "No, I mean. Your...{w} Lyssa's penis. Does it work?"
-    dn "不，我是说。你的...{w} 丽莎的阴茎。管用吗？"
+    dn "不，我是说。你的...{w} 丽莎的鸡巴。管用吗？"
 
 # game/code/e02/e02s07.rpy:304
 translate chinese e02s07_next_day_611380f9:
@@ -586,7 +586,7 @@ translate chinese e02s07_next_day_693a6f7c:
 translate chinese e02s07_next_day_a8996523:
 
     # ms "Ha! I don't think that will be necessary."
-    ms "哈!我认为这没有必要。"
+    ms "哈！我认为这没有必要。"
 
 # game/code/e02/e02s07.rpy:313
 translate chinese e02s07_next_day_3f54d885:
@@ -604,7 +604,7 @@ translate chinese e02s07_next_day_af2eff15:
 translate chinese e02s07_next_day_376b16ed:
 
     # mct "I feel like I should say something here, but I can't imagine what."
-    mct "我觉得我应该在这里说点什么，但实在想不出该说什么。"
+    mct "我觉得我应该在这里说点什么，但又实在想不出该说什么。"
 
 # game/code/e02/e02s07.rpy:319
 translate chinese e02s07_next_day_1b5a10dc:
@@ -658,7 +658,7 @@ translate chinese e02s07_next_day_b3db475b:
 translate chinese e02s07_next_day_fe9b398a:
 
     # mh "You mentioned you both were having some problem - psychological or physiological."
-    mh "你提到你们俩都有一些问题，介意告诉我具体是什么问题吗？"
+    mh "你提到你们俩都有一些问题--心理上或生理上的都有。"
 
 # game/code/e02/e02s07.rpy:342
 translate chinese e02s07_next_day_121221e2:
@@ -688,7 +688,7 @@ translate chinese e02s07_next_day_07c08bf9:
 translate chinese e02s07_next_day_a63b29c9:
 
     # dn "We tend to just masturbate while watching each other."
-    dn "我们往往只是一边看着对方一边自慰。"
+    dn "我们往往只是一边看着对方，一边自慰。"
 
 # game/code/e02/e02s07.rpy:355
 translate chinese e02s07_next_day_b7801123:
@@ -706,13 +706,13 @@ translate chinese e02s07_next_day_43ba98cf:
 translate chinese e02s07_next_day_2887e91f:
 
     # mct "Mmmmmmm..."
-    mct "Mmmmmmm..."
+    mct "这样啊..."
 
 # game/code/e02/e02s07.rpy:363
 translate chinese e02s07_next_day_71d00b98:
 
     # mh "I hope you don't mind if I touch my man for some inspiration."
-    mh "如果我向我的男人寻求灵感，希望你不介意"
+    mh "如果我向我的男人寻求灵感，希望你们不要介意。"
 
 # game/code/e02/e02s07.rpy:364
 translate chinese e02s07_next_day_75fc7a42:
@@ -760,7 +760,7 @@ translate chinese e02s07_next_day_9d94176d:
 translate chinese e02s07_next_day_6d19c89e:
 
     # ms "I mean... we've both found that kinda weird."
-    ms "我的意思是...我们都觉得那东西有点奇怪。"
+    ms "说实话...我们都觉得那东西有点奇怪。"
 
 # game/code/e02/e02s07.rpy:386
 translate chinese e02s07_next_day_6c7dee61:
@@ -784,13 +784,13 @@ translate chinese e02s07_next_day_d9b2a74b:
 translate chinese e02s07_next_day_4fb57ad6:
 
     # ms "No, nothing like that. Just unpleasant. Trying to date guys in college. That sort of thing."
-    ms "不，不是那样的。只是不愉快。试着和大学男生约会。诸如此类的事情。"
+    ms "不，不是那样的。我的经历只是不愉快。试着和大学男生约会。诸如此类的事情。"
 
 # game/code/e02/e02s07.rpy:398
 translate chinese e02s07_next_day_73513046:
 
     # mh "Oh, okay. But if I can be honest - neither of you seem turned off at the moment."
-    mh "哦，好吧。但如果我可以说实话的话---你们俩现在似乎都没有性趣。"
+    mh "哦，好吧。但如果我可以说实话的话--你们俩现在似乎都没有性趣。"
 
 # game/code/e02/e02s07.rpy:401
 translate chinese e02s07_next_day_73a17d43:
@@ -802,7 +802,7 @@ translate chinese e02s07_next_day_73a17d43:
 translate chinese e02s07_sex_5418677f:
 
     # mh "Would you mind if I took things up another notch. Either here or somewhere more-"
-    mh "你不介意我再加一个档次吧？要么在这里，要么在别的地方--"
+    mh "你不介意我再加点速吧？要么在这里，要么在别的地方--"
 
 # game/code/e02/e02s07.rpy:412
 translate chinese e02s07_sex_ea20057d:
@@ -826,7 +826,7 @@ translate chinese e02s07_sex_d24ec167:
 translate chinese e02s07_sex_e613cdc5:
 
     # dn "Huh?{w} Oh! No, I mean, it's very impressive, but... no."
-    dn "啊？{w}哦!不，我是说，你的家伙很令人印象深刻，但是...不行。"
+    dn "啊？{w}不，我是说，你的家伙很令人印象深刻，但是...不行。"
 
 # game/code/e02/e02s07.rpy:424
 translate chinese e02s07_sex_464c21b3:
@@ -844,13 +844,13 @@ translate chinese e02s07_sex_854c88fd:
 translate chinese e02s07_sex_c9dc6e4e:
 
     # dn "Wow. I can't even imagine."
-    dn "哇。我甚至无法想象。"
+    dn "哇。我甚至无法想象那个画面。"
 
 # game/code/e02/e02s07.rpy:433
 translate chinese e02s07_sex_cbd14c85:
 
     # ms "I mean, we have a lot of gay friends, and most of them don't even do that."
-    ms "我的意思是，我们有很多同性恋朋友，但他们中的大多数人都不这么做。"
+    ms "其实，我们有很多同性恋朋友，但他们中的大多数人都不这么做。"
 
 # game/code/e02/e02s07.rpy:434
 translate chinese e02s07_sex_712ec157:
@@ -880,7 +880,7 @@ translate chinese e02s07_sex_a1278a2c:
 translate chinese e02s07_sex_f332309f:
 
     # mh "What do you think, [mcname], shall we give them a show?"
-    mh "你觉得怎么样，我们给他们表演一场好吗？"
+    mh "[mcname]，你觉得怎么样，我们给他们表演一场好吗？"
 
 # game/code/e02/e02s07.rpy:447
 translate chinese e02s07_sex_55398db2:
@@ -898,7 +898,7 @@ translate chinese e02s07_sex_9c939752:
 translate chinese e02s07_sex_d40c4a94:
 
     # mh "Two are purely physiological, while the third is purely psychological."
-    mh "两种是纯生理的，而第三种是纯心理的。"
+    mh "前两个部分是纯生理的，而第三个部分是纯心理的。"
 
 # game/code/e02/e02s07.rpy:467
 translate chinese e02s07_sex_89907c35:
@@ -922,7 +922,7 @@ translate chinese e02s07_sex_b39ab373:
 translate chinese e02s07_sex_d7a0865e:
 
     # mh "But a portion of your conscious mind - whether giving or receiving - has to be focused on avoiding injury."
-    mh "但是--无论你是主导还是接受的一方，你的一部分意识，必须集中在避免伤害上。"
+    mh "但是--无论你是主导还是顺从的一方，你的一部分意识，必须集中在避免伤害上。"
 
 # game/code/e02/e02s07.rpy:481
 translate chinese e02s07_sex_8adb63fe:
@@ -958,7 +958,7 @@ translate chinese e02s07_sex_956a52e4:
 translate chinese e02s07_sex_03bf35b6:
 
     # mc "Whether you are experiencing a domination fantasy or sexually bonding with a loved one."
-    mc "无论你是在脑中编织那种支配性幻想还是与爱人实际发生性关系。"
+    mc "无论你是在脑中编织那种支配性幻想，还是与爱人实际发生性关系。"
 
 # game/code/e02/e02s07.rpy:502
 translate chinese e02s07_sex_b5d9e393:
@@ -970,13 +970,13 @@ translate chinese e02s07_sex_b5d9e393:
 translate chinese e02s07_sex_af9be820:
 
     # mc "Of course, when you're experienced like we are, surprises-"
-    mc "当然，当你像我们一样有经验的时候，惊喜--"
+    mc "当然，当你像我们一样有经验的时候，就会有惊喜--"
 
 # game/code/e02/e02s07.rpy:509
 translate chinese e02s07_sex_67bca752:
 
     # mh "Like THIS!!!"
-    mh "像这样!!"
+    mh "像这样!!!"
 
 # game/code/e02/e02s07.rpy:510
 translate chinese e02s07_sex_0f9bb7af:
@@ -1006,7 +1006,7 @@ translate chinese e02s07_sex_64141834:
 translate chinese e02s07_sex_7c4e910a:
 
     # ms "Holy Fuck! Are you okay?!"
-    ms "操!你还好吗?!"
+    ms "操！你还好吗?!"
 
 # game/code/e02/e02s07.rpy:529
 translate chinese e02s07_sex_0e50c033:
@@ -1114,7 +1114,7 @@ translate chinese e02s07_sex_end_51e3a2fe:
 translate chinese e02s07_sex_end_885857bb:
 
     # mc "We're just glad you enjoyed the show."
-    mc "我们很高兴你喜欢这个节目。"
+    mc "我们很高兴你喜欢这个表演。"
 
 # game/code/e02/e02s07.rpy:591
 translate chinese e02s07_sex_end_dfe618b0:
@@ -1132,7 +1132,7 @@ translate chinese e02s07_sex_end_08c00270:
 translate chinese e02s07_sex_end_6a1f7c7d:
 
     # mh "Completely understandable. Hopefully we'll see you again soon."
-    mh "完全可以理解。希望能很快再见到你"
+    mh "完全可以理解。希望能很快再见到你们。"
 
 # game/code/e02/e02s07.rpy:600
 translate chinese e02s07_sex_end_47dee278:
@@ -1156,7 +1156,7 @@ translate chinese e02s07_sex_end_7680b63d:
 translate chinese e02s07_sex_end_6f9cc2a5:
 
     # mh "Thank you, but I meant that we gained insight into their problem and potential solutions."
-    mh "谢谢你，但我的意思是我们深入了解了他们的问题，也有了潜在的解决方案。"
+    mh "谢谢你这么说，但我的意思是我们深入了解了他们的问题，也有了潜在的解决方案。"
 
 # game/code/e02/e02s07.rpy:612
 translate chinese e02s07_sex_end_1d1ca2a1:
@@ -1216,7 +1216,7 @@ translate chinese e02s07_next_day_2_1fcda2b0:
 translate chinese e02s07_next_day_2_424de9cd:
 
     # dn "Finally! I was afraid... we haven't seen you around much since the other day."
-    dn "终于!我很害怕...自从那天以后我们就没怎么见到你了。"
+    dn "终于见到了！我很害怕...自从那天以后我们就没怎么见到你们了。"
 
 # game/code/e02/e02s07.rpy:654
 translate chinese e02s07_next_day_2_166eb059:
@@ -1252,19 +1252,19 @@ translate chinese e02s07_next_day_2_f0c52359:
 translate chinese e02s07_next_day_2_3e248d04:
 
     # dn "Still, we've been looking forward to seeing you again."
-    dn "不过，我们还是很期待再次见到你。"
+    dn "不过，我们还是很期待再次见到你们。"
 
 # game/code/e02/e02s07.rpy:672
 translate chinese e02s07_next_day_2_11588ea1:
 
     # mh "Does that mean your dry spell is over?"
-    mh "所以你的枯燥期结束了吗？"
+    mh "所以你们的枯燥期结束了吗？"
 
 # game/code/e02/e02s07.rpy:675
 translate chinese e02s07_next_day_2_b9ac94ae:
 
     # ms "Um.. not really, no."
-    ms "嗯. .还没完全结束，所以答案是没有。"
+    ms "嗯... 还没完全结束，所以答案是没有。"
 
 # game/code/e02/e02s07.rpy:678
 translate chinese e02s07_next_day_2_7548aebe:
@@ -1282,7 +1282,7 @@ translate chinese e02s07_next_day_2_bbdaa207:
 translate chinese e02s07_next_day_2_cac18cbf:
 
     # dn "Oh, thank you.{w} We didn't get you anything."
-    dn "哦，谢谢你。{w}我们没给你买任何东西。"
+    dn "哦，谢谢你。{w}我们没给你们买任何东西。"
 
 # game/code/e02/e02s07.rpy:687
 translate chinese e02s07_next_day_2_dff5f902:
@@ -1312,7 +1312,7 @@ translate chinese e02s07_next_day_2_5cb80a0c:
 translate chinese e02s07_next_day_2_66383469:
 
     # dn "I'm not naive. I'm just... surprised."
-    dn "我并不天真。只是...惊讶。"
+    dn "我不是天真。只是...惊讶。"
 
 # game/code/e02/e02s07.rpy:702
 translate chinese e02s07_next_day_2_388a8e1d:
@@ -1324,7 +1324,7 @@ translate chinese e02s07_next_day_2_388a8e1d:
 translate chinese e02s07_next_day_2_77eeef1a:
 
     # ms "I mean, I suppose it's worth a try."
-    ms "我的意思是，我想这值得一试。"
+    ms "我在想，这还挺值得一试。"
 
 # game/code/e02/e02s07.rpy:708
 translate chinese e02s07_next_day_2_a17c6c8c:
@@ -1336,7 +1336,7 @@ translate chinese e02s07_next_day_2_a17c6c8c:
 translate chinese e02s07_next_day_2_80981cf1:
 
     # mc "What is it? Lyssa wouldn't tell me."
-    mc "是什么？丽莎不肯告诉我。"
+    mc "是什么啊？丽莎不肯告诉我。"
 
 # game/code/e02/e02s07.rpy:714
 translate chinese e02s07_next_day_2_546cbead:
@@ -1384,7 +1384,7 @@ translate chinese e02s07_next_day_2_f76fc63b:
 translate chinese e02s07_next_day_2_7369277e:
 
     # mc "The largest cock in the room, as Lyssa is so fond of saying."
-    mc "丽莎总爱说，他有着屋子里最大的鸡巴。"
+    mc "丽莎总爱说，她有着屋子里最大的鸡巴。"
 
 # game/code/e02/e02s07.rpy:731
 translate chinese e02s07_next_day_2_7c2bc076:
@@ -1396,7 +1396,7 @@ translate chinese e02s07_next_day_2_7c2bc076:
 translate chinese e02s07_next_day_2_4984f654:
 
     # mc "Oh, right. I still haven't figured out if she's talking about me or not."
-    mc "哦，对了。我还是没搞清楚她是不是在说我。"
+    mc "对。我还是没搞清楚她是不是在说我。"
 
 # game/code/e02/e02s07.rpy:737
 translate chinese e02s07_next_day_2_e098e18c:
@@ -1414,7 +1414,7 @@ translate chinese e02s07_next_day_2_a09880ab:
 translate chinese e02s07_next_day_2_9fd7d7b2:
 
     # mh "So, it isn't actually the physical penis you found unattractive or bothersome. It was their association with men."
-    mh "所以，并不是你觉得真正的阴茎没有吸引力或令人讨厌。是它们与男人的联系的问题。"
+    mh "所以，并不是你觉得真正的鸡巴没有吸引力或令人讨厌。是它们与男人的联系的问题。"
 
 # game/code/e02/e02s07.rpy:745
 translate chinese e02s07_next_day_2_ece082c1:
@@ -1462,7 +1462,7 @@ translate chinese e02s07_next_day_2_f23b72c1:
 translate chinese e02s07_next_day_2_772ea6fa:
 
     # ms "You implied that you've had a woman use a strap-on before?"
-    ms "你是说你以前让一个女人用过绑带？"
+    ms "你是说你以前让女人用过绑带？"
 
 # game/code/e02/e02s07.rpy:763
 translate chinese e02s07_next_day_2_77c14bb2:
@@ -1474,19 +1474,19 @@ translate chinese e02s07_next_day_2_77c14bb2:
 translate chinese e02s07_next_day_2_c80ee012:
 
     # mh "No, Dorothy. I just removed them from the package and made them ready for use."
-    mh "不，多萝西。我只是把它们从包装中取出来，准备使用。"
+    mh "放心，多萝西。我只是把它们从包装中取出来，准备使用。"
 
 # game/code/e02/e02s07.rpy:769
 translate chinese e02s07_next_day_2_12ed6dda:
 
     # dn "Oh, of course. What was I thinking?"
-    dn "哦，当然。我当时在想什么呢？"
+    dn "哦，当然了。我刚刚在想什么呢？"
 
 # game/code/e02/e02s07.rpy:772
 translate chinese e02s07_next_day_2_bd958d55:
 
     # ms "What I meant was... do you think you could show us how?"
-    ms "我的意思是...你能告诉我们怎么做吗？"
+    ms "那我在想...你能告诉我们怎么做吗？"
 
 # game/code/e02/e02s07.rpy:773
 translate chinese e02s07_next_day_2_73c8c81a:
@@ -1522,13 +1522,13 @@ translate chinese e02s07_strap_on_3a989a65:
 translate chinese e02s07_strap_on_46149f8b:
 
     # dn "Okay, but don't I need to be standing or... on top of her?"
-    dn "好吧，但我不需要站着吗或者...在她上面？"
+    dn "好吧，但我不需要站着吗，或者...在她上面？"
 
 # game/code/e02/e02s07.rpy:796
 translate chinese e02s07_strap_on_f8440e92:
 
     # mh "Not this time. We're going to start with you seated and allow Mikaela to sit on your cock."
-    mh "这次不用。我们先让你坐下，让米凯拉坐在你的鸡巴上"
+    mh "这次不用。我们先让你坐下，让米凯拉坐在你的鸡巴上。"
 
 # game/code/e02/e02s07.rpy:799
 translate chinese e02s07_strap_on_7787231d:
@@ -1570,7 +1570,7 @@ translate chinese e02s07_strap_on_cf2f0030:
 translate chinese e02s07_strap_on_f132ec53:
 
     # dn "When else will we have experts available to make sure we do it correctly?"
-    dn "我们什么时候才能有专家教导，确保我们做的对呢"
+    dn "不然我们什么时候才能有专家教导，确保我们做的对呢？"
 
 # game/code/e02/e02s07.rpy:829
 translate chinese e02s07_strap_on_0bc1e557:
@@ -1636,13 +1636,13 @@ translate chinese e02s07_strap_on_712afab5:
 translate chinese e02s07_strap_on_e363ccf9:
 
     # ms "I really think we will be. Thank you.{w} Thank you both."
-    ms "我真的认为我们会很好的。{w}谢谢你！谢谢你们俩。"
+    ms "我真的觉得我们会很好的。谢谢你！{w}谢谢你们俩。"
 
 # game/code/e02/e02s07.rpy:868
 translate chinese e02s07_strap_on_2b0c4752:
 
     # dn "I agree. *chuckle*{w} I think we've really had a breakthrough here today."
-    dn "我同意。*轻笑*{w}我想我们今天真的取得了突破。"
+    dn "我同意。*轻笑*{w} 我想我们今天真的取得了突破。"
 
 # game/code/e02/e02s07.rpy:871
 translate chinese e02s07_strap_on_e4dafc0d:
