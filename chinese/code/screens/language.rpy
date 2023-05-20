@@ -4,5 +4,5 @@ translate chinese strings:
 
     # game/code/screens/language.rpy:21
     old "Switch Language"
-    new "Switch Language"
+    new "切换语言"
 
