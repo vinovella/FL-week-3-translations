@@ -8,7 +8,7 @@ translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:62
     old "Please type a name for the save file below and click save"
-    new "请在下方输入保存文件的名称并点击保存""
+    new "请在下方输入保存文件的名称并点击保存"
 
     # game/code/screens/screens_fl.rpy:70
     old "This will allow you to start the endings without losing your progress"
