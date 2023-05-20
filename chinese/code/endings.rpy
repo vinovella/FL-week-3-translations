@@ -70,9 +70,9 @@ translate chinese strings:
     old "Ending #8\nMy Happy Ginger Family"
     new "Ending #8\nMy Happy Ginger Family"
 
-    # game/code/endings.rpy:114
-    old "Ending #09\nFetish Locator Rebooted"
-    new "Ending #09\nFetish Locator Rebooted"
+    # game/code/endings.rpy:124
+    old "Ending #09\nFetish Locator: Rebooted"
+    new "Ending #09\nFetish Locator: Rebooted"
 
     # game/code/endings.rpy:128
     old "Ending #10\nRunaway"
@@ -109,4 +109,3 @@ translate chinese strings:
     # game/code/endings.rpy:239
     old "Ending #18\nQuartet"
     new "Ending #18\nQuartet"
-

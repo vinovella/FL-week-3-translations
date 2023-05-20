@@ -1287,3 +1287,11 @@ translate chinese e02s01_give_pleasure_f7d6991f:
 
     # mh "Fuck me harder!"
     mh "狠狠地插我！"
+    
+# TODO: Translation updated at 2023-05-20 17:22
+
+translate chinese strings:
+
+    # game/code/e02/e02s01.rpy:62
+    old "Ending #2\nSnowy Peaks"
+    new "Ending #2\nSnowy Peaks"

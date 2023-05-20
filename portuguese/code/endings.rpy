@@ -42,10 +42,6 @@ translate portuguese strings:
     old "Ending #1\nS&M Studio"
     new "Final #1\nEstúdio S&M"
 
-    # game/code/endings.rpy:20
-    old "Ending #2\nLyssa Runaway"
-    new "Final #2\nFugindo com Lyssa"
-
     # game/code/endings.rpy:33
     old "Ending #3\nTwo Girls Two Dicks"
     new "Final #3\nDuas Garotas Dois Paus"
@@ -70,9 +66,9 @@ translate portuguese strings:
     old "Ending #8\nMy Happy Ginger Family"
     new "Final #8\nMinha Família Ruiva Feliz"
 
-    # game/code/endings.rpy:114
-    old "Ending #09\nFetish Locator Rebooted"
-    new "Final #09\nFetish Locator Reiniciado"
+    # game/code/endings.rpy:124
+    old "Ending #09\nFetish Locator: Rebooted"
+    new ""
 
     # game/code/endings.rpy:128
     old "Ending #10\nRunaway"
@@ -109,7 +105,3 @@ translate portuguese strings:
     # game/code/endings.rpy:239
     old "Ending #18\nQuartet"
     new "Final #18\nQuarteto"
-
-
-
-

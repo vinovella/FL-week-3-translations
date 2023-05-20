@@ -1287,3 +1287,11 @@ translate portuguese e02s01_give_pleasure_f7d6991f:
 
     # mh "Fuck me harder!"
     mh "Me fode mais forte!"
+
+# TODO: Translation updated at 2023-05-20 17:24
+
+translate portuguese strings:
+
+    # game/code/e02/e02s01.rpy:62
+    old "Ending #2\nSnowy Peaks"
+    new ""
