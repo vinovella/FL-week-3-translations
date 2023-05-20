@@ -162,3 +162,39 @@ translate chinese strings:
     old "Ending 10: Min"
     new "Ending 10: Min"
 
+# TODO: Translation updated at 2023-05-20 23:18
+
+translate chinese strings:
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 21: Stacy"
+    new "Day 21: Stacy"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 21: Lyssa"
+    new "Day 21: Lyssa"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 21: Min"
+    new "Day 21: Min"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Unlock Waterfall Ending"
+    new "Unlock Waterfall Ending"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Spend time with everyone"
+    new "Spend time with everyone"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Ending 06: Harem"
+    new "Ending 06: Harem"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Ending 06: Marriage"
+    new "Ending 06: Marriage"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Ending 08: AmRose & Stacy"
+    new "Ending 08: AmRose & Stacy"
+

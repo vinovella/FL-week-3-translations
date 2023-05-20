@@ -114,3 +114,39 @@ translate portuguese strings:
     old "Day 20: Stacy & AmRose"
     new ""
 
+# TODO: Translation updated at 2023-05-20 23:17
+
+translate portuguese strings:
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 21: Stacy"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 21: Lyssa"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 21: Min"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Unlock Waterfall Ending"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Spend time with everyone"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Ending 06: Harem"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Ending 06: Marriage"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Ending 08: AmRose & Stacy"
+    new ""
+
