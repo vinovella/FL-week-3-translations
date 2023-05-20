@@ -156,11 +156,11 @@ translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:783
     old "Romance"
-    new "浪漫关系"
+    new "浪漫"
 
     # game/code/screens/screens_fl.rpy:786
     old "Slave"
-    new "奴隶关系"
+    new "奴隶"
 
     # game/code/screens/screens_fl.rpy:794
     old "Did you kiss her?"
