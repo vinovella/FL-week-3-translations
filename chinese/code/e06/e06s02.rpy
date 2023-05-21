@@ -1610,5 +1610,5 @@ translate chinese strings:
 translate chinese e06s02_40511e6c:
 
     # "*knock knock*"
-    "*knock knock*"
+    "*咚咚咚*"
 
