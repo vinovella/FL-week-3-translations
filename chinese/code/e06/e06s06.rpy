@@ -1246,3 +1246,11 @@ translate chinese strings:
     old "Fuck Lyssa while she fucks AmRose"
     new "在丽莎操爱洛丝的时候操她"
 
+# TODO: Translation updated at 2023-05-21 16:02
+
+# game/code/e06/e06s06.rpy:149
+translate chinese e06s06_d14a3c55:
+
+    # lc "Yes, so I am well aware of all the girls he's been with."
+    lc "Yes, so I am well aware of all the girls he's been with."
+

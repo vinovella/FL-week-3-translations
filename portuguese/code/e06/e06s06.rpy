@@ -1265,3 +1265,11 @@ translate portuguese e06s06_finish_1_04a9c018:
 
     # mh "That's it, [mcname]. Show Lydia how you make me cum!"
     mh "Isso, [mcname]. Mostra para a Lydia que pode me dar um orgasmo!"
+
+# TODO: Translation updated at 2023-05-21 16:03
+
+# game/code/e06/e06s06.rpy:149
+translate portuguese e06s06_d14a3c55:
+
+    # lc "Yes, so I am well aware of all the girls he's been with."
+    lc ""

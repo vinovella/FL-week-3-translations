@@ -1961,3 +1961,18 @@ translate chinese strings:
     # game/code/e06/e06s08.rpy:1185
     old "Lydia should Rim Lyssa's ass"
     new "莉迪亚应该给丽莎舔肛"
+
+# TODO: Translation updated at 2023-05-21 16:02
+
+# game/code/e06/e06s08.rpy:1233
+translate chinese d06s08_mh_0aa48b5e:
+
+    # mh "Ahhhhaahh..."
+    mh "Ahhhhaahh..."
+
+# game/code/e06/e06s08.rpy:1234
+translate chinese d06s08_mh_25ab182b:
+
+    # mh "Ohhh....."
+    mh "Ohhh....."
+
