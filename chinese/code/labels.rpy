@@ -612,3 +612,11 @@ translate chinese metalknock2_40511e6c:
     # "*knock knock*"
     "*咚咚咚*"
 
+# TODO: Translation updated at 2023-05-21 19:30
+
+translate chinese strings:
+
+    # game/code/labels.rpy:71
+    old "The legendary Fetish Locator will return"
+    new "The legendary Fetish Locator will return"
+

@@ -612,3 +612,11 @@ translate portuguese metalknock2_40511e6c:
     # "*knock knock*"
     ""
 
+# TODO: Translation updated at 2023-05-21 19:30
+
+translate portuguese strings:
+
+    # game/code/labels.rpy:71
+    old "The legendary Fetish Locator will return"
+    new ""
+
