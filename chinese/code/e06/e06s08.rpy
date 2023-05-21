@@ -1960,4 +1960,4 @@ translate chinese strings:
 
     # game/code/e06/e06s08.rpy:1185
     old "Lydia should Rim Lyssa's ass"
-    new "Lydia should Rim Lyssa's ass"
+    new "莉迪亚应该给丽莎舔肛"
