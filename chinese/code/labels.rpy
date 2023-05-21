@@ -172,7 +172,7 @@ translate chinese after_credits_cc737886:
 translate chinese after_credits_03951422:
 
     # dd "Well, looks like our little Stacy will get her own game! \"Fetish Locator: S&M Studio\""
-    dd "看来我们的小史黛西要有自己的游戏了！\"性趣探测器:S&M工作室\"
+    dd "看来我们的小史黛西要有自己的游戏了！\"性趣探测器:S&M工作室\""
 
 # game/code/labels.rpy:255
 translate chinese after_credits_f459c72f:
@@ -328,7 +328,7 @@ translate chinese after_credits_db88b20d:
 translate chinese after_credits_03e2d309:
 
     # sm "Nia wanted to join us today as well, but she was busy because they are making her scenes right now."
-    sm "妮娅今天也想加入我们，但她很忙，因为他们现在正在拍她的戏。""
+    sm "妮娅今天也想加入我们，但她很忙，因为他们现在正在拍她的戏。"
 
 # game/code/labels.rpy:402
 translate chinese after_credits_994a6d04:
@@ -454,7 +454,7 @@ translate chinese after_credits_7a7dcdb0:
 translate chinese after_credits_cbfc591a:
 
     # jh "Lara!"
-    jh "劳拉！
+    jh "劳拉！"
 
 # game/code/labels.rpy:492
 translate chinese after_credits_090df343:
@@ -592,7 +592,7 @@ translate chinese after_credits_050e12e8:
 translate chinese buzz_4377a2f7:
 
     # "Bzzzzz" with hpunch
-    "嗡嗡" 带着震动
+    "嗡嗡" with hpunch
 
 # game/code/labels.rpy:748
 translate chinese knock_40511e6c:
