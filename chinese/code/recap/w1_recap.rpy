@@ -58,7 +58,7 @@ translate chinese week_1_recap_36fc2c74:
 translate chinese week_1_recap_68dd0c96:
 
     # "Pete told [mcname] that Lydia would be at a Fetish Locator Party on Wednesday night, and that tickets cost 50 points!"
-    "皮特告诉[mcname]，莉迪亚会在周三晚上参加性趣探测器派对，门票要50点数！"
+    "皮特告诉[mcname]，莉迪亚会在周三晚上参加性趣探测器派对，门票竟要50点数！"
 
 # game/code/recap/w1_recap.rpy:100
 translate chinese week_1_recap_e80640e1:
@@ -106,7 +106,7 @@ translate chinese week_1_recap_f8994342:
 translate chinese week_1_recap_de2927bf:
 
     # "As luck would have it, it was Lydia that found him later on. Just as they were getting know each other, she was dragged away."
-    "幸运的是，后来是莉迪亚找到了他。就在他们互相了解的时候，她被拖走了。"
+    "幸运的是，后来是莉迪亚找到了他。就在两人互相了解的时候，她被拖走了。"
 
 # game/code/recap/w1_recap.rpy:121
 translate chinese week_1_recap_6cf9d740:
@@ -154,7 +154,7 @@ translate chinese week_1_recap_420c50f5:
 translate chinese week_1_recap_4e380477:
 
     # "The next day Lydia and [mcname] met for a \"coffee date\". It turned out that the barista, Nora was Lydia's biggest fan. Knowing Nora's business was struggling, a plan to help her out artsted forming in [mcname]'s mind."
-    "第二天，莉迪亚和[mcname]见面了，进行了一次 咖啡约会。结果发现，咖啡师诺拉是莉迪亚的头号粉丝。知道诺拉的生意面临困境，一个帮助她的计划在[mcname]的脑海中形成。"
+    "第二天，莉迪亚和[mcname]见面了，进行了一次\"咖啡约会\"。结果发现，咖啡师诺拉是莉迪亚的头号粉丝。知道诺拉的生意面临困境后，一个帮助她的计划在[mcname]的脑海中形成。"
 
 # game/code/recap/w1_recap.rpy:141
 translate chinese week_1_recap_7cfba814:
@@ -166,7 +166,7 @@ translate chinese week_1_recap_7cfba814:
 translate chinese week_1_recap_bb3abcff:
 
     # "Unfortunately, his coffee date with the love of his life was interrupted by AmRose..."
-    "不幸的是，他和一生挚爱的咖啡约会被爱洛丝打断了"
+    "不幸的是，他和一生挚爱的咖啡约会被爱洛丝打断了..."
 
 # game/code/recap/w1_recap.rpy:146
 translate chinese week_1_recap_71349784:
@@ -190,7 +190,7 @@ translate chinese week_1_recap_f49a455e:
 translate chinese week_1_recap_8aa2a88d:
 
     # "[mcname] came to her rescue, and in the process learned that she was being blackmailed and coerced by someone at Fetish Locator."
-    "[mcname]来救她，拯救过程中中得知她被性趣探测器的人勒索加胁迫。"
+    "[mcname]来救她，拯救过程中中得知，她竟被性趣探测器的人勒索加胁迫。"
 
 # game/code/recap/w1_recap.rpy:156
 translate chinese week_1_recap_3a50e437:
@@ -202,19 +202,19 @@ translate chinese week_1_recap_3a50e437:
 translate chinese week_1_recap_bb08f530:
 
     # "When he tried to delete the app from his phone, he too got put into the VIP Fetish Challenge Program."
-    "当他试图从手机上删除该应用程序时，他也被列入了VIP性癖挑战计划。"
+    "当他试图从手机上删除该应用程序时，也被列入了VIP性癖挑战计划。"
 
 # game/code/recap/w1_recap.rpy:160
 translate chinese week_1_recap_e8352572:
 
     # "He was being blackmailed as well, by something called the Fetish Locator Retention Program."
-    "H他也被一个叫性趣探测器留存计划的东西勒索了。"
+    "他也被一个叫“性趣探测器留存计划”的东西勒索了。"
 
 # game/code/recap/w1_recap.rpy:162
 translate chinese week_1_recap_ef06a9fa:
 
     # "In the morning he was given a personal challenge. He had to earn 50 points by Monday morning."
-    "早上，他被指定了一个个人挑战。他必须在星期一早上之前获得50点数。"
+    "早上，[mcname]被指定了一个个人挑战。他必须在星期一早上之前获得50点数。"
 
 # game/code/recap/w1_recap.rpy:165
 translate chinese week_1_recap_cc19b596:
@@ -304,13 +304,13 @@ translate chinese week_1_recap_14c3b0f0:
 translate chinese week_1_recap_915c01b3:
 
     # "On Sunday, [mcname] set Pete on the task of finding Stacy's luggage while he headed out to the beach with AmRose and Stacy for the \"Officially Unofficial\" start of the summer."
-    "周日，[mcname]让皮特去找史黛西的行李，而他则和爱洛丝及史黛西一起去海滩，迎接夏天的\"正式的非正式开始活动\"。"
+    "周日，[mcname]让皮特去找史黛西的行李，而他则和爱洛丝及史黛西一起去海滩，迎接夏天的\"正式的非正式活动\"。"
 
 # game/code/recap/w1_recap.rpy:203
 translate chinese week_1_recap_945b1609:
 
     # "Surprisingly, while he was swimming he was picked up by Hana - the girl he had spied in Pete's bed almost a week earlier. She revealed that Pete was involved in Fetish Locator."
-    "令人惊讶的是，当他游泳的时候，他被哈娜接走了--正是在一周前，他在皮特的床上窥见的那个女孩。她透露，皮特参与了性趣探测器。"
+    "令人惊讶的是，当[mcname]游泳的时候，他被哈娜接走了--正是在一周前，他在皮特的床上窥见的那个女孩。她透露，皮特参与了性趣探测器。"
 
 # game/code/recap/w1_recap.rpy:206
 translate chinese week_1_recap_9c77fda8:
@@ -376,7 +376,7 @@ translate chinese week_1_recap_8bd42629:
 translate chinese week_1_recap_e39abc29:
 
     # "During the Magic & Mysticism Event, [mcname] experienced something inexplicably strange."
-    "在魔法与神秘活动期间，[mcname]经历了难以解释的难忘体验。"
+    "在“魔法与神秘活动”期间，[mcname]经历了难以解释的难忘体验。"
 
 # game/code/recap/w1_recap.rpy:233
 translate chinese week_1_recap_429b4c60:
@@ -418,7 +418,7 @@ translate chinese week_1_recap_5fae5b32:
 translate chinese week_1_recap_e6b41de0:
 
     # "Although he pushed his luck too far when he creampied her without asking first, and Nora threw him out."
-    "虽然他没事先问她就上了她，让两人都冒了极大的风险，诺拉把他赶了出去。"
+    "虽然[mcname]没事先问她就上了她，让两人都冒了极大的风险，诺拉把他赶了出去。"
 
 # game/code/recap/w1_recap.rpy:253
 translate chinese week_1_recap_2d5282ed:
@@ -436,7 +436,7 @@ translate chinese week_1_recap_732bfaab:
 translate chinese week_1_recap_4e505416:
 
     # "Wednesday morning, [mcname] was surprised by a half-naked woman next to his bed. Daisy has an infectious personality spreads joy wherever she goes."
-    "周三早上，他惊讶地发现床边有一个半裸的女人。黛西的个性很有感染力，无论走到哪里，她都能带来欢乐。"
+    "周三早上，[mcname]惊讶地发现床边有一个半裸的女人。黛西的个性很有感染力，无论走到哪里，她都能带来欢乐。"
 
 # game/code/recap/w1_recap.rpy:262
 translate chinese week_1_recap_7f0ad41d:
