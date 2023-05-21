@@ -4,7 +4,7 @@
 translate chinese week_1_recap_1b0a7e0f:
 
     # "After two weeks away, our hero [mcname] finally returned to college..."
-    "After two weeks away, our hero [mcname] finally returned to college..."
+    "在家里生病两周后，我们的英雄[mcname]终于回到了大学..."
 
 # game/code/recap/w1_recap.rpy:74
 translate chinese week_1_recap_3ce08d02:
