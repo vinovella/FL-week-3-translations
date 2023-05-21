@@ -280,7 +280,7 @@ translate chinese week_1_recap_2e85499e:
 translate chinese week_1_recap_d3894896:
 
     # "The concert was a huge success - both for the coffee house's bottom line and for [mcname] and Lydia's budding relationship."
-    "无论是对咖啡馆的利润来说，还是对[mcname]和莉迪亚刚刚萌芽的恋情来说，这场音乐会都取得了巨大的成功。
+    "无论是对咖啡馆的利润来说，还是对[mcname]和莉迪亚刚刚萌芽的恋情来说，这场音乐会都取得了巨大的成功。"
 
 # game/code/recap/w1_recap.rpy:194
 translate chinese week_1_recap_45842161:
