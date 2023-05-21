@@ -434,9 +434,9 @@ translate chinese strings:
 
     # game/code/e06/e06s01.rpy:12
     old "Choose optional characters for this ending"
-    new "Choose optional characters for this ending"
+    new "为该结局选择可选人物"
 
     # game/code/e06/e06s01.rpy:47
     old "Continue"
-    new "Continue"
+    new "继续"
 
