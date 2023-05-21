@@ -874,5 +874,5 @@ translate chinese e02s03_lodge_64ffe7e5:
 translate chinese e02s03_lodge_d9ce7b3b:
 
     # mh "Would you be a gentleman and help me undress?"
-    mh "Would you be a gentleman and help me undress?"
+    mh "你能不能像绅士一样，帮我脱掉衣服？"
 
