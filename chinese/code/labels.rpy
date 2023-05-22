@@ -618,5 +618,5 @@ translate chinese strings:
 
     # game/code/labels.rpy:71
     old "The legendary Fetish Locator will return"
-    new "The legendary Fetish Locator will return"
+    new "传说中的性趣探测器会回来的"
 
