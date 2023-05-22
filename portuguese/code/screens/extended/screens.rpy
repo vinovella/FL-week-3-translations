@@ -69,4 +69,3 @@ translate portuguese strings:
     # game/code/screens/extended/screens.rpy:298
     old "ENDINGS"
     new ""
-

@@ -1492,7 +1492,7 @@ translate portuguese strings:
 
     # game/code/d20/d20s08.rpy:360
     old "Side with Stacy - Copy then Delete"
-    new "Apoiar SStacy - Copiar e Deletar"
+    new "Apoiar Stacy - Copiar e Deletar"
 
     # game/code/d20/d20s08.rpy:360
     old "Side with AmRose - Destroy it Completely"
@@ -1505,4 +1505,3 @@ translate portuguese strings:
     # game/code/d20/d20s08.rpy:390
     old "No, I don't want to see that."
     new "Não, eu não quero ver isso."
-
