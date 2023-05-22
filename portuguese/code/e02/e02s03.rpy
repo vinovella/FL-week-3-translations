@@ -866,7 +866,7 @@ translate portuguese strings:
 translate portuguese e02s03_lodge_64ffe7e5:
 
     # mh "Oh, how romantic. And I about to be dominated... like a beast in wild?"
-    mh ""
+    mh "Ah, que romântico. E eu vou ser dominada... como bicho selvagem?"
 
 # TODO: Translation updated at 2023-05-16 01:31
 
@@ -874,5 +874,5 @@ translate portuguese e02s03_lodge_64ffe7e5:
 translate portuguese e02s03_lodge_d9ce7b3b:
 
     # mh "Would you be a gentleman and help me undress?"
-    mh ""
+    mh "Poderia ser um cavalheiro e me ajudar a tirar a roupa?"
 
