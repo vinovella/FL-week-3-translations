@@ -1,74 +1,74 @@
-﻿# TODO: Translation updated at 2022-11-22 23:46
+# TODO: Translation updated at 2022-11-22 23:46
 
 translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 15: Lydia & AmRose LC Path"
-    new ""
+    new "Dia 16: Lydia & AmRose Caminho LC"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Love conquers all"
-    new ""
+    new "Love conquers all"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 15: Lydia & AmRose NTR Path"
-    new ""
+    new "Dia 15: Lydia & AmRose Caminho NTR"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Needlessly tight restriction"
-    new ""
+    new "Needlessly tight restriction"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 15: Daisy"
-    new ""
+    new "Dia 15: Daisy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Kiss Daisy"
-    new ""
+    new "Beijar Daisy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 15: Dahlia & Samiya"
-    new ""
+    new "Dia 15: Dahlia & Samiya"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't take credit"
-    new ""
+    new "Não leve o crédito"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 15: Maria"
-    new ""
+    new "Dia 15: Maria"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Watch the show"
-    new ""
+    new "Veja o show"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 15: Polly & Nora"
-    new ""
+    new "Dia 15: Polly & Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Let Lyssa take your anal cherry"
-    new ""
+    new "Deixe Lyssa tirar sua virgindade anal"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 15: Min & Lydia"
-    new ""
+    new "Dia 15: Min & Lydia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Tell the truth"
-    new ""
+    new "Conte a verdade"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Remove cock cage before this scene"
-    new ""
+    new "Remova a jaula de pau antes dessa cena"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 16: Jessie"
-    new ""
+    new "Dia 16: Jessie"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 16: Spinning Chair"
-    new ""
+    new "Dia 16: Cadeira Giratória"
 
 # TODO: Translation updated at 2022-12-13 23:34
 
@@ -76,203 +76,203 @@ translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Lydia & AmRose LC Path"
-    new ""
+    new "Dia 17: Lydia & AmRose Caminho LC"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Lydia & AmRose NTR Path"
-    new ""
+    new "Dia 17: Lydia & AmRose Caminho NTR"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Vanessa"
-    new ""
+    new "Dia 17: Vanessa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Hana"
-    new ""
+    new "Dia 17: Hana"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Lyssa Romance"
-    new ""
+    new "Dia 17: Romance Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Lyssa Domination"
-    new ""
+    new "Dia 17: Dominação Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Daisy"
-    new ""
+    new "Dia 17: Daisy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Dahlia & Samiya"
-    new ""
+    new "Dia 17: Dahlia & Samiya"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Polly & Nora"
-    new ""
+    new "Dia 17: Polly & Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't creampie Nora"
-    new ""
+    new "Não goze dentro da Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Jessie"
-    new ""
+    new "Dia 17: Jessie"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Stacy"
-    new ""
+    new "Dia 17: Stacy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 18: Lydia Blowjob"
-    new ""
+    new "Dia 18: Boquete da Lydia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 18: Min"
-    new ""
+    new "Dia 18: Min"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Win against Min"
-    new ""
+    new "Ganhe da Min"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 18: Vanessa & Allison"
-    new ""
+    new "Dia 18: Vanessa & Allison"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Stay with them till the end"
-    new ""
+    new "Fique com elas até o fim"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 18: Samiya, Dahlia & Pete"
-    new ""
+    new "Dia 18: Samiya, Dahlia & Pete"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 18: Claudie Fulton"
-    new ""
+    new "Dia 18: Claudie Fulton"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't leave her"
-    new ""
+    new "Não a deixe"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 18: Lydia NTR"
-    new ""
+    new "Dia 18: Lydia NTR"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 18: Judge"
-    new ""
+    new "Dia 18: Juíza"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't run away"
-    new ""
+    new "Não vá embora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Lydia NTR Flashback"
-    new ""
+    new "Dia 19: Flashback Lydia NTR"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Lyssa"
-    new ""
+    new "Dia 19: Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Daisy"
-    new ""
+    new "Dia 19: Daisy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Dahlia"
-    new ""
+    new "Dia 19: Dahlia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Masturbate"
-    new ""
+    new "Dia 19: Masturbar"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Minigame"
-    new ""
+    new "Dia 19: Minigame"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Win the minigame"
-    new ""
+    new "Vença o minigame"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Cynthia & AmRose Video"
-    new ""
+    new "Dia 19: Video da Cynthia & AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Min & Cynthia"
-    new ""
+    new "Dia 19: Min & Cynthia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Maria"
-    new ""
+    new "Dia 19: Maria"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Stacy & AmRose"
-    new ""
+    new "Dia 19: Stacy & AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Stacy"
-    new ""
+    new "Dia 20: Stacy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Let Stacy pee on you"
-    new ""
+    new "Deixe que Stacy urine em você"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Maria & Ronald Nordin"
-    new ""
+    new "Dia 20: Maria & Ronald Martin"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Share Maria"
-    new ""
+    new "Compartilhe a Maria"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Theresa Lewald"
-    new ""
+    new "Dia 20: Theresa Lewald"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't Fail"
-    new ""
+    new "Não Falhe"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Lyssa & Zarah Waller"
-    new ""
+    new "Dia 20: Lyssa & Zarah Waller"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Give Zarah a piece of your mind"
-    new ""
+    new "Fale o que pensa para Zarah"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Kevin & Chloe"
-    new ""
+    new "Dia 20: Kevin & Chloe"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Min"
-    new ""
+    new "Dia 20: Min"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Oliver"
-    new ""
+    new "Dia 20: Oliver"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Agree to go on a date"
-    new ""
+    new "Concordar em sair para um encontro"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Polly & Nora"
-    new ""
+    new "Dia 20: Polly & Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Iona Video"
-    new ""
+    new "Dia 20: Vídeo da Iona"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 10: Min"
-    new ""
+    new "Final 10: Min"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 10: Min & Nari"
-    new ""
+    new "Final 10: Min & Nari"
 
 # TODO: Translation updated at 2022-12-26 00:31
 
@@ -280,7 +280,7 @@ translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 10: Montage"
-    new ""
+    new "Final 10: Montagem"
 
 # TODO: Translation updated at 2023-04-30 17:16
 
@@ -288,35 +288,35 @@ translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 21: Fivesome"
-    new ""
+    new "Dia 21: Sexo a Cinco"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't leave Maria"
-    new ""
+    new "Não deixe a Maria"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 21: Judge"
-    new ""
+    new "Dia 21: Juíza"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 01: Stacy"
-    new ""
+    new "Final 01: Stacy"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 08: AmRose"
-    new ""
+    new "Final 08: AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 08: Swinging Sex"
-    new ""
+    new "Final 08: Sexo com Swing"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 08: Stacy & Pregnant AmRose"
-    new ""
+    new "Final 08: Stacy & AmRose Grávida"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 08: Pregnant AmRose"
-    new ""
+    new "Final 08: AmRose Grávida"
 
 # TODO: Translation updated at 2023-05-16 23:37
 
@@ -324,45 +324,45 @@ translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 21: Hana"
-    new ""
+    new "Dia 21: Hana"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 02: Lyssa"
-    new ""
+    new "Final 02: Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 02: Lyssa, Ashley & Frank"
-    new ""
+    new "Final 02: Lyssa, Ashley & Frank"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 02: Lyssa, Angela & Alexander"
-    new ""
+    new "Final 02: Lyssa, Angela & Alexander"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 02: Lyssa, Dorothy & Mikaela"
-    new ""
+    new "Final 02: Lyssa, Dorothy & Mikaela"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 06: Lydia & Min"
-    new ""
+    new "Final 06: Lydia & Min"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 06: Lydia, Stacy & AmRose"
-    new ""
+    new "Final 06: Lydia, Stacy & AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 06: Bachelor Party"
-    new ""
+    new "Final 06: Despedida de Solteiro"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 06: Lyssa & AmRose"
-    new ""
+    new "Final 06: Lydia & AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 06: Wedding Reception"
-    new ""
+    new "Final 06: Recepção do Casamento"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 06: Lydia"
-    new ""
+    new "Final 06: Lydia"
 
