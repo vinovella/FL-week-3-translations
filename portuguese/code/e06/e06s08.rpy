@@ -1968,10 +1968,10 @@ translate portuguese strings:
 translate portuguese d06s08_mh_0aa48b5e:
 
     # mh "Ahhhhaahh..."
-    mh ""
+    mh "Ahhhhaahh..."
 
 # game/code/e06/e06s08.rpy:1234
 translate portuguese d06s08_mh_25ab182b:
 
     # mh "Ohhh....."
-    mh ""
+    mh "Aaah....."
