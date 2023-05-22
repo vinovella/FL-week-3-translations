@@ -1272,4 +1272,4 @@ translate portuguese e06s06_finish_1_04a9c018:
 translate portuguese e06s06_d14a3c55:
 
     # lc "Yes, so I am well aware of all the girls he's been with."
-    lc ""
+    lc "Sim, assim eu fico bem a par de todas garotas que ele tem ficado."
