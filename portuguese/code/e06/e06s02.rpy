@@ -1610,5 +1610,5 @@ translate portuguese strings:
 translate portuguese e06s02_40511e6c:
 
     # "*knock knock*"
-    ""
+    "*toc toc*"
 
