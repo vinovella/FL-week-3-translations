@@ -250,7 +250,7 @@ translate portuguese d15s01_readnote_8ec8a013:
 translate portuguese d15s01_readnote_df478242:
 
     # "The first is known as Love Conquers the cage. I commend this cage to you, if you are weak in will and hold fast to your humanity."
-    "A primeira é conhecida como Love Conquers a jaula. Recomendo esta jaula caso tenha a mente fraca e goste de manter sua humanidade."
+    "A primeira é conhecida como a jaula Love Conquers. Recomendo esta jaula caso tenha a mente fraca e goste de manter sua humanidade."
 
 # game/code/d15/d15s01.rpy:341
 translate portuguese d15s01_readnote_835e8f24:
