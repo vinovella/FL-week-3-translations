@@ -1294,4 +1294,4 @@ translate portuguese strings:
 
     # game/code/e02/e02s01.rpy:62
     old "Ending #2\nSnowy Peaks"
-    new ""
+    new "Ending #02\nSnowy Peaks"
