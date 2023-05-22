@@ -40,7 +40,7 @@ translate chinese week_2_recap_c16f9296:
 translate chinese week_2_recap_404fd706:
 
     # "Stacy met Dahlia and they had a nice long conversation after his Mistress ordered [mcname] to be a chair for Stacy. His Mistress told them that Allison might know more about Samiya."
-    "史黛西遇到了黛丽娅，在女主人命令[mcname]成为史黛西的椅子后，他们进行了长时间的愉快交谈。他的女主人告诉他们，艾利森可能知道更多关于萨米亚的事。"
+    "史黛西遇到了黛丽娅，在女主人命令[mcname]成为史黛西的椅子后，两个女孩愉快地交谈了很长时间。他的女主人告诉他们，艾利森可能知道更多关于萨米亚的事。"
 
 # game/code/recap/w2_recap.rpy:127
 translate chinese week_2_recap_aa0dd331:
@@ -148,7 +148,7 @@ translate chinese week_2_recap_c09ec016:
 translate chinese week_2_recap_4cf74c55:
 
     # "[mcname] set a very strict tone about Lyssa's access to his cock. She was happy to oblige him."
-    "[mcname]对丽莎接近他的鸡巴定下了非常严格的要求。她很高兴地答应了他。"
+    "[mcname]对丽莎接近他鸡巴的行为定下了非常严格的要求。她很高兴地答应了他。"
 
 # game/code/recap/w2_recap.rpy:171
 translate chinese week_2_recap_777c73a3:
@@ -184,7 +184,7 @@ translate chinese week_2_recap_4410c85c:
 translate chinese week_2_recap_8fcbe86a:
 
     # "That night, Lydia ended up calling [mcname] and confessing her growing feelings for him. They spoke about the importance of honesty in a relationship."
-    "那天晚上，莉迪亚打电话给[mcname]，坦白了她对他日益增长的感情。他们谈到了感情中诚实的重要性。"
+    "那天晚上，莉迪亚打电话给[mcname]，坦白了对他日益增长的感情。他们谈到了感情中诚实的重要性。"
 
 # game/code/recap/w2_recap.rpy:189
 translate chinese week_2_recap_1f448ae4:
@@ -208,7 +208,7 @@ translate chinese week_2_recap_03e131b7:
 translate chinese week_2_day_9_bdff7704:
 
     # "When our hero woke up, he couldn't believe how his night went. He started off worrying that Lydia would break up with him, but she ended up having her own kinky interests."
-    "当我们的主人公醒来时，他不敢相信前一个夜晚发生的事。他开始担心莉迪亚会和他分手，但发现她最后竟有自己的变态兴趣。"
+    "当我们的主人公醒来时，他不敢相信前一个夜晚发生的事。他开始担心莉迪亚会和他分手，但发现她最后竟有着独特的变态性趣。"
 
 # game/code/recap/w2_recap.rpy:204
 translate chinese week_2_day_9_09a0d01f:
@@ -238,7 +238,7 @@ translate chinese week_2_day_9_92140091:
 translate chinese week_2_day_9_5063ee7e:
 
     # "Without a better option, our hero agreed to pull a prank on a MILF."
-    "没有更好的选择，我们的主人公同意对一个性感少妇进行恶作剧。"
+    "因为没有更好的选择，所以我们的主人公同意对一个性感少妇进行恶作剧。"
 
 # game/code/recap/w2_recap.rpy:218
 translate chinese week_2_day_9_c515d165:
@@ -268,13 +268,13 @@ translate chinese week_2_day_9_418ee6ad:
 translate chinese week_2_day_9_9711346f:
 
     # "Fearing what would happen if Lydia found AmRose crashing their date, [mcname] had her hide underneath the table."
-    "由于担心莉迪亚发现阿姆爱洛丝，从而导致两人的约会不欢而散，[mcname]让她躲在桌子下面。"
+    "由于担心莉迪亚发现爱洛丝，从而导致两人的约会不欢而散，[mcname]让她躲在桌子下面。"
 
 # game/code/recap/w2_recap.rpy:229
 translate chinese week_2_day_9_af373a6d:
 
     # "This proved to be a bit of a mistake when a Blitz Challenge occurred. Every horny and hopeful to satisfy [mcname], AmRose did not let the opportunity pass her by."
-    "当快闪挑战发生时，这被证明是一个错误。出于饥渴和希望满足[mcname]的需求，爱洛丝没有让机会从她身边溜走。"
+    "当快闪挑战发生时，[mcname]才知道这个决定是个错误。出于饥渴和希望满足[mcname]的需求，爱洛丝没有让机会从她身边溜走。"
 
 # game/code/recap/w2_recap.rpy:231
 translate chinese week_2_day_9_c2324e96:
@@ -304,7 +304,7 @@ translate chinese week_2_day_9_8bd77bf9:
 translate chinese week_2_day_9_a70502a3:
 
     # "[mcname] joined Squizzle for some more {i}training{/i}."
-    "[mcname]加入了斯奎兹，接受更多的{i}训练{/i}。"
+    "[mcname]和斯奎兹越走越近，给她做更多的{i}训练{/i}。"
 
 # game/code/recap/w2_recap.rpy:247
 translate chinese week_2_day_9_34d96f75:
@@ -322,7 +322,7 @@ translate chinese week_2_day_9_96b4d648:
 translate chinese week_2_day_9_74fdc02e:
 
     # "She had a blast, but the challenge to only cum with piss in her mouth was becoming more and more of difficult."
-    "她玩得很开心，但只在嘴里含着尿的情况下射精的挑战变得越来越难了。"
+    "她玩得很开心，但只在嘴里含着尿的情况下高潮的挑战变得越来越难了。"
 
 # game/code/recap/w2_recap.rpy:255
 translate chinese week_2_day_9_22c3462d:
@@ -436,7 +436,7 @@ translate chinese week_2_day_10_0c92fa0b:
 translate chinese week_2_day_10_c7dc362d:
 
     # "An unlikely figure came to their rescue... Pete!"
-    "一个不太可能的人物来救他们...是皮特!"
+    "一个出乎意料的人来拯救他们了...是皮特!"
 
 # game/code/recap/w2_recap.rpy:303
 translate chinese week_2_day_10_e09b4946:
@@ -502,7 +502,7 @@ translate chinese week_2_day_10_4124a9b1:
 translate chinese week_2_day_10_f7761263:
 
     # "With the stroke of a pen, Stacy became the proud renter of a brand new apartment."
-    "大笔一挥，史黛西就自豪地租下了一套全新的公寓"
+    "大笔一挥，史黛西就自豪地租下了一套全新的公寓。"
 
 # game/code/recap/w2_recap.rpy:328
 translate chinese week_2_day_10_58ba0511:
@@ -676,7 +676,7 @@ translate chinese week_2_day_10_p2_ee0d0f68:
 translate chinese week_2_day_10_p2_d3e10c03:
 
     # "[mcname] was overjoyed when his Mistress finally allowed him to empty his balls."
-    "当他的女主人终于允许他他排空蛋蛋时，他欣喜若狂。"
+    "当[mcname]的女主人终于允许他排空蛋蛋时，他欣喜若狂。"
 
 # game/code/recap/w2_recap.rpy:417
 translate chinese week_2_day_10_p2_b305b380:
@@ -688,7 +688,7 @@ translate chinese week_2_day_10_p2_b305b380:
 translate chinese week_2_day_10_p2_dc077d4f:
 
     # "[mcname] journeyed into the mysterious Pandora Room and saw Daisy all bound up like a nice little present."
-    "[mcname]走进了神秘的潘多拉房间，看到黛西像一个漂亮的小礼物一样被捆绑起来。"
+    "[mcname]走进了神秘的潘多拉房间，看到黛西像个漂亮的小礼物一样被捆绑起来。"
 
 # game/code/recap/w2_recap.rpy:422
 translate chinese week_2_day_10_p2_a696994d:
@@ -760,13 +760,13 @@ translate chinese week_2_day_10_p2_652df19e:
 translate chinese week_2_day_10_p2_722b85c6:
 
     # "[mcname] decided to watch as Iona quickly showed off her more than capable skills with dealing with asshats."
-    "[mcname]决定旁观，奥娜展示她与混蛋打交道的技巧。"
+    "[mcname]决定旁观，看欧娜如何展示她与混蛋打交道的技巧。"
 
 # game/code/recap/w2_recap.rpy:450
 translate chinese week_2_day_10_p2_11188755:
 
     # "She gave the jerk a lesson he wouldn't forget any time soon."
-    "她给了那个混蛋一个教训，让他短期内很难忘。"
+    "她给了那个混蛋一个教训，让他短期内难忘。"
 
 # game/code/recap/w2_recap.rpy:452
 translate chinese week_2_day_10_p2_4674be5f:
@@ -928,7 +928,7 @@ translate chinese week_2_day_11_9a591368:
 translate chinese week_2_day_11_3ef303d2:
 
     # "[mcname] found tons of pictures on Pete's computer. The pics all had one source, they'd been bought from Fetish Locator."
-    "[mcname]在皮特的电脑上发现了大量照片。这些照片都有一个来源--从性趣探测器上购买的。"
+    "[mcname]在皮特的电脑上发现了大量照片。这些照片都有一个共同来源--从性趣探测器上购买得到。"
 
 # game/code/recap/w2_recap.rpy:524
 translate chinese week_2_day_11_dddf9630:
@@ -946,7 +946,7 @@ translate chinese week_2_day_11_17b9b1d7:
 translate chinese week_2_day_11_dcf2780e:
 
     # "[mcname] needed to know the truth, even if it cost him his friendship with Pete. He ended up placing Pete into the Retention Program."
-    "[mcname]需要知道真相，即使这样会让他失去与Pete的友谊。他最后把皮特列入了留存计划。"
+    "[mcname]需要知道真相，即使这样会让他失去与皮特的友谊。他最后把皮特列入了留存计划。"
 
 # game/code/recap/w2_recap.rpy:531
 translate chinese week_2_day_11_0c227faa:
@@ -1036,7 +1036,7 @@ translate chinese week_2_day_12_3fd70899:
 translate chinese week_2_day_12_ac39d977:
 
     # "During their 'date', [mcname] used some FL points and triggered a Blitz Challenge and Hana helped him bolster his numbers for the challenge."
-    "在他们的‘约会’期间，[mcname]使用了一些FL点数并触发了快闪挑战，而哈娜帮助他增加了挑战数据。"
+    "在他们的‘约会’期间，[mcname]用了一些FL点数并触发了快闪挑战，而哈娜帮助他增加了挑战数据。"
 
 # game/code/recap/w2_recap.rpy:586
 translate chinese week_2_day_12_a50a283b:
@@ -1078,7 +1078,7 @@ translate chinese week_2_day_12_5d2b3c07:
 translate chinese week_2_day_12_96af9413:
 
     # "After giving him a strip search the criminal had some fun with Officer Lyssa."
-    "在对他进行脱衣搜身后，罪犯和丽莎警官玩得很开心。"
+    "在对他进行脱衣搜身后，罪犯[mcname]和丽莎警官玩得很开心。"
 
 # game/code/recap/w2_recap.rpy:608
 translate chinese week_2_day_12_bb6e1b9f:
@@ -1114,13 +1114,13 @@ translate chinese week_2_day_12_4a221284:
 translate chinese week_2_day_12_a8a4075d:
 
     # "The two spent the night together."
-    "他们俩在一起过了一夜。"
+    "两人在一起过了一夜。"
 
 # game/code/recap/w2_recap.rpy:621
 translate chinese week_2_day_12_e688b34f:
 
     # "Things got a little hot and heavy but [mcname] made sure to take things nice and slow."
-    "画面逐渐变得火热起来，但[mcname]确保两人的节奏顺利且缓慢。"
+    "画面逐渐变得火热起来，但[mcname]确保两人的节奏缓慢且顺利。"
 
 # game/code/recap/w2_recap.rpy:624
 translate chinese week_2_day_12_4578458e:
@@ -1168,19 +1168,19 @@ translate chinese week_2_day_13_5323387d:
 translate chinese week_2_day_13_ef60b605:
 
     # "Pounding Chloe's nice and tight asshole was the perfect workout."
-    "抽插克洛伊漂亮又紧致的屁眼就是完美的锻炼"
+    "抽插克洛伊漂亮又紧致的屁眼就是完美的锻炼。"
 
 # game/code/recap/w2_recap.rpy:649
 translate chinese week_2_day_13_6d18c0dc:
 
     # "[mcname] told Maria to go to the local gloryhole and to send him pictures as proof."
-    "[mcname]让玛丽亚去当地的荣耀之洞，并把照片发给他作为证据。"
+    "[mcname]让玛丽亚去荣耀之洞，并把照片发给他作为证据。"
 
 # game/code/recap/w2_recap.rpy:652
 translate chinese week_2_day_13_f8402545:
 
     # "Talia stuck around to give Maria some pointers and take pictures of the blonde slut."
-    "塔利亚留了下来给玛丽亚作指导，并给这个金发荡妇拍照"
+    "塔利亚留了下来给玛丽亚作指导，并给这个金发荡妇拍照。"
 
 # game/code/recap/w2_recap.rpy:654
 translate chinese week_2_day_13_b449cf44:
@@ -1234,7 +1234,7 @@ translate chinese week_2_day_13_fe188010:
 translate chinese week_2_day_13_8d4b647d:
 
     # "Min joined [mcname] for dinner. Min was still apprehensive about dating her best friend's boyfriend."
-    "明和他一起吃晚饭。敏还是对与闺蜜的男朋友约会心存疑虑。"
+    "明和[mcname]一起吃晚饭。明还是对与闺蜜的男朋友约会心存疑虑。"
 
 # game/code/recap/w2_recap.rpy:676
 translate chinese week_2_day_13_b474b913:
@@ -1300,7 +1300,7 @@ translate chinese week_2_day_13_915c3d0e:
 translate chinese week_2_day_14_5720e4b7:
 
     # "Sunday morning, the team got to work. The Faraday Cage they installed would make the place invisible to all of Fetish Locator's spyware."
-    "周日早上，团队开始工作。他们安装的法拉第笼会让所有性趣探测器的间谍软件都看不见这个地方。"
+    "周日早上，三人团队开始工作。他们安装的法拉第笼会让所有性趣探测器的间谍软件都看不见这个地方。"
 
 # game/code/recap/w2_recap.rpy:710
 translate chinese week_2_day_14_a8ae3920:
@@ -1342,7 +1342,7 @@ translate chinese week_2_day_14_46947b77:
 translate chinese week_2_day_14_27e7081d:
 
     # "Oliver arrived with a case of wandering eye syndrome."
-    "奥利弗来的时候，眼睛游移不定"
+    "奥利弗来的时候，眼睛游移不定。"
 
 # game/code/recap/w2_recap.rpy:726
 translate chinese week_2_day_14_6a30e27b:
@@ -1354,7 +1354,7 @@ translate chinese week_2_day_14_6a30e27b:
 translate chinese week_2_day_14_8f543d92:
 
     # "Polly followed, looking {i}classy{/i} as always."
-    "波莉紧随其后，一如既往的优雅。"
+    "波莉紧随其后，一如既往的{i}优雅{/i}。"
 
 # game/code/recap/w2_recap.rpy:731
 translate chinese week_2_day_14_686a93e3:
@@ -1528,7 +1528,7 @@ translate chinese week_2_day_14_p2_87fa8ee1:
 translate chinese week_2_day_14_p2_8e9a9a70:
 
     # "Things heated up between the two and they both explored their interest in one another."
-    "两人之间的关系升温，他们都发现了自己对对方的兴趣。"
+    "两人之间的关系升温，他们都发现自己对对方兴趣盎然。"
 
 # game/code/recap/w2_recap.rpy:817
 translate chinese week_2_day_14_p2_9c205aca:
