@@ -4,559 +4,559 @@
 translate chinese week_2_recap_6e162b80:
 
     # "Monday morning. Recovering from the raucous and exciting events of the previous week, [mcname] woke up at AmRose's house."
-    "Monday morning. Recovering from the raucous and exciting events of the previous week, [mcname] woke up at AmRose's house."
+    "周一早上。从上一周喧闹而刺激的活动中恢复过来后，[mcname]在爱洛丝家醒来。"
 
 # game/code/recap/w2_recap.rpy:110
 translate chinese week_2_recap_889884a3:
 
     # "Over breakfast with AmRose and Stacy, [mcname] told Stacy he would continue the hunt for her stolen luggage."
-    "Over breakfast with AmRose and Stacy, [mcname] told Stacy he would continue the hunt for her stolen luggage."
+    "在与爱洛丝和史黛西共进早餐时，[mcname]告诉史黛西，他会继续寻找她被偷的行李。"
 
 # game/code/recap/w2_recap.rpy:114
 translate chinese week_2_recap_64e96e1c:
 
     # "Maria confessed that she had developed a desperate need for [mcname]'s cock."
-    "Maria confessed that she had developed a desperate need for [mcname]'s cock."
+    "玛丽亚承认，她对[mcname]的鸡巴产生了极度迫切的需求。"
 
 # game/code/recap/w2_recap.rpy:116
 translate chinese week_2_recap_6a62bf22:
 
     # "[mcname] took Maria for a spin with some very risky sex during class."
-    "[mcname] took Maria for a spin with some very risky sex during class."
+    "[mcname]带着玛丽亚在课堂上进行了非常危险的性行为。"
 
 # game/code/recap/w2_recap.rpy:119
 translate chinese week_2_recap_9df672e9:
 
     # "[mcname] continued giving Squizzle lessons and challenges to grow her watersports fetish."
-    "[mcname] continued giving Squizzle lessons and challenges to grow her watersports fetish."
+    "[mcname]继续给斯奎兹上课并安排挑战，以培养她对水上运动癖好的迷恋。"
 
 # game/code/recap/w2_recap.rpy:121
 translate chinese week_2_recap_c16f9296:
 
     # "[mcname] joined Stacy at the university to search for Samiya, the baggage thief."
-    "[mcname] joined Stacy at the university to search for Samiya, the baggage thief."
+    "[mcname]在大学里和史黛西一起寻找那个偷行李的萨米亚。"
 
 # game/code/recap/w2_recap.rpy:124
 translate chinese week_2_recap_404fd706:
 
     # "Stacy met Dahlia and they had a nice long conversation after his Mistress ordered [mcname] to be a chair for Stacy. His Mistress told them that Allison might know more about Samiya."
-    "Stacy met Dahlia and they had a nice long conversation after his Mistress ordered [mcname] to be a chair for Stacy. His Mistress told them that Allison might know more about Samiya."
+    "史黛西遇到了黛丽娅，在女主人命令[mcname]成为史黛西的椅子后，他们进行了长时间的愉快交谈。他的女主人告诉他们，艾利森可能知道更多关于萨米亚的事。"
 
 # game/code/recap/w2_recap.rpy:127
 translate chinese week_2_recap_aa0dd331:
 
     # "Stacy met Daisy for the first time, and Daisy mentioned Allison might know where Samiya was."
-    "Stacy met Daisy for the first time, and Daisy mentioned Allison might know where Samiya was."
+    "史黛西第一次见到黛西，黛西说艾莉森可能知道萨米亚在哪。"
 
 # game/code/recap/w2_recap.rpy:129
 translate chinese week_2_recap_b166cffa:
 
     # "[mcname] learned a bit more about the thief. Apparently, Dahlia and Samiya have bitter resentments toward one another."
-    "[mcname] learned a bit more about the thief. Apparently, Dahlia and Samiya have bitter resentments toward one another."
+    "[mcname]了解了更多关于小偷的信息。显然，黛丽娅和萨米亚对彼此都有强烈的怨恨。"
 
 # game/code/recap/w2_recap.rpy:131
 translate chinese week_2_recap_fb8fa323:
 
     # "They found Allison training hard at the pool."
-    "They found Allison training hard at the pool."
+    "他们发现艾莉森在泳池里刻苦训练。"
 
 # game/code/recap/w2_recap.rpy:133
 translate chinese week_2_recap_2bbee971:
 
     # "Unfortunately, her trainer got in the way. They would have to talk to Allison another time."
-    "Unfortunately, her trainer got in the way. They would have to talk to Allison another time."
+    "不幸的是，她的教练妨碍了他们。他们得另找时间和艾利森谈了。"
 
 # game/code/recap/w2_recap.rpy:135
 translate chinese week_2_recap_70ddfca0:
 
     # "When the topic of the next Party at Min's came up, Min and [mcname] were excited. Lydia appeared little less than enthusiastic about going to another Fetish Locator party."
-    "When the topic of the next Party at Min's came up, Min and [mcname] were excited. Lydia appeared little less than enthusiastic about going to another Fetish Locator party."
+    "当谈到下次在明家聚会的话题时，明和[mcname]都很兴奋。莉迪亚似乎对参加另一个性趣探测器派对热情不高。"
 
 # game/code/recap/w2_recap.rpy:137
 translate chinese week_2_recap_2cf8172f:
 
     # "Hana covertly passed a list of the potential passwords for Pete's computer."
-    "Hana covertly passed a list of the potential passwords for Pete's computer."
+    "哈娜偷偷地把皮特电脑的潜在密码列表给了他。"
 
 # game/code/recap/w2_recap.rpy:139
 translate chinese week_2_recap_c5c92cf7:
 
     # "[mcname] tried unlocking Pete's computer to find out if his roommate really was involved."
-    "[mcname] tried unlocking Pete's computer to find out if his roommate really was involved."
+    "[mcname]试图解锁皮特的电脑，以查明他的室友是否真的参与其中。"
 
 # game/code/recap/w2_recap.rpy:141
 translate chinese week_2_recap_553d9b12:
 
     # "He nearly got busted when Pete returned to the dorm. To our hero's mounting frustration, his roommate admitted he'd had no luck in finding Samiya."
-    "He nearly got busted when Pete returned to the dorm. To our hero's mounting frustration, his roommate admitted he'd had no luck in finding Samiya."
+    "当皮特回到宿舍时，[mcname]差点被逮个正着。更让我们的主人公沮丧的是，他的室友承认没能找到萨米亚。"
 
 # game/code/recap/w2_recap.rpy:144
 translate chinese week_2_recap_70afab6f:
 
     # "[mcname] faced off against a dark warrior."
-    "[mcname] faced off against a dark warrior."
+    "[mcname]面对的是一个黑暗战士。"
 
 # game/code/recap/w2_recap.rpy:146
 translate chinese week_2_recap_2d35cf86:
 
     # "But he didn't let his fear control him. Instead he brought Dark Jessie back to the light with his cunning and finger-work."
-    "But he didn't let his fear control him. Instead he brought Dark Jessie back to the light with his cunning and finger-work."
+    "但他没有让恐惧控制自己。相反，他用他灵巧无比的手上功夫把黑暗杰西带回了光明。"
 
 # game/code/recap/w2_recap.rpy:148
 translate chinese week_2_recap_be4dbbe8:
 
     # "Showing off his business acumen, [mcname] helped Jessie make a big sale with one of her clients."
-    "Showing off his business acumen, [mcname] helped Jessie make a big sale with one of her clients."
+    "[mcname]展示了他的商业头脑，帮助杰西和她的一个客户做成了一笔大买卖。"
 
 # game/code/recap/w2_recap.rpy:150
 translate chinese week_2_recap_a7a3b58b:
 
     # "Fortunately, when Stacy and our hero finally met up with Allison, Stacy quickly realized the athlete was wearing her bikini."
-    "Fortunately, when Stacy and our hero finally met up with Allison, Stacy quickly realized the athlete was wearing her bikini."
+    "幸运的是，当史黛西和我们的主人公终于见到艾莉森时，史黛西很快意识到，这位运动员穿着她的比基尼。"
 
 # game/code/recap/w2_recap.rpy:152
 translate chinese week_2_recap_4621931b:
 
     # "Once she found out the bikini was stolen, Allison gave it back to Stacy, showing off even more of her body in the process."
-    "Once she found out the bikini was stolen, Allison gave it back to Stacy, showing off even more of her body in the process."
+    "当艾莉森发现比基尼是偷来的后，就把它还给了史黛西，在这个过程中，她的身体更暴露了。"
 
 # game/code/recap/w2_recap.rpy:154
 translate chinese week_2_recap_c5cc6dbe:
 
     # "With Allison's help, [mcname] finally had Samiya's number. Something told him he was going to have to be careful around the suitcase thief."
-    "With Allison's help, [mcname] finally had Samiya's number. Something told him he was going to have to be careful around the suitcase thief."
+    "在艾莉森的帮助下，[mcname]终于得到了萨米亚的电话。直觉告诉他，他要小心这个手提箱窃贼。"
 
 # game/code/recap/w2_recap.rpy:157
 translate chinese week_2_recap_25b34f7f:
 
     # "[mcname] enjoyed getting to see Lyssa in action at court."
-    "[mcname] enjoyed getting to see Lyssa in action at court."
+    "[mcname]很喜欢看到莉莎在法庭上的表现。"
 
 # game/code/recap/w2_recap.rpy:161
 translate chinese week_2_recap_4399dff1:
 
     # "After the case was over, the two blew off some steam."
-    "After the case was over, the two blew off some steam."
+    "案件结束后，两人发泄了一下，释放了压力。"
 
 # game/code/recap/w2_recap.rpy:164
 translate chinese week_2_recap_c09ec016:
 
     # "[mcname] explored new avenues of pleasure and tried out sucking Lyssa's cock."
-    "[mcname] explored new avenues of pleasure and tried out sucking Lyssa's cock."
+    "[mcname]探索了新的快乐途径，并试着给丽莎口交。"
 
 # game/code/recap/w2_recap.rpy:168
 translate chinese week_2_recap_4cf74c55:
 
     # "[mcname] set a very strict tone about Lyssa's access to his cock. She was happy to oblige him."
-    "[mcname] set a very strict tone about Lyssa's access to his cock. She was happy to oblige him."
+    "[mcname]对丽莎接近他的鸡巴定下了非常严格的要求。她很高兴地答应了他。"
 
 # game/code/recap/w2_recap.rpy:171
 translate chinese week_2_recap_777c73a3:
 
     # "[mcname]'s cock turned into the perfect outlet for Lyssa to enhance her pleasure after winning her case."
-    "[mcname]'s cock turned into the perfect outlet for Lyssa to enhance her pleasure after winning her case."
+    "[mcname]的鸡巴变成了丽莎赢得案子后增强快感的完美出口。"
 
 # game/code/recap/w2_recap.rpy:176
 translate chinese week_2_recap_5b6f68b3:
 
     # "Ever the gentleman, our hero gave Lyssa's cock some affection as well."
-    "Ever the gentleman, our hero gave Lyssa's cock some affection as well."
+    "我们的主人公向来是个绅士，他还给丽莎的鸡巴倾注了爱。"
 
 # game/code/recap/w2_recap.rpy:181
 translate chinese week_2_recap_4a9edaa2:
 
     # "[mcname] met Nora for their third 'blind date'. The barista's choice of outfit nearly knocked [mcname] off his feet."
-    "[mcname] met Nora for their third 'blind date'. The barista's choice of outfit nearly knocked [mcname] off his feet."
+    "[mcname]在第三次‘相亲’时去见了诺拉。咖啡师选择的服装几乎让[mcname]震惊了。"
 
 # game/code/recap/w2_recap.rpy:183
 translate chinese week_2_recap_110afbd4:
 
     # "Polly began things by playing with Nora, but eventually, she asked [mcname] to get into the mix."
-    "Polly began things by playing with Nora, but eventually, she asked [mcname] to get into the mix."
+    "波莉一开始是和诺拉一起玩，但最终，她让[mcname]加入进来。"
 
 # game/code/recap/w2_recap.rpy:185
 translate chinese week_2_recap_4410c85c:
 
     # "When [mcname] finished satisfying Nora, the barista wanted to satisfy her blind date, but Polly preferred to remain anonymous."
-    "When [mcname] finished satisfying Nora, the barista wanted to satisfy her blind date, but Polly preferred to remain anonymous."
+    "当[mcname]满足完诺拉后，咖啡师想满足她的相亲对象，但波莉更愿意让诺拉带上面罩，保持神秘感。"
 
 # game/code/recap/w2_recap.rpy:187
 translate chinese week_2_recap_8fcbe86a:
 
     # "That night, Lydia ended up calling [mcname] and confessing her growing feelings for him. They spoke about the importance of honesty in a relationship."
-    "That night, Lydia ended up calling [mcname] and confessing her growing feelings for him. They spoke about the importance of honesty in a relationship."
+    "那天晚上，莉迪亚打电话给[mcname]，坦白了她对他日益增长的感情。他们谈到了感情中诚实的重要性。"
 
 # game/code/recap/w2_recap.rpy:189
 translate chinese week_2_recap_1f448ae4:
 
     # "Lydia surprised him by wishing to know what he'd done with Fetish Locator to get into the first party."
-    "Lydia surprised him by wishing to know what he'd done with Fetish Locator to get into the first party."
+    "莉迪亚想知道[mcname]是怎么通过性趣探测器参加第一个派对的，这让他很吃惊。"
 
 # game/code/recap/w2_recap.rpy:191
 translate chinese week_2_recap_4aa8b4ec:
 
     # "Even though he thought it was a trap, our hero didn't want to lose Lydia. He confided in her about what happened during his first cum challenge."
-    "Even though he thought it was a trap, our hero didn't want to lose Lydia. He confided in her about what happened during his first cum challenge."
+    "尽管我们的主人公认为这是个陷阱，但他不想失去莉迪亚。他向她吐露了他第一次挑战时发生的事情。"
 
 # game/code/recap/w2_recap.rpy:193
 translate chinese week_2_recap_03e131b7:
 
     # "The two ended up falling to sleep on the phone together with [mcname] telling Lydia about his past sexual exploits."
-    "The two ended up falling to sleep on the phone together with [mcname] telling Lydia about his past sexual exploits."
+    "[mcname]告诉莉迪亚他过去的性爱经历，两人最后在电话里睡着了。"
 
 # game/code/recap/w2_recap.rpy:202
 translate chinese week_2_day_9_bdff7704:
 
     # "When our hero woke up, he couldn't believe how his night went. He started off worrying that Lydia would break up with him, but she ended up having her own kinky interests."
-    "When our hero woke up, he couldn't believe how his night went. He started off worrying that Lydia would break up with him, but she ended up having her own kinky interests."
+    "当我们的主人公醒来时，他不敢相信前一个夜晚发生的事。他开始担心莉迪亚会和他分手，但发现她最后竟有自己的变态兴趣。"
 
 # game/code/recap/w2_recap.rpy:204
 translate chinese week_2_day_9_09a0d01f:
 
     # "The moment finally came where [mcname] met Samiya, notorious luggage thief and sexy prostitute."
-    "The moment finally came where [mcname] met Samiya, notorious luggage thief and sexy prostitute."
+    "这一刻终于来了，[mcname]遇到了萨米亚，这位臭名昭著的行李小偷和性感妓女。"
 
 # game/code/recap/w2_recap.rpy:207
 translate chinese week_2_day_9_f5452fc9:
 
     # "He tried out her unique services, and Samiya certainly seemed to enjoy herself."
-    "He tried out her unique services, and Samiya certainly seemed to enjoy herself."
+    "他尝试了她独特的服务，萨米亚似乎很享受。"
 
 # game/code/recap/w2_recap.rpy:209
 translate chinese week_2_day_9_a05093e3:
 
     # "After having some fun, [mcname] spoke to Samiya about the stolen luggage. She admitted to the crime but wouldn't give back the clothes without [mcname] doing a favor for her."
-    "After having some fun, [mcname] spoke to Samiya about the stolen luggage. She admitted to the crime but wouldn't give back the clothes without [mcname] doing a favor for her."
+    "一起享乐后，[mcname]跟萨米亚谈起了被盗的行李。她承认了自己的罪行，但如果[mcname]不帮她一个忙，她是不会归还衣服的。"
 
 # game/code/recap/w2_recap.rpy:212
 translate chinese week_2_day_9_92140091:
 
     # "[mcname] explained how he'd tracked the stolen luggage to Samiya. She admitted to the crime but wouldn't give back the clothes without a favor in return."
-    "[mcname] explained how he'd tracked the stolen luggage to Samiya. She admitted to the crime but wouldn't give back the clothes without a favor in return."
+    "[mcname]解释了他是如何一路追踪被盗行李，直到找到了萨米亚。她承认了自己的罪行，但如果[mcname]不帮她一个忙，她是不会归还衣服的。"
 
 # game/code/recap/w2_recap.rpy:215
 translate chinese week_2_day_9_5063ee7e:
 
     # "Without a better option, our hero agreed to pull a prank on a MILF."
-    "Without a better option, our hero agreed to pull a prank on a MILF."
+    "没有更好的选择，我们的主人公同意对一个性感少妇进行恶作剧。"
 
 # game/code/recap/w2_recap.rpy:218
 translate chinese week_2_day_9_c515d165:
 
     # "The offer of assisting a hooker appealed to our hero."
-    "The offer of assisting a hooker appealed to our hero."
+    "协助妓女的提议吸引了我们的男主角。"
 
 # game/code/recap/w2_recap.rpy:221
 translate chinese week_2_day_9_2384d610:
 
     # "Our hero always knew this day would come. The day he'd become a gigolo!"
-    "Our hero always knew this day would come. The day he'd become a gigolo!"
+    "我们的主人公一直都知道这一天会到来。他成为男妓的那一天!"
 
 # game/code/recap/w2_recap.rpy:223
 translate chinese week_2_day_9_de3e5ab4:
 
     # "After dealing with Samiya, [mcname] was relieved to spend some time with Lydia on a lunch date."
-    "After dealing with Samiya, [mcname] was relieved to spend some time with Lydia on a lunch date."
+    "和萨米亚打完交道之后，[mcname]松了一口气，与莉迪亚共进午餐。"
 
 # game/code/recap/w2_recap.rpy:225
 translate chinese week_2_day_9_418ee6ad:
 
     # "Everything was going well until our hero noticed a familiar redhead."
-    "Everything was going well until our hero noticed a familiar redhead."
+    "一切都很顺利，直到我们的主人公注意到一个熟悉的红发女郎。"
 
 # game/code/recap/w2_recap.rpy:227
 translate chinese week_2_day_9_9711346f:
 
     # "Fearing what would happen if Lydia found AmRose crashing their date, [mcname] had her hide underneath the table."
-    "Fearing what would happen if Lydia found AmRose crashing their date, [mcname] had her hide underneath the table."
+    "由于担心莉迪亚发现阿姆爱洛丝，从而导致两人的约会不欢而散，[mcname]让她躲在桌子下面。"
 
 # game/code/recap/w2_recap.rpy:229
 translate chinese week_2_day_9_af373a6d:
 
     # "This proved to be a bit of a mistake when a Blitz Challenge occurred. Every horny and hopeful to satisfy [mcname], AmRose did not let the opportunity pass her by."
-    "This proved to be a bit of a mistake when a Blitz Challenge occurred. Every horny and hopeful to satisfy [mcname], AmRose did not let the opportunity pass her by."
+    "当快闪挑战发生时，这被证明是一个错误。出于饥渴和希望满足[mcname]的需求，爱洛丝没有让机会从她身边溜走。"
 
 # game/code/recap/w2_recap.rpy:231
 translate chinese week_2_day_9_c2324e96:
 
     # "[mcname] tried to play it cool and failed miserably. Fortunately, Lydia didn't notice, and the two had an amazing time together."
-    "[mcname] tried to play it cool and failed miserably. Fortunately, Lydia didn't notice, and the two had an amazing time together."
+    "[mcname]试图表现得很冷静，但不幸失败了。幸运的是，莉迪亚没有注意到。两人在一起度过了一段美好的时光。"
 
 # game/code/recap/w2_recap.rpy:234
 translate chinese week_2_day_9_58deca18:
 
     # "That night, our hero faced his greatest challenge yet. Being Samiya's assistant."
-    "That night, our hero faced his greatest challenge yet. Being Samiya's assistant."
+    "那天晚上，我们的主人公面临着他最大的挑战--做萨米亚的助手。"
 
 # game/code/recap/w2_recap.rpy:237
 translate chinese week_2_day_9_f9d7e373:
 
     # "Our hero submitted and did everything his Mistress asked him to do."
-    "Our hero submitted and did everything his Mistress asked him to do."
+    "我们的主人公屈服了，按照女主人的要求做了一切。"
 
 # game/code/recap/w2_recap.rpy:240
 translate chinese week_2_day_9_8bd77bf9:
 
     # "[mcname] turned the tables and showed Samiya his dominant side."
-    "[mcname] turned the tables and showed Samiya his dominant side."
+    "[mcname]扭转了局面，向萨米亚展示了他占优势的一面。"
 
 # game/code/recap/w2_recap.rpy:244
 translate chinese week_2_day_9_a70502a3:
 
     # "[mcname] joined Squizzle for some more {i}training{/i}."
-    "[mcname] joined Squizzle for some more {i}training{/i}."
+    "[mcname]加入了斯奎兹，接受更多的{i}训练{/i}。"
 
 # game/code/recap/w2_recap.rpy:247
 translate chinese week_2_day_9_34d96f75:
 
     # "[mcname] tasted Squizzle right from the source."
-    "[mcname] tasted Squizzle right from the source."
+    "[mcname]直接从源头上品尝了斯奎兹。"
 
 # game/code/recap/w2_recap.rpy:250
 translate chinese week_2_day_9_96b4d648:
 
     # "Squizzle's loved quenching her thrist with [mcname]'s pee."
-    "Squizzle's loved quenching her thrist with [mcname]'s pee."
+    "斯奎兹喜欢用[mcname]的小便解渴。"
 
 # game/code/recap/w2_recap.rpy:252
 translate chinese week_2_day_9_74fdc02e:
 
     # "She had a blast, but the challenge to only cum with piss in her mouth was becoming more and more of difficult."
-    "She had a blast, but the challenge to only cum with piss in her mouth was becoming more and more of difficult."
+    "她玩得很开心，但只在嘴里含着尿的情况下射精的挑战变得越来越难了。"
 
 # game/code/recap/w2_recap.rpy:255
 translate chinese week_2_day_9_22c3462d:
 
     # "Mc took to Samiya's task with much gusto."
-    "Mc took to Samiya's task with much gusto."
+    "Mc兴致勃勃地接受了萨米亚的任务。"
 
 # game/code/recap/w2_recap.rpy:258
 translate chinese week_2_day_9_d99a4d73:
 
     # "He learned he'd made a terrible mistake and came to the wrong house."
-    "He learned he'd made a terrible mistake and came to the wrong house."
+    "他意识到自己犯了一个严重的错误，走错了地方。"
 
 # game/code/recap/w2_recap.rpy:259
 translate chinese week_2_day_9_1942996f:
 
     # "But the woman was not only fine with it, she told him she was hungry for more."
-    "But the woman was not only fine with it, she told him she was hungry for more."
+    "但这位女士不仅没有意见，还告诉他，她渴望得到更多。"
 
 # game/code/recap/w2_recap.rpy:262
 translate chinese week_2_day_9_e5bd3092:
 
     # "[mcname]'s evening got very interesting when Samiya's giggilo task had him doing some very risky roleplay."
-    "[mcname]'s evening got very interesting when Samiya's giggilo task had him doing some very risky roleplay."
+    "萨米亚的男妓任务需要进行非常冒险的角色扮演，这让[mcname]的夜晚变得非常有趣。"
 
 # game/code/recap/w2_recap.rpy:264
 translate chinese week_2_day_9_75902bb2:
 
     # "Our hero enjoyed punishing the horny Judge."
-    "Our hero enjoyed punishing the horny Judge."
+    "我们的主人公很享受惩罚饥渴的法官。"
 
 # game/code/recap/w2_recap.rpy:266
 translate chinese week_2_day_9_d76a64e8:
 
     # "The mature beauty gave [mcname]'s performance high marks, and even hinted that she might want a follow-up session."
-    "The mature beauty gave [mcname]'s performance high marks, and even hinted that she might want a follow-up session."
+    "这位成熟的美女给了[mcname]很高的分数，甚至暗示她可能需要后续治疗。"
 
 # game/code/recap/w2_recap.rpy:269
 translate chinese week_2_day_9_7c6fc555:
 
     # "Traveling with Samiya, our hero prepared to prank a MILF."
-    "Traveling with Samiya, our hero prepared to prank a MILF."
+    "和萨米亚一起前行，我们的主人公准备捉弄一个性感少妇。"
 
 # game/code/recap/w2_recap.rpy:271
 translate chinese week_2_day_9_de4ea015:
 
     # "Which turned into some good old fashioned public sex between [mcname] and Vanessa."
-    "Which turned into some good old fashioned public sex between [mcname] and Vanessa."
+    "这变成了[mcname]和瓦妮莎之间的一场老式的公开性爱。"
 
 # game/code/recap/w2_recap.rpy:273
 translate chinese week_2_day_9_272af85c:
 
     # "At least it was until Samiya absolutely killed the mood by slutshaming Vanessa."
-    "At least it was until Samiya absolutely killed the mood by slutshaming Vanessa."
+    "至少在萨米亚以荡妇身份羞辱瓦妮莎、彻底破坏气氛之前是这样的。"
 
 # game/code/recap/w2_recap.rpy:275
 translate chinese week_2_day_9_ba13a970:
 
     # "Lydia and [mcname] talked through the evening routine once again. This time, they talked about how things would go when [mcname] went to the Fetish Party coming up."
-    "Lydia and [mcname] talked through the evening routine once again. This time, they talked about how things would go when [mcname] went to the Fetish Party coming up."
+    "莉迪亚和[mcname]又一次在晚上的例行电话中聊起来。这一次，他们讨论了当[mcname]去参加即将到来的性趣探测器癖派对时，事情会如何发展。"
 
 # game/code/recap/w2_recap.rpy:277
 translate chinese week_2_day_9_253f18bb:
 
     # "To our hero's surprise, Lydia was completely fine with him going and actually wanted him to tell her about his experiences at the party."
-    "To our hero's surprise, Lydia was completely fine with him going and actually wanted him to tell her about his experiences at the party."
+    "让我们的男主角惊讶的是，莉迪亚完全同意他前去派对，还想让[mcname]将在派对上的经历告诉她。"
 
 # game/code/recap/w2_recap.rpy:286
 translate chinese week_2_day_10_77a5037f:
 
     # "In the morning, [mcname] played spy again and tried to find out if Pete was involved in Fetish Locator. Unfortunately, he still wasn't able to figure out the correct password."
-    "In the morning, [mcname] played spy again and tried to find out if Pete was involved in Fetish Locator. Unfortunately, he still wasn't able to figure out the correct password."
+    "早上，[mcname]再次扮演间谍，试图找出皮特是否参与了性趣探测器。不幸的是，他还是没能找出正确的密码。"
 
 # game/code/recap/w2_recap.rpy:288
 translate chinese week_2_day_10_e5ff36f7:
 
     # "Things perked up when he got to tell Stacy he found her an apartment. The two made plans to visit the place that afternoon."
-    "Things perked up when he got to tell Stacy he found her an apartment. The two made plans to visit the place that afternoon."
+    "当他告诉史黛西已为她找到了一间公寓时，史黛西非常高兴。两人计划当天下午参观那个地方。"
 
 # game/code/recap/w2_recap.rpy:291
 translate chinese week_2_day_10_f20c8f3c:
 
     # "Maria opened up to [mcname] in the locker room."
-    "Maria opened up to [mcname] in the locker room."
+    "在更衣室里，玛丽亚对[mcname]敞开了心扉。"
 
 # game/code/recap/w2_recap.rpy:293
 translate chinese week_2_day_10_c95e9b45:
 
     # "[mcname] met up with Samiya to finally recover Stacy's luggage. He got irritated when he saw that the luggage was still not around, but Samiya told him it would be coming shortly."
-    "[mcname] met up with Samiya to finally recover Stacy's luggage. He got irritated when he saw that the luggage was still not around, but Samiya told him it would be coming shortly."
+    "[mcname]与萨米亚会面，最终找回了史黛西的行李。当他看到仍然不在身边时，变得很生气，但萨米亚告诉他很快就会到了。"
 
 # game/code/recap/w2_recap.rpy:295
 translate chinese week_2_day_10_3c4ba161:
 
     # "It turned out that Samiya left the case with a client. The man arrived in a furious state because his wife had found the luggage."
-    "It turned out that Samiya left the case with a client. The man arrived in a furious state because his wife had found the luggage."
+    "原来萨米亚把箱子落在了一个客户那里。那人到了之后非常愤怒，因为他的妻子发现了行李。"
 
 # game/code/recap/w2_recap.rpy:297
 translate chinese week_2_day_10_711876f6:
 
     # "The client was determined to make someone else pay for his own infidelity."
-    "The client was determined to make someone else pay for his own infidelity."
+    "客户决心要让别人为自己的不忠付出代价。"
 
 # game/code/recap/w2_recap.rpy:299
 translate chinese week_2_day_10_0c92fa0b:
 
     # "[mcname] rushed in to help, but the client was too fast."
-    "[mcname] rushed in to help, but the client was too fast."
+    "[mcname]冲进去帮忙，但客户动作太快了。"
 
 # game/code/recap/w2_recap.rpy:301
 translate chinese week_2_day_10_c7dc362d:
 
     # "An unlikely figure came to their rescue... Pete!"
-    "An unlikely figure came to their rescue... Pete!"
+    "一个不太可能的人物来救他们...是皮特!"
 
 # game/code/recap/w2_recap.rpy:303
 translate chinese week_2_day_10_e09b4946:
 
     # "Samiya and [mcname] recovered and joined in on the action, serving up some dildo-based whoop-ass!"
-    "Samiya and [mcname] recovered and joined in on the action, serving up some dildo-based whoop-ass!"
+    "萨米亚和[mcname]恢复过来，加入了皮特，对客户进行了以假阳具为道具的惩治!"
 
 # game/code/recap/w2_recap.rpy:305
 translate chinese week_2_day_10_070eb5cc:
 
     # "The villain retreated, the luggage was returned, and the day was saved. Now [mcname] could finally give Stacy back her luggage."
-    "The villain retreated, the luggage was returned, and the day was saved. Now [mcname] could finally give Stacy back her luggage."
+    "坏蛋撤退了，行李归还了，这一天也得救了。现在[mcname]终于可以把史黛西的行李还给她了。"
 
 # game/code/recap/w2_recap.rpy:308
 translate chinese week_2_day_10_36b78ef0:
 
     # "Pete decided to hang around, hoping to try his luck again with Samiya."
-    "Pete decided to hang around, hoping to try his luck again with Samiya."
+    "皮特决定留下来，希望能在萨米亚那里再试试运气。"
 
 # game/code/recap/w2_recap.rpy:310
 translate chinese week_2_day_10_e0731a8a:
 
     # "That night, [mcname] met up with Lyssa and Vanessa at Stacy's apartment. It turned out to be one amazing spot."
-    "That night, [mcname] met up with Lyssa and Vanessa at Stacy's apartment. It turned out to be one amazing spot."
+    "那天晚上，[mcname]在史黛西的公寓里遇到了丽莎和瓦妮莎。这个地方变得越来越神奇。"
 
 # game/code/recap/w2_recap.rpy:312
 translate chinese week_2_day_10_034af896:
 
     # "Stacy arrived. Before she really took in the apartment, she noticed her suitcase waiting for her."
-    "Stacy arrived. Before she really took in the apartment, she noticed her suitcase waiting for her."
+    "史黛西到了。在她真正参观这个公寓之前，就已注意到她的行李箱在等着她。"
 
 # game/code/recap/w2_recap.rpy:315
 translate chinese week_2_day_10_5d9dfef2:
 
     # "[mcname]'s sister jumped right into his arms. Stacy was overjoyed that her brother had managed to track down her missing belongings."
-    "[mcname]'s sister jumped right into his arms. Stacy was overjoyed that her brother had managed to track down her missing belongings."
+    "[mcname]的妹妹直接扑进了他的怀里。史黛西非常高兴她的哥哥找到了她丢失的东西。"
 
 # game/code/recap/w2_recap.rpy:317
 translate chinese week_2_day_10_846a1231:
 
     # "[mcname] was surprised when Stacy leaped into his arms and thanked him again and again for finding her missing belongings."
-    "[mcname] was surprised when Stacy leaped into his arms and thanked him again and again for finding her missing belongings."
+    "当史黛西跳到他怀里，一遍又一遍地感谢他帮她找回丢失的东西时，[mcname]很惊讶。"
 
 # game/code/recap/w2_recap.rpy:319
 translate chinese week_2_day_10_71a427b1:
 
     # "But this excitement was nothing compared to what she displayed when she saw the scope of her new digs."
-    "But this excitement was nothing compared to what she displayed when she saw the scope of her new digs."
+    "但与她看到新住所的宽敞时的欣喜若狂相比，找到行李的兴奋根本不算什么。"
 
 # game/code/recap/w2_recap.rpy:322
 translate chinese week_2_day_10_e4501dea:
 
     # "While Stacy and Vanessa handled the paperwork for the apartment, Lyssa decided to give [mcname] a 'tour' of the bathroom."
-    "While Stacy and Vanessa handled the paperwork for the apartment, Lyssa decided to give [mcname] a 'tour' of the bathroom."
+    "当史黛西和瓦妮莎处理公寓文件时，丽莎决定带[mcname]参观一下浴室。"
 
 # game/code/recap/w2_recap.rpy:324
 translate chinese week_2_day_10_4124a9b1:
 
     # "The pair found even new ways to enjoy one another's bodies."
-    "The pair found even new ways to enjoy one another's bodies."
+    "这对情侣甚至找到了新方法来享受彼此的身体。"
 
 # game/code/recap/w2_recap.rpy:326
 translate chinese week_2_day_10_f7761263:
 
     # "With the stroke of a pen, Stacy became the proud renter of a brand new apartment."
-    "With the stroke of a pen, Stacy became the proud renter of a brand new apartment."
+    "大笔一挥，史黛西就自豪地租下了一套全新的公寓"
 
 # game/code/recap/w2_recap.rpy:328
 translate chinese week_2_day_10_58ba0511:
 
     # "Before they unpacked, Stacy dragged a hesitant [mcname] off for some shopping with AmRose."
-    "Before they unpacked, Stacy dragged a hesitant [mcname] off for some shopping with AmRose."
+    "在他们打开行李之前，史黛西拖着犹豫不决的[mcname]去和爱洛丝买东西了。"
 
 # game/code/recap/w2_recap.rpy:330
 translate chinese week_2_day_10_b04b9a3c:
 
     # "It turned out that the girls wanted to get him a special outfit for the next Fetish Locator party."
-    "It turned out that the girls wanted to get him a special outfit for the next Fetish Locator party."
+    "原来，女孩们想给他买一套特别的衣服，参加下次的性趣探测器派对。"
 
 # game/code/recap/w2_recap.rpy:332
 translate chinese week_2_day_10_0b26cf61:
 
     # "[mcname] overheard a familiar voice. It was Hana. She was speaking to someone with great concern."
-    "[mcname] overheard a familiar voice. It was Hana. She was speaking to someone with great concern."
+    "[mcname]听到一个熟悉的声音。是哈娜。她在和一个她非常关心的人说话。"
 
 # game/code/recap/w2_recap.rpy:334
 translate chinese week_2_day_10_4b4b8d05:
 
     # "The other girl with her seemed annoyed by Hana's overprotectiveness, arguing she could handle herself."
-    "The other girl with her seemed annoyed by Hana's overprotectiveness, arguing she could handle herself."
+    "和她在一起的另一个女孩似乎对哈娜的过度保护感到恼火，争辩说她可以自己处理。"
 
 # game/code/recap/w2_recap.rpy:337
 translate chinese week_2_day_10_d5d67396:
 
     # "Before the party, Nora told him she'd figured out that Poly was her secret admirer."
-    "Before the party, Nora told him she'd figured out that Poly was her secret admirer."
+    "派对开始前，诺拉告诉他，她已经发现波莉是她的秘密爱慕者。"
 
 # game/code/recap/w2_recap.rpy:347
 translate chinese week_2_day_10_p1_a4d079eb:
 
     # "Our hero ventured into Squizzle's castle once more. This time, she gave him and AmRose special Fetish Trackers for the party."
-    "Our hero ventured into Squizzle's castle once more. This time, she gave him and AmRose special Fetish Trackers for the party."
+    "我们的主人公再次冒险进入了斯奎兹的城堡。这一次，斯奎兹为他和爱洛丝的派对准备了特殊的性趣探测器追踪器。"
 
 # game/code/recap/w2_recap.rpy:348
 translate chinese week_2_day_10_p1_d746ba9c:
 
     # "The trackers were high tech and could track locations... and orgasms."
-    "The trackers were high tech and could track locations... and orgasms."
+    "追踪器是高科技设备，可以追踪位置...和性高潮。"
 
 # game/code/recap/w2_recap.rpy:350
 translate chinese week_2_day_10_p1_87021cf2:
 
     # "Allison introduced him to the special rooms of the party. [mcname] grew excited, feeling that this party would be quite different from the previous one."
-    "Allison introduced him to the special rooms of the party. [mcname] grew excited, feeling that this party would be quite different from the previous one."
+    "艾莉森向他介绍了派对的特殊房间。[mcname]变得兴奋起来，觉得这次聚会将与上一次大不相同。"
 
 # game/code/recap/w2_recap.rpy:354
 translate chinese week_2_day_10_p1_f6fb6b83:
 
     # "There would be no blue-balling for [mcname] tonight. He and Allison even kicked things off, and the spicy girl showed him just how easy it was to make her cum."
-    "There would be no blue-balling for [mcname] tonight. He and Allison even kicked things off, and the spicy girl showed him just how easy it was to make her cum."
+    "今晚[mcname]不再需要强忍蛋蛋。他和艾莉森拉开了夜晚的序幕，辣妹向他展示了让她高潮是多么容易。"
 
 # game/code/recap/w2_recap.rpy:357
 translate chinese week_2_day_10_p1_bc5f26f2:
