@@ -1208,3 +1208,11 @@ translate portuguese strings:
     old "Later That Evening"
     new "Mais Tarde na Noite"
 
+# TODO: Translation updated at 2023-05-22 21:19
+
+translate portuguese strings:
+
+    # game/code/e06/e06s09.rpy:1144
+    old "You have finished playing Ending #06!"
+    new ""
+

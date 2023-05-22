@@ -228,3 +228,11 @@ translate chinese strings:
     old "One year later"
     new "一年后"
 
+# TODO: Translation updated at 2023-05-22 21:18
+
+translate chinese strings:
+
+    # game/code/e13/e13s04.rpy:274
+    old "You have finished playing ending number 13!"
+    new "You have finished playing ending number 13!"
+

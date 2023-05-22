@@ -853,3 +853,11 @@ translate portuguese strings:
     # game/code/e02/e02s10.rpy:411
     old "A few months later"
     new "Alguns messe depois"
+# TODO: Translation updated at 2023-05-22 21:19
+
+translate portuguese strings:
+
+    # game/code/e02/e02s10.rpy:635
+    old "You have finished playing Ending #02!"
+    new ""
+

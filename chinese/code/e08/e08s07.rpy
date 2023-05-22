@@ -957,3 +957,11 @@ translate chinese e08s07_next_day_191559e1:
 
     # mc "What's up?"
     mc "怎么了？"
+# TODO: Translation updated at 2023-05-22 21:18
+
+translate chinese strings:
+
+    # game/code/e08/e08s07.rpy:1086
+    old "You have finished playing Ending #08!"
+    new "You have finished playing Ending #08!"
+

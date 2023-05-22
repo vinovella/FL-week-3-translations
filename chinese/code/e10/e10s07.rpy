@@ -456,3 +456,11 @@ translate chinese strings:
     old "Few days later"
     new "几天后"
 
+# TODO: Translation updated at 2023-05-22 21:18
+
+translate chinese strings:
+
+    # game/code/e10/e10s07.rpy:217
+    old "You have finished playing ending 10!"
+    new "You have finished playing ending 10!"
+

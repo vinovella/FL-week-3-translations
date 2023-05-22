@@ -1216,3 +1216,11 @@ translate chinese e06s09_deep_450db347:
     # lc "FUCK THAT'S DEEP!"
     lc "啊，好深！"
 
+# TODO: Translation updated at 2023-05-22 21:18
+
+translate chinese strings:
+
+    # game/code/e06/e06s09.rpy:1144
+    old "You have finished playing Ending #06!"
+    new "You have finished playing Ending #06!"
+

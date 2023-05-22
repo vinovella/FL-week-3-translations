@@ -456,3 +456,11 @@ translate portuguese strings:
     old "Few days later"
     new "Alguns dias depois"
 
+# TODO: Translation updated at 2023-05-22 21:19
+
+translate portuguese strings:
+
+    # game/code/e10/e10s07.rpy:217
+    old "You have finished playing ending 10!"
+    new ""
+

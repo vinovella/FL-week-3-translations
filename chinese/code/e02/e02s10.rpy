@@ -853,3 +853,11 @@ translate chinese strings:
     # game/code/e02/e02s10.rpy:411
     old "A few months later"
     new "几个月后"
+# TODO: Translation updated at 2023-05-22 21:18
+
+translate chinese strings:
+
+    # game/code/e02/e02s10.rpy:635
+    old "You have finished playing Ending #02!"
+    new "You have finished playing Ending #02!"
+

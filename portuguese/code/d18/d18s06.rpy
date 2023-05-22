@@ -202,7 +202,7 @@ translate portuguese d18s06_f94693b2:
 translate portuguese d18s06_33cd6214:
 
     # hr "CompSci girl is trying to brute force codes through a simulation or something like that."
-    hr "A garota dos computadores t[a tentando passar usar força por uma simulação ou algo assim."
+    hr "A garota dos computadores ta tentando passar usar força por uma simulação ou algo assim."
 
 # game/code/d18/d18s06.rpy:111
 translate portuguese d18s06_94ffaccc:
@@ -581,4 +581,3 @@ translate portuguese strings:
     # game/code/d18/d18s06.rpy:6
     old "Some time later\nAt the college campus"
     new "Algum tempo depois\nNo campus da faculdade"
-

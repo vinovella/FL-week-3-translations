@@ -804,3 +804,19 @@ translate portuguese strings:
     old "At Subway Station"
     new "No Metrô"
 
+# TODO: Translation updated at 2023-05-22 21:19
+
+translate portuguese strings:
+
+    # game/code/e01/e01s02.rpy:400
+    old "You have finished Ending #01!"
+    new ""
+
+    # game/code/e01/e01s02.rpy:401
+    old "Stacy and [mcname] will return!"
+    new ""
+
+    # game/code/e01/e01s02.rpy:402
+    old "In Fetish Locator: S&M Studio!"
+    new ""
+

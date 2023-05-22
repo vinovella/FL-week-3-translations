@@ -957,3 +957,11 @@ translate portuguese e08s07_next_day_191559e1:
 
     # mc "What's up?"
     mc "O que houve?"
+# TODO: Translation updated at 2023-05-22 21:19
+
+translate portuguese strings:
+
+    # game/code/e08/e08s07.rpy:1086
+    old "You have finished playing Ending #08!"
+    new ""
+
