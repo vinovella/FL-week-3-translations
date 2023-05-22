@@ -434,9 +434,9 @@ translate portuguese strings:
 
     # game/code/e06/e06s01.rpy:12
     old "Choose optional characters for this ending"
-    new ""
+    new "Escolha personagens adicionais para este final"
 
     # game/code/e06/e06s01.rpy:47
     old "Continue"
-    new ""
+    new "Continuar"
 
