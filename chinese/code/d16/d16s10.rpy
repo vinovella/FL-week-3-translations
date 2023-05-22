@@ -1180,7 +1180,7 @@ translate chinese d16s10_8babcf10:
 translate chinese d16s10_404c8791:
 
     # flr "You have earned [d16s10_points] points."
-    flr "你已经获得了[d16s10_poins]点数。"
+    flr "你已经获得了[d16s10_points]点数。"
 
 # game/code/d16/d16s10.rpy:684
 translate chinese d16s10_23872ecb:

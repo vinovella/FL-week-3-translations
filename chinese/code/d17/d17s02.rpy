@@ -748,7 +748,7 @@ translate chinese d17s02_vw_fucking_5dfa3cab:
 translate chinese d17s02_vw_fucking_5d60e75f:
 
     # flr "You have received [d17s02_points] points."
-    flr "你已经获得了[d17s02_poins]点数。"
+    flr "你已经获得了[d17s02_points]点数。"
 
 # game/code/d17/d17s02.rpy:467
 translate chinese d17s02_vw_fucking_3cc8865e:

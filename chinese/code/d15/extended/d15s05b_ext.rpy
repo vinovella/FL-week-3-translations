@@ -1144,7 +1144,7 @@ translate chinese d15s05b_lesbians_4474354e:
 translate chinese d15s05b_lesbians_4c244689:
 
     # pw "Hey [mcname], flip a coin."
-    pw "嘿[cname]，扔个硬币吧。"
+    pw "嘿[mcname]，扔个硬币吧。"
 
 # game/code/d15/extended/d15s05b_ext.rpy:596
 translate chinese d15s05b_lesbians_615b0d04:
