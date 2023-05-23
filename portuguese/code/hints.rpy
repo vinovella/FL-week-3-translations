@@ -1153,3 +1153,12 @@ translate portuguese strings:
     # game/code/e01/e01_screen.rpy:61
     old "You will eat Stacy's ass and then potentially have your ass eaten (Giving and receiving)."
     new "Você vai lamber a bunda da Stacy, e potencialmente ter sua bunda lambida (Dando e recebendo)."
+
+# TODO: Translation updated at 2023-05-23 22:55
+
+translate portuguese strings:
+
+    # game/code/hints.rpy:5
+    old "This is bad for Lydia's case . You maybe able to punish her yourself. Necessary for Ending-04."
+    new ""
+

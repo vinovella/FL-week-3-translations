@@ -1153,3 +1153,12 @@ translate chinese strings:
     # game/code/hints.rpy:5
     old "You will eat Stacy's ass and then potentially have your ass eaten (Giving and receiving)."
     new "你将品尝史黛西的屁股，然后有可能享受自己的屁股被品尝（施与和接受）。"
+
+# TODO: Translation updated at 2023-05-23 22:56
+
+translate chinese strings:
+
+    # game/code/hints.rpy:5
+    old "This is bad for Lydia's case . You maybe able to punish her yourself. Necessary for Ending-04."
+    new "This is bad for Lydia's case . You maybe able to punish her yourself. Necessary for Ending-04."
+

@@ -260,7 +260,7 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:305
     old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
-    new "PARA ME CERTIFICAR QUE NINGUÉM\nVAI SER CHANTAGEADO"
+    new "PARA ME CERTIFICAR QUE\nNINGUÉM VAI SER CHANTAGEADO"
 
     # game/code/data/extended/extra_gallery.rpy:314
     old "YOU'RE GOING TO\nUSE IT FOR GOOD, RIGHT?"
@@ -268,7 +268,7 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:306
     old "RIGHT?"
-    new "NÉ?"
+    new "   NÉ?"
 
     # game/code/data/extended/extra_gallery.rpy:319
     old "THE FIRST ENDING\nFROM 18 TOTAL ENDINGS"
