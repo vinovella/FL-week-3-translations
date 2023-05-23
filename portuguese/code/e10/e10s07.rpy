@@ -462,5 +462,5 @@ translate portuguese strings:
 
     # game/code/e10/e10s07.rpy:217
     old "You have finished playing ending 10!"
-    new ""
+    new "Você concluiu o final 10!"
 
