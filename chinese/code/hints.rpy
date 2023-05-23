@@ -4,59 +4,59 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "Select NTR if you want a harsher, darker story where you may get betrayed."
-    new "Select NTR if you want a harsher, darker story where you may get betrayed."
+    new "如果你想要一个更残酷、更黑暗的故事，如果你勇于面临可能被背叛的风险，请选择NTR。"
 
     # game/code/hints.rpy:5
     old "Select LC for a more romantic story with Lydia."
-    new "Select LC for a more romantic story with Lydia."
+    new "如果你想和莉迪亚展开更浪漫的故事，请选择LC。"
 
     # game/code/hints.rpy:5
     old "Select this if you are leaning towards an ending with multiple people."
-    new "Select this if you are leaning towards an ending with multiple people."
+    new "如果你倾向于多人结局，请选择此项。"
 
     # game/code/hints.rpy:5
     old "Select this if you are leaning towards an ending with one person."
-    new "Select this if you are leaning towards an ending with one person."
+    new "如果你倾向于与单人展开结局，请选择此项。"
 
     # game/code/hints.rpy:5
     old "This is an important choice - You will have to a study a certain amount of times if you wish to not flunk the exams."
-    new "This is an important choice - You will have to a study a certain amount of times if you wish to not flunk the exams."
+    new "这个选择很重要--如果你不想在考试中挂科，就必须学习一定的时间。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Dahlia and Samiya develops - You will invite them over and they will rekindle their relationship by dominating you - Not picking this choice might have dire consequences in the future."
-    new "This is an important choice that changes the way your relationship with Dahlia and Samiya develops - You will invite them over and they will rekindle their relationship by dominating you - Not picking this choice might have dire consequences in the future."
+    new "这个选择很重要，它将改变你与黛丽娅和萨米亚的关系--你将邀请他们过来，他们会通过支配你来让她们重归就好--不选择此项可能会在未来产生可怕的后果。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Daisy develops - You will go with Daisy to get checked out again, where you two will have some fun while she's dressed as a nurse - Not picking this choice might have dire consequences in the future."
-    new "This is an important choice that changes the way your relationship with Daisy develops - You will go with Daisy to get checked out again, where you two will have some fun while she's dressed as a nurse - Not picking this choice might have dire consequences in the future."
+    new "这个选择很重要，它会改变你与黛西的关系--你将和黛西一起去复查，在那里，她会打扮成护士，你们两个会玩得很开心--不选择此项可能会在未来产生可怕的后果。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Dahlia and Samiya develops - You'll stop them from dominating you and tell them off. - Picking this choice might have dire consequences in the future."
-    new "This is an important choice that changes the way your relationship with Dahlia and Samiya develops - You'll stop them from dominating you and tell them off. - Picking this choice might have dire consequences in the future."
+    new "这个选择很重要，它会改变你与黛丽娅和萨米亚的关系--你会阻止他们支配你并责备他们。不选择此项可能会在未来产生可怕的后果。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Dahlia and Samiya develops - You will let them work out their anger and they will become friends again."
-    new "This is an important choice that changes the way your relationship with Dahlia and Samiya develops - You will let them work out their anger and they will become friends again."
+    new "这个选择很重要，它会改变你与黛丽娅和萨米亚的关系--你会让他们把怒火发泄出来，他们会重新成为朋友。"
 
     # game/code/hints.rpy:5
     old "You will get more points with this choice, but Samiya and Dahlia won't fully resolve their dispute."
-    new "You will get more points with this choice, but Samiya and Dahlia won't fully resolve their dispute."
+    new "你会因为这个选择得到更多的分数，但是萨米亚和黛丽娅并不能完全解决他们的争端。"
 
     # game/code/hints.rpy:5
     old "You won't get any points with this choice, but Samiya and Dahlia will fully resolve their dispute and will open a path for you to have a relationship with both plus Pete."
-    new "You won't get any points with this choice, but Samiya and Dahlia will fully resolve their dispute and will open a path for you to have a relationship with both plus Pete."
+    new "你不会因为这个选择得到更多的分数，但萨米亚和黛丽娅会完全解决他们之间的争端，并为你打开一条新路径，让你和她们以及皮特一起发展关系。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Daisy develops - You will kiss her and your relationship will get deeper."
-    new "This is an important choice that changes the way your relationship with Daisy develops - You will kiss her and your relationship will get deeper."
+    new "这个选择很重要，它会改变你与黛西的关系--你会亲吻她，你们的关系会变得更深。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Daisy develops - You won't kiss her. Monster."
-    new "This is an important choice that changes the way your relationship with Daisy develops - You won't kiss her. Monster."
+    new "这个选择很重要，它会改变你与黛西的关系--你不会吻她。她这个怪物。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Maria develops - You'll leave her there and leave - You will most likely never see her again."
-    new "This is an important choice that changes the way your relationship with Maria develops - You'll leave her there and leave - You will most likely never see her again."
+    new "这个选择很重要，它会改变你和玛丽亚的关系--你会把她留在那里，然后离开--你很可能再也见不到她了。"
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Maria develops - You'll get her out of this place and take her to a doc."
