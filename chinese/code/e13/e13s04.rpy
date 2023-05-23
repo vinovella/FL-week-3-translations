@@ -234,5 +234,5 @@ translate chinese strings:
 
     # game/code/e13/e13s04.rpy:274
     old "You have finished playing ending number 13!"
-    new "You have finished playing ending number 13!"
+    new "你已经完成了第13个结局！"
 
