@@ -154,7 +154,7 @@ translate portuguese after_credits_e306f37c:
 translate portuguese after_credits_79db875b:
 
     # sm "Congrats on finally opening up the S&M Studio, by the way!"
-    sm "Ah, e parabéns por finalmente abrir o S&M Studio."
+    sm "Ah, e parabéns por finalmente abrir o Estúdio S&M."
 
 # game/code/labels.rpy:246
 translate portuguese after_credits_37ca87df:
@@ -172,7 +172,7 @@ translate portuguese after_credits_cc737886:
 translate portuguese after_credits_03951422:
 
     # dd "Well, looks like our little Stacy will get her own game! \"Fetish Locator: S&M Studio\""
-    dd "Bem, parece que a nossa Stacyzinha vai ter o próprio jogo! \"Fetish Locator: S&M Studio\""
+    dd "Bem, parece que a nossa Stacyzinha vai ter o próprio jogo! \"Fetish Locator: Estúdio S&M\""
 
 # game/code/labels.rpy:255
 translate portuguese after_credits_f459c72f:
