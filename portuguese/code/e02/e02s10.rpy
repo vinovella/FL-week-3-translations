@@ -859,5 +859,5 @@ translate portuguese strings:
 
     # game/code/e02/e02s10.rpy:635
     old "You have finished playing Ending #02!"
-    new ""
+    new "Você concluiu o Final #02!"
 
