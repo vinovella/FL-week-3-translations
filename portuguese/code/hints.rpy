@@ -1160,5 +1160,5 @@ translate portuguese strings:
 
     # game/code/hints.rpy:5
     old "This is bad for Lydia's case . You maybe able to punish her yourself. Necessary for Ending-04."
-    new ""
+    new "Isso não é bom para o processo da Lydia. Você mesmo pode puni-la. Necessário para o Final-04."
 
