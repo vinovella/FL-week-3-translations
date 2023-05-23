@@ -1,1136 +1,1136 @@
-﻿# TODO: Translation updated at 2023-05-20 17:12
+# TODO: Translation updated at 2023-05-20 17:12
 
 translate portuguese strings:
 
     # game/code/hints.rpy:5
     old "Select NTR if you want a harsher, darker story where you may get betrayed."
-    new ""
+    new "Selecione NTR se quiser uma história mais dura e sombria, onde você pode ser traído."
 
     # game/code/hints.rpy:5
     old "Select LC for a more romantic story with Lydia."
-    new ""
+    new "Selecione LC para uma história mais romântica com Lydia."
 
     # game/code/hints.rpy:5
     old "Select this if you are leaning towards an ending with multiple people."
-    new ""
+    new "Selecione isso se deseja um final com várias pessoas."
 
     # game/code/hints.rpy:5
     old "Select this if you are leaning towards an ending with one person."
-    new ""
+    new "Selecione isso se deseja um final com uma pessoa."
 
     # game/code/hints.rpy:5
     old "This is an important choice - You will have to a study a certain amount of times if you wish to not flunk the exams."
-    new ""
+    new "Esta escolha é importante - Você terá que estudar um certo número de vezes se quiser passar nas provas."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Dahlia and Samiya develops - You will invite them over and they will rekindle their relationship by dominating you - Not picking this choice might have dire consequences in the future."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Dahlia e Samiya se desenvolve - Você vai convidá-las e elas vão reatar seu relacionamento dominando você - Não selecionar esta escolha pode ter graves consequências no futuro."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Daisy develops - You will go with Daisy to get checked out again, where you two will have some fun while she's dressed as a nurse - Not picking this choice might have dire consequences in the future."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Daisy se desenvolve - Você vai sair com Daisy para fazer outro checkup, onde vocês se divertirão enquanto ela se veste de enfermeira - Não selecionar esta escolha pode ter graves consequências no futuro."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Dahlia and Samiya develops - You'll stop them from dominating you and tell them off. - Picking this choice might have dire consequences in the future."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Dahlia e Samiya se desenvolve - Você vai impedi-las de dominá-lo e repreendê-las - Selecionar esta escolha pode ter graves consequências no futuro."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Dahlia and Samiya develops - You will let them work out their anger and they will become friends again."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Dahlia e Samiya se desenvolve - Você vai deixá-las cuidar da raiva delas e elas ficarão amigas novamente."
 
     # game/code/hints.rpy:5
     old "You will get more points with this choice, but Samiya and Dahlia won't fully resolve their dispute."
-    new ""
+    new "Você receberá mais pontos com esta escolha, mas Samiya e Dahlia não resolverão os seus problemas completamente."
 
     # game/code/hints.rpy:5
     old "You won't get any points with this choice, but Samiya and Dahlia will fully resolve their dispute and will open a path for you to have a relationship with both plus Pete."
-    new ""
+    new "Você não receberá pontos com esta escolha, mas Samiya e Dahlia resolverão seus problemas completamente e isso abrirá um caminho para você ter um relacionamento com ambas, além de Pete."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Daisy develops - You will kiss her and your relationship will get deeper."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Daisy se desenvolve - Você a beijará, e seu relacionamento se aprofundará."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Daisy develops - You won't kiss her. Monster."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Daisy se desenvolve - Você não a beijará. Monstro."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Maria develops - You'll leave her there and leave - You will most likely never see her again."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Maria se desenvolve - Você a deixará e vai embora - Provavelmente nunca a verá de novo."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Maria develops - You'll get her out of this place and take her to a doc."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Maria se desenvolve - Você vai tirá-la desse lugar e levá-la para um médico."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Maria develops - You will get the choice to make her whore herself out through sucking, fucking, and rimming."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Maria s desenvolve - Você terá a escolha de fazer ela se prostituir chupando, fodendo, e lambendo bundas."
 
     # game/code/hints.rpy:5
     old "Chose this to continue sex scene and get some points."
-    new ""
+    new "Escolha isto para continuar a cena de sexo e ganhar alguns pontos."
 
     # game/code/hints.rpy:5
     old "Ends the scene."
-    new ""
+    new "Termina a cena."
 
     # game/code/hints.rpy:5
     old "Ends the scene"
-    new ""
+    new "Termina a cena"
 
     # game/code/hints.rpy:5
     old "This choice has no consequence currently. Learn more about Nora's past."
-    new ""
+    new "Esta escolha não tem consequências atualmente. Descubra mais do passado da Nora."
 
     # game/code/hints.rpy:5
     old "This choice has no consequence currently."
-    new ""
+    new "Esta escolha não tem consequências atualmente."
 
     # game/code/hints.rpy:5
     old "Polly fucks Nora with a strap-on, starting with Nora giving head."
-    new ""
+    new "Polly fode Nora com uma cinta, começando com um boquete da Nora."
 
     # game/code/hints.rpy:5
     old "Starts with Nora fucking Polly's tail with a strap-on."
-    new ""
+    new "Começa com Nora fodendo o traseiro da Polly com uma cinta."
 
     # game/code/hints.rpy:5
     old "Nora will use her strap-on on your butthole."
-    new ""
+    new "Nora vai usar a cinta na sua bunda."
 
     # game/code/hints.rpy:5
     old "You will wear a strap-on and team up with Polly to fuck Nora."
-    new ""
+    new "Você usa uma cinta e se junta a Polly para foder Nora."
 
     # game/code/hints.rpy:5
     old "Skip either of the above possibilities."
-    new ""
+    new "Pula qualquer das possibilidades acima."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Lyssa develops - This choice is important if you wish to pursue a long-term relationship with Lyssa."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Lyssa se desenvolve - Esta escolha é importante se quiser um relacionamento a longo prazo com Lyssa."
 
     # game/code/hints.rpy:5
     old "Only kissing her will lock out some Lyssa endings"
-    new ""
+    new "Apenas beijá-la vai bloquear alguns finais da Lyssa."
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently - You will piss into Min's mouth."
-    new ""
+    new "Esta escolha não tem nenhuma consequência importante atualmente - Você mijará na boca da Min."
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently - You will drink Min's piss."
-    new ""
+    new "Esta escolha não tem nenhuma consequência importante atualmente - Você beberá o mijo da Min."
 
     # game/code/hints.rpy:5
     old "This choice doesn't have any great consequence currently - Lydia will piss on Min instead."
-    new ""
+    new "Esta escolha não tem nenhuma consequência importante atualmente - Lydia que vai mijar na Min."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Min and watersports develops - You will keep getting watersports content."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Min e urofilia se desenvolve - Você continuará recebendo conteúdo com urofilia."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Min and watersports develops - You will be less likely to get watersports content in the future."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Min e urofilia se desenvolve - Você verá menos conteúdo com urofilia no futuro."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with AmRose develops - You will eat her out and she'll obviously be happy about it. Necessary for Ending 9."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com AmRose se desenvolve - Você vai lambê-la e ela obviamente ficará feliz. Necessário para o Final 9."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with AmRose develops - You won't eat her out and she'll be miffed about it."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com AmRose se desenvolve - Você não vai lambê-la, e ela ficará chateada."
 
     # game/code/hints.rpy:5
     old "Good with both Lydia and AmRose."
-    new ""
+    new "Bom para tanto Lydia quanto AmRose."
 
     # game/code/hints.rpy:5
     old "Offends AmRose, but Lydia doesn't find out the truth."
-    new ""
+    new "Ofende AmRose, mas Lydia não descobre a verdade."
 
     # game/code/hints.rpy:5
     old "You leave with AmRose."
-    new ""
+    new "Você sai com AmRose."
 
     # game/code/hints.rpy:5
     old "Better for AmRose Slave path; AmRose watches you with Lydia."
-    new ""
+    new "Melhor para o caminho da AmRose Escrava; AmRose assiste você com Lydia."
 
     # game/code/hints.rpy:5
     old "Better for AmRose Romance path; AmRose doesn't watch you with Lydia."
-    new ""
+    new "Melhor para o caminho de Romance da AmRose; AmRose não assiste você com a Lydia."
 
     # game/code/hints.rpy:5
     old "Lydia tells you her fantasy. Different for LC or NTR path."
-    new ""
+    new "Lydia conta a fantasia dela. Diferente para os caminhos LC ou NTR."
 
     # game/code/hints.rpy:5
     old "Lydia doesn't tell you her fantasy."
-    new ""
+    new "Lydia não conta a fantasia dela."
 
     # game/code/hints.rpy:5
     old "Choice significantly impacts future scenes."
-    new ""
+    new "Escolha impacta bastante cenas futuras."
 
     # game/code/hints.rpy:5
     old "You Love Lydia and tell her often. This affects Lydia's endings."
-    new ""
+    new "Você ama Lydia e fala muitas vezes. Isso afeta os finais da Lydia."
 
     # game/code/hints.rpy:5
     old "You don't tell Lydia that you love her. This affects Lydia's endings."
-    new ""
+    new "Você não fala para Lydia que a ama. Isso afeta os finais da Lydia."
 
     # game/code/hints.rpy:5
     old "You'll get out of the cage right now."
-    new ""
+    new "Você removerá a jaula agora mesmo."
 
     # game/code/hints.rpy:5
     old "You'll miss some scenes if you don't get out of the cage. The cage will come off at the end of the day."
-    new ""
+    new "Você perderá umas cenas se não tirar a jaula. Ela sairá ao final do dia."
 
     # game/code/hints.rpy:5
     old "This choice will push you more towards Stacy's path."
-    new ""
+    new "Esta escolha vai colocá-lo mais perto do caminho da Stacy."
 
     # game/code/hints.rpy:5
     old "This choice might pull you away from Stacy's path."
-    new ""
+    new "Esta escolha pode tirá-lo do caminho da Stacy."
 
     # game/code/hints.rpy:5
     old "Stacy will show you some pictures of her pissing."
-    new ""
+    new "Stacy mostrará algumas fotos dela mijando."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Allison develops - You'll go over to Allison's dorm and talk with her. If you're out of the cock cage, you will also have sex with Allison while on cam."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Allison se desenvolve - Você vai até o dormitório da Allison conversar com ela. Se estiver sem a jaula de pau, também fará sexo com Allison em frente à câmera."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Allison develops - You will reject her and potentially lose her relationship in the future."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Allison se desenvolve - Você a rejeitará e possivelmente acabará perderá um relacionamento com ela no futuro."
 
     # game/code/hints.rpy:5
     old "You will have sex with Jessie."
-    new ""
+    new "Você fará sexo com Jessie."
 
     # game/code/hints.rpy:5
     old "You will refuse to have sex with Jessie."
-    new ""
+    new "Você recusará fazer sexo com Jessie."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-13."
-    new ""
+    new "Esta escolha começa o Final-13."
 
     # game/code/hints.rpy:5
     old "This choice lets you continue the main story."
-    new ""
+    new "Esta escolha permite que continue a história principal."
 
     # game/code/hints.rpy:5
     old "Necessary for Ending 8."
-    new ""
+    new "Necessário para o Final 8."
 
     # game/code/hints.rpy:5
     old "When she was under the table during your date with Lydia."
-    new ""
+    new "Quando ela estava sob a mesa durante seu encontro com Lydia."
 
     # game/code/hints.rpy:5
     old "You will fuck AmRose's virgin ass."
-    new ""
+    new "Você foderá a bunda virgem da AmRose."
 
     # game/code/hints.rpy:5
     old "You will get a handjob while watching AmRose eat Lydia's pussy."
-    new ""
+    new "Você receberá uma punheta enquanto vê AmRose lamber a boceta da Lydia."
 
     # game/code/hints.rpy:5
     old "Vanessa uses her feet to jerk you off."
-    new ""
+    new "Vanessa usa os pés para masturbá-lo."
 
     # game/code/hints.rpy:5
     old "Vanessa worships your cock and balls."
-    new ""
+    new "Vanessa adora seu pau e bolas."
 
     # game/code/hints.rpy:5
     old "Vanessa worships your cock and balls"
-    new ""
+    new "Vanessa adora seu pau e bolas"
 
     # game/code/hints.rpy:5
     old "Vanessa uses her feet to jerk you off"
-    new ""
+    new "Vanessa usa os pés para masturbá-lo"
 
     # game/code/hints.rpy:5
     old "Fuck her ass with choking, slapping, and dirty talk"
-    new ""
+    new "Foda a bunda dela engasgando, estapeando, e falando"
 
     # game/code/hints.rpy:5
     old "Fuck her ass normally."
-    new ""
+    new "Foda a bunda dela normalmente."
 
     # game/code/hints.rpy:5
     old "Play a card game with Lyssa and Oliver. You will lose the Oliver path if you don't select this option."
-    new ""
+    new "Jogue um jogo de cartas com Lyssa e Oliver. Se não escolher essa opção, você perde o caminho do Oliver."
 
     # game/code/hints.rpy:5
     old "Play a card game with Lyssa and Stacy. You will lose the combined Stacy +Lyssa path if you don't select this option."
-    new ""
+    new "Jogue um jogo de cartas com Lyssa e Stacy. Se não escolher essa opção, você perde o caminho combinado de Stacy + Lyssa."
 
     # game/code/hints.rpy:5
     old "Play with Lyssa, no cards needed"
-    new ""
+    new "Jogue com Lyssa, não precisa de cartas"
 
     # game/code/hints.rpy:5
     old "You jerk Lyssa off."
-    new ""
+    new "Você masturba a Lyssa."
 
     # game/code/hints.rpy:5
     old "You give Lyssa a blowjob."
-    new ""
+    new "Você dá um boquete na Lyssa"
 
     # game/code/hints.rpy:5
     old "You don't allow Lyssa to cum yet."
-    new ""
+    new "Você não deixa Lyssa gozar ainda."
 
     # game/code/hints.rpy:5
     old "You let Lyssa cum."
-    new ""
+    new "Você deixa Lyssa gozar."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Lyssa develops - You tell Lyssa that you love her, deepening your connection."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Lyssa se desenvolve - Você fala para Lyssa que a ama, fortalecendo sua conexão."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Lyssa develops - You kiss Lyssa instead of telling her that you love her."
-    new ""
+    new "Esta é uma escolha importante que muda a forma que seu relacionamento com Lyssa se desenvolve - Você beija Lyssa ao invés de dizer que a ama."
 
     # game/code/hints.rpy:5
     old "This choice will push you more towards Lyssa's path."
-    new ""
+    new "Esta escolha vai colocá-lo mais perto do caminho da Lyssa."
 
     # game/code/hints.rpy:5
     old "This choice will pull you away from Lyssa's path."
-    new ""
+    new "Esta escolha vai tirá-lo do caminho da Lyssa."
 
     # game/code/hints.rpy:5
     old "Ride the Ferris Wheel with Daisy. This is necessary for endings with Daisy."
-    new ""
+    new "Suba na roda gigante com a Daisy. Isso é necessário para finais com Daisy."
 
     # game/code/hints.rpy:5
     old "Go with Dahlia & Samiya to a Funhouse. This is necessary for endings with Dahlia."
-    new ""
+    new "Vá com Dahlia e Samiya para casa de diversões. Isso é necessário para finais com Dahlia."
 
     # game/code/hints.rpy:5
     old "Ride the Ferris Wheel with Polly & Nora. This is necessary for endings with Polly and/or Nora."
-    new ""
+    new "Suba na roda gigante com Polly & Nora. Isso é necessário para finais com Polly e/ou Nora."
 
     # game/code/hints.rpy:5
     old "Gain a Study Point."
-    new ""
+    new "Ganhe um Ponto de Estudo."
 
     # game/code/hints.rpy:5
     old "Decreases chance of unlocking Daisy Pregnancy Ending."
-    new ""
+    new "Diminui a chance de liberar o Final Daisy Grávida."
 
     # game/code/hints.rpy:5
     old "Increases chance of unlocking Daisy Pregnancy Ending."
-    new ""
+    new "Aumenta a chance de liberar o Final Daisy Pregnant."
 
     # game/code/hints.rpy:5
     old "Lose option for Polly/Nora/MC Threesome ending."
-    new ""
+    new "Perca a opção do final triplo com Polly/Nora/MC."
 
     # game/code/hints.rpy:5
     old "Increases chance of Polly/Nora/MC Threesome ending."
-    new ""
+    new "Aumenta a chance do final triplo com Polly/Nora/MC."
 
     # game/code/hints.rpy:5
     old "You will start a relationship with Jessie. Necessary for Ending 16."
-    new ""
+    new "Você começará um relacionamento com Jessie. Necessário para o Final 16."
 
     # game/code/hints.rpy:5
     old "Your relationship with Jessie will end."
-    new ""
+    new "Seu relacionamento com Jessie acabará."
 
     # game/code/hints.rpy:5
     old "Begin Ending-16."
-    new ""
+    new "Comece o Final-16."
 
     # game/code/hints.rpy:5
     old "Wrong answer."
-    new ""
+    new "Resposta errada."
 
     # game/code/hints.rpy:5
     old "Correct answer."
-    new ""
+    new "Resposta correta."
 
     # game/code/hints.rpy:5
     old "Wrong answer, but funny."
-    new ""
+    new "Resposta errada, mas divertida."
 
     # game/code/hints.rpy:5
     old "Wrong, trick question."
-    new ""
+    new "Errado, pergunta pegadinha."
 
     # game/code/hints.rpy:5
     old "Wrong, no correct answer available."
-    new ""
+    new "Errado, não há resposta correta."
 
     # game/code/hints.rpy:5
     old "Wrong, sorry."
-    new ""
+    new "Errado, desculpa."
 
     # game/code/hints.rpy:5
     old "Wrong, Min will win anyway."
-    new ""
+    new "Errado, Min vencerá de qualquer forma."
 
     # game/code/hints.rpy:5
     old "Watersports content."
-    new ""
+    new "Conteúdo de urofilia."
 
     # game/code/hints.rpy:5
     old "No watersports this time."
-    new ""
+    new "Sem urofilia dessa vez."
 
     # game/code/hints.rpy:5
     old "Might lead to Min NTR content in the future."
-    new ""
+    new "Pode levar a conteúdo NTR com Min no futuro."
 
     # game/code/hints.rpy:5
     old "Definitely no Min NTR content in the future."
-    new ""
+    new "Definitivamente sem conteúdo NTR com Min no futuro."
 
     # game/code/hints.rpy:5
     old "You stop Allison from fucking Vanessa, but doing so makes Allison realize what she was doing, which makes her run away—destroying any chance of reconciliation - This option ends Vanessa's and Allison's paths."
-    new ""
+    new "Você impede Allison de foder Vanessa, mas isso faz Allison perceber o que estava fazendo, o que faz ela sair correndo - destruindo qualquer chance de reconciliação - Essa opção acaba com os caminhos da Allison e Vanessa."
 
     # game/code/hints.rpy:5
     old "You let Allison get through her pent-up frustrations and calm down. Allison then chooses to talk things through with Vanessa."
-    new ""
+    new "Você deixa Allison descontar suas frustrações e se acalmar. Allison então escolhe conversar com Vanessa."
 
     # game/code/hints.rpy:5
     old "You will leave Vanessa and Allison to their \"bonding.\" - This option ends Vanessa's and Allison's paths."
-    new ""
+    new "Você deixará Vanessa e Allison se \"conversando.\" - Essa opção acaba com os caminhos da Allison e Vanessa."
 
     # game/code/hints.rpy:5
     old "They notice you and invite you to participate in a threesome."
-    new ""
+    new "Você é notado e chamado para participar de sexo a três."
 
     # game/code/hints.rpy:5
     old "You will fuck Samiya while Pete watches and jerks himself off."
-    new ""
+    new "Você foderá Samiya enquanto Pete olha e se masturba."
 
     # game/code/hints.rpy:5
     old "You will leave and your relationship with Samiya and Pete will end. You will still get the option to continue your relationship with Dahlia."
-    new ""
+    new "Você vai embora e seu relacionamento com Samiya e Pete termina. Você ainda terá a opção de continuar seu relacionamento com a Dahlia."
 
     # game/code/hints.rpy:5
     old "You will get the option, later on, to go with Samiya, Pete, and Dahlia, and start a new life with them."
-    new ""
+    new "Depois, você terá a opção de ir com Samiya, Pete, e Dahlia começar uma nova vida com eles."
 
     # game/code/hints.rpy:5
     old "You won't be able to go with Samiya, Pete, and Dahlia, and your chance for a relationship with them will end. You will still get the option to continue your relationship with Dahlia."
-    new ""
+    new "Você não poderá ir com Samiya, Pete e Dahlia, e sua chance de um relacionamento com eles acabará. Você ainda terá a opção de continuar seu relacionamento com Dahlia."
 
     # game/code/hints.rpy:5
     old "Interrogate and fuck the Professor."
-    new ""
+    new "Interrogar e foda a Professora."
 
     # game/code/hints.rpy:5
     old "Just leave - your work here is done."
-    new ""
+    new "Ir embora - seu trabalho aqui acabou."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-18."
-    new ""
+    new "Esta escolha começa o Final-18."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-12."
-    new ""
+    new "Esta escolha começa o Final-12."
 
     # game/code/hints.rpy:5
     old "Assault the Judge before getting drunk. This choice lets you continue the main story."
-    new ""
+    new "Atacar a Juíza antes de se embebedar. Essa escolha permite que você continue a história principal."
 
     # game/code/hints.rpy:5
     old "Continue scene. Cuck the Judge's would-be boyfriend by having sex with her in front of him."
-    new ""
+    new "Continua a cena. Faça o possível namorado da Juíza de corno fazendo sexo com ela na frente dele."
 
     # game/code/hints.rpy:5
     old "Skip this scene."
-    new ""
+    new "Pula esta cena."
 
     # game/code/hints.rpy:5
     old "Fuck her ass while she sucks his micropenis."
-    new ""
+    new "Foder a bunda dela enquanto ela chupa o micropênis dele."
 
     # game/code/hints.rpy:5
     old "Fuck her ass while he watches"
-    new ""
+    new "Foder a bunda dela enquanto ele assiste"
 
     # game/code/hints.rpy:5
     old "Remind Lydia that you still love her."
-    new ""
+    new "Lembrar Lydia que ainda a ama."
 
     # game/code/hints.rpy:5
     old "Keep your options open with Lydia."
-    new ""
+    new "Mantém suas opções abertas com a Lydia."
 
     # game/code/hints.rpy:5
     old "Leads to breaking up with Lydia."
-    new ""
+    new "Leva a terminar o relacionamento com a Lydia."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-07."
-    new ""
+    new "Esta escolha começa o Final-07."
 
     # game/code/hints.rpy:5
     old "You will go to her, spend some time with her, and then get the choice to run off with her."
-    new ""
+    new "Você vai para ela, passa tempo com ela, aí tem a escolha de fugir com ela."
 
     # game/code/hints.rpy:5
     old "You won't go to her and you will be kicked off of her path."
-    new ""
+    new "Você não vai com ela, e será removido do caminho dela."
 
     # game/code/hints.rpy:5
     old "You cum down Lyssa's throat. You get to cum inside her later as well."
-    new ""
+    new "Você goza na garganta da Lyssa. Você também poderá gozar dentro dela depois."
 
     # game/code/hints.rpy:5
     old "You save your cum so that you can creampie her ass later."
-    new ""
+    new "Você poupa seu sêmen para gozar dentro na bunda dela depois."
 
     # game/code/hints.rpy:5
     old "You'll ask Lyssa for help dealing with Zarah. You {i}will{/i} be able to potentially sway Zarah."
-    new ""
+    new "Você pede ajuda a Lyssa para lidar com Zarah. Você possivelmente {i}poderá{/i} persuadir Zarah."
 
     # game/code/hints.rpy:5
     old "You don't ask Lyssa for help dealing with Zarah."
-    new ""
+    new "Você não pede ajuda a Lyssa para lidar com Zarah."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-11."
-    new ""
+    new "Esta escolha começa o Final-11."
 
     # game/code/hints.rpy:5
     old "Dahlia gets off of you as you cum on yourself and disappoint Dahlia."
-    new ""
+    new "Dahlia sai de você quando você goza, decepcionando-a."
 
     # game/code/hints.rpy:5
     old "You manage to hold back and not cum. Dahlia cums on your dick instead. She will then jerk you off onto the ice cubes as a reward and give you a cum covered ice drink."
-    new ""
+    new "Você consegue segurar o orgasmo. Dahlia goza no seu pau ao invés disso. Ela então o masturba nos cubos de gelo como recompensa, e lhe entrega um drink gelado coberto de sêmen."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-17."
-    new ""
+    new "Esta escolha começa o Final-17."
 
     # game/code/hints.rpy:5
     old "You will use AmRose's panties to jerk off, and then you will cum in them. AmRose will use these panties later on in the day."
-    new ""
+    new "Você usa a calcinha da AmRose para masturbar, aí goza nela. AmRose usará essa calcinha mais tarde."
 
     # game/code/hints.rpy:5
     old "You won't jerk off with AmRose's panties."
-    new ""
+    new "Você não goza na calcinha da AmRose."
 
     # game/code/hints.rpy:5
     old "Mandatory to get Prof Lewald's vote."
-    new ""
+    new "Obrigatório para conseguir o voto da Profa. Lewald."
 
     # game/code/hints.rpy:5
     old "Will Not earn Prof Lewald's vote."
-    new ""
+    new "Você não conseguirá o voto da Profa. Lewald"
 
     # game/code/hints.rpy:5
     old "You will have a one on one \"conversation\" with Lewald and \"teach\" her your ways. Easier to succeed."
-    new ""
+    new "Você tem uma \"conversa\" a sós com a Lewald, e \"ensina\" seus métodos. Mais fácil de ter sucesso."
 
     # game/code/hints.rpy:5
     old "Will be harder to succeed, but potentially more enjoyable."
-    new ""
+    new "Mais difícil de ter sucesso, mas possivelmente mais agradável."
 
     # game/code/hints.rpy:5
     old "See video of AmRose punishing Cynthia. Make a plan for Professor Lewald."
-    new ""
+    new "Veja vídeo da AmRose punindo Cynthia. Fazer um plano para a Professora Lewald."
 
     # game/code/hints.rpy:5
     old "Have sex with Maria. She may have sex with Professor Nordin."
-    new ""
+    new "Faça sexo com Maria. Ela fará sexo com o Professor Nordin."
 
     # game/code/hints.rpy:5
     old "Have sex with Maria. Do not share her with Professor Nordin."
-    new ""
+    new "Faça sexo com Maria. Não compartilhá-la com o Professor Nordin."
 
     # game/code/hints.rpy:5
     old "Maria will think of you as a friend, but she won't fuck Nordin. She might appear in future scenes."
-    new ""
+    new "Maria o considerará um amigo, mas não vai foder o Nordin. Ela pode aparecer numa cena futura."
 
     # game/code/hints.rpy:5
     old "Maria will think of you as a friend, and she will fuck Nordin for you. She might appear in future scenes."
-    new ""
+    new "Maria o considerará um amigo, e ela foderá Nordin por você. Ela pode aparecer em uma cena futura."
 
     # game/code/hints.rpy:5
     old "Maria isn't your friend, and she won't fuck Nordin. You probably will never see her again."
-    new ""
+    new "Maria não é sua amiga, e ela não foderá Nordin. Você provavelmente nunca a verá novamente."
 
     # game/code/hints.rpy:5
     old "Maria isn't your friend, and she will fuck Nordin for you. After that, you will probably never see her again."
-    new ""
+    new "Maria não é sua amiga, e provavelmente foderá Nordin por você. Depois disso, você provavelmente nunca a verá novamente."
 
     # game/code/hints.rpy:5
     old "You call Lyssa and ask for help dealing with Zarah. You {i}will{/i} be able to potentially sway Zarah."
-    new ""
+    new "Você liga para Lyssa e pede ajuda para lidar com Zarah. Você possivelmente {i}poderá{/i} persuadir Zarah."
 
     # game/code/hints.rpy:5
     old "You call Lyssa and don't ask for help dealing with Zarah."
-    new ""
+    new "Você liga para Lyssa e não pode ajuda para lidar com Zarah."
 
     # game/code/hints.rpy:5
     old "You ask Lyssa for a picture of her masturbating. She sends you a whole video later."
-    new ""
+    new "Você pede uma foto da Lyssa se masturbando. Ela envia um vídeo depois."
 
     # game/code/hints.rpy:5
     old "You don't ask for a picture of her masturbating."
-    new ""
+    new "Você não pede uma foto da Lyssa se masturbando."
 
     # game/code/hints.rpy:5
     old "AmRose eats out your ass as Stacy gives you a blowjob."
-    new ""
+    new "AmRose lambe sua bunda enquanto Stacy dá um boquete."
 
     # game/code/hints.rpy:5
     old "They continue the double blowjob."
-    new ""
+    new "Elas continuam o boquete duplo."
 
     # game/code/hints.rpy:5
     old "You fuck AmRose. You will also get the option to fuck Stacy."
-    new ""
+    new "Você fode AmRose. Também terá a opção de foder Stacy."
 
     # game/code/hints.rpy:5
     old "You fuck Stacy. You will also get the option to fuck AmRose."
-    new ""
+    new "Você fode Stacy. Você também terá a opção de foder AmRose."
 
     # game/code/hints.rpy:5
     old "You cum in AmRose. This option is very important if you want to have a solo ending with AmRose."
-    new ""
+    new "Você goza na AmRose. Essa opção é muito importante se você quiser ter um final só com AmRose."
 
     # game/code/hints.rpy:5
     old "You switch to Stacy."
-    new ""
+    new "Você troca para a Stacy."
 
     # game/code/hints.rpy:5
     old "You cum in Stacy. This option is very important if you want to have a solo ending with Stacy."
-    new ""
+    new "Você goza na Stacy. Essa opção é muito importante se você quiser ter um final só com a Stacy."
 
     # game/code/hints.rpy:5
     old "You switch to AmRose."
-    new ""
+    new "Você troca para a AmRose."
 
     # game/code/hints.rpy:5
     old "Stacy pees on you."
-    new ""
+    new "Stacy urina em você."
 
     # game/code/hints.rpy:5
     old "Stacy doesn't pee on you."
-    new ""
+    new "Stacy não urina em você."
 
     # game/code/hints.rpy:5
     old "You may stop this at any time."
-    new ""
+    new "Você pode parar isso a qualquer momento."
 
     # game/code/hints.rpy:5
     old "You will keep watching."
-    new ""
+    new "Você continua assistindo."
 
     # game/code/hints.rpy:5
     old "Too much, too soon. Theresa kicks you out."
-    new ""
+    new "Forçando cedo demais. Theresa chuta você para fora."
 
     # game/code/hints.rpy:5
     old "Theresa obeys orders, stripping nude then worshiping your cock."
-    new ""
+    new "Theresa obedece ordens, ficando nua, depois adora seu pau."
 
     # game/code/hints.rpy:5
     old "Recommended. Theresa will pledge her body, mind, and heart to you."
-    new ""
+    new "Recomendado. Theresa dedicará o corpo, mente e coração a você."
 
     # game/code/hints.rpy:5
     old "Theresa will strip naked for you then worship your cock."
-    new ""
+    new "Theresa tira a roupa para você e adora seu pau."
 
     # game/code/hints.rpy:5
     old "BDSM style punishment of Professor Lewald before fucking her."
-    new ""
+    new "Punição tipo BDSM da Professora Lewald dantes de você a foder."
 
     # game/code/hints.rpy:5
     old "Can fuck her if you prayed with her earlier, otherwise you will get kicked out."
-    new ""
+    new "Pode fodê-la se rezou com ela antes, caso contrário será chutado para fora."
 
     # game/code/hints.rpy:5
     old "Pray with them before whipping or fucking them both together."
-    new ""
+    new "Reze com elas antes de chicoteá-las ou foder as duas juntas."
 
     # game/code/hints.rpy:5
     old "BDSM punishment for both before fucking them both together."
-    new ""
+    new "Punição BDSM para as duas antes de fodê-las juntas."
 
     # game/code/hints.rpy:5
     old "Too much, too soon. Theresa kicks you out"
-    new ""
+    new "Forçando cedo demais. Theresa chuta você para fora."
 
     # game/code/hints.rpy:5
     old "Whip them before fucking them."
-    new ""
+    new "Chicoteá-las antes de fodê-las."
 
     # game/code/hints.rpy:5
     old "Skip the whipping and go straight to fucking them."
-    new ""
+    new "Pula o chicoteio e fodê-las de cara."
 
     # game/code/hints.rpy:5
     old "Doesn't work. She just gets annoyed and throws you out."
-    new ""
+    new "Não dá acerto. Ela se irrita e o chuta para fora."
 
     # game/code/hints.rpy:5
     old "Doesn't work. She will just throw you out."
-    new ""
+    new "Não dá certo. Ela vai apenas chutá-lo para fora."
 
     # game/code/hints.rpy:5
     old "Successful. She gets emotionally compromised enough to talk."
-    new ""
+    new "Sucesso. Ela fica emocionalmente comprometida o suficiente para conversar."
 
     # game/code/hints.rpy:5
     old "You stay where you are don't have a sex scene with Zarah and Lyssa. You still get her vote on the exam."
-    new ""
+    new "Você fica onde está e não faz sexo com Zarah e Lyssa. Você ainda consegue o voto dela na prova."
 
     # game/code/hints.rpy:5
     old "You go to Lyssa and Zarah and have sex with them. You get Zarah's vote on the exam."
-    new ""
+    new "Você vai para a Lyssa e Zarah e faz sexo com elas. Você consegue o voto da Zarah na prova."
 
     # game/code/hints.rpy:5
     old "You and Lyssa cover Zarah in cum."
-    new ""
+    new "Você e Lyssa cobrem Zarah de sêmen."
 
     # game/code/hints.rpy:5
     old "You and Lyssa fill Zarah up."
-    new ""
+    new "Você e Lyssa enchem a Zarah."
 
     # game/code/hints.rpy:5
     old "This option enables you to see a sex scene between you and Chloe."
-    new ""
+    new "Esta opção permite que você veja uma cena entre você e Chloe."
 
     # game/code/hints.rpy:5
     old "This option skips the sex scene between you and Chloe. "
-    new ""
+    new "Esta opção pula a cena de sexo entre você e Chloe."
 
     # game/code/hints.rpy:5
     old "Incorrect."
-    new ""
+    new "Incorreto."
 
     # game/code/hints.rpy:5
     old "Correct, from \"A Tale of Two Cities\" Adds 1 Study Point."
-    new ""
+    new "Correto, do \"Um Conto de Duas Cidades\" adiciona 1 Ponto de Estudo."
 
     # game/code/hints.rpy:5
     old "Obviously wrong."
-    new ""
+    new "Obviamente errado."
 
     # game/code/hints.rpy:5
     old "Correct."
-    new ""
+    new "Correto."
 
     # game/code/hints.rpy:5
     old "Wrong."
-    new ""
+    new "Errado."
 
     # game/code/hints.rpy:5
     old "Absurd, also wrong."
-    new ""
+    new "Absurdo, e errado."
 
     # game/code/hints.rpy:5
     old "True, but will NOT gain Zarah's vote."
-    new ""
+    new "Verdade, mas você NÃO ganhará o voto da Zarah."
 
     # game/code/hints.rpy:5
     old "Also True, but will NOT gain Zarah's vote."
-    new ""
+    new "Também verdade, mas você NÃO ganhará o voto da Zarah."
 
     # game/code/hints.rpy:5
     old "Outright lie. Still will NOT get Zarah's vote."
-    new ""
+    new "Completa mentira. Ainda não ganhará o voto da Zarah."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-10."
-    new ""
+    new "Esta escolha começa o Final-10."
 
     # game/code/hints.rpy:5
     old "This choice lets you continue the main story. Try to find other Min endings..."
-    new ""
+    new "Esta escolha permite que continue a história principal. Tente encontrar outros finais da Min..."
 
     # game/code/hints.rpy:5
     old "You kiss Oliver while he is covered in cum."
-    new ""
+    new "Você beija Oliver enquanto ele está coberto de sêmen."
 
     # game/code/hints.rpy:5
     old "You don't kiss Oliver."
-    new ""
+    new "Você não beija Oliver."
 
     # game/code/hints.rpy:5
     old "You eat Oliver's cum."
-    new ""
+    new "Você come o sêmen do Oliver."
 
     # game/code/hints.rpy:5
     old "You don't eat Oliver's cum."
-    new ""
+    new "Você não come o sêmen do Oliver."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-14."
-    new ""
+    new "Esta escolha começa o Final-14."
 
     # game/code/hints.rpy:5
     old "Stacy likes this. More likely to result in a Stacy ending."
-    new ""
+    new "Stacy gosta disso. Mais provável resultar em um final com a Stacy."
 
     # game/code/hints.rpy:5
     old "AmRose likes this. More likely to result in an AmRose ending."
-    new ""
+    new "AmRose gosta disso. Mais provável resultar em um final com a AmRose."
 
     # game/code/hints.rpy:5
     old "See a video of Iona masturbating."
-    new ""
+    new "Veja um vídeo de Iona se masturbando."
 
     # game/code/hints.rpy:5
     old "Don't see the video of Iona masturbating."
-    new ""
+    new "Não veja um vídeo da Iona se masturbando."
 
     # game/code/hints.rpy:5
     old "You will get a blowjob from Hana."
-    new ""
+    new "Você recebe um boquete da Hana."
 
     # game/code/hints.rpy:5
     old "You won't get a blowjob and the scene will end."
-    new ""
+    new "Você não recebe um boquete e a cena acaba."
 
     # game/code/hints.rpy:5
     old "Hana will call you \"Daddy\"."
-    new ""
+    new "Hana o chamará de \"Papai\"."
 
     # game/code/hints.rpy:5
     old "Hana will NOT call you \"Daddy\"."
-    new ""
+    new "Hana NÃO o chamará de \"Papai\"."
 
     # game/code/hints.rpy:5
     old "You decide to join Hana in the shower. This is necessary for ending 15."
-    new ""
+    new "Você decide entrar no banho com Hana. Isso é necessário para o final 15."
 
     # game/code/hints.rpy:5
     old "You decide to not join Hana in the shower. This closes off ending 15."
-    new ""
+    new "Você decide não entrar no banho com Hana. Isso bloqueia o final 15."
 
     # game/code/hints.rpy:5
     old "Choose AmRose. This significantly affects your available endings."
-    new ""
+    new "Escolha AmRose. Isso afeta muito os finais disponíveis."
 
     # game/code/hints.rpy:5
     old "Choose Stacy. This significantly affects your available endings."
-    new ""
+    new "Escolha Stacy. Isso afeta muito os finais disponíveis."
 
     # game/code/hints.rpy:5
     old "This choice is necessary to unlock Ending-04."
-    new ""
+    new "Esta escolha é necessária para liberar o Final-04."
 
     # game/code/hints.rpy:5
     old "Doesn't help Lydia, and you don't get an option for an ending with her."
-    new ""
+    new "Não ajuda Lydia, e você não tem uma opção de ter um final com ela."
 
     # game/code/hints.rpy:5
     old "Lydia will go to prison. All endings with her will be cut off."
-    new ""
+    new "Lydia vai pra a prisão. Todos os finais com ela serão bloqueados."
 
     # game/code/hints.rpy:5
     old "This is good for Lydia's case. She might not go to prison. Necessary for Ending-06."
-    new ""
+    new "Isso é bom para o caso da Lydia. Ela pode não ir para a prisão. Necessário para o Final-06."
 
     # game/code/hints.rpy:5
     old "Because of your lingering feelings for Lydia, Lyssa doesn't tell you that she wants a deeper relationship. This closes off all endings with Lyssa."
-    new ""
+    new "Por causa dos seus sentimentos pela Lydia, Lyssa não fala que quer um relacionamento mais sério. Isso bloqueia todos os finais com Lyssa."
 
     # game/code/hints.rpy:5
     old "Lyssa understands your conflicted feelings. It also makes her feel at least a little more comfortable with confessing her desire for you later on."
-    new ""
+    new "Lyssa entende seus sentimentos conflitantes. Isso faz ela ficar pelo menos um pouco mais confortável em confessar o desejo por você depois."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-02."
-    new ""
+    new "Esta escolha começa o Final-02."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-03."
-    new ""
+    new "Esta escolha começa o Final-03."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-05."
-    new ""
+    new "Esta escolha começa o Final-05."
 
     # game/code/hints.rpy:5
     old "Sodomize the guy and humiliate him in front of his girlfriend."
-    new ""
+    new "Sodomizar o cara e humilhá-lo em frente à sua namorada."
 
     # game/code/hints.rpy:5
     old "Have the guy stand facing the corner while you have your way with his girlfriend."
-    new ""
+    new "Fazer o cara ficar olhando para o canto enquanto você se aproveita de sua namorada."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-09."
-    new ""
+    new "Esta escolha começa o Final-09."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-15."
-    new ""
+    new "Esta escolha começa o Final-15."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-04."
-    new ""
+    new "Esta escolha começa o Final-04."
 
     # game/code/hints.rpy:5
     old "Continue towards a different ending."
-    new ""
+    new "Continuar para um final diferente."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-06."
-    new ""
+    new "Esta escolha começa o Final-06."
 
     # game/code/hints.rpy:5
     old "Start Ending-08 with AmRose."
-    new ""
+    new "Começa o Final-08 com AmRose."
 
     # game/code/hints.rpy:5
     old "Start Ending-01 with Stacy."
-    new ""
+    new "Começa o Final-01 com Stacy."
 
     # game/code/hints.rpy:5
     old "Alone in the Rain ending."
-    new ""
+    new "Final Sozinho na Chuva."
 
     # game/code/hints.rpy:5
     old "Restart the sex scene with a random order."
-    new ""
+    new "Recomeça a cena de sexo em ordem aleatória."
 
     # game/code/hints.rpy:5
     old "This will end the scene."
-    new ""
+    new "Isso termina a cena."
 
     # game/code/hints.rpy:5
     old "You give Lyssa a blowjob. This is an optional scene."
-    new ""
+    new "Você dá um boquete na Lyssa. Essa cena opcional."
 
     # game/code/hints.rpy:5
     old "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
-    new ""
+    new "Essa opção pula a cena de boquete. A cena vai para Lyssa e MC lá dentro."
 
     # game/code/hints.rpy:5
     old "You do both."
-    new ""
+    new "Você faz os dois."
 
     # game/code/hints.rpy:5
     old "Give Lyssa a rimjob."
-    new ""
+    new "Lamber a bunda da Lyssa."
 
     # game/code/hints.rpy:5
     old "Continue the scene."
-    new ""
+    new "Continuar a cena."
 
     # game/code/hints.rpy:5
     old "Frank (M) and Ashley (F) will play dress-up and be introduced to new ideas."
-    new ""
+    new "Frank (M) e Ashley (F) vão fazer cosplay e serão apresentado a novas ideias."
 
     # game/code/hints.rpy:5
     old "Mikeala (F) and Dorothy (F) will join you both in the Sauna."
-    new ""
+    new "Mikaela (F) e Dorothy (F) vão se juntar a vocês na sauna."
 
     # game/code/hints.rpy:5
     old "Alexander (M) and Angela (Trans) will learn to Switch roles during sex."
-    new ""
+    new "Alexander (M) e Angela (Trans) vão aprender a trocar de papel durante o sexo."
 
     # game/code/hints.rpy:5
     old "Don't spend time with any more couples, just continue your story"
-    new ""
+    new "Não passar tempo com os casais, apenas continuar a história"
 
     # game/code/hints.rpy:5
     old "Enjoy a little swapping action."
-    new ""
+    new "Aproveitar um swingzinho."
 
     # game/code/hints.rpy:5
     old "No scene with the Coopers."
-    new ""
+    new "Sem cenas com os Coopers."
 
     # game/code/hints.rpy:5
     old "You will fuck Lyssa's ass while Dorothy masturbates and Mikaela watches."
-    new ""
+    new "Você fode a bunda da Lyssa enquanto Dorothy se masturba e Mikaela assiste."
 
     # game/code/hints.rpy:5
     old "Lyssa will fuck your ass while Mikaela & Dorothy watch & masturbate."
-    new ""
+    new "Lyssa fode sua bunda enquanto Mikaela assiste e Dorothy se masturba."
 
     # game/code/hints.rpy:5
     old "You take control and make Lyssa your bitch."
-    new ""
+    new "Você toma o controle e faz da Lyssa sua putinha."
 
     # game/code/hints.rpy:5
     old "You give Lyssa control and become her fuck toy."
-    new ""
+    new "Você dá controle par Lyssa e se torna o brinquedinho dela."
 
     # game/code/hints.rpy:5
     old "Daisy will join the Harem."
-    new ""
+    new "Daisy entra no Harém."
 
     # game/code/hints.rpy:5
     old "Daisy will NOT join the Harem."
-    new ""
+    new "Daisy NÃO entra no Harém."
 
     # game/code/hints.rpy:5
     old "Lyssa will officiate the wedding but not join your harem."
-    new ""
+    new "Lyssa vai oficiar o casamento, mas não entra no harém."
 
     # game/code/hints.rpy:5
     old "You and Amber-Rose will show have some fun with Lyssa and she will join the harem."
-    new ""
+    new "Você e Amber-Rose mostrarão como se divertir com Lyssa, e ela entrará no harém."
 
     # game/code/hints.rpy:5
     old "You fuck Lyssa while she fucks Amrose."
-    new ""
+    new "Você fode Lyssa enquanto ela fode AmRose."
 
     # game/code/hints.rpy:5
     old "Lyssa will fuck you and you will fuck Amrose."
-    new ""
+    new "Lyssa fode você, e você fode AmRose."
 
     # game/code/hints.rpy:5
     old "You and Lyssa cum all over Amrose."
-    new ""
+    new "Você e Lyssa gozam na AmRose toda."
 
     # game/code/hints.rpy:5
     old "This will make Stacy pregnant."
-    new ""
+    new "Isso deixará Stacy grávida."
 
     # game/code/hints.rpy:5
     old "This will NOT get Stacy pregnant."
-    new ""
+    new "Isso NÃO deixará Stacy grávida."
 
     # game/code/hints.rpy:5
     old "This will make Min pregnant."
-    new ""
+    new "Isso deixará Min grávida."
 
     # game/code/hints.rpy:5
     old "This will NOT get Min pregnant."
-    new ""
+    new "Isso NÃO deixará Min grávida."
 
     # game/code/hints.rpy:5
     old "This will make AmRose pregnant."
-    new ""
+    new "Isso deixará AmRose grávida."
 
     # game/code/hints.rpy:5
     old "This will NOT get AmRose pregnant."
-    new ""
+    new "Isso NÃO deixará AmRose grávida."
 
     # game/code/hints.rpy:5
     old "This will make Daisy pregnant."
-    new ""
+    new "Isso deixará Daisy grávida."
 
     # game/code/hints.rpy:5
     old "This will NOT get Daisy pregnant."
-    new ""
+    new "Isso NÃO deixará Daisy grávida."
 
     # game/code/hints.rpy:5
     old "Lydia gives Lyssa a Rusty Trombone, but doesn't suck her cock."
-    new ""
+    new "Lydia lambe a bunda da Lyssa, mas não chupa o pau dela."
 
     # game/code/hints.rpy:5
     old "Lydia gives Lyssa a blowjob, but doesn't rim her asshole."
-    new ""
+    new "Lydia faz um boquete na Lyssa, mas não lambe o cu dela."
 
     # game/code/hints.rpy:5
     old "You will get a SCAT sex scene with AmRose."
-    new ""
+    new "Você verá uma escatológica com cocô com AmRose."
 
     # game/code/hints.rpy:5
     old "You will continue the scene to a sex scene."
-    new ""
+    new "Você continua a cena numa cena de sexo."
 
     # game/code/hints.rpy:5
     old "This enables the head dunk fetish, where the character's head is placed underwater."
-    new ""
+    new "Isso habilita o fetiche de mergulho de cabeça, onde a cabeça de um personagem é mergulhada em água."
 
     # game/code/hints.rpy:5
     old "The sex scene will occur without the head dunk fetish."
-    new ""
+    new "Esta cena ocorrerá sem o fetiche de mergulho de cabeça."
 
     # game/code/hints.rpy:5
     old "Threesome scene with AmRose and Ashley."
-    new ""
+    new "Sexo a três com AmRose e Ashley."
 
     # game/code/hints.rpy:5
     old "This will skip the threesome scene."
-    new ""
+    new "Isso pula a cena de sexo a três."
 
     # game/code/hints.rpy:5
     old "Continue the threesome scene."
-    new ""
+    new "Continuar a sena de sexo a três."
 
     # game/code/hints.rpy:5
     old "Get a Foursome scene with Frank. Swing sex/Group sex."
-    new ""
+    new "Fazer sexo a quatro com Frank. Sexo em grupo/Swing."
 
     # game/code/hints.rpy:5
     old "Have Stacy join you and AmRose."
-    new ""
+    new "Stacy vem com você e AmRose."
 
     # game/code/hints.rpy:5
     old "You will have a sex scene with pregnant AmRose alone."
-    new ""
+    new "Você faz sexo sozinho com AmRose grávida."
 
     # game/code/hints.rpy:5
     old "Cum inside your wife."
-    new ""
+    new "Gozar dentro da sua esposa."
 
     # game/code/hints.rpy:5
     old "Cum on AmRose's face."
-    new ""
+    new "Gozar no rosto da AmRose."
 
     # game/code/hints.rpy:5
     old "Cum inside."
-    new ""
+    new "Gozar dentro."
 
     # game/code/hints.rpy:5
     old "Stand up for Min"
-    new ""
+    new "Apoiar Min"
 
     # game/code/hints.rpy:5
     old "Control Min, replace her father's role going forward"
-    new ""
+    new "Controlar Min, substituir o papel do pai dela daqui em diante"
 
     # game/code/hints.rpy:5
     old "Enjoy a threesome with your girlfriend and your employee."
-    new ""
+    new "Aproveitar um sexo a três com sua namorada e sua empregada."
 
     # game/code/hints.rpy:5
     old "Do not have sex with your employee."
-    new ""
+    new "Não fazer sexo com sua empregada."
 
     # game/code/hints.rpy:5
     old "Pee on Min and Nari while they are scissoring."
-    new ""
+    new "Urinar na Min e Nari enquanto elas fazem tesourinha."
 
     # game/code/hints.rpy:5
     old "Skip the peeing and scissoring and get right to the climax."
-    new ""
+    new "Pular urina e tesourinha e pular direto para o clímax."
 
     # game/code/hints.rpy:5
     old "You proceed to fuck her vaginally, you will also get the option to fuck her anally afterward."
-    new ""
+    new "Você a fode vaginalmente, também terá a opção de fodê-la analmente depois."
 
     # game/code/hints.rpy:5
     old "You proceed to fuck her anally, you will not be allowed to fuck her vaginally afterward."
-    new ""
+    new "Você a fode analmente, não poderá fodê-la vaginalmente depois."
 
     # game/code/hints.rpy:5
     old "The scene will end and you will cum."
-    new ""
+    new "A cena vai acabar e você vai gozar."
 
     # game/code/hints.rpy:5
     old "No hints available."
-    new ""
+    new "Não há dicas disponíveis."
 
