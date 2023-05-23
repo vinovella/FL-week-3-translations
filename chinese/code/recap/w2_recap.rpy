@@ -784,7 +784,7 @@ translate chinese week_2_day_10_p2_11efc4e3:
 translate chinese week_2_day_10_p2_259850d5:
 
     # "Terrell came to talk to [mcname] while AmRose sucked him off. He talked about some of the adventures he'd been having with Maria."
-    "在爱洛丝为他口交时，特雷尔走来和[cname]交谈。他谈到了他和玛丽亚的冒险经历。"
+    "在爱洛丝为他口交时，特雷尔走来和[mcname]交谈。他谈到了他和玛丽亚的冒险经历。"
 
 # game/code/recap/w2_recap.rpy:460
 translate chinese week_2_day_10_p2_ef613e4b:
@@ -1601,4 +1601,3 @@ translate chinese strings:
     # game/code/recap/w2_recap.rpy:100
     old "Recap of Week-2 Events"
     new "第二周前情回顾"
-
