@@ -1136,21 +1136,21 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You will act as a dom to Stacy (Rough Sex, Pain, Spanking, Name Calling)."
-    new "You will act as a dom to Stacy (Rough Sex, Pain, Spanking, Name Calling)."
+    new "你将做史黛西的支配者（粗暴性爱、疼痛、打屁股、辱骂）。"
 
     # game/code/hints.rpy:5
     old "You will act as a sub to Stacy (Pegging, Spanking, Name Calling, Rough Sex)."
-    new "You will act as a sub to Stacy (Pegging, Spanking, Name Calling, Rough Sex)."
+    new "你将做史黛西的顺从者（假鸡巴肛交、打屁股、辱骂、粗暴性爱）。"
 
     # game/code/hints.rpy:5
     old "You will do piss play with Stacy (Pissing On/In Each Other, Piss Drinking)."
-    new "You will do piss play with Stacy (Pissing On/In Each Other, Piss Drinking)."
+    new "你将和史黛西开展小便游戏（在对方身上/体内撒尿，喝尿）。"
 
     # game/code/hints.rpy:5
     old "You will do foot stuff with Stacy (Licking/Sucking Feet, Fucking Feet)."
-    new "You will do foot stuff with Stacy (Licking/Sucking Feet, Fucking Feet)."
+    new "你将和史黛西脚趾调情（舔/吸脚，操脚）。"
 
     # game/code/hints.rpy:5
     old "You will eat Stacy's ass and then potentially have your ass eaten (Giving and receiving)."
-    new "You will eat Stacy's ass and then potentially have your ass eaten (Giving and receiving)."
+    new ""你将品尝史黛西的屁股，然后有可能享受自己的屁股被品尝（施与和接受）。"
 
