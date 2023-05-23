@@ -234,5 +234,5 @@ translate portuguese strings:
 
     # game/code/e13/e13s04.rpy:274
     old "You have finished playing ending number 13!"
-    new ""
+    new "Você concluiu o final número 13!"
 
