@@ -72,6 +72,60 @@ translate chinese strings:
 
 translate chinese strings:
 
+    old "E01 - Locked"
+    new "E01 - 锁定"
+
+    old "E02 - Locked"
+    new "E02 - 锁定"
+
+    old "E03 - Locked"
+    new "E03 - 锁定"
+
+    old "E04 - Locked"
+    new "E04 - 锁定"
+
+    old "E05 - Locked"
+    new "E05 - 锁定"
+
+    old "E06 - Locked"
+    new "E06 - 锁定"
+
+    old "E07 - Locked"
+    new "E07 - 锁定"
+
+    old "E08 - Locked"
+    new "E08 - 锁定"
+
+    old "E09 - Locked"
+    new "E09 - 锁定"
+
+    old "E10 - Locked"
+    new "E10 - 锁定"
+
+    old "E11 - Locked"
+    new "E11 - 锁定"
+
+    old "E12 - Locked"
+    new "E12 - 锁定"
+
+    old "E13 - Locked"
+    new "E13 - 锁定"
+
+    old "E14 - Locked"
+    new "E14 - 锁定"
+
+    old "E15 - Locked"
+    new "E15 - 锁定"
+
+    old "E16 - Locked"
+    new "E16 - 锁定"
+
+    old "E17 - Locked"
+    new "E17 - 锁定"
+
+    old "E18 - Locked"
+    new "E18 - 锁定"
+
     old "E01 - S&M Studio"
     new "E01 - S&M工作室"
 
@@ -125,5 +179,3 @@ translate chinese strings:
 
     old "E18 - Quartet"
     new "E18 - 四重奏"
-
-    

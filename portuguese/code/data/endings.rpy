@@ -72,6 +72,60 @@ translate portuguese strings:
 
 translate portuguese strings:
 
+    old "E01 - Locked"
+    new "E01 - Bloqueado"
+
+    old "E02 - Locked"
+    new "E02 - Bloqueado"
+
+    old "E03 - Locked"
+    new "E03 - Bloqueado"
+
+    old "E04 - Locked"
+    new "E04 - Bloqueado"
+
+    old "E05 - Locked"
+    new "E05 - Bloqueado"
+
+    old "E06 - Locked"
+    new "E06 - Bloqueado"
+
+    old "E07 - Locked"
+    new "E07 - Bloqueado"
+
+    old "E08 - Locked"
+    new "E08 - Bloqueado"
+
+    old "E09 - Locked"
+    new "E09 - Bloqueado"
+
+    old "E10 - Locked"
+    new "E10 - Bloqueado"
+
+    old "E11 - Locked"
+    new "E11 - Bloqueado"
+
+    old "E12 - Locked"
+    new "E12 - Bloqueado"
+
+    old "E13 - Locked"
+    new "E13 - Bloqueado"
+
+    old "E14 - Locked"
+    new "E14 - Bloqueado"
+
+    old "E15 - Locked"
+    new "E15 - Bloqueado"
+
+    old "E16 - Locked"
+    new "E16 - Bloqueado"
+
+    old "E17 - Locked"
+    new "E17 - Bloqueado"
+
+    old "E18 - Locked"
+    new "E18 - Bloqueado"
+
     old "E01 - S&M Studio"
     new "E01 - Estúdio S&M"
 
