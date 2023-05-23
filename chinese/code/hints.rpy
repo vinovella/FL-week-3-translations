@@ -628,231 +628,231 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "Stacy doesn't pee on you."
-    new "Stacy doesn't pee on you."
+    new "史黛西不会在你身上撒尿。"
 
     # game/code/hints.rpy:5
     old "You may stop this at any time."
-    new "You may stop this at any time."
+    new "你可以在任何时候停止。"
 
     # game/code/hints.rpy:5
     old "You will keep watching."
-    new "You will keep watching."
+    new "你将继续观看。"
 
     # game/code/hints.rpy:5
     old "Too much, too soon. Theresa kicks you out."
-    new "Too much, too soon. Theresa kicks you out."
+    new "太多了，太快了。特蕾莎把你赶出去。"
 
     # game/code/hints.rpy:5
     old "Theresa obeys orders, stripping nude then worshiping your cock."
-    new "Theresa obeys orders, stripping nude then worshiping your cock."
+    new "特蕾莎服从命令，脱光衣服，然后跪倒在你的鸡巴前。"
 
     # game/code/hints.rpy:5
     old "Recommended. Theresa will pledge her body, mind, and heart to you."
-    new "Recommended. Theresa will pledge her body, mind, and heart to you."
+    new "推荐。特蕾莎会把她的身心都交给你。"
 
     # game/code/hints.rpy:5
     old "Theresa will strip naked for you then worship your cock."
-    new "Theresa will strip naked for you then worship your cock."
+    new "特蕾莎会为你脱光衣服，然后跪倒在你的鸡巴前。"
 
     # game/code/hints.rpy:5
     old "BDSM style punishment of Professor Lewald before fucking her."
-    new "BDSM style punishment of Professor Lewald before fucking her."
+    new "在操卢瓦尔德教授之前，对她进行BDSM式的惩罚。"
 
     # game/code/hints.rpy:5
     old "Can fuck her if you prayed with her earlier, otherwise you will get kicked out."
-    new "Can fuck her if you prayed with her earlier, otherwise you will get kicked out."
+    new "如果你之前和她一起祈祷，就可以操她，否则你会被赶出去。"
 
     # game/code/hints.rpy:5
     old "Pray with them before whipping or fucking them both together."
-    new "Pray with them before whipping or fucking them both together."
+    new "在鞭打或操她们之前，和她们一起祈祷。."
 
     # game/code/hints.rpy:5
     old "BDSM punishment for both before fucking them both together."
-    new "BDSM punishment for both before fucking them both together."
+    new "在和她们一起做爱之前，对她们进行BDSM惩罚。"
 
     # game/code/hints.rpy:5
     old "Too much, too soon. Theresa kicks you out"
-    new "Too much, too soon. Theresa kicks you out"
+    new "太多了，太快了。特蕾莎把你赶出去"
 
     # game/code/hints.rpy:5
     old "Whip them before fucking them."
-    new "Whip them before fucking them."
+    new "在操她们之前，先鞭打她们。"
 
     # game/code/hints.rpy:5
     old "Skip the whipping and go straight to fucking them."
-    new "Skip the whipping and go straight to fucking them."
+    new "跳过鞭打，直接对她们开干。"
 
     # game/code/hints.rpy:5
     old "Doesn't work. She just gets annoyed and throws you out."
-    new "Doesn't work. She just gets annoyed and throws you out."
+    new "这样行不通的。她会生气，然后把你赶出去。"
 
     # game/code/hints.rpy:5
     old "Doesn't work. She will just throw you out."
-    new "Doesn't work. She will just throw you out."
+    new "这样行不通的。她会直接把你赶出去。"
 
     # game/code/hints.rpy:5
     old "Successful. She gets emotionally compromised enough to talk."
-    new "Successful. She gets emotionally compromised enough to talk."
+    new "这样会成功的。她在情感上会充分妥协，然后开口说话。"
 
     # game/code/hints.rpy:5
     old "You stay where you are don't have a sex scene with Zarah and Lyssa. You still get her vote on the exam."
-    new "You stay where you are don't have a sex scene with Zarah and Lyssa. You still get her vote on the exam."
+    new "你留在原地，不与萨拉和丽莎发生性关系。你还是能得到她在考试中的投票。"
 
     # game/code/hints.rpy:5
     old "You go to Lyssa and Zarah and have sex with them. You get Zarah's vote on the exam."
-    new "You go to Lyssa and Zarah and have sex with them. You get Zarah's vote on the exam."
+    new "你去找丽莎和萨拉，和她们做爱。你会得到萨拉在考试中的投票"
 
     # game/code/hints.rpy:5
     old "You and Lyssa cover Zarah in cum."
-    new "You and Lyssa cover Zarah in cum."
+    new "你和丽莎都射萨拉一身。"
 
     # game/code/hints.rpy:5
     old "You and Lyssa fill Zarah up."
-    new "You and Lyssa fill Zarah up."
+    new "你和丽莎共同填满萨拉。"
 
     # game/code/hints.rpy:5
     old "This option enables you to see a sex scene between you and Chloe."
-    new "This option enables you to see a sex scene between you and Chloe."
+    new "这个选项可以让你看到你和克洛伊之间的性爱场景。"
 
     # game/code/hints.rpy:5
     old "This option skips the sex scene between you and Chloe. "
-    new "This option skips the sex scene between you and Chloe. "
+    new "这个选项会跳过你和克洛伊的性爱场景。"
 
     # game/code/hints.rpy:5
     old "Incorrect."
-    new "Incorrect."
+    new "不正确。"
 
     # game/code/hints.rpy:5
     old "Correct, from \"A Tale of Two Cities\" Adds 1 Study Point."
-    new "Correct, from \"A Tale of Two Cities\" Adds 1 Study Point."
+    new "正确，选自 \"双城记\"，增加1个学习点数。"
 
     # game/code/hints.rpy:5
     old "Obviously wrong."
-    new "Obviously wrong."
+    new "显然答案错误。"
 
     # game/code/hints.rpy:5
     old "Correct."
-    new "Correct."
+    new "正确。"
 
     # game/code/hints.rpy:5
     old "Wrong."
-    new "Wrong."
+    new "错误。"
 
     # game/code/hints.rpy:5
     old "Absurd, also wrong."
-    new "Absurd, also wrong."
+    new "荒谬，同时错误。"
 
     # game/code/hints.rpy:5
     old "True, but will NOT gain Zarah's vote."
-    new "True, but will NOT gain Zarah's vote."
+    new "没错，但不会得到萨拉的投票。"
 
     # game/code/hints.rpy:5
     old "Also True, but will NOT gain Zarah's vote."
-    new "Also True, but will NOT gain Zarah's vote."
+    new "也是对的，但是不会得到萨拉的投票。"
 
     # game/code/hints.rpy:5
     old "Outright lie. Still will NOT get Zarah's vote."
-    new "Outright lie. Still will NOT get Zarah's vote."
+    new "彻头彻尾的谎言。仍然不会得到萨拉的投票。"
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-10."
-    new "This choice starts Ending-10."
+    new "这个选择开启结局-10。"
 
     # game/code/hints.rpy:5
     old "This choice lets you continue the main story. Try to find other Min endings..."
-    new "This choice lets you continue the main story. Try to find other Min endings..."
+    new "这个选择可以让你继续主线故事。试着找到明的其他结尾..."
 
     # game/code/hints.rpy:5
     old "You kiss Oliver while he is covered in cum."
-    new "You kiss Oliver while he is covered in cum."
+    new "你在奥利弗全身都是精液的时候吻他。"
 
     # game/code/hints.rpy:5
     old "You don't kiss Oliver."
-    new "You don't kiss Oliver."
+    new "你不吻奥利弗。"
 
     # game/code/hints.rpy:5
     old "You eat Oliver's cum."
-    new "You eat Oliver's cum."
+    new "你吃了奥利弗的精液。"
 
     # game/code/hints.rpy:5
     old "You don't eat Oliver's cum."
-    new "You don't eat Oliver's cum."
+    new "你不吃奥利弗的精液。"
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-14."
-    new "This choice starts Ending-14."
+    new "这个选择将开启结局-14。"
 
     # game/code/hints.rpy:5
     old "Stacy likes this. More likely to result in a Stacy ending."
-    new "Stacy likes this. More likely to result in a Stacy ending."
+    new "史黛西喜欢这样。更有可能迎来史黛西的结局。"
 
     # game/code/hints.rpy:5
     old "AmRose likes this. More likely to result in an AmRose ending."
-    new "AmRose likes this. More likely to result in an AmRose ending."
+    new "爱洛丝喜欢这样。更有可能迎来爱洛丝的结局。"
 
     # game/code/hints.rpy:5
     old "See a video of Iona masturbating."
-    new "See a video of Iona masturbating."
+    new "看欧娜自慰的视频。"
 
     # game/code/hints.rpy:5
     old "Don't see the video of Iona masturbating."
-    new "Don't see the video of Iona masturbating."
+    new "不看欧娜自慰的视频。"
 
     # game/code/hints.rpy:5
     old "You will get a blowjob from Hana."
-    new "You will get a blowjob from Hana."
+    new "汉娜会给你口交。"
 
     # game/code/hints.rpy:5
     old "You won't get a blowjob and the scene will end."
-    new "You won't get a blowjob and the scene will end."
+    new "你不会得到口交，这一幕也将结束。"
 
     # game/code/hints.rpy:5
     old "Hana will call you \"Daddy\"."
-    new "Hana will call you \"Daddy\"."
+    new "哈娜会叫你\"爸爸\"。"
 
     # game/code/hints.rpy:5
     old "Hana will NOT call you \"Daddy\"."
-    new "Hana will NOT call you \"Daddy\"."
+    new "哈娜不会叫你\"爸爸\"。"
 
     # game/code/hints.rpy:5
     old "You decide to join Hana in the shower. This is necessary for ending 15."
-    new "You decide to join Hana in the shower. This is necessary for ending 15."
+    new "你决定和汉娜一起洗澡。这是开启结局15的必要条件。"
 
     # game/code/hints.rpy:5
     old "You decide to not join Hana in the shower. This closes off ending 15."
-    new "You decide to not join Hana in the shower. This closes off ending 15."
+    new "你决定不和汉娜一起洗澡。这会关闭结局15。"
 
     # game/code/hints.rpy:5
     old "Choose AmRose. This significantly affects your available endings."
-    new "Choose AmRose. This significantly affects your available endings."
+    new "选择爱洛丝。这将大大影响你可解锁的结局。"
 
     # game/code/hints.rpy:5
     old "Choose Stacy. This significantly affects your available endings."
-    new "Choose Stacy. This significantly affects your available endings."
+    new "选择史黛西。这将大大影响你可解锁的结局。"
 
     # game/code/hints.rpy:5
     old "This choice is necessary to unlock Ending-04."
-    new "This choice is necessary to unlock Ending-04."
+    new "这个选择是解锁结局-04的必要条件。"
 
     # game/code/hints.rpy:5
     old "Doesn't help Lydia, and you don't get an option for an ending with her."
-    new "Doesn't help Lydia, and you don't get an option for an ending with her."
+    new "对莉迪亚没有帮助，你也没有机会选择和她在一起的结局。"
 
     # game/code/hints.rpy:5
     old "Lydia will go to prison. All endings with her will be cut off."
-    new "Lydia will go to prison. All endings with her will be cut off."
+    new "莉迪亚会进监狱。所有和她有关的结局都会被剪掉。"
 
     # game/code/hints.rpy:5
     old "This is good for Lydia's case. She might not go to prison. Necessary for Ending-06."
-    new "This is good for Lydia's case. She might not go to prison. Necessary for Ending-06."
+    new "这对莉迪亚的案子有好处。她可能不会进监狱。这是开启结局-06的必要条件。"
 
     # game/code/hints.rpy:5
     old "Because of your lingering feelings for Lydia, Lyssa doesn't tell you that she wants a deeper relationship. This closes off all endings with Lyssa."
-    new "Because of your lingering feelings for Lydia, Lyssa doesn't tell you that she wants a deeper relationship. This closes off all endings with Lyssa."
+    new "因为你对莉迪亚的感情挥之不去，丽莎没有告诉你她想和你有更深层的发展。这将结束所有与丽莎在一起的结局。"
 
     # game/code/hints.rpy:5
     old "Lyssa understands your conflicted feelings. It also makes her feel at least a little more comfortable with confessing her desire for you later on."
-    new "Lyssa understands your conflicted feelings. It also makes her feel at least a little more comfortable with confessing her desire for you later on."
+    new "丽莎理解你矛盾的感情。这也会让她在以后向你表白她对你的欲望时，感觉舒服一点。"
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-02."
