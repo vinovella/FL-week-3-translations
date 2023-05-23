@@ -70,3 +70,61 @@ translate chinese strings:
     old "Quartet"
     new "四重奏"
 
+translate chinese strings:
+
+    old "E01 - S&M Studio"
+    new "E01 - S&M工作室"
+
+    old "E02 - Snowy Peaks"
+    new "E02 - 雪峰胜地"
+
+    old "E03 - Two Girls Two Dicks"
+    new "E03 - 两个女孩，两个鸡巴"
+
+    old "E04 - My Sex Dungeon"
+    new "E04 - 我的性爱地牢"
+
+    old "E05 - Sausage Party"
+    new "E05 - 香肠派对"
+
+    old "E06 - Queen's Harem"
+    new "E06 - 皇后的后宫"
+
+    old "E07 - A New Chair"
+    new "E07 - 新椅子"
+
+    old "E08 - My Happy Ginger Family"
+    new "E08 - 我快乐的红发家庭"
+
+    old "E09 - Fetish Locator: Rebooted"
+    new "E09 - 性趣探测器：重启"
+
+    old "E10 - Runaway"
+    new "E10 - 逃离"
+
+    old "E11 - Red Diamond"
+    new "E11 - 红钻石"
+
+    old "E12 - Redhead Resort"
+    new "E12 - 红发胜地"
+
+    old "E13 - Pregnant Nora"
+    new "E13 - 怀孕的诺拉"
+
+    old "E14 - Polly & Nora"
+    new "E14 - 波莉和诺拉"
+
+    old "E15 - Waterfall"
+    new "E15 - 瀑布"
+
+    old "E16 - Breeding Ponies"
+    new "E16 - 育马"
+
+
+    old "E17 - Not Guilty"
+    new "E17 - 无罪"
+
+    old "E18 - Quartet"
+    new "E18 - 四重奏"
+
+    
