@@ -1152,5 +1152,4 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You will eat Stacy's ass and then potentially have your ass eaten (Giving and receiving)."
-    new ""你将品尝史黛西的屁股，然后有可能享受自己的屁股被品尝（施与和接受）。"
-
+    new "你将品尝史黛西的屁股，然后有可能享受自己的屁股被品尝（施与和接受）。"
