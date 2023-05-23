@@ -856,281 +856,281 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-02."
-    new "This choice starts Ending-02."
+    new "这个选择将开启结局-02。"
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-03."
-    new "This choice starts Ending-03."
+    new "这个选择将开启结局-03。"
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-05."
-    new "This choice starts Ending-05."
+    new "这个选择将开启结局-05。"
 
     # game/code/hints.rpy:5
     old "Sodomize the guy and humiliate him in front of his girlfriend."
-    new "Sodomize the guy and humiliate him in front of his girlfriend."
+    new "鸡奸他，当着他女朋友的面羞辱他。"
 
     # game/code/hints.rpy:5
     old "Have the guy stand facing the corner while you have your way with his girlfriend."
-    new "Have the guy stand facing the corner while you have your way with his girlfriend."
+    new "让他面朝角落站着，而你却随心所欲和他女朋友做爱。"
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-09."
-    new "This choice starts Ending-09."
+    new "这个选择将开启结局-09。"
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-15."
-    new "This choice starts Ending-15."
+    new "这个选择将开启结局-15。"
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-04."
-    new "This choice starts Ending-04."
+    new "这个选择将开启结局-04。"
 
     # game/code/hints.rpy:5
     old "Continue towards a different ending."
-    new "Continue towards a different ending."
+    new "继续走向不同的结局。"
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-06."
-    new "This choice starts Ending-06."
+    new "这个选择将开启结局-06。"
 
     # game/code/hints.rpy:5
     old "Start Ending-08 with AmRose."
-    new "Start Ending-08 with AmRose."
+    new "开启和爱洛丝在一起的结局。"
 
     # game/code/hints.rpy:5
     old "Start Ending-01 with Stacy."
-    new "Start Ending-01 with Stacy."
+    new "开启和史黛西在一起的结局。"
 
     # game/code/hints.rpy:5
     old "Alone in the Rain ending."
-    new "Alone in the Rain ending."
+    new "独自在雨中的结局。"
 
     # game/code/hints.rpy:5
     old "Restart the sex scene with a random order."
-    new "Restart the sex scene with a random order."
+    new "以随机顺序重新开始性爱场景。"
 
     # game/code/hints.rpy:5
     old "This will end the scene."
-    new "This will end the scene."
+    new "这将结束该场景。"
 
     # game/code/hints.rpy:5
     old "You give Lyssa a blowjob. This is an optional scene."
-    new "You give Lyssa a blowjob. This is an optional scene."
+    new "你给丽莎口交。这是一个可选场景。"
 
     # game/code/hints.rpy:5
     old "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
-    new "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
+    new "这个选项会跳过口交的场景。场景转到丽莎和MC的室内。"
 
     # game/code/hints.rpy:5
     old "You do both."
-    new "You do both."
+    new "两个都做。"
 
     # game/code/hints.rpy:5
     old "Give Lyssa a rimjob."
-    new "Give Lyssa a rimjob."
+    new "给丽莎舔肛。"
 
     # game/code/hints.rpy:5
     old "Continue the scene."
-    new "Continue the scene."
+    new "继续该场景。"
 
     # game/code/hints.rpy:5
     old "Frank (M) and Ashley (F) will play dress-up and be introduced to new ideas."
-    new "Frank (M) and Ashley (F) will play dress-up and be introduced to new ideas."
+    new "弗兰克(男)和艾希莉(女)会玩扮装游戏，并且学到新的知识。"
 
     # game/code/hints.rpy:5
     old "Mikeala (F) and Dorothy (F) will join you both in the Sauna."
-    new "Mikeala (F) and Dorothy (F) will join you both in the Sauna."
+    new "米凯拉(女)和多萝西(女)将加入你们俩的桑拿。"
 
     # game/code/hints.rpy:5
     old "Alexander (M) and Angela (Trans) will learn to Switch roles during sex."
-    new "Alexander (M) and Angela (Trans) will learn to Switch roles during sex."
+    new "亚历山大(男)和安吉拉(跨性别)将学习在性爱中转换角色。"
 
     # game/code/hints.rpy:5
     old "Don't spend time with any more couples, just continue your story"
-    new "Don't spend time with any more couples, just continue your story"
+    new "不再把时间花在任何情侣身上，继续你们的故事。"
 
     # game/code/hints.rpy:5
     old "Enjoy a little swapping action."
-    new "Enjoy a little swapping action."
+    new "享受交换伴侣这种行为。"
 
     # game/code/hints.rpy:5
     old "No scene with the Coopers."
-    new "No scene with the Coopers."
+    new "和库珀夫妇没有交集。"
 
     # game/code/hints.rpy:5
     old "You will fuck Lyssa's ass while Dorothy masturbates and Mikaela watches."
-    new "You will fuck Lyssa's ass while Dorothy masturbates and Mikaela watches."
+    new "你操丽莎的屁股的同时，多萝西在手淫的时候，米凯拉在旁观。"
 
     # game/code/hints.rpy:5
     old "Lyssa will fuck your ass while Mikaela & Dorothy watch & masturbate."
-    new "Lyssa will fuck your ass while Mikaela & Dorothy watch & masturbate."
+    new "丽莎会操你的屁股，而米凯拉和多萝西会旁观，并且手淫。"
 
     # game/code/hints.rpy:5
     old "You take control and make Lyssa your bitch."
-    new "You take control and make Lyssa your bitch."
+    new "你掌控一切，让丽莎当你的婊子。"
 
     # game/code/hints.rpy:5
     old "You give Lyssa control and become her fuck toy."
-    new "You give Lyssa control and become her fuck toy."
+    new "你把控制权交给丽莎，成为她的性爱玩具。"
 
     # game/code/hints.rpy:5
     old "Daisy will join the Harem."
-    new "Daisy will join the Harem."
+    new "黛西将加入后宫。"
 
     # game/code/hints.rpy:5
     old "Daisy will NOT join the Harem."
-    new "Daisy will NOT join the Harem."
+    new "黛西不会加入后宫。"
 
     # game/code/hints.rpy:5
     old "Lyssa will officiate the wedding but not join your harem."
-    new "Lyssa will officiate the wedding but not join your harem."
+    new "丽莎会主持婚礼，但不会加入你的后宫。"
 
     # game/code/hints.rpy:5
     old "You and Amber-Rose will show have some fun with Lyssa and she will join the harem."
-    new "You and Amber-Rose will show have some fun with Lyssa and she will join the harem."
+    new "你和爱洛丝会向丽莎展示其中的乐趣，她会加入后宫。"
 
     # game/code/hints.rpy:5
     old "You fuck Lyssa while she fucks Amrose."
-    new "You fuck Lyssa while she fucks Amrose."
+    new "你操丽莎，她操爱洛丝。"
 
     # game/code/hints.rpy:5
     old "Lyssa will fuck you and you will fuck Amrose."
-    new "Lyssa will fuck you and you will fuck Amrose."
+    new "丽莎会操你，你操爱洛丝。"
 
     # game/code/hints.rpy:5
     old "You and Lyssa cum all over Amrose."
-    new "You and Lyssa cum all over Amrose."
+    new "你和丽莎都在爱洛丝身上射精。"
 
     # game/code/hints.rpy:5
     old "This will make Stacy pregnant."
-    new "This will make Stacy pregnant."
+    new "这会让史黛西怀孕。"
 
     # game/code/hints.rpy:5
     old "This will NOT get Stacy pregnant."
-    new "This will NOT get Stacy pregnant."
+    new "这不会让史黛西怀孕。"
 
     # game/code/hints.rpy:5
     old "This will make Min pregnant."
-    new "This will make Min pregnant."
+    new "这会让明怀孕。"
 
     # game/code/hints.rpy:5
     old "This will NOT get Min pregnant."
-    new "This will NOT get Min pregnant."
+    new "这不会让明怀孕。"
 
     # game/code/hints.rpy:5
     old "This will make AmRose pregnant."
-    new "This will make AmRose pregnant."
+    new "这会让爱洛丝怀孕。"
 
     # game/code/hints.rpy:5
     old "This will NOT get AmRose pregnant."
-    new "This will NOT get AmRose pregnant."
+    new "这不会让爱洛丝怀孕。"
 
     # game/code/hints.rpy:5
     old "This will make Daisy pregnant."
-    new "This will make Daisy pregnant."
+    new "这会让黛西怀孕。"
 
     # game/code/hints.rpy:5
     old "This will NOT get Daisy pregnant."
-    new "This will NOT get Daisy pregnant."
+    new "这不会让黛西怀孕。
 
     # game/code/hints.rpy:5
     old "Lydia gives Lyssa a Rusty Trombone, but doesn't suck her cock."
-    new "Lydia gives Lyssa a Rusty Trombone, but doesn't suck her cock."
+    new "莉迪亚从丽莎身后吃了她的屁股，但没有含她的鸡巴。"
 
     # game/code/hints.rpy:5
     old "Lydia gives Lyssa a blowjob, but doesn't rim her asshole."
-    new "Lydia gives Lyssa a blowjob, but doesn't rim her asshole."
+    new "莉迪亚含了丽莎的鸡巴，但没有吃她的屁眼。"
 
     # game/code/hints.rpy:5
     old "You will get a SCAT sex scene with AmRose."
-    new "You will get a SCAT sex scene with AmRose."
+    new "你会和爱洛丝有一场粪便play。"
 
     # game/code/hints.rpy:5
     old "You will continue the scene to a sex scene."
-    new "You will continue the scene to a sex scene."
+    new "你将把该场景延续到性爱场景。"
 
     # game/code/hints.rpy:5
     old "This enables the head dunk fetish, where the character's head is placed underwater."
-    new "This enables the head dunk fetish, where the character's head is placed underwater."
+    new "这就开启了浸泡头部的性癖，即角色的头部被置于水下。"
 
     # game/code/hints.rpy:5
     old "The sex scene will occur without the head dunk fetish."
-    new "The sex scene will occur without the head dunk fetish."
+    new "出现性爱场景，但不会出现浸泡头部的性癖。"
 
     # game/code/hints.rpy:5
     old "Threesome scene with AmRose and Ashley."
-    new "Threesome scene with AmRose and Ashley."
+    new "和爱洛丝以及艾希莉的3p场景。"
 
     # game/code/hints.rpy:5
     old "This will skip the threesome scene."
-    new "This will skip the threesome scene."
+    new "这将跳过3p场景。"
 
     # game/code/hints.rpy:5
     old "Continue the threesome scene."
-    new "Continue the threesome scene."
+    new "继续3p场景。"
 
     # game/code/hints.rpy:5
     old "Get a Foursome scene with Frank. Swing sex/Group sex."
-    new "Get a Foursome scene with Frank. Swing sex/Group sex."
+    new "和弗兰克来一场四人行。交换伴侣/群体性爱。"
 
     # game/code/hints.rpy:5
     old "Have Stacy join you and AmRose."
-    new "Have Stacy join you and AmRose."
+    new "让史黛西加入你和爱洛丝。"
 
     # game/code/hints.rpy:5
     old "You will have a sex scene with pregnant AmRose alone."
-    new "You will have a sex scene with pregnant AmRose alone."
+    new "你会和怀孕的爱洛丝单独有一场性爱戏。"
 
     # game/code/hints.rpy:5
     old "Cum inside your wife."
-    new "Cum inside your wife."
+    new "射入你妻子体内。"
 
     # game/code/hints.rpy:5
     old "Cum on AmRose's face."
-    new "Cum on AmRose's face."
+    new "射在爱洛丝脸上。"
 
     # game/code/hints.rpy:5
     old "Cum inside."
-    new "Cum inside."
+    new "射进去。"
 
     # game/code/hints.rpy:5
     old "Stand up for Min"
-    new "Stand up for Min"
+    new "为明挺身而出"
 
     # game/code/hints.rpy:5
     old "Control Min, replace her father's role going forward"
-    new "Control Min, replace her father's role going forward"
+    new "控制明，取代她父亲的角色继续前进"
 
     # game/code/hints.rpy:5
     old "Enjoy a threesome with your girlfriend and your employee."
-    new "Enjoy a threesome with your girlfriend and your employee."
+    new "享受与女友和员工的三人行。"
 
     # game/code/hints.rpy:5
     old "Do not have sex with your employee."
-    new "Do not have sex with your employee."
+    new "不和你的员工发生性关系。"
 
     # game/code/hints.rpy:5
     old "Pee on Min and Nari while they are scissoring."
-    new "Pee on Min and Nari while they are scissoring."
+    new "在明和纳莉剪刀式做爱的时候，尿在她们身上。"
 
     # game/code/hints.rpy:5
     old "Skip the peeing and scissoring and get right to the climax."
-    new "Skip the peeing and scissoring and get right to the climax."
+    new "跳过尿尿和剪刀式，直接进入高潮。"
 
     # game/code/hints.rpy:5
     old "You proceed to fuck her vaginally, you will also get the option to fuck her anally afterward."
-    new "You proceed to fuck her vaginally, you will also get the option to fuck her anally afterward."
+    new "你继续肏她小穴，之后你还可以选择与她进行肛门性交。"
 
     # game/code/hints.rpy:5
     old "You proceed to fuck her anally, you will not be allowed to fuck her vaginally afterward."
-    new "You proceed to fuck her anally, you will not be allowed to fuck her vaginally afterward."
+    new "你继续和她肛交，之后就不被允许肏她小穴。"
 
     # game/code/hints.rpy:5
     old "The scene will end and you will cum."
-    new "The scene will end and you will cum."
+    new "这一幕会结束，你会高潮。"
 
     # game/code/hints.rpy:5
     old "No hints available."
-    new "No hints available."
+    new "暂无提示可用。"
 
