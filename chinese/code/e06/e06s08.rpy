@@ -1968,11 +1968,11 @@ translate chinese strings:
 translate chinese d06s08_mh_0aa48b5e:
 
     # mh "Ahhhhaahh..."
-    mh "Ahhhhaahh..."
+    mh "哈啊啊啊啊..."
 
 # game/code/e06/e06s08.rpy:1234
 translate chinese d06s08_mh_25ab182b:
 
     # mh "Ohhh....."
-    mh "Ohhh....."
+    mh "哦哦哦哦....."
 

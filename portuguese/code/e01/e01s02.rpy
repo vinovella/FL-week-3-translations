@@ -810,13 +810,13 @@ translate portuguese strings:
 
     # game/code/e01/e01s02.rpy:400
     old "You have finished Ending #01!"
-    new ""
+    new "Você concluiu o Final #01!"
 
     # game/code/e01/e01s02.rpy:401
     old "Stacy and [mcname] will return!"
-    new ""
+    new "Stacy e [mcname] voltarão!"
 
     # game/code/e01/e01s02.rpy:402
     old "In Fetish Locator: S&M Studio!"
-    new ""
+    new "No Fetish Locator: S&M Studio!"
 

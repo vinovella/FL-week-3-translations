@@ -1294,4 +1294,4 @@ translate chinese strings:
 
     # game/code/e02/e02s01.rpy:62
     old "Ending #2\nSnowy Peaks"
-    new "Ending #2\nSnowy Peaks"
+    new "Ending #2\n雪峰胜地"

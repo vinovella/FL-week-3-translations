@@ -1,70 +1,70 @@
-﻿# TODO: Translation updated at 2022-11-22 23:46
+# TODO: Translation updated at 2022-11-22 23:46
 
 translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: AmRose"
-    new ""
+    new "Dia 15: AmRose"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: Dahlia & Samia"
-    new ""
+    new "Dia 15: Dahlia & Samiya"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: Daisey"
-    new ""
+    new "Dia 15: Daisy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: Lyssa"
-    new ""
+    new "Day 15: Lyssa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Express your love"
-    new ""
+    new "Expresse seu amor"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: Girls"
-    new ""
+    new "Dia 15: Garotas"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: AmRose"
-    new ""
+    new "Dia 16: AmRose"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Lydia"
-    new ""
+    new "Dia 16: Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Stacy"
-    new ""
+    new "Dia 16: Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Stacy Washroom"
-    new ""
+    new "Dia 16: Banheiro da Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ask for photos"
-    new ""
+    new "Pedir fotos"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Allison"
-    new ""
+    new "Dia 16: Allison"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't remove cock cage before this scene"
-    new ""
+    new "Não remova a jaula de pau antes dessa cena"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Jessie & Kanya"
-    new ""
+    new "Dia 16: Jessie & Kanya"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 13: Nora"
-    new ""
+    new "Final 13: Nora"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 13: Pregnant Nora"
-    new ""
+    new "Final 13: Nora Grávida"
 
 # TODO: Translation updated at 2022-12-26 00:31
 
@@ -72,47 +72,47 @@ translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Iona"
-    new ""
+    new "Dia 17: Iona"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Lyssa"
-    new ""
+    new "Dia 17: Lyssa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Bring Stacy with you"
-    new ""
+    new "Trazer Stacy com você"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 18: Dahlia & Samiya"
-    new ""
+    new "Dia 18: Dahlia & Samiya"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 18: Cynthia"
-    new ""
+    new "Dia 18: Cynthia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Lydia's Dungeon"
-    new ""
+    new "Dia 19: Calabouço da Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Stacy & Lyssa"
-    new ""
+    new "Dia 19: Stacy & Lyssa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You need to date Dahlia"
-    new ""
+    new "Você precisa sair com Dahlia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You need to date Daisy"
-    new ""
+    new "Você precisa sair com a Daisy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Stacy"
-    new ""
+    new "Dia 19: Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 20: Stacy & AmRose"
-    new ""
+    new "Dia 20: Stacy & AmRose"
 
 # TODO: Translation updated at 2023-05-20 23:17
 
@@ -120,33 +120,33 @@ translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 21: Stacy"
-    new ""
+    new "Dia 21: Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 21: Lyssa"
-    new ""
+    new "Dia 21: Lyssa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 21: Min"
-    new ""
+    new "Dia 21: Min"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Unlock Waterfall Ending"
-    new ""
+    new "Destrave o Final Queda D'Água"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Spend time with everyone"
-    new ""
+    new "Passe tempo com todo mundo"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 06: Harem"
-    new ""
+    new "Final 06: Harem"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 06: Marriage"
-    new ""
+    new "Final 06: Casamento"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 08: AmRose & Stacy"
-    new ""
+    new "Final 08: AmRose & Stacy"
 

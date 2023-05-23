@@ -1252,5 +1252,5 @@ translate chinese strings:
 translate chinese e06s06_d14a3c55:
 
     # lc "Yes, so I am well aware of all the girls he's been with."
-    lc "Yes, so I am well aware of all the girls he's been with."
+    lc "是的，所以我很清楚他交往过的所有女孩。"
 

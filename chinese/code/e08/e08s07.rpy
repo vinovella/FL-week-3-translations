@@ -963,5 +963,5 @@ translate chinese strings:
 
     # game/code/e08/e08s07.rpy:1086
     old "You have finished playing Ending #08!"
-    new "You have finished playing Ending #08!"
+    new "你已经完成了结局#08！"
 

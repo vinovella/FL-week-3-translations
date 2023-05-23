@@ -16,11 +16,11 @@ translate portuguese strings:
 
     # game/code/screens/extended/screens_fl.rpy:46
     old "Hints on"
-    new "Dicas habilitadas"
+    new "Dicas lig."
 
     # game/code/screens/extended/screens_fl.rpy:46
     old "Hints off"
-    new "Dicas Desabilitadas"
+    new "Dicas deslig."
 
     # game/code/screens/extended/screens_fl.rpy:62
     old "Page [page]"

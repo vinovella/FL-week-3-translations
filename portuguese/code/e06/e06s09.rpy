@@ -1214,5 +1214,5 @@ translate portuguese strings:
 
     # game/code/e06/e06s09.rpy:1144
     old "You have finished playing Ending #06!"
-    new ""
+    new "Você concluiu o Final #06!"
 

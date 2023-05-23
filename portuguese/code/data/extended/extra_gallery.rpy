@@ -236,7 +236,7 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:236
     old "HOW MANY ENDINGS HAVE YOU UNLOCKED?"
-    new "QUANTOS FINAIS VOCÊ LIBEROU"
+    new "       QUANTOS FINAIS VOCÊ LIBEROU?"
 
     # game/code/data/extended/extra_gallery.rpy:237
     old "9 ENDINGS"
@@ -248,15 +248,15 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:260
     old "6 endings\naren't enough.\nI need all 18 now!!!"
-    new "6 finais \nnão são o suficiente.\nPreciso de todos os 18 agora!!!"
+    new "6 finais não\nsão o suficiente.\nPreciso de todos\nos 18 agora!!!"
 
     # game/code/data/extended/extra_gallery.rpy:261
     old "{b}CHANGE MY MIND{/b}"
-    new "{b}FAÇA EU MUDAR DE IDEIA{/b}"
+    new "FAÇA EU MUDAR DE IDEIA"
 
     # game/code/data/extended/extra_gallery.rpy:304
     old "I WANT TO KEEP\nFETISH LOCATOR"
-    new "EU QUERO FICAR\nCOM O FETISH LOCATOR"
+    new "EU QUERO FICAR COM\nO FETISH LOCATOR"
 
     # game/code/data/extended/extra_gallery.rpy:305
     old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
@@ -272,7 +272,7 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:319
     old "THE FIRST ENDING\nFROM 18 TOTAL ENDINGS"
-    new "O PRIMEIRO FINAL\nDE 18 FINAIS TOTAIS"
+    new "      O PRIMEIRO FINAL\n       DE 18 FINAIS TOTAIS"
 
     # game/code/data/extended/extra_gallery.rpy:320
     old "IS THAT A REAL ENDING?"
@@ -280,7 +280,7 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:431
     old "I receive:"
-    new "Eu recebo:"
+    new "  Eu recebo:"
 
     # game/code/data/extended/extra_gallery.rpy:432
     old "Cum in every pussy\nat the wedding"
@@ -292,9 +292,8 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:434
     old "The whole\nharem pregnant"
-    new "O harém \ntodo grávido"
+    new "    O harém \n    todo grávido"
 
     # game/code/data/extended/extra_gallery.rpy:231
     old "HIGH SCORE :\n[persistent.minigame_max_score]"
-    new "PONTUAÇÃO MÁXIMA :\n[persistent.minigame_max_score]"
-
+    new "PONTUAÇÃO\nMÁXIMA :\n[persistent.minigame_max_score]"

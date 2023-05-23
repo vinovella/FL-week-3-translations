@@ -43,85 +43,85 @@ translate chinese strings:
     new "萨米亚"
 
     old "Theresa Lewald"
-    new "Theresa Lewald"
+    new "特蕾莎·卢瓦尔德"
 
     old "Claudie Fulton"
-    new "Claudie Fulton"
+    new "克劳迪·富尔顿"
 
     old "Tracey"
-    new "Tracey"
+    new "特蕾西"
 
     old "Kanya"
-    new "Kanya"
+    new "肯亚"
 
     old "Victor Yates Jr."
-    new "Victor Yates Jr."
+    new "小维克多·耶茨"
 
     old "Nari"
-    new "Nari"
+    new "纳莉"
 
     old "Mr. Min"
-    new "Mr. Min"
+    new "闵先生"
 
     old "Mrs. Min"
-    new "Mrs. Min"
+    new "闵夫人"
 
     old "Min Do-yun"
-    new "Min Do-yun"
+    new "闵道允"
 
     old "Officer Cheney"
-    new "Officer Cheney"
+    new "警官切尼"
 
     old "Officer Martinez"
-    new "Officer Martinez"
+    new "警官马丁内斯"
 
     old "Ashley"
-    new "Ashley"
+    new "艾希莉"
 
     old "Frank"
-    new "Frank"
+    new "弗兰克"
 
     old "Ms. Havisham"
-    new "Ms. Havisham"
+    new "郝薇香女士"
 
     old "Alexander"
-    new "Alexander"
+    new "亚历山大"
 
     old "Angela"
-    new "Angela"
+    new "安吉拉"
 
     old "Dorothy"
-    new "Dorothy"
+    new "多萝西"
 
     old "Fetish Locator"
-    new "Fetish Locator"
+    new "性趣探测器"
 
     old "Fetish Master"
-    new "Fetish Master"
+    new "性趣大师"
 
     old "Jerome"
-    new "Jerome"
+    new "杰罗姆"
 
     old "Judge"
-    new "Judge"
+    new "法官"
 
     old "Mikaela"
-    new "Mikaela"
+    new "米凯拉"
 
     old "Silvia"
-    new "Silvia"
+    new "西尔维娅"
 
     old "Zemfira"
-    new "Zemfira"
+    new "泽菲拉"
 
     old "Josie"
-    new "Josie"
+    new "乔西"
 
     old "Lara"
-    new "Lara"
+    new "劳拉"
 
     old "Delphia"
-    new "Delphia"
+    new "德尔菲亚"
 
     old "Ezra"
-    new "Ezra"
+    new "以斯拉"

@@ -70,3 +70,58 @@ translate portuguese strings:
     old "Quartet"
     new "Quarteto"
 
+translate portuguese strings:
+
+    old "E01 - S&M Studio"
+    new "E01 - Estúdio S&M"
+
+    old "E02 - Snowy Peaks"
+    new "E02 - Picos Gélidos"
+
+    old "E03 - Two Girls Two Dicks"
+    new "E03 - Duas Garotas Dois Paus"
+
+    old "E04 - My Sex Dungeon"
+    new "E04 - Meu Calabouço Sexual"
+
+    old "E05 - Sausage Party"
+    new "E05 - Muita Salsicha"
+
+    old "E06 - Queen's Harem"
+    new "E06 - Harem da Rainha"
+
+    old "E07 - A New Chair"
+    new "E07 - Uma Nova Cadeira"
+
+    old "E08 - My Happy Ginger Family"
+    new "E08 - Minha Família Ruiva Feliz"
+
+    old "E09 - Fetish Locator: Rebooted"
+    new "E09 - Fetish Locator: Reboot"
+
+    old "E10 - Runaway"
+    new "E10 - Fugindo"
+
+    old "E11 - Red Diamond"
+    new "E11 - Diamante Vermelho"
+
+    old "E12 - Redhead Resort"
+    new "E12 - Resort Ruivo"
+
+    old "E13 - Pregnant Nora"
+    new "E13 - Nora Grávida"
+
+    old "E14 - Polly & Nora"
+    new "E14 - Polly & Nora"
+
+    old "E15 - Waterfall"
+    new "E15 - Queda D'Água"
+
+    old "E16 - Breeding Ponies"
+    new "E16 - Criando Pôneis"
+
+    old "E17 - Not Guilty"
+    new "E17 - Inocente"
+
+    old "E18 - Quartet"
+    new "E18 - Quarteto"

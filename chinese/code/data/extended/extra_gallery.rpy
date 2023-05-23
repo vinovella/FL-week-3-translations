@@ -236,7 +236,7 @@ translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:236
     old "HOW MANY ENDINGS HAVE YOU UNLOCKED?"
-    new "你解锁了多少个结局？"
+    new "            你解锁了多少个结局？"
 
     # game/code/data/extended/extra_gallery.rpy:237
     old "9 ENDINGS"
@@ -244,7 +244,7 @@ translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:238
     old "YOU GOTTA PUMP THOS NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
-    new "你必须让这个数字上升。\n那是菜鸟的成绩!"
+    new "      你必须让这个数字上升。\n      那是菜鸟的成绩!"
 
     # game/code/data/extended/extra_gallery.rpy:260
     old "6 endings\naren't enough.\nI need all 18 now!!!"
@@ -264,7 +264,7 @@ translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:314
     old "YOU'RE GOING TO\nUSE IT FOR GOOD, RIGHT?"
-    new "你要永远使用它，对吗？"
+    new "你要永远使用它，\n对吗？"
 
     # game/code/data/extended/extra_gallery.rpy:306
     old "RIGHT?"
@@ -272,7 +272,7 @@ translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:319
     old "THE FIRST ENDING\nFROM 18 TOTAL ENDINGS"
-    new "总共18个结局\n第一个结局"
+    new "     总共18个结局\n     第一个结局"
 
     # game/code/data/extended/extra_gallery.rpy:320
     old "IS THAT A REAL ENDING?"

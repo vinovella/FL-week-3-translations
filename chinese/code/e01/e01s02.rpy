@@ -810,13 +810,13 @@ translate chinese strings:
 
     # game/code/e01/e01s02.rpy:400
     old "You have finished Ending #01!"
-    new "You have finished Ending #01!"
+    new "你已经完成了结局#01！"
 
     # game/code/e01/e01s02.rpy:401
     old "Stacy and [mcname] will return!"
-    new "Stacy and [mcname] will return!"
+    new "史黛西和[mcname]会回归的！"
 
     # game/code/e01/e01s02.rpy:402
     old "In Fetish Locator: S&M Studio!"
-    new "In Fetish Locator: S&M Studio!"
+    new "在《性趣探测器：S&M工作室》见！"
 
