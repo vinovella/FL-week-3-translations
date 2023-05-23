@@ -16,7 +16,7 @@ translate portuguese strings:
 
     # game/code/screens/extended/screens.rpy:78
     old "SETTINGS"
-    new "CONFIGURAÇÃO"
+    new "CONFIG"
 
     # game/code/screens/extended/screens.rpy:88
     old "LANGUAGE"
@@ -24,7 +24,7 @@ translate portuguese strings:
 
     # game/code/screens/extended/screens.rpy:98
     old "INFO"
-    new "INFORMAÇÃO"
+    new "INFO"
 
     # game/code/screens/extended/screens.rpy:108
     old "Support us on Patreon"

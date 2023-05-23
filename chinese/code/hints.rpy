@@ -1032,7 +1032,7 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This will NOT get Daisy pregnant."
-    new "这不会让黛西怀孕。
+    new "这不会让黛西怀孕。"
 
     # game/code/hints.rpy:5
     old "Lydia gives Lyssa a Rusty Trombone, but doesn't suck her cock."
@@ -1133,4 +1133,24 @@ translate chinese strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "暂无提示可用。"
+
+    # game/code/hints.rpy:5
+    old "You will act as a dom to Stacy (Rough Sex, Pain, Spanking, Name Calling)."
+    new "You will act as a dom to Stacy (Rough Sex, Pain, Spanking, Name Calling)."
+
+    # game/code/hints.rpy:5
+    old "You will act as a sub to Stacy (Pegging, Spanking, Name Calling, Rough Sex)."
+    new "You will act as a sub to Stacy (Pegging, Spanking, Name Calling, Rough Sex)."
+
+    # game/code/hints.rpy:5
+    old "You will do piss play with Stacy (Pissing On/In Each Other, Piss Drinking)."
+    new "You will do piss play with Stacy (Pissing On/In Each Other, Piss Drinking)."
+
+    # game/code/hints.rpy:5
+    old "You will do foot stuff with Stacy (Licking/Sucking Feet, Fucking Feet)."
+    new "You will do foot stuff with Stacy (Licking/Sucking Feet, Fucking Feet)."
+
+    # game/code/hints.rpy:5
+    old "You will eat Stacy's ass and then potentially have your ass eaten (Giving and receiving)."
+    new "You will eat Stacy's ass and then potentially have your ass eaten (Giving and receiving)."
 

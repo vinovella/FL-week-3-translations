@@ -236,7 +236,7 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:236
     old "HOW MANY ENDINGS HAVE YOU UNLOCKED?"
-    new "QUANTOS FINAIS VOCÊ LIBEROU"
+    new "       QUANTOS FINAIS VOCÊ LIBEROU?"
 
     # game/code/data/extended/extra_gallery.rpy:237
     old "9 ENDINGS"
@@ -272,7 +272,7 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:319
     old "THE FIRST ENDING\nFROM 18 TOTAL ENDINGS"
-    new "O PRIMEIRO FINAL\nDE 18 FINAIS TOTAIS"
+    new "      O PRIMEIRO FINAL\n       DE 18 FINAIS TOTAIS"
 
     # game/code/data/extended/extra_gallery.rpy:320
     old "IS THAT A REAL ENDING?"
@@ -280,7 +280,7 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:431
     old "I receive:"
-    new "Eu recebo:"
+    new "  Eu recebo:"
 
     # game/code/data/extended/extra_gallery.rpy:432
     old "Cum in every pussy\nat the wedding"
@@ -292,7 +292,7 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:434
     old "The whole\nharem pregnant"
-    new "O harém \ntodo grávido"
+    new "    O harém \n    todo grávido"
 
     # game/code/data/extended/extra_gallery.rpy:231
     old "HIGH SCORE :\n[persistent.minigame_max_score]"

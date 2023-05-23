@@ -13,4 +13,3 @@ translate portuguese strings:
     # game/code/e01/e01_screen.rpy:54
     old "Rimming"
     new "Anilíngua"
-

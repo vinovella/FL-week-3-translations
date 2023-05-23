@@ -32,7 +32,7 @@ translate portuguese strings:
 
     # game/code/screens/screens.rpy:305
     old "Continue from week [FLSS.week.prev]"
-    new "Continuar da semana [FLSS.week.prev]"
+    new "Cont. da semana [FLSS.week.prev]"
 
     # game/code/screens/screens.rpy:309
     old "Start"

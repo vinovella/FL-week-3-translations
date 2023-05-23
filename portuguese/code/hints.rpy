@@ -1134,3 +1134,22 @@ translate portuguese strings:
     old "No hints available."
     new "Não há dicas disponíveis."
 
+    # game/code/e01/e01_screen.rpy:17
+    old "You will act as a dom to Stacy (Rough Sex, Pain, Spanking, Name Calling)."
+    new "Você dominará Stacy (Sexo Pesado, Dor, Palmadas, Xingamento)."
+
+    # game/code/e01/e01_screen.rpy:28
+    old "You will act as a sub to Stacy (Pegging, Spanking, Name Calling, Rough Sex)."
+    new "Você se submeterá a Stacy (Penetração, Palmadas, Xingamento, Sexo Pesado)."
+
+    # game/code/e01/e01_screen.rpy:39
+    old "You will do piss play with Stacy (Pissing On/In Each Other, Piss Drinking)."
+    new "Você vai praticar urofilia com Stacy (Mijar em/dentro Um do Outro, Beber Mijo)."
+
+    # game/code/e01/e01_screen.rpy:50
+    old "You will do foot stuff with Stacy (Licking/Sucking Feet, Fucking Feet)."
+    new "Você vai praticar podofilia com Stacy (Lamber/Chupar pés, Foder Pés)."
+
+    # game/code/e01/e01_screen.rpy:61
+    old "You will eat Stacy's ass and then potentially have your ass eaten (Giving and receiving)."
+    new "Você vai lamber a bunda da Stacy, e potencialmente ter sua bunda lambida (Dando e recebendo)."

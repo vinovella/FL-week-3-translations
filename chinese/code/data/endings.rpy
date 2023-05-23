@@ -120,7 +120,6 @@ translate chinese strings:
     old "E16 - Breeding Ponies"
     new "E16 - 育马"
 
-
     old "E17 - Not Guilty"
     new "E17 - 无罪"
 
