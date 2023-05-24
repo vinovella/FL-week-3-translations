@@ -1160,5 +1160,5 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This is bad for Lydia's case . You maybe able to punish her yourself. Necessary for Ending-04."
-    new "This is bad for Lydia's case . You maybe able to punish her yourself. Necessary for Ending-04."
+    new "这对莉迪亚的案子不利。也许你可以自己惩罚她。此项为结局-04的必要条件。"
 
