@@ -634,7 +634,7 @@ translate malay d17s05mo_44598334:
 translate malay d17s05mo_eb2f558e:
 
     # mc "Oliver was telling me about his so called \"crappy family.\""
-    mc "Oliver tengah ceria pasal \"keluarga tak guna\ dia.""
+    mc "Oliver tengah ceria pasal \"keluarga tak guna\ dia."
 
 # game/code/d17/d17s05mo.rpy:217
 translate malay d17s05mo_5070e946:
