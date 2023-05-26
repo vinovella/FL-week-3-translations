@@ -34,7 +34,6 @@ def find_missing_strings(f, fp, whitelist):
                 continue
             try:
                 output_file.write(u"{0}: {1}\n".format(i, line))
-                ##output_file.write(u"{0}\n".format(line[3:]))
             except:
                 output_file.write(u"{0}: unparsed line\n".format(i))
         output_file.write(u"\n")
@@ -51,8 +50,8 @@ def is_whitelisted(line, whitelist):
     return (line[starting_index:] in whitelist)
 
 is_python3 = (sys.version_info > (3, 0))
-folders = ("./deutsch", "./italian", "./russian", "./spanish", "./chinese", "./portuguese")
-has_latin_characters = {"deutsch":True, "italian":True, "russian":False, "spanish":False, "chinese":False, "portuguese":False}
+folders = ("./deutsch", "./italian", "./russian", "./spanish", "./chinese", "./portuguese", "./malay", "./french", "./korean", "./turkish", "./dutch")
+has_latin_characters = {"deutsch":True, "italian":True, "russian":False, "spanish":False, "chinese":False, "portuguese":False, "malay":False, "french":False, "korean":False, "turkish":False, "dutch":False}
 
 for folder in folders:
     lang = folder[2:]
