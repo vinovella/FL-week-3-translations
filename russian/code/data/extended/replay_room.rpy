@@ -238,3 +238,67 @@ translate russian strings:
     old "Ending 10: Min & Nari"
     new "Концовка 10: Мин и Нари"
 
+# TODO: Translation updated at 2023-05-27 13:27
+
+translate russian strings:
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Day 21: Hana"
+    new "Day 21: Hana"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Day 21: Fivesome"
+    new "Day 21: Fivesome"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Don't leave Maria"
+    new "Don't leave Maria"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Day 21: Judge"
+    new "Day 21: Judge"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 02: Lyssa, Ashley & Frank"
+    new "Ending 02: Lyssa, Ashley & Frank"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 02: Lyssa, Dorothy & Mikaela"
+    new "Ending 02: Lyssa, Dorothy & Mikaela"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 02: Lyssa, Angela & Alexander"
+    new "Ending 02: Lyssa, Angela & Alexander"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Lydia & Min"
+    new "Ending 06: Lydia & Min"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Lydia, Stacy & AmRose"
+    new "Ending 06: Lydia, Stacy & AmRose"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Bachelor Party"
+    new "Ending 06: Bachelor Party"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Lyssa & AmRose"
+    new "Ending 06: Lyssa & AmRose"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 06: Wedding Reception"
+    new "Ending 06: Wedding Reception"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 08: Swinging Sex"
+    new "Ending 08: Swinging Sex"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 08: Stacy & Pregnant AmRose"
+    new "Ending 08: Stacy & Pregnant AmRose"
+
+    # game/code/data/extended/replay_room.rpy:15
+    old "Ending 08: Pregnant AmRose"
+    new "Ending 08: Pregnant AmRose"
+

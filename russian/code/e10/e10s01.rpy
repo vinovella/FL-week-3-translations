@@ -1172,3 +1172,11 @@ translate russian strings:
     old "Few minutes later"
     new "Несколько минут спустя"
 
+# TODO: Translation updated at 2023-05-27 13:27
+
+translate russian strings:
+
+    # game/code/e10/e10s01.rpy:69
+    old "Ending #10\nRunaway"
+    new "Ending #10\nRunaway"
+

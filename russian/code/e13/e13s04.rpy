@@ -228,3 +228,11 @@ translate russian strings:
     old "One year later"
     new "Год спустя"
 
+# TODO: Translation updated at 2023-05-27 13:27
+
+translate russian strings:
+
+    # game/code/e13/e13s04.rpy:274
+    old "You have finished playing ending number 13!"
+    new "You have finished playing ending number 13!"
+
