@@ -298,3 +298,15 @@ translate chinese strings:
     old "Skip Recap\nof Week-2"
     new "跳过\n第2周的回顾"
 
+# TODO: Translation updated at 2023-05-27 13:23
+
+translate chinese strings:
+
+    # game/code/screens/screens_fl.rpy:265
+    old "Continue playing"
+    new "Continue playing"
+
+    # game/code/screens/screens_fl.rpy:269
+    old "Close the game"
+    new "Close the game"
+

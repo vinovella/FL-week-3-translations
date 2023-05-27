@@ -250,3 +250,15 @@ translate portuguese strings:
     old "Skip Recap\nof Week-2"
     new "Pular Recapitulação\nda Semana-2"
 
+# TODO: Translation updated at 2023-05-27 13:24
+
+translate portuguese strings:
+
+    # game/code/screens/screens_fl.rpy:265
+    old "Continue playing"
+    new "Continue playing"
+
+    # game/code/screens/screens_fl.rpy:269
+    old "Close the game"
+    new "Close the game"
+

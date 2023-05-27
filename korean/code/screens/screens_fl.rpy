@@ -230,3 +230,15 @@ translate korean strings:
     old "Skip Recap\nof Week-2"
     new "Skip Recap\nof Week-2"
 
+# TODO: Translation updated at 2023-05-27 13:25
+
+translate korean strings:
+
+    # game/code/screens/screens_fl.rpy:265
+    old "Continue playing"
+    new "Continue playing"
+
+    # game/code/screens/screens_fl.rpy:269
+    old "Close the game"
+    new "Close the game"
+
