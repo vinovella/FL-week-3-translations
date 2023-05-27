@@ -52,7 +52,7 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:419
     old "Welcome to"
-    new "Selamat datang ke" 
+    new "Selamat datang ke"
 
     # game/code/screens/screens_fl.rpy:439
     old "Please enter your name here"
@@ -293,3 +293,23 @@ translate malay strings:
     # game/code/screens/screens_fl.rpy:46
     old "You haven't unlocked this ending"
     new "Anda belum membuka pengakhiran ini"
+
+# TODO: Translation updated at 2023-05-27 13:19
+
+translate malay strings:
+
+    # game/code/screens/screens_fl.rpy:265
+    old "Continue playing"
+    new "Continue playing"
+
+    # game/code/screens/screens_fl.rpy:269
+    old "Close the game"
+    new "Close the game"
+
+    # game/code/screens/screens_fl.rpy:1338
+    old "Skip Recap\nof Week-1"
+    new "Skip Recap\nof Week-1"
+
+    # game/code/screens/screens_fl.rpy:1344
+    old "Skip Recap\nof Week-2"
+    new "Skip Recap\nof Week-2"

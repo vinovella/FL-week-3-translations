@@ -613,3 +613,11 @@ translate malay metalknock2_40511e6c:
 
     # "*knock knock*"
     "*ketuk ketuk*"
+
+# TODO: Translation updated at 2023-05-27 13:19
+
+translate malay strings:
+
+    # game/code/labels.rpy:71
+    old "The legendary Fetish Locator will return"
+    new "The legendary Fetish Locator will return"

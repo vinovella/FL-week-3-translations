@@ -228,3 +228,11 @@ translate malay strings:
     old "One year later"
     new "One year later"
 
+# TODO: Translation updated at 2023-05-27 13:19
+
+translate malay strings:
+
+    # game/code/e13/e13s04.rpy:274
+    old "You have finished playing ending number 13!"
+    new "You have finished playing ending number 13!"
+
