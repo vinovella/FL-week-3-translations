@@ -214,7 +214,7 @@ translate spanish d15s01_fc1200af:
 translate spanish d15s01_12ce22dd:
 
     # lc "Why is that good?"
-    lc ¿Por qué es eso bueno?"
+    lc "¿Por qué es eso bueno?"
 
 # game/code/d15/d15s01.rpy:308
 translate spanish d15s01_077e55b0:
@@ -346,7 +346,7 @@ translate spanish d15s01_thoughts_NTR_66c12cfc:
 translate spanish d15s01_thoughts_NTR_7a02c46f:
 
     # mct "What does it want me to enter? {w}No, that's stupid. What the hell am I thinking?"
-    mct ""¿Qué quiere que Introduzca? {w}No, eso es estúpido. ¿Qué diablos estoy pensando?"
+    mct "¿Qué quiere que Introduzca? {w}No, eso es estúpido. ¿Qué diablos estoy pensando?"
 
 # game/code/d15/d15s01.rpy:393
 translate spanish d15s01_thoughts_NTR_87b9dc8f:

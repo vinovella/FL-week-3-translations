@@ -1138,7 +1138,7 @@ translate spanish d15s05b_lesbians_d5be708e:
 translate spanish d15s05b_lesbians_4474354e:
 
     # nk "I like the sound of that. How do you want to do this?"
-    nk ""Me gusta el sonido de eso. ¿Cómo quieres hacer esto?"
+    nk "Me gusta el sonido de eso. ¿Cómo quieres hacer esto?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:611
 translate spanish d15s05b_lesbians_4c244689:
@@ -1984,7 +1984,7 @@ translate spanish d15s05b_pegging_2f352855:
 translate spanish d15s05b_pegging_8cf4945f:
 
     # mc "It'll give me something to do- *gasp*"
-    mc ""Me dará algo que hacer- *jadeo*"
+    mc "Me dará algo que hacer- *jadeo*"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1129
 translate spanish d15s05b_pegging_e87a9991:
