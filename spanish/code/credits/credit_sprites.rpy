@@ -32,11 +32,11 @@ translate spanish strings:
 
     # game/code/credits/credit_sprites.rpy:122
     old "This game was only\nmade possible with\nall the support we have\nfrom Patreon\nand SubscribeStar"
-    new "Este juego solo fue posible gracias a todo el apoyo que tenemos de Patreon y SubscribeStar."
+    new "Este juego solo fue\nposible gracias a todo\nel apoyo que tenemos\nde Patreon y SubscribeStar."
 
     # game/code/credits/credit_sprites.rpy:130
     old "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
-    new "Muchas gracias a\ntodos nuestros fans\ny a todos los que\nos apoyaron y\ayudaron a dar vida\a esta historia"
+    new "Muchas gracias a\ntodos nuestros fans\ny a todos los que\nos apoyaron y\nayudaron a dar vida\na esta historia"
 
     # game/code/credits/credit_sprites.rpy:139
     old "SKIP"
