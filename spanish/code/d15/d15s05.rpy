@@ -760,7 +760,7 @@ translate spanish d15s05_assfuck_6dc5afd9:
 translate spanish d15s05_assfuck_467629ee:
 
     # mk "I wouldn't have it any other way."
-    mk ""No lo tendría de otra manera."
+    mk "No lo tendría de otra manera."
 
 # game/code/d15/d15s05.rpy:539
 translate spanish d15s05_assfuck_3fe7b3a5:
@@ -826,7 +826,7 @@ translate spanish d15s05_assfuck_486c4de1:
 translate spanish d15s05_assfuck_ca986f78:
 
     # mk "Master! {w}I can feel him!!"
-    mk "¡Maestro! {w}¡¡Puedo sentirlo!!""
+    mk "¡Maestro! {w}¡¡Puedo sentirlo!!"
 
 # game/code/d15/d15s05.rpy:569
 translate spanish d15s05_assfuck_3105fcfc:
@@ -1394,7 +1394,7 @@ translate spanish strings:
 
     # game/code/d15/d15s05.rpy:129
     old "She needs help. I'm getting her out of here"
-    new "Ella necesita ayuda. la voy a sacar de aqui""
+    new "Ella necesita ayuda. la voy a sacar de aqui"
 
     # game/code/d15/d15s05.rpy:129
     old "Alright. I'm happy to watch this"

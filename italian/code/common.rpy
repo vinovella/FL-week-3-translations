@@ -780,7 +780,7 @@ translate italian strings:
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
-    new "Tasto destro o "Esc" per uscire."
+    new "Tasto destro o \"Esc\" per uscire."
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
@@ -872,7 +872,7 @@ translate italian strings:
 
     # renpy/common/00updater.rpy:738
     old "Either this project does not support updating, or the update status file was deleted."
-    new ""O questo progetto non supporta l'aggiornamento, o è stato cancellato il file col suo stato."
+    new "O questo progetto non supporta l'aggiornamento, o è stato cancellato il file col suo stato."
 
     # renpy/common/00updater.rpy:752
     old "This account does not have permission to perform an update."
@@ -896,7 +896,7 @@ translate italian strings:
 
     # renpy/common/00updater.rpy:1252
     old "While unpacking {}, unknown type {}."
-    new ""Durante lo spacchettamento di {}, tipo sconosciuto {}."
+    new "Durante lo spacchettamento di {}, tipo sconosciuto {}."
 
     # renpy/common/00updater.rpy:1624
     old "Updater"

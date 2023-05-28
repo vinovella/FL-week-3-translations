@@ -232,7 +232,7 @@ translate spanish d15s04dw_dc2c45bf:
 translate spanish d15s04dw_66fdfbd9:
 
     # sb "This is too funny."
-    sb ""Esto es demasiado gracioso."
+    sb "Esto es demasiado gracioso."
 
 # game/code/d15/d15s04dw.rpy:146
 translate spanish d15s04dw_57521fe8:
@@ -334,7 +334,7 @@ translate spanish d15s04dw_3475d552:
 translate spanish d15s04dw_71931f7d:
 
     # dw "You don't want to see this. {w}I suggest you leave."
-    dw ""No quieres ver esto. {w}Te sugiero que te vayas."
+    dw "No quieres ver esto. {w}Te sugiero que te vayas."
 
 # game/code/d15/d15s04dw.rpy:207
 translate spanish d15s04dw_73967037:
@@ -694,7 +694,7 @@ translate spanish d15s04dw_f3099e32:
 translate spanish d15s04dw_e047afb4:
 
     # dw "Not because...?"
-    dw ¿No porque...?"
+    dw "¿No porque...?"
 
 # game/code/d15/d15s04dw.rpy:460
 translate spanish d15s04dw_ac2102c2:

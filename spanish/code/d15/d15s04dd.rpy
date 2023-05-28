@@ -760,7 +760,7 @@ translate spanish d15s04dd_9feeccc3:
 translate spanish d15s04dd_b629b3f4:
 
     # mc "Did that feel good?"
-    mc ¿Eso se sintió bien?"
+    mc "¿Eso se sintió bien?"
 
 # game/code/d15/d15s04dd.rpy:504
 translate spanish d15s04dd_c13f1fb0:
