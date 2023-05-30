@@ -58,7 +58,7 @@ translate spanish d15s07_ec217028:
 translate spanish d15s07_9234c84b:
 
     # lc "Oh, sorry. I forgot. {w}How are you doing with-?"
-    lc "Oh, lo siento. Me olvidé. {w}¿Cómo te va con-?""
+    lc "Oh, lo siento. Me olvidé. {w}¿Cómo te va con-?"
 
 # game/code/d15/d15s07.rpy:76
 translate spanish d15s07_2c517df3:
@@ -232,7 +232,7 @@ translate spanish d15s07_whatsthat_11ef2016:
 translate spanish d15s07_whatsthat_54e69afd:
 
     # mc "You told her about that?!"
-    mc ""¡¿Le dijiste sobre eso?!"
+    mc "¡¿Le dijiste sobre eso?!"
 
 # game/code/d15/d15s07.rpy:187
 translate spanish d15s07_whatsthat_79c07997:
@@ -304,7 +304,7 @@ translate spanish d15s07_mes_pee_on_mc_c29a6966:
 translate spanish d15s07_mes_pee_on_mc_61ea994d:
 
     # mes "You don't have to do anything. I'm gonna-"
-    mes ""No tienes que hacer nada. Voy a-"
+    mes "No tienes que hacer nada. Voy a-"
 
 # game/code/d15/d15s07.rpy:236
 translate spanish d15s07_mes_pee_on_mc_eae1ae7e:
@@ -832,7 +832,7 @@ translate spanish d15s07_ntr_path_a7921833:
 translate spanish d15s07_ntr_path_1061f846:
 
     # lc "Min. Stop. That's enough."
-    lc Mín. Detente. Eso es suficiente."
+    lc "Mín. Detente. Eso es suficiente."
 
 # game/code/d15/d15s07.rpy:617
 translate spanish d15s07_ntr_path_1fba0006:

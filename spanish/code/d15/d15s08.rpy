@@ -310,7 +310,7 @@ translate spanish d15s08_993bb9cc:
 translate spanish d15s08_5206a696:
 
     # mc "How bad are we talking about?"
-    mc ¿De qué mal estamos hablando?"
+    mc "¿De qué mal estamos hablando?"
 
 # game/code/d15/d15s08.rpy:169
 translate spanish d15s08_5d78a982:
@@ -1024,7 +1024,7 @@ translate spanish d15s08_aef0532a:
 translate spanish d15s08_c17ef8ec:
 
     # mc "What's that?"
-    mc ¿Qué es eso?"
+    mc "¿Qué es eso?"
 
 # game/code/d15/d15s08.rpy:521
 translate spanish d15s08_692ef887:
@@ -1048,7 +1048,7 @@ translate spanish d15s08_e1e12223:
 translate spanish d15s08_f2120d73:
 
     # sy "And then you fall asleep in a pile of warmth and comfort."
-    sy ""Y luego te duermes en un montón de calidez y comodidad."
+    sy "Y luego te duermes en un montón de calidez y comodidad."
 
 # game/code/d15/d15s08.rpy:530
 translate spanish d15s08_2b35b6fe_1:
