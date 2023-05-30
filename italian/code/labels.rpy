@@ -466,25 +466,25 @@ translate italian after_credits_090df343:
 translate italian after_credits_9f7b6a0f:
 
     # sy "{size=25}What's their deal? Are they a part of the groups and whatnot?{/size}"
-    sy "{size=25}What's their deal? Are they a part of the groups and whatnot?{/size}"
+    sy "{size=25}Qual è il loro affare? Fanno parte di un gruppo o altro?{/size}"
 
 # game/code/labels.rpy:495
 translate italian after_credits_3a7fd910:
 
     # dd "{size=25}Oh, they are the roommates of the main guy.{/size}"
-    dd "{size=25}Oh, they are the roommates of the main guy.{/size}"
+    dd "{size=25}Oh, sono i coinquilini del ragazzo principale.{/size}"
 
 # game/code/labels.rpy:496
 translate italian after_credits_e6fb4b60:
 
     # dd "{size=25}Josie had an old crush on him and that's now sparking up again, and Lara is very protective of Josie and not really trusting of the guy. But he's growing on her slowly.{/size}"
-    dd "{size=25}Josie had an old crush on him and that's now sparking up again, and Lara is very protective of Josie and not really trusting of the guy. But he's growing on her slowly.{/size}"
+    dd "{size=25}Josie aveva una vecchia cotta per lui e ora si sta riaccendendo, e Lara è molto protettiva nei confronti di Josie e non si fida davvero del ragazzo. Ma sta crescendo su di lei lentamente.{/size}"
 
 # game/code/labels.rpy:497
 translate italian after_credits_44f6d9ec:
 
     # dd "{size=25}Honestly, this love triangle is my favorite part of the game!{/size}"
-    dd "{size=25}Honestly, this love triangle is my favorite part of the game!{/size}"
+    dd "{size=25}Onestamente, questo triangolo amoroso è la mia parte preferita del gioco!{/size}"
 
 # game/code/labels.rpy:500
 translate italian after_credits_22db45f7:
@@ -496,7 +496,7 @@ translate italian after_credits_22db45f7:
 translate italian after_credits_0154b939:
 
     # dd "Sorry! I love all the parts, but Josie and Lara are just so sweet!"
-    dd "Sorry! I love all the parts, but Josie and Lara are just so sweet!"
+    dd "Scusa! I adoro tutte la parti, ma Josie e Lara sono così dolci!"
 
 # game/code/labels.rpy:526
 translate italian after_credits_1fc6acda:
@@ -508,19 +508,19 @@ translate italian after_credits_1fc6acda:
 translate italian after_credits_775537af:
 
     # dk "Hm? What are you doing here?"
-    dk "Hm? What are you doing here?"
+    dk "Hm? Cosa stai facendo qui?"
 
 # game/code/labels.rpy:536
 translate italian after_credits_b054eac0:
 
     # sm "They just finished Fetish Locator! This is the post-credit scene!"
-    sm "They just finished Fetish Locator! This is the post-credit scene!"
+    sm "Hanno finito Fetish Locator! Questa è la scena dopo i titoli di coda!"
 
 # game/code/labels.rpy:537
 translate italian after_credits_81c43ea2:
 
     # sm "What are {i}you{/i} doing here?"
-    sm "What are {i}you{/i} doing here?"
+    sm "Cosa {i}stai{/i} facendo qui?"
 
 # game/code/labels.rpy:540
 translate italian after_credits_316abddd:
@@ -538,61 +538,61 @@ translate italian after_credits_a1f49133:
 translate italian after_credits_395f54bd:
 
     # dk "We were just uhm...preparing for the next scene."
-    dk "We were just uhm...preparing for the next scene."
+    dk "Noi ci stiamo solo uhm...preparando per la prossima scena."
 
 # game/code/labels.rpy:550
 translate italian after_credits_e345815d:
 
     # dk "Ezra needs to suck the Main Character's cock, but she's never sucked such a big dick. So I was just helping train her gag reflex!"
-    dk "Ezra needs to suck the Main Character's cock, but she's never sucked such a big dick. So I was just helping train her gag reflex!"
+    dk "Ezra deve succhiare il cazzo del personaggio principale, Ma lei non ha mai succhiato un cazzo grande. Allora la stavo solo aiutando allenando il suo riflesso per il vomito!"
 
 # game/code/labels.rpy:553
 translate italian after_credits_681cb382:
 
     # edo "I'm a big fan of your scenes, by the way! If I could take dick like you, I wouldn't have to train."
-    edo "I'm a big fan of your scenes, by the way! If I could take dick like you, I wouldn't have to train."
+    edo "Sono un grande fan delle tue scene, a proposito! Se potessi prendere cazzi come te, non dovrei allenarmi."
 
 # game/code/labels.rpy:556
 translate italian after_credits_ba585655:
 
     # sy "Oh yeah! Daisy is a real expert at deep throating!"
-    sy "Oh yeah! Daisy is a real expert at deep throating!"
+    sy "Oh sì! Daisy è una vera esperta di gole profonde!"
 
 # game/code/labels.rpy:559
 translate italian after_credits_83238ee0:
 
     # edo "Yeah! You are a star!"
-    edo "Yeah! You are a star!"
+    edo "Yeah! Tu sei una star!"
 
 # game/code/labels.rpy:562
 translate italian after_credits_05fec18e:
 
     # dd "Thank you!"
-    dd "Thank you!"
+    dd "Grazie!"
 
 # game/code/labels.rpy:573
 translate italian after_credits_9790213c:
 
     # dd "Oh... I guess that's the end then."
-    dd "Oh... I guess that's the end then."
+    dd "Oh... Immagino sia la fine allora."
 
 # game/code/labels.rpy:576
 translate italian after_credits_054483a6:
 
     # sy "Well... We can still enjoy the sunset together."
-    sy "Well... We can still enjoy the sunset together."
+    sy "Beh... Possiamo ancora goderci il tramonto insieme."
 
 # game/code/labels.rpy:579
 translate italian after_credits_050e12e8:
 
     # dd "I'd like that very much."
-    dd "I'd like that very much."
+    dd "Mi piacerebbe molto."
 
 # game/code/labels.rpy:724
 translate italian buzz_4377a2f7:
 
     # "Bzzzzz" with hpunch
-    "Bzzzzz" with hpunch
+    "Bzzzzz" con pugno
 
 # game/code/labels.rpy:730
 translate italian knock_40511e6c:
@@ -616,5 +616,5 @@ translate italian strings:
 
     # game/code/labels.rpy:71
     old "The legendary Fetish Locator will return"
-    new "The legendary Fetish Locator will return"
+    new "Il leggendario Fetish Locator tornerà"
 
