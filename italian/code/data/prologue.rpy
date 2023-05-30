@@ -68,7 +68,7 @@ translate italian strings:
 
     # game/code/data/prologue.rpy:16
     old "The Judge"
-    new "The Judge"
+    new "Il Giudice"
 
     # game/code/data/prologue.rpy:45
     old "Enema"
@@ -76,11 +76,11 @@ translate italian strings:
 
     # game/code/data/prologue.rpy:45
     old "Watersports"
-    new "Watersports"
+    new "Sport acquatici"
 
     # game/code/data/prologue.rpy:45
     old "Footfetish"
-    new "Footfetish"
+    new "Lavoro di piedi"
 
     # game/code/data/prologue.rpy:45
     old "Cumgarnish"
@@ -108,5 +108,5 @@ translate italian strings:
 
     # game/code/data/prologue.rpy:79
     old "adult magazines"
-    new "adult magazines"
+    new "Giornalini per adulti"
 
