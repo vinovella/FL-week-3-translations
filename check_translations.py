@@ -26,6 +26,8 @@ def find_missing_strings(f, fp, lang_folder, lang):
         elif lines[i].startswith("    old"):
             if lines[i + 1][8:].strip() == lines[i][8:].strip():
                 untranslated_lines.append(i + 2)
+        elif lines[i].strip().endswith(' ""'):
+            untranslated_lines.append(i + 1)
     if len(untranslated_lines) > 0:
         rel_path = os.path.relpath(f, lang_folder)
         output_file.write(u"File: {0}/{1}\n\n".format(lang, rel_path))
