@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-06 10:42
 
-# game/code/d17/d17s06dd.rpy:33
-translate russian d17s06dd_e843f07b:
-
-    # "30 minutes later"
-    "30 минут спустя."
-
 # game/code/d17/d17s06dd.rpy:41
 translate russian d17s06dd_10938193:
 

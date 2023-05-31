@@ -606,12 +606,6 @@ translate portuguese e06s09_slope_23eeff70:
     # lc "You're not so bad yourself."
     lc "Você também não é nada mal."
 
-# game/code/e06/e06s09.rpy:379
-translate portuguese e06s09_slope_7129dea6:
-
-    # mc "Nice."
-    mc "Legal."
-
 # game/code/e06/e06s09.rpy:385
 translate portuguese e06s09_slope_ed2501c2:
 

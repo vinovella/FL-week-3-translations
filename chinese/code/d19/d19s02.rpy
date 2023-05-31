@@ -678,12 +678,6 @@ translate chinese d19s02_7778fe7e:
     # dd "I jus want you to come over"
     dd "我只是想让你过来"
 
-# game/code/d19/d19s02.rpy:348
-translate chinese d19s02_8796b521:
-
-    # mct "Ill be there"
-    mct "我会过去的"
-
 # game/code/d19/d19s02.rpy:349
 translate chinese d19s02_7ad556d6:
 

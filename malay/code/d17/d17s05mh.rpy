@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-04-16 20:02
 
-# game/code/d17/d17s05mh.rpy:46
-translate malay d17s05mh_e843f07b:
-
-    # "30 minutes later"
-    "30 minit kemudian"
-
 # game/code/d17/d17s05mh.rpy:52
 translate malay d17s05mh_80756f8d:
 

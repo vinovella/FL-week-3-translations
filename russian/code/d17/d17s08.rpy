@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-06 10:42
 
-# game/code/d17/d17s08.rpy:49
-translate russian d17s08_b0017cfc:
-
-    # "Later that evening"
-    "Позже тем же вечером."
-
 # game/code/d17/d17s08.rpy:51
 translate russian d17s08_15d395d8:
 

@@ -1154,3 +1154,11 @@ translate italian strings:
     old "No hints available."
     new "Nessun suggerimento disponibile."
 
+# TODO: Translation updated at 2023-06-01 02:00
+
+translate italian strings:
+
+    # game/code/hints.rpy:5
+    old "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
+    new "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
+

@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-04-16 20:02
 
-# game/code/d17/d17s08.rpy:49
-translate malay d17s08_b0017cfc:
-
-    # "Later that evening"
-    "Later that evening"
-
 # game/code/d17/d17s08.rpy:51
 translate malay d17s08_15d395d8:
 

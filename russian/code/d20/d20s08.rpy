@@ -666,12 +666,6 @@ translate russian d20s08_jumped_114aff64:
     # mc "AmRose, Run!"
     mc "АмРоуз, беги!"
 
-# game/code/d20/d20s08.rpy:207
-translate russian d20s08_jumped_a1d42258:
-
-    # mc "Jerome.{w} You asshole.{w} I shouldn't known-"
-    mc "Джером. {w}Ты мудак. {w}Я должен был догадаться..."
-
 # game/code/d20/d20s08.rpy:212
 translate russian d20s08_jumped_8dbea7a4:
 

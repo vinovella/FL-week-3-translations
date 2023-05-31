@@ -1044,12 +1044,6 @@ translate portuguese e06s06_fuck_arj_c77b3033:
     # arj "Oh... OH... I'm CUMMING!"
     arj "Aih... AIH... Eu tô GOZANDO!"
 
-# game/code/e06/e06s06.rpy:666
-translate portuguese e06s06_finish_1_7dcb9551:
-
-    # mh "[mcname] That's it, [mcname]. You heard your fiance... make... make me cum!"
-    mh "Isso, [mcname]. Você ouviu sua noiva... faz... faz eu gozar!"
-
 # game/code/e06/e06s06.rpy:667
 translate portuguese e06s06_finish_1_f23f3a6b:
 

@@ -864,12 +864,6 @@ translate portuguese e08s07_next_day_55a83abf:
     # sy "Morning. I hate to say it, but it looks like I'll have to cut the weekend trip a little short."
     sy "Bom dia. Odeio ter que dizer isso, mas parece que vou ter que cortar esse fim de semana."
 
-# game/code/e08/e08s07.rpy:692
-translate portuguese e08s07_next_day_c90ed49b:
-
-    # mc " What's up?"
-    mc "O que houve?"
-
 # game/code/e08/e08s07.rpy:694
 translate portuguese e08s07_next_day_e6a2b7ef:
 

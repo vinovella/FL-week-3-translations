@@ -1194,12 +1194,6 @@ translate portuguese d20s07_last_show_a70226f8:
     # mc "And if it bothers you, we'll tell people to stop recording."
     mc "E se isso te incomoda, vamos falar pras pessoas pararem de gravar."
 
-# game/code/d20/d20s07.rpy:534
-translate portuguese d20s07_last_show_e6b7dee9:
-
-    # nk "You think thy will do that?"
-    nk "Você acha que eles vão fazer isso?"
-
 # game/code/d20/d20s07.rpy:536
 translate portuguese d20s07_last_show_9735aea1:
 

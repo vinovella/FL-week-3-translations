@@ -678,12 +678,6 @@ translate malay d19s02_7778fe7e:
     # dd "I jus want you to come over"
     dd "I jus want you to come over"
 
-# game/code/d19/d19s02.rpy:348
-translate malay d19s02_8796b521:
-
-    # mct "Ill be there"
-    mct "Ill be there"
-
 # game/code/d19/d19s02.rpy:349
 translate malay d19s02_7ad556d6:
 

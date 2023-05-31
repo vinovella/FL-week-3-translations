@@ -294,12 +294,6 @@ translate portuguese d20s02tl_pray_55f72b63:
     # tl "I prepare my body for the Master to come."
     tl "Eu preparo meu corpo para o Mestre vir."
 
-# game/code/d20/d20s02tl.rpy:192
-translate portuguese d20s02tl_pray_a5bbc1f5:
-
-    # mct "Finally, surrender yourself to my teaching."
-    mct "Finalmente, se submeta aos meus ensinos."
-
 # game/code/d20/d20s02tl.rpy:194
 translate portuguese d20s02tl_pray_09cf030f:
 

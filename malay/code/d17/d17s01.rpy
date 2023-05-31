@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2022-04-16 20:02
 
-# game/code/d17/d17s01.rpy:40
-translate malay d17s01_8459a306:
-
-    # "Wednesday.{w} Day-17."
-    "Rabu. {w}Hari-17."
-
 # game/code/d17/d17s01.rpy:49
 translate malay d17s01_918de26a:
 
@@ -1197,7 +1191,7 @@ translate malay d17s01_anal_sex_58fef8e5:
 # game/code/d17/d17s01.rpy:523
 translate malay d17s01_anal_sex_5b328454:
 
-       # arj "Oh, fuck me."
+    # arj "Oh, fuck me."
     arj "Oh, sial betul."
 
 # game/code/d17/d17s01.rpy:525

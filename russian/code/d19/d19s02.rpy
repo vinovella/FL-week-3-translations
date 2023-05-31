@@ -678,12 +678,6 @@ translate russian d19s02_7778fe7e:
     # dd "I jus want you to come over"
     dd "Я просто хочу, чтобы ты пришел."
 
-# game/code/d19/d19s02.rpy:348
-translate russian d19s02_8796b521:
-
-    # mct "Ill be there"
-    mct "Скоро буду."
-
 # game/code/d19/d19s02.rpy:349
 translate russian d19s02_7ad556d6:
 

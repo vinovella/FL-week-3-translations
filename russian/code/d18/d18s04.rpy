@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-05 14:57
 
-# game/code/d18/d18s04.rpy:65
-translate russian d18s04_0179cf5e:
-
-    # "45 minutes later"
-    "45 минут спустя."
-
 # game/code/d18/d18s04.rpy:68
 translate russian d18s04_09dff030:
 
