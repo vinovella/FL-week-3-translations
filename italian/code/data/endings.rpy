@@ -68,7 +68,7 @@ translate italian strings:
 
     # game/code/data/endings.rpy:3
     old "Not Guilty"
-    new "Non colpevole
+    new "Non colpevole"
 
     # game/code/data/endings.rpy:3
     old "Quartet"
@@ -76,110 +76,110 @@ translate italian strings:
 
 translate italian strings:
 
-    old "F01 - Locked"
+    old "E01 - Locked"
     new "F01 - Bloccato"
 
-    old "F02 - Locked"
+    old "E02 - Locked"
     new "F02 - Bloccato"
 
-    old "F03 - Locked"
+    old "E03 - Locked"
     new "F03 - Bloccato"
 
-    old "F04 - Locked"
+    old "E04 - Locked"
     new "F04 - Bloccato"
 
-    old "F05 - Locked"
+    old "E05 - Locked"
     new "F05 - Bloccato"
 
-    old "F06 - Locked"
+    old "E06 - Locked"
     new "F06 - Bloccato"
 
-    old "F07 - Locked"
+    old "E07 - Locked"
     new "F07 - Bloccato"
 
-    old "F08 - Locked"
+    old "E08 - Locked"
     new "F08 - Bloccato"
 
-    old "F09 - Locked"
+    old "E09 - Locked"
     new "F09 - Bloccato"
 
-    old "F10 - Locked"
+    old "E10 - Locked"
     new "F10 - Bloccato"
 
-    old "F11 - Locked"
+    old "E11 - Locked"
     new "F11 - Bloccato"
 
-    old "F12 - Locked"
+    old "E12 - Locked"
     new "F12 - Bloccato"
 
-    old "F13 - Locked"
+    old "E13 - Locked"
     new "F13 - Bloccato"
 
-    old "F14 - Locked"
+    old "E14 - Locked"
     new "F14 - Bloccato"
 
-    old "F15 - Locked"
+    old "E15 - Locked"
     new "F15 - Bloccato"
 
-    old "F16 - Locked"
+    old "E16 - Locked"
     new "F16 - Bloccato"
 
-    old "F17 - Locked"
+    old "E17 - Locked"
     new "F17 - Bloccato"
 
-    old "F18 - Locked"
+    old "E18 - Locked"
     new "F18 - Bloccato"
 
-    old "F01 - S&M Studio"
+    old "E01 - S&M Studio"
     new "F01 - S&M Studio"
 
-    old "F02 - Snowy Peaks"
+    old "E02 - Snowy Peaks"
     new "F02 - Cime innevate"
 
-    old "F03 - Two Girls Two Dicks"
-    new "F03 - "Due Ragazze Due Cazzi"
+    old "E03 - Two Girls Two Dicks"
+    new "F03 - Due Ragazze Due Cazzi"
 
-    old "F04 - My Sex Dungeon"
+    old "E04 - My Sex Dungeon"
     new "F04 - Il Mio Dungeon di Sesso"
 
-    old "F05 - Sausage Party"
+    old "E05 - Sausage Party"
     new "F05 - Festa della Salsiccia"
 
-    old "F06 - Queen's Harem"
+    old "E06 - Queen's Harem"
     new "F06 - La regina di Harem"
 
-    old "F07 - A New Chair"
+    old "E07 - A New Chair"
     new "F07 - Una nuova sedia"
 
-    old "F08 - My Happy Ginger Family"
-    new "F08 - La Mia Felice Famiglia di Ginger
+    old "E08 - My Happy Ginger Family"
+    new "F08 - La Mia Felice Famiglia di Ginger"
 
-    old "F09 - Fetish Locator: Rebooted"
+    old "E09 - Fetish Locator: Rebooted"
     new "F09 - Fetish Locator: Riavviato"
 
-    old "F10 - Runaway"
+    old "E10 - Runaway"
     new "F10 - Fuggire"
 
-    old "F11 - Red Diamond"
+    old "E11 - Red Diamond"
     new "F11 - Diamante Rosso"
 
-    old "F12 - Redhead Resort"
+    old "E12 - Redhead Resort"
     new "F12 - Località Rossa"
 
-    old "F13 - Pregnant Nora"
+    old "E13 - Pregnant Nora"
     new "F13 - Nora Incinta"
 
-    old "F14 - Polly & Nora"
+    old "E14 - Polly & Nora"
     new "F14 - Polly & Nora"
 
-    old "F15 - Waterfall"
+    old "E15 - Waterfall"
     new "F15 - Cascata"
 
-    old "F16 - Breeding Ponies"
-    new "F16 - Allevamento di Pony
+    old "E16 - Breeding Ponies"
+    new "F16 - Allevamento di Pony"
 
-    old "F17 - Not Guilty"
+    old "E17 - Not Guilty"
     new "F17 - Non colpevole"
 
-    old "F18 - Quartet"
+    old "E18 - Quartet"
     new "F18 - Quartetto"

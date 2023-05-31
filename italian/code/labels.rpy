@@ -382,7 +382,7 @@ translate italian after_credits_99a25d72:
 translate italian after_credits_03943779:
 
     # sy "Woah, that sounds like it's gonna be something. I hope you guys do well!"
-    sy Wow, sembra che sarà qualcosa di grandioso. Spero che a voi ragazzi vi vada bene!
+    sy "Wow, sembra che sarà qualcosa di grandioso. Spero che a voi ragazzi vi vada bene!"
 
 # game/code/labels.rpy:436
 translate italian after_credits_6a3e959a:
@@ -592,7 +592,7 @@ translate italian after_credits_050e12e8:
 translate italian buzz_4377a2f7:
 
     # "Bzzzzz" with hpunch
-    "Bzzzzz" con pugno
+    "Bzzzzz" with hpunch
 
 # game/code/labels.rpy:730
 translate italian knock_40511e6c:

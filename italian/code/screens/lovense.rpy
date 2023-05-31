@@ -72,7 +72,7 @@ translate italian strings:
 
     # game/code/screens/lovense.rpy:36
     old "4. Enter the \"Local IP\" and \"Http Port\" shown in the app"
-    new "4. Immettere l'"IP locale" e la "Porta Http" visualizzati nell'applicazione."
+    new "4. Immettere l'\"IP locale\" e la \"Porta Http\" visualizzati nell'applicazione."
 
     # game/code/screens/lovense.rpy:41
     old "Local IP: "

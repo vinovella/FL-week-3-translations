@@ -312,7 +312,7 @@ translate italian strings:
 
     # game/code/screens/screens.rpy:1356
     old "Mouse Wheel Up\nClick Rollback Side"
-    new Rotella su\nClicca il lato riavvolgimento"
+    new "Rotella su\nClicca il lato riavvolgimento"
 
     # game/code/screens/screens.rpy:1360
     old "Mouse Wheel Down"
