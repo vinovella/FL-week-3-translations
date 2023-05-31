@@ -1320,12 +1320,6 @@ translate chinese e06s03_sex_chair_arj_c0187d5d:
     # sy "Oh fuck!"
     sy "哦，操！"
 
-# game/code/e06/e06s03.rpy:485
-translate chinese e06s03_sex_chair_arj_69c8d6c5:
-
-    # lc "*Frantic panting*"
-    lc "*狂乱的喘息*"
-
 # game/code/e06/e06s03.rpy:486
 translate chinese e06s03_sex_chair_arj_8d985b3d:
 
@@ -1517,12 +1511,6 @@ translate chinese e06s03_sex_chair_sy_6410d434:
 
     # sy "Whatever you say, \"Master\"."
     sy "你说什么都行，\"主人\"."
-
-# game/code/e06/e06s03.rpy:549
-translate chinese e06s03_sex_chair_sy_bca09261:
-
-    # sy "Hehehe."
-    sy "哈哈。"
 
 # game/code/e06/e06s03.rpy:551
 translate chinese e06s03_sex_chair_sy_4214bf0e:

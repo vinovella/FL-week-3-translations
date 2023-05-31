@@ -24,12 +24,6 @@ translate russian d15s05b_ext_407ab046:
     # pw "You both agreed that I could choose today's date. Trust me a little."
     pw "Вы оба согласились, что мне выбирать. Доверьтесь мне."
 
-# game/code/d15/extended/d15s05b_ext.rpy:77
-translate russian d15s05b_ext_803b7b62:
-
-    # mc "Sure. I just don't understand why we can't know where we are going."
-    mc "Конечно. Я просто не понимаю, почему нельзя узнать, куда мы идем."
-
 # game/code/d15/extended/d15s05b_ext.rpy:80
 translate russian d15s05b_ext_29305707:
 
@@ -1019,12 +1013,6 @@ translate russian d15s05b_fisto_ddac711d:
 
     # pw "Ooooooooo yEah..."
     pw "Ооооооооо даааа..."
-
-# game/code/d15/extended/d15s05b_ext.rpy:521
-translate russian d15s05b_fisto_f73b8ae6:
-
-    # nk "Any other tips & tricks?"
-    nk "Будут еще советы и рекомендации?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:523
 translate russian d15s05b_fisto_cb730f6b:
@@ -2243,12 +2231,6 @@ translate russian d15s05b_spitroast_d695085e:
 
     # mc "You have the power to make her feel that way."
     mc "У тебя есть сила заставлять ее чувствовать себя так."
-
-# game/code/d15/extended/d15s05b_ext.rpy:1232
-translate russian d15s05b_spitroast_9691c7b2:
-
-    # mc "You are sharing an intense, pleasurable, powerful emotional and sexual moment."
-    mc "Вы разделяете интенсивный, приятный, мощный эмоциональный и сексуальный момент."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1234
 translate russian d15s05b_spitroast_0f7de7de:

@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d15/d15s08.rpy:4
-translate malay d15s08_e843f07b:
-
-    # "30 minutes later"
-    "30 minit kemudian"
-
 # game/code/d15/d15s08.rpy:16
 translate malay d15s08_ac30fa16:
 
@@ -227,12 +221,6 @@ translate malay d15s08_a5914113:
 
     # mct "I feel like Charlie.{w}.. or at least Bosworth."
     mct "Aku rasa macam Charlie... {w}atau sekurang-kurangnya Bosworth."
-
-# game/code/d15/d15s08.rpy:122
-translate malay d15s08_a523b7cd:
-
-    # mc "Okay, Angels! Let's recap. Fetish Locator should have physical servers on or near campus."
-    mc "Baiklah, Angels! Mari kita imbas semula. Fetish Locator sepatutnya ada pelayan fizikal di dalam atau berhampiran kampus."
 
 # game/code/d15/d15s08.rpy:125
 translate malay d15s08_321e912e:

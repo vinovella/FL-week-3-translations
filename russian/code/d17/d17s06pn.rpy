@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-06 10:42
 
-# game/code/d17/d17s06pn.rpy:32
-translate russian d17s06pn_e843f07b:
-
-    # "30 minutes later"
-    "30 минут спустя."
-
 # game/code/d17/d17s06pn.rpy:34
 translate russian d17s06pn_9f8e2b43:
 
@@ -1049,12 +1043,6 @@ translate russian d17s06pn_cf41f269:
 
     # nk "Definitely."
     nk "Определенно."
-
-# game/code/d17/d17s06pn.rpy:358
-translate russian d17s06pn_8bac5718:
-
-    # "Some time later"
-    "Некоторое время спустя."
 
 # game/code/d17/d17s06pn.rpy:361
 translate russian d17s06pn_1785e8ad:

@@ -1320,12 +1320,6 @@ translate portuguese e06s03_sex_chair_arj_c0187d5d:
     # sy "Oh fuck!"
     sy "Aih, porra!"
 
-# game/code/e06/e06s03.rpy:485
-translate portuguese e06s03_sex_chair_arj_69c8d6c5:
-
-    # lc "*Frantic panting*"
-    lc "*Ofegante*"
-
 # game/code/e06/e06s03.rpy:486
 translate portuguese e06s03_sex_chair_arj_8d985b3d:
 
@@ -1517,12 +1511,6 @@ translate portuguese e06s03_sex_chair_sy_6410d434:
 
     # sy "Whatever you say, \"Master\"."
     sy "O que achar melhor, \"Mestre\"."
-
-# game/code/e06/e06s03.rpy:549
-translate portuguese e06s03_sex_chair_sy_bca09261:
-
-    # sy "Hehehe."
-    sy "Hehehe."
 
 # game/code/e06/e06s03.rpy:551
 translate portuguese e06s03_sex_chair_sy_4214bf0e:

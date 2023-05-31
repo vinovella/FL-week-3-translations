@@ -996,18 +996,6 @@ translate portuguese d19s06mes_e26b033f:
     # mes "No, no, no. That won't do at all.{w} Open your eyes and look at his magnificent penis."
     mes "Não, não, não. Assim não pode.{w} Abre seus olhos e olha pro pau magnífico dele."
 
-# game/code/d19/d19s06mes.rpy:659
-translate portuguese d19s06mes_05da3a53:
-
-    # cl "It's so small. How is that magnificent?"
-    cl "Ele tá tão pequeno. Como que isso é magnífico?"
-
-# game/code/d19/d19s06mes.rpy:662
-translate portuguese d19s06mes_708cf316:
-
-    # mes "You can't expect it to be hard while he's peeing. Now, open wide!"
-    mes "Você não pode esperar que ele esteja duro enquanto urina. Agora abre bem!"
-
 # game/code/d19/d19s06mes.rpy:674
 translate portuguese d19s06mes_6c4c9566:
 

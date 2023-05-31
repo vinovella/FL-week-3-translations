@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-06 10:42
 
-# game/code/d17/d17s02.rpy:48
-translate russian d17s02_16275f53:
-
-    # "20 minutes later"
-    "20 минут спустя."
-
 # game/code/d17/d17s02.rpy:52
 translate russian d17s02_31459df9:
 
@@ -83,12 +77,6 @@ translate russian d17s02_06a04454:
 
     # mc "I'll be there. Why don't you start getting ready for me?"
     mc "Я скоро буду. Начинай готовиться!"
-
-# game/code/d17/d17s02.rpy:77
-translate russian d17s02_e843f07b:
-
-    # "30 minutes later"
-    "30 минут спустя."
 
 # game/code/d17/d17s02.rpy:89
 translate russian replay_d17s02_cafec360:

@@ -594,12 +594,6 @@ translate chinese d06s08_sy_378f726e:
     # sy "Oh gawd, oh gawd, OH GAWD YESSS!!!"
     sy "哦天，哦天，哦，天哪!!!"
 
-# game/code/e06/e06s08.rpy:252
-translate chinese d06s08_sy_525e2441:
-
-    # sy "CREAMPIE ME [mcname_upper]!!!"
-    sy "射我里面，[mcname_upper]!!!"
-
 # game/code/e06/e06s08.rpy:254
 translate chinese d06s08_sy_40bbc053:
 
@@ -1911,42 +1905,6 @@ translate chinese strings:
     new "莉迪亚应该让丽莎性奋起来，给她吹箫"
 
 # TODO: Translation updated at 2023-04-24 02:24
-
-# game/code/e06/e06s08.rpy:149
-translate chinese e06s08_cake_c3b7c93b_1:
-
-    # arj "Get a room!"
-    arj "开房吧！"
-
-# game/code/e06/e06s08.rpy:152
-translate chinese e06s08_cake_d89f2732_1:
-
-    # "*laughter*"
-    "*笑*"
-
-# game/code/e06/e06s08.rpy:156
-translate chinese e06s08_cake_c3b7c93b_2:
-
-    # arj "Get a room!"
-    arj "开房吧！"
-
-# game/code/e06/e06s08.rpy:159
-translate chinese e06s08_cake_d89f2732_2:
-
-    # "*laughter*"
-    "*笑*"
-
-# game/code/e06/e06s08.rpy:163
-translate chinese e06s08_cake_c3b7c93b_3:
-
-    # arj "Get a room!"
-    arj "开房吧！"
-
-# game/code/e06/e06s08.rpy:165
-translate chinese e06s08_cake_d89f2732_3:
-
-    # "*laughter*"
-    "*笑*"
 
 # game/code/e06/e06s08.rpy:348
 translate chinese d06s08_sy_4a9a11a2:

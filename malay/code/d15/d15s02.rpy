@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d15/d15s02.rpy:10
-translate malay d15s02_22983615:
-
-    # "10 minutes of walking later"
-    "selepas berjalan 10 minit kemudian"
-
 # game/code/d15/d15s02.rpy:19
 translate malay d15s02_ce86b6d4:
 
@@ -143,12 +137,6 @@ translate malay d15s02_c5717414:
 
     # mc "I think I've had enough of that kind of fun for a while."
     mc "Aku rasa aku sudah cukup menikmati keseronokan seperti itu untuk seketika."
-
-# game/code/d15/d15s02.rpy:87
-translate malay d15s02_89ee5884:
-
-    # nk "Was 20 one-after-the-other too much?"
-    nk "Adakah 20 satu demi satu terlalu banyak?"
 
 # game/code/d15/d15s02.rpy:90
 translate malay d15s02_93033456:

@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2021-12-19 11:46
 
-# game/code/d15/d15s04dd.rpy:21
-translate russian d15s04dd_58b263af:
-
-    # "1 hour later"
-    "1 час спустя."
-
 # game/code/d15/d15s04dd.rpy:26
 translate russian d15s04dd_ab7f1b7a:
 
@@ -486,12 +480,6 @@ translate russian d15s04dd_3fe48951:
     # dd "Yeah. I've always wanted to dress up as a nurse!"
     dd "Да. Я всегда хотела нарядиться медсестрой!"
 
-# game/code/d15/d15s04dd.rpy:194
-translate russian d15s04dd_5cf68132:
-
-    # dd "It might be weird but I've always had it on my bucket list."
-    dd "Это может показаться странным, но у меня это всегда было в моем списке желаний."
-
 # game/code/d15/d15s04dd.rpy:196
 translate russian d15s04dd_96420425:
 
@@ -822,12 +810,6 @@ translate russian d15s04dd_bfb7a12f:
     # dd "Oh, it's no problem."
     dd "О, это не проблема."
 
-# game/code/d15/d15s04dd.rpy:382
-translate russian d15s04dd_ee8e7bb0:
-
-    # "Doctor" "Thank you. Please, sit. I have you test results here..."
-    "Doctor" "Спасибо. Пожалуйста, садитесь. Я получила результаты ваших анализов..."
-
 # game/code/d15/d15s04dd.rpy:389
 translate russian d15s04dd_93ffcb1f:
 
@@ -839,12 +821,6 @@ translate russian d15s04dd_2b5e7d40:
 
     # dd "I'd rather not."
     dd "Я бы предпочла этого не представлять."
-
-# game/code/d15/d15s04dd.rpy:392
-translate russian d15s04dd_f031e978:
-
-    # dd "I don't know what got over me, but I can't say that it wasn't hot."
-    dd "Я не знаю, что на меня нашло, но это было горячо."
 
 # game/code/d15/d15s04dd.rpy:394
 translate russian d15s04dd_66a5117a_1:

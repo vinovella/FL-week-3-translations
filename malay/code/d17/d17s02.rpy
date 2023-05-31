@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2022-04-16 20:02
 
-# game/code/d17/d17s02.rpy:48
-translate malay d17s02_16275f53:
-
-    # "20 minutes later"
-    "20 minit kemudian"
-
 # game/code/d17/d17s02.rpy:52
 translate malay d17s02_31459df9:
 
@@ -83,12 +77,6 @@ translate malay d17s02_06a04454:
 
     # mc "I'll be there. Why don't you start getting ready for me?"
     mc "Aku akan ke sana. Kenapa kau tak mula bersiap untuk aku?"
-
-# game/code/d17/d17s02.rpy:77
-translate malay d17s02_e843f07b:
-
-    # "30 minutes later"
-    "30 minit kemudian"
 
 # game/code/d17/d17s02.rpy:89
 translate malay replay_d17s02_cafec360:

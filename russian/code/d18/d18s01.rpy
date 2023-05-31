@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-05 14:57
 
-# game/code/d18/d18s01.rpy:14
-translate russian d18s01_ff43b0df:
-
-    # "Thursday.{w} Day-18."
-    "Четверг. {w}День-18."
-
 # game/code/d18/d18s01.rpy:15
 translate russian d18s01_f8914e3e:
 
@@ -1225,12 +1219,6 @@ translate russian d18s01_shower_ntr_8ae5be1a:
 
     # lc "You're doing all this for money?"
     lc "Ты делаешь все это ради денег?"
-
-# game/code/d18/d18s01.rpy:266
-translate russian d18s01_shower_ntr_86d7c4a6:
-
-    # lc "All the things you've done!{w} You're basically the poster child for sex on this campus. You've probably fucked every willing man and woman on campus."
-    lc "Вот, что ты делаешь! {w}Ты, по сути, ходячая реклама секса в этом кампусе. Ты, наверное, перетрахал уже всех мужчин и женщин в кампусе."
 
 # game/code/d18/d18s01.rpy:273
 translate russian d18s01_shower_ntr_f4c1abd2:

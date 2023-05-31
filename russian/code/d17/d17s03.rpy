@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-06 10:42
 
-# game/code/d17/d17s03.rpy:4
-translate russian d17s03_e843f07b:
-
-    # "30 minutes later"
-    "30 минут спустя."
-
 # game/code/d17/d17s03.rpy:8
 translate russian d17s03_9a6462db:
 
@@ -905,12 +899,6 @@ translate russian d17s03_1a996ff0:
 
     # ir "I am not fucking jealous.{w} If there is something twisted going on between those two, it isn't right."
     ir "Я, блядь, не ревную. {w}Если между этими двумя происходит что-то извращенное, это неправильно."
-
-# game/code/d17/d17s03.rpy:315
-translate russian d17s03_fb50de86:
-
-    # mct "That doesn't sound like jealousy as all."
-    mct "Это совсем не похоже на ревность."
 
 # game/code/d17/d17s03.rpy:316
 translate russian d17s03_03220b59:

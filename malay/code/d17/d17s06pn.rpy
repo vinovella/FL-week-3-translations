@@ -1,10 +1,4 @@
-﻿# TODO: Translation updated at 2022-04-16 20:02
-
-# game/code/d17/d17s06pn.rpy:32
-translate malay d17s06pn_e843f07b:
-
-    # "30 minutes later"
-    "30 minutes later"
+# TODO: Translation updated at 2022-04-16 20:02
 
 # game/code/d17/d17s06pn.rpy:34
 translate malay d17s06pn_9f8e2b43:
@@ -1049,12 +1043,6 @@ translate malay d17s06pn_cf41f269:
 
     # nk "Definitely."
     nk "Definitely."
-
-# game/code/d17/d17s06pn.rpy:358
-translate malay d17s06pn_8bac5718:
-
-    # "Some time later"
-    "Some time later"
 
 # game/code/d17/d17s06pn.rpy:361
 translate malay d17s06pn_1785e8ad:

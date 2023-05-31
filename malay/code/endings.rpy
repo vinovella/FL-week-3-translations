@@ -1,17 +1,3 @@
-# TODO: Translation updated at 2023-02-01 00:20
-
-# game/code/endings.rpy:250
-translate malay ending_not_available_984be117:
-
-    # "This ending will be implemented later."
-    "Pengakhiran ini akan dilaksanakan kemudian."
-
-# game/code/endings.rpy:251
-translate malay ending_not_available_8ffd33e4:
-
-    # "You can save the game here and experience this ending once it will be implemented!"
-    "Anda boleh menyimpan permainan di sini dan mengalami pengakhiran ini sebaik sahaja ia akan dilaksanakan!"
-
 translate malay strings:
 
     # game/code/endings.rpy:4

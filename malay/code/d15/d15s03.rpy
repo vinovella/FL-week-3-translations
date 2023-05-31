@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d15/d15s03.rpy:6
-translate malay d15s03_16275f53:
-
-    # "20 minutes later"
-    "20 minit kemudian"
-
 # game/code/d15/d15s03.rpy:10
 translate malay d15s03_6150bb0b:
 
@@ -449,12 +443,6 @@ translate malay d15s03_middle_052cc958:
 
     # mc "Ha! I wish. {w}Wait, seriously? Is that what people are saying?"
     mc " Ha! HArap macam tulah. {w}Tunggu, serius? Adakah itu apa yang orang cakap?"
-
-# game/code/d15/d15s03.rpy:243
-translate malay d15s03_middle_ca59b672:
-
-    # pb "Yeah. Somebody said that you two were at a jewelers shopping for rings."
-    pb "Yeah. Ada orang kata yang korang berdua berada di kedai barang kemas membeli cincin."
 
 # game/code/d15/d15s03.rpy:246
 translate malay d15s03_middle_6f15d520:

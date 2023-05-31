@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2021-12-19 11:46
 
-# game/code/d15/d15s04dw.rpy:15
-translate russian d15s04dw_e843f07b:
-
-    # "30 minutes later"
-    "30 минут спустя."
-
 # game/code/d15/d15s04dw.rpy:20
 translate russian d15s04dw_4290d7de:
 
@@ -539,12 +533,6 @@ translate russian d15s04dw_170f1148:
 
     # sb "He does. Are you going to spank his ass?"
     sb "Так и есть. Ты собираешься отшлепать его по заднице?"
-
-# game/code/d15/d15s04dw.rpy:221
-translate russian d15s04dw_2fd00228:
-
-    # dw "I'm sure he's got a book around her somewhere that I can use as a paddle."
-    dw "Я уверена, что у него где-то тут есть книга, которую я могу использовать в качестве паддла."
 
 # game/code/d15/d15s04dw.rpy:223
 translate russian d15s04dw_de6636c2:

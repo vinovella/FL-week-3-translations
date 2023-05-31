@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2021-12-19 11:46
 
-# game/code/d15/d15s03.rpy:6
-translate russian d15s03_16275f53:
-
-    # "20 minutes later"
-    "20 минут спустя."
-
 # game/code/d15/d15s03.rpy:9
 translate russian d15s03_6150bb0b:
 
@@ -449,12 +443,6 @@ translate russian d15s03_middle_052cc958:
 
     # mc "Ha! I wish. {w}Wait, seriously? Is that what people are saying?"
     mc "Ха! Я не против. {w}Подожди, ты серьезно? О нас ходят такие слухи?"
-
-# game/code/d15/d15s03.rpy:173
-translate russian d15s03_middle_ca59b672:
-
-    # pb "Yeah. Somebody said that you two were at a jewelers shopping for rings."
-    pb "Да. Кто-то говорил, что вы даже ходили в ювелирный магазин за кольцами."
 
 # game/code/d15/d15s03.rpy:175
 translate russian d15s03_middle_6f15d520:

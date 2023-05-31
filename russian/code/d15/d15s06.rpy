@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2021-12-19 11:46
 
-# game/code/d15/d15s06.rpy:58
-translate russian d15s06_58b263af:
-
-    # "1 hour later"
-    "1 час спустя."
-
 # game/code/d15/d15s06.rpy:64
 translate russian d15s06_1d052d6c:
 
@@ -167,12 +161,6 @@ translate russian d15s06_94dfa815:
 
     # mh "Mm, I can't wait."
     mh "Мм, не могу дождаться."
-
-# game/code/d15/d15s06.rpy:115
-translate russian d15s06_cac2081b:
-
-    # "10 minutes later"
-    "10 минут спустя."
 
 # game/code/d15/d15s06.rpy:120
 translate russian d15s06_55db923e:

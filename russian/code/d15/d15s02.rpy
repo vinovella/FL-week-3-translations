@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2021-12-19 11:46
 
-# game/code/d15/d15s02.rpy:10
-translate russian d15s02_22983615:
-
-    # "10 minutes of walking later"
-    "10 минут спустя."
-
 # game/code/d15/d15s02.rpy:15
 translate russian d15s02_ce86b6d4:
 
@@ -143,12 +137,6 @@ translate russian d15s02_c5717414:
 
     # mc "I think I've had enough of that kind of fun for a while."
     mc "Думаю, на какое-то время с меня хватит таких развлечений."
-
-# game/code/d15/d15s02.rpy:65
-translate russian d15s02_89ee5884:
-
-    # nk "Was 20 one-after-the-other too much?"
-    nk "20 оказалось слишком много?"
 
 # game/code/d15/d15s02.rpy:67
 translate russian d15s02_93033456:

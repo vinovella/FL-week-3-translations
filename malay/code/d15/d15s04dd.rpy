@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d15/d15s04dd.rpy:21
-translate malay d15s04dd_58b263af:
-
-    # "1 hour later"
-    "Sejam kemudian"
-
 # game/code/d15/d15s04dd.rpy:28
 translate malay d15s04dd_ab7f1b7a:
 
@@ -486,12 +480,6 @@ translate malay d15s04dd_3fe48951:
     # dd "Yeah. I've always wanted to dress up as a nurse!"
     dd "Aku teringin sangat nak jadi jururawat!"
 
-# game/code/d15/d15s04dd.rpy:266
-translate malay d15s04dd_5cf68132:
-
-    # dd "It might be weird but I've always had it on my bucket list."
-    dd "Mungkin nampak pelik tapi ia sentiasa ada dalam senarai baldi aku."
-
 # game/code/d15/d15s04dd.rpy:269
 translate malay d15s04dd_96420425:
 
@@ -839,12 +827,6 @@ translate malay d15s04dd_2b5e7d40:
 
     # dd "I'd rather not."
     dd "Aku lebih suka tak."
-
-# game/code/d15/d15s04dd.rpy:545
-translate malay d15s04dd_f031e978:
-
-    # dd "I don't know what got over me, but I can't say that it wasn't hot."
-    dd "Aku tak tahu apa yang mengganggu aku, tapi aku tak boleh katakan yang ianya tak menarik."
 
 # game/code/d15/d15s04dd.rpy:551
 translate malay d15s04dd_66a5117a_1:

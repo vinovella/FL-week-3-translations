@@ -558,12 +558,6 @@ translate malay d16s10_416eb632:
     # mc "It might have been real or complete fiction. It didn't matter. She could barely hear me."
     mc "Ia mungkin fiksyen sebenar atau lengkap. Ianya tak penting. Dia hampir tak dapat mendengar aku."
 
-# game/code/d16/d16s10.rpy:192
-translate malay d16s10_3f377b3a:
-
-    # mc "There we were. Lydia and myself in a fancy restaurant."
-    mc "Di situlah kami. Lydia dan aku sendiri di sebuah restoran mewah."
-
 # game/code/d16/d16s10.rpy:194
 translate malay d16s10_e1f5b459:
 
@@ -954,12 +948,6 @@ translate malay d16s10_d5ae2301:
     # mc "Fair enough."
     mc "Baiklah."
 
-# game/code/d16/d16s10.rpy:321
-translate malay d16s10_124ee5af:
-
-    # arj "Got you happy, sexy, funtime thought?"
-    arj "Dah fikirkan benda yang seksi?"
-
 # game/code/d16/d16s10.rpy:322
 translate malay d16s10_c951392b:
 
@@ -1050,12 +1038,6 @@ translate malay d16s10_a9b5ccc7:
     # arj "I bet we could figure out what the correct RPM is."
     arj  "Aku yakin kita boleh tahu apakah RPM yang betul."
 
-# game/code/d16/d16s10.rpy:357
-translate malay d16s10_f2354e31:
-
-    # arj "Maybe something like the G forces experienced by pilots."
-    arj "Mungkin sesuatu seperti angkatan G yang dialami oleh juruterbang."
-
 # game/code/d16/d16s10.rpy:358
 translate malay d16s10_d73bab19:
 
@@ -1139,12 +1121,6 @@ translate malay d16s10_2c30a7d3:
 
     # arj "Exactly. It knows a lot about everyone with the app installed, but it..."
     arj "Tepat sekali. Ia tahu banyak tentang semua orang dengan apl yang dipasang, tapi ia..."
-
-# game/code/d16/d16s10.rpy:390
-translate malay d16s10_41a83245:
-
-    # arj "It seems to know more about those of us in reten-"
-    arj "Nampaknya lebih tahu tentang kita di-"
 
 # game/code/d16/d16s10.rpy:391
 translate malay d16s10_150396ad:
@@ -1355,12 +1331,6 @@ translate malay d16s10_9eb8e828:
 
     # mc "Good night. I'll join you soon."
     mc "Selamat malam. Aku akan sertai kau sebentar lagi."
-
-# game/code/d16/d16s10.rpy:447
-translate malay d16s10_141e433e:
-
-    # "Please save your game now."
-    "Sila simpan permainan anda sekarang."
 
 translate malay strings:
 

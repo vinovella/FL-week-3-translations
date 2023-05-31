@@ -84,24 +84,6 @@ translate russian d19s08_31831625:
     # mct "Oh shit, right! I wanted to call Lyssa to talk about what to do with Zarah."
     mct "Ох черт, точно! Я же хотел позвонить Лиссе, чтобы обсудить, что делать с Зарой."
 
-# game/code/d19/d19s08.rpy:57
-translate russian d19s08_b6c108d9:
-
-    # mc "But is it even worth it? I {i}know{/i} that Zarah will not vote for me no matter what."
-    mc "Но стоит ли оно того? Я просто {i}уверен{/i}, что Зара провалит меня на экзамене, несмотря ни на что."
-
-# game/code/d19/d19s08.rpy:58
-translate russian d19s08_8aa53634:
-
-    # mc "What's the point of trying? It'd just be a waste of time anyway."
-    mc "Какой смысл пытаться? В любом случае, это будет пустая трата времени."
-
-# game/code/d19/d19s08.rpy:63
-translate russian d19s08_14082dca:
-
-    # mc "I guess there still might be a chance. Might as well take it."
-    mc "Думаю, что все еще есть шанс. Нужно использовать его."
-
 # game/code/d19/d19s08.rpy:67
 translate russian d19s08_a2baa501:
 

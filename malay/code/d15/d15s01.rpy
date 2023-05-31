@@ -6,12 +6,6 @@ translate malay d15s01_493aa6b9:
     # "Week Three"
     "Minggu Ketiga"
 
-# game/code/d15/d15s01.rpy:146
-translate malay d15s01_941aded9:
-
-    # "Day 15"
-    "Hari ke-15"
-
 # game/code/d15/d15s01.rpy:166
 translate malay d15s01_6dca3502:
 
@@ -276,12 +270,6 @@ translate malay d15s01_readnote_2151a859:
     # "Failure to obey would be considered ungrateful."
     "Kegagalan untuk mematuhi akan dianggap tak bersyukur."
 
-# game/code/d15/d15s01.rpy:339
-translate malay d15s01_readnote_7e5541ff:
-
-    # "The cage will replace your Fetish Tracker."
-    "Sangkar ini akan menggantikan Fetish Tracker anda."
-
 # game/code/d15/d15s01.rpy:340
 translate malay d15s01_readnote_80120b22:
 
@@ -456,12 +444,6 @@ translate malay d15s01_cagedecision_11455b53:
     # mc "What?"
     mc "Huh? Apa?"
 
-# game/code/d15/d15s01.rpy:436
-translate malay d15s01_cagedecision_e2ec9d31:
-
-    # lc "You failed once. You failed a challenge. And now want to give up? You want to just quit the game?"
-    lc "Kau hanya gagal sekali. Kau gagal dalam satu cabaran. Dan sekarang nak berputus asa? Kau nak berhenti bermain?"
-
 # game/code/d15/d15s01.rpy:439
 translate malay d15s01_cagedecision_3ab92e4b:
 
@@ -485,18 +467,6 @@ translate malay d15s01_cagedecision_dab0deea:
 
     # lc "I know that you can do this. I know that you have a ton of people rooting for you."
     lc "Aku tahu yang kau boleh lakukan ini. Aku tahu yang kau ada ramai orang yang menyokong kau."
-
-# game/code/d15/d15s01.rpy:448
-translate malay d15s01_cagedecision_e43f5053:
-
-    # lc "If you are going to lose this game it won't be because you weren't up for the challenge."
-    lc "Jika kau akan kalah dalam permainan ini, ia bukan sebab kau tak bersedia untuk menghadapi cabaran itu."
-
-# game/code/d15/d15s01.rpy:449
-translate malay d15s01_cagedecision_19851e41:
-
-    # lc "If you are going to lose this game it won't be because you quit or gave up."
-    lc "Jika kau akan kalah dalam permainan ini ia bukan sebab kau berhenti atau berputus asa."
 
 # game/code/d15/d15s01.rpy:450
 translate malay d15s01_cagedecision_fd6fc90b:

@@ -510,12 +510,6 @@ translate chinese e06s09_deep_e3ec587b:
     # mc "Viola!"
     mc "中提琴！"
 
-# game/code/e06/e06s09.rpy:329
-translate chinese e06s09_deep_2cfa008b:
-
-    # lc "OH FUCK THAT'S DEEP!"
-    lc "啊，好深！"
-
 # game/code/e06/e06s09.rpy:330
 translate chinese e06s09_deep_4cd2d6dd:
 
@@ -605,12 +599,6 @@ translate chinese e06s09_slope_23eeff70:
 
     # lc "You're not so bad yourself."
     lc "你自己也不赖啊。"
-
-# game/code/e06/e06s09.rpy:379
-translate chinese e06s09_slope_7129dea6:
-
-    # mc "Nice."
-    mc "真不错。"
 
 # game/code/e06/e06s09.rpy:385
 translate chinese e06s09_slope_ed2501c2:

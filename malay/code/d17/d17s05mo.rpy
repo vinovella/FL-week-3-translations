@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-04-16 20:02
 
-# game/code/d17/d17s05mo.rpy:4
-translate malay d17s05mo_e843f07b:
-
-    # "30 minutes later"
-    "30 minit kemudian"
-
 # game/code/d17/d17s05mo.rpy:6
 translate malay d17s05mo_7c42b679:
 
@@ -473,12 +467,6 @@ translate malay d17s05mo_12d62553:
 
     # mh "Hey, don't judge me."
     mh "Hey, janganlah menilai aku."
-
-# game/code/d17/d17s05mo.rpy:164
-translate malay d17s05mo_e843f07b_1:
-
-    # "30 minutes later"
-    "30 minit kemudian"
 
 # game/code/d17/d17s05mo.rpy:167
 translate malay d17s05mo_09d1334a:

@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-06 10:42
 
-# game/code/d17/d17s05ms.rpy:6
-translate russian d17s05ms_e843f07b:
-
-    # "30 minutes later"
-    "30 минут спустя."
-
 # game/code/d17/d17s05ms.rpy:8
 translate russian d17s05ms_88a52a16:
 
@@ -455,12 +449,6 @@ translate russian d17s05ms_12d62553:
 
     # mh "Hey, don't judge me."
     mh "Эй, не осуждай меня."
-
-# game/code/d17/d17s05ms.rpy:168
-translate russian d17s05ms_e843f07b_1:
-
-    # "30 minutes later"
-    "30 минут спустя."
 
 # game/code/d17/d17s05ms.rpy:171
 translate russian d17s05ms_c1981157:

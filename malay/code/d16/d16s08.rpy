@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d16/d16s08.rpy:6
-translate malay d16s08_06b43f16:
-
-    # "1 hour later."
-    "Sejam kemudian."
-
 # game/code/d16/d16s08.rpy:13
 translate malay d16s08_d60f6efd:
 
@@ -264,12 +258,6 @@ translate malay d16s08_ceec81e5:
     # mc "Dahlia and I have been getting pretty close."
     mc "Aku dan Dahlia semakin rapat."
 
-# game/code/d16/d16s08.rpy:109
-translate malay d16s08_ffeead53:
-
-    # arj "Close? She doesn't seem like the time to get close with anyone."
-    arj "Rapat? Dia nampaknya bukannya suka rapat dengan sesiapa."
-
 # game/code/d16/d16s08.rpy:111
 translate malay d16s08_d3c78865:
 
@@ -359,12 +347,6 @@ translate malay d16s08_9aa1a868:
 
     # arj "I guess no one knows better how to pleasure a man than another man."
     arj "Aku rasa tak ada siapa yang lebih tahu cara menggembirakan lelaki daripada lelaki lain."
-
-# game/code/d16/d16s08.rpy:144
-translate malay d16s08_6260ba22:
-
-    # mc "I wouldn't say that. {w}It's more of a same-sex experimentation for me."
-    mc "Aku tak akan berkata macam tu. {w}Ia lebih kepada percubaan sejenis jantina untuk aku."
 
 # game/code/d16/d16s08.rpy:145
 translate malay d16s08_944a1ab2:
@@ -456,12 +438,6 @@ translate malay d16s08_63fd3f91:
     # arj "What do you mean?"
     arj "Apa maksud kau?"
 
-# game/code/d16/d16s08.rpy:178
-translate malay d16s08_30d7a9df:
-
-    # mc "She wants me to dress up next time. {w}Get into some sort of costume."
-    mc "Dia nak saya berkostum lain kali..."
-
 # game/code/d16/d16s08.rpy:180
 translate malay d16s08_cad3726a:
 
@@ -515,12 +491,6 @@ translate malay d16s08_143a9b1c:
 
     # arj "The M.I.L.F."
     arj "{i}The M.I.L.F.{/i}"
-
-# game/code/d16/d16s08.rpy:199
-translate malay d16s08_d68a52f8:
-
-    # mc "Yeah. I really need to talk to her about some things tomorrow, so maybe I can work a little funtime in as well."
-    mc "Yeah. Aku betul-betul kena bercakap dengannya tentang beberapa perkara esok, jadi mungkin aku boleh bekerja sedikit masa berseronok juga."
 
 # game/code/d16/d16s08.rpy:201
 translate malay d16s08_0ca5ea8e:

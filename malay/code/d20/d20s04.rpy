@@ -1026,18 +1026,6 @@ translate malay d20s04_zw_wrong_2e993bae:
     # rn "I agree."
     rn "I agree."
 
-# game/code/d20/d20s04.rpy:463
-translate malay d20s04_zw_wrong_d4d75508:
-
-    # zw "I suppose.{w}.. Fine."
-    zw "I suppose.{w}.. Fine."
-
-# game/code/d20/d20s04.rpy:464
-translate malay d20s04_zw_wrong_e41ec30d:
-
-    # zw "You have my vote."
-    zw "You have my vote."
-
 # game/code/d20/d20s04.rpy:468
 translate malay d20s04_zw_wrong_c4146493:
 

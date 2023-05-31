@@ -918,12 +918,6 @@ translate chinese e02s01_mh_control_c239665f:
     # mh "Gargle on it."
     mh "用它漱口。"
 
-# game/code/e02/e02s01.rpy:440
-translate chinese e02s01_mh_control_bd7e0d71:
-
-    # mh "Ahh."
-    mh "啊。"
-
 # game/code/e02/e02s01.rpy:443
 translate chinese e02s01_mh_control_4ea28d4f:
 
@@ -1086,12 +1080,6 @@ translate chinese e02s01_mh_control_f1ab48d4:
     # mh "Good idea..."
     mh "好主意..."
 
-# game/code/e02/e02s01.rpy:506
-translate chinese e02s01_mh_control_2d83629e:
-
-    # mc "Stick your tongue out, I want to kiss you."
-    mc "把舌头伸出来，我想吻你。"
-
 # game/code/e02/e02s01.rpy:509
 translate chinese e02s01_mh_control_b568fdd2:
 
@@ -1157,12 +1145,6 @@ translate chinese e02s01_mh_control_7f5ce713:
 
     # mc "Now let's go inside."
     mc "现在我们要进里面了。"
-
-# game/code/e02/e02s01.rpy:561
-translate chinese e02s01_give_pleasure_c3e381be:
-
-    # mh "Spank me harder!"
-    mh "用力打我的屁股！"
 
 # game/code/e02/e02s01.rpy:564
 translate chinese e02s01_give_pleasure_be2243f9:

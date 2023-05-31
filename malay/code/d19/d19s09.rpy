@@ -750,18 +750,6 @@ translate malay d19s09_end_a2376b4a:
     # arj "What's there to talk about? We know where it is. I say we just destroy it."
     arj "What's there to talk about? We know where it is. I say we just destroy it."
 
-# game/code/d19/d19s09.rpy:684
-translate malay d19s09_end_9b9656c3:
-
-    # sy "I actually went back to the server room. I wanted to see exactly what they were doing."
-    sy "I actually went back to the server room. I wanted to see exactly what they were doing."
-
-# game/code/d19/d19s09.rpy:685
-translate malay d19s09_end_ac513c00:
-
-    # sy "It's...actually kinda interesting. Whoever built it wasn't completely dumb."
-    sy "It's...actually kinda interesting. Whoever built it wasn't completely dumb."
-
 # game/code/d19/d19s09.rpy:686
 translate malay d19s09_end_fc68bc3c:
 

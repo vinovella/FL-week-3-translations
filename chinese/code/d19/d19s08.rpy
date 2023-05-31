@@ -84,30 +84,6 @@ translate chinese d19s08_31831625:
     # mct "Oh shit, right! I wanted to call Lyssa to talk about what to do with Zarah."
     mct "靠，我忘了！我想着给丽莎打电话，谈谈该怎么处置萨拉。"
 
-# game/code/d19/d19s08.rpy:57
-translate chinese d19s08_b6c108d9:
-
-    # mc "But is it even worth it? I {i}know{/i} that Zarah will not vote for me no matter what."
-    mc "但这值得吗？我{i}知道{/i}萨拉无论如何都不会投票给我。"
-
-# game/code/d19/d19s08.rpy:58
-translate chinese d19s08_8aa53634:
-
-    # mc "What's the point of trying? It'd just be a waste of time anyway."
-    mc "尝试有什么意义？反正也只是浪费时间。"
-
-# game/code/d19/d19s08.rpy:63
-translate chinese d19s08_14082dca:
-
-    # mc "I guess there still might be a chance. Might as well take it."
-    mc "还是可能有机会的。不如抓住试试看。"
-
-# game/code/d19/d19s08.rpy:67
-translate chinese d19s08_a2baa501:
-
-    # mc "Yeah. Fuck that. There's nothing I can do about Zarah. But I'm still gonna call Lyssa."
-    mc "好。去他妈的。对于萨拉，我无能为力。但我还是要给丽莎打电话。"
-
 # game/code/d19/d19s08.rpy:75
 translate chinese d19s08_036ce397:
 

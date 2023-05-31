@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-01-31 15:43
 
-# game/code/d16/d16s02.rpy:21
-translate russian d16s02_be2623d1:
-
-    # "15 minutes later"
-    "15 минут спустя."
-
 # game/code/d16/d16s02.rpy:24
 translate russian d16s02_0eb8c9ee:
 
@@ -95,24 +89,6 @@ translate russian d16s02_c60994e6:
 
     # mct "Wonder if I missed anything else—"
     mct "Интересно, не пропустил ли я что-нибудь..."
-
-# game/code/d16/d16s02.rpy:55
-translate russian d16s02_f01f1ae3:
-
-    # flr "Ensnare and enrapture. Some are far better at it than others."
-    flr "Соблазнять и очаровывать. У некоторых это получается гораздо лучше, чем у других."
-
-# game/code/d16/d16s02.rpy:56
-translate russian d16s02_4a206561:
-
-    # flr "{i}Cunnilingus{/i} is our Fetish of the Day."
-    flr "{i}Куннилингус{/i} - наш фетиш дня."
-
-# game/code/d16/d16s02.rpy:57
-translate russian d16s02_464979a5:
-
-    # flr "How will {i}you{/i} fare?"
-    flr "Как {i}ты{/i} справишься?"
 
 # game/code/d16/d16s02.rpy:59
 translate russian d16s02_89c0a9cc:

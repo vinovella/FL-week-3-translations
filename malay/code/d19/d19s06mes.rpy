@@ -996,18 +996,6 @@ translate malay d19s06mes_e26b033f:
     # mes "No, no, no. That won't do at all.{w} Open your eyes and look at his magnificent penis."
     mes "No, no, no. That won't do at all.{w} Open your eyes and look at his magnificent penis."
 
-# game/code/d19/d19s06mes.rpy:445
-translate malay d19s06mes_05da3a53:
-
-    # cl "It's so small. How is that magnificent?"
-    cl "It's so small. How is that magnificent?"
-
-# game/code/d19/d19s06mes.rpy:447
-translate malay d19s06mes_708cf316:
-
-    # mes "You can't expect it to be hard while he's peeing. Now, open wide!"
-    mes "You can't expect it to be hard while he's peeing. Now, open wide!"
-
 # game/code/d19/d19s06mes.rpy:452
 translate malay d19s06mes_6c4c9566:
 

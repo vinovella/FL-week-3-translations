@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-01-31 15:43
 
-# game/code/d16/d16s08.rpy:6
-translate russian d16s08_06b43f16:
-
-    # "1 hour later."
-    "1 час спустя."
-
 # game/code/d16/d16s08.rpy:13
 translate russian d16s08_d60f6efd:
 
@@ -456,12 +450,6 @@ translate russian d16s08_63fd3f91:
     # arj "What do you mean?"
     arj "Что ты имеешь в виду?"
 
-# game/code/d16/d16s08.rpy:178
-translate russian d16s08_30d7a9df:
-
-    # mc "She wants me to dress up next time. {w}Get into some sort of costume."
-    mc "Она хочет, чтобы я переоделся к следующему разу. {w}Надел какой-нибудь костюм."
-
 # game/code/d16/d16s08.rpy:180
 translate russian d16s08_cad3726a:
 
@@ -515,12 +503,6 @@ translate russian d16s08_143a9b1c:
 
     # arj "The M.I.L.F."
     arj "М.И.Л.Ф.А."
-
-# game/code/d16/d16s08.rpy:199
-translate russian d16s08_d68a52f8:
-
-    # mc "Yeah. I really need to talk to her about some things tomorrow, so maybe I can work a little funtime in as well."
-    mc "Да. Мне нужно поговорить с ней завтра о некоторых вещах, так что, может быть, я также смогу немного развлечься."
 
 # game/code/d16/d16s08.rpy:201
 translate russian d16s08_0ca5ea8e:
