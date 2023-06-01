@@ -258,12 +258,6 @@ translate russian d16s08_ceec81e5:
     # mc "Dahlia and I have been getting pretty close."
     mc "Мы с Далией стали довольно близки."
 
-# game/code/d16/d16s08.rpy:109
-translate russian d16s08_ffeead53:
-
-    # arj "Close? She doesn't seem like the time to get close with anyone."
-    arj "Близки? Похоже, сейчас не время с кем-то сближаться."
-
 # game/code/d16/d16s08.rpy:111
 translate russian d16s08_d3c78865:
 
@@ -353,12 +347,6 @@ translate russian d16s08_9aa1a868:
 
     # arj "I guess no one knows better how to pleasure a man than another man."
     arj "Думаю, никто лучше не знает, как доставить удовольствие мужчине, чем другой мужчина."
-
-# game/code/d16/d16s08.rpy:144
-translate russian d16s08_6260ba22:
-
-    # mc "I wouldn't say that. {w}It's more of a same-sex experimentation for me."
-    mc "Я бы так не сказал. {w}Для меня это больше похоже на однополый эксперимент."
 
 # game/code/d16/d16s08.rpy:145
 translate russian d16s08_944a1ab2:

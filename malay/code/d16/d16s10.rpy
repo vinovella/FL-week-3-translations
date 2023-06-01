@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d16/d16s10.rpy:24
-translate malay d16s10_0ce60b86:
-
-    # "Later that evening."
-    "Pada petangnya..."
-
 # game/code/d16/d16s10.rpy:28
 translate malay d16s10_d9159219:
 

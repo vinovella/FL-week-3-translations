@@ -966,12 +966,6 @@ translate russian d19s06mes_eb754278:
     # mc "I'm not sure...{w} Now I'm confused."
     mc "Я не уверен... {w}Теперь я в замешательстве."
 
-# game/code/d19/d19s06mes.rpy:427
-translate russian d19s06mes_89411a58:
-
-    # cl "I don't want to consent to just getting pee'd on, but I will eagerly consent to the humiliation of being pee'd on as a punishment for my...{w} whatever excuse you come up with."
-    cl "Я не хочу соглашаться на то, чтобы на меня мочились, но я охотно соглашусь на унижение от того, что на меня писают в наказание за мои... {w}какое бы оправдание у этого не было."
-
 # game/code/d19/d19s06mes.rpy:429
 translate russian d19s06mes_e3d01c27:
 
@@ -1007,12 +1001,6 @@ translate russian d19s06mes_0cf7857b:
 
     # mc "You're next, unless-"
     mc "Ты следующая, если только..."
-
-# game/code/d19/d19s06mes.rpy:446
-translate russian d19s06mes_1e42cb07:
-
-    # cl "Okay!{w} I'm ready!!!"
-    cl "Ладно! {w}Я готова!!!"
 
 # game/code/d19/d19s06mes.rpy:448
 translate russian d19s06mes_940c05aa:

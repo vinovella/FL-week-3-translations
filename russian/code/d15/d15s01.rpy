@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2021-12-19 11:46
 
-# game/code/d15/d15s01.rpy:141
-translate russian d15s01_493aa6b9:
-
-    # "Week Three"
-    "Третья неделя."
-
 # game/code/d15/d15s01.rpy:162
 translate russian d15s01_6dca3502:
 

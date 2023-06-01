@@ -708,12 +708,6 @@ translate portuguese e02s03_lodge_2bafe8b0:
     # mh "Yes! Finish... inside me... I want it all, darling..."
     mh "Isso! Goza... dentro de mim... Eu quero tudo, querido..."
 
-# game/code/e02/e02s03.rpy:265
-translate portuguese e02s03_lodge_2bafe8b0_1:
-
-    # mh "Yes! Finish... inside me... I want it all, darling..."
-    mh "Isso. Goza dentro de mim... Eu quero tudo, querido..."
-
 # game/code/e02/e02s03.rpy:266
 translate portuguese e02s03_lodge_a2aaa812:
 

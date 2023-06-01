@@ -84,12 +84,6 @@ translate russian d19s08_31831625:
     # mct "Oh shit, right! I wanted to call Lyssa to talk about what to do with Zarah."
     mct "Ох черт, точно! Я же хотел позвонить Лиссе, чтобы обсудить, что делать с Зарой."
 
-# game/code/d19/d19s08.rpy:67
-translate russian d19s08_a2baa501:
-
-    # mc "Yeah. Fuck that. There's nothing I can do about Zarah. But I'm still gonna call Lyssa."
-    mc "Да. К черту всё. Я ничего не могу поделать с Зарой. Но я все равно позвоню Лиссе."
-
 # game/code/d19/d19s08.rpy:75
 translate russian d19s08_036ce397:
 

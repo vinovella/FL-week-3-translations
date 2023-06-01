@@ -546,12 +546,6 @@ translate russian d20s04_rn_qa_7d365443:
     # rn "Mister Young does NOT have my vote."
     rn "Мистер Янг, у тебя нет моего голоса."
 
-# game/code/d20/d20s04.rpy:241
-translate russian d20s04_zw_9f60effe:
-
-    # zw "After some deep soul-searching and consideration of this Young man's qualities..."
-    zw "После проведенного глубокого анализа и рассмотрения качеств этого молодого человека..."
-
 # game/code/d20/d20s04.rpy:242
 translate russian d20s04_zw_f06d5c33:
 
@@ -1020,18 +1014,6 @@ translate russian d20s04_zw_wrong_2e993bae:
     # rn "I agree."
     rn "Согласен."
 
-# game/code/d20/d20s04.rpy:461
-translate russian d20s04_zw_wrong_d4d75508:
-
-    # zw "I suppose.{w}.. Fine."
-    zw "Но я полагаю.{w}.. Ладно."
-
-# game/code/d20/d20s04.rpy:462
-translate russian d20s04_zw_wrong_e41ec30d:
-
-    # zw "You have my vote."
-    zw "У тебя есть мой голос."
-
 # game/code/d20/d20s04.rpy:466
 translate russian d20s04_zw_wrong_c4146493:
 
@@ -1080,71 +1062,17 @@ translate russian d20s04_results_eb0184f1:
     # mc "You mean, I passed?"
     mc "Имеете в виду, что я сдал?"
 
-# game/code/d20/d20s04.rpy:492
-translate russian d20s04_results_e4d9ec3d:
-
-    # tl "You didn't just pass. Don't you know what this means?"
-    tl "Ты не просто сдал экзамен. Разве ты не знаешь, что это значит?"
-
-# game/code/d20/d20s04.rpy:493
-translate russian d20s04_results_58d4bd57:
-
-    # tl "In the rare occurrence of blah blah blah..."
-    tl "В особо редких случаях бла-бла-бла..."
-
-# game/code/d20/d20s04.rpy:494
-translate russian d20s04_results_e4a1c3e9:
-
-    # tl "The bylaws are written in ridiculous pseudo-archaic language."
-    tl "Устав написан нелепым псевдоархаичным языком."
-
-# game/code/d20/d20s04.rpy:496
-translate russian d20s04_results_3c91e110:
-
-    # rn "... someone in your situation is given a special opportunity."
-    rn "... кому-то в твоей ситуации предоставляется особая возможность."
-
-# game/code/d20/d20s04.rpy:498
-translate russian d20s04_results_4aa127e8:
-
-    # rn "Of course, you could choose to write your thesis over the summer break instead."
-    rn "Конечно, ты можешь написать диссертацию во время летних каникул."
-
-# game/code/d20/d20s04.rpy:500
-translate russian d20s04_results_9bd791eb:
-
-    # mc "What are you talking about?{w} Thesis? I thought that was only for PhD's."
-    mc "О чем вы говорите? {w}Диссертация? Я думал, это только для докторов наук."
-
-# game/code/d20/d20s04.rpy:512
-translate russian d20s04_results_d959ddac:
-
-    # rn "If you receive the approval of eight out of twelve, you will be allowed to graduate without further coursework."
-    rn "Если ты получишь одобрение восьми из двенадцати преподавателей, то тебе будет разрешено окончить колледж без дополнительной курсовой работы."
-
 # game/code/d20/d20s04.rpy:524
 translate russian d20s04_results_8105f73f:
 
     # tl "You have a tremendous opportunity ahead of you."
     tl "Перед тобой открываются огромные возможности."
 
-# game/code/d20/d20s04.rpy:526
-translate russian d20s04_results_0356afee:
-
-    # mc "But I can choose to continue semesters like a normal person, right?"
-    mc "Но я же могу выбрать продолжить учится на семестре, как обычный человек, верно?"
-
 # game/code/d20/d20s04.rpy:529
 translate russian d20s04_results_7a0e86b4:
 
     # mc "What is that?"
     mc "Какой вариант?"
-
-# game/code/d20/d20s04.rpy:530
-translate russian d20s04_results_fd18256b:
-
-    # rn "Start a business. Do what you love. And write your thesis about that."
-    rn "Начни свой бизнес. Делай то, что любишь. И напиши об этом свою диссертацию."
 
 # game/code/d20/d20s04.rpy:532
 translate russian d20s04_results_e674c4a0:

@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d15/d15s01.rpy:141
-translate malay d15s01_493aa6b9:
-
-    # "Week Three"
-    "Minggu Ketiga"
-
 # game/code/d15/d15s01.rpy:166
 translate malay d15s01_6dca3502:
 

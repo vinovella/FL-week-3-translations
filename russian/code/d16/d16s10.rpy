@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-01-31 15:43
 
-# game/code/d16/d16s10.rpy:24
-translate russian d16s10_0ce60b86:
-
-    # "Later that evening."
-    "Позже вечером."
-
 # game/code/d16/d16s10.rpy:28
 translate russian d16s10_d9159219:
 
@@ -947,12 +941,6 @@ translate russian d16s10_d5ae2301:
 
     # mc "Fair enough."
     mc "Понимаю."
-
-# game/code/d16/d16s10.rpy:321
-translate russian d16s10_124ee5af:
-
-    # arj "Got you happy, sexy, funtime thought?"
-    arj "Есть ли у тебя счастливые, сексуальные, веселые мысли?"
 
 # game/code/d16/d16s10.rpy:322
 translate russian d16s10_c951392b:
