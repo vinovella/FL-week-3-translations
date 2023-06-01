@@ -4,11 +4,11 @@ translate italian strings:
 
     # game/code/screens/extended/screens.rpy:31
     old "PLAY"
-    new "PLAY"
+    new "GIOCA"
 
     # game/code/screens/extended/screens.rpy:42
     old "LOAD"
-    new "LOAD"
+    new "CARICA"
 
     # game/code/screens/extended/screens.rpy:52
     old "BONUS"
@@ -16,11 +16,11 @@ translate italian strings:
 
     # game/code/screens/extended/screens.rpy:63
     old "SETTINGS"
-    new "SETTINGS"
+    new "IMPOSTAZIONI"
 
     # game/code/screens/extended/screens.rpy:73
     old "LANGUAGE"
-    new "LANGUAGE"
+    new "LINGUA"
 
     # game/code/screens/extended/screens.rpy:83
     old "INFO"
@@ -28,41 +28,41 @@ translate italian strings:
 
     # game/code/screens/extended/screens.rpy:107
     old "Support us on Patreon"
-    new "Support us on Patreon"
+    new "Supportaci su Patreon"
 
     # game/code/screens/extended/screens.rpy:108
     old "Join us on Discord"
-    new "Join us on Discord"
+    new "Unisciti su Discord"
 
     # game/code/screens/extended/screens.rpy:109
     old "Quit Game"
-    new "Quit Game"
+    new "Esci dal gioco"
 
     # game/code/screens/extended/screens.rpy:202
     old "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
-    new "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
+    new "RISPONDI AL QUESTIONARIO E INIZIA UNA NUOVA PARTITA"
 
     # game/code/screens/extended/screens.rpy:212
     old "LOAD A SAVE FROM WEEK 2"
-    new "LOAD A SAVE FROM WEEK 2"
+    new "CARICA E SALVA DALLA WEEK 2"
 
     # game/code/screens/extended/screens.rpy:244
     old "ABOUT"
-    new "ABOUT"
+    new "INFORMAZIONI"
 
     # game/code/screens/extended/screens.rpy:254
     old "HELP"
-    new "HELP"
+    new "AIUTO"
 
     # game/code/screens/extended/screens.rpy:308
     old "CG\nGALLERY"
-    new "CG\nGALLERY"
+    new "GALLERIA"
 
     # game/code/screens/extended/screens.rpy:318
     old "REPLAY ROOM"
-    new "REPLAY ROOM"
+    new "RIVEDI LE SCENE"
 
     # game/code/screens/extended/screens.rpy:335
     old "BONUS CONTENT"
-    new "BONUS CONTENT"
+    new "CONTENUTI BONUS"
 
