@@ -4,27 +4,27 @@ translate italian strings:
 
     # game/code/screens/extended/screens_fl.rpy:19
     old "CG Gallery"
-    new "CG Gallery"
+    new "Galleria"
 
     # game/code/screens/extended/screens_fl.rpy:25
     old "Replay Room"
-    new "Replay Room"
+    new "Rivedi le scene"
 
     # game/code/screens/extended/screens_fl.rpy:31
     old "Bonus Content"
-    new "Bonus Content"
+    new "Contenuti Bonus"
 
     # game/code/screens/extended/screens_fl.rpy:38
     old "Hints on"
-    new "Hints on"
+    new "Suggerimenti attivi"
 
     # game/code/screens/extended/screens_fl.rpy:38
     old "Hints off"
-    new "Hints off"
+    new "Suggerimenti disattivati"
 
     # game/code/screens/extended/screens_fl.rpy:51
     old "Page [page]"
-    new "Page [page]"
+    new "Pagina [page]"
 
     # game/code/screens/extended/screens_fl.rpy:103
     old "<"
@@ -36,5 +36,5 @@ translate italian strings:
 
     # game/code/screens/extended/screens_fl.rpy:135
     old "Coming Soon"
-    new "Coming Soon"
+    new "Prossimamente"
 
