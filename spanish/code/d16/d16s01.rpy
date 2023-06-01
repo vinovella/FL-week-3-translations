@@ -226,7 +226,7 @@ translate spanish d16s01_34351075:
 translate spanish d16s01_a2a49102:
 
     # mc "That's great. So all I have to do is just connect to Fetish Locator and we'll get its location?"
-    mc ""Genial. Entonces, todo lo que tengo que hacer es conectarme al Localizador de Fetiche y obtendremos su ubicación."
+    mc "Genial. Entonces, todo lo que tengo que hacer es conectarme al Localizador de Fetiche y obtendremos su ubicación."
 
 # game/code/d16/d16s01.rpy:186
 translate spanish d16s01_6517cb86:
@@ -484,7 +484,7 @@ translate spanish d16s01_fe80ef30:
 translate spanish d16s01_489c170f:
 
     # mc "Stacy, catch!"
-    mc ""Stacy, ¡atrapa!"
+    mc "Stacy, ¡atrapa!"
 
 # game/code/d16/d16s01.rpy:299
 translate spanish d16s01_f6570e6b:

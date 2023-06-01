@@ -886,7 +886,7 @@ translate spanish d16s03_f49fff8f:
 translate spanish d16s03_a1095241:
 
     # arj "Yeah. {w}Lydia wasn't the only one who came here today."
-    arj ""Sí. {w}Lydia no fue la única que vino aquí hoy."
+    arj "Sí. {w}Lydia no fue la única que vino aquí hoy."
 
 # game/code/d16/d16s03.rpy:503
 translate spanish d16s03_7129dea6:
@@ -1336,7 +1336,7 @@ translate spanish d16s03_e27410d5:
 translate spanish d16s03_12ffc00c:
 
     # mc "I don't ... how?"
-    mc ""Yo no... ¿cómo?"
+    mc "Yo no... ¿cómo?"
 
 # game/code/d16/d16s03.rpy:753
 translate spanish d16s03_2d53a33d:

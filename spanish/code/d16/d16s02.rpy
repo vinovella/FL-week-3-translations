@@ -154,7 +154,7 @@ translate spanish d16s02_5528ab4e:
 translate spanish d16s02_57068398:
 
     # arj "*Giggles* So what do you say?"
-    arj ""*Risitas* Entonces, ¿qué dices?"
+    arj "*Risitas* Entonces, ¿qué dices?"
 
 # game/code/d16/d16s02.rpy:115
 translate spanish d16s02_afd74152:

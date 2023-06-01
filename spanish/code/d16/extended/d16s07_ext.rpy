@@ -202,7 +202,7 @@ translate spanish d16s07_ext_8419eebc:
 translate spanish d16s07_ext_285a0d59:
 
     # mc "No, it's not like that. But I can't just jump on this either."
-    mc ""No, no es así. Pero no puedo saltar sobre esto tampoco."
+    mc "No, no es así. Pero no puedo saltar sobre esto tampoco."
 
 # game/code/d16/extended/d16s07_ext.rpy:170
 translate spanish d16s07_ext_f3b951f6:
@@ -424,7 +424,7 @@ translate spanish d16s07_ext_ec5e4207:
 translate spanish d16s07_ext_576e535e:
 
     # mc "Of course. Sorry I couldn't help with this."
-    mc ""Por supuesto. Lo siento, no pude ayudar con esto."
+    mc "Por supuesto. Lo siento, no pude ayudar con esto."
 
 # game/code/d16/extended/d16s07_ext.rpy:283
 translate spanish d16s07_ext_81c2725d:
@@ -628,7 +628,7 @@ translate spanish d16s07_ext_d5920b6e:
 translate spanish d16s07_ext_85cccf97:
 
     # mc "All good things?"
-    mc ""¿Todas las cosas buenas?"
+    mc "¿Todas las cosas buenas?"
 
 # game/code/d16/extended/d16s07_ext.rpy:387
 translate spanish d16s07_ext_1363433c:
@@ -664,7 +664,7 @@ translate spanish d16s07_ext_dd330e9f:
 translate spanish d16s07_ext_bd288db5:
 
     # jf "Yeah, the client wanted us to be on the floor...for some reason."
-    jf ""Sí, el cliente quería que estuviéramos en el piso... por alguna razón."
+    jf "Sí, el cliente quería que estuviéramos en el piso... por alguna razón."
 
 # game/code/d16/extended/d16s07_ext.rpy:408
 translate spanish d16s07_ext_51048004:
@@ -748,7 +748,7 @@ translate spanish d16s07_ext_0b1674ec:
 translate spanish d16s07_ext_6064d3e2:
 
     # kv "Do it! That's great."
-    kv ""¡Hazlo!...Eso es genial."
+    kv "¡Hazlo!...Eso es genial."
 
 # game/code/d16/extended/d16s07_ext.rpy:490
 translate spanish d16s07_ext_71aca759:

@@ -124,7 +124,7 @@ translate spanish d16s06_38785104:
 translate spanish d16s06_79b4f258:
 
     # aw "Get me to come back as her submissive little plaything?"
-    aw ""¿Hacerme volver como su pequeño juguete sumiso?"
+    aw "¿Hacerme volver como su pequeño juguete sumiso?"
 
 # game/code/d16/d16s06.rpy:158
 translate spanish d16s06_2b42c842:
@@ -586,7 +586,7 @@ translate spanish d16s06_642b5832:
 translate spanish d16s06_56c82e70:
 
     # aw "Alright. And we're live again."
-    aw ""Está bien. Y estamos en vivo de nuevo."
+    aw "Está bien. Y estamos en vivo de nuevo."
 
 # game/code/d16/d16s06.rpy:396
 translate spanish d16s06_45b29df7:
@@ -724,7 +724,7 @@ translate spanish d16s06_3962ec5a:
 translate spanish d16s06_2930761c:
 
     # mc "Did you not—"
-    mc "No lo hiciste-
+    mc "No lo hiciste-"
 
 # game/code/d16/d16s06.rpy:613
 translate spanish d16s06_dbf86460:

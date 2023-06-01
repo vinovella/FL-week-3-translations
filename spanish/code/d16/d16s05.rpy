@@ -466,7 +466,7 @@ translate spanish d16s05_872f21af:
 translate spanish d16s05_8ab5ae4f:
 
     # sy "Don't like it though. But I get it."
-    sy ""Aunque no me gusta. Pero lo entiendo."
+    sy "Aunque no me gusta. Pero lo entiendo."
 
 # game/code/d16/d16s05.rpy:237
 translate spanish d16s05_022c5afa:

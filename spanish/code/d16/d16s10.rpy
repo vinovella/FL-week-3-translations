@@ -130,7 +130,7 @@ translate spanish d16s10_97083a85:
 translate spanish d16s10_36b1da51:
 
     # arj "I absolutely loved Vice City when I was a kid. Didn't really get into the ones after that."
-    arj ""Me encantaba Vice City cuando era niña. Realmente no me metí en los que siguieron después de este juego."
+    arj "Me encantaba Vice City cuando era niña. Realmente no me metí en los que siguieron después de este juego."
 
 # game/code/d16/d16s10.rpy:94
 translate spanish d16s10_663fe16d:
@@ -646,7 +646,7 @@ translate spanish d16s10_c20fefc5:
 translate spanish d16s10_b4119be2:
 
     # arj "You spin me right-round baby right-round! {w}Like a record!!!"
-    arj "¡Me haces girar a la derecha, bebé, a la derecha! {¡¡¡Como un disco!!!"
+    arj "¡Me haces girar a la derecha, bebé, a la derecha!{w} ¡¡¡Como un disco!!!"
 
 # game/code/d16/d16s10.rpy:353
 translate spanish d16s10_53303534:

@@ -76,7 +76,7 @@ translate spanish d16s08_594a9b43:
 translate spanish d16s08_f229661e:
 
     # mc "You mean you and Lydia?"
-    mc ""¿Te refieres a ti ya Lydia?"
+    mc "¿Te refieres a ti ya Lydia?"
 
 # game/code/d16/d16s08.rpy:65
 translate spanish d16s08_c8388a22:
@@ -700,7 +700,7 @@ translate spanish d16s08_953a7158:
 translate spanish d16s08_63aa7fd1:
 
     # sy "Yet there's no fucking data on this."
-    sy ""Sin embargo, no hay ni un puto dato al respecto."
+    sy "Sin embargo, no hay ni un puto dato al respecto."
 
 # game/code/d16/d16s08.rpy:385
 translate spanish d16s08_8f83852c:
