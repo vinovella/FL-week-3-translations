@@ -4,7 +4,7 @@
 translate spanish d15s01_6dca3502:
 
     # "female voice" "Wake up. Breakfast is almost ready."
-    "voz femenina" "Despierta. El desayuno está casi listo."
+    "Voz Femenina" "Despierta. El desayuno está casi listo."
 
 # game/code/d15/d15s01.rpy:179
 translate spanish d15s01_89d29ebf:
