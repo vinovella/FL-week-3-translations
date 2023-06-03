@@ -4,163 +4,163 @@
 translate italian d15s08_ac30fa16:
 
     # flr "You earned [d15s07_points] points."
-    flr "You earned [d15s07_points] points."
+    flr "Hai guadagnato [d15s07_points] punti."
 
 # game/code/d15/d15s08.rpy:30
 translate italian d15s08_09ac58cf:
 
     # mc "Hi Honey, I'm hoooooome."
-    mc "Hi Honey, I'm hoooooome."
+    mc "Ciao tesoro, sono a casa."
 
 # game/code/d15/d15s08.rpy:33
 translate italian d15s08_645edcac:
 
     # sy "We're in the... {w}We can see you."
-    sy "We're in the... {w}We can see you."
+    sy "Siamo nel... {w}Possiamo vederti."
 
 # game/code/d15/d15s08.rpy:39
 translate italian d15s08_3a3d693a:
 
     # mc "Oh, right. {w}Sorry I couldn't be here sooner. It's been one hell of a day."
-    mc "Oh, right. {w}Sorry I couldn't be here sooner. It's been one hell of a day."
+    mc "Oh, giusto. {w}Mi dispiace di non essere arrivato prima. È stata una giornata infernale."
 
 # game/code/d15/d15s08.rpy:41
 translate italian d15s08_549ef43a:
 
     # arj "Studying for finals?"
-    arj "Studying for finals?"
+    arj "Studiando per gli esami finali?"
 
 # game/code/d15/d15s08.rpy:43
 translate italian d15s08_cc91bdf5:
 
     # mc "Some..."
-    mc "Some..."
+    mc "Qualcosa..."
 
 # game/code/d15/d15s08.rpy:46
 translate italian d15s08_295d6e58:
 
     # hr "I suppose we can get started now? Is the magical field of protection working correctly?"
-    hr "I suppose we can get started now? Is the magical field of protection working correctly?"
+    hr "Suppongo che possiamo iniziare ora? Il campo di protezione magica sta funzionando correttamente?"
 
 # game/code/d15/d15s08.rpy:49
 translate italian d15s08_d2b0df8c:
 
     # sy "It's not magic... it's just a Faraday cage."
-    sy "It's not magic... it's just a Faraday cage."
+    sy "Non è magia... è solo una gabbia di Faraday."
 
 # game/code/d15/d15s08.rpy:52
 translate italian d15s08_4007d27d:
 
     # hr "But it's working? You're sure of that?"
-    hr "But it's working? You're sure of that?"
+    hr "Ma funziona? Ne sei sicuro?"
 
 # game/code/d15/d15s08.rpy:55
 translate italian d15s08_f3a007f2:
 
     # arj "No electrical signals can be sent into or out of this apartment. You can check your cell phone coverage if you don't believe us."
-    arj "No electrical signals can be sent into or out of this apartment. You can check your cell phone coverage if you don't believe us."
+    arj "Nessun segnale elettrico può essere inviato dall esterno o dall interno di questo appartamento. Puoi controllare la copertura del tuo cellulare se non ci credi. "
 
 # game/code/d15/d15s08.rpy:58
 translate italian d15s08_2751cb01:
 
     # hr "I turned it off a few blocks away. I don't want the app to know my location."
-    hr "I turned it off a few blocks away. I don't want the app to know my location."
+    hr "L'ho spento qualche isolato più in là. Non voglio che l'app sappia la mia posizione"
 
 # game/code/d15/d15s08.rpy:61
 translate italian d15s08_6e81277a:
 
     # mc "Well, we're about as safe as we can be. What are we talking about?"
-    mc "Well, we're about as safe as we can be. What are we talking about?"
+    mc "Beh, siamo piu al sicuro che possiamo. Di cosa stiamo parlando?"
 
 # game/code/d15/d15s08.rpy:64
 translate italian d15s08_54ebe514:
 
     # sy "Oh, we were talking about shades of lipstick. {w}Did you know that we're running out of the color blue?"
-    sy "Oh, we were talking about shades of lipstick. {w}Did you know that we're running out of the color blue?"
+    sy "Oh, stavamo parlando di sfumature di rossetto. {w}Sapevi che stiamo finendo il colore blu?"
 
 # game/code/d15/d15s08.rpy:65
 translate italian d15s08_13410f5f:
 
     # sy "Not just us here, I mean. The whole world is running out of the color blue."
-    sy "Not just us here, I mean. The whole world is running out of the color blue."
+    sy "Non solo noi qui, voglio dire. Il mondo intero sta finendo il colore blu."
 
 # game/code/d15/d15s08.rpy:68
 translate italian d15s08_3299ddcf:
 
     # arj "That's not what he meant."
-    arj "That's not what he meant."
+    arj "Non è quello che intendeva."
 
 # game/code/d15/d15s08.rpy:71
 translate italian d15s08_e01f00bd:
 
     # hr "Yes. Can we please get down to business."
-    hr "Yes. Can we please get down to business."
+    hr "Si. Possiamo per favore metterci al lavoro."
 
 # game/code/d15/d15s08.rpy:75
 translate italian d15s08_1297c740:
 
     # sy "The business of discovering who is behind Fetish Locator and winning the treasure?"
-    sy "The business of discovering who is behind Fetish Locator and winning the treasure?"
+    sy "Il compito di scoprire chi c'è dietro Fetish Locator e vincere il tesoro?"
 
 # game/code/d15/d15s08.rpy:77
 translate italian d15s08_89ee06c8:
 
     # sy "The business of saving the world from the horrors of Fetish Locator?"
-    sy "The business of saving the world from the horrors of Fetish Locator?"
+    sy "Il compito di salvare il mondo dagli orrori di Fetish Locator?"
 
 # game/code/d15/d15s08.rpy:80
 translate italian d15s08_01090978:
 
     # mc "Yes. That.{w} So, where are we?"
-    mc "Yes. That.{w} So, where are we?"
+    mc "Si. Quello.{w} Allora, dove siamo?"
 
 # game/code/d15/d15s08.rpy:83
 translate italian d15s08_d6b088f7:
 
     # arj "I'm working on the hardware."
-    arj "I'm working on the hardware."
+    arj "Sto lavorando sull'hardware."
 
 # game/code/d15/d15s08.rpy:86
 translate italian d15s08_3df59673:
 
     # sy "I'm working on the software!"
-    sy "I'm working on the software!"
+    sy "Sto lavorando sull software!"
 
 # game/code/d15/d15s08.rpy:89
 translate italian d15s08_d10ed000:
 
     # hr "I'm working on a headache.{w}.. but I've also provided these girls with everything I know about Fetish Locator."
-    hr "I'm working on a headache.{w}.. but I've also provided these girls with everything I know about Fetish Locator."
+    hr "Sto lavorando su un grattacapo.{w}.. ma ho anche fornito a queste ragazze tutto ciò che so su Fetish Locator."
 
 # game/code/d15/d15s08.rpy:92
 translate italian d15s08_501673eb:
 
     # sy "Did you know she cloned Pete's phone?"
-    sy "Did you know she cloned Pete's phone?"
+    sy "Sapevi che ha clonato il telefono di Pete?"
 
 # game/code/d15/d15s08.rpy:94
 translate italian d15s08_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Si."
 
 # game/code/d15/d15s08.rpy:97
 translate italian d15s08_1a0b3191:
 
     # arj "She seems rather fixated on your roommate. She even got access to his laptop."
-    arj "She seems rather fixated on your roommate. She even got access to his laptop."
+    arj "Sembra piuttosto fissata con la tua compagna di stanza. Ha persino avuto accesso al suo portatile."
 
 # game/code/d15/d15s08.rpy:100
 translate italian d15s08_299efa02:
 
     # mc "Yeah, I heard about that."
-    mc "Yeah, I heard about that."
+    mc "Sì, ne ho sentito parlare."
 
 # game/code/d15/d15s08.rpy:103
 translate italian d15s08_6ee82c61:
 
     # hr "You didn't leave me any other choice."
-    hr "You didn't leave me any other choice."
+    hr "Non mi hai lasciato altra scelta."
 
 # game/code/d15/d15s08.rpy:106
 translate italian d15s08_113cf047:
@@ -172,31 +172,31 @@ translate italian d15s08_113cf047:
 translate italian d15s08_6c0cf79c:
 
     # mc "She stole it. {w}Even though we agreed there was nothing useful on Pete's laptop."
-    mc "She stole it. {w}Even though we agreed there was nothing useful on Pete's laptop."
+    mc "L'ha rubato. {w}Anche se eravamo d'accordo che non c'era niente di utile sul portatile di Pete."
 
 # game/code/d15/d15s08.rpy:112
 translate italian d15s08_43513446:
 
     # hr "No, we didn't agree. You just refused to give me his password. {w}I was forced to verify your claim myself."
-    hr "No, we didn't agree. You just refused to give me his password. {w}I was forced to verify your claim myself."
+    hr "No, non eravamo d'accordo. Ti sei appena rifiutato di darmi la sua password. {w}Sono stato costretto a verificare personalmente la tua richiesta."
 
 # game/code/d15/d15s08.rpy:115
 translate italian d15s08_3b51f4c8:
 
     # mc "You're still a thief."
-    mc "You're still a thief."
+    mc "Sei ancora un ladro."
 
 # game/code/d15/d15s08.rpy:118
 translate italian d15s08_6856043b:
 
     # sy "Woah, whoa, whoa. {w}Let's not say anything we are going to regret later."
-    sy "Woah, whoa, whoa. {w}Let's not say anything we are going to regret later."
+    sy "Woah, whoa, whoa. {w}Non diciamo niente di cui potremmo pentirci."
 
 # game/code/d15/d15s08.rpy:121
 translate italian d15s08_fba0d140:
 
     # arj "I agree with Stacy."
-    arj "I agree with Stacy."
+    arj "Concrdo con Stacy."
 
 # game/code/d15/d15s08.rpy:124
 translate italian d15s08_69c25b65:
@@ -208,7 +208,7 @@ translate italian d15s08_69c25b65:
 translate italian d15s08_9d2075b0:
 
     # hr "He was the most likely suspect, but not the only one. I also provided them the information I found on Min, Antony, Davey, and others."
-    hr "He was the most likely suspect, but not the only one. I also provided them the information I found on Min, Antony, Davey, and others."
+    hr "Era il sospettato più probabile, ma non l'unico. Ho anche fornito loro le informazioni che ho trovato su Min, Antony, Davey e altri."
 
 # game/code/d15/d15s08.rpy:129
 translate italian d15s08_5bb1c187:
@@ -220,85 +220,85 @@ translate italian d15s08_5bb1c187:
 translate italian d15s08_664962d4:
 
     # hr "And others."
-    hr "And others."
+    hr "E altri."
 
 # game/code/d15/d15s08.rpy:131
 translate italian d15s08_a5914113:
 
     # mct "I feel like Charlie.{w}.. or at least Bosworth."
-    mct "I feel like Charlie.{w}.. or at least Bosworth."
+    mct "Mi sento come Charlie.{w}.. o almeno Bosworth."
 
 # game/code/d15/d15s08.rpy:134
 translate italian d15s08_58dfa537:
 
     # mc "Okay, Angels! Let's recap. Fetish Locator should have a physical server and we're going to find it."
-    mc "Okay, Angels! Let's recap. Fetish Locator should have a physical server and we're going to find it."
+    mc "Ok, Angeli! Ricapitoliamo. Fetish Locator dovrebbe avere un server fisico e lo troveremo."
 
 # game/code/d15/d15s08.rpy:137
 translate italian d15s08_321e912e:
 
     # hr "That's the working theory, yes."
-    hr "That's the working theory, yes."
+    hr "Questa è la attuale teoria, sì."
 
 # game/code/d15/d15s08.rpy:140
 translate italian d15s08_498d9ff7:
 
     # mc "Is there any basis for that assumption? I mean, it could be anywhere online, right?"
-    mc "Is there any basis for that assumption? I mean, it could be anywhere online, right?"
+    mc "C'è qualche fondamento per tale ipotesi? Voglio dire, potrebbe essere ovunque online, giusto?"
 
 # game/code/d15/d15s08.rpy:143
 translate italian d15s08_0cdf4f68:
 
     # arj "It's not a perfect theory, but it is the best hypothesis we have."
-    arj "It's not a perfect theory, but it is the best hypothesis we have."
+    arj "Non è una teoria perfetta, ma è la migliore ipotesi che abbiamo."
 
 # game/code/d15/d15s08.rpy:146
 translate italian d15s08_30460db9:
 
     # sy "Most likely the app is using some 3rd party cloud service, but that would make it really difficult to track."
-    sy "Most likely the app is using some 3rd party cloud service, but that would make it really difficult to track."
+    sy "Molto probabilmente l'app utilizza un servizio cloud di terze parti, ma ciò renderebbe davvero difficile il monitoraggio."
 
 # game/code/d15/d15s08.rpy:147
 translate italian d15s08_ce4181e7:
 
     # sy "So, we're working under the assumption that the app has physical servers somewhere nearby."
-    sy "So, we're working under the assumption that the app has physical servers somewhere nearby."
+    sy "Quindi, stiamo lavorando partendo dal presupposto che l'app abbia server fisici da qualche parte nelle vicinanze."
 
 # game/code/d15/d15s08.rpy:150
 translate italian d15s08_4f684b4c:
 
     # mc "Okay. And if they aren't?"
-    mc "Okay. And if they aren't?"
+    mc "Va bene. E se non sono vicini?"
 
 # game/code/d15/d15s08.rpy:153
 translate italian d15s08_dcecc625:
 
     # arj "We'll burn that bridge when we come to it."
-    arj "We'll burn that bridge when we come to it."
+    arj "Ce ne occuperemo al momento opportuno"
 
 # game/code/d15/d15s08.rpy:155
 translate italian d15s08_6cd8a6f7:
 
     # mc "Fair enough. AmRose, how's the hardware going?"
-    mc "Fair enough. AmRose, how's the hardware going?"
+    mc "Si, puo andare. AmRose, come va l'hardware?"
 
 # game/code/d15/d15s08.rpy:158
 translate italian d15s08_a0d9db8e:
 
     # arj "I picked up this little toy a couple months ago. I wasn't sure what I would ever use it for, but it is perfect for this."
-    arj "I picked up this little toy a couple months ago. I wasn't sure what I would ever use it for, but it is perfect for this."
+    arj "Ho preso questo piccolo giocattolo un paio di mesi fa. Non ero sicuro per cosa l'avrei mai usato, ma è perfetto per questo."
 
 # game/code/d15/d15s08.rpy:159
 translate italian d15s08_0194250e:
 
     # arj "This little baby is packed with two independent FPGAs connected to a custom SoC for optimal performance and a relatively reasonable power demand."
-    arj "This little baby is packed with two independent FPGAs connected to a custom SoC for optimal performance and a relatively reasonable power demand."
+    arj "Questo mostriciattolo è dotato di due FPGA indipendenti collegati a un SoC personalizzato per prestazioni ottimali e una richiesta di potenza relativamente ragionevole."
 
 # game/code/d15/d15s08.rpy:162
 translate italian d15s08_050d60b4:
 
     # mc "Relatively reasonable?"
-    mc "Relatively reasonable?"
+    mc "Relativamente ragionevole?"
 
 # game/code/d15/d15s08.rpy:164
 translate italian d15s08_993bb9cc:
@@ -310,49 +310,49 @@ translate italian d15s08_993bb9cc:
 translate italian d15s08_5206a696:
 
     # mc "How bad are we talking about?"
-    mc "How bad are we talking about?"
+    mc "Di quanto stiamo parlando?"
 
 # game/code/d15/d15s08.rpy:169
 translate italian d15s08_5d78a982:
 
     # sy "How do you feel about carrying around a couple of car batteries?"
-    sy "How do you feel about carrying around a couple of car batteries?"
+    sy "Come ti senti a portare in giro un paio di batterie per auto?"
 
 # game/code/d15/d15s08.rpy:172
 translate italian d15s08_15ed3dad:
 
     # mc "I don't like that idea at all."
-    mc "I don't like that idea at all."
+    mc "Non mi piace affatto quell'idea."
 
 # game/code/d15/d15s08.rpy:175
 translate italian d15s08_11195cca:
 
     # arj "There's a parasitic power drain. {w}It's a hardware problem. There will be a hardware solution."
-    arj "There's a parasitic power drain. {w}It's a hardware problem. There will be a hardware solution."
+    arj "Consuma come un parassita. {w}È un problema hardware. Ci sarà una soluzione hardware."
 
 # game/code/d15/d15s08.rpy:178
 translate italian d15s08_15cd3ce0:
 
     # hr "We're kinda on the clock here. Time is a factor."
-    hr "We're kinda on the clock here. Time is a factor."
+    hr "Siamo alle strette coi tempi. Il tempo e fondamentale."
 
 # game/code/d15/d15s08.rpy:181
 translate italian d15s08_bd61ff24:
 
     # arj "Don't worry. I'm on it."
-    arj "Don't worry. I'm on it."
+    arj "Non preoccuparti. Ci sto lavorando."
 
 # game/code/d15/d15s08.rpy:184
 translate italian d15s08_ef3fbef1:
 
     # mc "Good enough for me. Stacy, how's the software going?"
-    mc "Good enough for me. Stacy, how's the software going?"
+    mc "Abbastanza buono per me. Stacy, come va il software?"
 
 # game/code/d15/d15s08.rpy:187
 translate italian d15s08_56114331:
 
     # sy "I've built an emulator for AmRose's little device. I should have the code ready by the time she solves the power issues."
-    sy "I've built an emulator for AmRose's little device. I should have the code ready by the time she solves the power issues."
+    sy "Ho creato un emulatore per il piccolo dispositivo di AmRose. Dovrei avere il codice pronto prima che lei risolva i problemi di alimentazione."
 
 # game/code/d15/d15s08.rpy:190
 translate italian d15s08_824e38a3:
