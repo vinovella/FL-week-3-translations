@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-26 11:45
+# TODO: Translation updated at 2023-05-26 11:45
 
 # game/code/d15/d15s01.rpy:175
 translate spanish d15s01_6dca3502:
@@ -28,13 +28,13 @@ translate spanish d15s01_59f5b92b:
 translate spanish d15s01_ed0f703a:
 
     # arj "Yes, AmRose. You know, your secret girlfriend?"
-    arj "Sí, AmRose. Ya sabes, ¿tu novia secreta?"
+    arj "Sí, AmRose. Ya sabes, ¿tú novia secreta?"
 
 # game/code/d15/d15s01.rpy:193
 translate spanish d15s01_0970e0eb:
 
     # arj "Yes, AmRose. You know, your personal sex slave?"
-    arj "Sí, AmRose. Ya sabes, ¿tu esclava sexual personal?"
+    arj "Sí, AmRose. Ya sabes, ¿tú esclava sexual personal?"
 
 # game/code/d15/d15s01.rpy:197
 translate spanish d15s01_21c1e969:
@@ -646,7 +646,7 @@ translate spanish d15s01_cagedecision_85e35563:
 translate spanish d15s01_cagedecision_0c399e49:
 
     # mct "Oh look, the Fetish of the Day is Cumshot. {w}Annnd my points have been zero'd out."
-    mct "Oh mira, el fetiche del día es Corrida. {w}Y mis puntos se han vuelto a cero."
+    mct "Oh mira, el fetiche del día es Corrida. {w}Y mis puntos han vuelto a cero."
 
 # game/code/d15/d15s01.rpy:544
 translate spanish d15s01_cagedecision_35bde775:
@@ -832,7 +832,7 @@ translate spanish d15s01_caged_1fb61bba:
 translate spanish d15s01_arj_bj_cum_mouth_0eebbee5:
 
     # mc "FUCK YESSSSSS"
-    mc "A LA MIERDA SÍ"
+    mc "MIERDA, SÍ"
 
 # game/code/d15/d15s01.rpy:701
 translate spanish d15s01_arj_bj_cum_mouth_170299ed:
@@ -880,7 +880,7 @@ translate spanish d15s01_arj_bj_b3c2af05:
 translate spanish d15s01_arj_bj_bb5cba1e:
 
     # lc "Thanks. I'm not sure I could..."
-    lc "Gracias. No estoy seguro de poder..."
+    lc "Gracias. No estoy segura de poder..."
 
 # game/code/d15/d15s01.rpy:742
 translate spanish d15s01_arj_bj_3291b816:
@@ -904,7 +904,7 @@ translate spanish d15s01_arj_bj_5cfbf454:
 translate spanish d15s01_arj_bj_48643e5c:
 
     # mct "And I love them both."
-    mct "Y yo las amo a ambas."
+    mct "Y yo las amo a las dos."
 
 # game/code/d15/d15s01.rpy:761
 translate spanish d15s01_arj_bj_adb345ba:
@@ -988,7 +988,7 @@ translate spanish d15s01_arj_bj_f34ac845:
 translate spanish d15s01_arj_bj_b41973ac:
 
     # lc "I meant his... sperm. In your mouth. In your throat?"
-    lc "Me refiero a su... esperma. En tu boca. ¿En tu garganta?"
+    lc "Me refiero a su... esperma. En tu boca. ¿En tú garganta?"
 
 # game/code/d15/d15s01.rpy:815
 translate spanish d15s01_arj_bj_19c32202:
@@ -1006,7 +1006,7 @@ translate spanish d15s01_arj_bj_54d5500a:
 translate spanish d15s01_arj_bj_fbb7f99b:
 
     # arj "Like nothing else you can imagine. You'll just have to try it for yourself."
-    arj "Como nada más que puedas imaginar. Solo tendrás que probarlo por ti mismo."
+    arj "Como nada más que puedas imaginar. Solo tendrás que probarlo por ti misma."
 
 # game/code/d15/d15s01.rpy:824
 translate spanish d15s01_arj_bj_7756f3f4:
@@ -1066,7 +1066,7 @@ translate spanish d15s01_arj_bj_54d5500a_1:
 translate spanish d15s01_arj_bj_08fa9a82:
 
     # arj "Yes, really. And that's perfectly fine."
-    arj "í, en serio. Y eso está perfectamente bien."
+    arj "Sí, en serio. Y eso está perfectamente bien."
 
 # game/code/d15/d15s01.rpy:858
 translate spanish d15s01_arj_bj_a717c643:
@@ -2026,7 +2026,7 @@ translate spanish d15s01_end_40c2c9a5:
 translate spanish d15s01_end_1bd40736:
 
     # arj "I.."
-    arj "Yo.."
+    arj "Yo."
 
 # game/code/d15/d15s01.rpy:1516
 translate spanish d15s01_end_c9b96da1:
@@ -2116,7 +2116,7 @@ translate spanish d15s01_end_a89b6bff:
 translate spanish d15s01_end_a8cf7fe0:
 
     # mct "How is that supposed to work now that I'm going around uncocked?"
-    mct "¿Cómo se supone que funcionará eso ahora que ando sin descoyuntado?"
+    mct "¿Cómo se supone que funcionará eso ahora que ando por ahí descoyuntado?"
 
 # game/code/d15/d15s01.rpy:1562
 translate spanish d15s01_end_f495781b:
@@ -2176,7 +2176,7 @@ translate spanish d15s01_end_96235f48:
 translate spanish d15s01_end_cca3424d:
 
     # nk "Sure. Yeah. Just a little weird this morning."
-    nk "Seguro. Sí. Sólo un poco raro esta mañana."
+    nk "Seguro. Sí. Sólo un poco rara esta mañana."
 
 # game/code/d15/d15s01.rpy:1577
 translate spanish d15s01_end_9422d260:
