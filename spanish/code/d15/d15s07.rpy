@@ -118,7 +118,7 @@ translate spanish d15s07_4df762e2:
 translate spanish d15s07_47db7a19:
 
     # lc "Min wants to finish what we started yesterday. {w}And to be honest, I kinda want to as well."
-    lc "Min quiere terminar lo que empezamos ayer. {w}Y para ser honesto, yo también quiero hacerlo."
+    lc "Min quiere terminar lo que empezamos ayer. {w}Y para ser honesta, yo también quiero hacerlo."
 
 # game/code/d15/d15s07.rpy:108
 translate spanish d15s07_ee87e6f3:
@@ -202,7 +202,7 @@ translate spanish d15s07_5050c37d:
 translate spanish d15s07_b83335b9:
 
     # mes "Oh, alright."
-    mes "Oh esta bien."
+    mes "Oh, está bien."
 
 # game/code/d15/d15s07.rpy:164
 translate spanish d15s07_fab877f3:
@@ -616,7 +616,7 @@ translate spanish d15s07_lc_pee_on_mes_0bea1333:
 translate spanish d15s07_lc_pee_on_mes_abbd6ea7:
 
     # mc "No, you're not. Do you know why?"
-    mc "No tu no lo haces. Y... ¿Sabes por qué?"
+    mc "No, tu no lo haces. Y... ¿Sabes por qué?"
 
 # game/code/d15/d15s07.rpy:468
 translate spanish d15s07_lc_pee_on_mes_50c11154:
@@ -658,13 +658,13 @@ translate spanish d15s07_lc_pee_on_mes_1844739e:
 translate spanish d15s07_lc_pee_on_mes_d9477853:
 
     # mc "Just focus on Lydia's piss and we'll see what happens. Is that okay with you?"
-    mc "Concéntrate en la orina de Lydia y veremos qué pasa. Está bien para tí?"
+    mc "Concéntrate en la orina de Lydia y veremos qué pasa. ¿Está bien para tí?"
 
 # game/code/d15/d15s07.rpy:489
 translate spanish d15s07_lc_pee_on_mes_c4b378e0:
 
     # mes "That sounds great to me. Lydia? What do you think?"
-    mes "Eso suena genial para mi. Lydia? ¿Qué opinas?"
+    mes "Eso suena genial para mi. ¿Lydia? ¿Qué opinas?"
 
 # game/code/d15/d15s07.rpy:491
 translate spanish d15s07_lc_pee_on_mes_f7f4adec:
@@ -700,7 +700,7 @@ translate spanish d15s07_lc_pee_on_mes_91516f42:
 translate spanish d15s07_lc_pee_on_mes_5a5b7723:
 
     # lc "Yes, I am."
-    lc "Sí, lo soy."
+    lc "Sí, lo estoy."
 
 # game/code/d15/d15s07.rpy:536
 translate spanish d15s07_lc_pee_on_mes_df8becc0:
@@ -724,7 +724,7 @@ translate spanish d15s07_lc_pee_on_mes_8bbe9877:
 translate spanish d15s07_lc_pee_on_mes_113c5936:
 
     # lc "I think it's working."
-    lc "Creo que está funcionando.."
+    lc "Creo que está funcionando."
 
 # game/code/d15/d15s07.rpy:552
 translate spanish d15s07_lc_pee_on_mes_c1ac3d8d:
@@ -940,7 +940,7 @@ translate spanish d15s07_lc_path_d7a12eac:
 translate spanish d15s07_lc_path_1cd989e0:
 
     # mc "Relax and enjoy. Release and receive pleasure."
-    mc "Relájate y disfruta. Libera y recibe placer."
+    mc "Relájate y disfruta. Libérate y recibe placer."
 
 # game/code/d15/d15s07.rpy:675
 translate spanish d15s07_lc_path_420c1729:
@@ -1000,7 +1000,7 @@ translate spanish d15s07_lc_path_7c927b78:
 translate spanish d15s07_lc_path_01b222c3:
 
     # lc "[mcname]?!"
-    lc "¿[mcname]?!"
+    lc "¡¿[mcname]?!"
 
 # game/code/d15/d15s07.rpy:694
 translate spanish d15s07_lc_path_0bbb96c3:
@@ -1018,7 +1018,7 @@ translate spanish d15s07_lc_path_6b01de69:
 translate spanish d15s07_lc_path_4908b346:
 
     # mc "Cum for me, Lydia. {w}Cum from your best friend's tongue."
-    mc "Córrete para mí, Lydia. {w}Córrete de la lengua de tu mejor amiga."
+    mc "Córrete para mí, Lydia. {w}Córrete con la lengua de tu mejor amiga."
 
 # game/code/d15/d15s07.rpy:702
 translate spanish d15s07_lc_path_1bfed957:
@@ -1030,7 +1030,7 @@ translate spanish d15s07_lc_path_1bfed957:
 translate spanish d15s07_lc_path_d9a73c70:
 
     # lc "GAaaaAAaaaAHHHHH!!!"
-    lc "GAaaaAAaaaAHHHHH!!!"
+    lc "¡¡¡GAaaaAAaaaAHHHHH!!!"
 
 # game/code/d15/d15s07.rpy:706
 translate spanish d15s07_lc_path_3842b672:
