@@ -64,13 +64,13 @@ translate spanish d16s02_f0389dc6:
 translate spanish d16s02_42b42580:
 
     # mc "Lydia?{w} Lydia!?"
-    mc "¿Lydia?{w} ¿Lydia!?"
+    mc "¿Lydia?{w} ¿¡Lydia!?"
 
 # game/code/d16/d16s02.rpy:69
 translate spanish d16s02_3e6d654b:
 
     # arj "Did you text her—?"
-    arj "¿Le enviaste un mensaje de texto—?"
+    arj "¿Le enviaste un mensaje de texto?"
 
 # game/code/d16/d16s02.rpy:73
 translate spanish d16s02_0dcd4e1c:
@@ -88,7 +88,7 @@ translate spanish d16s02_5bfd7003:
 translate spanish d16s02_c60994e6:
 
     # mct "Wonder if I missed anything else—"
-    mct "Me pregunto si me perdí algo más—"
+    mct "Me pregunto si me perdí algo más"
 
 # game/code/d16/d16s02.rpy:82
 translate spanish d16s02_4f3aca5a:
@@ -106,7 +106,7 @@ translate spanish d16s02_c543ffcb:
 translate spanish d16s02_71e9aca5:
 
     # fl "How will {i}you{/i} fare?"
-    fl "¿Cómo te irá a {i}you{/i}ti?"
+    fl "¿Cómo te irá {i}a{/i}ti?"
 
 # game/code/d16/d16s02.rpy:88
 translate spanish d16s02_89c0a9cc:
@@ -130,7 +130,7 @@ translate spanish d16s02_b2b9e19d:
 translate spanish d16s02_5b4a4095:
 
     # arj "What do you mean \"What do you mean?\"?"
-    arj "Qué quieres decir \"¿Qué quieres decir?\"?"
+    arj "Qué quieres decir con \"¿Qué quieres decir?\"?"
 
 # game/code/d16/d16s02.rpy:96
 translate spanish d16s02_8ba09f1f:
@@ -226,7 +226,7 @@ translate spanish d16s02_79ca2e5c:
 translate spanish d16s02_82efb953:
 
     # mc "Just \"nice?\"?"
-    mc "¿Simplemente \"agradable?\"?"
+    mc "¿Simplemente \"agradable\"?"
 
 # game/code/d16/d16s02.rpy:284
 translate spanish d16s02_9e2b51cb:
