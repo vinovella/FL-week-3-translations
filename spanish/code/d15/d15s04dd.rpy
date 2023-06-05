@@ -58,7 +58,7 @@ translate spanish d15s04dd_9719365e:
 translate spanish d15s04dd_87db569c:
 
     # "Receptionist" "Great. The doctor might be away for a bit, but you can just wait inside until they're back."
-    "Recepcionista" "Excelente. El doctor puede estar fuera por un tiempo, pero puedes esperar adentro hasta que regresen."
+    "Recepcionista" "Excelente. El doctor puede estar fuera por un tiempo, pero puedes esperar adentro hasta que regrese."
 
 # game/code/d15/d15s04dd.rpy:63
 translate spanish d15s04dd_b85f6643:
@@ -118,7 +118,7 @@ translate spanish d15s04dd_ccf7d028:
 translate spanish d15s04dd_3dc09195:
 
     # dd "I'm not sure how she hasn't changed it yet. Like... I don't get it."
-    dd "No estoy seguro de cómo no lo ha cambiado todavía. Como... No lo entiendo."
+    dd "No estoy segura de cómo no lo ha cambiado todavía. Como... No lo entiendo."
 
 # game/code/d15/d15s04dd.rpy:102
 translate spanish d15s04dd_b193a95b:
@@ -298,7 +298,7 @@ translate spanish d15s04dd_5a77a095:
 translate spanish d15s04dd_09b481e9:
 
     # dd "I have enough saved up to make it work...for the most part."
-    dd "Tengo suficiente ahorrado para que funcione... en su mayor parte."
+    dd "Tengo suficiente dinero ahorrado para que funcione... en su mayor parte."
 
 # game/code/d15/d15s04dd.rpy:174
 translate spanish d15s04dd_e54f5eb0:
@@ -616,7 +616,7 @@ translate spanish d15s04dd_46f1afbc:
 translate spanish d15s04dd_022767a8:
 
     # dd "Did Dahlia do this to you?"
-    dd "¿Dalia te hizo esto?"
+    dd "¿Dahlia te hizo esto?"
 
 # game/code/d15/d15s04dd.rpy:366
 translate spanish d15s04dd_0b93d9c7:
@@ -682,7 +682,7 @@ translate spanish d15s04dd_22bdcb7d:
 translate spanish d15s04dd_6accf803:
 
     # dd "God, I'm so sorry. I didn't know. I wouldn't have—"
-    dd "Dios, lo siento mucho. no lo sabía yo no hubiera—"
+    dd "Dios, lo siento mucho. no lo sabía. Yo no hubiera-"
 
 # game/code/d15/d15s04dd.rpy:397
 translate spanish d15s04dd_3abf9ec0:
@@ -766,13 +766,13 @@ translate spanish d15s04dd_b629b3f4:
 translate spanish d15s04dd_c13f1fb0:
 
     # dd "It felt {i}really{/i} fucking good."
-    dd "Me sentí {i}realmente{/i} jodidamente bien."
+    dd "Me sentí {i}jodidamente{/i} bien."
 
 # game/code/d15/d15s04dd.rpy:518
 translate spanish d15s04dd_659cb076:
 
     # dd "I...can't {i}{b}wait{/b}{/i}, till you're out of this thing."
-    dd "Yo... no puedes {i}{b}esperar{/b}{/i}, hasta que estés fuera de esto."
+    dd "Yo... no puedo {i}{b}esperar{/b}{/i}, hasta que estés fuera de esto."
 
 # game/code/d15/d15s04dd.rpy:520
 translate spanish d15s04dd_6d55ad56:
@@ -796,7 +796,7 @@ translate spanish d15s04dd_b43399c2:
 translate spanish d15s04dd_8bb017bb:
 
     # dd "Mmm, I. Can't. Wait."
-    dd "Mmm, yo. No puedo. Esperar."
+    dd "Mmm, Yo no puedo esperar."
 
 # game/code/d15/d15s04dd.rpy:544
 translate spanish d15s04dd_7369494c:
@@ -814,7 +814,7 @@ translate spanish d15s04dd_05a6358a:
 translate spanish d15s04dd_c0c1af84:
 
     # dd "Oh God, [mcname]—"
-    dd "Oh God, [mcname]—"
+    dd "Oh Dios, [mcname]—"
 
 # game/code/d15/d15s04dd.rpy:554
 translate spanish d15s04dd_82e18332:
@@ -832,7 +832,7 @@ translate spanish d15s04dd_bfb7a12f:
 translate spanish d15s04dd_1fac3b26:
 
     # "Doctor" "Thank you. Please, sit. I have your test results here..."
-    "Doctor" "Gracias. Por favor sientate. Aquí tengo los resultados de tus pruebas..."
+    "Doctor" "Gracias. Por favor siéntate. Aquí tengo los resultados de tus pruebas..."
 
 # game/code/d15/d15s04dd.rpy:570
 translate spanish d15s04dd_93ffcb1f:
