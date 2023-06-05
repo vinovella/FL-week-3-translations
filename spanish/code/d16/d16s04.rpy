@@ -106,13 +106,13 @@ translate spanish d16s04_9a3a7b2d:
 translate spanish d16s04_1eb783f0:
 
     # mes "But I've been fed enough book reading propaganda by Lydia over the years and I just finally broke down I guess."
-    mes "Pero Lydia me ha hecho bastante propaganda de la lectura de libros a lo largo de los años y supongo que al final me he derrumbé, supongo."
+    mes "Pero Lydia me ha hecho bastante propaganda de la lectura de libros a lo largo de los años y supongo que al final me derrumbé, supongo."
 
 # game/code/d16/d16s04.rpy:82
 translate spanish d16s04_8b2b4c89:
 
     # mes "And I dunno. This sounded interesting, so I thought why not?"
-    mes "Y no sé. Esto sonaba interesante, así que pensé ¿por qué no?"
+    mes "Y no sé. Este sonaba interesante, así que pensé ¿por qué no?"
 
 # game/code/d16/d16s04.rpy:85
 translate spanish d16s04_d593c6be:
@@ -208,7 +208,7 @@ translate spanish d16s04_e7a121a5:
 translate spanish d16s04_770c339e:
 
     # mc "One, I like your voice, and I like hearing you talk.{w} Two, I like spending time with you."
-    mc "no, me gusta tu voz y me gusta oírte hablar. {w} Dos, me gusta pasar tiempo contigo."
+    mc "Uno, me gusta tu voz y me gusta oírte hablar. {w} Dos, me gusta pasar tiempo contigo."
 
 # game/code/d16/d16s04.rpy:119
 translate spanish d16s04_6f0962be:
@@ -394,7 +394,7 @@ translate spanish d16s04_97a27c91:
 translate spanish d16s04_d0d3fcff:
 
     # kb "Came in her ass which I then ate?"
-    kb "¿Se lo metió por el culo y luego me lo comí?"
+    kb "¿Entró en su culo que luego me comí?"
 
 # game/code/d16/d16s04.rpy:211
 translate spanish d16s04_36037676:
@@ -412,7 +412,7 @@ translate spanish d16s04_3449f278:
 translate spanish d16s04_14738c89:
 
     # kb "Interesting? Fucked up? Awoke something in you?"
-    kb "¿Interesante? jodido? ¿Despertó algo en ti?"
+    kb "¿Interesante?, ¿jodido?, ¿Despertó algo en ti?"
 
 # game/code/d16/d16s04.rpy:217
 translate spanish d16s04_7c42d2f9:
@@ -610,7 +610,7 @@ translate spanish d16s04_d7e455dc:
 translate spanish d16s04_09dcb738:
 
     # kb "What do you mean how?"
-    kb "¿Qué quieres decir con como?"
+    kb "¿Qué quieres decir con cómo?"
 
 # game/code/d16/d16s04.rpy:295
 translate spanish d16s04_be6b3495:
@@ -778,7 +778,7 @@ translate spanish d16s04_f0193a30:
 translate spanish d16s04_437c9daa:
 
     # mc "Hm? Yeah. Yeah, I'm alright."
-    mc "H¿Hmm? Sí. Sí, estoy bien."
+    mc "¿Hmm? Sí. Sí, estoy bien."
 
 # game/code/d16/d16s04.rpy:368
 translate spanish d16s04_cabd4770:
@@ -1108,7 +1108,7 @@ translate spanish d16s04_b0435d59:
 translate spanish d16s04_62590352:
 
     # mct "\"Thing\"?"
-    mct "\"¿Cosa\"?"
+    mct "\"¿"Cosa\"?"
 
 # game/code/d16/d16s04.rpy:557
 translate spanish d16s04_d881593e:
@@ -1212,9 +1212,9 @@ translate spanish strings:
 
     # game/code/d16/d16s04.rpy:576
     old "I'll be over"
-    new "Voy a terminar"
+    new "Ya voy"
 
     # game/code/d16/d16s04.rpy:576
     old "I won't be able to come"
-    new "No podré venir"
+    new "No podré ir"
 
