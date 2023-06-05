@@ -268,7 +268,7 @@ translate spanish d15s08_ce4181e7:
 translate spanish d15s08_4f684b4c:
 
     # mc "Okay. And if they aren't?"
-    mc "Bueno. ¿Y si no lo es?"
+    mc "Bueno. ¿Y si no los tiene?"
 
 # game/code/d15/d15s08.rpy:153
 translate spanish d15s08_dcecc625:
@@ -298,7 +298,7 @@ translate spanish d15s08_0194250e:
 translate spanish d15s08_050d60b4:
 
     # mc "Relatively reasonable?"
-    mc "¿Relativamente razonable??"
+    mc "¿Relativamente razonable?"
 
 # game/code/d15/d15s08.rpy:164
 translate spanish d15s08_993bb9cc:
@@ -442,7 +442,7 @@ translate spanish d15s08_0377b702:
 translate spanish d15s08_d91408a2:
 
     # hr "You know I am. {w}You also know you have a virtual stockade of fresh prime meat waiting for another ride on your manhood."
-    hr "Sabes quién lo estoy. {w}También sabes que tienes una empalizada virtual de carne fresca de primera calidad esperando otro paseo en tu hombría."
+    hr "Sabes que lo estoy. {w}También sabes que tienes una empalizada virtual de carne fresca de primera calidad esperando otro paseo en tu hombría."
 
 # game/code/d15/d15s08.rpy:233
 translate spanish d15s08_8852e77f:
@@ -496,7 +496,7 @@ translate spanish d15s08_87a6b4f8:
 translate spanish d15s08_27ec38aa:
 
     # mc "On my honor, the only person I intend to exploit here is myself."
-    mc "Por mi honor, la única persona a la que pretendo explotar aquí soy yo mismo."
+    mc "Por mi honor, la única persona a la que pretendo explotar aquí es a mí mismo."
 
 # game/code/d15/d15s08.rpy:259
 translate spanish d15s08_61f9b11c:
@@ -532,7 +532,7 @@ translate spanish d15s08_830c45c3:
 translate spanish d15s08_3c5fd23d:
 
     # mc "Still, it's something to consider... that could be a great way to earn points..."
-    mc "Aún así, es algo a considerar... que podría ser una gran manera de ganar puntos..."
+    mc "Aún así, es algo a considerar... podría ser una gran manera de ganar puntos..."
 
 # game/code/d15/d15s08.rpy:277
 translate spanish d15s08_ff886ded:
@@ -592,7 +592,7 @@ translate spanish d15s08_317baead:
 translate spanish d15s08_e7b0741c:
 
     # hr "Alright. I will be on my way."
-    hr "Está bien. estaré en camino"
+    hr "Está bien. estaré en camino."
 
 # game/code/d15/d15s08.rpy:302
 translate spanish d15s08_0c5c6be2:
@@ -694,7 +694,7 @@ translate spanish d15s08_bb1229e0:
 translate spanish d15s08_25c2280f:
 
     # sy "Oh, right. You mentioned..."
-    sy "Oh, cieto. Mencionaste..."
+    sy "Oh, cierto. Mencionaste..."
 
 # game/code/d15/d15s08.rpy:349
 translate spanish d15s08_5a3ef2d8:
@@ -712,7 +712,7 @@ translate spanish d15s08_a8abc6a4:
 translate spanish d15s08_9897ef07:
 
     # mc "You mean? No, I'm guessing it needs a signal to unlock."
-    mc "¿Te refieres a? No, supongo que necesita una señal para desbloquearse."
+    mc "¿Te refieres a?... No, supongo que necesita una señal para desbloquearse."
 
 # game/code/d15/d15s08.rpy:357
 translate spanish d15s08_9e33d733:
@@ -736,7 +736,7 @@ translate spanish d15s08_de78f20e:
 translate spanish d15s08_2b4f4460:
 
     # mc "NO.{w} I appreciate the thought, but I can get through another day or so of this."
-    mc "NO. {w} Agradezco la idea, pero puedo pasar otro día más de esto."
+    mc "NO. {w} Agradezco la idea, pero puedo pasar otro día más con esto."
 
 # game/code/d15/d15s08.rpy:367
 translate spanish d15s08_9613ef3c:
@@ -766,7 +766,7 @@ translate spanish d15s08_07172b26:
 translate spanish d15s08_26bd28ee:
 
     # mc "Stacy?! What the hell was that?!"
-    mc "¡¿Stacy?! ¡¿Que demonios fue eso?!"
+    mc "¡¿Stacy?! ¡¿Qué demonios fue eso?!"
 
 # game/code/d15/d15s08.rpy:395
 translate spanish d15s08_96f60888:
@@ -838,7 +838,7 @@ translate spanish d15s08_3e8f28f7:
 translate spanish d15s08_3975c665:
 
     # mc "I'm confused.{w} I'm aroused.{w} And I'm angry."
-    mc "Estoy confundido. {w} Estoy excitado. {w} Y estoy enojado.."
+    mc "Estoy confundido. {w} Estoy excitado. {w} Y estoy enojado."
 
 # game/code/d15/d15s08.rpy:429
 translate spanish d15s08_31d4ac35:
@@ -862,7 +862,7 @@ translate spanish d15s08_499f9dd2:
 translate spanish d15s08_db0ad907:
 
     # mc "Fuck the what?!"
-    mc "¡¿A la mierda qué?!"
+    mc "¡¿A la mierda eso?!"
 
 # game/code/d15/d15s08.rpy:439
 translate spanish d15s08_34bdddd0:
@@ -1024,7 +1024,7 @@ translate spanish d15s08_aef0532a:
 translate spanish d15s08_c17ef8ec:
 
     # mc "What's that?"
-    mc "¿Qué es eso?"
+    mc "¿A qué te refieres?"
 
 # game/code/d15/d15s08.rpy:521
 translate spanish d15s08_692ef887:
@@ -1048,7 +1048,7 @@ translate spanish d15s08_e1e12223:
 translate spanish d15s08_f2120d73:
 
     # sy "And then you fall asleep in a pile of warmth and comfort."
-    sy "Y luego te duermes en un montón de calidez y comodidad."
+    sy "Y luego te duermes en una pila de calor y comodidad."
 
 # game/code/d15/d15s08.rpy:530
 translate spanish d15s08_2b35b6fe_1:
