@@ -4,121 +4,121 @@
 translate italian d15s07_a875bc2a:
 
     # mct "Min messaged me to meet her here. I wonder-"
-    mct "Min messaged me to meet her here. I wonder-"
+    mct "Min mi ha mandato un messaggio per incontrarla qui. Chissà..."
 
 # game/code/d15/d15s07.rpy:51
 translate italian d15s07_202c1813:
 
     # lc "And now I tell you openly..."
-    lc "And now I tell you openly..."
+    lc "E ora te lo dico apertamente..."
 
 # game/code/d15/d15s07.rpy:56
 translate italian d15s07_bbe9c2b8:
 
     # mct "Wait. {w}Is Lydia singing?"
-    mct "Wait. {w}Is Lydia singing?"
+    mct "Aspetta. {w}Lydia sta cantando?"
 
 # game/code/d15/d15s07.rpy:61
 translate italian d15s07_571dbfd7:
 
     # lc "... You have my heart..."
-    lc "... You have my heart..."
+    lc "...Hai il mio cuore..."
 
 # game/code/d15/d15s07.rpy:62
 translate italian d15s07_e108488d:
 
     # lc "...so don't hurt me..."
-    lc "...so don't hurt me..."
+    lc "...quindi non farmi del male..."
 
 # game/code/d15/d15s07.rpy:64
 translate italian d15s07_b307f468:
 
     # lc "...You're everything to me. {w}Hey!"
-    lc "...You're everything to me. {w}Hey!"
+    lc "...Sei tutto per me. {w}Ehi!"
 
 # game/code/d15/d15s07.rpy:66
 translate italian d15s07_bdcc2157:
 
     # mes "Just because we're near a shower doesn't mean you can sing."
-    mes "Just because we're near a shower doesn't mean you can sing."
+    mes "Solo perché siamo vicini a una doccia non significa che puoi cantare."
 
 # game/code/d15/d15s07.rpy:69
 translate italian d15s07_c60cc398:
 
     # lc "Oh, ha ha. {w}You know I can sing."
-    lc "Oh, ha ha. {w}You know I can sing."
+    lc "Oh, ah ah. {w}Sai che so cantare."
 
 # game/code/d15/d15s07.rpy:71
 translate italian d15s07_ec217028:
 
     # mes "Well, not that. Not now."
-    mes "Well, not that. Not now."
+    mes "Beh, non qui. Non adesso."
 
 # game/code/d15/d15s07.rpy:74
 translate italian d15s07_9234c84b:
 
     # lc "Oh, sorry. I forgot. {w}How are you doing with-?"
-    lc "Oh, sorry. I forgot. {w}How are you doing with-?"
+    lc "Oh, scusa. Ho dimenticato. {w}Come stai con-?"
 
 # game/code/d15/d15s07.rpy:76
 translate italian d15s07_2c517df3:
 
     # mes "Antony isn't in the picture anymore."
-    mes "Antony isn't in the picture anymore."
+    mes "Antony non è più nel quadro."
 
 # game/code/d15/d15s07.rpy:79
 translate italian d15s07_f7165950:
 
     # lc "Is there someone else...?"
-    lc "Is there someone else...?"
+    lc "C'è qualcun altro...?"
 
 # game/code/d15/d15s07.rpy:82
 translate italian d15s07_a97e6b0b:
 
     # mc "Hello, ladies. I hope I'm not interrupting."
-    mc "Hello, ladies. I hope I'm not interrupting."
+    mc "Ciao, signore. Spero di non disturbare."
 
 # game/code/d15/d15s07.rpy:85
 translate italian d15s07_6f1f01ee:
 
     # mes "Perfect timing!"
-    mes "Perfect timing!"
+    mes "Tempismo perfetto!"
 
 # game/code/d15/d15s07.rpy:87
 translate italian d15s07_df51a2bf:
 
     # lc "Agreed. It's always a perfect time to see the love of my life."
-    lc "Agreed. It's always a perfect time to see the love of my life."
+    lc "Sono d'accordo. È sempre un momento perfetto per vedere l'amore della mia vita."
 
 # game/code/d15/d15s07.rpy:94
 translate italian d15s07_5455b9fe:
 
     # mc "I love being with you."
-    mc "I love being with you."
+    mc "Amo stare con te."
 
 # game/code/d15/d15s07.rpy:96
 translate italian d15s07_2334d2c3:
 
     # lc "Same."
-    lc "Same."
+    lc "Anche io."
 
 # game/code/d15/d15s07.rpy:99
 translate italian d15s07_20d2d54c:
 
     # mes "*fake cough*"
-    mes "*fake cough*"
+    mes "*falsa tosse*"
 
 # game/code/d15/d15s07.rpy:102
 translate italian d15s07_4df762e2:
 
     # mc "Oh, right. What can I do for you two?"
-    mc "Oh, right. What can I do for you two?"
+    mc "Oh, giusto. Cosa posso fare per voi due?"
 
 # game/code/d15/d15s07.rpy:105
 translate italian d15s07_47db7a19:
 
     # lc "Min wants to finish what we started yesterday. {w}And to be honest, I kinda want to as well."
-    lc "Min wants to finish what we started yesterday. {w}And to be honest, I kinda want to as well."
+    lc "Min vuole finire quello che abbiamo iniziato ieri. {w}E, ad essere onesti, anch'io ne ho voglia."
 
 # game/code/d15/d15s07.rpy:108
 translate italian d15s07_ee87e6f3:
@@ -136,193 +136,193 @@ translate italian d15s07_2c1c462d:
 translate italian d15s07_4eec5434:
 
     # lc "I'm not saying we should make it a regular thing, but... {w}Min has a point."
-    lc "I'm not saying we should make it a regular thing, but... {w}Min has a point."
+    lc "Non sto dicendo che dovremmo farne una cosa abituale, ma... {w}Min ha ragione."
 
 # game/code/d15/d15s07.rpy:117
 translate italian d15s07_f8d554f1:
 
     # mes "I told her how important it is to push our limits and explore things that we normally wouldn't do."
-    mes "I told her how important it is to push our limits and explore things that we normally wouldn't do."
+    mes "Le ho detto quanto sia importante spingere i nostri limiti ed esplorare cose che normalmente non faremmo."
 
 # game/code/d15/d15s07.rpy:120
 translate italian d15s07_ef353ec7:
 
     # mc "So, I'm here for moral support? To help Lydia get through this?"
-    mc "So, I'm here for moral support? To help Lydia get through this?"
+    mc "Quindi, sono qui per il supporto morale? Per aiutare Lydia a superare questo?"
 
 # game/code/d15/d15s07.rpy:122
 translate italian d15s07_d2e9ac07:
 
     # lc "Well..."
-    lc "Well..."
+    lc "Bene..."
 
 # game/code/d15/d15s07.rpy:125
 translate italian d15s07_a7ac26ef:
 
     # mes "Lydia already had a couple glasses of water, so it's just a waiting game now."
-    mes "Lydia already had a couple glasses of water, so it's just a waiting game now."
+    mes "Lydia ha già bevuto un paio di bicchieri d'acqua, quindi adesso è solo questione di aspettare."
 
 # game/code/d15/d15s07.rpy:126
 translate italian d15s07_ec8e46f3:
 
     # mes "That said... {w}would you like something to drink, [mcname]?"
-    mes "That said... {w}would you like something to drink, [mcname]?"
+    mes "Detto questo... {w}ti piacerebbe qualcosa da bere, [mcname]?"
 
 # game/code/d15/d15s07.rpy:134
 translate italian d15s07_ccaddf9b:
 
     # mc "I'm ready to go."
-    mc "I'm ready to go."
+    mc "Sono pronto."
 
 # game/code/d15/d15s07.rpy:137
 translate italian d15s07_1960a343:
 
     # mes "Alright! Let's get naked and hop into the shower."
-    mes "Alright! Let's get naked and hop into the shower."
+    mes "Va bene! Spogliamoci e saltiamo sotto la doccia."
 
 # game/code/d15/d15s07.rpy:146
 translate italian d15s07_15a8abfe:
 
     # mc "I'm ready to go... but could use a drink first, if you know what I mean."
-    mc "I'm ready to go... but could use a drink first, if you know what I mean."
+    mc "Sono pronto a partire... ma potrei farmi una bevuta prima, se capisci cosa intendo."
 
 # game/code/d15/d15s07.rpy:149
 translate italian d15s07_e233d25b:
 
     # mes "Oh! Sure, let's get nude and hop into the shower."
-    mes "Oh! Sure, let's get nude and hop into the shower."
+    mes "Oh! Certo, spogliamoci e saltiamo sotto la doccia.
 
 # game/code/d15/d15s07.rpy:158
 translate italian d15s07_5050c37d:
 
     # mc "I'm just here for moral support."
-    mc "I'm just here for moral support."
+    mc "Sono qui solo per il supporto morale."
 
 # game/code/d15/d15s07.rpy:161
 translate italian d15s07_b83335b9:
 
     # mes "Oh, alright."
-    mes "Oh, alright."
+    mes "Oh, va bene."
 
 # game/code/d15/d15s07.rpy:164
 translate italian d15s07_fab877f3:
 
     # lc "Well, let's get undressed and step into the shower."
-    lc "Well, let's get undressed and step into the shower."
+    lc "Bene, spogliamoci e entriamo sotto la doccia."
 
 # game/code/d15/d15s07.rpy:172
 translate italian d15s07_whatsthat_e1133a00:
 
     # mc "Before I get undressed, there's a little something you should know..."
-    mc "Before I get undressed, there's a little something you should know..."
+    mc "Prima di spogliarmi, c'è qualcosa che dovresti sapere..."
 
 # game/code/d15/d15s07.rpy:175
 translate italian d15s07_whatsthat_f85dfd95:
 
     # lc "What's that?"
-    lc "What's that?"
+    lc "Cosa?"
 
 # game/code/d15/d15s07.rpy:181
 translate italian d15s07_whatsthat_11ef2016:
 
     # mes "I think he's talking about the penis cage."
-    mes "I think he's talking about the penis cage."
+    mes "Credo che stia parlando della gabbia per il pene."
 
 # game/code/d15/d15s07.rpy:184
 translate italian d15s07_whatsthat_54e69afd:
 
     # mc "You told her about that?!"
-    mc "You told her about that?!"
+    mc "Gliel'hai detto?!"
 
 # game/code/d15/d15s07.rpy:187
 translate italian d15s07_whatsthat_79c07997:
 
     # mes "Of course she did."
-    mes "Of course she did."
+    mes "Certo che l'ho fatto."
 
 # game/code/d15/d15s07.rpy:190
 translate italian d15s07_whatsthat_4fbf6529:
 
     # lc "She is my closest friend, and..."
-    lc "She is my closest friend, and..."
+    lc "Lei è la mia amica più stretta e..."
 
 # game/code/d15/d15s07.rpy:193
 translate italian d15s07_whatsthat_3df63dae:
 
     # mc "Yeah, no. I get it. It was just a surprise."
-    mc "Yeah, no. I get it. It was just a surprise."
+    mc "Sì, capisco. È stata solo una sorpresa."
 
 # game/code/d15/d15s07.rpy:196
 translate italian d15s07_whatsthat_cf8b4dee:
 
     # lc "I haven't told anyone else."
-    lc "I haven't told anyone else."
+    lc "Non l'ho detto a nessun altro."
 
 # game/code/d15/d15s07.rpy:199
 translate italian d15s07_whatsthat_7c73f7fe:
 
     # mes "Neither have I."
-    mes "Neither have I."
+    mes "Neanch'io."
 
 # game/code/d15/d15s07.rpy:202
 translate italian d15s07_whatsthat_cf60ecb4:
 
     # mc "Alright, sorry for my outburst."
-    mc "Alright, sorry for my outburst."
+    mc "Va bene, mi scuso per la mia reazione."
 
 # game/code/d15/d15s07.rpy:205
 translate italian d15s07_whatsthat_757eec62:
 
     # mes "Right! Let's get down to business."
-    mes "Right! Let's get down to business."
+    mes "Giusto! Mettiamoci al lavoro."
 
 # game/code/d15/d15s07.rpy:208
 translate italian d15s07_whatsthat_df9adb7d:
 
     # lc "To defeat... the Huns!"
-    lc "To defeat... the Huns!"
+    lc "Per sconfiggere... gli Unni!"
 
 # game/code/d15/d15s07.rpy:223
 translate italian d15s07_mes_pee_on_mc_30aa8a8b:
 
     # lc "Wait..."
-    lc "Wait..."
+    lc "Aspetta..."
 
 # game/code/d15/d15s07.rpy:225
 translate italian d15s07_mes_pee_on_mc_6880d8ee:
 
     # mc "Huh? What's wrong?"
-    mc "Huh? What's wrong?"
+    mc "Ehm? Cosa c'è che non va?"
 
 # game/code/d15/d15s07.rpy:231
 translate italian d15s07_mes_pee_on_mc_c29a6966:
 
     # lc "This isn't... {w}I'm not ready for this."
-    lc "This isn't... {w}I'm not ready for this."
+    lc "Questo...  {w}Non sono pronta per questo."
 
 # game/code/d15/d15s07.rpy:233
 translate italian d15s07_mes_pee_on_mc_61ea994d:
 
     # mes "You don't have to do anything. I'm gonna-"
-    mes "You don't have to do anything. I'm gonna-"
+    mes "Non devi fare niente. Io farò-"
 
 # game/code/d15/d15s07.rpy:236
 translate italian d15s07_mes_pee_on_mc_eae1ae7e:
 
     # lc "I know, but..."
-    lc "I know, but..."
+    lc "Lo so, ma..."
 
 # game/code/d15/d15s07.rpy:237
 translate italian d15s07_mes_pee_on_mc_5f27595e:
 
     # lc "Look. I'm gonna want to kiss him later. I'm gonna want him to kiss me."
-    lc "Look. I'm gonna want to kiss him later. I'm gonna want him to kiss me."
+    lc "Guarda. Voglio baciarlo dopo. Voglio che mi baci."
 
 # game/code/d15/d15s07.rpy:243
 translate italian d15s07_mes_pee_on_mc_bdb994ee:
 
     # lc "I know this is something that is fun for you and I promise I'll watch it sometime, but right now-"
-    lc "I know this is something that is fun for you and I promise I'll watch it sometime, but right now-"
+    lc "So che per te è divertente e prometto che lo guarderò qualche volta, ma adesso..."
 
 # game/code/d15/d15s07.rpy:251
 translate italian d15s07_mes_pee_on_mc_78cab2df:
