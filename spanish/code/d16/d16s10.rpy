@@ -40,7 +40,7 @@ translate spanish d16s10_8a2e451a:
 translate spanish d16s10_b80ee824:
 
     # mc "Sorry, I misspoke. Whomever I fucked."
-    mc "Lo siento, me expresé mal. A quien me follé."
+    mc "Lo siento, me expresé mal. A quién me follé."
 
 # game/code/d16/d16s10.rpy:57
 translate spanish d16s10_a6d6ca7b:
@@ -166,7 +166,7 @@ translate spanish d16s10_28b2f46f:
 translate spanish d16s10_6cf2988d:
 
     # mc "It's Fetish Locator. It said, \"Surprise Me\". Then told me to invent a brand new fetish."
-    mc "Es como el Localizador de Fetiches. Decía: \"Sorpréndeme\". Luego me dijo que inventara un nuevo fetiche."
+    mc "Es el Localizador de Fetiches. Dice: \"Sorpréndeme\". Luego me dijo que inventara un nuevo fetiche."
 
 # game/code/d16/d16s10.rpy:112
 translate spanish d16s10_be809229:
@@ -364,7 +364,7 @@ translate spanish d16s10_afae13df:
 translate spanish d16s10_c17ef8ec:
 
     # mc "What's that?"
-    mc "¿Qué es eso?"
+    mc "¿Qué quieres que te diga?"
 
 # game/code/d16/d16s10.rpy:203
 translate spanish d16s10_bf23f537:
@@ -412,7 +412,7 @@ translate spanish d16s10_873d047b:
 translate spanish d16s10_b1a37c3d:
 
     # mc "You're relaxing on top of your sleeping bag and talking to me while I look through the camp supplies we packed."
-    mc "Te relajas encima de tu saco de dormir y me hablas mientras reviso los suministros para el campamento que empacamos."
+    mc "Te relajas encima de tu saco de dormir y me hablas mientras reviso los suministros que empacamos para el campamento."
 
 # game/code/d16/d16s10.rpy:227
 translate spanish d16s10_5fd28399:
@@ -634,7 +634,7 @@ translate spanish d16s10_6651ab87:
 translate spanish d16s10_843f8867:
 
     # arj "Wooohoooo!!!"
-    arj "¡¡¡¡Wooohoooo!!!"
+    arj "¡¡¡Wooohoooo!!!"
 
 # game/code/d16/d16s10.rpy:350
 translate spanish d16s10_c20fefc5:
@@ -694,13 +694,13 @@ translate spanish d16s10_a9d8f782:
 translate spanish d16s10_8d37174c:
 
     # arj "Ohhhh fuckkkk!! {w}STOP!!!"
-    arj "Ohhhh joder!! {w}¡¡DETÉNTE!!!"
+    arj "¡¡Ohhhh joder!! {w}¡¡DETÉNTE!!!"
 
 # game/code/d16/d16s10.rpy:412
 translate spanish d16s10_28759840:
 
     # arj "Fuck fuckfuck too fast...."
-    arj "Fuck fuckfuck too fast...."
+    arj "Joder, joder demasiado rápido...."
 
 # game/code/d16/d16s10.rpy:416
 translate spanish d16s10_a70f49a9:
@@ -892,7 +892,7 @@ translate spanish d16s10_1615cfcc:
 translate spanish d16s10_4f1f7e19:
 
     # arj "Although, from what I understand nudists don't watch each other masturbate."
-    arj "Aunque, por lo que entiendo, los nudistas no se ven masturbarse.."
+    arj "Aunque, por lo que entiendo, los nudistas no se ven masturbarse."
 
 # game/code/d16/d16s10.rpy:524
 translate spanish d16s10_aecb0898:
@@ -1376,7 +1376,7 @@ translate spanish strings:
 
     # game/code/d16/d16s10.rpy:205
     old "Tell her how you would fuck her"
-    new "Dile como te la follarias"
+    new "Dile como te la follarías"
 
     # game/code/d16/d16s10.rpy:205
     old "Tell her how you came while she was under the table"
