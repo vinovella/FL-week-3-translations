@@ -94,7 +94,7 @@ translate spanish d16s09_a0f43fb0:
 translate spanish d16s09_0807b155:
 
     # nk "Crossed every I; Dotted every T."
-    nk "cruzado cada Yo; Punteado cada T."
+    nk "Todos los puntos sobre las íes"
 
 # game/code/d16/d16s09.rpy:96
 translate spanish d16s09_da78966e:
