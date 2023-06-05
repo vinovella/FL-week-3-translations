@@ -1,54 +1,54 @@
-﻿# TODO: Translation updated at 2023-05-26 11:46
+# TODO: Translation updated at 2023-05-26 11:46
 
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:54
     old "Your third week on Fetish Locator ends here"
-    new "Your third week on Fetish Locator ends here"
+    new "Su tercera semana con el Localizador de Fetiches termina aquí"
 
     # game/code/screens/screens_fl.rpy:62
     old "Please type a name for the save file below and click save"
-    new "Please type a name for the save file below and click save"
+    new "Escriba un nombre para el archivo guardado y haga clic en Guardar."
 
     # game/code/screens/screens_fl.rpy:70
     old "This will allow you to start the endings without losing your progress"
-    new "This will allow you to start the endings without losing your progress"
+    new "Esto te permitirá comenzar los finales sin perder tu progreso."
 
     # game/code/screens/screens_fl.rpy:99
     old "SAVE"
-    new "SAVE"
+    new "GUARDAR"
 
     # game/code/screens/screens_fl.rpy:148
     old "NAME"
-    new "NAME"
+    new "NOMBRE"
 
     # game/code/screens/screens_fl.rpy:154
     old "DATE"
-    new "DATE"
+    new "FECHA"
 
     # game/code/screens/screens_fl.rpy:164
     old "Unnamed End Game Save"
-    new "Unnamed End Game Save"
+    new "Partida final guardada sin nombre"
 
     # game/code/screens/screens_fl.rpy:196
     old "No end game save from week [FLSS.week.prev] has been detected"
-    new "No end game save from week [FLSS.week.prev] has been detected"
+    new "No se ha detectado ningún final de juego guardado de la semana [FLSS.week.prev]"
 
     # game/code/screens/screens_fl.rpy:201
     old "Please open Fetish Locator week [FLSS.week.prev] and SAVE at the end game save screen"
-    new "Please open Fetish Locator week [FLSS.week.prev] and SAVE at the end game save screen"
+    new "Abre la semana 2 del Localizador de Fetiches [FLSS.week.prev] y GUARDA en la pantalla de guardado al final del juego."
 
     # game/code/screens/screens_fl.rpy:205
     old "Due to some new changes in Android OS, to import your save from Week 2 you need to follow these instructions."
-    new "Due to some new changes in Android OS, to import your save from Week 2 you need to follow these instructions."
+    new "Debido a algunos cambios en el sistema operativo Android, para importar tus partidas guardadas de la Semana 2 tienes que seguir estas instrucciones."
 
     # game/code/screens/screens_fl.rpy:207
     old "1. Close the game and find the Week save file named \"FetishLocator\" in - \"InternalStorage/RenPy/persistent/\""
-    new "1. Close the game and find the Week save file named \"FetishLocator\" in - \"InternalStorage/RenPy/persistent/\""
+    new "1. Cierra el juego y busca el archivo guardado de la semana llamado \"FetishLocator\" en - \"InternalStorage/RenPy/persistent/\""
 
     # game/code/screens/screens_fl.rpy:209
     old "2. Copy the \"FetishLocator\" file to the following folder (replace existing files if any) -"
-    new "2. Copy the \"FetishLocator\" file to the following folder (replace existing files if any) -"
+    new "2. Copie el archivo \"FetishLocator\" en la siguiente carpeta (reemplace los archivos existentes, si los hay)"
 
     # game/code/screens/screens_fl.rpy:211
     old "\"Internal storage/Android/data/com.patreon.fetishlocator.week3/files/saves/\"."
@@ -56,111 +56,111 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:214
     old "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
-    new "Contact us on {a=https://discord.gg/efmQRNtFks}Discord{/a} if you need help."
+    new "Contacta con nosotros en {a=https://discord.gg/efmQRNtFks}Discord{/a} si necesitas ayuda."
 
     # game/code/screens/screens_fl.rpy:219
     old "Or"
-    new "Or"
+    new "O"
 
     # game/code/screens/screens_fl.rpy:224
     old "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
-    new "{u}Fill the questionnaire to play week [FLSS.week.cur] without loading a save{/u}"
+    new "{u}Complete el cuestionario para jugar la semana [FLSS.week.cur] sin cargar un archivo de guardado{/u}"
 
     # game/code/screens/screens_fl.rpy:242
     old "Your device can't save the game progress through different weeks. Please, allow FL App to write on the external storage."
-    new "Your device can't save the game progress through different weeks. Please, allow FL App to write on the external storage."
+    new "Su dispositivo no puede guardar el progreso del juego durante diferentes semanas. Permita que FL App escriba en el almacenamiento externo."
 
     # game/code/screens/screens_fl.rpy:244
     old "On most devices you can set the permissions on the Setting app."
-    new "On most devices you can set the permissions on the Setting app."
+    new "En la mayoría de los dispositivos, puedes configurar los permisos en la aplicación Configuración."
 
     # game/code/screens/screens_fl.rpy:245
     old "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
-    new "1. Go to - Settings -> Apps -> Fetish Locator Week [FLSS.week.cur] -> Permissions -> Storage."
+    new "1. Vaya a - Configuración -> Aplicaciones -> Semana del Localizador de Fetiches [FLSS.week.cur] -> Permisos -> Almacenamiento."
 
     # game/code/screens/screens_fl.rpy:246
     old "2. Set the permission to -> \"Allow management of all files\"."
-    new "2. Set the permission to -> \"Allow management of all files\"."
+    new "2. Establecer el permiso para -> \"Permitir la gestión de todos los archivos\"."
 
     # game/code/screens/screens_fl.rpy:248
     old "Now the game should work."
-    new "Now the game should work."
+    new "Ahora el juego debería funcionar."
 
     # game/code/screens/screens_fl.rpy:250
     old "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
-    new "Your device cannot save the game progress through different weeks. Please, follow these instructions to fix this issue."
+    new "Su dispositivo no puede guardar el progreso del juego a través de diferentes semanas. Por favor, siga estas instrucciones para solucionar este problema."
 
     # game/code/screens/screens_fl.rpy:252
     old "1. Enable \"Show hidden items\" option in Windows Explorer."
-    new "1. Enable \"Show hidden items\" option in Windows Explorer."
+    new "1. Habilite la opción \"Mostrar elementos ocultos\" en el Explorador de Windows."
 
     # game/code/screens/screens_fl.rpy:253
     old "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
-    new "2. Go to - \"C:/Users/username/AppData/Roaming/RenPy/persistent/\" folder."
+    new "2. Vaya a la carpeta \"C:/Users/username/AppData/Roaming/RenPy/persistent/\"."
 
     # game/code/screens/screens_fl.rpy:254
     old "3. Create a backup of the file \"FetishLocator\" and delete it."
-    new "3. Create a backup of the file \"FetishLocator\" and delete it."
+    new "3. Cree una copia de seguridad del archivo \"FetishLocator\" y elimínelo."
 
     # game/code/screens/screens_fl.rpy:256
     old "4. After launching the game once, you can put the backed up \"FetishLocator\" file back to it's location to get your Previous Week's saves back."
-    new "4. After launching the game once, you can put the backed up \"FetishLocator\" file back to it's location to get your Previous Week's saves back."
+    new "4. Después de iniciar el juego una vez, puede volver a colocar el archivo \"Localizador de fetiches\" respaldado en su ubicación para recuperar los guardados de la semana anterior."
 
     # game/code/screens/screens_fl.rpy:264
     old "Confirm"
-    new "Confirm"
+    new "Confirmar"
 
     # game/code/screens/screens_fl.rpy:354
     old "Save your game now"
-    new "Save your game now"
+    new "Guarda tu juego ahora"
 
     # game/code/screens/screens_fl.rpy:356
     old "{u}Done{/u}"
-    new "{u}Done{/u}"
+    new "{u}Hecho{/u}"
 
     # game/code/screens/screens_fl.rpy:489
     old "points: "
-    new "points: "
+    new "Puntos: "
 
     # game/code/screens/screens_fl.rpy:552
     old "Welcome to"
-    new "Welcome to"
+    new "Bienvenido a"
 
     # game/code/screens/screens_fl.rpy:572
     old "Please enter your name here"
-    new "Please enter your name here"
+    new "Por favor ingrese su nombre aquí"
 
     # game/code/screens/screens_fl.rpy:614
     old "Please enter your Fetish Locator username here"
-    new "Please enter your Fetish Locator username here"
+    new "Ingrese su nombre de usuario del Localizador de Fetiches aquí."
 
     # game/code/screens/screens_fl.rpy:659
     old "Please choose your preferences"
-    new "Please choose your preferences"
+    new "Por favor elige tus preferencias."
 
     # game/code/screens/screens_fl.rpy:687
     old "Yes to all"
-    new "Yes to all"
+    new "Sí a todo"
 
     # game/code/screens/screens_fl.rpy:738
     old "Please select whom you like"
-    new "Please select whom you like"
+    new "Por favor, seleccione a quién le gusta."
 
     # game/code/screens/screens_fl.rpy:788
     old "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
-    new "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
+    new "Vuelva atrás y habilite el fetiche de {b}Deportes acuáticos{/b} para poder seleccionar Mín."
 
     # game/code/screens/screens_fl.rpy:795
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
-    new "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
+    new "Vuelva atrás y habilite {b}Contenido trans{/b} para poder seleccionar a Lyssa"
 
     # game/code/screens/screens_fl.rpy:813
     old "Please answer the questions"
-    new "Please answer the questions"
+    new "Por favor, responda a las preguntas"
 
     # game/code/screens/screens_fl.rpy:824
     old "AmRose Romance or Slave route?"
-    new "AmRose Romance or Slave route?"
+    new "AmRose ¿Ruta de romance o de esclava?"
 
     # game/code/screens/screens_fl.rpy:827
     old "Romance"
@@ -168,67 +168,67 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:830
     old "Slave"
-    new "Slave"
+    new "Esclava"
 
     # game/code/screens/screens_fl.rpy:838
     old "Did you kiss AmRose?"
-    new "Did you kiss AmRose?"
+    new "¿Besaste a AmRose?"
 
     # game/code/screens/screens_fl.rpy:854
     old "Do you want to dominate Lyssa?"
-    new "Do you want to dominate Lyssa?"
+    new "¿Quieres dominar a Lyssa?"
 
     # game/code/screens/screens_fl.rpy:870
     old "Did you say that you love Lydia?"
-    new "Did you say that you love Lydia?"
+    new "¿Dijiste que amas a Lydia?"
 
     # game/code/screens/screens_fl.rpy:964
     old "Select all"
-    new "Select all"
+    new "Seleccionar todo"
 
     # game/code/screens/screens_fl.rpy:993
     old "Did you agree to have kids with Stacy?"
-    new "Did you agree to have kids with Stacy?"
+    new "¿Accediste a tener hijos con Stacy?"
 
     # game/code/screens/screens_fl.rpy:1010
     old "Did you creampie Nora and agree to be the father?"
-    new "Did you creampie Nora and agree to be the father?"
+    new "¿Le hiciste un creampie a Nora y aceptaste ser el padre?"
 
     # game/code/screens/screens_fl.rpy:1027
     old "Did you ask Vanessa to wear shoes with cum?"
-    new "Did you ask Vanessa to wear shoes with cum?"
+    new "¿Le pediste a Vanessa que usara sus zapatos con semen?"
 
     # game/code/screens/screens_fl.rpy:1044
     old "Did you give the password to Hana?"
-    new "Did you give the password to Hana?"
+    new "¿Le diste la contraseña a Hana?"
 
     # game/code/screens/screens_fl.rpy:1062
     old "Did you let Pete hit on Samiya?"
-    new "Did you let Pete hit on Samiya?"
+    new "¿Dejaste que Pete coqueteara con Samiya?"
 
     # game/code/screens/screens_fl.rpy:1179
     old "How do you want to name your save?"
-    new "How do you want to name your save?"
+    new "¿Cómo quieres nombrar tu guardado?"
 
     # game/code/screens/screens_fl.rpy:1255
     old "How do you want to rename this page?"
-    new "How do you want to rename this page?"
+    new "¿Cómo quieres renombrar esta página?"
 
     # game/code/screens/screens_fl.rpy:1289
     old "Undo"
-    new "Undo"
+    new "Deshacer"
 
     # game/code/screens/screens_fl.rpy:1303
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
-    new "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
+    new "Fetish Locator está destinado a un público maduro\nde 18 años o más. Respete las leyes locales.\nTodos los personajes tienen 18 años o más. Sin excepciones.\nLos personajes de Fetish Locator exploran las relaciones y su sexualidad de formas sanas y nocivas. Algunos de estos pueden ser ofensivos para algunos jugadores. Se recomienda la discreción del espectador. Con ese fin, gran parte del contenido es opcional y, a menudo, hay caminos alternativos disponibles. Esto es necesario para la historia. El contenido explorado no debe tratarse como una aprobación de fetiches, torceduras o patrones de comportamiento particulares. Explore sus propias relaciones y su sexualidad de manera responsable.\n\n¡Disfrútelo!"
 
     # game/code/screens/screens_fl.rpy:1333
     old "Skip Recap\nof Week-1"
-    new "Skip Recap\nof Week-1"
+    new "Omitir resumen\nde la Semana 1"
 
     # game/code/screens/screens_fl.rpy:1339
     old "Skip Recap\nof Week-2"
-    new "Skip Recap\nof Week-2"
+    new "Omitir resumen\nde la semana 2"
 
 # TODO: Translation updated at 2023-05-27 13:26
 
@@ -236,9 +236,9 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:265
     old "Continue playing"
-    new "Continue playing"
+    new "Continuar jugando"
 
     # game/code/screens/screens_fl.rpy:269
     old "Close the game"
-    new "Close the game"
+    new "Cerrar el juego"
 
