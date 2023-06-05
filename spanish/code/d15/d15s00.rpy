@@ -8,7 +8,7 @@ translate spanish strings:
 
     # game/code/d15/d15s00.rpy:27
     old "Watch the Recap"
-    new "Mira el resumen"
+    new "Mirar el resumen"
 
     # game/code/d15/d15s00.rpy:35
     old "Play Week-3"
