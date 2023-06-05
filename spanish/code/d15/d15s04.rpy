@@ -178,7 +178,7 @@ translate spanish d15s04_aeda6b0d:
 translate spanish d15s04_7e053e33:
 
     # mct "Alright sure. I'll come pick you up."
-    mct "Bien, seguro. Vendré a recogerte."
+    mct "Bien, seguro. Iré a recogerte."
 
 # game/code/d15/d15s04.rpy:124
 translate spanish d15s04_37511836:
