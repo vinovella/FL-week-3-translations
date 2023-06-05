@@ -34,7 +34,7 @@ translate spanish d16s05_10d8c479:
 translate spanish d16s05_7562bd6c:
 
     # sy "And then came in right away!"
-    sy "¡Y entonces entró enseguida!"
+    sy "¡Y entonces entraste enseguida!"
 
 # game/code/d16/d16s05.rpy:48
 translate spanish d16s05_6a1c34dd:
@@ -154,7 +154,7 @@ translate spanish d16s05_c537ddd1:
 translate spanish d16s05_e9eba40c:
 
     # sy "How do I look?"
-    sy "¿óomo me veo?"
+    sy "¿Cómo me veo?"
 
 # game/code/d16/d16s05.rpy:98
 translate spanish d16s05_215e1dcd:
@@ -256,7 +256,7 @@ translate spanish d16s05_e15e1041:
 translate spanish d16s05_b2805601:
 
     # sy "They literally had the audacity to just go \"{i}Somehow{/i} Palpatine returned.\" {b}Somehow!?{/b}, {i}{b}Somehow!?{/b}{/i}?"
-    sy "Literalmente tuvieron la audacia de simplemente irse \"{i}De alguna manera{/i} Palpatine regresó.\" {b}¿¡De alguna manera!?{/b}, {i}{b}¿¡De alguna manera!?{/b}{/i}?"
+    sy "Literalmente tuvieron la audacia de simplemente irse \"{i}De alguna manera{/i} Palpatine regresó.\" {b}¿¡De alguna manera!?{/b}, {i}{b}¿¡De alguna manera!?{/b}{/i}"
 
 # game/code/d16/d16s05.rpy:148
 translate spanish d16s05_a5a58593:
@@ -304,7 +304,7 @@ translate spanish d16s05_b8de06d3:
 translate spanish d16s05_66c2169b:
 
     # mc "I got out."
-    mc "Voy a salir."
+    mc "Estoy libre."
 
 # game/code/d16/d16s05.rpy:169
 translate spanish d16s05_8ff2e7d6:
@@ -526,7 +526,7 @@ translate spanish d16s05_91b3f912:
 translate spanish d16s05_048bc1c1:
 
     # sy "That's 15 minutes too much!"
-    sy "¡Eso son 15 minutos, demasiado!"
+    sy "¡Eso son 15 minutos, es demasiado!"
 
 # game/code/d16/d16s05.rpy:286
 translate spanish d16s05_0dad097d:
@@ -592,7 +592,7 @@ translate spanish d16s05_165c3630:
 translate spanish d16s05_2a31549c:
 
     # sy "It's like... I like tech, but I kinda hate the culture."
-    sy "Es como... Me gusta la tecnología, pero odio un poco la cultura.."
+    sy "Es como... Me gusta la tecnología, pero odio un poco la cultura."
 
 # game/code/d16/d16s05.rpy:328
 translate spanish d16s05_1bbb82ce:
@@ -753,8 +753,8 @@ translate spanish d16s05_ab33ffd2:
 # game/code/d16/d16s05.rpy:416
 translate spanish d16s05_bc396837:
 
-    # mct "*Chuckles* Dominante, huh?"
-    mct "*Risas* Dom, ¿eh?"
+    # mct "*Chuckles* Dom, huh?"
+    mct "*Risas* Dominante, ¿eh?"
 
 # game/code/d16/d16s05.rpy:418
 translate spanish d16s05_da626596:
@@ -976,7 +976,7 @@ translate spanish d16s05_3b7b82e8:
 translate spanish d16s05_ec4db3fe:
 
     # mc "Yep. They're super draining."
-    mc "í. Son súper agotadoras."
+    mc "Sí. Son súper agotadoras."
 
 # game/code/d16/d16s05.rpy:540
 translate spanish d16s05_1bdd6e0d:
