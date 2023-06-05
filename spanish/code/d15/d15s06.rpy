@@ -10,7 +10,7 @@ translate spanish d15s06_1d052d6c:
 translate spanish d15s06_a6953c1d:
 
     # mc "Hey. Lyssa?"
-    mc "Ey. ¿Lisa?"
+    mc "Ey. ¿Lyssa?"
 
 # game/code/d15/d15s06.rpy:82
 translate spanish d15s06_bc672ce4:
@@ -52,7 +52,7 @@ translate spanish d15s06_eb834df9:
 translate spanish d15s06_197edeec:
 
     # mh "Yes. Don't worry about dressing up. You'll be fine as is."
-    mh "Sí. No te preocupes por vestirte. Estarás bien como está."
+    mh "Sí. No te preocupes por vestirte. Estarás bien como estás."
 
 # game/code/d15/d15s06.rpy:100
 translate spanish d15s06_2cec29e2:
@@ -184,7 +184,7 @@ translate spanish d15s06_5ee810c7:
 translate spanish d15s06_5d0f36c6:
 
     # mh "Why don't you forget about her and come with me? I'm sure I could..."
-    mh "¿Por qué no te olvidas de ella y vienes conmigo? Estoy seguro de que podría..."
+    mh "¿Por qué no te olvidas de ella y vienes conmigo? Estoy segura de que podría..."
 
 # game/code/d15/d15s06.rpy:173
 translate spanish d15s06_b7bc0101:
@@ -244,7 +244,7 @@ translate spanish d15s06_f03f5855:
 translate spanish d15s06_11813316:
 
     # mh "And this isn't even the start of what I have planned for us."
-    mh "And this isn't even the start of what I have planned for us."
+    mh "Y esto ni siquiera es el comienzo de lo que tengo planeado para nosotros."
 
 # game/code/d15/d15s06.rpy:219
 translate spanish d15s06_59571f7e:
@@ -286,7 +286,7 @@ translate spanish d15s06_360363d0:
 translate spanish d15s06_50bdc99f:
 
     # mh "What's the rush? I want to enjoy ourselves."
-    mh "¿Cual es la prisa? Quiero disfrutar de nosotros mismos."
+    mh "¿Cuál es la prisa? Quiero disfrutar de nosotros mismos."
 
 # game/code/d15/d15s06.rpy:239
 translate spanish d15s06_552f6731:
@@ -304,13 +304,13 @@ translate spanish d15s06_289d8872:
 translate spanish d15s06_21dd06c0:
 
     # mc "Where were we?"
-    mc "¿Donde estábamos?"
+    mc "¿Dónde estábamos?"
 
 # game/code/d15/d15s06.rpy:263
 translate spanish d15s06_cd8b9f64:
 
     # op "Annnd we're here. I hope you enjoyed the ride!"
-    op "Y aquí estamos. ¡Espero que hayas disfrutado el paseo!"
+    op "Y aquí estamos. ¡Espero que hayan disfrutado el paseo!"
 
 # game/code/d15/d15s06.rpy:270
 translate spanish d15s06_3f1c2f86:
@@ -460,7 +460,7 @@ translate spanish d15s06_house_c7e94c22:
 translate spanish d15s06_house_488f6fc6:
 
     # mc "Mmm. Aren't you raring to go?"
-    mc "Mmm. ¿No estás ansioso por irte?"
+    mc "Mmm. ¿No estás ansiosa por correrte?"
 
 # game/code/d15/d15s06.rpy:390
 translate spanish d15s06_house_712e2e14:
@@ -610,7 +610,7 @@ translate spanish d15s06_house_675d4884:
 translate spanish d15s06_house_6002ea16:
 
     # mc "I can feel your tongue, fuck."
-    mc "Puedo sentir tu lengua, carajo."
+    mc "Puedo sentir tu lengua, joder."
 
 # game/code/d15/d15s06.rpy:500
 translate spanish d15s06_house_ec783adb:
@@ -796,7 +796,7 @@ translate spanish d15s06_house_8100ca13:
 translate spanish d15s06_house_b7bfeaab:
 
     # mct "*Slight Moan*"
-    mct "Pequeño gemido*"
+    mct "*Pequeño gemido*"
 
 # game/code/d15/d15s06.rpy:602
 translate spanish d15s06_house_4a34fa64:
@@ -922,7 +922,7 @@ translate spanish d15s06_pillowtalk_fda487ca:
 translate spanish d15s06_pillowtalk_5f1d9eb3:
 
     # mh "It was."
-    mh "Fue."
+    mh "Lo fue."
 
 # game/code/d15/d15s06.rpy:816
 translate spanish d15s06_pillowtalk_54ede8e1:
@@ -1120,7 +1120,7 @@ translate spanish d15s06_pillowtalk_3a58ef16:
 translate spanish d15s06_pillowtalk_ece11033:
 
     # mh "\"It?\"?"
-    mh "\"¿Eso?\"?"
+    mh "\"¿Eso?\""
 
 # game/code/d15/d15s06.rpy:925
 translate spanish d15s06_pillowtalk_ea984855:
@@ -1192,7 +1192,7 @@ translate spanish d15s06_pillowtalk_4a7470d9:
 translate spanish d15s06_pillowtalk_b761493a:
 
     # mh "I thought so."
-    mh "Ya me lo imaginaba.."
+    mh "Ya me lo imaginaba."
 
 # game/code/d15/d15s06.rpy:966
 translate spanish d15s06_pillowtalk_584cdb21:
@@ -1252,7 +1252,7 @@ translate spanish d15s06_kitchen_dd711302:
 translate spanish d15s06_kitchen_08f68bd6:
 
     # mc "Liked is an understatement, it was amazing. Thank you."
-    mc "Me gustó es un eufemismo, fue increíble. Gracias."
+    mc "Me gustó, es un eufemismo, fue increíble. Gracias."
 
 # game/code/d15/d15s06.rpy:1043
 translate spanish d15s06_kitchen_94104fdc:
@@ -1348,7 +1348,7 @@ translate spanish d15s06_end_ffd83674:
 translate spanish d15s06_end_2597200c:
 
     # mc "She talks about me?"
-    mc "Ella habla de mi?"
+    mc "¿Ella habla de mí?"
 
 # game/code/d15/d15s06.rpy:1120
 translate spanish d15s06_end_d882a74c:
@@ -1378,7 +1378,7 @@ translate spanish d15s06_end_4ae26937:
 translate spanish d15s06_end_49ef765f:
 
     # mc "Sure I guess. What's up?"
-    mc "Seguro supongo. ¿Qué pasa?"
+    mc "Claro, supongo. ¿Qué pasa?"
 
 # game/code/d15/d15s06.rpy:1132
 translate spanish d15s06_end_b3065beb:
