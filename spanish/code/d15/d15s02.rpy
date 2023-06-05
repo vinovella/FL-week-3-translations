@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-26 11:45
+# TODO: Translation updated at 2023-05-26 11:45
 
 # game/code/d15/d15s02.rpy:22
 translate spanish d15s02_ce86b6d4:
@@ -40,13 +40,13 @@ translate spanish d15s02_1147813b:
 translate spanish d15s02_5f1ed132:
 
     # mc "My dick."
-    mc "Mi pene"
+    mc "Mi pene."
 
 # game/code/d15/d15s02.rpy:41
 translate spanish d15s02_613fe0a5:
 
     # nk "Your what now?"
-    nk "¿Tú qué ahora?"
+    nk "¿Tú qué?"
 
 # game/code/d15/d15s02.rpy:44
 translate spanish d15s02_57872f86:
@@ -118,7 +118,7 @@ translate spanish d15s02_caa60e4a:
 translate spanish d15s02_a53b8e94:
 
     # mc "Well... I wouldn't mind just one either. If it's someone special."
-    mc "Bueno... a mí tampoco me importaría uno solo. Si es alguien especial."
+    mc "Bueno... a mí tampoco me importaría una sola. Si es alguien especial."
 
 # game/code/d15/d15s02.rpy:78
 translate spanish d15s02_b8a4f4f7:
@@ -340,7 +340,7 @@ translate spanish d15s02_9d02905c:
 translate spanish d15s02_7eb569a7:
 
     # mc "It's alright. I deserved that."
-    mc "Esta bien. me lo merecia"
+    mc "Esta bien. me lo merecía"
 
 # game/code/d15/d15s02.rpy:175
 translate spanish d15s02_a5ff7b2b:
@@ -352,7 +352,7 @@ translate spanish d15s02_a5ff7b2b:
 translate spanish d15s02_00e13f39:
 
     # nk "You have."
-    nk "Lo eres"
+    nk "Lo eres."
 
 # game/code/d15/d15s02.rpy:181
 translate spanish d15s02_cf8fc324:
@@ -458,7 +458,7 @@ translate spanish strings:
 
     # game/code/d15/d15s02.rpy:62
     old "Itching to Break Free"
-    new "Con ganas de liberarse"
+    new "Con ganas de liberarme"
 
     # game/code/d15/d15s02.rpy:62
     old "Had Enough Fun for Now"
