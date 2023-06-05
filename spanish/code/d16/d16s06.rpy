@@ -58,7 +58,7 @@ translate spanish d16s06_802579eb:
 translate spanish d16s06_a021263f:
 
     # mc "It's about what happened during the party. About Vanes—"
-    mc "Se trata de lo que sucedió durante la fiesta. Sobre Vanes-"
+    mc "Se trata de lo que sucedió durante la fiesta. Sobre Vanessa"
 
 # game/code/d16/d16s06.rpy:125
 translate spanish d16s06_1100d8c6:
@@ -226,7 +226,7 @@ translate spanish d16s06_ac137ce1:
 translate spanish d16s06_11455b53:
 
     # mc "What?"
-    mc "¿Qué??"
+    mc "¿Qué?"
 
 # game/code/d16/d16s06.rpy:203
 translate spanish d16s06_f1a22ddf:
@@ -304,7 +304,7 @@ translate spanish d16s06_2fd3b885:
 translate spanish d16s06_4ebf4ad5:
 
     # aw "I know that you can always get the...{i}most{/i} out of me, so here we are."
-    aw "Sé que siempre puedes sacar lo...{i}más{/i} de mí, así que aquí estamos."
+    aw "Sé que siempre puedes sacar...{i}más{/i} de mí, así que aquí estamos."
 
 # game/code/d16/d16s06.rpy:248
 translate spanish d16s06_33b763ee:
@@ -334,7 +334,7 @@ translate spanish d16s06_8c2e37d7:
 translate spanish d16s06_297b1c03:
 
     # aw "What? Why not?"
-    aw "What? Why not?"
+    aw "¿Qué? ¿Por qué no?"
 
 # game/code/d16/d16s06.rpy:264
 translate spanish d16s06_560195fb:
@@ -658,7 +658,7 @@ translate spanish d16s06_71bc0f64:
 translate spanish d16s06_a83c62ef:
 
     # mc "Al— I think, I'm—"
-    mc "Al— creo, estoy—"
+    mc "Al— creo, que estoy—"
 
 # game/code/d16/d16s06.rpy:500
 translate spanish d16s06_9940f75a:
@@ -670,7 +670,7 @@ translate spanish d16s06_9940f75a:
 translate spanish d16s06_8e92a963:
 
     # aw "Let me go get cleane—"
-    aw "Déjame ir a limpiar—"
+    aw "Déjame ir a limpiarme—"
 
 # game/code/d16/d16s06.rpy:504
 translate spanish d16s06_bdcf079a:
