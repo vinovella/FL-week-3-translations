@@ -400,7 +400,7 @@ translate italian d15s08_40f873a4:
 translate italian d15s08_1b3a03e0:
 
     # arj "You know I'll help you with that."
-    arj "Sai che ti aiuterò con questo.""
+    arj "Sai che ti aiuterò con questo."
 
 # game/code/d15/d15s08.rpy:212
 translate italian d15s08_108bda6c:
@@ -562,7 +562,7 @@ translate italian d15s08_cc047e58:
 translate italian d15s08_d5929f3e:
 
     # hr "Let me know when you have that device working. Just text me \"Game on\" or something."
-    hr "Fammi sapere quando avrai quel dispositivo funzionante. Mandami semplicemente un messaggio con scritto \"Gioco attivo"\ o qualcosa del genere."
+    hr "Fammi sapere quando avrai quel dispositivo funzionante. Mandami semplicemente un messaggio con scritto \"Gioco attivo\" o qualcosa del genere."
 
 # game/code/d15/d15s08.rpy:290
 translate italian d15s08_e443bcb9:

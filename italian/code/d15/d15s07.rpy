@@ -190,7 +190,7 @@ translate italian d15s07_15a8abfe:
 translate italian d15s07_e233d25b:
 
     # mes "Oh! Sure, let's get nude and hop into the shower."
-    mes "Oh! Certo, spogliamoci e saltiamo sotto la doccia.
+    mes "Oh! Certo, spogliamoci e saltiamo sotto la doccia."
 
 # game/code/d15/d15s07.rpy:158
 translate italian d15s07_5050c37d:
