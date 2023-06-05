@@ -358,217 +358,217 @@ translate italian d15s08_56114331:
 translate italian d15s08_824e38a3:
 
     # mc "Cool. AmRose is on hardware; Stacy is on software; and Hana provided technical information."
-    mc "Cool. AmRose is on hardware; Stacy is on software; and Hana provided technical information."
+    mc "Che bello. AmRose si occupa dell'hardware; Stacy si occupa del software; e Hana fornisce informazioni tecniche."
 
 # game/code/d15/d15s08.rpy:193
 translate italian d15s08_1b1f96e3:
 
     # hr "I guess that makes you the project manager, [mcname]."
-    hr "I guess that makes you the project manager, [mcname]."
+    hr "Immagino che questo ti faccia diventare il responsabile del progetto, [mcname]."
 
 # game/code/d15/d15s08.rpy:196
 translate italian d15s08_e5b9c1f4:
 
     # sy "Hey! He's got the most important job of all{w} - [mcname] is the bait!"
-    sy "Hey! He's got the most important job of all{w} - [mcname] is the bait!"
+    sy "Ehi! Lui ha il lavoro più importante di tutti{w} - [mcname] è l'esca!"
 
 # game/code/d15/d15s08.rpy:199
 translate italian d15s08_5c59d086:
 
     # mc "Oh, it won't just be me."
-    mc "Oh, it won't just be me."
+    mc "Oh, non sarò solo io."
 
 # game/code/d15/d15s08.rpy:202
 translate italian d15s08_49fa574e:
 
     # hr "What do you mean?"
-    hr "What do you mean?"
+    hr "Cosa intendi?"
 
 # game/code/d15/d15s08.rpy:204
 translate italian d15s08_1bdfa1d0:
 
     # mc "I'll carry the device. I'm earning points again, so I'll earn as much as possible."
-    mc "I'll carry the device. I'm earning points again, so I'll earn as much as possible."
+    mc "Porterò con me il dispositivo. Sto guadagnando punti di nuovo, quindi ne guadagnerò il più possibile."
 
 # game/code/d15/d15s08.rpy:205
 translate italian d15s08_40f873a4:
 
     # mc "I'll attract the attention of Fetish Locator, but I won't be doing that all by myself."
-    mc "I'll attract the attention of Fetish Locator, but I won't be doing that all by myself."
+    mc "Attrarrò l'attenzione di Fetish Locator, ma non lo farò da solo."
 
 # game/code/d15/d15s08.rpy:208
 translate italian d15s08_1b3a03e0:
 
     # arj "You know I'll help you with that."
-    arj "You know I'll help you with that."
+    arj "Sai che ti aiuterò con questo.""
 
 # game/code/d15/d15s08.rpy:212
 translate italian d15s08_108bda6c:
 
     # sy "I can help too!"
-    sy "I can help too!"
+    sy "Anch'io posso aiutare!"
 
 # game/code/d15/d15s08.rpy:216
 translate italian d15s08_7268b34f:
 
     # hr "You are his sister... right?"
-    hr "You are his sister... right?"
+    hr "Tu sei sua sorella... giusto?"
 
 # game/code/d15/d15s08.rpy:218
 translate italian d15s08_eb990079:
 
     # sy "Well, you know... within reason.{w} I'm sure there's something I can do."
-    sy "Well, you know... within reason.{w} I'm sure there's something I can do."
+    sy "Già, e sai... entro certi limiti.{w} Sono sicura che posso fare qualcosa.."
 
 # game/code/d15/d15s08.rpy:221
 translate italian d15s08_ff6f2411:
 
     # mc "I'm sure Hana will be willing to help as needed, right?"
-    mc "I'm sure Hana will be willing to help as needed, right?"
+    mc "Sono sicuro che Hana sarà disposta ad aiutare come necessario, giusto?"
 
 # game/code/d15/d15s08.rpy:224
 translate italian d15s08_591aca2b:
 
     # hr "Yeah... about that."
-    hr "Yeah... about that."
+    hr "Sì... a proposito di questo."
 
 # game/code/d15/d15s08.rpy:227
 translate italian d15s08_0377b702:
 
     # mc "You're not interested in seeing this through to the finish?"
-    mc "You're not interested in seeing this through to the finish?"
+    mc "Non sei interessato a portare avanti tutto questo fino alla fine?"
 
 # game/code/d15/d15s08.rpy:230
 translate italian d15s08_d91408a2:
 
     # hr "You know I am. {w}You also know you have a virtual stockade of fresh prime meat waiting for another ride on your manhood."
-    hr "You know I am. {w}You also know you have a virtual stockade of fresh prime meat waiting for another ride on your manhood."
+    hr "Sai che lo sono. {w}Sai anche che hai una scorta virtuale di fresca carne di prima qualità in attesa di un altro giro sulla tua virilità."
 
 # game/code/d15/d15s08.rpy:233
 translate italian d15s08_8852e77f:
 
     # mc "Uh huh."
-    mc "Uh huh."
+    mc "Eh eh."
 
 # game/code/d15/d15s08.rpy:236
 translate italian d15s08_867ccf2e:
 
     # hr "I'm willing to help, but you're not going to be calling me up for every challenge, right?"
-    hr "I'm willing to help, but you're not going to be calling me up for every challenge, right?"
+    hr "Sono disposto ad aiutare, ma non mi chiamerai per ogni sfida, giusto?"
 
 # game/code/d15/d15s08.rpy:239
 translate italian d15s08_b7dbf86a:
 
     # mc "Not with that attitude. {w}We want to get and keep the app's attention."
-    mc "Not with that attitude. {w}We want to get and keep the app's attention."
+    mc "Non con quella mentalità.  {w}Vogliamo ottenere e mantenere l'attenzione dell'app."
 
 # game/code/d15/d15s08.rpy:242
 translate italian d15s08_bcd4ee4b:
 
     # arj "We want the app to be connecting [mcname]'s phone as often as possible. It'll give us the best chance to track it."
-    arj "We want the app to be connecting [mcname]'s phone as often as possible. It'll give us the best chance to track it."
+    arj "Vogliamo che l'app si connetta al telefono di [mcname] il più spesso possibile. Questo ci darà la migliore possibilità di rintracciare chi c'è dietro."
 
 # game/code/d15/d15s08.rpy:245
 translate italian d15s08_8bd8b0e9:
 
     # mc "I'm going to be doing everything I can to get points, with as many people as possible, as often as possible."
-    mc "I'm going to be doing everything I can to get points, with as many people as possible, as often as possible."
+    mc "Faro tutto il possibile per ottenere punti, con il maggior numero di persone possibile, il più spesso possibile."
 
 # game/code/d15/d15s08.rpy:248
 translate italian d15s08_424b35cd:
 
     # hr "*sigh* And I suppose that part will include me."
-    hr "*sigh* And I suppose that part will include me."
+    hr "*sospira* E suppongo che anche io farò parte di quelle persone."
 
 # game/code/d15/d15s08.rpy:251
 translate italian d15s08_df938662:
 
     # sy "Is that a problem?"
-    sy "Is that a problem?"
+    sy "È un problema?"
 
 # game/code/d15/d15s08.rpy:253
 translate italian d15s08_87a6b4f8:
 
     # hr "No. No problem. {w}I just don't want to be taken advantage of."
-    hr "No. No problem. {w}I just don't want to be taken advantage of."
+    hr "No. Nessun problema.  {w} Non voglio solo essere sfruttato."
 
 # game/code/d15/d15s08.rpy:256
 translate italian d15s08_27ec38aa:
 
     # mc "On my honor, the only person I intend to exploit here is myself."
-    mc "On my honor, the only person I intend to exploit here is myself."
+    mc "Sulla mia parola, l'unica persona che intendo sfruttare qui sono io stesso."
 
 # game/code/d15/d15s08.rpy:259
 translate italian d15s08_61f9b11c:
 
     # hr "Sounds good.{w} On that note - I'll leave you ladies to work in peace."
-    hr "Sounds good.{w} On that note - I'll leave you ladies to work in peace."
+    hr "Va bene.{w} Su questo punto - vi lascio tranquille a lavorare in pace."
 
 # game/code/d15/d15s08.rpy:262
 translate italian d15s08_2d893182:
 
     # sy "You don't want to stay for a... what's a threesome when there are four people?"
-    sy "You don't want to stay for a... what's a threesome when there are four people?"
+    sy "Non vuoi rimanere per un... cosa si chiama un threesome quando ci sono quattro persone?"
 
 # game/code/d15/d15s08.rpy:265
 translate italian d15s08_9fadbafb:
 
     # arj "A foursome?"
-    arj "A foursome?"
+    arj "Una festa a quattro?"
 
 # game/code/d15/d15s08.rpy:268
 translate italian d15s08_9ed40617:
 
     # hr "Um... no. {w}There are no points in it."
-    hr "Um... no. {w}There are no points in it."
+    hr "Um... no. {w}Non ci sono punti in tutto ciò."
 
 # game/code/d15/d15s08.rpy:271
 translate italian d15s08_830c45c3:
 
     # sy "Oh, right. Because of the Faraday cage."
-    sy "Oh, right. Because of the Faraday cage."
+    sy "Oh, giusto. A causa della gabbia di Faraday"
 
 # game/code/d15/d15s08.rpy:274
 translate italian d15s08_3c5fd23d:
 
     # mc "Still, it's something to consider... that could be a great way to earn points..."
-    mc "Still, it's something to consider... that could be a great way to earn points..."
+    mc "Comunque, è qualcosa da considerare... potrebbe essere un ottimo modo per guadagnare punti..."
 
 # game/code/d15/d15s08.rpy:277
 translate italian d15s08_ff886ded:
 
     # arj "Except for one big minor issue."
-    arj "Except for one big minor issue."
+    arj "A parte un grosso problema minore."
 
 # game/code/d15/d15s08.rpy:279
 translate italian d15s08_f84e5613:
 
     # mc "Right. That."
-    mc "Right. That."
+    mc "Giusto. Quello."
 
 # game/code/d15/d15s08.rpy:282
 translate italian d15s08_224fe1ae:
 
     # hr "... I don't want to know, do I?"
-    hr "... I don't want to know, do I?"
+    hr "... Non voglio sapere, vero?"
 
 # game/code/d15/d15s08.rpy:285
 translate italian d15s08_cc047e58:
 
     # sy "Probably not."
-    sy "Probably not."
+    sy "Probabilmente no."
 
 # game/code/d15/d15s08.rpy:287
 translate italian d15s08_d5929f3e:
 
     # hr "Let me know when you have that device working. Just text me \"Game on\" or something."
-    hr "Let me know when you have that device working. Just text me \"Game on\" or something."
+    hr "Fammi sapere quando avrai quel dispositivo funzionante. Mandami semplicemente un messaggio con scritto \"Gioco attivo"\ o qualcosa del genere."
 
 # game/code/d15/d15s08.rpy:290
 translate italian d15s08_e443bcb9:
 
     # sy "Yes, ma'am!"
-    sy "Yes, ma'am!"
+    sy "Sì, signora!"
 
 # game/code/d15/d15s08.rpy:291
 translate italian d15s08_8df0fec6:
@@ -580,109 +580,109 @@ translate italian d15s08_8df0fec6:
 translate italian d15s08_7401d813:
 
     # arj "We'll let you know."
-    arj "We'll let you know."
+    arj "Vi faremo sapere."
 
 # game/code/d15/d15s08.rpy:297
 translate italian d15s08_317baead:
 
     # hr "Thanks."
-    hr "Thanks."
+    hr "Grazie."
 
 # game/code/d15/d15s08.rpy:299
 translate italian d15s08_e7b0741c:
 
     # hr "Alright. I will be on my way."
-    hr "Alright. I will be on my way."
+    hr "Va bene. Mi metto in cammino."
 
 # game/code/d15/d15s08.rpy:302
 translate italian d15s08_0c5c6be2:
 
     # mc "Take care. {w}Are you feeling okay about this?"
-    mc "Take care. {w}Are you feeling okay about this?"
+    mc "Prenditi cura di te. {w}Ti senti bene riguardo a questo?"
 
 # game/code/d15/d15s08.rpy:304
 translate italian d15s08_db1e0241:
 
     # hr "Hmm? Yeah, it's just..."
-    hr "Hmm? Yeah, it's just..."
+    hr "Hmm? Sì, è solo che..."
 
 # game/code/d15/d15s08.rpy:306
 translate italian d15s08_def0ad19:
 
     # mc "What is it?"
-    mc "What is it?"
+    mc "Cosa c'è?"
 
 # game/code/d15/d15s08.rpy:309
 translate italian d15s08_93881137:
 
     # hr "Um, I don't really want to talk about it right now."
-    hr "Um, I don't really want to talk about it right now."
+    hr "Um, non voglio parlarne adesso."
 
 # game/code/d15/d15s08.rpy:312
 translate italian d15s08_a79c3d08:
 
     # mc "This is a safe space. In the cage and all that."
-    mc "This is a safe space. In the cage and all that."
+    mc "Questo è uno spazio sicuro. Nella gabbia e tutto quello."
 
 # game/code/d15/d15s08.rpy:315
 translate italian d15s08_8f11ff52:
 
     # hr "Oh, okay.{w}.. I've been to your dorm room and know that AmRose has a house."
-    hr "Oh, okay.{w}.. I've been to your dorm room and know that AmRose has a house."
+    hr "Oh, va bene.{w}.. So che tu hai una stanza in dormitorio e che AmRose ha una casa. "
 
 # game/code/d15/d15s08.rpy:316
 translate italian d15s08_3c19008f:
 
     # hr "So, why do you three all choose to sleep together here?"
-    hr "So, why do you three all choose to sleep together here?"
+    hr "Quindi, perché voi tre scegliete di dormire insieme qui?"
 
 # game/code/d15/d15s08.rpy:319
 translate italian d15s08_fff5a592:
 
     # mc "What? No. {w}Stacy was joking about the orgy."
-    mc "What? No. {w}Stacy was joking about the orgy."
+    mc "Cosa? No. {w}Stacy stava scherzando sull'orgia."
 
 # game/code/d15/d15s08.rpy:322
 translate italian d15s08_c3480691:
 
     # hr "Foursome."
-    hr "Foursome."
+    hr "Festa a quattro"
 
 # game/code/d15/d15s08.rpy:325
 translate italian d15s08_db1115fe:
 
     # mc "Right. That was a joke."
-    mc "Right. That was a joke."
+    mc "Giusto. Era uno scherzo."
 
 # game/code/d15/d15s08.rpy:328
 translate italian d15s08_cdd0c246:
 
     # hr "Uh huh. {w}Well, it's none of my business."
-    hr "Uh huh. {w}Well, it's none of my business."
+    hr "Uh huh. {w}Beh, non è affar mio."
 
 # game/code/d15/d15s08.rpy:331
 translate italian d15s08_8d5ec82b:
 
     # mc "Have a good night."
-    mc "Have a good night."
+    mc "Buona serata."
 
 # game/code/d15/d15s08.rpy:334
 translate italian d15s08_cf6785d8:
 
     # hr "You too."
-    hr "You too."
+    hr "Anche a te"
 
 # game/code/d15/d15s08.rpy:338
 translate italian d15s08_27bfff70:
 
     # mct "Pretty sure that was a distraction. There's something else bothering her."
-    mct "Pretty sure that was a distraction. There's something else bothering her."
+    mct "Sono abbastanza sicuro che quello fosse un diversivo. C'è qualcos'altro che la preoccupa."
 
 # game/code/d15/d15s08.rpy:340
 translate italian d15s08_222fc999:
 
     # sy "What took you so long? Did she suck your cock on the way out?"
-    sy "What took you so long? Did she suck your cock on the way out?"
+    sy "Ti ci è voluto cosi tanto? Ti ha fatto un pompino mentre se ne andava?"
 
 # game/code/d15/d15s08.rpy:343
 translate italian d15s08_bb1229e0:
@@ -694,301 +694,301 @@ translate italian d15s08_bb1229e0:
 translate italian d15s08_25c2280f:
 
     # sy "Oh, right. You mentioned..."
-    sy "Oh, right. You mentioned..."
+    sy "Ah, giusto. Hai menzionato..."
 
 # game/code/d15/d15s08.rpy:349
 translate italian d15s08_5a3ef2d8:
 
     # mc "AmRose? What did you mention?"
-    mc "AmRose? What did you mention?"
+    mc "AmRose? Cosa hai menzionato?"
 
 # game/code/d15/d15s08.rpy:352
 translate italian d15s08_a8abc6a4:
 
     # arj "Just girl talk. {w}Um, now that you're inside the Faraday cage... did anything change?"
-    arj "Just girl talk. {w}Um, now that you're inside the Faraday cage... did anything change?"
+    arj "Solo chiacchiere tra ragazze. {w}Ora che sei dentro la gabbia di Faraday... è cambiato qualcosa?"
 
 # game/code/d15/d15s08.rpy:354
 translate italian d15s08_9897ef07:
 
     # mc "You mean? No, I'm guessing it needs a signal to unlock."
-    mc "You mean? No, I'm guessing it needs a signal to unlock."
+    mc "Intendi? No, immagino che abbia bisogno di un segnale per sbloccarsi."
 
 # game/code/d15/d15s08.rpy:357
 translate italian d15s08_9e33d733:
 
     # sy "You know, it's an electronic lock. I'm sure we could bust that tonight and reattach it before you leave."
-    sy "You know, it's an electronic lock. I'm sure we could bust that tonight and reattach it before you leave."
+    sy "Sai, è una serratura elettronica. Sono sicura che potremmo forzarla stasera e riposizionarla prima che tu te ne vada."
 
 # game/code/d15/d15s08.rpy:359
 translate italian d15s08_24a09790:
 
     # arj "Too risky. It might have a record of being unlocked."
-    arj "Too risky. It might have a record of being unlocked."
+    arj "Troppo rischioso. Potrebbe avere un registro di essere stata sbloccata."
 
 # game/code/d15/d15s08.rpy:361
 translate italian d15s08_de78f20e:
 
     # sy "But I could check the-"
-    sy "But I could check the-"
+    sy "Ma potrei controllare il..."
 
 # game/code/d15/d15s08.rpy:364
 translate italian d15s08_2b4f4460:
 
     # mc "NO.{w} I appreciate the thought, but I can get through another day or so of this."
-    mc "NO.{w} I appreciate the thought, but I can get through another day or so of this."
+    mc "NO.{w} Apprezzo il pensiero, ma posso resistere ancora un giorno o due."
 
 # game/code/d15/d15s08.rpy:367
 translate italian d15s08_9613ef3c:
 
     # arj "I agree with [mcname]."
-    arj "I agree with [mcname]."
+    arj "Sono d'accordo con [mcname]."
 
 # game/code/d15/d15s08.rpy:369
 translate italian d15s08_bc24c532:
 
     # sy "Well, okay."
-    sy "Well, okay."
+    sy "Beh, va bene."
 
 # game/code/d15/d15s08.rpy:381
 translate italian d15s08_1a50b22f:
 
     # mct "What the hell is she doing?! AmRose is right there!"
-    mct "What the hell is she doing?! AmRose is right there!"
+    mct "Che diavolo sta facendo?! AmRose è proprio lì!"
 
 # game/code/d15/d15s08.rpy:388
 translate italian d15s08_07172b26:
 
     # arj "*giggles*"
-    arj "*giggles*"
+    arj "*risatine*"
 
 # game/code/d15/d15s08.rpy:391
 translate italian d15s08_26bd28ee:
 
     # mc "Stacy?! What the hell was that?!"
-    mc "Stacy?! What the hell was that?!"
+    mc "Stacy?! Che diavolo è stato?!"
 
 # game/code/d15/d15s08.rpy:395
 translate italian d15s08_96f60888:
 
     # sy "What? I can't show a little affection to my brother?"
-    sy "What? I can't show a little affection to my brother?"
+    sy "Cosa? Non posso mostrare un po' di affetto a mio fratello?"
 
 # game/code/d15/d15s08.rpy:397
 translate italian d15s08_c3268d41:
 
     # sy "What? I can't show a little affection to my closest friend?"
-    sy "What? I can't show a little affection to my closest friend?"
+    sy "Cosa? Non posso mostrare un po' di affetto al mio amico più caro?"
 
 # game/code/d15/d15s08.rpy:400
 translate italian d15s08_0d636223:
 
     # mc "That felt like more than a little affection!"
-    mc "That felt like more than a little affection!"
+    mc "Quello è sembrato più di un semplice affetto!"
 
 # game/code/d15/d15s08.rpy:403
 translate italian d15s08_cc7e7a66:
 
     # sy "Maybe I should drop on my knees and suck the life out of your cock cage, then."
-    sy "Maybe I should drop on my knees and suck the life out of your cock cage, then."
+    sy "Forse dovrei mettermi in ginocchio e succhiare la vita fuori dalla tua gabbia per il cazzo, allora."
 
 # game/code/d15/d15s08.rpy:406
 translate italian d15s08_c5bceaae:
 
     # mc "What the fuck?!"
-    mc "What the fuck?!"
+    mc "Che cazzo?!"
 
 # game/code/d15/d15s08.rpy:410
 translate italian d15s08_7c536c3f:
 
     # arj "Relax - I heard all about it."
-    arj "Relax - I heard all about it."
+    arj "Rilassati, ho sentito tutto."
 
 # game/code/d15/d15s08.rpy:413
 translate italian d15s08_75cda46a:
 
     # mc "I repeat - WHAT THE FUCK?!"
-    mc "I repeat - WHAT THE FUCK?!"
+    mc "Ripeto - CHE CAZZO?!"
 
 # game/code/d15/d15s08.rpy:416
 translate italian d15s08_ba49f7ab:
 
     # sy "Of course she knows. AmRose is practically my big sister."
-    sy "Of course she knows. AmRose is practically my big sister."
+    sy "Certo che lei lo sa. AmRose è praticamente mia sorella maggiore."
 
 # game/code/d15/d15s08.rpy:419
 translate italian d15s08_b204a7d0:
 
     # arj "Except we're both fucking the same guy."
-    arj "Except we're both fucking the same guy."
+    arj "Tranne che stiamo scopando entrambe lo stesso ragazzo."
 
 # game/code/d15/d15s08.rpy:422
 translate italian d15s08_6893f8a2:
 
     # sy "What are sisters for?"
-    sy "What are sisters for?"
+    sy "Per cosa servono le sorelle?"
 
 # game/code/d15/d15s08.rpy:425
 translate italian d15s08_3e8f28f7:
 
     # arj "*laughs*"
-    arj "*laughs*"
+    arj "*ride*"
 
 # game/code/d15/d15s08.rpy:428
 translate italian d15s08_3975c665:
 
     # mc "I'm confused.{w} I'm aroused.{w} And I'm angry."
-    mc "I'm confused.{w} I'm aroused.{w} And I'm angry."
+    mc "Sono confuso.{w} Sono eccitato.{w} E sono arrabbiato."
 
 # game/code/d15/d15s08.rpy:429
 translate italian d15s08_31d4ac35:
 
     # mc "Also, being aroused is fucking uncomfortable due to this damn cage."
-    mc "Also, being aroused is fucking uncomfortable due to this damn cage."
+    mc "Inoltre, essere eccitato è dannatamente scomodo a causa di questa dannata gabbia."
 
 # game/code/d15/d15s08.rpy:432
 translate italian d15s08_26423856:
 
     # sy "Oh, yeah. AmRose told me about that."
-    sy "Oh, yeah. AmRose told me about that."
+    sy "Oh, sì. AmRose mi ha parlato di quello."
 
 # game/code/d15/d15s08.rpy:435
 translate italian d15s08_499f9dd2:
 
     # arj "There are no secrets between sisters."
-    arj "There are no secrets between sisters."
+    arj "Tra sorelle non ci sono segreti."
 
 # game/code/d15/d15s08.rpy:438
 translate italian d15s08_db0ad907:
 
     # mc "Fuck the what?!"
-    mc "Fuck the what?!"
+    mc "Che cazzo?!"
 
 # game/code/d15/d15s08.rpy:439
 translate italian d15s08_34bdddd0:
 
     # mc "Okay. {w}So now I'm just angry and confused."
-    mc "Okay. {w}So now I'm just angry and confused."
+    mc "Va bene. {w}Quindi ora sono solo arrabbiato e confuso."
 
 # game/code/d15/d15s08.rpy:442
 translate italian d15s08_f6f498ff:
 
     # arj "I mean, don't get me wrong. At first it was a hell of a shock."
-    arj "I mean, don't get me wrong. At first it was a hell of a shock."
+    arj "Voglio dire, non fraintendermi. All'inizio è stato uno shock incredibile."
 
 # game/code/d15/d15s08.rpy:444
 translate italian d15s08_8646a62f:
 
     # arj "I mean, you fucked your sister. {w}You are fucking your sister."
-    arj "I mean, you fucked your sister. {w}You are fucking your sister."
+    arj "Voglio dire, ti sei scopato tua sorella. {w}Ti stai scopando tua sorella."
 
 # game/code/d15/d15s08.rpy:446
 translate italian d15s08_fe340bd3:
 
     # arj "I mean, you fucked Stacy. You two are fucking."
-    arj "I mean, you fucked Stacy. You two are fucking."
+    arj "Voglio dire, ti sei scopato Stacy. Voi due state scopando."
 
 # game/code/d15/d15s08.rpy:447
 translate italian d15s08_1a025493:
 
     # arj "That's pretty shocking. Stacy isn't just another girl. You two are really important to each other."
-    arj "That's pretty shocking. Stacy isn't just another girl. You two are really important to each other."
+    arj "È abbastanza sorprendente. Stacy non è solo un'altra ragazza. Voi due siete molto importanti l'uno per l'altro."
 
 # game/code/d15/d15s08.rpy:456
 translate italian d15s08_b1163ff3:
 
     # arj "But, I guess the most surprising part was that I wasn't jealous about it."
-    arj "But, I guess the most surprising part was that I wasn't jealous about it."
+    arj "Ma, suppongo che la cosa più sorprendente sia che non sono gelosa di questo."
 
 # game/code/d15/d15s08.rpy:457
 translate italian d15s08_7f49add2:
 
     # arj "I didn't feel... I don't feel like you would want to exclude me."
-    arj "I didn't feel... I don't feel like you would want to exclude me."
+    arj "Non sento... Non sento che tu voglia escludermi."
 
 # game/code/d15/d15s08.rpy:458
 translate italian d15s08_f7f8564c:
 
     # arj "It's not like with Lydia, ya'know? I don't feel like it is a competition."
-    arj "It's not like with Lydia, ya'know? I don't feel like it is a competition."
+    arj "Non è come con Lydia, capisci? Non sento che sia una competizione."
 
 # game/code/d15/d15s08.rpy:462
 translate italian d15s08_d480ee7e:
 
     # arj "{i}{b}*whispers*{/b} I don't feel like it's a competition that maybe I'm losing.{/i}"
-    arj "{i}{b}*whispers*{/b} I don't feel like it's a competition that maybe I'm losing.{/i}"
+    arj "{i}{b}*sussurra*{/b} Non sento che sia una competizione che forse sto perdendo.{/i}"
 
 # game/code/d15/d15s08.rpy:464
 translate italian d15s08_db9a8e53:
 
     # arj "{i}{b}*whispers*{/b} Although, I am starting to like Lydia.{/i}"
-    arj "{i}{b}*whispers*{/b} Although, I am starting to like Lydia.{/i}"
+    arj "{i}{b}*sussurra*{/b} Anche se, sta cominciando a piacermi Lydia.{/i}"
 
 # game/code/d15/d15s08.rpy:465
 translate italian d15s08_374e97e1:
 
     # arj "I feel like Stacy and I can share you together."
-    arj "I feel like Stacy and I can share you together."
+    arj "Sento che Stacy ed io possiamo condividerti insieme."
 
 # game/code/d15/d15s08.rpy:467
 translate italian d15s08_aaf9264e:
 
     # mc "Okay. I guess I'm cool with that."
-    mc "Okay. I guess I'm cool with that."
+    mc "Okay. Immagino che mi vada bene."
 
 # game/code/d15/d15s08.rpy:470
 translate italian d15s08_4ec77d2c:
 
     # sy "[mcname] needs to relax."
-    sy "[mcname] needs to relax."
+    sy "[mcname] ha bisogno di rilassarsi."
 
 # game/code/d15/d15s08.rpy:473
 translate italian d15s08_0c545ee6:
 
     # arj "He really does."
-    arj "He really does."
+    arj "Ne ha davvero bisogno."
 
 # game/code/d15/d15s08.rpy:476
 translate italian d15s08_f300e9eb:
 
     # sy "I can't think of any ways to relax him that wouldn't make him more aroused."
-    sy "I can't think of any ways to relax him that wouldn't make him more aroused."
+    sy "Non riesco a pensare a modi per rilassarlo che non lo eccitino ancora di più."
 
 # game/code/d15/d15s08.rpy:477
 translate italian d15s08_27955139:
 
     # arj "Good point."
-    arj "Good point."
+    arj "Giusto"
 
 # game/code/d15/d15s08.rpy:480
 translate italian d15s08_93cf0c31:
 
     # sy "Shall we just get ready for bed?"
-    sy "Shall we just get ready for bed?"
+    sy "Dobbiamo prepararci per andare a letto?"
 
 # game/code/d15/d15s08.rpy:482
 translate italian d15s08_9c0e2798:
 
     # arj "Excellent idea."
-    arj "Excellent idea."
+    arj "Idea eccellente."
 
 # game/code/d15/d15s08.rpy:486
 translate italian d15s08_ba25ae6d:
 
     # sy "I always prefer to sleep in the nude."
-    sy "I always prefer to sleep in the nude."
+    sy "Preferisco sempre dormire nuda."
 
 # game/code/d15/d15s08.rpy:489
 translate italian d15s08_91800d2e:
 
     # arj "I'm sure that [mcname] prefers that as well."
-    arj "I'm sure that [mcname] prefers that as well."
+    arj "Sono sicura che anche [mcname] lo preferisca."
 
 # game/code/d15/d15s08.rpy:491
 translate italian d15s08_1597a043:
 
     # sy "[mcname], do you need some help getting undressed?"
-    sy "[mcname], do you need some help getting undressed?"
+    sy "[mcname], hai bisogno di aiuto per spogliarti?"
 
 # game/code/d15/d15s08.rpy:493
 translate italian d15s08_2b35b6fe:
@@ -1000,55 +1000,55 @@ translate italian d15s08_2b35b6fe:
 translate italian d15s08_ab0b4a3b:
 
     # mc "I can take care of it myself."
-    mc "I can take care of it myself."
+    mc "Posso occuparmene da solo."
 
 # game/code/d15/d15s08.rpy:498
 translate italian d15s08_0b5bd8d5:
 
     # sy "He is no fun."
-    sy "He is no fun."
+    sy "Non è divertente."
 
 # game/code/d15/d15s08.rpy:512
 translate italian d15s08_961e866e:
 
     # mc "I'm beginning to wonder if I should just go back to my dorm room for the night."
-    mc "I'm beginning to wonder if I should just go back to my dorm room for the night."
+    mc "Inizio a chiedermi se dovrei tornare nella mia stanza del dormitorio per la notte."
 
 # game/code/d15/d15s08.rpy:515
 translate italian d15s08_aef0532a:
 
     # arj "You wouldn't want to miss this. Because we know exactly how to relax you."
-    arj "You wouldn't want to miss this. Because we know exactly how to relax you."
+    arj "Non vorresti perderti questo. Perché sappiamo esattamente come rilassarti."
 
 # game/code/d15/d15s08.rpy:517
 translate italian d15s08_c17ef8ec:
 
     # mc "What's that?"
-    mc "What's that?"
+    mc "Che cos'è?"
 
 # game/code/d15/d15s08.rpy:521
 translate italian d15s08_692ef887:
 
     # arj "It starts by you laying down on this bed."
-    arj "It starts by you laying down on this bed."
+    arj "Inizia sdraiandoti sul letto."
 
 # game/code/d15/d15s08.rpy:523
 translate italian d15s08_294bf777:
 
     # sy "Then we lay our naked bodies down."
-    sy "Then we lay our naked bodies down."
+    sy "Poi mettiamo giù i nostri corpi nudi."
 
 # game/code/d15/d15s08.rpy:525
 translate italian d15s08_e1e12223:
 
     # arj "Curled up on either side of you."
-    arj "Curled up on either side of you."
+    arj "Accoccolati da entrambi i lati di te."
 
 # game/code/d15/d15s08.rpy:528
 translate italian d15s08_f2120d73:
 
     # sy "And then you fall asleep in a pile of warmth and comfort."
-    sy "And then you fall asleep in a pile of warmth and comfort."
+    sy "E poi ti addormenti in un mucchio di calore e comfort."
 
 # game/code/d15/d15s08.rpy:530
 translate italian d15s08_2b35b6fe_1:
@@ -1060,7 +1060,7 @@ translate italian d15s08_2b35b6fe_1:
 translate italian d15s08_d726efb1:
 
     # mc "Okay. That does sound good."
-    mc "Okay. That does sound good."
+    mc "Okay. Sembra una buona idea."
 
 # game/code/d15/d15s08.rpy:544
 translate italian d15s08_295bbea7:
@@ -1084,73 +1084,73 @@ translate italian d15s08_05500ff6:
 translate italian d15s08_b87de298:
 
     # sy "You're falling asleep on your feet."
-    sy "You're falling asleep on your feet."
+    sy "Ti stai addormentando in piedi."
 
 # game/code/d15/d15s08.rpy:555
 translate italian d15s08_c6226516:
 
     # arj "Why don't you lay down on the bed and get some rest."
-    arj "Why don't you lay down on the bed and get some rest."
+    arj "Perché non ti sdrai sul letto e ti riposarti un po."
 
 # game/code/d15/d15s08.rpy:557
 translate italian d15s08_eb718c25:
 
     # mc "Yeah, yeah. {w}Just a really busy day. I guess I'm a little brain fried."
-    mc "Yeah, yeah. {w}Just a really busy day. I guess I'm a little brain fried."
+    mc "Si, si. {w}È stata una giornata davvero intensa. Sono un po' affaticato mentalmente, suppongo."
 
 # game/code/d15/d15s08.rpy:561
 translate italian d15s08_de329697:
 
     # mc "Don't let me nap too long."
-    mc "Don't let me nap too long."
+    mc "Non farmi dormire troppo a lungo."
 
 # game/code/d15/d15s08.rpy:564
 translate italian d15s08_cedd6a8e:
 
     # arj "Just relax."
-    arj "Just relax."
+    arj "Rilassati semplicemente."
 
 # game/code/d15/d15s08.rpy:566
 translate italian d15s08_3c862b57:
 
     # mc "Don't you two need to sleep?"
-    mc "Don't you two need to sleep?"
+    mc "Non dovete dormire voi due?"
 
 # game/code/d15/d15s08.rpy:570
 translate italian d15s08_9c7431d1:
 
     # sy "Just a few more lines of code..."
-    sy "Just a few more lines of code..."
+    sy "Solo un paio di righe di codice in più..."
 
 # game/code/d15/d15s08.rpy:573
 translate italian d15s08_d61354c6:
 
     # arj "Don't worry about us. {w}I'm sure you're going to have a busy day tomorrow."
-    arj "Don't worry about us. {w}I'm sure you're going to have a busy day tomorrow."
+    arj "Non preoccuparti di noi. {w}Sono sicura che avrai una giornata impegnata domani."
 
 # game/code/d15/d15s08.rpy:574
 translate italian d15s08_0dfc1d08:
 
     # mct "Oh yeah, tomorrow. {w}Gotta think of some ways to earn points."
-    mct "Oh yeah, tomorrow. {w}Gotta think of some ways to earn points."
+    mct "Oh sì, domani. {w}Devo pensare a qualche modo per guadagnare punti."
 
 # game/code/d15/d15s08.rpy:577
 translate italian d15s08_0d61d35a:
 
     # sy "Hey AmRose, do you think we could wire something to know when he cums?"
-    sy "Hey AmRose, do you think we could wire something to know when he cums?"
+    sy "Ehi AmRose, pensi che potremmo collegare qualcosa per sapere quando lui viene?"
 
 # game/code/d15/d15s08.rpy:579
 translate italian d15s08_edb86fe3:
 
     # mct "What... what did she just say?"
-    mct "What... what did she just say?"
+    mct "Cosa... cosa ha appena detto?"
 
 # game/code/d15/d15s08.rpy:581
 translate italian d15s08_6643a8b6:
 
     # arj "You mean as a trigger for the tracking device?"
-    arj "You mean as a trigger for the tracking device?"
+    arj "Intendi come un trigger per il dispositivo di tracciamento?"
 
 # game/code/d15/d15s08.rpy:588
 translate italian d15s08_bcfe6e94:
