@@ -76,7 +76,7 @@ translate spanish d16s08_594a9b43:
 translate spanish d16s08_f229661e:
 
     # mc "You mean you and Lydia?"
-    mc "¿Te refieres a ti ya Lydia?"
+    mc "¿Te refieres a ti y a Lydia?"
 
 # game/code/d16/d16s08.rpy:65
 translate spanish d16s08_c8388a22:
@@ -250,7 +250,7 @@ translate spanish d16s08_348af411:
 translate spanish d16s08_cf7d1e52:
 
     # arj "I guess that's her choice. {w}Talk to her about it."
-    arj "Supongo que esa es su elección. {w}Hable con ella al respecto."
+    arj "Supongo que esa es su elección. {w}Habla con ella al respecto."
 
 # game/code/d16/d16s08.rpy:159
 translate spanish d16s08_4eb2cdc7:
@@ -388,7 +388,7 @@ translate spanish d16s08_27854666:
 translate spanish d16s08_dff89196:
 
     # mc "I don't want her involved in any of this. Fetish Locator shouldn't-"
-    mc "No la quiero involucrada en nada de esto. El localizador de fetiches no debería..."
+    mc "No la quiero involucrada en nada de esto. El Localizador de Fetiches no debería..."
 
 # game/code/d16/d16s08.rpy:231
 translate spanish d16s08_b4d35f8f:
@@ -448,7 +448,7 @@ translate spanish d16s08_d6301483:
 translate spanish d16s08_0740ffde:
 
     # mc "You're going to have to narrow that down."
-    mc "YVas a tener que reducir eso."
+    mc "Vas a tener que reducir eso."
 
 # game/code/d16/d16s08.rpy:264
 translate spanish d16s08_6280a62d:
@@ -640,7 +640,7 @@ translate spanish d16s08_36be32a5:
 translate spanish d16s08_67ca6189:
 
     # arj "You are such a guy. {w}Creampie means no condom, risk of pregnancy, and all that."
-    arj "Eres un chico así. {w}Creampie significa sin condón, riesgo de embarazo y todo eso."
+    arj "Eres un chico. {w}Creampie significa sin condón, riesgo de embarazo y todo eso."
 
 # game/code/d16/d16s08.rpy:355
 translate spanish d16s08_45696812:
@@ -928,7 +928,7 @@ translate spanish d16s08_84d80062:
 translate spanish d16s08_1315783c:
 
     # arj "Oh... okay. {w}Don't keep me waiting too long."
-    arj "Ah, okey. {w}No me hagas esperar demasiado."
+    arj "Ah, bien. {w}No me hagas esperar demasiado."
 
 # game/code/d16/d16s08.rpy:500
 translate spanish d16s08_7ef6443c:
