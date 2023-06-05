@@ -40,7 +40,7 @@ translate spanish d16s03_4bce5e48:
 translate spanish d16s03_4b367301:
 
     # lc "I meant the taste on your lips. I can't quite place it."
-    lc "Me refiero al sabor en tus labios. No puedo ubicarlo."
+    lc "Me refiero al sabor en tus labios. No puedo identificarlo."
 
 # game/code/d16/d16s03.rpy:52
 translate spanish d16s03_adc54c73:
@@ -238,13 +238,13 @@ translate spanish d16s03_860c298e:
 translate spanish d16s03_68ce535d:
 
     # lc "You're the ultimate turn on. {w}You being caged just ... safe? comfortable? Do you know what I mean?"
-    lc "Eres el último en excitarse. {w}Estar enjaulado es... seguro? ¿Cómodo? ¿Sabes lo que quiero decir?"
+    lc "Eres el último en excitarse. {w}Estar enjaulado es... ¿seguro? ¿Cómodo? ¿Sabes lo que quiero decir?"
 
 # game/code/d16/d16s03.rpy:151
 translate spanish d16s03_99d0253c:
 
     # arj "You want to fuck him, but you don't want him to be able to fuck you."
-    arj "uieres follarlo, pero no quieres que él pueda follarte."
+    arj "Quieres follarlo, pero no quieres que él pueda follarte."
 
 # game/code/d16/d16s03.rpy:154
 translate spanish d16s03_2ef6dd82:
@@ -262,7 +262,7 @@ translate spanish d16s03_43e48744:
 translate spanish d16s03_e9cd54a1:
 
     # lc "... without actually penetrating each other. Yeah!"
-    lc "... sin llegar a penetrar entre sí. ¡Sí!"
+    lc "... sin llegar a penetrarse mutuamente. ¡Sí!"
 
 # game/code/d16/d16s03.rpy:163
 translate spanish d16s03_afe502c0:
@@ -286,7 +286,7 @@ translate spanish d16s03_5e1e68ee:
 translate spanish d16s03_66eb0401:
 
     # mct "They both want AmRose to leave.{w} Hmm... I'm thinking..."
-    mct "Ambos quieren que AmRose se vaya. {w} Mmm... Estoy pensando..."
+    mct "Ambos queremos que AmRose se vaya. Hmm... Estoy pensando..."
 
 # game/code/d16/d16s03.rpy:181
 translate spanish d16s03_c145daf5:
@@ -412,7 +412,7 @@ translate spanish d16s03_0acc0d7f:
 translate spanish d16s03_3262ce96:
 
     # mc "First, Lydia likes to hear about my sex stories and even watch. I want you to experience what it feels like to be watched."
-    mc "Primero, a Lydia le gusta escuchar mis historias de sexo e incluso verlas. Quiero que experimentes lo que se siente al ser observado."
+    mc "Primero, a Lydia le gusta escuchar mis historias de sexo e incluso verlas. Quiero que experimentes lo que se siente al ser observada."
 
 # game/code/d16/d16s03.rpy:244
 translate spanish d16s03_8a8ef549:
@@ -568,7 +568,7 @@ translate spanish d16s03_044fe489:
 translate spanish d16s03_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Gracias"
+    mc "Gracias."
 
 # game/code/d16/d16s03.rpy:335
 translate spanish d16s03_6b58cc47:
@@ -634,7 +634,7 @@ translate spanish d16s03_92fcd23d:
 translate spanish d16s03_2261600c:
 
     # lc "That feels amazing."
-    lc "Eso se siente increíble.."
+    lc "Eso se siente increíble."
 
 # game/code/d16/d16s03.rpy:368
 translate spanish d16s03_f160b298:
@@ -772,7 +772,7 @@ translate spanish d16s03_22a0abcf:
 translate spanish d16s03_92e65816:
 
     # mc "You want AmRose to leave?"
-    mc "¿Quieres que AmRose se vaya??"
+    mc "¿Quieres que AmRose se vaya?"
 
 # game/code/d16/d16s03.rpy:465
 translate spanish d16s03_eec7fdfb:
@@ -838,7 +838,7 @@ translate spanish d16s03_6e975733:
 translate spanish d16s03_2b2d760b:
 
     # arj "At first I thought you were punishing me. That I was supposed to feel humiliated."
-    arj "Al principio pensé que me estabas castigando. Que se suponía que debía sentirme humillado."
+    arj "Al principio pensé que me estabas castigando. Que debía sentirme humillada."
 
 # game/code/d16/d16s03.rpy:487
 translate spanish d16s03_43393439:
@@ -886,7 +886,7 @@ translate spanish d16s03_f49fff8f:
 translate spanish d16s03_a1095241:
 
     # arj "Yeah. {w}Lydia wasn't the only one who came here today."
-    arj "Sí. {w}Lydia no fue la única que vino aquí hoy."
+    arj "Sí. {w}Lydia no fue la única que se corrió aquí hoy."
 
 # game/code/d16/d16s03.rpy:503
 translate spanish d16s03_7129dea6:
@@ -910,7 +910,7 @@ translate spanish d16s03_79e6baf1:
 translate spanish d16s03_0923cc2e:
 
     # mc "What about you, Lydia? How did you feel about AmRose watching us together?"
-    mc "¿Y que hay de ti, Lydia? ¿Cómo te sentiste acerca de AmRose mirándonos juntos?"
+    mc "¿Y que hay de ti, Lydia? ¿Cómo te sentiste acerca de AmRose viéndonos juntos?"
 
 # game/code/d16/d16s03.rpy:514
 translate spanish d16s03_5efa3f9f:
@@ -1012,7 +1012,7 @@ translate spanish d16s03_67bccabd:
 translate spanish d16s03_6dda13c8:
 
     # lc "Bye!"
-    lc "¡Adiós!!"
+    lc "¡Adiós!"
 
 # game/code/d16/d16s03.rpy:566
 translate spanish d16s03_089e98e4:
@@ -1456,7 +1456,7 @@ translate spanish d16s03_72630d74:
 translate spanish d16s03_9754930d:
 
     # mc "C'mon, you can tell me."
-    mc "C'mon, you can tell me."
+    mc "Vamos, puedes decírmelo."
 
 # game/code/d16/d16s03.rpy:812
 translate spanish d16s03_c969f6e7:
@@ -1504,7 +1504,7 @@ translate spanish d16s03_7c927b78:
 translate spanish d16s03_4cf84e90:
 
     # lc "What's yours?"
-    lc "¿Cuál es el tuyo?"
+    lc "¿Cuál es la tuya?"
 
 # game/code/d16/d16s03.rpy:837
 translate spanish d16s03_615b0d04:
@@ -1516,13 +1516,13 @@ translate spanish d16s03_615b0d04:
 translate spanish d16s03_448adea7:
 
     # lc "Bullcrap."
-    lc "Mierda."
+    lc "Vamos."
 
 # game/code/d16/d16s03.rpy:843
 translate spanish d16s03_8fdf3012:
 
     # mc "Well, I don't have just one. Every time I zone out or daydream I have a new one."
-    mc "Bueno, no tengo sólo uno. Cada vez que me desconecto o sueño despierto tengo uno nuevo."
+    mc "Bueno, no tengo sólo una. Cada vez que me desconecto o sueño despierto tengo una nueva."
 
 # game/code/d16/d16s03.rpy:844
 translate spanish d16s03_a522e76d:
@@ -1546,7 +1546,7 @@ translate spanish d16s03_b86e49a4:
 translate spanish d16s03_90fc93a6:
 
     # lc "Well, if you had a fantasy - what would you do?"
-    lc "Bueno, si tuvieras una fantasía, ¿qué harías?"
+    lc "Bueno, si tuvieras una fantasía, ¿qué sería?"
 
 # game/code/d16/d16s03.rpy:856
 translate spanish d16s03_e6503c89:
@@ -1648,7 +1648,7 @@ translate spanish d16s03_4987e6ae:
 translate spanish d16s03_526cd82e:
 
     # mc "Then when I finally withdrew myself, I would watch my sperm and semen drip out of your vagina."
-    mc "Luego, cuando finalmente me retiré, vería mi esperma y mi semen gotear de tu vagina."
+    mc "Luego, cuando finalmente me retire, vería mi esperma y mi semen gotear de tu vagina."
 
 # game/code/d16/d16s03.rpy:902
 translate spanish d16s03_425176bf:
@@ -1666,7 +1666,7 @@ translate spanish d16s03_237c3776:
 translate spanish d16s03_89213bd2:
 
     # mc "Someday... you know, when you're ready and practice with toys a bit and there's plenty of lube..."
-    mc "Algún día... ya sabes, cuando estés listo y practiques un poco con los juguetes y haya mucho lubricante..."
+    mc "Algún día... ya sabes, cuando estés lista y practiques un poco con los juguetes y haya mucho lubricante..."
 
 # game/code/d16/d16s03.rpy:915
 translate spanish d16s03_e64f10fe:
@@ -1988,7 +1988,7 @@ translate spanish strings:
 
     # game/code/d16/d16s03.rpy:881
     old "Want to Gag, Choke, and Deepthroat Lydia"
-    new "Quieres amordazar, ahogar y hacerle una garganta profunda a Lydia"
+    new "Quiero amordazar, ahogar y hacerle una garganta profunda a Lydia"
 
     # game/code/d16/d16s03.rpy:881
     old "Want to Bind and Dominate Lydia"
