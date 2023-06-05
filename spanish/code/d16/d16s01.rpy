@@ -40,7 +40,7 @@ translate spanish d16s01_a20cefa7_2:
 translate spanish d16s01_f360d4e1:
 
     # arj "Hey, we should try to keep it down a bit. [mcname] is sleeping still."
-    arj "Oye, deberíamos intentar bajar un poco el volumen. [mcname] todavía está durmiendo"
+    arj "Oye, deberíamos intentar bajar un poco el volumen. [mcname] todavía está durmiendo."
 
 # game/code/d16/d16s01.rpy:63
 translate spanish d16s01_a6752256:
@@ -112,7 +112,7 @@ translate spanish d16s01_f6e6aa80:
 translate spanish d16s01_ed59ad4d:
 
     # arj "Fixed up the power drain issue and hacked together some lithium-ions as the power supply."
-    arj "Se solucionó el problema del consumo de energía y se monté algunos iones de litio como fuente de alimentación."
+    arj "Se solucionó el problema del consumo de energía y monté algunos iones de litio como fuente de alimentación."
 
 # game/code/d16/d16s01.rpy:127
 translate spanish d16s01_b6fc2dde:
@@ -196,7 +196,7 @@ translate spanish d16s01_567ca41f:
 translate spanish d16s01_04ba50c3:
 
     # mc "What did you do?"
-    mc "What did you do?"
+    mc "¿Qué hiciste?"
 
 # game/code/d16/d16s01.rpy:176
 translate spanish d16s01_5bb29158:
@@ -268,7 +268,7 @@ translate spanish d16s01_acf0c165:
 translate spanish d16s01_730b04ca:
 
     # mc "They must've {i}really{/i} not wanted anyone snooping around."
-    mc "Deben haber {i}realmente{/i} no querían que nadie husmeara."
+    mc "No querían que {i}nadie{/i} espiara."
 
 # game/code/d16/d16s01.rpy:205
 translate spanish d16s01_9c483341:
@@ -322,7 +322,7 @@ translate spanish d16s01_3a0819eb:
 translate spanish d16s01_25fb8ea8:
 
     # mc "\"Unknown\"?"
-    mc "\"¿Desconocida\"?"
+    mc "\"¿Desconocida?\""
 
 # game/code/d16/d16s01.rpy:229
 translate spanish d16s01_cf05969f:
@@ -430,7 +430,7 @@ translate spanish d16s01_ae03c62f:
 translate spanish d16s01_05da6f3d:
 
     # sy "I'm sure you have plenty of other...{i}instruments{/i} that you can use to make it work."
-    sy "Estoy seguro de que tienes muchos otros...{i}instrumentos{/i} que puedes usar para que funcione."
+    sy "Estoy segura de que tienes muchos otros...{i}instrumentos{/i} que puedes usar para que funcione."
 
 # game/code/d16/d16s01.rpy:268
 translate spanish d16s01_577fe339:
