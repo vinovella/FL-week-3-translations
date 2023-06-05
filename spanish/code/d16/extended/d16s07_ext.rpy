@@ -28,7 +28,7 @@ translate spanish d16s07_ext_3ce1c492:
 translate spanish d16s07_ext_0eee3cb3:
 
     # "*Sounds of shuffling*"
-    "*Sonidos de barajar*"
+    "*Sonidos arrastrando los pies*"
 
 # game/code/d16/extended/d16s07_ext.rpy:74
 translate spanish d16s07_ext_09b2beec:
@@ -436,7 +436,7 @@ translate spanish d16s07_ext_81c2725d:
 translate spanish d16s07_ext_47716764:
 
     # jf "I was going to ask a photographer friend of mine to come over to take those pics. I could give you a little show..."
-    jf "Iba a pedirle a un amigo fotógrafo que viniera a tomar esas fotos. Podría darte un pequeño espectáculo..."
+    jf "Iba a pedirle a una amiga fotógrafa que viniera a tomar esas fotos. Podría darte un pequeño espectáculo..."
 
 # game/code/d16/extended/d16s07_ext.rpy:287
 translate spanish d16s07_ext_c315f7ad_1:
@@ -520,7 +520,7 @@ translate spanish d16s07_ext_1e9d3770:
 translate spanish d16s07_ext_d07da4be:
 
     # jf "Great, okay, can you come over to my dorm real quick?"
-    jf "Genial, está bien, ¿puedes venir a mi dormitorio muy rápido?"
+    jf "Genial, está bien, ¿puedes venir a mi dormitorio rápidamente?"
 
 # game/code/d16/extended/d16s07_ext.rpy:330
 translate spanish d16s07_ext_7568b862:
@@ -532,7 +532,7 @@ translate spanish d16s07_ext_7568b862:
 translate spanish d16s07_ext_28cd10bc:
 
     # jf "Okay, 10 it is."
-    jf "De acuerdo, 10 será."
+    jf "De acuerdo, en 10 será."
 
 # game/code/d16/extended/d16s07_ext.rpy:334
 translate spanish d16s07_ext_be532628:
@@ -802,7 +802,7 @@ translate spanish d16s07_ext_2e2eaf2c:
 translate spanish d16s07_ext_13f3c3ef:
 
     # mc "Are you ready?"
-    mc "¿Estás listra?"
+    mc "¿Estás lista?"
 
 # game/code/d16/extended/d16s07_ext.rpy:541
 translate spanish d16s07_ext_d7cfd423:
