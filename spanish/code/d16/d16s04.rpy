@@ -1108,7 +1108,7 @@ translate spanish d16s04_b0435d59:
 translate spanish d16s04_62590352:
 
     # mct "\"Thing\"?"
-    mct "\"¿"Cosa\"?"
+    mct "¿\"Cosa\"?"
 
 # game/code/d16/d16s04.rpy:557
 translate spanish d16s04_d881593e:
