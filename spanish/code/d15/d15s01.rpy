@@ -1348,7 +1348,7 @@ translate spanish d15s01_face_fucking_de8dbe90:
 translate spanish d15s01_face_fucking_5bb621ef:
 
     # arj "Um, yes. I was just getting to that."
-    arj "í. Estaba llegando a eso."
+    arj "Um, sí. Estaba llegando a eso."
 
 # game/code/d15/d15s01.rpy:1116
 translate spanish d15s01_face_fucking_769474b6:
@@ -1486,7 +1486,7 @@ translate spanish d15s01_face_fucking_a4966a3e:
 translate spanish d15s01_face_fucking_03820e94:
 
     # lc "Start like this. {w}I want you to fuck her face."
-    lc "SComienza asi. {w}Quiero que le folles la cara."
+    lc "Comienza asi. {w}Quiero que le folles la cara."
 
 # game/code/d15/d15s01.rpy:1196
 translate spanish d15s01_face_fucking_b0fa508f:
@@ -1534,7 +1534,7 @@ translate spanish d15s01_face_fucking_124b75bc:
 translate spanish d15s01_face_fucking_b6d00219:
 
     # mc "OOoohhhFUCK!!! Oh FUCK!!! FUCK YEAH!!! FUCK!!!"
-    mc "¡¡¡¡OOoohhh MIERDA!!! ¡¡¡A la MIERDA!!! ¡¡¡JODER SÍ!!! ¡¡¡MIERDA!!!"
+    mc "¡¡¡¡OOoohhh MIERDA!!! ¡¡¡A LA MIERDA!!! ¡¡¡JODER SÍ!!! ¡¡¡MIERDA!!!"
 
 # game/code/d15/d15s01.rpy:1232
 translate spanish d15s01_face_fucking_a71fedb2:
@@ -1564,7 +1564,7 @@ translate spanish d15s01_face_fucking_099d46a8:
 translate spanish d15s01_face_fucking_72b001cc:
 
     # arj "Yesss please."
-    arj "Siiii por favor."
+    arj "Sí por favor."
 
 # game/code/d15/d15s01.rpy:1253
 translate spanish d15s01_face_fucking_08015ac2:
@@ -1780,7 +1780,7 @@ translate spanish d15s01_face_fucking_bc207532:
 translate spanish d15s01_face_fucking_333118f4:
 
     # lc "I'm proud of you. [mcname] is proud of you."
-    lc "Estoy orgullosa de ti. [mcname] está orgullosa de ti."
+    lc "Estoy orgullosa de ti. [mcname] está orgulloso de ti."
 
 # game/code/d15/d15s01.rpy:1358
 translate spanish d15s01_face_fucking_3a8992a2:
