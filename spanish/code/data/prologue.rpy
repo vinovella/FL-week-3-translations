@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-26 11:46
+# TODO: Translation updated at 2023-05-26 11:46
 
 translate spanish strings:
 
@@ -68,7 +68,7 @@ translate spanish strings:
 
     # game/code/data/prologue.rpy:16
     old "The Judge"
-    new "The Judge"
+    new "La Jueza"
 
     # game/code/data/prologue.rpy:45
     old "Enema"
@@ -76,19 +76,19 @@ translate spanish strings:
 
     # game/code/data/prologue.rpy:45
     old "Watersports"
-    new "Watersports"
+    new "Deportes acuáticos"
 
     # game/code/data/prologue.rpy:45
     old "Footfetish"
-    new "Footfetish"
+    new "Fetichismo de pies"
 
     # game/code/data/prologue.rpy:45
     old "Cumgarnish"
-    new "Cumgarnish"
+    new "Guarnición de corrida"
 
     # game/code/data/prologue.rpy:45
     old "Fisting"
-    new "Fisting"
+    new "Puño"
 
     # game/code/data/prologue.rpy:45
     old "Pegging"
@@ -96,17 +96,17 @@ translate spanish strings:
 
     # game/code/data/prologue.rpy:45
     old "Trans Content"
-    new "Trans Content"
+    new "Contenido Transexual"
 
     # game/code/data/prologue.rpy:79
     old "dog"
-    new "dog"
+    new "perro"
 
     # game/code/data/prologue.rpy:79
     old "cuddle"
-    new "cuddle"
+    new "abrazar"
 
     # game/code/data/prologue.rpy:79
     old "adult magazines"
-    new "adult magazines"
+    new "Revistas para adultos"
 
