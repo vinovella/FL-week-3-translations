@@ -16,7 +16,7 @@ translate spanish d17s05_0b57b561:
 translate spanish d17s05_b8336e35:
 
     # mc "Mm, that voice is honey to my ears."
-    mc ""Mm, esa voz es miel para mis oídos."
+    mc "Mm, esa voz es miel para mis oídos."
 
 # game/code/d17/d17s05.rpy:46
 translate spanish d17s05_4f33068e:

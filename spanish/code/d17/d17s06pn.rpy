@@ -328,7 +328,7 @@ translate spanish d17s06pn_bdc8a229:
 translate spanish d17s06pn_b92ef7d9:
 
     # mc "I'm not. Why?"
-    mc ""Yo no. ¿Por qué?"
+    mc "Yo no. ¿Por qué?"
 
 # game/code/d17/d17s06pn.rpy:245
 translate spanish d17s06pn_7373224c:

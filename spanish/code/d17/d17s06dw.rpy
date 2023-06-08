@@ -826,7 +826,7 @@ translate spanish d17s06dw_clown_room_ff373efe:
 translate spanish d17s06dw_clown_room_d051fb6f:
 
     # sb "You're one to talk."
-    sb ""Eres uno para hablar."
+    sb "Eres uno para hablar."
 
 # game/code/d17/d17s06dw.rpy:567
 translate spanish d17s06dw_clown_room_5e9487ab:

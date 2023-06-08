@@ -352,7 +352,7 @@ translate spanish d17s05ms_918bef5e:
 translate spanish d17s05ms_30df9cf2:
 
     # mh "Well, the game starts by picking the most recent person that went uh...\"potty.\""
-    mh "Bueno, el juego comienza eligiendo a la persona más reciente que haya ido... \" al baño. \"
+    mh "Bueno, el juego comienza eligiendo a la persona más reciente que haya ido... \"al baño.\""
 
 # game/code/d17/d17s05ms.rpy:195
 translate spanish d17s05ms_947f8759:

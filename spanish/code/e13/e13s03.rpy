@@ -34,7 +34,7 @@ translate spanish e13s03_d6d7ffb9:
 translate spanish e13s03_d464a456:
 
     # nk "{i}Yep{/i}. She's coming."
-    nk "i}Sí {/i}. Ella viene."
+    nk "{i}Sí{/i}. Ella viene."
 
 # game/code/e13/e13s03.rpy:49
 translate spanish e13s03_bce47427:
@@ -83,4 +83,3 @@ translate spanish strings:
     # game/code/e13/e13s03.rpy:6
     old "A month later"
     new "Un mes después"
-

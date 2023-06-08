@@ -442,7 +442,7 @@ translate spanish d17s01_7d7f23fd:
 translate spanish d17s01_534ceec3:
 
     # mc "Almost priceless.{w} You want a kidney?"
-    mc Casi no tiene precio. {w} ¿Quieres un riñón?"
+    mc "Casi no tiene precio. {w} ¿Quieres un riñón?"
 
 # game/code/d17/d17s01.rpy:278
 translate spanish d17s01_81d96176:
@@ -550,7 +550,7 @@ translate spanish d17s01_de5ce96e_1:
 translate spanish d17s01_14b99a8d:
 
     # mc "But, you've played with toys.{w} It is only a matter of time before we do it."
-    mc ""Pero, has jugado con juguetes. {w} Es solo cuestión de tiempo antes de que lo hagamos."
+    mc "Pero, has jugado con juguetes. {w} Es solo cuestión de tiempo antes de que lo hagamos."
 
 # game/code/d17/d17s01.rpy:330
 translate spanish d17s01_a2411c66:
@@ -814,7 +814,7 @@ translate spanish d17s01_ntr_e7bcff5b:
 translate spanish d17s01_ntr_cf40f1c1:
 
     # lc "What do you say, love?{w} Do you want to have a go at her back door?"
-    lc ""¿Qué dices, amor? {w} ¿Quieres ir a su puerta trasera?"
+    lc "¿Qué dices, amor? {w} ¿Quieres ir a su puerta trasera?"
 
 # game/code/d17/d17s01.rpy:478
 translate spanish d17s01_ntr_4ca905f6:
@@ -928,7 +928,7 @@ translate spanish d17s01_lick_kitty_74fc6761:
 translate spanish d17s01_lick_kitty_9f958a6c:
 
     # lc "Get rid of your clothes and move over here."
-    lc Deshazte de tu ropa y ven aquí."
+    lc "Deshazte de tu ropa y ven aquí."
 
 # game/code/d17/d17s01.rpy:608
 translate spanish d17s01_lick_kitty_7f5a1b93:
@@ -1192,7 +1192,7 @@ translate spanish d17s01_anal_sex_58fef8e5:
 translate spanish d17s01_anal_sex_5b328454:
 
     # arj "Oh, fuck me."
-    arj Fóllame."
+    arj "Fóllame."
 
 # game/code/d17/d17s01.rpy:781
 translate spanish d17s01_anal_sex_10bdbab7:
@@ -1330,7 +1330,7 @@ translate spanish d17s01_anal_sex_79359761:
 translate spanish d17s01_anal_sex_f3241ef0:
 
     # arj "Tell me, please"
-    arj "Dime por favor""
+    arj "Dime por favor"
 
 # game/code/d17/d17s01.rpy:856
 translate spanish d17s01_anal_sex_175d8c36:

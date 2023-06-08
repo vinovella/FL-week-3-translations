@@ -754,7 +754,7 @@ translate spanish d17s06dd_973f4fd6:
 translate spanish d17s06dd_2bf98d84:
 
     # mc "I love the way you think."
-    mc ""Me encanta tu forma de pensar."
+    mc "Me encanta tu forma de pensar."
 
 # game/code/d17/d17s06dd.rpy:430
 translate spanish d17s06dd_e1425c9e:

@@ -64,7 +64,7 @@ translate spanish d17s05mh_f54178c1:
 translate spanish d17s05mh_8d9227bf:
 
     # mh "I've done some naughty things thinking about you."
-    mh ""He hecho algunas cosas pervertidas pensando en ti."
+    mh "He hecho algunas cosas pervertidas pensando en ti."
 
 # game/code/d17/d17s05mh.rpy:125
 translate spanish d17s05mh_9cac6dd8:

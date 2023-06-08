@@ -184,7 +184,7 @@ translate spanish replay_d17s02_f95fb9ae:
 translate spanish replay_d17s02_c76dbc9c:
 
     # mc "I'm not really sure about that..."
-    mc ""No estoy muy seguro de eso..."
+    mc "No estoy muy seguro de eso..."
 
 # game/code/d17/d17s02.rpy:161
 translate spanish replay_d17s02_04a7c106:
@@ -208,7 +208,7 @@ translate spanish replay_d17s02_751f8ae9:
 translate spanish replay_d17s02_4f3474da:
 
     # vw "Any time. Just let me know when and where and I'll be there."
-    vw ""En cualquier momento. Solo avísame cuándo y dónde y allí estaré."
+    vw "En cualquier momento. Solo avísame cuándo y dónde y allí estaré."
 
 # game/code/d17/d17s02.rpy:169
 translate spanish replay_d17s02_7158eb1c:
@@ -694,7 +694,7 @@ translate spanish d17s02_vw_fucking_fdad1b11:
 translate spanish d17s02_vw_fucking_b461b547:
 
     # mc "Did you get caught?"
-    mc ¿Te atraparon?"
+    mc "¿Te atraparon?"
 
 # game/code/d17/d17s02.rpy:545
 translate spanish d17s02_vw_fucking_ca9751f7:

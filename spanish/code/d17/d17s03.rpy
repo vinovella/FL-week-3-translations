@@ -28,7 +28,7 @@ translate spanish d17s03_169b0a47:
 translate spanish d17s03_aa151550:
 
     # mc "Oh? Why didn't she just tell me where to meet her?"
-    mc ""¿Oh? ¿Por qué no me dijo dónde encontrarla?"
+    mc "¿Oh? ¿Por qué no me dijo dónde encontrarla?"
 
 # game/code/d17/d17s03.rpy:31
 translate spanish d17s03_ba060b17:
@@ -202,7 +202,7 @@ translate spanish d17s03_4951df19:
 translate spanish d17s03_16c7e2c3:
 
     # mc "Aren't we?"
-    mc ¿No es así?"
+    mc "¿No es así?"
 
 # game/code/d17/d17s03.rpy:119
 translate spanish d17s03_d6b60c55:
@@ -370,7 +370,7 @@ translate spanish d17s03_c5b6561f:
 translate spanish d17s03_627afdbd:
 
     # ir "Not quite. Our fathers met in the Maternity Ward. My dad brought cigars."
-    ir ""No exactamente. Nuestros padres se conocieron en la Sala de Maternidad. Mi papá trajo puros."
+    ir "No exactamente. Nuestros padres se conocieron en la Sala de Maternidad. Mi papá trajo puros."
 
 # game/code/d17/d17s03.rpy:200
 translate spanish d17s03_9bb2efdf:

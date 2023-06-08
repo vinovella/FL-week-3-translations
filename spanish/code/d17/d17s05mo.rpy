@@ -10,7 +10,7 @@ translate spanish d17s05mo_7c42b679:
 translate spanish d17s05mo_080365ff:
 
     # mc "Didn't know you were into bikes."
-    mc ""No sabía que te gustaban las bicicletas."
+    mc "No sabía que te gustaban las bicicletas."
 
 # game/code/d17/d17s05mo.rpy:17
 translate spanish d17s05mo_4b634951:
@@ -142,7 +142,7 @@ translate spanish d17s05mo_3ae02f54:
 translate spanish d17s05mo_575d3270:
 
     # mc "So, how's it been? Been a bit since last time."
-    mc ""Entonces, ¿cómo ha sido? Ha pasado algo de tiempo desde la última vez."
+    mc "Entonces, ¿cómo ha sido? Ha pasado algo de tiempo desde la última vez."
 
 # game/code/d17/d17s05mo.rpy:102
 translate spanish d17s05mo_7a470331:
@@ -370,7 +370,7 @@ translate spanish d17s05mo_918bef5e:
 translate spanish d17s05mo_30df9cf2:
 
     # mh "Well, the game starts by picking the most recent person that went uh...\"potty.\""
-    mh "Bueno, el juego comienza eligiendo a la persona más reciente que haya ido... \" al baño\.""
+    mh "Bueno, el juego comienza eligiendo a la persona más reciente que haya ido... \"al baño.\""
 
 # game/code/d17/d17s05mo.rpy:201
 translate spanish d17s05mo_77362314:

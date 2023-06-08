@@ -742,7 +742,7 @@ translate spanish replay_d17s08_d64a2696:
 translate spanish replay_d17s08_8678e9c7:
 
     # mc "How did you get so good at that?"
-    mc "¿Cómo te hiciste tan buena en eso?""
+    mc "¿Cómo te hiciste tan buena en eso?"
 
 # game/code/d17/d17s08.rpy:460
 translate spanish replay_d17s08_01f0c2ac:

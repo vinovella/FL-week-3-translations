@@ -964,7 +964,7 @@ translate spanish strings:
 
     # renpy/common/00gallery.rpy:649
     old "slideshow"
-diapositivas
+    new "diapositivas"
     # renpy/common/00gallery.rpy:650
     old "return"
     new "volver"

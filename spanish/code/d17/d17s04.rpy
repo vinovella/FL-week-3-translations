@@ -922,7 +922,7 @@ translate spanish d17s04_anal_soft_16cadc1c:
 translate spanish d17s04_anal_soft_e273fedf:
 
     # mct "It's what she wanted, but I can't help wanting to say something."
-    mct ""Es lo que ella quería, pero no puedo evitar querer decir algo."
+    mct "Es lo que ella quería, pero no puedo evitar querer decir algo."
 
 # game/code/d17/d17s04.rpy:596
 translate spanish d17s04_anal_soft_d264ff49:
