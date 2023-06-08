@@ -622,7 +622,7 @@ translate spanish d15s04dd_022767a8:
 translate spanish d15s04dd_0b93d9c7:
 
     # mc "No. It was Fetish Locator."
-    mc "No. Fue el localizador de fetiches."
+    mc "No. Fue el Localizador de Fetiches."
 
 # game/code/d15/d15s04dd.rpy:369
 translate spanish d15s04dd_5a06d892:

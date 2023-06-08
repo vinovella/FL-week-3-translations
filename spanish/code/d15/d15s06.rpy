@@ -1054,7 +1054,7 @@ translate spanish d15s06_pillowtalk_4d333ed5:
 translate spanish d15s06_pillowtalk_c2ee9bda:
 
     # mh "*Fake gasp* The sneaky minx is trying to steal my man from under me!"
-    mh "*Jadeo falso* La astuta descarada está tratando de robarme a mi hombre!"
+    mh "*Jadeo falso* ¡La astuta descarada está tratando de robarme a mi hombre!"
 
 # game/code/d15/d15s06.rpy:894
 translate spanish d15s06_pillowtalk_290938c8:
@@ -1198,7 +1198,7 @@ translate spanish d15s06_pillowtalk_b761493a:
 translate spanish d15s06_pillowtalk_584cdb21:
 
     # mc "And made by the amazing Melissa Harris of all people? I really am a lucky man."
-    mc "¿Y hecho por la increíble Melissa Harris de todas las personas? Realmente soy un hombre afortunado."
+    mc "¿Y hecho por la increíble Melissa Harris de entre todas las personas?. Realmente soy un hombre afortunado."
 
 # game/code/d15/d15s06.rpy:968
 translate spanish d15s06_pillowtalk_dc61be70:
@@ -1594,7 +1594,7 @@ translate spanish d15s06_end_e492dd52:
 translate spanish d15s06_end_d4bab8be:
 
     # op "Wait, are {i}you{/i}—?"
-    op "Espera, ¿eres {i}tú{/i}—?"
+    op "Espera, ¿eres {i}tú{/i}?"
 
 # game/code/d15/d15s06.rpy:1226
 translate spanish d15s06_end_13a8b996:

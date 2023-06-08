@@ -106,7 +106,7 @@ translate spanish d15s03_hr_theft_fc318384:
 translate spanish d15s03_hr_theft_c5e43ef3:
 
     # mc "Fucking combination locks. I guess we could ask around if someone has been standing outside our room a lot recently."
-    mc "Malditas cerraduras de combinación. Supongo que podríamos preguntar si alguien ha estado parado afuera de nuestra habitación mucho recientemente."
+    mc "Malditas cerraduras de combinación. Supongo que podríamos preguntar si alguien ha estado parado afuera de nuestra habitación recientemente."
 
 # game/code/d15/d15s03.rpy:84
 translate spanish d15s03_hr_theft_968572af:
@@ -124,7 +124,7 @@ translate spanish d15s03_hr_theft_b20eb1fa:
 translate spanish d15s03_hr_theft_1c036d0e:
 
     # pb "It's just the other day... maybe a week or two ago? You were jerking off at my desk?"
-    pb "Es solo el otro día... ¿tal vez hace una semana o dos? ¿Te estabas masturbando en mi escritorio?"
+    pb "Es solo que el otro día... ¿tal vez hace una semana o dos? ¿Te estabas masturbando en mi escritorio?"
 
 # game/code/d15/d15s03.rpy:93
 translate spanish d15s03_hr_theft_c1720aaf:
@@ -160,7 +160,7 @@ translate spanish d15s03_hr_theft_ef8ba214:
 translate spanish d15s03_hr_theft_d605adfd:
 
     # pb "Thanks. So, anyone you can think of that would have taken it?"
-    pb "Gracias. Entonces, ¿alguien que se te ocurra que lo habría tomado?"
+    pb "Gracias. Entonces, ¿alguien que se te ocurra que lo hubiera tomado?"
 
 # game/code/d15/d15s03.rpy:110
 translate spanish d15s03_hr_theft_143f9b57:
@@ -280,7 +280,7 @@ translate spanish d15s03_hr_theft_1bccd003:
 translate spanish d15s03_hr_theft_bcf6fbd6:
 
     # pb "Ha! You'd love it, dude. {w}I'm the only guy in class."
-    pb "¡Ja! Te encantaría, tío. {w}Soy el único chico en la clase."
+    pb "¡Ja! Te encantaría, amigo. {w}Soy el único chico en la clase."
 
 # game/code/d15/d15s03.rpy:173
 translate spanish d15s03_middle_7953baa3:
@@ -376,7 +376,7 @@ translate spanish d15s03_middle_99811563:
 translate spanish d15s03_middle_38219b40:
 
     # pb "Jack shit. {w}It claims that it will share my pics with my parents or something, but I don't care about that."
-    pb "Jack mierda. {w}Afirma que compartirá mis fotos con mis padres o algo así, pero eso no me importa."
+    pb "Mierda. {w}Afirma que compartirá mis fotos con mis padres o algo así, pero eso no me importa."
 
 # game/code/d15/d15s03.rpy:218
 translate spanish d15s03_middle_a31340dd:
@@ -412,7 +412,7 @@ translate spanish d15s03_middle_b85746b1:
 translate spanish d15s03_middle_65401d68:
 
     # pb "I, uh... {w} I heard some rumors through the grapevine. Any truth to them?"
-    pb "Yo, eh... {w} Escuché algunos rumores a través de la vid. ¿Alguna verdad para ellos?"
+    pb "Yo, eh... {w}  He oído algunos rumores. ¿Hay algo de cierto en ellos?"
 
 # game/code/d15/d15s03.rpy:236
 translate spanish d15s03_middle_7f4c9957:
@@ -430,7 +430,7 @@ translate spanish d15s03_middle_b689bae8:
 translate spanish d15s03_middle_633c9d5b:
 
     # mc "Oh, yeah. Fuck, I should have told you."
-    mc "Oh sí. Joder, debería habértelo dicho.."
+    mc "Oh sí. Joder, debería habértelo dicho."
 
 # game/code/d15/d15s03.rpy:245
 translate spanish d15s03_middle_84e288fc:
@@ -478,7 +478,7 @@ translate spanish d15s03_middle_f8ff5a4f:
 translate spanish d15s03_middle_ac904af0:
 
     # mc "That I'm screwing every woman I can get my hands on?"
-    mc "¿Que me estoy tirando a todas las mujeres que puedo tener en mis manos?"
+    mc "¿Que me estoy follando a todas las mujeres que puedo tener en mis manos?"
 
 # game/code/d15/d15s03.rpy:267
 translate spanish d15s03_middle_4c75576a:
@@ -490,7 +490,7 @@ translate spanish d15s03_middle_4c75576a:
 translate spanish d15s03_middle_ae37c7f0:
 
     # mc "Yep. She's cool with it."
-    mc "Sí. Ella está bien con eso.."
+    mc "Sí. Ella está bien con eso."
 
 # game/code/d15/d15s03.rpy:273
 translate spanish d15s03_middle_253448c2:
@@ -532,7 +532,7 @@ translate spanish d15s03_dw_setup_2c647dc8:
 translate spanish d15s03_dw_setup_efb8aab1:
 
     # pb "Does she know about the other women you've been fucking?"
-    pb "¿Ella sabe acerca de las otras mujeres que has estado follando?"
+    pb "¿Ella sabe acerca de las otras mujeres que te has estado follando?"
 
 # game/code/d15/d15s03.rpy:302
 translate spanish d15s03_dw_setup_7f02325f:
@@ -562,7 +562,7 @@ translate spanish d15s03_dw_setup_17d3c737:
 translate spanish d15s03_dw_setup_3a1fc5bb:
 
     # pb "Dahlia saw that?"
-    pb "¿Dalia vio eso?"
+    pb "¿Dahlia vio eso?"
 
 # game/code/d15/d15s03.rpy:315
 translate spanish d15s03_dw_setup_a34f14d1:
@@ -580,7 +580,7 @@ translate spanish d15s03_dw_setup_3e311433:
 translate spanish d15s03_dw_setup_e2abdc52:
 
     # pb "Yeah... {w}That girl is damaged goods, ya'know?"
-    pb "Sí... {w}Esa chica es mercancía dañada, ¿sabes?"
+    pb "Sí... {w}Esa chica es mercancía dañada, ¿sabes?."
 
 # game/code/d15/d15s03.rpy:322
 translate spanish d15s03_dw_setup_7e609263:
@@ -604,7 +604,7 @@ translate spanish d15s03_dw_setup_a67a551a:
 translate spanish d15s03_dw_setup_4d49cb6c:
 
     # pb "She's not a dom. She's not a sub. She's not a switch."
-    pb "No es una dom. No es una sumisa. Ella no es una carterista."
+    pb "No es una dominatrix. No es una sumisa. Ella no es una carterista."
 
 # game/code/d15/d15s03.rpy:334
 translate spanish d15s03_dw_setup_3d996037:

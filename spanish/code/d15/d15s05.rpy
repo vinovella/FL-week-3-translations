@@ -118,7 +118,7 @@ translate spanish d15s05_7b674dc8:
 translate spanish d15s05_9a47c11d:
 
     # mk "Pissed? {w}Do I sound upset to you?"
-    mk "¿Molesta? {w}¿Sueno molesta para ti?"
+    mk "¿Enojada? {w}¿Sueno enojada para ti?"
 
 # game/code/d15/d15s05.rpy:119
 translate spanish d15s05_6b4efacf:
@@ -190,7 +190,7 @@ translate spanish d15s05_gtfo_fca52711:
 translate spanish d15s05_help_edc75021:
 
     # mc "What the hell is wrong with you?"
-    mc "Qué demonios te pasa?"
+    mc "Q¿ué demonios te pasa?"
 
 # game/code/d15/d15s05.rpy:179
 translate spanish d15s05_help_aaf727b0:
@@ -292,13 +292,13 @@ translate spanish d15s05_help_3f5a3202:
 translate spanish d15s05_help_45915287:
 
     # mk "Sir, Master, [mcname]?"
-    mk "Señor, Maestro, [mcname]?"
+    mk "Señor, Maestro, ¿[mcname]?"
 
 # game/code/d15/d15s05.rpy:223
 translate spanish d15s05_help_b95ce373:
 
     # mc "Are you ready to go?"
-    mc "¿Estas lista para ir?"
+    mc "¿Estás lista para ir?"
 
 # game/code/d15/d15s05.rpy:228
 translate spanish d15s05_help_d04fa45d:
@@ -682,7 +682,7 @@ translate spanish d15s05_pussyfuck_ca5fcf04:
 translate spanish d15s05_assfuck_b5b3e59f:
 
     # mk "What is your dirtiest fantasy?"
-    mk "¿Cuál es tu fantasía más sucia?"
+    mk "¿Cuál es tú fantasía más sucia?"
 
 # game/code/d15/d15s05.rpy:501
 translate spanish d15s05_assfuck_df190e85:
@@ -712,7 +712,7 @@ translate spanish d15s05_assfuck_4d823b88:
 translate spanish d15s05_assfuck_d3458aec:
 
     # mc "Go ahed, fill your dirtbox with that nasty dick."
-    mc "Vaya, llene su basura con esa desagradable polla."
+    mc "Vaya, llene su caja de mierda con esa desagradable polla."
 
 # game/code/d15/d15s05.rpy:515
 translate spanish d15s05_assfuck_43d1b4ce:
@@ -952,13 +952,13 @@ translate spanish d15s05_rimmed_eb557405:
 translate spanish d15s05_rimmed_eb7e7a53:
 
     # mk "Done, sir."
-    mk "Listo, señor."
+    mk "Lista, señor."
 
 # game/code/d15/d15s05.rpy:641
 translate spanish d15s05_rimmed_8f86db9d:
 
     # mct "Now I just need to get into position."
-    mct "Ahora sólo necesito ponerme en posición.."
+    mct "Ahora sólo necesito ponerme en posición."
 
 # game/code/d15/d15s05.rpy:646
 translate spanish d15s05_rimmed_5281edfc:
@@ -1042,7 +1042,7 @@ translate spanish d15s05_rimmed_b85b56b0:
 translate spanish d15s05_rimmed_ae71db13:
 
     # mk "I'm about to cum, sir! So is he!!"
-    mk "¡Estoy a punto de correrme, señor! ¡¡Él también!"
+    mk "¡Estoy a punto de correrme, señor! ¡¡Él también!!"
 
 # game/code/d15/d15s05.rpy:717
 translate spanish d15s05_rimmed_43af933d:
@@ -1084,7 +1084,7 @@ translate spanish d15s05_rimmed_b3f40e74:
 translate spanish d15s05_rimmed_9e1caad5:
 
     # mk "Sir?!"
-    mk "¿Señor?!"
+    mk "¡¿Señor?!"
 
 # game/code/d15/d15s05.rpy:735
 translate spanish d15s05_rimmed_842dd551:
@@ -1216,7 +1216,7 @@ translate spanish d15s05_end_bc3e31ec:
 translate spanish d15s05_end_61009b7e:
 
     # mc "You don't need them anymore."
-    mc "Ya no las necesitas."
+    mc "Ya no la necesitas."
 
 # game/code/d15/d15s05.rpy:831
 translate spanish d15s05_end_25f18ece:
@@ -1228,7 +1228,7 @@ translate spanish d15s05_end_25f18ece:
 translate spanish d15s05_end_3ceeab58:
 
     # mc "Don't worry - I'll leave them somewhere you'll never find them."
-    mc "No te preocupes, las dejaré en algún lugar donde nunca las encontrarás."
+    mc "No te preocupes, la dejaré en algún lugar donde nunca la encontrarás."
 
 # game/code/d15/d15s05.rpy:835
 translate spanish d15s05_end_7e0c057e:
@@ -1246,7 +1246,7 @@ translate spanish d15s05_end_81c83e8c:
 translate spanish d15s05_end_e99ffdee:
 
     # mc "Unless you ask me not to take them."
-    mc "A menos que me pidas que no las tome."
+    mc "A menos que me pidas que no la tome."
 
 # game/code/d15/d15s05.rpy:844
 translate spanish d15s05_end_0845611c:
@@ -1394,7 +1394,7 @@ translate spanish strings:
 
     # game/code/d15/d15s05.rpy:129
     old "She needs help. I'm getting her out of here"
-    new "Ella necesita ayuda. la voy a sacar de aqui"
+    new "Ella necesita ayuda. la voy a sacar de aquí"
 
     # game/code/d15/d15s05.rpy:129
     old "Alright. I'm happy to watch this"
@@ -1402,7 +1402,7 @@ translate spanish strings:
 
     # game/code/d15/d15s05.rpy:266
     old "Order Maria to:"
-    new "Ordena a María a:"
+    new "Ordena a Maria que:"
 
     # game/code/d15/d15s05.rpy:266
     old "Suck That Cock"

@@ -4,7 +4,7 @@
 translate spanish d15s04_a13bdd91:
 
     # mct "Hm. I got some time to kill. Wonder what I should do?"
-    mct "Hm. Tengo algo de tiempo para matar. ¿Me pregunto qué debo hacer?"
+    mct "Hm. Tengo algo de tiempo para matar. Me pregunto, ¿qué debo hacer?"
 
 # game/code/d15/d15s04.rpy:32
 translate spanish d15s04_9f527ffc:
@@ -94,7 +94,7 @@ translate spanish d15s04_5d685f7b:
 translate spanish d15s04_eb5e0ed9:
 
     # mct "If those two don't figure out whatever the hell their problem is, it's all gonna blow up—and I'm gonna be smack-dab in the middle of it."
-    mct "Si esos dos no descubren cuál diablos es su problema, todo explotará, y yo estaré justo en el medio."
+    mct "Si esas dos no descubren cuál diablos es su problema, todo explotará, y yo estaré justo en el medio."
 
 # game/code/d15/d15s04.rpy:83
 translate spanish d15s04_058f65b0:
