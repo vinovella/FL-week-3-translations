@@ -8,7 +8,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Unlock the hidden 19th ending"
-    new "Unlock the hidden 19th ending"
+    new "Desbloquea el final oculto 19"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "02. GG EZ Videogame"
