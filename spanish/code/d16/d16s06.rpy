@@ -538,13 +538,13 @@ translate spanish d16s06_141d361e:
 translate spanish d16s06_260ac08c:
 
     # mc "Man, you got a real loyal bunch."
-    mc "Hombre, tienes un grupo realmente leal."
+    mc "Amiga, tienes un grupo realmente leal."
 
 # game/code/d16/d16s06.rpy:356
 translate spanish d16s06_e8f9fa3a:
 
     # aw "I really do."
-    aw "Realmente lo tengo"
+    aw "Realmente lo tengo."
 
 # game/code/d16/d16s06.rpy:364
 translate spanish d16s06_f6685c9a:
