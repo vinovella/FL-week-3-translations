@@ -52,7 +52,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't remove cock cage before this scene"
-    new "No te quites la jaula del pene antes de esta escena."
+    new "No quites la jaula del pene antes de esta escena."
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Jessie & Kanya"
