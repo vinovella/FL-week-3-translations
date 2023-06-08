@@ -310,7 +310,7 @@ translate spanish d16s07_ext_66910a6c:
 translate spanish d16s07_ext_e60a81d1:
 
     # mc "And my own pickle is out of order until I get out of said pickle."
-    mc "Y mi propio pepinillo está fuera de lugar hasta que salga de dicho pepinillo."
+    mc "Y mi propio pepinillo está fuera de servicio hasta que salga de dicho pepinillo."
 
 # game/code/d16/extended/d16s07_ext.rpy:219
 translate spanish d16s07_ext_278ee114:
@@ -352,7 +352,7 @@ translate spanish d16s07_ext_193fe6bc:
 translate spanish d16s07_ext_fd51be2b:
 
     # jf "You don't have to go just yet though. We could hang out a bit. I was going to ask a photographer friend of mine to come over to take those pics. I could give you a little show..."
-    jf "Aunque no tienes que irte todavía. Podríamos pasar un rato. Iba a pedirle a un amigo fotógrafo que viniera a tomar esas fotos. Podría darte un pequeño espectáculo..."
+    jf "Aunque no tienes que irte todavía. Podríamos pasar un rato. Iba a pedirle a una amiga fotógrafa que viniera a tomar esas fotos. Podría darte un pequeño espectáculo..."
 
 # game/code/d16/extended/d16s07_ext.rpy:236
 translate spanish d16s07_ext_c315f7ad:
