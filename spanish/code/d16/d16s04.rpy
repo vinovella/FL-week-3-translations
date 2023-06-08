@@ -118,7 +118,7 @@ translate spanish d16s04_8b2b4c89:
 translate spanish d16s04_d593c6be:
 
     # mc "So how is it then?"
-    mc "Entonces, ¿cómo es entonces?"
+    mc "Así que, ¿cómo es entonces?"
 
 # game/code/d16/d16s04.rpy:88
 translate spanish d16s04_5961d47e:
@@ -724,7 +724,7 @@ translate spanish d16s04_c1b16753:
 translate spanish d16s04_1526c621:
 
     # kb "It seems pretty interesting, said something about how you can restore daily streaks with it. Oh, you get cool badges and profile customization stuff. Discounts in the shop. Higher priority on any ads you post. Stuff like that."
-    kb "Parece bastante interesante, dijo algo sobre cómo puedes restaurar las rachas diarias con él. Oh, obtienes insignias geniales y cosas de personalización de perfil. Descuentos en la tienda. Mayor prioridad en cualquier anuncio que publique. Cosas como esas."
+    kb "Parece bastante interesante, dijo algo sobre cómo puedes restaurar las rachas diarias con él. Y, obtienes insignias geniales y cosas de personalización de perfil. Descuentos en la tienda. Mayor prioridad en cualquier anuncio que publique. Cosas como esas."
 
 # game/code/d16/d16s04.rpy:344
 translate spanish d16s04_5693a819:
@@ -1072,7 +1072,7 @@ translate spanish d16s04_ba765917:
 translate spanish d16s04_1d0b4138:
 
     # mct "Now where the hell do I find {i}{b}three{/b}{/i} Gold Stars...?"
-    mct "Ahora, ¿dónde diablos encuentro {i}{b}tres{/b}{/i} estrellas doradas...?"
+    mct "Ahora, ¿dónde diablos encuentro {i}{b}tres{/b}{/i} estrellas doradas?"
 
 # game/code/d16/d16s04.rpy:545
 translate spanish d16s04_86ded4ec:
@@ -1108,7 +1108,7 @@ translate spanish d16s04_b0435d59:
 translate spanish d16s04_62590352:
 
     # mct "\"Thing\"?"
-    mct "¿\"Cosa\"?"
+    mct "\"¿Cosa\"?"
 
 # game/code/d16/d16s04.rpy:557
 translate spanish d16s04_d881593e:
