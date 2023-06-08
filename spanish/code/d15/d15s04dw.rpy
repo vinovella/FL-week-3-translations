@@ -88,7 +88,7 @@ translate spanish d15s04dw_5a0d161f:
 translate spanish d15s04dw_f612b808:
 
     # sb "What is this problem you needed me to-?"
-    sb "¿Cuál es este problema que necesitabas que yo-?"
+    sb "¿Cuál es este problema que necesitabas que yo..."
 
 # game/code/d15/d15s04dw.rpy:76
 translate spanish d15s04dw_bee4b226:
@@ -106,7 +106,7 @@ translate spanish d15s04dw_d9331322:
 translate spanish d15s04dw_5e4d9ef7:
 
     # mc "Woah, woah, woah. I know there's some bad blood between you-"
-    mc "Guau, guau, guau. Sé que hay algo de mala sangre entre ustedes..."
+    mc "Woah, Woah, Woah. Sé que hay algo de mala sangre entre ustedes..."
 
 # game/code/d15/d15s04dw.rpy:85
 translate spanish d15s04dw_fd0b7c7b:
@@ -238,7 +238,7 @@ translate spanish d15s04dw_66fdfbd9:
 translate spanish d15s04dw_57521fe8:
 
     # dw "No?! You want to disobey me?! HERE?! NOW?! IN FRONT OF THIS SLUT?!!!"
-    dw "¡¿No?! ¡¿Quieres desobedecerme?! ¡¿AQUÍ?! ¡¿AHORA?! ¿DELANTE DE ESTA ZORRA?!!!"
+    dw "¡¿No?! ¡¿Quieres desobedecerme?! ¡¿AQUÍ?! ¡¿AHORA?! ¡¡¡¿DELANTE DE ESTA ZORRA?!!!"
 
 # game/code/d15/d15s04dw.rpy:148
 translate spanish d15s04dw_fe07d8b6:
@@ -262,7 +262,7 @@ translate spanish d15s04dw_ce0f48fb:
 translate spanish d15s04dw_f883159d:
 
     # dw "What. The. Fuck?"
-    dw "Qué. El. ¿Mierda?"
+    dw "Qué. Ël. ¿Mierda?"
 
 # game/code/d15/d15s04dw.rpy:172
 translate spanish d15s04dw_c52b165d:
@@ -292,13 +292,13 @@ translate spanish d15s04dw_2f2321d8:
 translate spanish d15s04dw_6df6e5cb:
 
     # dw "WHO HAS IT???!!!"
-    dw "¡¡¡¿¿¿QUIÉN LO TIENE???!!!"
+    dw "¡¡¡¿¿¿QUIÉN LA TIENE???!!!"
 
 # game/code/d15/d15s04dw.rpy:186
 translate spanish d15s04dw_28432434:
 
     # mc "It's electronic. {w}Fetish Locator-"
-    mc "Es eléctronico {w}Localizador de fetiches-"
+    mc "Es eléctronico {w} El Localizador de Fetiches-"
 
 # game/code/d15/d15s04dw.rpy:189
 translate spanish d15s04dw_5377696a:
@@ -352,7 +352,7 @@ translate spanish d15s04dw_258ee986:
 translate spanish d15s04dw_d93f66dd:
 
     # dw "Grab your ankles."
-    dw "Grab your ankles."
+    dw "Agarra sus tobillos."
 
 # game/code/d15/d15s04dw.rpy:216
 translate spanish d15s04dw_557a9e28:
@@ -532,7 +532,7 @@ translate spanish d15s04dw_56fd1604:
 translate spanish d15s04dw_170f1148:
 
     # sb "He does. Are you going to spank his ass?"
-    sb "Lo tiene. ¿Vas a darle una nalgada en el culo?"
+    sb "La tiene. ¿Vas a darle una nalgada en el culo?"
 
 # game/code/d15/d15s04dw.rpy:335
 translate spanish d15s04dw_eb3e097b:
@@ -568,7 +568,7 @@ translate spanish d15s04dw_b5d28d4d:
 translate spanish d15s04dw_93abcbdd:
 
     # dw "What?!"
-    dw "¿Qué?!"
+    dw "¡¿Qué?!"
 
 # game/code/d15/d15s04dw.rpy:361
 translate spanish d15s04dw_47be7110:
@@ -646,7 +646,7 @@ translate spanish d15s04dw_1155f7ba:
 translate spanish d15s04dw_c96a1955:
 
     # dw "I CAN'T {w}FUCKING {w}STAND {w}CHEATERS!!!"
-    dw "¡¡¡NO PUEDO {w}MIERDA {w}SOPORTAR {w}TRAMPAS!!!"
+    dw "¡¡¡NO PUEDO {w}MIERDA {w}SOPORTAR {w}LAS TRAMPOSAS!!!"
 
 # game/code/d15/d15s04dw.rpy:433
 translate spanish d15s04dw_f336fe9a:
@@ -688,13 +688,13 @@ translate spanish d15s04dw_335fbd4b:
 translate spanish d15s04dw_f3099e32:
 
     # sb "Because he fucked you over."
-    sb "Porque te jodió."
+    sb "Por que te folló."
 
 # game/code/d15/d15s04dw.rpy:457
 translate spanish d15s04dw_e047afb4:
 
     # dw "Not because...?"
-    dw "¿No porque...?"
+    dw "¿No porqué...?"
 
 # game/code/d15/d15s04dw.rpy:460
 translate spanish d15s04dw_ac2102c2:
@@ -748,7 +748,7 @@ translate spanish d15s04dw_ef235fde:
 translate spanish d15s04dw_88776cc3:
 
     # mc "It was a bet."
-    mc "Fue una apuesta"
+    mc "Fue una apuesta."
 
 # game/code/d15/d15s04dw.rpy:492
 translate spanish d15s04dw_04846234:
@@ -778,7 +778,7 @@ translate spanish d15s04dw_6ce329d5:
 translate spanish d15s04dw_69b87d6b:
 
     # dw "-a sex addict?"
-    dw "-una adicta al sexo?"
+    dw "¿una adicta al sexo?"
 
 # game/code/d15/d15s04dw.rpy:507
 translate spanish d15s04dw_9d05ae49:
@@ -982,7 +982,7 @@ translate spanish d15s04dw_d59efa93:
 translate spanish d15s04dw_1e901623:
 
     # sb "So, one of us fucks his mouth while the other fucks his ass, and then we switch?"
-    sb "Entonces, una de nosotras se folla la boca mientras que el otro se folla el culo, ¿y luego cambiamos?"
+    sb "Entonces, una de nosotras se folla la boca mientras que la otra se folla el culo, ¿y luego cambiamos?"
 
 # game/code/d15/d15s04dw.rpy:640
 translate spanish d15s04dw_c51a8805:
@@ -1024,7 +1024,7 @@ translate spanish d15s04dw_c3981c17:
 translate spanish d15s04dw_3969dcdb:
 
     # sb "Sure. We can catch up on old times."
-    sb "eguro. Podemos ponernos al día con los viejos tiempos."
+    sb "Seguro. Podemos ponernos al día con los viejos tiempos."
 
 # game/code/d15/d15s04dw.rpy:668
 translate spanish d15s04dw_28843389:
@@ -1066,7 +1066,7 @@ translate spanish strings:
 
     # game/code/d15/d15s04dw.rpy:527
     old "Take credit for reuniting them"
-    new "Take credit for reuniting them"
+    new "Llévate el mérito de haberlas reunido"
 
     # game/code/d15/d15s04dw.rpy:527
     old "Let the girls think it was entirely up to them"
