@@ -28,7 +28,7 @@ translate spanish e01s01_88129f56:
 translate spanish e01s01_89057943:
 
     # mc "You'd take practically anything as a compliment."
-    mc ""Tomarías prácticamente cualquier cosa como un cumplido."
+    mc "Tomarías prácticamente cualquier cosa como un cumplido."
 
 # game/code/e01/e01s01.rpy:248
 translate spanish e01s01_671eb3ce:
@@ -118,7 +118,7 @@ translate spanish e01s01_161f03b4:
 translate spanish e01s01_2cd50405:
 
     # sy "No, not big like that. Big as in we do every single fetish we can think of—{i}that we're okay doing, of course.{/i}"
-    sy "No, así de grande no. Grande en el sentido de que hacemos todos los fetiches que se nos ocurren, y que nos parece bien hacer, por supuesto.{/i}"
+    sy "No, así de grande no. Grande en el sentido de que hacemos todos los fetiches que se nos ocurren, y que nos parece bien hacer, por supuesto."
 
 # game/code/e01/e01s01.rpy:296
 translate spanish e01s01_6412f819:
@@ -604,7 +604,7 @@ translate spanish e01s01_choice_done_7d4458e1:
 translate spanish e01s01_choice_done_d5f73df3:
 
     # sy "No. Just...go slow."
-    sy No. Sólo... ve despacio."
+    sy "No. Sólo... ve despacio."
 
 # game/code/e01/e01s01.rpy:683
 translate spanish e01s01_choice_done_e701b72f:
@@ -694,7 +694,7 @@ translate spanish e01s01_choice_done_f11e1686:
 translate spanish e01s01_choice_done_b2b9e19d:
 
     # mc "What do you mean?"
-    mc ¿Qué quieres decir?"
+    mc "¿Qué quieres decir?"
 
 # game/code/e01/e01s01.rpy:819
 translate spanish e01s01_choice_done_d737305f:
@@ -874,7 +874,7 @@ translate spanish e01s01_scene_bdsm_dom_98b9998c:
 translate spanish e01s01_scene_bdsm_dom_7b6d6637:
 
     # mc "C'mon, I'm not done with you yet."
-    mc Vamos, aún no he terminado contigo."
+    mc "Vamos, aún no he terminado contigo."
 
 # game/code/e01/e01s01.rpy:1085
 translate spanish e01s01_scene_bdsm_dom_b4892784:
@@ -1162,7 +1162,7 @@ translate spanish e01s01_scene_footfet_19962d53:
 translate spanish e01s01_scene_footfet_f2a80570:
 
     # sy "Does it feel good?"
-    sy "¿Se sienten bien?""
+    sy "¿Se sienten bien?"
 
 # game/code/e01/e01s01.rpy:1358
 translate spanish e01s01_scene_footfet_f6dd7f11:
@@ -1582,7 +1582,7 @@ translate spanish e01s01_inbetween_finale_2170fd5d:
 translate spanish e01s01_inbetween_finale_8a6a4f96:
 
     # sy "{size=20}I wouldn't mind another round or two... {i}If you have it in you.{/i}{/size}"
-    sy "{size=20}No me importaría otra ronda o dos... {Si lo tienes en ti.{/i}{/size}"
+    sy "{size=20}No me importaría otra ronda o dos... {i}Si lo tienes en ti.{/i}{/size}"
 
 # game/code/e01/e01s01.rpy:1813
 translate spanish e01s01_inbetween_finale_f5f1a451:
