@@ -928,7 +928,7 @@ translate spanish d16s03_78def226:
 translate spanish d16s03_8d1c570b:
 
     # arj "I think I would like that."
-    arj "I think I would like that."
+    arj "Creo que me gustaría eso."
 
 # game/code/d16/d16s03.rpy:521
 translate spanish d16s03_5ab8dc97:
@@ -1264,19 +1264,19 @@ translate spanish d16s03_d779aa72:
 translate spanish d16s03_ddcc40d5:
 
     # mc "I wouldn't call it old, but yeah."
-    mc "No lo llamaría vieja, pero sí."
+    mc "No la llamaría vieja, pero sí."
 
 # game/code/d16/d16s03.rpy:720
 translate spanish d16s03_971479e3:
 
     # lc "It's not ancient, but it's pretty old."
-    lc "No es antiguo, pero es bastante viejo."
+    lc "No es antigua, pero es bastante vieja."
 
 # game/code/d16/d16s03.rpy:723
 translate spanish d16s03_708c6770:
 
     # mc "Anyway, yes. I've seen it."
-    mc "De todos modos, sí. Lo he visto."
+    mc "De todos modos, sí. La he visto."
 
 # game/code/d16/d16s03.rpy:726
 translate spanish d16s03_e0621bd5:
@@ -1312,7 +1312,7 @@ translate spanish d16s03_cd0d1f18:
 translate spanish d16s03_864025cf:
 
     # lc "One in each hand. Another guy between my breasts. One each rubbing against my feet."
-    lc "Una en cada mano. Otro entre mis pechos. Uno cada uno frotándose contra mis pies."
+    lc "Una en cada mano. Otra entre mis pechos. Otra frotándose contra mis pies."
 
 # game/code/d16/d16s03.rpy:741
 translate spanish d16s03_7aeccb1c:
