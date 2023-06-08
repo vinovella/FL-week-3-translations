@@ -106,7 +106,7 @@ translate spanish d16s02_c543ffcb:
 translate spanish d16s02_71e9aca5:
 
     # fl "How will {i}you{/i} fare?"
-    fl "¿Cómo te irá {i}a{/i}ti?"
+    fl "¿Cómo te irá {i}a{/i} ti?"
 
 # game/code/d16/d16s02.rpy:88
 translate spanish d16s02_89c0a9cc:
@@ -130,7 +130,7 @@ translate spanish d16s02_b2b9e19d:
 translate spanish d16s02_5b4a4095:
 
     # arj "What do you mean \"What do you mean?\"?"
-    arj "Qué quieres decir con \"¿Qué quieres decir?\"?"
+    arj "Qué quieres decir con \"¿Qué quieres decir?\""
 
 # game/code/d16/d16s02.rpy:96
 translate spanish d16s02_8ba09f1f:
