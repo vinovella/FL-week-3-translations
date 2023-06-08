@@ -220,7 +220,7 @@ translate spanish d16s10_a11d4715:
 translate spanish d16s10_d58a1705:
 
     # mc "Okay... let's take your new chair for a ride."
-    mc "Vale... vamos a dar una vuelta con tu nueva silla."
+    mc "Bien... vamos a dar una vuelta con tu nueva silla."
 
 # game/code/d16/d16s10.rpy:135
 translate spanish d16s10_177ecfe7:
