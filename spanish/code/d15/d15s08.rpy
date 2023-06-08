@@ -178,7 +178,7 @@ translate spanish d15s08_6c0cf79c:
 translate spanish d15s08_43513446:
 
     # hr "No, we didn't agree. You just refused to give me his password. {w}I was forced to verify your claim myself."
-    hr "No, no estábamos de acuerdo. Simplemente te negaste a darme su contraseña. {w}Me vi obligado a verificar tu afirmación yo misma."
+    hr "No, no estábamos de acuerdo. Simplemente te negaste a darme su contraseña. {w}Me vi obligada a verificar tu afirmación yo misma."
 
 # game/code/d15/d15s08.rpy:115
 translate spanish d15s08_3b51f4c8:
@@ -190,7 +190,7 @@ translate spanish d15s08_3b51f4c8:
 translate spanish d15s08_6856043b:
 
     # sy "Woah, whoa, whoa. {w}Let's not say anything we are going to regret later."
-    sy "Guau, guau, guau. {w}No digamos nada de lo que nos vayamos a arrepentir más tarde."
+    sy "Wow, wow, wow. {w}No digamos nada de lo que nos vayamos a arrepentir más tarde."
 
 # game/code/d15/d15s08.rpy:121
 translate spanish d15s08_fba0d140:
@@ -550,7 +550,7 @@ translate spanish d15s08_f84e5613:
 translate spanish d15s08_224fe1ae:
 
     # hr "... I don't want to know, do I?"
-    hr "... No quiere saber, ¿verdad?"
+    hr "... No quiero saber, ¿verdad?"
 
 # game/code/d15/d15s08.rpy:285
 translate spanish d15s08_cc047e58:
