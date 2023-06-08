@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-26 11:45
+# TODO: Translation updated at 2023-05-26 11:45
 
 # game/code/d15/extended/d15s05b_ext.rpy:65
 translate spanish d15s05b_ext_247f8221:
@@ -82,7 +82,7 @@ translate spanish d15s05b_ext_c91ce0b9:
 translate spanish d15s05b_ext_554abe29:
 
     # nk "Wouldn't that be Quadruple-P?"
-    nk "¿No sería eso Quadruple-P?"
+    nk "¿No sería eso cuádruple-P?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:104
 translate spanish d15s05b_ext_89e279b7:
@@ -244,7 +244,7 @@ translate spanish d15s05b_ext_547c778d:
 translate spanish d15s05b_ext_f8af25b5:
 
     # nk "Seriously? Right here?{w} Anyone could come along at any time."
-    nk "¿En serio? ¿Justo aquí? {w} Cualquiera podía venir en cualquier momento."
+    nk "¿En serio? ¿Justo aquí? {w} Cualquiera podría venir en cualquier momento."
 
 # game/code/d15/extended/d15s05b_ext.rpy:173
 translate spanish d15s05b_ext_f0e565d3:
@@ -370,7 +370,7 @@ translate spanish d15s05b_ext_979fcb2a:
 translate spanish d15s05b_ext_a47374b6:
 
     # nk "Birth control fucks with my hormones, so I don't take it."
-    nk "El control de la natalidad jode con mis hormonas, así que no lo tomo."
+    nk "Los anticonceptivos me joden las hormonas, así que no las tomo."
 
 # game/code/d15/extended/d15s05b_ext.rpy:223
 translate spanish d15s05b_ext_97e3519d:
@@ -388,13 +388,13 @@ translate spanish d15s05b_ext_720b1b60:
 translate spanish d15s05b_ext_6f493ba2:
 
     # nk "That would be fine. I could swallow his cum like Triple-A Kona."
-    nk "Eso estaría bien. Podría tragar su semen como Triple-A Kona."
+    nk "Eso estaría bien. Podría tragarme su semen."
 
 # game/code/d15/extended/d15s05b_ext.rpy:227
 translate spanish d15s05b_ext_e52d7654:
 
     # pw "Good to know. Just remember we need to get a snapshot of him shooting his load."
-    pw "Bueno saber. Solo recuerda que necesitamos obtener una instantánea de él disparando su carga."
+    pw "Es bueno saberlo. Solo recuerda que necesitamos obtener una instantánea de él disparando su carga."
 
 # game/code/d15/extended/d15s05b_ext.rpy:229
 translate spanish d15s05b_ext_fdffff29:
@@ -430,7 +430,7 @@ translate spanish d15s05b_ext_2daca859:
 translate spanish d15s05b_ext_06a87d73:
 
     # pw "Can't you just take it off?{w} That would seriously fuck with the Fetish of the Day."
-    pw "¿No puedes simplemente quitártelo? {w} Eso jodería seriamente al Fetiche del día."
+    pw "¿No puedes simplemente quitártelo? {w} Eso arruinaría seriamente al Fetiche del día."
 
 # game/code/d15/extended/d15s05b_ext.rpy:248
 translate spanish d15s05b_ext_a8f672a7:
@@ -460,7 +460,7 @@ translate spanish d15s05b_ext_065bd3ce:
 translate spanish d15s05b_ext_5b4783eb:
 
     # pw "Is it going to bother you if we have fun without you? Did you want to leave?"
-    pw "¿Te va a molestar si nos divertimos sin ti? ¿Querías irte?"
+    pw "¿Te va a molestar si nos divertimos sin ti?. ¿Quieres irte?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:262
 translate spanish d15s05b_ext_91567b8a:
@@ -532,7 +532,7 @@ translate spanish d15s05b_ext_11455b53:
 translate spanish d15s05b_ext_06f6f315:
 
     # nk "When I graduated high school I didn't have the opportunity to go to college or university like you do. So, I took the opportunities available to me."
-    nk "Cuando me gradué de la escuela secundaria no tuve la oportunidad de ir a la universidad como tú. Entonces, aproveché las oportunidades disponibles para mí."
+    nk "Cuando me gradué de la escuela secundaria no tuve la oportunidad de ir a la universidad como ustedes. Entonces, aproveché las oportunidades disponibles para mí."
 
 # game/code/d15/extended/d15s05b_ext.rpy:298
 translate spanish d15s05b_ext_2b7f97b9:
@@ -544,7 +544,7 @@ translate spanish d15s05b_ext_2b7f97b9:
 translate spanish d15s05b_ext_6818f773:
 
     # nk "I wouldn't put it that way.{w}.. but, yeah, pretty much."
-    nk "Yo no lo diría de esa manera. {w}... pero, sí, más o menos."
+    nk "Yo no lo diría de esa manera. {w} pero, sí, más o menos."
 
 # game/code/d15/extended/d15s05b_ext.rpy:300
 translate spanish d15s05b_ext_91f242ef:
@@ -670,13 +670,13 @@ translate spanish d15s05b_ext_ccbc2747:
 translate spanish d15s05b_ext_495f8d79:
 
     # nk "Anyway. I'm sure I could unlock whatever device you are wearing and put it back on before anyone notices."
-    nk "De todos modos. Estoy segura de que podría desbloquear cualquier dispositivo que esté usando y volver a ponérmelo antes de que alguien se dé cuenta."
+    nk "De todos modos. Estoy segura de que podría desbloquear cualquier dispositivo que estés usando y volver a ponérmelo antes de que alguien se dé cuenta."
 
 # game/code/d15/extended/d15s05b_ext.rpy:348
 translate spanish d15s05b_ext_68c60b09:
 
     # mct "Tempting, but I better not fuck with this thing."
-    mct "Tentador, pero mejor no jodo con esto."
+    mct "Tentador, pero mejor no arruino esto."
 
 # game/code/d15/extended/d15s05b_ext.rpy:350
 translate spanish d15s05b_ext_a207d81a:
@@ -784,7 +784,7 @@ translate spanish d15s05b_fisto_d0671d0c:
 translate spanish d15s05b_fisto_36d186a3:
 
     # mc "Okay, so here's a little science lesson. Something that Karen told me-"
-    mc "Bien, aquí hay una pequeña lección de ciencia. Algo que me dijo Karen-"
+    mc "Bien, aquí hay una pequeña lección de ciencia. Algo que me dijo Karen."
 
 # game/code/d15/extended/d15s05b_ext.rpy:429
 translate spanish d15s05b_fisto_969ffc4f:
@@ -910,7 +910,7 @@ translate spanish d15s05b_fisto_656cbfcd:
 translate spanish d15s05b_fisto_237acfcd:
 
     # nk "Okay, I think I've got this. What's next?"
-    nk "Bien, creo que tengo esto. ¿Que sigue?"
+    nk "Bien, creo que tengo esto. ¿Qué sigue?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:490
 translate spanish d15s05b_fisto_a1868500:
@@ -1030,7 +1030,7 @@ translate spanish d15s05b_fisto_5c57a6aa:
 translate spanish d15s05b_fisto_cb730f6b:
 
     # mc "Plenty, but let's see what you can do for now."
-    mc "Mucho, pero veamos qué puedes hacer por ahora."
+    mc "Muchos, pero veamos qué puedes hacer por ahora."
 
 # game/code/d15/extended/d15s05b_ext.rpy:541
 translate spanish d15s05b_fisto_625b1ac1:
@@ -1354,7 +1354,7 @@ translate spanish d15s05b_lesbians_nora_7eb76a67:
 translate spanish d15s05b_lesbians_nora_98af7c21:
 
     # pw "This!"
-    pw "¡Este!"
+    pw "¡Esto!"
 
 # game/code/d15/extended/d15s05b_ext.rpy:767
 translate spanish d15s05b_lesbians_nora_2b062beb:
@@ -1438,7 +1438,7 @@ translate spanish d15s05b_lesbians_polly_b5a954e7:
 translate spanish d15s05b_lesbians_polly_0cf20697:
 
     # pw "Please!{w} I'll do anything for it.{w} I'll eat your-"
-    pw "Por favor! {w} Haré cualquier cosa por ello. {w} Me comeré tu..."
+    pw "¡Por favor! {w} Haré cualquier cosa por ello. {w} Me comeré tu..."
 
 # game/code/d15/extended/d15s05b_ext.rpy:833
 translate spanish d15s05b_lesbians_polly_a0093022:
@@ -1630,7 +1630,7 @@ translate spanish d15s05b_post_lesbians_91f0d73d:
 translate spanish d15s05b_post_lesbians_775135a8:
 
     # pw "I think I know something that would take your mind off things."
-    pw "Creo que sé algo que te distraería."
+    pw "Creo que sé de algo que te distraería."
 
 # game/code/d15/extended/d15s05b_ext.rpy:933
 translate spanish d15s05b_post_lesbians_4d9ff9e8:
@@ -1642,7 +1642,7 @@ translate spanish d15s05b_post_lesbians_4d9ff9e8:
 translate spanish d15s05b_post_lesbians_c2a77b6c:
 
     # pw "What if we peg [mcname]?"
-    pw "¿Qué pasa si pegamos [mcname]?"
+    pw "¿Qué pasa si le pegamos a [mcname]?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:939
 translate spanish d15s05b_post_lesbians_085722e2:
@@ -1654,7 +1654,7 @@ translate spanish d15s05b_post_lesbians_085722e2:
 translate spanish d15s05b_post_lesbians_fa88be01:
 
     # nk "That could be fun."
-    nk "Eso podria ser divertido."
+    nk "Eso podría ser divertido."
 
 # game/code/d15/extended/d15s05b_ext.rpy:944
 translate spanish d15s05b_post_lesbians_e7a94b11:
@@ -2122,7 +2122,7 @@ translate spanish d15s05b_spitroast_2a5e867f:
 translate spanish d15s05b_spitroast_93c020c1:
 
     # nk "Yes, but I want you to understand the pleasure a woman can get{w} - that I get - from sucking cock."
-    nk "Sí, pero quiero que entiendas el placer que una mujer puede obtener {w}, que yo obtengo al chupar una polla."
+    nk "Sí, pero quiero que entiendas el placer que una mujer puede obtener, {w} que yo obtengo al chupar una polla."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1226
 translate spanish d15s05b_spitroast_3f1ca3d5:
@@ -2206,7 +2206,7 @@ translate spanish d15s05b_spitroast_9029f111:
 translate spanish d15s05b_spitroast_1060693e:
 
     # mc "Look into her eyes. Is she loving this?"
-    mc "Look into her eyes. Is she loving this?"
+    mc "Mírala a los ojos. ¿Le gusta esto?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1265
 translate spanish d15s05b_spitroast_1eddf4ba:
@@ -2284,7 +2284,7 @@ translate spanish d15s05b_spitroast_71ddcbb2:
 translate spanish d15s05b_spitroast_1379ce11:
 
     # pw "I was this close to coming with her."
-    pw "Estuve así de cerca de ir con ella."
+    pw "Estuve así de cerca de correrme con ella."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1296
 translate spanish d15s05b_spitroast_a40c76e8:
@@ -2350,7 +2350,7 @@ translate spanish d15s05b_end_cbfdda06:
 translate spanish d15s05b_end_4ea91313:
 
     # mct "Oh, well...{w} Good for them."
-    mct "h, bueno... {w} Bien por ellas."
+    mct "Oh, bueno... {w} Bien por ellas."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1342
 translate spanish d15s05b_end_516cf05b:
@@ -2402,7 +2402,7 @@ translate spanish strings:
 
     # game/code/d15/extended/d15s05b_ext.rpy:970
     old "Get Pegged by Nora"
-    new "Ser atrapado por Nora"
+    new "Ser castigado por Nora"
 
     # game/code/d15/extended/d15s05b_ext.rpy:970
     old "Put on a Strapon and Spitroast Nora"
