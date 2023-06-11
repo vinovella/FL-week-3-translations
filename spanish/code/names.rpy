@@ -3,10 +3,10 @@
 translate spanish strings:
 
     old "Fetish Locator"
-    new "Fetish Locator"
+    new "Localizador de Fetiche"
 
     old "Fetish Locator Retention"
-    new "Fetish Locator Retention"
+    new "Retención del localizador de fetiches"
 
     old "Fetish Master"
-    new "Fetish Master"
+    new "Maestro fetichista"
