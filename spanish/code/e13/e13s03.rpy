@@ -28,7 +28,7 @@ translate spanish e13s03_336a25ad:
 translate spanish e13s03_d6d7ffb9:
 
     # mc "Okay, come on. We need to get to the hospital. Do you feel any con—"
-    mc "Está bien, vamos. Tenemos que llegar al hospital. ¿Sientes alguna contracción"
+    mc "Está bien, vamos. Tenemos que llegar al hospital. ¿Sientes alguna contracción."
 
 # game/code/e13/e13s03.rpy:46
 translate spanish e13s03_d464a456:
@@ -83,3 +83,4 @@ translate spanish strings:
     # game/code/e13/e13s03.rpy:6
     old "A month later"
     new "Un mes después"
+
