@@ -160,7 +160,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Better for AmRose Romance path; AmRose doesn't watch you with Lydia."
-    new "Es mejor para la ruta del Romance de AmRose; AmRose no te observa con Lydia."
+    new "Es mejor para la ruta de Romance de AmRose; AmRose no te observa con Lydia."
 
     # game/code/hints.rpy:5
     old "Lydia tells you her fantasy. Different for LC or NTR path."
