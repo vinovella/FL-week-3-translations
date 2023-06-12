@@ -28,7 +28,7 @@ translate spanish e13s02_a1218fef:
 translate spanish e13s02_eeefc10d:
 
     # nk "{i}Drink{/i}! Singular! Not drinks!"
-    nk "{i}Bebida{/i}¡En singular! ¡No bebidas!"
+    nk "{i}Bebida{/i} ¡En singular! ¡No bebidas!"
 
 # game/code/e13/e13s02.rpy:108
 translate spanish replay_e13s02_10dab207:
@@ -64,7 +64,7 @@ translate spanish replay_e13s02_a22fc295:
 translate spanish replay_e13s02_37046512:
 
     # mc "I'm gonna get you for that one later."
-    mc "Voy a buscarte por eso más tarde."
+    mc "Me las pagarás más tarde."
 
 # game/code/e13/e13s02.rpy:125
 translate spanish replay_e13s02_0063df44:
@@ -88,7 +88,7 @@ translate spanish replay_e13s02_e326e5aa:
 translate spanish replay_e13s02_e6216693:
 
     # mc "I thought you might be horny considering the way you were eye fucking me throughout the day."
-    mc "Pensé que estarías cachondo por la forma en que me estuviste follando con la mirada durante todo el día."
+    mc "Pensé que estarías caliente por la forma en que me estuviste follando con la mirada durante todo el día."
 
 # game/code/e13/e13s02.rpy:144
 translate spanish replay_e13s02_cbd26234:
@@ -196,7 +196,7 @@ translate spanish e13s02_chioice_028df47c:
 translate spanish e13s02_vag_22cdf4a1:
 
     # mc "You ready to get ravaged?"
-    mc "You ready to get ravaged?"
+    mc "¿Estás lista para ser destrozada?"
 
 # game/code/e13/e13s02.rpy:296
 translate spanish e13s02_vag_9cbad7c3:
@@ -226,7 +226,7 @@ translate spanish e13s02_vag_d8a0c06b:
 translate spanish e13s02_anal_932907d8:
 
     # mct "I remember working with a pregnant woman at my first shitty summer job."
-    mct "Recuerdo trabajar con una mujer embarazada en mi primer trabajo de verano de mierda."
+    mct "Recuerdo trabajar con una mujer embarazada en mi primer trabajo de mierda durante el verano."
 
 # game/code/e13/e13s02.rpy:365
 translate spanish e13s02_anal_e4b33fef:
