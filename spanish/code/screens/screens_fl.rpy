@@ -144,7 +144,7 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:738
     old "Please select whom you like"
-    new "Por favor, seleccione a quién le gusta."
+    new "Por favor, seleccione a quien le gusta."
 
     # game/code/screens/screens_fl.rpy:788
     old "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
