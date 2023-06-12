@@ -208,7 +208,7 @@ translate spanish e02s08_166ef820:
 translate spanish e02s08_f7dd5c97:
 
     # ap "*Sighs* I guess I just don't feel like I get the chance to even speak up sometimes."
-    ap ""*Suspira* Supongo que a veces no siento que tenga la oportunidad de hablar."
+    ap "*Suspira* Supongo que a veces no siento que tenga la oportunidad de hablar."
 
 # game/code/e02/e02s08.rpy:171
 translate spanish e02s08_6c525557:
@@ -664,7 +664,7 @@ translate spanish e02s08_6501504b:
 translate spanish e02s08_ff5051ad:
 
     # atp "Nothing is more important to me than you."
-    atp "Nada es más importante para mí que tú.
+    atp "Nada es más importante para mí que tú."
 
 # game/code/e02/e02s08.rpy:350
 translate spanish e02s08_364bd804:
@@ -1024,7 +1024,7 @@ translate spanish e02s08_sex_c2925f31:
 translate spanish e02s08_sex_b5d78da9:
 
     # mh "Sit down and spread that pretty ass for me, Sweetheart."
-    mh ""Siéntate y abre ese bonito culo para mí, cariño."
+    mh "Siéntate y abre ese bonito culo para mí, cariño."
 
 # game/code/e02/e02s08.rpy:583
 translate spanish e02s08_sex_28631965:

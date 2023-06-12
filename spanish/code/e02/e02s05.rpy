@@ -58,13 +58,13 @@ translate spanish e02s05_fbeb2221:
 translate spanish e02s05_9a3eb2bf:
 
     # mc "No, it's a few text messages from Angela."
-    mc ""No, son algunos mensajes de texto de Angela."
+    mc "No, son algunos mensajes de texto de Angela."
 
 # game/code/e02/e02s05.rpy:63
 translate spanish e02s05_2c654653:
 
     # mh "What did she say?"
-    mh ¿Qué dijo ella?"
+    mh "¿Qué dijo ella?"
 
 # game/code/e02/e02s05.rpy:67
 translate spanish e02s05_b1dc4962:

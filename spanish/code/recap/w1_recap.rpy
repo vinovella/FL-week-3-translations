@@ -196,7 +196,7 @@ translate spanish week_1_recap_8aa2a88d:
 translate spanish week_1_recap_3a50e437:
 
     # "When he returned home that evening, [mcname] discovered he was in a nearly identical situation."
-    "Cuando regresó a casa esa noche, [mcname] descubrió que estaba en una situación casi idéntica.""
+    "Cuando regresó a casa esa noche, [mcname] descubrió que estaba en una situación casi idéntica."
 
 # game/code/recap/w1_recap.rpy:158
 translate spanish week_1_recap_bb08f530:

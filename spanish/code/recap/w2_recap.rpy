@@ -844,7 +844,7 @@ translate spanish week_2_day_10_p2_0268641a:
 translate spanish week_2_day_10_p2_e4eb9964:
 
     # "No one noticed at the time, but Squizzle's boyfriend definitely didn't seem to enjoy the Main Event."
-    ""Nadie se dio cuenta en ese momento, pero el novio de Squizzle definitivamente no parecía disfrutar del Evento Principal."
+    "Nadie se dio cuenta en ese momento, pero el novio de Squizzle definitivamente no parecía disfrutar del Evento Principal."
 
 # game/code/recap/w2_recap.rpy:485
 translate spanish week_2_day_10_p2_7ca1abbb:

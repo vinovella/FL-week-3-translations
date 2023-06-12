@@ -94,7 +94,7 @@ translate spanish e02s09_c595c74d:
 translate spanish e02s09_9f94a657:
 
     # mh "Illi nothi. Latin for \"those bastards\"!{w} I will bring ruin down on them for this!"
-    mh "Illi nothi. ¡"Esos bastardos" en latín! ¡Les traeré la ruina por esto!"
+    mh "Illi nothi. ¡\"Esos bastardos\" en latín! ¡Les traeré la ruina por esto!"
 
 # game/code/e02/e02s09.rpy:84
 translate spanish e02s09_bd63a0e0:
@@ -172,7 +172,7 @@ translate spanish e02s09_b2b9e19d:
 translate spanish e02s09_9a5724f2:
 
     # mh "It is a rather diabolical move, framed by Silvercorp's trademark \"subtlety\"."
-    mh "Es un movimiento bastante diabólico, enmarcado por la característica \"sutileza\" de Silvercorp."."
+    mh "Es un movimiento bastante diabólico, enmarcado por la característica \"sutileza\" de Silvercorp.."
 
 # game/code/e02/e02s09.rpy:110
 translate spanish e02s09_ca3c2f39:

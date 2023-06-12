@@ -64,7 +64,7 @@ translate spanish e02s07_bc26eb0f:
 translate spanish e02s07_01d579de:
 
     # dn "I told you. I'm fine."
-    dn Te lo dije. Estoy bien."
+    dn "Te lo dije. Estoy bien."
 
 # game/code/e02/e02s07.rpy:96
 translate spanish e02s07_a30eb7ca:
@@ -664,7 +664,7 @@ translate spanish e02s07_next_day_fe9b398a:
 translate spanish e02s07_next_day_121221e2:
 
     # mh "Would you mind telling me what it was?"
-    mh "¿Te importaría decirme qué era?
+    mh "¿Te importaría decirme qué era?"
 
 # game/code/e02/e02s07.rpy:415
 translate spanish e02s07_next_day_d671a94f:

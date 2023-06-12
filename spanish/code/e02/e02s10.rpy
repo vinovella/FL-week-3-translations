@@ -70,7 +70,7 @@ translate spanish e02s10_4a118697:
 translate spanish e02s10_052806d3:
 
     # mh "Please let me see if I understand you correctly."
-    mh ""Por favor déjame ver si te entiendo bien."
+    mh "Por favor déjame ver si te entiendo bien."
 
 # game/code/e02/e02s10.rpy:84
 translate spanish e02s10_98d0904e:
@@ -466,7 +466,7 @@ translate spanish e02s10_sex_11455b53:
 translate spanish e02s10_sex_26fcc0d5:
 
     # mh "Oh I am just imagining an amazing fixture in that corner."
-    mh ""Oh, solo estoy imaginando un accesorio increíble en esa esquina."
+    mh "Oh, solo estoy imaginando un accesorio increíble en esa esquina."
 
 # game/code/e02/e02s10.rpy:348
 translate spanish e02s10_sex_63ade80f:

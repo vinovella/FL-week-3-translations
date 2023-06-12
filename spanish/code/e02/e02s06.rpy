@@ -1282,7 +1282,7 @@ translate spanish e02s06_sex_end_7b46d02a:
 translate spanish e02s06_sex_end_453947db:
 
     # mh "Cheers to the Snowy Peaks Resort!"
-    mh "¡Brindamos por el complejo "Picos Nevados"!"
+    mh "¡Brindamos por el complejo \"Picos Nevados\"!"
 
 # game/code/e02/e02s06.rpy:866
 translate spanish e02s06_sex_end_98f299e8:
@@ -1300,7 +1300,7 @@ translate spanish strings:
 
     # game/code/e02/e02s06.rpy:272
     old "Help them experiment"
-    new ""Ayúdalos a experimentar"
+    new "Ayúdalos a experimentar"
 
     # game/code/e02/e02s06.rpy:272
     old "Just give them some advice"

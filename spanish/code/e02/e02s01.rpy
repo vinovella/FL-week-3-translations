@@ -574,7 +574,7 @@ translate spanish e02s01_b28f16bf:
 translate spanish e02s01_hot_bath_31a3613b:
 
     # mh "It's not bad, right?"
-    mh ""No está mal, ¿verdad?"
+    mh "No está mal, ¿verdad?"
 
 # game/code/e02/e02s01.rpy:365
 translate spanish e02s01_hot_bath_03703d1f:
