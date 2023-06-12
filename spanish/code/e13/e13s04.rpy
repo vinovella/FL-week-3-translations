@@ -22,13 +22,13 @@ translate spanish e13s04_9095cd3d:
 translate spanish e13s04_99af8c52:
 
     # mc "Told me all about how unfairly you were treating him."
-    mc "Me contó todo lo injusto que lo estaba tratando."
+    mc "Me contó todo sobre lo injusta que eras con él."
 
 # game/code/e13/e13s04.rpy:59
 translate spanish e13s04_163372bc:
 
     # nk "*Laughs* Unfairly!? Well, I never!"
-    nk "*Risas* ¿¡Injustamente!? ¡Bueno, yo nunca!"
+    nk "*Risas* ¿¡Injusta!? ¡Bueno, yo nunca!"
 
 # game/code/e13/e13s04.rpy:72
 translate spanish replay_e13s04_46d46f1f:
@@ -130,7 +130,7 @@ translate spanish replay_e13s04_5bcf0e0d:
 translate spanish replay_e13s04_9387f4e1:
 
     # nk "Hm? [mcname]? Why did—"
-    nk "¿Hmm? [mcname]? Por qué-"
+    nk "¿Hmm? ¿[mcname]? Por qué-"
 
 # game/code/e13/e13s04.rpy:161
 translate spanish replay_e13s04_c9c8dc7c:
@@ -208,7 +208,7 @@ translate spanish replay_e13s04_6c4a69a8:
 translate spanish replay_e13s04_f0aabc54:
 
     # nk "You wanna go again?"
-    nk "¿Quieres ir de nuevo?"
+    nk "¿Quieres hacerlo de nuevo?"
 
 # game/code/e13/e13s04.rpy:261
 translate spanish replay_e13s04_02f6b85e:
