@@ -148,7 +148,7 @@ translate spanish after_credits_d475ff1f:
 translate spanish after_credits_e306f37c:
 
     # sm "Hey, nice to meet you all!"
-    sm "¡Hola, gusto en conocerlas a todas!"
+    sm "¡Hola, gusto en conocerlas a las dos!"
 
 # game/code/labels.rpy:236
 translate spanish after_credits_79db875b:
@@ -376,7 +376,7 @@ translate spanish after_credits_321e2b80:
 translate spanish after_credits_99a25d72:
 
     # sm "Close. Each VU book will be {i}much{/i} bigger than an FL Week."
-    sm "Cerca. Cada libro VU será {i}mucho{/i} más grande que una semana FL."
+    sm "Cerca. Cada libro VU será {i}mucho{/i} más grande que una semana de FL."
 
 # game/code/labels.rpy:424
 translate spanish after_credits_03943779:
@@ -418,7 +418,7 @@ translate spanish after_credits_295b2dbe:
 translate spanish after_credits_59f1aeec:
 
     # jh "You're good!"
-    jh "¡Estas bien!"
+    jh "¡Estás bien!"
 
 # game/code/labels.rpy:467
 translate spanish after_credits_49262421:
@@ -442,7 +442,7 @@ translate spanish after_credits_64e28fd1:
 translate spanish after_credits_57cbd3f3:
 
     # jh "Lara's a huge fan of yours! You two remind me of each other sometimes *Laughs*"
-    jh "¡Lara es una gran admiradora tuya! Ustedes dos me recuerdan el uno al otro a veces *Risas*"
+    jh "¡Lara es una gran admiradora tuya! Ustedes dos me recuerdan la una a la otra a veces *Risas*"
 
 # game/code/labels.rpy:479
 translate spanish after_credits_7a7dcdb0:
@@ -591,8 +591,8 @@ translate spanish after_credits_050e12e8:
 # game/code/labels.rpy:724
 translate spanish buzz_4377a2f7:
 
-    # "Bzzzzz" with hpunch
-    "Bzzzzz" with hpunch
+    # "Bzzzzz" with hpunch"
+    "Bzzzzz con hpunch"
 
 # game/code/labels.rpy:730
 translate spanish knock_40511e6c:
@@ -616,5 +616,5 @@ translate spanish strings:
 
     # game/code/labels.rpy:71
     old "The legendary Fetish Locator will return"
-    new "El legendario Localizador de Fetiches regresará"
+    new "El legendario Localizador de Fetiches regresará."
 
