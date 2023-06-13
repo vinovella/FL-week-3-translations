@@ -252,7 +252,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:270
     old "6 endings\naren't enough.\nI need all 18 now!!!"
-    new "6 finales\No son suficientes. \ n¡Necesito los 18 ahora!"
+    new "6 finales\nno son suficientes.\n¡Necesito los 18 ahora!"
 
     # game/code/data/extended/extra_gallery.rpy:271
     old "{b}CHANGE MY MIND{/b}"
@@ -297,4 +297,3 @@ translate spanish strings:
     # game/code/data/extended/extra_gallery.rpy:441
     old "The whole\nharem pregnant"
     new "Todo el\nharem embarazada"
-

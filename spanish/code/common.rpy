@@ -448,7 +448,7 @@ translate spanish strings:
 
     # renpy/common/00gui.rpy:448
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "La carga perderá el progreso no guardado.\N¿Seguro que quieres hacer esto?"
+    new "La carga perderá el progreso no guardado.\n¿Seguro que quieres hacer esto?"
 
     # renpy/common/00gui.rpy:449
     old "Are you sure you want to quit?"
@@ -1168,4 +1168,3 @@ translate spanish strings:
     # renpy/common/_errorhandling.rpym:673
     old "Parsing the script failed."
     new "Error al analizar el script."
-
