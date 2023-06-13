@@ -591,8 +591,8 @@ translate spanish after_credits_050e12e8:
 # game/code/labels.rpy:724
 translate spanish buzz_4377a2f7:
 
-    # "Bzzzzz" with hpunch"
-    "Bzzzzz con hpunch"
+    # "Bzzzzz" with hpunch
+    "Bzzzzz" with hpunch
 
 # game/code/labels.rpy:730
 translate spanish knock_40511e6c:
