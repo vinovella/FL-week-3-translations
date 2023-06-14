@@ -430,7 +430,7 @@ translate spanish d18s11b_continue_04fa4a60:
 translate spanish d18s11b_continue_324c6662:
 
     # jdg "You need to just chill out and get through this. This isn't about you."
-    jdg ""Tienes que relajarte y superar esto. Esto no se trata de ti."
+    jdg "Tienes que relajarte y superar esto. Esto no se trata de ti."
 
 # game/code/d18/extended/d18s11b_ext.rpy:272
 translate spanish d18s11b_continue_b9a648f2:
