@@ -262,7 +262,7 @@ translate spanish d15s04dw_ce0f48fb:
 translate spanish d15s04dw_f883159d:
 
     # dw "What. The. Fuck?"
-    dw "Qué. Ël. ¿Mierda?"
+    dw "Qué. Él. ¿Mierda?"
 
 # game/code/d15/d15s04dw.rpy:172
 translate spanish d15s04dw_c52b165d:
