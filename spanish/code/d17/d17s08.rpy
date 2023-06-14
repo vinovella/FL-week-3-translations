@@ -16,7 +16,7 @@ translate spanish d17s08_382fea90:
 translate spanish d17s08_7aa1ce4b:
 
     # lc "I hope that doesn't upset you too much. We'll get there, I'm just not sure-"
-    lc "spero que eso no te moleste demasiado. Llegaremos allí, solo que no estoy segura..."
+    lc "Espero que eso no te moleste demasiado. Llegaremos allí, solo que no estoy segura..."
 
 # game/code/d17/d17s08.rpy:69
 translate spanish d17s08_8d1a0b46:
@@ -952,7 +952,7 @@ translate spanish replay_d17s08_2376c239:
 translate spanish replay_d17s08_59332753:
 
     # lc "Not that I didn't want to be here when you came, but I'm tired."
-    lc "No es que no quisiera estar aquí cuando vinieras, pero estoy cansada."
+    lc "No es que no quisiera estar aquí cuando corrieras, pero estoy cansada."
 
 # game/code/d17/d17s08.rpy:563
 translate spanish replay_d17s08_653e0ff8:
@@ -994,7 +994,7 @@ translate spanish replay_d17s08_8e9ab5b6:
 translate spanish replay_d17s08_bac69fdd:
 
     # lc "Did you hear-?"
-    lc "Escuchaste?"
+    lc "¿Escuchaste?"
 
 # game/code/d17/d17s08.rpy:599
 translate spanish replay_d17s08_daeb626d:
