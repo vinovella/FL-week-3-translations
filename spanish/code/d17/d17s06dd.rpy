@@ -142,7 +142,7 @@ translate spanish d17s06dd_2136e9fe:
 translate spanish d17s06dd_68884bce:
 
     # dd "He said Charles."
-    dd "He said Charles."
+    dd "Él dijo Charles."
 
 # game/code/d17/d17s06dd.rpy:126
 translate spanish d17s06dd_b49313c9:
@@ -226,7 +226,7 @@ translate spanish d17s06dd_6cb5382c:
 translate spanish d17s06dd_6387b492:
 
     # mc "Shall we take a ride, my dear?"
-    mc "¿Damos un paseo, querido?"
+    mc "¿Damos un paseo, querida?"
 
 # game/code/d17/d17s06dd.rpy:166
 translate spanish d17s06dd_f9076417:
@@ -286,7 +286,7 @@ translate spanish d17s06dd_98a71c87:
 translate spanish d17s06dd_35b1b695:
 
     # mc "Does this have something to do with... {w}I don't know what to call them. Your fainting spells?"
-    mc "¿Tiene esto algo que ver con... {w}No sé cómo llamarlos. ¿Tus desmayos?"
+    mc "Tiene esto algo que ver con... {w}No sé cómo llamarlos. ¿Tus desmayos?"
 
 # game/code/d17/d17s06dd.rpy:202
 translate spanish d17s06dd_137bc0b4:
@@ -334,7 +334,7 @@ translate spanish d17s06dd_085722e2:
 translate spanish d17s06dd_3f3794df:
 
     # dd "They're not just ordinary fainting spells. This is a congenital condition."
-    dd "No son simples desmayos ordinarios. Esta es una condición congénita."
+    dd "No son desmayos ordinarios. Se trata de una enfermedad congénita."
 
 # game/code/d17/d17s06dd.rpy:221
 translate spanish d17s06dd_4c2d0c2c:
@@ -424,7 +424,7 @@ translate spanish d17s06dd_d2942ee7:
 translate spanish d17s06dd_bafd0a30:
 
     # dd "Maybe it's just that I've expected this ever since dad passed."
-    dd "Tal vez, solo que esperaba esto desde que murió papá."
+    dd "Tal vez es sólo que he esperado esto desde que papá murió."
 
 # game/code/d17/d17s06dd.rpy:257
 translate spanish d17s06dd_5651632e:
@@ -490,7 +490,7 @@ translate spanish d17s06dd_d4b37bb6:
 translate spanish d17s06dd_5e87d142:
 
     # dd "Don't you get it? {w}No. I want to live."
-    dd "¿No lo entiendes? {w}Yo Quiero vivir."
+    dd "¿No lo entiendes?. {w}Yo Quiero vivir."
 
 # game/code/d17/d17s06dd.rpy:283
 translate spanish d17s06dd_790efdec:
@@ -568,7 +568,7 @@ translate spanish d17s06dd_63dcad17:
 translate spanish d17s06dd_227f0ca4:
 
     # mc "Daisy. {w}If I can be there for you when that happens{w} I want to be."
-    mc "Daisy. {w}Si puedo estar ahí para ti cuando eso suceda{w} Quiero estarlo."
+    mc "Daisy. {w}Si puedo estar ahí para ti cuando eso suceda.{w} Quiero estarlo."
 
 # game/code/d17/d17s06dd.rpy:312
 translate spanish d17s06dd_52d87b95:
@@ -916,7 +916,7 @@ translate spanish d17s06dd_c3e1b04e:
 translate spanish d17s06dd_f0fea648:
 
     # mc "You know, the Fetish of the Day?"
-    mc "Ya sabes, el fetiche del día?"
+    mc "¿Ya sabes, el fetiche del día?"
 
 # game/code/d17/d17s06dd.rpy:562
 translate spanish d17s06dd_f50ff7cc:
@@ -988,13 +988,13 @@ translate spanish d17s06dd_bbd402dd:
 translate spanish d17s06dd_c17ef8ec:
 
     # mc "What's that?"
-    mc "¿Qué es eso?"
+    mc "¿Qué cosa?"
 
 # game/code/d17/d17s06dd.rpy:602
 translate spanish d17s06dd_238ac228:
 
     # dd "If I was on birth control."
-    dd "Si, tomaba anticonceptivos."
+    dd "Si tomaba anticonceptivos."
 
 # game/code/d17/d17s06dd.rpy:604
 translate spanish d17s06dd_b27f40f7:
@@ -1012,7 +1012,7 @@ translate spanish d17s06dd_29d0f309:
 translate spanish d17s06dd_b91fec45:
 
     # mc "You're fucking amazing."
-    mc "Eres jodidamente asombroso."
+    mc "Eres jodidamente asombrosa."
 
 # game/code/d17/d17s06dd.rpy:611
 translate spanish d17s06dd_a46d6c8e:
@@ -1054,13 +1054,13 @@ translate spanish d17s06dd_b16ce6a6:
 translate spanish d17s06dd_e317640e:
 
     # mc "You're delicious"
-    mc "Eres delicioso"
+    mc "Eres deliciosa"
 
 # game/code/d17/d17s06dd.rpy:631
 translate spanish d17s06dd_8c6c90fe:
 
     # dd "You're perfect"
-    dd "Eres perfecto"
+    dd "Eres perfecta"
 
 # game/code/d17/d17s06dd.rpy:633
 translate spanish d17s06dd_94b5b299:
@@ -1132,7 +1132,7 @@ translate spanish d17s06dd_85aa1628:
 translate spanish d17s06dd_6eced205:
 
     # dd "YES! {w}YESSS!! {w}YESSSSSS!!!!"
-    dd "¡SÍ! {w}¡¡SÍ!! {w}¡¡¡SÍIII!!!!"
+    dd "¡SÍ! {w}¡¡SÍ!! {w}¡¡¡SÍIII!!!"
 
 # game/code/d17/d17s06dd.rpy:660
 translate spanish d17s06dd_ab58db53:
@@ -1150,7 +1150,7 @@ translate spanish d17s06dd_113b97ce:
 translate spanish d17s06dd_6562866c:
 
     # mc "FUCK YEEAAAAAAAHHHH!!!!!"
-    mc "¡¡¡¡¡JODER SÍIIIIII"
+    mc "¡¡¡¡¡JODER SÍIIIIII!!!!!"
 
 # game/code/d17/d17s06dd.rpy:670
 translate spanish d17s06dd_a8488999:
@@ -1198,7 +1198,7 @@ translate spanish d17s06dd_def0ad19:
 translate spanish d17s06dd_214eeab7:
 
     # dd "We're moving again."
-    dd "Nos mudamos de nuevo."
+    dd "Nos movemos de nuevo."
 
 # game/code/d17/d17s06dd.rpy:705
 translate spanish d17s06dd_2e7757ae:
