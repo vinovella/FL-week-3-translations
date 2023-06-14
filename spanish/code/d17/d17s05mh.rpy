@@ -142,7 +142,7 @@ translate spanish d17s05mh_9316b739:
 translate spanish d17s05mh_ee046721:
 
     # mh "Yes, Sir—!"
-    mh "Sí, Señor.!"
+    mh "¡Sí, Señor!"
 
 # game/code/d17/d17s05mh.rpy:193
 translate spanish d17s05mh_2d75e991:
@@ -370,7 +370,7 @@ translate spanish d17s05mh_cuddle_489a9a82:
 translate spanish d17s05mh_cuddle_3f2f5915:
 
     # mc "Oh? Are you getting bored of me already?"
-    mc "O¿Oh? ¿Ya te estás aburriendo de mí?"
+    mc "¿Oh? ¿Ya te estás aburriendo de mí?"
 
 # game/code/d17/d17s05mh.rpy:549
 translate spanish d17s05mh_cuddle_654ff5ed:
@@ -394,7 +394,7 @@ translate spanish d17s05mh_cuddle_201436dc:
 translate spanish d17s05mh_cuddle_2fd79a02:
 
     # mh "Didn't you enjoy the paddle? I certainly did."
-    mh "¿No te ha gustado el pádel? Yo Ciertamente lo hice."
+    mh "¿No disfrutaste con el pádel? Yo sí lo disfruté."
 
 # game/code/d17/d17s05mh.rpy:566
 translate spanish d17s05mh_cuddle_84fefbca:
@@ -472,7 +472,7 @@ translate spanish d17s05mh_cuddle_4a6de014:
 translate spanish d17s05mh_cuddle_f51dc403:
 
     # mh "But maybe we could talk about it later over some coffee?{w} A friend of mine opened a nice place close to here."
-    mh "¿Pero tal vez podamos hablar de eso más tarde mientras tomamos un café? {w} Un amigo mío abrió un lindo lugar cerca de aquí."
+    mh "¿Pero tal vez podamos hablar de eso más tarde mientras tomamos un café?. {w} Un amigo mío abrió un lindo lugar cerca de aquí."
 
 # game/code/d17/d17s05mh.rpy:599
 translate spanish d17s05mh_cuddle_483c9257:
@@ -546,7 +546,7 @@ translate spanish strings:
 
     # game/code/d17/d17s05mh.rpy:323
     old "Edge Lyssa"
-    new "Borde a Lyssa"
+    new "No dejes que Lyssa se corra"
 
     # game/code/d17/d17s05mh.rpy:323
     old "Let Lyssa cum"
