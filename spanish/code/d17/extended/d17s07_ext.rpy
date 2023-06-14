@@ -250,7 +250,7 @@ translate spanish d17s07_ext_d6f01205:
 translate spanish d17s07_ext_63fc1ff1:
 
     # jf "It's just that thinking back on every moment we've been together. I've been in a mask."
-    jf "Es solo que pensando en cada momento que hemos estado juntos. Me he sentido enmascarado."
+    jf "Es solo que pensando en cada momento que hemos estado juntos. Me he sentido enmascarada."
 
 # game/code/d17/extended/d17s07_ext.rpy:351
 translate spanish d17s07_ext_fc856abc:
@@ -460,7 +460,7 @@ translate spanish d17s07_ext_3b64f817:
 translate spanish d17s07_ext_773c6a26:
 
     # jf "*Chuckling* Just one more."
-    jf "*Riéndose* Sólo uno más."
+    jf "*Riéndose* Sólo una más."
 
 # game/code/d17/extended/d17s07_ext.rpy:455
 translate spanish d17s07_ext_9fc91e94:
@@ -514,7 +514,7 @@ translate spanish d17s07_ext_e4c75b8a:
 translate spanish d17s07_ext_87986acb:
 
     # mc "That sounds great. I can help you look into the tax situation and get—"
-    mc "Eso suena genial. Puedo ayudarlo a investigar la situación fiscal y obtener—"
+    mc "Eso suena genial. Puedo ayudarte a investigar la situación fiscal y obtener—"
 
 # game/code/d17/extended/d17s07_ext.rpy:478
 translate spanish d17s07_ext_29373da5:
