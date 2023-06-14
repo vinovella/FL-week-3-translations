@@ -646,7 +646,7 @@ translate spanish d15s04dw_1155f7ba:
 translate spanish d15s04dw_c96a1955:
 
     # dw "I CAN'T {w}FUCKING {w}STAND {w}CHEATERS!!!"
-    dw "¡¡¡NO PUEDO {w}MIERDA {w}SOPORTAR {w}LAS TRAMPOSAS!!!"
+    dw "¡¡¡NO PUEDO {w}MIERDA {w}SOPORTAR {w}A LAS TRAMPOSAS!!!"
 
 # game/code/d15/d15s04dw.rpy:433
 translate spanish d15s04dw_f336fe9a:
