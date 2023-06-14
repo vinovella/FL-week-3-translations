@@ -236,7 +236,7 @@ translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:233
     old "HIGH SCORE :\n[persistent.minigame_max_score]"
-    new "MIGLIOR PUNTEGGIO :\n[persistent.minigame_max_score]"
+    new "MIGLIOR\nPUNTEGGIO :\n[persistent.minigame_max_score]"
 
     # game/code/data/extended/extra_gallery.rpy:249
     old "HOW MANY ENDINGS HAVE YOU UNLOCKED?"
@@ -252,11 +252,11 @@ translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:270
     old "6 endings\naren't enough.\nI need all 18 now!!!"
-    new "6 finali\nnon sono abbastanza.\nHo bisogno di tutti è 18 adesso!!!"
+    new "6 finali non\nsono abbastanza.\nHo bisogno di\ntutti è 18 adesso!!!"
 
     # game/code/data/extended/extra_gallery.rpy:271
     old "{b}CHANGE MY MIND{/b}"
-    new "{b}CAMBIA LA MIA MENTE{/b}"
+    new "CAMBIA LA MIA MENTE"
 
     # game/code/data/extended/extra_gallery.rpy:306
     old "I WANT TO KEEP\nFETISH LOCATOR"
@@ -264,7 +264,7 @@ translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:307
     old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
-    new "PER ASSICURARSI CHE NESSUNO\nSARÀ RICATTATO"
+    new "PER ASSICURARSI CHE\nNESSUNO SARÀ RICATTATO"
 
     # game/code/data/extended/extra_gallery.rpy:308
     old "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
@@ -292,7 +292,7 @@ translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:439
     old "Cum in every pussy\nat the wedding"
-    new "Sborra in tutte le vagine\nal matrimonio"
+    new "Sborra in tutte le\nvagine al matrimonio"
 
     # game/code/data/extended/extra_gallery.rpy:440
     old "You receive:"

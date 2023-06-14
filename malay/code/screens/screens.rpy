@@ -36,7 +36,7 @@ translate malay strings:
 
     # game/code/screens/screens.rpy:305
     old "Continue from week [FLSS.week.prev]"
-    new "Teruskan dari minggu [FLSS.week.prev]"
+    new "Teruskan dari Week [FLSS.week.prev]"
 
     # game/code/screens/screens.rpy:309
     old "Start"
@@ -56,7 +56,7 @@ translate malay strings:
 
     # game/code/screens/screens.rpy:341
     old "Support on Patreon"
-    new "Sokong Kami Di Patreon"
+    new "Sertai Patreon"
 
     # game/code/screens/screens.rpy:345
     old "Join Discord"

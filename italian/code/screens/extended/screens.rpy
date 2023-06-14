@@ -16,7 +16,7 @@ translate italian strings:
 
     # game/code/screens/extended/screens.rpy:63
     old "SETTINGS"
-    new "IMPOSTAZIONI"
+    new "OPZIONI"
 
     # game/code/screens/extended/screens.rpy:73
     old "LANGUAGE"
@@ -65,4 +65,3 @@ translate italian strings:
     # game/code/screens/extended/screens.rpy:335
     old "BONUS CONTENT"
     new "CONTENUTI BONUS"
-

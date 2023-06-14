@@ -16,11 +16,11 @@ translate italian strings:
 
     # game/code/screens/extended/screens_fl.rpy:38
     old "Hints on"
-    new "Suggerimenti attivi"
+    new "Suggerimenti\nattivi"
 
     # game/code/screens/extended/screens_fl.rpy:38
     old "Hints off"
-    new "Suggerimenti disattivati"
+    new "Suggerimenti\ndisattivati"
 
     # game/code/screens/extended/screens_fl.rpy:51
     old "Page [page]"
@@ -37,4 +37,3 @@ translate italian strings:
     # game/code/screens/extended/screens_fl.rpy:135
     old "Coming Soon"
     new "Prossimamente"
-

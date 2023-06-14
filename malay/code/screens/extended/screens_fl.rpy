@@ -16,11 +16,11 @@ translate malay strings:
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints on"
-    new "Petunjuk diaktifkan"
+    new "Petunjuk\ndiaktifkan"
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints off"
-    new "Petunjuk dimatikan"
+    new "Petunjuk\ndimatikan"
 
     # game/code/screens/extended/screens_fl.rpy:46
     old "Page [page]"

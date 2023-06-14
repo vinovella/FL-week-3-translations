@@ -287,7 +287,7 @@ translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:432
     old "Cum in every pussy\nat the wedding"
-    new "\n在婚礼上肏遍每一个小穴"
+    new "在婚礼上肏遍每\n一个小穴"
 
     # game/code/data/extended/extra_gallery.rpy:433
     old "You receive:"
