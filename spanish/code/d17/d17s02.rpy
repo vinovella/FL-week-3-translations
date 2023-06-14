@@ -16,7 +16,7 @@ translate spanish d17s02_a10511cd:
 translate spanish d17s02_cac1f672:
 
     # mc "What's up"
-    mc "Qué pasa"
+    mc "Qué pasa."
 
 # game/code/d17/d17s02.rpy:66
 translate spanish d17s02_01fe0bb5:
@@ -82,7 +82,7 @@ translate spanish d17s02_06a04454:
 translate spanish replay_d17s02_cafec360:
 
     # vw "So? How did it go?"
-    vw "¿Entonces? ¿Cómo le fue?"
+    vw "¿Entonces? ¿Cómo te fue?"
 
 # game/code/d17/d17s02.rpy:121
 translate spanish replay_d17s02_5db09cbc:
@@ -172,7 +172,7 @@ translate spanish replay_d17s02_23098fc0:
 translate spanish replay_d17s02_7d10f966:
 
     # mc "Well, no need to be so dramatic.{w} She just wanted me there."
-    mc "Bueno, no hay necesidad de ser tan dramática. {w} Ella solo me quería allí."
+    mc "Bueno, no hay necesidad de ser tan dramática. {w} Ella solo me quiere allí."
 
 # game/code/d17/d17s02.rpy:157
 translate spanish replay_d17s02_f95fb9ae:
@@ -280,7 +280,7 @@ translate spanish replay_d17s02_8d69b040:
 translate spanish replay_d17s02_f2700582:
 
     # mc "Intimidation and forcefulness aren't exactly the most useful tools to use when trying to mend a relationship."
-    mc "La intimidación y la contundencia no son exactamente las herramientas más útiles para usar cuando se trata de reparar una relación."
+    mc "La intimidación y la agresividad no son exactamente las herramientas más útiles para usar cuando se trata de reparar una relación."
 
 # game/code/d17/d17s02.rpy:204
 translate spanish replay_d17s02_b6eccd10:
@@ -682,7 +682,7 @@ translate spanish d17s02_vw_fucking_f06a99e2:
 translate spanish d17s02_vw_fucking_1d933d9e:
 
     # vw "You know, I wore those shoes that you came in."
-    vw "Sabes, me puse esos zapatos con los que viniste."
+    vw "Sabes, me puse esos zapatos en los que te corriste."
 
 # game/code/d17/d17s02.rpy:540
 translate spanish d17s02_vw_fucking_fdad1b11:
@@ -736,7 +736,7 @@ translate spanish d17s02_vw_fucking_c61f130f:
 translate spanish d17s02_vw_fucking_65e2de22:
 
     # mc "Don't push it out. I want you to walk around all day with my cum dripping out of you."
-    mc "No lo empujes. Quiero que camines todo el día con mi semen chorreando de ti."
+    mc "No lo empujes. Quiero que camines todo el día con mi semen chorreando en ti."
 
 # game/code/d17/d17s02.rpy:630
 translate spanish d17s02_vw_fucking_5dfa3cab:
