@@ -247,7 +247,7 @@ translate italian strings:
     new "9 FINALI"
 
     # game/code/data/extended/extra_gallery.rpy:251
-    old "YOU GOTTA PUMP THOS NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
+    old "YOU GOTTA PUMP THOSE NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
     new "DEVI AUMENTARE QUESTI NUMERI.\nQUESTI SONO NUMERI DA PRINCIPIANTE!"
 
     # game/code/data/extended/extra_gallery.rpy:270
@@ -267,8 +267,8 @@ translate italian strings:
     new "PER ASSICURARSI CHE NESSUNO\nSARÀ RICATTATO"
 
     # game/code/data/extended/extra_gallery.rpy:308
-    old "YOU'RE GOING TO\nUSE IT FOR GOOD, RIGHT?"
-    new "LO USERAI\nPER IL BENE, GIUSTO?"
+    old "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
+    new "LO USERAI PER\nIL BENE, GIUSTO?"
 
     # game/code/data/extended/extra_gallery.rpy:309
     old "RIGHT?"
@@ -281,6 +281,10 @@ translate italian strings:
     # game/code/data/extended/extra_gallery.rpy:327
     old "IS THAT A REAL ENDING?"
     new "È QUESTO IL VERO FINALE?"
+
+    # game/code/data/extended/extra_gallery.rpy:535
+    old "TRADE OFFER"
+    new "TRADE OFFER"
 
     # game/code/data/extended/extra_gallery.rpy:438
     old "I receive:"
@@ -297,4 +301,3 @@ translate italian strings:
     # game/code/data/extended/extra_gallery.rpy:441
     old "The whole\nharem pregnant"
     new "L'intero\nharem incinta"
-

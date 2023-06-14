@@ -236,7 +236,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:233
     old "HIGH SCORE :\n[persistent.minigame_max_score]"
-    new "PUNTUACIÓN MÁS ALTA :\n[persistent.minigame_max_score]"
+    new "PUNTUACIÓN\nMÁS ALTA :\n[persistent.minigame_max_score]"
 
     # game/code/data/extended/extra_gallery.rpy:249
     old "HOW MANY ENDINGS HAVE YOU UNLOCKED?"
@@ -247,7 +247,7 @@ translate spanish strings:
     new "9 FINALES"
 
     # game/code/data/extended/extra_gallery.rpy:251
-    old "YOU GOTTA PUMP THOS NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
+    old "YOU GOTTA PUMP THOSE NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
     new "TIENES QUE AUMENTAR ESOS NÚMEROS.\n¡ESOS SON NÚMEROS DE NOVATO!"
 
     # game/code/data/extended/extra_gallery.rpy:270
@@ -264,10 +264,10 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:307
     old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
-    new "PARA ASEGURARSE DE QUE NADIE\nSERA CHANTAJEADO"
+    new "PARA ASEGURARSE DE QUE\nNADIE SERA CHANTAJEADO"
 
     # game/code/data/extended/extra_gallery.rpy:308
-    old "YOU'RE GOING TO\nUSE IT FOR GOOD, RIGHT?"
+    old "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
     new "LO VAS A UTILIZAR\nPARA BIEN, ¿VERDAD?"
 
     # game/code/data/extended/extra_gallery.rpy:309
@@ -282,13 +282,17 @@ translate spanish strings:
     old "IS THAT A REAL ENDING?"
     new "¿ES ESE UN FINAL DE VERDAD?"
 
+    # game/code/data/extended/extra_gallery.rpy:535
+    old "TRADE OFFER"
+    new "TRADE OFFER"
+
     # game/code/data/extended/extra_gallery.rpy:438
     old "I receive:"
     new "Recibo:"
 
     # game/code/data/extended/extra_gallery.rpy:439
     old "Cum in every pussy\nat the wedding"
-    new "Córrete en cada coño\nen la boda"
+    new "Córrete en cada\ncoño en la boda"
 
     # game/code/data/extended/extra_gallery.rpy:440
     old "You receive:"
