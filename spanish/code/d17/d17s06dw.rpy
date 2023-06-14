@@ -328,7 +328,7 @@ translate spanish d17s06dw_first_room_58f95e0e:
 translate spanish d17s06dw_first_room_354af34e:
 
     # mct "It {i}is{/i} creepy as hell, woman."
-    mct "Lo {i}es{/i} espeluznante como el infierno, mujer."
+    mct "Lo {i}es{/i}... espeluznante como el infierno, mujer."
 
 # game/code/d17/d17s06dw.rpy:250
 translate spanish d17s06dw_first_room_f7e35999:
@@ -352,7 +352,7 @@ translate spanish d17s06dw_first_room_3b30dc63:
 translate spanish d17s06dw_first_room_79325953:
 
     # dw "Dated or ...?"
-    dw "Salido o...?"
+    dw "¿Salido o...?"
 
 # game/code/d17/d17s06dw.rpy:269
 translate spanish d17s06dw_first_room_2ffab0e0:
@@ -424,7 +424,7 @@ translate spanish d17s06dw_first_room_2eadef5e:
 translate spanish d17s06dw_first_room_5568c00f:
 
     # mc "There's some light further down the hallway."
-    mc "Hay algo de luz más abajo en el pasillo."
+    mc "Hay algo de luz al final del pasillo."
 
 # game/code/d17/d17s06dw.rpy:314
 translate spanish d17s06dw_first_room_aca56175:
@@ -472,7 +472,7 @@ translate spanish d17s06dw_clown_room_716f8d2d:
 translate spanish d17s06dw_clown_room_19fe3dab:
 
     # mc "That doesn't bother you??? That thing freaks me the fuck out."
-    mc "¿¿¿Eso no te molesta??? Esa cosa me asusta como la mierda."
+    mc "¿¿¿Eso no te molesta??? Esa cosa me asusta mucho."
 
 # game/code/d17/d17s06dw.rpy:356
 translate spanish d17s06dw_clown_room_2c8138e5:
@@ -544,7 +544,7 @@ translate spanish d17s06dw_clown_room_8575e379:
 translate spanish d17s06dw_clown_room_63572980:
 
     # dw "Listen to your Mistress. {w}NOW STRIP!"
-    dw "Escucha a tus Amas. {w}¡AHORA DESNUDATE!"
+    dw "Escucha a tus Amas. {w}¡AHORA DESNÚDATE!"
 
 # game/code/d17/d17s06dw.rpy:392
 translate spanish d17s06dw_clown_room_c0052b5c:
