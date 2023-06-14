@@ -52,7 +52,7 @@ translate spanish d17s01_852d6b52:
 translate spanish d17s01_85539b83:
 
     # lc "Goood Morning{w}wood..."
-    lc "Buenos días{w}madera..."
+    lc "Buenos días{w} madera..."
 
 # game/code/d17/d17s01.rpy:84
 translate spanish d17s01_c3742bb7:
@@ -130,7 +130,7 @@ translate spanish d17s01_6ed2a3e3:
 translate spanish d17s01_f9c5969e:
 
     # lc "A pleasant surprise. Besides, it should help us prepare for Finals."
-    lc "Una sorpresa agradable. Además, debería ayudarnos a prepararnos para las finales."
+    lc "Una sorpresa agradable. Además, debería ayudarnos a prepararnos para los finales."
 
 # game/code/d17/d17s01.rpy:123
 translate spanish d17s01_a4cd16d2:
@@ -226,7 +226,7 @@ translate spanish d17s01_df106e77:
 translate spanish d17s01_bb647f11:
 
     # mc "Alright, then. Let's hit the books!"
-    mc "Bien entonces. ¡Vamos a los libros!"
+    mc "Bien entonces. ¡Vamos con los libros!"
 
 # game/code/d17/d17s01.rpy:177
 translate spanish d17s01_675c78f7:
@@ -364,7 +364,7 @@ translate spanish d17s01_1f1cd9e0:
 translate spanish d17s01_713348b8:
 
     # lc "Sorry, I didn't realize it was such a nerve. Don't worry, I won't tell anyone."
-    lc "Lo siento, no me di cuenta de que era tan nervioso. No te preocupes, no se lo diré a nadie."
+    lc "Lo siento, no me di cuenta de que era tan nerviosa. No te preocupes, no se lo diré a nadie."
 
 # game/code/d17/d17s01.rpy:241
 translate spanish d17s01_4452e293:
@@ -478,13 +478,13 @@ translate spanish d17s01_a16e7230:
 translate spanish d17s01_de3240c1:
 
     # arj "Wait, what?"
-    arj "Espera, ¿qué?"
+    arj "Espera, ¿qué?."
 
 # game/code/d17/d17s01.rpy:296
 translate spanish d17s01_7f88693a:
 
     # mc "What exactly do you have in mind?"
-    mc "¿Qué es exactamente lo que tienes en mente?"
+    mc "¿Qué es exactamente lo que tienes en mente?."
 
 # game/code/d17/d17s01.rpy:299
 translate spanish d17s01_c116b095:
@@ -526,7 +526,7 @@ translate spanish d17s01_62639f1f:
 translate spanish d17s01_5313226e:
 
     # lc "I want to watch you two having sex. Right here. In front of me."
-    lc "Quiero verlas a ustedes dos teniendo sexo. Aquí mismo. En frente de mí."
+    lc "Quiero verlos a ustedes dos teniendo sexo. Aquí mismo. En frente de mí."
 
 # game/code/d17/d17s01.rpy:318
 translate spanish d17s01_441f1023:
@@ -724,7 +724,7 @@ translate spanish d17s01_36ffa2f5:
 translate spanish d17s01_979c088d:
 
     # arj "We'll do this thing for you. I'm sure that [mcname] & I are going to love it."
-    arj "Haremos esto por ti. Estoy segura de que [mcname] y me va a encantar."
+    arj "Haremos esto por ti. Estoy segura de que [mcname] y a mí nos va a encantar."
 
 # game/code/d17/d17s01.rpy:413
 translate spanish d17s01_337cb390:
@@ -1114,7 +1114,7 @@ translate spanish d17s01_anal_sex_457a2223:
 translate spanish d17s01_anal_sex_32e06c71:
 
     # arj "OW!!! OW!!! OW!!{w} STOP THAT!!!"
-    arj "¡¡¡AY!!! ¡¡¡AY!!! ¡¡¡AY!!{w} ¡¡¡DETEN ESO!!!"
+    arj "¡¡¡AY!!! ¡¡¡AY!!! ¡¡¡AY!!!{w} ¡¡¡DETÉN ESO!!!"
 
 # game/code/d17/d17s01.rpy:734
 translate spanish d17s01_anal_sex_f0eeda9a:
@@ -1168,7 +1168,7 @@ translate spanish d17s01_anal_sex_75e1f4cc:
 translate spanish d17s01_anal_sex_58327a21:
 
     # lc "Fetish Locator."
-    lc "Localizador de Fetiche."
+    lc "Localizador de Fetiches."
 
 # game/code/d17/d17s01.rpy:769
 translate spanish d17s01_anal_sex_97a8ccdc:
@@ -1252,7 +1252,7 @@ translate spanish d17s01_anal_sex_01f758f7:
 translate spanish d17s01_anal_sex_6d49c75e:
 
     # lc "Maybe next time?"
-    lc "¿Tal vez la próxima vez?"
+    lc "¿Quizás la próxima vez?"
 
 # game/code/d17/d17s01.rpy:819
 translate spanish d17s01_anal_sex_781f6644:
@@ -1396,7 +1396,7 @@ translate spanish d17s01_anal_sex_0e7836ca:
 translate spanish d17s01_anal_sex_7fed454e:
 
     # arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX LIKE I WAS YOUR SISTER!!!"
-    arj "¡¡¡AAOOOAAHoooaahhh!!! SÍ!!!{w} ¡¡¡CREAMPIE MI CAJA SUCIA COMO SI FUERA TU HERMANA!!!"
+    arj "¡¡¡AAOOOAAHoooaahhh!!! SÍ!!!{w} ¡¡¡CREAMPIE EN MI CAJA SUCIA COMO SI YO FUERA TU HERMANA!!!"
 
 # game/code/d17/d17s01.rpy:888
 translate spanish d17s01_anal_sex_6669855a:
