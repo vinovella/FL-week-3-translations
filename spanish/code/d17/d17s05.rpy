@@ -82,7 +82,7 @@ translate spanish d17s05_650388e7:
 translate spanish d17s05_64cf29f2:
 
     # mc "What about Oliver?"
-    mc "¿Qué hay de Óliver?"
+    mc "¿Qué hay de Oliver?"
 
 # game/code/d17/d17s05.rpy:85
 translate spanish d17s05_9ec605f7:
