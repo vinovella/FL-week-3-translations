@@ -10,7 +10,7 @@ translate spanish d17s03_9a6462db:
 translate spanish d17s03_bf0f175d:
 
     # ir "Hey [mcname]. Glad you could make it."
-    ir "Hola [mcname]. Me alegro de que pudieras hacerlo."
+    ir "Hola [mcname]. Me alegro de que pudieras venir."
 
 # game/code/d17/d17s03.rpy:22
 translate spanish d17s03_432b9380:
@@ -130,7 +130,7 @@ translate spanish d17s03_ee87e6f3:
 translate spanish d17s03_8bd34ed7:
 
     # ir "I mean, obviously I don't have the usual tools when I tend bar outside the bar."
-    ir "Quiero decir, obviamente no tengo las herramientas habituales cuando atiendo la barra fuera de la barra."
+    ir "Quiero decir, obviamente no tengo las herramientas habituales que tengo cuando estoy atendiendo la barra fuera de la barra."
 
 # game/code/d17/d17s03.rpy:85
 translate spanish d17s03_4f43c917:
@@ -166,7 +166,7 @@ translate spanish d17s03_e28b8a06:
 translate spanish d17s03_4788bebf:
 
     # ir "No, there isn't.{w} Anyway, tales for another time."
-    ir "No, no lo hay. {w} De todos modos, historia para otro momento."
+    ir "No, no lo hay. {w} De todos modos... historia para otro momento."
 
 # game/code/d17/d17s03.rpy:103
 translate spanish d17s03_842391ed:
@@ -208,7 +208,7 @@ translate spanish d17s03_16c7e2c3:
 translate spanish d17s03_d6b60c55:
 
     # ir "Yes, but-{w} Anyway, I wanted to talk to you about the one I can't say."
-    ir "Sí, pero-{w} De todos modos, quería hablar contigo sobre el que no puedo decir."
+    ir "Sí, pero-{w} De todos modos, quería hablar contigo sobre lo que no puedo decir."
 
 # game/code/d17/d17s03.rpy:122
 translate spanish d17s03_8414ebd2:
@@ -334,7 +334,7 @@ translate spanish d17s03_fd1c4c3c:
 translate spanish d17s03_301866cf:
 
     # ir "Exactly.{w} Fraternal, not identical."
-    ir "Exactamente. {w} Fraternal, no idéntico."
+    ir "Exactamente. {w} Fraternal, no idéntica."
 
 # game/code/d17/d17s03.rpy:183
 translate spanish d17s03_3593db5a:
@@ -412,7 +412,7 @@ translate spanish d17s03_4726ba3a:
 translate spanish d17s03_a0a13cc1:
 
     # mc "Tale as old as time. Although, you don't seem to be looking for trouble."
-    mc "Una historia tan viejo como el tiempo. Aunque, no pareces estar buscando problemas."
+    mc "Una historia tan vieja como el tiempo. Aunque, no pareces estar buscando problemas."
 
 # game/code/d17/d17s03.rpy:221
 translate spanish d17s03_1f0413af:
@@ -496,7 +496,7 @@ translate spanish d17s03_81782d78:
 translate spanish d17s03_64fb5e5b:
 
     # mc "Not Yours?"
-    mc "¿No es tuyo?"
+    mc "El que dice, ¿No es tuya?"
 
 # game/code/d17/d17s03.rpy:261
 translate spanish d17s03_fdb4be8b:
@@ -616,7 +616,7 @@ translate spanish d17s03_4f796d84:
 translate spanish d17s03_557c7ca6:
 
     # ir "Maybe me more than Hana. He always said that I was his favorite."
-    ir "Tal vez yo más que Hana. Siempre decía que yo era su favorita."
+    ir "Tal vez más a mí, que a Hana. Siempre decía que yo era su favorita."
 
 # game/code/d17/d17s03.rpy:320
 translate spanish d17s03_026c7681:
@@ -676,7 +676,7 @@ translate spanish d17s03_64d07154:
 translate spanish d17s03_ce018735:
 
     # mc "Let me get this straight. You and Hana have known each other since before you were even born."
-    mc "Déjame entenderlo. Tú y Hana se conocen desde antes de que nacieras."
+    mc "A ver si lo entiendo. Tú y Hana se conocen desde antes de que nacieran."
 
 # game/code/d17/d17s03.rpy:343
 translate spanish d17s03_a76a6e36:
@@ -844,7 +844,7 @@ translate spanish d17s03_3d54a22f:
 translate spanish d17s03_5ab3268b:
 
     # mc "And since then he's been paying more attention to her, and they've both been paying less attention to you."
-    mc "Y desde entonces él le ha estado prestando más atención a ella, y ambos te han estado prestando menos atención a ti."
+    mc "Y desde entonces, él le ha estado prestando más atención a ella, y ambos te han estado prestando menos atención a ti."
 
 # game/code/d17/d17s03.rpy:432
 translate spanish d17s03_91a7a99d:
@@ -874,13 +874,13 @@ translate spanish d17s03_f95aad16:
 translate spanish d17s03_846091c5:
 
     # ir "Maybe I've changed my mind.{w} Maybe I should just beat the living shit out of you and make sure you're so brain damaged that you can't remember this conversation."
-    ir "Quizá he cambiado de opinión. {w} Quizá debería darle una paliza y asegurarme de que tienes el cerebro tan dañado que no puede recordar esta conversación."
+    ir "Quizá he cambiado de opinión. {w} Quizás debería darte una paliza y asegurarme de que tienes el cerebro tan dañado que no puedas recordar esta conversación."
 
 # game/code/d17/d17s03.rpy:447
 translate spanish d17s03_bd13bba7:
 
     # mc "Fuck! Whoa!! Whoa!!!"
-    mc "¡Mierda! ¡Guau! ¡Guau!"
+    mc "¡Mierda! ¡Whoa! ¡Whoa!"
 
 # game/code/d17/d17s03.rpy:450
 translate spanish d17s03_cfb1c03e:
