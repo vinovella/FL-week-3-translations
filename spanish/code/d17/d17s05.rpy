@@ -334,7 +334,7 @@ translate spanish d17s05_7be27f7e:
 translate spanish d17s05_300d8de6:
 
     # mc "Alright then. Get ready, I'll pick you up—"
-    mc "Bien entonces. Prepárate, te recogeré"
+    mc "Muy bien. Prepárate, iré a recogerte."
 
 # game/code/d17/d17s05.rpy:226
 translate spanish d17s05_def5f643:
