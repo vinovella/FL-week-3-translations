@@ -88,7 +88,7 @@ translate spanish strings:
 
     # game/code/d17/d17s06.rpy:17
     old "Back at the dorm"
-    new "Volver al dormitorio"
+    new "De vuelta en el dormitorio"
 
     # game/code/d17/d17s06.rpy:58
     old "Respond to Daisy"
