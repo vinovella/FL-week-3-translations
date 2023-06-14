@@ -313,3 +313,7 @@ translate malay strings:
     # game/code/screens/screens_fl.rpy:1344
     old "Skip Recap\nof Week-2"
     new "Skip Recap\nof Week-2"
+
+    # game/code/screens/screens_fl.rpy:180
+    old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
+    new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"

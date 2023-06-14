@@ -310,3 +310,6 @@ translate chinese strings:
     old "Close the game"
     new "Close the game"
 
+    # game/code/screens/screens_fl.rpy:180
+    old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
+    new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"

@@ -24,7 +24,7 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:308
     old "Continue from week [FLSS.week.prev]"
-    new "Continúa de la semana [FLSS.week.prev]"
+    new "Cont. de la semana [FLSS.week.prev]"
 
     # game/code/screens/screens.rpy:312
     old "Start"
@@ -353,4 +353,3 @@ translate spanish strings:
     # game/code/screens/screens.rpy:1722
     old "Menu"
     new "Menú"
-

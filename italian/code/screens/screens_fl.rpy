@@ -234,3 +234,11 @@ translate italian strings:
     old "Skip Recap\nof Week-2"
     new "Salta il Recap\ndella Week-2"
 
+# TODO: Translation updated at 2023-06-14 16:04
+
+translate italian strings:
+
+    # game/code/screens/screens_fl.rpy:180
+    old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
+    new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
+

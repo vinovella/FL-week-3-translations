@@ -246,9 +246,9 @@ translate russian strings:
     old "9 ENDINGS"
     new "9 ENDINGS"
 
-    # game/code/data/extended/extra_gallery.rpy:251
-    old "YOU GOTTA PUMP THOS NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
-    new "YOU GOTTA PUMP THOS NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
+    # game/code/data/extended/extra_gallery.rpy:268
+    old "YOU GOTTA PUMP THOSE NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
+    new "YOU GOTTA PUMP THOSE NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
 
     # game/code/data/extended/extra_gallery.rpy:270
     old "6 endings\naren't enough.\nI need all 18 now!!!"
@@ -266,9 +266,9 @@ translate russian strings:
     old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
     new "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
 
-    # game/code/data/extended/extra_gallery.rpy:308
-    old "YOU'RE GOING TO\nUSE IT FOR GOOD, RIGHT?"
-    new "YOU'RE GOING TO\nUSE IT FOR GOOD, RIGHT?"
+    # game/code/data/extended/extra_gallery.rpy:354
+    old "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
+    new "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
 
     # game/code/data/extended/extra_gallery.rpy:309
     old "RIGHT?"
@@ -281,6 +281,10 @@ translate russian strings:
     # game/code/data/extended/extra_gallery.rpy:327
     old "IS THAT A REAL ENDING?"
     new "IS THAT A REAL ENDING?"
+
+    # game/code/data/extended/extra_gallery.rpy:535
+    old "TRADE OFFER"
+    new "TRADE OFFER"
 
     # game/code/data/extended/extra_gallery.rpy:438
     old "I receive:"
@@ -297,4 +301,3 @@ translate russian strings:
     # game/code/data/extended/extra_gallery.rpy:441
     old "The whole\nharem pregnant"
     new "The whole\nharem pregnant"
-
