@@ -130,7 +130,7 @@ translate spanish d17s05ms_5b05fb05:
 translate spanish d17s05ms_9a52e4d1:
 
     # sy "I just think she's neat man, I dunno what to say."
-    sy "Sólo creo que es un hombre limpio, no sé qué decir."
+    sy "Sólo creo que es una persona ordenada, no sé qué decir."
 
 # game/code/d17/d17s05ms.rpy:76
 translate spanish d17s05ms_79f050ff:
@@ -166,7 +166,7 @@ translate spanish d17s05ms_da547461:
 translate spanish d17s05ms_db00d39d:
 
     # mh "Hey, you two. I've been waiting."
-    mh "Hola, ustedes dos. He estado esperando."
+    mh "Hola, ustedes dos. Los he estado esperando."
 
 # game/code/d17/d17s05ms.rpy:107
 translate spanish d17s05ms_b1b0620a:
@@ -304,7 +304,7 @@ translate spanish d17s05ms_65f34967:
 translate spanish d17s05ms_63332afb:
 
     # mh "How about we play some Cards Against Humans? See where we go from there."
-    mh "¿Qué tal si jugamos a Cartas contra la humanidad? Vea a dónde vamos desde allí."
+    mh "¿Qué tal si jugamos a Cartas contra la humanos? Y vemos a dónde nos lleva."
 
 # game/code/d17/d17s05ms.rpy:173
 translate spanish d17s05ms_836758cd:
@@ -328,7 +328,7 @@ translate spanish d17s05ms_2b2c20be:
 translate spanish d17s05ms_8d26754f:
 
     # mh "So... Who went to the bathroom most recently?"
-    mh "Entonces... ¿Quién fue al baño más recientemente?"
+    mh "Entonces... ¿Quién fue al baño recientemente?"
 
 # game/code/d17/d17s05ms.rpy:183
 translate spanish d17s05ms_bc9eef2a:
@@ -352,7 +352,7 @@ translate spanish d17s05ms_918bef5e:
 translate spanish d17s05ms_30df9cf2:
 
     # mh "Well, the game starts by picking the most recent person that went uh...\"potty.\""
-    mh "Bueno, el juego comienza eligiendo a la persona más reciente que haya ido... \"al baño.\""
+    mh "Bueno, el juego comienza eligiendo a la persona que reciente haya ido... \" al baño.\""
 
 # game/code/d17/d17s05ms.rpy:195
 translate spanish d17s05ms_947f8759:
@@ -364,7 +364,7 @@ translate spanish d17s05ms_947f8759:
 translate spanish d17s05ms_448cce68:
 
     # mc "Uhm, I think I might be the one that most recently took a shit then?"
-    mc "Uhm, creo que yo podría ser el que más recientemente tomó una mierda entonces?"
+    mc "Uhm, creo que yo podría ser el que recientemente hizo una cagada, ¿entonces?"
 
 # game/code/d17/d17s05ms.rpy:199
 translate spanish d17s05ms_687edec7:
@@ -388,7 +388,7 @@ translate spanish d17s05ms_9f6c0018:
 translate spanish d17s05ms_cbf39a11:
 
     # mc "Oh this'll be fun. You two have to pick the most heinous white card, right?"
-    mc "Oh, esto será divertido. Ustedes dos tienen que elegir la tarjeta blanca más atroz, ¿verdad?"
+    mc "Oh, esto será divertido. Ustedes dos tienen que elegir la tarjeta blanca más horrible, ¿verdad?"
 
 # game/code/d17/d17s05ms.rpy:211
 translate spanish d17s05ms_43e491ee:
@@ -490,7 +490,7 @@ translate spanish d17s05ms_2f743fdb:
 translate spanish d17s05ms_f2768387:
 
     # mc "I'll go get it. You two socialize or something."
-    mc "Iré a buscarlo. Ustedes dos socialicen o algo así."
+    mc "Iré a buscarla. Ustedes dos socialicen o algo así."
 
 # game/code/d17/d17s05ms.rpy:277
 translate spanish d17s05ms_881c4397:
@@ -508,7 +508,7 @@ translate spanish d17s05ms_5484cf21:
 translate spanish d17s05ms_30592f4d:
 
     # mh "Of course. You're a delight."
-    mh "Por supuesto. Eres una delicia."
+    mh "Por supuesto. Eres un encanto."
 
 # game/code/d17/d17s05ms.rpy:288
 translate spanish d17s05ms_4e098d40:
@@ -520,7 +520,7 @@ translate spanish d17s05ms_4e098d40:
 translate spanish d17s05ms_33f0e9f8:
 
     # sy "No, actually. I'll be going next year. Kinda just hanging out, enjoying my freedom."
-    sy "No actualmente. Iré el próximo año. Un poco, simplemente pasando el rato, disfrutando de mi libertad."
+    sy "No actualmente. Iré el próximo año. Simplemente pasando el rato, disfrutando de mi libertad."
 
 # game/code/d17/d17s05ms.rpy:292
 translate spanish d17s05ms_1f279512:
@@ -640,7 +640,7 @@ translate spanish d17s05ms_7fe5f872:
 translate spanish d17s05ms_d8309af7:
 
     # sy "I was looking for something more in the direction of actual software development."
-    sy "Estaba buscando algo más en la dirección del desarrollo de software."
+    sy "Estaba buscando algo más en la dirección de desarrollo de software."
 
 # game/code/d17/d17s05ms.rpy:347
 translate spanish d17s05ms_8e166129:
@@ -784,13 +784,13 @@ translate spanish d17s05ms_af415a9c:
 translate spanish d17s05ms_057dd449:
 
     # sy "\"But\"!?"
-    sy "\"¿¡Pero\"!?"
+    sy "\"¿¡Pero!?\""
 
 # game/code/d17/d17s05ms.rpy:419
 translate spanish d17s05ms_1fbbb5c7:
 
     # mh "\"{i}But{/i}\"?"
-    mh "\"{i}¿Pero{/i}\"?"
+    mh "\"{i}¿Pero?{/i}\""
 
 # game/code/d17/d17s05ms.rpy:422
 translate spanish d17s05ms_834b86a7:
@@ -880,7 +880,7 @@ translate spanish d17s05ms_e562842a:
 translate spanish d17s05ms_4aaa8287:
 
     # mh "I don't mind your relationship with him. I think it's cute even."
-    mh "No me importa tu relación con él. Creo que es lindo incluso."
+    mh "No me molesta tu relación con él. Creo que incluso es lindo."
 
 # game/code/d17/d17s05ms.rpy:487
 translate spanish d17s05ms_19b9503b:
@@ -1216,7 +1216,7 @@ translate spanish d17s05ms_fe2d0d68:
 translate spanish d17s05ms_8a2d0b06:
 
     # mc "We will. You should go lay down a bit."
-    mc "Lo haremos. Deberías ir a acostarte un poco."
+    mc "Lo haremos. Deberías ir a acostarte un rato."
 
 # game/code/d17/d17s05ms.rpy:686
 translate spanish d17s05ms_3a9ee234:
