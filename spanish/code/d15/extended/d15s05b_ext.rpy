@@ -430,7 +430,7 @@ translate spanish d15s05b_ext_2daca859:
 translate spanish d15s05b_ext_06a87d73:
 
     # pw "Can't you just take it off?{w} That would seriously fuck with the Fetish of the Day."
-    pw "¿No puedes simplemente quitártelo? {w} Eso arruinaría seriamente al Fetiche del día."
+    pw "¿No puedes simplemente quitártelo? {w} Eso arruinaría seriamente el Fetiche del día."
 
 # game/code/d15/extended/d15s05b_ext.rpy:248
 translate spanish d15s05b_ext_a8f672a7:
