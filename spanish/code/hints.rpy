@@ -88,7 +88,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Polly fucks Nora with a strap-on, starting with Nora giving head."
-    new "Polly fucks Nora with a strap-on, starting with Nora giving head."
+    new "Polly se folla a Nora con un arnés, empezando con Nora dando mamadas."
 
     # game/code/hints.rpy:5
     old "Starts with Nora fucking Polly's tail with a strap-on."
