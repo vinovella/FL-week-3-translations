@@ -30,3 +30,11 @@ translate chinese strings:
     old "You can only select one out of Daisy and Dahlia"
     new "你只能从黛西和黛丽娅中选择一人"
 
+# TODO: Translation updated at 2023-06-15 00:06
+
+translate chinese strings:
+
+    # game/code/functions.rpy:23
+    old "You have unlocked Ending #{}"
+    new "You have unlocked Ending #{}"
+

@@ -30,3 +30,11 @@ translate spanish strings:
     old "You can only select one out of Daisy and Dahlia"
     new "Sólo puedes elegir a una entre Daisy y Dahlia"
 
+# TODO: Translation updated at 2023-06-15 00:05
+
+translate spanish strings:
+
+    # game/code/functions.rpy:23
+    old "You have unlocked Ending #{}"
+    new "You have unlocked Ending #{}"
+
