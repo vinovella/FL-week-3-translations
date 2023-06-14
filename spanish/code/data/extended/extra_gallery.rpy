@@ -300,4 +300,4 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:441
     old "The whole\nharem pregnant"
-    new "Todo el\nharem embarazada"
+    new "Todo el harem\nembarazada"
