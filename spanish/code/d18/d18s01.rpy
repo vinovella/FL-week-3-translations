@@ -298,7 +298,7 @@ translate spanish d18s01_cuddle_ce87cd97:
 translate spanish d18s01_cuddle_e5a76e6a:
 
     # mct "That sounds more like Min.{w} Sure, I guess I'll be there."
-    mct ""Eso suena más como Min. {w} Claro, supongo que estaré allí."
+    mct "Eso suena más como Min. {w} Claro, supongo que estaré allí."
 
 # game/code/d18/d18s01.rpy:213
 translate spanish d18s01_cuddle_4fa04863:

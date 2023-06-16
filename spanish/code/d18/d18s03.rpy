@@ -334,7 +334,7 @@ translate spanish d18s03_ab5d0b11:
 translate spanish d18s03_4b83ce7f:
 
     # mc "To quote the Russian proverb, \"Trust, but Verify.\""
-    mc "Citando el proverbio ruso: \"Confía, pero verifica".\""
+    mc "Citando el proverbio ruso: \"Confía, pero verifica\"."
 
 # game/code/d18/d18s03.rpy:250
 translate spanish d18s03_a0e32941:
@@ -472,7 +472,7 @@ translate spanish d18s03_5b2a287a:
 translate spanish d18s03_68729103:
 
     # mes "Every minister is inexperienced."
-    mes Todos ministro es inexperto."
+    mes "Todos ministro es inexperto."
 
 # game/code/d18/d18s03.rpy:329
 translate spanish d18s03_cfd721d7:

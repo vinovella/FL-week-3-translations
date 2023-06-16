@@ -118,7 +118,7 @@ translate spanish d18s11_bar_77dee9d8:
 translate spanish d18s11_bar_617f5b25:
 
     # mc "Okay, I'll take a bottle."
-    mc ""Está bien, tomaré una botella."
+    mc "Está bien, tomaré una botella."
 
 # game/code/d18/d18s11.rpy:116
 translate spanish d18s11_bar_9e0a9f12:

@@ -28,7 +28,7 @@ translate spanish d18s04_8aaa3db5:
 translate spanish d18s04_c5e0d6aa:
 
     # vw "How do you want me?"
-    vw ¿Cómo me quieres?"
+    vw "¿Cómo me quieres?"
 
 # game/code/d18/d18s04.rpy:98
 translate spanish d18s04_2dc8a1cd:
@@ -676,7 +676,7 @@ translate spanish d18s04_a7a8c500:
 translate spanish d18s04_f5bc7100:
 
     # aw "Mmm, I love his tongue."
-    aw ""Mmm, me encanta su lengua."
+    aw "Mmm, me encanta su lengua."
 
 # game/code/d18/d18s04.rpy:621
 translate spanish d18s04_fd1e9ba4:
@@ -736,7 +736,7 @@ translate spanish d18s04_17c94a10:
 translate spanish d18s04_92dc5b79:
 
     # aw "Then start now."
-    aw Entonces empieza ahora."
+    aw "Entonces empieza ahora."
 
 # game/code/d18/d18s04.rpy:702
 translate spanish d18s04_019850de:

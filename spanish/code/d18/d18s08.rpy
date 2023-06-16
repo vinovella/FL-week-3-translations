@@ -238,7 +238,7 @@ translate spanish d18s08_e57fefe0:
 translate spanish d18s08_12069a93:
 
     # tl "Thank you. It's hard to find a good, pious woman these days."
-Gracias. Es difícil encontrar una mujer buena y piadosa en estos días."
+    tl "Gracias. Es difícil encontrar una mujer buena y piadosa en estos días."
 
 # game/code/d18/d18s08.rpy:153
 translate spanish d18s08_40d04a40:

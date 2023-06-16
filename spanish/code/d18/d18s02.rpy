@@ -10,7 +10,7 @@ translate spanish d18s02_f772c18d:
 translate spanish d18s02_9a113174:
 
     # arj "Hey, good morning.{w} I think we're close to cracking this thing."
-    arj """"Hola, buenos días. {w} Creo que estamos cerca de resolver esto."
+    arj "Hola, buenos días. {w} Creo que estamos cerca de resolver esto."
 
 # game/code/d18/d18s02.rpy:39
 translate spanish d18s02_e71eaad4:

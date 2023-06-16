@@ -628,7 +628,7 @@ translate spanish d18s10_bdsm_3534c286:
 translate spanish d18s10_bdsm_885b1723:
 
     # pb "NOT FUCKING GOOD ENOUGH. TRY AGAIN!"
-    pb "NO LO SUFICIENTEMENTE BUENO. ¡INTENTA OTRA VEZ!""
+    pb "NO LO SUFICIENTEMENTE BUENO. ¡INTENTA OTRA VEZ!"
 
 # game/code/d18/d18s10.rpy:775
 translate spanish d18s10_bdsm_6ac787cc:

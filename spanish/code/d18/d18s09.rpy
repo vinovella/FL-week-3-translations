@@ -178,7 +178,7 @@ translate spanish d18s09_f1c8de29:
 translate spanish d18s09_dffe9c23:
 
     # cf "Are we on camera right now? Is this some kind of prank?"
-    cf ""¿Estamos en cámara en este momento? ¿Es esto algún tipo de broma?"
+    cf "¿Estamos en cámara en este momento? ¿Es esto algún tipo de broma?"
 
 # game/code/d18/d18s09.rpy:141
 translate spanish d18s09_dc7de5f8:
@@ -364,7 +364,7 @@ translate spanish d18s09_e57ccc38:
 translate spanish d18s09_55532a72:
 
     # mct "Huh. She is gonna go out through the window."
-    mct ""Eh. Ella va a salir por la ventana."
+    mct "Eh. Ella va a salir por la ventana."
 
 # game/code/d18/d18s09.rpy:258
 translate spanish d18s09_101545b3:
@@ -412,7 +412,7 @@ translate spanish d18s09_continue_9cecc2fe:
 translate spanish d18s09_continue_ffad4269:
 
     # mc "While you suck on that...{w} do you mind if I ask you a few questions?"
-    mc ""Mientras chupas eso... {w} ¿te importa si te hago algunas preguntas?"
+    mc "Mientras chupas eso... {w} ¿te importa si te hago algunas preguntas?"
 
 # game/code/d18/d18s09.rpy:298
 translate spanish d18s09_continue_80f1c16c:
@@ -616,7 +616,7 @@ translate spanish d18s09_continue_29f162fd:
 translate spanish d18s09_continue_0cd936e5:
 
     # mc "I'M GONNA CUM TOO!!!"
-    mc "¡¡¡YO TAMBIÉN ME VOY A CORRER!!!""
+    mc "¡¡¡YO TAMBIÉN ME VOY A CORRER!!!"
 
 # game/code/d18/d18s09.rpy:393
 translate spanish d18s09_continue_e09d3871:
