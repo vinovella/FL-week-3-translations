@@ -274,13 +274,13 @@ translate spanish d18s04_226881f9:
 translate spanish d18s04_02159c46:
 
     # aw "Hah! All these years and you had to be reduced to a blind and gagged piece of fuckmeat to actually {i}listen{/i} for one goddamn moment huh, Vanessa?"
-    aw "¡Ja! Todos estos años y tuviste que ser reducido a un ciego y amordazado pedazo de carne de mierda para realmente {i}escuchar{/i} por un maldito momento ¿eh, Vanessa?"
+    aw "¡Ja! Todos estos años y tuviste que ser reducida a un ciego y amordazado pedazo de carne de mierda para realmente {i}escuchar{/i} por un maldito momento ¿eh, Vanessa?"
 
 # game/code/d18/d18s04.rpy:248
 translate spanish d18s04_882526d0:
 
     # aw "Five years. That's how long it was, you know."
-    aw "Cinco años. Ese es el tiempo que pasó, ya sabes."
+    aw "Cinco años. Ese es el tiempo que ha pasado, y tu lo sabes."
 
 # game/code/d18/d18s04.rpy:249
 translate spanish d18s04_46cfc669:
@@ -304,7 +304,7 @@ translate spanish d18s04_9c3ce9ef:
 translate spanish d18s04_c28fd43c:
 
     # aw "And still, I survived. The people you hated so damn much accepted me for who I was, and I {i}{b}thrived{/b}{/i}."
-    aw "Y aún así, sobreviví. Las personas que tanto odiabas me aceptaban por lo que era y {i}{b}prosperé{/b}{/i}."
+    aw "Y aun así, sobreviví. La gente que tanto odiabas me aceptó por lo que era, y yo {i}{b}prosperé{/b}{/i}."
 
 # game/code/d18/d18s04.rpy:263
 translate spanish d18s04_d11f2731:
@@ -412,7 +412,7 @@ translate spanish d18s04_8d486938:
 translate spanish d18s04_c2c697ce:
 
     # aw "{b}BEING HUMILIATED BY YOUR OWN DAUGHTER!?{/b}"
-    aw "{b}¿¡SER HUMILLADO POR TU PROPIA HIJA!?{/b}"
+    aw "{b}¿¡SER HUMILLADA POR TU PROPIA HIJA!?{/b}"
 
 # game/code/d18/d18s04.rpy:368
 translate spanish d18s04_c3f83fa5:
@@ -514,7 +514,7 @@ translate spanish d18s04_8f15abca:
 translate spanish d18s04_701a4caa:
 
     # aw "Let her go."
-    aw "Déjala ir."
+    aw "Suéltala."
 
 # game/code/d18/d18s04.rpy:494
 translate spanish d18s04_a49ed4f8:
@@ -550,7 +550,7 @@ translate spanish d18s04_bd119a99:
 translate spanish d18s04_cc800dda:
 
     # vw "I'm so sorry I wasn't there when you needed me. I abandoned you."
-    vw "Lamento mucho no haber estado allí cuando me necesitabas. te abandoné"
+    vw "Lamento mucho no haber estado allí cuando me necesitabas. te abandoné."
 
 # game/code/d18/d18s04.rpy:509
 translate spanish d18s04_f5465819:
@@ -628,7 +628,7 @@ translate spanish d18s04_14eb4212:
 translate spanish d18s04_134dff8b:
 
     # vw "Oh, oh my. I forgot you were there, [mcname]."
-    vw "Oh, oh mi Olvidé que estabas allí, [mcname]."
+    vw "Oh. Olvidé que estabas allí, [mcname]."
 
 # game/code/d18/d18s04.rpy:572
 translate spanish d18s04_f89df913:
@@ -640,7 +640,7 @@ translate spanish d18s04_f89df913:
 translate spanish d18s04_8c0f55b6:
 
     # vw "There's a lot more I need to do to make it up to my little girl..."
-    vw "Hay mucho más que necesito hacer para compensar a mi pequeña..."
+    vw "Hay muchas cosas que tengo que hacer para compensar a mi pequeña..."
 
 # game/code/d18/d18s04.rpy:578
 translate spanish d18s04_5612d7bc:
@@ -808,7 +808,7 @@ translate spanish d18s04_84c9e4e3:
 translate spanish d18s04_fae9c31a:
 
     # vw "Now, this might be a bit hasty of me to drop this right now—"
-    vw "Ahora, esto podría ser un poco apresurado de mi parte para dejar esto ahora mismo—"
+    vw "Ahora, podría ser un poco precipitado de mi parte decir esto justo ahora..."
 
 # game/code/d18/d18s04.rpy:846
 translate spanish d18s04_99336fff:
@@ -862,7 +862,7 @@ translate spanish d18s04_eccf98b9:
 translate spanish d18s04_dea526f1:
 
     # vw "I will basically be doing what I'm doing here, but in the Caribbean.{w} And I would be earning a {i}lot{/i} more there compared to here."
-    vw "Básicamente, haré lo que hago aquí, pero en el Caribe. {w} Y ganaría mucho {i}mucho{/i} más allá que aquí."
+    vw "Básicamente, haré lo que hago aquí, pero en el Caribe. {w} Y ganaría mucho {i}mucho{/i} más allá que acá."
 
 # game/code/d18/d18s04.rpy:869
 translate spanish d18s04_92a493d5:
@@ -940,7 +940,7 @@ translate spanish d18s04_89c555f8:
 translate spanish d18s04_3f017285:
 
     # mct "That's why the room from the telescope looked familiar!"
-    mct "¡Por eso la habitación del telescopio me resultaba familiar!"
+    mct "¡Por eso la habitación que se veía con el telescopio me resultaba familiar!"
 
 # game/code/d18/d18s04.rpy:902
 translate spanish d18s04_8fa2f449:
@@ -976,7 +976,7 @@ translate spanish d18s04_6dfdebdc:
 translate spanish d18s04_b3bff258:
 
     # vw "I'm sorry. I know I mess up a lot. I'll be better"
-    vw "Lo siento. Sé que me equivoco mucho. Seré mejor"
+    vw "Lo siento. Sé que me equivoco mucho. Lo haré mejor."
 
 # game/code/d18/d18s04.rpy:914
 translate spanish d18s04_71fe0b19:
@@ -1096,7 +1096,7 @@ translate spanish d18s04_68f6f348:
 translate spanish d18s04_53ebcdb1:
 
     # vw "Take all the time you need...as long as it's not more than a couple of days."
-    vw "TTómate todo el tiempo que necesites... siempre y cuando no sea más de un par de días."
+    vw "Tómate todo el tiempo que necesites... siempre y cuando no sea más de un par de días."
 
 # game/code/d18/d18s04.rpy:968
 translate spanish d18s04_f6dbd17e:
@@ -1140,7 +1140,7 @@ translate spanish strings:
 
     # game/code/d18/d18s04.rpy:542
     old "Quietly Leave the Hotel Room"
-    new "Salga tranquilamente de la habitación del hotel"
+    new "Salir tranquilamente de la habitación del hotel"
 
     # game/code/d18/d18s04.rpy:542
     old "Remind Them You Are There"
