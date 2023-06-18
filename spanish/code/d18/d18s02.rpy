@@ -130,7 +130,7 @@ translate spanish d18s02_3258d5d5:
 translate spanish d18s02_dafe1e87:
 
     # sy "But if Fetish Locator is pinging the college's network, then whatever server it's running off of must be located somewhere in the college!"
-    sy "Pero si el Localizador de Fetiche está haciendo ping en la red de la universidad, ¡entonces el servidor del que se esté ejecutando debe estar ubicado en algún lugar de la universidad!"
+    sy "Pero si el Localizador de Fetiches está haciendo ping en la red de la universidad, ¡entonces el servidor del que se esté ejecutando debe estar ubicado en algún lugar de la universidad!"
 
 # game/code/d18/d18s02.rpy:92
 translate spanish d18s02_d6c5604a:
@@ -184,7 +184,7 @@ translate spanish d18s02_27fb52f5:
 translate spanish d18s02_9b9843f5:
 
     # arj "We'll have direct access to Fetish Locator's server."
-    arj "WTendremos acceso directo al servidor del Localizador de Fetiche."
+    arj "Tendremos acceso directo al servidor del Localizador de Fetiches."
 
 # game/code/d18/d18s02.rpy:118
 translate spanish d18s02_619538f8:
@@ -202,7 +202,7 @@ translate spanish d18s02_116ea92d:
 translate spanish d18s02_9b64e2fd:
 
     # arj "Oh what's wrong with a little arson?"
-    arj "OOh, ¿qué tiene de malo un pequeño incendio provocado?"
+    arj "Oh, ¿qué tiene de malo un pequeño incendio provocado?"
 
 # game/code/d18/d18s02.rpy:127
 translate spanish d18s02_9d3de21d:
@@ -214,13 +214,13 @@ translate spanish d18s02_9d3de21d:
 translate spanish d18s02_177d3eb2:
 
     # mc "What are you doing?"
-    mc "´Qué estás haciendo?"
+    mc "¿Qué estás haciendo?"
 
 # game/code/d18/d18s02.rpy:134
 translate spanish d18s02_581fc4d9:
 
     # sy "Gonna step out for a bit. I need to send Hana the plan and go shopping for a couple of things."
-    sy "Voy a salir un rato. Necesito enviarle el plan a Hana e ir de compras por un par de cosas."
+    sy "Voy a salir un rato. Necesito enviarle el plan a Hana e ir a comprar un par de cosas."
 
 # game/code/d18/d18s02.rpy:137
 translate spanish d18s02_e9ccf81a:
