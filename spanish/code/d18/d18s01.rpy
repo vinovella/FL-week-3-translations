@@ -232,7 +232,7 @@ translate spanish d18s01_lc_881e1ab2:
 translate spanish d18s01_lc_5cbeedee:
 
     # mct "Especially after...{w} When was the last time I came?"
-    mct "Especialmente después de... {w} ¿Cuándo fue la última vez que corrí?"
+    mct "Especialmente después de... {w} ¿Cuándo fue la última vez que  me corrí?"
 
 # game/code/d18/d18s01.rpy:185
 translate spanish d18s01_cuddle_f357d20e:
@@ -262,7 +262,7 @@ translate spanish d18s01_cuddle_b704398d:
 translate spanish d18s01_cuddle_e538d841:
 
     # mct "\"We have treats. Punch & Pie.\""
-    mct "\"Tenemos golosinas. Ponche y tarta.\""
+    mct "\"Tenemos golosinas. Ponche y pastel.\""
 
 # game/code/d18/d18s01.rpy:199
 translate spanish d18s01_cuddle_516d03e6:
@@ -292,13 +292,13 @@ translate spanish d18s01_cuddle_ab85f5de:
 translate spanish d18s01_cuddle_ce87cd97:
 
     # mct "\"Study. Finals. My place. Be there. Yes?\""
-    mct "\"Estudia. Finales. En mi casa. Estar allí. ¿Sí?\""
+    mct "\"Estudiar. Finales. En mi casa. Ven aquí. ¿Sí?\""
 
 # game/code/d18/d18s01.rpy:210
 translate spanish d18s01_cuddle_e5a76e6a:
 
     # mct "That sounds more like Min.{w} Sure, I guess I'll be there."
-    mct "Eso suena más como Min. {w} Claro, supongo que estaré allí."
+    mct "Eso suena más a Min. {w} Claro, supongo que estaré allí."
 
 # game/code/d18/d18s01.rpy:213
 translate spanish d18s01_cuddle_4fa04863:
@@ -322,7 +322,7 @@ translate spanish d18s01_cuddle_9a96f73c:
 translate spanish d18s01_cuddle_6b88fd97:
 
     # lc "Is this a good time to set up my Fetish Locator account?"
-    lc "¿Es este un buen momento para configurar mi cuenta Fetish Locator?"
+    lc "¿Es este un buen momento para configurar mi cuenta del Localizador de Fetiches?"
 
 # game/code/d18/d18s01.rpy:227
 translate spanish d18s01_cuddle_b8de06d3:
@@ -334,7 +334,7 @@ translate spanish d18s01_cuddle_b8de06d3:
 translate spanish d18s01_cuddle_57b9760e:
 
     # lc "You don't want me to have one?{w} I mean, I'd only get points for the things we do together."
-    lc "¿No quieres que tenga uno? {w} Quiero decir, solo obtendría puntos por las cosas que hacemos juntos."
+    lc "¿No quieres que tenga una? {w} Quiero decir, solo obtendría puntos por las cosas que hacemos juntos."
 
 # game/code/d18/d18s01.rpy:231
 translate spanish d18s01_cuddle_dd8d715b:
@@ -358,7 +358,7 @@ translate spanish d18s01_cuddle_1db70eaf:
 translate spanish d18s01_cuddle_4f2cb487:
 
     # lc "Oh, okay. Do you want first shower or second shower."
-    lc "Ah, bueno. ¿Quieres primera ducha o segunda ducha."
+    lc "Ah, bueno. ¿Quieres la primera ducha o la segunda."
 
 # game/code/d18/d18s01.rpy:243
 translate spanish d18s01_cuddle_017fbef6:
@@ -1054,7 +1054,7 @@ translate spanish d18s01_shower_lc_a50f0f3f:
 translate spanish d18s01_shower_lc_ac9c1e4d:
 
     # mc "Not everyone. I think there are only a few of us. But, for someone in your position-"
-    mc "No todo el mundo. Creo que solo somos unos pocos. Pero, para alguien en tu posición-"
+    mc "No a todo el mundo. Creo que solo somos unos pocos. Pero, para alguien en tu posición-"
 
 # game/code/d18/d18s01.rpy:546
 translate spanish d18s01_shower_lc_07f5c28e:
@@ -1168,7 +1168,7 @@ translate spanish d18s01_shower_lc_d86e9e0b:
 translate spanish d18s01_shower_lc_cf740372:
 
     # mc "There is that."
-    mc "Alli está."
+    mc "Eso es."
 
 # game/code/d18/d18s01.rpy:585
 translate spanish d18s01_shower_lc_ee03e7f4:
