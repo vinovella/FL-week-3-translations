@@ -392,7 +392,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Might lead to Min NTR content in the future."
-    new "Podría dar lugar a contenido Min NTR en el futuro."
+    new "Podría dar lugar a contenido NTR con Min en el futuro."
 
     # game/code/hints.rpy:5
     old "Definitely no Min NTR content in the future."
