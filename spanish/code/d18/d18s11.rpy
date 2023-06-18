@@ -76,7 +76,7 @@ translate spanish d18s11_d4f0651a:
 translate spanish d18s11_6f222e47:
 
     # mct "Fuck. Maybe I should just get the hell out of town for a while."
-    mct "Mierda. Tal vez debería irme de la ciudad por un tiempo.."
+    mct "Mierda. Tal vez debería irme de la ciudad por un tiempo."
 
 # game/code/d18/d18s11.rpy:56
 translate spanish d18s11_ff056564:
@@ -136,7 +136,7 @@ translate spanish d18s11_bar_a8384ac1:
 translate spanish d18s11_bar_1698936b:
 
     # "Bartender" "You're good to go. Enjoy."
-    "Camarero" "Ya puedes irte. Que lo disfrutes."
+    "Camarero" "Aquí tienes. Que lo disfrutes."
 
 # game/code/d18/d18s11.rpy:129
 translate spanish d18s11_bar_94f973c6:
@@ -208,7 +208,7 @@ translate spanish d18s11_bar_e733d367:
 translate spanish d18s11_bar_eda20da5:
 
     # mc "Fucking Kevin was the person who told me all about the app and got me signed up. I wonder how much he's involved."
-    mc "El puto de Kevin fue la persona que me habló de la aplicación e hizo que me apuntara. Me pregunto cuánto está involucrado."
+    mc "El puto de Kevin fue la persona que me habló de la aplicación e hizo que me registrara. Me pregunto cuánto está involucrado."
 
 # game/code/d18/d18s11.rpy:170
 translate spanish d18s11_bar_36fe7b33:
@@ -310,13 +310,13 @@ translate spanish d18s11_bar_f9c72e95:
 translate spanish d18s11_bar_fe776140:
 
     # "Stranger 3" "Isn't this a cop bar? Shouldn't someone do something?"
-    "Extraño 3" "¿No es esto un bar de policías? ¿No debería alguien hacer algo?"
+    "Extraño 3" "¿No es este un bar de policías? ¿No debería alguien hacer algo?"
 
 # game/code/d18/d18s11.rpy:216
 translate spanish d18s11_bar_8e15db1d:
 
     # "Stranger 1" "Yeah, we are.{w} We're waiting until he's passive and then we'll let him sleep it off."
-    "Extraño 1" "Sí, lo estamos. Estamos esperando hasta que esté inconsciente y luego lo dejaremos dormir hasta que se le pase la borrachera."
+    "Extraño 1" "Sí, lo hacemos. Estamos esperando hasta que esté inconsciente y luego lo dejaremos dormir hasta que se le pase la borrachera."
 
 # game/code/d18/d18s11.rpy:219
 translate spanish d18s11_bar_bd7c1675:
