@@ -64,7 +64,7 @@ translate spanish d18s03_31732d27:
 translate spanish d18s03_678ea6fa:
 
     # mc "Are you planning on busting my balls all day today?"
-    mc "¿Estás planeando romperme las bolas todo el día de hoy?"
+    mc "¿Estás planeando romperme las pelotas todo el día?"
 
 # game/code/d18/d18s03.rpy:103
 translate spanish d18s03_01a28e6c:
@@ -166,7 +166,7 @@ translate spanish d18s03_45704880:
 translate spanish d18s03_43e0c08c:
 
     # mc "Good thinking. Study first.{w} Shall we make it a wager?"
-    mc "Bien pensado. Estudia primero. ¿Hacemos una apuesta?"
+    mc "Bien pensado. Estudiar primero. ¿Hacemos una apuesta?"
 
 # game/code/d18/d18s03.rpy:155
 translate spanish d18s03_bf41a2d3:
@@ -364,7 +364,7 @@ translate spanish d18s03_8e359492:
 translate spanish d18s03_3e071e38:
 
     # mc "Here's a really easy one for you - who was the author of \"Reminiscences of a Stock Operator\"?"
-    mc "Aquí hay uno muy fácil para ti: ¿quién fue el autor de \"Recuerdos de un operador de bolsa?\""
+    mc "Aquí hay una muy fácil para ti: ¿quién fue el autor de \"Recuerdos de un operador de bolsa?\""
 
 # game/code/d18/d18s03.rpy:265
 translate spanish d18s03_1f4a94fb:
@@ -406,7 +406,7 @@ translate spanish d18s03_0ffb6638:
 translate spanish d18s03_106cfa2d:
 
     # mes "If n and p are both odd numbers, which of the following numbers must be an even number?"
-    mes "i n y p son ambos números impares, ¿cuál de los siguientes números debe ser un número par?"
+    mes "Si n y p son ambos números impares, ¿cuál de los siguientes números debe ser un número par?"
 
 # game/code/d18/d18s03.rpy:290
 translate spanish d18s03_c0b7e7c8:
@@ -520,7 +520,7 @@ translate spanish d18s03_38b5e631:
 translate spanish d18s03_cd67cd7b:
 
     # mc "Cock, Taint, and Ball Torture?"
-    mc "¿Tortura de polla, ano y pelotas?"
+    mc "¿Tortura de Polla, y Tortura de Bolas?"
 
 # game/code/d18/d18s03.rpy:359
 translate spanish d18s03_3c285b10:
@@ -760,7 +760,7 @@ translate spanish d18s03_watersports_c17242da:
 translate spanish d18s03_watersports_3ad79fad:
 
     # mc "Don't worry, I'm not going to fuck you like this..."
-    mc "No te preocupes, no te voy a follarte así..."
+    mc "No te preocupes, no voy a follarte así..."
 
 # game/code/d18/d18s03.rpy:536
 translate spanish d18s03_watersports_7e6613c5:
@@ -934,7 +934,7 @@ translate spanish d18s03_watersports_b07240ff:
 translate spanish d18s03_watersports_17426a63:
 
     # mes "With my dirty, piss soaked mouth?"
-    mes "With my dirty, piss soaked mouth?"
+    mes "¿Con mi sucia boca empapada de orina?"
 
 # game/code/d18/d18s03.rpy:664
 translate spanish d18s03_watersports_f36e5aec:
@@ -1108,7 +1108,7 @@ translate spanish d18s03_sex_d7c5c362:
 translate spanish d18s03_sex_8e376394:
 
     # mes "I do. Your job is to push me past that."
-    mes "Yo lo hago. Tu trabajo es empujarme más allá de eso."
+    mes "La tengo. Tu trabajo es empujarme más allá de eso."
 
 # game/code/d18/d18s03.rpy:789
 translate spanish d18s03_sex_aa6a1af7:
@@ -1120,7 +1120,7 @@ translate spanish d18s03_sex_aa6a1af7:
 translate spanish d18s03_sex_9c4f5c77:
 
     # mes "What do you have in mind?"
-    mes "¿Qué tiene en mente?"
+    mes "¿Qué tienes en mente?"
 
 # game/code/d18/d18s03.rpy:795
 translate spanish d18s03_sex_b63389cb:
@@ -1144,7 +1144,7 @@ translate spanish d18s03_sex_66856f49:
 translate spanish d18s03_sex_a118506d:
 
     # mes "Cozy?{w} Relaxing.{w} I might sleep here tonight."
-    mes "¿Acogedor? {w} Relajante. {w} Podría dormir aquí esta noche."
+    mes "¿Acogedora? {w} Relajante. {w} Podría dormir aquí esta noche."
 
 # game/code/d18/d18s03.rpy:811
 translate spanish d18s03_sex_eb8ede8b:
@@ -1294,19 +1294,19 @@ translate spanish d18s03_sex_58a64898:
 translate spanish d18s03_sex_0c92c27e:
 
     # mes "It said a pleasant warming sensation!!!"
-    mes "¡¡¡Dije una agradable sensación de calor!!!"
+    mes "¡¡¡Me produjo una agradable sensación de calor!!!"
 
 # game/code/d18/d18s03.rpy:952
 translate spanish d18s03_sex_7206ce56:
 
     # mc "You really want me to switch to another hole?"
-    mc "¿De verdad quieres que cambie a otro agujero?"
+    mc "¿De verdad quieres que cambie al otro agujero?"
 
 # game/code/d18/d18s03.rpy:957
 translate spanish d18s03_sex_770a3a12:
 
     # mes "Anything! PLEASE!!!"
-    mes "¡Cualquier cosa! ¡¡¡POR FAVOR!!!"
+    mes "¡Lo que sea! ¡¡¡POR FAVOR!!!"
 
 # game/code/d18/d18s03.rpy:962
 translate spanish d18s03_sex_f19067a7:
