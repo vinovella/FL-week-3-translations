@@ -106,7 +106,7 @@ translate spanish d18s06_11455b53:
 translate spanish d18s06_213f073e:
 
     # sy "Give. Me. Your. Phone."
-    sy "Dame. A mí. Tú. Teléfono."
+    sy "Dame. Tu. Teléfono."
 
 # game/code/d18/d18s06.rpy:70
 translate spanish d18s06_a49ed4f8:
@@ -124,7 +124,7 @@ translate spanish d18s06_8edaa27d:
 translate spanish d18s06_1b13ebe2:
 
     # arj "Basically, Stacy is about the only one who can unlock it without the code."
-    arj "Básicamente, Stacy es la única que puede desbloquearlo sin el código."
+    arj "Básicamente, Stacy es la única que puede desbloquearla sin el código."
 
 # game/code/d18/d18s06.rpy:79
 translate spanish d18s06_4905a812:
@@ -160,7 +160,7 @@ translate spanish d18s06_0993f42d:
 translate spanish d18s06_3d60548b:
 
     # sy "It isn't just turned off.{w} Fetish Locator can't turn it back on anymore."
-    sy "No solo está apagado. {w} Localizador de fetiches ya no puede volver a encenderlo."
+    sy "No solo está apagado. {w} El Localizador de fetiches ya no puede volver a encenderlo."
 
 # game/code/d18/d18s06.rpy:91
 translate spanish d18s06_328095f9:
@@ -232,7 +232,7 @@ translate spanish d18s06_13f8def8:
 translate spanish d18s06_65019cfc:
 
     # sy "We're certain there are only 4 digits to the correct code."
-    sy "Estamos seguros de que solo hay 4 dígitos en el código correcto."
+    sy "Estamos seguros de que sólo hay 4 dígitos para el código correcto."
 
 # game/code/d18/d18s06.rpy:123
 translate spanish d18s06_ae0f11fb:
@@ -364,7 +364,7 @@ translate spanish d18s06_ca24c8f3:
 translate spanish d18s06_0f89cf5e:
 
     # sy "I've tried everything I can think of... it all results in a best case scenario of a 0.3%% chance of success."
-    sy "He intentado todo lo que se me ocurre... todo resulta en el mejor de los casos con una probabilidad de éxito del 0,3%%."
+    sy "He intentado todo lo que se me ha ocurrido... todo da como resultado, en el mejor de los casos, un 0,3%% de posibilidades de éxito."
 
 # game/code/d18/d18s06.rpy:187
 translate spanish d18s06_e4fd6d10:
@@ -412,7 +412,7 @@ translate spanish d18s06_599b3471:
 translate spanish d18s06_4a5aa1a5:
 
     # mc "Also, the person inside would call security."
-    mc "Además, la persona que estaba dentro llamaría a seguridad."
+    mc "Además, la persona que está en el interior llamaría a seguridad."
 
 # game/code/d18/d18s06.rpy:208
 translate spanish d18s06_91840010:
@@ -520,7 +520,7 @@ translate spanish d18s06_8615b09b:
 translate spanish d18s06_342182c1:
 
     # hr "Okay, where can we find her?"
-    hr "Okay, where can we find her?"
+    hr "Bien, ¿dónde podemos encontrarla?"
 
 # game/code/d18/d18s06.rpy:264
 translate spanish d18s06_e9c4a4c2:
