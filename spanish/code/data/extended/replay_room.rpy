@@ -124,7 +124,7 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 18: Judge"
-    new "Day 18: Jueza"
+    new "Día 18: Jueza"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't run away"
