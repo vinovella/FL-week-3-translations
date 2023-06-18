@@ -10,7 +10,7 @@ translate spanish d18s05_ext_0d9b52ab:
 translate spanish d18s05_ext_e88c3bd3:
 
     # mct "What the fuck?"
-    mct "Qué carajo?"
+    mct "¿Qué carajo?"
 
 # game/code/d18/extended/d18s05_ext.rpy:91
 translate spanish d18s05_ext_e36172dc:
