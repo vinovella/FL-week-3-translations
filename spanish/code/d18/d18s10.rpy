@@ -256,7 +256,7 @@ translate spanish d18s10_lc_reveal_096642ed:
 translate spanish d18s10_lc_reveal_01b222c3:
 
     # lc "[mcname]?!"
-    lc "¿[mcname]?!"
+    lc "¡¿[mcname]?!"
 
 # game/code/d18/d18s10.rpy:415
 translate spanish d18s10_lc_reveal_f960a98b:
@@ -742,7 +742,7 @@ translate spanish d18s10_end_35ce6e57:
 translate spanish d18s10_end_477f7238:
 
     # mct "Fucking hell..."
-    mct "Maldito infierno......"
+    mct "Maldito infierno..."
 
 # game/code/d18/d18s10.rpy:851
 translate spanish d18s10_end_1da49de8_1:
