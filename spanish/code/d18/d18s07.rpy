@@ -22,7 +22,7 @@ translate spanish d18s07_e60d061d:
 translate spanish d18s07_9bf063fb:
 
     # zw "Open this door {i}right now{/i}, young man!"
-    zw "¡Abre esta puerta {i} ahora mismo {/i}, jovencito."
+    zw "¡Abre esta puerta {i} ahora mismo {/i}, jovencito!"
 
 # game/code/d18/d18s07.rpy:27
 translate spanish d18s07_9f31b11d:
@@ -311,4 +311,3 @@ translate spanish d18s07_7764a381:
 
     # mc "Alright. Let's go, she can clearly handle this."
     mc "De acuerdo. Vamos, ella claramente puede manejar esto."
-

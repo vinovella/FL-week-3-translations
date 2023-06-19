@@ -658,7 +658,7 @@ translate spanish d18s09_continue_cf1adef2:
 translate spanish d18s09_continue_7ac646fc:
 
     # cf "Don't get me wrong - you were amazing."
-    cf ""No me malinterpretes, estuviste increíble."
+    cf "No me malinterpretes, estuviste increíble."
 
 # game/code/d18/d18s09.rpy:417
 translate spanish d18s09_continue_af4cca24:
