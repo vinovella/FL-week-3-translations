@@ -214,7 +214,7 @@ translate spanish d18s09_b94dd675:
 translate spanish d18s09_6c477f9c:
 
     # cf "You're right. We're both adults..."
-    cf "You're right. We're both adults..."
+    cf "Tienes razón. Ambos somos adultos..."
 
 # game/code/d18/d18s09.rpy:155
 translate spanish d18s09_5736827e:
@@ -286,7 +286,7 @@ translate spanish d18s09_db0bb4a7:
 translate spanish d18s09_b511f237:
 
     # cf "Oh my!"
-    cf "¡Oh mi!"
+    cf "¡Oh, vaya!"
 
 # game/code/d18/d18s09.rpy:205
 translate spanish d18s09_d8c36aa3:
@@ -658,7 +658,7 @@ translate spanish d18s09_continue_cf1adef2:
 translate spanish d18s09_continue_7ac646fc:
 
     # cf "Don't get me wrong - you were amazing."
-    cf "Don't get me wrong - you were amazing."
+    cf ""No me malinterpretes, estuviste increíble."
 
 # game/code/d18/d18s09.rpy:417
 translate spanish d18s09_continue_af4cca24:
@@ -676,7 +676,7 @@ translate spanish d18s09_continue_e710ca0b:
 translate spanish d18s09_continue_007e49cc:
 
     # mc "I'm not one of your students."
-    mc "I'm not one of your students."
+    mc "No soy uno de tus estudiantes."
 
 # game/code/d18/d18s09.rpy:425
 translate spanish d18s09_continue_ba59596a:
@@ -898,7 +898,7 @@ translate spanish d18s09_continue_13010eef:
 translate spanish d18s09_continue_fdd5fec6:
 
     # mc "Good luck in your career here."
-    mc "Buena suerte en tu carrera aquí."
+    mc "Buena suerte con su carrera aquí."
 
 # game/code/d18/d18s09.rpy:511
 translate spanish d18s09_continue_86b1dd88:
@@ -1000,13 +1000,13 @@ translate spanish d18s09_stop_4bc88fba:
 translate spanish d18s09_stop_045f55c2:
 
     # mc "Can you finish yourself off?"
-    mc "¿Puedes acabar contigo mismo?"
+    mc "¿Puedes terminar tú misma?"
 
 # game/code/d18/d18s09.rpy:565
 translate spanish d18s09_stop_5d31d255:
 
     # cf "No. I can't.{w} I can't climax by myself."
-    cf "No. No puedo. {w} No puedo llegar al clímax solo."
+    cf "No. No puedo. {w} No puedo llegar al clímax sola."
 
 # game/code/d18/d18s09.rpy:568
 translate spanish d18s09_stop_7be439b9:
