@@ -28,7 +28,7 @@ translate spanish d18s08_0db9ac34:
 translate spanish d18s08_f6256a06:
 
     # "{color=#c46c93}???{/color}" "I didn't raise you to be some common harlot!"
-    "{color=#c46c93}???{/color}" "¡No te crié para ser una ramera común!"
+    "{color=#c46c93}???{/color}" "¡¡No te crié para que fueras una prostituta!"
 
 # game/code/d18/d18s08.rpy:25
 translate spanish d18s08_384e1515:
@@ -46,7 +46,7 @@ translate spanish d18s08_c669d142:
 translate spanish d18s08_f4baa2a7:
 
     # "{color=#c46c93}???{/color}" "I didn't instill the word of our Lord in you since you were a babe so that you can spit in the face of his holy creatio—."
-    "{color=#c46c93}???{/color}" "No te inculqué la palabra de nuestro Señor desde que eras una niña para que puedas escupir en la cara de su santa creación—."
+    "{color=#c46c93}???{/color}" "No te inculqué la palabra de nuestro Señor desde que eras una niña para que puedas escupir en la cara de su santa creación."
 
 # game/code/d18/d18s08.rpy:52
 translate spanish d18s08_bc306e48:
@@ -70,7 +70,7 @@ translate spanish d18s08_71db2c0d:
 translate spanish d18s08_3920a63c:
 
     # tl "Who are you and what are you doing here?"
-    tl "¿Quién eres y qué haces aquí?"
+    tl "¿Quienes son y qué hacen aquí?"
 
 # game/code/d18/d18s08.rpy:68
 translate spanish d18s08_26b53298:
@@ -190,7 +190,7 @@ translate spanish d18s08_3509dbc6:
 translate spanish d18s08_765d618e:
 
     # tl "No. No, it's not. This must be fixed before she goes deeper into Satan's clutches."
-    tl "No. No, no lo es. Esto debe arreglarse antes de que caiga más en las garras de Satán."
+    tl "No. No, no lo está. Esto debe arreglarse antes de que caiga más en las garras de Satán."
 
 # game/code/d18/d18s08.rpy:136
 translate spanish d18s08_a998c557:
@@ -214,7 +214,7 @@ translate spanish d18s08_414b8be4:
 translate spanish d18s08_eb46f713:
 
     # tl "She needs to be punished in a way that I cannot perform. A mother can only do so much."
-    tl "Ella necesita ser castigada de una manera que yo no puedo realizar. Una madre no puede hacer mucho."
+    tl "Ella necesita ser castigada de una manera que yo no puedo hacerlo. Una madre no puede hacer mucho."
 
 # game/code/d18/d18s08.rpy:144
 translate spanish d18s08_e616a348:
@@ -268,5 +268,5 @@ translate spanish d18s08_7e74acd3:
 translate spanish d18s08_a2f0bfe0:
 
     # hr "Let's go find the new professor. We don't have time to waste."
-    hr "Vamos a buscar al nuevo profesor. No tenemos tiempo que perder."
+    hr "Vamos a buscar a la nueva profesora. No tenemos tiempo que perder."
 
