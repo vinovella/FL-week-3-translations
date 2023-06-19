@@ -448,7 +448,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Assault the Judge before getting drunk. This choice lets you continue the main story."
-    new "Asalta al Juez antes de emborracharte. Esta elección te permite continuar la historia principal."
+    new "Agrede a la jueza antes de emborracharte. Esta elección te permite continuar la historia principal."
 
     # game/code/hints.rpy:5
     old "Continue scene. Cuck the Judge's would-be boyfriend by having sex with her in front of him."
