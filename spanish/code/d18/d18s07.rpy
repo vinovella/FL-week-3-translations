@@ -16,13 +16,13 @@ translate spanish d18s07_284a9c53:
 translate spanish d18s07_e60d061d:
 
     # zw "You better not be doing what I think you're doing inside there!"
-    zw "¡Será mejor que no estés haciendo lo que creo que estás haciendo ahí dentro!!"
+    zw "¡Será mejor que no estés haciendo lo que creo que estás haciendo ahí dentro!"
 
 # game/code/d18/d18s07.rpy:20
 translate spanish d18s07_9bf063fb:
 
     # zw "Open this door {i}right now{/i}, young man!"
-    zw "¡Abre esta puerta {i} ahora mismo {/i},¡ jovencito!"
+    zw "¡Abre esta puerta {i} ahora mismo {/i}, jovencito."
 
 # game/code/d18/d18s07.rpy:27
 translate spanish d18s07_9f31b11d:
@@ -100,7 +100,7 @@ translate spanish d18s07_1d5fcd4e:
 translate spanish d18s07_37e00938:
 
     # zw "Mr. Turner, you know the rules. Open this door immediately."
-    zw "Señor. Turner, conoce las reglas. Abre esta puerta inmediatamente."
+    zw "Señor. Turner, conoce las reglas. Abra esta puerta inmediatamente."
 
 # game/code/d18/d18s07.rpy:82
 translate spanish d18s07_a0ab4bfd:
@@ -154,7 +154,7 @@ translate spanish d18s07_e1d174e3:
 translate spanish d18s07_c5806338:
 
     # zw "I'm sorry, how old are you again?"
-    zw "Lo siento, ¿cuántos años tienes de nuevo?"
+    zw "Lo siento, ¿cuántos años tienes?"
 
 # game/code/d18/d18s07.rpy:119
 translate spanish d18s07_65a83174:
@@ -178,7 +178,7 @@ translate spanish d18s07_a7405f4f:
 translate spanish d18s07_568f7d6e:
 
     # sy "Anyway. Where was I? Ah, right."
-    sy "De todos modos. ¿Dónde estaba? Ah bien."
+    sy "De todos modos. ¿Dónde estaba?."
 
 # game/code/d18/d18s07.rpy:130
 translate spanish d18s07_7fa7ffef:
@@ -214,13 +214,13 @@ translate spanish d18s07_df71f291:
 translate spanish d18s07_a8a7d178:
 
     # sy "This is just between two working professionals, but I was responsible for checking out Vinovella University as well."
-    sy "Esto es sólo entre dos profesionales en activo, pero yo también me encargué de comprobar la Universidad Vinovella."
+    sy "Esto es sólo entre nosotras, pero yo también me encargué de revisar la Universidad Vinovella."
 
 # game/code/d18/d18s07.rpy:143
 translate spanish d18s07_40ad50ce:
 
     # sy "And let me tell you, for being such a prestigious school, some of the things I saw there, especially in their I.T. department was just {i}awful{/i}."
-    sy "Y déjame contarte, por ser una escuela tan prestigiosa, algunas de las cosas que vi allí, sobre todo en su departamento de informática era simplemente {i}horrible{/i}.."
+    sy "Y déjeme decirle que, para ser una escuela tan prestigiosa, algunas de las cosas que vi allí, especialmente en su departamento de informática, eran simplemente {i}horribles{/i}."
 
 # game/code/d18/d18s07.rpy:146
 translate spanish d18s07_8cf14d91:
@@ -268,7 +268,7 @@ translate spanish d18s07_5dd47cca:
 translate spanish d18s07_22f67d27:
 
     # zw "I could go ask now if you'd like? She's probably in the teacher's lounge. She might be able to help with your digital fire ma—"
-    zw "Podría ir a preguntar ahora si quieres. Probablemente esté en la sala de profesores. Ella podría ser capaz de ayudarte con tu equipo de \"bomberos digital\"—"
+    zw "Podría ir a preguntar ahora si quieres. Probablemente esté en la sala de profesores. Ella podría ser capaz de ayudarte con tu equipo de \"bomberos digital\""
 
 # game/code/d18/d18s07.rpy:169
 translate spanish d18s07_bbc1bbf6:
@@ -286,7 +286,7 @@ translate spanish d18s07_b34b6b14:
 translate spanish d18s07_47f3ffd5:
 
     # hr "I think she's telling us to find the professor while she stalls."
-    hr "Creo que nos está diciendo que encontremos al profesor mientras ella se entretiene."
+    hr "Creo que nos está diciendo que encontremos a la profesora mientras ella la entretiene."
 
 # game/code/d18/d18s07.rpy:180
 translate spanish d18s07_f768cdb9:
