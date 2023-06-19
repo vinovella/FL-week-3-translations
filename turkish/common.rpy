@@ -100,7 +100,7 @@ translate turkish strings:
 
     # renpy/common/00accessibility.rpy:201
     old "Text-to-speech"
-    new Metin okuma"
+    new "Metin okuma"
 
     # renpy/common/00accessibility.rpy:205
     old "Clipboard"
@@ -196,7 +196,7 @@ translate turkish strings:
 
     # renpy/common/00action_file.rpy:47
     old "{#month}April"
-    new "{#ay}Nisan
+    new "{#ay}Nisan"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}May"
@@ -720,7 +720,7 @@ translate turkish strings:
 
     # renpy/common/00preferences.rpy:655
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "Kendi kendine seslendirme \" [renpy.display.tts.last] \" derdi. Devre dışı bırakmak için 'alt+shift+V' tuşlarına basın."
+    new "Kendi kendine seslendirme \"[renpy.display.tts.last]\" derdi. Devre dışı bırakmak için 'alt+shift+V' tuşlarına basın."
 
     # renpy/common/00preferences.rpy:657
     old "Self-voicing enabled. Press 'v' to disable."
@@ -776,7 +776,7 @@ translate turkish strings:
 
     # renpy/common/00sync.rpy:532
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "Bu, kayıtlarınızı {a=https://sync.renpy.org} Ren'Py Sync Sunucusuna {/a} yükleyecektir . \n Devam etmek istiyor musunuz?"
+    new "Bu, kayıtlarınızı {a=https://sync.renpy.org}Ren'Py Sync Sunucusuna{/a} yükleyecektir.\nDevam etmek istiyor musunuz?"
 
     # renpy/common/00sync.rpy:540
     old "Yes"
@@ -792,7 +792,7 @@ translate turkish strings:
 
     # renpy/common/00sync.rpy:572
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "Bu, {a=https://sync.renpy.org} Ren'Py Sync Sunucusu {/a} ile iletişime geçecektir"
+    new "Bu, {a=https://sync.renpy.org}Ren'Py Sync Sunucusu{/a} ile iletişime geçecektir"
 
     # renpy/common/00sync.rpy:599
     old "Sync Success"
@@ -804,7 +804,7 @@ translate turkish strings:
 
     # renpy/common/00sync.rpy:608
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "Bu kimliği, kaydınızı başka bir cihaza indirmek için kullanabilirsiniz. \n Bu senkronizasyon bir saat içinde sona erecek. \n Ren'Py Sync , {a=https://www.renpy.org/sponsors.html tarafından desteklenmektedir. } Ren'Py'nin Sponsorları {/a}."
+    new "Bu kimliği, kaydınızı başka bir cihaza indirmek için kullanabilirsiniz. \n Bu senkronizasyon bir saat içinde sona erecek.\nRen'Py Sync ,{a=https://www.renpy.org/sponsors.html}Ren'Py'nin Sponsorları{/a}."
 
     # renpy/common/00sync.rpy:612
     old "Continue"

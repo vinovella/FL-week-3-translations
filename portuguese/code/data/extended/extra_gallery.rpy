@@ -280,7 +280,7 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:535
     old "TRADE OFFER"
-    new "TRADE OFFER"
+    new "OFERTA DE TROCA"
 
     # game/code/data/extended/extra_gallery.rpy:431
     old "I receive:"
