@@ -4,11 +4,11 @@ translate turkish strings:
 
     # game/code/screens/extended/screens.rpy:31
     old "PLAY"
-    new "PLAY"
+    new "OYNA"
 
     # game/code/screens/extended/screens.rpy:42
     old "LOAD"
-    new "LOAD"
+    new "YÜKLE"
 
     # game/code/screens/extended/screens.rpy:52
     old "BONUS"
@@ -16,53 +16,53 @@ translate turkish strings:
 
     # game/code/screens/extended/screens.rpy:63
     old "SETTINGS"
-    new "SETTINGS"
+    new "AYARLAR"
 
     # game/code/screens/extended/screens.rpy:73
     old "LANGUAGE"
-    new "LANGUAGE"
+    new "DİL"
 
     # game/code/screens/extended/screens.rpy:83
     old "INFO"
-    new "INFO"
+    new "BİLGİ"
 
     # game/code/screens/extended/screens.rpy:107
     old "Support us on Patreon"
-    new "Support us on Patreon"
+    new "Patreon'da bizi destekleyin"
 
     # game/code/screens/extended/screens.rpy:108
     old "Join us on Discord"
-    new "Join us on Discord"
+    new "Discord'da bize katılın"
 
     # game/code/screens/extended/screens.rpy:109
     old "Quit Game"
-    new "Quit Game"
+    new "Oyundan Çık"
 
     # game/code/screens/extended/screens.rpy:202
     old "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
-    new "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
+    new "ANKETİ CEVAPLAYIN VE YENİ BİR OYUNA BAŞLAYIN"
 
     # game/code/screens/extended/screens.rpy:212
     old "LOAD A SAVE FROM WEEK 2"
-    new "LOAD A SAVE FROM WEEK 2"
+    new "2. HAFTA KAYIT DOSYASINI YÜKLE"
 
     # game/code/screens/extended/screens.rpy:244
     old "ABOUT"
-    new "ABOUT"
+    new "HAKKINDA"
 
     # game/code/screens/extended/screens.rpy:254
     old "HELP"
-    new "HELP"
+    new "YARDIM"
 
     # game/code/screens/extended/screens.rpy:308
     old "CG\nGALLERY"
-    new "CG\nGALLERY"
+    new "CG\nGALERİ"
 
     # game/code/screens/extended/screens.rpy:318
     old "REPLAY ROOM"
-    new "REPLAY ROOM"
+    new "TEKRAR OYNATMA ODASI"
 
     # game/code/screens/extended/screens.rpy:335
     old "BONUS CONTENT"
-    new "BONUS CONTENT"
+    new "BONUS İÇERİK"
 
