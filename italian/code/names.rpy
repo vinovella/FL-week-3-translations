@@ -1,6 +1,6 @@
 ## Character Names #############################################################
 
-translate turkish strings:
+translate italian strings:
 
     old "Fetish Locator Retention"
     new "Fetish Locator Retention"

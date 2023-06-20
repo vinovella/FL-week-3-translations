@@ -1,6 +1,6 @@
 ## Character Names #############################################################
 
-translate turkish strings:
+translate malay strings:
 
     old "Fetish Locator Retention"
     new "Fetish Locator Retention"
@@ -25,9 +25,6 @@ translate turkish strings:
 
     old "Lydia"
     new "Lydia"
-
-    old "Polly"
-    new "Polly"
 
     old "Nora"
     new "Nora"

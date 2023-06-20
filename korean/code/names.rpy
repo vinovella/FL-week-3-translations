@@ -1,3 +1,5 @@
+## Character Names #############################################################
+
 translate korean strings:
 
     old "Fetish Locator Retention"
