@@ -28,7 +28,7 @@ translate spanish d18s11b_ext_c8dddaa7:
 translate spanish d18s11b_ext_1c96c631:
 
     # mct "Just doing what the Judge asked me to do. I'm going to break that slut over my dick."
-    mct "Sólo hago lo que la Jueza me pidió. Voy a romper esa zorra sobre mi polla."
+    mct "Sólo hago lo que la Jueza me pidió. Voy a romper esa puta sobre mi polla."
 
 # game/code/d18/extended/d18s11b_ext.rpy:64
 translate spanish d18s11b_ext_0bdd862b:
@@ -88,7 +88,7 @@ translate spanish d18s11b_ext_3f048ae4:
 translate spanish d18s11b_ext_85b0cceb:
 
     # mct "Maybe another place. I should call that whore and make her tell me where the old cunt is."
-    mct "Tal vez otro lugar. Debería llamar a esa puta y hacer que me diga dónde está el viejo cabrón."
+    mct "Tal vez en otro lugar. Debería llamar a esa puta y hacer que me diga dónde está el viejo cabrón."
 
 # game/code/d18/extended/d18s11b_ext.rpy:78
 translate spanish d18s11b_ext_de857251:
@@ -118,7 +118,7 @@ translate spanish d18s11b_ext_930de9ee:
 translate spanish d18s11b_ext_476a2fa2:
 
     # mct "I'm waiting here from some wealthy slitch to get home so I can fulfill her darkest fantasies-"
-    mct "Estoy esperando aquí de alguna puta rica para llegar a casa para que pueda cumplir sus fantasías más oscuras-"
+    mct "Estoy esperando aquí a que alguna zorra rica llegue a casa para poder cumplir sus fantasías más oscuras."
 
 # game/code/d18/extended/d18s11b_ext.rpy:91
 translate spanish d18s11b_ext_2ccc3331:
@@ -328,7 +328,7 @@ translate spanish d18s11b_continue_4c2ac47c:
 translate spanish d18s11b_continue_427ebf79:
 
     # mc "Meh. Sure, why not."
-    mc "Meh. Seguro Por qué no."
+    mc "Meh. Seguro, Por qué no."
 
 # game/code/d18/extended/d18s11b_ext.rpy:219
 translate spanish d18s11b_continue_4cf3b967:
@@ -364,7 +364,7 @@ translate spanish d18s11b_continue_f903ab23:
 translate spanish d18s11b_continue_54a55587:
 
     # mc "Like THE Victor Yates?"
-    mc "¿Como el Victor Yates?"
+    mc "Como.. ¿ÉL Victor Yates?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:243
 translate spanish d18s11b_continue_0629a197:
@@ -388,7 +388,7 @@ translate spanish d18s11b_continue_7bda6653:
 translate spanish d18s11b_continue_6e96757a:
 
     # mys "Mutherfucker!"
-    mys "¡hijo de puta!!"
+    mys "¡Hijo de puta!"
 
 # game/code/d18/extended/d18s11b_ext.rpy:257
 translate spanish d18s11b_continue_c5be8444:
@@ -400,7 +400,7 @@ translate spanish d18s11b_continue_c5be8444:
 translate spanish d18s11b_continue_67efe648:
 
     # mys "DO YOU KNOW WHO I AM?!{w} DO YOU KNOW WHO MY FATHER IS?!?!"
-    mys "¡¿SABES QUIÉN SOY YO?! {w} ¡¿SABES QUIÉN ES MI PADRE?!?!"
+    mys "¡¿SABES QUIÉN SOY YO?! {w} ¡¿SABES QUIÉN ES MI PADRE?!"
 
 # game/code/d18/extended/d18s11b_ext.rpy:262
 translate spanish d18s11b_continue_afd9ee2f:
@@ -496,7 +496,7 @@ translate spanish d18s11b_continue_6f02b75b:
 translate spanish d18s11b_continue_453af6f0:
 
     # jdg "This is between me and...{w} some other people. This doesn't involve you."
-    jdg "Esto es entre mí y... {w} otras personas. Esto no te involucra."
+    jdg "Esto es entre yo y... {w} otras personas. Esto no te involucra."
 
 # game/code/d18/extended/d18s11b_ext.rpy:298
 translate spanish d18s11b_continue_1221c5b5:
@@ -514,7 +514,7 @@ translate spanish d18s11b_continue_7f8840bb:
 translate spanish d18s11b_continue_b23d2b54:
 
     # jdg "-have nothing to do with this."
-    jdg "-No tienes nada que ver con esto."
+    jdg "-No tiene nada que ver con esto."
 
 # game/code/d18/extended/d18s11b_ext.rpy:305
 translate spanish d18s11b_continue_066ad91a:
@@ -622,7 +622,7 @@ translate spanish d18s11b_continue_c381f198:
 translate spanish d18s11b_continue_5fec0262:
 
     # mc "Never Gonna Get It.{w} Never Gonna Get It."
-    mc "Nunca lo conseguiré.{w} Nunca lo conseguiré."
+    mc "Nunca lo conseguirás.{w} Nunca lo conseguirás."
 
 # game/code/d18/extended/d18s11b_ext.rpy:342
 translate spanish d18s11b_continue_7205e5fb:
@@ -634,7 +634,7 @@ translate spanish d18s11b_continue_7205e5fb:
 translate spanish d18s11b_continue_6f393195:
 
     # mc "What a shame, Vikki.{w} What{w} A{w} Shame."
-    mc "Qué vergüenza, Vikki. {w} Qué{w} Vergüenza{w}."
+    mc "Qué vergüenza, Vikki. {w} Qué{w} Vergüenza."
 
 # game/code/d18/extended/d18s11b_ext.rpy:356
 translate spanish d18s11b_continue_78477e63:
@@ -646,7 +646,7 @@ translate spanish d18s11b_continue_78477e63:
 translate spanish d18s11b_continue_54af9ccf:
 
     # mc "But this Cunt's mouth has clearly practiced."
-    mc "Pero la boca de este Coño claramente ha practicado."
+    mc "Pero la boca de esta puta claramente ha practicado."
 
 # game/code/d18/extended/d18s11b_ext.rpy:371
 translate spanish d18s11b_continue_30027dee:
@@ -736,7 +736,7 @@ translate spanish d18s11b_continue_4d23e7db:
 translate spanish d18s11b_continue_e537642c:
 
     # mc "Give it a try."
-    mc "Give it a try."
+    mc "Pruébalo."
 
 # game/code/d18/extended/d18s11b_ext.rpy:412
 translate spanish d18s11b_continue_9cd4fc34:
@@ -748,7 +748,7 @@ translate spanish d18s11b_continue_9cd4fc34:
 translate spanish d18s11b_continue_a48e506e:
 
     # mc "Don't fucking question me, Cunt!"
-    mc "¡No me hagas preguntas, imbécil!"
+    mc "¡No me hagas preguntas, perra!"
 
 # game/code/d18/extended/d18s11b_ext.rpy:416
 translate spanish d18s11b_continue_a35cc767:
@@ -802,7 +802,7 @@ translate spanish d18s11b_continue_5489ac9f:
 translate spanish d18s11b_continue_06818ec1:
 
     # mc "TELL ME{w} HOW{w} DOES IT{w} FEEL?!"
-    mc "¡DIME{w} ¿CÓMO{w} SE SIENTE{w}?"
+    mc "¡DIME!{w} ¿CÓMO{w} SE SIENTE{w}?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:458
 translate spanish d18s11b_continue_6ada0b31:
@@ -958,7 +958,7 @@ translate spanish d18s11b_continue_c07943cb:
 translate spanish d18s11b_continue_85f3a441:
 
     # jdg "I love it when you tear my asshole to shreds, sir!"
-    jdg "¡Me encanta cuando me haces pedazos el culo, señor!"
+    jdg "¡Me encanta cuando me destrozas el culo, señor!"
 
 # game/code/d18/extended/d18s11b_ext.rpy:560
 translate spanish d18s11b_continue_0769c7c9:
@@ -1036,7 +1036,7 @@ translate spanish d18s11b_continue_35ab8f09:
 translate spanish d18s11b_continue_02e2537c:
 
     # jdg "He just came."
-    jdg "ÉL acaba de venirse."
+    jdg "ÉL acaba de correrse."
 
 # game/code/d18/extended/d18s11b_ext.rpy:603
 translate spanish d18s11b_continue_a70dae7c:
@@ -1078,7 +1078,7 @@ translate spanish d18s11b_end_talk_fd7ee028:
 translate spanish d18s11b_end_talk_314439ea:
 
     # mc "Shut up. I was talking to the slut."
-    mc "Cállate la boca. Estaba hablando con la puta."
+    mc "Cierra la boca. Estaba hablando con la puta."
 
 # game/code/d18/extended/d18s11b_ext.rpy:631
 translate spanish d18s11b_end_talk_55516579:
@@ -1126,7 +1126,7 @@ translate spanish d18s11b_end_talk_db4acac5:
 translate spanish d18s11b_end_talk_0fdf6ac9:
 
     # jdg "It's so nice to have his mouth closed. I might just leave him this way until morning."
-    jdg "Es tan agradable tener la boca cerrada. Podría dejarlo así hasta la mañana."
+    jdg "Es tan agradable que tenga la boca cerrada. Puede que lo deje así hasta mañana."
 
 # game/code/d18/extended/d18s11b_ext.rpy:653
 translate spanish d18s11b_end_talk_ff4ba79f:
@@ -1158,7 +1158,7 @@ translate spanish strings:
 
     # game/code/d18/extended/d18s11b_ext.rpy:140
     old "Run for It"
-    new "Corre por ello"
+    new "Huye"
 
     # game/code/d18/extended/d18s11b_ext.rpy:404
     old "Spitroast the Judge"
