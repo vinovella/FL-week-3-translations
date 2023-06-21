@@ -68,45 +68,45 @@ translate turkish strings:
 
     # game/code/data/prologue.rpy:16
     old "The Judge"
-    new "The Judge"
+    new "Yargıç"
 
     # game/code/data/prologue.rpy:45
     old "Enema"
-    new "Enema"
+    new "Lavman"
 
     # game/code/data/prologue.rpy:45
     old "Watersports"
-    new "Watersports"
+    new "Su Sporları"
 
     # game/code/data/prologue.rpy:45
     old "Footfetish"
-    new "Footfetish"
+    new "Ayak fetişi"
 
     # game/code/data/prologue.rpy:45
     old "Cumgarnish"
-    new "Cumgarnish"
+    new "Boşalma Garnitürü"
 
     # game/code/data/prologue.rpy:45
     old "Fisting"
-    new "Fisting"
+    new "Yumruklama"
 
     # game/code/data/prologue.rpy:45
     old "Pegging"
-    new "Pegging"
+    new "Çivilemek"
 
     # game/code/data/prologue.rpy:45
     old "Trans Content"
-    new "Trans Content"
+    new "Trans İçerik"
 
     # game/code/data/prologue.rpy:79
     old "dog"
-    new "dog"
+    new "köpek"
 
     # game/code/data/prologue.rpy:79
     old "cuddle"
-    new "cuddle"
+    new "sarılmak"
 
     # game/code/data/prologue.rpy:79
     old "adult magazines"
-    new "adult magazines"
+    new "yetişkin dergileri"
 
