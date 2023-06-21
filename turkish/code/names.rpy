@@ -3,13 +3,13 @@
 translate turkish strings:
 
     old "Fetish Locator Retention"
-    new "Fetish Locator Retention"
+    new "Fetiş Bulucu Tutma"
 
     old "Fetish Locator"
-    new "Fetish Locator"
+    new "Fetiş Bulucu"
 
     old "Fetish Master"
-    new "Fetish Master"
+    new "Fetiş Ustası"
 
     old "Pete"
     new "Pete"
@@ -69,19 +69,19 @@ translate turkish strings:
     new "Nari"
 
     old "Mr. Min"
-    new "Mr. Min"
+    new "Bay Min"
 
     old "Mrs. Min"
-    new "Mrs. Min"
+    new "Bayan Min"
 
     old "Min Do-yun"
     new "Min Do-yun"
 
     old "Officer Cheney"
-    new "Officer Cheney"
+    new "Memur Cheney
 
     old "Officer Martinez"
-    new "Officer Martinez"
+    new "Memur Martinez"
 
     old "Ashley"
     new "Ashley"
@@ -90,7 +90,7 @@ translate turkish strings:
     new "Frank"
 
     old "Ms. Havisham"
-    new "Ms. Havisham"
+    new "Bayan Havisham"
 
     old "Alexander"
     new "Alexander"
