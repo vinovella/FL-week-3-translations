@@ -34,7 +34,7 @@ translate turkish lovense_test_14a8f7e0:
 translate turkish lovense_test_30b42ad1:
 
     # "Pattern Test"
-    "Kalıp Testi""
+    "Kalıp Testi"
 
 # game/code/screens/lovense.rpy:189
 translate turkish lovense_test_37bd1745:

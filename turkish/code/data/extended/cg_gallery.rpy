@@ -4,7 +4,7 @@ translate turkish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: AmRose"
-    new 15. Gün: AmRose"
+    new "15. Gün: AmRose"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: Dahlia & Samiya"

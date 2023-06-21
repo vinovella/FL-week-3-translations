@@ -78,7 +78,7 @@ translate turkish strings:
     new "Min Do-yun"
 
     old "Officer Cheney"
-    new "Memur Cheney
+    new "Memur Cheney"
 
     old "Officer Martinez"
     new "Memur Martinez"
