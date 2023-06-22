@@ -238,7 +238,7 @@ translate spanish d19s04dd_after_9bd49a87:
 translate spanish d19s04dd_after_22799aaf:
 
     # dd "No worries. There's a safety release."
-    dd No hay problema. Hay una liberación de seguridad."
+    dd "No hay problema. Hay una liberación de seguridad."
 
 # game/code/d19/d19s04dd.rpy:347
 translate spanish d19s04dd_after_eecfc7a0:
@@ -604,7 +604,7 @@ translate spanish d19s04dd_plushie_04e58636:
 translate spanish d19s04dd_plushie_f61150a6:
 
     # mct "Is that how her mind works? I can't even imagine..."
-    mct "¿Es así como funciona su mente? no puedo ni imaginar...
+    mct "¿Es así como funciona su mente? no puedo ni imaginar..."
 
 # game/code/d19/d19s04dd.rpy:559
 translate spanish d19s04dd_plushie_dec9fd30:

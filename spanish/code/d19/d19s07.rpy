@@ -214,7 +214,7 @@ translate spanish d19s07_46dc80ae:
 translate spanish d19s07_c280376c:
 
     # mc "I'm not going to share you with anyone else."
-    mc ""No voy a compartirte con nadie más."
+    mc "No voy a compartirte con nadie más."
 
 # game/code/d19/d19s07.rpy:177
 translate spanish d19s07_e94f2edc:
@@ -424,7 +424,7 @@ translate spanish d19s07_problem_e52f875c:
 translate spanish d19s07_problem_b7cba9af:
 
     # mc "Well, not JUST because of the sex."
-    mc Bueno, no SOLO por el sexo."
+    mc "Bueno, no SOLO por el sexo."
 
 # game/code/d19/d19s07.rpy:284
 translate spanish d19s07_problem_7a90f655:
@@ -436,7 +436,7 @@ translate spanish d19s07_problem_7a90f655:
 translate spanish d19s07_problem_6c969469:
 
     # mc "Honestly?{w} I'm not going to lie. We aren't friends."
-    mc "¿Honestamente? {w} No voy a mentir. no somos amigos."
+    mc "¿Honestamente?{w} No voy a mentir. no somos amigos."
 
 # game/code/d19/d19s07.rpy:290
 translate spanish d19s07_problem_435f2166:
@@ -454,7 +454,7 @@ translate spanish d19s07_problem_17e2e3a6:
 translate spanish d19s07_problem_ec5b36a7:
 
     # mk "I am, yeah.{w} Well, at least I have been."
-    mk "Lo soy, sí. {w} Bueno, al menos lo he sido."
+    mk "Lo soy, sí.{w} Bueno, al menos lo he sido."
 
 # game/code/d19/d19s07.rpy:297
 translate spanish d19s07_problem_61e64477:

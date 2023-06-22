@@ -130,7 +130,7 @@ translate spanish d19s02_f5af45e9:
 translate spanish d19s02_cbc203dd:
 
     # arj "Her {i}what{/i}?"
-    rj "{i}¿Su qué?{/i}?"
+    arj "{i}¿Su qué?{/i}?"
 
 # game/code/d19/d19s02.rpy:206
 translate spanish d19s02_b205f7da:
@@ -694,7 +694,7 @@ translate spanish d19s02_7ad556d6:
 translate spanish d19s02_f53b7c5e:
 
     # mct "Sorry i dont think i can make it today"
-    mct Lo siento, no creo que pueda hacerlo hoy."
+    mct "Lo siento, no creo que pueda hacerlo hoy."
 
 # game/code/d19/d19s02.rpy:519
 translate spanish d19s02_e05d1e89:

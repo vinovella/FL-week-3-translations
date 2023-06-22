@@ -964,7 +964,7 @@ translate spanish d19s03_ask_mh_2a49aa09:
 translate spanish d19s03_ask_mh_eb114c65:
 
     # mc "We all three could get to know each other a bit better."
-    mc "Los tres podríamos llegar a conocernos un poco mejor.
+    mc "Los tres podríamos llegar a conocernos un poco mejor."
 
 # game/code/d19/extended/d19s03_ext.rpy:858
 translate spanish d19s03_ask_mh_240e05b3:

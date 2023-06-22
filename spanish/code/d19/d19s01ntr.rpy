@@ -676,7 +676,7 @@ translate spanish d19s01ntr_end_d1acc24f:
 translate spanish d19s01ntr_end_30a22e70:
 
     # mc "Oh no.{w} Is it time to \"Bring Out the Gimp\"?"
-    mc "Oh, no. {w} ¿Es hora de "Sacar el Cojo?\""
+    mc "Oh, no. {w} ¿Es hora de \"Sacar el Cojo?\""
 
 # game/code/d19/d19s01ntr.rpy:456
 translate spanish d19s01ntr_end_1bdeabce:

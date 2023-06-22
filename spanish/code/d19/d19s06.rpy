@@ -686,7 +686,8 @@ translate spanish d19s06_video_fddc1c40:
 
 # game/code/d19/d19s06.rpy:414
 translate spanish d19s06_video_ce3cd066:
-Todo lo que tengo que hacer es hacer lo mismo.Rose tenía que hacer era balbucear alguna tontería religiosa y tenía a Lewald envuelta alrededor de su dedo."
+    # mct "All AmRose had to do was babble some religious bullshit and she had Lewald wrapped around her finger."
+    mct "Todo lo que tengo que hacer es hacer lo mismo.Rose tenía que hacer era balbucear alguna tontería religiosa y tenía a Lewald envuelta alrededor de su dedo."
 
 # game/code/d19/d19s06.rpy:415
 translate spanish d19s06_video_0e8dbd95:

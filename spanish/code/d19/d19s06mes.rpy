@@ -112,7 +112,7 @@ translate spanish d19s06mes_ccee4743:
 translate spanish d19s06mes_86d749d9:
 
     # mes "What else?"
-    mes ""¿Qué otra cosa?"
+    mes "¿Qué otra cosa?"
 
 # game/code/d19/d19s06mes.rpy:109
 translate spanish d19s06mes_50171a3d:
@@ -598,7 +598,7 @@ translate spanish d19s06mes_5856b83f:
 translate spanish d19s06mes_5c2c1ce5:
 
     # mc "Woo hoo!"
-    mc ¡Woo hoo!"
+    mc "¡Woo hoo!"
 
 # game/code/d19/d19s06mes.rpy:462
 translate spanish d19s06mes_e4ce173b:
@@ -904,7 +904,7 @@ translate spanish d19s06mes_392cf699:
 translate spanish d19s06mes_a3579988:
 
     # mc "No, as a new sexual experience."
-    mc No, como una nueva experiencia sexual."
+    mc "No, como una nueva experiencia sexual."
 
 # game/code/d19/d19s06mes.rpy:646
 translate spanish d19s06mes_4254f8b7:

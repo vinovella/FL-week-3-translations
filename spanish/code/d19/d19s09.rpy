@@ -130,7 +130,7 @@ translate spanish d19s09_42bd829d:
 translate spanish d19s09_f6b37dd4:
 
     # sy "You don't mind, do you?"
-    sy ""No te importa, ¿verdad?"
+    sy "No te importa, ¿verdad?"
 
 # game/code/d19/d19s09.rpy:243
 translate spanish d19s09_354de6de:

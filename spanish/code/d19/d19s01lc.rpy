@@ -388,7 +388,7 @@ translate spanish d19s01lc_0c3f0006:
 translate spanish d19s01lc_404c6559:
 
     # lc "Then just listen."
-    lc ""Entonces sólo escucha."
+    lc "Entonces sólo escucha."
 
 # game/code/d19/d19s01lc.rpy:188
 translate spanish d19s01lc_91ccba53:
@@ -436,7 +436,7 @@ translate spanish d19s01lc_5642385e:
 translate spanish d19s01lc_9425a3b9:
 
     # mct "That was a joke, right?"
-    mct ""Eso era una broma, ¿verdad?"
+    mct "Eso era una broma, ¿verdad?"
 
 # game/code/d19/d19s01lc.rpy:211
 translate spanish d19s01lc_1ef5a556:
