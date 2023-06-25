@@ -22,7 +22,7 @@ translate spanish e13s02_8e6b9eae:
 translate spanish e13s02_a1218fef:
 
     # "Customer" "Woo! Free drinks! Thanks, Nora!"
-    "Cliente" "Woo! ¡Bebidas gratis! ¡Gracias, Nora!"
+    "Cliente" "¡Woo! ¡Bebidas gratis! ¡Gracias, Nora!"
 
 # game/code/e13/e13s02.rpy:99
 translate spanish e13s02_eeefc10d:
