@@ -72,11 +72,11 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Lyssa Romance"
-    new "Día 17: Lyssa Romance"
+    new "Día 17: Romance de Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Lyssa Domination"
-    new "Día 17: Lyssa Dominación"
+    new "Día 17: Dominación de Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't creampie Nora"
@@ -96,7 +96,7 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Win against Min"
-    new "Ganar contra Min"
+    new "Derrota a Min"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 18: Vanessa & Allison"
