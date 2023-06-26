@@ -532,7 +532,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Mandatory to get Prof Lewald's vote."
-    new "Obligatorio para obtener el voto del profesor Lewald."
+    new "Obligatorio para obtener el voto de la profesora Lewald."
 
     # game/code/hints.rpy:5
     old "Will Not earn Prof Lewald's vote."
