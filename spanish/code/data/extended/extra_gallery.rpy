@@ -52,7 +52,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "07. WTF Bro?"
-    new "07. ¿WTF hermano?"
+    new "07. ¿Qué ocurre, hermano?"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "See everything you never wanted to"
@@ -96,11 +96,11 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Destroy the app... or not"
-    new "Destruye la aplicación... o no"
+    new "Destruir la aplicación... o no"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "13. The People Versus..."
-    new "13. La gente contra..."
+    new "13. El pueblo contra..."
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Go to the court trial"
@@ -176,7 +176,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Don't remove the cage, even though you could"
-    new "No quite la jaula, aunque podría"
+    new "No te quites la jaula, aunque podrías"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "23. Fantastic Fivesome"
@@ -196,7 +196,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "25. I Need Sexual Healing"
-    new "25. Necesito sanidad sexual"
+    new "25. Necesito sanación sexual"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Helped all 3 couples at the ski resort"
@@ -220,7 +220,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "28. Fifty-Five Foot Club"
-    new "28. Club de cincuenta y cinco pies"
+    new "28. Club de los cincuenta y cinco pies"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Join Polly and Nora on the ferris wheel"
@@ -248,11 +248,11 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:251
     old "YOU GOTTA PUMP THOSE NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
-    new "TIENES QUE AUMENTAR ESOS NÚMEROS.\n¡ESOS SON NÚMEROS DE NOVATO!"
+    new "¡Tienes que subir esos números! \nSON números de principiante!"
 
     # game/code/data/extended/extra_gallery.rpy:270
     old "6 endings\naren't enough.\nI need all 18 now!!!"
-    new "6 finales\nno son suficientes.\n¡Necesito los 18 ahora!"
+    new "6 finales\nno son suficientes.\n¡Necesito los 18 finales ahora!"
 
     # game/code/data/extended/extra_gallery.rpy:271
     old "{b}CHANGE MY MIND{/b}"
@@ -260,15 +260,15 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:306
     old "I WANT TO KEEP\nFETISH LOCATOR"
-    new "QUIERO CONSERVAR\nLOCALIZADOR DE FETICHES"
+    new "QUIERO CONSERVAR\nEL LOCALIZADOR DE FETICHES"
 
     # game/code/data/extended/extra_gallery.rpy:307
     old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
-    new "PARA ASEGURARSE DE QUE\nNADIE SERA CHANTAJEADO"
+    new "PARA ASEGURARSE DE QUE\nNADIE SERÁ CHANTAJEADO"
 
     # game/code/data/extended/extra_gallery.rpy:308
     old "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
-    new "LO VAS A UTILIZAR\nPARA BIEN, ¿VERDAD?"
+    new "LO VAS A USAR\nPARA EL BIEN, ¿VERDAD?"
 
     # game/code/data/extended/extra_gallery.rpy:309
     old "RIGHT?"
@@ -284,7 +284,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:535
     old "TRADE OFFER"
-    new "TRADE OFFER"
+    new "OFERTA DE INTERCAMBIO"
 
     # game/code/data/extended/extra_gallery.rpy:438
     old "I receive:"
@@ -300,4 +300,4 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:441
     old "The whole\nharem pregnant"
-    new "Todo el harem\nembarazada"
+    new "El harén completo\nembarazada"
