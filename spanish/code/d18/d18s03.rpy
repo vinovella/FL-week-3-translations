@@ -994,7 +994,7 @@ translate spanish d18s03_mes_victory_ab1ff5a9:
 translate spanish d18s03_mes_victory_21fdc25c:
 
     # mct "I beat her in that pissing contest."
-    mct "I beat her in that pissing contest."
+    mct "Le gané en ese concurso de meadas."
 
 # game/code/d18/d18s03.rpy:723
 translate spanish d18s03_mes_victory_c9f0b0c8:
@@ -1710,7 +1710,7 @@ translate spanish strings:
 
     # game/code/d18/d18s03.rpy:339
     old "Cock, Taint, and Ball Torture"
-    new "Tortura de Pollas, Orzuelos y Bolas"
+    new "Tortura de Polla, y Tortura de Bolas"
 
     # game/code/d18/d18s03.rpy:339
     old "Comprehensive Test Ban Treaty"
