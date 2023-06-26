@@ -670,7 +670,7 @@ translate turkish d15s05_pussyfuck_c1235301:
 translate turkish d15s05_pussyfuck_f36e5aec:
 
     # mc "Exactly."
-    mc Kesinlikle."
+    mc "Kesinlikle."
 
 # game/code/d15/d15s05.rpy:490
 translate turkish d15s05_pussyfuck_ca5fcf04:
@@ -724,7 +724,7 @@ translate turkish d15s05_assfuck_43d1b4ce:
 translate turkish d15s05_assfuck_03f7179e:
 
     # mk "Ow! {w}Oh, master!{w} It hurts!!!"
-    mk "Ah! {w}Ah, usta!{w} Acıyor!!!""
+    mk "Ah! {w}Ah, usta!{w} Acıyor!!!"
 
 # game/code/d15/d15s05.rpy:525
 translate turkish d15s05_assfuck_a2049c30:

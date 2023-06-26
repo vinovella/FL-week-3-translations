@@ -370,7 +370,7 @@ translate turkish d15s03_middle_329283d3:
 translate turkish d15s03_middle_99811563:
 
     # mc "What happens if you don't... {w}er, what do you get for doing that stuff, if you did it?"
-    mc Yapmazsan ne olur... {w}ee, yaptıysan o şeyi yaptığın için eline ne geçecek?"
+    mc "Yapmazsan ne olur... {w}ee, yaptıysan o şeyi yaptığın için eline ne geçecek?"
 
 # game/code/d15/d15s03.rpy:215
 translate turkish d15s03_middle_38219b40:

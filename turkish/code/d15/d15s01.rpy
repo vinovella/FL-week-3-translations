@@ -550,7 +550,7 @@ translate turkish d15s01_cagedecision_741b0e14:
 translate turkish d15s01_cagedecision_91e86472:
 
     # arj "And he doesn't want to be locked in either one."
-    arj "Ve ikisinde de kilitli kalmak istemiyor.""
+    arj "Ve ikisinde de kilitli kalmak istemiyor."
 
 # game/code/d15/d15s01.rpy:491
 translate turkish d15s01_cagedecision_083c643b:

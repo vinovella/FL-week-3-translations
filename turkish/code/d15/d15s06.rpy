@@ -130,7 +130,7 @@ translate turkish d15s06_b6e04664_1:
 translate turkish d15s06_eb834df9_1:
 
     # mc "Wait, what? Right now?"
-    mc Bekle, ne? Hemen şimdi mi?"
+    mc "Bekle, ne? Hemen şimdi mi?"
 
 # game/code/d15/d15s06.rpy:134
 translate turkish d15s06_197edeec_1:
@@ -1006,7 +1006,7 @@ translate turkish d15s06_pillowtalk_4f4cb852:
 translate turkish d15s06_pillowtalk_720dc31f:
 
     # mc "I'm like 86.59%% sure that he's interested in me and is sorta gay."
-    mc "Benimle ilgilendiğinden ve bir nevi eşcinsel olduğundan %86,59 eminim."
+    mc "Benimle ilgilendiğinden ve bir nevi eşcinsel olduğundan %%86,59 eminim."
 
 # game/code/d15/d15s06.rpy:870
 translate turkish d15s06_pillowtalk_80303ef9:
@@ -1703,4 +1703,3 @@ translate turkish strings:
     # game/code/d15/d15s06.rpy:934
     old "I love you too"
     new "Ben de seni seviyorum"
-

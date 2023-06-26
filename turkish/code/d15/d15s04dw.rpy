@@ -694,7 +694,7 @@ translate turkish d15s04dw_f3099e32:
 translate turkish d15s04dw_e047afb4:
 
     # dw "Not because...?"
-    dw Çünkü...?"
+    dw "Çünkü...?"
 
 # game/code/d15/d15s04dw.rpy:460
 translate turkish d15s04dw_ac2102c2:

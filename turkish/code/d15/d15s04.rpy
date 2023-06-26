@@ -58,7 +58,7 @@ translate turkish d15s04_84f16542:
 translate turkish d15s04_aea53328:
 
     # mc "What should I do now?" nointeract
-    mc "Şimdi ne yapmalıyım?" etkileşim yok
+    mc "Şimdi ne yapmalıyım?" nointeract
 
 # game/code/d15/d15s04.rpy:57
 translate turkish d15s04_c448f643:
