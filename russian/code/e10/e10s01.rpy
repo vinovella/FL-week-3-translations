@@ -334,7 +334,7 @@ translate russian e10s01_be3c2319:
 translate russian e10s01_7c156129:
 
     # mc "It's unbelievable, you ate the same amount as I did and you're not even fazed."
-    mc "Невероятно, ты съела столько же, сколько и я, и даже не глазом не моргнула."
+    mc "Невероятно, ты съела столько же, сколько и я, и даже глазом не моргнула."
 
 # game/code/e10/e10s01.rpy:228
 translate russian e10s01_e41bfd67:
@@ -1012,7 +1012,7 @@ translate russian e10d01_sex_7afa6ddc:
 translate russian e10d01_sex_6d74da18:
 
     # mes "Well, can you?"
-    mes "А вы хочешь?"
+    mes "А ты хочешь?"
 
 # game/code/e10/e10s01.rpy:641
 translate russian e10d01_sex_f452b864:

@@ -706,7 +706,7 @@ translate russian d16s03_dd04ae17:
 translate russian d16s03_760c368e:
 
     # lc "I'll go down on any woman you want if you just fuck me now."
-    lc "Я наброшусь на любую девушку, которую ты захочешь, если ты не трахнешь меня сейчас."
+    lc "Я согласна принять любую женщину, которую ты захочешь, если ты просто трахнешь меня сейчас."
 
 # game/code/d16/d16s03.rpy:275
 translate russian d16s03_e0d2d992:

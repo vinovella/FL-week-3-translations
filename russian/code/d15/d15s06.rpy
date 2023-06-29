@@ -502,7 +502,7 @@ translate russian d15s06_house_63bab0ca:
 translate russian d15s06_house_1edcdb7d:
 
     # mc "Do you want me to make you cum?"
-    mc "Ты хочешь, чтобы я помог тебя кончить?"
+    mc "Ты хочешь, чтобы я помог тебе кончить?"
 
 # game/code/d15/d15s06.rpy:290
 translate russian d15s06_house_25951fb6:

@@ -780,5 +780,5 @@ translate russian d19s02_d138a5d3:
 translate russian d19s02_b0400d74:
 
     # mct "I'll be there"
-    mct "I'll be there"
+    mct "Я обязательно приду."
 

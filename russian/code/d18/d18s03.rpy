@@ -1198,7 +1198,7 @@ translate russian d18s03_sex_e5870751:
 translate russian d18s03_sex_096bcc92:
 
     # mc "Too much?"
-    mc "Мне остановится?"
+    mc "Мне остановиться?"
 
 # game/code/d18/d18s03.rpy:588
 translate russian d18s03_sex_51212247:

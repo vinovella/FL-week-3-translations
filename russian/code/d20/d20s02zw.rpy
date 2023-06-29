@@ -112,7 +112,7 @@ translate russian d20s02zw_5cd46aa0:
 translate russian d20s02zw_f92fc82b:
 
     # zw "Oh? Finally realized that you couldn't make it with your lackluster academic performance and came running to me with your tail between your legs for help, did you?"
-    zw "О? Наконец-то ты понял, что не справляешься со своей неудовлетворительным поведением и поджав хвост прибежал ко мне за помощью, да?"
+    zw "О? Наконец-то ты понял, что не справляешься со своим неудовлетворительным поведением и поджав хвост прибежал ко мне за помощью, да?"
 
 # game/code/d20/d20s02zw.rpy:97
 translate russian d20s02zw_e576c958:

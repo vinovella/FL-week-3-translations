@@ -874,7 +874,7 @@ translate russian d15s01_arj_bj_5cfbf454:
 translate russian d15s01_arj_bj_48643e5c:
 
     # mct "And I love them both."
-    mct "И я люблю их обоих."
+    mct "И я люблю их обеих."
 
 # game/code/d15/d15s01.rpy:604
 translate russian d15s01_arj_bj_adb345ba:

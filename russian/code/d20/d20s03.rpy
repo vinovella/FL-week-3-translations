@@ -766,7 +766,7 @@ translate russian d20s03_e2e930a6:
 translate russian d20s03_b1a0b4e2:
 
     # cb "It was Kevin's idea. Don't worry about taking any responsibility, we're going to raise it like it's ours."
-    cb "Это была идея Кевина. Не беспокойся о ответственности, мы собираемся воспитывать ребенка так, как будто он наш."
+    cb "Это была идея Кевина. Не беспокойся об ответственности, мы собираемся воспитывать ребенка так, как будто он наш."
 
 # game/code/d20/d20s03.rpy:265
 translate russian d20s03_7e5d939a:

@@ -178,7 +178,7 @@ translate russian d16s08_3a994f92:
 translate russian d16s08_5cad2e1b:
 
     # arj "What about Polly and Nora? You had something going with both of them, right?"
-    arj "А как же Полли и Нора? У тебя что-то было с ними обоими, верно?"
+    arj "А как же Полли и Нора? У тебя что-то было с ними обеими, верно?"
 
 # game/code/d16/d16s08.rpy:81
 translate russian d16s08_3fe466db:
@@ -190,7 +190,7 @@ translate russian d16s08_3fe466db:
 translate russian d16s08_56b51bcb:
 
     # arj "I still can't believe you hooked up with both of them.{w}.. and especially can't believe you hooked up with both of them together."
-    arj "Я все еще не могу поверить, что ты переспал с каждой из них.{w}.. и особенно не могу поверить, что ты переспал с ними обоими сразу."
+    arj "Я все еще не могу поверить, что ты переспал с каждой из них.{w}.. и особенно не могу поверить, что ты переспал с ними обеими сразу."
 
 # game/code/d16/d16s08.rpy:85
 translate russian d16s08_af347610:
