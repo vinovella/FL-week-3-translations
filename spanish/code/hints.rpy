@@ -532,7 +532,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Mandatory to get Prof Lewald's vote."
-    new "Obligatorio para obtener el voto del profesor Lewald."
+    new "Obligatorio para obtener el voto de la profesora Lewald."
 
     # game/code/hints.rpy:5
     old "Will Not earn Prof Lewald's vote."
@@ -548,7 +548,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "See video of AmRose punishing Cynthia. Make a plan for Professor Lewald."
-    new "Ver vídeo de AmRose castigando a Cynthia. Haz un plan para el profesor Lewald."
+    new "Ver video de AmRose castigando a Cynthia. Haz un plan para la profesora Lewald."
 
     # game/code/hints.rpy:5
     old "Have sex with Maria. She may have sex with Professor Nordin."
