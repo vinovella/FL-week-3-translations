@@ -1504,7 +1504,7 @@ translate russian d17s01_anal_sex_a1727faa:
 translate russian d17s01_anal_sex_b4a5e3fe:
 
     # arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX!!!"
-    arj "ААОООХооооооххх!!! ДА!!! {w}КОНЧАЙ В МОЙ ГРЯЗНУЮ ДЫРОЧКУ!!!"
+    arj "ААОООХооооооххх!!! ДА!!! {w}КОНЧАЙ В МОЮ ГРЯЗНУЮ ДЫРОЧКУ!!!"
 
 # game/code/d17/d17s01.rpy:662
 translate russian d17s01_end_62d1e03e:

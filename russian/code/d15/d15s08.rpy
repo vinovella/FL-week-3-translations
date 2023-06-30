@@ -886,7 +886,7 @@ translate russian d15s08_1a025493:
 translate russian d15s08_b1163ff3:
 
     # arj "But, I guess the most surprising part was that I wasn't jealous about it."
-    arj "Но, думаю, самым удивительное было в том, что я не ревную по этому поводу."
+    arj "Но, думаю, самым удивительное было то, что я не ревную по этому поводу."
 
 # game/code/d15/d15s08.rpy:296
 translate russian d15s08_7f49add2:

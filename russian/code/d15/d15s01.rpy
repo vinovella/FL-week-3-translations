@@ -1000,7 +1000,7 @@ translate russian d15s01_arj_bj_590a197c:
 translate russian d15s01_arj_bj_8f4d8bd5:
 
     # lc "You let him cum in your other holes too?"
-    lc "Ты позволила ему кончить и в другие твои дырочки тоже?"
+    lc "Ты позволяла ему кончить и в другие твои дырочки тоже?"
 
 # game/code/d15/d15s01.rpy:654
 translate russian d15s01_arj_bj_ea14e1ee:
