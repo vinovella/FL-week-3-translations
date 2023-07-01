@@ -868,7 +868,7 @@ translate russian d21s02_mc_ntr_50e758f9:
 translate russian d21s02_mc_ntr_42ae163d:
 
     # lc "Raised me? They've been drunk and stoned for decades."
-    lc "Вырастили меня? Они десятилетиями пьянствовали и обкурились."
+    lc "Вырастили меня? Они десятилетиями были пьяны и обкурены."
 
 # game/code/d21/d21s02.rpy:502
 translate russian d21s02_mc_ntr_1c490bd1:
@@ -1006,7 +1006,7 @@ translate russian d21s02_mc_lc_b071e8d2:
 translate russian d21s02_mc_lc_b03f8025:
 
     # lc "I won't see the judge for a bail hearing until Monday."
-    lc "Я не увижу судью до понедельника во время слушания о залоге."
+    lc "Я не увижу судью до слушания по залогу в понедельник."
 
 # game/code/d21/d21s02.rpy:568
 translate russian d21s02_mc_lc_325dfe7b:

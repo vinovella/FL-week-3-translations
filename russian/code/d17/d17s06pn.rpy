@@ -82,7 +82,7 @@ translate russian d17s06pn_86c220e6:
 translate russian d17s06pn_074bd61d:
 
     # nk "We were just waiting for you to join us. I talked to the ticket seller and we should have time for a quickie."
-    nk "Мы только ждали, когда ты к нам присоединишься. Я поговорила с продавцом билетов, и узнала, что нам должно хватить время на быстрый секс."
+    nk "Мы только ждали, когда ты к нам присоединишься. Я поговорила с продавцом билетов, и узнала, что нам должно хватить времени на быстрый секс."
 
 # game/code/d17/d17s06pn.rpy:57
 translate russian d17s06pn_79369379:
@@ -130,7 +130,7 @@ translate russian d17s06pn_07f47315:
 translate russian d17s06pn_801af08d:
 
     # nk "I need you hard and inside me."
-    nk "Ты мне сильно нужен внутри меня."
+    nk "Ты мне очень нужен внутри меня."
 
 # game/code/d17/d17s06pn.rpy:83
 translate russian d17s06pn_bd25caea:
@@ -148,13 +148,13 @@ translate russian d17s06pn_995e4868:
 translate russian d17s06pn_fe6db62a:
 
     # mc "Aren't we going to get in trouble for this?"
-    mc "А у нас не будут из-за этого неприятности?"
+    mc "Разве у нас не будет неприятностей из-за этого?"
 
 # game/code/d17/d17s06pn.rpy:88
 translate russian d17s06pn_77dcebb2:
 
     # pw "Worry about that when we're back on the ground."
-    pw "Будем беспокоится об этом, когда вернемся на землю."
+    pw "Будем беспокоиться об этом, когда вернемся на землю."
 
 # game/code/d17/d17s06pn.rpy:90
 translate russian d17s06pn_60f763f4:
@@ -358,7 +358,7 @@ translate russian d17s06pn_c41abca6:
 translate russian d17s06pn_a3ddb668:
 
     # nk "No, no... {w}Just well fucked."
-    nk "Нет, нет... {w}Просто чувствую себя хорошо оттраханный."
+    nk "Нет, нет... {w}Просто чувствую себя хорошо оттраханной."
 
 # game/code/d17/d17s06pn.rpy:161
 translate russian d17s06pn_b28d48f9:
@@ -466,7 +466,7 @@ translate russian d17s06pn_897ce0aa:
 translate russian d17s06pn_a6ae6fbd:
 
     # pw "Do you owe money to the sorts of people you shouldn't owe money to?"
-    pw "Ты должна деньги тем людям, у которых не стоит одалживать?"
+    pw "Ты должна деньги тем людям, перед которыми лучше не иметь долгов?"
 
 # game/code/d17/d17s06pn.rpy:188
 translate russian d17s06pn_1ecb4cac:
@@ -706,7 +706,7 @@ translate russian d17s06pn_da0df191:
 translate russian d17s06pn_6879fd9b:
 
     # mc "I think what she's trying to say is that it's the three of us against whatever."
-    mc "Я думаю, она имеет ввиду, что мы втроем справимся против всего."
+    mc "Я думаю, она имеет ввиду, что мы втроем справимся со всем."
 
 # game/code/d17/d17s06pn.rpy:257
 translate russian d17s06pn_9ff661a9:

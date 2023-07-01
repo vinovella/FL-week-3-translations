@@ -490,7 +490,7 @@ translate russian d19s01ntr_questions_41b52451:
 translate russian d19s01ntr_questions_4475fd00:
 
     # lc "We're in my Sex Dungeon. Do you have brain damage?"
-    lc "Мы в моей Секс-Подвале. У тебя память отшибло?"
+    lc "Мы в моем Секс-Подвале. У тебя память отшибло?"
 
 # game/code/d19/d19s01ntr.rpy:241
 translate russian d19s01ntr_questions_525b73e7:
@@ -832,7 +832,7 @@ translate russian d19s01ntr_end_6e0c97a2:
 translate russian d19s01ntr_end_be1e3b25:
 
     # tr "Some of us are here willingly.{w} We kinda enjoy... submitting."
-    tr "Мы здесь по доброй воле. {w}Нам вроде как нравится... подчинятся."
+    tr "Мы здесь по доброй воле. {w}Нам вроде как нравится... подчиняться."
 
 # game/code/d19/d19s01ntr.rpy:403
 translate russian d19s01ntr_end_597429b0:
