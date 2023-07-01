@@ -142,7 +142,7 @@ translate russian strings:
     new "E05 - Sausage Party"
 
     old "E06 - Queen's Harem"
-    new "E06 - Sausage Party"
+    new "E06 - Queen's Harem"
 
     old "E07 - A New Chair"
     new "E07 - A New Chair"

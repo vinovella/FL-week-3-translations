@@ -16,7 +16,7 @@ translate russian strings:
 
     # game/code/screens/endings.rpy:62
     old "Play"
-    new "Play"
+    new "Играть"
 
     # game/code/screens/endings.rpy:76
     old "Return to the Main Story"
@@ -24,5 +24,5 @@ translate russian strings:
 
     # game/code/screens/endings.rpy:80
     old "Exit to Mainmenu"
-    new "Exit to Mainmenu"
+    new "Вернуться в Шлавное меню"
 

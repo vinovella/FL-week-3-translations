@@ -10,7 +10,7 @@ translate russian d21s07_84c0422b:
 translate russian d21s07_81f21ce2:
 
     # "Defense Attorney" "That would be [mcname] Young?"
-    "Defense Attorney" "Это был [mcname] Янг?"
+    "Адвокат" "Это был [mcname] Янг?"
 
 # game/code/d21/d21s07.rpy:58
 translate russian d21s07_90cecf9a:
@@ -28,7 +28,7 @@ translate russian d21s07_b81bdb87:
 translate russian d21s07_fc5b685e:
 
     # "Defense Attorney" "Please continue, Miss Cox."
-    "Defense Attorney" "Пожалуйста, продолжайте, мисс Кокс."
+    "Адвокат" "Пожалуйста, продолжайте, мисс Кокс."
 
 # game/code/d21/d21s07.rpy:68
 translate russian d21s07_81ca21c3:
@@ -40,7 +40,7 @@ translate russian d21s07_81ca21c3:
 translate russian d21s07_1a571b26:
 
     # "Defense Attorney" "And what was that secret, in your opinion?"
-    "Defense Attorney" "В чем заключался этот секрет, по вашему мнению?"
+    "Адвокат" "В чем заключался этот секрет, по вашему мнению?"
 
 # game/code/d21/d21s07.rpy:74
 translate russian d21s07_dbaad169:
@@ -82,7 +82,7 @@ translate russian d21s07_95880b2e:
 translate russian d21s07_45e8d8e6:
 
     # "Bailiff" "SILENCE IN THE COURTROOM."
-    "Bailiff" "ТИШИНА В ЗАЛЕ СУДА."
+    "Судебный пристав" "ТИШИНА В ЗАЛЕ СУДА."
 
 # game/code/d21/d21s07.rpy:96
 translate russian d21s07_a7c6db06:
@@ -94,7 +94,7 @@ translate russian d21s07_a7c6db06:
 translate russian d21s07_783c2174:
 
     # "Defense Attorney" "I think that is sufficient. No further questions, your honor."
-    "Defense Attorney" "Я думаю, этого достаточно. Больше вопросов нет, ваша честь."
+    "Адвокат" "Я думаю, этого достаточно. Больше вопросов нет, ваша честь."
 
 # game/code/d21/d21s07.rpy:102
 translate russian d21s07_584aa10e:
@@ -112,7 +112,7 @@ translate russian d21s07_0defe80f:
 translate russian d21s07_c3045b05:
 
     # "Prosecutor" "I would, your honor.{w} Miss Cox, you testified that you did not know what Mister Skinner was doing."
-    "Prosecutor" "Да, ваша честь. Мисс Кокс, вы дали показания, что не знали, что делал мистер Скиннер."
+    "Прокурор" "Да, ваша честь. Мисс Кокс, вы дали показания, что не знали, что делал мистер Скиннер."
 
 # game/code/d21/d21s07.rpy:114
 translate russian d21s07_ff765414:
@@ -124,7 +124,7 @@ translate russian d21s07_ff765414:
 translate russian d21s07_72931960:
 
     # "Prosecutor" "Jerome Skinner. Your co-defendant and the man you claim was the mastermind behind \"Fetish Locator\"."
-    "Prosecutor" "Джером Скиннер. Ваш сообщник и человек, который, как вы утверждаете, был организатором \"Фетиш Локатор\"."
+    "Прокурор" "Джером Скиннер. Ваш сообщник и человек, который, как вы утверждаете, был организатором \"Фетиш Локатор\"."
 
 # game/code/d21/d21s07.rpy:120
 translate russian d21s07_498a6091:
@@ -136,7 +136,7 @@ translate russian d21s07_498a6091:
 translate russian d21s07_286931f9:
 
     # "Prosecutor" "So, you had no reason to be in the campus server room which happened to administer that app?"
-    "Prosecutor" "Значит, у вас не было причин находиться в серверной комнате кампуса, где находилось это приложение?"
+    "Прокурор" "Значит, у вас не было причин находиться в серверной комнате кампуса, где находилось это приложение?"
 
 # game/code/d21/d21s07.rpy:126
 translate russian d21s07_0924a76a:
@@ -148,7 +148,7 @@ translate russian d21s07_0924a76a:
 translate russian d21s07_250fb5b5:
 
     # "Prosecutor" "So, you did not gain the access codes to that room a semester prior to the \"app's\" launch - as a prior witness testified?"
-    "Prosecutor" "Значит, вы не получали коды доступа в эту комнату за семестр до запуска \"приложения\", как показал предыдущий свидетель?"
+    "Прокурор" "Значит, вы не получали коды доступа в эту комнату за семестр до запуска \"приложения\", как показал предыдущий свидетель?"
 
 # game/code/d21/d21s07.rpy:132
 translate russian d21s07_66da9489:
@@ -160,7 +160,7 @@ translate russian d21s07_66da9489:
 translate russian d21s07_13fd1863:
 
     # "Prosecutor" "And on that day when Mister Young informed you - in the shower - about Fetish Locator's nefarious actions...{w} You were not present in the server room as another witness has testified?"
-    "Prosecutor" "И в тот день, когда мистер Янг сообщил вам - в душе - о незаконных действиях Фетиш Локатора...{w} Вы не присутствовали в серверной комнате, как показал другой свидетель?"
+    "Прокурор" "И в тот день, когда мистер Янг сообщил вам - в душе - о незаконных действиях Фетиш Локатора...{w} Вы не присутствовали в серверной комнате, как показал другой свидетель?"
 
 # game/code/d21/d21s07.rpy:138
 translate russian d21s07_bd8ffe4f:
@@ -172,7 +172,7 @@ translate russian d21s07_bd8ffe4f:
 translate russian d21s07_496a5ea5:
 
     # "Prosecutor" "And after the server room was sealed by investigators you did not enter the server room and delete evidence?"
-    "Prosecutor" "А после того, как серверная была опечатана следователями, вы не заходили в серверную и не удаляли улики?"
+    "Прокурор" "А после того, как серверная была опечатана следователями, вы не заходили в серверную и не удаляли улики?"
 
 # game/code/d21/d21s07.rpy:144
 translate russian d21s07_ac225b0e:
@@ -184,7 +184,7 @@ translate russian d21s07_ac225b0e:
 translate russian d21s07_a3ce6ce7:
 
     # "Prosecutor" "Your fingerprints were found throughout the administrator section of that server room by investigators. How do you explain that?"
-    "Prosecutor" "Следователи нашли ваши отпечатки пальцев в администраторской части серверной комнаты. Как вы это объясните?"
+    "Прокурор" "Следователи нашли ваши отпечатки пальцев в администраторской части серверной комнаты. Как вы это объясните?"
 
 # game/code/d21/d21s07.rpy:150
 translate russian d21s07_f61edb51:
@@ -196,7 +196,7 @@ translate russian d21s07_f61edb51:
 translate russian d21s07_a7e25541:
 
     # "Defense Attorney" "Objection, your honor! Defense was not made aware of any fingerprints."
-    "Defense Attorney" "Протестую, ваша честь! Защита не была ознакомлена с отпечатками пальцев."
+    "Адвокат" "Протестую, ваша честь! Защита не была ознакомлена с отпечатками пальцев."
 
 # game/code/d21/d21s07.rpy:156
 translate russian d21s07_b4bc6c15:
@@ -208,7 +208,7 @@ translate russian d21s07_b4bc6c15:
 translate russian d21s07_c72f53d6:
 
     # "Defense Attorney" "I never saw anything about this!"
-    "Defense Attorney" "Я ничего об этом не слышал!"
+    "Адвокат" "Я ничего об этом не слышала!"
 
 # game/code/d21/d21s07.rpy:162
 translate russian d21s07_292b072f:
@@ -220,7 +220,7 @@ translate russian d21s07_292b072f:
 translate russian d21s07_a4bb28f8:
 
     # "Prosecutor" "As I was saying, Miss Cox. How do you explain your fingerprints in that server room?"
-    "Prosecutor" "Как я уже говорил, мисс Кокс. Как вы объясните наличие ваших отпечатков пальцев в серверной?"
+    "Прокурор" "Как я уже говорил, мисс Кокс. Как вы объясните наличие ваших отпечатков пальцев в серверной?"
 
 # game/code/d21/d21s07.rpy:168
 translate russian d21s07_745314b1:
@@ -238,13 +238,13 @@ translate russian d21s07_b86dd748:
 translate russian d21s07_0d696740:
 
     # "Prosecutor" "We are well aware of Mister Butler's involvement. He has already plead guilty and testified against both of you."
-    "Prosecutor" "Нам хорошо известно о причастности мистера Батлера. Он уже признал себя виновным и дал показания против вас обоих."
+    "Прокурор" "Нам хорошо известно о причастности мистера Батлера. Он уже признал себя виновным и дал показания против вас обоих."
 
 # game/code/d21/d21s07.rpy:174
 translate russian d21s07_342c26e6:
 
     # "Prosecutor" "But that doesn't explain why your fingerprints were found on the server administrator's keyboard."
-    "Prosecutor" "Но это не объясняет, как ваши отпечатки пальцев оказались на клавиатуре администратора сервера."
+    "Прокурор" "Но это не объясняет, как ваши отпечатки пальцев оказались на клавиатуре администратора сервера."
 
 # game/code/d21/d21s07.rpy:177
 translate russian d21s07_60348f3d:
@@ -262,7 +262,7 @@ translate russian d21s07_e4e44275:
 translate russian d21s07_ab40b45f:
 
     # "Prosecutor" "Uh huh. So, when you said you never went to that room... were you lying then or are you lying now?"
-    "Prosecutor" "Ммм... Значит, когда вы сказали, что никогда не ходили в ту комнату... вы лгали или лжете сейчас?"
+    "Прокурор" "Ммм... Значит, когда вы сказали, что никогда не ходили в ту комнату... вы лгали или лжете сейчас?"
 
 # game/code/d21/d21s07.rpy:185
 translate russian d21s07_95c3598f:
@@ -274,19 +274,19 @@ translate russian d21s07_95c3598f:
 translate russian d21s07_fc9885c8:
 
     # "Prosecutor" "Would you have continued lying to this court if you hadn't been aware of the fingerprint evidence?"
-    "Prosecutor" "Продолжали бы вы лгать суду, если бы не знали об отпечатках пальцев?"
+    "Прокурор" "Продолжали бы вы лгать суду, если бы не знали об отпечатках пальцев?"
 
 # game/code/d21/d21s07.rpy:191
 translate russian d21s07_3eeb8422:
 
     # "Defense Attorney" "Objection!"
-    "Defense Attorney" "Протестую!"
+    "Адвокат" "Протестую!"
 
 # game/code/d21/d21s07.rpy:194
 translate russian d21s07_186a6b02:
 
     # "Prosecutor" "Withdrawn. No further questions."
-    "Prosecutor" "Вопрос снят. Вопросов больше нет."
+    "Прокурор" "Вопрос снят. Вопросов больше нет."
 
 # game/code/d21/d21s07.rpy:197
 translate russian d21s07_b200f701:
@@ -298,7 +298,7 @@ translate russian d21s07_b200f701:
 translate russian d21s07_64862fc8:
 
     # "Defense Attorney" "No, your honor.{w} No further questions for this witness."
-    "Defense Attorney" "Нет, ваша честь.{w} Больше вопросов к свидетелю нет."
+    "Адвокат" "Нет, ваша честь.{w} Больше вопросов к свидетелю нет."
 
 # game/code/d21/d21s07.rpy:203
 translate russian d21s07_27e3931c:
@@ -412,7 +412,7 @@ translate russian d21s07_bbefde22:
 translate russian d21s07_ae1a978f:
 
     # "Bailiff" "You heard the Judge!{w} EVERYBODY MOVE!!!"
-    "Bailiff" "Вы слышали судью!{w} ВСЕМ УЙТИ!!!"
+    "Судебный пристав" "Вы слышали судью!{w} ВСЕМ УЙТИ!!!"
 
 # game/code/d21/d21s07.rpy:268
 translate russian d21s07_b116f7cc:
@@ -514,7 +514,7 @@ translate russian d21s07_ade1821e:
 translate russian d21s07_56945ea0:
 
     # mct "Did she just quote the Matrix?{w} Whoa."
-    mct "Она только что процитировала "Матрицу"? Вау."
+    mct "Она только что процитировала \"Матрицу\"? Вау."
 
 # game/code/d21/d21s07.rpy:308
 translate russian d21s07_15e8bd3e:
@@ -550,7 +550,7 @@ translate russian d21s07_offer_8f95ad24:
 translate russian d21s07_offer_891536b4:
 
     # "Prosecutor" "Of course, your honor."
-    "Prosecutor" "Конечно, ваша честь."
+    "Прокурор" "Конечно, ваша честь."
 
 # game/code/d21/d21s07.rpy:327
 translate russian d21s07_offer_8acd4954:
@@ -568,19 +568,19 @@ translate russian d21s07_offer_25991953:
 translate russian d21s07_offer_19439a3e:
 
     # "Prosecutor" "You've been watching the trial. You have some idea about how the case is going for your girlfriend."
-    "Prosecutor" "Вы следили за судебным процессом. У вас есть некоторое представление о том, как продвигается дело вашей девушки."
+    "Прокурор" "Вы следили за судебным процессом. У вас есть некоторое представление о том, как продвигается дело вашей девушки."
 
 # game/code/d21/d21s07.rpy:334
 translate russian d21s07_offer_f7c497fb:
 
     # "Prosecutor" "I have offered Miss Cox an unconventional alternative to prison."
-    "Prosecutor" "Я предложил мисс Кокс нестандартную альтернативу тюрьме."
+    "Прокурор" "Я предложил мисс Кокс нестандартную альтернативу тюрьме."
 
 # game/code/d21/d21s07.rpy:335
 translate russian d21s07_offer_452cd0fa:
 
     # "Prosecutor" "I'm sure you have heard of private prisons."
-    "Prosecutor" "Я уверен, что вы слышали о частных тюрьмах."
+    "Прокурор" "Я уверен, что вы слышали о частных тюрьмах."
 
 # game/code/d21/d21s07.rpy:337
 translate russian d21s07_offer_8852e77f:
@@ -592,7 +592,7 @@ translate russian d21s07_offer_8852e77f:
 translate russian d21s07_offer_04b00c36:
 
     # "Prosecutor" "And I'm sure you've heard of house arrest."
-    "Prosecutor" "И я уверен, что вы слышали о домашнем аресте."
+    "Прокурор" "И я уверен, что вы слышали о домашнем аресте."
 
 # game/code/d21/d21s07.rpy:342
 translate russian d21s07_offer_3178d2e6:
@@ -604,7 +604,7 @@ translate russian d21s07_offer_3178d2e6:
 translate russian d21s07_offer_b474956b:
 
     # "Prosecutor" "Well, in rare cases such as this we have the opportunity for a combination thereof."
-    "Prosecutor" "Ну, в редких случаях, как этот, у нас есть возможность для их комбинации."
+    "Прокурор" "Ну, в редких случаях, как этот, у нас есть возможность для их комбинации."
 
 # game/code/d21/d21s07.rpy:348
 translate russian d21s07_offer_528accdb:
@@ -628,7 +628,7 @@ translate russian d21s07_offer_a6699a69:
 translate russian d21s07_offer_fcf9e8b2:
 
     # "Prosecutor" "As one of the aggrieved victims of her malfeasance you are eligible to serve as warden of her house arrest."
-    "Prosecutor" "Как одна из пострадавших сторон от ее неправомерных действий, вы можете стать надзирателем ее домашней тюрьмы."
+    "Прокурор" "Как одна из пострадавших сторон от ее неправомерных действий, вы можете стать надзирателем ее домашней тюрьмы."
 
 # game/code/d21/d21s07.rpy:359
 translate russian d21s07_offer_434f4098:
@@ -640,7 +640,7 @@ translate russian d21s07_offer_434f4098:
 translate russian d21s07_offer_8f868d09:
 
     # "Prosecutor" "*chuckle* Have you seen what private prisons feed their inmates? You could let her starve if you want."
-    "Prosecutor" "*хихикает* Вы видели, чем кормят заключенных в частных тюрьмах? Вы можете позволить ей голодать, если хотите."
+    "Прокурор" "*хихикает* Вы видели, чем кормят заключенных в частных тюрьмах? Вы можете позволить ей голодать, если хотите."
 
 # game/code/d21/d21s07.rpy:364
 translate russian d21s07_offer_08d4aea5:
@@ -652,13 +652,13 @@ translate russian d21s07_offer_08d4aea5:
 translate russian d21s07_offer_465aab05:
 
     # "Prosecutor" "She would remain responsible for paying any bills associated with her incarceration. You'd basically get to live there, get paid for it, and punish her however you see fit."
-    "Prosecutor" "Она останется ответственной за оплату всех счетов, связанных с ее заключением. По сути, вы будете жить там, получать за это деньги и наказывать ее, как сочтете нужным."
+    "Прокурор" "Она останется ответственной за оплату всех счетов, связанных с ее заключением. По сути, вы будете жить там, получать за это деньги и наказывать ее, как сочтете нужным."
 
 # game/code/d21/d21s07.rpy:368
 translate russian d21s07_offer_b9357a12:
 
     # "Prosecutor" "It's a reasonable deal. She would only serve 8 years. She'll be 30 when you are done with her."
-    "Prosecutor" "Это разумная сделка. Она будет отбывать наказание всего 8 лет. Ей будет 30 лет, когда вы с ней закончите."
+    "Прокурор" "Это разумная сделка. Она будет отбывать наказание всего 8 лет. Ей будет 30 лет, когда вы с ней закончите."
 
 # game/code/d21/d21s07.rpy:371
 translate russian d21s07_offer_7934d50d:
@@ -682,19 +682,19 @@ translate russian d21s07_offer_f9900417:
 translate russian d21s07_offer_abb437b5:
 
     # "Prosecutor" "Well, there are three types of victims in this case."
-    "Prosecutor" "В этом деле есть три группы пострадавших."
+    "Прокурор" "В этом деле есть три группы пострадавших."
 
 # game/code/d21/d21s07.rpy:381
 translate russian d21s07_offer_f99cb58f:
 
     # "Prosecutor" "One group of victims actually liked what happened to them, which makes them unacceptable to me."
-    "Prosecutor" "Одной группе жертв действительно понравилось то, что с ними произошло, и это делает их неприемлемыми для меня."
+    "Прокурор" "Одной группе жертв действительно понравилось то, что с ними произошло, и это делает их неприемлемыми для меня."
 
 # game/code/d21/d21s07.rpy:382
 translate russian d21s07_offer_9f986e27:
 
     # "Prosecutor" "Another group of victims want vengeance - preferably aggressive & violent."
-    "Prosecutor" "Другая группа - жаждущие мести - желательно агрессивной и жестокой."
+    "Прокурор" "Другая группа - жаждущие мести - желательно агрессивной и жестокой."
 
 # game/code/d21/d21s07.rpy:385
 translate russian d21s07_offer_41fbc69a:
@@ -706,7 +706,7 @@ translate russian d21s07_offer_41fbc69a:
 translate russian d21s07_offer_9cb76c2c:
 
     # "Prosecutor" "*chuckle* Heavens No, but there's no way to convince her to choose that over jail."
-    "Prosecutor" "*хихикает* Боже, нет, но нет способа убедить ее выбрать это вместо тюрьмы."
+    "Прокурор" "*хихикает* Боже, нет, но нет способа убедить ее выбрать это вместо тюрьмы."
 
 # game/code/d21/d21s07.rpy:390
 translate russian d21s07_offer_e1494031:
@@ -718,19 +718,19 @@ translate russian d21s07_offer_e1494031:
 translate russian d21s07_offer_38c8cce7:
 
     # "Prosecutor" "The third group is just you."
-    "Prosecutor" "Третья группа - это только вы."
+    "Прокурор" "Третья группа - это только вы."
 
 # game/code/d21/d21s07.rpy:394
 translate russian d21s07_offer_d38b27dc:
 
     # "Prosecutor" "Miss Cox has already signed the paperwork for the plea deal on the condition that you are her warden."
-    "Prosecutor" "Мисс Кокс уже подписала бумаги о признании вины при условии, что вы будете ее надзирателем."
+    "Прокурор" "Мисс Кокс уже подписала бумаги о признании вины при условии, что вы будете ее надзирателем."
 
 # game/code/d21/d21s07.rpy:395
 translate russian d21s07_offer_65520dd7:
 
     # "Prosecutor" "She believes that she can manipulate you, but I'm willing to bet you'll turn the tables on her."
-    "Prosecutor" "Она считает, что может манипулировать вами, но я готов поспорить, что вы ее перехитрите."
+    "Прокурор" "Она считает, что может манипулировать вами, но я готов поспорить, что вы ее перехитрите."
 
 # game/code/d21/d21s07.rpy:398
 translate russian d21s07_offer_fe495c12:
@@ -754,7 +754,7 @@ translate russian d21s07_offer_7dd7007a:
 translate russian d21s07_offer_565af34a:
 
     # "Prosecutor" "Living rent free, getting paid for it, and otherwise doing whatever you want."
-    "Prosecutor" "Жить бесплатно, получать за это деньги и делать все, что захочешь."
+    "Прокурор" "Жить бесплатно, получать за это деньги и делать все, что захочешь."
 
 # game/code/d21/d21s07.rpy:410
 translate russian d21s07_offer_d06d682c:
@@ -772,31 +772,31 @@ translate russian d21s07_offer_03954793:
 translate russian d21s07_offer_3e93130c:
 
     # "Prosecutor" "Perhaps, but consider the alternative."
-    "Prosecutor" "Возможно, но подумайте об альтернативе."
+    "Прокурор" "Возможно, но подумайте об альтернативе."
 
 # game/code/d21/d21s07.rpy:416
 translate russian d21s07_offer_6574713b:
 
     # "Prosecutor" "Women's prisons are few and far between - and massively overcrowded."
-    "Prosecutor" "Женские тюрьмы немногочисленны и переполнены."
+    "Прокурор" "Женские тюрьмы немногочисленны и переполнены."
 
 # game/code/d21/d21s07.rpy:417
 translate russian d21s07_offer_bdf485ad:
 
     # "Prosecutor" "If she's lucky enough to get into a women's prison she'll be in gen pop with everyone from insider stock traders to convicted mass murderers."
-    "Prosecutor" "Если ей повезет попасть в женскую тюрьму, она окажется в одной камере со всеми - от инсайдеров биржевых торговцев до осужденных массовых убийц."
+    "Прокурор" "Если ей повезет попасть в женскую тюрьму, она окажется в одной камере со всеми - от инсайдеров биржевых торговцев до осужденных массовых убийц."
 
 # game/code/d21/d21s07.rpy:418
 translate russian d21s07_offer_1ba87b87:
 
     # "Prosecutor" "More likely, she'll be assigned to either a women's wing or a coed wing of a minimum security prison."
-    "Prosecutor" "Скорее всего, ее определят либо в женское, либо в совместное отделение тюрьмы с минимальным уровнем контроля."
+    "Прокурор" "Скорее всего, ее определят либо в женское, либо в совместное отделение тюрьмы с минимальным уровнем контроля."
 
 # game/code/d21/d21s07.rpy:419
 translate russian d21s07_offer_c5dc7eee:
 
     # "Prosecutor" "Sure, she won't be side-by-side with murderers, but she's a pretty girl and... you know how it is."
-    "Prosecutor" "Конечно, она не будет стоять бок о бок с убийцами, но она красивая девушка и... вы знаете, как это бывает."
+    "Прокурор" "Конечно, она не будет стоять бок о бок с убийцами, но она красивая девушка и... вы знаете, как это бывает."
 
 # game/code/d21/d21s07.rpy:422
 translate russian d21s07_offer_7d2692a3:
@@ -814,7 +814,7 @@ translate russian d21s07_offer_188f7bbe:
 translate russian d21s07_offer_c2251ffe:
 
     # "Prosecutor" "If you are going to take advantage of this offer, I need your signature on these papers before the end of the recess."
-    "Prosecutor" "Если вы собираетесь воспользоваться этим предложением, мне нужна ваша подпись на этих бумагах до конца перерыва."
+    "Прокурор" "Если вы собираетесь воспользоваться этим предложением, мне нужна ваша подпись на этих бумагах до конца перерыва."
 
 # game/code/d21/d21s07.rpy:430
 translate russian d21s07_offer_b8d1d155:
@@ -832,7 +832,7 @@ translate russian d21s07_offer_95501597:
 translate russian d21s07_offer_891536b4_1:
 
     # "Prosecutor" "Of course, your honor."
-    "Prosecutor" "Конечно, ваша честь."
+    "Прокурор" "Конечно, ваша честь."
 
 # game/code/d21/d21s07.rpy:439
 translate russian d21s07_offer_a5aa459f:
@@ -892,7 +892,7 @@ translate russian d21s07_offer_46da830b:
 translate russian d21s07_offer_c6bbab0c:
 
     # "Bailiff" "No, your honor. Just a fly on the wall."
-    "Bailiff" "Нет, ваша честь. Просто муха на стене."
+    "Судебный пристав" "Нет, ваша честь. Просто муха на стене."
 
 # game/code/d21/d21s07.rpy:464
 translate russian d21s07_offer_72fe20c5:
@@ -976,7 +976,7 @@ translate russian d21s07_jdg_quickie_72ae1b9d:
 translate russian d21s07_jdg_quickie_4b01d68d:
 
     # "Bailiff" "Pretend I'm not even here."
-    "Bailiff" "Представьте, что меня здесь нет."
+    "Судебный пристав" "Представьте, что меня здесь нет."
 
 # game/code/d21/d21s07.rpy:513
 translate russian d21s07_jdg_quickie_9712f9d0:
@@ -1060,7 +1060,7 @@ translate russian d21s07_jdg_quickie_134ede17:
 translate russian d21s07_jdg_quickie_caa746e4:
 
     # "Bailiff" "You might want to let her breathe.{w} So I don't have to shoot you."
-    "Bailiff" "Возможно, вы должны дать ей отдышаться. Чтобы мне не пришлось пристрелить вас."
+    "Судебный пристав" "Возможно, вы должны дать ей отдышаться. Чтобы мне не пришлось пристрелить вас."
 
 # game/code/d21/d21s07.rpy:580
 translate russian d21s07_jdg_quickie_66596601:
@@ -1084,7 +1084,7 @@ translate russian d21s07_jdg_quickie_7ecba4e5:
 translate russian d21s07_jdg_quickie_59e1fda0:
 
     # "Bailiff" "Apologies for interrupting, your honor."
-    "Bailiff" "Простите, что прерываю, ваша честь."
+    "Судебный пристав" "Простите, что прерываю, ваша честь."
 
 # game/code/d21/d21s07.rpy:594
 translate russian d21s07_jdg_quickie_11d11d3c:
@@ -1168,13 +1168,13 @@ translate russian d21s07_offer_p2_683d73b8:
 translate russian d21s07_closing_875bd45e:
 
     # "Bailiff" "All Rise!{w} The People v. Lydia Cox and Jerome Skinner will now resume."
-    "Bailiff" "Всем встать!{w} Процесс по делу Лидии Кокс и Джерома Скиннера продолжается."
+    "Судебный пристав" "Всем встать!{w} Процесс по делу Лидии Кокс и Джерома Скиннера продолжается."
 
 # game/code/d21/d21s07.rpy:655
 translate russian d21s07_closing_9d59a917:
 
     # "Bailiff" "Be seated."
-    "Bailiff" "Садитесь."
+    "Судебный пристав" "Садитесь."
 
 # game/code/d21/d21s07.rpy:659
 translate russian d21s07_closing_009a7012:
@@ -1216,7 +1216,7 @@ translate russian d21s07_closing_bbb9e04e:
 translate russian d21s07_closing_3437dd76:
 
     # "Defense Attorney" "She does, your honor. Her signature is already-"
-    "Defense Attorney" "Да, ваша честь. Ее подпись уже..."
+    "Адвокат" "Да, ваша честь. Ее подпись уже..."
 
 # game/code/d21/d21s07.rpy:674
 translate russian d21s07_closing_2b5605d7:
@@ -1324,7 +1324,7 @@ translate russian d21s07_closing_6c575c75:
 translate russian d21s07_closing_2f0f1d81:
 
     # "Prosecutor" "No, thanks. I believe he will be better served in a traditional prison."
-    "Prosecutor" "Нет. Я считаю, что ему будет лучше в обычной тюрьме."
+    "Прокурор" "Нет. Я считаю, что ему будет лучше в обычной тюрьме."
 
 # game/code/d21/d21s07.rpy:729
 translate russian d21s07_closing_d9e116f6:
@@ -1342,7 +1342,7 @@ translate russian d21s07_closing_f2e63004:
 translate russian d21s07_closing_ec8da15b:
 
     # "Prosecutor" "Thank you, your honor.{w} Ladies and gentlemen of the jury..."
-    "Prosecutor" "Спасибо, ваша честь.{w} Дамы и господа присяжные..."
+    "Прокурор" "Спасибо, ваша честь.{w} Дамы и господа присяжные..."
 
 # game/code/d21/d21s07.rpy:743
 translate russian d21s07_closing_aac04d0f:
@@ -1354,7 +1354,7 @@ translate russian d21s07_closing_aac04d0f:
 translate russian d21s07_closing_d428027f:
 
     # "Prosecutor" "Right, right. Sorry, your honor. Force of habit."
-    "Prosecutor" "Да, да. Простите, ваша честь. Сила привычки."
+    "Прокурор" "Да, да. Простите, ваша честь. Сила привычки."
 
 # game/code/d21/d21s07.rpy:747
 translate russian d21s07_closing_b0a769a0:
@@ -1366,7 +1366,7 @@ translate russian d21s07_closing_b0a769a0:
 translate russian d21s07_closing_5b188515:
 
     # "Prosecutor" "Thank you, your honor..."
-    "Prosecutor" "Спасибо, ваша честь..."
+    "Прокурор" "Спасибо, ваша честь..."
 
 # game/code/d21/d21s07.rpy:751
 translate russian d21s07_closing_8a075ae6:
@@ -1594,13 +1594,13 @@ translate russian d21s07_closing_43e3ee5f:
 translate russian d21s07_closing_9bc68098:
 
     # mc "At least an innocent woman was set free."
-    mc "По крайней мере, невинную девушку освободили."
+    mc "По крайней мере, невиновную девушку освободили."
 
 # game/code/d21/d21s07.rpy:855
 translate russian d21s07_closing_4bb129e6:
 
     # hr "Innocent?{w} I am never fucking you again."
-    hr "Невиновная?{w} Я больше никогда не буду с тобой трахаться."
+    hr "Невиновную?{w} Я больше никогда не буду с тобой трахаться."
 
 # game/code/d21/d21s07.rpy:858
 translate russian d21s07_closing_7015b377:
@@ -1630,7 +1630,7 @@ translate russian d21s07_closing_d3427954:
 translate russian d21s07_closing_d6138452:
 
     # hr "That twisted cunt caused all this and got off?"
-    hr "Этот дрянь все это устроила и так легко отделалась?"
+    hr "Эта дрянь все это устроила и так легко отделалась?"
 
 # game/code/d21/d21s07.rpy:881
 translate russian d21s07_closing_c338ece6:
@@ -1894,7 +1894,7 @@ translate russian d21s07_breakup_c2b5e542:
 translate russian d21s07_breakup_f9fcd8d1:
 
     # lc "Thank you, for that. Not crushing my hopes sooner."
-    lc "Спасибо тебе за это. Что не разрушили мои надежды раньше."
+    lc "Спасибо тебе за это. Что не разрушил мои надежды раньше."
 
 # game/code/d21/d21s07.rpy:1046
 translate russian d21s07_breakup_747f0a0e:

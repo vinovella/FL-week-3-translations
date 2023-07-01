@@ -394,7 +394,7 @@ translate russian d21s06_032e8e68:
 translate russian d21s06_be5d012b:
 
     # mc "Have a taste."
-    mc "Have a taste."
+    mc "Попробуй."
 
 # game/code/d21/d21s06.rpy:219
 translate russian d21s06_75178bdb:
@@ -484,7 +484,7 @@ translate russian d21s06_df8d949a:
 translate russian d21s06_50a02fb7:
 
     # sy "Badboy, not Playboy! All that porn and you can't read anymore!"
-    sy "Бэдбой, а не Плейбой! Столько порнографии, а ты уже не можешь читать!"
+    sy "Бэдбой, а не Плейбой! Столько порнографии, а ты даже не умеешь читать!"
 
 # game/code/d21/d21s06.rpy:257
 translate russian d21s06_b8726199:
@@ -562,7 +562,7 @@ translate russian d21s06_28a0046d:
 translate russian d21s06_90dd921c:
 
     # sy "I was looking into it, but they're kinda expensive. I certainly can't afford it."
-    sy "Я рассматривала этот вариант, но они довольно дорогие. Но я не могу себе этого позволить."
+    sy "Я рассматривала этот вариант, но они довольно дорогие. И я не могу себе этого позволить."
 
 # game/code/d21/d21s06.rpy:292
 translate russian d21s06_cb9e5a25:
@@ -592,7 +592,7 @@ translate russian d21s06_e240c11f:
 translate russian d21s06_3adb97ac:
 
     # mc "I know a person who knows a person who can sublet his unit. Is that the term?"
-    mc "Я знаю человека, который знает человека, который может сдать свою квартиру в субаренду. Это так и называется?"
+    mc "Я знаю человека, который знает человека, который может сдать свою квартиру в субаренду. Это так называется?"
 
 # game/code/d21/d21s06.rpy:302
 translate russian d21s06_58740b22:
@@ -994,7 +994,7 @@ translate russian d21s06_386749b8:
 translate russian d21s06_645f7d1b:
 
     # sy "Here are some pros and cons on why we should reboot Fetish Locator."
-    sy "Вот некоторые "за" и "против" того, почему мы должны перезагрузить Фетиш Локатор."
+    sy "Вот некоторые \"за\" и \"против\" того, почему мы должны перезагрузить Фетиш Локатор."
 
 # game/code/d21/d21s06.rpy:461
 translate russian d21s06_013a76de:
@@ -1600,7 +1600,7 @@ translate russian d21s06_reboot_fl_1ca35561:
 translate russian d21s06_reboot_fl_ebf0195d:
 
     # mc "AmRose, don't feel pressured. Don't do anything you don't want to do."
-    mc "АмРоуз, не поддавайтесь давлению. Не делай того, чего не хочешь."
+    mc "АмРоуз, не поддавайся давлению. Не делай того, чего не хочешь."
 
 # game/code/d21/d21s06.rpy:710
 translate russian d21s06_reboot_fl_604f260e:
@@ -1798,7 +1798,7 @@ translate russian d21s06_reboot_fl_192c5851:
 translate russian d21s06_reboot_fl_e45dc7f1:
 
     # sy "Yeah, but we are the brand, don't forget. We are the company. So we need to start thinking of films that we can shoot, and then we can form the company."
-    sy "Да, но мы - бренд, не забывайте. Мы - компания. Поэтому нам нужно начать думать о фильмах, которые мы можем снять, а потом мы сможем создать компанию."
+    sy "Да, но мы - бренд, не забывай. Мы - компания. Поэтому нам нужно начать думать о фильмах, которые мы можем снять, а потом мы сможем создать компанию."
 
 # game/code/d21/d21s06.rpy:791
 translate russian d21s06_reboot_fl_3acfcab7:
@@ -1840,7 +1840,7 @@ translate russian d21s06_reboot_fl_e5455d01:
 translate russian d21s06_reboot_fl_69033c5a:
 
     # sy "Or Finder. It's like that other dating app, except I replaced the first letter with an F."
-    sy "Или Finder. Это как другое приложение для знакомств, только я заменил первую букву на F."
+    sy "Или Finder. Это как другое приложение для знакомств, только я заменила первую букву на F."
 
 # game/code/d21/d21s06.rpy:808
 translate russian d21s06_reboot_fl_593599a5:
@@ -1882,7 +1882,7 @@ translate russian d21s06_no_fl_91c01b2d:
 translate russian d21s06_no_fl_18d641b9:
 
     # arj "I'm not usually, but when it comes to this, I've made up my mind, sorry."
-    arj "Обычно я так не делаю, но когда дело дошло до этого, я принял решение, прости."
+    arj "Обычно я так не делаю, но когда дело дошло до этого, я приняла решение, прости."
 
 # game/code/d21/d21s06.rpy:831
 translate russian d21s06_no_fl_ad3129e2:
@@ -1942,7 +1942,7 @@ translate russian d21s06_no_fl_0772c775:
 translate russian d21s06_no_fl_72d3767e:
 
     # mc "Oh, I was hoping to talk to Stacy a little bit. Do you want me to walk you there?"
-    mc "О, я надеялся немного поговорить со Стейси. Хочешь, чтобы я проводил туда?"
+    mc "О, я надеялся немного поговорить со Стейси. Хочешь, чтобы я проводил тебя?"
 
 # game/code/d21/d21s06.rpy:857
 translate russian d21s06_no_fl_db3325ec:
@@ -2374,7 +2374,7 @@ translate russian d21s06_waterfall_f8a13f46:
 translate russian d21s06_waterfall_7863212a:
 
     # mc "So let's do this."
-    mc "Давайте сделаем это."
+    mc "Давай сделаем это."
 
 # game/code/d21/d21s06.rpy:1094
 translate russian d21s06_wellness_spa_7a37235b:
@@ -2404,7 +2404,7 @@ translate russian d21s06_wellness_spa_a14fb21a:
 translate russian d21s06_wellness_spa_da2002db:
 
     # sy "Until they're satisfied, Min just told you."
-    sy "Пока они не будут удовлетворены, Мин только что сказал это."
+    sy "Пока они не будут удовлетворены, Мин только что сказала это."
 
 # game/code/d21/d21s06.rpy:1104
 translate russian d21s06_wellness_spa_f308289e:

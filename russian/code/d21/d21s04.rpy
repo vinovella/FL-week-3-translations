@@ -400,7 +400,7 @@ translate russian d21s04_43998c5b:
 translate russian d21s04_2faa8133:
 
     # mh "*Chuckles* Well..."
-    mh "*Хохочет* Ну..."
+    mh "*Хихикает* Ну..."
 
 # game/code/d21/d21s04.rpy:230
 translate russian d21s04_896b2eee:

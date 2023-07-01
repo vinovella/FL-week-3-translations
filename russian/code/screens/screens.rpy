@@ -392,7 +392,7 @@ translate russian strings:
 
     # game/code/screens/screens.rpy:357
     old "Endings"
-    new "Endings"
+    new "Концовки"
 
     # game/code/screens/screens.rpy:1045
     old "Connect Your Toy"
