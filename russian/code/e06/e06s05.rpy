@@ -3398,3 +3398,11 @@ translate russian strings:
     old "Do Not Invite Her to Join"
     new "Do Not Invite Her to Join"
 
+# TODO: Translation updated at 2023-07-03 00:37
+
+translate russian strings:
+
+    # game/code/e06/e06s05.rpy:606
+    old "Both"
+    new "Both"
+
