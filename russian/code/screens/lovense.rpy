@@ -122,3 +122,15 @@ translate russian strings:
     old "Please enter your HTTP Port number:"
     new "Please enter your HTTP Port number:"
 
+# TODO: Translation updated at 2023-07-03 00:02
+
+translate russian strings:
+
+    # game/code/screens/lovense.rpy:74
+    old "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
+    new "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
+
+    # game/code/screens/lovense.rpy:80
+    old "Get a toy now"
+    new "Get a toy now"
+
