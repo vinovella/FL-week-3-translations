@@ -238,13 +238,13 @@ translate turkish d16s03_860c298e:
 translate turkish d16s03_68ce535d:
 
     # lc "You're the ultimate turn on. {w}You being caged just ... safe? comfortable? Do you know what I mean?"
-    lc "En büyük tahrik sensin. {w}Kafeste tutuluyorsun... güvende mi? rahat mı? Ne demek istediğimi anlıyor musun?
+    lc "En büyük tahrik sensin. {w}Kafeste tutuluyorsun... güvende mi? rahat mı? Ne demek istediğimi anlıyor musun?"
 
 # game/code/d16/d16s03.rpy:151
 translate turkish d16s03_99d0253c:
 
     # arj "You want to fuck him, but you don't want him to be able to fuck you."
-    arj "Onu becermek istiyorsun ama onun seni becerebilmesini istemiyorsun.""
+    arj "Onu becermek istiyorsun ama onun seni becerebilmesini istemiyorsun."
 
 # game/code/d16/d16s03.rpy:154
 translate turkish d16s03_2ef6dd82:
@@ -286,7 +286,7 @@ translate turkish d16s03_5e1e68ee:
 translate turkish d16s03_66eb0401:
 
     # mct "They both want AmRose to leave.{w} Hmm... I'm thinking..."
-    mct "İkisi de AmRose'un gitmesini istiyor.{w} Hmm... Düşünüyorum da...
+    mct "İkisi de AmRose'un gitmesini istiyor.{w} Hmm... Düşünüyorum da..."
 
 # game/code/d16/d16s03.rpy:181
 translate turkish d16s03_c145daf5:
@@ -1186,7 +1186,7 @@ translate turkish d16s03_ea094c82:
 translate turkish d16s03_b3c5e0e8:
 
     # lc "What?! No!"
-    lc "Ne?! Hayır!
+    lc "Ne?! Hayır!"
 
 # game/code/d16/d16s03.rpy:679
 translate turkish d16s03_b8de06d3:
@@ -1210,7 +1210,7 @@ translate turkish d16s03_a31340dd:
 translate turkish d16s03_ac20710a:
 
     # lc "Not want. I fantasize about it. Some awful part of me wants it."
-    lc "İstemiyorum. Bunun hayalini kuruyorum. Korkunç bir parçam bunu istiyor.""
+    lc "İstemiyorum. Bunun hayalini kuruyorum. Korkunç bir parçam bunu istiyor."
 
 # game/code/d16/d16s03.rpy:691
 translate turkish d16s03_03f089ab:

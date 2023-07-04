@@ -190,7 +190,7 @@ translate turkish d15s08_3b51f4c8:
 translate turkish d15s08_6856043b:
 
     # sy "Woah, whoa, whoa. {w}Let's not say anything we are going to regret later."
-    sy Vay, vay, vay. {w}Sonradan pişman olacağımız bir şey söylemeyelim."
+    sy "Vay, vay, vay. {w}Sonradan pişman olacağımız bir şey söylemeyelim."
 
 # game/code/d15/d15s08.rpy:121
 translate turkish d15s08_fba0d140:
