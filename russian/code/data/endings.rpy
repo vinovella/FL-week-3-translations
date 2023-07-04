@@ -28,7 +28,7 @@ translate russian strings:
 
     # game/code/data/endings.rpy:3
     old "A New Chair"
-    new "A New Chair"
+    new "Новый раб"
 
     # game/code/data/endings.rpy:3
     old "My Happy Ginger Family"
@@ -145,7 +145,7 @@ translate russian strings:
     new "E06 - Королевский гарем"
 
     old "E07 - A New Chair"
-    new "E07 - A New Chair"
+    new "E07 - Новый раб"
 
     old "E08 - My Happy Ginger Family"
     new "E08 - Моя счастливая рыжая семья"
