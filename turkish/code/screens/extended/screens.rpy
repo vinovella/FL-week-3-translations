@@ -66,3 +66,11 @@ translate turkish strings:
     old "BONUS CONTENT"
     new "BONUS İÇERİK"
 
+# TODO: Translation updated at 2023-07-05 01:13
+
+translate turkish strings:
+
+    # game/code/screens/extended/screens.rpy:95
+    old "Wishlist Vinovella University on Steam"
+    new "Wishlist Vinovella University on Steam"
+

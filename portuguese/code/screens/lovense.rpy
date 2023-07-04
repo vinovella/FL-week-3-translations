@@ -126,3 +126,15 @@ translate portuguese strings:
     old "{u}Connect your toy!{/u}"
     new "{u}Conecte o seu brinquedo!{/u}"
 
+# TODO: Translation updated at 2023-07-05 01:10
+
+translate portuguese strings:
+
+    # game/code/screens/lovense.rpy:74
+    old "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
+    new "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
+
+    # game/code/screens/lovense.rpy:80
+    old "Get a toy now"
+    new "Get a toy now"
+

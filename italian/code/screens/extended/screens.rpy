@@ -65,3 +65,11 @@ translate italian strings:
     # game/code/screens/extended/screens.rpy:335
     old "BONUS CONTENT"
     new "CONTENUTI BONUS"
+# TODO: Translation updated at 2023-07-05 01:07
+
+translate italian strings:
+
+    # game/code/screens/extended/screens.rpy:95
+    old "Wishlist Vinovella University on Steam"
+    new "Wishlist Vinovella University on Steam"
+

@@ -90,3 +90,11 @@ translate chinese strings:
     old "Quit Game"
     new "退出游戏"
 
+# TODO: Translation updated at 2023-07-05 01:05
+
+translate chinese strings:
+
+    # game/code/screens/extended/screens.rpy:95
+    old "Wishlist Vinovella University on Steam"
+    new "Wishlist Vinovella University on Steam"
+

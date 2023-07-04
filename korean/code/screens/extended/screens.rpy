@@ -66,3 +66,11 @@ translate korean strings:
     old "BONUS CONTENT"
     new "BONUS CONTENT"
 
+# TODO: Translation updated at 2023-07-05 01:08
+
+translate korean strings:
+
+    # game/code/screens/extended/screens.rpy:95
+    old "Wishlist Vinovella University on Steam"
+    new "Wishlist Vinovella University on Steam"
+

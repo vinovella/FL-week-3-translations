@@ -124,7 +124,7 @@ translate turkish d16s01_b6fc2dde:
 translate turkish d16s01_ddc04b62:
 
     # sy "With only a 36.72%% chance of blowing up in your face!"
-    sy "Yüzünüzde patlama olasılığı yalnızca %36,72!"
+    sy "Yüzünüzde patlama olasılığı yalnızca %%36,72!"
 
 # game/code/d16/d16s01.rpy:136
 translate turkish d16s01_e4546705:
