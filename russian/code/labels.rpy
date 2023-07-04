@@ -628,5 +628,5 @@ translate russian strings:
 translate russian after_credits_cb03f950:
 
     # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+    sy "Тогда мне определенно стоит {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}заказать игру в Steam{/u}{/a}!"
 

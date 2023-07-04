@@ -232,7 +232,7 @@ translate russian d21s01_988b709b:
 translate russian d21s01_144e47df:
 
     # hr "He has really the face of someone only a mother would love. Like nobody ever told him he was an unlikable piece of shit."
-    hr "У него действительно лицо человека, которого могла бы полюбить только мать. Как будто никто никогда не говорил ему, что он нелюдимый кусок дерьма."
+    hr "У него действительно лицо человека, которого могла полюбить только мать. Как будто никто никогда не говорил ему, что он нелюдимый кусок дерьма."
 
 # game/code/d21/d21s01.rpy:216
 translate russian d21s01_703d8a2a:

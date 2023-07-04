@@ -52,7 +52,7 @@ translate russian d19s03_ext_07707541:
 translate russian d19s03_ext_e58ea438:
 
     # mh "[mcname] wasn't answering my messages, so I decided to come over and see if you knew something."
-    mh "[mcname] не отвечал на мои сообщения, поэтому я решила задойти и спросить, не знаешь ли ты чего-нибудь."
+    mh "[mcname] не отвечал на мои сообщения, поэтому я решила зайти и спросить, не знаешь ли ты чего-нибудь."
 
 # game/code/d19/extended/d19s03_ext.rpy:97
 translate russian d19s03_ext_58467069:
@@ -382,7 +382,7 @@ translate russian d19s03_bj_7cd16f8d:
 translate russian d19s03_bj_3ebf028d:
 
     # mc "C'mon. Get in the bed. I want to you up today."
-    mc "Ладно. Ложись в кровать."
+    mc "Ладно. Ложись на кровать."
 
 # game/code/d19/extended/d19s03_ext.rpy:344
 translate russian d19s03_bj_55af7362:

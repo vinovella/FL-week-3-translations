@@ -94,7 +94,7 @@ translate russian d21s07_a7c6db06:
 translate russian d21s07_783c2174:
 
     # "Defense Attorney" "I think that is sufficient. No further questions, your honor."
-    "Адвокат" "Я думаю, этого достаточно. Больше вопросов нет, ваша честь."
+    "Адвокат" "Думаю, этого достаточно. Больше вопросов нет, ваша честь."
 
 # game/code/d21/d21s07.rpy:102
 translate russian d21s07_584aa10e:

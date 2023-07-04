@@ -154,7 +154,7 @@ translate russian d21s05_df0b5075:
 translate russian d21s05_a2b1f6fa:
 
     # mc "I think it's us - or more specifically me - that should be thanking you, Maria."
-    mc "Я думаю, что это мы - или, точнее, я - должны благодарить тебя, Мария."
+    mc "Я думаю, что это мы - или, точнее, я - должен благодарить тебя, Мария."
 
 # game/code/d21/d21s05.rpy:173
 translate russian d21s05_fdaadfa1:
@@ -730,13 +730,13 @@ translate russian d21s05_party_6cb69cbf:
 translate russian d21s05_party_b4baa03c:
 
     # mct "Do I want to assfuck Terrell and make Aaleyah clean me off afterwards?"
-    mct "Хочу ли я оттрахать Террелла и заставить Аалию отмыть меня после этого?"
+    mct "Хочу ли я оттрахать Террелла и заставить Алию отмыть меня после этого?"
 
 # game/code/d21/d21s05.rpy:613
 translate russian d21s05_party_35c8e5d9:
 
     # mct "Or do I just want to fuck Aaleyah's mouth while Terrell jerks off crying in the corner?"
-    mct "Или я просто хочу трахнуть рот Аалии, пока Террелл дрочит, плача в углу?"
+    mct "Или я просто хочу трахнуть рот Алии, пока Террелл дрочит, плача в углу?"
 
 # game/code/d21/d21s05.rpy:626
 translate russian d21s05_fuck_tr_d7654326:
@@ -1206,5 +1206,5 @@ translate russian strings:
 
     # game/code/d21/d21s05.rpy:614
     old "Just facefuck Aaleyah instead"
-    new "Просто трахнуть Аалию вместо этого"
+    new "Просто трахнуть Алию вместо этого"
 

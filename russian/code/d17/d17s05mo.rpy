@@ -1134,5 +1134,5 @@ translate russian d17s05mo_be58e169:
 translate russian d17s05mo_09d1334a:
 
     # op "That's messed up, [mcname]."
-    op "That's messed up, [mcname]."
+    op "Это неправильно, [mcname]."
 

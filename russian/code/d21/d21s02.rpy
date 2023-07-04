@@ -4,7 +4,7 @@
 translate russian d21s02_3a53d660:
 
     # mc "Thank you for meeting me... angels."
-    mc "Спасибо что вы встретились со мной... ангелы."
+    mc "Спасибо что встретились со мной... ангелы."
 
 # game/code/d21/d21s02.rpy:33
 translate russian d21s02_b2d2a033:
@@ -76,7 +76,7 @@ translate russian d21s02_175e7f8b:
 translate russian d21s02_3d88cadd:
 
     # "Police Officer" "Excuse me, are you [mcname] Young?"
-    "Police Officer" "Простите, вы [mcname] Янг?"
+    "Офицер полиции" "Простите, вы [mcname] Янг?"
 
 # game/code/d21/d21s02.rpy:68
 translate russian d21s02_10d58019:
@@ -88,7 +88,7 @@ translate russian d21s02_10d58019:
 translate russian d21s02_c7895dc4:
 
     # "Police Officer" "Yeah, she signed for you to visit. I'm afraid she's only allowed two visitors at any time."
-    "Police Officer" "Да, она подписала разрешение на ваш визит. Боюсь, её могут посетить только два человека одновременно."
+    "Офицер полиции" "Да, она подписала разрешение на ваш визит. Боюсь, её могут посетить только два человека одновременно."
 
 # game/code/d21/d21s02.rpy:74
 translate russian d21s02_d4ba5962:
@@ -112,7 +112,7 @@ translate russian d21s02_7848ee13:
 translate russian d21s02_0f65ccd7:
 
     # "Police Officer" "I'll pretend I didn't hear that."
-    "Police Officer" "Притворюсь, что я этого не слышал."
+    "Офицер полиции" "Притворюсь, что я этого не слышал."
 
 # game/code/d21/d21s02.rpy:86
 translate russian d21s02_2a8f9b26:
@@ -796,7 +796,7 @@ translate russian d21s02_mc_ntr_a887fa8a:
 translate russian d21s02_mc_ntr_442f00b1:
 
     # mc "From where I'm standing it seems like you underestimated me. I proved stronger than you expected."
-    mc "Судя по тому, где стою я, похоже, ты меня недооценила. Я оказался сильнее, чем ты ожидала."
+    mc "Судя по тому, где стою я, скорее, ты меня недооценила. Я оказался сильнее, чем ты ожидала."
 
 # game/code/d21/d21s02.rpy:469
 translate russian d21s02_mc_ntr_81d80139:

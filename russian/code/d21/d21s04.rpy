@@ -112,7 +112,7 @@ translate russian d21s04_23142ba5:
 translate russian d21s04_52dfbc14:
 
     # mc "*Deep breath* Yeah."
-    mc "*глубокий вдох* Да."
+    mc "*глубокий вздох* Да."
 
 # game/code/d21/d21s04.rpy:90
 translate russian d21s04_29429f1a:
@@ -562,7 +562,7 @@ translate russian d21s04_6b4fbc68:
 translate russian d21s04_76c4883b:
 
     # mh "I know. I appreciate that. That's all."
-    mh "Знаю. И я ценю это. Это всё."
+    mh "Знаю. И я ценю это. Вот и всё."
 
 # game/code/d21/d21s04.rpy:304
 translate russian d21s04_a49ed4f8:

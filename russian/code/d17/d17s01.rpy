@@ -328,7 +328,7 @@ translate russian d17s01_2b82e62c:
 translate russian d17s01_9d95bcc7:
 
     # mc "It's not like they post a list. How do you know?"
-    mc "Они же не публикуют список. А вы откуда узнаете?"
+    mc "Они же не публикуют список. А вы откуда знаете?"
 
 # game/code/d17/d17s01.rpy:158
 translate russian d17s01_a3379bfd:

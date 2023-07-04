@@ -76,5 +76,5 @@ translate russian strings:
 
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Vinovella University on Steam"
-    new "Wishlist Vinovella University on Steam"
+    new "Добавить Vinovella University в список желаемого в Steam"
 

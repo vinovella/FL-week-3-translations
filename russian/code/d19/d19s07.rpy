@@ -832,7 +832,7 @@ translate russian d19s07_roleplay_5a61db4b:
 translate russian d19s07_roleplay_78b66f11:
 
     # mc "You mean if you do everything right down to licking his cigarette and he doesn't stick his dick in you?"
-    mc "Ты имеешь в виду, будешь сделаешь все, вплоть до лизания его сигареты, пока он не засунет в тебя свой член?"
+    mc "Ты имеешь в виду, что сделаешь все, вплоть до лизания его сигары, пока он не засунет в тебя свой член?"
 
 # game/code/d19/d19s07.rpy:362
 translate russian d19s07_roleplay_cf377cb2:
@@ -1264,7 +1264,7 @@ translate russian d19s07_sex_36678b68:
 translate russian d19s07_sex_a8e4600f:
 
     # mk "Think of every rough sex porn you've ever seen and do it all to me!!!!!"
-    mk "Вспомни каждое грубое сексуальное порно, которое ты когда-либо смотрел, и сделай также для меня!!!!!"
+    mk "Вспомните каждое грубое порно с элементами насилия, которое ты когда-либо видел, и сделай все это со мной!!!!!"
 
 # game/code/d19/d19s07.rpy:514
 translate russian d19s07_sex_8e9a6e98:

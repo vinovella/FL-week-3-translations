@@ -904,7 +904,7 @@ translate russian d20s02rn_interrupt_ff389e9e:
 translate russian d20s02rn_interrupt_eaf2e608:
 
     # mk "I didn't realize I was misleading him. I thought the only way I could help you-"
-    mk "Я не понимала, что вводила его в заблуждение. Я думал, что только так я могла помочь тебе..."
+    mk "Я не понимала, что вводила его в заблуждение. Я думала, что только так я могла помочь тебе..."
 
 # game/code/d20/d20s02rn.rpy:446
 translate russian d20s02rn_interrupt_511e08d1:

@@ -88,7 +88,7 @@ translate russian d21s03_8082f9a9:
 translate russian d21s03_486114ae:
 
     # mc "You guys good to head off on your own? I can handle this."
-    mc "Вы, девчата, можете поехать в одиночку? Я сам с этим справлюсь."
+    mc "Девчата, вы можете поехать в одиночку? Я сам с этим справлюсь."
 
 # game/code/d21/d21s03.rpy:49
 translate russian d21s03_4e5a32f4:
@@ -136,7 +136,7 @@ translate russian d21s03_1f408063:
 translate russian d21s03_a953dc07:
 
     # vumc "And we're rolling. Let's start off with something simple..."
-    vumc "Мы начинаем. Начнём с чего-то простого..."
+    vumc "Поехали. Начнём с чего-то простого..."
 
 # game/code/d21/d21s03.rpy:68
 translate russian d21s03_f92a21a7:

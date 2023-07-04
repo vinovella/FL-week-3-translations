@@ -400,7 +400,7 @@ translate russian d15s02_332925d5:
 translate russian d15s02_716019b8:
 
     # mc "Right."
-    mc "Верно."
+    mc "Ладно."
 
 # game/code/d15/d15s02.rpy:145
 translate russian d15s02_66a102f9:

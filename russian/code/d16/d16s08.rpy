@@ -268,7 +268,7 @@ translate russian d16s08_d3c78865:
 translate russian d16s08_08e7303e:
 
     # arj "Didn't she almost kill you once?"
-    arj "Разве она однажды не чуть не убила тебя?"
+    arj "Разве она однажды чуть не убила тебя?"
 
 # game/code/d16/d16s08.rpy:115
 translate russian d16s08_cfa86b8c:

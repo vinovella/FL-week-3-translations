@@ -658,7 +658,7 @@ translate russian d21s06_80960227:
 translate russian d21s06_64bd85ce:
 
     # sy "And here are the plans to start a porn empire."
-    sy "А вот планы по созданию порноимперии."
+    sy "А вот и планы по созданию порноимперии."
 
 # game/code/d21/d21s06.rpy:326
 translate russian d21s06_af0eb5dd:
