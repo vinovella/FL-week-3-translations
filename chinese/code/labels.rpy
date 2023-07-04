@@ -620,3 +620,11 @@ translate chinese strings:
     old "The legendary Fetish Locator will return"
     new "传说中的性趣探测器会回来的"
 
+# TODO: Translation updated at 2023-07-05 01:05
+
+# game/code/labels.rpy:431
+translate chinese after_credits_cb03f950:
+
+    # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+

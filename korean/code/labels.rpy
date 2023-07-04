@@ -618,3 +618,11 @@ translate korean strings:
     old "The legendary Fetish Locator will return"
     new "The legendary Fetish Locator will return"
 
+# TODO: Translation updated at 2023-07-05 01:08
+
+# game/code/labels.rpy:431
+translate korean after_credits_cb03f950:
+
+    # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+

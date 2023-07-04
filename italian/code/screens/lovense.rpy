@@ -130,3 +130,15 @@ translate italian strings:
     old "Save"
     new "Salva"
 
+# TODO: Translation updated at 2023-07-05 01:07
+
+translate italian strings:
+
+    # game/code/screens/lovense.rpy:74
+    old "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
+    new "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
+
+    # game/code/screens/lovense.rpy:80
+    old "Get a toy now"
+    new "Get a toy now"
+
