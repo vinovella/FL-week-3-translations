@@ -462,5 +462,5 @@ translate russian strings:
 
     # game/code/e10/e10s07.rpy:217
     old "You have finished playing ending 10!"
-    new "You have finished playing ending 10!"
+    new "Вы завершили игру с концовкой номер 10!"
 

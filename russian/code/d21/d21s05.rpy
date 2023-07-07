@@ -124,7 +124,7 @@ translate russian d21s05_d61d714f:
 translate russian d21s05_34cd6e17:
 
     # mc "I'm good."
-    mc "Я в порядке."
+    mc "Мне хватило."
 
 # game/code/d21/d21s05.rpy:158
 translate russian d21s05_b1bcda08:

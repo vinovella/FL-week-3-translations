@@ -76,7 +76,7 @@ translate russian d21s01_91234c53:
 translate russian d21s01_5fd69dce:
 
     # hr "No. I couldn't fall asleep at night. Something about sleeping in a foreign bed."
-    hr "Нет. Я не могла уснуть ночью. Чем-то похоже на сон в чужой постели."
+    hr "Нет. Я не могла заснуть ночью. Чем-то похоже на сон в чужой постели."
 
 # game/code/d21/d21s01.rpy:127
 translate russian d21s01_ff7088c3:

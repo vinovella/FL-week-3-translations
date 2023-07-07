@@ -754,7 +754,7 @@ translate russian d16s03_899edc24:
 translate russian d16s03_e096cc48:
 
     # mc "I have strong feelings for you both, you know that?"
-    mc "У меня сильное чувства к вам обоим, вы это знаете?"
+    mc "У меня сильные чувства к вам обеим, вы это знаете?"
 
 # game/code/d16/d16s03.rpy:303
 translate russian d16s03_da1aa4fd:

@@ -424,7 +424,7 @@ translate russian d18s01_shower_32d15bfb:
 translate russian d18s01_shower_5c17875f:
 
     # mc "I'm just incredibly lucky to share this moment with you."
-    mc "Мне просто невероятно повезло разделить этот момент с тобою."
+    mc "Мне просто невероятно повезло разделить этот момент с тобой."
 
 # game/code/d18/d18s01.rpy:178
 translate russian d18s01_shower_5640a6ac:
@@ -502,7 +502,7 @@ translate russian d18s01_shower_ed38f8ed:
 translate russian d18s01_shower_c3be93af:
 
     # mc "Before you were naked, wet, and lathering in front of me?"
-    mc "До того, как ты встала голой и мокрой передо мной?"
+    mc "До того, как ты оказалась передо мной голой и мокрой?"
 
 # game/code/d18/d18s01.rpy:197
 translate russian d18s01_shower_56e97989:

@@ -232,7 +232,7 @@ translate russian d17s05mo_57a06e27:
 translate russian d17s05mo_a55d945b:
 
     # op "I mostly only know her in a professional setting."
-    op "Я знаю ее в основном только с профессиональной стороны."
+    op "Я знаю ее только по профессиональной деятельности."
 
 # game/code/d17/d17s05mo.rpy:88
 translate russian d17s05mo_93814797:
@@ -784,13 +784,13 @@ translate russian d17s05mo_ca636351:
 translate russian d17s05mo_abb73d54:
 
     # op "\"How did I lose my virginity...\""
-    op "\"Как я лишился девственности...\""
+    op "\"Как я потерял девственность...\""
 
 # game/code/d17/d17s05mo.rpy:270
 translate russian d17s05mo_8898a8ba:
 
     # op "Someone said, \"How did I lose my virginity... Three dicks at the same time.\""
-    op "Один вариант: \"Как я лишилась девственности... Три члена одновременно.\""
+    op "Один вариант: \"Как я потерял девственность... Три члена одновременно.\""
 
 # game/code/d17/d17s05mo.rpy:272
 translate russian d17s05mo_be3945b6:
@@ -802,7 +802,7 @@ translate russian d17s05mo_be3945b6:
 translate russian d17s05mo_2731a645:
 
     # op "And someone else said, \"How did I lose my virginity... Seething with quiet resentment\""
-    op "Второй вариант: \"Как я лишилась девственности... Кипя от молчаливой обиды\""
+    op "Второй вариант: \"Как я потерял девственность... Кипя от молчаливой обиды\""
 
 # game/code/d17/d17s05mo.rpy:276
 translate russian d17s05mo_f03baece:
@@ -1006,7 +1006,7 @@ translate russian d17s05mo_3d7aeb6d:
 translate russian d17s05mo_6c56d9e1:
 
     # mh "*Sigh* This is the part I hate about having people over."
-    mh "*вздох* Это тот момент, которую я ненавижу, когда приглашаешь людей."
+    mh "*вздох* Это тот момент, который я ненавижу, когда приглашаю гостей."
 
 # game/code/d17/d17s05mo.rpy:352
 translate russian d17s05mo_fb23475f:

@@ -88,7 +88,7 @@ translate russian d21s03_8082f9a9:
 translate russian d21s03_486114ae:
 
     # mc "You guys good to head off on your own? I can handle this."
-    mc "Девчата, вы можете поехать в одиночку? Я сам с этим справлюсь."
+    mc "Девчата, вы можете поехать без меня? Я сам тут справлюсь."
 
 # game/code/d21/d21s03.rpy:49
 translate russian d21s03_4e5a32f4:

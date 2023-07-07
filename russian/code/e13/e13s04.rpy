@@ -234,5 +234,5 @@ translate russian strings:
 
     # game/code/e13/e13s04.rpy:274
     old "You have finished playing ending number 13!"
-    new "You have finished playing ending number 13!"
+    new "Вы завершили игру с концовкой номер 13!"
 

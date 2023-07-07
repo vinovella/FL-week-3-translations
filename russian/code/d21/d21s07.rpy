@@ -844,7 +844,7 @@ translate russian d21s07_offer_a5aa459f:
 translate russian d21s07_offer_b3525b02:
 
     # jdg "*chuckle* I could murder you and they'd clean up the body and the mess before court resumes."
-    jdg "*улыбается* Я могу убить тебя, и они уберут тело и беспорядок до возобновления суда."
+    jdg "*улыбается* Я могу убить тебя, и он уберет тело и беспорядок до возобновления суда."
 
 # game/code/d21/d21s07.rpy:443
 translate russian d21s07_offer_df2004e3:

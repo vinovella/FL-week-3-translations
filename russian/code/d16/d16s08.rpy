@@ -862,7 +862,7 @@ translate russian d16s08_006e9486:
 translate russian d16s08_f3442d50:
 
     # mct "If I don't go, then she'll probably leave without me..."
-    mct "Если я не пойду, то она, скорее всего, уйдет без меня..."
+    mct "Если я не пойду, то она, скорее всего, уедет без меня..."
 
 # game/code/d16/d16s08.rpy:329
 translate russian d16s08_b45b3cee:

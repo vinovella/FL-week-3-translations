@@ -310,7 +310,7 @@ translate russian d15s05_help_d04fa45d:
 translate russian d15s05_help_1ac95452:
 
     # mc "Let it wait. I don't want you ever coming back here again, understood?"
-    mc "Пусть ждет. Я не хочу, чтобы ты сюда больше возвращалась, поняла?"
+    mc "Пусть ждет. Я не хочу, чтобы ты сюда возвращалась, поняла?"
 
 # game/code/d15/d15s05.rpy:171
 translate russian d15s05_help_339d8544:

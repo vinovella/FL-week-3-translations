@@ -1276,7 +1276,7 @@ translate russian d21s02_sy_ending_62094f22:
 translate russian d21s02_sy_ending_6d7f20f8:
 
     # sy "Until then, you'll never know who you can trust - who's coming after you - or what I got them to do."
-    sy "До тех пор ты никогда не будешь знать, кому можно доверять, и кто придет за тобой, и что я заставляю их сделать."
+    sy "До тех пор ты никогда не будешь знать, кому можно доверять, и кто придет за тобой, и что я заставлю их сделать."
 
 # game/code/d21/d21s02.rpy:691
 translate russian d21s02_sy_ending_98d09626:

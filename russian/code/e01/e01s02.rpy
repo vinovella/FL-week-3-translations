@@ -806,7 +806,7 @@ translate russian strings:
 
     # game/code/e01/e01s02.rpy:400
     old "You have finished Ending #01!"
-    new "You have finished Ending #01!"
+    new "Вы завершили игру с концовкой номер 1!"
 
     # game/code/e01/e01s02.rpy:401
     old "Stacy and [mcname] will return!"

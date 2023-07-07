@@ -316,7 +316,7 @@ translate russian d19s07_problem_e37de9e5:
 translate russian d19s07_problem_19459b1f:
 
     # mc "I mean, I figured you enjoyed it. That maybe you were bisexual or something."
-    mc "Я думал тебе это нравиться. Может ты бисексуалка или что-то в этом роде."
+    mc "Я думал тебе это нравится. Может ты бисексуалка или что-то в этом роде."
 
 # game/code/d19/d19s07.rpy:183
 translate russian d19s07_problem_a45e1406:
@@ -412,7 +412,7 @@ translate russian d19s07_problem_a263db75:
 translate russian d19s07_problem_2ffe5a32:
 
     # mc "But, you're interesting to be around and I've honestly come to like it when you're around."
-    mc "Но с тобой интересно общаться, и честно говоря, мне нравиться, когда ты рядом."
+    mc "Но с тобой интересно общаться, и честно говоря, мне нравится, когда ты рядом."
 
 # game/code/d19/d19s07.rpy:224
 translate russian d19s07_problem_e52f875c:
@@ -1264,7 +1264,7 @@ translate russian d19s07_sex_36678b68:
 translate russian d19s07_sex_a8e4600f:
 
     # mk "Think of every rough sex porn you've ever seen and do it all to me!!!!!"
-    mk "Вспомните каждое грубое порно с элементами насилия, которое ты когда-либо видел, и сделай все это со мной!!!!!"
+    mk "Вспомни каждое грубое порно с элементами насилия, которое ты когда-либо видел, и сделай все это со мной!!!!!"
 
 # game/code/d19/d19s07.rpy:514
 translate russian d19s07_sex_8e9a6e98:
