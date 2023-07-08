@@ -736,7 +736,7 @@ translate turkish d16s06_dbf86460:
 translate turkish d16s06_42f5d300:
 
     # aw "Help me up."
-    aw Kalkmama yardım et."
+    aw "Kalkmama yardım et."
 
 # game/code/d16/d16s06.rpy:617
 translate turkish d16s06_8b9f16a2:
@@ -778,5 +778,5 @@ translate turkish d16s06_d7755542:
 translate turkish d16s06_89a8c10f:
 
     # flr "You have earned [d16s06_points] points."
-    flr "[d16s06_points] puan kazandınız.""
+    flr "[d16s06_points] puan kazandınız."
 

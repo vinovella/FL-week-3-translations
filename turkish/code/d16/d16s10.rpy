@@ -364,7 +364,7 @@ translate turkish d16s10_afae13df:
 translate turkish d16s10_c17ef8ec:
 
     # mc "What's that?"
-    mc "Bu da ne?""
+    mc "Bu da ne?"
 
 # game/code/d16/d16s10.rpy:203
 translate turkish d16s10_bf23f537:
@@ -412,7 +412,7 @@ translate turkish d16s10_873d047b:
 translate turkish d16s10_b1a37c3d:
 
     # mc "You're relaxing on top of your sleeping bag and talking to me while I look through the camp supplies we packed."
-    mc ""Ben topladığımız kamp malzemelerini karıştırırken sen uyku tulumunun üzerinde dinleniyorsun ve benimle konuşuyorsun."
+    mc "Ben topladığımız kamp malzemelerini karıştırırken sen uyku tulumunun üzerinde dinleniyorsun ve benimle konuşuyorsun."
 
 # game/code/d16/d16s10.rpy:227
 translate turkish d16s10_5fd28399:

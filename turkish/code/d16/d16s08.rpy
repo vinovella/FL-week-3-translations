@@ -64,7 +64,7 @@ translate turkish d16s08_1a299b8b:
 translate turkish d16s08_28459e19:
 
     # mc "Okay, so who...{w} or what do you have in mind?"
-    mc "Tamam, peki kim...{w} ya da aklında ne var?
+    mc "Tamam, peki kim...{w} ya da aklında ne var?"
 
 # game/code/d16/d16s08.rpy:59
 translate turkish d16s08_594a9b43:
@@ -220,7 +220,7 @@ translate turkish d16s08_921584d2:
 translate turkish d16s08_0e75454c:
 
     # mc "Daisy and I have been getting pretty close, but... I don't know."
-    mc Daisy ve ben oldukça yakınlaştık ama... Bilmiyorum."
+    mc "Daisy ve ben oldukça yakınlaştık ama... Bilmiyorum."
 
 # game/code/d16/d16s08.rpy:145
 translate turkish d16s08_14387a1e:

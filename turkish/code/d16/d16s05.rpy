@@ -256,7 +256,7 @@ translate turkish d16s05_e15e1041:
 translate turkish d16s05_b2805601:
 
     # sy "They literally had the audacity to just go \"{i}Somehow{/i} Palpatine returned.\" {b}Somehow!?{/b}, {i}{b}Somehow!?{/b}{/i}?"
-    sy "Kelimenin tam anlamıyla sadece gitmek için cüretleri vardı\"{Bence}Bir şekilde{/Bence}Palpatine geri döndü.\" {B}Bir şekilde!?{/B},{i}{b}Bir şekilde!?{/b}{/i}?"
+    sy "Kelimenin tam anlamıyla sadece gitmek için cüretleri vardı\"{b}Bir şekilde{/b}Palpatine geri döndü.\" {b}Bir şekilde!?{/b},{i}{b}Bir şekilde!?{/b}{/i}?"
 
 # game/code/d16/d16s05.rpy:148
 translate turkish d16s05_a5a58593:
@@ -286,7 +286,7 @@ translate turkish d16s05_da464676:
 translate turkish d16s05_01d4eb83:
 
     # sy "Oh! How's the uh...{i}situation{/i} by the way?"
-    sy "Ah! nasılsın...{Bence}durum{/Bence}Bu arada?"
+    sy "Ah! nasılsın...{i}durum{/i}Bu arada?"
 
 # game/code/d16/d16s05.rpy:160
 translate turkish d16s05_f183c907:
@@ -1084,7 +1084,7 @@ translate turkish d16s05_3fa818ba:
 translate turkish d16s05_f7e4f4e5:
 
     # sy "Worth it."
-    sy ""Buna değer."
+    sy "Buna değer."
 
 translate turkish strings:
 
