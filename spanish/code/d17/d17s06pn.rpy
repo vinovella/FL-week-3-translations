@@ -64,7 +64,7 @@ translate spanish d17s06pn_017570a4:
 translate spanish d17s06pn_7844d881:
 
     # nk "But it was so engrossing neither one of us took our eyes off the screen.{w}.. even if our hands did roam a lot."
-    nk "Pero fue tan fascinante que ninguna de nosotras apartó los ojos de la pantalla. {w}... incluso si nuestras manos se movieran mucho."
+    nk "Pero fue tan fascinante que ninguna de las dos apartó los ojos de la pantalla, aunque nuestras manos se movieron mucho."
 
 # game/code/d17/d17s06pn.rpy:74
 translate spanish d17s06pn_1d074d32:
@@ -82,7 +82,7 @@ translate spanish d17s06pn_86c220e6:
 translate spanish d17s06pn_074bd61d:
 
     # nk "We were just waiting for you to join us. I talked to the ticket seller and we should have time for a quickie."
-    nk "Estábamos esperando que te unieras a nosotros. Hablé con el vendedor de boletos y deberíamos tener tiempo para un rapidito."
+    nk "Estábamos esperando que te unieras a nosotras. Hablé con el vendedor de boletos y deberíamos tener tiempo para un rapidito."
 
 # game/code/d17/d17s06pn.rpy:81
 translate spanish d17s06pn_79369379:
@@ -214,7 +214,7 @@ translate spanish d17s06pn_6cd93e8a:
 translate spanish d17s06pn_94812e9d:
 
     # nk "Yes, I am! I am!! {w}Fuck YES!!!"
-    nk "¡Sí, lo estoy! {w}Joder SÍ!!!"
+    nk "¡Sí, lo estoy! {w}Mierda SÍ!!!"
 
 # game/code/d17/d17s06pn.rpy:169
 translate spanish d17s06pn_cdef5390:
@@ -472,7 +472,7 @@ translate spanish d17s06pn_a6ae6fbd:
 translate spanish d17s06pn_1ecb4cac:
 
     # nk "Yeah, I do. {w}Banks, credit cards, that sort of thing."
-    nk "Sí lo hago. {w}Bancos, tarjetas de crédito, ese tipo de cosas."
+    nk "Sí, lo hago. {w}Bancos, tarjetas de crédito, ese tipo de cosas."
 
 # game/code/d17/d17s06pn.rpy:305
 translate spanish d17s06pn_a17e5344:
@@ -544,7 +544,7 @@ translate spanish d17s06pn_4b7cadce:
 translate spanish d17s06pn_9e6458c9:
 
     # nk "If I did business like last week for a couple of years straight this offer would be an insult."
-    nk "Si hiciera negocios como la semana pasada durante un par de años seguidos, esta oferta sería un insulto."
+    nk "Si hiciera negocios como los de la semana pasada durante un par de años seguidos, esta oferta sería un insulto."
 
 # game/code/d17/d17s06pn.rpy:335
 translate spanish d17s06pn_e68c066f:
@@ -616,7 +616,7 @@ translate spanish d17s06pn_dfc3a150:
 translate spanish d17s06pn_c4d9784e:
 
     # nk "I don't know what to do."
-    nk "No se que hacer."
+    nk "No sé que hacer."
 
 # game/code/d17/d17s06pn.rpy:366
 translate spanish d17s06pn_10576975:
@@ -850,7 +850,7 @@ translate spanish d17s06pn_93f868c1:
 translate spanish d17s06pn_59684a14:
 
     # nk "I do!"
-    nk "¡Sí quiero."
+    nk "¡Sí quiero!"
 
 # game/code/d17/d17s06pn.rpy:468
 translate spanish d17s06pn_291f9e0a:
@@ -982,7 +982,7 @@ translate spanish d17s06pn_5c2cc35e:
 translate spanish d17s06pn_1ca9e3ae:
 
     # pw "JUST A SEC-"
-    pw "JSOLO UN SEGUNDO-"
+    pw "SÓLO UN SEGUNDO-"
 
 # game/code/d17/d17s06pn.rpy:537
 translate spanish d17s06pn_02be82d6:
@@ -1130,7 +1130,7 @@ translate spanish strings:
 
     # game/code/d17/d17s06pn.rpy:628
     old "They make a cute couple"
-    new "THacen una linda pareja"
+    new "Hacen una linda pareja"
 
     # game/code/d17/d17s06pn.rpy:628
     old "We make a good trio"
