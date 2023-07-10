@@ -22,7 +22,7 @@ translate spanish d18s07_e60d061d:
 translate spanish d18s07_9bf063fb:
 
     # zw "Open this door {i}right now{/i}, young man!"
-    zw "¡Abre esta puerta {i} ahora mismo {/i}, jovencito!"
+    zw "¡Abre esta puerta {i} ahora mismo {/i},¡jovencito!"
 
 # game/code/d18/d18s07.rpy:27
 translate spanish d18s07_9f31b11d:
@@ -268,7 +268,7 @@ translate spanish d18s07_5dd47cca:
 translate spanish d18s07_22f67d27:
 
     # zw "I could go ask now if you'd like? She's probably in the teacher's lounge. She might be able to help with your digital fire ma—"
-    zw "Podría ir a preguntar ahora si quieres. Probablemente esté en la sala de profesores. Ella podría ser capaz de ayudarte con tu equipo de \"bomberos digital\""
+    zw "Podría ir a preguntar ahora si quieres. Probablemente esté en la sala de profesores. Ella podría ser capaz de ayudarte con tu equipo de \"bombero digital\""
 
 # game/code/d18/d18s07.rpy:169
 translate spanish d18s07_bbc1bbf6:
@@ -311,3 +311,4 @@ translate spanish d18s07_7764a381:
 
     # mc "Alright. Let's go, she can clearly handle this."
     mc "De acuerdo. Vamos, ella claramente puede manejar esto."
+
