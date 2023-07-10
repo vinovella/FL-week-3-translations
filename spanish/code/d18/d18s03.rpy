@@ -1234,7 +1234,7 @@ translate spanish d18s03_sex_19286006:
 translate spanish d18s03_sex_d425adcb:
 
     # mes "Do You Like My Tight Little Cunt, Sir?"
-    mes "¿Le gusta mi pequeño coño apretado, señor?"
+    mes "¿Le gusta mi pequeño coño apretado, Señor?"
 
 # game/code/d18/d18s03.rpy:903
 translate spanish d18s03_sex_f7883096:
@@ -1288,7 +1288,7 @@ translate spanish d18s03_sex_7f3e5058:
 translate spanish d18s03_sex_58a64898:
 
     # mes "This lube is something new. It's not supposed to burn!"
-    mes "Este lubricante es algo nuevo. ¡No se supone que no debe quemar!"
+    mes "Este lubricante es algo nuevo. ¡Se supone que no debe quemar!"
 
 # game/code/d18/d18s03.rpy:951
 translate spanish d18s03_sex_0c92c27e:
