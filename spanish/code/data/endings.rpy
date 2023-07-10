@@ -4,35 +4,35 @@ translate spanish strings:
 
     # game/code/data/endings.rpy:3
     old "S&M Studio"
-    new "Estudio S&M"
+    new "Estudio de Sadomasoquismo S&M"
 
     # game/code/data/endings.rpy:3
     old "Snowy Peaks"
-    new "Picos nevados"
+    new "Picos Nevados"
 
     # game/code/data/endings.rpy:3
     old "Two Girls Two Dicks"
-    new "Dos chicas, dos pollas"
+    new "Dos Chicas Dos Pollas"
 
     # game/code/data/endings.rpy:3
     old "My Sex Dungeon"
-    new "Mi mazmorra sexual"
+    new "Mí Mazmorra Sexual"
 
     # game/code/data/endings.rpy:3
     old "Sausage Party"
-    new "Fiesta de las salchichas"
+    new "Fiesta de Salchichas"
 
     # game/code/data/endings.rpy:3
     old "Queen's Harem"
-    new "Harén de la Reina"
+    new "El Harén de la Reina"
 
     # game/code/data/endings.rpy:3
     old "A New Chair"
-    new "Una nueva silla"
+    new "Una Nueva Silla"
 
     # game/code/data/endings.rpy:3
     old "My Happy Ginger Family"
-    new "Mi familia feliz de jengibre"
+    new "Mi Familia Feliz de Jengibre"
 
     # game/code/data/endings.rpy:3
     old "Fetish Locator: Rebooted"
@@ -40,19 +40,19 @@ translate spanish strings:
 
     # game/code/data/endings.rpy:3
     old "Runaway"
-    new "Huir"
+    new "Fugitivo"
 
     # game/code/data/endings.rpy:3
     old "Red Diamond"
-    new "Diamante rojo"
+    new "Diamante Rojo"
 
     # game/code/data/endings.rpy:3
     old "Redhead Resort"
-    new "Complejo pelirrojo"
+    new "Complejo Pelirrojo"
 
     # game/code/data/endings.rpy:3
     old "Pregnant Nora"
-    new "Nora embarazada"
+    new "Nora Embarazada"
 
     # game/code/data/endings.rpy:3
     old "Polly & Nora"
@@ -64,7 +64,7 @@ translate spanish strings:
 
     # game/code/data/endings.rpy:3
     old "Breeding Ponies"
-    new "Cría de ponis"
+    new "Cría de Ponis"
 
     # game/code/data/endings.rpy:3
     old "Not Guilty"
@@ -134,40 +134,40 @@ translate spanish strings:
     new "E01 - Estudio S&M"
 
     old "E02 - Snowy Peaks"
-    new "E02 - Picos nevados"
+    new "E02 - Picos Nevados"
 
     old "E03 - Two Girls Two Dicks"
-    new "E03 - Dos chicas, dos pollas"
+    new "E03 - Dos chicas Dos penes"
 
     old "E04 - My Sex Dungeon"
-    new "E04 - Mi mazmorra sexual"
+    new "E04 - Mi Mazmorra Sexual"
 
     old "E05 - Sausage Party"
-    new "E05 - Fiesta de las salchichas"
+    new "E05 - Fiesta de Salchichas"
 
     old "E06 - Queen's Harem"
-    new "E06 - Harén de la Reina"
+    new "E06 - El Harén de la Reina"
 
     old "E07 - A New Chair"
-    new "E07 - Una nueva silla"
+    new "E07 - Una Nueva Silla"
 
     old "E08 - My Happy Ginger Family"
-    new "E08 - Mi familia feliz de jengibre"
+    new "E08 - Mi Familia Feliz de Jengibre"
 
     old "E09 - Fetish Locator: Rebooted"
     new "E09 - Localizador de Fetiches: Reiniciado"
 
     old "E10 - Runaway"
-    new "E10 - Huir"
+    new "E10 - Fugitivo"
 
     old "E11 - Red Diamond"
-    new "E11 - Diamante rojo"
+    new "E11 - Diamante Rojo"
 
     old "E12 - Redhead Resort"
-    new "E12 - Complejo pelirrojo"
+    new "E12 - Complejo Pelirrojo"
 
     old "E13 - Pregnant Nora"
-    new "E13 - Nora embarazada"
+    new "E13 - Nora Embarazada"
 
     old "E14 - Polly & Nora"
     new "E14 - Polly y Nora"
@@ -176,7 +176,7 @@ translate spanish strings:
     new "E15 - Cascada"
 
     old "E16 - Breeding Ponies"
-    new "E16 - Cría de ponis"
+    new "E16 - Cría de Ponis"
 
     old "E17 - Not Guilty"
     new "E17 - Inocente"
