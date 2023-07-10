@@ -52,7 +52,7 @@ translate spanish e02s02_a148b8c1:
 translate spanish e02s02_22cc7b56:
 
     # mh "Though it makes you wonder, how many of those forty were beginners like us?"
-    mh "Aunque te hace preguntarte, ¿cuántos de esos cuarenta eran principiantes como nosotros?"
+    mh "Aunque te hace preguntarte, ¿cuántas de esas cuarenta eran principiantes como nosotros?"
 
 # game/code/e02/e02s02.rpy:50
 translate spanish e02s02_a6f00a3b:
@@ -76,7 +76,7 @@ translate spanish e02s02_6fa6d42c:
 translate spanish e02s02_1945db22:
 
     # mc "Good thing we're not day drinkings."
-    mc "Menos mal que no somos bebedores diurnos."
+    mc "Menos mal que no bebemos durante el día."
 
 # game/code/e02/e02s02.rpy:62
 translate spanish e02s02_a25a4765:
@@ -124,7 +124,7 @@ translate spanish e02s02_a44f95fa:
 translate spanish e02s02_b4d1d192:
 
     # mc "I {i}did{/i} check the first message. It sounds like he is buried in work. He might need a vacation of his own."
-    mc "Yo {i}revisé{/i} el primer mensaje. Parece que está enterrado en el trabajo. Él podría necesitar unas vacaciones por su cuenta."
+    mc "Yo {i}revisé{/i} el primer mensaje. Parece que está enterrado en el trabajo. Él podría necesitar unas vacaciones."
 
 # game/code/e02/e02s02.rpy:87
 translate spanish e02s02_de241de1:
@@ -136,7 +136,7 @@ translate spanish e02s02_de241de1:
 translate spanish e02s02_233312f0:
 
     # mh "How did we get to talking about work again?"
-    mh "¿Cómo llegamos a hablar de trabajo de nuevo?"
+    mh "¿Cómo hemos vuelto a hablar de trabajo?"
 
 # game/code/e02/e02s02.rpy:93
 translate spanish e02s02_7e979033:
@@ -154,7 +154,7 @@ translate spanish e02s02_60ab4cd0:
 translate spanish e02s02_ae4679ba:
 
     # mh "I’d jump."
-    mh "Yo saltaría"
+    mh "Yo saltaría."
 
 # game/code/e02/e02s02.rpy:107
 translate spanish e02s02_a4fa1b5f:
@@ -298,7 +298,7 @@ translate spanish e02s02_98a4b54c:
 translate spanish e02s02_436de96e:
 
     # mc "Wait a minute, are you getting harder? Thinking about what will happen if we fall off?"
-    mc "Espera un minuto, ¿te estás poniendo más duro? ¿Pensando en lo que sucederá si nos caemos?"
+    mc "Espera un minuto, ¿te estás poniendo más dura? ¿Pensando en lo que sucederá si nos caemos?"
 
 # game/code/e02/e02s02.rpy:197
 translate spanish e02s02_6a5251c0:
@@ -334,7 +334,7 @@ translate spanish e02s02_510d6486:
 translate spanish e02s02_50a35951:
 
     # mh "Honestly, this is a really bad idea... but a great new experience."
-    mh "Honestamente, esta es una muy mala idea... pero una gran experiencia nueva."
+    mh "Sinceramente, es una muy mala idea... pero una gran y nueva experiencia."
 
 # game/code/e02/e02s02.rpy:218
 translate spanish e02s02_8726eb3b:
@@ -364,7 +364,7 @@ translate spanish e02s02_33b1c0f4:
 translate spanish e02s02_eba7f002:
 
     # mh "I’m going to cum soon..."
-    mh "me voy a correr pronto..."
+    mh "Me voy a correr pronto..."
 
 # game/code/e02/e02s02.rpy:237
 translate spanish e02s02_84101e56:
@@ -442,7 +442,7 @@ translate spanish e02s02_3746a6c5:
 translate spanish e02s02_6efe9cf9:
 
     # mc "Am I?"
-    mc "¿Lo estoy?"
+    mc "¿Lo hago?"
 
 # game/code/e02/e02s02.rpy:287
 translate spanish e02s02_1764197a:
@@ -502,7 +502,7 @@ translate spanish e02s02_622794fb:
 translate spanish e02s02_d77889bd:
 
     # mh "No, not really. In order to go skiing, I would require snow."
-    mh "No en realidad no. Para ir a esquiar, necesitaría nieve."
+    mh "No, en realidad no. Para ir a esquiar, necesitaría nieve."
 
 # game/code/e02/e02s02.rpy:312
 translate spanish e02s02_03cfded3:
@@ -526,13 +526,13 @@ translate spanish e02s02_8bd0c333:
 translate spanish e02s02_f86c8a4a:
 
     # mh "You have to warm yourself up and then maintain a center of gravity."
-    mh "Tienes que calentarte y luego mantener un centro de gravedad."
+    mh "Tienes que entrar en calor y luego mantener el centro de gravedad."
 
 # game/code/e02/e02s02.rpy:323
 translate spanish e02s02_8932a542:
 
     # mc "Warm up? In this location?"
-    mc "¿Calentarte? ¿En esta ubicación?"
+    mc "¿Calentar? ¿En este lugar?"
 
 # game/code/e02/e02s02.rpy:326
 translate spanish e02s02_23c478c0:
@@ -568,7 +568,7 @@ translate spanish e02s02_4eb99c59:
 translate spanish e02s02_e94ef34d:
 
     # mh "Bank left, follow the trail, and avoid crashing into those trees. I'll see you down there."
-    mh "Gira a la izquierda, siga el camino y evite chocar contra esos árboles. Te veo abajo."
+    mh "Gira a la izquierda, sige el camino y evite chocar contra esos árboles. Te veo abajo."
 
 translate spanish strings:
 
