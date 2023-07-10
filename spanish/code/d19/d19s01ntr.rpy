@@ -130,7 +130,7 @@ translate spanish d19s01ntr_68ecd2b8:
 translate spanish d19s01ntr_a3a34f40:
 
     # lc "Isn't Pete such a lovely toy? I get bored of him so often, yet sometimes he's just wonderful."
-    lc "¿No es Pete un juguete tan encantador? Me aburro de él muy a menudo, pero a veces es simplemente maravilloso."
+    lc "¿No es Pete un juguete encantador? Me aburro de él muy a menudo, pero a veces es simplemente maravilloso."
 
 # game/code/d19/d19s01ntr.rpy:135
 translate spanish d19s01ntr_flashback_89dd4b90:
@@ -154,7 +154,7 @@ translate spanish d19s01ntr_flashback_68dec3f8:
 translate spanish d19s01ntr_flashback_d5158065:
 
     # lc "What alternative is there? This slave's app could bring me dozens or hundreds of fresh servants and slaves."
-    lc "What alternative is there? This slave's app could bring me dozens or hundreds of fresh servants and slaves."
+    lc "¿Qué alternativa hay? Esta aplicación de esclavos podría traerme docenas o cientos de sirvientes y esclavos frescos."
 
 # game/code/d19/d19s01ntr.rpy:144
 translate spanish d19s01ntr_flashback_27c5aa17:
@@ -220,7 +220,7 @@ translate spanish d19s01ntr_continue_3504e0f5:
 translate spanish d19s01ntr_continue_f4a6da17:
 
     # lc "While Min danced to my perversions and your friends fell into my grasp you were nowhere to be found."
-    lc "Mientras Min bailaba al son de mis perversiones y tus amigos caían en mis garras, y tú no aparecías por ninguna parte."
+    lc "Mientras Min bailaba al son de mis perversiones y tus amigos caían en mis garras, tú no aparecías por ninguna parte."
 
 # game/code/d19/d19s01ntr.rpy:199
 translate spanish d19s01ntr_continue_55af8b90:
@@ -334,7 +334,7 @@ translate spanish d19s01ntr_continue_f3390aa8:
 translate spanish d19s01ntr_continue_f8544acd:
 
     # lc "When you disappeared for weeks, who cared except for me and mine?"
-    lc "Cuando desapareciste durante semanas, ¿a quién le importaba excepto a mí y a los míos?"
+    lc "Cuando desapareciste durante semanas, ¿a quién le importó excepto a mí y a los míos?"
 
 # game/code/d19/d19s01ntr.rpy:233
 translate spanish d19s01ntr_continue_d53f7e3a:
@@ -370,7 +370,7 @@ translate spanish d19s01ntr_continue_d7e1a336:
 translate spanish d19s01ntr_continue_bef1d859:
 
     # lc "I am your beginning and will be your end. I am everything and you are nothing."
-    lc "Soy tu principio y seré tu final. Yo soy todo y tu eres nada."
+    lc "Soy tu principio y seré tu final. Yo soy todo y tú eres nada."
 
 # game/code/d19/d19s01ntr.rpy:249
 translate spanish d19s01ntr_continue_ce472ccd:
@@ -436,7 +436,7 @@ translate spanish d19s01ntr_questions_abbbcf01:
 translate spanish d19s01ntr_questions_4e1aa04c:
 
     # lc "I'm sure I was, once."
-    lc "Estoy segura de que lo fue, una vez."
+    lc "Estoy segura de que lo fui, una vez."
 
 # game/code/d19/d19s01ntr.rpy:311
 translate spanish d19s01ntr_questions_b6deb8ea:
@@ -466,7 +466,7 @@ translate spanish d19s01ntr_questions_4482fa8d:
 translate spanish d19s01ntr_questions_70859132:
 
     # lc "I did. I implied. I have manipulated. I even gaslit you - but I never lied."
-    lc "Lo hice. Lo insinué. He manipulado. Incluso te he gaseado, pero nunca he mentido."
+    lc "Lo hice. He insinuado. He manipulado. Incluso te he gaseado, pero nunca he mentido."
 
 # game/code/d19/d19s01ntr.rpy:327
 translate spanish d19s01ntr_questions_922ea64a:
@@ -568,7 +568,7 @@ translate spanish d19s01ntr_decision_eb30b049:
 translate spanish d19s01ntr_decision_84a30b24:
 
     # lc "So now, you have a choice to make."
-    lc "Así que ahora, tiene una elección que hacer."
+    lc "Así que ahora, tienes una elección que hacer."
 
 # game/code/d19/d19s01ntr.rpy:387
 translate spanish d19s01ntr_decision_449f68cf:
@@ -592,7 +592,7 @@ translate spanish d19s01ntr_decision_c2034f06:
 translate spanish d19s01ntr_decision_335a1161:
 
     # lc "You have only one choice. You have only one option."
-    lc "Solo tienes una elección. Solo tienes una opción."
+    lc "Sólo tienes una opción. Sólo tienes una opción."
 
 # game/code/d19/d19s01ntr.rpy:397
 translate spanish d19s01ntr_decision_ab6bd80e:
@@ -676,7 +676,7 @@ translate spanish d19s01ntr_end_d1acc24f:
 translate spanish d19s01ntr_end_30a22e70:
 
     # mc "Oh no.{w} Is it time to \"Bring Out the Gimp\"?"
-    mc "Oh, no. {w} ¿Es hora de \"Sacar el Cojo?\""
+    mc "Oh, no. {w} ¿Es hora de \"¿Sacar el Cojo?\""
 
 # game/code/d19/d19s01ntr.rpy:456
 translate spanish d19s01ntr_end_1bdeabce:
@@ -796,7 +796,7 @@ translate spanish d19s01ntr_end_be872fef:
 translate spanish d19s01ntr_end_a913cdcc:
 
     # mc "Pick up!{w} AmRose!! Pick up!!!"
-    mc "¡Levántalo! ¡¡AmRose!! ¡¡¡Contesta!!!"
+    mc "¡Contesta! ¡¡AmRose!! ¡¡¡Contesta!!!"
 
 # game/code/d19/d19s01ntr.rpy:553
 translate spanish d19s01ntr_end_367d2a5c:
@@ -814,7 +814,7 @@ translate spanish d19s01ntr_end_27e6e569:
 translate spanish d19s01ntr_end_9d54982a:
 
     # ah "Woah, woah, woah. Wait.{w} Is that really the smart move here?"
-    ah "Guau, guau, guau. Espera. {w} ¿Es ese realmente el movimiento inteligente aquí?"
+    ah "Woah, woah, woah. Espera. ¿Es realmente el movimiento inteligente aquí?"
 
 # game/code/d19/d19s01ntr.rpy:566
 translate spanish d19s01ntr_end_f30c76e8:
@@ -1048,7 +1048,7 @@ translate spanish strings:
 
     # game/code/d19/d19s01ntr.rpy:291
     old "How did I get here?"
-    new "¿Cómo llegué aqui?"
+    new "¿Cómo llegué aquí?"
 
     # game/code/d19/d19s01ntr.rpy:291
     old "I thought you were a virgin!"
