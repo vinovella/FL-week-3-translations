@@ -112,7 +112,7 @@ translate spanish e01s02_1fdb905b:
 translate spanish e01s02_a15b4a11:
 
     # sy "What would you do if you won a few hundred million dollars?"
-    sy "¿Qué harías si ganaras unos cientos de millones de dólares?"
+    sy "¿No se supone que es sólo un millón de dólares?"
 
 # game/code/e01/e01s02.rpy:75
 translate spanish e01s02_b68059e8:
@@ -160,7 +160,7 @@ translate spanish e01s02_e7c95eb8:
 translate spanish e01s02_08cc5e15:
 
     # mc "Not to mention all the women I've had sex with who suddenly want something out of me."
-    mc "Sin mencionar todas las mujeres con las que he tenido sexo que de repente quieren algo de mí."
+    mc "Por no hablar de todas las mujeres con las que he tenido sexo que de repente quieren algo de mí."
 
 # game/code/e01/e01s02.rpy:93
 translate spanish e01s02_73b4c8d5:
@@ -232,7 +232,7 @@ translate spanish e01s02_2c1e7a45:
 translate spanish e01s02_2ff81412:
 
     # mc "Let's turn those questions around. If you had unlimited wealth and the ability to do anything you wanted to do - what would you do?"
-    mc "Vamos a darle la vuelta a esas preguntas. Si tuvieras riqueza ilimitada y la capacidad de hacer cualquier cosa que quisiera hacer, ¿qué haría?"
+    mc "Vamos a darle la vuelta a esas preguntas. Si tuvieras riqueza ilimitada y la capacidad de hacer cualquier cosa que quisiera hacer, ¿qué harías?"
 
 # game/code/e01/e01s02.rpy:121
 translate spanish e01s02_e0bf9cc1:
@@ -292,7 +292,7 @@ translate spanish e01s02_cccc4977:
 translate spanish e01s02_420e1232:
 
     # sy "You, of course. Now that you're mine I can move on to the second part."
-    sy "Tu, por supuesto. Ahora que eres mío, puedo pasar a la segunda parte."
+    sy "Tú, por supuesto. Ahora que eres mío, puedo pasar a la segunda parte."
 
 # game/code/e01/e01s02.rpy:145
 translate spanish e01s02_69cecba4:
@@ -346,7 +346,7 @@ translate spanish e01s02_67cc2233:
 translate spanish e01s02_d3c994b6:
 
     # sy "Face it, lover. You already are."
-    sy "Acéptalo, amante. ya lo eres"
+    sy "Acéptalo, cariño. Ya lo eres"
 
 # game/code/e01/e01s02.rpy:168
 translate spanish e01s02_5cb8fa35:
@@ -406,7 +406,7 @@ translate spanish e01s02_793a8c09:
 translate spanish e01s02_5a108da1:
 
     # sy "This is why I copied the Fetish Locator data."
-    sy "Es por eso que copié los datos del Localizador de Fetiche."
+    sy "Es por eso que copié los datos del Localizador de Fetiches."
 
 # game/code/e01/e01s02.rpy:197
 translate spanish e01s02_c946c263:
@@ -616,7 +616,7 @@ translate spanish e01s02_deca5f78:
 translate spanish e01s02_d1c1e9db:
 
     # sy "We work together on our own Porn Studio. I identify locations where you should go to meet people, and you do your magic."
-    sy "Trabajamos juntos en nuestro propio estudio porno. Identifico lugares donde debes ir para conocer gente, y tú haces tu magia."
+    sy "Trabajamos juntos en nuestro propio Estudio Porno. Yo identifico los lugares a los que debes ir para conocer gente, y tú haces tu magia."
 
 # game/code/e01/e01s02.rpy:301
 translate spanish e01s02_a40abd5f:
@@ -658,7 +658,7 @@ translate spanish e01s02_a064a748:
 translate spanish e01s02_f9476b57:
 
     # sy "I didn't say anything like that. Of course we'd have them agree on pseudonyms and get consent forms."
-    sy "Yo no dije nada de eso. Por supuesto, haríamos que acordaran los seudónimos y obtuvieran formularios de consentimiento."
+    sy "Yo no he dicho nada de eso. Claro que les haríamos usar seudónimos y obtener los formularios de consentimiento."
 
 # game/code/e01/e01s02.rpy:328
 translate spanish e01s02_26f775ce:
@@ -676,13 +676,13 @@ translate spanish e01s02_91c8e938:
 translate spanish e01s02_70a3db7f:
 
     # mc "Fisherwoman? Fisherperson? Fisher Gal? Fishgal?"
-    mc "¿Pescadora?, ¿Pescador?, ¿Chica pescadora?, ¿Pezgal?´pyh't6"
+    mc "¿Pescadora?, ¿Pescador?, ¿Chica pescadora?, ¿Pezgal?"
 
 # game/code/e01/e01s02.rpy:336
 translate spanish e01s02_723a109b:
 
     # mc "Anyway, what were we talking about?"
-    mc "e todos modos, ¿de qué estábamos hablando?"
+    mc "De todos modos, ¿de qué estábamos hablando?"
 
 # game/code/e01/e01s02.rpy:339
 translate spanish e01s02_754d1794:
@@ -694,7 +694,7 @@ translate spanish e01s02_754d1794:
 translate spanish e01s02_e9e2125f:
 
     # mc "Didn't we do that this morning?"
-    mc "¿No hicimos eso esta mañana??"
+    mc "¿No hicimos eso esta mañana?"
 
 # game/code/e01/e01s02.rpy:345
 translate spanish e01s02_cf83b3f1:
@@ -784,7 +784,7 @@ translate spanish e01s02_0dcf5434:
 translate spanish e01s02_7c1f1624:
 
     # mc "But seriously, where are we really going?"
-    mc "Pero en serio, ¿hacia dónde vamos realmente?"
+    mc "Pero en serio, ¿adónde vamos realmente?"
 
 # game/code/e01/e01s02.rpy:386
 translate spanish e01s02_2af97179:
@@ -806,7 +806,7 @@ translate spanish strings:
 
     # game/code/e01/e01s02.rpy:400
     old "You have finished Ending #01!"
-    new "¡Has terminado el Final #01!"
+    new "¡Has terminado el Final n° #01!"
 
     # game/code/e01/e01s02.rpy:401
     old "Stacy and [mcname] will return!"
@@ -814,5 +814,5 @@ translate spanish strings:
 
     # game/code/e01/e01s02.rpy:402
     old "In Fetish Locator: S&M Studio!"
-    new "En Localizador de Fetiche: ¡Estudio S&M!"
+    new "En Localizador de Fetiches: ¡Estudio S&M!"
 
