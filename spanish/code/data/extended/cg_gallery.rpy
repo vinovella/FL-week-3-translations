@@ -40,11 +40,11 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Stacy Washroom"
-    new "Día 16: Baño stacy"
+    new "Día 16: Baño de Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ask for photos"
-    new "Pide fotos"
+    new "Pedir fotos"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Allison"
@@ -52,7 +52,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Don't remove cock cage before this scene"
-    new "No quites la jaula del pene antes de esta escena."
+    new "No te quites la jaula de pene antes de esta escena"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 16: Jessie & Kanya"
@@ -72,7 +72,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Bring Stacy with you"
-    new "Lleva a Stacy contigo"
+    new "Trae a Stacy contigo"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Daisy"
@@ -100,7 +100,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Lydia's Dungeon"
-    new "Día 19: El calabozo de Lydia"
+    new "Día 19: La Mazmorra de Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Stacy & Lyssa"
@@ -112,7 +112,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You need to date Dahlia"
-    new "Necesitas tener una cita con Dahlia"
+    new "Necesitas salir con Dahlia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Dahlia"
@@ -120,7 +120,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "You need to date Daisy"
-    new "Necesitas tener una cita con Daisy"
+    new "Necesitas salir con Daisy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Stacy"
@@ -172,7 +172,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 06: Harem"
-    new "Final 06: Harem"
+    new "Final 06: Harén"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 06: Marriage"
