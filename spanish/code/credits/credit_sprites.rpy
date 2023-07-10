@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2023-05-26 11:46
+# TODO: Translation updated at 2023-05-26 11:46
 
 translate spanish strings:
 
     # game/code/credits/credit_sprites.rpy:27
     old "Story Writing -"
-    new "Escribir historias -"
+    new "Escritor -"
 
     # game/code/credits/credit_sprites.rpy:42
     old "Art -"
@@ -32,7 +32,7 @@ translate spanish strings:
 
     # game/code/credits/credit_sprites.rpy:122
     old "This game was only\nmade possible with\nall the support we have\nfrom Patreon\nand SubscribeStar"
-    new "Este juego solo fue\nposible gracias a todo\nel apoyo que tenemos\nde Patreon y SubscribeStar."
+    new "Este juego sólo fue\nposible gracias a todo\nel apoyo que tenemos\nde Patreon y SubscribeStar."
 
     # game/code/credits/credit_sprites.rpy:130
     old "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
@@ -44,9 +44,9 @@ translate spanish strings:
 
     # game/code/credits/credit_sprites.rpy:167
     old "Thank you for playing the game!"
-    new "¡Gracias por jugar!"
+    new "¡Gracias por jugar al juego!"
 
     # game/code/credits/credit_sprites.rpy:168
     old "We'll see you soon!"
-    new "¡Hasta pronto!."
+    new "¡Hasta pronto!"
 
