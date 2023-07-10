@@ -190,7 +190,7 @@ translate spanish d19s06mes_4fd9ccbb:
 translate spanish d19s06mes_539b9c87:
 
     # mes "YES! Within reason, of course."
-    mes "¡SÍ! Dentro de lo razonable, por supuesto."
+    mes "¡SI! Dentro de lo razonable, por supuesto."
 
 # game/code/d19/d19s06mes.rpy:146
 translate spanish d19s06mes_593297b2:
@@ -292,7 +292,7 @@ translate spanish d19s06mes_dde405a3:
 translate spanish d19s06mes_5f5c1930:
 
     # mes "Pansy."
-    mes "Pensamiento."
+    mes "Marica."
 
 # game/code/d19/d19s06mes.rpy:202
 translate spanish d19s06mes_a1ad0641:
@@ -748,7 +748,7 @@ translate spanish d19s06mes_f44af1a0:
 translate spanish d19s06mes_ff178bcf:
 
     # mc "Take all the time you need."
-    mc "Toma todo el tiempo que necesites."
+    mc "Tómate todo el tiempo que necesites."
 
 # game/code/d19/d19s06mes.rpy:567
 translate spanish d19s06mes_eaf7e778:
@@ -838,7 +838,7 @@ translate spanish d19s06mes_d385bd31:
 translate spanish d19s06mes_8f32d699:
 
     # cl "WTF?!{w} I mean, I see how that...{w} Nope, I'm still back at WTF."
-    cl "WTF?!{w} I mean, I see how that...{w} Nope, I'm still back at WTF."
+    cl "¡¿QUÉ MIERDA?! Quiero decir, veo cómo es eso... No, todavía estoy de regreso en \"Qué mierda\"."
 
 # game/code/d19/d19s06mes.rpy:613
 translate spanish d19s06mes_d767b8dc:
@@ -1084,7 +1084,7 @@ translate spanish d19s06mes_246614a6:
 translate spanish d19s06mes_5a911799:
 
     # cl "I don't think my nips and clit have ever been so hard."
-    cl "No creo que mis pellizcos y mi clítoris hayan estado nunca tan duros."
+    cl "Creo que mis pezones y mi clítoris nunca han estado tan duros."
 
 # game/code/d19/d19s06mes.rpy:768
 translate spanish d19s06mes_95c2a186:
@@ -1102,7 +1102,7 @@ translate spanish d19s06mes_7cc091b5:
 translate spanish d19s06mes_01cd45f9:
 
     # cl "NEXT TIME YOU NEED TO FILM THIS!!!"
-    cl "NEXT TIME YOU NEED TO FILM THIS!!!"
+    cl "¡¡¡LA PRÓXIMA VEZ TIENES QUE FILMAR ESTO!!!"
 
 # game/code/d19/d19s06mes.rpy:787
 translate spanish d19s06mes_ddd58070:
