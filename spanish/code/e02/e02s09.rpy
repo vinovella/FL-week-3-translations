@@ -16,7 +16,7 @@ translate spanish e02s09_f3cdc7ae:
 translate spanish e02s09_430a4b82:
 
     # mc "I'm sorry to see it go."
-    mc "Lamento que se vaya."
+    mc "Lamento que nos vayamos."
 
 # game/code/e02/e02s09.rpy:30
 translate spanish e02s09_5e4ab319:
@@ -40,13 +40,13 @@ translate spanish e02s09_b59b86a6:
 translate spanish e02s09_db1cd15c:
 
     # mh "Oliver, take a breath. What happened?"
-    mh "Óliver, toma un respiro. ¿Qué pasó?"
+    mh "Oliver, toma un respiro. ¿Qué pasó?"
 
 # game/code/e02/e02s09.rpy:61
 translate spanish e02s09_3f394a7e:
 
     # op "Didn't you get my voicemail?"
-    op "¿No recibiste mi correo de voz?"
+    op "¿No recibiste mi mensaje de voz?"
 
 # game/code/e02/e02s09.rpy:64
 translate spanish e02s09_0f7cc6aa:
@@ -64,7 +64,7 @@ translate spanish e02s09_7ad7b474:
 translate spanish e02s09_d210fe94:
 
     # mc "It's alright, Oliver. We're here so you can just tell us what happened."
-    mc "Está bien, Óliver. Estamos aquí para que nos cuentes lo que pasó."
+    mc "Está bien, Oliver. Estamos aquí para que nos cuentes lo que pasó."
 
 # game/code/e02/e02s09.rpy:70
 translate spanish e02s09_45dd974c:
@@ -94,7 +94,7 @@ translate spanish e02s09_c595c74d:
 translate spanish e02s09_9f94a657:
 
     # mh "Illi nothi. Latin for \"those bastards\"!{w} I will bring ruin down on them for this!"
-    mh "Illi nothi. ¡\"Esos bastardos\" en latín! ¡Les traeré la ruina por esto!"
+    mh "Illi nothi. \"Esos bastardos\" en latín.{w} ¡Les traeré la ruina por esto!"
 
 # game/code/e02/e02s09.rpy:84
 translate spanish e02s09_bd63a0e0:
@@ -172,7 +172,7 @@ translate spanish e02s09_b2b9e19d:
 translate spanish e02s09_9a5724f2:
 
     # mh "It is a rather diabolical move, framed by Silvercorp's trademark \"subtlety\"."
-    mh "Es un movimiento bastante diabólico, enmarcado por la característica \"sutileza\" de Silvercorp.."
+    mh "Es un movimiento bastante diabólico, enmarcado por la característica \"sutileza\" de Silvercorp."
 
 # game/code/e02/e02s09.rpy:110
 translate spanish e02s09_ca3c2f39:
@@ -274,7 +274,7 @@ translate spanish e02s09_6aa451f5:
 translate spanish e02s09_68c58aa3:
 
     # mc "Yeah! We can't let these jerks get what they want."
-    mc "¡Sí! No podemos dejar que estos idiotas consigan lo que quieren.."
+    mc "¡Sí! No podemos dejar que estos idiotas consigan lo que quieren."
 
 # game/code/e02/e02s09.rpy:147
 translate spanish e02s09_c4bcff0d:
@@ -310,7 +310,7 @@ translate spanish e02s09_983b813e:
 translate spanish e02s09_22d391cb:
 
     # mh "[mcname], I need you to start by organizing that pile by date."
-    mh "[mcname], necesito que empieces organizando esa pila por fecha."
+    mh "[mcname], necesito que empieces organizando esa pila de papeles por fecha."
 
 # game/code/e02/e02s09.rpy:167
 translate spanish e02s09_a900e46f:
@@ -358,7 +358,7 @@ translate spanish e02s09_home_b789d6af:
 translate spanish e02s09_home_f2aa0a58:
 
     # mc "Don't be. We've gone over this."
-    mc "No lo hagas. Ya hemos hablado de esto."
+    mc "No lo sientas. Ya hemos hablado de esto."
 
 # game/code/e02/e02s09.rpy:197
 translate spanish e02s09_home_5ecf90d7:
@@ -382,7 +382,7 @@ translate spanish e02s09_home_7a849038:
 translate spanish e02s09_home_aa41904e:
 
     # mh "Hahaha."
-    mh "Hahaha."
+    mh "Jajaja."
 
 # game/code/e02/e02s09.rpy:207
 translate spanish e02s09_home_affb8bd3:
@@ -784,7 +784,7 @@ translate spanish e02s09_next_morning_dbf60437:
 translate spanish e02s09_next_morning_30b44357:
 
     # mct "Let's see if all those business classes were worth a damn."
-    mct "Veamos si todas esas clases de negocios valían un carajo."
+    mct "Veamos si todas esas clases de negocios valieron la pena."
 
 translate spanish strings:
 
