@@ -244,7 +244,7 @@ translate spanish d19s06_video_9d12f6a1:
 translate spanish d19s06_video_d838d43e:
 
     # tl "This needs to be captured so that this memory of humiliation, the consequences of her actions, are never forgotten."
-    tl "Hay que capturarlo para que este recuerdo de humillación, las consecuencias de sus actos, nunca se olviden."
+    tl "Hay que capturarlo para que este recuerdo de humillación, y las consecuencias de sus actos, nunca se olviden."
 
 # game/code/d19/d19s06.rpy:159
 translate spanish d19s06_video_9ddd70e0:
@@ -292,7 +292,7 @@ translate spanish d19s06_video_ee15f5ab:
 translate spanish d19s06_video_af16add9:
 
     # arj "Exactly. So I think the best way to help her would be to...to, uhm, first figure out what she likes so much about her...debaucherous activities."
-    arj "Exactamente. Así que creo que la mejor manera de ayudarla sería... primero, averiguar qué es lo que le gusta tanto de sus... actividades libertinas."
+    arj "Exactamente. Así que creo que la mejor manera de ayudarla sería... averiguar primero qué es lo que le gusta tanto de sus... actividades libertinas."
 
 # game/code/d19/d19s06.rpy:181
 translate spanish d19s06_video_5de0d4d0:
@@ -328,7 +328,7 @@ translate spanish d19s06_video_23674ee5:
 translate spanish d19s06_video_57a83b75:
 
     # tl "{i}Choking{/i}. Oh my Lord, what did I do to deserve such a lost daughter? You're a disgrace to our kind."
-    tl "{i}Asfixiada{/i}. Oh mi Señor, ¿qué hice para merecer una hija tan perdida? Eres una desgracia para nuestra especie."
+    tl "{i}Asfixiada{/i}. Oh mi Señor, ¿qué hice para merecer una hija tan descarriada? Eres una desgracia para nuestra especie."
 
 # game/code/d19/d19s06.rpy:199
 translate spanish d19s06_video_9d5709da:
@@ -490,7 +490,7 @@ translate spanish d19s06_video_d4e64474:
 translate spanish d19s06_video_33addab0:
 
     # arj "You must understand that under God, you're nothing. No accomplishment of man would stand up to his greatness."
-    arj "Debes entender que bajo Dios, no eres nada. Ningún logro del hombre estaría a la altura de su grandeza."
+    arj "Debes entender que ante Dios, no eres nada. Ningún logro del hombre estaría a la altura de su grandeza."
 
 # game/code/d19/d19s06.rpy:314
 translate spanish d19s06_video_6b4f116b:
@@ -592,7 +592,7 @@ translate spanish d19s06_video_2ce7bc78:
 translate spanish d19s06_video_cf393c42:
 
     # arj "It's better to hurt now than to burn forever in eternal hellfire."
-    arj "Es mejor lastimar ahora que arder para siempre en el fuego del infierno eterno."
+    arj "Es mejor sufrir ahora que arder para siempre en el fuego eterno del infierno."
 
 # game/code/d19/d19s06.rpy:355
 translate spanish d19s06_video_4b5a68f9:
@@ -634,7 +634,7 @@ translate spanish d19s06_video_bd087063:
 translate spanish d19s06_video_0ae4ad05:
 
     # cl "*Shout* Pl-{i}Please{/i}."
-    cl "*Grita* Pl-{i}Por favor{/i}."
+    cl "*Grita* Po-{i}Por favor{/i}."
 
 # game/code/d19/d19s06.rpy:381
 translate spanish d19s06_video_67ceea6a:
@@ -686,8 +686,9 @@ translate spanish d19s06_video_fddc1c40:
 
 # game/code/d19/d19s06.rpy:414
 translate spanish d19s06_video_ce3cd066:
+
     # mct "All AmRose had to do was babble some religious bullshit and she had Lewald wrapped around her finger."
-    mct "Todo lo que tengo que hacer es hacer lo mismo.Rose tenía que hacer era balbucear alguna tontería religiosa y tenía a Lewald envuelta alrededor de su dedo."
+    mct "Todo lo que AmRose tenía que hacer era balbucear algunas tonterías religiosas y tenía a Lewald envuelta alrededor de su dedo."
 
 # game/code/d19/d19s06.rpy:415
 translate spanish d19s06_video_0e8dbd95:
@@ -999,7 +1000,7 @@ translate spanish d19s06_lewald_1657cf69:
 translate spanish d19s06_lewald_dfe53d08:
 
     # mct "It worked!!! I can't believe I pulled that off!"
-    mct "It worked!!! I can't believe I pulled that off!"
+    mct "¡¡¡Funcionó!!! ¡No puedo creer que lo logré!"
 
 # game/code/d19/d19s06.rpy:658
 translate spanish d19s06_lewald_a17f5287:
