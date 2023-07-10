@@ -694,7 +694,7 @@ translate spanish d16s10_a9d8f782:
 translate spanish d16s10_8d37174c:
 
     # arj "Ohhhh fuckkkk!! {w}STOP!!!"
-    arj "¡¡Ohhhh joder!! {w}¡¡DETÉNTE!!!"
+    arj "¡¡Ohhhh joder!! {w}¡¡¡DETÉNTE!!!"
 
 # game/code/d16/d16s10.rpy:412
 translate spanish d16s10_28759840:
