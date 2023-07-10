@@ -712,7 +712,7 @@ translate spanish d15s01_cage_lc_94bc3ef4:
 translate spanish d15s01_cage_ntr_ef76c768:
 
     # mc "I guess I'll take the Needlessly Tight Restriction. NTR for me."
-    mc "Supongo que tomaré la Restricción Innecesariamente Fuerte. NTR para mí."
+    mc "Supongo que tomaré la Restricción Innecesaria. NTR para mí."
 
 # game/code/d15/d15s01.rpy:588
 translate spanish d15s01_cage_ntr_2b71e423:
@@ -1486,7 +1486,7 @@ translate spanish d15s01_face_fucking_a4966a3e:
 translate spanish d15s01_face_fucking_03820e94:
 
     # lc "Start like this. {w}I want you to fuck her face."
-    lc "Comienza asi. {w}Quiero que le folles la cara."
+    lc "Comienza así. {w}Quiero que le folles la cara."
 
 # game/code/d15/d15s01.rpy:1196
 translate spanish d15s01_face_fucking_b0fa508f:
@@ -1570,7 +1570,7 @@ translate spanish d15s01_face_fucking_72b001cc:
 translate spanish d15s01_face_fucking_08015ac2:
 
     # mc "Wow?! Really?!"
-    mc "¡¿Guau?! ¡¿De verdad?!"
+    mc "¡¿Wow?! ¡¿En serio?!"
 
 # game/code/d15/d15s01.rpy:1256
 translate spanish d15s01_face_fucking_a61ecfde:
@@ -1702,7 +1702,7 @@ translate spanish d15s01_face_fucking_aa8a2807:
 translate spanish d15s01_face_fucking_2dcd6c65:
 
     # lc "Ready to go again, my love?"
-    lc "¿Listo para ir de nuevo, mi amor?"
+    lc "¿Listo para seguir, mi amor?"
 
 # game/code/d15/d15s01.rpy:1307
 translate spanish d15s01_face_fucking_f4e4fa76:
@@ -1744,7 +1744,7 @@ translate spanish d15s01_face_fucking_2aa37dcf:
 translate spanish d15s01_face_fucking_e14446bc:
 
     # lc "Pull your cock out and cum in her face again!!"
-    lc "¡¡Saca tu polla y correte en su cara otra vez!!"
+    lc "¡¡Saca tu polla y córrete en su cara otra vez!!"
 
 # game/code/d15/d15s01.rpy:1329
 translate spanish d15s01_face_fucking_822521bd:
@@ -1852,7 +1852,7 @@ translate spanish d15s01_end_7ea95347:
 translate spanish d15s01_end_346893e6:
 
     # mct "What the hell is the point of this, though? Why does Fetish Locator want me caged?"
-    mct "Sin embargo, ¿cuál es el punto de esto? ¿Por qué el Localizador de Fetiche me quiere enjaulado?"
+    mct "Sin embargo, ¿cuál es el punto de esto? ¿Por qué el Localizador de Fetiches me quiere enjaulado?"
 
 # game/code/d15/d15s01.rpy:1439
 translate spanish d15s01_end_c7d3eb14:
@@ -2092,7 +2092,7 @@ translate spanish d15s01_end_9dd4c65a:
 translate spanish d15s01_end_dc1ef751:
 
     # mct "Seems like Fetish Locator likes sending me clothes."
-    mct "Parece que al Localizador de Fetiche le gusta enviarme ropa."
+    mct "Parece que al Localizador de Fetiches le gusta enviarme ropa."
 
 # game/code/d15/d15s01.rpy:1552
 translate spanish d15s01_end_a9661f87:
