@@ -8,7 +8,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Unlock the hidden 19th ending"
-    new "Desbloquea el final oculto 19"
+    new "Desbloquea el final oculto nº 19"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "02. GG EZ Videogame"
@@ -16,7 +16,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Get a high score in the minigame"
-    new "Consigue una puntuación alta en el mini juego"
+    new "Consigue una puntuación alta en el minijuego"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "03. Somebody that I Used to Know"
@@ -28,11 +28,11 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "04. Full Course"
-    new "04. Curso Completo"
+    new "04. Curso completo"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Unlock 18 endings"
-    new "Desbloquea el final 18"
+    new "Desbloquea los 18 finales"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "05. Front Nine"
@@ -40,7 +40,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Unlock 9 endings"
-    new "Desbloquea el final 5"
+    new "Desbloquea el final 9"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "06. What a Wild Ride"
@@ -52,11 +52,11 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "07. WTF Bro?"
-    new "07. ¿Qué ocurre, hermano?"
+    new "07. ¿Qué mierda Hermano?"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "See everything you never wanted to"
-    new "Vea todo lo que nunca quiso ver"
+    new "Ve todo lo que nunca quisiste"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "08. Hacker"
@@ -64,11 +64,11 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "View all the secret door codes"
-    new "Ver todos los códigos de las puertas secretas"
+    new "Ver todos los códigos de puertas secretas"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "09. In the Beginning..."
-    new "09. En el principio..."
+    new "09. Al principio..."
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Make it all the way to Day 15"
@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "10. Release the Kraken"
-    new "10. Liberar al Kraken"
+    new "10. Libera al Kraken"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Get free from the cage"
@@ -84,7 +84,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "11. Sudo Admin"
-    new "11. Administrador Sudo"
+    new "11. Administrador de Sudo"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Enter the server room"
@@ -108,7 +108,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "14. Cherry Popped"
-    new "14. Cereza reventada"
+    new "14. cereza reventada"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Finish your first time"
@@ -116,7 +116,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "15. Miss White, with the Candlestick"
-    new "15. La Señorita White, con el candelabro"
+    new "15. Señorita White, con el candelabro"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Discover who is behind the app on the LC path"
@@ -132,19 +132,19 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "17. Real Genius"
-    new "17. Auténtico genio"
+    new "17. Verdadero genio"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Finish final exams perfectly"
-    new "Terminar los exámenes finales perfectamente"
+    new "Terminar perfectamente los exámenes finales"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "18. Keep Pounding That Gavel"
-    new "18. Sigue golpeando el mazo"
+    new "18. Sigue golpeando ese mazo"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Get both scenes with the judge"
-    new "Consigue ambas escenas con la jueza."
+    new "Consigue ambas escenas con la jueza"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "19. What Are Friends For"
@@ -156,15 +156,15 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "20. Are You Not Entertained"
-    new "20. ¿No te diviertes?"
+    new "20. ¿No estás entretenido?"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Play all three scenes at the amusement park"
-    new "Juega las tres escenas en el parque de diversiones."
+    new "Juega las tres escenas en el parque de diversiones"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "21. Oh, the Humanity!"
-    new "21. ¡Oh, la Humanidad!"
+    new "21. ¡Oh, la humanidad!"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Play all three versions of Lyssa's Wednesday scenes"
@@ -192,7 +192,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Impregnate every possible person in the queen's harem"
-    new "Embarazar a todas las personas posibles en el harén de la reina."
+    new "Embarazar a todas las personas posibles en el harén de la reina"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "25. I Need Sexual Healing"
@@ -200,7 +200,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Helped all 3 couples at the ski resort"
-    new "Ayudé a las 3 parejas en la estación de esquí."
+    new "Ayudé a las 3 parejas en la estación de esquí"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "26. This Magic Moment"
@@ -208,7 +208,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Went on the ferris wheel with Daisy"
-    new "Fui a la rueda de la fortuna con Daisy"
+    new "Subimos a la rueda de la fortuna con Daisy"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "27. May I panic now, Mistress?"
@@ -228,15 +228,15 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "29. That Was Cathartic... for Them"
-    new "29. Eso fue catártico... para ellos"
+    new "29. Eso fue catártico ... para ellas"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Fix Dahlia and Samiya's relationship"
-    new "Arreglar la relación de Dahlia y Samiya"
+    new "Arregla la relación de Dahlia y Samiya"
 
     # game/code/data/extended/extra_gallery.rpy:233
     old "HIGH SCORE :\n[persistent.minigame_max_score]"
-    new "PUNTUACIÓN\nMÁS ALTA :\n[persistent.minigame_max_score]"
+    new "PUNTUACIÓN ALTA :\n[persistent.minigame_max_score]"
 
     # game/code/data/extended/extra_gallery.rpy:249
     old "HOW MANY ENDINGS HAVE YOU UNLOCKED?"
@@ -247,44 +247,40 @@ translate spanish strings:
     new "9 FINALES"
 
     # game/code/data/extended/extra_gallery.rpy:251
-    old "YOU GOTTA PUMP THOSE NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
-    new "¡Tienes que subir esos números! \nSON números de principiante!"
+    old "YOU GOTTA PUMP THOS NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
+    new "TIENES QUE AUMENTAR ESOS NÚMEROS. ¡ESOS SON NÚMEROS DE NOVATO!"
 
     # game/code/data/extended/extra_gallery.rpy:270
     old "6 endings\naren't enough.\nI need all 18 now!!!"
-    new "6 finales\nno son suficientes.\n¡Necesito los 18 finales ahora!"
+    new "6 los finales\no son suficientes.\¡¡¡Necesito los 18 ahora!!!"
 
     # game/code/data/extended/extra_gallery.rpy:271
     old "{b}CHANGE MY MIND{/b}"
-    new "{b}CAMBIAR DE OPINIÓN{/b}"
+    new "{b}CAMBIO DE OPINIÓN{/b}"
 
     # game/code/data/extended/extra_gallery.rpy:306
     old "I WANT TO KEEP\nFETISH LOCATOR"
-    new "QUIERO CONSERVAR\nEL LOCALIZADOR DE FETICHES"
+    new "QUIERO MANTENER\nEL LOCALIZADOR DE FETICHES"
 
     # game/code/data/extended/extra_gallery.rpy:307
     old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
-    new "PARA ASEGURARSE DE QUE\nNADIE SERÁ CHANTAJEADO"
+    new "PARA ASEGURARSE DE QUE NADIE\SERÁ CHANTAJEADO"
 
     # game/code/data/extended/extra_gallery.rpy:308
-    old "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
-    new "LO VAS A USAR\nPARA EL BIEN, ¿VERDAD?"
+    old "YOU'RE GOING TO\nUSE IT FOR GOOD, RIGHT?"
+    new "LO VA A UTILIZAR PARA BIEN, ¿VERDAD?"
 
     # game/code/data/extended/extra_gallery.rpy:309
     old "RIGHT?"
-    new "¿VERDAD?"
+    new "¿BIEN?"
 
     # game/code/data/extended/extra_gallery.rpy:326
     old "THE FIRST ENDING\nFROM 18 TOTAL ENDINGS"
-    new "EL PRIMER FINAL\nDE 18 FINALES EN TOTAL"
+    new "EL PRIMER FINAL DE 18 FINALES TOTALES"
 
     # game/code/data/extended/extra_gallery.rpy:327
     old "IS THAT A REAL ENDING?"
-    new "¿ES ESE UN FINAL DE VERDAD?"
-
-    # game/code/data/extended/extra_gallery.rpy:535
-    old "TRADE OFFER"
-    new "OFERTA DE INTERCAMBIO"
+    new "¿ES ESE UN FINAL VERDADERO?"
 
     # game/code/data/extended/extra_gallery.rpy:438
     old "I receive:"
@@ -292,12 +288,13 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:439
     old "Cum in every pussy\nat the wedding"
-    new "Córrete en cada\ncoño en la boda"
+    new "Corrida en cada coño\nen la boda"
 
     # game/code/data/extended/extra_gallery.rpy:440
     old "You receive:"
-    new "Recibes:"
+    new "Tú recibes:"
 
     # game/code/data/extended/extra_gallery.rpy:441
     old "The whole\nharem pregnant"
-    new "El harén completo\nembarazada"
+    new "Todo el\nharem embarazado"
+
