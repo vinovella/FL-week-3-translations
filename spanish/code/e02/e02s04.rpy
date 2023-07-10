@@ -40,7 +40,7 @@ translate spanish e02s04_80cc9f92:
 translate spanish e02s04_d09871a8:
 
     # mh "Yes. But we do not have to worry about me representing you because you will not be committing any crimes, correct?"
-    mh "Sí. Pero no tenemos que preocuparnos de que yo te represente porque no estarás cometiendo ningún delito, ¿correcto??"
+    mh "Sí. Pero no tenemos que preocuparnos de que yo te represente porque no estarás cometiendo ningún delito, ¿correcto?"
 
 # game/code/e02/e02s04.rpy:35
 translate spanish e02s04_0cb50db4:
@@ -58,7 +58,7 @@ translate spanish e02s04_cf37f363:
 translate spanish e02s04_42507f38:
 
     # mc "Are you hiring?"
-    mc "¿Estas contratando?"
+    mc "¿Estás contratando?"
 
 # game/code/e02/e02s04.rpy:40
 translate spanish e02s04_ee087b37:
@@ -70,7 +70,7 @@ translate spanish e02s04_ee087b37:
 translate spanish e02s04_40b79f60:
 
     # mc "Well there is no one more talented than me. And we work so well together in the bedroom. Just imagine what we could do outside of it."
-    mc "Bueno, no hay nadie más talentoso que yo. Y trabajamos tan bien juntos en el dormitorio. Solo imagina lo que podríamos hacer fuera de eso."
+    mc "Bueno, no hay nadie más talentoso que yo. Y trabajamos tan bien juntos en el dormitorio. Imagínate lo que podríamos hacer fuera de él."
 
 # game/code/e02/e02s04.rpy:46
 translate spanish e02s04_8f355e21:
@@ -178,7 +178,7 @@ translate spanish e02s04_photo_5ae2f27f:
 translate spanish e02s04_photo_f432e7b9:
 
     # ap "Angela, stop."
-    ap "Angela, detente."
+    ap "Ángela, detente."
 
 # game/code/e02/e02s04.rpy:110
 translate spanish e02s04_photo_8c26cb31:
@@ -316,7 +316,7 @@ translate spanish e02s04_photo_35fd49b3:
 translate spanish e02s04_photo_aafe8056:
 
     # ap "Angela!"
-    ap "¡Angela!"
+    ap "¡Ángela!"
 
 # game/code/e02/e02s04.rpy:175
 translate spanish e02s04_photo_58513a00:
@@ -352,7 +352,7 @@ translate spanish e02s04_photo_79cc4def:
 translate spanish e02s04_photo_07644846:
 
     # ap "I think Angela just panicked."
-    ap "Creo que Angela solo entró en pánico."
+    ap "Creo que Ángela solo entró en pánico."
 
 # game/code/e02/e02s04.rpy:191
 translate spanish e02s04_photo_0bb4aecf:
@@ -418,7 +418,7 @@ translate spanish e02s04_photo_15e5860b:
 translate spanish e02s04_photo_67fb70ba:
 
     # atp "I'm Angela, and you know my husband, Alexander."
-    atp "Soy Angela, y conoces a mi esposo, Alexander."
+    atp "Soy Ángela, y conoces a mi esposo, Alexander."
 
 # game/code/e02/e02s04.rpy:220
 translate spanish e02s04_photo_87655d2c:
@@ -460,7 +460,7 @@ translate spanish e02s04_fireplace_ea300e24:
 translate spanish e02s04_fireplace_3aa7a0f8:
 
     # atp "... but I'm still just known as the \"Stallion\"."
-    atp "... pero todavía soy conocido como el \"Stallion\"."
+    atp "... pero todavía soy conocida como el \"Stallion\"."
 
 # game/code/e02/e02s04.rpy:246
 translate spanish e02s04_fireplace_ad95afc1:
@@ -484,7 +484,7 @@ translate spanish e02s04_fireplace_398f637e:
 translate spanish e02s04_fireplace_ba76b91e:
 
     # mh "Water under the bridge, my dear."
-    mh "Agua bajo del puente, querido."
+    mh "Agua bajo del puente, querida."
 
 # game/code/e02/e02s04.rpy:255
 translate spanish e02s04_fireplace_dd3767f7:
@@ -544,7 +544,7 @@ translate spanish e02s04_fireplace_37d1f220:
 translate spanish e02s04_fireplace_e3956977:
 
     # mc "Woah. You like... it's almost like you turned into a different person. Not bad."
-    mc "Guau. Te gusta... es casi como si te hubieras convertido en una persona diferente. Nada mal."
+    mc "Vaya. Te gusta... es casi como si te hubieras convertido en una persona diferente. Nada mal."
 
 # game/code/e02/e02s04.rpy:283
 translate spanish e02s04_fireplace_37e82bf7:
@@ -562,7 +562,7 @@ translate spanish e02s04_fireplace_012064ef:
 translate spanish e02s04_fireplace_9d16da61:
 
     # ap "Angela. Really?!"
-    ap "Angela. ¡¿De verdad?!"
+    ap "Ángela. ¡¿De verdad?!"
 
 # game/code/e02/e02s04.rpy:292
 translate spanish e02s04_fireplace_6a632e20:
@@ -628,7 +628,7 @@ translate spanish e02s04_fireplace_d0d86538:
 translate spanish e02s04_fireplace_1b48ebcf:
 
     # mc "Definitely. We enjoy switching things up now and then."
-    mc "DDefinitivamente. Nos gusta cambiar las cosas de vez en cuando."
+    mc "Definitivamente. Nos gusta cambiar las cosas de vez en cuando."
 
 # game/code/e02/e02s04.rpy:324
 translate spanish e02s04_fireplace_ffcfe4e2:
@@ -652,7 +652,7 @@ translate spanish e02s04_fireplace_9b041e14:
 translate spanish e02s04_fireplace_0f42c392:
 
     # mh "Different people like different things, Angela."
-    mh "A diferentes personas les gustan diferentes cosas, Angela."
+    mh "A diferentes personas les gustan diferentes cosas, Ángela."
 
 # game/code/e02/e02s04.rpy:338
 translate spanish e02s04_fireplace_004def0a:
@@ -664,7 +664,7 @@ translate spanish e02s04_fireplace_004def0a:
 translate spanish e02s04_fireplace_1efb1360:
 
     # ap "That doesn't mean I want to be led by your cock every day, Angela."
-    ap "Eso no significa que quiera ser guiado por tu polla todos los días, Angela."
+    ap "Eso no significa que quiera ser guiado por tu polla todos los días, Ángela."
 
 # game/code/e02/e02s04.rpy:342
 translate spanish e02s04_fireplace_10ec4b3f:
@@ -808,19 +808,19 @@ translate spanish e02s04_fireplace_094a5a44:
 translate spanish e02s04_fireplace_2cb9203a:
 
     # mh "Angela, Alexander, do you mind if I offer some suggestions?"
-    mh "Angela, Alexander, ¿les importa si les ofrezco algunas sugerencias?"
+    mh "Ángela, Alexander, ¿les importa si les ofrezco algunas sugerencias?"
 
 # game/code/e02/e02s04.rpy:406
 translate spanish e02s04_fireplace_065f2729:
 
     # ap "I mean. Sure, but you're not a therapist are you?"
-    ap "uiero decir. Claro, pero no eres terapeuta, ¿verdad?"
+    ap "Quiero decir. Claro, pero no eres terapeuta, ¿verdad?"
 
 # game/code/e02/e02s04.rpy:409
 translate spanish e02s04_fireplace_c1693c5f:
 
     # mh "Oh no, but I've definitely seen my share of personalities in the courtroom. I might be able to give you an insight."
-    mh "Oh no, pero definitivamente he visto mi cuota de personalidades en la sala del tribunal. Yo podría ser capaz de darle una idea."
+    mh "Oh no, pero definitivamente he visto mi cuota de personalidades en la sala del tribunal. Yo podría ser capaz de darles una idea."
 
 # game/code/e02/e02s04.rpy:412
 translate spanish e02s04_fireplace_3273322b:
@@ -838,7 +838,7 @@ translate spanish e02s04_fireplace_7e6c4867:
 translate spanish e02s04_fireplace_48b41d0e:
 
     # mh "That is it, right there."
-    mh "Eso es todo, ahí mismo."
+    mh "Eso es, justo ahí."
 
 # game/code/e02/e02s04.rpy:421
 translate spanish e02s04_fireplace_11762849:
@@ -898,7 +898,7 @@ translate spanish e02s04_fireplace_fc1832b5:
 translate spanish e02s04_fireplace_5cd03cbe:
 
     # mh "And you, Angela, you are the complete opposite. You are full of energy, you say whatever is on your mind."
-    mh "Y tú, Angela, eres todo lo contrario. Estás llena de energía, dices lo que tienes en mente."
+    mh "Y tú, Ángela, eres todo lo contrario. Estás llena de energía, dices lo que tienes en mente."
 
 # game/code/e02/e02s04.rpy:448
 translate spanish e02s04_fireplace_1d77236e:
@@ -1084,7 +1084,7 @@ translate spanish e02s04_next_day_d6d5d5a1:
 translate spanish e02s04_next_day_ce8dad45:
 
     # mh "Hey Oliver. This is Lyssa. Call you tomorrow."
-    mh "HHola Oliver. Esta es Lyssa. Te llamo mañana."
+    mh "Hola Oliver. Esta es Lyssa. Te llamo mañana."
 
 # game/code/e02/e02s04.rpy:547
 translate spanish e02s04_next_day_5b48782b:
@@ -1174,7 +1174,7 @@ translate spanish e02s04_next_day_2_2383f5da:
 translate spanish e02s04_next_day_2_4952c290:
 
     # mc "Hi. Can we help you?"
-    mc "Hola. ¿Podemos ayudarte?"
+    mc "Hola. ¿Podemos ayudarles?"
 
 # game/code/e02/e02s04.rpy:618
 translate spanish e02s04_next_day_2_79cbd550:
@@ -1198,7 +1198,7 @@ translate spanish e02s04_next_day_2_2dd956e3:
 translate spanish e02s04_next_day_2_b49038fa:
 
     # mh "I'm Lyssa and this is my boyfriend. Let's get in from the cold."
-    mh "Soy Lyssa y este es mi novio. Entremos del frío."
+    mh "Soy Lyssa y este es mi novio. Entremos que hace frío."
 
 # game/code/e02/e02s04.rpy:630
 translate spanish e02s04_next_day_2_b1876f9d:
@@ -1210,7 +1210,7 @@ translate spanish e02s04_next_day_2_b1876f9d:
 translate spanish e02s04_next_day_2_804b5fbe:
 
     # ms "Hmmm. Yup. I thought so."
-    ms "Hmmm. Yup. I thought so."
+    ms "Hmmm. Sip. Me lo imaginaba."
 
 # game/code/e02/e02s04.rpy:637
 translate spanish e02s04_next_day_2_9cf607e4:
