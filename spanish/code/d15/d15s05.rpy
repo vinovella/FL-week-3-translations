@@ -190,7 +190,7 @@ translate spanish d15s05_gtfo_fca52711:
 translate spanish d15s05_help_edc75021:
 
     # mc "What the hell is wrong with you?"
-    mc "Q¿ué demonios te pasa?"
+    mc "¿Qué demonios te pasa?"
 
 # game/code/d15/d15s05.rpy:179
 translate spanish d15s05_help_aaf727b0:
@@ -298,7 +298,7 @@ translate spanish d15s05_help_45915287:
 translate spanish d15s05_help_b95ce373:
 
     # mc "Are you ready to go?"
-    mc "¿Estás lista para ir?"
+    mc "¿Estás lista para irte?"
 
 # game/code/d15/d15s05.rpy:228
 translate spanish d15s05_help_d04fa45d:
@@ -1402,7 +1402,7 @@ translate spanish strings:
 
     # game/code/d15/d15s05.rpy:266
     old "Order Maria to:"
-    new "Ordena a Maria que:"
+    new "Ordena a María que:"
 
     # game/code/d15/d15s05.rpy:266
     old "Suck That Cock"
