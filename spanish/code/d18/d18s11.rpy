@@ -34,7 +34,7 @@ translate spanish d18s11_e5e45ec9:
 translate spanish d18s11_3834711a:
 
     # mc "Muther Fucker!!!"
-    mc "¡¡¡Hijo de perra!!!"
+    mc "¡¡¡Hija de perra!!!"
 
 # game/code/d18/d18s11.rpy:36
 translate spanish d18s11_fdc5bb68:
@@ -238,7 +238,7 @@ translate spanish d18s11_bar_94b7dd60:
 translate spanish d18s11_bar_32b376d4:
 
     # ts "They keep threatening me with solicitation.{w} I don't want money."
-    ts "Siguen amenazándome con solicitaciones. {w} No quiero dinero."
+    ts "Siguen amenazándome con solicitarme.{w} No quiero dinero."
 
 # game/code/d18/d18s11.rpy:184
 translate spanish d18s11_bar_31d056d9:
