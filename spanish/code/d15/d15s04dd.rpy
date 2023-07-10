@@ -22,7 +22,7 @@ translate spanish d15s04dd_66ed430a:
 translate spanish d15s04dd_bb0a5689:
 
     # "Receptionist" "Oh, right. Let me see."
-    "Recepcionista" "Correcto. Déjeme ver."
+    "Recepcionista" "Ah, bien. Déjeme ver."
 
 # game/code/d15/d15s04dd.rpy:49
 translate spanish d15s04dd_c2e660d7:
@@ -58,7 +58,7 @@ translate spanish d15s04dd_9719365e:
 translate spanish d15s04dd_87db569c:
 
     # "Receptionist" "Great. The doctor might be away for a bit, but you can just wait inside until they're back."
-    "Recepcionista" "Excelente. El doctor puede estar fuera por un tiempo, pero puedes esperar adentro hasta que regrese."
+    "Recepcionista" "Excelente. La doctora puede estar fuera por un tiempo, pero puedes esperar adentro hasta que regrese."
 
 # game/code/d15/d15s04dd.rpy:63
 translate spanish d15s04dd_b85f6643:
@@ -70,7 +70,7 @@ translate spanish d15s04dd_b85f6643:
 translate spanish d15s04dd_52806179:
 
     # mc "What's the doctor's name again? Dr. Beer?"
-    mc "¿Cuál es el nombre del doctor de nuevo? ¿Doctor Cerveza?"
+    mc "¿Cuál es el nombre de la doctora? ¿Doctora Cerveza?"
 
 # game/code/d15/d15s04dd.rpy:79
 translate spanish d15s04dd_526a2aa5:
@@ -82,13 +82,13 @@ translate spanish d15s04dd_526a2aa5:
 translate spanish d15s04dd_ce7d732a:
 
     # mc "Wait, what? Is it really Dr. Beer?"
-    mc "Espera, ¿qué? ¿Es realmente el Dr. Cerveza?"
+    mc "Espera, ¿qué? ¿Es realmente la Dra. Cerveza?"
 
 # game/code/d15/d15s04dd.rpy:85
 translate spanish d15s04dd_da7ce568:
 
     # dd "No, it's worse. Her full last name is Dr. Bierbottom."
-    dd "No, es peor. Su apellido completo es Dr. Bierbottom."
+    dd "No, es peor. Su apellido completo es Dra. Bierbottom."
 
 # game/code/d15/d15s04dd.rpy:87
 translate spanish d15s04dd_2b35b6fe:
@@ -148,7 +148,7 @@ translate spanish d15s04dd_91a1f9a2:
 translate spanish d15s04dd_a2ce3433:
 
     # mc "We are, but still... Fucking Bierbottom?"
-    mc "Lo somos, pero aun así... ¿Maldito Bierbottom?"
+    mc "Lo somos, pero aun así... ¿Maldita Bierbottom?"
 
 # game/code/d15/d15s04dd.rpy:114
 translate spanish d15s04dd_fe4e0785:
@@ -160,7 +160,7 @@ translate spanish d15s04dd_fe4e0785:
 translate spanish d15s04dd_a537c82a:
 
     # dd "I'd move towns honestly.{w} Change names."
-    dd "Me mudaría de ciudad honestamente. {w} Cambiar nombres."
+    dd "Me mudaría de ciudad honestamente. {w} Cambio de nombres."
 
 # game/code/d15/d15s04dd.rpy:118
 translate spanish d15s04dd_cb052f60:
@@ -730,7 +730,7 @@ translate spanish d15s04dd_e04531c3:
 translate spanish d15s04dd_7e31de45:
 
     # mc "You like it when I eat you out, don't you? My dirty little slut."
-    mc "Te gusta cuando te como fuera, ¿no? Mi putita sucia."
+    mc "Te gusta cuando te como, ¿verdad? Mi sucia putita."
 
 # game/code/d15/d15s04dd.rpy:441
 translate spanish d15s04dd_c1f26821:
