@@ -22,7 +22,7 @@ translate spanish d18s01_628384fd:
 translate spanish d18s01_ntr_e30287dd:
 
     # mc "Lydia!?!"
-    mc "Lydia!?!"
+    mc "¡¿¡Lydia!?!"
 
 # game/code/d18/d18s01.rpy:46
 translate spanish d18s01_ntr_d0dbdef0:
@@ -76,7 +76,7 @@ translate spanish d18s01_ntr_a857af24:
 translate spanish d18s01_ntr_19109c3b:
 
     # lc "Cum for me, babe"
-    lc "Córrete para mí, nena"
+    lc "Córrete para mí, cariño"
 
 # game/code/d18/d18s01.rpy:64
 translate spanish d18s01_ntr_b40852bc:
@@ -100,7 +100,7 @@ translate spanish d18s01_ntr_55860a02:
 translate spanish d18s01_ntr_9f4bd64a:
 
     # mc "Booommmutherfucker."
-    mc "hijo de puta."
+    mc "Hijo de puta."
 
 # game/code/d18/d18s01.rpy:86
 translate spanish d18s01_ntr_d5dad180:
@@ -118,7 +118,7 @@ translate spanish d18s01_ntr_881e1ab2:
 translate spanish d18s01_ntr_5cbeedee:
 
     # mct "Especially after...{w} When was the last time I came?"
-    mct "Especialmente después de... {w} ¿Cuándo fue la última vez que vine?"
+    mct "Especialmente después de... {w} ¿Cuándo fue la última vez que me corrí?"
 
 # game/code/d18/d18s01.rpy:97
 translate spanish d18s01_lc_e30287dd:
@@ -772,7 +772,7 @@ translate spanish d18s01_shower_ntr_cc61871e:
 translate spanish d18s01_shower_ntr_7ea7e782:
 
     # lc "You can trust me. Did you hurt someone? Did you fuck someone you shouldn't have?"
-    lc "You can trust me. Did you hurt someone? Did you fuck someone you shouldn't have?"
+    lc "Puedes confiar en mí. ¿Heriste a alguien? ¿Te follaste a alguien que no debías?"
 
 # game/code/d18/d18s01.rpy:431
 translate spanish d18s01_shower_ntr_135729c7:
@@ -964,7 +964,7 @@ translate spanish d18s01_shower_ntr_3039e535:
 translate spanish d18s01_shower_ntr_965b9385:
 
     # lc "It was some wild crazy coincidence?"
-    lc "¿Fue una coincidencia salvaje y loca?"
+    lc "¿Fue una loca y salvaje coincidencia?"
 
 # game/code/d18/d18s01.rpy:502
 translate spanish d18s01_shower_ntr_af698f75:
@@ -1066,7 +1066,7 @@ translate spanish d18s01_shower_lc_07f5c28e:
 translate spanish d18s01_shower_lc_4e26919e:
 
     # lc "Us? Like you?{w} What has it made you do?"
-    lc "¿nosotros? ¿Te gusta? {w} ¿Qué te ha hecho hacer?"
+    lc "¿Nosotros? ¿Te gusta? {w} ¿Qué te ha hecho hacer?"
 
 # game/code/d18/d18s01.rpy:552
 translate spanish d18s01_shower_lc_02e40956:
@@ -1312,5 +1312,5 @@ translate spanish strings:
 
     # game/code/d18/d18s01.rpy:15
     old "Thursday\nDay-18"
-    new "Jueves\nDía-18"
+    new "Jueves\nDía 18"
 
