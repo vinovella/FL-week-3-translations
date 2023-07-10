@@ -100,7 +100,7 @@ translate spanish e02s10_0ad8f2a9:
 translate spanish e02s10_06324e9c:
 
     # mc "It's like the song says, 'Baby, you're worth it'."
-    mc "Es como dice la canción, 'Bebé, tú lo vales'."
+    mc "Es como dice la canción, 'Cariño, tú lo vales'."
 
 # game/code/e02/e02s10.rpy:100
 translate spanish e02s10_6af77995:
@@ -124,7 +124,7 @@ translate spanish e02s10_5e558e86:
 translate spanish e02s10_cf000704:
 
     # mc "Really? I was thinking this would be for when you're finished with the lawsuit."
-    mc "¿De verdad? Estaba pensando que esto sería para cuando termines con la demanda.."
+    mc "¿De verdad? Estaba pensando que esto sería para cuando termines con la demanda."
 
 # game/code/e02/e02s10.rpy:113
 translate spanish e02s10_9b9880f8:
@@ -172,7 +172,7 @@ translate spanish e02s10_97842f80:
 translate spanish e02s10_577a222a:
 
     # mh "Since I cannot help out people in the courtroom until the lawsuit is ended or tossed out, the opportunity to assist people will be a welcome distraction."
-    mh "Dado que no puedo ayudar a las personas en la sala del tribunal hasta que la demanda finalice o se desestime, la oportunidad de ayudar a las personas será una distracción bienvenida."
+    mh "Dado que no puedo ayudar a las personas en la sala del tribunal hasta que la demanda finalice o se desestime, la oportunidad de ayudar a las personas será una distracción bien recibida."
 
 # game/code/e02/e02s10.rpy:135
 translate spanish e02s10_e06c012e:
@@ -262,7 +262,7 @@ translate spanish e02s10_sex_e442ff3e:
 translate spanish e02s10_sex_21ad2174:
 
     # mh "Oh my."
-    mh "Oh, mi."
+    mh "Dios mío."
 
 # game/code/e02/e02s10.rpy:215
 translate spanish e02s10_sex_f5c98a1c:
@@ -442,13 +442,13 @@ translate spanish e02s10_sex_af392f17:
 translate spanish e02s10_sex_879d666d:
 
     # mh "*moans softly*"
-    mh "gime suavemente*"
+    mh "*gime suavemente*"
 
 # game/code/e02/e02s10.rpy:339
 translate spanish e02s10_sex_1e9b1d57:
 
     # mh "Come on, Baby. My ass is not {b}that{/b} delicate."
-    mh "Vamos cairño. Mi trasero no es {b}tan{/b} delicado."
+    mh "Vamos, cariño. Mi trasero no es {b}tan{/b} delicado."
 
 # game/code/e02/e02s10.rpy:340
 translate spanish e02s10_sex_1d8408de:
@@ -622,7 +622,7 @@ translate spanish e02s10_double_anal_11f622a5:
 translate spanish e02s10_double_anal_c8d4ef73:
 
     # mh "Oh my god!"
-    mh "¡Ay dios mío!"
+    mh "¡Oh, dios mío!"
 
 # game/code/e02/e02s10.rpy:487
 translate spanish e02s10_double_anal_e521284e:
@@ -814,13 +814,13 @@ translate spanish e02s10_months_later_092d2c9f:
 translate spanish e02s10_months_later_68130550:
 
     # mh "Naturally, I will still practice law, but I am more than capable of helping a few couples here and there."
-    mh "Naturalmente, seguiré ejerciendo la abogacía, pero soy más que capaz de ayudar a algunas parejas aquí y allá.."
+    mh "Naturalmente, seguiré ejerciendo la abogacía, pero soy más que capaz de ayudar a algunas parejas aquí y allá."
 
 # game/code/e02/e02s10.rpy:616
 translate spanish e02s10_months_later_09f81a15:
 
     # mh "I just need to be sure I will have my partner in crime with me. If you think you are up to it."
-    mh "Solo necesito estar segura de que tendré a mi cómplice conmigo. Si crees que estás a la altura"
+    mh "Solo necesito estar segura de que tendré a mi cómplice conmigo. Si crees que estás a la altura."
 
 # game/code/e02/e02s10.rpy:619
 translate spanish e02s10_months_later_4ce195cc:
@@ -856,5 +856,5 @@ translate spanish strings:
 
     # game/code/e02/e02s10.rpy:635
     old "You have finished playing Ending #02!"
-    new "¡Has terminado de jugar el Final #02!"
+    new "¡Has terminado de jugar el Final n° #02!"
 
