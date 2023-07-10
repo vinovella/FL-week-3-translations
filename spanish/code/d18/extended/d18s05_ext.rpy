@@ -94,7 +94,7 @@ translate spanish d18s05_ext_69a6df63:
 translate spanish d18s05_ext_48aa6509:
 
     # mc "But did you really have to cum all over the entire fucking apartment, man? It's gonna smell like cum in here for months."
-    mc "Pero, ¿realmente tenías que correrte por todo el puto departamento, hombre? Va a oler a semen durante meses.."
+    mc "Pero, ¿realmente tenías que correrte por todo el puto departamento, hombre? Va a oler a semen durante meses."
 
 # game/code/d18/extended/d18s05_ext.rpy:155
 translate spanish d18s05_ext_3fee1eb1:
@@ -136,7 +136,7 @@ translate spanish d18s05_ext_6a98e6ea:
 translate spanish d18s05_ext_2bf392c6:
 
     # mc "Jerking off while spinning in a chair to get light-headed. I was the first one to do that."
-    mc "Masturbándose mientras da vueltas en una silla para marearse. Yo fui el primero en hacer eso."
+    mc "Masturbarse dando vueltas en una silla para quedarse mareado. Yo fui el primero en hacerlo."
 
 # game/code/d18/extended/d18s05_ext.rpy:174
 translate spanish d18s05_ext_faa42600:
@@ -148,7 +148,7 @@ translate spanish d18s05_ext_faa42600:
 translate spanish d18s05_ext_1fb5cd3c:
 
     # pb "Damn, dude, you're famous! It's all over the Fetish Feed."
-    pb "¡Maldita sea, amigo, eres famoso! Estás por todas partes en Fetish Feed."
+    pb "¡Maldita sea, amigo, eres famoso! Estás por todas partes en Alimentación fetichista."
 
 # game/code/d18/extended/d18s05_ext.rpy:180
 translate spanish d18s05_ext_11455b53:
@@ -160,7 +160,7 @@ translate spanish d18s05_ext_11455b53:
 translate spanish d18s05_ext_a17f9d18:
 
     # sb "We were looking for some new fetishes to do for that Fetish Locator app thing and saw that spinning chair move."
-    sb "Estábamos buscando nuevos fetiches para hacer con esa cosa de la aplicación del Localizador de Fetiche y vimos ese movimiento de la silla giratoria."
+    sb "Estábamos buscando nuevos fetiches para hacer con esa cosa de la aplicación del Localizador de Fetiches y vimos ese movimiento de la silla giratoria."
 
 # game/code/d18/extended/d18s05_ext.rpy:187
 translate spanish d18s05_ext_dd43feb8:
@@ -376,7 +376,7 @@ translate spanish d18s05_sex_7fd3a623:
 translate spanish d18s05_sex_c9aa8332:
 
     # sb "Aw, and now I don't have anyone to fuck me."
-    sb "Aw, y ahora no tengo a nadie que me folle"
+    sb "Aw, y ahora no tengo a nadie que me folle."
 
 # game/code/d18/extended/d18s05_ext.rpy:366
 translate spanish d18s05_sex_03864990:
@@ -568,13 +568,13 @@ translate spanish d18s05_after_sex_f87e0cc4:
 translate spanish d18s05_after_sex_d36f975d:
 
     # sb "I've been thinking about it for a bit now."
-    sb "He estado pensando en ello por un tiempo ahora.."
+    sb "He estado pensando en ello durante un tiempo."
 
 # game/code/d18/extended/d18s05_ext.rpy:617
 translate spanish d18s05_after_sex_f26fa239:
 
     # sb "I hate this place. It's a fucking concrete jungle. I've always wanted to get the hell out of here."
-    sb "Odio este lugar. Es una puta jungla de asfalto. Siempre he querido largarme de aquí.."
+    sb "Odio este lugar. Es una puta jungla de asfalto. Siempre he querido largarme de aquí."
 
 # game/code/d18/extended/d18s05_ext.rpy:618
 translate spanish d18s05_after_sex_7102ee2c:
@@ -634,7 +634,7 @@ translate spanish d18s05_after_sex_2485f494:
 translate spanish d18s05_after_sex_3110016f:
 
     # mct "Even without the exams and Fetish Locator, is this something I would actually want?"
-    mct "Incluso sin los exámenes y el Localizador de Fetiche, ¿es esto algo que realmente querría?"
+    mct "Incluso sin los exámenes y el Localizador de Fetiches, ¿es esto algo que realmente querría?"
 
 # game/code/d18/extended/d18s05_ext.rpy:650
 translate spanish d18s05_after_sex_a771e1d4:
