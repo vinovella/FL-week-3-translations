@@ -64,7 +64,7 @@ translate spanish d15s04_aea53328:
 translate spanish d15s04_c448f643:
 
     # mct "Study is what I need to fucking do now."
-    mct "Estudiar es lo que tengo que hacer ahora, joder."
+    mct "Estudiar es lo que tengo que hacer ahora, mierda."
 
 # game/code/d15/d15s04.rpy:62
 translate spanish d15s04_740fafba:
