@@ -154,13 +154,13 @@ translate spanish d19s04dd_1d4007a3:
 translate spanish d19s04dd_b5b4171e:
 
     # mc "Should we take it slow...?"
-    mc "¿Deberíamos tomarlo con calma...?"
+    mc "¿Deberíamos tomarlo con calma?"
 
 # game/code/d19/d19s04dd.rpy:217
 translate spanish d19s04dd_6a7a86b0:
 
     # dd "If I'm going to go, make it worth it!"
-    dd "Si voy a ir, ¡que merezca la pena!"
+    dd "Si voy a hacerlo, ¡que merezca la pena!"
 
 # game/code/d19/d19s04dd.rpy:220
 translate spanish d19s04dd_22c3f1f2:
@@ -358,7 +358,7 @@ translate spanish d19s04dd_plushie_015496d2:
 translate spanish d19s04dd_plushie_d3bc127f:
 
     # mc "*laughing* I've got another round in me if Dahlia wants to join in."
-    mc "*riendo* Tengo otra conmigo si Dahlia quiere unirse."
+    mc "*riendo* Tengo otra ronda conmigo si Dahlia quiere unirse."
 
 # game/code/d19/d19s04dd.rpy:430
 translate spanish d19s04dd_plushie_d92136cd:
@@ -382,7 +382,7 @@ translate spanish d19s04dd_plushie_2d357c92:
 translate spanish d19s04dd_plushie_296c0a7b:
 
     # dd "A bucket list.{w} You know, a list of things you want to do or achieve before...."
-    dd "Una lista de cosas que hacer antes de morir.{w} Ya sabes, una lista de cosas que quieres hacer o lograr antes de...."
+    dd "Una lista de cosas que hacer antes de morir.{w} Ya sabes, una lista de cosas que quieres hacer o lograr antes de..."
 
 # game/code/d19/d19s04dd.rpy:442
 translate spanish d19s04dd_plushie_4b79a920:
@@ -442,13 +442,13 @@ translate spanish d19s04dd_plushie_bcdcd869:
 translate spanish d19s04dd_plushie_6b4305ce:
 
     # dw "It's a good list. Just tell him what's on it."
-    dw "Es una buena lista. Sólo dile lo que hay en él."
+    dw "Es una buena lista. Sólo dile lo que hay en ella."
 
 # game/code/d19/d19s04dd.rpy:470
 translate spanish d19s04dd_plushie_78a95446:
 
     # dd "Okay. Well, first item, the top of the list..."
-    dd "De acuerdo. Bueno, primer punto, el primero de la lista..."
+    dd "De acuerdo. Bueno, primer punto, lo primero de la lista..."
 
 # game/code/d19/d19s04dd.rpy:473
 translate spanish d19s04dd_plushie_b94dd675:
@@ -502,7 +502,7 @@ translate spanish d19s04dd_plushie_07df336c:
 translate spanish d19s04dd_plushie_7851b703:
 
     # mc "Makes sense. What would you do there?"
-    mc "Tiene sentido. Qué harías allí?"
+    mc "Tiene sentido. ¿Qué harías allí?"
 
 # game/code/d19/d19s04dd.rpy:500
 translate spanish d19s04dd_plushie_f1b11b6f:
@@ -520,7 +520,7 @@ translate spanish d19s04dd_plushie_07eef455:
 translate spanish d19s04dd_plushie_2c4f23f0:
 
     # dw "I gotta admit, that would probably go on my list too{w} - if I wasn't certain I would just quickly lose $1000."
-    dw "Debo admitir que eso probablemente también estaría en mi lista {w}; si no estuviera seguro, perdería rápidamente esos $1000."
+    dw "Debo admitir que eso probablemente también estaría en mi lista {w}; si no estuviera segura, perdería rápidamente esos $1000."
 
 # game/code/d19/d19s04dd.rpy:509
 translate spanish d19s04dd_plushie_cec53d45:
@@ -994,7 +994,7 @@ translate spanish d19s04dd_plushie_141cd573:
 translate spanish d19s04dd_plushie_2497d141:
 
     # mct "Fuck. How did I get here?"
-    mct "Mierda. ¿Como llegué aquí?"
+    mct "Mierda. ¿Cómo he llegado hasta aquí?"
 
 # game/code/d19/d19s04dd.rpy:757
 translate spanish d19s04dd_plushie_abcff41f:
