@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2023-05-26 11:45
+﻿# TODO: Translation updated at 2023-05-26 11:45
 
 # game/code/e02/e02s07.rpy:62
 translate spanish e02s07_c14c10e0:
@@ -40,7 +40,7 @@ translate spanish e02s07_1e929c94:
 translate spanish e02s07_952a0b89:
 
     # mc "I'll skip on the ice plunge - if it is all the same to you."
-    mc "Me saltaré la zambullida en el hielo, si es lo mismo para ti."
+    mc "Me saltaré lo de la zambullida en el hielo, si a ti te da lo mismo."
 
 # game/code/e02/e02s07.rpy:83
 translate spanish e02s07_c4eccf0f:
@@ -106,7 +106,7 @@ translate spanish e02s07_8d74810e:
 translate spanish e02s07_68e12544:
 
     # mh "Those are rated double black diamond. You must be good."
-    mh "Esos están clasificados como doble diamante negro. Debes ser bueno."
+    mh "Esos están clasificados como doble diamante negro. Deben ser buenas."
 
 # game/code/e02/e02s07.rpy:117
 translate spanish e02s07_c0403fe1:
@@ -250,13 +250,13 @@ translate spanish e02s07_2e5c9c96:
 translate spanish e02s07_e9d439e4:
 
     # mc "Please stay. We'll be out of your way in a flash."
-    mc "Por favor quédate. Estaremos fuera de su camino en un instante."
+    mc "Por favor quédense. Estaremos fuera de su camino en un instante."
 
 # game/code/e02/e02s07.rpy:184
 translate spanish e02s07_dbea2cc8:
 
     # mh "We've been here for a while now, and it's time for our ice plunge."
-    mh "Hemos estado aquí por un tiempo, y es hora de nuestra zambullida en el hielo."
+    mh "Ya llevamos un rato aquí y es hora de nuestra zambullida en el hielo."
 
 # game/code/e02/e02s07.rpy:187
 translate spanish e02s07_38b5e631:
@@ -274,13 +274,13 @@ translate spanish e02s07_43621dfd:
 translate spanish e02s07_49eefbda:
 
     # mh "I'm sorry that got awkward. I hope we can try again sometime."
-    mh "ISiento que haya sido incómodo. Espero que podamos intentarlo de nuevo en algún momento."
+    mh "Siento que haya sido incómodo. Espero que podamos intentarlo de nuevo en algún momento."
 
 # game/code/e02/e02s07.rpy:197
 translate spanish e02s07_fe12d3cd:
 
     # ms "That would be great. You seem like nice people."
-    ms "Eso seria genial. Pareces buena gente."
+    ms "Eso seria genial. Parecen buena gente."
 
 # game/code/e02/e02s07.rpy:200
 translate spanish e02s07_c9fb8704:
@@ -394,7 +394,7 @@ translate spanish e02s07_next_day_46047a32:
 translate spanish e02s07_next_day_95c6da12:
 
     # dn "I guess the easiest way to explain it is that I've never seen one that big before."
-    dn "Supongo que la forma más fácil de explicarlo es que nunca antes había visto uno tan grande."
+    dn "Supongo que la forma más fácil de explicarlo es que nunca antes había visto una tan grande."
 
 # game/code/e02/e02s07.rpy:283
 translate spanish e02s07_next_day_ee87e6f3:
@@ -406,7 +406,7 @@ translate spanish e02s07_next_day_ee87e6f3:
 translate spanish e02s07_next_day_8a958561:
 
     # mh "I think it's pretty obvious what she means."
-    mh "Creo que es bastante obvio lo que quieres decir."
+    mh "Creo que es bastante obvio lo que quiere decir."
 
 # game/code/e02/e02s07.rpy:289
 translate spanish e02s07_next_day_3e9e1909:
@@ -532,7 +532,7 @@ translate spanish e02s07_next_day_c1e34389:
 translate spanish e02s07_next_day_cd9cc324:
 
     # mc "I'm a he/him... or is it he/his? Whatever the masculine pronouns are."
-    mc "Soy un él/él... ¿o es él/él? Cualesquiera que sean los pronombres masculinos."
+    mc "Soy un él/el... Cualquiera que sean los pronombres masculinos."
 
 # game/code/e02/e02s07.rpy:350
 translate spanish e02s07_next_day_3e866fb5:
@@ -628,7 +628,7 @@ translate spanish e02s07_next_day_3b693e7c:
 translate spanish e02s07_next_day_8a126abf:
 
     # dn "It's just... when am I going to have an opportunity like this again."
-    dn "Es solo... cuando voy a tener una oportunidad como esta otra vez."
+    dn "Es que... ¿cuándo volveré a tener una oportunidad como ésta?"
 
 # game/code/e02/e02s07.rpy:401
 translate spanish e02s07_next_day_6c1fdb1b:
@@ -802,7 +802,7 @@ translate spanish e02s07_next_day_73a17d43:
 translate spanish e02s07_sex_5418677f:
 
     # mh "Would you mind if I took things up another notch. Either here or somewhere more-"
-    mh "¿Les importaría si llevo las cosas a otro nivel? Ya sea aquí o en algún lugar más-"
+    mh "¿Les importaría si llevo las cosas a otro nivel? Ya sea aquí o en algún lugar más..."
 
 # game/code/e02/e02s07.rpy:484
 translate spanish e02s07_sex_ea20057d:
@@ -1138,7 +1138,7 @@ translate spanish e02s07_sex_end_6a1f7c7d:
 translate spanish e02s07_sex_end_47dee278:
 
     # ms "Of course. You know where to find us."
-    ms "Por supuesto. Sabes donde encontrarnos."
+    ms "Por supuesto. Ya sabes dónde encontrarnos."
 
 # game/code/e02/e02s07.rpy:780
 translate spanish e02s07_sex_end_2d4fca31:
@@ -1198,7 +1198,7 @@ translate spanish e02s07_next_day_2_58e75b95:
 translate spanish e02s07_next_day_2_0bb8e2e0:
 
     # mh "Very observant."
-    mh "muy observador."
+    mh "Muy observador."
 
 # game/code/e02/e02s07.rpy:826
 translate spanish e02s07_next_day_2_13d7afc5:
@@ -1210,7 +1210,7 @@ translate spanish e02s07_next_day_2_13d7afc5:
 translate spanish e02s07_next_day_2_1fcda2b0:
 
     # ms "See, I told you they'd be here."
-    ms "See, I told you they'd be here."
+    ms "Ves, te dije que estarían aquí."
 
 # game/code/e02/e02s07.rpy:833
 translate spanish e02s07_next_day_2_424de9cd:
@@ -1246,13 +1246,13 @@ translate spanish e02s07_next_day_2_caf875e9:
 translate spanish e02s07_next_day_2_f0c52359:
 
     # ms "I'm glad. We've been enjoying ourselves as well."
-    ms "Me alegro. Nosotros también nos hemos estado divirtiendo."
+    ms "Me alegro. Nosotras también nos hemos estado divirtiendo."
 
 # game/code/e02/e02s07.rpy:852
 translate spanish e02s07_next_day_2_3e248d04:
 
     # dn "Still, we've been looking forward to seeing you again."
-    dn "Aún así, teníamos muchas ganas de volver a verte."
+    dn "Aún así, teníamos muchas ganas de volver a verlos."
 
 # game/code/e02/e02s07.rpy:855
 translate spanish e02s07_next_day_2_11588ea1:
@@ -1276,7 +1276,7 @@ translate spanish e02s07_next_day_2_7548aebe:
 translate spanish e02s07_next_day_2_bbdaa207:
 
     # mh "Along those lines, I got you a little gift that might help."
-    mh "En ese sentido, te compré un pequeño regalo que podría ayudarte."
+    mh "En ese sentido, les compré un pequeño regalo que podría ayudarles."
 
 # game/code/e02/e02s07.rpy:868
 translate spanish e02s07_next_day_2_cac18cbf:
@@ -1318,7 +1318,7 @@ translate spanish e02s07_next_day_2_66383469:
 translate spanish e02s07_next_day_2_388a8e1d:
 
     # mh "I removed them from the packaging, but I'm sure I could find someone else if you're not interested."
-    mh "Los saqué del empaque, pero estoy segura de que podría encontrar a alguien más si no estás interesada."
+    mh "Los saqué del empaque, pero estoy segura de que podría encontrar a alguien más si no están interesadas."
 
 # game/code/e02/e02s07.rpy:890
 translate spanish e02s07_next_day_2_77eeef1a:
@@ -1354,7 +1354,7 @@ translate spanish e02s07_next_day_2_89a443a4:
 translate spanish e02s07_next_day_2_e0be081b:
 
     # mh "You also mentioned that you've both lost interest in sex, but are able to masturbate - including masturbating while watching each other."
-    mh "También mencionó que ambas han perdido interés en el sexo, pero pueden masturbarse, incluso masturbarse mientras se miran."
+    mh "También mencionaste que ambas han perdido interés en el sexo, pero pueden masturbarse, incluso masturbarse mientras se miran."
 
 # game/code/e02/e02s07.rpy:906
 translate spanish e02s07_next_day_2_8f971e07:
@@ -1438,7 +1438,7 @@ translate spanish e02s07_next_day_2_a41f3219:
 translate spanish e02s07_next_day_2_e216a417:
 
     # mh "-this all led me to the belief that you should at least try experimenting with dildos, strap-ons, and other artificial phalluses."
-    mh "-Todo esto me llevó a la creencia de que al menos deberías intentar experimentar con consoladores, arneses y otros falos artificiales."
+    mh "-Todo esto me llevó a la creencia de que al menos deberían intentar experimentar con consoladores, arneses y otros falos artificiales."
 
 # game/code/e02/e02s07.rpy:939
 translate spanish e02s07_next_day_2_b0adf478:
@@ -1486,7 +1486,7 @@ translate spanish e02s07_next_day_2_12ed6dda:
 translate spanish e02s07_next_day_2_bd958d55:
 
     # ms "What I meant was... do you think you could show us how?"
-    ms "Lo que quise decir era... ¿crees que podrías mostrarnos cómo?"
+    ms "Lo que quería decir era... ¿crees que podrías enseñarnos cómo?"
 
 # game/code/e02/e02s07.rpy:959
 translate spanish e02s07_next_day_2_73c8c81a:
@@ -1552,7 +1552,7 @@ translate spanish e02s07_strap_on_5fa0acc2:
 translate spanish e02s07_strap_on_6df27ec7:
 
     # ms "You mean, doggy style?"
-    ms "Y¿Te refieres al estilo perrito?"
+    ms "¿Te refieres al estilo perrito?"
 
 # game/code/e02/e02s07.rpy:1037
 translate spanish e02s07_strap_on_d14a5f21:
@@ -1606,7 +1606,7 @@ translate spanish e02s07_strap_on_62e9683b:
 translate spanish e02s07_strap_on_40515d36:
 
     # ms "Love you too, hon."
-    ms "Te amo también, cariño."
+    ms "Yo también te amo, cariño."
 
 # game/code/e02/e02s07.rpy:1104
 translate spanish e02s07_strap_on_b62a2ec8:
@@ -1618,13 +1618,13 @@ translate spanish e02s07_strap_on_b62a2ec8:
 translate spanish e02s07_strap_on_c2116546:
 
     # mc "It is.{w} We're going to head out. I hope you don't mind."
-    mc "Lo es. {w} Vamos a irnos. Espero que no te moleste."
+    mc "Lo es. {w} Vamos a irnos. Espero que no les moleste."
 
 # game/code/e02/e02s07.rpy:1110
 translate spanish e02s07_strap_on_ae815115:
 
     # mh "Don't fall asleep. You wouldn't want to boil yourselves in here."
-    mh "No se duerman. No querrán hervirse aquí."
+    mh "No se duerman. No querrán cocinarse aquí."
 
 # game/code/e02/e02s07.rpy:1113
 translate spanish e02s07_strap_on_712afab5:
