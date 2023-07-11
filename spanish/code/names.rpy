@@ -3,13 +3,13 @@
 translate spanish strings:
 
     old "Fetish Locator"
-    new "Localizador de Fetiche"
+    new "Localizador de Fetiches"
 
     old "Fetish Locator Retention"
-    new "Retención del localizador de fetiches"
+    new "Retención del Localizador de Fetiches"
 
     old "Fetish Master"
-    new "Maestro fetichista"
+    new "Maestro Fetichista"
 
     old "Pete"
     new "Pete"
@@ -69,19 +69,19 @@ translate spanish strings:
     new "Nari"
 
     old "Mr. Min"
-    new "Mr. Min"
+    new "Señor. Min"
 
     old "Mrs. Min"
-    new "Mrs. Min"
+    new "Señora. Min"
 
     old "Min Do-yun"
     new "Min Do-yun"
 
     old "Officer Cheney"
-    new "Officer Cheney"
+    new "Oficial Cheney"
 
     old "Officer Martinez"
-    new "Officer Martinez"
+    new "Oficial Martinez"
 
     old "Ashley"
     new "Ashley"
@@ -90,7 +90,7 @@ translate spanish strings:
     new "Frank"
 
     old "Ms. Havisham"
-    new "Ms. Havisham"
+    new "Señorita Havisham"
 
     old "Alexander"
     new "Alexander"
