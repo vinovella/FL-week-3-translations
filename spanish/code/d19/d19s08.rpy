@@ -596,7 +596,7 @@ translate spanish strings:
 
     # game/code/d19/d19s08.rpy:84
     old "Don't bother"
-    new "No te molestes."
+    new "No te molestes"
 
     # game/code/d19/d19s08.rpy:158
     old "Ask for a picture"
