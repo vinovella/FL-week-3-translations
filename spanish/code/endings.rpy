@@ -40,7 +40,7 @@ translate spanish strings:
 
     # game/code/endings.rpy:34
     old "Ending #3\nTwo Girls Two Dicks"
-    new "Final #3\nDos chicas, dos pollas"
+    new "Final #3\nDos chicas, Dos pollas"
 
     # game/code/endings.rpy:49
     old "Ending #4\nMy Sex Dungeon"
@@ -48,11 +48,11 @@ translate spanish strings:
 
     # game/code/endings.rpy:64
     old "Ending #5\nSausage Party"
-    new "Final #5\nFiesta de salchichas"
+    new "Final #5\nFiesta de Salchichas"
 
     # game/code/endings.rpy:94
     old "Ending #7\nA New Chair"
-    new "Final #7\nUna nueva silla"
+    new "Final #7\nUna Nueva Silla"
 
     # game/code/endings.rpy:124
     old "Ending #09\nFetish Locator: Rebooted"
@@ -64,7 +64,7 @@ translate spanish strings:
 
     # game/code/endings.rpy:169
     old "Ending #12\nRedhead Resort"
-    new "Final #12\nComplejo pelirrojo"
+    new "Final #12\nComplejo Pelirrojo"
 
     # game/code/endings.rpy:199
     old "Ending #14\nPolly & Nora"
@@ -76,7 +76,7 @@ translate spanish strings:
 
     # game/code/endings.rpy:229
     old "Ending #16\nBreeding Ponies"
-    new "Final #16\nCría de ponis"
+    new "Final #16\nCría de Ponis"
 
     # game/code/endings.rpy:244
     old "Ending #17\nNot Guilty"
