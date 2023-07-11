@@ -591,8 +591,8 @@ translate spanish after_credits_050e12e8:
 # game/code/labels.rpy:724
 translate spanish buzz_4377a2f7:
 
-    # "Bzzzzz" with hpunch
-    "Bzzzzz" with hpunch
+    # "Bzzzzz" with hpunch"
+    "Bzzzzz con hpunch"
 
 # game/code/labels.rpy:730
 translate spanish knock_40511e6c:
@@ -617,12 +617,4 @@ translate spanish strings:
     # game/code/labels.rpy:71
     old "The legendary Fetish Locator will return"
     new "El legendario Localizador de Fetiches regresará."
-
-# TODO: Translation updated at 2023-07-05 00:54
-
-# game/code/labels.rpy:431
-translate spanish after_credits_cb03f950:
-
-    # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
 
