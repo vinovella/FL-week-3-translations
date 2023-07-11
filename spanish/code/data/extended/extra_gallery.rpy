@@ -236,7 +236,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:233
     old "HIGH SCORE :\n[persistent.minigame_max_score]"
-    new "PUNTUACIÓN ALTA :\n[persistent.minigame_max_score]"
+    new "PUNTUACIÓN\nALTA :\n[persistent.minigame_max_score]"
 
     # game/code/data/extended/extra_gallery.rpy:249
     old "HOW MANY ENDINGS HAVE YOU UNLOCKED?"
@@ -247,12 +247,12 @@ translate spanish strings:
     new "9 FINALES"
 
     # game/code/data/extended/extra_gallery.rpy:251
-    old "YOU GOTTA PUMP THOS NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
-    new "TIENES QUE AUMENTAR ESOS NÚMEROS. ¡ESOS SON NÚMEROS DE NOVATO!"
+    old "YOU GOTTA PUMP THOSE NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
+    new "TIENES QUE AUMENTAR ESOS NÚMEROS.\n¡ESOS SON NÚMEROS DE NOVATO!"
 
     # game/code/data/extended/extra_gallery.rpy:270
     old "6 endings\naren't enough.\nI need all 18 now!!!"
-    new "6 los finales\no son suficientes.\¡¡¡Necesito los 18 ahora!!!"
+    new "6 los finales\no son suficientes.\n¡¡¡Necesito los 18 ahora!!!"
 
     # game/code/data/extended/extra_gallery.rpy:271
     old "{b}CHANGE MY MIND{/b}"
@@ -260,15 +260,15 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:306
     old "I WANT TO KEEP\nFETISH LOCATOR"
-    new "QUIERO MANTENER\nEL LOCALIZADOR DE FETICHES"
+    new "QUIERO MANTENER EL\nLOCALIZADOR DE FETICHES"
 
     # game/code/data/extended/extra_gallery.rpy:307
     old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
-    new "PARA ASEGURARSE DE QUE NADIE\SERÁ CHANTAJEADO"
+    new "PARA ASEGURARSE DE QUE\nNADIE SERÁ CHANTAJEADO"
 
     # game/code/data/extended/extra_gallery.rpy:308
     old "YOU'RE GOING TO\nUSE IT FOR GOOD, RIGHT?"
-    new "LO VA A UTILIZAR PARA BIEN, ¿VERDAD?"
+    new "LO VA A UTILIZAR\nPARA BIEN, ¿VERDAD?"
 
     # game/code/data/extended/extra_gallery.rpy:309
     old "RIGHT?"
@@ -276,7 +276,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:326
     old "THE FIRST ENDING\nFROM 18 TOTAL ENDINGS"
-    new "EL PRIMER FINAL DE 18 FINALES TOTALES"
+    new "EL PRIMER FINAL\nDE 18 FINALES TOTALES"
 
     # game/code/data/extended/extra_gallery.rpy:327
     old "IS THAT A REAL ENDING?"
@@ -288,7 +288,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:439
     old "Cum in every pussy\nat the wedding"
-    new "Corrida en cada coño\nen la boda"
+    new "Corrida en cada\ncoño en la boda"
 
     # game/code/data/extended/extra_gallery.rpy:440
     old "You receive:"

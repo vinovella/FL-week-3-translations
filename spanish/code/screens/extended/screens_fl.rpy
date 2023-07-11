@@ -16,11 +16,11 @@ translate spanish strings:
 
     # game/code/screens/extended/screens_fl.rpy:38
     old "Hints on"
-    new "Sugerencias activadas"
+    new "Sugerencias\nactivadas"
 
     # game/code/screens/extended/screens_fl.rpy:38
     old "Hints off"
-    new "Sugerencias desactivadas"
+    new "Sugerencias\ndesactivadas"
 
     # game/code/screens/extended/screens_fl.rpy:51
     old "Page [page]"
