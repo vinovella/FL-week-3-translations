@@ -100,7 +100,7 @@ translate spanish d17s05mh_7f26ea0b:
 translate spanish d17s05mh_dcdc0120:
 
     # mc "I'm here now."
-    mc "Estoy aqui ahora."
+    mc "Estoy aquí ahora."
 
 # game/code/d17/d17s05mh.rpy:145
 translate spanish d17s05mh_9b5b3ef6:
@@ -514,7 +514,7 @@ translate spanish d17s05mh_cuddle_e9e754e8:
 translate spanish d17s05mh_cuddle_dc4ae1fa:
 
     # mc "Just let me know when and where and I'll be there."
-    mc "olo avísame cuándo y dónde y allí estaré."
+    mc "Sólo avísame cuándo y dónde y allí estaré."
 
 # game/code/d17/d17s05mh.rpy:621
 translate spanish d17s05mh_cuddle_ffc6a815:
