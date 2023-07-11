@@ -242,3 +242,11 @@ translate spanish strings:
     old "Close the game"
     new "Cerrar el juego"
 
+# TODO: Translation updated at 2023-07-11 12:14
+
+translate spanish strings:
+
+    # game/code/screens/screens_fl.rpy:180
+    old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
+    new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
+

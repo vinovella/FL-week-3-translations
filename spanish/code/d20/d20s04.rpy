@@ -852,6 +852,9 @@ translate spanish d20s04_zw_wrong_f8786ace:
     # zw "I'll compromise.{w} Let this question stand, and I'll forgo the other questions I have written here."
     zw "Me comprometeré. Dejemos que esta pregunta se quede, y voy a renunciar a las otras preguntas que he escrito aquí."
 
+# game/code/d20/d20s04.rpy:512
+translate spanish d20s04_zw_wrong_8d30382e:
+
     # rn "Hmm.{w} Theresa, what do you think?"
     rn "Mmm.{w} Theresa, ¿qué te parece?"
 
@@ -1447,4 +1450,3 @@ translate spanish strings:
     # game/code/d20/d20s04.rpy:545
     old "She was just visiting."
     new "Ella sólo estaba de visita"
-

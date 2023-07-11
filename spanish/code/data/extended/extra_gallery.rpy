@@ -298,3 +298,15 @@ translate spanish strings:
     old "The whole\nharem pregnant"
     new "Todo el\nharem embarazado"
 
+# TODO: Translation updated at 2023-07-11 12:14
+
+translate spanish strings:
+
+    # game/code/data/extended/extra_gallery.rpy:354
+    old "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
+    new "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
+
+    # game/code/data/extended/extra_gallery.rpy:535
+    old "TRADE OFFER"
+    new "TRADE OFFER"
+
