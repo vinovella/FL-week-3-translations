@@ -526,7 +526,7 @@ translate spanish d17s05ms_33f0e9f8:
 translate spanish d17s05ms_1f279512:
 
     # sy "I {i}have{/i} been applying to some gigs. Can't live on handouts forever. Mostly ghosts though."
-    sy "He {i}he estado {/i} solicitando algunos trabajos. No se puede vivir de limosnas para siempre. Aunque en su mayoría fantasmas."
+    sy "He {i}estado{/i} solicitando algunos trabajos. No se puede vivir de limosnas para siempre. Aunque en su mayoría fantasmas."
 
 # game/code/d17/d17s05ms.rpy:295
 translate spanish d17s05ms_f3b9339b:
@@ -706,13 +706,13 @@ translate spanish d17s05ms_1df8c053:
 translate spanish d17s05ms_38f2922e:
 
     # sy "Someone said, \"A romantic, candlelit dinner would be incomplete without... Farting and walking away."
-    sy "Alguien dijo: \"Una cena romántica a la luz de las velas estaría incompleta sin... Tirarse pedos y marcharse."
+    sy "Alguien dijo: \"Una cena romántica a la luz de las velas no estaría completa sin... Tirarse pedos y marcharse."
 
 # game/code/d17/d17s05ms.rpy:383
 translate spanish d17s05ms_31133a74:
 
     # sy "Classy."
-    sy "De buen tono."
+    sy "Con clase."
 
 # game/code/d17/d17s05ms.rpy:386
 translate spanish d17s05ms_29ce3f2e:
@@ -724,13 +724,13 @@ translate spanish d17s05ms_29ce3f2e:
 translate spanish d17s05ms_19c94722:
 
     # sy "And someone else said, A romantic, candlelit dinner would be incomplete without... *Chuckling* Fucking my sister."
-    sy "Y alguien más dijo: Una cena romántica a la luz de las velas estaría incompleta sin... *Riéndose* Follándome a mi hermana."
+    sy "Y alguien más dijo: Una cena romántica a la luz de las velas no estaría completa sin... *Riéndose* Follándome a mi hermana."
 
 # game/code/d17/d17s05ms.rpy:392
 translate spanish d17s05ms_c2182fbf:
 
     # sy "And someone else said, A romantic, candlelit dinner would be incomplete without... *Chuckling* Fucking my best friend."
-    sy "Y alguien más dijo: Una cena romántica a la luz de las velas estaría incompleta sin... *Riéndose* Follándome a mi mejor amigo."
+    sy "Y alguien más dijo: Una cena romántica a la luz de las velas no estaría completa sin... *Riéndose* Follándome a mi mejor amigo."
 
 # game/code/d17/d17s05ms.rpy:393
 translate spanish d17s05ms_7cbfacc6:
@@ -880,7 +880,7 @@ translate spanish d17s05ms_e562842a:
 translate spanish d17s05ms_4aaa8287:
 
     # mh "I don't mind your relationship with him. I think it's cute even."
-    mh "No me molesta tu relación con él. Creo que incluso es lindo."
+    mh "No me molesta tu relación con él. Creo que incluso es linda."
 
 # game/code/d17/d17s05ms.rpy:487
 translate spanish d17s05ms_19b9503b:
@@ -1066,7 +1066,7 @@ translate spanish d17s05ms_e8a46634:
 translate spanish d17s05ms_2ab92e05:
 
     # mc "For being an anxious wreck earlier, you sure changed your tune now."
-    mc "Para ser una ansiosa antes, seguro que ahora has cambiado de tono."
+    mc "Para haber estado tan ansiosa antes, seguro que ahora has cambiado de tono."
 
 # game/code/d17/d17s05ms.rpy:590
 translate spanish d17s05ms_ea7c32c4:
@@ -1114,7 +1114,7 @@ translate spanish d17s05ms_4cc34481:
 translate spanish d17s05ms_afe118df:
 
     # sy "Cause you're more often than not the one {i}{b}to{/b}{/i} blame."
-    sy "Porque la mayoría de las veces eres {i}{b}el{/b}{/i} culpable."
+    sy "Porque la mayoría de las veces eres {i}{b}tú{/b}{/i} el culpable."
 
 # game/code/d17/d17s05ms.rpy:612
 translate spanish d17s05ms_b0f58f1f:
