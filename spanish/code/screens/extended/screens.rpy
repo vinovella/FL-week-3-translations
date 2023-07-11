@@ -65,11 +65,12 @@ translate spanish strings:
     # game/code/screens/extended/screens.rpy:335
     old "BONUS CONTENT"
     new "CONTENIDO EXTRA"
+
 # TODO: Translation updated at 2023-07-05 00:54
 
 translate spanish strings:
 
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Vinovella University on Steam"
-    new "Wishlist Vinovella University on Steam"
+    new "Añada Vinovella University a su lista de deseados en Steam"
 
