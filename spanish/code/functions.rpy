@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/code/functions.rpy:251
     old "You've unlocked a new CG Gallery"
-    new "Has desbloqueado una nueva galería CG"
+    new "Has desbloqueado una nueva Galería"
 
     # game/code/functions.rpy:251
     old "You can watch the scene again in the Replay Room"
@@ -29,12 +29,4 @@ translate spanish strings:
     # game/code/functions.rpy:380
     old "You can only select one out of Daisy and Dahlia"
     new "Sólo puedes elegir a una entre Daisy y Dahlia"
-
-# TODO: Translation updated at 2023-06-15 00:05
-
-translate spanish strings:
-
-    # game/code/functions.rpy:23
-    old "You have unlocked Ending #{}"
-    new "You have unlocked Ending #{}"
 
