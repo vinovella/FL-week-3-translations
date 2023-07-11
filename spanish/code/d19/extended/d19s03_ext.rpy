@@ -448,7 +448,7 @@ translate spanish d19s03_sex_33ac1c71:
 translate spanish d19s03_sex_afe7be29:
 
     # mh "I'm gonna cum. Cum with me, [mcname]. Fill me up!"
-    mh "Me voy a correr. Córrete conmigo, [mcname]. ¡Llename!"
+    mh "Me voy a correr. Córrete conmigo, [mcname]. ¡Lléname!"
 
 # game/code/d19/extended/d19s03_ext.rpy:495
 translate spanish d19s03_sex_afe7be29_1:

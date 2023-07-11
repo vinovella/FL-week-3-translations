@@ -298,7 +298,7 @@ translate spanish d19s01lc_e3d87039:
 translate spanish d19s01lc_dce2dd8b:
 
     # lc "It never even occurred to me that anyone could get harmed by this. Jerome told me it was all secure and encrypted and 100%% safe."
-    lc "Nunca se me ocurrió que alguien pudiera salir perjudicado por esto. Jerome me dijo que todo estaba seguro y encriptado y que era 100% seguro."
+    lc "Nunca se me ocurrió que alguien pudiera salir perjudicado por esto. Jerome me dijo que todo estaba seguro y encriptado y que era 100%% seguro."
 
 # game/code/d19/d19s01lc.rpy:148
 translate spanish d19s01lc_57c72c9c:
