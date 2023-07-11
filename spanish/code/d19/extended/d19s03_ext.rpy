@@ -10,7 +10,7 @@ translate spanish d19s03_ext_3960feb0:
 translate spanish d19s03_ext_50687228:
 
     # arj "No, not at all. Feel free to use my place. There should be something to eat as well if you get hun—"
-    arj "No, en absoluto. Siéntete libre de usar mi casa. Debería haber algo para comer"
+    arj "No, en absoluto. Siéntete libre de usar mi casa. Debería haber algo para comer."
 
 # game/code/d19/extended/d19s03_ext.rpy:72
 translate spanish d19s03_ext_118d4190:
@@ -214,7 +214,7 @@ translate spanish d19s03_bj_110ccc0a:
 translate spanish d19s03_bj_62785a9d:
 
     # mc "Are you sure you're not aching for something else instead?"
-    mc "¿Estas segura de que no quieres otra cosa?"
+    mc "¿Estás segura de que no te apetece otra cosa?"
 
 # game/code/d19/extended/d19s03_ext.rpy:197
 translate spanish d19s03_bj_620905d3:
@@ -250,7 +250,7 @@ translate spanish d19s03_bj_5e286f70:
 translate spanish d19s03_bj_3e7df1bb:
 
     # mc "Don't worry about the mesh. It's related to what Stacy said."
-    mc "DNo te preocupes por la malla. Está relacionado con lo que dijo Stacy."
+    mc "No te preocupes por la malla. Está relacionado con lo que dijo Stacy."
 
 # game/code/d19/extended/d19s03_ext.rpy:219
 translate spanish d19s03_bj_59ec03d4:
@@ -316,7 +316,7 @@ translate spanish d19s03_bj_2ffad9be:
 translate spanish d19s03_bj_36e154c8:
 
     # mh "Cum in my mouth."
-    mh "Cum in my mouth."
+    mh "Córrete en mi boca."
 
 # game/code/d19/extended/d19s03_ext.rpy:293
 translate spanish d19s03_bj_99bfa428:
@@ -382,7 +382,7 @@ translate spanish d19s03_bj_7cd16f8d:
 translate spanish d19s03_bj_3ebf028d:
 
     # mc "C'mon. Get in the bed. I want to you up today."
-    mc "C'mon. Get in the bed. I want to you up today."
+    mc "Vamos. Métete en la cama. Quiero que te levantes hoy."
 
 # game/code/d19/extended/d19s03_ext.rpy:363
 translate spanish d19s03_bj_55af7362:
@@ -424,7 +424,7 @@ translate spanish d19s03_sex_48cabde0:
 translate spanish d19s03_sex_212ddd0e:
 
     # mh "*Lost in the bliss* Yes... Yes... Just like that. You feel so good."
-    mh "*Perdido en la felicidad* Sí... Sí... Solo así. Te sientes muy bien."
+    mh "*Perdida en la felicidad* Sí... Sí... Solo así. Te sientes muy bien."
 
 # game/code/d19/extended/d19s03_ext.rpy:406
 translate spanish d19s03_sex_6708e611:
@@ -454,7 +454,7 @@ translate spanish d19s03_sex_afe7be29:
 translate spanish d19s03_sex_afe7be29_1:
 
     # mh "I'm gonna cum. Cum with me, [mcname]. Fill me up!"
-    mh "Me voy a correr. Córrete conmigo, [mcname]. ¡Llename!"
+    mh "Me voy a correr. Córrete conmigo, [mcname]. ¡Lléname!"
 
 # game/code/d19/extended/d19s03_ext.rpy:513
 translate spanish d19s03_sex_48c45880:
@@ -496,7 +496,7 @@ translate spanish d19s03_watersports_717d6a67:
 translate spanish d19s03_watersports_45d3e4d9:
 
     # mh "Allison? What did she tell you?"
-    mh "Allison? ¿Que te dijo ella?"
+    mh "¿Allison? ¿Qué te dijo ella?"
 
 # game/code/d19/extended/d19s03_ext.rpy:542
 translate spanish d19s03_watersports_9ad822f7:
@@ -538,7 +538,7 @@ translate spanish d19s03_watersports_e0890294:
 translate spanish d19s03_watersports_fee66916:
 
     # mh "*Chuckles* It wasn't that hard to figure out."
-    mh "*Chuckles* No fue tan difícil de averiguar."
+    mh "*Risas* No fue tan difícil de averiguar."
 
 # game/code/d19/extended/d19s03_ext.rpy:557
 translate spanish d19s03_watersports_9ecd5f64:
@@ -556,7 +556,7 @@ translate spanish d19s03_watersports_ee87e6f3:
 translate spanish d19s03_watersports_d9c8ab45:
 
     # mh "I've been meaning to ask you to try it out."
-    mh "I've been meaning to ask you to try it out."
+    mh "Quería pedirte que lo probaras."
 
 # game/code/d19/extended/d19s03_ext.rpy:564
 translate spanish d19s03_watersports_3208f08e:
@@ -616,7 +616,7 @@ translate spanish d19s03_watersports_bfb800d4:
 translate spanish d19s03_watersports_6ad325a1:
 
     # mh "*Squeals* Unfair!"
-    mh "*hillidos* ¡Injusto!"
+    mh "*Chillidos* ¡Injusto!"
 
 # game/code/d19/extended/d19s03_ext.rpy:615
 translate spanish d19s03_watersports_4a044084:
@@ -646,7 +646,7 @@ translate spanish d19s03_watersports_3065e26f:
 translate spanish d19s03_watersports_289445d8:
 
     # mc "Tsk, tsk, so needy. I want you to pee as well while I fuck and piss inside of you. Just make a mess."
-    mc "Tsk, tsk, tan necesitada. Quiero que orines también mientras follo y orino dentro de ti. Solo haz un lío."
+    mc "Tsk, tsk, tan necesitada. Quiero que orines también mientras follo y orino dentro de ti. Solo haz un desastre."
 
 # game/code/d19/extended/d19s03_ext.rpy:626
 translate spanish d19s03_watersports_44e0a7eb:
@@ -694,7 +694,7 @@ translate spanish d19s03_watersports_0dd40abc:
 translate spanish d19s03_watersports_4ac502b5:
 
     # mh "Wo-Woah—!"
-    mh "¡Guau-!"
+    mh "¡Guau!"
 
 # game/code/d19/extended/d19s03_ext.rpy:741
 translate spanish d19s03_watersports_3dcd4a47:
@@ -1018,7 +1018,7 @@ translate spanish d19s03_dont_ask_184ad5f2:
 translate spanish d19s03_dont_ask_731de0d4:
 
     # mh "I can tell when you're lying to me, [mcname]. I won't push you, but again. I'm here."
-    mh "Me doy cuenta cuando me mientes, [mcname]. No te presionaré, pero de nuevo. aquí estoy."
+    mh "Me doy cuenta cuando me mientes, [mcname]. No te presionaré, pero de nuevo, aquí estoy."
 
 # game/code/d19/extended/d19s03_ext.rpy:892
 translate spanish d19s03_dont_ask_83078e78:
