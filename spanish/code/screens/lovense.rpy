@@ -130,15 +130,17 @@ translate spanish strings:
     old "Save"
     new "Guardar"
 
+
+
 # TODO: Translation updated at 2023-07-05 00:54
 
 translate spanish strings:
 
     # game/code/screens/lovense.rpy:74
     old "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
-    new "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
+    new "¡Consigue un juguete Lovense y disfruta de la mejor forma de experimentar Fetish Locator!"
 
     # game/code/screens/lovense.rpy:80
     old "Get a toy now"
-    new "Get a toy now"
+    new "Consigue un juguete ahora"
 

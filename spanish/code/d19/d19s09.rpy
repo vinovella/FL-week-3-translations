@@ -106,7 +106,7 @@ translate spanish d19s09_709de517:
 translate spanish d19s09_1cc1d8e8:
 
     # arj "No buts. Chop, chop."
-    arj "Sin peros. Picar, picar."
+    arj "Sin peros. Cortar, cortar."
 
 # game/code/d19/d19s09.rpy:204
 translate spanish d19s09_66a5117a:
@@ -232,7 +232,7 @@ translate spanish d19s09_df75062a:
 translate spanish d19s09_cdb83171:
 
     # arj "Stacy! Can you help me her—?"
-    arj "¡Stacy! ¿Puedes ayudarme con ella?"
+    arj "¡Stacy! ¿Puedes ayudarme?"
 
 # game/code/d19/d19s09.rpy:420
 translate spanish d19s09_335a5fd8:
@@ -352,7 +352,7 @@ translate spanish d19s09_296fcc3a:
 translate spanish d19s09_67143216:
 
     # mct "Not everything might be going my way right now, but damn I'm happy I have these two."
-    mct "Puede que no todo me vaya bien en este momento, pero maldita sea, estoy feliz de tener a estas dos."
+    mct "Puede que no todo me salga bien en este momento, pero maldita sea, estoy feliz de tener a estas dos."
 
 # game/code/d19/d19s09.rpy:505
 translate spanish d19s09_4f520593:
@@ -430,7 +430,7 @@ translate spanish d19s09_arj_rim_3ca863f6:
 translate spanish d19s09_arj_rim_59e9837b:
 
     # sy "Mm, I can feel you getting even harder."
-    sy "m, puedo sentir que te pones aún más duro."
+    sy "Mm, puedo sentir que te pones aún más duro."
 
 # game/code/d19/d19s09.rpy:660
 translate spanish d19s09_arj_rim_75d05492:
@@ -532,7 +532,7 @@ translate spanish d19s09_double_bj_e5d02404:
 translate spanish d19s09_double_bj_f608533b:
 
     # sy "Wow! I didn't know you were a squirter."
-    sy "¡Guau! No sabía que eras un squirter."
+    sy "¡Guau! No sabía que eras una squirter."
 
 # game/code/d19/d19s09.rpy:792
 translate spanish d19s09_double_bj_7313cafa:
@@ -718,7 +718,7 @@ translate spanish d19s09_end_e31bb4c4:
 translate spanish d19s09_end_a4b021ff:
 
     # sy "It is. We need to get AmRose to cook for us more."
-    sy "Lo es. Tenemos que pedirle a AmRose que cocine más para nosotros."
+    sy "Lo es. Tenemos que pedirle a AmRose que cocine para nosotros."
 
 # game/code/d19/d19s09.rpy:1067
 translate spanish d19s09_end_d6537549:
@@ -748,7 +748,7 @@ translate spanish d19s09_end_dc54b2b5:
 translate spanish d19s09_end_a2376b4a:
 
     # arj "What's there to talk about? We know where it is. I say we just destroy it."
-    arj "¿Qué hay para hablar? Sabemos dónde está. Yo digo que simplemente lo destruyamos."
+    arj "¿De qué hay que hablar? Sabemos dónde está. Yo digo que lo destruyamos."
 
 # game/code/d19/d19s09.rpy:1084
 translate spanish d19s09_end_8a44ad0b:
@@ -930,11 +930,11 @@ translate spanish strings:
 
     # game/code/d19/d19s09.rpy:844
     old "Fuck AmRose"
-    new "follar a AmRose"
+    new "Follar a AmRose"
 
     # game/code/d19/d19s09.rpy:844
     old "Fuck Stacy"
-    new "follar a Stacy"
+    new "Follar a Stacy"
 
     # game/code/d19/d19s09.rpy:899
     old "Switch"

@@ -514,5 +514,5 @@ translate spanish strings:
 
     # game/code/d16/d16s01.rpy:8
     old "Tuesday\nDay-16"
-    new "Martes\nDía-16"
+    new "Martes\nDía 16"
 

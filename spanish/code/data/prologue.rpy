@@ -12,7 +12,7 @@ translate spanish strings:
 
     # game/code/data/prologue.rpy:16
     old "Maria"
-    new "Maria"
+    new "María"
 
     # game/code/data/prologue.rpy:16
     old "Cynthia"
@@ -80,11 +80,11 @@ translate spanish strings:
 
     # game/code/data/prologue.rpy:45
     old "Footfetish"
-    new "Fetichismo de pies"
+    new "fetichismo de pies"
 
     # game/code/data/prologue.rpy:45
     old "Cumgarnish"
-    new "Guarnición de corrida"
+    new "Guarnición de semen"
 
     # game/code/data/prologue.rpy:45
     old "Fisting"
@@ -92,7 +92,7 @@ translate spanish strings:
 
     # game/code/data/prologue.rpy:45
     old "Pegging"
-    new "Pegging"
+    new "Inserción"
 
     # game/code/data/prologue.rpy:45
     old "Trans Content"
@@ -108,5 +108,5 @@ translate spanish strings:
 
     # game/code/data/prologue.rpy:79
     old "adult magazines"
-    new "Revistas para adultos"
+    new "revistas para adultos"
 

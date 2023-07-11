@@ -622,7 +622,7 @@ translate spanish d18s11b_continue_c381f198:
 translate spanish d18s11b_continue_5fec0262:
 
     # mc "Never Gonna Get It.{w} Never Gonna Get It."
-    mc "Nunca lo conseguirás.{w} Nunca lo conseguirás."
+    mc "Nunca la tendrás.{w} Nunca la tendrás."
 
 # game/code/d18/extended/d18s11b_ext.rpy:342
 translate spanish d18s11b_continue_7205e5fb:

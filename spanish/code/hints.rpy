@@ -392,7 +392,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Might lead to Min NTR content in the future."
-    new "Podría dar lugar a contenido NTR con Min en el futuro."
+    new "Podría dar lugar a contenido Min NTR en el futuro."
 
     # game/code/hints.rpy:5
     old "Definitely no Min NTR content in the future."
@@ -540,7 +540,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "You will have a one on one \"conversation\" with Lewald and \"teach\" her your ways. Easier to succeed."
-    new "Tendrás una \"conversación\" cara a cara w con Lewald y \"le enseñarás\" tus métodos. Es la forma más fácil de tener éxito."
+    new "Tendrás una \"conversación\" cara a cara con Lewald y \"le enseñarás\" tus métodos. Es la forma más fácil de tener éxito."
 
     # game/code/hints.rpy:5
     old "Will be harder to succeed, but potentially more enjoyable."
@@ -920,7 +920,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "You will act as a sub to Stacy (Pegging, Spanking, Name Calling, Rough Sex)."
-    new "Actuarás como suplente de Stacy (pegging, azotes, insultos, sexo duro)."
+    new "Actuarás como sumiso de Stacy (pegging, azotes, insultos, sexo duro)."
 
     # game/code/hints.rpy:5
     old "You will do piss play with Stacy (Pissing On/In Each Other, Piss Drinking)."
@@ -940,7 +940,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
-    new "Esta opción se salta la escena de la mamada. La escena lleva a Lyssa y MC al interior."
+    new "Esta opción se salta la escena de la mamada. La escena lleva a Lyssa y al MC al interior."
 
     # game/code/hints.rpy:5
     old "You do both."
@@ -964,7 +964,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Alexander (M) and Angela (Trans) will learn to Switch roles during sex."
-    new "Alexander (M) y Angela (Trans) aprenderán a cambiar de roles durante el sexo."
+    new "Alexander (M) y Ángela (Trans) aprenderán a cambiar de roles durante el sexo."
 
     # game/code/hints.rpy:5
     old "Don't spend time with any more couples, just continue your story"
@@ -976,7 +976,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "No scene with the Coopers."
-    new "No hay escena con las toneleras."
+    new "No hay escena con los Cooper."
 
     # game/code/hints.rpy:5
     old "You will fuck Lyssa's ass while Dorothy masturbates and Mikaela watches."

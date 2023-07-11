@@ -10,7 +10,7 @@ translate spanish d17s05mo_7c42b679:
 translate spanish d17s05mo_080365ff:
 
     # mc "Didn't know you were into bikes."
-    mc "No sabía que te gustaban las bicicletas."
+    mc "No sabía que te gustaban las motocicletas."
 
 # game/code/d17/d17s05mo.rpy:17
 translate spanish d17s05mo_4b634951:
@@ -82,7 +82,7 @@ translate spanish d17s05mo_7a6eb03f:
 translate spanish d17s05mo_a8d4a08e:
 
     # mc "Did you know that he was into bikes?"
-    mc "¿Sabías que le gustaban las bicicletas?"
+    mc "¿Sabías que le gustaban las motos?"
 
 # game/code/d17/d17s05mo.rpy:67
 translate spanish d17s05mo_d841c121:
@@ -112,7 +112,7 @@ translate spanish d17s05mo_f34b319c:
 translate spanish d17s05mo_e8ab7aaa:
 
     # mh "Can I get you two something to drink?"
-    mh "¿Puedo ofrecerles a ustedes dos algo de beber?"
+    mh "¿Puedo traerles algo de beber?"
 
 # game/code/d17/d17s05mo.rpy:82
 translate spanish d17s05mo_8916e817:
@@ -166,7 +166,7 @@ translate spanish d17s05mo_31338864:
 translate spanish d17s05mo_1edfc786:
 
     # mc "Oliver, listen to me. I told Lyssa."
-    mc "Óliver, escúchame. Le dije a Lyssa."
+    mc "Oliver, escúchame. Le dije a Lyssa."
 
 # game/code/d17/d17s05mo.rpy:114
 translate spanish d17s05mo_7d40cb23:
@@ -346,7 +346,7 @@ translate spanish d17s05mo_2b2c20be:
 translate spanish d17s05mo_8d26754f:
 
     # mh "So... Who went to the bathroom most recently?"
-    mh "Entonces... ¿Quién ha ido al baño más recientemente?"
+    mh "Entonces... ¿Quién ha ido al baño recientemente?"
 
 # game/code/d17/d17s05mo.rpy:189
 translate spanish d17s05mo_bc9eef2a:
@@ -370,7 +370,7 @@ translate spanish d17s05mo_918bef5e:
 translate spanish d17s05mo_30df9cf2:
 
     # mh "Well, the game starts by picking the most recent person that went uh...\"potty.\""
-    mh "Bueno, el juego comienza eligiendo a la persona más reciente que haya ido... \" al baño\."
+    mh "Bueno, el juego empieza eligiendo a la persona que haya ido recientemente... \" al baño\."
 
 # game/code/d17/d17s05mo.rpy:201
 translate spanish d17s05mo_77362314:
@@ -844,7 +844,7 @@ translate spanish d17s05mo_d09f83d7:
 translate spanish d17s05mo_f84ceed8:
 
     # mh "Wait. Oliver, are you a virgin?"
-    mh "WEspera Oliver, ¿eres virgen?"
+    mh "Espera Oliver, ¿eres virgen?"
 
 # game/code/d17/d17s05mo.rpy:425
 translate spanish d17s05mo_77a73769:
@@ -916,7 +916,7 @@ translate spanish d17s05mo_bdb9a6cc:
 translate spanish d17s05mo_cd1abb73:
 
     # op "I'd like that."
-    op "IMe gustaría seguir."
+    op "Me gustaría seguir."
 
 # game/code/d17/d17s05mo.rpy:457
 translate spanish d17s05mo_606e2d02:
@@ -1072,7 +1072,7 @@ translate spanish d17s05mo_3654d305:
 translate spanish d17s05mo_a7744d61:
 
     # mc "Look at that, you broke the poor thing."
-    mc "Mira eso, rompiste a la pobre."
+    mc "Mira eso, rompiste la pobre cosa."
 
 # game/code/d17/d17s05mo.rpy:572
 translate spanish d17s05mo_fe2d0d68:
@@ -1084,7 +1084,7 @@ translate spanish d17s05mo_fe2d0d68:
 translate spanish d17s05mo_8a2d0b06:
 
     # mc "We will. You should go lay down a bit."
-    mc "Lo haremos. Deberías ir a acostarte un poco."
+    mc "Lo haremos. Deberías ir a acostarte un rato."
 
 # game/code/d17/d17s05mo.rpy:578
 translate spanish d17s05mo_3a9ee234:
@@ -1120,7 +1120,7 @@ translate spanish d17s05mo_54073a56:
 translate spanish d17s05mo_aafb3761:
 
     # mh "Good night, Oliver. I'm sorry for the surprise kiss."
-    mh "Buenas noches, Óliver. Lo siento por el beso sorpresa."
+    mh "Buenas noches, Oliver. Lo siento por el beso sorpresa."
 
 # game/code/d17/d17s05mo.rpy:606
 translate spanish d17s05mo_5c26d245:

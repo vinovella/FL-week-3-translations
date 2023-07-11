@@ -28,7 +28,7 @@ translate spanish e02s05_d5c93542:
 translate spanish e02s05_08175c5a:
 
     # mh "There, there!"
-    mh "¡Ahí ahí!"
+    mh "¡Ahí, ahí!"
 
 # game/code/e02/e02s05.rpy:42
 translate spanish e02s05_7dc12445:
@@ -46,7 +46,7 @@ translate spanish e02s05_d114e89b:
 translate spanish e02s05_f0254908:
 
     # mc "Let me get this."
-    mc "Déjame conseguir esto."
+    mc "Déjame contestar."
 
 # game/code/e02/e02s05.rpy:53
 translate spanish e02s05_fbeb2221:
@@ -58,7 +58,7 @@ translate spanish e02s05_fbeb2221:
 translate spanish e02s05_9a3eb2bf:
 
     # mc "No, it's a few text messages from Angela."
-    mc "No, son algunos mensajes de texto de Angela."
+    mc "No, son algunos mensajes de texto de Ángela."
 
 # game/code/e02/e02s05.rpy:63
 translate spanish e02s05_2c654653:
@@ -118,7 +118,7 @@ translate spanish e02s05_c02ae933:
 translate spanish e02s05_f72ac1ed:
 
     # mh "JUST a shower. We're already late."
-    mh "OLO una ducha. Ya llegamos tarde."
+    mh "SÓLO una ducha. Ya llegamos tarde."
 
 # game/code/e02/e02s05.rpy:94
 translate spanish e02s05_aff072e3:
@@ -160,7 +160,7 @@ translate spanish e02s05_later_b527932b:
 translate spanish e02s05_later_de59d7ef:
 
     # dn "That sounds familiar."
-    dn "TEso suena familiar."
+    dn "Eso suena familiar."
 
 # game/code/e02/e02s05.rpy:132
 translate spanish e02s05_later_fdb74811:
@@ -172,7 +172,7 @@ translate spanish e02s05_later_fdb74811:
 translate spanish e02s05_later_78e55eea:
 
     # mc "I hope you don't mind if we join you."
-    mc "Espero que no te importe si nos unimos a ti."
+    mc "Espero que no les importe que nos unamos a ustedes."
 
 # game/code/e02/e02s05.rpy:135
 translate spanish e02s05_later_a04bd730:
@@ -274,7 +274,7 @@ translate spanish e02s05_later_4f33fb7c:
 translate spanish e02s05_later_5ee4ddcf:
 
     # fc "Sure, that sounds good. Why don't we all go around."
-    fc "Claro, eso suena bien. ¿Por qué no presentamos todos?"
+    fc "Claro, eso suena bien. ¿Por qué no nos presentamos todos?"
 
 # game/code/e02/e02s05.rpy:177
 translate spanish e02s05_later_4c21f674:
@@ -394,7 +394,7 @@ translate spanish e02s05_later_37b345bf:
 translate spanish e02s05_later_6146f097:
 
     # fc "I can do two things at once."
-    fc "Puedo hacer dos cosas a la vez."
+    fc "Puedo hacer las dos cosas a la vez."
 
 # game/code/e02/e02s05.rpy:218
 translate spanish e02s05_later_d3881879:
@@ -448,7 +448,7 @@ translate spanish e02s05_later_aedd13d4:
 translate spanish e02s05_later_214e3210:
 
     # mc "Wow, that's kinda fucked up."
-    mc "Wow, eso es un poco jodido."
+    mc "Vaya, eso es un poco jodido."
 
 # game/code/e02/e02s05.rpy:243
 translate spanish e02s05_later_f137d14d:
@@ -520,7 +520,7 @@ translate spanish e02s05_later_4d6c00b5:
 translate spanish e02s05_later_3a8e84ea:
 
     # ms "We're usually on the slopes or in the sauna."
-    ms "We're usually on the slopes or in the sauna."
+    ms "Solemos estar en las pistas o en el sauna."
 
 # game/code/e02/e02s05.rpy:277
 translate spanish e02s05_later_8d4da17a:
@@ -586,13 +586,13 @@ translate spanish e02s05_menu_c17ef8ec:
 translate spanish e02s05_menu_db17b830:
 
     # mh "First, we get something to eat. I'm famished."
-    mh "Primero, conseguimos algo para comer. Estoy famélicoa."
+    mh "Primero, vamos a comer algo. Estoy hambrienta."
 
 # game/code/e02/e02s05.rpy:322
 translate spanish e02s05_menu_dd5d3bd3:
 
     # mc "Oh, that is a good idea."
-    mc "Oh, that is a good idea."
+    mc "Oh, es una buena idea."
 
 # game/code/e02/e02s05.rpy:325
 translate spanish e02s05_menu_68625f7d:
@@ -610,7 +610,7 @@ translate spanish e02s05_menu_3229c053:
 translate spanish e02s05_menu_8bb50aca:
 
     # mh "You can decide."
-    mh "puedes decidir"
+    mh "Puedes decidir"
 
 # game/code/e02/e02s05.rpy:334
 translate spanish e02s05_menu_37338b68:

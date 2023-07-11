@@ -58,13 +58,13 @@ translate spanish e02s06_5fc91a1d:
 translate spanish e02s06_edbd18b1:
 
     # mh "Please come in..."
-    mh "Por favor entra..."
+    mh "Por favor, pasen..."
 
 # game/code/e02/e02s06.rpy:101
 translate spanish e02s06_cb3e24bc:
 
     # mh "Here you are, Frank. Nothing like a Chateau LaRose after a long day on the slopes."
-    mh "Aquí estás, Frank. Nada como un Chateau LaRose después de un largo día en las pistas."
+    mh "Aquí tienes, Frank. Nada como un Chateau LaRose después de un largo día en las pistas."
 
 # game/code/e02/e02s06.rpy:103
 translate spanish e02s06_3e64451a:
@@ -178,7 +178,7 @@ translate spanish e02s06_8249bb1c:
 translate spanish e02s06_d44fab26:
 
     # ac "So we even brought these to go the extra mile."
-    ac "Así que incluso trajimos esos para hacer un esfuerzo adicional."
+    ac "Así que incluso trajimos esto para hacer un esfuerzo adicional."
 
 # game/code/e02/e02s06.rpy:160
 translate spanish e02s06_4bc61cca:
@@ -298,7 +298,7 @@ translate spanish e02s06_c670df44:
 translate spanish e02s06_5db27f6f:
 
     # fc "Let's see, we were high-school sweethearts, we were both in college when I inherited a farm from the family."
-    fc "A ver, éramos novios en la secundaria, ambos estábamos en la universidad cuando heredé una granja de la familia."
+    fc "A ver, éramos novios en la secundaria, ambos estábamos en la universidad cuando heredé la granja de la familia."
 
 # game/code/e02/e02s06.rpy:202
 translate spanish e02s06_e6afda26:
@@ -322,7 +322,7 @@ translate spanish e02s06_c6c19c2b:
 translate spanish e02s06_45cd967b:
 
     # mct "Woah. Eight years together..."
-    mct "Guau. Ocho años juntos..."
+    mct "Vaya. Ocho años juntos..."
 
 # game/code/e02/e02s06.rpy:211
 translate spanish e02s06_3b669c95:
@@ -406,7 +406,7 @@ translate spanish e02s06_8c9392c2:
 translate spanish e02s06_fc9726bc:
 
     # mc "I'm not saying you separate or anything, but maybe you find some people that could help spice things up with you."
-    mc "No estoy diciendo que se separen ni nada por el estilo, pero tal vez encuentres a algunas personas que puedan ayudar a animar las cosas contigo."
+    mc "No digo que se separen ni nada de eso, pero tal vez encuentren gente que pueda ayudar a animar las cosas con ustedes."
 
 # game/code/e02/e02s06.rpy:246
 translate spanish e02s06_c39367a9:
@@ -580,7 +580,7 @@ translate spanish e02s06_experiment_cd724662:
 translate spanish e02s06_experiment_bafaa3be:
 
     # fc "Well don't sound too excited."
-    fc "Bueno, no suenes muy emocionado."
+    fc "Bueno, no suenes muy emocionada."
 
 # game/code/e02/e02s06.rpy:349
 translate spanish e02s06_experiment_4cd76d9a:
@@ -598,7 +598,7 @@ translate spanish e02s06_experiment_5389d15d:
 translate spanish e02s06_experiment_75b0b3c5:
 
     # mc "Shall we put our teachings into practice?"
-    mc "Shall we put our teachings into practice?"
+    mc "¿Pondremos en práctica nuestras enseñanzas?"
 
 # game/code/e02/e02s06.rpy:356
 translate spanish e02s06_experiment_394e7cdf:
@@ -640,7 +640,7 @@ translate spanish e02s06_experiment_ccb6160f:
 translate spanish e02s06_experiment_8053ccb7:
 
     # ac "Mind if I borrow your horse for a moment, partner?"
-    ac "¿Te importa si tomo prestado tu caballo por un momento, compañero?"
+    ac "¿Te importa si tomo prestado tu caballo por un momento, compañera?"
 
 # game/code/e02/e02s06.rpy:391
 translate spanish e02s06_experiment_e879797e:
@@ -916,7 +916,7 @@ translate spanish e02s06_experiment_846bce54:
 translate spanish e02s06_experiment_3fc324ff:
 
     # ac "Oh fuck."
-    ac "Oh, mierda"
+    ac "Oh, mierda."
 
 # game/code/e02/e02s06.rpy:565
 translate spanish e02s06_experiment_22c8c4d5:
@@ -1024,7 +1024,7 @@ translate spanish e02s06_experiment_6c72a833:
 translate spanish e02s06_experiment_dfe9ee84:
 
     # ac "Mmm... inside... inside my mouth!"
-    ac "Mmm... dentro... dentro de mi boca!"
+    ac "Mmm... dentro... ¡dentro de mi boca!"
 
 # game/code/e02/e02s06.rpy:631
 translate spanish e02s06_experiment_5e48bfe9:
@@ -1072,7 +1072,7 @@ translate spanish e02s06_experiment_3690a354:
 translate spanish e02s06_experiment_beff3776:
 
     # ac "Oooh. Another strong cock... just for me..."
-    ac "Oooh. Otra polla dura... solo para mi..."
+    ac "Oooh. Otra polla dura... sólo para mi..."
 
 # game/code/e02/e02s06.rpy:662
 translate spanish e02s06_experiment_97d0131f:
@@ -1102,7 +1102,7 @@ translate spanish e02s06_experiment_b6e37d7e:
 translate spanish e02s06_experiment_a31340dd:
 
     # mc "Really?"
-    mc "¿De verdad??"
+    mc "¿De verdad?"
 
 # game/code/e02/e02s06.rpy:690
 translate spanish e02s06_experiment_399e658c:
@@ -1168,7 +1168,7 @@ translate spanish e02s06_experiment_4a4f0dfd:
 translate spanish e02s06_experiment_656c46cd:
 
     # ac "Jesus Christ!"
-    ac "Jesucristo!"
+    ac "¡Jesucristo!"
 
 # game/code/e02/e02s06.rpy:748
 translate spanish e02s06_experiment_eb455ca7:
@@ -1204,7 +1204,7 @@ translate spanish e02s06_experiment_650bce16:
 translate spanish e02s06_experiment_8dbbbe79:
 
     # fc "Wait a minute, we haven't come yet. Isn't that right?"
-    fc "Espera un momento, aún no hemos corrido. ¿No es así?"
+    fc "Espera un momento, aún no nos hemos corrido. ¿No es así?"
 
 # game/code/e02/e02s06.rpy:821
 translate spanish e02s06_experiment_30955397:
@@ -1252,7 +1252,7 @@ translate spanish e02s06_experiment_e0eb2005:
 translate spanish e02s06_sex_end_f6c7bad6:
 
     # fc "Here's to our hosts. Lyssa, [mcname], you two went out on a limb for us. We really appreciate it."
-    fc "Esto es para nuestros anfitriones. Lyssa, [mcname], ustedes dos se arriesgaron por nosotros. Nosotros realmente lo apreciamos."
+    fc "Brindemos por nuestros anfitriones. Lyssa, [mcname], ustedes dos se arriesgaron por nosotros. Realmente lo apreciamos."
 
 # game/code/e02/e02s06.rpy:854
 translate spanish e02s06_sex_end_697e1a77:
@@ -1282,7 +1282,7 @@ translate spanish e02s06_sex_end_7b46d02a:
 translate spanish e02s06_sex_end_453947db:
 
     # mh "Cheers to the Snowy Peaks Resort!"
-    mh "¡Brindamos por el complejo \"Picos Nevados\"!"
+    mh "¡Brindemos por el ¡Complejo Picos Nevados!."
 
 # game/code/e02/e02s06.rpy:866
 translate spanish e02s06_sex_end_98f299e8:

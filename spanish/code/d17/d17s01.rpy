@@ -796,7 +796,7 @@ translate spanish d17s01_ntr_f6edf5ae:
 translate spanish d17s01_ntr_98e109a3:
 
     # lc "Fetish Locator?"
-    lc "¿Localizador de Fetiche?"
+    lc "¿Localizador de Fetiches?"
 
 # game/code/d17/d17s01.rpy:469
 translate spanish d17s01_ntr_97a8ccdc:
@@ -1396,7 +1396,7 @@ translate spanish d17s01_anal_sex_0e7836ca:
 translate spanish d17s01_anal_sex_7fed454e:
 
     # arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX LIKE I WAS YOUR SISTER!!!"
-    arj "¡¡¡AAOOOAAHoooaahhh!!! SÍ!!!{w} ¡¡¡CREAMPIE EN MI CAJA SUCIA COMO SI YO FUERA TU HERMANA!!!"
+    arj "¡¡¡AAOOOAAHoooaahhh!!! ¡¡¡SÍ!!!{w} ¡¡¡CREAMPIE EN MI CAJA SUCIA COMO SI YO FUERA TU HERMANA!!!"
 
 # game/code/d17/d17s01.rpy:888
 translate spanish d17s01_anal_sex_6669855a:
@@ -1474,7 +1474,7 @@ translate spanish d17s01_anal_sex_f66617d4_1:
 translate spanish d17s01_anal_sex_8c25dd17_1:
 
     # mc "I'm about to dump a load of cum up her little fuckhole..."
-    mc "Estoy a punto de descargar un montón de semen en su pequeño agujero de mierda..."
+    mc "Estoy a punto de descargar un montón de semen en tu pequeño agujero de mierda..."
 
 # game/code/d17/d17s01.rpy:931
 translate spanish d17s01_anal_sex_8f1e981f_1:
@@ -1504,7 +1504,7 @@ translate spanish d17s01_anal_sex_a1727faa:
 translate spanish d17s01_anal_sex_b4a5e3fe:
 
     # arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX!!!"
-    arj "¡¡¡AAOOOAAHoooaahhh!!! SÍ!!!{w} ¡¡¡CREAMPIE MI CAJA SUCIA!!!"
+    arj "¡¡¡AAOOOAAHoooaahhh!!! ¡¡¡SÍ!!!{w} ¡¡¡CREAMPIE MI CAJA SUCIA!!!"
 
 # game/code/d17/d17s01.rpy:971
 translate spanish d17s01_end_62d1e03e:

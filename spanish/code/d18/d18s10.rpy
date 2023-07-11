@@ -574,7 +574,7 @@ translate spanish d18s10_bdsm_53a3ec1c:
 translate spanish d18s10_bdsm_2e87926c:
 
     # lc "Fuck me like a man, damn it!{w} DOMINATE ME YOU BITCH!"
-    lc "¡Fóllame como un hombre, maldita sea! {w} ¡DOMINAME PERRA!"
+    lc "¡Fóllame como un hombre, maldita sea! {w} ¡DOMÍNAME PERRA!"
 
 # game/code/d18/d18s10.rpy:747
 translate spanish d18s10_bdsm_d873e4b4:
@@ -628,7 +628,7 @@ translate spanish d18s10_bdsm_3534c286:
 translate spanish d18s10_bdsm_885b1723:
 
     # pb "NOT FUCKING GOOD ENOUGH. TRY AGAIN!"
-    pb "NO LO SUFICIENTEMENTE BUENO. ¡INTENTA OTRA VEZ!"
+    pb "NO ES LO SUFICIENTEMENTE BUENO. ¡INTÉNTALO DE NUEVO!"
 
 # game/code/d18/d18s10.rpy:775
 translate spanish d18s10_bdsm_6ac787cc:
@@ -640,7 +640,7 @@ translate spanish d18s10_bdsm_6ac787cc:
 translate spanish d18s10_bdsm_3a6c4b37:
 
     # pb "TRY AGAIN"
-    pb "INTENTA OTRA VEZ"
+    pb "INTÉNTALO DE NUEVO"
 
 # game/code/d18/d18s10.rpy:777
 translate spanish d18s10_bdsm_69ad9922:
@@ -712,7 +712,7 @@ translate spanish d18s10_end_5750a146:
 translate spanish d18s10_end_5ce8d570:
 
     # mct "Lydia?!{w} Of all the fucking people in the fucking world what the flying fuck!!!"
-    mct "¡¿Lydia?!{w} ¡¡¡De toda la puta gente del puto mundo qué mierda!!!"
+    mct "¡¿Lydia?!{w} De toda la puta gente del puto mundo ¡¡¡qué mierda!!!"
 
 # game/code/d18/d18s10.rpy:841
 translate spanish d18s10_end_9e1aefaf:
@@ -758,5 +758,5 @@ translate spanish strings:
 
     # game/code/d18/d18s10.rpy:246
     old "Just Sex, a lot of Sex"
-    new "JSolo sexo, mucho sexo"
+    new "Sólo sexo, mucho sexo"
 

@@ -22,7 +22,7 @@ translate spanish e02s03_b500409f:
 translate spanish e02s03_c0728224:
 
     # mh "Haha. Thank you. In all fairness to you, I think you were a little distracted."
-    mh "Ja ja. Gracias. Para ser justos contigo, creo que estabas un poco distraída."
+    mh "Ja ja. Gracias. Para ser justa contigo, creo que estabas un poco distraído."
 
 # game/code/e02/e02s03.rpy:48
 translate spanish e02s03_1fb28747:
@@ -82,7 +82,7 @@ translate spanish e02s03_ff8a0d90:
 translate spanish e02s03_744d3776:
 
     # mc "Mmm. I don't think so."
-    mc "Mmm. Mmm. No lo cro."
+    mc "Mmm. No lo creo."
 
 # game/code/e02/e02s03.rpy:79
 translate spanish e02s03_8307bafc:
@@ -100,7 +100,7 @@ translate spanish e02s03_1492ee63:
 translate spanish e02s03_e71ad64c:
 
     # mh "Mmm, like we were meant to be."
-    mh "Mmm, como estábamos destinados a ser."
+    mh "Mmm, como si estuviéramos hechos el uno para el otro."
 
 # game/code/e02/e02s03.rpy:90
 translate spanish e02s03_a0ccd0f2:
@@ -172,7 +172,7 @@ translate spanish e02s03_e25a0a7c:
 translate spanish e02s03_e0e3b8b1:
 
     # fc "We'll... oh. Um well we will figure it out."
-    fc "Nosotros... ay. Bueno, lo resolveremos."
+    fc "Nosotros... oh. Bueno, lo resolveremos."
 
 # game/code/e02/e02s03.rpy:132
 translate spanish e02s03_f3787c3d:
@@ -340,7 +340,7 @@ translate spanish e02s03_4d36d26c:
 translate spanish e02s03_59d90154:
 
     # mh "Are you sure we wouldn't be imposing?"
-    mh "¿Estás segura de que no estaríamos imponiendo?"
+    mh "¿Estás seguro de que no estaríamos imponiendo?"
 
 # game/code/e02/e02s03.rpy:217
 translate spanish e02s03_0c7cde4c:
@@ -352,7 +352,7 @@ translate spanish e02s03_0c7cde4c:
 translate spanish e02s03_2c7c87ef:
 
     # fc "That's kind of you, but I think it would be fine. Especially if you met the other couples."
-    fc "TEso es amable de tu parte, pero creo que estaría bien. Especialmente si conociste a las otras parejas."
+    fc "Es muy amable de tu parte, pero creo que estaría bien. Especialmente si conocieras a las otras parejas."
 
 # game/code/e02/e02s03.rpy:222
 translate spanish e02s03_1f215d3a:
@@ -388,7 +388,7 @@ translate spanish e02s03_29bf3d83:
 translate spanish e02s03_86f8c829:
 
     # ac "We try to focus on our problems, but well... then sometimes we only focus on those, instead of solutions."
-    ac "Tratamos de enfocarnos en nuestros problemas, pero bueno... entonces a veces solo nos enfocamos en esos, en vez de soluciones."
+    ac "Intentamos centrarnos en nuestros problemas, pero bueno... a veces sólo nos centramos en ellos, en lugar de en las soluciones."
 
 # game/code/e02/e02s03.rpy:241
 translate spanish e02s03_b406be32:
@@ -826,7 +826,7 @@ translate spanish e02s03_cum_again_6b5c5b0f:
 translate spanish e02s03_end_eb1a1071:
 
     # mc "Sweet dreams, my dear."
-    mc "Dulces sueños, querido."
+    mc "Dulces sueños, querida."
 
 # game/code/e02/e02s03.rpy:540
 translate spanish e02s03_end_152bc6cb:
@@ -838,7 +838,7 @@ translate spanish strings:
 
     # game/code/e02/e02s03.rpy:271
     old "In the lodge"
-    new "En el albergue"
+    new "En la cabaña"
 
     # game/code/e02/e02s03.rpy:466
     old "I think I can make you cum again"

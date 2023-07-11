@@ -4,7 +4,7 @@
 translate spanish d17s07_ext_360a8ee5:
 
     # mct "Seems like Jessie sent me a text. \"Can you come over? Please.\""
-    mct "Parece que Jessie me envió un mensaje de texto. \"¿Puedes venir? Por favor. \""
+    mct "Parece que Jessie me envió un mensaje de texto. \"¿Puedes venir? Por favor.\""
 
 # game/code/d17/extended/d17s07_ext.rpy:55
 translate spanish d17s07_ext_cb7a1173:
@@ -52,7 +52,7 @@ translate spanish d17s07_ext_7643c293:
 translate spanish d17s07_ext_2ad319a8:
 
     # jf "I was just thinking."
-    jf "Solo estaba pensando."
+    jf "Sólo estaba pensando."
 
 # game/code/d17/extended/d17s07_ext.rpy:89
 translate spanish d17s07_ext_9221b22f:
@@ -244,7 +244,7 @@ translate spanish d17s07_ext_b27ba66d:
 translate spanish d17s07_ext_d6f01205:
 
     # mc "Jeez, I was just trying to bring a little levity into the situation."
-    mc "Dios, solo estaba tratando de traer un poco de ligereza a la situación."
+    mc "Dios, sólo estaba tratando de traer un poco de ligereza a la situación."
 
 # game/code/d17/extended/d17s07_ext.rpy:348
 translate spanish d17s07_ext_63fc1ff1:

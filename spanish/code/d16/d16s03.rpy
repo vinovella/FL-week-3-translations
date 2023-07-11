@@ -1420,7 +1420,7 @@ translate spanish d16s03_8d024ff5:
 translate spanish d16s03_4cde0d3d:
 
     # lc "Please don't arrange it. I'm not anywhere near ready to experience that."
-    lc "Por favor, no lo arregles. No estoy ni cerca de estar lista para experimentar eso."
+    lc "Por favor, no lo organice. No estoy ni cerca de estar lista para experimentar eso."
 
 # game/code/d16/d16s03.rpy:791
 translate spanish d16s03_f42fb501:
@@ -1540,7 +1540,7 @@ translate spanish d16s03_9fc4da3f:
 translate spanish d16s03_b86e49a4:
 
     # mc "Well, most of the time. This fucking cage makes me feel like a lot less than that."
-    mc "bueno, la mayoría del tiempo. Esta puta jaula me hace sentir mucho menos que eso."
+    mc "Bueno, la mayoría del tiempo. Esta puta jaula me hace sentir mucho menos que eso."
 
 # game/code/d16/d16s03.rpy:853
 translate spanish d16s03_90fc93a6:
@@ -1822,7 +1822,7 @@ translate spanish d16s03_5188117d:
 translate spanish d16s03_70aef97a:
 
     # lc "Yeah, I know. It's just..."
-    lc "Si lo sé. Es solo..."
+    lc "Sí, lo sé. Es sólo..."
 
 # game/code/d16/d16s03.rpy:1006
 translate spanish d16s03_9e376fcc:
@@ -1870,7 +1870,7 @@ translate spanish d16s03_096254f2:
 translate spanish d16s03_c933126b:
 
     # mc "I just want to say that I'm sorry if I upset you."
-    mc "Solo quiero decirte que lo siento si te molesté."
+    mc "Sólo quiero decir que siento si te he molestado."
 
 # game/code/d16/d16s03.rpy:1028
 translate spanish d16s03_2f72e945:
@@ -1942,7 +1942,7 @@ translate spanish d16s03_7a1f3f0f:
 translate spanish d16s03_9e0d2c96:
 
     # lc "Right. Go go go!"
-    lc "Bien. ¡Ve! Ve! Ve!"
+    lc "Bien. ¡Ve! ¡Ve! ¡Ve!"
 
 translate spanish strings:
 

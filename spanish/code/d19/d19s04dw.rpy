@@ -262,7 +262,7 @@ translate spanish d19s04dw_7c05a488:
 translate spanish d19s04dw_232d30a9:
 
     # dw "*Breathy moans* Fuck..."
-    dw "*BGemidos entrecortados* Mierda..."
+    dw "*Gemidos entrecortados* Mierda..."
 
 # game/code/d19/d19s04dw.rpy:341
 translate spanish d19s04dw_a33f6498:

@@ -88,7 +88,7 @@ translate spanish d15s06_d7c09966:
 translate spanish d15s06_a6953c1d_1:
 
     # mc "Hey. Lyssa?"
-    mc "Ey. ¿Lisa?"
+    mc "Ey. ¿Lyssa?"
 
 # game/code/d15/d15s06.rpy:121
 translate spanish d15s06_bc672ce4_1:
@@ -136,7 +136,7 @@ translate spanish d15s06_eb834df9_1:
 translate spanish d15s06_197edeec_1:
 
     # mh "Yes. Don't worry about dressing up. You'll be fine as is."
-    mh "Sí. No te preocupes por vestirte. Estarás bien como está."
+    mh "Sí. No te preocupes por vestirte. Estarás bien como estás."
 
 # game/code/d15/d15s06.rpy:136
 translate spanish d15s06_2cec29e2_1:
@@ -148,7 +148,7 @@ translate spanish d15s06_2cec29e2_1:
 translate spanish d15s06_4643500e:
 
     # mh "{i}Even{/i} better."
-    mh "{i}Incluso{/i} mejor."
+    mh "{i}Mucho{/i} mejor."
 
 # game/code/d15/d15s06.rpy:140
 translate spanish d15s06_069a5faa:
@@ -1694,7 +1694,7 @@ translate spanish strings:
 
     # game/code/d15/d15s06.rpy:457
     old "Let her eat your ass"
-    new "Déjala que te coma el culo"
+    new "Deja que te coma el culo"
 
     # game/code/d15/d15s06.rpy:530
     old "Allow Lyssa to take your anal cherry"
