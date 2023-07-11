@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/code/screens/extended/screens_fl.rpy:19
     old "CG Gallery"
-    new "Galería CG"
+    new "Galería"
 
     # game/code/screens/extended/screens_fl.rpy:25
     old "Replay Room"
@@ -16,11 +16,11 @@ translate spanish strings:
 
     # game/code/screens/extended/screens_fl.rpy:38
     old "Hints on"
-    new "Consejos\nactivados"
+    new "Sugerencias activadas"
 
     # game/code/screens/extended/screens_fl.rpy:38
     old "Hints off"
-    new "Consejos\ndesactivados"
+    new "Sugerencias desactivadas"
 
     # game/code/screens/extended/screens_fl.rpy:51
     old "Page [page]"
@@ -37,3 +37,4 @@ translate spanish strings:
     # game/code/screens/extended/screens_fl.rpy:135
     old "Coming Soon"
     new "Próximamente"
+
