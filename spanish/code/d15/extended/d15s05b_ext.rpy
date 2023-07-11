@@ -2386,7 +2386,7 @@ translate spanish strings:
 
     # game/code/d15/extended/d15s05b_ext.rpy:269
     old "Inquire further"
-    new "Consultar más"
+    new "Investiga más"
 
     # game/code/d15/extended/d15s05b_ext.rpy:269
     old "Let it go"
