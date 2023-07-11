@@ -250,7 +250,7 @@ translate spanish d17s08_a0e05134:
 translate spanish d17s08_1f7d3857:
 
     # mc "So, the first day I got back from being sick - shortly after I found out about Fetish Locator..."
-    mc "Entonces, el primer día que volví de estar enfermo, poco después me enteré del Localizador de Fetiche..."
+    mc "Entonces, el primer día que volví de estar enfermo, poco después me enteré del Localizador de Fetiches..."
 
 # game/code/d17/d17s08.rpy:176
 translate spanish d17s08_01bf0ad5:
@@ -358,7 +358,7 @@ translate spanish d17s08_c7a05202:
 translate spanish d17s08_92c2a729:
 
     # lc "Oh, wow. Did they notice you?"
-    lc "h, vaya. ¿Se dieron cuenta de ti?"
+    lc "Oh, vaya. ¿Se dieron cuenta de ti?"
 
 # game/code/d17/d17s08.rpy:229
 translate spanish d17s08_558d79f6:
@@ -844,7 +844,7 @@ translate spanish replay_d17s08_bddb1774:
 translate spanish replay_d17s08_0acdabbb:
 
     # sy "Alright. I'll give you the benefit of the doubt."
-    sy "stá bien. Te daré el beneficio de la duda."
+    sy "Está bien. Te daré el beneficio de la duda."
 
 # game/code/d17/d17s08.rpy:513
 translate spanish replay_d17s08_afad4af1:
@@ -868,19 +868,19 @@ translate spanish replay_d17s08_ccdf5709:
 translate spanish replay_d17s08_ac4ccd5d:
 
     # sy "That shiba inu we're trying to find. You know the one I'm talking about."
-    sy "Ese shiba inu que estamos tratando de encontrar. Sabes de lo que estoy hablando."
+    sy "Ese Shiba inu que estamos tratando de encontrar. Sabes de lo que estoy hablando."
 
 # game/code/d17/d17s08.rpy:523
 translate spanish replay_d17s08_46a1f2b0:
 
     # mct "Oh, right. Fetish Locator might be listening."
-    mct "Oh, cierto. El Localizador de Fetiche podría estar escuchando."
+    mct "Oh, cierto. El Localizador de Fetiches podría estar escuchando."
 
 # game/code/d17/d17s08.rpy:525
 translate spanish replay_d17s08_60658749:
 
     # mct "Oh, right. Retention might be listening."
-    mct "Correcto. La retención podría estar escuchando."
+    mct "Oh, cierto. La retención podría estar escuchando."
 
 # game/code/d17/d17s08.rpy:527
 translate spanish replay_d17s08_5850c7f6:
@@ -934,13 +934,13 @@ translate spanish replay_d17s08_242324f2:
 translate spanish replay_d17s08_96f753dd:
 
     # mc "Hey sexy lady."
-    mc "Hola señora sexy."
+    mc "Hola, dama sexy."
 
 # game/code/d17/d17s08.rpy:554
 translate spanish replay_d17s08_63a926ed:
 
     # lc "Hey yourself, naked man."
-    lc "Oye igual a ti, hombre desnudo."
+    lc "Hola, hombre desnudo."
 
 # game/code/d17/d17s08.rpy:558
 translate spanish replay_d17s08_2376c239:
@@ -952,7 +952,7 @@ translate spanish replay_d17s08_2376c239:
 translate spanish replay_d17s08_59332753:
 
     # lc "Not that I didn't want to be here when you came, but I'm tired."
-    lc "No es que no quisiera estar aquí cuando corrieras, pero estoy cansada."
+    lc "No es que no quisiera estar aquí cuando te corras, pero estoy cansada."
 
 # game/code/d17/d17s08.rpy:563
 translate spanish replay_d17s08_653e0ff8:
@@ -1150,7 +1150,7 @@ translate spanish replay_d17s08_c17ef8ec:
 translate spanish replay_d17s08_78cf9394:
 
     # lc "I want you to help me create my Fetish Locator account."
-    lc "Quiero que me ayudes a crear mi cuenta del Localizador de Fetiche."
+    lc "Quiero que me ayudes a crear mi cuenta del Localizador de Fetiches."
 
 # game/code/d17/d17s08.rpy:667
 translate spanish replay_d17s08_55d60f89:
