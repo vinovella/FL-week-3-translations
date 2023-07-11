@@ -4,7 +4,7 @@
 translate spanish d19s01lc_31455c3a:
 
     # mc "Ugh.{w} Did anyone get the number of that bus?"
-    mc "Uf. {w} ¿Alguien consiguió el número de ese autobús?"
+    mc "Ugh. {w} ¿Alguien consiguió el número de ese autobús?"
 
 # game/code/d19/d19s01lc.rpy:19
 translate spanish d19s01lc_7459fb33:
@@ -22,7 +22,7 @@ translate spanish d19s01lc_05500ff6:
 translate spanish d19s01lc_f6a1472b:
 
     # mc "Lydia?!{w} What are you doing in jail?"
-    mc "¿Lydia?!{w} ¿Qué haces en la cárcel?"
+    mc "¡¿Lydia?!{w} ¿Qué haces en la cárcel?"
 
 # game/code/d19/d19s01lc.rpy:30
 translate spanish d19s01lc_dbe7f12f:
@@ -136,7 +136,7 @@ translate spanish d19s01lc_ea877ed5:
 translate spanish d19s01lc_1b649c88:
 
     # lc "Yeah. OH."
-    lc "Só. OH."
+    lc "Sí. OH."
 
 # game/code/d19/d19s01lc.rpy:80
 translate spanish d19s01lc_977033bd:
@@ -154,7 +154,7 @@ translate spanish d19s01lc_9c20bd51:
 translate spanish d19s01lc_c4a90e49:
 
     # mc "I don't understand.{w} How could you-"
-    mc "o entiendo. {w} ¿Cómo pudiste?"
+    mc "No entiendo. {w} ¿Cómo pudiste?"
 
 # game/code/d19/d19s01lc.rpy:89
 translate spanish d19s01lc_82448b92:
@@ -166,13 +166,13 @@ translate spanish d19s01lc_82448b92:
 translate spanish d19s01lc_6a07d043:
 
     # mc "Fetish Locator?{w} The VIP Program!{w} You've been manipulating me since the beginning?!"
-    mc "¿El localizador de fetiches? {w} ¡El programa VIP! {w} ¡¿Me has estado manipulando desde el principio?!"
+    mc "¡¿El Localizador de Fetiches?! {w} ¡¿El programa VIP?! {w} ¡¿Me has estado manipulando desde el principio?!"
 
 # game/code/d19/d19s01lc.rpy:95
 translate spanish d19s01lc_93456400:
 
     # mc "Fetish Locator?{w} The Retention Program!{w} Blackmailing people was fun for you?!"
-    mc "¿El localizador de fetiches? {w} ¡¿El programa de retención! {w} ¡¿Extorsionar a la gente fue divertido para ti?!"
+    mc "¡¿El Localizador de Fetiches?! {w} ¡¿El programa de retención?! {w} ¡¿Extorsionar a la gente fue divertido para ti?!"
 
 # game/code/d19/d19s01lc.rpy:98
 translate spanish d19s01lc_fdf38331:
@@ -286,7 +286,7 @@ translate spanish d19s01lc_ff0e2253:
 translate spanish d19s01lc_a99c56fc:
 
     # lc "I could watch and learn and experience without being involved."
-    lc "Podía mirar y aprender y experimentar sin estar involucrada."
+    lc "Podía mirar, aprender y experimentar sin estar involucrada."
 
 # game/code/d19/d19s01lc.rpy:144
 translate spanish d19s01lc_e3d87039:
@@ -298,13 +298,13 @@ translate spanish d19s01lc_e3d87039:
 translate spanish d19s01lc_dce2dd8b:
 
     # lc "It never even occurred to me that anyone could get harmed by this. Jerome told me it was all secure and encrypted and 100%% safe."
-    lc "Ni siquiera se me ocurrió que alguien podría salir perjudicado por esto. Jerome me dijo que todo estaba seguro y encriptado y 100%% seguro"
+    lc "Nunca se me ocurrió que alguien pudiera salir perjudicado por esto. Jerome me dijo que todo estaba seguro y encriptado y que era 100% seguro."
 
 # game/code/d19/d19s01lc.rpy:148
 translate spanish d19s01lc_57c72c9c:
 
     # mc "JEROME?!{w} What did that asshole have to do with this?"
-    mc "¿JEROME?!{w} ¿Qué tiene que ver ese imbécil con esto?"
+    mc "¡¿JEROME?!{w} ¿Qué tiene que ver ese imbécil con esto?"
 
 # game/code/d19/d19s01lc.rpy:151
 translate spanish d19s01lc_ffd73934:
@@ -322,7 +322,7 @@ translate spanish d19s01lc_fb7e8aec:
 translate spanish d19s01lc_afd98814:
 
     # mc "So, Jerome's behind all this?{w} I can break him."
-    mc "Entonces, ¿Jerome está detrás de todo esto? Puedo quebrarlo."
+    mc "Entonces, ¿Jerome está detrás de todo esto?{w} Puedo quebrarlo."
 
 # game/code/d19/d19s01lc.rpy:158
 translate spanish d19s01lc_cc0b9a5b:
@@ -376,7 +376,7 @@ translate spanish d19s01lc_169e4149:
 translate spanish d19s01lc_2bd4891e:
 
     # lc "I mean, that's what he called it. It wouldn't pass as a human, but it runs the app."
-    lc "Quiero decir, así es como lo llamó. No pasaría por humano, pero ejecuta la aplicación."
+    lc "Quiero decir, así es como la llamó. No pasaría por humano, pero ejecuta la aplicación."
 
 # game/code/d19/d19s01lc.rpy:182
 translate spanish d19s01lc_0c3f0006:
@@ -760,7 +760,7 @@ translate spanish strings:
 
     # game/code/d19/d19s01lc.rpy:4
     old "Friday\nDay-19"
-    new "Viernes\nDía-19"
+    new "Viernes\nDía 19"
 
     # game/code/d19/d19s01lc.rpy:292
     old "Kiss Her"
@@ -768,7 +768,7 @@ translate spanish strings:
 
     # game/code/d19/d19s01lc.rpy:292
     old "Say Something Nice"
-    new "Diga algo amable"
+    new "Dile algo amable"
 
     # game/code/d19/d19s01lc.rpy:292
     old "Tell Her It Was Fun"
