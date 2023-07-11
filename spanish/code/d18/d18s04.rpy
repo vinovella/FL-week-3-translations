@@ -196,7 +196,7 @@ translate spanish d18s04_87e26eb2:
 translate spanish d18s04_ea44d039:
 
     # aw "Is she—"
-    aw "Es ella—"
+    aw "Está ella—"
 
 # game/code/d18/d18s04.rpy:205
 translate spanish d18s04_669d4d85:
@@ -268,7 +268,7 @@ translate spanish d18s04_a264b887:
 translate spanish d18s04_226881f9:
 
     # aw "Hah! All these years and you had to be reduced to a blind and gagged piece of fuckmeat to actually {i}listen{/i} for one goddamn moment huh, Mom?"
-    aw "¡Ja! Todos estos años y tuviste que ser reducido a un ciego y amordazado pedazo de carne de mierda para realmente {i}escuchar{/i} por un maldito momento ¿eh, Mamá?"
+    aw "¡Ja! Todos estos años y tuviste que ser reducida a una ciega y amordazada pedazo de carne de mierda para realmente {i}escuchar{/i} por un maldito momento ¿eh, Mamá?"
 
 # game/code/d18/d18s04.rpy:245
 translate spanish d18s04_02159c46:
@@ -454,7 +454,7 @@ translate spanish d18s04_cb9ba318:
 translate spanish d18s04_8c827091:
 
     # aw "I'm no better than her..."
-    aw "no soy mejor que ella..."
+    aw "No soy mejor que ella..."
 
 # game/code/d18/d18s04.rpy:437
 translate spanish d18s04_8aaa70d0:
@@ -694,13 +694,13 @@ translate spanish d18s04_0d2fe250:
 translate spanish d18s04_4201b604:
 
     # vw "Oh God, Allison! This is so wrong! *Moans*"
-    vw "¡Oh, Dios, Allison! ¡Esto esta muy mal! *gemidos*"
+    vw "¡Oh, Dios, Allison! ¡Esto está muy mal! *Gemidos*"
 
 # game/code/d18/d18s04.rpy:637
 translate spanish d18s04_e51661ed:
 
     # aw "Shh, shut up and just {i}feel{/i}."
-    aw "Shh, cállate y solo {i}siente{/i}."
+    aw "Shh, cállate y sólo {i}siéntelo{/i}."
 
 # game/code/d18/d18s04.rpy:643
 translate spanish d18s04_bfce66eb:
@@ -790,7 +790,7 @@ translate spanish d18s04_84d642ff:
 translate spanish d18s04_f18f680d:
 
     # aw "Yes! Right there, lick me right there! *Moans*"
-    aw "¡Sí! ¡Justo ahí, lámeme justo ahí! *gemidos*"
+    aw "¡Sí! ¡Justo ahí, lámeme justo ahí! *Gemidos*"
 
 # game/code/d18/d18s04.rpy:800
 translate spanish d18s04_00cc2976:
