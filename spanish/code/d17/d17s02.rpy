@@ -436,7 +436,7 @@ translate spanish replay_d17s02_cbfe82a9:
 translate spanish replay_d17s02_29876a0a:
 
     # mc "Let loose? You sure you can handle me?"
-    mc "¿Dar riendas sueltas? ¿Seguro que puedes manejarme?"
+    mc "¿Dar riendas sueltas? ¿Segura que puedes manejarme?"
 
 # game/code/d17/d17s02.rpy:294
 translate spanish replay_d17s02_4e328013:
@@ -628,7 +628,7 @@ translate spanish d17s02_vw_cockworship_8b9ee863:
 translate spanish d17s02_vw_cockworship_04ff3331:
 
     # vw "Would you please fuck me now, Sir?"
-    vw "¿Podría follarme ahora, señor?"
+    vw "¿Podría follarme ahora, Señor?"
 
 # game/code/d17/d17s02.rpy:476
 translate spanish d17s02_vw_cockworship_70e7de7c:
@@ -730,7 +730,7 @@ translate spanish d17s02_vw_fucking_2d541ac9:
 translate spanish d17s02_vw_fucking_c61f130f:
 
     # vw "Please, please! Cum inside of me! Fill me up! I want your cum, I want every drop of it. Give it to me!"
-    vw "¡Por favor, por favor! ¡Córrete dentro de mí! ¡Llename! Quiero tu semen, quiero cada gota. ¡Dámelo!"
+    vw "¡Por favor, por favor! ¡Córrete dentro de mí! ¡Lléname! Quiero tu semen, quiero cada gota. ¡Dámelo!"
 
 # game/code/d17/d17s02.rpy:628
 translate spanish d17s02_vw_fucking_65e2de22:
