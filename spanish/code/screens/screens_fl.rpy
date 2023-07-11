@@ -8,11 +8,11 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:62
     old "Please type a name for the save file below and click save"
-    new "Escriba un nombre para el archivo guardado y haga clic en Guardar."
+    new "Escriba un nombre para el archivo guardado y haga clic en Guardar"
 
     # game/code/screens/screens_fl.rpy:70
     old "This will allow you to start the endings without losing your progress"
-    new "Esto te permitirá comenzar los finales sin perder tu progreso."
+    new "Esto te permitirá comenzar los finales sin perder tu progreso"
 
     # game/code/screens/screens_fl.rpy:99
     old "SAVE"
@@ -36,7 +36,7 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:201
     old "Please open Fetish Locator week [FLSS.week.prev] and SAVE at the end game save screen"
-    new "Abre la semana 2 del Localizador de Fetiches [FLSS.week.prev] y GUARDA en la pantalla de guardado al final del juego."
+    new "Abre la semana 2 del Localizador de Fetiches [FLSS.week.prev] y GUARDA en la pantalla de guardado al final del juego"
 
     # game/code/screens/screens_fl.rpy:205
     old "Due to some new changes in Android OS, to import your save from Week 2 you need to follow these instructions."
@@ -132,11 +132,11 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:614
     old "Please enter your Fetish Locator username here"
-    new "Ingrese su nombre de usuario del Localizador de Fetiches aquí."
+    new "Ingrese su nombre de usuario del Localizador de Fetiches aquí"
 
     # game/code/screens/screens_fl.rpy:659
     old "Please choose your preferences"
-    new "Por favor elige tus preferencias."
+    new "Por favor elige tus preferencias"
 
     # game/code/screens/screens_fl.rpy:687
     old "Yes to all"
@@ -144,11 +144,11 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:738
     old "Please select whom you like"
-    new "Por favor, seleccione a quien le gusta."
+    new "Por favor, seleccione a quien le gusta"
 
     # game/code/screens/screens_fl.rpy:788
     old "Go back and enable {b}Watersports{/b} fetish to be able to select Min"
-    new "Vuelva atrás y habilite el fetiche de {b}Deportes acuáticos{/b} para poder seleccionar Mín."
+    new "Vuelva atrás y habilite el fetiche de {b}Deportes acuáticos{/b} para poder seleccionar Mín"
 
     # game/code/screens/screens_fl.rpy:795
     old "Go back and enable {b}Trans Content{/b} to be able to select Lyssa"
@@ -160,7 +160,7 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:824
     old "AmRose Romance or Slave route?"
-    new "AmRose ¿Ruta de romance o de esclava?"
+    new "AmRose ¿Ruta de Romance o de Esclava?"
 
     # game/code/screens/screens_fl.rpy:827
     old "Romance"
@@ -208,7 +208,7 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:1179
     old "How do you want to name your save?"
-    new "¿Cómo quieres nombrar tu guardado?"
+    new "¿Cómo quieres nombrar tu archivo de guardado?"
 
     # game/code/screens/screens_fl.rpy:1255
     old "How do you want to rename this page?"
@@ -220,7 +220,7 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:1303
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
-    new "Fetish Locator está destinado a un público maduro\nde 18 años o más. Respete las leyes locales.\nTodos los personajes tienen 18 años o más. Sin excepciones.\nLos personajes de Fetish Locator exploran las relaciones y su sexualidad de formas sanas y nocivas. Algunos de estos pueden ser ofensivos para algunos jugadores. Se recomienda la discreción del espectador. Con ese fin, gran parte del contenido es opcional y, a menudo, hay caminos alternativos disponibles. Esto es necesario para la historia. El contenido explorado no debe tratarse como una aprobación de fetiches, torceduras o patrones de comportamiento particulares. Explore sus propias relaciones y su sexualidad de manera responsable.\n\n¡Disfrútelo!"
+    new "Fetish Locator está dirigido a un público adulto\n de 18 años o más. Todos los personajes son mayores de 18 años.\n Los personajes de Fetish Locator exploran las relaciones y su sexualidad de formas tanto sanas como insanas. Algunas de ellas pueden resultar ofensivas para algunos jugadores. Se recomienda discreción al espectador. Para ello, gran parte del contenido es opcional y a menudo hay caminos alternativos disponibles. Esto es necesario para la historia. El contenido explorado no debe considerarse como una aprobación de determinados fetiches, manías o patrones de comportamiento. Por favor, explora tus propias relaciones y sexualidad de forma responsable.\n\n¡Disfrútelo!"
 
     # game/code/screens/screens_fl.rpy:1333
     old "Skip Recap\nof Week-1"
@@ -230,6 +230,10 @@ translate spanish strings:
     old "Skip Recap\nof Week-2"
     new "Omitir resumen\nde la semana 2"
 
+# TODO: Translation updated at 2023-05-27 13:26
+
+translate spanish strings:
+
     # game/code/screens/screens_fl.rpy:265
     old "Continue playing"
     new "Continuar jugando"
@@ -238,10 +242,3 @@ translate spanish strings:
     old "Close the game"
     new "Cerrar el juego"
 
-# TODO: Translation updated at 2023-06-14 16:08
-
-translate spanish strings:
-
-    # game/code/screens/screens_fl.rpy:180
-    old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
-    new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
