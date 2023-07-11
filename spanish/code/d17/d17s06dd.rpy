@@ -1236,7 +1236,7 @@ translate spanish strings:
 
     # game/code/d17/d17s06dd.rpy:573
     old "Wait - Is it safe?"
-    new "Espera, ¿es seguro?"
+    new "Espera, ¿Es seguro?"
 
     # game/code/d17/d17s06dd.rpy:573
     old "Don't Care"
