@@ -100,7 +100,7 @@ translate spanish d19s02_4d088457:
 translate spanish d19s02_72c16971:
 
     # sy "That rat fucking bastard, oh my {i}{b}God{/b}{/i}."
-    sy "Esa rata maldita bastarda, ay {i}{b}Dios{/b}{/i}."
+    sy "Esa maldita rata bastarda, oh mi {i}{b}Dios{/b}{/i}."
 
 # game/code/d19/d19s02.rpy:193
 translate spanish d19s02_b602ab1e:
@@ -112,13 +112,13 @@ translate spanish d19s02_b602ab1e:
 translate spanish d19s02_242258de:
 
     # sy "I'm so angry right now. Fucking serenity now. Who's the other cunt?"
-    sy "Estoy tan enojada ahora. Maldita serenidad ahora. ¿Quién es el otro cabrón?"
+    sy "Estoy tan enojada ahora. Maldita serenidad ahora. ¿Quién es el otro hijo de perra?"
 
 # game/code/d19/d19s02.rpy:199
 translate spanish d19s02_bf1b5e2b:
 
     # mc "I thought he was just some asshole that tried to rape her during one of the FL parties."
-    mc "Pensaba que era un gilipollas que intentó violarla durante una de las fiestas del Localizador de Fetiches."
+    mc "Pensaba que era un imbécil que intentó violarla durante una de las fiestas del Localizador de Fetiches."
 
 # game/code/d19/d19s02.rpy:200
 translate spanish d19s02_f5af45e9:
@@ -130,13 +130,13 @@ translate spanish d19s02_f5af45e9:
 translate spanish d19s02_cbc203dd:
 
     # arj "Her {i}what{/i}?"
-    arj "{i}¿Su qué?{/i}?"
+    arj "¿Su {i}qué?{/i}"
 
 # game/code/d19/d19s02.rpy:206
 translate spanish d19s02_b205f7da:
 
     # sy "What do you mean \"from what I gathered\", where were you?"
-    sy "¿Qué quieres decir \" con lo que he recopilado \"? ¿Dónde estabas?"
+    sy "¿Qué quieres decir \" con lo que he recopilado?\" ¿Dónde estabas?"
 
 # game/code/d19/d19s02.rpy:209
 translate spanish d19s02_29942233:
@@ -154,7 +154,7 @@ translate spanish d19s02_181477c2:
 translate spanish d19s02_b0d0640a:
 
     # mc "Next thing I know, I'm waking up in a sex dungeon looking up at Lydia."
-    mc "Lo siguiente que sé es que estoy despertando en un calabozo sexual mirando a Lydia."
+    mc "Lo siguiente que recuerdo es despertarme en una mazmorra sexual mirando a Lydia."
 
 # game/code/d19/d19s02.rpy:215
 translate spanish d19s02_5f58f77f:
@@ -268,7 +268,7 @@ translate spanish d19s02_43fccd5a:
 translate spanish d19s02_63fd3f91:
 
     # arj "What do you mean?"
-    arj "What do you mean?"
+    arj "¿Qué quieres decir?"
 
 # game/code/d19/d19s02.rpy:285
 translate spanish d19s02_40d32486:
@@ -304,7 +304,7 @@ translate spanish d19s02_377fc394:
 translate spanish d19s02_0c024d09:
 
     # sy "What do you mean \"gone\"?"
-    sy "¿Qué quieres decir con \"ido?\""
+    sy "¿Qué quieres decir con \"ido\"?"
 
 # game/code/d19/d19s02.rpy:301
 translate spanish d19s02_a92e76dd:
@@ -340,7 +340,7 @@ translate spanish d19s02_4bbd0434:
 translate spanish d19s02_621addc9:
 
     # arj "What happened!? My God!"
-    arj "What happened!? My God!"
+    arj "¿¡Qué ocurrió!? ¡Dios mío!"
 
 # game/code/d19/d19s02.rpy:317
 translate spanish d19s02_d08948d0:
@@ -538,7 +538,7 @@ translate spanish d19s02_286775e5:
 translate spanish d19s02_261658a7:
 
     # arj "No! Not that, it just makes me wonder if you could get to her through Cynthia."
-    arj "¡No! No es eso, solo me hace preguntarme si podrías llegar a ella a través de Cynthia."
+    arj "¡No! No es eso, solo me hace preguntar si podrías llegar a ella a través de Cynthia."
 
 # game/code/d19/d19s02.rpy:427
 translate spanish d19s02_2e2b325f:
@@ -676,7 +676,7 @@ translate spanish d19s02_a13242a8:
 translate spanish d19s02_7778fe7e:
 
     # dd "I jus want you to come over"
-    dd "solo quiero que vengas"
+    dd "Sólo quiero que vengas"
 
 # game/code/d19/d19s02.rpy:510
 translate spanish d19s02_b0400d74:
@@ -688,7 +688,7 @@ translate spanish d19s02_b0400d74:
 translate spanish d19s02_7ad556d6:
 
     # dd "*Sends a gif of a child doing a \"happy dance\"*"
-    dd "**Envía un gif de un niño haciendo un \"baile feliz\"*"
+    dd "**Envía un gif de un niño haciendo un \"baile feliz\"**"
 
 # game/code/d19/d19s02.rpy:517
 translate spanish d19s02_f53b7c5e:
