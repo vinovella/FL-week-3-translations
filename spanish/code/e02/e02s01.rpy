@@ -10,13 +10,13 @@ translate spanish e02s01_e6009a2c:
 translate spanish e02s01_66d79561:
 
     # mh "Reading a map is like any skill, you have to put it into use, or it goes away."
-    mh "Leer un mapa es como cualquier habilidad, tienes que ponerlo en uso o desaparece."
+    mh "Leer un mapa es como cualquier habilidad, hay que ponerla en práctica o desaparece."
 
 # game/code/e02/e02s01.rpy:85
 translate spanish e02s01_52f884c3:
 
     # mc "When's the last time you followed a map?"
-    mc "¿Cuándo fue la última vez que seguiste un mapa?"
+    mc "¿Cuándo fue la última vez que te guiaste por un mapa?"
 
 # game/code/e02/e02s01.rpy:87
 translate spanish e02s01_d1b4fa83:
@@ -70,7 +70,7 @@ translate spanish e02s01_1706c70a:
 translate spanish e02s01_a6490918:
 
     # mh "If I bring my phone, I might as well carry my pager around and pack my clothes in a briefcase, and bring reference books of constitutional law for reading material."
-    mh "Si llevo mi teléfono, también podría llevar mi buscapersonas y empacar mi ropa en un maletín, y llevar libros de referencia de derecho constitucional como material de lectura."
+    mh "Si llevo mi teléfono, también podría llevar mi localizador conmigo y guardar mi ropa en un maletín, y llevar libros de referencia de derecho constitucional como material de lectura."
 
 # game/code/e02/e02s01.rpy:107
 translate spanish e02s01_a929cbd8:
@@ -190,7 +190,7 @@ translate spanish e02s01_5094fa35:
 translate spanish e02s01_a1a6871b:
 
     # mh "Bigger than the images suggest."
-    mh "Más grande de lo que sugieren las imágenes."
+    mh "Más grande de lo que muestran las imágenes."
 
 # game/code/e02/e02s01.rpy:169
 translate spanish e02s01_e85e691c:
@@ -208,7 +208,7 @@ translate spanish e02s01_fb8f6c72:
 translate spanish e02s01_d1a4b78a:
 
     # mc "Oh wow, cool, there's a sauna, an indoor pool, massage therapy, and all sorts of indoor recreational activities. Where is our cabin?"
-    mc "Oh, guau, genial, hay un sauna, una piscina cubierta, terapia de masajes y todo tipo de actividades recreativas en el interior. ¿Dónde está nuestra cabaña?"
+    mc "Oh, wow, genial, hay un sauna, una piscina cubierta, masajes terapéuticos y todo tipo de actividades recreativas en el interior. ¿Dónde está nuestra cabaña?"
 
 # game/code/e02/e02s01.rpy:184
 translate spanish e02s01_c85ea333:
@@ -310,7 +310,7 @@ translate spanish e02s01_5d3615c5:
 translate spanish e02s01_242b6dd2:
 
     # mc "Wow. How much did this lodge cost?"
-    mc "Guau. ¿Cuánto costó este albergue?"
+    mc "Vaya. ¿Cuánto costó este alojamiento?"
 
 # game/code/e02/e02s01.rpy:248
 translate spanish e02s01_6a56f27b:
@@ -700,7 +700,7 @@ translate spanish e02s01_hot_bath_71340f3b:
 translate spanish e02s01_hot_bath_8076646d:
 
     # mc "You don't want to? I mean, it's all custom designed and everything."
-    mc "¿No quieres? Quiero decir, todo está diseñado a medida y todo."
+    mc "¿No quieres? Quiero decir, todo está diseñado a medida."
 
 # game/code/e02/e02s01.rpy:412
 translate spanish e02s01_hot_bath_71eb615a:
@@ -1156,13 +1156,13 @@ translate spanish e02s01_give_pleasure_f7d6991f:
 translate spanish e02s01_give_pleasure_be2243f9:
 
     # mc "How harder?"
-    mc "¿Qué tan fuerte?"
+    mc "¿Qué tan duro?"
 
 # game/code/e02/e02s01.rpy:773
 translate spanish e02s01_give_pleasure_5867c97a:
 
     # mh "Harder! I said harder!"
-    mh "¡Más duro! ¡Dije más fuerte!"
+    mh "¡Más duro! ¡Dije más duro!"
 
 # game/code/e02/e02s01.rpy:774
 translate spanish e02s01_give_pleasure_dc8549ea:
@@ -1174,7 +1174,7 @@ translate spanish e02s01_give_pleasure_dc8549ea:
 translate spanish e02s01_give_pleasure_6b461d37:
 
     # mh "Please! Please fuck me harder! Make me cum! I'm going to come so hard!"
-    mh "¡Por favor! ¡Por favor, fóllame más fuerte! ¡Haz que me corra! ¡Me voy a correr tan fuerte!"
+    mh "¡Por favor! ¡Por favor, fóllame más duro! ¡Haz que me corra! ¡Me voy a correr tan fuerte!"
 
 # game/code/e02/e02s01.rpy:782
 translate spanish e02s01_give_pleasure_63b0e1dd:
@@ -1204,7 +1204,7 @@ translate spanish e02s01_give_pleasure_22c272f0:
 translate spanish e02s01_give_pleasure_c531fa87:
 
     # mh "Ahh!!!"
-    mh "¡¡Ah!!!"
+    mh "¡¡¡Ah!!!"
 
 # game/code/e02/e02s01.rpy:832
 translate spanish e02s01_give_pleasure_18e69c08:
@@ -1274,5 +1274,5 @@ translate spanish strings:
 
     # game/code/e02/e02s01.rpy:517
     old "Why Not Both?"
-    new "¿Por qué no ambos?"
+    new "¿Por qué no ambas?"
 
