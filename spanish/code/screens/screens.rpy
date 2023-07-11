@@ -24,7 +24,7 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:308
     old "Continue from week [FLSS.week.prev]"
-    new "Cont. de la semana [FLSS.week.prev]"
+    new "Continúa desde la semana [FLSS.week.prev]"
 
     # game/code/screens/screens.rpy:312
     old "Start"
@@ -300,15 +300,15 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:1344
     old "Left Click"
-    new "Clic izquierdo"
+    new "Clic Izquierdo"
 
     # game/code/screens/screens.rpy:1348
     old "Middle Click"
-    new "Clic central"
+    new "Clic Central"
 
     # game/code/screens/screens.rpy:1352
     old "Right Click"
-    new "Clic derecho"
+    new "Clic Derecho"
 
     # game/code/screens/screens.rpy:1356
     old "Mouse Wheel Up\nClick Rollback Side"
@@ -320,15 +320,15 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:1367
     old "Right Trigger\nA/Bottom Button"
-    new "Gatillo derecho\nA/Botón inferior"
+    new "Gatillo Derecho\nA/Botón Inferior"
 
     # game/code/screens/screens.rpy:1371
     old "Left Trigger\nLeft Shoulder"
-    new "Gatillo izquierdo\nHombro izquierdo"
+    new "Gatillo Izquierdo\nHombro Izquierdo"
 
     # game/code/screens/screens.rpy:1375
     old "Right Shoulder"
-    new "Hombro izquierdo"
+    new "Hombro Derecho"
 
     # game/code/screens/screens.rpy:1380
     old "D-Pad, Sticks"
@@ -340,7 +340,7 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:1388
     old "Y/Top Button"
-    new "Y/Botón superior"
+    new "Y/Botón Superior"
 
     # game/code/screens/screens.rpy:1391
     old "Calibrate"
@@ -353,3 +353,4 @@ translate spanish strings:
     # game/code/screens/screens.rpy:1722
     old "Menu"
     new "Menú"
+
