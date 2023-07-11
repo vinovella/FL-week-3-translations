@@ -196,7 +196,7 @@ translate spanish d19s07_b32bb931:
 translate spanish d19s07_c2a2959a:
 
     # mc "Actually, I was just hoping you'd be D.T.F."
-    mc "En realidad, solo esperaba que fueras D.T.F."
+    mc "En realidad, sólo esperaba que fueras D.T.F."
 
 # game/code/d19/d19s07.rpy:168
 translate spanish d19s07_f0f8b3e0:
@@ -436,7 +436,7 @@ translate spanish d19s07_problem_7a90f655:
 translate spanish d19s07_problem_6c969469:
 
     # mc "Honestly?{w} I'm not going to lie. We aren't friends."
-    mc "¿Honestamente?{w} No voy a mentir. no somos amigos."
+    mc "¿Honestamente? {w} No voy a mentir. no somos amigos."
 
 # game/code/d19/d19s07.rpy:290
 translate spanish d19s07_problem_435f2166:
@@ -454,7 +454,7 @@ translate spanish d19s07_problem_17e2e3a6:
 translate spanish d19s07_problem_ec5b36a7:
 
     # mk "I am, yeah.{w} Well, at least I have been."
-    mk "Lo soy, sí.{w} Bueno, al menos lo he sido."
+    mk "Lo soy, sí. {w} Bueno, al menos lo he sido."
 
 # game/code/d19/d19s07.rpy:297
 translate spanish d19s07_problem_61e64477:
@@ -808,7 +808,7 @@ translate spanish d19s07_roleplay_c538f358:
 translate spanish d19s07_roleplay_368403b6:
 
     # mc "Sorta. Except you're a girl."
-    mc "más o menos Excepto que eres una chica."
+    mc "Más o menos. Excepto que eres una chica."
 
 # game/code/d19/d19s07.rpy:472
 translate spanish d19s07_roleplay_907643da:
@@ -880,7 +880,7 @@ translate spanish d19s07_roleplay_7dec7728:
 translate spanish d19s07_roleplay_16839143:
 
     # mc "Easy. You'll leave it open a crack so I can watch."
-    mc "Fácil. La dejarás un poco abierto para que yo pueda mirar."
+    mc "Fácil. La dejarás un poco abierta para que yo pueda mirar."
 
 # game/code/d19/d19s07.rpy:507
 translate spanish d19s07_roleplay_04473993:
@@ -988,13 +988,13 @@ translate spanish d19s07_roleplay_3059ff20:
 translate spanish d19s07_sex_3d9a556a:
 
     # mk "Bring it on, sex machine!"
-    mk "Bring it on, sex machine!"
+    mk "¡Vamos, máquina sexual!"
 
 # game/code/d19/d19s07.rpy:565
 translate spanish d19s07_sex_4ab88f94:
 
     # mc "Alright! How do you want it?!"
-    mc "¡Está bien! ¡¿Como lo quieres?!"
+    mc "¡Está bien! ¡¿Cómo lo quieres?!"
 
 # game/code/d19/d19s07.rpy:568
 translate spanish d19s07_sex_a4cf39f5:
@@ -1096,7 +1096,7 @@ translate spanish d19s07_sex_9d5c06d4:
 translate spanish d19s07_sex_fc41bcf6:
 
     # mct "Like a virgin. Hey! Touched for the very first time."
-    mct "Como una virgen. ¡Eh! Tocado por primera vez."
+    mct "Como una virgen. ¡Eh! Tocada por primera vez."
 
 # game/code/d19/d19s07.rpy:619
 translate spanish d19s07_sex_b5ec67e0:
@@ -1120,7 +1120,7 @@ translate spanish d19s07_sex_76229f2e:
 translate spanish d19s07_sex_9d54577c:
 
     # mct "I'm talking, morning, day,night, afternoon..."
-    mct "Estoy hablando, mañana, día, noche, tarde..."
+    mct "Estoy hablando, mañana, día, tarde, noche..."
 
 # game/code/d19/d19s07.rpy:637
 translate spanish d19s07_sex_0f4c5785:
@@ -1162,7 +1162,7 @@ translate spanish d19s07_sex_ccadf33b:
 translate spanish d19s07_sex_085722e2:
 
     # mc "What?!"
-    mc "What?!"
+    mc "¡¿Qué?!"
 
 # game/code/d19/d19s07.rpy:658
 translate spanish d19s07_sex_5f00bd2a:
@@ -1180,7 +1180,7 @@ translate spanish d19s07_sex_a49ed4f8:
 translate spanish d19s07_sex_74ea6252:
 
     # mk "Hahahahahahahahaha!!!"
-    mk "¡¡¡Hahahahahahahahaha!!!"
+    mk "¡¡¡Jajajajajajajajajaja!!!"
 
 # game/code/d19/d19s07.rpy:671
 translate spanish d19s07_sex_dbc96d1b:
@@ -1378,7 +1378,7 @@ translate spanish d19s07_ending_d857de4d:
 translate spanish d19s07_ending_2e4fed33:
 
     # mc "Damn. I didn't realize."
-    mc "Maldición. no me di cuenta"
+    mc "Maldición. no me di cuenta."
 
 # game/code/d19/d19s07.rpy:802
 translate spanish d19s07_ending_f55cd93a:
@@ -1390,7 +1390,7 @@ translate spanish d19s07_ending_f55cd93a:
 translate spanish d19s07_ending_bbe6b18f:
 
     # mk "I think I'm going to clean up a bit before I leave. There's a big industrial sink in the back."
-    mk "Creo que voy a limpiar un poco antes de irme. Hay un gran fregadero industrial en la parte de atrás."
+    mk "Creo que me voy a limpiar un poco antes de irme. Hay un gran fregadero industrial en la parte de atrás."
 
 # game/code/d19/d19s07.rpy:807
 translate spanish d19s07_ending_3563a6aa:
@@ -1408,7 +1408,7 @@ translate spanish d19s07_ending_beeb2206:
 translate spanish d19s07_ending_9bf2f172:
 
     # mc "Weren't you a lesbian?"
-    mc "¿No eras lesbiana?"
+    mc "¿No eres lesbiana?"
 
 # game/code/d19/d19s07.rpy:815
 translate spanish d19s07_ending_0b76b4e3:
