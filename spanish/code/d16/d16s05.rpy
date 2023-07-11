@@ -1094,5 +1094,5 @@ translate spanish strings:
 
     # game/code/d16/d16s05.rpy:488
     old "Ask her if she got any pictures"
-    new "Pregúntale si tiene alguna foto."
+    new "Pregúntale si tiene alguna foto"
 
