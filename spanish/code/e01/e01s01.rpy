@@ -70,7 +70,7 @@ translate spanish e01s01_a2103d64:
 translate spanish e01s01_ea3b47e0:
 
     # mc "...Huh?"
-    mc "...¿Eh"
+    mc "...¿Eh?"
 
 # game/code/e01/e01s01.rpy:272
 translate spanish e01s01_d1414119:
@@ -118,7 +118,7 @@ translate spanish e01s01_161f03b4:
 translate spanish e01s01_2cd50405:
 
     # sy "No, not big like that. Big as in we do every single fetish we can think of—{i}that we're okay doing, of course.{/i}"
-    sy "No, así de grande no. Grande en el sentido de que hacemos todos los fetiches que se nos ocurren, y que nos parece bien hacer, por supuesto."
+    sy "No, así de grande no. Grande en el sentido de que hacemos todos los fetiches que se nos ocurren,{i} y que nos parece bien hacer, por supuesto.{/i}"
 
 # game/code/e01/e01s01.rpy:296
 translate spanish e01s01_6412f819:
@@ -196,7 +196,7 @@ translate spanish e01s01_887cad9d:
 translate spanish e01s01_66e9b0af:
 
     # sy "Yes and no. I just don't want to do them {i}today{/i}. Who knows about the future, though? "
-    sy "Sí y no. Simplemente no quiero hacerlos {i}hoy{/i}. Pero, ¿quién sabe en el futuro? "
+    sy "Sí y no. Simplemente no quiero hacerlas {i}hoy{/i}. Pero, ¿Quién sabe en el futuro? "
 
 # game/code/e01/e01s01.rpy:331
 translate spanish e01s01_49f29859:
@@ -328,7 +328,7 @@ translate spanish e01s01_choice_done_1402f102:
 translate spanish e01s01_choice_done_e449185b:
 
     # sy "{i}And{/i} you like feet? I guess that makes sense."
-    sy "{i}Y{/i} te gustan los pies? Supongo que eso tiene sentido."
+    sy "{i}¿Y{/i} te gustan los pies? Supongo que eso tiene sentido."
 
 # game/code/e01/e01s01.rpy:424
 translate spanish e01s01_choice_done_a7da4738:
@@ -388,7 +388,7 @@ translate spanish e01s01_choice_done_223bedd2:
 translate spanish e01s01_choice_done_9b4e8bc2:
 
     # sy "Okay, I think it's good now!"
-    sy "¡Vale, creo que ya está bien!"
+    sy "¡De acuerdo, creo que ya está bien!"
 
 # game/code/e01/e01s01.rpy:465
 translate spanish e01s01_choice_done_615002d0:
@@ -628,7 +628,7 @@ translate spanish e01s01_choice_done_083ec9a2:
 translate spanish e01s01_choice_done_5325e7cc:
 
     # sy "*Uncontrolled moans* Oh my God. Harder, harder! Just like that!"
-    sy "*Gemidos descontrolados* Dios mío. ¡Más fuerte más fuerte! ¡Así!"
+    sy "*Gemidos descontrolados* Dios mío. ¡Más fuerte! ¡más fuerte! ¡Así!"
 
 # game/code/e01/e01s01.rpy:731
 translate spanish e01s01_choice_done_6c7e2c22:
@@ -796,13 +796,13 @@ translate spanish e01s01_scene_bdsm_dom_4af22199:
 translate spanish e01s01_scene_bdsm_dom_71d42b9e:
 
     # mc "Hm... I don't know. I don't feel like you've learned your lesson yet."
-    mc "Hm... I don't know. I don't feel like you've learned your lesson yet."
+    mc "Hm... No lo sé. No creo que hayas aprendido la lección todavía."
 
 # game/code/e01/e01s01.rpy:988
 translate spanish e01s01_scene_bdsm_dom_806e91ba:
 
     # mc "You need to {i}really{/i} be sorry."
-    mc "Tienes que {i}realmente{/i} arrepentirte."
+    mc "Tienes que {i}sentirlo{/i} de verdad."
 
 # game/code/e01/e01s01.rpy:991
 translate spanish e01s01_scene_bdsm_dom_93cf0240:
@@ -892,7 +892,7 @@ translate spanish e01s01_scene_bdsm_dom_6a419612:
 translate spanish e01s01_scene_bdsm_dom_9d6593ad:
 
     # mc "You take my cock like a perfect little anal slut."
-    mc "Me tomas la polla como una perfecta putita anal."
+    mc "Tomas mi polla como una perfecta putita anal."
 
 # game/code/e01/e01s01.rpy:1110
 translate spanish e01s01_scene_bdsm_dom_cf3c01db:
@@ -952,7 +952,7 @@ translate spanish e01s01_scene_bdsm_dom_2543ff8b:
 translate spanish e01s01_scene_bdsm_dom_544f82da:
 
     # mc "*Chuckles* Let's take five first."
-    mc "*Risas* Tomemos cinco primero."
+    mc "*Risas* Tomemos cinco minutos primero."
 
 # game/code/e01/e01s01.rpy:1164
 translate spanish e01s01_scene_bdsm_sub_200e4e46:
@@ -1030,7 +1030,7 @@ translate spanish e01s01_scene_bdsm_sub_5b00e0ac:
 translate spanish e01s01_scene_bdsm_sub_38f6cf02:
 
     # sy "Now, clean my dirty soles."
-    sy "Ahora, limpia mis suelas sucias."
+    sy "Ahora, limpia mis plantas sucias."
 
 # game/code/e01/e01s01.rpy:1242
 translate spanish e01s01_scene_bdsm_sub_67d11845:
@@ -1084,7 +1084,7 @@ translate spanish e01s01_scene_bdsm_sub_f4745666:
 translate spanish e01s01_scene_bdsm_sub_0c92ad14:
 
     # mc "Oh my God."
-    mc "Oh dios mío."
+    mc "Oh Dios mío."
 
 # game/code/e01/e01s01.rpy:1271
 translate spanish e01s01_scene_bdsm_sub_7280a3f0:
@@ -1162,7 +1162,7 @@ translate spanish e01s01_scene_footfet_19962d53:
 translate spanish e01s01_scene_footfet_f2a80570:
 
     # sy "Does it feel good?"
-    sy "¿Se sienten bien?"
+    sy "¿Se siente bien?"
 
 # game/code/e01/e01s01.rpy:1358
 translate spanish e01s01_scene_footfet_f6dd7f11:
@@ -1300,7 +1300,7 @@ translate spanish e01s01_scene_watersports_a76a144b:
 translate spanish e01s01_scene_watersports_11f36ed7:
 
     # mc "Your wish is my command."
-    mc "Tú deseo es mi orden."
+    mc "Tus deseos son órdenes para mí."
 
 # game/code/e01/e01s01.rpy:1501
 translate spanish e01s01_scene_watersports_49d16ca0:
@@ -1312,13 +1312,13 @@ translate spanish e01s01_scene_watersports_49d16ca0:
 translate spanish e01s01_scene_watersports_b573d2e0:
 
     # sy "Staggered moans* Oh my God, [mcname]. It feels weird."
-    sy "Gemidos entrecortados* Dios mío, [mcname]. Se siente raro."
+    sy "*Gemidos entrecortados* Dios mío, [mcname]. Se siente raro."
 
 # game/code/e01/e01s01.rpy:1535
 translate spanish e01s01_scene_watersports_d535cba4:
 
     # sy "I can feel your piss inside of me, God. It's so warm."
-    sy "Puedo sentir tu orina dentro de mí, Dios. Es tan cálido."
+    sy "Puedo sentir tu orina dentro de mí, Dios. Es tan cálida."
 
 # game/code/e01/e01s01.rpy:1536
 translate spanish e01s01_scene_watersports_f3f1e9cf:
@@ -1384,7 +1384,7 @@ translate spanish e01s01_inbetween_2_7d6bc20d:
 translate spanish e01s01_inbetween_2_b9f7582f:
 
     # sy "Gotta stay hydrated 'cause we're gonna be losing a lot of fluids."
-    sy "Tengo que mantenerme hidratado porque vamos a perder muchos líquidos."
+    sy "Tengo que mantenerme hidratada porque vamos a perder muchos líquidos."
 
 # game/code/e01/e01s01.rpy:1650
 translate spanish e01s01_inbetween_3_913566dd:
@@ -1474,7 +1474,7 @@ translate spanish e01s01_inbetween_4_906c92f2:
 translate spanish e01s01_inbetween_4_4eedee1b:
 
     # sy "Woo! You always throw rock, dum dum."
-    sy "¡Woo! Siempre tiras piedras, dum dum."
+    sy "¡Woo! Siempre sacas piedra, dum dum."
 
 # game/code/e01/e01s01.rpy:1723
 translate spanish e01s01_inbetween_4_5e1d488a:
@@ -1576,7 +1576,7 @@ translate spanish e01s01_inbetween_finale_9c17db41:
 translate spanish e01s01_inbetween_finale_2170fd5d:
 
     # sy "You wanna go again or wrap it up?"
-    sy "¿Quieres ir de nuevo o terminarlo?"
+    sy "¿Quieres continuar o terminarlo?"
 
 # game/code/e01/e01s01.rpy:1806
 translate spanish e01s01_inbetween_finale_8a6a4f96:
