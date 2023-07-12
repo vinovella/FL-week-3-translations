@@ -12,7 +12,7 @@ translate spanish strings:
 
     # game/code/screens/extended/screens.rpy:52
     old "BONUS"
-    new "BONUS"
+    new "BONO"
 
     # game/code/screens/extended/screens.rpy:63
     old "SETTINGS"
