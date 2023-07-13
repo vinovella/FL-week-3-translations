@@ -268,7 +268,7 @@ translate russian e06s01_433c9d2c:
 translate russian e06s01_9e7c3fbe:
 
     # mc "But the elephant in the room is that you're the one who caged my elephant."
-    mc "But the elephant in the room is that you're the one who caged my elephant."
+    mc "Но слон в комнате оказался потому, что именно ты загнала моего \"слоника\" в клетку."
 
 # game/code/e06/e06s01.rpy:235
 translate russian e06s01_9be5f820:
