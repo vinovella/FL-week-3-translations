@@ -1078,7 +1078,7 @@ translate turkish d17s04_end_704eb5c8:
 translate turkish d17s04_end_879a977b:
 
     # mc "Iona? {w}Were you-?"
-    mc "Iona? {w}Sen-?""
+    mc "Iona? {w}Sen-?"
 
 # game/code/d17/d17s04.rpy:676
 translate turkish d17s04_end_92b4fb11:

@@ -130,7 +130,7 @@ translate turkish d17s05mh_50509e15:
 translate turkish d17s05mh_98993dee:
 
     # mc "Well? Come on. {w}You {i}do{/i} need to be punished still."
-    mc "Ee? Gel bakalım. Hâlâ cezalandırılmaya {w}ihtiyacın var{/i}."
+    mc "Ee? Gel bakalım.{w} Hâlâ cezalandırılmaya {i}ihtiyacın var{/i}."
 
 # game/code/d17/d17s05mh.rpy:181
 translate turkish d17s05mh_9316b739:

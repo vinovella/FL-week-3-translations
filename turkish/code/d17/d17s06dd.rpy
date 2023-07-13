@@ -1156,7 +1156,7 @@ translate turkish d17s06dd_6562866c:
 translate turkish d17s06dd_a8488999:
 
     # dd "Oh [mcname] that feels incredible"
-    dd "Ah[mcname] bu inanılmaz hissettiriyor""
+    dd "Ah[mcname] bu inanılmaz hissettiriyor"
 
 # game/code/d17/d17s06dd.rpy:674
 translate turkish d17s06dd_3693de14:

@@ -76,7 +76,7 @@ translate turkish d17s05_665f6e6f:
 translate turkish d17s05_650388e7:
 
     # mct "Whom should I invite?" nointeract
-    mct "Kimi davet etmeliyim?" etkileşim yok
+    mct "Kimi davet etmeliyim?" nointeract
 
 # game/code/d17/d17s05.rpy:82
 translate turkish d17s05_64cf29f2:
@@ -166,7 +166,7 @@ translate turkish d17s05_79186aae:
 translate turkish d17s05_20f75409:
 
     # mc "Why don't you prepare yourself for me in the meantime?"
-    mc Bu arada neden kendini benim için hazırlamıyorsun?"
+    mc "Bu arada neden kendini benim için hazırlamıyorsun?"
 
 # game/code/d17/d17s05.rpy:134
 translate turkish d17s05_66fd117c:

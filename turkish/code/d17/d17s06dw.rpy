@@ -232,7 +232,7 @@ translate turkish d17s06dw_2b35b6fe:
 translate turkish d17s06dw_2b745c73:
 
     # dw "C'mon, slave. HEEL"
-    dw "Hadi köle. TOPUK""
+    dw "Hadi köle. TOPUK"
 
 # game/code/d17/d17s06dw.rpy:181
 translate turkish d17s06dw_d2b6c63e:

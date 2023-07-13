@@ -670,7 +670,7 @@ translate turkish d17s05mo_e8b58c1b:
 translate turkish d17s05mo_5c58ebe5:
 
     # op "My father was a bit of a... Uhm, domineering parent."
-    op ""Babam biraz... Uhm, otoriter bir ebeveyndi."
+    op "Babam biraz... Uhm, otoriter bir ebeveyndi."
 
 # game/code/d17/d17s05mo.rpy:350
 translate turkish d17s05mo_a4c31720:
@@ -796,7 +796,7 @@ translate turkish d17s05mo_abb73d54:
 translate turkish d17s05mo_8898a8ba:
 
     # op "Someone said, \"How did I lose my virginity... Three dicks at the same time.\""
-    op "Birisi, \"Bekaretimi nasıl kaybettim... Aynı anda üç sik,\" dedi""
+    op "Birisi, \"Bekaretimi nasıl kaybettim... Aynı anda üç sik,\" dedi"
 
 # game/code/d17/d17s05mo.rpy:405
 translate turkish d17s05mo_be3945b6:
@@ -808,7 +808,7 @@ translate turkish d17s05mo_be3945b6:
 translate turkish d17s05mo_2731a645:
 
     # op "And someone else said, \"How did I lose my virginity... Seething with quiet resentment\""
-    op "Ve bir başkası, "Bekaretimi nasıl kaybettim... Sessiz bir içerlemeyle dolup taşıyorum," dedi""
+    op "Ve bir başkası, \"Bekaretimi nasıl kaybettim... Sessiz bir içerlemeyle dolup taşıyorum,\" dedi"
 
 # game/code/d17/d17s05mo.rpy:411
 translate turkish d17s05mo_f03baece:
@@ -1042,7 +1042,7 @@ translate turkish d17s05mo_8a8091e3:
 translate turkish d17s05mo_dd43b5b2:
 
     # mc "I'm not sure I'd call it \"relaxing\" exactly, though. I was fighting for my life out there."
-    mc "Yine de buna tam olarak \"rahatlatıcı" diyebileceğimden emin değilim. Orada hayatım için savaşıyordum."
+    mc "Yine de buna tam olarak \"rahatlatıcı\" diyebileceğimden emin değilim. Orada hayatım için savaşıyordum."
 
 # game/code/d17/d17s05mo.rpy:541
 translate turkish d17s05mo_3f058dd1:

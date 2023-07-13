@@ -16,7 +16,7 @@ translate turkish d17s03_bf0f175d:
 translate turkish d17s03_432b9380:
 
     # mc "Hana texted me that I should meet you here?"
-    mc "Hana bana seninle burada buluşmam gerektiğini mesaj attı?""
+    mc "Hana bana seninle burada buluşmam gerektiğini mesaj attı?"
 
 # game/code/d17/d17s03.rpy:25
 translate turkish d17s03_169b0a47:
