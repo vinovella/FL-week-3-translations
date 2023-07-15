@@ -72,7 +72,7 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Lyssa Romance"
-    new "Day 17: Lyssa Romance"
+    new "Day 17: Romance de Lyssa"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Lyssa Domination"

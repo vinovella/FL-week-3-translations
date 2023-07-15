@@ -142,7 +142,7 @@ translate spanish d19s08_79f3dc31:
 translate spanish d19s08_fd4e338d:
 
     # mc "Alright. So there's a woman, Zarah."
-    mc "Alright. So there's a woman, Zarah."
+    mc "De acuerdo. Así que hay una mujer, Zarah."
 
 # game/code/d19/d19s08.rpy:120
 translate spanish d19s08_f357a9d8:
