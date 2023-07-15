@@ -1178,5 +1178,5 @@ translate russian strings:
 
     # game/code/e10/e10s01.rpy:69
     old "Ending #10\nRunaway"
-    new "Ending #10\nRunaway"
+    new "Концовка #10\nБеглец"
 

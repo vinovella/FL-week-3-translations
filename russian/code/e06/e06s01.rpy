@@ -136,7 +136,7 @@ translate russian e06s01_7eaac46d:
 translate russian e06s01_c0030af2:
 
     # lc "You have no idea how happy that makes me."
-    lc "Ты даже не представляешь, как счастлива я сейчас."
+    lc "Ты даже не представляешь, насколько я счастлива."
 
 # game/code/e06/e06s01.rpy:167
 translate russian e06s01_c9920062:
@@ -382,7 +382,7 @@ translate russian e06s01_fa0bce90:
 translate russian e06s01_22085584:
 
     # lc "I would never hold that against you. In fact... I'm a little excited just to see what you're capable of..."
-    lc "Я не стану сдерживать тебя. На самом деле... Я даже немного возбуждена, ожидая узнать, на что ты способен..."
+    lc "Я не стану сдерживать тебя. На самом деле... Я даже слегка возбудилась лишь от одной мысли о том, на что ты способен..."
 
 # game/code/e06/e06s01.rpy:284
 translate russian e06s01_d45dc55a:

@@ -1272,7 +1272,7 @@ translate russian strings:
 
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "Доверяете ли вы устройству, на котором было создано сохранение? Выбирать "Да" следует только в том случае, если вы являетесь единственным пользователем устройства."
+    new "Доверяете ли вы устройству, на котором было создано сохранение? Выбирать \"Да\" следует только в том случае, если вы являетесь единственным пользователем устройства."
 
     # renpy/common/00preferences.rpy:528
     old "audio when unfocused"

@@ -88,7 +88,7 @@ translate russian e06s02_bb114a5b:
 translate russian e06s02_f526fd43:
 
     # lc "I can't even get my best friend to see that I know I made a huge mistake."
-    lc "Я не могу даже свою лучшую подругу убедить в том, что я знаю, что совершила огромную ошибку."
+    lc "Я не могу даже лучшую подругу убедить в том, что я знаю, что совершила огромную ошибку."
 
 # game/code/e06/e06s02.rpy:122
 translate russian e06s02_805f069e:
@@ -154,7 +154,7 @@ translate russian e06s02_0b12f8b9:
 translate russian e06s02_03fb93dd:
 
     # lc "Then I'll make her listen."
-    lc "Значит, я заставлю ее слушать."
+    lc "Значит, я заставлю её слушать."
 
 # game/code/e06/e06s02.rpy:152
 translate russian e06s02_d7816bd5:
@@ -232,13 +232,13 @@ translate russian e06s02_c2698a9b:
 translate russian e06s02_cfa3eceb:
 
     # mc "Lydia is not a criminal. The judge declared her 'not guilty', Min."
-    mc "Лидия не преступница. Судья признала ее "невиновной", Мин."
+    mc "Лидия не преступница. Судья признала ее \"невиновной\", Мин."
 
 # game/code/e06/e06s02.rpy:197
 translate russian e06s02_3c306ef9:
 
     # mes "*Sniff* That judge must have been huffing glue in their chambers. Lydia might be innocent in the eyes of the law..."
-    mes "*Sniff* Должно быть, этот судья надышался клеем в своем кабинете. Лидия может и невиновна в глазах закона..."
+    mes "*Всхлипывает* Должно быть, этот судья надышался клеем в своем кабинете. Лидия может и невиновна в глазах закона..."
 
 # game/code/e06/e06s02.rpy:200
 translate russian e06s02_de7714ea:
@@ -310,7 +310,7 @@ translate russian e06s02_inside_38b32cd4:
 translate russian e06s02_inside_5c8d4ab5:
 
     # mc "Huh? I guess just wait for Min to come back."
-    mc "А? Думаю, просто подожди, пока Мин вернется."
+    mc "А? Думаю, просто подожди, пока Мин вернётся."
 
 # game/code/e06/e06s02.rpy:264
 translate russian e06s02_inside_700e6051:
@@ -346,7 +346,7 @@ translate russian e06s02_inside_1dc4fa3a:
 translate russian e06s02_inside_e40acce8:
 
     # mc "Yes. But I also saw how she invited you in to help you dry off."
-    mc "Да. Но я также видел, как она пригласила тебя войти, чтобы ты могла вытереться."
+    mc "Да. Но я также видел, как она пригласила тебя войти, чтобы ты могла обсохнуть."
 
 # game/code/e06/e06s02.rpy:281
 translate russian e06s02_inside_2c9b3f1e:
@@ -376,7 +376,7 @@ translate russian e06s02_inside_fa58f5c5:
 translate russian e06s02_inside_27fced0d:
 
     # mes "Maybe I'll be open to... whatever you have to say."
-    mes "Может, я смогу выслушать... все, что ты скажешь."
+    mes "Может, я смогу выслушать... всё, что ты скажешь."
 
 # game/code/e06/e06s02.rpy:297
 translate russian e06s02_inside_b4454227:
@@ -562,13 +562,13 @@ translate russian e06s02_inside_35f735f5:
 translate russian e06s02_inside_af9528f7:
 
     # mes "Now... I don't know if there is the chance for us to go back to how things were."
-    mes "Сейчас... Я не знаю, есть ли у нас шанс вернуть все как было."
+    mes "Сейчас... Я не знаю, есть ли у нас шанс вернуть всё как было."
 
 # game/code/e06/e06s02.rpy:392
 translate russian e06s02_inside_06c00b8b:
 
     # mes "And I wasn't planning to see you for a while. Maybe even forever."
-    mes "И я не планировала встречаться с тобой какое-то время. Возможно, даже навсегда."
+    mes "И я не планировала встречаться с тобой какое-то время. Возможно, даже никогда."
 
 # game/code/e06/e06s02.rpy:393
 translate russian e06s02_inside_827bd663:
@@ -622,7 +622,7 @@ translate russian e06s02_inside_2ccbd619:
 translate russian e06s02_inside_b01c2ee6:
 
     # lc "I know it won't count for much, but once I realized how far things had gotten, I turned myself in and explained what was happening."
-    lc "Я знаю, что это не имеет большого значения, но как только я поняла, как далеко все зашло, я сдалась и объяснила, что происходит."
+    lc "Я знаю, что это не имеет большого значения, но как только я поняла, как далеко всё зашло, я сдалась и объяснила, что происходит."
 
 # game/code/e06/e06s02.rpy:413
 translate russian e06s02_inside_ba401dd3:
@@ -652,7 +652,7 @@ translate russian e06s02_inside_77edfd14:
 translate russian e06s02_inside_204a9a46:
 
     # lc "I know but. It's not like a switch. Between us, you picked up all the firsts and..."
-    lc "Я знаю, но. Это не похоже на переключатель. Между нами, ты забирала все первой и..."
+    lc "Я знаю, но. Это не похоже на переключатель. Между нами, ты забирала всё первой и..."
 
 # game/code/e06/e06s02.rpy:426
 translate russian e06s02_inside_a9ed4e36:
@@ -664,7 +664,7 @@ translate russian e06s02_inside_a9ed4e36:
 translate russian e06s02_inside_38bf30c7:
 
     # mes "*Chuckle* I'll admit, a part of me did get a little bored always being first."
-    mes "*Смеется* Признаюсь, мне немного надоело всегда быть первой."
+    mes "*Смеётся* Признаюсь, мне немного надоело всегда быть первой."
 
 # game/code/e06/e06s02.rpy:430
 translate russian e06s02_inside_339aaba1:
@@ -694,7 +694,7 @@ translate russian e06s02_inside_c5a65083:
 translate russian e06s02_inside_fc22139e:
 
     # mes "No more secrets. Or we are done and that's that."
-    mes "Больше никаких секретов. Или между нами все кончено и точка."
+    mes "Больше никаких секретов. Или между нами всё кончено и точка."
 
 # game/code/e06/e06s02.rpy:453
 translate russian e06s02_inside_c117bfaa:
@@ -712,7 +712,7 @@ translate russian e06s02_inside_8331022c:
 translate russian e06s02_inside_759a3f9c:
 
     # mes "Then we are good."
-    mes "Тогда все будет хорошо."
+    mes "Тогда всё будет хорошо."
 
 # game/code/e06/e06s02.rpy:463
 translate russian e06s02_inside_c2adf8c0:
@@ -724,7 +724,7 @@ translate russian e06s02_inside_c2adf8c0:
 translate russian e06s02_inside_d37b33a3:
 
     # mes "Heh. Wonderfully forgiving too."
-    mes "Хех. И удивительно прощающий."
+    mes "Хех. И удивительно прощающая."
 
 # game/code/e06/e06s02.rpy:469
 translate russian e06s02_inside_f93fea92:
@@ -760,7 +760,7 @@ translate russian e06s02_inside_9f413db3:
 translate russian e06s02_inside_cf3d7f8d:
 
     # mes "Well, in the pursuit of transparency, I'm very happy you came along with Lydia, [mcname]."
-    mes "В погоне за откровенностью, я очень рада, что ты пришел вместе с Лидией, [mcname]."
+    mes "В погоне за откровенностью, я очень рада, что ты пришёл вместе с Лидией, [mcname]."
 
 # game/code/e06/e06s02.rpy:492
 translate russian e06s02_inside_d4f61567:
@@ -832,7 +832,7 @@ translate russian e06s02_inside_ef31455a:
 translate russian e06s02_inside_3a9a551c:
 
     # mes "Mmhmm. You're going to keep seeing this... and so much more."
-    mes "Мммм... Ты будешь продолжать наблюдать за этим... и многим другим."
+    mes "Мммм... Ты будешь наблюдать за этим... и многим другим."
 
 # game/code/e06/e06s02.rpy:574
 translate russian e06s02_inside_7ae09767:
@@ -862,7 +862,7 @@ translate russian e06s02_bj_5d3e3d2e:
 translate russian e06s02_bj_d0dcf03c:
 
     # mct "But I think we can still spice things up a bit."
-    mct "Но я думаю, что можно еще немного разнообразить ситуацию."
+    mct "Но я думаю, что можно ещё немного разнообразить ситуацию."
 
 # game/code/e06/e06s02.rpy:619
 translate russian e06s02_bj_67d98a7a:
@@ -886,7 +886,7 @@ translate russian e06s02_bj_a71b0e99:
 translate russian e06s02_bj_f84c7857:
 
     # mes "*Gagging*"
-    mes "*Заткнута*"
+    mes "*Рвотные позывы*"
 
 # game/code/e06/e06s02.rpy:642
 translate russian e06s02_bj_7e7f582f:
@@ -916,7 +916,7 @@ translate russian e06s02_bj_d32d92d6:
 translate russian e06s02_bj_22743387:
 
     # lc "Alright, why don't you let me have some fun before you erupt."
-    lc "Ладно, позволь мне немного повеселиться, прежде чем ты вспыхнешь."
+    lc "Ладно, позволь мне немного повеселиться, прежде чем ты взорвёшься."
 
 # game/code/e06/e06s02.rpy:670
 translate russian e06s02_bj_71d15ac7:
@@ -928,7 +928,7 @@ translate russian e06s02_bj_71d15ac7:
 translate russian e06s02_bj_2c66c77f:
 
     # lc "Did you miss anything else?"
-    lc "Ты упустила что-нибудь еще?"
+    lc "Ты упустила что-нибудь ещё?"
 
 # game/code/e06/e06s02.rpy:687
 translate russian e06s02_bj_23aa3b29:
@@ -1186,7 +1186,7 @@ translate russian e06s02_sex_cb40993e:
 translate russian e06s02_sex_6a4e2a0c:
 
     # mes "*Gasp*"
-    mes "*Gasp*"
+    mes "*задыхается*"
 
 # game/code/e06/e06s02.rpy:889
 translate russian e06s02_sex_e12b8754:
@@ -1246,7 +1246,7 @@ translate russian e06s02_sex_9d9492e6:
 translate russian e06s02_sex_43e2a595:
 
     # lc "I think I'm getting good at translating Min's words when her mouth is full of pussy."
-    lc "Кажется, у меня хорошо получается переводить слова Мин, пока ее рот заполнен киской."
+    lc "Кажется, у меня хорошо получается переводить слова Мин, пока ее рот занят моей киской."
 
 # game/code/e06/e06s02.rpy:923
 translate russian e06s02_sex_03993b2e:
@@ -1300,7 +1300,7 @@ translate russian e06s02_sex_3e7a8a95:
 translate russian e06s02_sex_194b53bf:
 
     # lc "Not yet. You shouldn't cum again until after [mcname] gets the chance."
-    lc "Еще нет. Ты не должна кончать снова, пока [mcname] не даст тебе шанс."
+    lc "Еще нет. Ты не должна кончать снова, пока [mcname] не позволит."
 
 # game/code/e06/e06s02.rpy:980
 translate russian e06s02_sex_573585a0:
@@ -1408,7 +1408,7 @@ translate russian e06s02_sex_2d78a730:
 translate russian e06s02_sex_4f89cc72:
 
     # mes "*Laughs and pants*"
-    mes "*Смеется и тяжело дышит*"
+    mes "*Смеётся и тяжело дышит*"
 
 # game/code/e06/e06s02.rpy:1063
 translate russian e06s02_sex_96dcddf2:
@@ -1516,7 +1516,7 @@ translate russian e06s02_sex_2ed4c0f4:
 translate russian e06s02_sex_f7a873ae:
 
     # mes "But try not to worry, Lydia. In the end, I'm sure you'll feel better about everything."
-    mes "Но постарайтесь не волноваться, Лидия. В конце концов, я уверена, тебе станет легче."
+    mes "Но постарайся не волноваться, Лидия. В конце концов, я уверена, тебе станет легче."
 
 # game/code/e06/e06s02.rpy:1146
 translate russian e06s02_sex_b13a261f:

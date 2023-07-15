@@ -772,7 +772,7 @@ translate russian d21s05_fuck_tr_b2fee71c:
 translate russian d21s05_fuck_tr_4172b25d:
 
     # mc "And you, Aaleyah?"
-    mc "А ты, Аалейя?"
+    mc "А ты, Алия?"
 
 # game/code/d21/d21s05.rpy:638
 translate russian d21s05_fuck_tr_dbc0ab3c:
@@ -826,7 +826,7 @@ translate russian d21s05_fuck_tr_01e21a27:
 translate russian d21s05_fuck_tr_e011ebc1:
 
     # mk "Wait, really?"
-    mk "Подождите, серьезно?"
+    mk "Стоп, серьезно?"
 
 # game/code/d21/d21s05.rpy:657
 translate russian d21s05_fuck_tr_8dd89fab:

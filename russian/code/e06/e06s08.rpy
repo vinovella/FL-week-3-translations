@@ -1276,7 +1276,7 @@ translate russian d06s08_arj_bcdee576:
 translate russian d06s08_arj_1c69dbe4:
 
     # arj "May I quote Pulp Fiction at least?"
-    arj "Можно я процитирую хотя бы "Криминальное чтиво"?"
+    arj "Можно я процитирую хотя бы \"Криминальное чтиво\"?"
 
 # game/code/e06/e06s08.rpy:933
 translate russian d06s08_arj_421877cc:

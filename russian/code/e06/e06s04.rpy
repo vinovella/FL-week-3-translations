@@ -4,7 +4,7 @@
 translate russian e06s04_882706cd:
 
     # lc "It's all set."
-    lc "Все готово."
+    lc "Всё готово."
 
 # game/code/e06/e06s04.rpy:26
 translate russian e06s04_925f9977:
@@ -52,7 +52,7 @@ translate russian e06s04_1c5f6920:
 translate russian e06s04_19b3d85c:
 
     # mc "It's okay just to cut loose today, sweetheart."
-    mc "Сегодня можно просто расслабиться, детка."
+    mc "Детка, сегодня можно просто расслабиться."
 
 # game/code/e06/e06s04.rpy:57
 translate russian e06s04_4ed3dbd6:
@@ -160,7 +160,7 @@ translate russian e06s04_180fde8f:
 translate russian e06s04_ece89939:
 
     # mes "Well, we certainly know who the wild card of the bunch is."
-    mes "Ну, мы, конечно, знаем, кто является "дикой картой" в этой группе."
+    mes "Ну, мы, конечно, знаем, кто является \"дикой картой\" в этой группе."
 
 # game/code/e06/e06s04.rpy:174
 translate russian e06s04_0a979c32:
@@ -190,7 +190,7 @@ translate russian e06s04_5305554f:
 translate russian e06s04_63313904:
 
     # mc "One of these days, you're going to hurt yourself pulling something like that."
-    mc "В один прекрасный день ты покалечишься, вытягивая что-то подобное."
+    mc "В один прекрасный день ты покалечишься, вытворяя что-то подобное."
 
 # game/code/e06/e06s04.rpy:195
 translate russian e06s04_c7217a3c:
@@ -268,7 +268,7 @@ translate russian e06s04_c95a234f:
 translate russian e06s04_1ae8762e:
 
     # mes "But it's not all bad, I'm sure most nights we will all fall asleep curled up around [mcname] in whatever room the fun starts in."
-    mes "Но все не так уж плохо, я уверена, что большинство ночей мы все будем засыпать, свернувшись калачиком вокруг [mcname] в любой комнате, где начинается веселье."
+    mes "Но всё не так уж плохо, я уверена, что большинство ночей мы все будем засыпать, свернувшись калачиком вокруг [mcname] в любой комнате, где начинается веселье."
 
 # game/code/e06/e06s04.rpy:237
 translate russian e06s04_2af47fcc:
@@ -286,7 +286,7 @@ translate russian e06s04_742f908e:
 translate russian e06s04_f66cf2a6:
 
     # mes "If Stacy ever gives you trouble, we can tie her up in the basement."
-    mes "Если Стейси когда-нибудь доставит тебе неприятности, мы можем связать ее в подвале."
+    mes "Если Стейси когда-нибудь доставит тебе неприятности, мы можем связать её в подвале."
 
 # game/code/e06/e06s04.rpy:251
 translate russian e06s04_3556e90e:
@@ -358,7 +358,7 @@ translate russian e06s04_drinks_ea4ff881:
 translate russian e06s04_later_908a5de0:
 
     # mes "We will have to remember this day as the official start of your harem, [mcname]."
-    mes "Нам придется запомнить этот день как официальное открытие твоего гарема, [mcname]."
+    mes "Нам придётся запомнить этот день как официальное открытие твоего гарема, [mcname]."
 
 # game/code/e06/e06s04.rpy:323
 translate russian e06s04_later_facdc3eb:
@@ -376,7 +376,7 @@ translate russian e06s04_later_b940ce0c:
 translate russian e06s04_later_0c168524:
 
     # sy "I gotta ask you something, Lydia."
-    sy "Я хочу спросить тебя кое о чем, Лидия."
+    sy "Лидия, я хочу спросить тебя кое о чем."
 
 # game/code/e06/e06s04.rpy:332
 translate russian e06s04_later_ad6d5f24:
@@ -394,7 +394,7 @@ translate russian e06s04_later_13c84637:
 translate russian e06s04_later_3f45d272:
 
     # arj "I was also a little curious. Once upon a time, I had to get to the point of accepting I would have to share him."
-    arj "Мне также было немного любопытно. Однажды мне пришлось смириться с тем, что мне придется его делить."
+    arj "Мне также было немного любопытно. Однажды мне пришлось смириться с тем, что мне придётся его делить."
 
 # game/code/e06/e06s04.rpy:341
 translate russian e06s04_later_6dce681b:
@@ -412,19 +412,19 @@ translate russian e06s04_later_80b52b85:
 translate russian e06s04_later_da4a14a6:
 
     # sy "But you still want him to fuck you one day, right?"
-    sy "Но ты все равно хочешь, чтобы однажды он трахнул тебя, верно?"
+    sy "Но ты всё равно хочешь, чтобы однажды он трахнул тебя, верно?"
 
 # game/code/e06/e06s04.rpy:351
 translate russian e06s04_later_2c1fea64:
 
     # lc "One day, I want him to do everything he's been wanting to do to me since we met."
-    lc "Однажды я захочу, чтобы он сделал со мной все, что хотел сделать с момента нашего знакомства."
+    lc "Однажды я захочу, чтобы он сделал со мной всё, что хотел сделать с момента нашего знакомства."
 
 # game/code/e06/e06s04.rpy:352
 translate russian e06s04_later_7f6f836d:
 
     # lc "And of course, I'll probably want him to do everything he's done to all of you as well."
-    lc "И, конечно, я, вероятно, захочу, чтобы он сделал все то же самое, что он делал со всеми вами."
+    lc "И, конечно, я, вероятно, захочу, чтобы он сделал всё то же самое, что он делал со всеми вами."
 
 # game/code/e06/e06s04.rpy:356
 translate russian e06s04_later_161ab4ba:
@@ -442,7 +442,7 @@ translate russian e06s04_later_851a97b8:
 translate russian e06s04_later_e03aa1aa:
 
     # sy "I want to be first. That is definitely at the top on my bucket list."
-    sy "Я хочу быть первой. Это определенно занимает первое место в моем списке желаний."
+    sy "Я хочу быть первой. Это определённо занимает первое место в моём списке желаний."
 
 # game/code/e06/e06s04.rpy:365
 translate russian e06s04_later_f3fb6e46:
@@ -664,13 +664,13 @@ translate russian e06s04_later_f3fd8ec8:
 translate russian e06s04_later_6c5cdb32:
 
     # mc "If you change your mind about having the wedding here, or you want anything else, just tell me."
-    mc "Если передумаешь устраивать свадьбу здесь или захочешь чего-то еще, просто скажи мне."
+    mc "Если передумаешь устраивать свадьбу здесь или захочешь чего-то ещё, просто скажи мне."
 
 # game/code/e06/e06s04.rpy:476
 translate russian e06s04_later_9963463c:
 
     # lc "All I need is you, [mcname]. Everything else will fall into place, I know it will. I love you, darling."
-    lc "Все, что мне нужно, это ты, [mcname]. Остальное все встанет на свои места, я знаю. Я люблю тебя, дорогой."
+    lc "Всё, что мне нужно, это ты, [mcname]. Остальное всё встанет на свои места, я знаю. Я люблю тебя, дорогой."
 
 # game/code/e06/e06s04.rpy:480
 translate russian e06s04_later_31152f7e:

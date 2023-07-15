@@ -144,7 +144,7 @@ translate russian strings:
 
     # game/code/screens/screens.rpy:1017
     old "{#auto_page}A"
-    new "{#auto_page}A"
+    new "{#auto_page}А"
 
     # game/code/screens/screens.rpy:1020
     old "{#quick_page}Q"
@@ -360,7 +360,7 @@ translate russian strings:
 
     # game/code/screens/screens.rpy:1443
     old "Start, Guide"
-    new "Start, Guide"
+    new "Открыть руководство"
 
     # game/code/screens/screens.rpy:1447
     old "Y/Top Button"
@@ -396,5 +396,5 @@ translate russian strings:
 
     # game/code/screens/screens.rpy:1045
     old "Connect Your Toy"
-    new "Connect Your Toy"
+    new "Подключить Lovence устройство"
 
