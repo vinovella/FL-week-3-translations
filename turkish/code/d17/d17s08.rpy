@@ -46,7 +46,7 @@ translate turkish d17s08_1bf60051:
 translate turkish d17s08_0f7db042:
 
     # lc "So, I was looking it up, and apparently I'm what they call a \"voyeur\". I like watching other people having sex."
-    lc "Yani, araştırıyordum ve görünüşe göre ben \"röntgenc\i" dedikleri kişiyim. Diğer insanların seks yapmasını izlemeyi seviyorum."
+    lc "Yani, araştırıyordum ve görünüşe göre ben \"röntgenci\" dedikleri kişiyim. Diğer insanların seks yapmasını izlemeyi seviyorum."
 
 # game/code/d17/d17s08.rpy:82
 translate turkish d17s08_9ed7cd70:

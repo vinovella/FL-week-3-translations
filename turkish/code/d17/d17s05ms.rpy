@@ -706,7 +706,7 @@ translate turkish d17s05ms_1df8c053:
 translate turkish d17s05ms_38f2922e:
 
     # sy "Someone said, \"A romantic, candlelit dinner would be incomplete without... Farting and walking away."
-    sy "Birisi, \"Mum ışığında romantik bir akşam yemeği, osurmadan ve çekip gitmeden eksik kalır," dedi."
+    sy "Birisi, \"Mum ışığında romantik bir akşam yemeği, osurmadan ve çekip gitmeden eksik kalır,\" dedi."
 
 # game/code/d17/d17s05ms.rpy:383
 translate turkish d17s05ms_31133a74:
@@ -1138,7 +1138,7 @@ translate turkish d17s05ms_8a8091e3:
 translate turkish d17s05ms_dd43b5b2:
 
     # mc "I'm not sure I'd call it \"relaxing\" exactly, though. I was fighting for my life out there."
-    mc "Yine de buna tam olarak \"rahatlatıcı" diyebileceğimden emin değilim. Orada hayatım için savaşıyordum."
+    mc "Yine de buna tam olarak \"rahatlatıcı\" diyebileceğimden emin değilim. Orada hayatım için savaşıyordum."
 
 # game/code/d17/d17s05ms.rpy:631
 translate turkish d17s05ms_1794fc3c:

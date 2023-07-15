@@ -124,7 +124,7 @@ translate turkish d18s02_3b398dbf:
 translate turkish d18s02_3258d5d5:
 
     # arj "So it could be practically anyone in the college, not just the faculty."
-    arj ""Yani sadece fakülte değil, kolejdeki hemen hemen herkes olabilir."
+    arj "Yani sadece fakülte değil, kolejdeki hemen hemen herkes olabilir."
 
 # game/code/d18/d18s02.rpy:89
 translate turkish d18s02_dafe1e87:

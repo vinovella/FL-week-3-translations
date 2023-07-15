@@ -364,7 +364,7 @@ translate turkish d18s06_ca24c8f3:
 translate turkish d18s06_0f89cf5e:
 
     # sy "I've tried everything I can think of... it all results in a best case scenario of a 0.3%% chance of success."
-    sy "Aklıma gelen her şeyi denedim... hepsi en iyi ihtimalle %0,3 başarı şansıyla sonuçlandı."
+    sy "Aklıma gelen her şeyi denedim... hepsi en iyi ihtimalle %%0,3 başarı şansıyla sonuçlandı."
 
 # game/code/d18/d18s06.rpy:187
 translate turkish d18s06_e4fd6d10:
@@ -581,4 +581,3 @@ translate turkish strings:
     # game/code/d18/d18s06.rpy:6
     old "Some time later\nAt the college campus"
     new "Bir süre sonra\Nüniversite kampüsünde"
-

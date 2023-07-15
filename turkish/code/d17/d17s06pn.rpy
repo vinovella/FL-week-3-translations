@@ -580,7 +580,7 @@ translate turkish d17s06pn_98bcc197:
 translate turkish d17s06pn_6c81f947:
 
     # nk "But... {w}I don't want to lose you guys."
-    nk "Ama... {w}Sizi kaybetmek istemiyorum çocuklar.""
+    nk "Ama... {w}Sizi kaybetmek istemiyorum çocuklar."
 
 # game/code/d17/d17s06pn.rpy:352
 translate turkish d17s06pn_0e2b3960:

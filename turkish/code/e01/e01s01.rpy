@@ -88,7 +88,7 @@ translate turkish e01s01_ed945780:
 translate turkish e01s01_7cc2e094:
 
     # sy "Okayokayokay, so, refresher then."
-    sy ""Okayokayokay, öyleyse, tazele o zaman."
+    sy "Okayokayokay, öyleyse, tazele o zaman."
 
 # game/code/e01/e01s01.rpy:282
 translate turkish e01s01_21d1693f:
@@ -1624,7 +1624,7 @@ translate turkish e01s01_finale_95c7633a:
 translate turkish e01s01_finale_8b14f7f4:
 
     # sy "That was... *Catches her breath* Just what I wanted."
-    sy ""Bu... *nefesini tutar* Tam da benim istediğim şeydi."
+    sy "Bu... *nefesini tutar* Tam da benim istediğim şeydi."
 
 # game/code/e01/e01s01.rpy:1894
 translate turkish e01s01_finale_7b471f6f:
