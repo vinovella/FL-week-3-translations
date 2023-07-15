@@ -34,7 +34,7 @@ translate russian e06s05_55217b27:
 translate russian e06s05_5c6224fd:
 
     # sy "We were going to hire a stripper or escort or something..."
-    sy "Мы собирались нанять стриптизершу, или эскорт, или еще что-нибудь..."
+    sy "Мы собирались нанять стриптизершу, или эскорт, или ещё что-нибудь..."
 
 # game/code/e06/e06s05.rpy:107
 translate russian e06s05_73eb2e38:
@@ -70,7 +70,7 @@ translate russian e06s05_d61c9b7b:
 translate russian e06s05_fa0a9567:
 
     # arj "You are going to love this - if half of what I've heard about you is true."
-    arj "Тебе это понравится - если половина того, что я слышал о тебе, правда."
+    arj "Тебе это понравится - если половина того, что я слышала о тебе, правда."
 
 # game/code/e06/e06s05.rpy:124
 translate russian e06s05_4871923e:
@@ -94,7 +94,7 @@ translate russian e06s05_53a23e17:
 translate russian e06s05_40b5d261:
 
     # arj "And you're going to have to listen to everything that happens."
-    arj "И тебе придется слушать все, что будет происходить."
+    arj "И тебе придётся слушать всё, что будет происходить."
 
 # game/code/e06/e06s05.rpy:135
 translate russian e06s05_b00cc436:
@@ -160,7 +160,7 @@ translate russian e06s05_7af77e4e:
 translate russian e06s05_18c9ef3d:
 
     # arj "I hadn't thought of that. Just be quiet and enjoy the show."
-    arj "Об этом я не подумала. Просто ведите себя тихо и наслаждайтесь шоу."
+    arj "Об этом я не подумала. Просто веди себя тихо и наслаждайся шоу."
 
 # game/code/e06/e06s05.rpy:167
 translate russian e06s05_1e08ecfc:
@@ -214,7 +214,7 @@ translate russian e06s05_d961b307:
 translate russian e06s05_2d4ac9ad:
 
     # sy "Just relax and get excited. The show is about to start."
-    sy "Просто расслабься и получай удовольствие. Шоу вот-вот начнется."
+    sy "Просто расслабься и получай удовольствие. Шоу вот-вот начнётся."
 
 # game/code/e06/e06s05.rpy:202
 translate russian e06s05_show_start_4c068439:
@@ -322,7 +322,7 @@ translate russian e06s05_show_start_c1014cd5:
 translate russian e06s05_show_start_ca00f03b:
 
     # sy "Believe me - the pleasure is all mine."
-    sy "Поверь мне - удовольствие исключительно мое."
+    sy "Поверь мне - удовольствие исключительно моё."
 
 # game/code/e06/e06s05.rpy:260
 translate russian e06s05_show_start_213ce832:
@@ -376,7 +376,7 @@ translate russian e06s05_show_start_7988ac39:
 translate russian e06s05_show_start_846ec958:
 
     # dd "Heya Squizzel. How am I doing?"
-    dd "Привет, Сквизлли. Как тебе?"
+    dd "Привет, Сквизли. Как тебе?"
 
 # game/code/e06/e06s05.rpy:287
 translate russian e06s05_show_start_8ac8d27e:
@@ -400,7 +400,7 @@ translate russian e06s05_show_start_a1568630:
 translate russian e06s05_show_start_8741fbc8:
 
     # dd "Not just see, Squizzel. You'll get the full experience tonight."
-    dd "Не просто увидеть, Сквизлли. Сегодня ты сможешь испытать всё в полной мере."
+    dd "Не просто увидеть, Сквизли. Сегодня ты сможешь испытать всё в полной мере."
 
 # game/code/e06/e06s05.rpy:296
 translate russian e06s05_show_start_f6618459:
@@ -424,7 +424,7 @@ translate russian e06s05_show_start_19405a17:
 translate russian e06s05_show_start_fb144171:
 
     # dd "Hey Loverboy. Is that your fiance tied up behind you?"
-    dd "Привет, влюбленный мальчик. Это твоя невеста, связанная сзади тебя?"
+    dd "Привет, влюбленный мальчик. Это твоя невеста, связана позади тебя?"
 
 # game/code/e06/e06s05.rpy:304
 translate russian e06s05_show_start_92327a42:
@@ -466,13 +466,13 @@ translate russian e06s05_show_start_d2145603:
 translate russian e06s05_show_start_b5b346d1:
 
     # dd "I'm all yours for tonight. You can do anything you want."
-    dd "Я полностью в твоем распоряжении этой ночью. Ты можешь делать все, что захочешь."
+    dd "Я полностью в твоём распоряжении этой ночью. Ты можешь делать всё, что захочешь."
 
 # game/code/e06/e06s05.rpy:321
 translate russian e06s05_show_start_866a4b39:
 
     # dd "You can do everything you want with me."
-    dd "Ты можешь делать со мной все, что пожелаешь."
+    dd "Ты можешь делать со мной всё, что пожелаешь."
 
 # game/code/e06/e06s05.rpy:326
 translate russian e06s05_show_start_7825e1c3:
@@ -544,7 +544,7 @@ translate russian e06s05_show_start_7ff77b59:
 translate russian e06s05_show_start_cf20eca5:
 
     # mes "Well, my first thought is to bind her ankles together with that rope over there."
-    mes "Итак, моя первая мысль - связать ее лодыжки вон той веревкой."
+    mes "Итак, моя первая мысль - связать ее лодыжки вон той верёвкой."
 
 # game/code/e06/e06s05.rpy:355
 translate russian e06s05_show_start_7000a8f9:
@@ -610,7 +610,7 @@ translate russian e06s05_show_start_f8f7c1a0:
 translate russian e06s05_show_start_fee13012:
 
     # dd "Anything you want - I'm your girl."
-    dd "Все, что захочешь - я сделаю для тебя."
+    dd "Всё, что захочешь - я сделаю для тебя."
 
 # game/code/e06/e06s05.rpy:380
 translate russian e06s05_show_start_d1683a99:
@@ -634,7 +634,7 @@ translate russian e06s05_mes_cane_4649b405:
 translate russian e06s05_mes_cane_61f4ce8f:
 
     # mes "Would you like a gag before we get started?"
-    mes "Может, тебе нужно заткнуть рот, прежде чем мы начнем?"
+    mes "Может, тебе нужно заткнуть рот, прежде чем мы начнём?"
 
 # game/code/e06/e06s05.rpy:407
 translate russian e06s05_mes_cane_0fff072d:
@@ -646,7 +646,7 @@ translate russian e06s05_mes_cane_0fff072d:
 translate russian e06s05_mes_cane_cce68385:
 
     # sy "Let her scream. Nobody will hear her."
-    sy "Пусть покричит. Никто ее не услышит."
+    sy "Пусть покричит. Никто её не услышит."
 
 # game/code/e06/e06s05.rpy:412
 translate russian e06s05_mes_cane_0abf10ca:
@@ -658,7 +658,7 @@ translate russian e06s05_mes_cane_0abf10ca:
 translate russian e06s05_mes_cane_80f0e2a9:
 
     # mc "Seriously, are you a Bond villain or something?"
-    mc "Серьезно, ты что, бондовский злодей, что ли?"
+    mc "Серьёзно, ты что, бондовский злодей, что ли?"
 
 # game/code/e06/e06s05.rpy:416
 translate russian e06s05_mes_cane_b52ad568:
@@ -718,7 +718,7 @@ translate russian e06s05_mes_cane_a1c51a13:
 translate russian e06s05_mes_cane_960a4094:
 
     # dd "I'm sure you're hard as a rock under those pants right now."
-    dd "Я уверена, что у тебя в штанах сейчас все твердое, как камень."
+    dd "Я уверена, что у тебя в штанах сейчас всё твердое, как камень."
 
 # game/code/e06/e06s05.rpy:448
 translate russian e06s05_mes_cane_503096bf:
@@ -760,7 +760,7 @@ translate russian e06s05_mes_cane_89ee7b89:
 translate russian e06s05_mes_cane_c01f5e0a:
 
     # mct "Okay, now I'm hard as a rock."
-    mct "Так, теперь у меня твердый как камень."
+    mct "Так, теперь у меня твёрдый как камень."
 
 # game/code/e06/e06s05.rpy:475
 translate russian e06s05_mes_cane_9723c7f5:
@@ -778,7 +778,7 @@ translate russian e06s05_mes_cane_bc259caa:
 translate russian e06s05_mes_cane_580de6da:
 
     # arj "You invited her."
-    arj "Ты пригласила ее."
+    arj "Ты пригласила её."
 
 # game/code/e06/e06s05.rpy:481
 translate russian e06s05_mes_cane_25069130:
@@ -832,7 +832,7 @@ translate russian e06s05_mes_cane_490099f4:
 translate russian e06s05_mes_cane_8934ce6b:
 
     # mes "Don't worry, for this next bit you get to lay down."
-    mes "Не волнуйтесь, на следующем этапе ты можешь лечь."
+    mes "Не волнуйтесь, на следующем этапе ты можешь лежать."
 
 # game/code/e06/e06s05.rpy:516
 translate russian e06s05_mes_cane_d5ea7930:
@@ -976,7 +976,7 @@ translate russian e06s05_sy_choice_8a72c7f7:
 translate russian e06s05_sy_choice_febb7953:
 
     # arj "I brought a selection, and they already had some here."
-    arj "Я принесла несколько, и у них уже есть несколько здесь."
+    arj "Я принесла несколько, и у здесь уже имеется парочка."
 
 # game/code/e06/e06s05.rpy:593
 translate russian e06s05_sy_choice_03a45775:
@@ -1312,7 +1312,7 @@ translate russian e06s05_sy_strapon_5e8910ec:
 translate russian e06s05_sy_strapon_517ccf50:
 
     # mc "I'll test that later. For now, you can fuck her pussy."
-    mc "Я проверю это позже. А пока можешь трахнуть ее киску."
+    mc "Я проверю это позже. А пока можешь трахнуть её киску."
 
 # game/code/e06/e06s05.rpy:784
 translate russian e06s05_sy_strapon_f878e240:
@@ -1324,19 +1324,19 @@ translate russian e06s05_sy_strapon_f878e240:
 translate russian e06s05_sy_strapon_25f1c37f:
 
     # mc "Cool. How do you want her?"
-    mc "Супер. Как ты хочешь ее?"
+    mc "Супер. Как ты хочешь её?"
 
 # game/code/e06/e06s05.rpy:788
 translate russian e06s05_sy_strapon_e3e77bbf:
 
     # sy "Doggy style works for me. I can take her just the way she is."
-    sy "Мне подходит догги-стайл. Я могу принять ее прямо так, как сейчас."
+    sy "Мне подходит догги-стайл. Я могу принять её прямо так, как сейчас."
 
 # game/code/e06/e06s05.rpy:789
 translate russian e06s05_sy_strapon_b7b3c701:
 
     # sy "You sure you don't want me to shock her?"
-    sy "Уверен, что не хочешь, чтобы я ее шокировала?"
+    sy "Уверен, что не хочешь, чтобы я её шокировала?"
 
 # game/code/e06/e06s05.rpy:792
 translate russian e06s05_sy_strapon_f597efa0:
@@ -1606,7 +1606,7 @@ translate russian e06s05_arj_choice_ab5e9c67:
 translate russian e06s05_arj_choice_d6b79589:
 
     # arj "Indeed. And I've been paying attention, so I've narrowed it down to two options."
-    arj "Конечно. И я была внимательна, поэтому свела все к двум вариантам."
+    arj "Конечно. И я была внимательна, поэтому свела всё к двум вариантам."
 
 # game/code/e06/e06s05.rpy:930
 translate russian e06s05_arj_choice_f5244280:
@@ -1654,7 +1654,7 @@ translate russian e06s05_arj_choice_e5a241f4:
 translate russian e06s05_arj_choice_8869b63e:
 
     # mc "I'm not saying you would, but explain anyway."
-    mc "Я не говорю, что это так, но все равно расскажи."
+    mc "Я не говорю, что ты так поступишь, но всё равно расскажи."
 
 # game/code/e06/e06s05.rpy:948
 translate russian e06s05_arj_choice_e8a9a1d8:
@@ -2266,7 +2266,7 @@ translate russian e06s05_arj_fisting_eb11fc1e:
 translate russian e06s05_arj_fisting_ea98fadc:
 
     # arj "I think this will be easier for both of us if you don't ask questions right now."
-    arj "Я думаю, нам обоим будет легче, если ты сейчас не будешь задавать вопросов."
+    arj "Я думаю, нам обеим будет легче, если ты сейчас не будешь задавать вопросов."
 
 # game/code/e06/e06s05.rpy:1220
 translate russian e06s05_arj_fisting_0fa72193:
@@ -2332,7 +2332,7 @@ translate russian e06s05_arj_fisting_9e4273c8:
 translate russian e06s05_arj_fisting_aadad784:
 
     # dd "Your parents still think of you as a child. You still think of them thinking of you as a child."
-    dd "Твои родители все еще считают тебя ребенком. Ты все еще думаешь, что они думают о тебе как о ребенке."
+    dd "Твои родители всё ещё считают тебя ребёнком. Ты всё ещё думаешь, что они думают о тебе как о ребенке."
 
 # game/code/e06/e06s05.rpy:1262
 translate russian e06s05_arj_fisting_674eae44:
@@ -2548,13 +2548,13 @@ translate russian e06s05_dd_bound_6bb3b3fe:
 translate russian e06s05_dd_bound_0a707361:
 
     # mc "Her ass is mine."
-    mc "Ее задница - моя."
+    mc "Её задница - моя."
 
 # game/code/e06/e06s05.rpy:1376
 translate russian e06s05_dd_bound_380a2181:
 
     # sy "Perfect. Meanwhile, the rest of us will amuse ourselves by humiliating her."
-    sy "Отлично. Тем временем, остальные будут развлекаться, унижая ее."
+    sy "Отлично. Тем временем, остальные будут развлекаться, унижая её."
 
 # game/code/e06/e06s05.rpy:1378
 translate russian e06s05_dd_bound_c26bc3b5:
@@ -2584,7 +2584,7 @@ translate russian e06s05_dd_bound_6dc854da:
 translate russian e06s05_dd_bound_af39afa4:
 
     # mc "I seriously need to fuck something right now - and I'm determined it will be your ass."
-    mc "Мне очень нужно трахнуть что-нибудь прямо сейчас - и я твердо решил, что это будет твоя задница."
+    mc "Мне очень нужно трахнуть что-нибудь прямо сейчас - и я твёрдо решил, что это будет твоя задница."
 
 # game/code/e06/e06s05.rpy:1390
 translate russian e06s05_dd_bound_d3d1b4d8:
@@ -2602,7 +2602,7 @@ translate russian e06s05_dd_bound_c5685c44:
 translate russian e06s05_dd_bound_c41a5e17:
 
     # mct "I mean, sure, her pussy technically feels better..."
-    mct "Я имею в виду, конечно, ее киска технически выглядит лучше..."
+    mct "Я имею в виду, конечно, её киска технически выглядит лучше..."
 
 # game/code/e06/e06s05.rpy:1419
 translate russian e06s05_dd_bound_af1acb56:
@@ -2650,7 +2650,7 @@ translate russian e06s05_dd_bound_88fd06d9:
 translate russian e06s05_dd_bound_da8ab254:
 
     # mes "I can almost feel you getting harder."
-    mes "Я чувствую, как он становится тверже."
+    mes "Я чувствую, как он становится твёрже."
 
 # game/code/e06/e06s05.rpy:1450
 translate russian e06s05_dd_bound_1a5e79dc:
@@ -2686,13 +2686,13 @@ translate russian e06s05_dd_bound_040620b8:
 translate russian e06s05_dd_bound_ba9f21ad:
 
     # mc "Ask me again tomorrow."
-    mc "Спроси меня завтра еще раз."
+    mc "Спроси меня завтра ещё раз."
 
 # game/code/e06/e06s05.rpy:1473
 translate russian e06s05_dd_bound_c5165073:
 
     # mes "What about this, [mcname]? {w}Does it make you even harder when I spit in this cunt's face?"
-    mes "Как насчет этого, [mcname]?{w} Тебя еще больше заводит, когда я плюю в лицо этой пизде?"
+    mes "Как насчет этого, [mcname]?{w} Тебя ещё больше заводит, когда я плюю в лицо этой пизде?"
 
 # game/code/e06/e06s05.rpy:1475
 translate russian e06s05_dd_bound_827ebe19:
@@ -2812,7 +2812,7 @@ translate russian e06s05_dd_bound_ba18f48c:
 translate russian e06s05_dd_bound_e26af499:
 
     # mc "And her asshole and whatever!!"
-    mc "И ее задница и все остальное!!!"
+    mc "И её задница и всё остальное!!!"
 
 # game/code/e06/e06s05.rpy:1530
 translate russian e06s05_dd_bound_5e7c39c2:
@@ -2830,7 +2830,7 @@ translate russian e06s05_dd_bound_df2f7c13:
 translate russian e06s05_dd_bound_961e6101:
 
     # mes "I bet."
-    mes "Еще бы."
+    mes "Ещё бы."
 
 # game/code/e06/e06s05.rpy:1541
 translate russian e06s05_dd_bound_25853d98:
@@ -2884,7 +2884,7 @@ translate russian e06s05_dd_bound_9c4f5c77:
 translate russian e06s05_dd_bound_ae48796d:
 
     # sy "We bind her to that Saint Andrew's Cross over there and let [mcname] whip the living shit out of her."
-    sy "Мы привяжем ее вон к тому кресту Святого Андрея и позволим [mcname] выбить из нее все дерьмо."
+    sy "Мы привяжем её вон к тому кресту Святого Андрея и позволим [mcname] выбить из неё всё дерьмо."
 
 # game/code/e06/e06s05.rpy:1564
 translate russian e06s05_dd_bound_10e6b53c:
@@ -3022,7 +3022,7 @@ translate russian e06s05_dd_cross_48eebf70:
 translate russian e06s05_dd_cross_c58f3250:
 
     # dd "Fucking amazing. Give me a couple more and I might climax."
-    dd "Охуенно. Дай мне еще пару раз и я смогу кончить."
+    dd "Охуенно. Повтори ещё пару раз и я смогу кончить."
 
 # game/code/e06/e06s05.rpy:1651
 translate russian e06s05_dd_cross_4c6d584d:
@@ -3148,7 +3148,7 @@ translate russian e06s05_dd_after_eaa8ee47:
 translate russian e06s05_dd_after_0a50bf2c:
 
     # lc "Should we invite her to join us?"
-    lc "Должны ли мы пригласить ее присоединиться к нам?"
+    lc "Должны ли мы пригласить её присоединиться к нам?"
 
 # game/code/e06/e06s05.rpy:1712
 translate russian e06s05_dd_after_da63d42f:
@@ -3202,7 +3202,7 @@ translate russian e06s05_dd_after_d35397bc:
 translate russian e06s05_dd_after_64a8faa0:
 
     # mc "Lydia would like to ask you a very serious question."
-    mc "Лидия хотела бы задать тебе очень серьезный вопрос."
+    mc "Лидия хотела бы задать тебе очень серьёзный вопрос."
 
 # game/code/e06/e06s05.rpy:1734
 translate russian e06s05_dd_after_c7990459:

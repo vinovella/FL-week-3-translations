@@ -28,7 +28,7 @@ translate russian e01s01_88129f56:
 translate russian e01s01_89057943:
 
     # mc "You'd take practically anything as a compliment."
-    mc "Ты все принимаешь за комплимент."
+    mc "Ты всё принимаешь за комплимент."
 
 # game/code/e01/e01s01.rpy:248
 translate russian e01s01_671eb3ce:
@@ -40,7 +40,7 @@ translate russian e01s01_671eb3ce:
 translate russian e01s01_cad1f7ee:
 
     # mc "*Chuckles* Unbelievable."
-    mc "*Смеется* Невероятно."
+    mc "*Смеётся* Невероятно."
 
 # game/code/e01/e01s01.rpy:257
 translate russian e01s01_72033c98:
@@ -94,7 +94,7 @@ translate russian e01s01_7cc2e094:
 translate russian e01s01_21d1693f:
 
     # sy "I want to film us having sex."
-    sy "Я хочу снять, как мы занимаемся сексом."
+    sy "Я хочу снять фильм, как мы занимаемся сексом."
 
 # game/code/e01/e01s01.rpy:285
 translate russian e01s01_a7468ab5:
@@ -124,7 +124,7 @@ translate russian e01s01_2cd50405:
 translate russian e01s01_6412f819:
 
     # sy "Well, I guess it'll probably become a marathon session anyway."
-    sy "Ну, наверное, это все равно превратится в своеобразный марафон."
+    sy "Ну, наверное, это всё равно превратится в своеобразный марафон."
 
 # game/code/e01/e01s01.rpy:298
 translate russian e01s01_257e25aa:
@@ -136,7 +136,7 @@ translate russian e01s01_257e25aa:
 translate russian e01s01_585bbc63:
 
     # mc "Okay. But I still don't understand why we need to film it.{w} I'm not against it, I just don't get it."
-    mc "Ладно. Но я все равно не понимаю, зачем нам это снимать. Я не против, просто не понимаю."
+    mc "Ладно. Но я всё равно не понимаю, зачем нам это снимать. Я не против, просто не понимаю."
 
 # game/code/e01/e01s01.rpy:304
 translate russian e01s01_58815d7b:
@@ -196,7 +196,7 @@ translate russian e01s01_887cad9d:
 translate russian e01s01_66e9b0af:
 
     # sy "Yes and no. I just don't want to do them {i}today{/i}. Who knows about the future, though? "
-    sy "И да, и нет. Просто я не хочу заниматься ими сегодня. Но кто знает наперед?"
+    sy "И да, и нет. Просто я не хочу заниматься ими сегодня. Но кто знает наперёд?"
 
 # game/code/e01/e01s01.rpy:331
 translate russian e01s01_49f29859:
@@ -220,7 +220,7 @@ translate russian e01s01_b621b46e:
 translate russian e01s01_d6482316:
 
     # sy "Yeah, stuff like that. For me, that stuff is just kind of a given."
-    sy "Да, все такое. Для меня это уже само собой разумеющееся."
+    sy "Да, всё такое. Для меня это уже само собой разумеющееся."
 
 # game/code/e01/e01s01.rpy:341
 translate russian e01s01_a8959de2:
@@ -232,7 +232,7 @@ translate russian e01s01_a8959de2:
 translate russian e01s01_4518562b:
 
     # sy "Well, anal {i}would{/i} be purple, but you haven't fucked my ass yet, so..."
-    sy "Ну, анал {i}мог быть{/i} фиолетовым, но ты еще не трахал мою задницу, так что..."
+    sy "Ну, анал {i}мог быть{/i} фиолетовым, но ты ещё не трахал мою задницу, так что..."
 
 # game/code/e01/e01s01.rpy:351
 translate russian e01s01_4a7f6258:
@@ -298,7 +298,7 @@ translate russian e01s01_choice_done_a706c67a:
 translate russian e01s01_choice_done_280a6d52:
 
     # sy "Are you sure you're alright with it all?"
-    sy "Ты уверен, что тебя все устраивает?"
+    sy "Ты уверен, что тебя всё устраивает?"
 
 # game/code/e01/e01s01.rpy:397
 translate russian e01s01_choice_done_06815254:
@@ -382,7 +382,7 @@ translate russian e01s01_choice_done_4a4266e2:
 translate russian e01s01_choice_done_223bedd2:
 
     # sy "Focus more on getting ready and less on questions!"
-    sy "Сконцентрируйтесь на подготовке, а не на вопросах!"
+    sy "Сконцентрируйся на подготовке, а не на вопросах!"
 
 # game/code/e01/e01s01.rpy:462
 translate russian e01s01_choice_done_9b4e8bc2:
@@ -652,13 +652,13 @@ translate russian e01s01_choice_done_dd6ede0c:
 translate russian e01s01_choice_done_8e474f2e:
 
     # sy "*Quivers and whimpers* I can feel your cum inside. It feels warm."
-    sy "*Дрожит и хнычет* Я чувствую твою сперму внутри. Она такая теплая."
+    sy "*Дрожит и хнычет* Я чувствую твою сперму внутри. Она такая тёплая."
 
 # game/code/e01/e01s01.rpy:795
 translate russian e01s01_choice_done_736abc08:
 
     # sy "*Quivers and whimpers* I can feel your cum on my ass. It feels warm."
-    sy "*Дрожит и хнычет* Я чувствую твою сперму на моей заднице. Она такая теплая."
+    sy "*Дрожит и хнычет* Я чувствую твою сперму на моей заднице. Она такая тёплая."
 
 # game/code/e01/e01s01.rpy:800
 translate russian e01s01_choice_done_4d492940:
@@ -676,7 +676,7 @@ translate russian e01s01_choice_done_46e61f64:
 translate russian e01s01_choice_done_b647d7af:
 
     # sy "Hopefully it recorded all of that."
-    sy "Надеюсь, все это было записано."
+    sy "Надеюсь, всё это было записано."
 
 # game/code/e01/e01s01.rpy:810
 translate russian e01s01_choice_done_f979eedf:
@@ -688,7 +688,7 @@ translate russian e01s01_choice_done_f979eedf:
 translate russian e01s01_choice_done_f11e1686:
 
     # sy "Mm-hm. But we're not done yet."
-    sy "Угу. Но мы еще не закончили."
+    sy "Угу. Но мы ещё не закончили."
 
 # game/code/e01/e01s01.rpy:816
 translate russian e01s01_choice_done_b2b9e19d:
@@ -712,7 +712,7 @@ translate russian e01s01_scene_vanilla_01_ce461a90:
 translate russian e01s01_scene_vanilla_01_5efbea12:
 
     # mc "You're so fucking tight for me."
-    mc "Какая же у тебя тугая киска."
+    mc "Какая же у тебя тугая дырка."
 
 # game/code/e01/e01s01.rpy:886
 translate russian e01s01_scene_vanilla_01_c1aa2ed4:
@@ -730,7 +730,7 @@ translate russian e01s01_scene_vanilla_01_58b99472:
 translate russian e01s01_scene_vanilla_01_8bbb72db:
 
     # sy "Now fuck me harder!"
-    sy "Теперь трахни меня жестче!"
+    sy "Теперь трахни меня жёстче!"
 
 # game/code/e01/e01s01.rpy:896
 translate russian e01s01_scene_vanilla_01_2eec2dcb:
@@ -826,7 +826,7 @@ translate russian e01s01_scene_bdsm_dom_3e30d311:
 translate russian e01s01_scene_bdsm_dom_8bd0997d:
 
     # mc "Tsk, tsk, tsk, still so fierce. Still don't know how to be obedient."
-    mc "Цок-цок, цок-цок, все такая же агрессивная. Так и не научилась слушаться."
+    mc "Цок-цок, цок-цок, все такая же дерзкая. Так и не научилась слушаться."
 
 # game/code/e01/e01s01.rpy:1029
 translate russian e01s01_scene_bdsm_dom_79de7289:
@@ -982,13 +982,13 @@ translate russian e01s01_scene_bdsm_sub_0a372d29:
 translate russian e01s01_scene_bdsm_sub_a09d5389:
 
     # sy "*Laughs* Oh, no. You're not gonna cum just yet, my sweet."
-    sy "*Смеётся* О, нет. Тебе еще рано кончать, сладенький мой."
+    sy "*Смеётся* О, нет. Тебе ещё рано кончать, сладенький мой."
 
 # game/code/e01/e01s01.rpy:1188
 translate russian e01s01_scene_bdsm_sub_77cf869e:
 
     # sy "{size=22}You'll just have to wait a little longer. *Giggles*{/size}"
-    sy "{size=22}Тебе придется потерпеть еще немного. *Хихикает*{/size}"
+    sy "{size=22}Тебе придется потерпеть ещё немного. *Хихикает*{/size}"
 
 # game/code/e01/e01s01.rpy:1191
 translate russian e01s01_scene_bdsm_sub_220a3b00:
@@ -1318,7 +1318,7 @@ translate russian e01s01_scene_watersports_b573d2e0:
 translate russian e01s01_scene_watersports_d535cba4:
 
     # sy "I can feel your piss inside of me, God. It's so warm."
-    sy "Я чувствую твою мочу внутри себя, Боже. Она такая теплая."
+    sy "Я чувствую твою мочу внутри себя, Боже. Она такая тёплая."
 
 # game/code/e01/e01s01.rpy:1536
 translate russian e01s01_scene_watersports_f3f1e9cf:
@@ -1528,7 +1528,7 @@ translate russian e01s01_inbetween_5_b56fb3d3:
 translate russian e01s01_inbetween_5_ede4a53e:
 
     # mc "Hey. It's okay."
-    mc "Эй. Все в порядке."
+    mc "Эй. Всё в порядке."
 
 # game/code/e01/e01s01.rpy:1773
 translate russian e01s01_inbetween_5_aa2fb29a:
@@ -1564,7 +1564,7 @@ translate russian e01s01_inbetween_finale_bfde24a3:
 translate russian e01s01_inbetween_finale_35324042:
 
     # mc "You can say that again."
-    mc "Можешь повторить это еще раз."
+    mc "Можешь повторить это ещё раз."
 
 # game/code/e01/e01s01.rpy:1800
 translate russian e01s01_inbetween_finale_9c17db41:

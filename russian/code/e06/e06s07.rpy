@@ -40,7 +40,7 @@ translate russian e06s07_b65d9638:
 translate russian e06s07_826d64ce:
 
     # sy "Nevermind. How about you? Are you nervous?"
-    sy "Неважно. А как насчет тебя? Ты нервничаешь?"
+    sy "Неважно. А как насчет тебя? Нервничаешь?"
 
 # game/code/e06/e06s07.rpy:34
 translate russian e06s07_72702210:
@@ -58,7 +58,7 @@ translate russian e06s07_dd4b315c:
 translate russian e06s07_cdff4269:
 
     # mc "Easy. I delegated all that to you."
-    mc "Легко. Я переложил все это на тебя."
+    mc "Легко. Я переложил всё это на тебя."
 
 # game/code/e06/e06s07.rpy:39
 translate russian e06s07_4642bf3d:
@@ -100,7 +100,7 @@ translate russian e06s07_9dc0b1be:
 translate russian e06s07_196a4833:
 
     # sy "It's as good as it is going to get."
-    sy "Он настолько хорош, насколько это возможно."
+    sy "Она настолько хороша, насколько это возможно."
 
 # game/code/e06/e06s07.rpy:54
 translate russian e06s07_038a4d2a:
@@ -148,7 +148,7 @@ translate russian e06s07_7be63fa7:
 translate russian e06s07_7f35d134:
 
     # mc "You didn't manage to convince anyone else to wear their mission outfits today, did you?"
-    mc "Тебе ведь не удалось убедить кого-нибудь еще надеть сегодня костюмы для миссии?"
+    mc "Тебе ведь не удалось убедить кого-нибудь еще надеть сегодня костюм для миссии?"
 
 # game/code/e06/e06s07.rpy:71
 translate russian e06s07_108eefe1:
@@ -178,7 +178,7 @@ translate russian e06s07_dcc18ce5:
 translate russian e06s07_f5bf9e2b:
 
     # mc "None. I've never been more certain of anything before in my life."
-    mc "Нет. Никогда в жизни я не был так уверен в чем-либо."
+    mc "Нет. Никогда в жизни я не был так уверен в чём-либо."
 
 # game/code/e06/e06s07.rpy:81
 translate russian e06s07_8de035df:
@@ -262,7 +262,7 @@ translate russian e06s07_483051f3:
 translate russian e06s07_7b79191a:
 
     # lc "Without doubt or question, I promise to love you, honor you, and submit myself to you in all things."
-    lc "Без сомнений и вопросов я обещаю любить Тебя, почитать Тебя и подчиняться Тебе во всем."
+    lc "Без сомнений и вопросов я обещаю любить Тебя, почитать Тебя и подчиняться Тебе во всём."
 
 # game/code/e06/e06s07.rpy:142
 translate russian e06s07_64d63c9d:
@@ -292,13 +292,13 @@ translate russian e06s07_704c78aa:
 translate russian e06s07_aa60a280:
 
     # lc "As Queen of your Harem, I join a proud sisterhood."
-    lc "Как Королева твоего гарема, я присоединяюсь к гордому братству сестер."
+    lc "Как Королева твоего гарема, я присоединяюсь к гордому союзу сестёр."
 
 # game/code/e06/e06s07.rpy:151
 translate russian e06s07_582158bf:
 
     # lc "I will care for my new sisters as I would care for myself."
-    lc "Я буду заботиться о своих новых сестрах так же, как заботилась бы о себе."
+    lc "Я буду заботиться о своих новых сёстрах так же, как заботилась бы о себе."
 
 # game/code/e06/e06s07.rpy:154
 translate russian e06s07_55a83bed:
@@ -310,13 +310,13 @@ translate russian e06s07_55a83bed:
 translate russian e06s07_901a610c:
 
     # lc "I will ensure that each of us is available to sooth your mind and satisfy your body to the best of our abilities."
-    lc "Я позабочусь о том, чтобы каждый из нас был готов успокоить твой разум и удовлетворить твое тело в меру своих возможностей."
+    lc "Я позабочусь о том, чтобы каждый из нас был готов успокоить твой разум и удовлетворить твоё тело в меру своих возможностей."
 
 # game/code/e06/e06s07.rpy:158
 translate russian e06s07_f5634d16:
 
     # lc "Should I or one of my sisters fail you, I shall present my body for your just punishment."
-    lc "Если я или одна из моих сестер подведет тебя, я представлю свое тело для твоего справедливого наказания."
+    lc "Если я или одна из моих сестёр подведёт тебя, я представлю свое тело для твоего справедливого наказания."
 
 # game/code/e06/e06s07.rpy:159
 translate russian e06s07_9d93a936:
@@ -388,7 +388,7 @@ translate russian e06s07_c8e29a0f:
 translate russian e06s07_1919528b:
 
     # mc "I pledge my life, my heart, and my entire being to you for all eternity."
-    mc "Я посвящаю Тебе свою жизнь, свое сердце и свое сознание на вечные времена."
+    mc "Я посвящаю Тебе свою жизнь, своё сердце и своё сознание на вечные времена."
 
 # game/code/e06/e06s07.rpy:186
 translate russian e06s07_2abc3486:
@@ -544,7 +544,7 @@ translate russian e06s07_3189fe99:
 translate russian e06s07_18701c32:
 
     # lc "We pledge our hearts to [mcname]'s tender care."
-    lc "Мы отдаем наши сердца под нежную заботу [mcname]."
+    lc "Мы отдаём наши сердца под нежную заботу [mcname]."
 
 # game/code/e06/e06s07.rpy:262
 translate russian e06s07_ac729b7a:
@@ -586,7 +586,7 @@ translate russian e06s07_1d172ad3:
 translate russian e06s07_0e7232d2:
 
     # mh "Is there anything else either of you would like to say before we continue?"
-    mh "Есть ли еще что-нибудь, что вы хотели бы сказать, прежде чем мы продолжим?"
+    mh "Есть ли ещё что-нибудь, что вы хотели бы сказать, прежде чем мы продолжим?"
 
 # game/code/e06/e06s07.rpy:283
 translate russian e06s07_2f068911:

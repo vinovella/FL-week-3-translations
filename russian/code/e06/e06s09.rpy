@@ -22,7 +22,7 @@ translate russian e06s09_375e5375:
 translate russian e06s09_21a1daa8:
 
     # lc "You are everything to me."
-    lc "Ты - все для меня."
+    lc "Ты всё для меня."
 
 # game/code/e06/e06s09.rpy:140
 translate russian e06s09_da10ef46:
@@ -94,7 +94,7 @@ translate russian e06s09_blowjob_11200aae:
 translate russian e06s09_blowjob_a31340dd:
 
     # mc "Really?"
-    mc "Серьезно?"
+    mc "Серьёзно?"
 
 # game/code/e06/e06s09.rpy:275
 translate russian e06s09_blowjob_316340f3:
@@ -184,7 +184,7 @@ translate russian e06s09_together_91a20702:
 translate russian e06s09_together_54f836b6:
 
     # lc "You don't feel emasculated that I'm doing the work?"
-    lc "Ты не чувствуешь себя оскорбленным из-за того, что я делаю это?"
+    lc "Ты не чувствуешь себя оскорблённым из-за того, что я делаю это?"
 
 # game/code/e06/e06s09.rpy:351
 translate russian e06s09_together_f6fadba3:
@@ -214,7 +214,7 @@ translate russian e06s09_stand_up_bb0eeaf4:
 translate russian e06s09_stand_up_d1f4f782:
 
     # lc "I mean it."
-    lc "Я серьезно."
+    lc "Я серьёзно."
 
 # game/code/e06/e06s09.rpy:390
 translate russian e06s09_stand_up_89661065:
@@ -316,7 +316,7 @@ translate russian e06s09_doggy_style_138d226b:
 translate russian e06s09_doggy_style_f32209bb:
 
     # mc "... and switch to your asshole anytime I want."
-    mc "... и переключиться на твою задницу в любое время, когда я захочу."
+    mc "... и переключиться на неё в любое время, когда я захочу."
 
 # game/code/e06/e06s09.rpy:486
 translate russian e06s09_doggy_style_e4a92fb1:
@@ -412,7 +412,7 @@ translate russian e06s09_face_fuck_1f61092d:
 translate russian e06s09_face_fuck_5d596012:
 
     # mct "I better stop and check on her."
-    mct "Лучше остановиться и проверить ее."
+    mct "Лучше остановиться и проверить её."
 
 # game/code/e06/e06s09.rpy:566
 translate russian e06s09_face_fuck_17e7f115:
@@ -466,7 +466,7 @@ translate russian e06s09_face_fuck_1000f445:
 translate russian e06s09_face_fuck_1f61092d_1:
 
     # lc "*gag* *gulp* *gag* *gulp*"
-    lc "*gag* *глоток* *gag* *глоток*"
+    lc "*задыхается* *глоток* *задыхается* *глоток*"
 
 # game/code/e06/e06s09.rpy:600
 translate russian e06s09_face_fuck_331e17b9:
@@ -478,7 +478,7 @@ translate russian e06s09_face_fuck_331e17b9:
 translate russian e06s09_face_fuck_63a00ae6:
 
     # lc "*gag* *gag* *gag*"
-    lc "*gag* *gag* *gag*"
+    lc "*задыхается* *задыхается* *задыхается*"
 
 # game/code/e06/e06s09.rpy:604
 translate russian e06s09_face_fuck_5dac1d98:
@@ -550,7 +550,7 @@ translate russian e06s09_deep_21a82c71:
 translate russian e06s09_deep_5fe5a988:
 
     # mc "Well, I'll just have to fuck you until you can't think straight - then ask you again!"
-    mc "Тогда мне придется трахать тебя пока ты не перестанешь соображать, а потом спрошу еще раз!"
+    mc "Тогда мне придётся трахать тебя пока ты не перестанешь соображать, а потом спрошу ещё раз!"
 
 # game/code/e06/e06s09.rpy:671
 translate russian e06s09_deep_4c096309:
@@ -622,7 +622,7 @@ translate russian e06s09_slope_964ed1f7:
 translate russian e06s09_eat_out_641be16f:
 
     # mc "My turn."
-    mc "Мой черед."
+    mc "Мой черёд."
 
 # game/code/e06/e06s09.rpy:785
 translate russian e06s09_eat_out_4871923e:
@@ -880,13 +880,13 @@ translate russian e06s08_post_climax_8a559bcf:
 translate russian e06s08_post_climax_efb44bd6:
 
     # lc "[mcname] gave you a hard time at our wedding about the ring, even though you did everything perfectly."
-    lc "На нашей свадьбе [mcname] не давал тебе покоя по поводу кольца, хотя ты все сделала идеально."
+    lc "На нашей свадьбе [mcname] не давал тебе покоя по поводу кольца, хотя ты всё сделала идеально."
 
 # game/code/e06/e06s09.rpy:1005
 translate russian e06s08_post_climax_3f69810d:
 
     # sy "Yeah, and before the ceremony he was talking shit about my outfit."
-    sy "Да, и перед церемонией он говорил глупости о моем наряде."
+    sy "Да, и перед церемонией он говорил глупости о моём наряде."
 
 # game/code/e06/e06s09.rpy:1007
 translate russian e06s08_post_climax_7b381545:
@@ -904,7 +904,7 @@ translate russian e06s08_post_climax_c281cb0e:
 translate russian e06s08_post_climax_b3c74862:
 
     # lc "Then I gave you a hard time about the cream pies and the cake."
-    lc "Потом я не давал тебе покоя по поводу пирожных с кремом и торта."
+    lc "Потом я не давала тебе покоя по поводу пирожных с кремом и торта."
 
 # game/code/e06/e06s09.rpy:1013
 translate russian e06s08_post_climax_ed7f1764:
@@ -976,13 +976,13 @@ translate russian e06s08_post_climax_cfc61d77:
 translate russian e06s08_post_climax_a1475312:
 
     # lc "I mean it. Each and every one of us here loves you as much - if not more - than we love ourselves."
-    lc "Я серьезно. Каждый из нас любит тебя так же сильно, если не больше, чем самого себя."
+    lc "Я серьёзно. Каждый из нас любит тебя так же сильно, если не больше, чем самого себя."
 
 # game/code/e06/e06s09.rpy:1039
 translate russian e06s08_post_climax_f841391a:
 
     # sy "That's... really?"
-    sy "Это... серьезно?"
+    sy "Это... серьёзно?"
 
 # game/code/e06/e06s09.rpy:1042
 translate russian e06s08_post_climax_77f77511:
@@ -1000,7 +1000,7 @@ translate russian e06s08_post_climax_08126be1:
 translate russian e06s08_post_climax_ddc98ed1:
 
     # lc "My Harem."
-    lc "Моем гареме."
+    lc "Моём гареме."
 
 # game/code/e06/e06s09.rpy:1047
 translate russian e06s08_post_climax_8c363274:
@@ -1030,7 +1030,7 @@ translate russian e06s08_post_climax_dd5b4dc9:
 translate russian e06s08_post_climax_17932166:
 
     # sy "Daisy, you're my sun and moon. I'll love you until the end of time."
-    sy "Дейзи, ты мое солнце и луна. Я буду любить тебя до конца времен."
+    sy "Дейзи, ты моё солнце и луна. Я буду любить тебя до конца времён."
 
 # game/code/e06/e06s09.rpy:1065
 translate russian e06s08_post_climax_c028ddf1:
@@ -1132,7 +1132,7 @@ translate russian e06s08_post_climax_4c1e1eb0:
 translate russian e06s08_post_climax_7714ab17:
 
     # mc "Perhaps a little nap, then we can do it all over again?"
-    mc "Может, стоит немного поспать, а потом мы сможем все повторить?"
+    mc "Может, стоит немного поспать, а потом мы сможем всё повторить?"
 
 # game/code/e06/e06s09.rpy:1109
 translate russian e06s08_post_climax_077cb4e1:
@@ -1184,11 +1184,11 @@ translate russian strings:
 
     # game/code/e06/e06s09.rpy:159
     old "Eat Her Out"
-    new "Съесть ее"
+    new "Съесть её"
 
     # game/code/e06/e06s09.rpy:159
     old "Screw Her"
-    new "Трахать ее"
+    new "Трахать её"
 
     # game/code/e06/e06s09.rpy:563
     old "Just Keep Going"
@@ -1196,7 +1196,7 @@ translate russian strings:
 
     # game/code/e06/e06s09.rpy:563
     old "Check on Her"
-    new "Проверь ее"
+    new "Проверь её"
 
     # game/code/e06/e06s09.rpy:1144
     old "You have finished playing Ending #06!"

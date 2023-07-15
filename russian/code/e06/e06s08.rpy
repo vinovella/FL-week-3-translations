@@ -154,7 +154,7 @@ translate russian e06s08_3fb2e937:
 translate russian e06s08_40206a97:
 
     # lc "Seriously? This is my wedding. Spice cake with orange filling and buttercream icing. I was specific."
-    lc "Серьезно? Это моя свадьба. Пряный торт с апельсиновой начинкой и масляной глазурью. Я специально уточнила."
+    lc "Серьёзно? Это моя свадьба. Пряный торт с апельсиновой начинкой и масляной глазурью. Я специально уточнила."
 
 # game/code/e06/e06s08.rpy:182
 translate russian e06s08_385825ca:
@@ -190,7 +190,7 @@ translate russian e06s08_48065132:
 translate russian e06s08_44797b92:
 
     # mes "I know, hon. Let's just go into the kitchen and I'll explain."
-    mes "Я знаю, дорогая. Давай просто пойдем на кухню, и я все объясню."
+    mes "Я знаю, дорогая. Давай просто пойдем на кухню, и я всё объясню."
 
 # game/code/e06/e06s08.rpy:218
 translate russian e06s08_cake_6cee0ca6:
@@ -298,7 +298,7 @@ translate russian e06s08_cake_5aca01c6:
 translate russian e06s08_cake_223b6792:
 
     # lc "I think you'll need to settle this, my love."
-    lc "Любовь моя, думаю, тебе придется уладить это."
+    lc "Любовь моя, думаю, тебе придётся уладить это."
 
 # game/code/e06/e06s08.rpy:287
 translate russian e06s08_cake_33690e05:
@@ -310,13 +310,13 @@ translate russian e06s08_cake_33690e05:
 translate russian e06s08_cake_0b7b0aa5:
 
     # lc "But it's my wedding day, sweetie. Besides, I need to prepare you for whichever one you choose."
-    lc "Но это день моей свадьбы, дорогуша. Кроме того, я должна подготовить тебя к тому, какой бы вариант ты ни выбрал."
+    lc "Но это день моей свадьбы, дорогуша. Кроме того, я должна подготовить тебя, какой бы вариант ты ни выбрал."
 
 # game/code/e06/e06s08.rpy:295
 translate russian e06s08_cake_bd260c4c:
 
     # mct "Lydia clearly doesn't want to upset Stacy by picking Min. Min is her best friend, after all."
-    mct "Лидия явно не хочет расстраивать Стейси, выбирая Мин. Ведь Мин - ее лучшая подруга."
+    mct "Лидия явно не хочет расстраивать Стейси, выбирая Мин. Ведь Мин - её лучшая подруга."
 
 # game/code/e06/e06s08.rpy:299
 translate russian e06s08_cake_1601f1d6:
@@ -328,7 +328,7 @@ translate russian e06s08_cake_1601f1d6:
 translate russian e06s08_cake_d2a3c171:
 
     # mct "... and possibly AmRose."
-    mct "... и, пожалуй, AmRose."
+    mct "... и, пожалуй, АмРоуз."
 
 # game/code/e06/e06s08.rpy:308
 translate russian e06s08_cake_0ffc0286:
@@ -400,7 +400,7 @@ translate russian e06s08_cake_3ca09504:
 translate russian e06s08_cake_52151359:
 
     # mc "But since you seem incapable of solving this reasonably, I will decide who I fuck first and gives the first toast."
-    mc "Но поскольку вы, похоже, не в состоянии решить этот вопрос разумно, я сам решу, кого трахать первой, и кто произнесет первый тост."
+    mc "Но поскольку вы, похоже, не в состоянии решить этот вопрос мирно и самостоятельно - я сам решу, кого трахать первой, и кто произнесет первый тост."
 
 # game/code/e06/e06s08.rpy:370
 translate russian d06s08_sy_0c3bfe12:
@@ -424,7 +424,7 @@ translate russian d06s08_sy_135a9ec5:
 translate russian d06s08_sy_6ebb0d90:
 
     # sy "My earliest memory, I was maybe three years old..."
-    sy "Самое раннее мое воспоминание - мне было, наверное, года три..."
+    sy "Самое раннее моё воспоминание - мне было, наверное, года три..."
 
 # game/code/e06/e06s08.rpy:424
 translate russian d06s08_sy_b74c58ae:
@@ -448,7 +448,7 @@ translate russian d06s08_sy_1cd50ce3:
 translate russian d06s08_sy_b7f4f13c:
 
     # sy "But there was one particular moment in our life that I'll always remember."
-    sy "Но был в нашей жизни один особенный момент, который я запомню навсегда."
+    sy "Но был в нашей жизни один особенный момент, который я запомнила навсегда."
 
 # game/code/e06/e06s08.rpy:439
 translate russian d06s08_sy_64235b46:
@@ -514,7 +514,7 @@ translate russian d06s08_sy_767a3b63:
 translate russian d06s08_sy_b2647101:
 
     # sy "Mom was screaming about how much that cost and how careless and stupid I was and all sorts of things."
-    sy "Мама кричала, сколько это стоит, какая я неаккуратная и глупая, и все в таком духе."
+    sy "Мама кричала, сколько это стоит, какая я неаккуратная и глупая, и всё в таком духе."
 
 # game/code/e06/e06s08.rpy:477
 translate russian d06s08_sy_0ab55b26:
@@ -526,7 +526,7 @@ translate russian d06s08_sy_0ab55b26:
 translate russian d06s08_sy_0b923096:
 
     # sy "Then he took a step back and kept his hands on my shoulders. I looked up at him with watery eyes."
-    sy "Затем он сделал шаг назад, продолжая держать руки на моих плечах. Я смотрел на него полными слез глазами."
+    sy "Затем он сделал шаг назад, продолжая держать руки на моих плечах. Я смотрела на него полными слез глазами."
 
 # game/code/e06/e06s08.rpy:488
 translate russian d06s08_sy_8fd78b77:
@@ -538,7 +538,7 @@ translate russian d06s08_sy_8fd78b77:
 translate russian d06s08_sy_d077eef2:
 
     # sy "[mcname] ignored her. He just looked at me with strength and confidence and the sweetest sad smile on his face."
-    sy "[mcname] проигнорировал ее. Он просто смотрел на меня с уверенностью, надежностью и самой милой грустной улыбкой на лице."
+    sy "[mcname] проигнорировал её. Он просто смотрел на меня с уверенностью, надежностью и самой милой грустной улыбкой на лице."
 
 # game/code/e06/e06s08.rpy:490
 translate russian d06s08_sy_68281a55:
@@ -700,7 +700,7 @@ translate russian d06s08_sy_4b757103:
 translate russian d06s08_sy_efa5770b:
 
     # sy "Ha! You bet! Anytime!"
-    sy "Ха! Еще бы! В любое время!"
+    sy "Ха! Ещё бы! В любое время!"
 
 # game/code/e06/e06s08.rpy:580
 translate russian d06s08_mes_6f5ace7a:
@@ -760,7 +760,7 @@ translate russian d06s08_mes_46eab8cd:
 translate russian d06s08_mes_6c4df295:
 
     # mes "She had just been on a world tour with her parents' band, so her accent was from all over the place."
-    mes "Она только что побывала в мировом турне с группой своих родителей, поэтому акцент у нее был отовсюду."
+    mes "Она только что побывала в мировом турне с группой своих родителей, поэтому акцент у неё был отовсюду."
 
 # game/code/e06/e06s08.rpy:645
 translate russian d06s08_mes_dbe213a9:
@@ -802,7 +802,7 @@ translate russian d06s08_mes_f47697fc:
 translate russian d06s08_mes_a9d6d825:
 
     # mes "No sooner had I accepted and started reaching for my knot than she pulled one string and her shoes were untied."
-    mes "Не успела я согласиться и потянуться за своим узлом, как она потянула за одну нитку, и ее шнурки развязались."
+    mes "Не успела я согласиться и потянуться за своим узлом, как она потянула за один конец, и её шнурки развязались."
 
 # game/code/e06/e06s08.rpy:669
 translate russian d06s08_mes_e432c1db:
@@ -838,7 +838,7 @@ translate russian d06s08_mes_e415d944:
 translate russian d06s08_mes_ff8a74de:
 
     # mes "Almost there. Just a bit harder!"
-    mes "Практически все. Только немного сильнее!"
+    mes "Практически всё. Только немного сильнее!"
 
 # game/code/e06/e06s08.rpy:693
 translate russian d06s08_mes_637b7ecb:
@@ -970,7 +970,7 @@ translate russian d06s08_arj_8c8813cf:
 translate russian d06s08_arj_258ce9c9:
 
     # arj "Plotters plan everything out. Pantsers fly by the seat of their pants."
-    arj "Планировщики все тщательно прорабатывают. Труженики же руководствуются своими возможностями."
+    arj "Планировщики всё тщательно прорабатывают. Труженики же руководствуются своими возможностями."
 
 # game/code/e06/e06s08.rpy:791
 translate russian d06s08_arj_f0a78f81:
@@ -988,7 +988,7 @@ translate russian d06s08_arj_a24a12c6:
 translate russian d06s08_arj_d939fe5b:
 
     # arj "And I did, but something happened when Stacy was giving her toast and now everything I wanted to say just seems wrong."
-    arj "Так я и сделала, но потом Стейси произнесла свой тост, и теперь все, что я хотела сказать, кажется неправильным."
+    arj "Так я и сделала, но потом Стейси произнесла свой тост, и теперь всё, что я хотела сказать, кажется неправильным."
 
 # game/code/e06/e06s08.rpy:795
 translate russian d06s08_arj_74fa6832:
@@ -1252,7 +1252,7 @@ translate russian d06s08_arj_539e07e2:
 translate russian d06s08_arj_22e15c98:
 
     # arj "Fucking shit ass fuck shit mother fucking shit eat me cunt!"
-    arj "Ебаное счастье жопа ебаная мать съешь меня, блядь!"
+    arj "Ебаное счастье... жопа ебаная... мать съешь меня... блядь!"
 
 # game/code/e06/e06s08.rpy:927
 translate russian d06s08_arj_df7896eb:
@@ -1324,7 +1324,7 @@ translate russian d06s08_dd_2ee948b8:
 translate russian d06s08_dd_8ef86bd1:
 
     # dd "I've always felt like if the story of my life were a novel or a video game or something, that I wasn't the main character."
-    dd "Мне всегда казалось, что будь моя жизнь романом, видеоигрой или чем-то еще, я не стала бы в ней главной героиней."
+    dd "Мне всегда казалось, что будь моя жизнь романом, видеоигрой или чем-то ещё, я не стала бы в ней главной героиней."
 
 # game/code/e06/e06s08.rpy:992
 translate russian d06s08_dd_0aa6e00d:
@@ -1342,7 +1342,7 @@ translate russian d06s08_dd_7e650043:
 translate russian d06s08_dd_df006443:
 
     # dd "These are two main characters. Their love story is what the game or book or whatever is really about."
-    dd "Они - два главных персонажа. Их история любви - вот о чем на самом деле игра, книга или что-то еще."
+    dd "Они - два главных персонажа. Их история любви - вот о чём на самом деле игра, книга или что-то ещё."
 
 # game/code/e06/e06s08.rpy:1002
 translate russian d06s08_dd_d1fc1457:
@@ -1372,7 +1372,7 @@ translate russian d06s08_dd_285da686:
 translate russian d06s08_dd_5470d03b:
 
     # dd "Screw whatever I was saying. Just keep fucking me!"
-    dd "К черту все, что я говорила. Просто продолжай трахать меня!"
+    dd "К черту всё, что я говорила. Просто продолжай трахать меня!"
 
 # game/code/e06/e06s08.rpy:1037
 translate russian d06s08_dd_a865a079:
@@ -1522,7 +1522,7 @@ translate russian d06s08_mh_a116a050:
 translate russian d06s08_mh_b20d5527:
 
     # mh "They were both at the same party - separately. I don't know if they knew each other before that."
-    mh "Они оба были на одной вечеринке - причем по отдельности. Я не знаю, знали ли они друг друга до нее."
+    mh "Они оба были на одной вечеринке - причём по отдельности. Я не знаю, знали ли они друг друга до неё."
 
 # game/code/e06/e06s08.rpy:1129
 translate russian d06s08_mh_4885879b:
@@ -1540,13 +1540,13 @@ translate russian d06s08_mh_d0eb3be8:
 translate russian d06s08_mh_eff7cdbb:
 
     # mh "Anyway, I felt an immediate connection with both of you. I felt like - this is going to sound so silly..."
-    mh "В любом случае, я сразу почувствовала связь с вами обоими. Я чувствовала, что - это будет звучать так глупо..."
+    mh "В любом случае, я сразу почувствовала связь с вами. Я чувствовала, что - это будет звучать так глупо..."
 
 # game/code/e06/e06s08.rpy:1137
 translate russian d06s08_mh_fe6cbe30:
 
     # mh "It's kinda like what Daisy was talking about... although not like a video game."
-    mh "Это похоже на то, о чем говорила Дейзи... хотя и не похоже на видеоигру."
+    mh "Это похоже на то, о чём говорила Дейзи... хотя и не похоже на видеоигру."
 
 # game/code/e06/e06s08.rpy:1140
 translate russian d06s08_mh_5246b19b:
@@ -1558,7 +1558,7 @@ translate russian d06s08_mh_5246b19b:
 translate russian d06s08_mh_26bed1f8:
 
     # mh "Lydia seemed kinda distant and unapproachable that night, but I got a real taste for [mcname] pretty much the first moment I met him."
-    mh "Лидия в тот вечер показалась мне какой-то отстраненной и неприступной, но я прониклась к [mcname] практически с первой минуты знакомства."
+    mh "Лидия в тот вечер показалась мне какой-то отстранённой и неприступной, но я прониклась к [mcname] практически с первой минуты знакомства."
 
 # game/code/e06/e06s08.rpy:1142
 translate russian d06s08_mh_5ea587a9:
@@ -1570,7 +1570,7 @@ translate russian d06s08_mh_5ea587a9:
 translate russian d06s08_mh_af62e393:
 
     # mh "Yet you still found me and hung out with me while Min performed the main event."
-    mh "И все же ты нашел меня и общался со мной, пока Мин выступала на главном мероприятии."
+    mh "И все же ты нашёл меня и общался со мной, пока Мин выступала на главном мероприятии."
 
 # game/code/e06/e06s08.rpy:1145
 translate russian d06s08_mh_84425408:
@@ -1636,19 +1636,19 @@ translate russian d06s08_mh_aae27614:
 translate russian d06s08_mh_4d5d6c2a:
 
     # mc "YESSSSSss I AM"
-    mc "ДАААААаа, БЕРИ ВСЕ"
+    mc "ДАААААаа, БЕРИ ВСЁ"
 
 # game/code/e06/e06s08.rpy:1179
 translate russian d06s08_mh_c355956d:
 
     # mh "As I was saying. Sometimes when you know you've met someone who will be important and special to you..."
-    mh "Как я уже говорила. Иногда, когда ты знаешь, что встретил человека, который будет для тебя важным и особенным..."
+    mh "Как я уже говорила. Иногда, когда ты знаешь, что встретила человека, который будет для тебя важным и особенным..."
 
 # game/code/e06/e06s08.rpy:1180
 translate russian d06s08_mh_416bdb21:
 
     # mh "There's this spark. They might even be the love of your life."
-    mh "Есть эта искра. Возможно, они даже станут любовью всей вашей жизни."
+    mh "Есть эта искра. Возможно, он даже станет любовью всей вашей жизни."
 
 # game/code/e06/e06s08.rpy:1181
 translate russian d06s08_mh_4a5fb9b1:
@@ -1870,7 +1870,7 @@ translate russian d06s08_end_aa796f54:
 translate russian d06s08_end_984019e9:
 
     # lc "But I definitely want you to fuck the living shit out of me tonight."
-    lc "Но я определенно хочу, чтобы сегодня ночью ты вытрахал из меня все дерьмо."
+    lc "Но я определенно хочу, чтобы сегодня ночью ты вытрахал из меня всё дерьмо."
 
 translate russian strings:
 
@@ -1908,11 +1908,11 @@ translate russian strings:
 
     # game/code/e06/e06s08.rpy:960
     old "Take Daisy from the Front"
-    new "Взять Дейзи с фронта"
+    new "Выбрать киску Дейзи"
 
     # game/code/e06/e06s08.rpy:960
     old "Get Daisy on the Back End"
-    new "Взять Daisy сзади"
+    new "Выбрать задницу Дейзи"
 
     # game/code/e06/e06s08.rpy:1235
     old "Lydia should Rim Lyssa's ass"

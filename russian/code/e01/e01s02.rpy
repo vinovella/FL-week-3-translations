@@ -22,7 +22,7 @@ translate russian e01s02_02444371:
 translate russian e01s02_c765f27b:
 
     # sy "No, silly. Just riding the metro for a few stops. I promise we'll stay in the same city."
-    sy "Нет, дурачок. Поедем на метро пару остановок. Я обещаю, что мы не покинем этот город."
+    sy "Нет, дурачок. Проедем на метро пару остановок. Я обещаю, что мы не покинем этот город."
 
 # game/code/e01/e01s02.rpy:28
 translate russian e01s02_bc4fd44d:
@@ -40,7 +40,7 @@ translate russian e01s02_a76db968:
 translate russian e01s02_f603434c:
 
     # mc "I hadn't thought of that. She does have a bigger bed..."
-    mc "Я об этом не думал. Правда, у нее кровать побольше..."
+    mc "Я об этом не думал. Правда, у неё кровать побольше..."
 
 # game/code/e01/e01s02.rpy:40
 translate russian e01s02_24fb4913:
@@ -88,7 +88,7 @@ translate russian e01s02_515262ce:
 translate russian e01s02_0cbcc25b:
 
     # mc "I have no idea."
-    mc "Понятия не имею."
+    mc "Даже не знаю."
 
 # game/code/e01/e01s02.rpy:67
 translate russian e01s02_c8261eaf:
@@ -148,25 +148,25 @@ translate russian e01s02_d094470a:
 translate russian e01s02_cf421ca5:
 
     # mc "Every fucking relative will come out of the woodwork asking for a few thousand for something or a few hundred thousand to start their own business."
-    mc "Каждый гребаный родственник будет лезть из кожи вон, прося несколько тысяч на что-то или несколько сотен тысяч на открытие собственного бизнеса."
+    mc "Каждый грёбаный родственник будет лезть из кожи вон, прося несколько тысяч на что-то или несколько сотен тысяч на открытие собственного бизнеса."
 
 # game/code/e01/e01s02.rpy:90
 translate russian e01s02_e7c95eb8:
 
     # mc "Every time I go to the grocery store or whatever I'd have to worry about scam artists trying to fake injuries and sue me."
-    mc "Каждый раз, когда я иду в продуктовый магазин или куда-либо еще, мне придется опасаться мошенников, которые подстроят несчастный случай и подадут на меня в суд."
+    mc "Каждый раз, когда я иду в продуктовый магазин или куда-либо ещё, мне придётся опасаться мошенников, которые подстроят несчастный случай и подадут на меня в суд."
 
 # game/code/e01/e01s02.rpy:92
 translate russian e01s02_08cc5e15:
 
     # mc "Not to mention all the women I've had sex with who suddenly want something out of me."
-    mc "Не говоря уже о всех тех женщинах, с которыми я занимался сексом и которые вдруг захотели от меня чего-то."
+    mc "Не говоря уже о всех тех женщинах, с которыми я занимался сексом и которые вдруг захотят от меня чего-то."
 
 # game/code/e01/e01s02.rpy:93
 translate russian e01s02_73b4c8d5:
 
     # mc "I'd end up secluded in some desert compound having my meals delivered to me by bonded couriers until the million ran out."
-    mc "Я бы уединился в каком-нибудь пустынном поселке, чтобы мне доставляли еду подневольные курьеры, пока не кончится миллион."
+    mc "Я бы уединился в каком-нибудь пустынном посёлке, чтобы мне доставляли еду подневольные курьеры, пока не кончится миллион."
 
 # game/code/e01/e01s02.rpy:96
 translate russian e01s02_5c2c7bcf:
@@ -190,7 +190,7 @@ translate russian e01s02_b40d48cd:
 translate russian e01s02_e49de7e0:
 
     # sy "Let's try this another way. Forget about the windfall income. If you could do anything you want - what would you do?"
-    sy "Рассмотрим другой вариант. Забудем о неожиданном доходе. Если бы ты мог сделать все, что захочешь, - что бы ты сделал?"
+    sy "Рассмотрим другой вариант. Забудем о неожиданном доходе. Если бы ты мог сделать всё, что захочешь, - что бы ты сделал?"
 
 # game/code/e01/e01s02.rpy:105
 translate russian e01s02_495e8a83:
@@ -202,7 +202,7 @@ translate russian e01s02_495e8a83:
 translate russian e01s02_7dde65b5:
 
     # sy "Will you take this seriously?"
-    sy "Ты серьезно к этому относишься?"
+    sy "Ты серьёзно к этому относишься?"
 
 # game/code/e01/e01s02.rpy:109
 translate russian e01s02_3498fe23:
@@ -226,13 +226,13 @@ translate russian e01s02_a5fcf329:
 translate russian e01s02_2c1e7a45:
 
     # sy "Okay, good save, but you're not making this easy."
-    sy "Хорошо, хороший прием, но ты не упрощаешь задачу."
+    sy "Хорошо, хороший приём, но ты не упрощаешь задачу."
 
 # game/code/e01/e01s02.rpy:118
 translate russian e01s02_2ff81412:
 
     # mc "Let's turn those questions around. If you had unlimited wealth and the ability to do anything you wanted to do - what would you do?"
-    mc "Поставим вопрос иначе. Будь у тебя неограниченное богатство и возможность делать все, что ты захочешь, - что бы ты сделал?"
+    mc "Поставим вопрос иначе. Будь у тебя неограниченное богатство и возможность делать всё, что ты захочешь, - что бы ты сделал?"
 
 # game/code/e01/e01s02.rpy:121
 translate russian e01s02_e0bf9cc1:
@@ -352,13 +352,13 @@ translate russian e01s02_d3c994b6:
 translate russian e01s02_5cb8fa35:
 
     # sy "Don't worry about the details. I'll arrange everything."
-    sy "Не волнуйся о деталях. Я все организую."
+    sy "Не волнуйся о деталях. Я всё организую."
 
 # game/code/e01/e01s02.rpy:169
 translate russian e01s02_f7f60e66:
 
     # sy "Well, almost everything. You'll need to do some things."
-    sy "Ну, почти все. Кое-что придется сделать тебе."
+    sy "Ну, почти всё. Кое-что придётся сделать тебе."
 
 # game/code/e01/e01s02.rpy:172
 translate russian e01s02_b2aba0e3:
@@ -370,19 +370,19 @@ translate russian e01s02_b2aba0e3:
 translate russian e01s02_d37b60a2:
 
     # sy "I mean, we'll need cameras, lighting, actresses, film crew, money, and a few other things."
-    sy "То есть нам понадобятся камеры, освещение, актрисы, съемочная группа, деньги и еще кое-что."
+    sy "То есть нам понадобятся камеры, освещение, актрисы, съёмочная группа, деньги и еще кое-что."
 
 # game/code/e01/e01s02.rpy:178
 translate russian e01s02_44862975:
 
     # mc "You want me to do all that?"
-    mc "Хочешь, чтобы я все это сделал?"
+    mc "Хочешь, чтобы я всё это сделал?"
 
 # game/code/e01/e01s02.rpy:181
 translate russian e01s02_f818b4a2:
 
     # sy "No, like I said, I'll arrange almost everything. We'll have to divide up the work."
-    sy "Нет, как я уже сказала, я почти все организую. Нам придется разделить работу."
+    sy "Нет, как я уже сказала, я почти всё организую. Нам придётся разделить работу."
 
 # game/code/e01/e01s02.rpy:184
 translate russian e01s02_7627de93:
@@ -640,7 +640,7 @@ translate russian e01s02_aa01dbb5:
 translate russian e01s02_55c96b26:
 
     # sy "We do almost everything together, but I identify prospective actresses and then you seduce and encourage them to have sex with you... and we film it."
-    sy "Мы почти все делаем вместе, но я подбираю потенциальных актрис, а потом ты соблазняешь и склоняешь их к сексу с тобой... и мы это снимаем."
+    sy "Мы почти всё делаем вместе, но я подбираю потенциальных актрис, а потом ты соблазняешь и склоняешь их к сексу с тобой... и мы это снимаем."
 
 # game/code/e01/e01s02.rpy:313
 translate russian e01s02_4b8e92a4:
@@ -664,7 +664,7 @@ translate russian e01s02_f9476b57:
 translate russian e01s02_26f775ce:
 
     # mc "Oh. Maybe that's not so bad then, but I still feel like... I dunno..."
-    mc "О. Может это и не так уж плохо, но я все равно чувствую себя... не знаю..."
+    mc "О. Может это и не так уж плохо, но я всё равно чувствую себя... не знаю..."
 
 # game/code/e01/e01s02.rpy:331
 translate russian e01s02_91c8e938:
@@ -742,7 +742,7 @@ translate russian e01s02_fa37650d:
 translate russian e01s02_8020fdf4:
 
     # mc "My porn collection inspired you to do all this?"
-    mc "Моя коллекция порнографии вдохновила тебя на все это?"
+    mc "Моя коллекция порнографии вдохновила тебя на всё это?"
 
 # game/code/e01/e01s02.rpy:366
 translate russian e01s02_dbc038bf:
@@ -754,7 +754,7 @@ translate russian e01s02_dbc038bf:
 translate russian e01s02_eda88c63:
 
     # mc "I see, so you have that all planned out."
-    mc "Я вижу, значит, ты все продумала."
+    mc "Смотрю, ты всё продумала."
 
 # game/code/e01/e01s02.rpy:372
 translate russian e01s02_3b44c645:
@@ -784,7 +784,7 @@ translate russian e01s02_0dcf5434:
 translate russian e01s02_7c1f1624:
 
     # mc "But seriously, where are we really going?"
-    mc "Но если серьезно, куда мы на самом деле идем?"
+    mc "Но если серьёзно, куда мы на самом деле идем?"
 
 # game/code/e01/e01s02.rpy:386
 translate russian e01s02_2af97179:
@@ -814,5 +814,5 @@ translate russian strings:
 
     # game/code/e01/e01s02.rpy:402
     old "In Fetish Locator: S&M Studio!"
-    new "In Fetish Locator: S&M Студия!"
+    new "В Fetish Locator: S&M Студия!"
 

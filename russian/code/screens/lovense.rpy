@@ -128,9 +128,9 @@ translate russian strings:
 
     # game/code/screens/lovense.rpy:74
     old "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
-    new "Получите игрушки Lovense и наслаждайтесь лучшим способом знакомства с Fetish Locator!"
+    new "Выберите игрушки Lovense и наслаждайтесь лучшим способом знакомства с Fetish Locator!"
 
     # game/code/screens/lovense.rpy:80
     old "Get a toy now"
-    new "Получите игрушку прямо сейчас"
+    new "Выберите игрушку прямо сейчас"
 

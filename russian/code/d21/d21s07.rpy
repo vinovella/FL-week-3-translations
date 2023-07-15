@@ -1852,13 +1852,13 @@ translate russian d21s07_breakup_239cda54:
 translate russian d21s07_breakup_81cec5f9:
 
     # lc "But there's someone else..."
-    lc "Но есть еще кое-кто..."
+    lc "Но есть ещё кое-кто..."
 
 # game/code/d21/d21s07.rpy:1024
 translate russian d21s07_breakup_d6d51910:
 
     # mc "I mean, I hope we can still be friends... and you know I'll always be around for the fun times."
-    mc "Я имею в виду, надеюсь, что мы все еще можем остаться друзьями... и ты знаешь, что я всегда буду рядом для приятных моментов."
+    mc "Я имею в виду, надеюсь, что мы всё ещё можем остаться друзьями... и ты знаешь, что я всегда буду рядом для приятных моментов."
 
 # game/code/d21/d21s07.rpy:1028
 translate russian d21s07_breakup_b55446e0:

@@ -4,25 +4,25 @@
 translate russian e06s06_820294b7:
 
     # mh "It is good to see you, [mcname]. I was beginning to feel a little concerned when you finally called. Is everything all right?"
-    mh "[mcname], рада тебя видеть. Я уже начала беспокоиться, когда ты наконец позвонил. Все в порядке?"
+    mh "[mcname], рада тебя видеть. Я уже начала беспокоиться, когда ты наконец-то позвонил. Всё в порядке?"
 
 # game/code/e06/e06s06.rpy:93
 translate russian e06s06_9dcfde78:
 
     # mc "Totally. Sorry for the radio silence. The end of my classes was a very busy time."
-    mc "Абсолютно. Прости что звонил. Завершение учебы было очень напряженным временем."
+    mc "Абсолютно. Прости что не звонил. Завершение учебы было очень напряжённым временем."
 
 # game/code/e06/e06s06.rpy:98
 translate russian e06s06_d941d7b4:
 
     # mh "Yes. It seems you've had adventures both on campus and off campus."
-    mh "Похоже, у тебя была масса приключений как на территории университета, так и за его пределами."
+    mh "Похоже, у тебя была масса приключений как на территории кампуса, так и за его пределами."
 
 # game/code/e06/e06s06.rpy:100
 translate russian e06s06_676803a4:
 
     # mh "I know we've technically met in passing, but I should introduce myself. Lyssa Harris."
-    mh "Знаю, что формально мы встречались мельком, но я должна представиться. Лисса Харрис."
+    mh "Знаю, что формально мы встречались, но я должна представиться. Лисса Харрис."
 
 # game/code/e06/e06s06.rpy:103
 translate russian e06s06_e5572961:
@@ -46,7 +46,7 @@ translate russian e06s06_e81c6560:
 translate russian e06s06_dfb3001e:
 
     # lc "[mcname] has told me so much about you. You really are an amazing woman."
-    lc "[mcname] много рассказывал мне о вас. Вы действительно удивительная женщина."
+    lc "[mcname] много рассказывал мне о Вас. Вы действительно удивительная женщина."
 
 # game/code/e06/e06s06.rpy:118
 translate russian e06s06_3d0bfa8a:
@@ -82,7 +82,7 @@ translate russian e06s06_1ceb482f:
 translate russian e06s06_9a7b5901:
 
     # mh "Yes... [mcname], excuse my bluntness, you never told me you were engaged, or involved in anything so serious."
-    mh "Да... [mcname], прости за прямоту, но ты никогда не говорил мне, что помолвлен или увлечен чем-то настолько серьезным."
+    mh "Да... [mcname], прости за прямоту, но ты никогда не говорил мне, что помолвлен или увлечён чем-то настолько серьёзным."
 
 # game/code/e06/e06s06.rpy:134
 translate russian e06s06_c1bd7f26:
@@ -100,7 +100,7 @@ translate russian e06s06_24620278:
 translate russian e06s06_a8507cf4:
 
     # lc "I should explain. While we have been dating for a while, [mcname] had my full permission to be involved with other women."
-    lc "Я хочу пояснить. Пока мы встречались некоторое время, [mcname] имел мое полное разрешение на отношения с другими женщинами."
+    lc "Я хочу пояснить. Пока мы встречались некоторое время, у [mcname] было моё разрешение на отношения с другими женщинами."
 
 # game/code/e06/e06s06.rpy:143
 translate russian e06s06_262b39ca:
@@ -124,7 +124,7 @@ translate russian e06s06_d14a3c55:
 translate russian e06s06_50470c12:
 
     # mh "I see. So you know all about that, but you still wish to marry him?"
-    mh "Ясно. Значит, Вы все это знаете, но все равно хотите выйти за него?"
+    mh "Ясно. Значит, Вы всё это знаете, но всё равно хотите выйти за него?"
 
 # game/code/e06/e06s06.rpy:155
 translate russian e06s06_d8687b9b:
@@ -160,7 +160,7 @@ translate russian e06s06_6c5ad7d4:
 translate russian e06s06_a25003b6:
 
     # mh "Forgive me, I thought I had a handle on this, but I think it just slipped from my fingers."
-    mh "Простите меня, думала, что разобралась в этом вопросе, но, кажется, он все же ускользнул из моих рук."
+    mh "Простите меня, думала, что разобралась в этом вопросе, но, кажется, он всё же ускользнул из моих рук."
 
 # game/code/e06/e06s06.rpy:170
 translate russian e06s06_19e06fdd:
@@ -268,7 +268,7 @@ translate russian e06s06_b57aec7f:
 translate russian e06s06_81ac33e6:
 
     # arj "I'll have Min send you any additional details."
-    arj "Я попрошу Мина выслать тебе все детали."
+    arj "Я попрошу Мин выслать тебе все детали."
 
 # game/code/e06/e06s06.rpy:223
 translate russian e06s06_31db8cd4:
@@ -280,7 +280,7 @@ translate russian e06s06_31db8cd4:
 translate russian e06s06_mh_harem_b7529b38:
 
     # mc "You should join us Lyssa. We can continue where we left off."
-    mc "Ты можешь присоединиться к нам, Лисса. Мы сможем продолжить то, на чем остановились."
+    mc "Ты можешь присоединиться к нам, Лисса. Мы сможем продолжить то, на чём остановились."
 
 # game/code/e06/e06s06.rpy:242
 translate russian e06s06_mh_harem_720d7642:
@@ -376,7 +376,7 @@ translate russian e06s06_mh_harem_e0e4b13c:
 translate russian e06s06_mh_harem_7a91e55e:
 
     # mh "With this adventure, your needs have still been met to your satisfaction."
-    mh "В результате этого приключения твои потребности все же были удовлетворены."
+    mh "В результате этого приключения твои потребности всё же были удовлетворены."
 
 # game/code/e06/e06s06.rpy:282
 translate russian e06s06_mh_harem_c8fd39d1:
@@ -592,7 +592,7 @@ translate russian e06s06_mh_harem_421b3dae:
 translate russian e06s06_mh_harem_ec8ee3a3:
 
     # mc "Shit... that's it... Keep going."
-    mc "Черт... Это все... Не останавливайтесь."
+    mc "Черт... Это всё... Не останавливайтесь."
 
 # game/code/e06/e06s06.rpy:443
 translate russian e06s06_mh_harem_4f94b291:
@@ -634,7 +634,7 @@ translate russian e06s06_mh_harem_82c0f931:
 translate russian e06s06_mh_harem_2a7f4487:
 
     # arj "My foot-fu is strong. Hahaha."
-    arj "Я мастер фуут-фу. Хахаха."
+    arj "Я мастер фут-фу. Хахаха."
 
 # game/code/e06/e06s06.rpy:487
 translate russian e06s06_mh_harem_12194e0e:
@@ -1131,8 +1131,8 @@ translate russian e06s06_finish_2_300150ba:
 # game/code/e06/e06s06.rpy:999
 translate russian e06s06_finish_2_80eb0fe0:
 
-    # arj "Ммммм..."
-    arj "Mwaaahahh..."
+    # arj "Mwaaahahh..."
+    arj "Ммммм..."
 
 # game/code/e06/e06s06.rpy:1003
 translate russian e06s06_finish_2_d7eb3ba9:
@@ -1210,7 +1210,7 @@ translate russian e06s06_last_talk_4aaf1506:
 translate russian e06s06_last_talk_449e0dc6:
 
     # mc "But I'll be grateful to still have you besides me."
-    mc "Но я благодарен за то, что ты все по прежнему со мной."
+    mc "Но я благодарен за то, что ты по прежнему со мной."
 
 # game/code/e06/e06s06.rpy:1059
 translate russian e06s06_last_talk_fb05906a:
