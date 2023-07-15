@@ -130,7 +130,7 @@ translate spanish week_1_recap_8b65250d:
 translate spanish week_1_recap_64fc59df:
 
     # "An entire party worth of edging and blueballing had him going crazy. But he focused on trying to get some sleep. Just as his eyes closed, his phone woke him with a Blitz Challenge! Without thinking, he whipped out his engorged manhood and prepared to bust a nut."
-    "An entire party worth of edging and blueballing had him going crazy. But he focused on trying to get some sleep. Just as his eyes closed, his phone woke him with a Blitz Challenge! Without thinking, he whipped out his engorged manhood and prepared to bust a nut."
+    "Una fiesta entera llena de juegos sexuales le había vuelto loco. Pero se concentró en intentar dormir un poco. Justo cuando se le cerraban los ojos, su teléfono le despertó con un desafío Blitz. Sin pensárselo, sacó su virilidad hinchada y se preparó para reventar."
 
 # game/code/recap/w1_recap.rpy:130
 translate spanish week_1_recap_037626d5:
