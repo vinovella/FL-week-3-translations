@@ -364,7 +364,7 @@ translate turkish d18s11b_continue_f903ab23:
 translate turkish d18s11b_continue_54a55587:
 
     # mc "Like THE Victor Yates?"
-    mc ""Victor Yates gibi mi?"
+    mc "Victor Yates gibi mi?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:243
 translate turkish d18s11b_continue_0629a197:

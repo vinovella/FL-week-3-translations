@@ -172,7 +172,7 @@ translate turkish d19s02_8cc105c3:
 translate turkish d19s02_1054d5cc:
 
     # mc "She told me that she was my \"goddess\" and that she \"created\" me along with some other megalomaniacal bullshit."
-    mc "Bana kendisinin "tanrıçam" olduğunu ve diğer megalomanyak zırvalıklarla birlikte beni "yarattığını" söyledi."
+    mc "Bana kendisinin \"tanrıçam\" olduğunu ve diğer megalomanyak zırvalıklarla birlikte beni \"yarattığını\" söyledi."
 
 # game/code/d19/d19s02.rpy:222
 translate turkish d19s02_99ea59ed:

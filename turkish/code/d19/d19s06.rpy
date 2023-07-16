@@ -430,7 +430,7 @@ translate turkish d19s06_video_b0ff35e2:
 translate turkish d19s06_video_1c9d3277:
 
     # tl "This {i}is{/i} mercy, Cynthia. Learn, learn before you subject yourself to the eternal fires of hell!"
-    tl "Bu{/i} bir merhamet {i}Cynthia. Kendini cehennemin ebedi ateşlerine maruz bırakmadan önce öğren, öğren!"
+    tl "Bu {i}bir merhamet{/i} Cynthia. Kendini cehennemin ebedi ateşlerine maruz bırakmadan önce öğren, öğren!"
 
 # game/code/d19/d19s06.rpy:277
 translate turkish d19s06_video_c49cde62:
@@ -1035,4 +1035,3 @@ translate turkish strings:
     # game/code/d19/d19s06.rpy:589
     old "Both Cynthia and Her Mother"
     new "Hem Cynthia hem de Annesi"
-
