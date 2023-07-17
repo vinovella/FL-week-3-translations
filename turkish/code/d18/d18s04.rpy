@@ -388,91 +388,91 @@ translate turkish d18s04_8c050a6a:
 translate turkish d18s04_cce90b93:
 
     # aw "{b}ALL I EVER WANTED WAS FOR YOU TO ACCEPT ME.{/b}"
-    aw "{b}ALL I EVER WANTED WAS FOR YOU TO ACCEPT ME.{/b}"
+    aw "{b}BENİM TEK İSTEDİĞİM SENİN BENİ KABUL ETMENİZDİ.{/b}"
 
 # game/code/d18/d18s04.rpy:329
 translate turkish d18s04_2aa70042:
 
     # aw "But you couldn't do that, could you?"
-    aw "But you couldn't do that, could you?"
+    aw "Ama bunu yapamazsın, değil mi?"
 
 # game/code/d18/d18s04.rpy:352
 translate turkish d18s04_df6a1270:
 
     # aw "I'm gonna make you feel as helpless as you made me feel."
-    aw "I'm gonna make you feel as helpless as you made me feel."
+    aw "Senin bana hissettirdiğin kadar ben de seni çaresiz hissettireceğim."
 
 # game/code/d18/d18s04.rpy:365
 translate turkish d18s04_8d486938:
 
     # aw "{b}DO YOU LIKE THAT, MOM!?{/b}"
-    aw "{b}DO YOU LIKE THAT, MOM!?{/b}"
+    aw "{b}BUNU SEVDİN Mİ ANNE!?{/b}"
 
 # game/code/d18/d18s04.rpy:366
 translate turkish d18s04_c2c697ce:
 
     # aw "{b}BEING HUMILIATED BY YOUR OWN DAUGHTER!?{/b}"
-    aw "{b}BEING HUMILIATED BY YOUR OWN DAUGHTER!?{/b}"
+    aw "{b}KENDİ KIZIN TARAFINDAN AŞAĞILANMAK!?{/b}"
 
 # game/code/d18/d18s04.rpy:368
 translate turkish d18s04_c3f83fa5:
 
     # aw "{b}DO YOU LIKE THAT, YOU HYPOCRITICAL BITCH!?{/b}"
-    aw "{b}DO YOU LIKE THAT, YOU HYPOCRITICAL BITCH!?{/b}"
+    aw "{b}BUNU SEVİYOR MUSUN, SENİ İKİYÜZLÜ OROSBU!?{/b}"
 
 # game/code/d18/d18s04.rpy:373
 translate turkish d18s04_ee731ea0:
 
     # aw "{b}I BET IT REALLY FUCKING TURNS YOU ON, HUH!?{/b}"
-    aw "{b}I BET IT REALLY FUCKING TURNS YOU ON, HUH!?{/b}"
+    aw "{b}SENİ GERÇEKTEN AÇTIĞINA BAHSE GİRERİM, HA!?{/b}"
 
 # game/code/d18/d18s04.rpy:376
 translate turkish d18s04_7819d875:
 
     # aw "I'm gonna fuck you till you can't walk."
-    aw "I'm gonna fuck you till you can't walk."
+    aw "Yürüyemeyecek hale gelene kadar seni becereceğim."
 
 # game/code/d18/d18s04.rpy:386
 translate turkish d18s04_0ea300a5:
 
     # aw "I'm gonna fuck you till you're nothing but dirty cocksleeve."
-    aw "I'm gonna fuck you till you're nothing but dirty cocksleeve."
+    aw "Seni pis bir pislikten başka bir şey olmayana kadar becereceğim."
 
 # game/code/d18/d18s04.rpy:397
 translate turkish d18s04_0beade47:
 
     # aw "I'm gonna..."
-    aw "I'm gonna..."
+    aw "Yapacağım..."
 
 # game/code/d18/d18s04.rpy:408
 translate turkish d18s04_cb9ba318:
 
     # mc "Allison, stop! Look at what you're doing! This isn't what you're here for!"
-    mc "Allison, stop! Look at what you're doing! This isn't what you're here for!"
+    mc "Allison, dur! Ne yaptığına bir bak! Bunun için burada değilsin!"
 
 # game/code/d18/d18s04.rpy:420
 translate turkish d18s04_8c827091:
 
     # aw "I'm no better than her..."
-    aw "I'm no better than her..."
+    aw "Ben ondan daha iyi değilim..."
 
 # game/code/d18/d18s04.rpy:437
 translate turkish d18s04_8aaa70d0:
 
     # mc "Allison wait—!"
-    mc "Allison wait—!"
+    mc "Allison bekle-!"
 
 # game/code/d18/d18s04.rpy:453
 translate turkish d18s04_806d1713:
 
     # vw "What did you do!?"
-    vw "What did you do!?"
+    vw "Ne yaptın!?"
 
 # game/code/d18/d18s04.rpy:456
 translate turkish d18s04_3d8d5870:
 
     # mc "I— She was—"
-    mc "I— She was—"
+    mc "Ben... O..."
 
 # game/code/d18/d18s04.rpy:460
 translate turkish d18s04_f1d757e0:
@@ -484,229 +484,229 @@ translate turkish d18s04_f1d757e0:
 translate turkish d18s04_1e92ba76:
 
     # vw "{i}{b}I'll{/b}{/i} handle this. You've done more than enough."
-    vw "{i}{b}I'll{/b}{/i} handle this. You've done more than enough."
+    vw "Bunu {i}{b}ben hallederim{/b}{/i}. Yeterinden fazlasını yaptın."
 
 # game/code/d18/d18s04.rpy:466
 translate turkish d18s04_c2225191:
 
     # mct "FUCK!"
-    mct "FUCK!"
+    mct "SİKTİR!"
 
 # game/code/d18/d18s04.rpy:478
 translate turkish d18s04_0beade47_1:
 
     # aw "I'm gonna..."
-    aw "I'm gonna..."
+    aw "Yapacağım..."
 
 # game/code/d18/d18s04.rpy:481
 translate turkish d18s04_619a03ab:
 
     # aw "*Crying* I'm awful."
-    aw "*Crying* I'm awful."
+    aw "*Ağlıyor* Çok kötüyüm."
 
 # game/code/d18/d18s04.rpy:484
 translate turkish d18s04_8f15abca:
 
     # vw "*Gagged crying*"
-    vw "*Gagged crying*"
+    vw "*Ağzı tıkalı ağlıyor*"
 
 # game/code/d18/d18s04.rpy:491
 translate turkish d18s04_701a4caa:
 
     # aw "Let her go."
-    aw "Let her go."
+    aw "Gitmesine izin ver."
 
 # game/code/d18/d18s04.rpy:494
 translate turkish d18s04_a49ed4f8:
 
     # mc "Okay."
-    mc "Okay."
+    mc "Tamam."
 
 # game/code/d18/d18s04.rpy:499
 translate turkish d18s04_8a34b836:
 
     # aw "*Voice shaking* I'm sorry."
-    aw "*Voice shaking* I'm sorry."
+    aw "*sesi titriyor* Üzgünüm."
 
 # game/code/d18/d18s04.rpy:502
 translate turkish d18s04_4067e6ce:
 
     # vw "Oh, my sweet darling, it's okay. It's okay. I'm here."
-    vw "Oh, my sweet darling, it's okay. It's okay. I'm here."
+    vw "Oh, tatlı sevgilim, sorun değil. Sorun değil. Ben buradayım."
 
 # game/code/d18/d18s04.rpy:503
 translate turkish d18s04_80394ff3:
 
     # vw "I'm the one that's sorry. I'm the one that messed everything up."
-    vw "I'm the one that's sorry. I'm the one that messed everything up."
+    vw "Üzgün ​​olan benim. Her şeyi alt üst eden benim."
 
 # game/code/d18/d18s04.rpy:504
 translate turkish d18s04_bd119a99:
 
     # vw "I'm so, so sorry, my love."
-    vw "I'm so, so sorry, my love."
+    vw "Çok, çok üzgünüm aşkım."
 
 # game/code/d18/d18s04.rpy:507
 translate turkish d18s04_cc800dda:
 
     # vw "I'm so sorry I wasn't there when you needed me. I abandoned you."
-    vw "I'm so sorry I wasn't there when you needed me. I abandoned you."
+    vw "Bana ihtiyacın olduğunda yanında olamadığım için çok üzgünüm. Seni terk ettim."
 
 # game/code/d18/d18s04.rpy:509
 translate turkish d18s04_f5465819:
 
     # vw "I'm a horrible mother."
-    vw "I'm a horrible mother."
+    vw "Ben berbat bir anneyim."
 
 # game/code/d18/d18s04.rpy:511
 translate turkish d18s04_29542bce:
 
     # vw "I can't ask for forgiveness."
-    vw "I can't ask for forgiveness."
+    vw "Af dileyemem."
 
 # game/code/d18/d18s04.rpy:512
 translate turkish d18s04_5ebf40b1:
 
     # vw "But I want you to know that I accept you. Fully. And I'm so, so proud of the woman you've become."
-    vw "But I want you to know that I accept you. Fully. And I'm so, so proud of the woman you've become."
+    vw "Ama seni kabul ettiğimi bilmeni istiyorum. Tamamen. Ve dönüştüğün kadınla çok ama çok gurur duyuyorum."
 
 # game/code/d18/d18s04.rpy:515
 translate turkish d18s04_4780a7d5:
 
     # vw "I love you so much, Allison."
-    vw "I love you so much, Allison."
+    vw "Seni çok seviyorum, Allison."
 
 # game/code/d18/d18s04.rpy:517
 translate turkish d18s04_500d7881:
 
     # vw "Ever since I lost your father, the only thing that mattered to me was making sure that you're safe."
-    vw "Ever since I lost your father, the only thing that mattered to me was making sure that you're safe."
+    vw "Babanı kaybettiğimden beri benim için önemli olan tek şey senin güvende olduğundan emin olmaktı."
 
 # game/code/d18/d18s04.rpy:519
 translate turkish d18s04_fc6beb48:
 
     # vw "Ever since I saw you, the only thing that mattered to me was making sure that you're safe."
-    vw "Ever since I saw you, the only thing that mattered to me was making sure that you're safe."
+    vw "Seni gördüğümden beri benim için önemli olan tek şey senin güvende olduğundan emin olmaktı."
 
 # game/code/d18/d18s04.rpy:520
 translate turkish d18s04_f50d50d5:
 
     # vw "But I failed you.{w} I'm so sorry."
-    vw "But I failed you.{w} I'm so sorry."
+    vw "Ama seni hayal kırıklığına uğrattım. {w} Çok üzgünüm."
 
 # game/code/d18/d18s04.rpy:532
 translate turkish d18s04_b8de06d3:
 
     # mc "Oh."
-    mc "Oh."
+    mc "Ah."
 
 # game/code/d18/d18s04.rpy:536
 translate turkish d18s04_03304624:
 
     # mct "Huh, well that isn't exactly what I expected..."
-    mct "Huh, well that isn't exactly what I expected..."
+    mct "Ha, pekala beklediğim tam olarak bu değildi..."
 
 # game/code/d18/d18s04.rpy:541
 translate turkish d18s04_825bcc70:
 
     # mct "I think they've completely forgotten that I'm even here."
-    mct "I think they've completely forgotten that I'm even here."
+    mct "Sanırım burada olduğumu bile tamamen unutmuşlar."
 
 # game/code/d18/d18s04.rpy:554
 translate turkish d18s04_2fdbb284:
 
     # mct "This is awkward. I better leave them to it."
-    mct "This is awkward. I better leave them to it."
+    mct "Bu garip. Onları kendi haline bıraksam iyi olur."
 
 # game/code/d18/d18s04.rpy:566
 translate turkish d18s04_14eb4212:
 
     # mc "*Coughs*"
-    mc "*Coughs*"
+    mc "*Öksürür*"
 
 # game/code/d18/d18s04.rpy:569
 translate turkish d18s04_134dff8b:
 
     # vw "Oh, oh my. I forgot you were there, [mcname]."
-    vw "Oh, oh my. I forgot you were there, [mcname]."
+    vw "Aman tanrım. orada olduğunu unutmuşum,[mcname]."
 
 # game/code/d18/d18s04.rpy:572
 translate turkish d18s04_f89df913:
 
     # mc "I assume this is positive?"
-    mc "I assume this is positive?"
+    mc "Bunun olumlu olduğunu varsayıyorum?"
 
 # game/code/d18/d18s04.rpy:576
 translate turkish d18s04_8c0f55b6:
 
     # vw "There's a lot more I need to do to make it up to my little girl..."
-    vw "There's a lot more I need to do to make it up to my little girl..."
+    vw "Bunu küçük kızıma telafi etmek için yapmam gereken daha çok şey var..."
 
 # game/code/d18/d18s04.rpy:578
 translate turkish d18s04_5612d7bc:
 
     # vw "There's a lot more I need to do to make it up to her..."
-    vw "There's a lot more I need to do to make it up to her..."
+    vw "Bunu telafi etmek için yapmam gereken daha çok şey var..."
 
 # game/code/d18/d18s04.rpy:581
 translate turkish d18s04_6a52a914:
 
     # aw "But I think we're going in a good direction."
-    aw "But I think we're going in a good direction."
+    aw "Ama iyi bir yöne gittiğimizi düşünüyorum."
 
 # game/code/d18/d18s04.rpy:584
 translate turkish d18s04_eebb4514:
 
     # aw "You could come join us if you'd want."
-    aw "You could come join us if you'd want."
+    aw "İstersen gelip bize katılabilirsin."
 
 # game/code/d18/d18s04.rpy:587
 translate turkish d18s04_b265a657:
 
     # vw "We've both...{i}experienced{/i} you, so why not both at the same time?"
-    vw "We've both...{i}experienced{/i} you, so why not both at the same time?"
+    vw "İkimiz de seni... {i}deneyimledik{/i}, peki neden ikisi aynı anda olmasın?"
 
 # game/code/d18/d18s04.rpy:590
 translate turkish d18s04_a7a8c500:
 
     # mc "How could I say no to that proposition?"
-    mc "How could I say no to that proposition?"
+    mc "Bu teklife nasıl hayır diyebilirim?"
 
 # game/code/d18/d18s04.rpy:618
 translate turkish d18s04_f5bc7100:
 
     # aw "Mmm, I love his tongue."
-    aw "Mmm, I love his tongue."
+    aw "Mmm, dilini seviyorum."
 
 # game/code/d18/d18s04.rpy:621
 translate turkish d18s04_fd1e9ba4:
 
     # vw "It's divine, isn't it?"
-    vw "It's divine, isn't it?"
+    vw "Bu ilahi, değil mi?"
 
 # game/code/d18/d18s04.rpy:625
 translate turkish d18s04_0d2fe250:
 
     # aw "I want to taste you."
-    aw "I want to taste you."
+    aw "Seni tatmak istiyorum."
 
 # game/code/d18/d18s04.rpy:634
 translate turkish d18s04_4201b604:
 
     # vw "Oh God, Allison! This is so wrong! *Moans*"
-    vw "Oh God, Allison! This is so wrong! *Moans*"
+    vw "Aman Tanrım, Allison! Bu çok yanlış! *İnliyor*"
 
 # game/code/d18/d18s04.rpy:637
 translate turkish d18s04_e51661ed:
 
     # aw "Shh, shut up and just {i}feel{/i}."
-    aw "Shh, shut up and just {i}feel{/i}."
+    aw "Şşt, kapa çeneni ve sadece {i}hisset{/i}."
 
 # game/code/d18/d18s04.rpy:643
 translate turkish d18s04_bfce66eb:
 
     # "*Combined moans of ecstacy*"
-    "*Combined moans of ecstacy*"
+    "*Birleşik kendinden geçmiş inlemeler*"
 
 # game/code/d18/d18s04.rpy:648
 translate turkish d18s04_f154b675:
@@ -718,79 +718,79 @@ translate turkish d18s04_f154b675:
 translate turkish d18s04_c01e9740:
 
     # aw "Oh, no. Not yet."
-    aw "Oh, no. Not yet."
+    aw "Ah, hayır. Henüz değil."
 
 # game/code/d18/d18s04.rpy:656
 translate turkish d18s04_2f1e3fd9:
 
     # aw "I want [mcname] inside me."
-    aw "I want [mcname] inside me."
+    aw "[mcname]'i içimde istiyorum."
 
 # game/code/d18/d18s04.rpy:693
 translate turkish d18s04_17c94a10:
 
     # vw "Allison, I've never—"
-    vw "Allison, I've never—"
+    vw "Allison, ben asla-"
 
 # game/code/d18/d18s04.rpy:696
 translate turkish d18s04_92dc5b79:
 
     # aw "Then start now."
-    aw "Then start now."
+    aw "Öyleyse şimdi başla."
 
 # game/code/d18/d18s04.rpy:702
 translate turkish d18s04_019850de:
 
     # aw "I want your dick in my mouth."
-    aw "I want your dick in my mouth."
+    aw "Senin aletini ağzımda istiyorum."
 
 # game/code/d18/d18s04.rpy:707
 translate turkish d18s04_4799c7f5:
 
     # mc "I love that idea."
-    mc "I love that idea."
+    mc "Bu fikri seviyorum."
 
 # game/code/d18/d18s04.rpy:730
 translate turkish d18s04_31ff6576:
 
     # aw "You're a goddamn miracle worker. I love you."
-    aw "You're a goddamn miracle worker. I love you."
+    aw "Sen lanet olası bir mucizesin. Seni seviyorum."
 
 # game/code/d18/d18s04.rpy:733
 translate turkish d18s04_31eff69d:
 
     # mc "I—"
-    mc "I—"
+    mc "Ben—"
 
 # game/code/d18/d18s04.rpy:736
 translate turkish d18s04_a5892c03:
 
     # aw "Now I want you to fuck my mother senseless."
-    aw "Now I want you to fuck my mother senseless."
+    aw "Şimdi annemi anlamsızca becermeni istiyorum."
 
 # game/code/d18/d18s04.rpy:738
 translate turkish d18s04_0e58f893:
 
     # aw "Now I want you to fuck her senseless."
-    aw "Now I want you to fuck her senseless."
+    aw "Şimdi onu anlamsızca becermeni istiyorum."
 
 # game/code/d18/d18s04.rpy:745
 translate turkish d18s04_d89000a6:
 
     # mc "You don't have to say it twice."
-    mc "You don't have to say it twice."
+    mc "İki kere söylemek zorunda değilsin."
 
 # game/code/d18/d18s04.rpy:752
 translate turkish d18s04_84d642ff:
 
     # aw "Fuck her like you mean it!"
-    aw "Fuck her like you mean it!"
+    aw "Onu gerçekten kastettiğin gibi becer!"
 
 # game/code/d18/d18s04.rpy:795
 translate turkish d18s04_f18f680d:
 
     # aw "Yes! Right there, lick me right there! *Moans*"
-    aw "Yes! Right there, lick me right there! *Moans*"
+    aw "Evet! Tam orada, beni tam orada yala! *İnliyor*"
 
 # game/code/d18/d18s04.rpy:800
 translate turkish d18s04_00cc2976:
@@ -802,347 +802,347 @@ translate turkish d18s04_00cc2976:
 translate turkish d18s04_84c9e4e3:
 
     # vw "You know..."
-    vw "You know..."
+    vw "Biliyorsun..."
 
 # game/code/d18/d18s04.rpy:843
 translate turkish d18s04_fae9c31a:
 
     # vw "Now, this might be a bit hasty of me to drop this right now—"
-    vw "Now, this might be a bit hasty of me to drop this right now—"
+    vw "Şimdi, bunu şimdi bırakmam biraz aceleci olabilir-"
 
 # game/code/d18/d18s04.rpy:846
 translate turkish d18s04_99336fff:
 
     # aw "Oh God, you're not pregnant are you?"
-    aw "Oh God, you're not pregnant are you?"
+    aw "Aman Tanrım, hamile değilsin, değil mi?"
 
 # game/code/d18/d18s04.rpy:849
 translate turkish d18s04_729fe4f3:
 
     # vw "What!? Of course not!"
-    vw "What!? Of course not!"
+    vw "Ne!? Tabii ki hayır!"
 
 # game/code/d18/d18s04.rpy:852
 translate turkish d18s04_b619c661:
 
     # aw "Phew.{w} I could almost {i}taste{/i} the worry that shot through [mcname] right now."
-    aw "Phew.{w} I could almost {i}taste{/i} the worry that shot through [mcname] right now."
+    aw "Vay canına.{w} Şu anda [mcname]'i saran endişeyi neredeyse {i}tadabilirim{/i}."
 
 # game/code/d18/d18s04.rpy:855
 translate turkish d18s04_3cf440f1:
 
     # mc "Thought I was gonna be a dad for a second there."
-    mc "Thought I was gonna be a dad for a second there."
+    mc "Orada bir an baba olacağımı sandım."
 
 # game/code/d18/d18s04.rpy:858
 translate turkish d18s04_33d08fdd:
 
     # vw "I'm not sure if I could even get pregnant at this point..."
-    vw "I'm not sure if I could even get pregnant at this point..."
+    vw "Bu noktada hamile kalabilir miyim emin değilim..."
 
 # game/code/d18/d18s04.rpy:859
 translate turkish d18s04_3ca2c8ed:
 
     # vw "But anyway! That's not what I was going to say."
-    vw "But anyway! That's not what I was going to say."
+    vw "Ama her neyse! Söyleyeceğim şey bu değildi."
 
 # game/code/d18/d18s04.rpy:862
 translate turkish d18s04_212b5c95:
 
     # aw "Then?"
-    aw "Then?"
+    aw "Daha sonra?"
 
 # game/code/d18/d18s04.rpy:865
 translate turkish d18s04_eccf98b9:
 
     # vw "I got a job offer a little while back."
-    vw "I got a job offer a little while back."
+    vw "Kısa bir süre önce bir iş teklifi aldım."
 
 # game/code/d18/d18s04.rpy:866
 translate turkish d18s04_dea526f1:
 
     # vw "I will basically be doing what I'm doing here, but in the Caribbean.{w} And I would be earning a {i}lot{/i} more there compared to here."
-    vw "I will basically be doing what I'm doing here, but in the Caribbean.{w} And I would be earning a {i}lot{/i} more there compared to here."
+    vw "Temelde burada yaptığım şeyi yapacağım, ama Karayipler'de.{w} Ve burada buraya kıyasla {i}çok{/i} daha fazla kazanıyor olurdum."
 
 # game/code/d18/d18s04.rpy:869
 translate turkish d18s04_92a493d5:
 
     # aw "You're going away?"
-    aw "You're going away?"
+    aw "Gidiyor musun?"
 
 # game/code/d18/d18s04.rpy:871
 translate turkish d18s04_48f2a800:
 
     # vw "Let me explain."
-    vw "Let me explain."
+    vw "Açıklamama izin ver."
 
 # game/code/d18/d18s04.rpy:873
 translate turkish d18s04_7fe3d229:
 
     # vw "This is a huge opportunity for me. And I {i}want{/i} to go there."
-    vw "This is a huge opportunity for me. And I {i}want{/i} to go there."
+    vw "Bu benim için büyük bir fırsat. Ve oraya gitmek {i}istiyorum{/i}."
 
 # game/code/d18/d18s04.rpy:874
 translate turkish d18s04_339943ec:
 
     # vw "But I don't want to leave you either."
-    vw "But I don't want to leave you either."
+    vw "Ama ben de seni bırakmak istemiyorum."
 
 # game/code/d18/d18s04.rpy:875
 translate turkish d18s04_56f2c153:
 
     # vw "So... I found an opening for their national kayaking team."
-    vw "So... I found an opening for their national kayaking team."
+    vw "Yani... Ulusal kano takımları için bir açık pozisyon buldum."
 
 # game/code/d18/d18s04.rpy:878
 translate turkish d18s04_d1672d6b:
 
     # aw "When did you plan all of this?"
-    aw "When did you plan all of this?"
+    aw "Bütün bunları ne zaman planladın?"
 
 # game/code/d18/d18s04.rpy:881
 translate turkish d18s04_2cd2ee79:
 
     # vw "Some weeks back... I was optimistic that we might be able to patch things up."
-    vw "Some weeks back... I was optimistic that we might be able to patch things up."
+    vw "Birkaç hafta önce... Bazı şeyleri düzeltebileceğimiz konusunda iyimserdim."
 
 # game/code/d18/d18s04.rpy:884
 translate turkish d18s04_21eec4a7:
 
     # aw "I... Oh my {i}God{/i}."
-    aw "I... Oh my {i}God{/i}."
+    aw "Ben... Aman {i}Tanrım{/i}."
 
 # game/code/d18/d18s04.rpy:887
 translate turkish d18s04_30255030:
 
     # vw "Allison! Please, listen to me."
-    vw "Allison! Please, listen to me."
+    vw "Allison! Lütfen beni dinle"
 
 # game/code/d18/d18s04.rpy:890
 translate turkish d18s04_4ead628c:
 
     # aw "How do you even know I do kayaking?"
-    aw "How do you even know I do kayaking?"
+    aw "Kano yaptığımı nereden biliyorsun?"
 
 # game/code/d18/d18s04.rpy:894
 translate turkish d18s04_5cb86cb6:
 
     # vw "I'm your mother! Of course I know these things about you."
-    vw "I'm your mother! Of course I know these things about you."
+    vw "Ben senin annenim! Senin hakkında bunları elbette biliyorum."
 
 # game/code/d18/d18s04.rpy:895
 translate turkish d18s04_89c555f8:
 
     # vw "You didn't think that I didn't check up on my girl from time to time, did you?"
-    vw "You didn't think that I didn't check up on my girl from time to time, did you?"
+    vw "Kızımı ara sıra kontrol etmediğimi düşünmedin, değil mi?"
 
 # game/code/d18/d18s04.rpy:899
 translate turkish d18s04_3f017285:
 
     # mct "That's why the room from the telescope looked familiar!"
-    mct "That's why the room from the telescope looked familiar!"
+    mct "Teleskoptaki oda bu yüzden tanıdık geldi!"
 
 # game/code/d18/d18s04.rpy:902
 translate turkish d18s04_8fa2f449:
 
     # aw "I just... I want to be mad at you, but I'm so tired and spent, and just..."
-    aw "I just... I want to be mad at you, but I'm so tired and spent, and just..."
+    aw "Ben sadece... sana kızmak istiyorum ama çok yorgunum ve bitkinim ve sadece..."
 
 # game/code/d18/d18s04.rpy:903
 translate turkish d18s04_a96466f7:
 
     # aw "Can you {i}please{/i} not do these sorts of things anymore?"
-    aw "Can you {i}please{/i} not do these sorts of things anymore?"
+    aw "Artık bu tür şeyleri {i}lütfen{/i} yapmayabilir misin?"
 
 # game/code/d18/d18s04.rpy:904
 translate turkish d18s04_ee39fc95:
 
     # aw "If there's something going on, just talk to me. We'll figure it out together."
-    aw "If there's something going on, just talk to me. We'll figure it out together."
+    aw "Bir sorun olursa, sadece benimle konuş. Bunu birlikte çözeceğiz."
 
 # game/code/d18/d18s04.rpy:907
 translate turkish d18s04_c56934e8:
 
     # aw "It's infuriating when you do this and just go over me."
-    aw "It's infuriating when you do this and just go over me."
+    aw "Bunu yapıp üzerime gelmen çok sinir bozucu."
 
 # game/code/d18/d18s04.rpy:908
 translate turkish d18s04_6dfdebdc:
 
     # aw "Just... I'm not mad, but I want you to be better."
-    aw "Just... I'm not mad, but I want you to be better."
+    aw "Sadece... Kızgın değilim ama senin daha iyi olmanı istiyorum."
 
 # game/code/d18/d18s04.rpy:911
 translate turkish d18s04_b3bff258:
 
     # vw "I'm sorry. I know I mess up a lot. I'll be better"
-    vw "I'm sorry. I know I mess up a lot. I'll be better"
+    vw "Üzgünüm. Çok şey batırdığımı biliyorum. Daha iyi olacağım"
 
 # game/code/d18/d18s04.rpy:914
 translate turkish d18s04_71fe0b19:
 
     # aw "What's done is done."
-    aw "What's done is done."
+    aw "Yapılan yapılır."
 
 # game/code/d18/d18s04.rpy:915
 translate turkish d18s04_628797cf:
 
     # aw "So you found an opening in a national kayaking team for me. Great, and?"
-    aw "So you found an opening in a national kayaking team for me. Great, and?"
+    aw "Demek benim için ulusal bir kayak takımında bir açık pozisyon buldun. Harika, ve?"
 
 # game/code/d18/d18s04.rpy:918
 translate turkish d18s04_fed165ab:
 
     # vw "And I'll have to get going very soon, so I was wondering if you would be..."
-    vw "And I'll have to get going very soon, so I was wondering if you would be..."
+    vw "Ve benim çok yakında yola çıkmam gerekecek, bu yüzden siz gider misiniz diye merak ediyordum..."
 
 # game/code/d18/d18s04.rpy:921
 translate turkish d18s04_6940fa07:
 
     # aw "*Sigh* Well, it {i}is{/i} the end of the semester. And it's not like I have anything else planned."
-    aw "*Sigh* Well, it {i}is{/i} the end of the semester. And it's not like I have anything else planned."
+    aw "*Ah* Pekala, sömestr {i}bitti{/i}. Ve planladığım başka bir şey yok gibi."
 
 # game/code/d18/d18s04.rpy:922
 translate turkish d18s04_00baae17:
 
     # aw "So, sure. Why not?"
-    aw "So, sure. Why not?"
+    aw "Yani, tabii. Neden olmasın?"
 
 # game/code/d18/d18s04.rpy:925
 translate turkish d18s04_d59e72da:
 
     # vw "...Really?"
-    vw "...Really?"
+    vw "...Gerçekten mi?"
 
 # game/code/d18/d18s04.rpy:928
 translate turkish d18s04_715fb409:
 
     # aw "Really, really."
-    aw "Really, really."
+    aw "Gerçekten, gerçekten."
 
 # game/code/d18/d18s04.rpy:931
 translate turkish d18s04_3b58b9f9:
 
     # vw "I—"
-    vw "I—"
+    vw "Ben—"
 
 # game/code/d18/d18s04.rpy:937
 translate turkish d18s04_477fbb89:
 
     # vw "Oh my God, Allison. I'm so happy!"
-    vw "Oh my God, Allison. I'm so happy!"
+    vw "Aman Tanrım, Allison. Çok mutluyum!"
 
 # game/code/d18/d18s04.rpy:940
 translate turkish d18s04_9688a590:
 
     # vw "I'd love to have you come with us as well!"
-    vw "I'd love to have you come with us as well!"
+    vw "Senin de bizimle gelmeni çok isterim!"
 
 # game/code/d18/d18s04.rpy:943
 translate turkish d18s04_3f4a77df:
 
     # aw "Ooh, now that'd be {i}really{/i} fun."
-    aw "Ooh, now that'd be {i}really{/i} fun."
+    aw "Ooh, şimdi bu {i}gerçekten{/i} eğlenceli olurdu."
 
 # game/code/d18/d18s04.rpy:946
 translate turkish d18s04_190badf5:
 
     # mc "Me? Go to the Caribbean with you two?"
-    mc "Me? Go to the Caribbean with you two?"
+    mc "Ben mi? Siz ikinizle Karayipler'e gidelim mi?"
 
 # game/code/d18/d18s04.rpy:949
 translate turkish d18s04_6d540f0b:
 
     # aw "You have anything else going on?"
-    aw "You have anything else going on?"
+    aw "Başka bir şey var mı?"
 
 # game/code/d18/d18s04.rpy:952
 translate turkish d18s04_c784151d:
 
     # mc "Not exactly..."
-    mc "Not exactly..."
+    mc "Tam olarak değil..."
 
 # game/code/d18/d18s04.rpy:953
 translate turkish d18s04_4c545e0e:
 
     # mc "But I can't just make decisions like this out of nowhere either."
-    mc "But I can't just make decisions like this out of nowhere either."
+    mc "Ama ben de böyle birdenbire böyle kararlar veremem."
 
 # game/code/d18/d18s04.rpy:955
 translate turkish d18s04_4fe77873:
 
     # mc "However alluring it might be..."
-    mc "However alluring it might be..."
+    mc "Ne kadar çekici olursa olsun..."
 
 # game/code/d18/d18s04.rpy:958
 translate turkish d18s04_f378f5d5:
 
     # vw "Well, that's understandable.{w} I won't force you to decide right now."
-    vw "Well, that's understandable.{w} I won't force you to decide right now."
+    vw "Peki, bu anlaşılabilir.{w} Seni şu anda karar vermeye zorlamayacağım."
 
 # game/code/d18/d18s04.rpy:959
 translate turkish d18s04_ed9586d2:
 
     # vw "But we have to leave in a couple of days as well."
-    vw "But we have to leave in a couple of days as well."
+    vw "Ama bizim de birkaç gün içinde ayrılmamız gerekiyor."
 
 # game/code/d18/d18s04.rpy:962
 translate turkish d18s04_68f6f348:
 
     # mc "It's definitely not a no, but I have to think about it a bit."
-    mc "It's definitely not a no, but I have to think about it a bit."
+    mc "Kesinlikle hayır değil ama biraz düşünmem gerekiyor."
 
 # game/code/d18/d18s04.rpy:965
 translate turkish d18s04_53ebcdb1:
 
     # vw "Take all the time you need...as long as it's not more than a couple of days."
-    vw "Take all the time you need...as long as it's not more than a couple of days."
+    vw "İhtiyacınız olan tüm zamanı ayırın... birkaç günden fazla olmamak kaydıyla."
 
 # game/code/d18/d18s04.rpy:968
 translate turkish d18s04_f6dbd17e:
 
     # aw "Are you leaving now?"
-    aw "Are you leaving now?"
+    aw "Şimdi gidiyor musun?"
 
 # game/code/d18/d18s04.rpy:975
 translate turkish d18s04_987068b5:
 
     # mc "Yeah, I'd love to stick around, but I got some other things I need to take care of as well."
-    mc "Yeah, I'd love to stick around, but I got some other things I need to take care of as well."
+    mc "Evet, burada kalmayı çok isterim ama halletmem gereken başka şeyler de var."
 
 # game/code/d18/d18s04.rpy:977
 translate turkish d18s04_3435bdcf:
 
     # aw "Aww. Well, alright. {i}Hopefully{/i} I see you again soon."
-    aw "Aww. Well, alright. {i}Hopefully{/i} I see you again soon."
+    aw "Aww. Peki, peki. {i}Umarım{/i} yakında tekrar görüşürüz."
 
 # game/code/d18/d18s04.rpy:980
 translate turkish d18s04_dfc759bc:
 
     # vw "Thank you for everything [mcname]."
-    vw "Thank you for everything [mcname]."
+    vw "Her şey için teşekkürler [mcname]."
 
 # game/code/d18/d18s04.rpy:985
 translate turkish d18s04_06e9a4cc:
 
     # mct "I got [d18s04_points] points. Nice."
-    mct "I got [d18s04_points] points. Nice."
+    mct "[d18s04_points] puan aldım. Güzel."
 
 translate turkish strings:
 
     # game/code/d18/d18s04.rpy:66
     old "45 minutes later"
-    new "45 minutes later"
+    new "45 dakika sonra"
 
     # game/code/d18/d18s04.rpy:399
     old "Let Allison Continue"
-    new "Let Allison Continue"
+    new "Allison Devam Etsin"
 
     # game/code/d18/d18s04.rpy:542
     old "Quietly Leave the Hotel Room"
-    new "Quietly Leave the Hotel Room"
+    new "Otel Odasından Sessizce Ayrılın"
 
     # game/code/d18/d18s04.rpy:542
     old "Remind Them You Are There"
-    new "Remind Them You Are There"
+    new "Onlara Orada Olduğunuzu Hatırlatın"
 
