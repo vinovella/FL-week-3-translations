@@ -46,7 +46,7 @@ translate turkish d19s06mes_71411d9b:
 translate turkish d19s06mes_4c5d7d5d:
 
     # cl "OMG!{w} Is he... your assistant?"
-    cl ""AMAN TANRIM!{w}O... senin asistanın mı?"
+    cl "AMAN TANRIM!{w}O... senin asistanın mı?"
 
 # game/code/d19/d19s06mes.rpy:77
 translate turkish d19s06mes_9ea11347:
@@ -448,7 +448,7 @@ translate turkish d19s06mes_54cc0264:
 translate turkish d19s06mes_b8f6841e:
 
     # mes "I don't know if pain is the right word...{w} She seems to be orgasming."
-    mes ""Acı doğru kelime mi bilmiyorum...{w} Orgazm oluyor gibi görünüyor."
+    mes "Acı doğru kelime mi bilmiyorum...{w} Orgazm oluyor gibi görünüyor."
 
 # game/code/d19/d19s06mes.rpy:341
 translate turkish d19s06mes_98d3d6d6:

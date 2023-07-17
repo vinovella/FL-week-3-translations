@@ -646,7 +646,7 @@ translate turkish d19s09_fuck_arj_0a3a28e3:
 translate turkish d19s09_fuck_arj_5452cbf2:
 
     # sy "Aw... I wanted your cum."
-    sy "Aw... Senin boşalmanı istedim.
+    sy "Aw... Senin boşalmanı istedim."
 
 # game/code/d19/d19s09.rpy:944
 translate turkish d19s09_fuck_sy_089b81d6:

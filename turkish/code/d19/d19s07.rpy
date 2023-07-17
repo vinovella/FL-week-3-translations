@@ -649,7 +649,7 @@ translate turkish d19s07_roleplay_5e30bee1:
     mk "Benim için yeterince gerçekti."
 
 # game/code/d19/d19s07.rpy:394
-translddsate turkish d19s07_roleplay_b2d5188b:
+translate turkish d19s07_roleplay_b2d5188b:
 
     # mc "Well, now you'll get to compare it to the real thing."
     mc "Pekala, şimdi onu gerçek şeyle karşılaştıracaksın."
@@ -802,7 +802,7 @@ translate turkish d19s07_roleplay_05500ff6:
 translate turkish d19s07_roleplay_c538f358:
 
     # mk "No, not Hancock. That other film he was in. Where the guy is supposed to get 90%% of the way to the kiss, but let her come that last 10%%... or not."
-    mk "Hayır, Hancock değil. Onun oynadığı diğer film. Adamın öpücüğe giden yolun %%90'ını alması gerekiyordu, ama o son %10'un gelmesine izin ver... ya da gelmesin."
+    mk "Hayır, Hancock değil. Onun oynadığı diğer film. Adamın öpücüğe giden yolun %%90'ını alması gerekiyordu, ama o son %%10'un gelmesine izin ver... ya da gelmesin."
 
 # game/code/d19/d19s07.rpy:471
 translate turkish d19s07_roleplay_368403b6:
@@ -814,7 +814,7 @@ translate turkish d19s07_roleplay_368403b6:
 translate turkish d19s07_roleplay_907643da:
 
     # mk "Still, I should get to 90%% and let him put out the last 10%%."
-    mk "Yine de %90'a ulaşmalı ve son %%10'u bırakmasına izin vermeliyim."
+    mk "Yine de %%90'a ulaşmalı ve son %%10'u bırakmasına izin vermeliyim."
 
 # game/code/d19/d19s07.rpy:475
 translate turkish d19s07_roleplay_889da061:
