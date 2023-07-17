@@ -292,7 +292,7 @@ translate turkish d20s02rn_40a9394c:
 translate turkish d20s02rn_94395525:
 
     # mct "Well, that's a lie. I hope he believes it."
-    mct "Pekala, bu bir yalan. Umarım buna inanır.""
+    mct "Pekala, bu bir yalan. Umarım buna inanır."
 
 # game/code/d20/d20s02rn.rpy:200
 translate turkish d20s02rn_baaf1957:

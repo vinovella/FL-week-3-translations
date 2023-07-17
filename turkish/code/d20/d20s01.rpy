@@ -490,7 +490,7 @@ translate turkish d20s01_judges_eb423b71:
 translate turkish d20s01_judges_3b38c7c7:
 
     # mc "I just gotta hope and pray that the judges take it easy on me, I guess..."
-    mc "Jüri üyelerinin beni hafife almalarını ummalıyım ve dua etmeliyim, sanırım...""
+    mc "Jüri üyelerinin beni hafife almalarını ummalıyım ve dua etmeliyim, sanırım..."
 
 # game/code/d20/d20s01.rpy:346
 translate turkish d20s01_judges_8e8d78a9:

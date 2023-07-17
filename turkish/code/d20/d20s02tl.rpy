@@ -1762,7 +1762,7 @@ translate turkish d20s02tl_cl_whip_cddedeb5:
 translate turkish d20s02tl_cl_whip_24598b2a:
 
     # cl "Yes! Dripping wet, [mcname]!"
-    cl Evet! Sırsıklamım, [mcname]!"
+    cl "Evet! Sırsıklamım, [mcname]!"
 
 # game/code/d20/d20s02tl.rpy:1066
 translate turkish d20s02tl_cl_whip_ae1b06f1:

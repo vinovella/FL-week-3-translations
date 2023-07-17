@@ -550,7 +550,7 @@ translate turkish d20s02zw_sex_b7601e33:
 translate turkish d20s02zw_sex_0ec42cef:
 
     # zw "I...I don't—"
-    zw "Ben... Yapamam...""
+    zw "Ben... Yapamam..."
 
 # game/code/d20/d20s02zw.rpy:351
 translate turkish d20s02zw_sex_0b5275bf:
