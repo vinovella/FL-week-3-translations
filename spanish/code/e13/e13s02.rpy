@@ -94,7 +94,7 @@ translate spanish replay_e13s02_e6216693:
 translate spanish replay_e13s02_cbd26234:
 
     # nk "*Soft giggle* Mmm, well you're certainly raring to go. Why don't I give your other head down there some attention?"
-    nk "*Risita suave* Mmm, bueno, ciertamente estás ansioso por hacerlo. ¿Por qué no le prestas un poco de atención a tu otra cabeza?"
+    nk "*Risita suave* Mmm, bueno, ciertamente estás ansioso por hacerlo. ¿Por qué no le doy un poco de atención a tu otra cabeza?"
 
 # game/code/e13/e13s02.rpy:156
 translate spanish replay_e13s02_f35b4a9c:
@@ -154,7 +154,7 @@ translate spanish replay_e13s02_ff39dba5:
 translate spanish replay_e13s02_519509e3:
 
     # nk "*Chuckles* It's okay. Did it feel good?"
-    nk "*Ríe* Está bien. ¿Se sintió bien?"
+    nk "*Ríe* No pasa nada. ¿Se sintió bien?"
 
 # game/code/e13/e13s02.rpy:241
 translate spanish replay_e13s02_384fbcba:
@@ -304,7 +304,7 @@ translate spanish e13s02_anal_3db76669:
 translate spanish e13s02_anal_61fffd69:
 
     # nk "Yes, yes! Fucking wreck my asshole. Harder!"
-    nk "¡Sí Sí! Destroza mi culo de mierda. ¡Más duro!"
+    nk "¡Sí, Sí! Destroza mi culo de mierda. ¡Más duro!"
 
 # game/code/e13/e13s02.rpy:436
 translate spanish e13s02_vag_after_anal_25e448bf:
@@ -334,7 +334,7 @@ translate spanish e13s02_vag_after_anal_787955d6:
 translate spanish e13s02_vag_after_anal_6656c3a9:
 
     # mc "Fuck, sorry."
-    mc "Joder, lo siento."
+    mc "Mierda, lo siento."
 
 # game/code/e13/e13s02.rpy:447
 translate spanish e13s02_vag_after_anal_110b8db7:
@@ -346,7 +346,7 @@ translate spanish e13s02_vag_after_anal_110b8db7:
 translate spanish e13s02_wrap_66753eb9:
 
     # nk "I— Fuck! *Loud moans* I'm cumming!"
-    nk "Yo— ¡Joder! *Gemidos fuertes* ¡Me estoy corriendo!"
+    nk "Yo— ¡Mierda! *Gemidos fuertes* ¡Me estoy corriendo!"
 
 # game/code/e13/e13s02.rpy:481
 translate spanish e13s02_wrap_3e830fcb:
