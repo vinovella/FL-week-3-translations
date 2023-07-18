@@ -4,15 +4,15 @@ translate spanish strings:
 
     # game/code/credits/credit_sprites.rpy:27
     old "Story Writing -"
-    new "Escritor -"
+    new "Escritores -"
 
     # game/code/credits/credit_sprites.rpy:42
     old "Art -"
-    new "Arte -"
+    new "Artistas -"
 
     # game/code/credits/credit_sprites.rpy:62
     old "Programming -"
-    new "Programación -"
+    new "Programadores -"
 
     # game/code/credits/credit_sprites.rpy:75
     old "Sound design -"
@@ -24,7 +24,7 @@ translate spanish strings:
 
     # game/code/credits/credit_sprites.rpy:98
     old "Testing, Proofreading\n& Translation -"
-    new "Pruebas, Corrección\n& Traducción -"
+    new "Pruebas, Corrección\ny Traducción -"
 
     # game/code/credits/credit_sprites.rpy:110
     old "Special Thanks -"
@@ -36,7 +36,7 @@ translate spanish strings:
 
     # game/code/credits/credit_sprites.rpy:130
     old "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
-    new "Muchas gracias a\ntodos nuestros fans\ny a todos los que\nos apoyaron y\nayudaron a dar vida\na esta historia"
+    new "Muchas gracias a\ntodos nuestros fans\ny a todos los que\nnos apoyaron y\nayudaron a dar vida\na esta historia"
 
     # game/code/credits/credit_sprites.rpy:139
     old "SKIP"
