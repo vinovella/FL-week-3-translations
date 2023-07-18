@@ -346,7 +346,7 @@ translate spanish e01s01_choice_done_2a2cd37d:
 translate spanish e01s01_choice_done_bf56ff69:
 
     # sy "No judging here. Just making observations."
-    sy "No estoy juzgando aquí. Solo haciendo observaciones."
+    sy "No juzgo a nadie. Sólo hago observaciones."
 
 # game/code/e01/e01s01.rpy:432
 translate spanish e01s01_choice_done_6c988c90:
@@ -586,7 +586,7 @@ translate spanish e01s01_choice_done_9525af21:
 translate spanish e01s01_choice_done_03716861:
 
     # sy "*Voice quivers* Ah fuck."
-    sy "Le tiembla la voz* Ah, mierda."
+    sy "*Le tiembla la voz* Ah, mierda."
 
 # game/code/e01/e01s01.rpy:667
 translate spanish e01s01_choice_done_47195482:
@@ -916,7 +916,7 @@ translate spanish e01s01_scene_bdsm_dom_6baff035:
 translate spanish e01s01_scene_bdsm_dom_c9bfe73d:
 
     # sy "*Voice quivers* Oooh, I can feel it! Oh God, fuck, it feels so good!"
-    sy "La voz le tiembla* Oooh, ¡puedo sentirlo! ¡Oh Dios, mierda, se siente tan bien!"
+    sy "*La voz le tiembla* Oooh, ¡puedo sentirlo! ¡Oh Dios, mierda, se siente tan bien!"
 
 # game/code/e01/e01s01.rpy:1126
 translate spanish e01s01_scene_bdsm_dom_a20cefa7:
@@ -1534,7 +1534,7 @@ translate spanish e01s01_inbetween_5_ede4a53e:
 translate spanish e01s01_inbetween_5_aa2fb29a:
 
     # sy "*Sigh* It's just now we gotta go get a new bottle of lube and that's just fucking annoying."
-    sy "*Suspiro* Es solo que ahora tenemos que ir a buscar una nueva botella de lubricante y eso es jodidamente molesto."
+    sy "*Suspiro* Es sólo que ahora tenemos que ir a buscar una nueva botella de lubricante y eso es una maldita molestia."
 
 # game/code/e01/e01s01.rpy:1776
 translate spanish e01s01_inbetween_5_e237d4dc:
@@ -1612,7 +1612,7 @@ translate spanish e01s01_finale_3a7b618c:
 translate spanish e01s01_finale_02c9dad7:
 
     # "Both" "*Heaving*"
-    "Ambos" "*Agitación*"
+    "Ambos" "*Agitados*"
 
 # game/code/e01/e01s01.rpy:1887
 translate spanish e01s01_finale_95c7633a:
