@@ -340,7 +340,7 @@ translate russian e10s01_7c156129:
 translate russian e10s01_e41bfd67:
 
     # mes "Appa, gwenchanayo. Ne. Eomma nin yo?"
-    mes "Appa, gwenchanayo. Ne. Eomma nin yo?"
+    mes "Appa, gwenchanayo. Ne. Eomma nin yo?\n\n\n{size=-10}{i}(на корейском: Отец... Я в порядке... Да... А как мама?..){/i}{/size}"
 
 # game/code/e10/e10s01.rpy:231
 translate russian e10s01_eb3ddd60:
