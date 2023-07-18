@@ -418,7 +418,7 @@ translate spanish e10s01_c5ce4801:
 translate spanish e10s01_5319a250:
 
     # mes "My father still forces me to see him. It's ridiculous. It's not like I force him and mom to come to our classes and sit through a lecture."
-    mes "Mi padre todavía me obliga a verlo. Es ridículo. No es como si lo obligara a él ya mamá a venir a nuestras clases y sentarse a escuchar una conferencia."
+    mes "Mi padre todavía me obliga a verlo. Es ridículo. No es como si lo obligara a él y a mamá a venir a nuestras clases y sentarse a escuchar una conferencia."
 
 # game/code/e10/e10s01.rpy:258
 translate spanish e10s01_9fed0e6e:
@@ -532,7 +532,7 @@ translate spanish e10s01_134f269e:
 translate spanish e10s01_c0f2f88d:
 
     # mc "I suppose that's true. Just saying I would never work at a bank or the federal government. Too big to fail, what a crock."
-    mc "Supongo que eso es cierto. Solo digo que nunca trabajaría en un banco o en el gobierno federal. Demasiado grande para fallar, qué basura."
+    mc "Supongo que eso es cierto. Solo digo que nunca trabajaría en un banco o en el gobierno federal. Demasiado grande para fallar, qué estupidez."
 
 # game/code/e10/e10s01.rpy:298
 translate spanish e10s01_4ca8c4ec:
@@ -628,7 +628,7 @@ translate spanish e10s01_004708c6:
 translate spanish e10s01_745354df:
 
     # mes "Unbuckle them, then."
-    mes "Entonces, desabróchalos."
+    mes "Entonces, Suéltalos."
 
 # game/code/e10/e10s01.rpy:335
 translate spanish e10s01_25f51653:
@@ -718,13 +718,13 @@ translate spanish e10d01_sex_bc898f0f:
 translate spanish e10d01_sex_e0c2a854:
 
     # mc "What if someone sees?"
-    mc "¿Qué pasa si alguien ve?"
+    mc "¿Qué pasa si alguien nos ve?"
 
 # game/code/e10/e10s01.rpy:406
 translate spanish e10d01_sex_4bb8495a:
 
     # mes "Someone will see. Look, there's a camera up there."
-    mes "Alguien verá. Mira, hay una cámara ahí arriba."
+    mes "Alguien nos verá. Mira, hay una cámara ahí arriba."
 
 # game/code/e10/e10s01.rpy:408
 translate spanish e10d01_sex_7150423f:
@@ -976,7 +976,7 @@ translate spanish e10d01_sex_05034740:
 translate spanish e10d01_sex_5bc5723f:
 
     # mes "Don't worry, I had the depo shot. Fill me up."
-    mes "No te preocupes, me puse la inyección depo. Lléname."
+    mes "No te preocupes, me puse la inyección. Lléname."
 
 # game/code/e10/e10s01.rpy:631
 translate spanish e10d01_sex_505daf63:
@@ -1006,7 +1006,7 @@ translate spanish e10d01_sex_38cb8147:
 translate spanish e10d01_sex_7afa6ddc:
 
     # mc "Wait, I have to piss. Can I piss on you?"
-    mc "Espera, tengo que mear. ¿Puedo orinar sobre ti?"
+    mc "Espera, tengo que orinar. ¿Puedo orinar sobre ti?"
 
 # game/code/e10/e10s01.rpy:671
 translate spanish e10d01_sex_6d74da18:
@@ -1150,7 +1150,7 @@ translate spanish e10s01_final_sex_dae43ecb:
 translate spanish e10s01_final_sex_f34f4c18:
 
     # mc "Come on, we're really risking it."
-    mc "Vamos, realmente nos estamos arriesgando."
+    mc "Vámonos, realmente nos estamos arriesgando."
 
 # game/code/e10/e10s01.rpy:802
 translate spanish e10s01_final_sex_febee71a:
