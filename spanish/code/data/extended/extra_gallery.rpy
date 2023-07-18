@@ -276,7 +276,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:326
     old "THE FIRST ENDING\nFROM 18 TOTAL ENDINGS"
-    new "EL PRIMER FINAL\nDE UN TOTAL DE 18 FINALES"
+    new "EL PRIMER FINAL DE\nUN TOTAL DE 18 FINALES"
 
     # game/code/data/extended/extra_gallery.rpy:327
     old "IS THAT A REAL ENDING?"
@@ -298,15 +298,11 @@ translate spanish strings:
     old "The whole\nharem pregnant"
     new "Todo el\nharem embarazado"
 
-# TODO: Translation updated at 2023-07-11 12:14
-
-translate spanish strings:
-
     # game/code/data/extended/extra_gallery.rpy:354
     old "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
-    new "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
+    new "VAS A USARLO PARA\nEL BIEN, ¿VERDAD?"
 
     # game/code/data/extended/extra_gallery.rpy:535
     old "TRADE OFFER"
-    new "TRADE OFFER"
+    new "OFERTA DE INTERCAMBIO"
 
