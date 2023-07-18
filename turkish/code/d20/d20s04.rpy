@@ -22,7 +22,7 @@ translate turkish d20s04_5e842538:
 translate turkish d20s04_dc4b0614:
 
     # mct "\"RU Okay? I'm about to take my final exams. Can it wait until after that?\""
-    mct "\"RU Tamam mı? Son sınavlarıma girmek üzereyim. Ondan sonrasına kadar bekleyebilir mi?\"
+    mct "\"RU Tamam mı? Son sınavlarıma girmek üzereyim. Ondan sonrasına kadar bekleyebilir mi?\""
 
 # game/code/d20/d20s04.rpy:38
 translate turkish d20s04_376cd0fa:

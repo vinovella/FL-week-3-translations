@@ -826,7 +826,7 @@ translate turkish d20s05_pool_talk_0a078fe2:
 translate turkish d20s05_pool_talk_09d05969:
 
     # mc "She did tell me that you weren't \"ripe\" yet. She didn't want to \"pluck\" you until you were completely her sex slave."
-    mc "Bana senin henüz "olgunlaşmadığını" söyledi. Tamamen onun seks kölesi olana kadar seni "koparmak" istemedi."
+    mc "Bana senin henüz \"olgunlaşmadığını\" söyledi. Tamamen onun seks kölesi olana kadar seni \"koparmak\" istemedi."
 
 # game/code/d20/d20s05.rpy:625
 translate turkish d20s05_pool_talk_c4dc7027:

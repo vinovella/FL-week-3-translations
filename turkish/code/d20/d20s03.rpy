@@ -16,7 +16,7 @@ translate turkish d20s03_a18094f9:
 translate turkish d20s03_35c2dd21:
 
     # kb "Waiting for Chloe."
-    kb Chloe'yi bekliyorum."
+    kb "Chloe'yi bekliyorum."
 
 # game/code/d20/d20s03.rpy:68
 translate turkish d20s03_e81719f4:
@@ -298,7 +298,7 @@ translate turkish d20s03_548c9123:
 translate turkish d20s03_86c38a57:
 
     # kb "Took a nasty fall."
-    kb "Kötü bir düşüş yaşadı.""
+    kb "Kötü bir düşüş yaşadı."
 
 # game/code/d20/d20s03.rpy:165
 translate turkish d20s03_82f74230:
