@@ -36,7 +36,7 @@ translate spanish strings:
 
     # game/code/credits/credit_sprites.rpy:130
     old "Huge thanks to\nall of our fans\nand everyone who\nsupported us and\nhelped to bring\nthis story to life"
-    new "Muchas gracias a\ntodos nuestros fans\ny a todos los que\n nos apoyaron y\nayudaron a dar vida\na esta historia"
+    new "Muchas gracias a\ntodos nuestros fans\ny a todos los que\nnos apoyaron y\nayudaron a dar vida\na esta historia"
 
     # game/code/credits/credit_sprites.rpy:139
     old "SKIP"
