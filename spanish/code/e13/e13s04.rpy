@@ -142,7 +142,7 @@ translate spanish replay_e13s04_c9c8dc7c:
 translate spanish replay_e13s04_ef9e1cab:
 
     # nk "Yes! Fuck, God yes. That feels {i}so{/i} good."
-    nk "¡Sí! Joder, Dios sí. Eso se siente {i}muy{/i} bien."
+    nk "¡Sí! Mierda, Dios sí. Eso se siente {i}muy{/i} bien."
 
 # game/code/e13/e13s04.rpy:170
 translate spanish replay_e13s04_d0a52e3a:
@@ -154,7 +154,7 @@ translate spanish replay_e13s04_d0a52e3a:
 translate spanish replay_e13s04_37969b53:
 
     # nk "Yes, yes! I'm close! [mcname], I'm gonna—!"
-    nk "¡Sí Sí! ¡Estoy cerca! [mcname], ¡voy a...!"
+    nk "¡Sí, sí! ¡Estoy cerca! [mcname], ¡voy a...!"
 
 # game/code/e13/e13s04.rpy:180
 translate spanish replay_e13s04_b7e53779:
@@ -178,13 +178,13 @@ translate spanish replay_e13s04_2984b669:
 translate spanish replay_e13s04_7b4716ff:
 
     # nk "Fuck me. Fuck me as hard as you can. I don't care who sees or hears."
-    nk "Fóllame. Fóllame tan duro como puedas. No me importa quién nos ve u oye."
+    nk "Fóllame. Fóllame tan fuerte como puedas. No me importa quién vea o escuche."
 
 # game/code/e13/e13s04.rpy:215
 translate spanish replay_e13s04_a4e4f076:
 
     # nk "*Loud moans* Yes, fuck… Yes! I love you, [mcname]."
-    nk "*Gemidos fuertes* Sí, joder… ¡Sí! Te amo, [mcname]."
+    nk "*Gemidos fuertes* Sí, mierda… ¡Sí! Te amo, [mcname]."
 
 # game/code/e13/e13s04.rpy:224
 translate spanish replay_e13s04_dd27a96a:
@@ -226,5 +226,5 @@ translate spanish strings:
 
     # game/code/e13/e13s04.rpy:274
     old "You have finished playing ending number 13!"
-    new "¡Has terminado de jugar el final número 13!"
+    new "¡Has terminado de jugar el final n° 13!"
 
