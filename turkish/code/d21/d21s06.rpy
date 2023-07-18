@@ -202,7 +202,7 @@ translate turkish d21s06_0ba00e5c:
 translate turkish d21s06_2cd0cd35:
 
     # arj "No, I didn't."
-    arj "Hayır, yapmadım.""
+    arj "Hayır, yapmadım."
 
 # game/code/d21/d21s06.rpy:125
 translate turkish d21s06_a31340dd:
