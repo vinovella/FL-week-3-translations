@@ -112,7 +112,7 @@ translate spanish e01s02_1fdb905b:
 translate spanish e01s02_a15b4a11:
 
     # sy "What would you do if you won a few hundred million dollars?"
-    sy "¿No se supone que es sólo un millón de dólares?"
+    sy "¿Qué harías si ganaras unos cientos de millones de dólares?"
 
 # game/code/e01/e01s02.rpy:75
 translate spanish e01s02_b68059e8:
@@ -166,7 +166,7 @@ translate spanish e01s02_08cc5e15:
 translate spanish e01s02_73b4c8d5:
 
     # mc "I'd end up secluded in some desert compound having my meals delivered to me by bonded couriers until the million ran out."
-    mc "Terminaría recluido en algún complejo del desierto con mis comidas entregadas por mensajeros en condiciones de servidumbre hasta que se agotara el millón."
+    mc "Terminaría recluido en algún complejo del desierto con mis comidas entregadas por mensajeros en condiciones de servidumbre hasta que se acabara el millón."
 
 # game/code/e01/e01s02.rpy:96
 translate spanish e01s02_5c2c7bcf:
@@ -184,7 +184,7 @@ translate spanish e01s02_7ae3f46d:
 translate spanish e01s02_b40d48cd:
 
     # mc "I'm just saying... it sounds like hell."
-    mc "Solo digo... que suena como el infierno."
+    mc "Sólo digo... que suena como el infierno."
 
 # game/code/e01/e01s02.rpy:103
 translate spanish e01s02_e49de7e0:
@@ -280,7 +280,7 @@ translate spanish e01s02_e76219fe:
 translate spanish e01s02_e9770062:
 
     # sy "As if you need it anymore. Anyway, I've confiscated it for research purposes."
-    sy "Como si ya lo necesitaras. De todos modos, lo he confiscado con fines de investigación."
+    sy "Como si lo necesitaras. De todos modos, lo he confiscado con fines de investigación."
 
 # game/code/e01/e01s02.rpy:139
 translate spanish e01s02_cccc4977:
@@ -310,7 +310,7 @@ translate spanish e01s02_764b69bb:
 translate spanish e01s02_b6933220:
 
     # mc "I don't... we... what?"
-    mc "Yo no... nosotros... ¿qué?"
+    mc "Yo... nosotros... ¿qué?"
 
 # game/code/e01/e01s02.rpy:154
 translate spanish e01s02_5ff784b2:
@@ -346,7 +346,7 @@ translate spanish e01s02_67cc2233:
 translate spanish e01s02_d3c994b6:
 
     # sy "Face it, lover. You already are."
-    sy "Acéptalo, cariño. Ya lo eres"
+    sy "Acéptalo, cariño. Ya lo eres."
 
 # game/code/e01/e01s02.rpy:168
 translate spanish e01s02_5cb8fa35:
@@ -484,7 +484,7 @@ translate spanish e01s02_acece4dc:
 translate spanish e01s02_eaa6cff7:
 
     # sy "Do you remember what Lydia said about social nexii?"
-    sy "¿Recuerdas lo que dijo Lydia sobre social nexii?"
+    sy "¿Recuerdas lo que dijo Lydia sobre los nexos sociales?"
 
 # game/code/e01/e01s02.rpy:233
 translate spanish e01s02_8114dada:
@@ -502,7 +502,7 @@ translate spanish e01s02_fc8e89ea:
 translate spanish e01s02_387aff78:
 
     # sy "I think I can identify places where sexual people get together."
-    sy "Creo que puedo identificar lugares donde las personas sexuales se reúnen.."
+    sy "Creo que puedo identificar los lugares donde se reúnen las personas fanáticas del sexo."
 
 # game/code/e01/e01s02.rpy:240
 translate spanish e01s02_f714cfea:
