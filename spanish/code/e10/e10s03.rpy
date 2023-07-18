@@ -190,7 +190,7 @@ translate spanish e10s03_38e18638:
 translate spanish e10s03_b11f5511:
 
     # mes "No. Not right now. I just ironed them. I don't want them to wrinkle."
-    mes "No, no en este momento. Los acabo de planchar. No quiero que se arruguen."
+    mes "No, no en este momento. Los acabo de planchar. No quiero que se arrugue."
 
 # game/code/e10/e10s03.rpy:121
 translate spanish e10s03_bec863d4:
@@ -526,9 +526,9 @@ translate spanish strings:
 
     # game/code/e10/e10s03.rpy:251
     old "New day new possibilities"
-    new "Nuevo día nuevas posibilidades"
+    new "Nuevo día, nuevas posibilidades"
 
     # game/code/e10/e10s03.rpy:277
     old "New day new beginning"
-    new "Nuevo día nuevo comienzo"
+    new "Nuevo día, nuevo comienzo"
 
