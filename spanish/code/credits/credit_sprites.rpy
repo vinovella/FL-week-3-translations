@@ -24,7 +24,7 @@ translate spanish strings:
 
     # game/code/credits/credit_sprites.rpy:98
     old "Testing, Proofreading\n& Translation -"
-    new "Pruebas, Corrección\n y Traducción -"
+    new "Pruebas, Corrección\ny Traducción -"
 
     # game/code/credits/credit_sprites.rpy:110
     old "Special Thanks -"
