@@ -250,7 +250,7 @@ translate spanish e10s06_acf5d3bc:
 translate spanish e10s06_797d6ff9:
 
     # mc "Gotta have some noise to drown out any...\"heated conversations.\""
-    mc "Debe haber algo de ruido para ahogar cualquier... \"conversaciones acaloradas.\""
+    mc "Debe haber algo de ruido para ahogar cualquier... \"conversación acalorada.\""
 
 # game/code/e10/e10s06.rpy:257
 translate spanish e10s06_e27f27ff:
@@ -262,7 +262,7 @@ translate spanish e10s06_e27f27ff:
 translate spanish e10s06_after_video_12a28887:
 
     # mes "Yes, yes yes! Fuck you're hitting me so deep right now, God. Harder!"
-    mes "¡Si si si! Mierda, me estás golpeando tan profundo en este momento, Dios. ¡Más duro!"
+    mes "¡Si, si, si! Mierda, me estás golpeando tan profundo en este momento, Dios. ¡Más duro!"
 
 # game/code/e10/e10s06.rpy:368
 translate spanish e10s06_after_video_c84da6ed:
