@@ -82,7 +82,7 @@ translate spanish e10s05_5a8ad4ee:
 translate spanish e10s05_f2537499:
 
     # ns "Okay, then you know that HFT means inserting oneself as a middleman between a declared buyer and a declared seller in a few milliseconds to guarantee a small but certain profit."
-    ns "Bien, entonces sabes que HFT significa insertarse como intermediario entre un comprador declarado y un vendedor declarado en unos pocos milisegundos para garantizar una ganancia pequeña pero segura."
+    ns "Bien, entonces ya sabe que HFT significa interponerse como intermediario entre un comprador y un vendedor declarados en unos pocos milisegundos para garantizar un beneficio pequeño pero seguro."
 
 # game/code/e10/e10s05.rpy:98
 translate spanish e10s05_10149f10:
@@ -160,13 +160,13 @@ translate spanish e10s05_b150009e:
 translate spanish e10s05_9a0a6d47:
 
     # mc "You referred to ETL as CRAP?"
-    mc "Te refieres a ETL como ¿MIERDA?"
+    mc "¿Te refieres a ETL como CRAP?"
 
 # game/code/e10/e10s05.rpy:133
 translate spanish e10s05_4c6c2516:
 
     # ns "Well, when the CRAP department was created they didn't know ETL would become the buzzword. They just knew they were CRAP jobs."
-    ns "Bueno, cuando se creó el departamento CRAP, no sabían que ETL se convertiría en la palabra de moda. Simplemente sabían que eran trabajos de MIERDA."
+    ns "Bueno, cuando se creó el departamento CRAP no sabían que ETL se convertiría en la palabra de moda. Sólo sabían que eran trabajos basura."
 
 # game/code/e10/e10s05.rpy:136
 translate spanish e10s05_88ac7b43:
@@ -214,7 +214,7 @@ translate spanish e10s05_4f74c241:
 translate spanish e10s05_e15c80b9:
 
     # mes "J'Accuse!"
-    mes "J'Accuse!"
+    mes "¡J'Accuse!"
 
 # game/code/e10/e10s05.rpy:169
 translate spanish e10s05_83a71ace:
@@ -244,7 +244,7 @@ translate spanish e10s05_4e4adb22:
 translate spanish e10s05_76cdaf54:
 
     # mes "WHOREMONGER!!!"
-    mes "¡¡¡PUTERO!!!"
+    mes "¡¡¡PUERCO!!!"
 
 # game/code/e10/e10s05.rpy:184
 translate spanish e10s05_c73fc2d4:
@@ -346,7 +346,7 @@ translate spanish e10s05_a7d607d3:
 translate spanish e10s05_5d4367b3:
 
     # mc "She's actually a fucking genius. 205 IQ.{w} She's just not that great at understanding people."
-    mc "En realidad es un puto genio. Tiene 205 de IQ.{w} Ella no es tan buena para entender a la gente."
+    mc "En realidad es un maldita genio. Tiene 205 de IQ.{w} Ella no es tan buena para entender a la gente."
 
 # game/code/e10/e10s05.rpy:233
 translate spanish e10s05_f603d8e3:
