@@ -88,7 +88,7 @@ translate spanish e10s02_57572cdb:
 translate spanish e10s02_370a9fa6:
 
     # mes "Just try not to-"
-    mes "Solo trata de no-"
+    mes "Sólo trata de no..."
 
 # game/code/e10/e10s02.rpy:60
 translate spanish e10s02_3fc86124:
@@ -166,7 +166,7 @@ translate spanish e10s02_75e4ca5c:
 translate spanish e10s02_bed64e5e:
 
     # mc "-To your daughter. You know who I am. You're just bringing up her ex-boyfriend to amplify your own power."
-    mc "-A tu hija. Tu sabes quien soy. Estás mencionando a su ex novio para amplificar tu propio poder."
+    mc "-Tu hija. Tu sabes quien soy. Estás mencionando a su ex novio para amplificar tu propio poder."
 
 # game/code/e10/e10s02.rpy:105
 translate spanish e10s02_91ba1686:
@@ -442,7 +442,7 @@ translate spanish e10s02_b9bbf975:
 translate spanish e10s02_b9ba7622:
 
     # mc "I've listened to her. I'll can tell you what Min is going to do-"
-    mc "La he escuchado Te puedo decir lo que Min va a hacer-"
+    mc "La he escuchado. Te puedo decir lo que Min va a hacer-"
 
 # game/code/e10/e10s02.rpy:256
 translate spanish e10s02_9f5fe95d:
