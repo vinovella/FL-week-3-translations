@@ -22,7 +22,7 @@ translate spanish e08s06_50cdf71b:
 translate spanish e08s06_9aa07439:
 
     # fc "Ashley and I will always be grateful to you and AmRose."
-    fc "Ashley y yo siempre estaremos agradecidos con usted y AmRose."
+    fc "Ashley y yo siempre estaremos agradecidos contigo y AmRose."
 
 # game/code/e08/e08s06.rpy:85
 translate spanish e08s06_427d5914:
@@ -64,7 +64,7 @@ translate spanish e08s06_473f6d41:
 translate spanish e08s06_82d92223:
 
     # arj "You boys work too fast. I was just giving Ashley all my links for study guides for their college courses."
-    arj "Ustedes muchachos trabajan demasiado rápido. Solo le estaba dando a Ashley todos mis enlaces para guías de estudio para sus cursos universitarios."
+    arj "Ustedes trabajan demasiado rápido. Le estaba dando a Ashley todos mis enlaces para las guías de estudio para sus cursos en la universidad."
 
 # game/code/e08/e08s06.rpy:106
 translate spanish e08s06_8ba6c6b8:
@@ -76,7 +76,7 @@ translate spanish e08s06_8ba6c6b8:
 translate spanish e08s06_7d726231:
 
     # arj "You should try some."
-    arj "Deberías probar algunos."
+    arj "Deberías probar algunas."
 
 # game/code/e08/e08s06.rpy:110
 translate spanish e08s06_1383e618:
@@ -100,13 +100,13 @@ translate spanish e08s06_0ba247b3:
 translate spanish e08s06_e6c9aa82:
 
     # arj "I know you will. I can't believe you guys are heading out."
-    arj "Sé que lo harás. No puedo creer que se estén yendo."
+    arj "Sé que lo harán. No puedo creer que se estén yendo."
 
 # game/code/e08/e08s06.rpy:135
 translate spanish e08s06_bd3a07d4:
 
     # ac "Now don't turn into a stranger you two, haha."
-    ac "Ahora no se conviertan en extraños ustedes dos, jaja."
+    ac "Ahora ustedes dos no se conviertan en extraños, jaja."
 
 # game/code/e08/e08s06.rpy:136
 translate spanish e08s06_4d7c6d49:
@@ -214,7 +214,7 @@ translate spanish e08s06_home_alone_ecdcbb09:
 translate spanish e08s06_home_alone_e627fe6e:
 
     # arj "Hmm? Oh... nothing."
-    arj "¿Mmm? Oh nada."
+    arj "¿Mmm? Oh... nada."
 
 # game/code/e08/e08s06.rpy:214
 translate spanish e08s06_home_alone_e16d15d6:
@@ -244,7 +244,7 @@ translate spanish e08s06_home_alone_013cc363:
 translate spanish e08s06_home_alone_57e358ce:
 
     # arj "You were stubborn as a mule some days."
-    arj "Fuiste terco como una mula algunos días."
+    arj "Algunos días eras obstinado como una mula."
 
 # game/code/e08/e08s06.rpy:230
 translate spanish e08s06_home_alone_db0cdb10:
@@ -304,7 +304,7 @@ translate spanish e08s06_home_alone_398e8569:
 translate spanish e08s06_home_alone_5da168ff:
 
     # arj "You never let it drag you down."
-    arj "Nunca dejas que te arrastre hacia abajo."
+    arj "Nunca dejas que te afecte."
 
 # game/code/e08/e08s06.rpy:264
 translate spanish e08s06_home_alone_50bcde51:
@@ -358,7 +358,7 @@ translate spanish e08s06_home_alone_be31a9f3:
 translate spanish e08s06_home_alone_45622b03:
 
     # arj "You are my rock, since that day at the beach, and through the tornado... and whatever comes next."
-    arj "Eres mi roca, desde ese día en la playa, y a través del tornado... y lo que venga después."
+    arj "Eres mi roca, desde aquel día en la playa, y durante el tornado... y lo que sea que venga en el futuro."
 
 # game/code/e08/e08s06.rpy:300
 translate spanish e08s06_home_alone_5f9eb387:
@@ -406,7 +406,7 @@ translate spanish e08s06_home_alone_8cdf9f9a:
 translate spanish e08s06_home_alone_ba4b6068:
 
     # arj "More sure than anything else..."
-    arj "Más segura que otra cosa..."
+    arj "Más segura que nunca..."
 
 # game/code/e08/e08s06.rpy:345
 translate spanish e08s06_sex_113cf047:
@@ -490,7 +490,7 @@ translate spanish e08s06_sex_17860c81:
 translate spanish e08s06_sex_93c94f0e:
 
     # arj "Oh my god."
-    arj "Ay dios mío."
+    arj "Oh dios mío."
 
 # game/code/e08/e08s06.rpy:455
 translate spanish e08s06_sex_700e6051:
@@ -526,7 +526,7 @@ translate spanish e08s06_sex_47f537be:
 translate spanish e08s06_sex_6938f6ef:
 
     # arj "Of course I do. But... I decided I wanted a baby with you after the tornado..."
-    arj "Por supuesto que sí. Pero... decidí que quería un bebé contigo después del tornado..."
+    arj "Por supuesto que me gustan. Pero... decidí que quería un bebé contigo después del tornado..."
 
 # game/code/e08/e08s06.rpy:474
 translate spanish e08s06_sex_bf32719e:
@@ -538,7 +538,7 @@ translate spanish e08s06_sex_bf32719e:
 translate spanish e08s06_sex_a9f26307:
 
     # arj "But I needed it to just be the two of us."
-    arj "Pero necesitaba que solo fuéramos nosotros dos."
+    arj "Pero necesitaba que estuviéramos solo nosotros dos."
 
 # game/code/e08/e08s06.rpy:478
 translate spanish e08s06_sex_8310b45b:
@@ -604,7 +604,7 @@ translate spanish strings:
 
     # game/code/e08/e08s06.rpy:197
     old "Tell her that she is a lone wolf"
-    new "Dile que es un lobo solitario"
+    new "Dile que es una loba solitaria"
 
     # game/code/e08/e08s06.rpy:197
     old "Tell her that you are excited"
