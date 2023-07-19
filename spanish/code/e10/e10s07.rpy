@@ -28,7 +28,7 @@ translate spanish e10s07_8d6682f3:
 translate spanish e10s07_7d19c50d:
 
     # md "It is more what I can do for you. I have a couple proposals for you to...{w} entertain."
-    md "Es más lo que puedo hacer por ti. Tengo un par de propuestas para que...{w} entretengas."
+    md "Es más lo que yo puedo hacer por ti. Tengo un par de propuestas para que te...{w} entretengas."
 
 # game/code/e10/e10s07.rpy:27
 translate spanish e10s07_e85abc91:
@@ -94,7 +94,7 @@ translate spanish e10s07_56e35683:
 translate spanish e10s07_facf1ccf:
 
     # mc "Of course, you realize that your daughter is the Chairman, er, Chairwoman of the Board."
-    mc "Por supuesto, te das cuenta de que tu hija es la Presidenta, er, Presidenta de la Junta."
+    mc "Por supuesto, te das cuenta de que tu hija es la Presidenta del Consejo."
 
 # game/code/e10/e10s07.rpy:58
 translate spanish e10s07_c87317e7:
@@ -106,7 +106,7 @@ translate spanish e10s07_c87317e7:
 translate spanish e10s07_4c9e924d:
 
     # mes "You want to turn our company into a wholly owned subsidiary of the family's corporation."
-    mes "Quieres convertir nuestra compañía en una subsidiaria de propiedad total de la corporación familiar."
+    mes "Quiere convertir nuestra empresa en una filial de la corporación familiar."
 
 # game/code/e10/e10s07.rpy:64
 translate spanish e10s07_e23d2d85:
@@ -118,7 +118,7 @@ translate spanish e10s07_e23d2d85:
 translate spanish e10s07_d5f76cc2:
 
     # mes "[mcname] is the CMO, I am CEO."
-    mes "[mcname] es el CMO, yo soy el CEO."
+    mes "[mcname] es el CMO, yo soy la CEO."
 
 # game/code/e10/e10s07.rpy:68
 translate spanish e10s07_48d44569:
