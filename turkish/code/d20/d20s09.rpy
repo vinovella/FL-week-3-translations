@@ -196,7 +196,7 @@ translate turkish d20s09_d56e93fa:
 translate turkish d20s09_859f13c9:
 
     # hr "Bullshit. You've known her for what, a couple of weeks? You really think that's \"love\"?"
-    hr "Saçmalık. Onu ne zamandır tanıyorsun, birkaç hafta mı? Bunun gerçekten "aşk" olduğunu mu düşünüyorsun?"
+    hr "Saçmalık. Onu ne zamandır tanıyorsun, birkaç hafta mı? Bunun gerçekten \"aşk\" olduğunu mu düşünüyorsun?"
 
 # game/code/d20/d20s09.rpy:137
 translate turkish d20s09_dc1de0ea:

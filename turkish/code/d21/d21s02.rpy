@@ -1108,7 +1108,7 @@ translate turkish d21s02_mc_lc_bf0ad310:
 translate turkish d21s02_mc_lc_4377a2f7:
 
     # "Bzzzzz" with hpunch
-    "Bzzzzz" ile güçlü yumruk
+    "Bzzzzz" with hpunch
 
 # game/code/d21/d21s02.rpy:612
 translate turkish d21s02_mc_lc_3f969e9c:

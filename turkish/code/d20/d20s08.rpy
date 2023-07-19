@@ -550,7 +550,7 @@ translate turkish d20s08_mc_arj_d23e5400:
 translate turkish d20s08_mc_arj_49870eab:
 
     # mc "No. That's what you told Stacy, \"Sounds like a plan\"."
-    mc "Hayır. Stacy'ye "Kulağa bir plana benziyor" dedin."
+    mc "Hayır. Stacy'ye \"Kulağa bir plana benziyor\" dedin."
 
 # game/code/d20/d20s08.rpy:245
 translate turkish d20s08_mc_arj_a841da30:

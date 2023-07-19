@@ -484,7 +484,7 @@ translate turkish d21s04_464bae19:
 translate turkish d21s04_d8d3a61e:
 
     # mh "Beyond that, however, I don't have many other \"serious\" kinks. But I'm open to most things."
-    mh "Bunun ötesinde, başka "ciddi" garipliklerim yok. Ama çoğu şeye açığım."
+    mh "Bunun ötesinde, başka \"ciddi\" garipliklerim yok. Ama çoğu şeye açığım."
 
 # game/code/d21/d21s04.rpy:265
 translate turkish d21s04_6ce322b3:
