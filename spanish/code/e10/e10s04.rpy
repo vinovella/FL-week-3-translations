@@ -352,7 +352,7 @@ translate spanish e10s04_933f7836:
 translate spanish e10s04_da6e0ea1:
 
     # mc "Tsk, tsk, we haven't even begun yet and you're already poaching talent from your father, huh? I knew you had it in you."
-    mc "Tsk, tsk, ni siquiera hemos comenzado todavía y ya estás robando el talento de tu padre, ¿eh? Sabía que lo tenías en ti."
+    mc "Tsk, tsk, ni siquiera hemos comenzado todavía y ya estás robando el talento de tu padre, ¿eh?  Sabía que lo llevabas dentro."
 
 # game/code/e10/e10s04.rpy:207
 translate spanish e10s04_71ec72e9:
