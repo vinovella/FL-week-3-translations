@@ -34,7 +34,7 @@ translate spanish e08s01_49a753e9:
 translate spanish e08s01_a8a5e648:
 
     # mc "This one is called... don't kill me?"
-    mc "Este se llama... ¿no me mates?"
+    mc "Esta se llama... ¿no me mates?"
 
 # game/code/e08/e08s01.rpy:102
 translate spanish e08s01_ff25483d:
@@ -238,7 +238,7 @@ translate spanish e08s01_efc1c52a:
 translate spanish e08s01_442bfd1f:
 
     # mc "You know, the number one leading cause of deaths on a farm is caused by random barn explosions."
-    mc "Ya sabes, la principal causa número uno de muertes en una granja son las explosiones aleatorias de graneros."
+    mc "La principal causa de muerte en una granja son las explosiones en los graneros."
 
 # game/code/e08/e08s01.rpy:170
 translate spanish e08s01_52ae2508:
@@ -250,7 +250,7 @@ translate spanish e08s01_52ae2508:
 translate spanish e08s01_e5c1b983:
 
     # arj "I doubt it. How does a barn randomly explode?"
-    arj "Lo dudo. ¿Cómo explota un granero al azar?"
+    arj "Lo dudo. ¿Cómo explota un granero aleatoriamente?"
 
 # game/code/e08/e08s01.rpy:173
 translate spanish e08s01_b2959411:
@@ -322,7 +322,7 @@ translate spanish e08s01_d85b8b35:
 translate spanish e08s01_ffdf6ee4:
 
     # mc "Speaking of which, farmers."
-    mc "Hablando de eso, agricultores."
+    mc "Hablando de eso, granjeros."
 
 # game/code/e08/e08s01.rpy:197
 translate spanish e08s01_acf23214:
@@ -478,7 +478,7 @@ translate spanish e08s01_11d2150a:
 translate spanish e08s01_6f9f0827:
 
     # arj "Come with me, Frank."
-    arj "Ven conmigo, franco."
+    arj "Ven conmigo, Frank."
 
 # game/code/e08/e08s01.rpy:263
 translate spanish e08s01_606bfc6f:
@@ -526,7 +526,7 @@ translate spanish e08s01_70416007:
 translate spanish e08s01_c7a4a560:
 
     # mc "So was I."
-    mc "Yo tambien."
+    mc "Yo también."
 
 # game/code/e08/e08s01.rpy:286
 translate spanish e08s01_9be82f9e:
@@ -706,7 +706,7 @@ translate spanish e08s01_9c9b73e2:
 translate spanish e08s01_d66e0b21:
 
     # arj "I recommended we both read Their Eyes Were Watching God."
-    arj "Recomendé que ambos leyéramos Sus ojos miraban a Dios."
+    arj "Le recomendé a ambos que leyéramos Los ojos que miraban a Dios."
 
 # game/code/e08/e08s01.rpy:354
 translate spanish e08s01_a6e7ae0c:
@@ -748,7 +748,7 @@ translate spanish e08s01_501cda46:
 translate spanish e08s01_6f0b96e7:
 
     # mc "I'll read it after you're done."
-    mc "Lo leeré cuando termines."
+    mc "Lo leeré cuando lo termines."
 
 # game/code/e08/e08s01.rpy:368
 translate spanish e08s01_82907980:
@@ -790,7 +790,7 @@ translate spanish e08s01_6ff67542:
 translate spanish e08s01_70dff08e:
 
     # arj "Did you mean it before, what you said? That you made the right decision?"
-    arj "¿Lo que dijiste antes iba en serio? ¿Que tomaste la decisión correcta?"
+    arj "¿Lo que dijiste antes iba en serio? ¿Que habías tomado la decisión correcta?"
 
 # game/code/e08/e08s01.rpy:382
 translate spanish e08s01_e89d42cd:
@@ -844,7 +844,7 @@ translate spanish e08s01_4efa488c:
 translate spanish e08s01_c82ccabf:
 
     # mc "You want what we made yesterday? Still have some leftovers."
-    mc "¿Quieres lo que hicimos ayer? Todavía tengo algunas sobras."
+    mc "¿Quieres comer lo que comimos ayer? Todavía tengo algunas sobras."
 
 # game/code/e08/e08s01.rpy:409
 translate spanish e08s01_24c9bb5d:
@@ -964,7 +964,7 @@ translate spanish e08s01_arj_back_fdfd7218:
 translate spanish e08s01_arj_back_698d7569:
 
     # mc "Wow."
-    mc "Guau."
+    mc "Vaya."
 
 # game/code/e08/e08s01.rpy:489
 translate spanish e08s01_arj_back_81fa7c16:
@@ -982,7 +982,7 @@ translate spanish e08s01_arj_back_93517230:
 translate spanish e08s01_arj_back_332f1b09:
 
     # arj "They told me recently too. They were thinking about putting together a little folk ensemble and playing in public."
-    arj "A mi también me lo dijeron hace poco. Estaban pensando en armar un pequeño conjunto folclórico y tocar en público."
+    arj "Ellos me lo dijeron hace poco también. Estaban pensando en formar un pequeño conjunto folclórico y tocar en público."
 
 # game/code/e08/e08s01.rpy:495
 translate spanish e08s01_arj_back_abb6bf18:
@@ -1000,7 +1000,7 @@ translate spanish e08s01_arj_back_d3ef63a7:
 translate spanish e08s01_arj_back_4662577b:
 
     # mc "I mean, it's awesome to learn about something about a person we knew for a year and change. I mean, musicians, that's pretty huge, isn't it?"
-    mc "Quiero decir, es impresionante aprender algo sobre una persona que hemos conocido durante un ano y algo mas. Quiero decir, músicos, eso es bastante grande, ¿no?"
+    mc "Quiero decir, es impresionante aprender algo sobre una persona que conocimos durante un año y medio. Quiero decir, músicos, eso es bastante grande, ¿no?"
 
 # game/code/e08/e08s01.rpy:500
 translate spanish e08s01_arj_back_271cbe25:
@@ -1060,7 +1060,7 @@ translate spanish e08s01_arj_back_857a3d0a:
 translate spanish e08s01_arj_back_7351dc49:
 
     # arj "Wow, it says on the news that there's a storm coming."
-    arj "Wow, dice en las noticias que viene una tormenta."
+    arj "Vaya, dice en las noticias que viene una tormenta."
 
 # game/code/e08/e08s01.rpy:522
 translate spanish e08s01_arj_back_7e09ffe6:
@@ -1126,7 +1126,7 @@ translate spanish e08s01_arj_back_60a50dbe:
 translate spanish e08s01_arj_back_0c97023d:
 
     # mc "Oh, before I forget, here."
-    mc "Oh, antes de que me olvide, aquí."
+    mc "Antes de que se me olvide, toma."
 
 # game/code/e08/e08s01.rpy:554
 translate spanish e08s01_arj_back_40e3b63d:
@@ -1156,7 +1156,7 @@ translate spanish e08s01_arj_back_be3a126a:
 translate spanish e08s01_arj_back_974da45d:
 
     # arj "Alright, I mean, I could plant one in the backyard somewhere."
-    arj "Muy bien, quiero decir, podría plantar uno en el patio trasero en alguna parte."
+    arj "Muy bien, quiero decir, podría plantar una en el patio trasero en alguna parte."
 
 # game/code/e08/e08s01.rpy:565
 translate spanish e08s01_arj_back_87221d4c:
@@ -1168,7 +1168,7 @@ translate spanish e08s01_arj_back_87221d4c:
 translate spanish e08s01_arj_back_61ab5c9f:
 
     # arj "That's a nice thought."
-    arj "Ese es un buen pensamiento."
+    arj "Es un bonito pensamiento."
 
 # game/code/e08/e08s01.rpy:569
 translate spanish e08s01_arj_back_0811171e:
@@ -1276,7 +1276,7 @@ translate spanish strings:
 
     # game/code/e08/e08s01.rpy:49
     old "Ending #8\nMy Happy Ginger Family"
-    new "Final #8\nMi familia feliz de jengibre"
+    new "Final #8\nMi Familia Feliz de Jengibre"
 
     # game/code/e08/e08s01.rpy:54
     old "One year later"
