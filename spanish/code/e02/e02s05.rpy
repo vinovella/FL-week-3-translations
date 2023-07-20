@@ -58,7 +58,7 @@ translate spanish e02s05_fbeb2221:
 translate spanish e02s05_9a3eb2bf:
 
     # mc "No, it's a few text messages from Angela."
-    mc "No, son algunos mensajes de texto de Ángela."
+    mc "No, son algunos mensajes de texto de Angela."
 
 # game/code/e02/e02s05.rpy:63
 translate spanish e02s05_2c654653:
@@ -286,7 +286,7 @@ translate spanish e02s05_later_4c21f674:
 translate spanish e02s05_later_594a4b4f:
 
     # atp "I'm Angela Taylor-Portillo."
-    atp "Soy Ángela Taylor-Portillo."
+    atp "Soy Angela Taylor-Portillo."
 
 # game/code/e02/e02s05.rpy:181
 translate spanish e02s05_later_9af9b7be:
@@ -370,7 +370,7 @@ translate spanish e02s05_later_a2207c25:
 translate spanish e02s05_later_408ecff0:
 
     # ac "Maybe not exactly the one you want right this moment."
-    ac "Tal vez no sea exactamente el que quieres en este momento."
+    ac "Tal vez no sea exactamente lo que quieres en este momento."
 
 # game/code/e02/e02s05.rpy:208
 translate spanish e02s05_later_8b9d5a5e:
@@ -610,7 +610,7 @@ translate spanish e02s05_menu_3229c053:
 translate spanish e02s05_menu_8bb50aca:
 
     # mh "You can decide."
-    mh "Puedes decidir"
+    mh "Puedes decidir."
 
 # game/code/e02/e02s05.rpy:334
 translate spanish e02s05_menu_37338b68:
