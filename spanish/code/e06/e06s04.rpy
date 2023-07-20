@@ -16,7 +16,7 @@ translate spanish e06s04_925f9977:
 translate spanish e06s04_fa102d42:
 
     # mc "Alright lover."
-    mc "Está bien, amante."
+    mc "Está bien, cariño."
 
 # game/code/e06/e06s04.rpy:38
 translate spanish e06s04_6be74b0a:
@@ -94,7 +94,7 @@ translate spanish e06s04_b916dbc0:
 translate spanish e06s04_454a3661:
 
     # mc "Final guests just arrived."
-    mc "Los invitadas finales acaban de llegar."
+    mc "Las invitadas finales acaban de llegar."
 
 # game/code/e06/e06s04.rpy:97
 translate spanish e06s04_0f606fb8:
@@ -172,7 +172,7 @@ translate spanish e06s04_0a979c32:
 translate spanish e06s04_18356222:
 
     # mes "Me? Never. If anything, I'm Chaotic Lawful."
-    mes "¿Yo? Nunca. En todo caso, soy Caótica Legítima."
+    mes "¿Yo? Nunca. En todo caso, soy Caótica Amable."
 
 # game/code/e06/e06s04.rpy:180
 translate spanish e06s04_473111d5:
@@ -238,7 +238,7 @@ translate spanish e06s04_03850b18:
 translate spanish e06s04_36586c76:
 
     # mes "Nope. I called dibs when I moved in."
-    mes "No. Me la pedí cuando me mudé"
+    mes "No. La pedí cuando me mudé."
 
 # game/code/e06/e06s04.rpy:222
 translate spanish e06s04_b02fe471:
@@ -256,7 +256,7 @@ translate spanish e06s04_4a8a9e5a:
 translate spanish e06s04_93e79b50:
 
     # mes "I guess in this case, it was more a perk of being Lydia's best friend. She wanted to come to me first after she got out of jail."
-    mes "Supongo que en este caso, fue más una ventaja de ser la mejor amiga de Lydia. Ella vino a mí primero cuando salió de la cárcel."
+    mes "Supongo que en este caso, era más una ventaja de ser la mejor amiga de Lydia. Ella vino primero a mí cuando salió de la cárcel."
 
 # game/code/e06/e06s04.rpy:231
 translate spanish e06s04_c95a234f:
@@ -388,7 +388,7 @@ translate spanish e06s04_later_ad6d5f24:
 translate spanish e06s04_later_13c84637:
 
     # sy "You still have no jitters about all this? Having us all live here, and each of us getting our brains fucked to oblivion by the lucky stallion here."
-    sy "¿Todavía no estás nerviosa por todo esto? Teniendo a todas viviendo aquí, y a cada una de nosotras follando nuestros cerebros hasta el olvido por el afortunado semental de aquí."
+    sy "¿Todavía no estás nerviosa por todo esto? Tenernos a todas viviendo aquí, y que el afortunado semental se folle nuestros cerebros hasta el olvido."
 
 # game/code/e06/e06s04.rpy:339
 translate spanish e06s04_later_3f45d272:
@@ -556,7 +556,7 @@ translate spanish e06s04_later_3b1793de:
 translate spanish e06s04_later_4af7a871:
 
     # mc "There is a thought."
-    mc "Hay un pensamiento."
+    mc "Hay una idea."
 
 # game/code/e06/e06s04.rpy:420
 translate spanish e06s04_later_31e6984c:
