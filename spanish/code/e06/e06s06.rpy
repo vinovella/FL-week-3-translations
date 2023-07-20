@@ -10,7 +10,7 @@ translate spanish e06s06_820294b7:
 translate spanish e06s06_9dcfde78:
 
     # mc "Totally. Sorry for the radio silence. The end of my classes was a very busy time."
-    mc "Totalmente. Perdón por el silencio de la radio. El final de mis clases fue un tiempo muy ocupado."
+    mc "Totalmente. Perdón por el silenció de radio. El final de mis clases fue un tiempo muy ocupado."
 
 # game/code/e06/e06s06.rpy:98
 translate spanish e06s06_d941d7b4:
@@ -52,7 +52,7 @@ translate spanish e06s06_dfb3001e:
 translate spanish e06s06_3d0bfa8a:
 
     # mh "Well, you're very flattering Miss Cox."
-    mh "Bueno, es muy halagadora señorita Cox."
+    mh "Bueno, es usted muy halagadora, Srta. Cox."
 
 # game/code/e06/e06s06.rpy:119
 translate spanish e06s06_02592ba3:
@@ -334,7 +334,7 @@ translate spanish e06s06_mh_harem_88bfe7e6:
 translate spanish e06s06_mh_harem_beccaddc:
 
     # lc "Of course. We're not asking you to give up anything. You would just be adding to our happiness, if you'd like."
-    lc "Por supuesto. No te estamos pidiendo que renuncies a nada. Solo estarías aumentando nuestra felicidad, si quieres."
+    lc "Por supuesto. No te pedimos que renuncies a nada. Sólo estarías aumentando nuestra felicidad, si así lo quieres."
 
 # game/code/e06/e06s06.rpy:264
 translate spanish e06s06_mh_harem_b46b8b7a:
@@ -436,7 +436,7 @@ translate spanish e06s06_mh_harem_8e86a456:
 translate spanish e06s06_mh_harem_8dc423b3:
 
     # mh "You... Ahem... only if you are okay with that, AmRose."
-    mh "Tú... Ejem... solo si estás de acuerdo con eso, AmRose."
+    mh "Tú... Ejem... sólo si estás de acuerdo con eso, AmRose."
 
 # game/code/e06/e06s06.rpy:326
 translate spanish e06s06_mh_harem_925a5f29:
@@ -562,7 +562,7 @@ translate spanish e06s06_mh_harem_df4a9cb4:
 translate spanish e06s06_mh_harem_22e61ced:
 
     # mh "It's always good with you, Baby."
-    mh "Siempre es bueno contigo, bebé."
+    mh "Siempre es bueno contigo, cariño."
 
 # game/code/e06/e06s06.rpy:417
 translate spanish e06s06_mh_harem_8291ba58:
@@ -928,7 +928,7 @@ translate spanish e06s06_fuck_arj_a1bb9f0a:
 translate spanish e06s06_fuck_arj_b680c25c:
 
     # mh "I will go nice and slow with you, Baby..."
-    mh "Iré bien y despacio contigo, bebé..."
+    mh "Iré bien y despacio contigo, cariño..."
 
 # game/code/e06/e06s06.rpy:811
 translate spanish e06s06_fuck_arj_4872cbdd:
@@ -1174,7 +1174,7 @@ translate spanish e06s06_finish_2_e5470323:
 translate spanish e06s06_finish_2_b933b6e5:
 
     # mh "But that was legendary..."
-    mh "Pero eso era legendario..."
+    mh "Pero eso fue legendario..."
 
 # game/code/e06/e06s06.rpy:1026
 translate spanish e06s06_finish_2_da66423f:
