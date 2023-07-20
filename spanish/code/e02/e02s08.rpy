@@ -88,7 +88,7 @@ translate spanish e02s08_4dd39506:
 translate spanish e02s08_7cf19677:
 
     # mh "*Gently laughs* I'm not a therapist, Angela. You know this."
-    mh "*Ríe amablemente* No soy terapeuta, Ángela. Tú lo sabes."
+    mh "*Ríe amablemente* No soy terapeuta, Angela. Tú lo sabes."
 
 # game/code/e02/e02s08.rpy:113
 translate spanish e02s08_dc4b8d3c:
@@ -136,7 +136,7 @@ translate spanish e02s08_d8607406:
 translate spanish e02s08_1ac30a89:
 
     # mh "You're very open and honest with your emotions Angela. That's wonderful, but it might also feel overwhelming to Alexander."
-    mh "Eres muy abierta y honesta con tus emociones Ángela. Eso es maravilloso, pero también puede resultar abrumador para Alexander."
+    mh "Eres muy abierta y honesta con tus emociones Angela. Eso es maravilloso, pero también puede resultar abrumador para Alexander."
 
 # game/code/e02/e02s08.rpy:135
 translate spanish e02s08_324a539e:
@@ -166,7 +166,7 @@ translate spanish e02s08_ae09ad5d:
 translate spanish e02s08_732c55b4:
 
     # mh "Angela."
-    mh "Ángela."
+    mh "Angela."
 
 # game/code/e02/e02s08.rpy:151
 translate spanish e02s08_630fc560:
@@ -196,7 +196,7 @@ translate spanish e02s08_9b561b10:
 translate spanish e02s08_4d501e51:
 
     # ap "It's not that you don't listen to me, Angela. It's just...I just..."
-    ap "No es que no me escuches, Ángela. Es solo que... yo solo..."
+    ap "No es que no me escuches, Angela. Es solo que... yo solo..."
 
 # game/code/e02/e02s08.rpy:166
 translate spanish e02s08_166ef820:
@@ -358,7 +358,7 @@ translate spanish e02s08_00bedbbc:
 translate spanish e02s08_eabf5076:
 
     # mh "Angela, this isn't a fight. He isn't accusing you of anything. He's just giving his perspective."
-    mh "Ángela, esto no es una pelea. No te está acusando de nada. Solo está dando su perspectiva."
+    mh "Angela, esto no es una pelea. No te está acusando de nada. Solo está dando su perspectiva."
 
 # game/code/e02/e02s08.rpy:221
 translate spanish e02s08_a81c8a03:
@@ -376,13 +376,13 @@ translate spanish e02s08_7ced12cc:
 translate spanish e02s08_db312d4d:
 
     # atp "I don't— I haven't— I just..."
-    atp "Yo no, yo no tengo, yo solo..."
+    atp "Yo no, yo no tengo, yo sólo..."
 
 # game/code/e02/e02s08.rpy:229
 translate spanish e02s08_6fa13d61:
 
     # mh "Angela. It's okay. You're safe here."
-    mh "Ángela. Está bien. Estás a salvo aquí."
+    mh "Angela. Está bien. Estás a salvo aquí."
 
 # game/code/e02/e02s08.rpy:233
 translate spanish e02s08_e57d4e8c:
@@ -400,7 +400,7 @@ translate spanish e02s08_02959113:
 translate spanish e02s08_13801034:
 
     # atp "Of course I fucking love you! I— *sniffles* I just..."
-    atp "¡Claro que te amo! Yo— *solloza* Yo solo..."
+    atp "¡Claro que te amo! Yo sólo..."
 
 # game/code/e02/e02s08.rpy:238
 translate spanish e02s08_1b80375a:
@@ -490,7 +490,7 @@ translate spanish e02s08_e894b5dc:
 translate spanish e02s08_6e0750ac:
 
     # ap "Angela has always thought that you were an icon. To uh...put it in PG terms."
-    ap "Ángela siempre pensó que eras un ícono. Para uh... ponerlo en términos PG."
+    ap "Angela siempre pensó que eras un ícono. Para uh... ponerlo en términos PG."
 
 # game/code/e02/e02s08.rpy:273
 translate spanish e02s08_7b32c967:
@@ -586,7 +586,7 @@ translate spanish e02s08_07e06893:
 translate spanish e02s08_180a2c33:
 
     # mc "As far as I understand it, Angela is the dominant one in your relationship, yes?"
-    mc "Según tengo entendido, Ángela es la dominante en su relación, ¿no?"
+    mc "Según tengo entendido, Angela es la dominante en su relación, ¿no?"
 
 # game/code/e02/e02s08.rpy:308
 translate spanish e02s08_028f87f8:
@@ -598,7 +598,7 @@ translate spanish e02s08_028f87f8:
 translate spanish e02s08_917094e6:
 
     # mc "Why don't you switch the roles tonight? Angela becomes the sub, you become the dom."
-    mc "¿Por qué no cambian los papeles esta noche? Ángela se convierte en sumisa, y tú te conviertes en el dominatrix."
+    mc "¿Por qué no cambian los papeles esta noche? Angela se convierte en sumisa, y tú te conviertes en el dominatrix."
 
 # game/code/e02/e02s08.rpy:313
 translate spanish e02s08_0bbe8520:
@@ -838,7 +838,7 @@ translate spanish e02s08_sex_70d96eb4:
 translate spanish e02s08_sex_d9e91db4:
 
     # mh "Alexander, I suggest that you sit down and let Angela take care of you. This is a good opportunity for you two to change the dynamic before going into anything more intense."
-    mh "Alexander, te sugiero que te sientes y dejes que Ángela te cuide. Esta es una buena oportunidad para que ustedes dos cambien la dinámica antes de pasar a algo más intenso."
+    mh "Alexander, te sugiero que te sientes y dejes que Angela te cuide. Esta es una buena oportunidad para que ustedes dos cambien la dinámica antes de pasar a algo más intenso."
 
 # game/code/e02/e02s08.rpy:475
 translate spanish e02s08_sex_fc7b496a:
@@ -958,7 +958,7 @@ translate spanish e02s08_sex_6171b4a8:
 translate spanish e02s08_sex_ec6d03ab:
 
     # mh "Breed me like your little whore."
-    mh "Críame como a tu putita."
+    mh "Fóllame como tu pequeña puta."
 
 # game/code/e02/e02s08.rpy:552
 translate spanish e02s08_sex_02c0f4c7:
@@ -982,7 +982,7 @@ translate spanish e02s08_sex_18bf0177:
 translate spanish e02s08_sex_07232d3d:
 
     # mh "Mm. Seeing them so turned on is making {i}me{/i} go wild."
-    mh "Mm. Verlos tan excitados {i}me está volviendo loco{/i}."
+    mh "Mm. Verlos tan excitados {i}me está volviendo loca{/i}."
 
 # game/code/e02/e02s08.rpy:568
 translate spanish e02s08_sex_4d735233:
@@ -994,13 +994,13 @@ translate spanish e02s08_sex_4d735233:
 translate spanish e02s08_sex_ef1c62c5:
 
     # mh "Do you think you could take me, Darling?"
-    mh "¿Crees que podrías llevarme, cariño?"
+    mh "¿Crees que podrías tomarme, cariño?"
 
 # game/code/e02/e02s08.rpy:572
 translate spanish e02s08_sex_3fc444b4:
 
     # mh "I'm {i}very{/i} hard right now."
-    mh "Estoy {i}muy{/i} duro en este momento."
+    mh "Estoy {i}muy{/i} dura en este momento."
 
 # game/code/e02/e02s08.rpy:574
 translate spanish e02s08_sex_d6785f8b:
@@ -1486,13 +1486,13 @@ translate spanish e02s08_foursome_76affe65:
 translate spanish e02s08_foursome_828a1e73:
 
     # mh "*husky voice* Yeah... You're so tight, Angela."
-    mh "*voz ronca* Sí... Eres tan estrecha, Ángela."
+    mh "*voz ronca* Sí... Eres tan estrecha, Angela."
 
 # game/code/e02/e02s08.rpy:936
 translate spanish e02s08_foursome_a62fb468:
 
     # atp "*Slurred* Then cum! Cum for me! Fill my slutty ass up with your cum!"
-    atp "*Arrastrando las palabras* ¡Entonces córrete! ¡Córrete para mí! ¡Llena mi culo cachondo con tu semen!"
+    atp "*Arrastrando las palabras* ¡Entonces córrete! ¡Córrete para mí! ¡Llena mi culo de puta con tu semen!"
 
 # game/code/e02/e02s08.rpy:942
 translate spanish e02s08_foursome_0e10b9f4:
