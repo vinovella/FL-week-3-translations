@@ -184,7 +184,7 @@ translate spanish e02s02_1c518baf:
 translate spanish e02s02_99b1a5dd:
 
     # mc "You’re going to jump at this height. You’re insane."
-    mc "Vas a saltar a esta altura. Estas loca."
+    mc "Vas a saltar a esta altura. Estás loca."
 
 # game/code/e02/e02s02.rpy:119
 translate spanish e02s02_d6860954:
@@ -412,7 +412,7 @@ translate spanish e02s02_0737f788:
 translate spanish e02s02_bd338f9e:
 
     # mc "I mean it sounds like a decent offer."
-    mc "Quiero decir que suena como una oferta decente."
+    mc "Quiero decir que parece una buena oferta."
 
 # game/code/e02/e02s02.rpy:266
 translate spanish e02s02_3198043c:
@@ -568,7 +568,7 @@ translate spanish e02s02_4eb99c59:
 translate spanish e02s02_e94ef34d:
 
     # mh "Bank left, follow the trail, and avoid crashing into those trees. I'll see you down there."
-    mh "Gira a la izquierda, sige el camino y evite chocar contra esos árboles. Te veo abajo."
+    mh "Gira a la izquierda, sige el camino y evita chocar contra esos árboles. Te veo abajo."
 
 translate spanish strings:
 
