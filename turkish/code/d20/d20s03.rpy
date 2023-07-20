@@ -10,559 +10,559 @@ translate turkish d20s03_0d620d79:
 translate turkish d20s03_a18094f9:
 
     # mc "Kevin. What are you doing here?"
-    mc "Kevin. What are you doing here?"
+    mc "Kevin. Burada ne yapıyorsun?"
 
 # game/code/d20/d20s03.rpy:65
 translate turkish d20s03_35c2dd21:
 
     # kb "Waiting for Chloe."
-    kb "Waiting for Chloe."
+    kb "Chloe'yi bekliyorum."
 
 # game/code/d20/d20s03.rpy:68
 translate turkish d20s03_e81719f4:
 
     # mc "In an empty auditorium... with no one around."
-    mc "In an empty auditorium... with no one around."
+    mc "Boş bir oditoryumda... etrafta kimse yokken"
 
 # game/code/d20/d20s03.rpy:71
 translate turkish d20s03_835a5a3a:
 
     # kb "I told her to meet me here."
-    kb "I told her to meet me here."
+    kb "Ona benimle burada buluşmasını söyledim."
 
 # game/code/d20/d20s03.rpy:72
 translate turkish d20s03_4286a517:
 
     # kb "How about you, what are you doing here?"
-    kb "How about you, what are you doing here?"
+    kb "Ya sen, burada ne yapıyorsun?"
 
 # game/code/d20/d20s03.rpy:76
 translate turkish d20s03_19321a77:
 
     # mc "Your sister wanted to meet me here."
-    mc "Your sister wanted to meet me here."
+    mc "Kardeşin benimle burada buluşmak istedi."
 
 # game/code/d20/d20s03.rpy:78
 translate turkish d20s03_e71f1081:
 
     # mc "Your girlfriend wanted to meet me here."
-    mc "Your girlfriend wanted to meet me here."
+    mc "Kız arkadaşın benimle burada buluşmak istedi."
 
 # game/code/d20/d20s03.rpy:81
 translate turkish d20s03_a358d6bb:
 
     # kb "Fair enough. Right now, or?"
-    kb "Fair enough. Right now, or?"
+    kb "Yeterince adil. Şu anda mı yoksa?"
 
 # game/code/d20/d20s03.rpy:83
 translate turkish d20s03_78493afd:
 
     # mc "She gave me a call earlier. I assume it was related to her studies."
-    mc "She gave me a call earlier. I assume it was related to her studies."
+    mc "Beni daha önce aradı. Sanırım dersleriyle ilgiliydi."
 
 # game/code/d20/d20s03.rpy:85
 translate turkish d20s03_00060b37:
 
     # mc "I've been getting a lot of calls lately."
-    mc "I've been getting a lot of calls lately."
+    mc "Son zamanlarda çok fazla telefon alıyorum."
 
 # game/code/d20/d20s03.rpy:87
 translate turkish d20s03_82e96f3f:
 
     # kb "Friendly calls, I assume."
-    kb "Friendly calls, I assume."
+    kb "Dostça aramalar, sanırım."
 
 # game/code/d20/d20s03.rpy:89
 translate turkish d20s03_21e825cc:
 
     # kb "So did you study for the exam?"
-    kb "So did you study for the exam?"
+    kb "Peki sınava çalıştın mı?"
 
 # game/code/d20/d20s03.rpy:92
 translate turkish d20s03_f800bed0:
 
     # mc "Yes."
-    mc "Yes."
+    mc "Evet."
 
 # game/code/d20/d20s03.rpy:95
 translate turkish d20s03_7f08e5f1:
 
     # mc "Not really."
-    mc "Not really."
+    mc "Tam olarak değil."
 
 # game/code/d20/d20s03.rpy:97
 translate turkish d20s03_32bf69ef:
 
     # kb "I'm pretty sure I studied the wrong thing."
-    kb "I'm pretty sure I studied the wrong thing."
+    kb "Yanlış şeyi incelediğimden oldukça eminim."
 
 # game/code/d20/d20s03.rpy:100
 translate turkish d20s03_5eb58d83:
 
     # mc "We're in the same program, Kevin."
-    mc "We're in the same program, Kevin."
+    mc "Aynı programdayız, Kevin."
 
 # game/code/d20/d20s03.rpy:101
 translate turkish d20s03_6b22203a:
 
     # mc "So unless you gone out of your way to study something completely unrelated, you'll be fine."
-    mc "So unless you gone out of your way to study something completely unrelated, you'll be fine."
+    mc "Yani tamamen ilgisiz bir şeyi çalışmak için kendi yolundan çıkmadığın sürece, iyi olacaksın."
 
 # game/code/d20/d20s03.rpy:102
 translate turkish d20s03_5c6a482a:
 
     # mc "Tell me you did something other than jacking off all week."
-    mc "Tell me you did something other than jacking off all week."
+    mc "Bana bütün hafta otuzbir çekmekten başka bir şey yaptığını söyle."
 
 # game/code/d20/d20s03.rpy:105
 translate turkish d20s03_919950c4:
 
     # kb "I don't know."
-    kb "I don't know."
+    kb "Bilmiyorum."
 
 # game/code/d20/d20s03.rpy:106
 translate turkish d20s03_63b02721:
 
     # kb "I'm pretty sure I'm going to fail."
-    kb "I'm pretty sure I'm going to fail."
+    kb "Başarısız olacağımdan oldukça eminim."
 
 # game/code/d20/d20s03.rpy:109
 translate turkish d20s03_706c056e:
 
     # mc "That's bad luck, don't say stuff like that."
-    mc "That's bad luck, don't say stuff like that."
+    mc "Bu kötü şans, böyle şeyler söyleme."
 
 # game/code/d20/d20s03.rpy:111
 translate turkish d20s03_d332322a:
 
     # kb "It's true though. I'm failing Nordin's class."
-    kb "It's true though. I'm failing Nordin's class."
+    kb "Yine de doğru. Nordin'in dersinden kalıyorum."
 
 # game/code/d20/d20s03.rpy:112
 translate turkish d20s03_7e7cec96:
 
     # mc "Maybe you can ask him for an extra credit assignment."
-    mc "Maybe you can ask him for an extra credit assignment."
+    mc "Belki ondan fazladan bir kredi ataması isteyebilirsiniz."
 
 # game/code/d20/d20s03.rpy:115
 translate turkish d20s03_68645526:
 
     # kb "Knowing him, I'd probably have to suck him off or something."
-    kb "Knowing him, I'd probably have to suck him off or something."
+    kb "Onu tanıdığım için, muhtemelen onu emmek zorunda kalırdım ya da başka bir şey."
 
 # game/code/d20/d20s03.rpy:116
 translate turkish d20s03_95b642e0:
 
     # kb "And it's not just his class."
-    kb "And it's not just his class."
+    kb "Ve bu sadece onun sınıfı değil."
 
 # game/code/d20/d20s03.rpy:118
 translate turkish d20s03_41317ddd:
 
     # mc "The worst that's going to happen is you're going to fail the exam."
-    mc "The worst that's going to happen is you're going to fail the exam."
+    mc "Olabilecek en kötü şey, sınavda başarısız olacaksın."
 
 # game/code/d20/d20s03.rpy:120
 translate turkish d20s03_47bc6cc5:
 
     # mc "You can always try again."
-    mc "You can always try again."
+    mc "Her zaman tekrar deneyebilirsin."
 
 # game/code/d20/d20s03.rpy:122
 translate turkish d20s03_48d35184:
 
     # kb "Nah... probably not."
-    kb "Nah... probably not."
+    kb "Hayır... muhtemelen hayır."
 
 # game/code/d20/d20s03.rpy:123
 translate turkish d20s03_0288aebc:
 
     # mc "Trust me."
-    mc "Trust me."
+    mc "Güven bana."
 
 # game/code/d20/d20s03.rpy:126
 translate turkish d20s03_7b759b5b:
 
     # kb "Even if I wanted to, which I don't, I wouldn't be able to."
-    kb "Even if I wanted to, which I don't, I wouldn't be able to."
+    kb "İstesem bile, ki istemiyorum, yapamam."
 
 # game/code/d20/d20s03.rpy:128
 translate turkish d20s03_8198b3d9:
 
     # mct "This is weird. Something isn't right."
-    mct "This is weird. Something isn't right."
+    mct "Bu garip. Bir şeyler doğru değil."
 
 # game/code/d20/d20s03.rpy:129
 translate turkish d20s03_154c59e7:
 
     # mct "Kevin's usually pretty upbeat. Something seems a bit off."
-    mct "Kevin's usually pretty upbeat. Something seems a bit off."
+    mct "Kevin genellikle oldukça iyimserdir. Bir şeyler biraz yanlış görünüyor."
 
 # game/code/d20/d20s03.rpy:132
 translate turkish d20s03_a045f41f:
 
     # mc "So what's going on?"
-    mc "So what's going on?"
+    mc "Peki neler oluyor?"
 
 # game/code/d20/d20s03.rpy:133
 translate turkish d20s03_aca08af7:
 
     # mc "You just worried about the exam or is there something else?"
-    mc "You just worried about the exam or is there something else?"
+    mc "Sadece sınav için mi endişeleniyorsun yoksa başka bir şey mi var?"
 
 # game/code/d20/d20s03.rpy:135
 translate turkish d20s03_bc3a2306:
 
     # kb "I want to ask you something."
-    kb "I want to ask you something."
+    kb "Sana bir şey sormak istiyorum."
 
 # game/code/d20/d20s03.rpy:137
 translate turkish d20s03_9f30caeb:
 
     # kb "And I want you to be honest."
-    kb "And I want you to be honest."
+    kb "Ve dürüst olmanı istiyorum."
 
 # game/code/d20/d20s03.rpy:139
 translate turkish d20s03_06c0ca6e:
 
     # mc "I'll try."
-    mc "I'll try."
+    mc "Deneyeceğim."
 
 # game/code/d20/d20s03.rpy:140
 translate turkish d20s03_40081f0d:
 
     # kb "Are we still friends?"
-    kb "Are we still friends?"
+    kb "Hala arkadaş mıyız?"
 
 # game/code/d20/d20s03.rpy:143
 translate turkish d20s03_e61e997e:
 
     # mc "Of course, Kevin. We're great friends."
-    mc "Of course, Kevin. We're great friends."
+    mc "Elbette, Kevin. Biz çok iyi arkadaşız."
 
 # game/code/d20/d20s03.rpy:145
 translate turkish d20s03_14f48410:
 
     # kb "Why are we friends?"
-    kb "Why are we friends?"
+    kb "Neden arkadaşız?"
 
 # game/code/d20/d20s03.rpy:147
 translate turkish d20s03_400b4a5c:
 
     # mc "Because we share things in common."
-    mc "Because we share things in common."
+    mc "Çünkü ortak şeyler paylaşıyoruz."
 
 # game/code/d20/d20s03.rpy:151
 translate turkish d20s03_805e5576:
 
     # kb "Like my sister."
-    kb "Like my sister."
+    kb "Kız kardeşim gibi."
 
 # game/code/d20/d20s03.rpy:153
 translate turkish d20s03_e5614d10:
 
     # kb "Like my girlfriend."
-    kb "Like my girlfriend."
+    kb "Kız arkadaşım gibi."
 
 # game/code/d20/d20s03.rpy:155
 translate turkish d20s03_66567e8c:
 
     # mc "Come on. No, man, before that."
-    mc "Come on. No, man, before that."
+    mc "Hadi. Hayır dostum, ondan önce."
 
 # game/code/d20/d20s03.rpy:157
 translate turkish d20s03_eca8edc0:
 
     # mc "We're just, you know, two guys. We look our for each other."
-    mc "We're just, you know, two guys. We look our for each other."
+    mc "Biz sadece, bilirsin, iki kişiyiz. Birbirimize bakarız."
 
 # game/code/d20/d20s03.rpy:158
 translate turkish d20s03_b3f29482:
 
     # mct "What should I even say here?"
-    mct "What should I even say here?"
+    mct "Burada ne söylemeliyim?"
 
 # game/code/d20/d20s03.rpy:160
 translate turkish d20s03_2733996e:
 
     # mc "We're two friends, who can talk about things. And say whatever comes to our minds. And we had some great experiences together too."
-    mc "We're two friends, who can talk about things. And say whatever comes to our minds. And we had some great experiences together too."
+    mc "Bir şeyler hakkında konuşabilen ve aklımıza ne gelirse söyleyebilen iki arkadaşız. Birlikte harika deneyimler de yaşadık."
 
 # game/code/d20/d20s03.rpy:163
 translate turkish d20s03_548c9123:
 
     # kb "Yeah. Like when you saw me spying on Chloe, and didn't say anything."
-    kb "Yeah. Like when you saw me spying on Chloe, and didn't say anything."
+    kb "Evet. Beni Chloe'yi gözetlerken gördüğün ve hiçbir şey söylemediğin zamanki gibi."
 
 # game/code/d20/d20s03.rpy:164
 translate turkish d20s03_86c38a57:
 
     # kb "Took a nasty fall."
-    kb "Took a nasty fall."
+    kb "Kötü bir düşüş yaşadı."
 
 # game/code/d20/d20s03.rpy:165
 translate turkish d20s03_82f74230:
 
     # kb "And you didn't make any judgments about me at the cafe."
-    kb "And you didn't make any judgments about me at the cafe."
+    kb "Ve kafede benim hakkımda herhangi bir yargıda bulunmadın."
 
 # game/code/d20/d20s03.rpy:168
 translate turkish d20s03_c5d73ad2:
 
     # kb "Or the fun we had at the party."
-    kb "Or the fun we had at the party."
+    kb "Ya da partide yaşadığımız eğlence."
 
 # game/code/d20/d20s03.rpy:169
 translate turkish d20s03_24c661b2:
 
     # kb "And when you chose to satisfy our desires... I know you don't think much of me, but really, I'm thankful."
-    kb "And when you chose to satisfy our desires... I know you don't think much of me, but really, I'm thankful."
+    kb "Ve arzularımızı tatmin etmeyi seçtiğinde... Beni pek düşünmediğini biliyorum ama gerçekten minnettarım."
 
 # game/code/d20/d20s03.rpy:171
 translate turkish d20s03_0d4c935a:
 
     # kb "Well, actually, I don't remember much of the events that happened lately."
-    kb "Well, actually, I don't remember much of the events that happened lately."
+    kb "Aslında, son zamanlarda olan olayların çoğunu hatırlamıyorum."
 
 # game/code/d20/d20s03.rpy:172
 translate turkish d20s03_d26b9e33:
 
     # kb "That's a lie, I'm just choosing to forget."
-    kb "That's a lie, I'm just choosing to forget."
+    kb "Bu bir yalan, sadece unutmayı seçiyorum."
 
 # game/code/d20/d20s03.rpy:173
 translate turkish d20s03_62531da2:
 
     # kb "But if memories are all we have, then, doesn't that mean we're just living in the past? That there's nowhere for this to go?"
-    kb "But if memories are all we have, then, doesn't that mean we're just living in the past? That there's nowhere for this to go?"
+    kb "Ama sahip olduğumuz tek şey anılarsa, bu sadece geçmişte yaşadığımız anlamına gelmez mi? Bunun gidecek hiçbir yeri yok mu?"
 
 # game/code/d20/d20s03.rpy:176
 translate turkish d20s03_eb19af2d:
 
     # mc "I'm not sure."
-    mc "I'm not sure."
+    mc "Emin değilim."
 
 # game/code/d20/d20s03.rpy:177
 translate turkish d20s03_96c851b6:
 
     # mct "Okay, there's something wrong for sure. I need to make an excuse and {i}leave{/i}."
-    mct "Okay, there's something wrong for sure. I need to make an excuse and {i}leave{/i}."
+    mct "Tamam, kesinlikle bir terslik var. Bir bahane bulup {i}gitmem{/i} gerekiyor."
 
 # game/code/d20/d20s03.rpy:180
 translate turkish d20s03_92d5de5d:
 
     # kb "You know, I was so glad when I heard you were taking this class."
-    kb "You know, I was so glad when I heard you were taking this class."
+    kb "Biliyor musun, bu dersi aldığını duyunca çok sevindim."
 
 # game/code/d20/d20s03.rpy:181
 translate turkish d20s03_f44ee7f7:
 
     # kb "There's a reason you don't see me with other people that often."
-    kb "There's a reason you don't see me with other people that often."
+    kb "Beni diğer insanlarla o kadar sık ​​görmemenin bir nedeni var."
 
 # game/code/d20/d20s03.rpy:182
 translate turkish d20s03_db948228:
 
     # kb "You might be thinking I was with Chloe the whole time. But we don't always get along, you know."
-    kb "You might be thinking I was with Chloe the whole time. But we don't always get along, you know."
+    kb "Her zaman Chloe ile birlikte olduğumu düşünüyor olabilirsin. Ama biz her zaman anlaşamıyoruz, biliyorsun."
 
 # game/code/d20/d20s03.rpy:185
 translate turkish d20s03_7502dc42:
 
     # mc "Yeah, I know."
-    mc "Yeah, I know."
+    mc "Evet, biliyorum."
 
 # game/code/d20/d20s03.rpy:186
 translate turkish d20s03_91e7fe9e:
 
     # mc "I'm wondering. Where is this all coming from?"
-    mc "I'm wondering. Where is this all coming from?"
+    mc "Merak ediyorum. Bunların hepsi nereden geliyor?"
 
 # game/code/d20/d20s03.rpy:187
 translate turkish d20s03_d070cdab:
 
     # mc "What's bringing this on?"
-    mc "What's bringing this on?"
+    mc "Buna ne sebep oluyor?"
 
 # game/code/d20/d20s03.rpy:190
 translate turkish d20s03_18dca563:
 
     # kb "Well, you know I told you, I started a new job not too long ago."
-    kb "Well, you know I told you, I started a new job not too long ago."
+    kb "Biliyorsun, sana söylemiştim, kısa bir süre önce yeni bir işe başladım."
 
 # game/code/d20/d20s03.rpy:191
 translate turkish d20s03_ec3731e3:
 
     # kb "It sucks. It takes up all my time. And I got passed over for a promotion."
-    kb "It sucks. It takes up all my time. And I got passed over for a promotion."
+    kb "Berbat. Tüm zamanımı alıyor. Ve bir terfi için geç kaldım."
 
 # game/code/d20/d20s03.rpy:192
 translate turkish d20s03_3e9e4762:
 
     # kb "Studying sucks. Life sucks."
-    kb "Studying sucks. Life sucks."
+    kb "Çalışmak berbat. Hayat berbat."
 
 # game/code/d20/d20s03.rpy:195
 translate turkish d20s03_ae7de870:
 
     # mc "That's not true."
-    mc "That's not true."
+    mc "Bu doğru değil."
 
 # game/code/d20/d20s03.rpy:197
 translate turkish d20s03_58e6bd3e:
 
     # kb "It is. [mcname], you're surrounded by how many women?"
-    kb "It is. [mcname], you're surrounded by how many women?"
+    kb "Öyle. [mcname], etrafın kaç kadınla çevrili?"
 
 # game/code/d20/d20s03.rpy:199
 translate turkish d20s03_3634247a:
 
     # kb "You're living the dream, and I'm... well, I'm still here."
-    kb "You're living the dream, and I'm... well, I'm still here."
+    kb "Sen rüyayı yaşıyorsun ve ben... şey, ben hala buradayım."
 
 # game/code/d20/d20s03.rpy:200
 translate turkish d20s03_c677bbd7:
 
     # kb "Feels like I didn't change much."
-    kb "Feels like I didn't change much."
+    kb "Pek değişmemiş gibi hissediyorum."
 
 # game/code/d20/d20s03.rpy:203
 translate turkish d20s03_5f74651f:
 
     # mc "That's not true. I have my difficulties too. I'm sure I'm not the only one nervous about this upcoming test..."
-    mc "That's not true. I have my difficulties too. I'm sure I'm not the only one nervous about this upcoming test..."
+    mc "Bu doğru değil. Benim de zorluklarım var. Eminim bu yaklaşan sınav konusunda gergin olan tek kişi ben değilimdir..."
 
 # game/code/d20/d20s03.rpy:204
 translate turkish d20s03_2346bbd1:
 
     # mc "And for the record... I like you."
-    mc "And for the record... I like you."
+    mc "Ve kayıtlara geçsin... Senden hoşlanıyorum."
 
 # game/code/d20/d20s03.rpy:207
 translate turkish d20s03_3cdd043a:
 
     # kb "Oh no bro, are you confessing something..."
-    kb "Oh no bro, are you confessing something..."
+    kb "Ah hayır kardeşim, bir şey mi itiraf ediyorsun..."
 
 # game/code/d20/d20s03.rpy:210
 translate turkish d20s03_6ada18e2:
 
     # mc "As a friend! As a friend."
-    mc "As a friend! As a friend."
+    mc "Bir arkadaş olarak! Bir arkadaş olarak."
 
 # game/code/d20/d20s03.rpy:212
 translate turkish d20s03_5a020e24:
 
     # mc "And your sister likes you too. That's the point. You're not alone."
-    mc "And your sister likes you too. That's the point. You're not alone."
+    mc "Ve kız kardeşin de senden hoşlanıyor. Mesele bu. Yalnız değilsin."
 
 # game/code/d20/d20s03.rpy:214
 translate turkish d20s03_730b8bb9:
 
     # mc "And your girlfriend likes you too. That's the point. You're not alone."
-    mc "And your girlfriend likes you too. That's the point. You're not alone."
+    mc "Ve kız arkadaşın da senden hoşlanıyor. Mesele bu. Yalnız değilsin."
 
 # game/code/d20/d20s03.rpy:215
 translate turkish d20s03_7868a094:
 
     # mc "A lot of people will judge you, call you names, whatever. As long as you're happy, isn't that what matters?"
-    mc "A lot of people will judge you, call you names, whatever. As long as you're happy, isn't that what matters?"
+    mc "Pek çok insan seni yargılayacak, sana lakap takacak, ne olursa olsun. Sen mutlu olduğun sürece önemli olan bu değil mi?"
 
 # game/code/d20/d20s03.rpy:218
 translate turkish d20s03_2b62f101:
 
     # kb "Thanks. I know."
-    kb "Thanks. I know."
+    kb "Teşekkürler. Biliyorum."
 
 # game/code/d20/d20s03.rpy:219
 translate turkish d20s03_69d04d33:
 
     # kb "I've done a lot of thinking, a lot of growing up. I still have a long way to go, but I feel like I'm hitting a huge milestone in my life."
-    kb "I've done a lot of thinking, a lot of growing up. I still have a long way to go, but I feel like I'm hitting a huge milestone in my life."
+    kb "Büyümek için çok düşündüm, çok şey yaptım. Daha gidecek çok yolum var ama hayatımda çok büyük bir dönüm noktasına ulaştığımı hissediyorum."
 
 # game/code/d20/d20s03.rpy:221
 translate turkish d20s03_87754725:
 
     # mc "Okay, Kevin."
-    mc "Okay, Kevin."
+    mc "Tamam, Kevin."
 
 # game/code/d20/d20s03.rpy:224
 translate turkish d20s03_341fdde5:
 
     # kb "I kinda made a decision, and I don't know what I want to do. But I need you to do me a favor."
-    kb "I kinda made a decision, and I don't know what I want to do. But I need you to do me a favor."
+    kb "Bir karar verdim ve ne yapmak istediğimi bilmiyorum. Ama bana bir iyilik yapmana ihtiyacım var."
 
 # game/code/d20/d20s03.rpy:225
 translate turkish d20s03_9571ac14:
 
     # kb "For a long time, I felt unhappy."
-    kb "For a long time, I felt unhappy."
+    kb "Uzun süre kendimi mutsuz hissettim."
 
 # game/code/d20/d20s03.rpy:226
 translate turkish d20s03_55a4d2ec:
 
     # kb "I know I've been chill with you, but you know. How would I share this type of heavy news?"
-    kb "I know I've been chill with you, but you know. How would I share this type of heavy news?"
+    kb "Sana soğuk davrandığımı biliyorum ama biliyorsun. Bu tür ağır haberleri nasıl paylaşırdım?"
 
 # game/code/d20/d20s03.rpy:229
 translate turkish d20s03_53806588:
 
     # kb "I tried to, but there just wasn't too much time these days."
-    kb "I tried to, but there just wasn't too much time these days."
+    kb "Denedim, ama bugünlerde çok fazla zaman yoktu."
 
 # game/code/d20/d20s03.rpy:230
 translate turkish d20s03_709bc3ad:
 
     # kb "I don't feel like I belong here. And so I'm going away."
-    kb "I don't feel like I belong here. And so I'm going away."
+    kb "Kendimi buraya ait hissetmiyorum. O yüzden gidiyorum."
 
 # game/code/d20/d20s03.rpy:232
 translate turkish d20s03_be6fa98b:
 
     # mc "Going away? Going where? I just got here!"
-    mc "Going away? Going where? I just got here!"
+    mc "Gidiyor musun? Nereye gidiyorsun? Daha yeni geldim!"
 
 # game/code/d20/d20s03.rpy:235
 translate turkish d20s03_771f9583:
 
     # kb "Haha. Not at this immediate moment."
-    kb "Haha. Not at this immediate moment."
+    kb "Haha. Şu anda değil."
 
 # game/code/d20/d20s03.rpy:236
 translate turkish d20s03_b277a9a8:
 
     # kb "Sorry. This is a little out of left field, I know. It's been an overwhelming experience."
-    kb "Sorry. This is a little out of left field, I know. It's been an overwhelming experience."
+    kb "Üzgünüm. Bu biraz yanlış oldu, biliyorum. Müthiş bir deneyim oldu."
 
 # game/code/d20/d20s03.rpy:237
 translate turkish d20s03_1e00fc7d:
 
     # kb "Feels like we've known each other all our lives. And now it's all going to change."
-    kb "Feels like we've known each other all our lives. And now it's all going to change."
+    kb "Hayatımız boyunca birbirimizi tanıyormuşuz gibi geliyor. Ve şimdi her şey değişecek."
 
 # game/code/d20/d20s03.rpy:240
 translate turkish d20s03_c84eb5c7:
 
     # kb "Everything changed for us when Fetish Locator dropped into our laps."
-    kb "Everything changed for us when Fetish Locator dropped into our laps."
+    kb "Fetish Locator kucağımıza düştüğünde bizim için her şey değişti."
 
 # game/code/d20/d20s03.rpy:241
 translate turkish d20s03_a3cd034f:
 
     # kb "It's been a blessing and a curse."
-    kb "It's been a blessing and a curse."
+    kb "Bu bir lütuf ve bir lanet oldu."
 
 # game/code/d20/d20s03.rpy:243
 translate turkish d20s03_fa5f14e7:
 
     # mc "Definitely. Crazy couple of weeks."
-    mc "Definitely. Crazy couple of weeks."
+    mc "Kesinlikle. Çılgın birkaç hafta."
 
 # game/code/d20/d20s03.rpy:246
 translate turkish d20s03_76105528:
 
     # kb "So about that favor."
-    kb "So about that favor."
+    kb "Yani bu iyilik hakkında."
 
 # game/code/d20/d20s03.rpy:248
 translate turkish d20s03_3f871f46:
@@ -574,61 +574,61 @@ translate turkish d20s03_3f871f46:
 translate turkish d20s03_a8c4d259:
 
     # kb "We made a decision, that we were going to go away and elope. Get married. Screw what our parents want. We only have one life to live, right?"
-    kb "We made a decision, that we were going to go away and elope. Get married. Screw what our parents want. We only have one life to live, right?"
+    kb "Bir karar aldık, çıkıp kaçacağız. Evlencez. Anne babamız ne istiyorsa boşver dedik. Yaşanacak tek bir hayatımız var, değil mi?"
 
 # game/code/d20/d20s03.rpy:253
 translate turkish d20s03_a3b1a71e:
 
     # mc "I guess."
-    mc "I guess."
+    mc "Sanırım."
 
 # game/code/d20/d20s03.rpy:254
 translate turkish d20s03_59ec00a0:
 
     # kb "When the time comes for you, and you have to make a no-win decision, I'm sure you'll be braver than me."
-    kb "When the time comes for you, and you have to make a no-win decision, I'm sure you'll be braver than me."
+    kb "Zamanı geldiğinde ve kazanamayacağın bir karar vermek zorunda kaldığında, benden daha cesur olacağına eminim."
 
 # game/code/d20/d20s03.rpy:257
 translate turkish d20s03_53cf85a0:
 
     # kb "Stick around, face the consequences."
-    kb "Stick around, face the consequences."
+    kb "Ortada kal, sonuçlarına katlan."
 
 # game/code/d20/d20s03.rpy:258
 translate turkish d20s03_f4b72fa4:
 
     # kb "Because I'm going to go away. Maybe you'll join me?"
-    kb "Because I'm going to go away. Maybe you'll join me?"
+    kb "Çünkü ben gideceğim. Belki bana katılırsın?"
 
 # game/code/d20/d20s03.rpy:260
 translate turkish d20s03_2ffde6f3:
 
     # mc "I don't think that'll be necessary. I mean, aren't you going to stay until after the exam, at least?"
-    mc "I don't think that'll be necessary. I mean, aren't you going to stay until after the exam, at least?"
+    mc "Bunun gerekli olacağını sanmıyorum. Yani, en azından sınav bitene kadar kalmayacak mısın?"
 
 # game/code/d20/d20s03.rpy:263
 translate turkish d20s03_a5f3f6ef:
 
     # kb "Sure, I will. But before that, I need to go and grab something."
-    kb "Sure, I will. But before that, I need to go and grab something."
+    kb "Tabii ki, yapacağım. Ama ondan önce gidip bir şeyler almam gerekiyor."
 
 # game/code/d20/d20s03.rpy:279
 translate turkish d20s03_def0ad19:
 
     # mc "What is it?"
-    mc "What is it?"
+    mc "Bu nedir?"
 
 # game/code/d20/d20s03.rpy:282
 translate turkish d20s03_40cabd70:
 
     # cb "Surprise!"
-    cb "Surprise!"
+    cb "Sürpriz!"
 
 # game/code/d20/d20s03.rpy:286
 translate turkish d20s03_55a984cf:
 
     # kb "This."
-    kb "This."
+    kb "Bu."
 
 # game/code/d20/d20s03.rpy:295
 translate turkish d20s03_2e71f394:

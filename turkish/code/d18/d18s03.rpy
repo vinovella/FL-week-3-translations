@@ -1210,7 +1210,7 @@ translate turkish d18s03_sex_096bcc92:
 translate turkish d18s03_sex_51212247:
 
     # mes "No.{w} Fuck me!! PLEASE!!!"
-    mes ""Hayır. {w} Sik beni!! LÜTFEN!!!"
+    mes "Hayır. {w} Sik beni!! LÜTFEN!!!"
 
 # game/code/d18/d18s03.rpy:870
 translate turkish d18s03_sex_00e9ea69:
@@ -1750,5 +1750,5 @@ translate turkish strings:
 
     # game/code/d18/d18s03.rpy:1050
     old "No. Definitely NOT"
-    new "Hayır. kesinlikle olmaz
+    new "Hayır. kesinlikle olmaz"
 

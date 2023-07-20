@@ -28,7 +28,7 @@ translate spanish after_credits_821d7845:
 translate spanish after_credits_c61d8a8d:
 
     # dd "Oh... Huh, I guess I am..."
-    dd "Oh... Huh, supongo que soy...."
+    dd "Oh... Huh, supongo que sí...."
 
 # game/code/labels.rpy:127
 translate spanish after_credits_7f99a1c4:
@@ -100,7 +100,7 @@ translate spanish after_credits_a67c9dcd:
 translate spanish after_credits_8d207f8d:
 
     # zp "Ending?"
-    zp "¿Finalizando?"
+    zp "¿Final?"
 
 # game/code/labels.rpy:209
 translate spanish after_credits_20b328e0:
@@ -154,13 +154,13 @@ translate spanish after_credits_e306f37c:
 translate spanish after_credits_79db875b:
 
     # sm "Congrats on finally opening up the S&M Studio, by the way!"
-    sm "¡Felicitaciones por abrir finalmente S&M Studio, por cierto!"
+    sm "¡Felicitaciones por abrir finalmente el Estudio S&M, por cierto!"
 
 # game/code/labels.rpy:239
 translate spanish after_credits_37ca87df:
 
     # sy "Thanks! I am {i}so{/i} looking forward to it!"
-    sy "¡Gracias! ¡Estoy {i}deseando{/i} que llegue!"
+    sy "¡Gracias! ¡Estoy {i}deseando{/i} que empiece!"
 
 # game/code/labels.rpy:242
 translate spanish after_credits_cc737886:
@@ -172,7 +172,7 @@ translate spanish after_credits_cc737886:
 translate spanish after_credits_03951422:
 
     # dd "Well, looks like our little Stacy will get her own game! \"Fetish Locator: S&M Studio\""
-    dd "¡Bueno, parece que nuestra pequeña Stacy tendrá su propio juego! \"Localizador de fetiches: S&M Studio\""
+    dd "¡Bueno, parece que nuestra pequeña Stacy tendrá su propio juego! \"Localizador de fetiches: Estudio S&M\""
 
 # game/code/labels.rpy:248
 translate spanish after_credits_f459c72f:
@@ -220,7 +220,7 @@ translate spanish after_credits_91f033d5:
 translate spanish after_credits_60fdd400:
 
     # dd "Well... I'm sure they won't be too mad if you share a {i}little{/i}."
-    dd "Bueno... estoy segura de que no se enfadarán demasiado si compartes un {i}poco{/i}."
+    dd "Bueno... estoy segura de que no se enojarán mucho si compartes un {i}poco{/i}."
 
 # game/code/labels.rpy:269
 translate spanish after_credits_bb36f67a:
@@ -280,7 +280,7 @@ translate spanish after_credits_352da388:
 translate spanish after_credits_73eb5eb5:
 
     # sy "I know! I can't wait to see what ViNovella has prepared for us next!"
-    sy "¡Lo sé! ¡No puedo esperar a ver qué nos tiene preparado ViNovella a continuación!"
+    sy "¡Ya lo sé! ¡Estoy impaciente por ver lo próximo que ViNovella nos tiene preparado!"
 
 # game/code/labels.rpy:372
 translate spanish after_credits_e4b3c0d3:
@@ -304,7 +304,7 @@ translate spanish after_credits_37ad6ed0:
 translate spanish after_credits_cbe5ee17:
 
     # sm "Oh? Have you played VU?"
-    sm "¿Oh? ¿Has jugado VU?"
+    sm "¿Oh? ¿Has jugado Universidad Vinovella?"
 
 # game/code/labels.rpy:383
 translate spanish after_credits_cf40d33d:
@@ -316,7 +316,7 @@ translate spanish after_credits_cf40d33d:
 translate spanish after_credits_dc1362cc:
 
     # zp "Hah! Yeah. I wish I could fuck up that Andre prick though."
-    zp "¡Ja! Sí. Aunque me gustaría poder joder a ese imbécil de Andre."
+    zp "¡Ja! Sí. Aunque me gustaría poder follarme a ese imbécil de Andre."
 
 # game/code/labels.rpy:389
 translate spanish after_credits_db88b20d:
@@ -358,7 +358,7 @@ translate spanish after_credits_23a10f35:
 translate spanish after_credits_470ffbdd:
 
     # sy "Do you two know when there'll be a finished version of VU available? I wanna binge it."
-    sy "¿Saben ustedes dos cuándo habrá disponible una versión terminada de VU? Quiero darme un atracón."
+    sy "¿Saben ustedes dos cuándo habrá disponible una versión terminada de Universidad Vinovella? Quiero darme un atracón."
 
 # game/code/labels.rpy:415
 translate spanish after_credits_4041f0a9:
@@ -376,13 +376,13 @@ translate spanish after_credits_321e2b80:
 translate spanish after_credits_99a25d72:
 
     # sm "Close. Each VU book will be {i}much{/i} bigger than an FL Week."
-    sm "Cerca. Cada libro VU será {i}mucho{/i} más grande que una semana de FL."
+    sm "Cerca. Cada libro de Universidad Vinovella será {i}mucho{/i} más grande que una semana de Fetish Locator."
 
 # game/code/labels.rpy:424
 translate spanish after_credits_03943779:
 
     # sy "Woah, that sounds like it's gonna be something. I hope you guys do well!"
-    sy "Woah, eso suena como que va a ser algo. ¡Espero que les vaya bien!"
+    sy "Woah, eso suena a que va a ser impresionante. ¡Espero que les vaya bien!"
 
 # game/code/labels.rpy:436
 translate spanish after_credits_6a3e959a:
@@ -400,13 +400,13 @@ translate spanish after_credits_22ed9ac8:
 translate spanish after_credits_5f020f84:
 
     # jh "Lara! Look who's here!"
-    jh "Lara! ¡Mira quien esta aquí!"
+    jh "¡Lara! ¡Mira quien esta aquí!"
 
 # game/code/labels.rpy:450
 translate spanish after_credits_846b7c76:
 
     # lw "Oh, hey."
-    lw "Oh hola."
+    lw "Oh, hola."
 
 # game/code/labels.rpy:453
 translate spanish after_credits_295b2dbe:
@@ -466,19 +466,19 @@ translate spanish after_credits_090df343:
 translate spanish after_credits_9f7b6a0f:
 
     # sy "{size=25}What's their deal? Are they a part of the groups and whatnot?{/size}"
-    sy "{size=25}¿Qué hacen? ¿Forman parte de los grupos y demás?{/size}"
+    sy "{size=25}¿Qué hacen? ¿Forman parte de algún grupo?{/size}"
 
 # game/code/labels.rpy:495
 translate spanish after_credits_3a7fd910:
 
     # dd "{size=25}Oh, they are the roommates of the main guy.{/size}"
-    dd "{size=25}Oh, son los compañeros de habitación del chico principal.{/size}"
+    dd "{size=25}Oh, son las compañeras de cuarto del protagonista.{/size}"
 
 # game/code/labels.rpy:496
 translate spanish after_credits_e6fb4b60:
 
     # dd "{size=25}Josie had an old crush on him and that's now sparking up again, and Lara is very protective of Josie and not really trusting of the guy. But he's growing on her slowly.{/size}"
-    dd "{size=25}Josie estaba enamorada de él y ahora está resurgiendo, y Lara es muy protectora con Josie y no confía mucho en él. Pero él se está enamorando de ella lentamente.{/size}"
+    dd "{size=25}Josie estaba enamorada de él desde hacía tiempo y ahora está volviendo a interesarle, y Lara es muy protectora con Josie y no confía mucho en él. Pero poco a poco comienza a gustarle.{/size}"
 
 # game/code/labels.rpy:497
 translate spanish after_credits_44f6d9ec:
@@ -538,13 +538,13 @@ translate spanish after_credits_a1f49133:
 translate spanish after_credits_395f54bd:
 
     # dk "We were just uhm...preparing for the next scene."
-    dk "Solo estábamos uhm... preparándonos para la siguiente escena."
+    dk "Sólo estábamos uhm... preparándonos para la siguiente escena."
 
 # game/code/labels.rpy:550
 translate spanish after_credits_e345815d:
 
     # dk "Ezra needs to suck the Main Character's cock, but she's never sucked such a big dick. So I was just helping train her gag reflex!"
-    dk "Ezra necesita chupar la polla del personaje principal, pero nunca ha chupado una polla tan grande. ¡Así que solo estaba ayudando a entrenar su reflejo nauseoso!"
+    dk "Ezra necesita chupar la polla del Protagonista, pero nunca ha chupado una polla tan grande. ¡Así que sólo estaba ayudando a entrenar su reflejo nauseoso!"
 
 # game/code/labels.rpy:553
 translate spanish after_credits_681cb382:
@@ -574,7 +574,7 @@ translate spanish after_credits_05fec18e:
 translate spanish after_credits_9790213c:
 
     # dd "Oh... I guess that's the end then."
-    dd "Oh... supongo que ese es el final entonces."
+    dd "Oh... Supongo que hasta aquí hemos llegado."
 
 # game/code/labels.rpy:576
 translate spanish after_credits_054483a6:
@@ -624,5 +624,5 @@ translate spanish strings:
 translate spanish after_credits_cb03f950:
 
     # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-    sy "Definitivamente deberías {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}añadir el juego a la lista de deseados de Steam{/u}{/a}"
+    sy "Definitivamente debo {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}añadir el juego en mi lista de deseados de Steam{/u}{/a}"
 
