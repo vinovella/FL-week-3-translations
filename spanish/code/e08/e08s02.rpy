@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2023-05-26 11:45
+# TODO: Translation updated at 2023-05-26 11:45
 
 # game/code/e08/e08s02.rpy:76
 translate spanish e08s02_bc4608e2:
 
     # mc "What's the haul looking like?"
-    mc "¿Cómo se ve el recorrido?"
+    mc "¿Qué aspecto tienen?"
 
 # game/code/e08/e08s02.rpy:80
 translate spanish e08s02_86515e76:
@@ -16,7 +16,7 @@ translate spanish e08s02_86515e76:
 translate spanish e08s02_742b44c0:
 
     # mc "A dozen? Wow, that's great."
-    mc "¿Una docena? Wow eso es genial."
+    mc "¿Una docena? Vaya, eso es genial."
 
 # game/code/e08/e08s02.rpy:86
 translate spanish e08s02_d57241b9:
@@ -28,7 +28,7 @@ translate spanish e08s02_d57241b9:
 translate spanish e08s02_fce6bb30:
 
     # mc "I'm glad chickens only eat feed. I don't want meat-eating chickens."
-    mc "Me alegro de que las gallinas solo coman pienso. No quiero pollos carnívoros."
+    mc "Me alegro de que los pollos sólo coman forraje. No quiero pollos carnívoros."
 
 # game/code/e08/e08s02.rpy:90
 translate spanish e08s02_cf51afe0:
@@ -142,7 +142,7 @@ translate spanish e08s02_676bbd3b:
 translate spanish e08s02_4d52a5fd:
 
     # arj "I just hope it's not too bad."
-    arj "Solo espero que no sea tan malo."
+    arj "Sólo espero que no sea demasiado malo."
 
 # game/code/e08/e08s02.rpy:137
 translate spanish e08s02_060e40ef:
@@ -262,7 +262,7 @@ translate spanish e08s02_cc07ae0a:
 translate spanish e08s02_8e788348:
 
     # arj "Shame there's no coffee shop or anything to talk to people around here. There is a library around here, though it's pretty empty most of the time."
-    arj "Lástima que no haya cafetería ni nada para hablar con la gente por aquí. Por aquí hay una biblioteca, aunque está bastante vacía la mayor parte del tiempo."
+    arj "Es una pena que no haya una cafetería o algo parecido para hablar con la gente de por aquí. Hay una biblioteca cerca de aquí, aunque está bastante vacía la mayor parte del tiempo."
 
 # game/code/e08/e08s02.rpy:178
 translate spanish e08s02_aacbae05:
@@ -298,7 +298,7 @@ translate spanish e08s02_f4e85547:
 translate spanish e08s02_10a3781b:
 
     # mc "That's one thing I liked about being in college. Just being in proximity with other people, you know? I could walk outside my room and find other people to talk to. And everyone always wanted something."
-    mc "Eso es algo que me gustaba de estar en la universidad. Simplemente estar cerca de otras personas, ¿sabes? Podía salir de mi habitación y encontrar a otras personas con quienes hablar. Y todos siempre querían algo."
+    mc "Eso es algo que me gustaba de estar en la universidad. Simplemente estar cerca de otras personas, ¿sabes?. Podía salir de mi habitación y encontrar a otras personas con quienes hablar. Y todos siempre querían algo."
 
 # game/code/e08/e08s02.rpy:187
 translate spanish e08s02_1fe77c46:
@@ -460,7 +460,7 @@ translate spanish e08s02_a013e959:
 translate spanish e08s02_f7d709cd:
 
     # arj "Okay, well..."
-    arj "Esta bien..."
+    arj "Está bien..."
 
 # game/code/e08/e08s02.rpy:243
 translate spanish e08s02_f0966344:
@@ -472,7 +472,7 @@ translate spanish e08s02_f0966344:
 translate spanish e08s02_6651ab87:
 
     # mc "Alright."
-    mc "Está bien."
+    mc "De acuerdo."
 
 # game/code/e08/e08s02.rpy:252
 translate spanish e08s02_73686ede:
@@ -514,7 +514,7 @@ translate spanish e08s02_4ae759af:
 translate spanish e08s02_ec39b12f:
 
     # arj "Well... it involves what I alluded to..."
-    arj "Bueno... se trata de lo que aludí..."
+    arj "Bueno... se trata de lo que he mencionado..."
 
 # game/code/e08/e08s02.rpy:268
 translate spanish e08s02_27126c08:
@@ -604,13 +604,13 @@ translate spanish e08s02_9e831a16:
 translate spanish e08s02_301b71c6:
 
     # mc "It's not easy to be vulnerable to someone and let someone know how you feel."
-    mc "No es fácil ser vulnerable ante alguien y hacerle saber cómo te sientes."
+    mc "No es fácil estar vulnerable ante alguien y hacerle saber cómo te sientes."
 
 # game/code/e08/e08s02.rpy:306
 translate spanish e08s02_3f84a39f:
 
     # mc "I am not personally into scat play myself. It's like you said, it's brain wiring."
-    mc "Yo personalmente no estoy en el juego scat. Es como dijiste, es cableado cerebral."
+    mc "A mí personalmente no me gusta el juego scat. Es como dijiste, es una cuestión creativa."
 
 # game/code/e08/e08s02.rpy:309
 translate spanish e08s02_3559218c:
@@ -628,7 +628,7 @@ translate spanish e08s02_978e76ae:
 translate spanish e08s02_df663315:
 
     # arj "Wow. You're right. We really did."
-    arj "Guau. Tienes razón. Realmente lo hicimos."
+    arj Vaya. Tienes razón. Realmente lo hicimos."
 
 # game/code/e08/e08s02.rpy:319
 translate spanish e08s02_9d88f87d:
@@ -640,7 +640,7 @@ translate spanish e08s02_9d88f87d:
 translate spanish e08s02_80ff89c1:
 
     # mc "Putting that aside, I don't judge you, and there is nothing wrong with what you like. I personally am not."
-    mc "Dejando eso a un lado, no te juzgo, y no hay nada malo en lo que te gusta. Personalmente no me gusta."
+    mc "Dejando eso a un lado, no te juzgo, y no hay nada malo en lo que te guste. Personalmente no me gusta."
 
 # game/code/e08/e08s02.rpy:321
 translate spanish e08s02_918fea83:
@@ -748,7 +748,7 @@ translate spanish e08s02_scat_567e1fd6:
 translate spanish e08s02_scat_fa13fe9a:
 
     # arj "Fetish Locator did really opened me up a lot. Even if I have a more than complicated relationship to it."
-    arj "Fetish Locator realmente me abrió mucho. Aunque tengo una relación más que complicada con ella."
+    arj "El localizador de fetiches me enseñó mucho. Aunque tenga una relación más que complicada con él."
 
 # game/code/e08/e08s02.rpy:370
 translate spanish e08s02_scat_8662cfc8:
@@ -1948,13 +1948,13 @@ translate spanish e08s02_sex_fdd62874:
 translate spanish e08s02_sex_8c7c7310:
 
     # mc "Be sure to get it all."
-    mc "Asegúrate de conseguirlo todo."
+    mc "Asegúrate de tomarlo todo."
 
 # game/code/e08/e08s02.rpy:806
 translate spanish e08s02_sex_5050f1ce:
 
     # arj "Get it all?"
-    arj "¿Conseguir todo?"
+    arj "¿Tomarlo todo?"
 
 # game/code/e08/e08s02.rpy:808
 translate spanish e08s02_sex_3a1028db:
@@ -1984,7 +1984,7 @@ translate spanish e08s02_sex_0db8594d:
 translate spanish e08s02_sex_2c2830c5:
 
     # mc "Oh, just like that. Fuck, that feels so good."
-    mc "Oh, solo así. Joder, eso se siente tan bien."
+    mc "Oh, justo así. Joder, qué bien sienta."
 
 # game/code/e08/e08s02.rpy:841
 translate spanish e08s02_sex_a50b0fa9:
@@ -2128,13 +2128,13 @@ translate spanish e08s02_sex_3ecd84d0:
 translate spanish e08s02_sex_73c8e55d:
 
     # arj "Keep fucking my ass just like that."
-    arj "Sigue follándome el culo así."
+    arj "Sigue follándome el culo de esa manera."
 
 # game/code/e08/e08s02.rpy:948
 translate spanish e08s02_sex_c883115d:
 
     # mc "If I knew how much of a slut you were, taking it up your ass, then I would have fucked you when we first met."
-    mc "Si hubiera sabido lo puta que eras, tomándotelo por el culo, te habría follado cuando nos conocimos."
+    mc "Si hubiera sabido lo zorra que eras, metiéndotela por el culo, te habría follado cuando nos conocimos."
 
 # game/code/e08/e08s02.rpy:951
 translate spanish e08s02_sex_6638fa33:
@@ -2254,7 +2254,7 @@ translate spanish e08s02_sex_4a27c320:
 translate spanish e08s02_sex_1182a05d:
 
     # arj "You make me feel so fulfilled."
-    arj "Me haces sentir tan realizada."
+    arj "Me haces sentir tan llena."
 
 # game/code/e08/e08s02.rpy:1077
 translate spanish e08s02_sex_866e7451:
@@ -2356,7 +2356,7 @@ translate spanish strings:
 
     # game/code/e08/e08s02.rpy:58
     old "Afternoon"
-    new "Tarde"
+    new "Por la tarde"
 
     # game/code/e08/e08s02.rpy:271
     old "Tell me about your fetishes"
