@@ -322,7 +322,7 @@ translate turkish d21s05_party_ed0bce6a:
 translate turkish d21s05_party_4404b5a9:
 
     # mk "Don't worry, I'm 90%% certain who it is."
-    mk "Endişelenme, kim olduğundan %90 eminim."
+    mk "Endişelenme, kim olduğundan %%90 eminim."
 
 # game/code/d21/d21s05.rpy:274
 translate turkish d21s05_party_0b03baf9:
@@ -1211,4 +1211,3 @@ translate turkish strings:
     # game/code/d21/d21s05.rpy:614
     old "Just facefuck Aaleyah instead"
     new "Onun yerine Aaleyah'ı sik"
-

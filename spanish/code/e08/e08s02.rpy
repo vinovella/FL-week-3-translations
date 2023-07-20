@@ -628,7 +628,7 @@ translate spanish e08s02_978e76ae:
 translate spanish e08s02_df663315:
 
     # arj "Wow. You're right. We really did."
-    arj Vaya. Tienes razón. Realmente lo hicimos."
+    arj "Vaya. Tienes razón. Realmente lo hicimos."
 
 # game/code/e08/e08s02.rpy:319
 translate spanish e08s02_9d88f87d:

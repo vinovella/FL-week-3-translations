@@ -1402,7 +1402,7 @@ translate spanish e08s04_bathtub_1eba8318:
 translate spanish e08s04_bathtub_3160286e:
 
     # mc "It's like our honeymoon again."
-    mc Es como si fuera nuestra luna de miel otra vez."
+    mc "Es como si fuera nuestra luna de miel otra vez."
 
 # game/code/e08/e08s04.rpy:685
 translate spanish e08s04_bathtub_d90dd1cd:
