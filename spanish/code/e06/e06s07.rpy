@@ -10,7 +10,7 @@ translate spanish e06s07_177d3eb2:
 translate spanish e06s07_af4b738d:
 
     # sy "Just the final touches. I've got to make sure you're perfectly dressed or else."
-    sy "Solo los toques finales. Tengo que asegurarme de que estés perfectamente vestido o de lo contrario."
+    sy "Sólo los toques finales. Tengo que asegurarme de que estás perfectamente vestido o de lo contrario."
 
 # game/code/e06/e06s07.rpy:21
 translate spanish e06s07_237168ae:
@@ -22,7 +22,7 @@ translate spanish e06s07_237168ae:
 translate spanish e06s07_e3170025:
 
     # sy "I haven't seen her yet. It's Min."
-    sy "Aún no la he visto. es Min."
+    sy "Aún no la he visto. Es Min."
 
 # game/code/e06/e06s07.rpy:27
 translate spanish e06s07_27e7145c:
@@ -64,13 +64,13 @@ translate spanish e06s07_cdff4269:
 translate spanish e06s07_4642bf3d:
 
     # mc "Don't get me wrong - Lydia and I have been nervous as hell for weeks and scrambling to make today perfect."
-    mc "No me malinterpretes. Lydia y yo llevamos semanas muy nerviosos y luchando para que el día de hoy fuera perfecto."
+    mc "No me malinterpretes. Lydia y yo llevamos semanas muy nerviosos y luchando para que el día de hoy sea perfecto."
 
 # game/code/e06/e06s07.rpy:42
 translate spanish e06s07_428a1cf2:
 
     # mc "Today we're just going to enjoy ourselves and leave all the stress to you and Min."
-    mc "Hoy solo vamos a divertirnos y dejaremos todo el estrés a ti y a Min."
+    mc "Hoy sólo vamos a disfrutar y dejar todo el estrés a ti y a Min."
 
 # game/code/e06/e06s07.rpy:44
 translate spanish e06s07_9898e4e6:
@@ -82,7 +82,7 @@ translate spanish e06s07_9898e4e6:
 translate spanish e06s07_79493dae:
 
     # mc "I told you that when you volunteered to be my best \"man\"."
-    mc "Te lo dije cuando te ofreciste como voluntaria para ser mi mejor \"hombre\"."
+    mc "Te lo dije cuando te ofreciste a ser mi \"padrino\"."
 
 # game/code/e06/e06s07.rpy:48
 translate spanish e06s07_9b00a4cc:
@@ -166,7 +166,7 @@ translate spanish e06s07_1393413a:
 translate spanish e06s07_0f8c73fc:
 
     # mc "Yeah, I haven't seen her since the trial. Que sera, sera."
-    mc "Sí, no la he visto desde el juicio. Que sera, sera."
+    mc "Sí, no la he visto desde el juicio."
 
 # game/code/e06/e06s07.rpy:77
 translate spanish e06s07_dcc18ce5:
@@ -292,7 +292,7 @@ translate spanish e06s07_704c78aa:
 translate spanish e06s07_aa60a280:
 
     # lc "As Queen of your Harem, I join a proud sisterhood."
-    lc "Como Reina de tu Harem, me uno a una orgullosa hermandad."
+    lc "Como Reina de tu Harén, me uno a una orgullosa hermandad."
 
 # game/code/e06/e06s07.rpy:151
 translate spanish e06s07_582158bf:
@@ -304,7 +304,7 @@ translate spanish e06s07_582158bf:
 translate spanish e06s07_55a83bed:
 
     # lc "I will ensure no strife between us comes to your attention."
-    lc "Me aseguraré de que ningún conflicto entre nosotros llame su atención."
+    lc "Me aseguraré de que ningún conflicto entre nosotras llame tú atención."
 
 # game/code/e06/e06s07.rpy:155
 translate spanish e06s07_901a610c:
@@ -316,19 +316,19 @@ translate spanish e06s07_901a610c:
 translate spanish e06s07_f5634d16:
 
     # lc "Should I or one of my sisters fail you, I shall present my body for your just punishment."
-    lc "Si yo o una de mis hermanas te fallamos, presentaré mi cuerpo para tu justo castigo."
+    lc "Si yo o una de mis hermanas te fallamos, presentaré mi cuerpo para someterme a tu justo castigo."
 
 # game/code/e06/e06s07.rpy:159
 translate spanish e06s07_9d93a936:
 
     # lc "This I pledge, until death do us part."
-    lc "Esto lo prometo, hasta que la muerte nos separe."
+    lc "Lo prometo, hasta que la muerte nos separe."
 
 # game/code/e06/e06s07.rpy:162
 translate spanish e06s07_6eec208d:
 
     # mh "Wow. I mean-"
-    mh "Guau. Quiero decir-"
+    mh "Vaya. Quiero decir-"
 
 # game/code/e06/e06s07.rpy:165
 translate spanish e06s07_b66a888f:
@@ -352,7 +352,7 @@ translate spanish e06s07_c8594163:
 translate spanish e06s07_afd60972:
 
     # lc "That is to say, I do."
-    lc "Es decir, lo hago."
+    lc "Es decir, es lo que quiero."
 
 # game/code/e06/e06s07.rpy:173
 translate spanish e06s07_f415513f:
@@ -502,7 +502,7 @@ translate spanish e06s07_542e4451:
 translate spanish e06s07_0a69ae3b:
 
     # mc "And to love and care for each member of the Harem so long as they are useful to me."
-    mc "Y amar y cuidar a cada miembro del Harem mientras me sean útiles."
+    mc "Y amar y cuidar a cada miembro del harén mientras me sean útiles."
 
 # game/code/e06/e06s07.rpy:245
 translate spanish e06s07_76298393:
@@ -514,19 +514,19 @@ translate spanish e06s07_76298393:
 translate spanish e06s07_18f85531:
 
     # mh "I agree.{w} At this time I believe our Queen has additional vows on behalf of the Harem."
-    mh "Estoy de acuerdo. {w} En este momento creo que nuestra Reina tiene votos adicionales en nombre del Harem."
+    mh "Estoy de acuerdo. {w} En este momento creo que nuestra Reina tiene votos adicionales en nombre del harén."
 
 # game/code/e06/e06s07.rpy:251
 translate spanish e06s07_608d4b1b:
 
     # mh "I agree.{w} At this time I believe the Queen has additional vows on behalf of the Harem."
-    mh "Estoy de acuerdo. {w} En este momento creo que la Reina tiene votos adicionales en nombre del Harem."
+    mh "Estoy de acuerdo. {w} En este momento creo que la Reina tiene votos adicionales en nombre del harén."
 
 # game/code/e06/e06s07.rpy:254
 translate spanish e06s07_99d11dd3:
 
     # lc "Thank you, Lyssa. Yes, on behalf of the Harem I pledge the following:"
-    lc "Gracias, Lyssa. Sí, en nombre del Harem prometo lo siguiente:"
+    lc "Gracias, Lyssa. Sí, en nombre del harén prometo lo siguiente:"
 
 # game/code/e06/e06s07.rpy:257
 translate spanish e06s07_a514b698:
