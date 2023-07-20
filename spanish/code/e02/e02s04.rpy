@@ -178,7 +178,7 @@ translate spanish e02s04_photo_5ae2f27f:
 translate spanish e02s04_photo_f432e7b9:
 
     # ap "Angela, stop."
-    ap "Ángela, detente."
+    ap "Angela, detente."
 
 # game/code/e02/e02s04.rpy:110
 translate spanish e02s04_photo_8c26cb31:
@@ -214,7 +214,7 @@ translate spanish e02s04_photo_97733348:
 translate spanish e02s04_photo_05f710da:
 
     # ap "Oh, uh-huh. Yes. I didn't imagine you'd recognize me. This is my wife, Angela."
-    ap "Oh, ajá. Sí. No imaginé que me reconocerías. Esta es mi esposa, Ángela."
+    ap "Oh, ajá. Sí. No imaginé que me reconocerías. Esta es mi esposa, Angela."
 
 # game/code/e02/e02s04.rpy:125
 translate spanish e02s04_photo_e7da310f:
@@ -316,7 +316,7 @@ translate spanish e02s04_photo_35fd49b3:
 translate spanish e02s04_photo_aafe8056:
 
     # ap "Angela!"
-    ap "¡Ángela!"
+    ap "¡Angela!"
 
 # game/code/e02/e02s04.rpy:175
 translate spanish e02s04_photo_58513a00:
@@ -352,7 +352,7 @@ translate spanish e02s04_photo_79cc4def:
 translate spanish e02s04_photo_07644846:
 
     # ap "I think Angela just panicked."
-    ap "Creo que Ángela solo entró en pánico."
+    ap "Creo que Angela solo entró en pánico."
 
 # game/code/e02/e02s04.rpy:191
 translate spanish e02s04_photo_0bb4aecf:
@@ -376,7 +376,7 @@ translate spanish e02s04_photo_1b1c21ae:
 translate spanish e02s04_photo_21dcdaaf:
 
     # mc "Sounds a little strange, Angela."
-    mc "Suena un poco extraño, Ángela."
+    mc "Suena un poco extraño, Angela."
 
 # game/code/e02/e02s04.rpy:199
 translate spanish e02s04_photo_c7769a77:
@@ -418,7 +418,7 @@ translate spanish e02s04_photo_15e5860b:
 translate spanish e02s04_photo_67fb70ba:
 
     # atp "I'm Angela, and you know my husband, Alexander."
-    atp "Soy Ángela, y conoces a mi esposo, Alexander."
+    atp "Soy Angela, y conoces a mi esposo, Alexander."
 
 # game/code/e02/e02s04.rpy:220
 translate spanish e02s04_photo_87655d2c:
@@ -454,7 +454,7 @@ translate spanish e02s04_fireplace_e4778d74:
 translate spanish e02s04_fireplace_ea300e24:
 
     # atp "I'm one of the most accomplished executives at Channel Six. Not just in the company, but in the industry..."
-    atp "Soy uno de los ejecutivos más exitosos de Canal Seís. No solo en la empresa, sino en la industria..."
+    atp "Soy una de las ejecutivas con más logros en el Canal Seis. No sólo en la empresa, sino en la industria..."
 
 # game/code/e02/e02s04.rpy:243
 translate spanish e02s04_fireplace_3aa7a0f8:
@@ -562,7 +562,7 @@ translate spanish e02s04_fireplace_012064ef:
 translate spanish e02s04_fireplace_9d16da61:
 
     # ap "Angela. Really?!"
-    ap "Ángela. ¡¿De verdad?!"
+    ap "Angela. ¡¿De verdad?!"
 
 # game/code/e02/e02s04.rpy:292
 translate spanish e02s04_fireplace_6a632e20:
@@ -652,7 +652,7 @@ translate spanish e02s04_fireplace_9b041e14:
 translate spanish e02s04_fireplace_0f42c392:
 
     # mh "Different people like different things, Angela."
-    mh "A diferentes personas les gustan diferentes cosas, Ángela."
+    mh "A diferentes personas les gustan diferentes cosas, Angela."
 
 # game/code/e02/e02s04.rpy:338
 translate spanish e02s04_fireplace_004def0a:
@@ -664,13 +664,13 @@ translate spanish e02s04_fireplace_004def0a:
 translate spanish e02s04_fireplace_1efb1360:
 
     # ap "That doesn't mean I want to be led by your cock every day, Angela."
-    ap "Eso no significa que quiera ser guiado por tu polla todos los días, Ángela."
+    ap "Eso no significa que quiera ser guiado por tu polla todos los días, Angela."
 
 # game/code/e02/e02s04.rpy:342
 translate spanish e02s04_fireplace_10ec4b3f:
 
     # mct "Wow. I got the feeling these two were a bit high-strung, but this is something else."
-    mct "Guau. Tengo la sensación de que estos dos estaban un poco nerviosos, pero esto es otra cosa."
+    mct "Vaya. Tengo la sensación de que estos dos estaban un poco nerviosos, pero esto es otra cosa."
 
 # game/code/e02/e02s04.rpy:345
 translate spanish e02s04_fireplace_5535f776:
@@ -808,7 +808,7 @@ translate spanish e02s04_fireplace_094a5a44:
 translate spanish e02s04_fireplace_2cb9203a:
 
     # mh "Angela, Alexander, do you mind if I offer some suggestions?"
-    mh "Ángela, Alexander, ¿les importa si les ofrezco algunas sugerencias?"
+    mh "Angela, Alexander, ¿les importa si les ofrezco algunas sugerencias?"
 
 # game/code/e02/e02s04.rpy:406
 translate spanish e02s04_fireplace_065f2729:
@@ -898,7 +898,7 @@ translate spanish e02s04_fireplace_fc1832b5:
 translate spanish e02s04_fireplace_5cd03cbe:
 
     # mh "And you, Angela, you are the complete opposite. You are full of energy, you say whatever is on your mind."
-    mh "Y tú, Ángela, eres todo lo contrario. Estás llena de energía, dices lo que tienes en mente."
+    mh "Y tú, Angela, eres todo lo contrario. Estás llena de energía, dices lo que tienes en mente."
 
 # game/code/e02/e02s04.rpy:448
 translate spanish e02s04_fireplace_1d77236e:
@@ -916,7 +916,7 @@ translate spanish e02s04_fireplace_ff4126cb:
 translate spanish e02s04_fireplace_694e9cff:
 
     # mh "And I think that is part of the problem. You two are just so opposite that without good and open communication, I think that things will get worse."
-    mh "Y creo que eso es parte del problema. Ustedes dos son tan opuestos que sin una comunicación buena y abierta, creo que las cosas empeorarán."
+    mh "Y creo que eso es parte del problema. Ustedes dos son tan opuestos que sin una buena y abierta comunicación, las cosas pueden empeorar."
 
 # game/code/e02/e02s04.rpy:455
 translate spanish e02s04_fireplace_88886ab0:
@@ -1084,7 +1084,7 @@ translate spanish e02s04_next_day_d6d5d5a1:
 translate spanish e02s04_next_day_ce8dad45:
 
     # mh "Hey Oliver. This is Lyssa. Call you tomorrow."
-    mh "Hola Oliver. Esta es Lyssa. Te llamo mañana."
+    mh "Hola Oliver. Soy Lyssa. Te llamo mañana."
 
 # game/code/e02/e02s04.rpy:547
 translate spanish e02s04_next_day_5b48782b:
@@ -1120,7 +1120,7 @@ translate spanish e02s04_next_day_c83ce422:
 translate spanish e02s04_next_day_aed80020:
 
     # mh "We both did. Do you think it helped them? Angela and Alexander."
-    mh "Ambos lo hicimos. ¿Crees que les ayudó? Ángela y Alexander."
+    mh "Ambos lo hicimos. ¿Crees que les ayudó? A Angela y Alexander."
 
 # game/code/e02/e02s04.rpy:563
 translate spanish e02s04_next_day_c1b7a06d:
@@ -1138,7 +1138,7 @@ translate spanish e02s04_next_day_58ab3709:
 translate spanish e02s04_next_day_a8f92618:
 
     # mh "Mmm. Maybe it was meant to be..."
-    mh "Mmm. Tal vez estaba destinado a ser..."
+    mh "Mmm. Tal vez estaba destinado a ocurrir..."
 
 # game/code/e02/e02s04.rpy:570
 translate spanish e02s04_next_day_234defd5:
@@ -1252,7 +1252,7 @@ translate spanish e02s04_next_day_2_d35c9ded:
 translate spanish e02s04_next_day_2_30d577e6:
 
     # mh "So, what brings you over this early?"
-    mh "Entonces, ¿qué las trae tan temprano?"
+    mh "Entonces, ¿qué las trae por aquí tan temprano?"
 
 # game/code/e02/e02s04.rpy:657
 translate spanish e02s04_next_day_2_13ac55d8:
