@@ -16,7 +16,7 @@ translate spanish e06s03_86559da7:
 translate spanish e06s03_439ba875:
 
     # mct "Flash forward and she nearly got sent to jail over Fetish Locator."
-    mct "Avance rápido y casi la mandan a la cárcel por culpa del Localizador de Fetiches."
+    mct "De un momento a otro, estuvo a punto de ir a la cárcel por culpa del localizador de fetiches."
 
 # game/code/e06/e06s03.rpy:69
 translate spanish e06s03_fa2e5e2a:
@@ -298,7 +298,7 @@ translate spanish e06s03_35db4599:
 translate spanish e06s03_b36986bf:
 
     # mc "I've been helping out, Lydia."
-    mc "He estado ayudando, Lydia."
+    mc "He estado ayudando, a Lydia."
 
 # game/code/e06/e06s03.rpy:219
 translate spanish e06s03_932d06d3:
@@ -538,7 +538,7 @@ translate spanish e06s03_30f7632f:
 translate spanish e06s03_43ddf04f:
 
     # "*Loud airhorn blast*"
-    "*Fuerte explosión de bocina de aire*"
+    "*Sonido fuerte de bocina*"
 
 # game/code/e06/e06s03.rpy:344
 translate spanish e06s03_aba5d92a:
@@ -556,7 +556,7 @@ translate spanish e06s03_6bfc74d9:
 translate spanish e06s03_f4633499:
 
     # sy "All the mushy stuff was getting super-boring."
-    sy "Todas las cosas blandas se estaban volviendo súper aburridas."
+    sy "Todas las cosas sensibleras se estaban volviendo superaburridas."
 
 # game/code/e06/e06s03.rpy:352
 translate spanish e06s03_ebae7157:
@@ -622,7 +622,7 @@ translate spanish e06s03_service_f382aa08:
 translate spanish e06s03_service_27032a6a:
 
     # arj "I think this would count as just a court, Stacy."
-    arj "Creo que esto contaría solo como un tribunal, Stacy."
+    arj "Creo que esto contaría sólo como un tribunal, Stacy."
 
 # game/code/e06/e06s03.rpy:412
 translate spanish e06s03_service_ad3719a2:
@@ -682,7 +682,7 @@ translate spanish e06s03_service_fff3224f:
 translate spanish e06s03_service_f130fbdf:
 
     # arj "As part of her punishment, I believe that the prisoner should address myself and the other bailiff as 'Mistress.'"
-    arj "Como parte de su castigo, creo que la prisionera debe dirigirse a mí y al otro alguacil como 'Señora'."
+    arj "Como parte de su castigo, creo que la prisionera debe dirigirse a mí y al otro alguacil como 'Ama'."
 
 # game/code/e06/e06s03.rpy:443
 translate spanish e06s03_service_0f9adb32:
@@ -730,7 +730,7 @@ translate spanish e06s03_service_afb30fb7:
 translate spanish e06s03_service_0d42bb71:
 
     # mc "Service your Mistresses with your tongue. Show them how badly you wish to atone."
-    mc "Sirve a tus Amas con tu lengua. Muéstrales lo mucho que deseas expiar."
+    mc "Sirve a tus Amas con tu lengua. Muéstrales lo mucho que deseas disculparte."
 
 # game/code/e06/e06s03.rpy:462
 translate spanish e06s03_service_a5be4a41:
@@ -892,7 +892,7 @@ translate spanish e06s03_bj_c1722485:
 translate spanish e06s03_bj_c4d10a5c:
 
     # mc "I want all three of you to suck me off. It will be a good bonding exercise."
-    mc "Quiero que los tres me la chupen. Será un buen ejercicio de unión."
+    mc "Quiero que las tres me la chupen. Será un buen ejercicio de unión."
 
 # game/code/e06/e06s03.rpy:593
 translate spanish e06s03_bj_29c83186:
@@ -964,7 +964,7 @@ translate spanish e06s03_bj_90c70b1f:
 translate spanish e06s03_bj_57992143:
 
     # arj "Tut-tut. Only the Mistresses and I get to enjoy Master's cock."
-    arj "Tut-tut. Sólo las Amas y yo podemos disfrutar de la polla del Amo."
+    arj "Tut-tut. Sólo las amas son capaces de disfrutar de la polla del Amo."
 
 # game/code/e06/e06s03.rpy:629
 translate spanish e06s03_bj_58ed0dcc:
@@ -994,7 +994,7 @@ translate spanish e06s03_bj_b54ecda9:
 translate spanish e06s03_bj_52999c32:
 
     # sy "Oh fuck, you're burning so much."
-    sy "Oh joder, estás muy caliente."
+    sy "Oh mierda, estás muy caliente."
 
 # game/code/e06/e06s03.rpy:646
 translate spanish e06s03_bj_6d4b2e35:
@@ -1042,7 +1042,7 @@ translate spanish e06s03_sex_bed_e247e175:
 translate spanish e06s03_sex_bed_7f914672:
 
     # arj "Of course, don't worry, my pet. [mcname]'s cock isn't going inside you. It's going inside of me..."
-    arj "Por supuesto, no te preocupes, mi mascota. La polla de [mcname] no va a entrar en ti. va dentro de mi..."
+    arj "Por supuesto, no te preocupes, mascota. La polla de [mcname] no va a entrar en ti. va dentro de mi..."
 
 # game/code/e06/e06s03.rpy:675
 translate spanish e06s03_sex_bed_fea4fd6c:
@@ -1156,7 +1156,7 @@ translate spanish e06s03_sex_bed_119e25c6:
 translate spanish e06s03_sex_bed_3dc87386:
 
     # lc "Yes Master..."
-    lc "Sí, Amo.."
+    lc "Sí, Amo..."
 
 # game/code/e06/e06s03.rpy:740
 translate spanish e06s03_sex_bed_5f31b8b6:
@@ -1384,7 +1384,7 @@ translate spanish e06s03_sex_chair_arj_f6932494:
 translate spanish e06s03_sex_chair_arj_24ac184e:
 
     # sy "You better have another round in the cylinder, buster."
-    sy "Será mejor que tengas otra ronda en el cilindro, buster."
+    sy "Será mejor que tengas otra ronda en el cilindro, amigo."
 
 # game/code/e06/e06s03.rpy:892
 translate spanish e06s03_sex_chair_sy_6f7db2dd:
@@ -1582,7 +1582,7 @@ translate spanish e06s03_sex_anal_463d71e7:
 translate spanish e06s03_sex_anal_445309c6:
 
     # arj "Do I need to clean out your ears, my pet?"
-    arj "¿Necesito limpiar tus oídos, mi mascota?"
+    arj "¿Necesito limpiar tus oídos, mascota?"
 
 # game/code/e06/e06s03.rpy:1003
 translate spanish e06s03_sex_anal_432eda97:
@@ -1648,7 +1648,7 @@ translate spanish e06s03_sex_anal_60678244:
 translate spanish e06s03_sex_anal_db7c8483:
 
     # sy "Mmmrraah... Watch closely, prisoner. Maybe one day, you'll get to do this..."
-    sy "Mmmrraah... Vigila de cerca, prisionera. Tal vez algún día puedas hacer esto..."
+    sy "Mmmrraah... Observa atentamente, prisionera. Tal vez un día, podrás hacer esto..."
 
 # game/code/e06/e06s03.rpy:1041
 translate spanish e06s03_sex_anal_14b523cf:
