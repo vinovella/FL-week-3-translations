@@ -70,7 +70,7 @@ translate spanish week_2_recap_2bbee971:
 translate spanish week_2_recap_70ddfca0:
 
     # "When the topic of the next Party at Min's came up, Min and [mcname] were excited. Lydia appeared little less than enthusiastic about going to another Fetish Locator party."
-    "Cuando surgió el tema de la próxima fiesta en casa de Min, Min y [mcname] estaban emocionados. Lydia parecía poco menos que entusiasmada por ir a otra fiesta del Localizador de Fetiche."
+    "Cuando surgió el tema de la próxima fiesta en casa de Min, Min y [mcname] estaban emocionados. Lydia parecía poco menos que entusiasmada por ir a otra fiesta del Localizador de Fetiches."
 
 # game/code/recap/w2_recap.rpy:138
 translate spanish week_2_recap_2cf8172f:
@@ -94,13 +94,13 @@ translate spanish week_2_recap_553d9b12:
 translate spanish week_2_recap_70afab6f:
 
     # "[mcname] faced off against a dark warrior."
-    "[mcname] se enfrentó a un guerrero oscuro."
+    "[mcname] se enfrentó a una guerrera oscura."
 
 # game/code/recap/w2_recap.rpy:147
 translate spanish week_2_recap_2d35cf86:
 
     # "But he didn't let his fear control him. Instead he brought Dark Jessie back to the light with his cunning and finger-work."
-    "Pero no dejó que su miedo lo controlara. En cambio, trajo a Jessie Oscura de vuelta a la luz con su astucia y trabajo con los dedos."
+    "Pero no dejó que su miedo lo controlara. En lugar de eso, trajo a Jessie Oscura de vuelta a la luz con su astucia y su trabajo con los dedos."
 
 # game/code/recap/w2_recap.rpy:149
 translate spanish week_2_recap_be4dbbe8:
@@ -130,7 +130,7 @@ translate spanish week_2_recap_c5cc6dbe:
 translate spanish week_2_recap_25b34f7f:
 
     # "[mcname] enjoyed getting to see Lyssa in action at court."
-    "mcname] disfrutó ver a Lyssa en acción en la corte."
+    "[mcname] disfrutó ver a Lyssa en acción en la corte."
 
 # game/code/recap/w2_recap.rpy:162
 translate spanish week_2_recap_4399dff1:
@@ -190,7 +190,7 @@ translate spanish week_2_recap_8fcbe86a:
 translate spanish week_2_recap_1f448ae4:
 
     # "Lydia surprised him by wishing to know what he'd done with Fetish Locator to get into the first party."
-    "Lydia lo sorprendió deseando saber qué había hecho con Fetish Locator para entrar en la primera fiesta."
+    "Lydia le sorprendió queriendo saber qué había hecho con el Localizador de Fetiches para entrar en la primera fiesta."
 
 # game/code/recap/w2_recap.rpy:192
 translate spanish week_2_recap_4aa8b4ec:
@@ -202,7 +202,7 @@ translate spanish week_2_recap_4aa8b4ec:
 translate spanish week_2_recap_03e131b7:
 
     # "The two ended up falling to sleep on the phone together with [mcname] telling Lydia about his past sexual exploits."
-    "Los dos terminaron quedándose dormidos al teléfono junto con [mcname] contándole a Lydia sobre sus hazañas sexuales pasadas."
+    "Los dos terminaron durmiéndose juntos al teléfono y [mcname] le contó a Lydia sus anteriores hazañas sexuales."
 
 # game/code/recap/w2_recap.rpy:203
 translate spanish week_2_day_9_bdff7704:
@@ -220,7 +220,7 @@ translate spanish week_2_day_9_09a0d01f:
 translate spanish week_2_day_9_f5452fc9:
 
     # "He tried out her unique services, and Samiya certainly seemed to enjoy herself."
-    "Probó sus exclusivos servicios, y Samiya pareció disfrutar."
+    "Probó sus exclusivos servicios, y Samiya parecía disfrutarlo."
 
 # game/code/recap/w2_recap.rpy:210
 translate spanish week_2_day_9_a05093e3:
@@ -274,7 +274,7 @@ translate spanish week_2_day_9_9711346f:
 translate spanish week_2_day_9_af373a6d:
 
     # "This proved to be a bit of a mistake when a Blitz Challenge occurred. Every horny and hopeful to satisfy [mcname], AmRose did not let the opportunity pass her by."
-    "Esto resultó ser un pequeño error cuando ocurrió un Desafío relámpago. Toda cachonda y con la esperanza de satisfacer a [mcname], AmRose no dejó pasar la oportunidad."
+    "Esto resultó ser un pequeño error cuando ocurrió un Desafío relámpago. Toda excitada y con la esperanza de satisfacer a [mcname], AmRose no dejó pasar la oportunidad."
 
 # game/code/recap/w2_recap.rpy:232
 translate spanish week_2_day_9_c2324e96:
@@ -298,7 +298,7 @@ translate spanish week_2_day_9_f9d7e373:
 translate spanish week_2_day_9_8bd77bf9:
 
     # "[mcname] turned the tables and showed Samiya his dominant side."
-    "[mcname] cambió la situación y mostró a Samiya su lado dominante."
+    "[mcname] cambió la situación y le mostró a Samiya su lado dominante."
 
 # game/code/recap/w2_recap.rpy:245
 translate spanish week_2_day_9_a70502a3:
@@ -328,7 +328,7 @@ translate spanish week_2_day_9_74fdc02e:
 translate spanish week_2_day_9_22c3462d:
 
     # "Mc took to Samiya's task with much gusto."
-    "Mc tomó la tarea de Samiya con mucho gusto."
+    "[mcname] tomó la tarea de Samiya con mucho gusto."
 
 # game/code/recap/w2_recap.rpy:259
 translate spanish week_2_day_9_d99a4d73:
@@ -340,7 +340,7 @@ translate spanish week_2_day_9_d99a4d73:
 translate spanish week_2_day_9_1942996f:
 
     # "But the woman was not only fine with it, she told him she was hungry for more."
-    "Pero a la mujer no solo le pareció bien, sino que le dijo que tenía hambre de más."
+    "Pero a la mujer no sólo le pareció bien, sino que le dijo que tenía hambre de más."
 
 # game/code/recap/w2_recap.rpy:263
 translate spanish week_2_day_9_e5bd3092:
@@ -388,19 +388,19 @@ translate spanish week_2_day_9_ba13a970:
 translate spanish week_2_day_9_253f18bb:
 
     # "To our hero's surprise, Lydia was completely fine with him going and actually wanted him to tell her about his experiences at the party."
-    "Para sorpresa de nuestro héroe, Lydia estuvo completamente de acuerdo con que él fuera y en realidad quería que le contara sobre sus experiencias en la fiesta."
+    "Para sorpresa de nuestro héroe, Lydia estaba completamente de acuerdo con que fuera y, de hecho, quería que le contara sus experiencias en la fiesta."
 
 # game/code/recap/w2_recap.rpy:287
 translate spanish week_2_day_10_77a5037f:
 
     # "In the morning, [mcname] played spy again and tried to find out if Pete was involved in Fetish Locator. Unfortunately, he still wasn't able to figure out the correct password."
-    "Por la mañana, [mcname] volvió a jugar al espía y trató de averiguar si Pete estaba involucrado con el Localizador de Fetiche. Desafortunadamente, todavía no pudo averiguar la contraseña correcta."
+    "Por la mañana, [mcname] volvió a jugar al espía y trató de averiguar si Pete estaba involucrado con el Localizador de Fetiches. Desafortunadamente, todavía no podía averiguar la contraseña correcta."
 
 # game/code/recap/w2_recap.rpy:289
 translate spanish week_2_day_10_e5ff36f7:
 
     # "Things perked up when he got to tell Stacy he found her an apartment. The two made plans to visit the place that afternoon."
-    "Las cosas se animaron cuando le dijo a Stacy que le había encontrado un departamento. Los dos hicieron planes para visitar el lugar esa tarde.."
+    "Las cosas se animaron cuando le dijo a Stacy que le había encontrado un departamento. Los dos hicieron planes para visitar el lugar esa tarde."
 
 # game/code/recap/w2_recap.rpy:292
 translate spanish week_2_day_10_f20c8f3c:
@@ -472,7 +472,7 @@ translate spanish week_2_day_10_034af896:
 translate spanish week_2_day_10_5d9dfef2:
 
     # "[mcname]'s sister jumped right into his arms. Stacy was overjoyed that her brother had managed to track down her missing belongings."
-    "La hermana de [mcname] saltó directamente a sus brazos. Stacy estaba encantada de que su hermano hubiera logrado localizar sus pertenencias perdidas."
+    "La hermana de [mcname] saltó directamente a sus brazos. Stacy estaba encantada de que su hermano hubiera logrado recuperar sus pertenencias perdidas."
 
 # game/code/recap/w2_recap.rpy:318
 translate spanish week_2_day_10_846a1231:
@@ -484,13 +484,13 @@ translate spanish week_2_day_10_846a1231:
 translate spanish week_2_day_10_71a427b1:
 
     # "But this excitement was nothing compared to what she displayed when she saw the scope of her new digs."
-    "Pero esta emoción no fue nada en comparación con lo que mostró cuando vio el alcance de sus nuevas excavaciones."
+    "Pero esta emoción no fue nada comparada con la emoción que sintió al ver el tamaño de su nueva vivienda."
 
 # game/code/recap/w2_recap.rpy:323
 translate spanish week_2_day_10_e4501dea:
 
     # "While Stacy and Vanessa handled the paperwork for the apartment, Lyssa decided to give [mcname] a 'tour' of the bathroom."
-    "Mientras Stacy y Vanessa manejaban el papeleo del apartamento, Lyssa decidió darle a [mcname] un \"recorrido\" por el baño."
+    "Mientras Stacy y Vanessa manejaban el papeleo del departamento, Lyssa decidió darle a [mcname] un \"recorrido\" por el baño."
 
 # game/code/recap/w2_recap.rpy:325
 translate spanish week_2_day_10_4124a9b1:
@@ -514,7 +514,7 @@ translate spanish week_2_day_10_58ba0511:
 translate spanish week_2_day_10_b04b9a3c:
 
     # "It turned out that the girls wanted to get him a special outfit for the next Fetish Locator party."
-    "Resultó que las chicas querían comprarle un atuendo especial para la próxima fiesta del Localizador de Fetiche"
+    "Resultó que las chicas querían comprarle un atuendo especial para la próxima fiesta del Localizador de Fetiches."
 
 # game/code/recap/w2_recap.rpy:333
 translate spanish week_2_day_10_0b26cf61:
@@ -526,7 +526,7 @@ translate spanish week_2_day_10_0b26cf61:
 translate spanish week_2_day_10_4b4b8d05:
 
     # "The other girl with her seemed annoyed by Hana's overprotectiveness, arguing she could handle herself."
-    "La otra chica que estaba con ella parecía molesta por la sobreprotección de Hana, argumentando que podía manejarse sola."
+    "La otra chica que estaba con ella parecía molesta por la sobreprotección de Hana, argumentando que podía cuidarse sola."
 
 # game/code/recap/w2_recap.rpy:338
 translate spanish week_2_day_10_d5d67396:
@@ -556,7 +556,7 @@ translate spanish week_2_day_10_p1_87021cf2:
 translate spanish week_2_day_10_p1_f6fb6b83:
 
     # "There would be no blue-balling for [mcname] tonight. He and Allison even kicked things off, and the spicy girl showed him just how easy it was to make her cum."
-    "No habría bola azul para [mcname] esta noche. Allison y él empezaron, y la chica picante le mostró lo fácil que era hacer que se corriera."
+    "No habría bola azul para [mcname] esta noche. Allison y él empezaron, y la chica sexy le mostró lo fácil que era hacer que se corriera."
 
 # game/code/recap/w2_recap.rpy:358
 translate spanish week_2_day_10_p1_bc5f26f2:
@@ -586,7 +586,7 @@ translate spanish week_2_day_10_p1_62438b84:
 translate spanish week_2_day_10_p1_0d8bce47:
 
     # "Naturally, after being told a hundred times she couldn't be there, Stacy crashed the Fetish Locator Party!"
-    "Naturalmente, después de que le dijeran cien veces que no podía estar allí, ¡Stacy se coló en la Fiesta del Localizador de Fetiches."
+    "Naturalmente, después de que le dijeran cien veces que no podía estar allí, ¡Stacy se presentó en la Fiesta del Localizador de Fetiches."
 
 # game/code/recap/w2_recap.rpy:371
 translate spanish week_2_day_10_p1_0f8bf560:
@@ -610,7 +610,7 @@ translate spanish week_2_day_10_p1_6bcbba00:
 translate spanish week_2_day_10_p1_404ed18a:
 
     # "Right before he could pocket one of the Fetish Trackers, Cynthia caught him red-handed."
-    "Justo antes de que pudiera embolsarse uno de los Fetish Trackers, Cynthia lo atrapó con las manos en la masa."
+    "Justo antes de que pudiera embolsarse uno de los Rastreadores de Fetiches, Cynthia lo atrapó con las manos en la masa."
 
 # game/code/recap/w2_recap.rpy:380
 translate spanish week_2_day_10_p1_066206f6:
@@ -640,7 +640,7 @@ translate spanish week_2_day_10_p1_7c298f90:
 translate spanish week_2_day_10_p2_5f73059a:
 
     # "Fortunately, his quest to find Stacy a bracelet was a rousing success. Now he could enjoy himself at the party."
-    "Afortunadamente, su búsqueda para encontrar un brazalete para Stacy fue un éxito rotundo. Ahora podía divertirse en la fiesta.."
+    "Afortunadamente, su búsqueda para encontrar un brazalete para Stacy fue un éxito rotundo. Ahora podía divertirse en la fiesta."
 
 # game/code/recap/w2_recap.rpy:402
 translate spanish week_2_day_10_p2_a1bbdbb4:
@@ -658,7 +658,7 @@ translate spanish week_2_day_10_p2_089b626a:
 translate spanish week_2_day_10_p2_109cd462:
 
     # "She was a very happy pony that night."
-    "Ella era una pony muy feliz esa noche."
+    "Esa noche, ella fue una poni muy feliz."
 
 # game/code/recap/w2_recap.rpy:409
 translate spanish week_2_day_10_p2_cc905928:
@@ -676,7 +676,7 @@ translate spanish week_2_day_10_p2_ee0d0f68:
 translate spanish week_2_day_10_p2_d3e10c03:
 
     # "[mcname] was overjoyed when his Mistress finally allowed him to empty his balls."
-    "[mcname] se llenó de alegría cuando su Ama finalmente le permitió vaciar sus bolas"
+    "[mcname] se llenó de alegría cuando su Ama finalmente le permitió vaciar sus bolas."
 
 # game/code/recap/w2_recap.rpy:418
 translate spanish week_2_day_10_p2_b305b380:
@@ -760,7 +760,7 @@ translate spanish week_2_day_10_p2_652df19e:
 translate spanish week_2_day_10_p2_722b85c6:
 
     # "[mcname] decided to watch as Iona quickly showed off her more than capable skills with dealing with asshats."
-    "[mcname] decidió ver cómo Iona mostraba rápidamente sus habilidades más que capaces para tratar con imbéciles."
+    "[mcname] decidió observar cómo Iona demostraba rápidamente sus más que capaces habilidades para tratar con imbéciles."
 
 # game/code/recap/w2_recap.rpy:451
 translate spanish week_2_day_10_p2_11188755:
@@ -784,7 +784,7 @@ translate spanish week_2_day_10_p2_11efc4e3:
 translate spanish week_2_day_10_p2_259850d5:
 
     # "Terrell came to talk to [mcname] while AmRose sucked him off. He talked about some of the adventures he'd been having with Maria."
-    "Terrell vino a hablar con [mcname] mientras AmRose se lo chupaba. Habló de algunas de las aventuras que había tenido con María."
+    "Terrell vino a hablar con [mcname] mientras AmRose se la chupaba. Habló de algunas de las aventuras que había tenido con María."
 
 # game/code/recap/w2_recap.rpy:461
 translate spanish week_2_day_10_p2_ef613e4b:
@@ -862,13 +862,13 @@ translate spanish week_2_day_10_p2_48b6858d:
 translate spanish week_2_day_11_0ec1cf20:
 
     # "After participating in the party's Main Event, our hero thought perhaps his adventures with Fetish Locator would wind down."
-    "Después de participar en el evento principal de la fiesta, nuestro héroe pensó que tal vez sus aventuras con el Localizador de Fetiche terminarían."
+    "Después de participar en el evento principal de la fiesta, nuestro héroe pensó que tal vez sus aventuras con el Localizador de Fetiches terminarían."
 
 # game/code/recap/w2_recap.rpy:500
 translate spanish week_2_day_11_77ee0224:
 
     # "He was dead wrong. The app tasked him with having sex with TWENTY DIFFERENT PEOPLE BY THE END OF SUNDAY of he will lose his DICK!"
-    "Estaba totalmente equivocado. La aplicación le encargó la tarea de tener relaciones sexuales con VEINTE PERSONAS DIFERENTES PARA EL FINAL DEL DOMINGO o él ¡perderá su POLLA!"
+    "Estaba totalmente equivocado. ¡La aplicación le encomendó la tarea de tener relaciones sexuales con VEINTE MUJERES DIFERENTES PARA EL FINAL DEL DOMINGO o perderá su POLLA!"
 
 # game/code/recap/w2_recap.rpy:502
 translate spanish week_2_day_11_1c850871:
@@ -898,7 +898,7 @@ translate spanish week_2_day_11_37e68257:
 translate spanish week_2_day_11_a4ce82e9:
 
     # "[mcname] told her that he wanted to learn more about the real Min, and not Squizzle."
-    "[mcname] le dijo que quería saber más sobre la verdadera Min, no sobre Squizzle."
+    "[mcname] le dijo que quería saber más sobre la verdadera Min, y no sobre Squizzle."
 
 # game/code/recap/w2_recap.rpy:514
 translate spanish week_2_day_11_866cac8d:
@@ -946,7 +946,7 @@ translate spanish week_2_day_11_17b9b1d7:
 translate spanish week_2_day_11_dcf2780e:
 
     # "[mcname] needed to know the truth, even if it cost him his friendship with Pete. He ended up placing Pete into the Retention Program."
-    "[mcname] necesitaba saber la verdad, aunque le costara su amistad con Pete. Terminó colocando a Pete en el Programa de Retención.."
+    "[mcname] necesitaba saber la verdad, aunque le costara su amistad con Pete. Terminó colocando a Pete en el Programa de Retención."
 
 # game/code/recap/w2_recap.rpy:532
 translate spanish week_2_day_11_0c227faa:
@@ -1018,7 +1018,7 @@ translate spanish week_2_day_12_47706d6e:
 translate spanish week_2_day_12_306ef8e8:
 
     # "Hana and [mcname] communicated via notes during lunch so Fetish Locator couldn't hear their plans."
-    "Hana y [mcname] se comunicaron a través de notas durante el almuerzo para que el Localizador de Fetiche no pudiera escuchar sus planes."
+    "Hana y [mcname] se comunicaron a través de notas durante el almuerzo para que el Localizador de Fetiches no pudiera escuchar sus planes."
 
 # game/code/recap/w2_recap.rpy:578
 translate spanish week_2_day_12_85ea9458:
@@ -1108,7 +1108,7 @@ translate spanish week_2_day_12_1e4b7a19:
 translate spanish week_2_day_12_4a221284:
 
     # "Daisy found out she had the same illness her father had. A rare heart condition called Cardiomyopathy."
-    "Daisy descubrió que tenía la misma enfermedad que tenía su padre. Una afección cardíaca rara llamada miocardiopatía."
+    "Daisy descubrió que tenía la misma enfermedad que tenía su padre. Una afección cardíaca rara llamada Miocardiopatía."
 
 # game/code/recap/w2_recap.rpy:620
 translate spanish week_2_day_12_a8a4075d:
@@ -1126,7 +1126,7 @@ translate spanish week_2_day_12_e688b34f:
 translate spanish week_2_day_12_4578458e:
 
     # "Dahlia summoned [mcname] to her dorm. He drooled when he saw his Mistress."
-    "Dahlia convocó a [mcname] a su dormitorio. Babeó cuando vio a su Ama."
+    "Dahlia llamó a [mcname] a su dormitorio. Él babeó cuando vio a su Ama."
 
 # game/code/recap/w2_recap.rpy:627
 translate spanish week_2_day_12_3de282ef:
@@ -1150,7 +1150,7 @@ translate spanish week_2_day_12_069069cd:
 translate spanish week_2_day_12_0367c46a:
 
     # "Lydia was actually super into {i}it{/i}. She asked [mcname] to retell the story of their date because she wanted to be the girl in the story for once."
-    "A Lydia le gustaba mucho. {i}Le pidió{/i} a [mcname] que volviera a contar la historia de su cita porque quería ser la chica de la historia por una vez."
+    "A Lydia le encantó. Le pidió a [mcname] que le volviera a contar la historia de su cita porque quería ser la protagonista de la historia por una vez."
 
 # game/code/recap/w2_recap.rpy:642
 translate spanish week_2_day_13_d138cbe3:
@@ -1192,7 +1192,7 @@ translate spanish week_2_day_13_b449cf44:
 translate spanish week_2_day_13_e335c785:
 
     # "By pure coincidence, another Blitz Challenge went off and Iona took our hero into the bathroom."
-    "Por pura coincidencia, se disparó otro Desafío relámpago e Iona llevó a nuestro héroe al baño.."
+    "Por pura coincidencia, otro Desafío Relámpago se activó e Iona llevó a nuestro héroe al baño."
 
 # game/code/recap/w2_recap.rpy:661
 translate spanish week_2_day_13_9e15a2be:
@@ -1204,13 +1204,13 @@ translate spanish week_2_day_13_9e15a2be:
 translate spanish week_2_day_13_1abe1224:
 
     # "[mcname] told Nora that if she was pregnant, he would take responsibility, something Nora was very happy to hear."
-    "[mcname] le dijo a Nora que si estaba embarazada, él asumiría la responsabilidad, algo que a Nora le alegró mucho escuchar."
+    "[mcname] le dijo a Nora que si se quedaba embarazada, él asumiría la responsabilidad, algo que a Nora le hizo muy feliz de escuchar."
 
 # game/code/recap/w2_recap.rpy:665
 translate spanish week_2_day_13_e256486d:
 
     # "AmRose told [mcname] and Stacy that she had an idea to keep Fetish Locator from listening in. Stacy said everything was set for the party except a location."
-    "AmRose le dijo a [mcname] y a Stacy que tenía una idea para evitar que el Localizador de Fetiche escuchara. Stacy dijo que todo estaba listo para la fiesta, excepto el lugar."
+    "AmRose le dijo a [mcname] y a Stacy que tenía una idea para evitar que el Localizador de Fetiches escuchara. Stacy dijo que todo estaba listo para la fiesta, excepto el lugar."
 
 # game/code/recap/w2_recap.rpy:667
 translate spanish week_2_day_13_9d6417a1:
@@ -1264,13 +1264,13 @@ translate spanish week_2_day_13_d62685cf:
 translate spanish week_2_day_13_54da954b:
 
     # "[mcname] couldn't resist and ended up eating out his sister's pussy."
-    "[mcname] no pudo resistirse y terminó comiendo el coño de su hermana."
+    "[mcname] no pudo resistirse y acabó comiéndole el coño a su hermana."
 
 # game/code/recap/w2_recap.rpy:690
 translate spanish week_2_day_13_0c070548:
 
     # "[mcname] ended up eating out Stacy's delicious pussy."
-    "[mcname] terminó comiendo el delicioso coño de Stacy."
+    "[mcname] terminó comiéndole el delicioso coño de Stacy."
 
 # game/code/recap/w2_recap.rpy:692
 translate spanish week_2_day_13_011eed0e:
@@ -1288,25 +1288,25 @@ translate spanish week_2_day_13_eb8c52d4:
 translate spanish week_2_day_13_0308fa43:
 
     # "AmRose joined Stacy and [mcname] at the apartment. She brought everything they'd need to the place into a Faraday Cage."
-    "AmRose llegó con todo lo que el grupo necesitaba para convertir el departamento de Stacy en una jaula de Faraday."
+    "AmRose llegó con todo lo que el grupo necesitaba para convertir el departamento de Stacy en una Jaula de Faraday."
 
 # game/code/recap/w2_recap.rpy:700
 translate spanish week_2_day_13_915c3d0e:
 
     # "That night, [mcname] had a nightmare about failing the challenge and getting his dick cut off."
-    "Esa noche, [mcname] tuvo una pesadilla en la que falló el desafío y le cortaron la polla."
+    "Esa noche, [mcname] tuvo una pesadilla en la que fallaba el desafío y le cortaban la polla."
 
 # game/code/recap/w2_recap.rpy:709
 translate spanish week_2_day_14_5720e4b7:
 
     # "Sunday morning, the team got to work. The Faraday Cage they installed would make the place invisible to all of Fetish Locator's spyware."
-    "El domingo por la mañana, el equipo se puso a trabajar. La jaula de Faraday que instalaron y haría que el lugar fuera invisible para todo el software espía del Localizador de Fetiche."
+    "El domingo por la mañana, el equipo se puso manos a la obra. La Jaula de Faraday que instalaron haría el lugar invisible a todos los programas espía del Localizador de Fetiches."
 
 # game/code/recap/w2_recap.rpy:711
 translate spanish week_2_day_14_a8ae3920:
 
     # "The group discussed how to bring Fetish Locator down. [mcname] let the girls know that Hana might be able to help out."
-    "El grupo discutió cómo acabar con el Localizador de Fetiches. [mcname] hizo saber a las chicas que Hana podría ayudar."
+    "El grupo discutió cómo desactivar el Localizador de Fetiches. [mcname] les hizo saber a las chicas que Hana podría ayudar."
 
 # game/code/recap/w2_recap.rpy:714
 translate spanish week_2_day_14_46b0745a:
@@ -1366,7 +1366,7 @@ translate spanish week_2_day_14_686a93e3:
 translate spanish week_2_day_14_12ac2f3d:
 
     # "Cynthia arrived. [mcname] wondered what she might pull during the party."
-    "Cynthia llegó. [mcname] se preguntó qué podría hacer durante la fiesta."
+    "Cynthia llegó. [mcname] se preguntaba qué podría hacer durante la fiesta."
 
 # game/code/recap/w2_recap.rpy:738
 translate spanish week_2_day_14_0976e197:
@@ -1390,7 +1390,7 @@ translate spanish week_2_day_14_acf66894:
 translate spanish week_2_day_14_b952475a:
 
     # "Lydia wanted to try pissing on Min. Unfortunately, in an attempt to help her relax, Min licked her friend's pussy."
-    "Lydia quería intentar mear en Min. Desafortunadamente, en un intento por ayudarla a relajarse, Min lamió el coño de su amiga."
+    "Lydia quería intentar orinar sobre Min. Por desgracia, en un intento de ayudarla a relajarse, Min lamió el coño de su amiga."
 
 # game/code/recap/w2_recap.rpy:748
 translate spanish week_2_day_14_37a9b085:
@@ -1419,7 +1419,7 @@ translate spanish week_2_day_14_a8fe922a:
 # game/code/recap/w2_recap.rpy:767
 translate spanish week_2_day_14_p2_37f9162b:
 
-    # "[mcname] went to town on Allison with some of her special toys.."
+    # "[mcname] went to town on Allison with some of her special toys."
     "[mcname] fue a la ciudad con Allison con algunos de sus juguetes especiales."
 
 # game/code/recap/w2_recap.rpy:769
@@ -1462,13 +1462,13 @@ translate spanish week_2_day_14_p2_8b6cd62d:
 translate spanish week_2_day_14_p2_c188bf5a:
 
     # "During some downtime at the party, the team realized they could track the software updates of Fetish Locator and learn who behind it!"
-    "Durante un tiempo de inactividad en la fiesta, el equipo se dio cuenta de que podían rastrear las actualizaciones de software del Localizador de Fetiche y descubrir quién estaba detrás."
+    "Durante un tiempo de inactividad en la fiesta, el equipo se dio cuenta de que podían rastrear las actualizaciones de software del Localizador de Fetiches y descubrir quién estaba detrás."
 
 # game/code/recap/w2_recap.rpy:787
 translate spanish week_2_day_14_p2_8b3dbb60:
 
     # "The big event of the evening turned out to be a mud fight between [mcname] and Samiya. The girls even wagered on who would succeed."
-    "El gran evento de la noche resultó ser una pelea de lodo entre [mcname] y Samiya. Las chicas incluso apostaron sobre quién tendría éxito."
+    "El gran evento de la noche resultó ser una pelea en el barro entre [mcname] y Samiya. Las chicas incluso apostaron sobre quién tendría éxito."
 
 # game/code/recap/w2_recap.rpy:790
 translate spanish week_2_day_14_p2_c65b82e6:
@@ -1504,7 +1504,7 @@ translate spanish week_2_day_14_p2_69d4e444:
 translate spanish week_2_day_14_p2_3db5db8b:
 
     # "[mcname] found AmRose and Lydia arguing. Lydia claimed AmRose and Stacy kept her from [mcname] the whole party."
-    "[mcname] encontró a AmRose y Lydia discutiendo. Lydia afirmó que AmRose y Stacy la mantuvieron alejada de [mcname] toda la fiesta."
+    "[mcname] encontró a AmRose y Lydia discutiendo. Lydia alegó que AmRose y Stacy la mantuvieron alejada de [mcname] durante toda la fiesta."
 
 # game/code/recap/w2_recap.rpy:804
 translate spanish week_2_day_14_p2_13752957:
@@ -1570,13 +1570,13 @@ translate spanish week_2_day_14_p2_744451b1:
 translate spanish week_2_day_14_p2_06cef684:
 
     # "The two finally got a moment alone, just the two of them. There were no distractions, no one to tell them no."
-    "Por fin tuvieron un momento a solas, solo ellos. No había distracciones, nadie que les dijera que no."
+    "Por fin tuvieron un momento a solas, los dos solo. No había distracciones, nadie que les dijera que no."
 
 # game/code/recap/w2_recap.rpy:837
 translate spanish week_2_day_14_p2_bbf1ed29:
 
     # "[mcname] told Stacy he like the idea of having a bunch of children."
-    "[mcname] le dijo a Stacy que le gustaba la idea de tener un montón de hijos."
+    "[mcname] le dijo a Stacy que le gustaba la idea de tener un montón de niños."
 
 # game/code/recap/w2_recap.rpy:840
 translate spanish week_2_day_14_p2_95f9846e:
