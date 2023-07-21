@@ -22,7 +22,7 @@ translate spanish e02s09_430a4b82:
 translate spanish e02s09_5e4ab319:
 
     # mh "We'll be back again, Baby."
-    mh "Volveremos otra vez, bebé."
+    mh "Volveremos otra vez, cariño."
 
 # game/code/e02/e02s09.rpy:53
 translate spanish e02s09_31caae0f:
@@ -442,7 +442,7 @@ translate spanish e02s09_home_1c887c69:
 translate spanish e02s09_home_40df5e0f:
 
     # mc "A little. They were kind of a handful."
-    mc "Un poco. Eran una especie de puñado."
+    mc "Un poco. Eran algo difíciles."
 
 # game/code/e02/e02s09.rpy:228
 translate spanish e02s09_home_c0ce3aef:
@@ -514,7 +514,7 @@ translate spanish e02s09_home_again_22a9023e:
 translate spanish e02s09_home_again_37cb5c89:
 
     # mct "I hate Silvercorp for putting her through this. It's grinding her down."
-    mct "Odio a Silvercorp por hacerla pasar por esto. La está aplastando."
+    mct "Odio a Silvercorp por hacerla pasar por esto. La está destrozando."
 
 # game/code/e02/e02s09.rpy:267
 translate spanish e02s09_home_again_7ddf10a3:
@@ -682,7 +682,7 @@ translate spanish e02s09_home_again_78b19a05:
 translate spanish e02s09_home_again_de8201b5:
 
     # mc "Forget about it. For tonight, it's all about just you and me."
-    mc "Olvídalo. Por esta noche, se trata solo de ti y de mí."
+    mc "Olvídalo. Por esta noche, se trata sólo de ti y de mí."
 
 # game/code/e02/e02s09.rpy:350
 translate spanish e02s09_home_again_f3b61f78:
@@ -712,7 +712,7 @@ translate spanish e02s09_home_again_3fadf758:
 translate spanish e02s09_home_again_e51ca2c5:
 
     # mct "Even superheroes need to rest in their battle against the villain."
-    mct "Incluso los superhéroes necesitan descansar en su batalla contra el villano."
+    mct "Incluso los superhéroes necesitan descansar en su batalla contra los villanos."
 
 # game/code/e02/e02s09.rpy:364
 translate spanish e02s09_home_again_bc306508:
@@ -778,7 +778,7 @@ translate spanish e02s09_next_morning_d6553cee:
 translate spanish e02s09_next_morning_dbf60437:
 
     # mct "Alright. Time for me to do a bit of work myself."
-    mct "Está bien. Es hora de que haga un poco de trabajo yo mismo."
+    mct "De acuerdo. Es hora de que yo también trabaje un poco."
 
 # game/code/e02/e02s09.rpy:415
 translate spanish e02s09_next_morning_30b44357:
