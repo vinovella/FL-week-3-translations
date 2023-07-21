@@ -28,7 +28,7 @@ translate spanish week_1_recap_4f889512:
 translate spanish week_1_recap_c8b5859b:
 
     # "Then it was off to class, with his best male friend, Kevin Bennet. Keven introduced him to a new app."
-    "Luego se fue a clase, con su mejor amigo, Kevin Bennet. Keven le presentó una nueva aplicación."
+    "Luego fue a clase, con su mejor amigo, Kevin Bennet. Keven le presentó una nueva aplicación."
 
 # game/code/recap/w1_recap.rpy:83
 translate spanish week_1_recap_f91b8e95:
@@ -76,7 +76,7 @@ translate spanish week_1_recap_1df7e0c2:
 translate spanish week_1_recap_364e992e:
 
     # "On Tuesday, Kevin informed [mcname] that it was possible to post ads on Fetish Locator."
-    "El martes, Kevin le informó a [mcname] que era posible publicar anuncios en el Localizador de Fetiche."
+    "El martes, Kevin le informó a [mcname] que era posible publicar anuncios en el Localizador de Fetiches."
 
 # game/code/recap/w1_recap.rpy:108
 translate spanish week_1_recap_4cf3a2dc:
@@ -226,13 +226,13 @@ translate spanish week_1_recap_cc19b596:
 translate spanish week_1_recap_923fc443:
 
     # "A little later that day, he let AmRose know that they were in the same boat of being blackmailed."
-    "Un poco más tarde ese mismo día, hizo saber a AmRose que estaban en el mismo barco siendo chantajeados."
+    "Un poco más tarde ese mismo día, le hizo saber a AmRose que estaban en el mismo barco siendo chantajeados."
 
 # game/code/recap/w1_recap.rpy:169
 translate spanish week_1_recap_f4ae002e:
 
     # "Two weeks prior to the events of the main story..."
-    "Dos semanas antes de los eventos de la historia principal..."
+    "Dos semanas antes de los acontecimientos de la historia principal..."
 
 # game/code/recap/w1_recap.rpy:173
 translate spanish week_1_recap_f20fd82d:
@@ -262,7 +262,7 @@ translate spanish week_1_recap_bca71c80:
 translate spanish week_1_recap_040936fd:
 
     # "On Saturday morning, Stacy moved to be closer to campus, where she will be starting classes in Autumn, and decided to stay at [mcname]'s dorm temporarily."
-    "El sábado por la mañana, Stacy se mudó para estar más cerca del campus, donde empezará a estudiar en otoño, y decidió quedarse temporalmente en la residencia de [mcname]."
+    "El sábado por la mañana, Stacy se mudó para estar más cerca del campus, donde empezará las clases en otoño, y decidió quedarse temporalmente en la residencia de [mcname]."
 
 # game/code/recap/w1_recap.rpy:185
 translate spanish week_1_recap_c5ded322:
@@ -310,13 +310,13 @@ translate spanish week_1_recap_915c01b3:
 translate spanish week_1_recap_945b1609:
 
     # "Surprisingly, while he was swimming he was picked up by Hana - the girl he had spied in Pete's bed almost a week earlier. She revealed that Pete was involved in Fetish Locator."
-    "Sorprendentemente, mientras nadaba, fue recogido por Hana, la chica que había espiado en la cama de Pete casi una semana antes. Ella reveló que Pete estaba involucrado con el Localizador de Fetiche."
+    "Sorprendentemente, mientras nadaba fue recogido por Hana, la chica que había visto en la cama de Pete casi una semana antes. Ella le reveló que Pete estaba involucrado con el Localizador de Fetiches."
 
 # game/code/recap/w1_recap.rpy:206
 translate spanish week_1_recap_9c77fda8:
 
     # "As a form of proof, Hana revealed footage she had from hacking Pete's phone. It was footage showing AmRose and Maria doing the Wednesday Foot Fetish Challenge."
-    "Como prueba, Hana reveló imágenes que tenía del hackeo del teléfono de Pete. Eran imágenes que mostraban a AmRose y Maria haciendo el Reto de Fetiche de Pies de los Miércoles."
+    "Como prueba, Hana reveló imágenes que tenía del hackeo del teléfono de Pete. Eran imágenes que mostraban a AmRose y María haciendo el Reto de Fetiche de Pies de los Miércoles."
 
 # game/code/recap/w1_recap.rpy:208
 translate spanish week_1_recap_a14b065d:
