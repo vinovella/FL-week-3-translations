@@ -670,7 +670,7 @@ translate spanish week_2_day_10_p2_cc905928:
 translate spanish week_2_day_10_p2_ee0d0f68:
 
     # "Strong as he was, our hero simply could not weather the storm of his Mistress' punishment, and he used the safe word to get Dahlia to stop."
-    "Strong as he was, our hero simply could not weather the storm of his Mistress' punishment, and he used the safe word to get Dahlia to stop."
+    "Por muy fuerte que fuera, nuestro héroe simplemente no podía capear el temporal del castigo de su Ama, y utilizó la palabra de seguridad para conseguir que Dahlia se detuviera."
 
 # game/code/recap/w2_recap.rpy:415
 translate spanish week_2_day_10_p2_d3e10c03:
