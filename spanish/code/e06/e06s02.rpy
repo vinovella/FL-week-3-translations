@@ -22,7 +22,7 @@ translate spanish e06s02_993c9720:
 translate spanish e06s02_f4a250c1:
 
     # mct "I don't want to end up in a cell again anytime soon."
-    mct "No quiero volver a terminar en una celda pronto."
+    mct "No terminar acabar pronto en una celda."
 
 # game/code/e06/e06s02.rpy:64
 translate spanish e06s02_40511e6c:
@@ -64,7 +64,7 @@ translate spanish e06s02_cf1acafb:
 translate spanish e06s02_bd477cb8:
 
     # mes "So you can just stop knocking on my door."
-    mes "Así que puedes dejar de llamar a mi puerta."
+    mes "Así que puedes dejar de golpear a mi puerta."
 
 # game/code/e06/e06s02.rpy:112
 translate spanish e06s02_d540dfe2:
@@ -166,7 +166,7 @@ translate spanish e06s02_d7816bd5:
 translate spanish e06s02_aed3a517:
 
     # mc "I think there's a-"
-    mc "Creo que hay un-"
+    mc "Creo que hay una..."
 
 # game/code/e06/e06s02.rpy:160
 translate spanish e06s02_a0faa57d:
@@ -268,7 +268,7 @@ translate spanish e06s02_f42241db:
 translate spanish e06s02_898f3335:
 
     # lc "H-h-how is it so cold? It's the middle of summer-r-r."
-    lc "¿Cómo es que hace tanto frío? Es la mitad del verano-r-r."
+    lc "¿Cómo es que hace tanto frío? Es la mitad del verano."
 
 # game/code/e06/e06s02.rpy:229
 translate spanish e06s02_af03f88c:
@@ -346,7 +346,7 @@ translate spanish e06s02_inside_1dc4fa3a:
 translate spanish e06s02_inside_e40acce8:
 
     # mc "Yes. But I also saw how she invited you in to help you dry off."
-    mc "Sí. Pero también vi cómo te invitó a entrar para ayudarte a secarte."
+    mc "Sí. Pero también vi cómo te invitó a entrar para que pudieras secarte."
 
 # game/code/e06/e06s02.rpy:281
 translate spanish e06s02_inside_2c9b3f1e:
@@ -370,7 +370,7 @@ translate spanish e06s02_inside_12dae7f2:
 translate spanish e06s02_inside_fa58f5c5:
 
     # mes "Clothes first. Then..."
-    mes "La ropa primero. Entonces..."
+    mes "La ropa primero. Y luego..."
 
 # game/code/e06/e06s02.rpy:295
 translate spanish e06s02_inside_27fced0d:
@@ -568,7 +568,7 @@ translate spanish e06s02_inside_af9528f7:
 translate spanish e06s02_inside_06c00b8b:
 
     # mes "And I wasn't planning to see you for a while. Maybe even forever."
-    mes "Y no tenía planeado verte por un tiempo. Tal vez incluso para siempre."
+    mes "Y no tenía planeado verte por un tiempo. Tal vez hasta para siempre."
 
 # game/code/e06/e06s02.rpy:393
 translate spanish e06s02_inside_827bd663:
@@ -748,7 +748,7 @@ translate spanish e06s02_inside_7acf4641:
 translate spanish e06s02_inside_1ccb6013:
 
     # lc "Oh well... I figured no matter what, you couldn't resist helping me after I made a fool of myself."
-    lc "Oh, bueno... Me imaginé que no importaba qué, no pudiste resistirte a ayudarme después de que hice el ridículo."
+    lc "Bueno... Me imaginé que no podías resistirte a ayudarme después de hacer el ridículo."
 
 # game/code/e06/e06s02.rpy:478
 translate spanish e06s02_inside_9f413db3:
@@ -772,7 +772,7 @@ translate spanish e06s02_inside_d4f61567:
 translate spanish e06s02_inside_a58d0e37:
 
     # mes "Do I have to spell it out for you both."
-    mes "¿Tengo que deletrearlo para ambos?"
+    mes "Tengo que deletrearlo para ustedes dos."
 
 # game/code/e06/e06s02.rpy:497
 translate spanish e06s02_inside_14982f2a:
@@ -820,7 +820,7 @@ translate spanish e06s02_inside_e47c4076:
 translate spanish e06s02_inside_97779572:
 
     # mes "I can feel how big you are through your pants."
-    mes "Puedo sentir lo grande que eres a través de tus pantalones."
+    mes "Puedo sentir lo grande que estás a través de tus pantalones."
 
 # game/code/e06/e06s02.rpy:561
 translate spanish e06s02_inside_ef31455a:
@@ -964,7 +964,7 @@ translate spanish e06s02_bj_a7c9e738:
 translate spanish e06s02_bj_16f9e268:
 
     # mes "Your taste... I could just eat you up all day."
-    mes "Tu gusto... Podría comerte todo el día."
+    mes "Tu sabor... Podría comerte todo el día."
 
 # game/code/e06/e06s02.rpy:722
 translate spanish e06s02_bj_1042bf60:
@@ -1060,7 +1060,7 @@ translate spanish e06s02_sex_d29c183d:
 translate spanish e06s02_sex_fd9a6df5:
 
     # mes "We certainly have good taste in men, don't we?"
-    mes "Ciertamente tenemos buen gusto en los hombres, ¿no es así?"
+    mes "Ciertamente tenemos buen gusto para los hombres, ¿no es así?"
 
 # game/code/e06/e06s02.rpy:814
 translate spanish e06s02_sex_255368e0:
@@ -1108,7 +1108,7 @@ translate spanish e06s02_sex_bd7c4f82:
 translate spanish e06s02_sex_58283b86:
 
     # mes "Even when you've fucked me senseless, just keep using me."
-    mes "Incluso cuando me hayas follado sin sentido, sólo sigue usándome."
+    mes "Incluso cuando me hayas dejado sin sentido, sólo sigue usándome."
 
 # game/code/e06/e06s02.rpy:843
 translate spanish e06s02_sex_945eb934:
@@ -1156,7 +1156,7 @@ translate spanish e06s02_sex_9ff35125:
 translate spanish e06s02_sex_44279e60:
 
     # mc "Like that? Like tasting your pussy off my mouth you dirty girl."
-    mc "¿Así? Como saborear tu coño en mi boca, chica sucia."
+    mc "¿Así? Te gusta saborear tu coño en mi boca, niña sucia."
 
 # game/code/e06/e06s02.rpy:873
 translate spanish e06s02_sex_b16329a8:
@@ -1498,7 +1498,7 @@ translate spanish e06s02_sex_4d1ce34d:
 translate spanish e06s02_sex_ab066432:
 
     # mes "Fetish Locator cast a wide net."
-    mes "Localizador de Fetiches lanzó una amplia red."
+    mes "El localizador de fetiches lanzó una red muy amplia."
 
 # game/code/e06/e06s02.rpy:1138
 translate spanish e06s02_sex_d8c51d34:
@@ -1528,7 +1528,7 @@ translate spanish e06s02_sex_b13a261f:
 translate spanish e06s02_sex_6e3fb5a0:
 
     # mes "Of course I am."
-    mes "Claro que lo tengo."
+    mes "Claro que la tengo."
 
 # game/code/e06/e06s02.rpy:1151
 translate spanish e06s02_sex_cfdfa501:
@@ -1552,7 +1552,7 @@ translate spanish e06s02_sex_bd6c66f2:
 translate spanish e06s02_sex_86368cbc:
 
     # mes "You sure about that?"
-    mes "¿Estas segura de eso?"
+    mes "¿Estás segura de eso?"
 
 # game/code/e06/e06s02.rpy:1166
 translate spanish e06s02_sex_caca1607:
@@ -1564,7 +1564,7 @@ translate spanish e06s02_sex_caca1607:
 translate spanish e06s02_sex_fe320a36:
 
     # mc "And you'd never have to go so long without getting a taste of your favorite treat."
-    mc "Y nunca tendrás que pasar tanto tiempo sin probar tu delicia favorita."
+    mc "Y nunca tendrás que pasar tanto tiempo sin probar tu golosina favorita."
 
 # game/code/e06/e06s02.rpy:1173
 translate spanish e06s02_sex_e405fecc:
