@@ -334,7 +334,7 @@ translate turkish e08s06_home_alone_9160c957:
 translate turkish e08s06_home_alone_b5fb5ed4:
 
     # arj "If that photo of me saw the light of day, it would have blown apart any chance of a life like this one."
-    arj ""O fotoğrafım gün ışığını görseydi, bunun gibi bir hayat şansımı yok ederdi."
+    arj "O fotoğrafım gün ışığını görseydi, bunun gibi bir hayat şansımı yok ederdi."
 
 # game/code/e08/e08s06.rpy:292
 translate turkish e08s06_home_alone_642679b8:

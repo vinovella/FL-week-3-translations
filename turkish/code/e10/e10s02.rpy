@@ -424,7 +424,7 @@ translate turkish e10s02_a0b6e32f_1:
 translate turkish e10s02_847e583c:
 
     # mc "What the hell, Min?! You're the strongest person that I know. You'd cut a birthday cake with a battle axe."
-    mc Ne oluyor Min?! Tanıdığım en güçlü insansın. Savaş baltasıyla doğum günü pastası keserdin."
+    mc "Ne oluyor Min?! Tanıdığım en güçlü insansın. Savaş baltasıyla doğum günü pastası keserdin."
 
 # game/code/e10/e10s02.rpy:248
 translate turkish e10s02_2febb978:
