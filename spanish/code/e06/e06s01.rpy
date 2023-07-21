@@ -112,7 +112,7 @@ translate spanish e06s01_ae072ba4:
 translate spanish e06s01_3ebd63f1:
 
     # mc "Wow. You look amazing."
-    mc "Guau. Te ves increíble."
+    mc "Vaya. Te ves increíble."
 
 # game/code/e06/e06s01.rpy:157
 translate spanish e06s01_d3ad0144:
