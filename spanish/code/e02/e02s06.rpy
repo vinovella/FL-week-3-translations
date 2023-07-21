@@ -1282,7 +1282,7 @@ translate spanish e02s06_sex_end_7b46d02a:
 translate spanish e02s06_sex_end_453947db:
 
     # mh "Cheers to the Snowy Peaks Resort!"
-    mh "¡Brindemos por el ¡Complejo Picos Nevados!."
+    mh "¡Brindemos por el Complejo Picos Nevados!."
 
 # game/code/e02/e02s06.rpy:866
 translate spanish e02s06_sex_end_98f299e8:
