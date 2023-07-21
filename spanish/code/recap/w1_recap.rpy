@@ -70,7 +70,7 @@ translate spanish week_1_recap_e80640e1:
 translate spanish week_1_recap_1df7e0c2:
 
     # "[mcname] participated in a blitz challenge all alone in his dorm room."
-    "[mcname] participó en un desafío relámpago solo en su dormitorio."
+    "[mcname] participó en un desafío relámpago completamente solo en su dormitorio."
 
 # game/code/recap/w1_recap.rpy:106
 translate spanish week_1_recap_364e992e:
@@ -256,7 +256,7 @@ translate spanish week_1_recap_c14f2b56:
 translate spanish week_1_recap_bca71c80:
 
     # "Likewise, she kept a close eye on him."
-    "Del mismo modo, ella no le quitaba ojo de encima."
+    "Del mismo modo, ella no le quitaba los ojos de encima."
 
 # game/code/recap/w1_recap.rpy:183
 translate spanish week_1_recap_040936fd:
@@ -340,7 +340,7 @@ translate spanish week_1_recap_ebbcf21a:
 translate spanish week_1_recap_627a63cb:
 
     # "Over the past week [mcname] and Min, one of his classamtes, have drastically changed their 'friendship'"
-    "En la última semana [mcname] y Min, una de sus compañeras de clase, han cambiado drásticamente su "amistad""
+    "En la última semana [mcname] y Min, una de sus compañeras de clase, han cambiado drásticamente su 'amistad'"
 
 # game/code/recap/w1_recap.rpy:219
 translate spanish week_1_recap_d2433b07:
@@ -364,13 +364,13 @@ translate spanish week_1_recap_72996592:
 translate spanish week_1_recap_a9648965:
 
     # "In addition to being a lawyer, she also owns a few properties around the city. Arrangements have been made for Stacy to rent one of her apartments."
-    "Además de ser abogada, también posee algunas propiedades por la ciudad. Se han hecho arreglos para que Stacy arriende uno de sus apartamentos."
+    "Además de ser abogada, también posee algunas propiedades por la ciudad. Se han hecho arreglos para que Stacy arriende uno de sus departamentos."
 
 # game/code/recap/w1_recap.rpy:228
 translate spanish week_1_recap_8bd42629:
 
     # "On the beach, Sunday, Lyssa and [mcname] shared an unforgettable experience together."
-    "En la playa, el domingo, Lyssa y [mcname] compartieron una experiencia inolvidable juntas."
+    "En la playa, el domingo, Lyssa y [mcname] compartieron una experiencia inolvidable juntos."
 
 # game/code/recap/w1_recap.rpy:231
 translate spanish week_1_recap_e39abc29:
