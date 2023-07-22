@@ -40,7 +40,7 @@ translate spanish d16s02_dd5352a9:
 translate spanish d16s02_d902729e:
 
     # mc "Yeeep. She seems...concerned."
-    mc "Siiii. Ella parece... preocupada."
+    mc "Sí. Ella parece... preocupada."
 
 # game/code/d16/d16s02.rpy:50
 translate spanish d16s02_1e68b190:
@@ -94,7 +94,7 @@ translate spanish d16s02_c60994e6:
 translate spanish d16s02_4f3aca5a:
 
     # fl "Ensnare and enrapture. Some are far better at it than others."
-    fl "Atrapar y embelesar. Algunos lo hacen mucho mejor que otros."
+    fl "Seducir y embelesar. Algunos lo hacen mucho mejor que otros."
 
 # game/code/d16/d16s02.rpy:83
 translate spanish d16s02_c543ffcb:
@@ -106,7 +106,7 @@ translate spanish d16s02_c543ffcb:
 translate spanish d16s02_71e9aca5:
 
     # fl "How will {i}you{/i} fare?"
-    fl "¿Cómo te irá {i}a{/i} ti?"
+    fl "¿Cómo te irá a {i}ti{/i} ?"
 
 # game/code/d16/d16s02.rpy:88
 translate spanish d16s02_89c0a9cc:
@@ -136,7 +136,7 @@ translate spanish d16s02_5b4a4095:
 translate spanish d16s02_8ba09f1f:
 
     # arj "Y'know, you, me, on this..."
-    arj "a sabes, tú, yo, en esto..."
+    arj "Tú sabes, tú, yo, en esto..."
 
 # game/code/d16/d16s02.rpy:99
 translate spanish d16s02_8a1c74f8:
@@ -166,13 +166,13 @@ translate spanish d16s02_afd74152:
 translate spanish d16s02_7471c53c:
 
     # arj "Woah—!"
-    arj "¡Guau—!"
+    arj "¡Vaya—!"
 
 # game/code/d16/d16s02.rpy:156
 translate spanish d16s02_470d82b2:
 
     # mc "Already wet? Well someone's an eager beaver."
-    mc "¿Ya estás mojada? Bueno, alguien es un castor impaciente."
+    mc "¿Ya estás mojada? Bueno, alguien está ansiosa."
 
 # game/code/d16/d16s02.rpy:167
 translate spanish d16s02_4b405c2c:
@@ -226,7 +226,7 @@ translate spanish d16s02_79ca2e5c:
 translate spanish d16s02_82efb953:
 
     # mc "Just \"nice?\"?"
-    mc "¿Simplemente \"agradable\"?"
+    mc "¿Simplemente \"bien\"?"
 
 # game/code/d16/d16s02.rpy:284
 translate spanish d16s02_9e2b51cb:
@@ -250,7 +250,7 @@ translate spanish d16s02_0aea437c:
 translate spanish d16s02_a9bdce06:
 
     # arj "Oh, right. Uhm, okay. We don't have to do it here then."
-    arj "Correcto. Uhm, está bien. No tenemos que hacerlo aquí entonces."
+    arj "Oh, claro. Uhm, está bien. No tenemos que hacerlo aquí entonces."
 
 translate spanish strings:
 
