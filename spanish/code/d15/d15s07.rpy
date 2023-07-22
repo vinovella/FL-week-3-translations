@@ -160,7 +160,7 @@ translate spanish d15s07_d2e9ac07:
 translate spanish d15s07_a7ac26ef:
 
     # mes "Lydia already had a couple glasses of water, so it's just a waiting game now."
-    mes "Lydia ya tomó un par de vasos de agua, así que ahora es solo un juego de espera."
+    mes "Lydia ya tomó un par de vasos de agua, así que ahora es sólo un juego de espera."
 
 # game/code/d15/d15s07.rpy:126
 translate spanish d15s07_ec8e46f3:
@@ -196,7 +196,7 @@ translate spanish d15s07_e233d25b:
 translate spanish d15s07_5050c37d:
 
     # mc "I'm just here for moral support."
-    mc "Solo estoy aquí para apoyo moral."
+    mc "Sólo estoy aquí para apoyo moral."
 
 # game/code/d15/d15s07.rpy:161
 translate spanish d15s07_b83335b9:
@@ -250,7 +250,7 @@ translate spanish d15s07_whatsthat_4fbf6529:
 translate spanish d15s07_whatsthat_3df63dae:
 
     # mc "Yeah, no. I get it. It was just a surprise."
-    mc "Si no. Lo entiendo. Fue solo una sorpresa."
+    mc "Si, no. Lo entiendo. Fue sólo una sorpresa."
 
 # game/code/d15/d15s07.rpy:196
 translate spanish d15s07_whatsthat_cf8b4dee:
@@ -412,7 +412,7 @@ translate spanish d15s07_mes_pee_on_mc_84908641:
 translate spanish d15s07_mes_pee_on_mc_cd6093b6:
 
     # mes "I'm not trying to steal your boyfriend. I just want to share him."
-    mes "No estoy tratando de robarte a tu novio. Solo quiero compartirlo."
+    mes "No estoy tratando de robarte a tu novio. Sólo quiero compartirlo."
 
 # game/code/d15/d15s07.rpy:294
 translate spanish d15s07_mes_pee_on_mc_cf2f760d:
@@ -460,7 +460,7 @@ translate spanish d15s07_mc_pee_on_mes_c7a1d3bc:
 translate spanish d15s07_mc_pee_on_mes_822a27fe:
 
     # mc "Physically it only restricts blood flow, not urine."
-    mc "Físicamente solo restringe el flujo sanguíneo, no la orina."
+    mc "Físicamente sólo restringe el flujo sanguíneo, no la orina."
 
 # game/code/d15/d15s07.rpy:335
 translate spanish d15s07_mc_pee_on_mes_a21bc4bf:
@@ -472,7 +472,7 @@ translate spanish d15s07_mc_pee_on_mes_a21bc4bf:
 translate spanish d15s07_mc_pee_on_mes_9a23d2c1:
 
     # lc "It's okay. Just take your time. Pretend no one is watching, right?"
-    lc "Está bien. Solo tomate tu tiempo. Finge que nadie está mirando, ¿verdad?"
+    lc "No pasa nada. Tómate tu tiempo. Finge que nadie está mirando, ¿verdad?"
 
 # game/code/d15/d15s07.rpy:347
 translate spanish d15s07_mc_pee_on_mes_b5960a3a:
@@ -706,7 +706,7 @@ translate spanish d15s07_lc_pee_on_mes_5a5b7723:
 translate spanish d15s07_lc_pee_on_mes_df8becc0:
 
     # mc "Nope. You're looking at a human toilet. She's just a receptacle for your pee."
-    mc "No. Estás viendo un inodoro humano. Ella es solo un receptáculo para tu orina."
+    mc "No. Estás viendo un inodoro humano. Es sólo un receptáculo para tu orina."
 
 # game/code/d15/d15s07.rpy:539
 translate spanish d15s07_lc_pee_on_mes_8515f081:
@@ -730,7 +730,7 @@ translate spanish d15s07_lc_pee_on_mes_113c5936:
 translate spanish d15s07_lc_pee_on_mes_c1ac3d8d:
 
     # mc "You may stop looking at her. Just lean back against me and let your body and bladder relax."
-    mc "Puedes dejar de mirarla. Solo recuéstate contra mí y deja que tu cuerpo y tu vejiga se relajen."
+    mc "Puedes dejar de mirarla. Apóyate en mí y deja que tu cuerpo y tu vejiga se relajen."
 
 # game/code/d15/d15s07.rpy:558
 translate spanish d15s07_lc_pee_on_mes_290ca639:
@@ -814,7 +814,7 @@ translate spanish d15s07_ntr_path_ddfb6b3d:
 translate spanish d15s07_ntr_path_410208b8:
 
     # lc "How?! {w}FUCK!!!"
-    lc "¡¿Cómo?! {w}¡¡JODER!!!"
+    lc "¡¿Cómo?! {w}¡¡MIERDA!!!"
 
 # game/code/d15/d15s07.rpy:608
 translate spanish d15s07_ntr_path_348cf1e5:
@@ -826,7 +826,7 @@ translate spanish d15s07_ntr_path_348cf1e5:
 translate spanish d15s07_ntr_path_a7921833:
 
     # lc "Fuck fuck fuck..."
-    lc "Joder, joder, joder..."
+    lc "Mierda, Mierda, mierda..."
 
 # game/code/d15/d15s07.rpy:612
 translate spanish d15s07_ntr_path_1061f846:
@@ -1186,7 +1186,7 @@ translate spanish strings:
 
     # game/code/d15/d15s07.rpy:127
     old "I'm just here for moral support"
-    new "Solo estoy aquí para apoyo moral."
+    new "Sólo estoy aquí para apoyo moral."
 
     # game/code/d15/d15s07.rpy:766
     old "We should definitely do that"
