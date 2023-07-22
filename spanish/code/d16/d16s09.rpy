@@ -172,7 +172,7 @@ translate spanish d16s09_f04bac6b:
 translate spanish d16s09_0457ec52:
 
     # nk "Yes, sir."
-    nk "Sí, señor"
+    nk "Sí, señor."
 
 translate spanish strings:
 
