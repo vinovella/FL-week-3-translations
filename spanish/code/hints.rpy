@@ -204,7 +204,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Allison develops - You'll go over to Allison's dorm and talk with her. If you're out of the cock cage, you will also have sex with Allison while on cam."
-    new "Esta es una elección importante que cambia la forma en que se desarrolla tu relación con Allison: irás al dormitorio de Allison y hablarás con ella. Si estás fuera de la jaula de la polla, también tendrás sexo con Allison mientras estás frente a la cámara."
+    new "Esta es una elección importante que cambia la forma en que se desarrolla tu relación con Allison: irás al dormitorio de Allison y hablarás con ella. Si estás fuera de la jaula de pene, también tendrás sexo con Allison mientras estás frente a la cámara."
 
     # game/code/hints.rpy:5
     old "This is an important choice that changes the way your relationship with Allison develops - You will reject her and potentially lose her relationship in the future."
