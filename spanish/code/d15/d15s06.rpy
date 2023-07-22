@@ -166,7 +166,7 @@ translate spanish d15s06_94dfa815:
 translate spanish d15s06_55db923e:
 
     # mh "What's a handsome little thing like you doing out here alone, hm?"
-    mh "¿Qué hace una cosita hermosa como tú aquí solo, eh?"
+    mh "¿Qué hace una cosita hermosa como tú aquí solo?"
 
 # game/code/d15/d15s06.rpy:167
 translate spanish d15s06_a0b43782:
@@ -328,7 +328,7 @@ translate spanish d15s06_06775981:
 translate spanish d15s06_8c09a8d7:
 
     # mh "It'll just be {i}you{/i} and {i}me{/i} for as long as we want."
-    mh "Solo seremos {i}tú{/i} y {i}yo{/i} todo el tiempo que queramos."
+    mh "Sólo seremos {i}tú{/i} y {i}yo{/i} todo el tiempo que queramos."
 
 # game/code/d15/d15s06.rpy:277
 translate spanish d15s06_aaa9392e:
@@ -898,7 +898,7 @@ translate spanish d15s06_house_7e1c1a09:
 translate spanish d15s06_house_37f8aeaf:
 
     # mc "I'm just...yeah."
-    mc "Solo estoy... sí."
+    mc "Sólo... sí."
 
 # game/code/d15/d15s06.rpy:787
 translate spanish d15s06_house_8860d05f:
