@@ -148,7 +148,7 @@ translate spanish d16s06_35ec306e:
 translate spanish d16s06_12436050:
 
     # mc "It's okay. It's alright."
-    mc "Está bien. Esta bien."
+    mc "Está bien. Está bien."
 
 # game/code/d16/d16s06.rpy:179
 translate spanish d16s06_ff90bb28:
@@ -298,7 +298,7 @@ translate spanish d16s06_7fa6b07f:
 translate spanish d16s06_2fd3b885:
 
     # aw "Thought I'd finally reward the loyal ones with something special."
-    aw "Pensé que finalmente recompensaría a los leales con algo especial."
+    aw "Pensé en recompensar a los que son leales con algo especial."
 
 # game/code/d16/d16s06.rpy:247
 translate spanish d16s06_4ebf4ad5:
@@ -352,7 +352,7 @@ translate spanish d16s06_f591ea0b:
 translate spanish d16s06_dac61d50:
 
     # mc "Fetish Locator gave me a challenge to fuck 20 people by the end of Sunday."
-    mc "El Localizador de Fetiche me desafió a follar con 20 personas para el final del domingo."
+    mc "El Localizador de Fetiches me desafió a follar con 20 personas para el final del domingo."
 
 # game/code/d16/d16s06.rpy:273
 translate spanish d16s06_f0cca32f:
@@ -412,7 +412,7 @@ translate spanish d16s06_acd02d33:
 translate spanish d16s06_fa1483e6:
 
     # mc "it's alright"
-    mc "esta bien"
+    mc "Está bien"
 
 # game/code/d16/d16s06.rpy:301
 translate spanish d16s06_c0883fbc:
@@ -466,7 +466,7 @@ translate spanish d16s06_8038d1e5:
 translate spanish d16s06_7cd820d6:
 
     # aw "No, it's alright. I don't want to like...hurt you or anything."
-    aw "No está bien. No quiero como... lastimarte ni nada."
+    aw "No está bien. No quiero... lastimarte ni nada."
 
 # game/code/d16/d16s06.rpy:323
 translate spanish d16s06_9f16a0cd:
@@ -610,7 +610,7 @@ translate spanish d16s06_1e9e1bb9:
 translate spanish d16s06_10e01240:
 
     # aw "We're gonna start off nice and slow before we get to the...finale if you will. So make sure to keep those bits coming."
-    aw "Vamos a empezar bien y despacio antes de llegar al... final, por así decirlo. Así que asegúrese de seguir recibiendo esos bits."
+    aw "Vamos a empezar despacio antes de llegar al... final, por así decirlo. Así que asegúrese de seguir enviando esos bits."
 
 # game/code/d16/d16s06.rpy:428
 translate spanish d16s06_f4af65e8:
@@ -622,7 +622,7 @@ translate spanish d16s06_f4af65e8:
 translate spanish d16s06_e0465729:
 
     # aw "*Staggered moans* I'm close!"
-    aw "*gemidos entrecortados* ¡Estoy cerca!"
+    aw "*Gemidos entrecortados* ¡Estoy cerca!"
 
 # game/code/d16/d16s06.rpy:447
 translate spanish d16s06_e2b6ce7c:
@@ -658,7 +658,7 @@ translate spanish d16s06_71bc0f64:
 translate spanish d16s06_a83c62ef:
 
     # mc "Al— I think, I'm—"
-    mc "Al— creo, que estoy—"
+    mc "Al... creo, que estoy—"
 
 # game/code/d16/d16s06.rpy:500
 translate spanish d16s06_9940f75a:
@@ -694,13 +694,13 @@ translate spanish d16s06_ea53c38d:
 translate spanish d16s06_25ca1602:
 
     # aw "*Choked moans* F-FUCK! You're hitting me so...deep!"
-    aw "*gemidos ahogados* ¡J-JODER! Me estás golpeando tan... ¡profundo!"
+    aw "*Gemidos ahogados* ¡M-MIERDA! Me estás golpeando tan... ¡profundo!"
 
 # game/code/d16/d16s06.rpy:596
 translate spanish d16s06_f066036a:
 
     # aw "I... Wow. Christ. *Laughs* I guess you all enjoyed that as much as I did."
-    aw "Yo... Guau. Cristo. *Risas* Supongo que todos lo disfrutaron tanto como yo."
+    aw "Yo... Vaya. Cristo. *Risas* Supongo que todos lo disfrutaron tanto como yo."
 
 # game/code/d16/d16s06.rpy:597
 translate spanish d16s06_c57d815f:
@@ -772,7 +772,7 @@ translate spanish d16s06_58c6d057:
 translate spanish d16s06_d7755542:
 
     # aw "*Laughs* \"Emotions\" huh? Well, I'm sure glad I got to experience it."
-    aw "*Risas* \"Emociones\" ¿eh? Bueno, estoy seguro de que me alegro de haberlo experimentado."
+    aw "*Risas* \"Emociones\" ¿eh? Bueno, estoy segura de que me alegro de haberlo experimentado."
 
 # game/code/d16/d16s06.rpy:639
 translate spanish d16s06_89a8c10f:
