@@ -142,7 +142,7 @@ translate spanish d15s04_3aa67ef3:
 translate spanish d15s04_db6882f8:
 
     # mct "Yeah, I was just gonna message you."
-    mct "Sí, solo te iba a enviar un mensaje."
+    mct "Sí, iba a mandarte un mensaje."
 
 # game/code/d15/d15s04.rpy:110
 translate spanish d15s04_55bafd6d:
