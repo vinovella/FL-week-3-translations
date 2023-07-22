@@ -100,7 +100,7 @@ translate spanish d17s03_6f4a3553:
 translate spanish d17s03_73a840f5:
 
     # ir "It's part tomahawk, part crowbar, part multi-tool. Mostly it's an effective club that can be explained as a utility tool."
-    ir "Es en parte tomahawk, en parte palanca, en parte multiherramienta. En su mayoría, es un club efectivo que puede explicarse como una herramienta de utilidad."
+    ir "Es en parte un tomahawk, en parte una palanca y en parte una multiherramienta. Sobre todo es un garrote eficaz que puede explicarse como una herramienta utilitaria."
 
 # game/code/d17/d17s03.rpy:70
 translate spanish d17s03_a4969e9f:
@@ -178,13 +178,13 @@ translate spanish d17s03_842391ed:
 translate spanish d17s03_6956461d:
 
     # ir "Well, there are a couple of reasons. One I can't say. The other I won't talk about."
-    ir "Bueno, hay un par de razones. Una que no puedo decir. Del otro no voy a hablar."
+    ir "Bueno, hay un par de razones. Una no la puedo decir. De la otra no hablaré."
 
 # game/code/d17/d17s03.rpy:109
 translate spanish d17s03_3aa5c775:
 
     # mc "I can guess one of those. You were working at that Party for the same reason I was."
-    mc "Puedo adivinar una de esos. Estabas trabajando en esa fiesta por la misma razón que yo."
+    mc "Puedo adivinar una de esas. Estabas trabajando en esa fiesta por la misma razón que yo."
 
 # game/code/d17/d17s03.rpy:112
 translate spanish d17s03_e1c852b0:
@@ -382,7 +382,7 @@ translate spanish d17s03_9bb2efdf:
 translate spanish d17s03_f75e9b9d:
 
     # ir "They weren't smoking. He was just handing them out. It was the politically expedient thing to do."
-    ir "No estaban fumando. Solo los estaba repartiendo. Era lo políticamente conveniente."
+    ir "No estaban fumando. Sólo los estaba repartiendo. Era lo políticamente conveniente."
 
 # game/code/d17/d17s03.rpy:206
 translate spanish d17s03_610adb2b:
@@ -496,7 +496,7 @@ translate spanish d17s03_81782d78:
 translate spanish d17s03_64fb5e5b:
 
     # mc "Not Yours?"
-    mc "El que dice, ¿No es tuya?"
+    mc "El que dice, ¿No soy tuya?"
 
 # game/code/d17/d17s03.rpy:261
 translate spanish d17s03_fdb4be8b:
@@ -604,7 +604,7 @@ translate spanish d17s03_02767222:
 translate spanish d17s03_cea2f1fd:
 
     # mc "I can't even imagine.{w} So, your dad - sorry, the Senator - was just as distant?"
-    mc "Ni siquiera puedo imaginarlo.{w} Entonces, ¿tú padre, lo siento, el senador, estaba tan distante?"
+    mc "Ni siquiera puedo imaginarlo.{w} Entonces, tú padre, lo siento, el senador... ¿era igual de distante?"
 
 # game/code/d17/d17s03.rpy:315
 translate spanish d17s03_4f796d84:
@@ -664,7 +664,7 @@ translate spanish d17s03_7202b2d0:
 translate spanish d17s03_cee65618:
 
     # ir "She's not just distant... She's different."
-    ir "Ella no solo es distante... Ella es diferente."
+    ir "Ella no sólo es distante... Ella es diferente."
 
 # game/code/d17/d17s03.rpy:339
 translate spanish d17s03_64d07154:
@@ -718,7 +718,7 @@ translate spanish d17s03_8f64fa6b:
 translate spanish d17s03_580b897a:
 
     # ir "Dude, she's my twin sister!"
-    ir "Amigo, ella es mi hermana gemela!"
+    ir "Amigo, ¡ella es mi hermana gemela!"
 
 # game/code/d17/d17s03.rpy:366
 translate spanish d17s03_48bcbe36:
@@ -778,7 +778,7 @@ translate spanish d17s03_e9a15b63:
 translate spanish d17s03_d5b31a14:
 
     # ir "No, of course not.{w} We only did what we wanted to do."
-    ir "No, por supuesto que no. {w} Solo hicimos lo que queríamos hacer."
+    ir "No, por supuesto que no. {w} Sólo hicimos lo que queríamos hacer."
 
 # game/code/d17/d17s03.rpy:398
 translate spanish d17s03_d1d5807d:
@@ -892,7 +892,7 @@ translate spanish d17s03_cfb1c03e:
 translate spanish d17s03_2a57a178:
 
     # mc "I can help you. I was just trying to sort out the possibilities."
-    mc "Puedo ayudarle. Solo estaba tratando de clasificar las posibilidades."
+    mc "Puedo ayudarle. Sólo estaba tratando de ordenar las posibilidades."
 
 # game/code/d17/d17s03.rpy:456
 translate spanish d17s03_1a996ff0:
