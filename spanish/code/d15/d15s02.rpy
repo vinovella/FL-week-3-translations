@@ -142,7 +142,7 @@ translate spanish d15s02_c5717414:
 translate spanish d15s02_b6e0d059:
 
     # nk "Was 20, one-after-the-other, too much?"
-    nk "Fueron 20, una tras otra, ¿demasiado?"
+    nk "Fueron 20, una tras otra, ¿fue demasiado?"
 
 # game/code/d15/d15s02.rpy:93
 translate spanish d15s02_93033456:
@@ -316,7 +316,7 @@ translate spanish d15s02_3b0b41f7:
 translate spanish d15s02_b55219f0:
 
     # nk "And I suggest you do that as well.{w} This isn't something you just \"decide.\""
-    nk "Y te sugiero que hagas eso también. {w} Esto no es algo que simplemente \" decides.\""
+    nk "Y te sugiero que hagas eso también.{w} Esto no es algo que simplemente \" decides.\""
 
 # game/code/d15/d15s02.rpy:166
 translate spanish d15s02_9971da35:
@@ -394,7 +394,7 @@ translate spanish d15s02_a75b2604:
 translate spanish d15s02_be0423d4:
 
     # mc "I understand. It's alright."
-    mc "Entiendo. Esta bien."
+    mc "Entiendo. Está bien."
 
 # game/code/d15/d15s02.rpy:196
 translate spanish d15s02_332925d5:
@@ -442,7 +442,7 @@ translate spanish d15s02_330e3387:
 translate spanish d15s02_3549c985:
 
     # mct "Another one? What did I get this one for?"
-    mct "¿Otra? ¿Para qué compré este?"
+    mct "¿Otra? ¿Para qué obtuve esto?"
 
 # game/code/d15/d15s02.rpy:221
 translate spanish d15s02_a041029e:
@@ -458,7 +458,7 @@ translate spanish strings:
 
     # game/code/d15/d15s02.rpy:62
     old "Itching to Break Free"
-    new "Con ganas de liberarme"
+    new "Con ganas de liberarse"
 
     # game/code/d15/d15s02.rpy:62
     old "Had Enough Fun for Now"
