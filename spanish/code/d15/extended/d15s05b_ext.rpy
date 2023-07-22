@@ -148,7 +148,7 @@ translate spanish d15s05b_ext_37780923:
 translate spanish d15s05b_ext_4d7e3b72:
 
     # nk "Oh, nice."
-    nk "Oh, bonito"
+    nk "Oh, bonito."
 
 # game/code/d15/extended/d15s05b_ext.rpy:132
 translate spanish d15s05b_ext_08dfd9f1:
@@ -190,7 +190,7 @@ translate spanish d15s05b_ext_6570e711:
 translate spanish d15s05b_ext_69c4f9ad:
 
     # pw "Do you two want to fuck around all day or do you want to hear my plan for how we can fuck each other?"
-    pw "¿Ustedes dos quieren follar todo el día o quieren escuchar mi plan de cómo podemos follarnos el uno al otro?"
+    pw "¿Ustedes dos quieren follar todo el día o quieren escuchar mi plan de cómo podemos follarnos los unos a los otros?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:150
 translate spanish d15s05b_ext_95544649:
@@ -280,7 +280,7 @@ translate spanish d15s05b_ext_be46e3dc:
 translate spanish d15s05b_ext_1cb9d682:
 
     # pw "Then you teach Nora how to fist my ass."
-    pw "Luego le enseñas a Nora a darme puñetazos en el culo."
+    pw "Luego le enseñas a Nora como meterme el puño en el culo."
 
 # game/code/d15/extended/d15s05b_ext.rpy:189
 translate spanish d15s05b_ext_820ca8fd:
@@ -322,7 +322,7 @@ translate spanish d15s05b_ext_b8d3d33c:
 translate spanish d15s05b_ext_e32b5d26:
 
     # pw "Then you get to watch out for any passers by, so Nora and I aren't interrupted."
-    pw "Luego puedes estar atento a los transeúntes, para que Nora y yo no seamos interrumpidas."
+    pw "Vigila a los transeúntes para que no nos interrumpan a Nora y a mí."
 
 # game/code/d15/extended/d15s05b_ext.rpy:206
 translate spanish d15s05b_ext_b29be953:
@@ -370,7 +370,7 @@ translate spanish d15s05b_ext_979fcb2a:
 translate spanish d15s05b_ext_a47374b6:
 
     # nk "Birth control fucks with my hormones, so I don't take it."
-    nk "Los anticonceptivos me joden las hormonas, así que no las tomo."
+    nk "Los anticonceptivos me arruinan las hormonas, así que no las tomo."
 
 # game/code/d15/extended/d15s05b_ext.rpy:223
 translate spanish d15s05b_ext_97e3519d:
@@ -436,7 +436,7 @@ translate spanish d15s05b_ext_06a87d73:
 translate spanish d15s05b_ext_a8f672a7:
 
     # mc "I'm afraid the app{w}, um, Fetish Locator kinda wants me to wear it today."
-    mc "Me temo que la aplicación {w}, um, Localizador de Fetiche quiere que lo use hoy."
+    mc "Me temo que la aplicación {w}, um, el Localizador de Fetiches quiere que lo use hoy."
 
 # game/code/d15/extended/d15s05b_ext.rpy:251
 translate spanish d15s05b_ext_89033e80:
@@ -760,7 +760,7 @@ translate spanish d15s05b_fisto_a0e1eb84:
 translate spanish d15s05b_fisto_7852b758:
 
     # nk "Hmm.{w} Okay, let's try this doggy style."
-    nk "Hmm. {w} Bien, intentemos este estilo perrito."
+    nk "Hmm. {w} Bien, intentemos el estilo perrito."
 
 # game/code/d15/extended/d15s05b_ext.rpy:417
 translate spanish d15s05b_fisto_59a1cd24:
@@ -796,7 +796,7 @@ translate spanish d15s05b_fisto_969ffc4f:
 translate spanish d15s05b_fisto_38924ed8:
 
     # mc "Ex-girlfriend of mine."
-    mc "Mi ex-novia"
+    mc "Mi ex-novia."
 
 # game/code/d15/extended/d15s05b_ext.rpy:435
 translate spanish d15s05b_fisto_fae6f280:
@@ -928,7 +928,7 @@ translate spanish d15s05b_fisto_5949db7e:
 translate spanish d15s05b_fisto_3a940123:
 
     # nk "Is that like a Red Herring or more like Gefilte Fish?"
-    nk "¿Es como una pista falsa o más bien como Gefilte Fish?"
+    nk "¿Es como un arenque rojo o más como un Pescado Molido?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:497
 translate spanish d15s05b_fisto_05500ff6:
@@ -1210,7 +1210,7 @@ translate spanish d15s05b_lesbians_294377ac:
 translate spanish d15s05b_lesbians_3370d101:
 
     # nk "Okay.{w} You asked for it."
-    nk "Bien {w} Tú lo pediste."
+    nk "Bien. {w} Tú lo pediste."
 
 # game/code/d15/extended/d15s05b_ext.rpy:676
 translate spanish d15s05b_lesbians_nora_7b5c27b7:
@@ -1708,7 +1708,7 @@ translate spanish d15s05b_post_lesbians_f41d176d:
 translate spanish d15s05b_post_lesbians_8b1c1e63:
 
     # pw "Fuck.{w} Well, that's better than what I was going to suggest."
-    pw "Joder. {w} Bueno, eso es mejor de lo que iba a sugerir."
+    pw "Mierda. {w} Bueno, eso es mejor de lo que iba a sugerir."
 
 # game/code/d15/extended/d15s05b_ext.rpy:966
 translate spanish d15s05b_post_lesbians_5c0ba81b:
@@ -1774,7 +1774,7 @@ translate spanish d15s05b_pegging_9f1df25e:
 translate spanish d15s05b_pegging_1735dc62:
 
     # nk "You're doing really well. Ready for a second finger?"
-    nk "Lo estás haciendo muy bien. ¿Lista para un segundo dedo?"
+    nk "Lo estás haciendo muy bien. ¿Listo para un segundo dedo?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1020
 translate spanish d15s05b_pegging_64814184:
@@ -1792,7 +1792,7 @@ translate spanish d15s05b_pegging_66391067:
 translate spanish d15s05b_pegging_7baa7554:
 
     # nk "Whoa! Relax.{w} I'm not going to fist your ass."
-    nk "¡Guau! Relájate. {w} No voy a meterte el puño en el culo."
+    nk "¡Vaya! Relájate. {w} No voy a meterte el puño en el culo."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1025
 translate spanish d15s05b_pegging_beb9f363:
@@ -1828,7 +1828,7 @@ translate spanish d15s05b_pegging_d4751605:
 translate spanish d15s05b_pegging_d54e3cfe:
 
     # nk "There you go."
-    nk "Ahí tienes"
+    nk "Ahí tienes."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1038
 translate spanish d15s05b_pegging_1cd8aecc:
@@ -1924,7 +1924,7 @@ translate spanish d15s05b_pegging_417b8570:
 translate spanish d15s05b_pegging_ab331cb0:
 
     # mc "Well, they say it's not the size, it's how you use it.{w} Give it a wiggle or something."
-    mc "Bueno, dicen que no es el tamaño, es cómo lo usas. {w} Muévelo o algo así."
+    mc "Bueno, dicen que no es el tamaño, sino cómo lo usas. Muévelo o haz lo que quieras."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1092
 translate spanish d15s05b_pegging_b75ccc3e:
@@ -2086,7 +2086,7 @@ translate spanish d15s05b_spitroast_892434f0:
 translate spanish d15s05b_spitroast_99177b97:
 
     # mc "Which what?"
-    mc "cuál ¿qué?"
+    mc "¿Cuál qué?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1207
 translate spanish d15s05b_spitroast_dcdd76ba:
@@ -2194,7 +2194,7 @@ translate spanish d15s05b_spitroast_c66428a4:
 translate spanish d15s05b_spitroast_578649db:
 
     # mc "Look down at her. Nora's not just having some piston thrusting into her throat. It's you."
-    mc "Mírala. Nora no solo tiene un pistón empujando en su garganta. Eres tu."
+    mc "Mírala. Nora no solo tiene un pistón empujando en su garganta. Eres tú."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1258
 translate spanish d15s05b_spitroast_9029f111:
@@ -2326,13 +2326,13 @@ translate spanish d15s05b_end_ff5e7ea9:
 translate spanish d15s05b_end_aa5b01ee:
 
     # pw "Sure. Anytime you need-"
-    pw "Seguro. Cada vez que necesites-"
+    pw "Claro. Cuando necesites..."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1330
 translate spanish d15s05b_end_a680def6:
 
     # nk "Then maybe after closing we can see those clothes come off again."
-    nk "Entonces, tal vez, después del cierre, podamos ver que esa ropa se quita nuevamente."
+    nk "Entonces, tal vez después del cierre podamos ver cómo se quita la ropa de nuevo."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1332
 translate spanish d15s05b_end_3d511583:
@@ -2356,7 +2356,7 @@ translate spanish d15s05b_end_4ea91313:
 translate spanish d15s05b_end_516cf05b:
 
     # mct "I guess that's Fetish Locator."
-    mct "Supongo que es el Localizador de Fetiche."
+    mct "Supongo que es el Localizador de Fetiches."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1353
 translate spanish d15s05b_end_6ee9aa99:
