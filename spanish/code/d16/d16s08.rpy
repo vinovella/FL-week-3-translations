@@ -70,7 +70,7 @@ translate spanish d16s08_28459e19:
 translate spanish d16s08_594a9b43:
 
     # arj "Well, two of us are obvious."
-    arj "Bueno, dos de nosotros es obvio."
+    arj "Bueno, dos de nosotras es obvio."
 
 # game/code/d16/d16s08.rpy:62
 translate spanish d16s08_f229661e:
@@ -166,7 +166,7 @@ translate spanish d16s08_cd84f12c:
 translate spanish d16s08_2d5b8083:
 
     # mc "Which is probably how Hana found out about Fetish Locator and the Retention Program."
-    mc "Probablemente así fue como Hana descubrió el Localizador de Fetiche y el Programa de Retención."
+    mc "Probablemente así fue como Hana descubrió el Localizador de Fetiches y el Programa de Retención."
 
 # game/code/d16/d16s08.rpy:114
 translate spanish d16s08_eca55081:
@@ -232,7 +232,7 @@ translate spanish d16s08_14387a1e:
 translate spanish d16s08_455a3c97:
 
     # mc "No, definitely not. {w}She's got some medical condition..."
-    mc "No, definitivamente no. {w}Ella tiene alguna condición médica..."
+    mc "No, definitivamente no. {w}Ella tiene una condición médica..."
 
 # game/code/d16/d16s08.rpy:150
 translate spanish d16s08_a841da30:
@@ -256,7 +256,7 @@ translate spanish d16s08_cf7d1e52:
 translate spanish d16s08_4eb2cdc7:
 
     # mc "Yeah. {w}If we do anything, it won't be just for the points. That would be...{w} wrong."
-    mc "Sí. {w}Si hacemos algo, no será solo por los puntos. Eso sería... {w} incorrecto."
+    mc "Sí. {w}Si hacemos algo, no será sólo por los puntos. Eso sería... {w} incorrecto."
 
 # game/code/d16/d16s08.rpy:160
 translate spanish d16s08_92664674:
@@ -406,7 +406,7 @@ translate spanish d16s08_83b91498:
 translate spanish d16s08_cbcf6bb4:
 
     # mc "Oh, fuck."
-    mc "Oh, joder."
+    mc "Oh, mierda."
 
 # game/code/d16/d16s08.rpy:240
 translate spanish d16s08_acaa851b:
@@ -562,7 +562,7 @@ translate spanish d16s08_2d2c4d9e:
 translate spanish d16s08_7569df1e:
 
     # arj "Nah. They already know too much about us."
-    arj "No. Ya saben demasiado sobre nosotros."
+    arj "No. Ya sabe demasiado sobre nosotros."
 
 # game/code/d16/d16s08.rpy:317
 translate spanish d16s08_a423f556:
@@ -592,7 +592,7 @@ translate spanish d16s08_3bf67e8e:
 translate spanish d16s08_7503fc34:
 
     # arj "Just on Mondays and Tuesdays."
-    arj "Solo los lunes y martes."
+    arj "Sólo los lunes y martes."
 
 # game/code/d16/d16s08.rpy:332
 translate spanish d16s08_793927ec:
@@ -628,13 +628,13 @@ translate spanish d16s08_ebe86b9b:
 translate spanish d16s08_1414bc97:
 
     # arj "No pattern that I know of. Just that they tend to get more obscure or difficult as the week goes on."
-    arj "Ningún patrón que yo sepa. Solo que tienden a volverse más oscuros o difíciles a medida que avanza la semana."
+    arj "Que yo sepa, no hay ningún patrón. Sólo que tienden a ser más oscuros o difíciles a medida que avanza la semana."
 
 # game/code/d16/d16s08.rpy:349
 translate spanish d16s08_36be32a5:
 
     # mc "Wasn't creampie a Saturday? That didn't seem so difficult."
-    mc "¿No fue creampie un sábado? Eso no parecía tan difícil."
+    mc "¿No fue creampie el sábado? Eso no parecía tan difícil."
 
 # game/code/d16/d16s08.rpy:352
 translate spanish d16s08_67ca6189:
@@ -796,7 +796,7 @@ translate spanish d16s08_fef1817e:
 translate spanish d16s08_65945d80:
 
     # mc "Oh, well, shouldn't that be easy? We're just looking for location-"
-    mc "Oh, bueno, ¿no debería ser fácil? Solo estamos buscando ubicación-"
+    mc "Oh, bueno, ¿no debería ser fácil? Sólo estamos buscando ubicación-"
 
 # game/code/d16/d16s08.rpy:432
 translate spanish d16s08_8cc3d172:
@@ -814,7 +814,7 @@ translate spanish d16s08_94507c05:
 translate spanish d16s08_497147a5:
 
     # arj "Never use the word, \"just\". If anything was \"just\" as easy as you think then it would be done already."
-    arj "Nunca use la palabra, \"solo\". Si algo fuera \"simplemente\" tan fácil como crees, ya estaría hecho."
+    arj "Nunca uses la palabra, \"sólo\". Si algo fuera \"simplemente\" tan fácil como crees, ya estaría hecho."
 
 # game/code/d16/d16s08.rpy:441
 translate spanish d16s08_0031a960:
