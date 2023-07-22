@@ -22,7 +22,7 @@ translate spanish d16s05_95fb65d7:
 translate spanish d16s05_c1f733bb:
 
     # sy "Not to mention, if you really cared about privacy, you'd have knocked."
-    sy "Sin mencionar que si realmente te importara la privacidad, habrías llamado."
+    sy "Sin mencionar que si realmente te importara la privacidad, habrías golpeado la puerta."
 
 # game/code/d16/d16s05.rpy:32
 translate spanish d16s05_10d8c479:
@@ -142,7 +142,7 @@ translate spanish d16s05_88ccb475:
 translate spanish d16s05_d52a4038:
 
     # sy "Can't live that hot-girl life while broke."
-    sy "No puedo vivir esa vida de chica sexy mientras estoy en la ruina."
+    sy "No se puede vivir la vida de una chica sexy estando sin dinero."
 
 # game/code/d16/d16s05.rpy:93
 translate spanish d16s05_c537ddd1:
@@ -382,7 +382,7 @@ translate spanish d16s05_f705863b:
 translate spanish d16s05_cb15f7a6:
 
     # mc "I know that we are...{i}more{/i} than we were before now."
-    mc "Sé que somos...{i}más{/i} de lo que éramos antes de ahora."
+    mc "Sé que ahora somos...{i}más{/i} de lo que éramos antes."
 
 # game/code/d16/d16s05.rpy:200
 translate spanish d16s05_41e4ea68:
@@ -460,7 +460,7 @@ translate spanish d16s05_44581e0a:
 translate spanish d16s05_872f21af:
 
     # sy "*Sigh* I...get what you're trying to do."
-    sy "*Suspiro* Yo... entiende lo que estás tratando de hacer."
+    sy "*Suspiro* Yo... entiendo lo que estás tratando de hacer."
 
 # game/code/d16/d16s05.rpy:229
 translate spanish d16s05_8ab5ae4f:
@@ -538,7 +538,7 @@ translate spanish d16s05_0dad097d:
 translate spanish d16s05_82b03971:
 
     # mc "Here, drink this. Apparently, it's harder to get anxious when you have something in your mouth."
-    mc "Toma, bebe esto. Aparentemente, es más difícil ponerse ansiosa cuando tienes algo en la boca."
+    mc "Toma, bebe esto. Aparentemente, es más difícil ponerse ansioso cuando tienes algo en la boca."
 
 # game/code/d16/d16s05.rpy:303
 translate spanish d16s05_b18aa2bc:
@@ -550,7 +550,7 @@ translate spanish d16s05_b18aa2bc:
 translate spanish d16s05_cad3d574:
 
     # mc "Only if you make it one. Now drink up."
-    mc "Solo si lo conviertes en uno. Ahora bebe."
+    mc "Sólo si lo conviertes en uno. Ahora bebe."
 
 # game/code/d16/d16s05.rpy:309
 translate spanish d16s05_c281cb0e:
@@ -574,7 +574,7 @@ translate spanish d16s05_63a9e153:
 translate spanish d16s05_aedb874a:
 
     # mc "I'm sure there must be plenty of other tech jobs, right? Even internships."
-    mc "Estoy seguro de que debe haber muchos otros trabajos tecnológicos, ¿verdad? Incluso pasantías."
+    mc "Estoy seguro de que debe haber muchos otros trabajos tecnológicos, ¿verdad?. Incluso pasantías."
 
 # game/code/d16/d16s05.rpy:321
 translate spanish d16s05_d7df31c3:
@@ -610,13 +610,13 @@ translate spanish d16s05_b086d03e:
 translate spanish d16s05_4a258fbd:
 
     # mc "*Chuckles* Well, is this what you want to do in the future as well?"
-    mc "*Risas* Bueno, ¿es esto lo que quieres hacer en el futuro también?"
+    mc "*Risas* Bueno, ¿es esto lo que quieres hacer también en el futuro?"
 
 # game/code/d16/d16s05.rpy:336
 translate spanish d16s05_6d530aab:
 
     # sy "Fuck no! I'm going to start my own company. Make my own damn destiny instead of living under someone else's for 50 years and then dying."
-    sy "¡Joder, no! Voy a montar mi propia empresa. Hacer mi propio maldito destino en lugar de vivir bajo el de otra persona durante 50 años y luego morir."
+    sy "¡Mierda, no! Voy a montar mi propia empresa. Hacer mi propio maldito destino en lugar de vivir bajo el de otra persona durante 50 años y luego morir."
 
 # game/code/d16/d16s05.rpy:338
 translate spanish d16s05_4271e38e:
@@ -856,7 +856,7 @@ translate spanish d16s05_a3958bf9:
 translate spanish d16s05_7bdf47c4:
 
     # sy "Like, seriously, who the fuck does drug tests these days!?"
-    sy "Como, en serio, ¿¡quién diablos hace pruebas de drogas en estos días!?"
+    sy "En serio, ¿¡quién mierda hace pruebas de drogas hoy en día!?"
 
 # game/code/d16/d16s05.rpy:482
 translate spanish d16s05_6ea7d144:
@@ -1078,7 +1078,7 @@ translate spanish d16s05_e0a106af:
 translate spanish d16s05_3fa818ba:
 
     # mc "Cookie dough? You're gonna get salmonella or something."
-    mc "¿Masa de galleta? Vas a contraer salmonella o algo así.."
+    mc "¿Masa de galleta? Vas a contraer salmonella o algo así."
 
 # game/code/d16/d16s05.rpy:592
 translate spanish d16s05_f7e4f4e5:
