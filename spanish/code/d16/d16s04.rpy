@@ -106,7 +106,7 @@ translate spanish d16s04_9a3a7b2d:
 translate spanish d16s04_1eb783f0:
 
     # mes "But I've been fed enough book reading propaganda by Lydia over the years and I just finally broke down I guess."
-    mes "Pero Lydia me ha hecho bastante propaganda de la lectura de libros a lo largo de los años y supongo que al final me derrumbé, supongo."
+    mes "Pero Lydia me ha hecho bastante propaganda de la lectura de libros a lo largo de los años y supongo que al final me derrumbé."
 
 # game/code/d16/d16s04.rpy:82
 translate spanish d16s04_8b2b4c89:
@@ -124,7 +124,7 @@ translate spanish d16s04_d593c6be:
 translate spanish d16s04_5961d47e:
 
     # mes "Reading books in general or the book specifically?"
-    mes "¿Leer libros en general o el libro en particular?"
+    mes "¿Leer libros en general o específicamente este libro?"
 
 # game/code/d16/d16s04.rpy:91
 translate spanish d16s04_9c2b0af4:
@@ -214,7 +214,7 @@ translate spanish d16s04_770c339e:
 translate spanish d16s04_6f0962be:
 
     # mc "Three, imagine us on the roof of your place with a nice bottle of wine and some cheese, reading under the stars. That sounds like a pretty amazing time to me."
-    mc "Tres, imagínanos en la azotea de tu casa con una buena botella de vino y un poco de queso, leyendo bajo las estrellas. Eso suena como un tiempo bastante increíble para mí."
+    mc "Tres, imagínanos en la azotea de tu casa con una buena botella de vino y un poco de queso, leyendo bajo las estrellas. Me parece un momento increíble."
 
 # game/code/d16/d16s04.rpy:122
 translate spanish d16s04_e01d7967:
@@ -244,7 +244,7 @@ translate spanish d16s04_2fae0d8a:
 translate spanish d16s04_c1a03056:
 
     # mc "I'm having a rough time studying. All the FL stuff plus everything else.{w} And the finals are coming fast."
-    mc "Me está costando mucho estudiar. Todas las cosas de FL más todo lo demás.{w} Y los finales se acercan rápido."
+    mc "Me está costando mucho estudiar. Todas las cosas del Localizador de Fetiches más todo lo demás.{w} Y los exámenes finales se acercan rápido."
 
 # game/code/d16/d16s04.rpy:133
 translate spanish d16s04_0c24fc52:
@@ -346,7 +346,7 @@ translate spanish d16s04_7860a471:
 translate spanish d16s04_8ef0df4f:
 
     # mc "To you not killing yourself."
-    mc "Para que no te mates."
+    mc "Por que no te suicides."
 
 # game/code/d16/d16s04.rpy:192
 translate spanish d16s04_9c009f15:
@@ -364,7 +364,7 @@ translate spanish d16s04_ee1225c5:
 translate spanish d16s04_3232c1bf:
 
     # kb "I'm fucking around man, I'm not gonna kill myself. Christ."
-    kb "Estoy bromeando hombre, no me voy a suicidar. Cristo."
+    kb "Estoy bromeando hombre, no me voy a suicidar."
 
 # game/code/d16/d16s04.rpy:197
 translate spanish d16s04_e75ae87c:
@@ -394,7 +394,7 @@ translate spanish d16s04_97a27c91:
 translate spanish d16s04_d0d3fcff:
 
     # kb "Came in her ass which I then ate?"
-    kb "¿Entró en su culo que luego me comí?"
+    kb "¿Te corriste en su culo que luego me comí?"
 
 # game/code/d16/d16s04.rpy:211
 translate spanish d16s04_36037676:
@@ -430,7 +430,7 @@ translate spanish d16s04_066ba4be:
 translate spanish d16s04_cc125d32:
 
     # mc "This FL stuff has me doing stuff I never imagined."
-    mc "Esto de FL me tiene haciendo cosas que nunca imaginé."
+    mc "Esto del Localizador de Fetiches me tiene haciendo cosas que nunca imaginé."
 
 # game/code/d16/d16s04.rpy:222
 translate spanish d16s04_e990ba22:
@@ -478,7 +478,7 @@ translate spanish d16s04_139ef9c1:
 translate spanish d16s04_9afc4bf6:
 
     # kb "Gotta live it to the fullest while you're here."
-    kb "Tienes que vivirlo al máximo mientras estás aquí."
+    kb "Tienes que vivirla al máximo mientras estás aquí."
 
 # game/code/d16/d16s04.rpy:238
 translate spanish d16s04_0e475984:
@@ -508,7 +508,7 @@ translate spanish d16s04_e8c5af83:
 translate spanish d16s04_fc6ccd1f:
 
     # kb "A day's gon' come where you have to suck a creampie—maybe even your own, I ain't judging—from the ass and/or pussy of a person you love, and I want you to remember your old pal Kevo when it happens."
-    kb "Llegará un día en el que tendrás que chupar un creampie, tal vez incluso el tuyo propio, no lo estoy juzgando, del culo y/o el coño de una persona que amas, y quiero que recuerdes a tu viejo amigo Kevo cuando suceda."
+    kb "Llegará un día en el que tendrás que chupar un creampie, tal vez incluso el tuyo propio, no te estoy juzgando, del culo y/o el coño de una persona que amas, y quiero que recuerdes a tu viejo amigo Kevo cuando suceda."
 
 # game/code/d16/d16s04.rpy:250
 translate spanish d16s04_7c3a755d:
@@ -634,7 +634,7 @@ translate spanish d16s04_9c47bf8b:
 translate spanish d16s04_a9dde11e:
 
     # kb "My dude, I don't know what you're talking about. But I got a notification from FL a couple of days back saying that they released a new thing. That new thing was the Gold Star stuff."
-    kb "Mi amigo, no sé de qué estás hablando. Pero recibí una notificación de FL hace un par de días diciendo que lanzaron algo nuevo. Esa cosa nueva era el material Estrella Dorada."
+    kb "Mi amigo, no sé de qué estás hablando. Pero recibí una notificación del Localizador de Fetiches hace un par de días diciendo que lanzaron algo nuevo. Esa cosa nueva era el material Estrella Dorada."
 
 # game/code/d16/d16s04.rpy:304
 translate spanish d16s04_5e2a19bc:
@@ -736,7 +736,7 @@ translate spanish d16s04_5693a819:
 translate spanish d16s04_99428ff6:
 
     # kb "Yeah, it's just your usual gamify stuff. Pretty smart, IMO."
-    kb "Sí, son solo tus cosas habituales de gamificación. Bastante inteligente, en mi opinión."
+    kb "Sí, es la típica gamificación. Bastante inteligente, en mi opinión."
 
 # game/code/d16/d16s04.rpy:351
 translate spanish d16s04_694ebda1:
@@ -760,7 +760,7 @@ translate spanish d16s04_cb724e06:
 translate spanish d16s04_637b7c7b:
 
     # mct "FL told me that I can use the Gold Stars to skip a challenge, but maybe that has changed now?"
-    mct "FL me dijo que puedo usar las estrellas doradas para saltarme un desafío, pero ¿quizás eso haya cambiado ahora?"
+    mct "El Localizador de Fetiches me dijo que puedo usar las estrellas doradas para saltarme un desafío, pero ¿quizás eso haya cambiado ahora?"
 
 # game/code/d16/d16s04.rpy:360
 translate spanish d16s04_92e0675f:
@@ -922,7 +922,7 @@ translate spanish d16s04_f1376ad1:
 translate spanish d16s04_c6fdd931:
 
     # mc "I failed a thing from FL. This was my punishment."
-    mc "Fallé un reto de FL. Este era mi castigo."
+    mc "Fallé un reto del Localizador de Fetiches. Este era mi castigo."
 
 # game/code/d16/d16s04.rpy:457
 translate spanish d16s04_a72857c3:
