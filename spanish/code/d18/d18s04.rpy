@@ -106,7 +106,7 @@ translate spanish d18s04_575e1f3d:
 translate spanish d18s04_66b728af:
 
     # mc "No \"but\". Just trust me."
-    mc "Sin \"pero\". Solo confía en mi."
+    mc "Sin \"pero\". Sólo confía en mi."
 
 # game/code/d18/d18s04.rpy:150
 translate spanish d18s04_7971f4be:
@@ -946,7 +946,7 @@ translate spanish d18s04_3f017285:
 translate spanish d18s04_8fa2f449:
 
     # aw "I just... I want to be mad at you, but I'm so tired and spent, and just..."
-    aw "Yo solo... quiero enojarme contigo, pero estoy tan cansada y gastada, y solo..."
+    aw "Yo sólo... Quiero enojarme contigo, pero estoy tan cansada y gastada, y sólo..."
 
 # game/code/d18/d18s04.rpy:903
 translate spanish d18s04_a96466f7:
@@ -958,7 +958,7 @@ translate spanish d18s04_a96466f7:
 translate spanish d18s04_ee39fc95:
 
     # aw "If there's something going on, just talk to me. We'll figure it out together."
-    aw "Si está pasando algo, solo háblame. Lo resolveremos juntas."
+    aw "Si pasa algo, habla conmigo. Lo resolveremos juntas."
 
 # game/code/d18/d18s04.rpy:907
 translate spanish d18s04_c56934e8:
