@@ -16,7 +16,7 @@ translate spanish d17s08_382fea90:
 translate spanish d17s08_7aa1ce4b:
 
     # lc "I hope that doesn't upset you too much. We'll get there, I'm just not sure-"
-    lc "Espero que eso no te moleste demasiado. Llegaremos allí, solo que no estoy segura..."
+    lc "Espero que eso no te moleste demasiado. Llegaremos allí, sólo que no estoy segura..."
 
 # game/code/d17/d17s08.rpy:69
 translate spanish d17s08_8d1a0b46:
@@ -70,7 +70,7 @@ translate spanish d17s08_126a07ec:
 translate spanish d17s08_06c4f335:
 
     # lc "Okay, so the other side of voyeur is an exhibitionist. Do you think of yourself as an exhibitionist?"
-    lc "Bien, entonces el otro lado del voyeur es un exhibicionista. ¿Te consideras una exhibicionista?"
+    lc "Bien, entonces el otro lado del voyeur es un exhibicionista. ¿Te consideras un exhibicionista?"
 
 # game/code/d17/d17s08.rpy:93
 translate spanish d17s08_6c0d3478:
@@ -442,7 +442,7 @@ translate spanish d17s08_cc19cac6:
 translate spanish d17s08_ac50f58f:
 
     # mc "You sound like this isn't just a fantasy."
-    mc "Suenas como si esto no fuera solo una fantasía."
+    mc "Suenas como si esto no fuera sólo una fantasía."
 
 # game/code/d17/d17s08.rpy:270
 translate spanish d17s08_16dd4f34:
@@ -658,7 +658,7 @@ translate spanish replay_d17s08_1e0a0800:
 translate spanish replay_d17s08_6f9707dc:
 
     # sy "Damn right."
-    sy "Toda la maldita razón."
+    sy "Tienes toda la razón."
 
 # game/code/d17/d17s08.rpy:416
 translate spanish replay_d17s08_7e66a919:
@@ -676,13 +676,13 @@ translate spanish replay_d17s08_c0c2337e:
 translate spanish replay_d17s08_04478ac2:
 
     # mc "Just a little bit more..."
-    mc "Solo un poco más..."
+    mc "Sólo un poco más..."
 
 # game/code/d17/d17s08.rpy:421
 translate spanish replay_d17s08_76346d47:
 
     # sy "Only if you promise to come down my throat."
-    sy "Solo si prometes correrte en mi garganta."
+    sy "Sólo si prometes correrte en mi garganta."
 
 # game/code/d17/d17s08.rpy:423
 translate spanish replay_d17s08_33d2db8d:
@@ -700,7 +700,7 @@ translate spanish replay_d17s08_b1d2190a:
 translate spanish replay_d17s08_36552c30:
 
     # mc "Oh, fuck yes."
-    mc "Oh, joder, sí."
+    mc "Oh, mierda, sí."
 
 # game/code/d17/d17s08.rpy:431
 translate spanish replay_d17s08_1f5aa9f1:
@@ -982,7 +982,7 @@ translate spanish replay_d17s08_61f2fd92:
 translate spanish replay_d17s08_64559936:
 
     # mc "Too much time studying for finals?"
-    mc "¿Demasiado tiempo estudiando para los finales?"
+    mc "¿Demasiado tiempo estudiando para los exámenes finales?"
 
 # game/code/d17/d17s08.rpy:577
 translate spanish replay_d17s08_8e9ab5b6:
