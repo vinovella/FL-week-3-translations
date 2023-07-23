@@ -160,7 +160,7 @@ translate spanish d18s06_0993f42d:
 translate spanish d18s06_3d60548b:
 
     # sy "It isn't just turned off.{w} Fetish Locator can't turn it back on anymore."
-    sy "No solo está apagado. {w} El Localizador de fetiches ya no puede volver a encenderlo."
+    sy "No sólo está apagado. {w} El Localizador de fetiches ya no puede volver a encenderlo."
 
 # game/code/d18/d18s06.rpy:91
 translate spanish d18s06_328095f9:
@@ -304,7 +304,7 @@ translate spanish d18s06_f38de348:
 translate spanish d18s06_0e49daff:
 
     # arj "*sigh* Just pretend that it's magic."
-    arj "*suspiro* Solo pretende que es magia."
+    arj "*suspiro* Sólo pretende que es magia."
 
 # game/code/d18/d18s06.rpy:157
 translate spanish d18s06_6388a2d6:
