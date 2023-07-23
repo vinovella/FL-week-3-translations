@@ -16,7 +16,7 @@ translate spanish d18s07_284a9c53:
 translate spanish d18s07_e60d061d:
 
     # zw "You better not be doing what I think you're doing inside there!"
-    zw "¡Será mejor que no estés haciendo lo que creo que estás haciendo ahí dentro!"
+    zw "¡Será mejor que no estés haciendo lo que creo que estás haciendo ahí adentro!"
 
 # game/code/d18/d18s07.rpy:20
 translate spanish d18s07_9bf063fb:
@@ -118,7 +118,7 @@ translate spanish d18s07_350f4fdb:
 translate spanish d18s07_98237dd5:
 
     # sy "Ah, of course. Pardon."
-    sy "Ah, por supuesto. Perdón"
+    sy "Ah, por supuesto. Perdón."
 
 # game/code/d18/d18s07.rpy:89
 translate spanish d18s07_80ee20ff:
