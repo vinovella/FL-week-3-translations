@@ -10,7 +10,7 @@ translate spanish d18s11b_ext_c207e5d0:
 translate spanish d18s11b_ext_ce4be831:
 
     # "TV" "Wait a minute. After we were together, you snuck into a guy's house?"
-    "TV" "Espera un minuto. Después de que estuvimos juntos, ¿te colaste en la casa de un chico?"
+    "TV" "Espera un minuto. Después de que estuvimos juntos, ¿te metiste en la casa de un chico?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:59
 translate spanish d18s11b_ext_58246c33:
@@ -28,7 +28,7 @@ translate spanish d18s11b_ext_c8dddaa7:
 translate spanish d18s11b_ext_1c96c631:
 
     # mct "Just doing what the Judge asked me to do. I'm going to break that slut over my dick."
-    mct "Sólo hago lo que la Jueza me pidió. Voy a romper esa puta sobre mi polla."
+    mct "Sólo hago lo que la Jueza me pidió. Voy a romper a esa puta sobre mi polla."
 
 # game/code/d18/extended/d18s11b_ext.rpy:64
 translate spanish d18s11b_ext_0bdd862b:
@@ -178,7 +178,7 @@ translate spanish d18s11b_ext_f4bdf781:
 translate spanish d18s11b_ext_cf41ffea:
 
     # "Male Voice" "It has. How about letting me in for a night cap?"
-    "Voz masculina" "Lo tiene. ¿Qué tal si me dejas entrar para una copa nocturna?"
+    "Voz Masculina" "Lo es. ¿Qué tal si me dejas entrar para una copa nocturna?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:118
 translate spanish d18s11b_ext_a260a60d:
@@ -190,7 +190,7 @@ translate spanish d18s11b_ext_a260a60d:
 translate spanish d18s11b_ext_ccde3962:
 
     # "Male Voice" "Then maybe just a coffee."
-    "Voz masculina" "Entonces tal vez sólo un café."
+    "Voz Masculina" "Entonces tal vez sólo un café."
 
 # game/code/d18/extended/d18s11b_ext.rpy:122
 translate spanish d18s11b_ext_8c6f0801:
@@ -202,13 +202,13 @@ translate spanish d18s11b_ext_8c6f0801:
 translate spanish d18s11b_ext_d2de97bd:
 
     # "Male Voice" "Do you have any Baileys?"
-    "Voz masculina" "¿Tienes Baileys?"
+    "Voz Masculina" "¿Tienes Baileys?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:125
 translate spanish d18s11b_ext_a75f96e3:
 
     # "Male Voice" "Maybe we could Irish up those coffees."
-    "Voz masculina" "Tal vez podríamos ir a los cafés irlandeses."
+    "Voz Masculina" "Tal vez podríamos ir a los cafés irlandeses."
 
 # game/code/d18/extended/d18s11b_ext.rpy:128
 translate spanish d18s11b_ext_d1650546:
@@ -220,13 +220,13 @@ translate spanish d18s11b_ext_d1650546:
 translate spanish d18s11b_ext_1da25ab4:
 
     # "Male Voice" "That's what I'm talking about. Why don't we skip-"
-    "Voz masculina" "De eso estoy hablando. Por qué no saltamos-"
+    "Voz Masculina" "De eso estoy hablando. Por qué no saltamos-"
 
 # game/code/d18/extended/d18s11b_ext.rpy:132
 translate spanish d18s11b_ext_d411bbb5:
 
     # "Male Voice" "Are you okay? What is it?"
-    "Voz masculina" "¿Estás bien? ¿Qué es?"
+    "Voz Masculina" "¿Estás bien? ¿Qué es?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:135
 translate spanish d18s11b_ext_1616e968:
@@ -238,7 +238,7 @@ translate spanish d18s11b_ext_1616e968:
 translate spanish d18s11b_ext_800093ff:
 
     # "Male Voice" "Who?"
-    "Voz masculina" "¿Quién?"
+    "Voz Masculina" "¿Quién?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:156
 translate spanish d18s11b_ext_25a64127:
@@ -298,7 +298,7 @@ translate spanish d18s11b_continue_9943d8e7:
 translate spanish d18s11b_continue_7aac5174:
 
     # jdg "You think so? No."
-    jdg "¿Crees que sí? No."
+    jdg "¿Tú crees? No."
 
 # game/code/d18/extended/d18s11b_ext.rpy:199
 translate spanish d18s11b_continue_11455b53:
@@ -340,7 +340,7 @@ translate spanish d18s11b_continue_4cf3b967:
 translate spanish d18s11b_continue_f3aa0072:
 
     # "Male Voice" "gghhhuuuhh..."
-    "Voz masculina" "gghhhuuuhh..."
+    "Voz Masculina" "gghhhuuuhh..."
 
 # game/code/d18/extended/d18s11b_ext.rpy:236
 translate spanish d18s11b_continue_d1ad8ccf:
@@ -364,7 +364,7 @@ translate spanish d18s11b_continue_f903ab23:
 translate spanish d18s11b_continue_54a55587:
 
     # mc "Like THE Victor Yates?"
-    mc "Como.. ¿ÉL Victor Yates?"
+    mc "Él es.. ¿ESE Victor Yates?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:243
 translate spanish d18s11b_continue_0629a197:
@@ -574,7 +574,7 @@ translate spanish d18s11b_continue_86e2aa8d:
 translate spanish d18s11b_continue_d20df7a6:
 
     # mc "Uh, oh, Vikki. She didn't say \"yet\"."
-    mc "Oh, oh, Vikki. No dijo \"todavía\"."
+    mc "Oh, oh, Vikki. Ella no dijo \"todavía\"."
 
 # game/code/d18/extended/d18s11b_ext.rpy:324
 translate spanish d18s11b_continue_a009f032:
@@ -1036,7 +1036,7 @@ translate spanish d18s11b_continue_35ab8f09:
 translate spanish d18s11b_continue_02e2537c:
 
     # jdg "He just came."
-    jdg "ÉL acaba de correrse."
+    jdg "Él acaba de correrse."
 
 # game/code/d18/extended/d18s11b_ext.rpy:603
 translate spanish d18s11b_continue_a70dae7c:
@@ -1166,5 +1166,5 @@ translate spanish strings:
 
     # game/code/d18/extended/d18s11b_ext.rpy:404
     old "Just Fuck Her Ass"
-    new "Solo fóllate su culo"
+    new "Sólo fóllate su culo"
 
