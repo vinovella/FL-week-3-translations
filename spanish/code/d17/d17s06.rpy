@@ -22,7 +22,7 @@ translate spanish d17s06_97e79c80:
 translate spanish d17s06_63d84ea6:
 
     # mct "Blah blah blah, I need a better spam filter."
-    mct "Blah blah blah, necesito un mejor filtro de spam."
+    mct "Blah, blah, blah, necesito un mejor filtro de spam."
 
 # game/code/d17/d17s06.rpy:42
 translate spanish d17s06_aa1f0924:
