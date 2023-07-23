@@ -634,529 +634,529 @@ translate turkish d20s03_55a984cf:
 translate turkish d20s03_2e71f394:
 
     # mc "Holy shit! What the fuck was that?"
-    mc "Holy shit! What the fuck was that?"
+    mc "Kahretsin! O da neydi?"
 
 # game/code/d20/d20s03.rpy:298
 translate turkish d20s03_3f831623:
 
     # cb "Did I get him?"
-    cb "Did I get him?"
+    cb "Onu yakaladım mı?"
 
 # game/code/d20/d20s03.rpy:301
 translate turkish d20s03_5593d4c1:
 
     # kb "Yeah, you got him."
-    kb "Yeah, you got him."
+    kb "Evet, onu yakaladın."
 
 # game/code/d20/d20s03.rpy:304
 translate turkish d20s03_f362e56a:
 
     # mc "Are you guys kidding me? I was legitimately fearing for my life there."
-    mc "Are you guys kidding me? I was legitimately fearing for my life there."
+    mc "Benimle dalga mı geçiyorsunuz? Oradaki hayatım için haklı olarak endişeleniyordum."
 
 # game/code/d20/d20s03.rpy:307
 translate turkish d20s03_e6c611b1:
 
     # cb "Sorry about that."
-    cb "Sorry about that."
+    cb "Bunun için üzgünüm."
 
 # game/code/d20/d20s03.rpy:310
 translate turkish d20s03_686c234c:
 
     # kb "She has a flair for the theatrical."
-    kb "She has a flair for the theatrical."
+    kb "Tiyatroya karşı bir yeteneği var."
 
 # game/code/d20/d20s03.rpy:313
 translate turkish d20s03_7f22791a:
 
     # cb "So did you from that speech."
-    cb "So did you from that speech."
+    cb "O konuşmadan sen de öyle yaptın."
 
 # game/code/d20/d20s03.rpy:316
 translate turkish d20s03_b5249d10:
 
     # kb "Got a little carried away. We are in a lecture hall after all."
-    kb "Got a little carried away. We are in a lecture hall after all."
+    kb "Kendimi biraz kaptırdım. Ne de olsa bir konferans salonundayız."
 
 # game/code/d20/d20s03.rpy:319
 translate turkish d20s03_9a536f89:
 
     # cb "Are you really that unhappy?"
-    cb "Are you really that unhappy?"
+    cb "Gerçekten o kadar mutsuz musun?"
 
 # game/code/d20/d20s03.rpy:322
 translate turkish d20s03_dc3ec4e8:
 
     # kb "Well, a little bit."
-    kb "Well, a little bit."
+    kb "Eh, biraz."
 
 # game/code/d20/d20s03.rpy:323
 translate turkish d20s03_b2efa7df:
 
     # kb "I'm not a moody person in general. Or jealous of [mcname]."
-    kb "I'm not a moody person in general. Or jealous of [mcname]."
+    kb "Genel olarak karamsar biri değilim. Ya da [mcname]'i kıskanmıyorum."
 
 # game/code/d20/d20s03.rpy:325
 translate turkish d20s03_f3697d40:
 
     # kb "But I am anxious to move on from this, and start moving on."
-    kb "But I am anxious to move on from this, and start moving on."
+    kb "Ama bundan vazgeçmek ve ilerlemeye başlamak için sabırsızlanıyorum."
 
 # game/code/d20/d20s03.rpy:327
 translate turkish d20s03_3e91d0a0:
 
     # cb "I know you're busy and I wanted to call you over and make an announcement."
-    cb "I know you're busy and I wanted to call you over and make an announcement."
+    cb "Meşgul olduğunu biliyorum ve seni arayıp bir duyuru yapmak istedim."
 
 # game/code/d20/d20s03.rpy:330
 translate turkish d20s03_517d6922:
 
     # kb "I'll wait outside."
-    kb "I'll wait outside."
+    kb "Ben dışarıda bekleyeceğim."
 
 # game/code/d20/d20s03.rpy:332
 translate turkish d20s03_a3b3c69e:
 
     # mc "What? Why?"
-    mc "What? Why?"
+    mc "Ne? Neden?"
 
 # game/code/d20/d20s03.rpy:335
 translate turkish d20s03_6478483d:
 
     # cb "No, stay here."
-    cb "No, stay here."
+    cb "Hayır, burada kal."
 
 # game/code/d20/d20s03.rpy:337
 translate turkish d20s03_5fde2d50:
 
     # cb "I want to have a child."
-    cb "I want to have a child."
+    cb "Bir çocuğum olsun istiyorum."
 
 # game/code/d20/d20s03.rpy:340
 translate turkish d20s03_e4a1888c:
 
     # kb "Tell him."
-    kb "Tell him."
+    kb "Söyle ona."
 
 # game/code/d20/d20s03.rpy:343
 translate turkish d20s03_e11ffd84:
 
     # cb "With you, [mcname]."
-    cb "With you, [mcname]."
+    cb "Seninle, [mcname]."
 
 # game/code/d20/d20s03.rpy:345
 translate turkish d20s03_42bd829d:
 
     # mc "Wait, what?"
-    mc "Wait, what?"
+    mc "Bekle, ne?"
 
 # game/code/d20/d20s03.rpy:348
 translate turkish d20s03_6328cd53:
 
     # cb "Kevin and I decided. We want you to be the father."
-    cb "Kevin and I decided. We want you to be the father."
+    cb "Kevin ve ben karar verdik. Senin baba olmanı istiyoruz"
 
 # game/code/d20/d20s03.rpy:351
 translate turkish d20s03_e2e930a6:
 
     # mc "Huh? What does Kevin think about this?"
-    mc "Huh? What does Kevin think about this?"
+    mc "Ha? Kevin bu konuda ne düşünüyor?"
 
 # game/code/d20/d20s03.rpy:354
 translate turkish d20s03_b1a0b4e2:
 
     # cb "It was Kevin's idea. Don't worry about taking any responsibility, we're going to raise it like it's ours."
-    cb "It was Kevin's idea. Don't worry about taking any responsibility, we're going to raise it like it's ours."
+    cb "Kevin'in fikriydi. Herhangi bir sorumluluk alma konusunda endişelenmeyin, onu bizimmiş gibi büyüteceğiz."
 
 # game/code/d20/d20s03.rpy:355
 translate turkish d20s03_7e5d939a:
 
     # cb "So? What do you think?"
-    cb "So? What do you think?"
+    cb "Ee? Ne düşünüyorsun?"
 
 # game/code/d20/d20s03.rpy:357
 translate turkish d20s03_ef6bcf87:
 
     # mc "But why? Would I ever see this kid if he was born?"
-    mc "But why? Would I ever see this kid if he was born?"
+    mc "Ama neden? Doğsa bu çocuğu bir daha görebilecek miyim?"
 
 # game/code/d20/d20s03.rpy:360
 translate turkish d20s03_69e92fe9:
 
     # cb "Do you want to?"
-    cb "Do you want to?"
+    cb "Sen istiyor musun?"
 
 # game/code/d20/d20s03.rpy:363
 translate turkish d20s03_7a6d41cc:
 
     # mc "Well, yeah."
-    mc "Well, yeah."
+    mc "Şey, evet."
 
 # game/code/d20/d20s03.rpy:366
 translate turkish d20s03_a14a8eb5:
 
     # cb "So we'll arrange a play-date."
-    cb "So we'll arrange a play-date."
+    cb "Öyleyse bir oyun tarihi ayarlayacağız."
 
 # game/code/d20/d20s03.rpy:367
 translate turkish d20s03_7207ea86:
 
     # cb "It wasn't just Kevin who matured. I'm discovering things I like all the time."
-    cb "It wasn't just Kevin who matured. I'm discovering things I like all the time."
+    cb "Olgunlaşan sadece Kevin değildi. Her zaman sevdiğim şeyleri keşfediyorum."
 
 # game/code/d20/d20s03.rpy:370
 translate turkish d20s03_773ac3b2:
 
     # cb "I wasn't sure about impregnation, but the way he talked about it..."
-    cb "I wasn't sure about impregnation, but the way he talked about it..."
+    cb "Emprenye konusunda emin değildim ama onun hakkında konuşma şekli..."
 
 # game/code/d20/d20s03.rpy:371
 translate turkish d20s03_b82c7d19:
 
     # cb "A bull knocking up the wife of a cuckold, how it's the ultimate thrill for him."
-    cb "A bull knocking up the wife of a cuckold, how it's the ultimate thrill for him."
+    cb "Bir boynuzlunun karısını hamile bırakan bir boğa, onun için nasıl da büyük bir heyecan."
 
 # game/code/d20/d20s03.rpy:373
 translate turkish d20s03_927e2714:
 
     # cb "And when I think about it, it feels so good to be filled up."
-    cb "And when I think about it, it feels so good to be filled up."
+    cb "Ve bunun hakkında düşündüğümde, doldurulmak çok iyi hissettiriyor."
 
 # game/code/d20/d20s03.rpy:374
 translate turkish d20s03_711975da:
 
     # cb "I can't think of a better person for the job."
-    cb "I can't think of a better person for the job."
+    cb "Bu iş için daha iyi bir insan düşünemiyorum."
 
 # game/code/d20/d20s03.rpy:377
 translate turkish d20s03_01f4b8e5:
 
     # mc "Kevin, you hearing this, man? This is crazy."
-    mc "Kevin, you hearing this, man? This is crazy."
+    mc "Kevin, bunu duyuyor musun dostum? Bu delilik."
 
 # game/code/d20/d20s03.rpy:380
 translate turkish d20s03_315d4781:
 
     # kb "Come on, bro. Say yes!"
-    kb "Come on, bro. Say yes!"
+    kb "Hadi ama, kardeşim. Evet de!"
 
 # game/code/d20/d20s03.rpy:381
 translate turkish d20s03_bb0360f9:
 
     # kb "Think of it as a parting gift!"
-    kb "Think of it as a parting gift!"
+    kb "Bunu bir veda hediyesi olarak düşün!"
 
 # game/code/d20/d20s03.rpy:384
 translate turkish d20s03_15f26458:
 
     # mc "No worries, Kev! I totally know what you mean by that."
-    mc "No worries, Kev! I totally know what you mean by that."
+    mc "Merak etme Kev! Bununla ne demek istediğini çok iyi anlıyorum."
 
 # game/code/d20/d20s03.rpy:385
 translate turkish d20s03_d2132efb:
 
     # mc "Chloe, what are you getting out of this?"
-    mc "Chloe, what are you getting out of this?"
+    mc "Chloe, bundan ne çıkarıyorsun?"
 
 # game/code/d20/d20s03.rpy:388
 translate turkish d20s03_7103565e:
 
     # cb "Besides a baby?{w} A nice time."
-    cb "Besides a baby?{w} A nice time."
+    cb "Bebek dışında mı?{w} Güzel bir zaman."
 
 # game/code/d20/d20s03.rpy:390
 translate turkish d20s03_48f18f7c:
 
     # cb "Kevin's been too busy with studying to have sex. And I've been busy too."
-    cb "Kevin's been too busy with studying to have sex. And I've been busy too."
+    cb "Kevin seks yapamayacak kadar ders çalışmakla meşgul. Ve ben de meşguldüm."
 
 # game/code/d20/d20s03.rpy:393
 translate turkish d20s03_42521367:
 
     # cb "I can't wait anymore. I want you to put a baby in me."
-    cb "I can't wait anymore. I want you to put a baby in me."
+    cb "Daha fazla bekleyemem. Bana bir bebek koymanı istiyorum."
 
 # game/code/d20/d20s03.rpy:394
 translate turkish d20s03_f1a54659:
 
     # cb "Do you want some time to think about it?"
-    cb "Do you want some time to think about it?"
+    cb "Bunu düşünmek için biraz zaman ister misin?"
 
 # game/code/d20/d20s03.rpy:404
 translate turkish d20s03_498e69de:
 
     # cb "Really?"
-    cb "Really?"
+    cb "Gerçekten mi?"
 
 # game/code/d20/d20s03.rpy:407
 translate turkish d20s03_c90ce615:
 
     # mc "Really. I'm sorry. I gotta go."
-    mc "Really. I'm sorry. I gotta go."
+    mc "Gerçekten. Üzgünüm. Gitmem gerek."
 
 # game/code/d20/d20s03.rpy:408
 translate turkish d20s03_43309f22:
 
     # mc "I'll see you at the exam."
-    mc "I'll see you at the exam."
+    mc "Sınavda görüşürüz."
 
 # game/code/d20/d20s03.rpy:418
 translate turkish d20s03_continue_498e69de:
 
     # cb "Really?"
-    cb "Really?"
+    cb "Gerçekten mi?"
 
 # game/code/d20/d20s03.rpy:421
 translate turkish d20s03_continue_a4ea137b:
 
     # mc "Really."
-    mc "Really."
+    mc "Gerçekten."
 
 # game/code/d20/d20s03.rpy:424
 translate turkish d20s03_continue_c4fa14ce:
 
     # kb "Fuck yeah! Let's get started then."
-    kb "Fuck yeah! Let's get started then."
+    kb "Siktir evet! Hadi başlayalım o zaman."
 
 # game/code/d20/d20s03.rpy:426
 translate turkish d20s03_continue_bd72ad49:
 
     # mc "Aren't you going to sit and watch?"
-    mc "Aren't you going to sit and watch?"
+    mc "Oturup izlemeyecek misin?"
 
 # game/code/d20/d20s03.rpy:429
 translate turkish d20s03_continue_9365438e:
 
     # kb "It's up to you."
-    kb "It's up to you."
+    kb "O size kalmış."
 
 # game/code/d20/d20s03.rpy:435
 translate turkish d20s03_continue_3dd3cbf7:
 
     # cb "I figure, since we're all here, we might as well do it like the first time. Kevin watching me as I get impregnated."
-    cb "I figure, since we're all here, we might as well do it like the first time. Kevin watching me as I get impregnated."
+    cb "Hepimiz burada olduğumuza göre, bunu ilk seferki gibi yapsak iyi olur. Kevin hamile kalırken beni izliyor."
 
 # game/code/d20/d20s03.rpy:439
 translate turkish d20s03_continue_80d981a3:
 
     # cb "What's the matter? What are you waiting for?"
-    cb "What's the matter? What are you waiting for?"
+    cb "Sorun nedir? Neyi bekliyorsun?"
 
 # game/code/d20/d20s03.rpy:442
 translate turkish d20s03_continue_f13e7946:
 
     # mc "I don't want to ruin your relationship."
-    mc "I don't want to ruin your relationship."
+    mc "İlişkinizi mahvetmek istemiyorum."
 
 # game/code/d20/d20s03.rpy:443
 translate turkish d20s03_continue_82a535be:
 
     # mc "This is super fucked up."
-    mc "This is super fucked up."
+    mc "Bu çok berbat.."
 
 # game/code/d20/d20s03.rpy:446
 translate turkish d20s03_continue_de3b1664:
 
     # kb "Don't worry about it, man!"
-    kb "Don't worry about it, man!"
+    kb "Merak etme dostum!"
 
 # game/code/d20/d20s03.rpy:447
 translate turkish d20s03_continue_2ccaa55c:
 
     # kb "I like fucked up!"
-    kb "I like fucked up!"
+    kb "Ben berbat gibi!"
 
 # game/code/d20/d20s03.rpy:448
 translate turkish d20s03_continue_37e2ddef:
 
     # kb "Don't you remember fucking her in the ass before?"
-    kb "Don't you remember fucking her in the ass before?"
+    kb "Daha önce onu kıçından becerdiğini hatırlamıyor musun?"
 
 # game/code/d20/d20s03.rpy:452
 translate turkish d20s03_continue_826fb9c5:
 
     # mc "How could I forget?"
-    mc "How could I forget?"
+    mc "Nasıl unutabilirim?"
 
 # game/code/d20/d20s03.rpy:466
 translate turkish d20s03_continue_f7f0c998:
 
     # cb "Loving the conversation, guys, but we better get this done."
-    cb "Loving the conversation, guys, but we better get this done."
+    cb "Sohbeti seviyorum çocuklar, ama bu işi bitirsek iyi olur."
 
 # game/code/d20/d20s03.rpy:469
 translate turkish d20s03_continue_28e189c8:
 
     # kb "Yeah, You are right."
-    kb "Yeah, You are right."
+    kb "Evet, haklısın."
 
 # game/code/d20/d20s03.rpy:506
 translate turkish d20s03_continue_c2ea84bb:
 
     # mc "Oh shit!"
-    mc "Oh shit!"
+    mc "Ah siktir!"
 
 # game/code/d20/d20s03.rpy:514
 translate turkish d20s03_continue_6b285331:
 
     # mc "Keep going."
-    mc "Keep going."
+    mc "Devam et."
 
 # game/code/d20/d20s03.rpy:529
 translate turkish d20s03_continue_a67d98e8:
 
     # mc "How much time do we have?"
-    mc "How much time do we have?"
+    mc "Ne kadar zamanımız var?"
 
 # game/code/d20/d20s03.rpy:532
 translate turkish d20s03_continue_e567f1e5:
 
     # kb "Only an hour."
-    kb "Only an hour."
+    kb "Yalnızca bir saat."
 
 # game/code/d20/d20s03.rpy:535
 translate turkish d20s03_continue_cfa6c1ed:
 
     # cb "Looks like I'm going to have to work harder to make you cum."
-    cb "Looks like I'm going to have to work harder to make you cum."
+    cb "Senin boşalmanı sağlamak için daha çok çalışmam gerekecek gibi görünüyor."
 
 # game/code/d20/d20s03.rpy:550
 translate turkish d20s03_continue_aa5f12c3:
 
     # cb "Fuck me like my brother fucks me."
-    cb "Fuck me like my brother fucks me."
+    cb "Kardeşimin beni siktiği gibi sik beni."
 
 # game/code/d20/d20s03.rpy:552
 translate turkish d20s03_continue_2f55f395:
 
     # cb "Fuck me like my boyfriend fucks me."
-    cb "Fuck me like my boyfriend fucks me."
+    cb "Erkek arkadaşımın beni siktiği gibi sik beni."
 
 # game/code/d20/d20s03.rpy:553
 translate turkish d20s03_continue_989c6cb7:
 
     # cb "One last time."
-    cb "One last time."
+    cb "Son bir kez."
 
 # game/code/d20/d20s03.rpy:557
 translate turkish d20s03_continue_9ee018df:
 
     # mct "First time we had sex, I fucked her in the ass with Kevin watching, and now, I end up impregnating her?"
-    mct "First time we had sex, I fucked her in the ass with Kevin watching, and now, I end up impregnating her?"
+    mct "İlk kez seviştiğimizde Kevin izlerken onu kıçından becerdim ve şimdi onu hamile mi bırakıyorum?"
 
 # game/code/d20/d20s03.rpy:558
 translate turkish d20s03_continue_0336eadd:
 
     # mct "This is so incredibly fucked up."
-    mct "This is so incredibly fucked up."
+    mct "Bu inanılmaz derecede berbat."
 
 # game/code/d20/d20s03.rpy:561
 translate turkish d20s03_continue_45b852fc:
 
     # mct "But I have to be understanding."
-    mct "But I have to be understanding."
+    mct "Ama anlayışlı olmalıyım."
 
 # game/code/d20/d20s03.rpy:562
 translate turkish d20s03_continue_fba07222:
 
     # mct "For my friend."
-    mct "For my friend."
+    mct "Arkadaşım için."
 
 # game/code/d20/d20s03.rpy:578
 translate turkish d20s03_continue_cefc424b:
 
     # mc "That feels so good."
-    mc "That feels so good."
+    mc "Bu çok iyi hissettiriyor."
 
 # game/code/d20/d20s03.rpy:585
 translate turkish d20s03_continue_55c3a94b:
 
     # cb "Fuck me, just like that."
-    cb "Fuck me, just like that."
+    cb "Beni becer, aynen böyle."
 
 # game/code/d20/d20s03.rpy:588
 translate turkish d20s03_continue_93989da8:
 
     # cb "Go all the way inside."
-    cb "Go all the way inside."
+    cb "Sonuna kadar içeri gir."
 
 # game/code/d20/d20s03.rpy:604
 translate turkish d20s03_continue_4a3c1415:
 
     # mc "Do you like how I fuck you?"
-    mc "Do you like how I fuck you?"
+    mc "Seni nasıl becerdiğimi beğendin mi?"
 
 # game/code/d20/d20s03.rpy:607
 translate turkish d20s03_continue_753aef48:
 
     # cb "Yes, yes."
-    cb "Yes, yes."
+    cb "Evet, evet."
 
 # game/code/d20/d20s03.rpy:618
 translate turkish d20s03_continue_da7c5b2c:
 
     # cb "I'm coming!"
-    cb "I'm coming!"
+    cb "Geliyorum!"
 
 # game/code/d20/d20s03.rpy:627
 translate turkish d20s03_continue_bc20e9e9:
 
     # cb "Hold on one second, I need to catch my breath."
-    cb "Hold on one second, I need to catch my breath."
+    cb "Bir saniye bekleyin, nefes almam gerekiyor."
 
 # game/code/d20/d20s03.rpy:629
 translate turkish d20s03_continue_2731bd11:
 
     # mct "Holy shit! I almost came."
-    mct "Holy shit! I almost came."
+    mct "Kahretsin! Neredeyse geliyordum."
 
 # game/code/d20/d20s03.rpy:632
 translate turkish d20s03_continue_1e9c8598:
 
     # cb "Okay, let's go on."
-    cb "Okay, let's go on."
+    cb "Tamam, devam edelim."
 
 # game/code/d20/d20s03.rpy:641
 translate turkish d20s03_continue_d1ca32b1:
 
     # mc "You little slut."
-    mc "You little slut."
+    mc "Seni küçük sürtük."
 
 # game/code/d20/d20s03.rpy:642
 translate turkish d20s03_continue_f86ba51c:
 
     # mc "Getting impregnated with someone else's cum."
-    mc "Getting impregnated with someone else's cum."
+    mc "Başkasının dölüyle hamile kalmak."
 
 # game/code/d20/d20s03.rpy:649
 translate turkish d20s03_continue_467b0828:
 
     # mc "I'm going to coat your walls with the sperm you're craving."
-    mc "I'm going to coat your walls with the sperm you're craving."
+    mc "Özlediğin spermle duvarlarını kaplayacağım.."
 
 # game/code/d20/d20s03.rpy:652
 translate turkish d20s03_continue_9160cad3:
 
     # cb "Let it all out!"
-    cb "Let it all out!"
+    cb "Bırak her şeyi!"
 
 # game/code/d20/d20s03.rpy:653
 translate turkish d20s03_continue_446cc46c:
 
     # cb "Put a baby in me."
-    cb "Put a baby in me."
+    cb "İçime bir bebek koy."
 
 # game/code/d20/d20s03.rpy:656
 translate turkish d20s03_continue_a940ccd1:
 
     # cb "Breed me."
-    cb "Breed me."
+    cb "Beni doğur."
 
 # game/code/d20/d20s03.rpy:657
 translate turkish d20s03_continue_1cff1d47:
 
     # cb "It's all yours."
-    cb "It's all yours."
+    cb "Hepsi senin."
 
 # game/code/d20/d20s03.rpy:666
 translate turkish d20s03_continue_d15e9c67:
@@ -1168,127 +1168,127 @@ translate turkish d20s03_continue_d15e9c67:
 translate turkish d20s03_continue_51fbe59c:
 
     # mct "I'm coming so hard!"
-    mct "I'm coming so hard!"
+    mct "Çok sert geliyorum!"
 
 # game/code/d20/d20s03.rpy:674
 translate turkish d20s03_continue_bb86bdb9:
 
     # kb "This was amazing."
-    kb "This was amazing."
+    kb "Bu harikaydı."
 
 # game/code/d20/d20s03.rpy:676
 translate turkish d20s03_continue_24e0339a:
 
     # cb "I'm so happy."
-    cb "I'm so happy."
+    cb "Çok mutluyum."
 
 # game/code/d20/d20s03.rpy:678
 translate turkish d20s03_continue_a5354688:
 
     # mct "That should be enough to impregnate her."
-    mct "That should be enough to impregnate her."
+    mct "Bu onu hamile bırakmak için yeterli olmalı."
 
 # game/code/d20/d20s03.rpy:685
 translate turkish d20s03_continue_fca53e85:
 
     # cb "You're sucking the semen out of my recently inseminated hole..."
-    cb "You're sucking the semen out of my recently inseminated hole..."
+    cb "Yakın zamanda döllenen deliğimden meni emiyorsun..."
 
 # game/code/d20/d20s03.rpy:686
 translate turkish d20s03_continue_e809dec1:
 
     # cb "Licking so thoroughly..."
-    cb "Licking so thoroughly..."
+    cb "Çok iyi yala..."
 
 # game/code/d20/d20s03.rpy:688
 translate turkish d20s03_continue_aef97dbb:
 
     # cb "It's leaking out..."
-    cb "It's leaking out..."
+    cb "Dışarı sızıyor..."
 
 # game/code/d20/d20s03.rpy:690
 translate turkish d20s03_continue_aba72ac2:
 
     # cb "Get all of it."
-    cb "Get all of it."
+    cb "Hepsini al."
 
 # game/code/d20/d20s03.rpy:704
 translate turkish d20s03_continue_ad09f674:
 
     # kb "I don't know how to repay you for all this. [mcname]. Thank you for everything."
-    kb "I don't know how to repay you for all this. [mcname]. Thank you for everything."
+    kb "Bütün bunları sana nasıl ödeyeceğimi bilmiyorum. [mcname]. Her şey için teşekkürler."
 
 # game/code/d20/d20s03.rpy:707
 translate turkish d20s03_continue_d2cec35b:
 
     # cb "Thank you, [mcname]... maybe we'll see each other again."
-    cb "Thank you, [mcname]... maybe we'll see each other again."
+    cb "Teşekkür ederim, [mcname]...belki tekrar görüşürüz."
 
 # game/code/d20/d20s03.rpy:710
 translate turkish d20s03_continue_a3ce470e:
 
     # mc "I'm happy to help."
-    mc "I'm happy to help."
+    mc "Yardım etmekten mutluluk duyarım."
 
 # game/code/d20/d20s03.rpy:713
 translate turkish d20s03_continue_c37675ca:
 
     # kb "So have we decided where we're going?"
-    kb "So have we decided where we're going?"
+    kb "Peki nereye gideceğimize karar verdik mi?"
 
 # game/code/d20/d20s03.rpy:715
 translate turkish d20s03_continue_c5c88398:
 
     # mc "Going? Going where?"
-    mc "Going? Going where?"
+    mc "Gidiyor musun? Nereye gidiyorsun?"
 
 # game/code/d20/d20s03.rpy:716
 translate turkish d20s03_continue_ef07d6ca:
 
     # kb "I told you, we're going to elope together. Anywhere not here."
-    kb "I told you, we're going to elope together. Anywhere not here."
+    kb "Sana söyledim, birlikte kaçacağız. Burada olmayan herhangi bir yer."
 
 # game/code/d20/d20s03.rpy:719
 translate turkish d20s03_continue_bb3ca3ae:
 
     # mc "We need to take our exams though."
-    mc "We need to take our exams though."
+    mc "Yine de sınavlarımıza girmemiz gerekiyor."
 
 # game/code/d20/d20s03.rpy:720
 translate turkish d20s03_continue_d99f856b:
 
     # mc "What time is it?"
-    mc "What time is it?"
+    mc "Saat kaç?"
 
 # game/code/d20/d20s03.rpy:723
 translate turkish d20s03_continue_2c64e823:
 
     # kb "Almost one."
-    kb "Almost one."
+    kb "Neredeyse bir."
 
 # game/code/d20/d20s03.rpy:725
 translate turkish d20s03_continue_81b12c09:
 
     # mc "Oh shit, we need to get going. Put your clothes on, and let's go."
-    mc "Oh shit, we need to get going. Put your clothes on, and let's go."
+    mc "Kahretsin, gitmemiz gerek. Kıyafetlerini giy ve gidelim."
 
 # game/code/d20/d20s03.rpy:728
 translate turkish d20s03_continue_aed8b1b1:
 
     # kb "Wait a moment. Let's take a picture."
-    kb "Wait a moment. Let's take a picture."
+    kb "Bir dakika. Haydi fotoğraf çekelim."
 
 translate turkish strings:
 
     # game/code/d20/d20s03.rpy:46
     old "Some time later\nAt the auditorium"
-    new "Some time later\nAt the auditorium"
+    new "Bir süre sonra\Noditoryumda"
 
     # game/code/d20/d20s03.rpy:395
     old "Let's do it!"
-    new "Let's do it!"
+    new "Hadi yapalım!"
 
     # game/code/d20/d20s03.rpy:395
     old "I thought about it. The answer is no."
-    new "I thought about it. The answer is no."
+    new "Hakkında düşündüm. Cevap hayır."
 
