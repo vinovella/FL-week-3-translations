@@ -46,7 +46,7 @@ translate spanish d17s02_374e2fbf:
 translate spanish d17s02_03c5ef27:
 
     # mc "Sure be there in 30ish"
-    mc "Seguro, estaré allí en 30 minutos"
+    mc "Seguro, estaré allí en 30 minutos."
 
 # game/code/d17/d17s02.rpy:78
 translate spanish d17s02_be991112:
@@ -94,7 +94,7 @@ translate spanish replay_d17s02_5db09cbc:
 translate spanish replay_d17s02_e46105de:
 
     # vw "Oh, I'm so sorry. It's just that—"
-    vw "Lo siento mucho. Es solo que-"
+    vw "Lo siento mucho. Es sólo que..."
 
 # game/code/d17/d17s02.rpy:127
 translate spanish replay_d17s02_155a2f91:
@@ -172,13 +172,13 @@ translate spanish replay_d17s02_23098fc0:
 translate spanish replay_d17s02_7d10f966:
 
     # mc "Well, no need to be so dramatic.{w} She just wanted me there."
-    mc "Bueno, no hay necesidad de ser tan dramática. {w} Ella solo me quiere allí."
+    mc "Bueno, no hay necesidad de ser tan dramática. {w} Ella sólo me quiere allí."
 
 # game/code/d17/d17s02.rpy:157
 translate spanish replay_d17s02_f95fb9ae:
 
     # vw "Oh, that's actually great! You'll be able to help her listen to me and mediate."
-    vw "¡Oh, eso es realmente genial! Podrás ayudarla a escucharme y mediar."
+    vw "¡Eso es genial! Podrás ayudarla a que me escuche y actuar de mediador."
 
 # game/code/d17/d17s02.rpy:159
 translate spanish replay_d17s02_c76dbc9c:
@@ -208,7 +208,7 @@ translate spanish replay_d17s02_751f8ae9:
 translate spanish replay_d17s02_4f3474da:
 
     # vw "Any time. Just let me know when and where and I'll be there."
-    vw "En cualquier momento. Solo avísame cuándo y dónde y allí estaré."
+    vw "A cualquier hora. Avísame cuándo y dónde y allí estaré."
 
 # game/code/d17/d17s02.rpy:169
 translate spanish replay_d17s02_7158eb1c:
@@ -238,7 +238,7 @@ translate spanish replay_d17s02_4fa6b770:
 translate spanish replay_d17s02_f5bd4db7:
 
     # mc "Be careful. You're only going to get one chance at this."
-    mc "Ten cuidado. Solo tendrás una oportunidad para esto."
+    mc "Ten cuidado. Sólo tendrás una oportunidad para esto."
 
 # game/code/d17/d17s02.rpy:187
 translate spanish replay_d17s02_9af9da82:
@@ -292,7 +292,7 @@ translate spanish replay_d17s02_b6eccd10:
 translate spanish replay_d17s02_53ba7708:
 
     # mc "Well it's not submi—"
-    mc "Bueno, no es sumisión"
+    mc "Bueno, no es sumisión."
 
 # game/code/d17/d17s02.rpy:209
 translate spanish replay_d17s02_c089cc68:
@@ -658,7 +658,7 @@ translate spanish d17s02_vw_cockworship_4d52808f:
 translate spanish d17s02_vw_fucking_e35203c6:
 
     # mc "I'm going to fuck you into the table, and you're going to take it. Understood?"
-    mc "Voy a follarte en la mesa, y tú vas a aceptarlo. ¿Entendido?"
+    mc "Voy a follarte en la mesa, y tú vas a disfrutarlo. ¿Entendido?"
 
 # game/code/d17/d17s02.rpy:498
 translate spanish d17s02_vw_fucking_1552c749:
@@ -736,7 +736,7 @@ translate spanish d17s02_vw_fucking_c61f130f:
 translate spanish d17s02_vw_fucking_65e2de22:
 
     # mc "Don't push it out. I want you to walk around all day with my cum dripping out of you."
-    mc "No lo empujes. Quiero que camines todo el día con mi semen chorreando en ti."
+    mc "No lo saques. Quiero que camines todo el día con mi semen chorreando de ti."
 
 # game/code/d17/d17s02.rpy:630
 translate spanish d17s02_vw_fucking_5dfa3cab:
