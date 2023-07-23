@@ -220,7 +220,7 @@ translate spanish d17s07_ext_ace89548:
 translate spanish d17s07_ext_99a71a50:
 
     # jf "*Sighs* It's just..."
-    jf "*Suspira* Es solo que..."
+    jf "*Suspira* Es sólo que..."
 
 # game/code/d17/extended/d17s07_ext.rpy:331
 translate spanish d17s07_ext_7f7d1aeb:
@@ -340,7 +340,7 @@ translate spanish d17s07_ext_60f741d8:
 translate spanish d17s07_ext_32bd2707:
 
     # jf "And I was fine with that... But that letter just... I don't know."
-    jf "Y estaba bien con eso... Pero esa carta solo... No lo sé."
+    jf "Y yo estaba bien con eso... Pero esa carta... ...No lo sé."
 
 # game/code/d17/extended/d17s07_ext.rpy:376
 translate spanish d17s07_ext_0105e50c:
