@@ -1340,13 +1340,13 @@ translate turkish strings:
 
     # game/code/d21/d21s01.rpy:471
     old "I don't"
-    new "I don't"
+    new "Yapmıyorum"
 
     # game/code/d21/d21s01.rpy:801
     old "Join her"
-    new "Join her"
+    new "Ona katıl"
 
     # game/code/d21/d21s01.rpy:801
     old "Don't join her."
-    new "Don't join her."
+    new "Ona katılma"
 
