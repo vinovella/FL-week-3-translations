@@ -46,7 +46,7 @@ translate spanish d15s08_295d6e58:
 translate spanish d15s08_d2b0df8c:
 
     # sy "It's not magic... it's just a Faraday cage."
-    sy "No es mágico... es solo una jaula de Faraday."
+    sy "No es mágico... es sólo una jaula de Faraday."
 
 # game/code/d15/d15s08.rpy:52
 translate spanish d15s08_4007d27d:
@@ -82,7 +82,7 @@ translate spanish d15s08_54ebe514:
 translate spanish d15s08_13410f5f:
 
     # sy "Not just us here, I mean. The whole world is running out of the color blue."
-    sy "No solo nosotros aquí, quiero decir. El mundo entero se está quedando sin el color azul."
+    sy "No sólo nosotros aquí, quiero decir. El mundo entero se está quedando sin el color azul."
 
 # game/code/d15/d15s08.rpy:68
 translate spanish d15s08_3299ddcf:
@@ -106,7 +106,7 @@ translate spanish d15s08_1297c740:
 translate spanish d15s08_89ee06c8:
 
     # sy "The business of saving the world from the horrors of Fetish Locator?"
-    sy "¿El negocio de salvar al mundo de los horrores del Localizador de Fetiche?"
+    sy "¿El negocio de salvar al mundo de los horrores del Localizador de Fetiches?"
 
 # game/code/d15/d15s08.rpy:80
 translate spanish d15s08_01090978:
@@ -130,7 +130,7 @@ translate spanish d15s08_3df59673:
 translate spanish d15s08_d10ed000:
 
     # hr "I'm working on a headache.{w}.. but I've also provided these girls with everything I know about Fetish Locator."
-    hr "Estoy trabajando en un dolor de cabeza. {w}... pero también les he proporcionado a estas chicas todo lo que sé sobre el Localizador de Fetiche."
+    hr "Estoy trabajando en un dolor de cabeza. {w}... pero también les he proporcionado a estas chicas todo lo que sé sobre el Localizador de Fetiches."
 
 # game/code/d15/d15s08.rpy:92
 translate spanish d15s08_501673eb:
@@ -232,7 +232,7 @@ translate spanish d15s08_a5914113:
 translate spanish d15s08_58dfa537:
 
     # mc "Okay, Angels! Let's recap. Fetish Locator should have a physical server and we're going to find it."
-    mc "¡Bien, Ángeles! Recapitulemos. El Localizador de Fetiche debería tener un servidor físico y lo vamos a encontrar."
+    mc "¡Bien, Ángeles! Recapitulemos. El Localizador de Fetiches debería tener un servidor físico y lo vamos a encontrar."
 
 # game/code/d15/d15s08.rpy:137
 translate spanish d15s08_321e912e:
@@ -376,7 +376,7 @@ translate spanish d15s08_e5b9c1f4:
 translate spanish d15s08_5c59d086:
 
     # mc "Oh, it won't just be me."
-    mc "Oh, no seré solo yo."
+    mc "Oh, no seré sólo yo."
 
 # game/code/d15/d15s08.rpy:202
 translate spanish d15s08_49fa574e:
@@ -394,7 +394,7 @@ translate spanish d15s08_1bdfa1d0:
 translate spanish d15s08_40f873a4:
 
     # mc "I'll attract the attention of Fetish Locator, but I won't be doing that all by myself."
-    mc "Atraeré la atención del Localizador de Fetiche, pero no lo haré solo."
+    mc "Atraeré la atención del Localizador de Fetiches, pero no lo haré solo."
 
 # game/code/d15/d15s08.rpy:208
 translate spanish d15s08_1b3a03e0:
@@ -520,7 +520,7 @@ translate spanish d15s08_9fadbafb:
 translate spanish d15s08_9ed40617:
 
     # hr "Um... no. {w}There are no points in it."
-    hr "Mmm no. {w}No tiene puntos."
+    hr "Mmm no. {w}No tienes puntos."
 
 # game/code/d15/d15s08.rpy:271
 translate spanish d15s08_830c45c3:
@@ -562,7 +562,7 @@ translate spanish d15s08_cc047e58:
 translate spanish d15s08_d5929f3e:
 
     # hr "Let me know when you have that device working. Just text me \"Game on\" or something."
-    hr "Avísame cuando tengas ese dispositivo funcionando. Solo envíame un mensaje de texto \"Comienza el juego\" o algo así."
+    hr "Avísame cuando tengas ese dispositivo funcionando. Sólo envíame un mensaje de texto \"Comienza el juego\" o algo así."
 
 # game/code/d15/d15s08.rpy:290
 translate spanish d15s08_e443bcb9:
@@ -604,7 +604,7 @@ translate spanish d15s08_0c5c6be2:
 translate spanish d15s08_db1e0241:
 
     # hr "Hmm? Yeah, it's just..."
-    hr "¿Mmm? Sí, es solo..."
+    hr "¿Mmm? Sí, es sólo..."
 
 # game/code/d15/d15s08.rpy:306
 translate spanish d15s08_def0ad19:
