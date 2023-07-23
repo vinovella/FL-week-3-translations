@@ -280,7 +280,7 @@ translate turkish e08s03_f87c3f8c:
 translate turkish e08s03_d0ecae39:
 
     # mc "Flashlight isn't working."
-    mc "El feneri çalışmıyor.
+    mc "El feneri çalışmıyor."
 
 # game/code/e08/e08s03.rpy:179
 translate turkish e08s03_c78cf52f:

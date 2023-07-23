@@ -838,7 +838,7 @@ translate turkish e08s05_party_065be26e:
 translate turkish e08s05_party_cae2c8d6:
 
     # mc "Yeah. I would second her on that."
-    mc "Evet. Onu bu konuda desteklerim.
+    mc "Evet. Onu bu konuda desteklerim."
 
 # game/code/e08/e08s05.rpy:565
 translate turkish e08s05_party_c3df6899:

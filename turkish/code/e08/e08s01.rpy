@@ -844,7 +844,7 @@ translate turkish e08s01_4efa488c:
 translate turkish e08s01_c82ccabf:
 
     # mc "You want what we made yesterday? Still have some leftovers."
-    mc "Dün yaptığımızı mı istiyorsun? Hala artanlar var.""
+    mc "Dün yaptığımızı mı istiyorsun? Hala artanlar var."
 
 # game/code/e08/e08s01.rpy:409
 translate turkish e08s01_24c9bb5d:

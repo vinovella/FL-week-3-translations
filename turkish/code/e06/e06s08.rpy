@@ -862,7 +862,7 @@ translate turkish d06s08_mes_74586722:
 translate turkish d06s08_mes_ceb54a40:
 
     # mes "Lydia. [mcname]. May all your \"for better or worse\" moments be far better than worse."
-    mes "Lydia. [mcname]. Tüm "iyisiyle kötüsüyle" anlarınız, kötüden çok daha iyi olsun."
+    mes "Lydia. [mcname]. Tüm \"iyisiyle kötüsüyle\" anlarınız, kötüden çok daha iyi olsun."
 
 # game/code/e06/e06s08.rpy:713
 translate turkish d06s08_mes_4f9dd9fe:
@@ -1804,7 +1804,7 @@ translate turkish d06s08_mh_60eb33e5:
 translate turkish d06s08_mh_112329a0:
 
     # mct "Hmm..." nointeract
-    mct "Hmm..." etkileşim yok
+    mct "Hmm..." nointeract
 
 # game/code/e06/e06s08.rpy:1282
 translate turkish d06s08_mh_0aa48b5e:

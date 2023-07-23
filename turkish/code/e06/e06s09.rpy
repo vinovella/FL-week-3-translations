@@ -106,7 +106,7 @@ translate turkish e06s09_blowjob_316340f3:
 translate turkish e06s09_blowjob_c1b91c89:
 
     # mct "Fuck me! I hope she means it!"
-    mct "Siktir! Umarım ciddidir!
+    mct "Siktir! Umarım ciddidir!"
 
 # game/code/e06/e06s09.rpy:282
 translate turkish e06s09_blowjob_a504f2ae:

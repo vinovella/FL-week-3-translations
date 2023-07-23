@@ -424,7 +424,7 @@ translate turkish e06s07_2268550a:
 translate turkish e06s07_f5368a8d:
 
     # mh "Did you want to say anything about your Harem?"
-    mh "Hareminiz hakkında bir şey söylemek istediniz mi?""
+    mh "Hareminiz hakkında bir şey söylemek istediniz mi?"
 
 # game/code/e06/e06s07.rpy:211
 translate turkish e06s07_0e40d027:

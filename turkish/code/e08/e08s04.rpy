@@ -826,7 +826,7 @@ translate turkish e08s04_b55d8e66:
 translate turkish e08s04_91b90b82:
 
     # fc "That's perfectly acceptable."
-    fc ""Bu kesinlikle kabul edilebilir."
+    fc "Bu kesinlikle kabul edilebilir."
 
 # game/code/e08/e08s04.rpy:363
 translate turkish e08s04_1dc9f865:

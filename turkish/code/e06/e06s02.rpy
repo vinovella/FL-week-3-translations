@@ -1306,7 +1306,7 @@ translate turkish e06s02_sex_194b53bf:
 translate turkish e06s02_sex_573585a0:
 
     # mes "Okay... I'll try. He just feels so intense when he rails me."
-    mes "Tamam... Deneyeceğim. Bana kızdığında kendini çok gergin hissediyor.""
+    mes "Tamam... Deneyeceğim. Bana kızdığında kendini çok gergin hissediyor."
 
 # game/code/e06/e06s02.rpy:983
 translate turkish e06s02_sex_5c5f66e3:
