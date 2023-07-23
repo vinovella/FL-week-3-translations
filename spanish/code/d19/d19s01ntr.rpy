@@ -112,7 +112,7 @@ translate spanish d19s01ntr_e09392dc:
 translate spanish d19s01ntr_e00b46ee:
 
     # lc "I am your goddess; your sun & moon; your everything.{w} You are my latest creation."
-    lc "Soy tu diosa; tu sol y tu luna; tu todo. Eres mi última creación."
+    lc "Soy tu diosa; tu sol y tu luna; tu todo.{w} Eres mi creación más reciente."
 
 # game/code/d19/d19s01ntr.rpy:97
 translate spanish d19s01ntr_281e49fe:
@@ -166,7 +166,7 @@ translate spanish d19s01ntr_flashback_27c5aa17:
 translate spanish d19s01ntr_flashback_12fd0565:
 
     # lc "What can you offer me that might compare?"
-    lc "¿Qué puedes ofrecerme que pueda compararse?"
+    lc "¿Qué puedes ofrecerme que se pueda comparar?"
 
 # game/code/d19/d19s01ntr.rpy:158
 translate spanish d19s01ntr_flashback_9130db2f:
@@ -280,7 +280,7 @@ translate spanish d19s01ntr_continue_06d5d9c4:
 translate spanish d19s01ntr_continue_a4925949:
 
     # lc "It was all about blue balling and spoiled climaxes."
-    lc "Todo eran bolas azules y clímax consentidos."
+    lc "Todo se trataba de bolas azules y de orgasmos consentidos."
 
 # game/code/d19/d19s01ntr.rpy:219
 translate spanish d19s01ntr_continue_c52739e2:
@@ -292,7 +292,7 @@ translate spanish d19s01ntr_continue_c52739e2:
 translate spanish d19s01ntr_continue_30eb3135:
 
     # lc "Of course, there was always the possibility of someone like Chloe taking pity on you, but the best laid plans and all that."
-    lc "Por supuesto, siempre existía la posibilidad de que alguien como Chloe se apiadara de ti, pero los planes mejor trazados y todo eso."
+    lc "Por supuesto, siempre existía la posibilidad de que alguien como Chloe se apiadara de ti, pero los planes siempre están bien trazados y todo eso."
 
 # game/code/d19/d19s01ntr.rpy:221
 translate spanish d19s01ntr_continue_d26dc394:
@@ -316,7 +316,7 @@ translate spanish d19s01ntr_continue_12a8b69e:
 translate spanish d19s01ntr_continue_23b387eb:
 
     # lc "You are my creation. Who knew you existed a few weeks ago?"
-    lc "Eres mi creación. ¿Quién sabía que existías hace unas semanas?"
+    lc "Eres mi creación. ¿Quién sabía de tu existencia hace unas semanas?"
 
 # game/code/d19/d19s01ntr.rpy:228
 translate spanish d19s01ntr_continue_f31b9430:
@@ -436,7 +436,7 @@ translate spanish d19s01ntr_questions_abbbcf01:
 translate spanish d19s01ntr_questions_4e1aa04c:
 
     # lc "I'm sure I was, once."
-    lc "Estoy segura de que lo fui, una vez."
+    lc "Estoy segura de que alguna vez lo fui."
 
 # game/code/d19/d19s01ntr.rpy:311
 translate spanish d19s01ntr_questions_b6deb8ea:
@@ -574,7 +574,7 @@ translate spanish d19s01ntr_decision_84a30b24:
 translate spanish d19s01ntr_decision_449f68cf:
 
     # lc "You can choose to accept your life as my slave."
-    lc "Puedes elegir aceptar tu vida como mi esclavo."
+    lc "Puedes elegir aceptar vivir tu vida como mi esclavo."
 
 # game/code/d19/d19s01ntr.rpy:390
 translate spanish d19s01ntr_decision_446b3627:
@@ -592,7 +592,7 @@ translate spanish d19s01ntr_decision_c2034f06:
 translate spanish d19s01ntr_decision_335a1161:
 
     # lc "You have only one choice. You have only one option."
-    lc "Sólo tienes una opción. Sólo tienes una opción."
+    lc "Sólo tienes una opción...{w} Sólo tienes una opción."
 
 # game/code/d19/d19s01ntr.rpy:397
 translate spanish d19s01ntr_decision_ab6bd80e:
@@ -766,7 +766,7 @@ translate spanish d19s01ntr_end_82cfef52:
 translate spanish d19s01ntr_end_48e085ae:
 
     # ah "You look good without them."
-    ah "Te ves bien sin ellos."
+    ah "Te ves bien sin tu ropa."
 
 # game/code/d19/d19s01ntr.rpy:537
 translate spanish d19s01ntr_end_1a366ea7:
@@ -814,7 +814,7 @@ translate spanish d19s01ntr_end_27e6e569:
 translate spanish d19s01ntr_end_9d54982a:
 
     # ah "Woah, woah, woah. Wait.{w} Is that really the smart move here?"
-    ah "Woah, woah, woah. Espera. ¿Es realmente el movimiento inteligente aquí?"
+    ah "Woah, woah, woah. Espera.{w} ¿Es ésa realmente una decisión inteligente?"
 
 # game/code/d19/d19s01ntr.rpy:566
 translate spanish d19s01ntr_end_f30c76e8:
@@ -940,7 +940,7 @@ translate spanish d19s01ntr_end_9e5f7973:
 translate spanish d19s01ntr_end_36dfa511:
 
     # mc "And then what? We jump her and...?"
-    mc "¿Y entonces que? ¿La saltamos y...?"
+    mc "¿Y luego qué? ¿La atacamos y...?"
 
 # game/code/d19/d19s01ntr.rpy:633
 translate spanish d19s01ntr_end_bb39a2f3:
@@ -952,7 +952,7 @@ translate spanish d19s01ntr_end_bb39a2f3:
 translate spanish d19s01ntr_end_6a57e384:
 
     # tr "We don't even have to hide the body. We just put it in one of these-"
-    tr "Ni siquiera tenemos que esconder el cuerpo. Simplemente lo ponemos en uno de estos-"
+    tr "Ni siquiera tenemos que esconder el cuerpo. Simplemente lo ponemos en una de estos-"
 
 # game/code/d19/d19s01ntr.rpy:639
 translate spanish d19s01ntr_end_75461c5d:
@@ -982,7 +982,7 @@ translate spanish d19s01ntr_end_be617a96:
 translate spanish d19s01ntr_end_d0af7330:
 
     # ah "Your story would only hurt the case. Whereas Terrell and I..."
-    ah "Tu historia solo dañaría el caso. Mientras que Terrell y Yo..."
+    ah "Tu historia sólo dañaría el caso. Mientras que Terrell y Yo..."
 
 # game/code/d19/d19s01ntr.rpy:654
 translate spanish d19s01ntr_end_981f0ab8:
@@ -1036,7 +1036,7 @@ translate spanish d19s01ntr_end_a49ed4f8:
 translate spanish d19s01ntr_end_bf4d3b3b:
 
     # mct "I had no idea there was an entire dungeon in there."
-    mct "No tenía ni idea de que hubiera una mazmorra entera ahí dentro."
+    mct "No tenía ni idea de que hubiera una mazmorra entera ahí adentro."
 
 # game/code/d19/d19s01ntr.rpy:681
 translate spanish d19s01ntr_end_9503211c:
