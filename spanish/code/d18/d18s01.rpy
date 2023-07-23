@@ -10,7 +10,7 @@ translate spanish d18s01_f8914e3e:
 translate spanish d18s01_cb2813b8:
 
     # mct "Wait...{w} just a second...{w} I've never cum in a dream."
-    mct "Espera... {w} solo un segundo... {w} Nunca me he corrido en un sueño."
+    mct "Espera...{w} un segundo... Nunca me he corrido en un sueño."
 
 # game/code/d18/d18s01.rpy:28
 translate spanish d18s01_628384fd:
@@ -40,7 +40,7 @@ translate spanish d18s01_ntr_91167db8:
 translate spanish d18s01_ntr_1c9d5afd:
 
     # mct "I'm laying here asleep and she's working my fucking cock like a professional fluffer!!"
-    mct "¡¡Estoy aquí tumbado durmiendo y ella está trabajando mi puta polla como una profesional!!"
+    mct "¡¡Estoy aquí acostado durmiendo y ella está trabajando mi puta polla como una profesional!!"
 
 # game/code/d18/d18s01.rpy:51
 translate spanish d18s01_ntr_874b2b18:
@@ -100,7 +100,7 @@ translate spanish d18s01_ntr_55860a02:
 translate spanish d18s01_ntr_9f4bd64a:
 
     # mc "Booommmutherfucker."
-    mc "Hijo de puta."
+    mc "Hija de puta."
 
 # game/code/d18/d18s01.rpy:86
 translate spanish d18s01_ntr_d5dad180:
@@ -220,7 +220,7 @@ translate spanish d18s01_lc_55860a02:
 translate spanish d18s01_lc_d5dad180:
 
     # lc "I'm glad I could make you cum that hard."
-    lc "Me alegro de haberte hecho correrte tan fuerte."
+    lc "Me alegro de haber podido hacer que te corrieras tan fuerte."
 
 # game/code/d18/d18s01.rpy:171
 translate spanish d18s01_lc_881e1ab2:
@@ -310,7 +310,7 @@ translate spanish d18s01_cuddle_4fa04863:
 translate spanish d18s01_cuddle_8886eb8c:
 
     # lc "Hey lover."
-    lc "hola, amante."
+    lc "Hola, amor."
 
 # game/code/d18/d18s01.rpy:219
 translate spanish d18s01_cuddle_9a96f73c:
@@ -376,7 +376,7 @@ translate spanish d18s01_cuddle_92f0bad7:
 translate spanish d18s01_cuddle_d885ffc5:
 
     # mc "It's okay. It's just you and me."
-    mc "Está bien. Solo somos tú y yo."
+    mc "Está bien. Sólo somos tú y yo."
 
 # game/code/d18/d18s01.rpy:249
 translate spanish d18s01_cuddle_79ddccd7:
@@ -406,7 +406,7 @@ translate spanish d18s01_shower_31c22ce3:
 translate spanish d18s01_shower_7a6fa90a:
 
     # mc "You are so goddamn gorgeous..."
-    mc "Eres tan malditamente hermosa..."
+    mc "Eres tan increíblemente hermosa..."
 
 # game/code/d18/d18s01.rpy:272
 translate spanish d18s01_shower_41c5013d:
@@ -526,7 +526,7 @@ translate spanish d18s01_shower_c76d9a83:
 translate spanish d18s01_shower_a73ef0e9:
 
     # mc "Fetish Locator. Right.{w} I just need a moment."
-    mc "Localizador de Fetiches. Correcto. {w} Solo necesito un momento."
+    mc "Localizador de Fetiches. Correcto. {w} Sólo necesito un momento."
 
 # game/code/d18/d18s01.rpy:323
 translate spanish d18s01_shower_ee7cd7ab:
@@ -916,7 +916,7 @@ translate spanish d18s01_shower_ntr_e51b08ad:
 translate spanish d18s01_shower_ntr_5506ab0a:
 
     # lc "I'm not about to orgasm thinking about some girl involuntarily pegging your ass!!!"
-    lc "¡¡¡No voy a llegar al orgasmo pensando en una chica que involuntariamente te clava el culo!!!"
+    lc "¡¡¡No voy a llegar al orgasmo pensando que una chica te está follando el culo involuntariamente!!!"
 
 # game/code/d18/d18s01.rpy:485
 translate spanish d18s01_shower_ntr_9a3e5304:
@@ -1054,7 +1054,7 @@ translate spanish d18s01_shower_lc_a50f0f3f:
 translate spanish d18s01_shower_lc_ac9c1e4d:
 
     # mc "Not everyone. I think there are only a few of us. But, for someone in your position-"
-    mc "No a todo el mundo. Creo que solo somos unos pocos. Pero, para alguien en tu posición-"
+    mc "No a todo el mundo. Creo que sólo somos unos pocos. Pero, para alguien en tu posición..."
 
 # game/code/d18/d18s01.rpy:546
 translate spanish d18s01_shower_lc_07f5c28e:
@@ -1198,7 +1198,7 @@ translate spanish d18s01_shower_lc_049a339f:
 translate spanish d18s01_shower_lc_8dae5738:
 
     # lc "FUCK!{w} We even met at that Fetish Locator Party."
-    lc "¡MIERDA! {w} Incluso nos conocimos en esa fiesta de Localización de Fetiches."
+    lc "¡MIERDA! {w} Incluso nos conocimos en esa fiesta del Localizador de Fetiches."
 
 # game/code/d18/d18s01.rpy:596
 translate spanish d18s01_shower_lc_a1bc22a3:
@@ -1300,7 +1300,7 @@ translate spanish d18s01_shower_lc_438ff32b:
 translate spanish d18s01_shower_lc_8ea2d5da:
 
     # lc "Yeah, me too. {w}I just need some time to process all this."
-    lc "Sí, yo también. {w}Solo necesito algo de tiempo para procesar todo esto."
+    lc "Sí, yo también. {w}Sólo necesito algo de tiempo para procesar todo esto."
 
 # game/code/d18/d18s01.rpy:634
 translate spanish d18s01_shower_lc_a49ed4f8:
