@@ -112,7 +112,7 @@ translate spanish d17s01_330eef72:
 translate spanish d17s01_143958b5:
 
     # arj "Here you go."
-    arj "quí tienes."
+    arj "Aquí tienes."
 
 # game/code/d17/d17s01.rpy:113
 translate spanish d17s01_0f751f84:
@@ -130,7 +130,7 @@ translate spanish d17s01_6ed2a3e3:
 translate spanish d17s01_f9c5969e:
 
     # lc "A pleasant surprise. Besides, it should help us prepare for Finals."
-    lc "Una sorpresa agradable. Además, debería ayudarnos a prepararnos para los finales."
+    lc "Una agradable sorpresa. Además, nos ayudará a prepararnos para los exámenes finales."
 
 # game/code/d17/d17s01.rpy:123
 translate spanish d17s01_a4cd16d2:
@@ -256,7 +256,7 @@ translate spanish d17s01_3b8eedef:
 translate spanish d17s01_04ea5c8f:
 
     # arj "Huh, I thought you two were close friends."
-    arj "Huh, pensé que ustedes dos eran amigas cercanas"
+    arj "Huh, pensé que ustedes dos eran amigas cercanas."
 
 # game/code/d17/d17s01.rpy:192
 translate spanish d17s01_fbd26564:
@@ -364,7 +364,7 @@ translate spanish d17s01_1f1cd9e0:
 translate spanish d17s01_713348b8:
 
     # lc "Sorry, I didn't realize it was such a nerve. Don't worry, I won't tell anyone."
-    lc "Lo siento, no me di cuenta de que era tan nerviosa. No te preocupes, no se lo diré a nadie."
+    lc "Lo siento, no me di cuenta de que eras tan nerviosa. No te preocupes, no se lo diré a nadie."
 
 # game/code/d17/d17s01.rpy:241
 translate spanish d17s01_4452e293:
@@ -382,7 +382,7 @@ translate spanish d17s01_af6d3988:
 translate spanish d17s01_57ccf91c:
 
     # lc "Someone just told me.{w} It happens every year."
-    lc "Alguien solo me dijo. {w} Sucede todos los años."
+    lc "Alguien me lo acaba de decir.{w} Pasa todos los años."
 
 # game/code/d17/d17s01.rpy:248
 translate spanish d17s01_fc940640:
@@ -472,7 +472,7 @@ translate spanish d17s01_49f46706:
 translate spanish d17s01_a16e7230:
 
     # lc "Well, let me put it this way...{w} [mcname], can I borrow your slave?"
-    lc "Bueno, déjame ponerlo de esta manera... {w} [mcname], ¿puedo tomar prestada tu esclava?"
+    lc "Bueno, déjame ponerlo de esta manera... {w} [mcname], ¿puedo tomar prestada a tu esclava?"
 
 # game/code/d17/d17s01.rpy:293
 translate spanish d17s01_de3240c1:
@@ -550,7 +550,7 @@ translate spanish d17s01_de5ce96e_1:
 translate spanish d17s01_14b99a8d:
 
     # mc "But, you've played with toys.{w} It is only a matter of time before we do it."
-    mc "Pero, has jugado con juguetes. {w} Es solo cuestión de tiempo antes de que lo hagamos."
+    mc "Pero, has jugado con juguetes. {w} Es sólo cuestión de tiempo antes de que lo hagamos."
 
 # game/code/d17/d17s01.rpy:330
 translate spanish d17s01_a2411c66:
@@ -622,7 +622,7 @@ translate spanish d17s01_6860bf7d:
 translate spanish d17s01_b9499276:
 
     # arj "She's just a glorified prison guard!"
-    arj "¡Ella es solo una guardia de prisión glorificada!"
+    arj "¡Ella es sólo una guardia de prisión glorificada!"
 
 # game/code/d17/d17s01.rpy:366
 translate spanish d17s01_65d7e11b:
@@ -694,7 +694,7 @@ translate spanish d17s01_653e7d26:
 translate spanish d17s01_dbe4d1cf:
 
     # lc "I wasn't serious about that. I was just winding you two up before telling what I knew."
-    lc "No hablaba en serio sobre eso. Solo los estaba molestando a ustedes dos antes de contarles lo que sabía."
+    lc "No hablaba en serio sobre eso. Sólo los estaba molestando a ustedes dos antes de contarles lo que sabía."
 
 # game/code/d17/d17s01.rpy:400
 translate spanish d17s01_1c84857e:
@@ -706,7 +706,7 @@ translate spanish d17s01_1c84857e:
 translate spanish d17s01_1b6e8f50:
 
     # lc "Seriously, it was just a joke-"
-    lc "En serio, solo era una broma-"
+    lc "En serio, sólo era una broma-"
 
 # game/code/d17/d17s01.rpy:406
 translate spanish d17s01_06269613:
@@ -1102,7 +1102,7 @@ translate spanish d17s01_anal_sex_06a5de85:
 translate spanish d17s01_anal_sex_c1627605:
 
     # arj "FUCK!!{w} You are a LOT bigger than my toys!"
-    arj "¡JODER! {w} ¡Eres MUCHO más grande que mis juguetes!"
+    arj "¡MIERDA! {w} ¡Eres MUCHO más grande que mis juguetes!"
 
 # game/code/d17/d17s01.rpy:728
 translate spanish d17s01_anal_sex_457a2223:
@@ -1234,7 +1234,7 @@ translate spanish d17s01_anal_sex_059091eb:
 translate spanish d17s01_anal_sex_bb0565a9:
 
     # arj "I just need...{w} to get used to his size."
-    arj "Solo necesito... {w} acostumbrarme a su tamaño."
+    arj "Sólo necesito... {w} acostumbrarme a su tamaño."
 
 # game/code/d17/d17s01.rpy:812
 translate spanish d17s01_anal_sex_4239202c:
@@ -1348,7 +1348,7 @@ translate spanish d17s01_anal_sex_eb26bfcd:
 translate spanish d17s01_anal_sex_21acf1cb:
 
     # arj "FUCK YES!{w} Ravage my little starfish!"
-    arj "¡JODER SÍ!{w} ¡Destruye mi pequeña estrella de mar!"
+    arj "¡MIERDA SÍ!{w} ¡Destruye mi pequeña estrella de mar!"
 
 # game/code/d17/d17s01.rpy:865
 translate spanish d17s01_anal_sex_a3865e3d:
@@ -1516,7 +1516,7 @@ translate spanish d17s01_end_62d1e03e:
 translate spanish d17s01_end_1ca8f44f:
 
     # lc "Not a plan, just some ideas.{w} You know how to make friends. Do you know how to turn an enemy into an ally?"
-    lc "No es un plan, solo algunas ideas. {w} Sabes cómo hacer amigos. ¿Sabes cómo convertir a un enemigo en un aliado?"
+    lc "No es un plan, sólo algunas ideas. {w} Sabes cómo hacer amigos. ¿Sabes cómo convertir a un enemigo en un aliado?"
 
 # game/code/d17/d17s01.rpy:977
 translate spanish d17s01_end_0b038bfc:
