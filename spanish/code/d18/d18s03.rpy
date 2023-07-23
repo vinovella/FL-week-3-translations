@@ -226,7 +226,7 @@ translate spanish d18s03_c7190f8f:
 translate spanish d18s03_84c648c2:
 
     # mc "I see. So it's not just that I get to do anything I want. It's about pride - proving that I'm at least as smart as you."
-    mc "Ya veo. Así que no es solo que puedo hacer lo que quiero. Se trata de orgullo, de demostrar que soy al menos tan inteligente como tú."
+    mc "Ya veo. Así que no es sólo que puedo hacer lo que quiero. Se trata de orgullo, de demostrar que soy al menos tan inteligente como tú."
 
 # game/code/d18/d18s03.rpy:185
 translate spanish d18s03_ecca1e43:
@@ -622,7 +622,7 @@ translate spanish d18s03_32155ee0:
 translate spanish d18s03_d6efee7c:
 
     # mc "I have no clue. 2077?"
-    mc "No tengo ni idea. 2077?"
+    mc "No tengo ni idea. ¿2077?"
 
 # game/code/d18/d18s03.rpy:435
 translate spanish d18s03_b211cf6f:
@@ -922,7 +922,7 @@ translate spanish d18s03_watersports_9e493fa2:
 translate spanish d18s03_watersports_c9df1555:
 
     # mes "Yes, sir!"
-    mes "Sí, señor"
+    mes "¡Sí, señor!"
 
 # game/code/d18/d18s03.rpy:658
 translate spanish d18s03_watersports_b07240ff:
@@ -1402,7 +1402,7 @@ translate spanish d18s03_sex_0e54c7df:
 translate spanish d18s03_sex_e3755b57:
 
     # mes "There is one kid.{w} Well, he's a man now, I guess.{w} Nerdy brat, goes to VU."
-    mes "Hay un niño. {w} Bueno, ahora es un hombre, supongo. {w} Mocoso nerd, va a VU."
+    mes "Hay un niño. {w} Bueno, ahora es un hombre, supongo. {w} Mocoso nerd, va a la Universidad Vinovella."
 
 # game/code/d18/d18s03.rpy:1046
 translate spanish d18s03_sex_8acbcdc6:
@@ -1468,7 +1468,7 @@ translate spanish d18s03_sex_b2b9e19d:
 translate spanish d18s03_sex_7928b693:
 
     # mes "I'm your fucking property.{w} My fuckholes belong to you and you alone."
-    mes "Soy tu maldita propiedad. {w} Mis agujeros te pertenecen a ti y solo a ti."
+    mes "Soy tu maldita propiedad. {w} Mis agujeros te pertenecen a ti y sólo a ti."
 
 # game/code/d18/d18s03.rpy:1087
 translate spanish d18s03_sex_597440d9:
@@ -1480,7 +1480,7 @@ translate spanish d18s03_sex_597440d9:
 translate spanish d18s03_sex_beaacb7e:
 
     # mes "Okay, then.."
-    mes "Bien, entonces.."
+    mes "Bien, entonces."
 
 # game/code/d18/d18s03.rpy:1094
 translate spanish d18s03_sex_689dc8e5:
@@ -1498,7 +1498,7 @@ translate spanish d18s03_sex_702c89e3:
 translate spanish d18s03_sex_3059b6d0:
 
     # mc "You're mine.{w} Whenever I want to fuck. No matter how I want to fuck you. You're D.T.F."
-    mc "Eres mía. {w} Cuando quiera follar. No importa cómo quiera follarte. eres D.T.F."
+    mc "Eres mía. {w} Cuando quiera follar. No importa cómo quiera follarte. Tú lo aceptas."
 
 # game/code/d18/d18s03.rpy:1103
 translate spanish d18s03_sex_509b5843:
