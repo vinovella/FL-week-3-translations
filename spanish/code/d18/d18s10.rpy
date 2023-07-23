@@ -52,7 +52,7 @@ translate spanish d18s10_wrong_code_2824b8e5:
 translate spanish d18s10_mira_a2faa5a1:
 
     # mct "So it was all your work!!!"
-    mct "¡¡¡Así que fue todo obra tuya!!!"
+    mct "¡¡¡Así que todo fue obra tuya!!!"
 
 # game/code/d18/d18s10.rpy:196
 translate spanish d18s10_mira_670946b0:
@@ -88,13 +88,13 @@ translate spanish d18s10_spaceballs_f574492b:
 translate spanish d18s10_spaceballs_8fd5cdb9:
 
     # mct "That's the kinda thing an idiot would have on his luggage!!!"
-    mct "¡¡¡Ese es el tipo de cosas que un idiota tendría en su equipaje!!!"
+    mct "¡¡¡Ese es la clase de cosas que un idiota llevaría en su equipaje!!!"
 
 # game/code/d18/d18s10.rpy:238
 translate spanish d18s10_boobs_d5ff8839:
 
     # mct "Hehehehehehe... BOOB."
-    mct "ejejejejeje... TETAS."
+    mct "jejejejejeje... TETAS."
 
 # game/code/d18/d18s10.rpy:239
 translate spanish d18s10_boobs_84b76a9d:
@@ -136,7 +136,7 @@ translate spanish d18s10_open_door_8717045e:
 translate spanish d18s10_open_door_8da3556e:
 
     # mct "Huh!{w} There's someone inside."
-    mct "¡Eh! {w} Hay alguien dentro."
+    mct "¡Eh! {w} Hay alguien adentro."
 
 # game/code/d18/d18s10.rpy:303
 translate spanish d18s10_open_door_96d896fd:
@@ -220,7 +220,7 @@ translate spanish d18s10_lc_reveal_53635bf0:
 translate spanish d18s10_lc_reveal_7add2015:
 
     # mct "FUCKING LYDIA?!"
-    mct "¡¿JODER LYDIA?!"
+    mct "¡¿MIERDA LYDIA?!"
 
 # game/code/d18/d18s10.rpy:399
 translate spanish d18s10_lc_reveal_768e5a58:
@@ -322,7 +322,7 @@ translate spanish d18s10_vanilla_4aed1c1a:
 translate spanish d18s10_vanilla_79ddccd7:
 
     # lc "FUCK YES!!!"
-    lc "¡¡¡JODER SÍ!!!"
+    lc "¡¡¡MIERDA SÍ!!!"
 
 # game/code/d18/d18s10.rpy:466
 translate spanish d18s10_vanilla_c7e49119:
