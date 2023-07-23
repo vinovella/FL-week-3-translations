@@ -34,7 +34,7 @@ translate spanish d15s04dw_45edb6c6:
 translate spanish d15s04dw_6f08ef3f:
 
     # mc "Nothing bad, I just want to have a serious talk with you about something."
-    mc "Nada malo, solo quiero tener una conversación seria contigo sobre algo."
+    mc "Nada malo, sólo quiero tener una conversación seria contigo sobre algo."
 
 # game/code/d15/d15s04dw.rpy:43
 translate spanish d15s04dw_90238559:
@@ -442,7 +442,7 @@ translate spanish d15s04dw_a480edea:
 translate spanish d15s04dw_0d94eb98:
 
     # sb "Give me just a second..."
-    sb "Dame solo un segundo..."
+    sb "Dame un segundo..."
 
 # game/code/d15/d15s04dw.rpy:275
 translate spanish d15s04dw_32d47a27:
@@ -466,7 +466,7 @@ translate spanish d15s04dw_51821582:
 translate spanish d15s04dw_4a7e053b:
 
     # dw "Just shove it up his ass. Don't be gentle."
-    dw "Solo mételo por el culo. No seas gentil."
+    dw "Sólo mételo por el culo. No seas delicado."
 
 # game/code/d15/d15s04dw.rpy:298
 translate spanish d15s04dw_0c2ccf1f:
@@ -628,7 +628,7 @@ translate spanish d15s04dw_5baa75e6:
 translate spanish d15s04dw_63809e09:
 
     # mct "Fine. Whatever. {w}Just endure this a little longer."
-    mct "Bien. Lo que sea. {w}Solo aguanta esto un poco más."
+    mct "Bien. Lo que sea. {w}Sólo aguanta esto un poco más."
 
 # game/code/d15/d15s04dw.rpy:410
 translate spanish d15s04dw_0e8c9c6d:
@@ -700,7 +700,7 @@ translate spanish d15s04dw_e047afb4:
 translate spanish d15s04dw_ac2102c2:
 
     # sb "No, I didn't want to date him. I didn't want to steal him from you. We just fucked that one time. That was it."
-    sb "No, no quería salir con él. No quería robártelo. Solo follamos una vez. Eso fue todo."
+    sb "No, no quería salir con él. No quería robártelo. Sólo follamos una vez. Eso fue todo."
 
 # game/code/d15/d15s04dw.rpy:463
 translate spanish d15s04dw_1c8f62fa:
