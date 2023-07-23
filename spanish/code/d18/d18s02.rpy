@@ -34,7 +34,7 @@ translate spanish d18s02_6c2407ce:
 translate spanish d18s02_24b8b205:
 
     # sy "Yep. We got plenty. Now we just need to turn it into something useful."
-    sy "Sí. Tenemos mucho. Ahora solo falta convertirlo en algo útil."
+    sy "Sí. Tenemos mucho. Ahora sólo falta convertirlo en algo útil."
 
 # game/code/d18/d18s02.rpy:51
 translate spanish d18s02_e1d12b48:
@@ -94,7 +94,7 @@ translate spanish d18s02_aabb3533:
 translate spanish d18s02_9cd8858a:
 
     # arj "But {i}this{/i} one is faculty-only."
-    arj "Pero {i}esto{/i} es solo para profesores."
+    arj "Pero {i}esto{/i} es sólo para profesores."
 
 # game/code/d18/d18s02.rpy:77
 translate spanish d18s02_70679fc7:
@@ -118,13 +118,13 @@ translate spanish d18s02_9580d79b:
 translate spanish d18s02_3b398dbf:
 
     # arj "I have access to the network in the main facility. And I can get access to the faculty-only network by just asking one of the professors I know."
-    arj "Tengo acceso a la red en la instalación principal. Y puedo obtener acceso a la red solo para profesores con solo preguntarle a uno de los profesores que conozco."
+    arj "Tengo acceso a la red de las instalaciones principales. Y puedo acceder a la red exclusiva de la facultad con solo pedírselo a uno de los profesores que conozco."
 
 # game/code/d18/d18s02.rpy:86
 translate spanish d18s02_3258d5d5:
 
     # arj "So it could be practically anyone in the college, not just the faculty."
-    arj "Así que podría ser prácticamente cualquiera en la universidad, no solo en la facultad."
+    arj "Así que podría ser prácticamente cualquier persona de la universidad, no sólo el profesorado."
 
 # game/code/d18/d18s02.rpy:89
 translate spanish d18s02_dafe1e87:
@@ -166,7 +166,7 @@ translate spanish d18s02_29815b7b:
 translate spanish d18s02_9642800e:
 
     # arj "True. We don't know."
-    arj "Verdad. No lo sabemos"
+    arj "Verdad. No lo sabemos."
 
 # game/code/d18/d18s02.rpy:111
 translate spanish d18s02_d6a0fb1b:
@@ -196,7 +196,7 @@ translate spanish d18s02_619538f8:
 translate spanish d18s02_116ea92d:
 
     # mc "Alright, that's good a plan, but let's try to only break one law at a time here. No need to add arson to our trespassing."
-    mc "Muy bien, es un buen plan, pero tratemos de infringir solo una ley a la vez aquí. No hay necesidad de agregar un incendio provocado a nuestra entrada ilegal."
+    mc "Muy bien, es un buen plan, pero tratemos de infringir sólo una ley a la vez aquí. No hay necesidad de agregar un incendio provocado a nuestra entrada ilegal."
 
 # game/code/d18/d18s02.rpy:124
 translate spanish d18s02_9b64e2fd:
@@ -250,7 +250,7 @@ translate spanish d18s02_0e766547:
 translate spanish d18s02_67424877:
 
     # arj "Yikes, and {i}I{/i} need to get going. I got my finals today."
-    arj "Vaya, y {i}Yo{/i} necesito ponerme en marcha. Tengo mis finales hoy."
+    arj "Vaya, y {i}Yo{/i} necesito ponerme en marcha. Tengo mis exámenes finales hoy."
 
 # game/code/d18/d18s02.rpy:153
 translate spanish d18s02_85b77400:
