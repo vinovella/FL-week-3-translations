@@ -154,7 +154,7 @@ translate spanish d17s06dd_b49313c9:
 translate spanish d17s06dd_40fd60a7_1:
 
     # dd "There you go! What do you think, [d17s06_teddy_name!t]? Is that a good name?"
-    dd "¡Ahí tienes! ¿Qué piensas de, [d17s06_teddy_name!t]? ¿Es ese un buen nombre?"
+    dd "¡Ahí tienes! ¿Qué piensas [d17s06_teddy_name!t]? ¿Es ese un buen nombre?"
 
 # game/code/d17/d17s06dd.rpy:132
 translate spanish d17s06dd_0b48190e:
@@ -166,7 +166,7 @@ translate spanish d17s06dd_0b48190e:
 translate spanish d17s06dd_9094b13f:
 
     # dd "Even better."
-    dd "Aun mejor."
+    dd "Aún mejor."
 
 # game/code/d17/d17s06dd.rpy:137
 translate spanish d17s06dd_64801887:
@@ -184,7 +184,7 @@ translate spanish d17s06dd_5d0f1a51:
 translate spanish d17s06dd_04aff7e3:
 
     # mct "Bordering on annoying, but extremely cute."
-    mct "Rozando lo molesto, pero extremadamente adorable."
+    mct "Rozando lo molesto, pero extremadamente lindo."
 
 # game/code/d17/d17s06dd.rpy:144
 translate spanish d17s06dd_7c418d89:
@@ -208,7 +208,7 @@ translate spanish d17s06dd_12d34f4c:
 translate spanish d17s06dd_ff1cd5cc:
 
     # dd "I'm talking about [d17s06_teddy_name!t] here."
-    dd "Estoy hablando de [d17s06_teddy_name!t] aquí."
+    dd "Estoy hablando de [d17s06_teddy_name!t]."
 
 # game/code/d17/d17s06dd.rpy:156
 translate spanish d17s06dd_90226541:
@@ -322,7 +322,7 @@ translate spanish d17s06dd_dd07fa8e:
 translate spanish d17s06dd_615bf1fa:
 
     # dd "Nothing important. {w}It's just my ticker."
-    dd "Nada importante. {w}Es solo mi corazón."
+    dd "Nada importante. {w}Es sólo mi corazón."
 
 # game/code/d17/d17s06dd.rpy:217
 translate spanish d17s06dd_085722e2:
@@ -430,7 +430,7 @@ translate spanish d17s06dd_bafd0a30:
 translate spanish d17s06dd_5651632e:
 
     # mc "I'm sorry. I shouldn't-"
-    mc "Lo lamento. no debería-"
+    mc "Lo lamento. No debería-"
 
 # game/code/d17/d17s06dd.rpy:260
 translate spanish d17s06dd_712ee7f8:
@@ -550,7 +550,7 @@ translate spanish d17s06dd_9bc1581a:
 translate spanish d17s06dd_37cd1a65:
 
     # mc "The cabin will always be an option, but if the only reason you're going there is to have a clean death... {w}I say live your life."
-    mc "La cabaña siempre será una opción, pero si la única razón por la que vas allí es para tener una muerte limpia... {w}Digo que vivas tu vida."
+    mc "La cabaña siempre será una opción, pero si la única razón por la que vas allí es para tener una muerte tranquila... {w}Digo que vivas tu vida."
 
 # game/code/d17/d17s06dd.rpy:305
 translate spanish d17s06dd_ef8af51c:
@@ -580,7 +580,7 @@ translate spanish d17s06dd_52d87b95:
 translate spanish d17s06dd_c4d9cd98:
 
     # mc "I think I do. {w}I haven't had as much time to think about as you have, but my thoughts and instincts all say that I want to spend as much time with you as possible."
-    mc "Creo que lo hago. {w} No he tenido tanto tiempo para pensar como tú, pero mis pensamientos e instintos me dicen que quiero pasar el mayor tiempo posible contigo."
+    mc "Creo que sí lo sé.  {w} No he tenido tanto tiempo para pensar como tú, pero mis pensamientos e instintos me dicen que quiero pasar el mayor tiempo posible contigo."
 
 # game/code/d17/d17s06dd.rpy:318
 translate spanish d17s06dd_e2b16bd3:
@@ -658,7 +658,7 @@ translate spanish d17s06dd_eb8a0aa5:
 translate spanish d17s06dd_786c21a0:
 
     # dd "Right here, right now, this is all we get. Do you want to just sit here waiting?"
-    dd "Aquí mismo, ahora mismo, esto es todo lo que tenemos. ¿Quieres sentarte aquí esperando?"
+    dd "Aquí y ahora, esto es todo lo que tenemos. ¿Quieres sentarte a esperar?"
 
 # game/code/d17/d17s06dd.rpy:359
 translate spanish d17s06dd_e9b9ef80:
@@ -700,7 +700,7 @@ translate spanish d17s06dd_b8b64f88:
 translate spanish d17s06dd_809f5985:
 
     # mct "Let's enjoy it to the-"
-    mct "Vamos a disfrutarlo hasta el-"
+    mct "Vamos a disfrutarlo hasta el..."
 
 # game/code/d17/d17s06dd.rpy:389
 translate spanish d17s06dd_5bc9b990:
@@ -748,7 +748,7 @@ translate spanish d17s06dd_c6c64dce:
 translate spanish d17s06dd_973f4fd6:
 
     # dd "We fuck until they drag us off the ride."
-    dd "Follamos hasta que nos sacan de la atracción."
+    dd "Follamos hasta que nos saquen de la atracción."
 
 # game/code/d17/d17s06dd.rpy:428
 translate spanish d17s06dd_2bf98d84:
@@ -850,7 +850,7 @@ translate spanish d17s06dd_76f2cf66:
 translate spanish d17s06dd_82876f0c:
 
     # dd "Fuck yes."
-    dd "Joder, sí."
+    dd "Mierda, sí."
 
 # game/code/d17/d17s06dd.rpy:529
 translate spanish d17s06dd_263094d4:
@@ -1042,7 +1042,7 @@ translate spanish d17s06dd_11455b53:
 translate spanish d17s06dd_397661e4:
 
     # dd "If you want to knock me up you'll have to wait a couple more months"
-    dd "Si quieres embarazarme tendrás que esperar un par de meses más"
+    dd "Si quieres embarazarme tendrás que esperar un par de meses más."
 
 # game/code/d17/d17s06dd.rpy:622
 translate spanish d17s06dd_b16ce6a6:
@@ -1066,7 +1066,7 @@ translate spanish d17s06dd_8c6c90fe:
 translate spanish d17s06dd_94b5b299:
 
     # mc "You feel wonderful"
-    mc "Te sientes maravilloso"
+    mc "Te sientes maravillosa"
 
 # game/code/d17/d17s06dd.rpy:634
 translate spanish d17s06dd_d60d87ce:
@@ -1126,7 +1126,7 @@ translate spanish d17s06dd_9f6d3b0c:
 translate spanish d17s06dd_85aa1628:
 
     # mc "HURRY"
-    mc "APÚRATE"
+    mc "APRESÚRATE"
 
 # game/code/d17/d17s06dd.rpy:657
 translate spanish d17s06dd_6eced205:
