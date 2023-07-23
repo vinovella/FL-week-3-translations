@@ -22,7 +22,7 @@ translate spanish d17s04_84f16542:
 translate spanish d17s04_09acea12:
 
     # hr "This berth is close enough to maintain a strong cell phone signal, but far enough away that no one will hear me scream."
-    hr "Esta litera está lo suficientemente cerca para mantener una fuerte señal de teléfono celular, pero lo suficientemente lejos para que nadie me escuche gritar."
+    hr "Este muelle está lo suficientemente cerca como para mantener una señal fuerte de móvil, pero lo suficientemente lejos como para que la gente no me oiga gritar."
 
 # game/code/d17/d17s04.rpy:65
 translate spanish d17s04_3fc37bf2:
@@ -46,7 +46,7 @@ translate spanish d17s04_771cd8e7:
 translate spanish d17s04_4ddead28:
 
     # hr "First, it will be worth more points - which we both need."
-    hr "En primer lugar, valdrá más puntos, que ambos necesitamos."
+    hr "En primer lugar, valdrá más puntos, cosa que ambos necesitamos."
 
 # game/code/d17/d17s04.rpy:74
 translate spanish d17s04_a0571f51:
@@ -64,7 +64,7 @@ translate spanish d17s04_2e93ea22:
 translate spanish d17s04_b123170c:
 
     # hr "It could. {w}It probably will."
-    hr "Podria. {w}Probablemente lo haré."
+    hr "Podría. {w}Probablemente lo haré."
 
 # game/code/d17/d17s04.rpy:82
 translate spanish d17s04_59ced1c9:
@@ -76,13 +76,13 @@ translate spanish d17s04_59ced1c9:
 translate spanish d17s04_aef16cde:
 
     # hr "Look, I'm not one of those \"Fuck me in the ass because I like Jebus\" assholes."
-    hr "Mira, yo no soy de esas \"Fóllame el culo porque me gustan los jebus\" pendejos."
+    hr "Mira, yo no soy de esas \"Fóllame el culo porque me gustan los jebus\" idiota."
 
 # game/code/d17/d17s04.rpy:86
 translate spanish d17s04_8af29978:
 
     # hr "I want pain."
-    hr "Quiero dolor"
+    hr "Quiero dolor."
 
 # game/code/d17/d17s04.rpy:87
 translate spanish d17s04_e05eac6c:
@@ -100,7 +100,7 @@ translate spanish d17s04_a5289f41:
 translate spanish d17s04_3762db3e:
 
     # hr "I have my reasons. Just fucking do it."
-    hr "Tengo mis razones. Solo hazlo."
+    hr "Tengo mis razones. Sólo hazlo."
 
 # game/code/d17/d17s04.rpy:97
 translate spanish d17s04_48857fa8:
@@ -160,7 +160,7 @@ translate spanish d17s04_rough_08bdf55e:
 translate spanish d17s04_rough_f67814f6:
 
     # hr "Good. Do that, only you can go harder on me. No limits."
-    hr "Bien. Haz eso, solo tú puedes ser más duro conmigo. Sin limites."
+    hr "Bien. Haz eso, sólo tú puedes ser más duro conmigo. Sin límites."
 
 # game/code/d17/d17s04.rpy:134
 translate spanish d17s04_rough_2395f548:
@@ -172,7 +172,7 @@ translate spanish d17s04_rough_2395f548:
 translate spanish d17s04_rough_6b6847c1:
 
     # hr "It's not difficult. Just pretend that you hate my guts and want to hurt me."
-    hr "No es dificil. Solo finge que me odias y quieres lastimarme."
+    hr "No es dificil. Sólo finge que me odias y quieres lastimarme."
 
 # game/code/d17/d17s04.rpy:139
 translate spanish d17s04_rough_077e7c76:
@@ -208,7 +208,7 @@ translate spanish d17s04_rough_960b3e4b:
 translate spanish d17s04_rough_0a46f7be:
 
     # hr "For this roleplay, you're going to be playing an abusive father and I'm going to pretend to be your submissive daughter."
-    hr "Para este juego de roles, vas a interpretar a un padre abusivo y yo voy a pretender ser tu hija sumisa."
+    hr "Para este juego de roles, vas a interpretar a un padre abusivo y yo voy a pretender ser su hija sumisa."
 
 # game/code/d17/d17s04.rpy:158
 translate spanish d17s04_rough_d9468042:
@@ -226,7 +226,7 @@ translate spanish d17s04_rough_085722e2:
 translate spanish d17s04_rough_ea563faf:
 
     # hr "It's just pretend. It's a game."
-    hr "Es solo fingir. Es un juego."
+    hr "Es sólo fingir. Es un juego."
 
 # game/code/d17/d17s04.rpy:166
 translate spanish d17s04_rough_cdff1dd4:
@@ -394,7 +394,7 @@ translate spanish d17s04_anal_hard_5aa42461:
 translate spanish d17s04_anal_hard_aadcba22:
 
     # mc "You think if you half-ass the blowjob you'll get out of this easily?"
-    mc "¿Crees que si haces la mamada a medias te librarás de esto fácilmente?"
+    mc "¿Crees que si la chupas a medias te librarás de esto fácilmente?"
 
 # game/code/d17/d17s04.rpy:306
 translate spanish d17s04_anal_hard_21228682:
@@ -628,7 +628,7 @@ translate spanish d17s04_anal_hard_2a3705c3:
 translate spanish d17s04_anal_hard_c6342e9e:
 
     # hr "PLEASE FUCK MY WORTHLESS ASS!!!"
-    hr "¡¡¡POR FAVOR FOLLATE MI CULO SIN VALOR!!!"
+    hr "¡¡¡POR FAVOR FÓLLATE MI CULO SIN VALOR!!!"
 
 # game/code/d17/d17s04.rpy:444
 translate spanish d17s04_anal_hard_87e26eb2:
@@ -694,7 +694,7 @@ translate spanish d17s04_anal_hard_5d6f446a:
 translate spanish d17s04_anal_hard_747268da:
 
     # mc "What the hell was that all about?"
-    mc "¿Qué demonios fue todo eso?"
+    mc "¿Qué mierda fue todo eso?"
 
 # game/code/d17/d17s04.rpy:493
 translate spanish d17s04_anal_hard_956a617e:
@@ -730,7 +730,7 @@ translate spanish d17s04_anal_hard_75e162be:
 translate spanish d17s04_anal_hard_df1af95a:
 
     # mc "I didn't-"
-    mc "yo no..."
+    mc "Yo no..."
 
 # game/code/d17/d17s04.rpy:508
 translate spanish d17s04_anal_hard_2ca147b5:
@@ -754,7 +754,7 @@ translate spanish d17s04_anal_hard_bb11a721:
 translate spanish d17s04_anal_hard_b18a0905:
 
     # hr "You'd better not."
-    hr "No creo que debas."
+    hr "Será mejor que no lo hagas."
 
 # game/code/d17/d17s04.rpy:516
 translate spanish d17s04_anal_hard_56e16b75:
@@ -766,7 +766,7 @@ translate spanish d17s04_anal_hard_56e16b75:
 translate spanish d17s04_anal_hard_bc01864b:
 
     # hr "Fuck."
-    hr "Joder."
+    hr "Mierda."
 
 # game/code/d17/d17s04.rpy:521
 translate spanish d17s04_anal_hard_b8698e08:
@@ -832,7 +832,7 @@ translate spanish d17s04_anal_soft_bc4fd44d:
 translate spanish d17s04_anal_soft_ef923976:
 
     # hr "Don't go far. Just get out of my sight for a few minutes."
-    hr "No vayas lejos. Solo aléjate de mi vista por unos minutos."
+    hr "No vayas lejos. Sólo aléjate de mi vista por unos minutos."
 
 # game/code/d17/d17s04.rpy:557
 translate spanish d17s04_anal_soft_d6e49b4e:
@@ -862,7 +862,7 @@ translate spanish d17s04_anal_soft_c0ecab80:
 translate spanish d17s04_anal_soft_54b8d130:
 
     # hr "Don't say anything. Just fuck my ass, earn our points, then get out."
-    hr "No digas nada. Solo fóllame el culo, gana nuestros puntos y luego vete."
+    hr "No digas nada. Sólo fóllame el culo, gana nuestros puntos, y luego vete."
 
 # game/code/d17/d17s04.rpy:568
 translate spanish d17s04_anal_soft_5bdfe3c8:
@@ -874,7 +874,7 @@ translate spanish d17s04_anal_soft_5bdfe3c8:
 translate spanish d17s04_anal_soft_b61ad310:
 
     # hr "Don't make this more difficult than it needs to be. Please just do what I'm asking of you."
-    hr "No hagas esto más difícil de lo que debe ser. Por favor, solo haz lo que te estoy pidiendo."
+    hr "No hagas esto más difícil de lo que debe ser. Por favor, sólo haz lo que te estoy pidiendo."
 
 # game/code/d17/d17s04.rpy:572
 translate spanish d17s04_anal_soft_a48b87a0:
@@ -904,13 +904,13 @@ translate spanish d17s04_anal_soft_5e134c95:
 translate spanish d17s04_anal_soft_792c7b35:
 
     # mct "There's her text. {w}Time to do this, I guess."
-    mct "Ahí está su texto. {w}Es hora de hacer esto, supongo."
+    mct "Ahí está su mensaje. {w}Es hora de hacer esto, supongo."
 
 # game/code/d17/d17s04.rpy:588
 translate spanish d17s04_anal_soft_81a53cdc:
 
     # mct "Wow. {w}That is a view."
-    mct "Guau. {w}Esa es una vista."
+    mct "Guau. {w}Esa es una buena vista."
 
 # game/code/d17/d17s04.rpy:591
 translate spanish d17s04_anal_soft_16cadc1c:
@@ -952,7 +952,7 @@ translate spanish d17s04_anal_soft_16493471:
 translate spanish d17s04_anal_soft_fe46b2fd:
 
     # mc "Fuck that feels good."
-    mc "Joder, eso se siente bien."
+    mc "Mierda, eso se siente bien."
 
 # game/code/d17/d17s04.rpy:611
 translate spanish d17s04_anal_soft_d6ae979b:
@@ -1018,7 +1018,7 @@ translate spanish d17s04_anal_soft_f877036c:
 translate spanish d17s04_anal_soft_f710a030:
 
     # mct "Screw it. Just enjoy it and get it over with."
-    mct "A la mierda. Simplemente disfrútalo y acaba con esto."
+    mct "A la mierda. Simplemente disfrútalo y termina con esto."
 
 # game/code/d17/d17s04.rpy:627
 translate spanish d17s04_anal_soft_cd113a7a:
@@ -1036,7 +1036,7 @@ translate spanish d17s04_anal_soft_6ac5777b:
 translate spanish d17s04_anal_soft_45746e6c:
 
     # mc "FUCK I'm going to cum!"
-    mc "¡JODER, me voy a correr!"
+    mc "¡Mierda, me voy a correr!"
 
 # game/code/d17/d17s04.rpy:643
 translate spanish d17s04_anal_soft_0dd920e0:
@@ -1078,7 +1078,7 @@ translate spanish d17s04_end_704eb5c8:
 translate spanish d17s04_end_879a977b:
 
     # mc "Iona? {w}Were you-?"
-    mc "¿Iona? {w}¿Estabas-?"
+    mc "¿Iona? {w}¿Estabas?"
 
 # game/code/d17/d17s04.rpy:676
 translate spanish d17s04_end_92b4fb11:
@@ -1102,7 +1102,7 @@ translate spanish d17s04_end_84350b3b:
 translate spanish d17s04_end_40105b01:
 
     # mc "I mean, I just-"
-    mc "Quiero decir, yo solo..."
+    mc "Quiero decir, yo sólo..."
 
 # game/code/d17/d17s04.rpy:686
 translate spanish d17s04_end_e39ba7c3:
@@ -1156,13 +1156,13 @@ translate spanish d17s04_end_7c927b78:
 translate spanish d17s04_end_a50868af:
 
     # ir "Unless someone brings this up specifically - this never happened, and I was never here."
-    ir "A menos que alguien mencione esto específicamente, esto nunca sucedió y yo nunca estuve aquí."
+    ir "A menos que alguien lo mencione específicamente, esto nunca ocurrió y yo nunca estuve aquí."
 
 # game/code/d17/d17s04.rpy:713
 translate spanish d17s04_end_4cb10a0c:
 
     # mc "Same. I don't want anyone to know anything about what I did there."
-    mc "Lo mismo. No quiero que nadie sepa nada de lo que hice allí."
+    mc "Lo mismo digo. No quiero que nadie sepa nada de lo que hice allí."
 
 # game/code/d17/d17s04.rpy:716
 translate spanish d17s04_end_4c2c3694:
@@ -1192,7 +1192,7 @@ translate spanish d17s04_end_98964dee:
 translate spanish d17s04_end_0b16fc3a:
 
     # ir "You take the blue pill—the story ends, you believe whatever you want."
-    ir "Tomas la píldora azul: la historia termina, crees lo que quieras."
+    ir "Tomas la píldora azul: la historia termina, crees lo que quieres creer."
 
 # game/code/d17/d17s04.rpy:727
 translate spanish d17s04_end_d9e9dc1b:
