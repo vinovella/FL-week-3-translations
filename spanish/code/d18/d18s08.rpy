@@ -46,7 +46,7 @@ translate spanish d18s08_c669d142:
 translate spanish d18s08_f4baa2a7:
 
     # "{color=#c46c93}???{/color}" "I didn't instill the word of our Lord in you since you were a babe so that you can spit in the face of his holy creatio—."
-    "{color=#c46c93}???{/color}" "No te inculqué la palabra de nuestro Señor desde que eras una niña para que puedas escupir en la cara de su santa creación—."
+    "{color=#c46c93}???{/color}" "No te inculqué la palabra de nuestro Señor desde que eras una bebé para que puedas escupir en la cara de su santa creación—."
 
 # game/code/d18/d18s08.rpy:52
 translate spanish d18s08_bc306e48:
