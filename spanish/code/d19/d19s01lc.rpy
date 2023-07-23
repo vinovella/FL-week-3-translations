@@ -232,7 +232,7 @@ translate spanish d19s01lc_b397ca00:
 translate spanish d19s01lc_18631ab5:
 
     # lc "I'm sorry.{w} I just need to explain this to you. It can't wait and I can't let you go just yet."
-    lc "Lo siento. {w} Solo necesito explicarte esto. No puedo esperar y no puedo dejarte ir todavía."
+    lc "Lo siento.{w} Necesito explicarte esto. No puede esperar y no puedo dejarte ir todavía."
 
 # game/code/d19/d19s01lc.rpy:124
 translate spanish d19s01lc_8b17e1a1:
@@ -256,7 +256,7 @@ translate spanish d19s01lc_88d35882:
 translate spanish d19s01lc_9ba9155c:
 
     # lc "*sigh* Fetish Locator was a dream of mine."
-    lc "*suspiro*  El localizador de fetiches era un sueño para mí."
+    lc "*suspiro*  El Localizador de Fetiches era un sueño para mí."
 
 # game/code/d19/d19s01lc.rpy:134
 translate spanish d19s01lc_a7311bf4:
@@ -340,7 +340,7 @@ translate spanish d19s01lc_f310df5f:
 translate spanish d19s01lc_394d3be5:
 
     # lc "Ridley is."
-    lc "Ridley lo es."
+    lc "Ridley es el quien chantajea."
 
 # game/code/d19/d19s01lc.rpy:165
 translate spanish d19s01lc_39694ec5:
@@ -370,7 +370,7 @@ translate spanish d19s01lc_de24ff1e:
 translate spanish d19s01lc_169e4149:
 
     # mc "He created an A.I.?{w} Is that even possible?"
-    mc "¿Él creó una IA? {w} ¿Es eso posible?"
+    mc "¿Él creó una I.A.? {w} ¿Es eso posible?"
 
 # game/code/d19/d19s01lc.rpy:179
 translate spanish d19s01lc_2bd4891e:
@@ -466,13 +466,13 @@ translate spanish d19s01lc_630ea5ff:
 translate spanish d19s01lc_cfa80054:
 
     # mc "Jerome built a BISHOP and it got out of control..."
-    mc "Jerome construyó un BISHOP y se salió de control..."
+    mc "Jerome construyó una INTELIGENCIA ARTIFICAL y se salió de control..."
 
 # game/code/d19/d19s01lc.rpy:224
 translate spanish d19s01lc_306f6ad6:
 
     # mc "Jerome built a BISHOP and it started blackmailing people..."
-    mc "Jerome construyó un OBISPO y empezó a chantajear a la gente..."
+    mc "Jerome construyó una INTELIGENCIA ARTIFICIAL y comenzó a chantajear a la gente..."
 
 # game/code/d19/d19s01lc.rpy:227
 translate spanish d19s01lc_841182aa:
@@ -544,7 +544,7 @@ translate spanish d19s01lc_1196ae30:
 translate spanish d19s01lc_a27a6d78:
 
     # lc "I see.{w} Well, I guess there's just one thing left for me to do."
-    lc "Ya veo. {w} Bueno, supongo que solo me queda una cosa por hacer."
+    lc "Ya veo. {w} Bueno, supongo que sólo me queda una cosa por hacer."
 
 # game/code/d19/d19s01lc.rpy:262
 translate spanish d19s01lc_4c79738f:
