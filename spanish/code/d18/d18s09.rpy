@@ -58,7 +58,7 @@ translate spanish d18s09_917751d3:
 translate spanish d18s09_ff857aae:
 
     # mc "Ah, Professor Fulton."
-    mc "Ah, profesora Fulton."
+    mc "Ah, Profesora Fulton."
 
 # game/code/d18/d18s09.rpy:81
 translate spanish d18s09_a701c598:
@@ -202,7 +202,7 @@ translate spanish d18s09_7f7a20d8:
 translate spanish d18s09_90c10ab9:
 
     # cf "No, no.{w}.. no mistake. I just...{w} you caught me by surprise."
-    cf "No, no. {w}... no hay error. Yo solo... {w} me tomaste por sorpresa."
+    cf "No, no...{w} no es un error. Es que...{w} me pillaste por sorpresa."
 
 # game/code/d18/d18s09.rpy:150
 translate spanish d18s09_b94dd675:
@@ -298,7 +298,7 @@ translate spanish d18s09_d8c36aa3:
 translate spanish d18s09_c8f3330b:
 
     # mct "Maybe she's just crazy!"
-    mct "¡Quizás, solo está loca!"
+    mct "¡Quizás, sólo está loca!"
 
 # game/code/d18/d18s09.rpy:211
 translate spanish d18s09_59415168:
@@ -334,7 +334,7 @@ translate spanish d18s09_5cf428df:
 translate spanish d18s09_1a5a036a:
 
     # mct "Wow. That's a hell of a way to tell that to someone."
-    mct "Guau. Esa es una gran manera de decirle eso a alguien."
+    mct "Vaya. Esa es una gran manera de decirle eso a alguien."
 
 # game/code/d18/d18s09.rpy:237
 translate spanish d18s09_2ab58eab:
@@ -358,7 +358,7 @@ translate spanish d18s09_559c5397:
 translate spanish d18s09_e57ccc38:
 
     # mct "She got the door code. 0-0-7-1.{w} Just gotta remember that."
-    mct "Obtuvo el código de la puerta. 0-0-7-1.{w} Solo tengo que recordar eso."
+    mct "Obtuvo el código de la puerta. 0-0-7-1.{w} Sólo tengo que recordar eso."
 
 # game/code/d18/d18s09.rpy:255
 translate spanish d18s09_55532a72:
@@ -388,7 +388,7 @@ translate spanish d18s09_2ca56f18:
 translate spanish d18s09_continue_95baf71c:
 
     # mc "Don't worry, Professor.{w} I have a reputation to maintain."
-    mc "No se preocupe, profesora. Tengo una reputación que mantener."
+    mc "No se preocupe, Profesora. Tengo una reputación que mantener."
 
 # game/code/d18/d18s09.rpy:282
 translate spanish d18s09_continue_f164655d:
@@ -904,7 +904,7 @@ translate spanish d18s09_continue_fdd5fec6:
 translate spanish d18s09_continue_86b1dd88:
 
     # cf "Yeah, thanks.{w} Good luck on your final exams, if you haven't had them yet."
-    cf "Sí, gracias. {w} Buena suerte en tus exámenes finales, si aún no los has tenido."
+    cf "Sí, gracias. {w} Buena suerte en tus exámenes finales, si aún no los has hecho."
 
 # game/code/d18/d18s09.rpy:512
 translate spanish d18s09_continue_67225833:
@@ -916,7 +916,7 @@ translate spanish d18s09_continue_67225833:
 translate spanish d18s09_continue_f4d19e27:
 
     # cf "Okay."
-    cf "Bien."
+    cf "Está bien."
 
 # game/code/d18/d18s09.rpy:517
 translate spanish d18s09_continue_d32e78dd:
@@ -928,13 +928,13 @@ translate spanish d18s09_continue_d32e78dd:
 translate spanish d18s09_continue_7e5ab074:
 
     # mc "Yes, Professor?"
-    mc "¿Sí, profesora?"
+    mc "¿Sí, Profesora?"
 
 # game/code/d18/d18s09.rpy:523
 translate spanish d18s09_continue_df32bca7:
 
     # cf "I just want you to know what an incredible specimen you are."
-    cf "Sólo quiero que sepas qué increíble espécimen eres."
+    cf "Sólo quiero que sepas que eres un espécimen increíble."
 
 # game/code/d18/d18s09.rpy:526
 translate spanish d18s09_continue_05500ff6_1:
