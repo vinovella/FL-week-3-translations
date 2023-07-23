@@ -118,7 +118,7 @@ translate spanish d16s10_ce233756:
 translate spanish d16s10_43ff28c1:
 
     # arj "I'm guessing you just play first person shooters."
-    arj "Supongo que solo juegas juegos de disparos en primera persona."
+    arj "Supongo que sólo juegas a juegos de disparos en primera persona."
 
 # game/code/d16/d16s10.rpy:89
 translate spanish d16s10_97083a85:
@@ -214,7 +214,7 @@ translate spanish d16s10_307300d8:
 translate spanish d16s10_a11d4715:
 
     # arj "You never even need to ask. You know you've got it."
-    arj "Ni siquiera necesitas preguntar. Sabes que lo tienes."
+    arj "Ni siquiera necesitas preguntar. Sabes que la tienes."
 
 # game/code/d16/d16s10.rpy:133
 translate spanish d16s10_d58a1705:
@@ -382,7 +382,7 @@ translate spanish d16s10_0a104682:
 translate spanish d16s10_63710058:
 
     # mc "I thought about it sometimes even when we were just friends and I had no idea how you felt about me."
-    mc "A veces lo pensaba incluso cuando éramos solo amigos y no tenía idea de lo que sentías por mí."
+    mc "A veces lo pensaba incluso cuando sólo éramos amigos y no tenía idea de lo que sentías por mí."
 
 # game/code/d16/d16s10.rpy:216
 translate spanish d16s10_80d9ad1c:
@@ -466,7 +466,7 @@ translate spanish d16s10_0f12bcc3:
 translate spanish d16s10_dcfba29c:
 
     # mc "Exposing your bare skin to the freezing cold..."
-    mc "Exponiendo tu piel desnuda al frío helado..."
+    mc "Exponiendo tu piel desnuda al helado frío..."
 
 # game/code/d16/d16s10.rpy:246
 translate spanish d16s10_deb01f38:
@@ -532,7 +532,7 @@ translate spanish d16s10_b0fcb071:
 translate spanish d16s10_2144b7a1:
 
     # mc "She wanted me to tell her some story. She was incredibly drunk at the time."
-    mc "Quería que le contara una historia. Estaba increíblemente borracha en ese momento."
+    mc "Quería que le contara una historia. Estaba increíblemente borracho en ese momento."
 
 # game/code/d16/d16s10.rpy:271
 translate spanish d16s10_229c480b:
@@ -646,7 +646,7 @@ translate spanish d16s10_c20fefc5:
 translate spanish d16s10_b4119be2:
 
     # arj "You spin me right-round baby right-round! {w}Like a record!!!"
-    arj "¡Me haces girar a la derecha, bebé, a la derecha!{w} ¡¡¡Como un disco!!!"
+    arj "¡Me haces girar a la derecha, cariño, a la derecha!{w} ¡¡¡Como un disco!!!"
 
 # game/code/d16/d16s10.rpy:353
 translate spanish d16s10_53303534:
@@ -682,7 +682,7 @@ translate spanish d16s10_ffd36e1e:
 translate spanish d16s10_c70e4f61:
 
     # mc "That's a fucking fountain alright!"
-    mc "¡Eso sí que es una puta fuente!"
+    mc "¡Eso sí que es una maldita fuente!"
 
 # game/code/d16/d16s10.rpy:401
 translate spanish d16s10_a9d8f782:
@@ -694,13 +694,13 @@ translate spanish d16s10_a9d8f782:
 translate spanish d16s10_8d37174c:
 
     # arj "Ohhhh fuckkkk!! {w}STOP!!!"
-    arj "¡¡Ohhhh joder!! {w}¡¡¡DETÉNTE!!!"
+    arj "¡¡Ohhhh mierda!! {w}¡¡¡DETÉNTE!!!"
 
 # game/code/d16/d16s10.rpy:412
 translate spanish d16s10_28759840:
 
     # arj "Fuck fuckfuck too fast...."
-    arj "Joder, joder demasiado rápido...."
+    arj "Mierda, mierda demasiado rápido...."
 
 # game/code/d16/d16s10.rpy:416
 translate spanish d16s10_a70f49a9:
@@ -1012,7 +1012,7 @@ translate spanish d16s10_3febb562:
 translate spanish d16s10_62c43011:
 
     # mc "FUCK YES!!!"
-    mc "¡¡¡JODER SÍ!!!"
+    mc "¡¡¡MIERDA SÍ!!!"
 
 # game/code/d16/d16s10.rpy:620
 translate spanish d16s10_31610352:
@@ -1144,7 +1144,7 @@ translate spanish d16s10_c8e73589:
 translate spanish d16s10_ce9c98af:
 
     # arj "It seems to know more about those of us in the reten-"
-    arj "Parece saber más acerca de aquellos de nosotros en el programa de reten-"
+    arj "Parece saber más sobre quienes estamos en el programa de retención."
 
 # game/code/d16/d16s10.rpy:695
 translate spanish d16s10_150396ad:
@@ -1270,7 +1270,7 @@ translate spanish d16s10_b913169d:
 translate spanish d16s10_577b4087:
 
     # arj "Just ask her about Mozart."
-    arj "Solo pregúntale sobre Mozart."
+    arj "Sólo pregúntale sobre Mozart."
 
 # game/code/d16/d16s10.rpy:748
 translate spanish d16s10_f9b7d414:
@@ -1354,7 +1354,7 @@ translate spanish d16s10_12e285f3:
 translate spanish d16s10_a4d72e32:
 
     # mc "That's... {w}very mature of you. I'll do that."
-    mc "Eso es... {w}muy maduro de tu parte. Yo haré eso."
+    mc "Eso es... {w}muy maduro de tu parte. Lo haré."
 
 # game/code/d16/d16s10.rpy:780
 translate spanish d16s10_41e5748b:
@@ -1376,7 +1376,7 @@ translate spanish strings:
 
     # game/code/d16/d16s10.rpy:205
     old "Tell her how you would fuck her"
-    new "Dile como te la follarías"
+    new "Dile cómo te la follarías"
 
     # game/code/d16/d16s10.rpy:205
     old "Tell her how you came while she was under the table"
