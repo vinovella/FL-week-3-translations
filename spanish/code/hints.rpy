@@ -336,7 +336,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Lose option for Polly/Nora/MC Threesome ending."
-    new "Opción perdida para el final del trío de Polly/Nora/MC."
+    new "Pierdes la oportunidad de tener un final de trío Polly/Nora/MC."
 
     # game/code/hints.rpy:5
     old "Increases chance of Polly/Nora/MC Threesome ending."
