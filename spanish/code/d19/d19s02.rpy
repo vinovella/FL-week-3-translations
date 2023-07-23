@@ -88,7 +88,7 @@ translate spanish d19s02_3f0c44bd:
 translate spanish d19s02_f6dc076b:
 
     # sy "Pete? Wait, {i}your friend who you vouched for{/i} Pete?"
-    sy "¿Pete? Espera, {i}¿Tu amigo por el que respondiste{/i}, Pete?"
+    sy "¿Pete? Espera, {i}Tu amigo por el que respondiste{/i}, ¿Pete?"
 
 # game/code/d19/d19s02.rpy:189
 translate spanish d19s02_4d088457:
@@ -136,7 +136,7 @@ translate spanish d19s02_cbc203dd:
 translate spanish d19s02_b205f7da:
 
     # sy "What do you mean \"from what I gathered\", where were you?"
-    sy "¿Qué quieres decir \" con lo que he recopilado?\" ¿Dónde estabas?"
+    sy "¿Qué quieres decir \" con lo que he recopilado\"? ¿Dónde estabas?"
 
 # game/code/d19/d19s02.rpy:209
 translate spanish d19s02_29942233:
@@ -232,7 +232,7 @@ translate spanish d19s02_b6485de5:
 translate spanish d19s02_7ddde078:
 
     # mc "It's alright. You all did amazingly. What happened, happened. It is what it is."
-    mc "Está bien. Ustedes lo hicieron increíble. Lo que pasó, pasó. Es lo que es."
+    mc "Está bien. Ustedes lo hicieron increíble. Lo que pasó, pasó. Las cosas son como son."
 
 # game/code/d19/d19s02.rpy:269
 translate spanish d19s02_735ac68a:
@@ -316,7 +316,7 @@ translate spanish d19s02_a92e76dd:
 translate spanish d19s02_c4d526de:
 
     # sy "Oh, what a load of horse shit. Of course he \"vanished.\" She's lying out of her teeth."
-    sy "Oh, qué montón de mierda de caballo. Por supuesto que \"desapareció.\" Está mintiendo descaradamente."
+    sy "Oh, qué montón de mierda de caballo. Por supuesto que \"desapareció\" Está mintiendo descaradamente."
 
 # game/code/d19/d19s02.rpy:305
 translate spanish d19s02_36f95594:
@@ -460,7 +460,7 @@ translate spanish d19s02_69d286d1:
 translate spanish d19s02_cdd53ec4:
 
     # sy "That's diabolical. Fuck yeah."
-    sy "Eso es diabólico. Joder, sí."
+    sy "Eso es diabólico. Mierda, sí."
 
 # game/code/d19/d19s02.rpy:394
 translate spanish d19s02_bea97fa7:
@@ -478,7 +478,7 @@ translate spanish d19s02_cf1adef2:
 translate spanish d19s02_78eebe94:
 
     # arj "Nordin's probably the easiest then. Man's an old perv. If we can get him in a precarious position with a student, he'd do anything to keep it secret."
-    arj "Nordin es probablemente el más fácil entonces. El hombre es un viejo pervertido. Si podemos ponerlo en una posición precaria con un estudiante, haría cualquier cosa para mantenerlo en secreto."
+    arj "Nordin es probablemente el más fácil. El hombre es un viejo pervertido. Si podemos ponerlo en una posición precaria con una estudiante, haría cualquier cosa para mantenerlo en secreto."
 
 # game/code/d19/d19s02.rpy:401
 translate spanish d19s02_35c53aa5:
@@ -496,7 +496,7 @@ translate spanish d19s02_dedf4736:
 translate spanish d19s02_81559989:
 
     # arj "And Lewald is just...I don't even know. I've met my fair share of religious nuts, but she's something else."
-    arj "Y Lewald es solo... Ni siquiera lo sé. He conocido una buena cantidad de locos religiosos, pero ella es otra cosa."
+    arj "Y Lewald es simplemente... ni siquiera lo sé. He conocido a muchos locos religiosos, pero ella es otra cosa."
 
 # game/code/d19/d19s02.rpy:408
 translate spanish d19s02_47935497:
@@ -538,7 +538,7 @@ translate spanish d19s02_286775e5:
 translate spanish d19s02_261658a7:
 
     # arj "No! Not that, it just makes me wonder if you could get to her through Cynthia."
-    arj "¡No! No es eso, solo me hace preguntar si podrías llegar a ella a través de Cynthia."
+    arj "¡No! No es eso, sólo me hace preguntarme si podrías llegar a ella a través de Cynthia."
 
 # game/code/d19/d19s02.rpy:427
 translate spanish d19s02_2e2b325f:
@@ -628,7 +628,7 @@ translate spanish d19s02_8e05f5f3:
 translate spanish d19s02_8a949f85:
 
     # sy "I'm sure we can get back in there and see if there's a way to shut it down or something."
-    sy "Estoy segura de que podemos volver allí y ver si hay una manera de apagarlo o algo así."
+    sy "Estoy segura de que podemos volver a entrar y ver si hay alguna forma de desactivarlo o algo así."
 
 # game/code/d19/d19s02.rpy:465
 translate spanish d19s02_113515db:
