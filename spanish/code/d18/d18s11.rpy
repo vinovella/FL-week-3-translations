@@ -112,7 +112,7 @@ translate spanish d18s11_bar_db78e4ee:
 translate spanish d18s11_bar_77dee9d8:
 
     # "Bartender" "Just a joke.{w} Tequila it is."
-    "Camarero" "Solo una broma. {w} Tequila entonces."
+    "Camarero" "Sólo una broma. {w} Tequila entonces."
 
 # game/code/d18/d18s11.rpy:113
 translate spanish d18s11_bar_617f5b25:
@@ -232,7 +232,7 @@ translate spanish d18s11_bar_5ce6af97:
 translate spanish d18s11_bar_94b7dd60:
 
     # ts "All these fucking pigs think I'm a whore when really I'm just a horny bitch in heat."
-    ts "Todos estos malditos cerdos piensan que soy una puta cuando en realidad solo soy una perra caliente en celo."
+    ts "Todos estos malditos cerdos piensan que soy una puta cuando en realidad sólo soy una zorra caliente en celo."
 
 # game/code/d18/d18s11.rpy:181
 translate spanish d18s11_bar_32b376d4:
@@ -244,7 +244,7 @@ translate spanish d18s11_bar_32b376d4:
 translate spanish d18s11_bar_31d056d9:
 
     # ts "I just want a hot, hard man to fuck me senseless."
-    ts "Solo quiero un hombre caliente y duro que me folle sin sentido."
+    ts "Sólo quiero un hombre caliente y duro que me folle sin sentido."
 
 # game/code/d18/d18s11.rpy:185
 translate spanish d18s11_bar_a7ff490f:
@@ -274,7 +274,7 @@ translate spanish d18s11_bar_d8b345ef:
 translate spanish d18s11_bar_b492d5a1:
 
     # mc "Yeah, whatever.{w} Just figuring out how many of my so-called \"friends\" have been fucking me in the ass."
-    mc "Sí, lo que sea. {w} Solo estoy averiguando cuántos de mis supuestos \"amigos\" me han estado follando por el culo."
+    mc "Sí, lo que sea. {w} Sólo estoy averiguando cuántos de mis supuestos \"amigos\" me han estado follando por el culo."
 
 # game/code/d18/d18s11.rpy:200
 translate spanish d18s11_bar_837aa8de:
