@@ -4,7 +4,7 @@
 translate spanish d15s03_6150bb0b:
 
     # mct "Just need to get my stuff and-"
-    mct "Solo necesito tomar mis cosas y..."
+    mct "Sólo necesito tomar mis cosas y..."
 
 # game/code/d15/d15s03.rpy:26
 translate spanish d15s03_34ee1bae:
@@ -46,7 +46,7 @@ translate spanish d15s03_72d5edae:
 translate spanish d15s03_c27fcc17:
 
     # mc "Shit. I need to study a lot more too. Finals are just a few days away."
-    mc "Mierda. También tengo que estudiar mucho más. Las finales están a solo unos días de distancia."
+    mc "Mierda. También tengo que estudiar mucho más. Las finales están a unos días de distancia."
 
 # game/code/d15/d15s03.rpy:48
 translate spanish d15s03_44aa5adf:
@@ -100,7 +100,7 @@ translate spanish d15s03_hr_theft_38f37c10:
 translate spanish d15s03_hr_theft_fc318384:
 
     # pb "Nah, they'd leave a note or a soiled condom or something. It wouldn't just be gone."
-    pb "No, dejarían una nota o un condón sucio o algo así. No solo se habría ido."
+    pb "No, dejarían una nota o un condón sucio o algo así. No se iría así como así."
 
 # game/code/d15/d15s03.rpy:82
 translate spanish d15s03_hr_theft_c5e43ef3:
@@ -124,7 +124,7 @@ translate spanish d15s03_hr_theft_b20eb1fa:
 translate spanish d15s03_hr_theft_1c036d0e:
 
     # pb "It's just the other day... maybe a week or two ago? You were jerking off at my desk?"
-    pb "Es solo que el otro día... ¿tal vez hace una semana o dos? ¿Te estabas masturbando en mi escritorio?"
+    pb "Fue el otro día... ¿tal vez hace una semana o dos? ¿Te estabas masturbando en mi escritorio?"
 
 # game/code/d15/d15s03.rpy:93
 translate spanish d15s03_hr_theft_c1720aaf:
@@ -142,13 +142,13 @@ translate spanish d15s03_hr_theft_6a089c4d:
 translate spanish d15s03_hr_theft_f0a28c3c:
 
     # mc "No, no, no. Man, hell no. {w}If I did something like that I'd come clean with you straight up."
-    mc "No no no. Hombre, diablos no. {w}Si hiciera algo así, te diría la verdad."
+    mc "No, no, no. Hombre, diablos no. {w}Si hiciera algo así, te diría la verdad."
 
 # game/code/d15/d15s03.rpy:102
 translate spanish d15s03_hr_theft_63d2c8b3:
 
     # pb "Cool, brah. My bad, I shouldn't have even asked."
-    pb "Genial, hermano. Mala mía, ni siquiera debería haber preguntado."
+    pb "Genial, hermano. Es mi culpa, ni siquiera debería haber preguntado."
 
 # game/code/d15/d15s03.rpy:105
 translate spanish d15s03_hr_theft_ef8ba214:
@@ -238,13 +238,13 @@ translate spanish d15s03_hr_theft_35ab8f09:
 translate spanish d15s03_hr_theft_1feb4308:
 
     # pb "If I go around looking for who stole it, I'll just make things worse."
-    pb "Si voy por ahí buscando quién lo robó, solo empeoraré las cosas."
+    pb "Si voy por ahí buscando quién lo robó, sólo empeoraré las cosas."
 
 # game/code/d15/d15s03.rpy:145
 translate spanish d15s03_hr_theft_c98a8c37:
 
     # pb "So, I just gotta say, \"It's gone\" and move on with my life."
-    pb "Entonces, solo tengo que decir, \"Se acabó\" y seguir con mi vida."
+    pb "Entonces, sólo tengo que decir, \"Se acabó\" y seguir con mi vida."
 
 # game/code/d15/d15s03.rpy:148
 translate spanish d15s03_hr_theft_bac0670c:
@@ -310,7 +310,7 @@ translate spanish d15s03_middle_b2b9e19d:
 translate spanish d15s03_middle_84f3a107:
 
     # pb "Fetish Locator. It keeps trying to get me to do really weird shit."
-    pb "Localizador de fetiches. Sigue intentando que haga cosas realmente raras."
+    pb "El Localizador de fetiches. Sigue intentando que haga cosas realmente raras."
 
 # game/code/d15/d15s03.rpy:188
 translate spanish d15s03_middle_ee87e6f3:
@@ -328,7 +328,7 @@ translate spanish d15s03_middle_5d501e32:
 translate spanish d15s03_middle_60259738:
 
     # mc "What is it trying to get you to do?"
-    mc "¿Qué está tratando de que hagas?"
+    mc "¿Qué está tratando que hagas?"
 
 # game/code/d15/d15s03.rpy:195
 translate spanish d15s03_middle_d19d36be:
@@ -766,7 +766,7 @@ translate spanish d15s03_dw_setup_f820fcc8:
 translate spanish d15s03_dw_setup_bf15c4e1:
 
     # pb "I just think that sometimes it's all one big joke."
-    pb "Solo pienso que a veces todo es una gran broma."
+    pb "Sólo pienso que a veces todo es una gran broma."
 
 # game/code/d15/d15s03.rpy:401
 translate spanish d15s03_dw_setup_4e8a50c9:
@@ -796,7 +796,7 @@ translate spanish d15s03_dw_setup_b2b9e19d:
 translate spanish d15s03_dw_setup_ea39b3cf:
 
     # pb "What if you and me - just grab a couple of girls and take off?"
-    pb "¿Qué tal si tú y yo solo tomamos un par de chicas y nos largamos?"
+    pb "¿Qué tal si tú y yo tomamos un par de chicas y nos largamos?"
 
 # game/code/d15/d15s03.rpy:416
 translate spanish d15s03_dw_setup_693e803c:
@@ -826,7 +826,7 @@ translate spanish d15s03_dw_setup_56524e2c:
 translate spanish d15s03_dw_setup_4d7d45d8:
 
     # pb "Yeah, Carlos. He used to be just Uncle Carl. Then he had one of those mid-life crisis things."
-    pb "Sí, Carlos. Solía ​​ser solo el tío Carl. Luego tuvo una de esas crisis de la mediana edad."
+    pb "Sí, Carlos. Solía ​​ser sólo el tío Carl. Luego tuvo una de esas crisis de la mediana edad."
 
 # game/code/d15/d15s03.rpy:427
 translate spanish d15s03_dw_setup_daf3be7c:

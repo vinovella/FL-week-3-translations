@@ -640,7 +640,7 @@ translate spanish e06s09_eat_out_9d767190:
 translate spanish e06s09_eat_out_23b769aa:
 
     # lc "FUCK ME, Really?"
-    lc "JÓDEME, ¿En serio?"
+    lc "FÓLLAME, ¿En serio?"
 
 # game/code/e06/e06s09.rpy:794
 translate spanish e06s09_eat_out_0fb570fc:
@@ -754,7 +754,7 @@ translate spanish e06s09_screw_her_0d84d901:
 translate spanish e06s09_screw_her_cbf10b6c:
 
     # lc "Did it also say something about \"Beware Greeks bearing gifts\"?"
-    lc "¿Dijo también algo sobre \"Cuidado con los griegos que traen regalos\"?"
+    lc "¿Dijo también algo sobre \"Cuidado con los Griegos que traen regalos\"?"
 
 # game/code/e06/e06s09.rpy:893
 translate spanish e06s09_screw_her_67374045:
@@ -784,7 +784,7 @@ translate spanish e06s08_climax_b7084878:
 translate spanish e06s08_climax_34e09395:
 
     # lc "I'm gonna... I'm gonna..."
-    lc "voy a... voy a..."
+    lc "Me voy a... Me voy a..."
 
 # game/code/e06/e06s09.rpy:945
 translate spanish e06s08_climax_bc82b750:
@@ -808,7 +808,7 @@ translate spanish e06s08_climax_7a54e3f4:
 translate spanish e06s08_climax_7a53452d:
 
     # mc "OH MY FUCK YOU'RE PUSSY IS AMAZING!!!"
-    mc "¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡!"
+    mc "¡¡¡OH MI MIERDA TU COÑO ES INCREÍBLE!!!"
 
 # game/code/e06/e06s09.rpy:956
 translate spanish e06s08_climax_071140f3:
@@ -928,7 +928,7 @@ translate spanish e06s08_post_climax_a91921f8:
 translate spanish e06s08_post_climax_d6c54563:
 
     # lc "True. Then Min giving you a hard time about who went first."
-    lc "Cierto. Entonces Min haciendote pasar un mal rato sobre quién iba primero."
+    lc "Cierto. Entonces Min haciéndote pasar un mal rato sobre quién iba primero."
 
 # game/code/e06/e06s09.rpy:1022
 translate spanish e06s08_post_climax_966aae39:
@@ -970,7 +970,7 @@ translate spanish e06s08_post_climax_e31a0387:
 translate spanish e06s08_post_climax_cfc61d77:
 
     # sy "Aw, shucks."
-    sy "Oh, caray."
+    sy "Oh, vaya."
 
 # game/code/e06/e06s09.rpy:1037
 translate spanish e06s08_post_climax_a1475312:
@@ -988,7 +988,7 @@ translate spanish e06s08_post_climax_f841391a:
 translate spanish e06s08_post_climax_77f77511:
 
     # mes "I know I challenged you. I do that to everyone - whether I like them or not."
-    mes "Sé que te desafié. Le hago eso a todo el mundo, me gusten o no."
+    mes "Sé que te he desafiado. Se lo hago a todo el mundo, me guste o no."
 
 # game/code/e06/e06s09.rpy:1043
 translate spanish e06s08_post_climax_08126be1:
@@ -1012,7 +1012,7 @@ translate spanish e06s08_post_climax_8c363274:
 translate spanish e06s08_post_climax_6b2b9c11:
 
     # arj "I don't have the words that Min used, but Stacy, you know I love you, right?"
-    arj "No tengo las palabras que usó Min, pero Stacy, sabes que te amo, ¿verdad?"
+    arj "No tengo las mismas palabras que usó Min, pero Stacy, sabes que te amo, ¿verdad?"
 
 # game/code/e06/e06s09.rpy:1052
 translate spanish e06s08_post_climax_567faf98:
@@ -1184,11 +1184,11 @@ translate spanish strings:
 
     # game/code/e06/e06s09.rpy:159
     old "Eat Her Out"
-    new "comérsela"
+    new "Comérsela"
 
     # game/code/e06/e06s09.rpy:159
     old "Screw Her"
-    new "fóllatela de lado"
+    new "Fóllatela de lado"
 
     # game/code/e06/e06s09.rpy:563
     old "Just Keep Going"

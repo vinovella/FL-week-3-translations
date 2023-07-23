@@ -4,7 +4,7 @@
 translate spanish d17s06pn_9f8e2b43:
 
     # mct "Wow. Polly & Nora look really close. {w}I hope I'm not a third wheel on this date."
-    mct "Guau. Polly y Nora se ven muy unidas. {w}Espero no ser una tercera rueda en esta cita."
+    mct "Vaya. Polly y Nora se ven muy unidas. {w}Espero no ser una tercera rueda en esta cita."
 
 # game/code/d17/d17s06pn.rpy:47
 translate spanish d17s06pn_46090f7c:
@@ -52,7 +52,7 @@ translate spanish d17s06pn_312f0375:
 translate spanish d17s06pn_463b122d:
 
     # nk "True, but it was also sexy as hell."
-    nk "Cierto, pero también era sexy como el infierno."
+    nk "Cierto, pero también era muy sexy."
 
 # game/code/d17/d17s06pn.rpy:69
 translate spanish d17s06pn_017570a4:
@@ -250,13 +250,13 @@ translate spanish d17s06pn_9b78eb21:
 translate spanish d17s06pn_05cafe76:
 
     # pw "Just remember that she's not on birth control, so no cumming inside her."
-    pw "Solo recuerda que ella no está tomando anticonceptivos, así que no te corras dentro de ella."
+    pw "Sólo recuerda que no está tomando anticonceptivos, así que no te corras dentro de ella."
 
 # game/code/d17/d17s06pn.rpy:188
 translate spanish d17s06pn_63491ffa:
 
     # mc "Fuck yeah, no worries about that."
-    mc "Joder, sí, no te preocupes por eso."
+    mc "Mierda, sí, no te preocupes por eso."
 
 # game/code/d17/d17s06pn.rpy:191
 translate spanish d17s06pn_5f364685:
@@ -304,7 +304,7 @@ translate spanish d17s06pn_c5638422:
 translate spanish d17s06pn_0b03baf9:
 
     # mc "Wha-?"
-    mc "¿Qué-?"
+    mc "¿Qué?"
 
 # game/code/d17/d17s06pn.rpy:238
 translate spanish d17s06pn_f77bf8c9:
@@ -340,13 +340,13 @@ translate spanish d17s06pn_7373224c:
 translate spanish d17s06pn_a6a92c62:
 
     # mc "Nora? {w}You're kinda quiet. You okay?"
-    mc "¿Nora? {w}Estás un poco callada. ¿Estás bien?"
+    mc "¿Nora? {w}Estás algo callada. ¿Estás bien?"
 
 # game/code/d17/d17s06pn.rpy:255
 translate spanish d17s06pn_76fe658a:
 
     # nk "Just recovering."
-    nk "Solo recuperándome."
+    nk "Sólo recuperándome."
 
 # game/code/d17/d17s06pn.rpy:258
 translate spanish d17s06pn_c41abca6:
@@ -400,7 +400,7 @@ translate spanish d17s06pn_6faf598d:
 translate spanish d17s06pn_4f3f3766:
 
     # nk "I'm just thoughtful."
-    nk "Solo estoy pensativa."
+    nk "Sólo estoy pensativa."
 
 # game/code/d17/d17s06pn.rpy:277
 translate spanish d17s06pn_8aea760b:
@@ -472,7 +472,7 @@ translate spanish d17s06pn_a6ae6fbd:
 translate spanish d17s06pn_1ecb4cac:
 
     # nk "Yeah, I do. {w}Banks, credit cards, that sort of thing."
-    nk "Sí, lo hago. {w}Bancos, tarjetas de crédito, ese tipo de cosas."
+    nk "Sí, así es. {w}Bancos, tarjetas de crédito, ese tipo de cosas."
 
 # game/code/d17/d17s06pn.rpy:305
 translate spanish d17s06pn_a17e5344:
@@ -484,7 +484,7 @@ translate spanish d17s06pn_a17e5344:
 translate spanish d17s06pn_8e6809c6:
 
     # nk "No, they'll just be able to ruin my life."
-    nk "No, solo podrán arruinar mi vida."
+    nk "No, sólo podrán arruinar mi vida."
 
 # game/code/d17/d17s06pn.rpy:312
 translate spanish d17s06pn_14a2d43b:
@@ -634,7 +634,7 @@ translate spanish d17s06pn_a890dec3:
 translate spanish d17s06pn_abc943fe:
 
     # pw "Nora, you know how much I love to suck cock."
-    pw "Nora, sabes cuánto me gusta chupar polla."
+    pw "Nora, sabes cuánto me gusta chupar pollas."
 
 # game/code/d17/d17s06pn.rpy:374
 translate spanish d17s06pn_bdcbf623:
@@ -682,7 +682,7 @@ translate spanish d17s06pn_a1a73db6:
 translate spanish d17s06pn_fb6992f2:
 
     # mc "I think what she's trying to say-"
-    mc "Creo que lo que ella está tratando de decir-"
+    mc "Creo que lo que ella está tratando de decir..."
 
 # game/code/d17/d17s06pn.rpy:405
 translate spanish d17s06pn_24d1b0c3:
@@ -856,7 +856,7 @@ translate spanish d17s06pn_59684a14:
 translate spanish d17s06pn_291f9e0a:
 
     # pw "I mean, you don't want to be with {i}JUST{/i} me."
-    pw "Quiero decir, no quieres estar {i}SOLO{/i} conmigo."
+    pw "Quiero decir, no quieres estar {i}SÓLO{/i} conmigo."
 
 # game/code/d17/d17s06pn.rpy:469
 translate spanish d17s06pn_6dbd9ec8:
@@ -1108,7 +1108,7 @@ translate spanish d17s06pn_d8d00b86:
 translate spanish d17s06pn_4a751149:
 
     # mct "Good for them."
-    mct "Bien por ellos."
+    mct "Bien por ellas."
 
 # game/code/d17/d17s06pn.rpy:637
 translate spanish d17s06pn_a51c0980:

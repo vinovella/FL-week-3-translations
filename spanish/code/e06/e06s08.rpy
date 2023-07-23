@@ -148,7 +148,7 @@ translate spanish e06s08_d38a5123:
 translate spanish e06s08_3fb2e937:
 
     # sy "Cream pies... right?"
-    sy "Tartas de crema... ¿verdad?"
+    sy "Pasteles de crema... ¿verdad?"
 
 # game/code/e06/e06s08.rpy:181
 translate spanish e06s08_40206a97:
@@ -304,7 +304,7 @@ translate spanish e06s08_cake_223b6792:
 translate spanish e06s08_cake_33690e05:
 
     # mc "Don't you think this is one of the things the Queen of my Harem should negotiate?"
-    mc "¿No crees que esta es una de las cosas que la Reina de mi Harem debería negociar?"
+    mc "¿No crees que esta es una de las cosas que la Reina de mi harén debería negociar?"
 
 # game/code/e06/e06s08.rpy:290
 translate spanish e06s08_cake_0b7b0aa5:
@@ -442,7 +442,7 @@ translate spanish d06s08_sy_ec50a06b:
 translate spanish d06s08_sy_1cd50ce3:
 
     # sy "So, I knew [mcname] back before I knew anything about computers or even what the internet was."
-    sy "Entonces, conocía a [mcname] antes de saber nada sobre computadoras o incluso qué era Internet."
+    sy "Entonces, sabía que [mcname] antes de saber nada sobre computadoras o incluso qué era Internet."
 
 # game/code/e06/e06s08.rpy:431
 translate spanish d06s08_sy_b7f4f13c:
@@ -478,7 +478,7 @@ translate spanish d06s08_sy_26df2275:
 translate spanish d06s08_sy_7764ddf9:
 
     # sy "Where was I? Oh yeah, the television."
-    sy "¿Donde estaba? Ah, sí, la televisión."
+    sy "¿Dónde estaba? Ah, sí, la televisión."
 
 # game/code/e06/e06s08.rpy:459
 translate spanish d06s08_sy_74804a57:
@@ -682,7 +682,7 @@ translate spanish d06s08_sy_586e74c3:
 translate spanish d06s08_sy_a27795ab:
 
     # mct "Wow. Lydia is really good at that. Impressive."
-    mct "Guau. Lydia es muy buena en eso. Impresionante."
+    mct "Vaya. Lydia es muy buena en eso. Impresionante."
 
 # game/code/e06/e06s08.rpy:565
 translate spanish d06s08_sy_626f375b:
@@ -796,7 +796,7 @@ translate spanish d06s08_mes_fcaf4f4d:
 translate spanish d06s08_mes_f47697fc:
 
     # mes "We were both quick. We tied at tying. So, she challenged me to untying."
-    mes "Las dos fuimos rápidas. Empatamos en atar. Entonces, ella me desafió a desatar."
+    mes "Las dos fuimos rápidas. Empatamos en atarnos los zapatos. Entonces, ella me desafió a desatarlo."
 
 # game/code/e06/e06s08.rpy:668
 translate spanish d06s08_mes_a9d6d825:
@@ -862,7 +862,7 @@ translate spanish d06s08_mes_74586722:
 translate spanish d06s08_mes_ceb54a40:
 
     # mes "Lydia. [mcname]. May all your \"for better or worse\" moments be far better than worse."
-    mes "Lydia. [mcname]. Que todos tus momentos de \"para bien o para mal\" sean mucho mejores que peores."
+    mes "Lydia. [mcname]. Que todos sus momentos de \"para bien o para mal\" sean mucho mejores que peores."
 
 # game/code/e06/e06s08.rpy:713
 translate spanish d06s08_mes_4f9dd9fe:
@@ -970,7 +970,7 @@ translate spanish d06s08_arj_8c8813cf:
 translate spanish d06s08_arj_258ce9c9:
 
     # arj "Plotters plan everything out. Pantsers fly by the seat of their pants."
-    arj "Los planificadores lo planean todo. Los planificadores se dejan llevar."
+    arj "Los planificadores lo planean todo. Los que no lo hacen se dejan llevar."
 
 # game/code/e06/e06s08.rpy:791
 translate spanish d06s08_arj_f0a78f81:
@@ -1252,7 +1252,7 @@ translate spanish d06s08_arj_539e07e2:
 translate spanish d06s08_arj_22e15c98:
 
     # arj "Fucking shit ass fuck shit mother fucking shit eat me cunt!"
-    arj "¡Maldita mierda de mierda de mierda de mierda de puta madre cómeme coño!"
+    arj "¡Maldita mierda de mierda de mierda de mierda de puta madre cómeme puta!"
 
 # game/code/e06/e06s08.rpy:927
 translate spanish d06s08_arj_df7896eb:
@@ -1330,7 +1330,7 @@ translate spanish d06s08_dd_8ef86bd1:
 translate spanish d06s08_dd_0aa6e00d:
 
     # dd "I'm my own protagonist and my own story is great, but my story is just a small part of something bigger."
-    dd "Soy mi propio protagonista y mi propia historia es genial, pero mi historia es solo una pequeña parte de algo más grande."
+    dd "Soy mi propia protagonista y mi propia historia es genial, pero mi historia es solo una pequeña parte de algo más grande."
 
 # game/code/e06/e06s08.rpy:1000
 translate spanish d06s08_dd_7e650043:
@@ -1372,7 +1372,7 @@ translate spanish d06s08_dd_285da686:
 translate spanish d06s08_dd_5470d03b:
 
     # dd "Screw whatever I was saying. Just keep fucking me!"
-    dd "A la mierda lo que sea que estaba diciendo. ¡Solo sigue follándome!"
+    dd "A la mierda lo que sea que estaba diciendo. ¡Sólo sigue follándome!"
 
 # game/code/e06/e06s08.rpy:1037
 translate spanish d06s08_dd_a865a079:
@@ -1396,7 +1396,7 @@ translate spanish d06s08_dd_de6d3896:
 translate spanish d06s08_dd_b3d98068:
 
     # dd "YES! YESS!!! GIVE IT DEEP!!"
-    dd "¡SÍ! ¡¡¡SÍ!!! ¡¡DALE PROFUNDIDAD!!"
+    dd "¡SÍ! ¡¡¡SÍ!!! ¡¡DAME PROFUNDO!!"
 
 # game/code/e06/e06s08.rpy:1053
 translate spanish d06s08_dd_987d7405:
@@ -1414,7 +1414,7 @@ translate spanish d06s08_dd_5cf52a8e:
 translate spanish d06s08_dd_670c94c3:
 
     # dd "MMMMmmmMMMMMmmMMMMYYYYESSSSS"
-    dd "MMMMMMMMMMMMMMMAAAASSSS"
+    dd "MMMMMMMMMMMMMMMSÍIIII"
 
 # game/code/e06/e06s08.rpy:1067
 translate spanish d06s08_dd_5bfab9b5:
@@ -1666,7 +1666,7 @@ translate spanish d06s08_mh_46a73dd4:
 translate spanish d06s08_mh_c964e85d:
 
     # mc "Whew. I mean \"Wow\". That was something else."
-    mc "Uf. Me refiero a \"Guau\". Eso fue otra cosa."
+    mc "Uf. Me refiero a \"Vaya\". Eso fue otra cosa."
 
 # game/code/e06/e06s08.rpy:1186
 translate spanish d06s08_mh_ccf0a359:
@@ -1702,7 +1702,7 @@ translate spanish d06s08_mh_7f4a0c40:
 translate spanish d06s08_mh_5fd2f483:
 
     # mct "Wow! Now that's something I don't see everyday."
-    mct "¡Guau! Eso es algo que no veo todos los días."
+    mct "¡Vaya! Eso es algo que no veo todos los días."
 
 # game/code/e06/e06s08.rpy:1199
 translate spanish d06s08_mh_b0193880:
@@ -1714,7 +1714,7 @@ translate spanish d06s08_mh_b0193880:
 translate spanish d06s08_mh_87e85f91:
 
     # lc "Lyssa, my beloved, may I have the gift of my husband's seed?"
-    lc "Lyssa, mi amada, ¿puedo tener el regalo de la semilla de mi esposo?"
+    lc "Lyssa, querida mía, ¿me regalas la semilla de mi esposo?"
 
 # game/code/e06/e06s08.rpy:1204
 translate spanish d06s08_mh_89695c94:
@@ -1738,7 +1738,7 @@ translate spanish d06s08_mh_8cb7e073:
 translate spanish d06s08_mh_f717deef:
 
     # lc "No, no. I mean, I knew she was..."
-    lc "No no. Quiero decir, sabía que ella era..."
+    lc "No, no. Quiero decir, sabía que ella era..."
 
 # game/code/e06/e06s08.rpy:1213
 translate spanish d06s08_mh_c5152627:

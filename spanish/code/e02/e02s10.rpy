@@ -46,7 +46,7 @@ translate spanish e02s10_e7bbd0f5:
 translate spanish e02s10_eed533e0:
 
     # mc "Think of it as a kind of hideaway and focused rejuvenation center. You talked about how much you enjoyed helping the couples up in the mountains."
-    mc "Piensa en ello como una especie de escondite y centro de rejuvenecimiento enfocado. Has hablado de lo mucho que disfrutaste ayudando a las parejas en las montañas."
+    mc "Piensa en ello como una especie de escondite y centro de atención especializado en rejuvenecimiento. Has hablado de lo mucho que disfrutaste ayudando a las parejas en las montañas."
 
 # game/code/e02/e02s10.rpy:77
 translate spanish e02s10_231b1de5:
@@ -142,7 +142,7 @@ translate spanish e02s10_f831b0a9:
 translate spanish e02s10_764e30b2:
 
     # mh "I promise I will not overexert myself, my love. We can start out slow, probably just one couple."
-    mh "Te prometo que no me esforzaré demasiado, mi amor. Podemos comenzar lento, probablemente solo una pareja."
+    mh "Te prometo que no me esforzaré demasiado, mi amor. Podemos comenzar lento, probablemente con una sola pareja."
 
 # game/code/e02/e02s10.rpy:119
 translate spanish e02s10_c3b64a58:
@@ -196,7 +196,7 @@ translate spanish e02s10_0d3f1691:
 translate spanish e02s10_59c43b85:
 
     # mc "I have a rough idea."
-    mc "Tengo una idea aproximada."
+    mc "Tengo más o menos una idea."
 
 # game/code/e02/e02s10.rpy:146
 translate spanish e02s10_4f3a890f:
@@ -538,7 +538,7 @@ translate spanish e02s10_double_anal_f24df0e8:
 translate spanish e02s10_double_anal_7fa3390b:
 
     # mh "I... enjoy being the pounder on occasion."
-    mh "Yo... disfruto siendo el que golpea de vez en cuando."
+    mh "Yo... disfruto siendo la que golpea de vez en cuando."
 
 # game/code/e02/e02s10.rpy:398
 translate spanish e02s10_double_anal_3032117a:
@@ -604,7 +604,7 @@ translate spanish e02s10_double_anal_68d4d5a6:
 translate spanish e02s10_double_anal_e1365cc9:
 
     # mc "Oh wow."
-    mc "Oh wow."
+    mc "Oh vaya."
 
 # game/code/e02/e02s10.rpy:461
 translate spanish e02s10_double_anal_c6759ae3:
@@ -670,7 +670,7 @@ translate spanish e02s10_double_anal_fc0fe1ba:
 translate spanish e02s10_double_anal_f4b83a2f:
 
     # mc "Here now. Oh boy... that was new."
-    mc "Aquí ahora. Oh chico... eso era nuevo."
+    mc "Ahora aquí. Oh chica... eso fue nuevo."
 
 # game/code/e02/e02s10.rpy:529
 translate spanish e02s10_double_anal_388d7c91:
@@ -838,7 +838,7 @@ translate spanish e02s10_months_later_e41e6825:
 translate spanish e02s10_months_later_8446c5fa:
 
     # mc "Look out world! Harris-Young Solutions is coming to town to fix your relationships!"
-    mc "¡Cuidado mundo! ¡Harris-Young Solutions llega a la ciudad para arreglar tus relaciones!"
+    mc "¡Cuidado mundo! ¡Soluciones Harris-Young llega a la ciudad para ayudarte con los problemas de pareja!"
 
 translate spanish strings:
 

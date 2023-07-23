@@ -1312,7 +1312,7 @@ translate turkish d21s06_reboot_fl_c8ae2ec1:
 translate turkish d21s06_reboot_fl_00d7d5cb:
 
     # sy "So what do you think we should name it?"
-    sy "So what do you think we should name it?"
+    sy "Peki sizce adını ne koymalıyız?"
 
 # game/code/d21/d21s06.rpy:601
 translate turkish d21s06_reboot_fl_334a8367:
@@ -1324,685 +1324,685 @@ translate turkish d21s06_reboot_fl_334a8367:
 translate turkish d21s06_reboot_fl_1923ec31:
 
     # sy "That's a name."
-    sy "That's a name."
+    sy "Bu bir isim."
 
 # game/code/d21/d21s06.rpy:605
 translate turkish d21s06_reboot_fl_db9edca0:
 
     # arj "Is it?"
-    arj "Is it?"
+    arj "Bu mu?"
 
 # game/code/d21/d21s06.rpy:608
 translate turkish d21s06_reboot_fl_6ae37544:
 
     # sy "At least he didn't name it Locate Fetish."
-    sy "At least he didn't name it Locate Fetish."
+    sy "En azından Locate Fetish adını vermedi."
 
 # game/code/d21/d21s06.rpy:612
 translate turkish d21s06_reboot_fl_acaa56d1:
 
     # sy "Locate Fetish? Really???"
-    sy "Locate Fetish? Really???"
+    sy "Fetiş Bul? Gerçekten mi???"
 
 # game/code/d21/d21s06.rpy:616
 translate turkish d21s06_reboot_fl_f4d2de8b:
 
     # mc "Hey, if you don't like it, then you come up with an alternative. If not, then don't complain."
-    mc "Hey, if you don't like it, then you come up with an alternative. If not, then don't complain."
+    mc "Hey, eğer beğenmediysen, o zaman bir alternatif bulursun. Beğenmediysen şikayet etme."
 
 # game/code/d21/d21s06.rpy:618
 translate turkish d21s06_reboot_fl_3efe3ff8:
 
     # sy "I didn't say anything."
-    sy "I didn't say anything."
+    sy "Ben bir şey demedim."
 
 # game/code/d21/d21s06.rpy:619
 translate turkish d21s06_reboot_fl_2bad061a:
 
     # mc "And who should we invite?"
-    mc "And who should we invite?"
+    mc "Peki kimi davet etmeliyiz?"
 
 # game/code/d21/d21s06.rpy:622
 translate turkish d21s06_reboot_fl_189e88a3:
 
     # sy "Well, I was hoping AmRose would help with the coding."
-    sy "Well, I was hoping AmRose would help with the coding."
+    sy "Şey, AmRose'un kodlamaya yardımcı olacağını umuyordum."
 
 # game/code/d21/d21s06.rpy:625
 translate turkish d21s06_reboot_fl_b71fcd8f:
 
     # arj "No, no thanks."
-    arj "No, no thanks."
+    arj "Hayır, hayır teşekkürler."
 
 # game/code/d21/d21s06.rpy:627
 translate turkish d21s06_reboot_fl_86afef84:
 
     # sy "Oh, come on."
-    sy "Oh, come on."
+    sy "Ah, hadi ama."
 
 # game/code/d21/d21s06.rpy:628
 translate turkish d21s06_reboot_fl_bc169b9f:
 
     # arj "No, I really don't want to."
-    arj "No, I really don't want to."
+    arj "Hayır, gerçekten istemiyorum."
 
 # game/code/d21/d21s06.rpy:629
 translate turkish d21s06_reboot_fl_77580ab7:
 
     # arj "I came here to do one thing, I don't really have any interest in doing anything high-paced like that."
-    arj "I came here to do one thing, I don't really have any interest in doing anything high-paced like that."
+    arj "Buraya bir şey yapmaya geldim, böyle yüksek tempolu bir şey yapmakla gerçekten ilgilenmiyorum."
 
 # game/code/d21/d21s06.rpy:632
 translate turkish d21s06_reboot_fl_7af041ab:
 
     # sy "Didn't you major in it?"
-    sy "Didn't you major in it?"
+    sy "Bunda uzmanlaşmadın mı?"
 
 # game/code/d21/d21s06.rpy:635
 translate turkish d21s06_reboot_fl_00b9b084:
 
     # arj "A lot of my time is spent in solitude."
-    arj "A lot of my time is spent in solitude."
+    arj "Zamanımın çoğu yalnızlık içinde geçiyor."
 
 # game/code/d21/d21s06.rpy:638
 translate turkish d21s06_reboot_fl_72b5e5e4:
 
     # sy "Alright, but hear me out."
-    sy "Alright, but hear me out."
+    sy "Pekala, ama beni dinle."
 
 # game/code/d21/d21s06.rpy:639
 translate turkish d21s06_reboot_fl_74b52c71:
 
     # sy "You know how in some film productions, they have some 'intimacy advisor' on set to have coordination between the director and the actors?"
-    sy "You know how in some film productions, they have some 'intimacy advisor' on set to have coordination between the director and the actors?"
+    sy "Bazı film yapımlarında, yönetmen ve oyuncular arasında koordinasyon sağlamak için sette bir 'yakınlık danışmanı' olduğunu biliyor musunuz?"
 
 # game/code/d21/d21s06.rpy:640
 translate turkish d21s06_reboot_fl_b407179f:
 
     # sy "To keep them comfortable?"
-    sy "To keep them comfortable?"
+    sy "Onları rahat ettirmek için mi?"
 
 # game/code/d21/d21s06.rpy:642
 translate turkish d21s06_reboot_fl_87e3421f:
 
     # arj "I heard of it."
-    arj "I heard of it."
+    arj "Bunu duydum."
 
 # game/code/d21/d21s06.rpy:643
 translate turkish d21s06_reboot_fl_e439aa1c:
 
     # sy "You would have a position like that in the company."
-    sy "You would have a position like that in the company."
+    sy "Şirkette böyle bir pozisyona sahip olurdun."
 
 # game/code/d21/d21s06.rpy:646
 translate turkish d21s06_reboot_fl_0866133d:
 
     # arj "It's hard to make an ethically immoral product by design a moral one."
-    arj "It's hard to make an ethically immoral product by design a moral one."
+    arj "Etik açıdan ahlaka aykırı bir ürünü tasarlayarak ahlaki bir ürün haline getirmek zordur."
 
 # game/code/d21/d21s06.rpy:649
 translate turkish d21s06_reboot_fl_de2884a2:
 
     # sy "Sure you can."
-    sy "Sure you can."
+    sy "Elbette yapabilirsin."
 
 # game/code/d21/d21s06.rpy:650
 translate turkish d21s06_reboot_fl_3041e296:
 
     # sy "[mcname] is in business administration. There's such a thing as business ethics."
-    sy "[mcname] is in business administration. There's such a thing as business ethics."
+    sy "[mcname] işletme alanında. İş ahlakı diye bir şey var."
 
 # game/code/d21/d21s06.rpy:651
 translate turkish d21s06_reboot_fl_f02fa79c:
 
     # arj "If you say so."
-    arj "If you say so."
+    arj "Eğer öyle diyorsan."
 
 # game/code/d21/d21s06.rpy:654
 translate turkish d21s06_reboot_fl_aebbd3e6:
 
     # mc "Business ethics does exist. It's just not exercised that often. Anyway, you don't sound convinced."
-    mc "Business ethics does exist. It's just not exercised that often. Anyway, you don't sound convinced."
+    mc "İş ahlakı vardır. Sadece o kadar sık ​​​​uygulanmıyor. Her neyse, ikna olmuş görünmüyorsun."
 
 # game/code/d21/d21s06.rpy:657
 translate turkish d21s06_reboot_fl_42f39cb8:
 
     # arj "I'm really not."
-    arj "I'm really not."
+    arj "Ben gerçekten değilim."
 
 # game/code/d21/d21s06.rpy:660
 translate turkish d21s06_reboot_fl_6b34b329:
 
     # sy "So what would convince you?"
-    sy "So what would convince you?"
+    sy "Peki seni ne ikna eder?"
 
 # game/code/d21/d21s06.rpy:662
 translate turkish d21s06_reboot_fl_2bcf7c8f:
 
     # arj "I want final say."
-    arj "I want final say."
+    arj "Son sözü istiyorum."
 
 # game/code/d21/d21s06.rpy:663
 translate turkish d21s06_reboot_fl_309b061d:
 
     # sy "Final say."
-    sy "Final say."
+    sy "Son söz."
 
 # game/code/d21/d21s06.rpy:666
 translate turkish d21s06_reboot_fl_ec7b26e1:
 
     # arj "Yeah. If I'm unhappy with an idea, like, oh, I don't know, an app that spies on its users, I want to be able to say, no, don't do that."
-    arj "Yeah. If I'm unhappy with an idea, like, oh, I don't know, an app that spies on its users, I want to be able to say, no, don't do that."
+    arj "Evet. Kullanıcılarını gözetleyen bir uygulama gibi bir fikirden memnun değilsem, hayır, bunu yapma diyebilmek istiyorum."
 
 # game/code/d21/d21s06.rpy:669
 translate turkish d21s06_reboot_fl_73ae511b:
 
     # sy "Where are we going to make our money if we don't sell their data?"
-    sy "Where are we going to make our money if we don't sell their data?"
+    sy "Verilerini satmazsak paramızı nereden kazanacağız?"
 
 # game/code/d21/d21s06.rpy:670
 translate turkish d21s06_reboot_fl_793f8cda:
 
     # sy "What? Everyone does it!"
-    sy "What? Everyone does it!"
+    sy "Ne? Bunu herkes yapar!"
 
 # game/code/d21/d21s06.rpy:673
 translate turkish d21s06_reboot_fl_e56a1f89:
 
     # mc "So you want veto power?"
-    mc "So you want veto power?"
+    mc "Demek veto yetkisi istiyorsun?"
 
 # game/code/d21/d21s06.rpy:675
 translate turkish d21s06_reboot_fl_a6422911:
 
     # arj "Yes."
-    arj "Yes."
+    arj "Evet."
 
 # game/code/d21/d21s06.rpy:677
 translate turkish d21s06_reboot_fl_c205fda1:
 
     # mc "Wow, like the president."
-    mc "Wow, like the president."
+    mc "Vay, başkan gibi."
 
 # game/code/d21/d21s06.rpy:680
 translate turkish d21s06_reboot_fl_07f2a176:
 
     # arj "If you have to put it like that, yes. I'll be the president."
-    arj "If you have to put it like that, yes. I'll be the president."
+    arj "Böyle söylemek zorundaysan, evet. Ben başkan olacağım."
 
 # game/code/d21/d21s06.rpy:683
 translate turkish d21s06_reboot_fl_e3cf9afc:
 
     # sy "And what would we be?"
-    sy "And what would we be?"
+    sy "Peki biz ne olurduk?"
 
 # game/code/d21/d21s06.rpy:686
 translate turkish d21s06_reboot_fl_643d3fda:
 
     # arj "Congress? Parliament?"
-    arj "Congress? Parliament?"
+    arj "Kongre? Parlamento?"
 
 # game/code/d21/d21s06.rpy:689
 translate turkish d21s06_reboot_fl_41eeefba:
 
     # mc "I vote for being the senate chair."
-    mc "I vote for being the senate chair."
+    mc "Senato başkanı olmak için oy kullanıyorum."
 
 # game/code/d21/d21s06.rpy:691
 translate turkish d21s06_reboot_fl_6b681469:
 
     # sy "Hmm. Okay. So we would have to run things by you that are ethically bound."
-    sy "Hmm. Okay. So we would have to run things by you that are ethically bound."
+    sy "Hmm. Tamam. Yani etik olarak bağlayıcı olan şeyleri sizin tarafınızdan yürütmek zorunda kalacağız."
 
 # game/code/d21/d21s06.rpy:692
 translate turkish d21s06_reboot_fl_acd9dac6:
 
     # mc "That sounds fair."
-    mc "That sounds fair."
+    mc "Kulağa adil geliyor."
 
 # game/code/d21/d21s06.rpy:695
 translate turkish d21s06_reboot_fl_c4f0491c:
 
     # sy "Yeah, it does. If that's what you want, we'll give you the final word on these matters."
-    sy "Yeah, it does. If that's what you want, we'll give you the final word on these matters."
+    sy "Evet, öyle. İstediğin buysa, bu konularda son sözü sana biz vereceğiz."
 
 # game/code/d21/d21s06.rpy:696
 translate turkish d21s06_reboot_fl_e398c713:
 
     # sy "So to be clear, no spying, no advertising on fishy sites... man, sustaining this app is going to be a pain."
-    sy "So to be clear, no spying, no advertising on fishy sites... man, sustaining this app is going to be a pain."
+    sy "Açık olmak gerekirse, şüpheli sitelerde casusluk veya reklam yok... adamım, bu uygulamayı sürdürmek çok zor olacak."
 
 # game/code/d21/d21s06.rpy:699
 translate turkish d21s06_reboot_fl_2a7dddbc:
 
     # mc "Ahem... We'll make it work though."
-    mc "Ahem... We'll make it work though."
+    mc "Öhöh... Yine de çalıştıracağız."
 
 # game/code/d21/d21s06.rpy:700
 translate turkish d21s06_reboot_fl_25542880:
 
     # mc "Right, Stacy?"
-    mc "Right, Stacy?"
+    mc "Değil mi, Stacy?"
 
 # game/code/d21/d21s06.rpy:703
 translate turkish d21s06_reboot_fl_0537d96d:
 
     # sy "Absolutely!"
-    sy "Absolutely!"
+    sy "Kesinlikle!"
 
 # game/code/d21/d21s06.rpy:704
 translate turkish d21s06_reboot_fl_1ca35561:
 
     # sy "I was joking about the spying. I swear."
-    sy "I was joking about the spying. I swear."
+    sy "Casusluk konusunda şaka yapıyordum. Yemin ederim."
 
 # game/code/d21/d21s06.rpy:707
 translate turkish d21s06_reboot_fl_ebf0195d:
 
     # mc "AmRose, don't feel pressured. Don't do anything you don't want to do."
-    mc "AmRose, don't feel pressured. Don't do anything you don't want to do."
+    mc "AmRose, kendini baskı altında hissetme. İstemediğin hiçbir şeyi yapma."
 
 # game/code/d21/d21s06.rpy:710
 translate turkish d21s06_reboot_fl_604f260e:
 
     # arj "I would be actively involved in the decision making process and have final say?"
-    arj "I would be actively involved in the decision making process and have final say?"
+    arj "Karar verme sürecine aktif olarak katılır ve son sözü söyler miydim?"
 
 # game/code/d21/d21s06.rpy:713
 translate turkish d21s06_reboot_fl_e8bc5c3f:
 
     # sy "Do you want it to be in writing?"
-    sy "Do you want it to be in writing?"
+    sy "Yazılı olmasını ister misiniz?"
 
 # game/code/d21/d21s06.rpy:716
 translate turkish d21s06_reboot_fl_6d70e240:
 
     # arj "Okay, okay. I don't think you guys have any ill will like the developers behind Fetish Locator."
-    arj "Okay, okay. I don't think you guys have any ill will like the developers behind Fetish Locator."
+    arj "Tamam, tamam. Fetish Locator'ın arkasındaki geliştiricilerden hoşlanmadığınızı düşünüyorum."
 
 # game/code/d21/d21s06.rpy:717
 translate turkish d21s06_reboot_fl_e3616b15:
 
     # arj "However, there is one more thing, and this is serious."
-    arj "However, there is one more thing, and this is serious."
+    arj "Ancak, bir şey daha var ve bu ciddi."
 
 # game/code/d21/d21s06.rpy:718
 translate turkish d21s06_reboot_fl_2a4fbcc8:
 
     # arj "If you were to be all in about this plan... you have to promise me, promise me nothing like what happened with Fetish Locator will happen again."
-    arj "If you were to be all in about this plan... you have to promise me, promise me nothing like what happened with Fetish Locator will happen again."
+    arj "Eğer tamamen bu planın içinde olacaksan... bana söz vermelisin, Fetish Locator'da olanlara benzer bir şeyin bir daha olmayacağına söz vermelisin."
 
 # game/code/d21/d21s06.rpy:721
 translate turkish d21s06_reboot_fl_15e4f837:
 
     # mc "Well, she can certainly promise that..."
-    mc "Well, she can certainly promise that..."
+    mc "Şey, kesinlikle buna söz verebilir..."
 
 # game/code/d21/d21s06.rpy:724
 translate turkish d21s06_reboot_fl_caf9154b:
 
     # sy "I don't think she meant it like that."
-    sy "I don't think she meant it like that."
+    sy "Böyle demek istediğini sanmıyorum."
 
 # game/code/d21/d21s06.rpy:725
 translate turkish d21s06_reboot_fl_1e4e84ed:
 
     # sy "Can you be a little more specific? What don't you want to happen again?"
-    sy "Can you be a little more specific? What don't you want to happen again?"
+    sy "Biraz daha spesifik olabilir misin? Neyin tekrar olmasını istemiyorsun?"
 
 # game/code/d21/d21s06.rpy:728
 translate turkish d21s06_reboot_fl_bec7bdda:
 
     # arj "All the cons I stated. No to lies, the deceit, the manipulation."
-    arj "All the cons I stated. No to lies, the deceit, the manipulation."
+    arj "Tüm eksilerini belirttim. Yalana, aldatmaya, manipülasyona hayır."
 
 # game/code/d21/d21s06.rpy:731
 translate turkish d21s06_reboot_fl_d3a6634e:
 
     # mc "You have our word, AmRose. We would never do anything to break your strict confidence. I swear it."
-    mc "You have our word, AmRose. We would never do anything to break your strict confidence. I swear it."
+    mc "Sözümüz var, AmRose. Kesinlikle güvenini sarsacak hiçbir şey yapmayız. Yemin ederim."
 
 # game/code/d21/d21s06.rpy:734
 translate turkish d21s06_reboot_fl_5b792732:
 
     # sy "If we make any decisions that you find ethically... icky, and I mean any, you can talk to us about it and we'll listen."
-    sy "If we make any decisions that you find ethically... icky, and I mean any, you can talk to us about it and we'll listen."
+    sy "Etik olarak... itici bulduğunuz herhangi bir karar verirsek, ki ciddiyim, bu konuda bizimle konuşabilirsiniz, biz de sizi dinleriz."
 
 # game/code/d21/d21s06.rpy:735
 translate turkish d21s06_reboot_fl_020364b4:
 
     # sy "We just want to do this right, and we can't do it without you. Like literally, we don't know any coders who aren't weirdos."
-    sy "We just want to do this right, and we can't do it without you. Like literally, we don't know any coders who aren't weirdos."
+    sy "Biz sadece bunu doğru yapmak istiyoruz ve sensiz yapamayız. Kelimenin tam anlamıyla, tuhaf olmayan herhangi bir kodlayıcı tanımıyoruz."
 
 # game/code/d21/d21s06.rpy:736
 translate turkish d21s06_reboot_fl_bb9f6ea3:
 
     # sy "Please?"
-    sy "Please?"
+    sy "Lütfen?"
 
 # game/code/d21/d21s06.rpy:739
 translate turkish d21s06_reboot_fl_e47d3c1d:
 
     # mc "Plus, Ms. President is one hell of a title."
-    mc "Plus, Ms. President is one hell of a title."
+    mc "Artı, Bayan Başkan harika bir unvan."
 
 # game/code/d21/d21s06.rpy:742
 translate turkish d21s06_reboot_fl_98877547:
 
     # arj "Alright. Okay. I'll do it."
-    arj "Alright. Okay. I'll do it."
+    arj "Pekala. Tamam. Yapacağım."
 
 # game/code/d21/d21s06.rpy:743
 translate turkish d21s06_reboot_fl_8d752374:
 
     # arj "I'll go to hell."
-    arj "I'll go to hell."
+    arj "Cehenneme gideceğim."
 
 # game/code/d21/d21s06.rpy:746
 translate turkish d21s06_reboot_fl_4fe4d74b:
 
     # sy "Really?"
-    sy "Really?"
+    sy "Gerçekten mi?"
 
 # game/code/d21/d21s06.rpy:747
 translate turkish d21s06_reboot_fl_bd37d5dd:
 
     # sy "You're the best!"
-    sy "You're the best!"
+    sy "Sen en iyisisin!"
 
 # game/code/d21/d21s06.rpy:751
 translate turkish d21s06_reboot_fl_eaa31b74:
 
     # arj "I would never abandon you guys."
-    arj "I would never abandon you guys."
+    arj "Sizi asla terk etmem çocuklar."
 
 # game/code/d21/d21s06.rpy:754
 translate turkish d21s06_reboot_fl_4f141486:
 
     # sy "I didn't think you would."
-    sy "I didn't think you would."
+    sy "Yapacağını düşünmemiştim."
 
 # game/code/d21/d21s06.rpy:758
 translate turkish d21s06_reboot_fl_3a24d1c1:
 
     # mc "Thank you, AmRose. For putting your faith in us."
-    mc "Thank you, AmRose. For putting your faith in us."
+    mc "Teşekkürler AmRose. Bize güvendiğin için."
 
 # game/code/d21/d21s06.rpy:760
 translate turkish d21s06_reboot_fl_a0e38f39:
 
     # arj "Oh, now you're going to make me blush."
-    arj "Oh, now you're going to make me blush."
+    arj "Oh, şimdi beni utandıracaksın."
 
 # game/code/d21/d21s06.rpy:763
 translate turkish d21s06_reboot_fl_ad278b3d:
 
     # sy "Now, let's start putting together some of the finer details, and about how we start talking about initial people we can let into this offering."
-    sy "Now, let's start putting together some of the finer details, and about how we start talking about initial people we can let into this offering."
+    sy "Şimdi, bazı daha ince ayrıntıları bir araya getirmeye başlayalım ve bu sunuma dahil edebileceğimiz ilk kişiler hakkında nasıl konuşmaya başlayacağımız hakkında konuşalım."
 
 # game/code/d21/d21s06.rpy:766
 translate turkish d21s06_reboot_fl_8db8be57:
 
     # arj "Before we do that, I have to make a phone call. I'll be in the hallway for a few minutes."
-    arj "Before we do that, I have to make a phone call. I'll be in the hallway for a few minutes."
+    arj "Bunu yapmadan önce, Bir telefon görüşmesi yapmalıyım. Birkaç dakikalığına koridorda olacağım."
 
 # game/code/d21/d21s06.rpy:768
 translate turkish d21s06_reboot_fl_dc9dd842:
 
     # mc "Take your time."
-    mc "Take your time."
+    mc "Acele etmeyin."
 
 # game/code/d21/d21s06.rpy:771
 translate turkish d21s06_reboot_fl_9e70a3cd:
 
     # mc "So where should we get started first?"
-    mc "So where should we get started first?"
+    mc "Öyleyse ilk nereden başlayalım?"
 
 # game/code/d21/d21s06.rpy:772
 translate turkish d21s06_reboot_fl_0d92e239:
 
     # mc "Do you know anyone? Any investors?"
-    mc "Do you know anyone? Any investors?"
+    mc "Kimseyi tanıyor musun? Herhangi bir yatırımcı?"
 
 # game/code/d21/d21s06.rpy:775
 translate turkish d21s06_reboot_fl_0e58addf:
 
     # sy "Investors?"
-    sy "Investors?"
+    sy "Yatırımcılar?"
 
 # game/code/d21/d21s06.rpy:778
 translate turkish d21s06_reboot_fl_f0aedc6b:
 
     # mc "Well, in order to start a business, you would have to have some, wouldn't you?"
-    mc "Well, in order to start a business, you would have to have some, wouldn't you?"
+    mc "Pekala, bir iş kurmak için biraz sahip olmanız gerekir, değil mi?"
 
 # game/code/d21/d21s06.rpy:781
 translate turkish d21s06_reboot_fl_3da9e714:
 
     # sy "Well, at first, I was thinking about actually having some content first before we start the company."
-    sy "Well, at first, I was thinking about actually having some content first before we start the company."
+    sy "Şey, ilk başta, şirketi kurmadan önce gerçekten biraz içeriğe sahip olmayı düşünüyordum."
 
 # game/code/d21/d21s06.rpy:782
 translate turkish d21s06_reboot_fl_018cbf7d:
 
     # sy "Build a reputation, you know?"
-    sy "Build a reputation, you know?"
+    sy "Bir itibar oluşturun, biliyor musunuz?"
 
 # game/code/d21/d21s06.rpy:785
 translate turkish d21s06_reboot_fl_192c5851:
 
     # mc "That's called marketing."
-    mc "That's called marketing."
+    mc "Buna pazarlama denir."
 
 # game/code/d21/d21s06.rpy:788
 translate turkish d21s06_reboot_fl_e45dc7f1:
 
     # sy "Yeah, but we are the brand, don't forget. We are the company. So we need to start thinking of films that we can shoot, and then we can form the company."
-    sy "Yeah, but we are the brand, don't forget. We are the company. So we need to start thinking of films that we can shoot, and then we can form the company."
+    sy "Evet ama marka biziz, unutma. Biz şirketiz. O yüzden çekebileceğimiz filmleri düşünmeye başlamalıyız, sonra şirketi kurarız."
 
 # game/code/d21/d21s06.rpy:791
 translate turkish d21s06_reboot_fl_3acfcab7:
 
     # mc "In the legal sense."
-    mc "In the legal sense."
+    mc "Hukuki anlamda."
 
 # game/code/d21/d21s06.rpy:794
 translate turkish d21s06_reboot_fl_4e12a8be:
 
     # sy "Yeah."
-    sy "Yeah."
+    sy "Evet."
 
 # game/code/d21/d21s06.rpy:795
 translate turkish d21s06_reboot_fl_a3a5f868:
 
     # sy "Let's think of the name for the app."
-    sy "Let's think of the name for the app."
+    sy "Uygulamanın adını düşünelim."
 
 # game/code/d21/d21s06.rpy:798
 translate turkish d21s06_reboot_fl_91c8e45d:
 
     # mc "Any ideas?"
-    mc "Any ideas?"
+    mc "Herhangi bir fikir var mı?"
 
 # game/code/d21/d21s06.rpy:801
 translate turkish d21s06_reboot_fl_2af34ea1:
 
     # sy "I'll make us some coffee, and we can have a back in forth."
-    sy "I'll make us some coffee, and we can have a back in forth."
+    sy "Bize biraz kahve yapacağım, ve tartışabiliriz."
 
 # game/code/d21/d21s06.rpy:804
 translate turkish d21s06_reboot_fl_e5455d01:
 
     # sy "What about Stacy's Bone Zone?"
-    sy "What about Stacy's Bone Zone?"
+    sy "Stacy'nin Kemik Bölgesi ne olacak?"
 
 # game/code/d21/d21s06.rpy:805
 translate turkish d21s06_reboot_fl_69033c5a:
 
     # sy "Or Finder. It's like that other dating app, except I replaced the first letter with an F."
-    sy "Or Finder. It's like that other dating app, except I replaced the first letter with an F."
+    sy "Veya Finder. İlk harfi F ile değiştirmem dışında diğer flört uygulaması gibi."
 
 # game/code/d21/d21s06.rpy:808
 translate turkish d21s06_reboot_fl_593599a5:
 
     # mc "Let's ask AmRose."
-    mc "Let's ask AmRose."
+    mc "AmRose'a soralım."
 
 # game/code/d21/d21s06.rpy:817
 translate turkish d21s06_no_fl_2cd1dfd8:
 
     # arj "See?"
-    arj "See?"
+    arj "Gördün mü?"
 
 # game/code/d21/d21s06.rpy:820
 translate turkish d21s06_no_fl_df8bb7ca:
 
     # sy "I know why you guys are a little hesitant on hearing it, but just give me one minute, and I'll tell you why it's a good idea."
-    sy "I know why you guys are a little hesitant on hearing it, but just give me one minute, and I'll tell you why it's a good idea."
+    sy "Bunu duymakta neden biraz tereddüt ettiğinizi biliyorum, ama bana bir dakika verin, size bunun neden iyi bir fikir olduğunu anlatayım."
 
 # game/code/d21/d21s06.rpy:823
 translate turkish d21s06_no_fl_0503ef5f:
 
     # arj "You had more than a minute."
-    arj "You had more than a minute."
+    arj "Bir dakikadan fazla süreniz vardı."
 
 # game/code/d21/d21s06.rpy:824
 translate turkish d21s06_no_fl_5c271ad1:
 
     # arj "If you had something good, you would have said it by now."
-    arj "If you had something good, you would have said it by now."
+    arj "İyi bir şeyin olsaydı, şimdiye kadar söylerdin."
 
 # game/code/d21/d21s06.rpy:827
 translate turkish d21s06_no_fl_91c01b2d:
 
     # sy "Wow, you're so unnecessarily harsh."
-    sy "Wow, you're so unnecessarily harsh."
+    sy "Vay canına, gereksiz yere sertsin."
 
 # game/code/d21/d21s06.rpy:830
 translate turkish d21s06_no_fl_18d641b9:
 
     # arj "I'm not usually, but when it comes to this, I've made up my mind, sorry."
-    arj "I'm not usually, but when it comes to this, I've made up my mind, sorry."
+    arj "Genelde değilim, ama iş buna gelince, kararımı verdim, üzgünüm."
 
 # game/code/d21/d21s06.rpy:831
 translate turkish d21s06_no_fl_ad3129e2:
 
     # arj "I have no interest in anything related to Fetish Locator, old or new."
-    arj "I have no interest in anything related to Fetish Locator, old or new."
+    arj "Eski veya yeni Fetiş Bulucu ile ilgili hiçbir şeyle ilgilenmiyorum."
 
 # game/code/d21/d21s06.rpy:833
 translate turkish d21s06_no_fl_254d07c9:
 
     # arj "The only one I'm interested in is you."
-    arj "The only one I'm interested in is you."
+    arj "İlgilendiğim tek kişi sensin."
 
 # game/code/d21/d21s06.rpy:836
 translate turkish d21s06_no_fl_b88f3019:
 
     # sy "Oh God, you're not going to start making out in front of me, are you?"
-    sy "Oh God, you're not going to start making out in front of me, are you?"
+    sy "Aman Tanrım, önümde sevişmeye başlamayacaksın, değil mi?"
 
 # game/code/d21/d21s06.rpy:839
 translate turkish d21s06_no_fl_5ca4e1d7:
 
     # arj "I know when you're baiting me."
-    arj "I know when you're baiting me."
+    arj "Bana yem attığını biliyorum."
 
 # game/code/d21/d21s06.rpy:843
 translate turkish d21s06_no_fl_0444eeb2:
 
     # arj "Hey guys. I have to go. Something came up."
-    arj "Hey guys. I have to go. Something came up."
+    arj "Hey Millet. Gitmek zorundayım. Bir sorun çıktı."
 
 # game/code/d21/d21s06.rpy:846
 translate turkish d21s06_no_fl_fa6bd910:
 
     # sy "You just got here!"
-    sy "You just got here!"
+    sy "Daha yeni geldin!"
 
 # game/code/d21/d21s06.rpy:849
 translate turkish d21s06_no_fl_4a5a1bdc:
 
     # arj "I know, I'm sorry. Next time we meet, we'll go out to a restaurant."
-    arj "I know, I'm sorry. Next time we meet, we'll go out to a restaurant."
+    arj "Biliyorum, üzgünüm. Bir dahaki görüşmemizde, bir restorana gideriz."
 
 # game/code/d21/d21s06.rpy:851
 translate turkish d21s06_no_fl_6ec24262:
 
     # sy "Alright."
-    sy "Alright."
+    sy "Pekala."
 
 # game/code/d21/d21s06.rpy:854
 translate turkish d21s06_no_fl_0772c775:
 
     # arj "[mcname]. Do you want to come with me?"
-    arj "[mcname]. Do you want to come with me?"
+    arj "[mcname]. Benimle gelmek ister misin?"
 
 # game/code/d21/d21s06.rpy:856
 translate turkish d21s06_no_fl_72d3767e:
 
     # mc "Oh, I was hoping to talk to Stacy a little bit. Do you want me to walk you there?"
-    mc "Oh, I was hoping to talk to Stacy a little bit. Do you want me to walk you there?"
+    mc "Ah, Stacy ile biraz konuşmayı umuyordum. Seni oraya götürmemi ister misin?"
 
 # game/code/d21/d21s06.rpy:857
 translate turkish d21s06_no_fl_db3325ec:
 
     # mc "Actually, AmRose, do you have a few minutes?"
-    mc "Actually, AmRose, do you have a few minutes?"
+    mc "Aslında AmRose, birkaç dakikan var mı?"
 
 # game/code/d21/d21s06.rpy:865
 translate turkish d21s06_no_fl_749133d1:
 
     # arj "If by few minutes, you mean one minute, then yes. I have a few minutes."
-    arj "If by few minutes, you mean one minute, then yes. I have a few minutes."
+    arj "Birkaç dakika derken bir dakikayı kastediyorsan, o zaman evet. Birkaç dakikam var."
 
 # game/code/d21/d21s06.rpy:868
 translate turkish d21s06_no_fl_944d2c89:
 
     # mc "Well, that's not nearly enough time to explain it. It's a business proposal."
-    mc "Well, that's not nearly enough time to explain it. It's a business proposal."
+    mc "Eh, bunu açıklamak için yeterli bir süre değil. Bu bir iş teklifi."
 
 # game/code/d21/d21s06.rpy:872
 translate turkish d21s06_no_fl_8a2b2402:
 
     # arj "[mcname], like I said, I'm not interested in getting involved in starting any new businesses."
-    arj "[mcname], like I said, I'm not interested in getting involved in starting any new businesses."
+    arj "[mcname], dediğim gibi, herhangi bir yeni iş kurmakla ilgilenmiyorum."
 
 # game/code/d21/d21s06.rpy:873
 translate turkish d21s06_no_fl_5f44188d:
 
     # arj "I want something a little slower paced."
-    arj "I want something a little slower paced."
+    arj "Biraz daha yavaş tempolu bir şey istiyorum."
 
 # game/code/d21/d21s06.rpy:876
 translate turkish d21s06_no_fl_a850427f:
 
     # mc "What are you thinking of doing?"
-    mc "What are you thinking of doing?"
+    mc "Ne yapmayı düşünüyorsun?"
 
 # game/code/d21/d21s06.rpy:878
 translate turkish d21s06_no_fl_c1a4ca4b:
 
     # arj "You'll laugh."
-    arj "You'll laugh."
+    arj "Güleceksin."
 
 # game/code/d21/d21s06.rpy:880
 translate turkish d21s06_no_fl_8c13a0cc:
 
     # mc "No, I won't."
-    mc "No, I won't."
+    mc "Hayır, yapmayacağım."
 
 # game/code/d21/d21s06.rpy:883
 translate turkish d21s06_no_fl_e9702780:
 
     # arj "I'm thinking of being on a farm."
-    arj "I'm thinking of being on a farm."
+    arj "Bir çiftlikte olmayı düşünüyorum."
 
 # game/code/d21/d21s06.rpy:887
 translate turkish d21s06_no_fl_41a4dfa4:
 
     # sy "*laughs*"
-    sy "*laughs*"
+    sy "*Güler*"
 
 # game/code/d21/d21s06.rpy:889
 translate turkish d21s06_no_fl_d5241d13:
@@ -2014,163 +2014,163 @@ translate turkish d21s06_no_fl_d5241d13:
 translate turkish d21s06_no_fl_1ce5f9f7:
 
     # sy "Really? A farm? What are you going to do there?"
-    sy "Really? A farm? What are you going to do there?"
+    sy "Gerçekten mi? Bir çiftlik mi? Orada ne yapacaksın?"
 
 # game/code/d21/d21s06.rpy:893
 translate turkish d21s06_no_fl_96194d39:
 
     # arj "Actually, I'm on my way to talk to someone about renting a plot of land."
-    arj "Actually, I'm on my way to talk to someone about renting a plot of land."
+    arj "Aslında, bir arsa kiralamak için biriyle konuşmaya gidiyorum."
 
 # game/code/d21/d21s06.rpy:895
 translate turkish d21s06_no_fl_569f7109:
 
     # sy "What, right now?"
-    sy "What, right now?"
+    sy "Ne, hemen şimdi mi?"
 
 # game/code/d21/d21s06.rpy:897
 translate turkish d21s06_no_fl_a7c62671:
 
     # arj "Yeah."
-    arj "Yeah."
+    arj "Evet."
 
 # game/code/d21/d21s06.rpy:900
 translate turkish d21s06_no_fl_659de358:
 
     # sy "And you think that's a better idea than starting a wellness spa?"
-    sy "And you think that's a better idea than starting a wellness spa?"
+    sy "Sence bu bir sağlıklı yaşam spa'sına başlamaktan daha iyi bir fikir mi?"
 
 # game/code/d21/d21s06.rpy:903
 translate turkish d21s06_no_fl_15fb4eb7:
 
     # arj "I didn't really hear your idea. Well, it's been a minute, I have to go or I'll miss the train."
-    arj "I didn't really hear your idea. Well, it's been a minute, I have to go or I'll miss the train."
+    arj "Fikrini gerçekten duymadım. Şey, bir dakika oldu, gitmem gerekiyor yoksa treni kaçıracağım."
 
 # game/code/d21/d21s06.rpy:904
 translate turkish d21s06_no_fl_9ea0272f:
 
     # arj "Bye, you two."
-    arj "Bye, you two."
+    arj "Siz ikiniz, güle güle."
 
 # game/code/d21/d21s06.rpy:907
 translate turkish d21s06_no_fl_730fd5cd:
 
     # sy "Wow, that was some pitch."
-    sy "Wow, that was some pitch."
+    sy "Vay canına, bu bir adımdı."
 
 # game/code/d21/d21s06.rpy:910
 translate turkish d21s06_no_fl_4b8cb689:
 
     # mc "Hey, you try selling this idea in one minute, it won't work."
-    mc "Hey, you try selling this idea in one minute, it won't work."
+    mc "Hey, bu fikri bir dakika içinde satmayı dene, işe yaramayacak."
 
 # game/code/d21/d21s06.rpy:913
 translate turkish d21s06_no_fl_9ba5a3a7:
 
     # mc "I should call Min to say AmRose is out."
-    mc "I should call Min to say AmRose is out."
+    mc "AmRose'un çıktığını söylemek için Min'i aramalıyım."
 
 # game/code/d21/d21s06.rpy:916
 translate turkish d21s06_no_fl_549a25f5:
 
     # sy "Alright, well, I'll start putting the faraday cage parts up for auction."
-    sy "Alright, well, I'll start putting the faraday cage parts up for auction."
+    sy "Pekala, faraday kafesi parçalarını müzayedeye çıkarmaya başlayacağım."
 
 # game/code/d21/d21s06.rpy:919
 translate turkish d21s06_no_fl_d3da3d0b:
 
     # mc "You can't do that!"
-    mc "You can't do that!"
+    mc "Bunu yapamazsın!"
 
 # game/code/d21/d21s06.rpy:922
 translate turkish d21s06_no_fl_58978ad4:
 
     # sy "Well, what else am I going to do with them?"
-    sy "Well, what else am I going to do with them?"
+    sy "Peki, onlarla başka ne yapacağım?"
 
 # game/code/d21/d21s06.rpy:925
 translate turkish d21s06_no_fl_fdd57a94:
 
     # mc "Make sure the pieces are properly destroyed?"
-    mc "Make sure the pieces are properly destroyed?"
+    mc "Parçaların uygun şekilde yok edildiğinden emin olun?"
 
 # game/code/d21/d21s06.rpy:929
 translate turkish d21s06_no_fl_d839bd45:
 
     # sy "You're really out of practice, you know that? Business deals abound. Now, let's start listing them. A thousand for a 4x4 piece. That sounds about right."
-    sy "You're really out of practice, you know that? Business deals abound. Now, let's start listing them. A thousand for a 4x4 piece. That sounds about right."
+    sy "Gerçekten pratiğin dışındasın, biliyor musun? İş fırsatları çok. Şimdi bunları listelemeye başlayalım. 4x4 parça için bin. Kulağa doğru geliyor."
 
 # game/code/d21/d21s06.rpy:931
 translate turkish d21s06_no_fl_1885a552:
 
     # mc "I'll let you handle that... I'm going to try and catch up with AmRose and start preparing for this trial."
-    mc "I'll let you handle that... I'm going to try and catch up with AmRose and start preparing for this trial."
+    mc "Bunu senin halletmene izin vereceğim... AmRose'a yetişmeye çalışacağım ve bu dava için hazırlanmaya başlayacağım."
 
 # game/code/d21/d21s06.rpy:933
 translate turkish d21s06_no_fl_59243bf2:
 
     # sy "Keep me updated."
-    sy "Keep me updated."
+    sy "Beni güncel tut."
 
 # game/code/d21/d21s06.rpy:935
 translate turkish d21s06_no_fl_140308b5:
 
     # mc "Or you can just read a newspaper."
-    mc "Or you can just read a newspaper."
+    mc "Ya da sadece bir gazete okuyabilirsiniz."
 
 # game/code/d21/d21s06.rpy:937
 translate turkish d21s06_no_fl_c478c069:
 
     # sy "Nope."
-    sy "Nope."
+    sy "Hayır."
 
 # game/code/d21/d21s06.rpy:947
 translate turkish d21s06_waterfall_4e10ecd5:
 
     # arj "Well, if it's really quick."
-    arj "Well, if it's really quick."
+    arj "Peki, gerçekten hızlıysa."
 
 # game/code/d21/d21s06.rpy:950
 translate turkish d21s06_waterfall_fabbae7d:
 
     # sy "So what did you want to talk about?"
-    sy "So what did you want to talk about?"
+    sy "Peki ne hakkında konuşmak istiyordun?"
 
 # game/code/d21/d21s06.rpy:953
 translate turkish d21s06_waterfall_3c70276f:
 
     # mc "Since we were on the topic of starting a new business, I kinda had a proposal."
-    mc "Since we were on the topic of starting a new business, I kinda had a proposal."
+    mc "Yeni bir iş kurma konusunda olduğumuz için bir teklifim vardı."
 
 # game/code/d21/d21s06.rpy:957
 translate turkish d21s06_waterfall_a0ae5ef0:
 
     # arj "I told you, I'm not interested in Fetish Locator!"
-    arj "I told you, I'm not interested in Fetish Locator!"
+    arj "Sana söyledim, Fetiş Bulucu ile ilgilenmiyorum!"
 
 # game/code/d21/d21s06.rpy:959
 translate turkish d21s06_waterfall_301468b6:
 
     # mc "It's not that, I swear."
-    mc "It's not that, I swear."
+    mc "Öyle değil, yemin ederim."
 
 # game/code/d21/d21s06.rpy:962
 translate turkish d21s06_waterfall_6c8a3e95:
 
     # sy "And this business, what is it? Is it going to be here?"
-    sy "And this business, what is it? Is it going to be here?"
+    sy "Peki bu iş nedir? Burada mı olacak?"
 
 # game/code/d21/d21s06.rpy:965
 translate turkish d21s06_waterfall_ea280ad5:
 
     # mc "Not exactly. It's going to be in a completely different direction. East instead of west."
-    mc "Not exactly. It's going to be in a completely different direction. East instead of west."
+    mc "Tam olarak değil. Tamamen farklı bir yönde olacak. Batı yerine Doğu."
 
 # game/code/d21/d21s06.rpy:969
 translate turkish d21s06_waterfall_7ef67f79:
 
     # sy "Who are you calling?"
-    sy "Who are you calling?"
+    sy "Kimi arıyorsun?"
 
 # game/code/d21/d21s06.rpy:972
 translate turkish d21s06_waterfall_17cc5734:
@@ -2188,331 +2188,331 @@ translate turkish d21s06_waterfall_41ff3d7e:
 translate turkish d21s06_waterfall_9eefde61:
 
     # mc "Hey, Min. What are you up to?"
-    mc "Hey, Min. What are you up to?"
+    mc "Hey Min. Ne yapıyorsun?"
 
 # game/code/d21/d21s06.rpy:985
 translate turkish d21s06_waterfall_11f94ca0:
 
     # mes "Enjoying the sun."
-    mes "Enjoying the sun."
+    mes "Güneşin tadını çıkar."
 
 # game/code/d21/d21s06.rpy:989
 translate turkish d21s06_waterfall_bdfe5f3f:
 
     # mc "Listen, I was calling about the watersports-business idea, do you have some free time?"
-    mc "Listen, I was calling about the watersports-business idea, do you have some free time?"
+    mc "Dinle, su sporları-iş fikri için aramıştım, boş vaktin var mı?"
 
 # game/code/d21/d21s06.rpy:994
 translate turkish d21s06_waterfall_cdabc831:
 
     # mes "Yeah, it's going to have to be quick though."
-    mes "Yeah, it's going to have to be quick though."
+    mes "Evet, yine de hızlı olması gerekecek."
 
 # game/code/d21/d21s06.rpy:998
 translate turkish d21s06_waterfall_ba428702:
 
     # sy "Hey, Min! I'm here with [mcname] and AmRose!"
-    sy "Hey, Min! I'm here with [mcname] and AmRose!"
+    sy "Hey Min! Burada [mcname] ve AmRose ile birlikteyim!"
 
 # game/code/d21/d21s06.rpy:1001
 translate turkish d21s06_waterfall_fe53ce04:
 
     # arj "Hello."
-    arj "Hello."
+    arj "Merhaba."
 
 # game/code/d21/d21s06.rpy:1005
 translate turkish d21s06_waterfall_933a5233:
 
     # mes "Hi, Stacy. Hi, AmRose."
-    mes "Hi, Stacy. Hi, AmRose."
+    mes "Merhaba, Stacy. Merhaba AmRose."
 
 # game/code/d21/d21s06.rpy:1007
 translate turkish d21s06_waterfall_142d2d73:
 
     # sy "So a watersports-business?"
-    sy "So a watersports-business?"
+    sy "Yani bir su sporları işi?"
 
 # game/code/d21/d21s06.rpy:1009
 translate turkish d21s06_waterfall_6612d04c:
 
     # mes "You might have noticed that [mcname] and I are into that type of stuff."
-    mes "You might have noticed that [mcname] and I are into that type of stuff."
+    mes "[mcname] ve benim bu tür şeylerle ilgilendiğimizi fark etmişsinizdir."
 
 # game/code/d21/d21s06.rpy:1013
 translate turkish d21s06_waterfall_eeb65300:
 
     # sy "Yeah, the main event on your party was a big hint."
-    sy "Yeah, the main event on your party was a big hint."
+    sy "Evet, partinizdeki ana olay büyük bir ipucuydu."
 
 # game/code/d21/d21s06.rpy:1016
 translate turkish d21s06_waterfall_7d45ad20:
 
     # mc "And I think there isn't enough places for people to practice watersports."
-    mc "And I think there isn't enough places for people to practice watersports."
+    mc "Ve bence insanların su sporları yapması için yeterli yer yok."
 
 # game/code/d21/d21s06.rpy:1021
 translate turkish d21s06_waterfall_ffe2788e:
 
     # mes "We were thinking about forming a wellness spa."
-    mes "We were thinking about forming a wellness spa."
+    mes "Bir sağlıklı yaşam spası kurmayı düşünüyorduk."
 
 # game/code/d21/d21s06.rpy:1022
 translate turkish d21s06_waterfall_a1e01b67:
 
     # mes "You like squirting, right?"
-    mes "You like squirting, right?"
+    mes "Fışkırtmayı seviyorsun, değil mi?"
 
 # game/code/d21/d21s06.rpy:1024
 translate turkish d21s06_waterfall_17c9a9d8:
 
     # sy "Not as much as you, but yeah."
-    sy "Not as much as you, but yeah."
+    sy "Senin kadar değil, ama evet."
 
 # game/code/d21/d21s06.rpy:1026
 translate turkish d21s06_waterfall_b11d2580:
 
     # mes "Before we go deeper, I want your opinion. Is this something that you really want to do, or not?"
-    mes "Before we go deeper, I want your opinion. Is this something that you really want to do, or not?"
+    mes "Daha derine inmeden önce fikrinizi istiyorum. Bu gerçekten yapmak isteyip istemediğiniz bir şey mi?"
 
 # game/code/d21/d21s06.rpy:1036
 translate turkish d21s06_waterfall_d31e043e:
 
     # sy "Is that what we're calling it?"
-    sy "Is that what we're calling it?"
+    sy "Biz buna böyle mi diyoruz?"
 
 # game/code/d21/d21s06.rpy:1037
 translate turkish d21s06_waterfall_2ece8a99:
 
     # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
-    mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+    mes "İnsanlar cinsel fantezilerini gerçekleştirecek bir deneyim arıyorlar ve biz de onlara bunu sağlamak için buradayız."
 
 # game/code/d21/d21s06.rpy:1039
 translate turkish d21s06_waterfall_ebab741e:
 
     # mc "At a spa?"
-    mc "At a spa?"
+    mc "Spa'da mı?"
 
 # game/code/d21/d21s06.rpy:1040
 translate turkish d21s06_waterfall_fdcf3625:
 
     # mes "Yes."
-    mes "Yes."
+    mes "Evet."
 
 # game/code/d21/d21s06.rpy:1049
 translate turkish d21s06_waterfall_9705fa57:
 
     # mes "So I'm waiting for you call then. Now I'm going to drop out."
-    mes "So I'm waiting for you call then. Now I'm going to drop out."
+    mes "Öyleyse aramanı bekliyorum. Şimdi bırakacağım."
 
 # game/code/d21/d21s06.rpy:1050
 translate turkish d21s06_waterfall_a437bdda:
 
     # mes "Bye."
-    mes "Bye."
+    mes "Hoşçakal."
 
 # game/code/d21/d21s06.rpy:1055
 translate turkish d21s06_waterfall_6ec24262:
 
     # sy "Alright."
-    sy "Alright."
+    sy "Pekala."
 
 # game/code/d21/d21s06.rpy:1058
 translate turkish d21s06_waterfall_88555c8d:
 
     # arj "Alright. That was more than a minute. But it was interesting... I'm intrigued. I have to go now too."
-    arj "Alright. That was more than a minute. But it was interesting... I'm intrigued. I have to go now too."
+    arj "Tamam. Bir dakikadan fazla oldu. Ama ilginçti... İlgimi çekti. Benim de şimdi gitmem gerekiyor."
 
 # game/code/d21/d21s06.rpy:1061
 translate turkish d21s06_waterfall_18488d9c:
 
     # sy "Now help me pick this stuff up, we're going to put it into storage."
-    sy "Now help me pick this stuff up, we're going to put it into storage."
+    sy "Şimdi bunları toplamama yardım et, onu depoya kaldıracağız."
 
 # game/code/d21/d21s06.rpy:1064
 translate turkish d21s06_waterfall_d9ec8d68:
 
     # mc "Hey, that's a good idea, making a company to ship and move faraday cage components."
-    mc "Hey, that's a good idea, making a company to ship and move faraday cage components."
+    mc "Hey, faraday kafesi bileşenlerini taşıyacak ve taşıyacak bir şirket kurmak iyi bir fikir."
 
 # game/code/d21/d21s06.rpy:1067
 translate turkish d21s06_waterfall_c2909545:
 
     # sy "That was actually my idea. I already copyrighted it."
-    sy "That was actually my idea. I already copyrighted it."
+    sy "Aslında bu benim fikrimdi. Telif hakkını zaten almıştım."
 
 # game/code/d21/d21s06.rpy:1070
 translate turkish d21s06_waterfall_f3e95fbb:
 
     # mc "You actually have to fill out forms to copyright something, you can't just claim something and not do anything."
-    mc "You actually have to fill out forms to copyright something, you can't just claim something and not do anything."
+    mc "Aslında bir şeyin telif hakkını almak için formları doldurmanız gerekiyor, bir şeyi öylece talep edip hiçbir şey yapmamanız mümkün değil."
 
 # game/code/d21/d21s06.rpy:1073
 translate turkish d21s06_waterfall_ab72c95b:
 
     # sy "How do you know I haven't?"
-    sy "How do you know I haven't?"
+    sy "Yapmadığımı nereden biliyorsun?"
 
 # game/code/d21/d21s06.rpy:1076
 translate turkish d21s06_waterfall_2956db1b:
 
     # mc "You know what, I don't. I admire your dedication."
-    mc "You know what, I don't. I admire your dedication."
+    mc "Biliyor musun, bilmiyorum. Adanmışlığına hayranım."
 
 # game/code/d21/d21s06.rpy:1079
 translate turkish d21s06_waterfall_f01db528:
 
     # sy "You want to go out for a drink? Or you want to stay here and play video games?"
-    sy "You want to go out for a drink? Or you want to stay here and play video games?"
+    sy "Bir şeyler içmek için dışarı çıkmak ister misin? Yoksa burada kalıp video oyunları oynamak mı istersin?"
 
 # game/code/d21/d21s06.rpy:1082
 translate turkish d21s06_waterfall_f8a13f46:
 
     # mc "Well, I mean I don't think I'm going outside dressed like this."
-    mc "Well, I mean I don't think I'm going outside dressed like this."
+    mc "Şey, demek istediğim, bu şekilde giyinerek dışarı çıkacağımı sanmıyorum."
 
 # game/code/d21/d21s06.rpy:1085
 translate turkish d21s06_waterfall_7863212a:
 
     # mc "So let's do this."
-    mc "So let's do this."
+    mc "Öyleyse bunu yapalım."
 
 # game/code/d21/d21s06.rpy:1094
 translate turkish d21s06_wellness_spa_7a37235b:
 
     # mes "It's a traditional spa."
-    mes "It's a traditional spa."
+    mes "Geleneksel bir spa."
 
 # game/code/d21/d21s06.rpy:1095
 translate turkish d21s06_wellness_spa_2b0a85bf:
 
     # mes "But for those who know we will offer as much special service as they want."
-    mes "But for those who know we will offer as much special service as they want."
+    mes "Ama bilenler için istedikleri kadar özel hizmet sunacağız."
 
 # game/code/d21/d21s06.rpy:1096
 translate turkish d21s06_wellness_spa_8519df16:
 
     # mes "Until they're satisfied."
-    mes "Until they're satisfied."
+    mes "Onlar tatmin olana kadar."
 
 # game/code/d21/d21s06.rpy:1100
 translate turkish d21s06_wellness_spa_a14fb21a:
 
     # arj "How much?"
-    arj "How much?"
+    arj "Ne kadar?"
 
 # game/code/d21/d21s06.rpy:1102
 translate turkish d21s06_wellness_spa_da2002db:
 
     # sy "Until they're satisfied, Min just told you."
-    sy "Until they're satisfied, Min just told you."
+    sy "Onlar tatmin olana kadar, Min sana söyledi."
 
 # game/code/d21/d21s06.rpy:1104
 translate turkish d21s06_wellness_spa_f308289e:
 
     # arj "Right."
-    arj "Right."
+    arj "Doğru."
 
 # game/code/d21/d21s06.rpy:1108
 translate turkish d21s06_wellness_spa_690198d9:
 
     # mes "It's one-of-a-kind. I figure it will draw in a lot of men and women."
-    mes "It's one-of-a-kind. I figure it will draw in a lot of men and women."
+    mes "Türünün tek örneği. Pek çok erkek ve kadının ilgisini çekeceğini düşünüyorum."
 
 # game/code/d21/d21s06.rpy:1109
 translate turkish d21s06_wellness_spa_802119a8:
 
     # mes "To be both givers and recievers."
-    mes "To be both givers and recievers."
+    mes "Hem veren hem de alan olmak."
 
 # game/code/d21/d21s06.rpy:1110
 translate turkish d21s06_wellness_spa_ff415117:
 
     # mes "And the business will cater to the connoisseur of spas, watersports, relaxation and wellness centers."
-    mes "And the business will cater to the connoisseur of spas, watersports, relaxation and wellness centers."
+    mes "Ve iş, kaplıcalar, su sporları, dinlenme ve sağlıklı yaşam merkezleri uzmanlarına hitap edecek."
 
 # game/code/d21/d21s06.rpy:1111
 translate turkish d21s06_wellness_spa_8da06c74:
 
     # mes "And much more."
-    mes "And much more."
+    mes "Ve çok daha fazlası."
 
 # game/code/d21/d21s06.rpy:1115
 translate turkish d21s06_wellness_spa_626aaba9:
 
     # sy "Come one, come all; that sort of thing?"
-    sy "Come one, come all; that sort of thing?"
+    sy "Bir gel, hepsi gel; bu tür şeyler?"
 
 # game/code/d21/d21s06.rpy:1116
 translate turkish d21s06_wellness_spa_74b1c957:
 
     # mes "It's all optional. People can pay to enjoy the vanilla spa experience."
-    mes "It's all optional. People can pay to enjoy the vanilla spa experience."
+    mes "Tamamen isteğe bağlı. İnsanlar vanilyalı spa deneyiminin keyfini çıkarmak için para ödeyebilir."
 
 # game/code/d21/d21s06.rpy:1117
 translate turkish d21s06_wellness_spa_c4ca3301:
 
     # mes "They would have no idea what's going on next door."
-    mes "They would have no idea what's going on next door."
+    mes "Yan tarafta neler olduğu hakkında hiçbir fikirleri olmayacaktı."
 
 # game/code/d21/d21s06.rpy:1121
 translate turkish d21s06_wellness_spa_bea752a5:
 
     # mes "You will only find out if you choose to fly with us."
-    mes "You will only find out if you choose to fly with us."
+    mes "Sadece bizimle uçmayı seçerseniz öğreneceksiniz."
 
 # game/code/d21/d21s06.rpy:1122
 translate turkish d21s06_wellness_spa_82dc0057:
 
     # mes "A right amount of fun will be had by all. I came up with that slogan. What do you guys think?"
-    mes "A right amount of fun will be had by all. I came up with that slogan. What do you guys think?"
+    mes "Doğru miktarda eğlence herkes tarafından yaşanacak. Ben bu sloganı buldum. Siz ne düşünüyorsunuz?"
 
 # game/code/d21/d21s06.rpy:1126
 translate turkish d21s06_wellness_spa_3545488f:
 
     # mc "It's a bit dry."
-    mc "It's a bit dry."
+    mc "Biraz kuru."
 
 # game/code/d21/d21s06.rpy:1127
 translate turkish d21s06_wellness_spa_40d0b7e7:
 
     # mes "That's the point, dry slogan, wet experience."
-    mes "That's the point, dry slogan, wet experience."
+    mes "İşte mesele bu, kuru slogan, ıslak deneyim."
 
 # game/code/d21/d21s06.rpy:1128
 translate turkish d21s06_wellness_spa_9c3827ac:
 
     # mc "It's a little too... abstruse for our purposes, maybe?"
-    mc "It's a little too... abstruse for our purposes, maybe?"
+    mc "Biraz fazla... bizim amacımız için anlaşılmaz, belki?"
 
 # game/code/d21/d21s06.rpy:1131
 translate turkish d21s06_wellness_spa_907f9b61:
 
     # arj "I like it?... contrasts with the non-traditional theme."
-    arj "I like it?... contrasts with the non-traditional theme."
+    arj "Beğendim mi?... geleneksel olmayan temayla çelişiyor."
 
 # game/code/d21/d21s06.rpy:1133
 translate turkish d21s06_wellness_spa_5ea4823b:
 
     # sy "It is a spa, just with a twist."
-    sy "It is a spa, just with a twist."
+    sy "Sadece bir dokunuşla bir spa."
 
 # game/code/d21/d21s06.rpy:1135
 translate turkish d21s06_wellness_spa_f3a764d5:
 
     # mc "Lots of pee..."
-    mc "Lots of pee..."
+    mc "Bol çiş..."
 
 # game/code/d21/d21s06.rpy:1140
 translate turkish d21s06_wellness_spa_f00aad5e:
 
     # mes "The name of the business is up for deliberation."
-    mes "The name of the business is up for deliberation."
+    mes "İşletmenin adı görüşülecek."
 
 # game/code/d21/d21s06.rpy:1141
 translate turkish d21s06_wellness_spa_2ffe0fed:
 
     # mes "But our idea was the Waterfall."
-    mes "But our idea was the Waterfall."
+    mes "Ama bizim fikrimiz Şelaleydi."
 
 # game/code/d21/d21s06.rpy:1145
 translate turkish d21s06_wellness_spa_64ed2203:
@@ -2524,265 +2524,265 @@ translate turkish d21s06_wellness_spa_64ed2203:
 translate turkish d21s06_wellness_spa_419379cc:
 
     # sy "You're great with names, aren't you?"
-    sy "You're great with names, aren't you?"
+    sy "İsimler konusunda harikasın, değil mi?"
 
 # game/code/d21/d21s06.rpy:1148
 translate turkish d21s06_wellness_spa_d3cae0fb:
 
     # arj "Waterfall?"
-    arj "Waterfall?"
+    arj "Şelale?"
 
 # game/code/d21/d21s06.rpy:1153
 translate turkish d21s06_wellness_spa_8fbe034e:
 
     # mes "It was either that or the Squirt Spa. That one might have been too obvious."
-    mes "It was either that or the Squirt Spa. That one might have been too obvious."
+    mes "Ya o ya da Squirt Spa'ydı. Bu çok açık olabilirdi."
 
 # game/code/d21/d21s06.rpy:1154
 translate turkish d21s06_wellness_spa_30f17f59:
 
     # mes "If you have alternatives, you can think of some in the future."
-    mes "If you have alternatives, you can think of some in the future."
+    mes "Alternatifleriniz varsa, gelecekte bazılarını düşünebilirsiniz."
 
 # game/code/d21/d21s06.rpy:1155
 translate turkish d21s06_wellness_spa_20f6652d:
 
     # mes "Right now is the pitching process."
-    mes "Right now is the pitching process."
+    mes "Şu anda satış konuşması süreci."
 
 # game/code/d21/d21s06.rpy:1159
 translate turkish d21s06_wellness_spa_ebbfb5a8:
 
     # sy "And how are we funding this?"
-    sy "And how are we funding this?"
+    sy "Ve bunu nasıl finanse ediyoruz?"
 
 # game/code/d21/d21s06.rpy:1160
 translate turkish d21s06_wellness_spa_08f69221:
 
     # mes "We can make it work with an injection of capital. We know some people on campus who accomplished something similar. Loans and such."
-    mes "We can make it work with an injection of capital. We know some people on campus who accomplished something similar. Loans and such."
+    mes "Bir sermaye enjeksiyonu ile bunu çalıştırabiliriz. Kampüste benzer bir şeyi başaran bazı insanlar tanıyoruz. Krediler falan."
 
 # game/code/d21/d21s06.rpy:1162
 translate turkish d21s06_wellness_spa_936da8a3:
 
     # arj "How's your credit score?"
-    arj "How's your credit score?"
+    arj "Kredi puanın nasıl?"
 
 # game/code/d21/d21s06.rpy:1164
 translate turkish d21s06_wellness_spa_81c2261b:
 
     # mc "Mine? I can't even find a place."
-    mc "Mine? I can't even find a place."
+    mc "Bana ait? Bir yer bile bulamıyorum."
 
 # game/code/d21/d21s06.rpy:1166
 translate turkish d21s06_wellness_spa_41e3722b:
 
     # arj "You did. But not you. I meant Min."
-    arj "You did. But not you. I meant Min."
+    arj "Yaptın. Ama sen değil. Min'i kastetmiştim."
 
 # game/code/d21/d21s06.rpy:1170
 translate turkish d21s06_wellness_spa_080a4b24:
 
     # mes "My credit score? It's okay. But as I said, the investors will help big time. Might take some work, but securing funding isn't our main goal."
-    mes "My credit score? It's okay. But as I said, the investors will help big time. Might take some work, but securing funding isn't our main goal."
+    mes "Kredi puanım mı? Sorun değil. Ama dediğim gibi yatırımcılar çok yardımcı olacaktır. Biraz uğraştırabilir ama finansman sağlamak asıl amacımız değil."
 
 # game/code/d21/d21s06.rpy:1171
 translate turkish d21s06_wellness_spa_20ebb525:
 
     # mes "Our main goal is the spa."
-    mes "Our main goal is the spa."
+    mes "Ana hedefimiz kaplıca."
 
 # game/code/d21/d21s06.rpy:1175
 translate turkish d21s06_wellness_spa_39ad58cf:
 
     # sy "Uh, sounds complicated."
-    sy "Uh, sounds complicated."
+    sy "Uh, kulağa karmaşık geliyor."
 
 # game/code/d21/d21s06.rpy:1177
 translate turkish d21s06_wellness_spa_5563f226:
 
     # arj "It is."
-    arj "It is."
+    arj "Öyle."
 
 # game/code/d21/d21s06.rpy:1179
 translate turkish d21s06_wellness_spa_26ee5270:
 
     # mc "To be honest, you guys are focusing on the wrong thing. It's less about the spa as a watersport-business."
-    mc "To be honest, you guys are focusing on the wrong thing. It's less about the spa as a watersport-business."
+    mc "Dürüst olmak gerekirse, siz çocuklar yanlış şeye odaklanıyorsunuz. Bu bir su sporları işi olarak spa'dan daha az önemli."
 
 # game/code/d21/d21s06.rpy:1180
 translate turkish d21s06_wellness_spa_50bfa3fd:
 
     # mc "More of an excuse to form a imperial Chinese harem."
-    mc "More of an excuse to form a imperial Chinese harem."
+    mc "Daha çok bir Çin imparatorluk haremi kurmak için bir bahane."
 
 # game/code/d21/d21s06.rpy:1184
 translate turkish d21s06_wellness_spa_378f0c06:
 
     # mes "I'm Korean."
-    mes "I'm Korean."
+    mes "Ben Koreliyim."
 
 # game/code/d21/d21s06.rpy:1185
 translate turkish d21s06_wellness_spa_5506f6cf:
 
     # mc "I know, it's just what that structure is called."
-    mc "I know, it's just what that structure is called."
+    mc "Biliyorum, o yapının adı bu."
 
 # game/code/d21/d21s06.rpy:1186
 translate turkish d21s06_wellness_spa_14702122:
 
     # mes "I thought harem is an Arabic word."
-    mes "I thought harem is an Arabic word."
+    mes "Ben haremin Arapça bir kelime olduğunu sanıyordum."
 
 # game/code/d21/d21s06.rpy:1190
 translate turkish d21s06_wellness_spa_54288f40:
 
     # mc "It probably is but, uh..."
-    mc "It probably is but, uh..."
+    mc "Muhtemelen öyle ama, uh..."
 
 # game/code/d21/d21s06.rpy:1191
 translate turkish d21s06_wellness_spa_23cdc614:
 
     # mc "Nevermind, what was I saying?"
-    mc "Nevermind, what was I saying?"
+    mc "Boşver, ne diyordum?"
 
 # game/code/d21/d21s06.rpy:1192
 translate turkish d21s06_wellness_spa_c0683fe6:
 
     # mes "You were bringing sex into a professional setting."
-    mes "You were bringing sex into a professional setting."
+    mes "Seksi profesyonel bir ortama getiriyordun."
 
 # game/code/d21/d21s06.rpy:1193
 translate turkish d21s06_wellness_spa_e1acbb60:
 
     # mc "Isn't it about sex?"
-    mc "Isn't it about sex?"
+    mc "Seksle ilgili değil mi?"
 
 # game/code/d21/d21s06.rpy:1194
 translate turkish d21s06_wellness_spa_36a29d41:
 
     # mes "No. The spa is professionally run. It will just have some extras."
-    mes "No. The spa is professionally run. It will just have some extras."
+    mes "Hayır. Spa profesyonelce yönetiliyor. Sadece bazı ekstralar olacak."
 
 # game/code/d21/d21s06.rpy:1196
 translate turkish d21s06_wellness_spa_e4b4e4a6:
 
     # mc "Hey, we have harems here too."
-    mc "Hey, we have harems here too."
+    mc "Hey, burada da haremlerimiz var."
 
 # game/code/d21/d21s06.rpy:1198
 translate turkish d21s06_wellness_spa_d461c933:
 
     # sy "You want to move somewhere?"
-    sy "You want to move somewhere?"
+    sy "Bir yere taşınmak ister misin?"
 
 # game/code/d21/d21s06.rpy:1200
 translate turkish d21s06_wellness_spa_1bf1e07c:
 
     # mc "I'm not sure. Min, do you want to setup this business in Asia?"
-    mc "I'm not sure. Min, do you want to setup this business in Asia?"
+    mc "Emin değilim. Min, bu işi Asya'da mı kurmak istiyorsun?"
 
 # game/code/d21/d21s06.rpy:1204
 translate turkish d21s06_wellness_spa_b5098d8a:
 
     # mes "No. They wouldn't allow spas of what we're proposing."
-    mes "No. They wouldn't allow spas of what we're proposing."
+    mes "Hayır. Önerdiğimiz şeyin spasına izin vermezler."
 
 # game/code/d21/d21s06.rpy:1208
 translate turkish d21s06_wellness_spa_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "Gerçekten mi?"
 
 # game/code/d21/d21s06.rpy:1213
 translate turkish d21s06_wellness_spa_2da98b91:
 
     # mc "I didn't mean that."
-    mc "I didn't mean that."
+    mc "Öyle demek istemedim."
 
 # game/code/d21/d21s06.rpy:1214
 translate turkish d21s06_wellness_spa_93902784:
 
     # mc "Alright, so it'll be around here somewhere. Somewhere legal."
-    mc "Alright, so it'll be around here somewhere. Somewhere legal."
+    mc "Pekala, buralarda bir yerde olacak. Yasal bir yerde."
 
 # game/code/d21/d21s06.rpy:1216
 translate turkish d21s06_wellness_spa_efefd519:
 
     # sy "Who are the investors? If you don't mind me asking."
-    sy "Who are the investors? If you don't mind me asking."
+    sy "Yatırımcılar kim? Sormamın sakıncası yoksa."
 
 # game/code/d21/d21s06.rpy:1220
 translate turkish d21s06_wellness_spa_115dbcaf:
 
     # mes "That we haven't decided. What we did decide on is who we're bringing along with this."
-    mes "That we haven't decided. What we did decide on is who we're bringing along with this."
+    mes "Karar vermedik. Karar verdiğimiz şey, bununla birlikte kimi getireceğimiz."
 
 # game/code/d21/d21s06.rpy:1224
 translate turkish d21s06_wellness_spa_7454332c:
 
     # mc "Actually, we have a working list."
-    mc "Actually, we have a working list."
+    mc "Aslında bir çalışma listemiz var."
 
 # game/code/d21/d21s06.rpy:1225
 translate turkish d21s06_wellness_spa_2cd4c788:
 
     # mc "We just have to get them on board."
-    mc "We just have to get them on board."
+    mc "Onları gemiye almamız yeterli."
 
 # game/code/d21/d21s06.rpy:1229
 translate turkish d21s06_wellness_spa_9bd64567:
 
     # mes "I hope you have an idea. I'm going to drop out."
-    mes "I hope you have an idea. I'm going to drop out."
+    mes "Umarım bir fikriniz vardır. Bırakacağım."
 
 # game/code/d21/d21s06.rpy:1238
 translate turkish d21s06_wellness_spa_a437bdda:
 
     # mes "Bye."
-    mes "Bye."
+    mes "Hoşçakal."
 
 # game/code/d21/d21s06.rpy:1243
 translate turkish d21s06_wellness_spa_2924e892:
 
     # sy "So you're really doing this?"
-    sy "So you're really doing this?"
+    sy "Demek bunu gerçekten yapıyorsun?"
 
 # game/code/d21/d21s06.rpy:1244
 translate turkish d21s06_wellness_spa_85107a33:
 
     # sy "I'll go with you if you're sure this is going to work. Because this is a serious life decision."
-    sy "I'll go with you if you're sure this is going to work. Because this is a serious life decision."
+    sy "Bunun işe yarayacağından eminsen seninle geleceğim. Çünkü bu ciddi bir hayat kararı."
 
 # game/code/d21/d21s06.rpy:1247
 translate turkish d21s06_wellness_spa_4dc9a4dc:
 
     # mc "I'm willing to try!"
-    mc "I'm willing to try!"
+    mc "Denemeye hazırım!"
 
 translate turkish strings:
 
     # game/code/d21/d21s06.rpy:10
     old "One hour later\nOutside Stacy's place"
-    new "One hour later\nOutside Stacy's place"
+    new "Bir saat sonra\NStacy'nin evinin dışında"
 
     # game/code/d21/d21s06.rpy:570
     old "Yes, I want to try to reboot Fetish Locator"
-    new "Yes, I want to try to reboot Fetish Locator"
+    new "Evet, Fetish Locator'ı yeniden başlatmayı denemek istiyorum"
 
     # game/code/d21/d21s06.rpy:570
     old "No, forget it"
-    new "No, forget it"
+    new "Onu, unutma"
 
     # game/code/d21/d21s06.rpy:592
     old "Please enter a new name for Fetish Locator."
-    new "Please enter a new name for Fetish Locator."
+    new "Lütfen Fetiş Bulucu için yeni bir ad girin."
 
     # game/code/d21/d21s06.rpy:1029
     old "Yes, this is what I want to do."
-    new "Yes, this is what I want to do."
+    new "Evet, yapmak istediğim şey bu."
 
     # game/code/d21/d21s06.rpy:1029
     old "No, I have to give it more thought."
-    new "No, I have to give it more thought."
+    new "Hayır, daha fazla düşünmeliyim."
 

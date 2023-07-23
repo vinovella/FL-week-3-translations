@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-26 11:45
+# TODO: Translation updated at 2023-05-26 11:45
 
 # game/code/e02/e02s07.rpy:62
 translate spanish e02s07_c14c10e0:
@@ -580,7 +580,7 @@ translate spanish e02s07_next_day_611380f9:
 translate spanish e02s07_next_day_693a6f7c:
 
     # dn "I didn't mean-"
-    dn "no quise decir-"
+    dn "No quise decir-"
 
 # game/code/e02/e02s07.rpy:374
 translate spanish e02s07_next_day_a8996523:
@@ -1378,7 +1378,7 @@ translate spanish e02s07_next_day_2_816de7c9:
 translate spanish e02s07_next_day_2_f76fc63b:
 
     # mh "Yet, both of you seemed quite stimulated watching me - a woman with a cock."
-    mh "Sin embargo, ambas parecían bastante estimuladas al verme: una mujer con una polla."
+    mh "Sin embargo, ambas parecían bastante estimuladas al verme: una mujer con un pene."
 
 # game/code/e02/e02s07.rpy:914
 translate spanish e02s07_next_day_2_7369277e:
@@ -1426,7 +1426,7 @@ translate spanish e02s07_next_day_2_ece082c1:
 translate spanish e02s07_next_day_2_1bd9ddb6:
 
     # mh "Anyway, to make a long story short-"
-    mh "De todos modos, para hacer una larga historia corta-"
+    mh "En fin, para no extenderme mucho..."
 
 # game/code/e02/e02s07.rpy:935
 translate spanish e02s07_next_day_2_a41f3219:

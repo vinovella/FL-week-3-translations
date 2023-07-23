@@ -64,7 +64,7 @@ translate spanish d16s07_ext_103283d1:
 translate spanish d16s07_ext_8815fa6e:
 
     # mc "Right... What {i}are{/i} you doing anyway? You told me to come over but didn't say why."
-    mc "Correcto... ¿Qué {i}estás{/i} haciendo de todos modos? Me dijiste que viniera pero no dijiste por qué."
+    mc "Bien... ¿Qué {i}estás{/i} haciendo de todos modos? Me dijiste que viniera pero no dijiste por qué."
 
 # game/code/d16/extended/d16s07_ext.rpy:102
 translate spanish d16s07_ext_6d9c8873:
@@ -148,7 +148,7 @@ translate spanish d16s07_ext_53927da4:
 translate spanish d16s07_ext_1ed467c1:
 
     # jf "Right now it's just clients that I already had. But I want to attract more people."
-    jf "En este momento son solo clientes que ya tenía. Pero quiero atraer a más gente."
+    jf "En este momento son sólo clientes que ya tenía. Pero quiero atraer a más gente."
 
 # game/code/d16/extended/d16s07_ext.rpy:147
 translate spanish d16s07_ext_8403ad17:
@@ -214,7 +214,7 @@ translate spanish d16s07_ext_f3b951f6:
 translate spanish d16s07_ext_c52e8bf6:
 
     # mc "But I can't make a decision about joining in as a partner right this second."
-    mc "Pero no puedo tomar una decisión sobre unirme como socio en este segundo."
+    mc "Pero no puedo tomar una decisión sobre unirme como socio en este momento."
 
 # game/code/d16/extended/d16s07_ext.rpy:174
 translate spanish d16s07_ext_7f8283b4:
@@ -250,7 +250,7 @@ translate spanish d16s07_ext_1e0901c9:
 translate spanish d16s07_ext_2da3e5fd:
 
     # mc "Spit it out then."
-    mc "Escúpelo entonces."
+    mc "Dilo de una vez."
 
 # game/code/d16/extended/d16s07_ext.rpy:190
 translate spanish d16s07_ext_2a567508:
@@ -358,7 +358,7 @@ translate spanish d16s07_ext_fd51be2b:
 translate spanish d16s07_ext_c315f7ad:
 
     # mc "That's a tempting offer but some friends of mine are waiting on me, and they'll probably get pissed if I'm late."
-    mc "Es una oferta tentadora, pero algunos amigos míos me están esperando y probablemente se enojen si llego tarde."
+    mc "Es una oferta tentadora, pero algunas amigas mías me están esperando y probablemente se enojen si llego tarde."
 
 # game/code/d16/extended/d16s07_ext.rpy:239
 translate spanish d16s07_ext_65399a81:
@@ -406,7 +406,7 @@ translate spanish d16s07_ext_d50668ef:
 translate spanish d16s07_ext_2df688ed:
 
     # jf "{i}Extremely{/i} well."
-    jf "{i}Extremadamente{/i} bien.."
+    jf "{i}Extremadamente{/i} bien."
 
 # game/code/d16/extended/d16s07_ext.rpy:276
 translate spanish d16s07_ext_d388a1c1:
@@ -442,7 +442,7 @@ translate spanish d16s07_ext_47716764:
 translate spanish d16s07_ext_c315f7ad_1:
 
     # mc "That's a tempting offer but some friends of mine are waiting on me, and they'll probably get pissed if I'm late."
-    mc "Es una oferta tentadora, pero unas amigas me están esperando y probablemente se enfaden si llego tarde."
+    mc "Es una oferta tentadora, pero unas amigas me están esperando y probablemente se enojen si llego tarde."
 
 # game/code/d16/extended/d16s07_ext.rpy:290
 translate spanish d16s07_ext_65399a81_1:
@@ -508,7 +508,7 @@ translate spanish d16s07_ext_88f96f7c:
 translate spanish d16s07_ext_07ecb0cf:
 
     # jf "The client is paying good money for high quality photos, and I want to deliv—"
-    jf "El cliente está pagando un buen dinero por fotos de alta calidad, y quiero entregar—"
+    jf "El cliente está pagando un buen dinero por fotos de alta calidad, y eso es lo que quiero entregar."
 
 # game/code/d16/extended/d16s07_ext.rpy:327
 translate spanish d16s07_ext_1e9d3770:
@@ -760,13 +760,13 @@ translate spanish d16s07_ext_71aca759:
 translate spanish d16s07_ext_ad04bba8:
 
     # mct "Wow, she's a real porn director."
-    mct "Wow, ella es una verdadera directora de porno."
+    mct "Vaya, ella es una verdadera directora porno."
 
 # game/code/d16/extended/d16s07_ext.rpy:501
 translate spanish d16s07_ext_7cadd660:
 
     # jf "*Moans* Oh, God... Right there."
-    jf "*gemidos* Oh, Dios... Justo ahí."
+    jf "*Gemidos* Oh, Dios... Justo ahí."
 
 # game/code/d16/extended/d16s07_ext.rpy:505
 translate spanish d16s07_ext_3b7fdde5:
@@ -790,7 +790,7 @@ translate spanish d16s07_ext_e944dc8f:
 translate spanish d16s07_ext_76d372e3:
 
     # kv "It was. That was great."
-    kv "Fue. Eso fue genial."
+    kv "Lo fue. Eso fue genial."
 
 # game/code/d16/extended/d16s07_ext.rpy:535
 translate spanish d16s07_ext_2e2eaf2c:
@@ -832,7 +832,7 @@ translate spanish d16s07_ext_f96c02be:
 translate spanish d16s07_ext_2488a094:
 
     # kv "Wish [mcname] came inside. That would've been the cherry on top."
-    kv "Ojalá [mcname] se hubiera corrido dentro. Habría sido la guinda del pastel."
+    kv "Ojalá [mcname] se hubiera corrido adentro. Habría sido la guinda del pastel."
 
 # game/code/d16/extended/d16s07_ext.rpy:702
 translate spanish d16s07_ext_3bcee771:
@@ -926,5 +926,5 @@ translate spanish strings:
 
     # game/code/d16/extended/d16s07_ext.rpy:662
     old "Cum outside"
-    new "Córrete fuera"
+    new "Córrete afuera"
 

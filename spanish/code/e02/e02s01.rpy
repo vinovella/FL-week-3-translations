@@ -208,7 +208,7 @@ translate spanish e02s01_fb8f6c72:
 translate spanish e02s01_d1a4b78a:
 
     # mc "Oh wow, cool, there's a sauna, an indoor pool, massage therapy, and all sorts of indoor recreational activities. Where is our cabin?"
-    mc "Oh, wow, genial, hay un sauna, una piscina cubierta, masajes terapéuticos y todo tipo de actividades recreativas en el interior. ¿Dónde está nuestra cabaña?"
+    mc "Oh, vaya, genial, hay un sauna, una piscina cubierta, masajes terapéuticos y todo tipo de actividades recreativas en el interior. ¿Dónde está nuestra cabaña?"
 
 # game/code/e02/e02s01.rpy:184
 translate spanish e02s01_c85ea333:
@@ -664,7 +664,7 @@ translate spanish e02s01_hot_bath_9848d31b:
 translate spanish e02s01_hot_bath_02c200d9:
 
     # mc "I can't ski."
-    mc "Yo no puedo esquiar"
+    mc "Yo no puedo esquiar."
 
 # game/code/e02/e02s01.rpy:399
 translate spanish e02s01_hot_bath_4c9e3ef5:

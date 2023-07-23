@@ -82,7 +82,7 @@ translate spanish d15s01_e3ab8b2c:
 translate spanish d15s01_87b33273:
 
     # arj "She woke me up before dawn, saying she wanted to get back to her apartment."
-    arj "Me despertó antes del amanecer, diciendo que quería volver a su apartamento."
+    arj "Me despertó antes del amanecer, diciendo que quería volver a su departamento."
 
 # game/code/d15/d15s01.rpy:225
 translate spanish d15s01_f0327cb9:
@@ -238,7 +238,7 @@ translate spanish d15s01_readnote_2e56de0b:
 translate spanish d15s01_readnote_00434c3b:
 
     # "You have 5 minutes to enter your selection in the app and 30 minutes to become caged."
-    "Tiene 5 minutos para ingresar su selección en la aplicación y 30 minutos para ser enjaulado."
+    "Tienes 5 minutos para ingresar su selección en la aplicación y 30 minutos para ser enjaulado."
 
 # game/code/d15/d15s01.rpy:344
 translate spanish d15s01_readnote_8ec8a013:
@@ -502,7 +502,7 @@ translate spanish d15s01_cagedecision_019a10bc:
 translate spanish d15s01_cagedecision_db581ccd:
 
     # arj "Wow."
-    arj "Guau."
+    arj "Vaya."
 
 # game/code/d15/d15s01.rpy:469
 translate spanish d15s01_cagedecision_cf1adef2:
@@ -688,7 +688,7 @@ translate spanish d15s01_cage_lc_073f0268:
 translate spanish d15s01_cage_lc_8ec04bdc:
 
     # mc "Yeah, just like that."
-    mc "Sí, solo así."
+    mc "Sí, justo así."
 
 # game/code/d15/d15s01.rpy:572
 translate spanish d15s01_cage_lc_9e27e0aa:
@@ -730,7 +730,7 @@ translate spanish d15s01_cage_ntr_26c1d277:
 translate spanish d15s01_cage_ntr_6d2a8e7c:
 
     # lc "You could change your mind?"
-    lc "¿Podría cambiar de opinión?"
+    lc "¿Podrías cambiar de opinión?"
 
 # game/code/d15/d15s01.rpy:600
 translate spanish d15s01_cage_ntr_b1ad86ea:
@@ -820,7 +820,7 @@ translate spanish d15s01_caged_5f9f142c:
 translate spanish d15s01_caged_ffd395da:
 
     # mc "I don't get it."
-    mc "No lo entiendo"
+    mc "No lo entiendo."
 
 # game/code/d15/d15s01.rpy:669
 translate spanish d15s01_caged_1fb61bba:
@@ -1144,7 +1144,7 @@ translate spanish d15s01_lc_bj_4cb9b139:
 translate spanish d15s01_lc_bj_7e67fa7a:
 
     # arj "So, you just need to-"
-    arj "Entonces, solo necesitas-"
+    arj "Entonces, sólo necesitas-"
 
 # game/code/d15/d15s01.rpy:943
 translate spanish d15s01_lc_bj_a841da30:
@@ -1216,7 +1216,7 @@ translate spanish d15s01_lc_bj_422b15a4:
 translate spanish d15s01_lc_bj_d54ef43f:
 
     # arj "Wow!"
-    arj "¡Guau!"
+    arj "¡Vaya!"
 
 # game/code/d15/d15s01.rpy:1006
 translate spanish d15s01_lc_bj_fca3fe83:
@@ -2044,7 +2044,7 @@ translate spanish d15s01_end_7c927b78:
 translate spanish d15s01_end_cb021db6:
 
     # arj "Nothing. {w}We should get together with Stacy later. Meet at her apartment, ya'know?"
-    arj "Nada. {w}Deberíamos reunirnos con Stacy más tarde. Reúnete en su apartamento, ¿sabes?"
+    arj "Nada. {w}Deberíamos reunirnos con Stacy más tarde. Reúnete en su departamento, ¿sabes?"
 
 # game/code/d15/d15s01.rpy:1523
 translate spanish d15s01_end_38b5e631:

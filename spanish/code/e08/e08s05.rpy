@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-26 11:45
+# TODO: Translation updated at 2023-05-26 11:45
 
 # game/code/e08/e08s05.rpy:107
 translate spanish e08s05_cdd7bfe3:
@@ -112,7 +112,7 @@ translate spanish e08s05_776c3909:
 translate spanish e08s05_c1121383:
 
     # "Mayor" "However. The wonderful couple you see before you today, the young man and woman who had only gotten here a year before, who had just only settled in, had done something, turning their farm into some kind of mega-shelter."
-    "Alcalde" "Sin embargo. La maravillosa pareja que ven hoy ante ustedes, el hombre y la mujer jóvenes que habían llegado aquí hacía apenas un año, que acababan de instalarse, habían hecho algo, convertir su granja en una especie de megaalbergue."
+    "Alcalde" "Sin embargo. La maravillosa pareja que ven hoy ante ustedes, formado por un hombre y una mujer jóvenes que apenas hacía un año que habían llegado aquí, que acababan de instalarse, convirtieron su granja en una especie de megaalbergue."
 
 # game/code/e08/e08s05.rpy:162
 translate spanish e08s05_00d9ec3b:
@@ -190,7 +190,7 @@ translate spanish e08s05_f538d3d4:
 translate spanish e08s05_417540ce:
 
     # "Mayor" "As all great men and women of the world end up doing, giving up their power and retire, humbly, simply without vanity. I present the honor to Amber-Rose Jenkins and [mcname] Young!"
-    "Alcalde" "Como terminan haciendo todos los grandes hombres y mujeres del mundo, renunciando a su poder y retirándose, humildemente, simplemente sin vanidad. ¡Le presento el honor a Amber-Rose Jenkins y [mcname] Young!"
+    "Alcalde" "Como terminan haciendo todos los grandes hombres y mujeres del mundo, renunciando a su poder y retirándose, humildemente, simplemente sin vanidad. ¡Les concedo el honor a Amber-Rose Jenkins y [mcname] Young!"
 
 # game/code/e08/e08s05.rpy:212
 translate spanish e08s05_c5bed88c:
@@ -352,19 +352,19 @@ translate spanish e08s05_talk_3f4075df:
 translate spanish e08s05_talk_46d64999:
 
     # ac "You're ridiculous, it is a bad idea. He'd never go for that, little old me? Did you remember to get the barbecue?"
-    ac "Eres ridículo, es una mala idea. ¿Él nunca aceptaría eso, pequeño viejo yo? ¿Te acordaste de traer la carne para la barbacoa?"
+    ac "Eres ridículo, es una mala idea. ¿Él nunca aceptaría eso, pequeño viejo yo? ¿Te acordaste de traer la carne para la parrillada?"
 
 # game/code/e08/e08s05.rpy:297
 translate spanish e08s05_talk_add009f4:
 
     # fc "Well, they didn't have any at the store I was at, they had a load of chicken, so I bought that."
-    fc "Bueno, no tenían ninguno en la tienda en la que estaba, tenían un montón de pollo, así que compré eso."
+    fc "Bueno, no tenían nada en la tienda en la que estaba, tenían un montón de pollo, así que compré eso."
 
 # game/code/e08/e08s05.rpy:300
 translate spanish e08s05_talk_05fc1e2c:
 
     # ac "How are we going to have a barbecue without barbecue?"
-    ac "¿Cómo vamos a hacer una barbacoa sin barbacoa?"
+    ac "¿Cómo vamos a hacer una parrillada sin parrillada?"
 
 # game/code/e08/e08s05.rpy:303
 translate spanish e08s05_talk_202d7d26:
@@ -376,7 +376,7 @@ translate spanish e08s05_talk_202d7d26:
 translate spanish e08s05_talk_639c16c4:
 
     # ac "Yes! People expecting barbecue will not settle for supermarket meat."
-    ac "¡Sí! Las personas que esperan barbacoa no se conformarán con la carne del supermercado."
+    ac "¡Sí! La gente que espera una parrillada no se conforma con la carne del supermercado."
 
 # game/code/e08/e08s05.rpy:309
 translate spanish e08s05_talk_21c3cf1b:
@@ -394,7 +394,7 @@ translate spanish e08s05_talk_3d0129d7:
 translate spanish e08s05_talk_29c7c8bd:
 
     # ac "I'd never thought he'd never leave. Can you believe him? Forgetting the barbecue."
-    ac "Nunca pensé que nunca se iría. ¿Puedes creerle? Olvidando la barbacoa."
+    ac "Pensaba que nunca se iría. ¿Puedes creerlo? Olvidándose de la parrillada."
 
 # game/code/e08/e08s05.rpy:318
 translate spanish e08s05_talk_b99997c1:
@@ -442,13 +442,13 @@ translate spanish e08s05_talk_a9dd8d1b:
 translate spanish e08s05_talk_eb495b4c:
 
     # ac "Don't worry about it, I don't judge. Frank didn't even get me a ring. Cheap bastard."
-    ac "No te preocupes por eso, no juzgo. Frank ni siquiera me consiguió un anillo. Bastardo barato."
+    ac "No te preocupes por eso, no juzgo. Frank ni siquiera me consiguió un anillo. Bastardo miserable."
 
 # game/code/e08/e08s05.rpy:336
 translate spanish e08s05_talk_f17f142a:
 
     # ac "He promised me the world, you know? We got together when we were still touring together. Those seem like ancient times now. Oh, to be young."
-    ac "Me prometió el mundo, ¿sabes? Nos juntamos cuando todavía estábamos de gira juntos. Esos parecen tiempos antiguos ahora. Oh, ser joven."
+    ac "Me prometió el mundo, ¿sabes? Nos conocimos cuando aún estábamos juntos de gira. Ahora parecen tiempos pasados. Oh, ser joven."
 
 # game/code/e08/e08s05.rpy:339
 translate spanish e08s05_talk_32bd66fc:
@@ -508,7 +508,7 @@ translate spanish e08s05_talk_05753f1f:
 translate spanish e08s05_talk_4ef4ae2f:
 
     # ac "Bless your heart. I'll let you hobnob. See you at the barbecue."
-    ac "Bendito sea tu corazón. Te dejaré codearte. Nos vemos en la barbacoa."
+    ac "Bendito sea tu corazón. Te dejaré codearte. Nos vemos en la parrillada."
 
 # game/code/e08/e08s05.rpy:370
 translate spanish e08s05_talk_414f3a9b:
@@ -562,7 +562,7 @@ translate spanish e08s05_talk_2d7eac5b:
 translate spanish e08s05_talk_de08da64:
 
     # hh "I have to prepare."
-    hh "Tengo que prepararme"
+    hh "Tengo que prepararme."
 
 # game/code/e08/e08s05.rpy:399
 translate spanish e08s05_talk_cbd11f69:
@@ -610,7 +610,7 @@ translate spanish e08s05_talk_af4aded4:
 translate spanish e08s05_talk_9f2cdbb4:
 
     # mc "And what, retreat her boudoir at eight?"
-    mc "¿Y qué, retirarse de su tocador a las ocho?"
+    mc "Y qué, ¿se va a su habitación a las ocho?"
 
 # game/code/e08/e08s05.rpy:423
 translate spanish e08s05_talk_d764a98a:
@@ -628,7 +628,7 @@ translate spanish e08s05_talk_1fab2084:
 translate spanish e08s05_talk_7de56563:
 
     # mc "It's a nice place, though, isn't it?"
-    mc "Es un buen lugar, sin embargo, ¿no?"
+    mc "Sin embargo, es un sitio bonito, ¿no?"
 
 # game/code/e08/e08s05.rpy:430
 translate spanish e08s05_talk_5563f226:
@@ -658,7 +658,7 @@ translate spanish e08s05_talk_85675d41:
 translate spanish e08s05_talk_f52989a9:
 
     # arj "I'll get right on that."
-    arj "Voy a empezar ahora mismo."
+    arj "Me ocuparé de ello."
 
 # game/code/e08/e08s05.rpy:467
 translate spanish e08s05_party_ab7e14d1:
@@ -682,7 +682,7 @@ translate spanish e08s05_party_d6b08421:
 translate spanish e08s05_party_f4fec7c6:
 
     # fc "Do dogs dream of eating things? Do they dream at all?"
-    fc "¿Los perros sueñan con comer cosas? ¿Sueñan en absoluto?"
+    fc "¿Los perros sueñan con comer cosas?"
 
 # game/code/e08/e08s05.rpy:491
 translate spanish e08s05_party_1917f00e:
@@ -706,7 +706,7 @@ translate spanish e08s05_party_28740b4d:
 translate spanish e08s05_party_ab9a9daf:
 
     # ac "He didn't move his whole body to shiver, Frank, just his leg."
-    ac "No movió todo su cuerpo para temblar, Frank, solo su pierna."
+    ac "No movía todo el cuerpo para temblar, Frank, sólo la pierna."
 
 # game/code/e08/e08s05.rpy:501
 translate spanish e08s05_party_a61d6dfa:
@@ -736,7 +736,7 @@ translate spanish e08s05_party_7783b283:
 translate spanish e08s05_party_f78fd1d7:
 
     # mc "On your way?"
-    mc "¿Se vas?"
+    mc "¿Se van?"
 
 # game/code/e08/e08s05.rpy:516
 translate spanish e08s05_party_94123e8c:
@@ -808,13 +808,13 @@ translate spanish e08s05_party_155aa6a1:
 translate spanish e08s05_party_16bfc9dd:
 
     # mc "Wow. That's a great prize."
-    mc "Guau. Ese es un gran premio."
+    mc "Vaya. Ese es un gran premio."
 
 # game/code/e08/e08s05.rpy:552
 translate spanish e08s05_party_b1f844d5:
 
     # ac "You'll finally have the house to yourselves. We've been a terrible intrusion."
-    ac "Por fin tendrán la casa para ustedes solos. Hemos sido una terrible intrusión."
+    ac "Por fin tendrán la casa para ustedes solos. Hemos sido una terrible molestia."
 
 # game/code/e08/e08s05.rpy:555
 translate spanish e08s05_party_9f4926b1:
@@ -880,7 +880,7 @@ translate spanish e08s05_party_6f3d17ca:
 translate spanish e08s05_party_0ad2b7de:
 
     # ac "Excuse me a moment, I have to use the ladies' room. To freshen up."
-    ac "Disculpe un momento, tengo que usar el baño de damas. Para refrescarse."
+    ac "Disculpe un momento, tengo que usar el baño de damas. Para refrescarme."
 
 # game/code/e08/e08s05.rpy:586
 translate spanish e08s05_party_606e2d02:
@@ -1000,7 +1000,7 @@ translate spanish e08s05_party_f1f98f0e:
 translate spanish e08s05_party_3c76dc96:
 
     # mc "I am the very model of a modern major character, I know the tunes of Mozart, and the quotes from Sun Tzu's Art of War..."
-    mc "Soy el modelo mismo de un personaje principal moderno, conozco las melodías de Mozart y las citas de El arte de la guerra de Sun Tzu..."
+    mc "Soy el modelo mismo de un personaje principal moderno, conozco las melodías de Mozart y las citas de El Arte de la Guerra de Sun Tzu..."
 
 # game/code/e08/e08s05.rpy:641
 translate spanish e08s05_party_21f92991:
@@ -1012,13 +1012,13 @@ translate spanish e08s05_party_21f92991:
 translate spanish e08s05_party_55801468:
 
     # fc "You should take the mayor's spot and sing this in front of everyone."
-    fc "Deberías tomar el lugar del alcalde y cantar esto frente a todos."
+    fc "Deberías ocupar el lugar del alcalde y decir esto delante de todos."
 
 # game/code/e08/e08s05.rpy:647
 translate spanish e08s05_party_bb24bad5:
 
     # mc "It's a treat for you."
-    mc "Es un placer para ti."
+    mc "Es un capricho para ti."
 
 # game/code/e08/e08s05.rpy:650
 translate spanish e08s05_party_827c3c43:
@@ -1048,7 +1048,7 @@ translate spanish e08s05_party_bc8ab526:
 translate spanish e08s05_party_8fa01ac9:
 
     # fc "Oh, she's really passionate about it. We used to play together, you know, during weekends, she would sing and I would play first fiddle."
-    fc "Oh, a ella le apasiona mucho. Solíamos tocar juntos, ya sabes, durante los fines de semana, ella cantaba y yo tocaba el primer violín."
+    fc "Oh, a ella le apasiona mucho. Solíamos tocar juntos, ya sabes, durante los fines de semana, ella cantaba y yo tocaba el violín."
 
 # game/code/e08/e08s05.rpy:661
 translate spanish e08s05_party_495c186b:
@@ -1096,7 +1096,7 @@ translate spanish e08s05_party_d3674833:
 translate spanish e08s05_party_51861233:
 
     # mc "How many beers have you had, would you say?"
-    mc "¿Cuántas cervezas te has tomado, dirías?"
+    mc "¿Cuántas cervezas te has tomado?"
 
 # game/code/e08/e08s05.rpy:680
 translate spanish e08s05_party_c755bc97:
@@ -1138,7 +1138,7 @@ translate spanish e08s05_party_8708571e:
 translate spanish e08s05_party_b016dcdb:
 
     # fc "AmRose, let's run away and get married together."
-    fc "AmRose, huyámonos y casémonos juntos."
+    fc "AmRose, huyamos y casémonos."
 
 # game/code/e08/e08s05.rpy:700
 translate spanish e08s05_party_b7298e8b:
@@ -1180,7 +1180,7 @@ translate spanish e08s05_mc_inside_96a5cf9a:
 translate spanish e08s05_mc_inside_1dbc9589:
 
     # "Mayor" "Any suggestions? Amber-Rose? Anybody?"
-    "Alcalde" "¿Alguna sugerencia? ¿Amber-Rose? ¿Cualquiera?"
+    "Alcalde" "¿Alguna sugerencia? ¿Amber-Rose?"
 
 # game/code/e08/e08s05.rpy:722
 translate spanish e08s05_mc_inside_a36879f9:
@@ -1192,7 +1192,7 @@ translate spanish e08s05_mc_inside_a36879f9:
 translate spanish e08s05_mc_inside_50bb0d92:
 
     # arj "Should I get him? I can if you want."
-    arj "¿Debería conseguirlo? Yo puedo, si tu quieres."
+    arj "¿Debería ir a buscarlo? Puedo si quieres."
 
 # game/code/e08/e08s05.rpy:728
 translate spanish e08s05_mc_inside_3bf66936:
@@ -1204,7 +1204,7 @@ translate spanish e08s05_mc_inside_3bf66936:
 translate spanish e08s05_mc_inside_bd2ad267:
 
     # arj "Give what to him?"
-    arj "¿Dar qué a él?"
+    arj "¿Darle qué a él?"
 
 # game/code/e08/e08s05.rpy:734
 translate spanish e08s05_mc_inside_f5e5ab47:
@@ -1228,7 +1228,7 @@ translate spanish e08s05_mc_inside_bca2c4a9:
 translate spanish e08s05_mc_inside_5a2fd584:
 
     # hh "It wasn't just that. You gave me something dear in your time of need."
-    hh "No fue solo eso. Me diste algo querido en tu momento de necesidad."
+    hh "No fue sólo eso. Me diste algo valioso en un momento de necesidad."
 
 # game/code/e08/e08s05.rpy:744
 translate spanish e08s05_mc_inside_ae004a2d:
@@ -1264,19 +1264,19 @@ translate spanish e08s05_evening_fcfc267d:
 translate spanish e08s05_evening_60e0b93e:
 
     # arj "Should we make him something? So he has some energy left?"
-    arj "¿Deberíamos hacerle algo? ¿Así que le queda algo de energía?"
+    arj "¿Deberíamos prepararle algo? ¿Para que le quede algo de energía?"
 
 # game/code/e08/e08s05.rpy:783
 translate spanish e08s05_evening_906b9f5f:
 
     # mc "He must have forgotten to eat with all that booze and singing."
-    mc "Debe haberse olvidado de comer con todo ese alcohol y canto."
+    mc "Debió olvidarse de comer con tanto alcohol y tanto cantar."
 
 # game/code/e08/e08s05.rpy:784
 translate spanish e08s05_evening_16e98534:
 
     # mc "Do we have any barbecue left?"
-    mc "¿Nos queda alguna barbacoa?"
+    mc "¿Nos queda algo de la parrillada?"
 
 # game/code/e08/e08s05.rpy:787
 translate spanish e08s05_evening_59d35fec:
@@ -1396,7 +1396,7 @@ translate spanish e08s05_evening_d5533217:
 translate spanish e08s05_evening_5df0768d:
 
     # mc "Frank?"
-    mc "¿Franco?"
+    mc "¿Frank?"
 
 # game/code/e08/e08s05.rpy:857
 translate spanish e08s05_evening_77d7a760:
@@ -1510,7 +1510,7 @@ translate spanish e08s05_evening_105aff71:
 translate spanish e08s05_evening_0d394211:
 
     # arj "Ashley, you're such a bad liar."
-    arj "Ashley, eres tan mala mentirosa."
+    arj "Ashley, eres muy mala mintiendo."
 
 # game/code/e08/e08s05.rpy:920
 translate spanish e08s05_evening_7005b34b:
@@ -1582,13 +1582,13 @@ translate spanish e08s05_bedroom_c4cf6351:
 translate spanish e08s05_bedroom_42a3c210:
 
     # ac "I'm losing myself completely to you."
-    ac "Me estoy perdiendo por completo en ti."
+    ac "Me pierdo completamente contigo."
 
 # game/code/e08/e08s05.rpy:1020
 translate spanish e08s05_bedroom_0e74af7f:
 
     # arj "Isn't this what you wanted? To lose your mind? To be driven to orgasm?"
-    arj "¿No es esto lo que querías? ¿Para perder la cabeza? ¿Ser llevada al orgasmo?"
+    arj "¿No es esto lo que querías? ¿Perder la cabeza? ¿Llegar al orgasmo?"
 
 # game/code/e08/e08s05.rpy:1021
 translate spanish e08s05_bedroom_0308ccb4:
@@ -1636,7 +1636,7 @@ translate spanish e08s05_bedroom_dd2b962b:
 translate spanish e08s05_bedroom_fed5d6ca:
 
     # arj "Stop talking already, put your mouths on my tits. Don't move until I say so."
-    arj "Ya dejen de hablar, pongan sus bocas en mis tetas. No te mueves hasta que yo lo diga."
+    arj "Ya dejen de hablar, pongan sus bocas en mis tetas. No te mueves de ahí hasta que yo lo diga."
 
 # game/code/e08/e08s05.rpy:1073
 translate spanish e08s05_bedroom_d6f93f61_1:
@@ -1834,7 +1834,7 @@ translate spanish e08s05_bedroom_ebf559f0:
 translate spanish e08s05_bedroom_da8fd043:
 
     # mc "Fuck. It's so tight in there."
-    mc "Mierda. Está tan apretado allí."
+    mc "Mierda. Está tan apretada allí."
 
 # game/code/e08/e08s05.rpy:1201
 translate spanish e08s05_bedroom_4ef150ff:
@@ -1882,7 +1882,7 @@ translate spanish e08s05_bedroom_b27bec98:
 translate spanish e08s05_bedroom_b3543ca4:
 
     # arj "It was you. You made me into a dick-sucking bitch. I'm a whore for your cock. Cum inside my tight little throat."
-    arj "Fuiste tú. Me convertiste en una zorra chupapollas. Soy una puta para tu polla. Corré dentro de mi pequeña y apretada garganta."
+    arj "Fuiste tú. Me convertiste en una zorra chupapollas. Soy una puta para tu polla. Córrete dentro de mi pequeña y apretada garganta."
 
 # game/code/e08/e08s05.rpy:1224
 translate spanish e08s05_bedroom_b0e54e83:
@@ -2140,7 +2140,7 @@ translate spanish e08s05_ntr_f4a4a9b4:
 translate spanish e08s05_ntr_c0b699fd:
 
     # arj "Just like that, Frank, swirl your tongue around. Don't use your teeth."
-    arj "Solo así, Frank, gira tu lengua alrededor. No uses tus dientes."
+    arj "Justo así, Frank, gira tu lengua. No uses los dientes."
 
 # game/code/e08/e08s05.rpy:1484
 translate spanish e08s05_ntr_e6335de0:
@@ -2194,7 +2194,7 @@ translate spanish e08s05_ntr_30e8eb9a:
 translate spanish e08s05_ntr_49197c4d:
 
     # arj "You're going all the way in without warning me."
-    arj "Vas a entrar sin avisarme."
+    arj "Estás entrando hasta el fondo sin avisarme."
 
 # game/code/e08/e08s05.rpy:1538
 translate spanish e08s05_ntr_b26b2c54:
@@ -2224,7 +2224,7 @@ translate spanish e08s05_ntr_56fecc34:
 translate spanish e08s05_ntr_692c3ef1:
 
     # ac "Frank! You're fucking me too hard. You went in raw, slow down."
-    ac "¡Frank! Me estás follando demasiado fuerte. Entraste crudo, baja la velocidad."
+    ac "¡Frank! Me estás follando demasiado fuerte. Entraste con fuerza, más despacio."
 
 # game/code/e08/e08s05.rpy:1566
 translate spanish e08s05_ntr_67e28175:
@@ -2290,7 +2290,7 @@ translate spanish strings:
 
     # game/code/e08/e08s05.rpy:921
     old "Grab the utensils and leave"
-    new "Agarra los utensilios y vete."
+    new "Recoge los utensilios y vete"
 
     # game/code/e08/e08s05.rpy:1247
     old "Shut the door"

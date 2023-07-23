@@ -172,7 +172,7 @@ translate spanish e08s04_bc1b377d:
 translate spanish e08s04_5f14483c:
 
     # mc "I was just looking for something..."
-    mc "solo estaba buscando algo..."
+    mc "Sólo estaba buscando algo..."
 
 # game/code/e08/e08s04.rpy:129
 translate spanish e08s04_228898dc:
@@ -364,7 +364,7 @@ translate spanish e08s04_bdf3e13d:
 translate spanish e08s04_5d0925df:
 
     # mct "Why else is she talking in old-timey language?"
-    mct "¿Por qué más está hablando en un lenguaje antiguo?"
+    mct "¿Por qué está hablando en un idioma antiguo?"
 
 # game/code/e08/e08s04.rpy:196
 translate spanish e08s04_b3b6f7f8:
@@ -424,7 +424,7 @@ translate spanish e08s04_8aded32b:
 translate spanish e08s04_e241197f:
 
     # hh "No home."
-    hh "Sin casa."
+    hh "No tengo casa."
 
 # game/code/e08/e08s04.rpy:217
 translate spanish e08s04_e0010c89:
@@ -490,7 +490,7 @@ translate spanish e08s04_5c2a3567:
 translate spanish e08s04_d19c35ce:
 
     # hh "It's a couple of miles from here. By the town library."
-    hh "Está a un par de millas de aquí. Por la biblioteca municipal."
+    hh "Está a un par de kilómetros de aquí. Junto a la biblioteca del pueblo."
 
 # game/code/e08/e08s04.rpy:236
 translate spanish e08s04_75dc7ec8:
@@ -916,7 +916,7 @@ translate spanish e08s04_27c9800e:
 translate spanish e08s04_fc12b71a:
 
     # fc "Sure, sure. Go on."
-    fc "Seguro seguro. Adelante."
+    fc "Seguro, seguro. Adelante."
 
 # game/code/e08/e08s04.rpy:398
 translate spanish e08s04_ab67fc00:
@@ -994,7 +994,7 @@ translate spanish e08s04_bathtub_875550b4:
 translate spanish e08s04_bathtub_2e392384:
 
     # arj "What happened to her?"
-    arj "¿Lo que le ocurrió a ella?"
+    arj "¿Qué le ocurrió a ella?"
 
 # game/code/e08/e08s04.rpy:439
 translate spanish e08s04_bathtub_b0d5abf2:
@@ -1150,13 +1150,13 @@ translate spanish e08s04_bathtub_82b192e4:
 translate spanish e08s04_bathtub_a2c35e5c:
 
     # arj "I hope I don't fall."
-    arj "Espero no caer."
+    arj "Espero no caerme."
 
 # game/code/e08/e08s04.rpy:499
 translate spanish e08s04_bathtub_17c6a12b:
 
     # mc "Don't worry, just hold on to the bath."
-    mc "No te preocupes, sujétate a la bañera."
+    mc "No te preocupes, agárrate a la bañera."
 
 # game/code/e08/e08s04.rpy:502
 translate spanish e08s04_bathtub_63fc3fd1:
@@ -1198,7 +1198,7 @@ translate spanish e08s04_bathtub_11455b53:
 translate spanish e08s04_bathtub_d7219c59:
 
     # arj "If I don't fall, or flail around, I guess a middle finger directed at you?"
-    arj "Si no me caigo, ni me agito, ¿supongo que un dedo medio dirigido a ti?"
+    arj "Si no me caigo, ni me tambaleo, ¿supongo que un dedo medio dirigido a ti?"
 
 # game/code/e08/e08s04.rpy:521
 translate spanish e08s04_bathtub_ed8d8168:
@@ -1252,7 +1252,7 @@ translate spanish e08s04_bathtub_b298a16d:
 translate spanish e08s04_bathtub_b2004faf:
 
     # mc "Have we fucked in a bathroom before?"
-    mc "¿Hemos follado en un baño antes?"
+    mc "¿Hemos follado antes en un baño?"
 
 # game/code/e08/e08s04.rpy:573
 translate spanish e08s04_bathtub_faa45fdc:
@@ -1300,13 +1300,13 @@ translate spanish e08s04_bathtub_05b28c87:
 translate spanish e08s04_bathtub_2b75482c:
 
     # arj "I can't help you fucking me so good."
-    arj "No puedo evitar que me folles tan bien."
+    arj "No puedo controlarme cuando me follas tan bien."
 
 # game/code/e08/e08s04.rpy:592
 translate spanish e08s04_bathtub_261f81f1:
 
     # mc "If you have a dunk, will you settle down?"
-    mc "Si tienes un chapuzón, ¿te tranquilizarás?"
+    mc "Si recibes una mojada, ¿te calmarás?"
 
 # game/code/e08/e08s04.rpy:594
 translate spanish e08s04_bathtub_98f22a78:
@@ -1330,7 +1330,7 @@ translate spanish e08s04_bathtub_a57533ab:
 translate spanish e08s04_bathtub_69ddf4d8:
 
     # arj "Let me get another look down there. I think I almost found it."
-    arj "Déjame echar otro vistazo ahí abajo. Creo que casi lo encuentro."
+    arj "Déjame volver a mirar ahí abajo. Creo que casi lo encuentro."
 
 # game/code/e08/e08s04.rpy:621
 translate spanish e08s04_bathtub_11455b53_1:
@@ -1402,13 +1402,13 @@ translate spanish e08s04_bathtub_1eba8318:
 translate spanish e08s04_bathtub_3160286e:
 
     # mc "It's like our honeymoon again."
-    mc "Es como nuestra luna de miel otra vez."
+    mc "Es como si fuera nuestra luna de miel otra vez."
 
 # game/code/e08/e08s04.rpy:685
 translate spanish e08s04_bathtub_d90dd1cd:
 
     # arj "Under the most fucked up situation imaginable, but yeah, just like our honeymoon."
-    arj "Bajo la situación más jodida imaginable, pero sí, como nuestra luna de miel."
+    arj "En la situación más loca imaginable, pero sí, es como nuestra luna de miel."
 
 # game/code/e08/e08s04.rpy:696
 translate spanish e08s04_bathtub_83078e78:
@@ -1420,7 +1420,7 @@ translate spanish e08s04_bathtub_83078e78:
 translate spanish e08s04_bathtub_4bcaa12a:
 
     # arj "I love you back."
-    arj "También te amo."
+    arj "Yo también te amo."
 
 # game/code/e08/e08s04.rpy:706
 translate spanish e08s04_bathtub_50c68e9e:
@@ -1456,13 +1456,13 @@ translate spanish e08s04_bathtub_09b2dab7:
 translate spanish e08s04_bathtub_8b0d467d:
 
     # arj "Is she okay?"
-    arj "¿Se encuentra ella bien?"
+    arj "¿Ella está bien?"
 
 # game/code/e08/e08s04.rpy:733
 translate spanish e08s04_bathtub_02973e5d:
 
     # mc "She's fine. Let's go again."
-    mc "Ella esta bien. Vamos otra vez."
+    mc "Ella está bien. Sigamos."
 
 # game/code/e08/e08s04.rpy:737
 translate spanish e08s04_bathtub_dedc9904:
@@ -1498,7 +1498,7 @@ translate spanish e08s04_next_morning_702bde28:
 translate spanish e08s04_next_morning_138154dc:
 
     # arj "You looked so peaceful."
-    arj "Parecías tan pacífico."
+    arj "Parecías tan tranquilo."
 
 # game/code/e08/e08s04.rpy:786
 translate spanish e08s04_next_morning_681a35ab:
@@ -1558,7 +1558,7 @@ translate spanish e08s04_next_morning_fcf340b6:
 translate spanish e08s04_next_morning_4e6a8397:
 
     # arj "We need to start as soon as possible, and distribute what we have on the farm."
-    arj "Tenemos que empezar cuanto antes, y repartir lo que tenemos en la finca."
+    arj "Tenemos que empezar cuanto antes, y repartir lo que tenemos en la granja."
 
 # game/code/e08/e08s04.rpy:805
 translate spanish e08s04_next_morning_5bc7f88a:
@@ -1618,7 +1618,7 @@ translate spanish e08s04_next_morning_5b263957:
 translate spanish e08s04_next_morning_f330af3f:
 
     # arj "You can get started with the refurnishing."
-    arj "Puedes empezar con el reamueblamiento."
+    arj "Ya puedes empezar con la renovación."
 
 # game/code/e08/e08s04.rpy:820
 translate spanish e08s04_next_morning_576a38a2:
@@ -1846,7 +1846,7 @@ translate spanish e08s04_next_morning_35b94a0f:
 translate spanish e08s04_next_morning_9b2e5382:
 
     # fc "I would throw it out."
-    fc "Yo lo tiraría."
+    fc "Yo la tiraría."
 
 # game/code/e08/e08s04.rpy:915
 translate spanish e08s04_next_morning_379fd5e3:

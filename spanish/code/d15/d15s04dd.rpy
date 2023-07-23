@@ -196,7 +196,7 @@ translate spanish d15s04dd_478b9332:
 translate spanish d15s04dd_a70c5e68:
 
     # dd "...I'm alright. Just thinking about stuff."
-    dd "...Estoy bien. Solo pensando en cosas."
+    dd "...Estoy bien. Sólo pensando en cosas."
 
 # game/code/d15/d15s04dd.rpy:136
 translate spanish d15s04dd_7471de15:
@@ -220,7 +220,7 @@ translate spanish d15s04dd_e124385f:
 translate spanish d15s04dd_e71cf70f:
 
     # dd "It's just...all of this has got me thinking."
-    dd "Es solo que... todo esto me tiene pensando."
+    dd "Es sólo que... todo esto me tiene pensando."
 
 # game/code/d15/d15s04dd.rpy:147
 translate spanish d15s04dd_ecb4d063:
@@ -316,7 +316,7 @@ translate spanish d15s04dd_94c1c874:
 translate spanish d15s04dd_8671a0fc:
 
     # dd "Supply firewood for the town."
-    dd "Suministro de leña para el pueblo."
+    dd "Suministrar leña para el pueblo."
 
 # game/code/d15/d15s04dd.rpy:180
 translate spanish d15s04dd_4434b223:
@@ -340,7 +340,7 @@ translate spanish d15s04dd_be5a0e7f:
 translate spanish d15s04dd_07054d2c:
 
     # dd "{i}Dr.{/i} Bierbottom."
-    dd "{i}Dr.{/i} Bierbottom."
+    dd "{i}Dra.{/i} Bierbottom."
 
 # game/code/d15/d15s04dd.rpy:192
 translate spanish d15s04dd_66a5117a:
@@ -364,7 +364,7 @@ translate spanish d15s04dd_ba8cad00:
 translate spanish d15s04dd_5f4b341e:
 
     # "???" "Are you waiting for Dr. Bier?"
-    "???" "¿Estás esperando al Dr. Bier?"
+    "???" "¿Estás esperando a la Dra. Bier?"
 
 # game/code/d15/d15s04dd.rpy:206
 translate spanish d15s04dd_b6261cce_1:
@@ -376,7 +376,7 @@ translate spanish d15s04dd_b6261cce_1:
 translate spanish d15s04dd_9e7b935b:
 
     # "???" "I'm really sorry, but Dr. Bier has been called in for an emergency."
-    "???" "Lo siento mucho, pero llamaron al Dr. Bier para una emergencia."
+    "???" "Lo siento mucho, pero llamaron a la Dra. Bier para una emergencia."
 
 # game/code/d15/d15s04dd.rpy:212
 translate spanish d15s04dd_f71243ea:
@@ -394,7 +394,7 @@ translate spanish d15s04dd_7ab2d443:
 translate spanish d15s04dd_54376c07:
 
     # mc "\"While\"?"
-    mc "\"¿Mientras\"?"
+    mc "¿Cuanto?"
 
 # game/code/d15/d15s04dd.rpy:221
 translate spanish d15s04dd_e4544547:
@@ -448,7 +448,7 @@ translate spanish d15s04dd_177d3eb2:
 translate spanish d15s04dd_c7cc38b7:
 
     # dd "I wanna see what she has in here. She'll take a bit to come anyway, might as well explore."
-    dd "Quiero ver lo que tiene aquí. Ella tardará un poco en correrse de todos modos, también podría explorar."
+    dd "Quiero ver lo que tiene aquí. Ella tardará un poco en llegar de todos modos, también podría explorar."
 
 # game/code/d15/d15s04dd.rpy:254
 translate spanish d15s04dd_5ca5a903:
@@ -736,7 +736,7 @@ translate spanish d15s04dd_7e31de45:
 translate spanish d15s04dd_c1f26821:
 
     # dd "*Loudly moans* Yes... Your tongue feels so good. Ah! Just like that, God."
-    dd "*Gime fuerte* Sí... Tu lengua se siente tan bien. ¡Ay! Solo así, Dios."
+    dd "*Gime fuerte* Sí... Tu lengua se siente tan bien."
 
 # game/code/d15/d15s04dd.rpy:469
 translate spanish d15s04dd_d4405603:
@@ -838,7 +838,7 @@ translate spanish d15s04dd_1fac3b26:
 translate spanish d15s04dd_93ffcb1f:
 
     # mc "Could you imagine if we had been caught?"
-    mc "¿Te imaginas si nos hubieran pillado?"
+    mc "¿Te imaginas si nos hubiera pillado?"
 
 # game/code/d15/d15s04dd.rpy:573
 translate spanish d15s04dd_2b5e7d40:

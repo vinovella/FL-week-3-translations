@@ -10,7 +10,7 @@ translate spanish d15s05_c7c01bd8:
 translate spanish d15s05_aa039def:
 
     # mc "Not fucking likely today."
-    mc "No es jodidamente probable hoy."
+    mc "No es probable que hoy."
 
 # game/code/d15/d15s05.rpy:71
 translate spanish d15s05_e7de9b88:
@@ -106,7 +106,7 @@ translate spanish d15s05_5b611cff:
 translate spanish d15s05_c3b5b8a5:
 
     # mk "I want you to see that. Not just a photograph. I want you to stand right here and see what you've made me."
-    mk "Quiero que veas eso. No solo una fotografía. Quiero que te pares aquí y veas lo que me has hecho."
+    mk "Quiero que veas eso. No sólo una fotografía. Quiero que te pares aquí y veas en lo que me has convertido."
 
 # game/code/d15/d15s05.rpy:113
 translate spanish d15s05_7b674dc8:
@@ -274,7 +274,7 @@ translate spanish d15s05_help_58f21dfa:
 translate spanish d15s05_help_f9073c10:
 
     # mc "Be a good slave. Don't think - just do what you're told."
-    mc "Sé una buena esclava. No pienses, simplemente haz lo que te digan."
+    mc "Sé una buena esclava. No pienses, haz lo que se te dice."
 
 # game/code/d15/d15s05.rpy:217
 translate spanish d15s05_help_15a04356:
@@ -376,7 +376,7 @@ translate spanish d15s05_bj_e10d3403:
 translate spanish d15s05_bj_1067cb24:
 
     # mk "I'm sure he doesn't want just a handjob."
-    mk "Estoy segura de que no quiere solo una paja."
+    mk "Estoy segura de que no quiere sólo una paja."
 
 # game/code/d15/d15s05.rpy:308
 translate spanish d15s05_bj_390eb713:
@@ -412,7 +412,7 @@ translate spanish d15s05_bj_df794594:
 translate spanish d15s05_bj_b9550761:
 
     # mct "Fuck me. She's really swallowing it all."
-    mct "Jódeme Realmente se lo está tragando todo."
+    mct "Mierda Realmente se lo está tragando todo."
 
 # game/code/d15/d15s05.rpy:359
 translate spanish d15s05_bj_fa8e4c35:
@@ -526,7 +526,7 @@ translate spanish d15s05_pussyfuck_b68fbc18:
 translate spanish d15s05_pussyfuck_ed76d291:
 
     # mc "Get your pussy against that strangers cock and fuck yourself."
-    mc "Pon tu coño contra la polla de ese extraño y fóllate a ti misma"
+    mc "Pon tu coño contra la polla de ese extraño y fóllate a ti misma."
 
 # game/code/d15/d15s05.rpy:416
 translate spanish d15s05_pussyfuck_93a30771:
@@ -718,7 +718,7 @@ translate spanish d15s05_assfuck_d3458aec:
 translate spanish d15s05_assfuck_43d1b4ce:
 
     # mk "Yes, sir!"
-    mk "Sí, señor"
+    mk "¡Sí, señor!"
 
 # game/code/d15/d15s05.rpy:524
 translate spanish d15s05_assfuck_03f7179e:
@@ -886,7 +886,7 @@ translate spanish d15s05_assfuck_850e4776:
 translate spanish d15s05_rimmed_1269dbb7:
 
     # mk "How would you like me to take this one, sir?"
-    mk "¿Cómo quiere que tome esto, señor?"
+    mk "¿Cómo quiere que me encargue de esto, señor?"
 
 # game/code/d15/d15s05.rpy:605
 translate spanish d15s05_rimmed_31f96bb3:
@@ -1012,7 +1012,7 @@ translate spanish d15s05_rimmed_eb977532:
 translate spanish d15s05_rimmed_5a56801e:
 
     # mc "Fuck Yeah!!!"
-    mc "¡Joder, sí!"
+    mc "¡Mierda, sí!"
 
 # game/code/d15/d15s05.rpy:699
 translate spanish d15s05_rimmed_0ab9139f:
@@ -1072,7 +1072,7 @@ translate spanish d15s05_rimmed_7af23117:
 translate spanish d15s05_rimmed_57a64fb3:
 
     # mk "Yes, master. We both did."
-    mk "Si señor. Ambos lo hicimos."
+    mk "Sí, señor. Ambos lo hicimos."
 
 # game/code/d15/d15s05.rpy:729
 translate spanish d15s05_rimmed_b3f40e74:
@@ -1300,7 +1300,7 @@ translate spanish d15s05_end_55310c42:
 translate spanish d15s05_end_5e18549a:
 
     # mk "Just go."
-    mk "Solo vamos."
+    mk "Sólo vete."
 
 # game/code/d15/d15s05.rpy:866
 translate spanish d15s05_end_b617b4d4:
@@ -1330,7 +1330,7 @@ translate spanish d15s05_end_492a452c:
 translate spanish d15s05_end_01791ac7:
 
     # mc "When you get yourself out of here - seek professional help."
-    mc "Cuando salga de aquí, busca ayuda profesional."
+    mc "Cuando salgas de aquí, busca ayuda profesional."
 
 # game/code/d15/d15s05.rpy:877
 translate spanish d15s05_end_3a03bf2f:
@@ -1394,11 +1394,11 @@ translate spanish strings:
 
     # game/code/d15/d15s05.rpy:129
     old "She needs help. I'm getting her out of here"
-    new "Ella necesita ayuda. la voy a sacar de aquí"
+    new "Ella necesita ayuda. La voy a sacar de aquí"
 
     # game/code/d15/d15s05.rpy:129
     old "Alright. I'm happy to watch this"
-    new "Está bien. estoy feliz de ver esto"
+    new "Está bien. Estoy feliz de ver esto"
 
     # game/code/d15/d15s05.rpy:266
     old "Order Maria to:"
@@ -1418,7 +1418,7 @@ translate spanish strings:
 
     # game/code/d15/d15s05.rpy:266
     old "Rim My Ass While Getting Fucked"
-    new "Lame mi culo, mientras me follan"
+    new "Lame mi culo, mientras te follan"
 
     # game/code/d15/d15s05.rpy:266
     old "Wrap this Up"

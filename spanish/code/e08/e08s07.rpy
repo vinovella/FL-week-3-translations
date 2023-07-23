@@ -34,13 +34,13 @@ translate spanish e08s07_625167b0:
 translate spanish e08s07_005ae5fe:
 
     # sy "Haha. Am, you sound so formal. Bring it in."
-    sy "Ja ja. Am, suenas tan formal. Tráelo dentro."
+    sy "Jaja. Am, suenas tan formal. "
 
 # game/code/e08/e08s07.rpy:140
 translate spanish e08s07_2a6383ed:
 
     # sy "Wow. You weren't kidding."
-    sy "Guau. No estabas bromeando."
+    sy "Vaya. No estabas bromeando."
 
 # game/code/e08/e08s07.rpy:146
 translate spanish e08s07_9fc71676:
@@ -136,7 +136,7 @@ translate spanish e08s07_b55420ae:
 translate spanish e08s07_3cebabf7:
 
     # arj "Lou locksmasher?"
-    arj "¿Lou rompecerraduras?"
+    arj "¿Lou Locksmasher?"
 
 # game/code/e08/e08s07.rpy:199
 translate spanish e08s07_4ad3a1ef:
@@ -214,7 +214,7 @@ translate spanish e08s07_garden_42361b6c:
 translate spanish e08s07_garden_b1e364a4:
 
     # sy "Woah. All this stuff really came from you two?"
-    sy "Guau. ¿Todas estas cosas realmente vinieron de ustedes dos?"
+    sy "Vaya. ¿Todas estas cosas realmente vinieron de ustedes dos?"
 
 # game/code/e08/e08s07.rpy:255
 translate spanish e08s07_garden_d63f0872:
@@ -298,7 +298,7 @@ translate spanish e08s07_night_b7daf91a:
 translate spanish e08s07_night_78a1d861:
 
     # mc "Anything for my wife."
-    mc "Cualquier cosa por mi esposa."
+    mc "Cualquier cosa para mi esposa."
 
 # game/code/e08/e08s07.rpy:308
 translate spanish e08s07_night_411fb602:
@@ -358,7 +358,7 @@ translate spanish e08s07_continue_e862464d:
 translate spanish e08s07_continue_4b1bc00b:
 
     # arj "You think... she won't mind me like this."
-    arj "Crees... que no le importará así."
+    arj "Crees... que no le importará que esté así."
 
 # game/code/e08/e08s07.rpy:369
 translate spanish e08s07_continue_7f2899b1:
@@ -424,7 +424,7 @@ translate spanish e08s07_continue_2da24ed0:
 translate spanish e08s07_arj_sy_ea13afa5:
 
     # sy "Someone say my name?"
-    sy "¿Alguien dice mi nombre?"
+    sy "¿Alguien ha dicho mi nombre?"
 
 # game/code/e08/e08s07.rpy:417
 translate spanish e08s07_arj_sy_3b5f5718:
@@ -532,7 +532,7 @@ translate spanish e08s07_arj_sy_cf70ab89:
 translate spanish e08s07_arj_sy_2eea6456:
 
     # sy "That's it. More! Oh I've fucking missed this!"
-    sy "Eso es. ¡Más! ¡Me he perdido esto!"
+    sy "Eso es. ¡Más! ¡He extrañado esto!"
 
 # game/code/e08/e08s07.rpy:588
 translate spanish e08s07_arj_sy_ae8148a1:
@@ -610,7 +610,7 @@ translate spanish e08s07_arj_sy_2a41114d:
 translate spanish e08s07_arj_sy_79fd956d:
 
     # mc "I am gonna cum."
-    mc "Me voy a correr"
+    mc "Me voy a correr."
 
 # game/code/e08/e08s07.rpy:708
 translate spanish e08s07_arj_sy_5024b9be:
@@ -670,7 +670,7 @@ translate spanish e08s07_sy_arj_final_0ee60692:
 translate spanish e08s07_sy_arj_final_4e1104ea:
 
     # sy "Not till you put a dent in this kid's college payments."
-    sy "No hasta que hagas mella en los pagos de la universidad de este chico."
+    sy "No hasta que hagas algo con los pagos de la universidad de este chico."
 
 # game/code/e08/e08s07.rpy:769
 translate spanish e08s07_sy_arj_final_dbadb8b0:
@@ -688,7 +688,7 @@ translate spanish e08s07_sy_arj_final_b30d4804:
 translate spanish e08s07_sy_arj_final_be776b9f:
 
     # arj "I will. But I doubt I'll ever need it."
-    arj "Lo haré. Pero dudo que alguna vez lo necesite."
+    arj "Lo recuerdo. Pero dudo que alguna vez lo necesite."
 
 # game/code/e08/e08s07.rpy:789
 translate spanish e08s07_sy_arj_final_73a795cc:
@@ -898,7 +898,7 @@ translate spanish e08s07_next_day_f703c25c:
 translate spanish e08s07_next_day_8463f679:
 
     # mc "I don't mind. Like you said... we're going to have double the noise of just the two of us soon."
-    mc "No me importa. Como dijiste... pronto tendremos el doble de ruido que nosotros dos solos."
+    mc "No me importa. Como dijiste... pronto tendremos el doble de ruido que si fuéramos solo nosotros dos."
 
 # game/code/e08/e08s07.rpy:1066
 translate spanish e08s07_next_day_b1b8a7cf:

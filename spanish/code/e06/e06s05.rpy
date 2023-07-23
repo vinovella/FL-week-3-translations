@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-26 11:45
+# TODO: Translation updated at 2023-05-26 11:45
 
 # game/code/e06/e06s05.rpy:85
 translate spanish e06s05_2357bc1b:
@@ -46,7 +46,7 @@ translate spanish e06s05_73eb2e38:
 translate spanish e06s05_b9f50c11:
 
     # mct "I wonder if that would've been Samiya?"
-    mct "Me pregunto si ese hubiera sido Samiya."
+    mct "Me pregunto si esa hubiera sido Samiya."
 
 # game/code/e06/e06s05.rpy:112
 translate spanish e06s05_818db14c:
@@ -724,7 +724,7 @@ translate spanish e06s05_mes_cane_960a4094:
 translate spanish e06s05_mes_cane_503096bf:
 
     # mes "Prepare yourself, Daisy. I was just getting warmed up."
-    mes "Prepárate, Daisy. Me estaba calentando."
+    mes "Prepárate, Daisy. Sólo estaba entrando en calor."
 
 # game/code/e06/e06s05.rpy:452
 translate spanish e06s05_mes_cane_e02e584d:
@@ -754,7 +754,7 @@ translate spanish e06s05_mes_cane_51d17fcc:
 translate spanish e06s05_mes_cane_89ee7b89:
 
     # dd "TWO! Thank you, Master!!!"
-    dd "¡DOS! ¡¡¡Gracias maestro!!!"
+    dd "¡DOS! ¡¡¡Gracias, Maestro!!!"
 
 # game/code/e06/e06s05.rpy:469
 translate spanish e06s05_mes_cane_c01f5e0a:
@@ -790,7 +790,7 @@ translate spanish e06s05_mes_cane_25069130:
 translate spanish e06s05_mes_cane_da10a55a:
 
     # dd "FOUR! Thank you, AmRose!!"
-    dd "¡CUATRO! ¡¡Gracias AmRose!!"
+    dd "¡CUATRO! ¡¡Gracias, AmRose!!"
 
 # game/code/e06/e06s05.rpy:490
 translate spanish e06s05_mes_cane_089a6901:
@@ -952,7 +952,7 @@ translate spanish e06s05_mes_pee_0d3d07cd:
 translate spanish e06s05_sy_choice_d17f26f6:
 
     # mc "Alright, Stacy. I know you've had time to think about this and my entire collection of porn to peruse."
-    mc "Muy bien, Stacy. Sé que has tenido tiempo para pensar en esto y toda mi colección de porno para examinar."
+    mc "Muy bien, Stacy. Sé que has tenido tiempo para pensar en esto gracias a toda mi colección de porno."
 
 # game/code/e06/e06s05.rpy:585
 translate spanish e06s05_sy_choice_3871b525:
@@ -1198,7 +1198,7 @@ translate spanish e06s05_sy_puke_73c97e03:
 translate spanish e06s05_sy_puke_cf93456c:
 
     # sy "A woman after my own heart."
-    sy "Una mujer según mi propio corazón."
+    sy "Una mujer especial como yo."
 
 # game/code/e06/e06s05.rpy:703
 translate spanish e06s05_sy_puke_15bf62a0:
@@ -1258,7 +1258,7 @@ translate spanish e06s05_sy_puke_47291874:
 translate spanish e06s05_sy_puke_9c5d479b:
 
     # sy "This is not baked beans or split pea soup."
-    sy "Esto no es frijoles horneados o sopa de guisantes partidos."
+    sy "Esto no son frijoles cocidos ni sopa de garbanzos."
 
 # game/code/e06/e06s05.rpy:749
 translate spanish e06s05_sy_puke_6a5fb38f:
@@ -1330,7 +1330,7 @@ translate spanish e06s05_sy_strapon_25f1c37f:
 translate spanish e06s05_sy_strapon_e3e77bbf:
 
     # sy "Doggy style works for me. I can take her just the way she is."
-    sy "El estilo perrito funciona para mí. Puedo aceptarla tal como es."
+    sy "El estilo perrito funciona para mí. Puedo aceptarla tal como está."
 
 # game/code/e06/e06s05.rpy:789
 translate spanish e06s05_sy_strapon_b7b3c701:
@@ -1408,7 +1408,7 @@ translate spanish e06s05_sy_strapon_831c387a:
 translate spanish e06s05_sy_strapon_de8c9d95:
 
     # dd "What?! No, nothing like that."
-    dd "¡¿Qué?! No nada de eso."
+    dd "¡¿Qué?! No, nada de eso."
 
 # game/code/e06/e06s05.rpy:846
 translate spanish e06s05_sy_strapon_5174e72f:
@@ -1564,7 +1564,7 @@ translate spanish e06s05_sy_strapon_61d008a7:
 translate spanish e06s05_sy_strapon_7ae3f46d:
 
     # sy "Wow."
-    sy "Guau."
+    sy "Vaya."
 
 # game/code/e06/e06s05.rpy:909
 translate spanish e06s05_sy_strapon_e795b69a:
@@ -1732,7 +1732,7 @@ translate spanish e06s05_arj_choice_ab13d5d3:
 translate spanish e06s05_arj_choice_1b1accbe:
 
     # dd "Gun oil! LOTS of Gun oil!"
-    dd "¡Aceite de pistola! ¡MUCHO aceite para armas!"
+    dd "¡Aceite de arma! ¡MUCHO aceite para armas!"
 
 # game/code/e06/e06s05.rpy:976
 translate spanish e06s05_arj_choice_eeb39e8f:
@@ -1858,7 +1858,7 @@ translate spanish e06s05_arj_enema_d7641047:
 translate spanish e06s05_arj_enema_92434a0a:
 
     # dd "FUCK YESSSSSSSS!!!!"
-    dd "¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡"
+    dd "¡¡¡¡MIERDA SIIIIII!!!!"
 
 # game/code/e06/e06s05.rpy:1043
 translate spanish e06s05_arj_enema_856360c3:
@@ -1930,7 +1930,7 @@ translate spanish e06s05_arj_enema_78f2cc0b:
 translate spanish e06s05_arj_enema_06d45c6a:
 
     # arj "Not much longer now."
-    arj "No mucho más ahora."
+    arj "Ya no falta mucho."
 
 # game/code/e06/e06s05.rpy:1070
 translate spanish e06s05_arj_enema_a9bc6ec2:
@@ -2050,7 +2050,7 @@ translate spanish e06s05_arj_enema_7c14008a:
 translate spanish e06s05_arj_enema_cc3a9d55:
 
     # mc "Wow. This is really intense."
-    mc "Guau. Esto es realmente intenso."
+    mc "Vaya. Esto es realmente intenso."
 
 # game/code/e06/e06s05.rpy:1114
 translate spanish e06s05_arj_enema_7cf8890a:
@@ -2110,7 +2110,7 @@ translate spanish e06s05_arj_enema_cfc45a15:
 translate spanish e06s05_arj_enema_1e7cd951:
 
     # dd "Like a flaming drunk orgasm that wouldn't stop."
-    dd "Como un ardiente orgasmo borracho que no se detendría."
+    dd "Como un ardiente orgasmo borracho que no se detiene."
 
 # game/code/e06/e06s05.rpy:1151
 translate spanish e06s05_arj_enema_fbb696ac:
@@ -2230,7 +2230,7 @@ translate spanish e06s05_arj_fisting_91591f4b:
 translate spanish e06s05_arj_fisting_c9003aec:
 
     # dd "I haven't had anything back there in about a year, though. So it might be kinda tight."
-    dd "Sin embargo, no he tenido nada allí en aproximadamente un año. Así que podría ser un poco apretado."
+    dd "Sin embargo, no he tenido nada allí en aproximadamente un año. Así que podría estar un poco apretado."
 
 # game/code/e06/e06s05.rpy:1205
 translate spanish e06s05_arj_fisting_2a664dcc:
@@ -2254,7 +2254,7 @@ translate spanish e06s05_arj_fisting_2b35b6fe:
 translate spanish e06s05_arj_fisting_22d02f76:
 
     # arj "Moving on."
-    arj "Hacia adelante."
+    arj "Sigamos adelante."
 
 # game/code/e06/e06s05.rpy:1215
 translate spanish e06s05_arj_fisting_eb11fc1e:
@@ -2398,7 +2398,7 @@ translate spanish e06s05_arj_fisting_3190be1f:
 translate spanish e06s05_arj_fisting_e1589b55:
 
     # dd "I mean FASTER if you climbed Mount Fuji HARDER wouldn't your parents be proud of you?"
-    dd "Si escalaras el monte Fuji, no...MÁS RÁPIDO, ¿no estarían tus padres orgullosos de ti?"
+    dd "Si escalaras el monte Fuji con MAYOR VELOCIDAD, ¿tus padres no estarían orgullosos de ti?"
 
 # game/code/e06/e06s05.rpy:1307
 translate spanish e06s05_arj_fisting_ce3fe6dc:
@@ -2422,7 +2422,7 @@ translate spanish e06s05_arj_fisting_91fa10d4:
 translate spanish e06s05_arj_fisting_101a5ad8:
 
     # mct "Wow. That was intense."
-    mct "Guau. Eso fue intenso."
+    mct "Vaya. Eso fue intenso."
 
 # game/code/e06/e06s05.rpy:1322
 translate spanish e06s05_arj_fisting_450982b2:
@@ -2554,7 +2554,7 @@ translate spanish e06s05_dd_bound_0a707361:
 translate spanish e06s05_dd_bound_380a2181:
 
     # sy "Perfect. Meanwhile, the rest of us will amuse ourselves by humiliating her."
-    sy "Perfecto. Mientras tanto, los demás nos divertiremos humillándola."
+    sy "Perfecto. Mientras tanto, las demás nos divertiremos humillándola."
 
 # game/code/e06/e06s05.rpy:1378
 translate spanish e06s05_dd_bound_c26bc3b5:
@@ -2734,7 +2734,7 @@ translate spanish e06s05_dd_bound_baa995f7:
 translate spanish e06s05_dd_bound_2f4871b0:
 
     # mct "Perfect ass. Fucking amazing asshole."
-    mct "Culo perfecto. Jodido imbécil increíble."
+    mct "Culo perfecto. Un culo increíble."
 
 # game/code/e06/e06s05.rpy:1496
 translate spanish e06s05_dd_bound_7c6c2a31:
@@ -3202,7 +3202,7 @@ translate spanish e06s05_dd_after_d35397bc:
 translate spanish e06s05_dd_after_64a8faa0:
 
     # mc "Lydia would like to ask you a very serious question."
-    mc "Lydia quisiera hacerte una pregunta muy seria."
+    mc "Lydia quiere hacerte una pregunta muy seria."
 
 # game/code/e06/e06s05.rpy:1734
 translate spanish e06s05_dd_after_c7990459:
@@ -3268,7 +3268,7 @@ translate spanish e06s05_dd_after_e804f2a6:
 translate spanish e06s05_dd_after_09e6c937:
 
     # dd "Sure, why not?"
-    dd "Seguro ¿por qué no?"
+    dd "Seguro, ¿por qué no?"
 
 # game/code/e06/e06s05.rpy:1758
 translate spanish e06s05_dd_after_8abe5d78:
@@ -3310,7 +3310,7 @@ translate spanish e06s05_dd_after_dd896589:
 translate spanish e06s05_dd_after_995cf3f3:
 
     # dd "It's just that I've got a juice box and sandwich waiting for me. I could really use the energy."
-    dd "Es solo que tengo una caja de jugo y un sándwich esperándome. Realmente podría usar la energía."
+    dd "Es que tengo una caja de zumo y un sándwich esperándome. Me vendría muy bien recuperar algo de energía."
 
 # game/code/e06/e06s05.rpy:1776
 translate spanish e06s05_dd_after_a80497a2:
@@ -3352,7 +3352,7 @@ translate spanish e06s05_dd_after_925d74b4:
 translate spanish e06s05_dd_after_68f70750:
 
     # mc "I promise. Everything but."
-    mc "Lo prometo... Todo...menos."
+    mc "Lo prometo. Todo menos eso."
 
 # game/code/e06/e06s05.rpy:1792
 translate spanish e06s05_dd_after_a77c1490:

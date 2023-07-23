@@ -94,7 +94,7 @@ translate spanish d16s01_47876170:
 translate spanish d16s01_0f2e2912:
 
     # sy "Working title: {b}Fetish-Locator-Locator-Inator™{/b}."
-    sy "Título provisional: {b}Localizador-de-Fetiche-Inador™{/b}."
+    sy "Título provisional: {b}Localizador-de-Fetiches-Inador™{/b}."
 
 # game/code/d16/d16s01.rpy:119
 translate spanish d16s01_ce907ec8:
@@ -124,7 +124,7 @@ translate spanish d16s01_b6fc2dde:
 translate spanish d16s01_ddc04b62:
 
     # sy "With only a 36.72%% chance of blowing up in your face!"
-    sy "Con solo un 36,72%% de posibilidades de explotarte en la cara!"
+    sy "Con sólo un 36,72%% de posibilidades de explotarte en la cara!"
 
 # game/code/d16/d16s01.rpy:136
 translate spanish d16s01_e4546705:
@@ -142,13 +142,13 @@ translate spanish d16s01_d81db1dc:
 translate spanish d16s01_f9b6f25d:
 
     # mc "Maybe we can even make these on a commercial scale after we take care of Fetish Locator."
-    mc "Tal vez incluso podamos hacerlos a escala comercial después de que nos ocupemos del Localizador de Fetiche."
+    mc "Tal vez incluso podamos hacerlos a escala comercial después de que nos ocupemos del Localizador de Fetiches."
 
 # game/code/d16/d16s01.rpy:145
 translate spanish d16s01_132b1d8b:
 
     # arj "Hm... Maybe, but that's only one half of the puzzle."
-    arj "Hm... Tal vez, pero eso es solo la mitad del rompecabezas."
+    arj "Hm... Tal vez, pero eso es sólo la mitad del rompecabezas."
 
 # game/code/d16/d16s01.rpy:151
 translate spanish d16s01_fb49e021:
@@ -166,7 +166,7 @@ translate spanish d16s01_b2e194ca:
 translate spanish d16s01_a01d0df1:
 
     # sy "This baby will allow the Fetish-Locator-Locator-Inator™ to masquerade as a legitimate network."
-    sy "Este bebé permitirá que el Localizador-de-Fetiche-Inador™ se haga pasar por una red legítima."
+    sy "Este bebé permitirá que el Localizador-de-Fetiches-Inador™ se haga pasar por una red legítima."
 
 # game/code/d16/d16s01.rpy:158
 translate spanish d16s01_aa80ef70:
@@ -202,31 +202,31 @@ translate spanish d16s01_04ba50c3:
 translate spanish d16s01_5bb29158:
 
     # sy "I connected your phone to the Fetish-Locator-Locator-Inator™ network."
-    sy "Conecté tú teléfono a la red del Localizador-de-Fetiche-Inador™."
+    sy "Conecté tú teléfono a la red del Localizador-de-Fetiches-Inador™."
 
 # game/code/d16/d16s01.rpy:177
 translate spanish d16s01_d53b0e53:
 
     # sy "Basically, Fetish-Locator-Locator-Inator™ allows you to use and connect to the internet, but all traffic that you send and receive gets logged into it."
-    sy "Básicamente, el Localizador-de-Fetiche-Inador™ le permite usar y conectarse a Internet, pero todo el tráfico que envía y recibe se registra en él."
+    sy "Básicamente, el Localizador-de-Fetiches-Inador™ te permite usar y conectarte a Internet, pero todo el tráfico que envía y recibe se registra en él."
 
 # game/code/d16/d16s01.rpy:179
 translate spanish d16s01_0b0f857f:
 
     # sy "Meaning that when Fetish Locator sends anything to you or receives anything from you, the Fetish-Locator-Locator-Inator™ secretly writes all that info down."
-    sy "Lo que significa que cuando el Localizador de Fetiche te envía algo o recibe algo de ti, el Localizador-de-Fetiche-Inador™ escribe en secreto toda esa información."
+    sy "Lo que significa que cuando el Localizador de Fetiches te envía algo o recibe algo de ti, el Localizador-de-Fetiches-Inador™ escribe en secreto toda esa información."
 
 # game/code/d16/d16s01.rpy:180
 translate spanish d16s01_34351075:
 
     # sy "And Fetish Locator is none-the-wiser because, from its perspective, it's just a normal network. Nothing weird going on here."
-    sy "Y el Localizador de Fetiche no se da cuenta, porque, desde su perspectiva, es solo una red normal. Aquí no pasa nada raro."
+    sy "Y el Localizador de Fetiches no se da cuenta, porque, desde su perspectiva, es solo una red normal. Aquí no pasa nada raro."
 
 # game/code/d16/d16s01.rpy:183
 translate spanish d16s01_a2a49102:
 
     # mc "That's great. So all I have to do is just connect to Fetish Locator and we'll get its location?"
-    mc "Genial. Entonces, todo lo que tengo que hacer es conectarme al Localizador de Fetiche y obtendremos su ubicación."
+    mc "Genial. Entonces, todo lo que tengo que hacer es conectarme al Localizador de Fetiches y obtendremos su ubicación."
 
 # game/code/d16/d16s01.rpy:186
 translate spanish d16s01_6517cb86:
@@ -250,7 +250,7 @@ translate spanish d16s01_b2b9e19d:
 translate spanish d16s01_eb6db404:
 
     # arj "All of Fetish Locator's network packets are encrypted."
-    arj "Todos los paquetes de red del Localizador de Fetiche están encriptados."
+    arj "Todos los paquetes de red del Localizador de Fetiches están encriptados."
 
 # game/code/d16/d16s01.rpy:198
 translate spanish d16s01_ad09b856:
@@ -298,7 +298,7 @@ translate spanish d16s01_e4faede9:
 translate spanish d16s01_b1ae83f7:
 
     # sy "Basically, along with logging all incoming and outgoing data from Fetish Locator, Fetish-Locator-Locator-Inator™ also tries to decrypt the data."
-    sy "Básicamente, además de registrar todos los datos entrantes y salientes del Localizador de Fetiche, el Localizador-de-Fetiche-Inador™ también intenta descifrar los datos."
+    sy "Básicamente, además de registrar todos los datos entrantes y salientes del Localizador de Fetiches, el Localizador-de-Fetiches-Inador™ también intenta descifrar los datos."
 
 # game/code/d16/d16s01.rpy:217
 translate spanish d16s01_1951407e:
@@ -316,7 +316,7 @@ translate spanish d16s01_b2b9e19d_1:
 translate spanish d16s01_3a0819eb:
 
     # arj "What she's saying is that we need a lot of data from Fetish Locator and an unknown amount of time to crack the encryption."
-    arj "Lo que dice es que necesitamos una gran cantidad de datos del Localizador de Fetiche y una cantidad desconocida de tiempo para descifrar el cifrado."
+    arj "Lo que dice es que necesitamos una gran cantidad de datos del Localizador de Fetiches y una cantidad desconocida de tiempo para descifrar el cifrado."
 
 # game/code/d16/d16s01.rpy:226
 translate spanish d16s01_25fb8ea8:
@@ -334,7 +334,7 @@ translate spanish d16s01_cf05969f:
 translate spanish d16s01_3bc70fb6:
 
     # sy "It could work the moment you open FL, it could take months..."
-    sy "Podría funcionar en el momento en que abra FL, podría llevar meses..."
+    sy "Podría funcionar en cuanto abres la aplicación, o podría tardar meses..."
 
 # game/code/d16/d16s01.rpy:233
 translate spanish d16s01_f4487708:
@@ -400,7 +400,7 @@ translate spanish d16s01_42ddb90f:
 translate spanish d16s01_0733307d:
 
     # arj "So, complete challenges, buy stuff, and just interact with Fetish Locator as much as you can I suppose."
-    arj "Entonces, completa desafíos, compre cosas e interactúe con el Localizador de Fetiche tanto como pueda, supongo."
+    arj "Entonces, completa desafíos, compre cosas e interactúe con el Localizador de Fetiches tanto como pueda, supongo."
 
 # game/code/d16/d16s01.rpy:254
 translate spanish d16s01_4898b166:
@@ -436,7 +436,7 @@ translate spanish d16s01_05da6f3d:
 translate spanish d16s01_577fe339:
 
     # arj "Yeah. So we can just have that running in the background and try to figure out if we have any other options when it comes to Fetish Locator as well."
-    arj "Sí. Entonces podemos hacer que se ejecute en segundo plano e intentar averiguar si tenemos otras opciones cuando se trata del Localizador de Fetiche."
+    arj "Sí. Entonces podemos hacer que se ejecute en segundo plano e intentar averiguar si tenemos otras opciones cuando se trata del Localizador de Fetiches."
 
 # game/code/d16/d16s01.rpy:271
 translate spanish d16s01_643eeddb:
@@ -460,7 +460,7 @@ translate spanish d16s01_fdf97050:
 translate spanish d16s01_824c8852:
 
     # mc "Right, fuck. Me too."
-    mc "Bien, joder. Yo también."
+    mc "Bien, mierda. Yo también."
 
 # game/code/d16/d16s01.rpy:281
 translate spanish d16s01_3b88d080:

@@ -52,7 +52,7 @@ translate spanish d16s03_adc54c73:
 translate spanish d16s03_f766ab9a:
 
     # mc "Oh, that would be AmRose."
-    mc "Oh, eso sería AmRose"
+    mc "Oh, eso sería AmRose."
 
 # game/code/d16/d16s03.rpy:61
 translate spanish d16s03_822cfe95:
@@ -118,7 +118,7 @@ translate spanish d16s03_a36a846c:
 translate spanish d16s03_fe0a659d:
 
     # mc "Sounds like it."
-    mc "Suena como eso."
+    mc "Eso parece."
 
 # game/code/d16/d16s03.rpy:99
 translate spanish d16s03_5bcf7558:
@@ -148,7 +148,7 @@ translate spanish d16s03_2c1aa826:
 translate spanish d16s03_20a5ea30:
 
     # mc "Oh, yeah. Um, my phone kinda died. I didn't get it working again until this morning."
-    mc "Oh sí. Um, mi teléfono murió un poco. No conseguí que funcionara de nuevo hasta esta mañana."
+    mc "Ah, sí. Um, mi teléfono se apagó de repente. No conseguí hacerlo funcionar de nuevo hasta esta mañana."
 
 # game/code/d16/d16s03.rpy:112
 translate spanish d16s03_e1112ded:
@@ -160,7 +160,7 @@ translate spanish d16s03_e1112ded:
 translate spanish d16s03_c7d2d035:
 
     # arj "He's just trying to spare you the details. It didn't die, we were just visiting someplace that... couldn't get a signal."
-    arj "Solo está tratando de ahorrarte los detalles. No murió, solo estábamos visitando un lugar que... no podía tener señal."
+    arj "Sólo está tratando de ahorrarte los detalles. No murió, solo estábamos visitando un lugar que... no podía tener señal."
 
 # game/code/d16/d16s03.rpy:118
 translate spanish d16s03_e1d634c8:
@@ -262,13 +262,13 @@ translate spanish d16s03_43e48744:
 translate spanish d16s03_e9cd54a1:
 
     # lc "... without actually penetrating each other. Yeah!"
-    lc "... sin llegar a penetrarse mutuamente. ¡Sí!"
+    lc "... sin llegar a la penetración mutua. ¡Sí!"
 
 # game/code/d16/d16s03.rpy:163
 translate spanish d16s03_afe502c0:
 
     # arj "I get it. I guess I'll leave you two alone."
-    arj "Lo entiendo. Supongo que los dejaré solos a los dos."
+    arj "Entiendo. Supongo que los dejaré solos."
 
 # game/code/d16/d16s03.rpy:166
 translate spanish d16s03_f7c34af6:
@@ -310,7 +310,7 @@ translate spanish d16s03_822cfe95_1:
 translate spanish d16s03_5e03b73a:
 
     # mc "It's just that it's finals week. I've been trying to study as much as possible."
-    mc "Es solo que es la semana de exámenes finales. He estado tratando de estudiar tanto como sea posible."
+    mc "Es que es la semana de los exámenes finales. He estado intentando estudiar todo lo posible."
 
 # game/code/d16/d16s03.rpy:191
 translate spanish d16s03_8c780723:
@@ -328,7 +328,7 @@ translate spanish d16s03_f6f2d44a:
 translate spanish d16s03_0e8bad83:
 
     # lc "You're right. When you get that one off I can buy you a new one, and I can keep the key to it."
-    lc "Tienes razón. Cuando te quites ese puedo comprarte uno nuevo, y puedo quedarme con la llave del mismo."
+    lc "Tienes razón. Cuando te quites eso puedo comprarte uno nuevo, y puedo quedarme con la llave."
 
 # game/code/d16/d16s03.rpy:198
 translate spanish d16s03_11455b53_1:
@@ -340,7 +340,7 @@ translate spanish d16s03_11455b53_1:
 translate spanish d16s03_e456e7ea:
 
     # lc "Only while we're having sex, you know? You wouldn't have to wear it all day or anything like that."
-    lc "Solo mientras tenemos sexo, ¿sabes? No tendrías que usarlo todo el día ni nada por el estilo."
+    lc "Sólo mientras tenemos sexo, ¿sabes? No tendrías que usarlo todo el día ni nada por el estilo."
 
 # game/code/d16/d16s03.rpy:204
 translate spanish d16s03_ed62ac63:
@@ -370,7 +370,7 @@ translate spanish d16s03_249f9f3c_1:
 translate spanish d16s03_8694b4aa:
 
     # mc "Actually, I have an idea."
-    mc "En realidad, tengo una idea."
+    mc "De hecho, tengo una idea."
 
 # game/code/d16/d16s03.rpy:228
 translate spanish d16s03_f85dfd95:
@@ -460,13 +460,13 @@ translate spanish d16s03_1cde13d9:
 translate spanish d16s03_60e03e9a:
 
     # lc "I'll try not to keep him too long."
-    lc "Trataré de no retenerlo demasiado tiempo.."
+    lc "Trataré de no retenerlo demasiado tiempo."
 
 # game/code/d16/d16s03.rpy:275
 translate spanish d16s03_5be769da:
 
     # arj "Okay. Just remember that it is finals week."
-    arj "Bueno. Solo recuerda que es la semana de exámenes finales."
+    arj "De acuerdo. Sólo recuerda que es la semana de los exámenes finales."
 
 # game/code/d16/d16s03.rpy:277
 translate spanish d16s03_c8d89466:
@@ -646,7 +646,7 @@ translate spanish d16s03_f160b298:
 translate spanish d16s03_0dd93717:
 
     # mc "Why's that?"
-    mc "¿Porqué eso?"
+    mc "¿Por qué?"
 
 # game/code/d16/d16s03.rpy:373
 translate spanish d16s03_5c6ca4b0:
@@ -664,7 +664,7 @@ translate spanish d16s03_f6e20cf7:
 translate spanish d16s03_d5456edc:
 
     # lc "I would do anything for just another look, another touch, another taste of your cock."
-    lc "Haría cualquier cosa por solo otra mirada, otro toque, otro sabor de tu polla."
+    lc "Haría cualquier cosa por otra mirada, otra caricia, otro sabor de tu polla."
 
 # game/code/d16/d16s03.rpy:380
 translate spanish d16s03_54d3849a:
@@ -1018,7 +1018,7 @@ translate spanish d16s03_6dda13c8:
 translate spanish d16s03_089e98e4:
 
     # lc "So... it's just us."
-    lc "Así que... solo somos nosotros."
+    lc "Así que... sólo somos nosotros."
 
 # game/code/d16/d16s03.rpy:570
 translate spanish d16s03_232cec5b:
@@ -1030,7 +1030,7 @@ translate spanish d16s03_232cec5b:
 translate spanish d16s03_8f567fd6:
 
     # mc "Give me just a second."
-    mc "Dame solo un segundo."
+    mc "Dame sólo un segundo."
 
 # game/code/d16/d16s03.rpy:584
 translate spanish d16s03_4c657375:
@@ -1060,7 +1060,7 @@ translate spanish d16s03_d646052f:
 translate spanish d16s03_027f3d2f:
 
     # mc "So, it's just us. Together. Naked except for the penis cage."
-    mc "Entonces, solo somos nosotros. Juntos. Desnudo excepto por la jaula del pene."
+    mc "Entonces, sólo somos nosotros. Juntos. Desnudo excepto por la jaula del pene."
 
 # game/code/d16/d16s03.rpy:597
 translate spanish d16s03_61abdaf2:
@@ -1090,7 +1090,7 @@ translate spanish d16s03_40cc0508:
 translate spanish d16s03_f6ae41a8:
 
     # lc "I can only tell you if you agree to do it someday... if it is even possible."
-    lc "Solo puedo decirte si aceptas hacerlo algún día... si es posible."
+    lc "Sólo puedo decirte si aceptas hacerlo algún día... si es posible."
 
 # game/code/d16/d16s03.rpy:610
 translate spanish d16s03_16b352d9:
@@ -1138,7 +1138,7 @@ translate spanish d16s03_30b7c9d3:
 translate spanish d16s03_9499e10d:
 
     # lc "I want to jerk your erection to completion."
-    lc "Quiero sacudir tu erección hasta completarla."
+    lc "Quiero masturbar tu erección hasta el orgasmo."
 
 # game/code/d16/d16s03.rpy:655
 translate spanish d16s03_2689b56d:
@@ -1150,7 +1150,7 @@ translate spanish d16s03_2689b56d:
 translate spanish d16s03_d3db5e46:
 
     # lc "No, that's not it. {w}I'm just struggling to say the other part."
-    lc "No eso no es. {w}Solo me cuesta decir la otra parte."
+    lc "No, no es eso. {w}Me cuesta decir la otra parte."
 
 # game/code/d16/d16s03.rpy:661
 translate spanish d16s03_63badd04:
@@ -1168,7 +1168,7 @@ translate spanish d16s03_8674f8a4:
 translate spanish d16s03_a6b4be57:
 
     # mc "Analingus? Like a rimjob?"
-    mc "¿Analingus? ¿Como un rimjob?"
+    mc "¿Analingus? ¿Cómo un beso negro?"
 
 # game/code/d16/d16s03.rpy:671
 translate spanish d16s03_4d4b7f36:
@@ -1276,7 +1276,7 @@ translate spanish d16s03_971479e3:
 translate spanish d16s03_708c6770:
 
     # mc "Anyway, yes. I've seen it."
-    mc "De todos modos, sí. La he visto."
+    mc "De todos modos. Sí, la he visto."
 
 # game/code/d16/d16s03.rpy:726
 translate spanish d16s03_e0621bd5:
@@ -1306,7 +1306,7 @@ translate spanish d16s03_5e0d547b:
 translate spanish d16s03_cd0d1f18:
 
     # lc "To be surrounded by cocks. In my pussy. In my ass. In my mouth."
-    lc "Estar rodeada de pollas. en mi coño en mi culo En mi boca."
+    lc "Estar rodeada de pollas. En mi coño. En mi culo. En mi boca."
 
 # game/code/d16/d16s03.rpy:739
 translate spanish d16s03_864025cf:
@@ -1342,7 +1342,7 @@ translate spanish d16s03_12ffc00c:
 translate spanish d16s03_2d53a33d:
 
     # lc "I don't know. {w}Like you said, it's just a fantasy."
-    lc "No sé. {w}Como dijiste, es solo una fantasía."
+    lc "No sé. {w}Como dijiste, es sólo una fantasía."
 
 # game/code/d16/d16s03.rpy:756
 translate spanish d16s03_59855731:
@@ -1528,7 +1528,7 @@ translate spanish d16s03_8fdf3012:
 translate spanish d16s03_a522e76d:
 
     # mc "It's not a window to my subconscious. It's just a guy who's watched too much porn."
-    mc "No es una ventana a mi subconsciente. Es solo un tipo que ha visto demasiada pornografía."
+    mc "No es una ventana a mi subconsciente. Es sólo un tipo que ha visto demasiada pornografía."
 
 # game/code/d16/d16s03.rpy:847
 translate spanish d16s03_9fc4da3f:
@@ -1732,7 +1732,7 @@ translate spanish d16s03_ba36729f:
 translate spanish d16s03_aa2b4bed:
 
     # mc "Well, it's not anything dangerous or violent... it's just a power fantasy."
-    mc "Bueno, no es nada peligroso o violento... es solo una fantasía de poder."
+    mc "Bueno, no es nada peligroso o violento... es sólo una fantasía de poder."
 
 # game/code/d16/d16s03.rpy:962
 translate spanish d16s03_53755e5c:
@@ -1786,7 +1786,7 @@ translate spanish d16s03_34e0f22a:
 translate spanish d16s03_8ec9451e:
 
     # lc "Wow... {w}Fuck me."
-    lc "Guau... {w}Fóllame."
+    lc "Vaya... {w}Fóllame."
 
 # game/code/d16/d16s03.rpy:989
 translate spanish d16s03_8d734f23:
@@ -1816,7 +1816,7 @@ translate spanish d16s03_97bd2ba9:
 translate spanish d16s03_5188117d:
 
     # mc "Don't worry. We don't ever need to do that. It's just a fantasy."
-    mc "No te preocupes. Nunca necesitamos hacer eso. Es solo una fantasía."
+    mc "No te preocupes. Nunca necesitamos hacer eso. Es sólo una fantasía."
 
 # game/code/d16/d16s03.rpy:1003
 translate spanish d16s03_70aef97a:
@@ -1882,7 +1882,7 @@ translate spanish d16s03_2f72e945:
 translate spanish d16s03_c0052b5c_1:
 
     # mc "Okay, okay."
-    mc "Bien, bien"
+    mc "Bien, bien."
 
 # game/code/d16/d16s03.rpy:1038
 translate spanish d16s03_7dd30273:
@@ -1912,7 +1912,7 @@ translate spanish d16s03_64a1d505:
 translate spanish d16s03_f85dfd95_3:
 
     # lc "What's that?"
-    lc "¿Qué es eso?"
+    lc "¿Qué?"
 
 # game/code/d16/d16s03.rpy:1058
 translate spanish d16s03_99058afd:
@@ -1980,7 +1980,7 @@ translate spanish strings:
 
     # game/code/d16/d16s03.rpy:881
     old "Want to Fuck Lydia's Ass"
-    new "Quiero Follar El Culo De Lydia"
+    new "Quiero Follar El Culo de Lydia"
 
     # game/code/d16/d16s03.rpy:881
     old "Want to Piss on & in Lydia"

@@ -22,7 +22,7 @@ translate spanish e08s03_cdcec51a:
 translate spanish e08s03_f1a92672:
 
     # mc "Most of it. I still have to clear the fly traps, I'll do that tomorrow."
-    mc "La mayor parte. Todavía tengo que limpiar las trampas para moscas, lo haré mañana."
+    mc "La mayor parte. Todavía tengo que limpiar las trampas para moscas, pero lo haré mañana."
 
 # game/code/e08/e08s03.rpy:49
 translate spanish e08s03_d4efe022:
@@ -40,7 +40,7 @@ translate spanish e08s03_9183fb55:
 translate spanish e08s03_a83320f8:
 
     # mc "It's because we can't ever decide what to watch, so I turn on a nature documentary, and we watch it for twenty minutes before passing out."
-    mc "Es porque nunca podemos decidir qué ver, así que pongo un documental sobre la naturaleza y lo vemos durante veinte minutos antes de desmayarnos."
+    mc "Es porque nunca podemos decidir qué ver, así que pongo un documental sobre la naturaleza y lo vemos durante veinte minutos antes de quedarnos dormidos."
 
 # game/code/e08/e08s03.rpy:57
 translate spanish e08s03_f37f3b18:
@@ -148,7 +148,7 @@ translate spanish e08s03_255e5400:
 translate spanish e08s03_44203bbe:
 
     # arj "How severe is the storm, does it say?"
-    arj "¿Qué tan severa es la tormenta, dice?"
+    arj "¿Dice que tan fuerte es la tormenta?"
 
 # game/code/e08/e08s03.rpy:110
 translate spanish e08s03_c7269adc:
@@ -220,7 +220,7 @@ translate spanish e08s03_0a06672c:
 translate spanish e08s03_9079e505:
 
     # mct "Maybe not the best thing to say when someone tells you they're terrified..."
-    mct "Tal vez no sea lo mejor que puedes decir cuando alguien te dice que está aterrorizado..."
+    mct "Tal vez no sea lo mejor para decir cuando alguien te dice que está asustado..."
 
 # game/code/e08/e08s03.rpy:153
 translate spanish e08s03_1e2e2b06:
@@ -244,7 +244,7 @@ translate spanish e08s03_5e2b3f7d:
 translate spanish e08s03_3056a935:
 
     # mc "Thankfully we prepared for this. Little emergency kit with a water, flashlight, batteries, and energy bars."
-    mc "Afortunadamente nos preparamos para esto. Pequeño botiquín de emergencia con agua, linterna, pilas y barritas energéticas."
+    mc "Afortunadamente, nos preparamos para ello. Un pequeño kit de emergencia con agua, linterna, pilas y barritas energéticas."
 
 # game/code/e08/e08s03.rpy:160
 translate spanish e08s03_b60d835f:
@@ -316,7 +316,7 @@ translate spanish e08s03_e591de0d:
 translate spanish e08s03_4ea3480d:
 
     # mc "Like in a row?"
-    mc "¿Como en una fila?"
+    mc "¿Algo así como unos días?"
 
 # game/code/e08/e08s03.rpy:194
 translate spanish e08s03_9b4cd288:
@@ -328,7 +328,7 @@ translate spanish e08s03_9b4cd288:
 translate spanish e08s03_74c5243e:
 
     # mc "I try and do it every day, but sometimes it doesn't work out. Exegient circumstances."
-    mc "Intento hacerlo todos los días, pero a veces no funciona. Exigentes circunstancias."
+    mc "Intento hacerlo todos los días, pero a veces no funciona. Circunstancias externas."
 
 # game/code/e08/e08s03.rpy:198
 translate spanish e08s03_f5e2f764:
@@ -352,7 +352,7 @@ translate spanish e08s03_d1b4a935:
 translate spanish e08s03_f7a3a3a2:
 
     # mc "I don't know. It's too hot and steamy. I just want to wash up."
-    mc "No sé. Hace demasiado calor y vapor. Sólo quiero lavarme."
+    mc "No sé. Hay demasiado calor y vapor. Sólo quiero lavarme."
 
 # game/code/e08/e08s03.rpy:209
 translate spanish e08s03_12bf4709:
@@ -388,7 +388,7 @@ translate spanish e08s03_6a88b0f0:
 translate spanish e08s03_da282013:
 
     # mc "Yeah, but you do that all the time, apparently. If I do it once in a while, fine, but spend too much time alone, you start blending into the environment, you know what I mean?"
-    mc "Sí, pero haces eso todo el tiempo, aparentemente. Si lo hago de vez en cuando, bien, pero paso demasiado tiempo solo, empiezas a mezclarte con el entorno, ¿sabes a lo que me refiero?"
+    mc "Sí, pero lo haces todo el tiempo, aparentemente. Si lo hago de vez en cuando, bien, pero pasar demasiado tiempo solo, empiezas a mimetizarte con el entorno, ¿me entiendes?"
 
 # game/code/e08/e08s03.rpy:220
 translate spanish e08s03_0ae3098d:
@@ -418,7 +418,7 @@ translate spanish e08s03_32adb0af:
 translate spanish e08s03_254e1a76:
 
     # mc "Yeah, that's the thing that worries me. Structurally it should be fine, this is a relatively new barn, it's not like those ones that aren't maintained."
-    mc "Sí, eso es lo que me preocupa. Estructuralmente debería estar bien, este es un granero relativamente nuevo, no es como los que no se mantienen."
+    mc "Sí, eso es lo que me preocupa. Estructuralmente debería estar bien, este es un granero relativamente nuevo, no es como esos que no se les da mantenimiento."
 
 # game/code/e08/e08s03.rpy:233
 translate spanish e08s03_ed5aecdd:
@@ -472,7 +472,7 @@ translate spanish e08s03_0404e7bf:
 translate spanish e08s03_90e6868a:
 
     # mc "Kinda?"
-    mc "¿Un poco?"
+    mc "¿Algo así?"
 
 # game/code/e08/e08s03.rpy:251
 translate spanish e08s03_62ed882a:
@@ -514,7 +514,7 @@ translate spanish e08s03_71011557:
 translate spanish e08s03_db581ccd:
 
     # arj "Wow."
-    arj "Guau."
+    arj "Vaya."
 
 # game/code/e08/e08s03.rpy:265
 translate spanish e08s03_204855cd:
@@ -556,7 +556,7 @@ translate spanish e08s03_01c792bc:
 translate spanish e08s03_d06e08c1:
 
     # mc "I did, but I don't think about it fondly. It was just a phase in my life that's over now."
-    mc "Lo hice, pero no pienso en ello con cariño. Era sólo una fase de mi vida que ahora ha terminado."
+    mc "Lo tuve, pero no pienso en ello con cariño. Era sólo una fase de mi vida que ahora ha terminado."
 
 # game/code/e08/e08s03.rpy:279
 translate spanish e08s03_289731f5:
@@ -676,7 +676,7 @@ translate spanish e08s03_2b32d833:
 translate spanish e08s03_67e89949:
 
     # arj "Mostly worrying, because I don't know when this is going to end. We have to stay in here until the storm ends."
-    arj "Sobre todo preocupante, porque no sé cuándo va a terminar esto. Tenemos que quedarnos aquí hasta que termine la tormenta."
+    arj "Principalmente preocupada, porque no sé cuándo va a terminar esto. Tenemos que quedarnos aquí hasta que termine la tormenta."
 
 # game/code/e08/e08s03.rpy:325
 translate spanish e08s03_8bf6eeac:
@@ -916,7 +916,7 @@ translate spanish e08s03_cebcc08f:
 translate spanish e08s03_dc5c3b00:
 
     # arj "Some poet said youth is wasted on the young. I understand why they said that. I didn't even know what was wrong with me."
-    arj "Algún poeta dijo que la juventud se desperdicia en los jóvenes. Entiendo por qué dijeron eso. Yo ni siquiera sabía lo que me pasaba."
+    arj "Algún poeta dijo que la juventud se desperdicia en los jóvenes. Entiendo por qué dijo eso. Yo ni siquiera sabía lo que me pasaba."
 
 # game/code/e08/e08s03.rpy:411
 translate spanish e08s03_de590e67:
@@ -1108,5 +1108,5 @@ translate spanish strings:
 
     # game/code/e08/e08s03.rpy:27
     old "One late afternoon"
-    new "una tarde"
+    new "En la tarde"
 
