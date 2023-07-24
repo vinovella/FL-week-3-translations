@@ -778,7 +778,7 @@ translate turkish e08s07_arj_only_4ee0ae6a:
 translate turkish e08s07_arj_only_249ea65b:
 
     # mc "Get ready for a wild ride, Am!"
-    mc "Get ready for a wild ride, Am!"
+    mc "Çılgın bir yolculuğa hazır ol, Am!"
 
 # game/code/e08/e08s07.rpy:932
 translate turkish e08s07_arj_only_3a8d6a70:
