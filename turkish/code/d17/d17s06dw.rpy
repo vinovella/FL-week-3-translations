@@ -1066,7 +1066,7 @@ translate turkish d17s06dw_clown_room_b1154bd9:
 translate turkish d17s06dw_clown_room_ae1dd831:
 
     # sb "Hey [mcname]."
-    sb "Hey [mcname]."
+    sb "Selam [mcname]."
 
 # game/code/d17/d17s06dw.rpy:789
 translate turkish d17s06dw_clown_room_f49fff8f:
@@ -1078,7 +1078,7 @@ translate turkish d17s06dw_clown_room_f49fff8f:
 translate turkish d17s06dw_clown_room_a238b19c:
 
     # sb "I just wanted to tell you. {w}About that whole fucking my ass until I came..."
-    sb "Sadece sana söylemek istedim.{w}Ben gelene kadar kıçımı becermek hakkında..."
+    sb "Sadece sana söylemek istedim.{w}Ben gelene kadar kıçımı becermen hakkında..."
 
 # game/code/d17/d17s06dw.rpy:795
 translate turkish d17s06dw_clown_room_32c9aaa0:
@@ -1090,7 +1090,7 @@ translate turkish d17s06dw_clown_room_32c9aaa0:
 translate turkish d17s06dw_clown_room_1b1e5faf:
 
     # sb "No, I wanted to say that you owe me a metric fuckton of money for that experience."
-    sb "Hayır, bu deneyim için bana bir tonlarca para borçlu olduğunu söylemek istedim."
+    sb "Hayır, bu deneyim için bana tonlarca para borçlu olduğunu söylemek istedim."
 
 # game/code/d17/d17s06dw.rpy:804
 translate turkish d17s06dw_clown_room_6455f485:
