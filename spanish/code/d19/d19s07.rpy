@@ -112,7 +112,7 @@ translate spanish d19s07_5ad6bfb5:
 translate spanish d19s07_60cf9924:
 
     # mc "Fine.{w} I need you to seduce and fuck Professor Nordin."
-    mc "Bien. {w} Necesito que seduzcas y te folles al profesor Nordin."
+    mc "Bien. {w} Necesito que seduzcas y te folles al Profesor Nordin."
 
 # game/code/d19/d19s07.rpy:118
 translate spanish d19s07_c2907ace:
@@ -298,7 +298,7 @@ translate spanish d19s07_problem_f67ccd32:
 translate spanish d19s07_problem_0dcfe0f2:
 
     # mc "Really? So I just imagined you sucking and fucking every guy you could in that toilet stall?"
-    mc "¿De verdad? ¿Así que te imaginé chupando y follando a todos los chicos que pudieras en ese baño?"
+    mc "¿De verdad? ¿Entonces te imaginé chupando y follando con todos esos hombres que veías en el baño?"
 
 # game/code/d19/d19s07.rpy:219
 translate spanish d19s07_problem_470dfd09:
@@ -328,7 +328,7 @@ translate spanish d19s07_problem_a45e1406:
 translate spanish d19s07_problem_3e75d648:
 
     # mk "Maybe all the stress of college broke my brain a bit."
-    mk "al vez todo el estrés de la universidad me rompió un poco el cerebro."
+    mk "Tal vez todo el estrés de la universidad me rompió un poco el cerebro."
 
 # game/code/d19/d19s07.rpy:230
 translate spanish d19s07_problem_0b917f2d:
@@ -352,7 +352,7 @@ translate spanish d19s07_problem_be0ff9ea:
 translate spanish d19s07_problem_ed052b85:
 
     # mk "Yeah, well.{w} I guess I just have to ask... how important is this to you?"
-    mk "Sí, bueno. {w} Supongo que solo tengo que preguntar... ¿qué tan importante es esto para ti?"
+    mk "Sí, bueno.{w} Supongo que tengo que preguntar... ¿qué tan importante es esto para ti?"
 
 # game/code/d19/d19s07.rpy:239
 translate spanish d19s07_problem_ed87226f:
@@ -424,13 +424,13 @@ translate spanish d19s07_problem_e52f875c:
 translate spanish d19s07_problem_b7cba9af:
 
     # mc "Well, not JUST because of the sex."
-    mc "Bueno, no SOLO por el sexo."
+    mc "Bueno, no SÓLO por el sexo."
 
 # game/code/d19/d19s07.rpy:284
 translate spanish d19s07_problem_7a90f655:
 
     # mk "*laughs* Fair enough."
-    mk "*risas* Bastante justo."
+    mk "*risas* Me parece bien."
 
 # game/code/d19/d19s07.rpy:287
 translate spanish d19s07_problem_6c969469:
@@ -454,7 +454,7 @@ translate spanish d19s07_problem_17e2e3a6:
 translate spanish d19s07_problem_ec5b36a7:
 
     # mk "I am, yeah.{w} Well, at least I have been."
-    mk "Lo soy, sí. {w} Bueno, al menos lo he sido."
+    mk "Sí, lo soy {w} Bueno, al menos lo he sido."
 
 # game/code/d19/d19s07.rpy:297
 translate spanish d19s07_problem_61e64477:
@@ -604,7 +604,7 @@ translate spanish d19s07_roleplay_cfed9ebf:
 translate spanish d19s07_roleplay_8ad7f512:
 
     # mk "Let me guess - you play Professor Nordin?"
-    mk "Déjame adivinar, ¿interpretas al profesor Nordin?"
+    mk "Déjame adivinar, ¿interpretas al Profesor Nordin?"
 
 # game/code/d19/d19s07.rpy:376
 translate spanish d19s07_roleplay_007821d2:
@@ -676,7 +676,7 @@ translate spanish d19s07_roleplay_612cb833:
 translate spanish d19s07_roleplay_814c4eac:
 
     # mc "Okay.{w} Pretend that I'm Professor Nordin and you're you."
-    mc "De acuerdo. {w} Finge que yo soy el profesor Nordin y tú eres tú."
+    mc "De acuerdo. {w} Finge que yo soy el Profesor Nordin y tú eres tú."
 
 # game/code/d19/d19s07.rpy:405
 translate spanish d19s07_roleplay_013fe832:
@@ -772,7 +772,7 @@ translate spanish d19s07_roleplay_7dc57f3b:
 translate spanish d19s07_roleplay_1a114e9b:
 
     # mc "Miss Kovalevich! I must object!!!"
-    mc "¡Señorita Kovalevich! ¡¡¡Debo objetar!!!"
+    mc "¡Señorita Kovalevich! ¡¡¡Debo oponerme!!!"
 
 # game/code/d19/d19s07.rpy:459
 translate spanish d19s07_roleplay_1a1bd218:
@@ -976,7 +976,7 @@ translate spanish d19s07_roleplay_404acd8d:
 translate spanish d19s07_roleplay_f4ccd8b3:
 
     # mk "Doesn't matter.{w} Are you gonna pump me full of your seed or not?"
-    mk "No importa. {w} ¿Vas a llenarme de tu semilla o no?"
+    mk "No importa. {w} ¿Vas a llenarme con tu semilla o no?"
 
 # game/code/d19/d19s07.rpy:552
 translate spanish d19s07_roleplay_3059ff20:
@@ -1024,7 +1024,7 @@ translate spanish d19s07_sex_6e78594b:
 translate spanish d19s07_sex_0233ee00:
 
     # mk "Do you remember how we were atop that roof when you deflowered me?"
-    mk "¿Recuerdas cómo estábamos encima de ese techo cuando me desvirgaste?"
+    mk "¿Recuerdas cuando estábamos encima del tejado y me hiciste perder la virginidad?"
 
 # game/code/d19/d19s07.rpy:581
 translate spanish d19s07_sex_79f3400c:
@@ -1138,7 +1138,7 @@ translate spanish d19s07_sex_45e51c5f:
 translate spanish d19s07_sex_b6dde79c:
 
     # mc "I'm right here on the roof with you."
-    mc "Estoy aquí en el techo contigo."
+    mc "Estoy aquí en el tejado contigo."
 
 # game/code/d19/d19s07.rpy:649
 translate spanish d19s07_sex_c35d8d25:
@@ -1168,7 +1168,7 @@ translate spanish d19s07_sex_085722e2:
 translate spanish d19s07_sex_5f00bd2a:
 
     # mk "Push me off the roof.{w} DO IT!!!"
-    mk "Empújame del techo. {w} ¡¡¡HAZLO!!!"
+    mk "Empújame del tejado. {w} ¡¡¡HAZLO!!!"
 
 # game/code/d19/d19s07.rpy:661
 translate spanish d19s07_sex_a49ed4f8:
@@ -1252,7 +1252,7 @@ translate spanish d19s07_sex_085722e2_1:
 translate spanish d19s07_sex_caae2f68:
 
     # mk "Do me! As roughly as possible!!"
-    mk "¡Hazlo! ¡¡De la forma más brusca posible!!"
+    mk "¡Hazlo! ¡¡De la forma más brusca que puedas!!"
 
 # game/code/d19/d19s07.rpy:700
 translate spanish d19s07_sex_36678b68:
@@ -1294,7 +1294,7 @@ translate spanish d19s07_ending_40db1085:
 translate spanish d19s07_ending_f6dd34ec:
 
     # mk "PUMP ME FULL OF YOUR SEED!!! I HOPE I GET PREGNANT WITH YOUR BASTARD CHILD!!!"
-    mk "LLÉNAME DE TU SEMILLA ¡¡¡ESPERO QUEDARME EMBARAZADA DE TU HIJO BASTARDO!!!"
+    mk "LLÉNAME CON TU SEMILLA ¡¡¡ESPERO QUEDARME EMBARAZADA DE TU HIJO BASTARDO!!!"
 
 # game/code/d19/d19s07.rpy:762
 translate spanish d19s07_ending_59282fc7:
@@ -1306,7 +1306,7 @@ translate spanish d19s07_ending_59282fc7:
 translate spanish d19s07_ending_c89b9e8e:
 
     # mk "*panting* I'm just kidding.{w} I'm on birth control now."
-    mk "*jadeando* Solo bromeo. {w} Estoy tomando anticonceptivos ahora."
+    mk "*jadeando* Estoy bromeando.{w} Estoy tomando anticonceptivos ahora."
 
 # game/code/d19/d19s07.rpy:768
 translate spanish d19s07_ending_e12d8e8b:
@@ -1318,7 +1318,7 @@ translate spanish d19s07_ending_e12d8e8b:
 translate spanish d19s07_ending_9960f6af:
 
     # mk "Really?{w} I might be into that."
-    mk "¿En serio? {w} Podría estar interesada en eso."
+    mk "¿De verdad? {w} Podría estar interesada en eso."
 
 # game/code/d19/d19s07.rpy:776
 translate spanish d19s07_ending_b5b9720b:
@@ -1438,7 +1438,7 @@ translate spanish strings:
 
     # game/code/d19/d19s07.rpy:108
     old "Convince Maria to Seduce Professor Nordin"
-    new "Convence a María para que seduzca al profesor Nordin"
+    new "Convence a María para que seduzca al Profesor Nordin"
 
     # game/code/d19/d19s07.rpy:108
     old "Just a Booty Call"
