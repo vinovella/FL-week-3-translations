@@ -328,7 +328,7 @@ translate turkish e02s10_sex_32d7a0a8:
 translate turkish e02s10_sex_d5846da0:
 
     # mct "Woah... is she trying to drain me right away?"
-    mct Vay canına... beni hemen tüketmeye mi çalışıyor?"
+    mct "Vay canına... beni hemen tüketmeye mi çalışıyor?"
 
 # game/code/e02/e02s10.rpy:243
 translate turkish e02s10_sex_5b9dbb94:

@@ -1,4 +1,4 @@
-+﻿# TODO: Translation updated at 2023-06-17 12:07
+# TODO: Translation updated at 2023-06-17 12:07
 
 # game/code/e02/e02s09.rpy:17
 translate turkish e02s09_c27de55b:
@@ -658,7 +658,7 @@ translate turkish e02s09_home_again_cd25ed8d:
 translate turkish e02s09_home_again_e7090e99:
 
     # mh "The judge overseeing the case did not throw it out."
-    mh "Davaya bakan yargıç, davayı düşürmedi.
+    mh "Davaya bakan yargıç, davayı düşürmedi."
 
 # game/code/e02/e02s09.rpy:341
 translate turkish e02s09_home_again_95d96455:

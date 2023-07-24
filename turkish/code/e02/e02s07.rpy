@@ -946,7 +946,7 @@ translate turkish e02s07_sex_0ab94a8f:
 translate turkish e02s07_sex_fbb0f273:
 
     # mh "Third, is the psychological aspect. About 90%% of sexual pleasure occurs in the brain."
-    mh "Üçüncüsü, psikolojik yönü. Cinsel hazzın yaklaşık %90'ı beyinde oluşur."
+    mh "Üçüncüsü, psikolojik yönü. Cinsel hazzın yaklaşık %%90'ı beyinde oluşur."
 
 # game/code/e02/e02s07.rpy:569
 translate turkish e02s07_sex_956a52e4:
@@ -1665,4 +1665,3 @@ translate turkish strings:
     # game/code/e02/e02s07.rpy:520
     old "Let Lyssa Fuck You Instead"
     new "Onun yerine Lyssa'nın seni becermesine izin ver"
-
