@@ -1546,7 +1546,7 @@ translate turkish d17s01_end_7bbeb38c:
 translate turkish d17s01_end_53313c57:
 
     # mc "Nordin and Lewald."
-    mc "Nordin and Lewald."
+    mc "Nordin ve Lewald."
 
 # game/code/d17/d17s01.rpy:992
 translate turkish d17s01_end_30e1fa11:
