@@ -88,7 +88,7 @@ translate spanish d19s02_3f0c44bd:
 translate spanish d19s02_f6dc076b:
 
     # sy "Pete? Wait, {i}your friend who you vouched for{/i} Pete?"
-    sy "¿Pete? Espera, {i}¿Tu amigo por el que respondiste{/i}, Pete?"
+    sy "¿Pete? Espera, {i}Tu amigo por el que respondiste{/i}, ¿Pete?"
 
 # game/code/d19/d19s02.rpy:189
 translate spanish d19s02_4d088457:
@@ -136,7 +136,7 @@ translate spanish d19s02_cbc203dd:
 translate spanish d19s02_b205f7da:
 
     # sy "What do you mean \"from what I gathered\", where were you?"
-    sy "¿Qué quieres decir \" con lo que he recopilado?\" ¿Dónde estabas?"
+    sy "¿Qué quieres decir \" con lo que he recopilado\"? ¿Dónde estabas?"
 
 # game/code/d19/d19s02.rpy:209
 translate spanish d19s02_29942233:
@@ -232,7 +232,7 @@ translate spanish d19s02_b6485de5:
 translate spanish d19s02_7ddde078:
 
     # mc "It's alright. You all did amazingly. What happened, happened. It is what it is."
-    mc "Está bien. Ustedes lo hicieron increíble. Lo que pasó, pasó. Es lo que es."
+    mc "Está bien. Ustedes lo hicieron increíble. Lo que pasó, pasó. Las cosas son como son."
 
 # game/code/d19/d19s02.rpy:269
 translate spanish d19s02_735ac68a:
