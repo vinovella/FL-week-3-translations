@@ -124,7 +124,7 @@ translate spanish d19s06mes_50171a3d:
 translate spanish d19s06mes_3c6b57ce:
 
     # mes "Isn't this delightful?!{w} Of course, I thought of you when she came to me."
-    mes "¡¿No es encantador?! {w} Por supuesto, pensé en ti cuando vino a mí."
+    mes "¡¿No es encantadora?! {w} Por supuesto, pensé en ti cuando vino a mí."
 
 # game/code/d19/d19s06mes.rpy:115
 translate spanish d19s06mes_691fc3c6:
@@ -286,7 +286,7 @@ translate spanish d19s06mes_f3caa719:
 translate spanish d19s06mes_dde405a3:
 
     # mc "If you really object to what we are doing, grunt three times."
-    mc "Si realmente objetas lo que estamos haciendo, gruñe tres veces."
+    mc "Si realmente te opones a lo que estamos haciendo, gruñe tres veces."
 
 # game/code/d19/d19s06mes.rpy:199
 translate spanish d19s06mes_5f5c1930:
@@ -574,7 +574,7 @@ translate spanish d19s06mes_5ac6c9a6:
 translate spanish d19s06mes_113ffcae:
 
     # mc "I'm going to see if she can buck us off in 8 seconds."
-    mc "Voy a ver si puede acabar con nosotros en 8 segundos."
+    mc "Voy a ver si puede terminar con nosotros en 8 segundos."
 
 # game/code/d19/d19s06mes.rpy:426
 translate spanish d19s06mes_a0f6c762:
@@ -592,7 +592,7 @@ translate spanish d19s06mes_f36e5aec:
 translate spanish d19s06mes_5856b83f:
 
     # mes "Woah! That got her going!!"
-    mes "¡Guau! ¡¡Eso la puso en marcha!!"
+    mes "¡Vaya! ¡¡Eso la puso en marcha!!"
 
 # game/code/d19/d19s06mes.rpy:459
 translate spanish d19s06mes_5c2c1ce5:
@@ -610,7 +610,7 @@ translate spanish d19s06mes_e4ce173b:
 translate spanish d19s06mes_ea92d3e8:
 
     # mes "FUCK YES!!!!!!"
-    mes "¡¡¡¡¡¡JODER SI!!!!!!"
+    mes "¡¡¡¡¡¡MIERDA SI!!!!!!"
 
 # game/code/d19/d19s06mes.rpy:488
 translate spanish d19s06mes_f5d586f7:
@@ -718,7 +718,7 @@ translate spanish d19s06mes_3a1b171d:
 translate spanish d19s06mes_9855f2d6:
 
     # mes "*laughing* True."
-    mes "**riendo* Cierto."
+    mes "*riendo* Cierto."
 
 # game/code/d19/d19s06mes.rpy:550
 translate spanish d19s06mes_e571e6d3:
@@ -760,7 +760,7 @@ translate spanish d19s06mes_eaf7e778:
 translate spanish d19s06mes_d78cfcf5:
 
     # mes "We're done with the punishment, Cynthia. I'm just your friend Min now."
-    mes "Terminamos con el castigo, Cynthia. Ahora solo soy tu amiga Min."
+    mes "Terminamos con el castigo, Cynthia. Ahora sólo soy tu amiga Min."
 
 # game/code/d19/d19s06mes.rpy:574
 translate spanish d19s06mes_ac4b462a:
@@ -832,7 +832,7 @@ translate spanish d19s06mes_21e010db:
 translate spanish d19s06mes_d385bd31:
 
     # mes "He beat me at a pissing contest by drinking the bowl."
-    mes "Me ganó en un concurso de meadas bebiéndose el recipiente."
+    mes "Me ganó en un concurso de meadas bebiéndose el recipiente con mi orina."
 
 # game/code/d19/d19s06mes.rpy:610
 translate spanish d19s06mes_8f32d699:
@@ -880,7 +880,7 @@ translate spanish d19s06mes_cc4782cc:
 translate spanish d19s06mes_4c9e2819:
 
     # mc "Associating drinking urine with orgasms was just part of the training, but worked along a Pavlovian response. Connecting the taste of pee with the pleasure of sex."
-    mc "Asociar beber orina con orgasmos era solo parte del entrenamiento, pero funcionaba con una respuesta pavloviana. Conectando el sabor de la orina con el placer del sexo."
+    mc "Asociar el consumo de orina con los orgasmos era sólo una parte del entrenamiento, pero funcionaba como una respuesta pavloviana. Conectando el sabor de la orina con el placer del sexo."
 
 # game/code/d19/d19s06mes.rpy:634
 translate spanish d19s06mes_9a01829f:
@@ -934,7 +934,7 @@ translate spanish d19s06mes_d8d6e290:
 translate spanish d19s06mes_51a33661:
 
     # cl "I mean...{w} On the one hand, it's not something I'd ever want to try. On the other hand, there are probably tons of people with this fetish that get off on it."
-    cl "Quiero decir... {w} Por un lado, no es algo que quisiera probar. Pero, por otro lado, probablemente hay toneladas de personas con este fetiche que se excitan con él."
+    cl "Quiero decir... {w} Por un lado, no es algo que quisiera probar. Pero, por otro lado, probablemente hay toneladas de personas con este fetiche que se excitan con ello."
 
 # game/code/d19/d19s06mes.rpy:661
 translate spanish d19s06mes_125dbf35:
@@ -1006,7 +1006,7 @@ translate spanish d19s06mes_a19ae317:
 translate spanish d19s06mes_a6c1de56:
 
     # mes "He's not just going to pee on you. Open your mouth wide, now!"
-    mes "No solo te va a orinar encima. ¡Abre bien la boca, ahora!"
+    mes "No sólo te va a orinar encima. ¡Abre bien la boca, ahora!"
 
 # game/code/d19/d19s06mes.rpy:708
 translate spanish d19s06mes_6c4c9566:
@@ -1144,7 +1144,7 @@ translate spanish d19s06mes_48270f84:
 translate spanish d19s06mes_ac9adf42:
 
     # mes "I haven't had that much fun since she went into the Pandora room."
-    mes "No me divertía tanto desde que entró en la sala Pandora."
+    mes "No me divertía tanto desde que entró en la sala de Pandora."
 
 translate spanish strings:
 
