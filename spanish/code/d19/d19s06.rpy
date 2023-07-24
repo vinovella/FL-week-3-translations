@@ -106,7 +106,7 @@ translate spanish d19s06_c07ea2bb:
 translate spanish d19s06_64362d5a:
 
     # mct "[d19s06_video_points] points for a single video!? What the fuck!?"
-    mct "[d19s06_video_points] ¿¡puntos por un solo video!? ¿¡Qué carajo!?"
+    mct "[d19s06_video_points] ¿¡puntos por un solo video!? ¿¡Qué mierda!?"
 
 # game/code/d19/d19s06.rpy:54
 translate spanish d19s06_ee60463e:
@@ -142,7 +142,7 @@ translate spanish d19s06_adbc809c:
 translate spanish d19s06_4da32318:
 
     # mct "But only 'cause someone's been very naughty."
-    mct "Pero solo porque alguien ha sido muy traviesa."
+    mct "Pero sólo porque alguien ha sido muy traviesa."
 
 # game/code/d19/d19s06.rpy:83
 translate spanish d19s06_bfb5898c:
@@ -688,7 +688,7 @@ translate spanish d19s06_video_fddc1c40:
 translate spanish d19s06_video_ce3cd066:
 
     # mct "All AmRose had to do was babble some religious bullshit and she had Lewald wrapped around her finger."
-    mct "Todo lo que AmRose tenía que hacer era balbucear algunas tonterías religiosas y tenía a Lewald envuelta alrededor de su dedo."
+    mct "Todo lo que AmRose tenía que hacer era balbucear algunas tonterías religiosas y tenía a Lewald a su alcance."
 
 # game/code/d19/d19s06.rpy:415
 translate spanish d19s06_video_0e8dbd95:
