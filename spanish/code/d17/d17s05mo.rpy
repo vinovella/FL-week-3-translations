@@ -100,7 +100,7 @@ translate spanish d17s05mo_a48431c7:
 translate spanish d17s05mo_6949c748:
 
     # mh "Come on in, you two."
-    mh "Entren, ustedes dos."
+    mh "Ustedes dos, entren."
 
 # game/code/d17/d17s05mo.rpy:78
 translate spanish d17s05mo_f34b319c:
@@ -160,7 +160,7 @@ translate spanish d17s05mo_18758a6b:
 translate spanish d17s05mo_31338864:
 
     # op "I just... We... Miss Harris."
-    op "Yo sólo... Nosotros... Srta. Harris."
+    op "Yo sólo... Nosotros... La Señorita. Harris."
 
 # game/code/d17/d17s05mo.rpy:111
 translate spanish d17s05mo_1edfc786:
@@ -214,7 +214,7 @@ translate spanish d17s05mo_f630893a:
 translate spanish d17s05mo_f084f325:
 
     # op "She...what?"
-    op "¿Ella qué?"
+    op "Ella... ¿qué?"
 
 # game/code/d17/d17s05mo.rpy:134
 translate spanish d17s05mo_eb3b8bb2:
@@ -244,7 +244,7 @@ translate spanish d17s05mo_93814797:
 translate spanish d17s05mo_97f9f301:
 
     # mc "Anyway. The point is, she's fin—"
-    mc "De todos modos. El punto es que ella está bien"
+    mc "De todos modos. El punto es que ella está bien."
 
 # game/code/d17/d17s05mo.rpy:145
 translate spanish d17s05mo_03dc28ff:
@@ -256,7 +256,7 @@ translate spanish d17s05mo_03dc28ff:
 translate spanish d17s05mo_8a75836a:
 
     # mc "Oh we were just reminiscing about the last party I threw."
-    mc "Oh, solo estábamos recordando la última fiesta que organicé."
+    mc "Oh, estábamos recordando la última fiesta que organicé."
 
 # game/code/d17/d17s05mo.rpy:152
 translate spanish d17s05mo_c103824c:
@@ -322,7 +322,7 @@ translate spanish d17s05mo_edd286ab:
 translate spanish d17s05mo_a803ce5b:
 
     # mh "How about Cards Against Humans? See where we go from there."
-    mh "¿Qué hay de las cartas contra humanos? Vea a dónde vamos desde allí."
+    mh "¿Qué hay del juego Cartas contra humanos? Y luego ya veremos."
 
 # game/code/d17/d17s05mo.rpy:179
 translate spanish d17s05mo_6f9c927a:
@@ -370,7 +370,7 @@ translate spanish d17s05mo_918bef5e:
 translate spanish d17s05mo_30df9cf2:
 
     # mh "Well, the game starts by picking the most recent person that went uh...\"potty.\""
-    mh "Bueno, el juego empieza eligiendo a la persona que haya ido recientemente... \" al baño\."
+    mh "Bueno, el juego empieza eligiendo a la persona que haya ido recientemente... \" al baño\"."
 
 # game/code/d17/d17s05mo.rpy:201
 translate spanish d17s05mo_77362314:
@@ -382,7 +382,7 @@ translate spanish d17s05mo_77362314:
 translate spanish d17s05mo_5f83b870:
 
     # mc "Huh, well, I think I might be the one that most recently took a shit then?"
-    mc "¿Eh, bueno, creo que podría ser el que cagó más recientemente entonces?"
+    mc "Bueno, creo que yo soy el que ha cagado recientemente."
 
 # game/code/d17/d17s05mo.rpy:207
 translate spanish d17s05mo_d9453af6:
@@ -406,7 +406,7 @@ translate spanish d17s05mo_9f6c0018:
 translate spanish d17s05mo_cbf39a11:
 
     # mc "Oh this'll be fun. You two have to pick the most heinous white card, right?"
-    mc "Oh, esto será divertido. Ustedes dos tienen que elegir la tarjeta blanca más atroz, ¿verdad?"
+    mc "Oh, esto será divertido. Ustedes dos tienen que elegir la carta blanca más horrenda, ¿verdad?"
 
 # game/code/d17/d17s05mo.rpy:220
 translate spanish d17s05mo_d8056ca5:
@@ -568,7 +568,7 @@ translate spanish d17s05mo_755d4ec3:
 translate spanish d17s05mo_69a272dc:
 
     # mc "Hm. {w}\"Crappy parents\"?"
-    mc "Hm. {w}\"¿Padres de mierda\"?"
+    mc "Hm. {w}\"¿Padres de mierda?\""
 
 # game/code/d17/d17s05mo.rpy:303
 translate spanish d17s05mo_a65de9ea:
@@ -616,7 +616,7 @@ translate spanish d17s05mo_df7628f8:
 translate spanish d17s05mo_44598334:
 
     # mh "What were you two gossiping about without me?"
-    mh "¿De qué estaban chismorreando sin mí?"
+    mh "¿De qué estaban hablando sin mí?"
 
 # game/code/d17/d17s05mo.rpy:327
 translate spanish d17s05mo_eb2f558e:
@@ -634,7 +634,7 @@ translate spanish d17s05mo_5070e946:
 translate spanish d17s05mo_9d1f0e3a:
 
     # op "*Laughs* It's funny to me how much Miss Harris hates my family."
-    op "*Risas* Me resulta gracioso lo mucho que la señorita Harris odia a mi familia."
+    op "*Risas* Me resulta gracioso lo mucho que la Señorita Harris odia a mi familia."
 
 # game/code/d17/d17s05mo.rpy:336
 translate spanish d17s05mo_6ecd052d:
@@ -700,7 +700,7 @@ translate spanish d17s05mo_02556280:
 translate spanish d17s05mo_dac1cb99:
 
     # mh "How's he doing these days?"
-    mh "¿Cómo está él estos días?"
+    mh "¿Cómo le va en estos días?"
 
 # game/code/d17/d17s05mo.rpy:362
 translate spanish d17s05mo_eb9a7cba:
@@ -748,7 +748,7 @@ translate spanish d17s05mo_6b0b039c:
 translate spanish d17s05mo_5f4fc586:
 
     # mct "Hm. Lyssa and Oliver are really comfortable with each other when they get going."
-    mct "Hm. Lyssa y Oliver se sienten muy cómodos el uno con el otro cuando comienzan."
+    mct "Hm. Cuando empiezan, Lyssa y Oliver se sienten muy cómodos el uno con el otro."
 
 # game/code/d17/d17s05mo.rpy:380
 translate spanish d17s05mo_03c297f8:
@@ -790,7 +790,7 @@ translate spanish d17s05mo_ca636351:
 translate spanish d17s05mo_abb73d54:
 
     # op "\"How did I lose my virginity...\""
-    op "\Cómo perdí mi virginidad...\""
+    op "\"Cómo perdí mi virginidad...\""
 
 # game/code/d17/d17s05mo.rpy:402
 translate spanish d17s05mo_8898a8ba:
@@ -934,7 +934,7 @@ translate spanish d17s05mo_b8c6efd3:
 translate spanish d17s05mo_0fd98bc6:
 
     # mc "It was. You're concerningly good at party games."
-    mc "Lo fue. Eres preocupantemente bueno en los juegos de fiesta."
+    mc "Lo fue. Eres muy bueno en los juegos de mesa."
 
 # game/code/d17/d17s05mo.rpy:483
 translate spanish d17s05mo_b154439b:
@@ -1006,7 +1006,7 @@ translate spanish d17s05mo_2dbdf5e3:
 translate spanish d17s05mo_3d7aeb6d:
 
     # op "I was thinking the same thing. I should get home before it gets too dark."
-    op "Estaba pensando lo mismo. Debería llegar a casa antes de que oscurezca demasiado."
+    op "Estaba pensando lo mismo. Debería llegar a casa antes de que se haga de noche."
 
 # game/code/d17/d17s05mo.rpy:517
 translate spanish d17s05mo_6c56d9e1:
@@ -1024,7 +1024,7 @@ translate spanish d17s05mo_fb23475f:
 translate spanish d17s05mo_1adc4208:
 
     # mh "Only to the people I care about."
-    mh "Solo con las personas que me importan."
+    mh "Sólo con las personas que me importan."
 
 # game/code/d17/d17s05mo.rpy:526
 translate spanish d17s05mo_bc467403:
@@ -1042,13 +1042,13 @@ translate spanish d17s05mo_8a8091e3:
 translate spanish d17s05mo_dd43b5b2:
 
     # mc "I'm not sure I'd call it \"relaxing\" exactly, though. I was fighting for my life out there."
-    mc "No estoy seguro de llamarlo exactamente \"relajante\". Estaba luchando por mi vida ahí fuera."
+    mc "No estoy seguro de llamarlo exactamente \"relajante\". Estaba luchando por mi vida ahí afuera."
 
 # game/code/d17/d17s05mo.rpy:541
 translate spanish d17s05mo_3f058dd1:
 
     # mh "Be safe, alright?"
-    mh "Mantente a salvo, ¿de acuerdo?"
+    mh "Cuídate, ¿está bien?"
 
 # game/code/d17/d17s05mo.rpy:544
 translate spanish d17s05mo_0817892e:
@@ -1060,7 +1060,7 @@ translate spanish d17s05mo_0817892e:
 translate spanish d17s05mo_e9dc1b55:
 
     # mh "You too. Don't go speeding now."
-    mh "Tú también. No vayas a exceso de velocidad ahora."
+    mh "Tú también te cuidas. No te vayas a exceso de velocidad ahora."
 
 # game/code/d17/d17s05mo.rpy:566
 translate spanish d17s05mo_3654d305:
@@ -1072,13 +1072,13 @@ translate spanish d17s05mo_3654d305:
 translate spanish d17s05mo_a7744d61:
 
     # mc "Look at that, you broke the poor thing."
-    mc "Mira eso, rompiste la pobre cosa."
+    mc "Mira eso, rompiste al pobre chico."
 
 # game/code/d17/d17s05mo.rpy:572
 translate spanish d17s05mo_fe2d0d68:
 
     # mh "You two stay safe now."
-    mh "Manténganse a salvo."
+    mh "Ustedes dos se cuidan ahora."
 
 # game/code/d17/d17s05mo.rpy:575
 translate spanish d17s05mo_8a2d0b06:
@@ -1102,7 +1102,7 @@ translate spanish d17s05mo_bffea011:
 translate spanish d17s05mo_edfd60d4:
 
     # mc "Rest up well. I'll talk to you tomorrow. Goodnight."
-    mc "Descansa bien. Te hablaré mañana. Buenas noches."
+    mc "Descansa bien. Hablamos mañana. Buenas noches."
 
 # game/code/d17/d17s05mo.rpy:596
 translate spanish d17s05mo_791f3d0a:
