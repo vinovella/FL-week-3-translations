@@ -754,7 +754,7 @@ translate turkish replay_d17s08_01f0c2ac:
 translate turkish replay_d17s08_0a7ca4c7:
 
     # mc "Research?"
-    mc "Research?"
+    mc "Araştırma?"
 
 # game/code/d17/d17s08.rpy:466
 translate turkish replay_d17s08_fd1425ca:
