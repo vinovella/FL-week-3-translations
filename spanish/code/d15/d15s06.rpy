@@ -400,7 +400,7 @@ translate spanish d15s06_house_1c83b9e5:
 translate spanish d15s06_house_e29ada9d:
 
     # mc "I lost a bet with Fetish Locator and this is my punishment for a bit."
-    mc "Perdí una apuesta con el Localizador de Fetiche y este es mi castigo por un rato."
+    mc "Perdí una apuesta con el Localizador de Fetiches y este es mi castigo por un rato."
 
 # game/code/d15/d15s06.rpy:359
 translate spanish d15s06_house_ceb34ca9:
@@ -418,7 +418,7 @@ translate spanish d15s06_house_b3e488c2:
 translate spanish d15s06_house_0050c15f:
 
     # mh "Does it hurt you?"
-    mh "¿Te dolió?"
+    mh "¿Te duele?"
 
 # game/code/d15/d15s06.rpy:367
 translate spanish d15s06_house_b999aef4:
@@ -568,7 +568,7 @@ translate spanish d15s06_house_96a23602:
 translate spanish d15s06_house_ceb67722:
 
     # mct "Woo boy."
-    mct "Guau chico."
+    mct "Vaya chico."
 
 # game/code/d15/d15s06.rpy:481
 translate spanish d15s06_house_3d2533db:
@@ -610,13 +610,13 @@ translate spanish d15s06_house_675d4884:
 translate spanish d15s06_house_6002ea16:
 
     # mc "I can feel your tongue, fuck."
-    mc "Puedo sentir tu lengua, joder."
+    mc "Puedo sentir tu lengua, mierda."
 
 # game/code/d15/d15s06.rpy:500
 translate spanish d15s06_house_ec783adb:
 
     # mh "How was that, Sir?"
-    mh "¿Cómo estuvo eso, señor?"
+    mh "¿Cómo estuvo eso, Señor?"
 
 # game/code/d15/d15s06.rpy:502
 translate spanish d15s06_house_74ee891f:
@@ -754,7 +754,7 @@ translate spanish d15s06_house_9eaaf0e1:
 translate spanish d15s06_house_fc08e093:
 
     # mct "Fuck, her dick is nothing like I've experienced before."
-    mct "Joder, su pene no se parece en nada a lo que he experimentado antes."
+    mct "Mierda, su pene no se parece en nada a lo que he experimentado antes."
 
 # game/code/d15/d15s06.rpy:578
 translate spanish d15s06_house_7257d258:
@@ -856,13 +856,13 @@ translate spanish d15s06_house_3250d2f7:
 translate spanish d15s06_house_e663372d:
 
     # mc "Fuuuck, Lyssa, I'm gonna fucking cum!"
-    mc "Joder, Lyssa, ¡me voy a correr!"
+    mc "Mierda, Lyssa, ¡me voy a correr!"
 
 # game/code/d15/d15s06.rpy:767
 translate spanish d15s06_house_68b654e0:
 
     # mh "That... I've never felt that good cumming before."
-    mh "Eso... Nunca me había sentido tan bien corriéndome antes."
+    mh "Eso... Nunca antes me había hecho sentir tan bien."
 
 # game/code/d15/d15s06.rpy:770
 translate spanish d15s06_house_69c25b65:
@@ -952,7 +952,7 @@ translate spanish d15s06_pillowtalk_c15d806b:
 translate spanish d15s06_pillowtalk_3dc08474:
 
     # mh "The one that you threw?"
-    mh "¿La que tiraste?"
+    mh "¿La que hiciste?"
 
 # game/code/d15/d15s06.rpy:847
 translate spanish d15s06_pillowtalk_cf1adef2:
@@ -970,19 +970,19 @@ translate spanish d15s06_pillowtalk_a88cd26e:
 translate spanish d15s06_pillowtalk_6c480847:
 
     # mh "He's pretty timid and shy most of the time but you should see him when he gets the confidence to act out. *Laughs*"
-    mh "Es bastante tímido y tímido la mayor parte del tiempo, pero deberías verlo cuando tenga la confianza para actuar. *Risas*"
+    mh "Es bastante tímido la mayor parte del tiempo, pero deberías verle cuando tiene la suficiente confianza para actuar. *Risas*"
 
 # game/code/d15/d15s06.rpy:853
 translate spanish d15s06_pillowtalk_b2b2b038:
 
     # mh "Did you see him with a girl? He could use someone like that to be honest."
-    mh "¿Lo viste con una chica? Podría usar a alguien así para ser honesto."
+    mh "¿Lo viste con una chica? Le vendría bien alguien así, para ser honesta."
 
 # game/code/d15/d15s06.rpy:856
 translate spanish d15s06_pillowtalk_dc3c9d63:
 
     # mc "About tha— Wait, are you saying that he needs to fuck some more to stop being so shy and timid?"
-    mc "Sobre eso— Espera, ¿estás diciendo que necesita follar un poco más para dejar de ser tan tímido?."
+    mc "Sobre eso... Espera, ¿estás diciendo que necesita follar un poco más para dejar de ser tímido?"
 
 # game/code/d15/d15s06.rpy:858
 translate spanish d15s06_pillowtalk_76c98c3f:
@@ -1150,7 +1150,7 @@ translate spanish d15s06_pillowtalk_1c07c505:
 translate spanish d15s06_pillowtalk_1a0ad4c4:
 
     # mh "I love you."
-    mh "Te amo"
+    mh "Te amo."
 
 # game/code/d15/d15s06.rpy:939
 translate spanish d15s06_pillowtalk_bffea011:
@@ -1258,7 +1258,7 @@ translate spanish d15s06_kitchen_08f68bd6:
 translate spanish d15s06_kitchen_94104fdc:
 
     # mh "Let me."
-    mh "Déjame"
+    mh "Permíteme."
 
 # game/code/d15/d15s06.rpy:1048
 translate spanish d15s06_kitchen_65bf3354:
@@ -1486,7 +1486,7 @@ translate spanish d15s06_end_eef87dc1:
 translate spanish d15s06_end_21fb92d7:
 
     # mc "And we've talked about thi—"
-    mc "Y hemos hablado de esto—"
+    mc "Y hemos hablado de esto."
 
 # game/code/d15/d15s06.rpy:1186
 translate spanish d15s06_end_b524fc43:
@@ -1618,7 +1618,7 @@ translate spanish d15s06_end_b7d1a3f5:
 translate spanish d15s06_end_83b29203:
 
     # mc "And about your second question. No, I'm not jealous or whatever."
-    mc "Y sobre tu segunda pregunta. No, no estoy celoso o lo que sea."
+    mc "Y sobre tu segunda pregunta. No, no estoy celoso ni nada parecido."
 
 # game/code/d15/d15s06.rpy:1236
 translate spanish d15s06_end_1c7fbf5f:
@@ -1636,7 +1636,7 @@ translate spanish d15s06_end_e15f1013:
 translate spanish d15s06_end_35dfd34c:
 
     # op "O-okay."
-    op "bien."
+    op "Bien."
 
 # game/code/d15/d15s06.rpy:1241
 translate spanish d15s06_end_8f56ea67:
@@ -1672,13 +1672,13 @@ translate spanish d15s06_end_4df2f447:
 translate spanish d15s06_end_3549c985:
 
     # mct "Another one? What did I get this one for?"
-    mct "¿Otra? ¿Para qué compré éste?"
+    mct "¿Otra? ¿Para qué me dieron esto?"
 
 # game/code/d15/d15s06.rpy:1264
 translate spanish d15s06_end_a041029e:
 
     # mct "A gold star? What did I get this for?"
-    mct "¿Una estrella de oro? ¿Para qué obtuve esto?"
+    mct "¿Una estrella de oro? ¿Para qué me dieron esto?"
 
 # game/code/d15/d15s06.rpy:1267
 translate spanish d15s06_end_fd62af63:
