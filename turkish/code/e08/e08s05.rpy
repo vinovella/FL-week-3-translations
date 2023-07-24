@@ -1990,103 +1990,103 @@ translate turkish e08s05_no_ntr_85df50b1:
 translate turkish e08s05_no_ntr_337a24e2:
 
     # ac "Don't get lazy. Keep sucking on my fucking clit, you married whore."
-    ac "Don't get lazy. Keep sucking on my fucking clit, you married whore."
+    ac "Tembellik etme. Klitorisimi emmeye devam et, seni evli fahişe."
 
 # game/code/e08/e08s05.rpy:1345
 translate turkish e08s05_no_ntr_a578280c:
 
     # arj "*Lick lick lick*"
-    arj "*Lick lick lick*"
+    arj "*Yalar yalar yalar*"
 
 # game/code/e08/e08s05.rpy:1352
 translate turkish e08s05_no_ntr_8ce2ade4:
 
     # ac "Your dick is throbbing. Are you going to cum?"
-    ac "Your dick is throbbing. Are you going to cum?"
+    ac "Sikin zonkluyor. Boşalacak mısın?"
 
 # game/code/e08/e08s05.rpy:1353
 translate turkish e08s05_no_ntr_c3941f4e:
 
     # mc "Yes. I'm going to fill you up with cum. Are you ready?"
-    mc "Yes. I'm going to fill you up with cum. Are you ready?"
+    mc "Evet. Seni meni ile dolduracağım. Hazır mısın?"
 
 # game/code/e08/e08s05.rpy:1357
 translate turkish e08s05_no_ntr_d1d7c3df:
 
     # ac "If you're going to do it, then do it."
-    ac "If you're going to do it, then do it."
+    ac "Eğer yapacaksan, o zaman yap."
 
 # game/code/e08/e08s05.rpy:1362
 translate turkish e08s05_no_ntr_e5ae4098:
 
     # mc "Fuck!!!"
-    mc "Fuck!!!"
+    mc "Siktir!!!"
 
 # game/code/e08/e08s05.rpy:1373
 translate turkish e08s05_no_ntr_84de99f2:
 
     # ac "I wanted to do this for the longest time."
-    ac "I wanted to do this for the longest time."
+    ac "Bunu çok uzun zamandır yapmak istiyordum."
 
 # game/code/e08/e08s05.rpy:1374
 translate turkish e08s05_no_ntr_98a9e3a0:
 
     # ac "The stars aligned and now I'm in your house, fucking you and your wife."
-    ac "The stars aligned and now I'm in your house, fucking you and your wife."
+    ac "Yıldızlar hizalandı ve şimdi senin evindeyim, seni ve karını beceriyorum."
 
 # game/code/e08/e08s05.rpy:1377
 translate turkish e08s05_no_ntr_d2dfad69:
 
     # mc "AmRose's ass just tightened up."
-    mc "AmRose's ass just tightened up."
+    mc "AmRose'un kıçı az önce gerildi."
 
 # game/code/e08/e08s05.rpy:1380
 translate turkish e08s05_no_ntr_d1979999:
 
     # arj "I'm imagining keeping you as our slave and fucking you around the clock."
-    arj "I'm imagining keeping you as our slave and fucking you around the clock."
+    arj "Seni kölemiz olarak tutmayı ve günün her saati seni becermeyi hayal ediyorum."
 
 # game/code/e08/e08s05.rpy:1381
 translate turkish e08s05_no_ntr_3ae499c7:
 
     # arj "Being our little whore to use and service us."
-    arj "Being our little whore to use and service us."
+    arj "Bize hizmet etmek ve kullanmak için bizim küçük fahişemiz olmak."
 
 # game/code/e08/e08s05.rpy:1384
 translate turkish e08s05_no_ntr_354530cf:
 
     # ac "I can do that."
-    ac "I can do that."
+    ac "Bunu yapabilirim."
 
 # game/code/e08/e08s05.rpy:1385
 translate turkish e08s05_no_ntr_79e18cd4:
 
     # ac "You'd just have to keep my husband good and drunk first."
-    ac "You'd just have to keep my husband good and drunk first."
+    ac "Önce kocamı iyi ve sarhoş tutmalısın."
 
 # game/code/e08/e08s05.rpy:1388
 translate turkish e08s05_no_ntr_3d178464:
 
     # arj "That would be evil."
-    arj "That would be evil."
+    arj "Bu kötü olurdu."
 
 # game/code/e08/e08s05.rpy:1417
 translate turkish e08s05_no_ntr_4fd81b88:
 
     # arj "Stick your fingers in my pussy."
-    arj "Stick your fingers in my pussy."
+    arj "Parmaklarını amıma sok."
 
 # game/code/e08/e08s05.rpy:1420
 translate turkish e08s05_no_ntr_716beb6f:
 
     # mc "Fuck, your ass is clenching down on my cock. It's squeezing my dick so hard."
-    mc "Fuck, your ass is clenching down on my cock. It's squeezing my dick so hard."
+    mc "Siktir, kıçın sikime kenetleniyor. Sikimi çok sıkıyor."
 
 # game/code/e08/e08s05.rpy:1421
 translate turkish e08s05_no_ntr_d6579c5e:
 
     # mc "Too late, I'm going to pop my load in your asshole. You're going to lick her asshole clean, Ashley, and then you're going to swap my cum in your mouth."
-    mc "Too late, I'm going to pop my load in your asshole. You're going to lick her asshole clean, Ashley, and then you're going to swap my cum in your mouth."
+    mc "Çok geç, yükümü kıçına sokacağım. Onun kıçını temizleyeceksin Ashley, sonra da ağzına boşalmamı değiştireceksin."
 
 # game/code/e08/e08s05.rpy:1424
 translate turkish e08s05_no_ntr_32171b97:
@@ -2098,109 +2098,109 @@ translate turkish e08s05_no_ntr_32171b97:
 translate turkish e08s05_no_ntr_5dd4eec8:
 
     # arj "I got it."
-    arj "I got it."
+    arj "Anladım."
 
 # game/code/e08/e08s05.rpy:1458
 translate turkish e08s05_ntr_678186a6:
 
     # fc "You guys having an orgy and didn't invite me?"
-    fc "You guys having an orgy and didn't invite me?"
+    fc "Seks partisi veriyorsunuz ve beni davet etmediniz mi?"
 
 # game/code/e08/e08s05.rpy:1461
 translate turkish e08s05_ntr_9d4b1bfe:
 
     # ac "Frank, you're here! And not sleeping on the couch!"
-    ac "Frank, you're here! And not sleeping on the couch!"
+    ac "Frank, buradasın! Ve kanepede yatmıyorsun!"
 
 # game/code/e08/e08s05.rpy:1464
 translate turkish e08s05_ntr_20f84ade:
 
     # fc "I was having a very sexy dream."
-    fc "I was having a very sexy dream."
+    fc "Çok seksi bir rüya görüyordum."
 
 # game/code/e08/e08s05.rpy:1467
 translate turkish e08s05_ntr_61675bb4:
 
     # ac "Did it involve the three of us?"
-    ac "Did it involve the three of us?"
+    ac "Üçümüzü mü ilgilendiriyordu?"
 
 # game/code/e08/e08s05.rpy:1470
 translate turkish e08s05_ntr_a170e97f:
 
     # fc "I'll tell you what it involves."
-    fc "I'll tell you what it involves."
+    fc "Size neleri içerdiğini anlatacağım."
 
 # game/code/e08/e08s05.rpy:1480
 translate turkish e08s05_ntr_f4a4a9b4:
 
     # arj "Holy shit. This is so fucking hot."
-    arj "Holy shit. This is so fucking hot."
+    arj "Kahretsin. Bu çok ateşli."
 
 # game/code/e08/e08s05.rpy:1481
 translate turkish e08s05_ntr_c0b699fd:
 
     # arj "Just like that, Frank, swirl your tongue around. Don't use your teeth."
-    arj "Just like that, Frank, swirl your tongue around. Don't use your teeth."
+    arj "Aynen öyle, Frank, dilini döndür. Dişlerini kullanma."
 
 # game/code/e08/e08s05.rpy:1484
 translate turkish e08s05_ntr_e6335de0:
 
     # fc "Why not?"
-    fc "Why not?"
+    fc "Neden olmasın?"
 
 # game/code/e08/e08s05.rpy:1485
 translate turkish e08s05_ntr_a10a6367:
 
     # fc "Ashley likes getting her pussy bitten."
-    fc "Ashley likes getting her pussy bitten."
+    fc "Ashley amının ısırılmasını seviyor."
 
 # game/code/e08/e08s05.rpy:1489
 translate turkish e08s05_ntr_c86ab987:
 
     # arj "So that's what these are, bite marks."
-    arj "So that's what these are, bite marks."
+    arj "Demek bunlar ısırık izleri."
 
 # game/code/e08/e08s05.rpy:1490
 translate turkish e08s05_ntr_21a579da:
 
     # mc "What's going on over there, I can't see."
-    mc "What's going on over there, I can't see."
+    mc "Orada neler oluyor, göremiyorum."
 
 # game/code/e08/e08s05.rpy:1492
 translate turkish e08s05_ntr_ed8e7441:
 
     # ac "You're fucking me, she's licking my pussy, and he's licking her pussy."
-    ac "You're fucking me, she's licking my pussy, and he's licking her pussy."
+    ac "Sen beni beceriyorsun, o benim amcığımı yalıyor ve o da onun amcığını yalıyor."
 
 # game/code/e08/e08s05.rpy:1507
 translate turkish e08s05_ntr_c2ab36af:
 
     # arj "Ow! No teeth!"
-    arj "Ow! No teeth!"
+    arj "Ah! Diş yok!"
 
 # game/code/e08/e08s05.rpy:1508
 translate turkish e08s05_ntr_24038fba:
 
     # fc "Alright. I've got something for you then."
-    fc "Alright. I've got something for you then."
+    fc "Pekala. O zaman senin için bir şeyim var."
 
 # game/code/e08/e08s05.rpy:1516
 translate turkish e08s05_ntr_30e8eb9a:
 
     # arj "Fuck!"
-    arj "Fuck!"
+    arj "Siktir!"
 
 # game/code/e08/e08s05.rpy:1520
 translate turkish e08s05_ntr_49197c4d:
 
     # arj "You're going all the way in without warning me."
-    arj "You're going all the way in without warning me."
+    arj "Beni uyarmadan sonuna kadar giriyorsun."
 
 # game/code/e08/e08s05.rpy:1538
 translate turkish e08s05_ntr_b26b2c54:
 
     # fc "I know you wanted it all this time. Fucking while I was watching, now I'm fucking you."
-    fc "I know you wanted it all this time. Fucking while I was watching, now I'm fucking you."
+    fc "Bunca zamandır bunu istediğini biliyorum. Ben izlerken sikişiyordun, şimdi seni sikiyorum."
 
 # game/code/e08/e08s05.rpy:1540
 translate turkish e08s05_ntr_0e0296ae:
@@ -2212,61 +2212,61 @@ translate turkish e08s05_ntr_0e0296ae:
 translate turkish e08s05_ntr_87dc4c52:
 
     # fc "Your pussy is making all sorts of noises."
-    fc "Your pussy is making all sorts of noises."
+    fc "Amın her türlü sesi çıkarıyor."
 
 # game/code/e08/e08s05.rpy:1562
 translate turkish e08s05_ntr_56fecc34:
 
     # mc "Her pussy is dripping wet. She's been slowly cumming this entire time."
-    mc "Her pussy is dripping wet. She's been slowly cumming this entire time."
+    mc "Onun amcıktan su damlıyor. Tüm bu süre boyunca yavaş yavaş boşaldı."
 
 # game/code/e08/e08s05.rpy:1565
 translate turkish e08s05_ntr_692c3ef1:
 
     # ac "Frank! You're fucking me too hard. You went in raw, slow down."
-    ac "Frank! You're fucking me too hard. You went in raw, slow down."
+    ac "Frank! Beni çok sert beceriyorsun. Kayganlaşmamışsın, yavaşla."
 
 # game/code/e08/e08s05.rpy:1566
 translate turkish e08s05_ntr_67e28175:
 
     # ac "I was going to let [mcname] fuck my ass."
-    ac "I was going to let [mcname] fuck my ass."
+    ac "[mcname]'nin kıçımı becermesine izin verecektim."
 
 # game/code/e08/e08s05.rpy:1574
 translate turkish e08s05_ntr_71c8441f:
 
     # fc "You still can, don't mind me."
-    fc "You still can, don't mind me."
+    fc "Hala yapabilirsin, bana aldırma."
 
 # game/code/e08/e08s05.rpy:1575
 translate turkish e08s05_ntr_5a43d462:
 
     # ac "You're fucking both of my fucking holes!"
-    ac "You're fucking both of my fucking holes!"
+    ac "Benim iki deliğimi de sikiyorsun!"
 
 # game/code/e08/e08s05.rpy:1578
 translate turkish e08s05_ntr_e5392805:
 
     # fc "Let's cum at the same time."
-    fc "Let's cum at the same time."
+    fc "Aynı anda boşalalım."
 
 # game/code/e08/e08s05.rpy:1579
 translate turkish e08s05_ntr_f883a131:
 
     # ac "I'm going to cum."
-    ac "I'm going to cum."
+    ac "Ben boşalıyorum."
 
 # game/code/e08/e08s05.rpy:1583
 translate turkish e08s05_ntr_5466be63:
 
     # mc "I can't hold it anymore."
-    mc "I can't hold it anymore."
+    mc "Artık dayanamıyorum."
 
 # game/code/e08/e08s05.rpy:1587
 translate turkish e08s05_ntr_38cb8147:
 
     # mc "Fuck!"
-    mc "Fuck!"
+    mc "Siktir!"
 
 # game/code/e08/e08s05.rpy:1591
 translate turkish e08s05_ntr_3a457cf7:
@@ -2278,25 +2278,25 @@ translate turkish strings:
 
     # game/code/e08/e08s05.rpy:92
     old "Two days later"
-    new "Two days later"
+    new "İki gün sonra"
 
     # game/code/e08/e08s05.rpy:450
     old "At the party"
-    new "At the party"
+    new "Partide"
 
     # game/code/e08/e08s05.rpy:921
     old "Stick around"
-    new "Stick around"
+    new "Etrafta dolanmak"
 
     # game/code/e08/e08s05.rpy:921
     old "Grab the utensils and leave"
-    new "Grab the utensils and leave"
+    new "Gereçleri al ve git"
 
     # game/code/e08/e08s05.rpy:1247
     old "Shut the door"
-    new "Shut the door"
+    new "Kapıyı kapat"
 
     # game/code/e08/e08s05.rpy:1247
     old "Leave the door open"
-    new "Leave the door open"
+    new "Kapıyı açık bırak"
 
