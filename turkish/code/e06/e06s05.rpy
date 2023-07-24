@@ -148,13 +148,13 @@ translate turkish e06s05_3dcd77fd:
 translate turkish e06s05_b7687316:
 
     # arj "Wait and see... {w}or, wait and listen, I guess."
-    arj "Benim de ağzımı tıkamayı mı planlıyorsun?"
+    arj "Bekle ve gör... {w}veya bekle ve dinle sanırım."
 
 # game/code/e06/e06s05.rpy:162
 translate turkish e06s05_7af77e4e:
 
     # lc "Are you planning to gag me as well?"
-    lc "Are you planning to gag me as well?"
+    lc "Beni de mi susturmayı planlıyorsun?"
 
 # game/code/e06/e06s05.rpy:164
 translate turkish e06s05_18c9ef3d:
