@@ -348,7 +348,7 @@ translate turkish strings:
 
     # renpy/common/00director.rpy:705
     old "The interactive director is not enabled here."
-    new "The interactive director is not enabled here."
+    new "Etkileşimli yönetim burada etkin değil."
 
     # renpy/common/00director.rpy:1504
     old "⬆"
