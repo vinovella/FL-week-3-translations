@@ -28,13 +28,13 @@ translate turkish e02s02_478b9332:
 translate turkish e02s02_ad7eaaaa:
 
     # mh "About what?"
-    mh "About what?"
+    mh "Ne hakkında?"
 
 # game/code/e02/e02s02.rpy:40
 translate turkish e02s02_b6818d71:
 
     # mc "You know."
-    mc "Ne hakkında?"
+    mc "Biliyorsun."
 
 # game/code/e02/e02s02.rpy:43
 translate turkish e02s02_bca0ef8c:
@@ -574,5 +574,5 @@ translate turkish strings:
 
     # game/code/e02/e02s02.rpy:18
     old "The next day"
-    new "The next day"
+    new "Sonraki gün"
 
