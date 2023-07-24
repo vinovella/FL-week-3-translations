@@ -1192,7 +1192,7 @@ translate turkish d17s06dd_cd51dfc9:
 translate turkish d17s06dd_def0ad19:
 
     # mc "What is it?"
-    mc "What is it?"
+    mc "Bu da nedir?"
 
 # game/code/d17/d17s06dd.rpy:702
 translate turkish d17s06dd_214eeab7:
