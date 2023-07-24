@@ -8,7 +8,7 @@ translate turkish strings:
 
     # game/code/screens/extended/screens_fl.rpy:25
     old "Replay Room"
-    new "Tekrar Oynatma Odası"
+    new "Replay Odası"
 
     # game/code/screens/extended/screens_fl.rpy:31
     old "Bonus Content"
@@ -24,7 +24,7 @@ translate turkish strings:
 
     # game/code/screens/extended/screens_fl.rpy:51
     old "Page [page]"
-    new "Sayfa [sayfa]"
+    new "Sayfa [page]"
 
     # game/code/screens/extended/screens_fl.rpy:111
     old "<"
@@ -37,4 +37,3 @@ translate turkish strings:
     # game/code/screens/extended/screens_fl.rpy:143
     old "Coming Soon"
     new "Yakında"
-

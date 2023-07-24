@@ -216,9 +216,8 @@ translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:1257
     old "Skip Recap\nof Week-1"
-    new "1. Hafta Özetini Atla\n"
+    new "1. Hafta\nÖzetini Atla"
 
     # game/code/screens/screens_fl.rpy:1263
     old "Skip Recap\nof Week-2"
-    new "2. Hafta Özetini Atla\n"
-
+    new "2. Hafta\nÖzetini Atla"

@@ -44,7 +44,7 @@ translate turkish strings:
 
     # game/code/screens/extended/screens.rpy:212
     old "LOAD A SAVE FROM WEEK 2"
-    new "2. HAFTA KAYIT DOSYASINI YÜKLE"
+    new "2. HAFTA\nKAYIT DOSYASINI YÜKLE"
 
     # game/code/screens/extended/screens.rpy:244
     old "ABOUT"
@@ -60,7 +60,7 @@ translate turkish strings:
 
     # game/code/screens/extended/screens.rpy:318
     old "REPLAY ROOM"
-    new "TEKRAR OYNATMA ODASI"
+    new "REPLAY ODASI"
 
     # game/code/screens/extended/screens.rpy:335
     old "BONUS CONTENT"
@@ -73,4 +73,3 @@ translate turkish strings:
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Vinovella University on Steam"
     new "İstek Listesi Vinovella University Steam'de"
-

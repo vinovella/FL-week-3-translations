@@ -236,7 +236,7 @@ translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:234
     old "HIGH SCORE :\n[persistent.minigame_max_score]"
-    new "YÜKSEK PUAN :\n[persistent.minigame_max_score]"
+    new "YÜKSEK\nPUAN :\n[persistent.minigame_max_score]"
 
     # game/code/data/extended/extra_gallery.rpy:266
     old "HOW MANY ENDINGS HAVE YOU UNLOCKED?"
@@ -252,7 +252,7 @@ translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:291
     old "6 endings\naren't enough.\nI need all 18 now!!!"
-    new "6 son\nyeterli değil.\nŞimdi 18 sonun hepsine ihtiyacım var!!!"
+    new "6 son yeterli değil.\nŞimdi 18 sonun\nhepsine\nihtiyacım var!!!"
 
     # game/code/data/extended/extra_gallery.rpy:292
     old "{b}CHANGE MY MIND{/b}"
@@ -264,11 +264,11 @@ translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:352
     old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
-    new "KİMSENİN\nŞANTAJ GÖRMEYECEĞİNDEN EMİN OLMAK İÇİN"
+    new "KİMSENİN ŞANTAJ\nGÖRMEYECEĞİNDEN\nEMİN OLMAK İÇİN"
 
     # game/code/data/extended/extra_gallery.rpy:354
     old "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
-    new "BUNU\nİYİ İÇİN KULLANACAKSINIZ , DEĞİL Mİ?"
+    new "BUNU İYİ İÇİN\nKULLANACAKSINIZ,\nDEĞİL Mİ?"
 
     # game/code/data/extended/extra_gallery.rpy:355
     old "RIGHT?"
@@ -276,7 +276,7 @@ translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:398
     old "THE FIRST ENDING\nFROM 18 TOTAL ENDINGS"
-    new "TOPLAM 18 SONA GÖRE İLK SON\n"
+    new "TOPLAM 18 SONA\nGÖRE İLK SON"
 
     # game/code/data/extended/extra_gallery.rpy:399
     old "IS THAT A REAL ENDING?"
@@ -288,11 +288,11 @@ translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:537
     old "I receive:"
-    new "alıyorum:"
+    new "Alıyorum:"
 
     # game/code/data/extended/extra_gallery.rpy:538
     old "Cum in every pussy\nat the wedding"
-    new "Düğünde\nher amcığa boşalmak"
+    new "Düğünde her\namcığa boşalmak"
 
     # game/code/data/extended/extra_gallery.rpy:539
     old "You receive:"
@@ -301,4 +301,3 @@ translate turkish strings:
     # game/code/data/extended/extra_gallery.rpy:540
     old "The whole\nharem pregnant"
     new "Bütün\nharem hamile"
-
