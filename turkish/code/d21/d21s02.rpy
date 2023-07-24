@@ -676,7 +676,7 @@ translate turkish d21s02_lc_sy_418b4f2e:
 translate turkish d21s02_lc_sy_a04b5b81:
 
     # mc "I think the plural of nexus is nexus."
-    mc "I think the plural of nexus is nexus."
+    mc "Bence nexus'un çoğulu nexus'tur."
 
 # game/code/d21/d21s02.rpy:415
 translate turkish d21s02_lc_sy_426738d3:
