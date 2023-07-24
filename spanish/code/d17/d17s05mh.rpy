@@ -52,7 +52,7 @@ translate spanish d17s05mh_360413aa:
 translate spanish d17s05mh_a3048b2c:
 
     # mh "How it felt to feel your warmth."
-    mh "Cómo se sentía al sentir tú calor."
+    mh "Cómo me sentí al sentir tu calor."
 
 # game/code/d17/d17s05mh.rpy:120
 translate spanish d17s05mh_f54178c1:
@@ -274,7 +274,7 @@ translate spanish d17s05mh_a1945485:
 translate spanish d17s05mh_6667151b:
 
     # mc "Not yet. Just wait a bit more."
-    mc "Aún no. Solo espera un poco más."
+    mc "Todavía no. Espera un poco más."
 
 # game/code/d17/d17s05mh.rpy:344
 translate spanish d17s05mh_a352ddfd:
@@ -292,7 +292,7 @@ translate spanish d17s05mh_3938e692:
 translate spanish d17s05mh_832c6529:
 
     # mh "*Staggered moans* I love you so much, [mcname]."
-    mh "*gemidos entrecortados* Te amo mucho, [mcname]."
+    mh "*Gemidos entrecortados* Te amo mucho, [mcname]."
 
 # game/code/d17/d17s05mh.rpy:377
 translate spanish d17s05mh_13c5c40d:
@@ -304,7 +304,7 @@ translate spanish d17s05mh_13c5c40d:
 translate spanish d17s05mh_f311de19:
 
     # mh "*Primal moans* Right there, keep going... *Moans get even louder*."
-    mh "*gemidos* Justo ahí, sigue adelante... *Los gemidos se hacen aún más fuertes*."
+    mh "*Gemidos* Justo ahí, sigue adelante... *Los gemidos se hacen aún más fuertes*."
 
 # game/code/d17/d17s05mh.rpy:438
 translate spanish d17s05mh_7028cb9f:
@@ -388,7 +388,7 @@ translate spanish d17s05mh_cuddle_674b884d:
 translate spanish d17s05mh_cuddle_201436dc:
 
     # mc "*Chuckles* I know, I know, I'm just messing with you."
-    mc "*Risas* Lo sé, lo sé, solo estoy bromeando contigo."
+    mc "*Risas* Lo sé, lo sé, sólo estoy bromeando contigo."
 
 # game/code/d17/d17s05mh.rpy:563
 translate spanish d17s05mh_cuddle_2fd79a02:
@@ -448,13 +448,13 @@ translate spanish d17s05mh_cuddle_b512f1d5:
 translate spanish d17s05mh_cuddle_5243a774:
 
     # mh "I would if I could. It's a lot of things really."
-    mh "Yo lo haría si pudiera. Son muchas cosas realmente."
+    mh "Lo haría si pudiera. En realidad son muchas cosas."
 
 # game/code/d17/d17s05mh.rpy:588
 translate spanish d17s05mh_cuddle_e6bf6e9f:
 
     # mh "The point is. I wanted to talk about some of it with you."
-    mh "El punto es. Quería hablar de algo contigo."
+    mh "El punto es... Quería hablar de algo contigo."
 
 # game/code/d17/d17s05mh.rpy:591
 translate spanish d17s05mh_cuddle_1006283e:
