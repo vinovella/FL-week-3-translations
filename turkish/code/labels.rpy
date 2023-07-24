@@ -624,5 +624,5 @@ translate turkish strings:
 translate turkish after_credits_cb03f950:
 
     # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+    sy "Oyunu kesinlikle {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist Steam'de oynamalıyım{/u}{/a} O zaman!"
 
