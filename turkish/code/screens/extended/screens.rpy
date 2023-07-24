@@ -72,5 +72,5 @@ translate turkish strings:
 
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Vinovella University on Steam"
-    new "Wishlist Vinovella University on Steam"
+    new "İstek Listesi Vinovella University Steam'de"
 
