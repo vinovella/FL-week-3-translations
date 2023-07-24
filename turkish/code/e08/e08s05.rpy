@@ -2092,7 +2092,7 @@ translate turkish e08s05_no_ntr_d6579c5e:
 translate turkish e08s05_no_ntr_32171b97:
 
     # mc "And then you're going to rim my asshole together so I can cum in your mouths another time, you got it?"
-    mc "And then you're going to rim my asshole together so I can cum in your mouths another time, you got it?"
+    mc "Ve sonra bir dahaki sefere senin ağzına boşalayım diye kıç deliğimi çevreleyeceksin, anladın mı?"
 
 # game/code/e08/e08s05.rpy:1427
 translate turkish e08s05_no_ntr_5dd4eec8:
