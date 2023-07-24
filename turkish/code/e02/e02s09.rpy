@@ -358,7 +358,7 @@ translate turkish e02s09_home_b789d6af:
 translate turkish e02s09_home_f2aa0a58:
 
     # mc "Don't be. We've gone over this."
-    mc "Don't be. We've gone over this."
+    mc "Olma. Bunun üzerinden geçtik."
 
 # game/code/e02/e02s09.rpy:197
 translate turkish e02s09_home_5ecf90d7:
