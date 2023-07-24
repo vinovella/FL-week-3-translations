@@ -335,12 +335,12 @@ translate malay strings:
     new "Increases chance of unlocking Daisy Pregnancy Ending."
 
     # game/code/hints.rpy:5
-    old "Lose option for Polly/Nora/MC Threesome ending."
-    new "Lose option for Polly/Nora/MC Threesome ending."
+    old "Lose option for Polly/Nora/[mcname] Threesome ending."
+    new "Lose option for Polly/Nora/[mcname] Threesome ending."
 
     # game/code/hints.rpy:5
-    old "Increases chance of Polly/Nora/MC Threesome ending."
-    new "Increases chance of Polly/Nora/MC Threesome ending."
+    old "Increases chance of Polly/Nora/[mcname] Threesome ending."
+    new "Increases chance of Polly/Nora/[mcname] Threesome ending."
 
     # game/code/hints.rpy:5
     old "You will start a relationship with Jessie. Necessary for Ending 16."
@@ -939,8 +939,8 @@ translate malay strings:
     new "You give Lyssa a blowjob. This is an optional scene."
 
     # game/code/hints.rpy:5
-    old "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
-    new "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
+    old "This option skips the blowjob scene. Scene goes to Lyssa and [mcname] indoors."
+    new "This option skips the blowjob scene. Scene goes to Lyssa and [mcname] indoors."
 
     # game/code/hints.rpy:5
     old "You do both."

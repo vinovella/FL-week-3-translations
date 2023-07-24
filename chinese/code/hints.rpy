@@ -335,12 +335,12 @@ translate chinese strings:
     new "增加解锁黛西怀孕结局的几率。"
 
     # game/code/hints.rpy:5
-    old "Lose option for Polly/Nora/MC Threesome ending."
-    new "失去波莉/诺拉/MC三人行结局的选择机会。"
+    old "Lose option for Polly/Nora/[mcname] Threesome ending."
+    new "失去波莉/诺拉/[mcname]三人行结局的选择机会。"
 
     # game/code/hints.rpy:5
-    old "Increases chance of Polly/Nora/MC Threesome ending."
-    new "增加波莉/诺拉/MC三人行结局的选择机会。"
+    old "Increases chance of Polly/Nora/[mcname] Threesome ending."
+    new "增加波莉/诺拉/[mcname]三人行结局的选择机会。"
 
     # game/code/hints.rpy:5
     old "You will start a relationship with Jessie. Necessary for Ending 16."
@@ -919,8 +919,8 @@ translate chinese strings:
     new "你给丽莎口交。这是一个可选场景。"
 
     # game/code/hints.rpy:5
-    old "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
-    new "这个选项会跳过口交的场景。场景转到丽莎和MC的室内。"
+    old "This option skips the blowjob scene. Scene goes to Lyssa and [mcname] indoors."
+    new "这个选项会跳过口交的场景。场景转到丽莎和[mcname]的室内。"
 
     # game/code/hints.rpy:5
     old "You do both."

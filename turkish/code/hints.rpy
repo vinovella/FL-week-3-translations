@@ -335,12 +335,12 @@ translate turkish strings:
     new "Daisy Gebelik Sonu'nun kilidini açma şansını artırır."
 
     # game/code/hints.rpy:5
-    old "Lose option for Polly/Nora/MC Threesome ending."
-    new "Polly/Nora/MC Üçlü sonu için seçeneği kaybetme."
+    old "Lose option for Polly/Nora/[mcname] Threesome ending."
+    new "Polly/Nora/[mcname] Üçlü sonu için seçeneği kaybetme."
 
     # game/code/hints.rpy:5
-    old "Increases chance of Polly/Nora/MC Threesome ending."
-    new "Polly/Nora/MC Üçlünün sona ermesi şansını artırır."
+    old "Increases chance of Polly/Nora/[mcname] Threesome ending."
+    new "Polly/Nora/[mcname] Üçlünün sona ermesi şansını artırır."
 
     # game/code/hints.rpy:5
     old "You will start a relationship with Jessie. Necessary for Ending 16."
@@ -939,8 +939,8 @@ translate turkish strings:
     new "Lyssa'ya oral seks yap. Bu isteğe bağlı bir sahne."
 
     # game/code/hints.rpy:5
-    old "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
-    new "Bu seçenek oral seks sahnesini atlar. Sahne içeride Lyssa ve MC'ye gider."
+    old "This option skips the blowjob scene. Scene goes to Lyssa and [mcname] indoors."
+    new "Bu seçenek oral seks sahnesini atlar. Sahne içeride Lyssa ve [mcname]'ye gider."
 
     # game/code/hints.rpy:5
     old "You do both."

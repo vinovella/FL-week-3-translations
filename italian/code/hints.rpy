@@ -335,12 +335,12 @@ translate italian strings:
     new "Aumenta la possibilità di sbloccare il finale con la gravidanza di Daisy."
 
     # game/code/hints.rpy:5
-    old "Lose option for Polly/Nora/MC Threesome ending."
-    new "Perdi l'opzione del finale con un threesome tra Polly/Nora/MC."
+    old "Lose option for Polly/Nora/[mcname] Threesome ending."
+    new "Perdi l'opzione del finale con un threesome tra Polly/Nora/[mcname]."
 
     # game/code/hints.rpy:5
-    old "Increases chance of Polly/Nora/MC Threesome ending."
-    new "Aumenta la possibilità del finale con un threesome tra Polly/Nora/MC."
+    old "Increases chance of Polly/Nora/[mcname] Threesome ending."
+    new "Aumenta la possibilità del finale con un threesome tra Polly/Nora/[mcname]."
 
     # game/code/hints.rpy:5
     old "You will start a relationship with Jessie. Necessary for Ending 16."
@@ -939,7 +939,7 @@ translate italian strings:
     new "Farai un pompino a Lyssa. Questa è una scena opzionale"
 
     # game/code/hints.rpy:5
-    old "This option skips the blowjob scene. La scena va a Lyssa and MC al chiuso."
+    old "This option skips the blowjob scene. La scena va a Lyssa and [mcname] al chiuso."
     new "Questa opzione salta la scena del pompino. ."
 
     # game/code/hints.rpy:5
@@ -1159,6 +1159,6 @@ translate italian strings:
 translate italian strings:
 
     # game/code/hints.rpy:5
-    old "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
-    new "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
+    old "This option skips the blowjob scene. Scene goes to Lyssa and [mcname] indoors."
+    new "This option skips the blowjob scene. Scene goes to Lyssa and [mcname] indoors."
 
