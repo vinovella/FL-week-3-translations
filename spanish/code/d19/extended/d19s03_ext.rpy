@@ -88,7 +88,7 @@ translate spanish d19s03_ext_d2e383bc:
 translate spanish d19s03_ext_de3dea1c:
 
     # mc "Oh, Lyssa, I'm so sorry. I just... It's just... It's a whole thing, I must've missed your messages."
-    mc "Oh, Lyssa, lo siento mucho. Yo solo... Es todo un asunto, debo haberme perdido tus mensajes."
+    mc "Oh, Lyssa, lo siento mucho. Yo sólo... Es que... Es todo, debo haberme perdido tus mensajes."
 
 # game/code/d19/extended/d19s03_ext.rpy:112
 translate spanish d19s03_ext_a1def297:
@@ -352,7 +352,7 @@ translate spanish d19s03_bj_66fd117c:
 translate spanish d19s03_bj_c729ebcd:
 
     # mc "I'll hold your head down, slap my thigh if it's too much, alright?"
-    mc "Mantendré tu cabeza abajo, golpearé mi muslo si es demasiado, ¿de acuerdo?"
+    mc "Mantendré tu cabeza abajo, golpea mi muslo si es demasiado, ¿de acuerdo?"
 
 # game/code/d19/extended/d19s03_ext.rpy:315
 translate spanish d19s03_bj_2df0c4c8:
@@ -382,7 +382,7 @@ translate spanish d19s03_bj_7cd16f8d:
 translate spanish d19s03_bj_3ebf028d:
 
     # mc "C'mon. Get in the bed. I want to you up today."
-    mc "Vamos. Métete en la cama. Quiero que te levantes hoy."
+    mc "Vamos. Súbete a la cama. Quiero que te levantes hoy."
 
 # game/code/d19/extended/d19s03_ext.rpy:363
 translate spanish d19s03_bj_55af7362:
@@ -394,7 +394,7 @@ translate spanish d19s03_bj_55af7362:
 translate spanish d19s03_bj_19690819:
 
     # mc "Get in the bed."
-    mc "Métete en la cama."
+    mc "Súbete a la cama."
 
 # game/code/d19/extended/d19s03_ext.rpy:367
 translate spanish d19s03_bj_30674233:
@@ -406,7 +406,7 @@ translate spanish d19s03_bj_30674233:
 translate spanish d19s03_bj_a857599d:
 
     # mc "Get in the bed. I'm going to fill you up today."
-    mc "Métete en la cama. Te voy a llenar hoy."
+    mc "Súbete a la cama. Voy a llenarte hoy."
 
 # game/code/d19/extended/d19s03_ext.rpy:377
 translate spanish d19s03_sex_9fa78a21:
@@ -424,13 +424,13 @@ translate spanish d19s03_sex_48cabde0:
 translate spanish d19s03_sex_212ddd0e:
 
     # mh "*Lost in the bliss* Yes... Yes... Just like that. You feel so good."
-    mh "*Perdida en la felicidad* Sí... Sí... Solo así. Te sientes muy bien."
+    mh "*Perdida en la felicidad* Sí... Sí... Sólo así. Te sientes muy bien."
 
 # game/code/d19/extended/d19s03_ext.rpy:406
 translate spanish d19s03_sex_6708e611:
 
     # mc "Fuck, Lyssa. It feels like you've only gotten tighter."
-    mc "Mierda, Lyssa. Se siente como si solo te hubieras vuelto más apretada."
+    mc "Mierda, Lyssa. Se siente como si sólo te hubieras vuelto más apretada."
 
 # game/code/d19/extended/d19s03_ext.rpy:419
 translate spanish d19s03_sex_8f6cdacc:
@@ -460,7 +460,7 @@ translate spanish d19s03_sex_afe7be29_1:
 translate spanish d19s03_sex_48c45880:
 
     # mc "Fuck, Lyssa. I needed that."
-    mc "Joder, Lyssa. Yo necesitaba eso."
+    mc "Mierda, Lyssa. Yo necesitaba eso."
 
 # game/code/d19/extended/d19s03_ext.rpy:516
 translate spanish d19s03_sex_e7848047:
@@ -862,7 +862,7 @@ translate spanish d19s03_ask_mh_d1ad5357:
 translate spanish d19s03_ask_mh_dfc0300d:
 
     # mc "So I wanted to ask if you knew if there were some sort of...I don't know. Legal action that I could take."
-    mc "Así que quería preguntarte si sabías si había algún tipo de... no sé. Acciones legales que podría tomar."
+    mc "Así que quería preguntarte si sabías si hay algún tipo de... no sé. Acción legal que pudiera tomar."
 
 # game/code/d19/extended/d19s03_ext.rpy:826
 translate spanish d19s03_ask_mh_b79150bb:
@@ -976,7 +976,7 @@ translate spanish d19s03_ask_mh_240e05b3:
 translate spanish d19s03_ask_mh_5dee11f7:
 
     # mc "*Exhales* Okay. So lure Zarah out, talk with her, and see if we can get any incriminating information out of her."
-    mc "*Exhala* Está bien. Así que atrae a Zarah, habla con ella y mira si podemos sacarle alguna información incriminatoria."
+    mc "*Exhala* Está bien. Entonces atraemos a Zarah, hablamos con ella, y vemos si podemos sacarle alguna información incriminatoria."
 
 # game/code/d19/extended/d19s03_ext.rpy:862
 translate spanish d19s03_ask_mh_e7608abd:
@@ -994,7 +994,7 @@ translate spanish d19s03_ask_mh_a4fc5b00:
 translate spanish d19s03_ask_mh_1367b8a9:
 
     # mh "Not exactly. But I'm sure I can make some time. Just let me know when you need me."
-    mh "No exactamente. Pero estoy segura de que puedo hacer algo de tiempo. Solo avísame cuando me necesites."
+    mh "No exactamente. Pero estoy segura de que puedo hacer algo de tiempo. Sólo avísame cuando me necesites."
 
 # game/code/d19/extended/d19s03_ext.rpy:875
 translate spanish d19s03_ask_mh_83078e78:
