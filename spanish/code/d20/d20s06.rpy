@@ -340,7 +340,7 @@ translate spanish d20s06_c316efd8:
 translate spanish d20s06_8a5b0bbc:
 
     # "Employee" "I'm gonna have to escort you two out. Sorry, man. Policy."
-    "Empleado" "Voy a tener que escoltarlos fuera. Lo siento. Es la política."
+    "Empleado" "Voy a tener que escoltarlos afuera. Lo siento. Es la política."
 
 # game/code/d20/d20s06.rpy:284
 translate spanish d20s06_d79fb457:
@@ -376,7 +376,7 @@ translate spanish d20s06_bc78f11b:
 translate spanish d20s06_38a6035a:
 
     # mc "Fuck, Oliver... You've gotten even better at this."
-    mc "Joder, Oliver... Te has vuelto mucho mejor en esto."
+    mc "Mierda, Oliver... Te has vuelto mucho mejor en esto."
 
 # game/code/d20/d20s06.rpy:347
 translate spanish d20s06_60426973:
@@ -448,7 +448,7 @@ translate spanish d20s06_5474fbb5:
 translate spanish d20s06_2ac732ac:
 
     # mc "Block out every other sensation and just feel my hand and my body on you."
-    mc "Bloquea cualquier otra sensación y solo siente mi mano y mi cuerpo sobre ti."
+    mc "Bloquea cualquier otra sensación y sólo siente mi mano y mi cuerpo sobre ti."
 
 # game/code/d20/d20s06.rpy:421
 translate spanish d20s06_6e9abe15:
