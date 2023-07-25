@@ -868,7 +868,7 @@ translate spanish d19s06_lewald_412f71aa:
 translate spanish d19s06_lewald_b1d88aba:
 
     # tl "I see."
-    tl "Ya veo.."
+    tl "Ya veo."
 
 # game/code/d19/d19s06.rpy:562
 translate spanish d19s06_lewald_52a7e482:
@@ -916,7 +916,7 @@ translate spanish d19s06_lewald_5a402f79:
 translate spanish d19s06_lewald_fbee7c8d:
 
     # mc "Cynthia shouldn't be there. Just you, Professor."
-    mc "Cynthia no debería estar allí. Sólo usted, profesora."
+    mc "Cynthia no debería estar allí. Sólo usted, Profesora."
 
 # game/code/d19/d19s06.rpy:597
 translate spanish d19s06_lewald_abfe16b9:
@@ -982,7 +982,7 @@ translate spanish d19s06_lewald_51e0f28b:
 translate spanish d19s06_lewald_e19395db:
 
     # tl "I see... Sir."
-    tl "Ya veo... Señor.."
+    tl "Ya veo... Señor."
 
 # game/code/d19/d19s06.rpy:645
 translate spanish d19s06_lewald_8e845219:
@@ -1022,15 +1022,15 @@ translate spanish strings:
 
     # game/code/d19/d19s06.rpy:469
     old "Call Prof. Lewald"
-    new "Llamar a la profesora Lewald"
+    new "Llamar a la Profesora Lewald"
 
     # game/code/d19/d19s06.rpy:469
     old "Do Not to Influence Prof Lewald"
-    new "No influir en la profesora Lewald"
+    new "No influir en la Profesora Lewald"
 
     # game/code/d19/d19s06.rpy:589
     old "Just the Professor"
-    new "Sólo la profesora"
+    new "Sólo la Profesora"
 
     # game/code/d19/d19s06.rpy:589
     old "Both Cynthia and Her Mother"
