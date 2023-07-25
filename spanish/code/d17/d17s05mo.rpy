@@ -1042,7 +1042,7 @@ translate spanish d17s05mo_8a8091e3:
 translate spanish d17s05mo_dd43b5b2:
 
     # mc "I'm not sure I'd call it \"relaxing\" exactly, though. I was fighting for my life out there."
-    mc "No estoy seguro de llamarlo exactamente \"relajante\". Estaba luchando por mi vida ahí fuera."
+    mc "No estoy seguro de llamarlo exactamente \"relajante\". Estaba luchando por mi vida ahí afuera."
 
 # game/code/d17/d17s05mo.rpy:541
 translate spanish d17s05mo_3f058dd1:
