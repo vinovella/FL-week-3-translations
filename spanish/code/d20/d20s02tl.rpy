@@ -328,7 +328,7 @@ translate spanish d20s02tl_pray_1a696ea6:
 translate spanish d20s02tl_pray_55dec9b0:
 
     # mct "Wow. That sounded pretty cool."
-    mct "Guau. Eso sonó muy bien."
+    mct "Vaya. Eso sonó muy bien."
 
 # game/code/d20/d20s02tl.rpy:257
 translate spanish d20s02tl_pray_1d5f9fe0:
@@ -604,7 +604,7 @@ translate spanish d20s02tl_nude_a1666c34:
 translate spanish d20s02tl_nude_1823c32d:
 
     # mc "You did well.{w} Just remember this is about discipline, not pleasure."
-    mc "Lo hiciste bien. {w} Solo recuerda que se trata de disciplina, no de placer."
+    mc "Lo hiciste bien. {w} Sólo recuerda que se trata de disciplina, no de placer."
 
 # game/code/d20/d20s02tl.rpy:417
 translate spanish d20s02tl_nude_05b35af9:
@@ -628,7 +628,7 @@ translate spanish d20s02tl_nude_7631d455:
 translate spanish d20s02tl_nude_265caea6:
 
     # mc "I'm going to let you fuck yourself on my hard dick, Theresa."
-    mc "Voy a dejar que te folles en mi polla dura, Theresa."
+    mc "Voy a dejar que te folles a ti misma con mi polla dura, Theresa."
 
 # game/code/d20/d20s02tl.rpy:444
 translate spanish d20s02tl_whip_c6dc508a:
@@ -724,7 +724,7 @@ translate spanish d20s02tl_whip_5d5d819c:
 translate spanish d20s02tl_whip_74e430cc:
 
     # mc "I can show you a better way, but only if you're honest with me."
-    mc "Puedo mostrarte una mejor manera, pero solo si eres honesta conmigo."
+    mc "Puedo mostrarte una mejor manera, pero sólo si eres honesta conmigo."
 
 # game/code/d20/d20s02tl.rpy:500
 translate spanish d20s02tl_whip_7eef85f2:
@@ -844,7 +844,7 @@ translate spanish d20s02tl_fuck_375bbd09:
 translate spanish d20s02tl_fuck_b20bda7e:
 
     # mc "Becoming a mother was the greatest thing that ever happened to you, yet you were tricked into thinking what?"
-    mc "Convertirte en madre fue lo más grande que te ha pasado en la vida, y sin embargo te engañaron pensando ¿qué?"
+    mc "Convertirte en madre fue lo más grande que te ha pasado en la vida, y sin embargo te engañaron pensando ¿qué?."
 
 # game/code/d20/d20s02tl.rpy:546
 translate spanish d20s02tl_fuck_ee4da7f8:
@@ -868,7 +868,7 @@ translate spanish d20s02tl_fuck_7f7820d7:
 translate spanish d20s02tl_fuck_72710386:
 
     # mc "You carry this guilt unnecessarily. A parent should always be there for their child."
-    mc "Llevas esta culpa innecesariamente. Un padre siempre debe estar ahí para su hijo."
+    mc "Cargas con esta culpa innecesariamente. Una madre siempre debe estar ahí para su hija."
 
 # game/code/d20/d20s02tl.rpy:555
 translate spanish d20s02tl_fuck_0bbd56d9:
@@ -898,7 +898,7 @@ translate spanish d20s02tl_fuck_589968ce:
 translate spanish d20s02tl_fuck_5e2d2e67:
 
     # mc "You will only have sex for enjoyment - for your own pleasure."
-    mc "Sólo tendrás relaciones sexuales para disfrutar, para tu propio placer."
+    mc "Sólo tendrás relaciones sexuales para satisfacer tus necesidades... para tu propio placer."
 
 # game/code/d20/d20s02tl.rpy:568
 translate spanish d20s02tl_fuck_e78b6589:
@@ -916,7 +916,7 @@ translate spanish d20s02tl_fuck_d957818a:
 translate spanish d20s02tl_fuck_999a9add:
 
     # mc "I need your permission, Theresa. You will only have sex for your own pleasure from now on."
-    mc "Necesito tu permiso, Theresa. A partir de ahora, solo tendrás relaciones sexuales para tu propio placer."
+    mc "Necesito tu permiso, Theresa. A partir de ahora, sólo tendrás relaciones sexuales para tu propio placer."
 
 # game/code/d20/d20s02tl.rpy:574
 translate spanish d20s02tl_fuck_b6cff5f9:
@@ -958,7 +958,7 @@ translate spanish d20s02tl_fuck_f94b0801:
 translate spanish d20s02tl_fuck_645ff039:
 
     # mc "No, Theresa. That is a good thing! You should be enjoying this!!"
-    mc "No, Theresa. ¡Esa es una buena cosa! ¡¡Deberías estar disfrutando esto!!"
+    mc "No, Theresa. ¡Esa es bueno! ¡¡Deberías estar disfrutando esto!!"
 
 # game/code/d20/d20s02tl.rpy:596
 translate spanish d20s02tl_fuck_f0208f70:
@@ -1126,7 +1126,7 @@ translate spanish d20s02tl_cum_ab50a3ea:
 translate spanish d20s02tl_cum_7894753c:
 
     # tl "What stamina! How are you still going like this?!"
-    tl "¡Qué resistencia! ¡¿Cómo sigues así?!"
+    tl "¡Qué resistencia! ¡¿Cómo puedes seguir haciéndolo?!"
 
 # game/code/d20/d20s02tl.rpy:699
 translate spanish d20s02tl_cum_9efe0404:
@@ -1246,7 +1246,7 @@ translate spanish d20s02tl_fail_58bd9e48_1:
 translate spanish d20s02tl_fail_9c563731:
 
     # tl "You sought to corrupt me with your perverted ways???"
-    tl "¿Intentaste corromperme con tus pervertidas maneras?"
+    tl "¿Intentaste corromperme con tus pervertidos métodos?"
 
 # game/code/d20/d20s02tl.rpy:778
 translate spanish d20s02tl_fail_5262839d:
@@ -1270,7 +1270,7 @@ translate spanish d20s02tl_fail_b0c2e114:
 translate spanish d20s02tl_cl_ea1f2baa:
 
     # cl "I finished my prayers... WHAT THE HELL?! [mcname!u]??!! "
-    cl "Terminé mis oraciones... ¡¿QUÉ RAYOS?! ¡¡¿¿[mcname!u]??!!"
+    cl "Terminé mis oraciones... ¡¿QUÉ MIERDA?! ¡¡¿¿[mcname!u]??!!"
 
 # game/code/d20/d20s02tl.rpy:795
 translate spanish d20s02tl_cl_a3eb3b17:
@@ -1384,7 +1384,7 @@ translate spanish d20s02tl_cl_cf72da4b:
 translate spanish d20s02tl_cl_9df9c72e:
 
     # mc "Now it is time for me to fuck you both together.{w} Let's start with Cynthia eating out my ass while Theresa, you can suck my cock."
-    mc "Ahora es el momento de que las folle a ambas juntos. {w} Comencemos con Cynthia comiéndome el culo mientras Theresa, puedes chuparme la polla."
+    mc "Ahora es el momento de que las folle a ambas juntas. {w} Comencemos con Cynthia comiéndome el culo mientras Theresa, puedes chuparme la polla."
 
 # game/code/d20/d20s02tl.rpy:864
 translate spanish d20s02tl_cl_pray_5255fb20:
@@ -1918,7 +1918,7 @@ translate spanish d20s02tl_cl_fuck_8088833f:
 translate spanish d20s02tl_cl_fuck_05a12aef:
 
     # mc "We're going to make sure the same thing doesn't happen to you, Cynthia. Aren't we Theresa?"
-    mc "Nos aseguraremos de que no te pase lo mismo, Cynthia. ¿No somos Theresa?"
+    mc "Vamos a asegurarnos de que no te pase lo mismo, Cynthia. ¿No es así Theresa?"
 
 # game/code/d20/d20s02tl.rpy:1155
 translate spanish d20s02tl_cl_fuck_720c0dce:
@@ -2158,7 +2158,7 @@ translate spanish d20s02tl_end_05f7d2af:
 translate spanish d20s02tl_end_23aa0c99:
 
     # tl "Was any of this real for you? Or was this just a game?"
-    tl "¿Algo de esto fue real para ti? ¿O esto era solo un juego?"
+    tl "¿Algo de esto fue real para ti? ¿O era sólo un juego?"
 
 # game/code/d20/d20s02tl.rpy:1294
 translate spanish d20s02tl_end_e64d1d60:
