@@ -532,7 +532,7 @@ translate spanish d19s09_double_bj_e5d02404:
 translate spanish d19s09_double_bj_f608533b:
 
     # sy "Wow! I didn't know you were a squirter."
-    sy "¡Guau! No sabía que eras una squirter."
+    sy "¡Vaya! No sabía que eras una squirter."
 
 # game/code/d19/d19s09.rpy:792
 translate spanish d19s09_double_bj_7313cafa:
@@ -586,7 +586,7 @@ translate spanish d19s09_double_bj_a02b9658:
 translate spanish d19s09_double_bj_a41c5367:
 
     # arj "See who [mcname] {i}really{/i} likes."
-    arj "Mira a quién le gusta [mcname] {i}realmente{/i}."
+    arj "Mira a quién le gusta {i}de verdad{/i} [mcname]."
 
 # game/code/d19/d19s09.rpy:837
 translate spanish d19s09_double_bj_5d3cfd37:
@@ -622,7 +622,7 @@ translate spanish d19s09_fuck_arj_06734da2:
 translate spanish d19s09_fuck_arj_87e31955:
 
     # sy "Fuck even harder, make her feel you. Do it!"
-    sy "Folla aún más fuerte, haz que te sienta. ¡Hazlo!"
+    sy "Fóllala más fuerte, haz que te sienta. ¡Hazlo!"
 
 # game/code/d19/d19s09.rpy:897
 translate spanish d19s09_fuck_arj_e79b6722:
@@ -724,7 +724,7 @@ translate spanish d19s09_end_a4b021ff:
 translate spanish d19s09_end_d6537549:
 
     # arj "*Laughs* This was supposed to teach you to cook."
-    arj "*Risas* Se suponía que esto te enseñaría a cocinar."
+    arj "*Risas* Se suponía que les enseñaría a cocinar."
 
 # game/code/d19/d19s09.rpy:1069
 translate spanish d19s09_end_ffff1501:
@@ -784,7 +784,7 @@ translate spanish d19s09_end_f756a09d:
 translate spanish d19s09_end_d54008fa:
 
     # sy "Look, I hate the people behind it as much as you two. They can burn in hell."
-    sy "Miren, odio a la gente detrás de esto tanto como ustedes dos. Pueden arder en el infierno."
+    sy "Miren, odio a la gente detrás de esto tanto como ustedes dos. Ellos pueden arder en el infierno."
 
 # game/code/d19/d19s09.rpy:1094
 translate spanish d19s09_end_2862453c:
@@ -796,7 +796,7 @@ translate spanish d19s09_end_2862453c:
 translate spanish d19s09_end_c77d1b7b:
 
     # sy "We now basically have total control of it. We could do anything with it."
-    sy "Ahora básicamente tenemos el control total de la misma. Podríamos hacer cualquier cosa con él."
+    sy "Ahora básicamente tenemos el control total. Podemos hacer cualquier cosa con él."
 
 # game/code/d19/d19s09.rpy:1098
 translate spanish d19s09_end_0e45a05c:
@@ -838,7 +838,7 @@ translate spanish d19s09_end_64106560:
 translate spanish d19s09_end_241d7c1d:
 
     # mc "All I know for sure is that I'm so fucking tired."
-    mc "Todo lo que sé con certeza es que estoy tan jodidamente cansado."
+    mc "Lo único que sé con certeza es que estoy muy cansado."
 
 # game/code/d19/d19s09.rpy:1115
 translate spanish d19s09_end_85d336ec:
