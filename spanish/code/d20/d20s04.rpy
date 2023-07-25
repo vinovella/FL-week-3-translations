@@ -178,7 +178,7 @@ translate spanish d20s04_249599b0:
 translate spanish d20s04_e61c2bea:
 
     # rn "As you know, my name is Professor Ronald Nordin. I am joined by two other judges to determine whether you deserve to pass this semester."
-    rn "Como sabes, mi nombre es profesor Ronald Nordin. Me acompañan otros dos jueces para determinar si mereces aprobar este semestre."
+    rn "Como sabes, mi nombre es Profesor Ronald Nordin. Me acompañan otros dos jueces para determinar si mereces aprobar este semestre."
 
 # game/code/d20/d20s04.rpy:106
 translate spanish d20s04_974d33ce:
@@ -202,7 +202,7 @@ translate spanish d20s04_943a98e6:
 translate spanish d20s04_22259ec7:
 
     # rn "Yes, I'm sure it is.{w} Theresa, please get us started."
-    rn "Sí, estoy seguro de que lo es.{w} Theresa, por favor, ayúdanos a empezar"
+    rn "Sí, estoy seguro de que lo es.{w} Theresa, por favor, ayúdanos a comenzar."
 
 # game/code/d20/d20s04.rpy:125
 translate spanish d20s04_tl_6c03c880:
@@ -736,7 +736,7 @@ translate spanish d20s04_zw_qa_abcf150e:
 translate spanish d20s04_zw_qa_618b4842:
 
     # tl "I have to agree with my fellow professor. This has gone on long enough."
-    tl "Tengo que estar de acuerdo con mi compañero profesora. Esto ha ido demasiado lejos."
+    tl "Tengo que estar de acuerdo con mi compañero Profesora. Esto ha ido demasiado lejos."
 
 # game/code/d20/d20s04.rpy:452
 translate spanish d20s04_zw_qa_5023475f:
@@ -1089,7 +1089,7 @@ translate spanish d20s04_results_eb0184f1:
 translate spanish d20s04_results_312a9970:
 
     # tl "You didn't just pass. You got all three votes."
-    tl "No solo pasaste. Tienes los tres votos."
+    tl "No sólo aprobaste. Tienes los tres votos."
 
 # game/code/d20/d20s04.rpy:645
 translate spanish d20s04_results_77c62dc0:
@@ -1137,7 +1137,7 @@ translate spanish d20s04_results_a6668040:
 translate spanish d20s04_results_7a0e86b4:
 
     # mc "What is that?"
-    mc "¿Qué es eso?"
+    mc "¿A qué se refiere?"
 
 # game/code/d20/d20s04.rpy:690
 translate spanish d20s04_results_106afa1e:
@@ -1149,7 +1149,7 @@ translate spanish d20s04_results_106afa1e:
 translate spanish d20s04_results_e674c4a0:
 
     # mct "Now there's an idea..."
-    mct "Ahora hay una idea..."
+    mct "Ahora tengo una idea..."
 
 # game/code/d20/d20s04.rpy:696
 translate spanish d20s04_results_53d4eeef:
@@ -1161,7 +1161,7 @@ translate spanish d20s04_results_53d4eeef:
 translate spanish d20s04_results_0f808cd6:
 
     # tl "That is, I agree with Professor Nordin's recommendation.{w} Do what you love."
-    tl "Es decir, estoy de acuerdo con la recomendación del profesor Nordin. {w} Haz lo que amas."
+    tl "Es decir, estoy de acuerdo con la recomendación del Profesor Nordin. {w} Haz lo que amas."
 
 # game/code/d20/d20s04.rpy:701
 translate spanish d20s04_results_7b7738e3:
