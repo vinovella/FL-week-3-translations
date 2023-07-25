@@ -184,7 +184,7 @@ translate spanish d20s02zw_116b818d:
 translate spanish d20s02zw_9e96733c:
 
     # zw "I don't hate you Mister Young. I just know exactly what you are."
-    zw "No lo odio, señor Young. Solo sé exactamente lo que eres."
+    zw "No lo odio, señor Young. Sólo sé exactamente lo que eres."
 
 # game/code/d20/d20s02zw.rpy:156
 translate spanish d20s02zw_ad0a2880:
@@ -208,7 +208,7 @@ translate spanish d20s02zw_4d343421:
 translate spanish d20s02zw_db01a38e:
 
     # mct "I guess I could try to seduce her. It somehow worked on what's her face to get the server room key, so hopefully it works with Zarah."
-    mct "Supongo que podría tratar de seducirla. De alguna manera funcionó en su cara para obtener la llave de la sala de servidores, así que espero que funcione con Zarah."
+    mct "Supongo que podría intentar seducirla. De alguna manera funcionó para conseguir la llave de la sala de servidores, así que espero que funcione con Zarah."
 
 # game/code/d20/d20s02zw.rpy:172
 translate spanish d20s02zw_e9c64aea:
@@ -232,7 +232,7 @@ translate spanish d20s02zw_652291ae:
 translate spanish d20s02zw_e9990a1f:
 
     # zw "Oh I know this game Mister Young. I'm very fucking familiar with it."
-    zw "Oh, conozco este juego, señor Young. Estoy jodidamente familiarizada con eso."
+    zw "Oh, conozco este juego Señor Young. Estoy muy familiarizada con él."
 
 # game/code/d20/d20s02zw.rpy:181
 translate spanish d20s02zw_6c8e4496:
@@ -244,7 +244,7 @@ translate spanish d20s02zw_6c8e4496:
 translate spanish d20s02zw_380bb49a:
 
     # zw "That's all you are. A manwhore that sticks his dick in anything that moves and leaves them ruined."
-    zw "Eso es todo lo que eres. Un puto que mete la polla en todo lo que se mueve y las deja arruinadas."
+    zw "Eso es todo lo que eres. Un machista que mete la polla en todo lo que se mueve y luego las abandona."
 
 # game/code/d20/d20s02zw.rpy:201
 translate spanish d20s02zw_influenced_b26bbd4c:
@@ -268,7 +268,7 @@ translate spanish d20s02zw_influenced_3d230580:
 translate spanish d20s02zw_influenced_fe5705ee:
 
     # zw "Fuck me? Fuck me!?"
-    zw "¿Qué me vaya a la mierda? ¿¡Que me jodan!?"
+    zw "¿Qué me vaya a la mierda?"
 
 # game/code/d20/d20s02zw.rpy:207
 translate spanish d20s02zw_influenced_031eb4fb:
@@ -304,7 +304,7 @@ translate spanish d20s02zw_influenced_e15bc0f5:
 translate spanish d20s02zw_influenced_4895bdc2:
 
     # mh "Hey, it's okay."
-    mh "Oye, está bien."
+    mh "Oye, estás bien."
 
 # game/code/d20/d20s02zw.rpy:226
 translate spanish d20s02zw_influenced_4d672c14:
@@ -352,7 +352,7 @@ translate spanish d20s02zw_influenced_f5a3ff24:
 translate spanish d20s02zw_influenced_006408a5:
 
     # zw "What's the point? He wouldn't understand anyway."
-    zw "¿Cuál es el punto de? Él no lo entendería de todos modos."
+    zw "¿Qué sentido tiene? De todas maneras él no lo entendería."
 
 # game/code/d20/d20s02zw.rpy:244
 translate spanish d20s02zw_influenced_c294de66:
@@ -544,7 +544,7 @@ translate spanish d20s02zw_sex_29917095:
 translate spanish d20s02zw_sex_b7601e33:
 
     # mc "Then let me—let us—change those feelings into something better."
-    mc "Entonces déjame -déjanos- convertir esos sentimientos en algo mejor."
+    mc "Entonces déjame... déjanos... convertir esos sentimientos en algo mejor."
 
 # game/code/d20/d20s02zw.rpy:343
 translate spanish d20s02zw_sex_0ec42cef:
@@ -748,7 +748,7 @@ translate spanish d20s02zw_sex_7057d577:
 translate spanish d20s02zw_sex_f52ec768:
 
     # mc "*Chuckles* We really just made her into a human Twinkie."
-    mc "*Risas* En realidad la convertimos en una galleta humana."
+    mc "*Risas* En realidad la convertimos en una galleta Twinkie humana."
 
 # game/code/d20/d20s02zw.rpy:570
 translate spanish d20s02zw_sex_ed6c6886_1:
@@ -850,7 +850,7 @@ translate spanish d20s02zw_zarah_failed_8a5f8759:
 translate spanish d20s02zw_zarah_failed_edeebcb2:
 
     # zw "His type is all the same. All he cares about his getting his dick wet, everything else be damned."
-    zw "Su tipo es el mismo. Lo único que le importa es mojarse la polla, todo lo demás al carajo."
+    zw "Su tipo es el mismo. Lo único que le importa es mojarse la polla, todo lo demás le importa una mierda."
 
 # game/code/d20/d20s02zw.rpy:627
 translate spanish d20s02zw_zarah_failed_8be91c91:
@@ -874,7 +874,7 @@ translate spanish d20s02zw_zarah_failed_c761b8e7:
 translate spanish d20s02zw_zarah_failed_7ea5ee57:
 
     # zw "I'll be looking forward to seeing you at the exams, Mister Young!"
-    zw "¡Estaré deseando verlo en los exámenes, Señor Young!"
+    zw "¡Estaré deseando verle en los exámenes, Señor Young!"
 
 # game/code/d20/d20s02zw.rpy:640
 translate spanish d20s02zw_zarah_failed_8e69e273:
@@ -928,7 +928,7 @@ translate spanish d20s02zw_zarah_failed_a20cefa7:
 translate spanish d20s02zw_zarah_failed_03aa5ac8:
 
     # mh "You wanna go get something to eat before we head back?"
-    mh "¿Quieres ir a comer algo antes de que regresemos?"
+    mh "¿Quieres ir a comer algo antes de que volvamos?"
 
 # game/code/d20/d20s02zw.rpy:662
 translate spanish d20s02zw_zarah_failed_a46ea8d2:
@@ -940,7 +940,7 @@ translate spanish d20s02zw_zarah_failed_a46ea8d2:
 translate spanish d20s02zw_zarah_failed_9758145c:
 
     # mh "Great. It'll be my treat."
-    mh "Excelente. Será mi regalo"
+    mh "Excelente. Será mi regalo."
 
 translate spanish strings:
 
@@ -962,5 +962,5 @@ translate spanish strings:
 
     # game/code/d20/d20s02zw.rpy:263
     old "Go to Lyssa and Zarah"
-    new "Ir con Lyssa y Zarah"
+    new "Ve con Lyssa y Zarah"
 
