@@ -28,7 +28,7 @@ translate spanish d17s05ms_d0bbce7f:
 translate spanish d17s05ms_05edc1ef:
 
     # sy "I'm just a little anxious."
-    sy "Solo estoy un poco ansiosa."
+    sy "Sólo estoy un poco ansiosa."
 
 # game/code/d17/d17s05ms.rpy:27
 translate spanish d17s05ms_3db0f2b5:
@@ -106,7 +106,7 @@ translate spanish d17s05ms_6bfc74d9:
 translate spanish d17s05ms_0413c3df:
 
     # mc "Y'know, at first I thought you were just being a nosy ass, but then the puzzle pieces fit together and everything made sense."
-    mc "Sabes, al principio pensé que solo estabas siendo una entrometida, pero luego las piezas del rompecabezas encajaron y todo tuvo sentido."
+    mc "Sabes, al principio pensé que sólo estabas siendo una entrometida, pero luego las piezas del rompecabezas encajaron y todo tuvo sentido."
 
 # game/code/d17/d17s05ms.rpy:65
 translate spanish d17s05ms_89c7f027:
@@ -286,7 +286,7 @@ translate spanish d17s05ms_f80ba368:
 translate spanish d17s05ms_1c9fe717:
 
     # mc "Just calm down, you're doing great."
-    mc "Solo cálmate, lo estás haciendo muy bien."
+    mc "Sólo cálmate, lo estás haciendo muy bien."
 
 # game/code/d17/d17s05ms.rpy:160
 translate spanish d17s05ms_2ec91354:
@@ -298,7 +298,7 @@ translate spanish d17s05ms_2ec91354:
 translate spanish d17s05ms_65f34967:
 
     # mh "Check there."
-    mh "Revisa ahí"
+    mh "Revisa ahí."
 
 # game/code/d17/d17s05ms.rpy:170
 translate spanish d17s05ms_63332afb:
@@ -352,7 +352,7 @@ translate spanish d17s05ms_918bef5e:
 translate spanish d17s05ms_30df9cf2:
 
     # mh "Well, the game starts by picking the most recent person that went uh...\"potty.\""
-    mh "Bueno, el juego comienza eligiendo a la persona que reciente haya ido... \" al baño.\""
+    mh "Bueno, el juego empieza eligiendo a la persona que haya ido recientemente. \"al baño\""
 
 # game/code/d17/d17s05ms.rpy:195
 translate spanish d17s05ms_947f8759:
@@ -568,7 +568,7 @@ translate spanish d17s05ms_925db1c1:
 translate spanish d17s05ms_e5daed2f:
 
     # sy "Really? Wow, you must be well connected."
-    sy "¿De verdad? Wow, debes estar bien conectada."
+    sy "¿De verdad? Vaya, tienes buenas conexiones."
 
 # game/code/d17/d17s05ms.rpy:314
 translate spanish d17s05ms_4bdfe8ba:
@@ -712,7 +712,7 @@ translate spanish d17s05ms_38f2922e:
 translate spanish d17s05ms_31133a74:
 
     # sy "Classy."
-    sy "Con clase."
+    sy "Con estilo."
 
 # game/code/d17/d17s05ms.rpy:386
 translate spanish d17s05ms_29ce3f2e:
@@ -760,7 +760,7 @@ translate spanish d17s05ms_d09f83d7:
 translate spanish d17s05ms_0357eabf:
 
     # mh "Are you two—?"
-    mh "¿Están ustedes dos..."
+    mh "¿Ustedes dos están..."
 
 # game/code/d17/d17s05ms.rpy:407
 translate spanish d17s05ms_1fc0dfbb:
@@ -826,13 +826,13 @@ translate spanish d17s05ms_af460b14:
 translate spanish d17s05ms_83c4a9da:
 
     # mh "Here I was thinking you two were just close siblings, but oh-no."
-    mh "Aquí estaba pensando que ustedes dos eran solo hermanos cercanos, pero oh-no."
+    mh "Aquí estaba pensando que ustedes dos eran sólo hermanos cercanos, pero oh-no."
 
 # game/code/d17/d17s05ms.rpy:458
 translate spanish d17s05ms_bb0ecec3:
 
     # mh "Here I was thinking you two were just close friends, but oh-no."
-    mh "Aquí estaba pensando que ustedes dos eran solo amigos cercanos, pero oh-no."
+    mh "Aquí estaba pensando que ustedes dos eran sólo amigos cercanos, pero oh-no."
 
 # game/code/d17/d17s05ms.rpy:461
 translate spanish d17s05ms_11a2f593:
@@ -916,7 +916,7 @@ translate spanish d17s05ms_96e9f8d5:
 translate spanish d17s05ms_9c277668:
 
     # mc "Hey, I only said \"public.\""
-    mc "Oye, solo dije \"público.\""
+    mc "Oye, sólo dije \"público.\""
 
 # game/code/d17/d17s05ms.rpy:501
 translate spanish d17s05ms_431ebb30:
@@ -1138,7 +1138,7 @@ translate spanish d17s05ms_8a8091e3:
 translate spanish d17s05ms_dd43b5b2:
 
     # mc "I'm not sure I'd call it \"relaxing\" exactly, though. I was fighting for my life out there."
-    mc "Sin embargo, no estoy seguro de llamarlo exactamente \"relajante\". Estaba luchando por mi vida ahí fuera."
+    mc "Sin embargo, no estoy seguro de llamarlo exactamente \"relajante\". Estaba luchando por mi vida ahí afuera."
 
 # game/code/d17/d17s05ms.rpy:631
 translate spanish d17s05ms_1794fc3c:
@@ -1162,7 +1162,7 @@ translate spanish d17s05ms_6cdab6d8:
 translate spanish d17s05ms_3f65b53c:
 
     # mh "He's right. We can meet up again soon."
-    mh "El tiene razón. Podemos volver a encontrarnos pronto."
+    mh "Él tiene razón. Podemos volver a encontrarnos pronto."
 
 # game/code/d17/d17s05ms.rpy:642
 translate spanish d17s05ms_3f058dd1:
@@ -1204,7 +1204,7 @@ translate spanish d17s05ms_3928b1fa:
 translate spanish d17s05ms_a7744d61:
 
     # mc "Look at that, you broke the poor thing."
-    mc "Mira eso, rompiste a la pobre."
+    mc "Mira eso, rompiste a la pobre chica."
 
 # game/code/d17/d17s05ms.rpy:680
 translate spanish d17s05ms_fe2d0d68:
