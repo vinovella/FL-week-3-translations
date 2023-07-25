@@ -148,7 +148,7 @@ translate spanish d20s08_53e5bd14:
 translate spanish d20s08_01d10b59:
 
     # arj "No, I mean, we just go in there and see what's what."
-    arj "No, quiero decir, solo vamos allí y vemos qué es."
+    arj "No, quiero decir, sólo entramos y vemos qué es lo que pasa."
 
 # game/code/d20/d20s08.rpy:89
 translate spanish d20s08_555e3ef4:
@@ -250,7 +250,7 @@ translate spanish d20s08_mc_arj_fa4d635d:
 translate spanish d20s08_mc_arj_f02f211d:
 
     # mc "I'm glad. Although, I assume you didn't want her to leave just so we could have a make-out session here."
-    mc "Me alegro. Aunque supongo que no querías que se fuera solo para que pudiéramos tener una sesión de besos aquí."
+    mc "Me alegro. Aunque supongo que no querías que se fuera sólo para que pudiéramos tener una sesión de besos aquí."
 
 # game/code/d20/d20s08.rpy:137
 translate spanish d20s08_mc_arj_f8016ac6:
@@ -262,13 +262,13 @@ translate spanish d20s08_mc_arj_f8016ac6:
 translate spanish d20s08_mc_arj_cbb7ff54:
 
     # mc "So, kissing me was just a diversion for you."
-    mc "Entonces, besarme fue solo una diversión para ti."
+    mc "Entonces, besarme fue sólo una diversión para ti."
 
 # game/code/d20/d20s08.rpy:141
 translate spanish d20s08_mc_arj_34bae63f:
 
     # arj "Not just. It was also for luck."
-    arj "No solo. También fue por suerte."
+    arj "No sólo... También fue por suerte."
 
 # game/code/d20/d20s08.rpy:144
 translate spanish d20s08_mc_arj_d178a770:
@@ -376,7 +376,7 @@ translate spanish d20s08_mc_arj_518a1ac8:
 translate spanish d20s08_mc_arj_fe9b69f2:
 
     # mc "What's on there that you're so afraid of?"
-    mc "¿Qué hay ahí de lo que tienes tanto miedo?"
+    mc "¿Qué hay ahí que te da tanto miedo?"
 
 # game/code/d20/d20s08.rpy:180
 translate spanish d20s08_mc_arj_065a46b1:
@@ -484,7 +484,7 @@ translate spanish d20s08_mc_arj_4cf59934:
 translate spanish d20s08_mc_arj_150bdbc7:
 
     # arj "You're siding with her?! You want copies of everything anyone did just out there somewhere???"
-    arj "¡¿Estás del lado de ella?! ¿Quieres copias de todo lo que alguien hizo por ahí en alguna parte?"
+    arj "¡¿Te pones de su lado?! ¿Quieres copias de todo lo que alguien hizo por ahí en alguna parte?"
 
 # game/code/d20/d20s08.rpy:220
 translate spanish d20s08_mc_arj_b572c3be:
@@ -658,7 +658,7 @@ translate spanish d20s08_jumped_0672618c:
 translate spanish d20s08_jumped_afc4f453:
 
     # arj "Oh, fuck!"
-    arj "¡Joder!"
+    arj "¡Mierda!"
 
 # game/code/d20/d20s08.rpy:303
 translate spanish d20s08_jumped_114aff64:
@@ -688,7 +688,7 @@ translate spanish d20s08_jumped_5f2d4b62:
 translate spanish d20s08_jumped_67615b61:
 
     # mc "Go AmRose!{w} Hit this fucker next!!"
-    mc "¡Vamos, AmRose! {w} ¡¡Golpea a este hijo de puta a continuación!!"
+    mc "¡Vamos, AmRose! {w} ¡¡Golpea a este hijo de puta!!"
 
 # game/code/d20/d20s08.rpy:347
 translate spanish d20s08_jumped_b4f3a8f9:
@@ -1174,7 +1174,7 @@ translate spanish d20s08_server_bc8b2f36:
 translate spanish d20s08_server_f852bda8:
 
     # sy "Nothing involving either of you... just something that looks hot."
-    sy "Nada que los involucre a ninguno de ustedes... solo algo que se ve atractivo."
+    sy "Nada que los involucre a ninguno de ustedes... sólo algo que se ve atractivo."
 
 # game/code/d20/d20s08.rpy:597
 translate spanish d20s08_server_def0ad19:
@@ -1240,7 +1240,7 @@ translate spanish d20s08_server_8bc9cabf:
 translate spanish d20s08_server_422c516f:
 
     # mc "No. Let's hurry up and finish what we came for."
-    mc "No. Démonos prisa y terminemos lo que vinimos a buscar."
+    mc "No. Démonos prisa y terminemos lo que vinimos a hacer."
 
 # game/code/d20/d20s08.rpy:652
 translate spanish d20s08_ir_video_ba403123:
@@ -1306,7 +1306,7 @@ translate spanish d20s08_end_99af18d7:
 translate spanish d20s08_end_fd2f1a36:
 
     # sy "I wrote a special program just for this task."
-    sy "Escribí un programa especial solo para esta tarea."
+    sy "Escribí un programa especial sólo para esta tarea."
 
 # game/code/d20/d20s08.rpy:680
 translate spanish d20s08_end_269f47b0:
@@ -1384,7 +1384,7 @@ translate spanish d20s08_end_3bcf9a38:
 translate spanish d20s08_end_06c1f73f:
 
     # sy "Did I say hours? I meant minutes."
-    sy "¿Dije horas?. Quise decir minutos."
+    sy "¿Dije horas?... Quise decir minutos."
 
 # game/code/d20/d20s08.rpy:708
 translate spanish d20s08_end_7ba72145:
