@@ -16,7 +16,7 @@ translate spanish d21s03_60199b33:
 translate spanish d21s03_6254e300:
 
     # mc "She—"
-    mc "Ella-"
+    mc "Ella..."
 
 # game/code/d21/d21s03.rpy:19
 translate spanish d21s03_ad95b155:
@@ -46,7 +46,7 @@ translate spanish d21s03_07eb8e63:
 translate spanish d21s03_254def98:
 
     # mc "Nice to meet you too officer."
-    mc "Encantado de conocerte también oficial."
+    mc "Encantado de conocerle también oficial."
 
 # game/code/d21/d21s03.rpy:32
 translate spanish d21s03_2cc828de:
@@ -64,7 +64,7 @@ translate spanish d21s03_342f70f5:
 translate spanish d21s03_a729d5c9:
 
     # vumc "Would you mind coming with me to wrap that up now?"
-    vumc "¿Te importaría venir conmigo para terminar eso ahora?"
+    vumc "¿Te importaría venir conmigo para terminar ahora el informe?"
 
 # game/code/d21/d21s03.rpy:37
 translate spanish d21s03_4ffd832a:
@@ -76,7 +76,7 @@ translate spanish d21s03_4ffd832a:
 translate spanish d21s03_480130b4:
 
     # vumc "I assure you, it'll only take a minute."
-    vumc "Te aseguro que solo te tomará un minuto."
+    vumc "Te aseguro que sólo te tomará un minuto."
 
 # game/code/d21/d21s03.rpy:43
 translate spanish d21s03_8082f9a9:
@@ -88,7 +88,7 @@ translate spanish d21s03_8082f9a9:
 translate spanish d21s03_486114ae:
 
     # mc "You guys good to head off on your own? I can handle this."
-    mc "Chicas, ¿pueden irse solas?. Puedo encargarme de esto."
+    mc "Chicas, ¿pueden irse por su cuenta? Puedo encargarme de esto."
 
 # game/code/d21/d21s03.rpy:49
 translate spanish d21s03_4e5a32f4:
@@ -118,7 +118,7 @@ translate spanish d21s03_019699a5:
 translate spanish d21s03_4f298059:
 
     # vumc "*Chuckles* They seem like good friends."
-    vumc "*Risas* Parecen buenos amigos."
+    vumc "*Risas* Parecen buenas amigas."
 
 # game/code/d21/d21s03.rpy:62
 translate spanish d21s03_53dfa826:
@@ -622,7 +622,7 @@ translate spanish d21s03_40630f29:
 translate spanish d21s03_803fd294:
 
     # mc "Well, it wasn't actually 20 people. I only got [fl_w2_sex_count]."
-    mc "Bueno, en realidad no eran 20 personas. Solo conseguí [fl_w2_sex_count]."
+    mc "Bueno, en realidad no eran 20 personas. Sólo conseguí [fl_w2_sex_count]."
 
 # game/code/d21/d21s03.rpy:321
 translate spanish d21s03_daec41c3:
