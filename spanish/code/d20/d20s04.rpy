@@ -178,7 +178,7 @@ translate spanish d20s04_249599b0:
 translate spanish d20s04_e61c2bea:
 
     # rn "As you know, my name is Professor Ronald Nordin. I am joined by two other judges to determine whether you deserve to pass this semester."
-    rn "Como sabes, mi nombre es profesor Ronald Nordin. Me acompañan otros dos jueces para determinar si mereces aprobar este semestre."
+    rn "Como sabes, mi nombre es Profesor Ronald Nordin. Me acompañan otros dos jueces para determinar si mereces aprobar este semestre."
 
 # game/code/d20/d20s04.rpy:106
 translate spanish d20s04_974d33ce:
@@ -202,7 +202,7 @@ translate spanish d20s04_943a98e6:
 translate spanish d20s04_22259ec7:
 
     # rn "Yes, I'm sure it is.{w} Theresa, please get us started."
-    rn "Sí, estoy seguro de que lo es.{w} Theresa, por favor, ayúdanos a empezar"
+    rn "Sí, estoy seguro de que lo es.{w} Theresa, por favor, ayúdanos a comenzar."
 
 # game/code/d20/d20s04.rpy:125
 translate spanish d20s04_tl_6c03c880:
@@ -280,7 +280,7 @@ translate spanish d20s04_tl_66cbc6a4:
 translate spanish d20s04_tl_79e8de0c:
 
     # tl "In 1788, Mozart wrote three symphonies that might be considered his last symphony. Please name one of them."
-    tl "En 1788, Mozart escribió tres sinfonías que podrían considerarse su última sinfonía. Por favor nombre una de ellas."
+    tl "En 1788, Mozart escribió tres sinfonías que podrían considerarse su última sinfonía. Por favor, nombre una de ellas."
 
 # game/code/d20/d20s04.rpy:164
 translate spanish d20s04_tl_fe8ec390:
@@ -292,7 +292,7 @@ translate spanish d20s04_tl_fe8ec390:
 translate spanish d20s04_tl_0c6b8bda:
 
     # tl "And I'm sure I've said this before, but I don't care. Answer the damn question."
-    tl "Y estoy segura de que he dicho esto antes, pero no me importa. Responde la maldita pregunta"
+    tl "Y estoy segura de que he dicho esto antes, pero no me importa. Responde la maldita pregunta."
 
 # game/code/d20/d20s04.rpy:170
 translate spanish d20s04_tl_b4393546:
@@ -472,7 +472,7 @@ translate spanish d20s04_rn_qa_22a48ec2:
 translate spanish d20s04_rn_qa_edb0901e:
 
     # rn "Who famously wrote, \"Death may beget life, but oppression can beget nothing other than itself\"?"
-    rn "¿Quién escribió la famosa frase \"La muerte puede engendrar vida, pero la opresión no puede engendrar nada más que a sí misma?\""
+    rn "¿Quién escribió la famosa frase \"¿La muerte puede engendrar vida, pero la opresión no puede engendrar nada más que a sí misma?\""
 
 # game/code/d20/d20s04.rpy:264
 translate spanish d20s04_rn_qa_a0716513:
@@ -496,7 +496,7 @@ translate spanish d20s04_rn_qa_9af62487:
 translate spanish d20s04_rn_qa_ed93cd9a:
 
     # rn "Surely, you took the opportunity to review someone else's notes, or watch the classes you missed on the internets."
-    rn "Seguramente, aprovechaste para revisar las notas de otra persona, o ver las clases que te perdiste en internet."
+    rn "Seguro que aprovechaste para repasar los apuntes de otra persona, o para ver las clases a las que no pudiste asistir en internet."
 
 # game/code/d20/d20s04.rpy:274
 translate spanish d20s04_rn_qa_215e9c80:
@@ -736,7 +736,7 @@ translate spanish d20s04_zw_qa_abcf150e:
 translate spanish d20s04_zw_qa_618b4842:
 
     # tl "I have to agree with my fellow professor. This has gone on long enough."
-    tl "Tengo que estar de acuerdo con mi compañero profesora. Esto ha ido demasiado lejos."
+    tl "Tengo que estar de acuerdo con mi compañero Profesora. Esto ha ido demasiado lejos."
 
 # game/code/d20/d20s04.rpy:452
 translate spanish d20s04_zw_qa_5023475f:
@@ -1089,7 +1089,7 @@ translate spanish d20s04_results_eb0184f1:
 translate spanish d20s04_results_312a9970:
 
     # tl "You didn't just pass. You got all three votes."
-    tl "No solo pasaste. Tienes los tres votos."
+    tl "No sólo aprobaste. Tienes los tres votos."
 
 # game/code/d20/d20s04.rpy:645
 translate spanish d20s04_results_77c62dc0:
@@ -1137,7 +1137,7 @@ translate spanish d20s04_results_a6668040:
 translate spanish d20s04_results_7a0e86b4:
 
     # mc "What is that?"
-    mc "¿Qué es eso?"
+    mc "¿A qué se refiere?"
 
 # game/code/d20/d20s04.rpy:690
 translate spanish d20s04_results_106afa1e:
@@ -1149,7 +1149,7 @@ translate spanish d20s04_results_106afa1e:
 translate spanish d20s04_results_e674c4a0:
 
     # mct "Now there's an idea..."
-    mct "Ahora hay una idea..."
+    mct "Ahora tengo una idea..."
 
 # game/code/d20/d20s04.rpy:696
 translate spanish d20s04_results_53d4eeef:
@@ -1161,7 +1161,7 @@ translate spanish d20s04_results_53d4eeef:
 translate spanish d20s04_results_0f808cd6:
 
     # tl "That is, I agree with Professor Nordin's recommendation.{w} Do what you love."
-    tl "Es decir, estoy de acuerdo con la recomendación del profesor Nordin. {w} Haz lo que amas."
+    tl "Es decir, estoy de acuerdo con la recomendación del Profesor Nordin. {w} Haz lo que amas."
 
 # game/code/d20/d20s04.rpy:701
 translate spanish d20s04_results_7b7738e3:
