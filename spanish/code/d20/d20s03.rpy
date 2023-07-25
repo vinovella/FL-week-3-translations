@@ -130,7 +130,7 @@ translate spanish d20s03_63b02721:
 translate spanish d20s03_706c056e:
 
     # mc "That's bad luck, don't say stuff like that."
-    mc "Eso es mala suerte, no digas cosas así."
+    mc "Eso da mala suerte, no digas esas cosas."
 
 # game/code/d20/d20s03.rpy:111
 translate spanish d20s03_d332322a:
@@ -274,7 +274,7 @@ translate spanish d20s03_66567e8c:
 translate spanish d20s03_eca8edc0:
 
     # mc "We're just, you know, two guys. We look our for each other."
-    mc "Solo somos, ya sabes, dos tipos. Nos buscamos el uno al otro."
+    mc "Sólo somos, ya sabes, dos tipos. Nos cuidamos el uno al otro."
 
 # game/code/d20/d20s03.rpy:158
 translate spanish d20s03_b3f29482:
@@ -334,7 +334,7 @@ translate spanish d20s03_d26b9e33:
 translate spanish d20s03_62531da2:
 
     # kb "But if memories are all we have, then, doesn't that mean we're just living in the past? That there's nowhere for this to go?"
-    kb "Pero si los recuerdos son todo lo que tenemos, entonces, ¿no significa eso que solo estamos viviendo en el pasado? ¿Que no hay adónde ir?"
+    kb "Pero si los recuerdos son todo lo que tenemos, entonces, ¿no significa eso que sólo estamos viviendo en el pasado? ¿Que no hay adónde ir?"
 
 # game/code/d20/d20s03.rpy:176
 translate spanish d20s03_eb19af2d:
@@ -346,7 +346,7 @@ translate spanish d20s03_eb19af2d:
 translate spanish d20s03_96c851b6:
 
     # mct "Okay, there's something wrong for sure. I need to make an excuse and {i}leave{/i}."
-    mct "Está bien, algo anda mal seguro. Necesito inventar una excusa e {i}irme{/i}."
+    mct "Está bien, algo anda mal, estoy seguro. Necesito inventar una excusa e {i}irme{/i}."
 
 # game/code/d20/d20s03.rpy:180
 translate spanish d20s03_92d5de5d:
@@ -502,7 +502,7 @@ translate spanish d20s03_9571ac14:
 translate spanish d20s03_55a4d2ec:
 
     # kb "I know I've been chill with you, but you know. How would I share this type of heavy news?"
-    kb "Sé que he sido frío contigo, pero ya sabes. ¿Cómo compartiría este tipo de noticias pesadas?"
+    kb "Sé que he sido frío contigo, pero ya sabes. ¿Cómo compartiría este tipo de noticias imporantes?"
 
 # game/code/d20/d20s03.rpy:229
 translate spanish d20s03_53806588:
@@ -574,7 +574,7 @@ translate spanish d20s03_3f871f46:
 translate spanish d20s03_a8c4d259:
 
     # kb "We made a decision, that we were going to go away and elope. Get married. Screw what our parents want. We only have one life to live, right?"
-    kb "Tomamos la decisión de irnos y fugarnos. Casarnos. Al diablo con lo que nuestros padres quieren. Sólo tenemos una vida que vivir, ¿verdad?"
+    kb "Tomamos la decisión de irnos y fugarnos. Casarnos. Al diablo con lo que nuestros padres quieren. Sólo tenemos que vivir nuestra vida, ¿verdad?"
 
 # game/code/d20/d20s03.rpy:253
 translate spanish d20s03_a3b1a71e:
@@ -586,13 +586,13 @@ translate spanish d20s03_a3b1a71e:
 translate spanish d20s03_59ec00a0:
 
     # kb "When the time comes for you, and you have to make a no-win decision, I'm sure you'll be braver than me."
-    kb "Cuando llegue el momento para ti, y tengas que tomar una decisión sin salida, estoy seguro de que serás más valiente que yo"
+    kb "Cuando te llegue el momento y tengas que tomar una decisión en la que no tengas ninguna oportunidad, estoy seguro de que serás más valiente que yo."
 
 # game/code/d20/d20s03.rpy:257
 translate spanish d20s03_53cf85a0:
 
     # kb "Stick around, face the consequences."
-    kb "Quédate, afronta las consecuencias."
+    kb "Quédate, y acepta las consecuencias."
 
 # game/code/d20/d20s03.rpy:258
 translate spanish d20s03_f4b72fa4:
@@ -610,7 +610,7 @@ translate spanish d20s03_2ffde6f3:
 translate spanish d20s03_a5f3f6ef:
 
     # kb "Sure, I will. But before that, I need to go and grab something."
-    kb "Seguro que lo haré. Pero antes de eso, tengo que ir y agarrar algo."
+    kb "Claro que lo haré. Pero antes de eso, tengo que ir a buscar algo."
 
 # game/code/d20/d20s03.rpy:279
 translate spanish d20s03_def0ad19:
@@ -670,7 +670,7 @@ translate spanish d20s03_686c234c:
 translate spanish d20s03_7f22791a:
 
     # cb "So did you from that speech."
-    cb "Tu también con ese discurso."
+    cb "Tú también con ese discurso."
 
 # game/code/d20/d20s03.rpy:316
 translate spanish d20s03_b5249d10:
@@ -802,7 +802,7 @@ translate spanish d20s03_a14a8eb5:
 translate spanish d20s03_7207ea86:
 
     # cb "It wasn't just Kevin who matured. I'm discovering things I like all the time."
-    cb "No fue solo Kevin quien maduró. Estoy descubriendo cosas que me gustan todo el tiempo."
+    cb "No fue sólo Kevin quien maduró. Estoy descubriendo cosas que me gustan todo el tiempo."
 
 # game/code/d20/d20s03.rpy:370
 translate spanish d20s03_773ac3b2:
@@ -814,7 +814,7 @@ translate spanish d20s03_773ac3b2:
 translate spanish d20s03_b82c7d19:
 
     # cb "A bull knocking up the wife of a cuckold, how it's the ultimate thrill for him."
-    cb "Un toro preñando a la mujer de un cornudo, cómo es la máxima emoción para él."
+    cb "Un toro embarazando a la mujer de un cornudo, cómo eso es la máxima emoción para él."
 
 # game/code/d20/d20s03.rpy:373
 translate spanish d20s03_927e2714:
@@ -856,7 +856,7 @@ translate spanish d20s03_15f26458:
 translate spanish d20s03_d2132efb:
 
     # mc "Chloe, what are you getting out of this?"
-    mc "Chloe, ¿qué estás sacando de esto?"
+    mc "Chloe, ¿qué estás sacando de esto?."
 
 # game/code/d20/d20s03.rpy:388
 translate spanish d20s03_7103565e:
@@ -868,7 +868,7 @@ translate spanish d20s03_7103565e:
 translate spanish d20s03_48f18f7c:
 
     # cb "Kevin's been too busy with studying to have sex. And I've been busy too."
-    cb "Kevin ha estado demasiado ocupado estudiando para tener sexo. Y he estado ocupada también."
+    cb "Kevin ha estado demasiado ocupado estudiando para tener sexo. Y yo también he estado ocupada."
 
 # game/code/d20/d20s03.rpy:393
 translate spanish d20s03_42521367:
@@ -934,7 +934,7 @@ translate spanish d20s03_continue_9365438e:
 translate spanish d20s03_continue_3dd3cbf7:
 
     # cb "I figure, since we're all here, we might as well do it like the first time. Kevin watching me as I get impregnated."
-    cb "Ya que estamos todos aquí, podríamos hacerlo como la primera vez. Kevin mirándome mientras me embarazan."
+    cb "Ya que estamos todos aquí, podríamos hacerlo como la primera vez. Kevin mirándome mientras me embarazas."
 
 # game/code/d20/d20s03.rpy:439
 translate spanish d20s03_continue_80d981a3:
@@ -1090,7 +1090,7 @@ translate spanish d20s03_continue_4a3c1415:
 translate spanish d20s03_continue_753aef48:
 
     # cb "Yes, yes."
-    cb "Sí, Sí."
+    cb "Sí, sí."
 
 # game/code/d20/d20s03.rpy:618
 translate spanish d20s03_continue_da7c5b2c:
@@ -1120,7 +1120,7 @@ translate spanish d20s03_continue_1e9c8598:
 translate spanish d20s03_continue_d1ca32b1:
 
     # mc "You little slut."
-    mc "Pequeña zorra."
+    mc "Pequeña puta."
 
 # game/code/d20/d20s03.rpy:642
 translate spanish d20s03_continue_f86ba51c:
@@ -1192,7 +1192,7 @@ translate spanish d20s03_continue_a5354688:
 translate spanish d20s03_continue_fca53e85:
 
     # cb "You're sucking the semen out of my recently inseminated hole..."
-    cb "Estás chupando el semen de mi agujero recién inseminado..."
+    cb "Estás lamiendo el semen de mi agujero recién inseminado..."
 
 # game/code/d20/d20s03.rpy:686
 translate spanish d20s03_continue_e809dec1:
@@ -1216,7 +1216,7 @@ translate spanish d20s03_continue_aba72ac2:
 translate spanish d20s03_continue_ad09f674:
 
     # kb "I don't know how to repay you for all this. [mcname]. Thank you for everything."
-    kb "No sé cómo pagarte por todo esto. [mcname]. Gracias por todo."
+    kb "No sé cómo pagarte por todo esto [mcname]. Gracias por todo."
 
 # game/code/d20/d20s03.rpy:707
 translate spanish d20s03_continue_d2cec35b:
@@ -1240,7 +1240,7 @@ translate spanish d20s03_continue_c37675ca:
 translate spanish d20s03_continue_c5c88398:
 
     # mc "Going? Going where?"
-    mc "¿Yendo? ¿Yendo dónde?"
+    mc "¿Se van? ¿Adónde?"
 
 # game/code/d20/d20s03.rpy:716
 translate spanish d20s03_continue_ef07d6ca:
@@ -1276,7 +1276,7 @@ translate spanish d20s03_continue_81b12c09:
 translate spanish d20s03_continue_aed8b1b1:
 
     # kb "Wait a moment. Let's take a picture."
-    kb "Espera un momento. Tomemos una foto."
+    kb "Espera un momento. Tomémonos una foto."
 
 translate spanish strings:
 
