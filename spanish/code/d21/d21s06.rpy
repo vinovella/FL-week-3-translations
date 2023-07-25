@@ -136,7 +136,7 @@ translate spanish d21s06_2dd4a63a:
 translate spanish d21s06_c178a941:
 
     # sy "Then I would have caught you already because you're still standing out in the hallway! So are you coming in or what?"
-    sy "¡Entonces ya te habría pillado porque sigues de pie en el pasillo!. ¿Vas a entrar o qué?"
+    sy "¡Entonces ya te habría atrapado porque sigues de pie en el pasillo! ¿Vas a entrar o qué?"
 
 # game/code/d21/d21s06.rpy:90
 translate spanish d21s06_9394a56a:
@@ -160,7 +160,7 @@ translate spanish d21s06_6ed4ff36:
 translate spanish d21s06_029a00d1:
 
     # mc "If you're okay with it, then I'm okay with it. I just have to bring my stuff."
-    mc "Si estás de acuerdo con eso, entonces yo estoy de acuerdo con eso. Solo tengo que traer mis cosas."
+    mc "Si estás de acuerdo con eso, entonces yo estoy de acuerdo con eso. Sólo tengo que traer mis cosas."
 
 # game/code/d21/d21s06.rpy:105
 translate spanish d21s06_018ff40f:
@@ -562,7 +562,7 @@ translate spanish d21s06_28a0046d:
 translate spanish d21s06_90dd921c:
 
     # sy "I was looking into it, but they're kinda expensive. I certainly can't afford it."
-    sy "Lo estaba investigando, pero son un poco caros. Ciertamente no puedo permitírmelo."
+    sy "Lo estaba investigando, pero son un poco caros. No puedo permitírmelo."
 
 # game/code/d21/d21s06.rpy:292
 translate spanish d21s06_cb9e5a25:
@@ -598,7 +598,7 @@ translate spanish d21s06_3adb97ac:
 translate spanish d21s06_58740b22:
 
     # arj "Why do you want to keep it around anyway, Stacy? There's no use for it since the servers are down."
-    arj "¿Por qué quieres mantenerlo, Stacy? No hay uso para él ya que los servidores están apagados."
+    arj "¿Por qué quieres conservarlo, Stacy? No hay uso para él ya que los servidores están apagados."
 
 # game/code/d21/d21s06.rpy:305
 translate spanish d21s06_6c84a96d:
@@ -622,7 +622,7 @@ translate spanish d21s06_17c259e7:
 translate spanish d21s06_50fd157b:
 
     # arj "Written what down?"
-    arj "¿Escrito qué?"
+    arj "¿Qué tienes escrito?"
 
 # game/code/d21/d21s06.rpy:310
 translate spanish d21s06_f83439e9:
@@ -670,7 +670,7 @@ translate spanish d21s06_af0eb5dd:
 translate spanish d21s06_86823ceb:
 
     # arj "We came here to dismantle the whole thing, and now you just want to start it up again?"
-    arj "Vinimos aquí para desmantelar todo, ¿y ahora solo quieres volver a ponerlo en marcha?"
+    arj "Vinimos aquí para desmantelar todo, ¿y ahora quieres volver a ponerlo en marcha?"
 
 # game/code/d21/d21s06.rpy:332
 translate spanish d21s06_07c441ef:
@@ -712,7 +712,7 @@ translate spanish d21s06_dbbcbeb1:
 translate spanish d21s06_f3cb5c4d:
 
     # arj "I thought you were just making conversation."
-    arj "Pensé que solo estabas haciendo una conversación."
+    arj "Pensé que sólo estabas haciendo una conversación."
 
 # game/code/d21/d21s06.rpy:347
 translate spanish d21s06_1a50956a:
@@ -724,7 +724,7 @@ translate spanish d21s06_1a50956a:
 translate spanish d21s06_81180085:
 
     # sy "I can actually show you in this room now that the faraday cage is almost gone and the wi-fi is working."
-    sy "De hecho, puedo mostrarles en esta sala ahora que la jaula de Faraday casi se ha ido y el wi-fi está funcionando."
+    sy "Ahora que la jaula de faraday casi ha desaparecido y el wi-fi funciona, puedo mostrarte en qué consiste todo."
 
 # game/code/d21/d21s06.rpy:349
 translate spanish d21s06_cff96ccb:
@@ -820,7 +820,7 @@ translate spanish d21s06_aeb914f5:
 translate spanish d21s06_b1e7182a:
 
     # mc "Just drop the Fetish Locator thing. She'll never go for it."
-    mc "Solo deja lo del Localizador de Fetiches. Ella nunca lo aceptará."
+    mc "Simplemente deja lo del Localizador de Fetiches. Ella nunca lo aceptará."
 
 # game/code/d21/d21s06.rpy:382
 translate spanish d21s06_2561a9f8:
@@ -1858,7 +1858,7 @@ translate spanish d21s06_no_fl_2cd1dfd8:
 translate spanish d21s06_no_fl_df8bb7ca:
 
     # sy "I know why you guys are a little hesitant on hearing it, but just give me one minute, and I'll tell you why it's a good idea."
-    sy "Sé por qué dudan un poco en escucharlo, pero solo denme un minuto y les diré por qué es una buena idea."
+    sy "Sé por qué dudan un poco al oírlo, pero denme un minuto y les diré por qué es una buena idea."
 
 # game/code/d21/d21s06.rpy:823
 translate spanish d21s06_no_fl_0503ef5f:
@@ -1996,7 +1996,7 @@ translate spanish d21s06_no_fl_8c13a0cc:
 translate spanish d21s06_no_fl_e9702780:
 
     # arj "I'm thinking of being on a farm."
-    arj "Estoy pensando en estar en una granja."
+    arj "Estoy pensando en vivir en una granja."
 
 # game/code/d21/d21s06.rpy:887
 translate spanish d21s06_no_fl_41a4dfa4:
