@@ -154,7 +154,7 @@ translate spanish d20s05_f8b7eebc:
 translate spanish d20s05_celebrate_71b562c5:
 
     # mes "So, if you have a little free time right now I'd suggest we celebrate."
-    mes "Entonces, si tienes un poco de tiempo libre en este momento, te sugiero que lo celebremos."
+    mes "Así que, si tienes algo de tiempo libre ahora mismo, te sugiero que lo celebremos."
 
 # game/code/d20/d20s05.rpy:147
 translate spanish d20s05_celebrate_57962156:
@@ -226,7 +226,7 @@ translate spanish d20s05_mes_house_0a84842c:
 translate spanish d20s05_mes_house_c3fb5ca3:
 
     # mes "Did you think I just had this pole here for decoration...{w} or maybe for parties?"
-    mes "¿Creías que solo tenía este poste aquí como decoración... {w} o tal vez para fiestas?"
+    mes "¿Creías que sólo tenía este poste aquí para decorar...{w} o quizás para fiestas?"
 
 # game/code/d20/d20s05.rpy:193
 translate spanish d20s05_mes_house_956dc698:
@@ -238,7 +238,7 @@ translate spanish d20s05_mes_house_956dc698:
 translate spanish d20s05_mes_house_93a51747:
 
     # mes "Shhh.{w} Just enjoy the show."
-    mes "Shhh. {w} Disfruta del espectáculo.."
+    mes "Shhh. {w} Disfruta del espectáculo."
 
 # game/code/d20/d20s05.rpy:207
 translate spanish d20s05_mes_house_f19e5107:
@@ -310,7 +310,7 @@ translate spanish d20s05_mes_house_9d4cd2d5:
 translate spanish d20s05_mes_house_e5e1ba57:
 
     # mct "I can barely think. I just want to fuck her."
-    mct "Apenas puedo pensar. Solo quiero follarla."
+    mct "Apenas puedo pensar. Sólo quiero follármela."
 
 # game/code/d20/d20s05.rpy:269
 translate spanish d20s05_mes_house_68c91ff2:
@@ -442,7 +442,7 @@ translate spanish d20s05_pool_9aca8538:
 translate spanish d20s05_pool_69c16f4b:
 
     # mc "Would that be a person possessed by a demon, or-"
-    mc "¿Sería esa una persona poseída por un demonio, o-"
+    mc "¿Sería esa una persona poseída por un demonio, o..."
 
 # game/code/d20/d20s05.rpy:449
 translate spanish d20s05_pool_2579fe5d:
@@ -460,7 +460,7 @@ translate spanish d20s05_pool_698d7569:
 translate spanish d20s05_pool_bdb126ca:
 
     # mes "You said it."
-    mes "Tu lo dijiste."
+    mes "Tú lo dijiste."
 
 # game/code/d20/d20s05.rpy:453
 translate spanish d20s05_pool_5871fe7d:
@@ -472,13 +472,13 @@ translate spanish d20s05_pool_5871fe7d:
 translate spanish d20s05_pool_cd73c38a:
 
     # mes "There's a lot you don't know about me.{w}.. yet."
-    mes "Hay muchas cosas que no sabes sobre mí. {w}... todavía."
+    mes "Hay muchas cosas que no sabes sobre mí...{w} todavía."
 
 # game/code/d20/d20s05.rpy:458
 translate spanish d20s05_pool_099b6d1a:
 
     # mc "I look forward to-"
-    mc "Espero con ansias-"
+    mc "Espero con ansias..."
 
 # game/code/d20/d20s05.rpy:459
 translate spanish d20s05_pool_63121e7c:
@@ -514,7 +514,7 @@ translate spanish d20s05_pool_talk_42e4023f:
 translate spanish d20s05_pool_talk_ba69763f:
 
     # mes "What about Lydia? What are you talking about?"
-    mes "¿Qué pasa con Lidia? ¿De qué estás hablando?"
+    mes "¿Qué pasa con Lydia? ¿De qué estás hablando?"
 
 # game/code/d20/d20s05.rpy:490
 translate spanish d20s05_pool_talk_df31f4a7:
@@ -532,7 +532,7 @@ translate spanish d20s05_pool_talk_3729cb75:
 translate spanish d20s05_pool_talk_f31aba11:
 
     # mc "Yeah, I'm serious.{w} I mean, Jerome created the app, but he did it for her."
-    mc "Sí, lo digo en serio. {w} Quiero decir, Jerome creó la aplicación, pero lo hizo por ella."
+    mc "No estoy bromeando, lo digo en serio. {w} Quiero decir, Jerome creó la aplicación, pero la hizo por ella."
 
 # game/code/d20/d20s05.rpy:499
 translate spanish d20s05_pool_talk_a4822151:
@@ -796,7 +796,7 @@ translate spanish d20s05_pool_talk_c158f27c:
 translate spanish d20s05_pool_talk_30293434:
 
     # mc "Maybe she's feeling guilty because you got so involved in playing the app?"
-    mc "¿Quizá se siente culpable porque te involucraste tanto en el juego de la aplicación?"
+    mc "¿Quizá se siente culpable porque te involucraste demasiado en el juego a través de la aplicación?"
 
 # game/code/d20/d20s05.rpy:609
 translate spanish d20s05_pool_talk_5d4e553a:
@@ -838,7 +838,7 @@ translate spanish d20s05_pool_talk_c4dc7027:
 translate spanish d20s05_pool_talk_f090582a:
 
     # mes "That little slitch...{w} I can't believe I didn't see this coming."
-    mes "Esa pequeña rendija... {w} No puedo creer que no lo vi venir."
+    mes "Esa pequeña zorra... {w} No puedo creer que no lo vi venir."
 
 # game/code/d20/d20s05.rpy:629
 translate spanish d20s05_pool_talk_e994f9c9:
