@@ -40,7 +40,7 @@ translate spanish d20s07_0f5abadd:
 translate spanish d20s07_7854d580:
 
     # nk "I wouldn't know."
-    nk "No sabría"
+    nk "No sabría."
 
 # game/code/d20/d20s07.rpy:100
 translate spanish d20s07_65c9df93:
@@ -70,7 +70,7 @@ translate spanish d20s07_322cffe4:
 translate spanish d20s07_0e198f0e:
 
     # mc "It's all about memorization and time management. Either you know it or you don't, and the other ones you just have to guess."
-    mc "Se trata de memorizar y gestionar el tiempo. O lo sabes o no lo sabes, y los demás sólo tienes que adivinarlos."
+    mc "Se trata de memorizar y gestionar el tiempo. O lo sabes o no lo sabes, y los demás tienes que adivinarlos."
 
 # game/code/d20/d20s07.rpy:110
 translate spanish d20s07_aaac3a25:
@@ -94,13 +94,13 @@ translate spanish d20s07_a7f58707:
 translate spanish d20s07_64b93173:
 
     # nk "How do you think I got through those interviews? My love affair with that started from me drinking how many cups a day."
-    nk "¿Cómo crees que superé esas entrevistas? Mi historia de amor con eso comenzó cuando bebí cuántas tazas al día."
+    nk "¿Cómo crees que superé esas entrevistas? Mi pasión por eso empezó cuando bebía varias tazas de café al día."
 
 # game/code/d20/d20s07.rpy:118
 translate spanish d20s07_741e0083:
 
     # nk "Did we interrupt you from doing anything?"
-    nk "¿Te interrumpimos para que no hicieras nada?"
+    nk "¿Hemos interrumpido algo?"
 
 # game/code/d20/d20s07.rpy:121
 translate spanish d20s07_6e95390a:
@@ -112,7 +112,7 @@ translate spanish d20s07_6e95390a:
 translate spanish d20s07_21a8667f:
 
     # nk "Perhaps you noticed, it's just the three of us in here, because I wanted us to have a discussion about the future in private."
-    nk "Tal vez te diste cuenta, solo estamos nosotros tres aquí, porque quería que tuviéramos una discusión sobre el futuro en privado."
+    nk "Tal vez te diste cuenta, sólo estamos nosotros tres aquí, porque quería que tuviéramos una discusión sobre el futuro en privado."
 
 # game/code/d20/d20s07.rpy:127
 translate spanish d20s07_1a52b45e:
@@ -190,7 +190,7 @@ translate spanish d20s07_bf7c683e:
 translate spanish d20s07_ba3dd8d6:
 
     # nk "I mean honestly, I have been sleeping so much better since I sold this place."
-    nk "Quiero decir, sinceramente, he estado durmiendo mucho mejor desde que vendí este lugar."
+    nk "Quiero decir honestamente, he estado durmiendo mucho mejor desde que vendí este lugar."
 
 # game/code/d20/d20s07.rpy:160
 translate spanish d20s07_99d7f839:
@@ -256,7 +256,7 @@ translate spanish d20s07_c5d803b2:
 translate spanish d20s07_f668e9bb:
 
     # pw "It is. I feel kinda weird about it. A lot of my life went into this place."
-    pw "Lo hace. Me siento un poco rara al respecto. Gran parte de mi vida fue en este lugar."
+    pw "Lo hace. Me siento un poco rara al respecto. Gran parte de mi vida pasó en este lugar."
 
 # game/code/d20/d20s07.rpy:186
 translate spanish d20s07_bc770388:
@@ -268,7 +268,7 @@ translate spanish d20s07_bc770388:
 translate spanish d20s07_0b87aa98:
 
     # nk "Don't know who that is."
-    nk "No se quién es."
+    nk "No sé quién es."
 
 # game/code/d20/d20s07.rpy:192
 translate spanish d20s07_d5a70874:
@@ -574,7 +574,7 @@ translate spanish d20s07_7b4901e3:
 translate spanish d20s07_486adb0e:
 
     # nk "We all had a lot of good memories here. I get it. I think it's fair to call this place ours. But I don't make these decisions anymore."
-    nk "Todos teníamos muchos buenos recuerdos aquí. Lo entiendo. Creo que es justo llamar a este lugar nuestro. Pero ya no tomo estas decisiones."
+    nk "Todos tenemos muchos buenos recuerdos aquí. Lo entiendo. Creo que es justo llamar a este lugar nuestro. Pero ya no tomo estas decisiones."
 
 # game/code/d20/d20s07.rpy:350
 translate spanish d20s07_d50ee0b4:
@@ -598,7 +598,7 @@ translate spanish d20s07_5ebe86a4:
 translate spanish d20s07_07c1dbdf:
 
     # mc "Well, we are here for what is the last time, right? We should consecrate this event with a last hurrah."
-    mc "Bueno, estamos aquí por lo que es la última vez, ¿verdad? Deberíamos consagrar este evento con un último hurra."
+    mc "Bueno, estamos aquí por última vez, ¿no?. Deberíamos consagrar este evento con un último hurra."
 
 # game/code/d20/d20s07.rpy:360
 translate spanish d20s07_4ea13ee7:
@@ -658,7 +658,7 @@ translate spanish d20s07_c0409627:
 translate spanish d20s07_2a2965e8:
 
     # pw "No, no. The one with all the people. Like a lot of them on a beach. It doesn't matter, they're all in Italy right?"
-    pw "No, no. El de toda la gente. Como muchos de ellos en una playa. No importa, todos están en Italia, ¿verdad?"
+    pw "No, no. El de toda la gente. Como muchos de ellos en una playa. No importa, todos están en Italia, ¿verdad?."
 
 # game/code/d20/d20s07.rpy:390
 translate spanish d20s07_6c3c170a:
@@ -790,7 +790,7 @@ translate spanish d20s07_2e340d2b:
 translate spanish d20s07_d0613f34:
 
     # pw "I think he needs some reassurance, that it won't just me the two of us dictating what he'd do."
-    pw "Creo que necesita algo de seguridad, que no seremos solo nosotras dos diciéndole lo que haría."
+    pw "Creo que necesita algo de seguridad, que no seremos sólo nosotras dos diciéndole lo que haría."
 
 # game/code/d20/d20s07.rpy:454
 translate spanish d20s07_58c8827b:
@@ -844,7 +844,7 @@ translate spanish d20s07_537c38ae:
 translate spanish d20s07_0ebe02c0:
 
     # pw "Like twelve hours."
-    pw "Como doce horas."
+    pw "Unas doce horas."
 
 # game/code/d20/d20s07.rpy:485
 translate spanish d20s07_29e10dc0:
@@ -934,7 +934,7 @@ translate spanish d20s07_26dc2bcb:
 translate spanish d20s07_83ad236d:
 
     # mc "Yeah, I'm sure."
-    mc "Si estoy seguro."
+    mc "Sí, estoy seguro."
 
 # game/code/d20/d20s07.rpy:528
 translate spanish d20s07_5fb11440:
@@ -1036,7 +1036,7 @@ translate spanish d20s07_last_show_b6fd006e:
 translate spanish d20s07_last_show_ec66e393:
 
     # nk "No, I'm not."
-    nk "No, no lo estoy."
+    nk "No, no lo estoy haciendo."
 
 # game/code/d20/d20s07.rpy:681
 translate spanish d20s07_last_show_a928c589:
@@ -1066,7 +1066,7 @@ translate spanish d20s07_last_show_e636fae3:
 translate spanish d20s07_last_show_33164725:
 
     # mc "It's her choice, isn't it, whether she wants to join in."
-    mc "Es su elección, ¿no es así?, si quiere unirse."
+    mc "Es su decisión, no es así, si ella quiere unirse..."
 
 # game/code/d20/d20s07.rpy:701
 translate spanish d20s07_last_show_b9e270aa:
@@ -1162,7 +1162,7 @@ translate spanish d20s07_last_show_31b80606:
 translate spanish d20s07_last_show_ee7a49ba:
 
     # pw "And you weren't into girls then. A bird in one hand is worth two in the bush for you."
-    pw "Y entonces no te gustaban las chicas. Para ti, más vale pájaro en una mano que ciento volando."
+    pw "Y en ese entonces no te gustaban las chicas. Para ti, más vale pájaro en mano que ciento volando."
 
 # game/code/d20/d20s07.rpy:753
 translate spanish d20s07_last_show_e743e0a8:
@@ -1186,7 +1186,7 @@ translate spanish d20s07_last_show_ed42837f:
 translate spanish d20s07_last_show_92c51af3:
 
     # pw "Who cares? We're moving out of this place anyway. Let's just feel good together. Trust me."
-    pw "¿A quién le importa? Nos mudamos de este lugar de todos modos. Vamos a sentirnos bien juntos. Confía en mí."
+    pw "¿A quién le importa? De todas maneras nos vamos a ir de este lugar. Vamos a sentirnos bien juntos. Confía en mí."
 
 # game/code/d20/d20s07.rpy:763
 translate spanish d20s07_last_show_a70226f8:
@@ -1216,7 +1216,7 @@ translate spanish d20s07_last_show_754a0f9c:
 translate spanish d20s07_last_show_7ffa80b4:
 
     # nk "Wow."
-    nk "Guau."
+    nk "Vaya."
 
 # game/code/d20/d20s07.rpy:785
 translate spanish d20s07_last_show_df9a8211:
@@ -1234,7 +1234,7 @@ translate spanish d20s07_last_show_2ff45315:
 translate spanish d20s07_last_show_509cbb15:
 
     # nk "Fuck me! Just like that, choke me harder."
-    nk "¡Fóllame! Solo así, estrangúlame más fuerte."
+    nk "¡Fóllame! Así, estrangúlame más fuerte."
 
 # game/code/d20/d20s07.rpy:809
 translate spanish d20s07_last_show_c5e54a25:
@@ -1330,7 +1330,7 @@ translate spanish d20s07_last_show_5dbf4870:
 translate spanish d20s07_last_show_cdf76c1e:
 
     # mk "Thanks. Although I ordered something else. Ah, forget it, just do your thing."
-    mk "Gracias. Aunque pedí algo más. Ah, olvídalo, solo haz lo tuyo."
+    mk "Gracias. Aunque pedí algo más. Ah, olvídalo, sólo haz lo tuyo."
 
 # game/code/d20/d20s07.rpy:982
 translate spanish d20s07_last_show_c7165b2c:
@@ -1396,7 +1396,7 @@ translate spanish d20s07_last_show_15c7eaec:
 translate spanish d20s07_last_show_44ecf9ad:
 
     # nk "Keep going."
-    nk "Sigue adelante."
+    nk "Continúa."
 
 # game/code/d20/d20s07.rpy:1073
 translate spanish d20s07_last_show_7c6353bd:
@@ -1552,7 +1552,7 @@ translate spanish d20s07_last_show_39069b07:
 translate spanish d20s07_last_show_cabed7a6:
 
     # pw "I'm going to go crazy."
-    pw "Me voy a volver loca"
+    pw "Me voy a volver loca."
 
 # game/code/d20/d20s07.rpy:1190
 translate spanish d20s07_last_show_4f848938:
@@ -1576,7 +1576,7 @@ translate spanish d20s07_end_a1e4c885:
 translate spanish d20s07_end_405a50ce:
 
     # nk "First, the bad news. I hope you enjoyed that, because that is the last time we're going to serve you here."
-    nk "Primero, las malas noticias. Espero que lo hayan disfrutado, porque es la última vez que te atenderemos aquí."
+    nk "Primero, las malas noticias. Espero que lo hayan disfrutado, porque es la última vez que atenderemos aquí."
 
 # game/code/d20/d20s07.rpy:1248
 translate spanish d20s07_end_2716aa36:
