@@ -22,7 +22,7 @@ translate spanish d20s02rn_7e346a5a:
 translate spanish d20s02rn_6df74e25:
 
     # mc "I assumed it was just because you're a kinky bitch and it got you off."
-    mc "Supuse que era solo porque eres una perra pervertida y te excitaba."
+    mc "Supuse que era sólo porque eres una perra pervertida y te excitaba."
 
 # game/code/d20/d20s02rn.rpy:59
 translate spanish d20s02rn_d60f6cee:
@@ -142,7 +142,7 @@ translate spanish d20s02rn_a8efdf33:
 translate spanish d20s02rn_81ceb85d:
 
     # mk "Oh good, I thought it was just me.{w} Hot, that is."
-    mk "Oh bien, pensé que era solo yo. {w} Caliente, eso es."
+    mk "Oh bien, pensé que era sólo yo. {w} Caliente, eso es."
 
 # game/code/d20/d20s02rn.rpy:125
 translate spanish d20s02rn_3df6c0ff:
@@ -214,7 +214,7 @@ translate spanish d20s02rn_550ebea7:
 translate spanish d20s02rn_1aac1d9c:
 
     # mk "Exactly, Ronald.{w} We're not Professor and Student anymore. At least not for the summer."
-    mk "Exacto, Ronald. {w} Ya no somos Profesor y Alumno. Al menos no por el verano."
+    mk "Exacto, Ronald. {w} Ya no somos Profesor y Alumna. Al menos no durante el verano."
 
 # game/code/d20/d20s02rn.rpy:159
 translate spanish d20s02rn_17ed4952:
@@ -274,7 +274,7 @@ translate spanish d20s02rn_b1c28883:
 translate spanish d20s02rn_bb5b705d:
 
     # mk "Never listen to gossip or rumors, Master. You've taught us that well."
-    mk "Nunca escuche chismes o rumores, Amo. Nos has enseñado eso muy bien."
+    mk "Nunca escuche chismes o rumores, Maestro. Nos has enseñado eso muy bien."
 
 # game/code/d20/d20s02rn.rpy:193
 translate spanish d20s02rn_e6df5d0b:
@@ -526,7 +526,7 @@ translate spanish d20s02rn_c1230356:
 translate spanish d20s02rn_0c95cb0e:
 
     # mct "Technically he is penetrating her - but it's only her mouth.{w} That might be enough."
-    mct "Técnicamente, la está penetrando, pero es solo su boca. {w} Eso podría ser suficiente."
+    mct "Técnicamente, él la está penetrando, pero es sólo su boca. {w} Eso podría ser suficiente."
 
 # game/code/d20/d20s02rn.rpy:372
 translate spanish d20s02rn_cont_anal_2949fb64:
@@ -826,7 +826,7 @@ translate spanish d20s02rn_interrupt_b7f5133f:
 translate spanish d20s02rn_interrupt_264b55fe:
 
     # mc "Unfortunately, she doesn't belong to me either. I'm just borrowing her."
-    mc "Desafortunadamente, ella tampoco me pertenece. Solo la estoy tomando prestada."
+    mc "Desafortunadamente, ella tampoco me pertenece. Sólo la estoy tomando prestada."
 
 # game/code/d20/d20s02rn.rpy:638
 translate spanish d20s02rn_interrupt_fc2df641:
@@ -886,7 +886,7 @@ translate spanish d20s02rn_interrupt_89901b65:
 translate spanish d20s02rn_interrupt_4f1a4674:
 
     # rn "I suggest you find a different professor for your future coursework."
-    rn "Le sugiero que busque un profesor diferente para sus futuros cursos."
+    rn "Te sugiero que busques otro profesor para tus futuras asignaturas."
 
 # game/code/d20/d20s02rn.rpy:671
 translate spanish d20s02rn_interrupt_35823eeb:
@@ -928,7 +928,7 @@ translate spanish strings:
 
     # game/code/d20/d20s02rn.rpy:33
     old "Some time later\nOutside Nordin's office"
-    new "Algún tiempo después\nFuera de la oficina de Nordin"
+    new "Algún tiempo después\nAfuera de la oficina de Nordin"
 
     # game/code/d20/d20s02rn.rpy:355
     old "Interrupt them"
