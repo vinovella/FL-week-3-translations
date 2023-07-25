@@ -130,7 +130,7 @@ translate spanish d17s05_a7050907:
 translate spanish d17s05_01dd70b3:
 
     # mh "Stacy?{w} Sure. I've been meaning to talk to her a bit more."
-    mh "¿Stacy?{w} Claro. He tenido la intención de hablar con ella un poco más."
+    mh "¿Stacy?{w} Claro. He estado pensando en hablar un poco más con ella."
 
 # game/code/d17/d17s05.rpy:110
 translate spanish d17s05_7a23a047:
@@ -154,7 +154,7 @@ translate spanish d17s05_19295f8b:
 translate spanish d17s05_1e4393c7:
 
     # mc "I'll be right over with our guests then."
-    mc "Iré enseguida con nuestros invitados entonces."
+    mc "Iré enseguida con nuestro invitado."
 
 # game/code/d17/d17s05.rpy:129
 translate spanish d17s05_79186aae:
@@ -196,13 +196,13 @@ translate spanish d17s05_40a7e867:
 translate spanish d17s05_864608c0:
 
     # mc "Oliver? Sorry for the call out of nowhere."
-    mc "¿Oliver? Perdón por la llamada de la nada."
+    mc "¿Oliver? Perdón por llamarte sin avisar."
 
 # game/code/d17/d17s05.rpy:151
 translate spanish d17s05_4dc2a32c:
 
     # op "Oh, it's fine. What's up?"
-    op "Oh está bien. ¿Qué pasa?"
+    op "Oh, está bien. ¿Qué pasa?"
 
 # game/code/d17/d17s05.rpy:154
 translate spanish d17s05_3ace6ad6:
@@ -232,7 +232,7 @@ translate spanish d17s05_523302ac:
 translate spanish d17s05_a003905d:
 
     # mc "Well, Lyssa said she'd be fine with someone else tagging along, so I thought why not you?"
-    mc "Bueno, Lyssa dijo que estaría bien si alguien más la acompañara, así que pensé, ¿por qué tú no?"
+    mc "Bueno, Lyssa dijo que le parecía bien que alguien más me acompañara, así que pensé ¿por qué no tú?"
 
 # game/code/d17/d17s05.rpy:167
 translate spanish d17s05_beebcd8c:
@@ -250,7 +250,7 @@ translate spanish d17s05_4be1fc12:
 translate spanish d17s05_d2d8c4cc:
 
     # mc "Does that mean you're in?"
-    mc "¿Eso significa que estás dentro?"
+    mc "¿Significa eso que aceptas?"
 
 # game/code/d17/d17s05.rpy:176
 translate spanish d17s05_26580048:
@@ -292,7 +292,7 @@ translate spanish d17s05_113cd47c:
 translate spanish d17s05_24319d89:
 
     # mc "And your first thought was to jump to {i}death{/i}?"
-    mc "¿Y tu primer pensamiento fue saltar a {i}la muerte{/i}?"
+    mc "¿Y tu primer pensamiento fue arrojarte a {i}la muerte{/i}?"
 
 # game/code/d17/d17s05.rpy:207
 translate spanish d17s05_d62c9a92:
