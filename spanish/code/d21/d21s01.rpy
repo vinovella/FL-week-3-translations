@@ -46,7 +46,7 @@ translate spanish d21s01_bbbb0e0f:
 translate spanish d21s01_09a2d187:
 
     # hr "You weren't watching me. Only a pervert would do that."
-    hr "No me estabas mirando. Solo un pervertido haría eso."
+    hr "No me estabas mirando. Sólo un pervertido haría eso."
 
 # game/code/d21/d21s01.rpy:115
 translate spanish d21s01_69d1b39e:
@@ -166,7 +166,7 @@ translate spanish d21s01_72f1f557:
 translate spanish d21s01_6d7a16a0:
 
     # mc "Are you guys really that close?"
-    mc "¿Están realmente tan cerca?"
+    mc "¿De verdad están tan cerca?"
 
 # game/code/d21/d21s01.rpy:185
 translate spanish d21s01_55a06a0d:
@@ -202,7 +202,7 @@ translate spanish d21s01_d5e797f7:
 translate spanish d21s01_a6c2b9f7:
 
     # mc "You miss her? It's only been what, a day?"
-    mc "¿La extrañas? Sólo ha sido ¿cuánto, un día?"
+    mc "¿La extrañas? Sólo ha sido cuánto, ¿un día?"
 
 # game/code/d21/d21s01.rpy:203
 translate spanish d21s01_04f7eab7:
@@ -268,7 +268,7 @@ translate spanish d21s01_d95db007:
 translate spanish d21s01_200ca50e:
 
     # hr "Lydia too. But I didn't know her like you did. To me, she's just another trifling bitch. We have a lot of those."
-    hr "Lydia también. Pero yo no la conocía como tú. Para mí, ella es solo otra perra insignificante. Tenemos muchos de esos."
+    hr "Lydia también. Pero yo no la conocía como tú. Para mí, ella es sólo otra perra insignificante. Tenemos muchos de esos."
 
 # game/code/d21/d21s01.rpy:238
 translate spanish d21s01_49ebb0b1:
@@ -322,7 +322,7 @@ translate spanish d21s01_536a01fd:
 translate spanish d21s01_01004f78:
 
     # mc "He's going to prison. Also, he's probably afraid of redheads and the color yellow."
-    mc "Va a ir a prisión. Además, probablemente le tenga miedo a las pelirrojas y al color amarillo."
+    mc "Va a ir a la cárcel. Probablemente le den miedo las pelirrojas y el color amarillo."
 
 # game/code/d21/d21s01.rpy:266
 translate spanish d21s01_1065d2f1:
@@ -352,7 +352,7 @@ translate spanish d21s01_7431adad:
 translate spanish d21s01_8a3a155d:
 
     # hr "I guess. That just means I sucked his cock for no reason."
-    hr "Supongo. Eso solo significa que le chupé la polla sin ningún motivo."
+    hr "Supongo. Eso sólo significa que le chupé la polla sin ningún motivo."
 
 # game/code/d21/d21s01.rpy:283
 translate spanish d21s01_096c6b6b:
@@ -388,7 +388,7 @@ translate spanish d21s01_ee3e5cbe:
 translate spanish d21s01_2ede8edd:
 
     # mc "Think you forgot to set one."
-    mc "Creo que te olvidaste de poner una."
+    mc "Creo que te olvidaste de poner la alarma."
 
 # game/code/d21/d21s01.rpy:299
 translate spanish d21s01_2ec09fff:
@@ -616,7 +616,7 @@ translate spanish d21s01_a8cbddf2:
 translate spanish d21s01_d70d84b9:
 
     # hr "Here I was thinking that it was just morning wood."
-    hr "Aquí estaba pensando que era solo madera matutina."
+    hr "Aquí estaba pensando que era sólo madera matutina."
 
 # game/code/d21/d21s01.rpy:408
 translate spanish d21s01_76e9fc8f:
@@ -646,7 +646,7 @@ translate spanish d21s01_f54372b2:
 translate spanish d21s01_caf908ab:
 
     # hr "Well, that's a lot of things I want, doesn't mean we get it."
-    hr "Bueno, eso es un montón de cosas que quiero, no significa que lo consigamos."
+    hr "Bueno, hay muchas cosas que quiero, y eso no significa que vaya a conseguirlas."
 
 # game/code/d21/d21s01.rpy:421
 translate spanish d21s01_ae772318:
@@ -712,7 +712,7 @@ translate spanish d21s01_a09b11a5:
 translate spanish d21s01_67114929:
 
     # hr "Hey, I just came in here to get this and leave. Come get it while the offer's good."
-    hr "Oye, solo vine aquí para tomar esto y marcharme. Ven a buscarlo mientras la oferta sea buena."
+    hr "Oye, sólo vine aquí para recoger el micrófono y marcharme. Ven a tomarlo mientras la oferta está vigente."
 
 # game/code/d21/d21s01.rpy:462
 translate spanish d21s01_bj_eb2148af:
@@ -724,7 +724,7 @@ translate spanish d21s01_bj_eb2148af:
 translate spanish d21s01_bj_177d024f:
 
     # hr "Do it? No foreplay? No calling me daddy?"
-    hr "¿Hazlo? ¿Sin preliminares? ¿Sin llamarme papi?"
+    hr "¿Hazlo? ¿Sin juegos previos? ¿Sin llamarme papi?"
 
 # game/code/d21/d21s01.rpy:467
 translate spanish d21s01_bj_3c140d5c:
@@ -742,7 +742,7 @@ translate spanish d21s01_bj_d0bc1e60:
 translate spanish d21s01_bj_d92439d9:
 
     # mc "Yes. I do."
-    mc "Sí. Sí."
+    mc "Sí, si lo quiero."
 
 # game/code/d21/d21s01.rpy:479
 translate spanish d21s01_bj_89309dd6:
@@ -772,7 +772,7 @@ translate spanish d21s01_bj_6933f0d1:
 translate spanish d21s01_bj_df6eecf6:
 
     # hr "The threat is over. It's gone. We're in the languor stage of things."
-    hr "La amenaza ha terminado. Ha desaparecido. Estamos en la etapa de languidez de las cosas."
+    hr "La amenaza ha terminado. Ha desaparecido. Estamos en la etapa de inactividad."
 
 # game/code/d21/d21s01.rpy:491
 translate spanish d21s01_bj_3d996037:
@@ -796,7 +796,7 @@ translate spanish d21s01_bj_d9af6597:
 translate spanish d21s01_bj_652d7c8c:
 
     # hr "I didn't either."
-    hr "Yo tampoco"
+    hr "Yo tampoco."
 
 # game/code/d21/d21s01.rpy:497
 translate spanish d21s01_bj_82709296:
@@ -862,7 +862,7 @@ translate spanish d21s01_bj_83d8de31:
 translate spanish d21s01_bj_0bc73419:
 
     # hr "Yeah, but that was easy. Out on a boat in the middle of the ocean. It was an away team disadvantage for me."
-    hr "Sí, pero eso fue fácil. En un bote en medio del océano. Fue una desventaja del equipo visitante para mí."
+    hr "Sí, pero eso fue fácil. En un barco en medio del océano. Fue una desventaja del equipo visitante para mí."
 
 # game/code/d21/d21s01.rpy:528
 translate spanish d21s01_bj_90e94a8c:
@@ -922,19 +922,19 @@ translate spanish d21s01_bj_3e7b94f8:
 translate spanish d21s01_bj_d4544fb1:
 
     # mc "Here, give it a taste."
-    mc "Toma, pruébalo."
+    mc "Aquí, dale una probada."
 
 # game/code/d21/d21s01.rpy:556
 translate spanish d21s01_bj_c55cffed:
 
     # mc "Am I wrong about you wanting it?"
-    mc "¿Me equivoco en que lo quieres?"
+    mc "¿Me equivoco si digo que lo quieres?"
 
 # game/code/d21/d21s01.rpy:558
 translate spanish d21s01_bj_904b0856:
 
     # hr "I'm not a whore."
-    hr "No soy una puta"
+    hr "No soy una puta."
 
 # game/code/d21/d21s01.rpy:562
 translate spanish d21s01_bj_e51a8596:
@@ -1108,7 +1108,7 @@ translate spanish d21s01_bj_7ed23f8a:
 translate spanish d21s01_bj_1efb4f62:
 
     # mc "No fucking teeth, you fucking whore."
-    mc "Sin putos dientes, maldita perra."
+    mc "Sin dientes, puta de mierda."
 
 # game/code/d21/d21s01.rpy:719
 translate spanish d21s01_bj_7e71aed0:
@@ -1174,7 +1174,7 @@ translate spanish d21s01_bj_0c916fa9:
 translate spanish d21s01_bj_b3ef7e88:
 
     # hr "Nah. Just came out at the spur of the moment, you know?"
-    hr "No. Salió en el calor del momento, ¿sabes?"
+    hr "No. Salió en el calor del momento."
 
 # game/code/d21/d21s01.rpy:789
 translate spanish d21s01_bj_1991c0e8:
@@ -1240,7 +1240,7 @@ translate spanish d21s01_bj_8a5f29b0:
 translate spanish d21s01_bj_435bfe3f:
 
     # hr "After all that, you're not going to join me?"
-    hr "Después de todo eso, ¿no vas a unirte a mí?"
+    hr "Después de todo esto, ¿no vas a unirte a mí?"
 
 # game/code/d21/d21s01.rpy:826
 translate spanish d21s01_bj_dc0ff26a:
