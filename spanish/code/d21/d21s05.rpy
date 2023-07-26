@@ -100,7 +100,7 @@ translate spanish d21s05_f4d57327:
 translate spanish d21s05_a8b8209b:
 
     # arj "Only the best."
-    arj "Solo lo mejor."
+    arj "Sólo lo mejor."
 
 # game/code/d21/d21s05.rpy:147
 translate spanish d21s05_5f013e55:
@@ -130,7 +130,7 @@ translate spanish d21s05_34cd6e17:
 translate spanish d21s05_b1bcda08:
 
     # mc "So, is this just a Thank You party for Maria?"
-    mc "Entonces, ¿es solo una fiesta de agradecimiento para María?"
+    mc "Entonces, ¿es sólo una fiesta de agradecimiento para María?"
 
 # game/code/d21/d21s05.rpy:160
 translate spanish d21s05_d20f8af7:
@@ -220,7 +220,7 @@ translate spanish d21s05_17572006:
 translate spanish d21s05_46093749:
 
     # arj "Look, I'm just saying-"
-    arj "Mira, solo digo..."
+    arj "Mira, sólo digo..."
 
 # game/code/d21/d21s05.rpy:201
 translate spanish d21s05_0422b06d:
@@ -442,7 +442,7 @@ translate spanish d21s05_party_066c4a67:
 translate spanish d21s05_party_d0f10e09:
 
     # mc "I don't even remember{w}, and yes. Much better."
-    mc "Ni siquiera recuerdo {w}, y sí, es mucho mejor."
+    mc "Ni siquiera recuerdo {w}, y sí, es mucho mejor esta vista."
 
 # game/code/d21/d21s05.rpy:351
 translate spanish d21s05_party_65963e70:
@@ -514,7 +514,7 @@ translate spanish d21s05_party_5a7fd872:
 translate spanish d21s05_party_b705fb18:
 
     # ah "I love getting fucked by a real man instead of my loser boyfriend"
-    ah "Me encanta que me folle un hombre de verdad en lugar de mi novio perdedor"
+    ah "Me encanta que me folle un hombre de verdad en lugar del perdedor de mi novio."
 
 # game/code/d21/d21s05.rpy:417
 translate spanish d21s05_party_48299757:
@@ -568,7 +568,7 @@ translate spanish d21s05_party_3faf2ed4:
 translate spanish d21s05_party_9be08551:
 
     # mc "It is, but-"
-    mc "Lo es, pero-"
+    mc "Lo es, pero..."
 
 # game/code/d21/d21s05.rpy:457
 translate spanish d21s05_party_67e92867:
@@ -616,7 +616,7 @@ translate spanish d21s05_party_c5cf7272:
 translate spanish d21s05_party_812636ed:
 
     # mk "He's licking me from my clit to my shitter."
-    mk "Me está lamiendo desde mi clítoris hasta mi caca."
+    mk "Me está lamiendo desde mi clítoris hasta mi mierda."
 
 # game/code/d21/d21s05.rpy:513
 translate spanish d21s05_party_c8d512be:
@@ -634,7 +634,7 @@ translate spanish d21s05_party_7565c7f5:
 translate spanish d21s05_party_21e5af42:
 
     # ah "Do you want to cum like this?"
-    ah "¿Quieres correrte así?"
+    ah "¿Quieres correrte de esta manera?"
 
 # game/code/d21/d21s05.rpy:544
 translate spanish d21s05_party_d61d714f:
@@ -736,7 +736,7 @@ translate spanish d21s05_party_b4baa03c:
 translate spanish d21s05_party_35c8e5d9:
 
     # mct "Or do I just want to fuck Aaleyah's mouth while Terrell jerks off crying in the corner?"
-    mct "¿O solo quiero follar la boca de Aaleyah mientras Terrell se masturba llorando en la esquina?"
+    mct "¿O sólo quiero follar la boca de Aaleyah mientras Terrell se masturba llorando en la esquina?"
 
 # game/code/d21/d21s05.rpy:626
 translate spanish d21s05_fuck_tr_d7654326:
@@ -802,7 +802,7 @@ translate spanish d21s05_fuck_tr_1dfcf0c6:
 translate spanish d21s05_fuck_tr_b8207d80:
 
     # ah "How's that?"
-    ah "¿Cómo es eso?"
+    ah "¿Qué te parece?"
 
 # game/code/d21/d21s05.rpy:651
 translate spanish d21s05_fuck_tr_bfb49f8c:
@@ -820,7 +820,7 @@ translate spanish d21s05_fuck_tr_a126e41d:
 translate spanish d21s05_fuck_tr_01e21a27:
 
     # ah "Every time I've pegged that sissy he's dripped spoiled cum!!!"
-    ah "¡¡¡Cada vez que le he pegado a ese marica ha chorreado semen malcriado!!!"
+    ah "¡¡¡Cada vez que le he pegado a este marica ha chorreado semen!!!"
 
 # game/code/d21/d21s05.rpy:655
 translate spanish d21s05_fuck_tr_e011ebc1:
@@ -934,25 +934,25 @@ translate spanish d21s05_fuck_ah_b6e74aae:
 translate spanish d21s05_fuck_ah_a16bfa5f:
 
     # ah "Oh my fucking g-"
-    ah "Oh, mi maldita-"
+    ah "Oh, mi maldita..."
 
 # game/code/d21/d21s05.rpy:723
 translate spanish d21s05_fuck_ah_94743a50:
 
     # mc "There's a good girl."
-    mc "Hay una buena chica."
+    mc "Eres una buena chica."
 
 # game/code/d21/d21s05.rpy:738
 translate spanish d21s05_fuck_ah_0788f972:
 
     # mc "You love that, don't you, little slut?"
-    mc "Te encanta eso, ¿verdad, pequeña zorra?"
+    mc "Te encanta eso, verdad, ¿pequeña zorra?"
 
 # game/code/d21/d21s05.rpy:739
 translate spanish d21s05_fuck_ah_5589ef5a:
 
     # mk "I know I would."
-    mk "Sé que lo haría."
+    mk "Sé que a mí me gustaría."
 
 # game/code/d21/d21s05.rpy:742
 translate spanish d21s05_fuck_ah_6fede0a6:
@@ -1006,7 +1006,7 @@ translate spanish d21s05_end_181aa982:
 translate spanish d21s05_end_9f1c0ce8:
 
     # mk "Fuck yes."
-    mk "Joder, sí."
+    mk "Mierda, sí."
 
 # game/code/d21/d21s05.rpy:772
 translate spanish d21s05_end_dd41c54c:
@@ -1120,13 +1120,13 @@ translate spanish d21s05_end_f36e5aec:
 translate spanish d21s05_end_d1117780:
 
     # tr "Damn, Maria. That was the best orgy I've ever been a part of."
-    tr "Maldita sea, María. Esa fue la mejor orgía de la que he sido parte."
+    tr "Maldita sea, María. Esa fue la mejor orgía en la que he participado."
 
 # game/code/d21/d21s05.rpy:853
 translate spanish d21s05_end_c8fd2191:
 
     # ah "It was your first, dumbass. But it's true. Thanks Maria."
-    ah "Fue tu primera, idiota. Pero es verdad. Gracias María."
+    ah "Fue tu primera orgía, idiota. Pero es verdad. Gracias María."
 
 # game/code/d21/d21s05.rpy:855
 translate spanish d21s05_end_8a580263:
@@ -1180,7 +1180,7 @@ translate spanish d21s05_end_bb5499eb:
 translate spanish d21s05_end_ec984fc6:
 
     # tr "I know.{w} i was just trying to be funny."
-    tr "Lo sé. {w} Solo intentaba ser gracioso."
+    tr "Lo sé. {w} Sólo intentaba ser gracioso."
 
 # game/code/d21/d21s05.rpy:878
 translate spanish d21s05_end_85b0a57c:
