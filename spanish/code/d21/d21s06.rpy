@@ -316,7 +316,7 @@ translate spanish d21s06_d4ec4e3f:
 translate spanish d21s06_1d7c7f90:
 
     # mc "Yeah, that has to be a kink, right? People wearing clothes to an orgy, what's the purpose other than for teasing and to elude imagination into fantasy?"
-    mc "Sí, eso tiene que ser una manía, ¿verdad?. Personas que visten ropa para una orgía, ¿cuál es el propósito aparte de burlarse y eludir la imaginación hacia la fantasía?"
+    mc "Sí, eso tiene que ser una manía, ¿no? Personas vistiéndose en una orgía, ¿cuál es el propósito aparte de burlarse y eludir la imaginación en la fantasía?"
 
 # game/code/d21/d21s06.rpy:184
 translate spanish d21s06_98b3ec46:
@@ -1894,7 +1894,7 @@ translate spanish d21s06_no_fl_ad3129e2:
 translate spanish d21s06_no_fl_254d07c9:
 
     # arj "The only one I'm interested in is you."
-    arj "La única que me interesa eres tú."
+    arj "El único que me interesa eres tú."
 
 # game/code/d21/d21s06.rpy:836
 translate spanish d21s06_no_fl_b88f3019:
@@ -2176,7 +2176,7 @@ translate spanish d21s06_waterfall_7ef67f79:
 translate spanish d21s06_waterfall_17cc5734:
 
     # mc "Min."
-    mc "mín."
+    mc "Min."
 
 # game/code/d21/d21s06.rpy:977
 translate spanish d21s06_waterfall_41ff3d7e:
@@ -2188,7 +2188,7 @@ translate spanish d21s06_waterfall_41ff3d7e:
 translate spanish d21s06_waterfall_9eefde61:
 
     # mc "Hey, Min. What are you up to?"
-    mc "hola min ¿Qué estás haciendo?"
+    mc "Hola Min ¿Qué estás haciendo?"
 
 # game/code/d21/d21s06.rpy:985
 translate spanish d21s06_waterfall_11f94ca0:
@@ -2302,7 +2302,7 @@ translate spanish d21s06_waterfall_fdcf3625:
 translate spanish d21s06_waterfall_9705fa57:
 
     # mes "So I'm waiting for you call then. Now I'm going to drop out."
-    mes "Así que estoy esperando tu llamada entonces. Ahora me voy, te dejo."
+    mes "Así que espero tu llamada entonces. Ahora me voy, te dejo."
 
 # game/code/d21/d21s06.rpy:1050
 translate spanish d21s06_waterfall_a437bdda:
@@ -2338,13 +2338,13 @@ translate spanish d21s06_waterfall_d9ec8d68:
 translate spanish d21s06_waterfall_c2909545:
 
     # sy "That was actually my idea. I already copyrighted it."
-    sy "Esa fue en realidad mi idea. Ya tengo derechos de autor."
+    sy "Esa fue en realidad mi idea. Ya tengo los derechos de autor."
 
 # game/code/d21/d21s06.rpy:1070
 translate spanish d21s06_waterfall_f3e95fbb:
 
     # mc "You actually have to fill out forms to copyright something, you can't just claim something and not do anything."
-    mc "De hecho, tienes que completar formularios para obtener derechos de autor de algo, no puedes simplemente reclamar algo y no hacer nada."
+    mc "De hecho, tienes que completar formularios para obtener los derechos de autor de algo, no puedes simplemente reclamar algo y no hacer nada."
 
 # game/code/d21/d21s06.rpy:1073
 translate spanish d21s06_waterfall_ab72c95b:
