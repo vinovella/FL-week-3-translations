@@ -910,7 +910,7 @@ translate spanish d21s05_fuck_ah_f3453c35:
 translate spanish d21s05_fuck_ah_6b686f2b:
 
     # ah "Only in the bedroom. He likes it."
-    ah "Solo en el dormitorio. A él le gusta."
+    ah "Sólo en el dormitorio. A él le gusta."
 
 # game/code/d21/d21s05.rpy:713
 translate spanish d21s05_fuck_ah_e8c362ea:
