@@ -64,7 +64,7 @@ translate spanish d20s09_69705684:
 translate spanish d20s09_c460b311:
 
     # hr "Oh, hey. I didn't realize you were gonna be here."
-    hr "Oh hola. No sabía que ibas a estar aquí."
+    hr "Oh, hola. No sabía que ibas a estar aquí."
 
 # game/code/d20/d20s09.rpy:70
 translate spanish d20s09_9d83a8e2:
@@ -94,7 +94,7 @@ translate spanish d20s09_725dd40d:
 translate spanish d20s09_5d16f2db:
 
     # mc "You bugged us!?"
-    mc "¿¡Nos molestaste!?"
+    mc "¿¡Nos colocaste un micrófono!?"
 
 # game/code/d20/d20s09.rpy:88
 translate spanish d20s09_b19004c5:
@@ -130,7 +130,7 @@ translate spanish d20s09_6cdbfeb8:
 translate spanish d20s09_750ad2dc:
 
     # hr "Pretty much. Though this one was a bit more personal."
-    hr "Más o menos. Aunque este fue un poco más personal."
+    hr "Más o menos. Aunque esto fue un poco más personal."
 
 # game/code/d20/d20s09.rpy:104
 translate spanish d20s09_5e44a000:
@@ -172,7 +172,7 @@ translate spanish d20s09_2866c342:
 translate spanish d20s09_dbdca6d1:
 
     # mc "When have you ever worried about being rude to me, Hana? Spit it out."
-    mc "¿Cuándo te has preocupado por ser grosera conmigo, Hana? Escúpelo."
+    mc "¿Cuándo te has preocupado por ser grosera conmigo, Hana? Dímelo."
 
 # game/code/d20/d20s09.rpy:127
 translate spanish d20s09_ab0917df:
@@ -346,7 +346,7 @@ translate spanish d20s09_7da0eb33:
 translate spanish d20s09_825e60e6:
 
     # mc "Well, I certainly wouldn't say {i}no{/i} to you wanting to get frisky. But I didn't ask you to stay only because of that."
-    mc "Bueno, ciertamente no diría {i}no{/i} a ti queriendo ponerte juguetona. Pero no te pedí que te quedaras solo por eso."
+    mc "Bueno, ciertamente no diría {i}no{/i} a ti queriendo ponerte juguetona. Pero no te pedí que te quedaras sólo por eso."
 
 # game/code/d20/d20s09.rpy:204
 translate spanish d20s09_47781a9c:
