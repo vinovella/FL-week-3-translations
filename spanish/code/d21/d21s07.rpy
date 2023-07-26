@@ -4,19 +4,19 @@
 translate spanish d21s07_84c0422b:
 
     # lc "That was when my boyfriend-"
-    lc "Fue entonces cuando mi novio-"
+    lc "Fue entonces cuando mi novio..."
 
 # game/code/d21/d21s07.rpy:51
 translate spanish d21s07_81f21ce2:
 
     # "Defense Attorney" "That would be [mcname] Young?"
-    "Abogada de la defensa" "Ese sería [mcname] ¿Young?"
+    "Abogada de la defensa" "¿Ese sería [mcname] Young?"
 
 # game/code/d21/d21s07.rpy:58
 translate spanish d21s07_90cecf9a:
 
     # lc "Yes, we were taking a shower together and [mcname] Young told me-"
-    lc "Sí, nos estábamos duchando juntos y [mcname] Young me dijo-"
+    lc "Sí, nos estábamos duchando juntos y [mcname] Young me dijo..."
 
 # game/code/d21/d21s07.rpy:62
 translate spanish d21s07_b81bdb87:
@@ -34,7 +34,7 @@ translate spanish d21s07_fc5b685e:
 translate spanish d21s07_81ca21c3:
 
     # lc "Yes, of course. That was [mcname] Young told me about Fetish Locator's dark secret."
-    lc "Sí, claro. Fue [mcname] Young me contó sobre el oscuro secreto del Localizador de Fetiches."
+    lc "Sí, claro. Fue [mcname] Young el que me contó sobre el oscuro secreto del Localizador de Fetiches."
 
 # game/code/d21/d21s07.rpy:71
 translate spanish d21s07_1a571b26:
@@ -58,7 +58,7 @@ translate spanish d21s07_34bbcff1:
 translate spanish d21s07_ad83d3c7:
 
     # mc "*whispers* I think we broke up. If we were ever really dating..."
-    mc "*susurra* Creo que terminamos. Si alguna vez estuviéramos realmente saliendo..."
+    mc "*susurra* Me parece que rompimos. Si alguna vez fuimos novios de verdad..."
 
 # game/code/d21/d21s07.rpy:84
 translate spanish d21s07_3c3adf41:
@@ -106,13 +106,13 @@ translate spanish d21s07_584aa10e:
 translate spanish d21s07_0defe80f:
 
     # jdg "Remain seated.{w} Prosecutor, would you like to cross examine the witness?"
-    jdg "Permanezca sentada. {w} Fiscal, ¿le gustaría contrainterrogar al testigo?"
+    jdg "Permanezca sentada. {w} Fiscal, ¿le gustaría contrainterrogar a la testigo?"
 
 # game/code/d21/d21s07.rpy:111
 translate spanish d21s07_c3045b05:
 
     # "Prosecutor" "I would, your honor.{w} Miss Cox, you testified that you did not know what Mister Skinner was doing."
-    "Fiscal" "Lo haré, su señoría.{w} Señorita Cox, testificó que no sabía lo que estaba haciendo el señor Skinner."
+    "Fiscal" "Lo haré, su señoría.{w} Señorita Cox, testificó que no sabía lo que estaba haciendo el Señor Skinner."
 
 # game/code/d21/d21s07.rpy:114
 translate spanish d21s07_ff765414:
@@ -220,7 +220,7 @@ translate spanish d21s07_292b072f:
 translate spanish d21s07_a4bb28f8:
 
     # "Prosecutor" "As I was saying, Miss Cox. How do you explain your fingerprints in that server room?"
-    "Fiscal" "Como iba diciendo, Srta. Cox. ¿Cómo explica la presencia de sus huellas en la sala de servidores?"
+    "Fiscal" "Como iba diciendo, Señorita Cox. ¿Cómo explica la presencia de sus huellas en la sala de servidores?"
 
 # game/code/d21/d21s07.rpy:168
 translate spanish d21s07_745314b1:
@@ -292,7 +292,7 @@ translate spanish d21s07_186a6b02:
 translate spanish d21s07_b200f701:
 
     # jdg "Defense, redirect?"
-    jdg "Defensa, ¿redirigir?"
+    jdg "Defensa, ¿tiene más preguntas?"
 
 # game/code/d21/d21s07.rpy:200
 translate spanish d21s07_64862fc8:
@@ -304,7 +304,7 @@ translate spanish d21s07_64862fc8:
 translate spanish d21s07_27e3931c:
 
     # jdg "You may step down, Miss Cox. In fact, would a guard please escort this defendant someplace where she can wash her face?"
-    jdg "Puede retirarse, Señorita. Cox. De hecho, ¿podría un guardia acompañar a la acusada a un lugar donde pueda lavarse la cara?"
+    jdg "Puede retirarse, Señorita Cox. De hecho, ¿podría un guardia acompañar a la acusada a un lugar donde pueda lavarse la cara?"
 
 # game/code/d21/d21s07.rpy:206
 translate spanish d21s07_6912b8c1:
@@ -406,13 +406,13 @@ translate spanish d21s07_3c28db56:
 translate spanish d21s07_bbefde22:
 
     # jdg "Bailiff, please escort everyone else out."
-    jdg "Alguacil, por favor acompañe a todos los demás fuera."
+    jdg "Alguacil, por favor acompañe a todos los demás afuera."
 
 # game/code/d21/d21s07.rpy:260
 translate spanish d21s07_ae1a978f:
 
     # "Bailiff" "You heard the Judge!{w} EVERYBODY MOVE!!!"
-    "Alguacil" "¡Ya escucharon a la Jueza! ¡¡¡TODO EL MUNDO FUERA!!!"
+    "Alguacil" "¡Ya escucharon a la Jueza! ¡¡¡TODO EL MUNDO AFUERA!!!"
 
 # game/code/d21/d21s07.rpy:268
 translate spanish d21s07_b116f7cc:
@@ -424,7 +424,7 @@ translate spanish d21s07_b116f7cc:
 translate spanish d21s07_bb0b652d:
 
     # jdg "I just wanted you to know that if things were slightly different there right now we'd be talking about a very interesting offer."
-    jdg "Solo quería que supieras que si las cosas fueran un poco diferentes en este momento, estaríamos hablando de una oferta muy interesante."
+    jdg "Sólo quería que supieras que si las cosas fueran un poco diferentes en este momento, estaríamos hablando de una oferta muy interesante."
 
 # game/code/d21/d21s07.rpy:274
 translate spanish d21s07_83c6a848:
@@ -460,7 +460,7 @@ translate spanish d21s07_43f563bc:
 translate spanish d21s07_f87834b5:
 
     # jdg "Miss Cox said she would only agree if you were assigned as the warden."
-    jdg "La Señorita Cox dijo que solo estaría de acuerdo si usted fuera asignado como alcaide."
+    jdg "La Señorita Cox dijo que sólo estaría de acuerdo si usted fuera asignado como su alcaide."
 
 # game/code/d21/d21s07.rpy:288
 translate spanish d21s07_12578c2b:
@@ -574,7 +574,7 @@ translate spanish d21s07_offer_19439a3e:
 translate spanish d21s07_offer_f7c497fb:
 
     # "Prosecutor" "I have offered Miss Cox an unconventional alternative to prison."
-    "Fiscal" "Le he ofrecido a la Señorita. Cox una alternativa poco convencional a la prisión."
+    "Fiscal" "Le he ofrecido a la Señorita Cox una alternativa poco convencional a la prisión."
 
 # game/code/d21/d21s07.rpy:335
 translate spanish d21s07_offer_452cd0fa:
@@ -646,7 +646,7 @@ translate spanish d21s07_offer_8f868d09:
 translate spanish d21s07_offer_08d4aea5:
 
     # jdg "There would be an electronic implant - much better than those old ankle bracelets - to ensure she stayed within her property limits."
-    jdg "Habría un implante electrónico, mucho mejor que esas viejas tobilleras, para asegurarse de que se mantuviera dentro de los límites de su propiedad."
+    jdg "Llevaría un implante electrónico, mucho mejor que esas viejas tobilleras, para asegurarse de que se mantuviera dentro de los límites de su propiedad."
 
 # game/code/d21/d21s07.rpy:367
 translate spanish d21s07_offer_465aab05:
@@ -718,7 +718,7 @@ translate spanish d21s07_offer_e1494031:
 translate spanish d21s07_offer_38c8cce7:
 
     # "Prosecutor" "The third group is just you."
-    "Fiscal" "El tercer grupo es solo usted."
+    "Fiscal" "El tercer grupo es sólo usted."
 
 # game/code/d21/d21s07.rpy:394
 translate spanish d21s07_offer_d38b27dc:
@@ -766,7 +766,7 @@ translate spanish d21s07_offer_d06d682c:
 translate spanish d21s07_offer_03954793:
 
     # mc "What you're asking is immoral, unethical, and completely wrong in every possible way."
-    mc "Lo que estás preguntando es inmoral, poco ético y completamente incorrecto en todas las formas posibles."
+    mc "Lo que pides es inmoral, poco ético y completamente erróneo en todos los sentidos posibles."
 
 # game/code/d21/d21s07.rpy:414
 translate spanish d21s07_offer_3e93130c:
@@ -964,7 +964,7 @@ translate spanish d21s07_jdg_quickie_777fb667:
 translate spanish d21s07_jdg_quickie_ebaf1721:
 
     # jdg "Just my mouth. We don't have time for more."
-    jdg "Solo mi boca. No tenemos tiempo para más."
+    jdg "Sólo mi boca. No tenemos tiempo para más."
 
 # game/code/d21/d21s07.rpy:505
 translate spanish d21s07_jdg_quickie_72ae1b9d:
@@ -1168,7 +1168,7 @@ translate spanish d21s07_offer_p2_683d73b8:
 translate spanish d21s07_closing_875bd45e:
 
     # "Bailiff" "All Rise!{w} The People v. Lydia Cox and Jerome Skinner will now resume."
-    "Alguacil" "¡Todos de pie! {w} El pueblo contra Lydia Cox y Jerome Skinner ahora se reanudará."
+    "Alguacil" "¡Todos de pie!{w} La demanda contra Lydia Cox y Jerome Skinner se reanudará."
 
 # game/code/d21/d21s07.rpy:655
 translate spanish d21s07_closing_9d59a917:
@@ -1186,7 +1186,7 @@ translate spanish d21s07_closing_009a7012:
 translate spanish d21s07_closing_cebf5262:
 
     # lc "You do, your honor?"
-    lc "¿Lo tiene, su señoría?"
+    lc "¿Los tiene, su señoría?"
 
 # game/code/d21/d21s07.rpy:665
 translate spanish d21s07_closing_30410363:
@@ -1282,7 +1282,7 @@ translate spanish d21s07_closing_595ddc63:
 translate spanish d21s07_closing_813ad80e:
 
     # jdg "Very well. Please be at Miss Cox's house tomorrow afternoon at 3pm for delivery."
-    jdg "Muy bien. Por favor, preséntese en casa de la Srta. Cox mañana a las 15:00 p.m. para la entrega."
+    jdg "Muy bien. Por favor, preséntese en casa de la Señorita Cox mañana a las 15:00 p.m. para la entrega."
 
 # game/code/d21/d21s07.rpy:707
 translate spanish d21s07_closing_d0d381e6:
@@ -1294,7 +1294,7 @@ translate spanish d21s07_closing_d0d381e6:
 translate spanish d21s07_closing_ea46fe6d:
 
     # jdg "Miss Cox will be stripped, shackled, and prepared for your tender loving care."
-    jdg "La señorita Cox será desnudada, encadenada y preparada para su tierno y amoroso cuidado."
+    jdg "La Señorita Cox será desnudada, encadenada y preparada para su tierno y amoroso cuidado."
 
 # game/code/d21/d21s07.rpy:713
 translate spanish d21s07_closing_7a9a4091:
@@ -1468,13 +1468,13 @@ translate spanish d21s07_closing_794639d0:
 translate spanish d21s07_closing_24fc9002:
 
     # jdg "You will be on parole for no less than 2 years. If you complete the conditions of your parole you will not need to serve any time."
-    jdg "Estará en libertad condicional no menos de 2 años. Si cumple las condiciones de su libertad condicional, no tendrá que cumplir ninguna condena."
+    jdg "Estará en libertad condicional por un periodo no menor a 2 años. Si cumple las condiciones de la libertad condicional, no tendrá que cumplir ninguna condena."
 
 # game/code/d21/d21s07.rpy:794
 translate spanish d21s07_closing_2c90be27:
 
     # jdg "If you fail to comply with the conditions of your parole, you will serve the entire time as required."
-    jdg "Si incumple las condiciones de su libertad condicional, cumplirá todo el tiempo que sea necesario."
+    jdg "Si incumple algunas de las condiciones de su libertad condicional, cumplirá todo el tiempo que le corresponda en prisión."
 
 # game/code/d21/d21s07.rpy:797
 translate spanish d21s07_closing_884dc75b:
