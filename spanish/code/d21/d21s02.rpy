@@ -22,7 +22,7 @@ translate spanish d21s02_e694b56a:
 translate spanish d21s02_48033b73:
 
     # arj "No. Just no. Why would you even-?"
-    arj "No simplemente no. ¿Por qué incluso-?"
+    arj "No, simplemente no. ¿Por qué incluso-?"
 
 # game/code/d21/d21s02.rpy:42
 translate spanish d21s02_35fb3602:
@@ -142,7 +142,7 @@ translate spanish d21s02_b384039a:
 translate spanish d21s02_98e954e6:
 
     # mc "Stacy, get your shit together. You're with me."
-    mc "Stacy, compórtate. Te vienes conmigo."
+    mc "Stacy, compórtate. Tú vienes conmigo."
 
 # game/code/d21/d21s02.rpy:105
 translate spanish d21s02_74814b1b:
@@ -220,7 +220,7 @@ translate spanish d21s02_meet_lc_53224e1f:
 translate spanish d21s02_meet_lc_4e9bed13:
 
     # mc "Good to see you, too."
-    mc "Es bueno verte también."
+    mc "Yo también me alegro de verte."
 
 # game/code/d21/d21s02.rpy:180
 translate spanish d21s02_ntr_arj_4e3e9555:
@@ -232,7 +232,7 @@ translate spanish d21s02_ntr_arj_4e3e9555:
 translate spanish d21s02_ntr_arj_92a665d3:
 
     # mc "It's a scary place. Just remember that we get to walk out of here."
-    mc "Es un lugar aterrador. Solo recuerda que tenemos que salir caminando de aquí."
+    mc "Es un lugar aterrador. Sólo recuerda que tenemos que salir caminando de aquí."
 
 # game/code/d21/d21s02.rpy:186
 translate spanish d21s02_ntr_arj_5f52a95d:
@@ -250,7 +250,7 @@ translate spanish d21s02_ntr_arj_16ea885c:
 translate spanish d21s02_ntr_arj_0ffa9f24:
 
     # mc "Just remember who is on which side of the bars."
-    mc "Solo recuerda quién está de qué lado de las barras."
+    mc "Sólo recuerda quién está a cada lado de las barras."
 
 # game/code/d21/d21s02.rpy:196
 translate spanish d21s02_ntr_arj_29306229:
@@ -274,7 +274,7 @@ translate spanish d21s02_ntr_arj_7a8bceb0:
 translate spanish d21s02_ntr_arj_9510eedb:
 
     # arj "Fuck you. You don't know me."
-    arj "Vete a la mierda. No me conoces"
+    arj "Vete a la mierda. No me conoces."
 
 # game/code/d21/d21s02.rpy:208
 translate spanish d21s02_ntr_arj_10b8f8f2:
@@ -304,7 +304,7 @@ translate spanish d21s02_ntr_arj_a598cc7f:
 translate spanish d21s02_ntr_arj_05dfc2f1:
 
     # arj "Fuck you."
-    arj "Vete a la mierda"
+    arj "Vete a la mierda."
 
 # game/code/d21/d21s02.rpy:222
 translate spanish d21s02_ntr_arj_b62bed16:
@@ -694,7 +694,7 @@ translate spanish d21s02_lc_sy_84f0f23d:
 translate spanish d21s02_lc_sy_1f717e5c:
 
     # lc "Every social group has a single central hub. Often many different social groups center around a specific hub."
-    lc "Cada grupo social tiene un solo eje central. A menudo, muchos grupos sociales diferentes giran en torno a un centro específico."
+    lc "Cada grupo social tiene un único eje central. A menudo, muchos grupos sociales diferentes giran en torno a un eje específico."
 
 # game/code/d21/d21s02.rpy:422
 translate spanish d21s02_lc_sy_2bb3c707:
@@ -724,13 +724,13 @@ translate spanish d21s02_lc_sy_acd6fe78:
 translate spanish d21s02_lc_sy_ecd82c3a:
 
     # lc "I'd say that I influenced them. Sometimes it was a person. Sometimes it was just a place where people gathered."
-    lc "Diría que yo los influí. A veces era una persona. A veces era solo un lugar donde la gente se reunía."
+    lc "Diría que yo los influí. A veces era una persona. A veces era sólo un lugar donde la gente se reunía."
 
 # game/code/d21/d21s02.rpy:433
 translate spanish d21s02_lc_sy_499ad93e:
 
     # lc "Drop an invite customized to that nexus, then watch the app spread to their group."
-    lc "Envíe una invitación personalizada para ese nexo y luego observe cómo la aplicación se extiende a su grupo."
+    lc "Envíe una invitación personalizada a ese nexo y observa cómo la aplicación se extiende entre los miembros del grupo."
 
 # game/code/d21/d21s02.rpy:436
 translate spanish d21s02_lc_sy_e7f637e1:
@@ -964,7 +964,7 @@ translate spanish d21s02_mc_lc_129ea37f:
 translate spanish d21s02_mc_lc_e8cce80e:
 
     # lc "I'm fine, I guess. Just the reality of what has happened is sinking in."
-    lc "Estoy bien, supongo. Solo la realidad de lo que ha sucedido se está hundiendo."
+    lc "Estoy bien, supongo. Sólo la realidad de lo que ha sucedido se está hundiendo."
 
 # game/code/d21/d21s02.rpy:552
 translate spanish d21s02_mc_lc_90b5fb3a:
@@ -1156,7 +1156,7 @@ translate spanish d21s02_arj_ending_f85dfd95:
 translate spanish d21s02_arj_ending_db41a6ac:
 
     # arj "I did a little research. You know there's only one female prison in this state?"
-    arj "Hice una pequeña investigación. ¿Sabes que solo hay una prisión para mujeres en este estado?"
+    arj "Hice una pequeña investigación. ¿Sabes que sólo hay una prisión de mujeres en este estado?"
 
 # game/code/d21/d21s02.rpy:646
 translate spanish d21s02_arj_ending_8882cc1f:
@@ -1198,7 +1198,7 @@ translate spanish d21s02_arj_ending_7e9a9a1c:
 translate spanish d21s02_arj_ending_11460259:
 
     # lc "You're bluffing."
-    lc "Estás fanfarroneando."
+    lc "Estás presumiendo."
 
 # game/code/d21/d21s02.rpy:659
 translate spanish d21s02_arj_ending_0f139e65:
