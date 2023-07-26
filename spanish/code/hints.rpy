@@ -335,12 +335,12 @@ translate spanish strings:
     new "Aumenta la probabilidad de desbloquear el final del embarazo de Daisy."
 
     # game/code/hints.rpy:5
-    old "Lose option for Polly/Nora/[mcname] Threesome ending."
-    new "Pierdes la oportunidad de tener un final de trío Polly/Nora/[mcname]."
+    old "Lose option for Polly/Nora/MC Threesome ending."
+    new "Pierdes la oportunidad de tener un final de trío Polly/Nora/MC."
 
     # game/code/hints.rpy:5
-    old "Increases chance of Polly/Nora/[mcname] Threesome ending."
-    new "Aumenta la posibilidad de que el trío Polly/Nora/[mcname] termine."
+    old "Increases chance of Polly/Nora/MC Threesome ending."
+    new "Aumenta la posibilidad de que el trío Polly/Nora/MC termine."
 
     # game/code/hints.rpy:5
     old "You will start a relationship with Jessie. Necessary for Ending 16."
@@ -352,7 +352,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Begin Ending-16."
-    new "Comenzar Final-16."
+    new "Comenzar el Final 16."
 
     # game/code/hints.rpy:5
     old "Wrong answer."
@@ -440,11 +440,11 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-18."
-    new "Esta elección comienza el Final-18."
+    new "Esta elección comienza el Final 18."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-12."
-    new "Esta elección comienza el Final-12."
+    new "Esta elección comienza el Final 12."
 
     # game/code/hints.rpy:5
     old "Assault the Judge before getting drunk. This choice lets you continue the main story."
@@ -480,7 +480,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-07."
-    new "Esta elección comienza el Final-07."
+    new "Esta elección comienza el Final 07."
 
     # game/code/hints.rpy:5
     old "You will go to her, spend some time with her, and then get the choice to run off with her."
@@ -508,7 +508,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-11."
-    new "Esta elección comienza el Final-11."
+    new "Esta elección comienza el Final 11."
 
     # game/code/hints.rpy:5
     old "Dahlia gets off of you as you cum on yourself and disappoint Dahlia."
@@ -520,7 +520,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-17."
-    new "Esta elección comienza el Final-17."
+    new "Esta elección comienza el Final 17."
 
     # game/code/hints.rpy:5
     old "You will use AmRose's panties to jerk off, and then you will cum in them. AmRose will use these panties later on in the day."
@@ -756,7 +756,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-10."
-    new "Esta elección comienza el Final-10."
+    new "Esta elección comienza el Final 10."
 
     # game/code/hints.rpy:5
     old "This choice lets you continue the main story. Try to find other Min endings..."
@@ -780,7 +780,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-14."
-    new "Esta elección comienza el Final-14."
+    new "Esta elección comienza el Final 14."
 
     # game/code/hints.rpy:5
     old "Stacy likes this. More likely to result in a Stacy ending."
@@ -808,11 +808,11 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Hana will call you \"Daddy\"."
-    new "Hana te llamará \"papá\"."
+    new "Hana te llamará \"Papi\"."
 
     # game/code/hints.rpy:5
     old "Hana will NOT call you \"Daddy\"."
-    new "Hana NO te llamará \"papá\"."
+    new "Hana NO te llamará \"Papi\"."
 
     # game/code/hints.rpy:5
     old "You decide to join Hana in the shower. This is necessary for ending 15."
@@ -832,7 +832,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "This choice is necessary to unlock Ending-04."
-    new "Esta elección es necesaria para desbloquear el Final-04."
+    new "Esta elección es necesaria para desbloquear el Final 04."
 
     # game/code/hints.rpy:5
     old "Doesn't help Lydia, and you don't get an option for an ending with her."
@@ -840,11 +840,11 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "This is bad for Lydia's case . You maybe able to punish her yourself. Necessary for Ending-04."
-    new "Esto es malo para el caso de Lydia. Tal vez puedas castigarla tú mismo. Necesario para el Final-04."
+    new "Esto es malo para el caso de Lydia. Tal vez puedas castigarla tú mismo. Necesario para el Final 04."
 
     # game/code/hints.rpy:5
     old "This is good for Lydia's case. She might not go to prison. Necessary for Ending-06."
-    new "Esto es bueno para el caso de Lydia. Puede que no vaya a la cárcel. Necesario para el Final-06."
+    new "Esto es bueno para el caso de Lydia. Puede que no vaya a la cárcel. Necesario para el Final 06."
 
     # game/code/hints.rpy:5
     old "Because of your lingering feelings for Lydia, Lyssa doesn't tell you that she wants a deeper relationship. This closes off all endings with Lyssa."
@@ -856,15 +856,15 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-02."
-    new "Esta elección comienza el Final-02."
+    new "Esta elección comienza el Final 02."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-03."
-    new "Esta elección comienza el Final-03."
+    new "Esta elección comienza el Final 03."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-05."
-    new "Esta elección comienza el Final-05."
+    new "Esta elección comienza el Final 05."
 
     # game/code/hints.rpy:5
     old "Sodomize the guy and humiliate him in front of his girlfriend."
@@ -876,15 +876,15 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-09."
-    new "Esta elección comienza el Final-09."
+    new "Esta elección comienza el Final 09."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-15."
-    new "Esta elección comienza el Final-15."
+    new "Esta elección comienza el Final 15."
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-04."
-    new "Esta elección comienza el Final-04."
+    new "Esta elección comienza el Final 04."
 
     # game/code/hints.rpy:5
     old "Continue towards a different ending."
@@ -892,15 +892,15 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "This choice starts Ending-06."
-    new "Esta elección comienza el Final-06."
+    new "Esta elección comienza el Final 06."
 
     # game/code/hints.rpy:5
     old "Start Ending-08 with AmRose."
-    new "Comienza el Final-08 con AmRose."
+    new "Comienza el Final 08 con AmRose."
 
     # game/code/hints.rpy:5
     old "Start Ending-01 with Stacy."
-    new "Comienza el Final-01 con Stacy."
+    new "Comienza el Final 01 con Stacy."
 
     # game/code/hints.rpy:5
     old "Alone in the Rain ending."
@@ -939,8 +939,8 @@ translate spanish strings:
     new "Le das una mamada a Lyssa. Esta es una escena opcional."
 
     # game/code/hints.rpy:5
-    old "This option skips the blowjob scene. Scene goes to Lyssa and [mcname] indoors."
-    new "Esta opción se salta la escena de la mamada. La escena lleva a Lyssa y al [mcname] al interior."
+    old "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
+    new "Esta opción se salta la escena de la mamada. La escena lleva a Lyssa y al MC al interior."
 
     # game/code/hints.rpy:5
     old "You do both."
