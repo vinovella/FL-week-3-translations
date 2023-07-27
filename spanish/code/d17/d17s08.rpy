@@ -808,13 +808,13 @@ translate spanish replay_d17s08_f10db3de:
 translate spanish replay_d17s08_fcaf3220:
 
     # mc "It was just my girlfriend & I.{w}.. I was getting ready to sleep."
-    mc "Solo éramos mi novia y yo. {w}... Me estaba preparando para dormir."
+    mc "Sólo éramos mi novia y yo. {w}... Me estaba preparando para dormir."
 
 # game/code/d17/d17s08.rpy:496
 translate spanish replay_d17s08_4d7f0c0b:
 
     # sy "I'm not complaining. I'm just saying, after Sunday..."
-    sy "No me estoy quejando. Solo digo, después del domingo..."
+    sy "No me estoy quejando. Sólo digo que después del domingo..."
 
 # game/code/d17/d17s08.rpy:499
 translate spanish replay_d17s08_e46b7572:
@@ -880,7 +880,7 @@ translate spanish replay_d17s08_46a1f2b0:
 translate spanish replay_d17s08_60658749:
 
     # mct "Oh, right. Retention might be listening."
-    mct "Oh, cierto. La retención podría estar escuchando."
+    mct "Oh, cierto. El programa de retención podría estar escuchando."
 
 # game/code/d17/d17s08.rpy:527
 translate spanish replay_d17s08_5850c7f6:
