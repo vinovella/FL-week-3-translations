@@ -628,7 +628,7 @@ translate spanish d15s03_dw_setup_c1f2ceb3:
 translate spanish d15s03_dw_setup_7b7a7f62:
 
     # pb "As far as Dahlia is concerned everyone - especially Samiya - is either a predator or prey. If you show weakness, she treats you as prey."
-    pb "En lo que respecta a Dahlia, todos, especialmente Samiya, son depredadores o presas. Si muestras debilidad, te trata como una presa."
+    pb "Para Dahlia, todo el mundo, especialmente Samiya, es depredador o presa. Si muestras debilidad, te trata como a una presa."
 
 # game/code/d15/d15s03.rpy:344
 translate spanish d15s03_dw_setup_37f3426e:
@@ -670,7 +670,7 @@ translate spanish d15s03_dw_setup_0b8535ba:
 translate spanish d15s03_dw_setup_d34beca7:
 
     # mct "I should get Dahlia and Samiya together and show them both who is boss."
-    mct "Debería juntar a Dahlia y Samiya y mostrarles quién es el jefe."
+    mct "Debería reunir a Dahlia y a Samiya y enseñarles quién es el jefe."
 
 # game/code/d15/d15s03.rpy:362
 translate spanish d15s03_dw_setup_342e4279:
@@ -808,13 +808,13 @@ translate spanish d15s03_dw_setup_693e803c:
 translate spanish d15s03_dw_setup_72993118:
 
     # pb "The Bahamas. We hop in a car or grab a train ticket. Ride that down to Florida."
-    pb "Las Bahamas. Nos subimos a un automóvil o tomamos un boleto de tren. Viaja en eso hasta Florida."
+    pb "Las Bahamas. Nos subimos a un automóvil o tomamos un boleto de tren. Y viajamos hasta Florida."
 
 # game/code/d15/d15s03.rpy:420
 translate spanish d15s03_dw_setup_a571c67c:
 
     # pb "Catch a plane or ship out to the Bahamas and go into business with my Uncle Carlos."
-    pb "Tomar un avión o un barco a las Bahamas y hacer negocios con mi tío Carlos."
+    pb "Abordar un avión o un barco a las Bahamas y hacer negocios con mi tío Carlos."
 
 # game/code/d15/d15s03.rpy:423
 translate spanish d15s03_dw_setup_56524e2c:
@@ -832,7 +832,7 @@ translate spanish d15s03_dw_setup_4d7d45d8:
 translate spanish d15s03_dw_setup_daf3be7c:
 
     # pb "Cashed out his 401k and shit, moved to the Bahamas, and started calling himself Carlos."
-    pb "Cobró su 401k y demás, se mudó a las Bahamas y empezó a llamarse Carlos."
+    pb "Cobró su 401k y todas esas mierdas, se mudó a las Bahamas y empezó a llamarse Carlos."
 
 # game/code/d15/d15s03.rpy:430
 translate spanish d15s03_dw_setup_9d9b6936:
@@ -844,7 +844,7 @@ translate spanish d15s03_dw_setup_9d9b6936:
 translate spanish d15s03_dw_setup_ae3df913:
 
     # pb "Rental cars. You believe it? He's pulling down almost seven figures a year renting caddies and fiats to tourists."
-    pb "Autos de alquiler. ¿Usted lo cree? Gana casi siete cifras al año alquilando caddies y fiats a turistas."
+    pb "Autos de alquiler.  ¿Te lo puedes creer? Gana casi siete cifras al año alquilando caddies y fiats a los turistas."
 
 # game/code/d15/d15s03.rpy:436
 translate spanish d15s03_dw_setup_e6adb780:
@@ -862,13 +862,13 @@ translate spanish d15s03_dw_setup_6ea92305:
 translate spanish d15s03_dw_setup_1ef706f6:
 
     # mc "Who?"
-    mc "¿Quién?"
+    mc "¿A quién?"
 
 # game/code/d15/d15s03.rpy:445
 translate spanish d15s03_dw_setup_7718a20c:
 
     # pb "I'll bring Samiya - she needs out of her current situation so that's no problem there."
-    pb "Traeré a Samiya: ella necesita salir de su situación actual, así que no hay problema allí."
+    pb "Llevaré a Samiya, necesita salir de su situación actual, así que no hay problema."
 
 # game/code/d15/d15s03.rpy:448
 translate spanish d15s03_dw_setup_baddb19f:
@@ -886,19 +886,19 @@ translate spanish d15s03_dw_setup_36a1bd2b:
 translate spanish d15s03_dw_setup_ac3cf735:
 
     # mc "You want Dahlia and Samiya and you and me to go to the Bahamas to rent cars to tourists."
-    mc "Quieres que Dahlia, Samiya, tú y yo vayamos a las Bahamas a alquilar coches a los turistas."
+    mc "Quieres que Dahlia, Samiya, tú y yo vayamos a las Bahamas a dedicarnos a que los turistas alquilen vehículos."
 
 # game/code/d15/d15s03.rpy:457
 translate spanish d15s03_dw_setup_870be842:
 
     # pb "Pretty much."
-    pb "Bastante"
+    pb "Básicamente."
 
 # game/code/d15/d15s03.rpy:460
 translate spanish d15s03_dw_setup_336ed57f:
 
     # mc "Let's get through finals first. Maybe we can do that during the Summer."
-    mc "Pasemos primero los finales. Tal vez podamos hacer eso durante el verano."
+    mc "Primero aprobemos los exámenes finales. Tal vez podamos hacerlo durante el verano."
 
 # game/code/d15/d15s03.rpy:463
 translate spanish d15s03_dw_setup_621ae14d:
