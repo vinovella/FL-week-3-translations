@@ -670,7 +670,7 @@ translate spanish d21s06_af0eb5dd:
 translate spanish d21s06_86823ceb:
 
     # arj "We came here to dismantle the whole thing, and now you just want to start it up again?"
-    arj "Vinimos aquí para desmantelar todo, ¿y ahora quieres volver a ponerlo en marcha?"
+    arj "Vinimos aquí para desmantelar todo, ¿y ahora quieres volver a iniciarlo?"
 
 # game/code/d21/d21s06.rpy:332
 translate spanish d21s06_07c441ef:
@@ -2356,7 +2356,7 @@ translate spanish d21s06_waterfall_ab72c95b:
 translate spanish d21s06_waterfall_2956db1b:
 
     # mc "You know what, I don't. I admire your dedication."
-    mc "Sabes qué, yo no. Admiro tu dedicación."
+    mc "Sabes qué, yo no lo sé. Admiro tu dedicación."
 
 # game/code/d21/d21s06.rpy:1079
 translate spanish d21s06_waterfall_f01db528:
