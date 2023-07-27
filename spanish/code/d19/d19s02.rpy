@@ -760,7 +760,7 @@ translate spanish d19s02_1c324fb9:
 translate spanish d19s02_b63057f0:
 
     # dw "Disappointing"
-    dw "Decepcionante"
+    dw "Decepcionante."
 
 # game/code/d19/d19s02.rpy:553
 translate spanish d19s02_d138a5d3:
