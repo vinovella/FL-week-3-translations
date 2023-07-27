@@ -76,7 +76,7 @@ translate spanish d15s04dw_51f49e55:
 translate spanish d15s04dw_d195d6d5:
 
     # mct "Although maybe not if she finds out about my cage."
-    mct "Aunque tal vez no si se entera de mi jaula."
+    mct "aunque puede que no si descubre lo de mi jaula."
 
 # game/code/d15/d15s04dw.rpy:63
 translate spanish d15s04dw_5a0d161f:
@@ -142,7 +142,7 @@ translate spanish d15s04dw_e5d9c8e3:
 translate spanish d15s04dw_27bfcfc1:
 
     # sb "Sure, let's do that. I love talking about all the people I've fucked."
-    sb "Claro, hagámoslo. Me encanta hablar de todas las personas con las que me he follado."
+    sb "Claro, hagámoslo. Me encanta hablar de toda la gente que me he follado."
 
 # game/code/d15/d15s04dw.rpy:103
 translate spanish d15s04dw_d57fc437:
@@ -166,7 +166,7 @@ translate spanish d15s04dw_53221166:
 translate spanish d15s04dw_2fdfa84d:
 
     # mc "I'm sure there's a perfectly reasonable-"
-    mc "Estoy seguro de que hay una perfectamente razonable-"
+    mc "Estoy seguro de que hay una perfectamente razonable..."
 
 # game/code/d15/d15s04dw.rpy:115
 translate spanish d15s04dw_4c012916:
@@ -184,13 +184,13 @@ translate spanish d15s04dw_d325b541:
 translate spanish d15s04dw_018cc069:
 
     # mc "Dahlia, could you try to calm down for a second.{w} Samiya, could you just tell us-"
-    mc "Dahlia, ¿podrías tratar de calmarte por un segundo? {w} Samiya, ¿podrías decirnos-"
+    mc "Dahlia, ¿podrías tratar de calmarte por un segundo? {w} Samiya, ¿podrías decirnos..."
 
 # game/code/d15/d15s04dw.rpy:124
 translate spanish d15s04dw_ed5dede8:
 
     # dw "PANTS OFF!"
-    dw "¡PANTALONES FUERA!"
+    dw "¡QUÍTATE LOS PANTALONES!"
 
 # game/code/d15/d15s04dw.rpy:127
 translate spanish d15s04dw_11455b53:
@@ -220,13 +220,13 @@ translate spanish d15s04dw_361b64ba:
 translate spanish d15s04dw_19aa576b:
 
     # sb "Oh, fuck. You've gotta be kidding me."
-    sb "Joder. Tienes que estar bromeando."
+    sb "Mierda. Tienes que estar bromeando."
 
 # game/code/d15/d15s04dw.rpy:140
 translate spanish d15s04dw_dc2c45bf:
 
     # mc "This really isn't the time-"
-    mc "Este realmente no es el momento-"
+    mc "Este realmente no es el momento."
 
 # game/code/d15/d15s04dw.rpy:143
 translate spanish d15s04dw_66fdfbd9:
@@ -268,7 +268,7 @@ translate spanish d15s04dw_f883159d:
 translate spanish d15s04dw_c52b165d:
 
     # mc "Dahlia, I can explain."
-    mc "Dalia, puedo explicarlo."
+    mc "Dahlia, puedo explicarlo."
 
 # game/code/d15/d15s04dw.rpy:175
 translate spanish d15s04dw_69afa652:
@@ -286,7 +286,7 @@ translate spanish d15s04dw_10ef2a95:
 translate spanish d15s04dw_2f2321d8:
 
     # mc "No one."
-    mc "Nadie"
+    mc "Nadie."
 
 # game/code/d15/d15s04dw.rpy:184
 translate spanish d15s04dw_6df6e5cb:
@@ -328,7 +328,7 @@ translate spanish d15s04dw_af092567:
 translate spanish d15s04dw_3475d552:
 
     # sb "You can try."
-    sb "Puedes intentar."
+    sb "Puedes intentarlo."
 
 # game/code/d15/d15s04dw.rpy:204
 translate spanish d15s04dw_71931f7d:
@@ -340,19 +340,19 @@ translate spanish d15s04dw_71931f7d:
 translate spanish d15s04dw_73967037:
 
     # sb "Oh, please, bitch. {w}Anything that much fun - I'm going to help."
-    sb "Oh, por favor, perra. {w}Cualquier cosa que sea muy divertida, voy a ayudar."
+    sb "Oh, por favor, perra. {w}Cualquier cosa que sea divertida... Ayudaré."
 
 # game/code/d15/d15s04dw.rpy:210
 translate spanish d15s04dw_258ee986:
 
     # dw "You're welcome to try."
-    dw "Eres bienvenida a intentarlo"
+    dw "Eres bienvenida a intentarlo."
 
 # game/code/d15/d15s04dw.rpy:213
 translate spanish d15s04dw_d93f66dd:
 
     # dw "Grab your ankles."
-    dw "Agarra sus tobillos."
+    dw "Sujeta tus tobillos."
 
 # game/code/d15/d15s04dw.rpy:216
 translate spanish d15s04dw_557a9e28:
@@ -424,13 +424,13 @@ translate spanish d15s04dw_6ce6f705:
 translate spanish d15s04dw_69fbc017:
 
     # dw "You're a total slut. Do you have a dildo or something?"
-    dw "Eres una zorra total. ¿Tienes un consolador o algo así?"
+    dw "Eres una auténtica zorra. ¿Tienes un consolador o algo así?"
 
 # game/code/d15/d15s04dw.rpy:264
 translate spanish d15s04dw_61c6fe1a:
 
     # sb "Do you mean in my car, or-"
-    sb "¿Quieres decir en mi auto, o-"
+    sb "¿En mi auto, o..."
 
 # game/code/d15/d15s04dw.rpy:266
 translate spanish d15s04dw_a480edea:
@@ -454,7 +454,7 @@ translate spanish d15s04dw_32d47a27:
 translate spanish d15s04dw_6b71b605:
 
     # dw "Ew. {w}Also, yes."
-    dw "Ew. {w}También, sí."
+    dw "Ew. {w}Sí, funcionará."
 
 # game/code/d15/d15s04dw.rpy:281
 translate spanish d15s04dw_51821582:
@@ -466,13 +466,13 @@ translate spanish d15s04dw_51821582:
 translate spanish d15s04dw_4a7e053b:
 
     # dw "Just shove it up his ass. Don't be gentle."
-    dw "Sólo mételo por el culo. No seas delicado."
+    dw "Sólo mételo por el culo. No seas delicada."
 
 # game/code/d15/d15s04dw.rpy:298
 translate spanish d15s04dw_0c2ccf1f:
 
     # mc "FUCKING HELL!"
-    mc "¡JODIDO INFIERNO!"
+    mc "¡MALDITO INFIERNO!"
 
 # game/code/d15/d15s04dw.rpy:302
 translate spanish d15s04dw_fdfa3e4d:
@@ -664,7 +664,7 @@ translate spanish d15s04dw_698200b3:
 translate spanish d15s04dw_3425c3f0:
 
     # sb "Fine - I fucked your boyfriend! There. Are you happy? I've finally admitted it!"
-    sb "Bien, ¡me follé a tu novio! Allá. ¿Estás feliz? ¡Finalmente lo he admitido!"
+    sb "Bien, ¡me follé a tu novio! ¿Estás feliz? ¡Finalmente lo he admitido!"
 
 # game/code/d15/d15s04dw.rpy:443
 translate spanish d15s04dw_58ebe977:
@@ -676,7 +676,7 @@ translate spanish d15s04dw_58ebe977:
 translate spanish d15s04dw_53a77101:
 
     # sb "I fucked your boyfriend. Then after prom I broke his clavicle and set fire to his prom date's car."
-    sb "Me follé a tu novio. Luego, después del baile de graduación, le rompí la clavícula y le prendí fuego al coche de su acompañante."
+    sb "Me follé a tu novio. Después del baile le rompí la clavícula y le prendí fuego al auto de su cita."
 
 # game/code/d15/d15s04dw.rpy:449
 translate spanish d15s04dw_335fbd4b:
@@ -712,7 +712,7 @@ translate spanish d15s04dw_1c8f62fa:
 translate spanish d15s04dw_f7c4dd58:
 
     # sb "I can't help that. That was all him."
-    sb "No puedo evitar eso. Eso fue todo él."
+    sb "No puedo evitarlo. Fue todo cosa de él."
 
 # game/code/d15/d15s04dw.rpy:469
 translate spanish d15s04dw_f52c35f3:
@@ -904,7 +904,7 @@ translate spanish d15s04dw_4323ba14:
 translate spanish d15s04dw_6be3a36c:
 
     # sb "I am now, and always have been, your friend."
-    sb "Lo soy ahora, y siempre he sido, tu amiga."
+    sb "Lo somos ahora, y siempre he sido, tu amiga."
 
 # game/code/d15/d15s04dw.rpy:601
 translate spanish d15s04dw_01992d43:
