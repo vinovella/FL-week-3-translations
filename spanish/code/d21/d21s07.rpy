@@ -292,7 +292,7 @@ translate spanish d21s07_186a6b02:
 translate spanish d21s07_b200f701:
 
     # jdg "Defense, redirect?"
-    jdg "Defensa, ¿tiene más preguntas?."
+    jdg "Defensa, ¿tiene más preguntas?"
 
 # game/code/d21/d21s07.rpy:200
 translate spanish d21s07_64862fc8:
