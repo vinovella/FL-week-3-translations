@@ -58,7 +58,7 @@ translate spanish d18s05_ext_20e9106d:
 translate spanish d18s05_ext_e2a4e5b8:
 
     # mc "What the fuck is going on here? \"Mistress\"?"
-    mc "¿Qué carajo está pasando aquí? \"¿Ama?\""
+    mc "¿Qué mierda está pasando aquí? \"¿Ama?\""
 
 # game/code/d18/extended/d18s05_ext.rpy:140
 translate spanish d18s05_ext_8d200d45:
@@ -88,7 +88,7 @@ translate spanish d18s05_ext_d8f15f97:
 translate spanish d18s05_ext_69a6df63:
 
     # mc "I... *Exasperated sigh* Sure. Fine. Good for you two."
-    mc "Yo... *suspiro exasperado* Seguro. Bien ustedes dos."
+    mc "I... *Suspiro exasperado* Claro. Bien por ustedes dos."
 
 # game/code/d18/extended/d18s05_ext.rpy:152
 translate spanish d18s05_ext_48aa6509:
@@ -166,7 +166,7 @@ translate spanish d18s05_ext_a17f9d18:
 translate spanish d18s05_ext_dd43feb8:
 
     # sb "A lot of people were doing it and it looked fun, so we decided to try it out. Interesting that you came up with it."
-    sb "Mucha gente lo estaba haciendo y parecía divertido, así que decidimos probarlo. Interesante que se te haya ocurrido."
+    sb "Mucha gente lo estaba haciendo y parecía divertido, así que decidimos probarlo. Es interesante que se te haya ocurrido."
 
 # game/code/d18/extended/d18s05_ext.rpy:189
 translate spanish d18s05_ext_80a4aeed:
@@ -238,7 +238,7 @@ translate spanish d18s05_ext_28faf18e:
 translate spanish d18s05_ext_0f97ddd9:
 
     # sb "And you, I want to stand near the wall and jerk off that flaccid cock of yours while you watch him fuck me, understood?"
-    sb "Y tú, quiero pararme cerca de la pared y pajear esa polla flácida que tienes mientras lo ves follarme, ¿entendido?"
+    sb "Y tú, quiero que te pares cerca de la pared y masturbes esa polla flácida tuya mientras ves cómo me folla, ¿entendido?"
 
 # game/code/d18/extended/d18s05_ext.rpy:232
 translate spanish d18s05_ext_d8f15f97_1:
@@ -250,7 +250,7 @@ translate spanish d18s05_ext_d8f15f97_1:
 translate spanish d18s05_ext_11d08885:
 
     # mc "Yeah, sorry. But I'm not interested"
-    mc "Sí, lo siento. pero no estoy interesado"
+    mc "Sí, lo siento. pero no estoy interesado."
 
 # game/code/d18/extended/d18s05_ext.rpy:242
 translate spanish d18s05_ext_535545d3:
@@ -274,7 +274,7 @@ translate spanish d18s05_ext_b9e01013:
 translate spanish d18s05_ext_4907a6ba:
 
     # sb "Oh, and tell Dahlia to meet me there instead of here."
-    sb "Ah, y dile a Dahlia que se reúna conmigo allí en lugar de aquí."
+    sb "Ah, y dile a Dahlia que se reúna conmigo allí en vez de aquí."
 
 # game/code/d18/extended/d18s05_ext.rpy:274
 translate spanish d18s05_sex_4facc25a:
@@ -340,13 +340,13 @@ translate spanish d18s05_sex_7bfd5be2:
 translate spanish d18s05_sex_47c60f57:
 
     # sb "I asked [mcname] plainly, and he said, yes."
-    sb "Le pregunté a [mcname] claramente, y dijo que sí."
+    sb "Le pregunté a [mcname], y dijo que sí."
 
 # game/code/d18/extended/d18s05_ext.rpy:343
 translate spanish d18s05_sex_faabca89:
 
     # dw "Oh, did he now?"
-    dw "Oh, ¿lo hizo ahora?"
+    dw "Oh, ¿Ah, sí?"
 
 # game/code/d18/extended/d18s05_ext.rpy:346
 translate spanish d18s05_sex_a15c2108:
@@ -472,7 +472,7 @@ translate spanish d18s05_sex_209d8508:
 translate spanish d18s05_sex_9566cc04:
 
     # mc "Thank you, Mistress."
-    mc "Gracias, Ama"
+    mc "Gracias, Ama."
 
 # game/code/d18/extended/d18s05_ext.rpy:545
 translate spanish d18s05_sex_ca6b8b57:
@@ -586,7 +586,7 @@ translate spanish d18s05_after_sex_7102ee2c:
 translate spanish d18s05_after_sex_0ded540c:
 
     # dw "And he's coming with you? How long have you two even been together?"
-    dw "¿Y él viene contigo? ¿Cuánto tiempo han estado juntos ustedes dos?"
+    dw "¿Y él va contigo? ¿Cuánto tiempo han estado juntos ustedes dos?"
 
 # game/code/d18/extended/d18s05_ext.rpy:624
 translate spanish d18s05_after_sex_fea7b848:
@@ -634,7 +634,7 @@ translate spanish d18s05_after_sex_2485f494:
 translate spanish d18s05_after_sex_3110016f:
 
     # mct "Even without the exams and Fetish Locator, is this something I would actually want?"
-    mct "Incluso sin los exámenes y el Localizador de Fetiches, ¿es esto algo que realmente querría?"
+    mct "Incluso sin los exámenes finales y el Localizador de Fetiches, ¿es esto algo que realmente querría?"
 
 # game/code/d18/extended/d18s05_ext.rpy:650
 translate spanish d18s05_after_sex_a771e1d4:
@@ -676,7 +676,7 @@ translate spanish d18s05_after_sex_b111288c:
 translate spanish d18s05_after_sex_032351fa:
 
     # sb "Reasonable enough. I don't have shit here and the only people I give half a shit about are in this room right now, so. Not much to lose on my end"
-    sb "Bastante razonable. No tengo una mierda aquí y las únicas personas que me importan una mierda están en esta sala ahora mismo, así que. No hay mucho que perder de mi parte"
+    sb "Bastante razonable. No tengo una mierda aquí y las únicas personas que me importan una mierda están en esta sala ahora mismo, así que. No hay mucho que perder de mi parte."
 
 # game/code/d18/extended/d18s05_ext.rpy:672
 translate spanish d18s05_after_sex_63d5ae98:
