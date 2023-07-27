@@ -16,7 +16,7 @@ translate spanish d21s04_bc4ad43e:
 translate spanish d21s04_304aa765:
 
     # mc "Yeah... Sorry about just dropping in like this."
-    mc "Sí... Perdón por dejarme caer así."
+    mc "Sí... Perdón por aparecer así."
 
 # game/code/d21/d21s04.rpy:49
 translate spanish d21s04_da272ec6:
@@ -382,7 +382,7 @@ translate spanish d21s04_8b3f2d0a:
 translate spanish d21s04_3834bfd1:
 
     # mh "Do you really want to talk about something like that here? In public?"
-    mh "¿De verdad quieres hablar de algo así aquí? ¿En publico?"
+    mh "¿De verdad quieres hablar de algo así aquí? ¿En público?"
 
 # game/code/d21/d21s04.rpy:221
 translate spanish d21s04_3c2b9f80:
@@ -418,7 +418,7 @@ translate spanish d21s04_e1d36910:
 translate spanish d21s04_d97d3dbb:
 
     # mh "Well, I generally like to take a submissive role in bed, but I would actually consider myself a switch."
-    mh "Bueno, generalmente me gusta asumir un papel sumiso en la cama, pero en realidad me consideraría una persona de cambios."
+    mh "Bueno, generalmente me gusta asumir un papel de sumisa en la cama, pero en realidad me consideraría una persona de cambios."
 
 # game/code/d21/d21s04.rpy:236
 translate spanish d21s04_ee87e6f3:
@@ -490,7 +490,7 @@ translate spanish d21s04_d8d3a61e:
 translate spanish d21s04_6ce322b3:
 
     # mc "Hm. I'll take that as an open invitation to try out some absolutely heinous kinks in the bedroom then."
-    mc "Hm. Tomaré eso como una invitación abierta a probar algunas manías absolutamente atroces en el dormitorio entonces."
+    mc "Hm. Tomaré eso como una invitación abierta a probar algunas manías absolutamente perversas durante el sexo."
 
 # game/code/d21/d21s04.rpy:268
 translate spanish d21s04_4f429596:
@@ -544,7 +544,7 @@ translate spanish d21s04_95ded377:
 translate spanish d21s04_bd227405:
 
     # mc "...But I'm assuming there's more to it?"
-    mc "... ¿Pero asumo que hay más?"
+    mc "... ¿Pero supongo que hay más?"
 
 # game/code/d21/d21s04.rpy:295
 translate spanish d21s04_d2ad5870:
@@ -598,7 +598,7 @@ translate spanish d21s04_97016382:
 translate spanish d21s04_18a6f462:
 
     # mh "When I said that you've showed me what I wanted, this is—"
-    mh "Cuando dije que me mostraste lo que quería, esto es—"
+    mh "Cuando dije que me mostraste lo que quería, esto es..."
 
 # game/code/d21/d21s04.rpy:326
 translate spanish d21s04_b4415722:
@@ -640,7 +640,7 @@ translate spanish d21s04_7e5df79a:
 translate spanish d21s04_ebd5fb90:
 
     # mh "And it's not just you, either. I've been thinking a lot about Stacy as well."
-    mh "Y no eres solo tú. He estado pensando mucho en Stacy también."
+    mh "Y no eres sólo tú. He estado pensando mucho en Stacy también."
 
 # game/code/d21/d21s04.rpy:343
 translate spanish d21s04_d9fc70c6:
@@ -652,7 +652,7 @@ translate spanish d21s04_d9fc70c6:
 translate spanish d21s04_f410ec84:
 
     # mh "Yes. I know we've only met a handful of times, but she has really grown on me. To say the least."
-    mh "Sí. Sé que solo nos hemos visto un puñado de veces, pero realmente ha crecido en mí. Por decir lo menos."
+    mh "Sí. Sé que sólo nos hemos visto un puñado de veces, pero realmente ha crecido en mí. Por decir algo."
 
 # game/code/d21/d21s04.rpy:349
 translate spanish d21s04_352ba3d0:
@@ -664,7 +664,7 @@ translate spanish d21s04_352ba3d0:
 translate spanish d21s04_50a11e79:
 
     # mh "And it's not just you, either. I've been thinking a lot about Oliver as well."
-    mh "Y no eres solo tú, tampoco. He estado pensando mucho en Oliver también."
+    mh "Y no eres sólo tú, tampoco. He estado pensando mucho en Oliver también."
 
 # game/code/d21/d21s04.rpy:354
 translate spanish d21s04_59571f7e:
@@ -706,7 +706,7 @@ translate spanish d21s04_59bfacbe:
 translate spanish d21s04_9bfd9e03:
 
     # mc "Yours and yours alone."
-    mc "Tuyo y solo tuyo."
+    mc "Tuyo y sólo tuyo."
 
 # game/code/d21/d21s04.rpy:413
 translate spanish d21s04_d52442a8:
@@ -718,7 +718,7 @@ translate spanish d21s04_d52442a8:
 translate spanish d21s04_f8875f4b:
 
     # mc "Lyssa. I want to be with you and Stacy too."
-    mc "Lyssa. Quiero estar contigo y con Stacy también."
+    mc "Lyssa. Quiero estar contigo y también con Stacy."
 
 # game/code/d21/d21s04.rpy:423
 translate spanish d21s04_8fbfb15f:
