@@ -94,13 +94,13 @@ translate spanish d15s04_5d685f7b:
 translate spanish d15s04_eb5e0ed9:
 
     # mct "If those two don't figure out whatever the hell their problem is, it's all gonna blow up—and I'm gonna be smack-dab in the middle of it."
-    mct "Si esas dos no descubren cuál diablos es su problema, todo explotará, y yo estaré justo en el medio."
+    mct "Si esas dos no solucionan su maldito problema, todo va a estallar y yo voy a estar en medio de ello."
 
 # game/code/d15/d15s04.rpy:83
 translate spanish d15s04_058f65b0:
 
     # mct "Might as well get it over with now."
-    mct "Bien podría acabar con esto ahora."
+    mct "Será mejor terminar con esto de una buena vez."
 
 # game/code/d15/d15s04.rpy:87
 translate spanish d15s04_67a8b4aa:
