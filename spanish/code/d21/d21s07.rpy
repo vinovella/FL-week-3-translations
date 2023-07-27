@@ -40,7 +40,7 @@ translate spanish d21s07_81ca21c3:
 translate spanish d21s07_1a571b26:
 
     # "Defense Attorney" "And what was that secret, in your opinion?"
-    "Abogada de la defensa" "¿Y cuál era ese secreto, en su opinión?"
+    "Abogada de la defensa" "Y, en su opinión, ¿cuál era ese secreto?"
 
 # game/code/d21/d21s07.rpy:74
 translate spanish d21s07_dbaad169:
@@ -148,7 +148,7 @@ translate spanish d21s07_0924a76a:
 translate spanish d21s07_250fb5b5:
 
     # "Prosecutor" "So, you did not gain the access codes to that room a semester prior to the \"app's\" launch - as a prior witness testified?"
-    "Fiscal" "Entonces, ¿no obtuvo los códigos de acceso a esa sala un semestre antes del lanzamiento de la \"aplicación\", como testificó un testigo anterior?"
+    "Fiscal" "Entonces, ¿no obtuvo los códigos de acceso a esa sala un semestre antes del lanzamiento de la \"aplicación\", tal y como declaró anteriormente un testigo?"
 
 # game/code/d21/d21s07.rpy:132
 translate spanish d21s07_66da9489:
@@ -262,7 +262,7 @@ translate spanish d21s07_e4e44275:
 translate spanish d21s07_ab40b45f:
 
     # "Prosecutor" "Uh huh. So, when you said you never went to that room... were you lying then or are you lying now?"
-    "Fiscal" "Entonces, cuando dijiste que nunca fuiste a esa habitación... ¿mentías entonces o mientes ahora?"
+    "Fiscal" "Uh huh. Entonces, cuando dijiste que nunca fuiste a esa habitación... ¿estabas mintiendo en ese entonces o estás mintiendo ahora?"
 
 # game/code/d21/d21s07.rpy:185
 translate spanish d21s07_95c3598f:
@@ -304,7 +304,7 @@ translate spanish d21s07_64862fc8:
 translate spanish d21s07_27e3931c:
 
     # jdg "You may step down, Miss Cox. In fact, would a guard please escort this defendant someplace where she can wash her face?"
-    jdg "Puede retirarse, Señorita Cox. De hecho, ¿podría un guardia acompañar a la acusada a un lugar donde pueda lavarse la cara?"
+    jdg "Puede retirarse, Srta. Cox.De hecho, ¿podría un guardia acompañar a la acusada a algún lugar donde pueda lavarse la cara?"
 
 # game/code/d21/d21s07.rpy:206
 translate spanish d21s07_6912b8c1:
@@ -922,7 +922,7 @@ translate spanish d21s07_jdg_quickie_8addf686:
 translate spanish d21s07_jdg_quickie_c5fbdb59:
 
     # jdg "Do you ever think about it? The people who stand trial here before me?"
-    jdg "¿Alguna vez piensas en ello? ¿Las personas que son juzgadas aquí antes que yo?"
+    jdg "¿Alguna vez piensas en ello? ¿La gente que es juzgada aquí en mi presencia?"
 
 # game/code/d21/d21s07.rpy:487
 translate spanish d21s07_jdg_quickie_0055fab5:
@@ -934,7 +934,7 @@ translate spanish d21s07_jdg_quickie_0055fab5:
 translate spanish d21s07_jdg_quickie_2a918e6d:
 
     # jdg "Their fear and anxiety? While some justice of the peace holds their fate in their hands?"
-    jdg "¿Su miedo y ansiedad? ¿Mientras algún juez de paz tiene su destino en sus manos?"
+    jdg "¿Su miedo y ansiedad? ¿Mientras un juez tiene su destino en sus manos?"
 
 # game/code/d21/d21s07.rpy:492
 translate spanish d21s07_jdg_quickie_17264cfe:
@@ -982,7 +982,7 @@ translate spanish d21s07_jdg_quickie_4b01d68d:
 translate spanish d21s07_jdg_quickie_9712f9d0:
 
     # mc "Okay then."
-    mc "Bien entonces."
+    mc "Está bien, entonces."
 
 # game/code/d21/d21s07.rpy:516
 translate spanish d21s07_jdg_quickie_05cfbda1:
@@ -1024,7 +1024,7 @@ translate spanish d21s07_jdg_quickie_92b666f0:
 translate spanish d21s07_jdg_quickie_6cea2c9f:
 
     # mc "Anyway, I think it's time you shut up now."
-    mc "De todos modos, creo que es hora de que te calles ahora."
+    mc "De todos modos, creo que es hora de que te calles."
 
 # game/code/d21/d21s07.rpy:532
 translate spanish d21s07_jdg_quickie_43452d27:
@@ -1114,13 +1114,13 @@ translate spanish d21s07_jdg_quickie_cc0cc89a:
 translate spanish d21s07_jdg_quickie_784ee8c7:
 
     # mc "Go right ahead."
-    mc "Sigue adelante."
+    mc "No te preocupes."
 
 # game/code/d21/d21s07.rpy:608
 translate spanish d21s07_jdg_quickie_30f037c1:
 
     # mct "How did a psychopathic bitch like her get to be a judge?"
-    mct "¿Cómo llegó a ser jueza una perra psicópata como ella?"
+    mct "¿Cómo una perra psicópata como ella llegó a ser jueza?"
 
 # game/code/d21/d21s07.rpy:622
 translate spanish d21s07_offer_p2_bb95ae6d:
@@ -1168,7 +1168,7 @@ translate spanish d21s07_offer_p2_683d73b8:
 translate spanish d21s07_closing_875bd45e:
 
     # "Bailiff" "All Rise!{w} The People v. Lydia Cox and Jerome Skinner will now resume."
-    "Alguacil" "¡Todos de pie!{w} La demanda contra Lydia Cox y Jerome Skinner se reanudará."
+    "Alguacil" "¡Todos de pie!{w} El Juicio contra Lydia Cox y Jerome Skinner se reanudará."
 
 # game/code/d21/d21s07.rpy:655
 translate spanish d21s07_closing_9d59a917:
@@ -1408,7 +1408,7 @@ translate spanish d21s07_closing_78d8a154:
 translate spanish d21s07_closing_b56f86fd:
 
     # jdg "However, due to the malicious nature of your offenses I am inclined to throw the book at you."
-    jdg "Sin embargo, debido a la naturaleza maliciosa de sus ofensas, me inclino a arrojarte el libro."
+    jdg "Sin embargo, debido a la naturaleza maliciosa de sus ofensas, me inclino a arrojarles el libro."
 
 # game/code/d21/d21s07.rpy:769
 translate spanish d21s07_closing_8f0fe270:
