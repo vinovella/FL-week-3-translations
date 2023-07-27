@@ -22,7 +22,7 @@ translate spanish d17s06dw_b696e15b:
 translate spanish d17s06dw_31fd9c32:
 
     # mc "But I -"
-    mc "Pero Yo -"
+    mc "Pero Yo..."
 
 # game/code/d17/d17s06dw.rpy:70
 translate spanish d17s06dw_01f750c3:
@@ -106,13 +106,13 @@ translate spanish d17s06dw_cfb40a80:
 translate spanish d17s06dw_f9699225:
 
     # dw "Very well. Go get us three tickets to the Funhouse. {w}Let's see how scary that is."
-    dw "Muy bien. Consíguenos tres entradas para la Casa de la Diversión. {w}Veamos qué tan aterrador es eso."
+    dw "Muy bien. Consíguenos tres entradas para la Casa de la Diversión. {w}Veamos que tan aterradora es."
 
 # game/code/d17/d17s06dw.rpy:114
 translate spanish d17s06dw_9af8e86f:
 
     # mc "Oh, okay. {w}I mean- Right away, Mistress."
-    mc "Ah, bien. {w}Quiero decir- Inmediatamente, Ama."
+    mc "Ah, bien. {w}Quiero decir... Inmediatamente, Ama."
 
 # game/code/d17/d17s06dw.rpy:117
 translate spanish d17s06dw_6e7cdecd:
@@ -166,7 +166,7 @@ translate spanish d17s06dw_b0d901e8:
 translate spanish d17s06dw_8156b0b0:
 
     # dw "Just don't undermine me. {w}Don't worry, I'll let you thank him properly later."
-    dw "Solo no me socaves. {w}No te preocupes, dejaré que le agradezcas adecuadamente más tarde."
+    dw "Sólo no me desautorices. {w} No te preocupes, te dejaré agradecérselo apropiadamente más tarde."
 
 # game/code/d17/d17s06dw.rpy:147
 translate spanish d17s06dw_9ad8f44d:
@@ -196,7 +196,7 @@ translate spanish d17s06dw_2464f166:
 translate spanish d17s06dw_890329cc:
 
     # dw "Just one Mistress, slave. I'm not ready to share you with anyone else, yet."
-    dw "Solo una Ama, esclavo. Todavía no estoy lista para compartirte con nadie más."
+    dw "Sólo una Ama, esclavo. Todavía no estoy lista para compartirte con nadie más."
 
 # game/code/d17/d17s06dw.rpy:163
 translate spanish d17s06dw_9566cc04:
@@ -250,7 +250,7 @@ translate spanish d17s06dw_2b35b6fe_1:
 translate spanish d17s06dw_d0c8f02d:
 
     # sb "She's just playing with you, you know. {w}This is fun for her."
-    sb "Ella solo está jugando contigo, ya sabes. {w}Esto es divertido para ella."
+    sb "Ella sólo está jugando contigo, ya sabes. {w}Esto es divertido para ella."
 
 # game/code/d17/d17s06dw.rpy:190
 translate spanish d17s06dw_54962c52:
@@ -286,7 +286,7 @@ translate spanish d17s06dw_first_room_0610bdc7:
 translate spanish d17s06dw_first_room_ca4dd6e7:
 
     # dw "Aww, is the little man frightened already?"
-    dw "Aww, ¿el hombrecito ya está asustado?"
+    dw "Aww, ¿el hombrecito ya está asustado?."
 
 # game/code/d17/d17s06dw.rpy:222
 translate spanish d17s06dw_first_room_2b6bf2b7:
@@ -370,7 +370,7 @@ translate spanish d17s06dw_first_room_c35267a1:
 translate spanish d17s06dw_first_room_819282e8:
 
     # mct "I mean, I know it's just a Funhouse, but still."
-    mct "Quiero decir, sé que es solo una Casa de la Risa, pero aún así."
+    mct "Quiero decir, sé que es sólo una Casa de la Risa, pero aún así."
 
 # game/code/d17/d17s06dw.rpy:276
 translate spanish d17s06dw_first_room_2ff2431f:
@@ -406,7 +406,7 @@ translate spanish d17s06dw_first_room_24caa905:
 translate spanish d17s06dw_first_room_a23f4dc3:
 
     # sb "Yeah. I don't think it's just us. I think the whole park went dark."
-    sb "Sí. No creo que seamos solo nosotros. Creo que todo el parque se quedó a oscuras."
+    sb "Sí. No creo que seamos sólo nosotros. Creo que todo el parque se quedó a oscuras."
 
 # game/code/d17/d17s06dw.rpy:303
 translate spanish d17s06dw_first_room_13400a0c:
@@ -580,7 +580,7 @@ translate spanish d17s06dw_clown_room_cdb82408:
 translate spanish d17s06dw_clown_room_79134cbc:
 
     # dw "No, silly. {w}He's going to fuck your ass until you cum."
-    dw "No tonta. {w}Te va a follar el culo hasta que te corras."
+    dw "No, tonta. {w}Te va a follar el culo hasta que te corras."
 
 # game/code/d17/d17s06dw.rpy:410
 translate spanish d17s06dw_clown_room_7fa8576f:
@@ -604,7 +604,7 @@ translate spanish d17s06dw_clown_room_80645560:
 translate spanish d17s06dw_clown_room_d2be6260:
 
     # sb "You think that just because I'm a whore my favorite thing in the whole damn world is getting some dick in my ass?!"
-    sb "¿Crees que solo porque soy una puta, lo que más me gusta en todo el maldito mundo es que me metan una polla por el culo?"
+    sb "¿Crees que sólo porque soy una puta, lo que más me gusta en todo el maldito mundo es que me metan una polla por el culo?"
 
 # game/code/d17/d17s06dw.rpy:420
 translate spanish d17s06dw_clown_room_9f5841fe:
@@ -730,7 +730,7 @@ translate spanish d17s06dw_clown_room_23056262:
 translate spanish d17s06dw_clown_room_291f4320:
 
     # mc "Just a minute. {w}I'm almost there."
-    mc "Solo un minuto. {w}Ya casi lo estoy."
+    mc "Sólo un minuto. {w}Ya casi lo estoy."
 
 # game/code/d17/d17s06dw.rpy:500
 translate spanish d17s06dw_clown_room_13a6cac3:
@@ -742,7 +742,7 @@ translate spanish d17s06dw_clown_room_13a6cac3:
 translate spanish d17s06dw_clown_room_db94aef2:
 
     # dw "You are going to make her orgasm from her asshole to make me happy."
-    dw "Vas a hacer que llegue al orgasmo desde el culo para hacerme feliz."
+    dw "Vas a hacer que tenga un orgasmo por el culo para hacerme feliz."
 
 # game/code/d17/d17s06dw.rpy:502
 translate spanish d17s06dw_clown_room_56f45037:
@@ -826,7 +826,7 @@ translate spanish d17s06dw_clown_room_ff373efe:
 translate spanish d17s06dw_clown_room_d051fb6f:
 
     # sb "You're one to talk."
-    sb "Eres uno para hablar."
+    sb "Eres alguien para hablar."
 
 # game/code/d17/d17s06dw.rpy:567
 translate spanish d17s06dw_clown_room_5e9487ab:
@@ -904,13 +904,13 @@ translate spanish d17s06dw_clown_room_026ac64a:
 translate spanish d17s06dw_clown_room_6c665a24:
 
     # sb "I just need to reposition myself a little"
-    sb "Solo necesito reposicionarme un poco"
+    sb "Sólo necesito reposicionarme un poco."
 
 # game/code/d17/d17s06dw.rpy:652
 translate spanish d17s06dw_clown_room_0be45825:
 
     # mc "Wait - if you rub your clit, I'll disappoint Dahlia. She wants you to cum just from anal sex."
-    mc "Espera, si frotas tu clítoris, decepcionaré a Dahlia. Ella quiere que te corras solo por el sexo anal."
+    mc "Espera, si frotas tu clítoris, decepcionaré a Dahlia. Ella quiere que te corras sólo por el sexo anal."
 
 # game/code/d17/d17s06dw.rpy:655
 translate spanish d17s06dw_clown_room_1544706b:
