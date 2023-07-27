@@ -1156,7 +1156,7 @@ translate spanish d17s06dw_breakup_f72e31d9:
 translate spanish d17s06dw_breakup_5a5d11e7:
 
     # mc "Dahlia, wait..."
-    mc "Dalia, espera..."
+    mc "Dahlia, espera..."
 
 # game/code/d17/d17s06dw.rpy:857
 translate spanish d17s06dw_breakup_6525077f:
