@@ -316,7 +316,7 @@ translate spanish d21s03_b081a60e:
 translate spanish d21s03_58b7447c:
 
     # mc "I went there. I was drunk and...angry."
-    mc "fui allí Estaba borracho y... enojado."
+    mc "Fui allí Estaba borracho y... enojado."
 
 # game/code/d21/d21s03.rpy:155
 translate spanish d21s03_0e2b7ce8:
@@ -352,7 +352,7 @@ translate spanish d21s03_2aa7cd47:
 translate spanish d21s03_8dcca00e:
 
     # mc "It was taking off like wildfire all over campus."
-    mc "Corría como la pólvora por todo el campus."
+    mc "Se extendía como la pólvora por todo el campus."
 
 # game/code/d21/d21s03.rpy:168
 translate spanish d21s03_e7a90f1f:
@@ -364,7 +364,7 @@ translate spanish d21s03_e7a90f1f:
 translate spanish d21s03_b14d18b6:
 
     # mc "No. He just told me about it. I downloaded it on my own."
-    mc "No. Acababa de hablarme de ello. Lo descargué por mi cuenta"
+    mc "No. Él sólo me habló de esa aplicación. La descargué por mi cuenta."
 
 # game/code/d21/d21s03.rpy:174
 translate spanish d21s03_61d79289:
@@ -382,13 +382,13 @@ translate spanish d21s03_5e69d79d:
 translate spanish d21s03_7664e78b:
 
     # mc "I used it to meet some people, I had some fun."
-    mc "Lo usé para conocer a algunas personas, me divertí un poco."
+    mc "Lo utilicé para conocer gente y divertirme."
 
 # game/code/d21/d21s03.rpy:181
 translate spanish d21s03_1ffca4a0:
 
     # vumc "Were you at any point coerced, defrauded, or manipulated by the app?"
-    vumc "¿En algún momento fue coaccionado, defraudado o manipulado por la aplicación?"
+    vumc "¿Fuiste en algún momento coaccionado, defraudado o manipulado por la aplicación?"
 
 # game/code/d21/d21s03.rpy:189
 translate spanish d21s03_9acecc2e:
