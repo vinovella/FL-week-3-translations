@@ -4,7 +4,7 @@
 translate spanish d19s04dw_cc0d7a3e:
 
     # dw "10 minutes late, pet. You know I don't like tardiness."
-    dw "10 minutos tarde, mascota. Sabes que no me gusta llegar tarde."
+    dw "10 minutos tarde, mascota. Sabes que no me gusta la impuntualidad."
 
 # game/code/d19/d19s04dw.rpy:59
 translate spanish d19s04dw_4433c6e6:
@@ -34,7 +34,7 @@ translate spanish d19s04dw_7fd3a623:
 translate spanish d19s04dw_9ec79316:
 
     # dw "Good. Get to it then."
-    dw "Bien. Pues manos a la obra."
+    dw "Bien. Manos a la obra."
 
 # game/code/d19/d19s04dw.rpy:100
 translate spanish d19s04dw_cb94cf23:
@@ -52,13 +52,13 @@ translate spanish d19s04dw_cfb40a80:
 translate spanish d19s04dw_5e021c60:
 
     # dw "Good. This will be more fun then."
-    dw "Bien. Esto será más divertido entonces."
+    dw "Bien. Entonces, esto será más divertido."
 
 # game/code/d19/d19s04dw.rpy:109
 translate spanish d19s04dw_2339a4f8:
 
     # dw "I don't want to hear a single peep from you. If I hear a sound or see your little dick twitch in anticipation again, it will only get worse, understand?"
-    dw "No quiero escuchar un solo pío de ti. Si escucho un sonido o veo que tu pequeño pene se contrae con anticipación nuevamente, solo empeorará, ¿entiendes?"
+    dw "No quiero escuchar un solo pío de ti. Si escucho un sonido o veo que tu pequeño pene se contrae con anticipación nuevamente, sólo empeorará, ¿entiendes?"
 
 # game/code/d19/d19s04dw.rpy:112
 translate spanish d19s04dw_7fd3a623_1:
@@ -166,7 +166,7 @@ translate spanish d19s04dw_00e88e1b:
 translate spanish d19s04dw_cbe64562:
 
     # mc "I'm sorry, Mistress. I'll try—!"
-    mc "Lo siento, Ama. ¡Intentaré...!"
+    mc "Lo siento, Ama. ¡Lo intentaré...!"
 
 # game/code/d19/d19s04dw.rpy:217
 translate spanish d19s04dw_1f3a995d:
@@ -190,13 +190,13 @@ translate spanish d19s04dw_8834d0c7:
 translate spanish d19s04dw_4921ed58:
 
     # mc "I'm yours, Mistress! Only yours!"
-    mc "¡Soy tuyo, Ama! ¡Solo tuyo!"
+    mc "¡Soy tuyo, Ama! ¡Sólo tuyo!"
 
 # game/code/d19/d19s04dw.rpy:249
 translate spanish d19s04dw_c1853f0b:
 
     # dw "I own you, pet. You're mine and only mine."
-    dw "Soy tu dueña, mascota. Eres mío y solo mío."
+    dw "Soy tu dueña, mascota. Eres mío y sólo mío."
 
 # game/code/d19/d19s04dw.rpy:259
 translate spanish d19s04dw_76507fd8:
@@ -220,13 +220,13 @@ translate spanish d19s04dw_a3f85ee0:
 translate spanish d19s04dw_538a872f:
 
     # mc "Mistress, please! Please let me cum!"
-    mc "¡Señora, por favor! ¡Por favor, permítame correrme!"
+    mc "¡Ama, por favor! ¡Por favor, permítame correrme!"
 
 # game/code/d19/d19s04dw.rpy:287
 translate spanish d19s04dw_93b40634:
 
     # dw "I said no! Don't make me repeat myself again."
-    dw "¡Dije que no! No me hagas repetirme otra vez."
+    dw "¡Dije que no! No me hagas repetirlo otra vez."
 
 # game/code/d19/d19s04dw.rpy:288
 translate spanish d19s04dw_db0d3f44:
@@ -334,7 +334,7 @@ translate spanish d19s04dw_3bfdd20c:
 translate spanish d19s04dw_5394def9:
 
     # dw "The real reason I invited you here, pet, wasn't to just play."
-    dw "La verdadera razón por la que te invité aquí, mascota, no fue solo para jugar."
+    dw "La verdadera razón por la que te invité aquí, mascota, no fue sólo para jugar."
 
 # game/code/d19/d19s04dw.rpy:409
 translate spanish d19s04dw_fe97ffba:
@@ -382,19 +382,19 @@ translate spanish d19s04dw_5104322e:
 translate spanish d19s04dw_96e978ac:
 
     # dw "Doesn't matter. The point is. I'm going away and this will most likely be the last time we see each other."
-    dw "No importa La cuestión es. Me voy y esta será probablemente la última vez que nos veamos."
+    dw "No importa. El punto es. Me voy lejos y lo más probable es que esta sea la última vez que nos veamos."
 
 # game/code/d19/d19s04dw.rpy:434
 translate spanish d19s04dw_ae0cabb5:
 
     # mc "I...understand."
-    mc "Yo...entiende."
+    mc "Yo...entiendo."
 
 # game/code/d19/d19s04dw.rpy:436
 translate spanish d19s04dw_bbe97997:
 
     # dw "...You done?"
-    dw "...¿Lo hiciste?"
+    dw "...¿Lo entiendes?"
 
 # game/code/d19/d19s04dw.rpy:437
 translate spanish d19s04dw_089c23d6:
@@ -502,7 +502,7 @@ translate spanish d19s04dw_28433462:
 translate spanish d19s04dw_e26d24ca:
 
     # mc "...I still want to go with you...Dahlia."
-    mc "...Aún quiero ir contigo...Dahlia."
+    mc "...Aún así quiero ir contigo... Dahlia."
 
 # game/code/d19/d19s04dw.rpy:489
 translate spanish d19s04dw_8a6c5f57:
