@@ -22,19 +22,19 @@ translate spanish lovense_test_fa719a86:
 translate spanish lovense_test_d7e7b816:
 
     # "Pump Test LOW"
-    "Prueba de bomba BAJA"
+    "Prueba de la bomba BAJA"
 
 # game/code/screens/lovense.rpy:183
 translate spanish lovense_test_14a8f7e0:
 
     # "Pump Test MAX"
-    "Prueba de bomba MAX"
+    "Prueba de la bomba MAX"
 
 # game/code/screens/lovense.rpy:185
 translate spanish lovense_test_30b42ad1:
 
     # "Pattern Test"
-    "Prueba de patrón"
+    "Prueba del modelo"
 
 # game/code/screens/lovense.rpy:189
 translate spanish lovense_test_37bd1745:
@@ -52,11 +52,11 @@ translate spanish strings:
 
     # game/code/screens/lovense.rpy:19
     old "Please make sure both FL and Lovense Remote app are on the same LAN."
-    new "Asegúrese de que tanto FL como la aplicación Lovense Remote estén en la misma red LAN."
+    new "Asegúrese de que tanto Fetish Locator como la aplicación remota de Lovense están conectados a la misma red LAN."
 
     # game/code/screens/lovense.rpy:20
     old "Follow the steps to enable Game Mode in Lovense Remote app and connect your toy to FL."
-    new "Siga los pasos para habilitar el modo de juego en la aplicación Lovense Remote y conecte su juguete a FL."
+    new "Sigue los pasos para activar el Modo Juego en la aplicación remota de Lovense y conecta tú juguete a Fetish Locator."
 
     # game/code/screens/lovense.rpy:27
     old "1. Click on the \"Me\" tab"
@@ -68,7 +68,7 @@ translate spanish strings:
 
     # game/code/screens/lovense.rpy:32
     old "3. Click the button to enable \"Game Mode\""
-    new "3.  Haz clic en el botón para activar el \"Modo Juego\""
+    new "3.  Haga clic en el botón para activar el \"Modo Juego\""
 
     # game/code/screens/lovense.rpy:36
     old "4. Enter the \"Local IP\" and \"Http Port\" shown in the app"
