@@ -180,7 +180,7 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:1045
     old "Connect Your Toy"
-    new "Conecta tu juguete"
+    new "Conecta tú juguete"
 
     # game/code/screens/screens.rpy:1055
     old "Music Volume"
