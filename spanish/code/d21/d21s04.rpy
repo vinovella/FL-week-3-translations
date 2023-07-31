@@ -442,7 +442,7 @@ translate spanish d21s04_b3fb2609:
 translate spanish d21s04_6b48f9fb:
 
     # mh "{size=23}Only if you want me to be in that position, {i}Sir{/i}.{/size}"
-    mh "{size=23}Solo si quiere que esté en esa posición, {i}Señor{/i}.{/size}"
+    mh "{size=23}Sólo si quiere que esté en esa posición, {i}Señor{/i}.{/size}"
 
 # game/code/d21/d21s04.rpy:249
 translate spanish d21s04_12b698e2:
@@ -730,7 +730,7 @@ translate spanish d21s04_8fbfb15f:
 translate spanish d21s04_f0aaa26e:
 
     # mc "Lyssa. I want to be with you too. And I want to see where we go with Oliver."
-    mc "Lyssa. Yo tambien quiero estar contigo. Y quiero ver a dónde vamos con Oliver."
+    mc "Lyssa. Yo también quiero estar contigo. Y quiero ver a dónde vamos con Oliver."
 
 # game/code/d21/d21s04.rpy:433
 translate spanish d21s04_3b978387:
@@ -778,7 +778,7 @@ translate spanish d21s04_mcgoeswithmh_8c13f155:
 translate spanish d21s04_mcgoeswithmh_d7218884:
 
     # mc "Yes. For you, I'd do it in a heartbeat."
-    mc "Sí. Por ti, lo haría en un santiamén."
+    mc "Sí. Por ti, lo haría sin dudarlo."
 
 # game/code/d21/d21s04.rpy:468
 translate spanish d21s04_mcgoeswithmh_f8f6be89:
