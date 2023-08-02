@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-05 14:57
 
-# game/code/d18/d18s06.rpy:6
-translate russian d18s06_5a846eb5:
-
-    # "Some time later.{w} At the college campus."
-    "Некоторое время спустя. {w}В кампусе колледжа."
-
 # game/code/d18/d18s06.rpy:8
 translate russian d18s06_59f5b92b:
 

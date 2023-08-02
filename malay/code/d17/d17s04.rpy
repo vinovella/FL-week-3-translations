@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-04-16 20:02
 
-# game/code/d17/d17s04.rpy:43
-translate malay d17s04_538722ec:
-
-    # "After a short journey by bus"
-    "Selepas perjalanan singkat dengan bas"
-
 # game/code/d17/d17s04.rpy:45
 translate malay d17s04_e9a933c1:
 

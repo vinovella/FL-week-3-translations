@@ -294,12 +294,6 @@ translate chinese d20s02tl_pray_55f72b63:
     # tl "I prepare my body for the Master to come."
     tl "我准备好我的身体，等待主的到来。"
 
-# game/code/d20/d20s02tl.rpy:191
-translate chinese d20s02tl_pray_a5bbc1f5:
-
-    # mct "Finally, surrender yourself to my teaching."
-    mct "最后，臣服于我的教导。"
-
 # game/code/d20/d20s02tl.rpy:193
 translate chinese d20s02tl_pray_09cf030f:
 

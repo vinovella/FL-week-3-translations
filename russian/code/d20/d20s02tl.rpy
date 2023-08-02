@@ -294,12 +294,6 @@ translate russian d20s02tl_pray_55f72b63:
     # tl "I prepare my body for the Master to come."
     tl "Я готовлю свое тело к приходу Господа."
 
-# game/code/d20/d20s02tl.rpy:190
-translate russian d20s02tl_pray_a5bbc1f5:
-
-    # mct "Finally, surrender yourself to my teaching."
-    mct "И наконец, отдай себя всю моему учению."
-
 # game/code/d20/d20s02tl.rpy:192
 translate russian d20s02tl_pray_09cf030f:
 

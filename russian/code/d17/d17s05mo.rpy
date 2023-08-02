@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-06 10:42
 
-# game/code/d17/d17s05mo.rpy:4
-translate russian d17s05mo_e843f07b:
-
-    # "30 minutes later"
-    "30 минут спустя."
-
 # game/code/d17/d17s05mo.rpy:6
 translate russian d17s05mo_7c42b679:
 
@@ -473,18 +467,6 @@ translate russian d17s05mo_12d62553:
 
     # mh "Hey, don't judge me."
     mh "Эй, не осуждай меня."
-
-# game/code/d17/d17s05mo.rpy:164
-translate russian d17s05mo_e843f07b_1:
-
-    # "30 minutes later"
-    "30 минут спустя."
-
-# game/code/d17/d17s05mo.rpy:167
-translate russian d17s05mo_09d1334a:
-
-    # op "That's messed up, [mcname]."
-    op "Это все испортило, [mcname]."
 
 # game/code/d17/d17s05mo.rpy:169
 translate russian d17s05mo_e95e1241:
@@ -1145,4 +1127,12 @@ translate russian d17s05mo_be58e169:
 
     # mh "Well, I'm glad."
     mh "Что ж, я рада."
+
+# TODO: Translation updated at 2023-06-01 02:07
+
+# game/code/d17/d17s05mo.rpy:258
+translate russian d17s05mo_09d1334a:
+
+    # op "That's messed up, [mcname]."
+    op "That's messed up, [mcname]."
 

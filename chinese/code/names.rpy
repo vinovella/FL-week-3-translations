@@ -1,3 +1,5 @@
+## Character Names #############################################################
+
 translate chinese strings:
 
     old "Fetish Locator Retention"

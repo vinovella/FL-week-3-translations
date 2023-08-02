@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d15/d15s06.rpy:62
-translate malay d15s06_58b263af:
-
-    # "1 hour later"
-    "Sejam kemudian"
-
 # game/code/d15/d15s06.rpy:73
 translate malay d15s06_1d052d6c:
 
@@ -167,12 +161,6 @@ translate malay d15s06_94dfa815:
 
     # mh "Mm, I can't wait."
     mh "Mm, aku tak sabar."
-
-# game/code/d15/d15s06.rpy:143
-translate malay d15s06_cac2081b:
-
-    # "10 minutes later"
-    "10 minit kemudian"
 
 # game/code/d15/d15s06.rpy:155
 translate malay d15s06_55db923e:

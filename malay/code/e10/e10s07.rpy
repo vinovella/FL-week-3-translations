@@ -456,3 +456,11 @@ translate malay strings:
     old "Few days later"
     new "Few days later"
 
+# TODO: Translation updated at 2023-05-27 13:19
+
+translate malay strings:
+
+    # game/code/e10/e10s07.rpy:217
+    old "You have finished playing ending 10!"
+    new "You have finished playing ending 10!"
+

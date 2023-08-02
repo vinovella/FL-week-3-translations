@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d15/d15s04dw.rpy:15
-translate malay d15s04dw_e843f07b:
-
-    # "30 minutes later"
-   "30 minit kemudian"
-
 # game/code/d15/d15s04dw.rpy:21
 translate malay d15s04dw_4290d7de:
 
@@ -539,12 +533,6 @@ translate malay d15s04dw_170f1148:
 
     # sb "He does. Are you going to spank his ass?"
     sb "Yeah. Kau nak pukul bontot dia ke?"
-
-# game/code/d15/d15s04dw.rpy:318
-translate malay d15s04dw_2fd00228:
-
-    # dw "I'm sure he's got a book around her somewhere that I can use as a paddle."
-    dw "Aku rasa dia ada buku di sekelilingnya yang boleh aku gunakan sebagai pemukul."
 
 # game/code/d15/d15s04dw.rpy:320
 translate malay d15s04dw_de6636c2:

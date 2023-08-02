@@ -678,12 +678,6 @@ translate chinese e02s06_experiment_1b4e4021:
     # ac "You're playing with fire there..."
     ac "你这是在玩火..."
 
-# game/code/e02/e02s06.rpy:220
-translate chinese e02s06_experiment_3dcaff71:
-
-    # mc "I think a gal likes you likes a little danger..."
-    mc "我觉得像你这样的女孩正喜欢危险的东西..."
-
 # game/code/e02/e02s06.rpy:221
 translate chinese e02s06_experiment_cca7cec8:
 
@@ -701,12 +695,6 @@ translate chinese e02s06_experiment_b3df50fe:
 
     # mh "You don't see something like this on the farm much?"
     mh "你在农场里不常看到这样的东西吗？"
-
-# game/code/e02/e02s06.rpy:226
-translate chinese e02s06_experiment_d1f48c27:
-
-    # fc "No ma'am.{w}Can I give it a whirl?"
-    fc "是的，夫人。{w}我能试一试吗？"
 
 # game/code/e02/e02s06.rpy:227
 translate chinese e02s06_experiment_5439b1a1:
@@ -743,12 +731,6 @@ translate chinese e02s06_experiment_8d06044c:
 
     # ac "It's a real treat, isn't it?"
     ac "真是一顿美餐，不是吗？"
-
-# game/code/e02/e02s06.rpy:239
-translate chinese e02s06_experiment_37c9e14a:
-
-    # ac "I got real wet thinnking about showing it off for you, [mcname]."
-    ac "一想到要在你面前秀一下，我就浑身湿透了，[mcname]。"
 
 # game/code/e02/e02s06.rpy:241
 translate chinese e02s06_experiment_b802d180:

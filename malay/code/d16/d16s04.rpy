@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d16/d16s04.rpy:14
-translate malay d16s04_16275f53:
-
-    # "20 minutes later"
-    "20 minit kemudian"
-
 # game/code/d16/d16s04.rpy:24
 translate malay d16s04_010937cb:
 
@@ -749,12 +743,6 @@ translate malay d16s04_cb724e06:
 
     # mct "What does this mean? Has the function of the Stars changed?"
     mct "Apa maksudnya? Adakah fungsi Bintang telah berubah?"
-
-# game/code/d16/d16s04.rpy:257
-translate malay d16s04_51f10828:
-
-    # mct "FL told me that I can't use the Gold Stars to skip the punishment, but maybe that has changed now?"
-    mct "FL beritahu aku yang aku tak boleh menggunakan Bintang Emas untuk melangkau hukuman, tapi mungkin itu telah berubah sekarang?"
 
 # game/code/d16/d16s04.rpy:259
 translate malay d16s04_f0193a30:

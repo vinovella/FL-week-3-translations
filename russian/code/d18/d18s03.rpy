@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-05 14:57
 
-# game/code/d18/d18s03.rpy:49
-translate russian d18s03_e843f07b:
-
-    # "30 minutes later"
-    "30 минут спустя."
-
 # game/code/d18/d18s03.rpy:53
 translate russian d18s03_ec5dba5c:
 
@@ -1067,12 +1061,6 @@ translate russian d18s03_sex_b4f842e4:
 
     # mct "I had a solution too.{w}.. I guess I better see what she has in mind."
     mct "У меня тоже было решение.{w}.. Думаю, мне лучше посмотреть, что она хочет предложить."
-
-# game/code/d18/d18s03.rpy:525
-translate russian d18s03_sex_45ba352a:
-
-    # mc "Is that the Pandora room?"
-    mc "Это комната Пандоры?"
 
 # game/code/d18/d18s03.rpy:527
 translate russian d18s03_sex_4019a216:

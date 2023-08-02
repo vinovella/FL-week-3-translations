@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d15/d15s07.rpy:35
-translate malay d15s07_a025bf8e:
-
-    # "Later that day"
-    "Kemudiannya"
-
 # game/code/d15/d15s07.rpy:41
 translate malay d15s07_a875bc2a:
 
@@ -65,12 +59,6 @@ translate malay d15s07_9234c84b:
 
     # lc "Oh, sorry. I forgot. {w}How are you doing with-?"
     lc "Oh, maaf. Aku terlupa. {w}Apa khabar kau dengan-?"
-
-# game/code/d15/d15s07.rpy:70
-translate malay d15s07_b7d1ae24:
-
-    # mes "Antony isn't in my picture anymore."
-    mes "Antony tak bersama dengan aku lagi."
 
 # game/code/d15/d15s07.rpy:73
 translate malay d15s07_f7165950:

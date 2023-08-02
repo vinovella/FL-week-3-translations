@@ -678,12 +678,6 @@ translate portuguese d19s02_7778fe7e:
     # dd "I jus want you to come over"
     dd "Eu só queria que você viesse aqui."
 
-# game/code/d19/d19s02.rpy:498
-translate portuguese d19s02_8796b521:
-
-    # mct "Ill be there"
-    mct "Eu tô indo."
-
 # game/code/d19/d19s02.rpy:500
 translate portuguese d19s02_7ad556d6:
 

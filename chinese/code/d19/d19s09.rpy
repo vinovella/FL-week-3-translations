@@ -750,18 +750,6 @@ translate chinese d19s09_end_a2376b4a:
     # arj "What's there to talk about? We know where it is. I say we just destroy it."
     arj "有什么好谈的？我们知道它的位置。要我说，我们直接捣毁得了。"
 
-# game/code/d19/d19s09.rpy:684
-translate chinese d19s09_end_9b9656c3:
-
-    # sy "I actually went back to the server room. I wanted to see exactly what they were doing."
-    sy "实际上我回到了服务器机房一趟。我想看看他们到底在做什么。"
-
-# game/code/d19/d19s09.rpy:685
-translate chinese d19s09_end_ac513c00:
-
-    # sy "It's...actually kinda interesting. Whoever built it wasn't completely dumb."
-    sy "其实...有点意思。建造它的人并不算非常蠢。"
-
 # game/code/d19/d19s09.rpy:686
 translate chinese d19s09_end_fc68bc3c:
 

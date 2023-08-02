@@ -324,12 +324,6 @@ translate portuguese e06s06_mh_harem_88bfe7e6:
     # mh "Is this true, Lydia?"
     mh "É verdade, Lydia?"
 
-# game/code/e06/e06s06.rpy:176
-translate portuguese e06s06_mh_harem_5704597e:
-
-    # lc "Of course. We're not asking you to give up anything. Just to add more, if you'd like."
-    lc "Claro. Não estamos pedindo que você desist de nada. Só adicionar, se quiser."
-
 # game/code/e06/e06s06.rpy:179
 translate portuguese e06s06_mh_harem_b46b8b7a:
 
@@ -834,12 +828,6 @@ translate portuguese e06s06_fuck_mh_fc0bcc15:
     # mh "Oh! Baby... You're already pushing so deep..."
     mh "Aih! Amor... Você já está enfiando tão fundo..."
 
-# game/code/e06/e06s06.rpy:513
-translate portuguese e06s06_fuck_mh_b0376778:
-
-    # mh "Do not think I forgot about you, AmRose."
-    mh "Não pense que esqueci de você, AmRose."
-
 # game/code/e06/e06s06.rpy:518
 translate portuguese e06s06_fuck_mh_6ce4f9d1:
 
@@ -1056,23 +1044,11 @@ translate portuguese e06s06_fuck_arj_c77b3033:
     # arj "Oh... OH... I'm CUMMING!"
     arj "Aih... AIH... Eu tô GOZANDO!"
 
-# game/code/e06/e06s06.rpy:666
-translate portuguese e06s06_finish_1_7dcb9551:
-
-    # mh "[mcname] That's it, [mcname]. You heard your fiance... make... make me cum!"
-    mh "Isso, [mcname]. Você ouviu sua noiva... faz... faz eu gozar!"
-
 # game/code/e06/e06s06.rpy:667
 translate portuguese e06s06_finish_1_f23f3a6b:
 
     # mh "I'm... I'm so close!"
     mh "Eu... estou tão perto!"
-
-# game/code/e06/e06s06.rpy:671
-translate portuguese e06s06_finish_1_2479bcce:
-
-    # mh "Mmmmrmm!"
-    mh "Mmmmrmm!"
 
 # game/code/e06/e06s06.rpy:674
 translate portuguese e06s06_finish_1_30c5cf2b:
@@ -1273,3 +1249,11 @@ translate portuguese e06s06_d14a3c55:
 
     # lc "Yes, so I am well aware of all the girls he's been with."
     lc "Sim, assim eu fico bem a par de todas garotas que ele tem ficado."
+# TODO: Translation updated at 2023-05-29 02:57
+
+# game/code/e06/e06s06.rpy:954
+translate portuguese e06s06_finish_1_2479bcce:
+
+    # mh "Mmmmrmm!"
+    mh "Mmmmrmm!"
+

@@ -750,18 +750,6 @@ translate portuguese d19s09_end_a2376b4a:
     # arj "What's there to talk about? We know where it is. I say we just destroy it."
     arj "O que tem pra falar? Sabemos onde ele fica. Eu voto que a gente simplesmente destrua ele."
 
-# game/code/d19/d19s09.rpy:936
-translate portuguese d19s09_end_9b9656c3:
-
-    # sy "I actually went back to the server room. I wanted to see exactly what they were doing."
-    sy "Na verdade, eu voltei pra sala do servidor. Eu queria ver exatamente o que eles estavam fazendo."
-
-# game/code/d19/d19s09.rpy:937
-translate portuguese d19s09_end_ac513c00:
-
-    # sy "It's...actually kinda interesting. Whoever built it wasn't completely dumb."
-    sy "É... até que bem interessante. Quem construiu ele não era completamente burro."
-
 # game/code/d19/d19s09.rpy:938
 translate portuguese d19s09_end_fc68bc3c:
 

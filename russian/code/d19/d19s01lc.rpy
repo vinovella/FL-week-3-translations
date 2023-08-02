@@ -192,12 +192,6 @@ translate russian d19s01lc_b8434a6f:
     # lc "Fetish Locator was my idea. It was my dream!"
     lc "Фетиш Локатор был моей идеей. Это была моя мечта!"
 
-# game/code/d19/d19s01lc.rpy:77
-translate russian d19s01lc_860bd908:
-
-    # lc "I didn't know it would start a VIP Program or promise $$1kk!!! I just thought it would be something fun and sexy!"
-    lc "Я не знала, что он запустит VIP-программу или пообещает 1 миллион долларов!!! Я просто думала, что это будет что-то веселое и сексуальное!"
-
 # game/code/d19/d19s01lc.rpy:79
 translate russian d19s01lc_60e0f87b:
 

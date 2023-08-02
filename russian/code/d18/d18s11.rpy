@@ -372,12 +372,6 @@ translate russian d18s11_bar_bd4c1a8f:
     # "Bartender" "Alright... where?"
     "Bartender" "Хорошо... куда?"
 
-# game/code/d18/d18s11.rpy:154
-translate russian d18s11_bar_543ca118:
-
-    # "Please save your game here."
-    "Это конец текущей версии игры. Пожалуйста, сохраните игру здесь."
-
 translate russian strings:
 
     # game/code/d18/d18s11.rpy:34

@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-06 10:42
 
-# game/code/d17/d17s05.rpy:21
-translate russian d17s05_9f358fa6:
-
-    # "One hour later"
-    "Один час спустя."
-
 # game/code/d17/d17s05.rpy:26
 translate russian d17s05_de5c1d3a:
 

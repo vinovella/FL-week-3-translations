@@ -89,3 +89,11 @@ translate malay strings:
     # game/code/screens/extended/screens.rpy:98
     old "Quit Game"
     new "Henti"
+# TODO: Translation updated at 2023-07-05 01:09
+
+translate malay strings:
+
+    # game/code/screens/extended/screens.rpy:95
+    old "Wishlist Vinovella University on Steam"
+    new "Wishlist Vinovella University on Steam"
+

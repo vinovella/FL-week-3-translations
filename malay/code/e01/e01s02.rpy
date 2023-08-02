@@ -804,3 +804,19 @@ translate malay strings:
     old "At Subway Station"
     new "At Subway Station"
 
+# TODO: Translation updated at 2023-05-27 13:19
+
+translate malay strings:
+
+    # game/code/e01/e01s02.rpy:400
+    old "You have finished Ending #01!"
+    new "You have finished Ending #01!"
+
+    # game/code/e01/e01s02.rpy:401
+    old "Stacy and [mcname] will return!"
+    new "Stacy and [mcname] will return!"
+
+    # game/code/e01/e01s02.rpy:402
+    old "In Fetish Locator: S&M Studio!"
+    new "In Fetish Locator: S&M Studio!"
+

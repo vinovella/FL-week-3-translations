@@ -426,12 +426,6 @@ translate russian d16s07_ext_576e535e:
     # mc "Of course. Sorry I couldn't help with this."
     mc "Конечно. Извини, что я не смог помочь с этим."
 
-# game/code/d16/extended/d16s07_ext.rpy:299
-translate russian d16s07_ext_a3461c35:
-
-    # jf "It's okay. You don't have to go just yet though. We could hang out a bit. I was going to ask a photographer friend of mine to come over to take those pics. I could give you a little show..."
-    jf "Все в порядке. Но тебе не обязательно уходить. Мы могли бы немного пообщаться. Я собиралась попросить свою подругу-фотографа приехать и сделать эти снимки. Я могла бы устроить для тебя небольшое шоу..."
-
 # game/code/d16/extended/d16s07_ext.rpy:302
 translate russian d16s07_ext_c315f7ad_1:
 

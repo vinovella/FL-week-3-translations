@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2021-12-19 11:46
 
-# game/code/d15/d15s04.rpy:19
-translate russian d15s04_16275f53:
-
-    # "20 minutes later"
-    "20 минут спустя."
-
 # game/code/d15/d15s04.rpy:22
 translate russian d15s04_a13bdd91:
 

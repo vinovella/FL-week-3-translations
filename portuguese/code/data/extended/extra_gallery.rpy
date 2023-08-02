@@ -236,14 +236,14 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:236
     old "HOW MANY ENDINGS HAVE YOU UNLOCKED?"
-    new "       QUANTOS FINAIS VOCÊ LIBEROU?"
+    new "QUANTOS FINAIS VOCÊ LIBEROU?"
 
     # game/code/data/extended/extra_gallery.rpy:237
     old "9 ENDINGS"
     new "9 FINAIS"
 
     # game/code/data/extended/extra_gallery.rpy:238
-    old "YOU GOTTA PUMP THOS NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
+    old "YOU GOTTA PUMP THOSE NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
     new "VOCÊ PRECISA AUMENTAR ESSES NÚMEROS.\nESSES NÚMEROS ESTÃO BAIXOS!"
 
     # game/code/data/extended/extra_gallery.rpy:260
@@ -263,24 +263,28 @@ translate portuguese strings:
     new "PARA ME CERTIFICAR QUE\nNINGUÉM VAI SER CHANTAGEADO"
 
     # game/code/data/extended/extra_gallery.rpy:314
-    old "YOU'RE GOING TO\nUSE IT FOR GOOD, RIGHT?"
+    old "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
     new "VOCÊ VAI USAR\nELE PARA O BEM, NÉ?"
 
     # game/code/data/extended/extra_gallery.rpy:306
     old "RIGHT?"
-    new "   NÉ?"
+    new "NÉ?"
 
     # game/code/data/extended/extra_gallery.rpy:319
     old "THE FIRST ENDING\nFROM 18 TOTAL ENDINGS"
-    new "      O PRIMEIRO FINAL\n       DE 18 FINAIS TOTAIS"
+    new "O PRIMEIRO FINAL\nDE 18 FINAIS TOTAIS"
 
     # game/code/data/extended/extra_gallery.rpy:320
     old "IS THAT A REAL ENDING?"
     new "ESSE É UM FINAL DE VERDADE?"
 
+    # game/code/data/extended/extra_gallery.rpy:535
+    old "TRADE OFFER"
+    new "OFERTA DE TROCA"
+
     # game/code/data/extended/extra_gallery.rpy:431
     old "I receive:"
-    new "  Eu recebo:"
+    new "Eu recebo:"
 
     # game/code/data/extended/extra_gallery.rpy:432
     old "Cum in every pussy\nat the wedding"
@@ -292,7 +296,7 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:434
     old "The whole\nharem pregnant"
-    new "    O harém \n    todo grávido"
+    new "O harém\ntodo grávido"
 
     # game/code/data/extended/extra_gallery.rpy:231
     old "HIGH SCORE :\n[persistent.minigame_max_score]"

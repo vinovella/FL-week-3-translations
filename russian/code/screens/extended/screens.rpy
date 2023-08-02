@@ -70,3 +70,11 @@ translate russian strings:
     old "ENDINGS"
     new "КОНЦОВКИ"
 
+# TODO: Translation updated at 2023-07-03 00:02
+
+translate russian strings:
+
+    # game/code/screens/extended/screens.rpy:95
+    old "Wishlist Vinovella University on Steam"
+    new "Wishlist Vinovella University on Steam"
+

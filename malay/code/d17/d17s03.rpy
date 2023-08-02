@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-04-16 20:02
 
-# game/code/d17/d17s03.rpy:4
-translate malay d17s03_e843f07b:
-
-    # "30 minutes later"
-    "30 minit kemudian"
-
 # game/code/d17/d17s03.rpy:8
 translate malay d17s03_9a6462db:
 
@@ -905,12 +899,6 @@ translate malay d17s03_1a996ff0:
 
     # ir "I am not fucking jealous.{w} If there is something twisted going on between those two, it isn't right."
     ir "Aku tak cemburu. {w}Jika ada sesuatu yang berlaku antara kedua-dua mereka, itu tak betul."
-
-# game/code/d17/d17s03.rpy:315
-translate malay d17s03_fb50de86:
-
-    # mct "That doesn't sound like jealousy as all."
-    mct "Itu tak dengar macam cemburu."
 
 # game/code/d17/d17s03.rpy:316
 translate malay d17s03_03220b59:

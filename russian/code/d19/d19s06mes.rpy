@@ -966,12 +966,6 @@ translate russian d19s06mes_eb754278:
     # mc "I'm not sure...{w} Now I'm confused."
     mc "Я не уверен... {w}Теперь я в замешательстве."
 
-# game/code/d19/d19s06mes.rpy:427
-translate russian d19s06mes_89411a58:
-
-    # cl "I don't want to consent to just getting pee'd on, but I will eagerly consent to the humiliation of being pee'd on as a punishment for my...{w} whatever excuse you come up with."
-    cl "Я не хочу соглашаться на то, чтобы на меня мочились, но я охотно соглашусь на унижение от того, что на меня писают в наказание за мои... {w}какое бы оправдание у этого не было."
-
 # game/code/d19/d19s06mes.rpy:429
 translate russian d19s06mes_e3d01c27:
 
@@ -996,18 +990,6 @@ translate russian d19s06mes_e26b033f:
     # mes "No, no, no. That won't do at all.{w} Open your eyes and look at his magnificent penis."
     mes "Нет, нет, нет. Так совсем не годится. {w}Открой глаза и смотри на его великолепный пенис."
 
-# game/code/d19/d19s06mes.rpy:438
-translate russian d19s06mes_05da3a53:
-
-    # cl "It's so small. How is that magnificent?"
-    cl "Он такой маленький. Разве это великолепно?"
-
-# game/code/d19/d19s06mes.rpy:440
-translate russian d19s06mes_708cf316:
-
-    # mes "You can't expect it to be hard while he's peeing. Now, open wide!"
-    mes "Не стоит ожидать, что у него будет стоять, пока он писает. Открывай рот шире!"
-
 # game/code/d19/d19s06mes.rpy:442
 translate russian d19s06mes_6c4c9566:
 
@@ -1019,12 +1001,6 @@ translate russian d19s06mes_0cf7857b:
 
     # mc "You're next, unless-"
     mc "Ты следующая, если только..."
-
-# game/code/d19/d19s06mes.rpy:446
-translate russian d19s06mes_1e42cb07:
-
-    # cl "Okay!{w} I'm ready!!!"
-    cl "Ладно! {w}Я готова!!!"
 
 # game/code/d19/d19s06mes.rpy:448
 translate russian d19s06mes_940c05aa:
@@ -1062,29 +1038,11 @@ translate russian d19s06mes_d7eaf603:
     # mes "Don't forget about me!"
     mes "Не забывай обо мне!"
 
-# game/code/d19/d19s06mes.rpy:461
-translate russian d19s06mes_5686ca35:
-
-    # cl "Of fuck yes."
-    cl "Ох бля, да."
-
 # game/code/d19/d19s06mes.rpy:463
 translate russian d19s06mes_246614a6:
 
     # mc "You enjoy it?"
     mc "Тебе это нравится?"
-
-# game/code/d19/d19s06mes.rpy:465
-translate russian d19s06mes_0e0ad4da:
-
-    # cl "I don't think my nips and clit have ever been so hard.{w} More please!"
-    cl "Я не помню, чтобы раньше мои соски и клитор были такими набухшими. {w}Еще, пожалуйста!"
-
-# game/code/d19/d19s06mes.rpy:467
-translate russian d19s06mes_51a8a306:
-
-    # cl "Get it all over my face!"
-    cl "Размажь это по всему моему лицу!"
 
 # game/code/d19/d19s06mes.rpy:469
 translate russian d19s06mes_7cc091b5:

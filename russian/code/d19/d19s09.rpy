@@ -750,18 +750,6 @@ translate russian d19s09_end_a2376b4a:
     # arj "What's there to talk about? We know where it is. I say we just destroy it."
     arj "О чем тут говорить? Мы знаем, где он находится. Думаю, мы просто уничтожим его."
 
-# game/code/d19/d19s09.rpy:684
-translate russian d19s09_end_9b9656c3:
-
-    # sy "I actually went back to the server room. I wanted to see exactly what they were doing."
-    sy "Я сходила в серверную. Хотела посмотреть, что там делается."
-
-# game/code/d19/d19s09.rpy:685
-translate russian d19s09_end_ac513c00:
-
-    # sy "It's...actually kinda interesting. Whoever built it wasn't completely dumb."
-    sy "Это... на самом деле довольно интересно. Кто бы это ни создал, он не полный болван."
-
 # game/code/d19/d19s09.rpy:686
 translate russian d19s09_end_fc68bc3c:
 
@@ -917,12 +905,6 @@ translate russian d19s09_end_d48fa82a:
 
     # sy "*Laughs* And I'm the Pope."
     sy "*смеется* А я - Папа Римская."
-
-# game/code/d19/d19s09.rpy:749
-translate russian d19s09_end_543ca118:
-
-    # "Please save your game here."
-    "Это конец текущей версии игры. Пожалуйста, сохраните игру здесь."
 
 translate russian strings:
 

@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-01-31 15:43
 
-# game/code/d16/d16s01.rpy:9
-translate russian d16s01_bf7ab2c9:
-
-    # "Tuesday.{w} Day-16."
-    "Вторник. {w}День 16."
-
 # game/code/d16/d16s01.rpy:13
 translate russian d16s01_66e01943:
 

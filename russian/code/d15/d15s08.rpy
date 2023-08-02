@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2021-12-19 11:46
 
-# game/code/d15/d15s08.rpy:4
-translate russian d15s08_e843f07b:
-
-    # "30 minutes later"
-    "30 минут спустя."
-
 # game/code/d15/d15s08.rpy:14
 translate russian d15s08_ac30fa16:
 
@@ -227,12 +221,6 @@ translate russian d15s08_a5914113:
 
     # mct "I feel like Charlie.{w}.. or at least Bosworth."
     mct "Я чувствую себя как Чарли.{w}.. или как при Босворте."
-
-# game/code/d15/d15s08.rpy:82
-translate russian d15s08_a523b7cd:
-
-    # mc "Okay, Angels! Let's recap. Fetish Locator should have physical servers on or near campus."
-    mc "Хорошо, ангелочки! Давайте подведем итоги. Фетиш Локатор должен иметь физические серверы на территории кампуса или рядом с ним."
 
 # game/code/d15/d15s08.rpy:84
 translate russian d15s08_321e912e:
@@ -1157,12 +1145,6 @@ translate russian d15s08_bcfe6e94:
 
     # mct "...zzZZZzzzz..."
     mct "...zzZZZzzzz..."
-
-# game/code/d15/d15s08.rpy:384
-translate russian d15s08_543ca118:
-
-    # "Please save your game here."
-    "Это конец текущей версии игры. Пожалуйста, сохраните игру здесь."
 
 # TODO: Translation updated at 2022-08-06 21:12
 

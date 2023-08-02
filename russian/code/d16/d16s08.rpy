@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-01-31 15:43
 
-# game/code/d16/d16s08.rpy:6
-translate russian d16s08_06b43f16:
-
-    # "1 hour later."
-    "1 час спустя."
-
 # game/code/d16/d16s08.rpy:13
 translate russian d16s08_d60f6efd:
 
@@ -264,12 +258,6 @@ translate russian d16s08_ceec81e5:
     # mc "Dahlia and I have been getting pretty close."
     mc "Мы с Далией стали довольно близки."
 
-# game/code/d16/d16s08.rpy:109
-translate russian d16s08_ffeead53:
-
-    # arj "Close? She doesn't seem like the time to get close with anyone."
-    arj "Близки? Похоже, сейчас не время с кем-то сближаться."
-
 # game/code/d16/d16s08.rpy:111
 translate russian d16s08_d3c78865:
 
@@ -359,12 +347,6 @@ translate russian d16s08_9aa1a868:
 
     # arj "I guess no one knows better how to pleasure a man than another man."
     arj "Думаю, никто лучше не знает, как доставить удовольствие мужчине, чем другой мужчина."
-
-# game/code/d16/d16s08.rpy:144
-translate russian d16s08_6260ba22:
-
-    # mc "I wouldn't say that. {w}It's more of a same-sex experimentation for me."
-    mc "Я бы так не сказал. {w}Для меня это больше похоже на однополый эксперимент."
 
 # game/code/d16/d16s08.rpy:145
 translate russian d16s08_944a1ab2:
@@ -456,12 +438,6 @@ translate russian d16s08_63fd3f91:
     # arj "What do you mean?"
     arj "Что ты имеешь в виду?"
 
-# game/code/d16/d16s08.rpy:178
-translate russian d16s08_30d7a9df:
-
-    # mc "She wants me to dress up next time. {w}Get into some sort of costume."
-    mc "Она хочет, чтобы я переоделся к следующему разу. {w}Надел какой-нибудь костюм."
-
 # game/code/d16/d16s08.rpy:180
 translate russian d16s08_cad3726a:
 
@@ -515,12 +491,6 @@ translate russian d16s08_143a9b1c:
 
     # arj "The M.I.L.F."
     arj "М.И.Л.Ф.А."
-
-# game/code/d16/d16s08.rpy:199
-translate russian d16s08_d68a52f8:
-
-    # mc "Yeah. I really need to talk to her about some things tomorrow, so maybe I can work a little funtime in as well."
-    mc "Да. Мне нужно поговорить с ней завтра о некоторых вещах, так что, может быть, я также смогу немного развлечься."
 
 # game/code/d16/d16s08.rpy:201
 translate russian d16s08_0ca5ea8e:

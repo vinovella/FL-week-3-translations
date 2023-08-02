@@ -386,3 +386,15 @@ translate russian strings:
     old "Menu"
     new "Меню"
 
+# TODO: Translation updated at 2023-05-27 13:27
+
+translate russian strings:
+
+    # game/code/screens/screens.rpy:357
+    old "Endings"
+    new "Endings"
+
+    # game/code/screens/screens.rpy:1045
+    old "Connect Your Toy"
+    new "Connect Your Toy"
+

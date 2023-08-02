@@ -594,12 +594,6 @@ translate portuguese d06s08_sy_378f726e:
     # sy "Oh gawd, oh gawd, OH GAWD YESSS!!!"
     sy "Meu deus, aih meu deus, AIH MEU DEUS!!!"
 
-# game/code/e06/e06s08.rpy:252
-translate portuguese d06s08_sy_525e2441:
-
-    # sy "CREAMPIE ME [mcname_upper]!!!"
-    sy "GOZA DENTRO DE MIM, [mcname_upper]!!!"
-
 # game/code/e06/e06s08.rpy:254
 translate portuguese d06s08_sy_40bbc053:
 
@@ -1911,42 +1905,6 @@ translate portuguese strings:
     new "Lydia devia chupar o pau da Lyssa"
 
 # TODO: Translation updated at 2023-04-24 02:26
-
-# game/code/e06/e06s08.rpy:149
-translate portuguese e06s08_cake_c3b7c93b_1:
-
-    # arj "Get a room!"
-    arj "Arruma um quarto!"
-
-# game/code/e06/e06s08.rpy:152
-translate portuguese e06s08_cake_d89f2732_1:
-
-    # "*laughter*"
-    "*risada*"
-
-# game/code/e06/e06s08.rpy:156
-translate portuguese e06s08_cake_c3b7c93b_2:
-
-    # arj "Get a room!"
-    arj "Arruma um quarto!"
-
-# game/code/e06/e06s08.rpy:159
-translate portuguese e06s08_cake_d89f2732_2:
-
-    # "*laughter*"
-    "*risada*"
-
-# game/code/e06/e06s08.rpy:163
-translate portuguese e06s08_cake_c3b7c93b_3:
-
-    # arj "Get a room!"
-    arj "Arruma um quarto!"
-
-# game/code/e06/e06s08.rpy:165
-translate portuguese e06s08_cake_d89f2732_3:
-
-    # "*laughter*"
-    "*risada*"
 
 # game/code/e06/e06s08.rpy:348
 translate portuguese d06s08_sy_4a9a11a2:

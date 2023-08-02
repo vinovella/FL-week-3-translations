@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2021-12-19 11:46
 
-# game/code/d15/d15s07.rpy:35
-translate russian d15s07_a025bf8e:
-
-    # "Later that day"
-    "Позже в этот день."
-
 # game/code/d15/d15s07.rpy:39
 translate russian d15s07_a875bc2a:
 
@@ -65,12 +59,6 @@ translate russian d15s07_9234c84b:
 
     # lc "Oh, sorry. I forgot. {w}How are you doing with-?"
     lc "Ой, извини. Я забыла. {w}Как у тебя дела с...?"
-
-# game/code/d15/d15s07.rpy:55
-translate russian d15s07_b7d1ae24:
-
-    # mes "Antony isn't in my picture anymore."
-    mes "Энтони я больше знать не хочу."
 
 # game/code/d15/d15s07.rpy:57
 translate russian d15s07_f7165950:

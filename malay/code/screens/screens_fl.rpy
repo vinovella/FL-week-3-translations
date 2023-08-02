@@ -52,7 +52,7 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:419
     old "Welcome to"
-    new "Selamat datang ke" 
+    new "Selamat datang ke"
 
     # game/code/screens/screens_fl.rpy:439
     old "Please enter your name here"
@@ -156,7 +156,7 @@ translate malay strings:
 
     # game/code/screens/screens_fl.rpy:1143
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
-    new "Fetish Locator ditujukan untuk khalayak matang\bukan 18 tahun ke atas. Sila patuhi undang-undang tempatan anda.\nSemua watak berumur 18 tahun ke atas. Tiada pengecualian.\nWatak dalam Fetish Locator meneroka hubungan dan seksualiti mereka secara sihat mahupun cara yang tidak sihat. Sesetengah daripada ini mungkin menyinggung perasaan sesetengah pemain. Budi bicara pemain dinasihatkan. Untuk itu, kebanyakan kandungan adalah pilihan dan selalunya terdapat laluan alternatif yang tersedia. Ini adalah perlu untuk jalan cerita. Kandungan yang diterokai tidak seharusnya dilayan sebagai pengesahan fetish, kekusutan atau corak tingkah laku tertentu. Sila terokai perhubungan dan seksualiti anda sendiri secara bertanggungjawab."
+    new "Fetish Locator ditujukan untuk khalayak matang\nbukan 18 tahun ke atas. Sila patuhi undang-undang tempatan anda.\nSemua watak berumur 18 tahun ke atas. Tiada pengecualian.\nWatak dalam Fetish Locator meneroka hubungan dan seksualiti mereka secara sihat mahupun cara yang tidak sihat. Sesetengah daripada ini mungkin menyinggung perasaan sesetengah pemain. Budi bicara pemain dinasihatkan. Untuk itu, kebanyakan kandungan adalah pilihan dan selalunya terdapat laluan alternatif yang tersedia. Ini adalah perlu untuk jalan cerita. Kandungan yang diterokai tidak seharusnya dilayan sebagai pengesahan fetish, kekusutan atau corak tingkah laku tertentu. Sila terokai perhubungan dan seksualiti anda sendiri secara bertanggungjawab."
 
     # game/code/screens/screens_fl.rpy:1183
     old "X-RAY"
@@ -293,3 +293,27 @@ translate malay strings:
     # game/code/screens/screens_fl.rpy:46
     old "You haven't unlocked this ending"
     new "Anda belum membuka pengakhiran ini"
+
+# TODO: Translation updated at 2023-05-27 13:19
+
+translate malay strings:
+
+    # game/code/screens/screens_fl.rpy:265
+    old "Continue playing"
+    new "Continue playing"
+
+    # game/code/screens/screens_fl.rpy:269
+    old "Close the game"
+    new "Close the game"
+
+    # game/code/screens/screens_fl.rpy:1338
+    old "Skip Recap\nof Week-1"
+    new "Skip Recap\nof Week-1"
+
+    # game/code/screens/screens_fl.rpy:1344
+    old "Skip Recap\nof Week-2"
+    new "Skip Recap\nof Week-2"
+
+    # game/code/screens/screens_fl.rpy:180
+    old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
+    new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"

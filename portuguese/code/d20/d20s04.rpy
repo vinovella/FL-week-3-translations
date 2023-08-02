@@ -1026,18 +1026,6 @@ translate portuguese d20s04_zw_wrong_2e993bae:
     # rn "I agree."
     rn "Concordo."
 
-# game/code/d20/d20s04.rpy:463
-translate portuguese d20s04_zw_wrong_d4d75508:
-
-    # zw "I suppose.{w}.. Fine."
-    zw "Sim.{w}.. Tudo bem."
-
-# game/code/d20/d20s04.rpy:464
-translate portuguese d20s04_zw_wrong_e41ec30d:
-
-    # zw "You have my vote."
-    zw "Você tem meu voto."
-
 # game/code/d20/d20s04.rpy:468
 translate portuguese d20s04_zw_wrong_c4146493:
 

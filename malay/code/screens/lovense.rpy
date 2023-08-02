@@ -101,3 +101,40 @@ translate malay strings:
     # game/code/screens/lovense.rpy:67
     old "Please enter your HTTP Port number:"
     new "Sila masukkan nombor Port HTTP anda:"
+
+# TODO: Translation updated at 2023-06-01 02:05
+
+translate malay strings:
+
+    # game/code/screens/lovense.rpy:71
+    old "Your favorite toy now works with Fetish Locator!"
+    new "Your favorite toy now works with Fetish Locator!"
+
+    # game/code/screens/lovense.rpy:74
+    old "Get any Lovense toy with our exclusive 55% discount and sync it with Fetish Locator!"
+    new "Get any Lovense toy with our exclusive 55% discount and sync it with Fetish Locator!"
+
+    # game/code/screens/lovense.rpy:75
+    old "Limited time offer!"
+    new "Limited time offer!"
+
+    # game/code/screens/lovense.rpy:81
+    old "Get your discount now"
+    new "Get your discount now"
+
+    # game/code/screens/lovense.rpy:86
+    old "{u}Connect your toy!{/u}"
+    new "{u}Connect your toy!{/u}"
+
+# TODO: Translation updated at 2023-07-05 01:09
+
+translate malay strings:
+
+    # game/code/screens/lovense.rpy:74
+    old "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
+    new "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
+
+    # game/code/screens/lovense.rpy:80
+    old "Get a toy now"
+    new "Get a toy now"
+

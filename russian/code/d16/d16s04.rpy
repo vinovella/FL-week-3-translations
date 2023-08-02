@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-01-31 15:43
 
-# game/code/d16/d16s04.rpy:14
-translate russian d16s04_16275f53:
-
-    # "20 minutes later"
-    "20 минут спустя."
-
 # game/code/d16/d16s04.rpy:24
 translate russian d16s04_010937cb:
 
@@ -750,12 +744,6 @@ translate russian d16s04_cb724e06:
     # mct "What does this mean? Has the function of the Stars changed?"
     mct "Что это значит? Функция Звезд изменилась?"
 
-# game/code/d16/d16s04.rpy:257
-translate russian d16s04_51f10828:
-
-    # mct "FL told me that I can't use the Gold Stars to skip the punishment, but maybe that has changed now?"
-    mct "В ФЛ было написано, что я не могу использовать Золотые звезды, чтобы избежать наказания, но, может быть, теперь это изменилось?"
-
 # game/code/d16/d16s04.rpy:259
 translate russian d16s04_f0193a30:
 
@@ -1201,12 +1189,6 @@ translate russian d16s04_694ebda1:
 
     # mct "It seems like the Gold Stars for the VIP program was a beta test or something."
     mct "Похоже, что Золотые звезды для VIP-программы были каким-то бета-тестом."
-
-# game/code/d16/d16s04.rpy:360
-translate russian d16s04_664b9c5e:
-
-    # mct "FL told me that I can't use the Gold Stars to skip a challenge, but maybe that has changed now?"
-    mct "ФЛ писал, что нельзя использовать Золотые звезды, чтобы пропускать задание, но, может быть, теперь это изменилось?"
 
 # game/code/d16/d16s04.rpy:388
 translate russian d16s04_aa4b18fa:

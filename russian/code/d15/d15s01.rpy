@@ -1,17 +1,5 @@
 ﻿# TODO: Translation updated at 2021-12-19 11:46
 
-# game/code/d15/d15s01.rpy:141
-translate russian d15s01_493aa6b9:
-
-    # "Week Three"
-    "Третья неделя."
-
-# game/code/d15/d15s01.rpy:143
-translate russian d15s01_941aded9:
-
-    # "Day 15"
-    "День 15."
-
 # game/code/d15/d15s01.rpy:162
 translate russian d15s01_6dca3502:
 
@@ -276,12 +264,6 @@ translate russian d15s01_readnote_2151a859:
     # "Failure to obey would be considered ungrateful."
     "Неподчинение будет считаться неблагодарностью."
 
-# game/code/d15/d15s01.rpy:296
-translate russian d15s01_readnote_7e5541ff:
-
-    # "The cage will replace your Fetish Tracker."
-    "Клетка заменит ваш Фетиш Трекер."
-
 # game/code/d15/d15s01.rpy:297
 translate russian d15s01_readnote_80120b22:
 
@@ -456,12 +438,6 @@ translate russian d15s01_cagedecision_11455b53:
     # mc "What?"
     mc "Что?"
 
-# game/code/d15/d15s01.rpy:377
-translate russian d15s01_cagedecision_e2ec9d31:
-
-    # lc "You failed once. You failed a challenge. And now want to give up? You want to just quit the game?"
-    lc "Однажды ты потерпел неудачу. Ты провалил испытание. А теперь хочешь сдаться? Хочешь просто выйти из игры?"
-
 # game/code/d15/d15s01.rpy:379
 translate russian d15s01_cagedecision_3ab92e4b:
 
@@ -485,18 +461,6 @@ translate russian d15s01_cagedecision_dab0deea:
 
     # lc "I know that you can do this. I know that you have a ton of people rooting for you."
     lc "Я знаю, что ты можешь это сделать. Я знаю, что за тебя болеет куча людей."
-
-# game/code/d15/d15s01.rpy:387
-translate russian d15s01_cagedecision_e43f5053:
-
-    # lc "If you are going to lose this game it won't be because you weren't up for the challenge."
-    lc "Если ты проигрываешь эту игру, то не потому, что не был готов принять вызов."
-
-# game/code/d15/d15s01.rpy:388
-translate russian d15s01_cagedecision_19851e41:
-
-    # lc "If you are going to lose this game it won't be because you quit or gave up."
-    lc "Если ты проигрываешь эту игру, то не потому, что бросил или сдался."
 
 # game/code/d15/d15s01.rpy:389
 translate russian d15s01_cagedecision_fd6fc90b:

@@ -335,12 +335,12 @@ translate portuguese strings:
     new "Aumenta a chance de liberar o Final Daisy Pregnant."
 
     # game/code/hints.rpy:5
-    old "Lose option for Polly/Nora/MC Threesome ending."
-    new "Perca a opção do final triplo com Polly/Nora/MC."
+    old "Lose option for Polly/Nora/[mcname] Threesome ending."
+    new "Perca a opção do final triplo com Polly/Nora/[mcname]."
 
     # game/code/hints.rpy:5
-    old "Increases chance of Polly/Nora/MC Threesome ending."
-    new "Aumenta a chance do final triplo com Polly/Nora/MC."
+    old "Increases chance of Polly/Nora/[mcname] Threesome ending."
+    new "Aumenta a chance do final triplo com Polly/Nora/[mcname]."
 
     # game/code/hints.rpy:5
     old "You will start a relationship with Jessie. Necessary for Ending 16."
@@ -919,8 +919,8 @@ translate portuguese strings:
     new "Você dá um boquete na Lyssa. Essa cena opcional."
 
     # game/code/hints.rpy:5
-    old "This option skips the blowjob scene. Scene goes to Lyssa and MC indoors."
-    new "Essa opção pula a cena de boquete. A cena vai para Lyssa e MC lá dentro."
+    old "This option skips the blowjob scene. Scene goes to Lyssa and [mcname] indoors."
+    new "Essa opção pula a cena de boquete. A cena vai para Lyssa e [mcname] lá dentro."
 
     # game/code/hints.rpy:5
     old "You do both."

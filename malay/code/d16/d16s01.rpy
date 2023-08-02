@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d16/d16s01.rpy:9
-translate malay d16s01_bf7ab2c9:
-
-    # "Tuesday.{w} Day-16."
-    "Selasa.{w} Hari ke-16."
-
 # game/code/d16/d16s01.rpy:13
 translate malay d16s01_66e01943:
 
@@ -515,6 +509,7 @@ translate malay d16s01_fa3a59b5:
 
     # sy "Jackass."
     sy "Sial betul."
+
 # TODO: Translation updated at 2022-11-12 13:01
 
 translate malay strings:

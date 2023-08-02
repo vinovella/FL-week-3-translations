@@ -498,12 +498,6 @@ translate portuguese e02s03_lodge_c73da161:
     # mh "Frisky, actually."
     mh "Com tesão, na verdade."
 
-# game/code/e02/e02s03.rpy:200
-translate portuguese e02s03_lodge_e866e793:
-
-    # mh "Would you be a gentleman and take off my shoes?"
-    mh "Você poderia ser um cavalheiro e tirar meus sapatos?"
-
 # game/code/e02/e02s03.rpy:202
 translate portuguese e02s03_lodge_c8fc831f:
 
@@ -527,12 +521,6 @@ translate portuguese e02s03_lodge_13f3c3ef:
 
     # mc "Are you ready?"
     mc "Tá pronta?"
-
-# game/code/e02/e02s03.rpy:210
-translate portuguese e02s03_lodge_fa862fbc:
-
-    # mh "Oh, how romantic. Amd I about to be dominated... like a beast in wild?"
-    mh "Ah, que romântico. E eu vou ser dominada... que nem um animal selvagem?"
 
 # game/code/e02/e02s03.rpy:212
 translate portuguese e02s03_lodge_3d276eaa:
@@ -719,18 +707,6 @@ translate portuguese e02s03_lodge_2bafe8b0:
 
     # mh "Yes! Finish... inside me... I want it all, darling..."
     mh "Isso! Goza... dentro de mim... Eu quero tudo, querido..."
-
-# game/code/e02/e02s03.rpy:264
-translate portuguese e02s03_lodge_bd7e0d71_1:
-
-    # mh "Ahh."
-    mh "Aaih."
-
-# game/code/e02/e02s03.rpy:265
-translate portuguese e02s03_lodge_2bafe8b0_1:
-
-    # mh "Yes! Finish... inside me... I want it all, darling..."
-    mh "Isso. Goza dentro de mim... Eu quero tudo, querido..."
 
 # game/code/e02/e02s03.rpy:266
 translate portuguese e02s03_lodge_a2aaa812:

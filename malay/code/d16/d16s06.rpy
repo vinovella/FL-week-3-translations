@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d16/d16s06.rpy:58
-translate malay d16s06_9510826f:
-
-    # "30 minutes later."
-    "30 minit kemudian."
-
 # game/code/d16/d16s06.rpy:66
 translate malay d16s06_e9ce6c28:
 
@@ -293,24 +287,6 @@ translate malay d16s06_ad1eaa57:
 
     # mc "Huh."
     mc "Huh."
-
-# game/code/d16/d16s06.rpy:169
-translate malay d16s06_24660b07:
-
-    # aw "I've been playing around with toys and other stuff, but I need the real thing."
-    aw "Aku telah bermain-main dengan mainan dan barangan lain, tapi aku perlukan benda sebenar."
-
-# game/code/d16/d16s06.rpy:170
-translate malay d16s06_154b7784:
-
-    # aw "I've been edging the fans forever now, so I thought I'd reward the loyal ones with something special."
-    aw "Aku telah mengenepi peminat selama-lamanya sekarang, jadi aku fikir aku akan memberi ganjaran kepada mereka yang setia dengan sesuatu yang istimewa."
-
-# game/code/d16/d16s06.rpy:172
-translate malay d16s06_8271a4ce:
-
-    # aw "I know that you can always get the...most out of me, so here we are."
-    aw "Aku tahu yang kau sentiasa boleh dapatkan... sebanyak-banyaknya daripada aku, jadi disinilah kita."
 
 # game/code/d16/d16s06.rpy:173
 translate malay d16s06_33b763ee:
@@ -767,12 +743,6 @@ translate malay d16s06_58c6d057:
 
     # mc "I...might've had some pent-up uh...emotions, if you will."
     mc "Aku... mungkin terpendam uh... emosi..."
-
-# game/code/d16/d16s06.rpy:420
-translate malay d16s06_0279c970:
-
-    # aw "*Laughs* Emotions\" huh? Well, I'm sure glad I got to experience it."
-    aw "*Ketawa* \"Emosi\" huh? Aku pasti gembira kerana aku dapat mengalaminya."
 
 # game/code/d16/d16s06.rpy:425
 translate malay d16s06_89a8c10f:

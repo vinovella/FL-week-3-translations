@@ -864,12 +864,6 @@ translate chinese e08s07_next_day_55a83abf:
     # sy "Morning. I hate to say it, but it looks like I'll have to cut the weekend trip a little short."
     sy "早上好。我不想这么说，但看来我得把周末的行程缩短一点了。"
 
-# game/code/e08/e08s07.rpy:692
-translate chinese e08s07_next_day_c90ed49b:
-
-    # mc " What's up?"
-    mc " 怎么了？"
-
 # game/code/e08/e08s07.rpy:694
 translate chinese e08s07_next_day_e6a2b7ef:
 

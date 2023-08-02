@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-01-31 15:43
 
-# game/code/d16/d16s05.rpy:9
-translate russian d16s05_d8b60a41:
-
-    # "After the class."
-    "После занятий."
-
 # game/code/d16/d16s05.rpy:12
 translate russian d16s05_7a5532ea:
 

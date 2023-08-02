@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-06 10:42
 
-# game/code/d17/d17s01.rpy:40
-translate russian d17s01_8459a306:
-
-    # "Wednesday.{w} Day-17."
-    "Среда. {w}День 17."
-
 # game/code/d17/d17s01.rpy:49
 translate russian d17s01_918de26a:
 

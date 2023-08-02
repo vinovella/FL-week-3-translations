@@ -950,3 +950,11 @@ translate malay strings:
     old "Cum on your wife's face"
     new "Cum on your wife's face"
 
+# TODO: Translation updated at 2023-05-27 13:19
+
+translate malay strings:
+
+    # game/code/e08/e08s07.rpy:1086
+    old "You have finished playing Ending #08!"
+    new "You have finished playing Ending #08!"
+

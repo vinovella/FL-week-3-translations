@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-01-31 15:43
 
-# game/code/d16/d16s06.rpy:58
-translate russian d16s06_9510826f:
-
-    # "30 minutes later."
-    "30 минут спустя."
-
 # game/code/d16/d16s06.rpy:66
 translate russian d16s06_e9ce6c28:
 
@@ -293,24 +287,6 @@ translate russian d16s06_ad1eaa57:
 
     # mc "Huh."
     mc "Хм."
-
-# game/code/d16/d16s06.rpy:169
-translate russian d16s06_24660b07:
-
-    # aw "I've been playing around with toys and other stuff, but I need the real thing."
-    aw "Я играла с игрушками и другими вещами, но мне нужен настоящий член."
-
-# game/code/d16/d16s06.rpy:170
-translate russian d16s06_154b7784:
-
-    # aw "I've been edging the fans forever now, so I thought I'd reward the loyal ones with something special."
-    aw "Я уже целую вечность не радовала фанатов, поэтому решила вознаградить самых преданных чем-нибудь особенным."
-
-# game/code/d16/d16s06.rpy:172
-translate russian d16s06_8271a4ce:
-
-    # aw "I know that you can always get the...most out of me, so here we are."
-    aw "Я знаю, что ты всегда можешь получить от меня... максимум, так что вот мы и здесь."
 
 # game/code/d16/d16s06.rpy:173
 translate russian d16s06_33b763ee:
@@ -767,12 +743,6 @@ translate russian d16s06_58c6d057:
 
     # mc "I...might've had some pent-up uh...emotions, if you will."
     mc "У меня... были какие-то сдерживаемые, хм... эмоции, если можно так сказать."
-
-# game/code/d16/d16s06.rpy:420
-translate russian d16s06_0279c970:
-
-    # aw "*Laughs* Emotions\" huh? Well, I'm sure glad I got to experience it."
-    aw "*смеется* Эмоции? Да? Что ж, я очень рада, что мне довелось это испытать."
 
 # game/code/d16/d16s06.rpy:425
 translate russian d16s06_89a8c10f:

@@ -153,3 +153,47 @@ translate malay strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 10: Min"
     new "Pengakhiran 10: Min"
+# TODO: Translation updated at 2023-05-27 13:19
+
+translate malay strings:
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 21: Stacy"
+    new "Day 21: Stacy"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 21: Lyssa"
+    new "Day 21: Lyssa"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Day 21: Min"
+    new "Day 21: Min"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Unlock Waterfall Ending"
+    new "Unlock Waterfall Ending"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Ending 02: Lyssa"
+    new "Ending 02: Lyssa"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Spend time with everyone"
+    new "Spend time with everyone"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Ending 06: Lydia"
+    new "Ending 06: Lydia"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Ending 06: Harem"
+    new "Ending 06: Harem"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Ending 06: Marriage"
+    new "Ending 06: Marriage"
+
+    # game/code/data/extended/cg_gallery.rpy:21
+    old "Ending 08: AmRose & Stacy"
+    new "Ending 08: AmRose & Stacy"
+

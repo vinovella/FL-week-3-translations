@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-04-16 20:02
 
-# game/code/d17/d17s05.rpy:21
-translate malay d17s05_9f358fa6:
-
-    # "One hour later"
-    "Sejam kemudian"
-
 # game/code/d17/d17s05.rpy:26
 translate malay d17s05_de5c1d3a:
 

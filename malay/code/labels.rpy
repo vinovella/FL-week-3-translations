@@ -613,3 +613,19 @@ translate malay metalknock2_40511e6c:
 
     # "*knock knock*"
     "*ketuk ketuk*"
+
+# TODO: Translation updated at 2023-05-27 13:19
+
+translate malay strings:
+
+    # game/code/labels.rpy:71
+    old "The legendary Fetish Locator will return"
+    new "The legendary Fetish Locator will return"
+# TODO: Translation updated at 2023-07-05 01:09
+
+# game/code/labels.rpy:431
+translate malay after_credits_cb03f950:
+
+    # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+

@@ -69,3 +69,11 @@ translate portuguese strings:
     # game/code/screens/extended/screens.rpy:298
     old "ENDINGS"
     new "FINAIS"
+# TODO: Translation updated at 2023-07-05 01:10
+
+translate portuguese strings:
+
+    # game/code/screens/extended/screens.rpy:95
+    old "Wishlist Vinovella University on Steam"
+    new "Wishlist Vinovella University on Steam"
+

@@ -996,18 +996,6 @@ translate chinese d19s06mes_e26b033f:
     # mes "No, no, no. That won't do at all.{w} Open your eyes and look at his magnificent penis."
     mes "不，不，不。那根本不行。{w}睁开你的眼睛，看看他粗壮的大鸡巴。"
 
-# game/code/d19/d19s06mes.rpy:445
-translate chinese d19s06mes_05da3a53:
-
-    # cl "It's so small. How is that magnificent?"
-    cl "这么小。怎么会是粗壮呢？"
-
-# game/code/d19/d19s06mes.rpy:447
-translate chinese d19s06mes_708cf316:
-
-    # mes "You can't expect it to be hard while he's peeing. Now, open wide!"
-    mes "你不能指望他撒尿的时候还能硬起来。现在，张大嘴巴！"
-
 # game/code/d19/d19s06mes.rpy:452
 translate chinese d19s06mes_6c4c9566:
 
@@ -1067,12 +1055,6 @@ translate chinese d19s06mes_d7eaf603:
 
     # mes "Don't forget about me!"
     mes "别忘了我！"
-
-# game/code/d19/d19s06mes.rpy:477
-translate chinese d19s06mes_5686ca35:
-
-    # cl "Of fuck yes."
-    cl "他妈的真不错。"
 
 # game/code/d19/d19s06mes.rpy:481
 translate chinese d19s06mes_246614a6:

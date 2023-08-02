@@ -456,3 +456,11 @@ translate russian strings:
     old "Few days later"
     new "Несколько дней спустя"
 
+# TODO: Translation updated at 2023-05-27 13:27
+
+translate russian strings:
+
+    # game/code/e10/e10s07.rpy:217
+    old "You have finished playing ending 10!"
+    new "You have finished playing ending 10!"
+

@@ -1,17 +1,3 @@
-# TODO: Translation updated at 2023-02-01 00:20
-
-# game/code/endings.rpy:250
-translate malay ending_not_available_984be117:
-
-    # "This ending will be implemented later."
-    "Pengakhiran ini akan dilaksanakan kemudian."
-
-# game/code/endings.rpy:251
-translate malay ending_not_available_8ffd33e4:
-
-    # "You can save the game here and experience this ending once it will be implemented!"
-    "Anda boleh menyimpan permainan di sini dan mengalami pengakhiran ini sebaik sahaja ia akan dilaksanakan!"
-
 translate malay strings:
 
     # game/code/endings.rpy:4
@@ -73,3 +59,55 @@ translate malay strings:
     # game/code/endings.rpy:239
     old "Ending #18\nQuartet"
     new "Pengakhiran #18\nKuartet"
+
+# TODO: Translation updated at 2023-05-27 13:19
+
+# game/code/endings.rpy:279
+translate malay ending_not_available_f3f9fce0:
+
+    # "You have reached the current end of this story path. This ending will be implemented in the future as free DLC."
+    "You have reached the current end of this story path. This ending will be implemented in the future as free DLC."
+
+# game/code/endings.rpy:281
+translate malay ending_not_available_2ad33c15:
+
+    # "You have reached the current end of this story path. This ending will be implemented in the future as DLC."
+    "You have reached the current end of this story path. This ending will be implemented in the future as DLC."
+
+# game/code/endings.rpy:282
+translate malay ending_not_available_eb531d10:
+
+    # "Be sure to follow our Steam Page to stay up to date for all news related to Fetish Locator."
+    "Be sure to follow our Steam Page to stay up to date for all news related to Fetish Locator."
+
+# game/code/endings.rpy:284
+translate malay ending_not_available_7495b934:
+
+    # "You have reached the current end of this story path. This ending will be implemented in the future."
+    "You have reached the current end of this story path. This ending will be implemented in the future."
+
+# game/code/endings.rpy:285
+translate malay ending_not_available_4bc3c22a:
+
+    # "Be sure to follow our Patreon to stay up to date for news."
+    "Be sure to follow our Patreon to stay up to date for news."
+
+# game/code/endings.rpy:286
+translate malay ending_not_available_0b50ab45:
+
+    # "While this ending is not fully implemented, there are six other endings that are complete and available to explore."
+    "While this ending is not fully implemented, there are six other endings that are complete and available to explore."
+
+translate malay strings:
+
+    # game/code/endings.rpy:49
+    old "Ending #4\nMy Sex Dungeon"
+    new "Ending #4\nMy Sex Dungeon"
+
+    # game/code/endings.rpy:124
+    old "Ending #09\nFetish Locator: Rebooted"
+    new "Ending #09\nFetish Locator: Rebooted"
+
+    # game/code/endings.rpy:169
+    old "Ending #12\nRedhead Resort"
+    new "Ending #12\nRedhead Resort"

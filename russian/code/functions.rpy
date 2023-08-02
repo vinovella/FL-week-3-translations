@@ -34,3 +34,11 @@ translate russian strings:
     old "You can only select one out of Daisy and Dahlia"
     new "Вы можете выбрать только одну между Дейзи и Далией."
 
+# TODO: Translation updated at 2023-06-15 00:05
+
+translate russian strings:
+
+    # game/code/functions.rpy:23
+    old "You have unlocked Ending #{}"
+    new "You have unlocked Ending #{}"
+

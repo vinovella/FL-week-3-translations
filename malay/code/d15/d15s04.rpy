@@ -1,11 +1,5 @@
 # TODO: Translation updated at 2022-03-02 02:41
 
-# game/code/d15/d15s04.rpy:19
-translate malay d15s04_16275f53:
-
-    # "20 minutes later"
-     "20 minit kemudian"
-
 # game/code/d15/d15s04.rpy:24
 translate malay d15s04_a13bdd91:
 

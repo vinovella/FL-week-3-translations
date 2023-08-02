@@ -760,3 +760,11 @@ translate russian strings:
     old "What is your darkest fantasy about Lydia?"
     new "Какова твоя самая тайная фантазия о Лидии?"
 
+# TODO: Translation updated at 2023-05-27 13:27
+
+translate russian strings:
+
+    # game/code/d18/d18s10.rpy:246
+    old "Just Sex, a lot of Sex"
+    new "Just Sex, a lot of Sex"
+

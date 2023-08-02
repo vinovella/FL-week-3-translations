@@ -360,12 +360,6 @@ translate russian d20s07_e9d9c686:
     # nk "Ugh, men really think with their dicks, don't they?"
     nk "Фу, мужчины действительно думают своими членами, да?"
 
-# game/code/d20/d20s07.rpy:191
-translate russian d20s07_5d3c0b59:
-
-    # mc "Not all of them. Politics isn't for getting laid."
-    mc "Не все. Политика - не для того, чтобы трахаться."
-
 # game/code/d20/d20s07.rpy:193
 translate russian d20s07_2e1cdb6d:
 
@@ -1193,12 +1187,6 @@ translate russian d20s07_last_show_a70226f8:
 
     # mc "And if it bothers you, we'll tell people to stop recording."
     mc "И если это тебя беспокоит, то мы потребуем убрать телефоны."
-
-# game/code/d20/d20s07.rpy:531
-translate russian d20s07_last_show_e6b7dee9:
-
-    # nk "You think thy will do that?"
-    nk "Ты думаешь, что они послушаются?"
 
 # game/code/d20/d20s07.rpy:533
 translate russian d20s07_last_show_9735aea1:

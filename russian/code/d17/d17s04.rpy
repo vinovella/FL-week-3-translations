@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-06 10:42
 
-# game/code/d17/d17s04.rpy:43
-translate russian d17s04_538722ec:
-
-    # "After a short journey by bus"
-    "После непродолжительной поездки на автобусе."
-
 # game/code/d17/d17s04.rpy:45
 translate russian d17s04_e9a933c1:
 

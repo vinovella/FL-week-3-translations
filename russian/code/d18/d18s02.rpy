@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-06-05 14:57
 
-# game/code/d18/d18s02.rpy:22
-translate russian d18s02_646b0b1a:
-
-    # "1 hour later.{w} At Stacy's house."
-    "1 час спустя. {w}В доме Стейси."
-
 # game/code/d18/d18s02.rpy:26
 translate russian d18s02_f772c18d:
 

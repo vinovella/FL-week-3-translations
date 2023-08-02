@@ -1,11 +1,5 @@
 ﻿# TODO: Translation updated at 2022-01-31 15:43
 
-# game/code/d16/d16s10.rpy:24
-translate russian d16s10_0ce60b86:
-
-    # "Later that evening."
-    "Позже вечером."
-
 # game/code/d16/d16s10.rpy:28
 translate russian d16s10_d9159219:
 
@@ -558,12 +552,6 @@ translate russian d16s10_416eb632:
     # mc "It might have been real or complete fiction. It didn't matter. She could barely hear me."
     mc "Это могло быть правдой или полной выдумкой. Это не имело значения. Она почти не слышала меня."
 
-# game/code/d16/d16s10.rpy:192
-translate russian d16s10_3f377b3a:
-
-    # mc "There we were. Lydia and myself in a fancy restaurant."
-    mc "Так мы и сидели. Лидия и я в шикарном ресторане."
-
 # game/code/d16/d16s10.rpy:194
 translate russian d16s10_e1f5b459:
 
@@ -954,12 +942,6 @@ translate russian d16s10_d5ae2301:
     # mc "Fair enough."
     mc "Понимаю."
 
-# game/code/d16/d16s10.rpy:321
-translate russian d16s10_124ee5af:
-
-    # arj "Got you happy, sexy, funtime thought?"
-    arj "Есть ли у тебя счастливые, сексуальные, веселые мысли?"
-
 # game/code/d16/d16s10.rpy:322
 translate russian d16s10_c951392b:
 
@@ -1050,12 +1032,6 @@ translate russian d16s10_a9b5ccc7:
     # arj "I bet we could figure out what the correct RPM is."
     arj "Уверена, что мы могли бы выяснить, какая скорость будет правильная."
 
-# game/code/d16/d16s10.rpy:357
-translate russian d16s10_f2354e31:
-
-    # arj "Maybe something like the G forces experienced by pilots."
-    arj "Возможно, вычислить перегрузки, которые испытывают пилоты."
-
 # game/code/d16/d16s10.rpy:358
 translate russian d16s10_d73bab19:
 
@@ -1139,12 +1115,6 @@ translate russian d16s10_2c30a7d3:
 
     # arj "Exactly. It knows a lot about everyone with the app installed, but it..."
     arj "Именно. Они знают многое о любом, у кого установлено приложение, но они..."
-
-# game/code/d16/d16s10.rpy:390
-translate russian d16s10_41a83245:
-
-    # arj "It seems to know more about those of us in reten-"
-    arj "Кажется, что они знает больше о тех из нас, кто состоит в удер..."
 
 # game/code/d16/d16s10.rpy:391
 translate russian d16s10_150396ad:
@@ -1356,12 +1326,6 @@ translate russian d16s10_9eb8e828:
     # mc "Good night. I'll join you soon."
     mc "Спокойной ночи. Я скоро присоединюсь к тебе."
 
-# game/code/d16/d16s10.rpy:447
-translate russian d16s10_141e433e:
-
-    # "Please save your game now."
-    "Это конец текущей версии игры. Пожалуйста, сохраните игру здесь."
-
 translate russian strings:
 
     # game/code/d16/d16s10.rpy:136
@@ -1373,12 +1337,6 @@ translate russian strings:
     new "Рассказать ей, как ты кончил, пока она была под столом"
 
 # TODO: Translation updated at 2022-08-06 21:12
-
-# game/code/d16/d16s10.rpy:662
-translate russian d16s10_ddf85c07:
-
-    # arj "It seems to know more about those of us in VIP-"
-    arj "Кажется, он знает больше о тех из нас, кто находится в VIP..."
 
 # game/code/d16/d16s10.rpy:670
 translate russian d16s10_b08a13b4:

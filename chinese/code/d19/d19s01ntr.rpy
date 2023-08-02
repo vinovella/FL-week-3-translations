@@ -600,12 +600,6 @@ translate chinese d19s01ntr_decision_ab6bd80e:
     # mc "I see"
     mc "我明白了"
 
-# game/code/d19/d19s01ntr.rpy:286
-translate chinese d19s01ntr_decision_81585c9e:
-
-    # lc "You see, ___?"
-    lc "你明白了，___?"
-
 # game/code/d19/d19s01ntr.rpy:288
 translate chinese d19s01ntr_decision_52e65e99:
 
