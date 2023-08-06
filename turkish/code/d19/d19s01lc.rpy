@@ -298,7 +298,7 @@ translate turkish d19s01lc_e3d87039:
 translate turkish d19s01lc_dce2dd8b:
 
     # lc "It never even occurred to me that anyone could get harmed by this. Jerome told me it was all secure and encrypted and 100%% safe."
-    lc "Bundan birinin zarar görebileceği hiç aklıma gelmemişti. Jerome bana bunun tamamen güvenli, şifreli ve %100 güvenli olduğunu söyledi."
+    lc "Bundan birinin zarar görebileceği hiç aklıma gelmemişti. Jerome bana bunun tamamen güvenli, şifreli ve %%100 güvenli olduğunu söyledi."
 
 # game/code/d19/d19s01lc.rpy:148
 translate turkish d19s01lc_57c72c9c:
@@ -773,4 +773,3 @@ translate turkish strings:
     # game/code/d19/d19s01lc.rpy:292
     old "Tell Her It Was Fun"
     new "Ona Eğlenceli Olduğunu Söyle"
-

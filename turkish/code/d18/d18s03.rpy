@@ -598,7 +598,7 @@ translate turkish d18s03_58fad8c7:
 translate turkish d18s03_70489cc2:
 
     # mes "The National Literacy Mission (NLM) seeks to achieve full literacy i.e. a sustainable threshold level of 75%% literacy by what year?"
-    mes "Ulusal Okuryazarlık Misyonu (NLM) tam okuryazarlığa, yani hangi yıla kadar %75 okuryazarlık gibi sürdürülebilir bir eşik düzeyine ulaşmayı hedefliyor?"
+    mes "Ulusal Okuryazarlık Misyonu (NLM) tam okuryazarlığa, yani hangi yıla kadar %%75 okuryazarlık gibi sürdürülebilir bir eşik düzeyine ulaşmayı hedefliyor?"
 
 # game/code/d18/d18s03.rpy:416
 translate turkish d18s03_a2b89d72:
@@ -1751,4 +1751,3 @@ translate turkish strings:
     # game/code/d18/d18s03.rpy:1050
     old "No. Definitely NOT"
     new "Hayır. kesinlikle olmaz"
-
