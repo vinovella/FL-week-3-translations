@@ -142,7 +142,7 @@ translate russian d19s09_354de6de:
 translate russian d19s09_9d7c5246:
 
     # mc "*Chuckles* I don't mind.{w} But anyone outside that window might."
-    mc "*смеется* Я не против. {w}Но любой, кто заглянет в окно, может насладится."
+    mc "*смеется* Я не против. {w}Но любой, кто заглянет в окно, может насладиться таким видом."
 
 # game/code/d19/d19s09.rpy:189
 translate russian d19s09_5461071a:
@@ -718,7 +718,7 @@ translate russian d19s09_end_e31bb4c4:
 translate russian d19s09_end_a4b021ff:
 
     # sy "It is. We need to get AmRose to cook for us more."
-    sy "Так и есть. Нам нужно заставить АмРоуз готовить для нас еще."
+    sy "Так и есть. Нам нужно заставить АмРоуз готовить для нас чаще."
 
 # game/code/d19/d19s09.rpy:673
 translate russian d19s09_end_d6537549:

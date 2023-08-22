@@ -52,7 +52,7 @@ translate russian d15s02_613fe0a5:
 translate russian d15s02_57872f86:
 
     # mc "I should've probably given more context."
-    mc "Наверное, мне следует давать больше контекста."
+    mc "Наверное, мне следует дать больше контекста."
 
 # game/code/d15/d15s02.rpy:32
 translate russian d15s02_6bee8762:
@@ -400,7 +400,7 @@ translate russian d15s02_332925d5:
 translate russian d15s02_716019b8:
 
     # mc "Right."
-    mc "Верно."
+    mc "Ладно."
 
 # game/code/d15/d15s02.rpy:145
 translate russian d15s02_66a102f9:
@@ -436,7 +436,7 @@ translate russian d15s02_330e3387:
 translate russian d15s02_3549c985:
 
     # mct "Another one? What did I get this one for?"
-    mct "Еще одну? За что мне она досталось?"
+    mct "Еще одну? За что мне она досталась?"
 
 # game/code/d15/d15s02.rpy:160
 translate russian d15s02_a041029e:

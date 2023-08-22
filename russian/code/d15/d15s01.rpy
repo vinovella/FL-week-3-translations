@@ -874,7 +874,7 @@ translate russian d15s01_arj_bj_5cfbf454:
 translate russian d15s01_arj_bj_48643e5c:
 
     # mct "And I love them both."
-    mct "И я люблю их обоих."
+    mct "И я люблю их обеих."
 
 # game/code/d15/d15s01.rpy:604
 translate russian d15s01_arj_bj_adb345ba:
@@ -1000,7 +1000,7 @@ translate russian d15s01_arj_bj_590a197c:
 translate russian d15s01_arj_bj_8f4d8bd5:
 
     # lc "You let him cum in your other holes too?"
-    lc "Ты позволила ему кончить и в другие твои дырочки тоже?"
+    lc "Ты позволяла ему кончить и в другие твои дырочки тоже?"
 
 # game/code/d15/d15s01.rpy:654
 translate russian d15s01_arj_bj_ea14e1ee:
@@ -1450,7 +1450,7 @@ translate russian d15s01_face_fucking_a4966a3e:
 translate russian d15s01_face_fucking_03820e94:
 
     # lc "Start like this. {w}I want you to fuck her face."
-    lc "Начнём вот так. {w}Я хочу, чтобы ты трахнул ее в лицо."
+    lc "Начнём вот так. {w}Я хочу, чтобы ты трахнул ее рот."
 
 # game/code/d15/d15s01.rpy:884
 translate russian d15s01_face_fucking_b0fa508f:
@@ -1708,7 +1708,7 @@ translate russian d15s01_face_fucking_2aa37dcf:
 translate russian d15s01_face_fucking_e14446bc:
 
     # lc "Pull your cock out and cum in her face again!!"
-    lc "Вытащи свой член и снова кончи ей в лицо!!"
+    lc "Вытащи свой член и снова кончи ей на лицо!!"
 
 # game/code/d15/d15s01.rpy:969
 translate russian d15s01_face_fucking_822521bd:

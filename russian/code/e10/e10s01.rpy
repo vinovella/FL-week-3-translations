@@ -334,13 +334,13 @@ translate russian e10s01_be3c2319:
 translate russian e10s01_7c156129:
 
     # mc "It's unbelievable, you ate the same amount as I did and you're not even fazed."
-    mc "Невероятно, ты съела столько же, сколько и я, и даже не глазом не моргнула."
+    mc "Невероятно, ты съела столько же, сколько и я, и даже глазом не моргнула."
 
 # game/code/e10/e10s01.rpy:228
 translate russian e10s01_e41bfd67:
 
     # mes "Appa, gwenchanayo. Ne. Eomma nin yo?"
-    mes "Appa, gwenchanayo. Ne. Eomma nin yo?"
+    mes "Appa, gwenchanayo. Ne. Eomma nin yo?\n\n\n{size=-10}{i}(на корейском: Отец... Я в порядке... Да... А как мама?..){/i}{/size}"
 
 # game/code/e10/e10s01.rpy:231
 translate russian e10s01_eb3ddd60:
@@ -1012,7 +1012,7 @@ translate russian e10d01_sex_7afa6ddc:
 translate russian e10d01_sex_6d74da18:
 
     # mes "Well, can you?"
-    mes "А вы хочешь?"
+    mes "А ты хочешь?"
 
 # game/code/e10/e10s01.rpy:641
 translate russian e10d01_sex_f452b864:
@@ -1178,5 +1178,5 @@ translate russian strings:
 
     # game/code/e10/e10s01.rpy:69
     old "Ending #10\nRunaway"
-    new "Ending #10\nRunaway"
+    new "Концовка #10\nБеглец"
 

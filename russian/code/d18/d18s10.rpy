@@ -766,5 +766,5 @@ translate russian strings:
 
     # game/code/d18/d18s10.rpy:246
     old "Just Sex, a lot of Sex"
-    new "Just Sex, a lot of Sex"
+    new "Только секс, много секса"
 

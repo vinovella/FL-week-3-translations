@@ -226,7 +226,7 @@ translate russian d15s06_e75c2ccb:
 translate russian d15s06_952b811f:
 
     # "Both" "*Laughing*"
-    "Both" "*смеются*"
+    "Вместе" "*смеются*"
 
 # game/code/d15/d15s06.rpy:141
 translate russian d15s06_5cc6b562:
@@ -502,7 +502,7 @@ translate russian d15s06_house_63bab0ca:
 translate russian d15s06_house_1edcdb7d:
 
     # mc "Do you want me to make you cum?"
-    mc "Ты хочешь, чтобы я помог тебя кончить?"
+    mc "Ты хочешь, чтобы я помог тебе кончить?"
 
 # game/code/d15/d15s06.rpy:290
 translate russian d15s06_house_25951fb6:
@@ -880,7 +880,7 @@ translate russian d15s06_pillowtalk_76c98c3f:
 translate russian d15s06_pillowtalk_0f50e2e4:
 
     # "Both" "*Laughs*"
-    "Both" "*смеются*"
+    "Вместе" "*смеются*"
 
 # game/code/d15/d15s06.rpy:539
 translate russian d15s06_pillowtalk_4f4cb852:
@@ -946,7 +946,7 @@ translate russian d15s06_pillowtalk_c2ee9bda:
 translate russian d15s06_pillowtalk_290938c8:
 
     # "Both" "Laughs"
-    "Both" "*смеются*"
+    "Вместе" "*смеются*"
 
 # game/code/d15/d15s06.rpy:561
 translate russian d15s06_pillowtalk_1edd8be4:

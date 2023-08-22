@@ -664,7 +664,7 @@ translate russian d15s03_dw_setup_0b8535ba:
 translate russian d15s03_dw_setup_d34beca7:
 
     # mct "I should get Dahlia and Samiya together and show them both who is boss."
-    mct "Я должен свести Далию и Самию вместе и показать обоим, кто здесь главный."
+    mct "Я должен свести Далию и Самию вместе и показать обеим, кто здесь главный."
 
 # game/code/d15/d15s03.rpy:253
 translate russian d15s03_dw_setup_342e4279:

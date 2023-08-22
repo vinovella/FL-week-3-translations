@@ -70,7 +70,7 @@ translate russian d19s04dw_7fd3a623_1:
 translate russian d19s04dw_8e92386c:
 
     # dd "That looks neat. Can I join in?"
-    dd "Это выглядит интересным. Могу я присоединиться?"
+    dd "Это выглядит интересно. Могу я присоединиться?"
 
 # game/code/d19/d19s04dw.rpy:100
 translate russian d19s04dw_7171f033:

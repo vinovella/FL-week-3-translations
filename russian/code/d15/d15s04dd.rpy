@@ -400,7 +400,7 @@ translate russian d15s04dd_e4544547:
 translate russian d15s04dd_973a3103:
 
     # "???" "If you can wait, that's great, but we can get you another appointment at another date as well if you would prefer that."
-    "???" "Если вы можете подождать, то замечательно, или мы можем перенести вам прием на другое время, если захотите."
+    "???" "Если вы можете подождать, то замечательно, или мы можем перенести ваш прием на другое время, если захотите."
 
 # game/code/d15/d15s04dd.rpy:162
 translate russian d15s04dd_890bb8d1:
@@ -944,7 +944,7 @@ translate russian d15s04dd_ff7b6382:
 translate russian d15s04dd_9117778a:
 
     # dd "It might be weird, but I've always had it on my bucket list."
-    dd "Это может показаться странным, но у меня это всегда было в моем списке желаний."
+    dd "Это может показаться странным, но это всегда было в моем списке желаний."
 
 # game/code/d15/d15s04dd.rpy:559
 translate russian d15s04dd_8014433d:

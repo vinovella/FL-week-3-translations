@@ -274,7 +274,7 @@ translate russian replay_d17s02_01a92e8d:
 translate russian replay_d17s02_8d69b040:
 
     # mc "I've noticed that you can be very intimidating and forceful with what you want at times."
-    mc "Я заметил, что иногда ты можешь быть очень настойчивой и пугающей, когда хочешь чего-то добится."
+    mc "Я заметил, что иногда ты можешь быть очень настойчивой и пугающей, когда хочешь чего-то добиться."
 
 # game/code/d17/d17s02.rpy:142
 translate russian replay_d17s02_f2700582:
@@ -796,7 +796,7 @@ translate russian d17s02_vw_fucking_a5f6f3fd:
 translate russian d17s02_vw_fucking_c60cad46:
 
     # mc "You better."
-    mc "Ты повезло."
+    mc "Тебе же лучше."
 
 translate russian strings:
 

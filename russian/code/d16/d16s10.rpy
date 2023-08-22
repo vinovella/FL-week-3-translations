@@ -496,7 +496,7 @@ translate russian d16s10_7e96417e:
 translate russian d16s10_ea498d78:
 
     # mc "You tell me something, but I'm too focused on what I'm doing to listen."
-    mc "Ты говоришь мне что-то, но я слишком сосредоточен, чтобы слушать."
+    mc "Ты что-то мне говоришь, но я слишком сосредоточен на том, что делаю, чтобы слушать."
 
 # game/code/d16/d16s10.rpy:175
 translate russian d16s10_e780debd:
@@ -1380,11 +1380,11 @@ translate russian d16s10_85e7d53d:
 translate russian d16s10_c8e73589:
 
     # arj "It seems to know more about those of us in the VIP-"
-    arj "Кажется, что они знает больше о тех из нас, кто состоит в ВИП..."
+    arj "Кажется, что они знают больше о тех из нас, кто состоит в ВИП..."
 
 # game/code/d16/d16s10.rpy:665
 translate russian d16s10_ce9c98af:
 
     # arj "It seems to know more about those of us in the reten-"
-    arj "Кажется, что они знает больше о тех из нас, кто состоит в удер..."
+    arj "Кажется, что они знают больше о тех из нас, кто состоит в удер..."
 

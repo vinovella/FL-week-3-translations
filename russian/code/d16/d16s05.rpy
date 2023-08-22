@@ -220,7 +220,7 @@ translate russian d16s05_3ef4a176:
 translate russian d16s05_54051cea:
 
     # sy "Hey, I'm not saying no to that government money."
-    sy "Эй, я не собираюсь отказываюсь из-за этого от государственных денег."
+    sy "Эй, я вовсе не против государственных денег."
 
 # game/code/d16/d16s05.rpy:87
 translate russian d16s05_347ea5e9:
@@ -232,7 +232,7 @@ translate russian d16s05_347ea5e9:
 translate russian d16s05_1558ad73:
 
     # sy "Nope. But I'm sure I can sweet talk myself into a couple hundred grand."
-    sy "Нет. Но я уверена, что смогу согласится на пару сотен тысяч."
+    sy "Нет. Но я уверена, что смогу согласиться на пару сотен тысяч."
 
 # game/code/d16/d16s05.rpy:90
 translate russian d16s05_5e44a000:
@@ -892,7 +892,7 @@ translate russian d16s05_80238046:
 translate russian d16s05_407cebc9:
 
     # sy "Had to bend myself in 17 different angles to piss in the cup without pissing on myself in public."
-    sy "Пришлось наклониться под 17 разными углами, чтобы помочиться в чашку, не обмочившись при этом сама."
+    sy "Пришлось наклониться под 17 разными углами, чтобы помочиться в чашку, не обмочившись при этом самой."
 
 # game/code/d16/d16s05.rpy:349
 translate russian d16s05_069d84bc:

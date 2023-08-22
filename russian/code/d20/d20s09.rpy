@@ -400,7 +400,7 @@ translate russian d20s09_0eef875b:
 translate russian d20s09_e847f435:
 
     # hr "It's just that something like that isn't what I want right now. I have other things to focus on."
-    hr "Просто это не то, чего мне сейчас нужно. У меня есть другие вещи, на которых необходимо сосредоточиться."
+    hr "Просто это не то, что мне сейчас нужно. У меня есть другие вещи, на которых необходимо сосредоточиться."
 
 # game/code/d20/d20s09.rpy:161
 translate russian d20s09_2b528ca8:

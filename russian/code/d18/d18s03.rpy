@@ -838,7 +838,7 @@ translate russian d18s03_watersports_6fb478c3:
 translate russian d18s03_watersports_327c5f38:
 
     # mc "Uh oh. It looks like your gape is going to close soon."
-    mc "Ох. Похоже, твой дырочка скоро закроется."
+    mc "Ох. Похоже, твоя дырочка скоро закроется."
 
 # game/code/d18/d18s03.rpy:420
 translate russian d18s03_watersports_dd224ac5:
@@ -1198,7 +1198,7 @@ translate russian d18s03_sex_e5870751:
 translate russian d18s03_sex_096bcc92:
 
     # mc "Too much?"
-    mc "Мне остановится?"
+    mc "Мне остановиться?"
 
 # game/code/d18/d18s03.rpy:588
 translate russian d18s03_sex_51212247:

@@ -424,7 +424,7 @@ translate russian e10s02_a0b6e32f_1:
 translate russian e10s02_847e583c:
 
     # mc "What the hell, Min?! You're the strongest person that I know. You'd cut a birthday cake with a battle axe."
-    mc "Какого черта, Мин?! Ты самая сильная из всех, которого я знаю. Ты бы нарезала праздничный торт боевым топором, будь твоя воля."
+    mc "Какого черта, Мин?! Ты самая сильная из всех, кого я знаю. Ты бы нарезала праздничный торт боевым топором, будь твоя воля."
 
 # game/code/e10/e10s02.rpy:248
 translate russian e10s02_2febb978:
@@ -436,7 +436,7 @@ translate russian e10s02_2febb978:
 translate russian e10s02_b9bbf975:
 
     # mc "Ask her about High Frequency Trading! Ask her about Sentimental Analysis of Social Media! Ask her about what she wants to do with her life!"
-    mc "Спросите ее о высокочастотной торговле! Спросите ее о анализе социальных сетей! Спросите ее о том, что она хочет делать со своей жизнью!"
+    mc "Спросите ее о высокочастотной торговле! Спросите ее об анализе социальных сетей! Спросите ее о том, что она хочет делать со своей жизнью!"
 
 # game/code/e10/e10s02.rpy:253
 translate russian e10s02_b9ba7622:
@@ -484,7 +484,7 @@ translate russian e10s02_2b35b6fe:
 translate russian e10s02_a79134e4:
 
     # md "It seems that the meal is finished. Our guest would not want to overstay his welcome."
-    md "Кажется, что трапеза закончена. Наш гость не хотел бы злоупотреблять своим гостеприимством."
+    md "Кажется, что трапеза закончена. Наш гость не хотел бы злоупотреблять гостеприимством."
 
 # game/code/e10/e10s02.rpy:273
 translate russian e10s02_2b35b6fe_1:

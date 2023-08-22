@@ -22,7 +22,7 @@ translate russian e13s03_7f2e7742:
 translate russian e13s03_336a25ad:
 
     # "Jim" "It's 12:49."
-    "Jim" "Сейчас 12:49."
+    "Джим" "Сейчас 12:49."
 
 # game/code/e13/e13s03.rpy:40
 translate russian e13s03_d6d7ffb9:
@@ -52,7 +52,7 @@ translate russian e13s03_082f7386:
 translate russian e13s03_e99cc41f:
 
     # "Jim" "Aye, aye, Captain. Good luck, Nora!"
-    "Jim" "Есть капитан. Удачи, Нора!"
+    "Джим" "Есть капитан. Удачи, Нора!"
 
 # game/code/e13/e13s03.rpy:58
 translate russian e13s03_71e1c3e4:

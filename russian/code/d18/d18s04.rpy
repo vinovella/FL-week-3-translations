@@ -904,7 +904,7 @@ translate russian d18s04_d1672d6b:
 translate russian d18s04_2cd2ee79:
 
     # vw "Some weeks back... I was optimistic that we might be able to patch things up."
-    vw "Несколько недель назад... Я была настроен оптимистично, полагая, что мы сможем все уладить."
+    vw "Несколько недель назад... Я была настроена оптимистично, полагая, что мы сможем все уладить."
 
 # game/code/d18/d18s04.rpy:605
 translate russian d18s04_21eec4a7:
