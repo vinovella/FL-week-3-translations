@@ -10,13 +10,13 @@ translate deutsch d15s05b_ext_247f8221:
 translate deutsch d15s05b_ext_1334b3b7:
 
     # pw "I'll tell you when we get there."
-    pw "Sag ich dir wenn wir da sind."
+    pw "Sag ich euch wenn wir da sind."
 
 # game/code/d15/extended/d15s05b_ext.rpy:71
 translate deutsch d15s05b_ext_87077b24:
 
     # nk "I wouldn't mind knowing what the plan is."
-    nk "Mich würde interessieren was der Plan ist."
+    nk "Mich würde auch interessieren was der Plan ist."
 
 # game/code/d15/extended/d15s05b_ext.rpy:74
 translate deutsch d15s05b_ext_407ab046:
@@ -70,7 +70,7 @@ translate deutsch d15s05b_ext_d1b977fd:
 translate deutsch d15s05b_ext_b33fad62:
 
     # mc "It was a public, private place to pee."
-    mc "Es war ein öffentlicher, privat Platz zum pinkeln."
+    mc "Es war ein öffentlicher, privat Platz zum pinkeln. (Public, private, place to pee)"
 
 # game/code/d15/extended/d15s05b_ext.rpy:98
 translate deutsch d15s05b_ext_c91ce0b9:
@@ -82,7 +82,7 @@ translate deutsch d15s05b_ext_c91ce0b9:
 translate deutsch d15s05b_ext_554abe29:
 
     # nk "Wouldn't that be Quadruple-P?"
-    nk "Wäre das nicht ein Vierer?"
+    nk "Wäre das nicht ein vierfach P?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:104
 translate deutsch d15s05b_ext_89e279b7:
@@ -262,7 +262,7 @@ translate deutsch d15s05b_ext_6f31513f:
 translate deutsch d15s05b_ext_a1137cf3:
 
     # nk "Who am I kidding?{w} I'd fucking love that."
-    nk "Wenn verarsche ich?{w} Ich würde das lieben."
+    nk "Wen verarsche ich?{w} Ich würde das lieben."
 
 # game/code/d15/extended/d15s05b_ext.rpy:180
 translate deutsch d15s05b_ext_0fd0b318:
@@ -310,7 +310,7 @@ translate deutsch d15s05b_ext_9112a628:
 translate deutsch d15s05b_ext_518e4b70:
 
     # nk "Okay, I'll take your word for it."
-    nk "Okay, ich nehme dein Word dafür."
+    nk "Okay, ich nehme dein Wort dafür."
 
 # game/code/d15/extended/d15s05b_ext.rpy:199
 translate deutsch d15s05b_ext_b8d3d33c:
@@ -406,7 +406,7 @@ translate deutsch d15s05b_ext_fdffff29:
 translate deutsch d15s05b_ext_74cc5fd7:
 
     # mc "There might be one little problem with your plans."
-    mc "Da ist vielleicht ein kleine Problem mit eurem Plan."
+    mc "Da ist vielleicht ein kleines Problem mit eurem Plan."
 
 # game/code/d15/extended/d15s05b_ext.rpy:236
 translate deutsch d15s05b_ext_3eb64582:
@@ -796,7 +796,7 @@ translate deutsch d15s05b_fisto_969ffc4f:
 translate deutsch d15s05b_fisto_38924ed8:
 
     # mc "Ex-girlfriend of mine."
-    mc "Ex-Freundin von mir."
+    mc "Eine Ex-Freundin von mir."
 
 # game/code/d15/extended/d15s05b_ext.rpy:435
 translate deutsch d15s05b_fisto_fae6f280:
