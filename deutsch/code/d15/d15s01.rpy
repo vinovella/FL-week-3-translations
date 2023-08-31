@@ -82,7 +82,7 @@ translate deutsch d15s01_e3ab8b2c:
 translate deutsch d15s01_87b33273:
 
     # arj "She woke me up before dawn, saying she wanted to get back to her apartment."
-    arj "Sie hatt mich vor heute Morgen geweckt, sie sagte sie will zurück in ihre Wohnung."
+    arj "Sie hatt mich heute früh Morgens geweckt, sie sagte sie will zurück in ihre Wohnung."
 
 # game/code/d15/d15s01.rpy:225
 translate deutsch d15s01_f0327cb9:
@@ -94,7 +94,7 @@ translate deutsch d15s01_f0327cb9:
 translate deutsch d15s01_3688fcec:
 
     # arj "She said she couldn't sleep well in a strange bed. Other than that she seemed cheerful."
-    arj "Sie sagte sie kann nicht gut in dem komischen Bett schlafen. Aber sonst wirkte sie recht heiter."
+    arj "Sie sagte sie kann nicht gut in einem fremden Bett schlafen. Aber sonst wirkte sie recht heiter."
 
 # game/code/d15/d15s01.rpy:230
 translate deutsch d15s01_0f457a8b:
@@ -141,8 +141,8 @@ translate deutsch d15s01_06a35ef6:
 # game/code/d15/d15s01.rpy:260
 translate deutsch d15s01_3efcbc46:
 
-    # arj " I thought you would like both of your ladies making you breakfast naked!"
-    arj " Ich dachte du würdest es mögen wenn deine beiden Frauen Frühstück Nackt machen!"
+    # arj "I thought you would like both of your ladies making you breakfast naked!"
+    arj "Ich dachte du würdest es mögen wenn deine beiden Frauen Frühstück Nackt machen!"
 
 # game/code/d15/d15s01.rpy:262
 translate deutsch d15s01_07831e80:
@@ -274,7 +274,7 @@ translate deutsch d15s01_readnote_ba7b3e0f:
 translate deutsch d15s01_readnote_80120b22:
 
     # "Perform enough perverse acts to prove yourself worthy of being free."
-    "Führe genug perverse aktionen aus um zu zeigen das du würdig bist frei zu sein."
+    "Führe genug perverse Aktionen aus um zu zeigen das du würdig bist frei zu sein."
 
 # game/code/d15/d15s01.rpy:361
 translate deutsch d15s01_thoughts_LC_04686833:
@@ -286,7 +286,7 @@ translate deutsch d15s01_thoughts_LC_04686833:
 translate deutsch d15s01_thoughts_LC_ca0a9de5:
 
     # mct "It reminds me of that \"Love Conquers All\" cut of \"Brazil\", where they chopped off the final minutes of the movie."
-    mct "Das erinnert mich an das \"Libe besiegt alles\" ende \"Brasilien\", wo sie die letzten Minuten des Filmes abgeschnitten haben."
+    mct "Das erinnert mich an das \"Liebe besiegt alles\" ende von \"Brasilien\", wo sie die letzten Minuten des Filmes abgeschnitten haben."
 
 # game/code/d15/d15s01.rpy:364
 translate deutsch d15s01_thoughts_LC_ce95388b:
@@ -298,7 +298,7 @@ translate deutsch d15s01_thoughts_LC_ce95388b:
 translate deutsch d15s01_thoughts_LC_d78280ea:
 
     # mct "It seems like Studio Executives do that all the time - changing a film to make it appeal to a wider audience."
-    mct "Es scheint so das Produzenten so etwas andauernt machen - einen Film ändern damit er die breite Masse anspricht."
+    mct "Es scheint so das Produzenten so etwas andauernd machen - einen Film ändern damit er die breite Masse anspricht."
 
 # game/code/d15/d15s01.rpy:369
 translate deutsch d15s01_thoughts_LC_2fbeeb00:
@@ -2220,7 +2220,7 @@ translate deutsch strings:
 
     # game/code/d15/d15s01.rpy:316
     old "[mcname]'s Thoughts on Penis Cage #2"
-    new "[mcname]'s Gednaken über Penis Käfig #2"
+    new "[mcname]'s Gedanken über Penis Käfig #2"
 
     # game/code/d15/d15s01.rpy:316
     old "Decide Which Cage to Wear"
