@@ -28,7 +28,7 @@ translate deutsch d15s07_571dbfd7:
 translate deutsch d15s07_e108488d:
 
     # lc "...so don't hurt me..."
-    lc "...als tu mir nicht weh..."
+    lc "...also tu mir nicht weh..."
 
 # game/code/d15/d15s07.rpy:64
 translate deutsch d15s07_b307f468:
@@ -148,7 +148,7 @@ translate deutsch d15s07_f8d554f1:
 translate deutsch d15s07_ef353ec7:
 
     # mc "So, I'm here for moral support? To help Lydia get through this?"
-    mc "So, I'm here for moral support? To help Lydia get through this?"
+    mc "Also, bin ich hier für moralischen Support? Um Lydia zu helfen das durchzustehen?"
 
 # game/code/d15/d15s07.rpy:122
 translate deutsch d15s07_d2e9ac07:
