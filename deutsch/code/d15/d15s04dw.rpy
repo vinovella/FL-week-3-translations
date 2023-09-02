@@ -478,7 +478,7 @@ translate deutsch d15s04dw_0c2ccf1f:
 translate deutsch d15s04dw_fdfa3e4d:
 
     # dw "Well done."
-    dw "Well done."
+    dw "Sehr gut gemacht."
 
 # game/code/d15/d15s04dw.rpy:304
 translate deutsch d15s04dw_0e783d93:
