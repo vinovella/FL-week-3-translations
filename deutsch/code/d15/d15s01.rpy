@@ -190,7 +190,7 @@ translate deutsch d15s01_36d95df8:
 translate deutsch d15s01_86e5d603:
 
     # mc "There's a note {w}and two... um{w}, devices."
-    mc "Da ist eine Nachricht {w}und zwei... hm{W}, Geräte."
+    mc "Da ist eine Nachricht {w}und zwei... hm{w}, Geräte."
 
 # game/code/d15/d15s01.rpy:295
 translate deutsch d15s01_2428af12:
@@ -334,19 +334,19 @@ translate deutsch d15s01_thoughts_NTR_b8daeb45:
 translate deutsch d15s01_thoughts_NTR_1ed699b0:
 
     # mct "There's a clue in there somewhere...{w} There's gotta be. hmm..."
-    mct "Dort ist ein Hinweis versteckt irgendwo...{W}dort muss ein Hinweis sein. hmm..."
+    mct "Dort ist ein Hinweis versteckt irgendwo...{w}dort muss ein Hinweis sein. hmm..."
 
 # game/code/d15/d15s01.rpy:390
 translate deutsch d15s01_thoughts_NTR_66c12cfc:
 
     # mct "Maybe something about the letters? {w}N.T.R. {w}En Tee Arrr. {w}Enter? {# Don't translate NTR it is a name of the fetish#}"
-    mct "Vielleicht irgendetwas mit den Buchstaben? {W} N.T.R. {W}En Tee Arrr. {W}Enter? {# Don't translate NTR it is a name of the fetish#}"
+    mct "Vielleicht irgendetwas mit den Buchstaben? {w} N.T.R. {w}En Tee Arrr. {w}Enter? {# Don't translate NTR it is a name of the fetish#}"
 
 # game/code/d15/d15s01.rpy:391
 translate deutsch d15s01_thoughts_NTR_7a02c46f:
 
     # mct "What does it want me to enter? {w}No, that's stupid. What the hell am I thinking?"
-    mct "Was will es, wo soll ich rein? {W} Nein, das ist dumm. Was zur Hölle denke ich hier?"
+    mct "Was will es, wo soll ich rein? {w} Nein, das ist dumm. Was zur Hölle denke ich hier?"
 
 # game/code/d15/d15s01.rpy:393
 translate deutsch d15s01_thoughts_NTR_87b9dc8f:
@@ -394,7 +394,7 @@ translate deutsch d15s01_cagedecision_dc4db0c7:
 translate deutsch d15s01_cagedecision_daf1ca7b:
 
     # lc "It would what? {w}AmRose, what do you mean?"
-    lc "Es würde was? {W}AmRose, was meinst du?"
+    lc "Es würde was? {w}AmRose, was meinst du?"
 
 # game/code/d15/d15s01.rpy:421
 translate deutsch d15s01_cagedecision_b479318b:
@@ -424,7 +424,7 @@ translate deutsch d15s01_cagedecision_0dea2f11:
 translate deutsch d15s01_cagedecision_4f1d505f:
 
     # arj "If you stop playing the game, then everybody {i}on our team{/i} loses."
-    arj "Wenn du aufhörst das Spiel zu spielen, verliert jeder {i}in unserem team{/i}.
+    arj "Wenn du aufhörst das Spiel zu spielen, verliert jeder {i}in unserem team{/i}."
 
 # game/code/d15/d15s01.rpy:436
 translate deutsch d15s01_cagedecision_7e36f4f4:
@@ -514,7 +514,7 @@ translate deutsch d15s01_cagedecision_cf1adef2:
 translate deutsch d15s01_cagedecision_c20b3735:
 
     # lc "Sorry, I got a little carried away. {w}What is it you're supposed to do anyway?"
-    lc "Tschuldigung, habe mich etwas hinreißen lassen. {W}Was ist es was du überhaupt machen sollst?"
+    lc "Tschuldigung, habe mich etwas hinreißen lassen. {w}Was ist es was du überhaupt machen sollst?"
 
 # game/code/d15/d15s01.rpy:475
 translate deutsch d15s01_cagedecision_ce1a50f7:
@@ -598,13 +598,13 @@ translate deutsch d15s01_cagedecision_d7472ea3:
 translate deutsch d15s01_cagedecision_db2860f4:
 
     # arj "I hate to agree, but... {w}For completely different reasons, I want you to do this."
-    arj "Ich hasse es zu zu Stimmen, aber... {W}für komplett andere Gründe, Ich brauche dich um es zu tun."
+    arj "Ich hasse es zu zu Stimmen, aber... {w}für komplett andere Gründe, Ich brauche dich um es zu tun."
 
 # game/code/d15/d15s01.rpy:519
 translate deutsch d15s01_cagedecision_e6dbd754:
 
     # arj "I hate to agree, but... {w}For completely different reasons, I need you to do this."
-    arj "Ich hasse es zu zu Stimmen, aber... {W}für komplett andere Gründe, musst du es tun."
+    arj "Ich hasse es zu zu Stimmen, aber... {w}für komplett andere Gründe, musst du es tun."
 
 # game/code/d15/d15s01.rpy:522
 translate deutsch d15s01_cagedecision_41c4b613:
@@ -646,7 +646,7 @@ translate deutsch d15s01_cagedecision_85e35563:
 translate deutsch d15s01_cagedecision_0c399e49:
 
     # mct "Oh look, the Fetish of the Day is Cumshot. {w}Annnd my points have been zero'd out."
-    mct "Oh schau, der Fetisch des Tages ist Cumshot. {W} Unnnnd meine Punkte sind auf null dafür."
+    mct "Oh schau, der Fetisch des Tages ist Cumshot. {w} Unnnnd meine Punkte sind auf null dafür."
 
 # game/code/d15/d15s01.rpy:544
 translate deutsch d15s01_cagedecision_35bde775:
@@ -718,7 +718,7 @@ translate deutsch d15s01_cage_ntr_ef76c768:
 translate deutsch d15s01_cage_ntr_2b71e423:
 
     # arj "Really? I didn't think... {w}I mean, I thought you would take the one with Lydia's initials on it."
-    arj "Wirklich? Ich dachte nicht... {W}Ich meine, ich dachte du nimmst den mit Lydias initialien."
+    arj "Wirklich? Ich dachte nicht... {w}Ich meine, ich dachte du nimmst den mit Lydias initialien."
 
 # game/code/d15/d15s01.rpy:593
 translate deutsch d15s01_cage_ntr_26c1d277:
