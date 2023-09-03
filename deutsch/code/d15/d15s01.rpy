@@ -766,7 +766,7 @@ translate deutsch d15s01_caged_b9a89333:
 translate deutsch d15s01_caged_0be0f931:
 
     # lc "Interesting. {w}But that little thing is never going to fit on his massive manhood."
-    lc "Interesting. {w}But that little thing is never going to fit on his massive manhood."
+    lc "Interesant. {w}Aber das kleine Ding passt niemals um seinen riesen Schwanz."
 
 # game/code/d15/d15s01.rpy:639
 translate deutsch d15s01_caged_275be848:
@@ -1366,7 +1366,7 @@ translate deutsch d15s01_face_fucking_4fc3f502:
 translate deutsch d15s01_face_fucking_9d3775d3:
 
     # lc "So, she's a fuckbuddy? You have sex sometimes, but are mostly just friends?"
-    lc "So, she's a fuckbuddy? You have sex sometimes, but are mostly just friends?"
+    lc "Also, sie ist ein Fickfreund? Ihr habt ab und zu Sex, aber meistens seit ihr nur Freunde?"
 
 # game/code/d15/d15s01.rpy:1125
 translate deutsch d15s01_face_fucking_6f80d560:
