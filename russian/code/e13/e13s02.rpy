@@ -130,7 +130,7 @@ translate russian replay_e13s02_f38ec24d:
 translate russian replay_e13s02_25cd8572:
 
     # nk "Actually… You know what? Sit down."
-    nk "На самом деле… Знаешь что? Садитесь."
+    nk "На самом деле… Знаешь что? Сядь."
 
 # game/code/e13/e13s02.rpy:192
 translate russian replay_e13s02_a53c11d8:

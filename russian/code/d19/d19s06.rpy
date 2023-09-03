@@ -4,7 +4,7 @@
 translate russian d19s06_417adba7:
 
     # mct "Well, I suppose I'll start with figuring out what to do about Lewald."
-    mct "Что ж, полагаю, нужно начать с того, что выяснить, что делать с Левальд."
+    mct "Что ж, полагаю, я начну с того, чтобы решить, что делать с Левальд."
 
 # game/code/d19/d19s06.rpy:21
 translate russian d19s06_ca1f0acf:
@@ -76,7 +76,7 @@ translate russian d19s06_242b6f03:
 translate russian d19s06_0587af1a:
 
     # mct "Wait... If AmRose and Cynthia are being recorded, Lewald has to be the one recording."
-    mct "Погоди... Если АмРоуз и Синтия в кадре, то Левальд должен быть та, кто снимала."
+    mct "Погоди... Если АмРоуз и Синтия в кадре, то Левальд должно быть та, кто снимала."
 
 # game/code/d19/d19s06.rpy:38
 translate russian d19s06_5f3361d7:
@@ -478,7 +478,7 @@ translate russian d19s06_video_d5272da5:
 translate russian d19s06_video_5db9b5c4:
 
     # arj "Cup your breasts and present them to me."
-    arj "Возьми свои груди и предподними их."
+    arj "Возьми свою грудь и предоставь ее мне."
 
 # game/code/d19/d19s06.rpy:218
 translate russian d19s06_video_d4e64474:

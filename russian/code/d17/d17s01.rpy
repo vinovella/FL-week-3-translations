@@ -328,7 +328,7 @@ translate russian d17s01_2b82e62c:
 translate russian d17s01_9d95bcc7:
 
     # mc "It's not like they post a list. How do you know?"
-    mc "Они же не публикуют список. А вы откуда узнаете?"
+    mc "Они же не публикуют список. А вы откуда знаете?"
 
 # game/code/d17/d17s01.rpy:158
 translate russian d17s01_a3379bfd:
@@ -1396,19 +1396,19 @@ translate russian d17s01_anal_sex_0e7836ca:
 translate russian d17s01_anal_sex_7fed454e:
 
     # arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX LIKE I WAS YOUR SISTER!!!"
-    arj "ААОООХооооооххх!!! ДА!!! {w}КОНЧАЙ В МОЙ ГРЯЗНУЮ ДЫРОЧКУ, КАК БУДТО Я ТВОЯ СЕСТРА!!!"
+    arj "ААОООХооооооххх!!! ДА!!! {w}КОНЧАЙ В МОЮ ГРЯЗНУЮ ДЫРОЧКУ, КАК БУДТО Я ТВОЯ СЕСТРА!!!"
 
 # game/code/d17/d17s01.rpy:612
 translate russian d17s01_anal_sex_6669855a:
 
     # arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX YOU FUCKING DEFILER!!!"
-    arj "ААОООХооооооххх!!! ДА! {w}КОНЧАЙ В МОЙ ГРЯЗНУЮ ДЫРОЧКУ, ТЫ, ГРЕБАННЫЙ НАСИЛЬНИК!!!"
+    arj "ААОООХооооооххх!!! ДА! {w}КОНЧАЙ В МОЮ ГРЯЗНУЮ ДЫРОЧКУ, ТЫ, ГРЕБАННЫЙ НАСИЛЬНИК!!!"
 
 # game/code/d17/d17s01.rpy:614
 translate russian d17s01_anal_sex_e695f042:
 
     # arj "AAOOOAAHoooaahhh!!!{w} CREAMPIE MY DIRTBOX YOU ASSHOLE!!!"
-    arj "ААОООХооооооххх!!! {w}КОНЧАЙ В МОЙ ГРЯЗНУЮ ДЫРОЧКУ, НЕГОДЯЙ!!!"
+    arj "ААОООХооооооххх!!! {w}КОНЧАЙ В МОЮ ГРЯЗНУЮ ДЫРОЧКУ, НЕГОДЯЙ!!!"
 
 # game/code/d17/d17s01.rpy:618
 translate russian d17s01_anal_sex_c25c3bf6:
@@ -1504,7 +1504,7 @@ translate russian d17s01_anal_sex_a1727faa:
 translate russian d17s01_anal_sex_b4a5e3fe:
 
     # arj "AAOOOAAHoooaahhh!!! YES!!!{w} CREAMPIE MY DIRTBOX!!!"
-    arj "ААОООХооооооххх!!! ДА!!! {w}КОНЧАЙ В МОЙ ГРЯЗНУЮ ДЫРОЧКУ!!!"
+    arj "ААОООХооооооххх!!! ДА!!! {w}КОНЧАЙ В МОЮ ГРЯЗНУЮ ДЫРОЧКУ!!!"
 
 # game/code/d17/d17s01.rpy:662
 translate russian d17s01_end_62d1e03e:

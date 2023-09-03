@@ -760,7 +760,7 @@ translate russian d20s08_jumped_131f64ce:
 translate russian d20s08_jumped_50ea7555:
 
     # js "I was distracted during our previous fight."
-    js "Я отвлекся во время нашего предыдущей драки."
+    js "Я отвлекся во время нашей предыдущей драки."
 
 # game/code/d20/d20s08.rpy:247
 translate russian d20s08_jumped_e70e550b:
@@ -1036,7 +1036,7 @@ translate russian d20s08_server_91964404:
 translate russian d20s08_server_a6e84be6:
 
     # sy "I'm not seeing any other users accessing this data recently... and there is no backup set."
-    sy "Я не вижу, чтобы какие-либо другие пользователи в последнее время обращались к этим данным... и нет никакого резервной копии."
+    sy "Я не вижу, чтобы какие-либо другие пользователи в последнее время обращались к этим данным... и нет никакой резервной копии."
 
 # game/code/d20/d20s08.rpy:339
 translate russian d20s08_server_7ba4edd7:
@@ -1150,7 +1150,7 @@ translate russian d20s08_server_febb080f:
 translate russian d20s08_server_b2e2c0dd:
 
     # mc "Alright, I suppose we should wait until you are done to call the police."
-    mc "Хорошо, полагаю, нам следует подождать, пока ты закончишь, в затем позвонить в полицию."
+    mc "Хорошо, полагаю, нам следует подождать, пока ты закончишь, а затем позвонить в полицию."
 
 # game/code/d20/d20s08.rpy:372
 translate russian d20s08_server_731cab7e:
@@ -1426,7 +1426,7 @@ translate russian d20s08_end_67e995fe:
 translate russian d20s08_end_87b6664a:
 
     # arj "I think that's trademarked."
-    arj "Думаю, что быть человеком-пауком - нужно приобрести соответствующую торговую марку."
+    arj "Думаю, чтобы быть человеком-пауком - нужно приобрести соответствующую торговую марку."
 
 # game/code/d20/d20s08.rpy:462
 translate russian d20s08_end_54531bfa:

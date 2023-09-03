@@ -40,7 +40,7 @@ translate russian d18s02_24b8b205:
 translate russian d18s02_e1d12b48:
 
     # sy "Alrighty. It's now or never, baby.{w} Show me the money."
-    sy "Отлично. Сейчас или никогда, детка. {w}Покажи ним их логово."
+    sy "Отлично. Сейчас или никогда, детка. {w}Покажи нам их логово."
 
 # game/code/d18/d18s02.rpy:40
 translate russian d18s02_82493c25:
@@ -100,7 +100,7 @@ translate russian d18s02_9cd8858a:
 translate russian d18s02_70679fc7:
 
     # mc "...So the college is responsible? Or someone hired by the college?"
-    mc "... Значит, ответственность лежит на колледже? Или на ком-то, нанятого колледжем?"
+    mc "... Значит, ответственность лежит на колледже? Или на ком-то, нанятом колледжем?"
 
 # game/code/d18/d18s02.rpy:57
 translate russian d18s02_37a8f88c:

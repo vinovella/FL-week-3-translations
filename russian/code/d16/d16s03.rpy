@@ -706,7 +706,7 @@ translate russian d16s03_dd04ae17:
 translate russian d16s03_760c368e:
 
     # lc "I'll go down on any woman you want if you just fuck me now."
-    lc "Я наброшусь на любую девушку, которую ты захочешь, если ты не трахнешь меня сейчас."
+    lc "Я согласна принять любую женщину, которую ты захочешь, если ты просто трахнешь меня сейчас."
 
 # game/code/d16/d16s03.rpy:275
 translate russian d16s03_e0d2d992:
@@ -754,7 +754,7 @@ translate russian d16s03_899edc24:
 translate russian d16s03_e096cc48:
 
     # mc "I have strong feelings for you both, you know that?"
-    mc "У меня сильное чувства к вам обоим, вы это знаете?"
+    mc "У меня сильные чувства к вам обеим, вы это знаете?"
 
 # game/code/d16/d16s03.rpy:303
 translate russian d16s03_da1aa4fd:
@@ -850,7 +850,7 @@ translate russian d16s03_43393439:
 translate russian d16s03_c03731f3:
 
     # arj "That was kinda kinky. My nipples started to tingle thinking about that."
-    arj "Это было довольно странно. Мои соски покалывают даже от одной мысли об этом."
+    arj "Это было довольно странно. Мои соски покалывает даже от одной мысли об этом."
 
 # game/code/d16/d16s03.rpy:330
 translate russian d16s03_69d8bef7:
@@ -1306,7 +1306,7 @@ translate russian d16s03_5e0d547b:
 translate russian d16s03_cd0d1f18:
 
     # lc "To be surrounded by cocks. In my pussy. In my ass. In my mouth."
-    lc "Быть окруженным членами. У меня в киске. В заднице. И во рту."
+    lc "Быть окруженной членами. У меня в киске. В заднице. И во рту."
 
 # game/code/d16/d16s03.rpy:498
 translate russian d16s03_864025cf:
@@ -1834,7 +1834,7 @@ translate russian d16s03_9e376fcc:
 translate russian d16s03_e2f48147:
 
     # lc "Is that the time? {w}Don't you need to get ready for class?"
-    lc "Сколько время? {w}Разве тебе не нужно готовиться к занятиям?"
+    lc "Который час? {w}Разве тебе не нужно готовиться к занятиям?"
 
 # game/code/d16/d16s03.rpy:704
 translate russian d16s03_13932bcd:

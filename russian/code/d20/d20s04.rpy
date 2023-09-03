@@ -556,7 +556,7 @@ translate russian d20s04_zw_f06d5c33:
 translate russian d20s04_zw_3967b84b:
 
     # zw "In my opinion, [mcname] Young deserves a pass for this semester."
-    zw "На мой взгляд, [mcname] Янг заслуживает зачета на этот семестр."
+    zw "На мой взгляд, [mcname] Янг заслуживает зачета за этот семестр."
 
 # game/code/d20/d20s04.rpy:249
 translate russian d20s04_zw_678c8431:

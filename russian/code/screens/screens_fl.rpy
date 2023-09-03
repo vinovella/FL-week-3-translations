@@ -120,7 +120,7 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:1179
     old "X-RAY"
-    new "X-RAY"
+    new "РЕНТГЕН"
 
     # game/code/screens/screens_fl.rpy:1216
     old "SKIP RECAP"
@@ -316,20 +316,20 @@ translate russian strings:
 
     # game/code/screens/screens_fl.rpy:265
     old "Continue playing"
-    new "Continue playing"
+    new "Продолжить сюжетную линию"
 
     # game/code/screens/screens_fl.rpy:269
     old "Close the game"
-    new "Close the game"
+    new "Выйти из игрыe"
 
     # game/code/screens/screens_fl.rpy:1338
     old "Skip Recap\nof Week-1"
-    new "Skip Recap\nof Week-1"
+    new "Пропустить повтор\n1й недели"
 
     # game/code/screens/screens_fl.rpy:1344
     old "Skip Recap\nof Week-2"
-    new "Skip Recap\nof Week-2"
+    new "Пропустить повтор\n2й недели"
 
     # game/code/screens/screens_fl.rpy:180
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
-    new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
+    new "Если вы решите продолжить, то, возможно, не сможете загрузить сохранения со второй недели. Вы больше не будете получать уведомления. Вы уверены?"

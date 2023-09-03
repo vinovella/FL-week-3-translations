@@ -160,7 +160,7 @@ translate russian d17s06dw_d15a51ba:
 translate russian d17s06dw_b0d901e8:
 
     # sb "So, what - you expect me to break his balls?"
-    sb "Так ты хочешь, что я издевалась над ним?"
+    sb "Так ты хочешь, чтобы я издевалась над ним?"
 
 # game/code/d17/d17s06dw.rpy:108
 translate russian d17s06dw_8156b0b0:
@@ -904,7 +904,7 @@ translate russian d17s06dw_clown_room_026ac64a:
 translate russian d17s06dw_clown_room_6c665a24:
 
     # sb "I just need to reposition myself a little"
-    sb "Мне нужно немного изменить свое позу."
+    sb "Мне нужно немного изменить свою позу."
 
 # game/code/d17/d17s06dw.rpy:455
 translate russian d17s06dw_clown_room_0be45825:

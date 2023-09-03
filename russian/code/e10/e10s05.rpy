@@ -550,7 +550,7 @@ translate russian e10s05_e5a44c4a:
 translate russian e10s05_7f0349b7:
 
     # ns "So, if you two were going to have sex - would you invite me?"
-    ns "Значит, если бы вы двое собирались заняться сексом - ты вы бы пригласили меня?"
+    ns "Значит, если бы вы двое собирались заняться сексом - то вы бы пригласили меня?"
 
 # game/code/e10/e10s05.rpy:337
 translate russian e10s05_3b38b932:

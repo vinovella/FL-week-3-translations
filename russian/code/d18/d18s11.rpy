@@ -364,7 +364,7 @@ translate russian d18s11_bar_8802af05:
 translate russian d18s11_bar_83d2babf:
 
     # mc "Yeah.{w} I know exactly where I want to go."
-    mc "Да. {w}Я точно знаю, куда мне нужно отправится."
+    mc "Да. {w}Я точно знаю, куда мне нужно отправиться."
 
 # game/code/d18/d18s11.rpy:151
 translate russian d18s11_bar_bd4c1a8f:

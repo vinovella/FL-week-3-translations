@@ -160,49 +160,49 @@ translate russian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 21: Stacy"
-    new "Day 21: Stacy"
+    new "День 21: Стейси"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 21: Lyssa"
-    new "Day 21: Lyssa"
+    new "День 21: Лисса"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 21: Min"
-    new "Day 21: Min"
+    new "День 21: Min"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Unlock Waterfall Ending"
-    new "Unlock Waterfall Ending"
+    new "Разблокируйте концовку Водопад"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 01: Stacy"
-    new "Ending 01: Stacy"
+    new "Концовка 01: Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 02: Lyssa"
-    new "Ending 02: Lyssa"
+    new "Концовка 02: Лисса"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Spend time with everyone"
-    new "Spend time with everyone"
+    new "Провести время со всеми"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 06: Lydia"
-    new "Ending 06: Lydia"
+    new "Концовка 06: Лидия"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 06: Harem"
-    new "Ending 06: Harem"
+    new "Концовка 06: Гарем"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 06: Marriage"
-    new "Ending 06: Marriage"
+    new "Концовка 06: Свадьба"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 08: AmRose"
-    new "Ending 08: AmRose"
+    new "Концовка 08: АмРоуз"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 08: AmRose & Stacy"
-    new "Ending 08: AmRose & Stacy"
+    new "Концовка 08: АмРоуз и Стейси"
 

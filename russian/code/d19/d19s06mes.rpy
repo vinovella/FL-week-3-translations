@@ -970,7 +970,7 @@ translate russian d19s06mes_eb754278:
 translate russian d19s06mes_e3d01c27:
 
     # mc "Now my eyes have gone crossed.{w} I think there's a screw loose somewhere nearby."
-    mc "Теперь я совсем перестал все понимать. {w}Мне нужна пояснительная бригада."
+    mc "Теперь я совсем перестал вас понимать. {w}Мне нужна пояснительная бригада."
 
 # game/code/d19/d19s06mes.rpy:431
 translate russian d19s06mes_9fd0118e:

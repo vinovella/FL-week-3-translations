@@ -178,7 +178,7 @@ translate russian d16s08_3a994f92:
 translate russian d16s08_5cad2e1b:
 
     # arj "What about Polly and Nora? You had something going with both of them, right?"
-    arj "А как же Полли и Нора? У тебя что-то было с ними обоими, верно?"
+    arj "А как же Полли и Нора? У тебя что-то было с ними обеими, верно?"
 
 # game/code/d16/d16s08.rpy:81
 translate russian d16s08_3fe466db:
@@ -190,7 +190,7 @@ translate russian d16s08_3fe466db:
 translate russian d16s08_56b51bcb:
 
     # arj "I still can't believe you hooked up with both of them.{w}.. and especially can't believe you hooked up with both of them together."
-    arj "Я все еще не могу поверить, что ты переспал с каждой из них.{w}.. и особенно не могу поверить, что ты переспал с ними обоими сразу."
+    arj "Я все еще не могу поверить, что ты переспал с каждой из них.{w}.. и особенно не могу поверить, что ты переспал с ними обеими сразу."
 
 # game/code/d16/d16s08.rpy:85
 translate russian d16s08_af347610:
@@ -268,7 +268,7 @@ translate russian d16s08_d3c78865:
 translate russian d16s08_08e7303e:
 
     # arj "Didn't she almost kill you once?"
-    arj "Разве она однажды не чуть не убила тебя?"
+    arj "Разве она однажды чуть не убила тебя?"
 
 # game/code/d16/d16s08.rpy:115
 translate russian d16s08_cfa86b8c:
@@ -862,7 +862,7 @@ translate russian d16s08_006e9486:
 translate russian d16s08_f3442d50:
 
     # mct "If I don't go, then she'll probably leave without me..."
-    mct "Если я не пойду, то она, скорее всего, уйдет без меня..."
+    mct "Если я не пойду, то она, скорее всего, уедет без меня..."
 
 # game/code/d16/d16s08.rpy:329
 translate russian d16s08_b45b3cee:

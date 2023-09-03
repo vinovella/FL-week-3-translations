@@ -100,7 +100,7 @@ translate russian d16s09_0807b155:
 translate russian d16s09_da78966e:
 
     # mc "And there's my contribution. Let's get out of here."
-    mc "И это мой вклад. Давай уйдем отсюда."
+    mc "И это мой вклад. Давай уедем отсюда."
 
 # game/code/d16/d16s09.rpy:63
 translate russian d16s09_52bbbabc:

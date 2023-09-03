@@ -952,5 +952,5 @@ translate russian strings:
 
     # game/code/e08/e08s07.rpy:1086
     old "You have finished playing Ending #08!"
-    new "You have finished playing Ending #08!"
+    new "Вы завершили игру с концовкой номер 8!"
 

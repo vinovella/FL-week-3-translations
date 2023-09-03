@@ -21,13 +21,13 @@ translate russian strings:
     new "Лидия"
 
     old "Nora"
-    new "Nora"
+    new "Нора"
 
     old "Zarah Waller"
     new "Зара Уоллер"
 
     old "Ronald Nordin"
-    new "Ronald Nordin"
+    new "Рональд Нордин"
 
     old "Talia"
     new "Талия"
@@ -69,34 +69,34 @@ translate russian strings:
     new "Мин До-юн"
 
     old "Officer Cheney"
-    new "Officer Cheney"
+    new "Офицер Чейни"
 
     old "Officer Martinez"
-    new "Officer Martinez"
+    new "Офицер Мартинес"
 
     old "Ashley"
-    new "Ashley"
+    new "Эшли"
 
     old "Frank"
-    new "Frank"
+    new "Фрэнк"
 
     old "Ms. Havisham"
-    new "Ms. Havisham"
+    new "Мисс Хэвишем"
 
     old "Alexander"
-    new "Alexander"
+    new "Александр"
 
     old "Angela"
-    new "Angela"
+    new "Анжела"
 
     old "Dorothy"
-    new "Dorothy"
+    new "Дороти"
 
     old "Fetish Locator"
     new "Фетиш Локатор"
 
     old "Fetish Master"
-    new "Фетиш Локатор"
+    new "Фетиш Мастер"
 
     old "Jerome"
     new "Джером"
@@ -105,22 +105,22 @@ translate russian strings:
     new "Судья"
 
     old "Mikaela"
-    new "Mikaela"
+    new "Микаэла"
 
     old "Silvia"
-    new "Silvia"
+    new "Сильвия"
 
     old "Zemfira"
-    new "Zemfira"
+    new "Земфира"
 
     old "Josie"
-    new "Josie"
+    new "Джози"
 
     old "Lara"
-    new "Lara"
+    new "Лара"
 
     old "Delphia"
-    new "Delphia"
+    new "Дельфия"
 
     old "Ezra"
-    new "Ezra"
+    new "Эзра"
