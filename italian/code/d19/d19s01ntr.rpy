@@ -166,7 +166,7 @@ translate italian d19s01ntr_flashback_27c5aa17:
 translate italian d19s01ntr_flashback_12fd0565:
 
     # lc "What can you offer me that might compare?"
-    lc "What can you offer me that might compare?"
+    lc "Cosa può offrirmi di simile?"
 
 # game/code/d19/d19s01ntr.rpy:158
 translate italian d19s01ntr_flashback_9130db2f:
@@ -790,7 +790,7 @@ translate italian d19s01ntr_end_98459161:
 translate italian d19s01ntr_end_be872fef:
 
     # mct "There is something strange in this neighborhood. Whom am I gonna call?"
-    mct "There is something strange in this neighborhood. Whom am I gonna call?"
+    mct "C'è qualcosa di strano in questo quartiere. Chi devo chiamare?"
 
 # game/code/d19/d19s01ntr.rpy:552
 translate italian d19s01ntr_end_a913cdcc:

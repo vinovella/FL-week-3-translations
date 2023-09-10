@@ -76,7 +76,7 @@ translate italian d20s03_82e96f3f:
 translate italian d20s03_21e825cc:
 
     # kb "So did you study for the exam?"
-    kb "So did you study for the exam?"
+    kb "Allora hai studiato per l'esame?"
 
 # game/code/d20/d20s03.rpy:92
 translate italian d20s03_f800bed0:

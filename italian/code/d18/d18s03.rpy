@@ -466,7 +466,7 @@ translate italian d18s03_5d02299f:
 translate italian d18s03_5b2a287a:
 
     # mc "Think Fast: Every minister is a student. Every student is inexperienced. Therefore, what?!"
-    mc "Think Fast: Every minister is a student. Every student is inexperienced. Therefore, what?!"
+    mc "Pensa in fretta: Ogni ministro è uno studente. Ogni studente è inesperto. Quindi?!"
 
 # game/code/d18/d18s03.rpy:326
 translate italian d18s03_68729103:

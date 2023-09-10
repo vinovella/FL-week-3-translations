@@ -190,7 +190,7 @@ translate italian d17s07_ext_2518141d:
 translate italian d17s07_ext_cfd27420:
 
     # jf "I do feel better now. Thank you."
-    jf "I do feel better now. Thank you."
+    jf "Mi sento meglio adesso. Grazie."
 
 # game/code/d17/extended/d17s07_ext.rpy:318
 translate italian d17s07_ext_fe54932d:
@@ -322,7 +322,7 @@ translate italian d17s07_ext_6ebd2534:
 translate italian d17s07_ext_764ad0c1:
 
     # jf "I love cosplay. I love becoming other characters."
-    jf "I love cosplay. I love becoming other characters."
+    jf "Mi piace il cosplay. Mi intriga l'idea di poter diventare qualcun altro."
 
 # game/code/d17/extended/d17s07_ext.rpy:371
 translate italian d17s07_ext_02ec3fe6:

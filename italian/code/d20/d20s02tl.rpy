@@ -2086,7 +2086,7 @@ translate italian d20s02tl_cl_fuck_9ccf0ab4:
 translate italian d20s02tl_cl_fuck_3db3d360:
 
     # mct "I could spend all day fucking these two, but I have exams."
-    mct "I could spend all day fucking these two, but I have exams."
+    mct "Potrei passare tutto il giorno a scopare con queste due, ma ho gli esami."
 
 # game/code/d20/d20s02tl.rpy:1249
 translate italian d20s02tl_cl_fuck_a9f70c1b:
@@ -2214,7 +2214,7 @@ translate italian strings:
 
     # game/code/d20/d20s02tl.rpy:843
     old "Punish Them Both"
-    new "Punish Them Both"
+    new "Puniscile entrambe"
 
     # game/code/d20/d20s02tl.rpy:843
     old "Fuck Them Both Together"

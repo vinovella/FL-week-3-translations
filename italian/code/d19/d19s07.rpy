@@ -1096,7 +1096,7 @@ translate italian d19s07_sex_9d5c06d4:
 translate italian d19s07_sex_fc41bcf6:
 
     # mct "Like a virgin. Hey! Touched for the very first time."
-    mct "Like a virgin. Hey! Touched for the very first time."
+    mct "Come dice Madonna: \"Like a virgin. Hey! Touched for the very first time\"."
 
 # game/code/d19/d19s07.rpy:619
 translate italian d19s07_sex_b5ec67e0:

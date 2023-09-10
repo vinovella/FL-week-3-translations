@@ -934,7 +934,7 @@ translate italian replay_d17s08_242324f2:
 translate italian replay_d17s08_96f753dd:
 
     # mc "Hey sexy lady."
-    mc "Hey sexy lady."
+    mc "Hey figona."
 
 # game/code/d17/d17s08.rpy:554
 translate italian replay_d17s08_63a926ed:
