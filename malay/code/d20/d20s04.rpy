@@ -1386,7 +1386,7 @@ translate malay strings:
 
     # game/code/d20/d20s04.rpy:273
     old "Overpowering a vastly superior enemy"
-    new "/"Overpowering a vastly superior enemy/""
+    new "\"Overpowering a vastly superior enemy\""
 
     # game/code/d20/d20s04.rpy:273
     old "Achieving perfect certainty in your impending victory"
