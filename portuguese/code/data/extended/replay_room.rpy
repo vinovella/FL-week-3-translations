@@ -366,3 +366,19 @@ translate portuguese strings:
     old "Ending 06: Lydia"
     new "Final 06: Lydia"
 
+# TODO: Translation updated at 2023-09-28 22:47
+
+translate portuguese strings:
+
+    # game/code/data/extended/replay_room.rpy:123
+    old "Ending 12: Allison"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:123
+    old "Ending 12: Vanessa"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:138
+    old "Ending 14: Polly, Nora & Debbie"
+    new ""
+

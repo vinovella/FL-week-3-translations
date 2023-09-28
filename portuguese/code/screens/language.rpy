@@ -6,3 +6,11 @@ translate portuguese strings:
     old "Switch Language"
     new "Trocar Idioma"
 
+# TODO: Translation updated at 2023-09-28 22:47
+
+translate portuguese strings:
+
+    # game/code/screens/language.rpy:121
+    old "Choose Language"
+    new ""
+

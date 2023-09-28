@@ -150,3 +150,15 @@ translate portuguese strings:
     old "Ending 08: AmRose & Stacy"
     new "Final 08: AmRose & Stacy"
 
+# TODO: Translation updated at 2023-09-28 22:47
+
+translate portuguese strings:
+
+    # game/code/data/extended/cg_gallery.rpy:94
+    old "Ending 12: Vanessa & Allison"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:103
+    old "Ending 14: Polly & Nora"
+    new ""
+

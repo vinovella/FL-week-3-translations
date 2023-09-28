@@ -306,3 +306,19 @@ translate chinese strings:
     old "Ending 06: Lydia"
     new "结局06：莉迪亚"
 
+# TODO: Translation updated at 2023-09-28 22:49
+
+translate chinese strings:
+
+    # game/code/data/extended/replay_room.rpy:123
+    old "Ending 12: Allison"
+    new "Ending 12: Allison"
+
+    # game/code/data/extended/replay_room.rpy:123
+    old "Ending 12: Vanessa"
+    new "Ending 12: Vanessa"
+
+    # game/code/data/extended/replay_room.rpy:138
+    old "Ending 14: Polly, Nora & Debbie"
+    new "Ending 14: Polly, Nora & Debbie"
+
