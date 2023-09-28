@@ -302,3 +302,19 @@ translate russian strings:
     old "Ending 08: Pregnant AmRose"
     new "Ending 08: Pregnant AmRose"
 
+# TODO: Translation updated at 2023-09-28 22:53
+
+translate russian strings:
+
+    # game/code/data/extended/replay_room.rpy:123
+    old "Ending 12: Allison"
+    new "Ending 12: Allison"
+
+    # game/code/data/extended/replay_room.rpy:123
+    old "Ending 12: Vanessa"
+    new "Ending 12: Vanessa"
+
+    # game/code/data/extended/replay_room.rpy:138
+    old "Ending 14: Polly, Nora & Debbie"
+    new "Ending 14: Polly, Nora & Debbie"
+

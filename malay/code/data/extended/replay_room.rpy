@@ -309,3 +309,19 @@ translate malay strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 06: Wedding Reception"
     new "Ending 06: Wedding Reception"
+# TODO: Translation updated at 2023-09-28 22:52
+
+translate malay strings:
+
+    # game/code/data/extended/replay_room.rpy:123
+    old "Ending 12: Allison"
+    new "Ending 12: Allison"
+
+    # game/code/data/extended/replay_room.rpy:123
+    old "Ending 12: Vanessa"
+    new "Ending 12: Vanessa"
+
+    # game/code/data/extended/replay_room.rpy:138
+    old "Ending 14: Polly, Nora & Debbie"
+    new "Ending 14: Polly, Nora & Debbie"
+

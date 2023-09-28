@@ -198,3 +198,15 @@ translate spanish strings:
     old "Ending 13: Pregnant Nora"
     new "Final 13: Nora embarazada"
 
+# TODO: Translation updated at 2023-09-28 22:55
+
+translate spanish strings:
+
+    # game/code/data/extended/cg_gallery.rpy:94
+    old "Ending 12: Vanessa & Allison"
+    new "Ending 12: Vanessa & Allison"
+
+    # game/code/data/extended/cg_gallery.rpy:103
+    old "Ending 14: Polly & Nora"
+    new "Ending 14: Polly & Nora"
+

@@ -1153,3 +1153,51 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "No hay pistas disponibles."
+# TODO: Translation updated at 2023-09-28 22:55
+
+translate spanish strings:
+
+    # game/code/hints.rpy:5
+    old "You will end up fucking Vanessa in the asshole."
+    new "You will end up fucking Vanessa in the asshole."
+
+    # game/code/hints.rpy:5
+    old "You will skip to the blowjob."
+    new "You will skip to the blowjob."
+
+    # game/code/hints.rpy:5
+    old "Vanessa gets you nice and hard with her lovely feet."
+    new "Vanessa gets you nice and hard with her lovely feet."
+
+    # game/code/hints.rpy:5
+    old "Mark both redheads with your piss."
+    new "Mark both redheads with your piss."
+
+    # game/code/hints.rpy:5
+    old "Continue to threesome scene."
+    new "Continue to threesome scene."
+
+    # game/code/hints.rpy:5
+    old "Debbie will join you for some action later."
+    new "Debbie will join you for some action later."
+
+    # game/code/hints.rpy:5
+    old "Debbie will not join you later."
+    new "Debbie will not join you later."
+
+    # game/code/hints.rpy:5
+    old "Polly and Nora will get in on the action."
+    new "Polly and Nora will get in on the action."
+
+    # game/code/hints.rpy:5
+    old "There still might be someone for Debbie in the cafe."
+    new "There still might be someone for Debbie in the cafe."
+
+    # game/code/hints.rpy:5
+    old "Dahlia will peg you."
+    new "Dahlia will peg you."
+
+    # game/code/hints.rpy:5
+    old "Dahlia won't peg you."
+    new "Dahlia won't peg you."
+
