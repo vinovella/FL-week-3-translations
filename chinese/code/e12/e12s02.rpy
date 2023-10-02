@@ -4,571 +4,571 @@
 translate chinese e12s02_328a43e8:
 
     # aw "Come here to watch or join me?"
-    aw "Come here to watch or join me?"
+    aw "你是来这里看还是要加入我？"
 
 # game/code/e12/e12s02.rpy:61
 translate chinese e12s02_34ecfb13:
 
     # mc "I don't want to mess up your routine."
-    mc "I don't want to mess up your routine."
+    mc "我不想破坏你的日常计划。"
 
 # game/code/e12/e12s02.rpy:65
 translate chinese e12s02_c469e46a:
 
     # aw "Routine? I'm warming up."
-    aw "Routine? I'm warming up."
+    aw "日常计划？我在热身。"
 
 # game/code/e12/e12s02.rpy:66
 translate chinese e12s02_add0fdd4:
 
     # aw "Today's leg day."
-    aw "Today's leg day."
+    aw "今天是腿部训练日。"
 
 # game/code/e12/e12s02.rpy:69
 translate chinese e12s02_ae2de90d:
 
     # mc "I never train legs. I never train anything."
-    mc "I never train legs. I never train anything."
+    mc "我从不练腿，我什么都不练。"
 
 # game/code/e12/e12s02.rpy:70
 translate chinese e12s02_233032b1:
 
     # mc "I'm more into training my mind."
-    mc "I'm more into training my mind."
+    mc "我更喜欢训练头脑。"
 
 # game/code/e12/e12s02.rpy:73
 translate chinese e12s02_38e8679a:
 
     # aw "Well you should at least train up your cardio. Remember that you have to keep two of us busy now."
-    aw "Well you should at least train up your cardio. Remember that you have to keep two of us busy now."
+    aw "哈，你至少应该锻炼一下有氧运动。记住，你现在得让我们两个人都忙起来。"
 
 # game/code/e12/e12s02.rpy:76
 translate chinese e12s02_b5fbd5a1:
 
     # mc "Good point."
-    mc "Good point."
+    mc "说得好。"
 
 # game/code/e12/e12s02.rpy:80
 translate chinese e12s02_5fba0616:
 
     # aw "But... since we're alone."
-    aw "But... since we're alone."
+    aw "但是...既然我们是单独行动。"
 
 # game/code/e12/e12s02.rpy:82
 translate chinese e12s02_620196cc:
 
     # mc "Right here?"
-    mc "Right here?"
+    mc "就在这里？"
 
 # game/code/e12/e12s02.rpy:85
 translate chinese e12s02_de3ed2a3:
 
     # aw "Haha. Maybe after my workout."
-    aw "Haha. Maybe after my workout."
+    aw "哈哈。也许在我锻炼完之后。"
 
 # game/code/e12/e12s02.rpy:88
 translate chinese e12s02_129af3bd:
 
     # mc "You're amazing."
-    mc "You're amazing."
+    mc "你真了不起。"
 
 # game/code/e12/e12s02.rpy:90
 translate chinese e12s02_05baeabf:
 
     # aw "This is nothing. Just some deep squats. Really helps stretch out the glutes and quadriceps."
-    aw "This is nothing. Just some deep squats. Really helps stretch out the glutes and quadriceps."
+    aw "这没什么。深蹲而已。这真的有助于伸展臀部和股四头肌。"
 
 # game/code/e12/e12s02.rpy:93
 translate chinese e12s02_90b0f8d3:
 
     # mc "I was just thinking I was a little worried about your glutes."
-    mc "I was just thinking I was a little worried about your glutes."
+    mc "我只是在想，我有点担心你的臀部。"
 
 # game/code/e12/e12s02.rpy:95
 translate chinese e12s02_aa2bc235:
 
     # aw "Haha. This from Mr. No Workout?"
-    aw "Haha. This from Mr. No Workout?"
+    aw "哈哈。'不锻炼先生'要给我建议吗？"
 
 # game/code/e12/e12s02.rpy:98
 translate chinese e12s02_fd0450a1:
 
     # mc "I'm on hand for morale support."
-    mc "I'm on hand for morale support."
+    mc "我是来鼓舞士气的。"
 
 # game/code/e12/e12s02.rpy:100
 translate chinese e12s02_82b75961:
 
     # aw "Mmm. Well how about you support me by spotting me."
-    aw "Mmm. Well how about you support me by spotting me."
+    aw "好吧，以示对我的支持，你来帮我看看怎么样？"
 
 # game/code/e12/e12s02.rpy:103
 translate chinese e12s02_0e6620b8:
 
     # mc "Can do."
-    mc "Can do."
+    mc "可以。"
 
 # game/code/e12/e12s02.rpy:128
 translate chinese e12s02_8644b28d:
 
     # mc "More? You're sweating through everything."
-    mc "More? You're sweating through everything."
+    mc "还要来吗？你都出汗了。"
 
 # game/code/e12/e12s02.rpy:131
 translate chinese e12s02_01bf8778:
 
     # aw "Almost done with the set."
-    aw "Almost done with the set."
+    aw "这套动作快结束了。"
 
 # game/code/e12/e12s02.rpy:148
 translate chinese e12s02_19eb8f71:
 
     # aw "Ow!"
-    aw "Ow!"
+    aw "嗷！"
 
 # game/code/e12/e12s02.rpy:153
 translate chinese e12s02_91256d21:
 
     # mc "Shit. Allison!"
-    mc "Shit. Allison!"
+    mc "靠。艾莉森！"
 
 # game/code/e12/e12s02.rpy:172
 translate chinese e12s02_sex_ba4af99c:
 
     # aw "Let me see."
-    aw "Let me see."
+    aw "让我看看。"
 
 # game/code/e12/e12s02.rpy:173
 translate chinese e12s02_sex_3b42ccd8:
 
     # aw "It's not broken. A bit bruised."
-    aw "It's not broken. A bit bruised."
+    aw "没断，有点淤青。"
 
 # game/code/e12/e12s02.rpy:174
 translate chinese e12s02_sex_c490f1f8:
 
     # aw "Damn it. I lost my grip on the bar."
-    aw "Damn it. I lost my grip on the bar."
+    aw "该死，我没抓住横杆。"
 
 # game/code/e12/e12s02.rpy:177
 translate chinese e12s02_sex_4aa3e246:
 
     # mc "I'm just glad you're okay."
-    mc "I'm just glad you're okay."
+    mc "我很高兴你没事。"
 
 # game/code/e12/e12s02.rpy:180
 translate chinese e12s02_sex_387106ac:
 
     # aw "I'm not okay. I got cocky. Put too much weight on the bar to try playing catch up."
-    aw "I'm not okay. I got cocky. Put too much weight on the bar to try playing catch up."
+    aw "我有事。我太自大了。把太多的重量压在单杠上，试图赶上训练节奏。"
 
 # game/code/e12/e12s02.rpy:182
 translate chinese e12s02_sex_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "What do you mean?"
+    mc "什么意思？"
 
 # game/code/e12/e12s02.rpy:183
 translate chinese e12s02_sex_7a422430:
 
     # aw "I skipped the gym the last couple of days."
-    aw "I skipped the gym the last couple of days."
+    aw "这几天我没来健身房。"
 
 # game/code/e12/e12s02.rpy:186
 translate chinese e12s02_sex_6f32174a:
 
     # mc "Well we've been busy. Here, let me massage it."
-    mc "Well we've been busy. Here, let me massage it."
+    mc "我们一直很忙。来，让我按摩一下。"
 
 # game/code/e12/e12s02.rpy:189
 translate chinese e12s02_sex_c7cc28cc:
 
     # aw "I can push through it."
-    aw "I can push through it."
+    aw "我能挺过去。"
 
 # game/code/e12/e12s02.rpy:192
 translate chinese e12s02_sex_c450e5ab:
 
     # mc "Come on. Just let me get the blood flowing."
-    mc "Come on. Just let me get the blood flowing."
+    mc "来吧，我来帮忙让血液流动起来。"
 
 # game/code/e12/e12s02.rpy:196
 translate chinese e12s02_sex_0cbddfbf:
 
     # aw "If you insist."
-    aw "If you insist."
+    aw "如果你坚持的话。"
 
 # game/code/e12/e12s02.rpy:199
 translate chinese e12s02_sex_2f068911:
 
     # mc "I do."
-    mc "I do."
+    mc "我坚持。"
 
 # game/code/e12/e12s02.rpy:202
 translate chinese e12s02_sex_3042c516:
 
     # aw "I thought you majored in business administration, not sports medicine."
-    aw "I thought you majored in business administration, not sports medicine."
+    aw "我以为你主修的是工商管理，不是运动医学。"
 
 # game/code/e12/e12s02.rpy:205
 translate chinese e12s02_sex_18cf3948:
 
     # mc "Lucky for you, enough business people get foot aches and minor bruises from walking all the time."
-    mc "Lucky for you, enough business people get foot aches and minor bruises from walking all the time."
+    mc "算你走运，很多商务人士经常会因为走路而脚痛和轻微瘀伤。"
 
 # game/code/e12/e12s02.rpy:206
 translate chinese e12s02_sex_33bbb6bf:
 
     # mc "One of my business courses had a month-long wellness chapter."
-    mc "One of my business courses had a month-long wellness chapter."
+    mc "我的一门商业课程有一个为期一个月的健康培训。"
 
 # game/code/e12/e12s02.rpy:209
 translate chinese e12s02_sex_4c2778e2:
 
     # aw "Not bad."
-    aw "Not bad."
+    aw "不错。"
 
 # game/code/e12/e12s02.rpy:212
 translate chinese e12s02_sex_834576d5:
 
     # aw "That tickles!"
-    aw "That tickles!"
+    aw "好痒！"
 
 # game/code/e12/e12s02.rpy:214
 translate chinese e12s02_sex_272a414b:
 
     # mc "It's supposed to. I'm rubbing it."
-    mc "It's supposed to. I'm rubbing it."
+    mc "应该的。我在揉它。"
 
 # game/code/e12/e12s02.rpy:217
 translate chinese e12s02_sex_671ad25e:
 
     # aw "*Giggles* Stop it. Now you're just having fun."
-    aw "*Giggles* Stop it. Now you're just having fun."
+    aw "*咯咯笑* 停下来。现在你只是在逗我呢。"
 
 # game/code/e12/e12s02.rpy:220
 translate chinese e12s02_sex_060a464c:
 
     # mc "Have you smelled your sweaty toes?"
-    mc "Have you smelled your sweaty toes?"
+    mc "你闻过脚趾头的汗味吗？"
 
 # game/code/e12/e12s02.rpy:221
 translate chinese e12s02_sex_2845bc38:
 
     # mc "I'm the victim here, haha."
-    mc "I'm the victim here, haha."
+    mc "现在我才是受害者，哈哈。"
 
 # game/code/e12/e12s02.rpy:224
 translate chinese e12s02_sex_384426b5:
 
     # mc "How you doing now?"
-    mc "How you doing now?"
+    mc "你现在怎么样？"
 
 # game/code/e12/e12s02.rpy:226
 translate chinese e12s02_sex_7efde05c:
 
     # aw "Definitely better than it was. Thank you. Now I gotta jump back on the horse."
-    aw "Definitely better than it was. Thank you. Now I gotta jump back on the horse."
+    aw "肯定比刚才好多了。谢谢。现在我得重新上马了。"
 
 # game/code/e12/e12s02.rpy:229
 translate chinese e12s02_sex_d5e91b96:
 
     # mc "You're going to keep going?"
-    mc "You're going to keep going?"
+    mc "你还要继续？"
 
 # game/code/e12/e12s02.rpy:232
 translate chinese e12s02_sex_2d760a03:
 
     # aw "Totally. Things happen, and sometimes you gotta just adjust and work on other parts of the body."
-    aw "Totally. Things happen, and sometimes you gotta just adjust and work on other parts of the body."
+    aw "当然。世事难料，有时你得调整计划，锻炼身体的其他部位。"
 
 # game/code/e12/e12s02.rpy:233
 translate chinese e12s02_sex_2aaffe63:
 
     # aw "I'm not going to let a tender foot stop me from training."
-    aw "I'm not going to let a tender foot stop me from training."
+    aw "我不会因为脚痛而放弃训练。"
 
 # game/code/e12/e12s02.rpy:235
 translate chinese e12s02_sex_e7674484:
 
     # mc "I think we need to keep these toes elevated a little longer. Maybe put some ice on them."
-    mc "I think we need to keep these toes elevated a little longer. Maybe put some ice on them."
+    mc "我想我们需要把这些脚趾再抬高一点。也许可以敷点冰块。"
 
 # game/code/e12/e12s02.rpy:236
 translate chinese e12s02_sex_4ef4016e:
 
     # aw "I'm telling you I don't need it."
-    aw "I'm telling you I don't need it."
+    aw "我告诉你，我不需要。"
 
 # game/code/e12/e12s02.rpy:239
 translate chinese e12s02_sex_fbe2cc01:
 
     # mc "Well how about a hot bath?"
-    mc "Well how about a hot bath?"
+    mc "洗个热水澡怎么样？"
 
 # game/code/e12/e12s02.rpy:241
 translate chinese e12s02_sex_8e41fab0:
 
     # aw "Huh?"
-    aw "Huh?"
+    aw "啊？"
 
 # game/code/e12/e12s02.rpy:245
 translate chinese e12s02_sex_e9f3321d:
 
     # aw "*Giggles uncontrollably* What are you doing?"
-    aw "*Giggles uncontrollably* What are you doing?"
+    aw "*不受控的大笑* 你在干什么？"
 
 # game/code/e12/e12s02.rpy:248
 translate chinese e12s02_sex_93c49560:
 
     # aw "They're dirty."
-    aw "They're dirty."
+    aw "它们很脏。"
 
 # game/code/e12/e12s02.rpy:252
 translate chinese e12s02_sex_473f6d41:
 
     # mc "Yup."
-    mc "Yup."
+    mc "是啊。"
 
 # game/code/e12/e12s02.rpy:253
 translate chinese e12s02_sex_d87bee5c:
 
     # mc "*Sucking*"
-    mc "*Sucking*"
+    mc "*吮吸*"
 
 # game/code/e12/e12s02.rpy:256
 translate chinese e12s02_sex_9063373a:
 
     # mc "I'm cleaning them off."
-    mc "I'm cleaning them off."
+    mc "我在为它们做清洗。"
 
 # game/code/e12/e12s02.rpy:259
 translate chinese e12s02_sex_9aa97ff5:
 
     # aw "I'm supposed to be working out."
-    aw "I'm supposed to be working out."
+    aw "我应该去健身的。"
 
 # game/code/e12/e12s02.rpy:261
 translate chinese e12s02_sex_3c31e789:
 
     # mc "And I think your foot needs some rest."
-    mc "And I think your foot needs some rest."
+    mc "我觉得你的脚需要休息一下。"
 
 # game/code/e12/e12s02.rpy:262
 translate chinese e12s02_sex_be7c9a39:
 
     # aw "I think you're just trying to get me all hot and bothered."
-    aw "I think you're just trying to get me all hot and bothered."
+    aw "我觉得你只是想让我热血沸腾。"
 
 # game/code/e12/e12s02.rpy:265
 translate chinese e12s02_sex_24668d41:
 
     # mc "Never. But these are some very horny toes."
-    mc "Never. But these are some very horny toes."
+    mc "不会的，不过你的脚趾可真会勾人啊。"
 
 # game/code/e12/e12s02.rpy:267
 translate chinese e12s02_sex_b9434456:
 
     # aw "Hahaha."
-    aw "Hahaha."
+    aw "哈哈哈。"
 
 # game/code/e12/e12s02.rpy:271
 translate chinese e12s02_sex_bcce146b:
 
     # aw "There, how's that?"
-    aw "There, how's that?"
+    aw "好了，怎么样？"
 
 # game/code/e12/e12s02.rpy:273
 translate chinese e12s02_sex_57af4b43:
 
     # mc "Mmpf."
-    mc "Mmpf."
+    mc "嗯~"
 
 # game/code/e12/e12s02.rpy:276
 translate chinese e12s02_sex_bbcf53a2:
 
     # aw "You like that? You big stinky pervert."
-    aw "You like that? You big stinky pervert."
+    aw "喜欢吗？你这个臭变态。"
 
 # game/code/e12/e12s02.rpy:279
 translate chinese e12s02_sex_ba8fd32a:
 
     # mct "She's enjoying this way too much..."
-    mct "She's enjoying this way too much..."
+    mct "她太享受了..."
 
 # game/code/e12/e12s02.rpy:282
 translate chinese e12s02_sex_f12cde67:
 
     # aw "Couldn't hear you. You want it deeper?"
-    aw "Couldn't hear you. You want it deeper?"
+    aw "我听不见，你想更深入点吗？"
 
 # game/code/e12/e12s02.rpy:285
 translate chinese e12s02_sex_faa03e1a:
 
     # mc "Haha."
-    mc "Haha."
+    mc "哈哈。"
 
 # game/code/e12/e12s02.rpy:288
 translate chinese e12s02_sex_1ad44a8d:
 
     # mc "That was good. You're getting a bit confused though."
-    mc "That was good. You're getting a bit confused though."
+    mc "很好。不过你有点糊涂了。"
 
 # game/code/e12/e12s02.rpy:290
 translate chinese e12s02_sex_a36c70fe:
 
     # aw "Confused?"
-    aw "Confused?"
+    aw "我糊涂？"
 
 # game/code/e12/e12s02.rpy:291
 translate chinese e12s02_sex_794a1139:
 
     # mc "Just because you're injured, doesn't mean you can forget your place."
-    mc "Just because you're injured, doesn't mean you can forget your place."
+    mc "你受伤了，并不意味着你可以忘记自己的位置。"
 
 # game/code/e12/e12s02.rpy:294
 translate chinese e12s02_sex_7cafee00:
 
     # aw "I thought you were spoiling me."
-    aw "I thought you were spoiling me."
+    aw "我还以为你在宠我呢。"
 
 # game/code/e12/e12s02.rpy:297
 translate chinese e12s02_sex_85622a12:
 
     # mc "Mmmmm. Open your mouth, princess"
-    mc "Mmmmm. Open your mouth, princess"
+    mc "这个嘛。张开嘴，公主"
 
 # game/code/e12/e12s02.rpy:299
 translate chinese e12s02_sex_81d55113:
 
     # aw "Awww"
-    aw "Awww"
+    aw "啊--"
 
 # game/code/e12/e12s02.rpy:300
 translate chinese e12s02_sex_7d84b5a5:
 
     # mc "I have some medicine for you."
-    mc "I have some medicine for you."
+    mc "我有药给你。"
 
 # game/code/e12/e12s02.rpy:303
 translate chinese e12s02_sex_17f78f2e:
 
     # aw "*Sucking happily*"
-    aw "*Sucking happily*"
+    aw "*快乐地吮吸*"
 
 # game/code/e12/e12s02.rpy:308
 translate chinese e12s02_sex_a9176493:
 
     # mc "There, let's get that mouth all loosened up."
-    mc "There, let's get that mouth all loosened up."
+    mc "好了，让我们给你的嘴放松放松。"
 
 # game/code/e12/e12s02.rpy:313
 translate chinese e12s02_sex_37c4ef55:
 
     # mc "I want to do some throat exercises with you."
-    mc "I want to do some throat exercises with you."
+    mc "我想和你一起做一些喉咙运动。"
 
 # game/code/e12/e12s02.rpy:315
 translate chinese e12s02_sex_610e66c1:
 
     # aw "Mmpf?"
-    aw "Mmpf?"
+    aw "嗯？"
 
 # game/code/e12/e12s02.rpy:316
 translate chinese e12s02_sex_845fe9aa:
 
     # mc "Your throat, that's your weak spot, isn't it?"
-    mc "Your throat, that's your weak spot, isn't it?"
+    mc "你的喉咙，那是你的弱点，不是吗？"
 
 # game/code/e12/e12s02.rpy:320
 translate chinese e12s02_sex_b1449d9b:
 
     # mct "I think I just got my answer."
-    mct "I think I just got my answer."
+    mct "我想我刚刚得到了答案。"
 
 # game/code/e12/e12s02.rpy:324
 translate chinese e12s02_sex_e572dfbe:
 
     # mc "You and your mom are so alike."
-    mc "You and your mom are so alike."
+    mc "你和你妈妈太像了。"
 
 # game/code/e12/e12s02.rpy:326
 translate chinese e12s02_sex_5ce8e20b:
 
     # mc "You and Vanessa are so alike."
-    mc "You and Vanessa are so alike."
+    mc "你和瓦妮莎太像了。"
 
 # game/code/e12/e12s02.rpy:329
 translate chinese e12s02_sex_479acc98:
 
     # aw "We are. But don't tell her I said that."
-    aw "We are. But don't tell her I said that."
+    aw "没错，但别告诉她我有这么说。"
 
 # game/code/e12/e12s02.rpy:345
 translate chinese e12s02_sex_235423c5:
 
     # aw "Mom? What's going on?"
-    aw "Mom? What's going on?"
+    aw "妈妈，怎么了？"
 
 # game/code/e12/e12s02.rpy:347
 translate chinese e12s02_sex_64db596f:
 
     # aw "What's going on?"
-    aw "What's going on?"
+    aw "怎么了？"
 
 # game/code/e12/e12s02.rpy:350
 translate chinese e12s02_sex_3637cf1d:
 
     # vw "Sorry for interrupting your session, sweetheart. I was wondering if you saw [mcname] anywhere. I need to talk to him about something."
-    vw "Sorry for interrupting your session, sweetheart. I was wondering if you saw [mcname] anywhere. I need to talk to him about something."
+    vw "抱歉打扰你的训练了，亲爱的。我想知道你有没有在哪里看到[mcname]。我要和他谈点事。"
 
 # game/code/e12/e12s02.rpy:353
 translate chinese e12s02_sex_3eb42ff9:
 
     # mc "Right here."
-    mc "Right here."
+    mc "我就在这儿。"
 
 # game/code/e12/e12s02.rpy:356
 translate chinese e12s02_sex_61bf3810:
 
     # vw "Oh?"
-    vw "Oh?"
+    vw "哦？"
 
 # game/code/e12/e12s02.rpy:357
 translate chinese e12s02_sex_75be528a:
 
     # vw "Hmmm. What's wrong?"
-    vw "Hmmm. What's wrong?"
+    vw "发生什么了？"
 
 # game/code/e12/e12s02.rpy:360
 translate chinese e12s02_sex_80a5690b:
 
     # aw "Nothing."
-    aw "Nothing."
+    aw "没什么。"
 
 # game/code/e12/e12s02.rpy:362
 translate chinese e12s02_sex_edc99259:
 
     # vw "Allison."
-    vw "Allison."
+    vw "艾莉森。"
 
 # game/code/e12/e12s02.rpy:363
 translate chinese e12s02_sex_c66cd5db:
 
     # aw "I just hurt my toes a bit. [mcname] already helped patch me up."
-    aw "I just hurt my toes a bit. [mcname] already helped patch me up."
+    aw "我只是脚趾受了点伤。[mcname]已经帮我包扎好了。"
 
 # game/code/e12/e12s02.rpy:364
 translate chinese e12s02_sex_0a57f765:
 
     # vw "You're sure?"
-    vw "You're sure?"
+    vw "你确定？"
 
 # game/code/e12/e12s02.rpy:365
 translate chinese e12s02_sex_ef50ce1f:
 
     # aw "Absolutely."
-    aw "Absolutely."
+    aw "当然。"
 
 # game/code/e12/e12s02.rpy:368
 translate chinese e12s02_sex_36c47ff9:
