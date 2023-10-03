@@ -574,391 +574,391 @@ translate chinese e12s02_sex_ef50ce1f:
 translate chinese e12s02_sex_36c47ff9:
 
     # vw "Well in that case, can I borrow, [mcname]?"
-    vw "Well in that case, can I borrow, [mcname]?"
+    vw "这样的话，我能借用一下[mcname]吗？"
 
 # game/code/e12/e12s02.rpy:370
 translate chinese e12s02_sex_99ff95cc:
 
     # aw "Well that's up to him."
-    aw "Well that's up to him."
+    aw "那要看他了。"
 
 # game/code/e12/e12s02.rpy:373
 translate chinese e12s02_sex_740bb3f8:
 
     # mc "I'm always happy to spend time with you."
-    mc "I'm always happy to spend time with you."
+    mc "我总是很高兴和你在一起。"
 
 # game/code/e12/e12s02.rpy:376
 translate chinese e12s02_sex_e2450653:
 
     # vw "You're sweet, but I didn't mean it that way."
-    vw "You're sweet, but I didn't mean it that way."
+    vw "你嘴真甜，但我不是那个意思。"
 
 # game/code/e12/e12s02.rpy:377
 translate chinese e12s02_sex_ca3e73f5:
 
     # mct "I feel a case of blueballs forming."
-    mct "I feel a case of blueballs forming."
+    mct "我觉得我的蛋蛋要被憋出病来了。"
 
 # game/code/e12/e12s02.rpy:378
 translate chinese e12s02_sex_f11d9b0d:
 
     # vw "Cheer up, I got your first client lined up."
-    vw "Cheer up, I got your first client lined up."
+    vw "振作点，你的第一个客户我已经安排好了。"
 
 # game/code/e12/e12s02.rpy:381
 translate chinese e12s02_sex_78aefc87:
 
     # mct "Wow? I just got the letter back saying I passed the realtor's exam."
-    mct "Wow? I just got the letter back saying I passed the realtor's exam."
+    mct "这么快？我刚收到回信，说我通过了房地产经纪人考试。"
 
 # game/code/e12/e12s02.rpy:382
 translate chinese e12s02_sex_04df58de:
 
     # mc "You didn't have to do that, Vanessa."
-    mc "You didn't have to do that, Vanessa."
+    mc "你没必要这么做的，瓦妮莎。"
 
 # game/code/e12/e12s02.rpy:385
 translate chinese e12s02_sex_3314a283:
 
     # vw "Haha. You can't just hang around all day fucking us senseless, [mcname]."
-    vw "Haha. You can't just hang around all day fucking us senseless, [mcname]."
+    vw "哈哈。你不能整天在这里晃悠，把我们干的不省人事，[mcname]。"
 
 # game/code/e12/e12s02.rpy:388
 translate chinese e12s02_sex_b709e618:
 
     # mc "Well you say that."
-    mc "Well you say that."
+    mc "那是你说的。"
 
 # game/code/e12/e12s02.rpy:391
 translate chinese e12s02_sex_5ec0bbb0:
 
     # vw "I do. And so today I need your help to sell a house."
-    vw "I do. And so today I need your help to sell a house."
+    vw "我是这么说的。所以今天我需要你帮忙卖一栋房子。"
 
 # game/code/e12/e12s02.rpy:393
 translate chinese e12s02_sex_dfaa5134:
 
     # mc "Are you sure I can do this? I mean I thought we would start small like a condo or apartment."
-    mc "Are you sure I can do this? I mean I thought we would start small like a condo or apartment."
+    mc "你确定我能做到吗？我的意思是，我想我们可以从小处着手，比如从公寓或套间开始。"
 
 # game/code/e12/e12s02.rpy:394
 translate chinese e12s02_sex_6ca6bb55:
 
     # vw "It will be fine. You're so sharp and good at taking the initiative, I'm sure you'll be fine."
-    vw "It will be fine. You're so sharp and good at taking the initiative, I'm sure you'll be fine."
+    vw "没问题的。你这么聪明，又善于主动出击，我相信你一定行的。"
 
 # game/code/e12/e12s02.rpy:395
 translate chinese e12s02_sex_3aa803d1:
 
     # vw "It's all about the art of the sale."
-    vw "It's all about the art of the sale."
+    vw "这就是销售的艺术。"
 
 # game/code/e12/e12s02.rpy:398
 translate chinese e12s02_sex_327b1e08:
 
     # mc "Uh... I guess if you think it's a good idea. Let's do it."
-    mc "Uh... I guess if you think it's a good idea. Let's do it."
+    mc "呃...我想，如果你觉得这是个好主意。那我们就开始吧。"
 
 # game/code/e12/e12s02.rpy:401
 translate chinese e12s02_sex_009b7de5:
 
     # vw "Wonderful. Get cleaned up and meet me in the room. Chop chop."
-    vw "Wonderful. Get cleaned up and meet me in the room. Chop chop."
+    vw "好极了。收拾一下，到房间里来见我。快点哦。"
 
 # game/code/e12/e12s02.rpy:402
 translate chinese e12s02_sex_c8b0c738:
 
     # vw "Bye sweetheart."
-    vw "Bye sweetheart."
+    vw "再见，亲爱的。"
 
 # game/code/e12/e12s02.rpy:406
 translate chinese e12s02_sex_81f58310:
 
     # aw "Bye Mom."
-    aw "Bye Mom."
+    aw "妈妈再见。"
 
 # game/code/e12/e12s02.rpy:408
 translate chinese e12s02_sex_0de7aa02:
 
     # aw "Bye."
-    aw "Bye."
+    aw "拜拜。"
 
 # game/code/e12/e12s02.rpy:411
 translate chinese e12s02_sex_53ba33c0:
 
     # mct "She's got that look in her eyes."
-    mct "She's got that look in her eyes."
+    mct "她的眼神在说着什么。"
 
 # game/code/e12/e12s02.rpy:413
 translate chinese e12s02_sex_a97be7b9:
 
     # mc "Are you allowed to do that?"
-    mc "Are you allowed to do that?"
+    mc "你可以这么做吗？"
 
 # game/code/e12/e12s02.rpy:415
 translate chinese e12s02_sex_1051609b:
 
     # aw "Probably not."
-    aw "Probably not."
+    aw "也许不行。"
 
 # game/code/e12/e12s02.rpy:418
 translate chinese e12s02_sex_4145760e:
 
     # mc "Taking initiative?"
-    mc "Taking initiative?"
+    mc "主动出击？"
 
 # game/code/e12/e12s02.rpy:420
 translate chinese e12s02_sex_070f8046:
 
     # aw "Mmmhmm. That's part of being a pro athlete. See your shot and take it."
-    aw "Mmmhmm. That's part of being a pro athlete. See your shot and take it."
+    aw "嗯，这是职业运动员的专业素养。看到机会，就上前抓住它。"
 
 # game/code/e12/e12s02.rpy:432
 translate chinese e12s02_sex_c4578ba2:
 
     # mc "You're getting so good at sucking my cock."
-    mc "You're getting so good at sucking my cock."
+    mc "你给我口交的技术越来越好了。"
 
 # game/code/e12/e12s02.rpy:433
 translate chinese e12s02_sex_f74e5cf3:
 
     # mc "That's it. Oh you squeeze it so good."
-    mc "That's it. Oh you squeeze it so good."
+    mc "就是这样，哦，你挤压的力道真舒服。"
 
 # game/code/e12/e12s02.rpy:436
 translate chinese e12s02_sex_ecf89a15:
 
     # mc "Ahh."
-    mc "Ahh."
+    mc "啊~"
 
 # game/code/e12/e12s02.rpy:437
 translate chinese e12s02_sex_261a724f:
 
     # mc "So good."
-    mc "So good."
+    mc "太棒了。"
 
 # game/code/e12/e12s02.rpy:440
 translate chinese e12s02_sex_f1a9572c:
 
     # mc "Alright, don't go too hard. I'm not about to make you do all the work."
-    mc "Alright, don't go too hard. I'm not about to make you do all the work."
+    mc "好了，别太用力。我不会让你做所有的工作。"
 
 # game/code/e12/e12s02.rpy:444
 translate chinese e12s02_sex_09ac9063:
 
     # aw "Well spoken."
-    aw "Well spoken."
+    aw "说得好。"
 
 # game/code/e12/e12s02.rpy:449
 translate chinese e12s02_sex_2a15f2ec:
 
     # mc "How's that? Good exercise?"
-    mc "How's that? Good exercise?"
+    mc "怎么样？这算有效锻炼吗？"
 
 # game/code/e12/e12s02.rpy:455
 translate chinese e12s02_sex_9cc96b0f:
 
     # aw "Yeah, harder. I'm barely breaking a sweat here."
-    aw "Yeah, harder. I'm barely breaking a sweat here."
+    aw "算的，再用力点。我都快出汗了。"
 
 # game/code/e12/e12s02.rpy:463
 translate chinese e12s02_sex_4e752cef:
 
     # mc "How about this?"
-    mc "How about this?"
+    mc "这样呢？"
 
 # game/code/e12/e12s02.rpy:464
 translate chinese e12s02_sex_d708350d:
 
     # aw "Ahh!"
-    aw "Ahh!"
+    aw "啊！"
 
 # game/code/e12/e12s02.rpy:467
 translate chinese e12s02_sex_eaae7a3e:
 
     # mc "You like how that feels?"
-    mc "You like how that feels?"
+    mc "你喜欢这种感觉？"
 
 # game/code/e12/e12s02.rpy:468
 translate chinese e12s02_sex_a077927b:
 
     # aw "It's so good."
-    aw "It's so good."
+    aw "太爽了。"
 
 # game/code/e12/e12s02.rpy:471
 translate chinese e12s02_sex_934a2907:
 
     # aw "Fuck me just like that. Fuck, fuck."
-    aw "Fuck me just like that. Fuck, fuck."
+    aw "就这样干我，操，啊操~"
 
 # game/code/e12/e12s02.rpy:472
 translate chinese e12s02_sex_5a3765d8:
 
     # mc "Oh shit."
-    mc "Oh shit."
+    mc "哦，该死。"
 
 # game/code/e12/e12s02.rpy:476
 translate chinese e12s02_sex_6993d919:
 
     # aw "Come on. Stir up my pussy, babe. I want it so bad."
-    aw "Come on. Stir up my pussy, babe. I want it so bad."
+    aw "来吧，宝贝。用你的家伙在我阴道里大力搅动，我等不及了。"
 
 # game/code/e12/e12s02.rpy:482
 translate chinese e12s02_sex_9b8b01e6:
 
     # mc "Fuck me. Are you trying to make me cum."
-    mc "Fuck me. Are you trying to make me cum."
+    mc "操。你想让我射出来啊？"
 
 # game/code/e12/e12s02.rpy:485
 translate chinese e12s02_sex_dd3941c0:
 
     # aw "Maybe. Being here... but in this environment... It makes me want to be take-charge."
-    aw "Maybe. Being here... but in this environment... It makes me want to be take-charge."
+    aw "也许吧，在这里...在这种环境下...这让我想要掌控局面。"
 
 # game/code/e12/e12s02.rpy:488
 translate chinese e12s02_sex_f7d81e22:
 
     # mc "Ah. you want to scratch that competitive itch?"
-    mc "Ah. you want to scratch that competitive itch?"
+    mc "哦，你想和我一较高下？"
 
 # game/code/e12/e12s02.rpy:489
 translate chinese e12s02_sex_4ec19d74:
 
     # aw "A little."
-    aw "A little."
+    aw "有一点。"
 
 # game/code/e12/e12s02.rpy:497
 translate chinese e12s02_sex_8ba372b2:
 
     # mc "Guess I have to stop holding back then."
-    mc "Guess I have to stop holding back then."
+    mc "看来我不能再收着了。"
 
 # game/code/e12/e12s02.rpy:498
 translate chinese e12s02_sex_d0136fc9:
 
     # aw "Holding back?"
-    aw "Holding back?"
+    aw "你在收着？"
 
 # game/code/e12/e12s02.rpy:502
 translate chinese e12s02_sex_9d549374:
 
     # aw "You're pounding me so hard."
-    aw "You're pounding me so hard."
+    aw "你插我插得好狠啊啊。"
 
 # game/code/e12/e12s02.rpy:510
 translate chinese e12s02_sex_36266d10:
 
     # aw "*Breathing heavily*"
-    aw "*Breathing heavily*"
+    aw "*喘着粗气*"
 
 # game/code/e12/e12s02.rpy:513
 translate chinese e12s02_sex_6843125a:
 
     # mc "You're clamping down on me."
-    mc "You're clamping down on me."
+    mc "你夹得我好紧。"
 
 # game/code/e12/e12s02.rpy:514
 translate chinese e12s02_sex_b09efd24:
 
     # aw "Of course. First to cum is the loser."
-    aw "Of course. First to cum is the loser."
+    aw "当然，先射出来的就是输家。"
 
 # game/code/e12/e12s02.rpy:525
 translate chinese e12s02_sex_c0b1bb56:
 
     # mct "Shit, I might cum inside of her. I have to pull out."
-    mct "Shit, I might cum inside of her. I have to pull out."
+    mct "妈的，我可能会在她体内射出来。我得退出来。"
 
 # game/code/e12/e12s02.rpy:533
 translate chinese e12s02_sex_b6f75e94:
 
     # aw "I can feel your dick throbbing."
-    aw "I can feel your dick throbbing."
+    aw "我能感觉到你的老二在跳动。"
 
 # game/code/e12/e12s02.rpy:538
 translate chinese e12s02_sex_1422e119:
 
     # aw "Come outside!"
-    aw "Come outside!"
+    aw "快出来！"
 
 # game/code/e12/e12s02.rpy:543
 translate chinese e12s02_sex_5a6dfc7c:
 
     # mc "Ahh!!!"
-    mc "Ahh!!!"
+    mc "啊!!!"
 
 # game/code/e12/e12s02.rpy:553
 translate chinese e12s02_sex_5774afaa:
 
     # mc "Fuck, that was close."
-    mc "Fuck, that was close."
+    mc "操，好险。"
 
 # game/code/e12/e12s02.rpy:556
 translate chinese e12s02_sex_22c9ec6e:
 
     # aw "That's so hot. I could feel it... your body wanting... *phew* to knock me up."
-    aw "That's so hot. I could feel it... your body wanting... *phew* to knock me up."
+    aw "真是销魂。我能感觉到...你的身体想要... *呼气* 把我弄醒。"
 
 # game/code/e12/e12s02.rpy:559
 translate chinese e12s02_sex_af02a759:
 
     # mc "Fighting against that nature is hard."
-    mc "Fighting against that nature is hard."
+    mc "要对抗这种天性很难的。"
 
 # game/code/e12/e12s02.rpy:562
 translate chinese e12s02_sex_568b53cf:
 
     # aw "For you and me both."
-    aw "For you and me both."
+    aw "对你我都是。"
 
 # game/code/e12/e12s02.rpy:563
 translate chinese e12s02_sex_d4f39104:
 
     # aw "Still that was a helluva workout."
-    aw "Still that was a helluva workout."
+    aw "不过这次还是很不错的锻炼。"
 
 # game/code/e12/e12s02.rpy:566
 translate chinese e12s02_sex_26b9fb0e:
 
     # mc "Uh... Allison."
-    mc "Uh... Allison."
+    mc "呃...艾莉森。"
 
 # game/code/e12/e12s02.rpy:569
 translate chinese e12s02_sex_08fe291b:
 
     # aw "Hmm."
-    aw "Hmm."
+    aw "嗯。"
 
 # game/code/e12/e12s02.rpy:572
 translate chinese e12s02_sex_d1567ed3:
 
     # mc "Your foot."
-    mc "Your foot."
+    mc "你的脚。"
 
 # game/code/e12/e12s02.rpy:575
 translate chinese e12s02_sex_1b159599:
 
     # aw "Jesus Christ!"
-    aw "Jesus Christ!"
+    aw "哎呀！"
 
 # game/code/e12/e12s02.rpy:578
 translate chinese e12s02_sex_9b4103bc:
 
     # aw "Well, at least the next few days are for shoulder and chest training..."
-    aw "Well, at least the next few days are for shoulder and chest training..."
+    aw "好吧，至少接下来的几天是肩部和胸部训练..."
 
 # game/code/e12/e12s02.rpy:579
 translate chinese e12s02_sex_c7ba7154:
 
     # aw "But I think someone has an appointment."
-    aw "But I think someone has an appointment."
+    aw "不过，我想有人已经预约了。"
 
 # game/code/e12/e12s02.rpy:582
 translate chinese e12s02_sex_c5d98a77:
 
     # mc "Shit, I nearly forgot."
-    mc "Shit, I nearly forgot."
+    mc "靠，差点忘了。"
 
 # game/code/e12/e12s02.rpy:583
 translate chinese e12s02_sex_2b35b6fe:
@@ -970,17 +970,17 @@ translate chinese e12s02_sex_2b35b6fe:
 translate chinese e12s02_sex_53dd7ee5:
 
     # aw "You want to fuck me in the shower first."
-    aw "You want to fuck me in the shower first."
+    aw "你想先在浴室里干我。"
 
 # game/code/e12/e12s02.rpy:588
 translate chinese e12s02_sex_73ec990d:
 
     # mc "You read my mind..."
-    mc "You read my mind..."
+    mc "被你看穿了我的心思..."
 
 translate chinese strings:
 
     # game/code/e12/e12s02.rpy:39
     old "Next day at the hotel gym"
-    new "Next day at the hotel gym"
+    new "第二天在酒店健身房"
 
