@@ -4,529 +4,529 @@
 translate chinese e12s03_92d88967:
 
     # vw "What do you guys think?"
-    vw "What do you guys think?"
+    vw "你们觉得怎么样？"
 
 # game/code/e12/e12s03.rpy:50
 translate chinese e12s03_69a2ee32:
 
     # mc "This place is fantastic Vanessa."
-    mc "This place is fantastic Vanessa."
+    mc "这地方太棒了，瓦妮莎。"
 
 # game/code/e12/e12s03.rpy:53
 translate chinese e12s03_7f61aa29:
 
     # aw "I love it, Mom!"
-    aw "I love it, Mom!"
+    aw "妈妈，我爱死这个地方了！"
 
 # game/code/e12/e12s03.rpy:55
 translate chinese e12s03_c0915a58:
 
     # aw "I love it!"
-    aw "I love it!"
+    aw "我爱死这个地方了！"
 
 # game/code/e12/e12s03.rpy:58
 translate chinese e12s03_4a134d6b:
 
     # vw "That's so good to hear."
-    vw "That's so good to hear."
+    vw "真高兴听到你这么说。"
 
 # game/code/e12/e12s03.rpy:59
 translate chinese e12s03_f95b0ba5:
 
     # vw "Over there is the master bedroom with a bed big enough for all three of us."
-    vw "Over there is the master bedroom with a bed big enough for all three of us."
+    vw "那边是主卧，里面有一张足够我们三个人睡的大床。"
 
 # game/code/e12/e12s03.rpy:61
 translate chinese e12s03_6ed468b4:
 
     # vw "The bathroom has one of those rain head showers."
-    vw "The bathroom has one of those rain head showers."
+    vw "浴室里有雨淋式花洒。"
 
 # game/code/e12/e12s03.rpy:62
 translate chinese e12s03_790a2560:
 
     # vw "There's a lot of space out back for your kayaks Allison."
-    vw "There's a lot of space out back for your kayaks Allison."
+    vw "后面有很多地方可以放皮艇，艾莉森。"
 
 # game/code/e12/e12s03.rpy:65
 translate chinese e12s03_be6e18e8:
 
     # vw "I've got an office down that hall. There's also a room for whatever you want to do [mcname]."
-    vw "I've got an office down that hall. There's also a room for whatever you want to do [mcname]."
+    vw "走廊尽头是我的办公室。还有一个房间，[mcname]，你想做什么就做什么。"
 
 # game/code/e12/e12s03.rpy:66
 translate chinese e12s03_c32ab535:
 
     # mct "Holy shit this place is huge."
-    mct "Holy shit this place is huge."
+    mct "我靠，这地方真大。"
 
 # game/code/e12/e12s03.rpy:68
 translate chinese e12s03_fa29e54e:
 
     # mc "How did you afford all this?"
-    mc "How did you afford all this?"
+    mc "你怎么买得起这些？"
 
 # game/code/e12/e12s03.rpy:70
 translate chinese e12s03_17f81102:
 
     # vw "I've been saving a little bit here and there for a few years."
-    vw "I've been saving a little bit here and there for a few years."
+    vw "我这几年一直在攒钱。"
 
 # game/code/e12/e12s03.rpy:73
 translate chinese e12s03_4a50230f:
 
     # aw "Hopefully some of that will rub off on you [mcname]."
-    aw "Hopefully some of that will rub off on you [mcname]."
+    aw "希望你也能有点积蓄，[mcname]。"
 
 # game/code/e12/e12s03.rpy:75
 translate chinese e12s03_e3eb80d0:
 
     # mc "I hope so too. Still, this place must have cost a fortune."
-    mc "I hope so too. Still, this place must have cost a fortune."
+    mc "我也希望如此。不过，这地方肯定花了不少钱。"
 
 # game/code/e12/e12s03.rpy:77
 translate chinese e12s03_b8a2543b:
 
     # vw "It did but I've been saving up for a long time. It's nice to be able to have a home where Allison can train for the Iron Kayak."
-    vw "It did but I've been saving up for a long time. It's nice to be able to have a home where Allison can train for the Iron Kayak."
+    vw "是花了不少钱，不过我已经攒了很久了。能有一个艾莉森可以训练铁皮艇的家真好！"
 
 # game/code/e12/e12s03.rpy:81
 translate chinese e12s03_0d6588f6:
 
     # aw "I can't thank you enough for this."
-    aw "I can't thank you enough for this."
+    aw "我真是感激不尽。"
 
 # game/code/e12/e12s03.rpy:84
 translate chinese e12s03_e52ac2b0:
 
     # mct "Wow."
-    mct "Wow."
+    mct "哇。"
 
 # game/code/e12/e12s03.rpy:87
 translate chinese e12s03_fe3d47e8:
 
     # vw "Are you okay, [mcname]?"
-    vw "Are you okay, [mcname]?"
+    vw "你还好吗，[mcname]？"
 
 # game/code/e12/e12s03.rpy:89
 translate chinese e12s03_a390dc75:
 
     # mc "Yeah. I just never thought I'd be somewhere this incredible with two beautiful women."
-    mc "Yeah. I just never thought I'd be somewhere this incredible with two beautiful women."
+    mc "我没事。只是，我从没想过能和两位美女一起来到如此美妙的地方。"
 
 # game/code/e12/e12s03.rpy:92
 translate chinese e12s03_17e87ee6:
 
     # aw "One big happy family."
-    aw "One big happy family."
+    aw "我们是个幸福的大家庭。"
 
 # game/code/e12/e12s03.rpy:94
 translate chinese e12s03_41f907e6:
 
     # vw "I'm so happy we're all here. I can't tell you how long I've waited for this. Well, most of this."
-    vw "I'm so happy we're all here. I can't tell you how long I've waited for this. Well, most of this."
+    vw "我很高兴我们都在这里。我都不知道我等此刻等了多久了。大部分时间都在等。"
 
 # game/code/e12/e12s03.rpy:96
 translate chinese e12s03_59b911a1:
 
     # vw "I never would have imagined someone like you [mcname] coming into my life and reuniting me with my daughter."
-    vw "I never would have imagined someone like you [mcname] coming into my life and reuniting me with my daughter."
+    vw "[mcname]，我从没想过像你这样的人，会走进我的生活，让我和女儿团聚。"
 
 # game/code/e12/e12s03.rpy:98
 translate chinese e12s03_fbf00492:
 
     # vw "I never would have imagined someone like you [mcname] coming into my life and reuniting me with Allison."
-    vw "I never would have imagined someone like you [mcname] coming into my life and reuniting me with Allison."
+    vw "[mcname]，我从没想到会有你这样的人走进我的生活，让我和艾莉森团聚。"
 
 # game/code/e12/e12s03.rpy:101
 translate chinese e12s03_370d82fc:
 
     # vw "I'm glad we finally have a place to call home. For whatever comes next."
-    vw "I'm glad we finally have a place to call home. For whatever comes next."
+    vw "我很高兴我们终于有了一个可以称之为家的地方。不管接下来会发生什么，我们都有一个家的港湾了。"
 
 # game/code/e12/e12s03.rpy:104
 translate chinese e12s03_94b27188:
 
     # aw "I'm glad we're all here together, Mom."
-    aw "I'm glad we're all here together, Mom."
+    aw "我很高兴我们能在一起，妈妈。"
 
 # game/code/e12/e12s03.rpy:106
 translate chinese e12s03_3442fe7a:
 
     # aw "I'm glad we're all here too."
-    aw "I'm glad we're all here too."
+    aw "我也很高兴我们都在这里。"
 
 # game/code/e12/e12s03.rpy:107
 translate chinese e12s03_bf5be803:
 
     # aw "I can't wait to see what our new life looks like. Starting with this!"
-    aw "I can't wait to see what our new life looks like. Starting with this!"
+    aw "我迫不及待地想看看我们的新生活是什么样子。就从这个开始！"
 
 # game/code/e12/e12s03.rpy:111
 translate chinese e12s03_344b6134:
 
     # aw "Finally, freedom."
-    aw "Finally, freedom."
+    aw "终于自由了。"
 
 # game/code/e12/e12s03.rpy:112
 translate chinese e12s03_1bb76067:
 
     # mct "We should have moved here sooner."
-    mct "We should have moved here sooner."
+    mct "我们应该早点搬来这里。"
 
 # game/code/e12/e12s03.rpy:116
 translate chinese e12s03_f1d757e0:
 
     # vw "Allison!"
-    vw "Allison!"
+    vw "艾莉森！"
 
 # game/code/e12/e12s03.rpy:118
 translate chinese e12s03_aa41f95d:
 
     # aw "What? I know you like it."
-    aw "What? I know you like it."
+    aw "怎么了？我知道你喜欢这样。"
 
 # game/code/e12/e12s03.rpy:121
 translate chinese e12s03_b314386e:
 
     # aw "You're just going to have to get used to it."
-    aw "You're just going to have to get used to it."
+    aw "你得慢慢习惯。"
 
 # game/code/e12/e12s03.rpy:127
 translate chinese e12s03_57592c17:
 
     # mc "I don't think I've ever seen Allison this happy."
-    mc "I don't think I've ever seen Allison this happy."
+    mc "我从没见艾莉森这么开心过。"
 
 # game/code/e12/e12s03.rpy:129
 translate chinese e12s03_cc8b95f2:
 
     # vw "It's been a long time since I've seen her this happy too."
-    vw "It's been a long time since I've seen her this happy too."
+    vw "我也很久没见她这么开心了。"
 
 # game/code/e12/e12s03.rpy:130
 translate chinese e12s03_ddf35f4f:
 
     # vw "And it's all thanks to you."
-    vw "And it's all thanks to you."
+    vw "这都是你的功劳。"
 
 # game/code/e12/e12s03.rpy:144
 translate chinese e12s03_c22434b4:
 
     # aw "I can't leave you two alone for a second huh."
-    aw "I can't leave you two alone for a second huh."
+    aw "我一刻也离不开你们俩。"
 
 # game/code/e12/e12s03.rpy:146
 translate chinese e12s03_10168bd4:
 
     # vw "Allison-"
-    vw "Allison-"
+    vw "艾莉森--"
 
 # game/code/e12/e12s03.rpy:147
 translate chinese e12s03_21f963d2:
 
     # aw "It's okay, I get it."
-    aw "It's okay, I get it."
+    aw "没关系，我懂的。"
 
 # game/code/e12/e12s03.rpy:156
 translate chinese e12s03_296d983c:
 
     # aw "Before we get too distracted though, you have to see this. Come on!"
-    aw "Before we get too distracted though, you have to see this. Come on!"
+    aw "在我们分心之前，你得看看这个。来吧！"
 
 # game/code/e12/e12s03.rpy:162
 translate chinese e12s03_0f9fa639:
 
     # mc "I didn't think this could get any better."
-    mc "I didn't think this could get any better."
+    mc "我以为没有比这更好的了。"
 
 # game/code/e12/e12s03.rpy:167
 translate chinese e12s03_4b8f4e33:
 
     # aw "You haven't even gotten into the pool yet."
-    aw "You haven't even gotten into the pool yet."
+    aw "你还没进泳池呢。"
 
 # game/code/e12/e12s03.rpy:170
 translate chinese e12s03_b3167d4e:
 
     # vw "My bathing suit is still packed."
-    vw "My bathing suit is still packed."
+    vw "我的泳衣还装着呢。"
 
 # game/code/e12/e12s03.rpy:172
 translate chinese e12s03_6f54f0e5:
 
     # aw "What do you need a swimming suit for?"
-    aw "What do you need a swimming suit for?"
+    aw "你要泳衣干嘛？"
 
 # game/code/e12/e12s03.rpy:176
 translate chinese e12s03_78fdd4f1:
 
     # mc "She does have a good point."
-    mc "She does have a good point."
+    mc "她说得有道理。"
 
 # game/code/e12/e12s03.rpy:178
 translate chinese e12s03_2286d6a7:
 
     # vw "What if someone sees us?"
-    vw "What if someone sees us?"
+    vw "如果有人看到我们怎么办？"
 
 # game/code/e12/e12s03.rpy:180
 translate chinese e12s03_3c60bd28:
 
     # mc "This is our house now, isn't it?"
-    mc "This is our house now, isn't it?"
+    mc "这是我们的房子了，不是吗？"
 
 # game/code/e12/e12s03.rpy:181
 translate chinese e12s03_9a4135a4:
 
     # mc "We can do whatever we'd like!"
-    mc "We can do whatever we'd like!"
+    mc "我们想做什么就做什么！"
 
 # game/code/e12/e12s03.rpy:212
 translate chinese e12s03_cdf850df:
 
     # mc "I think I need to take a little break."
-    mc "I think I need to take a little break."
+    mc "我想我需要休息一下。"
 
 # game/code/e12/e12s03.rpy:214
 translate chinese e12s03_7815b25d:
 
     # aw "Aww, come on!"
-    aw "Aww, come on!"
+    aw "哎呀，来嘛！"
 
 # game/code/e12/e12s03.rpy:217
 translate chinese e12s03_42d765ec:
 
     # vw "I'm getting pretty close to being done too."
-    vw "I'm getting pretty close to being done too."
+    vw "我也快结束了。"
 
 # game/code/e12/e12s03.rpy:219
 translate chinese e12s03_dd5efe40:
 
     # aw "Lame."
-    aw "Lame."
+    aw "逊毙了。"
 
 # game/code/e12/e12s03.rpy:220
 translate chinese e12s03_717801fe:
 
     # vw "You know what sounds good? A mojito."
-    vw "You know what sounds good? A mojito."
+    vw "你知道什么东西不错吗？莫吉托鸡尾酒。"
 
 # game/code/e12/e12s03.rpy:223
 translate chinese e12s03_c1cffff2:
 
     # aw "Okay, that sounds less lame."
-    aw "Okay, that sounds less lame."
+    aw "好吧，听起来没那么差劲了。"
 
 # game/code/e12/e12s03.rpy:225
 translate chinese e12s03_2d70b688:
 
     # mc "I'll go make us some drinks then."
-    mc "I'll go make us some drinks then."
+    mc "那我去弄点喝的。"
 
 # game/code/e12/e12s03.rpy:227
 translate chinese e12s03_f7a40947:
 
     # vw "I'll join you in a second."
-    vw "I'll join you in a second."
+    vw "我马上就来。"
 
 # game/code/e12/e12s03.rpy:242
 translate chinese e12s03_relax_fa9ed629:
 
     # mc "I'm going to say sorry right now. I have no idea how to make a mojito."
-    mc "I'm going to say sorry right now. I have no idea how to make a mojito."
+    mc "我现在就要说对不起。我不知道怎么调莫吉托酒。"
 
 # game/code/e12/e12s03.rpy:245
 translate chinese e12s03_relax_67eb991d:
 
     # vw "Well it looks right!"
-    vw "Well it looks right!"
+    vw "看起来很不错！"
 
 # game/code/e12/e12s03.rpy:251
 translate chinese e12s03_relax_ec272cb5:
 
     # vw "The look is the only thing right about it though."
-    vw "The look is the only thing right about it though."
+    vw "不过，外观是它唯一正确的地方。"
 
 # game/code/e12/e12s03.rpy:253
 translate chinese e12s03_relax_c5c09466:
 
     # mc "That bad?"
-    mc "That bad?"
+    mc "有那么糟吗？"
 
 # game/code/e12/e12s03.rpy:259
 translate chinese e12s03_relax_209de5a9:
 
     # aw "Oh God. Yeah, yeah it's that bad."
-    aw "Oh God. Yeah, yeah it's that bad."
+    aw "天啊，没错，就是这么糟。"
 
 # game/code/e12/e12s03.rpy:260
 translate chinese e12s03_relax_5cb82388:
 
     # mct "God, they both look incredible."
-    mct "God, they both look incredible."
+    mct "天啊，它们看起来都很不错的样子。"
 
 # game/code/e12/e12s03.rpy:263
 translate chinese e12s03_relax_abecc4dd:
 
     # mc "What are you thinking about, Allison."
-    mc "What are you thinking about, Allison."
+    mc "艾莉森，你在想什么？"
 
 # game/code/e12/e12s03.rpy:265
 translate chinese e12s03_relax_fdbee4d3:
 
     # aw "The kayak competition."
-    aw "The kayak competition."
+    aw "皮划艇比赛。"
 
 # game/code/e12/e12s03.rpy:268
 translate chinese e12s03_relax_8af92ede:
 
     # vw "Are you nervous?"
-    vw "Are you nervous?"
+    vw "你紧张吗？"
 
 # game/code/e12/e12s03.rpy:270
 translate chinese e12s03_relax_04f6c400:
 
     # aw "A little bit, yeah."
-    aw "A little bit, yeah."
+    aw "嗯，有一点。"
 
 # game/code/e12/e12s03.rpy:272
 translate chinese e12s03_relax_3b1c3e86:
 
     # mc "You shouldn't be. You're a star athlete and you're going to leave them all in the dust. Or water."
-    mc "You shouldn't be. You're a star athlete and you're going to leave them all in the dust. Or water."
+    mc "你不应该紧张的。你是个明星运动员，你会把他们都甩在后面的。"
 
 # game/code/e12/e12s03.rpy:273
 translate chinese e12s03_relax_58baaa26:
 
     # vw "You're going to do great, sweetie."
-    vw "You're going to do great, sweetie."
+    vw "你会做得很好的，亲爱的。"
 
 # game/code/e12/e12s03.rpy:276
 translate chinese e12s03_relax_23a7b6c6:
 
     # aw "I just have to start training harder than I've ever trained before."
-    aw "I just have to start training harder than I've ever trained before."
+    aw "我必须开始比以往任何时候都更加努力地训练。"
 
 # game/code/e12/e12s03.rpy:278
 translate chinese e12s03_relax_64e0e67a:
 
     # mc "We are here to help you. We'll get you on a training regiment."
-    mc "We are here to help you. We'll get you on a training regiment."
+    mc "我们是来帮你的。我们会给你安排训练。"
 
 # game/code/e12/e12s03.rpy:282
 translate chinese e12s03_relax_eb6ef4f8:
 
     # vw "And we'll get you on a super athlete diet. I'd love to cook for my daughter again."
-    vw "And we'll get you on a super athlete diet. I'd love to cook for my daughter again."
+    vw "我们会给你制定超级运动员饮食计划。我很想再次为我女儿做饭。"
 
 # game/code/e12/e12s03.rpy:284
 translate chinese e12s03_relax_c99ca55c:
 
     # vw "And we'll get you on a super athlete diet. I'd love to cook for you again."
-    vw "And we'll get you on a super athlete diet. I'd love to cook for you again."
+    vw "我们会为你制定超级运动员饮食计划。我很乐意再次为你做饭。"
 
 # game/code/e12/e12s03.rpy:286
 translate chinese e12s03_relax_51b9e930:
 
     # mc "We're here to support you in everything Allison."
-    mc "We're here to support you in everything Allison."
+    mc "我们会在这里尽全力支持你，艾莉森。"
 
 # game/code/e12/e12s03.rpy:289
 translate chinese e12s03_relax_db49d3ef:
 
     # aw "Everything?"
-    aw "Everything?"
+    aw "支持我的一切？"
 
 # game/code/e12/e12s03.rpy:291
 translate chinese e12s03_relax_472f16ac:
 
     # vw "Everything and anything."
-    vw "Everything and anything."
+    vw "满足你所有需求。"
 
 # game/code/e12/e12s03.rpy:294
 translate chinese e12s03_relax_e47cf3e0:
 
     # aw "There is one thing..."
-    aw "There is one thing..."
+    aw "有一件事..."
 
 # game/code/e12/e12s03.rpy:296
 translate chinese e12s03_relax_394ef713:
 
     # vw "What is it?"
-    vw "What is it?"
+    vw "什么事？"
 
 # game/code/e12/e12s03.rpy:297
 translate chinese e12s03_relax_0fda5456:
 
     # aw "I don't think you'll like it."
-    aw "I don't think you'll like it."
+    aw "我想你不会喜欢的。"
 
 # game/code/e12/e12s03.rpy:300
 translate chinese e12s03_relax_4201c708:
 
     # mc "Whatever it is, we're here for you Allison."
-    mc "Whatever it is, we're here for you Allison."
+    mc "不管是什么，我们都会支持你的，艾莉森。"
 
 # game/code/e12/e12s03.rpy:302
 translate chinese e12s03_relax_6a17b7a1:
 
     # aw "I think I need to take a sex break."
-    aw "I think I need to take a sex break."
+    aw "我想我需要在做爱上休息一段时间。"
 
 # game/code/e12/e12s03.rpy:304
 translate chinese e12s03_relax_5729c22f:
 
     # mc "A what?"
-    mc "A what?"
+    mc "什么？"
 
 # game/code/e12/e12s03.rpy:307
 translate chinese e12s03_relax_a74095b1:
 
     # aw "I love you both. So much. And being here, I'm finally free of everything that's been distracting me."
-    aw "I love you both. So much. And being here, I'm finally free of everything that's been distracting me."
+    aw "我爱你们俩，非常爱。在这个地方，我终于摆脱了所有让我分心的事。"
 
 # game/code/e12/e12s03.rpy:308
 translate chinese e12s03_relax_4697c525:
 
     # aw "Except you two. We have \"so much sex\"."
-    aw "Except you two. We have \"so much sex\"."
+    aw "除了你们两个。我们的性生活\"过于丰富了\"。"
 
 # game/code/e12/e12s03.rpy:311
 translate chinese e12s03_relax_be75ea7e:
 
     # aw "And it's incredible. Every. Single. Time. But I know deep down that it's taking away from my training."
-    aw "And it's incredible. Every. Single. Time. But I know deep down that it's taking away from my training."
+    aw "当然这是梦寐以求的事。每一次-都很-美妙。但我也深知它占用了我的训练时间。"
 
 # game/code/e12/e12s03.rpy:312
 translate chinese e12s03_relax_5d67c9a5:
 
     # aw "If I want to do this, if I really want to succeed, I need to throw myself fully into the competition."
-    aw "If I want to do this, if I really want to succeed, I need to throw myself fully into the competition."
+    aw "如果我想参加皮划艇，如果我真的想成功，我必须全身心地投入比赛。"
 
 # game/code/e12/e12s03.rpy:317
 translate chinese e12s03_relax_9342001b:
 
     # vw "I thought you liked having as much sex as we are."
-    vw "I thought you liked having as much sex as we are."
+    vw "我以为你和我们一样喜欢做爱。"
 
 # game/code/e12/e12s03.rpy:319
 translate chinese e12s03_relax_3b4a18ba:
 
     # aw "I am-"
-    aw "I am-"
+    aw "我是喜欢--"
 
 # game/code/e12/e12s03.rpy:320
 translate chinese e12s03_relax_2c767951:
 
     # vw "Like this morning when I was eating your ass and [mcname] had his dick down your throat."
-    vw "Like this morning when I was eating your ass and [mcname] had his dick down your throat."
+    vw "就像今天早上我在吃你的屁股，而[mcname]把他的鸡巴插你喉咙里面。"
 
 # game/code/e12/e12s03.rpy:323
 translate chinese e12s03_relax_aed69eac:
 
     # mc "Or when I was fucking you from behind and Vanessa was licking your clit."
-    mc "Or when I was fucking you from behind and Vanessa was licking your clit."
+    mc "或者我从后面干你的时候，瓦妮莎在舔你的阴蒂。"
 
 # game/code/e12/e12s03.rpy:325
 translate chinese e12s03_relax_3ef0ff08:
