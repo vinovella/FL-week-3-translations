@@ -82,7 +82,7 @@ translate chinese e12s01_e07c5774:
 translate chinese e12s01_31cc689a:
 
     # mc "And the striker is moving in, he weaves in and out of the defenders. He's going for it!."
-    mc 前锋正在向前移动，他在后卫之间来回穿梭。啊，他要进球了！"
+    mc "前锋正在向前移动，他在后卫之间来回穿梭。啊，他要进球了！"
 
 # game/code/e12/e12s01.rpy:137
 translate chinese e12s01_43bb494c:
