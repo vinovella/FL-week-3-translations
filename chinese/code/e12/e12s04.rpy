@@ -922,589 +922,589 @@ translate chinese e12s04_sex_66bf0c4c:
 translate chinese e12s04_sex_17d27595:
 
     # aw "*Moans* Ahhhhh fuuucccck!"
-    aw "*Moans* Ahhhhh fuuucccck!"
+    aw "*呻吟* 啊啊啊啊操！"
 
 # game/code/e12/e12s04.rpy:645
 translate chinese e12s04_sex_3df61a6d:
 
     # vw "Fuck, it's so hot watching you eat Allison out."
-    vw "Fuck, it's so hot watching you eat Allison out."
+    vw "操，看你把艾莉森吃掉的样子真性感。"
 
 # game/code/e12/e12s04.rpy:648
 translate chinese e12s04_sex_e7a0a25f:
 
     # vw "But you can't have all the fun."
-    vw "But you can't have all the fun."
+    vw "但所有的乐趣不能都让你一个人享了。"
 
 # game/code/e12/e12s04.rpy:658
 translate chinese e12s04_sex_9eb0e750:
 
     # vw "And it looks like someone else might be a little neglected."
-    vw "And it looks like someone else might be a little neglected."
+    vw "看来还有人被忽视了。"
 
 # game/code/e12/e12s04.rpy:660
 translate chinese e12s04_sex_eb72b7ff:
 
     # aw "Ooooaaaah!"
-    aw "Ooooaaaah!"
+    aw "噢噢噢噢!"
 
 # game/code/e12/e12s04.rpy:674
 translate chinese e12s04_sex_19405aae:
 
     # vw "God, this is so hot. Fuck that feels great Allison."
-    vw "God, this is so hot. Fuck that feels great Allison."
+    vw "啊，这太性感了。操，感觉真的好爽，艾莉森。"
 
 # game/code/e12/e12s04.rpy:679
 translate chinese e12s04_sex_b699f07d:
 
     # mct "Holy shit, Vanessa's throat feels fucking amazing."
-    mct "Holy shit, Vanessa's throat feels fucking amazing."
+    mct "天啊，瓦妮莎的喉咙真他妈的舒服。"
 
 # game/code/e12/e12s04.rpy:689
 translate chinese e12s04_sex_333067a3:
 
     # aw "Oh fuuuck, I'm close."
-    aw "Oh fuuuck, I'm close."
+    aw "哦，操啊啊啊，我快了。"
 
 # game/code/e12/e12s04.rpy:696
 translate chinese e12s04_sex_d54ade32:
 
     # aw "Oh fuuuuu... I'm cumming!"
-    aw "Oh fuuuuu... I'm cumming!"
+    aw "哦...我要来了！"
 
 # game/code/e12/e12s04.rpy:710
 translate chinese e12s04_sex_45c125e5:
 
     # vw "Mmmm, be a good girl for mommy and don't stop! I'm so close."
-    vw "Mmmm, be a good girl for mommy and don't stop! I'm so close."
+    vw "嗯，做妈妈的乖女儿，别停！我就快高潮了！"
 
 # game/code/e12/e12s04.rpy:712
 translate chinese e12s04_sex_646c4746:
 
     # vw "Mmmm, be a good girl and keep going, I'm almost there."
-    vw "Mmmm, be a good girl and keep going, I'm almost there."
+    vw "嗯，做个乖女孩，继续，我快高潮了！"
 
 # game/code/e12/e12s04.rpy:716
 translate chinese e12s04_sex_be98f5db:
 
     # vw "Yessss."
-    vw "Yessss."
+    vw "啊啊啊好舒服..."
 
 # game/code/e12/e12s04.rpy:720
 translate chinese e12s04_sex_5f03161c:
 
     # vw "Just like that! I'm going to..."
-    vw "Just like that! I'm going to..."
+    vw "就这样！我要..."
 
 # game/code/e12/e12s04.rpy:728
 translate chinese e12s04_sex_399f2998:
 
     # vw "Mmmm, looks like somebody is ready for you sweetie."
-    vw "Mmmm, looks like somebody is ready for you sweetie."
+    vw "嗯，亲爱的，看来有人已经为你准备好了。"
 
 # game/code/e12/e12s04.rpy:735
 translate chinese e12s04_sex_05203f01:
 
     # aw "Fuck I've missed feeling you inside me."
-    aw "Fuck I've missed feeling you inside me."
+    aw "操，我好想念你在我身体里的感觉。"
 
 # game/code/e12/e12s04.rpy:742
 translate chinese e12s04_sex_4104ee10:
 
     # vw "I love watching you have sex with my daughter, [mcname]."
-    vw "I love watching you have sex with my daughter, [mcname]."
+    vw "我喜欢看你和我女儿做爱，[mcname]。"
 
 # game/code/e12/e12s04.rpy:744
 translate chinese e12s04_sex_b8a4b746:
 
     # vw "I love watching you two have sex."
-    vw "I love watching you two have sex."
+    vw "我喜欢看你们做爱。"
 
 # game/code/e12/e12s04.rpy:746
 translate chinese e12s04_sex_d31298cf:
 
     # aw "*Moans* Gooood, that feels so good!"
-    aw "*Moans* Gooood, that feels so good!"
+    aw "*呻吟* 嗯...哈啊~ 我要上天了！"
 
 # game/code/e12/e12s04.rpy:752
 translate chinese e12s04_sex_57e3edb4:
 
     # vw "Do you like watching me play with Allison, [mcname]?"
-    vw "Do you like watching me play with Allison, [mcname]?"
+    vw "你喜欢看我和艾莉森玩吗，[mcname]？"
 
 # game/code/e12/e12s04.rpy:756
 translate chinese e12s04_sex_dad8b548:
 
     # mc "Yes, it's so fucking hot Vanessa."
-    mc "Yes, it's so fucking hot Vanessa."
+    mc "喜欢，你们呈现的画面太惹火了。"
 
 # game/code/e12/e12s04.rpy:759
 translate chinese e12s04_sex_546611ab:
 
     # vw "Do you want to help me make her cum?"
-    vw "Do you want to help me make her cum?"
+    vw "你想帮我让她高潮吗？"
 
 # game/code/e12/e12s04.rpy:763
 translate chinese e12s04_sex_f6a30616:
 
     # mc "Fuck, yes I do."
-    mc "Fuck, yes I do."
+    mc "操，我很乐意。"
 
 # game/code/e12/e12s04.rpy:770
 translate chinese e12s04_sex_71454572:
 
     # aw "Fuck I'm going... I'm going..."
-    aw "Fuck I'm going... I'm going..."
+    aw "操，我要...我要..."
 
 # game/code/e12/e12s04.rpy:773
 translate chinese e12s04_sex_4d614260:
 
     # vw "Do it sweetie."
-    vw "Do it sweetie."
+    vw "来吧，亲爱的。"
 
 # game/code/e12/e12s04.rpy:778
 translate chinese e12s04_sex_b4eb228b:
 
     # aw "Fuuuuuck!"
-    aw "Fuuuuuck!"
+    aw "操啊啊！"
 
 # game/code/e12/e12s04.rpy:787
 translate chinese e12s04_sex_dc372128:
 
     # vw "How about you? Do you want a little extra help?"
-    vw "How about you? Do you want a little extra help?"
+    vw "你呢？你需要额外的帮助吗？"
 
 # game/code/e12/e12s04.rpy:790
 translate chinese e12s04_sex_62a5f03f:
 
     # mc "What are you thinking Vanessa?"
-    mc "What are you thinking Vanessa?"
+    mc "你在想什么，瓦妮莎？"
 
 # game/code/e12/e12s04.rpy:793
 translate chinese e12s04_sex_6fbf19b5:
 
     # vw "Can I give you a rimjob?"
-    vw "Can I give you a rimjob?"
+    vw "我能给你舔肛吗？"
 
 # game/code/e12/e12s04.rpy:807
 translate chinese e12s04_sex_9e52e1cf:
 
     # mc "Vanessa your tongue feels fucking amazing."
-    mc "Vanessa your tongue feels fucking amazing."
+    mc "瓦妮莎，你的舌头真他妈厉害。"
 
 # game/code/e12/e12s04.rpy:811
 translate chinese e12s04_sex_e3bc4a20:
 
     # aw "Fuck it's so hot watching you fuck me and get rimmed."
-    aw "Fuck it's so hot watching you fuck me and get rimmed."
+    aw "妈的，看着你这样干我的同时，后面还有人给你舔肛，真爽啊。"
 
 # game/code/e12/e12s04.rpy:816
 translate chinese e12s04_sex_57d557b6:
 
     # mc "Fuck Vanessa if you keep doing that you're going to make me cum."
-    mc "Fuck Vanessa if you keep doing that you're going to make me cum."
+    mc "操，瓦妮莎，你再这样我就射了。"
 
 # game/code/e12/e12s04.rpy:818
 translate chinese e12s04_sex_cd67d613:
 
     # vw "Can't have you doing that yet."
-    vw "Can't have you doing that yet."
+    vw "现在还不能让你射出来。"
 
 # game/code/e12/e12s04.rpy:831
 translate chinese e12s04_sex_ae9803c5:
 
     # vw "Alright. Maybe some other time."
-    vw "Alright. Maybe some other time."
+    vw "好吧。那改天吧。"
 
 # game/code/e12/e12s04.rpy:837
 translate chinese e12s04_sex_01b1e215:
 
     # vw "I always wondered what it was like to watch Allison cum for your point of view."
-    vw "I always wondered what it was like to watch Allison cum for your point of view."
+    vw "我一直想知道看艾莉森高潮是什么感觉。"
 
 # game/code/e12/e12s04.rpy:841
 translate chinese e12s04_sex_34b3ca1f:
 
     # vw "Make my baby girl cum again. I want to see it."
-    vw "Make my baby girl cum again. I want to see it."
+    vw "让我的宝贝女儿再射一次吧。我想看。"
 
 # game/code/e12/e12s04.rpy:843
 translate chinese e12s04_sex_5c5e4cb1:
 
     # vw "Make Allison cum, I want to see her face when she does."
-    vw "Make Allison cum, I want to see her face when she does."
+    vw "让艾莉森射出来吧。我想看她高潮时的表情。"
 
 # game/code/e12/e12s04.rpy:846
 translate chinese e12s04_sex_1d0d71c0:
 
     # aw "You're not going to have to wait long."
-    aw "You're not going to have to wait long."
+    aw "你不会等太久的。"
 
 # game/code/e12/e12s04.rpy:849
 translate chinese e12s04_sex_7b2b345d:
 
     # aw "Holy shit, holy shit, holy shit!"
-    aw "Holy shit, holy shit, holy shit!"
+    aw "我操，我操，我操！"
 
 # game/code/e12/e12s04.rpy:856
 translate chinese e12s04_sex_69b5bd7f:
 
     # aw "Fuck that was good. I need a minute though."
-    aw "Fuck that was good. I need a minute though."
+    aw "操，太爽了。我需要休整一下。"
 
 # game/code/e12/e12s04.rpy:859
 translate chinese e12s04_sex_06103ac0:
 
     # vw "That's okay honey."
-    vw "That's okay honey."
+    vw "没关系，亲爱的。"
 
 # game/code/e12/e12s04.rpy:862
 translate chinese e12s04_sex_d36f82d9:
 
     # vw "I don't mind taking a turn."
-    vw "I don't mind taking a turn."
+    vw "我不介意咱们转一圈。"
 
 # game/code/e12/e12s04.rpy:865
 translate chinese e12s04_sex_5f031e1b:
 
     # vw "Unless you're too tired."
-    vw "Unless you're too tired."
+    vw "除非你太累了。"
 
 # game/code/e12/e12s04.rpy:868
 translate chinese e12s04_sex_e536cada:
 
     # mc "I'm never too tired for you two."
-    mc "I'm never too tired for you two."
+    mc "为了你们俩，我永远不会觉得累。"
 
 # game/code/e12/e12s04.rpy:890
 translate chinese e12s04_sex_aa562bd9:
 
     # vw "Fuck I've missed doing this with both of you."
-    vw "Fuck I've missed doing this with both of you."
+    vw "妈的，我真想念和你们俩一起做的感觉。"
 
 # game/code/e12/e12s04.rpy:893
 translate chinese e12s04_sex_2e77e7d0:
 
     # aw "I've missed it too."
-    aw "I've missed it too."
+    aw "我也很怀念。"
 
 # game/code/e12/e12s04.rpy:895
 translate chinese e12s04_sex_bc5ee63a:
 
     # vw "It feels so good with his dick buried inside me."
-    vw "It feels so good with his dick buried inside me."
+    vw "他的老二埋在我身体里的感觉真好。"
 
 # game/code/e12/e12s04.rpy:898
 translate chinese e12s04_sex_586570ec:
 
     # aw "I know exactly what you mean."
-    aw "I know exactly what you mean."
+    aw "我完全明白你的意思。"
 
 # game/code/e12/e12s04.rpy:913
 translate chinese e12s04_sex_57444b34:
 
     # aw "I'm ready for more now."
-    aw "I'm ready for more now."
+    aw "我已经准备好承受更多了。"
 
 # game/code/e12/e12s04.rpy:916
 translate chinese e12s04_sex_2106ca4a:
 
     # vw "Let me take care of you."
-    vw "Let me take care of you."
+    vw "让我来照顾你。"
 
 # game/code/e12/e12s04.rpy:926
 translate chinese e12s04_sex_6aa1e469:
 
     # aw "Fuck, your tongue feels so good."
-    aw "Fuck, your tongue feels so good."
+    aw "操，你的舌头感觉好灵活。"
 
 # game/code/e12/e12s04.rpy:929
 translate chinese e12s04_sex_705734de:
 
     # vw "Those are already so sensitive!"
-    vw "Those are already so sensitive!"
+    vw "你这就这么敏感了！"
 
 # game/code/e12/e12s04.rpy:931
 translate chinese e12s04_sex_7b471f6f:
 
     # mc "Good."
-    mc "Good."
+    mc "很好。"
 
 # game/code/e12/e12s04.rpy:934
 translate chinese e12s04_sex_2910d889:
 
     # vw "Shit!"
-    vw "Shit!"
+    vw "靠！"
 
 # game/code/e12/e12s04.rpy:937
 translate chinese e12s04_sex_30d2aa38:
 
     # aw "Ohhhh!"
-    aw "Ohhhh!"
+    aw "噢噢噢！"
 
 # game/code/e12/e12s04.rpy:951
 translate chinese e12s04_sex_7de95f53:
 
     # aw "Oh shit. I'm sorry, Mom."
-    aw "Oh shit. I'm sorry, Mom."
+    aw "我靠。对不起，妈妈。"
 
 # game/code/e12/e12s04.rpy:953
 translate chinese e12s04_sex_bbedb01f:
 
     # aw "Oh shit, sorry Vanessa."
-    aw "Oh shit, sorry Vanessa."
+    aw "我靠。对不起，瓦妮莎。"
 
 # game/code/e12/e12s04.rpy:956
 translate chinese e12s04_sex_1f158747:
 
     # vw "It's okay sweetie, I don't mind."
-    vw "It's okay sweetie, I don't mind."
+    vw "没关系，亲爱的，我不介意。"
 
 # game/code/e12/e12s04.rpy:959
 translate chinese e12s04_sex_25a014a0:
 
     # aw "Damn, someone's feeling a little extra raunchy today."
-    aw "Damn, someone's feeling a little extra raunchy today."
+    aw "该死，感觉今天有人特别淫荡呢。"
 
 # game/code/e12/e12s04.rpy:962
 translate chinese e12s04_sex_4b10b5bd:
 
     # vw "Maybe it's the pregnancy hormones."
-    vw "Maybe it's the pregnancy hormones."
+    vw "也许是妊娠激素的作用。"
 
 # game/code/e12/e12s04.rpy:965
 translate chinese e12s04_sex_7fa5f0ce:
 
     # mc "Whatever it is, it's hot."
-    mc "Whatever it is, it's hot."
+    mc "不管是什么，都很性感。"
 
 # game/code/e12/e12s04.rpy:968
 translate chinese e12s04_sex_f1d5d161:
 
     # aw "Hell yes it is."
-    aw "Hell yes it is."
+    aw "操，说的没错。"
 
 # game/code/e12/e12s04.rpy:971
 translate chinese e12s04_sex_69034395:
 
     # vw "Not as hot as you two fucking though. Come on [mcname], it's her turn again."
-    vw "Not as hot as you two fucking though. Come on [mcname], it's her turn again."
+    vw "不过没有你们俩做爱那么惹火。来吧[mcname]，又轮到她了。"
 
 # game/code/e12/e12s04.rpy:978
 translate chinese e12s04_sex_d9e4585e:
 
     # aw "Fuuuck, is this what it was like?"
-    aw "Fuuuck, is this what it was like?"
+    aw "我操，就像这种感觉吗？"
 
 # game/code/e12/e12s04.rpy:981
 translate chinese e12s04_sex_c68a4108:
 
     # vw "Like?"
-    vw "Like?"
+    vw "哪种？"
 
 # game/code/e12/e12s04.rpy:1003
 translate chinese e12s04_sex_5d7b3730:
 
     # aw "Is this what it was like when [mcname] put a baby in you?"
-    aw "Is this what it was like when [mcname] put a baby in you?"
+    aw "[mcname]把孩子放进你肚子里的时候，就是这种感觉吗？"
 
 # game/code/e12/e12s04.rpy:1006
 translate chinese e12s04_sex_057867da:
 
     # vw "Yes sweetie, it was."
-    vw "Yes sweetie, it was."
+    vw "是的，亲爱的，就是这样。"
 
 # game/code/e12/e12s04.rpy:1014
 translate chinese e12s04_sex_e946c935:
 
     # aw "Mmmm, yessss. Just like that. I'm going to cum again, shit."
-    aw "Mmmm, yessss. Just like that. I'm going to cum again, shit."
+    aw "嗯~ 我喜欢。就像这样。我又要高潮了，妈的！"
 
 # game/code/e12/e12s04.rpy:1023
 translate chinese e12s04_sex_afe6241e:
 
     # mc "God it's so hot watching you two kiss."
-    mc "God it's so hot watching you two kiss."
+    mc "天啊，看你们俩接吻真刺激。"
 
 # game/code/e12/e12s04.rpy:1026
 translate chinese e12s04_sex_cc6a00fc:
 
     # vw "I feel the same way watching you fuck Allison."
-    vw "I feel the same way watching you fuck Allison."
+    vw "看着你和艾莉森做爱，我也有同样的感觉。"
 
 # game/code/e12/e12s04.rpy:1029
 translate chinese e12s04_sex_bfb082b9:
 
     # mc "I've missed this. I've missed this so much."
-    mc "I've missed this. I've missed this so much."
+    mc "我好怀念这个。真是想死我了。"
 
 # game/code/e12/e12s04.rpy:1032
 translate chinese e12s04_sex_64ed4a2a:
 
     # aw "Me too."
-    aw "Me too."
+    aw "我也是。"
 
 # game/code/e12/e12s04.rpy:1044
 translate chinese e12s04_sex_3b5133f3:
 
     # mc "Goddamn. I don't know how much longer I can last watching you two."
-    mc "Goddamn. I don't know how much longer I can last watching you two."
+    mc "该死。我不知道这样看着你们俩，我还能撑多久。"
 
 # game/code/e12/e12s04.rpy:1048
 translate chinese e12s04_sex_79e4477d:
 
     # vw "Mmm, if that's the case spin her on to her back again."
-    vw "Mmm, if that's the case spin her on to her back again."
+    vw "嗯，如果是这样的话，再把她翻过来。"
 
 # game/code/e12/e12s04.rpy:1059
 translate chinese e12s04_sex_f9798087:
 
     # vw "For the rest of my life, I will never be able to get enough of this."
-    vw "For the rest of my life, I will never be able to get enough of this."
+    vw "这样香艳的画面，我这辈子都看不够。"
 
 # game/code/e12/e12s04.rpy:1066
 translate chinese e12s04_sex_cb82f864:
 
     # mc "I'm close."
-    mc "I'm close."
+    mc "我快了。"
 
 # game/code/e12/e12s04.rpy:1067
 translate chinese e12s04_sex_81c01b6b_1:
 
     # vw "Me too."
-    vw "Me too."
+    vw "我也是。"
 
 # game/code/e12/e12s04.rpy:1076
 translate chinese e12s04_sex_7ae07a1a:
 
     # vw "Allison if you keep doing that I'm going to."
-    vw "Allison if you keep doing that I'm going to."
+    vw "艾莉森，如果你再这样，我就要--"
 
 # game/code/e12/e12s04.rpy:1080
 translate chinese e12s04_sex_5eef409c:
 
     # vw "Cuuuuum!"
-    vw "Cuuuuum!"
+    vw "来了啊啊！"
 
 # game/code/e12/e12s04.rpy:1083
 translate chinese e12s04_sex_c48827d5:
 
     # aw "I'm cumming too!"
-    aw "I'm cumming too!"
+    aw "我也要射了！"
 
 # game/code/e12/e12s04.rpy:1085
 translate chinese e12s04_sex_0b19ad2f:
 
     # mc "Fuck, it's too hot, I'm about to cum as well!"
-    mc "Fuck, it's too hot, I'm about to cum as well!"
+    mc "操，太要命了，我也要射了！"
 
 # game/code/e12/e12s04.rpy:1087
 translate chinese e12s04_sex_96229094:
 
     # aw "Not in me! Don't cum inside me!"
-    aw "Not in me! Don't cum inside me!"
+    aw "别在里面！别射我里面！"
 
 # game/code/e12/e12s04.rpy:1097
 translate chinese e12s04_sex_8d242b59:
 
     # vw "You two sure did make a mess."
-    vw "You two sure did make a mess."
+    vw "你们俩真是把身上弄得一团糟。"
 
 # game/code/e12/e12s04.rpy:1101
 translate chinese e12s04_sex_2f44ab71:
 
     # vw "Let your mommy clean that up for you."
-    vw "Let your mommy clean that up for you."
+    vw "让你妈妈帮你们清理干净。"
 
 # game/code/e12/e12s04.rpy:1103
 translate chinese e12s04_sex_0bb0c935:
 
     # vw "Let me clean that up for you two."
-    vw "Let me clean that up for you two."
+    vw "让我来帮你们清理干净。"
 
 # game/code/e12/e12s04.rpy:1118
 translate chinese e12s04_end_8af0e738:
 
     # vw "God I've missed doing this with you."
-    vw "God I've missed doing this with you."
+    vw "天啊，我真想念和你一起做这个。"
 
 # game/code/e12/e12s04.rpy:1121
 translate chinese e12s04_end_5b7159dd:
 
     # mc "I feel the same way."
-    mc "I feel the same way."
+    mc "我也有同感。"
 
 # game/code/e12/e12s04.rpy:1124
 translate chinese e12s04_end_d0e06a9e:
 
     # aw "I know. But I still do need to take a break."
-    aw "I know. But I still do need to take a break."
+    aw "我知道。但我还是需要休息一下。"
 
 # game/code/e12/e12s04.rpy:1127
 translate chinese e12s04_end_f60e25c4:
 
     # mc "We know. That's okay, this was great no matter what."
-    mc "We know. That's okay, this was great no matter what."
+    mc "我们很理解你。没关系，不管怎样，我们都很开心。"
 
 # game/code/e12/e12s04.rpy:1130
 translate chinese e12s04_end_c3b2a117:
 
     # vw "It sounds like you figured out if you wanted to get pregnant or not though."
-    vw "It sounds like you figured out if you wanted to get pregnant or not though."
+    vw "听起来你已经想好要不要怀孕了。"
 
 # game/code/e12/e12s04.rpy:1133
-translate chinese e12s04_end_5385730d:
+Translate Chinese e12s04_end_5385730d:
 
     # aw "What do you mean?"
-    aw "What do you mean?"
+    aw "什么意思？"
 
 # game/code/e12/e12s04.rpy:1136
 translate chinese e12s04_end_b71f1b9b:
 
     # vw "You told [mcname] not to cum in you."
-    vw "You told [mcname] not to cum in you."
+    vw "你告诉[mcname]不要射在你里面。"
 
 # game/code/e12/e12s04.rpy:1139
 translate chinese e12s04_end_cc81cf2e:
 
     # aw "Yeah, so?"
-    aw "Yeah, so?"
+    aw "是啊，所以呢？"
 
 # game/code/e12/e12s04.rpy:1142
 translate chinese e12s04_end_802eda65:
 
     # vw "So?"
-    vw "So?"
+    vw "这还不清楚吗？"
 
 # game/code/e12/e12s04.rpy:1145
 translate chinese e12s04_end_688c7c38:
 
     # aw "I haven't decided anything yet. I just..."
-    aw "I haven't decided anything yet. I just..."
+    aw "我还没做任何决定呢。我只是..."
 
 # game/code/e12/e12s04.rpy:1146
 translate chinese e12s04_end_66ba040b:
 
     # aw "Can we not talk about it right now? I just want to enjoy this moment."
-    aw "Can we not talk about it right now? I just want to enjoy this moment."
+    aw "我们现在能不谈这个吗？我只想享受这一刻。"
 
 # game/code/e12/e12s04.rpy:1149
 translate chinese e12s04_end_f520d18d:
 
     # vw "Sure sweetie. Anything you want."
-    vw "Sure sweetie. Anything you want."
+    vw "当然可以，亲爱的。你想要什么都行。"
 
 translate chinese strings:
 
     # game/code/e12/e12s04.rpy:57
     old "Two months later"
-    new "Two months later"
+    new "两个月后"
 
     # game/code/e12/e12s04.rpy:794
     old "That sounds fucking amazing, Vanessa."
-    new "That sounds fucking amazing, Vanessa."
+    new "听起来也太棒了吧，瓦妮莎"
 
     # game/code/e12/e12s04.rpy:794
     old "I'm good Vanessa."
-    new "I'm good Vanessa."
+    new "我很好，瓦妮莎"
 
