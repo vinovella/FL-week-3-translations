@@ -4,643 +4,643 @@
 translate chinese e12s05_669664cb:
 
     # mc "Hey."
-    mc "Hey."
+    mc "嘿。"
 
 # game/code/e12/e12s05.rpy:112
 translate chinese e12s05_141503e9:
 
     # aw "Hey."
-    aw "Hey."
+    aw "嘿。"
 
 # game/code/e12/e12s05.rpy:115
 translate chinese e12s05_ce02ebf1:
 
     # mc "I didn't know they were still letting you use the gym here."
-    mc "I didn't know they were still letting you use the gym here."
+    mc "我不知道他们还让你用这里的健身房。"
 
 # game/code/e12/e12s05.rpy:117
 translate chinese e12s05_3b81d355:
 
     # aw "Nobody ever uses it, so the hotel didn't care."
-    aw "Nobody ever uses it, so the hotel didn't care."
+    aw "没人用过，所以酒店也不在乎。"
 
 # game/code/e12/e12s05.rpy:121
 translate chinese e12s05_603694c9:
 
     # mc "I've been looking around for you."
-    mc "I've been looking around for you."
+    mc "我一直在找你。"
 
 # game/code/e12/e12s05.rpy:123
 translate chinese e12s05_87cd8fba:
 
     # aw "What's up."
-    aw "What's up."
+    aw "有事么？"
 
 # game/code/e12/e12s05.rpy:127
 translate chinese e12s05_371a23c5:
 
     # mc "You've just been a bit distant since last week."
-    mc "You've just been a bit distant since last week."
+    mc "你从上周开始就有点疏远我。"
 
 # game/code/e12/e12s05.rpy:129
 translate chinese e12s05_9e5e23ee:
 
     # aw "Just buckling down on training."
-    aw "Just buckling down on training."
+    aw "我只是在加紧训练。"
 
 # game/code/e12/e12s05.rpy:132
 translate chinese e12s05_2689b56d:
 
     # mc "That's it?"
-    mc "That's it?"
+    mc "就这样？"
 
 # game/code/e12/e12s05.rpy:134
 translate chinese e12s05_aa25011d:
 
     # aw "Yep."
-    aw "Yep."
+    aw "就这样。"
 
 # game/code/e12/e12s05.rpy:137
 translate chinese e12s05_8ea6caae:
 
     # mc "Allison, you know you can talk to me, right?"
-    mc "Allison, you know you can talk to me, right?"
+    mc "艾莉森，你知道，有什么话，你可以跟我谈，对吗？"
 
 # game/code/e12/e12s05.rpy:139
 translate chinese e12s05_6da3fe67:
 
     # aw "There's nothing to talk about."
-    aw "There's nothing to talk about."
+    aw "没什么好谈的。"
 
 # game/code/e12/e12s05.rpy:140
 translate chinese e12s05_37aaed28:
 
     # mc "Uh-huh."
-    mc "Uh-huh."
+    mc "啊哈。"
 
 # game/code/e12/e12s05.rpy:143
 translate chinese e12s05_0dacb0fa:
 
     # mct "Man, she is really playing tough today. Time to turn it up a notch I guess."
-    mct "Man, she is really playing tough today. Time to turn it up a notch I guess."
+    mct "天啊，她今天真的很强势。看来我得加大点力度了。"
 
 # game/code/e12/e12s05.rpy:147
 translate chinese e12s05_8c454763:
 
     # mc "Allison."
-    mc "Allison."
+    mc "艾莉森。"
 
 # game/code/e12/e12s05.rpy:149
 translate chinese e12s05_73ecf938:
 
     # aw "What [mcname]."
-    aw "What [mcname]."
+    aw "叫我干嘛。"
 
 # game/code/e12/e12s05.rpy:152
 translate chinese e12s05_c3235565:
 
     # mc "What the hell is going on. You're not really sleeping at home anymore, you're always gone."
-    mc "What the hell is going on. You're not really sleeping at home anymore, you're always gone."
+    mc "这到底是怎么回事。你不再在家睡觉了，你总是不在家。"
 
 # game/code/e12/e12s05.rpy:154
 translate chinese e12s05_a191889b:
 
     # aw "I told you, just-"
-    aw "I told you, just-"
+    aw "我告诉过你，只是--"
 
 # game/code/e12/e12s05.rpy:157
 translate chinese e12s05_5cacd0ea:
 
     # mc "Bull shit."
-    mc "Bull shit."
+    mc "你在胡说。"
 
 # game/code/e12/e12s05.rpy:159
 translate chinese e12s05_48e7518b:
 
     # aw "What?"
-    aw "What?"
+    aw "什么？"
 
 # game/code/e12/e12s05.rpy:162
 translate chinese e12s05_b0210552:
 
     # mc "This isn't just training Allison."
-    mc "This isn't just training Allison."
+    mc "明明不仅仅是训练的原因。艾莉森。"
 
 # game/code/e12/e12s05.rpy:164
 translate chinese e12s05_c745aae5:
 
     # aw "It is."
-    aw "It is."
+    aw "就是训练的原因。"
 
 # game/code/e12/e12s05.rpy:167
 translate chinese e12s05_53d29b29:
 
     # mc "Please Allison, just talk to me."
-    mc "Please Allison, just talk to me."
+    mc "求你了，艾莉森。跟我说说吧。"
 
 # game/code/e12/e12s05.rpy:170
 translate chinese e12s05_5a224d36:
 
     # aw "Maybe I'm still upset with you and Mom."
-    aw "Maybe I'm still upset with you and Mom."
+    aw "也许我还在生你和妈妈的气。"
 
 # game/code/e12/e12s05.rpy:172
 translate chinese e12s05_34bfb60d:
 
     # aw "Maybe I'm still upset with you and Vanessa."
-    aw "Maybe I'm still upset with you and Vanessa."
+    aw "也许我还在生你和瓦妮莎的气。"
 
 # game/code/e12/e12s05.rpy:173
 translate chinese e12s05_ba62e8fd:
 
     # mc "Okay... You know you can tell us that, right?"
-    mc "Okay... You know you can tell us that, right?"
+    mc "好吧...你知道你可以跟我们直说的，对吗？"
 
 # game/code/e12/e12s05.rpy:176
 translate chinese e12s05_7a8d1daf:
 
     # aw "Okay."
-    aw "Okay."
+    aw "好吧。"
 
 # game/code/e12/e12s05.rpy:178
 translate chinese e12s05_1b199792:
 
     # mc "Okay?"
-    mc "Okay?"
+    mc "怎么回事？"
 
 # game/code/e12/e12s05.rpy:186
 translate chinese e12s05_5377d77e:
 
     # aw "I'm upset with you and Mom."
-    aw "I'm upset with you and Mom."
+    aw "我对你和妈妈很不满。"
 
 # game/code/e12/e12s05.rpy:188
 translate chinese e12s05_f3b2ff5f:
 
     # aw "I'm upset with you and Vanessa."
-    aw "I'm upset with you and Vanessa."
+    aw "我对你和瓦妮莎很不满。"
 
 # game/code/e12/e12s05.rpy:190
 translate chinese e12s05_e77f3218:
 
     # mc "This is a good start-"
-    mc "This is a good start-"
+    mc "这是个好的开始--"
 
 # game/code/e12/e12s05.rpy:191
 translate chinese e12s05_0ad16276:
 
     # aw "I want to be pregnant."
-    aw "I want to be pregnant."
+    aw "我想怀孕。"
 
 # game/code/e12/e12s05.rpy:194
 translate chinese e12s05_ee8d0e6c:
 
     # mc "Is that what you want?"
-    mc "Is that what you want?"
+    mc "你想要的就是这个吗？"
 
 # game/code/e12/e12s05.rpy:196
 translate chinese e12s05_78f8e3de:
 
     # aw "Yes. No. I..."
-    aw "Yes. No. I..."
+    aw "是的，不，我..."
 
 # game/code/e12/e12s05.rpy:200
 translate chinese e12s05_3481c3e2:
 
     # aw "Fuck, I don't know."
-    aw "Fuck, I don't know."
+    aw "操，我不知道。"
 
 # game/code/e12/e12s05.rpy:204
 translate chinese e12s05_ec6d0871:
 
     # mc "What the hell is going on Allison."
-    mc "What the hell is going on Allison."
+    mc "艾莉森，到底怎么了？"
 
 # game/code/e12/e12s05.rpy:207
 translate chinese e12s05_52f5eb4b:
 
     # aw "I'm upset... I want... I want to be pregnant with Mom."
-    aw "I'm upset... I want... I want to be pregnant with Mom."
+    aw "我很难过...我想...我想和妈妈一起怀孕。"
 
 # game/code/e12/e12s05.rpy:209
 translate chinese e12s05_b3154bcd:
 
     # aw "I'm upset... I want... I want to be pregnant with Vanessa."
-    aw "I'm upset... I want... I want to be pregnant with Vanessa."
+    aw "我很难过...我想...我想和瓦妮莎一起怀孕。"
 
 # game/code/e12/e12s05.rpy:212
 translate chinese e12s05_3b6eb1a5:
 
     # aw "But I also want to compete. I 'need' to compete. I've finally found the drive to compete and..."
-    aw "But I also want to compete. I 'need' to compete. I've finally found the drive to compete and..."
+    aw "但我也想参加比赛，我'需要'参加比赛。我终于获得了比赛的动力，结果..."
 
 # game/code/e12/e12s05.rpy:213
 translate chinese e12s05_8678883e:
 
     # aw "I don't know what to do."
-    aw "I don't know what to do."
+    aw "我不知道该怎么办。"
 
 # game/code/e12/e12s05.rpy:215
 translate chinese e12s05_fabc6dc5:
 
     # mc "Allison..."
-    mc "Allison..."
+    mc "艾莉森..."
 
 # game/code/e12/e12s05.rpy:219
 translate chinese e12s05_da378bf3:
 
     # mc "That's a lot. It's okay to be upset."
-    mc "That's a lot. It's okay to be upset."
+    mc "确实发生了很多事。你是可以感到难过的。"
 
 # game/code/e12/e12s05.rpy:221
 translate chinese e12s05_d86c8a29:
 
     # aw "Why couldn't you two just wait for me?"
-    aw "Why couldn't you two just wait for me?"
+    aw "你们俩为什么不等我呢？"
 
 # game/code/e12/e12s05.rpy:224
 translate chinese e12s05_2bd7491a:
 
     # mc "We didn't plan on Vanessa getting pregnant."
-    mc "We didn't plan on Vanessa getting pregnant."
+    mc "我们没打算让瓦妮莎怀孕。"
 
 # game/code/e12/e12s05.rpy:226
 translate chinese e12s05_b66b0976:
 
     # aw "You know that doesn't make it any better, right?"
-    aw "You know that doesn't make it any better, right?"
+    aw "你知道这个解释并不能让事情变得更好，对吧？"
 
 # game/code/e12/e12s05.rpy:227
 translate chinese e12s05_2485f494:
 
     # mc "I..."
-    mc "I..."
+    mc "我..."
 
 # game/code/e12/e12s05.rpy:230
 translate chinese e12s05_25b086e4:
 
     # aw "That could have been me."
-    aw "That could have been me."
+    aw "那本可能是我。"
 
 # game/code/e12/e12s05.rpy:232
 translate chinese e12s05_b50514d1:
 
     # mc "What are you saying?"
-    mc "What are you saying?"
+    mc "你在说什么？"
 
 # game/code/e12/e12s05.rpy:233
 translate chinese e12s05_095c514a:
 
     # aw "We've been fucking just as long. And at any moment..."
-    aw "We've been fucking just as long. And at any moment..."
+    aw "我们做爱的时间一样长，也是随时..."
 
 # game/code/e12/e12s05.rpy:236
 translate chinese e12s05_d01793b7:
 
     # aw "I could have gotten pregnant. Then I would be... Out of the Iron Kayak..."
-    aw "I could have gotten pregnant. Then I would be... Out of the Iron Kayak..."
+    aw "我本来可以怀孕的。那我就...离开铁皮艇..."
 
 # game/code/e12/e12s05.rpy:238
 translate chinese e12s05_6a6d0fbe:
 
     # mc "Well what do you want Allison?"
-    mc "Well what do you want Allison?"
+    mc "艾莉森，你想要什么？"
 
 # game/code/e12/e12s05.rpy:242
 translate chinese e12s05_878c448f:
 
     # aw "I don't know! Don't you get it? I want both!"
-    aw "I don't know! Don't you get it? I want both!"
+    aw "我不知道！你还不明白吗？我两个都想要！"
 
 # game/code/e12/e12s05.rpy:243
 translate chinese e12s05_08bbce8c:
 
     # aw "It's killing me."
-    aw "It's killing me."
+    aw "我快被折磨疯了！"
 
 # game/code/e12/e12s05.rpy:247
 translate chinese e12s05_1dfd08ef:
 
     # mc "It's okay. I didn't know that this was going to be so hard on you."
-    mc "It's okay. I didn't know that this was going to be so hard on you."
+    mc "没关系。我不知道这对你来说会如此艰难。"
 
 # game/code/e12/e12s05.rpy:248
 translate chinese e12s05_6235edad:
 
     # mc "If I had any idea of what this was going to do to you, I never would have gotten Vanessa pregnant."
-    mc "If I had any idea of what this was going to do to you, I never would have gotten Vanessa pregnant."
+    mc "如果我知道这会对你造成什么影响，我就不会让瓦妮莎怀孕了。"
 
 # game/code/e12/e12s05.rpy:252
 translate chinese e12s05_2713ae8d:
 
     # aw "This doesn't mean that I'm not upset with you anymore."
-    aw "This doesn't mean that I'm not upset with you anymore."
+    aw "这并不意味着我不再生你的气了。"
 
 # game/code/e12/e12s05.rpy:254
 translate chinese e12s05_cfcc2293:
 
     # mc "I know."
-    mc "I know."
+    mc "我知道。"
 
 # game/code/e12/e12s05.rpy:255
 translate chinese e12s05_de6112d1:
 
     # aw "But thank you."
-    aw "But thank you."
+    aw "但还是谢谢你。"
 
 # game/code/e12/e12s05.rpy:258
 translate chinese e12s05_d5c41c4f:
 
     # mc "Vanessa and I are here for you, no matter what."
-    mc "Vanessa and I are here for you, no matter what."
+    mc "无论发生什么事，瓦妮莎和我都会支持你的。"
 
 # game/code/e12/e12s05.rpy:260
 translate chinese e12s05_118acfad:
 
     # aw "I know that."
-    aw "I know that."
+    aw "我知道。"
 
 # game/code/e12/e12s05.rpy:263
 translate chinese e12s05_092815ee:
 
     # mc "You just need to talk to us."
-    mc "You just need to talk to us."
+    mc "你只需要和我们说出来。"
 
 # game/code/e12/e12s05.rpy:265
 translate chinese e12s05_f850877c:
 
     # aw "I know that too..."
-    aw "I know that too..."
+    aw "这我也知道..."
 
 # game/code/e12/e12s05.rpy:268
 translate chinese e12s05_a8c8d9c9:
 
     # mc "We both love you."
-    mc "We both love you."
+    mc "我们都爱你。"
 
 # game/code/e12/e12s05.rpy:270
 translate chinese e12s05_843c74c1:
 
     # aw "And I love you both too."
-    aw "And I love you both too."
+    aw "我也爱你们。"
 
 # game/code/e12/e12s05.rpy:279
 translate chinese e12s05_4c5b4a39:
 
     # mc "Getting a little feisty."
-    mc "Getting a little feisty."
+    mc "我开始有点耐不住了。"
 
 # game/code/e12/e12s05.rpy:281
 translate chinese e12s05_6f811f60:
 
     # aw "I have been getting my blood pumping."
-    aw "I have been getting my blood pumping."
+    aw "我已经热血沸腾了。"
 
 # game/code/e12/e12s05.rpy:282
 translate chinese e12s05_e0a93125:
 
     # aw "Do you know how horny I get when I work out?"
-    aw "Do you know how horny I get when I work out?"
+    aw "你知道我锻炼的时候有多饥渴吗？"
 
 # game/code/e12/e12s05.rpy:285
 translate chinese e12s05_eda6a5ba:
 
     # mc "Sounds like we should mix up your cardio workout."
-    mc "Sounds like we should mix up your cardio workout."
+    mc "听起来我们应该把你的有氧运动混在一起。"
 
 # game/code/e12/e12s05.rpy:287
 translate chinese e12s05_b32451cd:
 
     # aw "Got any ideas?"
-    aw "Got any ideas?"
+    aw "有什么主意吗？"
 
 # game/code/e12/e12s05.rpy:288
 translate chinese e12s05_5bf0eaef:
 
     # mc "A few."
-    mc "A few."
+    mc "有几个呢。"
 
 # game/code/e12/e12s05.rpy:308
 translate chinese e12s05_sex_4f85a28d:
 
     # aw "Mmmm, that feels good."
-    aw "Mmmm, that feels good."
+    aw "嗯，感觉不错。"
 
 # game/code/e12/e12s05.rpy:311
 translate chinese e12s05_sex_16c8ce30:
 
     # aw "You hit all the right spots [mcname]."
-    aw "You hit all the right spots [mcname]."
+    aw "你的动作都很到位，[mcname]。"
 
 # game/code/e12/e12s05.rpy:315
 translate chinese e12s05_sex_0eb0366c:
 
     # mc "Do you have any wrong spots?"
-    mc "Do you have any wrong spots?"
+    mc "你有哪里不希望被碰到吗？"
 
 # game/code/e12/e12s05.rpy:317
 translate chinese e12s05_sex_55282314:
 
     # aw "Nope. But a few are better than others."
-    aw "Nope. But a few are better than others."
+    aw "没有。但有几个地方比其他地带更敏感。"
 
 # game/code/e12/e12s05.rpy:320
 translate chinese e12s05_sex_200b35e4:
 
     # aw "Would you like to see one of the better places?"
-    aw "Would you like to see one of the better places?"
+    aw "你想探索看看其中一处天堂吗？"
 
 # game/code/e12/e12s05.rpy:322
 translate chinese e12s05_sex_fc86e50b:
 
     # mc "Show me."
-    mc "Show me."
+    mc "你带我去。"
 
 # game/code/e12/e12s05.rpy:328
 translate chinese e12s05_sex_8e7059e5:
 
     # aw "Fuck that's definitely one of the better spots."
-    aw "Fuck that's definitely one of the better spots."
+    aw "操，这绝对是其中一个好去处。"
 
 # game/code/e12/e12s05.rpy:331
 translate chinese e12s05_sex_fe29064d:
 
     # aw "I'm - Jesus - I'm already cumming!"
-    aw "I'm - Jesus - I'm already cumming!"
+    aw "我--天啊--我已经射了！"
 
 # game/code/e12/e12s05.rpy:341
 translate chinese e12s05_sex_07c576f0:
 
     # aw "Keep going, I'm going to cum again."
-    aw "Keep going, I'm going to cum again."
+    aw "继续，我又要喷了！"
 
 # game/code/e12/e12s05.rpy:359
 translate chinese e12s05_sex_ff3e261b:
 
     # aw "Yes, right there, yes!"
-    aw "Yes, right there, yes!"
+    aw "对，就在那儿，对！"
 
 # game/code/e12/e12s05.rpy:360
 translate chinese e12s05_sex_ce5697fb:
 
     # aw "There it is, fuck!"
-    aw "There it is, fuck!"
+    aw "就在那儿，操！"
 
 # game/code/e12/e12s05.rpy:368
 translate chinese e12s05_sex_87e97baf:
 
     # aw "Holy shit [mcname]."
-    aw "Holy shit [mcname]."
+    aw "我的天啊，[mcname]."
 
 # game/code/e12/e12s05.rpy:369
 translate chinese e12s05_sex_671c891f:
 
     # aw "We should do this one more often."
-    aw "We should do this one more often."
+    aw "我们应该多来几次。"
 
 # game/code/e12/e12s05.rpy:374
 translate chinese e12s05_sex_430e6871:
 
     # aw "FUCK [mcname]! You gotta give me some warning-"
-    aw "FUCK [mcname]! You gotta give me some warning-"
+    aw "操[mcname]！你得先给我点提示--"
 
 # game/code/e12/e12s05.rpy:375
 translate chinese e12s05_sex_a1877ae8:
 
     # aw "After this next one, I'm going to need a break."
-    aw "After this next one, I'm going to need a break."
+    aw "做完这个之后，我需要休息一下。"
 
 # game/code/e12/e12s05.rpy:379
 translate chinese e12s05_sex_5b36eabf:
 
     # mc "Then I'll have to make this next one count."
-    mc "Then I'll have to make this next one count."
+    mc "那我就得让下一次更精彩。"
 
 # game/code/e12/e12s05.rpy:383
 translate chinese e12s05_sex_c6d477c6:
 
     # aw "Yes, yes, yes!"
-    aw "Yes, yes, yes!"
+    aw "啊啊啊好爽！"
 
 # game/code/e12/e12s05.rpy:392
 translate chinese e12s05_sex_02e91aa7:
 
     # aw "Fu... Fuh... Put... Me down."
-    aw "Fu... Fuh... Put... Me down."
+    aw "次...奥...把我...放下来。"
 
 # game/code/e12/e12s05.rpy:402
 translate chinese e12s05_sex_7a02fcb8:
 
     # vw "Hope I'm not interrupting you two."
-    vw "Hope I'm not interrupting you two."
+    vw "希望我没有打扰到你们俩。"
 
 # game/code/e12/e12s05.rpy:405
 translate chinese e12s05_sex_4d81266d:
 
     # aw "Hey Mom."
-    aw "Hey Mom."
+    aw "嘿，妈妈。"
 
 # game/code/e12/e12s05.rpy:407
 translate chinese e12s05_sex_4d9dd7bd:
 
     # aw "Hey Vanessa."
-    aw "Hey Vanessa."
+    aw "嘿，瓦妮莎。"
 
 # game/code/e12/e12s05.rpy:410
 translate chinese e12s05_sex_9d83a8e2:
 
     # mc "What are you doing here?"
-    mc "What are you doing here?"
+    mc "你怎么来这儿了？"
 
 # game/code/e12/e12s05.rpy:411
 translate chinese e12s05_sex_ae5e81c2:
 
     # vw "I wanted to bring Allison a protein shake."
-    vw "I wanted to bring Allison a protein shake."
+    vw "我想给艾莉森带蛋白质奶昔。"
 
 # game/code/e12/e12s05.rpy:412
 translate chinese e12s05_sex_5fcf8fca:
 
     # vw "I made a promise that I'd take care of my star athlete."
-    vw "I made a promise that I'd take care of my star athlete."
+    vw "我答应过要照顾我的明星运动员的。"
 
 # game/code/e12/e12s05.rpy:418
 translate chinese e12s05_sex_b3a8f4bd:
 
     # aw "Thanks Mom."
-    aw "Thanks Mom."
+    aw "谢谢妈妈。"
 
 # game/code/e12/e12s05.rpy:420
 translate chinese e12s05_sex_a7ca40ba:
 
     # aw "Thanks Vanessa."
-    aw "Thanks Vanessa."
+    aw "谢谢瓦妮莎。"
 
 # game/code/e12/e12s05.rpy:423
 translate chinese e12s05_sex_61646006:
 
     # vw "Of course sweetie."
-    vw "Of course sweetie."
+    vw "当然，亲爱的。"
 
 # game/code/e12/e12s05.rpy:424
 translate chinese e12s05_sex_9fe25e55:
 
     # vw "It looks like you've started to get comfortable with island life."
-    vw "It looks like you've started to get comfortable with island life."
+    vw "看来你已经开始适应岛上的生活了。"
 
 # game/code/e12/e12s05.rpy:426
 translate chinese e12s05_sex_44abf46e:
 
     # aw "It's one of the perks definitely."
-    aw "It's one of the perks definitely."
+    aw "这绝对是好处之一。"
 
 # game/code/e12/e12s05.rpy:433
 translate chinese e12s05_sex_a1c56fbb:
 
     # vw "And it looks like you two have kissed and made up."
-    vw "And it looks like you two have kissed and made up."
+    vw "看来你们俩已经亲吻和好了。"
 
 # game/code/e12/e12s05.rpy:435
 translate chinese e12s05_sex_89957ffa:
 
     # aw "Were... You watching us?"
-    aw "Were... You watching us?"
+    aw "你在...看我们？"
 
 # game/code/e12/e12s05.rpy:437
 translate chinese e12s05_sex_f7a89287:
 
     # vw "Maybe a little bit. Besides, I'd recognize the taste of my daughter anywhere."
-    vw "Maybe a little bit. Besides, I'd recognize the taste of my daughter anywhere."
+    vw "也许有一点哦。再说，我女儿的味道我在哪儿都认得出来。"
 
 # game/code/e12/e12s05.rpy:439
 translate chinese e12s05_sex_dca474c7:
 
     # vw "Maybe a little bit. Besides, I'd recognize the taste of Allison anywhere."
-    vw "Maybe a little bit. Besides, I'd recognize the taste of Allison anywhere."
+    vw "也许有一点哦。另外，艾莉森的味道我在哪儿都认得出来。"
 
 # game/code/e12/e12s05.rpy:442
 translate chinese e12s05_sex_5354a7cc:
 
     # mc "Wow Vanessa, you have turned into a little horny devil."
-    mc "Wow Vanessa, you have turned into a little horny devil."
+    mc "哇，瓦妮莎，你变成了一个小色鬼。"
 
 # game/code/e12/e12s05.rpy:444
 translate chinese e12s05_sex_0c2cf0f4:
 
     # vw "I know. Must be something in the water."
-    vw "I know. Must be something in the water."
+    vw "我知道。一定是水里有什么东西，把我变成这样。"
 
 # game/code/e12/e12s05.rpy:446
 translate chinese e12s05_sex_ae6db4b6:
 
     # aw "Or your cervix."
-    aw "Or your cervix."
+    aw "或者是你的子宫颈。"
 
 # game/code/e12/e12s05.rpy:449
 translate chinese e12s05_sex_1d584507:
 
     # vw "Sweetie, what's wrong?"
-    vw "Sweetie, what's wrong?"
+    vw "亲爱的，怎么了？"
 
 # game/code/e12/e12s05.rpy:451
 translate chinese e12s05_sex_4f451faf:
