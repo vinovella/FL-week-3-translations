@@ -198,3 +198,15 @@ translate turkish strings:
     old "Ending 13: Pregnant Nora"
     new "Bitiş 13: Hamile Nora"
 
+# TODO: Translation updated at 2023-09-28 22:56
+
+translate turkish strings:
+
+    # game/code/data/extended/cg_gallery.rpy:94
+    old "Ending 12: Vanessa & Allison"
+    new "Ending 12: Vanessa & Allison"
+
+    # game/code/data/extended/cg_gallery.rpy:103
+    old "Ending 14: Polly & Nora"
+    new "Ending 14: Polly & Nora"
+

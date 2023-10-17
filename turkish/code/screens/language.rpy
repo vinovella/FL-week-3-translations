@@ -6,3 +6,11 @@ translate turkish strings:
     old "Switch Language"
     new "Dili Değiştir"
 
+# TODO: Translation updated at 2023-09-28 22:56
+
+translate turkish strings:
+
+    # game/code/screens/language.rpy:121
+    old "Choose Language"
+    new "Choose Language"
+

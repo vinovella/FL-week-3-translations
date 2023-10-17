@@ -74,3 +74,19 @@ translate korean strings:
     old "Wishlist Vinovella University on Steam"
     new "Wishlist Vinovella University on Steam"
 
+# TODO: Translation updated at 2023-09-28 22:51
+
+translate korean strings:
+
+    # game/code/screens/extended/screens.rpy:216
+    old "Get a Lovense toy"
+    new "Get a Lovense toy"
+
+    # game/code/screens/extended/screens.rpy:230
+    old "Wishlist Vinovella University in Steam"
+    new "Wishlist Vinovella University in Steam"
+
+    # game/code/screens/extended/screens.rpy:233
+    old "Try our new game Vinovella University"
+    new "Try our new game Vinovella University"
+

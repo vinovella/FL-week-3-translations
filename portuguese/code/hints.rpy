@@ -1162,3 +1162,51 @@ translate portuguese strings:
     old "This is bad for Lydia's case . You maybe able to punish her yourself. Necessary for Ending-04."
     new "Isso não é bom para o processo da Lydia. Você mesmo pode puni-la. Necessário para o Final-04."
 
+# TODO: Translation updated at 2023-09-28 22:47
+
+translate portuguese strings:
+
+    # game/code/hints.rpy:5
+    old "You will end up fucking Vanessa in the asshole."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "You will skip to the blowjob."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Vanessa gets you nice and hard with her lovely feet."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Mark both redheads with your piss."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Continue to threesome scene."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Debbie will join you for some action later."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Debbie will not join you later."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Polly and Nora will get in on the action."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "There still might be someone for Debbie in the cafe."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Dahlia will peg you."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Dahlia won't peg you."
+    new ""
+
