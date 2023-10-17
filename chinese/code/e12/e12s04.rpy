@@ -388,7 +388,7 @@ translate chinese e12s04_16ab54a4:
 translate chinese e12s04_02859a74:
 
     # aw "Whatever."
-    aw "随便吧。
+    aw "随便吧。"
 
 # game/code/e12/e12s04.rpy:315
 translate chinese e12s04_25b6c262:
@@ -904,7 +904,7 @@ translate chinese e12s04_sex_d93957e1:
 translate chinese e12s04_sex_3f193401:
 
     # aw "Fuck. I gotta lay down."
-    aw "妈的。我得躺下。
+    aw "妈的。我得躺下。"
 
 # game/code/e12/e12s04.rpy:622
 translate chinese e12s04_sex_7f8dae46:
@@ -1453,7 +1453,7 @@ translate chinese e12s04_end_c3b2a117:
     vw "听起来你已经想好要不要怀孕了。"
 
 # game/code/e12/e12s04.rpy:1133
-Translate Chinese e12s04_end_5385730d:
+translate chinese e12s04_end_5385730d:
 
     # aw "What do you mean?"
     aw "什么意思？"

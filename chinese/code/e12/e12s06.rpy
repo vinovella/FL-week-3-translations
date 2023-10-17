@@ -1246,7 +1246,7 @@ translate chinese e12s06_blow_job_19f9fdc1:
 translate chinese e12s06_blow_job_f5bcb9ff:
 
     # vw "I want to feel your warm load spill out inside of me."
-    vw "我想感受你温暖的精液在我体内喷涌而出。
+    vw "我想感受你温暖的精液在我体内喷涌而出。"
 
 # game/code/e12/e12s06.rpy:755
 translate chinese e12s06_blow_job_0e66b18c:
