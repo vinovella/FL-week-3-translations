@@ -526,7 +526,7 @@ translate chinese e14s06_that_night_2e12acce:
 translate chinese e14s06_that_night_cfab4634:
 
     # dc "I have... A little {i}extra{/i} downstairs that people don't usually expect."
-    dc "我...下面有一点{i}额外的家伙{/i}，人们通常想不到的。"
+    dc "我...下面有一点{i}多出来的东西{/i}，人们通常想不到的。"
 
 # game/code/e14/e14s06.rpy:419
 translate chinese e14s06_that_night_a743990f:
@@ -544,7 +544,7 @@ translate chinese e14s06_that_night_e69f6012:
 translate chinese e14s06_that_night_7a8a2ad3:
 
     # mc "Who doesn't like a little extra? I know I do, Officer."
-    mc "谁不喜欢额外的东西呢？我知道我喜欢，警官。"
+    mc "谁不喜欢多出来的东西呢？我知道我喜欢，警官。"
 
 # game/code/e14/e14s06.rpy:431
 translate chinese e14s06_that_night_99a6179d:
@@ -622,7 +622,7 @@ translate chinese e14s06_that_night_f6557dcb:
 translate chinese replay_e14s06_865cc835:
 
     # pw "She said she had something 'extra'?"
-    pw "她说她有'额外的东西'？"
+    pw "她说她有'多出来的东西'？"
 
 # game/code/e14/e14s06.rpy:505
 translate chinese replay_e14s06_38f225e9:
@@ -1030,1109 +1030,1109 @@ translate chinese e14s06_sex_scene_ab5b2b51:
 translate chinese e14s06_sex_scene_8ccf7a9a:
 
     # mc "You seemed to like it."
-    mc "You seemed to like it."
+    mc "你好像挺喜欢的。"
 
 # game/code/e14/e14s06.rpy:813
 translate chinese e14s06_sex_scene_558f351d:
 
     # dc "It's even better in person."
-    dc "It's even better in person."
+    dc "亲自上阵更棒。"
 
 # game/code/e14/e14s06.rpy:816
 translate chinese e14s06_sex_scene_16b513e1:
 
     # nk "Ohhh ffUUUUCK!"
-    nk "Ohhh ffUUUUCK!"
+    nk "哦...操操操！"
 
 # game/code/e14/e14s06.rpy:819
 translate chinese e14s06_sex_scene_366cca7e:
 
     # pw "Seems like Nora enjoys watching too!"
-    pw "Seems like Nora enjoys watching too!"
+    pw "看来诺拉也很喜欢看！"
 
 # game/code/e14/e14s06.rpy:822
 translate chinese e14s06_sex_scene_2f103709:
 
     # dc "You got any more ideas? So far I've loved them all."
-    dc "You got any more ideas? So far I've loved them all."
+    dc "你还有什么想法吗？到目前为止，我都很喜欢。"
 
 # game/code/e14/e14s06.rpy:825
 translate chinese e14s06_sex_scene_3d006471:
 
     # mc "I might have a few"
-    mc "I might have a few"
+    mc "我可能有一些。"
 
 # game/code/e14/e14s06.rpy:828
 translate chinese e14s06_sex_scene_f94582de:
 
     # dc "Good! I am wondering though... How would you feel about me fucking you?"
-    dc "Good! I am wondering though... How would you feel about me fucking you?"
+    dc "很好！不过我想知道，我操你的话，你会怎么想？"
 
 # game/code/e14/e14s06.rpy:834
 translate chinese e14s06_sex_scene_9c2ad6bf:
 
     # mc "I'd love to try that."
-    mc "I'd love to try that."
+    mc "我很想试试。"
 
 # game/code/e14/e14s06.rpy:837
 translate chinese e14s06_sex_scene_d27b799c:
 
     # dc "Mmmm, I was hoping you'd say that."
-    dc "Mmmm, I was hoping you'd say that."
+    dc "我就希望你这么说。"
 
 # game/code/e14/e14s06.rpy:843
 translate chinese e14s06_sex_scene_2f7b6a8b:
 
     # mc "I'm more of a top, sorry."
-    mc "I'm more of a top, sorry."
+    mc "我更喜欢上位，抱歉。"
 
 # game/code/e14/e14s06.rpy:846
 translate chinese e14s06_sex_scene_787d47de:
 
     # dc "That's okay with me!"
-    dc "That's okay with me!"
+    dc "我没意见！"
 
 # game/code/e14/e14s06.rpy:859
 translate chinese e14s06_mc_bottoms_23116b49:
 
     # mc "I figured if you got to taste me, I should taste you."
-    mc "I figured if you got to taste me, I should taste you."
+    mc "如果你要尝尝我的味道，我也应该尝尝你的味道。"
 
 # game/code/e14/e14s06.rpy:866
 translate chinese e14s06_mc_bottoms_7c2455b2:
 
     # dc "Oh shit [mcname], that feels ammazzing!"
-    dc "Oh shit [mcname], that feels ammazzing!"
+    dc "哦[mcname]，妈的，好爽！"
 
 # game/code/e14/e14s06.rpy:873
 translate chinese e14s06_mc_bottoms_3cf760d4:
 
     # dc "God I'm already so haaard."
-    dc "God I'm already so haaard."
+    dc "天哪，我已经硬得不行了。"
 
 # game/code/e14/e14s06.rpy:874
 translate chinese e14s06_mc_bottoms_eda09d9f:
 
     # dc "Fuck, this might be enough to get me to cum again!"
-    dc "Fuck, this might be enough to get me to cum again!"
+    dc "操，看来我又要再射一发了！"
 
 # game/code/e14/e14s06.rpy:880
 translate chinese e14s06_mc_bottoms_d7747685:
 
     # mc "I've got one more surprise before you come again though."
-    mc "I've got one more surprise before you come again though."
+    mc "不过，在你再次射精之前，我还有一个惊喜。"
 
 # game/code/e14/e14s06.rpy:883
 translate chinese e14s06_mc_bottoms_0e4e9641:
 
     # mc "If you've got some lube, you're more than welcome to fuck me."
-    mc "If you've got some lube, you're more than welcome to fuck me."
+    mc "如果你有润滑油，我非常欢迎你来操我。"
 
 # game/code/e14/e14s06.rpy:891
 translate chinese e14s06_mc_bottoms_2e14204c:
 
     # mc "Oh you came prepared."
-    mc "Oh you came prepared."
+    mc "看来你是有备而来啊。"
 
 # game/code/e14/e14s06.rpy:894
 translate chinese e14s06_mc_bottoms_87b52ddb:
 
     # dc "A girl has dreams, you know?"
-    dc "A girl has dreams, you know?"
+    dc "女孩都有梦想，你知道吗？"
 
 # game/code/e14/e14s06.rpy:897
 translate chinese e14s06_mc_bottoms_f8dba014:
 
     # dc "Are you ready?"
-    dc "Are you ready?"
+    dc "你准备好了吗？"
 
 # game/code/e14/e14s06.rpy:901
 translate chinese e14s06_mc_bottoms_f7a0f14c:
 
     # mc "I was born ready!"
-    mc "I was born ready!"
+    mc "我生来就准备好了！"
 
 # game/code/e14/e14s06.rpy:905
 translate chinese e14s06_mc_bottoms_15b930f8:
 
     # mc "Be gentle with me, the last time I did this was months ago with Polly and Nora."
-    mc "Be gentle with me, the last time I did this was months ago with Polly and Nora."
+    mc "对我温柔点，我上次这么做还是几个月前和波莉和诺拉互肏。"
 
 # game/code/e14/e14s06.rpy:907
 translate chinese e14s06_mc_bottoms_4992213c:
 
     # mc "I'm still super new to this, so go easy on me."
-    mc "I'm still super new to this, so go easy on me."
+    mc "我还是个新手，对我温柔点。"
 
 # game/code/e14/e14s06.rpy:910
 translate chinese e14s06_mc_bottoms_b18b8dbd:
 
     # dc "I promise to be a good girl."
-    dc "I promise to be a good girl."
+    dc "我保证做个好女孩。"
 
 # game/code/e14/e14s06.rpy:912
 translate chinese e14s06_mc_bottoms_33de092e:
 
     # dc "Just remember to breathe."
-    dc "Just remember to breathe."
+    dc "我保证做个好女孩。"
 
 # game/code/e14/e14s06.rpy:915
 translate chinese e14s06_mc_bottoms_adf5d646:
 
     # mc "I'm... Trying..."
-    mc "I'm... Trying..."
+    mc "我...努力..."
 
 # game/code/e14/e14s06.rpy:918
 translate chinese e14s06_mc_bottoms_a23f6673:
 
     # mc "Okay, you can go a little further."
-    mc "Okay, you can go a little further."
+    mc "好，你可以再往前一点。"
 
 # game/code/e14/e14s06.rpy:921
 translate chinese e14s06_mc_bottoms_8fc3ccfe:
 
     # mc "It's definitely getting easier."
-    mc "It's definitely getting easier."
+    mc "绝对越来越容易了。"
 
 # game/code/e14/e14s06.rpy:924
 translate chinese e14s06_mc_bottoms_6d3bc525:
 
     # dc "Do you think I can get my dick all the way in?"
-    dc "Do you think I can get my dick all the way in?"
+    dc "你觉得我能把整个鸡巴都插进去吗？"
 
 # game/code/e14/e14s06.rpy:927
 translate chinese e14s06_mc_bottoms_11c8bcd2:
 
     # mc "We've come this far, might as well go for it."
-    mc "We've come this far, might as well go for it."
+    mc "我们都走到这一步了，不妨试试。"
 
 # game/code/e14/e14s06.rpy:933
 translate chinese e14s06_mc_bottoms_6af1c739:
 
     # mct "Fuck, breathe. Breathe. Breeeeeathe."
-    mct "Fuck, breathe. Breathe. Breeeeeathe."
+    mct "妈的，呼吸。呼吸。呼吸。"
 
 # game/code/e14/e14s06.rpy:936
 translate chinese e14s06_mc_bottoms_e862e180:
 
     # dc "You're taking this real well."
-    dc "You're taking this real well."
+    dc "你真能忍。"
 
 # game/code/e14/e14s06.rpy:941
 translate chinese e14s06_mc_bottoms_e9689bb7:
 
     # nk "Pollllyyyyy, yessss."
-    nk "Pollllyyyyy, yessss."
+    nk "噢噢噢波莉，啊哈。"
 
 # game/code/e14/e14s06.rpy:943
 translate chinese e14s06_mc_bottoms_b66794b1:
 
     # pw "I can't miss this."
-    pw "I can't miss this."
+    pw "我不能错过。"
 
 # game/code/e14/e14s06.rpy:950
 translate chinese e14s06_mc_bottoms_544bae92:
 
     # mc "Luckily it's not my first rodeo."
-    mc "Luckily it's not my first rodeo."
+    mc "幸运的是，这不是我第一次上演牛仔表演。"
 
 # game/code/e14/e14s06.rpy:952
 translate chinese e14s06_mc_bottoms_f7892750:
 
     # mc "Well I'm glad I can take it in the ass like a champ."
-    mc "Well I'm glad I can take it in the ass like a champ."
+    mc "我很高兴我能像个冠军一样在屁股上挨一顿。"
 
 # game/code/e14/e14s06.rpy:955
 translate chinese e14s06_mc_bottoms_c77ec3c3:
 
     # dc "Is this speed okay?"
-    dc "Is this speed okay?"
+    dc "这个速度可以吗？"
 
 # game/code/e14/e14s06.rpy:958
 translate chinese e14s06_mc_bottoms_bd4798e9:
 
     # mc "Yeah, the pain is starting to go away."
-    mc "Yeah, the pain is starting to go away."
+    mc "可以，疼痛开始消失了。"
 
 # game/code/e14/e14s06.rpy:960
 translate chinese e14s06_mc_bottoms_df2126da:
 
     # dc "Then it's about to start feeling real good."
-    dc "Then it's about to start feeling real good."
+    dc "那下面就要开始感受真正的天堂了。"
 
 # game/code/e14/e14s06.rpy:965
 translate chinese e14s06_mc_bottoms_33b62027:
 
     # mc "Holy shit, that feels {i}reaaaallllly{/i} good."
-    mc "Holy shit, that feels {i}reaaaallllly{/i} good."
+    mc "我靠，感觉也{i}太~{/i}爽了吧。"
 
 # game/code/e14/e14s06.rpy:966
 translate chinese e14s06_mc_bottoms_e60c9779:
 
     # dc "Fuck, I can say the same. You have a perfect ass."
-    dc "Fuck, I can say the same. You have a perfect ass."
+    dc "操，我也这么觉得。你的屁股堪称完美。"
 
 # game/code/e14/e14s06.rpy:967
 translate chinese e14s06_mc_bottoms_f5acb429:
 
     # mc "Good, it's one of my favorite things about me"
-    mc "Good, it's one of my favorite things about me"
+    mc "很好，这是我最喜欢自己的其中一点。"
 
 # game/code/e14/e14s06.rpy:975
 translate chinese e14s06_mc_bottoms_4d005f05:
 
     # dc "Shit, if I'm not careful I might cum again."
-    dc "Shit, if I'm not careful I might cum again."
+    dc "妈的，一不小心我又要射了。"
 
 # game/code/e14/e14s06.rpy:979
 translate chinese e14s06_mc_bottoms_551b8412:
 
     # mc "Same here."
-    mc "Same here."
+    mc "我也一样。"
 
 # game/code/e14/e14s06.rpy:981
 translate chinese e14s06_mc_bottoms_590947f3:
 
     # dc "God yes. Holy shiiiiiit!"
-    dc "God yes. Holy shiiiiiit!"
+    dc "上帝啊，啊啊啊我的妈呀！"
 
 # game/code/e14/e14s06.rpy:985
 translate chinese e14s06_mc_bottoms_873bc29d:
 
     # mc "I think I'm gonna... Shit this might make me cum!"
-    mc "I think I'm gonna... Shit this might make me cum!"
+    mc "我想我要.....靠我可能要射了！"
 
 # game/code/e14/e14s06.rpy:992
 translate chinese e14s06_mc_bottoms_9e4688d0:
 
     # mc "Hollly fuuuck!"
-    mc "Hollly fuuuck!"
+    mc "我操啊啊！"
 
 # game/code/e14/e14s06.rpy:995
 translate chinese e14s06_mc_bottoms_d97fab02:
 
     # dc "I could fuck you in the ass all day."
-    dc "I could fuck you in the ass all day."
+    dc "我可以干你一整天。"
 
 # game/code/e14/e14s06.rpy:998
 translate chinese e14s06_mc_bottoms_cb6bbd9c:
 
     # mc "I'd be okay with that."
-    mc "I'd be okay with that."
+    mc "我没意见。"
 
 # game/code/e14/e14s06.rpy:1008
 translate chinese e14s06_pwnk_content_01d45684:
 
     # pw "Am I allowed a turn?"
-    pw "Am I allowed a turn?"
+    pw "能轮到我吗？"
 
 # game/code/e14/e14s06.rpy:1011
 translate chinese e14s06_pwnk_content_7220734b:
 
     # dc "Uhhhhh..."
-    dc "Uhhhhh..."
+    dc "呃..."
 
 # game/code/e14/e14s06.rpy:1014
 translate chinese e14s06_pwnk_content_57e9b1d8:
 
     # mc "I need a minute, so go nuts."
-    mc "I need a minute, so go nuts."
+    mc "我需要歇会儿，你们来疯吧。"
 
 # game/code/e14/e14s06.rpy:1017
 translate chinese e14s06_pwnk_content_1882159c:
 
     # pw "Please Debbie, come over here and fuck my ass."
-    pw "Please Debbie, come over here and fuck my ass."
+    pw "求你了，黛比，过来干我的屁股吧。"
 
 # game/code/e14/e14s06.rpy:1022
 translate chinese e14s06_pwnk_content_e36dfd2f:
 
     # pw "Oh, spit on it a little bit. That'll help."
-    pw "Oh, spit on it a little bit. That'll help."
+    pw "哦，吐点口水在上面。会有帮助的。"
 
 # game/code/e14/e14s06.rpy:1028
 translate chinese e14s06_pwnk_content_581ef142:
 
     # pw "MMmmmmyesss. God that feels good."
-    pw "MMmmmmyesss. God that feels good."
+    pw "啊啊啊啊，天啊，感觉真好。"
 
 # game/code/e14/e14s06.rpy:1031
 translate chinese e14s06_pwnk_content_b02d1c0a:
 
     # dc "Yes it does, holy fuuuuck!"
-    dc "Yes it does, holy fuuuuck!"
+    dc "操没错，真他妈刺激！"
 
 # game/code/e14/e14s06.rpy:1037
 translate chinese e14s06_pwnk_content_c0197456:
 
     # pw "Your dick feels amazing Debbie."
-    pw "Your dick feels amazing Debbie."
+    pw "你的大鸡巴感觉棒极了，黛比。"
 
 # game/code/e14/e14s06.rpy:1038
 translate chinese e14s06_pwnk_content_e289e8ee:
 
     # dc "I can say the same thing about your ass."
-    dc "I can say the same thing about your ass."
+    dc "你的屁股也一样。"
 
 # game/code/e14/e14s06.rpy:1043
 translate chinese e14s06_pwnk_content_13578792:
 
     # pw "Gaawd yesss Debbie!"
-    pw "Gaawd yesss Debbie!"
+    pw "太爽了，黛比！"
 
 # game/code/e14/e14s06.rpy:1044
 translate chinese e14s06_pwnk_content_fc946ab6:
 
     # pw "Oh fuck, oh fuuuuck!"
-    pw "Oh fuck, oh fuuuuck!"
+    pw "我操，我操！"
 
 # game/code/e14/e14s06.rpy:1045
 translate chinese e14s06_pwnk_content_25431620:
 
     # pw "Keep fucking me, just like that."
-    pw "Keep fucking me, just like that."
+    pw "继续干我，就像这样。"
 
 # game/code/e14/e14s06.rpy:1050
 translate chinese e14s06_pwnk_content_48bec775:
 
     # pw "MMMMM, Debbie you're going to make me cummmmm."
-    pw "MMMMM, Debbie you're going to make me cummmmm."
+    pw "嗯啊啊，黛比，你会让我喷出来的。"
 
 # game/code/e14/e14s06.rpy:1051
 translate chinese e14s06_pwnk_content_e50e680c:
 
     # dc "I could fuck you in the ass for forever."
-    dc "I could fuck you in the ass for forever."
+    dc "我可以永远不停地干你的屁眼。"
 
 # game/code/e14/e14s06.rpy:1057
 translate chinese e14s06_pwnk_content_11614a49:
 
     # pw "Pleeease do- Oh shit, I'm cummmming!"
-    pw "Pleeease do- Oh shit, I'm cummmming!"
+    pw "啊好刺激--哦噢噢，我要喷了！"
 
 # game/code/e14/e14s06.rpy:1060
 translate chinese e14s06_pwnk_content_fa79076f:
 
     # mc "Well, that was fucking hot."
-    mc "Well, that was fucking hot."
+    mc "嗯，真他妈爽。"
 
 # game/code/e14/e14s06.rpy:1063
 translate chinese e14s06_pwnk_content_27ebe04d:
 
     # dc "Is that so [mcname]? Want to get in on the fun?"
-    dc "Is that so [mcname]? Want to get in on the fun?"
+    dc "是吗[mcname]？要不要也来凑凑热闹？"
 
 # game/code/e14/e14s06.rpy:1066
 translate chinese e14s06_pwnk_content_2d555eca:
 
     # mc "Hell yes I do!"
-    mc "Hell yes I do!"
+    mc "当然要！"
 
 # game/code/e14/e14s06.rpy:1069
 translate chinese e14s06_pwnk_content_b05e50e6:
 
     # pw "What are you two planning?"
-    pw "What are you two planning?"
+    pw "你们两个在计划什么？"
 
 # game/code/e14/e14s06.rpy:1072
 translate chinese e14s06_pwnk_content_2ae9a015:
 
     # pw "Wait a second-!"
-    pw "Wait a second-!"
+    pw "等一下--！"
 
 # game/code/e14/e14s06.rpy:1075
 translate chinese e14s06_pwnk_content_8c3ea6f5:
 
     # pw "HOLY FUUUUCK!"
-    pw "HOLY FUUUUCK!"
+    pw "啊啊啊操!"
 
 # game/code/e14/e14s06.rpy:1081
 translate chinese e14s06_pwnk_content_7bd3b53c:
 
     # pw "FUCK! I am so fuuullllll!"
-    pw "FUCK! I am so fuuullllll!"
+    pw "操！我好涨啊！"
 
 # game/code/e14/e14s06.rpy:1083
 translate chinese e14s06_pwnk_content_80820531:
 
     # dc "Your ass is squeezing my dick so tight!"
-    dc "Your ass is squeezing my dick so tight!"
+    dc "你的屁股把我的肉棒挤得好紧！"
 
 # game/code/e14/e14s06.rpy:1084
 translate chinese e14s06_pwnk_content_9e0b5133:
 
     # mc "Shit, her pussy is clamping down on me too!"
-    mc "Shit, her pussy is clamping down on me too!"
+    mc "你的屁股把我的肉棒挤得好紧！"
 
 # game/code/e14/e14s06.rpy:1089
 translate chinese e14s06_pwnk_content_51cbf4f6:
 
     # mc "Fuck this is incredible."
-    mc "Fuck this is incredible."
+    mc "妈的，太爽了。"
 
 # game/code/e14/e14s06.rpy:1090
 translate chinese e14s06_pwnk_content_d9b121c8:
 
     # pw "It's sooooo fucking hoooooot you just bouncing my on your dick!"
-    pw "It's sooooo fucking hoooooot you just bouncing my on your dick!"
+    pw "太销魂了啊啊，你用你的大鸡巴不停撞我，真他妈爽！"
 
 # game/code/e14/e14s06.rpy:1097
 translate chinese e14s06_pwnk_content_a5191b27:
 
     # pw "Oh, oh, ahhhh, mmm, ahhh! Yes, yes!"
-    pw "Oh, oh, ahhhh, mmm, ahhh! Yes, yes!"
+    pw "哦，哦，啊，哼嗯，哈啊！是的，不要停！"
 
 # game/code/e14/e14s06.rpy:1102
 translate chinese e14s06_pwnk_content_0450229b:
 
     # pw "Fuck I'm cumming!"
-    pw "Fuck I'm cumming!"
+    pw "操，我要射了！"
 
 # game/code/e14/e14s06.rpy:1107
 translate chinese e14s06_pwnk_content_6193d45e:
 
     # pw "Fuuuuuuck, okay y'all gotta put me down. I need a second."
-    pw "Fuuuuuuck, okay y'all gotta put me down. I need a second."
+    pw "操，好了，你们得把我放下来。我需要点时间。"
 
 # game/code/e14/e14s06.rpy:1118
 translate chinese e14s06_bottom_foursome_e3e1c6dc:
 
     # nk "Ahem."
-    nk "Ahem."
+    nk "咳咳。"
 
 # game/code/e14/e14s06.rpy:1121
 translate chinese e14s06_bottom_foursome_2a488acf:
 
     # mc "Oh hey Nora."
-    mc "Oh hey Nora."
+    mc "嘿，诺拉。"
 
 # game/code/e14/e14s06.rpy:1123
 translate chinese e14s06_bottom_foursome_da0e810f:
 
     # mc "What'd I say?"
-    mc "What'd I say?"
+    mc "我说什么来着？"
 
 # game/code/e14/e14s06.rpy:1126
 translate chinese e14s06_bottom_foursome_5f379f6b:
 
     # nk "Did you forget about someone?"
-    nk "Did you forget about someone?"
+    nk "你是不是忘了谁？"
 
 # game/code/e14/e14s06.rpy:1129
 translate chinese e14s06_bottom_foursome_4bc9de55:
 
     # nk "Do I need to spell it out for you? {i}Are you going to fuck me in the ass now?{/i}"
-    nk "Do I need to spell it out for you? {i}Are you going to fuck me in the ass now?{/i}"
+    nk "需要我说出来吗？{i}你现在要干我的屁眼吗？{/i}"
 
 # game/code/e14/e14s06.rpy:1132
 translate chinese e14s06_bottom_foursome_13863764:
 
     # mc "Oh, well fuck yeah."
-    mc "Oh, well fuck yeah."
+    mc "哇哦，妈的当然好了。"
 
 # game/code/e14/e14s06.rpy:1135
 translate chinese e14s06_bottom_foursome_d57ae95c:
 
     # nk "Fucking {i}finally!{/i}"
-    nk "Fucking {i}finally!{/i}"
+    nk "操，{i}终于{/i}来了！"
 
 # game/code/e14/e14s06.rpy:1140
 translate chinese e14s06_bottom_foursome_43f936bb:
 
     # dc "Can I get another turn with you?"
-    dc "Can I get another turn with you?"
+    dc "我能和你再玩一轮吗？"
 
 # game/code/e14/e14s06.rpy:1143
 translate chinese e14s06_bottom_foursome_85d475fe:
 
     # mc "Of course!"
-    mc "Of course!"
+    mc "当然可以！"
 
 # game/code/e14/e14s06.rpy:1147
 translate chinese e14s06_bottom_foursome_2168563c:
 
     # pw "I need to give my holes a little break, but I still want in on the fun!"
-    pw "I need to give my holes a little break, but I still want in on the fun!"
+    pw "我需要让我的洞休息一下，但我还是想参与其中！"
 
 # game/code/e14/e14s06.rpy:1150
 translate chinese e14s06_bottom_foursome_5d4af2b4:
 
     # dc "That a present for me?"
-    dc "That a present for me?"
+    dc "那是给我的礼物吗？"
 
 # game/code/e14/e14s06.rpy:1153
 translate chinese e14s06_bottom_foursome_163fd393:
 
     # pw "You know it."
-    pw "You know it."
+    pw "你知道的。"
 
 # game/code/e14/e14s06.rpy:1169
 translate chinese e14s06_bottom_foursome_23d5d370:
 
     # pw "How's this feel Debbie?"
-    pw "How's this feel Debbie?"
+    pw "黛比，感觉怎么样？"
 
 # game/code/e14/e14s06.rpy:1170
 translate chinese e14s06_bottom_foursome_51f045f3:
 
     # dc "Fuuuuuuuuuuuuck, I have never done this before. It's fuuuuuucking increeeedible!"
-    dc "Fuuuuuuuuuuuuck, I have never done this before. It's fuuuuuucking increeeedible!"
+    dc "噢噢噢操，我以前从没做过这个。他妈的要爽死我了啊！"
 
 # game/code/e14/e14s06.rpy:1177
 translate chinese e14s06_bottom_foursome_69711a91:
 
     # dc "I pray this isn't the last time we do this."
-    dc "I pray this isn't the last time we do this."
+    dc "我祈祷这不是我们最后一次这样干。"
 
 # game/code/e14/e14s06.rpy:1178
 translate chinese e14s06_bottom_foursome_b497081a:
 
     # nk "You're welcome at the cafe any time!"
-    nk "You're welcome at the cafe any time!"
+    nk "咖啡馆随时欢迎你！"
 
 # game/code/e14/e14s06.rpy:1185
 translate chinese e14s06_bottom_foursome_15913741:
 
     # nk "Fuck, I think I'm going to cum!"
-    nk "Fuck, I think I'm going to cum!"
+    nk "操，我想我要射了！"
 
 # game/code/e14/e14s06.rpy:1186
 translate chinese e14s06_bottom_foursome_813fda86:
 
     # mc "Already?"
-    mc "Already?"
+    mc "这么快？"
 
 # game/code/e14/e14s06.rpy:1187
 translate chinese e14s06_bottom_foursome_a8b302a8:
 
     # nk "Fuuuuuuuuck, mmmhmmm, yeah. Holy fuck."
-    nk "Fuuuuuuuuck, mmmhmmm, yeah. Holy fuck."
+    nk "啊啊啊，噢噢噢，耶啊。我操！"
 
 # game/code/e14/e14s06.rpy:1209
 translate chinese e14s06_bottom_foursome_63ced0b2:
 
     # mc "Who knew you'd turn into such a little anal slut so fast?"
-    mc "Who knew you'd turn into such a little anal slut so fast?"
+    mc "谁知道你这么快就变成了肛门小荡妇？"
 
 # game/code/e14/e14s06.rpy:1210
 translate chinese e14s06_bottom_foursome_9f3fed16:
 
     # nk "Yes, I'm your little anal slut. I love getting fucked in the ass."
-    nk "Yes, I'm your little anal slut. I love getting fucked in the ass."
+    nk "是的，我就是你的肛门小荡妇。我喜欢被操屁股。"
 
 # game/code/e14/e14s06.rpy:1229
 translate chinese e14s06_bottom_foursome_e444f841:
 
     # nk "I love it when you make me cum with your dick buried in my ass."
-    nk "I love it when you make me cum with your dick buried in my ass."
+    nk "我喜欢你把鸡巴埋在我屁眼里让我射精。"
 
 # game/code/e14/e14s06.rpy:1230
 translate chinese e14s06_bottom_foursome_e4123078:
 
     # nk "I'm a dirty little anal whore, and you're going to make me cum!"
-    nk "I'm a dirty little anal whore, and you're going to make me cum!"
+    nk "我是个肮脏的肛交小荡妇，你要让我喷出来！"
 
 # game/code/e14/e14s06.rpy:1244
 translate chinese e14s06_bottom_foursome_92741add:
 
     # nk "That was amazing, Jesus."
-    nk "That was amazing, Jesus."
+    nk "太棒了，天哪。"
 
 # game/code/e14/e14s06.rpy:1247
 translate chinese e14s06_bottom_foursome_1430f406:
 
     # pw "You're telling me, fuck that was hot."
-    pw "You're telling me, fuck that was hot."
+    pw "可不是，操，爽的我魂儿都丢了一半儿。"
 
 # game/code/e14/e14s06.rpy:1249
 translate chinese e14s06_bottom_foursome_59165a3e:
 
     # pw "I'm so glad I keep this stashed here."
-    pw "I'm so glad I keep this stashed here."
+    pw "真高兴我把这个藏在这里。"
 
 # game/code/e14/e14s06.rpy:1252
 translate chinese e14s06_bottom_foursome_cb5e9996:
 
     # dc "Me too."
-    dc "Me too."
+    dc "我也是。"
 
 # game/code/e14/e14s06.rpy:1263
 translate chinese e14s06_foursome_c4324401:
 
     # mc "I need to sit for a minute."
-    mc "I need to sit for a minute."
+    mc "我要坐一会儿。"
 
 # game/code/e14/e14s06.rpy:1266
 translate chinese e14s06_foursome_ca9c62a3:
 
     # pw "We can have some fun while you're sitting though."
-    pw "We can have some fun while you're sitting though."
+    pw "你坐着的时候，我们也可以找点乐子。"
 
 # game/code/e14/e14s06.rpy:1271
 translate chinese e14s06_foursome_5856c75a:
 
     # pw "I have to chill a bit, but I bet Nora wouldn't mind getting eaten out."
-    pw "I have to chill a bit, but I bet Nora wouldn't mind getting eaten out."
+    pw "我得冷静一下，但我打赌诺拉不会介意被吃掉的。"
 
 # game/code/e14/e14s06.rpy:1274
 translate chinese e14s06_foursome_0abed765:
 
     # nk "I definitely wouldn't mind that."
-    nk "I definitely wouldn't mind that."
+    nk "我肯定不介意。"
 
 # game/code/e14/e14s06.rpy:1277
 translate chinese e14s06_foursome_ff45842d:
 
     # pw "And Debbie-"
-    pw "And Debbie-"
+    pw "那黛比--"
 
 # game/code/e14/e14s06.rpy:1280
 translate chinese e14s06_foursome_c645f51e:
 
     # dc "I know exactly what I'm going to do."
-    dc "I know exactly what I'm going to do."
+    dc "我很清楚我要做什么。"
 
 # game/code/e14/e14s06.rpy:1295
 translate chinese e14s06_foursome_ab3e2f98:
 
     # pw "Is this as hot as you thought it would be?"
-    pw "Is this as hot as you thought it would be?"
+    pw "这和你想的一样带感吗？"
 
 # game/code/e14/e14s06.rpy:1298
 translate chinese e14s06_foursome_7c635a07:
 
     # dc "Mmmmhmmmm!"
-    dc "Mmmmhmmmm!"
+    dc "嗯嗯嗯！"
 
 # game/code/e14/e14s06.rpy:1300
 translate chinese e14s06_foursome_f4a94f26:
 
     # nk "Fuck [mcname] your tongue feels great."
-    nk "Fuck [mcname] your tongue feels great."
+    nk "操[mcname]，你的舌头真舒服。"
 
 # game/code/e14/e14s06.rpy:1305
 translate chinese e14s06_foursome_5cc1fbcf:
 
     # dc "I still - fuck, this is amazing-"
-    dc "I still - fuck, this is amazing-"
+    dc "我还是--操，我要死了--"
 
 # game/code/e14/e14s06.rpy:1307
 translate chinese e14s06_foursome_a886f6e3:
 
     # nk "Shit, I'm going to cum!"
-    nk "Shit, I'm going to cum!"
+    nk "妈的，我要射了！"
 
 # game/code/e14/e14s06.rpy:1309
 translate chinese e14s06_foursome_f154f0f3:
 
     # pw "Me too!"
-    pw "Me too!"
+    pw "我也是！"
 
 # game/code/e14/e14s06.rpy:1315
 translate chinese e14s06_foursome_f464ddae:
 
     # dc "Fuck, I'm so close."
-    dc "Fuck, I'm so close."
+    dc "操，我就快了。"
 
 # game/code/e14/e14s06.rpy:1317
 translate chinese e14s06_foursome_122d92dd:
 
     # mc "I know {i}exactly{/i} what to do then."
-    mc "I know {i}exactly{/i} what to do then."
+    mc "我知道该{i}怎么{/i}做了。"
 
 # game/code/e14/e14s06.rpy:1331
 translate chinese e14s06_sex_scene_2_05283efd:
 
     # mc "You've got to lay down for this last one."
-    mc "You've got to lay down for this last one."
+    mc "最后一次你得躺下。"
 
 # game/code/e14/e14s06.rpy:1334
 translate chinese e14s06_sex_scene_2_e7b12c1e:
 
     # dc "You all good to go?"
-    dc "You all good to go?"
+    dc "你们都准备好了吗？"
 
 # game/code/e14/e14s06.rpy:1337
 translate chinese e14s06_sex_scene_2_d55ae269:
 
     # mc "Yep!"
-    mc "Yep!"
+    mc "嗯哼！"
 
 # game/code/e14/e14s06.rpy:1343
 translate chinese e14s06_sex_scene_2_f6c9c42e:
 
     # pw "Ahhhh, yes. Right there Nora. Mmmm-yesss."
-    pw "Ahhhh, yes. Right there Nora. Mmmm-yesss."
+    pw "啊...哈嗯...就在那儿，诺拉。哈--哼嗯。"
 
 # game/code/e14/e14s06.rpy:1346
 translate chinese e14s06_sex_scene_2_8fb9f653:
 
     # dc "Seems like you've got an idea."
-    dc "Seems like you've got an idea."
+    dc "看来你又有想法了。"
 
 # game/code/e14/e14s06.rpy:1349
 translate chinese e14s06_sex_scene_2_57f305f4:
 
     # dc "Oh shit!"
-    dc "Oh shit!"
+    dc "哦，哈啊！"
 
 # game/code/e14/e14s06.rpy:1353
 translate chinese e14s06_sex_scene_2_4c5c2172:
 
     # dc "Hoooollllyyyy fuuuuuuck!"
-    dc "Hoooollllyyyy fuuuuuuck!"
+    dc "嗷嗷嗷不行了！"
 
 # game/code/e14/e14s06.rpy:1357
 translate chinese e14s06_sex_scene_2_e46e853d:
 
     # mc "As good as you thought it'd be?"
-    mc "As good as you thought it'd be?"
+    mc "和你想的一样美妙吗？"
 
 # game/code/e14/e14s06.rpy:1358
 translate chinese e14s06_sex_scene_2_9cfeac2e:
 
     # dc "Betttteeeerrrrr!"
-    dc "Betttteeeerrrrr!"
+    dc "比那还要爽！"
 
 # game/code/e14/e14s06.rpy:1365
 translate chinese e14s06_sex_scene_2_105acf8e:
 
     # dc "Fuck, fuck, fuuuuuuuck!!"
-    dc "Fuck, fuck, fuuuuuuuck!!"
+    dc "操！操！操!!"
 
 # game/code/e14/e14s06.rpy:1368
 translate chinese e14s06_sex_scene_2_05417b5f:
 
     # dc "Ohhhhhhhhh mmmmmmm!"
-    dc "Ohhhhhhhhh mmmmmmm!"
+    dc "噢噢噢噢噢噢嗯嗯！"
 
 # game/code/e14/e14s06.rpy:1378
 translate chinese e14s06_sex_scene_2_9e6fa0ad:
 
     # dc "Fuck, I'm going to cum! FUCK, I'M GOING TO CUM!"
-    dc "Fuck, I'm going to cum! FUCK, I'M GOING TO CUM!"
+    dc "操，我要射了！操，我要射了！"
 
 # game/code/e14/e14s06.rpy:1379
 translate chinese e14s06_sex_scene_2_7d8578f2:
 
     # mc "Fuck, me too!"
-    mc "Fuck, me too!"
+    mc "我也要来了！"
 
 # game/code/e14/e14s06.rpy:1390
 translate chinese e14s06_sex_scene_2_a5dec2e6:
 
     # pw "OhhhHHH FUCK Nora, I'm going to cum!"
-    pw "OhhhHHH FUCK Nora, I'm going to cum!"
+    pw "操诺拉，我要高潮了！"
 
 # game/code/e14/e14s06.rpy:1394
 translate chinese e14s06_sex_scene_2_ccd2a6e8:
 
     # pw "Yes, yes, YES!"
-    pw "Yes, yes, YES!"
+    pw "啊啊啊啊！"
 
 # game/code/e14/e14s06.rpy:1399
 translate chinese e14s06_sex_scene_2_dc41e671:
 
     # mct "Fuck, that was kind of hot."
-    mct "Fuck, that was kind of hot."
+    mct "操，太爽了！"
 
 # game/code/e14/e14s06.rpy:1402
 translate chinese e14s06_sex_scene_2_d3259014:
 
     # dc "Can someone pass me a towel?"
-    dc "Can someone pass me a towel?"
+    dc "谁能给我一条毛巾？"
 
 # game/code/e14/e14s06.rpy:1406
 translate chinese e14s06_sex_scene_2_b4cf4fee:
 
     # dc "You all good [mcname]?"
-    dc "You all good [mcname]?"
+    dc "你还好吗[mcname]？"
 
 # game/code/e14/e14s06.rpy:1409
 translate chinese e14s06_sex_scene_2_db735710:
 
     # mc "Yeah, I am exhausted though."
-    mc "Yeah, I am exhausted though."
+    mc "我很好，不过人累坏了。"
 
 # game/code/e14/e14s06.rpy:1412
 translate chinese e14s06_sex_scene_2_84a14e20:
 
     # dc "That was amazing though."
-    dc "That was amazing though."
+    dc "太美妙太销魂了！"
 
 # game/code/e14/e14s06.rpy:1415
 translate chinese e14s06_sex_scene_2_6e031e75:
 
     # mc "Yeah it was."
-    mc "Yeah it was."
+    mc "是啊。"
 
 # game/code/e14/e14s06.rpy:1422
 translate chinese e14s06_sex_scene_2_97679dcc:
 
     # dc "Thank you."
-    dc "Thank you."
+    dc "谢谢。"
 
 # game/code/e14/e14s06.rpy:1425
 translate chinese e14s06_sex_scene_2_01987d57:
 
     # mc "I could say the same."
-    mc "I could say the same."
+    mc "我也该这么说。"
 
 # game/code/e14/e14s06.rpy:1428
 translate chinese e14s06_sex_scene_2_251f8700:
 
     # dc "Thank you for inviting me to your Blind Date event!"
-    dc "Thank you for inviting me to your Blind Date event!"
+    dc "谢谢你们邀请我参加盲约相亲会！"
 
 # game/code/e14/e14s06.rpy:1431
 translate chinese e14s06_sex_scene_2_3909cbb2:
 
     # pw "God, we can't thank you enough for coming. And for cumming!"
-    pw "God, we can't thank you enough for coming. And for cumming!"
+    pw "天啊，你能来我们真是感激不尽。还让我们这么爽！"
 
 # game/code/e14/e14s06.rpy:1434
 translate chinese e14s06_sex_scene_2_77471fd9:
 
     # dc "Well if you ever want some extra company I'm always available."
-    dc "Well if you ever want some extra company I'm always available."
+    dc "如果你想找人陪你，我随时奉陪。"
 
 # game/code/e14/e14s06.rpy:1437
 translate chinese e14s06_sex_scene_2_23594cb4:
 
     # nk "As long as you bring your handcuffs next time."
-    nk "As long as you bring your handcuffs next time."
+    nk "只要你下次带手铐来。"
 
 # game/code/e14/e14s06.rpy:1440
 translate chinese e14s06_sex_scene_2_ddc8faa8:
 
     # dc "I think I could manage that."
-    dc "I think I could manage that."
+    dc "我想这个我能做到。"
 
 # game/code/e14/e14s06.rpy:1443
 translate chinese e14s06_sex_scene_2_5b2bf7b2:
 
     # pw "I think we should've gotten the cops called on us sooner!"
-    pw "I think we should've gotten the cops called on us sooner!"
+    pw "我觉得我们应该把警察带过来！"
 
 # game/code/e14/e14s06.rpy:1446
 translate chinese e14s06_sex_scene_2_d365f792:
 
     # mc "You know, I always wanted to fuck the police."
-    mc "You know, I always wanted to fuck the police."
+    mc "你知道，我一直想和警察来上一发。"
 
 # game/code/e14/e14s06.rpy:1449
 translate chinese e14s06_sex_scene_2_dc5bbcd9:
 
     # dc "Well you're welcome to fuck them any time you want."
-    dc "Well you're welcome to fuck them any time you want."
+    dc "随时欢迎你去干他们。"
 
 # game/code/e14/e14s06.rpy:1452
 translate chinese e14s06_sex_scene_2_0b0198ad:
 
     # dc "Speaking of, I think it's time for me to protect and serve."
-    dc "Speaking of, I think it's time for me to protect and serve."
+    dc "说到这里，我想现在是我尽到警察职责的时候了。"
 
 # game/code/e14/e14s06.rpy:1455
 translate chinese e14s06_sex_scene_2_dfebb925:
 
     # mc "I mean, you've definitely served tonight!"
-    mc "I mean, you've definitely served tonight!"
+    mc "要我说，你今晚绝对尽到了警察的义务！"
 
 # game/code/e14/e14s06.rpy:1458
 translate chinese e14s06_sex_scene_2_603ddd52:
 
     # dc "Thank you all for this, really. I think I needed it."
-    dc "Thank you all for this, really. I think I needed it."
+    dc "谢谢大家，真的。我想我很需要这次体验。"
 
 # game/code/e14/e14s06.rpy:1465
 translate chinese e14s06_sex_scene_2_66125baf:
 
     # pw "You're welcome at Nora's any time!"
-    pw "You're welcome at Nora's any time!"
+    pw "诺拉天地随时欢迎你！"
 
 # game/code/e14/e14s06.rpy:1468
 translate chinese e14s06_sex_scene_2_7214edc7:
 
     # dc "I'll definitely be back!"
-    dc "I'll definitely be back!"
+    dc "我一定会回来的！"
 
 # game/code/e14/e14s06.rpy:1478
 translate chinese e14s06_sex_scene_2_14db5afb:
 
     # mc "Hopefully we don't have a health inspection coming up."
-    mc "Hopefully we don't have a health inspection coming up."
+    mc "希望我们不会遇到卫生检查。"
 
 # game/code/e14/e14s06.rpy:1481
 translate chinese e14s06_sex_scene_2_15b08a0c:
 
     # nk "We might..."
-    nk "We might..."
+    nk "可能真的有..."
 
 # game/code/e14/e14s06.rpy:1484
 translate chinese e14s06_sex_scene_2_97cf2766:
 
     # pw "You didn't say anything about that!"
-    pw "You didn't say anything about that!"
+    pw "你可什么都没说！"
 
 # game/code/e14/e14s06.rpy:1487
 translate chinese e14s06_sex_scene_2_3c6d2afa:
 
     # nk "I wasn't expecting to fuck this much around the cafe!"
-    nk "I wasn't expecting to fuck this much around the cafe!"
+    nk "我没想到会在咖啡馆里干这么多事！"
 
 # game/code/e14/e14s06.rpy:1490
 translate chinese e14s06_sex_scene_2_9dd8ab16:
 
     # mc "Thankfully I got some of that purple cleaner stuff."
-    mc "Thankfully I got some of that purple cleaner stuff."
+    mc "幸好我有一些紫色清洁剂。"
 
 # game/code/e14/e14s06.rpy:1492
 translate chinese e14s06_sex_scene_2_246d907f:
 
     # mc "We should get to it."
-    mc "We should get to it."
+    mc "我们应该开始了。"
 
 # game/code/e14/e14s06.rpy:1495
 translate chinese e14s06_sex_scene_2_2597758f:
 
     # pw "Tonight?"
-    pw "Tonight?"
+    pw "今晚？"
 
 # game/code/e14/e14s06.rpy:1498
 translate chinese e14s06_sex_scene_2_20280208:
 
     # mc "We have to open the cafe in the morning. You think customers want to be stepping on our cum?"
-    mc "We have to open the cafe in the morning. You think customers want to be stepping on our cum?"
+    mc "我们早上还要开咖啡馆呢。你以为顾客愿意踩到我们的精液吗？"
 
 # game/code/e14/e14s06.rpy:1501
 translate chinese e14s06_sex_scene_2_80937314:
 
     # pw "Uggghhhhhh."
-    pw "Uggghhhhhh."
+    pw "呃呃呃呃呃。"
 
 # game/code/e14/e14s06.rpy:1508
 translate chinese e14s06_sex_scene_2_22b03add:
 
     # mc "Hello? Where'd you two go?"
-    mc "Hello? Where'd you two go?"
+    mc "喂？你们俩去哪儿了？"
 
 # game/code/e14/e14s06.rpy:1511
 translate chinese e14s06_sex_scene_2_67176854:
 
     # mc "Don't make me get the paddle out for you two!"
-    mc "Don't make me get the paddle out for you two!"
+    mc "别逼我用板子惩罚你们俩！"
 
 # game/code/e14/e14s06.rpy:1514
 translate chinese e14s06_sex_scene_2_de9ef330:
 
     # pw "Don't threaten me with a good time!"
-    pw "Don't threaten me with a good time!"
+    pw "别拿这么好的东西威胁我啊！"
 
 # game/code/e14/e14s06.rpy:1533
 translate chinese e14s06_no_sex_scene_71ed8380:
 
     # pw "I'm happy there was someone for her."
-    pw "I'm happy there was someone for her."
+    pw "我很高兴有人陪她。"
 
 # game/code/e14/e14s06.rpy:1536
 translate chinese e14s06_no_sex_scene_82874e68:
 
     # nk "All in all, we had a pretty good turn out for the first Blind Date."
-    nk "All in all, we had a pretty good turn out for the first Blind Date."
+    nk "总之，我们的第一次相亲会很成功。"
 
 # game/code/e14/e14s06.rpy:1539
 translate chinese e14s06_no_sex_scene_c6f21ab8:
 
     # mc "We did. I think we should make this a regular thing."
-    mc "We did. I think we should make this a regular thing."
+    mc "是的。我觉得我们应该把这变成一项常规活动。"
 
 # game/code/e14/e14s06.rpy:1542
 translate chinese e14s06_no_sex_scene_23331ee8:
 
     # pw "Next time we can have drink specials!"
-    pw "Next time we can have drink specials!"
+    pw "下次我们可以提供特饮！"
 
 # game/code/e14/e14s06.rpy:1545
 translate chinese e14s06_no_sex_scene_c2d63f8b:
 
     # nk "Polly we- Actually that's a pretty good idea."
-    nk "Polly we- Actually that's a pretty good idea."
+    nk "波莉，我们--其实这是个好主意。"
 
 # game/code/e14/e14s06.rpy:1548
 translate chinese e14s06_no_sex_scene_c5ff6093:
 
     # pw "I have those sometimes."
-    pw "I have those sometimes."
+    pw "我有时也会喝。"
 
 # game/code/e14/e14s06.rpy:1551
 translate chinese e14s06_no_sex_scene_31b29ba6:
 
     # mc "Even a blind squirrel gets a nut sometimes."
-    mc "Even a blind squirrel gets a nut sometimes."
+    mc "即使是瞎眼的松鼠，有时也会吃到坚果。"
 
 # game/code/e14/e14s06.rpy:1554
 translate chinese e14s06_no_sex_scene_4652729d:
 
     # pw "Speaking of nuts-"
-    pw "Speaking of nuts-"
+    pw "说到坚果--"
 
 # game/code/e14/e14s06.rpy:1557
 translate chinese e14s06_no_sex_scene_cd9bf660:
 
     # pw "Watching all these people find love made me horny. Let's go have sex on the beach [mcname]."
-    pw "Watching all these people find love made me horny. Let's go have sex on the beach [mcname]."
+    pw "看着这些人找到爱情让我欲火焚身。我们去沙滩上做爱吧，[mcname]。"
 
 # game/code/e14/e14s06.rpy:1560
 translate chinese e14s06_no_sex_scene_9f15df70:
 
     # mc "I guess I get to be a blind squirrel tonight too!"
-    mc "I guess I get to be a blind squirrel tonight too!"
+    mc "我猜今晚我也能当只瞎松鼠！"
 
 # game/code/e14/e14s06.rpy:1563
 translate chinese e14s06_no_sex_scene_76caeebe:
 
     # nk "Come on you two, fun {i}after{/i} we finish cleaning."
-    nk "Come on you two, fun {i}after{/i} we finish cleaning."
+    nk "来吧，你们两个，我们打扫完{i}之后{/i}再去找乐子。"
 
 # game/code/e14/e14s06.rpy:1566
 translate chinese e14s06_no_sex_scene_32bbc5a9:
 
     # nk "Guys?"
-    nk "Guys?"
+    nk "伙计们？"
 
 # game/code/e14/e14s06.rpy:1569
 translate chinese e14s06_no_sex_scene_82b1bb3e:
 
     # nk "Did you two really leave me to clean this all myself?"
-    nk "Did you two really leave me to clean this all myself?"
+    nk "你们俩真的让我一个人打扫吗？"
 
 translate chinese strings:
 
     # game/code/e14/e14s06.rpy:135
     old "Later that afternoon"
-    new "Later that afternoon"
+    new "当天下午晚些时候"
 
     # game/code/e14/e14s06.rpy:423
     old "I like a little extra downstairs"
-    new "I like a little extra downstairs"
+    new "我喜欢多出来的东西"
 
     # game/code/e14/e14s06.rpy:423
     old "I'm sure you'll find someone here, Debbie"
-    new "I'm sure you'll find someone here, Debbie"
+    new "我相信你会在这里找到喜欢的人的，黛比"
 
     # game/code/e14/e14s06.rpy:549
     old "I like that idea"
-    new "I like that idea"
+    new "我喜欢这个主意。"
 
     # game/code/e14/e14s06.rpy:549
     old "I don't think that's a good idea"
-    new "I don't think that's a good idea"
+    new "我不认为那是个好主意"
 
     # game/code/e14/e14s06.rpy:829
     old "I'd love that"
-    new "I'd love that"
+    new "我喜欢"
 
     # game/code/e14/e14s06.rpy:829
     old "I'm definitely more of a top"
-    new "I'm definitely more of a top"
+    new "我肯定更喜欢上位"
 
