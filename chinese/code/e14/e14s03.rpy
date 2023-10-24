@@ -418,7 +418,7 @@ translate chinese e14s03_next_morning_ba7b177f:
 translate chinese e14s03_next_morning_42ab44d2:
 
     # nk "We did great! Triple the money we usually make."
-    nk "我们做得很好！比我们平时赚的多三倍。
+    nk "我们做得很好！比我们平时赚的多三倍。"
 
 # game/code/e14/e14s03.rpy:300
 translate chinese e14s03_next_morning_071c6f6d:
@@ -490,7 +490,7 @@ translate chinese e14s03_next_morning_d6440ee0:
 translate chinese e14s03_next_morning_46a5036e:
 
     # nk "We're going to go to bed and one or preferably both of you are going to play with {i}my{/i} bean."
-    nk "我们要去床上了，你们俩最好有一个去玩我的{/i}豆子{/i}。"
+    nk "我们要去床上了，你们俩最好有一个去玩我的{i}豆子{/i}。"
 
 # game/code/e14/e14s03.rpy:329
 translate chinese e14s03_next_morning_2943f8e7:
@@ -742,7 +742,7 @@ translate chinese e14s03_let_pw_take_charge_3b973295:
 translate chinese e14s03_let_pw_take_charge_9bd2400e:
 
     # pw "Delicious as always..."
-    pw "一如既往的美味...
+    pw "一如既往的美味..."
 
 # game/code/e14/e14s03.rpy:489
 translate chinese e14s03_let_pw_take_charge_01c43b41:
