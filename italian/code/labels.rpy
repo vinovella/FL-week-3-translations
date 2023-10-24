@@ -115,10 +115,10 @@ translate italian after_credits_a17db195:
     sy "Aspetta, la conosci?"
 
 # game/code/labels.rpy:215
-translate italian after_credits_6daca271:
+translate italian after_credits_870c1bff:
 
-    # dd "Yeah, she is from Vinovella University!"
-    dd "Sì, lei viena dall'Università Vinovella!"
+    # dd "Yeah, she is from Taboo University!"
+    dd "Sì, lei viena dall'Università Taboo!"
 
 # game/code/labels.rpy:218
 translate italian after_credits_66e7bad8:
@@ -283,10 +283,10 @@ translate italian after_credits_73eb5eb5:
     sy "Lo so! Non vedo l'ora di vedere cosa ViNovella ha preparato per noi!"
 
 # game/code/labels.rpy:372
-translate italian after_credits_e4b3c0d3:
+translate italian after_credits_826b65f0:
 
-    # dd "But what about Vinovella University though?"
-    dd "Ma cosa dire dell'Università Vinovella però?"
+    # dd "But what about Taboo University though?"
+    dd "Ma cosa dire dell'Università Taboo però?"
 
 # game/code/labels.rpy:376
 translate italian after_credits_47a5d0a5:
@@ -295,16 +295,16 @@ translate italian after_credits_47a5d0a5:
     dd "Hey, Piacere di conoscerti!"
 
 # game/code/labels.rpy:377
-translate italian after_credits_37ad6ed0:
+translate italian after_credits_f1d2352a:
 
-    # dd "How is Vinovella University going? What's next?"
-    dd "Come va all'Università Vinovella? Qual è il prossimo?"
+    # dd "How is Taboo University going? What's next?"
+    dd "Come va all'Università Taboo? Qual è il prossimo?"
 
 # game/code/labels.rpy:380
-translate italian after_credits_cbe5ee17:
+translate italian after_credits_75e46767:
 
-    # sm "Oh? Have you played VU?"
-    sm "Oh? Hai giocato a VU?"
+    # sm "Oh? Have you played TU?"
+    sm "Oh? Hai giocato a TU?"
 
 # game/code/labels.rpy:383
 translate italian after_credits_cf40d33d:
@@ -355,10 +355,10 @@ translate italian after_credits_23a10f35:
     dd "*Ride* Scusa! Non ho potuto farne a meno."
 
 # game/code/labels.rpy:412
-translate italian after_credits_470ffbdd:
+translate italian after_credits_166c44bf:
 
-    # sy "Do you two know when there'll be a finished version of VU available? I wanna binge it."
-    sy "Voi due sapete quando sarà disponibile una versione completa di Vu? Voglio giocarlo tutto in una volta."
+    # sy "Do you two know when there'll be a finished version of TU available? I wanna binge it."
+    sy "Voi due sapete quando sarà disponibile una versione completa di TU? Voglio giocarlo tutto in una volta."
 
 # game/code/labels.rpy:415
 translate italian after_credits_4041f0a9:
@@ -373,10 +373,10 @@ translate italian after_credits_321e2b80:
     sy "Oh? Aspetta, il Book-1 è come Week-1 in Fetish Locator?"
 
 # game/code/labels.rpy:421
-translate italian after_credits_99a25d72:
+translate italian after_credits_175f3ea2:
 
-    # sm "Close. Each VU book will be {i}much{/i} bigger than an FL Week."
-    sm "Diciamo. Ogni VU Book sarà {i}molto{/i} più grande di FL Week."
+    # sm "Close. Each TU book will be {i}much{/i} bigger than an FL Week."
+    sm "Diciamo. Ogni TU Book sarà {i}molto{/i} più grande di FL Week."
 
 # game/code/labels.rpy:424
 translate italian after_credits_03943779:
@@ -618,11 +618,74 @@ translate italian strings:
     old "The legendary Fetish Locator will return"
     new "Il leggendario Fetish Locator tornerà"
 
-# TODO: Translation updated at 2023-07-05 01:07
-
 # game/code/labels.rpy:431
-translate italian after_credits_cb03f950:
+translate italian after_credits_b06da193:
 
-    # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+    # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
 
+# game/code/labels.rpy:170
+translate italian after_credits_dcd001ba:
+
+    # sy "It is so sad! I thought you died."
+    sy "It is so sad! I thought you died."
+
+# game/code/labels.rpy:173
+translate italian after_credits_5a67dd3f:
+
+    # sy "*sniffs*"
+    sy "*sniffs*"
+
+# game/code/labels.rpy:179
+translate italian after_credits_3b9a74dd:
+
+    # dd "Hey, it's okay. I'm healthy as a clam now."
+    dd "Hey, it's okay. I'm healthy as a clam now."
+
+# game/code/labels.rpy:182
+translate italian after_credits_62dbb988:
+
+    # sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+    sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+
+# game/code/labels.rpy:185
+translate italian after_credits_de67d958:
+
+    # dd "Mmmhmm. Me too, Stacy."
+    dd "Mmmhmm. Me too, Stacy."
+
+# game/code/labels.rpy:189
+translate italian after_credits_697eed2b:
+
+    # dd "And don't forget. There's is another ending with me!"
+    dd "And don't forget. There's is another ending with me!"
+
+# game/code/labels.rpy:192
+translate italian after_credits_26d7f508:
+
+    # sy "Oh...right."
+    sy "Oh...right."
+
+# game/code/labels.rpy:196
+translate italian after_credits_ae828622:
+
+    # sy "I almost forgot about the Sex Dungeon ending!"
+    sy "I almost forgot about the Sex Dungeon ending!"
+
+# game/code/labels.rpy:199
+translate italian after_credits_a73caa2e:
+
+    # dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+    dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+
+# game/code/labels.rpy:202
+translate italian after_credits_83a2ed10:
+
+    # sy "Yeah... That ending sounds like fun."
+    sy "Yeah... That ending sounds like fun."
+
+# game/code/labels.rpy:206
+translate italian after_credits_f4cf666b:
+
+    # sy "I can't wait to enjoy it with you."
+    sy "I can't wait to enjoy it with you."

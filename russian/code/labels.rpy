@@ -142,11 +142,11 @@ translate russian after_credits_a17db195:
     # sy "Wait, you know her?"
     sy "Wait, you know her?"
 
-# game/code/labels.rpy:215
-translate russian after_credits_6daca271:
+# game/code/labels.rpy:222
+translate russian after_credits_870c1bff:
 
-    # dd "Yeah, she is from Vinovella University!"
-    dd "Yeah, she is from Vinovella University!"
+    # dd "Yeah, she is from Taboo University!"
+    dd "Yeah, she is from Taboo University!"
 
 # game/code/labels.rpy:218
 translate russian after_credits_66e7bad8:
@@ -310,11 +310,11 @@ translate russian after_credits_73eb5eb5:
     # sy "I know! I can't wait to see what ViNovella has prepared for us next!"
     sy "I know! I can't wait to see what ViNovella has prepared for us next!"
 
-# game/code/labels.rpy:372
-translate russian after_credits_e4b3c0d3:
+# game/code/labels.rpy:379
+translate russian after_credits_826b65f0:
 
-    # dd "But what about Vinovella University though?"
-    dd "But what about Vinovella University though?"
+    # dd "But what about Taboo University though?"
+    dd "But what about Taboo University though?"
 
 # game/code/labels.rpy:376
 translate russian after_credits_47a5d0a5:
@@ -322,17 +322,17 @@ translate russian after_credits_47a5d0a5:
     # dd "Hey, Nice to meet you too!"
     dd "Hey, Nice to meet you too!"
 
-# game/code/labels.rpy:377
-translate russian after_credits_37ad6ed0:
+# game/code/labels.rpy:384
+translate russian after_credits_f1d2352a:
 
-    # dd "How is Vinovella University going? What's next?"
-    dd "How is Vinovella University going? What's next?"
+    # dd "How is Taboo University going? What's next?"
+    dd "How is Taboo University going? What's next?"
 
-# game/code/labels.rpy:380
-translate russian after_credits_cbe5ee17:
+# game/code/labels.rpy:387
+translate russian after_credits_75e46767:
 
-    # sm "Oh? Have you played VU?"
-    sm "Oh? Have you played VU?"
+    # sm "Oh? Have you played TU?"
+    sm "Oh? Have you played TU?"
 
 # game/code/labels.rpy:383
 translate russian after_credits_cf40d33d:
@@ -382,11 +382,11 @@ translate russian after_credits_23a10f35:
     # dd "*Laughs* Sorry! Couldn't help myself."
     dd "*Laughs* Sorry! Couldn't help myself."
 
-# game/code/labels.rpy:412
-translate russian after_credits_470ffbdd:
+# game/code/labels.rpy:419
+translate russian after_credits_166c44bf:
 
-    # sy "Do you two know when there'll be a finished version of VU available? I wanna binge it."
-    sy "Do you two know when there'll be a finished version of VU available? I wanna binge it."
+    # sy "Do you two know when there'll be a finished version of TU available? I wanna binge it."
+    sy "Do you two know when there'll be a finished version of TU available? I wanna binge it."
 
 # game/code/labels.rpy:415
 translate russian after_credits_4041f0a9:
@@ -400,11 +400,11 @@ translate russian after_credits_321e2b80:
     # sy "Oh? Wait, so is Book-1 like Week-1 in Fetish Locator?"
     sy "Oh? Wait, so is Book-1 like Week-1 in Fetish Locator?"
 
-# game/code/labels.rpy:421
-translate russian after_credits_99a25d72:
+# game/code/labels.rpy:428
+translate russian after_credits_175f3ea2:
 
-    # sm "Close. Each VU book will be {i}much{/i} bigger than an FL Week."
-    sm "Close. Each VU book will be {i}much{/i} bigger than an FL Week."
+    # sm "Close. Each TU book will be {i}much{/i} bigger than an FL Week."
+    sm "Close. Each TU book will be {i}much{/i} bigger than an FL Week."
 
 # game/code/labels.rpy:424
 translate russian after_credits_03943779:
@@ -622,11 +622,74 @@ translate russian strings:
     old "The legendary Fetish Locator will return"
     new "The legendary Fetish Locator will return"
 
-# TODO: Translation updated at 2023-07-03 00:02
+# game/code/labels.rpy:432
+translate russian after_credits_b06da193:
 
-# game/code/labels.rpy:431
-translate russian after_credits_cb03f950:
+    # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
 
-    # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-    sy "Тогда мне определенно стоит {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}заказать игру в Steam{/u}{/a}!"
+# game/code/labels.rpy:170
+translate russian after_credits_dcd001ba:
 
+    # sy "It is so sad! I thought you died."
+    sy "It is so sad! I thought you died."
+
+# game/code/labels.rpy:173
+translate russian after_credits_5a67dd3f:
+
+    # sy "*sniffs*"
+    sy "*sniffs*"
+
+# game/code/labels.rpy:179
+translate russian after_credits_3b9a74dd:
+
+    # dd "Hey, it's okay. I'm healthy as a clam now."
+    dd "Hey, it's okay. I'm healthy as a clam now."
+
+# game/code/labels.rpy:182
+translate russian after_credits_62dbb988:
+
+    # sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+    sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+
+# game/code/labels.rpy:185
+translate russian after_credits_de67d958:
+
+    # dd "Mmmhmm. Me too, Stacy."
+    dd "Mmmhmm. Me too, Stacy."
+
+# game/code/labels.rpy:189
+translate russian after_credits_697eed2b:
+
+    # dd "And don't forget. There's is another ending with me!"
+    dd "And don't forget. There's is another ending with me!"
+
+# game/code/labels.rpy:192
+translate russian after_credits_26d7f508:
+
+    # sy "Oh...right."
+    sy "Oh...right."
+
+# game/code/labels.rpy:196
+translate russian after_credits_ae828622:
+
+    # sy "I almost forgot about the Sex Dungeon ending!"
+    sy "I almost forgot about the Sex Dungeon ending!"
+
+# game/code/labels.rpy:199
+translate russian after_credits_a73caa2e:
+
+    # dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+    dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+
+# game/code/labels.rpy:202
+translate russian after_credits_83a2ed10:
+
+    # sy "Yeah... That ending sounds like fun."
+    sy "Yeah... That ending sounds like fun."
+
+# game/code/labels.rpy:206
+translate russian after_credits_f4cf666b:
+
+    # sy "I can't wait to enjoy it with you."
+    sy "I can't wait to enjoy it with you."

@@ -115,10 +115,10 @@ translate malay after_credits_a17db195:
     sy "Tunggu, kau kenal dia?"
 
 # game/code/labels.rpy:222
-translate malay after_credits_6daca271:
+translate malay after_credits_870c1bff:
 
-    # dd "Yeah, she is from Vinovella University!"
-    dd "Ya, dia dari Universiti Vinovella!"
+    # dd "Yeah, she is from Taboo University!"
+    dd "Ya, dia dari Universiti Taboo!"
 
 # game/code/labels.rpy:225
 translate malay after_credits_66e7bad8:
@@ -283,10 +283,10 @@ translate malay after_credits_73eb5eb5:
     sy "Kan! Aku tak sabar nak tengok apa yang ViNovella sediakan untuk kita seterusnya!"
 
 # game/code/labels.rpy:379
-translate malay after_credits_e4b3c0d3:
+translate malay after_credits_826b65f0:
 
-    # dd "But what about Vinovella University though?"
-    dd "Tapi macam mana pula dengan Universiti Vinovella?"
+    # dd "But what about Taboo University though?"
+    dd "Tapi macam mana pula dengan Universiti Taboo?"
 
 # game/code/labels.rpy:383
 translate malay after_credits_47a5d0a5:
@@ -295,16 +295,16 @@ translate malay after_credits_47a5d0a5:
     dd "Hei, gembira berkenalan juga!"
 
 # game/code/labels.rpy:384
-translate malay after_credits_37ad6ed0:
+translate malay after_credits_f1d2352a:
 
-    # dd "How is Vinovella University going? What's next?"
-    dd "Macam nana dengan Universiti Vinovella? Apa seterusnya?"
+    # dd "How is Taboo University going? What's next?"
+    dd "Macam nana dengan Universiti Taboo? Apa seterusnya?"
 
 # game/code/labels.rpy:387
-translate malay after_credits_cbe5ee17:
+translate malay after_credits_75e46767:
 
-    # sm "Oh? Have you played VU?"
-    sm "Oh? Kau dah main VU ke?"
+    # sm "Oh? Have you played TU?"
+    sm "Oh? Kau dah main TU ke?"
 
 # game/code/labels.rpy:390
 translate malay after_credits_cf40d33d:
@@ -355,10 +355,10 @@ translate malay after_credits_23a10f35:
     dd "*Ketawa* Maaf! Tak dapat tahan pula tadi."
 
 # game/code/labels.rpy:419
-translate malay after_credits_470ffbdd:
+translate malay after_credits_166c44bf:
 
-    # sy "Do you two know when there'll be a finished version of VU available? I wanna binge it."
-    sy "Korang berdua tahu bila VU versi siap akan tersedia?"
+    # sy "Do you two know when there'll be a finished version of TU available? I wanna binge it."
+    sy "Korang berdua tahu bila TU versi siap akan tersedia?"
 
 # game/code/labels.rpy:422
 translate malay after_credits_4041f0a9:
@@ -373,10 +373,10 @@ translate malay after_credits_321e2b80:
     sy "Oh? Tunggu, Buku-1 seperti Minggu-1 dalam Fetish Locator?"
 
 # game/code/labels.rpy:428
-translate malay after_credits_99a25d72:
+translate malay after_credits_175f3ea2:
 
-    # sm "Close. Each VU book will be {i}much{/i} bigger than an FL Week."
-    sm "Lebih kurang. Setiap buku VU akan menjadi {i}jauh{/i} lebih besar daripada Minggu FL."
+    # sm "Close. Each TU book will be {i}much{/i} bigger than an FL Week."
+    sm "Lebih kurang. Setiap buku TU akan menjadi {i}jauh{/i} lebih besar daripada Minggu FL."
 
 # game/code/labels.rpy:431
 translate malay after_credits_03943779:
@@ -621,11 +621,75 @@ translate malay strings:
     # game/code/labels.rpy:71
     old "The legendary Fetish Locator will return"
     new "The legendary Fetish Locator will return"
-# TODO: Translation updated at 2023-07-05 01:09
 
 # game/code/labels.rpy:431
-translate malay after_credits_cb03f950:
+translate malay after_credits_b06da193:
 
-    # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+    # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
 
+# game/code/labels.rpy:170
+translate malay after_credits_dcd001ba:
+
+    # sy "It is so sad! I thought you died."
+    sy "It is so sad! I thought you died."
+
+# game/code/labels.rpy:173
+translate malay after_credits_5a67dd3f:
+
+    # sy "*sniffs*"
+    sy "*sniffs*"
+
+# game/code/labels.rpy:179
+translate malay after_credits_3b9a74dd:
+
+    # dd "Hey, it's okay. I'm healthy as a clam now."
+    dd "Hey, it's okay. I'm healthy as a clam now."
+
+# game/code/labels.rpy:182
+translate malay after_credits_62dbb988:
+
+    # sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+    sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+
+# game/code/labels.rpy:185
+translate malay after_credits_de67d958:
+
+    # dd "Mmmhmm. Me too, Stacy."
+    dd "Mmmhmm. Me too, Stacy."
+
+# game/code/labels.rpy:189
+translate malay after_credits_697eed2b:
+
+    # dd "And don't forget. There's is another ending with me!"
+    dd "And don't forget. There's is another ending with me!"
+
+# game/code/labels.rpy:192
+translate malay after_credits_26d7f508:
+
+    # sy "Oh...right."
+    sy "Oh...right."
+
+# game/code/labels.rpy:196
+translate malay after_credits_ae828622:
+
+    # sy "I almost forgot about the Sex Dungeon ending!"
+    sy "I almost forgot about the Sex Dungeon ending!"
+
+# game/code/labels.rpy:199
+translate malay after_credits_a73caa2e:
+
+    # dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+    dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+
+# game/code/labels.rpy:202
+translate malay after_credits_83a2ed10:
+
+    # sy "Yeah... That ending sounds like fun."
+    sy "Yeah... That ending sounds like fun."
+
+# game/code/labels.rpy:206
+translate malay after_credits_f4cf666b:
+
+    # sy "I can't wait to enjoy it with you."
+    sy "I can't wait to enjoy it with you."
