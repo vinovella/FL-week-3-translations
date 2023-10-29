@@ -71,8 +71,8 @@ translate spanish strings:
 translate spanish strings:
 
     # game/code/screens/extended/screens.rpy:95
-    old "Wishlist Vinovella University on Steam"
-    new "Añada Vinovella University a su lista de deseados en Steam"
+    old "Wishlist Taboo University on Steam"
+    new "Añada Taboo University a su lista de deseados en Steam"
 
 # TODO: Translation updated at 2023-09-28 22:55
 
@@ -83,10 +83,10 @@ translate spanish strings:
     new "Get a Lovense toy"
 
     # game/code/screens/extended/screens.rpy:230
-    old "Wishlist Vinovella University in Steam"
-    new "Wishlist Vinovella University in Steam"
+    old "Wishlist Taboo University in Steam"
+    new "Wishlist Taboo University in Steam"
 
     # game/code/screens/extended/screens.rpy:233
-    old "Try our new game Vinovella University"
-    new "Try our new game Vinovella University"
+    old "Try our new game Taboo University"
+    new "Try our new game Taboo University"
 

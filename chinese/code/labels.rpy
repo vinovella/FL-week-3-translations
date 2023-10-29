@@ -115,10 +115,10 @@ translate chinese after_credits_a17db195:
     sy "等等，你认识她？"
 
 # game/code/labels.rpy:222
-translate chinese after_credits_6daca271:
+translate chinese after_credits_870c1bff:
 
-    # dd "Yeah, she is from Vinovella University!"
-    dd "对呀，她是Vinovella大学的!"
+    # dd "Yeah, she is from Taboo University!"
+    dd "对呀，她是Taboo大学的!"
 
 # game/code/labels.rpy:225
 translate chinese after_credits_66e7bad8:
@@ -283,10 +283,10 @@ translate chinese after_credits_73eb5eb5:
     sy "是吧！我迫不及待地想看ViNovella接下来为我们准备了什么！"
 
 # game/code/labels.rpy:379
-translate chinese after_credits_e4b3c0d3:
+translate chinese after_credits_826b65f0:
 
-    # dd "But what about Vinovella University though?"
-    dd "但是Vinovell大学呢？"
+    # dd "But what about Taboo University though?"
+    dd "但是Taboo大学呢？"
 
 # game/code/labels.rpy:383
 translate chinese after_credits_47a5d0a5:
@@ -295,16 +295,16 @@ translate chinese after_credits_47a5d0a5:
     dd "嗨，我也很高兴认识你！"
 
 # game/code/labels.rpy:384
-translate chinese after_credits_37ad6ed0:
+translate chinese after_credits_f1d2352a:
 
-    # dd "How is Vinovella University going? What's next?"
-    dd "Vinovella大学怎么样了？下一步是什么？"
+    # dd "How is Taboo University going? What's next?"
+    dd "Taboo大学怎么样了？下一步是什么？"
 
 # game/code/labels.rpy:387
-translate chinese after_credits_cbe5ee17:
+translate chinese after_credits_75e46767:
 
-    # sm "Oh? Have you played VU?"
-    sm "哦？你玩过VU吗？"
+    # sm "Oh? Have you played TU?"
+    sm "哦？你玩过TU吗？"
 
 # game/code/labels.rpy:390
 translate chinese after_credits_cf40d33d:
@@ -355,10 +355,10 @@ translate chinese after_credits_23a10f35:
     dd "*笑* 对不起！我控制不住自己。"
 
 # game/code/labels.rpy:419
-translate chinese after_credits_470ffbdd:
+translate chinese after_credits_166c44bf:
 
-    # sy "Do you two know when there'll be a finished version of VU available? I wanna binge it."
-    sy "你们俩知道什么时候会有VU的完成版吗？我到时候要狂欢。"
+    # sy "Do you two know when there'll be a finished version of TU available? I wanna binge it."
+    sy "你们俩知道什么时候会有TU的完成版吗？我到时候要狂欢。"
 
 # game/code/labels.rpy:422
 translate chinese after_credits_4041f0a9:
@@ -373,9 +373,9 @@ translate chinese after_credits_321e2b80:
     sy "哦？等等，第1册和性趣探测器的第1周一样吗？"
 
 # game/code/labels.rpy:428
-translate chinese after_credits_99a25d72:
+translate chinese after_credits_175f3ea2:
 
-    # sm "Close. Each VU book will be {i}much{/i} bigger than an FL Week."
+    # sm "Close. Each TU book will be {i}much{/i} bigger than an FL Week."
     sm "差不多。每一册都比性趣探测器的一周内容{i}大得多{/i}。"
 
 # game/code/labels.rpy:431
@@ -620,11 +620,74 @@ translate chinese strings:
     old "The legendary Fetish Locator will return"
     new "传说中的性趣探测器会回来的"
 
-# TODO: Translation updated at 2023-07-05 01:05
+# game/code/labels.rpy:432
+translate chinese after_credits_b06da193:
 
-# game/code/labels.rpy:431
-translate chinese after_credits_cb03f950:
+    # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
 
-    # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Vinovella_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+# game/code/labels.rpy:170
+translate chinese after_credits_dcd001ba:
 
+    # sy "It is so sad! I thought you died."
+    sy "It is so sad! I thought you died."
+
+# game/code/labels.rpy:173
+translate chinese after_credits_5a67dd3f:
+
+    # sy "*sniffs*"
+    sy "*sniffs*"
+
+# game/code/labels.rpy:179
+translate chinese after_credits_3b9a74dd:
+
+    # dd "Hey, it's okay. I'm healthy as a clam now."
+    dd "Hey, it's okay. I'm healthy as a clam now."
+
+# game/code/labels.rpy:182
+translate chinese after_credits_62dbb988:
+
+    # sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+    sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+
+# game/code/labels.rpy:185
+translate chinese after_credits_de67d958:
+
+    # dd "Mmmhmm. Me too, Stacy."
+    dd "Mmmhmm. Me too, Stacy."
+
+# game/code/labels.rpy:189
+translate chinese after_credits_697eed2b:
+
+    # dd "And don't forget. There's is another ending with me!"
+    dd "And don't forget. There's is another ending with me!"
+
+# game/code/labels.rpy:192
+translate chinese after_credits_26d7f508:
+
+    # sy "Oh...right."
+    sy "Oh...right."
+
+# game/code/labels.rpy:196
+translate chinese after_credits_ae828622:
+
+    # sy "I almost forgot about the Sex Dungeon ending!"
+    sy "I almost forgot about the Sex Dungeon ending!"
+
+# game/code/labels.rpy:199
+translate chinese after_credits_a73caa2e:
+
+    # dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+    dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+
+# game/code/labels.rpy:202
+translate chinese after_credits_83a2ed10:
+
+    # sy "Yeah... That ending sounds like fun."
+    sy "Yeah... That ending sounds like fun."
+
+# game/code/labels.rpy:206
+translate chinese after_credits_f4cf666b:
+
+    # sy "I can't wait to enjoy it with you."
+    sy "I can't wait to enjoy it with you."
