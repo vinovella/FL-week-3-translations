@@ -1264,7 +1264,7 @@ translate deutsch d18s03_sex_21bec6f3:
 translate deutsch d18s03_sex_f53706ef:
 
     # mes "MY ASS!!!{w} MY POOR ASSHOLE!!!"
-    mes "MEIN ARSCH!!!{mit} MEIN ARMES ARSCHLOCH!!!"
+    mes "MEIN ARSCH!!!{w} MEIN ARMES ARSCHLOCH!!!"
 
 # game/code/d18/d18s03.rpy:922
 translate deutsch d18s03_sex_c22cd505:
@@ -1751,4 +1751,3 @@ translate deutsch strings:
     # game/code/d18/d18s03.rpy:1050
     old "No. Definitely NOT"
     new "Nein, definitiv NICHT"
-
