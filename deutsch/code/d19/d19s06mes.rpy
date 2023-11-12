@@ -994,7 +994,7 @@ translate deutsch d19s06mes_cc0ea599:
 translate deutsch d19s06mes_e26b033f:
 
     # mes "No, no, no. That won't do at all.{w} Open your eyes and look at his magnificent penis."
-    mes "Nein nein Nein. Das geht überhaupt nicht.{w} Öffne deine Augen und sieh dir seinen prächtigen Penis an.“
+    mes "Nein nein Nein. Das geht überhaupt nicht.{w} Öffne deine Augen und sieh dir seinen prächtigen Penis an."
 
 # game/code/d19/d19s06mes.rpy:692
 translate deutsch d19s06mes_a19ae317:

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
+# TODO: Translation updated at 2023-05-27 22:27
 
 translate italian strings:
 
@@ -240,5 +240,4 @@ translate italian strings:
 
     # game/code/screens/screens_fl.rpy:180
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
-    new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
-
+    new "Se decidi di continuare, potresti non essere in grado di caricare i salvataggi della seconda settimana. Non riceverai più alcuna notifica. Sei sicuro?"

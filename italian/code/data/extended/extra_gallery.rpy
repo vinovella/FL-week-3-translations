@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
+# TODO: Translation updated at 2023-05-27 22:27
 
 translate italian strings:
 
@@ -212,7 +212,7 @@ translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "27. May I panic now, Mistress?"
-    new "27. May I panic now, Mistress?"
+    new "27. Posso agitarmi adesso, Mistress?"
 
     # game/code/data/extended/extra_gallery.rpy:15
     old "Braved the funhouse with Dahlia"
@@ -284,7 +284,7 @@ translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:535
     old "TRADE OFFER"
-    new "TRADE OFFER"
+    new "OFFERTA DI SCAMBIO"
 
     # game/code/data/extended/extra_gallery.rpy:438
     old "I receive:"

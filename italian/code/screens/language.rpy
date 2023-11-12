@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
+# TODO: Translation updated at 2023-05-27 22:27
 
 translate italian strings:
 
@@ -12,5 +12,4 @@ translate italian strings:
 
     # game/code/screens/language.rpy:121
     old "Choose Language"
-    new "Choose Language"
-
+    new "Scegli Lingua"

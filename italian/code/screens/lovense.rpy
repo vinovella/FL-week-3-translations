@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
+# TODO: Translation updated at 2023-05-27 22:27
 
 # game/code/screens/lovense.rpy:173
 translate italian lovense_test_9e0ee773:
@@ -136,9 +136,8 @@ translate italian strings:
 
     # game/code/screens/lovense.rpy:74
     old "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
-    new "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
+    new "Ottieni un giocattolo Lovense e goditi il modo migliore per sperimentare il Fetish Locator!"
 
     # game/code/screens/lovense.rpy:80
     old "Get a toy now"
-    new "Get a toy now"
-
+    new "Ottieni ora un giocattolo"

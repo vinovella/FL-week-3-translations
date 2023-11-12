@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
+# TODO: Translation updated at 2023-05-27 22:27
 
 translate italian strings:
 
@@ -71,7 +71,7 @@ translate italian strings:
 
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Taboo University on Steam"
-    new "Wishlist Taboo University on Steam"
+    new "Wishlist Vinovella University su Steam"
 
 # TODO: Translation updated at 2023-09-28 22:45
 
@@ -79,13 +79,12 @@ translate italian strings:
 
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
-    new "Get a Lovense toy"
+    new "Ottieni un giocattolo Lovense"
 
     # game/code/screens/extended/screens.rpy:230
     old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
+    new "Lista dei desideri Taboo University in Steam"
 
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
-
+    new "Prova il nostro nuovo gioco Taboo University"

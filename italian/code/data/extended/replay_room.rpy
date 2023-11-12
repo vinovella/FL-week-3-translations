@@ -220,7 +220,7 @@ translate italian strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't leave Maria"
-    new "Don't leave Maria"
+    new "Non abbandonare Maria"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 21: Judge"
