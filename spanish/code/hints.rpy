@@ -164,7 +164,7 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Lydia tells you her fantasy. Different for LC or NTR path."
-    new "Lydia te cuenta su fantasía. Es fiferente para la ruta LC o NTR."
+    new "Lydia te cuenta su fantasía. Es diferente para la ruta LC o NTR."
 
     # game/code/hints.rpy:5
     old "Lydia doesn't tell you her fantasy."
