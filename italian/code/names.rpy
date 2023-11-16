@@ -78,10 +78,10 @@ translate italian strings:
     new "Min Do-yun"
 
     old "Officer Cheney"
-    new "Officer Cheney"
+    new "L'agente Cheney"
 
     old "Officer Martinez"
-    new "Officer Martinez"
+    new "Agente Martinez"
 
     old "Ashley"
     new "Ashley"
@@ -105,7 +105,7 @@ translate italian strings:
     new "Jerome"
 
     old "Judge"
-    new "Judge"
+    new "Giudice"
 
     old "Mikaela"
     new "Mikaela"

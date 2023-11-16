@@ -424,7 +424,7 @@ translate deutsch d20s07_e1b790c3:
 translate deutsch d20s07_aafefc32:
 
     # nk "It's not weird, a bit strange, maybe."
-    nk "Es ist nicht seltsam, vielleicht ein bisschen
+    nk "Es ist nicht seltsam, vielleicht ein bisschen."
 
 # game/code/d20/d20s07.rpy:272
 translate deutsch d20s07_e4e4471a:

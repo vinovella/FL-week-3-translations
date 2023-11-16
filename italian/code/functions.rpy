@@ -36,5 +36,4 @@ translate italian strings:
 
     # game/code/functions.rpy:23
     old "You have unlocked Ending #{}"
-    new "You have unlocked Ending #{}"
-
+    new "Hai sbloccato il Finale #{}"
