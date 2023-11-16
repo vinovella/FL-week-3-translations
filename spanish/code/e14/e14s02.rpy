@@ -4,7 +4,7 @@
 translate spanish e14s02_4e897067:
 
     # pw "The first day of \"Nora's\"! Wooo!"
-    pw "¡El primer día de \"Nora's\"! ¡Guau!"
+    pw "¡El primer día de \"Nora\"! ¡Guau!"
 
 # game/code/e14/e14s02.rpy:24
 translate spanish e14s02_2771b748:
