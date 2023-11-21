@@ -766,7 +766,7 @@ translate deutsch d17s05mo_73fb7253:
 translate deutsch d17s05mo_a3e1d9ef:
 
     # op "He is, he's the reason I'm still here today."
-    op "He is, he's the reason I'm still here today."
+    op "Ist er. Er ist der Grund, warum ich heute noch hier bin."
 
 # game/code/d17/d17s05mo.rpy:387
 translate deutsch d17s05mo_d39aac8a:
