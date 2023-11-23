@@ -210,3 +210,15 @@ translate spanish strings:
     old "Ending 14: Polly & Nora"
     new "Ending 14: Polly & Nora"
 
+# TODO: Translation updated at 2023-11-23 21:07
+
+translate spanish strings:
+
+    # game/code/data/extended/cg_gallery.rpy:91
+    old "Ending 11: Daisy"
+    new "Ending 11: Daisy"
+
+    # game/code/data/extended/cg_gallery.rpy:108
+    old "Ending 17: Dahlia"
+    new "Ending 17: Dahlia"
+
