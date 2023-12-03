@@ -856,7 +856,7 @@ translate spanish e17s01_hotel_bedroom_479f11e2:
 translate spanish e17s01_hotel_bedroom_a5e72c74:
 
     # rs "And if I lose, I still get a 20%% tip."
-    rs "Y si pierdo, todavía recibo una propina del 20%."
+    rs "Y si pierdo, todavía recibo una propina del 20%%."
 
 # game/code/e17/e17s01.rpy:525
 translate spanish e17s01_hotel_bedroom_2ba6b15c:
