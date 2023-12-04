@@ -166,7 +166,7 @@ translate italian week_2_recap_5b6f68b3:
 translate italian week_2_recap_4a9edaa2:
 
     # "[mcname] met Nora for their third 'blind date'. The barista's choice of outfit nearly knocked [mcname] off his feet."
-    "[mcname] ha incontrato Nora per il loro terzo "appuntamento al buio". La scelta dell'abbigliamento del barista ha quasi fatto cadere [mcname] in piedi."
+    "[mcname] ha incontrato Nora per il loro terzo \"appuntamento al buio\". La scelta dell'abbigliamento del barista ha quasi fatto cadere [mcname] in piedi."
 
 # game/code/recap/w2_recap.rpy:184
 translate italian week_2_recap_110afbd4:
@@ -1012,7 +1012,7 @@ translate italian week_2_day_12_22c8d5fd:
 translate italian week_2_day_12_47706d6e:
 
     # "[mcname] got an unexpected call from the Judge he'd met earlier. The woman was 'very' interested to meet him again."
-    "[mcname] riceve una telefonata inaspettata dal giudice che aveva incontrato in precedenza. La donna era "molto" interessata a incontrarlo di nuovo."
+    "[mcname] riceve una telefonata inaspettata dal giudice che aveva incontrato in precedenza. La donna era \"molto\" interessata a incontrarlo di nuovo."
 
 # game/code/recap/w2_recap.rpy:575
 translate italian week_2_day_12_306ef8e8:
