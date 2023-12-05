@@ -562,7 +562,7 @@ translate deutsch e02s10_double_anal_f0cdd948:
 translate deutsch e02s10_double_anal_f822c1ea:
 
     # mh "Don't you mean \"Oh mama\"?"
-    mh "Meinst du nicht \"Oh Mama\"?
+    mh "Meinst du nicht \"Oh Mama\"?"
 
 # game/code/e02/e02s10.rpy:416
 translate deutsch e02s10_double_anal_4661a639:
