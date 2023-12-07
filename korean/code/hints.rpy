@@ -1202,3 +1202,23 @@ translate korean strings:
     old "Dahlia won't peg you."
     new "Dahlia won't peg you."
 
+# TODO: Translation updated at 2023-12-07 21:17
+
+translate korean strings:
+
+    # game/code/hints.rpy:5
+    old "Make Daisy say what she wants."
+    new "Make Daisy say what she wants."
+
+    # game/code/hints.rpy:5
+    old "Give Daisy what she wants."
+    new "Give Daisy what she wants."
+
+    # game/code/hints.rpy:5
+    old "Tell your Mistress you desperately want to impregnate her."
+    new "Tell your Mistress you desperately want to impregnate her."
+
+    # game/code/hints.rpy:5
+    old "You have no will of you own. You are simply an extension of Dahlia."
+    new "You have no will of you own. You are simply an extension of Dahlia."
+

@@ -162,3 +162,15 @@ translate portuguese strings:
     old "Ending 14: Polly & Nora"
     new ""
 
+# TODO: Translation updated at 2023-12-07 21:18
+
+translate portuguese strings:
+
+    # game/code/data/extended/cg_gallery.rpy:91
+    old "Ending 11: Daisy"
+    new "Ending 11: Daisy"
+
+    # game/code/data/extended/cg_gallery.rpy:108
+    old "Ending 17: Dahlia"
+    new "Ending 17: Dahlia"
+

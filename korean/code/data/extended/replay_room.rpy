@@ -294,3 +294,23 @@ translate korean strings:
     old "Ending 14: Polly, Nora & Debbie"
     new "Ending 14: Polly, Nora & Debbie"
 
+# TODO: Translation updated at 2023-12-07 21:17
+
+translate korean strings:
+
+    # game/code/data/extended/replay_room.rpy:120
+    old "Ending 11: Daisy & Janet"
+    new "Ending 11: Daisy & Janet"
+
+    # game/code/data/extended/replay_room.rpy:150
+    old "Ending 17: Dahlia & Room Service"
+    new "Ending 17: Dahlia & Room Service"
+
+    # game/code/data/extended/replay_room.rpy:150
+    old "Ending 17: Dahlia & Domina"
+    new "Ending 17: Dahlia & Domina"
+
+    # game/code/data/extended/replay_room.rpy:150
+    old "Ending 17: Pregnant Dahlia"
+    new "Ending 17: Pregnant Dahlia"
+
