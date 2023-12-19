@@ -4,493 +4,493 @@
 translate chinese e11s04_74a4e049:
 
     # ly "So what happened after Venice?"
-    ly "So what happened after Venice?"
+    ly "那威尼斯之后发生了什么？"
 
 # game/code/e11/e11s04.rpy:48
 translate chinese e11s04_78263760:
 
     # mc "Let's see. Oh yeah. Your mom and I went mountain climbing."
-    mc "Let's see. Oh yeah. Your mom and I went mountain climbing."
+    mc "我想想。哦对了。你妈妈和我去爬山了。"
 
 # game/code/e11/e11s04.rpy:51
 translate chinese e11s04_56108967:
 
     # ly "How was it?"
-    ly "How was it?"
+    ly "怎么样？"
 
 # game/code/e11/e11s04.rpy:54
 translate chinese e11s04_36a8c25d:
 
     # mc "Simply the best. I mean a few times I was ready to call it quits..."
-    mc "Simply the best. I mean a few times I was ready to call it quits..."
+    mc "简直棒极了。我是说有几次我都准备叫停了..."
 
 # game/code/e11/e11s04.rpy:55
 translate chinese e11s04_0919f845:
 
     # mc "But your mother always knew how to keep me going when I wanted to give in."
-    mc "But your mother always knew how to keep me going when I wanted to give in."
+    mc "但你妈妈总能在我想放弃的时候让我坚持下去。"
 
 # game/code/e11/e11s04.rpy:77
 translate chinese e11s04_07b606a0:
 
     # ly "({i}What did it look like?{/i})"
-    ly "({i}What did it look like?{/i})"
+    ly "({i}你描述一下场景？{/i})"
 
 # game/code/e11/e11s04.rpy:82
 translate chinese e11s04_b4c58a9e:
 
     # mct "Truly majestic. Clear air, beautiful sky."
-    mct "Truly majestic. Clear air, beautiful sky."
+    mct "真的很壮观。清澈的空气美丽的天空。"
 
 # game/code/e11/e11s04.rpy:87
 translate chinese e11s04_3eb6cd30:
 
     # mct "And of course, your enchanting mother."
-    mct "And of course, your enchanting mother."
+    mct "当然还有你迷人的母亲。"
 
 # game/code/e11/e11s04.rpy:92
 translate chinese e11s04_9c563db9:
 
     # mct "It was finally the last day of our trek."
-    mct "It was finally the last day of our trek."
+    mct "终于到了我们跋涉的最后一天。"
 
 # game/code/e11/e11s04.rpy:96
 translate chinese e11s04_08604511:
 
     # dd "You ready [mcname]?"
-    dd "You ready [mcname]?"
+    dd "准备好了吗[mcname]？"
 
 # game/code/e11/e11s04.rpy:99
 translate chinese e11s04_6a424569:
 
     # mc "Suuuuuuure."
-    mc "Suuuuuuure."
+    mc "吼吼吼当然。"
 
 # game/code/e11/e11s04.rpy:103
 translate chinese e11s04_ddee1bd0:
 
     # dd "You going to be able to make it up the mountain, old man?"
-    dd "You going to be able to make it up the mountain, old man?"
+    dd "你能成功登上山顶吗，这位小老头？"
 
 # game/code/e11/e11s04.rpy:106
 translate chinese e11s04_4a2ef417:
 
     # mc "I don't know..."
-    mc "I don't know..."
+    mc "我不知道..."
 
 # game/code/e11/e11s04.rpy:109
 translate chinese e11s04_86094ec2:
 
     # mc "Are you going to be able to make it up there?"
-    mc "Are you going to be able to make it up there?"
+    mc "你能爬上去吗？"
 
 # game/code/e11/e11s04.rpy:112
 translate chinese e11s04_9c41828e:
 
     # dd "Yeah! I think I'll be fine."
-    dd "Yeah! I think I'll be fine."
+    dd "没问题！我想我会没事的。"
 
 # game/code/e11/e11s04.rpy:116
 translate chinese e11s04_90149c97:
 
     # dd "Wait, are you talking about my heart again?"
-    dd "Wait, are you talking about my heart again?"
+    dd "等等，你又在说我的心脏吗？"
 
 # game/code/e11/e11s04.rpy:119
 translate chinese e11s04_f93d8704:
 
     # mc "Uhhhh."
-    mc "Uhhhh."
+    mc "嗯哼。"
 
 # game/code/e11/e11s04.rpy:122
 translate chinese e11s04_11cb35f3:
 
     # dd "I've told you a million times already, I'm {i}fine{/i}. You don't need to worry about me."
-    dd "I've told you a million times already, I'm {i}fine{/i}. You don't need to worry about me."
+    dd "我已经跟你说过无数次了我{i}很好{/i}。你不用担心我。"
 
 # game/code/e11/e11s04.rpy:125
 translate chinese e11s04_638a0b74:
 
     # mc "Daisy, wait-"
-    mc "Daisy, wait-"
+    mc "黛西，等等--"
 
 # game/code/e11/e11s04.rpy:128
 translate chinese e11s04_7c274946:
 
     # dd "[mcname]. I want you here. I wanted to do this trip with you. I want you by my side."
-    dd "[mcname]. I want you here. I wanted to do this trip with you. I want you by my side."
+    dd "[mcname]。我希望你在这里。我想和你一起完成这次旅行。我想让你陪在我身边。"
 
 # game/code/e11/e11s04.rpy:129
 translate chinese e11s04_fd86124c:
 
     # dd "But if you're going to worry about my heart every single time we're going to do one of these bucket list adventures, I don't think I want you here."
-    dd "But if you're going to worry about my heart every single time we're going to do one of these bucket list adventures, I don't think I want you here."
+    dd "但如果我们每次去冒险你都要担心我的心脏的话，我就不希望你来了。"
 
 # game/code/e11/e11s04.rpy:132
 translate chinese e11s04_eeccdea0:
 
     # mc "Daisy... I'm sorry."
-    mc "Daisy... I'm sorry."
+    mc "黛西...对不起。"
 
 # game/code/e11/e11s04.rpy:134
 translate chinese e11s04_070809df:
 
     # dd "Good, you should be. I want you to be here with me, not for me."
-    dd "Good, you should be. I want you to be here with me, not for me."
+    dd "很好，你是应该道歉。我希望你和我一起来，而不是为了我才来。"
 
 # game/code/e11/e11s04.rpy:136
 translate chinese e11s04_e0dc1a15:
 
     # mc "Of course Daisy. I want to be here for you too."
-    mc "Of course Daisy. I want to be here for you too."
+    mc "当然黛西。我也想和你在一起。"
 
 # game/code/e11/e11s04.rpy:139
 translate chinese e11s04_073f6714:
 
     # dd "Good, now show me that you mean it. Let's go climb this mountain!"
-    dd "Good, now show me that you mean it. Let's go climb this mountain!"
+    dd "很好，现在让我看看你是真心的。我们去爬山吧！"
 
 # game/code/e11/e11s04.rpy:153
 translate chinese e11s04_climbing_445a8635:
 
     # mc "You know, I never asked."
-    mc "You know, I never asked."
+    mc "你知道，我从没问过你。"
 
 # game/code/e11/e11s04.rpy:156
 translate chinese e11s04_climbing_733e0903:
 
     # dd "Asked what?"
-    dd "Asked what?"
+    dd "问什么？"
 
 # game/code/e11/e11s04.rpy:159
 translate chinese e11s04_climbing_8be0108b:
 
     # mc "Why mountain climbing?"
-    mc "Why mountain climbing?"
+    mc "为什么要爬山？"
 
 # game/code/e11/e11s04.rpy:162
 translate chinese e11s04_climbing_31655f87:
 
     # dd "What do you mean?"
-    dd "What do you mean?"
+    dd "什么意思？"
 
 # game/code/e11/e11s04.rpy:165
 translate chinese e11s04_climbing_b6dae80a:
 
     # mc "Well... Skydiving makes sense. But you never really struck me like someone who was into mountains."
-    mc "Well... Skydiving makes sense. But you never really struck me like someone who was into mountains."
+    mc "嗯...我能理解你想跳伞。但你给我的印象不是喜欢爬山的人。"
 
 # game/code/e11/e11s04.rpy:168
 translate chinese e11s04_climbing_63c60751:
 
     # dd "What, my whole personality doesn't scream 'outdoorsy'?"
-    dd "What, my whole personality doesn't scream 'outdoorsy'?"
+    dd "怎么，我的性格跟'户外运动'一点不沾边吗？"
 
 # game/code/e11/e11s04.rpy:171
 translate chinese e11s04_climbing_53a22236:
 
     # mc "That's not what I meant!"
-    mc "That's not what I meant!"
+    mc "我不是这个意思！"
 
 # game/code/e11/e11s04.rpy:172
 translate chinese e11s04_climbing_794fded9:
 
     # mc "You know what I mean though! Of all the things on your bucket list, it's the odd duck out."
-    mc "You know what I mean though! Of all the things on your bucket list, it's the odd duck out."
+    mc "你知道我的意思！在你遗愿清单上的所有事情中，户外运动显得尤其突兀。"
 
 # game/code/e11/e11s04.rpy:175
 translate chinese e11s04_climbing_7a13f1c6:
 
     # dd "So I'm an odd duck for wanting to mountain climb?"
-    dd "So I'm an odd duck for wanting to mountain climb?"
+    dd "那我想，爬山就是个怪人了？"
 
 # game/code/e11/e11s04.rpy:177
 translate chinese e11s04_climbing_6ef675ee:
 
     # mc "No-I-"
-    mc "No-I-"
+    mc "不-我-"
 
 # game/code/e11/e11s04.rpy:179
 translate chinese e11s04_climbing_7313a519:
 
     # dd "Dahlia is right. It is {i}so{/i} easy to get you flustered."
-    dd "Dahlia is right. It is {i}so{/i} easy to get you flustered."
+    dd "黛丽娅说得对。让你慌张真的{i}超级{/i}容易。"
 
 # game/code/e11/e11s04.rpy:182
 translate chinese e11s04_climbing_702748aa:
 
     # mc "Yeah, yeah. Just keep picking on me."
-    mc "Yeah, yeah. Just keep picking on me."
+    mc "哈-哈-哈，是啊。你就继续找我的茬吧。"
 
 # game/code/e11/e11s04.rpy:185
 translate chinese e11s04_climbing_0a47311a:
 
     # dd "Don't threaten me with a good time!"
-    dd "Don't threaten me with a good time!"
+    dd "别拿玩得开心来威胁我！"
 
 # game/code/e11/e11s04.rpy:186
 translate chinese e11s04_climbing_4a4740a3:
 
     # dd "I get it. Yeah, mountain climbing is kind of unlike everything else I want to do."
-    dd "I get it. Yeah, mountain climbing is kind of unlike everything else I want to do."
+    dd "我懂你的意思。是啊，登山和我想做的其他事情都不一样。"
 
 # game/code/e11/e11s04.rpy:189
 translate chinese e11s04_climbing_def91ec6:
 
     # dd "When I was younger, I watched a documentary about a mountain climber with my Dad."
-    dd "When I was younger, I watched a documentary about a mountain climber with my Dad."
+    dd "小时候，我和爸爸一起看过一部关于登山家的纪录片。"
 
 # game/code/e11/e11s04.rpy:190
 translate chinese e11s04_climbing_88dd5790:
 
     # dd "I thought it was the coolest thing. The outfits, the scenery, everything just looked so awesome."
-    dd "I thought it was the coolest thing. The outfits, the scenery, everything just looked so awesome."
+    dd "我觉得那是世上最酷的事了。那些装备、还有风景一切看起来都那么棒。"
 
 # game/code/e11/e11s04.rpy:191
 translate chinese e11s04_climbing_591d0315:
 
     # dd "I spent the next month making my Dad watch all these documentaries with me."
-    dd "I spent the next month making my Dad watch all these documentaries with me."
+    dd "接下来的一个月，我都让爸爸陪我看这些纪录片。"
 
 # game/code/e11/e11s04.rpy:194
 translate chinese e11s04_climbing_d87a1102:
 
     # dd "He, uhhh... He promised me that one day he would take me."
-    dd "He, uhhh... He promised me that one day he would take me."
+    dd "他呃...他答应过我总有一天他会带我去的。"
 
 # game/code/e11/e11s04.rpy:195
 translate chinese e11s04_climbing_677126b4:
 
     # dd "So here we are. Climbing a mountain."
-    dd "So here we are. Climbing a mountain."
+    dd "所以，我们今天在这。在爬一座山。"
 
 # game/code/e11/e11s04.rpy:198
 translate chinese e11s04_climbing_91c77857:
 
     # mc "And freezing my balls off!"
-    mc "And freezing my balls off!"
+    mc "把我的蛋蛋都冻掉了！"
 
 # game/code/e11/e11s04.rpy:202
 translate chinese e11s04_climbing_d2353525:
 
     # dd "Well make sure you warm them up. I still have a use for them."
-    dd "Well make sure you warm them up. I still have a use for them."
+    dd "哈。那一定要让它们暖和起来。我还要用呢。"
 
 # game/code/e11/e11s04.rpy:203
 translate chinese e11s04_climbing_cf5fab3b:
 
     # dd "Thank you for being here [mcname]."
-    dd "Thank you for being here [mcname]."
+    dd "谢谢你能来，[mcname]。"
 
 # game/code/e11/e11s04.rpy:206
 translate chinese e11s04_climbing_6c0e311f:
 
     # mc "Of course Daisy."
-    mc "Of course Daisy."
+    mc "嘿，这算什么。"
 
 # game/code/e11/e11s04.rpy:209
 translate chinese e11s04_climbing_d54784e0:
 
     # dd "And thank you for risking your balls on this treacherous mountain."
-    dd "And thank you for risking your balls on this treacherous mountain."
+    dd "谢谢你冒着冻掉蛋蛋的危险，陪我来到这座险峻的山上。"
 
 # game/code/e11/e11s04.rpy:212
 translate chinese e11s04_climbing_fb09abd6:
 
     # mc "I have done more for less!"
-    mc "I have done more for less!"
+    mc "我向来是少说多做！"
 
 # game/code/e11/e11s04.rpy:215
 translate chinese e11s04_climbing_22718152:
 
     # dd "Come one, the best way to get them warm again is to start walking!"
-    dd "Come one, the best way to get them warm again is to start walking!"
+    dd "来吧，让你的小家伙恢复温暖的最好办法，就是开始走路！"
 
 # game/code/e11/e11s04.rpy:216
 translate chinese e11s04_climbing_af914617:
 
     # mct "I have a few better ideas for getting warmer..."
-    mct "I have a few better ideas for getting warmer..."
+    mct "我有几个更好的取暖办法..."
 
 # game/code/e11/e11s04.rpy:219
 translate chinese e11s04_climbing_9b7e1483:
 
     # dd "You going to sit there and stare at my butt all day, or are you going to get to the top of this mountain!"
-    dd "You going to sit there and stare at my butt all day, or are you going to get to the top of this mountain!"
+    dd "你是打算整天坐在那里一直盯着我的屁股看，还是打算爬到山顶上去！"
 
 # game/code/e11/e11s04.rpy:222
 translate chinese e11s04_climbing_4b23e025:
 
     # mc "Babe, I can't even see your butt."
-    mc "Babe, I can't even see your butt."
+    mc "宝贝，我都看不到你的屁股。"
 
 # game/code/e11/e11s04.rpy:225
 translate chinese e11s04_climbing_c9ef24a9:
 
     # dd "Do you want to hear some fun facts about mountains?"
-    dd "Do you want to hear some fun facts about mountains?"
+    dd "你想听听关于山的趣事吗？"
 
 # game/code/e11/e11s04.rpy:228
 translate chinese e11s04_climbing_3eb6211c:
 
     # mc "Do I get a choice?"
-    mc "Do I get a choice?"
+    mc "我有选择吗？"
 
 # game/code/e11/e11s04.rpy:231
 translate chinese e11s04_climbing_b712c2c7:
 
     # dd "Nope! Did you know, that a guy in a wheelchair climbed Kilimanjaro twice?"
-    dd "Nope! Did you know, that a guy in a wheelchair climbed Kilimanjaro twice?"
+    dd "你必须听！你知道吗，一个坐轮椅上的人爬过乞力马扎罗山两次？"
 
 # game/code/e11/e11s04.rpy:232
 translate chinese e11s04_climbing_99080f86:
 
     # dd "...Everest isn't technically the tallest mountain. Mauna Kea, when measured from base to summit, is 1,356 feet taller!"
-    dd "...Everest isn't technically the tallest mountain. Mauna Kea, when measured from base to summit, is 1,356 feet taller!"
+    dd "...严格来说珠穆朗玛峰并不是最高的山。莫纳克亚山从山脚到山顶，要高出1356英尺！"
 
 # game/code/e11/e11s04.rpy:235
 translate chinese e11s04_climbing_d2ff29b0:
 
     # mc "I didn't know you knew so many facts about mountains."
-    mc "I didn't know you knew so many facts about mountains."
+    mc "没想到你还知道这么多关于山的知识。"
 
 # game/code/e11/e11s04.rpy:238
 translate chinese e11s04_climbing_9edd29a9:
 
     # dd "Yep! A girl has to have a hobby."
-    dd "Yep! A girl has to have a hobby."
+    dd "是啊！女孩子总得有个爱好。"
 
 # game/code/e11/e11s04.rpy:241
 translate chinese e11s04_climbing_6ca5ba6d:
 
     # mc "And it couldn't be, like, shopping or something?"
-    mc "And it couldn't be, like, shopping or something?"
+    mc "就不能是购物之类的吗？"
 
 # game/code/e11/e11s04.rpy:244
 translate chinese e11s04_climbing_3876d992:
 
     # dd "Nope!"
-    dd "Nope!"
+    dd "不能！"
 
 # game/code/e11/e11s04.rpy:255
 translate chinese e11s04_rest_127bfc0f:
 
     # mc "Daisy, what's happening?"
-    mc "Daisy, what's happening?"
+    mc "黛西，怎么了？"
 
 # game/code/e11/e11s04.rpy:257
 translate chinese e11s04_rest_39b91d01:
 
     # dd "Uhm, it's nothing."
-    dd "Uhm, it's nothing."
+    dd "呃，没什么。"
 
 # game/code/e11/e11s04.rpy:260
 translate chinese e11s04_rest_295a7002:
 
     # mc "Wait, Daisy-"
-    mc "Wait, Daisy-"
+    mc "等等，黛西-"
 
 # game/code/e11/e11s04.rpy:261
 translate chinese e11s04_rest_ee01ef19:
 
     # dd "It's fine, [mcname]. It'll pass."
-    dd "It's fine, [mcname]. It'll pass."
+    dd "没事的，[mcname]。会过去的。"
 
 # game/code/e11/e11s04.rpy:265
 translate chinese e11s04_rest_9856eccf:
 
     # mc "Daisy, we need-"
-    mc "Daisy, we need-"
+    mc "黛西，我们需要-"
 
 # game/code/e11/e11s04.rpy:267
 translate chinese e11s04_rest_950c5cb6:
 
     # dd "I said I'm fine, [mcname], I-"
-    dd "I said I'm fine, [mcname], I-"
+    dd "我说了我很好，[mcname]，我-"
 
 # game/code/e11/e11s04.rpy:270
 translate chinese e11s04_rest_e5d70efb:
 
     # dd "-I need a minute."
-    dd "-I need a minute."
+    dd "-我需要一点时间。"
 
 # game/code/e11/e11s04.rpy:272
 translate chinese e11s04_rest_8868a674:
 
     # mc "Please, just tell me what's going on."
-    mc "Please, just tell me what's going on."
+    mc "求你了，告诉我发生了什么事。"
 
 # game/code/e11/e11s04.rpy:278
 translate chinese e11s04_rest_322f1e26:
 
     # dd "I'm just feeling a little faint. And my heart is being a little weird."
-    dd "I'm just feeling a little faint. And my heart is being a little weird."
+    dd "我只是觉得有点晕。我的心脏有点不舒服。"
 
 # game/code/e11/e11s04.rpy:281
 translate chinese e11s04_rest_14317fda:
 
     # mc "Fuck, Daisy. Do we need to head back?"
-    mc "Fuck, Daisy. Do we need to head back?"
+    mc "操黛西。我们需要回去吗？"
 
 # game/code/e11/e11s04.rpy:284
 translate chinese e11s04_rest_88e1be74:
 
     # dd "It'll pass. I just need to sit for a minute."
-    dd "It'll pass. I just need to sit for a minute."
+    dd "会过去的。我只需要坐一会儿。"
 
 # game/code/e11/e11s04.rpy:287
 translate chinese e11s04_rest_9db2093d:
 
     # mc "Drink a little water too."
-    mc "Drink a little water too."
+    mc "也喝点水。"
 
 # game/code/e11/e11s04.rpy:290
 translate chinese e11s04_rest_3a8b6d98:
 
     # dd "[mcname] I don't need you-"
-    dd "[mcname] I don't need you-"
+    dd "[mcname]，我不需要你-"
 
 # game/code/e11/e11s04.rpy:294
 translate chinese e11s04_rest_43ab2087:
 
     # mc "Part of being with you is making sure that you're okay Daisy."
-    mc "Part of being with you is making sure that you're okay Daisy."
+    mc "黛西，和你在一起的一部分就是确保你没事。"
 
 # game/code/e11/e11s04.rpy:300
 translate chinese e11s04_rest_f0ce0f22:
 
     # mc "Please let me just help."
-    mc "Please let me just help."
+    mc "请让我来帮忙。"
 
 # game/code/e11/e11s04.rpy:303
 translate chinese e11s04_rest_c007e363:
 
     # dd "Okay..."
-    dd "Okay..."
+    dd "好吧..."
 
 # game/code/e11/e11s04.rpy:304
 translate chinese e11s04_rest_7ff3fc40:
 
     # dd "Thank you [mcname]."
-    dd "Thank you [mcname]."
+    dd "谢谢你，[mcname]。"
 
 # game/code/e11/e11s04.rpy:307
 translate chinese e11s04_rest_378c316a:
 
     # mc "It's okay. I just want to make sure you're okay, Daisy."
-    mc "It's okay. I just want to make sure you're okay, Daisy."
+    mc "没关系。我只是想确保你没事，黛西。"
 
 # game/code/e11/e11s04.rpy:308
 translate chinese e11s04_rest_1222d10b:
 
     # mc "I just want you to be okay."
-    mc "I just want you to be okay."
+    mc "我希望你没事。"
 
 # game/code/e11/e11s04.rpy:311
 translate chinese e11s04_rest_c58e76b0:
 
     # dd "I know."
-    dd "I know."
+    dd "我知道。"
 
 # game/code/e11/e11s04.rpy:312
 translate chinese e11s04_rest_e70966e3:
