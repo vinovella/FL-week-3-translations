@@ -316,7 +316,7 @@ translate chinese e11s03_7139c6b9:
 translate chinese e11s03_55167240:
 
     # mc "Onto the canal. I just saw a gondola open up."
-    mc "去运河。我刚看到有小划船过来了。"
+    mc "去运河。我刚看到有游览船过来了。"
 
 # game/code/e11/e11s03.rpy:243
 translate chinese e11s03_adc26cb4:
@@ -760,467 +760,467 @@ translate chinese e11s03_sex_2a49c914:
 translate chinese e11s03_sex_ce766102:
 
     # mc "Mmm."
-    mc "Mmm."
+    mc "嗯..."
 
 # game/code/e11/e11s03.rpy:524
 translate chinese e11s03_sex_41efb2d6:
 
     # dd "Oooh."
-    dd "Oooh."
+    dd "噢..."
 
 # game/code/e11/e11s03.rpy:527
 translate chinese e11s03_sex_b6261cce:
 
     # dd "Yes."
-    dd "Yes."
+    dd "舒服..."
 
 # game/code/e11/e11s03.rpy:530
 translate chinese e11s03_sex_d021e11d:
 
     # dd "Haha."
-    dd "Haha."
+    dd "哈哈。"
 
 # game/code/e11/e11s03.rpy:538
 translate chinese e11s03_sex_5a707d59:
 
     # dd "Oh my god."
-    dd "Oh my god."
+    dd "天啊..."
 
 # game/code/e11/e11s03.rpy:543
 translate chinese e11s03_sex_d8287899:
 
     # dd "Alright."
-    dd "Alright."
+    dd "好了。"
 
 # game/code/e11/e11s03.rpy:546
 translate chinese e11s03_sex_0c48ca94:
 
     # dd "You. Inside me. Now."
-    dd "You. Inside me. Now."
+    dd "你。现在。给我进来。"
 
 # game/code/e11/e11s03.rpy:549
 translate chinese e11s03_sex_3361410e:
 
     # mc "You don't have to tell me twice."
-    mc "You don't have to tell me twice."
+    mc "都不用你说第二遍。"
 
 # game/code/e11/e11s03.rpy:556
 translate chinese e11s03_sex_0e80183e:
 
     # mc "Like the best glove ever."
-    mc "Like the best glove ever."
+    mc "简直完美匹配。"
 
 # game/code/e11/e11s03.rpy:558
 translate chinese e11s03_sex_9af09e3f:
 
     # dd "I don't think it will ever let you go."
-    dd "I don't think it will ever let you go."
+    dd "我想它永远不会让你离开的。"
 
 # game/code/e11/e11s03.rpy:564
 translate chinese e11s03_sex_705683b6:
 
     # dd "Yes. Oh my god."
-    dd "Yes. Oh my god."
+    dd "哈啊我的天啊。"
 
 # game/code/e11/e11s03.rpy:568
 translate chinese e11s03_sex_efd5ab04:
 
     # dd "This is it. This is all I need."
-    dd "This is it. This is all I need."
+    dd "就是它了。我只需要这个。"
 
 # game/code/e11/e11s03.rpy:569
 translate chinese e11s03_sex_f4fca744:
 
     # dd "Everyday of the week. And twice on weekends."
-    dd "Everyday of the week. And twice on weekends."
+    dd "工作日时每天都要。周末一天两次。"
 
 # game/code/e11/e11s03.rpy:574
 translate chinese e11s03_sex_cbe58867:
 
     # dd "*shudders* Keep fucking me, [mcname]. Mm mn mhammm."
-    dd "*shudders* Keep fucking me, [mcname]. Mm mn mhammm."
+    dd "*战栗* 继续干我，[mcname]。嗯~啊啊啊"
 
 # game/code/e11/e11s03.rpy:581
 translate chinese e11s03_sex_34c99d47:
 
     # dd "Ooouhaah. You've already got me ready to explode."
-    dd "Ooouhaah. You've already got me ready to explode."
+    dd "啊啊啊啊。你让我快要爆发了。"
 
 # game/code/e11/e11s03.rpy:590
 translate chinese e11s03_sex_e0ef03a6:
 
     # dd "Mrrnmm. Oh it feels amazing having you suck on me."
-    dd "Mrrnmm. Oh it feels amazing having you suck on me."
+    dd "哦哦噢噢。你吸我的感觉太棒了。"
 
 # game/code/e11/e11s03.rpy:593
 translate chinese e11s03_sex_b3f74402:
 
     # mc "Every part of her you is so suckable."
-    mc "Every part of her you is so suckable."
+    mc "她的每一个部位都让我欲罢不能。"
 
 # game/code/e11/e11s03.rpy:597
 translate chinese e11s03_sex_8cbc7800:
 
     # dd "I just love how much you crave it."
-    dd "I just love how much you crave it."
+    dd "我就是喜欢你对我高涨的热情。"
 
 # game/code/e11/e11s03.rpy:605
 translate chinese e11s03_sex_d3eb4278:
 
     # dd "Ooouhah. What are you up to?"
-    dd "Ooouhah. What are you up to?"
+    dd "呜啊。你要干什么？"
 
 # game/code/e11/e11s03.rpy:608
 translate chinese e11s03_sex_1f8a7cb3:
 
     # mc "You're such a naughty girl. Especially today. Fucking on the Grand Canal."
-    mc "You're such a naughty girl. Especially today. Fucking on the Grand Canal."
+    mc "你真是个淘气的女孩。尤其是今天。竟然在大运河上做爱。"
 
 # game/code/e11/e11s03.rpy:611
 translate chinese e11s03_sex_bc19576b:
 
     # mc "I think you need to be punished."
-    mc "I think you need to be punished."
+    mc "我觉得你该受点惩罚。"
 
 # game/code/e11/e11s03.rpy:614
 translate chinese e11s03_sex_40d5db1f:
 
     # dd "Well I never-"
-    dd "Well I never-"
+    dd "我从没-"
 
 # game/code/e11/e11s03.rpy:617
 translate chinese e11s03_sex_91ec2b64:
 
     # dd "Yes. Oh please. Spank me, Mister."
-    dd "Yes. Oh please. Spank me, Mister."
+    dd "是的。请打我屁股。先生，打我屁股吧。"
 
 # game/code/e11/e11s03.rpy:620
 translate chinese e11s03_sex_eafea5c3:
 
     # dd "I've been such a bad girl."
-    dd "I've been such a bad girl."
+    dd "我是个坏女孩。"
 
 # game/code/e11/e11s03.rpy:623
 translate chinese e11s03_sex_7cfdf442:
 
     # mct "Daisy... you're so fucking irresistable"
-    mct "Daisy... you're so fucking irresistable"
+    mct "黛西...你真让人无法抗拒。"
 
 # game/code/e11/e11s03.rpy:647
 translate chinese e11s03_sex_6a405b3a:
 
     # "*light slapping*"
-    "*light slapping*"
+    "*轻轻拍打*"
 
 # game/code/e11/e11s03.rpy:654
 translate chinese e11s03_sex_0eff577f:
 
     # dd "Nrrrn... come on. You can spank me harder than that."
-    dd "Nrrrn... come on. You can spank me harder than that."
+    dd "不...来吧。你可以打得更狠点。"
 
 # game/code/e11/e11s03.rpy:658
 translate chinese e11s03_sex_e0592593:
 
     # dd "Yes. All aboard the Daisy train!"
-    dd "Yes. All aboard the Daisy train!"
+    dd "是的。全体都上黛西的火车吧！"
 
 # game/code/e11/e11s03.rpy:659
 translate chinese e11s03_sex_6da897ae:
 
     # "*SLAP! SLAP! SLAP!*"
-    "*SLAP! SLAP! SLAP!*"
+    "*啪！啪！啪！*"
 
 # game/code/e11/e11s03.rpy:660
 translate chinese e11s03_sex_bf895fb7:
 
     # dd "Oh fuck! [mcname]! It feels so good."
-    dd "Oh fuck! [mcname]! It feels so good."
+    dd "操[mcname]！感觉好刺激好爽啊！"
 
 # game/code/e11/e11s03.rpy:672
 translate chinese e11s03_sex_5c67e52f:
 
     # dd "I'm gonna... cumming-"
-    dd "I'm gonna... cumming-"
+    dd "我要...射了-"
 
 # game/code/e11/e11s03.rpy:683
 translate chinese e11s03_sex_dd8f34b8:
 
     # dd "We're... *breathes* We're going to need to a bit of a clean up over here."
-    dd "We're... *breathes* We're going to need to a bit of a clean up over here."
+    dd "我们...*喘气* 我们这里需要稍微打扫一下。"
 
 # game/code/e11/e11s03.rpy:686
 translate chinese e11s03_sex_0419d335:
 
     # mc "Later."
-    mc "Later."
+    mc "待会儿。"
 
 # game/code/e11/e11s03.rpy:692
 translate chinese e11s03_sex_443d228b:
 
     # dd "Mrrrffhupp."
-    dd "Mrrrffhupp."
+    dd "噗噗噗"
 
 # game/code/e11/e11s03.rpy:697
 translate chinese e11s03_sex_b95b1558:
 
     # mc "Fuck yeah. You're such a good cocksucker, Daisy."
-    mc "Fuck yeah. You're such a good cocksucker, Daisy."
+    mc "我操。你口活可真是厉害，黛西。"
 
 # game/code/e11/e11s03.rpy:700
 translate chinese e11s03_sex_9c6bebd8:
 
     # mc "Fuck. I'm getting so close."
-    mc "Fuck. I'm getting so close."
+    mc "操。我快不行了。"
 
 # game/code/e11/e11s03.rpy:705
 translate chinese e11s03_sex_cbd7d4f3:
 
     # dd "Wowah."
-    dd "Wowah."
+    dd "哇。"
 
 # game/code/e11/e11s03.rpy:708
 translate chinese e11s03_sex_91d8a70c:
 
     # mc "You okay?"
-    mc "You okay?"
+    mc "你还好吗？"
 
 # game/code/e11/e11s03.rpy:711
 translate chinese e11s03_sex_a980970b:
 
     # dd "Totally. But I need it back inside of me."
-    dd "Totally. But I need it back inside of me."
+    dd "完全没事。不过我需要它回到我体内。"
 
 # game/code/e11/e11s03.rpy:714
 translate chinese e11s03_sex_ab105653:
 
     # dd "But which hole that is... I leave that all to you, [mcname]."
-    dd "But which hole that is... I leave that all to you, [mcname]."
+    dd "但具体是哪个洞...就交给你了，[mcname]。"
 
 # game/code/e11/e11s03.rpy:727
 translate chinese e11s03_anal_f657af8d:
 
     # mc "Mmm. Can't be getting lost on your back road."
-    mc "Mmm. Can't be getting lost on your back road."
+    mc "嗯。我不可能在你后面小道里迷路。"
 
 # game/code/e11/e11s03.rpy:730
 translate chinese e11s03_anal_8e77d9db:
 
     # dd "Ooooh."
-    dd "Ooooh."
+    dd "哦哦哦。"
 
 # game/code/e11/e11s03.rpy:736
 translate chinese e11s03_anal_59cb4520:
 
     # dd "Give it to me. Fill my ass with that thick pole. I fuckin love it."
-    dd "Give it to me. Fill my ass with that thick pole. I fuckin love it."
+    dd "给我。用你粗大的肉棒填满我的屁股。我他妈爱死你那个玩意儿了。"
 
 # game/code/e11/e11s03.rpy:741
 translate chinese e11s03_anal_7528b2c4:
 
     # dd "That's it. Oh fuck. Break me. Break my naughty hole."
-    dd "That's it. Oh fuck. Break me. Break my naughty hole."
+    dd "就是这样。操。用力干我。尽情操烂我淘气的淫穴！"
 
 # game/code/e11/e11s03.rpy:744
 translate chinese e11s03_anal_07e8f3cb:
 
     # dd "*panting and moaning*"
-    dd "*panting and moaning*"
+    dd "*喘息和呻吟*"
 
 # game/code/e11/e11s03.rpy:751
 translate chinese e11s03_anal_5274fc8d:
 
     # mc "You like that don't you?"
-    mc "You like that don't you?"
+    mc "你喜欢这样是吗？"
 
 # game/code/e11/e11s03.rpy:752
 translate chinese e11s03_anal_440b48ea:
 
     # dd "I like it however you want it, [mcname]!"
-    dd "I like it however you want it, [mcname]!"
+    dd "你想怎样我都喜欢，[mcname]！"
 
 # game/code/e11/e11s03.rpy:755
 translate chinese e11s03_anal_22e8053f:
 
     # dd "I'm all yours."
-    dd "I'm all yours."
+    dd "我全都是你的。"
 
 # game/code/e11/e11s03.rpy:763
 translate chinese e11s03_anal_751901f8:
 
     # mc "*breathes deeply*"
-    mc "*breathes deeply*"
+    mc "*深呼吸*"
 
 # game/code/e11/e11s03.rpy:766
 translate chinese e11s03_anal_5e600ed1:
 
     # dd "Phew."
-    dd "Phew."
+    dd "呼。"
 
 # game/code/e11/e11s03.rpy:774
 translate chinese e11s03_vaginal_8b15f194:
 
     # dd "Okay, let's change things up."
-    dd "Okay, let's change things up."
+    dd "好吧，我们来换个花样。"
 
 # game/code/e11/e11s03.rpy:779
 translate chinese e11s03_vaginal_022448e0:
 
     # dd "*straining* There."
-    dd "*straining* There."
+    dd "*拉紧* 这样。"
 
 # game/code/e11/e11s03.rpy:782
 translate chinese e11s03_vaginal_fff5abe9:
 
     # dd "Woohoo!"
-    dd "Woohoo!"
+    dd "呜呼！"
 
 # game/code/e11/e11s03.rpy:786
 translate chinese e11s03_vaginal_93c66cfe:
 
     # dd "Oh fuck!"
-    dd "Oh fuck!"
+    dd "我操！"
 
 # game/code/e11/e11s03.rpy:795
 translate chinese e11s03_vaginal_5470c96f:
 
     # mc "Daisy. You're getting tighter!"
-    mc "Daisy. You're getting tighter!"
+    mc "黛西。你越来越紧了！"
 
 # game/code/e11/e11s03.rpy:797
 translate chinese e11s03_vaginal_2cba7dbd:
 
     # dd "Yeah. *moans* This cock of yours never gives me much time before it's ready to melt my mind."
-    dd "Yeah. *moans* This cock of yours never gives me much time before it's ready to melt my mind."
+    dd "是啊。*呻吟* 每次我还没反应过来的时候，你的鸡巴就已经融化了我整个身子了。"
 
 # game/code/e11/e11s03.rpy:799
 translate chinese e11s03_vaginal_bc811c15:
 
     # dd "Come on, [mcname]. Give me all you got!"
-    dd "Come on, [mcname]. Give me all you got!"
+    dd "来吧[mcname]。把你所有招数都给我！"
 
 # game/code/e11/e11s03.rpy:801
 translate chinese e11s03_vaginal_0c1f6a34:
 
     # mc "I wouldn't dream of doing any less."
-    mc "I wouldn't dream of doing any less."
+    mc "我做梦都想。"
 
 # game/code/e11/e11s03.rpy:807
 translate chinese e11s03_vaginal_71e8b47e:
 
     # dd "Oh my god. Fuahaak... I can feel it so deep!"
-    dd "Oh my god. Fuahaak... I can feel it so deep!"
+    dd "哦老天啊。次奥...我能感觉到你进去好深啊！"
 
 # game/code/e11/e11s03.rpy:809
 translate chinese e11s03_vaginal_0dd13233:
 
     # dd "*panting* Keep going. Don't stop for me. I need it."
-    dd "*panting* Keep going. Don't stop for me. I need it."
+    dd "*喘气* 继续。别为我停下来。我需要你进去。"
 
 # game/code/e11/e11s03.rpy:820
 translate chinese e11s03_vaginal_386a936a:
 
     # dd "Inside. Make me cum all over again!"
-    dd "Inside. Make me cum all over again!"
+    dd "你就在里面。让我再上一次云端！"
 
 # game/code/e11/e11s03.rpy:822
 translate chinese e11s03_vaginal_0e092430:
 
     # dd "I know you love filling my pussy up-huaah. Oh shit. Buwaafraah!"
-    dd "I know you love filling my pussy up-huaah. Oh shit. Buwaafraah!"
+    dd "我知道你喜欢把我的小淫穴塞得满满的。哦我靠。阿巴阿巴！"
 
 # game/code/e11/e11s03.rpy:829
 translate chinese e11s03_vaginal_96903ed2:
 
     # dd "Fuck me. Yes. I can feel it."
-    dd "Fuck me. Yes. I can feel it."
+    dd "干我。我感觉得到。"
 
 # game/code/e11/e11s03.rpy:835
 translate chinese e11s03_vaginal_6526af68:
 
     # dd "*soft moans*"
-    dd "*soft moans*"
+    dd "*轻声呻吟*"
 
 # game/code/e11/e11s03.rpy:841
 translate chinese e11s03_vaginal_29a60a0c:
 
     # dd "Hand me that wine glass quick."
-    dd "Hand me that wine glass quick."
+    dd "快把酒杯递给我。"
 
 # game/code/e11/e11s03.rpy:849
 translate chinese e11s03_vaginal_afc914b3:
 
     # dd "Here."
-    dd "Here."
+    dd "来。"
 
 # game/code/e11/e11s03.rpy:852
 translate chinese e11s03_vaginal_e868baf4:
 
     # dd "Cheers."
-    dd "Cheers."
+    dd "干杯。"
 
 # game/code/e11/e11s03.rpy:855
 translate chinese e11s03_vaginal_4094047b:
 
     # dd "Gulp."
-    dd "Gulp."
+    dd "大口喝。"
 
 # game/code/e11/e11s03.rpy:858
 translate chinese e11s03_vaginal_c523dd28:
 
     # dd "That was so fucking hot."
-    dd "That was so fucking hot."
+    dd "真他妈性感。"
 
 # game/code/e11/e11s03.rpy:861
 translate chinese e11s03_vaginal_ae5bf3d0:
 
     # mc "Mmmm. We certainly gave the Grand Canal a grand show."
-    mc "Mmmm. We certainly gave the Grand Canal a grand show."
+    mc "真他妈性感。"
 
 # game/code/e11/e11s03.rpy:864
 translate chinese e11s03_vaginal_08ba9c51:
 
     # mc "I fucking love you, Daisy."
-    mc "I fucking love you, Daisy."
+    mc "我爱死你了，黛西。"
 
 # game/code/e11/e11s03.rpy:874
 translate chinese e11s03_vaginal_371a16e9:
 
     # mc "Oh yeah. We better tidy things up a bit."
-    mc "Oh yeah. We better tidy things up a bit."
+    mc "是啊。我们最好清理一下。"
 
 # game/code/e11/e11s03.rpy:878
 translate chinese e11s03_vaginal_a2b82e14:
 
     # "Nico" "Hello my friends."
-    "Nico" "Hello my friends."
+    "尼克" "你们好我的朋友们。"
 
 # game/code/e11/e11s03.rpy:884
 translate chinese e11s03_vaginal_c7dd3389:
 
     # "Nico" "Do you two smell something funny?"
-    "Nico" "Do you two smell something funny?"
+    "尼克" "你们俩闻到什么怪味了吗？"
 
 # game/code/e11/e11s03.rpy:887
 translate chinese e11s03_vaginal_ab088ee0:
 
     # mc "Nope. I don't think so."
-    mc "Nope. I don't think so."
+    mc "没啊。没有怪味。"
 
 translate chinese strings:
 
     # game/code/e11/e11s03.rpy:52
     old "A Day in Venice"
-    new "A Day in Venice"
+    new "威尼斯的一天"
 
     # game/code/e11/e11s03.rpy:515
     old "Suck Daisy's fingers"
-    new "Suck Daisy's fingers"
+    new "吮吸黛西的手指"
 
     # game/code/e11/e11s03.rpy:715
     old "Pound Daisy's ass"
-    new "Pound Daisy's ass"
+    new "大力插黛西的屁股"
 
     # game/code/e11/e11s03.rpy:715
     old "Finish in her pussy"
-    new "Finish in her pussy"
+    new "在她的小穴里收尾"
 
