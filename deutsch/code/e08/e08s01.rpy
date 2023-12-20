@@ -706,7 +706,7 @@ translate deutsch e08s01_9c9b73e2:
 translate deutsch e08s01_d66e0b21:
 
     # arj "I recommended we both read Their Eyes Were Watching God."
-    arj "Ich habe vorgeschlagen, dass wir beide "Their Eyes Were Watching God" lesen."
+    arj "Ich habe vorgeschlagen, dass wir beide \"Their Eyes Were Watching God\" lesen."
 
 # game/code/e08/e08s01.rpy:355
 translate deutsch e08s01_a6e7ae0c:

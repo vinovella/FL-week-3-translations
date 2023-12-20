@@ -1282,7 +1282,7 @@ translate chinese e11s04_back_9864b266:
 translate chinese e11s04_back_fb566398:
 
     # dd "I don't care! I {i}love being punished by you!{/i}"
-    dd "我不在乎！我{i}喜欢被你惩罚！{/i}
+    dd "我不在乎！我{i}喜欢被你惩罚！{/i}"
 
 # game/code/e11/e11s04.rpy:759
 translate chinese e11s04_back_8363732a:
