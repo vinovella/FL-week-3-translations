@@ -617,7 +617,7 @@ translate chinese replay_e11s07_9b7d0000:
 
     # dd "Besides, I always wanted to have my turn with you here."
     dd "而且我一直想在这里和你来一次。"
-，
+
 # game/code/e11/e11s07.rpy:360
 translate chinese replay_e11s07_c1d9c057:
 
