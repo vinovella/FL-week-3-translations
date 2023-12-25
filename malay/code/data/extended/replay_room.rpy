@@ -1,10 +1,10 @@
-# TODO: Translation updated at 2022-11-12 13:01
+# TODO: Please reinvite me on ViNovella's Discord server: skyejordan666
 
 translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 15: Lydia & AmRose LC Path"
-    new "Hari 15: Laluan Lydia & AmRose LC"
+    new "Hari 15: Laluan Lydia Dan AmRose LC"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Love conquers all"
@@ -12,7 +12,7 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 15: Lydia & AmRose NTR Path"
-    new "Hari 15: Laluan NTR Lydia & AmRose"
+    new "Hari 15: Laluan NTR Lydia Dan AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Needlessly tight restriction"
@@ -28,7 +28,7 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 15: Dahlia & Samiya"
-    new "Hari 15: Dahlia & Samiya"
+    new "Hari 15: Dahlia Dan Samiya"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't take credit"
@@ -44,7 +44,7 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 15: Polly & Nora"
-    new "Hari 15: Polly & Nora"
+    new "Hari 15: Polly Dan Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Let Lyssa take your anal cherry"
@@ -52,7 +52,7 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 15: Min & Lydia"
-    new "Hari 15: Min & Lydia"
+    new "Hari 15: Min Dan Lydia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Tell the truth"
@@ -76,11 +76,11 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Lydia & AmRose LC Path"
-    new "Hari 17: Laluan Lydia & AmRose LC"
+    new "Hari 17: Laluan Lydia Dan AmRose LC"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Lydia & AmRose NTR Path"
-    new "Hari 17: Laluan NTR Lydia & AmRose"
+    new "Hari 17: Laluan NTR Lydia Dan AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 17: Hana"
@@ -116,7 +116,7 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 18: Vanessa & Allison"
-    new "Hari 18: Vanessa & Allison"
+    new "Hari 18: Vanessa Dan Allison"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Stay with them till the end"
@@ -124,7 +124,7 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 18: Samiya, Dahlia & Pete"
-    new "Hari 18: Samiya, Dahlia & Pete"
+    new "Hari 18: Samiya, Dahlia Dan Pete"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 18: Claudie Fulton"
@@ -164,11 +164,11 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Cynthia & AmRose Video"
-    new "Hari 19: Cynthia & AmRose Video"
+    new "Hari 19: Cynthia Dan AmRose Video"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Min & Cynthia"
-    new "Hari 19: Min & Cynthia"
+    new "Hari 19: Min Dan Cynthia"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Maria"
@@ -176,7 +176,7 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 19: Stacy & AmRose"
-    new "Hari 19: Stacy & AmRose"
+    new "Hari 19: Stacy Dan AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Stacy"
@@ -188,7 +188,7 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Maria & Ronald Nordin"
-    new "Day 20: Maria & Ronald Nordin"
+    new "Hari 20: Maria Dan Ronald Nordin"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Share Maria"
@@ -204,7 +204,7 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Lyssa & Zarah Waller"
-    new "Hari 20: Lyssa & Zarah Waller"
+    new "Hari 20: Lyssa Dan Zarah Waller"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Give Zarah a piece of your mind"
@@ -212,7 +212,7 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Kevin & Chloe"
-    new "Hari 20: Kevin & Chloe"
+    new "Hari 20: Kevin Dan Chloe"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Oliver"
@@ -224,7 +224,7 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 20: Polly & Nora"
-    new "Hari 20: Polly & Nora"
+    new "Hari 20: Polly Dan Nora"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 10: Montage"
@@ -232,7 +232,7 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 10: Min & Nari"
-    new "Pengakhiran 10: Min & Nari"
+    new "Pengakhiran 10: Min Dan Nari"
 
 # TODO: Translation updated at 2023-05-03 19:39
 
@@ -264,7 +264,7 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 08: Stacy & Pregnant AmRose"
-    new "Pengakhiran 08: Stacy & AmRose Hamil"
+    new "Pengakhiran 08: Stacy Dan AmRose Hamil"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 08: Pregnant AmRose"
@@ -276,54 +276,55 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 21: Hana"
-    new "Day 21: Hana"
+    new "Hari 21: Hana"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 02: Lyssa, Ashley & Frank"
-    new "Ending 02: Lyssa, Ashley & Frank"
+    new "Pengakhiran 02: Lyssa, Ashley Dan Frank"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 02: Lyssa, Dorothy & Mikaela"
-    new "Ending 02: Lyssa, Dorothy & Mikaela"
+    new "Pengakhiran 02: Lyssa, Dorothy Dan Mikaela"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 02: Lyssa, Angela & Alexander"
-    new "Ending 02: Lyssa, Angela & Alexander"
+    new "Pengakhiran 02: Lyssa, Angela Dan Alexander"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 06: Lydia & Min"
-    new "Ending 06: Lydia & Min"
+    new "Pengakhiran 06: Lydia Dan Min"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 06: Lydia, Stacy & AmRose"
-    new "Ending 06: Lydia, Stacy & AmRose"
+    new "Pengakhiran 06: Lydia, Stacy Dan AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 06: Bachelor Party"
-    new "Ending 06: Bachelor Party"
+    new "Pengakhiran 06: Parti Bujang"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 06: Lyssa & AmRose"
-    new "Ending 06: Lyssa & AmRose"
+    new "Pengakhiran 06: Lyssa Dan AmRose"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 06: Wedding Reception"
-    new "Ending 06: Wedding Reception"
+    new "Pengakhiran 06: Majlis Perkahwinan"
+	
 # TODO: Translation updated at 2023-09-28 22:52
 
 translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:123
     old "Ending 12: Allison"
-    new "Ending 12: Allison"
+    new "Pengakhiran 12: Allison"
 
     # game/code/data/extended/replay_room.rpy:123
     old "Ending 12: Vanessa"
-    new "Ending 12: Vanessa"
+    new "Pengakhiran 12: Vanessa"
 
     # game/code/data/extended/replay_room.rpy:138
     old "Ending 14: Polly, Nora & Debbie"
-    new "Ending 14: Polly, Nora & Debbie"
+    new "Pengakhiran 14: Polly, Nora Dan Debbie"
 
 # TODO: Translation updated at 2023-12-07 21:18
 
@@ -331,17 +332,16 @@ translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:120
     old "Ending 11: Daisy & Janet"
-    new "Ending 11: Daisy & Janet"
+    new "Pengakhiran 11: Daisy Dan Janet"
 
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Dahlia & Room Service"
-    new "Ending 17: Dahlia & Room Service"
+    new "Pengakhiran 17: Dahlia Dan Servis Bilik"
 
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Dahlia & Domina"
-    new "Ending 17: Dahlia & Domina"
+    new "Pengakhiran 17: Dahlia Dan Domina"
 
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Pregnant Dahlia"
-    new "Ending 17: Pregnant Dahlia"
-
+    new "Pengakhiran 17: Dahlia Mengandung"
