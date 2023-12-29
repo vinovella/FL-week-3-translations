@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2022-11-12 13:01
+# TODO: Please reinvite me on ViNovella's Discord server: skyejordan666
 
 translate malay strings:
 
@@ -8,7 +8,7 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: Dahlia & Samia"
-    new "Hari 15: Dahlia & Samia"
+    new "Hari 15: Dahlia Dan Samia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 15: Daisey"
@@ -92,11 +92,11 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Dahlia & Samiya"
-    new "Hari 17: Dahlia & Samiya"
+    new "Hari 17: Dahlia Dan Samiya"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Polly & Nora"
-    new "Hari 17: Polly & Nora"
+    new "Hari 17: Polly Dan Nora"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 17: Jessie"
@@ -104,7 +104,7 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 18: Dahlia & Samiya"
-    new "Hari 18: Dahlia & Samiya"
+    new "Hari 18: Dahlia Dan Samiya"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 18: Cynthia"
@@ -116,7 +116,7 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Stacy & Lyssa"
-    new "Hari 19: Stacy & Lyssa"
+    new "Hari 19: Stacy Dan Lyssa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Daisy"
@@ -140,62 +140,63 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 19: Lyssa"
-    new "Day 19: Lyssa"
+    new "Hari 19: Lyssa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 20: Stacy & AmRose"
-    new "Day 20: Stacy & AmRose"
+    new "Hari 20: Stacy & AmRose"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 20: Min"
-    new "Day 20: Min"
+    new "Hari 20: Min"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 10: Min"
     new "Pengakhiran 10: Min"
+	
 # TODO: Translation updated at 2023-05-27 13:19
 
 translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 21: Stacy"
-    new "Day 21: Stacy"
+    new "Hari 21: Stacy"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 21: Lyssa"
-    new "Day 21: Lyssa"
+    new "Hari 21: Lyssa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 21: Min"
-    new "Day 21: Min"
+    new "Hari 21: Min"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Unlock Waterfall Ending"
-    new "Unlock Waterfall Ending"
+    new "Buka Kunci Pengakhiran Air Terjun"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 02: Lyssa"
-    new "Ending 02: Lyssa"
+    new "Pengakhiran 02: Lyssa"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Spend time with everyone"
-    new "Spend time with everyone"
+    new "Luangkan masa dengan semua orang"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 06: Lydia"
-    new "Ending 06: Lydia"
+    new "Pengakhiran 06: Lydia"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 06: Harem"
-    new "Ending 06: Harem"
+    new "Pengakhiran 06: Harem"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 06: Marriage"
-    new "Ending 06: Marriage"
+    new "Pengakhiran 06: Perkahwinan"
 
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 08: AmRose & Stacy"
-    new "Ending 08: AmRose & Stacy"
+    new "Pengakhiran 08: AmRose Dan Stacy"
 
 # TODO: Translation updated at 2023-09-28 22:52
 
@@ -203,11 +204,11 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:94
     old "Ending 12: Vanessa & Allison"
-    new "Ending 12: Vanessa & Allison"
+    new "Pengakhiran 12: Vanessa Dan Allison"
 
     # game/code/data/extended/cg_gallery.rpy:103
     old "Ending 14: Polly & Nora"
-    new "Ending 14: Polly & Nora"
+    new "Pengakhiran 14: Polly Dan Nora"
 
 # TODO: Translation updated at 2023-12-07 21:18
 
@@ -215,9 +216,8 @@ translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:91
     old "Ending 11: Daisy"
-    new "Ending 11: Daisy"
+    new "Pengakhiran 11: Daisy"
 
     # game/code/data/extended/cg_gallery.rpy:108
     old "Ending 17: Dahlia"
-    new "Ending 17: Dahlia"
-
+    new "Pengakhiran 17: Dahlia"
