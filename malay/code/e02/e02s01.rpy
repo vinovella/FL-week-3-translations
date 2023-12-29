@@ -389,7 +389,7 @@ translate malay e02s01_56db2518:
 
     # mh "Beach?"
     mh "Pantai?"
-	
+
 # game/code/e02/e02s01.rpy:273
 translate malay e02s01_4f503176:
 
@@ -1229,7 +1229,7 @@ translate malay e02s01_give_pleasure_63f4a0e8:
 
     # mh "Let's let it chill outside. We'll stay inside for the time being."
     mh "Mari kita biarkan ia sejuk di luar. Kita akan duduk di dalam untuk sementara waktu."
-	
+
 # game/code/e02/e02s01.rpy:841
 translate malay e02s01_give_pleasure_ae4e097b:
 

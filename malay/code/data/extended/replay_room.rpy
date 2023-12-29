@@ -309,7 +309,7 @@ translate malay strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 06: Wedding Reception"
     new "Pengakhiran 06: Majlis Perkahwinan"
-	
+
 # TODO: Translation updated at 2023-09-28 22:52
 
 translate malay strings:

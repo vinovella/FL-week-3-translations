@@ -526,7 +526,7 @@ translate malay e01s01_choice_done_b3747a61:
 translate malay e01s01_choice_done_d405dc93:
 
     # sy "What are you— Oh!"
-    sy “Apa yang kau— Oh!"
+    sy "Apa yang kau— Oh!"
 
 # game/code/e01/e01s01.rpy:615
 translate malay e01s01_choice_done_6d9baa37:
@@ -646,7 +646,7 @@ translate malay e01s01_choice_done_39983d6e:
 translate malay e01s01_choice_done_dd6ede0c:
 
     # sy "*Louder and louder moans* Fuuuck, I'm gonna cum! Cum with me!"
-    sy "*Mengerang lebih kuat* Sial, aku nak pancut. Pancut dengan aku.
+    sy "*Mengerang lebih kuat* Sial, aku nak pancut. Pancut dengan aku."
 
 # game/code/e01/e01s01.rpy:778
 translate malay e01s01_choice_done_8e474f2e:

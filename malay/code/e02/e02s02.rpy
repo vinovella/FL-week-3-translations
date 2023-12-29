@@ -143,7 +143,7 @@ translate malay e02s02_7e979033:
 
     # mc "My fault."
     mc "Salah aku."
-	
+
 # game/code/e02/e02s02.rpy:97
 translate malay e02s02_60ab4cd0:
 

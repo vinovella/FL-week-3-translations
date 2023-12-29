@@ -153,7 +153,7 @@ translate malay strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 10: Min"
     new "Pengakhiran 10: Min"
-	
+
 # TODO: Translation updated at 2023-05-27 13:19
 
 translate malay strings:
