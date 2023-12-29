@@ -15,8 +15,8 @@ translate turkish e13s04_93557ce5:
 # game/code/e13/e13s04.rpy:55
 translate turkish e13s04_9095cd3d:
 
-    # mc "Mm. O {i}son derece{/i} düşünceli bir genç beyefendi.""
-    mc "Mm. He is an {i}extremely{/i} opinionated young gentleman."
+    # mc "Mm. He is an {i}extremely{/i} opinionated young gentleman."
+    mc "Mm. O {i}son derece{/i} düşünceli bir genç beyefendi."
 
 # game/code/e13/e13s04.rpy:56
 translate turkish e13s04_99af8c52:
