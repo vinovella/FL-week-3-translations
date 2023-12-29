@@ -68,45 +68,45 @@ translate deutsch strings:
 
     # game/code/data/prologue.rpy:16
     old "The Judge"
-    new "The Judge"
+    new "Die Richterin"
 
     # game/code/data/prologue.rpy:45
     old "Enema"
-    new "Enema"
+    new "Einlauf"
 
     # game/code/data/prologue.rpy:45
     old "Watersports"
-    new "Watersports"
+    new "Wassersport"
 
     # game/code/data/prologue.rpy:45
     old "Footfetish"
-    new "Footfetish"
+    new "Fußfetisch"
 
     # game/code/data/prologue.rpy:45
     old "Cumgarnish"
-    new "Cumgarnish"
+    new "Wichsgarnierung"
 
     # game/code/data/prologue.rpy:45
     old "Fisting"
-    new "Fisting"
+    new "Fisten"
 
     # game/code/data/prologue.rpy:45
     old "Pegging"
-    new "Pegging"
+    new "Pflocken"
 
     # game/code/data/prologue.rpy:45
     old "Trans Content"
-    new "Trans Content"
+    new "Trans-Inhalte"
 
     # game/code/data/prologue.rpy:79
     old "dog"
-    new "dog"
+    new "Hund"
 
     # game/code/data/prologue.rpy:79
     old "cuddle"
-    new "cuddle"
+    new "kuscheln"
 
     # game/code/data/prologue.rpy:79
     old "adult magazines"
-    new "adult magazines"
+    new "Zeitschriften für Erwachsene"
 
