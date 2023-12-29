@@ -12,27 +12,27 @@ translate deutsch strings:
 
     # game/code/data/endings.rpy:3
     old "Two Girls Two Dicks"
-    new "Two Girls Two Dicks"
+    new "Zwei Mädchen, zwei Schwänze"
 
     # game/code/data/endings.rpy:3
     old "My Sex Dungeon"
-    new "My Sex Dungeon"
+    new "Mein Sex-Dungeon"
 
     # game/code/data/endings.rpy:3
     old "Sausage Party"
-    new "Sausage Party"
+    new "Würstchen-Party"
 
     # game/code/data/endings.rpy:3
     old "Queen's Harem"
-    new "Queen's Harem"
+    new "Harem der Königin"
 
     # game/code/data/endings.rpy:3
     old "A New Chair"
-    new "A New Chair"
+    new "Ein neuer Stuhl"
 
     # game/code/data/endings.rpy:3
     old "My Happy Ginger Family"
-    new "My Happy Ginger Family"
+    new "Meine glückliche Ingwer-Familie"
 
     # game/code/data/endings.rpy:3
     old "Fetish Locator: Rebooted"
@@ -40,19 +40,19 @@ translate deutsch strings:
 
     # game/code/data/endings.rpy:3
     old "Runaway"
-    new "Runaway"
+    new "Ausreißer"
 
     # game/code/data/endings.rpy:3
     old "Red Diamond"
-    new "Red Diamond"
+    new "Roter Diamant"
 
     # game/code/data/endings.rpy:3
     old "Redhead Resort"
-    new "Redhead Resort"
+    new "Rothaar-Resort"
 
     # game/code/data/endings.rpy:3
     old "Pregnant Nora"
-    new "Pregnant Nora"
+    new "Schwangere Nora"
 
     # game/code/data/endings.rpy:3
     old "Polly & Nora"
@@ -60,17 +60,17 @@ translate deutsch strings:
 
     # game/code/data/endings.rpy:3
     old "Waterfall"
-    new "Waterfall"
+    new "Wasserfall"
 
     # game/code/data/endings.rpy:3
     old "Breeding Ponies"
-    new "Breeding Ponies"
+    new "Zuchtponys"
 
     # game/code/data/endings.rpy:3
     old "Not Guilty"
-    new "Not Guilty"
+    new "Nicht schuldig"
 
     # game/code/data/endings.rpy:3
     old "Quartet"
-    new "Quartet"
+    new "Quartett"
 
