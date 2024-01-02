@@ -4,565 +4,565 @@
 translate chinese e17s02_6edbf36c:
 
     # dw "{i}Then there was the morning when everything changed.{/i}"
-    dw "{i}Then there was the morning when everything changed.{/i}"
+    dw "{i}那天早上，一切都变了。{/i}"
 
 # game/code/e17/e17s02.rpy:47
 translate chinese e17s02_c74eae71:
 
     # dw "{i}I didn't know it yet, but that would be the day when [mcname] and I met the 'Mistress'.{/i}"
-    dw "{i}I didn't know it yet, but that would be the day when [mcname] and I met the 'Mistress'.{/i}"
+    dw "{i}我当时还不知道，但那将是我和[mcname]遇到'女主人'的那一天。{/i}"
 
 # game/code/e17/e17s02.rpy:53
 translate chinese e17s02_b899d511:
 
     # dw "Has my good little pet brought me breakfast in bed?"
-    dw "Has my good little pet brought me breakfast in bed?"
+    dw "我的乖宠物给我送早餐了吗？"
 
 # game/code/e17/e17s02.rpy:56
 translate chinese e17s02_8b6fdb97:
 
     # dw "Has he learned his lesson about disobeying his Mistress?"
-    dw "Has he learned his lesson about disobeying his Mistress?"
+    dw "他有没有吸取教训，要听女主人的话？"
 
 # game/code/e17/e17s02.rpy:57
 translate chinese e17s02_28f921fb:
 
     # dw "Is he going to forget to call me Mistress anymore?"
-    dw "Is he going to forget to call me Mistress anymore?"
+    dw "他会忘记称呼我女主人吗？"
 
 # game/code/e17/e17s02.rpy:59
 translate chinese e17s02_77975f23:
 
     # mc "Mmmm."
-    mc "Mmmm."
+    mc "嗯嗯嗯。"
 
 # game/code/e17/e17s02.rpy:60
 translate chinese e17s02_73f8331c:
 
     # dw "Good. Then my pet may remove his gag."
-    dw "Good. Then my pet may remove his gag."
+    dw "很好。那我的宠物可以把嘴里的塞子拿开了。"
 
 # game/code/e17/e17s02.rpy:64
 translate chinese e17s02_afbf03ea:
 
     # mc "Oh thank Christ, it was-"
-    mc "Oh thank Christ, it was-"
+    mc "哦，感谢老天，是--"
 
 # game/code/e17/e17s02.rpy:65
 translate chinese e17s02_5a3765d8:
 
     # mc "Oh shit."
-    mc "Oh shit."
+    mc "靠。"
 
 # game/code/e17/e17s02.rpy:68
 translate chinese e17s02_efd8c6b8:
 
     # dw "\"Oh shit\" is right. Who said you were allowed to speak?"
-    dw "\"Oh shit\" is right. Who said you were allowed to speak?"
+    dw "你是该\"后悔\"。谁允许你说话的？"
 
 # game/code/e17/e17s02.rpy:71
 translate chinese e17s02_7568eca2:
 
     # mc "Yes, Mistress. I am sorry, Mistress."
-    mc "Yes, Mistress. I am sorry, Mistress."
+    mc "是的，女主人。我很抱歉。"
 
 # game/code/e17/e17s02.rpy:73
 translate chinese e17s02_78e00a30:
 
     # dw "You will be punished. After I have finished my breakfast."
-    dw "You will be punished. After I have finished my breakfast."
+    dw "你该受罚了。在我吃完早餐之后。"
 
 # game/code/e17/e17s02.rpy:76
 translate chinese e17s02_7c3bbf90:
 
     # dw "I want you to stand there and watch me eat. If I see your dick even twitch, you will receive a second punishment."
-    dw "I want you to stand there and watch me eat. If I see your dick even twitch, you will receive a second punishment."
+    dw "我要你站在那里看着我吃东西。如果我看到你的小弟弟哪怕抽动一下，你将接受第二次惩罚。"
 
 # game/code/e17/e17s02.rpy:78
 translate chinese e17s02_7fd3a623:
 
     # mc "Yes, Mistress."
-    mc "Yes, Mistress."
+    mc "好的，女主人。"
 
 # game/code/e17/e17s02.rpy:84
 translate chinese e17s02_ac0a160f:
 
     # dw "Oh my GOD!"
-    dw "Oh my GOD!"
+    dw "我的天哪！"
 
 # game/code/e17/e17s02.rpy:90
 translate chinese e17s02_183ab285:
 
     # dw "It seems like you're finally starting to learn."
-    dw "It seems like you're finally starting to learn."
+    dw "看来你终于开始学乖了。"
 
 # game/code/e17/e17s02.rpy:92
 translate chinese e17s02_36c92f4d:
 
     # dw "You may speak now, slave."
-    dw "You may speak now, slave."
+    dw "奴隶，你可以说话了。"
 
 # game/code/e17/e17s02.rpy:94
 translate chinese e17s02_ffe054c6:
 
     # mc "What is my Mistress so excited about?"
-    mc "What is my Mistress so excited about?"
+    mc "我的女主人为什么这么兴奋？"
 
 # game/code/e17/e17s02.rpy:97
 translate chinese e17s02_5869a7c9:
 
     # dw "Mistress Gizela is in town!"
-    dw "Mistress Gizela is in town!"
+    dw "女主人吉泽拉来了！"
 
 # game/code/e17/e17s02.rpy:99
 translate chinese e17s02_09fd1114:
 
     # mc "Who is Mistress Gizela?"
-    mc "Who is Mistress Gizela?"
+    mc "谁是女主人吉泽拉？"
 
 # game/code/e17/e17s02.rpy:102
 translate chinese e17s02_8882b428:
 
     # dw "How do you not know who she is? What am I saying? I shouldn't expect anything more from a worthless sub like you."
-    dw "How do you not know who she is? What am I saying? I shouldn't expect anything more from a worthless sub like you."
+    dw "你怎么会不知道她是谁？呵，是我傻了吧？我不该对你这种没用的奴隶抱有更多期望。"
 
 # game/code/e17/e17s02.rpy:104
 translate chinese e17s02_eaf518d3:
 
     # mc "You are right, Mistress."
-    mc "You are right, Mistress."
+    mc "您说得对，女主人。"
 
 # game/code/e17/e17s02.rpy:107
 translate chinese e17s02_6ed83264:
 
     # dw "Good answer. Well, Mistress Gizela is one of the best dominatrixes on the planet."
-    dw "Good answer. Well, Mistress Gizela is one of the best dominatrixes on the planet."
+    dw "答得好。女主人吉泽拉是这个星球上最厉害的支配者之一。"
 
 # game/code/e17/e17s02.rpy:108
 translate chinese e17s02_b74c775a:
 
     # dw "I've seen her stage performances and watched all of her content online."
-    dw "I've seen her stage performances and watched all of her content online."
+    dw "我看过她的舞台表演，也在网上看过她的所有内容。"
 
 # game/code/e17/e17s02.rpy:111
 translate chinese e17s02_6b75622a:
 
     # dw "I've even used some of her techniques on you, my little sub."
-    dw "I've even used some of her techniques on you, my little sub."
+    dw "我甚至在你身上用过她的一些技巧，我的小奴隶。"
 
 # game/code/e17/e17s02.rpy:112
 translate chinese e17s02_05185edc:
 
     # dw "Tonight she'll be at the Devet Ocasu. We're going to meet her."
-    dw "Tonight she'll be at the Devet Ocasu. We're going to meet her."
+    dw "今晚她会在Devet Ocasu。我们要去见她。"
 
 # game/code/e17/e17s02.rpy:115
 translate chinese e17s02_e6de6c6e:
 
     # mct "What the hell is Devet Ocasu?"
-    mct "What the hell is Devet Ocasu?"
+    mct "Devet Ocasu是什么鬼东西？"
 
 # game/code/e17/e17s02.rpy:117
 translate chinese e17s02_539f939b:
 
     # dw "What are you confused about, slave?"
-    dw "What are you confused about, slave?"
+    dw "你在困惑什么，奴隶？"
 
 # game/code/e17/e17s02.rpy:120
 translate chinese e17s02_7a4686ea:
 
     # mc "Is that... A place?"
-    mc "Is that... A place?"
+    mc "那是...一个地名？"
 
 # game/code/e17/e17s02.rpy:122
 translate chinese e17s02_c9457c94:
 
     # dw "It is. Devet Ocasu, in English 'The Nine Tales'. It's a premiere kink club here in town."
-    dw "It is. Devet Ocasu, in English 'The Nine Tales'. It's a premiere kink club here in town."
+    dw "是的。Devet Ocasu，中文是'九个故事'。这是镇上首屈一指的变态俱乐部。"
 
 # game/code/e17/e17s02.rpy:125
 translate chinese e17s02_f4c23a70:
 
     # mc "Your wish is my command, Mistress."
-    mc "Your wish is my command, Mistress."
+    mc "您的愿望就是我的命令，女主人。"
 
 # game/code/e17/e17s02.rpy:127
 translate chinese e17s02_84cfbc0d:
 
     # dw "I think I've got the perfect punishment for you too."
-    dw "I think I've got the perfect punishment for you too."
+    dw "很好，我也为你准备了完美的惩罚。"
 
 # game/code/e17/e17s02.rpy:130
 translate chinese e17s02_8d248861:
 
     # mc "... Yes, Mistress."
-    mc "... Yes, Mistress."
+    mc "...好的，女主人。"
 
 # game/code/e17/e17s02.rpy:132
 translate chinese e17s02_1ea9d2e1:
 
     # dw "Get me my bag of goodies."
-    dw "Get me my bag of goodies."
+    dw "把我那袋好东西拿来。。"
 
 # game/code/e17/e17s02.rpy:135
 translate chinese e17s02_44db61f5:
 
     # mct "Fuck, I don't like the sound of that."
-    mct "Fuck, I don't like the sound of that."
+    mct "操，我不喜欢这声音。"
 
 # game/code/e17/e17s02.rpy:136
 translate chinese e17s02_8d248861_1:
 
     # mc "... Yes, Mistress."
-    mc "... Yes, Mistress."
+    mc "...好的，女主人。"
 
 # game/code/e17/e17s02.rpy:144
 translate chinese e17s02_e3360987:
 
     # dw "Ready to play dress up, Barby?"
-    dw "Ready to play dress up, Barby?"
+    dw "准备好打扮自己了吗，我的芭比娃娃？"
 
 # game/code/e17/e17s02.rpy:145
 translate chinese e17s02_bdafb040:
 
     # mct "Oh no..."
-    mct "Oh no..."
+    mct "哦，不..."
 
 # game/code/e17/e17s02.rpy:148
 translate chinese e17s02_60295016:
 
     # dw "Do I have to repeat myself, slave?"
-    dw "Do I have to repeat myself, slave?"
+    dw "我要重复第二遍吗，奴隶？"
 
 # game/code/e17/e17s02.rpy:150
 translate chinese e17s02_6342e887:
 
     # mc "No, Mistress. I'm ready to play dress up, Mistress."
-    mc "No, Mistress. I'm ready to play dress up, Mistress."
+    mc "不，女主人。我准备好玩装扮游戏了，女主人。"
 
 # game/code/e17/e17s02.rpy:151
 translate chinese e17s02_d02176f0:
 
     # dw "Good. Now I want you to sit on the bed."
-    dw "Good. Now I want you to sit on the bed."
+    dw "很好。现在我要你坐在床上。"
 
 # game/code/e17/e17s02.rpy:154
 translate chinese e17s02_58223f71:
 
     # dw "I am going to show you my outfits for tonight."
-    dw "I am going to show you my outfits for tonight."
+    dw "我要给你看我今晚的服装。"
 
 # game/code/e17/e17s02.rpy:156
 translate chinese e17s02_7fd3a623_1:
 
     # mc "Yes, Mistress."
-    mc "Yes, Mistress."
+    mc "好的，女主人。"
 
 # game/code/e17/e17s02.rpy:159
 translate chinese e17s02_52ed16c8:
 
     # dw "And if you get hard, there will be an {i}extra special{/i} punishment for you."
-    dw "And if you get hard, there will be an {i}extra special{/i} punishment for you."
+    dw "如果你下面鼓包了，迎接你的会有{i}附加特别{/i}惩罚。"
 
 # game/code/e17/e17s02.rpy:161
 translate chinese e17s02_7fd3a623_2:
 
     # mc "Yes, Mistress."
-    mc "Yes, Mistress."
+    mc "是，女主人。"
 
 # game/code/e17/e17s02.rpy:164
 translate chinese e17s02_9295f9ca:
 
     # dw "Good. Now stay here like a good boy."
-    dw "Good. Now stay here like a good boy."
+    dw "很好。现在像个乖宝贝一样待在这里。"
 
 # game/code/e17/e17s02.rpy:169
 translate chinese e17s02_d0aca627:
 
     # mct "This is going to be torture."
-    mct "This is going to be torture."
+    mct "这对我是一种折磨。"
 
 # game/code/e17/e17s02.rpy:170
 translate chinese e17s02_f0e89d81:
 
     # mct "Please... Just do what she says and stay flaccid."
-    mct "Please... Just do what she says and stay flaccid."
+    mct "拜托拜托...照她说的做，千万别硬起来。"
 
 # game/code/e17/e17s02.rpy:177
 translate chinese e17s02_c19da125:
 
     # dw "What do you think, slave?"
-    dw "What do you think, slave?"
+    dw "你觉得怎么样，奴隶？"
 
 # game/code/e17/e17s02.rpy:179
 translate chinese e17s02_a5d4d28c:
 
     # mc "It looks good, Mistress."
-    mc "It looks good, Mistress."
+    mc "看起来不错，女主人。"
 
 # game/code/e17/e17s02.rpy:182
 translate chinese e17s02_0c08bc17:
 
     # dw "I look like I'm from some 90s kink club. Are you lying to me, slave?"
-    dw "I look like I'm from some 90s kink club. Are you lying to me, slave?"
+    dw "我看起来就像来自90年代的变态俱乐部。你在骗我吗，奴隶？"
 
 # game/code/e17/e17s02.rpy:184
 translate chinese e17s02_4738a1e7:
 
     # mc "... I think that my Madam has the right opinion."
-    mc "... I think that my Madam has the right opinion."
+    mc "...我认为夫人尊贵的意见是对的。"
 
 # game/code/e17/e17s02.rpy:187
 translate chinese e17s02_ca54c561:
 
     # dw "Did you just call me Madam?"
-    dw "Did you just call me Madam?"
+    dw "你刚才叫我夫人？"
 
 # game/code/e17/e17s02.rpy:189
 translate chinese e17s02_a1f27046:
 
     # mc "Yes, I'm sorry Mis-"
-    mc "Yes, I'm sorry Mis-"
+    mc "是的，我很抱歉，女主-"
 
 # game/code/e17/e17s02.rpy:192
 translate chinese e17s02_ea0f5d2f:
 
     # dw "No, it's okay. I don't mind Madam."
-    dw "No, it's okay. I don't mind Madam."
+    dw "不，没关系。我不介意夫人这个称呼。"
 
 # game/code/e17/e17s02.rpy:194
 translate chinese e17s02_4cd8cf2c:
 
     # mc "Yes, Madam."
-    mc "Yes, Madam."
+    mc "好的，夫人。"
 
 # game/code/e17/e17s02.rpy:199
 translate chinese e17s02_4178db28:
 
     # mct "Phew. I thought for sure she was going to be mad about Madam."
-    mct "Phew. I thought for sure she was going to be mad about Madam."
+    mct "呼。我还以为她肯定会为夫人这个称呼生气呢。"
 
 # game/code/e17/e17s02.rpy:200
 translate chinese e17s02_f17126a0:
 
     # mct "Okay, you're doing good. Just keep doing what you're doing."
-    mct "Okay, you're doing good. Just keep doing what you're doing."
+    mct "好了，你做得很好。继续保持下去吧。"
 
 # game/code/e17/e17s02.rpy:206
 translate chinese e17s02_c2ec805d:
 
     # dw "Is this too... a la Burton?"
-    dw "Is this too... a la Burton?"
+    dw "这是不是太...过了？"
 
 # game/code/e17/e17s02.rpy:208
 translate chinese e17s02_4cb2f207:
 
     # mc "I don't think this shows off your best assets, Madam."
-    mc "I don't think this shows off your best assets, Madam."
+    mc "我不认为这能展示出您最好的一面，夫人。"
 
 # game/code/e17/e17s02.rpy:211
 translate chinese e17s02_59e2edda:
 
     # dw "You are impressing me more and more, my pet."
-    dw "You are impressing me more and more, my pet."
+    dw "你越来越打动我了，我的小玩物。"
 
 # game/code/e17/e17s02.rpy:214
 translate chinese e17s02_1edbd5a8:
 
     # dw "Very impressed."
-    dw "Very impressed."
+    dw "让我印象深刻。"
 
 # game/code/e17/e17s02.rpy:219
 translate chinese e17s02_ae60f884:
 
     # mct "Okay. I think I might just make it. Come on dick, it's me and you. We can do this."
-    mct "Okay. I think I might just make it. Come on dick, it's me and you. We can do this."
+    mct "好嘞，我想我可能会成功的。来吧，小鸡巴，这关乎到咱俩的生死存亡。我们能做到的。"
 
 # game/code/e17/e17s02.rpy:225
 translate chinese e17s02_c3101375:
 
     # mct "Fuck me..."
-    mct "Fuck me..."
+    mct "操..."
 
 # game/code/e17/e17s02.rpy:228
 translate chinese e17s02_51b709d9:
 
     # dw "What does my little pet think?"
-    dw "What does my little pet think?"
+    dw "我的小宠物怎么想？"
 
 # game/code/e17/e17s02.rpy:230
 translate chinese e17s02_b3ae8984:
 
     # mc "Uhm..."
-    mc "Uhm..."
+    mc "呃..."
 
 # game/code/e17/e17s02.rpy:231
 translate chinese e17s02_495e0f4d:
 
     # dw "Cat got your tongue? Speak when spoken to you worthless sub!"
-    dw "Cat got your tongue? Speak when spoken to you worthless sub!"
+    dw "你的舌头被猫叼住了？你这没用的家伙，跟你说话的时候就应着！"
 
 # game/code/e17/e17s02.rpy:234
 translate chinese e17s02_bfb216a6:
 
     # dw "Tsk, tsk, tsk."
-    dw "Tsk, tsk, tsk."
+    dw "啧，啧，啧。"
 
 # game/code/e17/e17s02.rpy:237
 translate chinese e17s02_a3ff08c8:
 
     # dw "I guess you like this one."
-    dw "I guess you like this one."
+    dw "我猜你喜欢这个。"
 
 # game/code/e17/e17s02.rpy:239
 translate chinese e17s02_8d248861_2:
 
     # mc "... Yes, Mistress."
-    mc "... Yes, Mistress."
+    mc "...是的，女主人。"
 
 # game/code/e17/e17s02.rpy:242
 translate chinese e17s02_2ec23199:
 
     # dw "Your pathetic little dick is all hard. You know what that means, don't you."
-    dw "Your pathetic little dick is all hard. You know what that means, don't you."
+    dw "你可怜的小鸡鸡都硬了。你知道这意味着什么吧。"
 
 # game/code/e17/e17s02.rpy:244
 translate chinese e17s02_977991b6:
 
     # mc "... Yes, Madam."
-    mc "... Yes, Madam."
+    mc "...知道，夫人。"
 
 # game/code/e17/e17s02.rpy:247
 translate chinese e17s02_4604a5ba:
 
     # dw "And you know what that means? Tell me."
-    dw "And you know what that means? Tell me."
+    dw "你知道这意味着什么吗？告诉我。"
 
 # game/code/e17/e17s02.rpy:249
 translate chinese e17s02_4f9cc382:
 
     # mc "That I need to be punished, Madam."
-    mc "That I need to be punished, Madam."
+    mc "意味着我需要受到惩罚，夫人。"
 
 # game/code/e17/e17s02.rpy:253
 translate chinese e17s02_7431fc08:
 
     # dw "That is correct. The only thing more useless than you, you disobedient little bitch, is your disgusting, puny little dick."
-    dw "That is correct. The only thing more useless than you, you disobedient little bitch, is your disgusting, puny little dick."
+    dw "没错。唯一比你这个不听话的小贱人更没用的东西，就是你那恶心的小鸡巴。"
 
 # game/code/e17/e17s02.rpy:255
 translate chinese e17s02_9ea1b497:
 
     # mc "Ouch, yes- Madam!"
-    mc "Ouch, yes- Madam!"
+    mc "哎哟，是的--夫人！"
 
 # game/code/e17/e17s02.rpy:259
 translate chinese e17s02_b3dbf6b6:
 
     # dw "Say it! You filthy little pervert, say it!"
-    dw "Say it! You filthy little pervert, say it!"
+    dw "说啊！你这个肮脏的小变态，快说！"
 
 # game/code/e17/e17s02.rpy:261
 translate chinese e17s02_a2b6b91d:
 
     # mc "Fuck- okay. My dick is disgusting and pathetic and useless!"
-    mc "Fuck- okay. My dick is disgusting and pathetic and useless!"
+    mc "操--好吧。我的小鸡巴又恶心又可怜又没用！"
 
 # game/code/e17/e17s02.rpy:264
 translate chinese e17s02_791e04b6:
 
     # dw "And?"
-    dw "And?"
+    dw "然后呢？"
 
 # game/code/e17/e17s02.rpy:266
 translate chinese e17s02_c48bc47e:
 
     # mc "And I deserve this for disobeying my Madam!"
-    mc "And I deserve this for disobeying my Madam!"
+    mc "我不听夫人的话，活该受罚！"
 
 # game/code/e17/e17s02.rpy:269
 translate chinese e17s02_71dea0c8:
 
     # dw "Good."
-    dw "Good."
+    dw "很好。"
 
 # game/code/e17/e17s02.rpy:273
 translate chinese e17s02_8f5c6162:
 
     # dw "Well... You've been a {i}mostly{/i} good sub. I think you've earned a little treat. Sit on the floor."
-    dw "Well... You've been a {i}mostly{/i} good sub. I think you've earned a little treat. Sit on the floor."
+    dw "嗯...。你{i}一直{/i}都是个好的臣服者。我想你应该得到一点奖励。坐在地板上。"
 
 # game/code/e17/e17s02.rpy:275
 translate chinese e17s02_23ceab4b:
 
     # dw "You may use my feet to jerk off."
-    dw "You may use my feet to jerk off."
+    dw "你可以用我的脚打飞机。"
 
 # game/code/e17/e17s02.rpy:277
 translate chinese e17s02_2d5456f8:
 
     # mc "Thank you, Madam."
-    mc "Thank you, Madam."
+    mc "谢谢您，夫人。"
 
 # game/code/e17/e17s02.rpy:291
 translate chinese e17s02_1c32ece4:
 
     # dw "How does my slave like my nasty feet?"
-    dw "How does my slave like my nasty feet?"
+    dw "我的奴隶喜欢我这双脏脚吗？"
 
 # game/code/e17/e17s02.rpy:292
 translate chinese e17s02_92d24991:
 
     # mc "They are wonderful, Madam."
-    mc "They are wonderful, Madam."
+    mc "您的脚很漂亮，夫人。"
 
 # game/code/e17/e17s02.rpy:300
 translate chinese e17s02_f76854b8:
 
     # dw "My gross feet are the only part of my body your pathetic dick gets to enjoy."
-    dw "My gross feet are the only part of my body your pathetic dick gets to enjoy."
+    dw "我的臭脚是我身上唯一能让你的小弟弟享受的地方。"
 
 # game/code/e17/e17s02.rpy:301
 translate chinese e17s02_8cafb252:
 
     # mc "Yes, Madam. You're so generous."
-    mc "Yes, Madam. You're so generous."
+    mc "遵命，夫人。您真慷慨。"
 
 # game/code/e17/e17s02.rpy:304
 translate chinese e17s02_6747e305:
 
     # dw "I feel your tiny cock twitching, are my feet going to make you cum?"
-    dw "I feel your tiny cock twitching, are my feet going to make you cum?"
+    dw "我感觉到你的小鸡鸡在抽动，我的脚要让你射了吗？"
 
 # game/code/e17/e17s02.rpy:305
 translate chinese e17s02_10baa532:
 
     # mc "Mmmm- yes!"
-    mc "Mmmm- yes!"
+    mc "哈啊--是的！"
 
 # game/code/e17/e17s02.rpy:308
 translate chinese e17s02_1731dd66:
 
     # dw "Good, finally something you can do with your dick. Haha. So weak.{w} Cum for your Madam!"
-    dw "Good, finally something you can do with your dick. Haha. So weak.{w} Cum for your Madam!"
+    dw "很好，你终于能用你的小弟弟做点什么了。哈哈。太垃圾了。{w}为你的夫人射精吧！"
 
 # game/code/e17/e17s02.rpy:309
 translate chinese e17s02_472c7bd5:
 
     # mc "Yes! Yes, Madam!"
-    mc "Yes! Yes, Madam!"
+    mc "好哎！遵命，夫人！"
 
 # game/code/e17/e17s02.rpy:316
 translate chinese e17s02_1e1dcd3b:
 
     # dw "Pet?"
-    dw "Pet?"
+    dw "小宠物？"
 
 # game/code/e17/e17s02.rpy:318
 translate chinese e17s02_67c9c2b6:
 
     # mc "Yes, Madam?"
-    mc "Yes, Madam?"
+    mc "我在，夫人？"
 
 # game/code/e17/e17s02.rpy:321
 translate chinese e17s02_f70985c5:
