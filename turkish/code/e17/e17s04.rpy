@@ -286,7 +286,7 @@ translate turkish replay_e17s04_7fd3a623:
 translate turkish replay_e17s04_ef44a05c:
 
     # dw "{i}What did the Domina know about me and my slave? How could she know what the line was?{/i}"
-    dw "{i}Domina benim ve kölem hakkında ne biliyordu? Çizginin ne olduğunu nasıl bilebilir?"{/i}"
+    dw "{i}Domina benim ve kölem hakkında ne biliyordu? Çizginin ne olduğunu nasıl bilebilir?{/i}"
 
 # game/code/e17/e17s04.rpy:251
 translate turkish replay_e17s04_216ad784:
@@ -754,7 +754,7 @@ translate turkish replay_e17s04_4295ca93:
 translate turkish replay_e17s04_1f9a317a:
 
     # dw "{i}So was I. *weak laughter* I mean, I never felt more passion for him.{/i}"
-    dw "{i}Ben de öyleydim. *Yani, ona karşı hiç bu kadar tutku hissetmemiştim."{/i}"
+    dw "{i}Ben de öyleydim. *Yani, ona karşı hiç bu kadar tutku hissetmemiştim.{/i}"
 
 # game/code/e17/e17s04.rpy:522
 translate turkish replay_e17s04_8c8661c9:

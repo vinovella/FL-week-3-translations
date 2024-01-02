@@ -520,7 +520,7 @@ translate chinese e17s01_hotel_lobby_c16c21b4:
 translate chinese e17s01_hotel_lobby_85fb5d86:
 
     # dw "I'm sorry, did you have something to say about this?"
-    dw "怎么，你有什么要说的吗？
+    dw "怎么，你有什么要说的吗？"
 
 # game/code/e17/e17s01.rpy:339
 translate chinese e17s01_hotel_lobby_1e0e1ba0:

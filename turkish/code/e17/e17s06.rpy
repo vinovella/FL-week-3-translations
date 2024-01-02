@@ -124,7 +124,7 @@ translate turkish e17s06_53123fd0:
 translate turkish e17s06_f88bc917:
 
     # mc "Oh... {i}my{/i} child misbehaving? How odd?"
-    mc "Ah... {benim{/i} çocuğum yaramazlık mı yapıyor? Ne kadar garip?"
+    mc "Ah... {i}benim{/i} çocuğum yaramazlık mı yapıyor? Ne kadar garip?"
 
 # game/code/e17/e17s06.rpy:107
 translate turkish e17s06_6b39e7b2:

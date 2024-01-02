@@ -1006,4 +1006,4 @@ translate turkish strings:
 
     # game/code/e14/e14s07.rpy:630
     old "You have finished playing ending number 14!"
-    new "14 numaralı +A984+A937+A987:A1009+A977:A10+A1:A1009
+    new "You have finished playing ending number 14!"

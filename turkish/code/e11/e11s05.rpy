@@ -844,7 +844,7 @@ translate turkish strings:
 
     # game/code/e11/e11s05.rpy:28
     old "Next on the Bucket List"
-    old "Yapılacaklar Listesinde Sıradaki"
+    new "Yapılacaklar Listesinde Sıradaki"
 
     # game/code/e11/e11s05.rpy:235
     old "A short walk later"

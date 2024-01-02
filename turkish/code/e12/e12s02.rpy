@@ -982,4 +982,4 @@ translate turkish strings:
 
     # game/code/e12/e12s02.rpy:39
     old "Next day at the hotel gym"
-    yeni "Ertesi gün otelin spor salonunda"
+    new "Ertesi gün otelin spor salonunda"

@@ -1096,7 +1096,7 @@ translate turkish replay_e12s06_b9c48295:
 translate turkish replay_e12s06_63f86fbb:
 
     # vw "*loud gasping*"
-    VW "*Soluk soluğa*"
+    vw "*Soluk soluğa*"
 
 # game/code/e12/e12s06.rpy:632
 translate turkish replay_e12s06_5d253099:

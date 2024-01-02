@@ -1522,7 +1522,7 @@ translate turkish e14s06_bottom_foursome_5f379f6b:
 translate turkish e14s06_bottom_foursome_4bc9de55:
 
     # nk "Do I need to spell it out for you? {i}Are you going to fuck me in the ass now?{/i}"
-    "Senin için hecelememe gerek var mı? {"Şimdi beni götümden mi sikeceksin?"
+    "Senin için hecelememe gerek var mı? {i}Şimdi beni götümden mi sikeceksin?{/i}"
 
 # game/code/e14/e14s06.rpy:1132
 translate turkish e14s06_bottom_foursome_13863764:

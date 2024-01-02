@@ -1006,5 +1006,5 @@ translate turkish strings:
 
     # game/code/e11/e11s07.rpy:607
     old "You have finished playing Ending #11!"
-    yeni "Son #11'i oynamayı bitirdiniz!"
+    new "Son #11'i oynamayı bitirdiniz!"
 

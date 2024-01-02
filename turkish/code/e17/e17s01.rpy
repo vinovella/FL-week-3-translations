@@ -28,7 +28,7 @@ translate turkish e17s01_79692cdd:
 translate turkish e17s01_1037ad9d:
 
     # dw "{i}We hit it off - in our own way. During the summer we decided to take a tour of Europe together.{/i}"
-    dw "{i}Kendi yöntemlerimizle birbirimize aşık olduk. Yaz boyunca birlikte bir Avrupa turuna çıkmaya karar verdik."{/i}"
+    dw "{i}Kendi yöntemlerimizle birbirimize aşık olduk. Yaz boyunca birlikte bir Avrupa turuna çıkmaya karar verdik.{/i}"
 
 # game/code/e17/e17s01.rpy:73
 translate turkish e17s01_73261d57:
@@ -682,7 +682,7 @@ translate turkish e17s01_hotel_bedroom_6451e86a:
 translate turkish e17s01_hotel_bedroom_b252c13e:
 
     # dw "I'm American. We have a rule - always tip 20%%."
-    dw "Ben Amerikalıyım. Bir kuralımız var - her zaman %20 bahşiş."
+    dw "Ben Amerikalıyım. Bir kuralımız var - her zaman %%20 bahşiş."
 
 # game/code/e17/e17s01.rpy:438
 translate turkish e17s01_hotel_bedroom_fd670c12:
@@ -700,19 +700,19 @@ translate turkish e17s01_hotel_bedroom_08a954ad:
 translate turkish e17s01_hotel_bedroom_7f3e5540:
 
     # rs "I have to win to keep the 20%%?"
-    rs "%20'yi korumak için kazanmak zorundayım?"
+    rs "%%20'yi korumak için kazanmak zorundayım?"
 
 # game/code/e17/e17s01.rpy:447
 translate turkish e17s01_hotel_bedroom_2d07d280:
 
     # dw "No. The 20%% is what you get if you lose. I'll add a zero to that if you win."
-    dw "Hayır. %20 kaybedersen alacağın. Kazanırsan buna bir sıfır ekleyeceğim."
+    dw "Hayır. %%20 kaybedersen alacağın. Kazanırsan buna bir sıfır ekleyeceğim."
 
 # game/code/e17/e17s01.rpy:450
 translate turkish e17s01_hotel_bedroom_feffe374:
 
     # rs "200%% tip?!"
-    rs "%200 bahşiş?!"
+    rs "%%200 bahşiş?!"
 
 # game/code/e17/e17s01.rpy:453
 translate turkish e17s01_hotel_bedroom_c945c9ec:
@@ -820,13 +820,13 @@ translate turkish e17s01_hotel_bedroom_c2d07d36:
 translate turkish e17s01_hotel_bedroom_423c3dcb:
 
     # rs "I have over an hour to make him cum? In exchange for a 200%% tip on this order?"
-    rs "Onu boşaltmak için bir saatten fazla zamanım var? Bu siparişte %200 bahşiş karşılığında?"
+    rs "Onu boşaltmak için bir saatten fazla zamanım var? Bu siparişte %%200 bahşiş karşılığında?"
 
 # game/code/e17/e17s01.rpy:507
 translate turkish e17s01_hotel_bedroom_3029d6d3:
 
     # dw "Is it not enough? Shall I make it a 250%% tip?"
-    dw "Yeterli değil mi? %250 bahşiş vereyim mi?"
+    dw "Yeterli değil mi? %%250 bahşiş vereyim mi?"
 
 # game/code/e17/e17s01.rpy:510
 translate turkish e17s01_hotel_bedroom_7654a783:
@@ -856,7 +856,7 @@ translate turkish e17s01_hotel_bedroom_479f11e2:
 translate turkish e17s01_hotel_bedroom_a5e72c74:
 
     # rs "And if I lose, I still get a 20%% tip."
-    rs "Ve eğer kaybedersem, yine de %20 bahşiş alırım."
+    rs "Ve eğer kaybedersem, yine de %%20 bahşiş alırım."
 
 # game/code/e17/e17s01.rpy:525
 translate turkish e17s01_hotel_bedroom_2ba6b15c:
@@ -1114,13 +1114,13 @@ translate turkish e17s01_sex_ec4d8ca8:
 translate turkish e17s01_sex_4cce5c46:
 
     # dw "As for you, what did we agree on? 500%% tip?"
-    dw "Sana gelince, ne konuda anlaşmıştık? %500 bahşiş mi?"
+    dw "Sana gelince, ne konuda anlaşmıştık? %%500 bahşiş mi?"
 
 # game/code/e17/e17s01.rpy:690
 translate turkish e17s01_sex_17c060e9:
 
     # rs "I believe it was 200%%, Miss."
-    rs "%200 olduğuna inanıyorum, Bayan."
+    rs "%%200 olduğuna inanıyorum, Bayan."
 
 # game/code/e17/e17s01.rpy:693
 translate turkish e17s01_sex_55a24b5f:
