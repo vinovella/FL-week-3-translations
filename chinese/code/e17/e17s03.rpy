@@ -4,367 +4,367 @@
 translate chinese e17s03_49cb4f05:
 
     # dw "{i}We went to the Devet Ocasu to meet with the Domina. I...{/i}"
-    dw "{i}We went to the Devet Ocasu to meet with the Domina. I...{/i}"
+    dw "{i}我们去了Devet Ocasu，见了主母。我...{/i}"
 
 # game/code/e17/e17s03.rpy:129
 translate chinese e17s03_e94cbf9f:
 
     # dw "{i}It was a mistake for us to go. I should have... I wasn't ready."
-    dw "{i}It was a mistake for us to go. I should have... I wasn't ready."
+    dw "{i}我们不该去的。我应该...我还没准备好。"
 
 # game/code/e17/e17s03.rpy:130
 translate chinese e17s03_83f31a45:
 
     # dw "{i}You know what they say. 'Never meet your heroes'...{/i}"
-    dw "{i}You know what they say. 'Never meet your heroes'...{/i}"
+    dw "{i}你知道人们常说：'永远不要遇见你的英雄'...{/i}"
 
 # game/code/e17/e17s03.rpy:141
 translate chinese replay_e17s03_9f3d11b8:
 
     # dw "Pet, it's time to go for our walk."
-    dw "Pet, it's time to go for our walk."
+    dw "小宠物，我们该去散步了。"
 
 # game/code/e17/e17s03.rpy:143
 translate chinese replay_e17s03_3dfd0cf0:
 
     # mc "...Yes, Mistress."
-    mc "...Yes, Mistress."
+    mc "...好的，主人。"
 
 # game/code/e17/e17s03.rpy:146
 translate chinese replay_e17s03_04a3d2ec:
 
     # dw "Ahem. Are you forgetting something?"
-    dw "Ahem. Are you forgetting something?"
+    dw "嗯哼。你忘了什么吗？"
 
 # game/code/e17/e17s03.rpy:148
 translate chinese replay_e17s03_27ab0da2:
 
     # mc "......No, Mistress."
-    mc "......No, Mistress."
+    mc "......没有，女主人。"
 
 # game/code/e17/e17s03.rpy:153
 translate chinese replay_e17s03_c3461d24:
 
     # dw "Good boy!"
-    dw "Good boy!"
+    dw "好孩子！"
 
 # game/code/e17/e17s03.rpy:154
 translate chinese replay_e17s03_98808359:
 
     # dw "Let's go. And remember, your {i}best{/i} behavior for Domina Gizela."
-    dw "Let's go. And remember, your {i}best{/i} behavior for Domina Gizela."
+    dw "我们走吧。记住，在主母吉泽拉面前要表现得{i}最好{/i}。"
 
 # game/code/e17/e17s03.rpy:159
 translate chinese replay_e17s03_f3fc3237:
 
     # dw "Good afternoon, Domina Gizela."
-    dw "Good afternoon, Domina Gizela."
+    dw "下午好，主母吉泽拉。"
 
 # game/code/e17/e17s03.rpy:165
 translate chinese replay_e17s03_78f1e993:
 
     # dw "Be a good doggy and give her a kiss."
-    dw "Be a good doggy and give her a kiss."
+    dw "乖狗狗，亲她一下。"
 
 # game/code/e17/e17s03.rpy:167
 translate chinese replay_e17s03_4cd8cf2c:
 
     # mc "Yes, Madam."
-    mc "Yes, Madam."
+    mc "好的，夫人。"
 
 # game/code/e17/e17s03.rpy:173
 translate chinese replay_e17s03_a92011cd:
 
     # gb "It is good to see you."
-    gb "It is good to see you."
+    gb "很高兴见到你。"
 
 # game/code/e17/e17s03.rpy:175
 translate chinese replay_e17s03_63020396:
 
     # dw "Thank you, Domina. We're excited to be here!"
-    dw "Thank you, Domina. We're excited to be here!"
+    dw "谢谢您，主母。我们很高兴来到这里！"
 
 # game/code/e17/e17s03.rpy:181
 translate chinese replay_e17s03_c56ee679:
 
     # gb "Good. I have something {i}zábava{/i} for us today."
-    gb "Good. I have something {i}zábava{/i} for us today."
+    gb "很好。今天我为你们准备了{i}好玩的{/i}。"
 
 # game/code/e17/e17s03.rpy:190
 translate chinese replay_e17s03_04f053ab:
 
     # gb "You have indulged in impact play before, ano?"
-    gb "You have indulged in impact play before, ano?"
+    gb "你们以前玩过撞击游戏吗？"
 
 # game/code/e17/e17s03.rpy:192
 translate chinese replay_e17s03_a45cd7b6:
 
     # dw "Yes, Domina."
-    dw "Yes, Domina."
+    dw "玩过，主母。"
 
 # game/code/e17/e17s03.rpy:197
 translate chinese replay_e17s03_5ebaebd5:
 
     # dw "My little doggy loves getting his spankings. Especially when he's been {i}naughty{/i}."
-    dw "My little doggy loves getting his spankings. Especially when he's been {i}naughty{/i}."
+    dw "我的小狗喜欢被打屁股。特别是当他{i}淘气{/i}的时候。"
 
 # game/code/e17/e17s03.rpy:199
 translate chinese replay_e17s03_41f24d5b:
 
     # gb "Very good. Would you like to do the honors?"
-    gb "Very good. Would you like to do the honors?"
+    gb "很好。你愿意赏光加入吗？"
 
 # game/code/e17/e17s03.rpy:202
 translate chinese replay_e17s03_48b3b0f3:
 
     # dw "Come on boy, up on the table."
-    dw "Come on boy, up on the table."
+    dw "来吧，孩子，趴在桌子上。"
 
 # game/code/e17/e17s03.rpy:204
 translate chinese replay_e17s03_4cd8cf2c_1:
 
     # mc "Yes, Madam."
-    mc "Yes, Madam."
+    mc "好的，夫人。"
 
 # game/code/e17/e17s03.rpy:207
 translate chinese replay_e17s03_1b6ff68e:
 
     # dw "Everything off first."
-    dw "Everything off first."
+    dw "先把衣服脱掉。"
 
 # game/code/e17/e17s03.rpy:209
 translate chinese replay_e17s03_4cd8cf2c_2:
 
     # mc "Yes, Madam."
-    mc "Yes, Madam."
+    mc "好的，夫人。"
 
 # game/code/e17/e17s03.rpy:217
 translate chinese replay_e17s03_b4f2610a:
 
     # dw "And remember, no cumming."
-    dw "And remember, no cumming."
+    dw "还有，要记住，不准射精。"
 
 # game/code/e17/e17s03.rpy:219
 translate chinese replay_e17s03_7fd3a623:
 
     # mc "Yes, Mistress."
-    mc "Yes, Mistress."
+    mc "是，夫人。"
 
 # game/code/e17/e17s03.rpy:225
 translate chinese replay_e17s03_10a47cc5:
 
     # gb "Let us start small. I want to see how your aim is."
-    gb "Let us start small. I want to see how your aim is."
+    gb "让我们先玩点小的。我想看看你瞄准得怎么样。"
 
 # game/code/e17/e17s03.rpy:227
 translate chinese replay_e17s03_37ab3076:
 
     # dw "Of course, Domina."
-    dw "Of course, Domina."
+    dw "当然，主人。"
 
 # game/code/e17/e17s03.rpy:238
 translate chinese replay_e17s03_e4d05e9f:
 
     # mc "Mmmph!"
-    mc "Mmmph!"
+    mc "唔唔唔！"
 
 # game/code/e17/e17s03.rpy:241
 translate chinese replay_e17s03_eec156e6:
 
     # dw "Did I just hear something, [mcname]?"
-    dw "Did I just hear something, [mcname]?"
+    dw "我刚才听到什么了吗，[mcname]？"
 
 # game/code/e17/e17s03.rpy:243
 translate chinese replay_e17s03_171a1a5b:
 
     # mc "Yes, Mistress. I'm sorry, Mistress."
-    mc "Yes, Mistress. I'm sorry, Mistress."
+    mc "是的，女主人。对不起。"
 
 # game/code/e17/e17s03.rpy:247
 translate chinese replay_e17s03_d1589e3a:
 
     # dw "You know what happens when you speak without permission."
-    dw "You know what happens when you speak without permission."
+    dw "你知道未经允许就擅自说话的后果。"
 
 # game/code/e17/e17s03.rpy:249
 translate chinese replay_e17s03_882637fb:
 
     # mc "Yes, Mistress. I am ready for my punishment, Mistress."
-    mc "Yes, Mistress. I am ready for my punishment, Mistress."
+    mc "知道，女主人。我准备好接受惩罚了，女主人。"
 
 # game/code/e17/e17s03.rpy:255
 translate chinese replay_e17s03_31a73f5f:
 
     # dw "Good boy."
-    dw "Good boy."
+    dw "好孩子。"
 
 # game/code/e17/e17s03.rpy:272
 translate chinese replay_e17s03_77dc4fc1:
 
     # gb "Mmm, he is doing very well, Mistress Dahlia."
-    gb "Mmm, he is doing very well, Mistress Dahlia."
+    gb "嗯，他做得很好，女主人黛丽娅。"
 
 # game/code/e17/e17s03.rpy:274
 translate chinese replay_e17s03_968683b2:
 
     # dw "Thank you, Domina. It has taken a lot of work to get him here."
-    dw "Thank you, Domina. It has taken a lot of work to get him here."
+    dw "谢谢您，主母。我花了很多功夫才把他教到这种程度。"
 
 # game/code/e17/e17s03.rpy:275
 translate chinese replay_e17s03_d0e6501f:
 
     # dw "He was a {i}very naughty boy{/i} for a very. Long. Time."
-    dw "He was a {i}very naughty boy{/i} for a very. Long. Time."
+    dw "他是个{i}非常淘气的男孩{/i}，很，长，一段时间，都是如此。"
 
 # game/code/e17/e17s03.rpy:285
 translate chinese replay_e17s03_e897acc8:
 
     # gb "Your aim, exquisite. Let's see how you do with your platnost, yes?"
-    gb "Your aim, exquisite. Let's see how you do with your platnost, yes?"
+    gb "你的瞄准，很到位。让我们看看你们的主菜玩的如何，好吗？"
 
 # game/code/e17/e17s03.rpy:291
 translate chinese replay_e17s03_a45cd7b6_1:
 
     # dw "Yes, Domina."
-    dw "Yes, Domina."
+    dw "好的，主母。"
 
 # game/code/e17/e17s03.rpy:298
 translate chinese replay_e17s03_6a4ba67d:
 
     # gb "With the paddle, it is easy to hit what you do not want to hit."
-    gb "With the paddle, it is easy to hit what you do not want to hit."
+    gb "若用拍板，很容易打到你不想打的东西。"
 
 # game/code/e17/e17s03.rpy:300
 translate chinese replay_e17s03_07003741:
 
     # gb "And it is easy to go too hard with the paddle. I am looking to be impressed with how you handle this."
-    gb "And it is easy to go too hard with the paddle. I am looking to be impressed with how you handle this."
+    gb "而且用桨也容易用力过猛。我希望你的表现能给我留下深刻印象。"
 
 # game/code/e17/e17s03.rpy:302
 translate chinese replay_e17s03_3a47ac26:
 
     # dw "Yes, Domina. I think you will be happy with it."
-    dw "Yes, Domina. I think you will be happy with it."
+    dw "好的，主母。我想您会满意的。"
 
 # game/code/e17/e17s03.rpy:318
 translate chinese replay_e17s03_8255b279:
 
     # gb "Hmm, why the wait?"
-    gb "Hmm, why the wait?"
+    gb "嗯，还等什么呢？"
 
 # game/code/e17/e17s03.rpy:320
 translate chinese replay_e17s03_2073ed4b:
 
     # dw "I know my little subby. I saw that he braced himself for the impact."
-    dw "I know my little subby. I saw that he braced himself for the impact."
+    dw "我了解我的小家伙。我看到他做好了迎接冲击的准备。"
 
 # game/code/e17/e17s03.rpy:321
 translate chinese replay_e17s03_eef92c01:
 
     # gb "Ahhh, chápu. Very good."
-    gb "Ahhh, chápu. Very good."
+    gb "啊，我懂了。很好。"
 
 # game/code/e17/e17s03.rpy:341
 translate chinese replay_e17s03_7bfc374f:
 
     # gb "It seems that this excites him."
-    gb "It seems that this excites him."
+    gb "看来这让他很兴奋。"
 
 # game/code/e17/e17s03.rpy:343
 translate chinese replay_e17s03_740f1af9:
 
     # dw "Oh it does. Would you please tell the Pani Sefova how this makes you feel, naughty boy?"
-    dw "Oh it does. Would you please tell the Pani Sefova how this makes you feel, naughty boy?"
+    dw "哦，确实是这样。你能告诉尊贵的主人这让你感觉如何吗，淘气鬼？"
 
 # game/code/e17/e17s03.rpy:345
 translate chinese replay_e17s03_68b8ff34:
 
     # mc "Yes, Mistress. It excites me. I like being punished by my powerful Mistress."
-    mc "Yes, Mistress. It excites me. I like being punished by my powerful Mistress."
+    mc "好的，女主人。我感觉很兴奋。我喜欢被我强大的女主人惩罚。"
 
 # game/code/e17/e17s03.rpy:352
 translate chinese replay_e17s03_8e3350d3:
 
     # dw "So excited that it made your tiny little dick hard?"
-    dw "So excited that it made your tiny little dick hard?"
+    dw "兴奋到让你的小鸡鸡硬起来？"
 
 # game/code/e17/e17s03.rpy:354
 translate chinese replay_e17s03_7fd3a623_1:
 
     # mc "Yes, Mistress."
-    mc "Yes, Mistress."
+    mc "是的，女主人。"
 
 # game/code/e17/e17s03.rpy:357
 translate chinese replay_e17s03_7f4dd84e:
 
     # dw "Do you like having your useless dick, dangling between your legs, on display to disappoint me and the Domina?"
-    dw "Do you like having your useless dick, dangling between your legs, on display to disappoint me and the Domina?"
+    dw "你喜欢让你那没用的鸡巴在你两腿之间晃来晃去，让我和主母失望吗？"
 
 # game/code/e17/e17s03.rpy:359
 translate chinese replay_e17s03_9c1f085e:
 
     # mc "Yes, Mistress, it makes me very excited."
-    mc "Yes, Mistress, it makes me very excited."
+    mc "是的，女主人，这让我很兴奋。"
 
 # game/code/e17/e17s03.rpy:369
 translate chinese replay_e17s03_728243cf:
 
     # gb "A little hard, ano?"
-    gb "A little hard, ano?"
+    gb "有点硬了，是吗？"
 
 # game/code/e17/e17s03.rpy:372
 translate chinese replay_e17s03_072f265f:
 
     # gb "You must be sour {i}and{/i} sweet with your playthings."
-    gb "You must be sour {i}and{/i} sweet with your playthings."
+    gb "你的玩物一定{i}酸酸甜甜{/i}的。"
 
 # game/code/e17/e17s03.rpy:375
 translate chinese replay_e17s03_5d3fa50e:
 
     # dw "I think I've got the perfect toy to use next."
-    dw "I think I've got the perfect toy to use next."
+    dw "我想我找到了下一个完美的玩具。"
 
 # game/code/e17/e17s03.rpy:384
 translate chinese replay_e17s03_8b0dbc6f:
 
     # gb "Are you sure, Mistress Dahlia? It is easy for things to go wrong with the {i}devet ocasu{/i}."
-    gb "Are you sure, Mistress Dahlia? It is easy for things to go wrong with the {i}devet ocasu{/i}."
+    gb "你确定吗，女主人黛丽娅？用{i}devet ocasu{/i}很容易出错。"
 
 # game/code/e17/e17s03.rpy:386
 translate chinese replay_e17s03_717af2fc:
 
     # dw "Yes, I'm sure. This isn't our first time using this, {i}Domina{/i}."
-    dw "Yes, I'm sure. This isn't our first time using this, {i}Domina{/i}."
+    dw "是的，我确定。这不是我们第一次使用它了，{i}主母{/i}。"
 
 # game/code/e17/e17s03.rpy:389
 translate chinese replay_e17s03_569a056a:
 
     # gb "If you must, I shall only stop you if I think it is too dangerous."
-    gb "If you must, I shall only stop you if I think it is too dangerous."
+    gb "如果你一定要这么做，我只会在我认为太危险时才会阻止你。"
 
 # game/code/e17/e17s03.rpy:391
 translate chinese replay_e17s03_9297dffa:
 
     # dw "Then you have nothing to worry about, isn't that right, Worm!?"
-    dw "Then you have nothing to worry about, isn't that right, Worm!?"
+    dw "那您就不用担心了，我说的对吗，虫虫!?"
 
 # game/code/e17/e17s03.rpy:398
 translate chinese replay_e17s03_8d346262:
 
     # mc "Mmm- Yes, Mistress!"
-    mc "Mmm- Yes, Mistress!"
+    mc "嗯嗯嗯--是的，女主人！"
 
 # game/code/e17/e17s03.rpy:402
 translate chinese replay_e17s03_d5f1c2bb:
 
     # dw "Who do you belong to, Worm!"
-    dw "Who do you belong to, Worm!"
+    dw "你属于谁，虫虫！"
 
 # game/code/e17/e17s03.rpy:405
 translate chinese replay_e17s03_60a1b4c4:
 
     # mc "O-only you, Mistress!"
-    mc "O-only you, Mistress!"
+    mc "只--只属于您一个人，女主人！"
 
 # game/code/e17/e17s03.rpy:408
 translate chinese replay_e17s03_c7eb2a6f:
