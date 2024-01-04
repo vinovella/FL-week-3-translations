@@ -562,7 +562,7 @@ translate malay e02s02_31e6d6b0:
 translate malay e02s02_4eb99c59:
 
     # mct "This is a nightmare, I'll need inertial dampeners at this rate."
-    mct "Ini adalah mimpi ngeri, au perlukan pelembap inersia pada kadar ini."
+    mct "Ini adalah mimpi ngeri, aku perlukan pelembap inersia pada kadar ini."
 
 # game/code/e02/e02s02.rpy:343
 translate malay e02s02_e94ef34d:
