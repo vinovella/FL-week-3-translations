@@ -460,7 +460,7 @@ translate turkish e14s05_35e20e21:
 translate turkish e14s05_a1cb700d:
 
     # nk "It's our way of trying to - Wait. You think it's cool?"
-    nk "It's our way of trying to - Wait. You think it's cool?"
+    nk "Bu bizim çabalama şeklimiz - Bekle. Harika olduğunu mu düşünüyorsun?"
 
 # game/code/e14/e14s05.rpy:300
 translate turkish e14s05_65acb745:
