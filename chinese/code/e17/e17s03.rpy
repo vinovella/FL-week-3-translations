@@ -370,191 +370,191 @@ translate chinese replay_e17s03_60a1b4c4:
 translate chinese replay_e17s03_c7eb2a6f:
 
     # dw "And what can I do with my playthings!?"
-    dw "And what can I do with my playthings!?"
+    dw "那我的小虫虫能做什么呢!?"
 
 # game/code/e17/e17s03.rpy:412
 translate chinese replay_e17s03_73d17950:
 
     # mc "A-a-anything you want, Mistress."
-    mc "A-a-anything you want, Mistress."
+    mc "您--您想要怎样都行，女主人。"
 
 # game/code/e17/e17s03.rpy:415
 translate chinese replay_e17s03_fb937c58:
 
     # dw "Oh, it looks like my little pet is getting aroused from this!"
-    dw "Oh, it looks like my little pet is getting aroused from this!"
+    dw "哦，看来我的小宠物已经开始兴奋了！"
 
 # game/code/e17/e17s03.rpy:419
 translate chinese replay_e17s03_ad0bc70c:
 
     # dw "Don't you forget that you're not supposed to cum!"
-    dw "Don't you forget that you're not supposed to cum!"
+    dw "可别忘了，你不应该射精！"
 
 # game/code/e17/e17s03.rpy:421
 translate chinese replay_e17s03_bf42eb55:
 
     # mc "Y-yes, Mistress."
-    mc "Y-yes, Mistress."
+    mc "好--好的，女主人。"
 
 # game/code/e17/e17s03.rpy:454
 translate chinese replay_e17s03_d0b1cc38:
 
     # dw "Did you DISOBEY YOUR MISTRESS!?"
-    dw "Did you DISOBEY YOUR MISTRESS!?"
+    dw "你竟敢不服从你的女主人!?"
 
 # game/code/e17/e17s03.rpy:456
 translate chinese replay_e17s03_bc79a053:
 
     # mc "Y-y-yes, Mistress. I-I'm sorry..."
-    mc "Y-y-yes, Mistress. I-I'm sorry..."
+    mc "呃--是--是的，女主人。对--对不起..."
 
 # game/code/e17/e17s03.rpy:460
 translate chinese replay_e17s03_deb082ae:
 
     # dw "How {i}DARE YOU!{/i}"
-    dw "How {i}DARE YOU!{/i}"
+    dw "你{i}怎么敢！{/i}"
 
 # game/code/e17/e17s03.rpy:464
 translate chinese replay_e17s03_07e979bf:
 
     # dw "HOW. DARE. YOU. DISOBEY. ME!"
-    dw "HOW. DARE. YOU. DISOBEY. ME!"
+    dw "你。竟然。敢。违抗。我！"
 
 # game/code/e17/e17s03.rpy:467
 translate chinese replay_e17s03_01e935b8:
 
     # mc "Mistress, it's-it's too much!"
-    mc "Mistress, it's-it's too much!"
+    mc "女主人，我--我受不住了！"
 
 # game/code/e17/e17s03.rpy:469
 translate chinese replay_e17s03_f943268b:
 
     # dw "I DON'T CARE!"
-    dw "I DON'T CARE!"
+    dw "我不在乎！"
 
 # game/code/e17/e17s03.rpy:473
 translate chinese replay_e17s03_90c0aad6:
 
     # mc "Ouch! Fucking hell!"
-    mc "Ouch! Fucking hell!"
+    mc "哎哟！要死了！"
 
 # game/code/e17/e17s03.rpy:475
 translate chinese replay_e17s03_e5e5dd65:
 
     # dw "WHAT WAS THAT, WORM!?"
-    dw "WHAT WAS THAT, WORM!?"
+    dw "这就不行了，死虫子!?"
 
 # game/code/e17/e17s03.rpy:478
 translate chinese replay_e17s03_3a019e08:
 
     # gb "Enough!"
-    gb "Enough!"
+    gb "够了！"
 
 # game/code/e17/e17s03.rpy:484
 translate chinese replay_e17s03_8c31888e:
 
     # dw "WHO are YOU TO SAY that's enough!?"
-    dw "WHO are YOU TO SAY that's enough!?"
+    dw "你算什么，凭什么说够了!?"
 
 # game/code/e17/e17s03.rpy:486
 translate chinese replay_e17s03_6481b147:
 
     # gb "Too much. You are done."
-    gb "Too much. You are done."
+    gb "过分了。你够了。"
 
 # game/code/e17/e17s03.rpy:489
 translate chinese replay_e17s03_c915fee9:
 
     # dw "It's fine. We do this all the time."
-    dw "It's fine. We do this all the time."
+    dw "没事。我们经常这样做。"
 
 # game/code/e17/e17s03.rpy:491
 translate chinese replay_e17s03_db8919f1:
 
     # gb "No. It is not fine."
-    gb "No. It is not fine."
+    gb "不，这样不行。"
 
 # game/code/e17/e17s03.rpy:492
 translate chinese replay_e17s03_6852f6fe:
 
     # gb "You do not think of your submissive at all. You think only of yourself."
-    gb "You do not think of your submissive at all. You think only of yourself."
+    gb "你根本不为你的臣服者着想。你只想着你自己。"
 
 # game/code/e17/e17s03.rpy:495
 translate chinese replay_e17s03_b810aaec:
 
     # gb "There is no communication. There is no real trust."
-    gb "There is no communication. There is no real trust."
+    gb "你们之间没有交流。没有真正的信任。"
 
 # game/code/e17/e17s03.rpy:496
 translate chinese replay_e17s03_87ff0d22:
 
     # gb "There is just fear and pain."
-    gb "There is just fear and pain."
+    gb "只有恐惧和痛苦。"
 
 # game/code/e17/e17s03.rpy:497
 translate chinese replay_e17s03_ec3bd47f:
 
     # gb "I do not see a Mistress here. I see a small woman who likes to hurt others for her pleasure, that is all."
-    gb "I do not see a Mistress here. I see a small woman who likes to hurt others for her pleasure, that is all."
+    gb "我在这里看不到女主人。我看到的是一个喜欢伤害他人取乐的小女人，仅此而已。"
 
 # game/code/e17/e17s03.rpy:500
 translate chinese replay_e17s03_748a17f5:
 
     # dw "You don't know me! You don't know what I- we, what have we have- we have-"
-    dw "You don't know me! You don't know what I- we, what have we have- we have-"
+    dw "你不了解我！你不知道我--我们--我们俩--我们有--"
 
 # game/code/e17/e17s03.rpy:504
 translate chinese replay_e17s03_ba07f164:
 
     # gb "You have nothing except your own insecurities and inability to control yourself."
-    gb "You have nothing except your own insecurities and inability to control yourself."
+    gb "你什么都没有，除了你自己的不安全感和无法控制自己的失控感。"
 
 # game/code/e17/e17s03.rpy:505
 translate chinese replay_e17s03_074c7c6e:
 
     # gb "If I was you, I would leave and not look back. If you stay with Dahlia, it will only end in pain and misery-"
-    gb "If I was you, I would leave and not look back. If you stay with Dahlia, it will only end in pain and misery-"
+    gb "如果我是你，我会离开，并且不再回头。如果你继续和达丽亚在一起，结局只会是痛苦和不幸--"
 
 # game/code/e17/e17s03.rpy:508
 translate chinese replay_e17s03_9ab1b25b:
 
     # gb "-or worse."
-    gb "-or worse."
+    gb "--甚至更糟。"
 
 # game/code/e17/e17s03.rpy:511
 translate chinese replay_e17s03_68c5e4bf:
 
     # dw "I've heard enough of this. We're leaving."
-    dw "I've heard enough of this. We're leaving."
+    dw "我听够了。我们要走了。"
 
 # game/code/e17/e17s03.rpy:514
 translate chinese replay_e17s03_805b067b:
 
     # dw "Pet, come!"
-    dw "Pet, come!"
+    dw "乖宠，过来！"
 
 # game/code/e17/e17s03.rpy:518
 translate chinese replay_e17s03_34074dee:
 
     # gb "You have a great talent. I implore you, leave her."
-    gb "You have a great talent. I implore you, leave her."
+    gb "你很有天赋。我诚挚的恳求你，离开她吧。"
 
 # game/code/e17/e17s03.rpy:521
 translate chinese replay_e17s03_42953ca1:
 
     # gb "Stay with me. I can show you a good life how this relationship {i}should be{/i}."
-    gb "Stay with me. I can show you a good life how this relationship {i}should be{/i}."
+    gb "留在我身边。我可以向你展示一段健康愉悦的关系{i}应该是怎样的{i}."
 
 # game/code/e17/e17s03.rpy:524
 translate chinese replay_e17s03_1280885b:
 
     # dw "PET! COME!"
-    dw "PET! COME!"
+    dw "乖宠！过来！"
 
 # game/code/e17/e17s03.rpy:527
 translate chinese replay_e17s03_a823a6e3:
 
     # mc "I must go. My Mistress is summoning me."
-    mc "I must go. My Mistress is summoning me."
+    mc "我得走了。我的女主人在召唤我。"
 
