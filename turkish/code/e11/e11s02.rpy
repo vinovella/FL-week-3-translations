@@ -238,7 +238,7 @@ translate turkish e11s02_later_0511c15c:
 translate turkish e11s02_later_308a0c48:
 
     # mc "*whispers* I fucking love you."
-     mc "*whispers* I fucking love you."
+     mc "*fısıldar* Seni çok seviyorum."
 
 # game/code/e11/e11s02.rpy:192
 translate turkish e11s02_later_31656d82:
