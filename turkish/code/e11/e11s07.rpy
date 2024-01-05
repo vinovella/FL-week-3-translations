@@ -724,19 +724,19 @@ translate turkish replay_e11s07_f296e294:
 translate turkish replay_e11s07_89256c39:
 
     # "Waiter" "Excuse me sir."
-    "Waiter" "Excuse me sir."
+    "Garson" "Affedersiniz efendim."
 
 # game/code/e11/e11s07.rpy:433
 translate turkish replay_e11s07_81b35c9e:
 
     # "Waiter" "Didn't a woman just join you?"
-    "Waiter" "Didn't a woman just join you?"
+    "Garson" "Az önce aranıza bir kadın katılmadı mı?"
 
 # game/code/e11/e11s07.rpy:436
 translate turkish replay_e11s07_07180d75:
 
     # mc "Uhm, mmm, uh, yeah!"
-    mc "Uhm, mmm, uh, yeah!"
+    mc "Uhm, mmm, uh, evet!"
 
 # game/code/e11/e11s07.rpy:439
 translate turkish replay_e11s07_2624f341:
@@ -754,13 +754,13 @@ translate turkish replay_e11s07_1c8ebe5c:
 translate turkish replay_e11s07_98e6e954:
 
     # "Waiter" "Ohhhkay. Well, I'll just bring the check then."
-    "Waiter" "Ohhhhhkay. Hesabı getireyim o zaman."
+    "Garson" "Ohhhhhkay. Hesabı getireyim o zaman."
 
 # game/code/e11/e11s07.rpy:448
 translate turkish replay_e11s07_99587966:
 
     # mc "Thankssss!"
-    mc "Thankssss!"
+    mc "Teşekürrrlerrrr!"
 
 # game/code/e11/e11s07.rpy:452
 translate turkish replay_e11s07_75cd2b1f:
@@ -802,7 +802,7 @@ translate turkish replay_e11s07_c29f9bd4:
 translate turkish replay_e11s07_a50106de:
 
     # mc "Fuuuck, Daisy I'm just about to-"
-    mc "Fuuuck, Daisy ben de tam-"
+    mc "Sikkktirrr, Daisy ben de tam-"
 
 # game/code/e11/e11s07.rpy:483
 translate turkish replay_e11s07_3c3c5cdb:
@@ -874,7 +874,7 @@ translate turkish replay_e11s07_d248393f:
 translate turkish replay_e11s07_f2031748:
 
     # mc "Yeah sweetie, I'm... Totally fine."
-    mc "Yeah sweetie, I'm.. Tamamen iyiyim."
+    mc "Evet tatlım, Ben.. Tamamen iyiyim."
 
 # game/code/e11/e11s07.rpy:523
 translate turkish replay_e11s07_f3c4fd47:
