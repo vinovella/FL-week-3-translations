@@ -124,7 +124,7 @@ translate turkish e14s02_6cb2f2b1:
 translate turkish e14s02_6aeb66b6:
 
     # "Customer" "Fine, what about a latte?"
-    "Customer" "Fine, what about a latte?"
+    "Müşteri" "Peki, latteye ne dersin?"
 
 # game/code/e14/e14s02.rpy:74
 translate turkish e14s02_2eee63e5:
@@ -166,7 +166,7 @@ translate turkish e14s02_fde7203d:
 translate turkish e14s02_0e711c24:
 
     # "Customer" "Hot damn!"
-    "Customer" "Hot damn!"
+    "Müşteri" "Lanet olsun!"
 
 # game/code/e14/e14s02.rpy:97
 translate turkish e14s02_dae81f8e:
