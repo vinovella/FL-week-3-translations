@@ -886,7 +886,7 @@ translate turkish e14s07_sex_7b6e7a72:
 translate turkish e14s07_sex_5e08d360:
 
     # nk "Watching it so- mmmm- fucking hot too!"
-    nk "Watching it so- mmmm- fucking hot too!"
+    nk "Onu izliyorum o kadar... mmmm- çok ateşli!"
 
 # game/code/e14/e14s07.rpy:559
 translate turkish e14s07_sex_6bb86764:
@@ -1006,4 +1006,4 @@ translate turkish strings:
 
     # game/code/e14/e14s07.rpy:630
     old "You have finished playing ending number 14!"
-    new "You have finished playing ending number 14!"
+    new "14 numaralı oyunun sonunu oynamayı bitirdiniz!"
