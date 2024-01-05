@@ -630,64 +630,64 @@ translate turkish after_credits_b06da193:
 translate turkish after_credits_dcd001ba:
 
     # sy "It is so sad! I thought you died."
-    sy "It is so sad! I thought you died."
+    sy "Çok üzücü! Öldüğünü sanıyordum."
 
 # game/code/labels.rpy:173
 translate turkish after_credits_5a67dd3f:
 
     # sy "*sniffs*"
-    sy "*sniffs*"
+    sy "*koklar**"
 
 # game/code/labels.rpy:179
 translate turkish after_credits_3b9a74dd:
 
     # dd "Hey, it's okay. I'm healthy as a clam now."
-    dd "Hey, it's okay. I'm healthy as a clam now."
+    dd "Hey, sorun değil. Artık deniz tarağı kadar sağlıklıyım."
 
 # game/code/labels.rpy:182
 translate turkish after_credits_62dbb988:
 
     # sy "*Sniffling* I know. *sniff* I'm glad you're okay."
-    sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+    sy "*burnunu çekiyor* biliyorum. *burnunu çekiyor* iyi olduğuna sevindim."
 
 # game/code/labels.rpy:185
 translate turkish after_credits_de67d958:
 
     # dd "Mmmhmm. Me too, Stacy."
-    dd "Mmmhmm. Me too, Stacy."
+    dd "Mmmhmm. Ben de Stacy."
 
 # game/code/labels.rpy:189
 translate turkish after_credits_697eed2b:
 
     # dd "And don't forget. There's is another ending with me!"
-    dd "And don't forget. There's is another ending with me!"
+    dd "Ve unutma. Benim için başka bir son daha var!"
 
 # game/code/labels.rpy:192
 translate turkish after_credits_26d7f508:
 
     # sy "Oh...right."
-    sy "Oh...right."
+    sy "Ah...doğru."
 
 # game/code/labels.rpy:196
 translate turkish after_credits_ae828622:
 
     # sy "I almost forgot about the Sex Dungeon ending!"
-    sy "I almost forgot about the Sex Dungeon ending!"
+    sy "Sex Dungeon'ın sonunu neredeyse unutuyordum!"
 
 # game/code/labels.rpy:199
 translate turkish after_credits_a73caa2e:
 
     # dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
-    dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+    dd "Diğer sonumuzu unutma Stacy. Kendi Seks Zindanımızda ateşli, lateks bir seks bebeği olacağım!"
 
 # game/code/labels.rpy:202
 translate turkish after_credits_83a2ed10:
 
     # sy "Yeah... That ending sounds like fun."
-    sy "Yeah... That ending sounds like fun."
+    sy "Evet... Bu son eğlenceliye benziyor."
 
 # game/code/labels.rpy:206
 translate turkish after_credits_f4cf666b:
 
     # sy "I can't wait to enjoy it with you."
-    sy "I can't wait to enjoy it with you."
+    sy "Seninle eğlenmek için sabırsızlanıyorum."
