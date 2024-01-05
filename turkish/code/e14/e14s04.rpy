@@ -862,13 +862,13 @@ translate turkish replay_e14s04_5b49f7bd:
 translate turkish replay_e14s04_9604794e:
 
     # "Customer" "I hear you make a mean Mai Tai."
-    "Customer" "I hear you make a mean Mai Tai."
+    "Müşteri" "Mai Tai'nin çok kötü davrandığını duydum."
 
 # game/code/e14/e14s04.rpy:524
 translate turkish replay_e14s04_7ac5bdcf:
 
     # nk "*moans* Oooh. Only the best."
-    nk "*moans* Oooh. Sadece en iyisi."
+    nk "*inliyor* Oooh. Sadece en iyisi."
 
 # game/code/e14/e14s04.rpy:527
 translate turkish replay_e14s04_b04aaa65:
@@ -928,7 +928,7 @@ translate turkish replay_e14s04_e59a9a37:
 translate turkish replay_e14s04_118f36ca:
 
     # pw "*whispers* Such a deliciously naughty girl."
-    pw "*whispers* Such a deliciously naughty girl."
+    pw "*fısıldıyor* Çok tatlı, yaramaz bir kız."
 
 # game/code/e14/e14s04.rpy:579
 translate turkish replay_e14s04_690d418d:
@@ -964,7 +964,7 @@ translate turkish replay_e14s04_0b0b8adb:
 translate turkish replay_e14s04_9ba27bea:
 
     # pw "*squeaks* Sweet jeebus!"
-    pw "*squeaks* Sweet jeebus!"
+    pw "*ciyaklıyor* Tatlı tanrım!"
 
 # game/code/e14/e14s04.rpy:601
 translate turkish replay_e14s04_8b8da8a0:
@@ -994,7 +994,7 @@ translate turkish replay_e14s04_72b2f6f9:
 translate turkish replay_e14s04_d97f8108:
 
     # mc "*whispers* Too hot for you to handle?"
-    mc "*whispers* Too hot for you to handle?"
+    mc "*fısıldar* Başa çıkamayacağın kadar mı sıcak?"
 
 # game/code/e14/e14s04.rpy:623
 translate turkish replay_e14s04_b79a5e88:
@@ -1006,7 +1006,7 @@ translate turkish replay_e14s04_b79a5e88:
 translate turkish replay_e14s04_04d72038:
 
     # mc "*whispers* So why are you moaning so much?"
-    mc "*whispers* So why are you moaning so much?"
+    mc "*fısıldıyor* Peki neden bu kadar inliyorsun?"
 
 # game/code/e14/e14s04.rpy:626
 translate turkish replay_e14s04_2cb2905f:
@@ -1042,7 +1042,7 @@ translate turkish replay_e14s04_008fcee5:
 translate turkish replay_e14s04_284e1201:
 
     # pw "*panting* Two daiquiris and a shot of tequila."
-    pw "*panting* Two daiquiris and a shot of tequila."
+    pw "*nefes nefese* İki daiquiris ve bir shot tekila."
 
 # game/code/e14/e14s04.rpy:653
 translate turkish replay_e14s04_1fc57b2a:
@@ -1054,7 +1054,7 @@ translate turkish replay_e14s04_1fc57b2a:
 translate turkish replay_e14s04_5683aef0:
 
     # pw "*panting*Such a fucking wildman, pounding my ass in front of those two."
-    pw "*panting*Such a fucking wildman, pounding my ass in front of those two."
+    pw "*nefes nefese* Ne vahşi bir adam bu ikisinin önünde kıçıma vuruyor."
 
 # game/code/e14/e14s04.rpy:666
 translate turkish replay_e14s04_1a231bb0:
@@ -1138,7 +1138,7 @@ translate turkish replay_e14s04_76e6544e:
 translate turkish replay_e14s04_ab3aab0b:
 
     # mct "Oh boy. Shit just got real."
-    mct "Oh boy. Shit just got real."
+    mct "Ah oğlum. Lanet gerçek oldu."
 
 # game/code/e14/e14s04.rpy:722
 translate turkish replay_e14s04_4fc9a41e:
@@ -1324,7 +1324,7 @@ translate turkish replay_e14s04_b74ff922:
 translate turkish replay_e14s04_255f6cf8:
 
     # pw "*panting* Her fucking amazing tongue."
-    pw "*panting* Her fucking amazing tongue."
+    pw "*nefes nefese* Lanet harika dili."
 
 # game/code/e14/e14s04.rpy:820
 translate turkish replay_e14s04_cb0321c4:
@@ -1336,7 +1336,7 @@ translate turkish replay_e14s04_cb0321c4:
 translate turkish replay_e14s04_bcf8e521:
 
     # nk "*delirious moans*"
-    nk "*delirious moans*"
+    nk "*çılgın inlemeler*"
 
 # game/code/e14/e14s04.rpy:827
 translate turkish replay_e14s04_e4f573ae:
