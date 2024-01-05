@@ -676,7 +676,7 @@ translate turkish e11s03_sex_8d08bf05:
 translate turkish e11s03_sex_1f2249f7:
 
     # mc "Do what you gotta do, doc."
-     mc "Do what you gotta do, doc."
+     mc "Yapman gerekeni yap doktor."
 
 # game/code/e11/e11s03.rpy:463
 translate turkish e11s03_sex_da91f269:
