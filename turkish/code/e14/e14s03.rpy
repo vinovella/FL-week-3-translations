@@ -346,7 +346,7 @@ translate turkish e14s03_next_morning_74ed2c43:
 translate turkish e14s03_next_morning_92005728:
 
     # pw "Yeah a smoke break with two smoking hotties."
-    pw "Yeah a smoke break with two smoking hotties."
+    pw "Evet, sigara içen iki fıstıkla sigara molası."
 
 # game/code/e14/e14s03.rpy:267
 translate turkish e14s03_next_morning_7135ef2e:
@@ -370,7 +370,7 @@ translate turkish e14s03_next_morning_4e2b2bed:
 translate turkish e14s03_next_morning_52116d33:
 
     # pw "I love it when you're a ball-buster."
-    pw "I love it when you're a ball-buster."
+    pw "Top avcısı olmanı seviyorum."
 
 # game/code/e14/e14s03.rpy:278
 translate turkish e14s03_next_morning_5932fddb:
@@ -934,7 +934,7 @@ translate turkish e14s03_stay_in_command_44ccd235:
 translate turkish e14s03_stay_in_command_46c88d8f:
 
     # pw "Gah! I'm still with it."
-    pw "Gah! I'm still with it."
+    pw "Ah! Hala onunlayım."
 
 # game/code/e14/e14s03.rpy:595
 translate turkish e14s03_stay_in_command_f764e80f:
@@ -1138,13 +1138,13 @@ translate turkish e14s03_continue_d2736ca6:
 translate turkish e14s03_continue_3b6c34e8:
 
     # pw "But I fucking love it!"
-    pw "But I fucking love it!"
+    pw "Ama buna bayıldım!"
 
 # game/code/e14/e14s03.rpy:735
 translate turkish e14s03_continue_dbadb8b0:
 
     # mc "Oh fuck!"
-    mc "Oh fuck!"
+    mc "Oh siktir!"
 
 # game/code/e14/e14s03.rpy:742
 translate turkish e14s03_round_two_229fb40d:
@@ -1210,7 +1210,7 @@ translate turkish e14s03_round_two_7ceec4a6:
 translate turkish e14s03_round_two_817098b4:
 
     # pw "*soft panting* I'm going to move now."
-    pw "*soft panting* I'm going to move now."
+    pw "*hafif nefes nefese* Şimdi hareket edeceğim."
 
 # game/code/e14/e14s03.rpy:793
 translate turkish e14s03_round_two_97bd9894:
