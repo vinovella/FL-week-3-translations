@@ -958,7 +958,7 @@ translate turkish e12s01_sex_b1efcaec:
 translate turkish e12s01_sex_0f49c0c4:
 
     # vw "You... I..."
-    vw "Sen... I..."
+    vw "Sen... Ben..."
 
 # game/code/e12/e12s01.rpy:715
 translate turkish e12s01_sex_f3b7be7d:
@@ -994,7 +994,7 @@ translate turkish e12s01_sex_31374175:
 translate turkish e12s01_sex_051abf22:
 
     # aw "Oh fuck that's so hot!"
-    aw "Oh fuck that's so hot!"
+    aw "Ah kahretsin, bu çok ateşli!"
 
 # game/code/e12/e12s01.rpy:741
 translate turkish e12s01_sex_6b285331:
