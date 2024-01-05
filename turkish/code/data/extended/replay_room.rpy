@@ -216,7 +216,7 @@ translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Day 21: Fivesome"
-    new "Day 21: Fivesome"
+    new "21. Gün: Fivesome"
 
     # game/code/data/extended/replay_room.rpy:15
     old "Don't leave Maria"
@@ -278,10 +278,6 @@ translate turkish strings:
     old "Ending 10: Min & Nari"
     new "Bitiş 10: Min & Nari"
 
-# TODO: Translation updated at 2023-09-28 22:56
-
-translate turkish strings:
-
     # game/code/data/extended/replay_room.rpy:123
     old "Ending 12: Allison"
     new "12. Son: Allison"
@@ -293,10 +289,6 @@ translate turkish strings:
     # game/code/data/extended/replay_room.rpy:138
     old "Ending 14: Polly, Nora & Debbie"
     new "14.Son: Polly, Nora & Debbie"
-
-# TODO: Translation updated at 2023-12-07 21:21
-
-translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:120
     old "Ending 11: Daisy & Janet"
@@ -312,5 +304,4 @@ translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Pregnant Dahlia"
-    new "Ending 17: Pregnant Dahlia"
-
+    new "17. Son: Pregnant Dahlia"

@@ -198,21 +198,13 @@ translate turkish strings:
     old "Ending 13: Pregnant Nora"
     new "Bitiş 13: Hamile Nora"
 
-# TODO: Translation updated at 2023-09-28 22:56
-
-translate turkish strings:
-
     # game/code/data/extended/cg_gallery.rpy:94
-    old "12. Bitiş: Vanessa & Allison"
-    new "Ending 12: Vanessa & Allison"
+    old "Ending 12: Vanessa & Allison"
+    new "12. Bitiş: Vanessa & Allison"
 
     # game/code/data/extended/cg_gallery.rpy:103
     old "Ending 14: Polly & Nora"
     new "14. Son: Polly & Nora"
-
-# TODO: Translation updated at 2023-12-07 21:21
-
-translate turkish strings:
 
     # game/code/data/extended/cg_gallery.rpy:91
     old "Ending 11: Daisy"
@@ -221,12 +213,3 @@ translate turkish strings:
     # game/code/data/extended/cg_gallery.rpy:108
     old "Ending 17: Dahlia"
     new "17. Son: Dahlia"
-
-# TODO: Translation updated at 2024-01-05 20:53
-
-translate turkish strings:
-
-    # game/code/data/extended/cg_gallery.rpy:101
-    old "Ending 12: Vanessa & Allison"
-    new "Ending 12: Vanessa & Allison"
-
