@@ -736,7 +736,7 @@ translate turkish e17s05_sex_2ca21280:
 translate turkish e17s05_sex_cac60d64:
 
     # dw "Don't you dare cum before I do!"
-    dw "Don't you dare cum before I do!"
+    dw "Benden önce boşalmaya cesaret etme!"
 
 # game/code/e17/e17s05.rpy:392
 translate turkish e17s05_sex_b82b8d78:
