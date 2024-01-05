@@ -222,3 +222,11 @@ translate turkish strings:
     old "Ending 17: Dahlia"
     new "17. Son: Dahlia"
 
+# TODO: Translation updated at 2024-01-05 20:53
+
+translate turkish strings:
+
+    # game/code/data/extended/cg_gallery.rpy:101
+    old "Ending 12: Vanessa & Allison"
+    new "Ending 12: Vanessa & Allison"
+
