@@ -79,13 +79,13 @@ translate turkish strings:
 
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
-    new "Get a Lovense toy"
+    new "Aşk oyuncağı al"
 
     # game/code/screens/extended/screens.rpy:230
     old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
+    new "İstek Listesi Steam'de Tabu Üniversitesi"
 
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
+    new "Yeni oyunumuz Tabu Üniversitesi'ni deneyin"
 
