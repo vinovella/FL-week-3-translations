@@ -214,7 +214,7 @@ translate turkish e12s06_2361913e:
 translate turkish e12s06_c96ddd8a:
 
     # vw "Go baby go!"
-    vw "Go baby go!"
+    vw "Hadi bebeğim hadi!"
 
 # game/code/e12/e12s06.rpy:161
 translate turkish e12s06_9b148469:
