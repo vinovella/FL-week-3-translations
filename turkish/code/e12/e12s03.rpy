@@ -910,7 +910,7 @@ translate turkish e12s03_sex_10ff4545:
 translate turkish e12s03_sex_7d8cdddd:
 
     # vw "*Moans* I can feel you so deep inside me."
-    vw "*Moans* I can feel you so deep inside me."
+    vw "*İnliyor* Seni o kadar derinlerimde hissedebiliyorum ki."
 
 # game/code/e12/e12s03.rpy:551
 translate turkish e12s03_sex_dceccdde:
@@ -958,7 +958,7 @@ translate turkish e12s03_sex_e899e03e:
 translate turkish e12s03_sex_adc5a686:
 
     # vw "Oh fuck [mcname], that's so hot."
-    vw "Oh fuck [mcname], that's so hot."
+    vw "Ah kahretsin [mcname], bu çok ateşli."
 
 # game/code/e12/e12s03.rpy:583
 translate turkish e12s03_sex_f3bd2c72:
@@ -1132,7 +1132,7 @@ translate turkish e12s03_sex_4172edf2:
 translate turkish e12s03_sex_da578ebb:
 
     # mc "Oh fuck I'm cumming!"
-    mc "Oh fuck I'm cumming!"
+    mc "Ah kahretsin, boşalıyorum!"
 
 # game/code/e12/e12s03.rpy:667
 translate turkish e12s03_sex_4e010527:
@@ -1144,7 +1144,7 @@ translate turkish e12s03_sex_4e010527:
 translate turkish e12s03_sex_9fbfe51f:
 
     # vw "Oh fuuuuuuuuck!"
-    vw "Oh fuuuuuuuuck!"
+    vw "Ah Sikkkktirrrrrr!"
 
 # game/code/e12/e12s03.rpy:676
 translate turkish e12s03_sex_166624d9:
