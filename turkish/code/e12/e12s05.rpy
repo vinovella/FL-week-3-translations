@@ -316,7 +316,7 @@ translate turkish e12s05_878c448f:
 translate turkish e12s05_08bbce8c:
 
     # aw "It's killing me."
-    aw "It's killing me."
+    aw "Bu beni öldürüyor."
 
 # game/code/e12/e12s05.rpy:247
 translate turkish e12s05_1dfd08ef:
@@ -466,7 +466,7 @@ translate turkish e12s05_sex_8e7059e5:
 translate turkish e12s05_sex_fe29064d:
 
     # aw "I'm - Jesus - I'm already cumming!"
-    aw "I'm - Jesus - I'm already cumming!"
+    aw "Ben - Tanrım - zaten boşalıyorum!"
 
 # game/code/e12/e12s05.rpy:341
 translate turkish e12s05_sex_07c576f0:
@@ -1096,7 +1096,7 @@ translate turkish e12s05_sex_again_62ceeafc:
 translate turkish e12s05_sex_again_96685b91:
 
     # mc "Can't let the superstar get too far out of practice."
-    mc "Can't let the superstar get too far out of practice."
+    mc "Süperstarın antrenmandan çok uzaklaşmasına izin veremeyiz."
 
 # game/code/e12/e12s05.rpy:643
 translate turkish e12s05_sex_again_6e8bc655:
@@ -1354,7 +1354,7 @@ translate turkish e12s05_sex_again_f1598de2:
 translate turkish e12s05_sex_again_71be2a35:
 
     # aw "Fuck, just like that. Fuuuuuuck!"
-    aw "Fuck, just like that. Fuuuuuuck!"
+    aw "Lanet olsun, aynen böyle.Lanet olsun, aynen böyle. Siktirrrrrr!"
 
 # game/code/e12/e12s05.rpy:840
 translate turkish e12s05_sex_again_c3912e21:
@@ -1432,7 +1432,7 @@ translate turkish e12s05_sex_again_3795675a:
 translate turkish e12s05_sex_again_0186ca38:
 
     # aw "Yes you may."
-    aw "Yes you may."
+    aw "Evet yapabilirsin."
 
 # game/code/e12/e12s05.rpy:875
 translate turkish e12s05_sex_again_efe13c85:
@@ -1450,7 +1450,7 @@ translate turkish e12s05_sex_again_1052f652:
 translate turkish e12s05_sex_again_09a7e51d:
 
     # aw "Fuck that's hot."
-    aw "Fuck that's hot."
+    aw "Kahretsin, bu çok ateşli.Kahretsin, bu çok ateşli."
 
 # game/code/e12/e12s05.rpy:898
 translate turkish e12s05_sex_again_0fb03a2b:
@@ -1462,7 +1462,7 @@ translate turkish e12s05_sex_again_0fb03a2b:
 translate turkish e12s05_sex_again_43b06e9d:
 
     # vw "Soo goooood."
-    vw "Soo goooooood."
+    vw "çokkk güzelllll"
 
 # game/code/e12/e12s05.rpy:901
 translate turkish e12s05_sex_again_e50d1df5:
@@ -1474,7 +1474,7 @@ translate turkish e12s05_sex_again_e50d1df5:
 translate turkish e12s05_sex_again_4f609d9e:
 
     # vw "Yesssss!"
-    vw "Yesssss!"
+    vw "Evettttt!"
 
 # game/code/e12/e12s05.rpy:903
 translate turkish e12s05_sex_again_62b6faa0:
@@ -1492,7 +1492,7 @@ translate turkish e12s05_sex_again_5fef44f2:
 translate turkish e12s05_sex_again_0a78894b:
 
     # aw "Cum all over his toes."
-    aw "Cum all over his toes."
+    aw "Ayak parmaklarının her yerine boşal."
 
 # game/code/e12/e12s05.rpy:909
 translate turkish e12s05_sex_again_93081063:
@@ -1510,7 +1510,7 @@ translate turkish e12s05_sex_again_40d1ffe5:
 translate turkish e12s05_sex_again_13d0d53b:
 
     # vw "Fuuuuck, I'm cumming!"
-    vw "Fuuuuck, I'm cumming!"
+    vw "Siktirrrrr, Boşalıyorumm!"
 
 # game/code/e12/e12s05.rpy:919
 translate turkish e12s05_sex_again_2c5405ed:
@@ -1708,13 +1708,13 @@ translate turkish e12s05_sex_again_24cc69bc_1:
 translate turkish e12s05_sex_again_29787e39:
 
     # vw "Fuuuuuuuuuuck!"
-    vw "Fuuuuuuuuuuck!"
+    vw "Siktirrrrrr!"
 
 # game/code/e12/e12s05.rpy:997
 translate turkish e12s05_sex_again_ee7a1cc4:
 
     # aw "Mmmm fuck this is hot."
-    aw "Mmmm fuck this is hot."
+    aw "Mmmm siktir bu çok ateşli."
 
 # game/code/e12/e12s05.rpy:1002
 translate turkish e12s05_sex_again_b656176b:
@@ -1924,7 +1924,7 @@ translate turkish e12s05_sex_again_de79a4dc:
 translate turkish e12s05_sex_again_dfdda9d0:
 
     # vw "Mmmmph, oh yeah."
-    vw "Mmmmph, oh yeah."
+    vw "Mmmmph, oh evet."
 
 # game/code/e12/e12s05.rpy:1123
 translate turkish e12s05_sex_again_6a048ab3:
@@ -1942,13 +1942,13 @@ translate turkish e12s05_sex_again_e45ad256:
 translate turkish e12s05_sex_again_b5e118d2:
 
     # aw "Agghhhhhhh! Fuuuuck me!"
-    aw "Agghhhhhhh! Fuuuuck me!"
+    aw "Agghhhhhhh! Sikkkkkk beni!"
 
 # game/code/e12/e12s05.rpy:1131
 translate turkish e12s05_sex_again_e4509a4f:
 
     # vw "[mcname], I want to eat your ass."
-    vw "[mcname], I want to eat your ass."
+    vw "[mcname], kıçını yemek istiyorum."
 
 # game/code/e12/e12s05.rpy:1140
 translate turkish e12s05_sex_again_82f1487f:
