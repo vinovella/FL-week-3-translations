@@ -284,15 +284,15 @@ translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:123
     old "Ending 12: Allison"
-    new "Ending 12: Allison"
+    new "12. Son: Allison"
 
     # game/code/data/extended/replay_room.rpy:123
     old "Ending 12: Vanessa"
-    new "Ending 12: Vanessa"
+    new "12. Son: Vanessa"
 
     # game/code/data/extended/replay_room.rpy:138
     old "Ending 14: Polly, Nora & Debbie"
-    new "Ending 14: Polly, Nora & Debbie"
+    new "14.Son: Polly, Nora & Debbie"
 
 # TODO: Translation updated at 2023-12-07 21:21
 
@@ -300,15 +300,15 @@ translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:120
     old "Ending 11: Daisy & Janet"
-    new "Ending 11: Daisy & Janet"
+    new "11.Son: Daisy & Janet"
 
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Dahlia & Room Service"
-    new "Ending 17: Dahlia & Room Service"
+    new "17. Son: Dahlia & Room Service"
 
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Dahlia & Domina"
-    new "Ending 17: Dahlia & Domina"
+    new "17. Son: Dahlia & Domina"
 
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Pregnant Dahlia"
