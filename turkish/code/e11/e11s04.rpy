@@ -1102,7 +1102,7 @@ translate turkish e11s04_back_f2df7c90:
 translate turkish e11s04_back_c614e97b:
 
     # dd "Anything for you [temp_mcname]."
-     dd "Anything for you [temp_mcname]."
+     dd "Sizin için her şey [temp_mcname]."
 
 # game/code/e11/e11s04.rpy:684
 translate turkish e11s04_back_bb9b9ed2:
@@ -1132,7 +1132,7 @@ translate turkish e11s04_back_ccb76817:
 translate turkish e11s04_back_4f5d7638:
 
     # dd "Your dick is peeeeerfect!"
-     dd "Your dick is peeeeerfect!"
+     dd "Sikin mükemmellllllll!"
 
 # game/code/e11/e11s04.rpy:698
 translate turkish e11s04_back_9368b6c6:
