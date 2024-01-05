@@ -203,12 +203,12 @@ translate turkish strings:
 translate turkish strings:
 
     # game/code/data/extended/cg_gallery.rpy:94
-    old "Ending 12: Vanessa & Allison"
+    old "12. Bitiş: Vanessa & Allison"
     new "Ending 12: Vanessa & Allison"
 
     # game/code/data/extended/cg_gallery.rpy:103
     old "Ending 14: Polly & Nora"
-    new "Ending 14: Polly & Nora"
+    new "14. Son: Polly & Nora"
 
 # TODO: Translation updated at 2023-12-07 21:21
 
@@ -216,9 +216,9 @@ translate turkish strings:
 
     # game/code/data/extended/cg_gallery.rpy:91
     old "Ending 11: Daisy"
-    new "Ending 11: Daisy"
+    new "11. Son: Daisy"
 
     # game/code/data/extended/cg_gallery.rpy:108
     old "Ending 17: Dahlia"
-    new "Ending 17: Dahlia"
+    new "17. Son: Dahlia"
 
