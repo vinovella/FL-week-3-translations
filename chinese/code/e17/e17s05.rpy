@@ -514,725 +514,725 @@ translate chinese e17s05_sex_ad84e020:
 translate chinese e17s05_sex_a4224b78:
 
     # mc "Christ! It's like your pussy is sucking me in!!!"
-    mc "Christ! It's like your pussy is sucking me in!!!"
+    mc "我滴个去！你的小穴好像要把我吸进去一样!!!"
 
 # game/code/e17/e17s05.rpy:277
 translate chinese e17s05_sex_5f68e223:
 
     # dw "*breathless* [mcname]. Oh... Slave! STOP!"
-    dw "*breathless* [mcname]. Oh... Slave! STOP!"
+    dw "*喘不过气来* [mcname]。哦...奴隶！快停下！"
 
 # game/code/e17/e17s05.rpy:279
 translate chinese e17s05_sex_62b6af8f:
 
     # dw "Remove that pitiful cock from my pussy right now!"
-    dw "Remove that pitiful cock from my pussy right now!"
+    dw "马上把你可怜的鸡巴从我的小穴里拿出来！"
 
 # game/code/e17/e17s05.rpy:284
 translate chinese e17s05_sex_a3b3c69e:
 
     # mc "What? Why?"
-    mc "What? Why?"
+    mc "什么？为什么？"
 
 # game/code/e17/e17s05.rpy:286
 translate chinese e17s05_sex_095a3e84:
 
     # dw "Do you forget yourself?!"
-    dw "Do you forget yourself?!"
+    dw "你忘了自己是什么东西吗?!"
 
 # game/code/e17/e17s05.rpy:288
 translate chinese e17s05_sex_d6cffff1:
 
     # mc "What? No, I mean...{w} Why, Mistress?"
-    mc "What? No, I mean...{w} Why, Mistress?"
+    mc "什么？不，我是说...{w}您不是也想体验快感吗，女主人？"
 
 # game/code/e17/e17s05.rpy:291
 translate chinese e17s05_sex_37df5a3e:
 
     # dw "Because...{w} My ass needs your cock's attention!"
-    dw "Because...{w} My ass needs your cock's attention!"
+    dw "因为...{w}我的屁股需要你的关注！"
 
 # game/code/e17/e17s05.rpy:294
 translate chinese e17s05_sex_1c70ff8b:
 
     # mc "GLADLY, MISTRESS!!!"
-    mc "GLADLY, MISTRESS!!!"
+    mc "乐意之至，女主人!!!"
 
 # game/code/e17/e17s05.rpy:297
 translate chinese e17s05_sex_5de846d7:
 
     # dw "I told you to call me Dahlia."
-    dw "I told you to call me Dahlia."
+    dw "我告诉过你，要叫我黛丽娅。"
 
 # game/code/e17/e17s05.rpy:299
 translate chinese e17s05_sex_bf931c4d:
 
     # mc "Of course, but-"
-    mc "Of course, but-"
+    mc "当然，但是--"
 
 # game/code/e17/e17s05.rpy:302
 translate chinese e17s05_sex_313be600:
 
     # dw "I know. Dahlia when... when it's quiet. *moans* Mistress during sex."
-    dw "I know. Dahlia when... when it's quiet. *moans* Mistress during sex."
+    dw "我知道。当...当正常的时候叫黛丽娅。*呻吟*。做爱时就叫女主人。"
 
 # game/code/e17/e17s05.rpy:304
 translate chinese e17s05_sex_f192b2ee:
 
     # mc "Of course, Mistress!"
-    mc "Of course, Mistress!"
+    mc "好嘞，女主人！"
 
 # game/code/e17/e17s05.rpy:313
 translate chinese e17s05_sex_f3907cce:
 
     # dw "Do you like my tight ass wrapped around your pathetic cock, my sweet?"
-    dw "Do you like my tight ass wrapped around your pathetic cock, my sweet?"
+    dw "你喜欢我紧致的屁股包裹着你可怜的鸡巴吗，我的宝贝？"
 
 # game/code/e17/e17s05.rpy:316
 translate chinese e17s05_sex_3b9f79b4:
 
     # mc "I love it-"
-    mc "I love it-"
+    mc "喜欢--"
 
 # game/code/e17/e17s05.rpy:332
 translate chinese e17s05_sex_056758fe:
 
     # dw "Do you know what I want to do with you right now?"
-    dw "Do you know what I want to do with you right now?"
+    dw "你知道我现在想对你做什么吗？"
 
 # game/code/e17/e17s05.rpy:334
 translate chinese e17s05_sex_defb3fc9:
 
     # mc "Do you want to choke me, Mistress?"
-    mc "Do you want to choke me, Mistress?"
+    mc "您想让我窒息而死吗，女主人？"
 
 # game/code/e17/e17s05.rpy:337
 translate chinese e17s05_sex_78f70b57:
 
     # dw "No."
-    dw "No."
+    dw "不。"
 
 # game/code/e17/e17s05.rpy:338
 translate chinese e17s05_sex_76cf6e9c:
 
     # dw "No, [mcname]. I'm afraid I would lose control again."
-    dw "No, [mcname]. I'm afraid I would lose control again."
+    dw "不，[mcname]。我怕我会再次失控。"
 
 # game/code/e17/e17s05.rpy:341
 translate chinese e17s05_sex_062d2acd:
 
     # mc "I have complete faith in you."
-    mc "I have complete faith in you."
+    mc "我完全相信你。"
 
 # game/code/e17/e17s05.rpy:343
 translate chinese e17s05_sex_936e9f32:
 
     # dw "I know you do. I don't."
-    dw "I know you do. I don't."
+    dw "我知道你相信我。但我不相信自己。"
 
 # game/code/e17/e17s05.rpy:344
 translate chinese e17s05_sex_95b5e8e5:
 
     # dw "But I've realized something. I should trust you more."
-    dw "But I've realized something. I should trust you more."
+    dw "不过我意识到一件事。我应该更信任你的。"
 
 # game/code/e17/e17s05.rpy:347
 translate chinese e17s05_sex_d17587d3:
 
     # dw "You have the self control that I lack. I could learn a lot from you about that."
-    dw "You have the self control that I lack. I could learn a lot from you about that."
+    dw "你有我缺乏的自制力。我可以从你身上学到很多东西。"
 
 # game/code/e17/e17s05.rpy:349
 translate chinese e17s05_sex_5a57b902:
 
     # mc "Oh, well. I guess that's true."
-    mc "Oh, well. I guess that's true."
+    mc "哦，好吧。我想这说的没错。"
 
 # game/code/e17/e17s05.rpy:352
 translate chinese e17s05_sex_9fa217c8:
 
     # dw "So, I want you to do something for me."
-    dw "So, I want you to do something for me."
+    dw "所以，我想让你为我做件事。"
 
 # game/code/e17/e17s05.rpy:354
 translate chinese e17s05_sex_e59abd2a_1:
 
     # mc "Anything."
-    mc "Anything."
+    mc "什么都行。"
 
 # game/code/e17/e17s05.rpy:357
 translate chinese e17s05_sex_dbc1d40d:
 
     # dw "I want you to choke me."
-    dw "I want you to choke me."
+    dw "我要你掐住我的脖子。"
 
 # game/code/e17/e17s05.rpy:359
 translate chinese e17s05_sex_7f6bfff6:
 
     # mc "Mistress?"
-    mc "Mistress?"
+    mc "女主人？"
 
 # game/code/e17/e17s05.rpy:362
 translate chinese e17s05_sex_364e7bce:
 
     # dw "Choke me, [mcname]. I want to feel what you feel."
-    dw "Choke me, [mcname]. I want to feel what you feel."
+    dw "让我窒息，[mcname]。我想感受你的感觉。"
 
 # game/code/e17/e17s05.rpy:363
 translate chinese e17s05_sex_81b7d24c:
 
     # dw "I want to experience that ecstasy and little death that you find so pleasurable."
-    dw "I want to experience that ecstasy and little death that you find so pleasurable."
+    dw "我想体验你所感受到的那种狂喜和濒临死亡的感觉。"
 
 # game/code/e17/e17s05.rpy:365
 translate chinese e17s05_sex_b935b06d:
 
     # mct "She is so desperate for redemption. It's strange."
-    mct "She is so desperate for redemption. It's strange."
+    mct "看来她真的很渴望救赎。真奇怪。"
 
 # game/code/e17/e17s05.rpy:367
 translate chinese e17s05_sex_6ca00e5b:
 
     # mc "Of course I will do what you ask."
-    mc "Of course I will do what you ask."
+    mc "我当然会按您说的做。"
 
 # game/code/e17/e17s05.rpy:369
 translate chinese e17s05_sex_1bcf3a22:
 
     # dw "Yes. Just like that."
-    dw "Yes. Just like that."
+    dw "好，就这么做。"
 
 # game/code/e17/e17s05.rpy:371
 translate chinese e17s05_sex_189a3786:
 
     # mct "I can do this. I'll hold her neck, but no squeezing."
-    mct "I can do this. I'll hold her neck, but no squeezing."
+    mct "我能做到。我会抱住她的脖子，但不能用力挤它。"
 
 # game/code/e17/e17s05.rpy:373
 translate chinese e17s05_sex_c9779c7f:
 
     # mc "Okay, Dahlia.{w} I mean, \"Yes, Mistress\"."
-    mc "Okay, Dahlia.{w} I mean, \"Yes, Mistress\"."
+    mc "好的，黛丽娅。{w}呃，我是说，\"好的，女主人\"。"
 
 # game/code/e17/e17s05.rpy:383
 translate chinese e17s05_sex_abb540c3:
 
     # dw "Mrraah... Yes... I can feel it..."
-    dw "Mrraah... Yes... I can feel it..."
+    dw "呃呃啊...没错...我能感觉到..."
 
 # game/code/e17/e17s05.rpy:386
 translate chinese e17s05_sex_7fd3a623:
 
     # mc "Yes, Mistress."
-    mc "Yes, Mistress."
+    mc "是的，女主人。"
 
 # game/code/e17/e17s05.rpy:387
 translate chinese e17s05_sex_2ca21280:
 
     # mct "Mistress, I've missed you fucking me."
-    mct "Mistress, I've missed you fucking me."
+    mct "女主人，我很想念您操我的感觉。"
 
 # game/code/e17/e17s05.rpy:391
 translate chinese e17s05_sex_cac60d64:
 
     # dw "Don't you dare cum before I do!"
-    dw "Don't you dare cum before I do!"
+    dw "我看你敢在我高潮之前先射！"
 
 # game/code/e17/e17s05.rpy:392
 translate chinese e17s05_sex_b82b8d78:
 
     # mc "I wouldn't dream of it."
-    mc "I wouldn't dream of it."
+    mc "我做梦都不敢。"
 
 # game/code/e17/e17s05.rpy:396
 translate chinese e17s05_sex_42f8b1d1:
 
     # dw "ALMOST-"
-    dw "ALMOST-"
+    dw "差点--"
 
 # game/code/e17/e17s05.rpy:397
 translate chinese e17s05_sex_2e35771a:
 
     # mct "Just a little pressure for her orgasm..."
-    mct "Just a little pressure for her orgasm..."
+    mct "只要稍稍用力，她就会达到高潮..."
 
 # game/code/e17/e17s05.rpy:400
 translate chinese e17s05_sex_054a9551:
 
     # dw "GWAK!!!"
-    dw "GWAK!!!"
+    dw "噶啊啊!!!"
 
 # game/code/e17/e17s05.rpy:401
 translate chinese e17s05_sex_e8b496bd:
 
     # mct "And let go for the climax"
-    mct "And let go for the climax"
+    mct "接下来，让她抵达云端"
 
 # game/code/e17/e17s05.rpy:407
 translate chinese e17s05_sex_09bcaffa:
 
     # dw "GAAAHHAHAHHHHHAAAHH YESSSSS!!"
-    dw "GAAAHHAHAHHHHHAAAHH YESSSSS!!"
+    dw "噶啊啊，啊啊啊，爽的我要死啦!!"
 
 # game/code/e17/e17s05.rpy:409
 translate chinese e17s05_sex_6861cfc6:
 
     # dw "*breathless*Fucking. Amazing."
-    dw "*breathless*Fucking. Amazing."
+    dw "*喘不过气* 操。真没想到。"
 
 # game/code/e17/e17s05.rpy:410
 translate chinese e17s05_sex_3b2dcbe6:
 
     # dw "It seems... a coma hasn't completely robbed your usefulness."
-    dw "It seems... a coma hasn't completely robbed your usefulness."
+    dw "看来...昏迷一场并没有完全让你失去用处。"
 
 # game/code/e17/e17s05.rpy:413
 translate chinese e17s05_sex_9b1291ed:
 
     # mc "I'm glad you're satisfied, Mistress."
-    mc "I'm glad you're satisfied, Mistress."
+    mc "我很高兴您能满意，女主人。"
 
 # game/code/e17/e17s05.rpy:415
 translate chinese e17s05_sex_b5161fc0:
 
     # dw "Very. You deserve something special."
-    dw "Very. You deserve something special."
+    dw "非常满意。你应该得到一些特别奖励。"
 
 # game/code/e17/e17s05.rpy:418
 translate chinese e17s05_sex_cf920f36:
 
     # mc "I do?"
-    mc "I do?"
+    mc "我可以吗？"
 
 # game/code/e17/e17s05.rpy:420
 translate chinese e17s05_sex_5d59ff06:
 
     # dw "You may cum on my tits."
-    dw "You may cum on my tits."
+    dw "你可以射在我奶头上。"
 
 # game/code/e17/e17s05.rpy:425
 translate chinese e17s05_sex_6014a0b2:
 
     # dw "Just be sure to aim well, Worm, or I'll break your balls."
-    dw "Just be sure to aim well, Worm, or I'll break your balls."
+    dw "一定要瞄准，虫子。否则我会打碎你的蛋蛋。"
 
 # game/code/e17/e17s05.rpy:426
 translate chinese e17s05_sex_7fd3a623_1:
 
     # mc "Yes, Mistress."
-    mc "Yes, Mistress."
+    mc "遵命，女主人。"
 
 # game/code/e17/e17s05.rpy:428
 translate chinese e17s05_sex_b19925ad:
 
     # dw "If you get so much as a drop-"
-    dw "If you get so much as a drop-"
+    dw "如果你只射了一滴--"
 
 # game/code/e17/e17s05.rpy:436
 translate chinese e17s05_sex_31a73f5f:
 
     # dw "Good boy."
-    dw "Good boy."
+    dw "好孩子。"
 
 # game/code/e17/e17s05.rpy:437
 translate chinese e17s05_sex_4a0a0da0:
 
     # dw "Now clean me up."
-    dw "Now clean me up."
+    dw "现在帮我清理干净。"
 
 # game/code/e17/e17s05.rpy:446
 translate chinese e17s05_end_43988d89:
 
     # dw "Those first few days, I just sat there. I couldn't move. All I could think of was you and what I did to you."
-    dw "Those first few days, I just sat there. I couldn't move. All I could think of was you and what I did to you."
+    dw "最初几天，我只是坐在那里。一动也不能动。我满脑子都是你和我对你做的事。"
 
 # game/code/e17/e17s05.rpy:447
 translate chinese e17s05_end_3678795c:
 
     # dw "Then came the trial. I wasn't ready to face anyone, but had to tell the judge what happened."
-    dw "Then came the trial. I wasn't ready to face anyone, but had to tell the judge what happened."
+    dw "然后审判就来了。我还没准备好面对任何人，但我必须告诉法官发生了什么。"
 
 # game/code/e17/e17s05.rpy:450
 translate chinese e17s05_end_62c14b46:
 
     # dw "I don't even remember what I said."
-    dw "I don't even remember what I said."
+    dw "我甚至不记得我说了什么。"
 
 # game/code/e17/e17s05.rpy:451
 translate chinese e17s05_end_ca6413b2:
 
     # dw "I guess it was enough to put me here."
-    dw "I guess it was enough to put me here."
+    dw "我想所有发生的事足以把我送来这里。"
 
 # game/code/e17/e17s05.rpy:454
 translate chinese e17s05_end_065b78a0:
 
     # dw "Then here... well..."
-    dw "Then here... well..."
+    dw "然后这里...嗯..."
 
 # game/code/e17/e17s05.rpy:456
 translate chinese e17s05_end_def0ad19:
 
     # mc "What is it?"
-    mc "What is it?"
+    mc "怎么了？"
 
 # game/code/e17/e17s05.rpy:459
 translate chinese e17s05_end_26acb398:
 
     # dw "I don't know how to tell you this."
-    dw "I don't know how to tell you this."
+    dw "我不知道该怎么跟你说。"
 
 # game/code/e17/e17s05.rpy:460
 translate chinese e17s05_end_3ecb8123:
 
     # dw "They do random drug tests and last month..."
-    dw "They do random drug tests and last month..."
+    dw "他们进行随机药物测试，然后上个月..."
 
 # game/code/e17/e17s05.rpy:461
 translate chinese e17s05_end_47668b1d:
 
     # dw "... they found something unexpected."
-    dw "... they found something unexpected."
+    dw "...他们有了意想不到的发现。"
 
 # game/code/e17/e17s05.rpy:464
 translate chinese e17s05_end_4b660080:
 
     # mc "Someone drugged you?"
-    mc "Someone drugged you?"
+    mc "有人给你下药？"
 
 # game/code/e17/e17s05.rpy:466
 translate chinese e17s05_end_7d12c8fc:
 
     # dw "No. Nothing like that."
-    dw "No. Nothing like that."
+    dw "没有，没有那样的事。"
 
 # game/code/e17/e17s05.rpy:467
 translate chinese e17s05_end_bc2005e9:
 
     # mct "I'm confused..."
-    mct "I'm confused..."
+    mct "你把我搞糊涂了..."
 
 # game/code/e17/e17s05.rpy:470
 translate chinese e17s05_end_a7afa51c:
 
     # dw "We're pregnant."
-    dw "We're pregnant."
+    dw "我们要有孩子了。"
 
 # game/code/e17/e17s05.rpy:474
 translate chinese e17s05_end_2b6e3d46:
 
     # mc "Oh... wow."
-    mc "Oh... wow."
+    mc "哦...哇哦。"
 
 # game/code/e17/e17s05.rpy:476
 translate chinese e17s05_end_f5dbed1b:
 
     # dw "What does that mean?"
-    dw "What does that mean?"
+    dw "你这是什么反应？"
 
 # game/code/e17/e17s05.rpy:478
 translate chinese e17s05_end_99776bb4:
 
     # mc "I'm thinking... this is a lot to process."
-    mc "I'm thinking... this is a lot to process."
+    mc "我在想...要处理的事情太多了。"
 
 # game/code/e17/e17s05.rpy:481
 translate chinese e17s05_end_065bf071:
 
     # dw "You're upset?"
-    dw "You're upset?"
+    dw "你不高兴？"
 
 # game/code/e17/e17s05.rpy:483
 translate chinese e17s05_end_d471ea9c:
 
     # mc "No! Not in the slightest!"
-    mc "No! Not in the slightest!"
+    mc "不！丝毫没有！"
 
 # game/code/e17/e17s05.rpy:486
 translate chinese e17s05_end_596c4148:
 
     # mc "I'm elated. I'm glad. I literally couldn't be happier."
-    mc "I'm elated. I'm glad. I literally couldn't be happier."
+    mc "我很高兴。可以说狂喜。我真的高兴得不能再高兴了。"
 
 # game/code/e17/e17s05.rpy:487
 translate chinese e17s05_end_deb10c87:
 
     # mc "This is just... unexpected."
-    mc "This is just... unexpected."
+    mc "只是这消息也实在...出乎意料。"
 
 # game/code/e17/e17s05.rpy:489
 translate chinese e17s05_end_22ab1343:
 
     # dw "I know. This isn't where I wanted to raise a child."
-    dw "I know. This isn't where I wanted to raise a child."
+    dw "我知道。这里克不是我想抚养孩子的地方。"
 
 # game/code/e17/e17s05.rpy:492
 translate chinese e17s05_end_0b37b471:
 
     # mc "Dahlia, I love you.{w} I love us - you, me, and our unborn child."
-    mc "Dahlia, I love you.{w} I love us - you, me, and our unborn child."
+    mc "黛丽娅。我爱你。{w}我爱我们--你，我，还有我们未出世的孩子。"
 
 # game/code/e17/e17s05.rpy:493
 translate chinese e17s05_end_9e00abe6:
 
     # mc "We'll make it work."
-    mc "We'll make it work."
+    mc "我们会成功渡过难关的。"
 
 # game/code/e17/e17s05.rpy:495
 translate chinese e17s05_end_1aee539e:
 
     # dw "Cool."
-    dw "Cool."
+    dw "行。"
 
 # game/code/e17/e17s05.rpy:497
 translate chinese e17s05_end_ddee5ca0:
 
     # mct "Cool? What does that mean?"
-    mct "Cool? What does that mean?"
+    mct "行？什么意思？"
 
 # game/code/e17/e17s05.rpy:498
 translate chinese e17s05_end_8f42ff31:
 
     # mct "Oh, I think I get it."
-    mct "Oh, I think I get it."
+    mct "哦，我想我明白了。"
 
 # game/code/e17/e17s05.rpy:500
 translate chinese e17s05_end_c9ebb463:
 
     # mc "You don't have to do that, hon."
-    mc "You don't have to do that, hon."
+    mc "你不必这样做，亲爱的。"
 
 # game/code/e17/e17s05.rpy:503
 translate chinese e17s05_end_62991bdf:
 
     # dw "What are you talking about?"
-    dw "What are you talking about?"
+    dw "你在说什么呢？"
 
 # game/code/e17/e17s05.rpy:505
 translate chinese e17s05_end_f32fb3c9:
 
     # mc "You deflect your emotions. You retreat from admitting your thoughts or feelings."
-    mc "You deflect your emotions. You retreat from admitting your thoughts or feelings."
+    mc "你在转移自己的情绪。你在回避承认自己的想法或感受。"
 
 # game/code/e17/e17s05.rpy:508
 translate chinese e17s05_end_982022fa:
 
     # mc "You don't have to do that with me."
-    mc "You don't have to do that with me."
+    mc "你不必对我这样设防。"
 
 # game/code/e17/e17s05.rpy:509
 translate chinese e17s05_end_e4b211e0:
 
     # mc "You can trust me."
-    mc "You can trust me."
+    mc "你可以信任我。"
 
 # game/code/e17/e17s05.rpy:512
 translate chinese e17s05_end_70e0d14e:
 
     # dw "I know. I know that I can trust you."
-    dw "I know. I know that I can trust you."
+    dw "我知道。我知道我可以信任你。"
 
 # game/code/e17/e17s05.rpy:513
 translate chinese e17s05_end_6d45ddac:
 
     # dw "It's just habit. I don't even let myself..."
-    dw "It's just habit. I don't even let myself..."
+    dw "这只是我的习惯。我甚至不让自己..."
 
 # game/code/e17/e17s05.rpy:514
 translate chinese e17s05_end_787fe1be:
 
     # dw "I don't even know what I'm thinking or feeling right now."
-    dw "I don't even know what I'm thinking or feeling right now."
+    dw "我甚至不知道自己现在在想什么，或有什么感觉。"
 
 # game/code/e17/e17s05.rpy:517
 translate chinese e17s05_end_1abb9c71:
 
     # mc "Try. For me."
-    mc "Try. For me."
+    mc "试试看。为了我。"
 
 # game/code/e17/e17s05.rpy:519
 translate chinese e17s05_end_f3c7993b:
 
     # dw "I guess I'm overwhelmed."
-    dw "I guess I'm overwhelmed."
+    dw "我想我是不知所措。"
 
 # game/code/e17/e17s05.rpy:522
 translate chinese e17s05_end_dc7a1379:
 
     # dw "I'm in prison in a strange country. I don't even know the laws here, but murder is murder."
-    dw "I'm in prison in a strange country. I don't even know the laws here, but murder is murder."
+    dw "我在一个陌生国家的监狱里。我甚至不知道这里的法律，但谋杀就是谋杀。"
 
 # game/code/e17/e17s05.rpy:523
 translate chinese e17s05_end_5ce0c806:
 
     # dw "And yet somehow... you're alive.{w} You've come back to me."
-    dw "And yet somehow... you're alive.{w} You've come back to me."
+    dw "但不晓得怎么回事...你还活着。{w}你回到了我身边。"
 
 # game/code/e17/e17s05.rpy:526
 translate chinese e17s05_end_b2664556:
 
     # dw "Somehow we're going to raise our child together, but I don't know how that could possibly work."
-    dw "Somehow we're going to raise our child together, but I don't know how that could possibly work."
+    dw "结果我们又要一起抚养孩子，但我不知道，这种情况，又怎么可能呢？"
 
 # game/code/e17/e17s05.rpy:527
 translate chinese e17s05_end_1c5b8630:
 
     # dw "I love you beyond words."
-    dw "I love you beyond words."
+    dw "我爱你，无法用言语表达。"
 
 # game/code/e17/e17s05.rpy:530
 translate chinese e17s05_end_4f28f394:
 
     # dw "But I'm overwhelmed."
-    dw "But I'm overwhelmed."
+    dw "但我也情绪泛滥，不知所措。"
 
 # game/code/e17/e17s05.rpy:532
 translate chinese e17s05_end_bb0eeaf4:
 
     # mc "Thank you."
-    mc "Thank you."
+    mc "谢谢你。"
 
 # game/code/e17/e17s05.rpy:535
 translate chinese e17s05_end_0180810f:
 
     # mc "To be honest, I'm having the same thoughts."
-    mc "To be honest, I'm having the same thoughts."
+    mc "老实说，我也有同样的想法。"
 
 # game/code/e17/e17s05.rpy:536
 translate chinese e17s05_end_b7b6c8ae:
 
     # mc "But I believe in us. We'll find some way-"
-    mc "But I believe in us. We'll find some way-"
+    mc "但我相信咱们俩。我们会找到办法的--"
 
 # game/code/e17/e17s05.rpy:539
 translate chinese e17s05_end_ad765ff4:
 
     # "Warden" "*chuckles* Am I interrupting anything?"
-    "Warden" "*chuckles* Am I interrupting anything?"
+    "典狱长" "*嗤笑* 我打扰你们了吗？"
 
 # game/code/e17/e17s05.rpy:543
 translate chinese e17s05_end_78f50ad9:
 
     # dw "NO, WARDEN!"
-    dw "NO, WARDEN!"
+    dw "没有，典狱长！"
 
 # game/code/e17/e17s05.rpy:545
 translate chinese e17s05_end_ad28e59d:
 
     # "Warden" "Because I would be happy to wait and watch."
-    "Warden" "Because I would be happy to wait and watch."
+    "典狱长" "因为我很乐意在一旁等着看戏。"
 
 # game/code/e17/e17s05.rpy:548
 translate chinese e17s05_end_49643ec6:
 
     # dw "Uh..."
-    dw "Uh..."
+    dw "呃..."
 
 # game/code/e17/e17s05.rpy:550
 translate chinese e17s05_end_e300365d:
 
     # mc "That won't be necessary."
-    mc "That won't be necessary."
+    mc "没这个必要。"
 
 # game/code/e17/e17s05.rpy:553
 translate chinese e17s05_end_4c459a3a:
 
     # dw "THAT WON'T BE NECESSARY, WARDEN!"
-    dw "THAT WON'T BE NECESSARY, WARDEN!"
+    dw "没必要那样，典狱长！"
 
 # game/code/e17/e17s05.rpy:555
 translate chinese e17s05_end_6c16ac30:
 
     # "Warden" "Smart girl. Well, if you are finished..."
-    "Warden" "Smart girl. Well, if you are finished..."
+    "典狱长" "女孩还算聪明。好吧，如果你们说完了..."
 
 # game/code/e17/e17s05.rpy:558
 translate chinese e17s05_end_992c0e6e:
 
     # dw "YES, WARDEN!"
-    dw "YES, WARDEN!"
+    dw "说完了，典狱长！"
 
 # game/code/e17/e17s05.rpy:560
 translate chinese e17s05_end_9b1d7be9:
 
     # "Warden" "THEN GET THE HELL OUT OF MY PRISON!!!"
-    "Warden" "THEN GET THE HELL OUT OF MY PRISON!!!"
+    "典狱长" "那就滚出我的监狱!!!"
 
 # game/code/e17/e17s05.rpy:563
 translate chinese e17s05_end_9e6f11df:
 
     # mc "Me?"
-    mc "Me?"
+    mc "我吗？"
 
 # game/code/e17/e17s05.rpy:565
 translate chinese e17s05_end_ab448b71:
 
     # "Warden" "Both of you."
-    "Warden" "Both of you."
+    "典狱长" "你们俩。"
 
 # game/code/e17/e17s05.rpy:567
 translate chinese e17s05_end_9af62f42:
 
     # dw "I don't understand..."
-    dw "I don't understand..."
+    dw "我不明白..."
 
 # game/code/e17/e17s05.rpy:570
 translate chinese e17s05_end_4a00efb6:
 
     # "Warden" "Don't be dim, fools."
-    "Warden" "Don't be dim, fools."
+    "典狱长" "别犯蠢了，傻瓜。"
 
 # game/code/e17/e17s05.rpy:571
 translate chinese e17s05_end_d45a2f99:
 
     # "Warden" "You didn't kill him. He isn't dead. You're not a convict anymore."
-    "Warden" "You didn't kill him. He isn't dead. You're not a convict anymore."
+    "典狱长" "你没有杀他。他没死。你不再是罪犯了"
 
 # game/code/e17/e17s05.rpy:573
 translate chinese e17s05_end_5cb3bd1c:
 
     # mc "I don't think it works that way... does it?"
-    mc "I don't think it works that way... does it?"
+    mc "我觉得直接这样不太合规吧...不是吗？"
 
 # game/code/e17/e17s05.rpy:576
 translate chinese e17s05_end_b5840df3:
 
     # "Warden" "Of course not. There was a ton of paperwork, but the judge signed off on it."
-    "Warden" "Of course not. There was a ton of paperwork, but the judge signed off on it."
+    "典狱长" "当然不合规。还有一大堆的文书工作，法官已经在上面签字了。"
 
 # game/code/e17/e17s05.rpy:577
 translate chinese e17s05_end_b8a80be5:
 
     # "Warden" "Now get your naked asses out of my prison before I charge you with trespassing!!"
-    "Warden" "Now get your naked asses out of my prison before I charge you with trespassing!!"
+    "典狱长" "现在把你们裸着的屁股挪出我的监狱，免得我以非法入侵罪起诉你们!!"
 
 # game/code/e17/e17s05.rpy:580
 translate chinese e17s05_end_992c0e6e_1:
 
     # dw "YES, WARDEN!"
-    dw "YES, WARDEN!"
+    dw "是，典狱长！"
 
 # game/code/e17/e17s05.rpy:582
 translate chinese e17s05_end_e9721ff3:
 
     # mc "Thank you!"
-    mc "Thank you!"
+    mc "谢谢你！"
 
 # game/code/e17/e17s05.rpy:588
 translate chinese e17s05_end_a1f86628:
 
     # "Warden" "Nice. Looks like I missed a passionate show."
-    "Warden" "Nice. Looks like I missed a passionate show."
+    "典狱长" "靓啊。看来我错过了一场激情表演。."
 
 # game/code/e17/e17s05.rpy:589
 translate chinese e17s05_end_18ce6297:
 
     # "Warden" "That's enough of that. Collect your belongings and get the fuck out."
-    "Warden" "That's enough of that. Collect your belongings and get the fuck out."
+    "典狱长" "够了。收拾你的东西，滚蛋吧！"
 
 translate chinese strings:
 
     # game/code/e17/e17s05.rpy:30
     old "Many Days Later"
-    new "Many Days Later"
+    new "许多天后"
 
