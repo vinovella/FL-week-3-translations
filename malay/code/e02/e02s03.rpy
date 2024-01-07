@@ -599,7 +599,7 @@ translate malay e02s03_lodge_fbc867e7:
 
     # mc "Hmmm, what exactly am I supposed to be slipping inside of you?"
     mc "Hmmm, apa sebenarnya yang aku patut masukkan dalam diri kau?"
-	
+
 # game/code/e02/e02s03.rpy:380
 translate malay e02s03_lodge_9c101f87:
 

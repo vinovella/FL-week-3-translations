@@ -65,7 +65,7 @@ translate malay e02s04_ee087b37:
 
     # mh "I always keep my eyes open for talent."
     mh "Aku sentiasa membuka mata aku untuk bakat."
-	
+
 # game/code/e02/e02s04.rpy:43
 translate malay e02s04_40b79f60:
 
@@ -730,13 +730,13 @@ translate malay e02s04_fireplace_8669d6dd:
 translate malay e02s04_fireplace_19f85401:
 
     # mc "{size=-10}*whispers* Well how about at least we go to our cabin. You know...{/size}"
-    mc "{size=-10}*berbisik* Baiklah, sekurang-kurangnya kita pergi ke kabin kita. Kau tahu...{/saiz}"
+    mc "{size=-10}*berbisik* Baiklah, sekurang-kurangnya kita pergi ke kabin kita. Kau tahu...{/size}"
 
 # game/code/e02/e02s04.rpy:372
 translate malay e02s04_fireplace_81a40b8d:
 
     # mc "{size=-10}..away from them.{/size}"
-    mc "{size=-10}Jauh daripada mereka.{/saiz}"
+    mc "{size=-10}Jauh daripada mereka.{/size}"
 
 # game/code/e02/e02s04.rpy:373
 translate malay e02s04_fireplace_f35d9d98:
@@ -1301,7 +1301,7 @@ translate malay e02s04_next_day_2_d64285b4:
 
     # mh "Yes, we even ended up... I guess you'd say we shared a few words of potential wisdom."
     mh "Ya, kami juga akhirnya... Saya rasa awak akan mengatakan kami berkongsi beberapa kata-kata potensi kebijaksanaan."
-	
+
 # game/code/e02/e02s04.rpy:681
 translate malay e02s04_next_day_2_d7b95be3:
 

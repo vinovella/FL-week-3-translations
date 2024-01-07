@@ -407,7 +407,7 @@ translate malay e02s06_fc9726bc:
 
     # mc "I'm not saying you separate or anything, but maybe you find some people that could help spice things up with you."
     mc "Saya tak mengatakan awak berpisah atau apa-apa, tapi mungkin awak mencari beberapa orang yang boleh membantu menceriakan keadaan dengan awak."
-	
+
 # game/code/e02/e02s06.rpy:246
 translate malay e02s06_c39367a9:
 

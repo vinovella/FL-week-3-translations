@@ -179,7 +179,7 @@ translate malay e02s05_later_a04bd730:
 
     # mh "We were kinda invited, but don't want to interrupt."
     mh "Kami agak dijemput, tapi tak nak mengganggu."
-	
+
 # game/code/e02/e02s05.rpy:138
 translate malay e02s05_later_532b9db9:
 
