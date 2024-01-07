@@ -586,703 +586,703 @@ translate chinese replay_e17s04_d9ad69a5:
 translate chinese replay_e17s04_e57205c2:
 
     # dw "Keep your nasty precum bottled up!"
-    dw "Keep your nasty precum bottled up!"
+    dw "把你那恶心的精液藏起来！"
 
 # game/code/e17/e17s04.rpy:428
 translate chinese replay_e17s04_a4c9f888:
 
     # dw "Impressive."
-    dw "Impressive."
+    dw "令人印象深刻啊。"
 
 # game/code/e17/e17s04.rpy:432
 translate chinese replay_e17s04_ea64c204:
 
     # mct "Jumping gators!"
-    mct "Jumping gators!"
+    mct "跳跃的鳄鱼！"
 
 # game/code/e17/e17s04.rpy:435
 translate chinese replay_e17s04_270c7567:
 
     # dw "Something to say, my slave?"
-    dw "Something to say, my slave?"
+    dw "有话要说吗，我的奴隶？"
 
 # game/code/e17/e17s04.rpy:438
 translate chinese replay_e17s04_0691e047:
 
     # mc "*Shakes head*"
-    mc "*Shakes head*"
+    mc "*摇摇头*"
 
 # game/code/e17/e17s04.rpy:441
 translate chinese replay_e17s04_3f32de3e:
 
     # dw "Maybe all your failures this trip are making you stronger."
-    dw "Maybe all your failures this trip are making you stronger."
+    dw "也许这次旅行的失败让你变得更强大。"
 
 # game/code/e17/e17s04.rpy:442
 translate chinese replay_e17s04_8f484473:
 
     # dw "But probably not. Now I'm bored, come over here."
-    dw "But probably not. Now I'm bored, come over here."
+    dw "但也许正相反。现在我很无聊，过来吧。"
 
 # game/code/e17/e17s04.rpy:449
 translate chinese replay_e17s04_5e91b291:
 
     # mct "Eyes on the prize. She has to give in soon."
-    mct "Eyes on the prize. She has to give in soon."
+    mct "眼睛盯着奖品。她很快就要让步了。"
 
 # game/code/e17/e17s04.rpy:450
 translate chinese replay_e17s04_04c67d06:
 
     # mct "I hope."
-    mct "I hope."
+    mct "希望如此。"
 
 # game/code/e17/e17s04.rpy:453
 translate chinese replay_e17s04_8aec142f:
 
     # dw "I'm going to read for a few minutes. I need a footstool!"
-    dw "I'm going to read for a few minutes. I need a footstool!"
+    dw "我要看几分钟书。我需要一个脚凳！"
 
 # game/code/e17/e17s04.rpy:456
 translate chinese replay_e17s04_b588cfc4:
 
     # mc "Mistress, please there are plenty of-"
-    mc "Mistress, please there are plenty of-"
+    mc "女主人，求求您，这里有很多--"
 
 # game/code/e17/e17s04.rpy:462
 translate chinese replay_e17s04_d82871f7:
 
     # mc "Uh... Right."
-    mc "Uh... Right."
+    mc "呃...好的。"
 
 # game/code/e17/e17s04.rpy:466
 translate chinese replay_e17s04_9273d07e:
 
     # dw "Good pet. And let's just attach this vibrator to that dirty, worthless cock of yours."
-    dw "Good pet. And let's just attach this vibrator to that dirty, worthless cock of yours."
+    dw "这才乖。让我们把这个振动棒连到你那又脏又没用的鸡巴上吧。"
 
 # game/code/e17/e17s04.rpy:470
 translate chinese replay_e17s04_c04da3fc:
 
     # "*buzzing*"
-    "*buzzing*"
+    "*嗡嗡声*"
 
 # game/code/e17/e17s04.rpy:473
 translate chinese replay_e17s04_ac8d8117:
 
     # mct "Oh my sweet fluffy lord"
-    mct "Oh my sweet fluffy lord"
+    mct "哦，我尊贵可敬的主人"
 
 # game/code/e17/e17s04.rpy:479
 translate chinese replay_e17s04_454b7069:
 
     # dw "Ahhh. Perfect."
-    dw "Ahhh. Perfect."
+    dw "啊。简直完美。"
 
 # game/code/e17/e17s04.rpy:482
 translate chinese replay_e17s04_d36a98a6:
 
     # mct "Is it possible for a penis to spontaneously combust?"
-    mct "Is it possible for a penis to spontaneously combust?"
+    mct "人的鸡巴有可能自燃吗？"
 
 # game/code/e17/e17s04.rpy:486
 translate chinese replay_e17s04_b68b82da:
 
     # dw "You know this is so perfect, I don't think I have to move any more today."
-    dw "You know this is so perfect, I don't think I have to move any more today."
+    dw "你知道，这太完美了，我想我今天不用再动了。"
 
 # game/code/e17/e17s04.rpy:488
 translate chinese replay_e17s04_ee747691:
 
     # dw "I could just order room service and waste the day away in here with you."
-    dw "I could just order room service and waste the day away in here with you."
+    dw "我可以叫客房服务，然后和你在这里消磨上一整天。"
 
 # game/code/e17/e17s04.rpy:491
 translate chinese replay_e17s04_d5ef0e04:
 
     # dw "Wouldn't you like that?"
-    dw "Wouldn't you like that?"
+    dw "你不喜欢吗？"
 
 # game/code/e17/e17s04.rpy:494
 translate chinese replay_e17s04_677284b0:
 
     # mc "*weakly* Yes, Mistress."
-    mc "*weakly* Yes, Mistress."
+    mc "*弱弱地回答* 喜欢，女主人。"
 
 # game/code/e17/e17s04.rpy:499
 translate chinese replay_e17s04_55a401d9:
 
     # dw "Hmmmph. Finally, that chapter was long and hardly captivating."
-    dw "Hmmmph. Finally, that chapter was long and hardly captivating."
+    dw "呼。终于读完了，这一章很长，而且很难吸引人。"
 
 # game/code/e17/e17s04.rpy:503
 translate chinese replay_e17s04_5b825d0c:
 
     # dw "Oh, I almost forgot about you."
-    dw "Oh, I almost forgot about you."
+    dw "哦，我差点忘了你。"
 
 # game/code/e17/e17s04.rpy:508
 translate chinese replay_e17s04_128276b6:
 
     # dw "How are you holding out my-"
-    dw "How are you holding out my-"
+    dw "你是怎么坚持到我--"
 
 # game/code/e17/e17s04.rpy:511
 translate chinese replay_e17s04_6ddf79b5:
 
     # dw "My god- I mean."
-    dw "My god- I mean."
+    dw "我的天啊，简直了。"
 
 # game/code/e17/e17s04.rpy:512
 translate chinese replay_e17s04_09820f95:
 
     # dw "What an impressive redwood."
-    dw "What an impressive redwood."
+    dw "多么令人印象深刻的红杉树啊。"
 
 # game/code/e17/e17s04.rpy:515
 translate chinese replay_e17s04_694cf234:
 
     # mct "Holy frivola! Just kill me now."
-    mct "Holy frivola! Just kill me now."
+    mct "我的天啊。杀了我吧。"
 
 # game/code/e17/e17s04.rpy:518
 translate chinese replay_e17s04_4295ca93:
 
     # dw "{i}He was more beast than man at that point.{/i}"
-    dw "{i}He was more beast than man at that point.{/i}"
+    dw "{i}在那一刻，他的样子更像一头野兽。{/i}"
 
 # game/code/e17/e17s04.rpy:519
 translate chinese replay_e17s04_1f9a317a:
 
     # dw "{i}So was I. *weak laughter* I mean, I never felt more passion for him.{/i}"
-    dw "{i}So was I. *weak laughter* I mean, I never felt more passion for him.{/i}"
+    dw "{i}我也是。*微弱的笑声* 我的意思是，我从来没有像现在这样对他那么有激情。{/i}"
 
 # game/code/e17/e17s04.rpy:522
 translate chinese replay_e17s04_8c8661c9:
 
     # dw "{i}He was mine, completely and without reservation. I had a made a masterpiece, a masterpiece that could fuck its artist. I loved it. I loved-{/i}"
-    dw "{i}He was mine, completely and without reservation. I had a made a masterpiece, a masterpiece that could fuck its artist. I loved it. I loved-{/i}"
+    dw "{i}他属于我，毫无保留的完全属于我。我创造了一件杰作，一件可以和它的艺术家做爱的杰作。我爱--{/i}"
 
 # game/code/e17/e17s04.rpy:524
 translate chinese replay_e17s04_894f1a73:
 
     # dw "{i}So...{/i}"
-    dw "{i}So...{/i}"
+    dw "{i}所以...{/i}"
 
 # game/code/e17/e17s04.rpy:530
 translate chinese replay_e17s04_149d7515:
 
     # dw "The time for your selfishness has come to an end."
-    dw "The time for your selfishness has come to an end."
+    dw "你自私的时代已经结束。"
 
 # game/code/e17/e17s04.rpy:533
 translate chinese replay_e17s04_59bda800:
 
     # dw "What do you want to do with your Mistress?"
-    dw "What do you want to do with your Mistress?"
+    dw "你要怎么处置你的女主人？"
 
 # game/code/e17/e17s04.rpy:540
 translate chinese replay_e17s04_30685cbd:
 
     # mc "Mistress! I want to fuck you until my body can't move anymore!"
-    mc "Mistress! I want to fuck you until my body can't move anymore!"
+    mc "女主人！我想操你，直到我的身体无法动弹为止！"
 
 # game/code/e17/e17s04.rpy:543
 translate chinese replay_e17s04_43b72202:
 
     # mc "Let me ravage you until I drop, let me spill my cum deep into your womb and impregnate you. I'm begging you!"
-    mc "Let me ravage you until I drop, let me spill my cum deep into your womb and impregnate you. I'm begging you!"
+    mc "让我蹂躏你，直到我死去，让我把精液深深地射进你的子宫，让你受孕。我求你了！"
 
 # game/code/e17/e17s04.rpy:546
 translate chinese replay_e17s04_0e1da31d:
 
     # dw "I will never give you a child, worm. Besides, that nonsense you call sperm would never be strong enough to conquer my womb."
-    dw "I will never give you a child, worm. Besides, that nonsense you call sperm would never be strong enough to conquer my womb."
+    dw "我永远不会给你生孩子，蠕虫。此外，你所谓的精子根本不足以征服我的子宫。"
 
 # game/code/e17/e17s04.rpy:549
 translate chinese replay_e17s04_da8ac093:
 
     # mc "Please, allow me to try, Mistress."
-    mc "Please, allow me to try, Mistress."
+    mc "请允许我试试，女主人。"
 
 # game/code/e17/e17s04.rpy:552
 translate chinese replay_e17s04_08444787:
 
     # dw "Haha. I knew it was a mistake not putting a ball gag back in..."
-    dw "Haha. I knew it was a mistake not putting a ball gag back in..."
+    dw "哈哈。我就知道没把球塞回去是个错误..."
 
 # game/code/e17/e17s04.rpy:555
 translate chinese replay_e17s04_472c1b47:
 
     # dw "Mrmmmm..."
-    dw "Mrmmmm..."
+    dw "嗯嗯..."
 
 # game/code/e17/e17s04.rpy:558
 translate chinese replay_e17s04_3fcb5c58:
 
     # dw "I suppose you have been a good boy all day. "
-    dw "I suppose you have been a good boy all day. "
+    dw "我看你一整天表现得都很乖。 "
 
 # game/code/e17/e17s04.rpy:563
 translate chinese replay_e17s04_097a25b8:
 
     # dw "Well? What are you waiting for? Utterly useless."
-    dw "Well? What are you waiting for? Utterly useless."
+    dw "怎么？你还在等什么？真没用。"
 
 # game/code/e17/e17s04.rpy:568
 translate chinese replay_e17s04_38dd7dce:
 
     # mc "I have no voice, Mistress. Therefore, my desires are yours."
-    mc "I have no voice, Mistress. Therefore, my desires are yours."
+    mc "我没有资格动起来，女主人。因此，我的愿望就是您的愿望。"
 
 # game/code/e17/e17s04.rpy:571
 translate chinese replay_e17s04_fc0609f0:
 
     # dw "Maybe there is hope for you after all."
-    dw "Maybe there is hope for you after all."
+    dw "也许你还是有希望的。"
 
 # game/code/e17/e17s04.rpy:575
 translate chinese replay_e17s04_d57bef83:
 
     # dw "Fuck me, pet! Don't hold back. Even if you think you're going to break me, or yourself, never stop humping my pussy."
-    dw "Fuck me, pet! Don't hold back. Even if you think you're going to break me, or yourself, never stop humping my pussy."
+    dw "干我吧，宝贝。别犹豫。即使你认为你会把我操坏，或者你自己可能会精尽人亡，那也不要停止干我的小穴。"
 
 # game/code/e17/e17s04.rpy:578
 translate chinese replay_e17s04_b40585a1:
 
     # dw "Do you understand?"
-    dw "Do you understand?"
+    dw "你明白吗？"
 
 # game/code/e17/e17s04.rpy:581
 translate chinese replay_e17s04_f79a3652:
 
     # mc "Of course, Mistress."
-    mc "Of course, Mistress."
+    mc "当然，女主人。"
 
 # game/code/e17/e17s04.rpy:584
 translate chinese replay_e17s04_0e92f43c:
 
     # dw "Then what the hell are you waiting for?"
-    dw "Then what the hell are you waiting for?"
+    dw "那你还在等什么？"
 
 # game/code/e17/e17s04.rpy:595
 translate chinese e17s04_impregnate_d377fbb6:
 
     # mc "Mistress..."
-    mc "Mistress..."
+    mc "女主人..."
 
 # game/code/e17/e17s04.rpy:600
 translate chinese e17s04_impregnate_c4a463cf:
 
     # dw "Ready?"
-    dw "Ready?"
+    dw "准备好了吗？"
 
 # game/code/e17/e17s04.rpy:611
 translate chinese e17s04_impregnate_7aa1e37b:
 
     # dw "Woah, you just shoved all of it inside of me."
-    dw "Woah, you just shoved all of it inside of me."
+    dw "哇，你真是倾尽所有，全都释放出来了。"
 
 # game/code/e17/e17s04.rpy:612
 translate chinese e17s04_impregnate_60baef46:
 
     # dw "You really have no control when I'm around."
-    dw "You really have no control when I'm around."
+    dw "有我在，你真的无法控制自己啊。"
 
 # game/code/e17/e17s04.rpy:614
 translate chinese e17s04_impregnate_34b27a5d:
 
     # dw "*light moaning*"
-    dw "*light moaning*"
+    dw "*轻声呻吟*"
 
 # game/code/e17/e17s04.rpy:622
 translate chinese e17s04_impregnate_faaf9ffa:
 
     # dw "You loved it when I worked your cock to the breaking point, didn't you?"
-    dw "You loved it when I worked your cock to the breaking point, didn't you?"
+    dw "你喜欢我把你的鸡巴操弄到极限，不是吗？"
 
 # game/code/e17/e17s04.rpy:632
 translate chinese e17s04_impregnate_278a5030:
 
     # dw "Now's your chance. Take me. Break me. I'll never give you another chance."
-    dw "Now's your chance. Take me. Break me. I'll never give you another chance."
+    dw "现在机会来了。占有我。肏垮我。我再也不会给你第二次机会。"
 
 # game/code/e17/e17s04.rpy:635
 translate chinese e17s04_impregnate_be91b699:
 
     # dw "Yes, that's it slave. Push every inch inside of me."
-    dw "Yes, that's it slave. Push every inch inside of me."
+    dw "对，就是这样，奴隶。把每一寸都插入我的身体。"
 
 # game/code/e17/e17s04.rpy:636
 translate chinese e17s04_impregnate_8d773b1e:
 
     # dw "If you disappoint your Mistress now, I might just leave you at the hotel."
-    dw "If you disappoint your Mistress now, I might just leave you at the hotel."
+    dw "如果你现在让你的女主人失望，我可能会把你留在酒店里。"
 
 # game/code/e17/e17s04.rpy:638
 translate chinese e17s04_impregnate_edcf76a4:
 
     # dw "Is that what you want?"
-    dw "Is that what you want?"
+    dw "这就是你想要的吗？"
 
 # game/code/e17/e17s04.rpy:646
 translate chinese e17s04_impregnate_5103e353:
 
     # mc "*grunting* No, Mistress. Please... I only want to be beside you."
-    mc "*grunting* No, Mistress. Please... I only want to be beside you."
+    mc "*模糊不清地说* 不，女主人。求求您，我只想在您身边。"
 
 # game/code/e17/e17s04.rpy:650
 translate chinese e17s04_impregnate_b42f426b:
 
     # dw "Then you better nut the fuck up. You still haven't even made me feel a thing."
-    dw "Then you better nut the fuck up. You still haven't even made me feel a thing."
+    dw "那你最好给我闭嘴。你还没让我产生一丝性奋感呢。"
 
 # game/code/e17/e17s04.rpy:659
 translate chinese e17s04_impregnate_c6410929:
 
     # dw "Stand up."
-    dw "Stand up."
+    dw "站起来。"
 
 # game/code/e17/e17s04.rpy:666
 translate chinese e17s04_impregnate_812fb5df:
 
     # dw "Do I have to do everything?"
-    dw "Do I have to do everything?"
+    dw "我什么都得做吗？"
 
 # game/code/e17/e17s04.rpy:667
 translate chinese e17s04_impregnate_397389ee:
 
     # dw "Stop dicking around and make me CUM!"
-    dw "Stop dicking around and make me CUM!"
+    dw "别瞎几把闹了，赶紧把我伺候爽！"
 
 # game/code/e17/e17s04.rpy:670
 translate chinese e17s04_impregnate_c9bf818c:
 
     # mc "Yes, Mistress!"
-    mc "Yes, Mistress!"
+    mc "是，女主人！"
 
 # game/code/e17/e17s04.rpy:676
 translate chinese e17s04_impregnate_e7f91a38:
 
     # dw "Deeper. Fuck me deeper."
-    dw "Deeper. Fuck me deeper."
+    dw "再深点。插得再深一点。"
 
 # game/code/e17/e17s04.rpy:679
 translate chinese e17s04_impregnate_b70def14:
 
     # dw "*moaning*"
-    dw "*moaning*"
+    dw "*呻吟*"
 
 # game/code/e17/e17s04.rpy:682
 translate chinese e17s04_impregnate_bd727621:
 
     # mc "*choking* Does... Nraah... Does my cock please you, Mistress?"
-    mc "*choking* Does... Nraah... Does my cock please you, Mistress?"
+    mc "*噎住* 我...呃啊啊...我的鸡巴能取悦您吗，女主人？"
 
 # game/code/e17/e17s04.rpy:686
 translate chinese e17s04_impregnate_eab7cab9:
 
     # dw "Of course not. Who could... Gwaaah!"
-    dw "Of course not. Who could... Gwaaah!"
+    dw "当然没有。谁能...噶啊啊啊！"
 
 # game/code/e17/e17s04.rpy:687
 translate chinese e17s04_impregnate_78cab203:
 
     # dw "Who could ever feel good from such a tiny, worthless slab of meat."
-    dw "Who could ever feel good from such a tiny, worthless slab of meat."
+    dw "谁能从这么小、屁用没有的牙签上获得快感呢？"
 
 # game/code/e17/e17s04.rpy:691
 translate chinese e17s04_impregnate_ae745c9b:
 
     # mct "This slab of meat is kissing your womb, Mistress."
-    mct "This slab of meat is kissing your womb, Mistress."
+    mct "这根牙签正在亲吻您的子宫，女主人。"
 
 # game/code/e17/e17s04.rpy:692
 translate chinese e17s04_impregnate_97f05446:
 
     # dw "Oh fuck!"
-    dw "Oh fuck!"
+    dw "哦，操！"
 
 # game/code/e17/e17s04.rpy:693
 translate chinese e17s04_impregnate_62d018a4:
 
     # dw "Where did that come from?"
-    dw "Where did that come from?"
+    dw "这是怎么回事？"
 
 # game/code/e17/e17s04.rpy:697
 translate chinese e17s04_impregnate_cf573cc8:
 
     # mc "I am just doing as you asked, Mistress."
-    mc "I am just doing as you asked, Mistress."
+    mc "女主人，我只是在按您的要求做。"
 
 # game/code/e17/e17s04.rpy:699
 translate chinese e17s04_impregnate_22811a1d:
 
     # dw "*panting* Yes. Good."
-    dw "*panting* Yes. Good."
+    dw "*喘着气* 是的。很好。"
 
 # game/code/e17/e17s04.rpy:701
 translate chinese e17s04_impregnate_c4234424:
 
     # dw "What are you doing?"
-    dw "What are you doing?"
+    dw "你在做什么？"
 
 # game/code/e17/e17s04.rpy:703
 translate chinese e17s04_impregnate_8a73df46:
 
     # mc "Fulfilling your request. You asked me what I wanted to do to you."
-    mc "Fulfilling your request. You asked me what I wanted to do to you."
+    mc "满足您的要求。您之前问我想对您做什么。"
 
 # game/code/e17/e17s04.rpy:705
 translate chinese e17s04_impregnate_33b4c3de:
 
     # dw "I don't remember giving you permission to enact them."
-    dw "I don't remember giving you permission to enact them."
+    dw "我不记得我允许过你这样做。"
 
 # game/code/e17/e17s04.rpy:712
 translate chinese e17s04_impregnate_16b56d31:
 
     # dw "Woah!"
-    dw "Woah!"
+    dw "哇！"
 
 # game/code/e17/e17s04.rpy:716
 translate chinese e17s04_impregnate_79a56868:
 
     # mc "Tell me to stop. Please. I'm begging you."
-    mc "Tell me to stop. Please. I'm begging you."
+    mc "告诉我停下来。求你。我求你了。"
 
 # game/code/e17/e17s04.rpy:722
 translate chinese e17s04_impregnate_524727a7:
 
     # dw "Don't make me regret this, worm."
-    dw "Don't make me regret this, worm."
+    dw "别让我后悔，虫子。"
 
 # game/code/e17/e17s04.rpy:726
 translate chinese e17s04_impregnate_46731821:
 
     # mct "I must do better, or my Mistress will not be satisfied!"
-    mct "I must do better, or my Mistress will not be satisfied!"
+    mct "我必须做得更好，否则我的女主人不会满意的！"
 
 # game/code/e17/e17s04.rpy:728
 translate chinese e17s04_impregnate_bd348614:
 
     # dw "Oooh... Where did this newfound inspiration come from?"
-    dw "Oooh... Where did this newfound inspiration come from?"
+    dw "哦噢噢...你这个新发现的灵感从何而来？"
 
 # game/code/e17/e17s04.rpy:731
 translate chinese e17s04_impregnate_1ad47d4c:
 
     # mc "I found my... nrrrh... second wind, Mistress."
-    mc "I found my... nrrrh... second wind, Mistress."
+    mc "我找到了我的...嗯...第二春，女主人。"
 
 # game/code/e17/e17s04.rpy:732
 translate chinese e17s04_impregnate_d9c7667b:
 
     # dw "Did you now? Hmmm."
-    dw "Did you now? Hmmm."
+    dw "比如现在吗？噢噢噢。"
 
 # game/code/e17/e17s04.rpy:733
 translate chinese e17s04_impregnate_2491d6fc:
 
     # dw "Then take me to bed. Let's see if you can finally make me cum."
-    dw "Then take me to bed. Let's see if you can finally make me cum."
+    dw "那就带我上床吧。看看你能不能让我高潮。"
 
 # game/code/e17/e17s04.rpy:734
 translate chinese e17s04_impregnate_4567a5ef:
 
     # dw "Ooooh."
-    dw "Ooooh."
+    dw "吼哦。"
 
 # game/code/e17/e17s04.rpy:745
 translate chinese e17s04_impregnate_6afe676e:
 
     # dw "Good boy. Hurry, hurry."
-    dw "Good boy. Hurry, hurry."
+    dw "好孩子。快点，快点。"
 
 # game/code/e17/e17s04.rpy:748
 translate chinese e17s04_impregnate_5d19d4c2:
 
     # dw "Ooouhaah YES!"
-    dw "Ooouhaah YES!"
+    dw "哦噢噢哈啊啊啊！"
 
 # game/code/e17/e17s04.rpy:751
 translate chinese e17s04_impregnate_df898ccf:
 
     # mc "Did you cum, Mistress?"
-    mc "Did you cum, Mistress?"
+    mc "您高潮了吗，女主人？"
 
 # game/code/e17/e17s04.rpy:754
 translate chinese e17s04_impregnate_ad758cc0:
 
     # dw "Of course not pea-brain!"
-    dw "Of course not pea-brain!"
+    dw "当然没有--你个大笨蛋！"
 
 # game/code/e17/e17s04.rpy:755
 translate chinese e17s04_impregnate_1ba1c611:
 
     # dw "Keep going. Did I tell you to stop?"
-    dw "Keep going. Did I tell you to stop?"
+    dw "继续。我让你停了吗？"
 
 # game/code/e17/e17s04.rpy:760
 translate chinese e17s04_impregnate_25ee4aaa:
 
     # mc "Nrrrrgh."
-    mc "Nrrrrgh."
+    mc "唔唔-没。"
 
 # game/code/e17/e17s04.rpy:762
 translate chinese e17s04_impregnate_3cfc769e:
 
     # dw "Much better."
-    dw "Much better."
+    dw "好多了。"
 
 # game/code/e17/e17s04.rpy:765
 translate chinese e17s04_impregnate_035cbe18:
 
     # dw "Yes. I do love feeling you desperately fling your hips forward."
-    dw "Yes. I do love feeling you desperately fling your hips forward."
+    dw "就是这样。我喜欢感受你拼命向前甩臀的感觉。"
 
 # game/code/e17/e17s04.rpy:767
 translate chinese e17s04_impregnate_9ed33b75:
 
     # dw "*wild moaning*"
-    dw "*wild moaning*"
+    dw "*疯狂呻吟*"
 
 # game/code/e17/e17s04.rpy:770
 translate chinese e17s04_impregnate_dd9af104:
 
     # dw "Mmraah... Take it. Fuck me! Take my pussy. You're almost making me feel good enough to cancel your punishment tomorrow."
-    dw "Mmraah... Take it. Fuck me! Take my pussy. You're almost making me feel good enough to cancel your punishment tomorrow."
+    dw "呜啊啊啊...来吧。操我！肏我的小穴！你让我感觉好爽，爽到我想取消明天对你的惩罚了。"
 
 # game/code/e17/e17s04.rpy:774
 translate chinese e17s04_impregnate_ba538c08:
 
     # dw "Almost..."
-    dw "Almost..."
+    dw "差点就要..."
 
 # game/code/e17/e17s04.rpy:778
 translate chinese e17s04_impregnate_885a4076:
 
     # mc "*strained breathing* Mistress?"
-    mc "*strained breathing* Mistress?"
+    mc "*呼吸紧张* 女主人?"
 
 # game/code/e17/e17s04.rpy:785
 translate chinese e17s04_impregnate_208281ed:
 
     # dw "It's not good enough. I want to feel you with my bare hands while I fuck you."
-    dw "It's not good enough. I want to feel you with my bare hands while I fuck you."
+    dw "还不够好。我想在干你的时候，一边用双手感受你。"
 
 # game/code/e17/e17s04.rpy:788
 translate chinese e17s04_impregnate_0ad2ec1c:
 
     # dw "You like that slave? You like feeling your Mistress in total control?"
-    dw "You like that slave? You like feeling your Mistress in total control?"
+    dw "你喜欢这样吗，奴隶？你喜欢女主人完全控制你的感觉吗？"
 
 # game/code/e17/e17s04.rpy:791
 translate chinese e17s04_impregnate_f2240cd6:
 
     # mc "*gasping* Yes, Mistress."
-    mc "*gasping* Yes, Mistress."
+    mc "*喘气* 喜欢，女主人。"
 
 # game/code/e17/e17s04.rpy:794
 translate chinese e17s04_impregnate_3ff4881f:
 
     # dw "You're my bitch, my little plaything!"
-    dw "You're my bitch, my little plaything!"
+    dw "你是我的贱婊子，我的小玩物！"
 
 # game/code/e17/e17s04.rpy:803
 translate chinese e17s04_impregnate_4ec3fcc7:
 
     # dw "*breathless* Fu-hua-ck. Keep going, worm!"
-    dw "*breathless* Fu-hua-ck. Keep going, worm!"
+    dw "*喘不过气来* 次--奥--操。继续，虫子！"
 
 # game/code/e17/e17s04.rpy:806
 translate chinese e17s04_impregnate_5ffcb41d:
 
     # mc "Mistress. I'm *choke* close."
-    mc "Mistress. I'm *choke* close."
+    mc "女主人。我快*窒息*了！"
 
 # game/code/e17/e17s04.rpy:809
 translate chinese e17s04_impregnate_da41b11f:
 
     # dw "Don't even think... ruaah... of cumming before I do!"
-    dw "Don't even think... ruaah... of cumming before I do!"
+    dw "别想...在我高潮前...先射精！"
 
 # game/code/e17/e17s04.rpy:814
 translate chinese e17s04_impregnate_898d7771:
 
     # mc "I can't... I can't breathe-"
-    mc "I can't... I can't breathe-"
+    mc "我不能...不能呼吸了--"
 
 # game/code/e17/e17s04.rpy:819
 translate chinese e17s04_impregnate_332d3486:
 
     # dw "FUCK. Fuufffahooouwwaaaah!"
-    dw "FUCK. Fuufffahooouwwaaaah!"
+    dw "操。操啊啊啊啊！"
 
 # game/code/e17/e17s04.rpy:823
 translate chinese e17s04_impregnate_0a18b576:
 
     # mc "Hrrrrkaauh-"
-    mc "Hrrrrkaauh-"
+    mc "哇啊啊啊--"
 
 # game/code/e17/e17s04.rpy:827
 translate chinese e17s04_impregnate_3e8e5825:
 
     # mct "Dahlia..."
-    mct "Dahlia..."
+    mct "黛丽娅..."
 
 # game/code/e17/e17s04.rpy:836
 translate chinese e17s04_impregnate_70e950e9:
 
     # dw "Warm... Hot... sticky... You came inside! Worthless!"
-    dw "Warm... Hot... sticky... You came inside! Worthless!"
+    dw "暖暖的...热热的...粘粘的...你射进来了！没用的东西！"
 
 # game/code/e17/e17s04.rpy:839
 translate chinese e17s04_impregnate_0f8c34a5:
 
     # dw "Keep going. If you're going to do it, you better fill me up completely!"
-    dw "Keep going. If you're going to do it, you better fill me up completely!"
+    dw "继续。既然你选择要这样，最好把我完全填满！"
 
 # game/code/e17/e17s04.rpy:842
 translate chinese e17s04_impregnate_ab457174:
 
     # mc "Mist-"
-    mc "Mist-"
+    mc "女--"
 
 # game/code/e17/e17s04.rpy:845
 translate chinese e17s04_impregnate_4d8940ac:
 
     # dw "What is wrong? You normally don't go limp so fast."
-    dw "What is wrong? You normally don't go limp so fast."
+    dw "怎么回事？你通常不会这么快就软的。"
 
 # game/code/e17/e17s04.rpy:848
 translate chinese e17s04_impregnate_30d712b4:
 
     # dw "You are lucky that felt as good as it did. Hmmph, cumming inside of me without express permission! I should lock your cock in a cage."
-    dw "You are lucky that felt as good as it did. Hmmph, cumming inside of me without express permission! I should lock your cock in a cage."
+    dw "你很幸运，这次感觉很好。哼哼，没经过我的允许就在我体内射精！我应该把你的鸡巴锁在笼子里。"
 
 # game/code/e17/e17s04.rpy:851
 translate chinese e17s04_impregnate_edcf76a4_1:
 
     # dw "Is that what you want?"
-    dw "Is that what you want?"
+    dw "这就是你想要的吗？"
 
 # game/code/e17/e17s04.rpy:854
 translate chinese e17s04_impregnate_1e1dcd3b:
 
     # dw "Pet?"
-    dw "Pet?"
+    dw "小宠物？"
 
 # game/code/e17/e17s04.rpy:857
 translate chinese e17s04_impregnate_24e31287:
 
     # dw "Why are you staring at me-"
-    dw "Why are you staring at me-"
+    dw "你为什么这样--"
 
 # game/code/e17/e17s04.rpy:860
 translate chinese e17s04_impregnate_6127f210:
 
     # dw "-like that?"
-    dw "-like that?"
+    dw "--盯着我看？"
 
 # game/code/e17/e17s04.rpy:863
 translate chinese e17s04_impregnate_c3a5f4b9:
@@ -1294,13 +1294,13 @@ translate chinese e17s04_impregnate_c3a5f4b9:
 translate chinese e17s04_impregnate_8a7bb962:
 
     # dw "Oh my god!"
-    dw "Oh my god!"
+    dw "我的天哪！"
 
 # game/code/e17/e17s04.rpy:874
 translate chinese e17s04_impregnate_216854d3:
 
     # dw "No no no no no!"
-    dw "No no no no no!"
+    dw "不不不不不！"
 
 # game/code/e17/e17s04.rpy:878
 translate chinese e17s04_impregnate_e4727b1a:
@@ -1312,103 +1312,103 @@ translate chinese e17s04_impregnate_e4727b1a:
 translate chinese e17s04_impregnate_3e43f5fc:
 
     # dw "*sniff* I went too far. But I swear that it was an accident. Just a stupid... stupid accident."
-    dw "*sniff* I went too far. But I swear that it was an accident. Just a stupid... stupid accident."
+    dw "*抽鼻子* 我做得太过分了。但我发誓那只是个意外。只是一个蠢到家的...愚蠢至极的意外。"
 
 # game/code/e17/e17s04.rpy:887
 translate chinese e17s04_impregnate_afbf8d7c:
 
     # "Judge" "The evidence disagrees. Dahlia West, I find you guilty on all counts."
-    "Judge" "The evidence disagrees. Dahlia West, I find you guilty on all counts."
+    "法官" "证据不足。黛丽娅・韦斯特，我裁定你所有罪名成立。"
 
 # game/code/e17/e17s04.rpy:890
 translate chinese e17s04_impregnate_b5c01f77:
 
     # dw "No-"
-    dw "No-"
+    dw "不--"
 
 # game/code/e17/e17s04.rpy:891
 translate chinese e17s04_impregnate_8a3ae79b:
 
     # dw "No! Please! Take me away. Just let me see him. I'm begging you!"
-    dw "No! Please! Take me away. Just let me see him. I'm begging you!"
+    dw "不要！求求你！带我走。让我见他一面。求求你！"
 
 # game/code/e17/e17s04.rpy:894
 translate chinese e17s04_impregnate_741d41ac:
 
     # dw "I never... *sniff* I never even got to say goodbye!"
-    dw "I never... *sniff* I never even got to say goodbye!"
+    dw "我都没有...*抽鼻子* 我甚至都没机会跟他说再见！"
 
 # game/code/e17/e17s04.rpy:898
 translate chinese e17s04_impregnate_a44afd98:
 
     # "Judge" "Take her away. Ať se Bůh smiluje nad vaší duší."
-    "Judge" "Take her away. Ať se Bůh smiluje nad vaší duší."
+    "法官" "带她走。 Ať se Bůh smiluje nad vaší duší."
 
 # game/code/e17/e17s04.rpy:909
 translate chinese e17s04_end_128cb9cb:
 
     # "*medical beeps and hums*"
-    "*medical beeps and hums*"
+    "*医疗器械的哔哔声和蜂鸣声*"
 
 # game/code/e17/e17s04.rpy:912
 translate chinese e17s04_end_3b8f44e5:
 
     # "*accelerated beeping*"
-    "*accelerated beeping*"
+    "*加速的哔哔声*"
 
 # game/code/e17/e17s04.rpy:915
 translate chinese e17s04_end_2ee34b2b:
 
     # mc "Dah-"
-    mc "Dah-"
+    mc "黛--"
 
 # game/code/e17/e17s04.rpy:918
 translate chinese e17s04_end_e8f19466:
 
     # mc "Mistress."
-    mc "Mistress."
+    mc "女主人。"
 
 # game/code/e17/e17s04.rpy:919
 translate chinese e17s04_end_7f6bfff6:
 
     # mc "Mistress?"
-    mc "Mistress?"
+    mc "女主人？"
 
 # game/code/e17/e17s04.rpy:922
 translate chinese e17s04_end_7ac58cc2:
 
     # mct "What the hell happened to me."
-    mct "What the hell happened to me."
+    mct "我到底怎么了？"
 
 # game/code/e17/e17s04.rpy:926
 translate chinese e17s04_end_81703e27:
 
     # mct "Am I in a hospital?"
-    mct "Am I in a hospital?"
+    mct "我这是在医院里？"
 
 # game/code/e17/e17s04.rpy:931
 translate chinese e17s04_end_68d017ca:
 
     # mct "Mistress... You really went overboard."
-    mct "Mistress... You really went overboard."
+    mct "女主人...你真的做过头了。"
 
 # game/code/e17/e17s04.rpy:932
 translate chinese e17s04_end_62309c49:
 
     # mct "I wonder where she is."
-    mct "I wonder where she is."
+    mct "我想知道她在哪里。"
 
 translate chinese strings:
 
     # game/code/e17/e17s04.rpy:45
     old "The Darkest Day"
-    new "The Darkest Day"
+    new "最黑暗的一天"
 
     # game/code/e17/e17s04.rpy:534
     old "Tell her your primal desires"
-    new "Tell her your primal desires"
+    new "把你的原始欲望告诉她"
 
     # game/code/e17/e17s04.rpy:534
     old "Remain completely submissive"
-    new "Remain completely submissive"
+    new "保持完全的顺从"
 
