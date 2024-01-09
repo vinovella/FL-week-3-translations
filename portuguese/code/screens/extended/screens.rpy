@@ -83,13 +83,14 @@ translate portuguese strings:
 
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
-    new ""
+    new "Compre um brinquedo Lovense"
 
     # game/code/screens/extended/screens.rpy:230
     old "Wishlist Taboo University in Steam"
-    new ""
+    new "Ponha Taboo University na Lista de Desejos da Steam"
 
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
-    new ""
+    new "Teste nosso novo jogo Taboo University"
+
 
