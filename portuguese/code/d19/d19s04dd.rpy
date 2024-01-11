@@ -232,7 +232,7 @@ translate portuguese d19s04dd_129af3bd:
 translate portuguese d19s04dd_after_9bd49a87:
 
     # mc "I suppose I should find those keys."
-    mc "Acho que é bom eu encontrar essas chaves."
+    mc "Acho bom eu procurar as chaves."
 
 # game/code/d19/d19s04dd.rpy:307
 translate portuguese d19s04dd_after_22799aaf:
@@ -244,19 +244,19 @@ translate portuguese d19s04dd_after_22799aaf:
 translate portuguese d19s04dd_after_eecfc7a0:
 
     # mc "Naughty girl. You didn't tell me that."
-    mc "Garotinha levada. Você não me falou isso."
+    mc "Garotinha levada. Você não me avisou."
 
 # game/code/d19/d19s04dd.rpy:313
 translate portuguese d19s04dd_after_01e81fcf:
 
     # dd "I did my best to forget it."
-    dd "Eu fiz o melhor que pude pra esquecer."
+    dd "Eu fiz o que podia pra esquecer."
 
 # game/code/d19/d19s04dd.rpy:320
 translate portuguese d19s04dd_after_2940e183:
 
     # dd "You seemed kinda stressed when you got here. Do you feel better now?"
-    dd "Você parecia meio estressado quando chegou. Se sente melhor agora?"
+    dd "Você parecia meio estressado quando chegou. Tá melhor agora?"
 
 # game/code/d19/d19s04dd.rpy:323
 translate portuguese d19s04dd_after_4aeb0365:
@@ -316,7 +316,7 @@ translate portuguese d19s04dd_after_3b54b469:
 translate portuguese d19s04dd_after_407cc883:
 
     # mc "It's okay, [d17s06_teddy_name]. What you just saw was perfectly natural and-"
-    mc "Tudo bem, [d17s06_teddy_name]. O que você viu agora é perfeitamente natura, e-"
+    mc "Tudo bem, [d17s06_teddy_name]. O que você viu agora é perfeitamente natural, e-"
 
 # game/code/d19/d19s04dd.rpy:360
 translate portuguese d19s04dd_after_5d7f960e:
@@ -1100,7 +1100,7 @@ translate portuguese strings:
 
     # game/code/d19/d19s04dd.rpy:483
     old "Odd is Definitely the Way to Go"
-    new "Ímpar é Definitivamente o Caminho"
+    new "Com Certeza no Ímpar"
 
     # game/code/d19/d19s04dd.rpy:483
     old "Something like 2nd dozen, maybe"
