@@ -4,29 +4,29 @@ translate deutsch strings:
 
     # game/code/screens/endings.rpy:11
     old "ENDINGS"
-    new "ENDINGS"
+    new "ENDEN"
 
     # game/code/screens/endings.rpy:27
     old "You haven't unlocked this ending"
-    new "You haven't unlocked this ending"
+    new "Du hast dieses Ende noch nicht freigeschaltet"
 
     # game/code/screens/endings.rpy:53
     old "This ending will be included in a future FREE DLC"
-    new "This ending will be included in a future FREE DLC"
+    new "Dieses Ende wird in einem zukünftigen KOSTENLOSEN DLC enthalten sein"
 
     # game/code/screens/endings.rpy:55
     old "This ending will be included in a future DLC"
-    new "This ending will be included in a future DLC"
+    new "Dieses Ende wird in einem zukünftigen DLC enthalten sein"
 
     # game/code/screens/endings.rpy:61
     old "Play"
-    new "Play"
+    new "Spielen"
 
     # game/code/screens/endings.rpy:75
     old "Return to the Main Story"
-    new "Return to the Main Story"
+    new "Kehre zur Hauptgeschichte zurück"
 
     # game/code/screens/endings.rpy:79
     old "Exit to Mainmenu"
-    new "Exit to Mainmenu"
+    new "Zurück zum Hauptmenü"
 
