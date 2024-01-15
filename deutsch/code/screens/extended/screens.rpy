@@ -4,11 +4,11 @@ translate deutsch strings:
 
     # game/code/screens/extended/screens.rpy:120
     old "PLAY"
-    new "PLAY"
+    new "SPIELEN"
 
     # game/code/screens/extended/screens.rpy:131
     old "LOAD"
-    new "LOAD"
+    new "LADEN"
 
     # game/code/screens/extended/screens.rpy:141
     old "BONUS"
@@ -16,11 +16,11 @@ translate deutsch strings:
 
     # game/code/screens/extended/screens.rpy:152
     old "SETTINGS"
-    new "SETTINGS"
+    new "EINSTELLUNGEN"
 
     # game/code/screens/extended/screens.rpy:162
     old "LANGUAGE"
-    new "LANGUAGE"
+    new "SPRACHE"
 
     # game/code/screens/extended/screens.rpy:172
     old "INFO"
@@ -28,53 +28,53 @@ translate deutsch strings:
 
     # game/code/screens/extended/screens.rpy:196
     old "Support us on Patreon"
-    new "Support us on Patreon"
+    new "Unterstütze uns auf Patreon"
 
     # game/code/screens/extended/screens.rpy:197
     old "Join us on Discord"
-    new "Join us on Discord"
+    new "Komm auf unseren Discord"
 
     # game/code/screens/extended/screens.rpy:198
     old "Quit Game"
-    new "Quit Game"
+    new "Spiel verlassen"
 
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
-    new "Get a Lovense toy"
+    new "Besorg dir ein Lovense-Spielzeug"
 
     # game/code/screens/extended/screens.rpy:230
     old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
+    new "Wishliste Taboo University auf Steam"
 
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
+    new "Probier unser neues Spiel Taboo University"
 
     # game/code/screens/extended/screens.rpy:307
     old "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
-    new "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
+    new "BEANTWORTE DEN FRAGEBOGEN UND STARTE EIN NEUES SPIEL"
 
     # game/code/screens/extended/screens.rpy:317
     old "LOAD A SAVE FROM WEEK 2"
-    new "LOAD A SAVE FROM WEEK 2"
+    new "LADE EINEN SPIELSTAND AUS WOCHE 2"
 
     # game/code/screens/extended/screens.rpy:349
     old "ABOUT"
-    new "ABOUT"
+    new "ÜBER"
 
     # game/code/screens/extended/screens.rpy:359
     old "HELP"
-    new "HELP"
+    new "HILFE"
 
     # game/code/screens/extended/screens.rpy:413
     old "CG\nGALLERY"
-    new "CG\nGALLERY"
+    new "CG\nGALERIE"
 
     # game/code/screens/extended/screens.rpy:423
     old "REPLAY ROOM"
-    new "REPLAY ROOM"
+    new "WIEDERHOLUNGSRAUM"
 
     # game/code/screens/extended/screens.rpy:440
     old "BONUS CONTENT"
-    new "BONUS CONTENT"
+    new "BONUS INHALT"
 
