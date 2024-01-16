@@ -7,10 +7,10 @@ translate italian e17s03_49cb4f05:
     dw "{i}We went to the Devet Ocasu to meet with the Domina. I...{/i}"
 
 # game/code/e17/e17s03.rpy:129
-translate italian e17s03_e94cbf9f:
+translate italian e17s03_b0c4a5b3:
 
-    # dw "{i}It was a mistake for us to go. I should have... I wasn't ready."
-    dw "{i}It was a mistake for us to go. I should have... I wasn't ready."
+    # dw "{i}It was a mistake for us to go. I should have... I wasn't ready.{/i}"
+    dw "{i}It was a mistake for us to go. I should have... I wasn't ready.{/i}"
 
 # game/code/e17/e17s03.rpy:130
 translate italian e17s03_83f31a45:
@@ -557,4 +557,3 @@ translate italian replay_e17s03_a823a6e3:
 
     # mc "I must go. My Mistress is summoning me."
     mc "I must go. My Mistress is summoning me."
-

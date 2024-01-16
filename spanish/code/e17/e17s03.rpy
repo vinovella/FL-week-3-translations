@@ -7,10 +7,10 @@ translate spanish e17s03_49cb4f05:
     dw "{i}Fuimos al Devet Ocasu para reunirnos con la Domina. Yo...{/i}"
 
 # game/code/e17/e17s03.rpy:129
-translate spanish e17s03_e94cbf9f:
+translate spanish e17s03_b0c4a5b3:
 
-    # dw "{i}It was a mistake for us to go. I should have... I wasn't ready."
-    dw "{i}Fue un error para nosotros ir. Debería haber... No estaba lista."
+    # dw "{i}It was a mistake for us to go. I should have... I wasn't ready.{/i}"
+    dw "{i}Fue un error para nosotros ir. Debería haber... No estaba lista.{/i}"
 
 # game/code/e17/e17s03.rpy:130
 translate spanish e17s03_83f31a45:
@@ -544,7 +544,7 @@ translate spanish replay_e17s03_34074dee:
 translate spanish replay_e17s03_42953ca1:
 
     # gb "Stay with me. I can show you a good life how this relationship {i}should be{/i}."
-    gb "Quédate conmigo. Puedo mostrarte una buena vida cómo debería ser esta relación {i}{/i}."
+    gb "Quédate conmigo. Puedo mostrarte una buena vida cómo debería ser {i}esta relación{/i}."
 
 # game/code/e17/e17s03.rpy:524
 translate spanish replay_e17s03_1280885b:
@@ -557,4 +557,3 @@ translate spanish replay_e17s03_a823a6e3:
 
     # mc "I must go. My Mistress is summoning me."
     mc "Tengo que irme. Mi Ama me está llamando."
-

@@ -7,10 +7,10 @@ translate turkish e17s03_49cb4f05:
     dw "{i}Domina ile görüşmek için Devet Ocağı'na gittik. Ben...{/i}"
 
 # game/code/e17/e17s03.rpy:129
-translate turkish e17s03_e94cbf9f:
+translate turkish e17s03_b0c4a5b3:
 
-    # dw "{i}It was a mistake for us to go. I should have... I wasn't ready."
-    dw "{i}Gitmemiz bir hataydı. Gitmeliydim... Hazır değildim."
+    # dw "{i}It was a mistake for us to go. I should have... I wasn't ready.{/i}"
+    dw "{i}Gitmemiz bir hataydı. Gitmeliydim... Hazır değildim.{/i}"
 
 # game/code/e17/e17s03.rpy:130
 translate turkish e17s03_83f31a45:

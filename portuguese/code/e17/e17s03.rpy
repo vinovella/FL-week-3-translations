@@ -7,9 +7,9 @@ translate portuguese e17s03_49cb4f05:
     dw "{i}Fomos pro Devet Ocasu encontrar com a Domina. Eu...{/i}"
 
 # game/code/e17/e17s03.rpy:129
-translate portuguese e17s03_e94cbf9f:
+translate portuguese e17s03_b0c4a5b3:
 
-    # dw "{i}It was a mistake for us to go. I should have... I wasn't ready."
+    # dw "{i}It was a mistake for us to go. I should have... I wasn't ready.{/i}"
     dw "{i}Foi um erro ir lá. Eu devia... Eu não estava pronta.{/i}"
 
 # game/code/e17/e17s03.rpy:130
@@ -557,4 +557,3 @@ translate portuguese replay_e17s03_a823a6e3:
 
     # mc "I must go. My Mistress is summoning me."
     mc "Eu preciso ir. Minha Senhora me chama."
-

@@ -396,3 +396,11 @@ translate korean strings:
     old "Get Drunk in the Bar"
     new "술집에서 취할 때까지 마신다"
 
+# TODO: Translation updated at 2024-01-16 20:38
+
+translate korean strings:
+
+    # game/code/d18/d18s11.rpy:62
+    old "Runaway with Dahlia, Samiya, and Pete"
+    new "Runaway with Dahlia, Samiya, and Pete"
+

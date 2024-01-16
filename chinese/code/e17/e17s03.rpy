@@ -7,10 +7,10 @@ translate chinese e17s03_49cb4f05:
     dw "{i}我们去了Devet Ocasu，见了主母。我...{/i}"
 
 # game/code/e17/e17s03.rpy:129
-translate chinese e17s03_e94cbf9f:
+translate chinese e17s03_b0c4a5b3:
 
-    # dw "{i}It was a mistake for us to go. I should have... I wasn't ready."
-    dw "{i}我们不该去的。我应该...我还没准备好。"
+    # dw "{i}It was a mistake for us to go. I should have... I wasn't ready.{/i}"
+    dw "{i}我们不该去的。我应该...我还没准备好。{/i}"
 
 # game/code/e17/e17s03.rpy:130
 translate chinese e17s03_83f31a45:
