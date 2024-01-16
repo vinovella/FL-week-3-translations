@@ -214,13 +214,13 @@ translate deutsch e06s07_d198b8f2:
 translate deutsch e06s07_47f7437f:
 
     # mc "*whisper* What she said."
-    mc "*whisper* What she said."
+    mc "*flüstert* Was sie gesagt hat."
 
 # game/code/e06/e06s07.rpy:125
 translate deutsch e06s07_debd037a:
 
     # mh "*whisper* Let's start the show."
-    mc "*flüstert* Was sie gesagt hat."
+    mc "*flüstert* Lasst uns mit der Show beginnen."
 
 # game/code/e06/e06s07.rpy:129
 translate deutsch e06s07_dc984fe9:
