@@ -16,7 +16,7 @@ translate spanish e10s06_7d3f3bd6:
 translate spanish e10s06_afeef655:
 
     # mc "{b}FUCK YEAH!!!{/b}"
-    mc "{b}{b}¡¡MIERDA SÍ!!{/b}"
+    mc "{b}¡¡MIERDA SÍ!!{/b}"
 
 # game/code/e10/e10s06.rpy:80
 translate spanish e10s06_b19d44e8:
@@ -359,4 +359,3 @@ translate spanish strings:
     # game/code/e10/e10s06.rpy:46
     old "Few months later"
     new "Unos meses después"
-

@@ -238,7 +238,7 @@ translate turkish e17s04_return_ab3c84a3:
 translate turkish e17s04_return_5eda8c29:
 
     # dw "{i}*sniff* Our interests in sex and pleasure linked us together. He loved every moment of our time together.{/i}"
-    dw "{i}*sniff* Seks ve zevke olan ilgimiz bizi birbirimize bağladı. Birlikte geçirdiğimiz her anı seviyordu."
+    dw "{i}*sniff* Seks ve zevke olan ilgimiz bizi birbirimize bağladı. Birlikte geçirdiğimiz her anı seviyordu.{/i}"
 
 # game/code/e17/e17s04.rpy:215
 translate turkish e17s04_return_7b5a3afd:

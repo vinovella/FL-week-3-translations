@@ -94,7 +94,7 @@ translate turkish replay_e17s01a_27c0bf1a:
 translate turkish replay_e17s01a_f4f95a39:
 
     # dw "{i}I knew he was a naturally-born submissive. I'm a naturally-born dominatrix.{/i}"
-    dw "{i}Onun doğuştan itaatkâr olduğunu biliyordum. Ben doğuştan dominatrisim."
+    dw "{i}Onun doğuştan itaatkâr olduğunu biliyordum. Ben doğuştan dominatrisim.{/i}"
 
 # game/code/e17/e17s01.rpy:125
 translate turkish replay_e17s01a_bb93814d:

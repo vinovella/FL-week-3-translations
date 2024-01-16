@@ -658,7 +658,7 @@ translate turkish replay_e17s02_d75c20b5:
 translate turkish replay_e17s02_a600ab91:
 
     # mc "Mistress, I don't feel comfortable being out in public {i}in this{/i}."
-    mc "Hanımefendi, bu {i}şeyle {i}halkın içinde olmaktan rahatsızım."
+    mc "Hanımefendi, bu {i}şeyle{/i} halkın içinde olmaktan rahatsızım."
 
 # game/code/e17/e17s02.rpy:394
 translate turkish replay_e17s02_7ca7f1b6:

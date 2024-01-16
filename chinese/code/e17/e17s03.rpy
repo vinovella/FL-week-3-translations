@@ -544,7 +544,7 @@ translate chinese replay_e17s03_34074dee:
 translate chinese replay_e17s03_42953ca1:
 
     # gb "Stay with me. I can show you a good life how this relationship {i}should be{/i}."
-    gb "留在我身边。我可以向你展示一段健康愉悦的关系{i}应该是怎样的{i}."
+    gb "留在我身边。我可以向你展示一段健康愉悦的关系{i}应该是怎样的{/i}."
 
 # game/code/e17/e17s03.rpy:524
 translate chinese replay_e17s03_1280885b:
@@ -557,4 +557,3 @@ translate chinese replay_e17s03_a823a6e3:
 
     # mc "I must go. My Mistress is summoning me."
     mc "我得走了。我的女主人在召唤我。"
-
