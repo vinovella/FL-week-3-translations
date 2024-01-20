@@ -873,13 +873,13 @@ translate deutsch d16s07_ext_bdeb7b06:
 # game/code/d16/extended/d16s07_ext.rpy:736
 translate deutsch d16s07_ext_09f996e0:
 
-    # mc "Oh, ich bin immer dabei. Vielleicht kann sich Kanya auch verkleiden."
+    # mc "Oh, ich bin immer dabei. Vielleicht kann sich Kanya auch verkleiden"
     mc "Oh, ich bin immer dabei. Vielleicht kann sich Kanya auch verkleiden."
 
 # game/code/d16/extended/d16s07_ext.rpy:739
 translate deutsch d16s07_ext_070b060c:
 
-    # jf "Oh mein Gott, ja! Das müssen wir machen."
+    # jf "Oh mein Gott, ja! Das müssen wir machen"
     jf "Oh mein Gott, ja! Das müssen wir machen."
 
 # game/code/d16/extended/d16s07_ext.rpy:742

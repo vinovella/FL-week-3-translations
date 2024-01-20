@@ -387,7 +387,7 @@ translate deutsch d16s10_63710058:
 # game/code/d16/d16s10.rpy:216
 translate deutsch d16s10_80d9ad1c:
 
-    # arj "Wirklich? {w}Du hast damals an mich gedacht?"
+    # arj "Really? {w}You thought about me back then?"
     arj "Wirklich? {w}Du hast damals an mich gedacht?"
 
 # game/code/d16/d16s10.rpy:219
@@ -1381,4 +1381,3 @@ translate deutsch strings:
     # game/code/d16/d16s10.rpy:205
     old "Tell her how you came while she was under the table"
     new "Erzähl ihr, wie du gekommen bist, als sie unter dem Tisch war"
-
