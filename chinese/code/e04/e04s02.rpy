@@ -4,61 +4,61 @@
 translate chinese e04s02_c212447d:
 
     # mc "This is a nice throne."
-    mc "This is a nice throne."
+    mc "这宝座真不错。"
 
 # game/code/e04/e04s02.rpy:46
 translate chinese e04s02_cce14b82:
 
     # mc "Super uncomfortable though."
-    mc "Super uncomfortable though."
+    mc "不过超级不舒服。"
 
 # game/code/e04/e04s02.rpy:49
 translate chinese e04s02_3109dc12:
 
     # lc "You don't deserve to sit on it."
-    lc "You don't deserve to sit on it."
+    lc "你不配坐在上面。"
 
 # game/code/e04/e04s02.rpy:52
 translate chinese e04s02_be8e175f:
 
     # mc "And you do?"
-    mc "And you do?"
+    mc "你配？"
 
 # game/code/e04/e04s02.rpy:55
 translate chinese e04s02_c117bfaa:
 
     # lc "Of course."
-    lc "Of course."
+    lc "当然。"
 
 # game/code/e04/e04s02.rpy:58
 translate chinese e04s02_65e10627:
 
     # mc "Kneel."
-    mc "Kneel."
+    mc "跪下。"
 
 # game/code/e04/e04s02.rpy:61
 translate chinese e04s02_2dba71fa:
 
     # lc "No."
-    lc "No."
+    lc "不要。"
 
 # game/code/e04/e04s02.rpy:64
 translate chinese e04s02_3f60f0f3:
 
     # mc "Tsk, tsk. Eventually, you'll learn."
-    mc "Tsk, tsk. Eventually, you'll learn."
+    mc "啧啧啧。最终你会学会的。"
 
 # game/code/e04/e04s02.rpy:67
 translate chinese e04s02_559cb5d7:
 
     # lc "Why did you bring me down here?"
-    lc "Why did you bring me down here?"
+    lc "你为什么把我带到这里来？"
 
 # game/code/e04/e04s02.rpy:70
 translate chinese e04s02_97a673b5:
 
     # mc "To start your re-education."
-    mc "To start your re-education."
+    mc "开始你的再教育。"
 
 # game/code/e04/e04s02.rpy:73
 translate chinese e04s02_12136075:
