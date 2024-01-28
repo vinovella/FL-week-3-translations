@@ -4,187 +4,187 @@
 translate chinese e04s03_a5af4321:
 
     # mc "Let there be light."
-    mc "Let there be light."
+    mc "要有光。"
 
 # game/code/e04/e04s03.rpy:65
 translate chinese e04s03_a232c1e2:
 
     # arj "So this is Lydia's sex dungeon."
-    arj "So this is Lydia's sex dungeon."
+    arj "这就是莉迪亚的性爱地牢。"
 
 # game/code/e04/e04s03.rpy:68
 translate chinese e04s03_18ce4087:
 
     # sy "Neat."
-    sy "Neat."
+    sy "漂亮。"
 
 # game/code/e04/e04s03.rpy:71
 translate chinese e04s03_175f3462:
 
     # mc "It's pretty cool, but there is room for improvement. I think locking her down in a solitary cell will help her adjust to her new situation."
-    mc "It's pretty cool, but there is room for improvement. I think locking her down in a solitary cell will help her adjust to her new situation."
+    mc "还不错，但还有改进的余地。我觉得把她关在单人牢房里，会帮助她适应新环境。"
 
 # game/code/e04/e04s03.rpy:72
 translate chinese e04s03_a630120f:
 
     # mc "And a cell will keep her right where I want her at all times."
-    mc "And a cell will keep her right where I want her at all times."
+    mc "而且牢房能让她一直待在我想让她待的地方。"
 
 # game/code/e04/e04s03.rpy:75
 translate chinese e04s03_aef4ccdf:
 
     # arj "So you've got a prison but no solitary confinement."
-    arj "So you've got a prison but no solitary confinement."
+    arj "所以你有一座监狱，但没有单独监禁。"
 
 # game/code/e04/e04s03.rpy:77
 translate chinese e04s03_b180829a:
 
     # mc "Bingo."
-    mc "Bingo."
+    mc "答对了。"
 
 # game/code/e04/e04s03.rpy:80
 translate chinese e04s03_fdd78a9e:
 
     # sy "Well if anyone deserves some cruel and unusual punishment, it's Lydia."
-    sy "Well if anyone deserves some cruel and unusual punishment, it's Lydia."
+    sy "如果说谁该受到残酷而不寻常的惩罚，那就是莉迪亚。"
 
 # game/code/e04/e04s03.rpy:82
 translate chinese e04s03_cf89efc2:
 
     # sy "I can't believe I thought that bitch would make a good friend."
-    sy "I can't believe I thought that bitch would make a good friend."
+    sy "真不敢相信，我还以为那婊子会是个好朋友。"
 
 # game/code/e04/e04s03.rpy:84
 translate chinese e04s03_d4ad568f:
 
     # arj "She fooled us all."
-    arj "She fooled us all."
+    arj "她把我们都耍了。"
 
 # game/code/e04/e04s03.rpy:87
 translate chinese e04s03_04ac2bf3:
 
     # sy "Especially [mcname]."
-    sy "Especially [mcname]."
+    sy "尤其是[mcname]。"
 
 # game/code/e04/e04s03.rpy:89
 translate chinese e04s03_698eaee2:
 
     # mc "Hey. I'm only human."
-    mc "Hey. I'm only human."
+    mc "嘿，我只是个普通人。"
 
 # game/code/e04/e04s03.rpy:92
 translate chinese e04s03_7d1d813f:
 
     # arj "So, where is the wicked witch?"
-    arj "So, where is the wicked witch?"
+    arj "那个邪恶女巫在哪呢？"
 
 # game/code/e04/e04s03.rpy:94
 translate chinese e04s03_549a387a:
 
     # mc "Resting from my latest attempt to break her. She's a tough cookie."
-    mc "Resting from my latest attempt to break her. She's a tough cookie."
+    mc "她因为我不久前的尝试打击而休息着呢。真是不好对付。"
 
 # game/code/e04/e04s03.rpy:97
 translate chinese e04s03_9cce6f4a:
 
     # arj "Will she try anything while we're working?"
-    arj "Will she try anything while we're working?"
+    arj "她会在我们工作的时候尝试有所动作吗？"
 
 # game/code/e04/e04s03.rpy:99
 translate chinese e04s03_fca52711:
 
     # mc "No."
-    mc "No."
+    mc "不会。"
 
 # game/code/e04/e04s03.rpy:102
 translate chinese e04s03_8b35aae1:
 
     # mc "Hannibal Lecter would be jealous if he saw all the chains I have on her."
-    mc "Hannibal Lecter would be jealous if he saw all the chains I have on her."
+    mc "如果食人魔汉尼拔看到我给她戴的镣铐，肯定会嫉妒死的。"
 
 # game/code/e04/e04s03.rpy:103
 translate chinese e04s03_ae1e7e65:
 
     # mc "Should give us plenty of time to build the cell."
-    mc "Should give us plenty of time to build the cell."
+    mc "我们应该有足够的时间建造牢房。"
 
 # game/code/e04/e04s03.rpy:106
 translate chinese e04s03_622db9a1:
 
     # mc "Ready for our new cage project?"
-    mc "Ready for our new cage project?"
+    mc "准备好开始我们的新笼子项目了吗？"
 
 # game/code/e04/e04s03.rpy:108
 translate chinese e04s03_6b9b0a58:
 
     # sy "Oh yeah!"
-    sy "Oh yeah!"
+    sy "哦耶！"
 
 # game/code/e04/e04s03.rpy:113
 translate chinese e04s03_5e57dcdd:
 
     # arj "I wonder if I can put prison construction on my CV."
-    arj "I wonder if I can put prison construction on my CV."
+    arj "不知道我能不能把监狱建设写进简历里。"
 
 # game/code/e04/e04s03.rpy:115
 translate chinese e04s03_9a5e09a8:
 
     # sy "You should. I'm thinking of adding prisoner rehabilitation specialist to mine."
-    sy "You should. I'm thinking of adding prisoner rehabilitation specialist to mine."
+    sy "你应该写上去。我正在考虑在我的简历上加上囚犯改造专家的名号。"
 
 # game/code/e04/e04s03.rpy:118
 translate chinese e04s03_4acd1b81:
 
     # arj "Prisoner rehabilitation specialists. That's kind of a mouthful."
-    arj "Prisoner rehabilitation specialists. That's kind of a mouthful."
+    arj "囚犯改造专家。这个词有点累嘴。"
 
 # game/code/e04/e04s03.rpy:120
 translate chinese e04s03_38f225e9:
 
     # mc "That's what she said."
-    mc "That's what she said."
+    mc "要大尺度发车了啊。"
 
 # game/code/e04/e04s03.rpy:122
 translate chinese e04s03_60e11c93:
 
     # sy "Hahaha."
-    sy "Hahaha."
+    sy "哈哈哈。"
 
 # game/code/e04/e04s03.rpy:125
 translate chinese e04s03_3671c103:
 
     # arj "Come, you two. We're here to make a special box for a menace to society. This is no time for jokes."
-    arj "Come, you two. We're here to make a special box for a menace to society. This is no time for jokes."
+    arj "过来吧，你们两个。我们来是为了给一个对社会有害的人做个特殊的盒子。现在可不是开玩笑的时候。"
 
 # game/code/e04/e04s03.rpy:127
 translate chinese e04s03_e7c189ba:
 
     # mc "Good point. Let's do this thing."
-    mc "Good point. Let's do this thing."
+    mc "说得好。我们开始吧。"
 
 # game/code/e04/e04s03.rpy:144
 translate chinese e04s03_c3026d09:
 
     # sy "Yup. We good?"
-    sy "Yup. We good?"
+    sy "齐活。可以了吗？"
 
 # game/code/e04/e04s03.rpy:146
 translate chinese e04s03_6c42f098:
 
     # arj "Looking good."
-    arj "Looking good."
+    arj "看起来不错。"
 
 # game/code/e04/e04s03.rpy:149
 translate chinese e04s03_97d32ee9:
 
     # sy "Not bad."
-    sy "Not bad."
+    sy "是不错。"
 
 # game/code/e04/e04s03.rpy:151
 translate chinese e04s03_0415cca1:
 
     # mc "Not bad at all."
-    mc "Not bad at all."
+    mc "非常不错。"
 
 # game/code/e04/e04s03.rpy:153
 translate chinese e04s03_7281851c:
