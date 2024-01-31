@@ -4,463 +4,463 @@
 translate chinese e04s04_31d723d4:
 
     # mc "Damn, you look like you've been busy."
-    mc "Damn, you look like you've been busy."
+    mc "我去，你看起来像是大战过。"
 
 # game/code/e04/e04s04.rpy:18
 translate chinese e04s04_9997a8bb:
 
     # sy "You have... No... Idea."
-    sy "You have... No... Idea."
+    sy "你...知道...个屁。"
 
 # game/code/e04/e04s04.rpy:21
 translate chinese e04s04_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "哦？"
 
 # game/code/e04/e04s04.rpy:24
 translate chinese e04s04_c240ca3d:
 
     # sy "Yeah. I didn't expect AmRose to be so..."
-    sy "Yeah. I didn't expect AmRose to be so..."
+    sy "哎，没想到爱洛丝这么..."
 
 # game/code/e04/e04s04.rpy:27
 translate chinese e04s04_d315a09f:
 
     # mc "Subservient? Bratty? Twisted?"
-    mc "Subservient? Bratty? Twisted?"
+    mc "顺从？顽劣？扭曲？"
 
 # game/code/e04/e04s04.rpy:30
 translate chinese e04s04_523f0649:
 
     # sy "{i}Pliable.{/i}"
-    sy "{i}Pliable.{/i}"
+    sy "{i}柔软。{/i}"
 
 # game/code/e04/e04s04.rpy:33
 translate chinese e04s04_563c7f20:
 
     # mc "You can't just leave that hanging there without an explanation."
-    mc "You can't just leave that hanging there without an explanation."
+    mc "你不能就这么吊着我，而不加以解释。"
 
 # game/code/e04/e04s04.rpy:36
 translate chinese e04s04_071b5183:
 
     # sy "Can I have some water first? I'm parched."
-    sy "Can I have some water first? I'm parched."
+    sy "我能先喝点水吗？我口干舌燥。"
 
 # game/code/e04/e04s04.rpy:43
 translate chinese e04s04_81a5684a:
 
     # sy "God, that's so much better. Phew."
-    sy "God, that's so much better. Phew."
+    sy "天哪，现在好多了。呼。"
 
 # game/code/e04/e04s04.rpy:44
 translate chinese e04s04_2930c24c:
 
     # sy "When we first started working together, she was hesitant. You know, she'd do anything I told her to, within reason."
-    sy "When we first started working together, she was hesitant. You know, she'd do anything I told her to, within reason."
+    sy "我们刚开始合作时，她很犹豫。你知道，在合理的范围内，我让她做什么她都会做。"
 
 # game/code/e04/e04s04.rpy:45
 translate chinese e04s04_5393d4c2:
 
     # sy "But now, Jeeeesus! She's turned into a servile little animal."
-    sy "But now, Jeeeesus! She's turned into a servile little animal."
+    sy "但现在，我滴个天哪！她变成了一个奴颜婢膝的小动物。"
 
 # game/code/e04/e04s04.rpy:48
 translate chinese e04s04_ad1eaa57:
 
     # mc "Huh."
-    mc "Huh."
+    mc "哈。"
 
 # game/code/e04/e04s04.rpy:51
 translate chinese e04s04_171c4aa2:
 
     # sy "Like, I just pissed straight into her mouth. Then she thanked me! Then she asked me if I had to {i}relieve{/i} any other of my needs."
-    sy "Like, I just pissed straight into her mouth. Then she thanked me! Then she asked me if I had to {i}relieve{/i} any other of my needs."
+    sy "比如说，我刚才尿到她嘴里了。然后她还谢谢我！接下来她问我是否还需要{i}缓解{/i}我的其他需求。"
 
 # game/code/e04/e04s04.rpy:54
 translate chinese e04s04_b19633d8:
 
     # mc "Well, damn. That's impressive Stacy."
-    mc "Well, damn. That's impressive Stacy."
+    mc "我去，史黛西。你可真厉害。"
 
 # game/code/e04/e04s04.rpy:57
 translate chinese e04s04_c5f41350:
 
     # sy "Thank you, so far it's my best work. How are things going for you and your little prisoner?"
-    sy "Thank you, so far it's my best work. How are things going for you and your little prisoner?"
+    sy "谢谢你，到目前为止，这是我最好的作品。你和你的小囚犯怎么样了？"
 
 # game/code/e04/e04s04.rpy:60
 translate chinese e04s04_d0b7c871:
 
     # mc "Not even close to that well. She still talks back, still won't listen. Every time we have a session I spend the first half of it trying to break her."
-    mc "Not even close to that well. She still talks back, still won't listen. Every time we have a session I spend the first half of it trying to break her."
+    mc "还差得远呢。她还是顶嘴，不愿意听话。每次我们谈话的前半部分，我都在试图打垮她。"
 
 # game/code/e04/e04s04.rpy:61
 translate chinese e04s04_5cfbc5c7:
 
     # mc "But she bucks like a bronco. And I am running out of ideas."
-    mc "But she bucks like a bronco. And I am running out of ideas."
+    mc "但她像匹野马一样倔强。我已经没辙了。"
 
 # game/code/e04/e04s04.rpy:64
 translate chinese e04s04_754efad9:
 
     # sy "Have you tried giving her a demonstration of what a good prisoner looks like?"
-    sy "Have you tried giving her a demonstration of what a good prisoner looks like?"
+    sy "你有没有试过给她做个示范，让她看看好囚犯是什么样子的？"
 
 # game/code/e04/e04s04.rpy:67
 translate chinese e04s04_07bfebdc:
 
     # mc "I mean, she's seen AmRose, but maybe she needs a different example?"
-    mc "I mean, she's seen AmRose, but maybe she needs a different example?"
+    mc "我是说，她见过爱洛丝，但也许她需要一个不同的榜样？"
 
 # game/code/e04/e04s04.rpy:69
 translate chinese e04s04_71d776f2:
 
     # mc "Who do we know who's going to willingly sign up for a BDSM prison?"
-    mc "Who do we know who's going to willingly sign up for a BDSM prison?"
+    mc "我们认识的人里有谁会自愿加入BDSM监狱呢？"
 
 # game/code/e04/e04s04.rpy:73
 translate chinese e04s04_f5bd554f:
 
     # "Both" "Daisy!"
-    "Both" "Daisy!"
+    "两人" "黛西！"
 
 # game/code/e04/e04s04.rpy:74
 translate chinese e04s04_b573a727:
 
     # sy "She's perfect."
-    sy "She's perfect."
+    sy "她很完美。"
 
 # game/code/e04/e04s04.rpy:77
 translate chinese e04s04_d0effc72:
 
     # mc "And she'll fit right in."
-    mc "And she'll fit right in."
+    mc "她也很适合。"
 
 # game/code/e04/e04s04.rpy:82
 translate chinese e04s04_5e58ceff:
 
     # sy "Give her a call, tell her to come over. I need to get more water."
-    sy "Give her a call, tell her to come over. I need to get more water."
+    sy "给她打个电话，让她过来一趟。我需要多喝点水。"
 
 # game/code/e04/e04s04.rpy:85
 translate chinese e04s04_10fe358b:
 
     # mc "Hard work will make you dehydrated."
-    mc "Hard work will make you dehydrated."
+    mc "辛勤工作让人脱水啊。"
 
 # game/code/e04/e04s04.rpy:94
 translate chinese e04s04_e8dd8251:
 
     # mc "Hey! Daisy! How're you?"
-    mc "Hey! Daisy! How're you?"
+    mc "嘿！黛西！你好吗？"
 
 # game/code/e04/e04s04.rpy:95
 translate chinese e04s04_80144fae:
 
     # mc "I'm good, but I do have a small problem I think you can help me with."
-    mc "I'm good, but I do have a small problem I think you can help me with."
+    mc "我很好，但我有个小问题，我想你能帮我解决。"
 
 # game/code/e04/e04s04.rpy:98
 translate chinese e04s04_16b61d92:
 
     # mc "Oh, I'm staying at Lydia's right now. It's a long story, I'll tell you when you get here."
-    mc "Oh, I'm staying at Lydia's right now. It's a long story, I'll tell you when you get here."
+    mc "哦，我现在住在莉迪亚家。说来话长，等你来了我再告诉你。"
 
 # game/code/e04/e04s04.rpy:107
 translate chinese e04s04_later_9e7addf4:
 
     # dd "So you got it situated with the Judge to have Lydia put on house arrest and you're her..."
-    dd "So you got it situated with the Judge to have Lydia put on house arrest and you're her..."
+    dd "所以你跟法官谈好了，要软禁莉迪亚，而你是她的..."
 
 # game/code/e04/e04s04.rpy:111
 translate chinese e04s04_later_5d4594fe:
 
     # mc "[alt_mcname]. Yep, that's pretty much the whole story."
-    mc "[alt_mcname]. Yep, that's pretty much the whole story."
+    mc "[alt_mcname]。是的，基本就是这样。"
 
 # game/code/e04/e04s04.rpy:113
 translate chinese e04s04_later_9e399cf7:
 
     # mc "Jailer? Warden? Something like that, yeah."
-    mc "Jailer? Warden? Something like that, yeah."
+    mc "叫我狱卒？或是典狱长？差不多吧。"
 
 # game/code/e04/e04s04.rpy:116
 translate chinese e04s04_later_096f9f8d:
 
     # dd "So why did you call me over?"
-    dd "So why did you call me over?"
+    dd "那你为什么叫我过来？"
 
 # game/code/e04/e04s04.rpy:119
 translate chinese e04s04_later_f115ea73:
 
     # mc "I've been having some problems with breaking her. I've tried all the punishments I can think of, even some I've had to look up on the internet."
-    mc "I've been having some problems with breaking her. I've tried all the punishments I can think of, even some I've had to look up on the internet."
+    mc "我在打压她的时候遇到了一些问题。我能想到的惩罚方法我都试过了，甚至有些还得上网查。"
 
 # game/code/e04/e04s04.rpy:120
 translate chinese e04s04_later_f2c8b243:
 
     # mc "Short of breaking the Geneva Convention, I'm running out of ideas. Fast."
-    mc "Short of breaking the Geneva Convention, I'm running out of ideas. Fast."
+    mc "除了违反《日内瓦公约》，我没别的办法了。黔驴技穷了。"
 
 # game/code/e04/e04s04.rpy:123
 translate chinese e04s04_later_349943b9:
 
     # dd "Uh-huh."
-    dd "Uh-huh."
+    dd "嗯哼。"
 
 # game/code/e04/e04s04.rpy:126
 translate chinese e04s04_later_e8defab3:
 
     # mc "Stacy suggested-"
-    mc "Stacy suggested-"
+    mc "史黛西建议--"
 
 # game/code/e04/e04s04.rpy:130
 translate chinese e04s04_later_702f73e5:
 
     # dd "Oh, your sister is here! Where?"
-    dd "Oh, your sister is here! Where?"
+    dd "哦，你妹妹来了啊！在哪儿呢？"
 
 # game/code/e04/e04s04.rpy:132
 translate chinese e04s04_later_0d02e366:
 
     # dd "Oh, Stacy is here! Where is she?"
-    dd "Oh, Stacy is here! Where is she?"
+    dd "哦，史黛西来了！她在哪儿？"
 
 # game/code/e04/e04s04.rpy:135
 translate chinese e04s04_later_d09d9759:
 
     # mc "She's downstairs with AmRose."
-    mc "She's downstairs with AmRose."
+    mc "她和爱洛丝在楼下。"
 
 # game/code/e04/e04s04.rpy:138
 translate chinese e04s04_later_8cd97895:
 
     # dd "And AmRose is here!?"
-    dd "And AmRose is here!?"
+    dd "爱洛丝也在这里!?"
 
 # game/code/e04/e04s04.rpy:141
 translate chinese e04s04_later_739ba31b:
 
     # mc "Yeah, that's a whole other story. Short version; Stacy is kind of helping me run things and AmRose wanted to stay here as another one of my free-use prisoners."
-    mc "Yeah, that's a whole other story. Short version; Stacy is kind of helping me run things and AmRose wanted to stay here as another one of my free-use prisoners."
+    mc "是啊，这又是另一回事了。简而言之，史黛西在帮我管理监狱，而爱洛丝想留在这里，成为我的另一个可供差遣的囚犯。"
 
 # game/code/e04/e04s04.rpy:144
 translate chinese e04s04_later_c907a7f9:
 
     # dd "Wow, this is all so exciting."
-    dd "Wow, this is all so exciting."
+    dd "哇，这一切也太刺激了。"
 
 # game/code/e04/e04s04.rpy:147
 translate chinese e04s04_later_75c5d77a:
 
     # mc "How would you like a tour, and then I can explain what I need your help for."
-    mc "How would you like a tour, and then I can explain what I need your help for."
+    mc "你想不想先参观一下，然后我再向你解释我需要你怎么帮我。"
 
 # game/code/e04/e04s04.rpy:150
 translate chinese e04s04_later_3c317626:
 
     # dd "Yay! This summer just got a whole lot more exciting!"
-    dd "Yay! This summer just got a whole lot more exciting!"
+    dd "耶！这个夏天变得更刺激了！"
 
 # game/code/e04/e04s04.rpy:153
 translate chinese e04s04_later_5ea23fd8:
 
     # mc "Follow me then!"
-    mc "Follow me then!"
+    mc "那就跟我来吧！"
 
 # game/code/e04/e04s04.rpy:162
 translate chinese e04s04_later_77337515:
 
     # dd "Hey, Stacy!"
-    dd "Hey, Stacy!"
+    dd "嘿，史黛西！"
 
 # game/code/e04/e04s04.rpy:165
 translate chinese e04s04_later_499b9e6b:
 
     # sy "Oh my God. Hey Daisy!"
-    sy "Oh my God. Hey Daisy!"
+    sy "哦，我的天。嘿，黛西！"
 
 # game/code/e04/e04s04.rpy:168
 translate chinese e04s04_later_8ffce72c:
 
     # sy "Don't you dare move a muscle. Or I'll put some rice down on the floor, and you better not spill a drop."
-    sy "Don't you dare move a muscle. Or I'll put some rice down on the floor, and you better not spill a drop."
+    sy "你敢动一下。否则我就把饭倒在地上，你最好一滴都别洒出来。"
 
 # game/code/e04/e04s04.rpy:171
 translate chinese e04s04_later_fa549897:
 
     # sy "God, it's so good to see you!"
-    sy "God, it's so good to see you!"
+    sy "天啊，见到你真高兴！"
 
 # game/code/e04/e04s04.rpy:174
 translate chinese e04s04_later_158e79ca:
 
     # dd "You too, I like the new outfit."
-    dd "You too, I like the new outfit."
+    dd "我也是，我喜欢你的新造型。"
 
 # game/code/e04/e04s04.rpy:177
 translate chinese e04s04_later_9f31aa7e:
 
     # sy "Thanks, one of the many perks of the job."
-    sy "Thanks, one of the many perks of the job."
+    sy "谢谢，这是这份工作的诸多福利之一。"
 
 # game/code/e04/e04s04.rpy:180
 translate chinese e04s04_later_d8b1f117:
 
     # mc "Whatever you're doing to AmRose being one of those other perks?"
-    mc "Whatever you're doing to AmRose being one of those other perks?"
+    mc "不管你对爱洛丝做了什么，都是众多福利之一吗？"
 
 # game/code/e04/e04s04.rpy:183
 translate chinese e04s04_later_8ddcd040:
 
     # sy "Uh huh! She left a little mess after our session, so she's being punished."
-    sy "Uh huh! She left a little mess after our session, so she's being punished."
+    sy "嗯哼！她在我们的会面结束后留下了一个小烂摊子，所以要惩罚她。"
 
 # game/code/e04/e04s04.rpy:186
 translate chinese e04s04_later_c68c84a2:
 
     # dd "What, uhm, exactly are you doing to her."
-    dd "What, uhm, exactly are you doing to her."
+    dd "什么，呃，你到底对她做了什么？"
 
 # game/code/e04/e04s04.rpy:189
 translate chinese e04s04_later_c7903b13:
 
     # sy "I've come up with a punishment for each of her misdeeds. It's actually pretty smart, if I do say so myself."
-    sy "I've come up with a punishment for each of her misdeeds. It's actually pretty smart, if I do say so myself."
+    sy "我已经为她的每一个错误行为想好了惩罚措施。要我自己这么说的话，这些招其实很聪明。"
 
 # game/code/e04/e04s04.rpy:192
 translate chinese e04s04_later_d572fa6c:
 
     # sy "She has the mouth spreader on because if she's not allowed to close her mouth until she's done doing what she's told."
-    sy "She has the mouth spreader on because if she's not allowed to close her mouth until she's done doing what she's told."
+    sy "她戴着扩口器，因为如果她不按照要求去做，就不能闭上嘴巴。"
 
 # game/code/e04/e04s04.rpy:193
 translate chinese e04s04_later_4162b31f:
 
     # sy "She's my chair, as a reminder that she is merely an object to me. Her function is her worth."
-    sy "She's my chair, as a reminder that she is merely an object to me. Her function is her worth."
+    sy "提醒我她对我来说只是一个物体。她的功能就是她的价值。"
 
 # game/code/e04/e04s04.rpy:196
 translate chinese e04s04_later_e4681103:
 
     # sy "And she's got a piss enema going on right now, because she should be cleaned of all her misdeeds. And everything that happens to her now is because of my say so."
-    sy "And she's got a piss enema going on right now, because she should be cleaned of all her misdeeds. And everything that happens to her now is because of my say so."
+    sy "她现在正在小便灌肠，因为她应该洗清所有的罪行。现在发生在她身上的一切都是因为我的命令。"
 
 # game/code/e04/e04s04.rpy:197
 translate chinese e04s04_later_de6fc372:
 
     # sy "And the spankings were just because I felt like it."
-    sy "And the spankings were just because I felt like it."
+    sy "打屁股只是因为我喜欢。"
 
 # game/code/e04/e04s04.rpy:200
 translate chinese e04s04_later_35d5f627:
 
     # sy "Isn't that right, my little plaything?"
-    sy "Isn't that right, my little plaything?"
+    sy "对不对，我的小玩物？"
 
 # game/code/e04/e04s04.rpy:206
 translate chinese e04s04_later_0f082b1e:
 
     # sy "What do we say when the guard touches you?"
-    sy "What do we say when the guard touches you?"
+    sy "当警卫碰到你的时候，我们该怎么说？"
 
 # game/code/e04/e04s04.rpy:209
 translate chinese e04s04_later_ecde8d8c:
 
     # arj "... 'ank ooo."
-    arj "... 'ank ooo."
+    arj "... '谢...谢。"
 
 # game/code/e04/e04s04.rpy:212
 translate chinese e04s04_later_610148cc:
 
     # sy "Good little plaything."
-    sy "Good little plaything."
+    sy "真乖的小玩物。"
 
 # game/code/e04/e04s04.rpy:215
 translate chinese e04s04_later_7102e08c:
 
     # dd "Looks like you two are having all the fun."
-    dd "Looks like you two are having all the fun."
+    dd "看来你们俩玩得很开心。"
 
 # game/code/e04/e04s04.rpy:218
 translate chinese e04s04_later_d31ca4be:
 
     # sy "Oh, we are! At least a lot more fun than [mcname] is having."
-    sy "Oh, we are! At least a lot more fun than [mcname] is having."
+    sy "哦，我们开心的不得了！至少比[mcname]玩得开心多了。"
 
 # game/code/e04/e04s04.rpy:221
 translate chinese e04s04_later_ab835b85:
 
     # dd "Oh really?"
-    dd "Oh really?"
+    dd "哦，真的吗？"
 
 # game/code/e04/e04s04.rpy:224
 translate chinese e04s04_later_1a65f03a:
 
     # mc "That's true. I'll show you. It'll also help explain why I need you, Daisy."
-    mc "That's true. I'll show you. It'll also help explain why I need you, Daisy."
+    mc "是的。我带你去看。这也有助于解释我为什么需要你，黛西。"
 
 # game/code/e04/e04s04.rpy:229
 translate chinese e04s04_later_fa297984:
 
     # lc "Fuck you, [mcname]."
-    lc "Fuck you, [mcname]."
+    lc "去你妈的，[mcname]。"
 
 # game/code/e04/e04s04.rpy:232
 translate chinese e04s04_later_e15904fd:
 
     # mc "This is what I've been dealing with."
-    mc "This is what I've been dealing with."
+    mc "这就是我一直在面对的状况。"
 
 # game/code/e04/e04s04.rpy:235
 translate chinese e04s04_later_44092573:
 
     # dd "Yikes."
-    dd "Yikes."
+    dd "哎呀。"
 
 # game/code/e04/e04s04.rpy:238
 translate chinese e04s04_later_beef5f0f:
 
     # mc "Yeah. I'm jealous of what Stacy's got going with AmRose right now. That's a cakewalk compared to this..."
-    mc "Yeah. I'm jealous of what Stacy's got going with AmRose right now. That's a cakewalk compared to this..."
+    mc "是啊。我嫉妒史黛西现在和爱洛丝的关系。比起这个，她们简直是小菜一碟..."
 
 # game/code/e04/e04s04.rpy:241
 translate chinese e04s04_later_05c9b816:
 
     # lc "You know I can hear you, right!?"
-    lc "You know I can hear you, right!?"
+    lc "你知道我能听见你，对吧!?"
 
 # game/code/e04/e04s04.rpy:244
 translate chinese e04s04_later_0d4b1798:
 
     # mc "I don't give a shit if you can or can't hear me."
-    mc "I don't give a shit if you can or can't hear me."
+    mc "我才不管你听不听得到我。"
 
 # game/code/e04/e04s04.rpy:247
 translate chinese e04s04_later_a1f0eb59:
 
     # lc "You pathetic, fucking loser."
-    lc "You pathetic, fucking loser."
+    lc "你这个可悲的废物。"
 
 # game/code/e04/e04s04.rpy:250
 translate chinese e04s04_later_571c0214:
 
     # dd "What have you all tried with her?"
-    dd "What have you all tried with her?"
+    dd "你都对她做了什么？"
 
 # game/code/e04/e04s04.rpy:253
 translate chinese e04s04_later_366b6d14:
 
     # mc "You name it. Flogging, spitting, stress positions, ... The list goes on."
-    mc "You name it. Flogging, spitting, stress positions, ... The list goes on."
+    mc "你能想到的我都试过了。鞭打、吐口水、高压拷打...这样的例子都数不过来。"
 
 # game/code/e04/e04s04.rpy:256
 translate chinese e04s04_later_8e58a639:
 
     # dd "What about... A good example?"
-    dd "What about... A good example?"
+    dd "那...树个好榜样怎么样？"
 
 # game/code/e04/e04s04.rpy:259
 translate chinese e04s04_later_0fee6e3d:
