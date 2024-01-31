@@ -850,397 +850,397 @@ translate chinese e04s03_bring_lc_11d2894b:
 translate chinese e04s03_bring_lc_05bf007c:
 
     # sy "Woah. Someone is in a cock-hungry mode."
-    sy "Woah. Someone is in a cock-hungry mode."
+    sy "哇。有人开启了'鸡巴饥渴症'模式。"
 
 # game/code/e04/e04s03.rpy:469
 translate chinese e04s03_bring_lc_f0c3c598:
 
     # arj "Hey. Like you wouldn't be doing the same if I was the one handling Lydia."
-    arj "Hey. Like you wouldn't be doing the same if I was the one handling Lydia."
+    arj "嘿。如果是我在对付莉迪亚，你也会这么做吧。"
 
 # game/code/e04/e04s03.rpy:471
 translate chinese e04s03_bring_lc_5471b8c5:
 
     # sy "Guilty as charged."
-    sy "Guilty as charged."
+    sy "罪名成立。"
 
 # game/code/e04/e04s03.rpy:475
 translate chinese e04s03_bring_lc_3cb490ab:
 
     # arj "Mmrrrm... that's it, [mcname]. Use my tits."
-    arj "Mmrrrm... that's it, [mcname]. Use my tits."
+    arj "嗯嗯嗯...就是这样，[mcname]。用我的奶子。"
 
 # game/code/e04/e04s03.rpy:476
 translate chinese e04s03_bring_lc_3eb7c6a7:
 
     # arj "Use my body to cum."
-    arj "Use my body to cum."
+    arj "用我的身体射精。"
 
 # game/code/e04/e04s03.rpy:496
 translate chinese e04s03_bring_lc_a7ebb145:
 
     # arj "Yes. Your cock feels so hard and warm."
-    arj "Yes. Your cock feels so hard and warm."
+    arj "啊。你的鸡巴又硬又烫。"
 
 # game/code/e04/e04s03.rpy:497
 translate chinese e04s03_bring_lc_0846717e:
 
     # arj "Let me make you feel good, [mcname]."
-    arj "Let me make you feel good, [mcname]."
+    arj "我来让你爽翻天，[mcname]。"
 
 # game/code/e04/e04s03.rpy:499
 translate chinese e04s03_bring_lc_3647eb1f:
 
     # arj "*moans* Without you, we never would have stopped Lydia."
-    arj "*moans* Without you, we never would have stopped Lydia."
+    arj "*呻吟* 没有你，我们永远也阻止不了莉迪亚。"
 
 # game/code/e04/e04s03.rpy:500
 translate chinese e04s03_bring_lc_44214716:
 
     # mc "Nrnn.."
-    mc "Nrnn.."
+    mc "啊..."
 
 # game/code/e04/e04s03.rpy:501
 translate chinese e04s03_bring_lc_8f5a85d4:
 
     # arj "You deserve all the pleasure I can give you."
-    arj "You deserve all the pleasure I can give you."
+    arj "我给你的快乐都是你应得的。"
 
 # game/code/e04/e04s03.rpy:503
 translate chinese e04s03_bring_lc_94c5c7c9:
 
     # mc "AmRose. I'm close..."
-    mc "AmRose. I'm close..."
+    mc "爱洛丝。我快到了..."
 
 # game/code/e04/e04s03.rpy:504
 translate chinese e04s03_bring_lc_48e6cdcf:
 
     # arj "Cum... cum on my face. Cum on my face while she watches!"
-    arj "Cum... cum on my face. Cum on my face while she watches!"
+    arj "射...射在我脸上。射我脸上，让她看着！"
 
 # game/code/e04/e04s03.rpy:508
 translate chinese e04s03_bring_lc_0555ed03:
 
     # mc "Nrrrhah... Mrm..."
-    mc "Nrrrhah... Mrm..."
+    mc "唔...哇啊啊..."
 
 # game/code/e04/e04s03.rpy:509
 translate chinese e04s03_bring_lc_d72d815e:
 
     # arj "*moans happily*"
-    arj "*moans happily*"
+    arj "*快乐地呻吟着*"
 
 # game/code/e04/e04s03.rpy:512
 translate chinese e04s03_bring_lc_e277b4ad:
 
     # arj "Ooouhaah..."
-    arj "Ooouhaah..."
+    arj "哦哈哈..."
 
 # game/code/e04/e04s03.rpy:514
 translate chinese e04s03_bring_lc_530496d8:
 
     # mc "It's been too long since I came on that beautiful face."
-    mc "It's been too long since I came on that beautiful face."
+    mc "我已经很久没有射在这张美丽的脸庞上了。"
 
 # game/code/e04/e04s03.rpy:517
 translate chinese e04s03_bring_lc_bce9c6fa:
 
     # arj "Yes..."
-    arj "Yes..."
+    arj "是的..."
 
 # game/code/e04/e04s03.rpy:522
 translate chinese e04s03_bring_lc_64b920e4:
 
     # sy "Still thinking I won't get you to break?"
-    sy "Still thinking I won't get you to break?"
+    sy "还觉得我不能让你崩溃吗？"
 
 # game/code/e04/e04s03.rpy:524
 translate chinese e04s03_bring_lc_060a1a68:
 
     # lc "*whimpers*"
-    lc "*whimpers*"
+    lc "*呜咽*"
 
 # game/code/e04/e04s03.rpy:527
 translate chinese e04s03_bring_lc_22ad8e84:
 
     # lc "I... I can do this all day."
-    lc "I... I can do this all day."
+    lc "我...我可以一整天都这样。"
 
 # game/code/e04/e04s03.rpy:529
 translate chinese e04s03_bring_lc_987f1326:
 
     # sy "Mmmm. Not bad. I hope you don't mind me knocking things up a notch."
-    sy "Mmmm. Not bad. I hope you don't mind me knocking things up a notch."
+    sy "嗯。还不错。希望你不介意我把场面再搞更大些。"
 
 # game/code/e04/e04s03.rpy:532
 translate chinese e04s03_bring_lc_04987658:
 
     # lc "Whah-"
-    lc "Whah-"
+    lc "什么--"
 
 # game/code/e04/e04s03.rpy:535
 translate chinese e04s03_bring_lc_bfcc7ca8:
 
     # lc "Fuuuhaaakk-frra-grraaah-mrrraah..."
-    lc "Fuuuhaaakk-frra-grraaah-mrrraah..."
+    lc "操操操-啊-呼呼-啊啊啊啊啊..."
 
 # game/code/e04/e04s03.rpy:538
 translate chinese e04s03_bring_lc_dc169061:
 
     # sy "Oh yeah. You're real tough, Lydia."
-    sy "Oh yeah. You're real tough, Lydia."
+    sy "哦耶。你真坚强，莉迪亚。"
 
 # game/code/e04/e04s03.rpy:540
 translate chinese e04s03_bring_lc_cdcf2229:
 
     # lc "Guah..."
-    lc "Guah..."
+    lc "啊..."
 
 # game/code/e04/e04s03.rpy:543
 translate chinese e04s03_bring_lc_4e81938d:
 
     # lc "You..."
-    lc "You..."
+    lc "你..."
 
 # game/code/e04/e04s03.rpy:545
 translate chinese e04s03_bring_lc_4b00d4b3:
 
     # sy "How can Dr. Stacy help you?"
-    sy "How can Dr. Stacy help you?"
+    sy "史黛西医生能为你提供什么帮助？"
 
 # game/code/e04/e04s03.rpy:546
 translate chinese e04s03_bring_lc_87529039:
 
     # lc "Eat. My. Ass."
-    lc "Eat. My. Ass."
+    lc "舔。老娘。屁股。"
 
 # game/code/e04/e04s03.rpy:549
 translate chinese e04s03_bring_lc_e8a7b083:
 
     # sy "Hmmm. You first."
-    sy "Hmmm. You first."
+    sy "这样啊。你先来。"
 
 # game/code/e04/e04s03.rpy:552
 translate chinese e04s03_bring_lc_f751eaee:
 
     # lc "Wurrrlpphh!"
-    lc "Wurrrlpphh!"
+    lc "呃呃呃！"
 
 # game/code/e04/e04s03.rpy:554
 translate chinese e04s03_bring_lc_677ed54f:
 
     # sy "Good girl. But... I think I deserve a little fun too."
-    sy "Good girl. But... I think I deserve a little fun too."
+    sy "好孩子。但是...我觉得我也该找点乐子。"
 
 # game/code/e04/e04s03.rpy:560
 translate chinese e04s03_bring_lc_5ac0fe87:
 
     # sy "Oouhaah... It's not your dick, bro, but it will do in a pinch."
-    sy "Oouhaah... It's not your dick, bro, but it will do in a pinch."
+    sy "哦哈哈哈...这不是你的小弟弟，老哥，但在紧要关头也可以用。"
 
 # game/code/e04/e04s03.rpy:562
 translate chinese e04s03_bring_lc_a8eacb16:
 
     # sy "Oouhaah... It's not your dick, [mcname], but it will do in a pinch."
-    sy "Oouhaah... It's not your dick, [mcname], but it will do in a pinch."
+    sy "哦哈哈哈...这不是你的小弟弟，[mcname]，但在紧要关头也可以用。"
 
 # game/code/e04/e04s03.rpy:579
 translate chinese e04s03_bring_lc_706b2cfc:
 
     # lc "Glluurrkkk!"
-    lc "Glluurrkkk!"
+    lc "噶啊啊啊！"
 
 # game/code/e04/e04s03.rpy:580
 translate chinese e04s03_bring_lc_e567cb93:
 
     # lc "*gags and moans*"
-    lc "*gags and moans*"
+    lc "*堵着嘴的呻吟*"
 
 # game/code/e04/e04s03.rpy:591
 translate chinese e04s03_bring_lc_244d72c9:
 
     # sy "Taste the justice, bitch!"
-    sy "Taste the justice, bitch!"
+    sy "尝尝正义的滋味吧，婊子！"
 
 # game/code/e04/e04s03.rpy:592
 translate chinese e04s03_bring_lc_f02551ba:
 
     # lc "Flrlrruhh....dffffhuuu!"
-    lc "Flrlrruhh....dffffhuuu!"
+    lc "噗噗噗...噢噢哦！"
 
 # game/code/e04/e04s03.rpy:596
 translate chinese e04s03_bring_lc_29bca71a:
 
     # arj "Please, [mcname]. I need you inside me."
-    arj "Please, [mcname]. I need you inside me."
+    arj "求求你，[mcname]。我需要你进到我里面来。"
 
 # game/code/e04/e04s03.rpy:599
 translate chinese e04s03_bring_lc_a65622e6:
 
     # arj "Yessss..."
-    arj "Yessss..."
+    arj "就是这样..."
 
 # game/code/e04/e04s03.rpy:602
 translate chinese e04s03_bring_lc_3381fc39:
 
     # mct "This is fucking amazing. Fucking AmRose while Stacy works over Lydia."
-    mct "This is fucking amazing. Fucking AmRose while Stacy works over Lydia."
+    mct "这感觉太他妈神奇了。我操着爱洛丝，而史黛西在解决莉迪亚。"
 
 # game/code/e04/e04s03.rpy:604
 translate chinese e04s03_bring_lc_2d90417c:
 
     # mct "But damn, I've missed my fiery redhead babe."
-    mct "But damn, I've missed my fiery redhead babe."
+    mct "可恶，我想念我的红发宝贝了。"
 
 # game/code/e04/e04s03.rpy:606
 translate chinese e04s03_bring_lc_bcfedcd8:
 
     # arj "Ahuuaah..."
-    arj "Ahuuaah..."
+    arj "哈啊..."
 
 # game/code/e04/e04s03.rpy:631
 translate chinese e04s03_bring_lc_963bb379:
 
     # mc "Shit. Were you always so tight?"
-    mc "Shit. Were you always so tight?"
+    mc "妈的。你一直都这么紧吗？"
 
 # game/code/e04/e04s03.rpy:632
 translate chinese e04s03_bring_lc_ecd9437a:
 
     # arj "You haven't fucked me in days."
-    arj "You haven't fucked me in days."
+    arj "你已经好几天没干我了。"
 
 # game/code/e04/e04s03.rpy:634
 translate chinese e04s03_bring_lc_75dc8388:
 
     # mc "Is my submissive slut complaining?"
-    mc "Is my submissive slut complaining?"
+    mc "我顺从的小荡妇是在抱怨吗？"
 
 # game/code/e04/e04s03.rpy:635
 translate chinese e04s03_bring_lc_f303df38:
 
     # arj "Not at all. It's just... ahuuah... so hard to relax my pussy when your big cock starts going like this."
-    arj "Not at all. It's just... ahuuah... so hard to relax my pussy when your big cock starts going like this."
+    arj "完全没有。只是...啊...当你的大鸡巴开始这样抽插时，我的小穴很难放松。"
 
 # game/code/e04/e04s03.rpy:638
 translate chinese e04s03_bring_lc_ab3a5a5a:
 
     # arj "Ahuuaah.. hhuh... ahhmmhuh... yes [mcname]. Give it to me."
-    arj "Ahuuaah.. hhuh... ahhmmhuh... yes [mcname]. Give it to me."
+    arj "啊...呼...哈啊...我要，[mcname]。都给我。"
 
 # game/code/e04/e04s03.rpy:639
 translate chinese e04s03_bring_lc_91c1a4bd:
 
     # arj "You're getting bigger inside me."
-    arj "You're getting bigger inside me."
+    arj "你在我身体里越来越大了。"
 
 # game/code/e04/e04s03.rpy:641
 translate chinese e04s03_bring_lc_9070aeb4:
 
     # arj "Please... please fill me up. Give it to me... Ahueuaah... I want it... so baduiiiiahuaah!"
-    arj "Please... please fill me up. Give it to me... Ahueuaah... I want it... so baduiiiiahuaah!"
+    arj "求你...求你填满我里面。给我...啊...我想要...好想要啊！"
 
 # game/code/e04/e04s03.rpy:642
 translate chinese e04s03_bring_lc_0d5b732e:
 
     # arj "Mrrrrhppuh..."
-    arj "Mrrrrhppuh..."
+    arj "哈啊啊啊啊..."
 
 # game/code/e04/e04s03.rpy:653
 translate chinese e04s03_bring_lc_e2bc6317:
 
     # mc "You came before me. Such a bad girl."
-    mc "You came before me. Such a bad girl."
+    mc "你射得比我早。真是个坏女孩。"
 
 # game/code/e04/e04s03.rpy:654
 translate chinese e04s03_bring_lc_ea0f68c6:
 
     # mc "Still, I shouldn't deny you..."
-    mc "Still, I shouldn't deny you..."
+    mc "不过，我还是不该拒绝你..."
 
 # game/code/e04/e04s03.rpy:658
 translate chinese e04s03_bring_lc_1c76976d:
 
     # arj "Awhuaaah..."
-    arj "Awhuaaah..."
+    arj "哇啊..."
 
 # game/code/e04/e04s03.rpy:669
 translate chinese e04s03_bring_lc_4ec9f9d2:
 
     # lc "Mrrruuaahffff..."
-    lc "Mrrruuaahffff..."
+    lc "呃呃呃呃..."
 
 # game/code/e04/e04s03.rpy:672
 translate chinese e04s03_bring_lc_699d8d9c:
 
     # lc "*gasps*"
-    lc "*gasps*"
+    lc "*喘息声*"
 
 # game/code/e04/e04s03.rpy:675
 translate chinese e04s03_bring_lc_58f80fb0:
 
     # sy "Deep breaths now. Good girl. Alright. Ready to behave now?"
-    sy "Deep breaths now. Good girl. Alright. Ready to behave now?"
+    sy "深呼吸。好孩子。好了。现在准备好乖乖的了吗？"
 
 # game/code/e04/e04s03.rpy:678
 translate chinese e04s03_bring_lc_514dc26a:
 
     # lc "*coughs* I...."
-    lc "*coughs* I...."
+    lc "*咳嗽* 我..."
 
 # game/code/e04/e04s03.rpy:679
 translate chinese e04s03_bring_lc_87edc8f6:
 
     # lc "*gags* I will never give you the satisfaction...{w} Never..."
-    lc "*gags* I will never give you the satisfaction...{w} Never..."
+    lc "*塞着嘴* 我永远不会让你如意...{w}永远不会..."
 
 # game/code/e04/e04s03.rpy:682
 translate chinese e04s03_bring_lc_c8786b76:
 
     # sy "And I thought goats were stubborn. Well, I still had a good time. And I hope you enjoyed your snack."
-    sy "And I thought goats were stubborn. Well, I still had a good time. And I hope you enjoyed your snack."
+    sy "看来山羊确实很顽固呢。不过，我还是玩得很开心。希望你喜欢你的点心。"
 
 # game/code/e04/e04s03.rpy:684
 translate chinese e04s03_bring_lc_7aa6b981:
 
     # mc "I've got another one for her. Prisoner 001, clean up AmRose for me."
-    mc "I've got another one for her. Prisoner 001, clean up AmRose for me."
+    mc "我又给她准备了一份。囚犯001，帮我清理一下爱洛丝。"
 
 # game/code/e04/e04s03.rpy:687
 translate chinese e04s03_bring_lc_83d46cc1:
 
     # lc "Fine..."
-    lc "Fine..."
+    lc "好..."
 
 # game/code/e04/e04s03.rpy:691
 translate chinese e04s03_bring_lc_a47e6515:
 
     # arj "Mmrrrhahh..."
-    arj "Mmrrrhahh..."
+    arj "嗯嗯嗯..."
 
 # game/code/e04/e04s03.rpy:693
 translate chinese e04s03_bring_lc_497118c8:
 
     # arj "I... nurrh... I think you can go deeper than that."
-    arj "I... nurrh... I think you can go deeper than that."
+    arj "我...啊...我觉得你可以再深入一点。"
 
 # game/code/e04/e04s03.rpy:695
 translate chinese e04s03_bring_lc_edacbbfe:
 
     # lc "Mrrmm..."
-    lc "Mrrmm..."
+    lc "嗯嗯..."
 
 # game/code/e04/e04s03.rpy:699
 translate chinese e04s03_bring_lc_0a49abbe:
 
     # lc "You three are the fucking worst."
-    lc "You three are the fucking worst."
+    lc "你们三个真他妈差劲。"
 
 # game/code/e04/e04s03.rpy:701
 translate chinese e04s03_bring_lc_44b1cf74:
 
     # mc "Ready to quit now?"
-    mc "Ready to quit now?"
+    mc "准备好退出了吗？"
 
 # game/code/e04/e04s03.rpy:703
 translate chinese e04s03_bring_lc_8882cc1f:
@@ -1252,31 +1252,31 @@ translate chinese e04s03_bring_lc_8882cc1f:
 translate chinese e04s03_bring_lc_180c54b4:
 
     # mc "Understood. I guess we'll leave you to think about all of your past mistakes."
-    mc "Understood. I guess we'll leave you to think about all of your past mistakes."
+    mc "明白。我想我们还是让你好好想想过去的错误吧。"
 
 # game/code/e04/e04s03.rpy:708
 translate chinese e04s03_bring_lc_771ba929:
 
     # mc "I'll make sure she's locked down good."
-    mc "I'll make sure she's locked down good."
+    mc "我会确保把她锁好的。"
 
 # game/code/e04/e04s03.rpy:711
 translate chinese e04s03_bring_lc_a7f953d5:
 
     # mc "You two get cleaned up and I'll meet you in a bit."
-    mc "You two get cleaned up and I'll meet you in a bit."
+    mc "你们俩先收拾一下，我一会儿就去找你们。"
 
 # game/code/e04/e04s03.rpy:721
 translate chinese e04s03_end_b9238a60:
 
     # arj "Lydia deserves a lot more punishment for what she did to us."
-    arj "Lydia deserves a lot more punishment for what she did to us."
+    arj "你们俩先收拾一下，我一会儿就去找你们。"
 
 # game/code/e04/e04s03.rpy:723
 translate chinese e04s03_end_c58ca971:
 
     # sy "Hell yeah."
-    sy "Hell yeah."
+    sy "可不是。"
 
 # game/code/e04/e04s03.rpy:726
 translate chinese e04s03_end_3322cede:
@@ -1288,215 +1288,215 @@ translate chinese e04s03_end_3322cede:
 translate chinese e04s03_end_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "嗯？"
 
 # game/code/e04/e04s03.rpy:731
 translate chinese e04s03_end_3a9e6c2b:
 
     # arj "I was thinking... being here wasn't as scary than I thought it would be."
-    arj "I was thinking... being here wasn't as scary than I thought it would be."
+    arj "我在想...待在这里并没有我想象中的那么可怕。"
 
 # game/code/e04/e04s03.rpy:733
 translate chinese e04s03_end_da9aa666:
 
     # mc "You were scared?"
-    mc "You were scared?"
+    mc "你害怕过？"
 
 # game/code/e04/e04s03.rpy:734
 translate chinese e04s03_end_0008acab:
 
     # arj "A little. I mean, what might have happened if we didn't figure things out."
-    arj "A little. I mean, what might have happened if we didn't figure things out."
+    arj "有一点。我是说，如果我们不把事情弄清楚，可能会发生不好的事。"
 
 # game/code/e04/e04s03.rpy:737
 translate chinese e04s03_end_a3c3bafb:
 
     # sy "I'm sure you would have saved us, AmRose. Lydia is all bark and no bite."
-    sy "I'm sure you would have saved us, AmRose. Lydia is all bark and no bite."
+    sy "我相信你会救我们的，爱洛丝。莉迪亚只会叫不会咬人。"
 
 # game/code/e04/e04s03.rpy:739
 translate chinese e04s03_end_7bd097f1:
 
     # arj "Thanks Stacy. Anyhow, I thought about something. Something I want to do."
-    arj "Thanks Stacy. Anyhow, I thought about something. Something I want to do."
+    arj "谢谢你，史黛西。总之，我想到了一件事。我想做的事。"
 
 # game/code/e04/e04s03.rpy:740
 translate chinese e04s03_end_ce74ea33:
 
     # arj "At least while you're here, [mcname]."
-    arj "At least while you're here, [mcname]."
+    arj "至少当你在这里的时候，[mcname]。"
 
 # game/code/e04/e04s03.rpy:743
 translate chinese e04s03_end_f64c341f:
 
     # mc "What's on your mind, gorgeous?"
-    mc "What's on your mind, gorgeous?"
+    mc "你在想什么，美女？"
 
 # game/code/e04/e04s03.rpy:745
 translate chinese e04s03_end_3fc24e9d:
 
     # arj "Can I be your prisoner here for a while? Like Lydia - well maybe... not exactly like Lydia?"
-    arj "Can I be your prisoner here for a while? Like Lydia - well maybe... not exactly like Lydia?"
+    arj "我可以暂时做你的俘虏吗？就像莉迪亚--也许...不完全和莉迪亚一样？"
 
 # game/code/e04/e04s03.rpy:748
 translate chinese e04s03_end_520d6fc4:
 
     # mc "Why do you want something like that?"
-    mc "Why do you want something like that?"
+    mc "你为什么想要这样？"
 
 # game/code/e04/e04s03.rpy:750
 translate chinese e04s03_end_047b28c2:
 
     # arj "I think... I think it would be really exciting. And... I mean, you've been so busy taking care of Lydia's sentence that I hardly get any of your attention."
-    arj "I think... I think it would be really exciting. And... I mean, you've been so busy taking care of Lydia's sentence that I hardly get any of your attention."
+    arj "我想...我觉得那会很刺激。而且...在我看来，你一直忙着处理莉迪亚的判决，几乎没怎么注意到我。"
 
 # game/code/e04/e04s03.rpy:753
 translate chinese e04s03_end_8fc559ba:
 
     # arj "But if I were your special free-use inmate, I'd be right here, close at hand."
-    arj "But if I were your special free-use inmate, I'd be right here, close at hand."
+    arj "但如果我是你的特供差遣犯人，我就会在这里，近在咫尺。"
 
 # game/code/e04/e04s03.rpy:754
 translate chinese e04s03_end_f8e558d8:
 
     # arj "You can give me as much or as little attention as you want."
-    arj "You can give me as much or as little attention as you want."
+    arj "你想给我多少关注都可以。"
 
 # game/code/e04/e04s03.rpy:755
 translate chinese e04s03_end_6f5ee233:
 
     # arj "Anything will be enough for me. If it comes from you."
-    arj "Anything will be enough for me. If it comes from you."
+    arj "只要是你给的，我什么都愿意。"
 
 # game/code/e04/e04s03.rpy:757
 translate chinese e04s03_end_455d274d:
 
     # mct "I love my life."
-    mct "I love my life."
+    mct "我爱死我的生活了。"
 
 # game/code/e04/e04s03.rpy:759
 translate chinese e04s03_end_bc5737a1:
 
     # mc "I accept. You can be Prisoner 002."
-    mc "I accept. You can be Prisoner 002."
+    mc "我接受。你可以成为002号囚犯。"
 
 # game/code/e04/e04s03.rpy:762
 translate chinese e04s03_end_33f338c1:
 
     # arj "Thank you, [mcname]. Mrmmm."
-    arj "Thank you, [mcname]. Mrmmm."
+    arj "谢谢你，[mcname]。嗯嗯嗯。"
 
 # game/code/e04/e04s03.rpy:764
 translate chinese e04s03_end_c1c305af:
 
     # mc "That's Warden to you."
-    mc "That's Warden to you."
+    mc "要叫我典狱长。"
 
 # game/code/e04/e04s03.rpy:766
 translate chinese e04s03_end_49a2423c:
 
     # arj "Yes, Warden."
-    arj "Yes, Warden."
+    arj "遵命，典狱长。"
 
 # game/code/e04/e04s03.rpy:769
 translate chinese e04s03_end_3e3bf5cd:
 
     # sy "Hey what about me?!"
-    sy "Hey what about me?!"
+    sy "嘿，那我呢?!"
 
 # game/code/e04/e04s03.rpy:772
 translate chinese e04s03_end_bfc97788:
 
     # mc "Did you have something to share?"
-    mc "Did you have something to share?"
+    mc "你有什么要分享的吗？"
 
 # game/code/e04/e04s03.rpy:774
 translate chinese e04s03_end_22488039:
 
     # sy "You think that it's fair to only to take AmRose into your dungeon? I need a healthy amount of being dicked-down, too!"
-    sy "You think that it's fair to only to take AmRose into your dungeon? I need a healthy amount of being dicked-down, too!"
+    sy "你觉得只把爱洛丝带进你的地牢公平吗？我也需要适当的鸡巴放松！"
 
 # game/code/e04/e04s03.rpy:777
 translate chinese e04s03_end_a19e58b5:
 
     # mc "Well, since you're so worried about things being fair and just, you can join me as a guard."
-    mc "Well, since you're so worried about things being fair and just, you can join me as a guard."
+    mc "好吧，既然你这么担心事情的公平公正，那你可以加入我当警卫。"
 
 # game/code/e04/e04s03.rpy:778
 translate chinese e04s03_end_61625a7c:
 
     # mc "After all, I did deputize you earlier."
-    mc "After all, I did deputize you earlier."
+    mc "毕竟，我之前确实委任你为副手了。"
 
 # game/code/e04/e04s03.rpy:780
 translate chinese e04s03_end_7ddf2cbf:
 
     # arj "That's a great idea, Warden. Then the two of us can be here to make sure Lydia doesn't do anything stupid."
-    arj "That's a great idea, Warden. Then the two of us can be here to make sure Lydia doesn't do anything stupid."
+    arj "好主意，典狱长。这样我们两个就可以在这里确保莉迪亚不会做傻事了。"
 
 # game/code/e04/e04s03.rpy:783
 translate chinese e04s03_end_13b09646:
 
     # sy "Oh she won't be doing anything stupid until she can walk straight again."
-    sy "Oh she won't be doing anything stupid until she can walk straight again."
+    sy "哦，除非她能重新直起身子走路，在那之前她都不会做傻事的。"
 
 # game/code/e04/e04s03.rpy:784
 translate chinese e04s03_end_dcb7b57a:
 
     # sy "But I definitely wouldn't mind punishing her again."
-    sy "But I definitely wouldn't mind punishing her again."
+    sy "但我绝对不介意再惩罚她一次。"
 
 # game/code/e04/e04s03.rpy:787
 translate chinese e04s03_end_83f70e32:
 
     # sy "And don't think you'll be getting off with any rule infractions, Prisoner 002."
-    sy "And don't think you'll be getting off with any rule infractions, Prisoner 002."
+    sy "囚犯002，别以为你违反规定就能逍遥法外。"
 
 # game/code/e04/e04s03.rpy:789
 translate chinese e04s03_end_642ce528:
 
     # arj "Of course. You and the Warden can do anything you want to me."
-    arj "Of course. You and the Warden can do anything you want to me."
+    arj "当然。你和典狱长可以对我为所欲为。"
 
 # game/code/e04/e04s03.rpy:790
 translate chinese e04s03_end_33f8a588:
 
     # arj "It's the only way I'll become a productive member of society again."
-    arj "It's the only way I'll become a productive member of society again."
+    arj "只有这样我才能重新成为对社会有用的人。"
 
 # game/code/e04/e04s03.rpy:808
 translate chinese e04s03_end_936ce596:
 
     # mc "Great then it's settled. Shit!"
-    mc "Great then it's settled. Shit!"
+    mc "太好了，就这么定了。靠！"
 
 # game/code/e04/e04s03.rpy:810
 translate chinese e04s03_end_6bfc74d9:
 
     # sy "What?"
-    sy "What?"
+    sy "怎么了？"
 
 # game/code/e04/e04s03.rpy:812
 translate chinese e04s03_end_6a541a1a:
 
     # mc "I knew I should have bought more supplies. I guess when you start making a prison, you can never stop at just one prisoner."
-    mc "I knew I should have bought more supplies. I guess when you start making a prison, you can never stop at just one prisoner."
+    mc "我就知道应该多买点补给品。我想，当你开始建造一座监狱时，你永远不会止步于一个囚犯。"
 
 # game/code/e04/e04s03.rpy:815
 translate chinese e04s03_end_8838b0fa:
 
     # sy "Besides more cage supplies, I'm going to need some money so I can get a banging uniform."
-    sy "Besides more cage supplies, I'm going to need some money so I can get a banging uniform."
+    sy "除了多来点笼子补给，我还需要一些钱，这样我就能买到一套性感制服了。"
 
 # game/code/e04/e04s03.rpy:817
 translate chinese e04s03_end_00be8329:
 
     # mc "What's wrong with your normal clothes?"
-    mc "What's wrong with your normal clothes?"
+    mc "你平时穿的衣服怎么了？"
 
 # game/code/e04/e04s03.rpy:819
 translate chinese e04s03_end_0f4f597e:
 
     # sy "Hehe. Don't worry. With what I have in mind, it will be worth every penny."
-    sy "Hehe. Don't worry. With what I have in mind, it will be worth every penny."
+    sy "呵呵。别担心。以我的想法，一定物有所值。"
 
