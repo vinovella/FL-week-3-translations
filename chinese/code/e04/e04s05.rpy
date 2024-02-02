@@ -4,163 +4,163 @@
 translate chinese e04s05_3d4bba76:
 
     # mc "She was so close to breaking..."
-    mc "She was so close to breaking..."
+    mc "她差一点就崩溃了..."
 
 # game/code/e04/e04s05.rpy:20
 translate chinese e04s05_cf43447e:
 
     # sy "I know, big bro."
-    sy "I know, big bro."
+    sy "我知道，大哥。"
 
 # game/code/e04/e04s05.rpy:22
 translate chinese e04s05_714ef096:
 
     # sy "I know, [mcname]."
-    sy "I know, [mcname]."
+    sy "我知道，[mcname]。"
 
 # game/code/e04/e04s05.rpy:25
 translate chinese e04s05_244514a1:
 
     # mc "I... I'm running out of ideas."
-    mc "I... I'm running out of ideas."
+    mc "我...我没别的招了。"
 
 # game/code/e04/e04s05.rpy:28
 translate chinese e04s05_4a5c3166:
 
     # sy "What you need is a heavy hitter."
-    sy "What you need is a heavy hitter."
+    sy "你需要一个重量级人物。"
 
 # game/code/e04/e04s05.rpy:30
 translate chinese e04s05_5abebda9:
 
     # mc "I'll do anything at this point."
-    mc "I'll do anything at this point."
+    mc "此时此刻，我什么都愿意做。"
 
 # game/code/e04/e04s05.rpy:33
 translate chinese e04s05_4b13494b:
 
     # sy "Let me make a call."
-    sy "Let me make a call."
+    sy "让我打个电话。"
 
 # game/code/e04/e04s05.rpy:37
 translate chinese e04s05_1b199792:
 
     # mc "Okay?"
-    mc "Okay?"
+    mc "好了？"
 
 # game/code/e04/e04s05.rpy:41
 translate chinese e04s05_cb60d6e7:
 
     # sy "Just get us ready for company!"
-    sy "Just get us ready for company!"
+    sy "让我们准备好迎接客人吧！"
 
 # game/code/e04/e04s05.rpy:53
 translate chinese e04s05_ba333b29:
 
     # mc "Lyssa! Hey, uh, I wasn't expecting you."
-    mc "Lyssa! Hey, uh, I wasn't expecting you."
+    mc "丽莎！嘿，呃，我没想到你会来。"
 
 # game/code/e04/e04s05.rpy:55
 translate chinese e04s05_236b8351:
 
     # mh "Surprise."
-    mh "Surprise."
+    mh "惊喜吧。"
 
 # game/code/e04/e04s05.rpy:58
 translate chinese e04s05_2548a6ed:
 
     # mc "Seeing you is one of my favorite surprises from the last couple weeks."
-    mc "Seeing you is one of my favorite surprises from the last couple weeks."
+    mc "见到你是过去几周里我最喜欢的惊喜之一。"
 
 # game/code/e04/e04s05.rpy:61
 translate chinese e04s05_c33040b0:
 
     # mh "Are you going to invite me in?"
-    mh "Are you going to invite me in?"
+    mh "你不邀请我进去吗？"
 
 # game/code/e04/e04s05.rpy:65
 translate chinese e04s05_0adddb5d:
 
     # mc "You need an invite? What are you, a vampire?"
-    mc "You need an invite? What are you, a vampire?"
+    mc "你需要邀请？怎么，你是吸血鬼吗？"
 
 # game/code/e04/e04s05.rpy:68
 translate chinese e04s05_6608b524:
 
     # mh "Why, do you want me to suck your blood?"
-    mh "Why, do you want me to suck your blood?"
+    mh "为什么，你想让我吸你的血吗？"
 
 # game/code/e04/e04s05.rpy:70
 translate chinese e04s05_7136c946:
 
     # mc "I mean..."
-    mc "I mean..."
+    mc "我是说..."
 
 # game/code/e04/e04s05.rpy:75
 translate chinese e04s05_7b4e06ad:
 
     # mc "Come on in."
-    mc "Come on in."
+    mc "请进。"
 
 # game/code/e04/e04s05.rpy:79
 translate chinese e04s05_325e8716:
 
     # mh "Stacy told me all about your little problem."
-    mh "Stacy told me all about your little problem."
+    mh "史黛西把你的小麻烦都告诉我了。"
 
 # game/code/e04/e04s05.rpy:83
 translate chinese e04s05_06d13f3a:
 
     # mc "Oh, uhh..."
-    mc "Oh, uhh..."
+    mc "哦，呃..."
 
 # game/code/e04/e04s05.rpy:86
 translate chinese e04s05_e931767e:
 
     # mh "It's okay, [mcname]. Sometimes you just have someone with a difficult personality. Believe me, I'm surrounded by them 24/7."
-    mh "It's okay, [mcname]. Sometimes you just have someone with a difficult personality. Believe me, I'm surrounded by them 24/7."
+    mh "没关系，[mcname]。有时候，你就是会遇到某些性格古怪的人。相信我，我身边全天候都有这样的人。"
 
 # game/code/e04/e04s05.rpy:87
 translate chinese e04s05_0a0cca5c:
 
     # mh "I was also surprised by your... Arrangement here."
-    mh "I was also surprised by your... Arrangement here."
+    mh "我也很惊讶你...这里的设置。"
 
 # game/code/e04/e04s05.rpy:90
 translate chinese e04s05_81388dba:
 
     # mc "Well, it's-"
-    mc "Well, it's-"
+    mc "呃，这里-"
 
 # game/code/e04/e04s05.rpy:93
 translate chinese e04s05_e8070c7a:
 
     # mh "No need to worry, [mcname]. I spoke with the Judge on my way over."
-    mh "No need to worry, [mcname]. I spoke with the Judge on my way over."
+    mh "不用担心，[mcname]。我在来的路上和法官谈过了。"
 
 # game/code/e04/e04s05.rpy:96
 translate chinese e04s05_40ef0976:
 
     # mc "Oh! Well, that makes that easy."
-    mc "Oh! Well, that makes that easy."
+    mc "哦！那就好办了。"
 
 # game/code/e04/e04s05.rpy:100
 translate chinese e04s05_592ca75b:
 
     # mh "That it does."
-    mh "That it does."
+    mh "正是。"
 
 # game/code/e04/e04s05.rpy:103
 translate chinese e04s05_3c17ca1e:
 
     # mc "I'm curious, what {i}did{/i} the Judge say about my situation?"
-    mc "I'm curious, what {i}did{/i} the Judge say about my situation?"
+    mc "我很好奇，法官对我的情况{i}怎么{/i} 说？"
 
 # game/code/e04/e04s05.rpy:107
 translate chinese e04s05_d90df29c:
 
     # mh "She was close-lipped about it. Said it was an \"innovative form of punishment\", and that she tries to keep out of it as best she can. Something about \"there are some things better left not known\"."
-    mh "She was close-lipped about it. Said it was an \"innovative form of punishment\", and that she tries to keep out of it as best she can. Something about \"there are some things better left not known\"."
+    mh "她对此守口如瓶。她说这是一种\"创新的惩罚形式\"，她会尽力避免参与其中。她提到\"有些事情还是不知道的好\"。"
 
 # game/code/e04/e04s05.rpy:108
 translate chinese e04s05_6cdb1425:
