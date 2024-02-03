@@ -166,175 +166,175 @@ translate chinese e04s05_d90df29c:
 translate chinese e04s05_6cdb1425:
 
     # mh "But I'm not here to tell you what the Judge is thinking."
-    mh "But I'm not here to tell you what the Judge is thinking."
+    mh "但我不是来告诉你法官在想什么的。"
 
 # game/code/e04/e04s05.rpy:112
 translate chinese e04s05_eaa6c258:
 
     # mc "Yeah... Stacy called you to come help?"
-    mc "Yeah... Stacy called you to come help?"
+    mc "是啊...史黛西叫你来帮忙？"
 
 # game/code/e04/e04s05.rpy:115
 translate chinese e04s05_9973ea0e:
 
     # mh "Stacy said you needed, and I quote, \"a heavy hitter\"."
-    mh "Stacy said you needed, and I quote, \"a heavy hitter\"."
+    mh "史黛西说你需要，我引用她的原话：\"一个重量级人物\"。"
 
 # game/code/e04/e04s05.rpy:119
 translate chinese e04s05_b499ce62:
 
     # mc "She's not wrong. Lydia has continued to find ways to be..."
-    mc "She's not wrong. Lydia has continued to find ways to be..."
+    mc "她说的不错。莉迪亚一直在想办法变得..."
 
 # game/code/e04/e04s05.rpy:121
 translate chinese e04s05_ea04adef:
 
     # mh "Difficult."
-    mh "Difficult."
+    mh "难搞。"
 
 # game/code/e04/e04s05.rpy:122
 translate chinese e04s05_f39b9e8b:
 
     # mc "Yeah. Difficult."
-    mc "Yeah. Difficult."
+    mc "对。难搞。"
 
 # game/code/e04/e04s05.rpy:125
 translate chinese e04s05_ae160970:
 
     # mh "Well, I'm parched. Could you grab me some water? And then why don't you tell me all about what you've tried so far."
-    mh "Well, I'm parched. Could you grab me some water? And then why don't you tell me all about what you've tried so far."
+    mh "嗯，我现在口干舌燥。你能帮我拿点水吗？然后告诉我你目前都试了什么方法。"
 
 # game/code/e04/e04s05.rpy:126
 translate chinese e04s05_a5a224aa:
 
     # mh "Just like work, I need to see a client brief before I can recommend a course of action."
-    mh "Just like work, I need to see a client brief before I can recommend a course of action."
+    mh "就像工作一样，我需要先看到客户的简介，然后才能建议行动方案。"
 
 # game/code/e04/e04s05.rpy:128
 translate chinese e04s05_20919f8c:
 
     # mc "Sure. I could use a drink myself."
-    mc "Sure. I could use a drink myself."
+    mc "当然，我自己也想喝一杯。"
 
 # game/code/e04/e04s05.rpy:139
 translate chinese e04s05_0208b5a3:
 
     # mc "And then Daisy snorted some cum off the floor. And that was pretty much the closest we got to breaking her."
-    mc "And then Daisy snorted some cum off the floor. And that was pretty much the closest we got to breaking her."
+    mc "然后黛西用鼻子吸了点地板上的精液。这几乎是我们最接近把她击垮的一次了。"
 
 # game/code/e04/e04s05.rpy:143
 translate chinese e04s05_f2c4a33d:
 
     # mh "I must say, [mcname], you have tried quite a few things. I'm pretty impressed with the list of things you've attempted."
-    mh "I must say, [mcname], you have tried quite a few things. I'm pretty impressed with the list of things you've attempted."
+    mh "我必须说，[mcname]，你很努力的做出了尝试。我很佩服你们为了打倒她而尝试过的各种方法。"
 
 # game/code/e04/e04s05.rpy:146
 translate chinese e04s05_29764a6f:
 
     # mc "Yeah. I've pretty much tried everything I can think of, and a few things I found on the internet. And bupkis."
-    mc "Yeah. I've pretty much tried everything I can think of, and a few things I found on the internet. And bupkis."
+    mc "是啊，能想到的我都试过了，还有一些是我在网上找到的。结果一无所获。"
 
 # game/code/e04/e04s05.rpy:151
 translate chinese e04s05_c26e20c9:
 
     # mh "Can I get some more water, please?"
-    mh "Can I get some more water, please?"
+    mh "能再给我点水吗？"
 
 # game/code/e04/e04s05.rpy:155
 translate chinese e04s05_85d475fe:
 
     # mc "Of course!"
-    mc "Of course!"
+    mc "当然可以！"
 
 # game/code/e04/e04s05.rpy:170
 translate chinese e04s05_3ed77072:
 
     # mh "Thank you, [mcname]."
-    mh "Thank you, [mcname]."
+    mh "谢谢你，[mcname]。"
 
 # game/code/e04/e04s05.rpy:173
 translate chinese e04s05_bc666b09:
 
     # mc "Anytime."
-    mc "Anytime."
+    mc "随时为你效劳。"
 
 # game/code/e04/e04s05.rpy:178
 translate chinese e04s05_ca9cb4f6:
 
     # mh "Well, I've been thinking about your predicament. And I may have a solution."
-    mh "Well, I've been thinking about your predicament. And I may have a solution."
+    mh "我一直在考虑你的困境。我可能有一个解决办法。"
 
 # game/code/e04/e04s05.rpy:181
 translate chinese e04s05_b8c53a6a:
 
     # mc "Thank God."
-    mc "Thank God."
+    mc "感谢上帝。"
 
 # game/code/e04/e04s05.rpy:185
 translate chinese e04s05_089d1df8:
 
     # mh "What if I help you out?"
-    mh "What if I help you out?"
+    mh "如果我帮你脱离困境呢？"
 
 # game/code/e04/e04s05.rpy:187
 translate chinese e04s05_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "哦？"
 
 # game/code/e04/e04s05.rpy:189
 translate chinese e04s05_42a5409c:
 
     # mh "In that long list of things you've tried, I didn't hear 'stuffing her full with two great dicks to the point her brain melts'."
-    mh "In that long list of things you've tried, I didn't hear 'stuffing her full with two great dicks to the point her brain melts'."
+    mh "在你试过的所有方法里，我没有听到'用两根大鸡巴把她塞得满满的，直到她的大脑迷醉其中'这个办法。"
 
 # game/code/e04/e04s05.rpy:193
 translate chinese e04s05_0ce9b524:
 
     # mc "No, that's something I haven't tried yet."
-    mc "No, that's something I haven't tried yet."
+    mc "是，这我还没试过。"
 
 # game/code/e04/e04s05.rpy:194
 translate chinese e04s05_cf85107c:
 
     # mh "Well-"
-    mh "Well-"
+    mh "嗯--"
 
 # game/code/e04/e04s05.rpy:199
 translate chinese e04s05_55acc5c4:
 
     # mh "Why don't you give me the tour. I'd love to see how you've got the prison set up."
-    mh "Why don't you give me the tour. I'd love to see how you've got the prison set up."
+    mh "你为什么不带我参观一下呢？我很想看看你是怎么布置监狱的。"
 
 # game/code/e04/e04s05.rpy:203
 translate chinese e04s05_d03e6dac:
 
     # mc "Of course, right this way."
-    mc "Of course, right this way."
+    mc "当然，这边请。"
 
 # game/code/e04/e04s05.rpy:212
 translate chinese e04s05_8262e385:
 
     # mc "Here you can see our lovely Guard punishing Prisoner 002."
-    mc "Here you can see our lovely Guard punishing Prisoner 002."
+    mc "你可以看到我们可爱的卫兵正在惩罚002号囚犯。"
 
 # game/code/e04/e04s05.rpy:227
 translate chinese e04s05_51a76fb4:
 
     # mc "Guard, would you like to tell our guest what you're doing?"
-    mc "Guard, would you like to tell our guest what you're doing?"
+    mc "你可以看到我们可爱的卫兵正在惩罚002号囚犯。"
 
 # game/code/e04/e04s05.rpy:230
 translate chinese e04s05_1dbf306f:
 
     # sy "Yes, [alt_mcname]. Prisoner 002 is going through a forced orgasm punishment."
-    sy "Yes, [alt_mcname]. Prisoner 002 is going through a forced orgasm punishment."
+    sy "好的，[alt_mcname]。囚犯002号正在接受强制性高潮惩罚。"
 
 # game/code/e04/e04s05.rpy:232
 translate chinese e04s05_f9b5f550:
 
     # mc "And how many orgasms has she had so far?"
-    mc "And how many orgasms has she had so far?"
+    mc "到目前为止，她达到了几次高潮？"
 
 # game/code/e04/e04s05.rpy:233
 translate chinese e04s05_afabea75:
@@ -346,1021 +346,1021 @@ translate chinese e04s05_afabea75:
 translate chinese e04s05_2a6c743b:
 
     # mh "My god, how is she still conscious?"
-    mh "My god, how is she still conscious?"
+    mh "天啊，她怎么还有意识？"
 
 # game/code/e04/e04s05.rpy:241
 translate chinese e04s05_ced0da28:
 
     # sy "But we're going to see how many orgasms it takes to get Prisoner 002 to pass out."
-    sy "But we're going to see how many orgasms it takes to get Prisoner 002 to pass out."
+    sy "我们要看看囚犯002号需要多少次高潮才能昏过去。"
 
 # game/code/e04/e04s05.rpy:249
 translate chinese e04s05_5d2e7744:
 
     # mh "And this one?"
-    mh "And this one?"
+    mh "这个呢？"
 
 # game/code/e04/e04s05.rpy:259
 translate chinese e04s05_323fc73f:
 
     # mc "Thought it would be fun. It's also a good way to keep her wet and ready for me whenever I want."
-    mc "Thought it would be fun. It's also a good way to keep her wet and ready for me whenever I want."
+    mc "我想着会很有趣。这也是让她保持湿润的好方法，随时准备好迎接我。"
 
 # game/code/e04/e04s05.rpy:263
 translate chinese e04s05_a878c2ba:
 
     # mh "It looks like she's enjoying herself."
-    mh "It looks like she's enjoying herself."
+    mh "看起来她很享受。"
 
 # game/code/e04/e04s05.rpy:266
 translate chinese e04s05_1e2fc9d8:
 
     # mc "Oh, after the first time we did this she asked that we do it again."
-    mc "Oh, after the first time we did this she asked that we do it again."
+    mc "哦，第一次之后，她要求我们再来一次。"
 
 # game/code/e04/e04s05.rpy:272
 translate chinese e04s05_ad25fbb4:
 
     # mc "And next up is Prisoner 001."
-    mc "And next up is Prisoner 001."
+    mc "接下来是囚犯001号。"
 
 # game/code/e04/e04s05.rpy:276
 translate chinese e04s05_134cc357:
 
     # mh "You go on ahead, I want to slip into something a little more appropriate."
-    mh "You go on ahead, I want to slip into something a little more appropriate."
+    mh "你先去吧，我想换件更合适的衣服。"
 
 # game/code/e04/e04s05.rpy:278
 translate chinese e04s05_fb0449b2:
 
     # mh "In the meantime, why don't you go and prepare the prisoner for us."
-    mh "In the meantime, why don't you go and prepare the prisoner for us."
+    mh "与此同时，你何不去为我们准备囚犯呢？"
 
 # game/code/e04/e04s05.rpy:281
 translate chinese e04s05_b24855ee:
 
     # mc "Of course, it's just down this way. We'll be waiting for you!"
-    mc "Of course, it's just down this way. We'll be waiting for you!"
+    mc "当然，就在这边。我们等着你！"
 
 # game/code/e04/e04s05.rpy:289
 translate chinese e04s05_fcc50d15:
 
     # lc "The fuck do you want now."
-    lc "The fuck do you want now."
+    lc "你他妈现在想干什么？"
 
 # game/code/e04/e04s05.rpy:292
 translate chinese e04s05_a51dcbe1:
 
     # mc "Why do you continue to fight this?"
-    mc "Why do you continue to fight this?"
+    mc "你为什么要继续抗争呢？"
 
 # game/code/e04/e04s05.rpy:296
 translate chinese e04s05_c38c13b1:
 
     # lc "Because I know I can break you."
-    lc "Because I know I can break you."
+    lc "因为我知道我能打败你。"
 
 # game/code/e04/e04s05.rpy:300
 translate chinese e04s05_f33a7ea7:
 
     # mc "Come on, Prisoner 001. Be honest about your situation."
-    mc "Come on, Prisoner 001. Be honest about your situation."
+    mc "行了，莉迪亚。诚实面对你的处境吧。"
 
 # game/code/e04/e04s05.rpy:304
 translate chinese e04s05_c8594163:
 
     # lc "I am."
-    lc "I am."
+    lc "我在诚实面对着。"
 
 # game/code/e04/e04s05.rpy:307
 translate chinese e04s05_00da9229:
 
     # mc "You're literally a prisoner in your own house. I determine everything you do. I think you need to get honest with yourself."
-    mc "You're literally a prisoner in your own house. I determine everything you do. I think you need to get honest with yourself."
+    mc "你根本就是自己家里的一个囚徒。我决定着你的生活，我决定你的一切。我觉得你需要对自己诚实一点。"
 
 # game/code/e04/e04s05.rpy:315
 translate chinese e04s05_16491bf6:
 
     # mc "As soon as you can accept your new place in the world, everyone will be much happier."
-    mc "As soon as you can accept your new place in the world, everyone will be much happier."
+    mc "只要你能接受自己在这个世界上的新位置，大家都会开心得多。"
 
 # game/code/e04/e04s05.rpy:318
 translate chinese e04s05_2342f90f:
 
     # lc "I..."
-    lc "I..."
+    lc "我..."
 
 # game/code/e04/e04s05.rpy:319
 translate chinese e04s05_0cf1a992:
 
     # lc "Get bent, [mcname]."
-    lc "Get bent, [mcname]."
+    lc "弯腰，[mcname]。"
 
 # game/code/e04/e04s05.rpy:321
 translate chinese e04s05_99f054be:
 
     # lc "And you never answered my question. Why are you bothering me again."
-    lc "And you never answered my question. Why are you bothering me again."
+    lc "你从来没有回答过我的问题。你为什么又来烦我。"
 
 # game/code/e04/e04s05.rpy:324
 translate chinese e04s05_60fc14d7:
 
     # mc "We're here to give you a new treatment for your bad attitude."
-    mc "We're here to give you a new treatment for your bad attitude."
+    mc "我们是来给你的恶劣态度进行新一轮治疗的。"
 
 # game/code/e04/e04s05.rpy:327
 translate chinese e04s05_41009d70:
 
     # lc "We?"
-    lc "We?"
+    lc "你们？"
 
 # game/code/e04/e04s05.rpy:333
 translate chinese e04s05_266055a6:
 
     # lc "Wait, aren't you a lawyer?"
-    lc "Wait, aren't you a lawyer?"
+    lc "等等，你不是律师吗？"
 
 # game/code/e04/e04s05.rpy:335
 translate chinese e04s05_c32f6a14:
 
     # mh "How very astute, Lydia. Yes, I am."
-    mh "How very astute, Lydia. Yes, I am."
+    mh "真聪明，莉迪亚。是的，我是律师。"
 
 # game/code/e04/e04s05.rpy:339
 translate chinese e04s05_a68796b9:
 
     # lc "Let me out of here! Look at how... Inhumane this is!"
-    lc "Let me out of here! Look at how... Inhumane this is!"
+    lc "放我出去！看看这一切...太不人道了！"
 
 # game/code/e04/e04s05.rpy:343
 translate chinese e04s05_6cfbf070:
 
     # mh "I think what's inhumane is toying with and blackmailing people with moments from their private life."
-    mh "I think what's inhumane is toying with and blackmailing people with moments from their private life."
+    mh "我觉得，玩弄并勒索别人的私人生活，才是真正的不人道。"
 
 # game/code/e04/e04s05.rpy:345
 translate chinese e04s05_db6b8592:
 
     # mh "I think it's inhumane to use an app to manipulate people into sending intimate photoes from their private lives."
-    mh "I think it's inhumane to use an app to manipulate people into sending intimate photoes from their private lives."
+    mh "我认为，利用软件操纵人们发送私生活的亲密照片，才是真正的不人道。"
 
 # game/code/e04/e04s05.rpy:348
 translate chinese e04s05_1c11b7e2:
 
     # lc "I-"
-    lc "I-"
+    lc "我--"
 
 # game/code/e04/e04s05.rpy:351
 translate chinese e04s05_f31ffa93:
 
     # mh "And what's worse, is that you manipulated those people into the moments. Then terrorized them - for weeks."
-    mh "And what's worse, is that you manipulated those people into the moments. Then terrorized them - for weeks."
+    mh "更糟糕的是，你操纵那些人的社交圈，然后恐吓了他们长达几个星期。"
 
 # game/code/e04/e04s05.rpy:352
 translate chinese e04s05_17c6cead:
 
     # mh "As far as I'm concerned, morally, you deserve so much worse."
-    mh "As far as I'm concerned, morally, you deserve so much worse."
+    mh "在我看来，从道义上讲，你应该受到更严重的惩罚。"
 
 # game/code/e04/e04s05.rpy:353
 translate chinese e04s05_787ffea1:
 
     # mh "And legally speaking, albeit abnormal, this is all legitimate and legal."
-    mh "And legally speaking, albeit abnormal, this is all legitimate and legal."
+    mh "从法律上讲，虽然不正常，但这都是光明正大的合法行为。"
 
 # game/code/e04/e04s05.rpy:357
 translate chinese e04s05_bb90866b:
 
     # lc "What... No! This- This can't be..."
-    lc "What... No! This- This can't be..."
+    lc "什么...不会的！这--这不可能..."
 
 # game/code/e04/e04s05.rpy:360
 translate chinese e04s05_dec3ad6d:
 
     # mh "I spoke with the Judge. She assured me that all the t's were crossed..."
-    mh "I spoke with the Judge. She assured me that all the t's were crossed..."
+    mh "我和法官谈过了。她向我保证，这儿的法律文件没有任何问题..."
 
 # game/code/e04/e04s05.rpy:364
 translate chinese e04s05_0eaff76b:
 
     # mh "... And the i's were dotted."
-    mh "... And the i's were dotted."
+    mh "...所有内容准确无误..."
 
 # game/code/e04/e04s05.rpy:370
 translate chinese e04s05_1d144930:
 
     # mh "Where shall we begin?"
-    mh "Where shall we begin?"
+    mh "我们从哪里开始？"
 
 # game/code/e04/e04s05.rpy:376
 translate chinese e04s05_34163ec0:
 
     # mc "With this. It's really the only thing she's scared of."
-    mc "With this. It's really the only thing she's scared of."
+    mc "这个。这真的是她唯一害怕的东西。"
 
 # game/code/e04/e04s05.rpy:380
 translate chinese e04s05_83239112:
 
     # mh "Good."
-    mh "Good."
+    mh "很好。"
 
 # game/code/e04/e04s05.rpy:385
 translate chinese e04s05_bb296fbe:
 
     # mc "Prisoner 001, get on your hands and knees."
-    mc "Prisoner 001, get on your hands and knees."
+    mc "囚犯001号，跪下，手脚着地。"
 
 # game/code/e04/e04s05.rpy:390
 translate chinese e04s05_22539329:
 
     # lc "Fu-"
-    lc "Fu-"
+    lc "操-"
 
 # game/code/e04/e04s05.rpy:396
 translate chinese e04s05_f5077df9:
 
     # lc "Fuh... Fuh... Cuh...."
-    lc "Fuh... Fuh... Cuh...."
+    lc "次...奥...操..."
 
 # game/code/e04/e04s05.rpy:399
 translate chinese e04s05_70f94a29:
 
     # mc "Show your appreciation."
-    mc "Show your appreciation."
+    mc "表达你的感激。"
 
 # game/code/e04/e04s05.rpy:402
 translate chinese e04s05_5f24676d:
 
     # lc "N... Nuh... N-"
-    lc "N... Nuh... N-"
+    lc "不...不...不要--"
 
 # game/code/e04/e04s05.rpy:407
 translate chinese e04s05_41ce17bf:
 
     # mc "You know the drill, you break the rules and you get the cattle prod."
-    mc "You know the drill, you break the rules and you get the cattle prod."
+    mc "你知道规矩的，遵守规则就不会挨鞭子。"
 
 # game/code/e04/e04s05.rpy:410
 translate chinese e04s05_43b222f9:
 
     # lc "Eaa... Eaatt... Sh... Shi..."
-    lc "Eaa... Eaatt... Sh... Shi..."
+    lc "吃...吃...Sh...屎..."
 
 # game/code/e04/e04s05.rpy:413
 translate chinese e04s05_f3bf377b:
 
     # mc "Blah, blah, blah. Lyssa, can you pass me a gag?"
-    mc "Blah, blah, blah. Lyssa, can you pass me a gag?"
+    mc "又是这一套。丽莎，能给我递个口塞吗？"
 
 # game/code/e04/e04s05.rpy:416
 translate chinese e04s05_4b9175d9:
 
     # mh "Of course, [mcname]."
-    mh "Of course, [mcname]."
+    mh "当然可以，[mcname]。"
 
 # game/code/e04/e04s05.rpy:422
 translate chinese e04s05_02256a45:
 
     # mc "That's better."
-    mc "That's better."
+    mc "这样更好。"
 
 # game/code/e04/e04s05.rpy:427
 translate chinese e04s05_0acf699b:
 
     # mc "Honestly, Prisoner 001, I'm tired of trying to convince you."
-    mc "Honestly, Prisoner 001, I'm tired of trying to convince you."
+    mc "老实说，001号囚犯，我不想再说服你了。"
 
 # game/code/e04/e04s05.rpy:431
 translate chinese e04s05_909d269c:
 
     # mc "I have tried, and tried, and {i}tried{/i} to reason with you."
-    mc "I have tried, and tried, and {i}tried{/i} to reason with you."
+    mc "我试了又试，{i}试了再试{/i}，试图跟你讲道理。"
 
 # game/code/e04/e04s05.rpy:435
 translate chinese e04s05_8ed5d083:
 
     # mc "But you won't listen. Instead you're snarky, sassy, and downright {i}bitchy{/i}."
-    mc "But you won't listen. Instead you're snarky, sassy, and downright {i}bitchy{/i}."
+    mc "可你就是不听。相反，你尖酸刻薄、卑鄙粗鲁，简直是{i}婊子{/i}。"
 
 # game/code/e04/e04s05.rpy:440
 translate chinese e04s05_691d02dd:
 
     # mc "So we're just going to fuck you until you can't think straight."
-    mc "So we're just going to fuck you until you can't think straight."
+    mc "所以我们要把你操到无法思考为止。"
 
 # game/code/e04/e04s05.rpy:444
 translate chinese e04s05_026c379d:
 
     # mc "Lyssa, can you help me get the prisoner on her feet."
-    mc "Lyssa, can you help me get the prisoner on her feet."
+    mc "丽莎，你能帮我把犯人扶起来吗？"
 
 # game/code/e04/e04s05.rpy:447
 translate chinese e04s05_7f4a0c40:
 
     # mh "Of course."
-    mh "Of course."
+    mh "当然。"
 
 # game/code/e04/e04s05.rpy:452
 translate chinese e04s05_85b32549:
 
     # mc "Do you want to take the front, or the back?"
-    mc "Do you want to take the front, or the back?"
+    mc "你想从前面上，还是后面？"
 
 # game/code/e04/e04s05.rpy:454
 translate chinese e04s05_6517f8a8:
 
     # mh "Why don't I start up front. Do you need me to grab you some lube?"
-    mh "Why don't I start up front. Do you need me to grab you some lube?"
+    mh "我从前面开始吧。需要我给你拿些润滑油吗？"
 
 # game/code/e04/e04s05.rpy:457
 translate chinese e04s05_6a200ea8:
 
     # mc "Prisoner 001 lost her lube privileges a long time ago."
-    mc "Prisoner 001 lost her lube privileges a long time ago."
+    mc "001号囚犯很久以前就失去了润滑油的特权。"
 
 # game/code/e04/e04s05.rpy:459
 translate chinese e04s05_731c6fa0:
 
     # mh "Good to know."
-    mh "Good to know."
+    mh "很高兴知道这点。"
 
 # game/code/e04/e04s05.rpy:461
 translate chinese e04s05_9ae5ac54:
 
     # lc "Mmmph!"
-    lc "Mmmph!"
+    lc "哼嗯！"
 
 # game/code/e04/e04s05.rpy:465
 translate chinese e04s05_21b8b78d:
 
     # mc "You grab her legs, and I'll hold her up by her ass."
-    mc "You grab her legs, and I'll hold her up by her ass."
+    mc "你抓住她的腿，我来托住她的屁股。"
 
 # game/code/e04/e04s05.rpy:467
 translate chinese e04s05_9dee8f66:
 
     # lc "Nnnph, nnph!"
-    lc "Nnnph, nnph!"
+    lc "唔，唔唔唔！"
 
 # game/code/e04/e04s05.rpy:474
 translate chinese e04s05_4a0de6ab:
 
     # lc "Nnnnph, nnnph, nnnnnph!"
-    lc "Nnnnph, nnnph, nnnnnph!"
+    lc "嗯，嗯嗯，嗯嗯嗯嗯！"
 
 # game/code/e04/e04s05.rpy:476
 translate chinese e04s05_e547c543:
 
     # mh "Sounds like someone is having fun."
-    mh "Sounds like someone is having fun."
+    mh "听起来有人很享受呢。"
 
 # game/code/e04/e04s05.rpy:480
 translate chinese e04s05_343afe3e:
 
     # mc "If she gave in, she'd be having the time of her life right now."
-    mc "If she gave in, she'd be having the time of her life right now."
+    mc "如果她屈服了，她现在就享受人生中最美好的时光了。"
 
 # game/code/e04/e04s05.rpy:482
 translate chinese e04s05_148b3503:
 
     # mc "Instead, the fun is just for us."
-    mc "Instead, the fun is just for us."
+    mc "可她偏不，快乐只属于我们。"
 
 # game/code/e04/e04s05.rpy:488
 translate chinese e04s05_47015fa4:
 
     # mc "No matter how many times I fuck her ass, she manages to tighten it right up!"
-    mc "No matter how many times I fuck her ass, she manages to tighten it right up!"
+    mc "不管我操她屁股多少次，她都能紧紧裹住！"
 
 # game/code/e04/e04s05.rpy:489
 translate chinese e04s05_1e190082:
 
     # lc "Mmmmph!"
-    lc "Mmmmph!"
+    lc "嗯哼！"
 
 # game/code/e04/e04s05.rpy:492
 translate chinese e04s05_5d883a13:
 
     # mh "I have to say the same for her pussy."
-    mh "I have to say the same for her pussy."
+    mh "我不得不说，她的小穴也一样紧实呢。"
 
 # game/code/e04/e04s05.rpy:495
 translate chinese e04s05_1d00578c:
 
     # mh "We'll have to try and change that today, won't we?"
-    mh "We'll have to try and change that today, won't we?"
+    mh "但我们今天得试着给她松一松，不是吗？"
 
 # game/code/e04/e04s05.rpy:498
 translate chinese e04s05_8256ddec:
 
     # mc "I am excited to see what you have planned, Lyssa."
-    mc "I am excited to see what you have planned, Lyssa."
+    mc "我很期待你的计划，丽莎。"
 
 # game/code/e04/e04s05.rpy:499
 translate chinese e04s05_3cb076c8:
 
     # mc "You should be excited too, Prisoner 001."
-    mc "You should be excited too, Prisoner 001."
+    mc "你也应该感到兴奋，囚犯001。"
 
 # game/code/e04/e04s05.rpy:502
 translate chinese e04s05_b6324a19:
 
     # mh "I think we need to push her more, [mcname]. Need to make sure she's nice and loosened up."
-    mh "I think we need to push her more, [mcname]. Need to make sure she's nice and loosened up."
+    mh "我觉得我们需要多逼逼她，[mcname]。要让她放松下来。"
 
 # game/code/e04/e04s05.rpy:505
 translate chinese e04s05_55cda615:
 
     # mc "I have just the idea, help me lay down on the bed."
-    mc "I have just the idea, help me lay down on the bed."
+    mc "我有个主意，帮我躺平到床上。"
 
 # game/code/e04/e04s05.rpy:513
 translate chinese e04s05_dca97b35:
 
     # mc "Why don't you join me down here. You can really get some leverage while you're thrusting."
-    mc "Why don't you join me down here. You can really get some leverage while you're thrusting."
+    mc "你为什么不在下面加入我呢，这样你抽插的时候有个杠杆借力。"
 
 # game/code/e04/e04s05.rpy:516
 translate chinese e04s05_0fcee50f:
 
     # mh "I love where your head is at, [mcname]. She's really sparked your creativity."
-    mh "I love where your head is at, [mcname]. She's really sparked your creativity."
+    mh "我喜欢你的想法，[mcname]。她真的激发了你的创造力啊。"
 
 # game/code/e04/e04s05.rpy:522
 translate chinese e04s05_d19e16b3:
 
     # lc "Waaa, waaa, waaa!"
-    lc "Waaa, waaa, waaa!"
+    lc "哇，哇，哇啊！"
 
 # game/code/e04/e04s05.rpy:525
 translate chinese e04s05_b0acb9cb:
 
     # lc "MMMPPPH!!"
-    lc "MMMPPPH!!"
+    lc "噢噢噢!!"
 
 # game/code/e04/e04s05.rpy:527
 translate chinese e04s05_74813a33:
 
     # mh "God, she's so tight!"
-    mh "God, she's so tight!"
+    mh "天啊，她太紧了！"
 
 # game/code/e04/e04s05.rpy:529
 translate chinese e04s05_f6640f6b:
 
     # mc "Mmm, right!? She's loosening up a bit, though."
-    mc "Mmm, right!? She's loosening up a bit, though."
+    mc "嗯，是吧!? 不过，她已经有点放松了。"
 
 # game/code/e04/e04s05.rpy:531
 translate chinese e04s05_42f35a30:
 
     # mc "She has to keep it tight, so the stick up her ass doesn't fall out!"
-    mc "She has to keep it tight, so the stick up her ass doesn't fall out!"
+    mc "她必须保持紧绷，这样屁股里夹着的肉棒才不会掉出来！"
 
 # game/code/e04/e04s05.rpy:533
 translate chinese e04s05_fd1c8d8c:
 
     # lc "Mmmph, mmmph, mmmph!!"
-    lc "Mmmph, mmmph, mmmph!!"
+    lc "嗯哼，嗯哼，嗯哼!!"
 
 # game/code/e04/e04s05.rpy:534
 translate chinese e04s05_149a9db4:
 
     # mc "Do those sound like moans to you, Lyssa?"
-    mc "Do those sound like moans to you, Lyssa?"
+    mc "你觉得她的声音听起来像呻吟吗，丽莎？"
 
 # game/code/e04/e04s05.rpy:535
 translate chinese e04s05_64a739ea:
 
     # mh "They- ooo- do, [mcname]!"
-    mh "They- ooo- do, [mcname]!"
+    mh "哦哦哦-就是呻吟，[mcname]！"
 
 # game/code/e04/e04s05.rpy:537
 translate chinese e04s05_5493e511:
 
     # mc "Sounds like the little slut likes getting her asshole abused!"
-    mc "Sounds like the little slut likes getting her asshole abused!"
+    mc "听起来这小荡妇喜欢被人虐屁眼！"
 
 # game/code/e04/e04s05.rpy:539
 translate chinese e04s05_770c5a6a:
 
     # lc "Mmmmnnph!"
-    lc "Mmmmnnph!"
+    lc "唔唔唔唔唔！"
 
 # game/code/e04/e04s05.rpy:540
 translate chinese e04s05_657e64de:
 
     # mh "I think you're right, [mcname], the bitch loves her holes being stretched out by two dicks."
-    mh "I think you're right, [mcname], the bitch loves her holes being stretched out by two dicks."
+    mh "我想你说得对，[mcname]，这婊子喜欢她的洞被两根鸡巴撑得大大的。"
 
 # game/code/e04/e04s05.rpy:541
 translate chinese e04s05_e708afb0:
 
     # lc "Mmmmmp, nnnpph."
-    lc "Mmmmmp, nnnpph."
+    lc "唔唔唔，唔唔唔。"
 
 # game/code/e04/e04s05.rpy:543
 translate chinese e04s05_b0d190cc:
 
     # mh "Oh just wait until you see what I've got in store for you."
-    mh "Oh just wait until you see what I've got in store for you."
+    mh "哦，等着瞧吧，看看我为你准备了什么。"
 
 # game/code/e04/e04s05.rpy:553
 translate chinese e04s05_9dd024f2:
 
     # mc "Speaking of, I'd love to see what you brought with you today."
-    mc "Speaking of, I'd love to see what you brought with you today."
+    mc "说到这个，我倒想看看二号门后面有什么。"
 
 # game/code/e04/e04s05.rpy:556
 translate chinese e04s05_950ed287:
 
     # mh "I think you're going to love it."
-    mh "I think you're going to love it."
+    mh "我想你会喜欢的。"
 
 # game/code/e04/e04s05.rpy:562
 translate chinese e04s05_d29eb36c:
 
     # mct "Lyssa sounds so excited. I can't wait to see what she has for Lydia."
-    mct "Lyssa sounds so excited. I can't wait to see what she has for Lydia."
+    mct "丽莎听起来很兴奋。我等不及想看看她给莉迪亚准备了什么。"
 
 # game/code/e04/e04s05.rpy:568
 translate chinese e04s05_375a7b08:
 
     # mct "Whatever she is getting, it sounds big."
-    mct "Whatever she is getting, it sounds big."
+    mct "不管她准备了什么，听起来都是个大玩意儿。"
 
 # game/code/e04/e04s05.rpy:572
 translate chinese e04s05_e0417513:
 
     # mh "Okay. Please take out the prisoner's gag and put her on the floor."
-    mh "Okay. Please take out the prisoner's gag and put her on the floor."
+    mh "好嘞。请把犯人的嘴塞取下来，把她放在地上。"
 
 # game/code/e04/e04s05.rpy:574
 translate chinese e04s05_39de506d:
 
     # mc "On it."
-    mc "On it."
+    mc "这就来。"
 
 # game/code/e04/e04s05.rpy:579
 translate chinese e04s05_05503b2a:
 
     # mc "For this next part, we'll need your mouth."
-    mc "For this next part, we'll need your mouth."
+    mc "接下来的环节，我们需要把这个脱掉。"
 
 # game/code/e04/e04s05.rpy:583
 translate chinese e04s05_35abeb4e:
 
     # lc "What the fuck are-"
-    lc "What the fuck are-"
+    lc "这他妈是--"
 
 # game/code/e04/e04s05.rpy:588
 translate chinese e04s05_dc10fb91:
 
     # lc "OUCH! FUCKING HELL!"
-    lc "OUCH! FUCKING HELL!"
+    lc "啊呀！遭天杀的！"
 
 # game/code/e04/e04s05.rpy:592
 translate chinese e04s05_2f7d4839:
 
     # lc "What are you planning to do!?"
-    lc "What are you planning to do!?"
+    lc "你打算做什么!?"
 
 # game/code/e04/e04s05.rpy:604
 translate chinese e04s05_c7a74ca6:
 
     # lc "That's too big, that-that-"
-    lc "That's too big, that-that-"
+    lc "那个太大了，那--那--"
 
 # game/code/e04/e04s05.rpy:607
 translate chinese e04s05_4050700f:
 
     # mc "I don't give a fuck. Lyssa, put it in."
-    mc "I don't give a fuck. Lyssa, put it in."
+    mc "我他妈才不管呢。丽莎，放进去。"
 
 # game/code/e04/e04s05.rpy:612
 translate chinese e04s05_ea10bb19:
 
     # lc "Please, [mcname], just wait a second!"
-    lc "Please, [mcname], just wait a second!"
+    lc "求你了，[mcname]，等一下！"
 
 # game/code/e04/e04s05.rpy:616
 translate chinese e04s05_b87b9edb:
 
     # mc "I have already given you so many chances."
-    mc "I have already given you so many chances."
+    mc "我已经给过你太多机会了。"
 
 # game/code/e04/e04s05.rpy:618
 translate chinese e04s05_8dec7bda:
 
     # lc "Please, [alt_mcname]!"
-    lc "Please, [alt_mcname]!"
+    lc "求求你，[alt_mcname]！"
 
 # game/code/e04/e04s05.rpy:621
 translate chinese e04s05_72a3d1e8:
 
     # mc "If this is what it takes for you to finally learn."
-    mc "If this is what it takes for you to finally learn."
+    mc "如果这就是你最终学会听话的代价。"
 
 # game/code/e04/e04s05.rpy:624
 translate chinese e04s05_567920d3:
 
     # lc "Come o- HOLY FUCK!"
-    lc "Come o- HOLY FUCK!"
+    lc "拜托--啊--操！"
 
 # game/code/e04/e04s05.rpy:629
 translate chinese e04s05_9b0cd729:
 
     # lc "FUCK, FUCK, FUCK!"
-    lc "FUCK, FUCK, FUCK!"
+    lc "操，操，操！"
 
 # game/code/e04/e04s05.rpy:631
 translate chinese e04s05_ef9d0151:
 
     # mc "Turn it on. Max speed."
-    mc "Turn it on. Max speed."
+    mc "把它打开。开到最大速度。"
 
 # game/code/e04/e04s05.rpy:636
 translate chinese e04s05_3f542b2a:
 
     # lc "FUCK, [alt_mcname]! PLEASE NO!"
-    lc "FUCK, [alt_mcname]! PLEASE NO!"
+    lc "操，[alt_mcname]！求求你不要！"
 
 # game/code/e04/e04s05.rpy:641
 translate chinese e04s05_d3d06db5:
 
     # lc "MERCY, PLEASE!"
-    lc "MERCY, PLEASE!"
+    lc "求你了，救救我！"
 
 # game/code/e04/e04s05.rpy:644
 translate chinese e04s05_28b47e7b:
 
     # lc "HOOOOOLY SHIT!"
-    lc "HOOOOOLY SHIT!"
+    lc "啊啊啊操啊！"
 
 # game/code/e04/e04s05.rpy:647
 translate chinese e04s05_eda4137a:
 
     # lc "Mmngh!"
-    lc "Mmngh!"
+    lc "呜呜呜！"
 
 # game/code/e04/e04s05.rpy:650
 translate chinese e04s05_9ed3e61c:
 
     # mc "As my personal bidet, I also want you to clean my asshole. I've left it extra dirty for you."
-    mc "As my personal bidet, I also want you to clean my asshole. I've left it extra dirty for you."
+    mc "作为我的私人坐浴盆，我也想让你清理我的屁眼。我给你留了特别脏的地方。"
 
 # game/code/e04/e04s05.rpy:651
 translate chinese e04s05_4c429f6c:
 
     # mc "And Lyssa, feel free to do whatever you want back there."
-    mc "And Lyssa, feel free to do whatever you want back there."
+    mc "还有丽莎，你可以在后面为所欲为。"
 
 # game/code/e04/e04s05.rpy:654
 translate chinese e04s05_5156e20d:
 
     # mh "Already planning on it."
-    mh "Already planning on it."
+    mh "我已经这么计划了。"
 
 # game/code/e04/e04s05.rpy:665
 translate chinese e04s05_72310cb0:
 
     # lc "MGGRRGG!"
-    lc "MGGRRGG!"
+    lc "噢噢噢！"
 
 # game/code/e04/e04s05.rpy:667
 translate chinese e04s05_f2d004ad:
 
     # mc "Sounds like someone likes your toy, Lyssa!"
-    mc "Sounds like someone likes your toy, Lyssa!"
+    mc "听起来有人喜欢你的玩具，丽莎！"
 
 # game/code/e04/e04s05.rpy:670
 translate chinese e04s05_e89668aa:
 
     # mh "It's the least I could do for wrecking her holes."
-    mh "It's the least I could do for wrecking her holes."
+    mh "这是我摧毁她的洞至少能做的。"
 
 # game/code/e04/e04s05.rpy:672
 translate chinese e04s05_c548b70e:
 
     # mh "If you want, [mcname], you can borrow the toy as long as you want!"
-    mh "If you want, [mcname], you can borrow the toy as long as you want!"
+    mh "如果你愿意，[mcname]，你可以借这个玩具，想借多久就借多久！"
 
 # game/code/e04/e04s05.rpy:674
 translate chinese e04s05_48e4b6cc:
 
     # mc "What do you think, Prisoner 001? Do you want me to chain you to the fuck machine for three days?"
-    mc "What do you think, Prisoner 001? Do you want me to chain you to the fuck machine for three days?"
+    mc "你觉得怎么样，囚犯001？你想让我把你拴在操逼机上干个三天三夜吗？"
 
 # game/code/e04/e04s05.rpy:675
 translate chinese e04s05_23572f86:
 
     # lc "'UUUUUHHCK, 'UUUUHHCK!"
-    lc "'UUUUUHHCK, 'UUUUHHCK!"
+    lc "呃呃呃呃，操呃呃呃！"
 
 # game/code/e04/e04s05.rpy:677
 translate chinese e04s05_96a0bb7a:
 
     # mc "That sounded like a yes to me!"
-    mc "That sounded like a yes to me!"
+    mc "对我来说，这听起来像是同意了！"
 
 # game/code/e04/e04s05.rpy:678
 translate chinese e04s05_2d0c6c08:
 
     # mh "Mmmm, sounded like that to me too!"
-    mh "Mmmm, sounded like that to me too!"
+    mh "嗯，我听起来也像！"
 
 # game/code/e04/e04s05.rpy:680
 translate chinese e04s05_9dbbc0da:
 
     # mh "Mmmm, I feel her asshole squeezing tighter around my cock."
-    mh "Mmmm, I feel her asshole squeezing tighter around my cock."
+    mh "嗯，我感觉她的屁眼把我的鸡巴挤得更紧了。"
 
 # game/code/e04/e04s05.rpy:681
 translate chinese e04s05_d6919afd:
 
     # mc "I wonder if it's because of the horse dildo-"
-    mc "I wonder if it's because of the horse dildo-"
+    mc "不知道是不是因为玩具马鸡巴--"
 
 # game/code/e04/e04s05.rpy:683
 translate chinese e04s05_77261c96:
 
     # mc "-Or because she's eating my ass like it's fine dining!"
-    mc "-Or because she's eating my ass like it's fine dining!"
+    mc "--或者是她把我的屁股当大餐一样狂吃的缘故！"
 
 # game/code/e04/e04s05.rpy:685
 translate chinese e04s05_de9cc072:
 
     # mh "Mmmm, I'm getting close, [mcname]."
-    mh "Mmmm, I'm getting close, [mcname]."
+    mh "嗯嗯嗯，我快到了，[mcname]。"
 
 # game/code/e04/e04s05.rpy:686
 translate chinese e04s05_cf6c71bb:
 
     # mc "I have a plan for the grand finale, so don't cum yet!"
-    mc "I have a plan for the grand finale, so don't cum yet!"
+    mc "我有个压轴计划，先别射！"
 
 # game/code/e04/e04s05.rpy:694
 translate chinese e04s05_d0c35546:
 
     # mc "I think you're going to like this next part."
-    mc "I think you're going to like this next part."
+    mc "我想你会喜欢接下来的环节的。"
 
 # game/code/e04/e04s05.rpy:697
 translate chinese e04s05_d09f83d7:
 
     # mh "Oh?"
-    mh "Oh?"
+    mh "哦？"
 
 # game/code/e04/e04s05.rpy:701
 translate chinese e04s05_c7d4fefa:
 
     # mc "Lyssa, for this last part, can I fuck you?"
-    mc "Lyssa, for this last part, can I fuck you?"
+    mc "丽莎，最后这部分，我能操你吗？"
 
 # game/code/e04/e04s05.rpy:704
 translate chinese e04s05_506ae311:
 
     # mh "Look at you, asking like a gentleman."
-    mh "Look at you, asking like a gentleman."
+    mh "看看你，问得像个绅士。"
 
 # game/code/e04/e04s05.rpy:707
 translate chinese e04s05_37e557bc:
 
     # mc "Am I anything but?"
-    mc "Am I anything but?"
+    mc "我难道不是吗？"
 
 # game/code/e04/e04s05.rpy:709
 translate chinese e04s05_947a74a0:
 
     # mh "Am I allowed lube?"
-    mh "Am I allowed lube?"
+    mh "我可以用润滑油吗？"
 
 # game/code/e04/e04s05.rpy:710
 translate chinese e04s05_2af6f05e:
 
     # mc "I don't have any, but I've got the next best thing."
-    mc "I don't have any, but I've got the next best thing."
+    mc "我没润滑油了，但接下来，我有比它还好的东西。"
 
 # game/code/e04/e04s05.rpy:712
 translate chinese e04s05_f5a7b2c4:
 
     # lc "Fuck, fuck you, fuck."
-    lc "Fuck, fuck you, fuck."
+    lc "操，操你妈。操。"
 
 # game/code/e04/e04s05.rpy:717
 translate chinese e04s05_708e0411:
 
     # mc "Oh, I forgot that my little fleshlight could talk."
-    mc "Oh, I forgot that my little fleshlight could talk."
+    mc "我忘了我的小肉洞还会说话。"
 
 # game/code/e04/e04s05.rpy:719
 translate chinese e04s05_70a4cc58:
 
     # lc "I swear-"
-    lc "I swear-"
+    lc "我发誓--"
 
 # game/code/e04/e04s05.rpy:721
 translate chinese e04s05_55afc618:
 
     # mc "You swear nothing. You're powerless."
-    mc "You swear nothing. You're powerless."
+    mc "你发誓屁用没有。你现在什么也做不了。"
 
 # game/code/e04/e04s05.rpy:722
 translate chinese e04s05_c6eb393e:
 
     # lc "I will fucking ki-"
-    lc "I will fucking ki-"
+    lc "我他妈要杀了--"
 
 # game/code/e04/e04s05.rpy:729
 translate chinese e04s05_6c51eb41:
 
     # lc "GGGGUCCCK!"
-    lc "GGGGUCCCK!"
+    lc "嘎啊啊啊！"
 
 # game/code/e04/e04s05.rpy:731
 translate chinese e04s05_cada35d7:
 
     # mc "This slobbery little pig will get my dick nice and slick."
-    mc "This slobbery little pig will get my dick nice and slick."
+    mc "这只流口水的小猪，会让我的小家伙变得又滑又嫩。"
 
 # game/code/e04/e04s05.rpy:736
 translate chinese e04s05_77148a46:
 
     # mh "Perfect."
-    mh "Perfect."
+    mh "完美。"
 
 # game/code/e04/e04s05.rpy:739
 translate chinese e04s05_708973e1:
 
     # mc "God, her throat is wonderful. It's squeezing the shit out of my dick."
-    mc "God, her throat is wonderful. It's squeezing the shit out of my dick."
+    mc "天啊，她的喉咙简直绝妙。把我的小弟弟都挤出来了。"
 
 # game/code/e04/e04s05.rpy:741
 translate chinese e04s05_0beb9aa5:
 
     # mc "Put the dildo back in."
-    mc "Put the dildo back in."
+    mc "把假鸡巴塞回去。"
 
 # game/code/e04/e04s05.rpy:744
 translate chinese e04s05_0802e35b:
 
     # lc "Glluuuck, GLUUUCK!"
-    lc "Glluuuck, GLUUUCK!"
+    lc "嘎啊啊，操操操！"
 
 # game/code/e04/e04s05.rpy:747
 translate chinese e04s05_18c32498:
 
     # lc "GGLLLLUMMMPH!"
-    lc "GGLLLLUMMMPH!"
+    lc "啊啊啊啊啊！"
 
 # game/code/e04/e04s05.rpy:748
 translate chinese e04s05_a1dab733:
 
     # mc "Holy fuck! Her throat just got way tighter."
-    mc "Holy fuck! Her throat just got way tighter."
+    mc "我操！她的喉咙变得更紧了。"
 
 # game/code/e04/e04s05.rpy:755
 translate chinese e04s05_dadac0ab:
 
     # lc "HOLY FUCKING SHIT!!!"
-    lc "HOLY FUCKING SHIT!!!"
+    lc "啊啊啊我要死了!!!"
 
 # game/code/e04/e04s05.rpy:757
 translate chinese e04s05_642b93c4:
 
     # lc "GOD FUCKING- IT'S TOO MUCH!"
-    lc "GOD FUCKING- IT'S TOO MUCH!"
+    lc "操操操--我受不住了！"
 
 # game/code/e04/e04s05.rpy:760
 translate chinese e04s05_6de58320:
 
     # mc "Lyssa, her throat is all yours."
-    mc "Lyssa, her throat is all yours."
+    mc "丽莎，她的喉咙交给你了。"
 
 # game/code/e04/e04s05.rpy:763
 translate chinese e04s05_3b9ce78e:
 
     # mh "Why, thank you, [mcname]."
-    mh "Why, thank you, [mcname]."
+    mh "谢谢你，[mcname]。"
 
 # game/code/e04/e04s05.rpy:765
 translate chinese e04s05_6986f980:
 
     # lc "CHRIST- PLEASE, JUST-"
-    lc "CHRIST- PLEASE, JUST-"
+    lc "上帝--求你--"
 
 # game/code/e04/e04s05.rpy:777
 translate chinese e04s05_97703f6b:
 
     # mh "You were right, her throat is amazing."
-    mh "You were right, her throat is amazing."
+    mh "你说得对，她的喉咙太神奇了。"
 
 # game/code/e04/e04s05.rpy:778
 translate chinese e04s05_cbf7c775:
 
     # mc "I think it's because she loves being spitroasted."
-    mc "I think it's because she loves being spitroasted."
+    mc "我想这是因为她喜欢密不透风的感觉。"
 
 # game/code/e04/e04s05.rpy:781
 translate chinese e04s05_92067b36:
 
     # lc "Oooowah!"
-    lc "Oooowah!"
+    lc "哦哦噢噢哇！"
 
 # game/code/e04/e04s05.rpy:782
 translate chinese e04s05_d949d347:
 
     # mc "How do you like this, Prisoner 001?"
-    mc "How do you like this, Prisoner 001?"
+    mc "你喜欢这样吗，囚犯001？"
 
 # game/code/e04/e04s05.rpy:785
 translate chinese e04s05_9c4d063b:
 
     # mc "I'm thrusting Lyssa's dick down your throat."
-    mc "I'm thrusting Lyssa's dick down your throat."
+    mc "我要把丽莎的老二插进你的喉咙。"
 
 # game/code/e04/e04s05.rpy:788
 translate chinese e04s05_73584346:
 
     # mc "And this is what you deserve!"
-    mc "And this is what you deserve!"
+    mc "这是你应得的！"
 
 # game/code/e04/e04s05.rpy:790
 translate chinese e04s05_5f4eb93c:
 
     # mc "And Lyssa's ass is even better than yours!"
-    mc "And Lyssa's ass is even better than yours!"
+    mc "丽莎的屁股比你的还棒！"
 
 # game/code/e04/e04s05.rpy:791
 translate chinese e04s05_643160f7:
 
     # lc "Gllluck!"
-    lc "Gllluck!"
+    lc "嘎啊！"
 
 # game/code/e04/e04s05.rpy:794
 translate chinese e04s05_10685202:
 
     # mh "Mmmm, thank you-oh fuuuuck."
-    mh "Mmmm, thank you-oh fuuuuck."
+    mh "嗯，谢谢你--哦哦，操。"
 
 # game/code/e04/e04s05.rpy:796
 translate chinese e04s05_0b503c48:
 
     # mh "God, her throat is really doing work. She's going to make me cum."
-    mh "God, her throat is really doing work. She's going to make me cum."
+    mh "天啊，她的喉咙真厉害。她会让我射出来的。"
 
 # game/code/e04/e04s05.rpy:798
 translate chinese e04s05_b7810f41:
 
     # mc "Her time here has really made her into a good little slut."
-    mc "Her time here has really made her into a good little slut."
+    mc "她在这里的训练真的让她变成了一个绝品小荡妇。"
 
 # game/code/e04/e04s05.rpy:799
 translate chinese e04s05_705cd7c3:
 
     # mc "Even with all her protestations."
-    mc "Even with all her protestations."
+    mc "即使她一再表示反抗。"
 
 # game/code/e04/e04s05.rpy:800
 translate chinese e04s05_016b9ba7:
 
     # mh "Mmmm, am I allowed to cum down her throat?"
-    mh "Mmmm, am I allowed to cum down her throat?"
+    mh "嗯嗯嗯，我可以射进她的喉咙吗？"
 
 # game/code/e04/e04s05.rpy:802
 translate chinese e04s05_e3efb381:
 
     # mc "Of course, feel free to use her as you see fit!"
-    mc "Of course, feel free to use her as you see fit!"
+    mc "当然，你可以随意使用她！"
 
 # game/code/e04/e04s05.rpy:804
 translate chinese e04s05_3f7dce37:
 
     # mh "Good, because I'm close."
-    mh "Good, because I'm close."
+    mh "很好，因为我快射了。"
 
 # game/code/e04/e04s05.rpy:805
 translate chinese e04s05_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "我也是。"
 
 # game/code/e04/e04s05.rpy:809
 translate chinese e04s05_257df1f5:
 
     # mh "Fuck, I'm cumming!"
-    mh "Fuck, I'm cumming!"
+    mh "操，我要射了！"
 
 # game/code/e04/e04s05.rpy:811
 translate chinese e04s05_443dba65:
 
     # mc "Shit, I'm about to come too!"
-    mc "Shit, I'm about to come too!"
+    mc "妈的，我也要射了！"
 
 # game/code/e04/e04s05.rpy:819
 translate chinese e04s05_0c26425b:
 
     # mc "Oh shiiiit!"
-    mc "Oh shiiiit!"
+    mc "哦哦哦，我靠！"
 
 # game/code/e04/e04s05.rpy:826
 translate chinese e04s05_ee03e7f4:
