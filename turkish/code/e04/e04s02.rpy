@@ -418,7 +418,7 @@ translate turkish e04s02_sex_822219f9:
 translate turkish e04s02_sex_da9062a1:
 
     # mc "How do you ask {i}me?{/i}"
-    mc "Bana nasıl sorarsınız?"{/i}"
+    mc "Bana nasıl {i}sorarsınız?{/i}"
 
 # game/code/e04/e04s02.rpy:269
 translate turkish e04s02_sex_83544064:

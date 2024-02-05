@@ -160,7 +160,7 @@ translate turkish e04s05_3c17ca1e:
 translate turkish e04s05_d90df29c:
 
     # mh "She was close-lipped about it. Said it was an \"innovative form of punishment\", and that she tries to keep out of it as best she can. Something about \"there are some things better left not known\"."
-    "Bu konuda ağzını sıkı tutuyordu. Bunun \"cezanın yenilikçi bir biçimi\" olduğunu ve elinden geldiğince bundan uzak durmaya çalıştığını söyledi. "Bazı şeylerin bilinmemesi daha iyidir\" gibi bir şeyler söyledi."
+    "Bu konuda ağzını sıkı tutuyordu. Bunun \"cezanın yenilikçi bir biçimi\" olduğunu ve elinden geldiğince bundan uzak durmaya çalıştığını söyledi. \"Bazı şeylerin bilinmemesi daha iyidir\" gibi bir şeyler söyledi."
 
 # game/code/e04/e04s05.rpy:108
 translate turkish e04s05_6cdb1425:

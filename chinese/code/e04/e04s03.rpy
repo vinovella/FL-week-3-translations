@@ -760,7 +760,7 @@ translate chinese e04s03_bring_lc_4c38126a:
 translate chinese e04s03_bring_lc_1414dcec:
 
     # sy "Or{w} if you're scared, you can always press the magic button."
-    sy 或者{w}，如果你害怕，你可以随时按下那个神奇的按钮。"
+    sy "或者{w}，如果你害怕，你可以随时按下那个神奇的按钮。"
 
 # game/code/e04/e04s03.rpy:430
 translate chinese e04s03_bring_lc_3e70ae29:
