@@ -4,403 +4,403 @@
 translate chinese e04s06_5cf121d6:
 
     # lc "Sunlight! I never thought I would feel it on my face again."
-    lc "Sunlight! I never thought I would feel it on my face again."
+    lc "阳光！我以为我的脸上再也感受不到阳光了。"
 
 # game/code/e04/e04s06.rpy:24
 translate chinese e04s06_47b0164d:
 
     # lc "I missed this so much."
-    lc "I missed this so much."
+    lc "我好怀念这一刻。"
 
 # game/code/e04/e04s06.rpy:27
 translate chinese e04s06_4deb7613:
 
     # lc "What is this? Exercise in the prison yard?"
-    lc "What is this? Exercise in the prison yard?"
+    lc "这是什么？在监狱院子里锻炼？"
 
 # game/code/e04/e04s06.rpy:30
 translate chinese e04s06_b324ef37:
 
     # mc "No. Get down on your hands and knees."
-    mc "No. Get down on your hands and knees."
+    mc "不，四肢着地跪下。"
 
 # game/code/e04/e04s06.rpy:33
 translate chinese e04s06_d67a0d24:
 
     # lc "Whatever... Fine. Let's see what you have planned this time."
-    lc "Whatever... Fine. Let's see what you have planned this time."
+    lc "不管是什么花样...好吧。让我们看看你这次有什么计划。"
 
 # game/code/e04/e04s06.rpy:39
 translate chinese e04s06_f812eb3b:
 
     # mc "Stacy, are we live?"
-    mc "Stacy, are we live?"
+    mc "史黛西，我们直播了吗？"
 
 # game/code/e04/e04s06.rpy:43
 translate chinese e04s06_3a7ed101:
 
     # sy "Streaming and recording for later. No users in chat yet."
-    sy "Streaming and recording for later. No users in chat yet."
+    sy "正在直播并已录制待之后回放。聊天室还没有用户。"
 
 # game/code/e04/e04s06.rpy:47
 translate chinese e04s06_239d911a:
 
     # lc "What's going on?"
-    lc "What's going on?"
+    lc "怎么回事？"
 
 # game/code/e04/e04s06.rpy:50
 translate chinese e04s06_b79b5fd3:
 
     # mc "Get a good close-up on us, then. I'm about to explain it to our new puppy."
-    mc "Get a good close-up on us, then. I'm about to explain it to our new puppy."
+    mc "那就给我们来个特写。我要向我们的新小狗解释一下。"
 
 # game/code/e04/e04s06.rpy:53
 translate chinese e04s06_9c6839c8:
 
     # lc "What?"
-    lc "What?"
+    lc "搞什么？"
 
 # game/code/e04/e04s06.rpy:56
 translate chinese e04s06_80a9419b:
 
     # mc "I got permission from the Judge to take our doggo out for a walk in the park today."
-    mc "I got permission from the Judge to take our doggo out for a walk in the park today."
+    mc "我得到了法官的许可，今天可以带我们的小狗狗去公园散步。"
 
 # game/code/e04/e04s06.rpy:60
 translate chinese e04s06_9e5a95f5:
 
     # mc "You might recognize our little bitch here."
-    mc "You might recognize our little bitch here."
+    mc "你可能认识我们的小母狗。"
 
 # game/code/e04/e04s06.rpy:61
 translate chinese e04s06_cf2b29f3:
 
     # mc "She was Lydia Cox, daughter of famous parents, starting to build her own social media presence and singing career. Then she was convicted and became my prisoner."
-    mc "She was Lydia Cox, daughter of famous parents, starting to build her own social media presence and singing career. Then she was convicted and became my prisoner."
+    mc "她叫莉迪亚·考克斯，父母都是名人，开始建立自己的社交媒体形象和歌唱事业。后来她被判有罪，成了我的囚犯。"
 
 # game/code/e04/e04s06.rpy:64
 translate chinese e04s06_7b3cf59d:
 
     # mc "Today, she's just a fuckable piece of dogmeat who is going for walkies."
-    mc "Today, she's just a fuckable piece of dogmeat who is going for walkies."
+    mc "而现在，她只是一块供我操的狗肉，正在去散步。"
 
 # game/code/e04/e04s06.rpy:68
 translate chinese e04s06_eebd9e71:
 
     # lc "What?! You can't do this!! People will see me!!!"
-    lc "What?! You can't do this!! People will see me!!!"
+    lc "什么?! 你不能这么做!! 人们会看到我的!!!"
 
 # game/code/e04/e04s06.rpy:71
 translate chinese e04s06_8641d0c3:
 
     # mc "First, I can do this. I have explicit permission."
-    mc "First, I can do this. I have explicit permission."
+    mc "首先，我可以这么做。我有明确的许可。"
 
 # game/code/e04/e04s06.rpy:72
 translate chinese e04s06_62854be6:
 
     # mc "Second, don't worry. There shouldn't be that many people in the park. It's a weekday."
-    mc "Second, don't worry. There shouldn't be that many people in the park. It's a weekday."
+    mc "第二，别担心，公园里应该没那么多人。今天是工作日。"
 
 # game/code/e04/e04s06.rpy:76
 translate chinese e04s06_f2cb7a2b:
 
     # sy "We now have five viewers in chat."
-    sy "We now have five viewers in chat."
+    sy "我们现在有五位观众在聊天室。"
 
 # game/code/e04/e04s06.rpy:80
 translate chinese e04s06_eb4de0c6:
 
     # mc "Third, that's why Stacy is livestreaming this. By the end of the day hopefully thousands of people all over the world will have seen you."
-    mc "Third, that's why Stacy is livestreaming this. By the end of the day hopefully thousands of people all over the world will have seen you."
+    mc "第三，史黛西已经开始了。到今天结束的时候，希望全世界成千上万的人都能看到你。"
 
 # game/code/e04/e04s06.rpy:83
 translate chinese e04s06_0565db35:
 
     # sy "And maybe some locals will catch the livestream and join us in the park."
-    sy "And maybe some locals will catch the livestream and join us in the park."
+    sy "也许一些当地人也会看到直播，然后来到公园加入我们。"
 
 # game/code/e04/e04s06.rpy:87
 translate chinese e04s06_a95eea6a:
 
     # lc "No, no, no, no, no, no, no."
-    lc "No, no, no, no, no, no, no."
+    lc "不不不不不要。"
 
 # game/code/e04/e04s06.rpy:88
 translate chinese e04s06_be08c02f:
 
     # lc "This cannot be happening."
-    lc "This cannot be happening."
+    lc "不可能的，不会的。"
 
 # game/code/e04/e04s06.rpy:92
 translate chinese e04s06_980791d7:
 
     # mc "Lydia, HEEL!"
-    mc "Lydia, HEEL!"
+    mc "莉迪亚，跟上！"
 
 # game/code/e04/e04s06.rpy:96
 translate chinese e04s06_7b88dc08:
 
     # mc "Lydia, I said \"HEEL\"! You know what happens if you disobey me."
-    mc "Lydia, I said \"HEEL\"! You know what happens if you disobey me."
+    mc "莉迪亚。我说了\"跟上\"！你知道不听我的话会有什么后果。"
 
 # game/code/e04/e04s06.rpy:100
 translate chinese e04s06_cdfbb4ab:
 
     # lc "Fuck.{w} Coming!"
-    lc "Fuck.{w} Coming!"
+    lc "操。{w}来了！"
 
 # game/code/e04/e04s06.rpy:104
 translate chinese e04s06_a664e0f1:
 
     # sy "Shouldn't she be barking and whimpering?"
-    sy "Shouldn't she be barking and whimpering?"
+    sy "她不应该又是乱叫又是呜咽的吗？"
 
 # game/code/e04/e04s06.rpy:107
 translate chinese e04s06_8f410632:
 
     # mc "I prefer hearing her anguish and humiliation given a voice."
-    mc "I prefer hearing her anguish and humiliation given a voice."
+    mc "我更喜欢听到她痛苦和屈辱的声音。"
 
 # game/code/e04/e04s06.rpy:110
 translate chinese e04s06_bfb4b0c6:
 
     # sy "Oh, we're up to ten viewers in chat!"
-    sy "Oh, we're up to ten viewers in chat!"
+    sy "哦，聊天室里已经有十个观众了！"
 
 # game/code/e04/e04s06.rpy:119
 translate chinese e04s06_44c7eb3e:
 
     # lc "Please stop this. I'll be good. I'll be good."
-    lc "Please stop this. I'll be good. I'll be good."
+    lc "请不要这样。我会乖乖的。我会听话的。"
 
 # game/code/e04/e04s06.rpy:122
 translate chinese e04s06_2632ca8d:
 
     # mc "You can stop this if you want to - just press the button."
-    mc "You can stop this if you want to - just press the button."
+    mc "如果你想停止也可以--按下按钮就可以了。"
 
 # game/code/e04/e04s06.rpy:125
 translate chinese e04s06_e338dd0c:
 
     # lc "I can't... but... people can see me."
-    lc "I can't... but... people can see me."
+    lc "我不能...但是...人们可以看到我。"
 
 # game/code/e04/e04s06.rpy:129
 translate chinese e04s06_8e2e63c5:
 
     # mc "Indeed. They can. Speaking of which..."
-    mc "Indeed. They can. Speaking of which..."
+    mc "没错。他们可以看到。说到这个..."
 
 # game/code/e04/e04s06.rpy:130
 translate chinese e04s06_29c8533c:
 
     # mc "Stacy, how's the livestream going?"
-    mc "Stacy, how's the livestream going?"
+    mc "史黛西，直播怎么样了？"
 
 # game/code/e04/e04s06.rpy:133
 translate chinese e04s06_204cef2c:
 
     # sy "Really well. Much better than we expected."
-    sy "Really well. Much better than we expected."
+    sy "非常好。比我们预期的要好得多。"
 
 # game/code/e04/e04s06.rpy:137
 translate chinese e04s06_2d6dfb26:
 
     # sy "Shout out to those of you who live in Crowning."
-    sy "Shout out to those of you who live in Crowning."
+    sy "向住在皇冠镇的朋友们致敬。"
 
 # game/code/e04/e04s06.rpy:139
 translate chinese e04s06_eb0721af:
 
     # sy "If you look at the video carefully you should know where we are."
-    sy "If you look at the video carefully you should know where we are."
+    sy "如果你仔细看视频，你应该知道我们在哪里。"
 
 # game/code/e04/e04s06.rpy:140
 translate chinese e04s06_2d640e1e:
 
     # sy "You can probably guess where we are going if we can get through the Tier Three and Tier Four Tip Goals."
-    sy "You can probably guess where we are going if we can get through the Tier Three and Tier Four Tip Goals."
+    sy "如果我们能完成三级和四级小费目标，你大概就能猜到我们要去哪里了。"
 
 # game/code/e04/e04s06.rpy:145
 translate chinese e04s06_6b74235c:
 
     # mc "Very nice. Are we exceeding expectations in terms of viewers as well as in tips?"
-    mc "Very nice. Are we exceeding expectations in terms of viewers as well as in tips?"
+    mc "非常好。在观众和小费方面，我们是否超出了预期？"
 
 # game/code/e04/e04s06.rpy:147
 translate chinese e04s06_a75bfefc:
 
     # sy "Yep. As matter of fact..."
-    sy "Yep. As matter of fact..."
+    sy "都超过了。事实上..."
 
 # game/code/e04/e04s06.rpy:148
 translate chinese e04s06_1ddea09f:
 
     # sy "Hold on just a second..."
-    sy "Hold on just a second..."
+    sy "稍等一下..."
 
 # game/code/e04/e04s06.rpy:152
 translate chinese e04s06_fc4cc0a7:
 
     # sy "Yes! We passed our Tier Three Goal for Tips!"
-    sy "Yes! We passed our Tier Three Goal for Tips!"
+    sy "哇哦！我们通过了小费的三级目标！"
 
 # game/code/e04/e04s06.rpy:155
 translate chinese e04s06_237257a5:
 
     # sy "You know what that means?!"
-    sy "You know what that means?!"
+    sy "你知道这意味着什么吗?!"
 
 # game/code/e04/e04s06.rpy:158
 translate chinese e04s06_20e8b1a4:
 
     # mc "I do.{w} Lydia gets a hot dog."
-    mc "I do.{w} Lydia gets a hot dog."
+    mc "我知道。{w}莉迪亚有香肠吃了。"
 
 # game/code/e04/e04s06.rpy:162
 translate chinese e04s06_a25d8514:
 
     # lc "Ugh, no thanks.{w} I'm already nauseous."
-    lc "Ugh, no thanks.{w} I'm already nauseous."
+    lc "呃，不用了，谢谢。{w}我已经开始反胃了。"
 
 # game/code/e04/e04s06.rpy:165
 translate chinese e04s06_4ecdf47c:
 
     # sy "No choice. Chat has spoken!"
-    sy "No choice. Chat has spoken!"
+    sy "你别无选择。聊天已经开始了！"
 
 # game/code/e04/e04s06.rpy:168
 translate chinese e04s06_ffb7dde6:
 
     # mc "Besides, it's not that kind of hot dog."
-    mc "Besides, it's not that kind of hot dog."
+    mc "再说，也不是你想的那种香肠。"
 
 # game/code/e04/e04s06.rpy:172
 translate chinese e04s06_20a28404:
 
     # lc "You wouldn't. Not here."
-    lc "You wouldn't. Not here."
+    lc "你不是吧。别在这里。"
 
 # game/code/e04/e04s06.rpy:175
 translate chinese e04s06_5d11d341:
 
     # mc "I would.{w} Lydia, kneel."
-    mc "I would.{w} Lydia, kneel."
+    mc "我就是。{w}莉迪亚，跪下。"
 
 # game/code/e04/e04s06.rpy:176
 translate chinese e04s06_8a95a4a6:
 
     # mc "I told you. Be a good little bitch and kneel for your master."
-    mc "I told you. Be a good little bitch and kneel for your master."
+    mc "我告诉过你。乖乖给主人下跪。"
 
 # game/code/e04/e04s06.rpy:180
 translate chinese e04s06_c7ea3083:
 
     # mc "Good girl. You deserve a treat."
-    mc "Good girl. You deserve a treat."
+    mc "好孩子。你应该得到犒赏。"
 
 # game/code/e04/e04s06.rpy:182
 translate chinese e04s06_2d0a4382:
 
     # lc "I really might puke."
-    lc "I really might puke."
+    lc "我真的要吐了。"
 
 # game/code/e04/e04s06.rpy:185
 translate chinese e04s06_f4878345:
 
     # mc "Do you know what people do when they give their dog a treat?"
-    mc "Do you know what people do when they give their dog a treat?"
+    mc "你知道人们给狗狗喂东西时会怎么做吗？"
 
 # game/code/e04/e04s06.rpy:190
 translate chinese e04s06_7384d597:
 
     # mc "They put it on the doggie's nose and the dog does a little trick..."
-    mc "They put it on the doggie's nose and the dog does a little trick..."
+    mc "他们把吃的放在狗狗鼻子上，然后狗狗就会做一些小动作..."
 
 # game/code/e04/e04s06.rpy:193
 translate chinese e04s06_02b1d075:
 
     # mc "... where they put the treat in their mouth without dropping it."
-    mc "... where they put the treat in their mouth without dropping it."
+    mc "...通过小动作，狗狗把食物叼进嘴里而不让它从中掉落。"
 
 # game/code/e04/e04s06.rpy:194
 translate chinese e04s06_dc9627e6:
 
     # mc "Go on, girl. I'm sure you can do it."
-    mc "Go on, girl. I'm sure you can do it."
+    mc "来吧，好孩子。我相信你能做到的。"
 
 # game/code/e04/e04s06.rpy:207
 translate chinese e04s06_4aa1ed4c:
 
     # mc "Good girl. Enjoy that hot, hard shaft of meat."
-    mc "Good girl. Enjoy that hot, hard shaft of meat."
+    mc "好姑娘。好好享受那又热又硬的肉棒吧。"
 
 # game/code/e04/e04s06.rpy:210
 translate chinese e04s06_3bf9188c:
 
     # sy "Just don't bite it. *laughing*"
-    sy "Just don't bite it. *laughing*"
+    sy "别咬它哦。*笑*"
 
 # game/code/e04/e04s06.rpy:213
 translate chinese e04s06_a53f406b:
 
     # mc "She knows better than that."
-    mc "She knows better than that."
+    mc "她比你懂事多了。"
 
 # game/code/e04/e04s06.rpy:215
 translate chinese e04s06_78b34cf1:
 
     # mc "Remind me, what was the Tier Four tip goal?"
-    mc "Remind me, what was the Tier Four tip goal?"
+    mc "提醒我一下，小费的四级目标是什么？"
 
 # game/code/e04/e04s06.rpy:218
 translate chinese e04s06_d58cbb3e:
 
     # sy "You take her to the ladies' water closet."
-    sy "You take her to the ladies' water closet."
+    sy "你带她去女洗手间。"
 
 # game/code/e04/e04s06.rpy:221
 translate chinese e04s06_3a0dbc0c:
 
     # mc "Really? I thought that was going to be Tier Five."
-    mc "Really? I thought that was going to be Tier Five."
+    mc "真的吗？我还以为这会是第五级呢。"
 
 # game/code/e04/e04s06.rpy:225
 translate chinese e04s06_bea1b022:
 
     # sy "It was, but then we couldn't think up a good Tier Four."
-    sy "It was, but then we couldn't think up a good Tier Four."
+    sy "本来是的，但后来我们想不出一个好的四级目标嘛。"
 
 # game/code/e04/e04s06.rpy:226
 translate chinese e04s06_b26b68e2:
 
     # sy "So, Tier Five became Tier Four, but I left the required amount of tips the same as Tier Five would have been.."
-    sy "So, Tier Five became Tier Four, but I left the required amount of tips the same as Tier Five would have been.."
+    sy "所以，第五级目标变成了第四级的，但我把第四级所需的小费数额定的和第五级一样..."
 
 # game/code/e04/e04s06.rpy:229
 translate chinese e04s06_887d91d2:
 
     # mc "Speaking of which, how are we doing on tips now?"
-    mc "Speaking of which, how are we doing on tips now?"
+    mc "说到这个，我们现在的小费什么情况？"
 
 # game/code/e04/e04s06.rpy:233
 translate chinese e04s06_c29db6d1:
 
     # sy "Really well. Plus we have a competition going on in chat."
-    sy "Really well. Plus we have a competition going on in chat."
+    sy "非常好。另外，咱们聊天室里还举行了一场比赛。"
 
 # game/code/e04/e04s06.rpy:236
 translate chinese e04s06_bd114062:
 
     # mc "I didn't know we could do that."
-    mc "I didn't know we could do that."
+    mc "我不知道我们还能这么做。"
 
 # game/code/e04/e04s06.rpy:238
 translate chinese e04s06_32ce50a7:
 
     # sy "No, but there are two groups that are promising massive tips if we do what they want."
-    sy "No, but there are two groups that are promising massive tips if we do what they want."
+    sy "不是我们发起的比赛，是有两个小组承诺，如果我们按他们的要求做，他们会给我们大量的小费。"
 
 # game/code/e04/e04s06.rpy:242
 translate chinese e04s06_2d522864:
