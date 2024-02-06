@@ -400,61 +400,61 @@ translate chinese e04s06_bd114062:
 translate chinese e04s06_32ce50a7:
 
     # sy "No, but there are two groups that are promising massive tips if we do what they want."
-    sy "不是我们发起的比赛，是有两个小组承诺，如果我们按他们的要求做，他们会给我们大量的小费。"
+    sy "不是我们发起的比赛，是有两拨人承诺，如果我们按他们的要求做，他们会给我们大量的小费。"
 
 # game/code/e04/e04s06.rpy:242
 translate chinese e04s06_2d522864:
 
     # sy "One group wants you to cum all over her face and not let her clean herself up."
-    sy "One group wants you to cum all over her face and not let her clean herself up."
+    sy "有一拨人希望你把精液射到她脸上，不让她自己清理。"
 
 # game/code/e04/e04s06.rpy:244
 translate chinese e04s06_81f07063:
 
     # sy "The other group is in the lead, though. They want you to shove your cock all the way down her throat and cum in her stomach."
-    sy "The other group is in the lead, though. They want you to shove your cock all the way down her throat and cum in her stomach."
+    sy "但另一拨人处于领先地位。他们想让你把鸡巴插进她的喉咙，然后射在她肚子里。"
 
 # game/code/e04/e04s06.rpy:246
 translate chinese e04s06_ac15f41a:
 
     # mc "I like the sound of that."
-    mc "I like the sound of that."
+    mc "我喜欢听你这么说。"
 
 # game/code/e04/e04s06.rpy:251
 translate chinese e04s06_b3ef7b15:
 
     # mc "I really like that thought. She can get plenty cum on her face later."
-    mc "I really like that thought. She can get plenty cum on her face later."
+    mc "我很喜欢这个想法。待会儿她脸上就能沾上不少精液了。"
 
 # game/code/e04/e04s06.rpy:252
 translate chinese e04s06_afdf11ab:
 
     # mc "But right now-"
-    mc "But right now-"
+    mc "但现在--"
 
 # game/code/e04/e04s06.rpy:258
 translate chinese e04s06_9b71b9e8:
 
     # mc "Fucck..."
-    mc "Fucck..."
+    mc "操..."
 
 # game/code/e04/e04s06.rpy:262
 translate chinese e04s06_44b64215:
 
     # mc "I'm about to-"
-    mc "I'm about to-"
+    mc "我就要--"
 
 # game/code/e04/e04s06.rpy:267
 translate chinese e04s06_2926185e:
 
     # mc "FFFUuuuuuccccccckkkkkiiiiiinnnngggg"
-    mc "FFFUuuuuuccccccckkkkkiiiiiinnnngggg"
+    mc "操操操啊啊啊啊啊"
 
 # game/code/e04/e04s06.rpy:270
 translate chinese e04s06_c2e66a99:
 
     # mc "CUuuuuuuUUUuuuuuummmm."
-    mc "CUuuuuuuUUUuuuuuummmm."
+    mc "射了啊啊啊啊"
 
 # game/code/e04/e04s06.rpy:274
 translate chinese e04s06_12229eb9:
