@@ -400,7 +400,7 @@ translate turkish e04s02_sex_67fd0def:
 translate turkish e04s02_sex_0d75b153:
 
     # lc "COULD you {i}PLEASE{/i} slow down!?"
-    lc "LÜTFEN{/i} yavaşlar mısın!?"
+    lc "{i}LÜTFEN{/i} yavaşlar mısın!?"
 
 # game/code/e04/e04s02.rpy:265
 translate turkish e04s02_sex_e060bcf2:

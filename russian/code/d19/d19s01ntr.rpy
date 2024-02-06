@@ -1076,3 +1076,17 @@ translate russian d19s01ntr_decision_e1a0041c:
     # lc "You see... Whom?"
     lc "Ты понимаешь?"
 
+# TODO: Translation updated at 2024-02-06 17:05
+
+# game/code/d19/d19s01ntr.rpy:424
+translate russian d19s01ntr_decision_aeef075e:
+
+    # lc "Easy words."
+    lc "Easy words."
+
+# game/code/d19/d19s01ntr.rpy:427
+translate russian d19s01ntr_decision_5b1e303f:
+
+    # lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
+    lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
+

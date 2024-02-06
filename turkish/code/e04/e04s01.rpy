@@ -256,7 +256,7 @@ translate turkish e04s01_d52240bf:
 translate turkish e04s01_0c094690:
 
     # mc "Wake the fuck up, bitch. {w}I'm not going to let you die that peacefully."
-     mc "Uyan artık, kaltak. {Bu kadar huzurlu ölmene izin vermeyeceğim."
+     mc "Uyan artık, kaltak. {w}Bu kadar huzurlu ölmene izin vermeyeceğim."
 
 # game/code/e04/e04s01.rpy:159
 translate turkish e04s01_cb3c2827:

@@ -1230,3 +1230,99 @@ translate portuguese strings:
     old "You have no will of you own. You are simply an extension of Dahlia."
     new "You have no will of you own. You are simply an extension of Dahlia."
 
+# TODO: Translation updated at 2024-02-06 16:39
+
+translate portuguese strings:
+
+    # game/code/hints.rpy:5
+    old "Keep your name as it is."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Change your name to \"Warden\"."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Enter your own name."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Order Lydia to get started sucking cock."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Take Lydia home without making her work at the gloryhole."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "And they lived happily ever after."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Even a favorite toy is only happy when someone plays with it."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Annihilate the last threads of Lydia's existence."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Might affect dialogue and nicknames for this ending."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Uses default dialogue and nicknames for this ending."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Might impact dialogue and nicknames for this ending."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Surrender and get kicked out of Lydia's home."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Drink your full and continue Lydia's contest."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "This is some scary shit."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Whatever Lydia wants, I'll give it to her."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Slow and steady loses the race this time."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Give 110 percent and win the match."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Stick your finger in Pete's ass and win the gloryhole challenge."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Do your best, but eventually lose the gloryhole challenge."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Watch Pete creampie Lydia and AmRose, then get vasectomized by Jerome."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Refuse to see this ending to its proper conclusion"
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Slurp out Pete's cum from inside Am-Rose' pussy."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
+    new ""
+
