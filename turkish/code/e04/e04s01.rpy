@@ -124,13 +124,13 @@ translate turkish e04s01_8e855611:
 translate turkish e04s01_4651899f:
 
     # mc "*laughs* Good point."
-     mc "*laughs* İyi noktaya değindin."
+     mc "*Gülerek* İyi noktaya değindin."
 
 # game/code/e04/e04s01.rpy:95
 translate turkish e04s01_cf915247:
 
     # "Prison Guard" "*laughs* Not that she isn't cute, but not my type."
-     "Prison Guard" "*laughs* Sevimli olmadığından değil, ama benim tipim değil."
+     "Hapishane Gardiyanı" "*laughs* Sevimli olmadığından değil, ama benim tipim değil."
 
 # game/code/e04/e04s01.rpy:98
 translate turkish e04s01_4d4ab649:
@@ -160,7 +160,7 @@ translate turkish e04s01_24e18d05:
 translate turkish e04s01_0056ec81:
 
     # mc "Shhhh, hon. It's okay."
-     mc "Shhhh, hon. It's okay."
+     mc "Shhhh, tatlım. Sorun değil."
 
 # game/code/e04/e04s01.rpy:112
 translate turkish e04s01_8c56b9e4:
@@ -172,7 +172,7 @@ translate turkish e04s01_8c56b9e4:
 translate turkish e04s01_8a4c1c9e:
 
     # "Prison Guard" "I see you have this well in hand."
-     "Prison Guard" "I see you have this well in hand."
+     "Hapishane Gardiyanı" "Görüyorum ki bu iş elinizde."
 
 # game/code/e04/e04s01.rpy:118
 translate turkish e04s01_056af852:
@@ -262,7 +262,7 @@ translate turkish e04s01_0c094690:
 translate turkish e04s01_cb3c2827:
 
     # lc "*muffled cough*"
-     lc "*muffled cough*"
+     lc "*boğuk öksürük*"
 
 # game/code/e04/e04s01.rpy:162
 translate turkish e04s01_26f2a074:
@@ -280,7 +280,7 @@ translate turkish e04s01_71aac559:
 translate turkish e04s01_1a910df5:
 
     # lc "*cough* F- {w}fuck *cough, cough* you."
-     lc "*cough* F- {w}fuck *cough, cough* you."
+     lc "*öksürük* F- {w}siktir *öksürük, öksür* seni."
 
 # game/code/e04/e04s01.rpy:168
 translate turkish e04s01_b181df47:
@@ -298,7 +298,7 @@ translate turkish e04s01_227357cb:
 translate turkish e04s01_988f46de:
 
     # lc "You're weak."
-     lc "You're weak."
+     lc "Zayıfsın."
 
 # game/code/e04/e04s01.rpy:174
 translate turkish e04s01_09f2de35:
