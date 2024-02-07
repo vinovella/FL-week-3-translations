@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-06 17:05
+﻿# TODO: Translation updated at 2024-02-08 02:42
 
 # game/code/e07/e07s06.rpy:19
 translate russian e07s06_7cbb521d:
@@ -1297,10 +1297,10 @@ translate russian e07s06_suck_dick_55b23fb7:
     lc "Hahaha."
 
 # game/code/e07/e07s06.rpy:709
-translate russian e07s06_suck_dick_cb7d59c3:
+translate russian e07s06_suck_dick_224894ff:
 
-    # lc "[arj_e07name!t], clean him up, and give him a happy ending."
-    lc "[arj_e07name!t], clean him up, and give him a happy ending."
+    # lc "[e07_arjname!t], clean him up, and give him a happy ending."
+    lc "[e07_arjname!t], clean him up, and give him a happy ending."
 
 # game/code/e07/e07s06.rpy:710
 translate russian e07s06_suck_dick_ed723c3b:
