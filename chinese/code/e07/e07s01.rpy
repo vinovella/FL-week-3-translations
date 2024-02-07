@@ -204,11 +204,11 @@ translate chinese e07s01_2a2ab676:
     # mc "Uh, okay..."
     mc "Uh, okay..."
 
-# game/code/e07/e07s01.rpy:155
-translate chinese e07s01_ec3551ed:
+# game/code/e07/e07s01.rpy:160
+translate chinese e07s01_0f06c66e:
 
-    # tr "You do?"
-    tr "You do?"
+    # tr "If I was you-"
+    tr "If I was you-"
 
 # game/code/e07/e07s01.rpy:158
 translate chinese e07s01_9e3b5106:
@@ -1110,5 +1110,4 @@ translate chinese strings:
 
     # game/code/e07/e07s01.rpy:343
     old "Fuckmeat"
-    new "Fuckmeat"
-
+    new "Fuckmeat
