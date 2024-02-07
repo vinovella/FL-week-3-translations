@@ -1154,10 +1154,6 @@ translate russian strings:
     old "No hints available."
     new "No hints available."
 
-# TODO: Translation updated at 2023-09-28 22:53
-
-translate russian strings:
-
     # game/code/hints.rpy:5
     old "You will end up fucking Vanessa in the asshole."
     new "You will end up fucking Vanessa in the asshole."
@@ -1202,10 +1198,6 @@ translate russian strings:
     old "Dahlia won't peg you."
     new "Dahlia won't peg you."
 
-# TODO: Translation updated at 2023-12-07 21:19
-
-translate russian strings:
-
     # game/code/hints.rpy:5
     old "Make Daisy say what she wants."
     new "Make Daisy say what she wants."
@@ -1221,10 +1213,6 @@ translate russian strings:
     # game/code/hints.rpy:5
     old "You have no will of you own. You are simply an extension of Dahlia."
     new "You have no will of you own. You are simply an extension of Dahlia."
-
-# TODO: Translation updated at 2024-02-06 17:05
-
-translate russian strings:
 
     # game/code/hints.rpy:5
     old "Keep your name as it is."
@@ -1318,3 +1306,34 @@ translate russian strings:
     old "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
     new "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
 
+    # game/code/hints.rpy:5
+    old "Be prepared for the challenge, and improve your chances of winning."
+    new "Be prepared for the challenge, and improve your chances of winning."
+
+    # game/code/hints.rpy:5
+    old "Maybe she'll choose someone else, take the risk of not being ready."
+    new "Maybe she'll choose someone else, take the risk of not being ready."
+
+    # game/code/hints.rpy:5
+    old "What could be waiting for you?"
+    new "What could be waiting for you?"
+
+    # game/code/hints.rpy:5
+    old "What's she got planned next?"
+    new "What's she got planned next?"
+
+    # game/code/hints.rpy:5
+    old "What's in store for you now?"
+    new "What's in store for you now?"
+
+    # game/code/hints.rpy:5
+    old "Disobey [e07_lcname!t] and lose the challenge."
+    new "Disobey [e07_lcname!t] and lose the challenge."
+
+    # game/code/hints.rpy:5
+    old "Prove your devotion to [e07_lcname!t] and win the challenge."
+    new "Prove your devotion to [e07_lcname!t] and win the challenge."
+
+    # game/code/hints.rpy:5
+    old "Disappoint [e07_lcname!t] and be the loser."
+    new "Disappoint [e07_lcname!t] and be the loser."

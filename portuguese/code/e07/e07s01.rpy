@@ -204,10 +204,10 @@ translate portuguese e07s01_2a2ab676:
     # mc "Uh, okay..."
     mc ""
 
-# game/code/e07/e07s01.rpy:155
-translate portuguese e07s01_ec3551ed:
+# game/code/e07/e07s01.rpy:160
+translate portuguese e07s01_0f06c66e:
 
-    # tr "You do?"
+    # tr "If I was you-"
     tr ""
 
 # game/code/e07/e07s01.rpy:158
@@ -1111,4 +1111,3 @@ translate portuguese strings:
     # game/code/e07/e07s01.rpy:343
     old "Fuckmeat"
     new ""
-

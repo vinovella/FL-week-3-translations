@@ -1110,4 +1110,4 @@ translate chinese strings:
 
     # game/code/e07/e07s01.rpy:343
     old "Fuckmeat"
-    new "Fuckmeat
+    new "Fuckmeat"

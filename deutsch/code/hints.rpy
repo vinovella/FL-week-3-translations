@@ -1318,3 +1318,34 @@ translate deutsch strings:
     old "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
     new "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
 
+    # game/code/hints.rpy:5
+    old "Be prepared for the challenge, and improve your chances of winning."
+    new "Be prepared for the challenge, and improve your chances of winning."
+
+    # game/code/hints.rpy:5
+    old "Maybe she'll choose someone else, take the risk of not being ready."
+    new "Maybe she'll choose someone else, take the risk of not being ready."
+
+    # game/code/hints.rpy:5
+    old "What could be waiting for you?"
+    new "What could be waiting for you?"
+
+    # game/code/hints.rpy:5
+    old "What's she got planned next?"
+    new "What's she got planned next?"
+
+    # game/code/hints.rpy:5
+    old "What's in store for you now?"
+    new "What's in store for you now?"
+
+    # game/code/hints.rpy:5
+    old "Disobey [e07_lcname!t] and lose the challenge."
+    new "Disobey [e07_lcname!t] and lose the challenge."
+
+    # game/code/hints.rpy:5
+    old "Prove your devotion to [e07_lcname!t] and win the challenge."
+    new "Prove your devotion to [e07_lcname!t] and win the challenge."
+
+    # game/code/hints.rpy:5
+    old "Disappoint [e07_lcname!t] and be the loser."
+    new "Disappoint [e07_lcname!t] and be the loser."

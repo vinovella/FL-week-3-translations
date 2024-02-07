@@ -205,10 +205,10 @@ translate russian e07s01_2a2ab676:
     mc "Uh, okay..."
 
 # game/code/e07/e07s01.rpy:160
-translate russian e07s01_ec3551ed:
+translate russian e07s01_0f06c66e:
 
-    # tr "You do?"
-    tr "You do?"
+    # tr "If I was you-"
+    tr "If I was you-"
 
 # game/code/e07/e07s01.rpy:163
 translate russian e07s01_9e3b5106:
@@ -1111,4 +1111,3 @@ translate russian strings:
     # game/code/e07/e07s01.rpy:348
     old "Fuckmeat"
     new "Fuckmeat"
-

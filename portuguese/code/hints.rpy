@@ -1326,3 +1326,34 @@ translate portuguese strings:
     old "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
     new ""
 
+    # game/code/hints.rpy:5
+    old "Be prepared for the challenge, and improve your chances of winning."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Maybe she'll choose someone else, take the risk of not being ready."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "What could be waiting for you?"
+    new ""
+
+    # game/code/hints.rpy:5
+    old "What's she got planned next?"
+    new ""
+
+    # game/code/hints.rpy:5
+    old "What's in store for you now?"
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Disobey [e07_lcname!t] and lose the challenge."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Prove your devotion to [e07_lcname!t] and win the challenge."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Disappoint [e07_lcname!t] and be the loser."
+    new ""
