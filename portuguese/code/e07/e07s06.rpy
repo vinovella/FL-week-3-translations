@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-06 16:39
+﻿# TODO: Translation updated at 2024-02-08 02:38
 
 # game/code/e07/e07s06.rpy:19
 translate portuguese e07s06_7cbb521d:
@@ -1297,9 +1297,9 @@ translate portuguese e07s06_suck_dick_55b23fb7:
     lc ""
 
 # game/code/e07/e07s06.rpy:709
-translate portuguese e07s06_suck_dick_cb7d59c3:
+translate portuguese e07s06_suck_dick_224894ff:
 
-    # lc "[arj_e07name!t], clean him up, and give him a happy ending."
+    # lc "[e07_arjname!t], clean him up, and give him a happy ending."
     lc ""
 
 # game/code/e07/e07s06.rpy:710

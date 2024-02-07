@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-06 16:42
+﻿# TODO: Translation updated at 2024-02-08 02:40
 
 # game/code/e07/e07s02.rpy:39
 translate chinese e07s02_42fc7010:
@@ -792,385 +792,385 @@ translate chinese e07s02_bathroom_37937bec:
     # lc "Mmmmmm, fuck, [e07_mcname!t], eat my ass and make me cum."
     lc "Mmmmmm, fuck, [e07_mcname!t], eat my ass and make me cum."
 
-# game/code/e07/e07s02.rpy:523
+# game/code/e07/e07s02.rpy:522
 translate chinese e07s02_challenge_win_91b07966:
 
     # lc "Fuck, this is what I needed!"
     lc "Fuck, this is what I needed!"
 
-# game/code/e07/e07s02.rpy:525
+# game/code/e07/e07s02.rpy:524
 translate chinese e07s02_challenge_win_cbf90b34:
 
     # lc "Just like that, eat my dirty ass, [e07_mcname!t]!"
     lc "Just like that, eat my dirty ass, [e07_mcname!t]!"
 
-# game/code/e07/e07s02.rpy:527
+# game/code/e07/e07s02.rpy:526
 translate chinese e07s02_challenge_win_99ee2411:
 
     # lc "Get your tongue in there, yes!"
     lc "Get your tongue in there, yes!"
 
-# game/code/e07/e07s02.rpy:530
+# game/code/e07/e07s02.rpy:529
 translate chinese e07s02_challenge_win_d46b764a:
 
     # lc "Yes, yes, YES!!"
     lc "Yes, yes, YES!!"
 
-# game/code/e07/e07s02.rpy:535
+# game/code/e07/e07s02.rpy:534
 translate chinese e07s02_challenge_win_9b1215fd:
 
     # lc "Fuuuuuhuuuck! I'm cumming!"
     lc "Fuuuuuhuuuck! I'm cumming!"
 
-# game/code/e07/e07s02.rpy:540
+# game/code/e07/e07s02.rpy:539
 translate chinese e07s02_challenge_win_a85f65b8:
 
     # lc "Stop jerking off, [e07_pbname!t]."
     lc "Stop jerking off, [e07_pbname!t]."
 
-# game/code/e07/e07s02.rpy:541
+# game/code/e07/e07s02.rpy:540
 translate chinese e07s02_challenge_win_a922b889:
 
     # pb "Fuck, [e07_lcname!t]. I'm so close. Can I please finish?"
     pb "Fuck, [e07_lcname!t]. I'm so close. Can I please finish?"
 
-# game/code/e07/e07s02.rpy:546
+# game/code/e07/e07s02.rpy:545
 translate chinese e07s02_challenge_win_2dba71fa:
 
     # lc "No."
     lc "No."
 
-# game/code/e07/e07s02.rpy:557
+# game/code/e07/e07s02.rpy:556
 translate chinese e07s02_challenge_lose_c8748e07:
 
     # pb "Fuck, here it comes."
     pb "Fuck, here it comes."
 
-# game/code/e07/e07s02.rpy:558
+# game/code/e07/e07s02.rpy:557
 translate chinese e07s02_challenge_lose_bdafb040:
 
     # mct "Oh no..."
     mct "Oh no..."
 
-# game/code/e07/e07s02.rpy:570
+# game/code/e07/e07s02.rpy:569
 translate chinese e07s02_challenge_lose_7ac0a109:
 
     # lc "Hmmm, good job, [e07_pbname!t]."
     lc "Hmmm, good job, [e07_pbname!t]."
 
-# game/code/e07/e07s02.rpy:574
+# game/code/e07/e07s02.rpy:573
 translate chinese e07s02_challenge_lose_fc5f39c1:
 
     # lc "And about what I expected from you."
     lc "And about what I expected from you."
 
-# game/code/e07/e07s02.rpy:588
+# game/code/e07/e07s02.rpy:587
 translate chinese e07s02_bath_water_7cc0f776:
 
     # lc "At least you can listen."
     lc "At least you can listen."
 
-# game/code/e07/e07s02.rpy:591
+# game/code/e07/e07s02.rpy:590
 translate chinese e07s02_bath_water_75bdccb5:
 
     # mc "Yes, [e07_lcname!t]."
     mc "Yes, [e07_lcname!t]."
 
-# game/code/e07/e07s02.rpy:602
+# game/code/e07/e07s02.rpy:601
 translate chinese e07s02_bath_water_f8900612:
 
     # lc "Your winnings, [e07_mcname!t]."
     lc "Your winnings, [e07_mcname!t]."
 
-# game/code/e07/e07s02.rpy:609
+# game/code/e07/e07s02.rpy:608
 translate chinese e07s02_bath_water_b0ab7c45:
 
     # lc "You deserve to see what a real man taste like after doing such a bad job."
     lc "You deserve to see what a real man taste like after doing such a bad job."
 
-# game/code/e07/e07s02.rpy:611
+# game/code/e07/e07s02.rpy:610
 translate chinese e07s02_bath_water_2d097fff:
 
     # lc "Drink."
     lc "Drink."
 
-# game/code/e07/e07s02.rpy:625
+# game/code/e07/e07s02.rpy:624
 translate chinese e07s02_drink_3b6064d0:
 
     # mc "Of course, [e07_lcname!t]."
     mc "Of course, [e07_lcname!t]."
 
-# game/code/e07/e07s02.rpy:631
+# game/code/e07/e07s02.rpy:630
 translate chinese e07s02_drink_159dba35:
 
     # lc "Good. Now both of you, go wait for me in my bedroom. I'll be out... When I want to."
     lc "Good. Now both of you, go wait for me in my bedroom. I'll be out... When I want to."
 
-# game/code/e07/e07s02.rpy:634
+# game/code/e07/e07s02.rpy:633
 translate chinese e07s02_drink_d8e208a3:
 
     # pb "Of course, [e07_lcname!t]."
     pb "Of course, [e07_lcname!t]."
 
-# game/code/e07/e07s02.rpy:636
+# game/code/e07/e07s02.rpy:635
 translate chinese e07s02_drink_80ad1a9a:
 
     # mc "Whatever you desire, [e07_lcname!t]."
     mc "Whatever you desire, [e07_lcname!t]."
 
-# game/code/e07/e07s02.rpy:651
+# game/code/e07/e07s02.rpy:650
 translate chinese e07s02_end_0771069a:
 
     # pb "Yeah man, [e07_lcname!t] can be real cruel. She's left me like this for hours."
     pb "Yeah man, [e07_lcname!t] can be real cruel. She's left me like this for hours."
 
-# game/code/e07/e07s02.rpy:653
+# game/code/e07/e07s02.rpy:652
 translate chinese e07s02_end_cbf2c30c:
 
     # pb "Yeah man, the cock ring [e07_lcname!t] has me wear makes it impossible for my erection to go away."
     pb "Yeah man, the cock ring [e07_lcname!t] has me wear makes it impossible for my erection to go away."
 
-# game/code/e07/e07s02.rpy:656
+# game/code/e07/e07s02.rpy:655
 translate chinese e07s02_end_aef43561:
 
     # mc "You don't appreciate [e07_lcname!t]."
     mc "You don't appreciate [e07_lcname!t]."
 
-# game/code/e07/e07s02.rpy:659
+# game/code/e07/e07s02.rpy:658
 translate chinese e07s02_end_46a49327:
 
     # pb "Okay... Sure. But, what about AmRose? I mean, some of the shit [e07_lcname!t] has done to her... And she's stuck around for you."
     pb "Okay... Sure. But, what about AmRose? I mean, some of the shit [e07_lcname!t] has done to her... And she's stuck around for you."
 
-# game/code/e07/e07s02.rpy:662
+# game/code/e07/e07s02.rpy:661
 translate chinese e07s02_end_00a777b4:
 
     # mc "Yeah, and?"
     mc "Yeah, and?"
 
-# game/code/e07/e07s02.rpy:665
+# game/code/e07/e07s02.rpy:664
 translate chinese e07s02_end_def43e23:
 
     # pb "Man, just between us, I've got no idea why you've got such a hard-on for Lydia when AmRose would do anything for you."
     pb "Man, just between us, I've got no idea why you've got such a hard-on for Lydia when AmRose would do anything for you."
 
-# game/code/e07/e07s02.rpy:668
+# game/code/e07/e07s02.rpy:667
 translate chinese e07s02_end_3f4aae93:
 
     # mc "And that's exactly my point."
     mc "And that's exactly my point."
 
-# game/code/e07/e07s02.rpy:670
+# game/code/e07/e07s02.rpy:669
 translate chinese e07s02_end_128a9b86:
 
     # mc "You don't get it."
     mc "You don't get it."
 
-# game/code/e07/e07s02.rpy:676
+# game/code/e07/e07s02.rpy:675
 translate chinese e07s02_end_45d28ad2:
 
     # lc "That little competition we did is probably the highlight of the month for me. And it got me thinking, what if we did more of them?"
     lc "That little competition we did is probably the highlight of the month for me. And it got me thinking, what if we did more of them?"
 
-# game/code/e07/e07s02.rpy:679
+# game/code/e07/e07s02.rpy:678
 translate chinese e07s02_end_18e5dbfb:
 
     # mc "I think that's a great idea, [e07_lcname!t]."
     mc "I think that's a great idea, [e07_lcname!t]."
 
-# game/code/e07/e07s02.rpy:682
+# game/code/e07/e07s02.rpy:681
 translate chinese e07s02_end_3aec73ae:
 
     # pb "You want me to jerk off into your tub again?"
     pb "You want me to jerk off into your tub again?"
 
-# game/code/e07/e07s02.rpy:686
+# game/code/e07/e07s02.rpy:685
 translate chinese e07s02_end_0d27b0b6:
 
     # lc "Every time you open your mouth, [e07_pbname!t], it makes me question why I let you fuck me."
     lc "Every time you open your mouth, [e07_pbname!t], it makes me question why I let you fuck me."
 
-# game/code/e07/e07s02.rpy:687
+# game/code/e07/e07s02.rpy:686
 translate chinese e07s02_end_7287520e:
 
     # lc "No. I was thinking that we could go have some fun in my friend's dungeon."
     lc "No. I was thinking that we could go have some fun in my friend's dungeon."
 
-# game/code/e07/e07s02.rpy:691
+# game/code/e07/e07s02.rpy:690
 translate chinese e07s02_end_d83795d4:
 
     # lc "So go and pack a bag, boys. We're on the first flight out."
     lc "So go and pack a bag, boys. We're on the first flight out."
 
-# game/code/e07/e07s02.rpy:692
+# game/code/e07/e07s02.rpy:691
 translate chinese e07s02_end_44eaee52:
 
     # lc "And, [e07_mcname!t], get ready for a nice little vacation present!"
     lc "And, [e07_mcname!t], get ready for a nice little vacation present!"
 
-# game/code/e07/e07s02.rpy:697
+# game/code/e07/e07s02.rpy:696
 translate chinese e07s02_end_384546c7:
 
     # mct "I wonder what it could be!"
     mct "I wonder what it could be!"
 
-# game/code/e07/e07s02.rpy:702
+# game/code/e07/e07s02.rpy:701
 translate chinese e07s02_end_719ccfe4:
 
     # lc "Here is your carry-on."
     lc "Here is your carry-on."
 
-# game/code/e07/e07s02.rpy:706
+# game/code/e07/e07s02.rpy:705
 translate chinese e07s02_end_c1dff962:
 
     # mc "Oh..."
     mc "Oh..."
 
-# game/code/e07/e07s02.rpy:707
+# game/code/e07/e07s02.rpy:706
 translate chinese e07s02_end_eb7d73d1:
 
     # mct "It's okay. This is just another test. I'm sure she'll let my cock free once I perform better."
     mct "It's okay. This is just another test. I'm sure she'll let my cock free once I perform better."
 
-# game/code/e07/e07s02.rpy:710
+# game/code/e07/e07s02.rpy:709
 translate chinese e07s02_end_a36076c4:
 
     # lc "It's your favorite little thing. Aren't you excited?"
     lc "It's your favorite little thing. Aren't you excited?"
 
-# game/code/e07/e07s02.rpy:713
+# game/code/e07/e07s02.rpy:712
 translate chinese e07s02_end_06a7c276:
 
     # mc "Of course, [e07_lcname!t]... Every gift from you is a treasure..."
     mc "Of course, [e07_lcname!t]... Every gift from you is a treasure..."
 
-# game/code/e07/e07s02.rpy:716
+# game/code/e07/e07s02.rpy:715
 translate chinese e07s02_end_4adac8c0:
 
     # pb "Where we going?"
     pb "Where we going?"
 
-# game/code/e07/e07s02.rpy:720
+# game/code/e07/e07s02.rpy:719
 translate chinese e07s02_end_07c74bea:
 
     # lc "You'll see when we get there. Now go, or I'll make you both go through the airport with gags and leashes."
     lc "You'll see when we get there. Now go, or I'll make you both go through the airport with gags and leashes."
 
-# game/code/e07/e07s02.rpy:723
+# game/code/e07/e07s02.rpy:722
 translate chinese e07s02_end_19a3ad4c:
 
     # mc "Of course, [e07_lcname!t],"
     mc "Of course, [e07_lcname!t],"
 
-# game/code/e07/e07s02.rpy:727
+# game/code/e07/e07s02.rpy:726
 translate chinese e07s02_end_f4df1ccb:
 
     # lc "Wait, [e07_pbname!t]."
     lc "Wait, [e07_pbname!t]."
 
-# game/code/e07/e07s02.rpy:731
+# game/code/e07/e07s02.rpy:730
 translate chinese e07s02_end_1d354014:
 
     # pb "Yeah?"
     pb "Yeah?"
 
-# game/code/e07/e07s02.rpy:733
+# game/code/e07/e07s02.rpy:732
 translate chinese e07s02_end_46c2130c:
 
     # lc "I'm feeling a little worked up after my bath. Satisfy my needs, then go pack a bag."
     lc "I'm feeling a little worked up after my bath. Satisfy my needs, then go pack a bag."
 
-# game/code/e07/e07s02.rpy:737
+# game/code/e07/e07s02.rpy:736
 translate chinese e07s02_end_de801b2a:
 
     # lc "Make sure you shut the door tight on your way out, [e07_mcname!t]."
     lc "Make sure you shut the door tight on your way out, [e07_mcname!t]."
 
-# game/code/e07/e07s02.rpy:739
+# game/code/e07/e07s02.rpy:738
 translate chinese e07s02_end_5f736e72:
 
     # mc "... yes, [e07_lcname!t]."
     mc "... yes, [e07_lcname!t]."
 
-# game/code/e07/e07s02.rpy:753
+# game/code/e07/e07s02.rpy:752
 translate chinese e07s02_early_end_9964561e:
 
     # mc "I... I can't do it."
     mc "I... I can't do it."
 
-# game/code/e07/e07s02.rpy:758
+# game/code/e07/e07s02.rpy:757
 translate chinese e07s02_early_end_786ca24c:
 
     # lc "You're fucking useless."
     lc "You're fucking useless."
 
-# game/code/e07/e07s02.rpy:763
+# game/code/e07/e07s02.rpy:762
 translate chinese e07s02_early_end_cbaba870:
 
     # lc "Get the fuck out of my house."
     lc "Get the fuck out of my house."
 
-# game/code/e07/e07s02.rpy:766
+# game/code/e07/e07s02.rpy:765
 translate chinese e07s02_early_end_b3a7e9e0:
 
     # mc "Please, Lydia-"
     mc "Please, Lydia-"
 
-# game/code/e07/e07s02.rpy:769
+# game/code/e07/e07s02.rpy:768
 translate chinese e07s02_early_end_ee48f7d1:
 
     # lc "{i}What did you just call me!?{/i}"
     lc "{i}What did you just call me!?{/i}"
 
-# game/code/e07/e07s02.rpy:771
+# game/code/e07/e07s02.rpy:770
 translate chinese e07s02_early_end_2c724239:
 
     # mc "Wait, I-"
     mc "Wait, I-"
 
-# game/code/e07/e07s02.rpy:773
+# game/code/e07/e07s02.rpy:772
 translate chinese e07s02_early_end_9cd0ae4d:
 
     # lc "NO. It's too little, too late. [e07_pbname!t], throw this useless piece of shit out."
     lc "NO. It's too little, too late. [e07_pbname!t], throw this useless piece of shit out."
 
-# game/code/e07/e07s02.rpy:777
+# game/code/e07/e07s02.rpy:776
 translate chinese e07s02_early_end_4b3a8018:
 
     # mc "No, I'm sorry! I'll do whatever you want."
     mc "No, I'm sorry! I'll do whatever you want."
 
-# game/code/e07/e07s02.rpy:779
+# game/code/e07/e07s02.rpy:778
 translate chinese e07s02_early_end_577b992d:
 
     # lc "Faster, [e07_pbname!t]. His groveling is just as pathetic as he is, and it's disturbing my bath."
     lc "Faster, [e07_pbname!t]. His groveling is just as pathetic as he is, and it's disturbing my bath."
 
-# game/code/e07/e07s02.rpy:781
+# game/code/e07/e07s02.rpy:780
 translate chinese e07s02_early_end_6bbf65f0:
 
     # pb "Come on, [mcname]."
     pb "Come on, [mcname]."
 
-# game/code/e07/e07s02.rpy:784
+# game/code/e07/e07s02.rpy:783
 translate chinese e07s02_early_end_9e072da8:
 
     # mc "No, {i}please!{/i}"
     mc "No, {i}please!{/i}"
 
-# game/code/e07/e07s02.rpy:789
+# game/code/e07/e07s02.rpy:788
 translate chinese e07s02_early_end_bad8d53f:
 
     # mc "{i}Please, [e07_lcname!t]!"
     mc "{i}Please, [e07_lcname!t]!"
 
-# game/code/e07/e07s02.rpy:795
+# game/code/e07/e07s02.rpy:794
 translate chinese e07s02_early_end_cc19c60b:
 
     # mc "Come on, Pete, don't do this."
     mc "Come on, Pete, don't do this."
 
-# game/code/e07/e07s02.rpy:797
+# game/code/e07/e07s02.rpy:796
 translate chinese e07s02_early_end_053dc05e:
 
     # pb "Sorry man, you did this to yourself."
@@ -1186,7 +1186,7 @@ translate chinese strings:
     old "Keep eating out [e07_lcname!t]"
     new "Keep eating out [e07_lcname!t]"
 
-    # game/code/e07/e07s02.rpy:612
+    # game/code/e07/e07s02.rpy:611
     old "Accept"
     new "Accept"
 

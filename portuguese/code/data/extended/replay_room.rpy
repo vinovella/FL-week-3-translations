@@ -402,3 +402,55 @@ translate portuguese strings:
     old "Ending 17: Pregnant Dahlia"
     new "Ending 17: Pregnant Dahlia"
 
+# TODO: Translation updated at 2024-02-08 02:38
+
+translate portuguese strings:
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 04: Lydia"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 04: Lydia, Stacy & AmRose"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 04: Daisy, Lydia, Stacy & AmRose"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 04: Lyssa & Lydia"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 04: Lydia & Maria"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 04: Harem"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:112
+    old "Ending 07: AmRose"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:112
+    old "Ending 07: Lydia"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:112
+    old "Ending 07: Lydia & Domina"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:112
+    old "Ending 07: Lydia Gangbang"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:112
+    old "Ending 07: Public Toilet"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:112
+    old "Ending 07: Lydia & AmRose"
+    new ""
+

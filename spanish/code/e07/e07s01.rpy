@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-06 17:02
+﻿# TODO: Translation updated at 2024-02-08 02:37
 
 # game/code/e07/e07s01.rpy:55
 translate spanish e07s01_4eb8b392:
@@ -1111,3 +1111,4 @@ translate spanish strings:
     # game/code/e07/e07s01.rpy:348
     old "Fuckmeat"
     new "Fuckmeat"
+

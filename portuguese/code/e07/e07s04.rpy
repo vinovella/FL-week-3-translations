@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-06 16:39
+﻿# TODO: Translation updated at 2024-02-08 02:38
 
 # game/code/e07/e07s04.rpy:19
 translate portuguese e07s04_13ff1a58:
@@ -187,9 +187,9 @@ translate portuguese e07s04_f9e43197:
     mc ""
 
 # game/code/e07/e07s04.rpy:128
-translate portuguese e07s04_63d53c36:
+translate portuguese e07s04_e0118015:
 
-    # lc "Do better than you're best. If we win I promise that you'll get a nice little treat. But if we lose, well, then [pb_e07name!t] wins and is one step closer to the grand prize."
+    # lc "Do better than you're best. If we win I promise that you'll get a nice little treat. But if we lose, well, then [e07_pbname!t] wins and is one step closer to the grand prize."
     lc ""
 
 # game/code/e07/e07s04.rpy:131
