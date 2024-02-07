@@ -4,265 +4,265 @@
 translate chinese e04s07_0939b90e:
 
     # mc "Good sluts don't pout, Lydia."
-    mc "Good sluts don't pout, Lydia."
+    mc "好荡妇不会绷着个脸，莉迪亚。"
 
 # game/code/e04/e04s07.rpy:19
 translate chinese e04s07_2736713c:
 
     # lc "I'm not pouting, [alt_mcname]. I just... Please help me understand."
-    lc "I'm not pouting, [alt_mcname]. I just... Please help me understand."
+    lc "我没有绷着脸，[alt_mcname]。我只是...请帮我理清楚发生了什么。"
 
 # game/code/e04/e04s07.rpy:22
 translate chinese e04s07_fa552185:
 
     # mc "Isn't it obvious? You have to start from the bottom. That means no fun for you unless all the other prisoners have been seen to."
-    mc "Isn't it obvious? You have to start from the bottom. That means no fun for you unless all the other prisoners have been seen to."
+    mc "这还不明显吗？你必须从最底层做起。这意味着除非其他囚犯都被看光了，否则你就没得玩。"
 
 # game/code/e04/e04s07.rpy:24
 translate chinese e04s07_a9aa8134:
 
     # lc "Okay. But can't you make an exception for me, [alt_mcname]? Please. I was your first prisoner after all."
-    lc "Okay. But can't you make an exception for me, [alt_mcname]? Please. I was your first prisoner after all."
+    lc "明白。但你就不能为我破一次例吗？求你了，[alt_mcname]？毕竟我是你的第一个囚犯。"
 
 # game/code/e04/e04s07.rpy:27
 translate chinese e04s07_3051fc85:
 
     # mc "Don't worry. You'll get your time."
-    mc "Don't worry. You'll get your time."
+    mc "别担心。你会有机会的。"
 
 # game/code/e04/e04s07.rpy:31
 translate chinese e04s07_cb50e4a7:
 
     # mc "When I'm good and ready."
-    mc "When I'm good and ready."
+    mc "等我准备好的时候。"
 
 # game/code/e04/e04s07.rpy:34
 translate chinese e04s07_a3637138:
 
     # lc "I understand, [alt_mcname]."
-    lc "I understand, [alt_mcname]."
+    lc "我明白了，[alt_mcname]。"
 
 # game/code/e04/e04s07.rpy:41
 translate chinese e04s07_9a79128f:
 
     # mc "How are Prisoner 002 and 003 doing?"
-    mc "How are Prisoner 002 and 003 doing?"
+    mc "囚犯002和003号怎么样了？"
 
 # game/code/e04/e04s07.rpy:43
 translate chinese e04s07_6b5af9c8:
 
     # sy "No complaints. I had them working in the yard."
-    sy "No complaints. I had them working in the yard."
+    sy "毫无怨言。我让她们在院子里干活。"
 
 # game/code/e04/e04s07.rpy:46
 translate chinese e04s07_abee31de:
 
     # dd "It was nice getting some sun, but did we really have to carry all that fertilizer?"
-    dd "It was nice getting some sun, but did we really have to carry all that fertilizer?"
+    dd "晒晒太阳是挺不错，但我们真的要背那么多肥料吗？"
 
 # game/code/e04/e04s07.rpy:48
 translate chinese e04s07_4d5783f2:
 
     # arj "Yeah, Lydia might have been an evil bitch, but she kept her garden in shape."
-    arj "Yeah, Lydia might have been an evil bitch, but she kept her garden in shape."
+    arj "是啊，莉迪亚也许是个恶毒的婊子，但她也确实把花园打理得井井有条。"
 
 # game/code/e04/e04s07.rpy:51
 translate chinese e04s07_1ca52a30:
 
     # sy "Oh yeah. That was just for me. I love watching you two sweat as you complete my orders."
-    sy "Oh yeah. That was just for me. I love watching you two sweat as you complete my orders."
+    sy "哦耶。这只是为了我。我喜欢看你们俩在完成我的命令时汗流浃背的样子。"
 
 # game/code/e04/e04s07.rpy:53
 translate chinese e04s07_db07abac:
 
     # mc "Stacy."
-    mc "Stacy."
+    mc "史黛西。"
 
 # game/code/e04/e04s07.rpy:55
 translate chinese e04s07_f72474fb:
 
     # sy "Oh come on. They carried one bag each."
-    sy "Oh come on. They carried one bag each."
+    sy "怎么啦！她们一人背了一包哎。"
 
 # game/code/e04/e04s07.rpy:58
 translate chinese e04s07_2f4a0515:
 
     # mc "You should know better. No one leaves my prison without explicit permission. So now I'll have to punish you instead of Prisoner 002 and Prisoner 003."
-    mc "You should know better. No one leaves my prison without explicit permission. So now I'll have to punish you instead of Prisoner 002 and Prisoner 003."
+    mc "你应该更清楚。没有明确的许可，任何人都不能离开我的监狱。所以，现在我要惩罚的是你，而不是囚犯002和囚犯003。"
 
 # game/code/e04/e04s07.rpy:60
 translate chinese e04s07_4f35b253:
 
     # dd "I actually really like gardening, [alt_mcname]."
-    dd "I actually really like gardening, [alt_mcname]."
+    dd "其实我真的很喜欢园艺，[alt_mcname]。"
 
 # game/code/e04/e04s07.rpy:62
 translate chinese e04s07_f93728b3:
 
     # arj "I've been down here so long I was starting to miss the sun."
-    arj "I've been down here so long I was starting to miss the sun."
+    arj "我在这里呆得太久了，开始想念阳光了。"
 
 # game/code/e04/e04s07.rpy:63
 translate chinese e04s07_2625a296:
 
     # dd "It's cool, [alt_mcname]. It was fun."
-    dd "It's cool, [alt_mcname]. It was fun."
+    dd "干干活还不错，[alt_mcname]。很有意思。"
 
 # game/code/e04/e04s07.rpy:66
 translate chinese e04s07_a25dfc31:
 
     # arj "Yes. Guard Stacy wasn't too cruel to us. She only spanked me when I mistook a petunia for a daffodil."
-    arj "Yes. Guard Stacy wasn't too cruel to us. She only spanked me when I mistook a petunia for a daffodil."
+    arj "是的，史黛西警卫对我们并不算残忍。她只在我把牵牛花错当成水仙花时打了我屁股。"
 
 # game/code/e04/e04s07.rpy:69
 translate chinese e04s07_e6e5aea3:
 
     # sy "See. They love me."
-    sy "See. They love me."
+    sy "看，她们可是超爱我呢。"
 
 # game/code/e04/e04s07.rpy:70
 translate chinese e04s07_96d86f45:
 
     # sy "Pffff."
-    sy "Pffff."
+    sy "噗。"
 
 # game/code/e04/e04s07.rpy:73
 translate chinese e04s07_ff282f26:
 
     # mc "The opinions of the prisoners do not drive my decisions. And you should cut that backtalk."
-    mc "The opinions of the prisoners do not drive my decisions. And you should cut that backtalk."
+    mc "囚犯的意见并不能左右我的决定。你也不准顶嘴了。"
 
 # game/code/e04/e04s07.rpy:74
 translate chinese e04s07_ed6e1561:
 
     # mc "Don't dig yourself a bigger hole than you already have."
-    mc "Don't dig yourself a bigger hole than you already have."
+    mc "别再给自己挖坑了。"
 
 # game/code/e04/e04s07.rpy:77
 translate chinese e04s07_3143a32f:
 
     # sy "Haha. Big talk."
-    sy "Haha. Big talk."
+    sy "哈哈。大言不惭。"
 
 # game/code/e04/e04s07.rpy:78
 translate chinese e04s07_1f4abc92:
 
     # sy "If you don't make me cum in front of those too, all your authority might dry up."
-    sy "If you don't make me cum in front of those too, all your authority might dry up."
+    sy "如果你不在那些人面前也让我高潮，你所有的权威可能都会不复存在。"
 
 # game/code/e04/e04s07.rpy:80
 translate chinese e04s07_0ee76578:
 
     # mc "If you keep resisting, I'll be forced to fuck you senseless."
-    mc "If you keep resisting, I'll be forced to fuck you senseless."
+    mc "如果你继续反抗，我将被迫把你干得毫无知觉。"
 
 # game/code/e04/e04s07.rpy:83
 translate chinese e04s07_6ba3d3cd:
 
     # sy "Hah! Give it your best shot, [alt_mcname]"
-    sy "Hah! Give it your best shot, [alt_mcname]"
+    sy "哈！务必尽你所能，[alt_mcname]。"
 
 # game/code/e04/e04s07.rpy:86
 translate chinese e04s07_56d3ff98:
 
     # sy "Hey!"
-    sy "Hey!"
+    sy "嘿！"
 
 # game/code/e04/e04s07.rpy:88
 translate chinese e04s07_29f5dd2d:
 
     # mc "This has been a long time coming."
-    mc "This has been a long time coming."
+    mc "真是等了很久了呢。"
 
 # game/code/e04/e04s07.rpy:91
 translate chinese e04s07_1a84fc83:
 
     # arj "*whispers* Get her [alt_mcname]."
-    arj "*whispers* Get her [alt_mcname]."
+    arj "*低语* 抓住她，[alt_mcname]。"
 
 # game/code/e04/e04s07.rpy:94
 translate chinese e04s07_98155c26:
 
     # sy "Mmrm. Are you going to put me in lockup? I don't think a strip-search will find much."
-    sy "Mmrm. Are you going to put me in lockup? I don't think a strip-search will find much."
+    sy "哼嗯...你要把我关起来吗？我不认为脱衣搜身能找到什么。"
 
 # game/code/e04/e04s07.rpy:96
 translate chinese e04s07_4e61c88a:
 
     # mc "No. Today you're going to get an old-fashion beatdown with my cock."
-    mc "No. Today you're going to get an old-fashion beatdown with my cock."
+    mc "你不会被关起来，今天你会被我的鸡巴狠狠揍一顿。"
 
 # game/code/e04/e04s07.rpy:102
 translate chinese e04s07_49c4c957:
 
     # sy "Nrrahh. Ouhah."
-    sy "Nrrahh. Ouhah."
+    sy "嗯...啊哈。"
 
 # game/code/e04/e04s07.rpy:103
 translate chinese e04s07_e3e28c32:
 
     # sy "Tch. You can do better than that."
-    sy "Tch. You can do better than that."
+    sy "切。你可以做得更好。"
 
 # game/code/e04/e04s07.rpy:106
 translate chinese e04s07_8aa66941:
 
     # mc "I will. Very soon. Prisoners, have some fun with the guards for a minute."
-    mc "I will. Very soon. Prisoners, have some fun with the guards for a minute."
+    mc "我会的。很快。囚犯们，跟守卫玩一会儿吧。"
 
 # game/code/e04/e04s07.rpy:109
 translate chinese e04s07_f33d4fc7:
 
     # mc "Except you, Prisoner 001."
-    mc "Except you, Prisoner 001."
+    mc "除了你，001号囚犯。"
 
 # game/code/e04/e04s07.rpy:112
 translate chinese e04s07_7010b35c:
 
     # arj "[alt_mcname] is the best isn't he Daisy?"
-    arj "[alt_mcname] is the best isn't he Daisy?"
+    arj "[alt_mcname]最棒了，对不对，黛西？"
 
 # game/code/e04/e04s07.rpy:117
 translate chinese e04s07_113cf047:
 
     # arj "Huh?"
-    arj "Huh?"
+    arj "嗯?"
 
 # game/code/e04/e04s07.rpy:118
 translate chinese e04s07_d4134f7d:
 
     # arj "You're already eating her out?! I was going to do that."
-    arj "You're already eating her out?! I was going to do that."
+    arj "你已经在吃她了？我正想这么做呢。"
 
 # game/code/e04/e04s07.rpy:122
 translate chinese e04s07_98f934bc:
 
     # dd "Mrrrmhh... you can taste her after. Oh my god. She's getting so wet."
-    dd "Mrrrmhh... you can taste her after. Oh my god. She's getting so wet."
+    dd "唔唔唔...之后你可以尝尝。我的天啊。她下面已经湿透了。"
 
 # game/code/e04/e04s07.rpy:126
 translate chinese e04s07_b2e6325e:
 
     # sy "Nrrrn... Hey... I wanted to get fucked. Not teased."
-    sy "Nrrrn... Hey... I wanted to get fucked. Not teased."
+    sy "哈啊...嘿...我想被操。而不是被挑逗。"
 
 # game/code/e04/e04s07.rpy:129
 translate chinese e04s07_617ea3b9:
 
     # mc "I make up the rules here you little brat."
-    mc "I make up the rules here you little brat."
+    mc "这里的规矩是我定的，你这小鬼。"
 
 # game/code/e04/e04s07.rpy:134
 translate chinese e04s07_61c8b838:
 
     # sy "Murrrahh..."
-    sy "Murrrahh..."
+    sy "哈啊啊啊..."
 
 # game/code/e04/e04s07.rpy:136
 translate chinese e04s07_ad5b7e40:
 
     # sy "Ahurraah... Mrruaah... Amburrh..."
-    sy "Ahurraah... Mrruaah... Amburrh..."
+    sy "哈啊啊啊...唔唔唔...哼嗯嗯嗯..."
 
 # game/code/e04/e04s07.rpy:138
 translate chinese e04s07_b8ae9695:
