@@ -15,12 +15,12 @@ translate portuguese strings:
     new "Você liberou conteúdo bônus"
 
     # game/code/functions.rpy:205
-    old "The game will replay the scene\naccording to a default playthrough"
-    new "O jogo repetirá a cena\nde acordo com uma jogada padrão"
+    old "The game will replay the scene according to a default playthrough"
+    new "O jogo repetirá a cena de acordo com uma jogada padrão"
 
     # game/code/functions.rpy:207
-    old "The game will try to replay the scene\naccording to your current playthrough"
-    new "O jogo tentará repetir a cena\nde acordo com sua jogada atual"
+    old "The game will try to replay the scene according to your current playthrough"
+    new "O jogo tentará repetir a cena de acordo com sua jogada atual"
 
     # game/code/functions.rpy:284
     old "You can only select two out of Min, Lyssa and Maria"
@@ -37,4 +37,3 @@ translate portuguese strings:
     # game/code/functions.rpy:23
     old "You have unlocked Ending #{}"
     new "You have unlocked Ending #{}"
-

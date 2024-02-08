@@ -16,11 +16,11 @@ translate italian strings:
 
     # game/code/screens/extended/screens_fl.rpy:38
     old "Hints on"
-    new "Suggerimenti\nattivi"
+    new "Suggerimenti attivi"
 
     # game/code/screens/extended/screens_fl.rpy:38
     old "Hints off"
-    new "Suggerimenti\ndisattivati"
+    new "Suggerimenti disattivati"
 
     # game/code/screens/extended/screens_fl.rpy:51
     old "Page [page]"

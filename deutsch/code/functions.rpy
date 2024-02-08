@@ -19,12 +19,12 @@ translate deutsch strings:
     new "Du hast neue Bonusinhalte freigeschaltet"
 
     # game/code/functions.rpy:303
-    old "The game will replay the scene\naccording to a default playthrough"
-    new "Das Spiel wird die Szene\nwie bei einem Standard-Spieldurchlauf wiedergeben"
+    old "The game will replay the scene according to a default playthrough"
+    new "Das Spiel wird die Szene wie bei einem Standard-Spieldurchlauf wiedergeben"
 
     # game/code/functions.rpy:305
-    old "The game will try to replay the scene\naccording to your current playthrough"
-    new "Das Spiel wird versuchen, die Szene\nentsprechend deines aktuellen Spieldurchlaufs wiederzugeben"
+    old "The game will try to replay the scene according to your current playthrough"
+    new "Das Spiel wird versuchen, die Szene entsprechend deines aktuellen Spieldurchlaufs wiederzugeben"
 
     # game/code/functions.rpy:382
     old "You can only select two out of Min, Lyssa and Maria"
@@ -33,4 +33,3 @@ translate deutsch strings:
     # game/code/functions.rpy:384
     old "You can only select one out of Daisy and Dahlia"
     new "Du kannst nur entweder Daisy oder Dahlia auswählen"
-

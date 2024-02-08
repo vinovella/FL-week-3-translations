@@ -15,11 +15,11 @@ translate italian strings:
     new "Hai sbloccato un nuovo contenuto bonus"
 
     # game/code/functions.rpy:299
-    old "The game will replay the scene\naccording to a default playthrough"
-    new "Il gioco riprodurrà la scena\nsecondo un playthrough predefinito"
+    old "The game will replay the scene according to a default playthrough"
+    new "Il gioco riprodurrà la scena secondo un playthrough predefinito"
 
     # game/code/functions.rpy:301
-    old "The game will try to replay the scene\naccording to your current playthrough"
+    old "The game will try to replay the scene according to your current playthrough"
     new "Il gioco cercherà di riprodurre la scena in base al tuo gioco attuale"
 
     # game/code/functions.rpy:378

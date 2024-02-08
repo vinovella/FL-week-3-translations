@@ -15,11 +15,11 @@ translate russian strings:
     new "Вы открыли бонусный контент"
 
     # game/code/functions.rpy:142
-    old "The game will replay the scene\naccording to a default playthrough"
+    old "The game will replay the scene according to a default playthrough"
     new "Повтор будет воспроизведен в режиме по умолчанию"
 
     # game/code/functions.rpy:144
-    old "The game will try to replay the scene\naccording to your current playthrough"
+    old "The game will try to replay the scene according to your current playthrough"
     new "Повтор будет воспроизведен как в вашем последнем прохождении"
 
 # TODO: Translation updated at 2022-01-31 15:43
@@ -41,4 +41,3 @@ translate russian strings:
     # game/code/functions.rpy:23
     old "You have unlocked Ending #{}"
     new "Вы разблокировали концовку #{}"
-

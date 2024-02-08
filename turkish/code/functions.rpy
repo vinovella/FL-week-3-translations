@@ -19,12 +19,12 @@ translate turkish strings:
     new "Yeni bir bonus içeriğin kilidini açtınız"
 
     # game/code/functions.rpy:299
-    old "The game will replay the scene\naccording to a default playthrough"
-    new "Oyun sahneyi\nvarsayılan oynatmaya göre yeniden oynayacak"
+    old "The game will replay the scene according to a default playthrough"
+    new "Oyun sahneyi varsayılan oynatmaya göre yeniden oynayacak"
 
     # game/code/functions.rpy:301
-    old "The game will try to replay the scene\naccording to your current playthrough"
-    new "Oyun, mevcut oynayışınıza göre\nsahneyi yeniden oynatmaya çalışacak"
+    old "The game will try to replay the scene according to your current playthrough"
+    new "Oyun, mevcut oynayışınıza göre sahneyi yeniden oynatmaya çalışacak"
 
     # game/code/functions.rpy:378
     old "You can only select two out of Min, Lyssa and Maria"
@@ -33,4 +33,3 @@ translate turkish strings:
     # game/code/functions.rpy:380
     old "You can only select one out of Daisy and Dahlia"
     new "Daisy ve Dahlia'dan sadece birini seçebilirsiniz"
-

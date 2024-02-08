@@ -16,11 +16,11 @@ translate spanish strings:
 
     # game/code/screens/extended/screens_fl.rpy:38
     old "Hints on"
-    new "Sugerencias\nactivadas"
+    new "Sugerencias activadas"
 
     # game/code/screens/extended/screens_fl.rpy:38
     old "Hints off"
-    new "Sugerencias\ndesactivadas"
+    new "Sugerencias desactivadas"
 
     # game/code/screens/extended/screens_fl.rpy:51
     old "Page [page]"
@@ -37,4 +37,3 @@ translate spanish strings:
     # game/code/screens/extended/screens_fl.rpy:135
     old "Coming Soon"
     new "Próximamente"
-
