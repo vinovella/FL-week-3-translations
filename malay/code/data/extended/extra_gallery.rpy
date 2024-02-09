@@ -263,7 +263,7 @@ translate malay strings:
     new "SAYA NAK KEKALKAN\nFETISH LOCATOR"
 
     # game/code/data/extended/extra_gallery.rpy:307
-    old "TO MAKR SURE NO ONE\nWILL BE BLACKMAILED"
+    old "TO MAKE SURE NO ONE\nWILL BE BLACKMAILED"
     new "UNTUK MEMASTIKAN TIADA SEORANG\nAKAN DIPERAS UGUT"
 
     # game/code/data/extended/extra_gallery.rpy:354
@@ -301,3 +301,71 @@ translate malay strings:
     # game/code/data/extended/extra_gallery.rpy:441
     old "The whole\nharem pregnant"
     new "Seluruh\nharem hamil"
+
+# TODO: Translation updated at 2024-02-09 23:53
+
+translate malay strings:
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "30. What? You wanted more?"
+    new "30. What? You wanted more?"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Finish all 6 Endings from DLC-1"
+    new "Finish all 6 Endings from DLC-1"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "31. Go Debbie Go"
+    new "31. Go Debbie Go"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Have sex with Debbie"
+    new "Have sex with Debbie"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "32. Fully Cooked"
+    new "32. Fully Cooked"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Get max points in Lydia's challenges in e07"
+    new "Get max points in Lydia's challenges in e07"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "33. Full House"
+    new "33. Full House"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Play with all the characters in e04"
+    new "Play with all the characters in e04"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "34. Day and Night"
+    new "34. Day and Night"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Finish e04 and e07"
+    new "Finish e04 and e07"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "35. A lucky dozen"
+    new "35. A lucky dozen"
+
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Finish 12 endings"
+    new "Finish 12 endings"
+
+    # game/code/data/extended/extra_gallery.rpy:712
+    old "ORNY"
+    new "ORNY"
+
+    # game/code/data/extended/extra_gallery.rpy:713
+    old "H"
+    new "H"
+
+    # game/code/data/extended/extra_gallery.rpy:714
+    old "UNGRY"
+    new "UNGRY"
+
+    # game/code/data/extended/extra_gallery.rpy:715
+    old "APPY"
+    new "APPY"

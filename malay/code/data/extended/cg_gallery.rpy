@@ -221,3 +221,15 @@ translate malay strings:
     # game/code/data/extended/cg_gallery.rpy:108
     old "Ending 17: Dahlia"
     new "Pengakhiran 17: Dahlia"
+
+# TODO: Translation updated at 2024-02-09 23:53
+
+translate malay strings:
+
+    # game/code/data/extended/cg_gallery.rpy:75
+    old "Ending 04: Girls"
+    new "Ending 04: Girls"
+
+    # game/code/data/extended/cg_gallery.rpy:85
+    old "Ending 07: Girls"
+    new "Ending 07: Girls"
