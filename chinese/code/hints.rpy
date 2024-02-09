@@ -335,14 +335,6 @@ translate chinese strings:
     new "增加解锁黛西怀孕结局的几率。"
 
     # game/code/hints.rpy:5
-    old "Lose option for Polly/Nora/[mcname] Threesome ending."
-    new "失去波莉/诺拉/[mcname]三人行结局的选择机会。"
-
-    # game/code/hints.rpy:5
-    old "Increases chance of Polly/Nora/[mcname] Threesome ending."
-    new "增加波莉/诺拉/[mcname]三人行结局的选择机会。"
-
-    # game/code/hints.rpy:5
     old "You will start a relationship with Jessie. Necessary for Ending 16."
     new "你会和杰西开始一段感情。此项为结局16的必需条件。"
 
@@ -919,10 +911,6 @@ translate chinese strings:
     new "你给丽莎口交。这是一个可选场景。"
 
     # game/code/hints.rpy:5
-    old "This option skips the blowjob scene. Scene goes to Lyssa and [mcname] indoors."
-    new "这个选项会跳过口交的场景。场景转到丽莎和[mcname]的室内。"
-
-    # game/code/hints.rpy:5
     old "You do both."
     new "两个都做。"
 
@@ -1347,13 +1335,25 @@ translate chinese strings:
     new "What's in store for you now?"
 
     # game/code/hints.rpy:5
-    old "Disobey [e07_lcname!t] and lose the challenge."
-    new "Disobey [e07_lcname!t] and lose the challenge."
+    old "Lose option for Polly & Nora Threesome ending."
+    new "Lose option for Polly & Nora Threesome ending."
 
     # game/code/hints.rpy:5
-    old "Prove your devotion to [e07_lcname!t] and win the challenge."
-    new "Prove your devotion to [e07_lcname!t] and win the challenge."
+    old "Increases chance of Polly & Nora Threesome ending."
+    new "Increases chance of Polly & Nora Threesome ending."
 
     # game/code/hints.rpy:5
-    old "Disappoint [e07_lcname!t] and be the loser."
-    new "Disappoint [e07_lcname!t] and be the loser."
+    old "This option skips the blowjob scene. Scene goes to indoors."
+    new "This option skips the blowjob scene. Scene goes to indoors."
+
+    # game/code/hints.rpy:5
+    old "Disobey Lydia and lose the challenge."
+    new "Disobey Lydia and lose the challenge."
+
+    # game/code/hints.rpy:5
+    old "Prove your devotion to Lydia and win the challenge."
+    new "Prove your devotion to Lydia and win the challenge."
+
+    # game/code/hints.rpy:5
+    old "Disappoint Lydia and be the loser."
+    new "Disappoint Lydia and be the loser."

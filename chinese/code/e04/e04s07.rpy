@@ -2064,10 +2064,10 @@ translate chinese e04s07_end_c2121c6f:
     # mc "You did very well today. One more week of good behavior, and maybe you can sleep up here."
     mc "你今天表现得很好。再好好表现一周，也许你就能睡在这里了。"
 
-# game/code/e04/e04s07.rpy:1047
-translate chinese e04s07_end_cc0654ae:
+# game/code/e04/e04s07.rpy:1301
+translate chinese e04s07_end_117b0c97:
 
-    # mc "Now go to sleept, Prisoner 001."
+    # mc "Now go to sleep, Prisoner 001."
     mc "现在去睡觉吧，囚犯001。"
 
 # game/code/e04/e04s07.rpy:1049

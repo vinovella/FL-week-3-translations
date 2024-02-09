@@ -1948,3 +1948,11 @@ translate chinese strings:
     old "Just Leave"
     new "Just Leave"
 
+# TODO: Translation updated at 2024-02-09 23:39
+
+translate chinese strings:
+
+    # game/code/e07/e07s07.rpy:996
+    old "You have failed Ending #07!"
+    new "You have failed Ending #07!"
+
