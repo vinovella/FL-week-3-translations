@@ -222,3 +222,15 @@ translate deutsch strings:
     old "Ending 17: Dahlia"
     new "Ende 17: Dahlia"
 
+# TODO: Translation updated at 2024-02-09 23:44
+
+translate deutsch strings:
+
+    # game/code/data/extended/cg_gallery.rpy:75
+    old "Ending 04: Girls"
+    new "Ending 04: Girls"
+
+    # game/code/data/extended/cg_gallery.rpy:85
+    old "Ending 07: Girls"
+    new "Ending 07: Girls"
+

@@ -335,14 +335,6 @@ translate deutsch strings:
     new "Erhöht die Chance, das Daisy-Schwangerschaftsende freizuschalten."
 
     # game/code/hints.rpy:5
-    old "Lose option for Polly/Nora/[mcname] Threesome ending."
-    new "Du verlierst die Option für ein Polly/Nora/[mcname]-Dreier-Ende."
-
-    # game/code/hints.rpy:5
-    old "Increases chance of Polly/Nora/[mcname] Threesome ending."
-    new "Erhöht die Chance, auf ein Dreier-Ende mit Polly/Nora/[mcname]."
-
-    # game/code/hints.rpy:5
     old "You will start a relationship with Jessie. Necessary for Ending 16."
     new "Du wirst eine Beziehung mit Jessie beginnen. Notwendig für Ende #16."
 
@@ -939,10 +931,6 @@ translate deutsch strings:
     new "Du gibst Lyssa einen Blowjob. Dies ist eine optionale Szene."
 
     # game/code/hints.rpy:5
-    old "This option skips the blowjob scene. Scene goes to Lyssa and [mcname] indoors."
-    new "Diese Option überspringt die Blowjob-Szene. Die Szene springt zu Lyssa und [mcname] drinnen."
-
-    # game/code/hints.rpy:5
     old "You do both."
     new "Du machst beides."
 
@@ -1339,13 +1327,25 @@ translate deutsch strings:
     new "What's in store for you now?"
 
     # game/code/hints.rpy:5
-    old "Disobey [e07_lcname!t] and lose the challenge."
-    new "Disobey [e07_lcname!t] and lose the challenge."
+    old "Lose option for Polly & Nora Threesome ending."
+    new "Lose option for Polly & Nora Threesome ending."
 
     # game/code/hints.rpy:5
-    old "Prove your devotion to [e07_lcname!t] and win the challenge."
-    new "Prove your devotion to [e07_lcname!t] and win the challenge."
+    old "Increases chance of Polly & Nora Threesome ending."
+    new "Increases chance of Polly & Nora Threesome ending."
 
     # game/code/hints.rpy:5
-    old "Disappoint [e07_lcname!t] and be the loser."
-    new "Disappoint [e07_lcname!t] and be the loser."
+    old "This option skips the blowjob scene. Scene goes to indoors."
+    new "This option skips the blowjob scene. Scene goes to indoors."
+
+    # game/code/hints.rpy:5
+    old "Disobey Lydia and lose the challenge."
+    new "Disobey Lydia and lose the challenge."
+
+    # game/code/hints.rpy:5
+    old "Prove your devotion to Lydia and win the challenge."
+    new "Prove your devotion to Lydia and win the challenge."
+
+    # game/code/hints.rpy:5
+    old "Disappoint Lydia and be the loser."
+    new "Disappoint Lydia and be the loser."
