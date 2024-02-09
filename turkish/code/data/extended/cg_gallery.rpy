@@ -213,3 +213,11 @@ translate turkish strings:
     # game/code/data/extended/cg_gallery.rpy:108
     old "Ending 17: Dahlia"
     new "17. Son: Dahlia"
+
+    # game/code/data/extended/cg_gallery.rpy:75
+    old "Ending 04: Girls"
+    new "Ending 04: Girls"
+
+    # game/code/data/extended/cg_gallery.rpy:85
+    old "Ending 07: Girls"
+    new "Ending 07: Girls"

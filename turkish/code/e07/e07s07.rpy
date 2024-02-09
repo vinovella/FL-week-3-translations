@@ -1947,3 +1947,7 @@ translate turkish strings:
     # game/code/e07/e07s07.rpy:993
     old "Just Leave"
     new "Just Leave"
+
+    # game/code/e07/e07s07.rpy:996
+    old "You have failed Ending #07!"
+    new "You have failed Ending #07!"
