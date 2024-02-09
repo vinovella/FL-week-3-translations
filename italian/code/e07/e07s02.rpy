@@ -1158,11 +1158,11 @@ translate italian e07s02_early_end_9e072da8:
     # mc "No, {i}please!{/i}"
     mc "No, {i}please!{/i}"
 
-# game/code/e07/e07s02.rpy:788
-translate italian e07s02_early_end_bad8d53f:
+# game/code/e07/e07s02.rpy:710
+translate italian e07s02_early_end_606acbdb:
 
-    # mc "{i}Please, [e07_lcname!t]!"
-    mc "{i}Please, [e07_lcname!t]!"
+    # mc "Please, [e07_lcname!t]!"
+    mc "Please, [e07_lcname!t]!"
 
 # game/code/e07/e07s02.rpy:794
 translate italian e07s02_early_end_cc19c60b:
@@ -1189,4 +1189,3 @@ translate italian strings:
     # game/code/e07/e07s02.rpy:611
     old "Accept"
     new "Accept"
-
