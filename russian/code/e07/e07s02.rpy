@@ -1190,3 +1190,11 @@ translate russian strings:
     old "Accept"
     new "Accept"
 
+# TODO: Translation updated at 2024-02-10 00:53
+
+# game/code/e07/e07s02.rpy:710
+translate russian e07s02_early_end_606acbdb:
+
+    # mc "Please, [e07_lcname!t]!"
+    mc "Please, [e07_lcname!t]!"
+
