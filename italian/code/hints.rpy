@@ -335,14 +335,6 @@ translate italian strings:
     new "Aumenta la possibilità di sbloccare il finale con la gravidanza di Daisy."
 
     # game/code/hints.rpy:5
-    old "Lose option for Polly/Nora/[mcname] Threesome ending."
-    new "Perdi l'opzione del finale con un threesome tra Polly/Nora/[mcname]."
-
-    # game/code/hints.rpy:5
-    old "Increases chance of Polly/Nora/[mcname] Threesome ending."
-    new "Aumenta la possibilità del finale con un threesome tra Polly/Nora/[mcname]."
-
-    # game/code/hints.rpy:5
     old "You will start a relationship with Jessie. Necessary for Ending 16."
     new "Inizierai una relazione con Jessie. È necessario per il Finale 16."
 
@@ -939,10 +931,6 @@ translate italian strings:
     new "Farai un pompino a Lyssa. Questa è una scena opzionale"
 
     # game/code/hints.rpy:5
-    old "This option skips the blowjob scene. La scena va a Lyssa and [mcname] al chiuso."
-    new "Questa opzione salta la scena del pompino. ."
-
-    # game/code/hints.rpy:5
     old "You do both."
     new "Fai entrambe le cose."
 
@@ -1154,18 +1142,6 @@ translate italian strings:
     old "No hints available."
     new "Nessun suggerimento disponibile."
 
-# TODO: Translation updated at 2023-06-01 02:00
-
-translate italian strings:
-
-    # game/code/hints.rpy:5
-    old "This option skips the blowjob scene. Scene goes to Lyssa and [mcname] indoors."
-    new "This option skips the blowjob scene. Scene goes to Lyssa and [mcname] indoors."
-
-# TODO: Translation updated at 2023-09-28 22:45
-
-translate italian strings:
-
     # game/code/hints.rpy:5
     old "You will end up fucking Vanessa in the asshole."
     new "You will end up fucking Vanessa in the asshole."
@@ -1347,13 +1323,25 @@ translate italian strings:
     new "What's in store for you now?"
 
     # game/code/hints.rpy:5
-    old "Disobey [e07_lcname!t] and lose the challenge."
-    new "Disobey [e07_lcname!t] and lose the challenge."
+    old "Lose option for Polly & Nora Threesome ending."
+    new "Lose option for Polly & Nora Threesome ending."
 
     # game/code/hints.rpy:5
-    old "Prove your devotion to [e07_lcname!t] and win the challenge."
-    new "Prove your devotion to [e07_lcname!t] and win the challenge."
+    old "Increases chance of Polly & Nora Threesome ending."
+    new "Increases chance of Polly & Nora Threesome ending."
 
     # game/code/hints.rpy:5
-    old "Disappoint [e07_lcname!t] and be the loser."
-    new "Disappoint [e07_lcname!t] and be the loser."
+    old "This option skips the blowjob scene. Scene goes to indoors."
+    new "This option skips the blowjob scene. Scene goes to indoors."
+
+    # game/code/hints.rpy:5
+    old "Disobey Lydia and lose the challenge."
+    new "Disobey Lydia and lose the challenge."
+
+    # game/code/hints.rpy:5
+    old "Prove your devotion to Lydia and win the challenge."
+    new "Prove your devotion to Lydia and win the challenge."
+
+    # game/code/hints.rpy:5
+    old "Disappoint Lydia and be the loser."
+    new "Disappoint Lydia and be the loser."
