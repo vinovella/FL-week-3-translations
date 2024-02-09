@@ -1978,7 +1978,7 @@ translate chinese e04s07_later_eed72a99:
 translate chinese e04s07_later_b385835a:
 
     # sy "A little wasteful if you ask me. But it still looks so hot and nasty."
-    sy 要我说，有点浪费。但它看起来还是那么惹火下流。"
+    sy "要我说，有点浪费。但它看起来还是那么惹火下流。"
 
 # game/code/e04/e04s07.rpy:988
 translate chinese e04s07_later_b84a851f:
