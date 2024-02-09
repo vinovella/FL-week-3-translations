@@ -1948,3 +1948,6 @@ translate portuguese strings:
     old "Just Leave"
     new ""
 
+    # game/code/e07/e07s07.rpy:996
+    old "You have failed Ending #07!"
+    new ""

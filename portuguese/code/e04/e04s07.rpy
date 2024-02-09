@@ -2064,10 +2064,10 @@ translate portuguese e04s07_end_c2121c6f:
     # mc "You did very well today. One more week of good behavior, and maybe you can sleep up here."
     mc ""
 
-# game/code/e04/e04s07.rpy:1047
-translate portuguese e04s07_end_cc0654ae:
+# game/code/e04/e04s07.rpy:1301
+translate portuguese e04s07_end_117b0c97:
 
-    # mc "Now go to sleept, Prisoner 001."
+    # mc "Now go to sleep, Prisoner 001."
     mc ""
 
 # game/code/e04/e04s07.rpy:1049
