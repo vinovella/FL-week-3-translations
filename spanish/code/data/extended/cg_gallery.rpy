@@ -222,3 +222,15 @@ translate spanish strings:
     old "Ending 17: Dahlia"
     new "Ending 17: Dahlia"
 
+# TODO: Translation updated at 2024-02-10 00:13
+
+translate spanish strings:
+
+    # game/code/data/extended/cg_gallery.rpy:75
+    old "Ending 04: Girls"
+    new "Ending 04: Girls"
+
+    # game/code/data/extended/cg_gallery.rpy:85
+    old "Ending 07: Girls"
+    new "Ending 07: Girls"
+

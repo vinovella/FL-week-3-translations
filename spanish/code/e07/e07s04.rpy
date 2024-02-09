@@ -186,10 +186,10 @@ translate spanish e07s04_f9e43197:
     # mc "I will do my very best, [e07_lcname!t]."
     mc "Haré lo mejor que pueda, [e07_lcname!t]."
 
-# game/code/e07/e07s04.rpy:128
-translate spanish e07s04_e0118015:
+# game/code/e07/e07s04.rpy:162
+translate spanish e07s04_0e6b23d9:
 
-    # lc "Do better than you're best. If we win I promise that you'll get a nice little treat. But if we lose, well, then [e07_pbname!t] wins and is one step closer to the grand prize."
+    # lc "Do better than your best. If we win I promise that you'll get a nice little treat. But if we lose, well, then [e07_pbname!t] wins and is one step closer to the grand prize."
     lc "Hazlo mejor de lo que eres mejor. Si ganamos, te prometo que recibirás un pequeño regalo. Pero si perdemos, entonces [e07_pbname!t] gana y está un paso más cerca del gran premio."
 
 # game/code/e07/e07s04.rpy:131

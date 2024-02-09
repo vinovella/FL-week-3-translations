@@ -2064,10 +2064,10 @@ translate spanish e04s07_end_c2121c6f:
     # mc "You did very well today. One more week of good behavior, and maybe you can sleep up here."
     mc "Lo hiciste muy bien hoy. Una semana más de buen comportamiento y tal vez puedas dormir aquí arriba."
 
-# game/code/e04/e04s07.rpy:1047
-translate spanish e04s07_end_cc0654ae:
+# game/code/e04/e04s07.rpy:1301
+translate spanish e04s07_end_117b0c97:
 
-    # mc "Now go to sleept, Prisoner 001."
+    # mc "Now go to sleep, Prisoner 001."
     mc "Ahora vete a dormir, Prisionero 001."
 
 # game/code/e04/e04s07.rpy:1049
