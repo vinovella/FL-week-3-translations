@@ -1158,10 +1158,10 @@ translate portuguese e07s02_early_end_9e072da8:
     # mc "No, {i}please!{/i}"
     mc ""
 
-# game/code/e07/e07s02.rpy:788
-translate portuguese e07s02_early_end_bad8d53f:
+# game/code/e07/e07s02.rpy:710
+translate portuguese e07s02_early_end_606acbdb:
 
-    # mc "{i}Please, [e07_lcname!t]!"
+    # mc "Please, [e07_lcname!t]!"
     mc ""
 
 # game/code/e07/e07s02.rpy:794
@@ -1189,4 +1189,3 @@ translate portuguese strings:
     # game/code/e07/e07s02.rpy:611
     old "Accept"
     new ""
-

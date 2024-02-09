@@ -1159,10 +1159,10 @@ translate russian e07s02_early_end_9e072da8:
     mc "No, {i}please!{/i}"
 
 # game/code/e07/e07s02.rpy:710
-translate russian e07s02_early_end_bad8d53f:
+translate russian e07s02_early_end_606acbdb:
 
-    # mc "{i}Please, [e07_lcname!t]!"
-    mc "{i}Please, [e07_lcname!t]!"
+    # mc "Please, [e07_lcname!t]!"
+    mc "Please, [e07_lcname!t]!"
 
 # game/code/e07/e07s02.rpy:713
 translate russian e07s02_early_end_cc19c60b:
@@ -1189,12 +1189,3 @@ translate russian strings:
     # game/code/e07/e07s02.rpy:557
     old "Accept"
     new "Accept"
-
-# TODO: Translation updated at 2024-02-10 00:53
-
-# game/code/e07/e07s02.rpy:710
-translate russian e07s02_early_end_606acbdb:
-
-    # mc "Please, [e07_lcname!t]!"
-    mc "Please, [e07_lcname!t]!"
-

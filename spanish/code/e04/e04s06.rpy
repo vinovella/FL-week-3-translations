@@ -1,1686 +1,1686 @@
-﻿# TODO: Translation updated at 2024-01-25 23:49
+﻿# TODO: Translation updated at 2024-02-10 00:21
 
-# game/code/e04/e04s06.rpy:31
-translate spanish e04s06_4ad8d4cc:
+# game/code/e04/e04s06.rpy:43
+translate spanish e04s06_5cf121d6:
 
-    # lc "Sunlight! I thought I would never feel it on my face again."
-    lc "¡Luz de sol! Pensé que nunca volvería a sentirlo en mi cara."
+    # lc "Sunlight! I never thought I would feel it on my face again."
+    lc "Sunlight! I never thought I would feel it on my face again."
 
-# game/code/e04/e04s06.rpy:34
+# game/code/e04/e04s06.rpy:46
 translate spanish e04s06_47b0164d:
 
     # lc "I missed this so much."
-    lc "Extrañé mucho esto."
+    lc "I missed this so much."
 
-# game/code/e04/e04s06.rpy:38
+# game/code/e04/e04s06.rpy:49
 translate spanish e04s06_4deb7613:
 
     # lc "What is this? Exercise in the prison yard?"
-    lc "¿Qué es esto? ¿Ejercicio en el patio de la prisión?"
+    lc "What is this? Exercise in the prison yard?"
 
-# game/code/e04/e04s06.rpy:41
+# game/code/e04/e04s06.rpy:52
 translate spanish e04s06_b324ef37:
 
     # mc "No. Get down on your hands and knees."
-    mc "No. Ponte de rodillas."
+    mc "No. Get down on your hands and knees."
 
-# game/code/e04/e04s06.rpy:44
+# game/code/e04/e04s06.rpy:55
 translate spanish e04s06_d67a0d24:
 
     # lc "Whatever... Fine. Let's see what you have planned this time."
-    lc "Lo que sea... Bien. Veamos qué has planeado esta vez."
+    lc "Whatever... Fine. Let's see what you have planned this time."
 
-# game/code/e04/e04s06.rpy:51
+# game/code/e04/e04s06.rpy:61
 translate spanish e04s06_f812eb3b:
 
     # mc "Stacy, are we live?"
-    mc "Stacy, ¿estamos en vivo?"
+    mc "Stacy, are we live?"
 
-# game/code/e04/e04s06.rpy:54
+# game/code/e04/e04s06.rpy:65
 translate spanish e04s06_3a7ed101:
 
     # sy "Streaming and recording for later. No users in chat yet."
-    sy "Streaming y grabación para más tarde. Aún no hay usuarios en el chat."
+    sy "Streaming and recording for later. No users in chat yet."
 
-# game/code/e04/e04s06.rpy:57
+# game/code/e04/e04s06.rpy:69
 translate spanish e04s06_239d911a:
 
     # lc "What's going on?"
-    lc "¿Qué está sucediendo?"
+    lc "What's going on?"
 
-# game/code/e04/e04s06.rpy:60
+# game/code/e04/e04s06.rpy:71
 translate spanish e04s06_b79b5fd3:
 
     # mc "Get a good close-up on us, then. I'm about to explain it to our new puppy."
-    mc "Entonces consíguenos un buen primer plano. Estoy a punto de explicárselo a nuestro nuevo cachorro."
+    mc "Get a good close-up on us, then. I'm about to explain it to our new puppy."
 
-# game/code/e04/e04s06.rpy:63
+# game/code/e04/e04s06.rpy:74
 translate spanish e04s06_9c6839c8:
 
     # lc "What?"
-    lc "¿Qué?"
+    lc "What?"
 
-# game/code/e04/e04s06.rpy:66
+# game/code/e04/e04s06.rpy:77
 translate spanish e04s06_80a9419b:
 
     # mc "I got permission from the Judge to take our doggo out for a walk in the park today."
-    mc "Obtuve permiso del juez para sacar a nuestro perro a pasear por el parque hoy."
+    mc "I got permission from the Judge to take our doggo out for a walk in the park today."
 
-# game/code/e04/e04s06.rpy:70
+# game/code/e04/e04s06.rpy:80
 translate spanish e04s06_9e5a95f5:
 
     # mc "You might recognize our little bitch here."
-    mc "Quizás reconozcas a nuestra pequeña perra aquí."
+    mc "You might recognize our little bitch here."
 
-# game/code/e04/e04s06.rpy:71
+# game/code/e04/e04s06.rpy:81
 translate spanish e04s06_cf2b29f3:
 
     # mc "She was Lydia Cox, daughter of famous parents, starting to build her own social media presence and singing career. Then she was convicted and became my prisoner."
-    mc "Ella era Lydia Cox, hija de padres famosos, que comenzaba a construir su propia presencia en las redes sociales y su carrera como cantante. Luego fue condenada y se convirtió en mi prisionera."
+    mc "She was Lydia Cox, daughter of famous parents, starting to build her own social media presence and singing career. Then she was convicted and became my prisoner."
 
-# game/code/e04/e04s06.rpy:74
+# game/code/e04/e04s06.rpy:84
 translate spanish e04s06_7b3cf59d:
 
     # mc "Today, she's just a fuckable piece of dogmeat who is going for walkies."
-    mc "Hoy en día, ella es sólo un pedazo de carne de perro follable que sale a pasear."
+    mc "Today, she's just a fuckable piece of dogmeat who is going for walkies."
 
-# game/code/e04/e04s06.rpy:78
+# game/code/e04/e04s06.rpy:87
 translate spanish e04s06_eebd9e71:
 
     # lc "What?! You can't do this!! People will see me!!!"
-    lc "¡¿Qué?! ¡¡No puedes hacer esto!! ¡¡¡La gente me verá!!!"
+    lc "What?! You can't do this!! People will see me!!!"
 
-# game/code/e04/e04s06.rpy:81
+# game/code/e04/e04s06.rpy:90
 translate spanish e04s06_8641d0c3:
 
     # mc "First, I can do this. I have explicit permission."
-    mc "Primero, puedo hacer esto. Tengo permiso explícito."
+    mc "First, I can do this. I have explicit permission."
 
-# game/code/e04/e04s06.rpy:82
-translate spanish e04s06_1fc18dc1:
+# game/code/e04/e04s06.rpy:91
+translate spanish e04s06_62854be6:
 
-    # mc "Second, don't worry, there shouldn't be that many people in the park. It's a weekday."
-    mc "En segundo lugar, no te preocupes, no debería haber tanta gente en el parque. Es un día laborable."
+    # mc "Second, don't worry. There shouldn't be that many people in the park. It's a weekday."
+    mc "Second, don't worry. There shouldn't be that many people in the park. It's a weekday."
 
-# game/code/e04/e04s06.rpy:86
+# game/code/e04/e04s06.rpy:94
 translate spanish e04s06_f2cb7a2b:
 
     # sy "We now have five viewers in chat."
-    sy "Ahora tenemos cinco espectadores en el chat."
+    sy "We now have five viewers in chat."
 
-# game/code/e04/e04s06.rpy:89
-translate spanish e04s06_17877bb5:
+# game/code/e04/e04s06.rpy:98
+translate spanish e04s06_eb4de0c6:
 
-    # mc "Third, that's what Stacy is doing. By the end of the day hopefully thousands of people all over the world will have seen you."
-    mc "En tercer lugar, eso es lo que está haciendo Stacy. Al final del día, con suerte, miles de personas en todo el mundo te habrán visto."
+    # mc "Third, that's why Stacy is livestreaming this. By the end of the day hopefully thousands of people all over the world will have seen you."
+    mc "Third, that's why Stacy is livestreaming this. By the end of the day hopefully thousands of people all over the world will have seen you."
 
-# game/code/e04/e04s06.rpy:92
+# game/code/e04/e04s06.rpy:101
 translate spanish e04s06_0565db35:
 
     # sy "And maybe some locals will catch the livestream and join us in the park."
-    sy "Y tal vez algunos lugareños vean la transmisión en vivo y se unan a nosotros en el parque."
+    sy "And maybe some locals will catch the livestream and join us in the park."
 
-# game/code/e04/e04s06.rpy:96
-translate spanish e04s06_f39c5481:
+# game/code/e04/e04s06.rpy:104
+translate spanish e04s06_a95eea6a:
 
-    # lc "No no no no no no no."
-    lc "No no no no no NO NO."
+    # lc "No, no, no, no, no, no, no."
+    lc "No, no, no, no, no, no, no."
 
-# game/code/e04/e04s06.rpy:97
+# game/code/e04/e04s06.rpy:105
 translate spanish e04s06_be08c02f:
 
     # lc "This cannot be happening."
-    lc "Esto no puede estar pasando."
+    lc "This cannot be happening."
 
-# game/code/e04/e04s06.rpy:100
+# game/code/e04/e04s06.rpy:109
 translate spanish e04s06_980791d7:
 
     # mc "Lydia, HEEL!"
-    mc "Lydia, ¡TACÓN!"
+    mc "Lydia, HEEL!"
 
-# game/code/e04/e04s06.rpy:104
+# game/code/e04/e04s06.rpy:112
 translate spanish e04s06_7b88dc08:
 
     # mc "Lydia, I said \"HEEL\"! You know what happens if you disobey me."
-    mc "Lydia, dije \"TACÓN\"! Ya sabes lo que pasa si me desobedeces."
+    mc "Lydia, I said \"HEEL\"! You know what happens if you disobey me."
 
-# game/code/e04/e04s06.rpy:107
+# game/code/e04/e04s06.rpy:116
 translate spanish e04s06_cdfbb4ab:
 
     # lc "Fuck.{w} Coming!"
-    lc "Joder. {w} ¡Ya voy!"
+    lc "Fuck.{w} Coming!"
 
-# game/code/e04/e04s06.rpy:111
+# game/code/e04/e04s06.rpy:119
 translate spanish e04s06_a664e0f1:
 
     # sy "Shouldn't she be barking and whimpering?"
-    sy "¿No debería estar ladrando y lloriqueando?"
+    sy "Shouldn't she be barking and whimpering?"
 
-# game/code/e04/e04s06.rpy:114
+# game/code/e04/e04s06.rpy:122
 translate spanish e04s06_8f410632:
 
     # mc "I prefer hearing her anguish and humiliation given a voice."
-    mc "Prefiero escuchar su angustia y humillación con voz."
+    mc "I prefer hearing her anguish and humiliation given a voice."
 
-# game/code/e04/e04s06.rpy:117
+# game/code/e04/e04s06.rpy:125
 translate spanish e04s06_bfb4b0c6:
 
     # sy "Oh, we're up to ten viewers in chat!"
-    sy "¡Oh, somos hasta diez espectadores en el chat!"
+    sy "Oh, we're up to ten viewers in chat!"
 
-# game/code/e04/e04s06.rpy:124
+# game/code/e04/e04s06.rpy:132
 translate spanish e04s06_44c7eb3e:
 
     # lc "Please stop this. I'll be good. I'll be good."
-    lc "Por favor, detén esto. Seré bueno. Seré bueno."
+    lc "Please stop this. I'll be good. I'll be good."
 
-# game/code/e04/e04s06.rpy:127
+# game/code/e04/e04s06.rpy:135
 translate spanish e04s06_2632ca8d:
 
     # mc "You can stop this if you want to - just press the button."
-    mc "Puede detener esto si lo desea; simplemente presione el botón."
+    mc "You can stop this if you want to - just press the button."
 
-# game/code/e04/e04s06.rpy:130
+# game/code/e04/e04s06.rpy:138
 translate spanish e04s06_e338dd0c:
 
     # lc "I can't... but... people can see me."
-    lc "No puedo... pero... la gente puede verme."
+    lc "I can't... but... people can see me."
 
-# game/code/e04/e04s06.rpy:134
+# game/code/e04/e04s06.rpy:141
 translate spanish e04s06_8e2e63c5:
 
     # mc "Indeed. They can. Speaking of which..."
-    mc "En efecto. Ellos pueden. Hablando de que..."
+    mc "Indeed. They can. Speaking of which..."
 
-# game/code/e04/e04s06.rpy:135
+# game/code/e04/e04s06.rpy:142
 translate spanish e04s06_29c8533c:
 
     # mc "Stacy, how's the livestream going?"
-    mc "Stacy, ¿cómo va la transmisión en vivo?"
+    mc "Stacy, how's the livestream going?"
 
-# game/code/e04/e04s06.rpy:138
+# game/code/e04/e04s06.rpy:145
 translate spanish e04s06_204cef2c:
 
     # sy "Really well. Much better than we expected."
-    sy "Realmente bien. Mucho mejor de lo que esperábamos."
+    sy "Really well. Much better than we expected."
 
-# game/code/e04/e04s06.rpy:142
+# game/code/e04/e04s06.rpy:148
 translate spanish e04s06_2d6dfb26:
 
     # sy "Shout out to those of you who live in Crowning."
-    sy "Un saludo a los que vivís en Coronación."
+    sy "Shout out to those of you who live in Crowning."
 
-# game/code/e04/e04s06.rpy:144
+# game/code/e04/e04s06.rpy:149
 translate spanish e04s06_eb0721af:
 
     # sy "If you look at the video carefully you should know where we are."
-    sy "Si miras el vídeo con atención sabrás dónde estamos."
+    sy "If you look at the video carefully you should know where we are."
 
-# game/code/e04/e04s06.rpy:145
+# game/code/e04/e04s06.rpy:150
 translate spanish e04s06_2d640e1e:
 
     # sy "You can probably guess where we are going if we can get through the Tier Three and Tier Four Tip Goals."
-    sy "Probablemente puedas adivinar hacia dónde nos dirigimos si logramos superar los objetivos de los niveles tres y cuatro."
+    sy "You can probably guess where we are going if we can get through the Tier Three and Tier Four Tip Goals."
 
-# game/code/e04/e04s06.rpy:149
-translate spanish e04s06_16ea8184:
+# game/code/e04/e04s06.rpy:154
+translate spanish e04s06_6b74235c:
 
-    # mc "Very nice. Are we exceeding expectations in terms of viewers as well as tips?"
-    mc "Muy lindo. ¿Estamos superando las expectativas en términos de espectadores y propinas?"
+    # mc "Very nice. Are we exceeding expectations in terms of viewers as well as in tips?"
+    mc "Very nice. Are we exceeding expectations in terms of viewers as well as in tips?"
 
-# game/code/e04/e04s06.rpy:151
-translate spanish e04s06_79c1ec70:
+# game/code/e04/e04s06.rpy:156
+translate spanish e04s06_a75bfefc:
 
-    # sy "Both. As matter of fact..."
-    sy "Ambos. Como cuestión de hecho..."
+    # sy "Yep. As matter of fact..."
+    sy "Yep. As matter of fact..."
 
-# game/code/e04/e04s06.rpy:152
+# game/code/e04/e04s06.rpy:157
 translate spanish e04s06_1ddea09f:
 
     # sy "Hold on just a second..."
-    sy "Espera un segundo..."
+    sy "Hold on just a second..."
 
-# game/code/e04/e04s06.rpy:156
+# game/code/e04/e04s06.rpy:160
 translate spanish e04s06_fc4cc0a7:
 
     # sy "Yes! We passed our Tier Three Goal for Tips!"
-    sy "¡Sí! ¡Pasamos nuestro objetivo de nivel tres para propinas!"
+    sy "Yes! We passed our Tier Three Goal for Tips!"
 
-# game/code/e04/e04s06.rpy:159
+# game/code/e04/e04s06.rpy:163
 translate spanish e04s06_237257a5:
 
     # sy "You know what that means?!"
-    sy "¡¿Sabes lo que significa?!"
+    sy "You know what that means?!"
 
-# game/code/e04/e04s06.rpy:162
+# game/code/e04/e04s06.rpy:166
 translate spanish e04s06_20e8b1a4:
 
     # mc "I do.{w} Lydia gets a hot dog."
-    mc "Sí. {w} Lydia compra un hot dog."
+    mc "I do.{w} Lydia gets a hot dog."
 
-# game/code/e04/e04s06.rpy:166
+# game/code/e04/e04s06.rpy:169
 translate spanish e04s06_a25d8514:
 
     # lc "Ugh, no thanks.{w} I'm already nauseous."
-    lc "Uf, no gracias. {w} Ya tengo náuseas."
+    lc "Ugh, no thanks.{w} I'm already nauseous."
 
-# game/code/e04/e04s06.rpy:169
+# game/code/e04/e04s06.rpy:172
 translate spanish e04s06_4ecdf47c:
 
     # sy "No choice. Chat has spoken!"
-    sy "Sin elección. ¡El chat ha hablado!"
+    sy "No choice. Chat has spoken!"
 
-# game/code/e04/e04s06.rpy:172
+# game/code/e04/e04s06.rpy:175
 translate spanish e04s06_ffb7dde6:
 
     # mc "Besides, it's not that kind of hot dog."
-    mc "Además, no es ese tipo de hot dog."
+    mc "Besides, it's not that kind of hot dog."
 
-# game/code/e04/e04s06.rpy:176
+# game/code/e04/e04s06.rpy:178
 translate spanish e04s06_20a28404:
 
     # lc "You wouldn't. Not here."
-    lc "No lo harías. Aqui no."
+    lc "You wouldn't. Not here."
 
-# game/code/e04/e04s06.rpy:179
+# game/code/e04/e04s06.rpy:181
 translate spanish e04s06_5d11d341:
 
     # mc "I would.{w} Lydia, kneel."
-    mc "Lo haría. {w} Lydia, arrodíllate."
+    mc "I would.{w} Lydia, kneel."
 
-# game/code/e04/e04s06.rpy:180
-translate spanish e04s06_4d3159dc:
+# game/code/e04/e04s06.rpy:182
+translate spanish e04s06_8a95a4a6:
 
-    # mc "Lydia. I told you. Be a good little bitch and kneel for your master."
-    mc "Lidia. Te dije. Sé una buena perra y arrodíllate ante tu amo."
+    # mc "I told you. Be a good little bitch and kneel for your master."
+    mc "I told you. Be a good little bitch and kneel for your master."
 
-# game/code/e04/e04s06.rpy:184
+# game/code/e04/e04s06.rpy:185
 translate spanish e04s06_c7ea3083:
 
     # mc "Good girl. You deserve a treat."
-    mc "Buena niña. Te mereces un regalo."
+    mc "Good girl. You deserve a treat."
 
-# game/code/e04/e04s06.rpy:186
+# game/code/e04/e04s06.rpy:187
 translate spanish e04s06_2d0a4382:
 
     # lc "I really might puke."
-    lc "Realmente podría vomitar."
+    lc "I really might puke."
 
-# game/code/e04/e04s06.rpy:189
+# game/code/e04/e04s06.rpy:190
 translate spanish e04s06_f4878345:
 
     # mc "Do you know what people do when they give their dog a treat?"
-    mc "¿Sabes qué hace la gente cuando le da una golosina a su perro?"
+    mc "Do you know what people do when they give their dog a treat?"
 
-# game/code/e04/e04s06.rpy:193
+# game/code/e04/e04s06.rpy:194
 translate spanish e04s06_7384d597:
 
     # mc "They put it on the doggie's nose and the dog does a little trick..."
-    mc "Se lo ponen en la nariz al perrito y el perro hace un pequeño truco..."
+    mc "They put it on the doggie's nose and the dog does a little trick..."
 
-# game/code/e04/e04s06.rpy:196
+# game/code/e04/e04s06.rpy:197
 translate spanish e04s06_02b1d075:
 
     # mc "... where they put the treat in their mouth without dropping it."
-    mc "... donde se llevan la golosina a la boca sin que se caiga."
+    mc "... where they put the treat in their mouth without dropping it."
 
-# game/code/e04/e04s06.rpy:197
+# game/code/e04/e04s06.rpy:198
 translate spanish e04s06_dc9627e6:
 
     # mc "Go on, girl. I'm sure you can do it."
-    mc "Continúa niña. Estoy seguro de que puedes hacerlo."
+    mc "Go on, girl. I'm sure you can do it."
 
-# game/code/e04/e04s06.rpy:210
+# game/code/e04/e04s06.rpy:212
 translate spanish e04s06_4aa1ed4c:
 
     # mc "Good girl. Enjoy that hot, hard shaft of meat."
-    mc "Buena niña. Disfruta de esa carne dura y caliente."
+    mc "Good girl. Enjoy that hot, hard shaft of meat."
 
-# game/code/e04/e04s06.rpy:213
+# game/code/e04/e04s06.rpy:215
 translate spanish e04s06_3bf9188c:
 
     # sy "Just don't bite it. *laughing*"
-    sy "Simplemente no lo muerdas. *reír*"
+    sy "Just don't bite it. *laughing*"
 
-# game/code/e04/e04s06.rpy:216
+# game/code/e04/e04s06.rpy:218
 translate spanish e04s06_a53f406b:
 
     # mc "She knows better than that."
-    mc "Ella sabe más que eso."
+    mc "She knows better than that."
 
-# game/code/e04/e04s06.rpy:218
+# game/code/e04/e04s06.rpy:220
 translate spanish e04s06_78b34cf1:
 
     # mc "Remind me, what was the Tier Four tip goal?"
-    mc "Recuérdenme, ¿cuál era el objetivo principal del Nivel Cuatro?"
+    mc "Remind me, what was the Tier Four tip goal?"
 
-# game/code/e04/e04s06.rpy:221
+# game/code/e04/e04s06.rpy:224
 translate spanish e04s06_d58cbb3e:
 
     # sy "You take her to the ladies' water closet."
-    sy "Llévala al baño de mujeres."
+    sy "You take her to the ladies' water closet."
 
-# game/code/e04/e04s06.rpy:224
+# game/code/e04/e04s06.rpy:227
 translate spanish e04s06_3a0dbc0c:
 
     # mc "Really? I thought that was going to be Tier Five."
-    mc "¿En realidad? Pensé que iba a ser el Nivel Cinco."
+    mc "Really? I thought that was going to be Tier Five."
 
-# game/code/e04/e04s06.rpy:228
+# game/code/e04/e04s06.rpy:230
 translate spanish e04s06_bea1b022:
 
     # sy "It was, but then we couldn't think up a good Tier Four."
-    sy "Lo era, pero no pudimos pensar en un buen Nivel Cuatro."
+    sy "It was, but then we couldn't think up a good Tier Four."
 
-# game/code/e04/e04s06.rpy:229
-translate spanish e04s06_801d2bc6:
+# game/code/e04/e04s06.rpy:231
+translate spanish e04s06_b26b68e2:
 
-    # sy "So, Tier Five became Tier Four, but I left the required amount of tips the same as Tier Five would be.."
-    sy "Entonces, el Nivel Cinco se convirtió en el Nivel Cuatro, pero dejé la cantidad requerida de propinas igual que sería el Nivel Cinco..."
+    # sy "So, Tier Five became Tier Four, but I left the required amount of tips the same as Tier Five would have been.."
+    sy "So, Tier Five became Tier Four, but I left the required amount of tips the same as Tier Five would have been.."
 
-# game/code/e04/e04s06.rpy:232
+# game/code/e04/e04s06.rpy:234
 translate spanish e04s06_887d91d2:
 
     # mc "Speaking of which, how are we doing on tips now?"
-    mc "Hablando de eso, ¿cómo nos va con las propinas ahora?"
+    mc "Speaking of which, how are we doing on tips now?"
 
-# game/code/e04/e04s06.rpy:236
+# game/code/e04/e04s06.rpy:237
 translate spanish e04s06_c29db6d1:
 
     # sy "Really well. Plus we have a competition going on in chat."
-    sy "Realmente bien. Además, tenemos una competencia en el chat."
+    sy "Really well. Plus we have a competition going on in chat."
 
-# game/code/e04/e04s06.rpy:239
+# game/code/e04/e04s06.rpy:240
 translate spanish e04s06_bd114062:
 
     # mc "I didn't know we could do that."
-    mc "No sabía que podíamos hacer eso."
+    mc "I didn't know we could do that."
 
-# game/code/e04/e04s06.rpy:241
+# game/code/e04/e04s06.rpy:242
 translate spanish e04s06_32ce50a7:
 
     # sy "No, but there are two groups that are promising massive tips if we do what they want."
-    sy "No, pero hay dos grupos que prometen grandes propinas si hacemos lo que ellos quieren."
+    sy "No, but there are two groups that are promising massive tips if we do what they want."
 
 # game/code/e04/e04s06.rpy:245
 translate spanish e04s06_2d522864:
 
     # sy "One group wants you to cum all over her face and not let her clean herself up."
-    sy "Un grupo quiere que te corras en toda su cara y que no la dejes limpiarse."
+    sy "One group wants you to cum all over her face and not let her clean herself up."
 
-# game/code/e04/e04s06.rpy:247
+# game/code/e04/e04s06.rpy:248
 translate spanish e04s06_81f07063:
 
     # sy "The other group is in the lead, though. They want you to shove your cock all the way down her throat and cum in her stomach."
-    sy "Sin embargo, el otro grupo está a la cabeza. Quieren que le metas la polla hasta la garganta y te corras en su estómago."
+    sy "The other group is in the lead, though. They want you to shove your cock all the way down her throat and cum in her stomach."
 
-# game/code/e04/e04s06.rpy:249
+# game/code/e04/e04s06.rpy:254
 translate spanish e04s06_ac15f41a:
 
     # mc "I like the sound of that."
-    mc "Me gusta el sonido de eso."
+    mc "I like the sound of that."
 
-# game/code/e04/e04s06.rpy:253
+# game/code/e04/e04s06.rpy:258
 translate spanish e04s06_b3ef7b15:
 
     # mc "I really like that thought. She can get plenty cum on her face later."
-    mc "Me gusta mucho ese pensamiento. Puede recibir abundante semen en su cara más tarde."
+    mc "I really like that thought. She can get plenty cum on her face later."
 
-# game/code/e04/e04s06.rpy:254
+# game/code/e04/e04s06.rpy:259
 translate spanish e04s06_afdf11ab:
 
     # mc "But right now-"
-    mc "Pero ahora mismo-"
+    mc "But right now-"
 
-# game/code/e04/e04s06.rpy:259
+# game/code/e04/e04s06.rpy:264
 translate spanish e04s06_9b71b9e8:
 
     # mc "Fucck..."
-    mc "Joder..."
+    mc "Fucck..."
 
-# game/code/e04/e04s06.rpy:263
+# game/code/e04/e04s06.rpy:268
 translate spanish e04s06_44b64215:
 
     # mc "I'm about to-"
-    mc "Estoy apunto de-"
+    mc "I'm about to-"
 
-# game/code/e04/e04s06.rpy:268
+# game/code/e04/e04s06.rpy:272
 translate spanish e04s06_2926185e:
 
     # mc "FFFUuuuuuccccccckkkkkiiiiiinnnngggg"
-    mc "FFFUuuuuuuccccccckkkkkiiiiinnnngggg"
+    mc "FFFUuuuuuccccccckkkkkiiiiiinnnngggg"
 
-# game/code/e04/e04s06.rpy:271
+# game/code/e04/e04s06.rpy:275
 translate spanish e04s06_c2e66a99:
 
     # mc "CUuuuuuuUUUuuuuuummmm."
-    mc "CUuuuuuuUUUUuuuuuummmm."
+    mc "CUuuuuuuUUUuuuuuummmm."
 
-# game/code/e04/e04s06.rpy:275
+# game/code/e04/e04s06.rpy:278
 translate spanish e04s06_12229eb9:
 
     # lc "*cough* *cough*"
-    lc "*tos tos*"
+    lc "*cough* *cough*"
 
-# game/code/e04/e04s06.rpy:278
+# game/code/e04/e04s06.rpy:281
 translate spanish e04s06_10454c24:
 
     # sy "That was fucking awesome! And I got it all on stream!"
-    sy "¡Eso fue jodidamente increíble! ¡Y lo tengo todo en streaming!"
+    sy "That was fucking awesome! And I got it all on stream!"
 
-# game/code/e04/e04s06.rpy:282
+# game/code/e04/e04s06.rpy:285
 translate spanish e04s06_1ed74f72:
 
     # mc "*panting* Lydia, you missed a spot. Clean me up."
-    mc "*jadeando* Lydia, te perdiste un lugar. Límpiame."
+    mc "*panting* Lydia, you missed a spot. Clean me up."
 
-# game/code/e04/e04s06.rpy:284
+# game/code/e04/e04s06.rpy:286
 translate spanish e04s06_5d9d4f02:
 
     # mc "Good girl. *panting* I assume that chat liked that?"
-    mc "Buena niña. *jadeando* Supongo que a ese chat le gustó eso."
+    mc "Good girl. *panting* I assume that chat liked that?"
 
-# game/code/e04/e04s06.rpy:287
+# game/code/e04/e04s06.rpy:289
 translate spanish e04s06_c7d2ee5e:
 
     # sy "Chat LOVED that. We just broke our Tier Four Goal."
-    sy "A Chat le encantó. Acabamos de superar nuestro objetivo de nivel cuatro."
+    sy "Chat LOVED that. We just broke our Tier Four Goal."
 
-# game/code/e04/e04s06.rpy:288
+# game/code/e04/e04s06.rpy:290
 translate spanish e04s06_ba65fe55:
 
     # mc "Excellent."
-    mc "Excelente."
+    mc "Excellent."
 
-# game/code/e04/e04s06.rpy:293
+# game/code/e04/e04s06.rpy:295
 translate spanish e04s06_7760dc28:
 
     # mc "Lydia, heel."
-    mc "Lydia, tacón."
+    mc "Lydia, heel."
 
-# game/code/e04/e04s06.rpy:294
+# game/code/e04/e04s06.rpy:296
 translate spanish e04s06_22c36979:
 
     # mc "Let's see if you can guess where we are going."
-    mc "A ver si adivinas hacia dónde vamos."
+    mc "Let's see if you can guess where we are going."
 
-# game/code/e04/e04s06.rpy:299
+# game/code/e04/e04s06.rpy:301
 translate spanish e04s06_fbc071a8:
 
     # mc "Here we are. Do you know what this place is?"
-    mc "Aquí estamos. ¿Sabes qué es este lugar?"
+    mc "Here we are. Do you know what this place is?"
 
-# game/code/e04/e04s06.rpy:302
+# game/code/e04/e04s06.rpy:304
 translate spanish e04s06_b2519f82:
 
     # lc "The women's restroom in a park?"
-    lc "¿El baño de mujeres en un parque?"
+    lc "The women's restroom in a park?"
 
-# game/code/e04/e04s06.rpy:305
+# game/code/e04/e04s06.rpy:307
 translate spanish e04s06_fc2b01b5:
 
     # mc "Yes. Do you know why we're here?"
-    mc "Sí. ¿Sabes por qué estamos aquí?"
+    mc "Yes. Do you know why we're here?"
 
-# game/code/e04/e04s06.rpy:309
+# game/code/e04/e04s06.rpy:310
 translate spanish e04s06_943a0f4f:
 
     # lc "Oh, god. You're going to make me drink toilet water?"
-    lc "Oh Dios. ¿Me vas a hacer beber agua del retrete?"
+    lc "Oh, god. You're going to make me drink toilet water?"
 
-# game/code/e04/e04s06.rpy:312
+# game/code/e04/e04s06.rpy:318
 translate spanish e04s06_6ac4a547:
 
     # sy "That should have been the Tier Four Goal!"
-    sy "¡Ese debería haber sido el objetivo del nivel cuatro!"
+    sy "That should have been the Tier Four Goal!"
 
-# game/code/e04/e04s06.rpy:315
+# game/code/e04/e04s06.rpy:323
 translate spanish e04s06_382f14f4:
 
     # mc "Good thinking, but no.{w} You can stand up now."
-    mc "Bien pensado, pero no. {w} Puedes levantarte ahora."
+    mc "Good thinking, but no.{w} You can stand up now."
 
-# game/code/e04/e04s06.rpy:319
+# game/code/e04/e04s06.rpy:326
 translate spanish e04s06_c9ad978f:
 
     # sy "Chat figured it out a while ago. Several local guys said they were running for the men's room."
-    sy "Chat lo descubrió hace un tiempo. Varios chicos locales dijeron que estaban corriendo hacia el baño de hombres."
+    sy "Chat figured it out a while ago. Several local guys said they were running for the men's room."
 
-# game/code/e04/e04s06.rpy:322
+# game/code/e04/e04s06.rpy:329
 translate spanish e04s06_f7a5082e:
 
     # lc "I don't understand."
-    lc "No entiendo."
+    lc "I don't understand."
 
-# game/code/e04/e04s06.rpy:325
-translate spanish e04s06_3ec8a8c5:
+# game/code/e04/e04s06.rpy:332
+translate spanish e04s06_8d761a21:
 
-    # mc "The answer should be obvious to you in a moment."
-    mc "La respuesta debería resultarle obvia en un momento."
+    # mc "The answer will be obvious to you in a moment."
+    mc "The answer will be obvious to you in a moment."
 
-# game/code/e04/e04s06.rpy:331
+# game/code/e04/e04s06.rpy:337
 translate spanish e04s06_7071a121:
 
     # sy "Uh, [mcname]? It seems to be already occupied."
-    sy "¿[mcname]? Parece que ya está ocupado."
+    sy "Uh, [mcname]? It seems to be already occupied."
 
-# game/code/e04/e04s06.rpy:332
+# game/code/e04/e04s06.rpy:340
 translate spanish e04s06_a2b21934:
 
     # mk "Oh, hi."
-    mk "Oh hola."
+    mk "Oh, hi."
 
-# game/code/e04/e04s06.rpy:338
+# game/code/e04/e04s06.rpy:345
 translate spanish e04s06_0ea9b6cc:
 
     # sy "We're doing a little livestream. There are a few thousand people watching."
-    sy "Estamos haciendo una pequeña transmisión en vivo. Hay unos cuantos miles de personas mirando."
+    sy "We're doing a little livestream. There are a few thousand people watching."
 
-# game/code/e04/e04s06.rpy:339
+# game/code/e04/e04s06.rpy:347
 translate spanish e04s06_b2d2ca50:
 
     # sy "I'll keep the camera pointed away from you. You can slip out of here silently."
-    sy "Mantendré la cámara apuntando lejos de ti. Puedes salir de aquí en silencio."
+    sy "I'll keep the camera pointed away from you. You can slip out of here silently."
 
-# game/code/e04/e04s06.rpy:340
+# game/code/e04/e04s06.rpy:351
 translate spanish e04s06_2a34302b:
 
     # sy "And I can edit you out of the video before we upload-"
-    sy "Y puedo editarte fuera del video antes de subirlo."
+    sy "And I can edit you out of the video before we upload-"
 
-# game/code/e04/e04s06.rpy:345
+# game/code/e04/e04s06.rpy:355
 translate spanish e04s06_8c7f58c2:
 
     # mk "Meh, this is what I do."
-    mk "Mmm, esto es lo que hago."
+    mk "Meh, this is what I do."
 
-# game/code/e04/e04s06.rpy:347
-translate spanish e04s06_1ac2c167:
+# game/code/e04/e04s06.rpy:357
+translate spanish e04s06_a35060af:
 
-    # mk "It's fine. I've done a few live streams here already."
-    mk "Está bien. Ya he hecho algunas transmisiones en vivo aquí."
+    # mk "It's fine. I've done a few livestreams here already."
+    mk "It's fine. I've done a few livestreams here already."
 
-# game/code/e04/e04s06.rpy:350
+# game/code/e04/e04s06.rpy:360
 translate spanish e04s06_a3617ff8:
 
     # sy "You don't care?"
-    sy "¿No te importa?"
+    sy "You don't care?"
 
-# game/code/e04/e04s06.rpy:353
+# game/code/e04/e04s06.rpy:363
 translate spanish e04s06_78c717ad:
 
     # mk "Go ahead and film me. It might get more guys to the hole."
-    mk "Adelante, filmame. Podría llevar a más muchachos al hoyo."
+    mk "Go ahead and film me. It might get more guys to the hole."
 
-# game/code/e04/e04s06.rpy:356
+# game/code/e04/e04s06.rpy:366
 translate spanish e04s06_a6393920:
 
     # sy "Okay. If that's what you want."
-    sy "Bueno. Si es lo que quieres."
+    sy "Okay. If that's what you want."
 
-# game/code/e04/e04s06.rpy:360
+# game/code/e04/e04s06.rpy:369
 translate spanish e04s06_4d783aac:
 
     # mc "Hi Maria. How's it going?"
-    mc "Hola Maria. ¿Cómo estás?"
+    mc "Hi Maria. How's it going?"
 
-# game/code/e04/e04s06.rpy:364
+# game/code/e04/e04s06.rpy:373
 translate spanish e04s06_c17e1c34:
 
     # mk "I'm a fuckhole. This is what I do."
-    mk "Soy un idiota. Esto es lo que hago."
+    mk "I'm a fuckhole. This is what I do."
 
-# game/code/e04/e04s06.rpy:366
+# game/code/e04/e04s06.rpy:375
 translate spanish e04s06_920f57cc:
 
     # mk "Couldn't be happier. After you put me here, I realized just how much I love this."
-    mk "No podría estar más feliz. Después de que me pusiste aquí, me di cuenta de cuánto amo esto."
+    mk "Couldn't be happier. After you put me here, I realized just how much I love this."
 
-# game/code/e04/e04s06.rpy:367
+# game/code/e04/e04s06.rpy:376
 translate spanish e04s06_26895469:
 
     # mk "I'm not a fan of men. Their bodies, their hands all over me, just ew."
-    mk "No soy fanático de los hombres. Sus cuerpos, sus manos sobre mí, simplemente ew."
+    mk "I'm not a fan of men. Their bodies, their hands all over me, just ew."
 
-# game/code/e04/e04s06.rpy:371
+# game/code/e04/e04s06.rpy:379
 translate spanish e04s06_6dbbfb67:
 
     # mk "But their cocks? And their cum? There's nothing better."
-    mk "¿Pero sus pollas? ¿Y su semen? No hay nada mejor."
+    mk "But their cocks? And their cum? There's nothing better."
 
-# game/code/e04/e04s06.rpy:374
+# game/code/e04/e04s06.rpy:382
 translate spanish e04s06_55f14117:
 
     # mc "Well, good, I guess. If that's what you want - more power to you."
-    mc "Bueno, bueno, supongo. Si eso es lo que quieres, más poder para ti."
+    mc "Well, good, I guess. If that's what you want - more power to you."
 
-# game/code/e04/e04s06.rpy:375
+# game/code/e04/e04s06.rpy:383
 translate spanish e04s06_57a90114:
 
     # mc "It seems like you found a nicer spot than that gloryhole on campus."
-    mc "Parece que encontraste un lugar mejor que ese agujero glorioso en el campus."
+    mc "It seems like you found a nicer spot than that gloryhole on campus."
 
-# game/code/e04/e04s06.rpy:379
+# game/code/e04/e04s06.rpy:387
 translate spanish e04s06_19bf407f:
 
     # mk "I can take a little break if you need to use it. Just let me finish up with Terrell here."
-    mk "Puedo tomarme un pequeño descanso si necesitas usarlo. Sólo déjame terminar con Terrell aquí."
+    mk "I can take a little break if you need to use it. Just let me finish up with Terrell here."
 
-# game/code/e04/e04s06.rpy:381
-translate spanish e04s06_6b424faf:
+# game/code/e04/e04s06.rpy:389
+translate spanish e04s06_d9e68f11:
 
-    # mc "That would be great. Lydia here would love to take the next few cocks."
-    mc "Eso seria genial. A Lydia le encantaría recibir las próximas pollas."
+    # mc "That would be great. Lydia here would love to take the next few dicks."
+    mc "That would be great. Lydia here would love to take the next few dicks."
 
-# game/code/e04/e04s06.rpy:384
+# game/code/e04/e04s06.rpy:393
 translate spanish e04s06_c5839b0b:
 
     # sy "Wait. How do you know who's cock that is?"
-    sy "Esperar. ¿Cómo sabes quién es esa polla?"
+    sy "Wait. How do you know who's cock that is?"
 
-# game/code/e04/e04s06.rpy:387
+# game/code/e04/e04s06.rpy:395
 translate spanish e04s06_0485ad20:
 
     # mk "I've gotten to recognizing the regulars."
-    mk "He llegado a reconocer a los clientes habituales."
+    mk "I've gotten to recognizing the regulars."
 
-# game/code/e04/e04s06.rpy:388
+# game/code/e04/e04s06.rpy:396
 translate spanish e04s06_fd5b33fd:
 
     # mk "Besides, he-"
-    mk "Además, él-"
+    mk "Besides, he-"
 
-# game/code/e04/e04s06.rpy:392
+# game/code/e04/e04s06.rpy:399
 translate spanish e04s06_fb14c740:
 
     # mk "Ohhhhh, that's the good stuff."
-    mk "Ohhhhh, eso es lo bueno."
+    mk "Ohhhhh, that's the good stuff."
 
-# game/code/e04/e04s06.rpy:398
+# game/code/e04/e04s06.rpy:406
 translate spanish e04s06_4eb9ac89:
 
     # mk "MMmmm. I feel so full.{w} My ass is going to be dripping for hours after that."
-    mk "Mmmmm. Me siento tan lleno. {w} Mi trasero estará goteando durante horas después de eso."
+    mk "MMmmm. I feel so full.{w} My ass is going to be dripping for hours after that."
 
-# game/code/e04/e04s06.rpy:402
+# game/code/e04/e04s06.rpy:409
 translate spanish e04s06_986f5d01:
 
     # mk "Just let me clean him up and I'll step aside."
-    mk "Sólo déjame limpiarlo y me haré a un lado."
+    mk "Just let me clean him up and I'll step aside."
 
-# game/code/e04/e04s06.rpy:403
+# game/code/e04/e04s06.rpy:410
 translate spanish e04s06_468c59e7:
 
     # mk "I hope you don't mind if I stay and watch."
-    mk "Espero que no te importe si me quedo y miro."
+    mk "I hope you don't mind if I stay and watch."
 
-# game/code/e04/e04s06.rpy:407
+# game/code/e04/e04s06.rpy:413
 translate spanish e04s06_03969a62:
 
     # sy "Uh, yeah..."
-    sy "Oh, sí..."
+    sy "Uh, yeah..."
 
-# game/code/e04/e04s06.rpy:410
+# game/code/e04/e04s06.rpy:416
 translate spanish e04s06_43e7b327:
 
     # mc "Sure. That's fine with me."
-    mc "Seguro. Eso está bien para mí."
+    mc "Sure. That's fine with me."
 
-# game/code/e04/e04s06.rpy:418
+# game/code/e04/e04s06.rpy:423
 translate spanish e04s06_295d8c37:
 
     # mc "Welcome to the gloryhole."
-    mc "Bienvenido al agujero de la gloria."
+    mc "Welcome to the gloryhole."
 
-# game/code/e04/e04s06.rpy:419
+# game/code/e04/e04s06.rpy:424
 translate spanish e04s06_8aee775d:
 
     # mc "I guess this is your first time."
-    mc "Supongo que esta es tu primera vez."
+    mc "I guess this is your first time."
 
-# game/code/e04/e04s06.rpy:423
-translate spanish e04s06_fa8caac6:
+# game/code/e04/e04s06.rpy:427
+translate spanish e04s06_1835d69f:
 
-    # sy "A few guys in chat say they are lining up on the other side of the hole, waiting for you."
-    sy "Algunos chicos en el chat dicen que están haciendo fila al otro lado del hoyo, esperándote."
-
-# game/code/e04/e04s06.rpy:426
-translate spanish e04s06_cc5c5b18:
-
-    # lc "Oh, fuck."
-    lc "Oh, joder."
+    # sy "A few guys in chat say they are lining up on the other side of the wall, waiting for you."
+    sy "A few guys in chat say they are lining up on the other side of the wall, waiting for you."
 
 # game/code/e04/e04s06.rpy:430
+translate spanish e04s06_b93fe109:
+
+    # lc "Oh fuck."
+    lc "Oh fuck."
+
+# game/code/e04/e04s06.rpy:433
 translate spanish e04s06_3263629b:
 
     # sy "Do you know a guy named Zack Olsen?"
-    sy "¿Conoces a un tipo llamado Zack Olsen?"
+    sy "Do you know a guy named Zack Olsen?"
 
-# game/code/e04/e04s06.rpy:433
+# game/code/e04/e04s06.rpy:436
 translate spanish e04s06_98c2ac65:
 
     # lc "Sure, we've been friends since-"
-    lc "Claro, hemos sido amigos desde-"
+    lc "Sure, we've been friends since-"
 
-# game/code/e04/e04s06.rpy:436
+# game/code/e04/e04s06.rpy:439
 translate spanish e04s06_a3be494a:
 
     # sy "Seems like he just paid off every person in line ahead of him so that he can be first."
-    sy "Parece que acaba de pagar a todas las personas que estaban delante de él para poder ser el primero."
+    sy "Seems like he just paid off every person in line ahead of him so that he can be first."
 
-# game/code/e04/e04s06.rpy:440
+# game/code/e04/e04s06.rpy:442
 translate spanish e04s06_280c6f00:
 
     # lc "Zack???"
     lc "Zack???"
 
-# game/code/e04/e04s06.rpy:443
+# game/code/e04/e04s06.rpy:445
 translate spanish e04s06_af00aa32:
 
     # lc "That's Zack's penis?"
-    lc "¿Ese es el pene de Zack?"
+    lc "That's Zack's penis?"
 
-# game/code/e04/e04s06.rpy:447
+# game/code/e04/e04s06.rpy:448
 translate spanish e04s06_b14799cc:
 
     # sy "He's in chat texting that he's \"always wanted to fuck your sweet ass\"."
-    sy "Él está en el chat enviando mensajes de texto diciendo que \"siempre quiso follar tu dulce trasero\"."
+    sy "He's in chat texting that he's \"always wanted to fuck your sweet ass\"."
 
-# game/code/e04/e04s06.rpy:448
-translate spanish e04s06_1bc414a3:
+# game/code/e04/e04s06.rpy:449
+translate spanish e04s06_6ca22e14:
 
-    # sy "But that \"right now I want to feel those soft lips wrapped around cock\"."
-    sy "Pero ese \"ahora mismo quiero sentir esos suaves labios envueltos alrededor de la polla\"."
+    # sy "But that \"right now I want to feel those soft lips wrapped around my cock\"."
+    sy "But that \"right now I want to feel those soft lips wrapped around my cock\"."
 
-# game/code/e04/e04s06.rpy:451
+# game/code/e04/e04s06.rpy:452
 translate spanish e04s06_072828bb:
 
     # lc "That dick! I thought we were friends!"
-    lc "¡Ese idiota! ¡Pensé que eramos amigos!"
+    lc "That dick! I thought we were friends!"
 
 # game/code/e04/e04s06.rpy:455
 translate spanish e04s06_d9e3de0c:
 
     # lc "I can't do this. Fucking hell. I can't do this."
-    lc "No puedo hacer esto. Maldito infierno. No puedo hacer esto."
+    lc "I can't do this. Fucking hell. I can't do this."
 
-# game/code/e04/e04s06.rpy:458
+# game/code/e04/e04s06.rpy:459
 translate spanish e04s06_106bfd9c:
 
     # lc "Please, just get that camera out of my face for a second. I can't fucking deal."
-    lc "Por favor, quita esa cámara de mi cara por un segundo. No puedo lidiar con eso."
+    lc "Please, just get that camera out of my face for a second. I can't fucking deal."
 
-# game/code/e04/e04s06.rpy:462
+# game/code/e04/e04s06.rpy:461
 translate spanish e04s06_79f9393b:
 
     # lc "Get a grip, Lydia. You've dealt with worse situations than this."
-    lc "Contrólate, Lydia. Has lidiado con situaciones peores que ésta."
+    lc "Get a grip, Lydia. You've dealt with worse situations than this."
 
-# game/code/e04/e04s06.rpy:463
+# game/code/e04/e04s06.rpy:462
 translate spanish e04s06_1edada32:
 
     # lc "Fuck! No, I haven't."
-    lc "¡Mierda! No, no lo he hecho."
+    lc "Fuck! No, I haven't."
 
-# game/code/e04/e04s06.rpy:464
+# game/code/e04/e04s06.rpy:463
 translate spanish e04s06_392535b4:
 
     # lc "Whatever. I can do this. I can do this. I can do this."
-    lc "Lo que sea. Puedo hacer esto. Puedo hacer esto. Puedo hacer esto."
+    lc "Whatever. I can do this. I can do this. I can do this."
 
-# game/code/e04/e04s06.rpy:468
+# game/code/e04/e04s06.rpy:466
 translate spanish e04s06_2f8cba16:
 
     # lc "Don't make me do this."
-    lc "No me obligues a hacer esto."
+    lc "Don't make me do this."
 
-# game/code/e04/e04s06.rpy:469
+# game/code/e04/e04s06.rpy:467
 translate spanish e04s06_57567043:
 
     # lc "There's a way out of this, right?"
-    lc "Hay una salida a esto, ¿verdad?"
+    lc "There's a way out of this, right?"
 
-# game/code/e04/e04s06.rpy:470
+# game/code/e04/e04s06.rpy:468
 translate spanish e04s06_478acd0d:
 
     # lc "I just have to-"
-    lc "Sólo tengo que-"
+    lc "I just have to-"
 
-# game/code/e04/e04s06.rpy:474
+# game/code/e04/e04s06.rpy:471
 translate spanish e04s06_b91cbec2:
 
     # mc "This is one of those key moments, Lydia."
-    mc "Este es uno de esos momentos clave, Lydia."
+    mc "This is one of those key moments, Lydia."
 
-# game/code/e04/e04s06.rpy:475
+# game/code/e04/e04s06.rpy:472
 translate spanish e04s06_80946846:
 
     # mc "Either press the damn button or get over there and start sucking cock."
-    mc "O presionas el maldito botón o acércate y comienza a chupar la polla."
+    mc "Either press the damn button or get over there and start sucking cock."
 
-# game/code/e04/e04s06.rpy:482
+# game/code/e04/e04s06.rpy:477
 translate spanish e04s06_99f31507:
 
     # lc "That's it. You win."
-    lc "Eso es todo. Tú ganas."
+    lc "That's it. You win."
 
-# game/code/e04/e04s06.rpy:485
+# game/code/e04/e04s06.rpy:480
 translate spanish e04s06_50d1986d:
 
     # lc "I give up."
-    lc "Me rindo."
+    lc "I give up."
 
-# game/code/e04/e04s06.rpy:489
+# game/code/e04/e04s06.rpy:483
 translate spanish e04s06_16d35c6a:
 
     # mc "What do you think you're doing?"
-    mc "¿Qué crees que estás haciendo?"
+    mc "What do you think you're doing?"
 
-# game/code/e04/e04s06.rpy:492
+# game/code/e04/e04s06.rpy:486
 translate spanish e04s06_79e3616f:
 
     # lc "I'm pressing the button."
-    lc "Estoy presionando el botón."
+    lc "I'm pressing the button."
 
-# game/code/e04/e04s06.rpy:495
+# game/code/e04/e04s06.rpy:489
 translate spanish e04s06_5c56d843:
 
     # mc "And what do you think that will do?"
-    mc "¿Y qué crees que hará eso?"
+    mc "And what do you think that will do?"
 
-# game/code/e04/e04s06.rpy:499
+# game/code/e04/e04s06.rpy:493
 translate spanish e04s06_284a91b7:
 
     # lc "I...{w} I don't know."
-    lc "Yo...{w} No lo sé."
+    lc "I...{w} I don't know."
 
-# game/code/e04/e04s06.rpy:500
+# game/code/e04/e04s06.rpy:494
 translate spanish e04s06_0a0fa0fd:
 
     # lc "Let's the Judge or someone know that I've had enough?"
-    lc "¿Que el juez o alguien sepa que ya he tenido suficiente?"
+    lc "Let's the Judge or someone know that I've had enough?"
 
-# game/code/e04/e04s06.rpy:503
+# game/code/e04/e04s06.rpy:496
 translate spanish e04s06_80746b9b:
 
     # mc "And what do you think that would accomplish?"
-    mc "¿Y qué crees que se lograría con eso?"
+    mc "And what do you think that would accomplish?"
 
-# game/code/e04/e04s06.rpy:505
+# game/code/e04/e04s06.rpy:498
 translate spanish e04s06_45a2526b:
 
     # lc "Someone would come and take me back to prison."
-    lc "Alguien vendría y me llevaría de nuevo a prisión."
+    lc "Someone would come and take me back to prison."
 
-# game/code/e04/e04s06.rpy:506
+# game/code/e04/e04s06.rpy:499
 translate spanish e04s06_27a8da61:
 
     # lc "I don't care. I'll serve my full sentence. I just can't take it anymore."
-    lc "No me importa. Cumpliré mi sentencia completa. Simplemente no puedo soportarlo más."
+    lc "I don't care. I'll serve my full sentence. I just can't take it anymore."
 
-# game/code/e04/e04s06.rpy:510
-translate spanish e04s06_9e104a1b:
+# game/code/e04/e04s06.rpy:502
+translate spanish e04s06_ca5e1656:
 
-    # mc "It doesn't do anything like that. It just signals me that you've given up."
-    mc "No hace nada de eso. Sólo me indica que te has rendido."
+    # mc "It doesn't do anything like that. It just signals to me that you've given up."
+    mc "It doesn't do anything like that. It just signals to me that you've given up."
 
-# game/code/e04/e04s06.rpy:511
+# game/code/e04/e04s06.rpy:503
 translate spanish e04s06_b1ea04e8:
 
     # mc "You wanted to break me. You wanted to make me your slave."
-    mc "Querías romperme. Querías hacerme tu esclavo."
+    mc "You wanted to break me. You wanted to make me your slave."
 
-# game/code/e04/e04s06.rpy:512
+# game/code/e04/e04s06.rpy:504
 translate spanish e04s06_13729491:
 
     # mc "Instead, I've broken you."
-    mc "En cambio, te he roto."
+    mc "Instead, I've broken you."
 
-# game/code/e04/e04s06.rpy:515
+# game/code/e04/e04s06.rpy:506
 translate spanish e04s06_91441c0e:
 
     # mc "I've won, bitch."
-    mc "He ganado, perra."
+    mc "I've won, bitch."
 
-# game/code/e04/e04s06.rpy:518
+# game/code/e04/e04s06.rpy:510
 translate spanish e04s06_daa13ebd:
 
     # lc "I can't go back to prison? I'm stuck here with you?"
-    lc "¿No puedo volver a prisión? ¿Estoy atrapado aquí contigo?"
+    lc "I can't go back to prison? I'm stuck here with you?"
 
-# game/code/e04/e04s06.rpy:520
+# game/code/e04/e04s06.rpy:512
 translate spanish e04s06_f36e5aec:
 
     # mc "Exactly."
-    mc "Exactamente."
+    mc "Exactly."
 
-# game/code/e04/e04s06.rpy:528
+# game/code/e04/e04s06.rpy:518
 translate spanish e04s06_83fc2916:
 
     # lc "What's next?"
-    lc "¿Que sigue?"
+    lc "What's next?"
 
-# game/code/e04/e04s06.rpy:531
+# game/code/e04/e04s06.rpy:521
 translate spanish e04s06_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "¿Qué quieres decir?"
+    mc "What do you mean?"
 
-# game/code/e04/e04s06.rpy:534
+# game/code/e04/e04s06.rpy:525
 translate spanish e04s06_8ecd573d:
 
     # lc "You've humiliated me in public. You've spread my humiliation across the internet."
-    lc "Me has humillado en público. Has extendido mi humillación por Internet."
+    lc "You've humiliated me in public. You've spread my humiliation across the internet."
 
-# game/code/e04/e04s06.rpy:536
+# game/code/e04/e04s06.rpy:526
 translate spanish e04s06_89203495:
 
     # lc "You've brought me to a gloryhole and are going to livestream me servicing random cocks."
-    lc "Me has traído a un agujero glorioso y me vas a transmitir en vivo atendiendo pollas al azar."
+    lc "You've brought me to a gloryhole and are going to livestream me servicing random cocks."
 
-# game/code/e04/e04s06.rpy:537
+# game/code/e04/e04s06.rpy:527
 translate spanish e04s06_784f9a85:
 
     # lc "What's next? Are you going to drag me naked to the courthouse steps and punish me for all to see?"
-    lc "¿Que sigue? ¿Vas a arrastrarme desnudo hasta las escaleras del juzgado y castigarme para que todos lo vean?"
+    lc "What's next? Are you going to drag me naked to the courthouse steps and punish me for all to see?"
 
-# game/code/e04/e04s06.rpy:540
+# game/code/e04/e04s06.rpy:531
 translate spanish e04s06_1f59a250:
 
     # mc "I was thinking about setting up a pillory in front of city hall."
-    mc "Estaba pensando en montar una picota frente al ayuntamiento."
+    mc "I was thinking about setting up a pillory in front of city hall."
 
-# game/code/e04/e04s06.rpy:544
-translate spanish e04s06_ca32b4ab:
+# game/code/e04/e04s06.rpy:534
+translate spanish e04s06_d3ffa386:
 
-    # mc "The mayor's office is considering it. They're currently unsure how it would affect his reelection campaign."
-    mc "La alcaldía lo está considerando. Actualmente no están seguros de cómo afectaría esto a su campaña de reelección."
+    # mc "The mayor's office is considering it. They're currently unsure of how it would affect his reelection campaign."
+    mc "The mayor's office is considering it. They're currently unsure of how it would affect his reelection campaign."
 
-# game/code/e04/e04s06.rpy:547
+# game/code/e04/e04s06.rpy:537
 translate spanish e04s06_c6b253e2:
 
     # lc "Okay."
-    lc "Bueno."
+    lc "Okay."
 
-# game/code/e04/e04s06.rpy:548
+# game/code/e04/e04s06.rpy:538
 translate spanish e04s06_6c88fa93:
 
     # lc "I understand."
-    lc "Entiendo."
+    lc "I understand."
 
-# game/code/e04/e04s06.rpy:554
+# game/code/e04/e04s06.rpy:542
 translate spanish e04s06_b2e50d76:
 
     # mk "I'm sorry, what is that? What's going on here?"
-    mk "Lo siento, ¿qué es eso? ¿Que está pasando aqui?"
+    mk "I'm sorry, what is that? What's going on here?"
 
-# game/code/e04/e04s06.rpy:557
+# game/code/e04/e04s06.rpy:545
 translate spanish e04s06_c55aa995:
 
     # mc "Oh, I can explain."
-    mc "Oh, puedo explicarlo."
+    mc "Oh, I can explain."
 
-# game/code/e04/e04s06.rpy:561
+# game/code/e04/e04s06.rpy:548
 translate spanish e04s06_bb2e3b5a:
 
     # mk "Now that I think about it... Shouldn't she be in prison?"
-    mk "Ahora que lo pienso... ¿No debería estar en prisión?"
+    mk "Now that I think about it... Shouldn't she be in prison?"
 
-# game/code/e04/e04s06.rpy:564
+# game/code/e04/e04s06.rpy:551
 translate spanish e04s06_1fd5852b:
 
     # mc "Like I said, I can explain."
-    mc "Como dije, puedo explicarlo."
+    mc "Like I said, I can explain."
 
-# game/code/e04/e04s06.rpy:567
+# game/code/e04/e04s06.rpy:554
 translate spanish e04s06_91238193:
 
     # mk "Well, go on then. I can't wait to hear this."
-    mk "Bueno, continúa entonces. No puedo esperar a escuchar esto."
+    mk "Well, go on then. I can't wait to hear this."
 
-# game/code/e04/e04s06.rpy:572
+# game/code/e04/e04s06.rpy:557
 translate spanish e04s06_982b752b:
 
     # mc "So, that's pretty much it. Lydia is a prisoner. I am her warden."
-    mc "Entonces, eso es todo. Lydia es una prisionera. Soy su guardián."
+    mc "So, that's pretty much it. Lydia is a prisoner. I am her warden."
 
-# game/code/e04/e04s06.rpy:575
+# game/code/e04/e04s06.rpy:560
 translate spanish e04s06_51cbdb29:
 
     # mc "I have a few guards working for me. There are also some voluntary prisoners and/or slaves."
-    mc "Tengo algunos guardias trabajando para mí. También hay algunos prisioneros voluntarios y/o esclavos."
+    mc "I have a few guards working for me. There are also some voluntary prisoners and/or slaves."
 
-# game/code/e04/e04s06.rpy:576
-translate spanish e04s06_e8993aa6:
+# game/code/e04/e04s06.rpy:561
+translate spanish e04s06_7bebf024:
 
-    # mc "My job is to punish Lydia, but it's turning into a whole kinda sex harem thing."
-    mc "Mi trabajo es castigar a Lydia, pero se está convirtiendo en una especie de harén sexual."
+    # mc "My job is to punish Lydia, but it's turning into a whole kind of sex harem thing."
+    mc "My job is to punish Lydia, but it's turning into a whole kind of sex harem thing."
 
-# game/code/e04/e04s06.rpy:580
-translate spanish e04s06_97615c5e:
+# game/code/e04/e04s06.rpy:564
+translate spanish e04s06_587a6a64:
 
-    # mk "Fascinating. How much do your voluntary prisoners have to pay for this experience?"
-    mk "Fascinante. ¿Cuánto tienen que pagar vuestros presos voluntarios por esta experiencia?"
+    # mk "Fascinating. How much do your voluntary prisoners have to pay for the experience?"
+    mk "Fascinating. How much do your voluntary prisoners have to pay for the experience?"
 
-# game/code/e04/e04s06.rpy:583
+# game/code/e04/e04s06.rpy:567
 translate spanish e04s06_2447c87a:
 
     # mc "Excuse me?"
-    mc "¿Disculpe?"
+    mc "Excuse me?"
 
-# game/code/e04/e04s06.rpy:586
+# game/code/e04/e04s06.rpy:570
 translate spanish e04s06_5f322bd4:
 
     # mk "How much would I need to pay? I've made a good bit working these gloryholes."
-    mk "¿Cuánto tendría que pagar? He ganado un buen trabajo trabajando en estos agujeros gloriosos."
+    mk "How much would I need to pay? I've made a good bit working these gloryholes."
 
-# game/code/e04/e04s06.rpy:590
+# game/code/e04/e04s06.rpy:573
 translate spanish e04s06_78f028c3:
 
     # mc "Umm... okay."
-    mc "Mmm... está bien."
+    mc "Umm... okay."
 
-# game/code/e04/e04s06.rpy:591
+# game/code/e04/e04s06.rpy:574
 translate spanish e04s06_bcf51a26:
 
     # mc "Can you call me tomorrow? We can work out the details."
-    mc "¿Puedes llamarme mañana? Podemos resolver los detalles."
+    mc "Can you call me tomorrow? We can work out the details."
 
-# game/code/e04/e04s06.rpy:594
+# game/code/e04/e04s06.rpy:577
 translate spanish e04s06_bcb2eb5d:
 
     # mk "Terrific. Looking forward to it."
-    mk "Fantástico. Espero con ansias."
+    mk "Terrific. Looking forward to it."
 
-# game/code/e04/e04s06.rpy:598
+# game/code/e04/e04s06.rpy:580
 translate spanish e04s06_325274c8:
 
     # lc "You can take this off me. I don't need it anymore."
-    lc "Puedes quitarme esto. Ya no lo necesito."
+    lc "You can take this off me. I don't need it anymore."
 
-# game/code/e04/e04s06.rpy:601
+# game/code/e04/e04s06.rpy:583
 translate spanish e04s06_a67d3357:
 
     # mc "Tell me why."
-    mc "Dime por qué."
+    mc "Tell me why."
 
-# game/code/e04/e04s06.rpy:605
+# game/code/e04/e04s06.rpy:587
 translate spanish e04s06_f29b9873:
 
     # lc "It's useless. But there's more to it than that."
-    lc "Es inútil. Pero hay más que eso."
+    lc "It's useless. But there's more to it than that."
 
-# game/code/e04/e04s06.rpy:608
+# game/code/e04/e04s06.rpy:588
 translate spanish e04s06_befcaf2f:
 
     # lc "I don't need it anymore."
-    lc "Ya no lo necesito."
+    lc "I don't need it anymore."
 
-# game/code/e04/e04s06.rpy:609
+# game/code/e04/e04s06.rpy:589
 translate spanish e04s06_5480716c:
 
     # lc "I've accepted my place. Do whatever you want with me.{w} And I'll do whatever you tell me to do."
-    lc "He aceptado mi lugar. Haz lo que quieras conmigo. {w} Y haré lo que tú me digas que haga."
+    lc "I've accepted my place. Do whatever you want with me.{w} And I'll do whatever you tell me to do."
 
-# game/code/e04/e04s06.rpy:613
+# game/code/e04/e04s06.rpy:592
 translate spanish e04s06_bf655c64:
 
     # lc "I don't need it anymore. It's over."
-    lc "Ya no lo necesito. Se acabó."
+    lc "I don't need it anymore. It's over."
 
-# game/code/e04/e04s06.rpy:614
+# game/code/e04/e04s06.rpy:593
 translate spanish e04s06_ca9b557f:
 
     # lc "I am yours."
-    lc "Soy todo tuyo."
+    lc "I am yours."
 
-# game/code/e04/e04s06.rpy:617
+# game/code/e04/e04s06.rpy:596
 translate spanish e04s06_a094c32b:
 
     # mc "I'm glad to hear you say that. It saves me a lot of trouble."
-    mc "Me alegra oírte decir eso. Me ahorra muchos problemas."
+    mc "I'm glad to hear you say that. It saves me a lot of trouble."
 
-# game/code/e04/e04s06.rpy:619
-translate spanish e04s06_898162b0:
+# game/code/e04/e04s06.rpy:597
+translate spanish e04s06_139ef40b:
 
-    # mc "Still, I think I will continue to have you wear this."
-    mc "Aun así, creo que seguiré haciéndote usar esto."
+    # mc "Still, I think I will continue to have you wear it."
+    mc "Still, I think I will continue to have you wear it."
 
-# game/code/e04/e04s06.rpy:622
+# game/code/e04/e04s06.rpy:600
 translate spanish e04s06_888fb293:
 
     # lc "Why?"
-    lc "¿Por qué?"
+    lc "Why?"
 
-# game/code/e04/e04s06.rpy:624
+# game/code/e04/e04s06.rpy:602
 translate spanish e04s06_9347e7cb:
 
     # mc "As a reminder, but mostly because I like the way it looks on you."
-    mc "Como recordatorio, pero sobre todo porque me gusta cómo te queda."
+    mc "As a reminder, but mostly because I like the way it looks on you."
 
-# game/code/e04/e04s06.rpy:632
+# game/code/e04/e04s06.rpy:607
 translate spanish e04s06_157e8150:
 
     # lc "Well, I better get in there and start sucking cocks."
-    lc "Bueno, será mejor que entre y empiece a chupar pollas."
+    lc "Well, I better get in there and start sucking cocks."
 
-# game/code/e04/e04s06.rpy:648
+# game/code/e04/e04s06.rpy:621
 translate spanish e04s06_no_ntr_55a91365:
 
     # mc "Don't bother."
-    mc "No te molestes."
+    mc "Don't bother."
 
-# game/code/e04/e04s06.rpy:651
+# game/code/e04/e04s06.rpy:624
 translate spanish e04s06_no_ntr_f7310237:
 
     # lc "Why not? Isn't that what you want me to do?"
-    lc "¿Por qué no? ¿No es eso lo que quieres que haga?"
+    lc "Why not? Isn't that what you want me to do?"
 
-# game/code/e04/e04s06.rpy:655
+# game/code/e04/e04s06.rpy:627
 translate spanish e04s06_no_ntr_cc057365:
 
     # mc "I never wanted to see you do that."
-    mc "Nunca quise verte hacer eso."
+    mc "I never wanted to see you do that."
 
-# game/code/e04/e04s06.rpy:656
+# game/code/e04/e04s06.rpy:628
 translate spanish e04s06_no_ntr_1214f7fc:
 
     # mc "I thought it was necessary, but after what you just said..."
-    mc "Pensé que era necesario, pero después de lo que acabas de decir..."
+    mc "I thought it was necessary, but after what you just said..."
 
-# game/code/e04/e04s06.rpy:657
+# game/code/e04/e04s06.rpy:629
 translate spanish e04s06_no_ntr_9dfb5732:
 
     # mc "Forget it. Let's get you back to your cage."
-    mc "Olvídalo. Te llevaremos de regreso a tu jaula."
+    mc "Forget it. Let's get you back to your cage."
 
-# game/code/e04/e04s06.rpy:661
+# game/code/e04/e04s06.rpy:633
 translate spanish e04s06_no_ntr_fa54de17:
 
     # lc "Okay.{w} Are you still planning on uploading the video of all this online?"
-    lc "Bien. {w} ¿Todavía estás pensando en subir el vídeo de todo esto en línea?"
+    lc "Okay.{w} Are you still planning on uploading the video of all this online?"
 
-# game/code/e04/e04s06.rpy:663
+# game/code/e04/e04s06.rpy:635
 translate spanish e04s06_no_ntr_473f6d41:
 
     # mc "Yup."
-    mc "Sí."
+    mc "Yup."
 
-# game/code/e04/e04s06.rpy:666
+# game/code/e04/e04s06.rpy:638
 translate spanish e04s06_no_ntr_63761e65:
 
     # lc "So when I'm ninety years old there will still be guys jerking off to my humiliation today?"
-    lc "Entonces, cuando tenga noventa años, ¿todavía habrá chicos masturbándose para humillarme?"
+    lc "So when I'm ninety years old there will still be guys jerking off to my humiliation today?"
 
-# game/code/e04/e04s06.rpy:670
+# game/code/e04/e04s06.rpy:641
 translate spanish e04s06_no_ntr_afebdef7:
 
     # sy "Not just guys."
-    sy "No sólo chicos."
+    sy "Not just guys."
 
-# game/code/e04/e04s06.rpy:673
+# game/code/e04/e04s06.rpy:644
 translate spanish e04s06_no_ntr_ae2f9bae:
 
     # mc "I'm sure you'll be very popular at the retirement home."
-    mc "Estoy seguro de que serás muy popular en la residencia de ancianos."
+    mc "I'm sure you'll be very popular at the retirement home."
 
-# game/code/e04/e04s06.rpy:676
+# game/code/e04/e04s06.rpy:647
 translate spanish e04s06_no_ntr_b95a4fd8:
 
     # lc "*sarcastically* Terrific. Wonderful. Something to look forward to..."
-    lc "*sarcásticamente* Fantástico. Maravilloso. Algo que espero con impaciencia..."
+    lc "*sarcastically* Terrific. Wonderful. Something to look forward to..."
 
-# game/code/e04/e04s06.rpy:681
+# game/code/e04/e04s06.rpy:651
 translate spanish e04s06_no_ntr_7053c3e4:
 
     # mk "That was kinda sweet."
-    mk "Eso fue un poco dulce."
+    mk "That was kinda sweet."
 
-# game/code/e04/e04s06.rpy:682
+# game/code/e04/e04s06.rpy:652
 translate spanish e04s06_no_ntr_e7473e16:
 
     # mk "Still, I can't help thinking I should feel offended."
-    mk "Aun así, no puedo evitar pensar que debería sentirme ofendido."
+    mk "Still, I can't help thinking I should feel offended."
 
-# game/code/e04/e04s06.rpy:686
+# game/code/e04/e04s06.rpy:655
 translate spanish e04s06_no_ntr_b23f51ef:
 
     # mk "Oh, well. More for me!"
-    mk "Oh bien. ¡Más para mí!"
+    mk "Oh, well. More for me!"
 
-# game/code/e04/e04s06.rpy:699
+# game/code/e04/e04s06.rpy:666
 translate spanish e04s06_no_ntr_7363a422:
 
     # zo "Hello?"
-    zo "¿Hola?"
+    zo "Hello?"
 
-# game/code/e04/e04s06.rpy:700
+# game/code/e04/e04s06.rpy:667
 translate spanish e04s06_no_ntr_0d3b7040:
 
     # zo "I'm still waiting here..."
-    zo "Todavía estoy esperando aquí..."
+    zo "I'm still waiting here..."
 
-# game/code/e04/e04s06.rpy:701
-translate spanish e04s06_no_ntr_90f6136e:
+# game/code/e04/e04s06.rpy:668
+translate spanish e04s06_no_ntr_3e7019bc:
 
-    # zo "God dammit."
-    zo "Maldita sea."
+    # zo "Goddammit."
+    zo "Goddammit."
 
-# game/code/e04/e04s06.rpy:710
+# game/code/e04/e04s06.rpy:678
 translate spanish e04s06_ntr_c072c248:
 
     # mc "There's no time like the present."
-    mc "No hay mejor momento que el presente."
+    mc "There's no time like the present."
 
-# game/code/e04/e04s06.rpy:713
+# game/code/e04/e04s06.rpy:681
 translate spanish e04s06_ntr_306bb039:
 
     # lc "Yeah."
-    lc "Sí."
+    lc "Yeah."
 
-# game/code/e04/e04s06.rpy:717
+# game/code/e04/e04s06.rpy:684
 translate spanish e04s06_ntr_0c5dd2e6:
 
     # mc "And listen to Stacy."
-    mc "Y escucha a Stacy."
+    mc "And listen to Stacy."
 
-# game/code/e04/e04s06.rpy:720
+# game/code/e04/e04s06.rpy:687
 translate spanish e04s06_ntr_0a372d29:
 
     # sy "Oh?"
-    sy "¿Oh?"
+    sy "Oh?"
 
-# game/code/e04/e04s06.rpy:722
+# game/code/e04/e04s06.rpy:689
 translate spanish e04s06_ntr_c619838c:
 
     # mc "We want to make sure this looks as good as possible for the camera."
-    mc "Queremos asegurarnos de que esto se vea lo mejor posible para la cámara."
+    mc "We want to make sure this looks as good as possible for the camera."
 
-# game/code/e04/e04s06.rpy:723
+# game/code/e04/e04s06.rpy:690
 translate spanish e04s06_ntr_e708f6a5:
 
     # sy "Oh, right."
-    sy "Correcto."
+    sy "Oh, right."
 
-# game/code/e04/e04s06.rpy:728
+# game/code/e04/e04s06.rpy:694
 translate spanish e04s06_ntr_ac747bb5:
 
     # mk "Sounds like you've got this covered for a while."
-    mk "Parece que tienes esto cubierto por un tiempo."
+    mk "Sounds like you've got this covered for a while."
 
-# game/code/e04/e04s06.rpy:730
+# game/code/e04/e04s06.rpy:696
 translate spanish e04s06_ntr_4cbfe087:
 
     # mc "Yeah. I only plan to keep her here for an hour or two, but we'll see how it goes."
-    mc "Sí. Sólo planeo mantenerla aquí una o dos horas, pero veremos cómo va."
+    mc "Yeah. I only plan to keep her here for an hour or two, but we'll see how it goes."
 
-# game/code/e04/e04s06.rpy:731
+# game/code/e04/e04s06.rpy:697
 translate spanish e04s06_ntr_febdb174:
 
     # mk "Cool. Then I'm going to get some lunch."
-    mk "Fresco. Luego voy a almorzar."
+    mk "Cool. Then I'm going to get some lunch."
 
-# game/code/e04/e04s06.rpy:735
+# game/code/e04/e04s06.rpy:701
 translate spanish e04s06_ntr_3c79bd9a:
 
     # mct "Is that a tramp stamp? \"One Size Fits All\"?"
-    mct "¿Es un sello de vagabundo? \"¿Talla única para todos\"?"
+    mct "Is that a tramp stamp? \"One Size Fits All\"?"
 
-# game/code/e04/e04s06.rpy:736
+# game/code/e04/e04s06.rpy:702
 translate spanish e04s06_ntr_51448ca1:
 
     # mct "*sarcastically* Classy."
-    mct "*sarcásticamente* Con clase."
+    mct "*sarcastically* Classy."
 
-# game/code/e04/e04s06.rpy:739
+# game/code/e04/e04s06.rpy:705
 translate spanish e04s06_ntr_bd4b04f2:
 
     # mc "Forgetting something?{w} Don't you need your clothes?"
-    mc "¿Olvidaste algo? {w} ¿No necesitas tu ropa?"
+    mc "Forgetting something?{w} Don't you need your clothes?"
 
-# game/code/e04/e04s06.rpy:742
+# game/code/e04/e04s06.rpy:708
 translate spanish e04s06_ntr_33652ba4:
 
     # mk "Nah, I'm good. See you in about forty-five minutes."
-    mk "No, estoy bien. Nos vemos en unos cuarenta y cinco minutos."
+    mk "Nah, I'm good. See you in about forty-five minutes."
 
-# game/code/e04/e04s06.rpy:748
+# game/code/e04/e04s06.rpy:714
 translate spanish e04s06_ntr_37e95678:
 
     # sy "That's perfect."
-    sy "Eso es perfecto."
+    sy "That's perfect."
 
-# game/code/e04/e04s06.rpy:749
+# game/code/e04/e04s06.rpy:715
 translate spanish e04s06_ntr_da35a26e:
 
     # sy "Hold that pose while I get the camera into position."
-    sy "Mantén esa postura mientras coloco la cámara en posición."
+    sy "Hold that pose while I get the camera into position."
 
-# game/code/e04/e04s06.rpy:753
+# game/code/e04/e04s06.rpy:718
 translate spanish e04s06_ntr_378235c0:
 
     # sy "Just a moment longer."
-    sy "Sólo un momento más."
+    sy "Just a moment longer."
 
-# game/code/e04/e04s06.rpy:754
+# game/code/e04/e04s06.rpy:719
 translate spanish e04s06_ntr_3531bc34:
 
     # sy "Breathe in through your nose and really capture the scent of this place and the penis in front of you."
-    sy "Inhale por la nariz y capture realmente el aroma de este lugar y del pene frente a usted."
+    sy "Breathe in through your nose and really capture the scent of this place and the penis in front of you."
 
-# game/code/e04/e04s06.rpy:758
+# game/code/e04/e04s06.rpy:722
 translate spanish e04s06_ntr_f02ba342:
 
     # sy "Tell me what it feels like right now."
-    sy "Dime qué se siente ahora mismo."
+    sy "Tell me what it feels like right now."
 
-# game/code/e04/e04s06.rpy:760
-translate spanish e04s06_ntr_6b018f01:
+# game/code/e04/e04s06.rpy:724
+translate spanish e04s06_ntr_08d8ee63:
 
-    # lc "It's disgusting. He has a heavy masculine scent, but something else. I think he didn't clean himself after jerking off earlier."
-    lc "Es repugnante. Tiene un fuerte aroma masculino, pero algo más. Creo que no se limpió después de masturbarse antes."
+    # lc "It's disgusting. He has a heavy masculine scent, but something else. I think he didn't clean himself up after jerking off earlier."
+    lc "It's disgusting. He has a heavy masculine scent, but something else. I think he didn't clean himself up after jerking off earlier."
 
-# game/code/e04/e04s06.rpy:762
+# game/code/e04/e04s06.rpy:726
 translate spanish e04s06_ntr_e7073cb5:
 
     # sy "You should get used to that."
-    sy "Deberías acostumbrarte a eso."
+    sy "You should get used to that."
 
-# game/code/e04/e04s06.rpy:766
-translate spanish e04s06_ntr_fd123c24:
+# game/code/e04/e04s06.rpy:729
+translate spanish e04s06_ntr_cda5c09d:
 
-    # sy "I imagine most of the guys waiting over there came at least once watching this live stream earlier today."
-    sy "Me imagino que la mayoría de los chicos que esperaban allí vinieron al menos una vez a ver esta transmisión en vivo hoy."
+    # sy "I imagine most of the guys waiting over there came at least once watching this livestream earlier today."
+    sy "I imagine most of the guys waiting over there came at least once watching this livestream earlier today."
 
-# game/code/e04/e04s06.rpy:768
+# game/code/e04/e04s06.rpy:731
 translate spanish e04s06_ntr_16bfa341:
 
     # lc "The room itself smells worse. Sour milk, urine, yet the strong undercurrent of some cleaner. Bleach?"
-    lc "La habitación en sí huele peor. Leche agria, orina y, sin embargo, el fuerte trasfondo de algún limpiador. ¿Lejía?"
+    lc "The room itself smells worse. Sour milk, urine, yet the strong undercurrent of some cleaner. Bleach?"
 
-# game/code/e04/e04s06.rpy:770
+# game/code/e04/e04s06.rpy:733
 translate spanish e04s06_ntr_0f8be159:
 
     # sy "That's good. Why don't you give Zack's cock a little kiss to get started?"
-    sy "Eso es bueno. ¿Por qué no le das un besito a la polla de Zack para empezar?"
+    sy "That's good. Why don't you give Zack's cock a little kiss to get started?"
 
-# game/code/e04/e04s06.rpy:777
+# game/code/e04/e04s06.rpy:739
 translate spanish e04s06_ntr_523381a6:
 
     # sy "This place could use another round of bleach. Maybe after we leave."
-    sy "A este lugar le vendría bien otra ronda de lejía. Quizás después de que nos vayamos."
+    sy "This place could use another round of bleach. Maybe after we leave."
 
-# game/code/e04/e04s06.rpy:778
+# game/code/e04/e04s06.rpy:740
 translate spanish e04s06_ntr_d0c54f5a:
 
     # sy "That sour milk smell is dried cum, by the way."
-    sy "Por cierto, ese olor a leche agria es semen seco."
+    sy "That sour milk smell is dried cum, by the way."
 
-# game/code/e04/e04s06.rpy:779
+# game/code/e04/e04s06.rpy:741
 translate spanish e04s06_ntr_21db6a79:
 
     # sy "That's a nice kiss. Why don't you use your tongue a bit as well?"
-    sy "Ese es un lindo beso. ¿Por qué no usas un poco tu lengua también?"
+    sy "That's a nice kiss. Why don't you use your tongue a bit as well?"
 
-# game/code/e04/e04s06.rpy:784
+# game/code/e04/e04s06.rpy:745
 translate spanish e04s06_ntr_0102176d:
 
     # sy "Beautiful. You've clearly done this before."
-    sy "Hermoso. Claramente has hecho esto antes."
+    sy "Beautiful. You've clearly done this before."
 
-# game/code/e04/e04s06.rpy:787
+# game/code/e04/e04s06.rpy:748
 translate spanish e04s06_ntr_2ed3a489:
 
     # sy "Giving head, I mean. I have no doubt this is your first experience working in a gloryhole."
-    sy "Dar mamada, quiero decir. No tengo ninguna duda de que esta es tu primera experiencia trabajando en un Gloryhole."
+    sy "Giving head, I mean. I have no doubt this is your first experience working in a gloryhole."
 
-# game/code/e04/e04s06.rpy:788
+# game/code/e04/e04s06.rpy:749
 translate spanish e04s06_ntr_0ddd15a7:
 
     # sy "It's a shame the wall is there. I would love to see you licking his balls."
-    sy "Es una pena que el muro esté ahí. Me encantaría verte lamiendo sus bolas."
+    sy "It's a shame the wall is there. I would love to see you licking his balls."
 
-# game/code/e04/e04s06.rpy:793
+# game/code/e04/e04s06.rpy:753
 translate spanish e04s06_ntr_06ecded8:
 
     # sy "Very nice. I didn't know you could do that."
-    sy "Muy lindo. No sabía que podías hacer eso."
+    sy "Very nice. I didn't know you could do that."
 
-# game/code/e04/e04s06.rpy:795
+# game/code/e04/e04s06.rpy:755
 translate spanish e04s06_ntr_efe0d593:
 
     # mc "She's very talented."
-    mc "Ella es muy talentosa."
+    mc "She's very talented."
 
-# game/code/e04/e04s06.rpy:796
+# game/code/e04/e04s06.rpy:756
 translate spanish e04s06_ntr_1bdbbb85:
 
     # sy "That's enough foreplay. You may start slowly sucking that dick now."
-    sy "Ya son suficientes juegos previos. Puedes empezar a chupar esa polla lentamente ahora."
+    sy "That's enough foreplay. You may start slowly sucking that dick now."
 
-# game/code/e04/e04s06.rpy:800
+# game/code/e04/e04s06.rpy:759
 translate spanish e04s06_ntr_4e9f64f5:
 
     # sy "Oh baby, you really are talented."
-    sy "Oh cariño, realmente tienes talento."
+    sy "Oh baby, you really are talented."
 
-# game/code/e04/e04s06.rpy:801
+# game/code/e04/e04s06.rpy:760
 translate spanish e04s06_ntr_834573ae:
 
     # sy "I thought I was good, but that looks really good."
-    sy "Pensé que era bueno, pero se ve muy bien."
+    sy "I thought I was good, but that looks really good."
 
-# game/code/e04/e04s06.rpy:802
+# game/code/e04/e04s06.rpy:761
 translate spanish e04s06_ntr_02af1fe3:
 
     # sy "I should watch this video later so I can take notes."
-    sy "Debería ver este vídeo más tarde para poder tomar notas."
+    sy "I should watch this video later so I can take notes."
 
-# game/code/e04/e04s06.rpy:803
+# game/code/e04/e04s06.rpy:762
 translate spanish e04s06_ntr_42475e20:
 
     # sy "How about you show off your deepthroat skills. Can you kiss the wall around his cock?"
-    sy "¿Qué tal si muestras tus habilidades de garganta profunda? ¿Puedes besar la pared alrededor de su polla?"
+    sy "How about you show off your deepthroat skills. Can you kiss the wall around his cock?"
 
-# game/code/e04/e04s06.rpy:808
+# game/code/e04/e04s06.rpy:768
 translate spanish e04s06_ntr_7cecd28e:
 
     # sy "Amazing! You were born for this."
-    sy "¡Asombroso! Naciste para esto."
+    sy "Amazing! You were born for this."
 
-# game/code/e04/e04s06.rpy:812
+# game/code/e04/e04s06.rpy:771
 translate spanish e04s06_ntr_268ad061:
 
     # sy "Just look at those luscious lips kissing that dirty-ass gloryhole wall!"
-    sy "¡Solo mira esos deliciosos labios besando esa sucia pared del agujero de la gloria!"
+    sy "Just look at those luscious lips kissing that dirty-ass gloryhole wall!"
 
-# game/code/e04/e04s06.rpy:813
+# game/code/e04/e04s06.rpy:773
 translate spanish e04s06_ntr_9ffb7acf:
 
     # sy "Okay, you can suck him off properly anytime that you want."
-    sy "Está bien, puedes chuparlo adecuadamente cuando quieras."
+    sy "Okay, you can suck him off properly anytime that you want."
 
-# game/code/e04/e04s06.rpy:820
+# game/code/e04/e04s06.rpy:786
 translate spanish e04s06_ntr_19525330:
 
     # sy "Damn, girl. That looks very professional."
-    sy "Maldita mujer. Eso parece muy profesional."
+    sy "Damn, girl. That looks very professional."
 
-# game/code/e04/e04s06.rpy:821
+# game/code/e04/e04s06.rpy:787
 translate spanish e04s06_ntr_001c213c:
 
     # sy "Are you sure you hadn't done this before? Maybe some amateur porn films?"
-    sy "¿Estás seguro de que no habías hecho esto antes? ¿Quizás algunas películas porno amateur?"
+    sy "Are you sure you hadn't done this before? Maybe some amateur porn films?"
 
-# game/code/e04/e04s06.rpy:824
+# game/code/e04/e04s06.rpy:791
 translate spanish e04s06_ntr_e9c2d928:
 
     # sy "Do you teach classes?"
-    sy "¿Das clases?"
+    sy "Do you teach classes?"
 
-# game/code/e04/e04s06.rpy:827
+# game/code/e04/e04s06.rpy:795
 translate spanish e04s06_ntr_13f43cf5:
 
     # sy "Oh, is he getting close?"
-    sy "Oh, ¿se está acercando?"
+    sy "Oh, is he getting close?"
 
-# game/code/e04/e04s06.rpy:831
+# game/code/e04/e04s06.rpy:799
 translate spanish e04s06_ntr_51b0f372:
 
     # lc "*mumbles* Yesh."
-    lc "*murmura* Sí."
+    lc "*mumbles* Yesh."
 
-# game/code/e04/e04s06.rpy:835
+# game/code/e04/e04s06.rpy:804
 translate spanish e04s06_ntr_09db1d81:
 
     # sy "Good, good. But don't talk with your mouth full."
-    sy "Bien bien. Pero no hables con la boca llena."
+    sy "Good, good. But don't talk with your mouth full."
 
-# game/code/e04/e04s06.rpy:836
+# game/code/e04/e04s06.rpy:805
 translate spanish e04s06_ntr_0c702b73:
 
     # sy "We'll change it up every time, but for this first dick I want you to spray it all over your face."
-    sy "Lo cambiaremos cada vez, pero para esta primera polla quiero que te lo rocíes por toda la cara."
+    sy "We'll change it up every time, but for this first dick I want you to spray it all over your face."
 
-# game/code/e04/e04s06.rpy:840
-translate spanish e04s06_ntr_c9aeff17:
+# game/code/e04/e04s06.rpy:808
+translate spanish e04s06_ntr_7a5786f7:
 
-    # sy "Don't accidentally get it in your mouth. What am I saying - you're clearly a pro at this."
-    sy "No se lo meta accidentalmente en la boca. ¿Qué estoy diciendo? Claramente eres un profesional en esto."
+    # sy "Don't accidentally get it in your mouth.{w} What am I saying - you're clearly a pro at this."
+    sy "Don't accidentally get it in your mouth.{w} What am I saying - you're clearly a pro at this."
 
-# game/code/e04/e04s06.rpy:841
-translate spanish e04s06_ntr_222eb5fc:
+# game/code/e04/e04s06.rpy:809
+translate spanish e04s06_ntr_2196e933:
 
-    # sy "Aim for your eyes and nostrils if you can."
-    sy "Apunta a tus ojos y fosas nasales si puedes."
+    # sy "Aim for your eyes and nostrils, if you can."
+    sy "Aim for your eyes and nostrils, if you can."
 
-# game/code/e04/e04s06.rpy:842
+# game/code/e04/e04s06.rpy:810
 translate spanish e04s06_ntr_f99b0b28:
 
     # sy "The audience at home would love to see that."
-    sy "Al público en casa le encantaría ver eso."
+    sy "The audience at home would love to see that."
 
-# game/code/e04/e04s06.rpy:847
+# game/code/e04/e04s06.rpy:815
 translate spanish e04s06_ntr_d6664a90:
 
     # sy "That's great, but can you look directly at the camera?"
-    sy "Eso es genial, pero ¿puedes mirar directamente a la cámara?"
+    sy "That's great, but can you look directly at the camera?"
 
-# game/code/e04/e04s06.rpy:848
-translate spanish e04s06_ntr_66d31f13:
+# game/code/e04/e04s06.rpy:816
+translate spanish e04s06_ntr_97492e2e:
 
-    # sy "Turn your head a bit. I want to perfectly capture this moment."
-    sy "Gira un poco la cabeza. Quiero capturar perfectamente este momento."
+    # sy "Turn your head a bit. I want to capture this moment perfectly."
+    sy "Turn your head a bit. I want to capture this moment perfectly."
 
-# game/code/e04/e04s06.rpy:852
+# game/code/e04/e04s06.rpy:821
 translate spanish e04s06_ntr_27a68b19:
 
     # sy "That's gorgeous."
-    sy "Eso es maravilloso."
+    sy "That's gorgeous."
 
-# game/code/e04/e04s06.rpy:853
+# game/code/e04/e04s06.rpy:822
 translate spanish e04s06_ntr_32e170f7:
 
     # sy "You..."
-    sy "Tú..."
+    sy "You..."
 
-# game/code/e04/e04s06.rpy:857
+# game/code/e04/e04s06.rpy:826
 translate spanish e04s06_ntr_5e6c9022:
 
     # sy "... Are..."
-    sy "... Son..."
+    sy "... Are..."
 
-# game/code/e04/e04s06.rpy:861
+# game/code/e04/e04s06.rpy:829
 translate spanish e04s06_ntr_dd86b368:
 
     # sy "... So..."
-    sy "... Entonces..."
+    sy "... So..."
 
-# game/code/e04/e04s06.rpy:866
+# game/code/e04/e04s06.rpy:833
 translate spanish e04s06_ntr_090ed8ba:
 
     # sy "... Pretty."
-    sy "... Bonito."
+    sy "... Pretty."
 
-# game/code/e04/e04s06.rpy:868
+# game/code/e04/e04s06.rpy:834
 translate spanish e04s06_ntr_9408dba1:
 
     # sy "Gorgeous. Absolutely perfect."
-    sy "Espléndido. Absolutamente perfecto."
+    sy "Gorgeous. Absolutely perfect."
 
-# game/code/e04/e04s06.rpy:869
+# game/code/e04/e04s06.rpy:835
 translate spanish e04s06_ntr_90a5f398:
 
     # sy "You wear that so well."
-    sy "Lo usas muy bien."
+    sy "You wear that so well."
 
-# game/code/e04/e04s06.rpy:870
+# game/code/e04/e04s06.rpy:836
 translate spanish e04s06_ntr_49baab4a:
 
     # sy "But don't forget about your little friend there. Give him a kiss."
-    sy "Pero no te olvides de tu amiguito allí. Dale un beso."
+    sy "But don't forget about your little friend there. Give him a kiss."
 
-# game/code/e04/e04s06.rpy:875
+# game/code/e04/e04s06.rpy:840
 translate spanish e04s06_ntr_f9ac0e89:
 
     # sy "Lovely. Now let's see that tongue clean him up."
-    sy "Hermoso. Ahora veamos esa lengua limpiarlo."
+    sy "Lovely. Now let's see that tongue clean him up."
 
-# game/code/e04/e04s06.rpy:880
-translate spanish e04s06_ntr_47139807:
+# game/code/e04/e04s06.rpy:844
+translate spanish e04s06_ntr_12680581:
 
-    # sy "Wonderful. Tell me, how does that make you feel?"
-    sy "Maravilloso. Dime, ¿cómo te hace sentir eso?"
+    # sy "Wonderful. Tell me, how does being covered in cum make you feel?"
+    sy "Wonderful. Tell me, how does being covered in cum make you feel?"
 
-# game/code/e04/e04s06.rpy:884
+# game/code/e04/e04s06.rpy:847
 translate spanish e04s06_ntr_6b246743:
 
     # lc "It is what [alt_mcname] wants. That is my purpose."
-    lc "Es lo que [alt_mcname] quiere. Ese es mi propósito."
+    lc "It is what [alt_mcname] wants. That is my purpose."
 
-# game/code/e04/e04s06.rpy:887
-translate spanish e04s06_ntr_e80dcd5c:
+# game/code/e04/e04s06.rpy:851
+translate spanish e04s06_ntr_26121d41:
 
-    # sy "Okay, good answer. Ummm...{w} How does this make Lydia feel?"
-    sy "Bien, buena respuesta. Ummm...{w} ¿Cómo hace sentir esto a Lydia?"
+    # sy "Okay, good answer. Ummm...{w} How does this make you feel, Lydia?"
+    sy "Okay, good answer. Ummm...{w} How does this make you feel, Lydia?"
 
-# game/code/e04/e04s06.rpy:889
+# game/code/e04/e04s06.rpy:853
 translate spanish e04s06_ntr_269ac19d:
 
     # lc "I love it. I am serving [alt_mcname]. I want nothing else."
-    lc "Me encanta. Estoy sirviendo a [alt_mcname]. No quiero nada más."
+    lc "I love it. I am serving [alt_mcname]. I want nothing else."
 
-# game/code/e04/e04s06.rpy:893
+# game/code/e04/e04s06.rpy:858
 translate spanish e04s06_ntr_e861530f:
 
     # sy "Huh. Interesting."
-    sy "Eh. Interesante."
+    sy "Huh. Interesting."
 
-# game/code/e04/e04s06.rpy:894
+# game/code/e04/e04s06.rpy:859
 translate spanish e04s06_ntr_a98f339c:
 
     # sy "Do you have anything you want to say to the audience at home?"
-    sy "¿Tienes algo que quieras decirle al público en casa?"
+    sy "Do you have anything you want to say to the audience at home?"
 
-# game/code/e04/e04s06.rpy:898
+# game/code/e04/e04s06.rpy:863
 translate spanish e04s06_ntr_c518f29d:
 
     # lc "Yes, I think I do."
-    lc "Sí, creo que sí."
+    lc "Yes, I think I do."
 
-# game/code/e04/e04s06.rpy:904
+# game/code/e04/e04s06.rpy:869
 translate spanish e04s06_ntr_9d08d929:
 
     # lc "Get in line."
-    lc "Ponerse en línea."
+    lc "Get in line."
 
 translate spanish strings:
 
-    # game/code/e04/e04s06.rpy:633
+    # game/code/e04/e04s06.rpy:608
     old "I want to see that."
-    new "Quiero ver eso."
+    new "I want to see that."
 
-    # game/code/e04/e04s06.rpy:633
+    # game/code/e04/e04s06.rpy:608
     old "No need. I proved my point."
-    new "No hay necesidad. Probé mi punto."
+    new "No need. I proved my point."
 
