@@ -304,64 +304,65 @@ translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "30. What? You wanted more?"
-    new "30. What? You wanted more?"
+    new "30. Ne? Daha fazlasını mı istedin?"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish all 6 Endings from DLC-1"
-    new "Finish all 6 Endings from DLC-1"
+    yeni "DLC-1'deki 6 Sonun hepsini bitir"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "31. Go Debbie Go"
-    new "31. Go Debbie Go"
+    yeni "31. Git Debbie Git"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Have sex with Debbie"
-    new "Have sex with Debbie"
+    yeni "Debbie ile seks yap"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "32. Fully Cooked"
-    new "32. Fully Cooked"
+    yeni "32. Tamamen Pişmiş"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Get max points in Lydia's challenges in e07"
-    new "Get max points in Lydia's challenges in e07"
+    yeni "e07'de Lydia'nın mücadelelerinde maksimum puan alın"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "33. Full House"
-    new "33. Full House"
+    yeni "33. Full House"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Play with all the characters in e04"
-    new "Play with all the characters in e04"
+    new "e04'teki tüm karakterlerle oynayın"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "34. Day and Night"
-    new "34. Day and Night"
+    yeni "34. Gündüz ve Gece"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish e04 and e07"
-    new "Finish e04 and e07"
+    yeni "e04 ve e07'yi bitirin"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "35. A lucky dozen"
-    new "35. A lucky dozen"
+    yeni "35. Şanslı bir düzine"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish 12 endings"
-    new "Finish 12 endings"
+    new "12 sonu bitir"
 
     # game/code/data/extended/extra_gallery.rpy:712
     old "ORNY"
-    new "ORNY"
+    yeni "ORNY"
 
     # game/code/data/extended/extra_gallery.rpy:713
     old "H"
-    new "H"
+    yeni "H"
 
     # game/code/data/extended/extra_gallery.rpy:714
     old "UNGRY"
-    new "UNGRY"
+    yeni "UNGRY"
 
     # game/code/data/extended/extra_gallery.rpy:715
     old "APPY"
     new "APPY"
+
