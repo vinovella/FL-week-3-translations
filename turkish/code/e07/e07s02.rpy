@@ -682,7 +682,7 @@ translate turkish e07s02_bathroom_5ba7b92e:
 translate turkish e07s02_bathroom_8d262814:
 
     # lc "-Get set-"
-    lc "-Get set-"
+    lc "-Hazırlan-"
 
 # game/code/e07/e07s02.rpy:442
 translate turkish e07s02_bathroom_647aea76:
