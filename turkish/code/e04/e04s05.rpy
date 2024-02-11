@@ -964,7 +964,7 @@ translate turkish e04s05_72a3d1e8:
 translate turkish e04s05_567920d3:
 
     # lc "Come o- HOLY FUCK!"
-    lc "Come o- HOLY FUCK!"
+    lc "Gel ha- Kahretsin!"
 
 # game/code/e04/e04s05.rpy:629
 translate turkish e04s05_9b0cd729:
@@ -1168,7 +1168,7 @@ translate turkish e04s05_55afc618:
 translate turkish e04s05_c6eb393e:
 
     # lc "I will fucking ki-"
-    lc "I will fucking ki-"
+    lc "Lanet olsun -"
 
 # game/code/e04/e04s05.rpy:729
 translate turkish e04s05_6c51eb41:
@@ -1360,7 +1360,7 @@ translate turkish e04s05_443dba65:
 translate turkish e04s05_0c26425b:
 
     # mc "Oh shiiiit!"
-    mc "Oh shiiiit!"
+    mc "Kahretsin!"
 
 # game/code/e04/e04s05.rpy:826
 translate turkish e04s05_ee03e7f4:
@@ -1420,7 +1420,7 @@ translate turkish e04s05_6eb99e08:
 translate turkish e04s05_ca5cf376:
 
     # lc "DON'T YOU- MMMMMMFUCK- THIK ABOUT IT!"
-    lc "DON'T YOU- MMMMMMFUCK- THIK ABOUT IT!"
+    lc "BUNU HIÇ DÜŞÜNME!"
 
 # game/code/e04/e04s05.rpy:853
 translate turkish e04s05_4749070b:
@@ -1504,7 +1504,7 @@ translate turkish e04s05_ending_9fbe8abf:
 translate turkish e04s05_ending_be182e8a:
 
     # lc "I-I- nnnngh- No I woooon't!"
-    lc "I-I- nnnngh- No I woooon't!"
+    lc "Hayır!"
 
 # game/code/e04/e04s05.rpy:896
 translate turkish e04s05_ending_5274fc8d:
