@@ -790,19 +790,19 @@ translate turkish e07s07_vasectomy_aabe3d45:
 translate turkish e07s07_vasectomy_2ee7afa4:
 
     # lc "*panting and moaning*"
-    lc "*panting and moaning*"
+    lc "*nefes nefese ve inleyerek*"
 
 # game/code/e07/e07s07.rpy:401
 translate turkish e07s07_vasectomy_368b6f9c:
 
     # mct "Oh fuck. Fuck me, Lydia looks so hot. Why. WHY?!"
-    mct "Oh fuck. Sik beni, Lydia çok ateşli görünüyor. Neden? NEDEN?!"
+    mct "Oh siktir. Sik beni, Lydia çok ateşli görünüyor. Neden? NEDEN?!"
 
 # game/code/e07/e07s07.rpy:403
 translate turkish e07s07_vasectomy_74210e88:
 
     # lc "FUCCCKKKK YESS!!!"
-    lc "FUCCCKKKK YESS!!!"
+    lc "SİKTİRRR EVETTT!!!"
 
 # game/code/e07/e07s07.rpy:405
 translate turkish e07s07_vasectomy_40d73750:
@@ -820,7 +820,7 @@ translate turkish e07s07_vasectomy_5759c6ec:
 translate turkish e07s07_vasectomy_a36b00cf:
 
     # lc "FUUUUUUUCCK!!!"
-    lc "FUUUUUUUCCK!!!"
+    lc "SİİKKTİRRRR!!!"
 
 # game/code/e07/e07s07.rpy:411
 translate turkish e07s07_vasectomy_7ece33d0:
@@ -874,7 +874,7 @@ translate turkish e07s07_vasectomy_73d35fe8:
 translate turkish e07s07_vasectomy_739ebd70:
 
     # lc "Oh yes. Fuck yes. Don't you dare hold back, [e07_pbname!t]."
-    lc "Oh evet. Fuck yes. Sakın geri çekilme, [e07_pbname!t]."
+    lc "Oh evet. Siktir evet. Sakın geri çekilme, [e07_pbname!t]."
 
 # game/code/e07/e07s07.rpy:437
 translate turkish e07s07_vasectomy_f3ccaf6b:
@@ -898,13 +898,13 @@ translate turkish e07s07_vasectomy_9d36f625:
 translate turkish e07s07_vasectomy_c688ec4c:
 
     # lc " I WAAAANNNNNNNNNAAAA CCCCUUUUUUUMMMM!!!!!"
-    lc " I WAAAANNNNNNNNNAAAA CCCCUUUUUUMMMM!!!!!"
+    lc " BOŞALLLMAKKKKK İSSTİİİYOORRUUUUMMM!!!!"
 
 # game/code/e07/e07s07.rpy:456
 translate turkish e07s07_vasectomy_ca489887:
 
     # lc "FUuuuck...{w} that was actually rather beautiful, [e07_pbname!t]. And having [e07_mcname!t] watch... Mrmmm. I'm glad we're doing this again soon.."
-    lc "FUuuuck...{w} bu aslında oldukça güzeldi, [e07_pbname!t]. Ve [e07_mcname!t]'in izlemesi... Mrmmm. Bunu yakında tekrar yapacağımıza sevindim.."
+    lc "Siktirr...{w} bu aslında oldukça güzeldi, [e07_pbname!t]. Ve [e07_mcname!t]'in izlemesi... Mrmmm. Bunu yakında tekrar yapacağımıza sevindim.."
 
 # game/code/e07/e07s07.rpy:459
 translate turkish e07s07_vasectomy_44522567:
@@ -1366,7 +1366,7 @@ translate turkish e07s07_vasectomy_37563884:
 translate turkish e07s07_vasectomy_ec0a9f39:
 
     # lc "*Laughs*"
-    lc "*Laughs*"
+    lc "*Gülüyor*"
 
 # game/code/e07/e07s07.rpy:696
 translate turkish e07s07_vasectomy_7b7ed907:
@@ -1738,7 +1738,7 @@ translate turkish e07s07_refusal_fail_ed581ebb:
 translate turkish e07s07_fail_ae4bcf0d:
 
     # mc "*sniffs* Can... can someone take this off?"
-    mc "*sniffs* Can... can someone take this off?"
+    mc "*kokluyor* Biri şunu çıkarabilir mi?"
 
 # game/code/e07/e07s07.rpy:925
 translate turkish e07s07_fail_d80c3f91:
