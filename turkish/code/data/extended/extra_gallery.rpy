@@ -360,7 +360,7 @@ translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:714
     old "UNGRY"
-    yeni "UNGRY"
+    new "UNGRY"
 
     # game/code/data/extended/extra_gallery.rpy:715
     old "APPY"
