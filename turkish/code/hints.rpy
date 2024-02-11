@@ -1142,198 +1142,199 @@ translate turkish strings:
     old "No hints available."
     new "Hiç ipucu yok."
 
-    # game/code/hints.rpy:5
+     # game/code/hints.rpy:5
     old "You will end up fucking Vanessa in the asshole."
-    new "You will end up fucking Vanessa in the asshole."
+    new "Sonunda Vanessa'yı göt deliğinden becereceksin."
 
     # game/code/hints.rpy:5
     old "You will skip to the blowjob."
-    new "You will skip to the blowjob."
+    new "Oral sekse geçeceksin."
 
     # game/code/hints.rpy:5
     old "Vanessa gets you nice and hard with her lovely feet."
-    new "Vanessa gets you nice and hard with her lovely feet."
+    new "Vanessa güzel ayaklarıyla seni güzel ve sert yapıyor."
 
     # game/code/hints.rpy:5
     old "Mark both redheads with your piss."
-    new "Mark both redheads with your piss."
+    new "Her iki kızıla da çişinle işaret koy."
 
     # game/code/hints.rpy:5
     old "Continue to threesome scene."
-    new "Continue to threesome scene."
+    new "Üçlü sahneye devam et."
 
     # game/code/hints.rpy:5
     old "Debbie will join you for some action later."
-    new "Debbie will join you for some action later."
+    new "Debbie daha sonra biraz aksiyon için sana katılacak."
 
     # game/code/hints.rpy:5
     old "Debbie will not join you later."
-    new "Debbie will not join you later."
+    new "Debbie daha sonra sana katılmayacak."
 
     # game/code/hints.rpy:5
     old "Polly and Nora will get in on the action."
-    new "Polly and Nora will get in on the action."
+    new "Polly ve Nora aksiyona katılacak."
 
     # game/code/hints.rpy:5
     old "There still might be someone for Debbie in the cafe."
-    new "There still might be someone for Debbie in the cafe."
+    new "Kafede Debbie için hala biri olabilir."
 
     # game/code/hints.rpy:5
     old "Dahlia will peg you."
-    new "Dahlia will peg you."
+    new "Dahlia sana çakacak."
 
     # game/code/hints.rpy:5
     old "Dahlia won't peg you."
-    new "Dahlia won't peg you."
+    new "Dahlia sana çakmayacak."
 
     # game/code/hints.rpy:5
     old "Make Daisy say what she wants."
-    new "Make Daisy say what she wants."
+    new "Daisy'nin ne istediğini söylemesini sağla."
 
     # game/code/hints.rpy:5
     old "Give Daisy what she wants."
-    new "Give Daisy what she wants."
+    new "Daisy'ye istediğini ver."
 
     # game/code/hints.rpy:5
     old "Tell your Mistress you desperately want to impregnate her."
-    new "Tell your Mistress you desperately want to impregnate her."
+    new "Hanımına onu hamile bırakmayı çok istediğini söyle."
 
     # game/code/hints.rpy:5
     old "You have no will of you own. You are simply an extension of Dahlia."
-    new "You have no will of you own. You are simply an extension of Dahlia."
+    new "Senin kendi iraden yok. Sen sadece Dahlia'nın bir uzantısısın."
 
     # game/code/hints.rpy:5
     old "Keep your name as it is."
-    new "Keep your name as it is."
+    new "Adını olduğu gibi koru."
 
     # game/code/hints.rpy:5
     old "Change your name to \"Warden\"."
-    new "Change your name to \"Warden\"."
+    new "Adını \"Warden\" olarak değiştir."
 
     # game/code/hints.rpy:5
     old "Enter your own name."
-    new "Enter your own name."
+    new "Kendi adınızı girin."
 
     # game/code/hints.rpy:5
     old "Order Lydia to get started sucking cock."
-    new "Order Lydia to get started sucking cock."
+    new "Sik yalamaya başlaması için Lydia'ya sipariş ver."
 
     # game/code/hints.rpy:5
     old "Take Lydia home without making her work at the gloryhole."
-    new "Take Lydia home without making her work at the gloryhole."
+    new "Lydia'yı dikiz deliğinde çalıştırmadan eve götür."
 
     # game/code/hints.rpy:5
     old "And they lived happily ever after."
-    new "And they lived happily ever after."
+    new "Ve sonsuza dek mutlu yaşadılar."
 
     # game/code/hints.rpy:5
     old "Even a favorite toy is only happy when someone plays with it."
-    new "Even a favorite toy is only happy when someone plays with it."
+    new "En sevilen oyuncak bile sadece biri onunla oynadığında mutlu olur."
 
     # game/code/hints.rpy:5
     old "Annihilate the last threads of Lydia's existence."
-    new "Annihilate the last threads of Lydia's existence."
+    new "Lydia'nın varlığının son ipliğini de yok et."
 
     # game/code/hints.rpy:5
     old "Might affect dialogue and nicknames for this ending."
-    new "Might affect dialogue and nicknames for this ending."
+    new "Bu son için diyalogları ve takma adları etkileyebilir."
 
     # game/code/hints.rpy:5
     old "Uses default dialogue and nicknames for this ending."
-    new "Uses default dialogue and nicknames for this ending."
+    new "Bu son için varsayılan diyalog ve takma adları kullanır."
 
     # game/code/hints.rpy:5
     old "Might impact dialogue and nicknames for this ending."
-    new "Might impact dialogue and nicknames for this ending."
+    new "Bu son için diyalog ve takma adları etkileyebilir."
 
     # game/code/hints.rpy:5
     old "Surrender and get kicked out of Lydia's home."
-    new "Surrender and get kicked out of Lydia's home."
+    new "Teslim ol ve Lydia'nın evinden kovul."
 
     # game/code/hints.rpy:5
     old "Drink your full and continue Lydia's contest."
-    new "Drink your full and continue Lydia's contest."
+    new "Doyana kadar iç ve Lydia'nın yarışmasına devam et."
 
     # game/code/hints.rpy:5
     old "This is some scary shit."
-    new "This is some scary shit."
+    new "Bu çok korkunç bir şey."
 
     # game/code/hints.rpy:5
     old "Whatever Lydia wants, I'll give it to her."
-    new "Whatever Lydia wants, I'll give it to her."
+    new "Lydia ne isterse, ona vereceğim."
 
     # game/code/hints.rpy:5
     old "Slow and steady loses the race this time."
-    new "Slow and steady loses the race this time."
+    new "Yavaş ve istikrarlı olan bu kez yarışı kaybeder."
 
     # game/code/hints.rpy:5
     old "Give 110 percent and win the match."
-    new "Give 110 percent and win the match."
+    new "Yüzde 110'unu ver ve maçı kazan."
 
     # game/code/hints.rpy:5
     old "Stick your finger in Pete's ass and win the gloryhole challenge."
-    new "Stick your finger in Pete's ass and win the gloryhole challenge."
+    new "Parmağını Pete'in kıçına sok ve dikiz deliği mücadelesini kazan."
 
     # game/code/hints.rpy:5
     old "Do your best, but eventually lose the gloryhole challenge."
-    new "Do your best, but eventually lose the gloryhole challenge."
+    new "Elinden geleni yap, ama sonunda dikiz deliği mücadelesini kaybet."
 
     # game/code/hints.rpy:5
     old "Watch Pete creampie Lydia and AmRose, then get vasectomized by Jerome."
-    new "Watch Pete creampie Lydia and AmRose, then get vasectomized by Jerome."
+    new "Pete'in Lydia ve AmRose'a boşalmasını izle, sonra Jerome tarafından kısırlaştırıl."
 
     # game/code/hints.rpy:5
     old "Refuse to see this ending to its proper conclusion"
-    new "Refuse to see this ending to its proper conclusion"
+    new "Bu sonun doğru sonuca ulaştığını görmeyi reddediyorum"
 
     # game/code/hints.rpy:5
     old "Slurp out Pete's cum from inside Am-Rose' pussy."
-    new "Slurp out Pete's cum from inside Am-Rose' pussy."
+    new "Pete'in dölünü Am-Rose'un amının içinden höpürdeterek çıkar."
 
     # game/code/hints.rpy:5
     old "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
-    new "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
+    new "Pete'in dölünü Am-Rose'un amının içinden emmeyi reddet."
 
     # game/code/hints.rpy:5
     old "Be prepared for the challenge, and improve your chances of winning."
-    new "Be prepared for the challenge, and improve your chances of winning."
+    new "Mücadeleye hazırlıklı olun ve kazanma şansınızı artırın."
 
     # game/code/hints.rpy:5
     old "Maybe she'll choose someone else, take the risk of not being ready."
-    new "Maybe she'll choose someone else, take the risk of not being ready."
+    new "Belki başka birini seçer, hazır olmama riskini al."
 
     # game/code/hints.rpy:5
     old "What could be waiting for you?"
-    new "What could be waiting for you?"
+    new "Seni ne bekliyor olabilir?"
 
     # game/code/hints.rpy:5
     old "What's she got planned next?"
-    new "What's she got planned next?"
+    new "Sırada ne var?"
 
     # game/code/hints.rpy:5
     old "What's in store for you now?"
-    new "What's in store for you now?"
+    new "Şimdi seni neler bekliyor?"
 
     # game/code/hints.rpy:5
     old "Lose option for Polly & Nora Threesome ending."
-    new "Lose option for Polly & Nora Threesome ending."
+    new "Polly & Nora Üçlü Sonu için seçeneği kaybet."
 
     # game/code/hints.rpy:5
     old "Increases chance of Polly & Nora Threesome ending."
-    new "Increases chance of Polly & Nora Threesome ending."
+    new "Polly & Nora Üçlüsünün bitme şansını artırır."
 
     # game/code/hints.rpy:5
     old "This option skips the blowjob scene. Scene goes to indoors."
-    new "This option skips the blowjob scene. Scene goes to indoors."
+    new "Bu seçenek oral seks sahnesini atlar. Sahne iç mekana gider."
 
     # game/code/hints.rpy:5
     old "Disobey Lydia and lose the challenge."
-    new "Disobey Lydia and lose the challenge."
+    new "Lydia'ya itaatsizlik et ve meydan okumayı kaybet."
 
     # game/code/hints.rpy:5
     old "Prove your devotion to Lydia and win the challenge."
-    new "Prove your devotion to Lydia and win the challenge."
+    new "Lydia'ya bağlılığını kanıtla ve meydan okumayı kazan."
 
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
-    new "Disappoint Lydia and be the loser."
+    new "Lydia'yı hayal kırıklığına uğrat ve kaybeden ol."
+
