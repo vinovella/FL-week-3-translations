@@ -178,7 +178,7 @@ translate turkish e04s07_29f5dd2d:
 translate turkish e04s07_1a84fc83:
 
     # arj "*whispers* Get her [alt_mcname]."
-    arj "*whispers* Get her [alt_mcname]."
+    arj "*Fısıldar* Getirin onu [alt_mcname]."
 
 # game/code/e04/e04s07.rpy:94
 translate turkish e04s07_98155c26:
@@ -334,7 +334,7 @@ translate turkish e04s07_9d412172:
 translate turkish e04s07_2bcee3d9:
 
     # sy "*panting* Don't think I would get some payback."
-    sy "*panting* Don't think I would get some payback."
+    sy "*Nefes nefese* İntikam alacağımı düşünmüyor musun?"
 
 # game/code/e04/e04s07.rpy:181
 translate turkish e04s07_568d585c:
@@ -460,7 +460,7 @@ translate turkish e04s07_0da4295e:
 translate turkish e04s07_e9c01858:
 
     # sy "*moaning* I can't help it. Fuck-huaah... Listening to you talk down to her always drives me wild."
-    sy "*moaning* I can't help it. Siktir-huaah... Onun hakkında aşağılayıcı konuşmanı dinlemek beni hep çıldırtıyor."
+    sy "*inleyerek* Elimde değil. Siktir-huaah... Onun hakkında aşağılayıcı konuşmanı dinlemek beni hep çıldırtıyor."
 
 # game/code/e04/e04s07.rpy:228
 translate turkish e04s07_b847ce38:
@@ -472,13 +472,13 @@ translate turkish e04s07_b847ce38:
 translate turkish e04s07_5a06f4f8:
 
     # sy "Yesss... Ahuaah... cum... Cum inside of me [alt_mcname]!"
-    sy "Yesss... Ahuaah... boşal... İçime boşal [alt_mcname]!"
+    sy "Evetttt... Ahuaah... boşal... İçime boşal [alt_mcname]!"
 
 # game/code/e04/e04s07.rpy:233
 translate turkish e04s07_d34d0b55:
 
     # sy "Drain your fat balls inside my pussyiauaaah!"
-    sy "Drain your fat balls inside my pussyiauaaah!"
+    sy "Koca taşaklarını amımın içine boşalt!"
 
 # game/code/e04/e04s07.rpy:238
 translate turkish e04s07_43e12dfa:
@@ -496,7 +496,7 @@ translate turkish e04s07_5644b875:
 translate turkish e04s07_11b68c8a:
 
     # sy "*panting* The... bestuaah..."
-    sy "*panting* The... bestuaah..."
+    sy "*inleyerek* Sen... efsanesuaah..."
 
 # game/code/e04/e04s07.rpy:248
 translate turkish e04s07_9e6e815e:
@@ -670,7 +670,7 @@ translate turkish e04s07_mh_87f88adb:
 translate turkish e04s07_mh_d6a492aa:
 
     # mc "Fuck yeah!"
-    mc "Fuck yeah!"
+    mc "Siktir evet!"
 
 # game/code/e04/e04s07.rpy:336
 translate turkish e04s07_mh_0005c459:
@@ -706,7 +706,7 @@ translate turkish e04s07_mh_8e5ceecb:
 translate turkish e04s07_mh_e788d424:
 
     # mc "*chuckles* Looks like we're in agreement."
-    mc "*chuckles* Anlaştık gibi görünüyor."
+    mc "*Kıkırdama* Anlaştık gibi görünüyor."
 
 # game/code/e04/e04s07.rpy:351
 translate turkish e04s07_mh_a6935089:
@@ -832,7 +832,7 @@ translate turkish e04s07_mh_bc8aeb4f:
 translate turkish e04s07_mh_d979e2f5:
 
     # mh "Ram my asshole!"
-    mh "Ram my asshole!"
+    mh "Kıçıma vur!"
 
 # game/code/e04/e04s07.rpy:403
 translate turkish e04s07_mh_5b3802ea:
@@ -1156,13 +1156,13 @@ translate turkish e04s07_mk_f6391d46:
 translate turkish e04s07_mk_447e5228:
 
     # mk "Cum inside of me as hard as you can, [alt_mcname]!"
-    mk "Cum inside of me as hard as you can, [alt_mcname]!"
+    mk "İçime boşalabildiğin kadar sert boşal, [alt_mcname]!"
 
 # game/code/e04/e04s07.rpy:558
 translate turkish e04s07_mk_6a5930de:
 
     # mk "Ohmahgawd!"
-    mk "Ohmahgawd!"
+    mk "OMONTONROM!"
 
 # game/code/e04/e04s07.rpy:561
 translate turkish e04s07_mk_4349c919:
@@ -1180,7 +1180,7 @@ translate turkish e04s07_mk_94fe272d:
 translate turkish e04s07_mk_183e0e0b:
 
     # mc "*chuckles* First, it's my cum, whore. And don't worry, if you want more, I'll be sure to find you for some more fun later."
-    mc "*chuckles* İlk olarak, bu benim dölüm, fahişe. Ve endişelenme, daha fazlasını istersen, daha sonra daha fazla eğlence için seni bulacağımdan emin olacağım."
+    mc "*Kıkırdama* İlk olarak, bu benim dölüm, fahişe. Ve endişelenme, daha fazlasını istersen, daha sonra daha fazla eğlence için seni bulacağımdan emin olacağım."
 
 # game/code/e04/e04s07.rpy:569
 translate turkish e04s07_mk_19a56de8:
@@ -1432,7 +1432,7 @@ translate turkish e04s07_ah_tr_0618910c:
 translate turkish e04s07_ah_tr_d3733d3a:
 
     # ah "*moans loudly* I love getting fucked by you, [alt_mcname]."
-    ah "*moans loudly* I love getting fucked by you, [alt_mcname]."
+    ah "*yüksek sesle inliyor* Senin tarafından becerilmeye bayılıyorum, [alt_mcname]."
 
 # game/code/e04/e04s07.rpy:705
 translate turkish e04s07_ah_tr_be32dbda:
@@ -1450,7 +1450,7 @@ translate turkish e04s07_ah_tr_c37c7657:
 translate turkish e04s07_ah_tr_5aff4421:
 
     # mc "Nurrrgh... oh fuck me."
-    mc "Nurrrgh... oh fuck me."
+    mc "Nurrrgh... Hay sikeyim."
 
 # game/code/e04/e04s07.rpy:709
 translate turkish e04s07_ah_tr_f0921427:
@@ -1636,7 +1636,7 @@ translate turkish e04s07_ah_tr_cbf8abb1:
 translate turkish e04s07_ah_tr_03bfb799:
 
     # ah "*phew* You... you better be able to get hard again."
-    ah "*phew* You... you better be able to get hard again."
+    ah "*vay be* tekrar sertleşebilsen iyi olur."
 
 # game/code/e04/e04s07.rpy:772
 translate turkish e04s07_ah_tr_6c88d3c5:
@@ -1780,7 +1780,7 @@ translate turkish e04s07_later_0722c28b:
 translate turkish e04s07_later_57f3fde7:
 
     # dd "*happy slurping* Mmrmmhmmm!"
-    dd "*happy slurping* Mmrmmhmmm!"
+    dd "*mutlu şapırtılar* Mmrmmhmmm!"
 
 # game/code/e04/e04s07.rpy:870
 translate turkish e04s07_later_292dbca9:
@@ -1936,7 +1936,7 @@ translate turkish e04s07_later_ceb2dd53:
 translate turkish e04s07_later_8e82d45a:
 
     # lc "*frantically moans* I am not!"
-    lc "*frantically moans* I am not!"
+    lc "*çılgınca inliyor* Ben değilim!"
 
 # game/code/e04/e04s07.rpy:957
 translate turkish e04s07_later_e8519555:
