@@ -1420,7 +1420,7 @@ translate turkish e07s06_suck_dick_87914515:
 translate turkish e07s06_suck_dick_0a34a026:
 
     # lc "*lewd kissing* Let me kiss it and make it better."
-    lc "*lewd kissing* Let me kiss it and make it better."
+    lc "*müstehcen öpüşme* Öpeyim ve daha iyi yapayım."
 
 # game/code/e07/e07s06.rpy:776
 translate turkish e07s06_suck_dick_cb7335c6:
