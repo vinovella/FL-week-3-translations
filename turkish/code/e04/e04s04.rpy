@@ -1348,7 +1348,7 @@ translate turkish e04s04_lc_punishment_6734e39d:
 translate turkish e04s04_lc_punishment_4f1f983d:
 
     # sy "Nnnng, I, nnnnng, think I might too!"
-    sy "Nnnng, I, nnnnng, think I might too!"
+    sy "Sanırım ben de yapabilirim!"
 
 # game/code/e04/e04s04.rpy:732
 translate turkish e04s04_lc_punishment_731edbfd:
@@ -1408,7 +1408,7 @@ translate turkish e04s04_lc_punishment_49911207:
 translate turkish e04s04_lc_punishment_24fe4a5d:
 
     # mc "A runt like me; I just want to make one thing clear."
-    mc "A runt like me; I just want to make one thing clear."
+    mc "Benim gibi bir cüce; sadece bir şeyi açıklığa kavuşturmak istiyorum."
 
 # game/code/e04/e04s04.rpy:753
 translate turkish e04s04_lc_punishment_bcf6ccb6:
