@@ -424,7 +424,7 @@ translate turkish e07s05_locker_2f7132ff:
 translate turkish e07s05_locker_71ac1c73:
 
     # zo "Fuck man, let me have a turn!"
-    zo "Fuck man, let me have a turn!"
+    zo "Kahretsin adamım, bana da bir sıra ver!"
 
 # game/code/e07/e07s05.rpy:293
 translate turkish e07s05_locker_85e08e6f:
@@ -448,7 +448,7 @@ translate turkish e07s05_locker_aa7fa0cc:
 translate turkish e07s05_locker_9a40a270:
 
     # dr "Fuck yeah, what's next?"
-    dr "Fuck yeah, what's next?"
+    dr "Siktir et, sırada ne var?"
 
 # game/code/e07/e07s05.rpy:317
 translate turkish e07s05_locker_6071885e:
@@ -610,7 +610,7 @@ translate turkish e07s05_door_2_4d187621:
 translate turkish e07s05_door_2_f38de7db:
 
     # dr "Hell yeah I am!"
-    dr "Hell yeah I am!"
+    dr "Tabii ki öyleyim!"
 
 # game/code/e07/e07s05.rpy:472
 translate turkish e07s05_door_2_9c256757:
@@ -814,7 +814,7 @@ translate turkish e07s05_door_3_dbf5416e:
 translate turkish e07s05_door_3_dd25e447:
 
     # zo "Niiice, bro!"
-    zo "Niiice, bro!"
+    zo "Güüüüzel, kardeşim!"
 
 # game/code/e07/e07s05.rpy:641
 translate turkish e07s05_door_3_bff9be05:
@@ -826,7 +826,7 @@ translate turkish e07s05_door_3_bff9be05:
 translate turkish e07s05_door_3_a0baade6:
 
     # mct "{i}Fuckboys.{/i}"
-    mct "{i}Fuckboys.{/i}"
+    mct "{i}Siktirinçocuklar..{/i}"
 
 # game/code/e07/e07s05.rpy:647
 translate turkish e07s05_door_3_822491fc:
@@ -1048,7 +1048,7 @@ translate turkish e07s05_arj_pb_bj_2_4aec7caa:
 translate turkish e07s05_arj_pb_bj_2_7b756a82:
 
     # arj "It's easy when..."
-    arj "It's easy when..."
+    arj "Ne zaman kolay..."
 
 # game/code/e07/e07s05.rpy:870
 translate turkish e07s05_arj_pb_bj_2_7bc0c177:
@@ -1078,7 +1078,7 @@ translate turkish e07s05_arj_pb_bj_2_fbcaa0ae:
 translate turkish e07s05_arj_pb_bj_3_0d968e31:
 
     # arj "I can't take it anymore."
-    arj "I can't take it anymore."
+    arj "Artık dayanamıyorum.."
 
 # game/code/e07/e07s05.rpy:920
 translate turkish e07s05_arj_pb_bj_3_8ffb8596:
@@ -1096,19 +1096,19 @@ translate turkish e07s05_arj_pb_bj_3_fd4ddf55:
 translate turkish e07s05_arj_pb_bj_3_250a0075:
 
     # pb "Nnnnng-Fuck! AmRose!"
-    pb "Nnnnng-Fuck! AmRose!"
+    pb "Nnnnng-Siktir! AmRose!"
 
 # game/code/e07/e07s05.rpy:932
 translate turkish e07s05_arj_pb_bj_3_77a4f000:
 
     # pb "Shiii- Fuuuu- If you keep doing that-"
-    pb "Shiii- Fuuuu- Eğer bunu yapmaya devam edersen-"
+    pb "Laneeee- Sikkkkk- Eğer bunu yapmaya devam edersen-"
 
 # game/code/e07/e07s05.rpy:961
 translate turkish e07s05_arj_pb_bj_cum_8a0a167b:
 
     # pb "OhmyGod, you got a great fucking mouth."
-    pb "OhmyGod, harika bir ağzın var."
+    pb "AmanTanrım, harika bir ağzın var."
 
 # game/code/e07/e07s05.rpy:964
 translate turkish e07s05_arj_pb_bj_cum_bd9688db:
@@ -1132,7 +1132,7 @@ translate turkish e07s05_arj_pb_bj_cum_1311c556:
 translate turkish e07s05_arj_pb_bj_cum_fb97109a:
 
     # pb "Fuuuuuhuuuck, AmRose!"
-    pb "Fuuuuuhuuuck, AmRose!"
+    pb "Sikkkktiirrrrrr, AmRose!"
 
 # game/code/e07/e07s05.rpy:974
 translate turkish e07s05_arj_pb_bj_cum_e1f19d09:
@@ -1186,7 +1186,7 @@ translate turkish e07s05_arj_pb_bj_cum_8194313e:
 translate turkish e07s05_arj_pb_bj_cum_76beef9f:
 
     # pb "Fuuuuuck."
-    pb "Fuuuuuck."
+    pb "Siiiikkktirrrr."
 
 # game/code/e07/e07s05.rpy:1028
 translate turkish e07s05_arj_pb_bj_cum_cd3cf786:
