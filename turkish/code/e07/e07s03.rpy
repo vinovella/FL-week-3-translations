@@ -1024,7 +1024,7 @@ translate turkish e07s03_give_all_196ac278:
 translate turkish e07s03_give_all_2e0939a0:
 
     # gb "You're certainly tenacious, I'll give you that."
-    gb "You're certainly tenacious, I'll give you that."
+    gb "Kesinlikle inatçısın, hakkını vermeliyim."
 
 # game/code/e07/e07s03.rpy:583
 translate turkish e07s03_give_all_8bfb074b:
@@ -1390,7 +1390,7 @@ translate turkish e07s03_after_competition_d61a61b3:
 translate turkish e07s03_after_competition_c3da82f5:
 
     # mct "Oh fuck me."
-    mct "Oh fuck me."
+    mct "Oh sik beni."
 
 # game/code/e07/e07s03.rpy:814
 translate turkish e07s03_after_competition_1203d9f8:
