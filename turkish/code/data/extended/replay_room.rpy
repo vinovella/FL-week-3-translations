@@ -311,7 +311,7 @@ translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia"
-    new "Ending 04: Lydia"
+    new "Bitiş 04: Lydia"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia, Stacy & AmRose"
@@ -319,7 +319,7 @@ translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Daisy, Lydia, Stacy & AmRose"
-    new "Ending 04: Daisy, Lydia, Stacy & AmRose"
+    new "Bitiş 04: Daisy, Lydia, Stacy & AmRose"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lyssa & Lydia"
@@ -331,29 +331,29 @@ translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Harem"
-    new "Ending 04: Harem"
+    new "Bitiş 04: Harem"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: AmRose"
-    new "Ending 07: AmRose"
+    new "Bitiş 07: AmRose"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia"
-    new "Ending 07: Lydia"
+    new "Bitiş 07: Lydia"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia & Domina"
-    new "Ending 07: Lydia & Domina"
+    new "Bitiş 07: Lydia & Domina"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia Gangbang"
-    new "Ending 07: Lydia Gangbang"
+    new "Bitiş 07: Lydia Gangbang"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Public Toilet"
-    new "Ending 07: Public Toilet"
+    new "Bitiş 07: Umumi Tuvalet"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia & AmRose"
-    new "Ending 07: Lydia & AmRose"
+    new "Bitiş 07: Lydia & AmRose"
 
