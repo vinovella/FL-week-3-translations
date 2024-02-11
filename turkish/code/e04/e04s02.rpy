@@ -724,7 +724,7 @@ translate turkish e04s02_sex_c9dbf98b:
 translate turkish e04s02_sex_88a7f593:
 
     # mc "There's- Oh, fuck- I'm getting close."
-    mc "There's- Oh, fuck- I'm getting close."
+    mc "Lanet olsun, yaklaşıyorum.."
 
 # game/code/e04/e04s02.rpy:419
 translate turkish e04s02_sex_902d72fe:
