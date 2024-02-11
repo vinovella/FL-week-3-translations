@@ -166,7 +166,7 @@ translate turkish e04s03_e7c189ba:
 translate turkish e04s03_c3026d09:
 
     # sy "Yup. We good?"
-    sy "Yup. We good?"
+    sy "Evet. İyi miyiz?"
 
 # game/code/e04/e04s03.rpy:146
 translate turkish e04s03_6c42f098:
@@ -466,7 +466,7 @@ translate turkish e04s03_bring_lc_00de2223:
 translate turkish e04s03_bring_lc_8fdeda07:
 
     # mc "Knock yourself out."
-    mc "Knock yourself out."
+    mc "Keyfine bak."
 
 # game/code/e04/e04s03.rpy:282
 translate turkish e04s03_bring_lc_acf5f6b1:
