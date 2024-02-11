@@ -1066,7 +1066,7 @@ translate turkish strings:
 
     # game/code/e07/e07s01.rpy:17
     old "Queen"
-    yeni "Kraliçe"
+    new "Kraliçe"
 
     # game/code/e07/e07s01.rpy:18
     old "Limpdick"

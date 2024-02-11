@@ -406,7 +406,7 @@ translate turkish e07s05_locker_b2661a4b:
 translate turkish e07s05_locker_98959692:
 
     # gc "And trust me, you want one. Her tongue is fucking {i}legendary!{/i}"
-    gc "Ve inan bana, bir tane istiyorsun. Onun dili efsanevi!"{/i}"
+    gc "Ve inan bana, bir tane istiyorsun. Onun dili {i}efsanevi!{/i}"
 
 # game/code/e07/e07s05.rpy:275
 translate turkish e07s05_locker_b649755d:
@@ -556,7 +556,7 @@ translate turkish e07s05_door_1_075d7f7c:
 translate turkish e07s05_door_1_39130f26:
 
     # mct "They just treat her like a piece of meat. {i}And she's so much more than that.{/i}"
-    "Ona sadece bir et parçası gibi davranıyorlar. {Ve o bundan çok daha fazlası."
+    mct "Ona sadece bir et parçası gibi davranıyorlar. {i}Ve o bundan çok daha fazlası.{/i}"
 
 # game/code/e07/e07s05.rpy:420
 translate turkish e07s05_door_1_e8c51b88:
@@ -622,13 +622,13 @@ translate turkish e07s05_door_2_9c256757:
 translate turkish e07s05_door_2_250c084c:
 
     # lc "Woo! That's what I'm talking about. Now, impale me with your dick - fuck me, and fuck me {i}hard!{/i}"
-    İşte ben de bundan bahsediyorum. Şimdi beni sikinle del, sik beni ve sertçe sik!"{/i}"
+    lc "İşte ben de bundan bahsediyorum. Şimdi beni sikinle del, sik beni ve sertçe {i}sik!{/i}"
 
 # game/code/e07/e07s05.rpy:483
 translate turkish e07s05_door_2_cdee172d:
 
     # lc "Holy {i}shit!{/i} This is amazing!"
-    lc "Vay anasını!{/i} Bu inanılmaz!"
+    lc "Vay {i}anasını!{/i} Bu inanılmaz!"
 
 # game/code/e07/e07s05.rpy:488
 translate turkish e07s05_door_2_9959ed78:

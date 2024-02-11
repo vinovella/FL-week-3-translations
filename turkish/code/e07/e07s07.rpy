@@ -1180,7 +1180,7 @@ translate turkish e07s07_vasectomy_b0d3f6ff:
 translate turkish e07s07_vasectomy_8967dbc0:
 
     # lc "That's what I like to hear. Give it to her, Bull. Pound every inch of that tight ginger pussy with your meat."
-    Duymak istediğim de bu. Ver ona, Bull. O daracık kızıl amcığın her santimini etinle döv."
+    lc "Duymak istediğim de bu. Ver ona, Bull. O daracık kızıl amcığın her santimini etinle döv."
 
 # game/code/e07/e07s07.rpy:608
 translate turkish e07s07_vasectomy_22b65b6b:
@@ -1942,7 +1942,7 @@ translate turkish strings:
 
     # game/code/e07/e07s07.rpy:993
     old "Stay, watch AmRose get fucked"
-    yeni "Kal, AmRose'un sikilmesini izle"
+    new "Kal, AmRose'un sikilmesini izle"
 
     # game/code/e07/e07s07.rpy:993
     old "Just Leave"
