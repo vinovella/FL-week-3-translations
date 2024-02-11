@@ -76,7 +76,7 @@ translate turkish e07s01_b8b2e74d:
 translate turkish e07s01_21a51e6c:
 
     # arj "*whispers* But we can go."
-    arj "*whispers* But we can go."
+    arj "*fısıldama* Ama gidebiliriz."
 
 # game/code/e07/e07s01.rpy:98
 translate turkish e07s01_f916b371:
@@ -136,7 +136,7 @@ translate turkish e07s01_acc9aa6f:
 translate turkish e07s01_79c8d736:
 
     # ah "*mumbles*"
-    ah "*mumbles*"
+    ah "*Mırıldanıyor*"
 
 # game/code/e07/e07s01.rpy:128
 translate turkish e07s01_7b0f3992:
@@ -226,13 +226,13 @@ translate turkish e07s01_40812952:
 translate turkish e07s01_26b380a1:
 
     # arj "*whispers* We'll talk later."
-    arj "*whispers* We'll talk later."
+    arj "*fısıldama* Sonra konuşuruz."
 
 # game/code/e07/e07s01.rpy:169
 translate turkish e07s01_cd279bb0:
 
     # ah "*whispers* You really weren't listening, were you?"
-    ah "*whispers* Gerçekten dinlemiyordun, değil mi?"
+    ah "*fısıldama* Gerçekten dinlemiyordun, değil mi?"
 
 # game/code/e07/e07s01.rpy:172
 translate turkish e07s01_efe0fa91:
@@ -328,7 +328,7 @@ translate turkish e07s01_27947669:
 translate turkish e07s01_6fe93206:
 
     # lc "Pish, posh, whatever."
-    lc "Pish, posh, whatever."
+    lc "Pish, posh, her neyse."
 
 # game/code/e07/e07s01.rpy:211
 translate turkish e07s01_e5b1612e:
@@ -916,7 +916,7 @@ translate turkish e07s01_after_choice_f787f356:
 translate turkish e07s01_after_choice_13dcb14b:
 
     # arj "FUUuuuuuuckkkkking again!!"
-    arj "FUUuuuuuuckkkkking again!!"
+    arj "Siiiikkkktirrrrr Yenidennnnn!!"
 
 # game/code/e07/e07s01.rpy:498
 translate turkish e07s01_after_choice_d6007e72:
