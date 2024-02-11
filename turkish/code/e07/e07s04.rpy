@@ -304,7 +304,7 @@ translate turkish e07s04_13e173fc:
 translate turkish e07s04_dd8817bb:
 
     # gb "Oh, my little subby, your asshole is so tight!!"
-    gb "Oh, my little subby, your asshole is so tight!!"
+    gb "Oh, benim küçük subby'm, göt deliğin çok dar!!"
 
 # game/code/e07/e07s04.rpy:214
 translate turkish e07s04_80dc4baf:
@@ -358,7 +358,7 @@ translate turkish e07s04_7a659c80:
 translate turkish e07s04_5f6ab012:
 
     # mc "Mmmm, mmmMMM- it's- It's going to take more than that!"
-    mc "Mmmm, mmmMMM- it's- It's going to take more than that!"
+    mc "Mmmm, mmmMMM- it's- bundan daha fazlası gerekecek!"
 
 # game/code/e07/e07s04.rpy:233
 translate turkish e07s04_686b41d1:
