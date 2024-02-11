@@ -1330,7 +1330,7 @@ translate turkish e04s06_ntr_3c79bd9a:
 translate turkish e04s06_ntr_51448ca1:
 
     # mct "*sarcastically* Classy."
-    mct "*alaycı bir şekilde* Klas."
+    mct "*alaycı* bir şekilde* Klas."
 
 # game/code/e04/e04s06.rpy:752
 translate turkish e04s06_ntr_bd4b04f2:
