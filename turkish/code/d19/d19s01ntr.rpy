@@ -1080,11 +1080,11 @@ translate turkish strings:
 translate turkish d19s01ntr_decision_aeef075e:
 
     # lc "Easy words."
-    lc "Easy words."
+    lc "Kolay kelimeler."
 
 # game/code/d19/d19s01ntr.rpy:427
 translate turkish d19s01ntr_decision_5b1e303f:
 
     # lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
-    lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
+    lc "Seni almaya döndüğümde bağlılığını test edeceğimden emin olabilirsin. Buna küçük bir sürpriz diyelim."
 
