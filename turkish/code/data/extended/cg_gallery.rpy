@@ -216,8 +216,8 @@ translate turkish strings:
 
     # game/code/data/extended/cg_gallery.rpy:75
     old "Ending 04: Girls"
-    new "Ending 04: Girls"
+    new "4. Son: Kızlar"
 
     # game/code/data/extended/cg_gallery.rpy:85
     old "Ending 07: Girls"
-    new "Ending 07: Girls"
+    new "7. Son: Kızlar"
