@@ -436,7 +436,7 @@ translate turkish e04s06_afdf11ab:
 translate turkish e04s06_9b71b9e8:
 
     # mc "Fucck..."
-    mc "Fucck..."
+    mc "Siktirrrr..."
 
 # game/code/e04/e04s06.rpy:262
 translate turkish e04s06_44b64215:
@@ -448,7 +448,7 @@ translate turkish e04s06_44b64215:
 translate turkish e04s06_2926185e:
 
     # mc "FFFUuuuuuccccccckkkkkiiiiiinnnngggg"
-    mc "FFFUuuuuuccccccckkkkkiiiiiinnnngggg"
+    mc "SİİİKKKTKTİRRRRR LANNETTTT OLSUNNNN"
 
 # game/code/e04/e04s06.rpy:270
 translate turkish e04s06_c2e66a99:
