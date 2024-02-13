@@ -478,7 +478,7 @@ translate turkish e04s02_sex_bd383b59:
 translate turkish e04s02_sex_32ae02e0:
 
     # lc "OH FUCK!"
-    lc "OH FUCK!"
+    lc "AH SİKTİR!"
 
 # game/code/e04/e04s02.rpy:289
 translate turkish e04s02_sex_9bbe0767:
