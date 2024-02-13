@@ -1558,7 +1558,7 @@ translate turkish e04s04_lc_punishment_482325d8:
 translate turkish e04s04_lc_punishment_5415794c:
 
     # lc "'old on uh 'ec!"
-    lc "'old on uh 'ec!"
+    lc "'eski uh 'ec!"
 
 # game/code/e04/e04s04.rpy:831
 translate turkish e04s04_lc_punishment_23c1170d:
