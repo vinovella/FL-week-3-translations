@@ -1222,7 +1222,7 @@ translate turkish e04s05_a1dab733:
 translate turkish e04s05_dadac0ab:
 
     # lc "HOLY FUCKING SHIT!!!"
-    lc "HOLY FUCKING SHIT!!!"
+    lc "LANET OLSUN!!!"
 
 # game/code/e04/e04s05.rpy:757
 translate turkish e04s05_642b93c4:
