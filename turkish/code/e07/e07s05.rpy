@@ -580,7 +580,7 @@ translate turkish e07s05_door_1_bc3ef85e:
 translate turkish e07s05_door_1_77eef840:
 
     # zo "Same, bro!"
-    zo "Same, bro!"
+    zo "Aynen, kardeşim.!"
 
 # game/code/e07/e07s05.rpy:449
 translate turkish e07s05_door_1_end_24a4b07b:
@@ -790,7 +790,7 @@ translate turkish e07s05_door_3_95f34646:
 translate turkish e07s05_door_3_807a8a49:
 
     # dr "Fuuuuuuck!!"
-    dr "Fuuuuuuck!!"
+    dr "Siiiikkkktirrrrrr!!"
 
 # game/code/e07/e07s05.rpy:624
 translate turkish e07s05_door_3_948292e2:
