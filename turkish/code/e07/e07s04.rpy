@@ -520,7 +520,7 @@ translate turkish e07s04_70cd23ef:
 translate turkish e07s04_6a405584:
 
     # mc "Holllly shit!"
-    mc "Holllly shit!"
+    mc "Lanetttt olsun.!"
 
 # game/code/e07/e07s04.rpy:353
 translate turkish e07s04_3509a794:
@@ -532,7 +532,7 @@ translate turkish e07s04_3509a794:
 translate turkish e07s04_c530b463:
 
     # gb "Cum for me! You are putty, cum in my hand you little ass slut!"
-    gb "Cum for me! Sen macunsun, elime boşal seni küçük götlü sürtük!"
+    gb "Benim için boşal.! Sen macunsun, elime boşal seni küçük götlü sürtük!"
 
 # game/code/e07/e07s04.rpy:356
 translate turkish e07s04_b0a94234:
@@ -652,7 +652,7 @@ translate turkish e07s04_challenge_win_78c8deb1:
 translate turkish e07s04_challenge_win_0279ba10:
 
     # mct "Yesss, God. If this is what it takes to receive anything from [e07_lcname!t], it was worth it."
-    mct "Yesss, Tanrım. Eğer [e07_lcname!t]'den bir şey almak için gereken buysa, buna değdi."
+    mct "Eveetttt, Tanrım. Eğer [e07_lcname!t]'den bir şey almak için gereken buysa, buna değdi."
 
 # game/code/e07/e07s04.rpy:423
 translate turkish e07s04_challenge_win_8e62a48a:
@@ -826,7 +826,7 @@ translate turkish e07s04_challenge_win_89cb19b6:
 translate turkish e07s04_challenge_win_dbadb8b0:
 
     # mc "Oh fuck!"
-    mc "Oh fuck!"
+    mc "Oh lanet olsun.!"
 
 # game/code/e07/e07s04.rpy:506
 translate turkish e07s04_challenge_win_677988d1:
