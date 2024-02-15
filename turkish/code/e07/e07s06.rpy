@@ -868,13 +868,13 @@ translate turkish e07s06_no_cheating_8c11b5df:
 translate turkish e07s06_no_cheating_2cc052a2:
 
     # mc "*groaning* Huah... fuck."
-    mc "*groaning* Huah... fuck."
+    mc "*inleme* Huah... siktir."
 
 # game/code/e07/e07s06.rpy:466
 translate turkish e07s06_no_cheating_e86977de:
 
     # mc "*panting*"
-    mc "*panting*"
+    mc "*nefes nefese*"
 
 # game/code/e07/e07s06.rpy:469
 translate turkish e07s06_no_cheating_9449bed0:
@@ -1114,7 +1114,7 @@ translate turkish e07s06_bonus_challange_1313656b:
 translate turkish e07s06_bonus_challange_3c9a420d:
 
     # lc "*lewd sucking*"
-    lc "*lewd sucking*"
+    lc "*iffetsiz emme*"
 
 # game/code/e07/e07s06.rpy:605
 translate turkish e07s06_bonus_challange_aff16444:
