@@ -1222,7 +1222,7 @@ translate turkish e04s05_a1dab733:
 translate turkish e04s05_dadac0ab:
 
     # lc "HOLY FUCKING SHIT!!!"
-    lc "HOLY FUCKING SHIT!!!"
+    lc "LANET OLSUN!!!"
 
 # game/code/e04/e04s05.rpy:757
 translate turkish e04s05_642b93c4:
@@ -1438,7 +1438,7 @@ translate turkish e04s05_ea3f3985:
 translate turkish e04s05_b67d4f27:
 
     # lc "Ohhh, FUCK, GOD, FUCK!"
-    lc "Ohhh, FUCK, GOD, FUCK!"
+    lc "Ohhh, SIKTIR, TANRIM, SIKTIR.!"
 
 # game/code/e04/e04s05.rpy:860
 translate turkish e04s05_e46e8126:
@@ -1486,7 +1486,7 @@ translate turkish e04s05_ending_eec9831c:
 translate turkish e04s05_ending_cfcec708:
 
     # lc "N-n-nooo, gaaaawd fuhck!"
-    lc "N-n-nooo, gaaaawd fuhck!"
+    lc "H-H,hayırrr, gaaaawd Sihtorr!"
 
 # game/code/e04/e04s05.rpy:890
 translate turkish e04s05_ending_8afe3eef:
