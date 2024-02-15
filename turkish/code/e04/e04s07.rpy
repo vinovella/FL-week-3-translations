@@ -826,7 +826,7 @@ translate turkish e04s07_mh_d8944d06:
 translate turkish e04s07_mh_bc8aeb4f:
 
     # mh "*staggered moans* Hahah- ouhaa. Hourh-rhura-oouhaa."
-    mh "*staggered moans* Hahah- ouhaa. Hourh-rhura-oouhaa."
+    mh "*sendeleyen inlemeler* Hahah- ouhaa. Hourh-rhura-oouhaa."
 
 # game/code/e04/e04s07.rpy:399
 translate turkish e04s07_mh_d979e2f5:
@@ -1582,7 +1582,7 @@ translate turkish e04s07_ah_tr_48e286d3:
 translate turkish e04s07_ah_tr_504baadf:
 
     # ah "*moans loudly* Ahur-murrah-ooouha-ouhah!"
-    ah "*moans loudly* Ahur-murrah-ooouha-ouhah!"
+    ah "*yüksek sesle inliyor* Ahur-murrah-ooouha-ouhah!"
 
 # game/code/e04/e04s07.rpy:748
 translate turkish e04s07_ah_tr_84cbdf4e:
@@ -1600,7 +1600,7 @@ translate turkish e04s07_ah_tr_60044283:
 translate turkish e04s07_ah_tr_25c8ad13:
 
     # ah "If... *phew* If you knocked me up, will you still let me stay here?"
-    ah "Eğer... *phew* Eğer beni hamile bırakırsan, yine de burada kalmama izin verecek misin?"
+    ah "Eğer... *vay be* Eğer beni hamile bırakırsan, yine de burada kalmama izin verecek misin?"
 
 # game/code/e04/e04s07.rpy:755
 translate turkish e04s07_ah_tr_090f4b5c:
