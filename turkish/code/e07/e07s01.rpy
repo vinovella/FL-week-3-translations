@@ -862,7 +862,7 @@ translate turkish e07s01_after_choice_45db48b9:
 translate turkish e07s01_after_choice_e8187080:
 
     # arj "OH MY GODD!!!"
-    arj "OH MY GODD!!!"
+    arj "AMAN TANRIM!!!"
 
 # game/code/e07/e07s01.rpy:478
 translate turkish e07s01_after_choice_6b7cc0bb:
@@ -1000,13 +1000,13 @@ translate turkish e07s01_after_choice_cfed4269:
 translate turkish e07s01_after_choice_a3e34d4b:
 
     # arj "FUUUUCKKKKING HEELLLLLLLLLLL!!!"
-    arj "FUUUUUCKKKKING HEELLLLLLLLLLL!!!"
+    arj "LANETTT OLSUNNNN!!!"
 
 # game/code/e07/e07s01.rpy:535
 translate turkish e07s01_after_choice_cdb36037:
 
     # arj "OH MY FUCKING GOD YESSSSS!!!"
-    arj "OH MY FUCKING GOD YESSSSS!!!"
+    arj "AMAN TANRIM, EVETTTTTTT!!!"
 
 # game/code/e07/e07s01.rpy:539
 translate turkish e07s01_after_choice_a0832026:
