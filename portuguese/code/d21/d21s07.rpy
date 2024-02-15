@@ -1180,7 +1180,7 @@ translate portuguese d21s07_closing_9d59a917:
 translate portuguese d21s07_closing_009a7012:
 
     # jdg "Lydia Cox, I have before me signed documents for your plea agreement."
-    jdg "Lydia Cox, tenho diante de mum documentos assinados para seu acordo."
+    jdg "Lydia Cox, tenho diante de mim documentos assinados para seu acordo."
 
 # game/code/d21/d21s07.rpy:463
 translate portuguese d21s07_closing_cebf5262:
