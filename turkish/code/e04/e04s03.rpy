@@ -232,7 +232,7 @@ translate turkish e04s03_08fdfc24:
 translate turkish e04s03_b6224d4c:
 
     # sy "*whispers*"
-    sy "*whispers*"
+    sy "*fısıldar*"
 
 # game/code/e04/e04s03.rpy:173
 translate turkish e04s03_a6422911:
@@ -718,7 +718,7 @@ translate turkish e04s03_bring_lc_deee164e:
 translate turkish e04s03_bring_lc_9b468879:
 
     # lc "*gasps* Grrrah..."
-    lc "*gasps* Grrrah..."
+    lc "*nefes nefese* Grrrah..."
 
 # game/code/e04/e04s03.rpy:414
 translate turkish e04s03_bring_lc_2f2abd76:
@@ -958,7 +958,7 @@ translate turkish e04s03_bring_lc_64b920e4:
 translate turkish e04s03_bring_lc_060a1a68:
 
     # lc "*whimpers*"
-    lc "*whimpers*"
+    lc "*sızlanmalar*"
 
 # game/code/e04/e04s03.rpy:527
 translate turkish e04s03_bring_lc_22ad8e84:
@@ -1054,7 +1054,7 @@ translate turkish e04s03_bring_lc_706b2cfc:
 translate turkish e04s03_bring_lc_e567cb93:
 
     # lc "*gags and moans*"
-    lc "*gags and moans*"
+    lc "*tıkanır ve inler*"
 
 # game/code/e04/e04s03.rpy:591
 translate turkish e04s03_bring_lc_244d72c9:
@@ -1174,7 +1174,7 @@ translate turkish e04s03_bring_lc_4ec9f9d2:
 translate turkish e04s03_bring_lc_699d8d9c:
 
     # lc "*gasps*"
-    lc "*gasps*"
+    lc "*nefes nefese*"
 
 # game/code/e04/e04s03.rpy:675
 translate turkish e04s03_bring_lc_58f80fb0:
@@ -1186,13 +1186,13 @@ translate turkish e04s03_bring_lc_58f80fb0:
 translate turkish e04s03_bring_lc_514dc26a:
 
     # lc "*coughs* I...."
-    lc "*coughs* I...."
+    lc "*Öksürük* I...."
 
 # game/code/e04/e04s03.rpy:679
 translate turkish e04s03_bring_lc_87edc8f6:
 
     # lc "*gags* I will never give you the satisfaction...{w} Never..."
-    lc "*gags* Seni asla tatmin etmeyeceğim...{w} Asla..."
+    lc "*Şaka* Seni asla tatmin etmeyeceğim...{w} Asla..."
 
 # game/code/e04/e04s03.rpy:682
 translate turkish e04s03_bring_lc_c8786b76:
@@ -1276,7 +1276,7 @@ translate turkish e04s03_end_b9238a60:
 translate turkish e04s03_end_c58ca971:
 
     # sy "Hell yeah."
-    sy "Hell yeah."
+    sy "İşte bu!."
 
 # game/code/e04/e04s03.rpy:726
 translate turkish e04s03_end_3322cede:
