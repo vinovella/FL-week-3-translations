@@ -220,7 +220,7 @@ translate turkish e07s03_f57d545d:
 translate turkish e07s03_a442e2ab:
 
     # arj "*sigh*"
-    arj "*sigh*"
+    arj "*iç çeker*"
 
 # game/code/e07/e07s03.rpy:151
 translate turkish e07s03_12f49839:
@@ -730,7 +730,7 @@ translate turkish e07s03_contest_start_f9f7c961:
 translate turkish e07s03_contest_start_5f71acf7:
 
     # mc "*grunting*"
-    mc "*grunting*"
+    mc "*Homurdanma*"
 
 # game/code/e07/e07s03.rpy:434
 translate turkish e07s03_contest_start_0bfb6379:
@@ -742,7 +742,7 @@ translate turkish e07s03_contest_start_0bfb6379:
 translate turkish e07s03_contest_start_cc66581d:
 
     # lc "*moaning*"
-    lc "*moaning*"
+    lc "*inleme*"
 
 # game/code/e07/e07s03.rpy:438
 translate turkish e07s03_contest_start_b40328e8:
@@ -772,13 +772,13 @@ translate turkish e07s03_contest_start_ae2821bb:
 translate turkish e07s03_contest_start_5f71acf7_1:
 
     # mc "*grunting*"
-    mc "*grunting*"
+    mc "*Homurdanma*"
 
 # game/code/e07/e07s03.rpy:448
 translate turkish e07s03_contest_start_44ec2a88:
 
     # lc "Urhuah... hurrah... yes. Faster... Stronger!"
-    lc "Urhuah... hurrah... yes. Daha hızlı... Daha güçlü!"
+    lc "Urhuah... hurrah... evet. Daha hızlı... Daha güçlü!"
 
 # game/code/e07/e07s03.rpy:450
 translate turkish e07s03_contest_start_3fc79974:
@@ -898,7 +898,7 @@ translate turkish e07s03_slow_steady_9c8ec1ab:
 translate turkish e07s03_slow_steady_2ee7afa4:
 
     # lc "*panting and moaning*"
-    lc "*panting and moaning*"
+    lc "*nefes nefese ve inleyerek*"
 
 # game/code/e07/e07s03.rpy:506
 translate turkish e07s03_slow_steady_ab88a180:
@@ -1012,7 +1012,7 @@ translate turkish e07s03_give_all_3bdc19fe:
 translate turkish e07s03_give_all_d0282728:
 
     # gb "*surprised* Ooouha."
-    gb "*surprised* Ooouha."
+    gb "*Şaşırır* Ooouha."
 
 # game/code/e07/e07s03.rpy:578
 translate turkish e07s03_give_all_196ac278:
@@ -1234,7 +1234,7 @@ translate turkish e07s03_continue_773db2de:
 translate turkish e07s03_continue_22c19d7d:
 
     # pb "*grunts and hisses* Y-yess..."
-    pb "*grunts and hisses* Y-yess..."
+    pb "*homurdanmalar ve tıslamalar* E-evetttt..."
 
 # game/code/e07/e07s03.rpy:724
 translate turkish e07s03_continue_27ef440d:
@@ -1264,7 +1264,7 @@ translate turkish e07s03_continue_22417db7:
 translate turkish e07s03_continue_c5998eba:
 
     # arj "I don't... know... I'm not. We're not... oh god."
-    arj "I don't... know... Ben değilim. Biz değiliz... Tanrım."
+    arj "Bilmi... yorum... Ben değilim. Biz değiliz... Tanrım."
 
 # game/code/e07/e07s03.rpy:736
 translate turkish e07s03_continue_7c00614d:
