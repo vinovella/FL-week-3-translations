@@ -3,13 +3,13 @@
 translate portuguese strings:
 
     old "Fetish Locator Retention"
-    new "Fetish Locator Retention"
+    new "Retenção Fetish Locator"
 
     old "Fetish Locator"
     new "Fetish Locator"
 
     old "Fetish Master"
-    new "Fetish Master"
+    new "Mestre do Fetiche"
 
     old "Pete"
     new "Pete"
@@ -69,19 +69,19 @@ translate portuguese strings:
     new "Nari"
 
     old "Mr. Min"
-    new "Mr. Min"
+    new "Sr. Min"
 
     old "Mrs. Min"
-    new "Mrs. Min"
+    new "Sra. Min"
 
     old "Min Do-yun"
     new "Min Do-yun"
 
     old "Officer Cheney"
-    new "Officer Cheney"
+    new "Oficial Cheney"
 
     old "Officer Martinez"
-    new "Officer Martinez"
+    new "Oficial Martinez"
 
     old "Ashley"
     new "Ashley"
@@ -90,7 +90,7 @@ translate portuguese strings:
     new "Frank"
 
     old "Ms. Havisham"
-    new "Ms. Havisham"
+    new "Sra. Havisham"
 
     old "Alexander"
     new "Alexander"
@@ -105,7 +105,7 @@ translate portuguese strings:
     new "Jerome"
 
     old "Judge"
-    new "Judge"
+    new "Juíza"
 
     old "Mikaela"
     new "Mikaela"
