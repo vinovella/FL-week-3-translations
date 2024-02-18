@@ -292,7 +292,7 @@ translate portuguese e04s08_a1498851:
 translate portuguese e04s08_ae498221:
 
     # jdg "She will call you tomorrow."
-    jdg "Ela ligara para você amanhã."
+    jdg "Ela ligará para você amanhã."
 
 # game/code/e04/e04s08.rpy:129
 translate portuguese e04s08_ebfdf8a5:
