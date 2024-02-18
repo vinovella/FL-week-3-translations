@@ -532,13 +532,13 @@ translate portuguese e07s03_after_choice_75b22f68:
 translate portuguese e07s03_contest_start_a05c794e:
 
     # gb "Servant, bring me two face-dildos."
-    gb "Servo, me traga dois dildos duplos."
+    gb "Serva, me traga dois dildos duplos."
 
 # game/code/e07/e07s03.rpy:320
 translate portuguese e07s03_contest_start_58cdee2e:
 
     # "Servant" "Yes Domina. Regular size?"
-    "Servo" "Sim, Domina. Tamanho normal?"
+    "Serva" "Sim, Domina. Tamanho normal?"
 
 # game/code/e07/e07s03.rpy:323
 translate portuguese e07s03_contest_start_9c628cbc:
@@ -562,7 +562,7 @@ translate portuguese e07s03_contest_start_42c0199b:
 translate portuguese e07s03_contest_start_d5f0f8c4:
 
     # "Servant" "Right away, Domina."
-    "Servo" "É pra já, Domina."
+    "Serva" "É pra já, Domina."
 
 # game/code/e07/e07s03.rpy:339
 translate portuguese e07s03_contest_start_c9d3d2aa:
@@ -1048,7 +1048,7 @@ translate portuguese e07s03_give_all_d164d344:
 translate portuguese e07s03_give_all_e4ae2fe4:
 
     # lc "Come on. Come on. I'm so-"
-    lc "Anda. Vai, Eu estou tão-"
+    lc "Anda. Vai. Eu estou tão-"
 
 # game/code/e07/e07s03.rpy:600
 translate portuguese e07s03_give_all_527cec94:
@@ -1090,7 +1090,7 @@ translate portuguese e07s03_give_all_2c595795:
 translate portuguese e07s03_give_all_5dc1b056:
 
     # "Servant" "Winner. [e07_mcname!t]!"
-    "Servo" "Vencedor. [e07_mcname!t]!"
+    "Serva" "Vencedor. [e07_mcname!t]!"
 
 # game/code/e07/e07s03.rpy:622
 translate portuguese e07s03_give_all_9ed5edb4:
@@ -1174,7 +1174,7 @@ translate portuguese e07s03_continue_d3bc22cf:
 translate portuguese e07s03_continue_35fea058:
 
     # "Servant" "Yes, Domina."
-    "Servo" "Sim, Domina."
+    "Serva" "Sim, Domina."
 
 # game/code/e07/e07s03.rpy:678
 translate portuguese e07s03_continue_04cc6f68:
