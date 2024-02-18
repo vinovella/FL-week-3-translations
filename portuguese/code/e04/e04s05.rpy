@@ -1060,7 +1060,7 @@ translate portuguese e04s05_23572f86:
 translate portuguese e04s05_96a0bb7a:
 
     # mc "That sounded like a yes to me!"
-    mc "Pra mim isso pareceu um sim1"
+    mc "Pra mim isso pareceu um sim!"
 
 # game/code/e04/e04s05.rpy:678
 translate portuguese e04s05_2d0c6c08:
@@ -1126,7 +1126,7 @@ translate portuguese e04s05_506ae311:
 translate portuguese e04s05_37e557bc:
 
     # mc "Am I anything but?"
-    mc "E eu não sou geral normalmente?"
+    mc "E eu não sou sempre?"
 
 # game/code/e04/e04s05.rpy:709
 translate portuguese e04s05_947a74a0:
@@ -1276,7 +1276,7 @@ translate portuguese e04s05_d949d347:
 translate portuguese e04s05_9c4d063b:
 
     # mc "I'm thrusting Lyssa's dick down your throat."
-    mc "Eu tô enviando o pau da Lyssa na sua garganta."
+    mc "Eu tô enfiando o pau da Lyssa na sua garganta."
 
 # game/code/e04/e04s05.rpy:788
 translate portuguese e04s05_73584346:
