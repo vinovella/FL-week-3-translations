@@ -112,7 +112,7 @@ translate portuguese e04s07_2625a296:
 translate portuguese e04s07_a25dfc31:
 
     # arj "Yes. Guard Stacy wasn't too cruel to us. She only spanked me when I mistook a petunia for a daffodil."
-    arj "Sim. A Guarda Stacy não foi cruel demais com a gente. Ela só me batei quando eu confundi uma petúnia com um narciso."
+    arj "Sim. A Guarda Stacy não foi cruel demais com a gente. Ela só me bateu quando eu confundi uma petúnia com um narciso."
 
 # game/code/e04/e04s07.rpy:69
 translate portuguese e04s07_e6e5aea3:
@@ -142,7 +142,7 @@ translate portuguese e04s07_ed6e1561:
 translate portuguese e04s07_3143a32f:
 
     # sy "Haha. Big talk."
-    sy "Haha. You sure talk big."
+    sy "Haha. Bela conversa."
 
 # game/code/e04/e04s07.rpy:78
 translate portuguese e04s07_1f4abc92:
