@@ -793,7 +793,7 @@ translate chinese e07s02_bathroom_37937bec:
     lc "嗯嗯嗯嗯，操他妈的，[e07_mcname!t]，吃我的屁股，让我射出来！"
 
 # game/code/e07/e07s02.rpy:522
-Translate Chinese e07s02_challenge_win_91b07966:
+translate chinese e07s02_challenge_win_91b07966:
 
     # lc "Fuck, this is what I needed!"
     lc "操，这正是我需要的！"
@@ -1162,7 +1162,7 @@ translate chinese e07s02_early_end_9e072da8:
 translate chinese e07s02_early_end_606acbdb:
 
     # mc "Please, [e07_lcname!t]!"
-    mc "求你了，[e07_lcname!t]！{/i}"
+    mc "求你了，[e07_lcname!t]!"
 
 # game/code/e07/e07s02.rpy:794
 translate chinese e07s02_early_end_cc19c60b:

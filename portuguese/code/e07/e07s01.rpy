@@ -1068,6 +1068,10 @@ translate portuguese strings:
     old "Queen"
     new "Rainha"
 
+    # game/code/e07/e07s01.rpy:17
+    old "QUEEN"
+    new "RAINHA"
+
     # game/code/e07/e07s01.rpy:18
     old "Limpdick"
     new "Pau Mole"
