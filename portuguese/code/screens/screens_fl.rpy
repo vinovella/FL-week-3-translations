@@ -256,12 +256,12 @@ translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:265
     old "Continue playing"
-    new "Continue playing"
+    new "Continuar jogando"
 
     # game/code/screens/screens_fl.rpy:269
     old "Close the game"
-    new "Close the game"
+    new "Fechar o jogo"
 
     # game/code/screens/screens_fl.rpy:180
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
-    new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
+    new "Se decidir continuar, talvez não consiga carregar os jogos salvos da Semana-2. Você não receberá outra notificação. Tem certeza?"
