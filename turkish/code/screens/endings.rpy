@@ -34,3 +34,11 @@ translate turkish strings:
     old "Exit to Mainmenu"
     new "Ana menüye çık"
 
+# TODO: Translation updated at 2024-02-18 12:02
+
+translate turkish strings:
+
+    # game/code/screens/endings.rpy:66
+    old "Download free DLC containing this ending"
+    new "Download free DLC containing this ending"
+

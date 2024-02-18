@@ -34,3 +34,11 @@ translate chinese strings:
     old "Exit to Mainmenu"
     new "退出主菜单"
 
+# TODO: Translation updated at 2024-02-18 11:58
+
+translate chinese strings:
+
+    # game/code/screens/endings.rpy:66
+    old "Download free DLC containing this ending"
+    new "Download free DLC containing this ending"
+

@@ -89,3 +89,11 @@ translate turkish strings:
     old "Try our new game Taboo University"
     new "Yeni oyunumuz Tabu Üniversitesi'ni deneyin"
 
+# TODO: Translation updated at 2024-02-18 12:02
+
+translate turkish strings:
+
+    # game/code/screens/extended/screens.rpy:246
+    old "Get free DLC containing 6 endings from Steam"
+    new "Get free DLC containing 6 endings from Steam"
+
