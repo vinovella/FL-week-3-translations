@@ -132,9 +132,9 @@ translate portuguese strings:
 
     # game/code/screens/lovense.rpy:74
     old "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
-    new "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
+    new "Pegue um brinquedinho Lovense e aproveite a melhor forma de jogar Fetish Locator!"
 
     # game/code/screens/lovense.rpy:80
     old "Get a toy now"
-    new "Get a toy now"
+    new "Comprar um brinquedo agora"
 
