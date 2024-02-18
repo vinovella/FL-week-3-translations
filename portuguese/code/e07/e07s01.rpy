@@ -28,7 +28,7 @@ translate portuguese e07s01_f3d05653:
 translate portuguese e07s01_53bfcb0b:
 
     # lc "... I expect it won't do much good."
-    lc "... Eu não acho que vai fazer muito bem."
+    lc "... Eu imagino que não vai adiantar muito."
 
 # game/code/e07/e07s01.rpy:76
 translate portuguese e07s01_5c18fb14:
@@ -82,7 +82,7 @@ translate portuguese e07s01_21a51e6c:
 translate portuguese e07s01_f916b371:
 
     # lc "I hope bindings won't be necessary again."
-    lc "Espero que essas amarras não serão necessárias de novo."
+    lc "Espero que essas amarras não serão mais necessárias."
 
 # game/code/e07/e07s01.rpy:102
 translate portuguese e07s01_992ab7e1:
@@ -130,7 +130,7 @@ translate portuguese e07s01_d361cb39:
 translate portuguese e07s01_acc9aa6f:
 
     # arj "You can't actually want to be here like this."
-    arj "Não é possível que você quer ficar aqui assim."
+    arj "Não é possível que você queira ficar aqui assim."
 
 # game/code/e07/e07s01.rpy:124
 translate portuguese e07s01_79c8d736:
@@ -208,7 +208,7 @@ translate portuguese e07s01_2a2ab676:
 translate portuguese e07s01_0f06c66e:
 
     # tr "If I was you..."
-    tr ""
+    tr "Se eu fosse você..."
 
 # game/code/e07/e07s01.rpy:163
 translate portuguese e07s01_9e3b5106:
@@ -670,7 +670,7 @@ translate portuguese e07s01_after_choice_37fce53a:
 translate portuguese e07s01_after_choice_448049cb:
 
     # lc "Good. [e07_trname!t], take [e07_mcname!t] for his... Little gift. [e07_ahname!t], get [e07_arjname!t] into her \"outfit\"."
-    lc "Ótimo. [e07_trname!t], leve o [e07_mcname!t] para o... presentinho dele. [e07_ahname!t], leve [e07_arjname!t] para a \"roupa\" dela."
+    lc "Ótimo. [e07_trname!t], leve o [e07_mcname!t] para o... presentinho dele. [e07_ahname!t], leve [e07_arjname!t] para o \"uniforme\" dela."
 
 # game/code/e07/e07s01.rpy:390
 translate portuguese e07s01_after_choice_7bff5a75:
@@ -700,7 +700,7 @@ translate portuguese e07s01_after_choice_d514214c:
 translate portuguese e07s01_after_choice_3432e75e:
 
     # lc "Well, I want you to keep your face towards me. I don't want you looking at me - you may look at my throne."
-    lc "Bem, quero que deixe a cara virada na minha direção. Não quero você olhando para mim - pode olhar para o meu trono."
+    lc "Bem, quero que deixe o rosto virado para mim. Não quero você olhando para mim - pode olhar para o meu trono."
 
 # game/code/e07/e07s01.rpy:401
 translate portuguese e07s01_after_choice_6a7806c9:
@@ -772,7 +772,7 @@ translate portuguese e07s01_after_choice_1e78a1a1:
 translate portuguese e07s01_after_choice_58d82417:
 
     # lc "Let's go over the basics. You want to impress me. You want to give me pleasure. That is your purpose."
-    lc "Vamos passar pelo básico. Você quer me impressionar. Quer me dar prazer. É para isso que você serve."
+    lc "Vamos passar pelo básico. Você quer me impressionar. Quer me satisfazer. É para isso que você serve."
 
 # game/code/e07/e07s01.rpy:430
 translate portuguese e07s01_after_choice_8052f1e6:
@@ -934,7 +934,7 @@ translate portuguese e07s01_after_choice_ce205bd0:
 translate portuguese e07s01_after_choice_23a19793:
 
     # lc "And for what? Because of the bliss of lust? Look at her - she's cum drunk."
-    lc "E pelo quê? Por causa da felicidade do desejo? Olha só ela - está bêbada de prazer."
+    lc "E pelo quê? Por causa da alegria do desejo? Olha só ela - está bêbada de prazer."
 
 # game/code/e07/e07s01.rpy:503
 translate portuguese e07s01_after_choice_744694fb:
@@ -1106,9 +1106,9 @@ translate portuguese strings:
 
     # game/code/e07/e07s01.rpy:347
     old "Loverboy"
-    new "Amante"
+    new "Garotinho"
 
     # game/code/e07/e07s01.rpy:348
     old "Fuckmeat"
-    new "Vadio"
+    new "Vadia"
 
