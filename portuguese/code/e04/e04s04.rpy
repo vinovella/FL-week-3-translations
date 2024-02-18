@@ -1570,7 +1570,7 @@ translate portuguese e04s04_lc_punishment_23c1170d:
 translate portuguese e04s04_lc_punishment_fb9c2e38:
 
     # mc "Spit."
-    mc "Cospe."
+    mc "Cuspam."
 
 # game/code/e04/e04s04.rpy:846
 translate portuguese e04s04_lc_punishment_50a10b34:
