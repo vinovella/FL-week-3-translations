@@ -1156,47 +1156,47 @@ translate portuguese strings:
 
     # game/code/hints.rpy:5
     old "You will end up fucking Vanessa in the asshole."
-    new ""
+    new "Você vai acabar enfiando no cu da Vanessa."
 
     # game/code/hints.rpy:5
     old "You will skip to the blowjob."
-    new ""
+    new "Você vai pular o boquete."
 
     # game/code/hints.rpy:5
     old "Vanessa gets you nice and hard with her lovely feet."
-    new ""
+    new "A Vanessa deixa o seu pau durinho com os pés."
 
     # game/code/hints.rpy:5
     old "Mark both redheads with your piss."
-    new ""
+    new "Marque as duas ruivas com mijo."
 
     # game/code/hints.rpy:5
     old "Continue to threesome scene."
-    new ""
+    new "Continuar a cena de sexo a três."
 
     # game/code/hints.rpy:5
     old "Debbie will join you for some action later."
-    new ""
+    new "Debbie vai se divertir com você depois."
 
     # game/code/hints.rpy:5
     old "Debbie will not join you later."
-    new ""
+    new "Debbie não vai se divertir com você depois."
 
     # game/code/hints.rpy:5
     old "Polly and Nora will get in on the action."
-    new ""
+    new "Polly e Nora vão entrar na diversão."
 
     # game/code/hints.rpy:5
     old "There still might be someone for Debbie in the cafe."
-    new ""
+    new "Deve ter alguém para a Debbie na cafeteria."
 
     # game/code/hints.rpy:5
     old "Dahlia will peg you."
-    new ""
+    new "A Dahlia vai meter em você."
 
     # game/code/hints.rpy:5
     old "Dahlia won't peg you."
-    new ""
+    new "Dahlia não vai meter em você."
 
 # TODO: Translation updated at 2023-12-07 21:18
 
@@ -1204,19 +1204,19 @@ translate portuguese strings:
 
     # game/code/hints.rpy:5
     old "Make Daisy say what she wants."
-    new "Make Daisy say what she wants."
+    new "Fazer Daisy falar o que ela quer."
 
     # game/code/hints.rpy:5
     old "Give Daisy what she wants."
-    new "Give Daisy what she wants."
+    new "Dar o que a Daisy quer."
 
     # game/code/hints.rpy:5
     old "Tell your Mistress you desperately want to impregnate her."
-    new "Tell your Mistress you desperately want to impregnate her."
+    new "Falar para sua Senhora que desesperadamente deseja engravidá-la."
 
     # game/code/hints.rpy:5
     old "You have no will of you own. You are simply an extension of Dahlia."
-    new "You have no will of you own. You are simply an extension of Dahlia."
+    new "Você não tem vontade própria. Você é apenas uma extensão da Dahlia."
 
 # TODO: Translation updated at 2024-02-06 16:39
 
@@ -1224,136 +1224,136 @@ translate portuguese strings:
 
     # game/code/hints.rpy:5
     old "Keep your name as it is."
-    new ""
+    new "Deixar o seu nome assim mesmo."
 
     # game/code/hints.rpy:5
     old "Change your name to \"Warden\"."
-    new ""
+    new "Mudar seu nome para \"Diretor\"."
 
     # game/code/hints.rpy:5
     old "Enter your own name."
-    new ""
+    new "Digitar seu nome."
 
     # game/code/hints.rpy:5
     old "Order Lydia to get started sucking cock."
-    new ""
+    new "Mandar Lydia começar a chupar pau."
 
     # game/code/hints.rpy:5
     old "Take Lydia home without making her work at the gloryhole."
-    new ""
+    new "Levar a Lydia para casa sem forçar ela a ficar no gloryhole."
 
     # game/code/hints.rpy:5
     old "And they lived happily ever after."
-    new ""
+    new "E eles viveram felizes para sempre."
 
     # game/code/hints.rpy:5
     old "Even a favorite toy is only happy when someone plays with it."
-    new ""
+    new "Até um brinquedo favorito só fica feliz quando alguém brinca com ele."
 
     # game/code/hints.rpy:5
     old "Annihilate the last threads of Lydia's existence."
-    new ""
+    new "Acabar com os últimos resquícios da existência da Lydia."
 
     # game/code/hints.rpy:5
     old "Might affect dialogue and nicknames for this ending."
-    new ""
+    new "Talvez afete o diálogo e nomes para esse final."
 
     # game/code/hints.rpy:5
     old "Uses default dialogue and nicknames for this ending."
-    new ""
+    new "Usa o diálogo e nomes padrão para esse final."
 
     # game/code/hints.rpy:5
     old "Might impact dialogue and nicknames for this ending."
-    new ""
+    new "Pode ser que altere o diálogo e nomes para esse final."
 
     # game/code/hints.rpy:5
     old "Surrender and get kicked out of Lydia's home."
-    new ""
+    new "Aceitar a derrota e ser expulso da cada da Lydia."
 
     # game/code/hints.rpy:5
     old "Drink your full and continue Lydia's contest."
-    new ""
+    new "Beber e continuar a competição da Lydia."
 
     # game/code/hints.rpy:5
     old "This is some scary shit."
-    new ""
+    new "Que porra assustadora."
 
     # game/code/hints.rpy:5
     old "Whatever Lydia wants, I'll give it to her."
-    new ""
+    new "Seja o que a Lydia quiser, eu vou dar pra ela."
 
     # game/code/hints.rpy:5
     old "Slow and steady loses the race this time."
-    new ""
+    new "Devagar e sempre dessa vez vai perder a corrida."
 
     # game/code/hints.rpy:5
     old "Give 110 percent and win the match."
-    new ""
+    new "Dar 110 porcento e vencer a partida."
 
     # game/code/hints.rpy:5
     old "Stick your finger in Pete's ass and win the gloryhole challenge."
-    new ""
+    new "Enfiar o dedo na bunda do Pete e vencer o desafio do gloryhole."
 
     # game/code/hints.rpy:5
     old "Do your best, but eventually lose the gloryhole challenge."
-    new ""
+    new "Se esforce, mas eventualmente perca o desafio do gloryhole."
 
     # game/code/hints.rpy:5
     old "Watch Pete creampie Lydia and AmRose, then get vasectomized by Jerome."
-    new ""
+    new "Ver o Pete gozar dentro da Lydia e da AmRose, e levar vasectomia do Jerome."
 
     # game/code/hints.rpy:5
     old "Refuse to see this ending to its proper conclusion"
-    new ""
+    new "Recusar ver a conclusão desse final"
 
     # game/code/hints.rpy:5
     old "Slurp out Pete's cum from inside Am-Rose' pussy."
-    new ""
+    new "Chupar o sêmen do Pete de dentro da boceta da Am-Rose."
 
     # game/code/hints.rpy:5
     old "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
-    new ""
+    new "Recusar chupar o sêmen do Pete de dentro da boceta da Am-rose."
 
     # game/code/hints.rpy:5
     old "Be prepared for the challenge, and improve your chances of winning."
-    new ""
+    new "Se preparar para o desafio e melhorar as chances de vencer."
 
     # game/code/hints.rpy:5
     old "Maybe she'll choose someone else, take the risk of not being ready."
-    new ""
+    new "Talvez ela escolha outra pessoa, arriscar não estar pronto."
 
     # game/code/hints.rpy:5
     old "What could be waiting for you?"
-    new ""
+    new "O que poderia estar esperando por você?"
 
     # game/code/hints.rpy:5
     old "What's she got planned next?"
-    new ""
+    new "O que ela tem planejado agora?"
 
     # game/code/hints.rpy:5
     old "What's in store for you now?"
-    new ""
+    new "O que está te esperando?"
 
     # game/code/hints.rpy:5
     old "Lose option for Polly & Nora Threesome ending."
-    new ""
+    new "Perder a opção para um final a três com Polly & Nora."
 
     # game/code/hints.rpy:5
     old "Increases chance of Polly & Nora Threesome ending."
-    new ""
+    new "Aumentar as chances de chegar no final a três com a Polly & Nora."
 
     # game/code/hints.rpy:5
     old "This option skips the blowjob scene. Scene goes to indoors."
-    new ""
+    new "Essa opção pula a cena do boquete. A cena segue para dentro."
 
     # game/code/hints.rpy:5
     old "Disobey Lydia and lose the challenge."
-    new ""
+    new "Desobedecer a Lydia e perder o desafio."
 
     # game/code/hints.rpy:5
     old "Prove your devotion to Lydia and win the challenge."
-    new ""
+    new "Provar sua devoção à Lydia e vencer o desafio."
 
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
-    new ""
+    new "Decepcionar Lydia e ser o perdedor."
