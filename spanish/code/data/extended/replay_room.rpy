@@ -284,15 +284,15 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:123
     old "Ending 12: Allison"
-    new "Ending 12: Allison"
+    new "Final 12: Allison"
 
     # game/code/data/extended/replay_room.rpy:123
     old "Ending 12: Vanessa"
-    new "Ending 12: Vanessa"
+    new "Final 12: Vanessa"
 
     # game/code/data/extended/replay_room.rpy:138
     old "Ending 14: Polly, Nora & Debbie"
-    new "Ending 14: Polly, Nora & Debbie"
+    new "Final 14: Polly, Nora y Debbie"
 
 # TODO: Translation updated at 2023-11-23 21:07
 
@@ -300,19 +300,19 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:120
     old "Ending 11: Daisy & Janet"
-    new "Ending 11: Daisy & Janet"
+    new "Final 11: Daisy y Janet"
 
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Dahlia & Room Service"
-    new "Ending 17: Dahlia & Room Service"
+    new "Final 17: Dahlia y el servicio de habitaciones"
 
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Dahlia & Domina"
-    new "Ending 17: Dahlia & Domina"
+    new "Final 17: Dahlia y Domina"
 
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Pregnant Dahlia"
-    new "Ending 17: Pregnant Dahlia"
+    new "Final 17: Dahlia embarazada"
 
 # TODO: Translation updated at 2024-02-08 02:38
 
@@ -320,49 +320,49 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia"
-    new "Ending 04: Lydia"
+    new "Final 04: Lydia"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia, Stacy & AmRose"
-    new "Ending 04: Lydia, Stacy & AmRose"
+    new "Final 04: Lydia, Stacy y AmRose"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Daisy, Lydia, Stacy & AmRose"
-    new "Ending 04: Daisy, Lydia, Stacy & AmRose"
+    new "Final 04: Daisy, Lydia, Stacy y AmRose"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lyssa & Lydia"
-    new "Ending 04: Lyssa & Lydia"
+    new "Final 04: Lyssa y Lydia"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia & Maria"
-    new "Ending 04: Lydia & Maria"
+    new "Final 04: Lydia y Maria"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Harem"
-    new "Ending 04: Harem"
+    new "Final 04: Harem"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: AmRose"
-    new "Ending 07: AmRose"
+    new "Final 07: AmRose"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia"
-    new "Ending 07: Lydia"
+    new "Final 07: Lydia"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia & Domina"
-    new "Ending 07: Lydia & Domina"
+    new "Final 07: Lydia y Domina"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia Gangbang"
-    new "Ending 07: Lydia Gangbang"
+    new "Final 07: Lydia Gangbang"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Public Toilet"
-    new "Ending 07: Public Toilet"
+    new "Final 07: Baño público"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia & AmRose"
-    new "Ending 07: Lydia & AmRose"
+    new "Final 07: Lydia y AmRose"
 
