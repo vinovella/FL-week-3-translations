@@ -34,3 +34,11 @@ translate portuguese strings:
     old "Exit to Mainmenu"
     new "Sair para o Menu Principal"
 
+# TODO: Translation updated at 2024-02-17 14:11
+
+translate portuguese strings:
+
+    # game/code/screens/endings.rpy:66
+    old "Download free DLC containing this ending"
+    new "Download free DLC containing this ending"
+

@@ -94,3 +94,11 @@ translate portuguese strings:
     new "Teste nosso novo jogo Taboo University"
 
 
+# TODO: Translation updated at 2024-02-17 14:11
+
+translate portuguese strings:
+
+    # game/code/screens/extended/screens.rpy:246
+    old "Get free DLC containing 6 endings from Steam"
+    new "Get free DLC containing 6 endings from Steam"
+

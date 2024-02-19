@@ -88,3 +88,11 @@ translate italian strings:
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
     new "Prova il nostro nuovo gioco Taboo University"
+# TODO: Translation updated at 2024-02-18 12:01
+
+translate italian strings:
+
+    # game/code/screens/extended/screens.rpy:246
+    old "Get free DLC containing 6 endings from Steam"
+    new "Get free DLC containing 6 endings from Steam"
+

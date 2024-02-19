@@ -22,7 +22,7 @@ translate portuguese d19s01ntr_f42241db:
 translate portuguese d19s01ntr_31d80bbc:
 
     # lc "You may call me, \"Mistress\" here."
-    lc "Pode me chamar de \"Mestra\" aqui."
+    lc "Pode me chamar de \"Senhora\" aqui."
 
 # game/code/d19/d19s01ntr.rpy:33
 translate portuguese d19s01ntr_e065ec42:
@@ -148,7 +148,7 @@ translate portuguese d19s01ntr_flashback_c0062715:
 translate portuguese d19s01ntr_flashback_68dec3f8:
 
     # pb "Mistress?!"
-    pb "Mestra?!"
+    pb "Senhora?!"
 
 # game/code/d19/d19s01ntr.rpy:138
 translate portuguese d19s01ntr_flashback_d5158065:
@@ -160,7 +160,7 @@ translate portuguese d19s01ntr_flashback_d5158065:
 translate portuguese d19s01ntr_flashback_27c5aa17:
 
     # pb "Yes, mistress."
-    pb "Sim, mestra."
+    pb "Sim, senhora."
 
 # game/code/d19/d19s01ntr.rpy:146
 translate portuguese d19s01ntr_flashback_12fd0565:
@@ -172,7 +172,7 @@ translate portuguese d19s01ntr_flashback_12fd0565:
 translate portuguese d19s01ntr_flashback_9130db2f:
 
     # pb "Perhaps a new game, mistress. A game you can play - with a new toy."
-    pb "Talvez um jogo novo, mestra. Um jogo que você possa jogar - com um novo brinquedo."
+    pb "Talvez um jogo novo, senhora. Um jogo que você possa jogar - com um novo brinquedo."
 
 # game/code/d19/d19s01ntr.rpy:158
 translate portuguese d19s01ntr_flashback_c01637c1:
@@ -376,7 +376,7 @@ translate portuguese d19s01ntr_continue_bef1d859:
 translate portuguese d19s01ntr_continue_ce472ccd:
 
     # lc "I am your Mistress and you are my slave."
-    lc "Sou sua Mestra e você é meu escravo."
+    lc "Sou sua Senhora e você é meu escravo."
 
 # game/code/d19/d19s01ntr.rpy:240
 translate portuguese d19s01ntr_continue_a40b5d13:
@@ -406,7 +406,7 @@ translate portuguese d19s01ntr_continue_3e9a6aae:
 translate portuguese d19s01ntr_continue_52e59d8c:
 
     # mc "There is still something I don't understand, Mistress."
-    mc "Ainda tem uma coisa que não entendo, Mestra."
+    mc "Ainda tem uma coisa que não entendo, Senhora."
 
 # game/code/d19/d19s01ntr.rpy:268
 translate portuguese d19s01ntr_continue_b9d940a2:
@@ -550,13 +550,13 @@ translate portuguese d19s01ntr_decision_94222b0a:
 translate portuguese d19s01ntr_decision_59577f47:
 
     # mc "I mean, \"No questions, Mistress\"."
-    mc "Digo \"Sem perguntas, Mestra\"."
+    mc "Digo \"Sem perguntas, Senhora\"."
 
 # game/code/d19/d19s01ntr.rpy:365
 translate portuguese d19s01ntr_decision_ea8c9ba3:
 
     # mc "I mean, \"No further questions, Mistress\"."
-    mc "Digo \"Sem mais perguntas, Mestra\"."
+    mc "Digo \"Sem mais perguntas, Senhora\"."
 
 # game/code/d19/d19s01ntr.rpy:368
 translate portuguese d19s01ntr_decision_eb30b049:
@@ -580,7 +580,7 @@ translate portuguese d19s01ntr_decision_449f68cf:
 translate portuguese d19s01ntr_decision_446b3627:
 
     # mc "What is my other option, Mistress?"
-    mc "Qual é minha outra opção, Mestra?"
+    mc "Qual é minha outra opção, Senhora?"
 
 # game/code/d19/d19s01ntr.rpy:377
 translate portuguese d19s01ntr_decision_c2034f06:
@@ -610,7 +610,7 @@ translate portuguese d19s01ntr_decision_e1a0041c:
 translate portuguese d19s01ntr_decision_52e65e99:
 
     # mc "I see, Mistress."
-    mc "Entendi, Mestra."
+    mc "Entendi, Senhora."
 
 # game/code/d19/d19s01ntr.rpy:389
 translate portuguese d19s01ntr_decision_2f065d13:
@@ -622,13 +622,13 @@ translate portuguese d19s01ntr_decision_2f065d13:
 translate portuguese d19s01ntr_decision_ae5ec326:
 
     # mc "Yes, Mistress. I have decided."
-    mc "Sim, Mestra. Eu decidi."
+    mc "Sim, Senhora. Eu decidi."
 
 # game/code/d19/d19s01ntr.rpy:399
 translate portuguese d19s01ntr_decision_765104a8:
 
     # mc "You have my heart, my soul, and my loyalty, Mistress."
-    mc "Você tem meu coração, minha alma e minha lealdade, Mestra."
+    mc "Você tem meu coração, minha alma e minha lealdade, Senhora."
 
 # game/code/d19/d19s01ntr.rpy:407
 translate portuguese d19s01ntr_decision_1c645d62:
@@ -658,7 +658,7 @@ translate portuguese d19s01ntr_decision_1fcc28c6:
 translate portuguese d19s01ntr_decision_080d3df8:
 
     # mc "...with all due respect, Mistress."
-    mc "... com todo respeito, Mestra."
+    mc "... com todo respeito, Senhora."
 
 # game/code/d19/d19s01ntr.rpy:422
 translate portuguese d19s01ntr_decision_e831191f:
@@ -1080,11 +1080,11 @@ translate portuguese strings:
 translate portuguese d19s01ntr_decision_aeef075e:
 
     # lc "Easy words."
-    lc ""
+    lc "Palavras fáceis."
 
 # game/code/d19/d19s01ntr.rpy:427
 translate portuguese d19s01ntr_decision_5b1e303f:
 
     # lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
-    lc ""
+    lc "Eu vou me certificar de testar a sua devoção quando eu voltar para te trazer... Vamos dizer que é uma surpresa."
 
