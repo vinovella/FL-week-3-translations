@@ -280,7 +280,7 @@ translate chinese e07s03_5771f538:
 translate chinese e07s03_after_choice_807798fd:
 
     # gb "How delightfully wicked. Make your choice."
-    gb 多么令人愉快的邪恶啊。做出你的选择吧。"
+    gb "多么令人愉快的邪恶啊。做出你的选择吧。"
 
 # game/code/e07/e07s03.rpy:181
 translate chinese e07s03_after_choice_a0a51ba2:
@@ -1135,7 +1135,7 @@ translate chinese e07s03_continue_4b723dc5:
     gb "嗯。现在该上第二道菜了。"
 
 # game/code/e07/e07s03.rpy:654
-Translate Chinese e07s03_continue_56322547:
+translate chinese e07s03_continue_56322547:
 
     # gb "I tried, [e07_mcname!t]. Allow me to try this bull of yours."
     gb "我试过了，[e07_mcname!t]。请允许我试试你的这头公牛。"
