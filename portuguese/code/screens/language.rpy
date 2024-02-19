@@ -12,5 +12,5 @@ translate portuguese strings:
 
     # game/code/screens/language.rpy:121
     old "Choose Language"
-    new ""
+    new "Escolha o Idioma"
 
