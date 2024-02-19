@@ -40,5 +40,5 @@ translate portuguese strings:
 
     # game/code/screens/endings.rpy:66
     old "Download free DLC containing this ending"
-    new "Download free DLC containing this ending"
+    new "Baixe DLC grátis contendo este final"
 
