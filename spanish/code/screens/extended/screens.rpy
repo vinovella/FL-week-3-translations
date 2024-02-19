@@ -80,15 +80,15 @@ translate spanish strings:
 
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
-    new "Get a Lovense toy"
+    new "Consigue un juguete Lovense"
 
     # game/code/screens/extended/screens.rpy:230
     old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
+    new "Añade Taboo University a tu lista de deseados de Steam"
 
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
+    new "Prueba nuestro nuevo juego Taboo University"
 
 # TODO: Translation updated at 2024-02-18 12:00
 
@@ -96,5 +96,5 @@ translate spanish strings:
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"
-    new "Get free DLC containing 6 endings from Steam"
+    new "Consigue gratis DLC con 6 finales en Steam"
 
