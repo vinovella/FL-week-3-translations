@@ -630,7 +630,7 @@ translate spanish after_credits_b06da193:
 translate spanish after_credits_dcd001ba:
 
     # sy "It is so sad! I thought you died."
-    sy "It is so sad! I thought you died."
+    sy "¡Es tan triste! Pensé que habías muerto."
 
 # game/code/labels.rpy:173
 translate spanish after_credits_5a67dd3f:
@@ -642,52 +642,52 @@ translate spanish after_credits_5a67dd3f:
 translate spanish after_credits_3b9a74dd:
 
     # dd "Hey, it's okay. I'm healthy as a clam now."
-    dd "Hey, it's okay. I'm healthy as a clam now."
+    dd "Oye, está bien. Estoy sana como una almeja ahora."
 
 # game/code/labels.rpy:182
 translate spanish after_credits_62dbb988:
 
     # sy "*Sniffling* I know. *sniff* I'm glad you're okay."
-    sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+    sy "*sollozando* Lo sé. *Me alegro de que estés bien."
 
 # game/code/labels.rpy:185
 translate spanish after_credits_de67d958:
 
     # dd "Mmmhmm. Me too, Stacy."
-    dd "Mmmhmm. Me too, Stacy."
+    dd "Mmmhmm. Yo también, Stacy."
 
 # game/code/labels.rpy:189
 translate spanish after_credits_697eed2b:
 
     # dd "And don't forget. There's is another ending with me!"
-    dd "And don't forget. There's is another ending with me!"
+    dd "Y no lo olvides. ¡Hay otro final conmigo!"
 
 # game/code/labels.rpy:192
 translate spanish after_credits_26d7f508:
 
     # sy "Oh...right."
-    sy "Oh...right."
+    sy "Oh... cierto."
 
 # game/code/labels.rpy:196
 translate spanish after_credits_ae828622:
 
     # sy "I almost forgot about the Sex Dungeon ending!"
-    sy "I almost forgot about the Sex Dungeon ending!"
+    sy "¡Casi me olvido del final de la Mazmorra Sexual!"
 
 # game/code/labels.rpy:199
 translate spanish after_credits_a73caa2e:
 
     # dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
-    dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+    dd "No te olvides de nuestro otro final, Stacy. ¡Seré una muñeca sexy de látex en nuestra propia Mazmorra Sexual!"
 
 # game/code/labels.rpy:202
 translate spanish after_credits_83a2ed10:
 
     # sy "Yeah... That ending sounds like fun."
-    sy "Yeah... That ending sounds like fun."
+    sy "Sí... Ese final suena divertido."
 
 # game/code/labels.rpy:206
 translate spanish after_credits_f4cf666b:
 
     # sy "I can't wait to enjoy it with you."
-    sy "I can't wait to enjoy it with you."
+    sy "Estoy deseando disfrutarlo contigo."
