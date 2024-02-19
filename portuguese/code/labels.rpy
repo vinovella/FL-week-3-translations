@@ -624,70 +624,70 @@ translate portuguese strings:
 translate portuguese after_credits_b06da193:
 
     # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+    sy "Então eu com certeza deveria {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}colocar o jogo na lista de desejos da Steam{/u}{/a}!"
 
 # game/code/labels.rpy:170
 translate portuguese after_credits_dcd001ba:
 
     # sy "It is so sad! I thought you died."
-    sy "It is so sad! I thought you died."
+    sy "Que triste! Pensei que você tivesse morrido."
 
 # game/code/labels.rpy:173
 translate portuguese after_credits_5a67dd3f:
 
     # sy "*sniffs*"
-    sy "*sniffs*"
+    sy "*sniff*"
 
 # game/code/labels.rpy:179
 translate portuguese after_credits_3b9a74dd:
 
     # dd "Hey, it's okay. I'm healthy as a clam now."
-    dd "Hey, it's okay. I'm healthy as a clam now."
+    dd "Ei, tudo bem. Eu tô super sudável agora."
 
 # game/code/labels.rpy:182
 translate portuguese after_credits_62dbb988:
 
     # sy "*Sniffling* I know. *sniff* I'm glad you're okay."
-    sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+    sy "*Hic* Eu sei.*sniff* Que bom que você está bem."
 
 # game/code/labels.rpy:185
 translate portuguese after_credits_de67d958:
 
     # dd "Mmmhmm. Me too, Stacy."
-    dd "Mmmhmm. Me too, Stacy."
+    dd "Mmmhmm. É mesmo, Stacy."
 
 # game/code/labels.rpy:189
 translate portuguese after_credits_697eed2b:
 
     # dd "And don't forget. There's is another ending with me!"
-    dd "And don't forget. There's is another ending with me!"
+    dd "E não esquece. Tem outro final comigo!"
 
 # game/code/labels.rpy:192
 translate portuguese after_credits_26d7f508:
 
     # sy "Oh...right."
-    sy "Oh...right."
+    sy "Ah... verdade."
 
 # game/code/labels.rpy:196
 translate portuguese after_credits_ae828622:
 
     # sy "I almost forgot about the Sex Dungeon ending!"
-    sy "I almost forgot about the Sex Dungeon ending!"
+    sy "Eu quase esqueci do final do Calabouço Sexual!"
 
 # game/code/labels.rpy:199
 translate portuguese after_credits_a73caa2e:
 
     # dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
-    dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+    dd "Stacy, não esquece do nosso outro final. Eu viro um brinquedinho sexual toda de látex no nosso próprio Calabouço Sexual!"
 
 # game/code/labels.rpy:202
 translate portuguese after_credits_83a2ed10:
 
     # sy "Yeah... That ending sounds like fun."
-    sy "Yeah... That ending sounds like fun."
+    sy "É... Esse final parece divertido."
 
 # game/code/labels.rpy:206
 translate portuguese after_credits_f4cf666b:
 
     # sy "I can't wait to enjoy it with you."
-    sy "I can't wait to enjoy it with you."
+    sy "Mal posso esperar pra me divertir lá com você."
