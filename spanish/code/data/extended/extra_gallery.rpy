@@ -308,39 +308,39 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "30. What? You wanted more?"
-    new "30. What? You wanted more?"
+    new "30. ¿Qué? ¿Querías más?"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish all 6 Endings from DLC-1"
-    new "Finish all 6 Endings from DLC-1"
+    new "Termina los 6 finales del DLC-1"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "31. Go Debbie Go"
-    new "31. Go Debbie Go"
+    new "31. Vamos Debbie Vamos"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Have sex with Debbie"
-    new "Have sex with Debbie"
+    new "Ten sexo con Debbie"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "32. Fully Cooked"
-    new "32. Fully Cooked"
+    new "32. Totalmente cocinado"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Get max points in Lydia's challenges in e07"
-    new "Get max points in Lydia's challenges in e07"
+    new "Consigue el máximo de puntos en los desafíos de Lydia en el final 07"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "33. Full House"
-    new "33. Full House"
+    new "33. Casa llena"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Play with all the characters in e04"
-    new "Play with all the characters in e04"
+    new "Juega con todos los personajes del final 04"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "34. Day and Night"
-    new "34. Day and Night"
+    new "34. Día y Noche"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish e04 and e07"
@@ -348,11 +348,11 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "35. A lucky dozen"
-    new "35. A lucky dozen"
+    new "35. Una docena de afortunados"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish 12 endings"
-    new "Finish 12 endings"
+    new "Termina los 12 finales"
 
     # game/code/data/extended/extra_gallery.rpy:712
     old "ORNY"
