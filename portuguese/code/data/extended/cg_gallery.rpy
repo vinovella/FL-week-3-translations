@@ -152,24 +152,24 @@ translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:94
     old "Ending 12: Vanessa & Allison"
-    new ""
+    new "Final 12: Vanessa & Allison"
 
     # game/code/data/extended/cg_gallery.rpy:103
     old "Ending 14: Polly & Nora"
-    new ""
+    new "Final 14: Polly & Nora"
 
     # game/code/data/extended/cg_gallery.rpy:91
     old "Ending 11: Daisy"
-    new ""
+    new "Final 11: Daisy"
 
     # game/code/data/extended/cg_gallery.rpy:108
     old "Ending 17: Dahlia"
-    new ""
+    new "Final 17: Dahlia"
 
     # game/code/data/extended/cg_gallery.rpy:75
     old "Ending 04: Girls"
-    new ""
+    new "Final 04: Garotas"
 
     # game/code/data/extended/cg_gallery.rpy:85
     old "Ending 07: Girls"
-    new ""
+    new "Final 07: Garotas"
