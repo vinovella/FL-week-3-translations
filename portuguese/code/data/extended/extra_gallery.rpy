@@ -304,64 +304,64 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "30. What? You wanted more?"
-    new "30. What? You wanted more?"
+    new "30. O quê? Você queria mais?"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish all 6 Endings from DLC-1"
-    new "Finish all 6 Endings from DLC-1"
+    new "Termine todos os 6 Finais do DLC-1"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "31. Go Debbie Go"
-    new "31. Go Debbie Go"
+    new "31. Vai Debbie Vai"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Have sex with Debbie"
-    new "Have sex with Debbie"
+    new "Faça sexo com a Debbie"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "32. Fully Cooked"
-    new "32. Fully Cooked"
+    new "32. Bem Passado"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Get max points in Lydia's challenges in e07"
-    new "Get max points in Lydia's challenges in e07"
+    new "Consiga a pontuação máxima no desafio da Lydia no e07"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "33. Full House"
-    new "33. Full House"
+    new "33. Casa Cheia"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Play with all the characters in e04"
-    new "Play with all the characters in e04"
+    new "Jogue com todas personagens no e04"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "34. Day and Night"
-    new "34. Day and Night"
+    new "34. Dia e Noite"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish e04 and e07"
-    new "Finish e04 and e07"
+    new "Complte e04 e e07"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "35. A lucky dozen"
-    new "35. A lucky dozen"
+    new "35. A dúzia da sorte"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish 12 endings"
-    new "Finish 12 endings"
+    new "Complete 12 finais"
 
     # game/code/data/extended/extra_gallery.rpy:712
     old "ORNY"
-    new "ORNY"
+    new "OGOSA"
 
     # game/code/data/extended/extra_gallery.rpy:713
     old "H"
-    new "H"
+    new "F"
 
     # game/code/data/extended/extra_gallery.rpy:714
     old "UNGRY"
-    new "UNGRY"
+    new "AMINTA"
 
     # game/code/data/extended/extra_gallery.rpy:715
     old "APPY"
-    new "APPY"
+    new "ELIZ"
