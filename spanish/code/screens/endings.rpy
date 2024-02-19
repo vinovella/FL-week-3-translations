@@ -40,5 +40,5 @@ translate spanish strings:
 
     # game/code/screens/endings.rpy:66
     old "Download free DLC containing this ending"
-    new "Download free DLC containing this ending"
+    new "Descarga gratis el DLC que contiene este final"
 
