@@ -75,7 +75,7 @@ translate portuguese strings:
 
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Taboo University on Steam"
-    new "Wishlist Taboo University on Steam"
+    new "Ponha Taboo University na Lista de Desejos da Steam"
 
 # TODO: Translation updated at 2023-09-28 22:47
 
