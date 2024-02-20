@@ -324,7 +324,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "32. Fully Cooked"
-    new "32. Totalmente cocinado"
+    new "32. Totalmente Cocinado"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Get max points in Lydia's challenges in e07"
@@ -344,7 +344,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish e04 and e07"
-    new "Finish e04 and e07"
+    new "Termina el final 04 y el final 07"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "35. A lucky dozen"
