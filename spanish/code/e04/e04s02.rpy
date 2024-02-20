@@ -856,5 +856,5 @@ translate spanish strings:
 
     # game/code/e04/e04s02.rpy:110
     old "What do you want Lydia to call you?"
-    new "¿Cómo quieres que te llame Lydia?"
+    new "¿Cómo quieres que Lydia te llame?"
 
