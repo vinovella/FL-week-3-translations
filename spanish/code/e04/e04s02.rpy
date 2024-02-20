@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-25 23:49
+# TODO: Translation updated at 2024-01-25 23:49
 
 # game/code/e04/e04s02.rpy:45
 translate spanish e04s02_c212447d:
@@ -22,7 +22,7 @@ translate spanish e04s02_3109dc12:
 translate spanish e04s02_be8e175f:
 
     # mc "And you do?"
-    mc "¿Y lo hace?"
+    mc "¿Y tú si lo mereces?"
 
 # game/code/e04/e04s02.rpy:55
 translate spanish e04s02_c117bfaa:
@@ -34,7 +34,7 @@ translate spanish e04s02_c117bfaa:
 translate spanish e04s02_65e10627:
 
     # mc "Kneel."
-    mc "Arrodillarse."
+    mc "Arrodíllate."
 
 # game/code/e04/e04s02.rpy:61
 translate spanish e04s02_2dba71fa:
@@ -106,7 +106,7 @@ translate spanish e04s02_eb008fcf:
 translate spanish e04s02_83b3b883:
 
     # mc "The next rule - from now on, I want you to call me..."
-    mc "La siguiente regla: de ahora en adelante, quiero que me llames..."
+    mc "La siguiente regla... de ahora en adelante, quiero que me llames..."
 
 # game/code/e04/e04s02.rpy:97
 translate spanish e04s02_8748cba3:
@@ -118,7 +118,7 @@ translate spanish e04s02_8748cba3:
 translate spanish e04s02_e1893a7f:
 
     # mc "You'll only refer to me as Warden from here on out. It is my proper title after all."
-    mc "De ahora en adelante sólo te referirás a mí como Guardián. Después de todo, es mi título apropiado."
+    mc "Sólo te referirás a mí como Alcaide de ahora en adelante. Después de todo, es mi verdadero título."
 
 # game/code/e04/e04s02.rpy:115
 translate spanish e04s02_cd515caa:
@@ -142,7 +142,7 @@ translate spanish e04s02_e4dc4227:
 translate spanish e04s02_6c121894:
 
     # mc "Third rule; what I say is law. Every word is a directive, every sentence a commandment."
-    mc "Tercera regla; lo que digo es ley. Cada palabra es una directiva, cada frase un mandamiento."
+    mc "Tercera regla; lo que digo es ley. Cada palabra es una directiva, cada frase una orden."
 
 # game/code/e04/e04s02.rpy:124
 translate spanish e04s02_e02c3cfc:
@@ -160,7 +160,7 @@ translate spanish e04s02_df20f971:
 translate spanish e04s02_dbedc3b3:
 
     # mc "We'll call this one rule four; I can punish you for any reason I want. Because that's why you're here; to be punished."
-    mc "A esta la llamaremos regla cuatro; Puedo castigarte por cualquier motivo que quiera. Porque es por eso que estás aquí; ser castigado."
+    mc "A esta, la llamaremos regla número cuatro; puedo castigarte por la razón que quiera. Porque para eso estás aquí; para ser castigada."
 
 # game/code/e04/e04s02.rpy:133
 translate spanish e04s02_d305d226:
@@ -202,7 +202,7 @@ translate spanish e04s02_f2cc4a5b:
 translate spanish e04s02_sex_42511b4a:
 
     # mc "Now, time to begin your training. Strip."
-    mc "Ahora es el momento de comenzar tu entrenamiento. Banda."
+    mc "Ahora es el momento de comenzar tu entrenamiento. Desnúdate."
 
 # game/code/e04/e04s02.rpy:164
 translate spanish e04s02_sex_07d84538:
@@ -250,7 +250,7 @@ translate spanish e04s02_sex_f51dd2c5:
 translate spanish e04s02_sex_b72ba331:
 
     # lc "You don't deserve to see me like this."
-    lc "No mereces verme así."
+    lc "No mereces verme de esta manera."
 
 # game/code/e04/e04s02.rpy:190
 translate spanish e04s02_sex_4a59d9cb:
@@ -262,7 +262,7 @@ translate spanish e04s02_sex_4a59d9cb:
 translate spanish e04s02_sex_f380c269:
 
     # mc "Not even trying to cover yourself."
-    mc "Ni siquiera intentar cubrirte."
+    mc "Ni siquiera intentes cubrirte."
 
 # game/code/e04/e04s02.rpy:196
 translate spanish e04s02_sex_27742201:
@@ -274,13 +274,13 @@ translate spanish e04s02_sex_27742201:
 translate spanish e04s02_sex_e2480f95:
 
     # mc "Here's your uniform. Put it on."
-    mc "Aquí está tu uniforme. Póntelo."
+    mc "Aquí está tu uniforme. Pontelo."
 
 # game/code/e04/e04s02.rpy:206
 translate spanish e04s02_sex_ebb014fe:
 
     # lc "Kinky, but I am {i}not{/i} wearing this."
-    lc "Kinky, pero {i}no{/i} estoy usando esto."
+    lc "Pervertido, pero {i}no{/i} voy a usar esto."
 
 # game/code/e04/e04s02.rpy:207
 translate spanish e04s02_sex_1b408e44:
@@ -292,7 +292,7 @@ translate spanish e04s02_sex_1b408e44:
 translate spanish e04s02_sex_3841a58f:
 
     # mc "Have I not been clear? Refuse a command, and you will be punished."
-    mc "¿No he sido claro? Rechaza una orden y serás castigado."
+    mc "¿No he sido claro? Rechaza una orden y serás castigada."
 
 # game/code/e04/e04s02.rpy:213
 translate spanish e04s02_sex_4806c682:
@@ -304,7 +304,7 @@ translate spanish e04s02_sex_4806c682:
 translate spanish e04s02_sex_f3d4c83d:
 
     # mc "I'm curious. What's the worst you think I could do?"
-    mc "Soy curioso. ¿Qué es lo peor que crees que podría hacer?"
+    mc "Tengo curiosidad. ¿Qué es lo peor que crees que podría hacer?"
 
 # game/code/e04/e04s02.rpy:221
 translate spanish e04s02_sex_636fcfb1:
@@ -340,13 +340,13 @@ translate spanish e04s02_sex_704ad903:
 translate spanish e04s02_sex_ae2b9358:
 
     # mc "Remember how you tried to use Fetish Locator to get me to fuck AmRose in the ass with no lube?"
-    mc "¿Recuerdas cómo intentaste usar Fetish Locator para que me follara a AmRose por el culo sin lubricante?"
+    mc "¿Recuerdas cómo intentaste usar el Localizador de Fetiches para que me follara a AmRose por el culo sin lubricante?"
 
 # game/code/e04/e04s02.rpy:234
 translate spanish e04s02_sex_ce67bd12:
 
     # mc "Maybe I should show you just how rough anal can be, especially without lube."
-    mc "Tal vez debería mostrarte lo duro que puede ser el sexo anal, especialmente sin lubricante."
+    mc "Tal vez deberías mostrarte lo duro que puede ser el sexo anal, especialmente sin lubricante."
 
 # game/code/e04/e04s02.rpy:237
 translate spanish e04s02_sex_0f7e458e:
@@ -358,7 +358,7 @@ translate spanish e04s02_sex_0f7e458e:
 translate spanish e04s02_sex_1df4e20c:
 
     # lc "Try all you want, I won't be like those other women who just seem to magically worship your dick after one fuck."
-    lc "Prueba todo lo que quieras, no seré como esas otras mujeres que parecen adorar mágicamente tu polla después de una cogida."
+    lc "Intenta todo lo que quieras, no será como esas otras mujeres que parecen adorar mágicamente tu polla después de una follada."
 
 # game/code/e04/e04s02.rpy:243
 translate spanish e04s02_sex_ed5886a0:
@@ -382,13 +382,13 @@ translate spanish e04s02_sex_54608bff:
 translate spanish e04s02_sex_7c9045e0:
 
     # lc "FUCK. YOU."
-    lc "MIERDA. TÚ."
+    lc "VETE A LA MIERDA."
 
 # game/code/e04/e04s02.rpy:257
 translate spanish e04s02_sex_355f57da:
 
     # mc "No, no. I'm fucking you."
-    mc "No no. Te estoy jodiendo."
+    mc "No no. Te estoy follando."
 
 # game/code/e04/e04s02.rpy:263
 translate spanish e04s02_sex_67fd0def:
@@ -406,7 +406,7 @@ translate spanish e04s02_sex_0d75b153:
 translate spanish e04s02_sex_e060bcf2:
 
     # mc "How do you ask?"
-    mc "¿Cómo preguntas?"
+    mc "¿Cómo lo pregunta?"
 
 # game/code/e04/e04s02.rpy:266
 translate spanish e04s02_sex_822219f9:
@@ -418,7 +418,7 @@ translate spanish e04s02_sex_822219f9:
 translate spanish e04s02_sex_da9062a1:
 
     # mc "How do you ask {i}me?{/i}"
-    mc "¿Cómo me preguntas {i}?{/i}"
+    mc "¿Cómo {i}me{/i} lo preguntas?"
 
 # game/code/e04/e04s02.rpy:269
 translate spanish e04s02_sex_83544064:
@@ -472,7 +472,7 @@ translate spanish e04s02_sex_63094fca:
 translate spanish e04s02_sex_bd383b59:
 
     # mc "Hmm, that sure is a lot of back talk."
-    mc "Hmm, eso seguro que son muchas réplicas."
+    mc "Hmm, eso sí que es hablar por hablar."
 
 # game/code/e04/e04s02.rpy:286
 translate spanish e04s02_sex_32ae02e0:
@@ -490,19 +490,19 @@ translate spanish e04s02_sex_9bbe0767:
 translate spanish e04s02_sex_d7f67521:
 
     # lc "Eat a dick!"
-    lc "¡Cómete una polla!"
+    lc "¡Comete una polla!"
 
 # game/code/e04/e04s02.rpy:295
 translate spanish e04s02_sex_909bc2b2:
 
     # mc "You know, you've given me an idea for your next punishment."
-    mc "Sabes, me has dado una idea para tu próximo castigo."
+    mc "Sabes, me ha dado una idea para tu próximo castigo."
 
 # game/code/e04/e04s02.rpy:300
 translate spanish e04s02_sex_043d8bdc:
 
     # mc "Open wide."
-    mc "Abierto."
+    mc "Abre bien grande."
 
 # game/code/e04/e04s02.rpy:303
 translate spanish e04s02_sex_2dba71fa:
@@ -514,7 +514,7 @@ translate spanish e04s02_sex_2dba71fa:
 translate spanish e04s02_sex_a0ed9f97:
 
     # mc "Still feeling feisty, huh."
-    mc "Todavía me siento luchadora, eh."
+    mc "Todavía te sientes luchadora, eh."
 
 # game/code/e04/e04s02.rpy:309
 translate spanish e04s02_sex_d8f1dd56:
@@ -526,7 +526,7 @@ translate spanish e04s02_sex_d8f1dd56:
 translate spanish e04s02_sex_cfae3799:
 
     # mc "Open."
-    mc "Abierto."
+    mc "Abierta."
 
 # game/code/e04/e04s02.rpy:315
 translate spanish e04s02_sex_05aa1cd3:
@@ -538,7 +538,7 @@ translate spanish e04s02_sex_05aa1cd3:
 translate spanish e04s02_sex_7fdbed6e:
 
     # mc "How about now?"
-    mc "¿Que tal ahora?"
+    mc "¿Qué tal ahora?"
 
 # game/code/e04/e04s02.rpy:322
 translate spanish e04s02_sex_cf8f919c:
@@ -562,7 +562,7 @@ translate spanish e04s02_sex_0e87dc37:
 translate spanish e04s02_sex_d727e726:
 
     # mc "That's right. That little metal device for prying someone's mouth open and keeping it that way."
-    mc "Así es. Ese pequeño dispositivo de metal para abrir la boca de alguien y mantenerla así."
+    mc "Así es. Ese pequeño dispositivo de metal para abrir la boca de alguien y mantenerla abierta."
 
 # game/code/e04/e04s02.rpy:331
 translate spanish e04s02_sex_83d46cc1:
@@ -586,7 +586,7 @@ translate spanish e04s02_sex_ac57afbe:
 translate spanish e04s02_sex_31cfdc0f:
 
     # mc "And about being an asshole-"
-    mc "Y sobre ser un idiota-"
+    mc "Y sobre ser una idiota"
 
 # game/code/e04/e04s02.rpy:343
 translate spanish e04s02_sex_d9bb2a48:
@@ -604,13 +604,13 @@ translate spanish e04s02_sex_3b3862c8:
 translate spanish e04s02_sex_86bea8f8:
 
     # mc "And if you are what you eat-"
-    mc "Y si eres lo que comes-"
+    mc "Y si eres lo que viene-"
 
 # game/code/e04/e04s02.rpy:349
 translate spanish e04s02_sex_2048bf8d:
 
     # mc "-are you a shithead, or a cocksucker?"
-    mc "-¿Eres un imbécil o un chupavergas?"
+    mc "-¿eres una imbécil o una chupapollas?"
 
 # game/code/e04/e04s02.rpy:360
 translate spanish e04s02_sex_0a53ba4e:
@@ -622,7 +622,7 @@ translate spanish e04s02_sex_0a53ba4e:
 translate spanish e04s02_sex_5660c0cc:
 
     # lc "Mmmng?"
-    lc "Mmmm?"
+    lc "¿Mmmm?"
 
 # game/code/e04/e04s02.rpy:366
 translate spanish e04s02_sex_c49bb57a:
@@ -646,19 +646,19 @@ translate spanish e04s02_sex_e2135ac0:
 translate spanish e04s02_sex_3f367617:
 
     # lc "Fuck... You..."
-    lc "Joder... tú..."
+    lc "Joder...tú..."
 
 # game/code/e04/e04s02.rpy:380
 translate spanish e04s02_sex_d267af07:
 
     # mc "You will. There's so much left to do."
-    mc "Vas a. Queda mucho por hacer."
+    mc "Lo harás. Queda mucho por hacer."
 
 # game/code/e04/e04s02.rpy:383
 translate spanish e04s02_sex_93b5e201:
 
     # lc "You're... A... Bastard..."
-    lc "Eres un bastardo..."
+    lc "Eres... un... bastardo..."
 
 # game/code/e04/e04s02.rpy:386
 translate spanish e04s02_sex_9f0ba642:
@@ -676,7 +676,7 @@ translate spanish e04s02_sex_84a3e431:
 translate spanish e04s02_sex_f468ef2a:
 
     # mc "Just you wait."
-    mc "Solo espera."
+    mc "Sólo espera."
 
 # game/code/e04/e04s02.rpy:394
 translate spanish e04s02_sex_c0fcf1fe:
@@ -730,7 +730,7 @@ translate spanish e04s02_sex_88a7f593:
 translate spanish e04s02_sex_902d72fe:
 
     # lc "Don't- mmph- don't you dare cum in my ass! I will, nnng, I will shove it down your throat!"
-    lc "No- mmph- ¡no te atrevas a correrte en mi culo! ¡Lo haré, nnng, te lo meteré por la garganta!"
+    lc "No- mmph- ¡no te atrevas a correrte en mi culo! Lo haré, nnng, ¡Te lo haré tragar!"
 
 # game/code/e04/e04s02.rpy:420
 translate spanish e04s02_sex_73f3d624:
@@ -790,7 +790,7 @@ translate spanish e04s02_sex_36ab8710:
 translate spanish e04s02_sex_a294a6bf:
 
     # lc "No, no, no!"
-    lc "¡No no no!"
+    lc "¡No, no, no!"
 
 # game/code/e04/e04s02.rpy:449
 translate spanish e04s02_sex_e81ca161:
@@ -802,7 +802,7 @@ translate spanish e04s02_sex_e81ca161:
 translate spanish e04s02_sex_217ca480:
 
     # mc "You'll be allowed to cum when you start acting like a good girl. But for now-"
-    mc "Podrás correrte cuando empieces a actuar como una buena chica. Pero por ahora-"
+    mc "Podrás correrte cuando empieces a actuar como una buena chica. Pero por ahora..."
 
 # game/code/e04/e04s02.rpy:454
 translate spanish e04s02_sex_b0b60d1e:
@@ -820,25 +820,25 @@ translate spanish e04s02_sex_a817cb73:
 translate spanish e04s02_sex_08a09f1f:
 
     # mc "While you handle that, I need to get your cell prepared."
-    mc "Mientras te ocupas de eso, necesito preparar tu celular."
+    mc "Mientras te ocupas de eso, necesito preparar tu celda."
 
 # game/code/e04/e04s02.rpy:466
 translate spanish e04s02_sex_fe2ef3ae:
 
     # lc "What an... Idiot. I... I could escape... Right now..."
-    lc "Qué idiota. Yo... podría escapar... ahora mismo..."
+    lc "Qué idiota. Yo... podría escapar... en este momento..."
 
 # game/code/e04/e04s02.rpy:469
 translate spanish e04s02_sex_8ab5a466:
 
     # lc "But then... You'd think you've won... I... Had you wrapped around my finger...{w} Once..."
-    lc "Pero entonces... Pensarías que has ganado... Yo... Si te hubieras envuelto alrededor de mi dedo... {w} Una vez..."
+    lc "Pero entonces... Pensarías que has ganado... Yo... Te tenía envuelto alrededor de mi dedo... {w} Por una vez..."
 
 # game/code/e04/e04s02.rpy:472
 translate spanish e04s02_sex_ec8a7944:
 
     # lc "I'll... Do it... Again..."
-    lc "Lo haré de nuevo..."
+    lc "Y... Yo... lo haré... de nuevo..."
 
 translate spanish strings:
 
@@ -852,7 +852,7 @@ translate spanish strings:
 
     # game/code/e04/e04s02.rpy:93
     old "Enter your own"
-    new "Introduce el tuyo"
+    new "Introduzca su nombre"
 
     # game/code/e04/e04s02.rpy:110
     old "What do you want Lydia to call you?"
