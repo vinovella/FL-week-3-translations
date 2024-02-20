@@ -1390,259 +1390,259 @@ translate chinese e07s07_vasectomy_286afe12:
 translate chinese e07s07_vasectomy_7ca2456d:
 
     # lc "Good. [e07_pbname!t], release him."
-    lc "Good. [e07_pbname!t], release him."
+    lc "好，[e07_pbname!t]，放了他。"
 
 # game/code/e07/e07s07.rpy:713
 translate chinese e07s07_vasectomy_0eda8d35:
 
     # arj "Oouhhaah... Enjoy it, [e07_mcname!t]. Enjoy my warm... Cum-filled hole."
-    arj "Oouhhaah... Enjoy it, [e07_mcname!t]. Enjoy my warm... Cum-filled hole."
+    arj "噢噢噢噢哈...好好享受吧，[e07_mcname!t]。享受我温暖...且已填满了别人精液的洞。"
 
 # game/code/e07/e07s07.rpy:716
 translate chinese e07s07_vasectomy_24714307:
 
     # lc "Hahah. Oh, [e07_arjname!t], you really are the best slut."
-    lc "Hahah. Oh, [e07_arjname!t], you really are the best slut."
+    lc "哈哈。哦，[e07_arjname!t]，你真是最优秀的荡妇了。"
 
 # game/code/e07/e07s07.rpy:717
 translate chinese e07s07_vasectomy_e89e2f10:
 
     # arj "Thank you, [e07_lcname!t]."
-    arj "Thank you, [e07_lcname!t]."
+    arj "谢谢您，[e07_lcname!t]。"
 
 # game/code/e07/e07s07.rpy:719
 translate chinese e07s07_vasectomy_4988767b:
 
     # mct "This is... Shit, am I getting hard again?"
-    mct "This is... Shit, am I getting hard again?"
+    mct "这是...妈的，我是不是又硬了？"
 
 # game/code/e07/e07s07.rpy:722
 translate chinese e07s07_vasectomy_3b8d4ad6:
 
     # lc "Alright, I think that's good enough, [e07_mcname!t]."
-    lc "Alright, I think that's good enough, [e07_mcname!t]."
+    lc "好了，我想这就够了，[e07_mcname!t]。"
 
 # game/code/e07/e07s07.rpy:727
 translate chinese e07s07_vasectomy_2e4d9773:
 
     # lc "We don't want to steal all of [e07_arjname!t]'s precious sperm now do we?"
-    lc "We don't want to steal all of [e07_arjname!t]'s precious sperm now do we?"
+    lc "我们可不想偷走[e07_arjname!t]所有珍贵的精子，不是吗？"
 
 # game/code/e07/e07s07.rpy:730
 translate chinese e07s07_vasectomy_282c3992:
 
     # lc "I hope he didn't do a half-assed job."
-    lc "I hope he didn't do a half-assed job."
+    lc "我希望他没有做得半途而废。"
 
 # game/code/e07/e07s07.rpy:733
 translate chinese e07s07_vasectomy_5c516a57:
 
     # arj "No. It actually felt very nice. Thanks, [e07_mcname!t]."
-    arj "No. It actually felt very nice. Thanks, [e07_mcname!t]."
+    arj "不，实际上感觉很好。谢谢，[e07_mcname!t]。"
 
 # game/code/e07/e07s07.rpy:735
 translate chinese e07s07_vasectomy_57184c13:
 
     # mc "You're welcome."
-    mc "You're welcome."
+    mc "不客气。"
 
 # game/code/e07/e07s07.rpy:738
 translate chinese e07s07_vasectomy_48e62e59:
 
     # lc "Bull, please return him to his seat."
-    lc "Bull, please return him to his seat."
+    lc "公牛，请把他送回座位。"
 
 # game/code/e07/e07s07.rpy:743
 translate chinese e07s07_vasectomy_689a4c8b:
 
     # mc "There is no way I'm doing that. Not even for you, [e07_lcname!t]."
-    mc "There is no way I'm doing that. Not even for you, [e07_lcname!t]."
+    mc "我不可能那么做。即使是为了你，[e07_lcname!t]。"
 
 # game/code/e07/e07s07.rpy:746
 translate chinese e07s07_vasectomy_ef6381e1:
 
     # lc "Your choice. I just thought you might want to make up some of your selfishness towards poor [e07_arjname!t]."
-    lc "Your choice. I just thought you might want to make up some of your selfishness towards poor [e07_arjname!t]."
+    lc "这是你的选择。我只是觉得，你可能想弥补一下你对可怜的[e07_arjname!t]的自私行为。"
 
 # game/code/e07/e07s07.rpy:747
 translate chinese e07s07_vasectomy_1083dfd7:
 
     # lc "Maybe another day."
-    lc "Maybe another day."
+    lc "也许改天吧。"
 
 # game/code/e07/e07s07.rpy:752
 translate chinese e07s07_vasectomy_d08af773:
 
     # lc "Let's go again, Bull. I want to be sure that [e07_mcname!t] enjoys himself to the fullest tonight."
-    lc "Let's go again, Bull. I want to be sure that [e07_mcname!t] enjoys himself to the fullest tonight."
+    lc "我们再来一次，公牛。我要确保[e07_mcname!t]今晚尽情享受。"
 
 # game/code/e07/e07s07.rpy:753
 translate chinese e07s07_vasectomy_e7ec0924:
 
     # lc "Besides, cumming in her twice will help make sure you've done your job."
-    lc "Besides, cumming in her twice will help make sure you've done your job."
+    lc "此外，在她体内射精两次也有助于确保你完成任务。"
 
 # game/code/e07/e07s07.rpy:756
 translate chinese e07s07_vasectomy_30fce10f:
 
     # pb "Yes, [e07_lcname!t]."
-    pb "Yes, [e07_lcname!t]."
+    pb "遵命，[e07_lcname!t]."
 
 # game/code/e07/e07s07.rpy:758
 translate chinese e07s07_vasectomy_e4f94b07:
 
     # mct "Goddammitt!!! NOT AGAIN!!!"
-    mct "Goddammitt!!! NOT AGAIN!!!"
+    mct "操你妈的!!! 别再来了!!!"
 
 # game/code/e07/e07s07.rpy:767
 translate chinese e07s07_vasectomy_b9f44f03:
 
     # lc "I'm very proud of both of you. Well, mostly [e07_arjname!t]."
-    lc "I'm very proud of both of you. Well, mostly [e07_arjname!t]."
+    lc "我为你们俩感到骄傲。嗯，主要是[e07_arjname!t]。"
 
 # game/code/e07/e07s07.rpy:769
 translate chinese e07s07_vasectomy_3eabceec:
 
     # lc "That was exhilarating."
-    lc "That was exhilarating."
+    lc "真是令人振奋。"
 
 # game/code/e07/e07s07.rpy:771
 translate chinese e07s07_vasectomy_30da2854:
 
     # arj "Do you need anything else, [e07_lcname!t]?"
-    arj "Do you need anything else, [e07_lcname!t]?"
+    arj "您还需要什么吗，[e07_lcname!t]？"
 
 # game/code/e07/e07s07.rpy:775
 translate chinese e07s07_vasectomy_0f5cee40:
 
     # lc "Yes. First, I'm in dire need of a shower."
-    lc "Yes. First, I'm in dire need of a shower."
+    lc "是的，首先，我急需洗个澡。"
 
 # game/code/e07/e07s07.rpy:776
 translate chinese e07s07_vasectomy_6bb67d4b:
 
     # lc "Number two, AmRose needs a reward."
-    lc "Number two, AmRose needs a reward."
+    lc "其次，爱洛丝需要奖励。"
 
 # game/code/e07/e07s07.rpy:780
 translate chinese e07s07_vasectomy_7f2f5d4e:
 
     # arj "Of course, [e07_lcname!t]."
-    arj "Of course, [e07_lcname!t]."
+    arj "好的，[e07_lcname!t]."
 
 # game/code/e07/e07s07.rpy:785
 translate chinese e07s07_vasectomy_918e2be4:
 
     # pb "What about me?"
-    pb "What about me?"
+    pb "那我呢？"
 
 # game/code/e07/e07s07.rpy:788
 translate chinese e07s07_vasectomy_257fdfcb:
 
     # lc "Stay on hand while Jerome gets to work."
-    lc "Stay on hand while Jerome gets to work."
+    lc "杰罗姆干活的时候，你在旁边看着。"
 
 # game/code/e07/e07s07.rpy:791
 translate chinese e07s07_vasectomy_91c36cd9:
 
     # lc "Poor [e07_mcname!t] could use a friend after his operation. Hahaha."
-    lc "Poor [e07_mcname!t] could use a friend after his operation. Hahaha."
+    lc "可怜的[e07_mcname!t]手术后需要一个朋友。哈哈哈。"
 
 # game/code/e07/e07s07.rpy:818
 translate chinese e07s07_hardfail_31e19554:
 
     # lc "*sigh* I had such hope for you."
-    lc "*sigh* I had such hope for you."
+    lc "*叹气* 唉，我曾对你抱有这么大的希望。"
 
 # game/code/e07/e07s07.rpy:819
 translate chinese e07s07_hardfail_34aee932:
 
     # lc "I always knew you were a loser, but I didn't realize you were such a pathetic loser."
-    lc "I always knew you were a loser, but I didn't realize you were such a pathetic loser."
+    lc "我一直都知道你是个废物，但我没想到你是个如此可悲的废物。"
 
 # game/code/e07/e07s07.rpy:822
 translate chinese e07s07_hardfail_fb7257f3:
 
     # lc "But after what I've seen, I simply have no use for you."
-    lc "But after what I've seen, I simply have no use for you."
+    lc "但在我看到这一切之后，你对我已经没有利用价值了。"
 
 # game/code/e07/e07s07.rpy:825
 translate chinese e07s07_hardfail_40c1b712:
 
     # mc "What?! [e07_lcname!t], please don't do this! I can do better! I promise I'll try harder-"
-    mc "What?! [e07_lcname!t], please don't do this! I can do better! I promise I'll try harder-"
+    mc "什么?! [e07_lcname!t]，请不要这样！我可以做得更好！我保证我会更加努力--"
 
 # game/code/e07/e07s07.rpy:830
 translate chinese e07s07_hardfail_a3111db8:
 
     # lc "It's too late. You had your chance, [e07_mcname!t]. It's over."
-    lc "It's too late. You had your chance, [e07_mcname!t]. It's over."
+    lc "太晚了。你曾有过机会，[e07_mcname!t]。一切都结束了。"
 
 # game/code/e07/e07s07.rpy:831
 translate chinese e07s07_hardfail_d5016ad0:
 
     # lc "You don't have to go home, but get the hell out."
-    lc "You don't have to go home, but get the hell out."
+    lc "你不必回家，但给我滚出去。"
 
 # game/code/e07/e07s07.rpy:835
 translate chinese e07s07_hardfail_c395f270:
 
     # mc "Please no! Anything, but that!!!"
-    mc "Please no! Anything, but that!!!"
+    mc "求你不要这样！什么都行，就是放我一马!!!"
 
 # game/code/e07/e07s07.rpy:839
 translate chinese e07s07_hardfail_cb14011a:
 
     # lc "Goodbye, [e07_mcname!t]... Or whatever your name was."
-    lc "Goodbye, [e07_mcname!t]... Or whatever your name was."
+    lc "再见，[e07_mcname!t]...或者不管你叫什么名字。"
 
 # game/code/e07/e07s07.rpy:842
 translate chinese e07s07_hardfail_d75875e9:
 
     # lc "I never want to see you again."
-    lc "I never want to see you again."
+    lc "我再也不想见到你。"
 
 # game/code/e07/e07s07.rpy:853
 translate chinese e07s07_refusal_fail_fca52711:
 
     # mc "No."
-    mc "No."
+    mc "不要。"
 
 # game/code/e07/e07s07.rpy:854
 translate chinese e07s07_refusal_fail_443d2433:
 
     # mc "I would do anything for you, [e07_lcname!t], but I won't do that."
-    mc "I would do anything for you, [e07_lcname!t], but I won't do that."
+    mc "我愿意为你做任何事，[e07_lcname!t]，但不包括这件事。"
 
 # game/code/e07/e07s07.rpy:858
 translate chinese e07s07_refusal_fail_480e102f:
 
     # lc "Is that your final answer?"
-    lc "Is that your final answer?"
+    lc "这就是你的最终答案吗？"
 
 # game/code/e07/e07s07.rpy:860
 translate chinese e07s07_refusal_fail_fdb1e2f3:
 
     # mc "Ask anything else of me, but not that."
-    mc "Ask anything else of me, but not that."
+    mc "问我别的什么都行，除了这个。"
 
 # game/code/e07/e07s07.rpy:864
 translate chinese e07s07_refusal_fail_6b3ba9b7:
 
     # lc "I don't {b}ask{/b} anything. I command."
-    lc "I don't {b}ask{/b} anything. I command."
+    lc "我不{b}问{/b}任何事。我只命令。"
 
 # game/code/e07/e07s07.rpy:865
 translate chinese e07s07_refusal_fail_7a5128e8:
 
     # lc "I thought you would know that by now."
-    lc "I thought you would know that by now."
+    lc "我以为你现在已经知道了。"
 
 # game/code/e07/e07s07.rpy:866
 translate chinese e07s07_refusal_fail_a812b9f3:
 
     # lc "So?"
-    lc "So?"
+    lc "所以呢？"
 
 # game/code/e07/e07s07.rpy:870
 translate chinese e07s07_refusal_fail_2b35b6fe:
@@ -1654,91 +1654,91 @@ translate chinese e07s07_refusal_fail_2b35b6fe:
 translate chinese e07s07_refusal_fail_2937bdaf:
 
     # lc "*sigh* You're even more of a loser than I thought."
-    lc "*sigh* You're even more of a loser than I thought."
+    lc "*叹气* 你比我想象的还要失败。"
 
 # game/code/e07/e07s07.rpy:876
 translate chinese e07s07_refusal_fail_04de99fa:
 
     # lc "Get the hell out."
-    lc "Get the hell out."
+    lc "滚出去。"
 
 # game/code/e07/e07s07.rpy:880
 translate chinese e07s07_refusal_fail_9bf13f6c:
 
     # mc "WHAT?!?!"
-    mc "WHAT?!?!"
+    mc "什么?!?!"
 
 # game/code/e07/e07s07.rpy:883
 translate chinese e07s07_refusal_fail_1e12adda:
 
     # lc "Leave my property at once. You are banished."
-    lc "Leave my property at once. You are banished."
+    lc "马上离开我的领地。你被放逐了。"
 
 # game/code/e07/e07s07.rpy:884
 translate chinese e07s07_refusal_fail_d75875e9:
 
     # lc "I never want to see you again."
-    lc "I never want to see you again."
+    lc "我再也不想看到你。"
 
 # game/code/e07/e07s07.rpy:888
 translate chinese e07s07_refusal_fail_065dac0b:
 
     # mc "WHAT?!?!?!?!"
-    mc "WHAT?!?!?!?!"
+    mc "什么?!?!?!?!"
 
 # game/code/e07/e07s07.rpy:889
 translate chinese e07s07_refusal_fail_3c60f072:
 
     # mc "No, no, no, no, no. You can't do this!"
-    mc "No, no, no, no, no. You can't do this!"
+    mc "不，不，不，不，不。你不能这么做！"
 
 # game/code/e07/e07s07.rpy:893
 translate chinese e07s07_refusal_fail_c982e36b:
 
     # lc "You made your choice, [e07_mcname!t]. It is done."
-    lc "You made your choice, [e07_mcname!t]. It is done."
+    lc "你做出了你的选择，[e07_mcname!t]。事情就这样了结了。"
 
 # game/code/e07/e07s07.rpy:895
 translate chinese e07s07_refusal_fail_ebcd7fae:
 
     # mc "But I can't! You can't do this to me!"
-    mc "But I can't! You can't do this to me!"
+    mc "可是我做不到！你不能这样对我！"
 
 # game/code/e07/e07s07.rpy:896
 translate chinese e07s07_refusal_fail_0d560eb2:
 
     # mc "Lydia! I LOVE YOU!!!"
-    mc "Lydia! I LOVE YOU!!!"
+    mc "莉迪亚！我爱你!!!"
 
 # game/code/e07/e07s07.rpy:900
 translate chinese e07s07_refusal_fail_6d7063a6:
 
     # lc "What did you call me?"
-    lc "What did you call me?"
+    lc "你叫我什么？"
 
 # game/code/e07/e07s07.rpy:902
 translate chinese e07s07_refusal_fail_d452f7ff:
 
     # mc "I just-"
-    mc "I just-"
+    mc "我只是--"
 
 # game/code/e07/e07s07.rpy:906
 translate chinese e07s07_refusal_fail_632061a3:
 
     # lc "You insolent little piece of shit. You don't deserve-"
-    lc "You insolent little piece of shit. You don't deserve-"
+    lc "你这个无礼的屁用没有的家伙。你不配--"
 
 # game/code/e07/e07s07.rpy:909
 translate chinese e07s07_refusal_fail_ed581ebb:
 
     # lc "YOU NEED TO LEAVE THIS PLACE NOW!"
-    lc "YOU NEED TO LEAVE THIS PLACE NOW!"
+    lc "你现在必须离开这个地方！"
 
 # game/code/e07/e07s07.rpy:920
 translate chinese e07s07_fail_ae4bcf0d:
 
     # mc "*sniffs* Can... can someone take this off?"
-    mc "*sniffs* Can... can someone take this off?"
+    mc "*抽鼻子* 这个...有人能把这个摘下来吗？"
 
 # game/code/e07/e07s07.rpy:925
 translate chinese e07s07_fail_d80c3f91:
@@ -1750,203 +1750,203 @@ translate chinese e07s07_fail_d80c3f91:
 translate chinese e07s07_fail_a60dba17:
 
     # arj "Yes, [e07_lcname!t]? "
-    arj "Yes, [e07_lcname!t]? "
+    arj "我在，[e07_lcname!t]？"
 
 # game/code/e07/e07s07.rpy:931
 translate chinese e07s07_fail_c643b48f:
 
     # lc "[e07_mcname!t] is leaving. Remove his cockcage."
-    lc "[e07_mcname!t] is leaving. Remove his cockcage."
+    lc "[e07_mcname!t]要走了。取下他的鸡笼。"
 
 # game/code/e07/e07s07.rpy:934
 translate chinese e07s07_fail_a841da30:
 
     # arj "Oh."
-    arj "Oh."
+    arj "哦。"
 
 # game/code/e07/e07s07.rpy:939
 translate chinese e07s07_fail_7a8fc2e6:
 
     # arj "Done. That's all there is to it."
-    arj "Done. That's all there is to it."
+    arj "结束了。就这样吧。"
 
 # game/code/e07/e07s07.rpy:941
 translate chinese e07s07_fail_37428068:
 
     # mc "Oh, um, thanks."
-    mc "Oh, um, thanks."
+    mc "哦，呃，谢谢。"
 
 # game/code/e07/e07s07.rpy:943
 translate chinese e07s07_fail_8408493a:
 
     # arj "Well, see ya'."
-    arj "Well, see ya'."
+    arj "嗯，再见吧"
 
 # game/code/e07/e07s07.rpy:948
 translate chinese e07s07_fail_f9d86173:
 
     # lc "No, you won't. He's leaving for good."
-    lc "No, you won't. He's leaving for good."
+    lc "不。你不会再见到他了。他要永远离开了。"
 
 # game/code/e07/e07s07.rpy:950
 translate chinese e07s07_fail_266e6882:
 
     # arj "Oh, well, then... Bye."
-    arj "Oh, well, then... Bye."
+    arj "哦，那好吧...拜拜。"
 
 # game/code/e07/e07s07.rpy:955
 translate chinese e07s07_fail_97e21f5d:
 
     # mc "You... You're not coming with me?"
-    mc "You... You're not coming with me?"
+    mc "你...你不跟我走吗？"
 
 # game/code/e07/e07s07.rpy:959
 translate chinese e07s07_fail_5727cbd1:
 
     # arj "Ha! Are you serious?"
-    arj "Ha! Are you serious?"
+    arj "哈！你是认真的吗？"
 
 # game/code/e07/e07s07.rpy:960
 translate chinese e07s07_fail_b074fb77:
 
     # arj "I mean, thank you. If it wasn't for you, I would never have found my place here."
-    arj "I mean, thank you. If it wasn't for you, I would never have found my place here."
+    arj "我是说，谢谢你。如果不是你，我永远不会在这里找到自己的位置。"
 
 # game/code/e07/e07s07.rpy:961
 translate chinese e07s07_fail_96f03fc5:
 
     # arj "But you can't honestly believe I would give up all of this for you."
-    arj "But you can't honestly believe I would give up all of this for you."
+    arj "但你不会真的相信，我会为了你放弃这一切吧。"
 
 # game/code/e07/e07s07.rpy:965
 translate chinese e07s07_fail_fef92ffc:
 
     # arj "I have a place here, [e07_mcname!t]. Once... Things may have been different."
-    arj "I have a place here, [e07_mcname!t]. Once... Things may have been different."
+    arj "我在这里有一席之地，[e07_mcname!t]。曾经...情况也许是有所不同。"
 
 # game/code/e07/e07s07.rpy:967
 translate chinese e07s07_fail_6b5e9389:
 
     # arj "But that's over now. "
-    arj "But that's over now. "
+    arj "但那已经结束了。"
 
 # game/code/e07/e07s07.rpy:972
 translate chinese e07s07_fail_cbb2dd83:
 
     # lc "Well said. That must have been very hard on you [e07_arjname!t]."
-    lc "Well said. That must have been very hard on you [e07_arjname!t]."
+    lc "说得好。这对你来说一定很艰难，[e07_arjname!t]。"
 
 # game/code/e07/e07s07.rpy:973
 translate chinese e07s07_fail_b754bf5b:
 
     # lc "I can't believe [e07_mcname!t] put you in that position."
-    lc "I can't believe [e07_mcname!t] put you in that position."
+    lc "我真不敢相信[e07_mcname!t]让你陷入那种境地。"
 
 # game/code/e07/e07s07.rpy:976
 translate chinese e07s07_fail_a4ea22d1:
 
     # mc "Wait I was just-"
-    mc "Wait I was just-"
+    mc "等等，我只是--"
 
 # game/code/e07/e07s07.rpy:979
 translate chinese e07s07_fail_c6d730e6:
 
     # lc "Just being your regular selfish self? Yes, I know."
-    lc "Just being your regular selfish self? Yes, I know."
+    lc "只是维持你平时一贯自私的样子？是的，我知道。"
 
 # game/code/e07/e07s07.rpy:980
 translate chinese e07s07_fail_79a855c7:
 
     # lc "You deserve a reward, [e07_arjname!t]."
-    lc "You deserve a reward, [e07_arjname!t]."
+    lc "你应该得到奖励，[e07_arjname!t]。"
 
 # game/code/e07/e07s07.rpy:987
 translate chinese e07s07_fail_8592b529:
 
     # lc "[e07_pbname]! Entertain us by fucking the living shit out of [e07_arjname!t] right now."
-    lc "[e07_pbname]! Entertain us by fucking the living shit out of [e07_arjname!t] right now."
+    lc "[e07_pbname]！马上把[e07_arjname!t]干得屁滚尿流，让我们开心一下。"
 
 # game/code/e07/e07s07.rpy:989
 translate chinese e07s07_fail_cd5a0425:
 
     # pb "Yes, [e07_lcname!t]. With pleasure."
-    pb "Yes, [e07_lcname!t]. With pleasure."
+    pb "遵命，[e07_lcname!t]。乐意效劳。"
 
 # game/code/e07/e07s07.rpy:992
 translate chinese e07s07_fail_37fdb69c:
 
     # lc "So, [e07_mcname!u], would you like to stay a little longer and watch the show? Or would you prefer to leave immediately?"
-    lc "So, [e07_mcname!u], would you like to stay a little longer and watch the show? Or would you prefer to leave immediately?"
+    lc "那么，[e07_mcname!u]，你是想多留一会儿看表演呢？还是想马上离开？"
 
 # game/code/e07/e07s07.rpy:997
 translate chinese e07s07_fail_043f9cf3:
 
     # mc "I suppose I could stay for a little while..."
-    mc "I suppose I could stay for a little while..."
+    mc "我想我可以再呆一会儿..."
 
 # game/code/e07/e07s07.rpy:1000
 translate chinese e07s07_fail_8126d99b:
 
     # lc "Too bad. I forbid it."
-    lc "Too bad. I forbid it."
+    lc "不可以。我不允许。"
 
 # game/code/e07/e07s07.rpy:1004
 translate chinese e07s07_fail_2bc0b6a5:
 
     # mc "Fuck no. I've seen enough."
-    mc "Fuck no. I've seen enough."
+    mc "操，才不要。我看够了。"
 
 # game/code/e07/e07s07.rpy:1007
 translate chinese e07s07_fail_6632e9c5:
 
     # lc "Good. I wasn't going to let you watch either way."
-    lc "Good. I wasn't going to let you watch either way."
+    lc "很好。反正不管你说什么，我都不会让你看的。"
 
 # game/code/e07/e07s07.rpy:1011
 translate chinese e07s07_fail_f631675f:
 
     # lc "Now get out of here before I have you physically thrown out."
-    lc "Now get out of here before I have you physically thrown out."
+    lc "在我把你扔出去之前，快给我滚。"
 
 # game/code/e07/e07s07.rpy:1013
 translate chinese e07s07_fail_3361410e:
 
     # mc "You don't have to tell me twice."
-    mc "You don't have to tell me twice."
+    mc "你都不用跟我说第二遍。"
 
 translate chinese strings:
 
     # game/code/e07/e07s07.rpy:9
     old "In the evening"
-    new "In the evening"
+    new "晚上"
 
     # game/code/e07/e07s07.rpy:183
     old "Submit and Beg for the Vasectomy"
-    new "Submit and Beg for the Vasectomy"
+    new "顺从并乞求结扎"
 
     # game/code/e07/e07s07.rpy:183
     old "Refuse and Leave"
-    new "Refuse and Leave"
+    new "拒绝并离开"
 
     # game/code/e07/e07s07.rpy:699
     old "Of course, [e07_lcname!t]"
-    new "Of course, [e07_lcname!t]"
+    new "当然，[e07_lcname!t]]"
 
     # game/code/e07/e07s07.rpy:699
     old "Hell no"
-    new "Hell no"
+    new "当然，[e07_lcname!t]"
 
     # game/code/e07/e07s07.rpy:807
     old "You have finished playing Ending #07!"
-    new "You have finished playing Ending #07!"
+    new "您已完成结局#07!"
 
     # game/code/e07/e07s07.rpy:993
     old "Stay, watch AmRose get fucked"
-    new "Stay, watch AmRose get fucked"
+    new "留下来，看爱洛丝被操"
 
     # game/code/e07/e07s07.rpy:993
     old "Just Leave"
-    new "Just Leave"
+    new "直接离开"
 
 # TODO: Translation updated at 2024-02-09 23:39
 
@@ -1954,5 +1954,5 @@ translate chinese strings:
 
     # game/code/e07/e07s07.rpy:996
     old "You have failed Ending #07!"
-    new "You have failed Ending #07!"
+    new "您未能通过结局#07!"
 
