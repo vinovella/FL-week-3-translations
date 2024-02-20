@@ -376,7 +376,7 @@ translate chinese e07s07_vasectomy_2485f494:
 translate chinese e07s07_vasectomy_e0b8fe4c:
 
     # mc "Thank you, [e07_lcname!t], for your merciful forgiveness. It shall never happen again."
-    mc "谢谢您，[e07_lcname!t]，谢谢您仁慈的宽恕。这种事再也不会发生了。
+    mc "谢谢您，[e07_lcname!t]，谢谢您仁慈的宽恕。这种事再也不会发生了。"
 
 # game/code/e07/e07s07.rpy:211
 translate chinese e07s07_vasectomy_41ec40ec:
@@ -832,7 +832,7 @@ translate chinese e07s07_vasectomy_7ece33d0:
 translate chinese e07s07_vasectomy_531c9017:
 
     # mct "I want to cum. But [e07_lcname!t] told me no. But... I can't hold it back. Oh God."
-    mct 我想射精。但是[e07_lcname!t]告诉我不行。但是...我憋不住了。哦，天啊。"
+    mct "我想射精。但是[e07_lcname!t]告诉我不行。但是...我憋不住了。哦，天啊。"
 
 # game/code/e07/e07s07.rpy:420
 translate chinese e07s07_vasectomy_82937aca:
@@ -874,7 +874,7 @@ translate chinese e07s07_vasectomy_73d35fe8:
 translate chinese e07s07_vasectomy_739ebd70:
 
     # lc "Oh yes. Fuck yes. Don't you dare hold back, [e07_pbname!t]."
-    lc "好舒服。操得我好爽。我看你敢退缩，[e07_pbname!t]。
+    lc "好舒服。操得我好爽。我看你敢退缩，[e07_pbname!t]。"
 
 # game/code/e07/e07s07.rpy:437
 translate chinese e07s07_vasectomy_f3ccaf6b:

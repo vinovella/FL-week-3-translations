@@ -1189,10 +1189,6 @@ translate spanish strings:
     old "Dahlia won't peg you."
     new "Dahlia no te pegará."
 
-# TODO: Translation updated at 2023-11-23 21:07
-
-translate spanish strings:
-
     # game/code/hints.rpy:5
     old "Make Daisy say what she wants."
     new "Haz que Daisy diga lo que quiera."
@@ -1209,17 +1205,13 @@ translate spanish strings:
     old "You have no will of you own. You are simply an extension of Dahlia."
     new "No tienes voluntad propia. Eres simplemente una extensión de Dahlia."
 
-# TODO: Translation updated at 2024-02-06 17:02
-
-translate spanish strings:
-
     # game/code/hints.rpy:5
     old "Keep your name as it is."
     new "Mantén tu nombre tal y como está."
 
     # game/code/hints.rpy:5
     old "Change your name to \"Warden\"."
-    new "Cambia tu nombre a "Warden"."
+    new "Cambia tu nombre a \"Warden\"."
 
     # game/code/hints.rpy:5
     old "Enter your own name."
@@ -1348,3 +1340,4 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
     new "Decepcionar a Lydia y ser el perdedor."
+
