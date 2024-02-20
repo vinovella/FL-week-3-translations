@@ -38,10 +38,6 @@ translate chinese strings:
     old "Endings"
     new "结尾"
 
-# TODO: Translation updated at 2022-11-19 23:17
-
-translate chinese strings:
-
     # game/code/screens/extended/screens.rpy:150
     old "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
     new "回答问卷并开始新游戏"
@@ -74,10 +70,6 @@ translate chinese strings:
     old "ENDINGS"
     new "结尾"
 
-# TODO: Translation updated at 2022-11-22 14:25
-
-translate chinese strings:
-
     # game/code/screens/extended/screens.rpy:108
     old "Support us on Patreon"
     new "在Patreon上支持我们"
@@ -90,33 +82,17 @@ translate chinese strings:
     old "Quit Game"
     new "退出游戏"
 
-# TODO: Translation updated at 2023-07-05 01:05
-
-translate chinese strings:
-
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Taboo University on Steam"
     new "Wishlist Taboo University on Steam"
-
-# TODO: Translation updated at 2023-09-28 22:49
-
-translate chinese strings:
 
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
     new "Get a Lovense toy"
 
-    # game/code/screens/extended/screens.rpy:230
-    old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
-
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
-
-# TODO: Translation updated at 2024-02-18 11:58
-
-translate chinese strings:
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"

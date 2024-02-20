@@ -43,7 +43,7 @@ translate deutsch strings:
     new "Besorg dir ein Lovense-Spielzeug"
 
     # game/code/screens/extended/screens.rpy:230
-    old "Wishlist Taboo University in Steam"
+    old "Wishlist Taboo University on Steam"
     new "Wishliste Taboo University auf Steam"
 
     # game/code/screens/extended/screens.rpy:233

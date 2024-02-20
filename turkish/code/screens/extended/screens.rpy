@@ -66,32 +66,17 @@ translate turkish strings:
     old "BONUS CONTENT"
     new "BONUS İÇERİK"
 
-# TODO: Translation updated at 2023-07-05 01:13
-
-translate turkish strings:
-
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Taboo University on Steam"
     new "İstek Listesi Taboo University Steam'de"
-# TODO: Translation updated at 2023-09-28 22:56
-
-translate turkish strings:
 
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
     new "Aşk oyuncağı al"
 
-    # game/code/screens/extended/screens.rpy:230
-    old "Wishlist Taboo University in Steam"
-    new "İstek Listesi Steam'de Tabu Üniversitesi"
-
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
     new "Yeni oyunumuz Tabu Üniversitesi'ni deneyin"
-
-# TODO: Translation updated at 2024-02-18 12:02
-
-translate turkish strings:
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"

@@ -65,32 +65,18 @@ translate italian strings:
     # game/code/screens/extended/screens.rpy:335
     old "BONUS CONTENT"
     new "CONTENUTI BONUS"
-# TODO: Translation updated at 2023-07-05 01:07
-
-translate italian strings:
 
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Taboo University on Steam"
     new "Wishlist Vinovella University su Steam"
 
-# TODO: Translation updated at 2023-09-28 22:45
-
-translate italian strings:
-
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
     new "Ottieni un giocattolo Lovense"
 
-    # game/code/screens/extended/screens.rpy:230
-    old "Wishlist Taboo University in Steam"
-    new "Lista dei desideri Taboo University in Steam"
-
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
     new "Prova il nostro nuovo gioco Taboo University"
-# TODO: Translation updated at 2024-02-18 12:01
-
-translate italian strings:
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"

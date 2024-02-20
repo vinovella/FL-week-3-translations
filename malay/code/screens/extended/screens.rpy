@@ -74,10 +74,6 @@ translate malay strings:
     old "ENDINGS"
     new "PENGAKHIRAN"
 
-# TODO: Translation updated at 2023-02-01 00:18
-
-translate malay strings:
-
     # game/code/screens/extended/screens.rpy:96
     old "Support us on Patreon"
     new "Sokong kami di Patreon"
@@ -89,33 +85,18 @@ translate malay strings:
     # game/code/screens/extended/screens.rpy:98
     old "Quit Game"
     new "Henti"
-# TODO: Translation updated at 2023-07-05 01:09
-
-translate malay strings:
 
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Taboo University on Steam"
     new "Wishlist Taboo University on Steam"
 
-# TODO: Translation updated at 2023-09-28 22:52
-
-translate malay strings:
-
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
     new "Get a Lovense toy"
 
-    # game/code/screens/extended/screens.rpy:230
-    old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
-
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
-
-# TODO: Translation updated at 2024-02-18 12:07
-
-translate malay strings:
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"

@@ -69,34 +69,18 @@ translate portuguese strings:
     # game/code/screens/extended/screens.rpy:298
     old "ENDINGS"
     new "FINAIS"
-# TODO: Translation updated at 2023-07-05 01:10
-
-translate portuguese strings:
 
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Taboo University on Steam"
     new "Ponha Taboo University na Lista de Desejos da Steam"
 
-# TODO: Translation updated at 2023-09-28 22:47
-
-translate portuguese strings:
-
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
     new "Compre um brinquedo Lovense"
 
-    # game/code/screens/extended/screens.rpy:230
-    old "Wishlist Taboo University in Steam"
-    new "Ponha Taboo University na Lista de Desejos da Steam"
-
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
     new "Teste nosso novo jogo Taboo University"
-
-
-# TODO: Translation updated at 2024-02-17 14:11
-
-translate portuguese strings:
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"

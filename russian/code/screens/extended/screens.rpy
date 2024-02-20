@@ -70,33 +70,17 @@ translate russian strings:
     old "ENDINGS"
     new "КОНЦОВКИ"
 
-# TODO: Translation updated at 2023-07-03 00:02
-
-translate russian strings:
-
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Taboo University on Steam"
     new "Добавить Taboo University в список желаемого в Steam"
-
-# TODO: Translation updated at 2023-09-28 22:53
-
-translate russian strings:
 
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
     new "Get a Lovense toy"
 
-    # game/code/screens/extended/screens.rpy:230
-    old "Wishlist Taboo University in Steam"
-    new "Wishlist Taboo University in Steam"
-
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
     new "Try our new game Taboo University"
-
-# TODO: Translation updated at 2024-02-18 12:08
-
-translate russian strings:
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"
