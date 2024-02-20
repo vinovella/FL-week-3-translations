@@ -328,7 +328,7 @@ translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "33. Full House"
-    new "Tam Ev"
+    new "33. Tam Ev"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Play with all the characters in e04"
