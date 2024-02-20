@@ -772,211 +772,211 @@ translate chinese e07s06_sneak_attack_ee667e1a:
 translate chinese e07s06_sneak_attack_af8d4e50:
 
     # mct "Gross, gross, gross!"
-    mct "Gross, gross, gross!"
+    mct "恶心，恶心，恶心！"
 
 # game/code/e07/e07s06.rpy:407
 translate chinese e07s06_sneak_attack_c45754e2:
 
     # mct "But... now I can relax. There is no way Pete recovers from that"
-    mct "But... now I can relax. There is no way Pete recovers from that"
+    mct "不过...现在我可以放心了。皮特是不可能恢复过来的。"
 
 # game/code/e07/e07s06.rpy:414
 translate chinese e07s06_sneak_attack_0c054906:
 
     # mc "Phew."
-    mc "Phew."
+    mc "呼。"
 
 # game/code/e07/e07s06.rpy:417
 translate chinese e07s06_sneak_attack_00a8867c:
 
     # lc "Sounds like it's time for an inspection again."
-    lc "Sounds like it's time for an inspection again."
+    lc "听起来又到了检查的时候了。"
 
 # game/code/e07/e07s06.rpy:422
 translate chinese e07s06_sneak_attack_34b542b0:
 
     # lc "Really. You could only give me three shots?"
-    lc "Really. You could only give me three shots?"
+    lc "真的吗？你只能给我来上三发？"
 
 # game/code/e07/e07s06.rpy:425
 translate chinese e07s06_sneak_attack_ea99e9a2:
 
     # pb "I would if someone didn't-"
-    pb "I would if someone didn't-"
+    pb "我会更能战，如果不是有人--"
 
 # game/code/e07/e07s06.rpy:428
 translate chinese e07s06_sneak_attack_35610fc3:
 
     # lc "Put a lid on it. You're done."
-    lc "Put a lid on it. You're done."
+    lc "到此为止。你的挑战结束了。"
 
 # game/code/e07/e07s06.rpy:431
 translate chinese e07s06_sneak_attack_c9b771e7:
 
     # lc "Mrmmm. You outdid yourself today, [e07_mcname!t]."
-    lc "Mrmmm. You outdid yourself today, [e07_mcname!t]."
+    lc "哼嗯。你今天做得很好，[e07_mcname!t]。"
 
 # game/code/e07/e07s06.rpy:435
 translate chinese e07s06_sneak_attack_fade1089:
 
     # mc "Eeep!"
-    mc "Eeep!"
+    mc "咿呀！"
 
 # game/code/e07/e07s06.rpy:438
 translate chinese e07s06_sneak_attack_87909d55:
 
     # lc "Problem?"
-    lc "Problem?"
+    lc "有问题吗？"
 
 # game/code/e07/e07s06.rpy:441
 translate chinese e07s06_sneak_attack_b2a6f458:
 
     # mc "No, [e07_lcname!t]. Just still a little sensitive."
-    mc "No, [e07_lcname!t]. Just still a little sensitive."
+    mc "没有，[e07_lcname!t]。只是还有点敏感。"
 
 # game/code/e07/e07s06.rpy:444
 translate chinese e07s06_sneak_attack_4c60cd1d:
 
     # lc "Ah... Would a kiss make it better?"
-    lc "Ah... Would a kiss make it better?"
+    lc "啊...亲一下会好些吗？"
 
 # game/code/e07/e07s06.rpy:448
 translate chinese e07s06_sneak_attack_c5b1414e:
 
     # lc "Watching you get sucked dry through that hole got me a little wet, [e07_mcname!t]."
-    lc "Watching you get sucked dry through that hole got me a little wet, [e07_mcname!t]."
+    lc "看着你从那个洞里被吸干，我有点湿了，[e07_mcname!t]。"
 
 # game/code/e07/e07s06.rpy:457
 translate chinese e07s06_no_cheating_1336a4fa:
 
     # mct "No. I'm not sticking my finger up some guy's ass."
-    mct "No. I'm not sticking my finger up some guy's ass."
+    mct "不，我才不要把手指插进别人的屁眼里。"
 
 # game/code/e07/e07s06.rpy:458
 translate chinese e07s06_no_cheating_1c7ee786:
 
     # mct "I just have to win the old-fashioned way."
-    mct "I just have to win the old-fashioned way."
+    mct "我只能用老办法赢。"
 
 # game/code/e07/e07s06.rpy:460
 translate chinese e07s06_no_cheating_8c11b5df:
 
     # mct "I just have to-"
-    mct "I just have to-"
+    mct "我只需要--"
 
 # game/code/e07/e07s06.rpy:463
 translate chinese e07s06_no_cheating_2cc052a2:
 
     # mc "*groaning* Huah... fuck."
-    mc "*groaning* Huah... fuck."
+    mc "*呻吟* 哈啊...操。"
 
 # game/code/e07/e07s06.rpy:466
 translate chinese e07s06_no_cheating_e86977de:
 
     # mc "*panting*"
-    mc "*panting*"
+    mc "*喘气*"
 
 # game/code/e07/e07s06.rpy:469
 translate chinese e07s06_no_cheating_9449bed0:
 
     # mc "Oh no. Oh shit. God that felt so good. But I-"
-    mc "Oh no. Oh shit. God that felt so good. But I-"
+    mc "哦不不不。哦，该死。天啊，感觉真好。但我--"
 
 # game/code/e07/e07s06.rpy:472
 translate chinese e07s06_no_cheating_af02c61a:
 
     # lc "Alright, pull out, [e07_mcname!t]."
-    lc "Alright, pull out, [e07_mcname!t]."
+    lc "好了，拔出来，[e07_mcname!t]。"
 
 # game/code/e07/e07s06.rpy:482
 translate chinese e07s06_no_cheating_1bda2884:
 
     # lc "Hands off, [e07_mcname!t]."
-    lc "Hands off, [e07_mcname!t]."
+    lc "把手拿开，[e07_mcname!t]。"
 
 # game/code/e07/e07s06.rpy:485
 translate chinese e07s06_no_cheating_84d9991b:
 
     # mc "Yes..."
-    mc "Yes..."
+    mc "好..."
 
 # game/code/e07/e07s06.rpy:488
 translate chinese e07s06_no_cheating_625becb0:
 
     # lc "Ahhh, poor little guy."
-    lc "Ahhh, poor little guy."
+    lc "噢噢噢，可怜的小家伙。"
 
 # game/code/e07/e07s06.rpy:492
 translate chinese e07s06_no_cheating_36a40b71:
 
     # lc "Time's up."
-    lc "Time's up."
+    lc "时间到。"
 
 # game/code/e07/e07s06.rpy:495
 translate chinese e07s06_no_cheating_b4259987:
 
     # lc "Mrmmmm."
-    lc "Mrmmmm."
+    lc "嗯哼。"
 
 # game/code/e07/e07s06.rpy:498
 translate chinese e07s06_no_cheating_083a5d6c:
 
     # pb "Nrrrnnn..."
-    pb "Nrrrnnn..."
+    pb "啊啊啊..."
 
 # game/code/e07/e07s06.rpy:501
 translate chinese e07s06_no_cheating_ad436469:
 
     # lc "Haha. Looks like you're the only one left, [e07_pbname!t]."
-    lc "Haha. Looks like you're the only one left, [e07_pbname!t]."
+    lc "哈哈。看来只剩你一个了，[e07_pbname!t]。"
 
 # game/code/e07/e07s06.rpy:504
 translate chinese e07s06_no_cheating_30fce10f:
 
     # pb "Yes, [e07_lcname!t]."
-    pb "Yes, [e07_lcname!t]."
+    pb "是的，[e07_lcname!t]。"
 
 # game/code/e07/e07s06.rpy:507
 translate chinese e07s06_no_cheating_b005afb4:
 
     # lc "Well it is very obvious, we have a winner. I really thought you'd do better, [e07_mcname!t]."
-    lc "Well it is very obvious, we have a winner. I really thought you'd do better, [e07_mcname!t]."
+    lc "很明显，我们有赢家了。我真的以为你会做得更好，[e07_mcname!t]。"
 
 # game/code/e07/e07s06.rpy:511
 translate chinese e07s06_no_cheating_d0242c25:
 
     # lc "Well if it makes you feel better, you're still doing quite well in our little competition here."
-    lc "Well if it makes you feel better, you're still doing quite well in our little competition here."
+    lc "好吧，如果这能让你感觉好点的话，你在我们的小比赛中表现得还是不错的。"
 
 # game/code/e07/e07s06.rpy:513
 translate chinese e07s06_no_cheating_daa07fe0:
 
     # mc "Thank you, [e07_lcname!t]."
-    mc "Thank you, [e07_lcname!t]."
+    mc "谢谢您，[e07_lcname!t]."
 
 # game/code/e07/e07s06.rpy:517
 translate chinese e07s06_no_cheating_ecc47815:
 
     # lc "You really need to think about putting in more of an effort."
-    lc "You really need to think about putting in more of an effort."
+    lc "你真的需要考虑投入更多的努力。"
 
 # game/code/e07/e07s06.rpy:518
 translate chinese e07s06_no_cheating_577d9375:
 
     # lc "Or maybe you're tired of trying to win my favor."
-    lc "Or maybe you're tired of trying to win my favor."
+    lc "或者你已经厌倦了博取我的欢心。"
 
 # game/code/e07/e07s06.rpy:521
 translate chinese e07s06_no_cheating_8da5f2d5:
 
     # mc "Not at all, [e07_lcname!t]. I love you and I'll do anything to be with you."
-    mc "Not at all, [e07_lcname!t]. I love you and I'll do anything to be with you."
+    mc "一点也不，[e07_lcname!t]。我爱你，只要能和你在一起，我什么都愿意做。"
 
 # game/code/e07/e07s06.rpy:524
 translate chinese e07s06_no_cheating_6a8a88d9:
 
     # mc "But the girl I was dealing with, she had the throat of a succubus."
-    mc "But the girl I was dealing with, she had the throat of a succubus."
+    mc "但是我对面的那个女孩，她的喉咙像个女妖精一样。"
 
 # game/code/e07/e07s06.rpy:526
 translate chinese e07s06_no_cheating_8882cc1f:
@@ -988,343 +988,343 @@ translate chinese e07s06_no_cheating_8882cc1f:
 translate chinese e07s06_no_cheating_d2e9ac07:
 
     # lc "Well..."
-    lc "Well..."
+    lc "嗯..."
 
 # game/code/e07/e07s06.rpy:533
 translate chinese e07s06_no_cheating_7c927b78:
 
     # mc "Yes?"
-    mc "Yes?"
+    mc "您想说什么？"
 
 # game/code/e07/e07s06.rpy:536
 translate chinese e07s06_no_cheating_ec032ccc:
 
     # lc "That was your third loss. What do you have to say for yourself?"
-    lc "That was your third loss. What do you have to say for yourself?"
+    lc "这是你第三次失利。你有什么要说的吗？"
 
 # game/code/e07/e07s06.rpy:539
 translate chinese e07s06_no_cheating_c78d7691:
 
     # mc "I... I don't know. Usually I have no problem going longer."
-    mc "I... I don't know. Usually I have no problem going longer."
+    mc "我...我不知道。通常情况下，我完全可以坚持更长的时间。"
 
 # game/code/e07/e07s06.rpy:540
 translate chinese e07s06_no_cheating_9d34edb1:
 
     # mc "But that last girl... it felt like she was draining my soul."
-    mc "But that last girl... it felt like she was draining my soul."
+    mc "但最后那个女孩...感觉她在榨干我的灵魂。"
 
 # game/code/e07/e07s06.rpy:543
 translate chinese e07s06_no_cheating_ebf5bfee:
 
     # lc "I'll be sure to pass along your compliments."
-    lc "I'll be sure to pass along your compliments."
+    lc "我一定会转达你的赞美。"
 
 # game/code/e07/e07s06.rpy:544
 translate chinese e07s06_no_cheating_b0e5fb1b:
 
     # lc "But that's a real shame. I thought you wanted to give your soul and your love to me."
-    lc "But that's a real shame. I thought you wanted to give your soul and your love to me."
+    lc "但这真是太遗憾了。我还以为你想把你的灵魂和爱献给我呢。"
 
 # game/code/e07/e07s06.rpy:547
 translate chinese e07s06_no_cheating_e5fe76cd:
 
     # mc "I did - I mean I do. I'll do better, I promise."
-    mc "I did - I mean I do. I'll do better, I promise."
+    mc "我是想这样--我是真心的。我会做得更好的，我保证。"
 
 # game/code/e07/e07s06.rpy:550
 translate chinese e07s06_no_cheating_55043801:
 
     # lc "Hmmmph."
-    lc "Hmmmph."
+    lc "嗯哼。"
 
 # game/code/e07/e07s06.rpy:559
 translate chinese e07s06_bonus_challange_53db682f:
 
     # lc "Hmmm."
-    lc "Hmmm."
+    lc "嗯。"
 
 # game/code/e07/e07s06.rpy:563
 translate chinese e07s06_bonus_challange_87488575:
 
     # lc "It looks like you have a chance to get an extra point."
-    lc "It looks like you have a chance to get an extra point."
+    lc "看来你有机会获得额外的分数。"
 
 # game/code/e07/e07s06.rpy:564
 translate chinese e07s06_bonus_challange_f5d7285b:
 
     # lc "If you're interested, [e07_mcname!t]."
-    lc "If you're interested, [e07_mcname!t]."
+    lc "如果你有兴趣的话，[e07_mcname!t]。"
 
 # game/code/e07/e07s06.rpy:566
 translate chinese e07s06_bonus_challange_703954a8:
 
     # lc "Well, it seems like fortune smiles on you, [e07_mcname!t]."
-    lc "Well, it seems like fortune smiles on you, [e07_mcname!t]."
+    lc "看来幸运之神在向你微笑，[e07_mcname!t]。"
 
 # game/code/e07/e07s06.rpy:567
 translate chinese e07s06_bonus_challange_741bc6ac:
 
     # lc "There is a chance for you to make up the point you lost."
-    lc "There is a chance for you to make up the point you lost."
+    lc "你有机会弥补你失去的分数。"
 
 # game/code/e07/e07s06.rpy:570
 translate chinese e07s06_bonus_challange_071d77d9:
 
     # mc "What would I have to do?"
-    mc "What would I have to do?"
+    mc "我要怎么做？"
 
 # game/code/e07/e07s06.rpy:577
 translate chinese e07s06_bonus_challange_a3247fa7:
 
     # lc "Watch."
-    lc "Watch."
+    lc "看着。"
 
 # game/code/e07/e07s06.rpy:581
 translate chinese e07s06_bonus_challange_3babf0ed:
 
     # mc "That's definitely not a gopher."
-    mc "That's definitely not a gopher."
+    mc "你绝对不会想让我当个地鼠。"
 
 # game/code/e07/e07s06.rpy:584
 translate chinese e07s06_bonus_challange_6c6daf62:
 
     # lc "Haha. No, it's not."
-    lc "Haha. No, it's not."
+    lc "哈哈哈。是的，不会的。"
 
 # game/code/e07/e07s06.rpy:589
 translate chinese e07s06_bonus_challange_a7d41684:
 
     # lc "Ooooh, someone is excited."
-    lc "Ooooh, someone is excited."
+    lc "哦哦，有人很兴奋啊。"
 
 # game/code/e07/e07s06.rpy:597
 translate chinese e07s06_bonus_challange_ac039d4e:
 
     # lc "Glrrrphh... mrrrhpphh..."
-    lc "Glrrrphh... mrrrhpphh..."
+    lc "啊啊啊啊......唔唔唔......"
 
 # game/code/e07/e07s06.rpy:600
 translate chinese e07s06_bonus_challange_1313656b:
 
     # mct "[e07_lcname!t]. You're so hot... but... do you really have to do this to me?"
-    mct "[e07_lcname!t]. You're so hot... but... do you really have to do this to me?"
+    mct "[e07_lcname!t]。你真性感...但是...你真的要这样对我吗？"
 
 # game/code/e07/e07s06.rpy:602
 translate chinese e07s06_bonus_challange_3c9a420d:
 
     # lc "*lewd sucking*"
-    lc "*lewd sucking*"
+    lc "*淫荡的吸吮*"
 
 # game/code/e07/e07s06.rpy:605
 translate chinese e07s06_bonus_challange_aff16444:
 
     # mct "Fuck. This is getting worse and worse!"
-    mct "Fuck. This is getting worse and worse!"
+    mct "操。情况越来越糟了！"
 
 # game/code/e07/e07s06.rpy:612
 translate chinese e07s06_bonus_challange_787ff6f8:
 
     # lc "Now it's your turn, [e07_mcname!t]."
-    lc "Now it's your turn, [e07_mcname!t]."
+    lc "现在轮到你了，[e07_mcname!t]。"
 
 # game/code/e07/e07s06.rpy:615
 translate chinese e07s06_bonus_challange_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/e07/e07s06.rpy:619
 translate chinese e07s06_bonus_challange_345c9f8c:
 
     # lc "Relieve them, and I'll give you an extra point."
-    lc "Relieve them, and I'll give you an extra point."
+    lc "帮她们解脱，我就给你加一分。"
 
 # game/code/e07/e07s06.rpy:621
 translate chinese e07s06_bonus_challange_2e29ebec:
 
     # lc "Service our new friend, and you can make up for your earlier loss."
-    lc "Service our new friend, and you can make up for your earlier loss."
+    lc "为我们的新朋友服务，你就能弥补之前的损失。"
 
 # game/code/e07/e07s06.rpy:624
 translate chinese e07s06_bonus_challange_07361e97:
 
     # lc "Is that clear enough for you?"
-    lc "Is that clear enough for you?"
+    lc "你明白了吗？"
 
 # game/code/e07/e07s06.rpy:627
 translate chinese e07s06_bonus_challange_99241f84:
 
     # mc "Can I use my hands?"
-    mc "Can I use my hands?"
+    mc "我能用手吗？"
 
 # game/code/e07/e07s06.rpy:630
 translate chinese e07s06_bonus_challange_2d255800:
 
     # lc "Nope. I want to see those lovely lips of yours working that meat."
-    lc "Nope. I want to see those lovely lips of yours working that meat."
+    lc "不行。我想看看你那可爱的嘴唇为那块肉服务。"
 
 # game/code/e07/e07s06.rpy:633
 translate chinese e07s06_bonus_challange_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "为什么？"
 
 # game/code/e07/e07s06.rpy:636
 translate chinese e07s06_bonus_challange_79c9cb1f:
 
     # lc "Your place isn't to question, [e07_mcname!t]. I'm sure you've gotten horny watching me have fun with other girls."
-    lc "Your place isn't to question, [e07_mcname!t]. I'm sure you've gotten horny watching me have fun with other girls."
+    lc "你没资格提出问题，[e07_mcname!t]。我相信，看着我和其他女孩玩得开心，你也会欲火焚身的。"
 
 # game/code/e07/e07s06.rpy:639
 translate chinese e07s06_bonus_challange_7bb86db6:
 
     # lc "But if you're not interested in my little bonus challenge, just say so."
-    lc "But if you're not interested in my little bonus challenge, just say so."
+    lc "但如果你对我的奖金挑战不感兴趣，就直说吧。"
 
 # game/code/e07/e07s06.rpy:640
 translate chinese e07s06_bonus_challange_23212e3e:
 
     # lc "Still, can you afford to pass up the chance?"
-    lc "Still, can you afford to pass up the chance?"
+    lc "不过，你能承受放弃这个机会的代价吗？"
 
 # game/code/e07/e07s06.rpy:654
 translate chinese e07s06_suck_dick_74103180:
 
     # mc "Alright. All's fair in love and war."
-    mc "Alright. All's fair in love and war."
+    mc "好吧。爱情和战争都要不择手段。"
 
 # game/code/e07/e07s06.rpy:655
 translate chinese e07s06_suck_dick_9eb0da8c:
 
     # mct "I can't believe I'm doing this. But if it gets me closer to getting [e07_lcname!t] at the end of all this, it will be worth it."
-    mct "I can't believe I'm doing this. But if it gets me closer to getting [e07_lcname!t] at the end of all this, it will be worth it."
+    mct "真不敢相信我会这么做。但如果这能让我在这一切结束时更接近[e07_lcname!t]，那就值得了。"
 
 # game/code/e07/e07s06.rpy:658
 translate chinese e07s06_suck_dick_07a67dc4:
 
     # lc "Yes, show me just how deep your love for me goes."
-    lc "Yes, show me just how deep your love for me goes."
+    lc "是的，让我看看你对我的爱有多深。"
 
 # game/code/e07/e07s06.rpy:663
 translate chinese e07s06_suck_dick_668a791a:
 
     # mct "Really wish I could use my hands."
-    mct "Really wish I could use my hands."
+    mct "真希望我能用我的双手。"
 
 # game/code/e07/e07s06.rpy:670
 translate chinese e07s06_suck_dick_57372db6:
 
     # mct "Okay I did it. I actually have a cock in my mouth."
-    mct "Okay I did it. I actually have a cock in my mouth."
+    mct "好，我做到了。我真的把鸡巴含在嘴里了。"
 
 # game/code/e07/e07s06.rpy:671
 translate chinese e07s06_suck_dick_527cec94:
 
     # mct "Holy fuck."
-    mct "Holy fuck."
+    mct "我操。"
 
 # game/code/e07/e07s06.rpy:674
 translate chinese e07s06_suck_dick_c9da72c3:
 
     # mct "Okay, shouldnt' have opened my eyes."
-    mct "Okay, shouldnt' have opened my eyes."
+    mct "好吧，不应该睁开眼睛。"
 
 # game/code/e07/e07s06.rpy:675
 translate chinese e07s06_suck_dick_f04312b5:
 
     # mct "That doesn't help at all!"
-    mct "That doesn't help at all!"
+    mct "一点用都没有！"
 
 # game/code/e07/e07s06.rpy:681
 translate chinese e07s06_suck_dick_c733159f:
 
     # mc "Mrrllphh... phrrrmhh..."
-    mc "Mrrllphh... phrrrmhh..."
+    mc "噗噗噗...唔唔唔..."
 
 # game/code/e07/e07s06.rpy:683
 translate chinese e07s06_suck_dick_b35ce579:
 
     # lc "Mrmmm...."
-    lc "Mrmmm...."
+    lc "哼嗯嗯..."
 
 # game/code/e07/e07s06.rpy:686
 translate chinese e07s06_suck_dick_51c143b1:
 
     # lc "There is really isn't a line you won't cross for me."
-    lc "There is really isn't a line you won't cross for me."
+    lc "为了我，你真的没有过不去的坎。"
 
 # game/code/e07/e07s06.rpy:687
 translate chinese e07s06_suck_dick_f5c3be8a:
 
     # lc "It's truly inspiring."
-    lc "It's truly inspiring."
+    lc "这让我很振奋啊。"
 
 # game/code/e07/e07s06.rpy:690
 translate chinese e07s06_suck_dick_e7196ca4:
 
     # mct "Oh shit. They're getting close."
-    mct "Oh shit. They're getting close."
+    mct "妈的。她们要来了。"
 
 # game/code/e07/e07s06.rpy:694
 translate chinese e07s06_suck_dick_635f25d9:
 
     # mc "They're going to cum."
-    mc "They're going to cum."
+    mc "她们要喷了。"
 
 # game/code/e07/e07s06.rpy:695
 translate chinese e07s06_suck_dick_f39b524c:
 
     # mc "Can I-"
-    mc "Can I-"
+    mc "我可以--"
 
 # game/code/e07/e07s06.rpy:701
 translate chinese e07s06_suck_dick_5693a819:
 
     # mc "Huh..."
-    mc "Huh..."
+    mc "哈..."
 
 # game/code/e07/e07s06.rpy:705
 translate chinese e07s06_suck_dick_3132e9f5:
 
     # lc "Well done, [e07_mcname!t]. Full marks."
-    lc "Well done, [e07_mcname!t]. Full marks."
+    lc "干得好，[e07_mcname!t]。满分。"
 
 # game/code/e07/e07s06.rpy:706
 translate chinese e07s06_suck_dick_55b23fb7:
 
     # lc "Hahaha."
-    lc "Hahaha."
+    lc "哈哈哈。"
 
 # game/code/e07/e07s06.rpy:709
 translate chinese e07s06_suck_dick_224894ff:
 
     # lc "[e07_arjname!t], clean him up, and give him a happy ending."
-    lc "[e07_arjname!t], clean him up, and give him a happy ending."
+    lc "[e07_arjname!t]，把他清理干净，给他一个美好的结局。"
 
 # game/code/e07/e07s06.rpy:710
 translate chinese e07s06_suck_dick_ed723c3b:
 
     # lc "[e07_mcname!t] deserves it."
-    lc "[e07_mcname!t] deserves it."
+    lc "这是[e07_mcname!t]他应得的。"
 
 # game/code/e07/e07s06.rpy:714
 translate chinese e07s06_suck_dick_ec3786a7:
 
     # arj "Are you okay?"
-    arj "Are you okay?"
+    arj "你还好吗？"
 
 # game/code/e07/e07s06.rpy:717
 translate chinese e07s06_suck_dick_ee3f096c:
 
     # mc "Yeah. It's just uh... well I didn't know I'd ever do that."
-    mc "Yeah. It's just uh... well I didn't know I'd ever do that."
+    mc "嗯，只是...呃，我不知道我会那样做。"
 
 # game/code/e07/e07s06.rpy:718
 translate chinese e07s06_suck_dick_334699dc:
 
     # mc "Before I met her..."
-    mc "Before I met her..."
+    mc "在我遇到她之前..."
 
 # game/code/e07/e07s06.rpy:722
 translate chinese e07s06_suck_dick_4cd44184:
@@ -1336,31 +1336,31 @@ translate chinese e07s06_suck_dick_4cd44184:
 translate chinese e07s06_suck_dick_72f1e434:
 
     # lc "What's keeping you. Come on, [e07_arjname!t]."
-    lc "What's keeping you. Come on, [e07_arjname!t]."
+    lc "什么事耽搁你了？快点，[e07_arjname!t]。"
 
 # game/code/e07/e07s06.rpy:728
 translate chinese e07s06_suck_dick_e9d85557:
 
     # mc "Ahuaah..."
-    mc "Ahuaah..."
+    mc "啊哈..."
 
 # game/code/e07/e07s06.rpy:737
 translate chinese e07s06_suck_dick_e1feba3a:
 
     # arj "*light panting*"
-    arj "*light panting*"
+    arj "*轻轻喘气*"
 
 # game/code/e07/e07s06.rpy:739
 translate chinese e07s06_suck_dick_7262ca3a:
 
     # mct "Mrmmm. Feels good having AmRose's hands on me."
-    mct "Mrmmm. Feels good having AmRose's hands on me."
+    mct "嗯嗯。爱洛丝的手放在我身上感觉真好。"
 
 # game/code/e07/e07s06.rpy:740
 translate chinese e07s06_suck_dick_95d1eb15:
 
     # mct "Those other girls were fucking ravenous."
-    mct "Those other girls were fucking ravenous."
+    mct "其他那些女孩真他妈饥渴。"
 
 # game/code/e07/e07s06.rpy:743
 translate chinese e07s06_suck_dick_2b35b6fe:
@@ -1372,177 +1372,177 @@ translate chinese e07s06_suck_dick_2b35b6fe:
 translate chinese e07s06_suck_dick_520f4a5f:
 
     # mc "Uh, is something wrong?"
-    mc "Uh, is something wrong?"
+    mc "呃，有什么问题吗？"
 
 # game/code/e07/e07s06.rpy:748
 translate chinese e07s06_suck_dick_c3cca7c0:
 
     # arj "No. Why would anything be wrong?"
-    arj "No. Why would anything be wrong?"
+    arj "没有，怎么会有问题呢？"
 
 # game/code/e07/e07s06.rpy:751
 translate chinese e07s06_suck_dick_b979a29b:
 
     # mc "I don't know. Just... feels different."
-    mc "I don't know. Just... feels different."
+    mc "我不知道。只是...感觉不一样了。"
 
 # game/code/e07/e07s06.rpy:754
 translate chinese e07s06_suck_dick_53db682f:
 
     # lc "Hmmm."
-    lc "Hmmm."
+    lc "嗯。"
 
 # game/code/e07/e07s06.rpy:757
 translate chinese e07s06_suck_dick_af8a0916:
 
     # arj "It must be your imagination."
-    arj "It must be your imagination."
+    arj "一定是你的想象。"
 
 # game/code/e07/e07s06.rpy:760
 translate chinese e07s06_suck_dick_8af97f0d:
 
     # lc "No, it's not his imagination, [e07_arjname!t]. A blind monkey could jerk him off better than that."
-    lc "No, it's not his imagination, [e07_arjname!t]. A blind monkey could jerk him off better than that."
+    lc "不，这不是他的想象，[e07_arjname!t]。一只瞎眼的猴子都能把他撸得比这还爽。"
 
 # game/code/e07/e07s06.rpy:764
 translate chinese e07s06_suck_dick_4e39f701:
 
     # arj "I guess I'm not in the mood."
-    arj "I guess I'm not in the mood."
+    arj "我想我现在没心情。"
 
 # game/code/e07/e07s06.rpy:767
 translate chinese e07s06_suck_dick_87914515:
 
     # lc "I will deal with you later."
-    lc "I will deal with you later."
+    lc "我待会再跟你算账。"
 
 # game/code/e07/e07s06.rpy:773
 translate chinese e07s06_suck_dick_0a34a026:
 
     # lc "*lewd kissing* Let me kiss it and make it better."
-    lc "*lewd kissing* Let me kiss it and make it better."
+    lc "*淫荡的亲吻* 让我亲亲它，让它好受点。"
 
 # game/code/e07/e07s06.rpy:776
 translate chinese e07s06_suck_dick_cb7335c6:
 
     # mct "Oh my god. This is perfect after everything today"
-    mct "Oh my god. This is perfect after everything today"
+    mct "我的天啊。在经历了今天的一切之后，这真是太完美了。"
 
 # game/code/e07/e07s06.rpy:779
 translate chinese e07s06_suck_dick_2b8a1132:
 
     # mct "All these challenges, I must be doing something right."
-    mct "All these challenges, I must be doing something right."
+    mct "经历了这么多挑战，我一定做对了什么。"
 
 # game/code/e07/e07s06.rpy:783
 translate chinese e07s06_suck_dick_3e59542a:
 
     # mct "[e07_lcname!t] must be finally ready to truly accept me."
-    mct "[e07_lcname!t] must be finally ready to truly accept me."
+    mct "[e07_lcname!t]一定是终于准备好真正接受我了。"
 
 # game/code/e07/e07s06.rpy:787
 translate chinese e07s06_suck_dick_d64b91c1:
 
     # mc "[e07_lcname!t]. I'm... I'm going to-"
-    mc "[e07_lcname!t]. I'm... I'm going to-"
+    mc "[e07_lcname!t]。我...我要--"
 
 # game/code/e07/e07s06.rpy:791
 translate chinese e07s06_suck_dick_610b9d0e:
 
     # mct "Huh?"
-    mct "Huh?"
+    mct "啊？"
 
 # game/code/e07/e07s06.rpy:797
 translate chinese e07s06_suck_dick_0ee8f5d8:
 
     # lc "Tsk, tsk, tsk. I don't think so, [e07_mcname!t]."
-    lc "Tsk, tsk, tsk. I don't think so, [e07_mcname!t]."
+    lc "啧，啧，啧。我不这么认为，[e07_mcname!t]。"
 
 # game/code/e07/e07s06.rpy:800
 translate chinese e07s06_suck_dick_89b976fc:
 
     # mc "Mrrrhhaaa-huaak."
-    mc "Mrrrhhaaa-huaak."
+    mc "唔啊啊啊--哈啊。"
 
 # game/code/e07/e07s06.rpy:801
 translate chinese e07s06_suck_dick_2876efd9:
 
     # mc "Why?"
-    mc "Why?"
+    mc "为什么？"
 
 # game/code/e07/e07s06.rpy:805
 translate chinese e07s06_suck_dick_a61a9efc:
 
     # lc "I never said if you sucked cock that you'd get to cum, [e07_mcname!t]."
-    lc "I never said if you sucked cock that you'd get to cum, [e07_mcname!t]."
+    lc "我从没说过你给人口交就能射精，[e07_mcname!t]."
 
 # game/code/e07/e07s06.rpy:809
 translate chinese e07s06_suck_dick_f28ca4b6:
 
     # lc "But, don't worry."
-    lc "But, don't worry."
+    lc "不过，不用担心。"
 
 # game/code/e07/e07s06.rpy:813
 translate chinese e07s06_suck_dick_e2b524b2:
 
     # lc "Your {i}reward{/i} is coming. Have no fear about that."
-    lc "Your {i}reward{/i} is coming. Have no fear about that."
+    lc "你的{i}奖励{/i}就要来了。别担心。"
 
 # game/code/e07/e07s06.rpy:816
 translate chinese e07s06_suck_dick_c6e8dfb0:
 
     # mc "Okay... That's... that's good, at least."
-    mc "Okay... That's... that's good, at least."
+    mc "好吧。至少...这消息还不错。"
 
 # game/code/e07/e07s06.rpy:819
 translate chinese e07s06_suck_dick_a8c0eb5c:
 
     # lc "Now, come along. I have a busy evening planned, and it doesn't involve staying in this stinking space any longer."
-    lc "Now, come along. I have a busy evening planned, and it doesn't involve staying in this stinking space any longer."
+    lc "现在，走吧。今晚我有个忙碌的计划，可不能再待在这个臭烘烘的地方了。"
 
 # game/code/e07/e07s06.rpy:831
 translate chinese e07s06_no_bj_fa446c0c:
 
     # lc "I thought you'd want the extra point."
-    lc "I thought you'd want the extra point."
+    lc "我以为你想要加分。"
 
 # game/code/e07/e07s06.rpy:834
 translate chinese e07s06_no_bj_7aeb23d0:
 
     # mc "Not that badly."
-    mc "Not that badly."
+    mc "没那么想。"
 
 # game/code/e07/e07s06.rpy:837
 translate chinese e07s06_no_bj_b68fb241:
 
     # lc "Suit yourself."
-    lc "Suit yourself."
+    lc "随便你。"
 
 # game/code/e07/e07s06.rpy:840
 translate chinese e07s06_no_bj_ddb30cbb:
 
     # lc "Come along, my studs. We're done playing with the holes."
-    lc "Come along, my studs. We're done playing with the holes."
+    lc "来吧，我的种马。我们不玩洞了。"
 
 translate chinese strings:
 
     # game/code/e07/e07s06.rpy:7
     old "A couple days later"
-    new "A couple days later"
+    new "几天后"
 
     # game/code/e07/e07s06.rpy:377
     old "Cheat with a sneak attack"
-    new "Cheat with a sneak attack"
+    new "靠偷袭赢得比赛"
 
     # game/code/e07/e07s06.rpy:377
     old "Don't cheat"
-    new "Don't cheat"
+    new "不作弊"
 
     # game/code/e07/e07s06.rpy:641
     old "Suck the dick for Lydia"
-    new "Suck the dick for Lydia"
+    new "为莉迪亚吹箫"
 
     # game/code/e07/e07s06.rpy:641
     old "Don't suck the dick"
-    new "Don't suck the dick"
+    new "不舔鸡巴"
 
