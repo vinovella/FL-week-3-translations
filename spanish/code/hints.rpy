@@ -1147,47 +1147,47 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "You will end up fucking Vanessa in the asshole."
-    new "You will end up fucking Vanessa in the asshole."
+    new "Terminarás follándote a Vanessa por el culo."
 
     # game/code/hints.rpy:5
     old "You will skip to the blowjob."
-    new "You will skip to the blowjob."
+    new "Pasarás a la mamada."
 
     # game/code/hints.rpy:5
     old "Vanessa gets you nice and hard with her lovely feet."
-    new "Vanessa gets you nice and hard with her lovely feet."
+    new "Vanessa te la pone dura con sus preciosos pies."
 
     # game/code/hints.rpy:5
     old "Mark both redheads with your piss."
-    new "Mark both redheads with your piss."
+    new "Marca a las dos pelirrojas con tu orina."
 
     # game/code/hints.rpy:5
     old "Continue to threesome scene."
-    new "Continue to threesome scene."
+    new "Continúa con la escena del trío."
 
     # game/code/hints.rpy:5
     old "Debbie will join you for some action later."
-    new "Debbie will join you for some action later."
+    new "Debbie se unirá a ti para un poco de acción más tarde."
 
     # game/code/hints.rpy:5
     old "Debbie will not join you later."
-    new "Debbie will not join you later."
+    new "Debbie no se unirá a ti más tarde."
 
     # game/code/hints.rpy:5
     old "Polly and Nora will get in on the action."
-    new "Polly and Nora will get in on the action."
+    new "Polly y Nora entrarán en acción."
 
     # game/code/hints.rpy:5
     old "There still might be someone for Debbie in the cafe."
-    new "There still might be someone for Debbie in the cafe."
+    new "Todavía podría haber alguien para Debbie en el café."
 
     # game/code/hints.rpy:5
     old "Dahlia will peg you."
-    new "Dahlia will peg you."
+    new "Dahlia te pegará."
 
     # game/code/hints.rpy:5
     old "Dahlia won't peg you."
-    new "Dahlia won't peg you."
+    new "Dahlia no te pegará."
 
 # TODO: Translation updated at 2023-11-23 21:07
 
@@ -1195,19 +1195,19 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Make Daisy say what she wants."
-    new "Make Daisy say what she wants."
+    new "Haz que Daisy diga lo que quiera."
 
     # game/code/hints.rpy:5
     old "Give Daisy what she wants."
-    new "Give Daisy what she wants."
+    new "Dale a Daisy lo que quiere."
 
     # game/code/hints.rpy:5
     old "Tell your Mistress you desperately want to impregnate her."
-    new "Tell your Mistress you desperately want to impregnate her."
+    new "Dile a tu Ama que deseas desesperadamente embarazarla."
 
     # game/code/hints.rpy:5
     old "You have no will of you own. You are simply an extension of Dahlia."
-    new "You have no will of you own. You are simply an extension of Dahlia."
+    new "No tienes voluntad propia. Eres simplemente una extensión de Dahlia."
 
 # TODO: Translation updated at 2024-02-06 17:02
 
@@ -1215,136 +1215,136 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Keep your name as it is."
-    new "Keep your name as it is."
+    new "Mantén tu nombre tal y como está."
 
     # game/code/hints.rpy:5
     old "Change your name to \"Warden\"."
-    new "Change your name to \"Warden\"."
+    new "Cambia tu nombre a "Warden"."
 
     # game/code/hints.rpy:5
     old "Enter your own name."
-    new "Enter your own name."
+    new "Escriba su propio nombre."
 
     # game/code/hints.rpy:5
     old "Order Lydia to get started sucking cock."
-    new "Order Lydia to get started sucking cock."
+    new "Ordena a Lydia que empiece a chupar pollas."
 
     # game/code/hints.rpy:5
     old "Take Lydia home without making her work at the gloryhole."
-    new "Take Lydia home without making her work at the gloryhole."
+    new "Lleva a Lydia a casa sin hacerla trabajar en el agujero de la gloria."
 
     # game/code/hints.rpy:5
     old "And they lived happily ever after."
-    new "And they lived happily ever after."
+    new "Y vivieron felices para siempre."
 
     # game/code/hints.rpy:5
     old "Even a favorite toy is only happy when someone plays with it."
-    new "Even a favorite toy is only happy when someone plays with it."
+    new "Incluso un juguete favorito sólo es feliz cuando alguien juega con él."
 
     # game/code/hints.rpy:5
     old "Annihilate the last threads of Lydia's existence."
-    new "Annihilate the last threads of Lydia's existence."
+    new "Aniquilar los últimos hilos de la existencia de Lydia."
 
     # game/code/hints.rpy:5
     old "Might affect dialogue and nicknames for this ending."
-    new "Might affect dialogue and nicknames for this ending."
+    new "Podría afectar a los diálogos y sobrenombres de este final."
 
     # game/code/hints.rpy:5
     old "Uses default dialogue and nicknames for this ending."
-    new "Uses default dialogue and nicknames for this ending."
+    new "Utiliza diálogos y sobrenombres predeterminados para este final."
 
     # game/code/hints.rpy:5
     old "Might impact dialogue and nicknames for this ending."
-    new "Might impact dialogue and nicknames for this ending."
+    new "Podría afectar al diálogo y a los sobrenombres de este final."
 
     # game/code/hints.rpy:5
     old "Surrender and get kicked out of Lydia's home."
-    new "Surrender and get kicked out of Lydia's home."
+    new "Ríndete y que te desalojen de la casa de Lydia."
 
     # game/code/hints.rpy:5
     old "Drink your full and continue Lydia's contest."
-    new "Drink your full and continue Lydia's contest."
+    new "Bebe hasta hartarte y continúa el concurso de Lydia."
 
     # game/code/hints.rpy:5
     old "This is some scary shit."
-    new "This is some scary shit."
+    new "Esta mierda da miedo."
 
     # game/code/hints.rpy:5
     old "Whatever Lydia wants, I'll give it to her."
-    new "Whatever Lydia wants, I'll give it to her."
+    new "Cualquier cosa que Lydia quiera, se la daré."
 
     # game/code/hints.rpy:5
     old "Slow and steady loses the race this time."
-    new "Slow and steady loses the race this time."
+    new "Lento y constante pierde la carrera esta vez."
 
     # game/code/hints.rpy:5
     old "Give 110 percent and win the match."
-    new "Give 110 percent and win the match."
+    new "Dar el 110% y ganar el juego."
 
     # game/code/hints.rpy:5
     old "Stick your finger in Pete's ass and win the gloryhole challenge."
-    new "Stick your finger in Pete's ass and win the gloryhole challenge."
+    new "Métele el dedo en el culo a Pete y gana el desafío del agujero de la gloria."
 
     # game/code/hints.rpy:5
     old "Do your best, but eventually lose the gloryhole challenge."
-    new "Do your best, but eventually lose the gloryhole challenge."
+    new "Hazlo lo mejor que puedas, pero al final perderás el desafío del agujero de la gloria."
 
     # game/code/hints.rpy:5
     old "Watch Pete creampie Lydia and AmRose, then get vasectomized by Jerome."
-    new "Watch Pete creampie Lydia and AmRose, then get vasectomized by Jerome."
+    new "Mira como Pete le hace un creampie a Lydia y AmRose, y luego es vasectomizado por Jerome."
 
     # game/code/hints.rpy:5
     old "Refuse to see this ending to its proper conclusion"
-    new "Refuse to see this ending to its proper conclusion"
+    new "Negarse a ver este final hasta su conclusión apropiada"
 
     # game/code/hints.rpy:5
     old "Slurp out Pete's cum from inside Am-Rose' pussy."
-    new "Slurp out Pete's cum from inside Am-Rose' pussy."
+    new "Chupa el semen de Pete dentro del coño de Am-Rose."
 
     # game/code/hints.rpy:5
     old "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
-    new "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
+    new "Niégate a chupar el semen de Pete de dentro del coño de Am-Rose."
 
     # game/code/hints.rpy:5
     old "Be prepared for the challenge, and improve your chances of winning."
-    new "Be prepared for the challenge, and improve your chances of winning."
+    new "Prepárate para el desafío y aumenta tus posibilidades de ganar."
 
     # game/code/hints.rpy:5
     old "Maybe she'll choose someone else, take the risk of not being ready."
-    new "Maybe she'll choose someone else, take the risk of not being ready."
+    new "Tal vez elija a otro, corra el riesgo de no estar preparado."
 
     # game/code/hints.rpy:5
     old "What could be waiting for you?"
-    new "What could be waiting for you?"
+    new "¿Qué le puede estar esperando?"
 
     # game/code/hints.rpy:5
     old "What's she got planned next?"
-    new "What's she got planned next?"
+    new "¿Qué es lo próximo que tiene planeado?"
 
     # game/code/hints.rpy:5
     old "What's in store for you now?"
-    new "What's in store for you now?"
+    new "¿Qué le espera ahora?"
 
     # game/code/hints.rpy:5
     old "Lose option for Polly & Nora Threesome ending."
-    new "Lose option for Polly & Nora Threesome ending."
+    new "Perder la opción de un trío con Polly y Nora."
 
     # game/code/hints.rpy:5
     old "Increases chance of Polly & Nora Threesome ending."
-    new "Increases chance of Polly & Nora Threesome ending."
+    new "Aumenta la posibilidad de que Polly y Nora hagan un trío."
 
     # game/code/hints.rpy:5
     old "This option skips the blowjob scene. Scene goes to indoors."
-    new "This option skips the blowjob scene. Scene goes to indoors."
+    new "Esta opción omite la escena de la mamada. La escena pasa a interiores."
 
     # game/code/hints.rpy:5
     old "Disobey Lydia and lose the challenge."
-    new "Disobey Lydia and lose the challenge."
+    new "Desobedece a Lydia y pierde el desafío."
 
     # game/code/hints.rpy:5
     old "Prove your devotion to Lydia and win the challenge."
-    new "Prove your devotion to Lydia and win the challenge."
+    new "Demuestra tu devoción por Lydia y gana el desafío."
 
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
-    new "Disappoint Lydia and be the loser."
+    new "Decepcionar a Lydia y ser el perdedor."
