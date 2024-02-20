@@ -934,49 +934,49 @@ translate chinese e07s07_vasectomy_3c8a3904:
 translate chinese e07s07_vasectomy_3e07208a:
 
     # arj "Just a minute!"
-    arj "Just a minute!"
+    arj "等一下！"
 
 # game/code/e07/e07s07.rpy:486
 translate chinese e07s07_vasectomy_69e9dcd3:
 
     # arj "We're almost ready."
-    arj "We're almost ready."
+    arj "我们快准备好了。"
 
 # game/code/e07/e07s07.rpy:487
 translate chinese e07s07_vasectomy_616c4c5d:
 
     # arj "Our [e07_lcname!t] needed a few more rounds with Pete, but should be done with him soon."
-    arj "Our [e07_lcname!t] needed a few more rounds with Pete, but should be done with him soon."
+    arj "我们的[e07_lcname!t]还需要和皮特再战几个回合，但应该很快就能完事了。"
 
 # game/code/e07/e07s07.rpy:491
 translate chinese e07s07_vasectomy_72e33d6d:
 
     # arj "How are you doing, [e07_mcname!t]?"
-    arj "How are you doing, [e07_mcname!t]?"
+    arj "你好吗，[e07_mcname!t]？"
 
 # game/code/e07/e07s07.rpy:492
 translate chinese e07s07_vasectomy_8ecd6a27:
 
     # arj "All set for the next part of the show?"
-    arj "All set for the next part of the show?"
+    arj "准备好表演的下一部分了吗？"
 
 # game/code/e07/e07s07.rpy:497
 translate chinese e07s07_vasectomy_32c26b22:
 
     # mc "I don't... what?"
-    mc "I don't... what?"
+    mc "我不...什么？"
 
 # game/code/e07/e07s07.rpy:498
 translate chinese e07s07_vasectomy_82644702:
 
     # mc "I... I remember Pete fucking [e07_lcname!t] right in front of my face, and then everyone left."
-    mc "I... I remember Pete fucking [e07_lcname!t] right in front of my face, and then everyone left."
+    mc "我...我记得皮特当着我的面干了[e07_lcname!t]，然后大家都走了。"
 
 # game/code/e07/e07s07.rpy:503
 translate chinese e07s07_vasectomy_3d50b6ae:
 
     # arj "Good, you're all caught up. And soon, the next part of the show wil start."
-    arj "Good, you're all caught up. And soon, the next part of the show wil start."
+    arj "很好，你都记得。很快，下一部分表演就要开始了。"
 
 # game/code/e07/e07s07.rpy:504
 translate chinese e07s07_vasectomy_2b35b6fe:
@@ -988,31 +988,31 @@ translate chinese e07s07_vasectomy_2b35b6fe:
 translate chinese e07s07_vasectomy_7e755b04:
 
     # mc "I forget. What exactly is this next show?"
-    mc "I forget. What exactly is this next show?"
+    mc "我忘了。下一个节目到底是什么？"
 
 # game/code/e07/e07s07.rpy:510
 translate chinese e07s07_vasectomy_925893d2:
 
     # arj "Weren't you paying attention?"
-    arj "Weren't you paying attention?"
+    arj "你没注意听吗？"
 
 # game/code/e07/e07s07.rpy:512
 translate chinese e07s07_vasectomy_eb534c1d:
 
     # mc "It's... Everything that's happened has been... A lot."
-    mc "It's... Everything that's happened has been... A lot."
+    mc "这...发生的一切都...信息量太大了。"
 
 # game/code/e07/e07s07.rpy:516
 translate chinese e07s07_vasectomy_9cc38f80:
 
     # arj "I guess that's true."
-    arj "I guess that's true."
+    arj "我想这倒是没错。"
 
 # game/code/e07/e07s07.rpy:519
 translate chinese e07s07_vasectomy_d5777ff7:
 
     # arj "Well... Now that [e07_lcname!t] got knocked-the-hell-up, it's my turn."
-    arj "Well... Now that [e07_lcname!t] got knocked-the-hell-up, it's my turn."
+    arj "嗯...现在[e07_lcname!t]被肏得屁滚尿流，该轮到我了。"
 
 # game/code/e07/e07s07.rpy:520
 translate chinese e07s07_vasectomy_2b35b6fe_1:
@@ -1024,115 +1024,115 @@ translate chinese e07s07_vasectomy_2b35b6fe_1:
 translate chinese e07s07_vasectomy_ea571343:
 
     # arj "You get to see me impregnated by her Bull."
-    arj "You get to see me impregnated by her Bull."
+    arj "你会看到我被她的公牛弄怀孕。"
 
 # game/code/e07/e07s07.rpy:524
 translate chinese e07s07_vasectomy_30eccafd:
 
     # mc "No, no, no, no, no, no, no.{w} AmRose, you said you were mine!"
-    mc "No, no, no, no, no, no, no.{w} AmRose, you said you were mine!"
+    mc "不，不，不，不，不，不，不。{w}爱洛丝，你说过你是我的！"
 
 # game/code/e07/e07s07.rpy:525
 translate chinese e07s07_vasectomy_9c592c81:
 
     # mc "You said you would always be mine!!!"
-    mc "You said you would always be mine!!!"
+    mc "你说过你永远都是我的!!!"
 
 # game/code/e07/e07s07.rpy:529
 translate chinese e07s07_vasectomy_a9fee3cc:
 
     # arj "I did. But... A lot has changed since I gave myself to you."
-    arj "I did. But... A lot has changed since I gave myself to you."
+    arj "我是说过。但是，自从我把自己交给你之后，很多事情都变了。"
 
 # game/code/e07/e07s07.rpy:533
 translate chinese e07s07_vasectomy_55414274:
 
     # arj "Maybe it was my mistake, maybe it was yours. But it's okay now."
-    arj "Maybe it was my mistake, maybe it was yours. But it's okay now."
+    arj "也许是我的错，也许是你的错。但现在都不重要了。"
 
 # game/code/e07/e07s07.rpy:534
 translate chinese e07s07_vasectomy_653a0825:
 
     # arj "Just like you, I figured out where I {b}need{/b} to be. Try to be happy for me, [e07_mcname!t]."
-    arj "Just like you, I figured out where I {b}need{/b} to be. Try to be happy for me, [e07_mcname!t]."
+    arj "就像你一样，我找到了满足我的{b}需要{/b}的地方。试着为我高兴吧，[e07_mcname!t]。"
 
 # game/code/e07/e07s07.rpy:539
 translate chinese e07s07_vasectomy_ce1a11ab:
 
     # arj "Oh my God. Just thinking about that cock makes my mouth water and my pussy glisten."
-    arj "Oh my God. Just thinking about that cock makes my mouth water and my pussy glisten."
+    arj "天啊。只要一想到那根鸡巴，我就骚水直流，穴痒难耐。"
 
 # game/code/e07/e07s07.rpy:540
 translate chinese e07s07_vasectomy_db1cb1fb:
 
     # arj "I'll make sure to give you a good show when he's inside me."
-    arj "I'll make sure to give you a good show when he's inside me."
+    arj "当他进入我的身体时，我一定会给你上演一场精彩的表演。"
 
 # game/code/e07/e07s07.rpy:545
 translate chinese e07s07_vasectomy_e2b18f63:
 
     # lc "Are you quite finished?"
-    lc "Are you quite finished?"
+    lc "你好了吗？"
 
 # game/code/e07/e07s07.rpy:547
 translate chinese e07s07_vasectomy_73c8adb5:
 
     # arj "Yes. I am ready, [e07_lcname!t]."
-    arj "Yes. I am ready, [e07_lcname!t]."
+    arj "嗯。我准备好了，[e07_lcname!t]。"
 
 # game/code/e07/e07s07.rpy:552
 translate chinese e07s07_vasectomy_d11575a4:
 
     # lc "Tell, [e07_mcname!t] everything that's happening as the Bull begins."
-    lc "Tell, [e07_mcname!t] everything that's happening as the Bull begins."
+    lc "把公牛开始时发生的一切都告诉[e07_mcname!t]。"
 
 # game/code/e07/e07s07.rpy:558
 translate chinese e07s07_vasectomy_79c0258a:
 
     # arj "*moaning* I can't wait to feel it. Of all the experiences I have had, it is my third favorite."
-    arj "*moaning* I can't wait to feel it. Of all the experiences I have had, it is my third favorite."
+    arj "*呻吟* 我已经等不及了。在我所有的经历中，这是我第三喜欢的。"
 
 # game/code/e07/e07s07.rpy:561
 translate chinese e07s07_vasectomy_25550e46:
 
     # lc "Really? What were the top two?"
-    lc "Really? What were the top two?"
+    lc "是吗？前两名是什么？"
 
 # game/code/e07/e07s07.rpy:563
 translate chinese e07s07_vasectomy_e77f759a:
 
     # arj "Licking your kitty and rimming your anus, [e07_lcname!t]."
-    arj "Licking your kitty and rimming your anus, [e07_lcname!t]."
+    arj "舔你的小猫咪，以及舔你的肛门，[e07_lcname!t]。"
 
 # game/code/e07/e07s07.rpy:567
 translate chinese e07s07_vasectomy_23a5f731:
 
     # lc "Good answer. I know exactly which is second and which was first for you, my little [e07_arjname!t]."
-    lc "Good answer. I know exactly which is second and which was first for you, my little [e07_arjname!t]."
+    lc "答得好。我很清楚对你来说，哪一个是第二位，哪一个是第一位，我的小[e07_arjname!t]。"
 
 # game/code/e07/e07s07.rpy:570
 translate chinese e07s07_vasectomy_8950c7d2:
 
     # arj "You know me well, [e07_lcname!t]."
-    arj "You know me well, [e07_lcname!t]."
+    arj "您自然很了解我，[e07_lcname!t]。"
 
 # game/code/e07/e07s07.rpy:574
 translate chinese e07s07_vasectomy_4ffc708f:
 
     # lc "Hahaha. So dirty, [e07_arjname!t]. But focus on your pleasure."
-    lc "Hahaha. So dirty, [e07_arjname!t]. But focus on your pleasure."
+    lc "哈哈哈。真下流，[e07_arjname!t]。不过你要专心享受。"
 
 # game/code/e07/e07s07.rpy:576
 translate chinese e07s07_vasectomy_1d33271c:
 
     # arj "Of course, my [e07_lcname!t]."
-    arj "Of course, my [e07_lcname!t]."
+    arj "当然，我的[e07_lcname!t]。"
 
 # game/code/e07/e07s07.rpy:580
 translate chinese e07s07_vasectomy_2230c79b:
 
     # lc "Well, [e07_mcname!t]..."
-    lc "Well, [e07_mcname!t]..."
+    lc "好吧，[e07_mcname!t]..."
 
 # game/code/e07/e07s07.rpy:581
 translate chinese e07s07_vasectomy_23c1170d:
@@ -1144,247 +1144,247 @@ translate chinese e07s07_vasectomy_23c1170d:
 translate chinese e07s07_vasectomy_715e2c06:
 
     # mc "Yes, [e07_lcname!t]!"
-    mc "Yes, [e07_lcname!t]!"
+    mc "是，[e07_lcname!t]！"
 
 # game/code/e07/e07s07.rpy:587
 translate chinese e07s07_vasectomy_6edc2948:
 
     # lc "Are you adequately prepared for the show?"
-    lc "Are you adequately prepared for the show?"
+    lc "你为演出做好充分准备了吗？"
 
 # game/code/e07/e07s07.rpy:590
 translate chinese e07s07_vasectomy_2485f494_2:
 
     # mc "I..."
-    mc "I..."
+    mc "我..."
 
 # game/code/e07/e07s07.rpy:592
 translate chinese e07s07_vasectomy_a6a3774d:
 
     # mc "I believe so..."
-    mc "I believe so..."
+    mc "我觉得是的..."
 
 # game/code/e07/e07s07.rpy:597
 translate chinese e07s07_vasectomy_70d4f90c:
 
     # lc "Very well. Let the festivities commence!"
-    lc "Very well. Let the festivities commence!"
+    lc "很好。让庆典开始吧！"
 
 # game/code/e07/e07s07.rpy:603
 translate chinese e07s07_vasectomy_b0d3f6ff:
 
     # arj "Murraah... Sweet Jesus. It's so biguahaah..."
-    arj "Murraah... Sweet Jesus. It's so biguahaah..."
+    arj "哇啊啊啊...我的老天爷啊。好大啊..."
 
 # game/code/e07/e07s07.rpy:607
 translate chinese e07s07_vasectomy_8967dbc0:
 
     # lc "That's what I like to hear. Give it to her, Bull. Pound every inch of that tight ginger pussy with your meat."
-    lc "That's what I like to hear. Give it to her, Bull. Pound every inch of that tight ginger pussy with your meat."
+    lc "我就喜欢听这个。给她吧，公牛。用你的肉棒，狠狠捅进她紧致的阴道。"
 
 # game/code/e07/e07s07.rpy:608
 translate chinese e07s07_vasectomy_22b65b6b:
 
     # pb "I will, [e07_lcname!t]. I love her pussy."
-    pb "I will, [e07_lcname!t]. I love her pussy."
+    pb "我会的，[e07_lcname!t]。我爱死她的小穴了。"
 
 # game/code/e07/e07s07.rpy:612
 translate chinese e07s07_vasectomy_2728cdd5:
 
     # lc "Just don't love it more than mine, you dolt."
-    lc "Just don't love it more than mine, you dolt."
+    lc "注意爱她的别比我的更甚，笨蛋。"
 
 # game/code/e07/e07s07.rpy:616
 translate chinese e07s07_vasectomy_22f15eef:
 
     # mct "No, no, no, no, no, no - not this."
-    mct "No, no, no, no, no, no - not this."
+    mct "不，不，不，不，不，不--怎么能这样！"
 
 # game/code/e07/e07s07.rpy:618
 translate chinese e07s07_vasectomy_c3b7e369:
 
     # mct "This is unbearable."
-    mct "This is unbearable."
+    mct "这让人难以忍受。"
 
 # game/code/e07/e07s07.rpy:621
 translate chinese e07s07_vasectomy_116e102b:
 
     # mct "It was awful enough seeing the love of my life fucked before my very eyes."
-    mct "It was awful enough seeing the love of my life fucked before my very eyes."
+    mct "看到我的挚爱在我眼前被别人干，已经够糟了。"
 
 # game/code/e07/e07s07.rpy:624
 translate chinese e07s07_vasectomy_ea959178:
 
     # mct "But this is AmRose."
-    mct "But this is AmRose."
+    mct "但这是爱洛丝。"
 
 # game/code/e07/e07s07.rpy:627
 translate chinese e07s07_vasectomy_aa4c7ac4:
 
     # mct "AmRose pledged herself to me."
-    mct "AmRose pledged herself to me."
+    mct "爱洛丝曾向我宣誓。"
 
 # game/code/e07/e07s07.rpy:630
 translate chinese e07s07_vasectomy_d848ce17:
 
     # mct "AmRose said she loved me. That she would do anything to be with me."
-    mct "AmRose said she loved me. That she would do anything to be with me."
+    mct "她说她爱我。她说为了和我在一起，她愿意做任何事。"
 
 # game/code/e07/e07s07.rpy:634
 translate chinese e07s07_vasectomy_bff9ad32:
 
     # arj "Oh my God. Give it to me, Pete!"
-    arj "Oh my God. Give it to me, Pete!"
+    arj "我的天啊。求你给我，皮特！"
 
 # game/code/e07/e07s07.rpy:636
 translate chinese e07s07_vasectomy_4300528a:
 
     # arj "Yes... YES!!!"
-    arj "Yes... YES!!!"
+    arj "就是这样...好爽!!!"
 
 # game/code/e07/e07s07.rpy:639
 translate chinese e07s07_vasectomy_7ea2f50a:
 
     # mct "This can't be happening."
-    mct "This can't be happening."
+    mct "这不可能。"
 
 # game/code/e07/e07s07.rpy:640
 translate chinese e07s07_vasectomy_5a187097:
 
     # mct "This can't be..."
-    mct "This can't be..."
+    mct "这不可能..."
 
 # game/code/e07/e07s07.rpy:644
 translate chinese e07s07_vasectomy_d983e3fa:
 
     # pb "I'm getting close. Nrrrn... [e07_lcname!t]... Can I?"
-    pb "I'm getting close. Nrrrn... [e07_lcname!t]... Can I?"
+    pb "我快到了。嗯嗯嗯嗯嗯...[e07_lcname!t]...可以吗？"
 
 # game/code/e07/e07s07.rpy:647
 translate chinese e07s07_vasectomy_099264bf:
 
     # lc "Don't you dare stop. Keep fucking her until she orgasms again."
-    lc "Don't you dare stop. Keep fucking her until she orgasms again."
+    lc "不准停下来。我要你继续干她，直到她再次达到高潮。"
 
 # game/code/e07/e07s07.rpy:649
 translate chinese e07s07_vasectomy_6af6d745:
 
     # arj "Nuraah... fukhuaa... Oh it's so big... I can feel it hitting my..."
-    arj "Nuraah... fukhuaa... Oh it's so big... I can feel it hitting my..."
+    arj "嗯啊啊啊啊...操操操操...哦，好大...我能感觉到它在撞击我的..."
 
 # game/code/e07/e07s07.rpy:651
 translate chinese e07s07_vasectomy_bcb06788:
 
     # arj "Mirahuaah..."
-    arj "Mirahuaah..."
+    arj "唔唔唔唔..."
 
 # game/code/e07/e07s07.rpy:654
 translate chinese e07s07_vasectomy_37e2890d:
 
     # mct "No. My body's betraying me. I don't like this."
-    mct "No. My body's betraying me. I don't like this."
+    mct "不可能。我的身体背叛了我。我不喜欢这样。"
 
 # game/code/e07/e07s07.rpy:655
 translate chinese e07s07_vasectomy_ab06ba3a:
 
     # mct "But... my my skin is burning up."
-    mct "But... my my skin is burning up."
+    mct "但是...我的皮肤在发烫。"
 
 # game/code/e07/e07s07.rpy:659
 translate chinese e07s07_vasectomy_2a319e0d:
 
     # arj "Yesuaaahua-hauah... Cum in me Pete! Breed me! Breed me in front of [e07_lcname!t]!"
-    arj "Yesuaaahua-hauah... Cum in me Pete! Breed me! Breed me in front of [e07_lcname!t]!"
+    arj "要死了啊啊啊啊-哈啊...射在我里面啊，皮特！在[e07_lcname!t]面前让我怀孕！"
 
 # game/code/e07/e07s07.rpy:661
 translate chinese e07s07_vasectomy_db1e6138:
 
     # pb "Nurrn..."
-    pb "Nurrn..."
+    pb "喔..."
 
 # game/code/e07/e07s07.rpy:666
 translate chinese e07s07_vasectomy_f334fa06:
 
     # arj "Oh gawwdduaah!"
-    arj "Oh gawwdduaah!"
+    arj "噢噢噢噢天哪！"
 
 # game/code/e07/e07s07.rpy:671
 translate chinese e07s07_vasectomy_273cf796:
 
     # mc "UUuuggghhhh!!!"
-    mc "UUuuggghhhh!!!"
+    mc "呃呃呃呃啊啊!!!"
 
 # game/code/e07/e07s07.rpy:672
 translate chinese e07s07_vasectomy_27e728b1:
 
     # mct "No. I didn't. I... I actually..."
-    mct "No. I didn't. I... I actually..."
+    mct "不，不会的。我...其实我..."
 
 # game/code/e07/e07s07.rpy:676
 translate chinese e07s07_vasectomy_92fcd23d:
 
     # lc "Oh my."
-    lc "Oh my."
+    lc "我的天。"
 
 # game/code/e07/e07s07.rpy:677
 translate chinese e07s07_vasectomy_14fc96a6:
 
     # lc "That didn't take long."
-    lc "That didn't take long."
+    lc "没花多少时间。"
 
 # game/code/e07/e07s07.rpy:680
 translate chinese e07s07_vasectomy_e9566851:
 
     # mct "No, no, no, no, no, no, no, no!"
-    mct "No, no, no, no, no, no, no, no!"
+    mct "不，不，不不不不不！"
 
 # game/code/e07/e07s07.rpy:681
 translate chinese e07s07_vasectomy_9dea63f6:
 
     # mct "I didn't!"
-    mct "I didn't!"
+    mct "我没有！"
 
 # game/code/e07/e07s07.rpy:683
 translate chinese e07s07_vasectomy_786d0a9c:
 
     # mct "I did not just cum watching Pete fuck AmRose. I couldn't have."
-    mct "I did not just cum watching Pete fuck AmRose. I couldn't have."
+    mct "我不是看皮特和爱洛丝做爱才射的。不可能的。"
 
 # game/code/e07/e07s07.rpy:687
 translate chinese e07s07_vasectomy_6dcaec9d:
 
     # lc "All that spilled semen on the floor because of this little redheaded whore?"
-    lc "All that spilled semen on the floor because of this little redheaded whore?"
+    lc "看看所有洒在地板上的精液，就因为这个红头发的小婊子？"
 
 # game/code/e07/e07s07.rpy:690
 translate chinese e07s07_vasectomy_37563884:
 
     # lc "That's so sweet, [e07_mcname!t]. Were you trying to make me jealous?"
-    lc "That's so sweet, [e07_mcname!t]. Were you trying to make me jealous?"
+    lc "你真贴心啊，[e07_mcname!t]。你是想让我吃醋吗？"
 
 # game/code/e07/e07s07.rpy:691
 translate chinese e07s07_vasectomy_ec0a9f39:
 
     # lc "*Laughs*"
-    lc "*Laughs*"
+    lc "*大笑*"
 
 # game/code/e07/e07s07.rpy:696
 translate chinese e07s07_vasectomy_7b7ed907:
 
     # lc "Mmmm. I see your hungry eyes, [e07_mcname!t]. Why don't you have a taste."
-    lc "Mmmm. I see your hungry eyes, [e07_mcname!t]. Why don't you have a taste."
+    lc "嗯。我看到了你饥渴的眼神，[e07_mcname!t]。你为什么不尝尝呢。"
 
 # game/code/e07/e07s07.rpy:697
 translate chinese e07s07_vasectomy_cd806f9d:
 
     # lc "Put your head between her legs and slurp up that tasty jizz."
-    lc "Put your head between her legs and slurp up that tasty jizz."
+    lc "把你的头放在她的两腿之间。吮吸那美味的精液。"
 
 # game/code/e07/e07s07.rpy:704
 translate chinese e07s07_vasectomy_286afe12:
 
     # mc "Of course, [e07_lcname!t]. I... I think I'd like that."
-    mc "Of course, [e07_lcname!t]. I... I think I'd like that."
+    mc "当然，[e07_lcname!t]。我...我想我会喜欢的。"
 
 # game/code/e07/e07s07.rpy:706
 translate chinese e07s07_vasectomy_7ca2456d:
