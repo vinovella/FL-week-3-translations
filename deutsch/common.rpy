@@ -124,7 +124,7 @@ translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:239
     old "Return"
-    new "Return"
+    new "Zurück"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -360,7 +360,7 @@ translate deutsch strings:
 
     # renpy/common/00director.rpy:1574
     old "Done"
-    new "Done"
+    new "Fertig"
 
     # renpy/common/00director.rpy:1584
     old "(statement)"
@@ -452,43 +452,43 @@ translate deutsch strings:
 
     # renpy/common/00gui.rpy:446
     old "Are you sure?"
-    new "Are you sure?"
+    new "Bist du sicher?"
 
     # renpy/common/00gui.rpy:447
     old "Are you sure you want to delete this save?"
-    new "Are you sure you want to delete this save?"
+    new "Willst du diesen Speicherstand löschen?"
 
     # renpy/common/00gui.rpy:448
     old "Are you sure you want to overwrite your save?"
-    new "Are you sure you want to overwrite your save?"
+    new "Willst du diesen Speicherstand überschreiben?"
 
     # renpy/common/00gui.rpy:449
     old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
-    new "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "Beim laden geht ungespeicherter Fortschritt verloren.\n Willst du das tun?"
 
     # renpy/common/00gui.rpy:450
     old "Are you sure you want to quit?"
-    new "Are you sure you want to quit?"
+    new "Willst du das Spiel beenden?"
 
     # renpy/common/00gui.rpy:451
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "Willst du zum Hauptmenü zurückkehren?\n Dadurch geht ungespeicherter Fortschritt verloren."
 
     # renpy/common/00gui.rpy:452
     old "Are you sure you want to end the replay?"
-    new "Are you sure you want to end the replay?"
+    new "Willst du die Wiederholung beenden?"
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to begin skipping?"
-    new "Are you sure you want to begin skipping?"
+    new "Willst du anfangen zu überspringen?"
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to skip to the next choice?"
-    new "Are you sure you want to skip to the next choice?"
+    new "Willst du bis zur nächsten Auswahl springen?"
 
     # renpy/common/00gui.rpy:455
     old "Are you sure you want to skip unseen dialogue to the next choice?"
-    new "Are you sure you want to skip unseen dialogue to the next choice?"
+    new "Willst du ungesehenen Dialog bis zur nächsten Auswahl überspringen?"
 
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
@@ -780,11 +780,11 @@ translate deutsch strings:
 
     # renpy/common/00sync.rpy:540
     old "Yes"
-    new "Yes"
+    new "Ja"
 
     # renpy/common/00sync.rpy:541
     old "No"
-    new "No"
+    new "Nein"
 
     # renpy/common/00sync.rpy:561
     old "Enter Sync ID"

@@ -16,7 +16,7 @@ translate deutsch strings:
 
     # game/code/screens/extended/screens.rpy:152
     old "SETTINGS"
-    new "EINSTELLUNGEN"
+    new "PRÄF"
 
     # game/code/screens/extended/screens.rpy:162
     old "LANGUAGE"
@@ -72,7 +72,7 @@ translate deutsch strings:
 
     # game/code/screens/extended/screens.rpy:423
     old "REPLAY ROOM"
-    new "WIEDERHOLUNGSRAUM"
+    new "WIEDERHOLUNGS\nRAUM"
 
     # game/code/screens/extended/screens.rpy:440
     old "BONUS CONTENT"
