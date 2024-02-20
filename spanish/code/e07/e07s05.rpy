@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2024-02-06 17:02
+# TODO: Translation updated at 2024-02-06 17:02
 
 # game/code/e07/e07s05.rpy:26
 translate spanish e07s05_eb4dfcb0:
 
     # mc "Hey, AmRose."
-    mc "Hola, AmRose."
+    mc "Hey, AmRose."
 
 # game/code/e07/e07s05.rpy:28
 translate spanish e07s05_5c3c31cd:
 
     # arj "Hey, yourself."
-    arj "Oye, tú."
+    arj "Hey, tú."
 
 # game/code/e07/e07s05.rpy:32
 translate spanish e07s05_3322cede:
@@ -22,7 +22,7 @@ translate spanish e07s05_3322cede:
 translate spanish e07s05_f49fff8f:
 
     # mc "Yeah?"
-    mc "¿Sí?"
+    mc "¿Si?"
 
 # game/code/e07/e07s05.rpy:37
 translate spanish e07s05_54c03e5d:
@@ -76,7 +76,7 @@ translate spanish e07s05_966717a1:
 translate spanish e07s05_392ecb51:
 
     # arj "Not like- You know what. Yeah. It's silly. I've been silly."
-    arj "No como... ¿Sabes qué? Sí. Es una tontería. He sido tonto."
+    arj "No como... ¿Sabes qué? Si. Es una tontería. He sido tonto."
 
 # game/code/e07/e07s05.rpy:57
 translate spanish e07s05_25c7d496:
@@ -118,19 +118,19 @@ translate spanish e07s05_6c8a4b60:
 translate spanish e07s05_bf82dcd1:
 
     # pb "'Sup Hot Stuff. [e07_lcname!t] wants you to come too."
-    pb "'Sup cosas calientes. [e07_lcname!t] quiere que vengas también."
+    pb "Hola cosa sexy. [e07_lcname!t] quiere que vengas también."
 
 # game/code/e07/e07s05.rpy:82
 translate spanish e07s05_a31340dd:
 
     # mc "Really?"
-    mc "¿En realidad?"
+    mc "¿De verdad?"
 
 # game/code/e07/e07s05.rpy:84
 translate spanish e07s05_e15a70a6:
 
     # arj "Really?"
-    arj "¿En realidad?"
+    arj "¿En serio?"
 
 # game/code/e07/e07s05.rpy:87
 translate spanish e07s05_26c9efcd:
@@ -160,7 +160,7 @@ translate spanish e07s05_locker_471527da:
 translate spanish e07s05_locker_c7cf99cd:
 
     # lc "I think you'll really love what I came up with, [e07_mcname!t]."
-    lc "Creo que realmente te encantará lo que se me ocurrió, [e07_mcname!t]."
+    lc "Creo que realmente te encantó lo que se me ocurrió, [e07_mcname!t]."
 
 # game/code/e07/e07s05.rpy:119
 translate spanish e07s05_locker_29804b99:
@@ -178,19 +178,19 @@ translate spanish e07s05_locker_e25b719d:
 translate spanish e07s05_locker_3d3228dc:
 
     # lc "Speak of the devil..."
-    lc "Hablar del demonio..."
+    lc "Hablando del demonio..."
 
 # game/code/e07/e07s05.rpy:132
 translate spanish e07s05_locker_b93e7c8b:
 
     # dr "'Sup Lydia?"
-    dr "'¿Qué pasa con Lydia?"
+    dr "¿Qué pasa Lydia?"
 
 # game/code/e07/e07s05.rpy:135
 translate spanish e07s05_locker_f46e2f5f:
 
     # lc "Heya boys. Did Pete tell you why I wanted you to come by?"
-    lc "Hola chicos. ¿Pete te dijo por qué quería que vinieras?"
+    lc "Hola chicos. ¿Pete les dijo por qué quería que vinieran?"
 
 # game/code/e07/e07s05.rpy:138
 translate spanish e07s05_locker_7b3d2dff:
@@ -202,7 +202,7 @@ translate spanish e07s05_locker_7b3d2dff:
 translate spanish e07s05_locker_9a70d155:
 
     # lc "Oh? Then why did you show?"
-    lc "¿Oh? ¿Entonces por qué apareciste?"
+    lc "¿Oh? ¿Entonces por qué aparecieron?"
 
 # game/code/e07/e07s05.rpy:144
 translate spanish e07s05_locker_dee30d1e:
@@ -232,7 +232,7 @@ translate spanish e07s05_locker_c4a76e88:
 translate spanish e07s05_locker_85f2124b:
 
     # lc "Because I'm not sure if you've ever met one."
-    lc "Porque no estoy seguro de si alguna vez has conocido a uno."
+    lc "Porque no estoy segura de si alguna vez has conocido a uno."
 
 # game/code/e07/e07s05.rpy:157
 translate spanish e07s05_locker_8d6c44be:
@@ -316,13 +316,13 @@ translate spanish e07s05_locker_1115629b:
 translate spanish e07s05_locker_89907111:
 
     # mct "Ye Gods. I need to be strong. If I want to make love to her, I just need to do what she says..."
-    mct "Vosotros dioses. Necesito ser fuerte. Si quiero hacerle el amor, sólo necesito hacer lo que ella dice..."
+    mct "Dioses. Necesito ser fuerte. Si quiero hacerle el amor, sólo necesito hacer lo que ella dice..."
 
 # game/code/e07/e07s05.rpy:189
 translate spanish e07s05_locker_b70d06b4:
 
     # lc "[e07_arjname!t], while they're waiting for their turns make sure they don't get bored. Okay?"
-    lc "[e07_arjname!t], mientras esperan su turno, asegúrate de que no se aburran. ¿Bueno?"
+    lc "[e07_arjname!t], mientras esperan su turno, asegúrese de que no se aburran. ¿Bueno?"
 
 # game/code/e07/e07s05.rpy:191
 translate spanish e07s05_locker_806454bd:
@@ -340,7 +340,7 @@ translate spanish e07s05_locker_213bcdb6:
 translate spanish e07s05_locker_68502a7f:
 
     # pb "Damn... Whatever, fine."
-    pb "Maldita sea... Como sea, está bien."
+    pb "Mar maldita... Como mar, está bien."
 
 # game/code/e07/e07s05.rpy:199
 translate spanish e07s05_locker_b1e22c69:
@@ -358,7 +358,7 @@ translate spanish e07s05_locker_791016bd:
 translate spanish e07s05_locker_fb402c75:
 
     # lc "Oooo, you boys are quick. I hope that's the only thing you do quickly."
-    lc "Oooo, ustedes muchachos son rápidos. Espero que sea lo único que hagas rápido."
+    lc "Oooo, ustedes muchachos, son rápidos. Espero que sea lo único que hagan rápido."
 
 # game/code/e07/e07s05.rpy:217
 translate spanish e07s05_locker_01146da0:
@@ -430,7 +430,7 @@ translate spanish e07s05_locker_71ac1c73:
 translate spanish e07s05_locker_85e08e6f:
 
     # mct "That should be me with her! They don't love her, they just want to use her!"
-    mct "¡Ese debería ser yo con ella! ¡No la aman, sólo quieren usarla!"
+    mct "¡Ese debería ser yo con ella! ¡No la aman, sólo quiero usarla!"
 
 # game/code/e07/e07s05.rpy:297
 translate spanish e07s05_locker_33bad918:
@@ -442,7 +442,7 @@ translate spanish e07s05_locker_33bad918:
 translate spanish e07s05_locker_aa7fa0cc:
 
     # lc "Now, now boys. No need to fight. You'll all have some fun."
-    lc "Ahora, ahora muchachos. No hay necesidad de pelear. Todos os divertiréis un poco."
+    lc "Ahora, ahora chicos. No hay necesidad de pelear. Todos se divertirán."
 
 # game/code/e07/e07s05.rpy:313
 translate spanish e07s05_locker_9a40a270:
@@ -454,19 +454,19 @@ translate spanish e07s05_locker_9a40a270:
 translate spanish e07s05_locker_6071885e:
 
     # lc "That's up to [e07_mcname!t]. He gets to pick."
-    lc "Eso es hasta [e07_mcname!t]. Él puede elegir."
+    lc "Eso es para [e07_mcname!t]. Él puede elegir."
 
 # game/code/e07/e07s05.rpy:328
 translate spanish e07s05_menu_return_6b71e5b9:
 
     # lc "Which door are you going to pick first?"
-    lc "¿Qué puerta escogerás primero?"
+    lc "¿Qué puerta elegirás primero?"
 
 # game/code/e07/e07s05.rpy:333
 translate spanish e07s05_menu_return_cd6a4f0d:
 
     # lc "Which door is next, [e07_mcname!t]?"
-    lc "¿Qué puerta está al lado, [e07_mcname!t]?"
+    lc "¿Qué puerta es la siguiente, [e07_mcname!t]?"
 
 # game/code/e07/e07s05.rpy:358
 translate spanish e07s05_door_1_d81fffe1:
@@ -478,7 +478,7 @@ translate spanish e07s05_door_1_d81fffe1:
 translate spanish e07s05_door_1_4b63e6d8:
 
     # lc "All right, you heard him boys. Gary, Zach - you're up."
-    lc "Muy bien, ya lo escucharon, muchachos. Gary, Zach, estáis despiertos."
+    lc "Muy bien, ya lo escucharon, muchachos. Gary, Zach, están despiertos."
 
 # game/code/e07/e07s05.rpy:364
 translate spanish e07s05_door_1_7fa4b2df:
@@ -496,7 +496,7 @@ translate spanish e07s05_door_1_79fad728:
 translate spanish e07s05_door_1_e71bc01e:
 
     # zo "Fuck man, you weren't lying about how good she was man. God, the things she's doing with her tongue."
-    zo "Joder, no mentías acerca de lo buena que era. Dios, las cosas que está haciendo con su lengua."
+    zo "Joder, no menciones acerca de lo buena que era. Dios, las cosas que estás haciendo con su lengua."
 
 # game/code/e07/e07s05.rpy:383
 translate spanish e07s05_door_1_aa62ff4b:
@@ -532,7 +532,7 @@ translate spanish e07s05_door_1_b87ff8f6:
 translate spanish e07s05_door_1_9082cb2a:
 
     # zo "Ohhh fuuuuuuck, Lydia."
-    zo "Ohhh, joder, Lydia."
+    zo "Oh, joder, Lydia."
 
 # game/code/e07/e07s05.rpy:408
 translate spanish e07s05_door_1_8994f3a0:
@@ -556,7 +556,7 @@ translate spanish e07s05_door_1_075d7f7c:
 translate spanish e07s05_door_1_39130f26:
 
     # mct "They just treat her like a piece of meat. {i}And she's so much more than that.{/i}"
-    mct "Simplemente la tratan como a un trozo de carne. {i}Y ella es mucho más que eso.{/i}"
+    mct "Simplemente la trata como un trozo de carne. {i}Y ella es mucho más que eso.{/i}"
 
 # game/code/e07/e07s05.rpy:420
 translate spanish e07s05_door_1_e8c51b88:
@@ -586,7 +586,7 @@ translate spanish e07s05_door_1_77eef840:
 translate spanish e07s05_door_1_end_24a4b07b:
 
     # lc "Now, now, boys. I still have plans for you."
-    lc "Ahora, ahora, muchachos. Todavía tengo planes para ti."
+    lc "Ahora, ahora, muchachos. Todavía tengo planes para ustedes."
 
 # game/code/e07/e07s05.rpy:459
 translate spanish e07s05_door_2_49fa05b8:
@@ -598,7 +598,7 @@ translate spanish e07s05_door_2_49fa05b8:
 translate spanish e07s05_door_2_e64d6659:
 
     # lc "Perfect. Gary, Dario, you're up."
-    lc "Perfecto. Gary, Darío, estáis despiertos."
+    lc "Perfecto. Gary, Darío, están despiertos."
 
 # game/code/e07/e07s05.rpy:467
 translate spanish e07s05_door_2_4d187621:
@@ -616,13 +616,13 @@ translate spanish e07s05_door_2_f38de7db:
 translate spanish e07s05_door_2_9c256757:
 
     # lc "Good, because only a {i}real man{/i} could do this. Pick me up."
-    lc "Bien, porque sólo un {i}hombre de verdad{/i} podría hacer esto. Recógeme."
+    lc "Bien, porque sólo un {i}hombre de verdad{/i} podría hacer esto. Levántame."
 
 # game/code/e07/e07s05.rpy:476
 translate spanish e07s05_door_2_250c084c:
 
     # lc "Woo! That's what I'm talking about. Now, impale me with your dick - fuck me, and fuck me {i}hard!{/i}"
-    lc "¡Cortejar! De eso estoy hablando. Ahora, empalame con tu polla, ¡fóllame y fóllame {i}fuerte!{/i}"
+    lc "¡Woo! De eso estoy hablando. Ahora, empalame con tu polla, ¡fóllame y fóllame {i}fuerte!{/i}"
 
 # game/code/e07/e07s05.rpy:483
 translate spanish e07s05_door_2_cdee172d:
@@ -634,13 +634,13 @@ translate spanish e07s05_door_2_cdee172d:
 translate spanish e07s05_door_2_9959ed78:
 
     # lc "This is what it's like to be fucked by {i}real men!{/i}"
-    lc "¡Esto es lo que es ser follado por {i}hombres de verdad!{/i}"
+    lc "¡Esto es lo que es ser follada por {i}hombres de verdad!{/i}"
 
 # game/code/e07/e07s05.rpy:496
 translate spanish e07s05_door_2_1730f6ea:
 
     # zo "This is a pretty good blowjob, AmRose. Damn."
-    zo "Esta es una mamada bastante buena, AmRose. Maldición."
+    zo "Esta es una mamá bastante buena, AmRose."
 
 # game/code/e07/e07s05.rpy:501
 translate spanish e07s05_door_2_849b50c2:
@@ -658,7 +658,7 @@ translate spanish e07s05_door_2_e7b780be:
 translate spanish e07s05_door_2_1debcd0c:
 
     # mct "Their {i}\"dream\"{/i} - to treat the best woman ever... Like a fuck toy! God, I would show her... What making love is really like if she'd let me."
-    mct "Su {i}\"sueño\"{/i}: tratar a la mejor mujer del mundo... ¡Como a un juguete sexual! Dios, le mostraría... cómo es realmente hacer el amor si ella me dejara."
+    mct "Su {i}\"sueño\"{/i}... es tratar a la mejor mujer del mundo... ¡Como a un juguete sexual! Dios, le mostraría... cómo es realmente hacer el amor si ella me dejara."
 
 # game/code/e07/e07s05.rpy:513
 translate spanish e07s05_door_2_c8cd1a9f:
@@ -676,7 +676,7 @@ translate spanish e07s05_door_2_9edde875:
 translate spanish e07s05_door_2_fbf0cc88:
 
     # dr "Goddamn, Lydia. You are tight as fuck!"
-    dr "Maldita sea, Lidia. ¡Estás jodidamente apretado!"
+    dr "Mar Maldita, Lydia. ¡Estás jodidamente apretada!"
 
 # game/code/e07/e07s05.rpy:529
 translate spanish e07s05_door_2_5c159e80:
@@ -694,7 +694,7 @@ translate spanish e07s05_door_2_ae54edb3:
 translate spanish e07s05_door_2_4d8688c9:
 
     # mct "... Like me..."
-    mct "... Como yo..."
+    mct "...como yo..."
 
 # game/code/e07/e07s05.rpy:543
 translate spanish e07s05_door_2_c26290fe:
@@ -724,7 +724,7 @@ translate spanish e07s05_door_2_end_861b9bcd:
 translate spanish e07s05_door_2_end_6a0bc419:
 
     # dr "If you say so. I was already having a ton of fun."
-    dr "Si tú lo dices. Ya me estaba divirtiendo muchísimo."
+    dr "Si tú lo dices. Ya me estaba divitiendo muchísimo."
 
 # game/code/e07/e07s05.rpy:573
 translate spanish e07s05_door_2_end_dd33c7d4:
@@ -748,7 +748,7 @@ translate spanish e07s05_door_3_70049b06:
 translate spanish e07s05_door_3_4f837209:
 
     # mct "I'm not..."
-    mct "No soy..."
+    mct "No lo hice..."
 
 # game/code/e07/e07s05.rpy:589
 translate spanish e07s05_door_3_8666b508:
@@ -784,13 +784,13 @@ translate spanish e07s05_door_3_ec842583:
 translate spanish e07s05_door_3_95f34646:
 
     # lc "Weren't you raving about how great my blowjob was?"
-    lc "¿No estabas entusiasmado con lo genial que fue mi mamada?"
+    lc "¿No estabas entusiasmado con lo genial que era mi mamada?"
 
 # game/code/e07/e07s05.rpy:620
 translate spanish e07s05_door_3_807a8a49:
 
     # dr "Fuuuuuuck!!"
-    dr "¡¡Mierdaaaa!!"
+    dr "¡¡Mierdaaa!!"
 
 # game/code/e07/e07s05.rpy:624
 translate spanish e07s05_door_3_948292e2:
@@ -802,7 +802,7 @@ translate spanish e07s05_door_3_948292e2:
 translate spanish e07s05_door_3_fdd7aaea:
 
     # gc "Guys, can you believe we almost didn't come today!?"
-    gc "Chicos, ¿pueden creer que casi no vinimos hoy?"
+    gc "Chicos, ¿pueden creer que casi no venimos hoy?"
 
 # game/code/e07/e07s05.rpy:633
 translate spanish e07s05_door_3_dbf5416e:
@@ -856,13 +856,13 @@ translate spanish e07s05_door_3_e4e960ae:
 translate spanish e07s05_door_3_663fd644:
 
     # gc "Jeeeee-ssssuuuuuuuuuussss!"
-    gc "¡Jeeeee-ssssuuuuuuuuuusss!"
+    gc "¡Jeeeee-ssssuuuuuuuuusss!"
 
 # game/code/e07/e07s05.rpy:669
 translate spanish e07s05_door_3_8b4a276b:
 
     # dr "Dude, I can fucking feel how hard she's sucking you in her ass! It's fucking ah-mazzzzz-ing!"
-    dr "¡Amigo, puedo sentir lo fuerte que te está chupando el culo! ¡Es jodidamente ah-mazzzzz-ing!"
+    dr "¡Amigo, puedo sentir lo fuerte que te está chupando el culo! ¡Es jodidamente increíble!"
 
 # game/code/e07/e07s05.rpy:670
 translate spanish e07s05_door_3_a12aebc2:
@@ -910,7 +910,7 @@ translate spanish e07s05_arj_pb_bj_1_abca2b3f:
 translate spanish e07s05_arj_pb_bj_1_9e14b079:
 
     # pb "I thought I was going to get a turn with [e07_lcname!t]."
-    pb "Pensé que iba a tener un turno con el [e07_lcname!t]."
+    pb "Pensé que iba a tener un turno con la [e07_lcname!t]."
 
 # game/code/e07/e07s05.rpy:741
 translate spanish e07s05_arj_pb_bj_1_bf311681:
@@ -946,7 +946,7 @@ translate spanish e07s05_arj_pb_bj_1_1a2d6f85:
 translate spanish e07s05_arj_pb_bj_1_1398429a:
 
     # pb "Oh, oh shit. Okay, hell yeah. You can definitely suck my dick."
-    pb "Oh, oh mierda. Vale, claro que sí. Definitivamente puedes chuparme la polla."
+    pb "Oh, oh mierda. Bien, claro que sí. Definitivamente puedes chuparme la polla."
 
 # game/code/e07/e07s05.rpy:760
 translate spanish e07s05_arj_pb_bj_1_0e7ccef3:
@@ -976,25 +976,25 @@ translate spanish e07s05_arj_pb_bj_1_16e9baa3:
 translate spanish e07s05_arj_pb_bj_1_e899bc96:
 
     # pb "Jeeeeesus! Your tongue is fucking incredible."
-    pb "¡Jeeees! Tu lengua es jodidamente increíble."
+    pb "¡Jejeje! Tu lengua es jodidamente increíble."
 
 # game/code/e07/e07s05.rpy:786
 translate spanish e07s05_arj_pb_bj_1_53ff8159:
 
     # pb "Sheeeeeeet, we needed to do this way sooner. Fucking hell!"
-    pb "Sheeeeeeet, necesitábamos hacerlo de esta manera antes. ¡Maldito infierno!"
+    pb "Mieeeerda, necesitábamos hacerlo de esta manera antes. ¡Maldito infierno!"
 
 # game/code/e07/e07s05.rpy:794
 translate spanish e07s05_arj_pb_bj_1_57484369:
 
     # arj "You like that?"
-    arj "¿Te gusta que?"
+    arj "¿Te gusta eso?"
 
 # game/code/e07/e07s05.rpy:796
 translate spanish e07s05_arj_pb_bj_1_06f6893d:
 
     # pb "Shit. You're a natural cock-sucker"
-    pb "Mierda. Eres un chupapollas natural"
+    pb "Mierda. Eres una chupapollas natural"
 
 # game/code/e07/e07s05.rpy:799
 translate spanish e07s05_arj_pb_bj_1_ef224e18:
@@ -1006,7 +1006,7 @@ translate spanish e07s05_arj_pb_bj_1_ef224e18:
 translate spanish e07s05_arj_pb_bj_2_439f4390:
 
     # arj "Looks like they're all having fun with [e07_lcname!t], which means..."
-    arj "Parece que todos se están divirtiendo con [e07_lcname!t], lo que significa..."
+    arj "Parece que todos se están divitiendo con [e07_lcname!t], lo que significa..."
 
 # game/code/e07/e07s05.rpy:831
 translate spanish e07s05_arj_pb_bj_2_ae60b19f:
@@ -1042,7 +1042,7 @@ translate spanish e07s05_arj_pb_bj_2_fedc09d9:
 translate spanish e07s05_arj_pb_bj_2_4aec7caa:
 
     # pb "AmRose - no shit, you give the best head."
-    pb "AmRose: no te jodas, tú das la mejor mamada."
+    pb "AmRose... mierda, tú das la mejor mamada."
 
 # game/code/e07/e07s05.rpy:868
 translate spanish e07s05_arj_pb_bj_2_7b756a82:
@@ -1054,19 +1054,19 @@ translate spanish e07s05_arj_pb_bj_2_7b756a82:
 translate spanish e07s05_arj_pb_bj_2_7bc0c177:
 
     # pb "When what?"
-    pb "¿Cuando que?"
+    pb "¿Cuando qué?"
 
 # game/code/e07/e07s05.rpy:871
 translate spanish e07s05_arj_pb_bj_2_01a8cc49:
 
     # arj "... You have such a nice dick, Pete. A..."
-    arj "... Tienes una polla muy bonita, Pete. A..."
+    arj "... Tienes una polla muy bonita, Pete."
 
 # game/code/e07/e07s05.rpy:874
 translate spanish e07s05_arj_pb_bj_2_4c5b335a:
 
     # pb "A what? Just say whatever you're trying to say."
-    pb "¿Un qué? Simplemente di lo que estés intentando decir."
+    pb "¿Un qué? Simplemente di lo que estás intentando decir."
 
 # game/code/e07/e07s05.rpy:877
 translate spanish e07s05_arj_pb_bj_2_fbcaa0ae:
@@ -1096,7 +1096,7 @@ translate spanish e07s05_arj_pb_bj_3_fd4ddf55:
 translate spanish e07s05_arj_pb_bj_3_250a0075:
 
     # pb "Nnnnng-Fuck! AmRose!"
-    pb "Nnnnng-¡Joder! ¡SoyRose!"
+    pb "Nnnnng-¡Joder! ¡AmRose!"
 
 # game/code/e07/e07s05.rpy:932
 translate spanish e07s05_arj_pb_bj_3_77a4f000:
@@ -1120,19 +1120,19 @@ translate spanish e07s05_arj_pb_bj_cum_bd9688db:
 translate spanish e07s05_arj_pb_bj_cum_db1d0820:
 
     # mct "I can't believe how intense AmRose is getting. She's supposed to be here for me."
-    mct "No puedo creer lo intenso que se está poniendo AmRose. Se supone que ella debe estar aquí para ayudarme."
+    mct "No puedo creer lo intensa que se está poniendo AmRose. Se supone que ella debe estar aquí para ayudarme."
 
 # game/code/e07/e07s05.rpy:969
 translate spanish e07s05_arj_pb_bj_cum_1311c556:
 
     # mct "Is... is this really happening?"
-    mct "¿Está... está sucediendo esto realmente?"
+    mct "Está... ¿está sucediendo esto realmente?"
 
 # game/code/e07/e07s05.rpy:972
 translate spanish e07s05_arj_pb_bj_cum_fb97109a:
 
     # pb "Fuuuuuhuuuck, AmRose!"
-    pb "¡Fuuuuhuuuuck, AmRose!"
+    pb "¡Mieeeerda, AmRose!"
 
 # game/code/e07/e07s05.rpy:974
 translate spanish e07s05_arj_pb_bj_cum_e1f19d09:
@@ -1144,7 +1144,7 @@ translate spanish e07s05_arj_pb_bj_cum_e1f19d09:
 translate spanish e07s05_arj_pb_bj_cum_ada22cb8:
 
     # pb "Cum!"
-    pb "¡Semen!"
+    pb "¡Correrme!"
 
 # game/code/e07/e07s05.rpy:994
 translate spanish e07s05_arj_pb_bj_cum_99aacc8c:
@@ -1162,7 +1162,7 @@ translate spanish e07s05_arj_pb_bj_cum_4268b048:
 translate spanish e07s05_arj_pb_bj_cum_0b15fd01:
 
     # arj "I..."
-    arj "I..."
+    arj "Yo..."
 
 # game/code/e07/e07s05.rpy:1001
 translate spanish e07s05_arj_pb_bj_cum_3ccb40c9:
@@ -1198,7 +1198,7 @@ translate spanish e07s05_arj_pb_bj_cum_cd3cf786:
 translate spanish e07s05_arj_pb_bj_cum_d7d95ce5:
 
     # pb "Uhhhh..."
-    pb "Ehhh..."
+    pb "Ehh..."
 
 # game/code/e07/e07s05.rpy:1033
 translate spanish e07s05_arj_pb_bj_cum_f38df4e3:
@@ -1210,19 +1210,19 @@ translate spanish e07s05_arj_pb_bj_cum_f38df4e3:
 translate spanish e07s05_arj_pb_bj_cum_f6f37c88:
 
     # pb "... Yes, [e07_lcname!t]. I did..."
-    pb "... Sí, [e07_lcname!t]. Hice..."
+    pb "... Sí, [e07_lcname!t], lo hice..."
 
 # game/code/e07/e07s05.rpy:1040
 translate spanish e07s05_arj_pb_bj_cum_358b1534:
 
     # lc "I am disappointed in you two. Both of you. [e07_pbname!t], I'm going to get creative with your punishment."
-    lc "Estoy decepcionado con ustedes dos. Ustedes dos. [e07_pbname!t], voy a ser creativo con tu castigo."
+    lc "Estoy decepcionada con ustedes dos. [e07_pbname!t], voy a ser creativa con sus castigo."
 
 # game/code/e07/e07s05.rpy:1041
 translate spanish e07s05_arj_pb_bj_cum_68557000:
 
     # lc "And [e07_arjname!t], you'll be sleeping in the dungeon, in the crate, for the next week. Understood?"
-    lc "Y [e07_arjname!t], dormirás en el calabozo, en la caja, durante la próxima semana. ¿Comprendido?"
+    lc "Y [e07_arjname!t], dormirás en el calabozo, en la caja, durante la próxima semana. ¿Lo entiendes?"
 
 # game/code/e07/e07s05.rpy:1044
 translate spanish e07s05_arj_pb_bj_cum_acb15a7b:
@@ -1246,25 +1246,25 @@ translate spanish e07s05_grand_finale_6305409b:
 translate spanish e07s05_grand_finale_500715c4:
 
     # lc "Well if you want to cum-"
-    lc "Bueno, si quieres correrte"
+    lc "Bueno, si quieren correrse"
 
 # game/code/e07/e07s05.rpy:1067
 translate spanish e07s05_grand_finale_6bc0600e:
 
     # lc "-Why don't you cover my pretty, little face?"
-    lc "-¿Por qué no cubres mi carita bonita?"
+    lc "-¿Por qué no cubren mi carita bonita?"
 
 # game/code/e07/e07s05.rpy:1072
 translate spanish e07s05_grand_finale_f5fdb1a6:
 
     # gc "Holy-"
-    gc "Santo-"
+    gc "Santa..."
 
 # game/code/e07/e07s05.rpy:1073
 translate spanish e07s05_grand_finale_151758e4:
 
     # dr "-Shit."
-    dr "-Mierda."
+    dr "...Mierda."
 
 # game/code/e07/e07s05.rpy:1078
 translate spanish e07s05_grand_finale_b2a04f0d:
@@ -1282,19 +1282,19 @@ translate spanish e07s05_grand_finale_4a5de0fb:
 translate spanish e07s05_grand_finale_526981bd:
 
     # dr "-I'm gonna fucking-"
-    dr "-Voy a joder-"
+    dr "-Me voy a..."
 
 # game/code/e07/e07s05.rpy:1085
 translate spanish e07s05_grand_finale_5ae55f91:
 
     # gc "-Cum!!!"
-    gc "-¡¡¡Semen!!!"
+    gc "-¡¡¡Correr!!!"
 
 # game/code/e07/e07s05.rpy:1098
 translate spanish e07s05_grand_finale_3b256a10:
 
     # lc "You men did not disappoint."
-    lc "Ustedes no decepcionaron."
+    lc "Ustedes no se decepcionaron."
 
 # game/code/e07/e07s05.rpy:1100
 translate spanish e07s05_grand_finale_6b8b3dc5:
@@ -1306,7 +1306,7 @@ translate spanish e07s05_grand_finale_6b8b3dc5:
 translate spanish e07s05_grand_finale_16503a42:
 
     # lc "You all can go now. You've served your purpose."
-    lc "Todos ustedes pueden irse ahora. Has cumplido tu propósito."
+    lc "Todos ustedes pueden irse ahora. Han cumplido su propósito."
 
 # game/code/e07/e07s05.rpy:1110
 translate spanish e07s05_grand_finale_b898db24:
@@ -1336,7 +1336,7 @@ translate spanish e07s05_grand_finale_2387a277:
 translate spanish e07s05_grand_finale_d2aabd22:
 
     # gc "I love you, Lydia."
-    gc "Te amo, Lidia."
+    gc "Te amo, Lydia."
 
 # game/code/e07/e07s05.rpy:1124
 translate spanish e07s05_grand_finale_22be6e35:
@@ -1354,19 +1354,19 @@ translate spanish e07s05_grand_finale_1ee2cf6f:
 translate spanish e07s05_grand_finale_1baf5cd7:
 
     # lc "As a reward, I want you to come over here and lick me clean."
-    lc "Como recompensa, quiero que vengas aquí y me lamas hasta dejarme limpio."
+    lc "Como recompensa, quiero que vengas aquí y me lamas hasta dejarme limpia."
 
 # game/code/e07/e07s05.rpy:1138
 translate spanish e07s05_grand_finale_810fe451:
 
     # mc "You want me to..."
-    mc "Quieres que yo..."
+    mc "¿Quieres que yo...?"
 
 # game/code/e07/e07s05.rpy:1140
 translate spanish e07s05_grand_finale_f4a49058:
 
     # lc "Come and get a taste of real men. And with how disappointed I am in [e07_pbname!t], you'll even be crowned the winner of this challenge. And I'll give you a little kiss as a bonus."
-    lc "Ven y prueba a los hombres reales. Y con lo decepcionado que estoy con [e07_pbname!t], incluso serás coronado como el ganador de este desafío. Y te daré un besito de regalo."
+    lc "Ven y prueba a los hombres de verdad. Y con lo decepcionada que estoy con [e07_pbname!t], incluso serás coronado como el ganador de este desafío. Y te daré un besito de regalo."
 
 # game/code/e07/e07s05.rpy:1156
 translate spanish e07s05_early_end_434136d8:
@@ -1408,13 +1408,13 @@ translate spanish e07s05_early_end_6c50fc84:
 translate spanish e07s05_early_end_df56e9dd:
 
     # lc "That's fine. I have some {i}real men{/i} to keep me company."
-    lc "Está bien. Tengo algunos {i}hombres de verdad{/i} para hacerme compañía."
+    lc "All Right. Tengo algunos {i}hombres de verdad{/i} para hacerme compañía."
 
 # game/code/e07/e07s05.rpy:1178
 translate spanish e07s05_early_end_d2617ce3:
 
     # lc "And it looks like I'm not the only one."
-    lc "Y parece que no soy el único."
+    lc "Y parece que no soy la única."
 
 # game/code/e07/e07s05.rpy:1187
 translate spanish e07s05_early_end_2_3eab0d88:
@@ -1426,7 +1426,7 @@ translate spanish e07s05_early_end_2_3eab0d88:
 translate spanish e07s05_early_end_2_31df3444:
 
     # lc "And no matter how disappointed I am in you two, I guess [e07_pbname!t] is the winner of this challenge."
-    lc "Y no importa lo decepcionado que esté con ustedes dos, supongo que [e07_pbname!t] es el ganador de este desafío."
+    lc "Y no importa lo decepcionada que esté con ustedes dos, supongo que [e07_pbname!t] es el ganador de este desafío."
 
 # game/code/e07/e07s05.rpy:1193
 translate spanish e07s05_early_end_2_4230c44f:
@@ -1444,7 +1444,7 @@ translate spanish e07s05_early_end_2_eab27b5e:
 translate spanish e07s05_early_end_2_29699b55:
 
     # lc "Your sorry's are useless to me. Just, go home."
-    lc "Tus disculpas son inútiles para mí. Solo vete a casa."
+    lc "Tus disculpas son inútiles para mí. Sólo vete a casa."
 
 # game/code/e07/e07s05.rpy:1211
 translate spanish e07s05_win_db152e78:
@@ -1480,7 +1480,7 @@ translate spanish e07s05_win_62de3237:
 translate spanish e07s05_win_d019cce9:
 
     # mct "Anything."
-    mct "Cualquier cosa."
+    mct "Anything."
 
 # game/code/e07/e07s05.rpy:1246
 translate spanish e07s05_win_8139df15:
@@ -1498,7 +1498,7 @@ translate spanish e07s05_win_6e71ca86:
 translate spanish e07s05_win_596d0cc0:
 
     # lc "I'm going to take a shower. I'll see you all back in the dungeon."
-    lc "Voy a darme una ducha. Los veré a todos de regreso en el calabozo."
+    lc "Voy a darme una ducha. Los veré a todos de regreso en la mazmorra."
 
 translate spanish strings:
 
@@ -1508,7 +1508,7 @@ translate spanish strings:
 
     # game/code/e07/e07s05.rpy:334
     old "Door Number Two"
-    new "Puerta número dos"
+    new "Puerta numero dos"
 
     # game/code/e07/e07s05.rpy:334
     old "Door Number Three"
@@ -1516,9 +1516,9 @@ translate spanish strings:
 
     # game/code/e07/e07s05.rpy:334
     old "I can't watch this"
-    new "no puedo ver esto"
+    new "No puedo ver esto"
 
     # game/code/e07/e07s05.rpy:1142
     old "Clean [e07_lcname!t]"
-    new "Limpiar [e07_lcname!t]"
+    new "Limpiar a [e07_lcname!t]"
 
