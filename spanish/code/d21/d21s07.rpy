@@ -1264,7 +1264,7 @@ translate spanish d21s07_closing_2adcde9a:
 translate spanish d21s07_closing_41e626a4:
 
     # mc "Yes, your honor. I am [mcname] Young.{w} My signature is on those documents."
-    mc "Sí, su señoría. Soy [mcname] Young. {w} Mi firma está en esos documentos."
+    mc "Sí, señoría. Yo [mcname] Young, coloqué mi firma en esos documentos."
 
 # game/code/d21/d21s07.rpy:698
 translate spanish d21s07_closing_b6c96550:
@@ -1540,7 +1540,7 @@ translate spanish d21s07_closing_4311f40b:
 translate spanish d21s07_closing_087b684d:
 
     # jdg "BE SILENT. As for you, Miss Cox..."
-    jdg "SILENCIO. En cuanto a usted, señorita Cox..."
+    jdg "SILENCIO. En cuanto a usted, Señorita Cox..."
 
 # game/code/d21/d21s07.rpy:830
 translate spanish d21s07_closing_10b31f51:
@@ -1648,7 +1648,7 @@ translate spanish d21s07_closing_9df8f4a4:
 translate spanish d21s07_closing_330d1221:
 
     # mc "Whoa! What the-?"
-    mc "¡Guau! ¿Qué?"
+    mc "¡Vaya! ¿Qué?"
 
 # game/code/d21/d21s07.rpy:892
 translate spanish d21s07_closing_3535541c:
