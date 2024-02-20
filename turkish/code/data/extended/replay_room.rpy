@@ -305,9 +305,6 @@ translate turkish strings:
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Pregnant Dahlia"
     new "17. Son: Pregnant Dahlia"
-# TODO: Translation updated at 2024-02-08 02:36
-
-translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia"
@@ -315,7 +312,7 @@ translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia, Stacy & AmRose"
-    new "Ending 04: Lydia, Stacy & AmRose"
+    new "Bitiş 04: Lydia, Stacy & AmRose"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Daisy, Lydia, Stacy & AmRose"
@@ -323,11 +320,11 @@ translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lyssa & Lydia"
-    new "Ending 04: Lyssa & Lydia"
+    new "Bitiş 04: Lyssa & Lydia"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia & Maria"
-    new "Ending 04: Lydia & Maria"
+    new "Bitiş 04: Lydia & Maria"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Harem"
