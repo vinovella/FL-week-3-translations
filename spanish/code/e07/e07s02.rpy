@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-08 02:37
+# TODO: Translation updated at 2024-02-08 02:37
 
 # game/code/e07/e07s02.rpy:39
 translate spanish e07s02_42fc7010:
@@ -22,7 +22,7 @@ translate spanish e07s02_cb41032a:
 translate spanish e07s02_bda8a039:
 
     # lc "I knew you were going to be a disappointment."
-    lc "Sabía que ibas a ser una decepción."
+    lc "Sabía que ibas a ser un engaño."
 
 # game/code/e07/e07s02.rpy:59
 translate spanish e07s02_33c0f773:
@@ -46,13 +46,13 @@ translate spanish e07s02_212acdbd:
 translate spanish e07s02_85598594:
 
     # mc "Uhhh, I don't know how to poach an egg..."
-    mc "Uhhh, no sé escalfar un huevo..."
+    mc "Uhhh, no sé escalar un huevo..."
 
 # game/code/e07/e07s02.rpy:72
 translate spanish e07s02_0eabfa03:
 
     # lc "Just - fucking leave. Get out of my sight."
-    lc "Sólo... vete. Apártate de mi vista."
+    lc "Sólo...vete. Apártate de mi vista."
 
 # game/code/e07/e07s02.rpy:75
 translate spanish e07s02_40a1922e:
@@ -64,7 +64,7 @@ translate spanish e07s02_40a1922e:
 translate spanish e07s02_dccbeae8:
 
     # lc "Can you?"
-    lc "¿Puede?"
+    lc "¿Puedes?"
 
 # game/code/e07/e07s02.rpy:79
 translate spanish e07s02_eaade3d5:
@@ -100,7 +100,7 @@ translate spanish e07s02_7f2f5d4e:
 translate spanish e07s02_2b9e14dd:
 
     # arj "She shouldn't treat you like that..."
-    arj "Ella no debería tratarte así..."
+    arj "Ella no debería tratarte de esa manera..."
 
 # game/code/e07/e07s02.rpy:104
 translate spanish e07s02_32a5d079:
@@ -178,13 +178,13 @@ translate spanish e07s02_c0dc3ecf:
 translate spanish e07s02_5567342c:
 
     # lc "Huh... This is real for you. This isn't an act."
-    lc "Eh... Esto es real para ti. Esto no es un acto."
+    lc "Huh... Esto es real para ti. No es una actuación."
 
 # game/code/e07/e07s02.rpy:155
 translate spanish e07s02_8d834cca:
 
     # mc "What do you mean, [e07_lcname!t]?"
-    mc "¿Qué quieres decir con [e07_lcname!t]?"
+    mc "¿Qué quieres decir [e07_lcname!t]?"
 
 # game/code/e07/e07s02.rpy:158
 translate spanish e07s02_624d70d7:
@@ -208,7 +208,7 @@ translate spanish e07s02_1fa6279c:
 translate spanish e07s02_a23917d6:
 
     # mc "What about her?"
-    mc "¿Que hay de ella?"
+    mc "¿Qué hay de ella?"
 
 # game/code/e07/e07s02.rpy:171
 translate spanish e07s02_58163507:
@@ -220,13 +220,13 @@ translate spanish e07s02_58163507:
 translate spanish e07s02_5207549d:
 
     # mc "I mean... Sure? It means that you have one more person here to fill your needs."
-    mc "Quiero decir... ¿Seguro? Significa que tienes una persona más aquí para satisfacer tus necesidades."
+    mc "Quiero decir... ¿Seguro? Significa que tienes una persona más aquí para satisfacer sus necesidades."
 
 # game/code/e07/e07s02.rpy:178
 translate spanish e07s02_a56f43a4:
 
     # lc "Well, she filled {i}your needs{/i} at the very least."
-    lc "Bueno, ella satisfizo {i}tus necesidades{/i} como mínimo."
+    lc "Bueno, al menos ha satisfecho {i}tus necesidades{/i}."
 
 # game/code/e07/e07s02.rpy:182
 translate spanish e07s02_a71b49f2:
@@ -256,7 +256,7 @@ translate spanish e07s02_78732fa3:
 translate spanish e07s02_c41594d9:
 
     # lc "You've brought a little spark back into the dungeon."
-    lc "Has traído una pequeña chispa de vuelta al calabozo."
+    lc "Has devuelto un poco de chispa a la mazmorra."
 
 # game/code/e07/e07s02.rpy:197
 translate spanish e07s02_b2b9e19d:
@@ -268,7 +268,7 @@ translate spanish e07s02_b2b9e19d:
 translate spanish e07s02_6319d3ba:
 
     # lc "Can I be honest with you, [e07_mcname!t]?"
-    lc "¿Puedo ser honesto contigo, [e07_mcname!t]?"
+    lc "¿Puedo ser honesta contigo, [e07_mcname!t]?"
 
 # game/code/e07/e07s02.rpy:202
 translate spanish e07s02_1268f83a:
@@ -280,7 +280,7 @@ translate spanish e07s02_1268f83a:
 translate spanish e07s02_ac44c3bc:
 
     # lc "I've been so fucking bored lately. [e07_pbname!t] is just... He does the same thing, over and over. And I just..."
-    lc "He estado tan jodidamente aburrido últimamente. [e07_pbname!t] es simplemente... Hace lo mismo, una y otra vez. Y yo solo..."
+    lc "He estado tan jodidamente aburrido últimamente. [e07_pbname!t] es simplemente... Hace lo mismo, una y otra vez. Yo solo..."
 
 # game/code/e07/e07s02.rpy:204
 translate spanish e07s02_cf9f80d2:
@@ -304,7 +304,7 @@ translate spanish e07s02_a3c066e5:
 translate spanish e07s02_f69d38d8:
 
     # mc "Lydia, I..."
-    mc "Lidia, yo..."
+    mc "Lydia, yo..."
 
 # game/code/e07/e07s02.rpy:218
 translate spanish e07s02_04506287:
@@ -322,13 +322,13 @@ translate spanish e07s02_ae59d280:
 translate spanish e07s02_24717091:
 
     # lc "I'm going to take a bath. Bring the glass to me in there, okay?"
-    lc "Voy a tomar un baño. Tráeme el vaso allí, ¿vale?"
+    lc "Voy a darme un baño. Llévame el vaso ahí dentro, ¿de acuerdo?"
 
 # game/code/e07/e07s02.rpy:227
 translate spanish e07s02_a38e5c48:
 
     # mc "Your wish is my command, [e07_lcname!t]."
-    mc "Tu deseo es mi orden, [e07_lcname!t]."
+    mc "Tus deseos son órdenes, [e07_lcname!t]."
 
 # game/code/e07/e07s02.rpy:241
 translate spanish e07s02_6f0d6ded:
@@ -340,7 +340,7 @@ translate spanish e07s02_6f0d6ded:
 translate spanish e07s02_f5821ed8:
 
     # mc "I need to grab a glass of water for [e07_lcname!t]."
-    mc "Necesito tomar un vaso de agua para [e07_lcname!t]."
+    mc "Necesito llevarle un vaso de agua para [e07_lcname!t]."
 
 # game/code/e07/e07s02.rpy:247
 translate spanish e07s02_43031515:
@@ -352,7 +352,7 @@ translate spanish e07s02_43031515:
 translate spanish e07s02_b6aadfb8:
 
     # arj "What'd she want?"
-    arj "¿Qué querría ella?"
+    arj "¿Qué quería ella?"
 
 # game/code/e07/e07s02.rpy:254
 translate spanish e07s02_33f273a9:
@@ -388,13 +388,13 @@ translate spanish e07s02_3322cede:
 translate spanish e07s02_048e78fe:
 
     # pb "'Sup man?"
-    pb "'¿Que pasa tio?"
+    pb "¿Qué pasa hombre?"
 
 # game/code/e07/e07s02.rpy:274
 translate spanish e07s02_915f5d3f:
 
     # mc "Not much, just getting some water for [e07_lcname!t]."
-    mc "No mucho, sólo conseguir un poco de agua para [e07_lcname!t]."
+    mc "No mucho, sólo consiguiendo un poco de agua para [e07_lcname!t]."
 
 # game/code/e07/e07s02.rpy:277
 translate spanish e07s02_feac5764:
@@ -412,7 +412,7 @@ translate spanish e07s02_6cdded72:
 translate spanish e07s02_ecf8928a:
 
     # pb "Hey, have I told you lately that you're pretty hot?"
-    pb "Oye, ¿te he dicho últimamente que estás bastante buena?"
+    pb "Oye, ¿te he dicho últimamente que estás bastante sexy?"
 
 # game/code/e07/e07s02.rpy:287
 translate spanish e07s02_113cf047:
@@ -424,7 +424,7 @@ translate spanish e07s02_113cf047:
 translate spanish e07s02_9fff2de4:
 
     # pb "You're hot, AmRose. I never really checked you out before, but-"
-    pb "Estás buena, AmRose. Realmente nunca te había mirado antes, pero-"
+    pb "Estás sexy, AmRose. Realmente nunca te había mirado antes, pero-"
 
 # game/code/e07/e07s02.rpy:291
 translate spanish e07s02_42460274:
@@ -454,13 +454,13 @@ translate spanish e07s02_0e1bdc7c:
 translate spanish e07s02_7bedd58b:
 
     # pb "I'll see you around."
-    pb "I te veré por ahí."
+    pb "Te veré por ahí."
 
 # game/code/e07/e07s02.rpy:304
 translate spanish e07s02_0d871898:
 
     # arj "Yeah... I'll see ya'."
-    arj "Sí... te veré."
+    arj "Sí... nos vemos."
 
 # game/code/e07/e07s02.rpy:321
 translate spanish e07s02_bathroom_8605ee60:
@@ -472,7 +472,7 @@ translate spanish e07s02_bathroom_8605ee60:
 translate spanish e07s02_bathroom_429b0e2a:
 
     # mc "No- I, uhhh-"
-    mc "No-yo, uhhh-"
+    mc "No... yo, uhhh-"
 
 # game/code/e07/e07s02.rpy:327
 translate spanish e07s02_bathroom_8240ba0e:
@@ -490,7 +490,7 @@ translate spanish e07s02_bathroom_b63176d9:
 translate spanish e07s02_bathroom_d1cbd0ec:
 
     # lc "Kneel."
-    lc "Arrodillarse."
+    lc "Arrodíllate."
 
 # game/code/e07/e07s02.rpy:337
 translate spanish e07s02_bathroom_8139df15:
@@ -526,7 +526,7 @@ translate spanish e07s02_bathroom_e32eaf07:
 translate spanish e07s02_bathroom_47d1322b:
 
     # mct "Oh my God..."
-    mct "Ay dios mío..."
+    mct "Ay Dios mío..."
 
 # game/code/e07/e07s02.rpy:360
 translate spanish e07s02_bathroom_2915b9a8:
@@ -538,7 +538,7 @@ translate spanish e07s02_bathroom_2915b9a8:
 translate spanish e07s02_bathroom_a31340dd:
 
     # mc "Really?"
-    mc "¿En realidad?"
+    mc "¿En serio?"
 
 # game/code/e07/e07s02.rpy:367
 translate spanish e07s02_bathroom_46f012e8:
@@ -556,7 +556,7 @@ translate spanish e07s02_bathroom_34ee1241:
 translate spanish e07s02_bathroom_5c6fe2e3:
 
     # mc "Uhhh, no. I... Don't know."
-    mc "Uhhh, no. No sé."
+    mc "Uhhh, no. Nariz."
 
 # game/code/e07/e07s02.rpy:375
 translate spanish e07s02_bathroom_c0ffd2a8:
@@ -598,7 +598,7 @@ translate spanish e07s02_bathroom_39d43c8d:
 translate spanish e07s02_bathroom_2b870632:
 
     # "*SNAP*"
-    "*QUEBRAR*"
+    "*SNAP*"
 
 # game/code/e07/e07s02.rpy:399
 translate spanish e07s02_bathroom_076a87d8:
@@ -634,13 +634,13 @@ translate spanish e07s02_bathroom_9dcdfa45:
 translate spanish e07s02_bathroom_42bd829d:
 
     # mc "Wait, what?"
-    mc "¿Esperar lo?"
+    mc "Espera, ¿qué?"
 
 # game/code/e07/e07s02.rpy:417
 translate spanish e07s02_bathroom_706bab16:
 
     # lc "What's confusing about it? I want to see who finishes first, me or [e07_pbname!t]."
-    lc "¿Qué tiene de confuso? Quiero ver quién termina primero, yo o [e07_pbname!t]."
+    lc "¿Qué tiene de complicado? Quiero ver quién termina primero, yo o [e07_pbname!t]."
 
 # game/code/e07/e07s02.rpy:418
 translate spanish e07s02_bathroom_297d087a:
@@ -658,7 +658,7 @@ translate spanish e07s02_bathroom_0e34b820:
 translate spanish e07s02_bathroom_c992f226:
 
     # lc "Otherwise, you can refuse. But you'll have to leave. If you can't show me how far you're willing to go for your devotion, you have no place here."
-    lc "De lo contrario, puedes negarte. Pero tendrás que irte. Si no puedes mostrarme hasta dónde estás dispuesto a llegar por tu devoción, no tienes lugar aquí."
+    lc "De lo contrario, puedes negarte. Pero tendrás que irte. Si no puedes mostrarme hasta dónde estás dispuesto a llegar con tu devoción, no tienes lugar aquí."
 
 # game/code/e07/e07s02.rpy:425
 translate spanish e07s02_bathroom_2499040b:
@@ -682,13 +682,13 @@ translate spanish e07s02_bathroom_5ba7b92e:
 translate spanish e07s02_bathroom_8d262814:
 
     # lc "-Get set-"
-    lc "-Prepárate-"
+    lc "-Listo-"
 
 # game/code/e07/e07s02.rpy:442
 translate spanish e07s02_bathroom_647aea76:
 
     # lc "Go."
-    lc "Ir."
+    lc "Fuera."
 
 # game/code/e07/e07s02.rpy:449
 translate spanish e07s02_bathroom_1403b0d6:
@@ -730,7 +730,7 @@ translate spanish e07s02_bathroom_48d8bced:
 translate spanish e07s02_bathroom_809d3efc:
 
     # lc "You're not going to let me down, are you?"
-    lc "No me vas a decepcionar, ¿verdad?"
+    lc "No me vas a engañar, ¿verdad?"
 
 # game/code/e07/e07s02.rpy:471
 translate spanish e07s02_bathroom_3efeed88:
@@ -790,7 +790,7 @@ translate spanish e07s02_bathroom_3b276bcd:
 translate spanish e07s02_bathroom_37937bec:
 
     # lc "Mmmmmm, fuck, [e07_mcname!t], eat my ass and make me cum."
-    lc "Mmmmmm, joder, [e07_mcname!t], cómeme el culo y hazme correrme."
+    lc "Mmmmmm, joder, [e07_mcname!t], cómeme el culo y haz que me corra."
 
 # game/code/e07/e07s02.rpy:522
 translate spanish e07s02_challenge_win_91b07966:
@@ -814,13 +814,13 @@ translate spanish e07s02_challenge_win_99ee2411:
 translate spanish e07s02_challenge_win_d46b764a:
 
     # lc "Yes, yes, YES!!"
-    lc "¡¡Si si si!!"
+    lc "¡Sí, sí, SÍ!"
 
 # game/code/e07/e07s02.rpy:534
 translate spanish e07s02_challenge_win_9b1215fd:
 
     # lc "Fuuuuuhuuuck! I'm cumming!"
-    lc "Fuuuuuhuuuck! ¡Me estoy acabando!"
+    lc "Miiiieeeerda! ¡Me estoy corriendo!"
 
 # game/code/e07/e07s02.rpy:539
 translate spanish e07s02_challenge_win_a85f65b8:
@@ -832,7 +832,7 @@ translate spanish e07s02_challenge_win_a85f65b8:
 translate spanish e07s02_challenge_win_a922b889:
 
     # pb "Fuck, [e07_lcname!t]. I'm so close. Can I please finish?"
-    pb "Joder, [e07_lcname!t]. Estoy tan cerca. ¿Puedo terminar por favor?"
+    pb "Jóder, [e07_lcname!t]. Estoy tan cerca. ¿Puedo terminar por favor?"
 
 # game/code/e07/e07s02.rpy:545
 translate spanish e07s02_challenge_win_2dba71fa:
@@ -892,7 +892,7 @@ translate spanish e07s02_bath_water_b0ab7c45:
 translate spanish e07s02_bath_water_2d097fff:
 
     # lc "Drink."
-    lc "Beber."
+    lc "Bébelo."
 
 # game/code/e07/e07s02.rpy:624
 translate spanish e07s02_drink_3b6064d0:
@@ -904,7 +904,7 @@ translate spanish e07s02_drink_3b6064d0:
 translate spanish e07s02_drink_159dba35:
 
     # lc "Good. Now both of you, go wait for me in my bedroom. I'll be out... When I want to."
-    lc "Bien. Ahora ustedes dos, esperenme en mi habitación. Saldré... cuando quiera."
+    lc "Bien. Ahora ustedes dos, espérenme en mi habitación. Saldré... cuando quiera."
 
 # game/code/e07/e07s02.rpy:633
 translate spanish e07s02_drink_d8e208a3:
@@ -922,7 +922,7 @@ translate spanish e07s02_drink_80ad1a9a:
 translate spanish e07s02_end_0771069a:
 
     # pb "Yeah man, [e07_lcname!t] can be real cruel. She's left me like this for hours."
-    pb "Sí hombre, [e07_lcname!t] puede ser muy cruel. Me ha dejado así durante horas."
+    pb "Sí hombre, [e07_lcname!t] puede ser muy cruel. Me ha dejado de esa manera durante horas."
 
 # game/code/e07/e07s02.rpy:652
 translate spanish e07s02_end_cbf2c30c:
@@ -934,25 +934,25 @@ translate spanish e07s02_end_cbf2c30c:
 translate spanish e07s02_end_aef43561:
 
     # mc "You don't appreciate [e07_lcname!t]."
-    mc "No aprecias [e07_lcname!t]."
+    mc "No te lo agradezco [e07_lcname!t]."
 
 # game/code/e07/e07s02.rpy:658
 translate spanish e07s02_end_46a49327:
 
     # pb "Okay... Sure. But, what about AmRose? I mean, some of the shit [e07_lcname!t] has done to her... And she's stuck around for you."
-    pb "Bien, seguro. Pero ¿qué pasa con AmRose? Quiero decir, parte de la mierda que [e07_lcname!t] le ha hecho... Y ella se queda aquí para ti."
+    pb "Bien, seguro. ¿Pero qué pasó con AmRose? Quiero decir, parte de la mierda que [e07_lcname!t] le ha hecho... Y ella se queda aquí para ti."
 
 # game/code/e07/e07s02.rpy:661
 translate spanish e07s02_end_00a777b4:
 
     # mc "Yeah, and?"
-    mc "¿Sí y?"
+    mc "Sí, ¿y?"
 
 # game/code/e07/e07s02.rpy:664
 translate spanish e07s02_end_def43e23:
 
     # pb "Man, just between us, I've got no idea why you've got such a hard-on for Lydia when AmRose would do anything for you."
-    pb "Hombre, entre nosotros, no tengo idea de por qué tienes tanta erección por Lydia cuando AmRose haría cualquier cosa por ti."
+    pb "Hombre, que quede entre nosotros, no tengo ni idea de por qué tienes tanta obsesión con Lydia cuando AmRose haría cualquier cosa por ti."
 
 # game/code/e07/e07s02.rpy:667
 translate spanish e07s02_end_3f4aae93:
@@ -970,7 +970,7 @@ translate spanish e07s02_end_128a9b86:
 translate spanish e07s02_end_45d28ad2:
 
     # lc "That little competition we did is probably the highlight of the month for me. And it got me thinking, what if we did more of them?"
-    lc "Esa pequeña competencia que hicimos es probablemente lo más destacado del mes para mí. Y me hizo pensar, ¿y si hiciéramos más de ellos?"
+    lc "Esa pequeña competencia que hicimos es probablemente lo más destacado del mes para mí. Y me hizo pensar, ¿y si hiciéramos más de ello?"
 
 # game/code/e07/e07s02.rpy:678
 translate spanish e07s02_end_18e5dbfb:
@@ -988,13 +988,13 @@ translate spanish e07s02_end_3aec73ae:
 translate spanish e07s02_end_0d27b0b6:
 
     # lc "Every time you open your mouth, [e07_pbname!t], it makes me question why I let you fuck me."
-    lc "Cada vez que abres la boca, [e07_pbname!t], me hace preguntarme por qué dejé que me follaras."
+    lc "Cada vez que abre la boca, [e07_pbname!t], me haces preguntarme por qué dejé que me follaras."
 
 # game/code/e07/e07s02.rpy:686
 translate spanish e07s02_end_7287520e:
 
     # lc "No. I was thinking that we could go have some fun in my friend's dungeon."
-    lc "No. Estaba pensando que podríamos ir a divertirnos al calabozo de mi amigo."
+    lc "No. Estaba pensando que podríamos ir a divertirnos a la mazmorra de mi amigo."
 
 # game/code/e07/e07s02.rpy:690
 translate spanish e07s02_end_d83795d4:
@@ -1048,13 +1048,13 @@ translate spanish e07s02_end_06a7c276:
 translate spanish e07s02_end_4adac8c0:
 
     # pb "Where we going?"
-    pb "¿Donde vamos?"
+    pb "¿Dónde vamos?"
 
 # game/code/e07/e07s02.rpy:719
 translate spanish e07s02_end_07c74bea:
 
     # lc "You'll see when we get there. Now go, or I'll make you both go through the airport with gags and leashes."
-    lc "Ya lo verás cuando lleguemos. Ahora váyanse, o los haré pasar a ambos por el aeropuerto con mordazas y correas."
+    lc "Ya lo verán cuando lleguemos. Ahora váyanse, o los haré pasar a ambos por el aeropuerto con mordazas y correas."
 
 # game/code/e07/e07s02.rpy:722
 translate spanish e07s02_end_19a3ad4c:
@@ -1072,13 +1072,13 @@ translate spanish e07s02_end_f4df1ccb:
 translate spanish e07s02_end_1d354014:
 
     # pb "Yeah?"
-    pb "¿Sí?"
+    pb "¿Si?"
 
 # game/code/e07/e07s02.rpy:732
 translate spanish e07s02_end_46c2130c:
 
     # lc "I'm feeling a little worked up after my bath. Satisfy my needs, then go pack a bag."
-    lc "Me siento un poco alterado después del baño. Satisface mis necesidades y luego ve a hacer la maleta."
+    lc "Me siento un poco alterada después del baño. Satisface mis necesidades y luego ve a hacer la maleta."
 
 # game/code/e07/e07s02.rpy:736
 translate spanish e07s02_end_de801b2a:
@@ -1180,11 +1180,11 @@ translate spanish strings:
 
     # game/code/e07/e07s02.rpy:506
     old "Eat [e07_lcname!t]'s ass"
-    new "Cómele el culo a [e07_lcname!t]"
+    new "Cómele el culo a la [e07_lcname!t]"
 
     # game/code/e07/e07s02.rpy:506
     old "Keep eating out [e07_lcname!t]"
-    new "Sigue comiendo fuera [e07_lcname!t]"
+    new "Sigue comiendo fuera de la [e07_lcname!t]"
 
     # game/code/e07/e07s02.rpy:611
     old "Accept"
