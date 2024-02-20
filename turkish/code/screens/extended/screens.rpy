@@ -80,5 +80,5 @@ translate turkish strings:
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"
-    new "Get free DLC containing 6 endings from Steam"
+    new "Steam'den 6 son içeren ücretsiz DLC alın"
 
