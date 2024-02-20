@@ -264,11 +264,11 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:352
     old "TO MAKE SURE NO ONE\nWILL BE BLACKMAILED"
-    new "UM SICHERZUSTELLEN, DASS NIEMAND\nERPRESST WIRD"
+    new "UM SICHERZUSTELLEN,\nDASS NIEMAND ERPRESST WIRD"
 
     # game/code/data/extended/extra_gallery.rpy:354
     old "YOU'RE GOING TO USE\nIT FOR GOOD, RIGHT?"
-    new "DU WIRST ES FÜR GUTES BENUTZEN, ODER?"
+    new "DU WIRST ES FÜR\nGUTES BENUTZEN, ODER?"
 
     # game/code/data/extended/extra_gallery.rpy:355
     old "RIGHT?"
