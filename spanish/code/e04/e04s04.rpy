@@ -1,16 +1,16 @@
-﻿# TODO: Translation updated at 2024-01-25 23:49
+# TODO: Translation updated at 2024-01-25 23:49
 
 # game/code/e04/e04s04.rpy:15
 translate spanish e04s04_31d723d4:
 
     # mc "Damn, you look like you've been busy."
-    mc "Maldita sea, parece que has estado ocupado."
+    mc "Maldita sea, parece que has estado ocupada."
 
 # game/code/e04/e04s04.rpy:18
 translate spanish e04s04_9997a8bb:
 
     # sy "You have... No... Idea."
-    sy "No tienes idea."
+    sy "No tienes... idea."
 
 # game/code/e04/e04s04.rpy:21
 translate spanish e04s04_ee87e6f3:
@@ -22,19 +22,19 @@ translate spanish e04s04_ee87e6f3:
 translate spanish e04s04_c240ca3d:
 
     # sy "Yeah. I didn't expect AmRose to be so..."
-    sy "Sí. No esperaba que AmRose fuera tan..."
+    sy "Si. No esperaba que AmRose fuera tan..."
 
 # game/code/e04/e04s04.rpy:27
 translate spanish e04s04_d315a09f:
 
     # mc "Subservient? Bratty? Twisted?"
-    mc "¿Subordinado? ¿Mocoso? ¿Retorcido?"
+    mc "¿Subordinada? ¿Mocosa? ¿Retorcida?"
 
 # game/code/e04/e04s04.rpy:30
 translate spanish e04s04_523f0649:
 
     # sy "{i}Pliable.{/i}"
-    sy "{i}Flexible.{/i}"
+    sy "{i}Flexibles.{/i}"
 
 # game/code/e04/e04s04.rpy:33
 translate spanish e04s04_563c7f20:
@@ -46,7 +46,7 @@ translate spanish e04s04_563c7f20:
 translate spanish e04s04_071b5183:
 
     # sy "Can I have some water first? I'm parched."
-    sy "¿Puedo tomar un poco de agua primero? Estoy sediento."
+    sy "¿Puedo tomar un poco de agua primero? Tengo sed."
 
 # game/code/e04/e04s04.rpy:43
 translate spanish e04s04_81a5684a:
@@ -58,13 +58,13 @@ translate spanish e04s04_81a5684a:
 translate spanish e04s04_2930c24c:
 
     # sy "When we first started working together, she was hesitant. You know, she'd do anything I told her to, within reason."
-    sy "Cuando empezamos a trabajar juntas, ella dudaba. Sabes, ella haría cualquier cosa que le dijera, dentro de lo razonable."
+    sy "Cuando empezamos a trabajar juntas, ella dudaba. Sabe, ella haría cualquier cosa que le dijera, dentro de lo razonable."
 
 # game/code/e04/e04s04.rpy:45
 translate spanish e04s04_5393d4c2:
 
     # sy "But now, Jeeeesus! She's turned into a servile little animal."
-    sy "¡Pero ahora, Jeeeesus! Se ha convertido en un animalito servil."
+    sy "¡Pero ahora, Jesús! Se ha convertido en un animalito obediente."
 
 # game/code/e04/e04s04.rpy:48
 translate spanish e04s04_ad1eaa57:
@@ -76,7 +76,7 @@ translate spanish e04s04_ad1eaa57:
 translate spanish e04s04_171c4aa2:
 
     # sy "Like, I just pissed straight into her mouth. Then she thanked me! Then she asked me if I had to {i}relieve{/i} any other of my needs."
-    sy "Como si simplemente oriné directamente en su boca. ¡Entonces ella me agradeció! Luego me preguntó si tenía que {i}aliviar{/i} alguna otra de mis necesidades."
+    sy "Como si le meara directamente en la boca. Luego me dio las gracias. Luego me preguntó si tenía que {i}aliviar{/i} alguna otra de mis necesidades."
 
 # game/code/e04/e04s04.rpy:54
 translate spanish e04s04_b19633d8:
@@ -88,7 +88,7 @@ translate spanish e04s04_b19633d8:
 translate spanish e04s04_c5f41350:
 
     # sy "Thank you, so far it's my best work. How are things going for you and your little prisoner?"
-    sy "Gracias, hasta ahora es mi mejor trabajo. ¿Cómo os van las cosas a ti y a tu pequeño prisionero?"
+    sy "Gracias, hasta ahora es mi mejor trabajo. ¿Cómo van las cosas para ti y tu pequeña prisionera?"
 
 # game/code/e04/e04s04.rpy:60
 translate spanish e04s04_d0b7c871:
@@ -112,7 +112,7 @@ translate spanish e04s04_754efad9:
 translate spanish e04s04_07bfebdc:
 
     # mc "I mean, she's seen AmRose, but maybe she needs a different example?"
-    mc "Quiero decir, ha visto AmRose, pero ¿tal vez necesita un ejemplo diferente?"
+    mc "Quiero decir, he visto AmRose, pero ¿tal vez necesita un ejemplo diferente?"
 
 # game/code/e04/e04s04.rpy:69
 translate spanish e04s04_71d776f2:
@@ -124,7 +124,7 @@ translate spanish e04s04_71d776f2:
 translate spanish e04s04_f5bd554f:
 
     # "Both" "Daisy!"
-    "Ambos" "¡Margarita!"
+    "ambos" "¡Daisy!"
 
 # game/code/e04/e04s04.rpy:74
 translate spanish e04s04_b573a727:
@@ -154,7 +154,7 @@ translate spanish e04s04_10fe358b:
 translate spanish e04s04_e8dd8251:
 
     # mc "Hey! Daisy! How're you?"
-    mc "¡Ey! ¡Margarita! ¿Cómo estás?"
+    mc "¡Oye! ¡Daisy! ¿Cómo estás?"
 
 # game/code/e04/e04s04.rpy:95
 translate spanish e04s04_80144fae:
@@ -166,13 +166,13 @@ translate spanish e04s04_80144fae:
 translate spanish e04s04_16b61d92:
 
     # mc "Oh, I'm staying at Lydia's right now. It's a long story, I'll tell you when you get here."
-    mc "Oh, me quedo en casa de Lydia ahora mismo. Es una larga historia, te la contaré cuando llegues aquí."
+    mc "Oh, me quedo en casa de Lydia en este momento. Es una larga historia, te la contaré cuando llegues aquí."
 
 # game/code/e04/e04s04.rpy:107
 translate spanish e04s04_later_9e7addf4:
 
     # dd "So you got it situated with the Judge to have Lydia put on house arrest and you're her..."
-    dd "Así que le pediste al juez que pusiera a Lydia bajo arresto domiciliario y tú eres ella..."
+    dd "Así que le pediste al juez que pusiera a Lydia bajo arresto domiciliario y tú eres de ella..."
 
 # game/code/e04/e04s04.rpy:111
 translate spanish e04s04_later_5d4594fe:
@@ -196,13 +196,13 @@ translate spanish e04s04_later_096f9f8d:
 translate spanish e04s04_later_f115ea73:
 
     # mc "I've been having some problems with breaking her. I've tried all the punishments I can think of, even some I've had to look up on the internet."
-    mc "He tenido algunos problemas para romperla. He probado todos los castigos que se me ocurren, incluso algunos los he tenido que buscar en Internet."
+    mc "He tenido algunos problemas para romperla. He probado todos los castigos que se me ocurren, incluso algunos los que he tenido que buscar en Internet."
 
 # game/code/e04/e04s04.rpy:120
 translate spanish e04s04_later_f2c8b243:
 
     # mc "Short of breaking the Geneva Convention, I'm running out of ideas. Fast."
-    mc "A menos que rompamos la Convención de Ginebra, me estoy quedando sin ideas. Rápido."
+    mc "A menos que rompamos la Convención de Ginebra, me estoy quedando sin ideas. Muy rápido."
 
 # game/code/e04/e04s04.rpy:123
 translate spanish e04s04_later_349943b9:
@@ -214,7 +214,7 @@ translate spanish e04s04_later_349943b9:
 translate spanish e04s04_later_e8defab3:
 
     # mc "Stacy suggested-"
-    mc "Stacy sugirió-"
+    mc "Stacy sugirió"
 
 # game/code/e04/e04s04.rpy:130
 translate spanish e04s04_later_702f73e5:
@@ -226,7 +226,7 @@ translate spanish e04s04_later_702f73e5:
 translate spanish e04s04_later_0d02e366:
 
     # dd "Oh, Stacy is here! Where is she?"
-    dd "¡Oh, Stacy está aquí! ¿Donde esta ella?"
+    dd "¡Oh, Stacy está aquí! ¿Dónde está ella?"
 
 # game/code/e04/e04s04.rpy:135
 translate spanish e04s04_later_d09d9759:
@@ -244,7 +244,7 @@ translate spanish e04s04_later_8cd97895:
 translate spanish e04s04_later_739ba31b:
 
     # mc "Yeah, that's a whole other story. Short version; Stacy is kind of helping me run things and AmRose wanted to stay here as another one of my free-use prisoners."
-    mc "Sí, esa es otra historia. Version corta; Stacy me está ayudando a administrar las cosas y AmRose quería quedarse aquí como otro de mis prisioneros de uso gratuito."
+    mc "Sí, esa es otra historia. Versión corta; Stacy me está ayudando a administrar las cosas y AmRose quería quedarse aquí como otra de mis prisioneras de uso gratuito."
 
 # game/code/e04/e04s04.rpy:144
 translate spanish e04s04_later_c907a7f9:
@@ -256,7 +256,7 @@ translate spanish e04s04_later_c907a7f9:
 translate spanish e04s04_later_75c5d77a:
 
     # mc "How would you like a tour, and then I can explain what I need your help for."
-    mc "¿Cómo le gustaría un recorrido y luego puedo explicarle para qué necesito su ayuda?"
+    mc "¿Te gustaría que te diera una visita y luego te explico para qué necesito tu ayuda?"
 
 # game/code/e04/e04s04.rpy:150
 translate spanish e04s04_later_3c317626:
@@ -280,7 +280,7 @@ translate spanish e04s04_later_77337515:
 translate spanish e04s04_later_499b9e6b:
 
     # sy "Oh my God. Hey Daisy!"
-    sy "Ay dios mío. Hola Margarita!"
+    sy "Ay dios mío. ¡Hola Daisy!"
 
 # game/code/e04/e04s04.rpy:168
 translate spanish e04s04_later_8ffce72c:
@@ -298,7 +298,7 @@ translate spanish e04s04_later_fa549897:
 translate spanish e04s04_later_158e79ca:
 
     # dd "You too, I like the new outfit."
-    dd "A ti también, me gusta el nuevo outfit."
+    dd "A mí también me gusta el nuevo atuendo."
 
 # game/code/e04/e04s04.rpy:177
 translate spanish e04s04_later_9f31aa7e:
@@ -322,19 +322,19 @@ translate spanish e04s04_later_8ddcd040:
 translate spanish e04s04_later_c68c84a2:
 
     # dd "What, uhm, exactly are you doing to her."
-    dd "¿Qué le estás haciendo exactamente?"
+    dd "¿Qué estás haciendo exactamente?"
 
 # game/code/e04/e04s04.rpy:189
 translate spanish e04s04_later_c7903b13:
 
     # sy "I've come up with a punishment for each of her misdeeds. It's actually pretty smart, if I do say so myself."
-    sy "He ideado un castigo para cada una de sus fechorías. En realidad, es bastante inteligente, si lo digo yo mismo."
+    sy "He ideado un castigo para cada una de sus fechorías. En realidad, es bastante inteligente, si lo digo yo misma."
 
 # game/code/e04/e04s04.rpy:192
 translate spanish e04s04_later_d572fa6c:
 
     # sy "She has the mouth spreader on because if she's not allowed to close her mouth until she's done doing what she's told."
-    sy "Tiene puesto el esparcidor de boca porque no se le permite cerrar la boca hasta que haya terminado de hacer lo que le dicen."
+    sy "Tiene puesto el separador bucal porque no se le permite cerrar la boca hasta que termine de hacer lo que se le dice."
 
 # game/code/e04/e04s04.rpy:193
 translate spanish e04s04_later_4162b31f:
@@ -346,7 +346,7 @@ translate spanish e04s04_later_4162b31f:
 translate spanish e04s04_later_e4681103:
 
     # sy "And she's got a piss enema going on right now, because she should be cleaned of all her misdeeds. And everything that happens to her now is because of my say so."
-    sy "Y ahora mismo le están haciendo un enema de orina, porque deberían limpiarla de todas sus fechorías. Y todo lo que le pasa ahora es por mi palabra."
+    sy "Y en este momento se le está haciendo un enema de orina, porque hay que limpiarla de todas sus fechorías. Y todo lo que le ocurre ahora es porque yo lo digo."
 
 # game/code/e04/e04s04.rpy:197
 translate spanish e04s04_later_de6fc372:
@@ -370,7 +370,7 @@ translate spanish e04s04_later_0f082b1e:
 translate spanish e04s04_later_ecde8d8c:
 
     # arj "... 'ank ooo."
-    arj "... 'gracias."
+    arj "... gracias."
 
 # game/code/e04/e04s04.rpy:212
 translate spanish e04s04_later_610148cc:
@@ -382,13 +382,13 @@ translate spanish e04s04_later_610148cc:
 translate spanish e04s04_later_7102e08c:
 
     # dd "Looks like you two are having all the fun."
-    dd "Parece que ustedes dos se están divirtiendo mucho."
+    dd "Parece que ustedes dos se están dividiendo mucho."
 
 # game/code/e04/e04s04.rpy:218
 translate spanish e04s04_later_d31ca4be:
 
     # sy "Oh, we are! At least a lot more fun than [mcname] is having."
-    sy "¡Ah, lo somos! Al menos se divierte mucho más que [mcname]."
+    sy "¡Ah, nos divertimos! Al menos se divierte mucho más que [mcname]."
 
 # game/code/e04/e04s04.rpy:221
 translate spanish e04s04_later_ab835b85:
@@ -400,7 +400,7 @@ translate spanish e04s04_later_ab835b85:
 translate spanish e04s04_later_1a65f03a:
 
     # mc "That's true. I'll show you. It'll also help explain why I need you, Daisy."
-    mc "Eso es cierto. Te mostrare. También ayudará a explicar por qué te necesito, Daisy."
+    mc "Eso es cierto. Te mostraré. También me ayudará a explicar por qué te necesito, Daisy."
 
 # game/code/e04/e04s04.rpy:229
 translate spanish e04s04_later_fa297984:
@@ -424,7 +424,7 @@ translate spanish e04s04_later_44092573:
 translate spanish e04s04_later_beef5f0f:
 
     # mc "Yeah. I'm jealous of what Stacy's got going with AmRose right now. That's a cakewalk compared to this..."
-    mc "Sí. Estoy celosa de lo que Stacy está haciendo con AmRose en este momento. Eso es pan comido comparado con esto..."
+    mc "Si. Estoy celoso de lo que Stacy está haciendo con AmRose en este momento. Eso es pan comido comparado con esto..."
 
 # game/code/e04/e04s04.rpy:241
 translate spanish e04s04_later_05c9b816:
@@ -442,19 +442,19 @@ translate spanish e04s04_later_0d4b1798:
 translate spanish e04s04_later_a1f0eb59:
 
     # lc "You pathetic, fucking loser."
-    lc "Eres patético y maldito perdedor."
+    lc "Eres patético y un maldito perdedor."
 
 # game/code/e04/e04s04.rpy:250
 translate spanish e04s04_later_571c0214:
 
     # dd "What have you all tried with her?"
-    dd "¿Qué habéis probado todos con ella?"
+    dd "¿Qué han intentado hacer con ella?"
 
 # game/code/e04/e04s04.rpy:253
 translate spanish e04s04_later_366b6d14:
 
     # mc "You name it. Flogging, spitting, stress positions, ... The list goes on."
-    mc "Tu dilo. Flagelaciones, escupitajos, posiciones de estrés,... La lista continúa."
+    mc "Lo que quieras. Azotes, escupitajos, posiciones de estrés, ... La lista continúa."
 
 # game/code/e04/e04s04.rpy:256
 translate spanish e04s04_later_8e58a639:
@@ -508,13 +508,13 @@ translate spanish e04s04_later_7a96c0c8:
 translate spanish e04s04_later_4693e98a:
 
     # dd "I am excited for you to see me in it!"
-    dd "¡Estoy emocionado de que me veas en él!"
+    dd "¡Estoy emocionada de que me veas en él!"
 
 # game/code/e04/e04s04.rpy:284
 translate spanish e04s04_later_3e7acf04:
 
     # sy "Prisoner 001, on your feet!"
-    sy "Prisionero 001, ¡de pie!"
+    sy "Prisionera 001, ¡de pies!"
 
 # game/code/e04/e04s04.rpy:287
 translate spanish e04s04_later_7459879b:
@@ -544,7 +544,7 @@ translate spanish e04s04_later_fb474747:
 translate spanish e04s04_later_84a4ef77:
 
     # sy "Prisoner 002! Bring in the tools!"
-    sy "¡Prisionero 002! ¡Trae las herramientas!"
+    sy "¡Prisionera 002! ¡Trae las herramientas!"
 
 # game/code/e04/e04s04.rpy:306
 translate spanish e04s04_later_f21ffc94:
@@ -562,19 +562,19 @@ translate spanish e04s04_later_6f64236a:
 translate spanish e04s04_later_e5702758:
 
     # sy "Nope. You're not good enough to be this, but we've got an example of the next best thing."
-    sy "No. No eres lo suficientemente bueno para ser esto, pero tenemos un ejemplo de la mejor opción."
+    sy "No. No eres lo suficientemente buena para ser esto, pero tenemos un ejemplo de lo que sería mejor."
 
 # game/code/e04/e04s04.rpy:313
 translate spanish e04s04_later_ad946e86:
 
     # sy "Warden on the floor!"
-    sy "¡Guardián al suelo!"
+    sy "¡Alcaide al suelo!"
 
 # game/code/e04/e04s04.rpy:318
 translate spanish e04s04_later_312b01d7:
 
     # sy "Hands up."
-    sy "Manos arriba."
+    sy "Levanta las manos."
 
 # game/code/e04/e04s04.rpy:321
 translate spanish e04s04_later_07d84538:
@@ -586,7 +586,7 @@ translate spanish e04s04_later_07d84538:
 translate spanish e04s04_later_267d1d98:
 
     # sy "Come."
-    sy "Venir."
+    sy "Ven."
 
 # game/code/e04/e04s04.rpy:334
 translate spanish e04s04_later_81fa2b3e:
@@ -616,7 +616,7 @@ translate spanish e04s04_later_8f3983f7:
 translate spanish e04s04_later_2d1399b1:
 
     # mc "With enough time, yes. The right pressure, absolutely."
-    mc "Con suficiente tiempo, sí. La presión adecuada, absolutamente."
+    mc "Con suficiente tiempo, sí. Y la presión adecuada, absolutamente."
 
 # game/code/e04/e04s04.rpy:349
 translate spanish e04s04_later_7a773d66:
@@ -634,19 +634,19 @@ translate spanish e04s04_later_2d62bcf7:
 translate spanish e04s04_later_c7479f1f:
 
     # lc "The fuck is this."
-    lc "Joder es esto."
+    lc "Qué mierda es esto."
 
 # game/code/e04/e04s04.rpy:358
 translate spanish e04s04_later_8f5efe77:
 
     # mc "A model prisoner."
-    mc "Un prisionero modelo."
+    mc "Una prisionera modelo."
 
 # game/code/e04/e04s04.rpy:361
 translate spanish e04s04_later_4dbe7200:
 
     # mc "What do you say for being allowed to be here, Prisoner 003?"
-    mc "¿Qué dices por que te permitan estar aquí, Prisionero 003?"
+    mc "¿Qué dices por que te permito estar aquí, Prisionera 003?"
 
 # game/code/e04/e04s04.rpy:364
 translate spanish e04s04_later_c70bb696:
@@ -664,7 +664,7 @@ translate spanish e04s04_later_87e26eb2:
 translate spanish e04s04_later_a881ff0d:
 
     # mc "Now, I don't want to hear a peep from either of you. Is that understood?"
-    mc "Ahora, no quiero escuchar ni pío de ninguno de ustedes. ¿Se entiende eso?"
+    mc "Ahora, no quiero escuchar ni pío de ninguna de ustedes. ¿Se entiende eso?"
 
 # game/code/e04/e04s04.rpy:377
 translate spanish e04s04_later_f400ffb5:
@@ -676,7 +676,7 @@ translate spanish e04s04_later_f400ffb5:
 translate spanish e04s04_later_983ac707:
 
     # lc "God, you're pathetic."
-    lc "Dios, eres patético."
+    lc "Dios, eres patética."
 
 # game/code/e04/e04s04.rpy:383
 translate spanish e04s04_later_e13f9766:
@@ -748,19 +748,19 @@ translate spanish e04s04_later_2d401dff:
 translate spanish e04s04_later_a8b2ebbf:
 
     # lc "Fuck you, this hurts!"
-    lc "¡Jódete, esto duele!"
+    lc "¡Jódete, este duelo!"
 
 # game/code/e04/e04s04.rpy:419
 translate spanish e04s04_later_69bea1a5:
 
     # mc "That's-"
-    mc "Eso es-"
+    mc "Ese es..."
 
 # game/code/e04/e04s04.rpy:422
 translate spanish e04s04_later_0f69851a:
 
     # mc "The-"
-    mc "El-"
+    mc "El..."
 
 # game/code/e04/e04s04.rpy:426
 translate spanish e04s04_later_193387b0:
@@ -838,13 +838,13 @@ translate spanish e04s04_later_7459879b_1:
 translate spanish e04s04_later_a6e1af31:
 
     # dd "You can be mad, but I'm not wrong."
-    dd "Puedes estar enojado, pero no me equivoco."
+    dd "Puedes estar enojada, pero no me equivoco."
 
 # game/code/e04/e04s04.rpy:461
 translate spanish e04s04_later_9f0347d9:
 
     # dd "What you can't see is that there is a peace in surrendering. Not having to plan or fix or scheme or... Exist beyond simple directives."
-    dd "Lo que no puedes ver es que hay paz en la rendición. No tener que planificar, arreglar, planear o... Existir más allá de simples directivas."
+    dd "Lo que no puedes ver es que hay paz en la rendición. No tener que planificar, arreglar, planear o... Existe más allá de simples directivas."
 
 # game/code/e04/e04s04.rpy:462
 translate spanish e04s04_later_e91631d5:
@@ -856,19 +856,19 @@ translate spanish e04s04_later_e91631d5:
 translate spanish e04s04_later_d33d7508:
 
     # mc "Prisoner 001, since you've been bad, your punishment will continue. But Prisoner 003, since you've been so good..."
-    mc "Prisionero 001, como te has portado mal, tu castigo continuará. Pero Prisionero 003, ya que has sido tan bueno..."
+    mc "Prisionera 001, como te ha portado mal, tu castigo continuará. Pero Prisionera 003, ya que ha sido tan buena..."
 
 # game/code/e04/e04s04.rpy:468
 translate spanish e04s04_later_88dc0f4a:
 
     # mc "Except that noise you made when you were receiving your spankings, so you'll need to be punished first."
-    mc "Excepto ese ruido que hiciste cuando recibías tus azotes, por lo que primero tendrás que ser castigado."
+    mc "Excepto ese ruido que hiciste cuando recibías tus azotes, por lo que primero tendrás que ser castigada."
 
 # game/code/e04/e04s04.rpy:471
 translate spanish e04s04_later_dbc6b64a:
 
     # dd "Yes, [alt_mcname]. I have been naughty and I deserve to be punished."
-    dd "Sí, [alt_mcname]. He sido travieso y merezco ser castigado."
+    dd "Sí, [alt_mcname]. He sido traviesa y merezco ser castigada."
 
 # game/code/e04/e04s04.rpy:483
 translate spanish e04s04_later_4f2ac087:
@@ -916,7 +916,7 @@ translate spanish e04s04_later_e4b05360:
 translate spanish e04s04_later_6953d1ad:
 
     # mc "How does it feel to be my little fuck doll?"
-    mc "¿Cómo se siente ser mi muñequita de mierda?"
+    mc "¿Qué se siente al ser mi muñequita sexual?"
 
 # game/code/e04/e04s04.rpy:510
 translate spanish e04s04_later_9e66dbd4:
@@ -934,7 +934,7 @@ translate spanish e04s04_later_55564899:
 translate spanish e04s04_later_b2a33385:
 
     # sy "Do you like watching [alt_mcname] fuck his good little submissives?"
-    sy "¿Te gusta ver a [alt_mcname] follar con sus pequeñas y buenas sumisas?"
+    sy "¿Te gusta ver al [alt_mcname] follar con sus pequeñas y buenas sumisas?"
 
 # game/code/e04/e04s04.rpy:516
 translate spanish e04s04_later_14d651c8:
@@ -970,7 +970,7 @@ translate spanish e04s04_later_c407e1ef:
 translate spanish e04s04_later_f2b43a47:
 
     # mc "Maybe Daisy being a good example is the secret sauce. Are you a good example, Prisoner 003?"
-    mc "Quizás el hecho de que Daisy sea un buen ejemplo sea la salsa secreta. ¿Eres un buen ejemplo, Prisionero 003?"
+    mc "Quizás el hecho de que Daisy sea un buen ejemplo sea la salsa secreta. ¿Eres un buen ejemplo, Prisionera 003?"
 
 # game/code/e04/e04s04.rpy:534
 translate spanish e04s04_later_d84e09c6:
@@ -982,19 +982,19 @@ translate spanish e04s04_later_d84e09c6:
 translate spanish e04s04_later_e2070d8a:
 
     # mc "And what do good examples get, Prisoner 003?"
-    mc "¿Y qué obtienen los buenos ejemplos, Prisionero 003?"
+    mc "¿¿Y qué consiguen los buenos ejemplos, Prisionera 003?"
 
 # game/code/e04/e04s04.rpy:540
 translate spanish e04s04_later_02ea0b3e:
 
     # dd "To feel pleasure!"
-    dd "¡Para sentir placer!"
+    dd "¡Sentir placer!"
 
 # game/code/e04/e04s04.rpy:543
 translate spanish e04s04_later_ba0dc62f:
 
     # mc "And what do you say for getting to feel like this, Prisoner 003?"
-    mc "¿Y qué dices de llegar a sentirte así, Prisionero 003?"
+    mc "¿Y qué dices por llegar a sentirte de esa manera, Prisionera 003?"
 
 # game/code/e04/e04s04.rpy:547
 translate spanish e04s04_later_b74aec27:
@@ -1006,7 +1006,7 @@ translate spanish e04s04_later_b74aec27:
 translate spanish e04s04_later_bbd87c5b:
 
     # mc "That's a good girl, Prisoner 003."
-    mc "Qué buena chica, prisionera 003."
+    mc "Eres una buena chica, Prisionera 003."
 
 # game/code/e04/e04s04.rpy:551
 translate spanish e04s04_later_ec627c5b:
@@ -1018,19 +1018,19 @@ translate spanish e04s04_later_ec627c5b:
 translate spanish e04s04_later_8fdcf5d0:
 
     # mc "For being so good, you may cum."
-    mc "Por ser tan bueno, puede que te corras."
+    mc "Por ser tan buena, puedes correrte."
 
 # game/code/e04/e04s04.rpy:557
 translate spanish e04s04_later_82cc9ee3:
 
     # dd "I'm cumming, [alt_mcname]! Thank you!"
-    dd "¡Me estoy acabando, [alt_mcname]! ¡Gracias!"
+    dd "¡Me estoy corriendo, [alt_mcname]! ¡Gracias!"
 
 # game/code/e04/e04s04.rpy:561
 translate spanish e04s04_later_5a8dd551:
 
     # mc "That's what you get for being good."
-    mc "Eso es lo que obtienes por ser bueno."
+    mc "Eso es lo que obtienes por ser buena."
 
 # game/code/e04/e04s04.rpy:564
 translate spanish e04s04_later_38c2f2f3:
@@ -1042,13 +1042,13 @@ translate spanish e04s04_later_38c2f2f3:
 translate spanish e04s04_later_e7ac0872:
 
     # sy "You know why you don't get to have fun, Prisoner 002?"
-    sy "¿Sabes por qué no puedes divertirte, Prisionero 002?"
+    sy "¿Sabes por qué no puedes divertirte, Prisionera 002?"
 
 # game/code/e04/e04s04.rpy:573
 translate spanish e04s04_later_56984de8:
 
     # sy "Is it because you didn't listen to me?"
-    sy "¿Es porque no me escuchaste?"
+    sy "¿Es porque no me escuchas?"
 
 # game/code/e04/e04s04.rpy:574
 translate spanish e04s04_later_a6606b02:
@@ -1060,25 +1060,25 @@ translate spanish e04s04_later_a6606b02:
 translate spanish e04s04_later_03ed5786:
 
     # mc "Do you see what this could be like? You could feel like that too?"
-    mc "¿Ves cómo podría ser esto? ¿Tú también podrías sentirte así?"
+    mc "¿Ves cómo podría ser esto? ¿Tú también podrías sentirte de esa manera?"
 
 # game/code/e04/e04s04.rpy:583
 translate spanish e04s04_later_0d620f9f:
 
     # mc "Tell me, when was the last time you came, Prisoner 001? And I don't mean when you're trying to secretly masturbate at night. I mean the last time you had a {i}good orgasm{/i}?"
-    mc "Dime, ¿cuándo fue la última vez que viniste, Prisionero 001? Y no me refiero a cuando intentas masturbarte en secreto por la noche. Quiero decir, ¿la última vez que tuviste un {i}buen orgasmo{/i}?"
+    mc "Dime, ¿cuándo fue la última vez que te corriste, Prisionera 001? Y no me refiero a cuando intentas masturbarte en secreto por la noche. Quiero decir, ¿la última vez que tuviste un {i}buen orgasmo{/i}?"
 
 # game/code/e04/e04s04.rpy:589
 translate spanish e04s04_later_823f0ba1:
 
     # mc "Don't you want to feel like Prisoner 003? Just look at her."
-    mc "¿No quieres sentirte como el Prisionero 003? Sólo mírala."
+    mc "¿No quieres sentirte como la Prisionera 003? Sólo mírala."
 
 # game/code/e04/e04s04.rpy:592
 translate spanish e04s04_later_df7b14e2:
 
     # mc "You can feel like that too."
-    mc "Tú también puedes sentirte así."
+    mc "Tú también puedes sentirte igual que ella."
 
 # game/code/e04/e04s04.rpy:595
 translate spanish e04s04_later_5292cdbd:
@@ -1102,7 +1102,7 @@ translate spanish e04s04_later_b1a4e0a3:
 translate spanish e04s04_later_7e816c08:
 
     # mc "Yes, what?"
-    mc "¿Si que?"
+    mc "Si, ¿qué?"
 
 # game/code/e04/e04s04.rpy:606
 translate spanish e04s04_later_0b7b7bad:
@@ -1114,13 +1114,13 @@ translate spanish e04s04_later_0b7b7bad:
 translate spanish e04s04_later_b5c41524:
 
     # mc "Good, very good!"
-    mc "¡Buena muy buena!"
+    mc "¡Bien, muy bien!"
 
 # game/code/e04/e04s04.rpy:610
 translate spanish e04s04_later_470f20cd:
 
     # mc "Stacy, I think Prisoner 003 could use more fun. Why don't you use that nightstick on her?"
-    mc "Stacy, creo que al Prisionero 003 le vendría bien más diversión. ¿Por qué no usas esa porra con ella?"
+    mc "Stacy, creo que a la Prisionera 003 le vendría bien más diversión. ¿Por qué no usas esa porra con ella?"
 
 # game/code/e04/e04s04.rpy:613
 translate spanish e04s04_later_245c58e3:
@@ -1150,13 +1150,13 @@ translate spanish e04s04_lc_punishment_d3f590e9:
 translate spanish e04s04_lc_punishment_c1383adf:
 
     # mc "When you're good, you get rewards."
-    mc "Cuando eres bueno, obtienes recompensas."
+    mc "Cuando eres buena, obtienes recompensas."
 
 # game/code/e04/e04s04.rpy:636
 translate spanish e04s04_lc_punishment_69e428fc:
 
     # mc "See, look at Prisoner 003? Look at how much she's enjoying herself."
-    mc "¿Ves, mira al prisionero 003? Mira lo mucho que se divierte."
+    mc "¿Ves, mira a la prisionera 003? Mira lo mucho que se divierte."
 
 # game/code/e04/e04s04.rpy:637
 translate spanish e04s04_lc_punishment_5106668a:
@@ -1174,13 +1174,13 @@ translate spanish e04s04_lc_punishment_dfdc4aa2:
 translate spanish e04s04_lc_punishment_74efc015:
 
     # mc "And this is who you are now, Lydia. You're a prisoner here. Your life revolves around me. Pain, pleasure, comfort, punishment. All at my whim."
-    mc "Y esto es lo que eres ahora, Lydia. Eres un prisionero aquí. Tu vida gira en torno a mí. Dolor, placer, consuelo, castigo. Todo a mi antojo."
+    mc "Y esto es lo que eres ahora, Lydia. Eres una prisionera aquí. Tu vida gira en torno a mí. Dolor, placer, consuelo, castigo. Todo a mi antojo."
 
 # game/code/e04/e04s04.rpy:642
 translate spanish e04s04_lc_punishment_6f3df50c:
 
     # mc "And if you give in to me, your life will be easier. You'll be punished and accept it, you'll be pleased and have earned it. You will be free beneath me. There is nothing greater than that."
-    mc "Y si te rindes ante mí, tu vida será más fácil. Serás castigado y lo aceptarás, estarás complacido y te lo habrás ganado. Serás libre debajo de mí. No hay nada mayor que eso."
+    mc "Y si te rindes ante mí, tu vida será más fácil. Serás castigada y lo aceptarás, estarás complacida y te lo habrás ganado. Serás libre debajo de mí. No hay nada mejor que eso."
 
 # game/code/e04/e04s04.rpy:646
 translate spanish e04s04_lc_punishment_b1a4e0a3:
@@ -1204,7 +1204,7 @@ translate spanish e04s04_lc_punishment_db5725fb:
 translate spanish e04s04_lc_punishment_a52c56d9:
 
     # lc "You thought some little submissive was going to turn me! You're just as fucking stupid as I thought you were."
-    lc "¡Pensaste que algún pequeño sumiso me iba a convertir! Eres tan jodidamente estúpido como pensé que eras."
+    lc "¡Creíste que me convertiría en tu pequeña sumisa! Eres tan estupido como pensé que eras."
 
 # game/code/e04/e04s04.rpy:658
 translate spanish e04s04_lc_punishment_17435d48:
@@ -1228,19 +1228,19 @@ translate spanish e04s04_lc_punishment_f016aa2d:
 translate spanish e04s04_lc_punishment_5597ea28:
 
     # mc "If you only want punishment, fine."
-    mc "Si sólo quieres castigo, está bien."
+    mc "Si sólo quieres castigo, estás bien."
 
 # game/code/e04/e04s04.rpy:676
 translate spanish e04s04_lc_punishment_d1435de0:
 
     # lc "Fuck you!"
-    lc "¡Que te jodan!"
+    lc "¡Vete a la mierda!"
 
 # game/code/e04/e04s04.rpy:679
 translate spanish e04s04_lc_punishment_1f7ddb11:
 
     # mc "It's almost as fun to watch you get spanked as it is to fuck you honestly."
-    mc "Es casi tan divertido ver cómo te azotan como follarte honestamente."
+    mc "Sinceramente, es casi tan divertido ver cómo te azotan tanto como follarte."
 
 # game/code/e04/e04s04.rpy:682
 translate spanish e04s04_lc_punishment_dfd2b76f:
@@ -1258,7 +1258,7 @@ translate spanish e04s04_lc_punishment_bf4a2086:
 translate spanish e04s04_lc_punishment_0116ac2b:
 
     # sy "Yes, Warden."
-    sy "Sí, alcaide."
+    sy "Sí, Alcaide."
 
 # game/code/e04/e04s04.rpy:691
 translate spanish e04s04_lc_punishment_d5677876:
@@ -1276,13 +1276,13 @@ translate spanish e04s04_lc_punishment_2e675203:
 translate spanish e04s04_lc_punishment_cd96db56:
 
     # mc "Speak freely."
-    mc "Hablar libremente."
+    mc "Habla libremente."
 
 # game/code/e04/e04s04.rpy:700
 translate spanish e04s04_lc_punishment_39cc02a6:
 
     # sy "Watching you dominate Prisoner 001 and Prisoner 003... Has made me super horny."
-    sy "Verte dominar al Prisionero 001 y al Prisionero 003... Me ha puesto súper cachonda."
+    sy "Verte dominar a la Prisionera 001 y a la Prisionera 003... Me ha puesto súper excitada."
 
 # game/code/e04/e04s04.rpy:701
 translate spanish e04s04_lc_punishment_0bb13e73:
@@ -1294,7 +1294,7 @@ translate spanish e04s04_lc_punishment_0bb13e73:
 translate spanish e04s04_lc_punishment_edde324a:
 
     # mc "You want to be dominated?"
-    mc "¿Quieres ser dominado?"
+    mc "¿Quieres ser dominada?"
 
 # game/code/e04/e04s04.rpy:707
 translate spanish e04s04_lc_punishment_32e71ee7:
@@ -1354,7 +1354,7 @@ translate spanish e04s04_lc_punishment_4f1f983d:
 translate spanish e04s04_lc_punishment_731edbfd:
 
     # mc "But only when I say you can"
-    mc "Pero sólo cuando digo que puedes"
+    mc "Pero sólo cuando diga que puedes"
 
 # game/code/e04/e04s04.rpy:734
 translate spanish e04s04_lc_punishment_06fa9afc:
@@ -1378,7 +1378,7 @@ translate spanish e04s04_lc_punishment_49f0c492:
 translate spanish e04s04_lc_punishment_20d7b93f:
 
     # mc "This could be you, Prisoner 001. You could have this."
-    mc "Este podrías ser tú, Prisionero 001. Podrías tener esto."
+    mc "Esta podrías ser tú, Prisionera 001. Podrías tener esto."
 
 # game/code/e04/e04s04.rpy:740
 translate spanish e04s04_lc_punishment_4953cce9:
@@ -1414,7 +1414,7 @@ translate spanish e04s04_lc_punishment_24fe4a5d:
 translate spanish e04s04_lc_punishment_bcf6ccb6:
 
     # mc "You call me a bitch, and a loser, and a piece of shit, but-"
-    mc "Me llamas perra, perdedora y pedazo de mierda, pero..."
+    mc "Me llamas zorra, un perdedor y un pedazo de mierda, pero..."
 
 # game/code/e04/e04s04.rpy:755
 translate spanish e04s04_lc_punishment_2f61ab44:
@@ -1432,25 +1432,25 @@ translate spanish e04s04_lc_punishment_5208a76c:
 translate spanish e04s04_lc_punishment_b761136f:
 
     # mc "- Where I put you in a cell, chained you to the ceiling, spanked you, fucked you and Prisoner 003-"
-    mc "- Donde te metí en una celda, te encadené al techo, te azoté, te follé a ti y al Prisionero 003-"
+    mc "- Donde te metí en una celda, te encadené al techo, te azoté, te follé a ti y a la Prisionera 003-"
 
 # game/code/e04/e04s04.rpy:760
 translate spanish e04s04_lc_punishment_2ef82946:
 
     # mc "And made you watch me fuck my sister! Where I made you watch me make her cum!"
-    mc "¡Y te hice ver cómo me follo a mi hermana! ¡Donde te hice verme hacerla correrse!"
+    mc "¡Y te hice ver cómo me follaba a mi hermana! ¡Donde hice que vieras cómo se corría!"
 
 # game/code/e04/e04s04.rpy:762
 translate spanish e04s04_lc_punishment_a76cb76b:
 
     # mc "And where I made you watch me make my best friend cum while fucking her!"
-    mc "¡Y donde te hice verme hacer que mi mejor amiga se corra mientras me la follo!"
+    mc "¡Y donde te hice ver cómo me corría con mi mejor amiga mientras me la follaba!"
 
 # game/code/e04/e04s04.rpy:763
 translate spanish e04s04_lc_punishment_4b20d4b9:
 
     # mc "When you haven't had a real orgasm in months."
-    mc "Cuando no has tenido un orgasmo real en meses."
+    mc "Cuando no ha tenido un orgasmo real en meses."
 
 # game/code/e04/e04s04.rpy:766
 translate spanish e04s04_lc_punishment_1806580b:
@@ -1462,19 +1462,19 @@ translate spanish e04s04_lc_punishment_1806580b:
 translate spanish e04s04_lc_punishment_3dcdc4ec:
 
     # mc "So tell me this, Prisoner 001."
-    mc "Entonces dime esto, Prisionero 001."
+    mc "Entonces dime esto, Prisionera 001."
 
 # game/code/e04/e04s04.rpy:772
 translate spanish e04s04_lc_punishment_b34577b7:
 
     # sy "-uuuuuuck, I'm about to cum!"
-    sy "-uuuuuuuck, ¡estoy a punto de correrme!"
+    sy "-Mieeeerda, ¡estoy a punto de correrme!"
 
 # game/code/e04/e04s04.rpy:774
 translate spanish e04s04_lc_punishment_c6978477:
 
     # mc "If I am just absolute scum, gutter trash so unworthy of all of this -"
-    mc "Si soy simplemente escoria absoluta, basura de alcantarilla tan indigna de todo esto..."
+    mc "Si solo soy una absoluta escoria, basura de alcantarilla que no merece todo esto..."
 
 # game/code/e04/e04s04.rpy:777
 translate spanish e04s04_lc_punishment_e2beec21:
@@ -1492,7 +1492,7 @@ translate spanish e04s04_lc_punishment_22dedf86:
 translate spanish e04s04_lc_punishment_770ffef7:
 
     # mc "Because it's got to be lower than whatever I am."
-    mc "Porque tiene que ser más bajo que lo que sea que soy."
+    mc "Porque tiene que estar por debajo de lo que soy yo."
 
 # game/code/e04/e04s04.rpy:790
 translate spanish e04s04_lc_punishment_f6c0e0ea:
@@ -1504,13 +1504,13 @@ translate spanish e04s04_lc_punishment_f6c0e0ea:
 translate spanish e04s04_lc_punishment_bb62bcc2:
 
     # mc "Nope, but this will. Prisoner 002, I would like you to uncuff Prisoner 003."
-    mc "No, pero esto lo hará. Prisionero 002, me gustaría que le quitara las esposas al Prisionero 003."
+    mc "No, pero esto lo hará. Prisionera 002, me gustaría que le quitaras las esposas a la Prisionera 003."
 
 # game/code/e04/e04s04.rpy:797
 translate spanish e04s04_lc_punishment_487da9bc:
 
     # mc "Prisoner 003, I want you to lick all of the cum off of Stacy's face."
-    mc "Prisionero 003, quiero que lamas todo el semen de la cara de Stacy."
+    mc "Prisionera 003, quiero que lamas todo el semen de la cara de Stacy."
 
 # game/code/e04/e04s04.rpy:800
 translate spanish e04s04_lc_punishment_fb2e33cb:
@@ -1522,7 +1522,7 @@ translate spanish e04s04_lc_punishment_fb2e33cb:
 translate spanish e04s04_lc_punishment_a1f366c2:
 
     # lc "What are you doing-"
-    lc "Qué estás haciendo-"
+    lc "¿Qué estás haciendo?"
 
 # game/code/e04/e04s04.rpy:810
 translate spanish e04s04_lc_punishment_a5da314e:
@@ -1534,7 +1534,7 @@ translate spanish e04s04_lc_punishment_a5da314e:
 translate spanish e04s04_lc_punishment_bc923ac0:
 
     # lc "Wait a fucking-"
-    lc "Espera un puto-"
+    lc "Espera un puto"
 
 # game/code/e04/e04s04.rpy:816
 translate spanish e04s04_lc_punishment_0bd45d9a:
@@ -1552,25 +1552,25 @@ translate spanish e04s04_lc_punishment_cac0caa5:
 translate spanish e04s04_lc_punishment_482325d8:
 
     # mc "Guard, Prisoner 003 - I want you to spit all of my cum down her throat."
-    mc "Guardia, Prisionero 003 - Quiero que escupas todo mi semen en su garganta."
+    mc "Guardia, Prisionera 003 - Quiero que escupas todo mi semen en su garganta."
 
 # game/code/e04/e04s04.rpy:825
 translate spanish e04s04_lc_punishment_5415794c:
 
     # lc "'old on uh 'ec!"
-    lc "'viejo en uh 'ec!"
+    lc "¡viejo en uh 'ec!"
 
 # game/code/e04/e04s04.rpy:831
 translate spanish e04s04_lc_punishment_23c1170d:
 
     # lc "[mcname]!"
-    lc "[mcname]!"
+    lc "¡[mcname]!"
 
 # game/code/e04/e04s04.rpy:834
 translate spanish e04s04_lc_punishment_fb9c2e38:
 
     # mc "Spit."
-    mc "Escupir."
+    mc "Escupe."
 
 # game/code/e04/e04s04.rpy:846
 translate spanish e04s04_lc_punishment_50a10b34:
@@ -1588,7 +1588,7 @@ translate spanish e04s04_lc_punishment_96283c48:
 translate spanish e04s04_lc_punishment_45f5fd06:
 
     # mc "Prisoner 003, come here."
-    mc "Prisionero 003, ven aquí."
+    mc "Prisionera 003, ven aquí."
 
 # game/code/e04/e04s04.rpy:863
 translate spanish e04s04_lc_punishment_680b95d3:
@@ -1600,7 +1600,7 @@ translate spanish e04s04_lc_punishment_680b95d3:
 translate spanish e04s04_lc_punishment_233da279:
 
     # mc "Your treat; but I want you to snort it."
-    mc "Tu trato; pero quiero que lo esnipes."
+    mc "Tu trato; pero quiero que lo aspires."
 
 # game/code/e04/e04s04.rpy:869
 translate spanish e04s04_lc_punishment_335ebdea:
@@ -1630,13 +1630,13 @@ translate spanish e04s04_lc_punishment_680b95d3_1:
 translate spanish e04s04_lc_punishment_52566625:
 
     # mc "All right, everyone back to their cells."
-    mc "Muy bien, todos a sus celdas."
+    mc "Muy bien, todas a sus celdas."
 
 # game/code/e04/e04s04.rpy:896
 translate spanish e04s04_end_5cdc5bbc:
 
     # mc "Thanks for coming by Daisy. Sorry it was kind of a wash."
-    mc "Gracias por pasar por Daisy. Lo siento, fue una especie de lavado."
+    mc "Gracias por venir Daisy. Siento que haya sido un fracaso."
 
 # game/code/e04/e04s04.rpy:899
 translate spanish e04s04_end_4eedba78:
@@ -1648,7 +1648,7 @@ translate spanish e04s04_end_4eedba78:
 translate spanish e04s04_end_2c5dc49e:
 
     # mc "Good, well I'm glad you had a good time at least."
-    mc "Bueno, bueno, me alegro que al menos lo hayas pasado bien."
+    mc "Bueno, bueno, me alegre que al menos lo hayas pasado bien."
 
 # game/code/e04/e04s04.rpy:905
 translate spanish e04s04_end_599aca13:
@@ -1678,7 +1678,7 @@ translate spanish e04s04_end_96e5f5b6:
 translate spanish e04s04_end_d425daa3:
 
     # mc "Sure?"
-    mc "¿Seguro?"
+    mc "¿Segura?"
 
 # game/code/e04/e04s04.rpy:922
 translate spanish e04s04_end_31c92d67:
@@ -1696,19 +1696,19 @@ translate spanish e04s04_end_85d475fe:
 translate spanish e04s04_end_97a6848b:
 
     # dd "Awesome. Do I need to sign paperwork or anything?"
-    dd "Impresionante. ¿Necesito firmar papeleo o algo así?"
+    dd "Impresionante. ¿Necesito firmar papeles o algo así?"
 
 # game/code/e04/e04s04.rpy:931
 translate spanish e04s04_end_e18f9ec3:
 
     # mc "Uhhhhh..."
-    mc "Ehhhh..."
+    mc "Ehhh..."
 
 # game/code/e04/e04s04.rpy:934
 translate spanish e04s04_end_cf9eb8f5:
 
     # dd "You should really have some paperwork for people staying here. Just to make sure everything is above board."
-    dd "Realmente deberías tener algunos trámites para las personas que se quedan aquí. Sólo para asegurarnos de que todo esté en orden."
+    dd "Deberías tener algún papeleo para la gente que se queda aquí. Sólo para asegurarse de que todo está en orden."
 
 # game/code/e04/e04s04.rpy:935
 translate spanish e04s04_end_cc5a1417:
@@ -1726,7 +1726,7 @@ translate spanish e04s04_end_88edc237:
 translate spanish e04s04_end_15aebbf0:
 
     # dd "Cool! Well consider me your newest inmate."
-    dd "¡Fresco! Bueno, considérame tu nuevo recluso."
+    dd "¡Genial! Bueno, considerame tu nueva reclusa."
 
 # game/code/e04/e04s04.rpy:944
 translate spanish e04s04_end_94e600a3:
@@ -1738,19 +1738,19 @@ translate spanish e04s04_end_94e600a3:
 translate spanish e04s04_end_a5afed25:
 
     # sy "Yes, Warden?"
-    sy "¿Sí, alcaide?"
+    sy "¿Sí, Alcaide?"
 
 # game/code/e04/e04s04.rpy:950
 translate spanish e04s04_end_e9bb4cab:
 
     # mc "Bring Prisoner 003 through processing."
-    mc "Traiga al Prisionero 003 a través del procesamiento."
+    mc "Lleva a la prisionera 003 a procesamiento."
 
 # game/code/e04/e04s04.rpy:953
 translate spanish e04s04_end_c0d71dae:
 
     # sy "Right away, Warden."
-    sy "Ahora mismo, alcaide."
+    sy "Enseguida, Alcaide."
 
 # game/code/e04/e04s04.rpy:956
 translate spanish e04s04_end_9b05623b:
