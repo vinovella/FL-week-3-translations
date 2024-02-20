@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-02-08 02:37
+# TODO: Translation updated at 2024-02-08 02:37
 
 # game/code/e07/e07s04.rpy:19
 translate spanish e07s04_13ff1a58:
@@ -10,13 +10,13 @@ translate spanish e07s04_13ff1a58:
 translate spanish e07s04_27984c91:
 
     # gb "Sedět"
-    gb "asiento"
+    gb "Asiento"
 
 # game/code/e07/e07s04.rpy:29
 translate spanish e07s04_46571170:
 
     # gb "Děkuji, Mistress Cox. For both welcoming me to your fine city, as well as the accommodations you provided me."
-    gb "Děkuji, señora Cox. Tanto por darme la bienvenida a tu hermosa ciudad, como por el alojamiento que me brindaste."
+    gb "Dekuji, Ama Cox. Tanto por darme la bienvenida a tu hermosa ciudad, como por el alojamiento que me brindaste."
 
 # game/code/e07/e07s04.rpy:32
 translate spanish e07s04_4bfce9f9:
@@ -40,37 +40,37 @@ translate spanish e07s04_401dbfba:
 translate spanish e07s04_515c65e2:
 
     # gb "Ano. I hope today that I will receive the same treatment that I did in Praha."
-    gb "Año. Espero que hoy reciba el mismo trato que recibí en Praga."
+    gb "Espero que hoy reciba el mismo trato que recibí en Praga."
 
 # game/code/e07/e07s04.rpy:46
 translate spanish e07s04_3f1e6cb3:
 
     # gb "Ano. This time, I hope your little slave performs better for me."
-    gb "Año. Esta vez, espero que tu pequeño esclavo se desempeñe mejor conmigo."
+    gb "Esta vez, espero que tu pequeño esclavo se desempeñe mejor conmigo."
 
 # game/code/e07/e07s04.rpy:50
 translate spanish e07s04_63e70efa:
 
     # lc "As the visiting Mistress, it is up to you to pick today's activity. Have you made a decision?"
-    lc "Como amante visitante, depende de ti elegir la actividad de hoy. ¿Has tomado una decisión?"
+    lc "Como Ama visitante, te corresponde a ti elegir la actividad de hoy. ¿Has tomado una decisión?"
 
 # game/code/e07/e07s04.rpy:53
 translate spanish e07s04_45f4a513:
 
     # gb "Ano. I think it will also be one that you approve of."
-    gb "Año. Creo que también será uno que usted apruebe."
+    gb "Creo que también será uno que usted apruebe."
 
 # game/code/e07/e07s04.rpy:56
 translate spanish e07s04_3a29a6b7:
 
     # lc "Oh, you've piqued my curiosity."
-    lc "Oh, has despertado mi curiosidad."
+    lc "Oh, ha despertado mi curiosidad."
 
 # game/code/e07/e07s04.rpy:59
 translate spanish e07s04_38a95dc2:
 
     # gb "Today, I have chosen that we are to use a strap-on to fuck our submissives."
-    gb "Hoy, he elegido que usemos un arnés para follarnos a nuestras sumisas."
+    gb "Hoy, eligió que usemos un arnés para follarnos a nuestras sumisas."
 
 # game/code/e07/e07s04.rpy:62
 translate spanish e07s04_38a71be5:
@@ -94,37 +94,37 @@ translate spanish e07s04_923351fe:
 translate spanish e07s04_6cbd60e2:
 
     # gb "Ne."
-    gb "Nordeste."
+    gb "Ne."
 
 # game/code/e07/e07s04.rpy:74
 translate spanish e07s04_f609f753:
 
     # lc "How will we determine the winner?"
-    lc "¿Cómo determinaremos al ganador?"
+    lc "¿Cómo determinaremos a la ganadora?"
 
 # game/code/e07/e07s04.rpy:77
 translate spanish e07s04_0568de0d:
 
     # gb "Whoever makes the other domina's submissive cum first shall be crowned vítězný. The victor."
-    gb "Quien haga que la sumisa de la otra domina se corra primero será coronado vítězný. El vencedor."
+    gb "Quien haga que la sumisa de la otra domina se corra primero será coronada vítězný. La vencedora."
 
 # game/code/e07/e07s04.rpy:78
 translate spanish e07s04_65538086:
 
     # gb "And as a token of my appreciation for allowing me to use both of your subs in Praha, I have brought you a gift."
-    gb "Y como muestra de mi agradecimiento por permitirme usar sus dos submarinos en Praga, le he traído un regalo."
+    gb "Y como muestra de mi agradecimiento por permitirme usar sus dos sumisos en Praga, le he traído un regalo."
 
 # game/code/e07/e07s04.rpy:81
 translate spanish e07s04_c5ed1c3b:
 
     # gb "I offer you one of my finest submissives. She can take quite the anal punishment, I think you will be pleased."
-    gb "Te ofrezco una de mis mejores sumisas. Ella puede soportar bastante castigo anal, creo que estarás satisfecho."
+    gb "Te ofrezco una de mis mejores sumisas. Ella puede soportar bastante castigo anal, creo que estarás satisfecha."
 
 # game/code/e07/e07s04.rpy:84
 translate spanish e07s04_d9641b06:
 
     # gb "And you? Which of these will I have the privilege of ruining today?"
-    gb "¿Y tú? ¿Cuál de estos tendré el privilegio de arruinar hoy?"
+    gb "¿Y tú? ¿Cuál de estas tendrá el privilegio de arruinar hoy?"
 
 # game/code/e07/e07s04.rpy:87
 translate spanish e07s04_800d4708:
@@ -142,7 +142,7 @@ translate spanish e07s04_800d4708_1:
 translate spanish e07s04_44d43a8e:
 
     # mc "Mistress, I-"
-    mc "Señora, yo-"
+    mc "Ama, Yo-"
 
 # game/code/e07/e07s04.rpy:104
 translate spanish e07s04_f5a726c7:
@@ -160,13 +160,13 @@ translate spanish e07s04_92d72363:
 translate spanish e07s04_a0562d35:
 
     # mc "Uhm... Of course [e07_lcname!t]. Your wish is my command."
-    mc "Uhm... Por supuesto [e07_lcname!t]. Tu deseo es mi comando."
+    mc "Uhm... Por supuesto [e07_lcname!t]. Tus deseos son órdenes."
 
 # game/code/e07/e07s04.rpy:116
 translate spanish e07s04_c8c5abda:
 
     # lc "[e07_arjname!t], please retrieve the accoutrement for this challenge."
-    lc "[e07_arjname!t], recupera el equipo para este desafío."
+    lc "[e07_arjname!t], trae el equipo para este desafío."
 
 # game/code/e07/e07s04.rpy:119
 translate spanish e07s04_d82bd287:
@@ -190,13 +190,13 @@ translate spanish e07s04_f9e43197:
 translate spanish e07s04_0e6b23d9:
 
     # lc "Do better than your best. If we win I promise that you'll get a nice little treat. But if we lose, well, then [e07_pbname!t] wins and is one step closer to the grand prize."
-    lc "Hazlo mejor de lo que eres mejor. Si ganamos, te prometo que recibirás un pequeño regalo. Pero si perdemos, entonces [e07_pbname!t] gana y está un paso más cerca del gran premio."
+    lc "Hazlo mejor de lo que eres. Si ganamos, te prometemos que recibirás un pequeño regalo. Pero si perdemos, entonces [e07_pbname!t] gana y está a un paso más cerca del gran premio."
 
 # game/code/e07/e07s04.rpy:131
 translate spanish e07s04_d6eadc86:
 
     # mc "Okay, [e07_lcname!t]. I will do better. Better than my best."
-    mc "Bien, [e07_lcname!t]. Lo haré mejor. Mejor que mi mejor."
+    mc "Bien, [e07_lcname!t]. Lo haré mejor. Mejor que mejor."
 
 # game/code/e07/e07s04.rpy:132
 translate spanish e07s04_99abd2aa:
@@ -208,7 +208,7 @@ translate spanish e07s04_99abd2aa:
 translate spanish e07s04_790a30da:
 
     # lc "As the visiting mistress Gizela, you may have your pick of strap-ons."
-    lc "Como la amante visitante Gizela, puedes elegir entre correas."
+    lc "Como la ama Gizela está de visita, puede elegir entre varios arneses."
 
 # game/code/e07/e07s04.rpy:144
 translate spanish e07s04_38d57866:
@@ -244,7 +244,7 @@ translate spanish e07s04_994edf49:
 translate spanish e07s04_ee43655a:
 
     # lc "[e07_arjname!t], you will be in charge of giving us the green light."
-    lc "[e07_arjname!t], tú serás el encargado de darnos luz verde."
+    lc "[e07_arjname!t], tú serás la encargada de darnos luz verde."
 
 # game/code/e07/e07s04.rpy:168
 translate spanish e07s04_5d2f274c:
@@ -262,13 +262,13 @@ translate spanish e07s04_2e4fb386:
 translate spanish e07s04_20f64f8b:
 
     # arj "Get set."
-    arj "Prepárate."
+    arj "Listos."
 
 # game/code/e07/e07s04.rpy:184
 translate spanish e07s04_676acc98:
 
     # arj "Go!"
-    arj "¡Ir!"
+    arj "¡Fuera!"
 
 # game/code/e07/e07s04.rpy:189
 translate spanish e07s04_997422ea:
@@ -286,7 +286,7 @@ translate spanish e07s04_0a45a6e0:
 translate spanish e07s04_86baea5b:
 
     # gb "Are you prepared?"
-    gb "¿Estas preparado?"
+    gb "¿Estás preparado?"
 
 # game/code/e07/e07s04.rpy:200
 translate spanish e07s04_dfd81e46:
@@ -328,13 +328,13 @@ translate spanish e07s04_3f1e9206:
 translate spanish e07s04_f3db8b10:
 
     # gb "She takes a lot to feel pleasure in her ass now."
-    gb "Ahora necesita mucho para sentir placer en su culo."
+    gb "Ahora le cuesta mucho sentir placer en el culo."
 
 # game/code/e07/e07s04.rpy:222
 translate spanish e07s04_624cb226:
 
     # gb "This time, I shall come out on top!"
-    gb "¡Esta vez saldré victorioso!"
+    gb "¡Esta vez saldré victoriosa!"
 
 # game/code/e07/e07s04.rpy:224
 translate spanish e07s04_c5a19a09:
@@ -346,13 +346,13 @@ translate spanish e07s04_c5a19a09:
 translate spanish e07s04_f58dbb52:
 
     # gb "It is okay, you may cum now."
-    gb "Está bien, puedes correrte ahora."
+    gb "Está bien, ya puedes correrte."
 
 # game/code/e07/e07s04.rpy:230
 translate spanish e07s04_7a659c80:
 
     # gb "Come, little man, cum from your ass!"
-    gb "¡Ven, hombrecito, correte de tu culo!"
+    gb "¡Ven, hombrecito, córrete por el culo!"
 
 # game/code/e07/e07s04.rpy:231
 translate spanish e07s04_5f6ab012:
@@ -412,19 +412,19 @@ translate spanish e07s04_a0303e8a:
 translate spanish e07s04_350bf298:
 
     # arj "I bet..."
-    arj "Te apuesto..."
+    arj "Te creo..."
 
 # game/code/e07/e07s04.rpy:275
 translate spanish e07s04_20c2987c:
 
     # pb "Real happy [e07_lcname!t] didn't pick me. She'd have lost right away, but man, this is giving me some ideas."
-    pb "Muy feliz [e07_lcname!t] no me eligió. Habría perdido de inmediato, pero hombre, esto me está dando algunas ideas."
+    pb "Muy feliz, [e07_lcname!t] no me eligió. Habría perdido de inmediato, pero hombre, esto me está dando algunas ideas."
 
 # game/code/e07/e07s04.rpy:278
 translate spanish e07s04_e310066d:
 
     # arj "Me too..."
-    arj "Yo también..."
+    arj "También a mí..."
 
 # game/code/e07/e07s04.rpy:281
 translate spanish e07s04_31d40295:
@@ -436,7 +436,7 @@ translate spanish e07s04_31d40295:
 translate spanish e07s04_5d2ad08b:
 
     # arj "Oh, uhhh, nothing."
-    arj "Oh, uhh, nada."
+    arj "Oh, uh, nada."
 
 # game/code/e07/e07s04.rpy:288
 translate spanish e07s04_b504e005:
@@ -448,7 +448,7 @@ translate spanish e07s04_b504e005:
 translate spanish e07s04_d31b49bc:
 
     # arj "Wha...?"
-    arj "¿Qué...?"
+    arj "What...?"
 
 # game/code/e07/e07s04.rpy:294
 translate spanish e07s04_a9d777a6:
@@ -514,7 +514,7 @@ translate spanish e07s04_ef0e8107:
 translate spanish e07s04_70cd23ef:
 
     # gb "Ano, ano! I think this is it."
-    gb "¡Ano, ano! Creo que esto es todo."
+    gb "Creo que esto es todo."
 
 # game/code/e07/e07s04.rpy:352
 translate spanish e07s04_6a405584:
@@ -526,13 +526,13 @@ translate spanish e07s04_6a405584:
 translate spanish e07s04_3509a794:
 
     # gb "Yes, you little anal slave! Submit before your domina!"
-    gb "¡Sí, pequeño esclavo anal! ¡Entrégate ante tu domina!"
+    gb "¡Sí, pequeño esclavo anal! ¡Entrégate ante tu dominación!"
 
 # game/code/e07/e07s04.rpy:355
 translate spanish e07s04_c530b463:
 
     # gb "Cum for me! You are putty, cum in my hand you little ass slut!"
-    gb "¡Corre para mí! ¡Eres masilla, corre en mi mano, pequeña zorra!"
+    gb "¡Córrete para mí! ¡Eres masilla, córrete en mi mano, pequeña zorra!"
 
 # game/code/e07/e07s04.rpy:356
 translate spanish e07s04_b0a94234:
@@ -562,7 +562,7 @@ translate spanish e07s04_6d1197d7:
 translate spanish e07s04_00eb4d7b:
 
     # mct "Fuck, look away [e07_mcname!t]. Look awwaaaaaaay!"
-    mct "Joder, mira hacia otro lado [e07_mcname!t]. ¡Miraaaaaaaay!"
+    mct "Joder, mira hacia otro lado [e07_mcname!t]. ¡ Mira hacia otro lado!"
 
 # game/code/e07/e07s04.rpy:365
 translate spanish e07s04_f4401874:
@@ -586,7 +586,7 @@ translate spanish e07s04_d31b57a1:
 translate spanish e07s04_0839a8e3:
 
     # gb "Yes, yes-"
-    gb "Sí Sí-"
+    gb "Sí, Sí-"
 
 # game/code/e07/e07s04.rpy:382
 translate spanish e07s04_challenge_win_3aef885c:
@@ -598,13 +598,13 @@ translate spanish e07s04_challenge_win_3aef885c:
 translate spanish e07s04_challenge_win_f6eaf00a:
 
     # "Servant" "-God, I'm cumming!"
-    "Servidor" "-¡Dios, me estoy acabando!"
+    "servidor" "-¡Dios, me estoy corriendo!"
 
 # game/code/e07/e07s04.rpy:394
 translate spanish e07s04_challenge_win_d49ceb7f:
 
     # lc "My, my. It looks like I made your little slave cum first."
-    lc "Mi mi. Parece que hice que tu pequeño esclavo se corriera primero."
+    lc "Parece que hice que tu pequeña esclava se corriera primero."
 
 # game/code/e07/e07s04.rpy:397
 translate spanish e07s04_challenge_win_f9e5499f:
@@ -616,13 +616,13 @@ translate spanish e07s04_challenge_win_f9e5499f:
 translate spanish e07s04_challenge_win_a7273cc9:
 
     # gb "No, no, no! I was to experience the pleasure first!"
-    gb "¡No no no! ¡Yo debía experimentar el placer primero!"
+    gb "¡No, no, no! ¡Yo debía experimentar el placer primero!"
 
 # game/code/e07/e07s04.rpy:404
 translate spanish e07s04_challenge_win_b466190f:
 
     # lc "I'm impressed, [e07_mcname!t]. Very impressed."
-    lc "Estoy impresionado, [e07_mcname!t]. Muy impresionado."
+    lc "Estoy impresionada, [e07_mcname!t]. Muy impresionada."
 
 # game/code/e07/e07s04.rpy:407
 translate spanish e07s04_challenge_win_a7f682ed:
@@ -640,7 +640,7 @@ translate spanish e07s04_challenge_win_a0e4676f:
 translate spanish e07s04_challenge_win_d4be886e:
 
     # gb "Of course, Mistress Lydia."
-    gb "Por supuesto, señora Lydia."
+    gb "Por supuesto, Ama Lydia."
 
 # game/code/e07/e07s04.rpy:417
 translate spanish e07s04_challenge_win_78c8deb1:
@@ -754,7 +754,7 @@ translate spanish e07s04_challenge_win_67db2f1e:
 translate spanish e07s04_challenge_win_ff7e09d8:
 
     # lc "I will not repeat myself."
-    lc "No me repetiré."
+    lc "No lo repetiré."
 
 # game/code/e07/e07s04.rpy:469
 translate spanish e07s04_challenge_win_ed6b6fe0:
@@ -772,7 +772,7 @@ translate spanish e07s04_challenge_win_e8f4c2e9:
 translate spanish e07s04_challenge_win_277cba98:
 
     # lc "Better than Gizela fucking you, I bet."
-    lc "Mejor que Gizela follándote, apuesto."
+    lc "Mejor que Gizela follándote, seguro."
 
 # game/code/e07/e07s04.rpy:481
 translate spanish e07s04_challenge_win_20e7f622:
@@ -790,13 +790,13 @@ translate spanish e07s04_challenge_win_61204c6d:
 translate spanish e07s04_challenge_win_b94ddaa3:
 
     # lc "But is it even better than when [e07_arjname!t] fucked you in the ass?"
-    lc "¿Pero es incluso mejor que cuando [e07_arjname!t] te jodió por el culo?"
+    lc "¿Pero es incluso mejor que cuando [e07_arjname!t] te folló por el culo?"
 
 # game/code/e07/e07s04.rpy:487
 translate spanish e07s04_challenge_win_446c0a1c:
 
     # mc "Mmmhmmm, yeah - fuck, yes."
-    mc "Mmmhmmm, sí, joder, sí."
+    mc "Mmmmmmm, sí, joder, sí."
 
 # game/code/e07/e07s04.rpy:489
 translate spanish e07s04_challenge_win_8e8cb447:
@@ -820,7 +820,7 @@ translate spanish e07s04_challenge_win_1245ed2f:
 translate spanish e07s04_challenge_win_89cb19b6:
 
     # lc "Cum, [mcname]."
-    lc "Cum, [mcname]."
+    lc "Córrete, [mcname]."
 
 # game/code/e07/e07s04.rpy:495
 translate spanish e07s04_challenge_win_dbadb8b0:
@@ -832,19 +832,19 @@ translate spanish e07s04_challenge_win_dbadb8b0:
 translate spanish e07s04_challenge_win_677988d1:
 
     # lc "Wow, look at that. Even after being sissified and fucked in the ass by a beautiful woman, and you can cum so much."
-    lc "Vaya, mira eso. Incluso después de haber sido mariquita y follada por el culo por una mujer hermosa, puedes correrte mucho."
+    lc "Vaya, mira eso. Incluso después de haber sido una mariquita y que lo hayan follado por el culo por una mujer hermosa, puedes correrte mucho."
 
 # game/code/e07/e07s04.rpy:517
 translate spanish e07s04_challenge_lose_02194069:
 
     # gb "Yes!"
-    gb "¡Sí!"
+    gb "¡Si!"
 
 # game/code/e07/e07s04.rpy:520
 translate spanish e07s04_challenge_lose_0c6d4e7e:
 
     # mc "Fuck, I'm cumming!"
-    mc "¡Joder, me estoy acabando!"
+    mc "¡Joder, me estoy corriendo!"
 
 # game/code/e07/e07s04.rpy:532
 translate spanish e07s04_challenge_lose_757f8bf9:
@@ -856,7 +856,7 @@ translate spanish e07s04_challenge_lose_757f8bf9:
 translate spanish e07s04_challenge_lose_66c19d03:
 
     # lc "Do you know that? That you're fucking useless?"
-    lc "¿Lo sabes? ¿Que eres jodidamente inútil?"
+    lc "¿Lo sabes? ¿Eres un maldito inútil?"
 
 # game/code/e07/e07s04.rpy:539
 translate spanish e07s04_challenge_lose_4c87d4f4:
@@ -868,7 +868,7 @@ translate spanish e07s04_challenge_lose_4c87d4f4:
 translate spanish e07s04_challenge_lose_a691d218:
 
     # lc "You should be. You are. You're a sorry excuse for a submissive."
-    lc "Usted debería ser. Eres. Eres una lamentable excusa para ser sumiso."
+    lc "Deberías estarlo. Eres... Eres una lamentable excusa para ser sumiso."
 
 # game/code/e07/e07s04.rpy:545
 translate spanish e07s04_challenge_lose_d101ccda:
@@ -904,7 +904,7 @@ translate spanish e07s04_challenge_lose_02a26dbd:
 translate spanish e07s04_challenge_lose_12a384fd:
 
     # lc "Clean it. With your mouth. If you're so eager to cum from someone fucking your ass, then you should be as eager to clean your Mistress' strap-on."
-    lc "Límpialo. Con tu boca. Si estás tan ansioso por correrte de alguien que te folla el culo, entonces deberías estar igualmente ansioso por limpiar el cinturón de tu amante."
+    lc "Límpialo. Con tu boca. Si estás tan ansioso por correrte cuando alguien te folla el culo, entonces deberías estar igual de ansioso por limpiar el arnés de tu Ama."
 
 # game/code/e07/e07s04.rpy:559
 translate spanish e07s04_challenge_lose_b9449a38_1:
@@ -964,7 +964,7 @@ translate spanish e07s04_ending_58d46fbd:
 translate spanish e07s04_ending_6dd6de9e:
 
     # gb "Yes. Again, I want to thank you for suggesting this, Mistress Lydia. I did enjoy every second of it."
-    gb "Sí. Nuevamente, quiero agradecerle por sugerir esto, señora Lydia. Disfruté cada segundo."
+    gb "Si. Nuevamente, quiero agradecerle por sugerir esto, Ama Lydia. Disfruté cada segundo."
 
 # game/code/e07/e07s04.rpy:609
 translate spanish e07s04_ending_da73faad:
@@ -976,7 +976,7 @@ translate spanish e07s04_ending_da73faad:
 translate spanish e07s04_ending_8f90bd85:
 
     # lc "Of course. I do have some business to attend to, so you will have to excuse me if I don't walk you out."
-    lc "Por supuesto. Tengo algunos asuntos que atender, así que tendrás que disculparme si no te acompaño."
+    lc "Por supuesto. Tengo algunos asuntos que atender, así que tendrás que disculparme si no te acompaña."
 
 # game/code/e07/e07s04.rpy:615
 translate spanish e07s04_ending_acf5bec6:
@@ -988,7 +988,7 @@ translate spanish e07s04_ending_acf5bec6:
 translate spanish e07s04_ending_af6dbd7b:
 
     # gb "Come."
-    gb "Venir."
+    gb "Vamos."
 
 # game/code/e07/e07s04.rpy:626
 translate spanish e07s04_ending_81c18ff1:
@@ -1018,7 +1018,7 @@ translate spanish e07s04_ending_a0f56dc2:
 translate spanish e07s04_ending_43f1f90a:
 
     # lc "I want you to clean up the dungeon. Make sure the strap-ons are tidy, floors mopped."
-    lc "Quiero que limpies la mazmorra. Asegúrate de que los cinturones estén ordenados y los pisos trapeados."
+    lc "Quiero que limpies la mazmorra. Asegúrese de que los cinturones estén ordenados y los pisos trapeados."
 
 # game/code/e07/e07s04.rpy:644
 translate spanish e07s04_ending_7f2f5d4e:
@@ -1042,13 +1042,13 @@ translate spanish e07s04_ending_05b3f4ca:
 translate spanish e07s04_ending_e8f56400:
 
     # lc "Fucking me, of course. This whole event has just made me so insanely wet. I need to be satisfied."
-    lc "Jodiéndome, por supuesto. Todo este evento me ha dejado increíblemente mojada. Necesito estar satisfecho."
+    lc "Follándome, por supuesto. Todo este evento me ha dejado increíblemente mojada. Necesito estar satisfecha."
 
 # game/code/e07/e07s04.rpy:657
 translate spanish e07s04_ending_68811352:
 
     # lc "All right, everyone - chop, chop!"
-    lc "Muy bien, todos: ¡pican, cortan!"
+    lc "Muy bien, todos: ¡vamos, vamos!"
 
 translate spanish strings:
 
@@ -1058,5 +1058,5 @@ translate spanish strings:
 
     # game/code/e07/e07s04.rpy:95
     old "Volunteer"
-    new "Voluntario"
+    new "voluntario"
 
