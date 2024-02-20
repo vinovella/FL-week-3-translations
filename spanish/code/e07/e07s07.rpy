@@ -319,10 +319,10 @@ translate spanish e07s07_continue_6b76070c:
     lc "Y si quiero que te cortes la polla y las pelotas, entonces buscarías un cuchillo."
 
 # game/code/e07/e07s07.rpy:203
-translate spanish e07s07_continue_bdd649a4:
+translate spanish e07s07_continue_d81bf289:
 
-    # lc "I AM YOUR [e07_lcname_upper!t]."
-    lc "YO SOY TU [e07_lcname_upper!t]."
+    # lc "I AM YOUR [e07_lcname!tu]."
+    lc "YO SOY TU [e07_lcname!tu]."
 
 # game/code/e07/e07s07.rpy:205
 translate spanish e07s07_continue_a444483a:

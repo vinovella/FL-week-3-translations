@@ -318,11 +318,11 @@ translate portuguese e07s07_continue_6b76070c:
     # lc "And if I want you to cut off your own cock and balls, then you'd go find a knife."
     lc "E se eu quiser que você corte o seu próprio pau e bolas, você encontraria uma faca."
 
-# game/code/e07/e07s07.rpy:176
-translate portuguese e07s07_continue_bdd649a4:
+# game/code/e07/e07s07.rpy:203
+translate portuguese e07s07_continue_d81bf289:
 
-    # lc "I AM YOUR [e07_lcname_upper!t]."
-    lc "EU SOU A SUA [e07_lcname_upper!t]."
+    # lc "I AM YOUR [e07_lcname!tu]."
+    lc "EU SOU A SUA [e07_lcname!tu]."
 
 # game/code/e07/e07s07.rpy:178
 translate portuguese e07s07_continue_a444483a:
@@ -1939,7 +1939,7 @@ translate portuguese strings:
     # game/code/e07/e07s07.rpy:807
     old "You have finished playing Ending #07!"
     new "Você concluiu o Final #07!"
-    
+
     # game/code/e07/e07s07.rpy:993
     old "Stay, watch AmRose get fucked"
     new "Ficar, ver AmRose ser comida"

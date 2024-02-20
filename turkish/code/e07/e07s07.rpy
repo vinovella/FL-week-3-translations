@@ -318,11 +318,11 @@ translate turkish e07s07_continue_6b76070c:
     # lc "And if I want you to cut off your own cock and balls, then you'd go find a knife."
     lc "Ve eğer senden kendi çükünü ve taşaklarını kesmeni isteseydim, o zaman gidip bir bıçak bulurdun."
 
-# game/code/e07/e07s07.rpy:176
-translate turkish e07s07_continue_bdd649a4:
+# game/code/e07/e07s07.rpy:203
+translate turkish e07s07_continue_d81bf289:
 
-    # lc "I AM YOUR [e07_lcname_upper!t]."
-    lc "BEN SENİN [e07_lcname_upper!t]."
+    # lc "I AM YOUR [e07_lcname!tu]."
+    lc "BEN SENİN [e07_lcname!tu]."
 
 # game/code/e07/e07s07.rpy:178
 translate turkish e07s07_continue_a444483a:

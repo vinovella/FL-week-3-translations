@@ -1068,10 +1068,6 @@ translate chinese strings:
     old "Queen"
     new "皇后"
 
-    # game/code/e07/e07s01.rpy:17
-    old "QUEEN"
-    new "皇后"
-
     # game/code/e07/e07s01.rpy:18
     old "Limpdick"
     new "软趴趴的鸡巴"

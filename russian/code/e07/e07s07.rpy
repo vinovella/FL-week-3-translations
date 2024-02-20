@@ -319,10 +319,10 @@ translate russian e07s07_continue_6b76070c:
     lc "And if I want you to cut off your own cock and balls, then you'd go find a knife."
 
 # game/code/e07/e07s07.rpy:203
-translate russian e07s07_continue_bdd649a4:
+translate russian e07s07_continue_d81bf289:
 
-    # lc "I AM YOUR [e07_lcname_upper!t]."
-    lc "I AM YOUR [e07_lcname_upper!t]."
+    # lc "I AM YOUR [e07_lcname!tu]."
+    lc "I AM YOUR [e07_lcname!tu]."
 
 # game/code/e07/e07s07.rpy:205
 translate russian e07s07_continue_a444483a:

@@ -318,11 +318,11 @@ translate chinese e07s07_continue_6b76070c:
     # lc "And if I want you to cut off your own cock and balls, then you'd go find a knife."
     lc "如果我想让你割掉自己的鸡鸡和蛋蛋。那你就会去找把刀。"
 
-# game/code/e07/e07s07.rpy:176
-translate chinese e07s07_continue_bdd649a4:
+# game/code/e07/e07s07.rpy:203
+translate chinese e07s07_continue_d81bf289:
 
-    # lc "I AM YOUR [e07_lcname_upper!t]."
-    lc "我是你的[e07_lcname_upper!t]"
+    # lc "I AM YOUR [e07_lcname!tu]."
+    lc "我是你的[e07_lcname!tu]"
 
 # game/code/e07/e07s07.rpy:178
 translate chinese e07s07_continue_a444483a:
@@ -1947,10 +1947,6 @@ translate chinese strings:
     # game/code/e07/e07s07.rpy:993
     old "Just Leave"
     new "直接离开"
-
-# TODO: Translation updated at 2024-02-09 23:39
-
-translate chinese strings:
 
     # game/code/e07/e07s07.rpy:996
     old "You have failed Ending #07!"
