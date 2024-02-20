@@ -216,9 +216,8 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:1257
     old "Skip Recap\nof Week-1"
-    new "Zusammenfassung\nvon Woche-1 überspringen"
+    new "Zusammenfassung von\nWoche-1 überspringen"
 
     # game/code/screens/screens_fl.rpy:1263
     old "Skip Recap\nof Week-2"
-    new "Zusammenfassung\nvon Woche-2 überspringen"
-
+    new "Zusammenfassung von\nWoche-2 überspringen"
