@@ -1,10 +1,10 @@
-﻿# TODO: Translation updated at 2024-02-08 02:37
+# TODO: Translation updated at 2024-02-08 02:37
 
 # game/code/e07/e07s06.rpy:19
 translate spanish e07s06_7cbb521d:
 
     # lc "You have come a long way."
-    lc "Usted ha recorrido un largo camino."
+    lc "Has recorrido un largo camino."
 
 # game/code/e07/e07s06.rpy:23
 translate spanish e07s06_b2165aca:
@@ -28,7 +28,7 @@ translate spanish e07s06_f283b06b:
 translate spanish e07s06_84d9991b:
 
     # mc "Yes..."
-    mc "Sí..."
+    mc "Si..."
 
 # game/code/e07/e07s06.rpy:33
 translate spanish e07s06_99abd2aa:
@@ -40,13 +40,13 @@ translate spanish e07s06_99abd2aa:
 translate spanish e07s06_459d9cf6:
 
     # lc "Tell me something, [e07_mcname!t]."
-    lc "Dime algo, [e07_mcname!t]."
+    lc "Algo de diez centavos, [e07_mcname!t]."
 
 # game/code/e07/e07s06.rpy:40
 translate spanish e07s06_7c927b78:
 
     # mc "Yes?"
-    mc "¿Sí?"
+    mc "¿Si?"
 
 # game/code/e07/e07s06.rpy:43
 translate spanish e07s06_e456b2fd:
@@ -94,7 +94,7 @@ translate spanish e07s06_bb0eeaf4:
 translate spanish e07s06_da8853f6:
 
     # lc "*chuckles* Save it. You haven't won yet. But maybe I'll let you {i}thank me{/i} if you survive this round."
-    lc "*risas* Guárdalo. Aún no has ganado. Pero tal vez te deje {i}agradecerme{/i} si sobrevives a esta ronda."
+    lc "*risas* Guárdalo. Aún no has ganado. Pero tal vez te deje {i}agradecerme{/i} si sobrevive a esta ronda."
 
 # game/code/e07/e07s06.rpy:67
 translate spanish e07s06_ffdbd071:
@@ -106,7 +106,7 @@ translate spanish e07s06_ffdbd071:
 translate spanish e07s06_ecb06284:
 
     # lc "I stand corrected. Your determination for my affection is... flatterting."
-    lc "Me corrijo. Tu determinación por mi afecto es... halagadora."
+    lc "Mi corrijo. Tu determinación por mi afecto es... halagadora."
 
 # game/code/e07/e07s06.rpy:71
 translate spanish e07s06_d0ce16f9:
@@ -142,7 +142,7 @@ translate spanish e07s06_85f1d81f:
 translate spanish e07s06_0b805857:
 
     # mc "Just tell me what to do."
-    mc "Solo dime que hacer."
+    mc "Solo diez centavos que hacer."
 
 # game/code/e07/e07s06.rpy:83
 translate spanish e07s06_b34bc5d0:
@@ -172,7 +172,7 @@ translate spanish e07s06_baa37706:
 translate spanish e07s06_510d6eb0:
 
     # pb "Hey, Red."
-    pb "Hola, rojo."
+    pb "Hola, Roja."
 
 # game/code/e07/e07s06.rpy:109
 translate spanish e07s06_4c0fe8e8:
@@ -244,7 +244,7 @@ translate spanish e07s06_35baa567:
 translate spanish e07s06_bd6c7f6d:
 
     # lc "Listen closely."
-    lc "Escuche atentamente."
+    lc "Escuchen atentamente."
 
 # game/code/e07/e07s06.rpy:149
 translate spanish e07s06_36e01830:
@@ -256,13 +256,13 @@ translate spanish e07s06_36e01830:
 translate spanish e07s06_9283b1a3:
 
     # lc "Behind that wall is a group of horny sluts."
-    lc "Detrás de esa pared hay un grupo de zorras cachondas."
+    lc "Detrás de ese muro hay un grupo de putas excitadas."
 
 # game/code/e07/e07s06.rpy:152
 translate spanish e07s06_695f8f70:
 
     # lc "Since Fetish Locator started, I've seen a lot of girls desperate to get back at daddy or to find out their limits."
-    lc "Desde que comenzó Fetish Locator, he visto a muchas chicas desesperadas por vengarse de papá o descubrir sus límites."
+    lc "Desde que comenzó el Localizador de Fetiches, vio a muchas chicas desesperadas por vengarse de papá o descubrir sus límites."
 
 # game/code/e07/e07s06.rpy:153
 translate spanish e07s06_23e9e15e:
@@ -280,7 +280,7 @@ translate spanish e07s06_cbec6e03:
 translate spanish e07s06_9d3c9f83:
 
     # lc "They are truly hungry to enjoy your cocks."
-    lc "Tienen verdaderas hambre de disfrutar de tus pollas."
+    lc "Tienen verdaderas hambre de disfrutar de sus pollas."
 
 # game/code/e07/e07s06.rpy:162
 translate spanish e07s06_a9400cd7:
@@ -292,13 +292,13 @@ translate spanish e07s06_a9400cd7:
 translate spanish e07s06_74da0d3f:
 
     # lc "Stick your dick in the hole. And survive."
-    lc "Mete tu polla en el agujero. Y sobrevivir."
+    lc "Mete tu polla en el agujero. Y sobrevive."
 
 # game/code/e07/e07s06.rpy:166
 translate spanish e07s06_d5a543db:
 
     # pb "Uhhh..."
-    pb "Ehh..."
+    pb "Eh..."
 
 # game/code/e07/e07s06.rpy:169
 translate spanish e07s06_634eb5e3:
@@ -316,7 +316,7 @@ translate spanish e07s06_829bb236:
 translate spanish e07s06_44b9c10d:
 
     # lc "Step Two. Allow my newest pets to salivate and drool all over your flesh while they milk you."
-    lc "Segundo paso. Permite que mis nuevas mascotas saliven y babeen sobre tu carne mientras te ordeñan."
+    lc "Segundo paso. Permite que mis nuevas mascotas saliven y babeen sobre tu carne mientras te ordenan."
 
 # game/code/e07/e07s06.rpy:176
 translate spanish e07s06_168ffc17:
@@ -334,7 +334,7 @@ translate spanish e07s06_f39db249:
 translate spanish e07s06_04ff8cc2:
 
     # lc "But if you take out your cock and it's limp city."
-    lc "Pero si te sacas la polla y queda la ciudad flácida."
+    lc "Pero si te sacas la polla y queda flácida."
 
 # game/code/e07/e07s06.rpy:181
 translate spanish e07s06_daa12b75:
@@ -382,7 +382,7 @@ translate spanish e07s06_7dfcd806:
 translate spanish e07s06_18566cca:
 
     # lc "You were so good when you put this on the first time. A fun little puppy."
-    lc "Estuviste tan bien cuando pusiste esto por primera vez. Un cachorrito divertido."
+    lc "Estuviste tan bien cuando te pusiste esto por primera vez. Un cachorrito divertido."
 
 # game/code/e07/e07s06.rpy:203
 translate spanish e07s06_14aa78d2:
@@ -412,7 +412,7 @@ translate spanish e07s06_e14724b8:
 translate spanish e07s06_42b34409:
 
     # mc "Don't need it. Never had it."
-    mc "No lo necesito. Nunca lo tuve."
+    mc "No la necesito. Nunca la necesité."
 
 # game/code/e07/e07s06.rpy:219
 translate spanish e07s06_c4ef2323:
@@ -424,7 +424,7 @@ translate spanish e07s06_c4ef2323:
 translate spanish e07s06_afb4d211:
 
     # mct "Not long it turns out."
-    mct "Resulta que no mucho tiempo."
+    mct "Resulta que no hay mucho tiempo."
 
 # game/code/e07/e07s06.rpy:228
 translate spanish e07s06_8d84b828:
@@ -478,7 +478,7 @@ translate spanish e07s06_4bf5156d:
 translate spanish e07s06_a0d05518:
 
     # lc "Less peanut gallery, Bull."
-    lc "Menos galería de maní, Bull."
+    lc "Menos galería de maní, Toro."
 
 # game/code/e07/e07s06.rpy:256
 translate spanish e07s06_7337b593:
@@ -526,13 +526,13 @@ translate spanish e07s06_fd6201ea:
 translate spanish e07s06_4c61e08b:
 
     # lc "You have thirty seconds to get hard again, and get back into the trenches."
-    lc "Tienes treinta segundos para volver a ponerte duro y volver a las trincheras."
+    lc "Tienen treinta segundos para volver a ponerse duro y volver a las trincheras."
 
 # game/code/e07/e07s06.rpy:279
 translate spanish e07s06_05f0e501:
 
     # pb "Thirty seconds?"
-    pb "¿Treinta segundos?"
+    pb "¿Tres segundos?"
 
 # game/code/e07/e07s06.rpy:282
 translate spanish e07s06_5c5071df:
@@ -592,7 +592,7 @@ translate spanish e07s06_bc4f1a33:
 translate spanish e07s06_3dbae609:
 
     # pb "Yeah. I mean. No..."
-    pb "Sí. Quiero decir. No..."
+    pb "Si. Quiero decir. No..."
 
 # game/code/e07/e07s06.rpy:309
 translate spanish e07s06_b67423d1:
@@ -622,13 +622,13 @@ translate spanish e07s06_a9e008f6:
 translate spanish e07s06_a1b78986:
 
     # "Both" "Fuuuuuuuuccccccckkkk"
-    "Ambos" "Fuuuuuuuccccccckkkk"
+    "Ambos" "Miiiieeeerdaaaa"
 
 # game/code/e07/e07s06.rpy:328
 translate spanish e07s06_260cb582:
 
     # lc "Alright. Dicks up!"
-    lc "Está bien. ¡Pollas arriba!"
+    lc "All Right. ¡Pollas arriba!"
 
 # game/code/e07/e07s06.rpy:334
 translate spanish e07s06_2b35b6fe:
@@ -646,13 +646,13 @@ translate spanish e07s06_5594b92c:
 translate spanish e07s06_005c8048:
 
     # lc "CONTINUE!"
-    lc "¡CONTINUAR!"
+    lc "¡CONTINÚEN!"
 
 # game/code/e07/e07s06.rpy:345
 translate spanish e07s06_a9bbfbb9:
 
     # pb "Hurah!"
-    pb "¡Hura!"
+    pb "¡Hurah!"
 
 # game/code/e07/e07s06.rpy:348
 translate spanish e07s06_17aeb617:
@@ -664,7 +664,7 @@ translate spanish e07s06_17aeb617:
 translate spanish e07s06_c2769fd7:
 
     # mct "Oh God. It feels like this chick is sucking the marrow out of my bones."
-    mct "Oh Dios. Se siente como si esta chica estuviera succionando la médula de mis huesos."
+    mct "Ay Dios. Se siente como si esta chica estuviera succionando la médula de mis huesos."
 
 # game/code/e07/e07s06.rpy:352
 translate spanish e07s06_b973f028:
@@ -730,7 +730,7 @@ translate spanish e07s06_1a8c6d4b:
 translate spanish e07s06_9bb90ed7:
 
     # mct "Oh sweet fluffy lord, do I really want to try that?"
-    mct "Oh, dulce y esponjoso señor, ¿de verdad quiero probar eso?"
+    mct "Oh, dulce y esponjoso señor, ¿de verdad quiero intentar eso?"
 
 # game/code/e07/e07s06.rpy:376
 translate spanish e07s06_97535dab:
@@ -742,7 +742,7 @@ translate spanish e07s06_97535dab:
 translate spanish e07s06_sneak_attack_4bde0566:
 
     # mct "Here goes nothing!"
-    mct "¡Aquí va nada!"
+    mct "¡Ahora o nunca!"
 
 # game/code/e07/e07s06.rpy:391
 translate spanish e07s06_sneak_attack_99815a1f:
@@ -760,7 +760,7 @@ translate spanish e07s06_sneak_attack_aa0ee2f4:
 translate spanish e07s06_sneak_attack_ba2320d1:
 
     # pb "What in the-"
-    pb "¿Qué en el-"
+    pb "Qué..."
 
 # game/code/e07/e07s06.rpy:402
 translate spanish e07s06_sneak_attack_ee667e1a:
@@ -796,13 +796,13 @@ translate spanish e07s06_sneak_attack_00a8867c:
 translate spanish e07s06_sneak_attack_34b542b0:
 
     # lc "Really. You could only give me three shots?"
-    lc "En realidad. ¿Sólo pudiste darme tres inyecciones?"
+    lc "En Realidad. ¿Sólo pudiste darme tres disparos?"
 
 # game/code/e07/e07s06.rpy:425
 translate spanish e07s06_sneak_attack_ea99e9a2:
 
     # pb "I would if someone didn't-"
-    pb "Lo haría si alguien no-"
+    pb "Lo haría si alguien no"
 
 # game/code/e07/e07s06.rpy:428
 translate spanish e07s06_sneak_attack_35610fc3:
@@ -832,7 +832,7 @@ translate spanish e07s06_sneak_attack_87909d55:
 translate spanish e07s06_sneak_attack_b2a6f458:
 
     # mc "No, [e07_lcname!t]. Just still a little sensitive."
-    mc "No, [e07_lcname!t]. Todavía estoy un poco sensible."
+    mc "No, [e07_lcname!t]. Todavía soy un poco sensato."
 
 # game/code/e07/e07s06.rpy:444
 translate spanish e07s06_sneak_attack_4c60cd1d:
@@ -850,7 +850,7 @@ translate spanish e07s06_sneak_attack_c5b1414e:
 translate spanish e07s06_no_cheating_1336a4fa:
 
     # mct "No. I'm not sticking my finger up some guy's ass."
-    mct "No. No voy a meterle el dedo en el culo a ningún tipo."
+    mct "No. No voy a meterle el dedo en el culo a ningún chico."
 
 # game/code/e07/e07s06.rpy:458
 translate spanish e07s06_no_cheating_1c7ee786:
@@ -892,13 +892,13 @@ translate spanish e07s06_no_cheating_af02c61a:
 translate spanish e07s06_no_cheating_1bda2884:
 
     # lc "Hands off, [e07_mcname!t]."
-    lc "No toques, [e07_mcname!t]."
+    lc "Manos fuera, [e07_mcname!t]."
 
 # game/code/e07/e07s06.rpy:485
 translate spanish e07s06_no_cheating_84d9991b:
 
     # mc "Yes..."
-    mc "Sí..."
+    mc "Si..."
 
 # game/code/e07/e07s06.rpy:488
 translate spanish e07s06_no_cheating_625becb0:
@@ -922,7 +922,7 @@ translate spanish e07s06_no_cheating_b4259987:
 translate spanish e07s06_no_cheating_083a5d6c:
 
     # pb "Nrrrnnn..."
-    pb "Nrrrnn..."
+    pb "Nrrrn..."
 
 # game/code/e07/e07s06.rpy:501
 translate spanish e07s06_no_cheating_ad436469:
@@ -994,7 +994,7 @@ translate spanish e07s06_no_cheating_d2e9ac07:
 translate spanish e07s06_no_cheating_7c927b78:
 
     # mc "Yes?"
-    mc "¿Sí?"
+    mc "¿Si?"
 
 # game/code/e07/e07s06.rpy:536
 translate spanish e07s06_no_cheating_ec032ccc:
@@ -1090,7 +1090,7 @@ translate spanish e07s06_bonus_challange_3babf0ed:
 translate spanish e07s06_bonus_challange_6c6daf62:
 
     # lc "Haha. No, it's not."
-    lc "Ja ja. No, no es."
+    lc "Ja ja. No, no."
 
 # game/code/e07/e07s06.rpy:589
 translate spanish e07s06_bonus_challange_a7d41684:
@@ -1138,7 +1138,7 @@ translate spanish e07s06_bonus_challange_11455b53:
 translate spanish e07s06_bonus_challange_345c9f8c:
 
     # lc "Relieve them, and I'll give you an extra point."
-    lc "Resuélvelos y te daré un punto extra."
+    lc "Alívialos y te daré un punto extra."
 
 # game/code/e07/e07s06.rpy:621
 translate spanish e07s06_bonus_challange_2e29ebec:
@@ -1174,7 +1174,7 @@ translate spanish e07s06_bonus_challange_2876efd9:
 translate spanish e07s06_bonus_challange_79c9cb1f:
 
     # lc "Your place isn't to question, [e07_mcname!t]. I'm sure you've gotten horny watching me have fun with other girls."
-    lc "Tu lugar no es cuestionar, [e07_mcname!t]. Seguro que te has puesto cachondo viéndome divertirme con otras chicas."
+    lc "Tu lugar no es cuestionar, [e07_mcname!t]. Estoy segura que te has excitado viéndome divertirme con otras chicas."
 
 # game/code/e07/e07s06.rpy:639
 translate spanish e07s06_bonus_challange_7bb86db6:
@@ -1198,7 +1198,7 @@ translate spanish e07s06_suck_dick_74103180:
 translate spanish e07s06_suck_dick_9eb0da8c:
 
     # mct "I can't believe I'm doing this. But if it gets me closer to getting [e07_lcname!t] at the end of all this, it will be worth it."
-    mct "No puedo creer que esté haciendo esto. Pero si me acerca a conseguir [e07_lcname!t] al final de todo esto, valdrá la pena."
+    mct "No puedo creer que esté haciendo esto. Pero si me acerca a conseguir a [e07_lcname!t] al final de todo esto, valdrá la pena."
 
 # game/code/e07/e07s06.rpy:658
 translate spanish e07s06_suck_dick_07a67dc4:
@@ -1264,13 +1264,13 @@ translate spanish e07s06_suck_dick_f5c3be8a:
 translate spanish e07s06_suck_dick_e7196ca4:
 
     # mct "Oh shit. They're getting close."
-    mct "Oh, mierda. Se están acercando."
+    mct "Oh, mierda. Se está acercando."
 
 # game/code/e07/e07s06.rpy:694
 translate spanish e07s06_suck_dick_635f25d9:
 
     # mc "They're going to cum."
-    mc "Se van a correr."
+    mc "Se va a correr."
 
 # game/code/e07/e07s06.rpy:695
 translate spanish e07s06_suck_dick_f39b524c:
@@ -1288,7 +1288,7 @@ translate spanish e07s06_suck_dick_5693a819:
 translate spanish e07s06_suck_dick_3132e9f5:
 
     # lc "Well done, [e07_mcname!t]. Full marks."
-    lc "Bien hecho, [e07_mcname!t]. La máxima puntuación."
+    lc "Bien hecho, [e07_mcname!t]. La puntuación máxima."
 
 # game/code/e07/e07s06.rpy:706
 translate spanish e07s06_suck_dick_55b23fb7:
@@ -1318,7 +1318,7 @@ translate spanish e07s06_suck_dick_ec3786a7:
 translate spanish e07s06_suck_dick_ee3f096c:
 
     # mc "Yeah. It's just uh... well I didn't know I'd ever do that."
-    mc "Sí. Es sólo que... bueno, no sabía que alguna vez haría eso."
+    mc "Si. Es sólo que... bueno, no sabía que alguna vez haría eso."
 
 # game/code/e07/e07s06.rpy:718
 translate spanish e07s06_suck_dick_334699dc:
@@ -1378,13 +1378,13 @@ translate spanish e07s06_suck_dick_520f4a5f:
 translate spanish e07s06_suck_dick_c3cca7c0:
 
     # arj "No. Why would anything be wrong?"
-    arj "No. ¿Por qué estaría mal algo?"
+    arj "No. ¿Por qué habría algo mal?"
 
 # game/code/e07/e07s06.rpy:751
 translate spanish e07s06_suck_dick_b979a29b:
 
     # mc "I don't know. Just... feels different."
-    mc "No sé. Simplemente... se siente diferente."
+    mc "Nariz. Simplemente... se siente diferente."
 
 # game/code/e07/e07s06.rpy:754
 translate spanish e07s06_suck_dick_53db682f:
@@ -1438,13 +1438,13 @@ translate spanish e07s06_suck_dick_2b8a1132:
 translate spanish e07s06_suck_dick_3e59542a:
 
     # mct "[e07_lcname!t] must be finally ready to truly accept me."
-    mct "[e07_lcname!t] debe estar finalmente listo para aceptarme de verdad."
+    mct "[e07_lcname!t] debe estar finalmente lista para aceptarme de verdad."
 
 # game/code/e07/e07s06.rpy:787
 translate spanish e07s06_suck_dick_d64b91c1:
 
     # mc "[e07_lcname!t]. I'm... I'm going to-"
-    mc "[e07_lcname!t]. Yo... voy a-"
+    mc "[e07_lcname!t]. Yo voy a-"
 
 # game/code/e07/e07s06.rpy:791
 translate spanish e07s06_suck_dick_610b9d0e:
@@ -1492,7 +1492,7 @@ translate spanish e07s06_suck_dick_e2b524b2:
 translate spanish e07s06_suck_dick_c6e8dfb0:
 
     # mc "Okay... That's... that's good, at least."
-    mc "Vale... Eso... eso es bueno, al menos."
+    mc "Está bien... Eso... eso es bueno, al menos."
 
 # game/code/e07/e07s06.rpy:819
 translate spanish e07s06_suck_dick_a8c0eb5c:
@@ -1510,7 +1510,7 @@ translate spanish e07s06_no_bj_fa446c0c:
 translate spanish e07s06_no_bj_7aeb23d0:
 
     # mc "Not that badly."
-    mc "No tan mal."
+    mc "No está tan mal."
 
 # game/code/e07/e07s06.rpy:837
 translate spanish e07s06_no_bj_b68fb241:
@@ -1536,7 +1536,7 @@ translate spanish strings:
 
     # game/code/e07/e07s06.rpy:377
     old "Don't cheat"
-    new "no hagas trampa"
+    new "No hagas trampa"
 
     # game/code/e07/e07s06.rpy:641
     old "Suck the dick for Lydia"
