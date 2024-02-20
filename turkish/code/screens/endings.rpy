@@ -40,5 +40,5 @@ translate turkish strings:
 
     # game/code/screens/endings.rpy:66
     old "Download free DLC containing this ending"
-    new "Download free DLC containing this ending"
+    new "Bu sonu içeren ücretsiz DLC'yi indirin"
 
