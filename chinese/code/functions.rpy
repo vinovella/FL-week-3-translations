@@ -36,4 +36,4 @@ translate chinese strings:
 
     # game/code/functions.rpy:23
     old "You have unlocked Ending #{}"
-    new "You have unlocked Ending #{}"
+    new "您已解锁结局#{}"
