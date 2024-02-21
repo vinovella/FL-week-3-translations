@@ -304,12 +304,12 @@ translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:265
     old "Continue playing"
-    new "Continue playing"
+    new "继续玩"
 
     # game/code/screens/screens_fl.rpy:269
     old "Close the game"
-    new "Close the game"
+    new "关闭游戏"
 
     # game/code/screens/screens_fl.rpy:180
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
-    new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
+    new "如果您决定继续游戏，则可能无法载入第二周的存档。您不会再收到通知了。确定继续吗？"
