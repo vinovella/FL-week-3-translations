@@ -204,11 +204,11 @@ translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:94
     old "Ending 12: Vanessa & Allison"
-    new "Ending 12: Vanessa & Allison"
+    new "结局12:瓦妮莎和艾莉森"
 
     # game/code/data/extended/cg_gallery.rpy:103
     old "Ending 14: Polly & Nora"
-    new "Ending 14: Polly & Nora"
+    new "结局14:波莉和诺拉"
 
 # TODO: Translation updated at 2023-12-07 21:11
 
@@ -216,11 +216,11 @@ translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:91
     old "Ending 11: Daisy"
-    new "Ending 11: Daisy"
+    new "结局11:黛西"
 
     # game/code/data/extended/cg_gallery.rpy:108
     old "Ending 17: Dahlia"
-    new "Ending 17: Dahlia"
+    new "结局17:黛丽娅"
 
 # TODO: Translation updated at 2024-02-09 23:39
 
@@ -228,9 +228,9 @@ translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:75
     old "Ending 04: Girls"
-    new "Ending 04: Girls"
+    new "结局04:女孩们"
 
     # game/code/data/extended/cg_gallery.rpy:85
     old "Ending 07: Girls"
-    new "Ending 07: Girls"
+    new "结局07:女孩们"
 
