@@ -279,7 +279,7 @@ translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:535
     old "TRADE OFFER"
-    new "TRADE OFFER"
+    new "提供交易"
 
     # game/code/data/extended/extra_gallery.rpy:431
     old "I receive:"
@@ -303,51 +303,51 @@ translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "30. What? You wanted more?"
-    new "30. What? You wanted more?"
+    new "30. 怎么？你还想要更多?"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish all 6 Endings from DLC-1"
-    new "Finish all 6 Endings from DLC-1"
+    new "完成DLC-1中的全部6个结局"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "31. Go Debbie Go"
-    new "31. Go Debbie Go"
+    new "31. 加油，黛比，加油"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Have sex with Debbie"
-    new "Have sex with Debbie"
+    new "和黛比做爱"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "32. Fully Cooked"
-    new "32. Fully Cooked"
+    new "32. 完全熟透"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Get max points in Lydia's challenges in e07"
-    new "Get max points in Lydia's challenges in e07"
+    new "在结局07莉迪亚的挑战中获得最高分"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "33. Full House"
-    new "33. Full House"
+    new "33. 欢乐满屋"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Play with all the characters in e04"
-    new "Play with all the characters in e04"
+    new "玩转结局04中的所有角色"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "34. Day and Night"
-    new "34. Day and Night"
+    new "34. 日与夜"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish e04 and e07"
-    new "Finish e04 and e07"
+    new "完成结局04和结局07"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "35. A lucky dozen"
-    new "35. A lucky dozen"
+    new "35. 幸运一行人"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish 12 endings"
-    new "Finish 12 endings"
+    new "完成12个结局"
 
     # game/code/data/extended/extra_gallery.rpy:712
     old "ORNY"
