@@ -84,17 +84,17 @@ translate chinese strings:
 
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Taboo University on Steam"
-    new "Wishlist Taboo University on Steam"
+    new "在Steam上推荐《禁忌大学》"
 
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
-    new "Get a Lovense toy"
+    new "获取Lovense爱感玩具"
 
     # game/code/screens/extended/screens.rpy:233
     old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
+    new "试玩我们的新游戏《禁忌大学》"
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"
-    new "Get free DLC containing 6 endings from Steam"
+    new "从Steam免费获取包含6个结局的 DLC"
 
