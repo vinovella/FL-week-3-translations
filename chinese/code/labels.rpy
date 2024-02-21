@@ -624,70 +624,70 @@ translate chinese strings:
 translate chinese after_credits_b06da193:
 
     # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
-    sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
+    sy "那我一定要{a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}在Steam上推荐这款游戏{/u}{/a}了！"
 
 # game/code/labels.rpy:170
 translate chinese after_credits_dcd001ba:
 
     # sy "It is so sad! I thought you died."
-    sy "It is so sad! I thought you died."
+    sy "我好伤心来着！还以为你死了。"
 
 # game/code/labels.rpy:173
 translate chinese after_credits_5a67dd3f:
 
     # sy "*sniffs*"
-    sy "*sniffs*"
+    sy "*抽鼻子*"
 
 # game/code/labels.rpy:179
 translate chinese after_credits_3b9a74dd:
 
     # dd "Hey, it's okay. I'm healthy as a clam now."
-    dd "Hey, it's okay. I'm healthy as a clam now."
+    dd "嘿，没事的。我现在健康得很。"
 
 # game/code/labels.rpy:182
 translate chinese after_credits_62dbb988:
 
     # sy "*Sniffling* I know. *sniff* I'm glad you're okay."
-    sy "*Sniffling* I know. *sniff* I'm glad you're okay."
+    sy "*抽鼻子* 我知道。*抽鼻子* 我很高兴你没事。"
 
 # game/code/labels.rpy:185
 translate chinese after_credits_de67d958:
 
     # dd "Mmmhmm. Me too, Stacy."
-    dd "Mmmhmm. Me too, Stacy."
+    dd "噢噢噢~我也是，史黛西。"
 
 # game/code/labels.rpy:189
 translate chinese after_credits_697eed2b:
 
     # dd "And don't forget. There's is another ending with me!"
-    dd "And don't forget. There's is another ending with me!"
+    dd "别忘了。我还被安排了另一个结局呢！"
 
 # game/code/labels.rpy:192
 translate chinese after_credits_26d7f508:
 
     # sy "Oh...right."
-    sy "Oh...right."
+    sy "哦...对哦。"
 
 # game/code/labels.rpy:196
 translate chinese after_credits_ae828622:
 
     # sy "I almost forgot about the Sex Dungeon ending!"
-    sy "I almost forgot about the Sex Dungeon ending!"
+    sy "我差点忘了性爱地牢那个结局！"
 
 # game/code/labels.rpy:199
 translate chinese after_credits_a73caa2e:
 
     # dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
-    dd "Don't forget about our other ending, Stacy. I get to be a hot, latex, sex doll in our own Sex Dungeon!"
+    dd "别忘了我们的另一个结局，史黛西。我可以在我们自己的性爱地牢里做一个性感的乳胶性爱娃娃！"
 
 # game/code/labels.rpy:202
 translate chinese after_credits_83a2ed10:
 
     # sy "Yeah... That ending sounds like fun."
-    sy "Yeah... That ending sounds like fun."
+    sy "是啊... 这个结局听起来很有意思。"
 
 # game/code/labels.rpy:206
 translate chinese after_credits_f4cf666b:
 
     # sy "I can't wait to enjoy it with you."
-    sy "I can't wait to enjoy it with you."
+    sy "我等不及要和你一起享受这个结局了！"
