@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2024-01-25 23:49
+# TODO: Translation updated at 2024-01-25 23:49
 
 # game/code/e04/e04s08.rpy:19
 translate spanish e04s08_42cc5e2a:
@@ -10,13 +10,13 @@ translate spanish e04s08_42cc5e2a:
 translate spanish e04s08_bb47e4fc:
 
     # jdg "I bet. I take it your first prisoner is doing well?"
-    jdg "Te apuesto. ¿Supongo que a su primer prisionero le está yendo bien?"
+    jdg "Lo apuesto. ¿Supongo que a su primera prisionera le está yendo bien?"
 
 # game/code/e04/e04s08.rpy:23
 translate spanish e04s08_0bce0934:
 
     # mc "Indeed. If she were up for parole I'm sure any board would release her."
-    mc "En efecto. Si estuviera en libertad condicional, estoy seguro de que cualquier junta la liberaría."
+    mc "Ya lo creo. Si estuviera en libertad condicional estoy seguro de que cualquier tribunal la dejaría en libertad."
 
 # game/code/e04/e04s08.rpy:26
 translate spanish e04s08_6ab7cea7:
@@ -34,25 +34,25 @@ translate spanish e04s08_2753cbc6:
 translate spanish e04s08_a18481e4:
 
     # jdg "Have you given any thought to where your prisoners will go next?"
-    jdg "¿Has pensado adónde irán tus prisioneros a continuación?"
+    jdg "¿Has pensado dónde irán tus prisioneras a continuación?"
 
 # game/code/e04/e04s08.rpy:32
 translate spanish e04s08_5c30c0d3:
 
     # mc "I'm sure you'll provide something appropriate."
-    mc "Estoy seguro de que proporcionarás algo apropiado."
+    mc "Estoy seguro de que te proporcionaré algo apropiado."
 
 # game/code/e04/e04s08.rpy:34
 translate spanish e04s08_575630df:
 
     # jdg "You're not worried about losing your favorite toy?"
-    jdg "¿No te preocupa perder tu juguete favorito?"
+    jdg "¿No te preocupa perder a tu juguete favorito?"
 
 # game/code/e04/e04s08.rpy:36
 translate spanish e04s08_1b0b79f1:
 
     # mc "She is my favorite toy. I doubt she'll go far."
-    mc "Ella es mi juguete favorito. Dudo que llegue lejos."
+    mc "Es mi juguete favorito. Dudo que llegue demasiado lejos."
 
 # game/code/e04/e04s08.rpy:39
 translate spanish e04s08_44b9009c:
@@ -70,7 +70,7 @@ translate spanish e04s08_2492d132:
 translate spanish e04s08_adf0061b:
 
     # mc "So I can keep using it as a prison?"
-    mc "¿Entonces puedo seguir usándolo como prisión?"
+    mc "¿Entonces puedo seguir usándola como prisión?"
 
 # game/code/e04/e04s08.rpy:45
 translate spanish e04s08_0e91b756:
@@ -88,7 +88,7 @@ translate spanish e04s08_f77e85f8:
 translate spanish e04s08_aa54ff21:
 
     # jdg "As long as you continue to impress me."
-    jdg "Mientras sigas impresionándome."
+    jdg "Mientras seguías impresionándome."
 
 # game/code/e04/e04s08.rpy:51
 translate spanish e04s08_ba65fe55:
@@ -112,13 +112,13 @@ translate spanish e04s08_dfab14a8:
 translate spanish e04s08_1090ee2a:
 
     # arj "Isn't there anything we can do? Can't she stay here as a willing prisoner like I am?"
-    arj "¿No hay nada que podamos hacer? ¿No puede quedarse aquí como una prisionera dispuesta como yo?"
+    arj "¿No hay nada que podamos hacer? ¿No puede quedarse aquí como una prisionera voluntaria como yo?"
 
 # game/code/e04/e04s08.rpy:60
 translate spanish e04s08_b0b27436:
 
     # sy "I don't know. Above my pay grade."
-    sy "No sé. Por encima de mi nivel salarial."
+    sy "Nariz. Por encima de mi nivel salarial."
 
 # game/code/e04/e04s08.rpy:63
 translate spanish e04s08_5dfa74a6:
@@ -130,7 +130,7 @@ translate spanish e04s08_5dfa74a6:
 translate spanish e04s08_b15419ad:
 
     # sy "It's between the warden and the judge, I guess. Maybe she has a say in that too."
-    sy "Supongo que es entre el alcaide y el juez. Quizás ella también tenga algo que decir en eso."
+    sy "Supongo que es entre el Alcaide y la jueza. Quizás ella también tenga algo que decir en eso."
 
 # game/code/e04/e04s08.rpy:68
 translate spanish e04s08_b6ac9444:
@@ -142,7 +142,7 @@ translate spanish e04s08_b6ac9444:
 translate spanish e04s08_6fe00a6b:
 
     # sy "Prisoner 001! The Judge is here. You're getting released."
-    sy "¡Prisionero 001! El juez está aquí. Te liberarán."
+    sy "¡Prisionera 001! La jueza está aquí. Te liberarán."
 
 # game/code/e04/e04s08.rpy:71
 translate spanish e04s08_16cf56e7:
@@ -166,13 +166,13 @@ translate spanish e04s08_8515f081:
 translate spanish e04s08_2b03f0d4:
 
     # sy "Well, once we get you to the Warden."
-    sy "Bueno, una vez que te llevemos con el Guardián."
+    sy "Bueno, una vez que te llevamos con el Alcaide."
 
 # game/code/e04/e04s08.rpy:81
 translate spanish e04s08_31883444:
 
     # lc "[alt_mcname]? Of course! Right away!"
-    lc "[alt_mcname]? ¡Por supuesto! ¡De inmediato!"
+    lc "¿El [alt_mcname]? ¡Por supuesto! ¡De inmediato!"
 
 # game/code/e04/e04s08.rpy:83
 translate spanish e04s08_7d64e5cc:
@@ -184,7 +184,7 @@ translate spanish e04s08_7d64e5cc:
 translate spanish e04s08_66d71020:
 
     # sy "I brought you the prisoner scheduled for release."
-    sy "Te traje al prisionero cuya liberación está prevista."
+    sy "Le he traído a la prisionera programada para ser liberada."
 
 # game/code/e04/e04s08.rpy:88
 translate spanish e04s08_3dbc6344:
@@ -196,25 +196,25 @@ translate spanish e04s08_3dbc6344:
 translate spanish e04s08_1c1abd34:
 
     # jdg "Why is the other one here?"
-    jdg "¿Por qué está el otro aquí?"
+    jdg "¿Por qué está la otra aquí?"
 
 # game/code/e04/e04s08.rpy:93
 translate spanish e04s08_90743772:
 
     # sy "Prisoner 002? She follows me around wherever I go, like a faithful puppy."
-    sy "¿Prisionero 002? Ella me sigue a donde quiera que vaya, como un cachorro fiel."
+    sy "¿Prisionera 002? Ella me sigue a donde quiera que vaya, como un cachorro fiel."
 
 # game/code/e04/e04s08.rpy:95
 translate spanish e04s08_566eae01:
 
     # jdg "I see."
-    jdg "Veo."
+    jdg "Ya veo."
 
 # game/code/e04/e04s08.rpy:97
 translate spanish e04s08_0acac678:
 
     # mc "She's one of the willing prisoners. There's no risk involved."
-    mc "Ella es una de las prisioneras dispuestas. No hay ningún riesgo involucrado."
+    mc "Ella es una de las prisioneras voluntarias. No hay ningún riesgo involucrado."
 
 # game/code/e04/e04s08.rpy:100
 translate spanish e04s08_5b40fcb8:
@@ -226,13 +226,13 @@ translate spanish e04s08_5b40fcb8:
 translate spanish e04s08_1a66c9d9:
 
     # mc "Prisoner 001 - Stand and face the Judge."
-    mc "Prisionero 001: Ponte de pie y mira al juez."
+    mc "Prisionera 001: Ponte de pie y mira a la jueza."
 
 # game/code/e04/e04s08.rpy:105
 translate spanish e04s08_8f19cc5b:
 
     # jdg "Very good. Lydia Cox, you have served out the term of your sentence."
-    jdg "Muy bien. Lydia Cox, has cumplido el plazo de tu sentencia."
+    jdg "Muy bien. Lydia Cox, ha cumplido el plazo de su sentencia."
 
 # game/code/e04/e04s08.rpy:106
 translate spanish e04s08_73e3a881:
@@ -244,31 +244,31 @@ translate spanish e04s08_73e3a881:
 translate spanish e04s08_bab9f5c4:
 
     # lc "[alt_mcname]? I don't understand. What's happening?"
-    lc "[alt_mcname]? No entiendo. ¿Lo que está sucediendo?"
+    lc "¿[alt_mcname]? No entiendo. ¿Qué está sucediendo?"
 
 # game/code/e04/e04s08.rpy:111
 translate spanish e04s08_745a7c78:
 
     # mc "You are getting your freedom. You are no longer a prisoner here."
-    mc "Estás obteniendo tu libertad. Ya no eres un prisionero aquí."
+    mc "Estás obteniendo tu libertad. Ya no eres una prisionera aquí."
 
 # game/code/e04/e04s08.rpy:114
 translate spanish e04s08_f1135052:
 
     # jdg "Now, there can be some difficulties re-entering society, but having reviewed your finances I am confident that you have the necessary means."
-    jdg "Ahora bien, puede haber algunas dificultades para reinsertarse en la sociedad, pero habiendo revisado tus finanzas confío en que cuentas con los medios necesarios."
+    jdg "Ahora bien, puede haber algunas dificultades para reinsertarse en la sociedad, pero habiendo revisado tus finanzas confió en que cuentas con los medios necesarios."
 
 # game/code/e04/e04s08.rpy:115
 translate spanish e04s08_45bc88a2:
 
     # jdg "You're a rather wealthy woman, Miss Cox."
-    jdg "Es usted una mujer bastante rica, señorita Cox."
+    jdg "Es usted una mujer bastante rica, Señorita Cox."
 
 # game/code/e04/e04s08.rpy:118
 translate spanish e04s08_2ac94a06:
 
     # jdg "I know an excellent lawyer who is also involved in real estate."
-    jdg "Conozco a un excelente abogado que también se dedica al sector inmobiliario."
+    jdg "Conozco a una excelente abogada que también se dedica al sector inmobiliario."
 
 # game/code/e04/e04s08.rpy:119
 translate spanish e04s08_c38f7882:
@@ -310,25 +310,25 @@ translate spanish e04s08_152a5e71:
 translate spanish e04s08_706e0030:
 
     # mc "Alright. After that we can walk her out."
-    mc "Está bien. Después de eso podremos acompañarla."
+    mc "All Right. Después de eso podremos acompañarla."
 
 # game/code/e04/e04s08.rpy:134
 translate spanish e04s08_a33ec19f:
 
     # jdg "Would you mind doing that? I would like to spend some time inspecting the prisoners."
-    jdg "¿Te importaría hacer eso? Me gustaría pasar algún tiempo inspeccionando a los prisioneros."
+    jdg "¿Te importaría hacer eso? Me gustaría pasar algún tiempo inspeccionando a las prisioneras."
 
 # game/code/e04/e04s08.rpy:136
 translate spanish e04s08_ef0c382f:
 
     # mc "Certainly. Enjoy yourself."
-    mc "Ciertamente. Diviértete."
+    mc "Seguro. Diviértete."
 
 # game/code/e04/e04s08.rpy:137
 translate spanish e04s08_6484d7c2:
 
     # jdg "Thank you. I certainly will."
-    jdg "Gracias. Ciertamente lo hare."
+    jdg "Gracias. Ciertamente lo haré."
 
 # game/code/e04/e04s08.rpy:145
 translate spanish e04s08_outside_30f8fcce:
@@ -340,7 +340,7 @@ translate spanish e04s08_outside_30f8fcce:
 translate spanish e04s08_outside_1e857959:
 
     # mc "You haven't seen it in a while, have you?"
-    mc "Hace tiempo que no lo ves, ¿verdad?"
+    mc "Hace tiempo que no la ves, ¿verdad?"
 
 # game/code/e04/e04s08.rpy:149
 translate spanish e04s08_outside_3a5f729b:
@@ -370,7 +370,7 @@ translate spanish e04s08_outside_77e30104:
 translate spanish e04s08_outside_cc6496f8:
 
     # mc "At this hour, I recommend getting a hotel."
-    mc "A esta hora recomiendo coger un hotel."
+    mc "A esta hora recomiendo que vayas a un hotel."
 
 # game/code/e04/e04s08.rpy:158
 translate spanish e04s08_outside_7c572e9d:
@@ -400,7 +400,7 @@ translate spanish e04s08_outside_3177a2f8:
 translate spanish e04s08_outside_07dbf68b:
 
     # lc "Heh. [alt_mcname] tried to drown me there when I first got here."
-    lc "Je. [alt_mcname] intentó ahogarme allí cuando llegué aquí por primera vez."
+    lc "Je. [alt_mcname] intenté ahogarme allí cuando llegué aquí por primera vez."
 
 # game/code/e04/e04s08.rpy:168
 translate spanish e04s08_outside_afa79b8c:
@@ -424,7 +424,7 @@ translate spanish e04s08_outside_110b988e:
 translate spanish e04s08_outside_bc8bf655:
 
     # lc "Before I was his."
-    lc "Antes de que yo fuera suyo."
+    lc "Antes de que yo fuera suya."
 
 # game/code/e04/e04s08.rpy:176
 translate spanish e04s08_outside_675153b2:
@@ -454,7 +454,7 @@ translate spanish e04s08_outside_3d53b23a:
 translate spanish e04s08_outside_698fb84b:
 
     # lc "Don't make me go. Please don't make me go."
-    lc "No me hagas ir. Por favor no me hagas ir."
+    lc "No quiero irme. Por favor no hagas que me vaya."
 
 # game/code/e04/e04s08.rpy:185
 translate spanish e04s08_outside_e64dbd20:
@@ -508,7 +508,7 @@ translate spanish e04s08_upstairs_d22ea6b7:
 translate spanish e04s08_upstairs_6c13e6fb:
 
     # mc "C'mon, Lydia. Let's go inside."
-    mc "Vamos, Lidia. Entremos."
+    mc "Vamos, Lydia. Entremos."
 
 # game/code/e04/e04s08.rpy:226
 translate spanish e04s08_upstairs_5f1d60a0:
@@ -520,13 +520,13 @@ translate spanish e04s08_upstairs_5f1d60a0:
 translate spanish e04s08_downstairs_f992257c:
 
     # mc "Kiss my foot prisonar 001"
-    mc "Bésame el pie prisionero 001"
+    mc "Bésame el pie prisionera 001"
 
 # game/code/e04/e04s08.rpy:243
 translate spanish e04s08_downstairs_b3abb371:
 
     # mc "Allright, prisoner. Let's go inside."
-    mc "Muy bien, prisionero. Entremos."
+    mc "Muy bien, prisionera. Entremos."
 
 # game/code/e04/e04s08.rpy:244
 translate spanish e04s08_downstairs_acd87584:
@@ -544,7 +544,7 @@ translate spanish e04s08_bad_end_7200fbab:
 translate spanish e04s08_bad_end_07a83db0:
 
     # mc "Leave.{w} You are no longer welcome here."
-    mc "Vete.{w} Ya no eres bienvenido aquí."
+    mc "Vete.{w} Ya no eres bienvenida aquí."
 
 # game/code/e04/e04s08.rpy:260
 translate spanish e04s08_bad_end_660f68d3:
@@ -566,7 +566,7 @@ translate spanish strings:
 
     # game/code/e04/e04s08.rpy:198
     old "Bring Lydia Upstairs to Her Bedroom"
-    new "Lleva a Lydia arriba a su dormitorio"
+    new "Lleva a Lydia arriba a su dormitorio."
 
     # game/code/e04/e04s08.rpy:198
     old "Bring Lydia Downstairs to Her Cage"
