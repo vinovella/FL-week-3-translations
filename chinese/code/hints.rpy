@@ -1156,47 +1156,47 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You will end up fucking Vanessa in the asshole."
-    new "You will end up fucking Vanessa in the asshole."
+    new "你最后会和瓦妮莎肛交。"
 
     # game/code/hints.rpy:5
     old "You will skip to the blowjob."
-    new "You will skip to the blowjob."
+    new "你会直接跳到口交。"
 
     # game/code/hints.rpy:5
     old "Vanessa gets you nice and hard with her lovely feet."
-    new "Vanessa gets you nice and hard with her lovely feet."
+    new "瓦妮莎用她可爱的双脚把你伺候得又爽又硬。"
 
     # game/code/hints.rpy:5
     old "Mark both redheads with your piss."
-    new "Mark both redheads with your piss."
+    new "用你的尿给两个红发妞做标记。"
 
     # game/code/hints.rpy:5
     old "Continue to threesome scene."
-    new "Continue to threesome scene."
+    new "继续3P场景"
 
     # game/code/hints.rpy:5
     old "Debbie will join you for some action later."
-    new "Debbie will join you for some action later."
+    new "黛比稍后会和你们一起行动。"
 
     # game/code/hints.rpy:5
     old "Debbie will not join you later."
-    new "Debbie will not join you later."
+    new "黛比以后不会和你们一起。"
 
     # game/code/hints.rpy:5
     old "Polly and Nora will get in on the action."
-    new "Polly and Nora will get in on the action."
+    new "波莉和诺拉也会加入进来。"
 
     # game/code/hints.rpy:5
     old "There still might be someone for Debbie in the cafe."
-    new "There still might be someone for Debbie in the cafe."
+    new "咖啡馆里可能还有人找黛比。"
 
     # game/code/hints.rpy:5
     old "Dahlia will peg you."
-    new "Dahlia will peg you."
+    new "黛丽娅会鸡奸你。"
 
     # game/code/hints.rpy:5
     old "Dahlia won't peg you."
-    new "Dahlia won't peg you."
+    new "黛丽娅不会鸡奸你。"
 
 # TODO: Translation updated at 2023-12-07 21:11
 
@@ -1204,19 +1204,19 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "Make Daisy say what she wants."
-    new "Make Daisy say what she wants."
+    new "让黛西说出她想说的话。"
 
     # game/code/hints.rpy:5
     old "Give Daisy what she wants."
-    new "Give Daisy what she wants."
+    new "给黛西她想要的东西。"
 
     # game/code/hints.rpy:5
     old "Tell your Mistress you desperately want to impregnate her."
-    new "Tell your Mistress you desperately want to impregnate her."
+    new "告诉你的女主人，你非常想让她怀孕。"
 
     # game/code/hints.rpy:5
     old "You have no will of you own. You are simply an extension of Dahlia."
-    new "You have no will of you own. You are simply an extension of Dahlia."
+    new "你没有自己的意志。你只是黛丽娅的延伸而已。"
 
 # TODO: Translation updated at 2024-02-06 16:42
 
@@ -1224,136 +1224,136 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "Keep your name as it is."
-    new "Keep your name as it is."
+    new "保持你的名字不变"
 
     # game/code/hints.rpy:5
     old "Change your name to \"Warden\"."
-    new "Change your name to \"Warden\"."
+    new "把你的名字改成\"典狱长\"。"
 
     # game/code/hints.rpy:5
     old "Enter your own name."
-    new "Enter your own name."
+    new "输入你自己的名字"
 
     # game/code/hints.rpy:5
     old "Order Lydia to get started sucking cock."
-    new "Order Lydia to get started sucking cock."
+    new "命令莉迪亚开始含肉棒。"
 
     # game/code/hints.rpy:5
     old "Take Lydia home without making her work at the gloryhole."
-    new "Take Lydia home without making her work at the gloryhole."
+    new "把莉迪亚带回家，不让她在光荣之洞工作。"
 
     # game/code/hints.rpy:5
     old "And they lived happily ever after."
-    new "And they lived happily ever after."
+    new "他们从此幸福地生活在一起。"
 
     # game/code/hints.rpy:5
     old "Even a favorite toy is only happy when someone plays with it."
-    new "Even a favorite toy is only happy when someone plays with it."
+    new "即使是你最喜欢的玩具，也要被人玩的时候才会开心。"
 
     # game/code/hints.rpy:5
     old "Annihilate the last threads of Lydia's existence."
-    new "Annihilate the last threads of Lydia's existence."
+    new "消灭莉迪亚活力的最后一线希望。"
 
     # game/code/hints.rpy:5
     old "Might affect dialogue and nicknames for this ending."
-    new "Might affect dialogue and nicknames for this ending."
+    new "可能会影响此结局的对话和昵称。"
 
     # game/code/hints.rpy:5
     old "Uses default dialogue and nicknames for this ending."
-    new "Uses default dialogue and nicknames for this ending."
+    new "使用此结局的默认对话和昵称。"
 
     # game/code/hints.rpy:5
     old "Might impact dialogue and nicknames for this ending."
-    new "Might impact dialogue and nicknames for this ending."
+    new "可能会对此结局的对话和昵称产生影响。"
 
     # game/code/hints.rpy:5
     old "Surrender and get kicked out of Lydia's home."
-    new "Surrender and get kicked out of Lydia's home."
+    new "投降，然后被赶出莉迪亚的家。"
 
     # game/code/hints.rpy:5
     old "Drink your full and continue Lydia's contest."
-    new "Drink your full and continue Lydia's contest."
+    new "喝个够，继续参加莉迪亚的比赛。"
 
     # game/code/hints.rpy:5
     old "This is some scary shit."
-    new "This is some scary shit."
+    new "真他妈可怕。"
 
     # game/code/hints.rpy:5
     old "Whatever Lydia wants, I'll give it to her."
-    new "Whatever Lydia wants, I'll give it to her."
+    new "莉迪亚要什么，我就给她什么。"
 
     # game/code/hints.rpy:5
     old "Slow and steady loses the race this time."
-    new "Slow and steady loses the race this time."
+    new "慢而稳，才是王道。"
 
     # game/code/hints.rpy:5
     old "Give 110 percent and win the match."
-    new "Give 110 percent and win the match."
+    new "全力以赴，赢得比赛。"
 
     # game/code/hints.rpy:5
     old "Stick your finger in Pete's ass and win the gloryhole challenge."
-    new "Stick your finger in Pete's ass and win the gloryhole challenge."
+    new "把你的手指插进皮特的屁眼，赢得光荣之洞的挑战赛。"
 
     # game/code/hints.rpy:5
     old "Do your best, but eventually lose the gloryhole challenge."
-    new "Do your best, but eventually lose the gloryhole challenge."
+    new "竭尽全力，但最终输掉光荣之洞挑战赛。"
 
     # game/code/hints.rpy:5
     old "Watch Pete creampie Lydia and AmRose, then get vasectomized by Jerome."
-    new "Watch Pete creampie Lydia and AmRose, then get vasectomized by Jerome."
+    new "看着皮特内射莉迪亚和爱洛丝，然后被杰罗姆结扎。"
 
     # game/code/hints.rpy:5
     old "Refuse to see this ending to its proper conclusion"
-    new "Refuse to see this ending to its proper conclusion"
+    new "拒绝让这一切圆满结束。"
 
     # game/code/hints.rpy:5
     old "Slurp out Pete's cum from inside Am-Rose' pussy."
-    new "Slurp out Pete's cum from inside Am-Rose' pussy."
+    new "把皮特的精液从爱洛丝的小穴里吸出来。"
 
     # game/code/hints.rpy:5
     old "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
-    new "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
+    new "拒绝从爱洛丝的小穴里吸出皮特的精液。"
 
     # game/code/hints.rpy:5
     old "Be prepared for the challenge, and improve your chances of winning."
-    new "Be prepared for the challenge, and improve your chances of winning."
+    new "准备好迎接挑战，提高胜算。"
 
     # game/code/hints.rpy:5
     old "Maybe she'll choose someone else, take the risk of not being ready."
-    new "Maybe she'll choose someone else, take the risk of not being ready."
+    new "也许她会选择别人，冒着还没准备好的风险。"
 
     # game/code/hints.rpy:5
     old "What could be waiting for you?"
-    new "What could be waiting for you?"
+    new "等待你的会是什么？"
 
     # game/code/hints.rpy:5
     old "What's she got planned next?"
-    new "What's she got planned next?"
+    new "她下一步有什么计划？"
 
     # game/code/hints.rpy:5
     old "What's in store for you now?"
-    new "What's in store for you now?"
+    new "你现在有什么打算？"
 
     # game/code/hints.rpy:5
     old "Lose option for Polly & Nora Threesome ending."
-    new "Lose option for Polly & Nora Threesome ending."
+    new "失去与波莉和诺拉三人行结局的选项"
 
     # game/code/hints.rpy:5
     old "Increases chance of Polly & Nora Threesome ending."
-    new "Increases chance of Polly & Nora Threesome ending."
+    new "增加与波莉和诺拉三人行结局的几率"
 
     # game/code/hints.rpy:5
     old "This option skips the blowjob scene. Scene goes to indoors."
-    new "This option skips the blowjob scene. Scene goes to indoors."
+    new "此选项将跳过口交场景。场景转到室内。"
 
     # game/code/hints.rpy:5
     old "Disobey Lydia and lose the challenge."
-    new "Disobey Lydia and lose the challenge."
+    new "不听从莉迪亚的话，输掉挑战。"
 
     # game/code/hints.rpy:5
     old "Prove your devotion to Lydia and win the challenge."
-    new "Prove your devotion to Lydia and win the challenge."
+    new "证明你对莉迪亚的忠诚，赢得挑战。"
 
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
-    new "Disappoint Lydia and be the loser."
+    new "让莉迪亚失望，成为失败者。"
