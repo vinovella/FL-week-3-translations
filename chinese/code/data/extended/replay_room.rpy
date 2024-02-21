@@ -312,15 +312,15 @@ translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:123
     old "Ending 12: Allison"
-    new "Ending 12: Allison"
+    new "结局12：艾利森"
 
     # game/code/data/extended/replay_room.rpy:123
     old "Ending 12: Vanessa"
-    new "Ending 12: Vanessa"
+    new "结局12：瓦妮莎"
 
     # game/code/data/extended/replay_room.rpy:138
     old "Ending 14: Polly, Nora & Debbie"
-    new "Ending 14: Polly, Nora & Debbie"
+    new "结局14：波莉、诺拉和黛比"
 
 # TODO: Translation updated at 2023-12-07 21:11
 
@@ -328,19 +328,19 @@ translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:120
     old "Ending 11: Daisy & Janet"
-    new "Ending 11: Daisy & Janet"
+    new "结局11：黛西和珍妮特"
 
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Dahlia & Room Service"
-    new "Ending 17: Dahlia & Room Service"
+    new "结局17：黛丽娅和客房服务"
 
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Dahlia & Domina"
-    new "Ending 17: Dahlia & Domina"
+    new "结局17：黛丽娅和主母"
 
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Pregnant Dahlia"
-    new "Ending 17: Pregnant Dahlia"
+    new "结局17：怀孕的黛丽娅"
 
 # TODO: Translation updated at 2024-02-08 02:40
 
@@ -348,49 +348,49 @@ translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia"
-    new "Ending 04: Lydia"
+    new "结局04：莉迪亚"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia, Stacy & AmRose"
-    new "Ending 04: Lydia, Stacy & AmRose"
+    new "结局04：莉迪亚、史黛西和爱洛丝"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Daisy, Lydia, Stacy & AmRose"
-    new "Ending 04: Daisy, Lydia, Stacy & AmRose"
+    new "结局04：黛西、莉迪亚、史黛西和爱洛丝 "
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lyssa & Lydia"
-    new "Ending 04: Lyssa & Lydia"
+    new "结局04：丽莎和莉迪亚"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia & Maria"
-    new "Ending 04: Lydia & Maria"
+    new "结局04：莉迪亚和玛丽亚"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Harem"
-    new "Ending 04: Harem"
+    new "结局04：后宫"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: AmRose"
-    new "Ending 07: AmRose"
+    new "结局07：爱洛丝"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia"
-    new "Ending 07: Lydia"
+    new "结局07：莉迪亚"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia & Domina"
-    new "Ending 07: Lydia & Domina"
+    new "结局07：莉迪亚和主母"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia Gangbang"
-    new "Ending 07: Lydia Gangbang"
+    new "结局07：莉迪亚轮奸"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Public Toilet"
-    new "Ending 07: Public Toilet"
+    new "结局07：公共厕所 "
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia & AmRose"
-    new "Ending 07: Lydia & AmRose"
+    new "结局07：莉迪亚和爱洛丝"
 
