@@ -351,16 +351,16 @@ translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:712
     old "ORNY"
-    new "ORNY"
+    new "饥渴"
 
     # game/code/data/extended/extra_gallery.rpy:713
     old "H"
-    new "H"
+    new "Ji"
 
     # game/code/data/extended/extra_gallery.rpy:714
     old "UNGRY"
-    new "UNGRY"
+    new "饥饿"
 
     # game/code/data/extended/extra_gallery.rpy:715
     old "APPY"
-    new "APPY"
+    new "积极愉快"
