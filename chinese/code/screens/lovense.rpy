@@ -22,13 +22,13 @@ translate chinese lovense_test_fa719a86:
 translate chinese lovense_test_d7e7b816:
 
     # "Pump Test LOW"
-    "低抽水试验"
+    "抽吸测试：低级"
 
 # game/code/screens/lovense.rpy:151
 translate chinese lovense_test_14a8f7e0:
 
     # "Pump Test MAX"
-    "最大抽水试验"
+    "抽吸测试：最高级"
 
 # game/code/screens/lovense.rpy:153
 translate chinese lovense_test_30b42ad1:
@@ -52,7 +52,7 @@ translate chinese strings:
 
     # game/code/screens/lovense.rpy:19
     old "Please make sure both FL and Lovense Remote app are on the same LAN."
-    new "请确保FL应用和Lovense Remote都在同一个局域网中。"
+    new "请确保FL应用和Lovense Remote（爱感遥控）都在同一个局域网中。"
 
     # game/code/screens/lovense.rpy:20
     old "Follow the steps to enable Game Mode in Lovense Remote app and connect your toy to FL."
@@ -112,7 +112,7 @@ translate chinese strings:
 
     # game/code/screens/lovense.rpy:74
     old "Get any Lovense toy with our exclusive 55% discount and sync it with Fetish Locator!"
-    new "用我们独家55%的折扣购买您心仪的Lovense玩具，并与性趣探测器同步！"
+    new "用我们独家55%的折扣购买您心仪的Lovense爱感玩具，并与性趣探测器同步！"
 
     # game/code/screens/lovense.rpy:75
     old "Limited time offer!"
@@ -132,9 +132,9 @@ translate chinese strings:
 
     # game/code/screens/lovense.rpy:74
     old "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
-    new "Get a Lovense toy and enjoy the best way to experience Fetish Locator!"
+    new "购买Lovense爱感玩具，获得享受性趣探测器的最佳体验！"
 
     # game/code/screens/lovense.rpy:80
     old "Get a toy now"
-    new "Get a toy now"
+    new "立即获取玩具"
 
