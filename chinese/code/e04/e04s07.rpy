@@ -1606,7 +1606,7 @@ translate chinese e04s07_ah_tr_25c8ad13:
 translate chinese e04s07_ah_tr_090f4b5c:
 
     # mc "Hahah. Of course."
-    mc "Hahah. Of course."
+    mc "哈哈哈。当然。"
 
 # game/code/e04/e04s07.rpy:759
 translate chinese e04s07_ah_tr_2a907e2d:
