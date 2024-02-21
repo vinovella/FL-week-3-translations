@@ -1081,11 +1081,11 @@ translate chinese d19s01ntr_decision_e1a0041c:
 translate chinese d19s01ntr_decision_aeef075e:
 
     # lc "Easy words."
-    lc "Easy words."
+    lc "话说得容易。"
 
 # game/code/d19/d19s01ntr.rpy:427
 translate chinese d19s01ntr_decision_5b1e303f:
 
     # lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
-    lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
+    lc "等我重新把你...我一定会测试你的忠诚度，我们就叫它小惊喜吧。"
 
