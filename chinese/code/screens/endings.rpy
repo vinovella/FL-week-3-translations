@@ -40,5 +40,5 @@ translate chinese strings:
 
     # game/code/screens/endings.rpy:66
     old "Download free DLC containing this ending"
-    new "Download free DLC containing this ending"
+    new "下载包含此结局的免费DLC。"
 
