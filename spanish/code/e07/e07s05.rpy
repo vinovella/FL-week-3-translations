@@ -1508,7 +1508,7 @@ translate spanish strings:
 
     # game/code/e07/e07s05.rpy:334
     old "Door Number Two"
-    new "Puerta numero dos"
+    new "Puerta número dos"
 
     # game/code/e07/e07s05.rpy:334
     old "Door Number Three"
