@@ -628,7 +628,7 @@ translate spanish e07s06_a1b78986:
 translate spanish e07s06_260cb582:
 
     # lc "Alright. Dicks up!"
-    lc "All Right. ¡Pollas arriba!"
+    lc "Está bien. ¡Pollas arriba!"
 
 # game/code/e07/e07s06.rpy:334
 translate spanish e07s06_2b35b6fe:
