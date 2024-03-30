@@ -287,7 +287,7 @@ translate malay e04s08_f8f47060:
 translate malay e04s08_a1498851:
 
     # jdg "Hmm. Looks like she is occupied at the moment."
-    jdg "Hmm. Nampaknya dia tengah sibuk sekarang.
+    jdg "Hmm. Nampaknya dia tengah sibuk sekarang."
 
 # game/code/e04/e04s08.rpy:127
 translate malay e04s08_ae498221:

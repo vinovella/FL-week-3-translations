@@ -1307,7 +1307,7 @@ translate malay e04s03_end_0008acab:
 
     # arj "A little. I mean, what might have happened if we didn't figure things out."
     arj "Sedikit. Maksud aku, apa yang mungkin berlaku kalau kita tak berjaya."
-	
+
 # game/code/e04/e04s03.rpy:737
 translate malay e04s03_end_a3c3bafb:
 

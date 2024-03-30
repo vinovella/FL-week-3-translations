@@ -677,7 +677,7 @@ translate malay e02s09_home_again_78b19a05:
 
     # mh "Yes..."
     mh "Ya..."
-	
+
 # game/code/e02/e02s09.rpy:347
 translate malay e02s09_home_again_de8201b5:
 

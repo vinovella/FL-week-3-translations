@@ -1576,7 +1576,7 @@ translate malay e04s07_ah_tr_1b218bd9:
 translate malay e04s07_ah_tr_48e286d3:
 
     # ah "Please mark meuahaah. Oh fuck-huouh-hrah."
-    ah “Tolong tandakan akuahaah. Oh sial-huouh-hrah."
+    ah "Tolong tandakan akuahaah. Oh sial-huouh-hrah."
 
 # game/code/e04/e04s07.rpy:745
 translate malay e04s07_ah_tr_504baadf:

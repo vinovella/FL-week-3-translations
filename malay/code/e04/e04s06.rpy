@@ -1683,4 +1683,3 @@ translate malay strings:
     # game/code/e04/e04s06.rpy:643
     old "No need. I proved my point."
     new "Tak perlu. Aku dah buktikan maksud aku."
-	

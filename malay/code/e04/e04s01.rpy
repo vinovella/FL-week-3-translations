@@ -11,7 +11,7 @@ translate malay e04s01_48b9894c:
 
     # mct "I've fantasized about it long enough. I should be an expert by now."
     mct "Aku dah cukup lama membayangkannya. Aku sepatutnya jadi pakar sekarang."
-	
+
 # game/code/e04/e04s01.rpy:48
 translate malay e04s01_ebb5aada:
 
@@ -53,13 +53,13 @@ translate malay e04s01_64f0f295:
 
     # "Prison Guard" "You sign for the package, then it's your problem."
     "Pengawal Penjara" "Awak menandatangani pakej itu, maka itu masalah awak."
-	
+
 # game/code/e04/e04s01.rpy:67
 translate malay e04s01_b0593d6a:
 
     # mc "Okay, okay. I'm signing."
     mc "Okay, okay. Saya tandatangan."
-	
+
 # game/code/e04/e04s01.rpy:68
 translate malay e04s01_964e6426:
 
@@ -149,7 +149,7 @@ translate malay e04s01_d4888bdf:
 
     # "Prison Guard" "Ha! See what I mean? She's already trying to play you."
     "Pengawal Penjara" "Ha! Tengok apa yang saya maksudkan? Dia pun dah cuba mempermainkan awak."
-	
+
 # game/code/e04/e04s01.rpy:107
 translate malay e04s01_24e18d05:
 

@@ -173,7 +173,7 @@ translate malay e02s10_577a222a:
 
     # mh "Since I cannot help out people in the courtroom until the lawsuit is ended or tossed out, the opportunity to assist people will be a welcome distraction."
     mh "Memandangkan aku tak dapat tolong orang di dalam bilik mahkamah sehingga tuntutan mahkamah ditamatkan atau dibuang, peluang untuk tolong orang ramai akan menjadi gangguan yang dialu-alukan."
-	
+
 # game/code/e02/e02s10.rpy:135
 translate malay e02s10_e06c012e:
 
@@ -203,7 +203,7 @@ translate malay e02s10_4f3a890f:
 
     # mh "I hope you got a full rest last night..."
     mh "aku harap kau dapat berehat sepenuhnya malam tadi..."
-	
+
 # game/code/e02/e02s10.rpy:158
 translate malay e02s10_4661a639:
 

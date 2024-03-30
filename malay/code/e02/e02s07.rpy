@@ -119,7 +119,7 @@ translate malay e02s07_4065460d:
 
     # ms "Dorothy, you know you can sit down, right?"
     ms "Dorothy, kau tahu kau boleh duduk, kan?"
-	
+
 # game/code/e02/e02s07.rpy:125
 translate malay e02s07_64a6dcd6:
 
@@ -557,7 +557,7 @@ translate malay e02s07_next_day_bad8c937:
 
     # dn "Does it work?"
     dn "Adakah ia berfungsi?"
-	
+
 # game/code/e02/e02s07.rpy:362
 translate malay e02s07_next_day_55a1cadd:
 

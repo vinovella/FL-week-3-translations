@@ -401,7 +401,7 @@ translate malay e04s04_later_1a65f03a:
 
     # mc "That's true. I'll show you. It'll also help explain why I need you, Daisy."
     mc "Itu betul. Aku akan tunjukkan kepada kau. Ia juga akan tolong jelaskan kenapaaku perlukan kau, Daisy."
-	
+
 # game/code/e04/e04s04.rpy:229
 translate malay e04s04_later_fa297984:
 
@@ -617,7 +617,7 @@ translate malay e04s04_later_2d1399b1:
 
     # mc "With enough time, yes. The right pressure, absolutely."
     mc "Dengan masa yang mencukupi, ya. Tekanan yang betul, pasti."
-	
+
 # game/code/e04/e04s04.rpy:349
 translate malay e04s04_later_7a773d66:
 
@@ -941,7 +941,7 @@ translate malay e04s04_later_14d651c8:
 
     # sy "You know, if you stopped being such a bitch, that could be you."
     sy "Kau tahu, jika kau berhenti jadi jalang, kau boleh sertai mereka."
-	
+
 # game/code/e04/e04s04.rpy:519
 translate malay e04s04_later_e7be67db:
 
@@ -959,7 +959,7 @@ translate malay e04s04_later_9864eff8:
 
     # lc "Yes... Guard."
     lc "Ya... Pengawal."
-	
+
 # game/code/e04/e04s04.rpy:528
 translate malay e04s04_later_c407e1ef:
 
