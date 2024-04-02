@@ -1000,7 +1000,7 @@ translate malay e02s08_sex_ef1c62c5:
 translate malay e02s08_sex_3fc444b4:
 
     # mh "I'm {i}very{/i} hard right now."
-    mh "Aku {a}sangat{/i} keras sekarang."
+    mh "Aku {i}sangat{/i} keras sekarang."
 
 # game/code/e02/e02s08.rpy:574
 translate malay e02s08_sex_d6785f8b:
