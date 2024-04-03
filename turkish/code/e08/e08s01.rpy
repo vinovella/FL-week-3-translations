@@ -1276,7 +1276,7 @@ translate turkish strings:
 
     # game/code/e08/e08s01.rpy:49
     old "Ending #8\nMy Happy Ginger Family"
-    new "8. Bitiş\NMutlu Zencefil Ailem"
+    new "8. Bitiş\nMutlu Zencefil Ailem"
 
     # game/code/e08/e08s01.rpy:54
     old "One year later"

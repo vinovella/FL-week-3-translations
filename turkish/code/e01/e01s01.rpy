@@ -1666,7 +1666,7 @@ translate turkish strings:
 
     # game/code/e01/e01s01.rpy:175
     old "Ending #1\nS&M Studio"
-    new "1.bölüm bitti\NS&M Stüdyosu"
+    new "1.bölüm bitti\nS&M Stüdyosu"
 
     # game/code/e01/e01s01.rpy:1807
     old "Let's do it all over again"

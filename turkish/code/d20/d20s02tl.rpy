@@ -2182,7 +2182,7 @@ translate turkish strings:
 
     # game/code/d20/d20s02tl.rpy:82
     old "Some time later\nAt Theresa's office"
-    new "Bir süre sonra\NTheresa'nın ofisinde"
+    new "Bir süre sonra\nTheresa'nın ofisinde"
 
     # game/code/d20/d20s02tl.rpy:195
     old "Tell Her to Suck Your Cock"

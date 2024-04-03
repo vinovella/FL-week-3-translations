@@ -2764,7 +2764,7 @@ translate turkish strings:
 
     # game/code/d21/d21s06.rpy:10
     old "One hour later\nOutside Stacy's place"
-    new "Bir saat sonra\NStacy'nin evinin dışında"
+    new "Bir saat sonra\nStacy'nin evinin dışında"
 
     # game/code/d21/d21s06.rpy:570
     old "Yes, I want to try to reboot Fetish Locator"

@@ -428,7 +428,7 @@ translate turkish strings:
 
     # game/code/e06/e06s01.rpy:77
     old "Ending #6\nQueen's Harem"
-    new "Bitiş #6\NKraliçe'nin Haremi"
+    new "Bitiş #6\nKraliçe'nin Haremi"
 
     # game/code/e06/e06s01.rpy:82
     old "Later That Day"

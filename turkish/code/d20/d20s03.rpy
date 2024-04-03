@@ -1282,7 +1282,7 @@ translate turkish strings:
 
     # game/code/d20/d20s03.rpy:46
     old "Some time later\nAt the auditorium"
-    new "Bir süre sonra\Noditoryumda"
+    new "Bir süre sonra\noditoryumda"
 
     # game/code/d20/d20s03.rpy:395
     old "Let's do it!"

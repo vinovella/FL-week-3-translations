@@ -304,5 +304,5 @@ translate turkish strings:
 
     # game/code/d18/d18s02.rpy:22
     old "1 hour later\nAt Stacy's house"
-    new "1 saat sonra\NStacy'nin evinde"
+    new "1 saat sonra\nStacy'nin evinde"
 

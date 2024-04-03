@@ -1342,7 +1342,7 @@ translate turkish strings:
 
     # game/code/d20/d20s05.rpy:172
     old "Some time later\nAt Min's house"
-    new "Bir süre sonra\NMin'in evinde"
+    new "Bir süre sonra\nMin'in evinde"
 
     # game/code/d20/d20s05.rpy:694
     old "Leave Town With Min"

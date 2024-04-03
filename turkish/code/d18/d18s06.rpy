@@ -580,4 +580,4 @@ translate turkish strings:
 
     # game/code/d18/d18s06.rpy:6
     old "Some time later\nAt the college campus"
-    new "Bir süre sonra\Nüniversite kampüsünde"
+    new "Bir süre sonra\nüniversite kampüsünde"

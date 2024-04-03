@@ -1162,9 +1162,9 @@ translate turkish strings:
 
     # game/code/e10/e10s01.rpy:69
     old "Ending #10\nRunaway"
-    new "Bitiş # 10\NKaçmak"
+    new "Bitiş # 10\nKaçmak"
 
     # game/code/e10/e10s01.rpy:74
     old "Some time later\nIn Seoul with Min"
-    new "Bir süre sonra\NMin ile Seul'de"
+    new "Bir süre sonra\nMin ile Seul'de"
 

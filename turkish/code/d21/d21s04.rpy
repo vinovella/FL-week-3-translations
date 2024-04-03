@@ -808,7 +808,7 @@ translate turkish strings:
 
     # game/code/d21/d21s04.rpy:19
     old "1 hour later\nAt Lyssa's Office"
-    new "1 saat sonra\NLyssa'nın Ofisinde"
+    new "1 saat sonra\nLyssa'nın Ofisinde"
 
     # game/code/d21/d21s04.rpy:94
     old "Yes, I still love Lydia"

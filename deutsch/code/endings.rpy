@@ -76,7 +76,7 @@ translate deutsch strings:
 
     # game/code/endings.rpy:199
     old "Ending #17\nNot Guilty"
-    new "Ende #17\Nicht Schuldig"
+    new "Ende #17\nNicht Schuldig"
 
     # game/code/endings.rpy:216
     old "Ending #18\nQuartet"

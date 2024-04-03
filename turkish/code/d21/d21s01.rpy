@@ -1324,7 +1324,7 @@ translate turkish strings:
 
     # game/code/d21/d21s01.rpy:22
     old "Sunday\nDay-21"
-    new "Pazar\N21. Gün"
+    new "Pazar\n21. Gün"
 
     # game/code/d21/d21s01.rpy:446
     old "Suck my cock."

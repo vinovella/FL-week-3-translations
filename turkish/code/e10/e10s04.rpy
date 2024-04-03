@@ -388,5 +388,5 @@ translate turkish strings:
 
     # game/code/e10/e10s04.rpy:6
     old "Weeks later\nAt the end of Summer"
-    new "Haftalar sonra\NYaz sonunda"
+    new "Haftalar sonra\nYaz sonunda"
 

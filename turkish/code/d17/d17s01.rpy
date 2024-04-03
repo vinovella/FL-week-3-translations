@@ -1726,7 +1726,7 @@ translate turkish strings:
 
     # game/code/d17/d17s01.rpy:40
     old "Wednesday\nDay-17"
-    new "Çarşamba\N17. Gün"
+    new "Çarşamba\n17. Gün"
 
     # game/code/d17/d17s01.rpy:482
     old "Fuck AmRose's Ass"

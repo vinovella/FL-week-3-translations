@@ -928,7 +928,7 @@ translate turkish strings:
 
     # game/code/d20/d20s02rn.rpy:33
     old "Some time later\nOutside Nordin's office"
-    new "Bir süre sonra\NNordin'in ofisinin dışında"
+    new "Bir süre sonra\nNordin'in ofisinin dışında"
 
     # game/code/d20/d20s02rn.rpy:355
     old "Interrupt them"

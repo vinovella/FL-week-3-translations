@@ -562,7 +562,7 @@ translate turkish strings:
 
     # game/code/d20/d20s01.rpy:10
     old "Saturday\nDay-20"
-    new "Cumartesi\N20. Gün"
+    new "Cumartesi\n20. Gün"
 
     # game/code/d20/d20s01.rpy:192
     old "Do you want Stacy to pee on you?"

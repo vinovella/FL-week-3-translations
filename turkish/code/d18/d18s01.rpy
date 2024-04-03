@@ -1312,5 +1312,5 @@ translate turkish strings:
 
     # game/code/d18/d18s01.rpy:15
     old "Thursday\nDay-18"
-    new "Perşembe\N18. Gün"
+    new "Perşembe\n18. Gün"
 

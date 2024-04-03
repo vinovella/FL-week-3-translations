@@ -772,7 +772,7 @@ translate turkish strings:
 
     # game/code/d19/d19s02.rpy:7
     old "30 minutes later\nAt Stacy's apartment"
-    new "30 dakika sonra\NStacy'nin dairesinde"
+    new "30 dakika sonra\nStacy'nin dairesinde"
 
     # game/code/d19/d19s02.rpy:505
     old "Go to her"

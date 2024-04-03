@@ -760,7 +760,7 @@ translate turkish strings:
 
     # game/code/d19/d19s01lc.rpy:4
     old "Friday\nDay-19"
-    new "Cuma\N19. Gün"
+    new "Cuma\n19. Gün"
 
     # game/code/d19/d19s01lc.rpy:292
     old "Kiss Her"
