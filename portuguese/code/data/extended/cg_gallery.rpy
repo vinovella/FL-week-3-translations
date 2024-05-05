@@ -173,3 +173,19 @@ translate portuguese strings:
     # game/code/data/extended/cg_gallery.rpy:85
     old "Ending 07: Girls"
     new "Final 07: Garotas"
+# TODO: Translation updated at 2024-05-05 22:03
+
+translate portuguese strings:
+
+    # game/code/data/extended/cg_gallery.rpy:79
+    old "Ending 05: Lyssa & Oliver"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:120
+    old "Ending 16: Jessie & Kaniya"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:120
+    old "Ending 16: Farm Animals"
+    new ""
+

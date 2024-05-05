@@ -234,3 +234,19 @@ translate spanish strings:
     old "Ending 07: Girls"
     new "Final 07: Chicas"
 
+# TODO: Translation updated at 2024-05-05 22:02
+
+translate spanish strings:
+
+    # game/code/data/extended/cg_gallery.rpy:79
+    old "Ending 05: Lyssa & Oliver"
+    new "Ending 05: Lyssa & Oliver"
+
+    # game/code/data/extended/cg_gallery.rpy:120
+    old "Ending 16: Jessie & Kaniya"
+    new "Ending 16: Jessie & Kaniya"
+
+    # game/code/data/extended/cg_gallery.rpy:120
+    old "Ending 16: Farm Animals"
+    new "Ending 16: Farm Animals"
+

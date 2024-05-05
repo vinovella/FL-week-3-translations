@@ -376,3 +376,17 @@ translate portuguese strings:
     old "Fuck Her Anally"
     new "Anal"
 
+# TODO: Translation updated at 2024-05-05 22:03
+
+# game/code/e13/e13s02.rpy:86
+translate portuguese e13s02_e5e5853b:
+
+    # "Customer" "Aww, but..."
+    "Customer" ""
+
+# game/code/e13/e13s02.rpy:200
+translate portuguese replay_e13s02_e2a7aa61:
+
+    # nk "Actually... You know what? Sit down."
+    nk ""
+

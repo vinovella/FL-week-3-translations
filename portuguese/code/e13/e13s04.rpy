@@ -236,3 +236,17 @@ translate portuguese strings:
     old "You have finished playing ending number 13!"
     new "Você concluiu o final número 13!"
 
+# TODO: Translation updated at 2024-05-05 22:03
+
+# game/code/e13/e13s04.rpy:179
+translate portuguese replay_e13s04_4ae8355d:
+
+    # nk "God... That was amazing..."
+    nk ""
+
+# game/code/e13/e13s04.rpy:214
+translate portuguese replay_e13s04_c133408e:
+
+    # nk "*Loud moans* Yes, fuck... Yes! I love you, [mcname]."
+    nk ""
+

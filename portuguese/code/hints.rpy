@@ -1357,3 +1357,31 @@ translate portuguese strings:
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
     new "Decepcionar Lydia e ser o perdedor."
+# TODO: Translation updated at 2024-05-05 22:03
+
+translate portuguese strings:
+
+    # game/code/hints.rpy:5
+    old "You take Oliver's anal virginity."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Lyssa takes Oliver's anal virginity."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Oliver will felch out his own cum."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Oliver will lick up his own cum."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "You eat the cum off Oliver's face."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "You don't eat the cum off Oliver's face."
+    new ""
+

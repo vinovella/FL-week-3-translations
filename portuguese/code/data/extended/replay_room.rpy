@@ -454,3 +454,31 @@ translate portuguese strings:
     old "Ending 07: Lydia & AmRose"
     new "Final 07: Lydia & AmRose"
 
+# TODO: Translation updated at 2024-05-05 22:03
+
+translate portuguese strings:
+
+    # game/code/data/extended/replay_room.rpy:103
+    old "Ending 05: Oliver"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:103
+    old "Ending 05: Lyssa"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:178
+    old "Ending 16: Jessie and Molly"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:178
+    old "Ending 16: Jessie and Kanya"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:178
+    old "Ending 16: Sage and Kristen"
+    new ""
+
+    # game/code/data/extended/replay_room.rpy:178
+    old "Ending 16: Jessie, Molly, Sage & Kristen"
+    new ""
+
