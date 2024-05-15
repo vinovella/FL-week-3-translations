@@ -127,3 +127,42 @@ translate korean strings:
 
     old "Ezra"
     new "Ezra"
+
+    old "Debbie"
+    new "Debbie"
+
+    old "Gemma"
+    new "Gemma"
+
+    old "Harry"
+    new "Harry"
+
+    old "Lily"
+    new "Lily"
+
+    old "Room Service"
+    new "Room Service"
+
+    old "Domina"
+    new "Domina"
+
+    old "Janet"
+    new "Janet"
+
+    old "Gary"
+    new "Gary"
+
+    old "Molly the Dog"
+    new "Molly the Dog"
+
+    old "Ryan"
+    new "Ryan"
+
+    old "Taisia"
+    new "Taisia"
+
+    old "Sage"
+    new "Sage"
+
+    old "Kristen"
+    new "Kristen"
