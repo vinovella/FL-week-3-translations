@@ -96,7 +96,7 @@ translate spanish strings:
     new "Alexander"
 
     old "Angela"
-    new "Angela"
+    new "Ángela"
 
     old "Dorothy"
     new "Dorothy"
@@ -141,7 +141,7 @@ translate spanish strings:
     new "Lily"
 
     old "Room Service"
-    new "Room Service"
+    new "Servicio de habitaciones"
 
     old "Domina"
     new "Domina"
@@ -153,7 +153,7 @@ translate spanish strings:
     new "Gary"
 
     old "Molly the Dog"
-    new "Molly the Dog"
+    new "Molly la perra"
 
     old "Ryan"
     new "Ryan"
