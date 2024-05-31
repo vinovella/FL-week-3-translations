@@ -141,7 +141,7 @@ translate portuguese strings:
     new "Lily"
 
     old "Room Service"
-    new "Room Service"
+    new "Serviço de Quarto"
 
     old "Domina"
     new "Domina"
@@ -153,7 +153,7 @@ translate portuguese strings:
     new "Gary"
 
     old "Molly the Dog"
-    new "Molly the Dog"
+    new "Cachorra Molly"
 
     old "Ryan"
     new "Ryan"
