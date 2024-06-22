@@ -1328,7 +1328,7 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:467
     old "debug voicing disable"
-    new "debug voicing disable"
+    new "Debug voicing disable"
 
     # renpy/common/00preferences.rpy:587
     old "restore window position"
