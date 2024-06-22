@@ -1332,11 +1332,11 @@ translate chinese strings:
 
     # renpy/common/00preferences.rpy:587
     old "restore window position"
-    new "restore window position"
+    new "Restore Window Position"
 
     # renpy/common/00preferences.rpy:596
     old "reset"
-    new "reset"
+    new "Reset"
 
     # renpy/common/00speechbubble.rpy:408
     old "(clear retained bubbles)"
