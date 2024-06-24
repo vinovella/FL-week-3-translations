@@ -7,8 +7,7 @@
 - - [Quotations](#quotations)
 - [How to work with GitHub](#how-to-work-with-github)
 - [How translations were done before me?](#how-translations-were-done-before-me)
-- [What to translate](#what-to-translate)
-- [Character names](#character-names)
+- [Need help?](#need-help)
 
 # Hey! I'm glad you here!
 
@@ -58,7 +57,7 @@ Those are used to be replaced with something. In most cases that is character na
 Those are quotes that need to be escaped to work properly. Be very careful with those. The wrong quote can break the whole game.  
 You can read more about RenPy syntax here:  
 [https://www.renpy.org/dev-doc/html/translations.html](https://www.renpy.org/dev-doc/html/translations.html)  
-If there is something not clear reach out on our [Discord](https://discord.gg/efmQRNtFks) on the #translations channel (ask if you need access). 
+If there is something not clear reach out on our [Discord](https://discord.gg/efmQRNtFks) on the **#translations** channel.
 
 # How to work with GitHub
 
@@ -67,8 +66,15 @@ If there is something not clear reach out on our [Discord](https://discord.gg/ef
 First of all, you would need to create an account on Github (if you don't have one) or you can create a fake one just in case you don't want to use your professional one. Go here and create it: [https://github.com/](https://github.com/)  
 Once you have an account you can open on the repositories that we have for translations:
 
-**Translations for week-1** - url: [https://github.com/vinovella/FL-week-1-translations](https://github.com/vinovella/FL-week-1-translations)  
-**Translations for week-2** - url: [https://github.com/vinovella/FL-week-2-translations](https://github.com/vinovella/FL-week-1-translations)
+**Translations for FL Week-1** - [https://github.com/vinovella/FL-week-1-translations](https://github.com/vinovella/FL-week-1-translations)
+
+**Translations for FL Week-2** - [https://github.com/vinovella/FL-week-2-translations](https://github.com/vinovella/FL-week-1-translations)
+
+**Translations for FL Week-3** - [https://github.com/vinovella/FL-week-3-translations](https://github.com/vinovella/FL-week-3-translations)
+
+**Translations for TU Book-1** - [https://github.com/vinovella/VU-book-1-translations](https://github.com/vinovella/VU-book-1-translations)
+
+**Translations for FL S&M Studio** - [https://github.com/vinovella/FL-SM-1-translations](https://github.com/vinovella/FL-SM-1-translations)
 
 You should see this:
 
@@ -84,6 +90,10 @@ To start editing the file:
 
 ![image09](./media/image09.png)
 
+If you are doing it for the first time, you will see this. Click the "Fork this repository" button:
+
+![image25](./media/image25.png)
+
 You will see the texteditor:
 
 ![image23](./media/image23.png)
@@ -92,15 +102,19 @@ You make changes:
 
 ![image07](./media/image07.png)
 
-To save (propose) your changes:
+To save (commit) your changes click the "Commit changes..." button:
 
 ![image15](./media/image15.png)
+
+Then you need to click the "Propose changes" button. You can change the Commit message and add description if you like:
+
+![image26](./media/image26.png)
 
 You will see the screen with what you changed. And you need to create a Pull Request to send this change to my translation repository:
 
 ![image22](./media/image22.png)
 
-And one more step:
+And one more step. You can change the Commit name to something more appropriate and add comment if you want:
 
 ![image13](./media/image13.png)
 
@@ -124,20 +138,6 @@ and there find already translated file with this word:
 
 ![image24](./media/image24.png)
 
-# What to translate
+# Need help?
 
-To find what to translate you can ask on the translating channel or you can check for any file like on the picture to see there the list of untranslated strings:
-
-![image17](./media/image17.png)
-
-In such file you will find a list of files with strings:
-
-![image06](./media/image06.png)
-
-That means that this file is missing translations. If you want to start working on this file you need to send a message to the #translations channel on discord to let others know that you are working on this file and no one else will be working on it.
-
-If you are doing your first translation please ask someone to check it for you.
-
-# Character names
-
-![image12](./media/image12.png)
+If you are still having any difficulities you can reach out to us at our [Discord](https://discord.gg/efmQRNtFks). We will try our best to help you out.
