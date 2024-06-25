@@ -690,12 +690,6 @@ translate portuguese e16s02_88148071:
     # rf "Yeah."
     rf "Aham."
 
-# game/code/e16/e16s02.rpy:399
-translate portuguese e16s02_f46455c6:
-
-    # rf "Like I said, I was surprised because obviously there has been some kind of mixup with my mother's will. The house and the farm belongs to me."
-    rf "Como eu disse, foi uma surpresa porque obviamente teve algum erro com o testamento da minha mãe. A casa e a fazenda são minha."
-
 # game/code/e16/e16s02.rpy:402
 translate portuguese e16s02_acc42fba:
 

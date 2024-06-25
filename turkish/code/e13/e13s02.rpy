@@ -6,12 +6,6 @@ translate turkish e13s02_0ccad110:
     # nk "You know the deal, Jim. We'll reopen in a few hours for the evening \"Open Mic Night\", but we're closed for now."
     nk "Anlaşmayı biliyorsun Jim. Birkaç saat sonra \"Açık Mikrofon Gecesi\" için yeniden açacağız, ancak şimdilik kapalıyız."
 
-# game/code/e13/e13s02.rpy:86
-translate turkish e13s02_0d80f13c:
-
-    # "Customer" "Aww, but…"
-    "Customer" "Ah, ama..."
-
 # game/code/e13/e13s02.rpy:89
 translate turkish e13s02_8e6b9eae:
 
@@ -125,12 +119,6 @@ translate turkish replay_e13s02_f38ec24d:
 
     # mc "Hey, it's alright. You don't have to push yourself."
     mc "Hey, sorun değil. Kendini zorlamana gerek yok."
-
-# game/code/e13/e13s02.rpy:201
-translate turkish replay_e13s02_25cd8572:
-
-    # nk "Actually… You know what? Sit down."
-    nk "Aslında... Biliyor musun? Otur."
 
 # game/code/e13/e13s02.rpy:208
 translate turkish replay_e13s02_a53c11d8:

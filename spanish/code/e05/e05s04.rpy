@@ -288,12 +288,6 @@ translate spanish e05s04_a6d7c1d9:
     # mh "You are more than welcome to come back here and read legal briefs."
     mh "Eres más que bienvenido a volver aquí y leer informes legales."
 
-# game/code/e05/e05s04.rpy:205
-translate spanish e05s04_1126945f:
-
-    # mh "Do you want to look at the precedent set forth by {i}Tenda vs the State of Texas{/i}?"
-    mh "¿Quiere ver el precedente establecido por {i}Tenda vs el Estado de Texas{/i}?"
-
 # game/code/e05/e05s04.rpy:207
 translate spanish e05s04_1b57a86a:
 
@@ -954,12 +948,6 @@ translate spanish e05s04_sex_468dc35b:
     # mh "Now, don't forget about [mcname]... He hasn't had any fun yet."
     mh "Ahora, no te olvides de [mcname]... Aún no se ha divertido."
 
-# game/code/e05/e05s04.rpy:589
-translate spanish e05s04_sex_cb427f49:
-
-    # op "Just like you, Lyssa. I could never forget about, [mcname]."
-    op "Igual que tú, Lyssa. Nunca podría olvidar a [mcname]."
-
 # game/code/e05/e05s04.rpy:599
 translate spanish e05s04_sex_3944dfe1:
 
@@ -1325,12 +1313,6 @@ translate spanish e05s04_sex_691f51ee:
 
     # op "Fuuck, I'm cumming!"
     op "¡Joder, me estoy corriendo!"
-
-# game/code/e05/e05s04.rpy:765
-translate spanish e05s04_sex_27913b9c:
-
-    # mh "Mmmm. you made a mess, Oliver."
-    mh "Mmmm. Hiciste un desastre, Oliver."
 
 # game/code/e05/e05s04.rpy:767
 translate spanish e05s04_sex_716d096a:

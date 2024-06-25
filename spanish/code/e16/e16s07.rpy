@@ -12,12 +12,6 @@ translate spanish e16s07_a47235f8:
     # mc "We tried playing nice with your cousin. He remains..."
     mc "Intentamos ser amables con tu primo. Él permanece..."
 
-# game/code/e16/e16s07.rpy:80
-translate spanish e16s07_5dfbda8f:
-
-    # jf "Adament."
-    jf "Firme."
-
 # game/code/e16/e16s07.rpy:83
 translate spanish e16s07_21d0a87b:
 
@@ -294,12 +288,6 @@ translate spanish e16s07_cf617bb6:
     # mc "One thing is for sure, the video got through to your cousin. And his lawyer."
     mc "Una cosa es segura, el vídeo llegó hasta tu primo. Y su abogado."
 
-# game/code/e16/e16s07.rpy:252
-translate spanish e16s07_1d8dcaab:
-
-    # mc "We should have won in court anyhow. this way, we just saved a lot of time and money."
-    mc "De todos modos deberíamos haber ganado en los tribunales. De esta manera, ahorramos mucho tiempo y dinero."
-
 # game/code/e16/e16s07.rpy:255
 translate spanish e16s07_9d76d13e:
 
@@ -389,12 +377,6 @@ translate spanish e16s07_sex_fa74765e:
 
     # mct "Molly is such a trooper. We never gave her chores, but somehow she always finds time to sneak off from being a dog and help out."
     mct "Molly es una buena soldado. Nunca le hemos dado tareas, pero siempre encuentra tiempo para dejar de ser un perro y ayudar."
-
-# game/code/e16/e16s07.rpy:314
-translate spanish e16s07_sex_afb382f8:
-
-    # mc "You sure its okay to have a little fun?"
-    mc "¿Estás segura de que está bien divertirse un poco?"
 
 # game/code/e16/e16s07.rpy:316
 translate spanish e16s07_sex_e27585af:
@@ -1193,12 +1175,6 @@ translate spanish e16s07_sex_ee4101d4:
 
     # jf "I-I love you too, [mcname]."
     jf "Yo también te amo, [mcname]."
-
-# game/code/e16/e16s07.rpy:811
-translate spanish e16s07_sex_1fcc5fb2:
-
-    # mc "No matter what happens, no matter how big this place gets, you know you'll always be my first durty."
-    mc "No importa lo que pase, no importa cuán grande se vuelva este lugar, sabes que siempre serás mi primera obligación."
 
 # game/code/e16/e16s07.rpy:820
 translate spanish e16s07_sex_7924282b:

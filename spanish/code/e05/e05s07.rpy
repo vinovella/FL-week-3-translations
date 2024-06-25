@@ -252,12 +252,6 @@ translate spanish e05s07_bar_402e2ef5:
     # mh "Taisia is a good- Taisia didn't do anything wrong. She was a woman who acted in self defense. And most lawyers wouldn't have taken the time to prove that she had."
     mh "Taisia no hizo nada malo. Era una mujer que actuó en defensa propia. Y la mayoría de los abogados no se habrían tomado el tiempo de probar que lo había hecho."
 
-# game/code/e05/e05s07.rpy:208
-translate spanish e05s07_bar_2d1b0aff:
-
-    # mh "In fact, most defense attornies I know would have taken one look at her rap sheet and walked. Or agreed to that terrible plea deal and locked her up."
-    mh "De hecho, la mayoría de los abogados defensores que conozco habrían echado un vistazo a sus antecedentes penales y se habrían largado. O aceptado ese terrible acuerdo y la habrían encerrado."
-
 # game/code/e05/e05s07.rpy:209
 translate spanish e05s07_bar_f3306a91:
 

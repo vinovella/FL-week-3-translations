@@ -264,12 +264,6 @@ translate portuguese e05s06_ee0e3b4e:
     # mh "But something I'm pretty sure I could no longer live without."
     mh "Mas algo que eu tenho certeza que não poderia mais viver sem."
 
-# game/code/e05/e05s06.rpy:190
-translate portuguese e05s06_4f948dfa:
-
-    # mh "But, we should maybe reserve the wedding bells for when Oliver is around. We don't need to give him any more reason to be nervous. Especially today."
-    mh "Mas temos que guardar essa conversa de casamento para quando o Oliver estiver por perto. Não queremos dar motivos para ele ficar nervoso. Especialmente hoje."
-
 # game/code/e05/e05s06.rpy:193
 translate portuguese e05s06_dff79cab:
 
@@ -557,12 +551,6 @@ translate portuguese e05s06_court_room_199b992a:
 
     # op "Again, counsel misses the point. I've just given another establishing link between the two. The video evidence, on its own, is what we are considering."
     op "Mais uma vez, o promotor não entende a situação. Eu mostrei outro elo causal entre os dois. O que estamos considerando é a prova de vídeo por si só."
-
-# game/code/e05/e05s06.rpy:390
-translate portuguese e05s06_court_room_2f20e525:
-
-    # op "We can also establish that this video was at least captured before posting, which would align with my clients, and the plaintiffs, timelines."
-    op "Também podemos provar que no mínimo este vídeo foi gravado antes de ser postado, que se alinha com os depoimentos da minha cliente e do acusador."
 
 # game/code/e05/e05s06.rpy:394
 translate portuguese e05s06_court_room_15a2f320:
@@ -1085,12 +1073,6 @@ translate portuguese e05s06_sex_7ac1412a:
 
     # mct "Fuck, this is great!"
     mct "Porra, que delícia!"
-
-# game/code/e05/e05s06.rpy:732
-translate portuguese e05s06_sex_312af215:
-
-    # mh "Depper, [mcname], deeper! I want to {i}feel{/i} you tearing apart my ass!"
-    mh "Mais fundo [mcname], mais fundo! Eu quero {i}sentir{/i} você acabando com a minha bunda!"
 
 # game/code/e05/e05s06.rpy:733
 translate portuguese e05s06_sex_8e888c04:

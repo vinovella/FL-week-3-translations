@@ -6,12 +6,6 @@ translate russian e13s02_0ccad110:
     # nk "You know the deal, Jim. We'll reopen in a few hours for the evening \"Open Mic Night\", but we're closed for now."
     nk "Ты же знаешь, Джим. Мы откроемся через несколько часов на \"Вечер открытых микрофонов\", но пока мы закрыты."
 
-# game/code/e13/e13s02.rpy:84
-translate russian e13s02_0d80f13c:
-
-    # "Customer" "Aww, but…"
-    "Customer" "Оуу, но..."
-
 # game/code/e13/e13s02.rpy:87
 translate russian e13s02_8e6b9eae:
 
@@ -125,12 +119,6 @@ translate russian replay_e13s02_f38ec24d:
 
     # mc "Hey, it's alright. You don't have to push yourself."
     mc "Эй, все в порядке. Тебе не нужно заставлять себя."
-
-# game/code/e13/e13s02.rpy:185
-translate russian replay_e13s02_25cd8572:
-
-    # nk "Actually… You know what? Sit down."
-    nk "На самом деле… Знаешь что? Сядь."
 
 # game/code/e13/e13s02.rpy:192
 translate russian replay_e13s02_a53c11d8:

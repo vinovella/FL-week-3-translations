@@ -600,12 +600,6 @@ translate portuguese e05s01_4a034223:
     # op "[mcname]-"
     op "[mcname]-"
 
-# game/code/e05/e05s01.rpy:434
-translate portuguese e05s01_b7c6a403:
-
-    # mc "How you pulled my cock out of your mouth, and covered you in my warm, sticky cum. How {i}hot{/i} you looked, glazed in the reward from an incredible blowjob."
-    mc "Como você tirou o meu pau da boca e se cobriu de porra quentinha. Como você estava {i}gostoso{/i}, melado na recompensa de um ótimo boquete."
-
 # game/code/e05/e05s01.rpy:438
 translate portuguese e05s01_6567c5e4:
 
@@ -1290,12 +1284,6 @@ translate portuguese e05s01_mc_op_sex_03015f6c:
     # mc "God, Ollie, your dick is - fuck, I - I could do this way more often!"
     mc "Meu Deus, Ollie, o seu pau é - porra, eu - eu adoraria fazer isso mais vezes!"
 
-# game/code/e05/e05s01.rpy:858
-translate portuguese e05s01_mc_op_sex_325fcbb3:
-
-    # mc "And Lyssa, they way you're sucking my diccccck - Jeeeeyazzzusssss!"
-    mc "E Lyssa, o jeito que você está chupando o meu paaaaaau - Meuhddheeeeusss!"
-
 # game/code/e05/e05s01.rpy:859
 translate portuguese e05s01_mc_op_sex_5b563b57:
 
@@ -1313,12 +1301,6 @@ translate portuguese e05s01_mc_op_sex_59dd5d5e:
 
     # op "I don't- I don't know how much longer I can do this either!"
     op "Eu também- Também não sei quanto mais eu posso aguentar."
-
-# game/code/e05/e05s01.rpy:864
-translate portuguese e05s01_mc_op_sex_dcf6e6fd:
-
-    # op "You're ass is - {i}you{/i} are amazing, [mcname]!"
-    op "A sua bunda é - {i}você{/i} é incrível, [mcname]!"
 
 # game/code/e05/e05s01.rpy:868
 translate portuguese e05s01_mc_op_sex_8283df84:
@@ -1841,12 +1823,6 @@ translate portuguese e05s01_sex_end_73d789a1:
 
     # op "I'm... Excited for that."
     op "Eu... já estou ansioso por isso."
-
-# game/code/e05/e05s01.rpy:1191
-translate portuguese e05s01_sex_end_3f83f5a7:
-
-    # mc "Good, now if you'll excuse me, I was told I have something on my face I should wash of."
-    mc "Ótimo, agora se me dá licença, me falaram que tenho uma coisa na na cara que preciso limpar."
 
 # game/code/e05/e05s01.rpy:1194
 translate portuguese e05s01_sex_end_90199963:

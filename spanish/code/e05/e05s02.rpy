@@ -90,12 +90,6 @@ translate spanish e05s02_269aa055:
     # op "Yes, Ms- Lyssa. You actually received a message from a..."
     op "Sí, Señora... Lyssa. De hecho recibiste un mensaje de una..."
 
-# game/code/e05/e05s02.rpy:109
-translate spanish e05s02_24178306:
-
-    # op "Taisia Lindquist. She was arrested last night on a drunken disorderly and aggravated assault."
-    op "Taisia ​​Lindquist. Fue arrestada anoche por alteración del orden público y agresión agravada en estado de ebriedad."
-
 # game/code/e05/e05s02.rpy:110
 translate spanish e05s02_d3cd0def:
 
@@ -1614,12 +1608,6 @@ translate spanish e05s02_mh_takes_opanalvirginity_07825546:
     # op "T-This is ah-maz-zing!!"
     op "¡¡Esto es in-creí-ble!!"
 
-# game/code/e05/e05s02.rpy:870
-translate spanish e05s02_mh_takes_opanalvirginity_aa1f2ff5:
-
-    # mh "Good. because I feel the same! Your ass is unbelievably tight!"
-    mh "Bien. porque siento lo mismo! ¡Tu trasero está increíblemente apretado!"
-
 # game/code/e05/e05s02.rpy:873
 translate spanish e05s02_mh_takes_opanalvirginity_0d5c9249:
 
@@ -1649,12 +1637,6 @@ translate spanish e05s02_mh_takes_opanalvirginity_b279b816:
 
     # mh "Mmm-mmmm, I - Oh God - Don't know who's enjoying it more!"
     mh "Mmm-mmmm, yo - Oh Dios - ¡No sé quién lo disfruta más!"
-
-# game/code/e05/e05s02.rpy:880
-translate spanish e05s02_mh_takes_opanalvirginity_6f53aee6:
-
-    # mh "But I think - mmmmmmpph - Between my dick buried in his tight ass, and you're wonderful cock in my ass, that I'm the - fuuuuh - real winner!"
-    mh "Pero creo, mmmmmmpph, entre mi polla enterrada en su culo apretado y tu maravillosa polla en mi culo, que soy la ¡verdadera ganadora!"
 
 # game/code/e05/e05s02.rpy:885
 translate spanish e05s02_mh_takes_opanalvirginity_413c45ec:

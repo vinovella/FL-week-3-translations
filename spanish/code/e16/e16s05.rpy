@@ -762,12 +762,6 @@ translate spanish e16s05_sex_31ee5909:
     # kv "Huupk..."
     kv "Huupk..."
 
-# game/code/e16/e16s05.rpy:563
-translate spanish e16s05_sex_ed4d8468:
-
-    # mc "This isn't about your pleasure, Kanya"
-    mc "Esto no se trata de tu placer, Kanya."
-
 # game/code/e16/e16s05.rpy:568
 translate spanish e16s05_sex_648ee1cd:
 
@@ -1145,12 +1139,6 @@ translate spanish e16s05_sex_916f2a22:
 
     # mc "Clean her up, Kanya."
     mc "Límpiala, Kanya."
-
-# game/code/e16/e16s05.rpy:781
-translate spanish e16s05_sex_a59c392f:
-
-    # kv "Mrhmmm... Happy too."
-    kv "Mrhmmm... Feliz también."
 
 # game/code/e16/e16s05.rpy:787
 translate spanish e16s05_sex_efedc784:

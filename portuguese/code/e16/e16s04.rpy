@@ -930,12 +930,6 @@ translate portuguese e16s04_sex_ced8122e:
     # mdog "Arrruuff-rrffuffu-ffuuuaaahhk!"
     mdog "Arrruuff-rrppoppo-pooorrraaaahh!"
 
-# game/code/e16/e16s04.rpy:622
-translate portuguese e16s04_sex_395023d7:
-
-    # mct "Okay that was definitely the word 'fuck'"
-    mct "Beleza, com certeza ela falou 'porra'."
-
 # game/code/e16/e16s04.rpy:627
 translate portuguese e16s04_sex_7faf6481:
 

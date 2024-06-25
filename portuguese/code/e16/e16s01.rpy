@@ -120,12 +120,6 @@ translate portuguese e16s01_4bf05955:
     # mc "I thought you knew this place, Jessie?"
     mc "Jessie, eu pensei que você conhecia o lugar?"
 
-# game/code/e16/e16s01.rpy:155
-translate portuguese e16s01_ddf8561a:
-
-    # jf "The last time I was just a kid, here for some relative's birthday party.."
-    jf "Da última vez eu era só uma criança, vim aqui por causa do aniversário de família..."
-
 # game/code/e16/e16s01.rpy:156
 translate portuguese e16s01_e42deb48:
 
@@ -528,12 +522,6 @@ translate portuguese e16s01_sex_011b37b4:
     # mc "Not a chance."
     mc "Sem chance."
 
-# game/code/e16/e16s01.rpy:458
-translate portuguese e16s01_sex_f62fde47:
-
-    # mc "Good girl, Molly"
-    mc "Boa garota, Molly."
-
 # game/code/e16/e16s01.rpy:461
 translate portuguese e16s01_sex_e27585af:
 
@@ -588,12 +576,6 @@ translate portuguese e16s01_sex_745a3d52:
     # mc "This is going to get wild!"
     mc "Isso vai ser louco!"
 
-# game/code/e16/e16s01.rpy:500
-translate portuguese e16s01_sex_19492f59:
-
-    # mc "Come here"
-    mc "Vem aqui."
-
 # game/code/e16/e16s01.rpy:505
 translate portuguese e16s01_sex_8ecd3d2f:
 
@@ -617,12 +599,6 @@ translate portuguese e16s01_sex_4e93f006:
 
     # mc "I guess we'll call this horsey-style."
     mc "Acho que vamos chamar isso de cavalinho."
-
-# game/code/e16/e16s01.rpy:552
-translate portuguese e16s01_sex_cc815187:
-
-    # mct "Fuck. She's geting so tight. She really loves it when she's just my pet to fuck and play with!"
-    mct "Porra. Ela tá apertando bastante. Ela adora quando não passa de um brinquedinho pra eu brincar e foder!"
 
 # game/code/e16/e16s01.rpy:556
 translate portuguese e16s01_sex_65d25be9:
@@ -659,12 +635,6 @@ translate portuguese e16s01_sex_3a562ded:
 
     # mdog "*lightly growls*"
     mdog "*grunhido baixo*"
-
-# game/code/e16/e16s01.rpy:600
-translate portuguese e16s01_sex_47e2a106:
-
-    # jf "Yes. Come over her... I'm ready to go on another ride!"
-    jf "Isso. Vem aqui... Eu quero brincar de novo!"
 
 # game/code/e16/e16s01.rpy:608
 translate portuguese e16s01_sex_6029a7b9:

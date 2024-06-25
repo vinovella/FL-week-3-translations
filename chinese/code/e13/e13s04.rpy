@@ -156,12 +156,6 @@ translate chinese replay_e13s04_37969b53:
     # nk "Yes, yes! I'm close! [mcname], I'm gonna—!"
     nk "不行了！不行了！我要泄了啊！[mcname]，我要--!"
 
-# game/code/e13/e13s04.rpy:165
-translate chinese replay_e13s04_b7e53779:
-
-    # nk "God... That was amazing…"
-    nk "天啊...太难忘了..."
-
 # game/code/e13/e13s04.rpy:175
 translate chinese replay_e13s04_d2c80bad:
 
@@ -179,12 +173,6 @@ translate chinese replay_e13s04_7b4716ff:
 
     # nk "Fuck me. Fuck me as hard as you can. I don't care who sees or hears."
     nk "操我。尽你所能操我。我不在乎有人看到或听到。"
-
-# game/code/e13/e13s04.rpy:199
-translate chinese replay_e13s04_a4e4f076:
-
-    # nk "*Loud moans* Yes, fuck… Yes! I love you, [mcname]."
-    nk "*大声呻吟* 啊，妈的...继续！我爱你，[mcname]."
 
 # game/code/e13/e13s04.rpy:207
 translate chinese replay_e13s04_dd27a96a:

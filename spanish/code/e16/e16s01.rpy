@@ -120,12 +120,6 @@ translate spanish e16s01_4bf05955:
     # mc "I thought you knew this place, Jessie?"
     mc "Pensé que conocías este lugar, Jessie."
 
-# game/code/e16/e16s01.rpy:155
-translate spanish e16s01_ddf8561a:
-
-    # jf "The last time I was just a kid, here for some relative's birthday party.."
-    jf "La última vez era sólo una niña, vine a la fiesta de cumpleaños de un pariente..."
-
 # game/code/e16/e16s01.rpy:156
 translate spanish e16s01_e42deb48:
 
@@ -528,12 +522,6 @@ translate spanish e16s01_sex_011b37b4:
     # mc "Not a chance."
     mc "De ninguna manera."
 
-# game/code/e16/e16s01.rpy:458
-translate spanish e16s01_sex_f62fde47:
-
-    # mc "Good girl, Molly"
-    mc "Buena chica, Molly."
-
 # game/code/e16/e16s01.rpy:461
 translate spanish e16s01_sex_e27585af:
 
@@ -588,12 +576,6 @@ translate spanish e16s01_sex_745a3d52:
     # mc "This is going to get wild!"
     mc "¡Esto se va a volver loco!"
 
-# game/code/e16/e16s01.rpy:500
-translate spanish e16s01_sex_19492f59:
-
-    # mc "Come here"
-    mc "Ven aquí."
-
 # game/code/e16/e16s01.rpy:505
 translate spanish e16s01_sex_8ecd3d2f:
 
@@ -617,12 +599,6 @@ translate spanish e16s01_sex_4e93f006:
 
     # mc "I guess we'll call this horsey-style."
     mc "Supongo que lo llamaremos estilo caballo."
-
-# game/code/e16/e16s01.rpy:552
-translate spanish e16s01_sex_cc815187:
-
-    # mct "Fuck. She's geting so tight. She really loves it when she's just my pet to fuck and play with!"
-    mct "Mierda. Se está poniendo muy apretada. ¡A ella realmente le encanta cuando es solo mi mascota con quien follar y jugar!"
 
 # game/code/e16/e16s01.rpy:556
 translate spanish e16s01_sex_65d25be9:
@@ -659,12 +635,6 @@ translate spanish e16s01_sex_3a562ded:
 
     # mdog "*lightly growls*"
     mdog "*gruñe ligeramente*"
-
-# game/code/e16/e16s01.rpy:600
-translate spanish e16s01_sex_47e2a106:
-
-    # jf "Yes. Come over her... I'm ready to go on another ride!"
-    jf "Sí. Acércate a ella... ¡Estoy lista para dar otro paseo!"
 
 # game/code/e16/e16s01.rpy:608
 translate spanish e16s01_sex_6029a7b9:

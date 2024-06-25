@@ -264,12 +264,6 @@ translate spanish e05s06_ee0e3b4e:
     # mh "But something I'm pretty sure I could no longer live without."
     mh "Pero hay algo sin lo que estoy segura de que ya no podría vivir."
 
-# game/code/e05/e05s06.rpy:190
-translate spanish e05s06_4f948dfa:
-
-    # mh "But, we should maybe reserve the wedding bells for when Oliver is around. We don't need to give him any more reason to be nervous. Especially today."
-    mh "Pero tal vez deberíamos reservar las campanas de boda para cuando Oliver esté cerca. No necesitamos darle más motivos para estar nervioso. Especialmente hoy."
-
 # game/code/e05/e05s06.rpy:193
 translate spanish e05s06_dff79cab:
 
@@ -557,12 +551,6 @@ translate spanish e05s06_court_room_199b992a:
 
     # op "Again, counsel misses the point. I've just given another establishing link between the two. The video evidence, on its own, is what we are considering."
     op "Una vez más, el abogado no entiende nada. Acabo de dar otro vínculo que se establece entre los dos. La evidencia del video, por sí sola, es lo que estamos considerando."
-
-# game/code/e05/e05s06.rpy:390
-translate spanish e05s06_court_room_2f20e525:
-
-    # op "We can also establish that this video was at least captured before posting, which would align with my clients, and the plaintiffs, timelines."
-    op "También podemos establecer que este video fue al menos capturado antes de publicarlo, lo que se alinearía con los cronogramas de mi clienta y los demandantes."
 
 # game/code/e05/e05s06.rpy:394
 translate spanish e05s06_court_room_15a2f320:
@@ -1085,12 +1073,6 @@ translate spanish e05s06_sex_7ac1412a:
 
     # mct "Fuck, this is great!"
     mct "¡Joder, esto es genial!"
-
-# game/code/e05/e05s06.rpy:732
-translate spanish e05s06_sex_312af215:
-
-    # mh "Depper, [mcname], deeper! I want to {i}feel{/i} you tearing apart my ass!"
-    mh "¡Más profundo, [mcname], más profundo! ¡Quiero {i}sentir{/i} que me destrozas el culo!"
 
 # game/code/e05/e05s06.rpy:733
 translate spanish e05s06_sex_8e888c04:

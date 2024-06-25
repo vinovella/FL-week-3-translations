@@ -6,12 +6,6 @@ translate portuguese e13s02_0ccad110:
     # nk "You know the deal, Jim. We'll reopen in a few hours for the evening \"Open Mic Night\", but we're closed for now."
     nk "Você sabe como é, Jim. Vamos reabrir em algumas horas pro \"Open Mic\", mas estamos fechados no momento."
 
-# game/code/e13/e13s02.rpy:84
-translate portuguese e13s02_0d80f13c:
-
-    # "Customer" "Aww, but…"
-    "Cliente" "Aaah, mas..."
-
 # game/code/e13/e13s02.rpy:87
 translate portuguese e13s02_8e6b9eae:
 
@@ -125,12 +119,6 @@ translate portuguese replay_e13s02_f38ec24d:
 
     # mc "Hey, it's alright. You don't have to push yourself."
     mc "Ei, tudo bem. Você não precisa se forçar."
-
-# game/code/e13/e13s02.rpy:185
-translate portuguese replay_e13s02_25cd8572:
-
-    # nk "Actually… You know what? Sit down."
-    nk "Na verdade... Sabe de uma coisa? Senta."
 
 # game/code/e13/e13s02.rpy:192
 translate portuguese replay_e13s02_a53c11d8:

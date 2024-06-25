@@ -156,12 +156,6 @@ translate turkish replay_e13s04_37969b53:
     # nk "Yes, yes! I'm close! [mcname], I'm gonna—!"
     nk "Evet, evet! Yaklaştım! [mcname], ben-!"
 
-# game/code/e13/e13s04.rpy:180
-translate turkish replay_e13s04_b7e53779:
-
-    # nk "God... That was amazing…"
-    nk "Tanrım... Bu harikaydı..."
-
 # game/code/e13/e13s04.rpy:190
 translate turkish replay_e13s04_d2c80bad:
 
@@ -179,12 +173,6 @@ translate turkish replay_e13s04_7b4716ff:
 
     # nk "Fuck me. Fuck me as hard as you can. I don't care who sees or hears."
     nk "Sik beni. Becerebildiğin kadar becer beni. Kimin görüp duyduğu umurumda değil."
-
-# game/code/e13/e13s04.rpy:215
-translate turkish replay_e13s04_a4e4f076:
-
-    # nk "*Loud moans* Yes, fuck… Yes! I love you, [mcname]."
-    nk "*Yüksek sesle inliyor* Evet, kahretsin... Evet! Seni seviyorum [mcname]."
 
 # game/code/e13/e13s04.rpy:224
 translate turkish replay_e13s04_dd27a96a:

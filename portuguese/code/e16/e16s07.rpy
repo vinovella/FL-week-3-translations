@@ -12,12 +12,6 @@ translate portuguese e16s07_a47235f8:
     # mc "We tried playing nice with your cousin. He remains..."
     mc "Tentamos ser legais com o seu primo. Ele ainda tá..."
 
-# game/code/e16/e16s07.rpy:80
-translate portuguese e16s07_5dfbda8f:
-
-    # jf "Adament."
-    jf "Inflexível."
-
 # game/code/e16/e16s07.rpy:83
 translate portuguese e16s07_21d0a87b:
 
@@ -294,12 +288,6 @@ translate portuguese e16s07_cf617bb6:
     # mc "One thing is for sure, the video got through to your cousin. And his lawyer."
     mc "Uma coisa é certeza, o vídeo teve efeito no seu primo. E no advogado dele."
 
-# game/code/e16/e16s07.rpy:252
-translate portuguese e16s07_1d8dcaab:
-
-    # mc "We should have won in court anyhow. this way, we just saved a lot of time and money."
-    mc "E a gente teria ganhado no tribunal de qualquer forma. Assim vamos poupar bastante tempo e dinheiro."
-
 # game/code/e16/e16s07.rpy:255
 translate portuguese e16s07_9d76d13e:
 
@@ -389,12 +377,6 @@ translate portuguese e16s07_sex_fa74765e:
 
     # mct "Molly is such a trooper. We never gave her chores, but somehow she always finds time to sneak off from being a dog and help out."
     mct "A Molly é tão obediente. Nunca demos tarefas pra ela fazer, mas de alguma forma ela sempre consegue tirar tempo de fingir de cachorra e ajuda."
-
-# game/code/e16/e16s07.rpy:314
-translate portuguese e16s07_sex_afb382f8:
-
-    # mc "You sure its okay to have a little fun?"
-    mc "Tem certeza que não tem problema brincar um pouco?"
 
 # game/code/e16/e16s07.rpy:316
 translate portuguese e16s07_sex_e27585af:
@@ -1193,12 +1175,6 @@ translate portuguese e16s07_sex_ee4101d4:
 
     # jf "I-I love you too, [mcname]."
     jf "E-eu também te amo, [mcname]."
-
-# game/code/e16/e16s07.rpy:811
-translate portuguese e16s07_sex_1fcc5fb2:
-
-    # mc "No matter what happens, no matter how big this place gets, you know you'll always be my first durty."
-    mc "Independente do que aconteça, do tamanho que esse lugar fique, você sabe que sempre vai ser a número um."
 
 # game/code/e16/e16s07.rpy:820
 translate portuguese e16s07_sex_7924282b:

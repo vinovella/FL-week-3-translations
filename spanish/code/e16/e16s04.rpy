@@ -930,12 +930,6 @@ translate spanish e16s04_sex_ced8122e:
     # mdog "Arrruuff-rrffuffu-ffuuuaaahhk!"
     mdog "¡Arrruuff-rrffuffu-ffuuuaaahhk!"
 
-# game/code/e16/e16s04.rpy:622
-translate spanish e16s04_sex_395023d7:
-
-    # mct "Okay that was definitely the word 'fuck'"
-    mct "Bueno, esa era definitivamente la palabra \"joder\"."
-
 # game/code/e16/e16s04.rpy:627
 translate spanish e16s04_sex_7faf6481:
 

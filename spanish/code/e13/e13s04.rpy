@@ -156,12 +156,6 @@ translate spanish replay_e13s04_37969b53:
     # nk "Yes, yes! I'm close! [mcname], I'm gonna—!"
     nk "¡Sí, sí! ¡Estoy cerca! [mcname], ¡voy a...!"
 
-# game/code/e13/e13s04.rpy:180
-translate spanish replay_e13s04_b7e53779:
-
-    # nk "God... That was amazing…"
-    nk "Dios... Eso fue increíble..."
-
 # game/code/e13/e13s04.rpy:190
 translate spanish replay_e13s04_d2c80bad:
 
@@ -179,12 +173,6 @@ translate spanish replay_e13s04_7b4716ff:
 
     # nk "Fuck me. Fuck me as hard as you can. I don't care who sees or hears."
     nk "Fóllame. Fóllame tan fuerte como puedas. No me importa quién vea o escuche."
-
-# game/code/e13/e13s04.rpy:215
-translate spanish replay_e13s04_a4e4f076:
-
-    # nk "*Loud moans* Yes, fuck… Yes! I love you, [mcname]."
-    nk "*Gemidos fuertes* Sí, mierda… ¡Sí! Te amo, [mcname]."
 
 # game/code/e13/e13s04.rpy:224
 translate spanish replay_e13s04_dd27a96a:

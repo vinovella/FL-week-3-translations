@@ -6,12 +6,6 @@ translate chinese e13s02_0ccad110:
     # nk "You know the deal, Jim. We'll reopen in a few hours for the evening \"Open Mic Night\", but we're closed for now."
     nk "你知道的，吉姆。几小时后我们会在晚上的\"开麦之夜\"重新开业，但现在我们已经关门了。"
 
-# game/code/e13/e13s02.rpy:84
-translate chinese e13s02_0d80f13c:
-
-    # "Customer" "Aww, but…"
-    "顾客" "哦，但是…"
-
 # game/code/e13/e13s02.rpy:87
 translate chinese e13s02_8e6b9eae:
 
@@ -125,12 +119,6 @@ translate chinese replay_e13s02_f38ec24d:
 
     # mc "Hey, it's alright. You don't have to push yourself."
     mc "嘿，没事的。你不需要强迫自己。"
-
-# game/code/e13/e13s02.rpy:185
-translate chinese replay_e13s02_25cd8572:
-
-    # nk "Actually… You know what? Sit down."
-    nk "其实… 你知道吗？坐下来。"
 
 # game/code/e13/e13s02.rpy:192
 translate chinese replay_e13s02_a53c11d8:

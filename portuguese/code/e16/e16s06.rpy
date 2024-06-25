@@ -480,12 +480,6 @@ translate portuguese e16s06_sex_4495eef5:
     # mc "How is that?"
     mc "Que tal?"
 
-# game/code/e16/e16s06.rpy:361
-translate portuguese e16s06_sex_0c5061e2:
-
-    # kk "Com on. You can go harder than that. I'm not a gentle little maiden, [mcname]."
-    kk "Vamos. Você pode fazer melhor. [mcname], eu não sou uma mocinha delicada."
-
 # game/code/e16/e16s06.rpy:364
 translate portuguese e16s06_sex_6651ab87:
 
@@ -497,12 +491,6 @@ translate portuguese e16s06_sex_c06e6656:
 
     # kk "There you go. Such a big strong boy."
     kk "Agora sim. Que garoto fortão."
-
-# game/code/e16/e16s06.rpy:371
-translate portuguese e16s06_sex_a022d591:
-
-    # mc "Mind if... nevermind."
-    mc "Se importa se eu..."
 
 # game/code/e16/e16s06.rpy:374
 translate portuguese e16s06_sex_2c89f309:
@@ -624,12 +612,6 @@ translate portuguese e16s06_sex_d6c85b2e:
     # mct "This is the best. When we came out here, I never imagined having a full farm of animal-girls."
     mct "Isso é tão legal. Eu nunca teria imaginado uma fazenda cheia de garotas-animal quando a gente veio aqui."
 
-# game/code/e16/e16s06.rpy:455
-translate portuguese e16s06_sex_c9ceb8bb:
-
-    # mct "And Kristen might be the best yet!"
-    mct "E a Kristin talvez seja a melhor!"
-
 # game/code/e16/e16s06.rpy:457
 translate portuguese e16s06_sex_6c2e32f8:
 
@@ -677,12 +659,6 @@ translate portuguese e16s06_sex_1fa0c741:
 
     # mc "Ohuaah... oh fuck."
     mc "Ohuaah... caralho."
-
-# game/code/e16/e16s06.rpy:480
-translate portuguese e16s06_sex_b7301ea3:
-
-    # kk "I hope my udders are too your liking, [mcname]."
-    kk "Espero que você esteja gostando das minhas tetas, [mcname]."
 
 # game/code/e16/e16s06.rpy:483
 translate portuguese e16s06_sex_f800bed0:

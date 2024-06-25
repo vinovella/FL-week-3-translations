@@ -600,12 +600,6 @@ translate spanish e05s01_4a034223:
     # op "[mcname]-"
     op "[mcname]-"
 
-# game/code/e05/e05s01.rpy:434
-translate spanish e05s01_b7c6a403:
-
-    # mc "How you pulled my cock out of your mouth, and covered you in my warm, sticky cum. How {i}hot{/i} you looked, glazed in the reward from an incredible blowjob."
-    mc "Cómo sacaste mi polla de tu boca y te cubriste con mi semen cálido y pegajoso. Qué {i}sexy{/i} te veías, vidrioso en la recompensa de una mamada increíble."
-
 # game/code/e05/e05s01.rpy:438
 translate spanish e05s01_6567c5e4:
 
@@ -1290,12 +1284,6 @@ translate spanish e05s01_mc_op_sex_03015f6c:
     # mc "God, Ollie, your dick is - fuck, I - I could do this way more often!"
     mc "Dios, Ollie, tu polla es... joder, yo... ¡podría hacerlo de esta manera más a menudo!"
 
-# game/code/e05/e05s01.rpy:858
-translate spanish e05s01_mc_op_sex_325fcbb3:
-
-    # mc "And Lyssa, they way you're sucking my diccccck - Jeeeeyazzzusssss!"
-    mc "Y Lyssa, la forma en que me estás chupando la polla - ¡Jeeeeyazzzusssss!"
-
 # game/code/e05/e05s01.rpy:859
 translate spanish e05s01_mc_op_sex_5b563b57:
 
@@ -1313,12 +1301,6 @@ translate spanish e05s01_mc_op_sex_59dd5d5e:
 
     # op "I don't- I don't know how much longer I can do this either!"
     op "¡Yo tampoco sé cuánto tiempo más podré hacer esto!"
-
-# game/code/e05/e05s01.rpy:864
-translate spanish e05s01_mc_op_sex_dcf6e6fd:
-
-    # op "You're ass is - {i}you{/i} are amazing, [mcname]!"
-    op "Tu trasero es - {i}tú{/i} ¡eres increíble, [mcname]!"
 
 # game/code/e05/e05s01.rpy:868
 translate spanish e05s01_mc_op_sex_8283df84:
@@ -1841,12 +1823,6 @@ translate spanish e05s01_sex_end_73d789a1:
 
     # op "I'm... Excited for that."
     op "Estoy... emocionado por eso."
-
-# game/code/e05/e05s01.rpy:1191
-translate spanish e05s01_sex_end_3f83f5a7:
-
-    # mc "Good, now if you'll excuse me, I was told I have something on my face I should wash of."
-    mc "Bien, ahora si me disculpan, me dijeron que tengo algo en la cara que debería lavarme."
 
 # game/code/e05/e05s01.rpy:1194
 translate spanish e05s01_sex_end_90199963:

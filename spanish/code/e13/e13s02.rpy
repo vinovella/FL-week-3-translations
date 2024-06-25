@@ -6,12 +6,6 @@ translate spanish e13s02_0ccad110:
     # nk "You know the deal, Jim. We'll reopen in a few hours for the evening \"Open Mic Night\", but we're closed for now."
     nk "Ya conoces el trato, Jim. Volveremos a abrir en unas horas por la noche \"Noche de micrófono abierto\", pero estamos cerrados por ahora."
 
-# game/code/e13/e13s02.rpy:86
-translate spanish e13s02_0d80f13c:
-
-    # "Customer" "Aww, but…"
-    "Cliente" "Aww, pero…"
-
 # game/code/e13/e13s02.rpy:89
 translate spanish e13s02_8e6b9eae:
 
@@ -125,12 +119,6 @@ translate spanish replay_e13s02_f38ec24d:
 
     # mc "Hey, it's alright. You don't have to push yourself."
     mc "Oye, está bien. No tienes que esforzarte."
-
-# game/code/e13/e13s02.rpy:201
-translate spanish replay_e13s02_25cd8572:
-
-    # nk "Actually… You know what? Sit down."
-    nk "En realidad… ¿Sabes qué? Siéntate."
 
 # game/code/e13/e13s02.rpy:208
 translate spanish replay_e13s02_a53c11d8:

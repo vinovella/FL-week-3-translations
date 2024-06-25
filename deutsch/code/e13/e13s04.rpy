@@ -156,12 +156,6 @@ translate deutsch replay_e13s04_37969b53:
     # nk "Yes, yes! I'm close! [mcname], I'm gonna—!"
     nk "Ja ja! Ich bin nah dran! [mcname], ich werde–!"
 
-# game/code/e13/e13s04.rpy:180
-translate deutsch replay_e13s04_b7e53779:
-
-    # nk "God... That was amazing…"
-    nk "Gott... Das war unglaublich..."
-
 # game/code/e13/e13s04.rpy:190
 translate deutsch replay_e13s04_d2c80bad:
 
@@ -179,12 +173,6 @@ translate deutsch replay_e13s04_7b4716ff:
 
     # nk "Fuck me. Fuck me as hard as you can. I don't care who sees or hears."
     nk "Fick mich. Fick mich so hart du kannst. Es ist mir egal, ob es jemand sieht oder hört."
-
-# game/code/e13/e13s04.rpy:215
-translate deutsch replay_e13s04_a4e4f076:
-
-    # nk "*Loud moans* Yes, fuck… Yes! I love you, [mcname]."
-    nk "*Lautes Stöhnen* Ja, verdammt... Ja! Ich liebe dich, [mcname]."
 
 # game/code/e13/e13s04.rpy:224
 translate deutsch replay_e13s04_dd27a96a:

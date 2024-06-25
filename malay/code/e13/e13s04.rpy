@@ -156,12 +156,6 @@ translate malay replay_e13s04_37969b53:
     # nk "Yes, yes! I'm close! [mcname], I'm gonna—!"
     nk "Yes, yes! I'm close! [mcname], I'm gonna—!"
 
-# game/code/e13/e13s04.rpy:165
-translate malay replay_e13s04_b7e53779:
-
-    # nk "God... That was amazing…"
-    nk "God... That was amazing…"
-
 # game/code/e13/e13s04.rpy:175
 translate malay replay_e13s04_d2c80bad:
 
@@ -179,12 +173,6 @@ translate malay replay_e13s04_7b4716ff:
 
     # nk "Fuck me. Fuck me as hard as you can. I don't care who sees or hears."
     nk "Fuck me. Fuck me as hard as you can. I don't care who sees or hears."
-
-# game/code/e13/e13s04.rpy:199
-translate malay replay_e13s04_a4e4f076:
-
-    # nk "*Loud moans* Yes, fuck… Yes! I love you, [mcname]."
-    nk "*Loud moans* Yes, fuck… Yes! I love you, [mcname]."
 
 # game/code/e13/e13s04.rpy:207
 translate malay replay_e13s04_dd27a96a:

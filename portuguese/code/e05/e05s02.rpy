@@ -90,12 +90,6 @@ translate portuguese e05s02_269aa055:
     # op "Yes, Ms- Lyssa. You actually received a message from a..."
     op "Sim, Srta.- Lyssa. Tem uma mensagem de uma tal de..."
 
-# game/code/e05/e05s02.rpy:109
-translate portuguese e05s02_24178306:
-
-    # op "Taisia Lindquist. She was arrested last night on a drunken disorderly and aggravated assault."
-    op "Taisia Lindquist. Ela foi presa ontem de noite por desordem pública por intoxicação e lesão corporal grave."
-
 # game/code/e05/e05s02.rpy:110
 translate portuguese e05s02_d3cd0def:
 
@@ -1614,12 +1608,6 @@ translate portuguese e05s02_mh_takes_opanalvirginity_07825546:
     # op "T-This is ah-maz-zing!!"
     op "I-Isso é in-crí-vel!!!"
 
-# game/code/e05/e05s02.rpy:870
-translate portuguese e05s02_mh_takes_opanalvirginity_aa1f2ff5:
-
-    # mh "Good. because I feel the same! Your ass is unbelievably tight!"
-    mh "Ótimo, porque eu também sinto o mesmo! A sua bunda é tão apertada!"
-
 # game/code/e05/e05s02.rpy:873
 translate portuguese e05s02_mh_takes_opanalvirginity_0d5c9249:
 
@@ -1649,12 +1637,6 @@ translate portuguese e05s02_mh_takes_opanalvirginity_b279b816:
 
     # mh "Mmm-mmmm, I - Oh God - Don't know who's enjoying it more!"
     mh "Mmm-mmmm, Eu- Meu Deus - Não sei quem está gostando mais!"
-
-# game/code/e05/e05s02.rpy:880
-translate portuguese e05s02_mh_takes_opanalvirginity_6f53aee6:
-
-    # mh "But I think - mmmmmmpph - Between my dick buried in his tight ass, and you're wonderful cock in my ass, that I'm the - fuuuuh - real winner!"
-    mh "Mas eu acho - mmmmmmpph - Entre o meu pau enterrado na bunda dele e o seu pau maravilhoso na minha, eu que - aih, porrhh - saí ganhando!"
 
 # game/code/e05/e05s02.rpy:885
 translate portuguese e05s02_mh_takes_opanalvirginity_413c45ec:

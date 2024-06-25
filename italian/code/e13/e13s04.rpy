@@ -156,12 +156,6 @@ translate italian replay_e13s04_37969b53:
     # nk "Yes, yes! I'm close! [mcname], I'm gonna—!"
     nk "Sì, sì! Sono vicino! [mcname], io sto...!"
 
-# game/code/e13/e13s04.rpy:180
-translate italian replay_e13s04_b7e53779:
-
-    # nk "God... That was amazing…"
-    nk "Dio... È stato incredibile…"
-
 # game/code/e13/e13s04.rpy:190
 translate italian replay_e13s04_d2c80bad:
 
@@ -179,12 +173,6 @@ translate italian replay_e13s04_7b4716ff:
 
     # nk "Fuck me. Fuck me as hard as you can. I don't care who sees or hears."
     nk "Scopami. Scopami più forte che puoi. Non mi interessa chi vede o sente."
-
-# game/code/e13/e13s04.rpy:215
-translate italian replay_e13s04_a4e4f076:
-
-    # nk "*Loud moans* Yes, fuck… Yes! I love you, [mcname]."
-    nk "*Forti gemiti* Sì, cazzo... Sì! Ti amo, [mcname]."
 
 # game/code/e13/e13s04.rpy:224
 translate italian replay_e13s04_dd27a96a:

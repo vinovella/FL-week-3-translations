@@ -156,12 +156,6 @@ translate russian replay_e13s04_37969b53:
     # nk "Yes, yes! I'm close! [mcname], I'm gonna—!"
     nk "Да, да! Я уже близко! [mcname], я сейчас..."
 
-# game/code/e13/e13s04.rpy:165
-translate russian replay_e13s04_b7e53779:
-
-    # nk "God... That was amazing…"
-    nk "Бог... Это было потрясающе..."
-
 # game/code/e13/e13s04.rpy:175
 translate russian replay_e13s04_d2c80bad:
 
@@ -179,12 +173,6 @@ translate russian replay_e13s04_7b4716ff:
 
     # nk "Fuck me. Fuck me as hard as you can. I don't care who sees or hears."
     nk "Трахни меня. Трахни меня так сильно, как только сможешь. Мне все равно, если кто-то увидит нас или услышит."
-
-# game/code/e13/e13s04.rpy:199
-translate russian replay_e13s04_a4e4f076:
-
-    # nk "*Loud moans* Yes, fuck… Yes! I love you, [mcname]."
-    nk "*громко стонет* Да, бля.. Да! Я люблю тебя, [mcname]."
 
 # game/code/e13/e13s04.rpy:207
 translate russian replay_e13s04_dd27a96a:
