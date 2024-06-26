@@ -370,3 +370,15 @@ translate chinese strings:
     old "Connect Your Toy"
     new "连接玩具"
 
+# TODO: Translation updated at 2024-06-26 17:51
+
+translate chinese strings:
+
+    # game/code/screens/screens.rpy:886
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+    # game/code/screens/screens.rpy:1056
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"
+

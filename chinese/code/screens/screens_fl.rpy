@@ -313,3 +313,15 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:180
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
     new "如果您决定继续游戏，则可能无法载入第二周的存档。您不会再收到通知了。确定继续吗？"
+
+    # game/code/screens/screens_fl.rpy:1304
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+    # game/code/screens/screens_fl.rpy:1306
+    old "Upload Saves"
+    new "Upload Saves"
+
+    # game/code/screens/screens_fl.rpy:1307
+    old "Download Saves"
+    new "Download Saves"

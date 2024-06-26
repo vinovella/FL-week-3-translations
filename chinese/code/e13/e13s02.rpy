@@ -364,3 +364,17 @@ translate chinese strings:
     old "Fuck Her Anally"
     new "操她的肛门"
 
+# TODO: Translation updated at 2024-06-26 17:51
+
+# game/code/e13/e13s02.rpy:86
+translate chinese e13s02_e5e5853b:
+
+    # "Customer" "Aww, but..."
+    "Customer" "Aww, but..."
+
+# game/code/e13/e13s02.rpy:200
+translate chinese replay_e13s02_e2a7aa61:
+
+    # nk "Actually... You know what? Sit down."
+    nk "Actually... You know what? Sit down."
+

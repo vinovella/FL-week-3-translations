@@ -394,3 +394,31 @@ translate chinese strings:
     old "Ending 07: Lydia & AmRose"
     new "结局07：莉迪亚和爱洛丝"
 
+# TODO: Translation updated at 2024-06-26 17:51
+
+translate chinese strings:
+
+    # game/code/data/extended/replay_room.rpy:103
+    old "Ending 05: Oliver"
+    new "Ending 05: Oliver"
+
+    # game/code/data/extended/replay_room.rpy:103
+    old "Ending 05: Lyssa"
+    new "Ending 05: Lyssa"
+
+    # game/code/data/extended/replay_room.rpy:180
+    old "Ending 16: Jessie and Molly"
+    new "Ending 16: Jessie and Molly"
+
+    # game/code/data/extended/replay_room.rpy:180
+    old "Ending 16: Jessie and Kanya"
+    new "Ending 16: Jessie and Kanya"
+
+    # game/code/data/extended/replay_room.rpy:180
+    old "Ending 16: Sage and Kristen"
+    new "Ending 16: Sage and Kristen"
+
+    # game/code/data/extended/replay_room.rpy:180
+    old "Ending 16: Jessie, Molly, Sage & Kristen"
+    new "Ending 16: Jessie, Molly, Sage & Kristen"
+

@@ -1357,3 +1357,28 @@ translate chinese strings:
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
     new "让莉迪亚失望，成为失败者。"
+
+    # game/code/hints.rpy:5
+    old "You take Oliver's anal virginity."
+    new "You take Oliver's anal virginity."
+
+    # game/code/hints.rpy:5
+    old "Lyssa takes Oliver's anal virginity."
+    new "Lyssa takes Oliver's anal virginity."
+
+    # game/code/hints.rpy:5
+    old "Oliver will felch out his own cum."
+    new "Oliver will felch out his own cum."
+
+    # game/code/hints.rpy:5
+    old "Oliver will lick up his own cum."
+    new "Oliver will lick up his own cum."
+
+    # game/code/hints.rpy:5
+    old "You eat the cum off Oliver's face."
+    new "You eat the cum off Oliver's face."
+
+    # game/code/hints.rpy:5
+    old "You don't eat the cum off Oliver's face."
+    new "You don't eat the cum off Oliver's face."
+

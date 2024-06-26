@@ -234,3 +234,19 @@ translate chinese strings:
     old "Ending 07: Girls"
     new "结局07:女孩们"
 
+# TODO: Translation updated at 2024-06-26 17:51
+
+translate chinese strings:
+
+    # game/code/data/extended/cg_gallery.rpy:79
+    old "Ending 05: Lyssa & Oliver"
+    new "Ending 05: Lyssa & Oliver"
+
+    # game/code/data/extended/cg_gallery.rpy:122
+    old "Ending 16: Jessie & Kanya"
+    new "Ending 16: Jessie & Kanya"
+
+    # game/code/data/extended/cg_gallery.rpy:122
+    old "Ending 16: Farm Animals"
+    new "Ending 16: Farm Animals"
+
