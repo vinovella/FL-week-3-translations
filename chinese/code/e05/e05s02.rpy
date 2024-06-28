@@ -4,151 +4,151 @@
 translate chinese e05s02_e0133776:
 
     # op "Good morning, [mcname] and Ms. Harris."
-    op "Good morning, [mcname] and Ms. Harris."
+    op "早上好，[mcname]，哈里斯小姐。"
 
 # game/code/e05/e05s02.rpy:66
 translate chinese e05s02_099326c3:
 
     # mh "Please, Ollie. You need to stop calling me Ms. Harris."
-    mh "Please, Ollie. You need to stop calling me Ms. Harris."
+    mh "求你了，奥利。你不能再叫我小姐了。"
 
 # game/code/e05/e05s02.rpy:69
 translate chinese e05s02_e6591b11:
 
     # op "I know, I... Uhm... I'll get better at it, Lyssa."
-    op "I know, I... Uhm... I'll get better at it, Lyssa."
+    op "我知道，我... 呃...我会改进的，丽莎。"
 
 # game/code/e05/e05s02.rpy:71
 translate chinese e05s02_9196e3a8:
 
     # mh "Good, because otherwise I may have to punish you."
-    mh "Good, because otherwise I may have to punish you."
+    mh "很好，否则我就要惩罚你了。"
 
 # game/code/e05/e05s02.rpy:76
 translate chinese e05s02_04a8859c:
 
     # op "*GULP*"
-    op "*GULP*"
+    op "*吞口水*"
 
 # game/code/e05/e05s02.rpy:79
 translate chinese e05s02_9f67d423:
 
     # mc "I don't know, Lyssa. He might like that and never stop then!"
-    mc "I don't know, Lyssa. He might like that and never stop then!"
+    mc "这可说不好，丽莎。他可能会喜欢你的惩罚，从此一发不可收拾！"
 
 # game/code/e05/e05s02.rpy:82
 translate chinese e05s02_86ed5fd2:
 
     # mc "I brought you a coffee, Oliver."
-    mc "I brought you a coffee, Oliver."
+    mc "我给你带了咖啡，奥利弗。"
 
 # game/code/e05/e05s02.rpy:85
 translate chinese e05s02_bf7a3738:
 
     # op "You... You did what?"
-    op "You... You did what?"
+    op "你... 你干嘛了？"
 
 # game/code/e05/e05s02.rpy:88
 translate chinese e05s02_bc69da32:
 
     # mc "Coffee. Red eye, with a sugar. Right?"
-    mc "Coffee. Red eye, with a sugar. Right?"
+    mc "咖啡啊。红眼咖啡，加糖。对吗？"
 
 # game/code/e05/e05s02.rpy:91
 translate chinese e05s02_a69b771e:
 
     # op "Yeah, that's exactly right... Wow."
-    op "Yeah, that's exactly right... Wow."
+    op "是的，完全正确... 哇！"
 
 # game/code/e05/e05s02.rpy:93
 translate chinese e05s02_8aa14c4d:
 
     # mc "Why are you surprised?"
-    mc "Why are you surprised?"
+    mc "你为什么要感到惊讶？"
 
 # game/code/e05/e05s02.rpy:94
 translate chinese e05s02_90bb689c:
 
     # op "I guess, I'm... Just not used to this yet."
-    op "I guess, I'm... Just not used to this yet."
+    op "我想，我... 只是还不习惯。"
 
 # game/code/e05/e05s02.rpy:97
 translate chinese e05s02_58ef55af:
 
     # mc "Well, you better get used to it."
-    mc "Well, you better get used to it."
+    mc "哈，那你最好习惯一下。"
 
 # game/code/e05/e05s02.rpy:105
 translate chinese e05s02_d86d0161:
 
     # mh "Anything for this morning, Oliver?"
-    mh "Anything for this morning, Oliver?"
+    mh "今天早上有什么事吗，奥利弗？"
 
 # game/code/e05/e05s02.rpy:108
 translate chinese e05s02_269aa055:
 
     # op "Yes, Ms- Lyssa. You actually received a message from a..."
-    op "Yes, Ms- Lyssa. You actually received a message from a..."
+    op "有的，小--丽莎。实际上有一条给你的消息，来自..."
 
 # game/code/e05/e05s02.rpy:109
 translate chinese e05s02_a9f4d0a3:
 
     # op "Taisia Lindquist. She was arrested last night on a charge of drunken disorderly and aggravated assault."
-    op "Taisia Lindquist. She was arrested last night on a charge of drunken disorderly and aggravated assault."
+    op "一个叫泰西娅·林奎斯特的。她昨晚被捕了，罪名是酗酒闹事和严重伤人。"
 
 # game/code/e05/e05s02.rpy:110
 translate chinese e05s02_d3cd0def:
 
     # op "The police report indicates that she was outside of a bar, intoxicated, when she got into a fight with another patron."
-    op "The police report indicates that she was outside of a bar, intoxicated, when she got into a fight with another patron."
+    op "警方报告显示，她在酒吧外面喝醉了，然后和另一个顾客打了起来。"
 
 # game/code/e05/e05s02.rpy:111
 translate chinese e05s02_83577c19:
 
     # op "She's got an appointment scheduled for noon. I already placed it on your calendar."
-    op "She's got an appointment scheduled for noon. I already placed it on your calendar."
+    op "她中午预约了见面。我已经记在你的日程表上了。"
 
 # game/code/e05/e05s02.rpy:114
 translate chinese e05s02_57e9dab3:
 
     # mh "You already pulled the police report and scheduled her for a consult?"
-    mh "You already pulled the police report and scheduled her for a consult?"
+    mh "你已经调出了警方报告，还为她安排了咨询？"
 
 # game/code/e05/e05s02.rpy:116
 translate chinese e05s02_7be4683e:
 
     # op "I did. I've also pulled her arrest record, home address, and any other relevant information I could find."
-    op "I did. I've also pulled her arrest record, home address, and any other relevant information I could find."
+    op "是的。我还调出了她的逮捕记录、家庭住址，还有我能找到的其他相关信息。"
 
 # game/code/e05/e05s02.rpy:117
 translate chinese e05s02_9016c1af:
 
     # mh "Wow, Oliver. Thank you, that's great."
-    mh "Wow, Oliver. Thank you, that's great."
+    mh "哇，奥利弗。谢谢你，你太棒了。"
 
 # game/code/e05/e05s02.rpy:120
 translate chinese e05s02_ff84a5ea:
 
     # mc "Sounds like you should tell him, Lyssa."
-    mc "Sounds like you should tell him, Lyssa."
+    mc "听起来你应该告诉他，丽莎。"
 
 # game/code/e05/e05s02.rpy:123
 translate chinese e05s02_15ec6684:
 
     # op "Tell me what?"
-    op "Tell me what?"
+    op "告诉我什么？"
 
 # game/code/e05/e05s02.rpy:126
 translate chinese e05s02_b11688d5:
 
     # mh "I don't know, [mcname]. I'm not sure he's ready."
-    mh "I don't know, [mcname]. I'm not sure he's ready."
+    mh "我不知道，[mcname]。我不确定他是否准备好了。"
 
 # game/code/e05/e05s02.rpy:129
 translate chinese e05s02_a3c9b5d2:
 
     # op "Ready for what?"
-    op "Ready for what?"
+    op "准备好什么？"
 
 # game/code/e05/e05s02.rpy:131
 translate chinese e05s02_0ec427d2:
