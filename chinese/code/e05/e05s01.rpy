@@ -1822,7 +1822,7 @@ translate chinese e05s01_sex_end_8f9e0ac5:
 translate chinese e05s01_sex_end_8fd7233d:
 
     # mc "Oh, you have no idea."
-    mc "哦，你都不知道。"
+    mc "哦，你完全想象不到。"
 
 # game/code/e05/e05s01.rpy:1181
 translate chinese e05s01_sex_end_5f895db7:
