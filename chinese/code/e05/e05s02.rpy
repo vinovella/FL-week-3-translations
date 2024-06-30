@@ -1066,879 +1066,879 @@ translate chinese e05s02_sex_af369004:
 translate chinese e05s02_sex_2ad12fcc:
 
     # mc "Oliver gave a hell of a blowjob with your help, but this is also amazing."
-    mc "Oliver gave a hell of a blowjob with your help, but this is also amazing."
+    mc "奥利弗在你的帮助下口交得很爽，但这个也很棒。"
 
 # game/code/e05/e05s02.rpy:612
 translate chinese e05s02_sex_f7a4f690:
 
     # mc "But I can't tell which is better."
-    mc "But I can't tell which is better."
+    mc "只是我已经分不清哪个感觉更好。"
 
 # game/code/e05/e05s02.rpy:616
 translate chinese e05s02_sex_7e257ceb:
 
     # mc "Mmm, I-"
-    mc "Mmm, I-"
+    mc "嗯，我--"
 
 # game/code/e05/e05s02.rpy:617
 translate chinese e05s02_sex_c80be5fc:
 
     # mc "Oh, holy shit! Lyssa, what are you doing with your tooongguue!"
-    mc "Oh, holy shit! Lyssa, what are you doing with your tooongguue!"
+    mc "哦，我去！丽莎，你的舌头在干嘛呢！"
 
 # game/code/e05/e05s02.rpy:619
 translate chinese e05s02_sex_8ed499b0:
 
     # mc "I'm sorry I ever doubted you!!!"
-    mc "I'm sorry I ever doubted you!!!"
+    mc "对不起，我曾经竟然怀疑过你!!!"
 
 # game/code/e05/e05s02.rpy:622
 translate chinese e05s02_sex_70ab16cd:
 
     # mc "Fuhhh- Fuuuuck, Lyssa! I'm going to cum if you keep that up!"
-    mc "Fuhhh- Fuuuuck, Lyssa! I'm going to cum if you keep that up!"
+    mc "哦-操操操，丽莎！你再这样我就要射了！"
 
 # game/code/e05/e05s02.rpy:629
 translate chinese e05s02_sex_63ad68c5:
 
     # mh "Now we can't have that. We've still got our Oliver to please."
-    mh "Now we can't have that. We've still got our Oliver to please."
+    mh "现在可不行。我们还要取悦奥利弗呢。"
 
 # game/code/e05/e05s02.rpy:632
 translate chinese e05s02_sex_fc1c7455:
 
     # mh "In fact, I think we should give him a special treat."
-    mh "In fact, I think we should give him a special treat."
+    mh "事实上，我觉得我们应该给他点特别款待。"
 
 # game/code/e05/e05s02.rpy:634
 translate chinese e05s02_sex_2484045d:
 
     # op "W-what treat?"
-    op "W-what treat?"
+    op "什么特别款待？"
 
 # game/code/e05/e05s02.rpy:637
 translate chinese e05s02_sex_351e8840:
 
     # mc "You're right, Lyssa. I think it's time we take Oliver's virginity."
-    mc "You're right, Lyssa. I think it's time we take Oliver's virginity."
+    mc "你说得对，丽莎。我觉得是时候让奥利弗破处了。"
 
 # game/code/e05/e05s02.rpy:640
 translate chinese e05s02_sex_1f94363c:
 
     # op "Wait, but..."
-    op "Wait, but..."
+    op "等等，但是..."
 
 # game/code/e05/e05s02.rpy:642
 translate chinese e05s02_sex_f5743e4e:
 
     # op "You already took my virginity, [mcname]... Don't you remember?"
-    op "You already took my virginity, [mcname]... Don't you remember?"
+    op "你已经给我破处了，[mcname]...你不记得了吗？"
 
 # game/code/e05/e05s02.rpy:644
 translate chinese e05s02_sex_0637dbca:
 
     # op "Lyssa took my virginity already... Remember?"
-    op "Lyssa took my virginity already... Remember?"
+    op "丽莎已经给我破处了...还记得吗？"
 
 # game/code/e05/e05s02.rpy:647
 translate chinese e05s02_sex_075a29ac:
 
     # mc "{i}One of{/i} your virginities."
-    mc "{i}One of{/i} your virginities."
+    mc "破了你的{i}其中一处{/i}。"
 
 # game/code/e05/e05s02.rpy:649
 translate chinese e05s02_sex_511f3ed3:
 
     # op "Whaa..."
-    op "Whaa..."
+    op "喔..."
 
 # game/code/e05/e05s02.rpy:650
 translate chinese e05s02_sex_fa1e3a4c:
 
     # mc "No one's popped your anal cherry yet."
-    mc "No one's popped your anal cherry yet."
+    mc "还没人爆过你的菊花。"
 
 # game/code/e05/e05s02.rpy:653
 translate chinese e05s02_sex_f4ccf6e8:
 
     # op "Oh, uhm..."
-    op "Oh, uhm..."
+    op "哦，呃..."
 
 # game/code/e05/e05s02.rpy:655
 translate chinese e05s02_sex_5b7dbf21:
 
     # mh "And I think now is as good a time as any, Ollie. So who would you like to do it?"
-    mh "And I think now is as good a time as any, Ollie. So who would you like to do it?"
+    mh "我想现在是个好时机，奥利。你想让谁来呢？"
 
 # game/code/e05/e05s02.rpy:657
 translate chinese e05s02_sex_5d6809d3:
 
     # op "I-I...I..."
-    op "I-I...I..."
+    op "我...我..."
 
 # game/code/e05/e05s02.rpy:664
 translate chinese e05s02_sex_2d0360e0:
 
     # mc "Oliver..."
-    mc "Oliver..."
+    mc "奥利弗..."
 
 # game/code/e05/e05s02.rpy:666
 translate chinese e05s02_sex_984e416f:
 
     # op "Y-yes, [mcname]?"
-    op "Y-yes, [mcname]?"
+    op "呃-啊，[mcname]？"
 
 # game/code/e05/e05s02.rpy:668
 translate chinese e05s02_sex_d2e1f34c:
 
     # mc "No matter who you pick-"
-    mc "No matter who you pick-"
+    mc "不管你选谁--"
 
 # game/code/e05/e05s02.rpy:671
 translate chinese e05s02_sex_e4b6aa16:
 
     # op "I want it to be you."
-    op "I want it to be you."
+    op "我希望是你。"
 
 # game/code/e05/e05s02.rpy:674
 translate chinese e05s02_sex_4c10071e:
 
     # mc "Oh! Well, I'd be honored."
-    mc "Oh! Well, I'd be honored."
+    mc "哦！那我很荣幸。"
 
 # game/code/e05/e05s02.rpy:680
 translate chinese e05s02_sex_9b1fe30a:
 
     # op "Uhm... Lyssa, can it be you?"
-    op "Uhm... Lyssa, can it be you?"
+    op "呃...丽莎，可以是你吗？"
 
 # game/code/e05/e05s02.rpy:682
 translate chinese e05s02_sex_198f0585:
 
     # mh "Of course, Oliver."
-    mh "Of course, Oliver."
+    mh "当然可以，奥利弗。"
 
 # game/code/e05/e05s02.rpy:685
 translate chinese e05s02_sex_607f8dc3:
 
     # op "And it's nothing against you, [mcname]-"
-    op "And it's nothing against you, [mcname]-"
+    op "这不是针对你，[mcname]--"
 
 # game/code/e05/e05s02.rpy:687
 translate chinese e05s02_sex_8a093c05:
 
     # mc "It's okay, Ollie. You don't need to justify anything. You want what you want. There will be plenty of opportunity later for us."
-    mc "It's okay, Ollie. You don't need to justify anything. You want what you want. There will be plenty of opportunity later for us."
+    mc "没关系，奥利弗。你不需要为任何事辩解。你想要什么都可以得到。我们以后有的是机会。"
 
 # game/code/e05/e05s02.rpy:697
 translate chinese e05s02_mc_takes_opanalvirginity_70e85b65:
 
     # mc "Stand up, Ollie. And bend over the desk."
-    mc "Stand up, Ollie. And bend over the desk."
+    mc "站起来，奥利。弯腰趴在桌子上。"
 
 # game/code/e05/e05s02.rpy:703
 translate chinese e05s02_mc_takes_opanalvirginity_13f3c3ef:
 
     # mc "Are you ready?"
-    mc "Are you ready?"
+    mc "准备好了吗？"
 
 # game/code/e05/e05s02.rpy:706
 translate chinese e05s02_mc_takes_opanalvirginity_b8de3d39:
 
     # op "Mmhmmm."
-    op "Mmhmmm."
+    op "嗯嗯嗯。"
 
 # game/code/e05/e05s02.rpy:710
 translate chinese e05s02_mc_takes_opanalvirginity_26ec6880:
 
     # mc "Damn, you just have that ready?"
-    mc "Damn, you just have that ready?"
+    mc "妈的，你这就是准备好了？"
 
 # game/code/e05/e05s02.rpy:712
 translate chinese e05s02_mc_takes_opanalvirginity_7662d3aa:
 
     # mh "You never know when you're going to need a little bit of lube. Especially with you around, [mcname]."
-    mh "You never know when you're going to need a little bit of lube. Especially with you around, [mcname]."
+    mh "你永远不知道什么时候会需要一点润滑剂。特别是有你在的时候，[mcname]。"
 
 # game/code/e05/e05s02.rpy:714
 translate chinese e05s02_mc_takes_opanalvirginity_d5ae2301:
 
     # mc "Fair enough."
-    mc "Fair enough."
+    mc "有道理。"
 
 # game/code/e05/e05s02.rpy:718
 translate chinese e05s02_mc_takes_opanalvirginity_1075f3b2:
 
     # mh "Is it okay if I have my own little bit of fun?"
-    mh "Is it okay if I have my own little bit of fun?"
+    mh "我可以自己找点乐子吗？"
 
 # game/code/e05/e05s02.rpy:720
 translate chinese e05s02_mc_takes_opanalvirginity_322dd3e5:
 
     # mc "Of course, Lyssa!"
-    mc "Of course, Lyssa!"
+    mc "当然可以，丽莎！"
 
 # game/code/e05/e05s02.rpy:726
 translate chinese e05s02_mc_takes_opanalvirginity_873af375:
 
     # op "Oh my God-!"
-    op "Oh my God-!"
+    op "我的个--！"
 
 # game/code/e05/e05s02.rpy:728
 translate chinese e05s02_mc_takes_opanalvirginity_95c7633a:
 
     # mc "Are you okay?"
-    mc "Are you okay?"
+    mc "你还好吗？"
 
 # game/code/e05/e05s02.rpy:730
 translate chinese e05s02_mc_takes_opanalvirginity_c6d9c075:
 
     # op "Mmmhmmmmm! Just, uhm, take it slow please."
-    op "Mmmhmmmmm! Just, uhm, take it slow please."
+    op "哼嗯嗯嗯！那个，呃，求你慢慢来。"
 
 # game/code/e05/e05s02.rpy:731
 translate chinese e05s02_mc_takes_opanalvirginity_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然。"
 
 # game/code/e05/e05s02.rpy:741
 translate chinese e05s02_mc_takes_opanalvirginity_af2fac54:
 
     # mc "That okay?"
-    mc "That okay?"
+    mc "可以吗？"
 
 # game/code/e05/e05s02.rpy:742
 translate chinese e05s02_mc_takes_opanalvirginity_03ae6468:
 
     # op "Mmmhmmm, I-I think so. You c-can start thrusting."
-    op "Mmmhmmm, I-I think so. You c-can start thrusting."
+    op "嗯嗯嗯，应-应该可以的。你可以--开始用力了。"
 
 # game/code/e05/e05s02.rpy:745
 translate chinese e05s02_mc_takes_opanalvirginity_f3a0ff37:
 
     # mc "How's that, Ollie?"
-    mc "How's that, Ollie?"
+    mc "现在怎么样，奥利？"
 
 # game/code/e05/e05s02.rpy:746
 translate chinese e05s02_mc_takes_opanalvirginity_d9a5988f:
 
     # op "It's good... I-I think you can start going a little faster."
-    op "It's good... I-I think you can start going a little faster."
+    op "很好...我-我觉得你可以再快一点。"
 
 # game/code/e05/e05s02.rpy:748
 translate chinese e05s02_mc_takes_opanalvirginity_c3229218:
 
     # mc "I'll keep it slow, just a little bit longer."
-    mc "I'll keep it slow, just a little bit longer."
+    mc "我会保持慢速，再慢一点。"
 
 # game/code/e05/e05s02.rpy:749
 translate chinese e05s02_mc_takes_opanalvirginity_0653d71b:
 
     # mc "Because, holy shit your ass is soooo tight, Oliver. It's amazing."
-    mc "Because, holy shit your ass is soooo tight, Oliver. It's amazing."
+    mc "因为，你的屁股太紧了，奥利弗。紧的要人命。"
 
 # game/code/e05/e05s02.rpy:751
 translate chinese e05s02_mc_takes_opanalvirginity_6050d384:
 
     # op "Wow. T-thank you, [mcname]."
-    op "Wow. T-thank you, [mcname]."
+    op "哇，谢谢你，[mcname]。"
 
 # game/code/e05/e05s02.rpy:752
 translate chinese e05s02_mc_takes_opanalvirginity_833dfcdd:
 
     # mc "No, no. Thank {i}you{/i}!"
-    mc "No, no. Thank {i}you{/i}!"
+    mc "不对，应该我说，谢谢{i}你{/i}！"
 
 # game/code/e05/e05s02.rpy:754
 translate chinese e05s02_mc_takes_opanalvirginity_f895963f:
 
     # mc "And whatever Lyssa is doing is also amazing. I can feel her tongue swirling around my asshole and fuuuucking hell."
-    mc "And whatever Lyssa is doing is also amazing. I can feel her tongue swirling around my asshole and fuuuucking hell."
+    mc "还有不管丽莎在鼓捣什么，感觉也很棒。我能感觉到她的舌头在我屁眼里打转，真他妈爽！"
 
 # game/code/e05/e05s02.rpy:756
 translate chinese e05s02_mc_takes_opanalvirginity_fd361fce:
 
     # op "Oh, oh- fuuuhhhnnnngggg."
-    op "Oh, oh- fuuuhhhnnnngggg."
+    op "哦，哦--操操操。"
 
 # game/code/e05/e05s02.rpy:757
 translate chinese e05s02_mc_takes_opanalvirginity_845c4c57:
 
     # mc "What was that?"
-    mc "What was that?"
+    mc "现在怎么样？"
 
 # game/code/e05/e05s02.rpy:758
 translate chinese e05s02_mc_takes_opanalvirginity_3e6c8bd9:
 
     # op "Fuh-fuh-fuh, it's starting to feel really, {i}really{/i} good."
-    op "Fuh-fuh-fuh, it's starting to feel really, {i}really{/i} good."
+    op "操-操-操，开始感觉非常，{i}非常{/i}舒服了。"
 
 # game/code/e05/e05s02.rpy:759
 translate chinese e05s02_mc_takes_opanalvirginity_64517f47:
 
     # mc "Oh if that's the case..."
-    mc "Oh if that's the case..."
+    mc "哦，如果是这样的话..."
 
 # game/code/e05/e05s02.rpy:761
 translate chinese e05s02_mc_takes_opanalvirginity_bfb0d30a:
 
     # op "Oh my- Oh my- Yeesssss!"
-    op "Oh my- Oh my- Yeesssss!"
+    op "哦，我的--天哪天哪--要死了啊！"
 
 # game/code/e05/e05s02.rpy:762
 translate chinese e05s02_mc_takes_opanalvirginity_0a898fa6:
 
     # op "[mcname]- [mcname]- Oh my God!"
-    op "[mcname]- [mcname]- Oh my God!"
+    op "[mcname]--[mcname]--我的天！"
 
 # game/code/e05/e05s02.rpy:766
 translate chinese e05s02_mc_takes_opanalvirginity_07cf393a:
 
     # mc "Oh fuuuck, Oliver your ass is squeezing my dick even tighter!"
-    mc "Oh fuuuck, Oliver your ass is squeezing my dick even tighter!"
+    mc "操，奥利弗，你的屁股把我的老二挤得更紧了！"
 
 # game/code/e05/e05s02.rpy:767
 translate chinese e05s02_mc_takes_opanalvirginity_6a2aa570:
 
     # mc "Ohh frruuuccmmmm! Fuuuuck yes!"
-    mc "Ohh frruuuccmmmm! Fuuuuck yes!"
+    mc "哦哦噢噢，真他妈爽死了！"
 
 # game/code/e05/e05s02.rpy:770
 translate chinese e05s02_mc_takes_opanalvirginity_ba50a96d:
 
     # mh "Are you getting close, [mcname]?"
-    mh "Are you getting close, [mcname]?"
+    mh "你快射了吗，[mcname]?"
 
 # game/code/e05/e05s02.rpy:771
 translate chinese e05s02_mc_takes_opanalvirginity_8fa51bbe:
 
     # mc "Yeah, ohhhh fuuuuck, yeah."
-    mc "Yeah, ohhhh fuuuuck, yeah."
+    mc "啊，我操，快了。"
 
 # game/code/e05/e05s02.rpy:777
 translate chinese e05s02_mc_takes_opanalvirginity_ae0484b5:
 
     # mh "Mmmm, I want a turn with you, [mcname]."
-    mh "Mmmm, I want a turn with you, [mcname]."
+    mh "嗯，我想和你来一发，[mcname]。"
 
 # game/code/e05/e05s02.rpy:779
 translate chinese e05s02_mc_takes_opanalvirginity_0d582a2c:
 
     # mh "After eating your ass, I just need to feel you wrapped around my cock."
-    mh "After eating your ass, I just need to feel you wrapped around my cock."
+    mh "吃完你的屁股，我只想感受你包裹着我的鸡巴。"
 
 # game/code/e05/e05s02.rpy:781
 translate chinese e05s02_mc_takes_opanalvirginity_45b7873c:
 
     # mh "It looks like Ollie isn't the only one who's going to have his anal cherry popped today."
-    mh "It looks like Ollie isn't the only one who's going to have his anal cherry popped today."
+    mh "看来奥利不是唯一一个今天会被爆菊的人。"
 
 # game/code/e05/e05s02.rpy:789
 translate chinese e05s02_mh_takes_opanalvirginity_15121ba1:
 
     # mh "I'm delighted that I get to take your virginity, Oliver."
-    mh "I'm delighted that I get to take your virginity, Oliver."
+    mh "我很高兴能夺走你的第一次，奥利弗。"
 
 # game/code/e05/e05s02.rpy:792
 translate chinese e05s02_mh_takes_opanalvirginity_f828baf3:
 
     # op "Oh my God..."
-    op "Oh my God..."
+    op "老天啊..."
 
 # game/code/e05/e05s02.rpy:794
 translate chinese e05s02_mh_takes_opanalvirginity_793d4b0b:
 
     # mh "Now, bend over the desk like a good boy."
-    mh "Now, bend over the desk like a good boy."
+    mh "现在，像个好孩子一样趴在桌子上。"
 
 # game/code/e05/e05s02.rpy:796
 translate chinese e05s02_mh_takes_opanalvirginity_d08f8943:
 
     # op "Yes, Ms. Harris."
-    op "Yes, Ms. Harris."
+    op "遵命，哈里斯女生。"
 
 # game/code/e05/e05s02.rpy:806
 translate chinese e05s02_mh_takes_opanalvirginity_61bf967a:
 
     # mc "Oh, just keeping lube out in the open? You little perv, Lyssa."
-    mc "Oh, just keeping lube out in the open? You little perv, Lyssa."
+    mc "哦，把润滑油放在外面？你这个小变态，丽莎。"
 
 # game/code/e05/e05s02.rpy:809
 translate chinese e05s02_mh_takes_opanalvirginity_8654576d:
 
     # mh "I suddenly started needing it more ever since you showed up, [mcname]. So who's the real perv?"
-    mh "I suddenly started needing it more ever since you showed up, [mcname]. So who's the real perv?"
+    mh "[mcname]，自从你出现后，我突然更需要它了。所以谁才是真正的变态？"
 
 # game/code/e05/e05s02.rpy:811
 translate chinese e05s02_mh_takes_opanalvirginity_8d84c26d:
 
     # mc "You've got a good point there."
-    mc "You've got a good point there."
+    mc "你说得很有道理。"
 
 # game/code/e05/e05s02.rpy:812
 translate chinese e05s02_mh_takes_opanalvirginity_7bdb44e1:
 
     # mc "Can I have a little bit of that too?"
-    mc "Can I have a little bit of that too?"
+    mc "我也能来一点吗？"
 
 # game/code/e05/e05s02.rpy:814
 translate chinese e05s02_mh_takes_opanalvirginity_2ded0c9b:
 
     # mh "Oh? Someone planning on something back there?"
-    mh "Oh? Someone planning on something back there?"
+    mh "哦？有人在后面打什么主意？"
 
 # game/code/e05/e05s02.rpy:816
 translate chinese e05s02_mh_takes_opanalvirginity_2e3ac47e:
 
     # mc "I figured, why should you have all the fun?"
-    mc "I figured, why should you have all the fun?"
+    mc "我在想，你为什么要独享乐趣呢？"
 
 # game/code/e05/e05s02.rpy:819
 translate chinese e05s02_mh_takes_opanalvirginity_09ad0bec:
 
     # mh "Are you ready, Oliver."
-    mh "Are you ready, Oliver."
+    mh "准备好了吗，奥利弗？"
 
 # game/code/e05/e05s02.rpy:821
 translate chinese e05s02_mh_takes_opanalvirginity_1a4abdb8:
 
     # op "God, yes, Ms. Harris."
-    op "God, yes, Ms. Harris."
+    op "呼，准备好了，哈里斯女士。"
 
 # game/code/e05/e05s02.rpy:824
 translate chinese e05s02_mh_takes_opanalvirginity_2bdcac86:
 
     # mh "Good boy."
-    mh "Good boy."
+    mh "好孩子。"
 
 # game/code/e05/e05s02.rpy:829
 translate chinese e05s02_mh_takes_opanalvirginity_c4dd4e44:
 
     # op "Nnnggghgh."
-    op "Nnnggghgh."
+    op "呃呃呃哼嗯。"
 
 # game/code/e05/e05s02.rpy:831
 translate chinese e05s02_mh_takes_opanalvirginity_9ea6da9d:
 
     # mh "Are you okay?"
-    mh "Are you okay?"
+    mh "你还好吗？"
 
 # game/code/e05/e05s02.rpy:832
 translate chinese e05s02_mh_takes_opanalvirginity_3014999a:
 
     # op "Uh huh, just keep going."
-    op "Uh huh, just keep going."
+    op "嗯哼，继续。"
 
 # game/code/e05/e05s02.rpy:836
 translate chinese e05s02_mh_takes_opanalvirginity_d9fb9ad3:
 
     # op "NnnnGHGHHH!"
-    op "NnnnGHGHHH!"
+    op "哦哦噢噢！"
 
 # game/code/e05/e05s02.rpy:838
 translate chinese e05s02_mh_takes_opanalvirginity_31caae0f:
 
     # mh "Oliver?"
-    mh "Oliver?"
+    mh "奥利弗？"
 
 # game/code/e05/e05s02.rpy:839
 translate chinese e05s02_mh_takes_opanalvirginity_6db4bfef:
 
     # op "I'm fine, j-just give me a second to adjust."
-    op "I'm fine, j-just give me a second to adjust."
+    op "我没事，给我点时间适应一下。"
 
 # game/code/e05/e05s02.rpy:842
 translate chinese e05s02_mh_takes_opanalvirginity_9537b4af:
 
     # mc "Don't break him."
-    mc "Don't break him."
+    mc "别弄伤他了。"
 
 # game/code/e05/e05s02.rpy:844
 translate chinese e05s02_mh_takes_opanalvirginity_cb8d6510:
 
     # mh "I won't."
-    mh "I won't."
+    mh "我不会的。"
 
 # game/code/e05/e05s02.rpy:845
 translate chinese e05s02_mh_takes_opanalvirginity_8dfc8864:
 
     # mc "Good, because then I'd have to take it out on your asshole."
-    mc "Good, because then I'd have to take it out on your asshole."
+    mc "很好，因为那样，我就得拿你的屁眼出气了。"
 
 # game/code/e05/e05s02.rpy:849
 translate chinese e05s02_mh_takes_opanalvirginity_2686c264:
 
     # mh "Mmmmmmm!"
-    mh "Mmmmmmm!"
+    mh "嗯嗯嗯嗯嗯！"
 
 # game/code/e05/e05s02.rpy:851
 translate chinese e05s02_mh_takes_opanalvirginity_edc32f33:
 
     # op "Oh God!"
-    op "Oh God!"
+    op "天啊！"
 
 # game/code/e05/e05s02.rpy:854
 translate chinese e05s02_mh_takes_opanalvirginity_10ddaaca:
 
     # mh "What's happening, Oliver?"
-    mh "What's happening, Oliver?"
+    mh "怎么了，奥利弗？"
 
 # game/code/e05/e05s02.rpy:856
 translate chinese e05s02_mh_takes_opanalvirginity_9617edb7:
 
     # op "I-I felt your dick twitch when [mcname] put his d-dick in you."
-    op "I-I felt your dick twitch when [mcname] put his d-dick in you."
+    op "当[mcname]把他的鸡-鸡巴插你身体时，我-我感觉你的鸡巴在抽搐。"
 
 # game/code/e05/e05s02.rpy:857
 translate chinese e05s02_mh_takes_opanalvirginity_03f8933c:
 
     # op "But I- I think I'm ready for you to... To fu-fuck me, Ms. Harris."
-    op "But I- I think I'm ready for you to... To fu-fuck me, Ms. Harris."
+    op "但是我觉得--我已经准备好让你...上-上我了，哈里斯女士。"
 
 # game/code/e05/e05s02.rpy:865
 translate chinese e05s02_mh_takes_opanalvirginity_04fcfc4f:
 
     # op "M-Ms. H-Harris-s!"
-    op "M-Ms. H-Harris-s!"
+    op "小--哈-里斯-小-姐！"
 
 # game/code/e05/e05s02.rpy:866
 translate chinese e05s02_mh_takes_opanalvirginity_4ba5fcc1:
 
     # mh "Mmmmmmph! Yes, Oliver?"
-    mh "Mmmmmmph! Yes, Oliver?"
+    mh "噢噢嗯嗯嗯！我在呢，奥利弗？"
 
 # game/code/e05/e05s02.rpy:869
 translate chinese e05s02_mh_takes_opanalvirginity_07825546:
 
     # op "T-This is ah-maz-zing!!"
-    op "T-This is ah-maz-zing!!"
+    op "这--真是--太棒了!!"
 
 # game/code/e05/e05s02.rpy:870
 translate chinese e05s02_mh_takes_opanalvirginity_4d333980:
 
     # mh "Good, because I feel the same! Your ass is unbelievably tight!"
-    mh "Good, because I feel the same! Your ass is unbelievably tight!"
+    mh "很好，因为我也有同感！你的屁股太紧了！"
 
 # game/code/e05/e05s02.rpy:873
 translate chinese e05s02_mh_takes_opanalvirginity_0d5c9249:
 
     # mc "Tighter than you?"
-    mc "Tighter than you?"
+    mc "比你还紧？"
 
 # game/code/e05/e05s02.rpy:874
 translate chinese e05s02_mh_takes_opanalvirginity_7b536a5e:
 
     # mh "He would put me to shame."
-    mh "He would put me to shame."
+    mh "我都不好意思和他比。"
 
 # game/code/e05/e05s02.rpy:877
 translate chinese e05s02_mh_takes_opanalvirginity_41db8c84:
 
     # op "Ohmy, ohmy - Goooooood!"
-    op "Ohmy, ohmy - Goooooood!"
+    op "噢噢--天哪天哪--爽死了！"
 
 # game/code/e05/e05s02.rpy:878
 translate chinese e05s02_mh_takes_opanalvirginity_318dbe0e:
 
     # mc "It sounds like, unnng, he's really enjoying himself!"
-    mc "It sounds like, unnng, he's really enjoying himself!"
+    mc "听起来，唔呼，他真的很享受的样子！"
 
 # game/code/e05/e05s02.rpy:879
 translate chinese e05s02_mh_takes_opanalvirginity_b279b816:
 
     # mh "Mmm-mmmm, I - Oh God - Don't know who's enjoying it more!"
-    mh "Mmm-mmmm, I - Oh God - Don't know who's enjoying it more!"
+    mh "嗯嗯嗯--天啊-我-我都不知道谁更享受！"
 
 # game/code/e05/e05s02.rpy:880
 translate chinese e05s02_mh_takes_opanalvirginity_78343072:
 
     # mh "But I think - mmmmmmpph - Between my dick buried in his tight ass, and your wonderful cock in my ass, that I'm the - fuuuuh - real winner!"
-    mh "But I think - mmmmmmpph - Between my dick buried in his tight ass, and your wonderful cock in my ass, that I'm the - fuuuuh - real winner!"
+    mh "但我想--噢噢噢噢--我的老二埋在他紧的要死的菊花里，而你的超级鸡巴又插在我菊花里，我才是真正的赢家！"
 
 # game/code/e05/e05s02.rpy:885
 translate chinese e05s02_mh_takes_opanalvirginity_413c45ec:
 
     # op "Mmmph - mmmph - mmmph! Lyssa, I fuuuuuh - fuuuuhhck me!"
-    op "Mmmph - mmmph - mmmph! Lyssa, I fuuuuuh - fuuuuhhck me!"
+    op "嗯哼--嗯哼--嗯哼！丽莎，我--操操操--干死我！"
 
 # game/code/e05/e05s02.rpy:888
 translate chinese e05s02_mh_takes_opanalvirginity_f249cbfa:
 
     # mh "God, your ass is so tight!"
-    mh "God, your ass is so tight!"
+    mh "天啊，你的屁股真紧！"
 
 # game/code/e05/e05s02.rpy:891
 translate chinese e05s02_mh_takes_opanalvirginity_c5962517:
 
     # mc "I was just thinking the same thing!"
-    mc "I was just thinking the same thing!"
+    mc "我也是这么想的！"
 
 # game/code/e05/e05s02.rpy:894
 translate chinese e05s02_mh_takes_opanalvirginity_ea6f3311:
 
     # mh "I-I can't keep this up much longer."
-    mh "I-I can't keep this up much longer."
+    mh "我撑不了多久了。"
 
 # game/code/e05/e05s02.rpy:896
 translate chinese e05s02_mh_takes_opanalvirginity_223d5e53:
 
     # mc "I want a turn with Ollie before you cum!"
-    mc "I want a turn with Ollie before you cum!"
+    mc "在你射之前，我想和奥利来一发！"
 
 # game/code/e05/e05s02.rpy:897
 translate chinese e05s02_mh_takes_opanalvirginity_62fd7d0e:
 
     # mh "Mmmm, fuhhhhmmmm!"
-    mh "Mmmm, fuhhhhmmmm!"
+    mh "啊，啊啊啊啊！"
 
 # game/code/e05/e05s02.rpy:904
 translate chinese e05s02_mh_takes_opanalvirginity_179cd659:
 
     # mh "Wooo, that was close."
-    mh "Wooo, that was close."
+    mh "唔呼，真就差点儿。"
 
 # game/code/e05/e05s02.rpy:906
 translate chinese e05s02_mh_takes_opanalvirginity_d0a66137:
 
     # mc "I was getting pretty close too, but I want to save my cum for Oliver."
-    mc "I was getting pretty close too, but I want to save my cum for Oliver."
+    mc "我也快了，但我想把精液留给奥利弗。"
 
 # game/code/e05/e05s02.rpy:907
 translate chinese e05s02_mh_takes_opanalvirginity_53fc09ee:
 
     # mh "We're both on the same page."
-    mh "We're both on the same page."
+    mh "我们都在同一起跑线上。"
 
 # game/code/e05/e05s02.rpy:915
 translate chinese e05s02_end_264d345a:
 
     # mc "Okay, give me like two seconds to calm down."
-    mc "Okay, give me like two seconds to calm down."
+    mc "好吧，给我两秒钟冷静一下。"
 
 # game/code/e05/e05s02.rpy:917
 translate chinese e05s02_end_7f4a0c40:
 
     # mh "Of course."
-    mh "Of course."
+    mh "当然。"
 
 # game/code/e05/e05s02.rpy:920
 translate chinese e05s02_end_85a78874:
 
     # op "Can I... Make a request?"
-    op "Can I... Make a request?"
+    op "我能...提个要求吗？"
 
 # game/code/e05/e05s02.rpy:922
 translate chinese e05s02_end_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然。"
 
 # game/code/e05/e05s02.rpy:923
 translate chinese e05s02_end_7ea0c431:
 
     # op "Can I... Turn around so I can watch you fuck me?"
-    op "Can I... Turn around so I can watch you fuck me?"
+    op "我能不能...转过身来，让我看着你操我的样子？"
 
 # game/code/e05/e05s02.rpy:924
 translate chinese e05s02_end_2fbb7006:
 
     # mc "Absolutely."
-    mc "Absolutely."
+    mc "当然可以。"
 
 # game/code/e05/e05s02.rpy:934
 translate chinese e05s02_end_f6278718:
 
     # mc "God, Oliver, I can't believe how tight you are!"
-    mc "God, Oliver, I can't believe how tight you are!"
+    mc "天啊，奥利弗，真不敢相信你可以这么紧！"
 
 # game/code/e05/e05s02.rpy:936
 translate chinese e05s02_end_e7f35f04:
 
     # mc "And I love watching your face as I fuck you."
-    mc "And I love watching your face as I fuck you."
+    mc "我喜欢干你时，可以看到你的脸。"
 
 # game/code/e05/e05s02.rpy:938
 translate chinese e05s02_end_100cad6b:
 
     # op "Mmmmph, mmmmph!!! I-I like w-watching you fuck me!!"
-    op "Mmmmph, mmmmph!!! I-I like w-watching you fuck me!!"
+    op "嗯哼，哼嗯嗯!!! 我喜欢--看你--操我!!"
 
 # game/code/e05/e05s02.rpy:939
 translate chinese e05s02_end_9d6e9b17:
 
     # mc "Oh fuuuh- yeah, Ollie? Are we making you into a little - nnnnng - pervert!?"
-    mc "Oh fuuuh- yeah, Ollie? Are we making you into a little - nnnnng - pervert!?"
+    mc "我操--是吗，奥利？我们是不是把你变成了一个小--呃啊--变态!?"
 
 # game/code/e05/e05s02.rpy:940
 translate chinese e05s02_end_7f116ea5:
 
     # op "I-I-"
-    op "I-I-"
+    op "我--我--"
 
 # game/code/e05/e05s02.rpy:946
 translate chinese e05s02_end_06b2904c:
 
     # mh "Mmmmm, it's okay, Oliver. Say it."
-    mh "Mmmmm, it's okay, Oliver. Say it."
+    mh "嗯嗯嗯，没事的，奥利弗。说出来。"
 
 # game/code/e05/e05s02.rpy:948
 translate chinese e05s02_end_03d4a709:
 
     # op "I-I-I-"
-    op "I-I-I-"
+    op "我--我--"
 
 # game/code/e05/e05s02.rpy:953
 translate chinese e05s02_end_789c94d3:
 
     # mh "If you don't say it, we'll have to do something exceptionally cruel. Like stop fucking you."
-    mh "If you don't say it, we'll have to do something exceptionally cruel. Like stop fucking you."
+    mh "如果你不说，我们就得做一些特别残忍的事。比如马上停下操你。"
 
 # game/code/e05/e05s02.rpy:958
 translate chinese e05s02_end_f1534fd1:
 
     # op "I'm a little pervert! Please don't stop!"
-    op "I'm a little pervert! Please don't stop!"
+    op "我是个小变态！请不要停！"
 
 # game/code/e05/e05s02.rpy:960
 translate chinese e05s02_end_310da9dc:
 
     # mc "God, fuuuuck, that was hot! Nnnnnng!!!"
-    mc "God, fuuuuck, that was hot! Nnnnnng!!!"
+    mc "天啊，操操操，太性感了！呃啊啊啊啊!!!"
 
 # game/code/e05/e05s02.rpy:962
 translate chinese e05s02_end_4b76e55e:
 
     # op "Please, I want you to fuck me! Hard! Harder! Every day! Please, [mcname]!"
-    op "Please, I want you to fuck me! Hard! Harder! Every day! Please, [mcname]!"
+    op "求你了，我要你干我！用力！再用力点！每天都干我！求你了，[mcname]！"
 
 # game/code/e05/e05s02.rpy:965
 translate chinese e05s02_end_0cd14edc:
 
     # mc "Fuuuuh - nnnnng - Ollie, if you do that again-"
-    mc "Fuuuuh - nnnnng - Ollie, if you do that again-"
+    mc "操啊啊--啊啊啊--奥利，如果你再这样--"
 
 # game/code/e05/e05s02.rpy:968
 translate chinese e05s02_end_d93e1126:
 
     # op "Please fuck me, [mcname]! Use me! Turn me into a fucking pervy slut and fill me with your hot cum!"
-    op "Please fuck me, [mcname]! Use me! Turn me into a fucking pervy slut and fill me with your hot cum!"
+    op "求你操我，[mcname]！利用我！把我变成一个淫荡的荡妇，然后用你滚烫的精液灌满我！"
 
 # game/code/e05/e05s02.rpy:971
 translate chinese e05s02_end_590d279f:
 
     # mc "Oh FUUUUUCK!"
-    mc "Oh FUUUUUCK!"
+    mc "我操啊啊啊！"
 
 # game/code/e05/e05s02.rpy:977
 translate chinese e05s02_end_bebddb4e:
 
     # mc "I'M CUMMMING!!!"
-    mc "I'M CUMMMING!!!"
+    mc "我要射了!!!"
 
 # game/code/e05/e05s02.rpy:978
 translate chinese e05s02_end_640a29db:
 
     # op "Oh. My. GOODDD!"
-    op "Oh. My. GOODDD!"
+    op "哦，我的天，好爽！"
 
 # game/code/e05/e05s02.rpy:979
 translate chinese e05s02_end_30243cbd:
 
     # mh "Oh, fuck, I'm about to cum!"
-    mh "Oh, fuck, I'm about to cum!"
+    mh "操，我要射了！"
 
 # game/code/e05/e05s02.rpy:983
 translate chinese e05s02_end_f70ed35a:
 
     # mc "Come on, Lyssa. Fill Ollie up. Turn him into our little twinkie!"
-    mc "Come on, Lyssa. Fill Ollie up. Turn him into our little twinkie!"
+    mc "来吧，丽莎。把奥利填满。把他变成我们的小淫娃！"
 
 # game/code/e05/e05s02.rpy:988
 translate chinese e05s02_end_87af4b03:
 
     # mh "Yeeessss!"
-    mh "Yeeessss!"
+    mh "好哎！"
 
 # game/code/e05/e05s02.rpy:992
 translate chinese e05s02_end_72aa5311:
 
     # op "I'm so full, fuuuh - OH MY GOD!"
-    op "I'm so full, fuuuh - OH MY GOD!"
+    op "我好涨啊，操--我的天啊！"
 
 # game/code/e05/e05s02.rpy:998
 translate chinese e05s02_end_6ca7da5e:
 
     # mc "God, Lyssa. What was in your cum?"
-    mc "God, Lyssa. What was in your cum?"
+    mc "天啊，丽莎。你的精液里有什么？"
 
 # game/code/e05/e05s02.rpy:1000
 translate chinese e05s02_end_37e3ced5:
 
     # mh "It's just magical. You should know that, [mcname]."
-    mh "It's just magical. You should know that, [mcname]."
+    mh "这是魔法。你应该知道的，[mcname]。"
 
 # game/code/e05/e05s02.rpy:1001
 translate chinese e05s02_end_e1faf899:
 
     # mc "I guess. Jesus. That was incredible."
-    mc "I guess. Jesus. That was incredible."
+    mc "我想是吧。天呐，太不可思议了。"
 
 # game/code/e05/e05s02.rpy:1003
 translate chinese e05s02_end_ce564339:
 
     # op "Mmmmmmhmmmmm."
-    op "Mmmmmmhmmmmm."
+    op "嗯嗯嗯嗯。"
 
 # game/code/e05/e05s02.rpy:1005
 translate chinese e05s02_end_3f6685cf:
 
     # mc "How was it, Ollie?"
-    mc "How was it, Ollie?"
+    mc "怎么样，奥利？"
 
 # game/code/e05/e05s02.rpy:1010
 translate chinese e05s02_end_6297f5b9:
 
     # mc "Good, I'm glad we could make your first time memorable."
-    mc "Good, I'm glad we could make your first time memorable."
+    mc "很好，很高兴我们能让你的第一次如此难忘。"
 
 # game/code/e05/e05s02.rpy:1014
 translate chinese e05s02_end_aabefb75:
 
     # mc "You take a moment. Enjoy the bliss."
-    mc "You take a moment. Enjoy the bliss."
+    mc "你稍等片刻。享受幸福吧。"
 
 # game/code/e05/e05s02.rpy:1017
 translate chinese e05s02_end_2318a8ad:
 
     # op "Mmmmmmmmhmmmmmmmmm..."
-    op "Mmmmmmmmhmmmmmmmmm..."
+    op "嗯嗯嗯嗯嗯嗯..."
 
 # game/code/e05/e05s02.rpy:1020
 translate chinese e05s02_end_3af41c47:
 
     # mh "We'll take care of everything and clean the office up."
-    mh "We'll take care of everything and clean the office up."
+    mh "我们会处理好一切，把办公室打扫干净。"
 
 # game/code/e05/e05s02.rpy:1024
 translate chinese e05s02_end_426fffd7:
 
     # mh "Grab the cleaning stuff?"
-    mh "Grab the cleaning stuff?"
+    mh "去拿清洁用品？"
 
 # game/code/e05/e05s02.rpy:1026
 translate chinese e05s02_end_abcc2405:
 
     # mc "I can do that!"
-    mc "I can do that!"
+    mc "我可以！"
 
 translate chinese strings:
 
     # game/code/e05/e05s02.rpy:659
     old "Help Oliver decide"
-    new "Help Oliver decide"
+    new "帮奥利弗做决定"
 
     # game/code/e05/e05s02.rpy:659
     old "Let Oliver make his own decision"
-    new "Let Oliver make his own decision"
+    new "让奥利弗自己决定"
 
