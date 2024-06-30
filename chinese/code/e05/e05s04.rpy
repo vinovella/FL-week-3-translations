@@ -4,115 +4,115 @@
 translate chinese e05s04_0fae8f37:
 
     # mh "It's okay, Oliver. You're going to do great."
-    mh "It's okay, Oliver. You're going to do great."
+    mh "没关系，奥利弗。你会做得很好的。"
 
 # game/code/e05/e05s04.rpy:64
 translate chinese e05s04_f32becaf:
 
     # op "I don't know, Lyssa... What if-"
-    op "I don't know, Lyssa... What if-"
+    op "我不知道，丽莎...如果--"
 
 # game/code/e05/e05s04.rpy:67
 translate chinese e05s04_a7842d61:
 
     # mh "None of that. Just do what you did at the office, and you will be fine. At this point, this is mostly a formality."
-    mh "None of that. Just do what you did at the office, and you will be fine. At this point, this is mostly a formality."
+    mh "别担心。就像你在办公室做的那样，你会轻松解决的。就目前来说，这只是个形式。"
 
 # game/code/e05/e05s04.rpy:68
 translate chinese e05s04_dca529b3:
 
     # mh "Look alive, Oliver."
-    mh "Look alive, Oliver."
+    mh "奥利弗，精神点。"
 
 # game/code/e05/e05s04.rpy:72
 translate chinese e05s04_0bad1bf3:
 
     # "Police Officer" "Come on, in you go."
-    "Police Officer" "Come on, in you go."
+    "警官" "行了，进去吧。"
 
 # game/code/e05/e05s04.rpy:75
 translate chinese e05s04_efe97e02:
 
     # "Police Officer" "You got a half hour."
-    "Police Officer" "You got a half hour."
+    "警官" "给你半小时。"
 
 # game/code/e05/e05s04.rpy:79
 translate chinese e05s04_4f728759:
 
     # tal "'Sup, Fancy Pants."
-    tal "'Sup, Fancy Pants."
+    tal "你好啊，花裤子。"
 
 # game/code/e05/e05s04.rpy:84
 translate chinese e05s04_d401431e:
 
     # op "Good afternoon, Ms. Lindquist."
-    op "Good afternoon, Ms. Lindquist."
+    op "下午好，林奎斯特女士。"
 
 # game/code/e05/e05s04.rpy:88
 translate chinese e05s04_c7d38c16:
 
     # tal "What'd I say about the 'Ms' shit?"
-    tal "What'd I say about the 'Ms' shit?"
+    tal "关于'女士'这事儿，我上次怎么说的？"
 
 # game/code/e05/e05s04.rpy:91
 translate chinese e05s04_ed0803b9:
 
     # mh "You'll have to forgive him. Over-formality is one of Mr. Parra's very few faults."
-    mh "You'll have to forgive him. Over-formality is one of Mr. Parra's very few faults."
+    mh "你得原谅他。过分拘谨是帕拉先生为数不多的缺点之一。"
 
 # game/code/e05/e05s04.rpy:94
 translate chinese e05s04_4ce766c1:
 
     # op "*Ahem* Yes, I'm sorry M- Taisia."
-    op "*Ahem* Yes, I'm sorry M- Taisia."
+    op "*咳咳* 是的，对不起，小-泰西娅。"
 
 # game/code/e05/e05s04.rpy:97
 translate chinese e05s04_e413ca37:
 
     # tal "So.{w} When you getting me out of this shithole?"
-    tal "So.{w} When you getting me out of this shithole?"
+    tal "好了。{w}所以你什么时候把我从这个鬼地方救出来？"
 
 # game/code/e05/e05s04.rpy:100
 translate chinese e05s04_eee0fdc3:
 
     # op "That is proving to be... Troublesome, Ms- Taisia."
-    op "That is proving to be... Troublesome, Ms- Taisia."
+    op "事实证明...很麻烦，小--泰西娅。"
 
 # game/code/e05/e05s04.rpy:101
 translate chinese e05s04_74017ef9:
 
     # op "The court reports indicate 5 home addresses in the last 3 years."
-    op "The court reports indicate 5 home addresses in the last 3 years."
+    op "法庭报告显示，你在过去的3年里，有5个家庭住址。"
 
 # game/code/e05/e05s04.rpy:104
 translate chinese e05s04_9f5292c6:
 
     # tal "That's what happens when you have a crazy stalker."
-    tal "That's what happens when you have a crazy stalker."
+    tal "有个疯狂的跟踪狂，就是这样的后果。"
 
 # game/code/e05/e05s04.rpy:107
 translate chinese e05s04_46738f32:
 
     # op "You have a stalker? There's no indication in your file that you've made any effort to contact the police about it."
-    op "You have a stalker? There's no indication in your file that you've made any effort to contact the police about it."
+    op "你有跟踪狂？你的档案中没有任何迹象表明你曾为此与警方联系过。"
 
 # game/code/e05/e05s04.rpy:110
 translate chinese e05s04_0a0e9a37:
 
     # mh "*Chuckles*"
-    mh "*Chuckles*"
+    mh "*咯咯笑*"
 
 # game/code/e05/e05s04.rpy:113
 translate chinese e05s04_2c1d42b7:
 
     # tal "She gets it. Besides, I dealt with it on my own."
-    tal "She gets it. Besides, I dealt with it on my own."
+    tal "她懂我。再说，我自己解决了。"
 
 # game/code/e05/e05s04.rpy:116
 translate chinese e05s04_4182fbc4:
 
     # op "Ahem. Well, regardless, the Court has denied you bail, Taisia."
-    op "Ahem. Well, regardless, the Court has denied you bail, Taisia."
+    op "咳咳。好吧，不管怎样，法庭已经拒绝了你的保释，泰西娅。"
 
 # game/code/e05/e05s04.rpy:119
 translate chinese e05s04_ca9ac534:
