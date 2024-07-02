@@ -1114,297 +1114,297 @@ translate chinese e05s04_sex_7c0cea4a:
 translate chinese e05s04_sex_d2374ec4:
 
     # mct "Fuck, it's hard to keep Ollie's pace! He is really fucking Lyssa."
-    mct "Fuck, it's hard to keep Ollie's pace! He is really fucking Lyssa."
+    mct "操，很难跟上奥利的节奏！他真的是不遗余力地在干丽莎。"
 
 # game/code/e05/e05s04.rpy:666
 translate chinese e05s04_sex_e76b0bbc:
 
     # mct "Feels like he's taking out all his aggression from us picking on him on her tight, little asshole."
-    mct "Feels like he's taking out all his aggression from us picking on him on her tight, little asshole."
+    mct "感觉他把我们对他的挑衅，全都发泄在她紧致的小屁眼上了。"
 
 # game/code/e05/e05s04.rpy:669
 translate chinese e05s04_sex_fbc03911:
 
     # mct "But fuck is it hot!"
-    mct "But fuck is it hot!"
+    mct "但是可真他妈的爽！"
 
 # game/code/e05/e05s04.rpy:670
 translate chinese e05s04_sex_426ac577:
 
     # mc "Unnnggg, unnng, fuck, Ollie!"
-    mc "Unnnggg, unnng, fuck, Ollie!"
+    mc "昂啊啊啊-啊啊啊操，奥利！"
 
 # game/code/e05/e05s04.rpy:673
 translate chinese e05s04_sex_7e0cb5c1:
 
     # op "Mmmmph - yeah, [mcname]? You like my little asshole wrapped around your cock?"
-    op "Mmmmph - yeah, [mcname]? You like my little asshole wrapped around your cock?"
+    op "嗯嗯嗯呃啊--怎么，[mcname]？你喜欢我的小屁眼裹着你的鸡巴吗？"
 
 # game/code/e05/e05s04.rpy:674
 translate chinese e05s04_sex_d4300040:
 
     # mc "I do, Ollie. I love it!"
-    mc "I do, Ollie. I love it!"
+    mc "喜欢，奥利。我爱死了！"
 
 # game/code/e05/e05s04.rpy:675
 translate chinese e05s04_sex_468049eb:
 
     # op "MMmph - mmmmph! Well - Well, then you are going to {i}love{/i} this!"
-    op "MMmph - mmmmph! Well - Well, then you are going to {i}love{/i} this!"
+    op "嗯嗯--嗯嗯！嗯--嗯，那你一定会{i}喜欢{/i}这个的！"
 
 # game/code/e05/e05s04.rpy:678
 translate chinese e05s04_sex_d9bb7ed0:
 
     # mc "Oh SWEET MOTHER LORD! A-are you - Fuuuuuuuhhhhck! You're squeezing my dick!"
-    mc "Oh SWEET MOTHER LORD! A-are you - Fuuuuuuuhhhhck! You're squeezing my dick!"
+    mc "哦，哦哦我滴个去！你-你在-次奥操操操！你在用力挤压我的鸡巴！"
 
 # game/code/e05/e05s04.rpy:679
 translate chinese e05s04_sex_9bff2713:
 
     # mc "T-this is the most incredible - mmmmmppphhhhunnnng - incredible thing I've ever felt!"
-    mc "T-this is the most incredible - mmmmmppphhhhunnnng - incredible thing I've ever felt!"
+    mc "这是我感受过的最--嗯嗯嗯嗯--最仙的感受了！"
 
 # game/code/e05/e05s04.rpy:682
 translate chinese e05s04_sex_e95b2d67:
 
     # mh "Oliver, I can feel your dick so deeep inside of me."
-    mh "Oliver, I can feel your dick so deeep inside of me."
+    mh "奥利弗，我能感觉到你的大鸡巴深深地插进了我的身体。"
 
 # game/code/e05/e05s04.rpy:683
 translate chinese e05s04_sex_3d8c4ae9:
 
     # mh "If you keep fucking me like this, you're going to make me cum."
-    mh "If you keep fucking me like this, you're going to make me cum."
+    mh "如果你继续这样干我，你会让我射出来的。"
 
 # game/code/e05/e05s04.rpy:686
 translate chinese e05s04_sex_5256a911:
 
     # op "Ummmph - uummmppph - a-as much as I want that, I have a different idea."
-    op "Ummmph - uummmppph - a-as much as I want that, I have a different idea."
+    op "喔呃呃呃-嗯嗯嗯嗯--虽--虽然我很想那样，但我有别的想法。"
 
 # game/code/e05/e05s04.rpy:687
 translate chinese e05s04_sex_28cb3d4f:
 
     # op "But we need to move this party outside."
-    op "But we need to move this party outside."
+    op "只是我们得把派对搬到外面去。"
 
 # game/code/e05/e05s04.rpy:693
 translate chinese e05s04_sex_1c8a7f65:
 
     # op "Everyone out of the car."
-    op "Everyone out of the car."
+    op "所有人都下车。"
 
 # game/code/e05/e05s04.rpy:696
 translate chinese e05s04_sex_55cd799c:
 
     # mh "Yes, sir."
-    mh "Yes, sir."
+    mh "遵命，长官。"
 
 # game/code/e05/e05s04.rpy:700
 translate chinese e05s04_sex_92e52486:
 
     # op "Lyssa, I want you to suck my dick, while [mcname] fucks you. I want to see your faces when you cum."
-    op "Lyssa, I want you to suck my dick, while [mcname] fucks you. I want to see your faces when you cum."
+    op "丽莎，我要你给我含鸡巴，而[mcname]要操你。我要看到你们射精时的表情。"
 
 # game/code/e05/e05s04.rpy:703
 translate chinese e05s04_sex_f6a5e796:
 
     # mc "Hell yeah, I like this idea."
-    mc "Hell yeah, I like this idea."
+    mc "哇哦，我喜欢这个主意。"
 
 # game/code/e05/e05s04.rpy:706
 translate chinese e05s04_sex_52af6d08:
 
     # mh "Me too."
-    mh "Me too."
+    mh "我也是。"
 
 # game/code/e05/e05s04.rpy:715
 translate chinese e05s04_sex_91088bcd:
 
     # op "Oh God, yeah - Lyssa, keep doing that with your tongue!"
-    op "Oh God, yeah - Lyssa, keep doing that with your tongue!"
+    op "啊啊，舒服--丽莎，继续用你的舌头！"
 
 # game/code/e05/e05s04.rpy:716
 translate chinese e05s04_sex_28c8140e:
 
     # op "I will never get used to how incredible you are with your mouth."
-    op "I will never get used to how incredible you are with your mouth."
+    op "我永远都会沉迷于你令人叫绝的口活。"
 
 # game/code/e05/e05s04.rpy:719
 translate chinese e05s04_sex_198a615b:
 
     # op "Or how incredibly sexy you look with your lips wrapped around my cock."
-    op "Or how incredibly sexy you look with your lips wrapped around my cock."
+    op "你不知道，你的嘴唇包裹着我鸡巴的样子，看起来有多性感。"
 
 # game/code/e05/e05s04.rpy:720
 translate chinese e05s04_sex_bc5d228c:
 
     # op "Or how good [mcname] looks while he's fucking you in the ass."
-    op "Or how good [mcname] looks while he's fucking you in the ass."
+    op "还有，[mcname]干你屁眼的时候，他看起来真是迷人。"
 
 # game/code/e05/e05s04.rpy:722
 translate chinese e05s04_sex_e8511803:
 
     # mc "Mmph, MMMPH! I'm - fuh - glad I look good fucking Lyssa!"
-    mc "Mmph, MMMPH! I'm - fuh - glad I look good fucking Lyssa!"
+    mc "嗯哼，嗯哼！我-啊啊-很高兴我和丽莎做爱的样子还不错！"
 
 # game/code/e05/e05s04.rpy:723
 translate chinese e05s04_sex_b563c1c6:
 
     # mc "Because it fucking feels {i}greeeat!{/i}"
-    mc "Because it fucking feels {i}greeeat!{/i}"
+    mc "因为这感觉实在{i}太爽了{/i}啊啊啊！"
 
 # game/code/e05/e05s04.rpy:726
 translate chinese e05s04_sex_62367686:
 
     # op "I... Fuuuhhhhck, just like that, Lyssa! I-I can't believe you two love me!"
-    op "I... Fuuuhhhhck, just like that, Lyssa! I-I can't believe you two love me!"
+    op "我...操操操，就这样，丽莎！我--我简直不敢相信你们俩爱我！"
 
 # game/code/e05/e05s04.rpy:727
 translate chinese e05s04_sex_e8791727:
 
     # op "Gaaah - I can feel the back of your throat. Keep doing that! Yes, yes, yesssss!"
-    op "Gaaah - I can feel the back of your throat. Keep doing that! Yes, yes, yesssss!"
+    op "噶啊--我能感觉到你的喉咙。继续！啊，啊，啊，就是这样！"
 
 # game/code/e05/e05s04.rpy:732
 translate chinese e05s04_sex_81d5dd94:
 
     # mc "Fuu- Ollie, I'm getting close!"
-    mc "Fuu- Ollie, I'm getting close!"
+    mc "次奥-奥利，我快射了！"
 
 # game/code/e05/e05s04.rpy:735
 translate chinese e05s04_sex_a23fab20:
 
     # op "Cum in her! Fill her ass up with your hot, sticky sperm!"
-    op "Cum in her! Fill her ass up with your hot, sticky sperm!"
+    op "射她里面！用你滚烫黏腻的精液填满她的屁股！"
 
 # game/code/e05/e05s04.rpy:736
 translate chinese e05s04_sex_a5ca333b:
 
     # op "But you better fuck her so hard that she cums, too!"
-    op "But you better fuck her so hard that she cums, too!"
+    op "不过你最好别忘了用力干她，让她也射出来！"
 
 # game/code/e05/e05s04.rpy:739
 translate chinese e05s04_sex_83e0075b:
 
     # mc "I can - I can feel her tightening up! I think - I think she's close!"
-    mc "I can - I can feel her tightening up! I think - I think she's close!"
+    mc "我--我能感觉到她在紧缩！我想，我想她快了！"
 
 # game/code/e05/e05s04.rpy:742
 translate chinese e05s04_sex_28e26403:
 
     # op "Cum, I want you both to cum!"
-    op "Cum, I want you both to cum!"
+    op "射吧，我要你们都射出来！"
 
 # game/code/e05/e05s04.rpy:743
 translate chinese e05s04_sex_876aecd3:
 
     # mc "Oh shi- OH SHI-!"
-    mc "Oh shi- OH SHI-!"
+    mc "噢靠--哦靠--！"
 
 # game/code/e05/e05s04.rpy:750
 translate chinese e05s04_sex_7f0daa4c:
 
     # mc "SHIT!"
-    mc "SHIT!"
+    mc "靠靠靠！"
 
 # game/code/e05/e05s04.rpy:752
 translate chinese e05s04_sex_dd4917b0:
 
     # op "Lyssa, I want to cum on your face!"
-    op "Lyssa, I want to cum on your face!"
+    op "丽莎，我要射在你脸上！"
 
 # game/code/e05/e05s04.rpy:753
 translate chinese e05s04_sex_9460f4cf:
 
     # op "Oh, God - that was -"
-    op "Oh, God - that was -"
+    op "哦，天啊-真-"
 
 # game/code/e05/e05s04.rpy:754
 translate chinese e05s04_sex_691f51ee:
 
     # op "Fuuck, I'm cumming!"
-    op "Fuuck, I'm cumming!"
+    op "操，我要射了！"
 
 # game/code/e05/e05s04.rpy:765
 translate chinese e05s04_sex_eb6a1ba4:
 
     # mh "Mmmm. You made a mess, Oliver."
-    mh "Mmmm. You made a mess, Oliver."
+    mh "嗯，你弄得挺乱啊，奥利弗。"
 
 # game/code/e05/e05s04.rpy:767
 translate chinese e05s04_sex_716d096a:
 
     # op "You did, too."
-    op "You did, too."
+    op "你也是。"
 
 # game/code/e05/e05s04.rpy:768
 translate chinese e05s04_sex_c95cc8a4:
 
     # mh "That I did. Looks like we'll need to stop by a car wash."
-    mh "That I did. Looks like we'll need to stop by a car wash."
+    mh "我也是。看来我们得去洗车了。"
 
 # game/code/e05/e05s04.rpy:777
 translate chinese e05s04_sex_26929ff6:
 
     # mh "Oh, chauffeur! I think it's time we get going. Before we give someone on a Sunday drive a heart attack."
-    mh "Oh, chauffeur! I think it's time we get going. Before we give someone on a Sunday drive a heart attack."
+    mh "哦，司机！我想我们该走了。免得星期天开车的人心脏病发作。"
 
 # game/code/e05/e05s04.rpy:779
 translate chinese e05s04_sex_db0069c3:
 
     # op "Should we get dressed first?"
-    op "Should we get dressed first?"
+    op "我们要先换衣服吗？"
 
 # game/code/e05/e05s04.rpy:781
 translate chinese e05s04_sex_6c77a870:
 
     # mh "I like my new outfit."
-    mh "I like my new outfit."
+    mh "我喜欢我的新造型。"
 
 # game/code/e05/e05s04.rpy:782
 translate chinese e05s04_sex_c7411766:
 
     # mh "I think I'll wear your cum, and only your cum, for the rest of the ride."
-    mh "I think I'll wear your cum, and only your cum, for the rest of the ride."
+    mh "我想在接下来的旅途中，我会保留你的精液，而且只保留你的精液。"
 
 # game/code/e05/e05s04.rpy:785
 translate chinese e05s04_sex_428efc69:
 
     # op "I like that idea, too."
-    op "I like that idea, too."
+    op "我也喜欢这个主意。"
 
 # game/code/e05/e05s04.rpy:787
 translate chinese e05s04_sex_35730bd5:
 
     # mc "Well, then let's get going. Madam, sir, after you."
-    mc "Well, then let's get going. Madam, sir, after you."
+    mc "那我们走吧。夫人，先生，你们先请。"
 
 # game/code/e05/e05s04.rpy:788
 translate chinese e05s04_sex_32274e5c:
 
     # mct "Maybe being a chauffeur ain't that bad of a gig..."
-    mct "Maybe being a chauffeur ain't that bad of a gig..."
+    mct "也许当司机也不是什么坏事..."
 
 translate chinese strings:
 
     # game/code/e05/e05s04.rpy:50
     old "In the interview room"
-    new "In the interview room"
+    new "在会话室"
 
     # game/code/e05/e05s04.rpy:449
     old "Let Oliver cum inside you"
-    new "Let Oliver cum inside you"
+    new "让奥利弗射在你里面"
 
     # game/code/e05/e05s04.rpy:449
     old "Tell Oliver to pull out"
-    new "Tell Oliver to pull out"
+    new "告诉奥利弗拔出来"
 
     # game/code/e05/e05s04.rpy:526
     old "Clean him up"
-    new "Clean him up"
+    new "把他清理干净"
 
     # game/code/e05/e05s04.rpy:526
     old "Tell him he has something on his chin"
-    new "Tell him he has something on his chin"
+    new "告诉他下巴上有东西"
 
