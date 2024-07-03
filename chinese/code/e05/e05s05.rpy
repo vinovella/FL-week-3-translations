@@ -682,393 +682,393 @@ translate chinese e05s05_sex_c25e4486:
 translate chinese e05s05_sex_6d4b28af:
 
     # op "I..."
-    op "I..."
+    op "我..."
 
 # game/code/e05/e05s05.rpy:419
 translate chinese e05s05_sex_c86db16a:
 
     # op "Come over here and fuck me, [mcname]."
-    op "Come over here and fuck me, [mcname]."
+    op "过来干我，[mcname]。"
 
 # game/code/e05/e05s05.rpy:422
 translate chinese e05s05_sex_01f5a21c:
 
     # mc "You don't need to ask me twice."
-    mc "You don't need to ask me twice."
+    mc "都不需要你说第二次。"
 
 # game/code/e05/e05s05.rpy:431
 translate chinese e05s05_sex_fdd33014:
 
     # op "Oh, goodness, [mcname] - I always forget how big your dick is."
-    op "Oh, goodness, [mcname] - I always forget how big your dick is."
+    op "天啊，[mcname]--我总是忘了你的鸡巴有多大。"
 
 # game/code/e05/e05s05.rpy:434
 translate chinese e05s05_sex_7d23e057:
 
     # op "It feeeels sooo good!"
-    op "It feeeels sooo good!"
+    op "感觉也太爽了！"
 
 # game/code/e05/e05s05.rpy:435
 translate chinese e05s05_sex_fa485ddc:
 
     # mc "I feel the same way, counselor!"
-    mc "I feel the same way, counselor!"
+    mc "我也这么觉得，大律师！"
 
 # game/code/e05/e05s05.rpy:438
 translate chinese e05s05_sex_1b3bc9e0:
 
     # op "Good, yes, right there. Mmmm, I can feel your dick pushing so far into meeee. This is- this is a great angle to fuck in!"
-    op "Good, yes, right there. Mmmm, I can feel your dick pushing so far into meeee. This is- this is a great angle to fuck in!"
+    op "很好，对，就是那里。嗯，我能感觉到你的大鸡巴深深地插入我里面。这--这个角度开干简直完美！"
 
 # game/code/e05/e05s05.rpy:439
 translate chinese e05s05_sex_e87ba15f:
 
     # op "Fuh - mmmmm - Fuck me, [mcname]!"
-    op "Fuh - mmmmm - Fuck me, [mcname]!"
+    op "次--嗯嗯嗯嗯--干我，[mcname]！"
 
 # game/code/e05/e05s05.rpy:440
 translate chinese e05s05_sex_e0b4c1e7:
 
     # mc "Ollie, I think I hear - Fuuuuh - I hear the tailor coming back."
-    mc "Ollie, I think I hear - Fuuuuh - I hear the tailor coming back."
+    mc "奥利，我好像--操啊啊啊--听到裁缝回来了。"
 
 # game/code/e05/e05s05.rpy:441
 translate chinese e05s05_sex_5fb6e158:
 
     # op "Not right-"
-    op "Not right-"
+    op "不对--"
 
 # game/code/e05/e05s05.rpy:448
 translate chinese e05s05_sex_f67c3544:
 
     # "Tailor" "Sir, how's everything fitting so far?"
-    "Tailor" "Sir, how's everything fitting so far?"
+    "裁缝" "先生，目前一切都还好吗？"
 
 # game/code/e05/e05s05.rpy:455
 translate chinese e05s05_sex_da3a7a9a:
 
     # op "G-good! It fits {i}perfectly!{/i}"
-    op "G-good! It fits {i}perfectly!{/i}"
+    op "呃--很好！{i}非常{/i}合身！"
 
 # game/code/e05/e05s05.rpy:457
 translate chinese e05s05_sex_1b6a10bf:
 
     # "Tailor" "Are you in need of any assistance?"
-    "Tailor" "Are you in need of any assistance?"
+    "裁缝" "您需要什么帮助吗？"
 
 # game/code/e05/e05s05.rpy:460
 translate chinese e05s05_sex_a83d2d77:
 
     # op "N-no! I think I can manage this on my own!"
-    op "N-no! I think I can manage this on my own!"
+    op "不--不需要！我想我自己能行！"
 
 # game/code/e05/e05s05.rpy:467
 translate chinese e05s05_sex_f7289d9a:
 
     # "Tailor" "And the crotch? When you gave us your measurements, we weren't quite sure how those bottoms would fit you."
-    "Tailor" "And the crotch? When you gave us your measurements, we weren't quite sure how those bottoms would fit you."
+    "裁缝" "裆部呢？之前您把尺寸给我们时，我们还不太确定这些下装会不会合身。"
 
 # game/code/e05/e05s05.rpy:474
 translate chinese e05s05_sex_d839d2b5:
 
     # op "Oh believe me, I'm the perfect bottom."
-    op "Oh believe me, I'm the perfect bottom."
+    op "哦，相信我，我最擅长在下面了。"
 
 # game/code/e05/e05s05.rpy:476
 translate chinese e05s05_sex_54b93b98:
 
     # "Tailor" "Sir?"
-    "Tailor" "Sir?"
+    "裁缝" "先生？"
 
 # game/code/e05/e05s05.rpy:477
 translate chinese e05s05_sex_72596e54:
 
     # op "I, uhm, meant that the crotch fits {i}exactly{/i} and the bottom is {i}terrific{/i}."
-    op "I, uhm, meant that the crotch fits {i}exactly{/i} and the bottom is {i}terrific{/i}."
+    op "呃呃，我，我的意思是，胯部{i}非常{/i}合身，下身{i}非常完美{/i}。"
 
 # game/code/e05/e05s05.rpy:478
 translate chinese e05s05_sex_3b8ad09d:
 
     # "Tailor" "If you say so, sir..."
-    "Tailor" "If you say so, sir..."
+    "裁缝" "既然您这么说了，先生..."
 
 # game/code/e05/e05s05.rpy:485
 translate chinese e05s05_sex_1ce2fd8f:
 
     # "Tailor" "If you need anything, I will just be outside. Call if you require me."
-    "Tailor" "If you need anything, I will just be outside. Call if you require me."
+    "裁缝" "如果您需要什么，我就在外面。有需要就叫我。"
 
 # game/code/e05/e05s05.rpy:491
 translate chinese e05s05_sex_3aff42d4:
 
     # op "Oh, oh! I, uhm, I will!"
-    op "Oh, oh! I, uhm, I will!"
+    op "哦，哦！呃，我，我会的！"
 
 # game/code/e05/e05s05.rpy:496
 translate chinese e05s05_sex_4ebf16d2:
 
     # mc "Think he's actually gone?"
-    mc "Think he's actually gone?"
+    mc "你觉得他真的走了吗？"
 
 # game/code/e05/e05s05.rpy:499
 translate chinese e05s05_sex_77a73769:
 
     # op "Uhm..."
-    op "Uhm..."
+    op "呃..."
 
 # game/code/e05/e05s05.rpy:500
 translate chinese e05s05_sex_4a3d12e8:
 
     # op "I actually don't care... Just come over here and fuck me until I can't walk straight."
-    op "I actually don't care... Just come over here and fuck me until I can't walk straight."
+    op "其实我不在乎...过来操我吧，直到我走不动路为止。"
 
 # game/code/e05/e05s05.rpy:503
 translate chinese e05s05_sex_72494b53:
 
     # mc "My, my. Sweet little Oliver, what has gotten into you?"
-    mc "My, my. Sweet little Oliver, what has gotten into you?"
+    mc "天哪，天哪。可爱的小奥利弗，你里面有什么，怎么这么神奇？"
 
 # game/code/e05/e05s05.rpy:506
 translate chinese e05s05_sex_b535cfd8:
 
     # op "You have. That's what. I understand why Lyssa has to keep that bottle of lube on her desk now."
-    op "You have. That's what. I understand why Lyssa has to keep that bottle of lube on her desk now."
+    op "里面有你。就是这样。我现在明白为什么丽莎要在桌上放一瓶润滑油了。"
 
 # game/code/e05/e05s05.rpy:509
 translate chinese e05s05_sex_1cc07ab2:
 
     # mc "Love will make you do crazy things."
-    mc "Love will make you do crazy things."
+    mc "爱会让你做出疯狂的事。"
 
 # game/code/e05/e05s05.rpy:511
 translate chinese e05s05_sex_43813324:
 
     # op "It will. Like fucking my brains out in this dressing room."
-    op "It will. Like fucking my brains out in this dressing room."
+    op "是的。就像在这个试衣间里把我往死里操一样。"
 
 # game/code/e05/e05s05.rpy:513
 translate chinese e05s05_sex_7f7c377e:
 
     # mc "Well, when you ask so nicely..."
-    mc "Well, when you ask so nicely..."
+    mc "哈，谁让你这么诚恳地请求我..."
 
 # game/code/e05/e05s05.rpy:516
 translate chinese e05s05_sex_55e014ba:
 
     # op "And, uhm... [mcname]?"
-    op "And, uhm... [mcname]?"
+    op "还有，嗯...[mcname]？"
 
 # game/code/e05/e05s05.rpy:518
 translate chinese e05s05_sex_365e18c4:
 
     # mc "Uh huh?"
-    mc "Uh huh?"
+    mc "嗯？"
 
 # game/code/e05/e05s05.rpy:519
 translate chinese e05s05_sex_914f7d12:
 
     # op "Can you... Pick me up like you did earlier?"
-    op "Can you... Pick me up like you did earlier?"
+    op "你能...像之前那样把我抱起来吗？"
 
 # game/code/e05/e05s05.rpy:523
 translate chinese e05s05_sex_6f4db5a5:
 
     # mc "Absolutely I can."
-    mc "Absolutely I can."
+    mc "当然可以。"
 
 # game/code/e05/e05s05.rpy:531
 translate chinese e05s05_sex_0bf89a39:
 
     # op "F-fuck! [mcname], you're so strong!"
-    op "F-fuck! [mcname], you're so strong!"
+    op "操--妈的！[mcname]，你真壮啊！"
 
 # game/code/e05/e05s05.rpy:532
 translate chinese e05s05_sex_2d008c24:
 
     # mc "I've been working out a bit."
-    mc "I've been working out a bit."
+    mc "我一直在锻炼。"
 
 # game/code/e05/e05s05.rpy:535
 translate chinese e05s05_sex_7165384b:
 
     # op "Whatever you've been doing, keep doing it! I want you to fuck me like this {i}every time.{/i}"
-    op "Whatever you've been doing, keep doing it! I want you to fuck me like this {i}every time.{/i}"
+    op "不管你是怎么练的，一定要继续保持！我要你{i}每次{/i}都这样干我。"
 
 # game/code/e05/e05s05.rpy:536
 translate chinese e05s05_sex_96295afe:
 
     # mc "Fuhhh - Ollie, you, you gotta keep it down. The tailor is just outside."
-    mc "Fuhhh - Ollie, you, you gotta keep it down. The tailor is just outside."
+    mc "操--奥利，你小声点，裁缝就在外面。"
 
 # game/code/e05/e05s05.rpy:537
 translate chinese e05s05_sex_74cffa23:
 
     # op "I-I don't care. This is incredible! {i}You{/i} are incredible!"
-    op "I-I don't care. This is incredible! {i}You{/i} are incredible!"
+    op "我不在乎。这感觉太爽了！{i}你{/i}太不可思议了！"
 
 # game/code/e05/e05s05.rpy:540
 translate chinese e05s05_sex_1e002eb9:
 
     # op "Fuck, I love having every inch of you inside of me!"
-    op "Fuck, I love having every inch of you inside of me!"
+    op "操，我喜欢你深深插在我身体里的每一寸每一厘！"
 
 # game/code/e05/e05s05.rpy:541
 translate chinese e05s05_sex_2dcf8ba5:
 
     # op "Fuck me, [mcname]! Fuck me!"
-    op "Fuck me, [mcname]! Fuck me!"
+    op "操我，[mcname]！操我！"
 
 # game/code/e05/e05s05.rpy:546
 translate chinese e05s05_sex_6db724b8:
 
     # mc "Jeesus, Ollie! We have really turned you into a little slut, haven't we?"
-    mc "Jeesus, Ollie! We have really turned you into a little slut, haven't we?"
+    mc "天哪，奥利！我们真的把你变成了一个小荡妇，是不是？"
 
 # game/code/e05/e05s05.rpy:547
 translate chinese e05s05_sex_b9d2e5b1:
 
     # op "N-no! You just made me confident."
-    op "N-no! You just made me confident."
+    op "不--不是！你们只是让我变得自信了。"
 
 # game/code/e05/e05s05.rpy:550
 translate chinese e05s05_sex_9b2f3cbd:
 
     # op "I know, fuhck - fuhck! I know what I want now!"
-    op "I know, fuhck - fuhck! I know what I want now!"
+    op "我知道，操操操--次奥！我知道我现在想要什么！"
 
 # game/code/e05/e05s05.rpy:551
 translate chinese e05s05_sex_ef12544e:
 
     # op "I want you. And Lyssa. Always."
-    op "I want you. And Lyssa. Always."
+    op "我想要你。还有丽莎。永远这样下去。"
 
 # game/code/e05/e05s05.rpy:552
 translate chinese e05s05_sex_56e585b6:
 
     # op "I love you."
-    op "I love you."
+    op "我爱你。"
 
 # game/code/e05/e05s05.rpy:555
 translate chinese e05s05_sex_4ff4fd15:
 
     # mc "And I love you toooo - fuck, I'm about to cum!"
-    mc "And I love you toooo - fuck, I'm about to cum!"
+    mc "我也爱你啊啊--操，我要射了！"
 
 # game/code/e05/e05s05.rpy:556
 translate chinese e05s05_sex_85a93d66:
 
     # op "Yes, yes, YES! Cum in me! You're going to make mee-"
-    op "Yes, yes, YES! Cum in me! You're going to make mee-"
+    op "好，好，好耶！射在我里面！你会让我--"
 
 # game/code/e05/e05s05.rpy:563
 translate chinese e05s05_sex_d4be3ed5:
 
     # "Tailor" "Sir, is everything all right in here?"
-    "Tailor" "Sir, is everything all right in here?"
+    "裁缝" "先生，你这里还好吗？"
 
 # game/code/e05/e05s05.rpy:573
 translate chinese e05s05_sex_9eaec48b:
 
     # "Tailor" "Sir? Are you still in there?"
-    "Tailor" "Sir? Are you still in there?"
+    "裁缝" "先生，你还在里面吗？"
 
 # game/code/e05/e05s05.rpy:578
 translate chinese e05s05_sex_b5d3553d:
 
     # op "Uh huh... I'm... {i}Great{/i}..."
-    op "Uh huh... I'm... {i}Great{/i}..."
+    op "嗯哼...我...{i}太舒服了{/i}..."
 
 # game/code/e05/e05s05.rpy:581
 translate chinese e05s05_sex_2a01c775:
 
     # "Tailor" "You've... Taken a long time in there, sir. Are you sure you're all right?"
-    "Tailor" "You've... Taken a long time in there, sir. Are you sure you're all right?"
+    "裁缝" "您...在里面待了很久，先生。您确定没事吗？"
 
 # game/code/e05/e05s05.rpy:584
 translate chinese e05s05_sex_384bf150:
 
     # op "Yep... Just wanted to make sure it was the {i}perfect fit{/i}."
-    op "Yep... Just wanted to make sure it was the {i}perfect fit{/i}."
+    op "嗯...我只是想确认一下是否{i}完美地适合{/i}我。"
 
 # game/code/e05/e05s05.rpy:585
 translate chinese e05s05_sex_3826cdcd:
 
     # op "We'll take it."
-    op "We'll take it."
+    op "我们要了。"
 
 # game/code/e05/e05s05.rpy:588
 translate chinese e05s05_sex_71baa623:
 
     # "Tailor" "Of course, sir. Well... Bring it up to the front when you're ready."
-    "Tailor" "Of course, sir. Well... Bring it up to the front when you're ready."
+    "裁缝" "好嘞，先生。那么...您准备好了就可以拿到前台来。"
 
 # game/code/e05/e05s05.rpy:590
 translate chinese e05s05_sex_d30f8b9e:
 
     # op "We'll be right there."
-    op "We'll be right there."
+    op "我们马上就来."
 
 # game/code/e05/e05s05.rpy:593
 translate chinese e05s05_sex_ea93353d:
 
     # mc "I think he's gone."
-    mc "I think he's gone."
+    mc "我想他已经走了."
 
 # game/code/e05/e05s05.rpy:594
 translate chinese e05s05_sex_e1c863f9:
 
     # mc "See? Just like the movie theater, but without getting caught."
-    mc "See? Just like the movie theater, but without getting caught."
+    mc "看到了没？就像在电影院一样，但我们不会被抓到."
 
 # game/code/e05/e05s05.rpy:597
 translate chinese e05s05_sex_bb562e36:
 
     # op "It was perfect. But I think we should go, before the tailor gets any more suspicious."
-    op "It was perfect. But I think we should go, before the tailor gets any more suspicious."
+    op "太完美了。但我觉得我们该走了。趁裁缝还没起疑心."
 
 # game/code/e05/e05s05.rpy:603
 translate chinese e05s05_sex_1706ccda:
 
     # op "Oh goodness!"
-    op "Oh goodness!"
+    op "噢噢噢天哪！"
 
 # game/code/e05/e05s05.rpy:606
 translate chinese e05s05_sex_e4eba538:
 
     # op "Seems, uhm... I can't walk straight."
-    op "Seems, uhm... I can't walk straight."
+    op "好像，呃...我不能正常走路了。"
 
 # game/code/e05/e05s05.rpy:608
 translate chinese e05s05_sex_87860155:
 
     # mc "Isn't that what you told me to do? Fuck you until you couldn't walk straight?"
-    mc "Isn't that what you told me to do? Fuck you until you couldn't walk straight?"
+    mc "你不是让我这么做的吗？干到你走不动为止？"
 
 # game/code/e05/e05s05.rpy:609
 translate chinese e05s05_sex_4d104ecc:
 
     # op "I did say something like that, didn't I."
-    op "I did say something like that, didn't I."
+    op "我的确说过类似的话，呼。"
 
 # game/code/e05/e05s05.rpy:613
 translate chinese e05s05_sex_c62f8837:
 
     # op "Well, seeing as I'm... Incapacitated, mind helping me get dressed and checked out?"
-    op "Well, seeing as I'm... Incapacitated, mind helping me get dressed and checked out?"
+    op "好吧，既然我...行动不便，能帮我穿好衣服，然后去前台吗？"
 
 # game/code/e05/e05s05.rpy:616
 translate chinese e05s05_sex_c25e4486_1:
 
     # mc "Anything for my lover."
-    mc "Anything for my lover."
+    mc "为了我的挚爱，做什么都可以。"
 
 translate chinese strings:
 
     # game/code/e05/e05s05.rpy:32
     old "The next day in the office"
-    new "The next day in the office"
+    new "第二天在办公室"
 
     # game/code/e05/e05s05.rpy:92
     old "In the Suit Store"
-    new "In the Suit Store"
+    new "在西装店"
 
