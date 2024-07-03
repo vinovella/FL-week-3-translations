@@ -4,535 +4,535 @@
 translate chinese e05s06_e682e474:
 
     # mh "Morning, [mcname]."
-    mh "Morning, [mcname]."
+    mh "早上好，[mcname]。"
 
 # game/code/e05/e05s06.rpy:65
 translate chinese e05s06_e635727a:
 
     # mc "And a happy good morning to you too. Where's Ollie?"
-    mc "And a happy good morning to you too. Where's Ollie?"
+    mc "你也早上好。奥利呢？"
 
 # game/code/e05/e05s06.rpy:69
 translate chinese e05s06_241a33a9:
 
     # mh "He ran to print a few more briefs before the trial began."
-    mh "He ran to print a few more briefs before the trial began."
+    mh "他在开庭前又跑去印了几份辩护状。"
 
 # game/code/e05/e05s06.rpy:70
 translate chinese e05s06_c092cc69:
 
     # mh "He said he'd meet us in front of the courthouse and we could walk in together."
-    mh "He said he'd meet us in front of the courthouse and we could walk in together."
+    mh "他说他会在法院门口等我们，我们可以一起进去。"
 
 # game/code/e05/e05s06.rpy:73
 translate chinese e05s06_dfef67e3:
 
     # mc "His coffee is going to be cold by the time we get there."
-    mc "His coffee is going to be cold by the time we get there."
+    mc "我们到的时候他的咖啡已经凉了。"
 
 # game/code/e05/e05s06.rpy:77
 translate chinese e05s06_a5deffe4:
 
     # mh "I think Oliver is so nervous he won't even touch it."
-    mh "I think Oliver is so nervous he won't even touch it."
+    mh "我觉得奥利弗太紧张了，咖啡连碰都不碰一下。"
 
 # game/code/e05/e05s06.rpy:80
 translate chinese e05s06_b8601c3d:
 
     # mc "Still that bad?"
-    mc "Still that bad?"
+    mc "还是那么紧张？"
 
 # game/code/e05/e05s06.rpy:83
 translate chinese e05s06_f1695081:
 
     # mh "Yes. No matter what I do or say. He's been in a near panic all week."
-    mh "Yes. No matter what I do or say. He's been in a near panic all week."
+    mh "是啊，不管我说什么做什么。他整个星期都处于近乎恐慌的状态。"
 
 # game/code/e05/e05s06.rpy:84
 translate chinese e05s06_6139b053:
 
     # mh "The only thing I can do is sit back and let him take the reins."
-    mh "The only thing I can do is sit back and let him take the reins."
+    mh "我唯一能做的就是坐在后面，让他来控制局面。"
 
 # game/code/e05/e05s06.rpy:85
 translate chinese e05s06_75a7ef88:
 
     # mh "As long as I don't interfere, he can prove to himself that he's competent enough to become a lawyer."
-    mh "As long as I don't interfere, he can prove to himself that he's competent enough to become a lawyer."
+    mh "只要我不干涉，他就能证明自己有能力成为一名律师。"
 
 # game/code/e05/e05s06.rpy:88
 translate chinese e05s06_42911e28:
 
     # mc "I think that's a good plan."
-    mc "I think that's a good plan."
+    mc "我觉得这是个好计划。"
 
 # game/code/e05/e05s06.rpy:91
 translate chinese e05s06_ffc6a815:
 
     # mh "Thank you."
-    mh "Thank you."
+    mh "谢谢。"
 
 # game/code/e05/e05s06.rpy:94
 translate chinese e05s06_9ab65268:
 
     # mc "So that means... You're just going to be sitting up front all day, with nothing to do?"
-    mc "So that means... You're just going to be sitting up front all day, with nothing to do?"
+    mc "那就是说...你就整天坐在那里，无所事事？"
 
 # game/code/e05/e05s06.rpy:97
 translate chinese e05s06_1807009c:
 
     # mh "That's right."
-    mh "That's right."
+    mh "没错。"
 
 # game/code/e05/e05s06.rpy:101
 translate chinese e05s06_99580f36:
 
     # mc "Well... I might have picked up a little something extra for you."
-    mc "Well... I might have picked up a little something extra for you."
+    mc "嗯...我可能给你带了点你没想到的东西。"
 
 # game/code/e05/e05s06.rpy:104
 translate chinese e05s06_5b7d2895:
 
     # mh "What did you do?"
-    mh "What did you do?"
+    mh "你干什么了？"
 
 # game/code/e05/e05s06.rpy:105
 translate chinese e05s06_a265ea95:
 
     # mh "[mcname], what are you..."
-    mh "[mcname], what are you..."
+    mh "[mcname]，你..."
 
 # game/code/e05/e05s06.rpy:111
 translate chinese e05s06_eb945cd7:
 
     # mh "Hang on a second, are you-"
-    mh "Hang on a second, are you-"
+    mh "等一下，你要--"
 
 # game/code/e05/e05s06.rpy:120
 translate chinese e05s06_e318f4e2:
 
     # mc "Ta-da! I got you a new plug."
-    mc "Ta-da! I got you a new plug."
+    mc "哒哒！我给你买了个新塞子。"
 
 # game/code/e05/e05s06.rpy:122
 translate chinese e05s06_b7171963:
 
     # mh "Oh, goddamn, [mcname]."
-    mh "Oh, goddamn, [mcname]."
+    mh "哦，该死的，[mcname]。"
 
 # game/code/e05/e05s06.rpy:127
 translate chinese e05s06_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "怎么了？"
 
 # game/code/e05/e05s06.rpy:130
 translate chinese e05s06_d06d1852:
 
     # mh "I thought- Never mind. Thank you."
-    mh "I thought- Never mind. Thank you."
+    mh "我以为--算了。谢谢。"
 
 # game/code/e05/e05s06.rpy:134
 translate chinese e05s06_d4b4ccee:
 
     # mc "Wait, did you... Did you think I was proposing?"
-    mc "Wait, did you... Did you think I was proposing?"
+    mc "等等，你...你以为我要求婚吗？"
 
 # game/code/e05/e05s06.rpy:137
 translate chinese e05s06_2fb5ca72:
 
     # mh "You did get down on one knee for me."
-    mh "You did get down on one knee for me."
+    mh "你确实在我面前单膝跪地了。"
 
 # game/code/e05/e05s06.rpy:140
 translate chinese e05s06_e01b805a:
 
     # mc "But I did that for you last night, and you didn't think I was proposing then."
-    mc "But I did that for you last night, and you didn't think I was proposing then."
+    mc "但我昨晚也为你单膝跪地了。你那时就没有觉得我是在求婚。"
 
 # game/code/e05/e05s06.rpy:143
 translate chinese e05s06_bdf59214:
 
     # mh "The circumstances were a little different last night."
-    mh "The circumstances were a little different last night."
+    mh "昨晚的情况有点不同。"
 
 # game/code/e05/e05s06.rpy:146
 translate chinese e05s06_96d9e735:
 
     # mc "Yeah, maybe a little bit."
-    mc "Yeah, maybe a little bit."
+    mc "是吧，也许有一点。"
 
 # game/code/e05/e05s06.rpy:147
 translate chinese e05s06_d36ce6c5:
 
     # mc "But you seem... Happy that I didn't propose. Is the idea of marrying me really... That bad?"
-    mc "But you seem... Happy that I didn't propose. Is the idea of marrying me really... That bad?"
+    mc "但你看起来...很高兴我没有求婚啊。想到要嫁给我真的...那么糟糕吗？"
 
 # game/code/e05/e05s06.rpy:150
 translate chinese e05s06_99d05039:
 
     # mh "No! Not at all!"
-    mh "No! Not at all!"
+    mh "不，不是的！"
 
 # game/code/e05/e05s06.rpy:153
 translate chinese e05s06_49807047:
 
     # mc "Then what's with your reaction?"
-    mc "Then what's with your reaction?"
+    mc "那你的反应怎么回事？"
 
 # game/code/e05/e05s06.rpy:156
 translate chinese e05s06_f54aeadb:
 
     # mh "There's... A lot of fear for me in marriage. I... Don't want to get too deep into it. But... Let's just say I never had a chance to see what a 'happy marriage' looked like."
-    mh "There's... A lot of fear for me in marriage. I... Don't want to get too deep into it. But... Let's just say I never had a chance to see what a 'happy marriage' looked like."
+    mh "我...我对婚姻有很多恐惧。我...我不想说得太深。但是...这么说吧，我从来没有机会看到'幸福的婚姻'是什么样子。"
 
 # game/code/e05/e05s06.rpy:157
 translate chinese e05s06_1f8eb142:
 
     # mh "So I've always written it off, it's not a feasible option for me."
-    mh "So I've always written it off, it's not a feasible option for me."
+    mh "所以我总是把它排除在外，对我来说这不是一个可行的选择。"
 
 # game/code/e05/e05s06.rpy:160
 translate chinese e05s06_ac2ab937:
 
     # mc "But what if... What if it was something that one of us wanted in the future?"
-    mc "But what if... What if it was something that one of us wanted in the future?"
+    mc "但如果...如果这是我们其中一个人未来想要的呢？"
 
 # game/code/e05/e05s06.rpy:163
 translate chinese e05s06_1b460de2:
 
     # mh "That's the other thing; 'one of us'. There are three of us - three opinions, three wants, and not to mention the law on polyamory."
-    mh "That's the other thing; 'one of us'. There are three of us - three opinions, three wants, and not to mention the law on polyamory."
+    mh "这就是另外一个问题了；'我们中的一个'。我们有三个人--三种观点，三种愿望，更不用说关于一夫多妻制的法律了。"
 
 # game/code/e05/e05s06.rpy:166
 translate chinese e05s06_6e919865:
 
     # mc "Fuck the law."
-    mc "Fuck the law."
+    mc "去他妈的法律。"
 
 # game/code/e05/e05s06.rpy:169
 translate chinese e05s06_57d0354b:
 
     # mh "Strong sentiment from someone working for a lawyer."
-    mh "Strong sentiment from someone working for a lawyer."
+    mh "一个为律师工作的人竟然有如此强烈的情感。"
 
 # game/code/e05/e05s06.rpy:172
 translate chinese e05s06_2034e558:
 
     # mc "I know. But fuck the law. I don't care what whatever legal shit says. I... I think about marriage because I want to tell the world how much I care about you and Ollie."
-    mc "I know. But fuck the law. I don't care what whatever legal shit says. I... I think about marriage because I want to tell the world how much I care about you and Ollie."
+    mc "我知道。不过还是，去他妈的法律。我才不管什么狗屁法律条文。我...我想结婚是因为我想告诉全世界，我有多在乎你和奥利。"
 
 # game/code/e05/e05s06.rpy:175
 translate chinese e05s06_6df20824:
 
     # mh "Oh? I didn't take you for the wedding type, [mcname]."
-    mh "Oh? I didn't take you for the wedding type, [mcname]."
+    mh "哦，我不认为你是结婚型的，[mcname]。"
 
 # game/code/e05/e05s06.rpy:178
 translate chinese e05s06_287291db:
 
     # mc "I'm not.{w} Or at least I wasn't."
-    mc "I'm not.{w} Or at least I wasn't."
+    mc "我不是。{w}至少我过去不是。"
 
 # game/code/e05/e05s06.rpy:179
 translate chinese e05s06_b7e54f0d:
 
     # mc "But I love my life with you and Oliver. I love you both. And it's... Something I think about from time to time."
-    mc "But I love my life with you and Oliver. I love you both. And it's... Something I think about from time to time."
+    mc "但我喜欢和你还有奥利弗在一起的生活。我爱你们两个。这...我时不时会想这件事。"
 
 # game/code/e05/e05s06.rpy:182
 translate chinese e05s06_aa599f15:
 
     # mh "I'd be lying if I didn't say I thought about it sometimes too."
-    mh "I'd be lying if I didn't say I thought about it sometimes too."
+    mh "如果我否认我有时也想过这方面的话，那我就是在撒谎。"
 
 # game/code/e05/e05s06.rpy:185
 translate chinese e05s06_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "你想过？"
 
 # game/code/e05/e05s06.rpy:188
 translate chinese e05s06_6d282e7a:
 
     # mh "Of course. This is the happiest I think I've ever been. You two have... Added something to my life I didn't know I was missing."
-    mh "Of course. This is the happiest I think I've ever been. You two have... Added something to my life I didn't know I was missing."
+    mh "当然。这是我有生以来最幸福的时刻。你们俩...给我的生活增添了很多幸福感，而我一直以来都不知道我缺少这些幸福时刻。"
 
 # game/code/e05/e05s06.rpy:189
 translate chinese e05s06_ee0e3b4e:
 
     # mh "But something I'm pretty sure I could no longer live without."
-    mh "But something I'm pretty sure I could no longer live without."
+    mh "但我很确定，没有你们我也活不下去。"
 
 # game/code/e05/e05s06.rpy:190
 translate chinese e05s06_57afd79d:
 
     # mh "But, we should maybe hold off on the wedding bells talk. We don't need to give him any more reason to be nervous. Especially today."
-    mh "But, we should maybe hold off on the wedding bells talk. We don't need to give him any more reason to be nervous. Especially today."
+    mh "但是，我们也许应该缓一缓再谈结婚的事。我们没必要让他为别的事更添紧张感，尤其是今天。"
 
 # game/code/e05/e05s06.rpy:193
 translate chinese e05s06_dff79cab:
 
     # mc "You're right."
-    mc "You're right."
+    mc "你说得对。"
 
 # game/code/e05/e05s06.rpy:206
 translate chinese e05s06_butt_plug_d2b49c21:
 
     # mh "So you got me a butt plug? I already have a half dozen of these."
-    mh "So you got me a butt plug? I already have a half dozen of these."
+    mh "所以你给我买了个屁塞？这东西我已经有半打了。"
 
 # game/code/e05/e05s06.rpy:209
 translate chinese e05s06_butt_plug_8a7cc47a:
 
     # mc "Yeah! But this one has a remote control."
-    mc "Yeah! But this one has a remote control."
+    mc "是的！但这个有遥控器。"
 
 # game/code/e05/e05s06.rpy:212
 translate chinese e05s06_butt_plug_d36835a1:
 
     # mh "A remote control?"
-    mh "A remote control?"
+    mh "遥控器？"
 
 # game/code/e05/e05s06.rpy:216
 translate chinese e05s06_butt_plug_ac9c8dbe:
 
     # mc "It vibrates."
-    mc "It vibrates."
+    mc "它会震动。"
 
 # game/code/e05/e05s06.rpy:217
 translate chinese e05s06_butt_plug_9e1dc0c2:
 
     # mc "It pairs to bluetooth. I can control it with this app."
-    mc "It pairs to bluetooth. I can control it with this app."
+    mc "它可以和蓝牙配对。我可以用这个软件控制它。"
 
 # game/code/e05/e05s06.rpy:220
 translate chinese e05s06_butt_plug_2391bc76:
 
     # mh "Technology these days."
-    mh "Technology these days."
+    mh "现在的科技真发达。"
 
 # game/code/e05/e05s06.rpy:223
 translate chinese e05s06_butt_plug_99a2a2fc:
 
     # mc "I figure... If you're just going to be sitting around all day, why not have a little bit of fun?"
-    mc "I figure... If you're just going to be sitting around all day, why not have a little bit of fun?"
+    mc "我想...如果你要整天坐着，为什么不找点乐子呢？"
 
 # game/code/e05/e05s06.rpy:226
 translate chinese e05s06_butt_plug_e7636b34:
 
     # mh "Fun? At work? How dare you even suggest such a thing."
-    mh "Fun? At work? How dare you even suggest such a thing."
+    mh "乐子？在工作的时候？你怎么敢提这种建议。"
 
 # game/code/e05/e05s06.rpy:229
 translate chinese e05s06_butt_plug_a5805692:
 
     # mc "Hey, it was worth a shot."
-    mc "Hey, it was worth a shot."
+    mc "嘿，值得一试嘛。"
 
 # game/code/e05/e05s06.rpy:232
 translate chinese e05s06_butt_plug_2f12f284:
 
     # mh "You know... I've never done anything like this."
-    mh "You know... I've never done anything like this."
+    mh "你知道...我从没做过这样的事。"
 
 # game/code/e05/e05s06.rpy:233
 translate chinese e05s06_butt_plug_95bc4d29:
 
     # mh "But I never did anything like a throuple either, and look at how that turned out."
-    mh "But I never did anything like a throuple either, and look at how that turned out."
+    mh "不过说回来，我之前也没做过类似3P的事。看看现在的我们。"
 
 # game/code/e05/e05s06.rpy:236
 translate chinese e05s06_butt_plug_6633bb8c:
 
     # mh "You want to help me put this thing in?"
-    mh "You want to help me put this thing in?"
+    mh "你想帮我把它装进去吗？"
 
 # game/code/e05/e05s06.rpy:239
 translate chinese e05s06_butt_plug_85d475fe:
 
     # mc "Of course!"
-    mc "Of course!"
+    mc "当然！"
 
 # game/code/e05/e05s06.rpy:250
 translate chinese e05s06_butt_plug_6ab78a00:
 
     # mh "Mmmm, that already feels good."
-    mh "Mmmm, that already feels good."
+    mh "嗯嗯嗯嗯，已经开始有感觉了。"
 
 # game/code/e05/e05s06.rpy:251
 translate chinese e05s06_butt_plug_ce1f227d:
 
     # mh "Now, we should get going. Don't want to be late for Oliver's big day."
-    mh "Now, we should get going. Don't want to be late for Oliver's big day."
+    mh "现在，我们该走了。我可不想在奥利弗重要的日子里迟到。"
 
 # game/code/e05/e05s06.rpy:267
 translate chinese e05s06_outside_662b041c:
 
     # op "Oh God, oh God, I'm going to be late!"
-    op "Oh God, oh God, I'm going to be late!"
+    op "天啊，天啊，我要迟到了！"
 
 # game/code/e05/e05s06.rpy:271
 translate chinese e05s06_outside_0f4396b4:
 
     # op "What are you two doing out here!? We're going to be late!"
-    op "What are you two doing out here!? We're going to be late!"
+    op "你们俩在外面干什么？我们要迟到了！"
 
 # game/code/e05/e05s06.rpy:274
 translate chinese e05s06_outside_b9afd012:
 
     # mc "Ollie, we have 20 minutes before the trial-"
-    mc "Ollie, we have 20 minutes before the trial-"
+    mc "奥利，离开庭还有20分钟--"
 
 # game/code/e05/e05s06.rpy:277
 translate chinese e05s06_outside_6a79bd23:
 
     # op "If you're not 15 minutes early, you're late!"
-    op "If you're not 15 minutes early, you're late!"
+    op "如果不能早到15分钟，那就是迟到了！"
 
 # game/code/e05/e05s06.rpy:280
 translate chinese e05s06_outside_058bb98c:
 
     # mh "Oliver, take a deep breath."
-    mh "Oliver, take a deep breath."
+    mh "奥利弗，深呼吸。"
 
 # game/code/e05/e05s06.rpy:282
 translate chinese e05s06_outside_8d00221d:
 
     # op "Lyssa-!"
-    op "Lyssa-!"
+    op "丽莎--！"
 
 # game/code/e05/e05s06.rpy:283
 translate chinese e05s06_outside_2c19e380:
 
     # mh "Oliver. {w}Deep.{w} Breath."
-    mh "Oliver. {w}Deep.{w} Breath."
+    mh "奥利弗，{w}深呼吸。{w}呼吸。"
 
 # game/code/e05/e05s06.rpy:293
 translate chinese e05s06_outside_ac101729:
 
     # mh "Now. Good morning. Don't you feel better?"
-    mh "Now. Good morning. Don't you feel better?"
+    mh "现在，早上好。你感觉好些了吗？"
 
 # game/code/e05/e05s06.rpy:295
 translate chinese e05s06_outside_d1a5a3a6:
 
     # op "Yeah. A little bit."
-    op "Yeah. A little bit."
+    op "嗯。好点了。"
 
 # game/code/e05/e05s06.rpy:298
 translate chinese e05s06_outside_d50bedc1:
 
     # mc "You'd probably feel more confident in your suit."
-    mc "You'd probably feel more confident in your suit."
+    mc "你穿上西装可能会更自信。"
 
 # game/code/e05/e05s06.rpy:299
 translate chinese e05s06_outside_f42f327c:
 
     # mc "Wait, why aren't you wearing your suit?"
-    mc "Wait, why aren't you wearing your suit?"
+    mc "等等，你为什么不穿西装？"
 
 # game/code/e05/e05s06.rpy:302
 translate chinese e05s06_outside_d18cf1fb:
 
     # op "I... I tried [mcname]. I really did."
-    op "I... I tried [mcname]. I really did."
+    op "我...我试过，[mcname]。我真的试过。"
 
 # game/code/e05/e05s06.rpy:303
 translate chinese e05s06_outside_462885a0:
 
     # op "I just felt uncomfortable in it."
-    op "I just felt uncomfortable in it."
+    op "我只是觉得穿着不舒服。"
 
 # game/code/e05/e05s06.rpy:304
 translate chinese e05s06_outside_e5361f58:
 
     # op "But I promise you, [mcname], after I pass the bar, I'll wear the suit to my first {b}full{/b} case."
-    op "But I promise you, [mcname], after I pass the bar, I'll wear the suit to my first {b}full{/b} case."
+    op "但我向你保证，[mcname]，等我通过律师资格考试后，我会穿着这套西装去打我的第一个{b}正式{/b}案子。"
 
 # game/code/e05/e05s06.rpy:307
 translate chinese e05s06_outside_c9195d62:
 
     # mc "I'll hold you to that Ollie."
-    mc "I'll hold you to that Ollie."
+    mc "我会期待那一天的，奥利。"
 
 # game/code/e05/e05s06.rpy:308
 translate chinese e05s06_outside_9b4b9b8b:
 
     # mc "Alright, well suit or no suit, you look like you could use a coffee."
-    mc "Alright, well suit or no suit, you look like you could use a coffee."
+    mc "好吧，不管穿不穿西装，你看起来都需要一杯咖啡。"
 
 # game/code/e05/e05s06.rpy:311
 translate chinese e05s06_outside_2b11bd13:
 
     # op "Wow. Thank you. Yeah, sorry. I had to go do some last minute printing."
-    op "Wow. Thank you. Yeah, sorry. I had to go do some last minute printing."
+    op "哇，谢谢。呃，抱歉。我得去做最后的打印工作。"
 
 # game/code/e05/e05s06.rpy:316
 translate chinese e05s06_outside_daca72f8:
 
     # mh "Now that you've got your coffee, and you've calmed down. Shall we go take our place?"
-    mh "Now that you've got your coffee, and you've calmed down. Shall we go take our place?"
+    mh "既然你已经喝了咖啡，也冷静下来了，我们去就坐好吗？"
 
 # game/code/e05/e05s06.rpy:319
 translate chinese e05s06_outside_fd47d080:
 
     # op "Yes, please."
-    op "Yes, please."
+    op "好，谢谢。"
 
 # game/code/e05/e05s06.rpy:323
 translate chinese e05s06_outside_dd967e56:
 
     # mct "Let's see how well this thing works."
-    mct "Let's see how well this thing works."
+    mct "让我们看看这东西有多好用。"
 
 # game/code/e05/e05s06.rpy:332
 translate chinese e05s06_outside_5a0b3635:
 
     # op "Lyssa, everything okay?"
-    op "Lyssa, everything okay?"
+    op "丽莎，一切都还好吗？"
 
 # game/code/e05/e05s06.rpy:335
 translate chinese e05s06_outside_b8ff8c18:
 
     # mh "Yes. Everything is just fine."
-    mh "Yes. Everything is just fine."
+    mh "嗯哼，一切都很好。"
 
 # game/code/e05/e05s06.rpy:339
 translate chinese e05s06_outside_5edb47e3:
 
     # mct "Oh. This is going to be a ton of fun."
-    mct "Oh. This is going to be a ton of fun."
+    mct "哦。一定会很好玩的。"
 
 # game/code/e05/e05s06.rpy:364
 translate chinese e05s06_court_room_c6d5e091:
 
     # "Prosecutor" "I object your honor! How can the use of social media be admissible in this case!?"
-    "Prosecutor" "I object your honor! How can the use of social media be admissible in this case!?"
+    "检察官" "我反对，法官大人！社交媒体的使用怎么能作为本案的证据!?"
 
 # game/code/e05/e05s06.rpy:365
 translate chinese e05s06_court_room_a51b2192:
 
     # "Prosecutor" "The precedent set forth by Tienda versus the State of Texas establishes a need for authorship to be established, which it was not!"
-    "Prosecutor" "The precedent set forth by Tienda versus the State of Texas establishes a need for authorship to be established, which it was not!"
+    "检察官" "蒂安达诉德克萨斯州案的先例开创了确立作者身份的必要性，但事实并非如此！"
 
 # game/code/e05/e05s06.rpy:369
 translate chinese e05s06_court_room_fc2d09df:
 
     # op "What the state fails to recognize in this instance is that we are not trying to establish authorship of the video posted."
-    op "What the state fails to recognize in this instance is that we are not trying to establish authorship of the video posted."
+    op "在这个案例中，州政府没有认识到的是，我们并不是要证明所发布视频的作者身份。"
 
 # game/code/e05/e05s06.rpy:370
 translate chinese e05s06_court_room_a234e707:
 
     # op "But we are using it as video evidence to exonerate my client. The burden of proof is filled by the video evidence, not it's posting."
-    op "But we are using it as video evidence to exonerate my client. The burden of proof is filled by the video evidence, not it's posting."
+    op "但我们将把它作为视频证据来证明我的当事人无罪。举证责任在于视频内的证据，而非视频发布者。"
 
 # game/code/e05/e05s06.rpy:374
 translate chinese e05s06_court_room_d513f47d:
 
     # mct "Here we go..."
-    mct "Here we go..."
+    mct "开始了..."
 
 # game/code/e05/e05s06.rpy:382
 translate chinese e05s06_court_room_13c4c7d9:
