@@ -4,79 +4,79 @@
 translate chinese e05s07_003978cc:
 
     # mc "How long does this usually take?"
-    mc "How long does this usually take?"
+    mc "这通常需要多长时间？"
 
 # game/code/e05/e05s07.rpy:67
 translate chinese e05s07_b3b0d3f6:
 
     # mh "Juries generally come to a verdict in a few hours. Lasting for days is a bit odd, especially for such a small case."
-    mh "Juries generally come to a verdict in a few hours. Lasting for days is a bit odd, especially for such a small case."
+    mh "陪审团一般在几个小时内做出裁决。持续几天就有点奇怪了，尤其是这种小案子。"
 
 # game/code/e05/e05s07.rpy:68
 translate chinese e05s07_70ee02b2:
 
     # mh "How are you feeling, Oliver?"
-    mh "How are you feeling, Oliver?"
+    mh "你感觉怎么样，奥利弗？"
 
 # game/code/e05/e05s07.rpy:71
 translate chinese e05s07_17f95560:
 
     # op "My stomach is in knots."
-    op "My stomach is in knots."
+    op "我的胃打结了。"
 
 # game/code/e05/e05s07.rpy:73
 translate chinese e05s07_9c9bd79d:
 
     # mh "That's normal. That's how I felt during my first half dozen cases?"
-    mh "That's normal. That's how I felt during my first half dozen cases?"
+    mh "这很正常。这就是我接手前十几个案子时的感受吧？"
 
 # game/code/e05/e05s07.rpy:75
 translate chinese e05s07_96188c29:
 
     # op "Really?"
-    op "Really?"
+    op "真的吗？"
 
 # game/code/e05/e05s07.rpy:78
 translate chinese e05s07_74cb6e79:
 
     # mh "Absolutely. It's a nerve wracking thing, doing what we do."
-    mh "Absolutely. It's a nerve wracking thing, doing what we do."
+    mh "当然。做我们这行，是件很伤脑筋的事。"
 
 # game/code/e05/e05s07.rpy:80
 translate chinese e05s07_f8a40573:
 
     # op "That it is..."
-    op "That it is..."
+    op "那倒是..."
 
 # game/code/e05/e05s07.rpy:83
 translate chinese e05s07_3ef25f07:
 
     # tal "I'm not that worried."
-    tal "I'm not that worried."
+    tal "我没那么担心。"
 
 # game/code/e05/e05s07.rpy:86
 translate chinese e05s07_35f43d95:
 
     # op "Why!?"
-    op "Why!?"
+    op "为什么!?"
 
 # game/code/e05/e05s07.rpy:89
 translate chinese e05s07_8f6048a0:
 
     # tal "Because I have a damn good lawyer, Fancy Pants. Just you see."
-    tal "Because I have a damn good lawyer, Fancy Pants. Just you see."
+    tal "因为我有个好律师啊，花裤衩。等着瞧吧。"
 
 # game/code/e05/e05s07.rpy:92
 translate chinese e05s07_b2a7c5af:
 
     # op "But-"
-    op "But-"
+    op "但是--"
 
 # game/code/e05/e05s07.rpy:95
 translate chinese e05s07_6207ee42:
 
     # jdg "Have you reached a verdict, Foreman?"
-    jdg "Have you reached a verdict, Foreman?"
+    jdg "陪审团长，你们达成裁决了吗？"
 
 # game/code/e05/e05s07.rpy:99
 translate chinese e05s07_a56ccacf:
