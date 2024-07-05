@@ -76,511 +76,511 @@ translate chinese e05s07_b2a7c5af:
 translate chinese e05s07_6207ee42:
 
     # jdg "Have you reached a verdict, Foreman?"
-    jdg "陪审团长，你们达成裁决了吗？"
+    jdg "陪审团，你们达成裁决了吗？"
 
 # game/code/e05/e05s07.rpy:99
 translate chinese e05s07_a56ccacf:
 
     # "Foreman" "We have, your Honor."
-    "Foreman" "We have, your Honor."
+    "陪审长" "是的，审判长。"
 
 # game/code/e05/e05s07.rpy:103
 translate chinese e05s07_b6fa9e0b:
 
     # jdg "How do you find the accused?"
-    jdg "How do you find the accused?"
+    jdg "你们对被告作何裁决？"
 
 # game/code/e05/e05s07.rpy:106
 translate chinese e05s07_b44ee3f3:
 
     # "Foreman" "We... Have reached a deadlock, your Honor."
-    "Foreman" "We... Have reached a deadlock, your Honor."
+    "陪审长" "我们...陷入了一个僵局，审判长。"
 
 # game/code/e05/e05s07.rpy:109
 translate chinese e05s07_05882e4b:
 
     # jdg "I was not expecting a hung jury... What seems to be the issue?"
-    jdg "I was not expecting a hung jury... What seems to be the issue?"
+    jdg "我没想到陪审团会悬而未决...有什么问题吗？"
 
 # game/code/e05/e05s07.rpy:112
 translate chinese e05s07_53fbdfac:
 
     # "Foreman" "There are a few holdouts... They think that the video should be dismissed in lieu of the accused's rap sheet."
-    "Foreman" "There are a few holdouts... They think that the video should be dismissed in lieu of the accused's rap sheet."
+    "陪审长" "有几个人坚持己见...他们认为视频应该被驳回，而被告仍持有犯罪记录。"
 
 # game/code/e05/e05s07.rpy:114
 translate chinese e05s07_1e960355:
 
     # jdg "Preposterous."
-    jdg "Preposterous."
+    jdg "荒谬。"
 
 # game/code/e05/e05s07.rpy:117
 translate chinese e05s07_f16083df:
 
     # "Foreman" "Most of us agree with you there, your Honor."
-    "Foreman" "Most of us agree with you there, your Honor."
+    "陪审长" "我们大多数人都同意您的观点，审判长。"
 
 # game/code/e05/e05s07.rpy:120
 translate chinese e05s07_bb45254f:
 
     # jdg "And there's no hope in changing their minds?"
-    jdg "And there's no hope in changing their minds?"
+    jdg "那就没有希望改变他们的想法吗？"
 
 # game/code/e05/e05s07.rpy:123
 translate chinese e05s07_8a91fde8:
 
     # "Foreman" "No, your Honor."
-    "Foreman" "No, your Honor."
+    "陪审长" "没有，审判长。"
 
 # game/code/e05/e05s07.rpy:126
 translate chinese e05s07_7b11613d:
 
     # jdg "Then it comes down to me..."
-    jdg "Then it comes down to me..."
+    jdg "那就由我来决定了..."
 
 # game/code/e05/e05s07.rpy:127
 translate chinese e05s07_b3732d16:
 
     # jdg "Ms. Lindquist, it seems that the jury is incapable of rendering a verdict."
-    jdg "Ms. Lindquist, it seems that the jury is incapable of rendering a verdict."
+    jdg "林奎斯特女士，看来陪审团无法做出裁决。"
 
 # game/code/e05/e05s07.rpy:130
 translate chinese e05s07_6d332dc8:
 
     # tal "Yeah, probably because they're scared some Tok video will come out showing one of them grabbing a woman's ass."
-    tal "Yeah, probably because they're scared some Tok video will come out showing one of them grabbing a woman's ass."
+    tal "是啊，也许是因为他们害怕曝光出来一些视频，万一视频显示他们中就有人抓了别的女人的屁股。"
 
 # game/code/e05/e05s07.rpy:134
 translate chinese e05s07_70164f4c:
 
     # jdg "Ms. Lindquist. Although your manner can be foul, I think there was sufficient evidence provided that you acted in self defense."
-    jdg "Ms. Lindquist. Although your manner can be foul, I think there was sufficient evidence provided that you acted in self defense."
+    jdg "林奎斯特女士，虽然你的举止有些粗鲁，但我认为有足够的证据证明你是出于自卫。"
 
 # game/code/e05/e05s07.rpy:135
 translate chinese e05s07_a03a49ed:
 
     # jdg "And your lawyer, Mr. Parra, did an excellent job of proving to me, without a doubt, of such."
-    jdg "And your lawyer, Mr. Parra, did an excellent job of proving to me, without a doubt, of such."
+    jdg "你的律师帕拉先生，在向我证明这点方面做得非常出色，毫无疑问。"
 
 # game/code/e05/e05s07.rpy:136
 translate chinese e05s07_05c4d886:
 
     # jdg "As long as you stay out of trouble, I see no reason for a retrial. I acquit you of all charges. Court adjourned."
-    jdg "As long as you stay out of trouble, I see no reason for a retrial. I acquit you of all charges. Court adjourned."
+    jdg "只要你不惹麻烦，我认为没有理由重审，我宣布你无罪释放。休庭。"
 
 # game/code/e05/e05s07.rpy:142
 translate chinese e05s07_37f08204:
 
     # op "T-that's it!?"
-    op "T-that's it!?"
+    op "就--就这样!?"
 
 # game/code/e05/e05s07.rpy:145
 translate chinese e05s07_6ebd06af:
 
     # mh "Well done, Oliver."
-    mh "Well done, Oliver."
+    mh "干得好，奥利弗。"
 
 # game/code/e05/e05s07.rpy:147
 translate chinese e05s07_75236367:
 
     # op "But, she was only acquitted! We didn't find her innocent!"
-    op "But, she was only acquitted! We didn't find her innocent!"
+    op "但是，她只是被无罪释放了！还是没能说明她是无辜的！"
 
 # game/code/e05/e05s07.rpy:150
 translate chinese e05s07_3f126064:
 
     # tal "Fancy Pants, I'm not going to jail. That's the only thing I care about."
-    tal "Fancy Pants, I'm not going to jail. That's the only thing I care about."
+    tal "花裤子，我不会进监狱。这是我唯一关心的事。"
 
 # game/code/e05/e05s07.rpy:153
 translate chinese e05s07_fb921391:
 
     # mh "You did well. There's only one thing to do when you win your first case."
-    mh "You did well. There's only one thing to do when you win your first case."
+    mh "你做得很好。当你赢得了第一个案子，只有一件事要做。"
 
 # game/code/e05/e05s07.rpy:156
 translate chinese e05s07_79b95448:
 
     # tal "Have a celebratory drink."
-    tal "Have a celebratory drink."
+    tal "喝一杯庆祝一下。"
 
 # game/code/e05/e05s07.rpy:157
 translate chinese e05s07_2f20c49d:
 
     # tal "That's what I'm doing tonight!"
-    tal "That's what I'm doing tonight!"
+    tal "这就是我今晚要做的！"
 
 # game/code/e05/e05s07.rpy:161
 translate chinese e05s07_ab3c8710:
 
     # mh "I have to agree with Taisia, Oliver. Come on."
-    mh "I have to agree with Taisia, Oliver. Come on."
+    mh "我不得不同意泰西娅，奥利弗。来吧。"
 
 # game/code/e05/e05s07.rpy:194
 translate chinese e05s07_bar_661d18e4:
 
     # mh "What's wrong, Oliver? You should be thrilled."
-    mh "What's wrong, Oliver? You should be thrilled."
+    mh "怎么了，奥利弗？你应该高兴才对。"
 
 # game/code/e05/e05s07.rpy:197
 translate chinese e05s07_bar_f25973fe:
 
     # op "I didn't clear her of the charges..."
-    op "I didn't clear her of the charges..."
+    op "我没有为她洗脱罪名..."
 
 # game/code/e05/e05s07.rpy:200
 translate chinese e05s07_bar_191cfd60:
 
     # mc "But she was acquitted."
-    mc "But she was acquitted."
+    mc "但她被无罪释放了。"
 
 # game/code/e05/e05s07.rpy:203
 translate chinese e05s07_bar_17d7ae4b:
 
     # op "It's not the same as being found not guilty..."
-    op "It's not the same as being found not guilty..."
+    op "不构成犯罪和宣告无罪不一样..."
 
 # game/code/e05/e05s07.rpy:206
 translate chinese e05s07_bar_37dac97a:
 
     # mh "Oliver."
-    mh "Oliver."
+    mh "奥利弗。"
 
 # game/code/e05/e05s07.rpy:207
 translate chinese e05s07_bar_402e2ef5:
 
     # mh "Taisia is a good- Taisia didn't do anything wrong. She was a woman who acted in self defense. And most lawyers wouldn't have taken the time to prove that she had."
-    mh "Taisia is a good- Taisia didn't do anything wrong. She was a woman who acted in self defense. And most lawyers wouldn't have taken the time to prove that she had."
+    mh "泰西娅人很好--她没有做错任何事，她只是个出于自卫的女人，但大多数律师都不会花时间去证明她的无罪。"
 
 # game/code/e05/e05s07.rpy:208
 translate chinese e05s07_bar_0930b9cd:
 
     # mh "In fact, most defense attorneys I know would have taken one look at her rap sheet and walked. Or agreed to that terrible plea deal and locked her up."
-    mh "In fact, most defense attorneys I know would have taken one look at her rap sheet and walked. Or agreed to that terrible plea deal and locked her up."
+    mh "事实上，我认识的大多数辩护律师，他们只会看一眼她的犯罪记录就走人，或者同意那糟糕的认罪协议，把她关起来。"
 
 # game/code/e05/e05s07.rpy:209
 translate chinese e05s07_bar_f3306a91:
 
     # mh "But you didn't. You took on the case, and look. Tonight, Taisia is going to be released from jail and walk away - a free woman."
-    mh "But you didn't. You took on the case, and look. Tonight, Taisia is going to be released from jail and walk away - a free woman."
+    mh "但你没有。你接手了这个案子，你看，今晚，泰西娅就要从监狱里出来了--以一个自由的女人的身份。"
 
 # game/code/e05/e05s07.rpy:210
 translate chinese e05s07_bar_d1aa32b9:
 
     # mh "Did you know that my first half dozen cases, I lost."
-    mh "Did you know that my first half dozen cases, I lost."
+    mh "你知道吗，我接手的前十几个案子，全都输了。"
 
 # game/code/e05/e05s07.rpy:213
 translate chinese e05s07_bar_3f4deb70:
 
     # op "No."
-    op "No."
+    op "怎么会。"
 
 # game/code/e05/e05s07.rpy:216
 translate chinese e05s07_bar_9ec1e605:
 
     # mh "It's true. One in particular still haunts me... But, I was new, and had no idea what I was doing."
-    mh "It's true. One in particular still haunts me... But, I was new, and had no idea what I was doing."
+    mh "是真的。有一个案子至今让我耿耿于怀...但我当时是新人，根本不知道自己在做什么。"
 
 # game/code/e05/e05s07.rpy:217
 translate chinese e05s07_bar_34e5b03e:
 
     # mh "You on the other hand, walked away victorious tonight."
-    mh "You on the other hand, walked away victorious tonight."
+    mh "而你，今晚却大获全胜。"
 
 # game/code/e05/e05s07.rpy:221
 translate chinese e05s07_bar_32d21208:
 
     # mc "Which means we should drink, and make merry!"
-    mc "Which means we should drink, and make merry!"
+    mc "这意味着我们应该喝酒，尽情欢乐！"
 
 # game/code/e05/e05s07.rpy:224
 translate chinese e05s07_bar_a9791909:
 
     # mh "I can toast to that."
-    mh "I can toast to that."
+    mh "为此，值得干上一杯。"
 
 # game/code/e05/e05s07.rpy:229
 translate chinese e05s07_bar_ab734505:
 
     # "Drunk Cop" "Ayyeeee.. Don't I knowyou fromsomewhurrr?"
-    "Drunk Cop" "Ayyeeee.. Don't I knowyou fromsomewhurrr?"
+    "醉鬼警察" "哎呀呀..我是不是在哪儿...见--见过你？"
 
 # game/code/e05/e05s07.rpy:232
 translate chinese e05s07_bar_f628e927:
 
     # mh "I'm a lawyer, so probably from-"
-    mh "I'm a lawyer, so probably from-"
+    mh "我是个律师，所以可能--"
 
 # game/code/e05/e05s07.rpy:235
 translate chinese e05s07_bar_47ecdfbb:
 
     # "Drunk Cop" "I'mnottalking toyou."
-    "Drunk Cop" "I'mnottalking toyou."
+    "醉鬼警察" "我不是在跟你说话。"
 
 # game/code/e05/e05s07.rpy:239
 translate chinese e05s07_bar_a6f5262b:
 
     # "Drunk Cop" "I'm talkin'toyou... Why I knowyo'face?"
-    "Drunk Cop" "I'm talkin'toyou... Why I knowyo'face?"
+    "醉酒警察" "我在和你说话...我怎么...认识你呢？"
 
 # game/code/e05/e05s07.rpy:242
 translate chinese e05s07_bar_fffc3288:
 
     # mc "I'm not really sure, Officer."
-    mc "I'm not really sure, Officer."
+    mc "我也不太清楚，警官。"
 
 # game/code/e05/e05s07.rpy:245
 translate chinese e05s07_bar_5218d396:
 
     # "Drunk Cop" "Waita minoote! I 'EMEMBER! You'rethatguy - the APP guy!"
-    "Drunk Cop" "Waita minoote! I 'EMEMBER! You'rethatguy - the APP guy!"
+    "醉酒警察" "等等等一下！我记得了！你就是那个--搞软件的家伙！"
 
 # game/code/e05/e05s07.rpy:248
 translate chinese e05s07_bar_b5a56e3a:
 
     # "Drunk Cop" "You came'ere andgot fuckin' HAMMERED! I 'emember - I wastheone whoarrested you!"
-    "Drunk Cop" "You came'ere andgot fuckin' HAMMERED! I 'emember - I wastheone whoarrested you!"
+    "醉酒警察" "你来这里然后喝的烂醉如泥！我记得，是我逮捕了你！"
 
 # game/code/e05/e05s07.rpy:250
 translate chinese e05s07_bar_bef7c207:
 
     # "Drunk Cop" "You came'ere andgot fuckin' HAMMERED! I 'emember!"
-    "Drunk Cop" "You came'ere andgot fuckin' HAMMERED! I 'emember!"
+    "醉酒警察" "你来这里然后喝的烂醉如泥！我记得！"
 
 # game/code/e05/e05s07.rpy:251
 translate chinese e05s07_bar_e4b880d3:
 
     # "Drunk Cop" "Thatwas LEGEN-"
-    "Drunk Cop" "Thatwas LEGEN-"
+    "醉酒警察" "那可真是老--"
 
 # game/code/e05/e05s07.rpy:254
 translate chinese e05s07_bar_dcea3de1:
 
     # mc "Uhm, Ofic-"
-    mc "Uhm, Ofic-"
+    mc "呃，警--"
 
 # game/code/e05/e05s07.rpy:257
 translate chinese e05s07_bar_f60469a1:
 
     # "Drunk Cop" "-DARRRY! LEGENDARY! Youwere so fuckin'drunk."
-    "Drunk Cop" "-DARRRY! LEGENDARY! Youwere so fuckin'drunk."
+    "醉酒警察" "--有名！老有名了！你醉得太厉害了。"
 
 # game/code/e05/e05s07.rpy:258
 translate chinese e05s07_bar_bffeaef7:
 
     # "Drunk Cop" "But I heard'bout you. You'se theguy fromthat freakysexapp. Whofucked allthempeople."
-    "Drunk Cop" "But I heard'bout you. You'se theguy fromthat freakysexapp. Whofucked allthempeople."
+    "醉鬼警察" "但我听说过你。你就是那个变态性爱软件里的家伙，把所有人都操了个遍。"
 
 # game/code/e05/e05s07.rpy:259
 translate chinese e05s07_bar_552c7af1:
 
     # "Drunk Cop" "Tellme... Didya'havefuuuuun withallthem... Collegesluuuuuts?"
-    "Drunk Cop" "Tellme... Didya'havefuuuuun withallthem... Collegesluuuuuts?"
+    "醉鬼警察" "告诉我...你和那些大学婊子...是不是...玩的特爽？"
 
 # game/code/e05/e05s07.rpy:262
 translate chinese e05s07_bar_3c1a364b:
 
     # op "Excuse me, Officer. We were having a private conversation."
-    op "Excuse me, Officer. We were having a private conversation."
+    op "对不起，警官。我们在进行私人谈话。"
 
 # game/code/e05/e05s07.rpy:265
 translate chinese e05s07_bar_824e4654:
 
     # "Drunk Cop" "Whatdyasay tome?"
-    "Drunk Cop" "Whatdyasay tome?"
+    "醉鬼警察" "你跟我说什么？"
 
 # game/code/e05/e05s07.rpy:268
 translate chinese e05s07_bar_e3a8e0c4:
 
     # op "We were having a private conversation, and you're obviously making my friend uncomfortable. Why don't you return to your table, and let us get back to our conversation?"
-    op "We were having a private conversation, and you're obviously making my friend uncomfortable. Why don't you return to your table, and let us get back to our conversation?"
+    op "我们正在进行私人谈话，显然你已经让我的朋友感到不舒服了。你为什么不回到自己的位子上去，让我们继续聊天呢？"
 
 # game/code/e05/e05s07.rpy:272
 translate chinese e05s07_bar_acca1c74:
 
     # "Drunk Cop" "Whoareyoueven, hisfuckin'boyfriend?"
-    "Drunk Cop" "Whoareyoueven, hisfuckin'boyfriend?"
+    "醉鬼警察" "你是谁，他的哪门子男朋友吗？"
 
 # game/code/e05/e05s07.rpy:275
 translate chinese e05s07_bar_89c251dc:
 
     # op "Yes, I am."
-    op "Yes, I am."
+    op "正是。"
 
 # game/code/e05/e05s07.rpy:278
 translate chinese e05s07_bar_27fa4a86:
 
     # "Drunk Cop" "Yea'weeellll, I'mma fuckin'cop, sonny. I cando wateva' I want!"
-    "Drunk Cop" "Yea'weeellll, I'mma fuckin'cop, sonny. I cando wateva' I want!"
+    "醉鬼警察" "呵，那我他妈是个警察小子。我想做什么就--就做什么！"
 
 # game/code/e05/e05s07.rpy:281
 translate chinese e05s07_bar_1e717af1:
 
     # op "And I'm a lawyer, who can and will call the DA-"
-    op "And I'm a lawyer, who can and will call the DA-"
+    op "我是个律师，我可以，也准备打电话给--"
 
 # game/code/e05/e05s07.rpy:283
 translate chinese e05s07_bar_1538f92e:
 
     # "Drunk Cop" "Areyou threatenin' apeaceofficer?"
-    "Drunk Cop" "Areyou threatenin' apeaceofficer?"
+    "醉酒警察" "你是在威胁警察吗？"
 
 # game/code/e05/e05s07.rpy:287
 translate chinese e05s07_bar_47b02020:
 
     # mh "No, he is not. You need to leave. Now."
-    mh "No, he is not. You need to leave. Now."
+    mh "不，他没有。你需要离开了。现在就离开。"
 
 # game/code/e05/e05s07.rpy:292
 translate chinese e05s07_bar_8201e566:
 
     # "Drunk Cop" "Ohyeah? Whatchugonna' do'boutit... Bitch?"
-    "Drunk Cop" "Ohyeah? Whatchugonna' do'boutit... Bitch?"
+    "醉酒警察" "是吗？你想怎么样...臭婊子？"
 
 # game/code/e05/e05s07.rpy:294
 translate chinese e05s07_bar_5f099e7d:
 
     # mc "What did you-"
-    mc "What did you-"
+    mc "你要做--"
 
 # game/code/e05/e05s07.rpy:298
 translate chinese e05s07_bar_89dd02a3:
 
     # mh "Me? I won't do anything. But I'm good friends with the bar owner. And if you don't want to get kicked out and banned from the bar, you better leave now."
-    mh "Me? I won't do anything. But I'm good friends with the bar owner. And if you don't want to get kicked out and banned from the bar, you better leave now."
+    mh "我？我什么都不会做的。但我和酒吧老板是好朋友。如果你不想被赶出酒吧，并且被禁止进入的话，最好现在就走。"
 
 # game/code/e05/e05s07.rpy:302
 translate chinese e05s07_bar_04ff570a:
 
     # mh "And what's that? You're from the 7-2 precinct? I just happen to know the captain over there."
-    mh "And what's that? You're from the 7-2 precinct? I just happen to know the captain over there."
+    mh "这是什么？你是7-2分局的？我正好认识那边的队长。"
 
 # game/code/e05/e05s07.rpy:303
 translate chinese e05s07_bar_fb8cc6e3:
 
     # mh "Maybe he'd be interested as to why his friend asked that one of his officer's be detained in the drunk tank tonight."
-    mh "Maybe he'd be interested as to why his friend asked that one of his officer's be detained in the drunk tank tonight."
+    mh "也许他会有兴趣知道，为什么他的朋友会要求今晚把他的一个下属关进拘留所里醒酒。"
 
 # game/code/e05/e05s07.rpy:306
 translate chinese e05s07_bar_ad1f04d4:
 
     # mh "Sounds like cause for dismissal - without pay."
-    mh "Sounds like cause for dismissal - without pay."
+    mh "听起来可以凭此解雇了--没有薪水的那种。"
 
 # game/code/e05/e05s07.rpy:310
 translate chinese e05s07_bar_6bfe4920:
 
     # "Drunk Cop" "I'm... Goin'back tomytable... Youhave... Anicenight..."
-    "Drunk Cop" "I'm... Goin'back tomytable... Youhave... Anicenight..."
+    "醉酒警察" "我...要回我...位子上了...祝你...今晚...愉快。"
 
 # game/code/e05/e05s07.rpy:315
 translate chinese e05s07_bar_a37825f5:
 
     # op "Wow, Lyssa... You really put him in his place."
-    op "Wow, Lyssa... You really put him in his place."
+    op "哇，丽莎...你真让他无地自容。"
 
 # game/code/e05/e05s07.rpy:318
 translate chinese e05s07_bar_86b4c662:
 
     # mc "Woah, let's not understate your part in this, Ollie."
-    mc "Woah, let's not understate your part in this, Ollie."
+    mc "嘿，也别小看你的功劳，奥利。"
 
 # game/code/e05/e05s07.rpy:321
 translate chinese e05s07_bar_7a4bb42b:
 
     # op "Huh?"
-    op "Huh?"
+    op "啊？"
 
 # game/code/e05/e05s07.rpy:323
 translate chinese e05s07_bar_478cb823:
 
     # mc "You're the one who told him to jog on first!"
-    mc "You're the one who told him to jog on first!"
+    mc "是你让他先走人的！"
 
 # game/code/e05/e05s07.rpy:325
 translate chinese e05s07_bar_b47d251f:
 
     # op "Well... Yeah. He was making you uncomfortable."
-    op "Well... Yeah. He was making you uncomfortable."
+    op "嗯...是啊。他让你很不舒服。"
 
 # game/code/e05/e05s07.rpy:329
 translate chinese e05s07_bar_1f6ea21e:
 
     # mc "Lyssa, it looks like our work here is done."
-    mc "Lyssa, it looks like our work here is done."
+    mc "丽莎，看来我们在这里的任务已经完成了。"
 
 # game/code/e05/e05s07.rpy:332
 translate chinese e05s07_bar_a8f72fdd:
 
     # mh "It looks like it."
-    mh "It looks like it."
+    mh "看起来是的。"
 
 # game/code/e05/e05s07.rpy:334
 translate chinese e05s07_bar_b0f3d2d5:
 
     # op "What do you mean?"
-    op "What do you mean?"
+    op "什么意思？"
 
 # game/code/e05/e05s07.rpy:335
 translate chinese e05s07_bar_899de929:
 
     # mh "You're finally becoming the confident man I always knew you could be, Oliver."
-    mh "You're finally becoming the confident man I always knew you could be, Oliver."
+    mh "奥利弗，你终于成为了我一直认为你会成为的那种自信的人。"
 
 # game/code/e05/e05s07.rpy:338
 translate chinese e05s07_bar_48b1d0b6:
 
     # mc "If I remember right, I was in the middle of toasting before we were so rudely interrupted."
-    mc "If I remember right, I was in the middle of toasting before we were so rudely interrupted."
+    mc "如果我没记错的话，在我们被粗鲁地打断之前，我正在敬酒。"
 
 # game/code/e05/e05s07.rpy:341
 translate chinese e05s07_bar_0bff6172:
 
     # mh "You're right, [mcname]."
-    mh "You're right, [mcname]."
+    mh "你说得对，[mcname]。"
 
 # game/code/e05/e05s07.rpy:344
 translate chinese e05s07_bar_ef54a398:
 
     # mc "Come on, Ollie."
-    mc "Come on, Ollie."
+    mc "来吧，奥利。"
 
 # game/code/e05/e05s07.rpy:350
 translate chinese e05s07_bar_55eaf6ae:
 
     # mc "So, a toast! A toast to..."
-    mc "So, a toast! A toast to..."
+    mc "干杯！敬..."
 
 # game/code/e05/e05s07.rpy:357
 translate chinese e05s07_bar_51551b11:
 
     # mc "Our lives, together. May they be happy! Full of love, sex, and bliss!"
-    mc "Our lives, together. May they be happy! Full of love, sex, and bliss!"
+    mc "我们一起共享的生活。愿每天都幸福快乐，充满爱、性和幸福！"
 
 # game/code/e05/e05s07.rpy:360
 translate chinese e05s07_bar_1fad2a40:
 
     # op "To... Outgrowing ourselves. Becoming the person that others can see us being."
-    op "To... Outgrowing ourselves. Becoming the person that others can see us being."
+    op "敬...超越自我。成为别人期待的理想的我们。"
 
 # game/code/e05/e05s07.rpy:366
 translate chinese e05s07_bar_5964f73d:
 
     # mc "To leaving our old lives behind, to enjoy a much better future."
-    mc "To leaving our old lives behind, to enjoy a much better future."
+    mc "让我们告别过去的生活，享受更美好的未来。"
 
 # game/code/e05/e05s07.rpy:369
 translate chinese e05s07_bar_858b232b:
 
     # op "My toast... Is for our futures together. I never thought I would... Love anyone like I love you two. Now I can't imagine a life without knowing a love like this."
-    op "My toast... Is for our futures together. I never thought I would... Love anyone like I love you two. Now I can't imagine a life without knowing a love like this."
+    op "我的祝酒词...是为了我们共同的未来。我从没想过我会...像爱你们一样爱别人。现在我无法想象没有这种爱的生活。"
 
 # game/code/e05/e05s07.rpy:373
 translate chinese e05s07_bar_c12194d2:
 
     # mh "To Oliver going to take the bar exam, and becoming partner at Harris & Parra."
-    mh "To Oliver going to take the bar exam, and becoming partner at Harris & Parra."
+    mh "敬奥利佛参加律师考试，成为哈里斯&帕拉律师事务所的合伙人。"
 
 # game/code/e05/e05s07.rpy:379
 translate chinese e05s07_bar_0bcb3dd1:
@@ -592,319 +592,319 @@ translate chinese e05s07_bar_0bcb3dd1:
 translate chinese e05s07_bar_0a8e2179:
 
     # op "W-w-what!?"
-    op "W-w-what!?"
+    op "十-十-什么!?"
 
 # game/code/e05/e05s07.rpy:388
 translate chinese e05s07_bar_36cf942f:
 
     # mh "You need to drink, Oliver. It's bad luck if you don't."
-    mh "You need to drink, Oliver. It's bad luck if you don't."
+    mh "你得喝点酒，奥利弗。不喝会倒霉的。"
 
 # game/code/e05/e05s07.rpy:391
 translate chinese e05s07_bar_33b7bfee:
 
     # op "I can't drink after hearing that! I need to know more! What!?"
-    op "I can't drink after hearing that! I need to know more! What!?"
+    op "听了这番话，我怎么能喝下！我需要知道更多信息！怎么回事!?"
 
 # game/code/e05/e05s07.rpy:393
 translate chinese e05s07_bar_c1a4fa6c:
 
     # mh "First things first, Oliver."
-    mh "First things first, Oliver."
+    mh "先办正事，奥利弗。"
 
 # game/code/e05/e05s07.rpy:403
 translate chinese e05s07_bar_9c857c0e:
 
     # op "The bar!? Partner!?! What!"
-    op "The bar!? Partner!?! What!"
+    op "律师考试!? 合伙人!? 什么情况！"
 
 # game/code/e05/e05s07.rpy:406
 translate chinese e05s07_bar_09826f60:
 
     # mh "Isn't that why you took charge on this case?"
-    mh "Isn't that why you took charge on this case?"
+    mh "这不就是你负责这个案子的原因吗？"
 
 # game/code/e05/e05s07.rpy:409
 translate chinese e05s07_bar_ccb752df:
 
     # op "W-well, yes! But I didn't think... Not this quickly!"
-    op "W-well, yes! But I didn't think... Not this quickly!"
+    op "呃，是的！但我没想到....没这么快！"
 
 # game/code/e05/e05s07.rpy:412
 translate chinese e05s07_bar_e3aa30ab:
 
     # mc "What is there to wait for?"
-    mc "What is there to wait for?"
+    mc "还等什么？"
 
 # game/code/e05/e05s07.rpy:415
 translate chinese e05s07_bar_231d2202:
 
     # op "I-I don't know! I just - I'm not ready for the bar exam!"
-    op "I-I don't know! I just - I'm not ready for the bar exam!"
+    op "我--我不知道！我只是--我还没准备好参加律师资格考试！"
 
 # game/code/e05/e05s07.rpy:418
 translate chinese e05s07_bar_8d02e2f5:
 
     # mh "But you will be, Oliver. You're already leagues ahead of anyone I know who's just starting out. Further ahead than I was when I started."
-    mh "But you will be, Oliver. You're already leagues ahead of anyone I know who's just starting out. Further ahead than I was when I started."
+    mh "但你会准备好的，奥利弗。你已经领先于我认识的所有刚起步的人。比我刚开始的时候还要优秀。"
 
 # game/code/e05/e05s07.rpy:420
 translate chinese e05s07_bar_c482fee7:
 
     # op "B-b-but-"
-    op "B-b-but-"
+    op "但--但--但是--"
 
 # game/code/e05/e05s07.rpy:423
 translate chinese e05s07_bar_cb320d8d:
 
     # mc "But nothing, Oliver. You're clearly ready."
-    mc "But nothing, Oliver. You're clearly ready."
+    mc "没有但是，奥利弗。你显然已经准备好了。"
 
 # game/code/e05/e05s07.rpy:425
 translate chinese e05s07_bar_1f83be0d:
 
     # op "I can't. I can't do it."
-    op "I can't. I can't do it."
+    op "我做不到。我做不到。"
 
 # game/code/e05/e05s07.rpy:427
 translate chinese e05s07_bar_512ec2c5:
 
     # mc "What happened to Confident Ollie? I liked him, bring him back!"
-    mc "What happened to Confident Ollie? I liked him, bring him back!"
+    mc "那个自信的奥利怎么了？我喜欢那个奥利，让他回来！"
 
 # game/code/e05/e05s07.rpy:431
 translate chinese e05s07_bar_3cd314ef:
 
     # mh "You are ready, Oliver."
-    mh "You are ready, Oliver."
+    mh "你已经准备好了，奥利弗。"
 
 # game/code/e05/e05s07.rpy:432
 translate chinese e05s07_bar_ce0f4672:
 
     # mh "And as an added perk, {i}when{/i} you pass the bar exam, we're going to go on a trip."
-    mh "And as an added perk, {i}when{/i} you pass the bar exam, we're going to go on a trip."
+    mh "作为额外的福利，{i}等{/i}你通过律师资格考试后，我们要去旅行。"
 
 # game/code/e05/e05s07.rpy:435
 translate chinese e05s07_bar_a4929e77:
 
     # mc "Where!?"
-    mc "Where!?"
+    mc "去哪儿!?"
 
 # game/code/e05/e05s07.rpy:438
 translate chinese e05s07_bar_0ea294bb:
 
     # op "What!?"
-    op "What!?"
+    op "什么!?"
 
 # game/code/e05/e05s07.rpy:442
 translate chinese e05s07_bar_ab9c3c96:
 
     # mh "It's a surprise."
-    mh "It's a surprise."
+    mh "这是个惊喜。"
 
 # game/code/e05/e05s07.rpy:445
 translate chinese e05s07_bar_e210cb40:
 
     # mc "Oliver. You need to take the bar."
-    mc "Oliver. You need to take the bar."
+    mc "奥利弗，你需要参加律师资格考试。"
 
 # game/code/e05/e05s07.rpy:448
 translate chinese e05s07_bar_df8db14f:
 
     # op "But I-"
-    op "But I-"
+    op "但是我--"
 
 # game/code/e05/e05s07.rpy:451
 translate chinese e05s07_bar_13e0207d:
 
     # mc "Vacation! And honestly, we could all use one."
-    mc "Vacation! And honestly, we could all use one."
+    mc "度假！老实说，我们都需要假期。"
 
 # game/code/e05/e05s07.rpy:454
 translate chinese e05s07_bar_8b433a68:
 
     # mh "Agreed."
-    mh "Agreed."
+    mh "我同意。"
 
 # game/code/e05/e05s07.rpy:457
 translate chinese e05s07_bar_6d4b28af:
 
     # op "I..."
-    op "I..."
+    op "我..."
 
 # game/code/e05/e05s07.rpy:460
 translate chinese e05s07_bar_89dfd5b1:
 
     # mh "I already booked the tickets for the day after the next bar exam."
-    mh "I already booked the tickets for the day after the next bar exam."
+    mh "我已经订好了下次律师资格考试后的机票。"
 
 # game/code/e05/e05s07.rpy:461
 translate chinese e05s07_bar_d3d8d6cb:
 
     # mh "I'm that confident in you, Oliver."
-    mh "I'm that confident in you, Oliver."
+    mh "我对你很有信心，奥利弗。"
 
 # game/code/e05/e05s07.rpy:464
 translate chinese e05s07_bar_526741db:
 
     # op "I... I don't know what to say."
-    op "I... I don't know what to say."
+    op "我...我不知道该说什么。"
 
 # game/code/e05/e05s07.rpy:466
 translate chinese e05s07_bar_c70b03d2:
 
     # mh "Say you'll take the bar exam."
-    mh "Say you'll take the bar exam."
+    mh "就说你会参加律师资格考试。"
 
 # game/code/e05/e05s07.rpy:468
 translate chinese e05s07_bar_793d098c:
 
     # op "I'll... I'll do it."
-    op "I'll... I'll do it."
+    op "我...我会的。"
 
 # game/code/e05/e05s07.rpy:474
 translate chinese e05s07_bar_ad23f1fa:
 
     # mc "That deserves another toast!"
-    mc "That deserves another toast!"
+    mc "这值得再干一杯！"
 
 # game/code/e05/e05s07.rpy:475
 translate chinese e05s07_bar_cbe980cd:
 
     # mc "To the bar exam!"
-    mc "To the bar exam!"
+    mc "为律师资格考试干杯！"
 
 # game/code/e05/e05s07.rpy:481
 translate chinese e05s07_bar_984de211:
 
     # op "What the hell, I'm going to take the bar exam!"
-    op "What the hell, I'm going to take the bar exam!"
+    op "管他的，我要参加律师资格考试！"
 
 # game/code/e05/e05s07.rpy:509
 translate chinese e05s07_sex_4a588b96:
 
     # mh "She didn't tell me that someone was coming to look at the house!"
-    mh "She didn't tell me that someone was coming to look at the house!"
+    mh "她没告诉我有人会来看房子！"
 
 # game/code/e05/e05s07.rpy:512
 translate chinese e05s07_sex_68373259:
 
     # op "What did you do!?"
-    op "What did you do!?"
+    op "你怎么做的!?"
 
 # game/code/e05/e05s07.rpy:515
 translate chinese e05s07_sex_875eb0f7:
 
     # mh "I grabbed my dress and jumped out the window."
-    mh "I grabbed my dress and jumped out the window."
+    mh "我抓起我的裙子，跳出了窗户。"
 
 # game/code/e05/e05s07.rpy:518
 translate chinese e05s07_sex_253adc40:
 
     # mc "No way! Not the Lyssa I know!"
-    mc "No way! Not the Lyssa I know!"
+    mc "不可能！这不是我认识的丽莎！"
 
 # game/code/e05/e05s07.rpy:521
 translate chinese e05s07_sex_11d09d7a:
 
     # mh "This was a long time ago. I was more nervous back then."
-    mh "This was a long time ago. I was more nervous back then."
+    mh "这是很久以前的事了。那时我更紧张。"
 
 # game/code/e05/e05s07.rpy:524
 translate chinese e05s07_sex_d405ea0e:
 
     # op "You both have lived such exhilarating lives..."
-    op "You both have lived such exhilarating lives..."
+    op "你们俩都活得如此精彩..."
 
 # game/code/e05/e05s07.rpy:527
 translate chinese e05s07_sex_b622f5b3:
 
     # mh "Don't worry, Oliver. There will be plenty of time for you to experience everything we have."
-    mh "Don't worry, Oliver. There will be plenty of time for you to experience everything we have."
+    mh "别担心，奥利弗。我们有的是时间让你体验我们所拥有的一切。"
 
 # game/code/e05/e05s07.rpy:529
 translate chinese e05s07_sex_7da6c5e3:
 
     # op "Mmhmmm..."
-    op "Mmhmmm..."
+    op "嗯嗯..."
 
 # game/code/e05/e05s07.rpy:532
 translate chinese e05s07_sex_6624641c:
 
     # mh "Hmmm... [mcname], you ever fuck anyone in a bar?"
-    mh "Hmmm... [mcname], you ever fuck anyone in a bar?"
+    mh "嗯...[mcname]，你在酒吧里和人干过吗？"
 
 # game/code/e05/e05s07.rpy:536
 translate chinese e05s07_sex_118f84db:
 
     # mc "Uhhh... I don't think so."
-    mc "Uhhh... I don't think so."
+    mc "呃...我想没有。"
 
 # game/code/e05/e05s07.rpy:538
 translate chinese e05s07_sex_6cb4dca7:
 
     # mh "Neither do I."
-    mh "Neither do I."
+    mh "我也没有。"
 
 # game/code/e05/e05s07.rpy:541
 translate chinese e05s07_sex_96116553:
 
     # op "What?"
-    op "What?"
+    op "什么？"
 
 # game/code/e05/e05s07.rpy:544
 translate chinese e05s07_sex_d2b8c6c7:
 
     # mh "It's something new we can do."
-    mh "It's something new we can do."
+    mh "我们倒是可以试试新花样。"
 
 # game/code/e05/e05s07.rpy:545
 translate chinese e05s07_sex_b0e528ce:
 
     # mh "What do you say, [mcname]? Want to get freaky at the bar?"
-    mh "What do you say, [mcname]? Want to get freaky at the bar?"
+    mh "怎么样，[mcname]？想不想在酒吧来点刺激的？"
 
 # game/code/e05/e05s07.rpy:548
 translate chinese e05s07_sex_cd3faf14:
 
     # mc "I have been waiting all night for you to ask."
-    mc "I have been waiting all night for you to ask."
+    mc "我整晚都在等你开口。"
 
 # game/code/e05/e05s07.rpy:551
 translate chinese e05s07_sex_fcd89334:
 
     # op "But - the people!"
-    op "But - the people!"
+    op "但是--有人啊！"
 
 # game/code/e05/e05s07.rpy:554
 translate chinese e05s07_sex_53ee4212:
 
     # mh "Everyone's gone home..."
-    mh "Everyone's gone home..."
+    mh "大家都回家了..."
 
 # game/code/e05/e05s07.rpy:555
 translate chinese e05s07_sex_32cf74dd:
 
     # mh "And like I said... The owner is a friend."
-    mh "And like I said... The owner is a friend."
+    mh "就像我说的...店主是我朋友。"
 
 # game/code/e05/e05s07.rpy:565
 translate chinese e05s07_sex_77df174d:
 
     # mh "I thought you wanted to experience life with us..."
-    mh "I thought you wanted to experience life with us..."
+    mh "我以为你想和我们一起体验生活呢..."
 
 # game/code/e05/e05s07.rpy:567
 translate chinese e05s07_sex_3e1b9750:
 
     # op "I do, but-"
-    op "I do, but-"
+    op "我是想，但是..."
 
 # game/code/e05/e05s07.rpy:568
 translate chinese e05s07_sex_9a1c9e3c:
 
     # mh "But, but, but. Ollie, the only butt I want is {i}yours{/i}."
-    mh "But, but, but. Ollie, the only butt I want is {i}yours{/i}."
+    mh "但是，但是，但是。奥利，我只想要{i}你的{/i}屁股。"
 
 # game/code/e05/e05s07.rpy:569
 translate chinese e05s07_sex_aa7e9e01:
@@ -916,109 +916,109 @@ translate chinese e05s07_sex_aa7e9e01:
 translate chinese e05s07_sex_74f75c85:
 
     # mc "I got hard the second she brought this up. We're doing this."
-    mc "I got hard the second she brought this up. We're doing this."
+    mc "她刚一提我就硬了。咱们开始吧。"
 
 # game/code/e05/e05s07.rpy:581
 translate chinese e05s07_sex_d01172bb:
 
     # mc "Are you in, or out?"
-    mc "Are you in, or out?"
+    mc "怎么样，你加入还是退出？"
 
 # game/code/e05/e05s07.rpy:584
 translate chinese e05s07_sex_a72e2c29:
 
     # op "I'm all in."
-    op "I'm all in."
+    op "我加入。"
 
 # game/code/e05/e05s07.rpy:587
 translate chinese e05s07_sex_4a5c2fb4:
 
     # mh "Are you two planning to join me?"
-    mh "Are you two planning to join me?"
+    mh "你们俩打算加入吗？"
 
 # game/code/e05/e05s07.rpy:589
 translate chinese e05s07_sex_4f4ca646:
 
     # mc "Obviously!"
-    mc "Obviously!"
+    mc "当然了！"
 
 # game/code/e05/e05s07.rpy:592
 translate chinese e05s07_sex_d55ef9ce:
 
     # op "What are we..."
-    op "What are we..."
+    op "我们怎么..."
 
 # game/code/e05/e05s07.rpy:594
 translate chinese e05s07_sex_9c1f8b31:
 
     # mh "Well if you lay down we can show you. Which promises to be more fun."
-    mh "Well if you lay down we can show you. Which promises to be more fun."
+    mh "嗯，如果你躺下，我们可以做给你看。我保证会很有趣的。"
 
 # game/code/e05/e05s07.rpy:598
 translate chinese e05s07_sex_4271569b:
 
     # op "You haven't steered me wrong-"
-    op "You haven't steered me wrong-"
+    op "你没说错--"
 
 # game/code/e05/e05s07.rpy:603
 translate chinese e05s07_sex_3324ceb2:
 
     # op "Goodness! Lyssa, a l-little... Mmmmm, that feels good..."
-    op "Goodness! Lyssa, a l-little... Mmmmm, that feels good..."
+    op "天哪！丽莎，来点...哦哦哦，感觉真好..."
 
 # game/code/e05/e05s07.rpy:607
 translate chinese e05s07_sex_b056b7df:
 
     # op "Mmmm... I see..."
-    op "Mmmm... I see..."
+    op "嗯...我明白了..."
 
 # game/code/e05/e05s07.rpy:614
 translate chinese e05s07_sex_f840dae3:
 
     # mct "This is fucking amazing - we should {i}always{/i} do it like this!"
-    mct "This is fucking amazing - we should {i}always{/i} do it like this!"
+    mct "太他妈棒了，我们应该{i}一直{/i} 这样！"
 
 # game/code/e05/e05s07.rpy:632
 translate chinese e05s07_sex_06ffddfc:
 
     # mc "So, can we all agree to do this one again sometime?"
-    mc "So, can we all agree to do this one again sometime?"
+    mc "那么，我们能不能改天再约一次？"
 
 # game/code/e05/e05s07.rpy:635
 translate chinese e05s07_sex_328cb18b:
 
     # mh "Absolutely."
-    mh "Absolutely."
+    mh "当然可以。"
 
 # game/code/e05/e05s07.rpy:636
 translate chinese e05s07_sex_eb1c02e0:
 
     # mh "Oliver, save some for the rest of us. We have plenty of time to make [mcname] cum."
-    mh "Oliver, save some for the rest of us. We have plenty of time to make [mcname] cum."
+    mh "奥利弗，给其他人留点。我们有的是时间让[mcname]射精。"
 
 # game/code/e05/e05s07.rpy:638
 translate chinese e05s07_sex_958a4dac:
 
     # mc "Mmmm, but he's really getting into it."
-    mc "Mmmm, but he's really getting into it."
+    mc "嗯，但他真的陷进去了。"
 
 # game/code/e05/e05s07.rpy:639
 translate chinese e05s07_sex_a77d084d:
 
     # mh "Well if he won't share..."
-    mh "Well if he won't share..."
+    mh "如果他不行..."
 
 # game/code/e05/e05s07.rpy:643
 translate chinese e05s07_sex_66016e4c:
 
     # mh "I can have some fun of my own."
-    mh "I can have some fun of my own."
+    mh "我可以自己找点乐子。"
 
 # game/code/e05/e05s07.rpy:661
 translate chinese e05s07_sex_3115d89e:
 
     # mh "Mmmm, Oliver... Look at you, pleasing us both... God, it's so hot..."
-    mh "Mmmm, Oliver... Look at you, pleasing us both... God, it's so hot..."
+    mh "嗯嗯嗯，奥利弗...看看你，在取悦我们两个...天哪，太性感了..."
 
 # game/code/e05/e05s07.rpy:662
 translate chinese e05s07_sex_46e1e599:
