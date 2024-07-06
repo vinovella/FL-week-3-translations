@@ -1024,781 +1024,781 @@ translate chinese e05s07_sex_3115d89e:
 translate chinese e05s07_sex_46e1e599:
 
     # mc "The second he started fucking you, Ollie's mouth went crazy!"
-    mc "The second he started fucking you, Ollie's mouth went crazy!"
+    mc "他开始操你的那一刻，奥利的嘴就变得疯狂了！"
 
 # game/code/e05/e05s07.rpy:665
 translate chinese e05s07_sex_b688b80c:
 
     # mh "Mmmmyesss - watching Oliver suck your dick [mcname] is making my dick twitch."
-    mh "Mmmmyesss - watching Oliver suck your dick [mcname] is making my dick twitch."
+    mh "噢嗯嗯嗯...[mcname]，看着奥利弗给你口交，我的小弟弟都要抽搐了。"
 
 # game/code/e05/e05s07.rpy:666
 translate chinese e05s07_sex_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "是吗？"
 
 # game/code/e05/e05s07.rpy:669
 translate chinese e05s07_sex_3d1583eb:
 
     # mh "Mmmmhmmmm... I know how wonderful his mouth must feel... His lips wrapped around your beautiful cock..."
-    mh "Mmmmhmmmm... I know how wonderful his mouth must feel... His lips wrapped around your beautiful cock..."
+    mh "嗯嗯嗯嗯嗯...我知道他的嘴一定把你弄得很舒服...他柔软的嘴唇包裹着你的大鸡巴..."
 
 # game/code/e05/e05s07.rpy:670
 translate chinese e05s07_sex_e6fe4211:
 
     # mh "Watching your shaft disappear between those soft lips of his..."
-    mh "Watching your shaft disappear between those soft lips of his..."
+    mh "随着他的吞吐，我看到你的鸡巴在他双唇间若隐若现..."
 
 # game/code/e05/e05s07.rpy:673
 translate chinese e05s07_sex_b74656e0:
 
     # mh "This is what I imagine when I touch myself... You two... Sucking and fucking and..."
-    mh "This is what I imagine when I touch myself... You two... Sucking and fucking and..."
+    mh "我自摸时就是这样想象的...你们两个...一个吸吮、一个操我..."
 
 # game/code/e05/e05s07.rpy:674
 translate chinese e05s07_sex_9d63aa6d:
 
     # mh "Oooooo - it's enough to make a girl cum without even touching herself."
-    mh "Oooooo - it's enough to make a girl cum without even touching herself."
+    mh "哦哦哦--这足以让一个女孩在不摸自己的情况下高潮了。"
 
 # game/code/e05/e05s07.rpy:677
 translate chinese e05s07_sex_72af4a68:
 
     # mc "You might make me cum talking like that!"
-    mc "You might make me cum talking like that!"
+    mc "你这样说可能会让我射出来！"
 
 # game/code/e05/e05s07.rpy:678
 translate chinese e05s07_sex_8e87096d:
 
     # mh "Mmmphhh - mmmph, yes, Oliver, keep fucking me. Just like that..."
-    mh "Mmmphhh - mmmph, yes, Oliver, keep fucking me. Just like that..."
+    mh "嗯哼--嗯哼，对了，奥利弗，继续干我。就像这样..."
 
 # game/code/e05/e05s07.rpy:681
 translate chinese e05s07_sex_a6f7c73a:
 
     # mh "Yes, [mcname]? Hearing how I imagine Oliver... Sucking your dick..."
-    mh "Yes, [mcname]? Hearing how I imagine Oliver... Sucking your dick..."
+    mh "你要射了，[mcname]？听着我是如何想象奥利弗...给你口交的..."
 
 # game/code/e05/e05s07.rpy:682
 translate chinese e05s07_sex_2eea86ee:
 
     # mh "Watching you thrust your dick down his throat... Pulling it out, slick with his spit..."
-    mh "Watching you thrust your dick down his throat... Pulling it out, slick with his spit..."
+    mh "看着你把鸡巴塞进他的喉咙...拔出来，上面沾满他的的唾液..."
 
 # game/code/e05/e05s07.rpy:685
 translate chinese e05s07_sex_8f3b31aa:
 
     # mh "Watching him suck on your tip, until you fill his mouth with your hot... Sticky... Mmmmm, seeed... Makes you want to cum?"
-    mh "Watching him suck on your tip, until you fill his mouth with your hot... Sticky... Mmmmm, seeed... Makes you want to cum?"
+    mh "看着他吮吸你的龟头，直到你那滚烫、黏糊糊的哦嗯嗯嗯...精华...灌满他的嘴...你已经要忍不住了？"
 
 # game/code/e05/e05s07.rpy:686
 translate chinese e05s07_sex_00edd98e:
 
     # mc "Oh my God, Lyssa..."
-    mc "Oh my God, Lyssa..."
+    mc "天哪，丽莎..."
 
 # game/code/e05/e05s07.rpy:687
 translate chinese e05s07_sex_45f8d143:
 
     # mh "Or how I sometimes fantasize about you, pulling out your dick with a pop... And spraying his pretty little face... Glazing him like a slutty little cum whore."
-    mh "Or how I sometimes fantasize about you, pulling out your dick with a pop... And spraying his pretty little face... Glazing him like a slutty little cum whore."
+    mh "或者我有时会幻想你...'噗叽'一声拔出你的老二...喷在他漂亮的小脸上...给这个淫荡的小妓女增添光泽。"
 
 # game/code/e05/e05s07.rpy:691
 translate chinese e05s07_sex_237b46da:
 
     # mc "Oh fuck, oh fuck!"
-    mc "Oh fuck, oh fuck!"
+    mc "哦，操，哦，操！"
 
 # game/code/e05/e05s07.rpy:692
 translate chinese e05s07_sex_0bf0550b:
 
     # mh "God, yes - cum down his throat! Shoot your thick ropes straight down into his stomach!"
-    mh "God, yes - cum down his throat! Shoot your thick ropes straight down into his stomach!"
+    mh "哦哦哦对了--往他喉咙里灌！把你的浓稠的精液直接射进他肚子里！"
 
 # game/code/e05/e05s07.rpy:693
 translate chinese e05s07_sex_3bf1b4df:
 
     # mc "Fuck, Oliver, I'm cumming!"
-    mc "Fuck, Oliver, I'm cumming!"
+    mc "操，奥利弗，我要射了！"
 
 # game/code/e05/e05s07.rpy:694
 translate chinese e05s07_sex_19cb3088:
 
     # mh "Yes, yes, yes!!!"
-    mh "Yes, yes, yes!!!"
+    mh "好！好！好!!!"
 
 # game/code/e05/e05s07.rpy:703
 translate chinese e05s07_sex_0ae61b2e:
 
     # mc "God... I think I'm already getting hard again."
-    mc "God... I think I'm already getting hard again."
+    mc "天啊...我觉得我已经又硬起来了。"
 
 # game/code/e05/e05s07.rpy:706
 translate chinese e05s07_sex_7e085881:
 
     # mh "Hmmm, while we have a little time... I was really enjoying how you were sucking me earlier..."
-    mh "Hmmm, while we have a little time... I was really enjoying how you were sucking me earlier..."
+    mh "嗯，趁我们还有点时间...我真的很喜欢你刚才给我口交的样子..."
 
 # game/code/e05/e05s07.rpy:710
 translate chinese e05s07_sex_8dd9efd1:
 
     # mc "Of course, Lyssa."
-    mc "Of course, Lyssa."
+    mc "当然，丽莎。"
 
 # game/code/e05/e05s07.rpy:713
 translate chinese e05s07_sex_9f4af4e4:
 
     # mc "Oh, I see how it is. 'Oops, I dropped my pencil, Ollie. Whatever are you going to do while I'm all bent over?'"
-    mc "Oh, I see how it is. 'Oops, I dropped my pencil, Ollie. Whatever are you going to do while I'm all bent over?'"
+    mc "哦，我知道了。'哎呀，我的铅笔掉了'，奥利。我都弯下腰了，你打算怎么做？"
 
 # game/code/e05/e05s07.rpy:716
 translate chinese e05s07_sex_4ff1c5f9:
 
     # op "I think you know."
-    op "I think you know."
+    op "我想你知道。"
 
 # game/code/e05/e05s07.rpy:726
 translate chinese e05s07_sex_cd9c5f42:
 
     # op "Oh, goodness, [mcname]! How are you still soooo tight!"
-    op "Oh, goodness, [mcname]! How are you still soooo tight!"
+    op "哦，天哪，[mcname]！你怎么还这么紧的要命！"
 
 # game/code/e05/e05s07.rpy:727
 translate chinese e05s07_sex_545d008a:
 
     # op "You're sucking me innnn!"
-    op "You're sucking me innnn!"
+    op "你把我吸进去了！"
 
 # game/code/e05/e05s07.rpy:729
 translate chinese e05s07_sex_1fe9cd45:
 
     # mh "He's doing the same to me."
-    mh "He's doing the same to me."
+    mh "他也是这么对我的。"
 
 # game/code/e05/e05s07.rpy:730
 translate chinese e05s07_sex_9d666178:
 
     # mh "Mmmmm... You've gotten good at this, [mcname]."
-    mh "Mmmmm... You've gotten good at this, [mcname]."
+    mh "嗯...你已经很擅长这个了，[mcname]。"
 
 # game/code/e05/e05s07.rpy:733
 translate chinese e05s07_sex_fffc1ca7:
 
     # mh "Ooo... Ohhhhh... Mmmm, yesss... Just like that..."
-    mh "Ooo... Ohhhhh... Mmmm, yesss... Just like that..."
+    mh "啊...噢噢噢...嗯，这感觉...就是这样..."
 
 # game/code/e05/e05s07.rpy:734
 translate chinese e05s07_sex_3d571293:
 
     # op "OH, oh, God, [mcname]! This is - Mmmmmm, amazing!"
-    op "OH, oh, God, [mcname]! This is - Mmmmmm, amazing!"
+    op "哦，哦，天哪，[mcname]！我--嗯嗯嗯嗯嗯，太棒了！"
 
 # game/code/e05/e05s07.rpy:736
 translate chinese e05s07_sex_d5a7782d:
 
     # op "I could do this all day!"
-    op "I could do this all day!"
+    op "我可以这样做一整天！"
 
 # game/code/e05/e05s07.rpy:756
 translate chinese e05s07_sex_93c590ad:
 
     # mc "I have come to enjoy sucking your dick, Lyssa.{w} And yours too, Ollie."
-    mc "I have come to enjoy sucking your dick, Lyssa.{w} And yours too, Ollie."
+    mc "我已经开始喜欢给你口交了，丽莎。{w}还有你的，奥利。"
 
 # game/code/e05/e05s07.rpy:758
 translate chinese e05s07_sex_71a67ff5:
 
     # mh "And we, yours, as well."
-    mh "And we, yours, as well."
+    mh "我们也是。"
 
 # game/code/e05/e05s07.rpy:760
 translate chinese e05s07_sex_a1b71cf1:
 
     # mc "Hmmm, should I do what you did to poor Ollie back there? Make you cum down my throat so we can just fuck you all night?"
-    mc "Hmmm, should I do what you did to poor Ollie back there? Make you cum down my throat so we can just fuck you all night?"
+    mc "我是不是该学你刚才对可怜的奥利那样？让你把精液射到我喉咙里，这样我们就可以整晚都干你了？"
 
 # game/code/e05/e05s07.rpy:763
 translate chinese e05s07_sex_22808459:
 
     # mh "You know, I'd love that. But we can skip the part about your throat, and jump right to you fucking me."
-    mh "You know, I'd love that. But we can skip the part about your throat, and jump right to you fucking me."
+    mh "你知道，我是很乐意的。但我们可以跳过喉咙的那部分，直接来到你干我的部分。"
 
 # game/code/e05/e05s07.rpy:767
 translate chinese e05s07_sex_2dab74e9:
 
     # mh "Come on, big, strong man. Come and get me."
-    mh "Come on, big, strong man. Come and get me."
+    mh "来吧，你个高大强壮的大宝贝。来上我啊。"
 
 # game/code/e05/e05s07.rpy:768
 translate chinese e05s07_sex_8e258818:
 
     # mh "You too, Oliver."
-    mh "You too, Oliver."
+    mh "你也是，奥利弗。"
 
 # game/code/e05/e05s07.rpy:776
 translate chinese e05s07_sex_77025320:
 
     # op "Oh, L-Lysssaaaaaahhhhh!"
-    op "Oh, L-Lysssaaaaaahhhhh!"
+    op "哦，丽--丽莎啊啊啊啊啊啊！"
 
 # game/code/e05/e05s07.rpy:779
 translate chinese e05s07_sex_d37dd87b:
 
     # mc "God, Oliver..."
-    mc "God, Oliver..."
+    mc "天哪，奥利弗..."
 
 # game/code/e05/e05s07.rpy:780
 translate chinese e05s07_sex_500e3178:
 
     # op "Mmmphhh - what?"
-    op "Mmmphhh - what?"
+    op "嗯哼--什么？"
 
 # game/code/e05/e05s07.rpy:781
 translate chinese e05s07_sex_0b8f64ec:
 
     # mc "Look at, ngggph, you! You've - God - you've come so far!"
-    mc "Look at, ngggph, you! You've - God - you've come so far!"
+    mc "看看，哦哦哦！你--天哪--你已经进步这么多了！"
 
 # game/code/e05/e05s07.rpy:784
 translate chinese e05s07_sex_b0f3d2d5:
 
     # op "What do you mean?"
-    op "What do you mean?"
+    op "怎么说？"
 
 # game/code/e05/e05s07.rpy:785
 translate chinese e05s07_sex_a07d7b53:
 
     # mc "You couldn't even say her name, and now you're moaning it."
-    mc "You couldn't even say her name, and now you're moaning it."
+    mc "你之前连她的名字都叫不出来，现在却在大声呻吟。"
 
 # game/code/e05/e05s07.rpy:788
 translate chinese e05s07_sex_1cb6e377:
 
     # op "Oh yeaah - I-I-"
-    op "Oh yeaah - I-I-"
+    op "哦耶--我--我--"
 
 # game/code/e05/e05s07.rpy:789
 translate chinese e05s07_sex_413dc48a:
 
     # mc "Shhh, Ollie. Just enjoy it."
-    mc "Shhh, Ollie. Just enjoy it."
+    mc "嘘，奥利。好好享受吧。"
 
 # game/code/e05/e05s07.rpy:790
 translate chinese e05s07_sex_b4bdbf8f:
 
     # op "Oh GOd, yes. Yes, yes, yes. Lyyyssaaaahhhhh."
-    op "Oh GOd, yes. Yes, yes, yes. Lyyyssaaaahhhhh."
+    op "哦，上帝，苍天老天啊啊啊。丽莎哦哦噢噢。"
 
 # game/code/e05/e05s07.rpy:793
 translate chinese e05s07_sex_1aaf2870:
 
     # mc "You know, I can feel it."
-    mc "You know, I can feel it."
+    mc "我能感觉到。"
 
 # game/code/e05/e05s07.rpy:794
 translate chinese e05s07_sex_9308c929:
 
     # op "F-feel - nnnpppph - what?"
-    op "F-feel - nnnpppph - what?"
+    op "感--觉--唔哦哦哦--什么？"
 
 # game/code/e05/e05s07.rpy:797
 translate chinese e05s07_sex_e2640a15:
 
     # mc "Every time you thrust your cock down her throat. I can feel it. Her ass squeezes just a little bit tighter."
-    mc "Every time you thrust your cock down her throat. I can feel it. Her ass squeezes just a little bit tighter."
+    mc "每次你把鸡巴插进她喉咙的时候。我能感觉到。她的屁股就会挤得更紧一点。"
 
 # game/code/e05/e05s07.rpy:798
 translate chinese e05s07_sex_50dd20dd:
 
     # mc "All of us, in sync."
-    mc "All of us, in sync."
+    mc "我们所有人，同步进行。"
 
 # game/code/e05/e05s07.rpy:800
 translate chinese e05s07_sex_e6f50a78:
 
     # op "Y-Yeah. Oh, God. Mmmmpppphhh."
-    op "Y-Yeah. Oh, God. Mmmmpppphhh."
+    op "呼--是的。天哪天哪。嗯噗噗噗。"
 
 # game/code/e05/e05s07.rpy:801
 translate chinese e05s07_sex_423a3259:
 
     # mc "Are you going to cum, Ollie?"
-    mc "Are you going to cum, Ollie?"
+    mc "你要射了吗，奥利？"
 
 # game/code/e05/e05s07.rpy:802
 translate chinese e05s07_sex_0df51ff0:
 
     # op "I-I'm c-close..."
-    op "I-I'm c-close..."
+    op "我--我--快了..."
 
 # game/code/e05/e05s07.rpy:805
 translate chinese e05s07_sex_80f65c2f:
 
     # mc "Where do you want to cum?"
-    mc "Where do you want to cum?"
+    mc "你想射在哪里？"
 
 # game/code/e05/e05s07.rpy:806
 translate chinese e05s07_sex_8a6b471f:
 
     # op "I... Mmmmmm..."
-    op "I... Mmmmmm..."
+    op "我...嗯嗯嗯..."
 
 # game/code/e05/e05s07.rpy:807
 translate chinese e05s07_sex_006cf0b3:
 
     # op "I w-want to - nnnnnngggg! I want to cum, looking you both in the eye..."
-    op "I w-want to - nnnnnngggg! I want to cum, looking you both in the eye..."
+    op "我想--唔唔唔...！我要来了，看着你们俩的眼睛..."
 
 # game/code/e05/e05s07.rpy:808
 translate chinese e05s07_sex_f70a96d9:
 
     # mc "We might have to switch things up a bit."
-    mc "We might have to switch things up a bit."
+    mc "我们可能得换换口味。"
 
 # game/code/e05/e05s07.rpy:809
 translate chinese e05s07_sex_55a988c7:
 
     # op "P-please. I-I'm getting cloooooose."
-    op "P-please. I-I'm getting cloooooose."
+    op "求--求你了。我快憋不住了。"
 
 # game/code/e05/e05s07.rpy:816
 translate chinese e05s07_sex_568412b4:
 
     # mc "Who would you like to fuck you, Ollie?"
-    mc "Who would you like to fuck you, Ollie?"
+    mc "你想让谁干你，奥利？"
 
 # game/code/e05/e05s07.rpy:823
 translate chinese e05s07_sex_200774ec:
 
     # mc "No, no. Not this guy. Confident, Ollie, confident!"
-    mc "No, no. Not this guy. Confident, Ollie, confident!"
+    mc "不，不。你不能这样子。自信点，奥利，自信点！"
 
 # game/code/e05/e05s07.rpy:826
 translate chinese e05s07_sex_1484cac9:
 
     # op "I... I want it to be you, [mcname]. I want to look you in the eye while we cum together."
-    op "I... I want it to be you, [mcname]. I want to look you in the eye while we cum together."
+    op "我...我希望是你，[mcname]。我们一起射精时，我想看着你的眼睛。"
 
 # game/code/e05/e05s07.rpy:830
 translate chinese e05s07_sex_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然。"
 
 # game/code/e05/e05s07.rpy:833
 translate chinese e05s07_sex_13f3c3ef:
 
     # mc "Are you ready?"
-    mc "Are you ready?"
+    mc "准备好了吗？"
 
 # game/code/e05/e05s07.rpy:838
 translate chinese e05s07_sex_0393cdcc:
 
     # mh "Mmmm, my two lovers... May I join this party?"
-    mh "Mmmm, my two lovers... May I join this party?"
+    mh "嗯，我的两个爱人...我能加入这个派对吗？"
 
 # game/code/e05/e05s07.rpy:841
 translate chinese e05s07_sex_182900d3:
 
     # mc "It's not a party without you, Lyssa."
-    mc "It's not a party without you, Lyssa."
+    mc "没有你这就不能称为派对，丽莎。"
 
 # game/code/e05/e05s07.rpy:849
 translate chinese e05s07_sex_8ad17c10:
 
     # op "Yes, right there, [mcname], mmmmmm!"
-    op "Yes, right there, [mcname], mmmmmm!"
+    op "啊啊，就在那里，[mcname]，嗯嗯嗯！"
 
 # game/code/e05/e05s07.rpy:852
 translate chinese e05s07_sex_afce8cdd:
 
     # op "Fuck meee, fuck me!"
-    op "Fuck meee, fuck me!"
+    op "操我，操我！"
 
 # game/code/e05/e05s07.rpy:853
 translate chinese e05s07_sex_589a0d31:
 
     # mc "God, Ollie-"
-    mc "God, Ollie-"
+    mc "天啊，奥利。"
 
 # game/code/e05/e05s07.rpy:854
 translate chinese e05s07_sex_938f7ed3:
 
     # op "Mmmhmmm, yesss, [mcname]!"
-    op "Mmmhmmm, yesss, [mcname]!"
+    op "嗯嗯嗯嗯嗯，好舒服，[mcname]！"
 
 # game/code/e05/e05s07.rpy:857
 translate chinese e05s07_sex_2a13820c:
 
     # mh "Ohhh, ohhhhhhh!"
-    mh "Ohhh, ohhhhhhh!"
+    mh "哦，哦哦哦哦！"
 
 # game/code/e05/e05s07.rpy:858
 translate chinese e05s07_sex_41815833:
 
     # op "Lyssa is pushing you so deeeep inside my assss!"
-    op "Lyssa is pushing you so deeeep inside my assss!"
+    op "丽莎把你推的好深，插进了我屁眼里！"
 
 # game/code/e05/e05s07.rpy:859
 translate chinese e05s07_sex_ffff07f5:
 
     # mc "Uh huh - nnnpppph - fuuuuuucccckkkk!"
-    mc "Uh huh - nnnpppph - fuuuuuucccckkkk!"
+    mc "嗯哼--唔唔噗噗--噗噗噗噗！"
 
 # game/code/e05/e05s07.rpy:862
 translate chinese e05s07_sex_3e87fdec:
 
     # op "God, yes! Right there, that's it, yesssss!"
-    op "God, yes! Right there, that's it, yesssss!"
+    op "天啊天啊！就在那里，对了对了，啊啊啊啊！"
 
 # game/code/e05/e05s07.rpy:863
 translate chinese e05s07_sex_2ea50779:
 
     # op "Are you close, [mcname]?"
-    op "Are you close, [mcname]?"
+    op "你快来了吗，[mcname]？"
 
 # game/code/e05/e05s07.rpy:864
 translate chinese e05s07_sex_c5d4244c:
 
     # mc "Fuhhhh - yes, I'm close!"
-    mc "Fuhhhh - yes, I'm close!"
+    mc "次奥--是的，我快了！"
 
 # game/code/e05/e05s07.rpy:867
 translate chinese e05s07_sex_b11ba080:
 
     # op "Lyssa?"
-    op "Lyssa?"
+    op "丽莎？"
 
 # game/code/e05/e05s07.rpy:868
 translate chinese e05s07_sex_fe9449a7:
 
     # mh "Mmmhmmmmm!"
-    mh "Mmmhmmmmm!"
+    mh "嗯嗯嗯！"
 
 # game/code/e05/e05s07.rpy:871
 translate chinese e05s07_sex_0d174d19:
 
     # op "I want us all to cum together! I'm almost theeerreeee!"
-    op "I want us all to cum together! I'm almost theeerreeee!"
+    op "我想让大家一起射精！我快射了啊啊啊！"
 
 # game/code/e05/e05s07.rpy:872
 translate chinese e05s07_sex_2c99d847:
 
     # op "Fuck, [mcname] thrust just like that! Yes! Just like that!"
-    op "Fuck, [mcname] thrust just like that! Yes! Just like that!"
+    op "操，[mcname]就这样插！对了！使劲使劲啊啊啊！"
 
 # game/code/e05/e05s07.rpy:875
 translate chinese e05s07_sex_79c5460e:
 
     # mc "Oh fuuuuck, Ollie - I'm going to-"
-    mc "Oh fuuuuck, Ollie - I'm going to-"
+    mc "操，奥利--我要—"
 
 # game/code/e05/e05s07.rpy:876
 translate chinese e05s07_sex_3b91d06f:
 
     # mh "Me too, mmmmm!"
-    mh "Me too, mmmmm!"
+    mh "我也快了，嗯嗯！"
 
 # game/code/e05/e05s07.rpy:879
 translate chinese e05s07_sex_4497855b:
 
     # op "Cum! I'm cuh - I'm CUMMING!"
-    op "Cum! I'm cuh - I'm CUMMING!"
+    op "射吧！我射了--我射了啊啊啊！"
 
 # game/code/e05/e05s07.rpy:895
 translate chinese e05s07_sex_0dd2247a:
 
     # mc "Delicious."
-    mc "Delicious."
+    mc "真美味。"
 
 # game/code/e05/e05s07.rpy:900
 translate chinese e05s07_sex_4afc681e:
 
     # mh "Hey, you're not going to share?"
-    mh "Hey, you're not going to share?"
+    mh "嘿，你不分享一下吗？"
 
 # game/code/e05/e05s07.rpy:907
 translate chinese e05s07_sex_524d489d:
 
     # mc "Silly me."
-    mc "Silly me."
+    mc "我真傻。"
 
 # game/code/e05/e05s07.rpy:911
 translate chinese e05s07_sex_a73ab443:
 
     # op "That was fun."
-    op "That was fun."
+    op "真好玩。"
 
 # game/code/e05/e05s07.rpy:914
 translate chinese e05s07_sex_2e51eddf:
 
     # mc "It's always fun with you two."
-    mc "It's always fun with you two."
+    mc "和你们俩在一起总是很有趣。"
 
 # game/code/e05/e05s07.rpy:915
 translate chinese e05s07_sex_93973994:
 
     # mc "Lyssa, when is your friend coming back?"
-    mc "Lyssa, when is your friend coming back?"
+    mc "丽莎，你朋友什么时候回来？"
 
 # game/code/e05/e05s07.rpy:918
 translate chinese e05s07_sex_a178d5b9:
 
     # mh "He isn't. I'm going to lock the place up."
-    mh "He isn't. I'm going to lock the place up."
+    mh "他不回来了。我要把这里锁起来。"
 
 # game/code/e05/e05s07.rpy:921
 translate chinese e05s07_sex_bc8fd6a3:
 
     # mc "Oh, that's fucking awesome."
-    mc "Oh, that's fucking awesome."
+    mc "哦，真他妈太棒了。"
 
 # game/code/e05/e05s07.rpy:923
 translate chinese e05s07_sex_d69c9291:
 
     # mh "Hmmm?"
-    mh "Hmmm?"
+    mh "嗯？"
 
 # game/code/e05/e05s07.rpy:924
 translate chinese e05s07_sex_74150b2b:
 
     # mc "I just want to lay here and enjoy the moment with you two."
-    mc "I just want to lay here and enjoy the moment with you two."
+    mc "我只想躺在这里，和你们俩一起享受这一刻。"
 
 # game/code/e05/e05s07.rpy:927
 translate chinese e05s07_sex_da8be52e:
 
     # op "[mcname], are you becoming a romantic?"
-    op "[mcname], are you becoming a romantic?"
+    op "[mcname]，你怎么变得如此浪漫了？"
 
 # game/code/e05/e05s07.rpy:930
 translate chinese e05s07_sex_b10ed4f0:
 
     # mc "I don't know about all that."
-    mc "I don't know about all that."
+    mc "我才不知道什么浪不浪漫的。"
 
 # game/code/e05/e05s07.rpy:933
 translate chinese e05s07_sex_b5a87af3:
 
     # mh "I'm not sure a romantic could fuck us the way [mcname] does."
-    mh "I'm not sure a romantic could fuck us the way [mcname] does."
+    mh "我不确定哪个浪漫的人能像[mcname]那样干我们。"
 
 # game/code/e05/e05s07.rpy:937
 translate chinese e05s07_sex_f81a3d78:
 
     # op "True."
-    op "True."
+    op "没错。"
 
 # game/code/e05/e05s07.rpy:940
 translate chinese e05s07_sex_9619ace6:
 
     # op "Uhm... Lyssa?"
-    op "Uhm... Lyssa?"
+    op "呃...丽莎？"
 
 # game/code/e05/e05s07.rpy:943
 translate chinese e05s07_sex_b1b106f5:
 
     # mh "Yes, Oliver?"
-    mh "Yes, Oliver?"
+    mh "怎么了，奥利弗？"
 
 # game/code/e05/e05s07.rpy:945
 translate chinese e05s07_sex_38ef5d03:
 
     # op "Will... You help me study for the bar exam?"
-    op "Will... You help me study for the bar exam?"
+    op "你会不会...帮我准备律师资格考试？"
 
 # game/code/e05/e05s07.rpy:946
 translate chinese e05s07_sex_7f4a0c40:
 
     # mh "Of course."
-    mh "Of course."
+    mh "当然。"
 
 # game/code/e05/e05s07.rpy:949
 translate chinese e05s07_sex_f67b1cc2:
 
     # mc "And I'll help too!"
-    mc "And I'll help too!"
+    mc "我也会帮忙！"
 
 # game/code/e05/e05s07.rpy:952
 translate chinese e05s07_sex_2cd49ba7:
 
     # mh "Oh? You going to brush up on your law?"
-    mh "Oh? You going to brush up on your law?"
+    mh "哦？你要补习法律知识吗？"
 
 # game/code/e05/e05s07.rpy:955
 translate chinese e05s07_sex_15854f6c:
 
     # mc "No, but I'm damn good at getting coffee."
-    mc "No, but I'm damn good at getting coffee."
+    mc "那倒不用，但我很擅长为你们准备咖啡。"
 
 # game/code/e05/e05s07.rpy:960
 translate chinese e05s07_sex_4bc626eb:
 
     # mh "Oliver, you have nothing to worry about. You'll pass with flying colors, and then we'll all get to take a wonderful vacation."
-    mh "Oliver, you have nothing to worry about. You'll pass with flying colors, and then we'll all get to take a wonderful vacation."
+    mh "奥利弗，你不用担心。你会顺利通过考试的，然后我们就可以去度个美美的假期了。"
 
 # game/code/e05/e05s07.rpy:962
 translate chinese e05s07_sex_a4929e77:
 
     # mc "Where!?"
-    mc "Where!?"
+    mc "去哪里嘛!?"
 
 # game/code/e05/e05s07.rpy:964
 translate chinese e05s07_sex_9c65569c:
 
     # mh "Still not telling you."
-    mh "Still not telling you."
+    mh "还是不告诉你们。"
 
 # game/code/e05/e05s07.rpy:968
 translate chinese e05s07_sex_ae193ad6:
 
     # mc "Please!?"
-    mc "Please!?"
+    mc "求你了!?"
 
 # game/code/e05/e05s07.rpy:970
 translate chinese e05s07_sex_468c2493:
 
     # mh "Nope."
-    mh "Nope."
+    mh "不行。"
 
 # game/code/e05/e05s07.rpy:972
 translate chinese e05s07_sex_e53603ea:
 
     # op "Can you give us a hint?"
-    op "Can you give us a hint?"
+    op "你能给我们点提示吗？"
 
 # game/code/e05/e05s07.rpy:975
 translate chinese e05s07_sex_6df1fe5d:
 
     # mh "The food is amazing, and we won't run out of wine."
-    mh "The food is amazing, and we won't run out of wine."
+    mh "嗯，那里的美食令人赞不绝口，而且我们不会没酒喝。"
 
 # game/code/e05/e05s07.rpy:978
 translate chinese e05s07_sex_e1290d77:
 
     # mc "That could be so many different places..."
-    mc "That could be so many different places..."
+    mc "那有很多地方都符合这点啊..."
 
 # game/code/e05/e05s07.rpy:980
 translate chinese e05s07_sex_86ac0bec:
 
     # mh "Then we'll just have to help Oliver study."
-    mh "Then we'll just have to help Oliver study."
+    mh "那我们只能帮奥利弗学习了。"
 
 # game/code/e05/e05s07.rpy:985
 translate chinese e05s07_sex_dd2b536d:
 
     # mc "What are we waiting for!?"
-    mc "What are we waiting for!?"
+    mc "我们还在等什么!?"
 
 # game/code/e05/e05s07.rpy:988
 translate chinese e05s07_sex_2e63d2e0:
 
     # op "So much for enjoying the moment."
-    op "So much for enjoying the moment."
+    op "哎，享受当下就到此为止了。"
 
 # game/code/e05/e05s07.rpy:991
 translate chinese e05s07_sex_5073f0d2:
 
     # mc "We can enjoy the moment on our vacation. We got some studying to do, Ollie!"
-    mc "We can enjoy the moment on our vacation. We got some studying to do, Ollie!"
+    mc "我们可以在假期里享受当下。我们还要学习呢，奥利弗！"
 
 # game/code/e05/e05s07.rpy:993
 translate chinese e05s07_sex_7287f843:
 
     # mh "[mcname], it's 2 in the morning."
-    mh "[mcname], it's 2 in the morning."
+    mh "[mcname]，现在是凌晨两点。"
 
 # game/code/e05/e05s07.rpy:994
 translate chinese e05s07_sex_821bae10:
 
     # mc "The internet never closes! Come on!"
-    mc "The internet never closes! Come on!"
+    mc "网络可从来不休息！快点！"
 
 # game/code/e05/e05s07.rpy:997
 translate chinese e05s07_sex_05c1eb03:
 
     # op "You know something? I love you, [mcname]. Everything about you, even your ridiculous, impulsive moments."
-    op "You know something? I love you, [mcname]. Everything about you, even your ridiculous, impulsive moments."
+    op "你知道吗？我爱你，[mcname]。我爱你的一切，甚至你荒唐、冲动时的样子。"
 
 # game/code/e05/e05s07.rpy:1000
 translate chinese e05s07_sex_c67add0d:
 
     # mc "Good, because they're not going away any time soon."
-    mc "Good, because they're not going away any time soon."
+    mc "很好，因为你还要看我这个样子很久呢。"
 
 # game/code/e05/e05s07.rpy:1001
 translate chinese e05s07_sex_7aadf4d8:
 
     # mc "And I love you too, Oliver."
-    mc "And I love you too, Oliver."
+    mc "我也爱你，奥利弗。"
 
 # game/code/e05/e05s07.rpy:1021
 translate chinese e05s07_sex_a58276f9:
 
     # op "All right, I guess we can go home and start studying."
-    op "All right, I guess we can go home and start studying."
+    op "好了，我想我们可以回家开始学习了。"
 
 # game/code/e05/e05s07.rpy:1024
 translate chinese e05s07_sex_967854b5:
 
     # mc "Huzzah!"
-    mc "Huzzah!"
+    mc "万岁！"
 
 # game/code/e05/e05s07.rpy:1031
 translate chinese e05s07_sex_988f75c2:
 
     # mh "Wait, [mcname]-"
-    mh "Wait, [mcname]-"
+    mh "等等，[mcname]--"
 
 # game/code/e05/e05s07.rpy:1035
 translate chinese e05s07_sex_15c29132:
 
     # mc "Can't hear you! I'm on my way to study with Ollie!"
-    mc "Can't hear you! I'm on my way to study with Ollie!"
+    mc "听不见！我在和奥利学习的路上！"
 
 # game/code/e05/e05s07.rpy:1038
 translate chinese e05s07_sex_aa50a96e:
 
     # mh "But your clothes!"
-    mh "But your clothes!"
+    mh "但是你的衣服！"
 
 # game/code/e05/e05s07.rpy:1042
 translate chinese e05s07_sex_9467ce6e:
 
     # mc "Where we're going, we don't need clothes!"
-    mc "Where we're going, we don't need clothes!"
+    mc "我们要去的地方，不需要衣服！"
 
 # game/code/e05/e05s07.rpy:1046
 translate chinese e05s07_sex_de200b1d:
 
     # mh "Come on, before he gets arrested for indecent exposure."
-    mh "Come on, before he gets arrested for indecent exposure."
+    mh "快走吧，免得他因猥亵罪被捕。"
 
 translate chinese strings:
 
     # game/code/e05/e05s07.rpy:55
     old "Back in court"
-    new "Back in court"
+    new "回到法庭"
 
     # game/code/e05/e05s07.rpy:184
     old "In the bar"
-    new "In the bar"
+    new "在酒吧里"
 
     # game/code/e05/e05s07.rpy:351
     old "Toast to a future with Oliver and Lyssa"
-    new "Toast to a future with Oliver and Lyssa"
+    new "为和奥利弗和丽莎在一起的未来干杯"
 
     # game/code/e05/e05s07.rpy:351
     old "Toast to leaving behind your old life"
-    new "Toast to leaving behind your old life"
+    new "为告别过去的生活干杯"
 
     # game/code/e05/e05s07.rpy:502
     old "Many drinks later"
-    new "Many drinks later"
+    new "酒过三巡"
 
     # game/code/e05/e05s07.rpy:1057
     old "You have finished playing Ending #05!"
-    new "You have finished playing Ending #05!"
+    new "你已完成结局#05！"
 
