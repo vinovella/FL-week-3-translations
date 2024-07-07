@@ -4,205 +4,205 @@
 translate chinese e16s02_051f13c5:
 
     # mc "Here you go, Molly."
-    mc "Here you go, Molly."
+    mc "给你，莫莉。"
 
 # game/code/e16/e16s02.rpy:36
 translate chinese e16s02_b11591e8:
 
     # jf "This all smells great. Thanks for breakfast, [mcname]."
-    jf "This all smells great. Thanks for breakfast, [mcname]."
+    jf "闻起来都好香啊。谢谢你的早餐，[mcname]。"
 
 # game/code/e16/e16s02.rpy:39
 translate chinese e16s02_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然。"
 
 # game/code/e16/e16s02.rpy:45
 translate chinese e16s02_3fa446a5:
 
     # mc "It tastes better right? I'm not crazy."
-    mc "It tastes better right? I'm not crazy."
+    mc "味道尝起来更好吧？我可没开玩笑。"
 
 # game/code/e16/e16s02.rpy:48
 translate chinese e16s02_279342c7:
 
     # jf "Nope. I was thinking the same thing."
-    jf "Nope. I was thinking the same thing."
+    jf "嗯。我也是这么想的。"
 
 # game/code/e16/e16s02.rpy:54
 translate chinese e16s02_7f113cc7:
 
     # mc "How about that."
-    mc "How about that."
+    mc "那个怎么办？"
 
 # game/code/e16/e16s02.rpy:57
 translate chinese e16s02_463824bb:
 
     # jf "I figured out what I want to do with this place."
-    jf "I figured out what I want to do with this place."
+    jf "我想好要怎么处理这个地方了。"
 
 # game/code/e16/e16s02.rpy:60
 translate chinese e16s02_ed0e2549:
 
     # mc "Lay it on me."
-    mc "Lay it on me."
+    mc "说来听听。"
 
 # game/code/e16/e16s02.rpy:63
 translate chinese e16s02_37ca9cbb:
 
     # jf "I was thinking about Molly. She loves it here, but I'm sure she didn't start at my Aunt's farm."
-    jf "I was thinking about Molly. She loves it here, but I'm sure she didn't start at my Aunt's farm."
+    jf "我在想莫莉。她喜欢这里，但我敢肯定她不是在我姨妈的农场出生的。"
 
 # game/code/e16/e16s02.rpy:65
 translate chinese e16s02_880d0480:
 
     # mdog "Arff."
-    mdog "Arff."
+    mdog "呜."
 
 # game/code/e16/e16s02.rpy:66
 translate chinese e16s02_899d34e5:
 
     # jf "Maybe she grew up in a place where people weren't open-minded. I know when some people reveal some of their... kinks and likes, they get shunned by their parents."
-    jf "Maybe she grew up in a place where people weren't open-minded. I know when some people reveal some of their... kinks and likes, they get shunned by their parents."
+    jf "也许她是在一个思想不开放的地方长大的。我知道有些人一旦暴露了自己的...癖好和喜好，就会被父母抛弃。"
 
 # game/code/e16/e16s02.rpy:67
 translate chinese e16s02_bb7fd096:
 
     # jf "Or worse."
-    jf "Or worse."
+    jf "或者更糟。"
 
 # game/code/e16/e16s02.rpy:70
 translate chinese e16s02_05a090e8:
 
     # mc "Yeah. When will people learn the world is such a boring place if all you eat is vanilla ice cream for every desert?"
-    mc "Yeah. When will people learn the world is such a boring place if all you eat is vanilla ice cream for every desert?"
+    mc "是啊。什么时候人们才会知道，如果每个沙漠都只吃香草冰淇淋，这个世界就太无聊了？"
 
 # game/code/e16/e16s02.rpy:73
 translate chinese e16s02_2f65bfa2:
 
     # jf "Exactly."
-    jf "Exactly."
+    jf "没错。"
 
 # game/code/e16/e16s02.rpy:74
 translate chinese e16s02_b80fbb95:
 
     # jf "So I thought that we could set the place up like a shelter. For animal-girls."
-    jf "So I thought that we could set the place up like a shelter. For animal-girls."
+    jf "所以我想，我们可以把这里布置成一个避难所。给扮动物的女孩们住。"
 
 # game/code/e16/e16s02.rpy:77
 translate chinese e16s02_a7f0fb86:
 
     # mc "So you want to build an animal girl farm."
-    mc "So you want to build an animal girl farm."
+    mc "所以你想建一个动物女孩农场。"
 
 # game/code/e16/e16s02.rpy:80
 translate chinese e16s02_63ba137c:
 
     # jf "Well, less animal farm, more like a sanctuary for people who need it."
-    jf "Well, less animal farm, more like a sanctuary for people who need it."
+    jf "与其说是动物农场，不如说是为有需要的人提供的避难所。"
 
 # game/code/e16/e16s02.rpy:81
 translate chinese e16s02_1e0141b0:
 
     # jf "People could come here and explore their passion in comfort and safety. No judgments."
-    jf "People could come here and explore their passion in comfort and safety. No judgments."
+    jf "人们可以来到这里，在舒适安全的环境中探索自己的热情。这里不会有评判。"
 
 # game/code/e16/e16s02.rpy:84
 translate chinese e16s02_78b1af32:
 
     # mc "That sounds great. Especially if it can help people out."
-    mc "That sounds great. Especially if it can help people out."
+    mc "听起来不错。特别是如果它能帮助人们的话。"
 
 # game/code/e16/e16s02.rpy:87
 translate chinese e16s02_0a3e46b8:
 
     # jf "Exactly. It can be a tough world out there for people who are super into animal-play."
-    jf "Exactly. It can be a tough world out there for people who are super into animal-play."
+    jf "没错。对于那些超级喜欢扮动物游戏的人来说，这个世界可能很艰难。"
 
 # game/code/e16/e16s02.rpy:91
 translate chinese e16s02_38a89ea4:
 
     # jf "Not everyone is as lucky as me. I've had very supportive friends."
-    jf "Not everyone is as lucky as me. I've had very supportive friends."
+    jf "不是每个人都像我这么幸运。我有很多支持我的朋友。"
 
 # game/code/e16/e16s02.rpy:92
 translate chinese e16s02_ac0e3b90:
 
     # jf "And I already found my mate."
-    jf "And I already found my mate."
+    jf "而且我已经找到了我的伴侣。"
 
 # game/code/e16/e16s02.rpy:97
 translate chinese e16s02_d20c2030:
 
     # mc "Yup. Prowling for pussy in the dead of night."
-    mc "Yup. Prowling for pussy in the dead of night."
+    mc "是啊，我这个野兽总是在夜深人静的时候找小穴吃。"
 
 # game/code/e16/e16s02.rpy:100
 translate chinese e16s02_80871e0f:
 
     # jf "I should have known then what a beast you were."
-    jf "I should have known then what a beast you were."
+    jf "我当时就该知道你是个猛兽。"
 
 # game/code/e16/e16s02.rpy:104
 translate chinese e16s02_eec393b6:
 
     # mc "Yup. Prowling for pussy to lick at a wild kink party."
-    mc "Yup. Prowling for pussy to lick at a wild kink party."
+    mc "是啊，这个猛兽到处在狂野的变态派对上找女人舔食。"
 
 # game/code/e16/e16s02.rpy:107
 translate chinese e16s02_80871e0f_1:
 
     # jf "I should have known then what a beast you were."
-    jf "I should have known then what a beast you were."
+    jf "我当时就该知道你是个猛兽。"
 
 # game/code/e16/e16s02.rpy:109
 translate chinese e16s02_a743fd76:
 
     # jf "Bah. It's so easy to get distracted. Hmmm. I've never been this horny before."
-    jf "Bah. It's so easy to get distracted. Hmmm. I've never been this horny before."
+    jf "哈。真容易分心。嗯嗯嗯。我以前从没这么饥渴过。"
 
 # game/code/e16/e16s02.rpy:112
 translate chinese e16s02_acda1000:
 
     # mc "Must be all that country air."
-    mc "Must be all that country air."
+    mc "一定是乡村空气的缘故。"
 
 # game/code/e16/e16s02.rpy:115
 translate chinese e16s02_4c7ac674:
 
     # jf "I guess. Anyhow. The only issue is setting up a way to spread the word to animal-girls who might be looking for a place like what we have in mind."
-    jf "I guess. Anyhow. The only issue is setting up a way to spread the word to animal-girls who might be looking for a place like what we have in mind."
+    jf "我猜是吧。总之，唯一的问题是如何找到一种方法，把这个消息传播给那些正在寻找她们心目中的地方的动物女孩们。"
 
 # game/code/e16/e16s02.rpy:119
 translate chinese e16s02_b08b22c0:
 
     # mc "Hmmm. But there must be a way to reach our consumers. Or I guess, they're more like associates in this case."
-    mc "Hmmm. But there must be a way to reach our consumers. Or I guess, they're more like associates in this case."
+    mc "嗯。但一定有办法接触到我们的消费者。或者我想，在这种情况下，她们更像是合伙人。"
 
 # game/code/e16/e16s02.rpy:120
 translate chinese e16s02_551a4d09:
 
     # mc "Is there like a meetup site for animal-girls?"
-    mc "Is there like a meetup site for animal-girls?"
+    mc "有没有动物女孩交友网站？"
 
 # game/code/e16/e16s02.rpy:123
 translate chinese e16s02_2d02f929:
 
     # jf "I've skirted around a couple. But we have a bigger problem."
-    jf "I've skirted around a couple. But we have a bigger problem."
+    jf "我有逛过几个。但我们有更大的问题。"
 
 # game/code/e16/e16s02.rpy:124
 translate chinese e16s02_5c30b60a:
 
     # jf "I don't really think a post on a meetup site would be enough."
-    jf "I don't really think a post on a meetup site would be enough."
+    jf "我觉得在交友网站上发帖子还不够。"
 
 # game/code/e16/e16s02.rpy:127
 translate chinese e16s02_00dcdea1:
 
     # mc "You're right. We really need our own website."
-    mc "You're right. We really need our own website."
+    mc "你说得对。我们确实需要自己的网站。"
 
 # game/code/e16/e16s02.rpy:131
 translate chinese e16s02_b5a9bada:
