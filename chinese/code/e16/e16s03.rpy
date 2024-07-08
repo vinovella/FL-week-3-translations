@@ -4,109 +4,109 @@
 translate chinese e16s03_aa85840b:
 
     # jf "Kanya!"
-    jf "Kanya!"
+    jf "康雅！"
 
 # game/code/e16/e16s03.rpy:19
 translate chinese e16s03_cadf172d:
 
     # kv "Hey Jessie!"
-    kv "Hey Jessie!"
+    kv "嘿，杰西！"
 
 # game/code/e16/e16s03.rpy:27
 translate chinese e16s03_6fa9f58b:
 
     # kv "How are you?"
-    kv "How are you?"
+    kv "你好吗？"
 
 # game/code/e16/e16s03.rpy:30
 translate chinese e16s03_f69e95c2:
 
     # jf "Great. Even better now that you're here."
-    jf "Great. Even better now that you're here."
+    jf "很好。你来了就更好了。"
 
 # game/code/e16/e16s03.rpy:33
 translate chinese e16s03_9356c126:
 
     # mc "Hey Kanya."
-    mc "Hey Kanya."
+    mc "嗨，康雅。"
 
 # game/code/e16/e16s03.rpy:36
 translate chinese e16s03_9aa960e5:
 
     # kv "Nice to see you again, [mcname]. Looks like you've been taking great care of my BFF."
-    kv "Nice to see you again, [mcname]. Looks like you've been taking great care of my BFF."
+    kv "很高兴再次见到你，[mcname]。看来你一直都把我闺蜜照顾地很好。"
 
 # game/code/e16/e16s03.rpy:39
 translate chinese e16s03_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然。"
 
 # game/code/e16/e16s03.rpy:42
 translate chinese e16s03_9e00c24c:
 
     # kv "I had to admit when you told me you were moving to a farm far outside the city, I thought you were crazy."
-    kv "I had to admit when you told me you were moving to a farm far outside the city, I thought you were crazy."
+    kv "我不得不承认，当你告诉我你要搬到城外的农场时，我以为你疯了。"
 
 # game/code/e16/e16s03.rpy:45
 translate chinese e16s03_6084e18d:
 
     # jf "And now?"
-    jf "And now?"
+    jf "现在呢？"
 
 # game/code/e16/e16s03.rpy:48
 translate chinese e16s03_b40fd09f:
 
     # kv "Oh I still think you're a little crazy, Jessie."
-    kv "Oh I still think you're a little crazy, Jessie."
+    kv "哦，我还是觉得你有点疯，杰西。"
 
 # game/code/e16/e16s03.rpy:51
 translate chinese e16s03_f95314c7:
 
     # kv "But it is nice to have so much space for yourself. My apartment feels like a shoebox compared to this place."
-    kv "But it is nice to have so much space for yourself. My apartment feels like a shoebox compared to this place."
+    kv "不过，能有这么大的私人空间真好。和这里比起来，我的公寓就像个鞋盒。"
 
 # game/code/e16/e16s03.rpy:52
 translate chinese e16s03_f9766865:
 
     # kv "I bet if you ever needed a day on your own just to relax and unwind, you could just find a spot to meditate and relax for hours if you wanted to."
-    kv "I bet if you ever needed a day on your own just to relax and unwind, you could just find a spot to meditate and relax for hours if you wanted to."
+    kv "在我看来，如果你需要一天的时间来放松自己，只要你愿意，就一定可以找个地方冥想放松几个小时。"
 
 # game/code/e16/e16s03.rpy:55
 translate chinese e16s03_c286d9ed:
 
     # kv "I'm thrilled it's been working out for you two here."
-    kv "I'm thrilled it's been working out for you two here."
+    kv "我很高兴你们俩能享受在这里的生活。"
 
 # game/code/e16/e16s03.rpy:58
 translate chinese e16s03_bf6220d3:
 
     # jf "Thank you, Kanya."
-    jf "Thank you, Kanya."
+    jf "谢谢你，康雅。"
 
 # game/code/e16/e16s03.rpy:61
 translate chinese e16s03_aa4bbbe8:
 
     # mdog "Ruff ruff."
-    mdog "Ruff ruff."
+    mdog "汪汪。"
 
 # game/code/e16/e16s03.rpy:64
 translate chinese e16s03_43119a10:
 
     # kv "Ah, this must be Molly."
-    kv "Ah, this must be Molly."
+    kv "啊，这一定是莫莉。"
 
 # game/code/e16/e16s03.rpy:67
 translate chinese e16s03_781219c1:
 
     # jf "Yup. Say hello. Molly, be a good girl."
-    jf "Yup. Say hello. Molly, be a good girl."
+    jf "是的，快问好。莫莉，做个好女孩。"
 
 # game/code/e16/e16s03.rpy:72
 translate chinese e16s03_f5f83f02:
 
     # kv "Hi Molly. I'm Kanya. I'm a friend of your... mom, owner? I'm not sure what to call you."
-    kv "Hi Molly. I'm Kanya. I'm a friend of your... mom, owner? I'm not sure what to call you."
+    kv "嗨，莫莉。我是康雅。我是你...妈妈的朋友，主人的朋友？我不知道该怎么称呼你。"
 
 # game/code/e16/e16s03.rpy:75
 translate chinese e16s03_001228c6:
