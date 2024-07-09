@@ -4,205 +4,205 @@
 translate chinese e16s04_f0ae4e98:
 
     # mc "Hi Sage."
-    mc "Hi Sage."
+    mc "嗨，赛奇。"
 
 # game/code/e16/e16s04.rpy:59
 translate chinese e16s04_f0148de2:
 
     # scat "Well, how do I look, [mcname]?"
-    scat "Well, how do I look, [mcname]?"
+    scat "我看起来怎么样，[mcname]？"
 
 # game/code/e16/e16s04.rpy:60
 translate chinese e16s04_e8fa5ac4:
 
     # scat "I'm a little worried I don't fill it out well, and Jessie worked so hard on my costume."
-    scat "I'm a little worried I don't fill it out well, and Jessie worked so hard on my costume."
+    scat "我有点担心我穿得不好看，杰西为我的服装花了很多心血。"
 
 # game/code/e16/e16s04.rpy:63
 translate chinese e16s04_f3bdca1b:
 
     # mc "You look great, Sage."
-    mc "You look great, Sage."
+    mc "你看起来很漂亮，赛奇。"
 
 # game/code/e16/e16s04.rpy:66
 translate chinese e16s04_9af4c0c4:
 
     # kv "Yup. [mcname] is lucky there are no cat boys around here. They'd be following you all day."
-    kv "Yup. [mcname] is lucky there are no cat boys around here. They'd be following you all day."
+    kv "是啊，[mcname]真幸运，这里可没有猫男。不然那些男的会整天跟着你的。"
 
 # game/code/e16/e16s04.rpy:68
 translate chinese e16s04_b1819d60:
 
     # scat "Really?"
-    scat "Really?"
+    scat "真的吗？"
 
 # game/code/e16/e16s04.rpy:69
 translate chinese e16s04_c16eb268:
 
     # kv "Totally."
-    kv "Totally."
+    kv "当然。"
 
 # game/code/e16/e16s04.rpy:72
 translate chinese e16s04_8b52b275:
 
     # mdog "Ruff."
-    mdog "Ruff."
+    mdog "呜。"
 
 # game/code/e16/e16s04.rpy:77
 translate chinese e16s04_ca7bdca4:
 
     # scat "Thank you again for taking me in, [mcname]."
-    scat "Thank you again for taking me in, [mcname]."
+    scat "再次感谢你收留我，[mcname]。"
 
 # game/code/e16/e16s04.rpy:79
 translate chinese e16s04_6bfb7431:
 
     # mc "No problem, Sage."
-    mc "No problem, Sage."
+    mc "不用客气的，赛奇。"
 
 # game/code/e16/e16s04.rpy:82
 translate chinese e16s04_1e9479ec:
 
     # scat "So, what should I do for the photoshoot, Kanya? I've never been like... photographed as a model."
-    scat "So, what should I do for the photoshoot, Kanya? I've never been like... photographed as a model."
+    scat "康雅，拍照时我该做什么？我从没...拍过模特照。"
 
 # game/code/e16/e16s04.rpy:84
 translate chinese e16s04_9de3cbbb:
 
     # kv "It's simple, just do whatever comes naturally. I want you to be one hundred percent comfortable for all these shots."
-    kv "It's simple, just do whatever comes naturally. I want you to be one hundred percent comfortable for all these shots."
+    kv "很简单，自然而然就可以了。我希望你在拍摄时能百分之百地放松。"
 
 # game/code/e16/e16s04.rpy:88
 translate chinese e16s04_e857370e:
 
     # kv "I might offer a suggestion here and there, but I'll follow your lead."
-    kv "I might offer a suggestion here and there, but I'll follow your lead."
+    kv "我可能会在这里或那里提个建议，但我会顺从你的节奏。"
 
 # game/code/e16/e16s04.rpy:91
 translate chinese e16s04_2fe0f8c2:
 
     # mdog "Ruff ruff!"
-    mdog "Ruff ruff!"
+    mdog "汪，汪！"
 
 # game/code/e16/e16s04.rpy:94
 translate chinese e16s04_e9bc3b0b:
 
     # mdog "*panting*"
-    mdog "*panting*"
+    mdog "*喘气*"
 
 # game/code/e16/e16s04.rpy:96
 translate chinese e16s04_f7e21bed:
 
     # kv "Perfect, Molly."
-    kv "Perfect, Molly."
+    kv "完美，莫莉。"
 
 # game/code/e16/e16s04.rpy:98
 translate chinese e16s04_482f4ca9:
 
     # "CLICK. CLICK."
-    "CLICK. CLICK."
+    "咔咔咔，咔嚓。"
 
 # game/code/e16/e16s04.rpy:109
 translate chinese e16s04_c2826107:
 
     # scat "I might try to crawl around like Molly."
-    scat "I might try to crawl around like Molly."
+    scat "我可能会试着像莫莉一样爬来爬去。"
 
 # game/code/e16/e16s04.rpy:110
 translate chinese e16s04_0a832b03:
 
     # scat "Do you think that's okay, [mcname]?"
-    scat "Do you think that's okay, [mcname]?"
+    scat "你觉得可以吗，[mcname]？"
 
 # game/code/e16/e16s04.rpy:116
 translate chinese e16s04_d30e1691:
 
     # mc "Of course, Sage. But don't feel any pressure. You can go easy into it."
-    mc "Of course, Sage. But don't feel any pressure. You can go easy into it."
+    mc "当然可以，赛奇。但不要有任何压力。你可以慢慢来。"
 
 # game/code/e16/e16s04.rpy:119
 translate chinese e16s04_1cdab0cb:
 
     # scat "*deep breath*"
-    scat "*deep breath*"
+    scat "*深呼吸*"
 
 # game/code/e16/e16s04.rpy:120
 translate chinese e16s04_fad562ca:
 
     # scat "I'm ready."
-    scat "I'm ready."
+    scat "我准备好了。"
 
 # game/code/e16/e16s04.rpy:141
 translate chinese e16s04_5039caac:
 
     # kv "Fantastic."
-    kv "Fantastic."
+    kv "太棒了。"
 
 # game/code/e16/e16s04.rpy:144
 translate chinese e16s04_eaed4d1b:
 
     # kv "Oh woah."
-    kv "Oh woah."
+    kv "哦哇。"
 
 # game/code/e16/e16s04.rpy:148
 translate chinese e16s04_bdfd1f1a:
 
     # kv "These are going to turn out great."
-    kv "These are going to turn out great."
+    kv "这些一定会很棒。"
 
 # game/code/e16/e16s04.rpy:162
 translate chinese e16s04_40ffbf0f:
 
     # mct "Jessie looks like she's having a wonderful time."
-    mct "Jessie looks like she's having a wonderful time."
+    mct "杰西看起来玩得很开心。"
 
 # game/code/e16/e16s04.rpy:165
 translate chinese e16s04_1fe4e97a:
 
     # mct "I'm so glad I joined her for this farm."
-    mct "I'm so glad I joined her for this farm."
+    mct "我很高兴能和她一起来到农场。"
 
 # game/code/e16/e16s04.rpy:167
 translate chinese e16s04_ff21dd38:
 
     # kv "Arrgh. Let's move things inside. Sun is not behaving anymore."
-    kv "Arrgh. Let's move things inside. Sun is not behaving anymore."
+    kv "啊，我们把东西搬进去吧，太阳不听话了。"
 
 # game/code/e16/e16s04.rpy:188
 translate chinese e16s04_sex_5475e833:
 
     # mct "They're so comfortable with each other."
-    mct "They're so comfortable with each other."
+    mct "她们相处得很融洽。"
 
 # game/code/e16/e16s04.rpy:189
 translate chinese e16s04_sex_b3976a4a:
 
     # mct "Animal-girls are so hot!"
-    mct "Animal-girls are so hot!"
+    mct "动物女孩真性感！"
 
 # game/code/e16/e16s04.rpy:193
 translate chinese e16s04_sex_83a914d4:
 
     # kv "What have you got there, [mcname]?"
-    kv "What have you got there, [mcname]?"
+    kv "你在想什么呢，[mcname]？"
 
 # game/code/e16/e16s04.rpy:197
 translate chinese e16s04_sex_319e9e2f:
 
     # mc "Haha. Well, watching so many sexy girls at play and at work is a recipe for distraction."
-    mc "Haha. Well, watching so many sexy girls at play and at work is a recipe for distraction."
+    mc "哈哈。嗯，看这么多性感女孩边玩耍边工作，很容易让人分心。"
 
 # game/code/e16/e16s04.rpy:199
 translate chinese e16s04_sex_c09f47fa:
 
     # kv "Mmmm. Maybe we should fix the situation."
-    kv "Mmmm. Maybe we should fix the situation."
+    kv "嗯。也许我们应该把这个问题给解决了。"
 
 # game/code/e16/e16s04.rpy:202
 translate chinese e16s04_sex_ddb294e6:
 
     # kv "I don't want to have to reshoot some pictures because there is a big erection in all of them."
-    kv "I don't want to have to reshoot some pictures because there is a big erection in all of them."
+    kv "我可不想因为每张照片里都有个勃起的大帐篷，而要重拍这些照片。"
 
 # game/code/e16/e16s04.rpy:203
 translate chinese e16s04_sex_a985adf7:
