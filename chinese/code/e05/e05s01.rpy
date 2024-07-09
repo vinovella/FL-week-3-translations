@@ -88,7 +88,7 @@ translate chinese e05s01_518578fb:
 translate chinese e05s01_77a73769:
 
     # op "Uhm..."
-    op "嗯...
+    op "嗯..."
 
 # game/code/e05/e05s01.rpy:148
 translate chinese e05s01_e1d4b96f:

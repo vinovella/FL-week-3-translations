@@ -754,7 +754,7 @@ translate chinese e16s03_178e53f3:
 translate chinese e16s03_2ca1652a:
 
     # mct "Didn't have this on my checklist."
-    mct 我的清单上可没有这个。"
+    mct "我的清单上可没有这个。"
 
 # game/code/e16/e16s03.rpy:487
 translate chinese e16s03_668520a5:
