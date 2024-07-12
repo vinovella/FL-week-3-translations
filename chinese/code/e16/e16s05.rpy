@@ -4,127 +4,127 @@
 translate chinese e16s05_983ab75e:
 
     # jf "Yes, that one is perfect."
-    jf "Yes, that one is perfect."
+    jf "哇，这一张很完美。"
 
 # game/code/e16/e16s05.rpy:76
 translate chinese e16s05_83223751:
 
     # mc "Oh yeah. Super inviting."
-    mc "Oh yeah. Super inviting."
+    mc "是啊。超级诱人。"
 
 # game/code/e16/e16s05.rpy:79
 translate chinese e16s05_ac23b4d5:
 
     # jf "But not like we're begging."
-    jf "But not like we're begging."
+    jf "但我们又不像在乞求的样子。"
 
 # game/code/e16/e16s05.rpy:82
 translate chinese e16s05_6363d76c:
 
     # mc "Not at all. Very sincere and welcoming."
-    mc "Not at all. Very sincere and welcoming."
+    mc "一点也不像。你们非常真诚和热情。"
 
 # game/code/e16/e16s05.rpy:86
 translate chinese e16s05_253d5325:
 
     # mc "And saved. Alright, ready to update."
-    mc "And saved. Alright, ready to update."
+    mc "保存下来。好了，准备更新了。"
 
 # game/code/e16/e16s05.rpy:89
 translate chinese e16s05_8a3829a9:
 
     # jf "Okay. Go for it! I can't wait for people to see our first major update to the website."
-    jf "Okay. Go for it! I can't wait for people to see our first major update to the website."
+    jf "好的。开始吧！我迫不及待地想让大家看到我们网站的第一次重大更新。"
 
 # game/code/e16/e16s05.rpy:92
 translate chinese e16s05_d0764987:
 
     # mc "Alright. Uploading."
-    mc "Alright. Uploading."
+    mc "好的。上传。"
 
 # game/code/e16/e16s05.rpy:96
 translate chinese e16s05_43adbb1b:
 
     # mc "And there we go. The new pages are up."
-    mc "And there we go. The new pages are up."
+    mc "好了。新页面已经出来了。"
 
 # game/code/e16/e16s05.rpy:99
 translate chinese e16s05_1b679ecb:
 
     # jf "Let me see, let me see."
-    jf "Let me see, let me see."
+    jf "让我看看，让我看看。"
 
 # game/code/e16/e16s05.rpy:102
 translate chinese e16s05_29709630:
 
     # mc "Jessie, you were just looking at them."
-    mc "Jessie, you were just looking at them."
+    mc "杰西，你这就正在看着呢。"
 
 # game/code/e16/e16s05.rpy:105
 translate chinese e16s05_d26d11e5:
 
     # jf "But now it's the complete package."
-    jf "But now it's the complete package."
+    jf "但现在是全套套餐。"
 
 # game/code/e16/e16s05.rpy:108
 translate chinese e16s05_8bef7290:
 
     # mct "This is nice. Jessie is perfect. She can still be kind of shy but once she decides what she wants, she can be very vocal."
-    mct "This is nice. Jessie is perfect. She can still be kind of shy but once she decides what she wants, she can be very vocal."
+    mct "非常好。杰西很完美。她仍然会有点害羞，但一旦她决定了自己想要什么，她就会很有主见。"
 
 # game/code/e16/e16s05.rpy:111
 translate chinese e16s05_c427ea6b:
 
     # mct "But she's still so cute. And distracting."
-    mct "But she's still so cute. And distracting."
+    mct "但她还是那么可爱，让人忍不住分心。"
 
 # game/code/e16/e16s05.rpy:114
 translate chinese e16s05_9b5624ec:
 
     # jf "Hmm? [mcname], can you stop moving so I can read the text?"
-    jf "Hmm? [mcname], can you stop moving so I can read the text?"
+    jf "嗯？[mcname]，你能不能不要动了，好让我看文字？"
 
 # game/code/e16/e16s05.rpy:117
 translate chinese e16s05_bddb7938:
 
     # mc "*coughs* Sorry, part of me is bored of work."
-    mc "*coughs* Sorry, part of me is bored of work."
+    mc "*咳嗽* 抱歉，我有一部分是因为工作太无聊了。"
 
 # game/code/e16/e16s05.rpy:120
 translate chinese e16s05_acc42fba:
 
     # jf "Huh?"
-    jf "Huh?"
+    jf "啊？"
 
 # game/code/e16/e16s05.rpy:124
 translate chinese e16s05_035190c6:
 
     # jf "Oh. Hehehe."
-    jf "Oh. Hehehe."
+    jf "哦，嘿嘿。"
 
 # game/code/e16/e16s05.rpy:132
 translate chinese e16s05_f2048ade:
 
     # jf "I guess we've done enough work for now. You can put the laptop down."
-    jf "I guess we've done enough work for now. You can put the laptop down."
+    jf "我想我们的工作已经做得够多了。你可以放下笔记本电脑了。"
 
 # game/code/e16/e16s05.rpy:135
 translate chinese e16s05_96cf32f7:
 
     # mc "Are you sure? Checking the website is important to you. And us."
-    mc "Are you sure? Checking the website is important to you. And us."
+    mc "你确定吗？检查网站对你很重要。对我们也很重要。"
 
 # game/code/e16/e16s05.rpy:139
 translate chinese e16s05_b348ab65:
 
     # jf "It is. But you're important to me too."
-    jf "It is. But you're important to me too."
+    jf "是很重要。但你对我也很重要。"
 
 # game/code/e16/e16s05.rpy:142
 translate chinese e16s05_79de7289:
 
     # mc "Come here."
-    mc "Come here."
+    mc "过来。"
 
 # game/code/e16/e16s05.rpy:147
 translate chinese e16s05_e8290eb6:
