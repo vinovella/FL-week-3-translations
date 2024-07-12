@@ -10,7 +10,7 @@ translate chinese e16s06_3b7cfc98:
 translate chinese e16s06_87d259ec:
 
     # scat "Master?"
-    scat "Master?"
+    scat "主人？"
 
 # game/code/e16/e16s06.rpy:50
 translate chinese e16s06_c177652a:
@@ -22,661 +22,661 @@ translate chinese e16s06_c177652a:
 translate chinese e16s06_41b5ca8d:
 
     # scat "Hmm."
-    scat "Hmm."
+    scat "嗯。"
 
 # game/code/e16/e16s06.rpy:60
 translate chinese e16s06_ec4b218e:
 
     # mc "*sniffs*"
-    mc "*sniffs*"
+    mc "*皱鼻子*"
 
 # game/code/e16/e16s06.rpy:64
 translate chinese e16s06_6a875cd2:
 
     # mc "I'm awake. I'm awake."
-    mc "I'm awake. I'm awake."
+    mc "我醒了，我醒了。"
 
 # game/code/e16/e16s06.rpy:67
 translate chinese e16s06_7dd20252:
 
     # mc "Oh hey, Sage. What's... *yawn* What's up?"
-    mc "Oh hey, Sage. What's... *yawn* What's up?"
+    mc "哦，嘿，赛奇。怎么...*打呵欠* 怎么了？"
 
 # game/code/e16/e16s06.rpy:70
 translate chinese e16s06_e8eb06f2:
 
     # scat "Meow?"
-    scat "Meow?"
+    scat "喵？"
 
 # game/code/e16/e16s06.rpy:74
 translate chinese e16s06_deaee25b:
 
     # mc "Right. You're practicing being full cat. Sorry."
-    mc "Right. You're practicing being full cat. Sorry."
+    mc "对。你在练习做一只猫。对不起。"
 
 # game/code/e16/e16s06.rpy:87
 translate chinese e16s06_cb573aab:
 
     # scat "I can practice later, Master. You look like hell."
-    scat "I can practice later, Master. You look like hell."
+    scat "我可以晚点再练，主人。你看起来糟透了。"
 
 # game/code/e16/e16s06.rpy:90
 translate chinese e16s06_a64e8bc0:
 
     # mc "Thanks."
-    mc "Thanks."
+    mc "谢谢。"
 
 # game/code/e16/e16s06.rpy:97
 translate chinese e16s06_3e5dfdd5:
 
     # mc "And thanks for the coffee."
-    mc "And thanks for the coffee."
+    mc "谢谢你的咖啡。"
 
 # game/code/e16/e16s06.rpy:100
 translate chinese e16s06_5f94d921:
 
     # scat "Jessie and Molly are still keeping you up?"
-    scat "Jessie and Molly are still keeping you up?"
+    scat "杰西和茉莉还让你睡不着吗？"
 
 # game/code/e16/e16s06.rpy:104
 translate chinese e16s06_9d165c3c:
 
     # mc "It's not too bad. But... well double morning sickness is not covered in the farmer's manual, I'll tell you that much."
-    mc "It's not too bad. But... well double morning sickness is not covered in the farmer's manual, I'll tell you that much."
+    mc "还不算太糟。不过...农民手册上可没写双倍晨吐，我得告诉你这一点。"
 
 # game/code/e16/e16s06.rpy:108
 translate chinese e16s06_6eb73534:
 
     # mc "But it wasn't them that kept me up last night."
-    mc "But it wasn't them that kept me up last night."
+    mc "但昨晚让我睡不着的不是她们。"
 
 # game/code/e16/e16s06.rpy:111
 translate chinese e16s06_a2616683:
 
     # scat "What is it?"
-    scat "What is it?"
+    scat "那是怎么了？"
 
 # game/code/e16/e16s06.rpy:117
 translate chinese e16s06_3e575e38:
 
     # mc "Trouble."
-    mc "Trouble."
+    mc "有点麻烦。"
 
 # game/code/e16/e16s06.rpy:121
 translate chinese e16s06_38cf8bd8:
 
     # scat "You can tell me."
-    scat "You can tell me."
+    scat "你可以跟我说。"
 
 # game/code/e16/e16s06.rpy:124
 translate chinese e16s06_3b5f3568:
 
     # mc "*sighs* Jessie's cousin is still pushing for ownership of the farm and the land."
-    mc "*sighs* Jessie's cousin is still pushing for ownership of the farm and the land."
+    mc "*叹气* 杰西的表兄还在争取农场和土地的所有权。"
 
 # game/code/e16/e16s06.rpy:125
 translate chinese e16s06_642c8de1:
 
     # mc "I think, the second week we were here, he tried to buy us off with money."
-    mc "I think, the second week we were here, he tried to buy us off with money."
+    mc "我想，我们来的第二周，他就想用钱收买我们。"
 
 # game/code/e16/e16s06.rpy:129
 translate chinese e16s06_0f65c1f1:
 
     # mc "I guess that was the carrot. And this is the stick."
-    mc "I guess that was the carrot. And this is the stick."
+    mc "看来他要玩软硬兼施那一套啊。"
 
 # game/code/e16/e16s06.rpy:132
 translate chinese e16s06_438ce0e4:
 
     # scat "He's suing you and Jessie to take the farm from you two?"
-    scat "He's suing you and Jessie to take the farm from you two?"
+    scat "他要起诉你和杰西，然后从你俩手中夺走农场？"
 
 # game/code/e16/e16s06.rpy:135
 translate chinese e16s06_2e703950:
 
     # mc "He's damn well trying."
-    mc "He's damn well trying."
+    mc "他正在努力。"
 
 # game/code/e16/e16s06.rpy:138
 translate chinese e16s06_5a2d4fa3:
 
     # mc "But it's all going to work out."
-    mc "But it's all going to work out."
+    mc "但一切都会解决的。"
 
 # game/code/e16/e16s06.rpy:139
 translate chinese e16s06_51507846:
 
     # mc "We've been getting plenty of donations to the site. People who really support what we're doing here."
-    mc "We've been getting plenty of donations to the site. People who really support what we're doing here."
+    mc "我们的网站收到了很多捐款。那些真正支持我们的人。"
 
 # game/code/e16/e16s06.rpy:142
 translate chinese e16s06_4a237079:
 
     # scat "I wish I could have given more."
-    scat "I wish I could have given more."
+    scat "我希望我能捐得更多。"
 
 # game/code/e16/e16s06.rpy:146
 translate chinese e16s06_b5eef956:
 
     # mc "That's sweet. But this place isn't meant to be a hotel."
-    mc "That's sweet. But this place isn't meant to be a hotel."
+    mc "真贴心。但这地方不是用来当旅馆的。"
 
 # game/code/e16/e16s06.rpy:147
 translate chinese e16s06_0f1633a0:
 
     # mc "We'll figure it out. I promise."
-    mc "We'll figure it out. I promise."
+    mc "我们会想办法的，我保证。"
 
 # game/code/e16/e16s06.rpy:153
 translate chinese e16s06_3755c2a6:
 
     # "*doorbell rings*"
-    "*doorbell rings*"
+    "*门铃响*"
 
 # game/code/e16/e16s06.rpy:155
 translate chinese e16s06_e8eb06f2_1:
 
     # scat "Meow?"
-    scat "Meow?"
+    scat "喵？"
 
 # game/code/e16/e16s06.rpy:161
 translate chinese e16s06_180bf928:
 
     # kk "Well, howdy. Is this the farm for animal-girls?"
-    kk "Well, howdy. Is this the farm for animal-girls?"
+    kk "你好。这是动物女孩的农场吗？"
 
 # game/code/e16/e16s06.rpy:164
 translate chinese e16s06_bce86355:
 
     # mc "Uh yes. I guess you've come to the right place."
-    mc "Uh yes. I guess you've come to the right place."
+    mc "是的。我想你来对地方了。"
 
 # game/code/e16/e16s06.rpy:168
 translate chinese e16s06_83efb169:
 
     # mc "I'm [mcname]. I run the place with my girlfriend, Jessie."
-    mc "I'm [mcname]. I run the place with my girlfriend, Jessie."
+    mc "我是[mcname]。我和我女朋友杰西一起经营这个地方。"
 
 # game/code/e16/e16s06.rpy:169
 translate chinese e16s06_bf964b75:
 
     # mc "Behind me is Sage. She can be a little shy."
-    mc "Behind me is Sage. She can be a little shy."
+    mc "在我后面的是赛奇。她有点害羞。"
 
 # game/code/e16/e16s06.rpy:172
 translate chinese e16s06_ffd80eb4:
 
     # kk "Well, I'm tickled pink to meet you both."
-    kk "Well, I'm tickled pink to meet you both."
+    kk "很高兴见到你们俩。"
 
 # game/code/e16/e16s06.rpy:173
 translate chinese e16s06_5d17ff13:
 
     # kk "The name is Kristin Kahler."
-    kk "The name is Kristin Kahler."
+    kk "我叫克里斯汀·卡勒。"
 
 # game/code/e16/e16s06.rpy:177
 translate chinese e16s06_9296742d:
 
     # kk "After I saw your website, I just knew I had to come over and experience this place on my own."
-    kk "After I saw your website, I just knew I had to come over and experience this place on my own."
+    kk "看到你们的网站后，我就知道我一定要亲自来体验一下。"
 
 # game/code/e16/e16s06.rpy:180
 translate chinese e16s06_43ab0106:
 
     # mc "Sure, stay as long as you want, Kristin."
-    mc "Sure, stay as long as you want, Kristin."
+    mc "当然，想待多久就待多久，克里斯汀。"
 
 # game/code/e16/e16s06.rpy:184
 translate chinese e16s06_2031deff:
 
     # kk "And don't think I don't aim to hold my weight around here. Back home, well, it's really hard for me to be my true self. That is to say, I really appreciate the focus of a place like this."
-    kk "And don't think I don't aim to hold my weight around here. Back home, well, it's really hard for me to be my true self. That is to say, I really appreciate the focus of a place like this."
+    kk "别以为我在这里不求上进。在家里，我很难做真正的自己。也就是说，我非常欣赏像这里能这样关注这么小众的需求。"
 
 # game/code/e16/e16s06.rpy:187
 translate chinese e16s06_cae731ce:
 
     # mc "Kristin, you don't have to-"
-    mc "Kristin, you don't have to-"
+    mc "克里斯汀，你不必--"
 
 # game/code/e16/e16s06.rpy:190
 translate chinese e16s06_b0df3fa2:
 
     # kk "Nonsense. I do mighty fine back home, hon."
-    kk "Nonsense. I do mighty fine back home, hon."
+    kk "别说了。我在家里过得很好，亲爱的。"
 
 # game/code/e16/e16s06.rpy:191
 translate chinese e16s06_ac93f405:
 
     # mct "She's more than generous. That check won't cover a whole lawyer's bill, but it's more than we've ever got in donations."
-    mct "She's more than generous. That check won't cover a whole lawyer's bill, but it's more than we've ever got in donations."
+    mct "她真是慷慨大方。那张支票还不够支付整个律师费，但它比我们收到的捐款还多。"
 
 # game/code/e16/e16s06.rpy:194
 translate chinese e16s06_6565a5ca:
 
     # mc "Well, we really appreciate it."
-    mc "Well, we really appreciate it."
+    mc "我们真的很感激。"
 
 # game/code/e16/e16s06.rpy:197
 translate chinese e16s06_6f51d2d4:
 
     # kk "And I'm more than just a pretty face with a great gift."
-    kk "And I'm more than just a pretty face with a great gift."
+    kk "我可不仅仅是个美人，还是个有天赋的漂亮美人。"
 
 # game/code/e16/e16s06.rpy:200
 translate chinese e16s06_6d715191:
 
     # kk "These big heffers are more than a great pair of tatters."
-    kk "These big heffers are more than a great pair of tatters."
+    kk "这些大块头可不仅仅是一对破烂。"
 
 # game/code/e16/e16s06.rpy:203
 translate chinese e16s06_1961ff84:
 
     # mc "Uh... what do you mean?"
-    mc "Uh... what do you mean?"
+    mc "呃...什么意思？"
 
 # game/code/e16/e16s06.rpy:206
 translate chinese e16s06_9a9dbad5:
 
     # kk "I've always been a natural milkmaid since I was young. Docs couldn't figure it out, but these puppies are full of milk, almost rain or shine."
-    kk "I've always been a natural milkmaid since I was young. Docs couldn't figure it out, but these puppies are full of milk, almost rain or shine."
+    kk "我从小就是天生的奶妈。医生也搞不清楚，但这些小家伙几乎风雨无阻，奶水十足。"
 
 # game/code/e16/e16s06.rpy:209
 translate chinese e16s06_b1819d60:
 
     # scat "Really?"
-    scat "Really?"
+    scat "真的吗？"
 
 # game/code/e16/e16s06.rpy:212
 translate chinese e16s06_ebe7b74c:
 
     # kk "God's honest truth, missy. In fact, sometimes they get so big I need help milking them. Might be someone here could help me out with that."
-    kk "God's honest truth, missy. In fact, sometimes they get so big I need help milking them. Might be someone here could help me out with that."
+    kk "千真万确哦，拜托。事实上，有时候它们长得太大了，我需要别人帮忙挤奶。也许这里有人能帮我这个忙。"
 
 # game/code/e16/e16s06.rpy:215
 translate chinese e16s06_9c716c55:
 
     # mc "I volunteer as tribute."
-    mc "I volunteer as tribute."
+    mc "我自愿当贡品。"
 
 # game/code/e16/e16s06.rpy:218
 translate chinese e16s06_1ce602ae:
 
     # kk "Hahaha."
-    kk "Hahaha."
+    kk "哈哈哈。"
 
 # game/code/e16/e16s06.rpy:221
 translate chinese e16s06_3259e20d:
 
     # kk "Well, aren't you sweet, [mcname]. But there is no rush. Why don't you give me a little tour?"
-    kk "Well, aren't you sweet, [mcname]. But there is no rush. Why don't you give me a little tour?"
+    kk "嗯，你真好，[mcname]。不过不用着急。为什么不带我参观一下呢？"
 
 # game/code/e16/e16s06.rpy:224
 translate chinese e16s06_3523db78:
 
     # mc "Happy too."
-    mc "Happy too."
+    mc "好呀，非常乐意。"
 
 # game/code/e16/e16s06.rpy:245
 translate chinese e16s06_263752a9:
 
     # mct "*phew* I fucking hate taking out weeds."
-    mct "*phew* I fucking hate taking out weeds."
+    mct "*呸* 我真他妈讨厌除草。"
 
 # game/code/e16/e16s06.rpy:246
 translate chinese e16s06_5c58b4dc:
 
     # mct "Bastards keep coming after my corn."
-    mct "Bastards keep coming after my corn."
+    mct "混蛋们一直追着我的玉米不放。"
 
 # game/code/e16/e16s06.rpy:250
 translate chinese e16s06_c1512811:
 
     # scat "Meow. Hey [mcname]."
-    scat "Meow. Hey [mcname]."
+    scat "喵。嘿[mcname]。"
 
 # game/code/e16/e16s06.rpy:254
 translate chinese e16s06_ba0621c9:
 
     # mc "Hey Sage."
-    mc "Hey Sage."
+    mc "嘿，赛奇。"
 
 # game/code/e16/e16s06.rpy:257
 translate chinese e16s06_de1536b8:
 
     # scat "Purrrrr."
-    scat "Purrrrr."
+    scat "咕噜咕噜"
 
 # game/code/e16/e16s06.rpy:261
 translate chinese e16s06_c4ebc29c:
 
     # mc "Haha. Someone is a happy kitty."
-    mc "Haha. Someone is a happy kitty."
+    mc "哈哈。某人是只快乐的小猫咪。"
 
 # game/code/e16/e16s06.rpy:264
 translate chinese e16s06_80a1eb4c:
 
     # scat "Very."
-    scat "Very."
+    scat "那可不。"
 
 # game/code/e16/e16s06.rpy:267
 translate chinese e16s06_f5100aa7:
 
     # scat "Oooh! Kristin asked me to ask you for some help. She's in the barn."
-    scat "Oooh! Kristin asked me to ask you for some help. She's in the barn."
+    scat "噢！克里斯汀让我来找你帮忙。她在谷仓里。"
 
 # game/code/e16/e16s06.rpy:270
 translate chinese e16s06_af2731f9:
 
     # mc "Is she hurt?"
-    mc "Is she hurt?"
+    mc "她受伤了吗？"
 
 # game/code/e16/e16s06.rpy:273
 translate chinese e16s06_4cd77305:
 
     # scat "Nope. Just said she could use your strong hands for something."
-    scat "Nope. Just said she could use your strong hands for something."
+    scat "没有。只是说她需要你一双有力的手。"
 
 # game/code/e16/e16s06.rpy:277
 translate chinese e16s06_75ab9199:
 
     # mc "Alright, let's see what she needs."
-    mc "Alright, let's see what she needs."
+    mc "好吧，看看她需要什么。"
 
 # game/code/e16/e16s06.rpy:280
 translate chinese e16s06_45dc0bc8:
 
     # mct "I wonder what Kristin is up to."
-    mct "I wonder what Kristin is up to."
+    mct "不知道克里斯汀在忙什么？"
 
 # game/code/e16/e16s06.rpy:281
 translate chinese e16s06_93c15364:
 
     # mct "She mentioned something about sprucing up the barn after she saw it. I think she was surprised that we usually keep the place empty."
-    mct "She mentioned something about sprucing up the barn after she saw it. I think she was surprised that we usually keep the place empty."
+    mct "她当时看到谷仓后，提到了要把它收拾一下。我想她很惊讶我们通常都把这里空着。"
 
 # game/code/e16/e16s06.rpy:293
 translate chinese e16s06_sex_8f60c46d:
 
     # mc "Woah. Kristin you look gorgeous."
-    mc "Woah. Kristin you look gorgeous."
+    mc "哇。克里斯汀，你看起来美极了。"
 
 # game/code/e16/e16s06.rpy:304
 translate chinese e16s06_sex_38373e67:
 
     # kk "Haha. Why thank you. You do your folks proud, [mcname]."
-    kk "Haha. Why thank you. You do your folks proud, [mcname]."
+    kk "哈哈。谢谢。你让你的家人感到骄傲，[mcname]。"
 
 # game/code/e16/e16s06.rpy:311
 translate chinese e16s06_sex_36761017:
 
     # kk "I hope you don't mind giving an old lady some help, Mister."
-    kk "I hope you don't mind giving an old lady some help, Mister."
+    kk "先生，希望你不介意帮我这个老太太一把。"
 
 # game/code/e16/e16s06.rpy:314
 translate chinese e16s06_sex_bfde78ea:
 
     # mc "Help? Sure. Uh... help with what?"
-    mc "Help? Sure. Uh... help with what?"
+    mc "帮忙？当然，呃...帮什么忙？"
 
 # game/code/e16/e16s06.rpy:320
 translate chinese e16s06_sex_d8ebb9a4:
 
     # mct "My god those tits are big."
-    mct "My god those tits are big."
+    mct "天哪，这奶子真大。"
 
 # game/code/e16/e16s06.rpy:323
 translate chinese e16s06_sex_250a17b6:
 
     # kk "What else? I need my farmer to milk these big titties of mine."
-    kk "What else? I need my farmer to milk these big titties of mine."
+    kk "还能干什么呢？我需要我的农夫给我的大奶子挤奶。"
 
 # game/code/e16/e16s06.rpy:326
 translate chinese e16s06_sex_ad04cdc8:
 
     # kk "If someone doesn't milk them soon, I think they're fixing to explode."
-    kk "If someone doesn't milk them soon, I think they're fixing to explode."
+    kk "如果有人不快点挤奶，我想它们就要爆炸了。"
 
 # game/code/e16/e16s06.rpy:329
 translate chinese e16s06_sex_19012742:
 
     # mc "Of course! I'll give it my best show!"
-    mc "Of course! I'll give it my best show!"
+    mc "当然！我会好好表现的！"
 
 # game/code/e16/e16s06.rpy:333
 translate chinese e16s06_sex_208e0cb7:
 
     # mc "So I just go right in?"
-    mc "So I just go right in?"
+    mc "那我就直接开始？"
 
 # game/code/e16/e16s06.rpy:336
 translate chinese e16s06_sex_0e054c33:
 
     # kk "Yes sir. Grab a hold and start filling up the bucket."
-    kk "Yes sir. Grab a hold and start filling up the bucket."
+    kk "是的，先生。抓紧了，开始往桶里灌。"
 
 # game/code/e16/e16s06.rpy:346
 translate chinese e16s06_sex_533f0980:
 
     # mct "Here goes nothing."
-    mct "Here goes nothing."
+    mct "什么都没有。"
 
 # game/code/e16/e16s06.rpy:350
 translate chinese e16s06_sex_deac30c5:
 
     # kk "Mmmm..."
-    kk "Mmmm..."
+    kk "嗯..."
 
 # game/code/e16/e16s06.rpy:354
 translate chinese e16s06_sex_8d02db66:
 
     # kk "Moowwooo... Mmm... Moo..."
-    kk "Moowwooo... Mmm... Moo..."
+    kk "哞哦哦...嗯...哞..."
 
 # game/code/e16/e16s06.rpy:357
 translate chinese e16s06_sex_4495eef5:
 
     # mc "How is that?"
-    mc "How is that?"
+    mc "怎么样？"
 
 # game/code/e16/e16s06.rpy:361
 translate chinese e16s06_sex_ba37d53b:
 
     # kk "Come on. You can go harder than that. I'm not a gentle little maiden, [mcname]."
-    kk "Come on. You can go harder than that. I'm not a gentle little maiden, [mcname]."
+    kk "来吧。你可以更用力。我可不是温柔的小少女，[mcname]。"
 
 # game/code/e16/e16s06.rpy:364
 translate chinese e16s06_sex_6651ab87:
 
     # mc "Alright."
-    mc "Alright."
+    mc "好吧。"
 
 # game/code/e16/e16s06.rpy:368
 translate chinese e16s06_sex_c06e6656:
 
     # kk "There you go. Such a big strong boy."
-    kk "There you go. Such a big strong boy."
+    kk "这就对了。真是个强壮的大男孩。"
 
 # game/code/e16/e16s06.rpy:371
 translate chinese e16s06_sex_e8902fa0:
 
     # mc "Mind if... never mind."
-    mc "Mind if... never mind."
+    mc "介不介意...算了。"
 
 # game/code/e16/e16s06.rpy:374
 translate chinese e16s06_sex_2c89f309:
 
     # kk "Come on. You're the farmer. You gotta be confident."
-    kk "Come on. You're the farmer. You gotta be confident."
+    kk "来吧。你是农夫。你得自信点。"
 
 # game/code/e16/e16s06.rpy:377
 translate chinese e16s06_sex_fae9c271:
 
     # mc "I should have a taste. Make sure the milk is just right."
-    mc "I should have a taste. Make sure the milk is just right."
+    mc "我应该尝尝。确保牛奶恰到好处。"
 
 # game/code/e16/e16s06.rpy:380
 translate chinese e16s06_sex_597b1201:
 
     # kk "Yes, you should."
-    kk "Yes, you should."
+    kk "是的，你应该尝尝。"
 
 # game/code/e16/e16s06.rpy:384
 translate chinese e16s06_sex_502a4e34:
 
     # kk "Mooouhaaah... Someone is hungry."
-    kk "Mooouhaaah... Someone is hungry."
+    kk "哞哈啊...有人饿了。"
 
 # game/code/e16/e16s06.rpy:386
 translate chinese e16s06_sex_09b76b27:
 
     # kk "Mmmm... there is no rush. Take it nice and slow."
-    kk "Mmmm... there is no rush. Take it nice and slow."
+    kk "嗯...不用着急。慢慢来。"
 
 # game/code/e16/e16s06.rpy:398
 translate chinese e16s06_sex_6e4b05db:
 
     # kk "Oh my."
-    kk "Oh my."
+    kk "天啊。"
 
 # game/code/e16/e16s06.rpy:412
 translate chinese e16s06_sex_6eb20531:
 
     # kk "Hahah. [mcname], did you get nice and hard having some of my milk?"
-    kk "Hahah. [mcname], did you get nice and hard having some of my milk?"
+    kk "哈哈。[mcname]，你喝了我的牛奶，有没有觉得哪里又硬又舒服？"
 
 # game/code/e16/e16s06.rpy:415
 translate chinese e16s06_sex_dc20a782:
 
     # mc "Heh. Sorry about that, Kristin."
-    mc "Heh. Sorry about that, Kristin."
+    mc "呵。对不起，克里斯汀。"
 
 # game/code/e16/e16s06.rpy:418
 translate chinese e16s06_sex_f4066a12:
 
     # kk "Is something wrong? Are you not feeling well?"
-    kk "Is something wrong? Are you not feeling well?"
+    kk "出什么事了吗？你不舒服？"
 
 # game/code/e16/e16s06.rpy:421
 translate chinese e16s06_sex_87b7b753:
 
     # mc "Huh? No, I'm feeling fine."
-    mc "Huh? No, I'm feeling fine."
+    mc "没有，我感觉很好。"
 
 # game/code/e16/e16s06.rpy:425
 translate chinese e16s06_sex_428f5973:
 
     # kk "Then there is nothing to be sorry about, [mcname]. In fact, I think since seeing your lovely cowgirl got you this way, it's my chore to fix it."
-    kk "Then there is nothing to be sorry about, [mcname]. In fact, I think since seeing your lovely cowgirl got you this way, it's my chore to fix it."
+    kk "那就没什么好抱歉的了，[mcname]。事实上，我觉得自从看到你可爱的女牛仔把你弄成这样，我就有责任把它修好。"
 
 # game/code/e16/e16s06.rpy:428
 translate chinese e16s06_sex_cfce055e:
 
     # mc "Are you sure?"
-    mc "Are you sure?"
+    mc "你确定吗？"
 
 # game/code/e16/e16s06.rpy:431
 translate chinese e16s06_sex_56d327e1:
 
     # kk "Absolutely. While I'm here, you should consider me your free-use cowgirl. If you ever need some milk, or-"
-    kk "Absolutely. While I'm here, you should consider me your free-use cowgirl. If you ever need some milk, or-"
+    kk "当然。我在这里的时候，你应该把我当成你免费使用的女牛仔。如果你需要牛奶，或者--"
 
 # game/code/e16/e16s06.rpy:434
 translate chinese e16s06_sex_0c2c5478:
 
     # kk "-if you ever want to get milked, just come to the barn."
-    kk "-if you ever want to get milked, just come to the barn."
+    kk "--或者你想挤奶的话，就来牛棚吧。"
 
 # game/code/e16/e16s06.rpy:437
 translate chinese e16s06_sex_0c172d0b:
 
     # mc "I'm always up for a good milking. But I think I should continue helping you out before we worry about me."
-    mc "I'm always up for a good milking. But I think I should continue helping you out before we worry about me."
+    mc "我随时欢迎你愿意过来挤奶。不过我想，在咱们为我担心之前，我应该继续帮你解脱。"
 
 # game/code/e16/e16s06.rpy:440
 translate chinese e16s06_sex_eed7a8ea:
 
     # kk "Oh really?"
-    kk "Oh really?"
+    kk "是吗？"
 
 # game/code/e16/e16s06.rpy:443
 translate chinese e16s06_sex_a4ea137b:
 
     # mc "Really."
-    mc "Really."
+    mc "是啊。"
 
 # game/code/e16/e16s06.rpy:448
 translate chinese e16s06_sex_71164ea8:
 
     # kk "Mooowh-ahahauah..."
-    kk "Mooowh-ahahauah..."
+    kk "哞呜--啊哈哈哈..."
 
 # game/code/e16/e16s06.rpy:452
 translate chinese e16s06_sex_3cb2bc0a:
 
     # kk "Mooouhaah..."
-    kk "Mooouhaah..."
+    kk "哞哈啊..."
 
 # game/code/e16/e16s06.rpy:454
 translate chinese e16s06_sex_d6c85b2e:
 
     # mct "This is the best. When we came out here, I never imagined having a full farm of animal-girls."
-    mct "This is the best. When we came out here, I never imagined having a full farm of animal-girls."
+    mct "这也太美了。我们来的时候，我从没想过有这么多动物女孩在农场里生活。"
 
 # game/code/e16/e16s06.rpy:455
 translate chinese e16s06_sex_6fa26231:
 
     # mct "And Kristin might be the best yet!"
-    mct "And Kristin might be the best yet!"
+    mct "克里斯汀可能是最棒的了！"
 
 # game/code/e16/e16s06.rpy:457
 translate chinese e16s06_sex_6c2e32f8:
 
     # kk "That's it, sugar. Enjoy every bit of my milk."
-    kk "That's it, sugar. Enjoy every bit of my milk."
+    kk "就是这样，小宝贝。好好享受我的牛奶吧。"
 
 # game/code/e16/e16s06.rpy:459
 translate chinese e16s06_sex_db039d50:
 
     # kk "Mmm... *light laughter* You love just squeezing my big heffer titties, don't you?"
-    kk "Mmm... *light laughter* You love just squeezing my big heffer titties, don't you?"
+    kk "嗯...*轻松的笑声* 你喜欢捏我的大奶子，对吧？"
 
 # game/code/e16/e16s06.rpy:461
 translate chinese e16s06_sex_a5b20688:
 
     # scat "*softly sighs*"
-    scat "*softly sighs*"
+    scat "*轻轻叹息*"
 
 # game/code/e16/e16s06.rpy:462
 translate chinese e16s06_sex_3a7fc191:
 
     # kk "Haha. Don't be shy, kitty-kat."
-    kk "Haha. Don't be shy, kitty-kat."
+    kk "哈哈。别害羞，小猫咪。"
 
 # game/code/e16/e16s06.rpy:463
 translate chinese e16s06_sex_09c7a540:
 
     # kk "There is more than enough of me for two. Hehehe."
-    kk "There is more than enough of me for two. Hehehe."
+    kk "我的奶子两个人上都绰绰有余。嘿嘿。"
 
 # game/code/e16/e16s06.rpy:469
 translate chinese e16s06_sex_bd574e37:
 
     # mc "Kristin, I think it's your turn to milk me."
-    mc "Kristin, I think it's your turn to milk me."
+    mc "克里斯汀，我想轮到你给我挤奶了。"
 
 # game/code/e16/e16s06.rpy:472
 translate chinese e16s06_sex_aea848d1:
 
     # kk "Mmm, now you're really getting in the spirit of things."
-    kk "Mmm, now you're really getting in the spirit of things."
+    kk "嗯，现在你可真是来劲了。"
 
 # game/code/e16/e16s06.rpy:479
 translate chinese e16s06_sex_1fa0c741:
 
     # mc "Ohuaah... oh fuck."
-    mc "Ohuaah... oh fuck."
+    mc "哦哈啊啊啊...哦哦哦操..."
 
 # game/code/e16/e16s06.rpy:480
 translate chinese e16s06_sex_4c2a54d1:
