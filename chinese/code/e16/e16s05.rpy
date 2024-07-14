@@ -1057,7 +1057,7 @@ translate chinese e16s05_sex_9d188bda:
     mc "请便，康雅。"
 
 # game/code/e16/e16s05.rpy:741
-Translate Chinese e16s05_sex_db1b3ad1:
+translate Chinese e16s05_sex_db1b3ad1:
 
     # jf "Yesss... Oh-my-godduaaah..."
     jf "啊啊啊...哦，我的天啊..."
