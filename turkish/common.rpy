@@ -1226,3 +1226,11 @@ translate turkish strings:
     old "Retry"
     new "Retry"
 
+# TODO: Translation updated at 2024-07-16 01:07
+
+translate turkish strings:
+
+    # renpy/common/00accessibility.rpy:197
+    old "Self-voicing support is limited when using a touch screen."
+    new "Self-voicing support is limited when using a touch screen."
+

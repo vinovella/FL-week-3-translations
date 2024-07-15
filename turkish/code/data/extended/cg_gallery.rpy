@@ -221,3 +221,19 @@ translate turkish strings:
     # game/code/data/extended/cg_gallery.rpy:85
     old "Ending 07: Girls"
     new "7. Son: Kızlar"
+# TODO: Translation updated at 2024-07-16 01:07
+
+translate turkish strings:
+
+    # game/code/data/extended/cg_gallery.rpy:79
+    old "Ending 05: Lyssa & Oliver"
+    new "Ending 05: Lyssa & Oliver"
+
+    # game/code/data/extended/cg_gallery.rpy:122
+    old "Ending 16: Jessie & Kanya"
+    new "Ending 16: Jessie & Kanya"
+
+    # game/code/data/extended/cg_gallery.rpy:122
+    old "Ending 16: Farm Animals"
+    new "Ending 16: Farm Animals"
+

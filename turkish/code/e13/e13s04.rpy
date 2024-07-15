@@ -216,3 +216,17 @@ translate turkish strings:
     old "You have finished playing ending number 13!"
     new "13 numaralı bitişi oynamayı bitirdiniz!"
 
+# TODO: Translation updated at 2024-07-16 01:07
+
+# game/code/e13/e13s04.rpy:179
+translate turkish replay_e13s04_4ae8355d:
+
+    # nk "God... That was amazing..."
+    nk "God... That was amazing..."
+
+# game/code/e13/e13s04.rpy:214
+translate turkish replay_e13s04_c133408e:
+
+    # nk "*Loud moans* Yes, fuck... Yes! I love you, [mcname]."
+    nk "*Loud moans* Yes, fuck... Yes! I love you, [mcname]."
+

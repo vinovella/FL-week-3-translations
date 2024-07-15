@@ -221,3 +221,15 @@ translate turkish strings:
     # game/code/screens/screens_fl.rpy:1263
     old "Skip Recap\nof Week-2"
     new "2. Hafta\nÖzetini Atla"
+
+    # game/code/screens/screens_fl.rpy:1304
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+    # game/code/screens/screens_fl.rpy:1306
+    old "Upload Saves"
+    new "Upload Saves"
+
+    # game/code/screens/screens_fl.rpy:1307
+    old "Download Saves"
+    new "Download Saves"

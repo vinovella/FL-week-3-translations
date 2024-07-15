@@ -1338,3 +1338,55 @@ translate turkish strings:
     old "Disappoint Lydia and be the loser."
     new "Lydia'yı hayal kırıklığına uğrat ve kaybeden ol."
 
+# TODO: Translation updated at 2024-07-16 01:07
+
+translate turkish strings:
+
+    # game/code/hints.rpy:5
+    old "You take Oliver's anal virginity."
+    new "You take Oliver's anal virginity."
+
+    # game/code/hints.rpy:5
+    old "Lyssa takes Oliver's anal virginity."
+    new "Lyssa takes Oliver's anal virginity."
+
+    # game/code/hints.rpy:5
+    old "Oliver will felch out his own cum."
+    new "Oliver will felch out his own cum."
+
+    # game/code/hints.rpy:5
+    old "Oliver will lick up his own cum."
+    new "Oliver will lick up his own cum."
+
+    # game/code/hints.rpy:5
+    old "You eat the cum off Oliver's face."
+    new "You eat the cum off Oliver's face."
+
+    # game/code/hints.rpy:5
+    old "You don't eat the cum off Oliver's face."
+    new "You don't eat the cum off Oliver's face."
+
+    # game/code/hints.rpy:5
+    old "Watch Gemma release on Stacy."
+    new "Watch Gemma release on Stacy."
+
+    # game/code/hints.rpy:5
+    old "Gemma lets her enema go."
+    new "Gemma lets her enema go."
+
+    # game/code/hints.rpy:5
+    old "Drink some of Min's pee."
+    new "Drink some of Min's pee."
+
+    # game/code/hints.rpy:5
+    old "Don't drink Min's pee."
+    new "Don't drink Min's pee."
+
+    # game/code/hints.rpy:5
+    old "Stacy holds [mcname]'s dick while he pees."
+    new "Stacy holds [mcname]'s dick while he pees."
+
+    # game/code/hints.rpy:5
+    old "Stacy gives [mcname] a rimjob while he pees."
+    new "Stacy gives [mcname] a rimjob while he pees."
+
