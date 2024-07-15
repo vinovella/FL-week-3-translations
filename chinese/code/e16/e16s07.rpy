@@ -712,533 +712,533 @@ translate chinese e16s07_sex_14c87ee0:
 translate chinese e16s07_sex_d4ad2876:
 
     # "{color=#4a99ed}Jessie{/color} and {color=#8b4236}Sage{/color}" "*sucking*"
-    "{color=#4a99ed}Jessie{/color} and {color=#8b4236}Sage{/color}" "*sucking*"
+    "{color=#4a99ed}杰西{/color}和{color=#8b4236}赛奇{/color}" "*使劲吸*"
 
 # game/code/e16/e16s07.rpy:532
 translate chinese e16s07_sex_57d7f2a3:
 
     # kk "But that's all just peachy with me."
-    kk "But that's all just peachy with me."
+    kk "但我觉得很好。"
 
 # game/code/e16/e16s07.rpy:535
 translate chinese e16s07_sex_6d707ca6:
 
     # kk "*moaning* We're all in this together, taking care of the farm."
-    kk "*moaning* We're all in this together, taking care of the farm."
+    kk "*呻吟* 我们都在一起，照顾农场。"
 
 # game/code/e16/e16s07.rpy:536
 translate chinese e16s07_sex_d4cf2a04:
 
     # kk "Moouaah-wffuah... taking care of our handsome farmer!"
-    kk "Moouaah-wffuah... taking care of our handsome farmer!"
+    kk "哞哇-唔唔唔...照顾我们英俊的农场主！"
 
 # game/code/e16/e16s07.rpy:544
 translate chinese e16s07_sex_20556e8f:
 
     # kk "Okay, stud. I think it's my turn in the tractor seat."
-    kk "Okay, stud. I think it's my turn in the tractor seat."
+    kk "好了，宝贝。我想该轮到我坐拖拉机了。"
 
 # game/code/e16/e16s07.rpy:546
 translate chinese e16s07_sex_1ce81b63:
 
     # mc "By all means."
-    mc "By all means."
+    mc "请便。"
 
 # game/code/e16/e16s07.rpy:550
 translate chinese e16s07_sex_3afb539a:
 
     # kk "Take a seat right there. Ain't nothing fancy-"
-    kk "Take a seat right there. Ain't nothing fancy-"
+    kk "就坐那儿吧。没什么好看的--"
 
 # game/code/e16/e16s07.rpy:551
 translate chinese e16s07_sex_fa4498d0:
 
     # kk "But it's going to rock your world."
-    kk "But it's going to rock your world."
+    kk "但它会震撼你的世界。"
 
 # game/code/e16/e16s07.rpy:563
 translate chinese e16s07_sex_83984ee5:
 
     # mc "You're milking the life out of me, Kristin."
-    mc "You're milking the life out of me, Kristin."
+    mc "你在榨干我的生命，克里斯汀。"
 
 # game/code/e16/e16s07.rpy:564
 translate chinese e16s07_sex_1e39f687:
 
     # kk "That's the idea, mister."
-    kk "That's the idea, mister."
+    kk "这就是我的想法，先生。"
 
 # game/code/e16/e16s07.rpy:567
 translate chinese e16s07_sex_5a91911b:
 
     # kk "You've been working so hard, keeping Jessie and Molly comfortable."
-    kk "You've been working so hard, keeping Jessie and Molly comfortable."
+    kk "你一直在努力工作，让杰西和莫莉过上舒服的日子。"
 
 # game/code/e16/e16s07.rpy:568
 translate chinese e16s07_sex_40e10ba9:
 
     # kk "*moaning* I want to make you feel as comfortable as can be."
-    kk "*moaning* I want to make you feel as comfortable as can be."
+    kk "*呻吟* 我想让你感觉尽可能的舒适无比。"
 
 # game/code/e16/e16s07.rpy:569
 translate chinese e16s07_sex_21a888d2:
 
     # mc "Nrrrrnn..."
-    mc "Nrrrrnn..."
+    mc "嗯嗯嗯..."
 
 # game/code/e16/e16s07.rpy:575
 translate chinese e16s07_sex_67bff4ac:
 
     # mc "Kristin, I'm... I'm about to cum."
-    mc "Kristin, I'm... I'm about to cum."
+    mc "克里斯汀，我...我要射了。"
 
 # game/code/e16/e16s07.rpy:576
 translate chinese e16s07_sex_495c96f5:
 
     # kk "So cum. I still haven't gotten to feel you giving me that nice warm milk."
-    kk "So cum. I still haven't gotten to feel you giving me that nice warm milk."
+    kk "那就射吧。我还没感受到你给我那温暖的汁水呢。"
 
 # game/code/e16/e16s07.rpy:579
 translate chinese e16s07_sex_73b32e13:
 
     # mc "Oh, you were being serious about that?"
-    mc "Oh, you were being serious about that?"
+    mc "哦，你是认真的？"
 
 # game/code/e16/e16s07.rpy:580
 translate chinese e16s07_sex_a2eb5ce8:
 
     # kk "I never joke about breeding, Master."
-    kk "I never joke about breeding, Master."
+    kk "我从不拿繁殖开玩笑，主人。"
 
 # game/code/e16/e16s07.rpy:584
 translate chinese e16s07_sex_9877ad6d:
 
     # kk "So if you're game, I'm game."
-    kk "So if you're game, I'm game."
+    kk "如果你愿意，我也愿意。"
 
 # game/code/e16/e16s07.rpy:585
 translate chinese e16s07_sex_59f67f9b:
 
     # kk "You've let me turn this farm into a wonderful home, and I'd love nothing more than to have a few little heffers growing up here with you."
-    kk "You've let me turn this farm into a wonderful home, and I'd love nothing more than to have a few little heffers growing up here with you."
+    kk "你让我把这个农场变成了一个美好的家。我最希望的就是能有几只小母牛，和你一起陪她们长大。"
 
 # game/code/e16/e16s07.rpy:586
 translate chinese e16s07_sex_224d3b46:
 
     # mc "Well, your wish is my command, Kristin."
-    mc "Well, your wish is my command, Kristin."
+    mc "你的愿望就是我的命令，克里斯汀。"
 
 # game/code/e16/e16s07.rpy:593
 translate chinese e16s07_sex_5f296352:
 
     # kk "Mooow-aaahu... that's right. Turn me into a momma cow, Master-huaaah!"
-    kk "Mooow-aaahu... that's right. Turn me into a momma cow, Master-huaaah!"
+    kk "哞--唔唔唔唔...就是这样。把我变成一头母牛，主人！"
 
 # game/code/e16/e16s07.rpy:603
 translate chinese e16s07_sex_f3e7826b:
 
     # scat "Let me help you, Master."
-    scat "Let me help you, Master."
+    scat "我来帮你，主人。"
 
 # game/code/e16/e16s07.rpy:605
 translate chinese e16s07_sex_38b9571a:
 
     # mct "These girls have no pause button."
-    mct "These girls have no pause button."
+    mct "这些女孩真是没有暂停键的。"
 
 # game/code/e16/e16s07.rpy:612
 translate chinese e16s07_sex_877f8ee6:
 
     # mct "Lord beer me strength."
-    mct "Lord beer me strength."
+    mct "上天赐予我力量。"
 
 # game/code/e16/e16s07.rpy:615
 translate chinese e16s07_sex_f53f1977:
 
     # mct "This is the cost of being king, I guess."
-    mct "This is the cost of being king, I guess."
+    mct "这就是当国王的代价吧。"
 
 # game/code/e16/e16s07.rpy:625
 translate chinese e16s07_sex_92adfd1a:
 
     # scat "I want it too, [mcname]."
-    scat "I want it too, [mcname]."
+    scat "我也要，[mcname]。"
 
 # game/code/e16/e16s07.rpy:627
 translate chinese e16s07_sex_8831e115:
 
     # mc "Of course. I'll give you my cock, even if breaks me."
-    mc "Of course. I'll give you my cock, even if breaks me."
+    mc "当然。我会把我的鸡巴献给你，就算把我弄坏了也没关系。"
 
 # game/code/e16/e16s07.rpy:628
 translate chinese e16s07_sex_bfda4a62:
 
     # mct "Please don't break."
-    mct "Please don't break."
+    mct "请别出事儿啊。"
 
 # game/code/e16/e16s07.rpy:631
 translate chinese e16s07_sex_db8a9f57:
 
     # scat "No. I mean. Not just your cock."
-    scat "No. I mean. Not just your cock."
+    scat "不，我是说，不只是你的鸡巴。"
 
 # game/code/e16/e16s07.rpy:632
 translate chinese e16s07_sex_f75c1cbd:
 
     # scat "I want to feel you, truly connected with me."
-    scat "I want to feel you, truly connected with me."
+    scat "我想感受你，真正与我相连。"
 
 # game/code/e16/e16s07.rpy:635
 translate chinese e16s07_sex_aec2abc0:
 
     # scat "You and Jessie took me in when no one else would."
-    scat "You and Jessie took me in when no one else would."
+    scat "没人愿意收留我的时候，你和杰西接纳了我。"
 
 # game/code/e16/e16s07.rpy:636
 translate chinese e16s07_sex_e9d2f9d8:
 
     # scat "I want to share everything I am with you."
-    scat "I want to share everything I am with you."
+    scat "我想和你分享我的一切。"
 
 # game/code/e16/e16s07.rpy:637
 translate chinese e16s07_sex_bd828620:
 
     # scat "And my biggest secret while watching Jessie and Molly get nice and big was..."
-    scat "And my biggest secret while watching Jessie and Molly get nice and big was..."
+    scat "看着杰西和莫莉变得越来越好，我最大的秘密是..."
 
 # game/code/e16/e16s07.rpy:640
 translate chinese e16s07_sex_dea48f3d:
 
     # scat "Wanting to share a child with you."
-    scat "Wanting to share a child with you."
+    scat "想和你分享一个孩子。"
 
 # game/code/e16/e16s07.rpy:641
 translate chinese e16s07_sex_b26d92a2:
 
     # scat "If you'll have me."
-    scat "If you'll have me."
+    scat "如果你愿意要我的话。"
 
 # game/code/e16/e16s07.rpy:644
 translate chinese e16s07_sex_392a1795:
 
     # mct "Did something get into the water here?"
-    mct "Did something get into the water here?"
+    mct "这里的水里有什么东西吗？"
 
 # game/code/e16/e16s07.rpy:645
 translate chinese e16s07_sex_068a5049:
 
     # mc "Sage, you really want me to knock you up?"
-    mc "Sage, you really want me to knock you up?"
+    mc "赛奇，你真想让我把你肚子搞大？"
 
 # game/code/e16/e16s07.rpy:649
 translate chinese e16s07_sex_bcf0cf29:
 
     # scat "*moaning* Yes. More than anything, [mcname]."
-    scat "*moaning* Yes. More than anything, [mcname]."
+    scat "*呻吟* 是的。这比什么都重要，[mcname]。"
 
 # game/code/e16/e16s07.rpy:651
 translate chinese e16s07_sex_09b4828b:
 
     # mc "Okay. I think I got a little bit more in me."
-    mc "Okay. I think I got a little bit more in me."
+    mc "好吧，我想我还有一点。"
 
 # game/code/e16/e16s07.rpy:654
 translate chinese e16s07_sex_199e8df4:
 
     # jf "We'll help you, [mcname]."
-    jf "We'll help you, [mcname]."
+    jf "我们会帮你的，[mcname]。"
 
 # game/code/e16/e16s07.rpy:656
 translate chinese e16s07_sex_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "是吗？"
 
 # game/code/e16/e16s07.rpy:665
 translate chinese e16s07_sex_39bfef81:
 
     # kk "Here, get some more milk in you so you can make sure our lovely kitty kat gets just as much fun as I did."
-    kk "Here, get some more milk in you so you can make sure our lovely kitty kat gets just as much fun as I did."
+    kk "来，多喝点牛奶，这样你就能确保我们可爱的小猫咪和我一样尽情享受。"
 
 # game/code/e16/e16s07.rpy:669
 translate chinese e16s07_sex_30e34817:
 
     # scat "Yes... *moaning* right there, [mcname]. Making love to make a child feels so much better than regular sex."
-    scat "Yes... *moaning* right there, [mcname]. Making love to make a child feels so much better than regular sex."
+    scat "啊哈...*呻吟* 就是那里，[mcname]。做爱生孩子的感觉比普通性爱要好得多。"
 
 # game/code/e16/e16s07.rpy:670
 translate chinese e16s07_sex_4dd898b3:
 
     # mct "I'd like to agree but I can barely feel my legs anymore."
-    mct "I'd like to agree but I can barely feel my legs anymore."
+    mct "我也想，但我几乎感觉不到我的腿了。"
 
 # game/code/e16/e16s07.rpy:673
 translate chinese e16s07_sex_8894296c:
 
     # scat "All I want to do is please you and make you happy."
-    scat "All I want to do is please you and make you happy."
+    scat "我只想取悦你，让你快乐。"
 
 # game/code/e16/e16s07.rpy:674
 translate chinese e16s07_sex_6dbada7f:
 
     # scat "Meewo-rraaaahh... Even if you don't breed me today, you can always count on me to be your free-use breeding slut."
-    scat "Meewo-rraaaahh... Even if you don't breed me today, you can always count on me to be your free-use breeding slut."
+    scat "喵呜--唔唔唔唔...即使你今天不给我配种，你也可以随时指望我成为你免费使用的配种荡妇。"
 
 # game/code/e16/e16s07.rpy:678
 translate chinese e16s07_sex_a0dcfc71:
 
     # kk "Woww-wee."
-    kk "Woww-wee."
+    kk "哇哦--唔。"
 
 # game/code/e16/e16s07.rpy:684
 translate chinese e16s07_sex_852afcbd:
 
     # mc "We're going to have to plant a lot more crops next season."
-    mc "We're going to have to plant a lot more crops next season."
+    mc "下一季我们要种更多的庄稼。"
 
 # game/code/e16/e16s07.rpy:686
 translate chinese e16s07_sex_ca571a4c:
 
     # jf "We can do it, [mcname]. Don't worry about that."
-    jf "We can do it, [mcname]. Don't worry about that."
+    jf "我们能做到的，[mcname]。别担心。"
 
 # game/code/e16/e16s07.rpy:688
 translate chinese e16s07_sex_f0b67a4f:
 
     # jf "And just focus on enjoying yourself."
-    jf "And just focus on enjoying yourself."
+    jf "你就专心享受吧。"
 
 # game/code/e16/e16s07.rpy:691
 translate chinese e16s07_sex_5e2366e3:
 
     # mc "Haha, that's my secret. I've been having a blast since we first got here."
-    mc "Haha, that's my secret. I've been having a blast since we first got here."
+    mc "哈哈，这就是我的秘诀。自从我们第一次来到这里，我就一直很开心。"
 
 # game/code/e16/e16s07.rpy:694
 translate chinese e16s07_sex_7cb32211:
 
     # mc "Sage..."
-    mc "Sage..."
+    mc "赛奇..."
 
 # game/code/e16/e16s07.rpy:695
 translate chinese e16s07_sex_8c87e98f:
 
     # scat "Yes. Please [mcname]. I can feel it throbbing."
-    scat "Yes. Please [mcname]. I can feel it throbbing."
+    scat "啊哈，求你[mcname]。我能感觉到它在跳动。"
 
 # game/code/e16/e16s07.rpy:702
 translate chinese e16s07_sex_1b5a262c:
 
     # scat "Meooowwauaa-huuaah... Ooouhah... it's so thick and warm inside me..."
-    scat "Meooowwauaa-huuaah... Ooouhah... it's so thick and warm inside me..."
+    scat "喵啊啊啊啊啊啊--哈啊...呜哇哇哇...它在我体内又粗又暖..."
 
 # game/code/e16/e16s07.rpy:709
 translate chinese e16s07_sex_39d519bf:
 
     # mc "Oh my god. There is no way I'm finishing chores today. You four are voracious."
-    mc "Oh my god. There is no way I'm finishing chores today. You four are voracious."
+    mc "哦，我的老天啊。我今天不可能做完家务了。你们四个真贪婪。"
 
 # game/code/e16/e16s07.rpy:711
 translate chinese e16s07_sex_b2ddcfc0:
 
     # jf "But that's exactly how you like us, isn't it, [mcname]."
-    jf "But that's exactly how you like us, isn't it, [mcname]."
+    jf "但你正是因此才喜欢我们的，不是吗，[mcname]。"
 
 # game/code/e16/e16s07.rpy:715
 translate chinese e16s07_sex_4b728b38:
 
     # mc "Jessie. You know I love you, but the strength is leaving my bones."
-    mc "Jessie. You know I love you, but the strength is leaving my bones."
+    mc "杰西。你知道我爱你，但我已经力不从心了。"
 
 # game/code/e16/e16s07.rpy:718
 translate chinese e16s07_sex_7eaa6cb8:
 
     # kk "You're not going to finish without pleasing your main girl, are you, Master?"
-    kk "You're not going to finish without pleasing your main girl, are you, Master?"
+    kk "你不会不取悦你的女主角就完事吧，主人？"
 
 # game/code/e16/e16s07.rpy:719
 translate chinese e16s07_sex_4430c061:
 
     # mct "The thought had crossed my mind."
-    mct "The thought had crossed my mind."
+    mct "我曾有过这样的念头。"
 
 # game/code/e16/e16s07.rpy:722
 translate chinese e16s07_sex_333bec9e:
 
     # mc "Never."
-    mc "Never."
+    mc "从来不会。"
 
 # game/code/e16/e16s07.rpy:724
 translate chinese e16s07_sex_2fe0f8c2:
 
     # mdog "Ruff ruff!"
-    mdog "Ruff ruff!"
+    mdog "汪汪！"
 
 # game/code/e16/e16s07.rpy:726
 translate chinese e16s07_sex_a5d39614:
 
     # jf "Mrrmrm... Good answer, my love."
-    jf "Mrrmrm... Good answer, my love."
+    jf "嗯嗯嗯嗯...回答得好，亲爱的。"
 
 # game/code/e16/e16s07.rpy:737
 translate chinese e16s07_sex_aa2ab5f5:
 
     # mct "Oh my sweet flufffy lord."
-    mct "Oh my sweet flufffy lord."
+    mct "哦，我可爱的毛茸茸的主人。"
 
 # game/code/e16/e16s07.rpy:740
 translate chinese e16s07_sex_b67c0b27:
 
     # mct "Guide me through this, the hour of my greatest need."
-    mct "Guide me through this, the hour of my greatest need."
+    mct "在我最需要的时候指引我。"
 
 # game/code/e16/e16s07.rpy:758
 translate chinese e16s07_sex_a07a987a:
 
     # kk "Mrrrmmm... see, you're getting nice and hard again."
-    kk "Mrrrmmm... see, you're getting nice and hard again."
+    kk "嗯嗯嗯...看，你又变得好硬了。"
 
 # game/code/e16/e16s07.rpy:759
 translate chinese e16s07_sex_f46bb04e:
 
     # mc "I thought I was already hard again?"
-    mc "I thought I was already hard again?"
+    mc "我以为我已经早硬了？"
 
 # game/code/e16/e16s07.rpy:761
 translate chinese e16s07_sex_40544a28:
 
     # jf "Yes. Just not quite hard enough for me."
-    jf "Yes. Just not quite hard enough for me."
+    jf "是的，只是对我来说还不够硬。"
 
 # game/code/e16/e16s07.rpy:766
 translate chinese e16s07_sex_e27585af_1:
 
     # mdog "Ruff!"
-    mdog "Ruff!"
+    mdog "汪！"
 
 # game/code/e16/e16s07.rpy:768
 translate chinese e16s07_sex_ec6e5982:
 
     # mc "Eh tu, Molly?"
-    mc "Eh tu, Molly?"
+    mc "是吗，莫莉？"
 
 # game/code/e16/e16s07.rpy:771
 translate chinese e16s07_sex_aa4bbbe8:
 
     # mdog "Ruff ruff."
-    mdog "Ruff ruff."
+    mdog "汪汪。"
 
 # game/code/e16/e16s07.rpy:773
 translate chinese e16s07_sex_4cb59235:
 
     # mct "It fucking feels amazing, but I'm either going to cum buckets, or my cock is going to burst!"
-    mct "It fucking feels amazing, but I'm either going to cum buckets, or my cock is going to burst!"
+    mct "真他妈爽，但我要不就要射一桶，要不就爆了！"
 
 # game/code/e16/e16s07.rpy:777
 translate chinese e16s07_sex_39e347c4:
 
     # jf "I need you inside me, [mcname]..."
-    jf "I need you inside me, [mcname]..."
+    jf "我需要你进来我的身体，[mcname]..."
 
 # game/code/e16/e16s07.rpy:779
 translate chinese e16s07_sex_8613c1ae:
 
     # mc "Batter up."
-    mc "Batter up."
+    mc "上吧。"
 
 # game/code/e16/e16s07.rpy:787
 translate chinese e16s07_sex_bc1fcdfa:
 
     # jf "Ooouhaaah- Oh fuck."
-    jf "Ooouhaaah- Oh fuck."
+    jf "哦哦噢噢噢，他妈的。"
 
 # game/code/e16/e16s07.rpy:789
 translate chinese e16s07_sex_b57d7645:
 
     # mc "Jessie?"
-    mc "Jessie?"
+    mc "杰西？"
 
 # game/code/e16/e16s07.rpy:791
 translate chinese e16s07_sex_78697a0b:
 
     # jf "I guess... it has been a while."
-    jf "I guess... it has been a while."
+    jf "我想...已经有一段时间了。"
 
 # game/code/e16/e16s07.rpy:794
 translate chinese e16s07_sex_c8cf6f71:
 
     # mc "We can stop."
-    mc "We can stop."
+    mc "我们可以停了。"
 
 # game/code/e16/e16s07.rpy:796
 translate chinese e16s07_sex_2105c900:
 
     # jf "No. I want it so bad. Please [mcname]."
-    jf "No. I want it so bad. Please [mcname]."
+    jf "不，我太想要了。求你了[mcname]。"
 
 # game/code/e16/e16s07.rpy:798
 translate chinese e16s07_sex_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然可以。"
 
 # game/code/e16/e16s07.rpy:806
 translate chinese e16s07_sex_cbcefb58:
 
     # mc "I love you, Jessie."
-    mc "I love you, Jessie."
+    mc "我爱你，杰西。"
 
 # game/code/e16/e16s07.rpy:808
 translate chinese e16s07_sex_ee4101d4:
 
     # jf "I-I love you too, [mcname]."
-    jf "I-I love you too, [mcname]."
+    jf "我也爱你，[mcname]。"
 
 # game/code/e16/e16s07.rpy:811
 translate chinese e16s07_sex_ba643ad9:
 
     # mc "No matter what happens, no matter how big this place gets, you know you'll always be my first duty."
-    mc "No matter what happens, no matter how big this place gets, you know you'll always be my first duty."
+    mc "不管发生什么事，不管这地方有多大，你知道你永远是我的首要职责。"
 
 # game/code/e16/e16s07.rpy:820
 translate chinese e16s07_sex_7924282b:
 
     # jf "I never doubted that. You don't need to worry, [mcname]. I know you'll always do your best."
-    jf "I never doubted that. You don't need to worry, [mcname]. I know you'll always do your best."
+    jf "我从未怀疑过。你不必担心，[mcname]。我知道你会一直尽心尽力。"
 
 # game/code/e16/e16s07.rpy:829
 translate chinese e16s07_sex_a91874f1:
 
     # jf "*neighing* Yes! Oh fuck... fuck-huaaaah!"
-    jf "*neighing* Yes! Oh fuck... fuck-huaaaah!"
+    jf "*肌肉收紧* 啊啊啊！哦，他妈的...操--操操操啊！"
 
 # game/code/e16/e16s07.rpy:840
 translate chinese e16s07_sex_e2ce85ea:
 
     # mc "Alright. Feeding time."
-    mc "Alright. Feeding time."
+    mc "好了。喂食时间到。"
 
 # game/code/e16/e16s07.rpy:866
 translate chinese e16s07_sex_034dd859:
 
     # mc "We should get everyone cleaned up."
-    mc "We should get everyone cleaned up."
+    mc "我们得把大家都收拾干净。"
 
 # game/code/e16/e16s07.rpy:871
 translate chinese e16s07_sex_84ff5a4b:
 
     # mct "Well, since I'm going to be breeding catgirls, cowgirls, ponygirls, and who knows what else, it looks like I've got my work cut out for me."
-    mct "Well, since I'm going to be breeding catgirls, cowgirls, ponygirls, and who knows what else, it looks like I've got my work cut out for me."
+    mct "既然我要养猫女、牛女、小马女，谁知道还有别的什么小动物，看来我有得忙了。"
 
 # game/code/e16/e16s07.rpy:881
 translate chinese e16s07_sex_b7e5b33f:
 
     # mct "Still, with Jessie beside me, I know it's all going to work itself out."
-    mct "Still, with Jessie beside me, I know it's all going to work itself out."
+    mct "不过，有杰西在我身边，我知道一切都会迎刃而解的。"
 
 translate chinese strings:
 
     # game/code/e16/e16s07.rpy:893
     old "You have finished playing Ending #16!"
-    new "You have finished playing Ending #16!"
+    new "你已经玩完了结局 #16！"
 
