@@ -4,49 +4,49 @@
 translate chinese e16s07_60ab8d42:
 
     # jf "Are you sure this is the best idea, [mcname]?"
-    jf "Are you sure this is the best idea, [mcname]?"
+    jf "你确定这是个好主意吗，[mcname]？"
 
 # game/code/e16/e16s07.rpy:79
 translate chinese e16s07_a47235f8:
 
     # mc "We tried playing nice with your cousin. He remains..."
-    mc "We tried playing nice with your cousin. He remains..."
+    mc "我们试过和你表哥好好相处。他仍然..."
 
 # game/code/e16/e16s07.rpy:80
 translate chinese e16s07_e95b86db:
 
     # jf "Adamant."
-    jf "Adamant."
+    jf "很顽固。"
 
 # game/code/e16/e16s07.rpy:83
 translate chinese e16s07_21d0a87b:
 
     # scat "Stubborn?"
-    scat "Stubborn?"
+    scat "固执？"
 
 # game/code/e16/e16s07.rpy:86
 translate chinese e16s07_e27585af:
 
     # mdog "Ruff!"
-    mdog "Ruff!"
+    mdog "汪！"
 
 # game/code/e16/e16s07.rpy:89
 translate chinese e16s07_ed3851f7:
 
     # mc "Molly said it best. He's a giant pain in the ass."
-    mc "Molly said it best. He's a giant pain in the ass."
+    mc "莫莉说得好。他真是屁股里拉琴--扯蛋。"
 
 # game/code/e16/e16s07.rpy:94
 translate chinese e16s07_b25d84ba:
 
     # "Everyone" "*laughs*"
-    "Everyone" "*laughs*"
+    ""每个人" *大笑*"
 
 # game/code/e16/e16s07.rpy:97
 translate chinese e16s07_3b548776:
 
     # kk "Now, I haven't met the man, but is there really no reasoning with this fella?"
-    kk "Now, I haven't met the man, but is there really no reasoning with this fella?"
+    kk "我没见过他。但这家伙真的不讲道理吗？"
 
 # game/code/e16/e16s07.rpy:101
 translate chinese e16s07_c8da996d:
@@ -58,655 +58,655 @@ translate chinese e16s07_c8da996d:
 translate chinese e16s07_a3c01f02:
 
     # jf "[mcname] is right. For several months, we played ball with Ryan, but he just won't budge. He thinks he's entitled to my Aunt's farm even though she gave it to me in her will."
-    jf "[mcname] is right. For several months, we played ball with Ryan, but he just won't budge. He thinks he's entitled to my Aunt's farm even though she gave it to me in her will."
+    jf "[mcname]说得对。几个月来，我们一直在和莱恩周旋，可他就是不让步。他认为他有权继承我姨妈的农场，尽管我姨妈在遗嘱中把它给了我。"
 
 # game/code/e16/e16s07.rpy:105
 translate chinese e16s07_a7e1718b:
 
     # jf "It's time to put this issue to bed."
-    jf "It's time to put this issue to bed."
+    jf "是时候解决这个问题了。"
 
 # game/code/e16/e16s07.rpy:111
 translate chinese e16s07_90210444:
 
     # mc "He should be here soon."
-    mc "He should be here soon."
+    mc "他应该快到了。"
 
 # game/code/e16/e16s07.rpy:120
 translate chinese e16s07_9ecfd643:
 
     # jf "Hello Ryan."
-    jf "Hello Ryan."
+    jf "你好，莱恩。"
 
 # game/code/e16/e16s07.rpy:125
 translate chinese e16s07_ac8564ba:
 
     # ryan "Jessie. I really wish it didn't... come to this."
-    ryan "Jessie. I really wish it didn't... come to this."
+    ryan "杰西。我真希望事情没...发展到这一步。"
 
 # game/code/e16/e16s07.rpy:126
 translate chinese e16s07_61d034ab:
 
     # ryan "And I really wish you hadn't brought more... Freaks to my farm."
-    ryan "And I really wish you hadn't brought more... Freaks to my farm."
+    ryan "我真希望你没带更多...怪胎来我的农场。"
 
 # game/code/e16/e16s07.rpy:129
 translate chinese e16s07_689adbe3:
 
     # kk "You really are a prickly son of a gun aint you?"
-    kk "You really are a prickly son of a gun aint you?"
+    kk "你真是个带刺的混蛋，不是吗？"
 
 # game/code/e16/e16s07.rpy:132
 translate chinese e16s07_b427619c:
 
     # ryan "You... I don't know who the hell you're supposed to be."
-    ryan "You... I don't know who the hell you're supposed to be."
+    ryan "你...我不知道你到底是谁。"
 
 # game/code/e16/e16s07.rpy:133
 translate chinese e16s07_8423c105:
 
     # ryan "But you're standing on my mother's land. It belongs to me."
-    ryan "But you're standing on my mother's land. It belongs to me."
+    ryan "但你站在我母亲的土地上。它属于我。"
 
 # game/code/e16/e16s07.rpy:137
 translate chinese e16s07_b70e2d71:
 
     # ryan "I didn't want things to come to this, but you two have forced my hand."
-    ryan "I didn't want things to come to this, but you two have forced my hand."
+    ryan "我也不想事情变成这样，但你们两个逼我出手了。"
 
 # game/code/e16/e16s07.rpy:138
 translate chinese e16s07_a919ff3d:
 
     # ryan "Mr. Stanley has a new letter for you."
-    ryan "Mr. Stanley has a new letter for you."
+    ryan "斯坦利先生有一封信给你。"
 
 # game/code/e16/e16s07.rpy:141
 translate chinese e16s07_76ca57a6:
 
     # mc "We actually have something to show you first."
-    mc "We actually have something to show you first."
+    mc "我们有东西要先给你看。"
 
 # game/code/e16/e16s07.rpy:144
 translate chinese e16s07_5e2a9873:
 
     # ryan "That's not what is going on here."
-    ryan "That's not what is going on here."
+    ryan "事情不是这样的。"
 
 # game/code/e16/e16s07.rpy:146
 translate chinese e16s07_f78f9ccd:
 
     # "Lawyer" "I trust this material is important to these proceedings, Mr. Young?"
-    "Lawyer" "I trust this material is important to these proceedings, Mr. Young?"
+    "律师" "我相信这份材料对诉讼很重要，杨先生。"
 
 # game/code/e16/e16s07.rpy:149
 translate chinese e16s07_7b813d9e:
 
     # mc "Oh yeah. Definitely."
-    mc "Oh yeah. Definitely."
+    mc "是的。绝对重要。"
 
 # game/code/e16/e16s07.rpy:151
 translate chinese e16s07_78c471aa:
 
     # "Lawyer" "Then my client and I better take a look first."
-    "Lawyer" "Then my client and I better take a look first."
+    "律师" "那我和我的委托人最好先看看。"
 
 # game/code/e16/e16s07.rpy:155
 translate chinese e16s07_e6001c72:
 
     # ryan "Fine. Let's make it quick. It's not going to change anything."
-    ryan "Fine. Let's make it quick. It's not going to change anything."
+    ryan "好。我们速战速决吧。这不会改变任何事情。"
 
 # game/code/e16/e16s07.rpy:162
 translate chinese e16s07_9a3ae629:
 
     # ryan "You better hope this doesn't take long."
-    ryan "You better hope this doesn't take long."
+    ryan "你最好希望这不会花很长时间。"
 
 # game/code/e16/e16s07.rpy:164
 translate chinese e16s07_3a2fc69a:
 
     # mc "It shouldn't."
-    mc "It shouldn't."
+    mc "应该不会。"
 
 # game/code/e16/e16s07.rpy:179
 translate chinese e16s07_84d90209:
 
     # mct "I think that's enough."
-    mct "I think that's enough."
+    mct "我觉得够了。"
 
 # game/code/e16/e16s07.rpy:181
 translate chinese e16s07_754fec68:
 
     # mc "Do we need to see more?"
-    mc "Do we need to see more?"
+    mc "还需要看别的吗？"
 
 # game/code/e16/e16s07.rpy:185
 translate chinese e16s07_a6a66b58:
 
     # "Lawyer" "I think my client and I are... satisfied with what we've viewed already, Mr. Young."
-    "Lawyer" "I think my client and I are... satisfied with what we've viewed already, Mr. Young."
+    "律师" "我想我和我的委托人...对我们已经看过的东西很满意。杨先生。"
 
 # game/code/e16/e16s07.rpy:187
 translate chinese e16s07_76b7e00f:
 
     # mc "I'm happy to hear that."
-    mc "I'm happy to hear that."
+    mc "我很高兴听你这么说。"
 
 # game/code/e16/e16s07.rpy:190
 translate chinese e16s07_8f0c21ca:
 
     # "Lawyer" "Ahem. It is good that you shared this material with us before things went to the next stage."
-    "Lawyer" "Ahem. It is good that you shared this material with us before things went to the next stage."
+    "律师" "咳咳。在事情进入下一阶段之前，您能和我们分享这些材料真是太好了。"
 
 # game/code/e16/e16s07.rpy:191
 translate chinese e16s07_f3c0dbe9:
 
     # "Lawyer" "Very mature of you, considering."
-    "Lawyer" "Very mature of you, considering."
+    "律师" "考虑到这一点，你很成熟。"
 
 # game/code/e16/e16s07.rpy:195
 translate chinese e16s07_292bb2ae:
 
     # ryan "But... What does this mean?"
-    ryan "But... What does this mean?"
+    ryan "但是...这是什么意思？"
 
 # game/code/e16/e16s07.rpy:197
 translate chinese e16s07_54013c45:
 
     # mc "It means you should leave the farm and not come back. At least not without a big-ass apology for your cousin."
-    mc "It means you should leave the farm and not come back. At least not without a big-ass apology for your cousin."
+    mc "意思是你应该离开农场，别再回来了。至少得给你表妹说声大大的对不起。"
 
 # game/code/e16/e16s07.rpy:200
 translate chinese e16s07_7a165a52:
 
     # ryan "That's it?"
-    ryan "That's it?"
+    ryan "就这样？"
 
 # game/code/e16/e16s07.rpy:202
 translate chinese e16s07_1935cc70:
 
     # "Lawyer" "I'll need to send over something so that both parties can sign to verify that the matter is over. Both of them."
-    "Lawyer" "I'll need to send over something so that both parties can sign to verify that the matter is over. Both of them."
+    "律师" "我需要送些东西过来，让双方都能签字确认此事已了结。双方都要签。"
 
 # game/code/e16/e16s07.rpy:205
 translate chinese e16s07_8c323325:
 
     # mc "I'll look it over once you send it."
-    mc "I'll look it over once you send it."
+    mc "你发过来后我再看看。"
 
 # game/code/e16/e16s07.rpy:207
 translate chinese e16s07_6ccca8b8:
 
     # "Lawyer" "Ryan, I think the best thing for you is to agree as well."
-    "Lawyer" "Ryan, I think the best thing for you is to agree as well."
+    "律师" "莱恩，我觉得你最好也同意。"
 
 # game/code/e16/e16s07.rpy:211
 translate chinese e16s07_6cc164d4:
 
     # ryan "You really think-"
-    ryan "You really think-"
+    ryan "你真的认为--"
 
 # game/code/e16/e16s07.rpy:213
 translate chinese e16s07_ebe1ff9d:
 
     # "Lawyer" "I think it will be best if we consider the matter closed."
-    "Lawyer" "I think it will be best if we consider the matter closed."
+    "律师" "我想我们最好把这件事了结了。"
 
 # game/code/e16/e16s07.rpy:220
 translate chinese e16s07_f4906817:
 
     # ryan "Arrragh. I'm never coming back to this horrible place."
-    ryan "Arrragh. I'm never coming back to this horrible place."
+    ryan "啊哎。我再也不回这个可怕的地方了。"
 
 # game/code/e16/e16s07.rpy:222
 translate chinese e16s07_fa6230f7:
 
     # mc "Fine by me."
-    mc "Fine by me."
+    mc "我没意见。"
 
 # game/code/e16/e16s07.rpy:225
 translate chinese e16s07_61d7f2dc:
 
     # "Lawyer" "Well, I hope you and Ms. Freeney have a wonderful day, sir. Goodbye."
-    "Lawyer" "Well, I hope you and Ms. Freeney have a wonderful day, sir. Goodbye."
+    "律师" "先生，希望你和弗里尼小姐今天过得愉快。再见。"
 
 # game/code/e16/e16s07.rpy:227
 translate chinese e16s07_4661a639:
 
     # mc "Mmhmm."
-    mc "Mmhmm."
+    mc "嗯。"
 
 # game/code/e16/e16s07.rpy:245
 translate chinese e16s07_51d0b4af:
 
     # jf "Do you think it's over?"
-    jf "Do you think it's over?"
+    jf "你觉得结束了吗？"
 
 # game/code/e16/e16s07.rpy:247
 translate chinese e16s07_5ef70042:
 
     # mc "I think so."
-    mc "I think so."
+    mc "我想是的。"
 
 # game/code/e16/e16s07.rpy:251
 translate chinese e16s07_cf617bb6:
 
     # mc "One thing is for sure, the video got through to your cousin. And his lawyer."
-    mc "One thing is for sure, the video got through to your cousin. And his lawyer."
+    mc "有一件事是肯定的，那段视频传到了你表哥那里，还有他的律师。"
 
 # game/code/e16/e16s07.rpy:252
 translate chinese e16s07_fc3e6a94:
 
     # mc "We should have won in court anyhow. This way, we just saved a lot of time and money."
-    mc "We should have won in court anyhow. This way, we just saved a lot of time and money."
+    mc "无论如何，我们都应该在法庭上胜诉。这样一来，我们就省了很多时间和金钱。"
 
 # game/code/e16/e16s07.rpy:255
 translate chinese e16s07_9d76d13e:
 
     # jf "What a relief."
-    jf "What a relief."
+    jf "真是如释重负。"
 
 # game/code/e16/e16s07.rpy:257
 translate chinese e16s07_f3e6692f:
 
     # mc "Yeah. And a good thing too."
-    mc "Yeah. And a good thing too."
+    mc "是啊。也是件好事。"
 
 # game/code/e16/e16s07.rpy:261
 translate chinese e16s07_66193dac:
 
     # mc "We're going to need every penny we can get soon enough."
-    mc "We're going to need every penny we can get soon enough."
+    mc "我们很快就会需要每一分钱。"
 
 # game/code/e16/e16s07.rpy:263
 translate chinese e16s07_cb858441:
 
     # jf "Mmhmmm. And we'll need more space too. Just in case we don't stop at three."
-    jf "Mmhmmm. And we'll need more space too. Just in case we don't stop at three."
+    jf "嗯哼。我们还需要更大的空间。以防我们不止三个人。"
 
 # game/code/e16/e16s07.rpy:266
 translate chinese e16s07_3cad8bb9:
 
     # mc "Uh. Are you talking about three kids or three guests?"
-    mc "Uh. Are you talking about three kids or three guests?"
+    mc "呃。你说的是三个孩子还是三个客人？"
 
 # game/code/e16/e16s07.rpy:268
 translate chinese e16s07_2f65bfa2:
 
     # jf "Exactly."
-    jf "Exactly."
+    jf "没错。"
 
 # game/code/e16/e16s07.rpy:271
 translate chinese e16s07_a5173bf7:
 
     # jf "Come on, daddy. I think we need to celebrate."
-    jf "Come on, daddy. I think we need to celebrate."
+    jf "来吧，爸爸。我想我们需要庆祝一下。"
 
 # game/code/e16/e16s07.rpy:273
 translate chinese e16s07_e27585af_1:
 
     # mdog "Ruff!"
-    mdog "Ruff!"
+    mdog "汪！"
 
 # game/code/e16/e16s07.rpy:276
 translate chinese e16s07_89f30758:
 
     # mc "In fact, I think I have a little something special I want to try."
-    mc "In fact, I think I have a little something special I want to try."
+    mc "事实上，我有个特别的东西想试试。"
 
 # game/code/e16/e16s07.rpy:279
 translate chinese e16s07_42ac14a3:
 
     # mct "I am the king of the animal-girl kingdom."
-    mct "I am the king of the animal-girl kingdom."
+    mct "我是动物女孩王国的国王。"
 
 # game/code/e16/e16s07.rpy:296
 translate chinese e16s07_sex_c1e7f1f0:
 
     # mct "It's good to be the king."
-    mct "It's good to be the king."
+    mct "当国王真好。"
 
 # game/code/e16/e16s07.rpy:300
 translate chinese e16s07_sex_2aab065a:
 
     # mc "Hey Molly. Who's a good girl? Who's a good girl?"
-    mc "Hey Molly. Who's a good girl? Who's a good girl?"
+    mc "嘿，莫莉。谁是好女孩？谁是乖女孩？"
 
 # game/code/e16/e16s07.rpy:302
 translate chinese e16s07_sex_8b52b275:
 
     # mdog "Ruff."
-    mdog "Ruff."
+    mdog "汪。"
 
 # game/code/e16/e16s07.rpy:309
 translate chinese e16s07_sex_1f5b224d:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "哈哈哈。"
 
 # game/code/e16/e16s07.rpy:310
 translate chinese e16s07_sex_fa74765e:
 
     # mct "Molly is such a trooper. We never gave her chores, but somehow she always finds time to sneak off from being a dog and help out."
-    mct "Molly is such a trooper. We never gave her chores, but somehow she always finds time to sneak off from being a dog and help out."
+    mct "莫莉真是个好孩子。我们从没给她安排过家务活，但不知怎么的，她总能抽出时间从狗的身份中溜出来帮忙。"
 
 # game/code/e16/e16s07.rpy:314
 translate chinese e16s07_sex_429eedb3:
 
     # mc "You sure it's okay to have a little fun?"
-    mc "You sure it's okay to have a little fun?"
+    mc "你确定咱们现在可以找乐子吗？"
 
 # game/code/e16/e16s07.rpy:316
 translate chinese e16s07_sex_e27585af:
 
     # mdog "Ruff!"
-    mdog "Ruff!"
+    mdog "汪！"
 
 # game/code/e16/e16s07.rpy:326
 translate chinese e16s07_sex_d2aebbe8:
 
     # mdog "Aroooh?"
-    mdog "Aroooh?"
+    mdog "啊？"
 
 # game/code/e16/e16s07.rpy:329
 translate chinese e16s07_sex_34dca8f3:
 
     # mc "Oh yeah, a lot tighter than earlier. Just let me know if it's too much for you."
-    mc "Oh yeah, a lot tighter than earlier. Just let me know if it's too much for you."
+    mc "哦耶，比刚才紧多了。如果你觉得受不了，就告诉我一声。"
 
 # game/code/e16/e16s07.rpy:340
 translate chinese e16s07_sex_777cd349:
 
     # mct "My word, she's already squeezing me so good!"
-    mct "My word, she's already squeezing me so good!"
+    mct "我的天，她已经把我挤得好舒服了！"
 
 # game/code/e16/e16s07.rpy:341
 translate chinese e16s07_sex_38a730a6:
 
     # mc "You're my perfect, slutty, dog girl."
-    mc "You're my perfect, slutty, dog girl."
+    mc "你是我最完美、最放荡的狗狗女孩。"
 
 # game/code/e16/e16s07.rpy:345
 translate chinese e16s07_sex_4b23eaa4:
 
     # mdog "Awoorr-huaah."
-    mdog "Awoorr-huaah."
+    mdog "嗷--嗷--嗷。"
 
 # game/code/e16/e16s07.rpy:348
 translate chinese e16s07_sex_c7c25e82:
 
     # mdog "Rufff huff-awwaouhaah."
-    mdog "Rufff huff-awwaouhaah."
+    mdog "呜呜--哇哇哇哇。"
 
 # game/code/e16/e16s07.rpy:349
 translate chinese e16s07_sex_3ee30579:
 
     # mdog "Awoowhuaah-huaah."
-    mdog "Awoowhuaah-huaah."
+    mdog "嗷嗷嗷--哇哇。"
 
 # game/code/e16/e16s07.rpy:352
 translate chinese e16s07_sex_8d93e930:
 
     # mc "You get so wet when I go in deep."
-    mc "You get so wet when I go in deep."
+    mc "当我越插越深，你就越来越湿。"
 
 # game/code/e16/e16s07.rpy:355
 translate chinese e16s07_sex_3ed8e483:
 
     # mdog "Ruff! Ruff-awwwu... awooouh-hoaauah."
-    mdog "Ruff! Ruff-awwwu... awooouh-hoaauah."
+    mdog "汪！汪汪--噢噢噢...啊呜呜唔--吼啊啊。"
 
 # game/code/e16/e16s07.rpy:362
 translate chinese e16s07_sex_f0eb80aa:
 
     # mdog "Awwhoua-oouh...ouhaah..."
-    mdog "Awwhoua-oouh...ouhaah..."
+    mdog "啊呜呜唔--吼啊啊--哈啊..."
 
 # game/code/e16/e16s07.rpy:366
 translate chinese e16s07_sex_7faf6481:
 
     # mc "Molly?"
-    mc "Molly?"
+    mc "莫莉？"
 
 # game/code/e16/e16s07.rpy:372
 translate chinese e16s07_sex_d398c9c0:
 
     # mc "Someone just had a good orgasm didn't she?"
-    mc "Someone just had a good orgasm didn't she?"
+    mc "某人刚刚高潮很爽，是吧？"
 
 # game/code/e16/e16s07.rpy:374
 translate chinese e16s07_sex_8b52b275_1:
 
     # mdog "Ruff."
-    mdog "Ruff."
+    mdog "呜。"
 
 # game/code/e16/e16s07.rpy:383
 translate chinese e16s07_sex_2ada6e81:
 
     # mdog "Ruff-rufff."
-    mdog "Ruff-rufff."
+    mdog "呜--汪汪。"
 
 # game/code/e16/e16s07.rpy:393
 translate chinese e16s07_sex_7236a2ed:
 
     # mc "You're the best, Molly."
-    mc "You're the best, Molly."
+    mc "你最棒了，莫莉。"
 
 # game/code/e16/e16s07.rpy:394
 translate chinese e16s07_sex_b88adf5f:
 
     # mdog "Woof woof!"
-    mdog "Woof woof!"
+    mdog "汪汪！"
 
 # game/code/e16/e16s07.rpy:399
 translate chinese e16s07_sex_97657472:
 
     # mc "Fuck. You're getting me all fired up."
-    mc "Fuck. You're getting me all fired up."
+    mc "妈的。你让我欲火焚身啊。"
 
 # game/code/e16/e16s07.rpy:400
 translate chinese e16s07_sex_0f1db4c7:
 
     # mdog "Awoo-woowhuaafff!"
-    mdog "Awoo-woowhuaafff!"
+    mdog "汪--唔唔唔汪啊！"
 
 # game/code/e16/e16s07.rpy:403
 translate chinese e16s07_sex_295f3096:
 
     # mc "That's it. Good girl. Don't stop pushing back."
-    mc "That's it. Good girl. Don't stop pushing back."
+    mc "就是这样。好姑娘。不要停止反击。"
 
 # game/code/e16/e16s07.rpy:404
 translate chinese e16s07_sex_5e13fed5:
 
     # mdog "Aooofffuaah!"
-    mdog "Aooofffuaah!"
+    mdog "啊呜哇！"
 
 # game/code/e16/e16s07.rpy:409
 translate chinese e16s07_sex_a6688ad5:
 
     # mc "Oh fuck. Yes... That's it."
-    mc "Oh fuck. Yes... That's it."
+    mc "我操。就是这样。就是这样。"
 
 # game/code/e16/e16s07.rpy:412
 translate chinese e16s07_sex_40db4c3d:
 
     # mdog "Ruff... awoof-fuaah... Oh fuckhuaa-khuaaaah!"
-    mdog "Ruff... awoof-fuaah... Oh fuckhuaa-khuaaaah!"
+    mdog "汪...啊呜啊呜-啊啊啊...哦，操操操操啊啊啊！"
 
 # game/code/e16/e16s07.rpy:424
 translate chinese e16s07_sex_476196f6:
 
     # mdog "Awoooufff-uaa-fhurahh..."
-    mdog "Awoooufff-uaa-fhurahh..."
+    mdog "啊呜啊呜-啊啊啊-操操操..."
 
 # game/code/e16/e16s07.rpy:428
 translate chinese e16s07_sex_bc813a02:
 
     # mc "Good girl. You rest now, then come to join us at the end."
-    mc "Good girl. You rest now, then come to join us at the end."
+    mc "好孩子。你现在休息一下，然后到最后来加入我们。"
 
 # game/code/e16/e16s07.rpy:432
 translate chinese e16s07_sex_9cb21517:
 
     # mdog "*lazily* Ruff..."
-    mdog "*lazily* Ruff..."
+    mdog "*懒懒地* 呜..."
 
 # game/code/e16/e16s07.rpy:440
 translate chinese e16s07_sex_37e00561:
 
     # jf "*neighs*"
-    jf "*neighs*"
+    jf "*马嘶声*"
 
 # game/code/e16/e16s07.rpy:442
 translate chinese e16s07_sex_6a12e603:
 
     # mc "Such a fine day to own a zebra and a cow girl."
-    mc "Such a fine day to own a zebra and a cow girl."
+    mc "真是一个拥有斑马和小母牛的好天气。"
 
 # game/code/e16/e16s07.rpy:445
 translate chinese e16s07_sex_a1e935ba:
 
     # kk "Mooowaaah... Is it time for another milking, Master?"
-    kk "Mooowaaah... Is it time for another milking, Master?"
+    kk "哞哞...又到挤奶时间了吗，主人？"
 
 # game/code/e16/e16s07.rpy:449
 translate chinese e16s07_sex_0967b47e:
 
     # mc "You read my mind."
-    mc "You read my mind."
+    mc "你看透了我的心思。"
 
 # game/code/e16/e16s07.rpy:455
 translate chinese e16s07_sex_3b0a864f:
 
     # kk "Nothing like milk right from the source."
-    kk "Nothing like milk right from the source."
+    kk "没有什么能比得上牛奶的原汁原味了。"
 
 # game/code/e16/e16s07.rpy:456
 translate chinese e16s07_sex_0e8b0ae2:
 
     # kk "You make this old heffer feel so good, coming back to her udders."
-    kk "You make this old heffer feel so good, coming back to her udders."
+    kk "又回来这对大奶子上，你让这老家伙感觉好舒服啊。"
 
 # game/code/e16/e16s07.rpy:461
 translate chinese e16s07_sex_f0595e36:
 
     # kk "You've got so many pairs of milky tits these days, hehe."
-    kk "You've got so many pairs of milky tits these days, hehe."
+    kk "你现在有这么多对奶子，嘿嘿。"
 
 # game/code/e16/e16s07.rpy:463
 translate chinese e16s07_sex_56195c12:
 
     # mc "I'll always have time for you, Kristin."
-    mc "I'll always have time for you, Kristin."
+    mc "我永远都有时间陪你，克里斯汀。"
 
 # game/code/e16/e16s07.rpy:466
 translate chinese e16s07_sex_476be907:
 
     # kk "Well, since you put it like that, what if I wanted to enjoy some of that milk of yours somewhere special?"
-    kk "Well, since you put it like that, what if I wanted to enjoy some of that milk of yours somewhere special?"
+    kk "好吧，既然你这么说了，如果我想在某个特别的地方享受一下你的汁水呢？"
 
 # game/code/e16/e16s07.rpy:468
 translate chinese e16s07_sex_c134f5ef:
 
     # mc "What are you thinking?"
-    mc "What are you thinking?"
+    mc "你在想什么？"
 
 # game/code/e16/e16s07.rpy:471
 translate chinese e16s07_sex_41395357:
 
     # kk "I hope you don't get sorted if I ask you to breed me, Master."
-    kk "I hope you don't get sorted if I ask you to breed me, Master."
+    kk "主人，如果我让你给我配种，希望你不要乱来。"
 
 # game/code/e16/e16s07.rpy:473
 translate chinese e16s07_sex_4f43e9fe:
 
     # mc "Oh yeah?"
-    mc "Oh yeah?"
+    mc "是吗？"
 
 # game/code/e16/e16s07.rpy:476
 translate chinese e16s07_sex_0c972b2f:
 
     # kk "Yes siree. I want you to shoot that warm milk straight into your big tittied cowgirl."
-    kk "Yes siree. I want you to shoot that warm milk straight into your big tittied cowgirl."
+    kk "是的，陛下。我要你把温热的汁水，直接射进你的大奶子小母牛身体里。"
 
 # game/code/e16/e16s07.rpy:478
 translate chinese e16s07_sex_9d15d398:
 
     # mc "Can do!"
-    mc "Can do!"
+    mc "没问题！"
 
 # game/code/e16/e16s07.rpy:485
 translate chinese e16s07_sex_0188e4b3:
 
     # kk "Ooouhaah. You know just how to treat a girl, don't ya?"
-    kk "Ooouhaah. You know just how to treat a girl, don't ya?"
+    kk "哦哈哈哈。你真是很清楚怎么对待女孩，对吧？"
 
 # game/code/e16/e16s07.rpy:487
 translate chinese e16s07_sex_2f068911:
 
     # mc "I do."
-    mc "I do."
+    mc "可不是。"
 
 # game/code/e16/e16s07.rpy:490
 translate chinese e16s07_sex_a7c758ca:
 
     # kk "Well, don't forget that this heffer has some tough hide. You can go as rough as you like with her."
-    kk "Well, don't forget that this heffer has some tough hide. You can go as rough as you like with her."
+    kk "好了，别忘了我这头母牛皮糙肉厚的。你想怎么对她就怎么对她。"
 
 # game/code/e16/e16s07.rpy:492
 translate chinese e16s07_sex_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的吗？"
 
 # game/code/e16/e16s07.rpy:495
 translate chinese e16s07_sex_faeb00b8:
 
     # kk "Oh yeah. A little rough stuff always makes for stronger calves, heheh."
-    kk "Oh yeah. A little rough stuff always makes for stronger calves, heheh."
+    kk "啊哈。粗暴一点总能让小腿更结实，嘿嘿。"
 
 # game/code/e16/e16s07.rpy:501
 translate chinese e16s07_sex_9f346437:
 
     # kk "Mooouwaah... that's the good stuff-huaaah!"
-    kk "Mooouwaah... that's the good stuff-huaaah!"
+    kk "哞哇...这才是好东西--哇哇哇哇！"
 
 # game/code/e16/e16s07.rpy:504
 translate chinese e16s07_sex_bd31872e:
 
     # jf "Oh wow."
-    jf "Oh wow."
+    jf "哦哇。"
 
 # game/code/e16/e16s07.rpy:506
 translate chinese e16s07_sex_f4b528f5:
 
     # scat "*meows quietly*"
-    scat "*meows quietly*"
+    scat "*小声喵喵叫*"
 
 # game/code/e16/e16s07.rpy:520
 translate chinese e16s07_sex_05e6eba7:
 
     # kk "That's it, girls. There is plenty enough for both. Oouhaah.."
-    kk "That's it, girls. There is plenty enough for both. Oouhaah.."
+    kk "就是这样，姑娘们。两个人都绰绰有余了。哦哈哈哈..."
 
 # game/code/e16/e16s07.rpy:522
 translate chinese e16s07_sex_53a4e18d:
 
     # mc "How do you like that, Kristin?"
-    mc "How do you like that, Kristin?"
+    mc "你觉得怎么样，克里斯汀？"
 
 # game/code/e16/e16s07.rpy:525
 translate chinese e16s07_sex_5eb3673b:
 
     # kk "Mooowah. It feels great, [mcname]!"
-    kk "Mooowah. It feels great, [mcname]!"
+    kk "哞哇。感觉棒极了，[mcname]！"
 
 # game/code/e16/e16s07.rpy:529
 translate chinese e16s07_sex_14c87ee0:
 
     # kk "Ohuaah... Moouahaah... You girls sure get thirsty."
-    kk "Ohuaah... Moouahaah... You girls sure get thirsty."
+    kk "哦啊啊啊...哞哇啊啊...你们这些女孩子真是太渴了。"
 
 # game/code/e16/e16s07.rpy:530
 translate chinese e16s07_sex_d4ad2876:
