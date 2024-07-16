@@ -370,11 +370,11 @@ translate chinese strings:
 translate chinese e13s02_e5e5853b:
 
     # "Customer" "Aww, but..."
-    "Customer" "Aww, but..."
+    "顾客" "啊，但是..."
 
 # game/code/e13/e13s02.rpy:200
 translate chinese replay_e13s02_e2a7aa61:
 
     # nk "Actually... You know what? Sit down."
-    nk "Actually... You know what? Sit down."
+    nk "其实...这样吧？你坐下。"
 
