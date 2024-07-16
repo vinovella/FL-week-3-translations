@@ -240,13 +240,13 @@ translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:79
     old "Ending 05: Lyssa & Oliver"
-    new "Ending 05: Lyssa & Oliver"
+    new "结局 05: 丽莎和奥利弗"
 
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Jessie & Kanya"
-    new "Ending 16: Jessie & Kanya"
+    new "结局 16：杰西和康雅"
 
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Farm Animals"
-    new "Ending 16: Farm Animals"
+    new "结局 16：农场动物"
 
