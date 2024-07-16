@@ -230,11 +230,11 @@ translate chinese strings:
 translate chinese replay_e13s04_4ae8355d:
 
     # nk "God... That was amazing..."
-    nk "God... That was amazing..."
+    nk "天啊...感觉也太美了..."
 
 # game/code/e13/e13s04.rpy:214
 translate chinese replay_e13s04_c133408e:
 
     # nk "*Loud moans* Yes, fuck... Yes! I love you, [mcname]."
-    nk "*Loud moans* Yes, fuck... Yes! I love you, [mcname]."
+    nk "*大声呻吟* 啊啊啊，操...天啊！我爱你，[mcname]。"
 
