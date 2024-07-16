@@ -1360,25 +1360,25 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "You take Oliver's anal virginity."
-    new "You take Oliver's anal virginity."
+    new "你夺走奥利弗的肛门第一次。"
 
     # game/code/hints.rpy:5
     old "Lyssa takes Oliver's anal virginity."
-    new "Lyssa takes Oliver's anal virginity."
+    new "丽莎夺走奥利弗的肛门第一次。"
 
     # game/code/hints.rpy:5
     old "Oliver will felch out his own cum."
-    new "Oliver will felch out his own cum."
+    new "奥利弗会自己把精液弄出来。"
 
     # game/code/hints.rpy:5
     old "Oliver will lick up his own cum."
-    new "Oliver will lick up his own cum."
+    new "奥利弗会把自己的精液舔干净。"
 
     # game/code/hints.rpy:5
     old "You eat the cum off Oliver's face."
-    new "You eat the cum off Oliver's face."
+    new "你吃掉奥利弗脸上的精液。"
 
     # game/code/hints.rpy:5
     old "You don't eat the cum off Oliver's face."
-    new "You don't eat the cum off Oliver's face."
+    new "你不会吃掉奥利弗脸上的精液。"
 
