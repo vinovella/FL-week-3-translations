@@ -316,12 +316,12 @@ translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:1304
     old "Sync your saves using Ren'Py Sync server"
-    new "Sync your saves using Ren'Py Sync server"
+    new "使用'Ren'Py同步服务器'同步保存"
 
     # game/code/screens/screens_fl.rpy:1306
     old "Upload Saves"
-    new "Upload Saves"
+    new "上传存档"
 
     # game/code/screens/screens_fl.rpy:1307
     old "Download Saves"
-    new "Download Saves"
+    new "下载存档"
