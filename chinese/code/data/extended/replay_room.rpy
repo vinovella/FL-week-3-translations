@@ -400,25 +400,25 @@ translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:103
     old "Ending 05: Oliver"
-    new "Ending 05: Oliver"
+    new "结局 05：奥利弗"
 
     # game/code/data/extended/replay_room.rpy:103
     old "Ending 05: Lyssa"
-    new "Ending 05: Lyssa"
+    new "结局 05：丽莎"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie and Molly"
-    new "Ending 16: Jessie and Molly"
+    new "结局 16：杰西和莫莉"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie and Kanya"
-    new "Ending 16: Jessie and Kanya"
+    new "结局 16：杰西和康雅"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Sage and Kristen"
-    new "Ending 16: Sage and Kristen"
+    new "结局 16：杰西和克里斯汀"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie, Molly, Sage & Kristen"
-    new "Ending 16: Jessie, Molly, Sage & Kristen"
+    new "结局 16：杰西、莫莉、赛奇和克里斯汀"
 
