@@ -364,3 +364,17 @@ translate italian strings:
     old "Fuck Her Anally"
     new "Scoparla Analmente"
 
+# TODO: Translation updated at 2024-07-27 20:52
+
+# game/code/e13/e13s02.rpy:86
+translate italian e13s02_e5e5853b:
+
+    # "Customer" "Aww, but..."
+    "Customer" "Aww, but..."
+
+# game/code/e13/e13s02.rpy:200
+translate italian replay_e13s02_e2a7aa61:
+
+    # nk "Actually... You know what? Sit down."
+    nk "Actually... You know what? Sit down."
+

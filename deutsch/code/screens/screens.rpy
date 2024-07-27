@@ -350,3 +350,15 @@ translate deutsch strings:
     old "Menu"
     new "Menü"
 
+# TODO: Translation updated at 2024-07-27 20:51
+
+translate deutsch strings:
+
+    # game/code/screens/screens.rpy:886
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+    # game/code/screens/screens.rpy:1056
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"
+

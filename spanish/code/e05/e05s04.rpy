@@ -1390,3 +1390,23 @@ translate spanish strings:
     old "Tell him he has something on his chin"
     new "Dile que tiene algo en la barbilla."
 
+# TODO: Translation updated at 2024-07-27 20:56
+
+# game/code/e05/e05s04.rpy:205
+translate spanish e05s04_659af4e7:
+
+    # mh "Do you want to look at the precedent set forth by {i}Tienda vs the State of Texas{/i}?"
+    mh "Do you want to look at the precedent set forth by {i}Tienda vs the State of Texas{/i}?"
+
+# game/code/e05/e05s04.rpy:589
+translate spanish e05s04_sex_12da81af:
+
+    # op "Just like you, Lyssa. I could never forget about [mcname]."
+    op "Just like you, Lyssa. I could never forget about [mcname]."
+
+# game/code/e05/e05s04.rpy:765
+translate spanish e05s04_sex_eb6a1ba4:
+
+    # mh "Mmmm. You made a mess, Oliver."
+    mh "Mmmm. You made a mess, Oliver."
+

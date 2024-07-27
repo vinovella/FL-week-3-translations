@@ -1882,3 +1882,29 @@ translate spanish strings:
     old "Encourage Lyssa to take Oliver's virginity"
     new "Anima a Lyssa a quitarle la virginidad a Oliver."
 
+# TODO: Translation updated at 2024-07-27 20:56
+
+# game/code/e05/e05s01.rpy:434
+translate spanish e05s01_7627ed9d:
+
+    # mc "How you pulled my cock out of your mouth, and covered youserlf in my warm, sticky cum. How {i}hot{/i} you looked, glazed in the reward from an incredible blowjob."
+    mc "How you pulled my cock out of your mouth, and covered youserlf in my warm, sticky cum. How {i}hot{/i} you looked, glazed in the reward from an incredible blowjob."
+
+# game/code/e05/e05s01.rpy:858
+translate spanish e05s01_mc_op_sex_7f5f2790:
+
+    # mc "And Lyssa, the way you're sucking my diccccck - Jeeeeyazzzusssss!"
+    mc "And Lyssa, the way you're sucking my diccccck - Jeeeeyazzzusssss!"
+
+# game/code/e05/e05s01.rpy:864
+translate spanish e05s01_mc_op_sex_57d97c4a:
+
+    # op "Your ass is - {i}you{/i} are amazing, [mcname]!"
+    op "Your ass is - {i}you{/i} are amazing, [mcname]!"
+
+# game/code/e05/e05s01.rpy:1191
+translate spanish e05s01_sex_end_4592f61e:
+
+    # mc "Good, now if you'll excuse me, I was told I have something on my face I should wash off."
+    mc "Good, now if you'll excuse me, I was told I have something on my face I should wash off."
+

@@ -1326,3 +1326,23 @@ translate spanish e05s06_sex_b85a48e2:
     # mh "Mmmkay..."
     mh "Mmm está bien..."
 
+# TODO: Translation updated at 2024-07-27 20:56
+
+# game/code/e05/e05s06.rpy:190
+translate spanish e05s06_57afd79d:
+
+    # mh "But, we should maybe hold off on the wedding bells talk. We don't need to give him any more reason to be nervous. Especially today."
+    mh "But, we should maybe hold off on the wedding bells talk. We don't need to give him any more reason to be nervous. Especially today."
+
+# game/code/e05/e05s06.rpy:390
+translate spanish e05s06_court_room_db2af079:
+
+    # op "We can also establish that this video was at least captured before posting, which would align with my client's, and the plaintiff's, timelines."
+    op "We can also establish that this video was at least captured before posting, which would align with my client's, and the plaintiff's, timelines."
+
+# game/code/e05/e05s06.rpy:732
+translate spanish e05s06_sex_d59042cb:
+
+    # mh "Deeper, [mcname], deeper! I want to {i}feel{/i} you tearing apart my ass!"
+    mh "Deeper, [mcname], deeper! I want to {i}feel{/i} you tearing apart my ass!"
+

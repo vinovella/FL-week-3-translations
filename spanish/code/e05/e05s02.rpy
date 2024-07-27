@@ -1924,3 +1924,23 @@ translate spanish strings:
     old "Let Oliver make his own decision"
     new "Deja que Oliver tome su propia decisión"
 
+# TODO: Translation updated at 2024-07-27 20:56
+
+# game/code/e05/e05s02.rpy:109
+translate spanish e05s02_a9f4d0a3:
+
+    # op "Taisia Lindquist. She was arrested last night on a charge of drunken disorderly and aggravated assault."
+    op "Taisia Lindquist. She was arrested last night on a charge of drunken disorderly and aggravated assault."
+
+# game/code/e05/e05s02.rpy:870
+translate spanish e05s02_mh_takes_opanalvirginity_4d333980:
+
+    # mh "Good, because I feel the same! Your ass is unbelievably tight!"
+    mh "Good, because I feel the same! Your ass is unbelievably tight!"
+
+# game/code/e05/e05s02.rpy:880
+translate spanish e05s02_mh_takes_opanalvirginity_78343072:
+
+    # mh "But I think - mmmmmmpph - Between my dick buried in his tight ass, and your wonderful cock in my ass, that I'm the - fuuuuh - real winner!"
+    mh "But I think - mmmmmmpph - Between my dick buried in his tight ass, and your wonderful cock in my ass, that I'm the - fuuuuh - real winner!"
+

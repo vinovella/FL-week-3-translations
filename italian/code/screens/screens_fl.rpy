@@ -241,3 +241,19 @@ translate italian strings:
     # game/code/screens/screens_fl.rpy:180
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
     new "Se decidi di continuare, potresti non essere in grado di caricare i salvataggi della seconda settimana. Non riceverai più alcuna notifica. Sei sicuro?"
+# TODO: Translation updated at 2024-07-27 20:52
+
+translate italian strings:
+
+    # game/code/screens/screens_fl.rpy:1307
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+    # game/code/screens/screens_fl.rpy:1309
+    old "Upload Saves"
+    new "Upload Saves"
+
+    # game/code/screens/screens_fl.rpy:1310
+    old "Download Saves"
+    new "Download Saves"
+

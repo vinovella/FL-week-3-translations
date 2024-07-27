@@ -377,3 +377,15 @@ translate malay strings:
     # game/code/screens/screens.rpy:1036
     old "Connect Your Toy"
     new "Sambungkan Mainan Anda"
+# TODO: Translation updated at 2024-07-27 20:54
+
+translate malay strings:
+
+    # game/code/screens/screens.rpy:886
+    old "Ren'Py Save Sync"
+    new "Ren'Py Save Sync"
+
+    # game/code/screens/screens.rpy:1056
+    old "Dialogue Box Opacity"
+    new "Dialogue Box Opacity"
+

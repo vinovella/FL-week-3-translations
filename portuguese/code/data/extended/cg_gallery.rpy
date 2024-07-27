@@ -189,3 +189,11 @@ translate portuguese strings:
     old "Ending 16: Farm Animals"
     new ""
 
+# TODO: Translation updated at 2024-07-27 20:57
+
+translate portuguese strings:
+
+    # game/code/data/extended/cg_gallery.rpy:122
+    old "Ending 16: Jessie & Kanya"
+    new ""
+

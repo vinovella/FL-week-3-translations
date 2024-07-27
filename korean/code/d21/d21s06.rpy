@@ -1932,18 +1932,6 @@ translate korean d21s06_no_fl_6ec24262:
     # sy "Alright."
     sy "알겠어."
 
-# game/code/d21/d21s06.rpy:854
-translate korean d21s06_no_fl_0772c775:
-
-    # arj "[mcname]. Do you want to come with me?"
-    arj "[mcname]. 나랑 같이 갈래?"
-
-# game/code/d21/d21s06.rpy:856
-translate korean d21s06_no_fl_72d3767e:
-
-    # mc "Oh, I was hoping to talk to Stacy a little bit. Do you want me to walk you there?"
-    mc "아, 스테이시랑 좀 더 이야기하려고 했는데. 바래다줄까?"
-
 # game/code/d21/d21s06.rpy:857
 translate korean d21s06_no_fl_db3325ec:
 
@@ -2130,42 +2118,6 @@ translate korean d21s06_waterfall_4e10ecd5:
     # arj "Well, if it's really quick."
     arj "글쎄, 빠르게 말할 수 있는 거면 해 봐."
 
-# game/code/d21/d21s06.rpy:950
-translate korean d21s06_waterfall_fabbae7d:
-
-    # sy "So what did you want to talk about?"
-    sy "그래서 무슨 얘길 하려고?"
-
-# game/code/d21/d21s06.rpy:953
-translate korean d21s06_waterfall_3c70276f:
-
-    # mc "Since we were on the topic of starting a new business, I kinda had a proposal."
-    mc "새로운 사업 이야길 하고 있었잖아, 그래서 나도 제안이 하나 있어."
-
-# game/code/d21/d21s06.rpy:957
-translate korean d21s06_waterfall_a0ae5ef0:
-
-    # arj "I told you, I'm not interested in Fetish Locator!"
-    arj "말했잖아, 난 페티시 로케이터에 관심 없다니까!"
-
-# game/code/d21/d21s06.rpy:959
-translate korean d21s06_waterfall_301468b6:
-
-    # mc "It's not that, I swear."
-    mc "다른 건이야, 진짜로."
-
-# game/code/d21/d21s06.rpy:962
-translate korean d21s06_waterfall_6c8a3e95:
-
-    # sy "And this business, what is it? Is it going to be here?"
-    sy "그래서 그 사업이 정확히 뭔데? 여기서 하는 거야?"
-
-# game/code/d21/d21s06.rpy:965
-translate korean d21s06_waterfall_ea280ad5:
-
-    # mc "Not exactly. It's going to be in a completely different direction. East instead of west."
-    mc "실은 그런 건 아니고. 방향은 완전히 달라. 서쪽 대신 동쪽이라고 할까."
-
 # game/code/d21/d21s06.rpy:969
 translate korean d21s06_waterfall_7ef67f79:
 
@@ -2238,12 +2190,6 @@ translate korean d21s06_waterfall_6612d04c:
     # mes "You might have noticed that [mcname] and I are into that type of stuff."
     mes "[mcname] 하고 내가 그런 종류의 일에 관심이 있는 건 눈치챘을 거야."
 
-# game/code/d21/d21s06.rpy:1013
-translate korean d21s06_waterfall_eeb65300:
-
-    # sy "Yeah, the main event on your party was a big hint."
-    sy "응, 너네 집에서 파티했을 때 본 행사에서 보니까 바로 알겠던데."
-
 # game/code/d21/d21s06.rpy:1016
 translate korean d21s06_waterfall_7d45ad20:
 
@@ -2256,47 +2202,11 @@ translate korean d21s06_waterfall_ffe2788e:
     # mes "We were thinking about forming a wellness spa."
     mes "그래서 휴양 온천 호텔을 만들 생각을 했었지."
 
-# game/code/d21/d21s06.rpy:1022
-translate korean d21s06_waterfall_a1e01b67:
-
-    # mes "You like squirting, right?"
-    mes "너도 뿜는 건 좋아하지?"
-
-# game/code/d21/d21s06.rpy:1024
-translate korean d21s06_waterfall_17c9a9d8:
-
-    # sy "Not as much as you, but yeah."
-    sy "너만큼은 아니겠지만, 그렇긴 해."
-
 # game/code/d21/d21s06.rpy:1026
 translate korean d21s06_waterfall_b11d2580:
 
     # mes "Before we go deeper, I want your opinion. Is this something that you really want to do, or not?"
     mes "본격적으로 이야기하기 전에, 너희 생각을 듣고 싶어. 정말 하고 싶은 거야, 아니야?"
-
-# game/code/d21/d21s06.rpy:1036
-translate korean d21s06_waterfall_d31e043e:
-
-    # sy "Is that what we're calling it?"
-    sy "그래서 어떻게 하려구?"
-
-# game/code/d21/d21s06.rpy:1037
-translate korean d21s06_waterfall_2ece8a99:
-
-    # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
-    mes "사람들은 자신의 성적 환상을 충족할 수 있는 경험을 찾고 있으니, 우리가 제공하는 거지."
-
-# game/code/d21/d21s06.rpy:1039
-translate korean d21s06_waterfall_ebab741e:
-
-    # mc "At a spa?"
-    mc "온천 호텔에서?"
-
-# game/code/d21/d21s06.rpy:1040
-translate korean d21s06_waterfall_fdcf3625:
-
-    # mes "Yes."
-    mes "응."
 
 # game/code/d21/d21s06.rpy:1049
 translate korean d21s06_waterfall_9705fa57:
@@ -2394,24 +2304,6 @@ translate korean d21s06_wellness_spa_8519df16:
     # mes "Until they're satisfied."
     mes "만족할 때까지."
 
-# game/code/d21/d21s06.rpy:1100
-translate korean d21s06_wellness_spa_a14fb21a:
-
-    # arj "How much?"
-    arj "얼마나 오래?"
-
-# game/code/d21/d21s06.rpy:1102
-translate korean d21s06_wellness_spa_da2002db:
-
-    # sy "Until they're satisfied, Min just told you."
-    sy "만족할 때까지라잖아, 민이 방금 말했다구."
-
-# game/code/d21/d21s06.rpy:1104
-translate korean d21s06_wellness_spa_f308289e:
-
-    # arj "Right."
-    arj "맞다."
-
 # game/code/d21/d21s06.rpy:1108
 translate korean d21s06_wellness_spa_690198d9:
 
@@ -2435,60 +2327,6 @@ translate korean d21s06_wellness_spa_8da06c74:
 
     # mes "And much more."
     mes "당연히 기준 이상으로 제공해서."
-
-# game/code/d21/d21s06.rpy:1115
-translate korean d21s06_wellness_spa_626aaba9:
-
-    # sy "Come one, come all; that sort of thing?"
-    sy "그런 취향에 관심이 있는 사람 여기 여기 다 모여라 식이네?"
-
-# game/code/d21/d21s06.rpy:1116
-translate korean d21s06_wellness_spa_74b1c957:
-
-    # mes "It's all optional. People can pay to enjoy the vanilla spa experience."
-    mes "모든 건 선택이야. 일반적인 온천 호텔을 즐기고 싶은 사람도 즐길 수 있게 만들 거야."
-
-# game/code/d21/d21s06.rpy:1117
-translate korean d21s06_wellness_spa_c4ca3301:
-
-    # mes "They would have no idea what's going on next door."
-    mes "그런 사람들은 자기들 바로 옆에서 무슨 일이 있어나고 있는지 모르겠지."
-
-# game/code/d21/d21s06.rpy:1121
-translate korean d21s06_wellness_spa_bea752a5:
-
-    # mes "You will only find out if you choose to fly with us."
-    mes "우리와 함께할 땐 알게 되겠지만."
-
-# game/code/d21/d21s06.rpy:1122
-translate korean d21s06_wellness_spa_82dc0057:
-
-    # mes "A right amount of fun will be had by all. I came up with that slogan. What do you guys think?"
-    mes "모든 사람에게 충분한 즐거움을 제공합니다. 내가 만든 표어야. 어떻게 생각하니?"
-
-# game/code/d21/d21s06.rpy:1126
-translate korean d21s06_wellness_spa_3545488f:
-
-    # mc "It's a bit dry."
-    mc "좀 건조한 거 같은데."
-
-# game/code/d21/d21s06.rpy:1127
-translate korean d21s06_wellness_spa_40d0b7e7:
-
-    # mes "That's the point, dry slogan, wet experience."
-    mes "이게 핵심이야, 건조한 표어, 축축한 경험."
-
-# game/code/d21/d21s06.rpy:1128
-translate korean d21s06_wellness_spa_9c3827ac:
-
-    # mc "It's a little too... abstruse for our purposes, maybe?"
-    mc "이거 좀... 우리 목적을 파악하기 힘들지 않을까?"
-
-# game/code/d21/d21s06.rpy:1131
-translate korean d21s06_wellness_spa_907f9b61:
-
-    # arj "I like it?... contrasts with the non-traditional theme."
-    arj "난 마음에 드는데?... 비전통적인 주제와 대조도 이루고."
 
 # game/code/d21/d21s06.rpy:1133
 translate korean d21s06_wellness_spa_5ea4823b:
@@ -2538,18 +2376,6 @@ translate korean d21s06_wellness_spa_8fbe034e:
     # mes "It was either that or the Squirt Spa. That one might have been too obvious."
     mes "폭포 아니면 물총 온천 호텔이었어. 이쪽은 너무 노골적이잖니."
 
-# game/code/d21/d21s06.rpy:1154
-translate korean d21s06_wellness_spa_30f17f59:
-
-    # mes "If you have alternatives, you can think of some in the future."
-    mes "다른 이름은 나중에 생각해 봐."
-
-# game/code/d21/d21s06.rpy:1155
-translate korean d21s06_wellness_spa_20f6652d:
-
-    # mes "Right now is the pitching process."
-    mes "지금 당장은 제안 단계니까."
-
 # game/code/d21/d21s06.rpy:1159
 translate korean d21s06_wellness_spa_ebbfb5a8:
 
@@ -2562,203 +2388,11 @@ translate korean d21s06_wellness_spa_08f69221:
     # mes "We can make it work with an injection of capital. We know some people on campus who accomplished something similar. Loans and such."
     mes "자본 유입으로 해결할 수 있어. 비슷한 일을 한 사람이 우리 대학에도 있으니까. 대출 같은 것도 있고."
 
-# game/code/d21/d21s06.rpy:1162
-translate korean d21s06_wellness_spa_936da8a3:
-
-    # arj "How's your credit score?"
-    arj "신용 등급이 어떻게 돼?"
-
-# game/code/d21/d21s06.rpy:1164
-translate korean d21s06_wellness_spa_81c2261b:
-
-    # mc "Mine? I can't even find a place."
-    mc "나? 난 어디서 확인할 수 있는지도 모르는데."
-
-# game/code/d21/d21s06.rpy:1166
-translate korean d21s06_wellness_spa_41e3722b:
-
-    # arj "You did. But not you. I meant Min."
-    arj "너야 그렇지. 근데 너 말고, 민한테 물어본 거야."
-
-# game/code/d21/d21s06.rpy:1170
-translate korean d21s06_wellness_spa_080a4b24:
-
-    # mes "My credit score? It's okay. But as I said, the investors will help big time. Might take some work, but securing funding isn't our main goal."
-    mes "내 신용 등급? 괜찮은데. 하지만 아까 말한 것처럼 자본 유입은 투자자를 통해 해결하면 돼. 품이 좀 들긴 하겠지. 그래도 이 점은 생각해 둬. 우리의 주 목표는 투자 유치가 아니야."
-
-# game/code/d21/d21s06.rpy:1171
-translate korean d21s06_wellness_spa_20ebb525:
-
-    # mes "Our main goal is the spa."
-    mes "온천 호텔 자체가 우리의 주 목표니까."
-
 # game/code/d21/d21s06.rpy:1175
 translate korean d21s06_wellness_spa_39ad58cf:
 
     # sy "Uh, sounds complicated."
     sy "어, 복잡하네."
-
-# game/code/d21/d21s06.rpy:1177
-translate korean d21s06_wellness_spa_5563f226:
-
-    # arj "It is."
-    arj "그런데."
-
-# game/code/d21/d21s06.rpy:1179
-translate korean d21s06_wellness_spa_26ee5270:
-
-    # mc "To be honest, you guys are focusing on the wrong thing. It's less about the spa as a watersport-business."
-    mc "솔직히 너희는 변죽을 치고 있다구. 워터스포츠 사업을 하겠다고 호텔은 만드는 건 표면적인 거라구."
-
-# game/code/d21/d21s06.rpy:1180
-translate korean d21s06_wellness_spa_50bfa3fd:
-
-    # mc "More of an excuse to form a imperial Chinese harem."
-    mc "정작 중요한 건 중국 황실 하렘을 만드는 거야."
-
-# game/code/d21/d21s06.rpy:1184
-translate korean d21s06_wellness_spa_378f0c06:
-
-    # mes "I'm Korean."
-    mes "나 한국인인데."
-
-# game/code/d21/d21s06.rpy:1185
-translate korean d21s06_wellness_spa_5506f6cf:
-
-    # mc "I know, it's just what that structure is called."
-    mc "알아, 그냥 그런 식이라는 거지."
-
-# game/code/d21/d21s06.rpy:1186
-translate korean d21s06_wellness_spa_14702122:
-
-    # mes "I thought harem is an Arabic word."
-    mes "하렘은 아랍어 아니니."
-
-# game/code/d21/d21s06.rpy:1190
-translate korean d21s06_wellness_spa_54288f40:
-
-    # mc "It probably is but, uh..."
-    mc "그런가, 어..."
-
-# game/code/d21/d21s06.rpy:1191
-translate korean d21s06_wellness_spa_23cdc614:
-
-    # mc "Nevermind, what was I saying?"
-    mc "아무튼, 내가 무슨 말을 하고 있었지?"
-
-# game/code/d21/d21s06.rpy:1192
-translate korean d21s06_wellness_spa_c0683fe6:
-
-    # mes "You were bringing sex into a professional setting."
-    mes "섹스를 전문적 환경에 투사하려고 했었지."
-
-# game/code/d21/d21s06.rpy:1193
-translate korean d21s06_wellness_spa_e1acbb60:
-
-    # mc "Isn't it about sex?"
-    mc "섹스 때문에 하는 거 아니었어?"
-
-# game/code/d21/d21s06.rpy:1194
-translate korean d21s06_wellness_spa_36a29d41:
-
-    # mes "No. The spa is professionally run. It will just have some extras."
-    mes "아닌데. 온천 호텔 자체는 전문적 기준에 맞추어 운영할 생각이니까. 그저 호텔에서 추가적인 용역을 제공할 수 있을 뿐인 거야."
-
-# game/code/d21/d21s06.rpy:1196
-translate korean d21s06_wellness_spa_e4b4e4a6:
-
-    # mc "Hey, we have harems here too."
-    mc "어이, 하렘을 만들고 싶다면 여기에서도 돼잖아."
-
-# game/code/d21/d21s06.rpy:1198
-translate korean d21s06_wellness_spa_d461c933:
-
-    # sy "You want to move somewhere?"
-    sy "다른 곳에서 하려구?"
-
-# game/code/d21/d21s06.rpy:1200
-translate korean d21s06_wellness_spa_1bf1e07c:
-
-    # mc "I'm not sure. Min, do you want to setup this business in Asia?"
-    mc "잘 모르겠네. 민, 아시아에서 이 사업을 하고 싶어?"
-
-# game/code/d21/d21s06.rpy:1204
-translate korean d21s06_wellness_spa_b5098d8a:
-
-    # mes "No. They wouldn't allow spas of what we're proposing."
-    mes "아니. 아시아에선 우리가 생각하는 온천 호텔은 허용되지 않을 거야."
-
-# game/code/d21/d21s06.rpy:1208
-translate korean d21s06_wellness_spa_a31340dd:
-
-    # mc "Really?"
-    mc "진짜?"
-
-# game/code/d21/d21s06.rpy:1213
-translate korean d21s06_wellness_spa_2da98b91:
-
-    # mc "I didn't mean that."
-    mc "그게 중요한 게 아니지."
-
-# game/code/d21/d21s06.rpy:1214
-translate korean d21s06_wellness_spa_93902784:
-
-    # mc "Alright, so it'll be around here somewhere. Somewhere legal."
-    mc "알겠어, 근처에서 하자. 합법적인 곳에서."
-
-# game/code/d21/d21s06.rpy:1216
-translate korean d21s06_wellness_spa_efefd519:
-
-    # sy "Who are the investors? If you don't mind me asking."
-    sy "투자자는 구했어? 괜찮다면 알고 싶은데."
-
-# game/code/d21/d21s06.rpy:1220
-translate korean d21s06_wellness_spa_115dbcaf:
-
-    # mes "That we haven't decided. What we did decide on is who we're bringing along with this."
-    mes "아직 결정하진 않았어. 우리가 정한 건 이 사업을 같이할 사람들뿐이거든."
-
-# game/code/d21/d21s06.rpy:1224
-translate korean d21s06_wellness_spa_7454332c:
-
-    # mc "Actually, we have a working list."
-    mc "실은, 목록을 만들고 있었어."
-
-# game/code/d21/d21s06.rpy:1225
-translate korean d21s06_wellness_spa_2cd4c788:
-
-    # mc "We just have to get them on board."
-    mc "목록에 있는 사람을 넣기만 하면 돼."
-
-# game/code/d21/d21s06.rpy:1229
-translate korean d21s06_wellness_spa_9bd64567:
-
-    # mes "I hope you have an idea. I'm going to drop out."
-    mes "좋은 생각이 있길 바라. 난 끊는다."
-
-# game/code/d21/d21s06.rpy:1238
-translate korean d21s06_wellness_spa_a437bdda:
-
-    # mes "Bye."
-    mes "잘 지내."
-
-# game/code/d21/d21s06.rpy:1243
-translate korean d21s06_wellness_spa_2924e892:
-
-    # sy "So you're really doing this?"
-    sy "정말 하고 싶어?"
-
-# game/code/d21/d21s06.rpy:1244
-translate korean d21s06_wellness_spa_85107a33:
-
-    # sy "I'll go with you if you're sure this is going to work. Because this is a serious life decision."
-    sy "네가 이 사업이 먹힐 거라고 생각하는 거라면, 나도 그렇게 할게. 이건 인생에서 아주 중요한 결정이니까."
-
-# game/code/d21/d21s06.rpy:1247
-translate korean d21s06_wellness_spa_4dc9a4dc:
-
-    # mc "I'm willing to try!"
-    mc "나 해 보겠어!"
 
 translate korean strings:
 
@@ -2785,4 +2419,66 @@ translate korean strings:
     # game/code/d21/d21s06.rpy:1029
     old "No, I have to give it more thought."
     new "아니다, 더 생각해 봐야 한다."
+
+# TODO: Translation updated at 2024-07-27 20:53
+
+# game/code/d21/d21s06.rpy:997
+translate korean d21s06_waterfall_0992f61d:
+
+    # mc "Yes. I want to do this with you, Min."
+    mc "Yes. I want to do this with you, Min."
+
+# game/code/d21/d21s06.rpy:1052
+translate korean d21s06_wellness_spa_2ece8a99:
+
+    # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+    mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+
+# game/code/d21/d21s06.rpy:1093
+translate korean d21s06_wellness_spa_8a7edf54:
+
+    # mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+    mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+
+# game/code/d21/d21s06.rpy:1099
+translate korean d21s06_wellness_spa_699caa95:
+
+    # arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+    arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+
+# game/code/d21/d21s06.rpy:1100
+translate korean d21s06_wellness_spa_c425dcb9:
+
+    # arj "I need to finish college."
+    arj "I need to finish college."
+
+# game/code/d21/d21s06.rpy:1102
+translate korean d21s06_wellness_spa_43c9e2c9:
+
+    # mes "Understandable. But you're still in, right [mcname]?"
+    mes "Understandable. But you're still in, right [mcname]?"
+
+# game/code/d21/d21s06.rpy:1104
+translate korean d21s06_wellness_spa_5844ae44:
+
+    # mc "Hell yeah."
+    mc "Hell yeah."
+
+# game/code/d21/d21s06.rpy:1107
+translate korean d21s06_wellness_spa_591bfaae:
+
+    # mes "Excellent. Then I'm going to continue on the planning."
+    mes "Excellent. Then I'm going to continue on the planning."
+
+# game/code/d21/d21s06.rpy:1110
+translate korean d21s06_wellness_spa_dbcc212b:
+
+    # mes "You should come over and we can start working on the details."
+    mes "You should come over and we can start working on the details."
+
+# game/code/d21/d21s06.rpy:1111
+translate korean d21s06_wellness_spa_546d00c0:
+
+    # mc "I'll be right there."
+    mc "I'll be right there."
 

@@ -1932,18 +1932,6 @@ translate turkish d21s06_no_fl_6ec24262:
     # sy "Alright."
     sy "Pekala."
 
-# game/code/d21/d21s06.rpy:854
-translate turkish d21s06_no_fl_0772c775:
-
-    # arj "[mcname]. Do you want to come with me?"
-    arj "[mcname]. Benimle gelmek ister misin?"
-
-# game/code/d21/d21s06.rpy:856
-translate turkish d21s06_no_fl_72d3767e:
-
-    # mc "Oh, I was hoping to talk to Stacy a little bit. Do you want me to walk you there?"
-    mc "Ah, Stacy ile biraz konuşmayı umuyordum. Seni oraya götürmemi ister misin?"
-
 # game/code/d21/d21s06.rpy:857
 translate turkish d21s06_no_fl_db3325ec:
 
@@ -2130,42 +2118,6 @@ translate turkish d21s06_waterfall_4e10ecd5:
     # arj "Well, if it's really quick."
     arj "Peki, gerçekten hızlıysa."
 
-# game/code/d21/d21s06.rpy:950
-translate turkish d21s06_waterfall_fabbae7d:
-
-    # sy "So what did you want to talk about?"
-    sy "Peki ne hakkında konuşmak istiyordun?"
-
-# game/code/d21/d21s06.rpy:953
-translate turkish d21s06_waterfall_3c70276f:
-
-    # mc "Since we were on the topic of starting a new business, I kinda had a proposal."
-    mc "Yeni bir iş kurma konusunda olduğumuz için bir teklifim vardı."
-
-# game/code/d21/d21s06.rpy:957
-translate turkish d21s06_waterfall_a0ae5ef0:
-
-    # arj "I told you, I'm not interested in Fetish Locator!"
-    arj "Sana söyledim, Fetiş Bulucu ile ilgilenmiyorum!"
-
-# game/code/d21/d21s06.rpy:959
-translate turkish d21s06_waterfall_301468b6:
-
-    # mc "It's not that, I swear."
-    mc "Öyle değil, yemin ederim."
-
-# game/code/d21/d21s06.rpy:962
-translate turkish d21s06_waterfall_6c8a3e95:
-
-    # sy "And this business, what is it? Is it going to be here?"
-    sy "Peki bu iş nedir? Burada mı olacak?"
-
-# game/code/d21/d21s06.rpy:965
-translate turkish d21s06_waterfall_ea280ad5:
-
-    # mc "Not exactly. It's going to be in a completely different direction. East instead of west."
-    mc "Tam olarak değil. Tamamen farklı bir yönde olacak. Batı yerine Doğu."
-
 # game/code/d21/d21s06.rpy:969
 translate turkish d21s06_waterfall_7ef67f79:
 
@@ -2238,12 +2190,6 @@ translate turkish d21s06_waterfall_6612d04c:
     # mes "You might have noticed that [mcname] and I are into that type of stuff."
     mes "[mcname] ve benim bu tür şeylerle ilgilendiğimizi fark etmişsinizdir."
 
-# game/code/d21/d21s06.rpy:1013
-translate turkish d21s06_waterfall_eeb65300:
-
-    # sy "Yeah, the main event on your party was a big hint."
-    sy "Evet, partinizdeki ana olay büyük bir ipucuydu."
-
 # game/code/d21/d21s06.rpy:1016
 translate turkish d21s06_waterfall_7d45ad20:
 
@@ -2256,47 +2202,11 @@ translate turkish d21s06_waterfall_ffe2788e:
     # mes "We were thinking about forming a wellness spa."
     mes "Bir sağlıklı yaşam spası kurmayı düşünüyorduk."
 
-# game/code/d21/d21s06.rpy:1022
-translate turkish d21s06_waterfall_a1e01b67:
-
-    # mes "You like squirting, right?"
-    mes "Fışkırtmayı seviyorsun, değil mi?"
-
-# game/code/d21/d21s06.rpy:1024
-translate turkish d21s06_waterfall_17c9a9d8:
-
-    # sy "Not as much as you, but yeah."
-    sy "Senin kadar değil, ama evet."
-
 # game/code/d21/d21s06.rpy:1026
 translate turkish d21s06_waterfall_b11d2580:
 
     # mes "Before we go deeper, I want your opinion. Is this something that you really want to do, or not?"
     mes "Daha derine inmeden önce fikrinizi istiyorum. Bu gerçekten yapmak isteyip istemediğiniz bir şey mi?"
-
-# game/code/d21/d21s06.rpy:1036
-translate turkish d21s06_waterfall_d31e043e:
-
-    # sy "Is that what we're calling it?"
-    sy "Biz buna böyle mi diyoruz?"
-
-# game/code/d21/d21s06.rpy:1037
-translate turkish d21s06_waterfall_2ece8a99:
-
-    # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
-    mes "İnsanlar cinsel fantezilerini gerçekleştirecek bir deneyim arıyorlar ve biz de onlara bunu sağlamak için buradayız."
-
-# game/code/d21/d21s06.rpy:1039
-translate turkish d21s06_waterfall_ebab741e:
-
-    # mc "At a spa?"
-    mc "Spa'da mı?"
-
-# game/code/d21/d21s06.rpy:1040
-translate turkish d21s06_waterfall_fdcf3625:
-
-    # mes "Yes."
-    mes "Evet."
 
 # game/code/d21/d21s06.rpy:1049
 translate turkish d21s06_waterfall_9705fa57:
@@ -2394,24 +2304,6 @@ translate turkish d21s06_wellness_spa_8519df16:
     # mes "Until they're satisfied."
     mes "Onlar tatmin olana kadar."
 
-# game/code/d21/d21s06.rpy:1100
-translate turkish d21s06_wellness_spa_a14fb21a:
-
-    # arj "How much?"
-    arj "Ne kadar?"
-
-# game/code/d21/d21s06.rpy:1102
-translate turkish d21s06_wellness_spa_da2002db:
-
-    # sy "Until they're satisfied, Min just told you."
-    sy "Onlar tatmin olana kadar, Min sana söyledi."
-
-# game/code/d21/d21s06.rpy:1104
-translate turkish d21s06_wellness_spa_f308289e:
-
-    # arj "Right."
-    arj "Doğru."
-
 # game/code/d21/d21s06.rpy:1108
 translate turkish d21s06_wellness_spa_690198d9:
 
@@ -2435,60 +2327,6 @@ translate turkish d21s06_wellness_spa_8da06c74:
 
     # mes "And much more."
     mes "Ve çok daha fazlası."
-
-# game/code/d21/d21s06.rpy:1115
-translate turkish d21s06_wellness_spa_626aaba9:
-
-    # sy "Come one, come all; that sort of thing?"
-    sy "Bir gel, hepsi gel; bu tür şeyler?"
-
-# game/code/d21/d21s06.rpy:1116
-translate turkish d21s06_wellness_spa_74b1c957:
-
-    # mes "It's all optional. People can pay to enjoy the vanilla spa experience."
-    mes "Tamamen isteğe bağlı. İnsanlar vanilyalı spa deneyiminin keyfini çıkarmak için para ödeyebilir."
-
-# game/code/d21/d21s06.rpy:1117
-translate turkish d21s06_wellness_spa_c4ca3301:
-
-    # mes "They would have no idea what's going on next door."
-    mes "Yan tarafta neler olduğu hakkında hiçbir fikirleri olmayacaktı."
-
-# game/code/d21/d21s06.rpy:1121
-translate turkish d21s06_wellness_spa_bea752a5:
-
-    # mes "You will only find out if you choose to fly with us."
-    mes "Sadece bizimle uçmayı seçerseniz öğreneceksiniz."
-
-# game/code/d21/d21s06.rpy:1122
-translate turkish d21s06_wellness_spa_82dc0057:
-
-    # mes "A right amount of fun will be had by all. I came up with that slogan. What do you guys think?"
-    mes "Doğru miktarda eğlence herkes tarafından yaşanacak. Ben bu sloganı buldum. Siz ne düşünüyorsunuz?"
-
-# game/code/d21/d21s06.rpy:1126
-translate turkish d21s06_wellness_spa_3545488f:
-
-    # mc "It's a bit dry."
-    mc "Biraz kuru."
-
-# game/code/d21/d21s06.rpy:1127
-translate turkish d21s06_wellness_spa_40d0b7e7:
-
-    # mes "That's the point, dry slogan, wet experience."
-    mes "İşte mesele bu, kuru slogan, ıslak deneyim."
-
-# game/code/d21/d21s06.rpy:1128
-translate turkish d21s06_wellness_spa_9c3827ac:
-
-    # mc "It's a little too... abstruse for our purposes, maybe?"
-    mc "Biraz fazla... bizim amacımız için anlaşılmaz, belki?"
-
-# game/code/d21/d21s06.rpy:1131
-translate turkish d21s06_wellness_spa_907f9b61:
-
-    # arj "I like it?... contrasts with the non-traditional theme."
-    arj "Beğendim mi?... geleneksel olmayan temayla çelişiyor."
 
 # game/code/d21/d21s06.rpy:1133
 translate turkish d21s06_wellness_spa_5ea4823b:
@@ -2538,18 +2376,6 @@ translate turkish d21s06_wellness_spa_8fbe034e:
     # mes "It was either that or the Squirt Spa. That one might have been too obvious."
     mes "Ya o ya da Squirt Spa'ydı. Bu çok açık olabilirdi."
 
-# game/code/d21/d21s06.rpy:1154
-translate turkish d21s06_wellness_spa_30f17f59:
-
-    # mes "If you have alternatives, you can think of some in the future."
-    mes "Alternatifleriniz varsa, gelecekte bazılarını düşünebilirsiniz."
-
-# game/code/d21/d21s06.rpy:1155
-translate turkish d21s06_wellness_spa_20f6652d:
-
-    # mes "Right now is the pitching process."
-    mes "Şu anda satış konuşması süreci."
-
 # game/code/d21/d21s06.rpy:1159
 translate turkish d21s06_wellness_spa_ebbfb5a8:
 
@@ -2562,203 +2388,11 @@ translate turkish d21s06_wellness_spa_08f69221:
     # mes "We can make it work with an injection of capital. We know some people on campus who accomplished something similar. Loans and such."
     mes "Bir sermaye enjeksiyonu ile bunu çalıştırabiliriz. Kampüste benzer bir şeyi başaran bazı insanlar tanıyoruz. Krediler falan."
 
-# game/code/d21/d21s06.rpy:1162
-translate turkish d21s06_wellness_spa_936da8a3:
-
-    # arj "How's your credit score?"
-    arj "Kredi puanın nasıl?"
-
-# game/code/d21/d21s06.rpy:1164
-translate turkish d21s06_wellness_spa_81c2261b:
-
-    # mc "Mine? I can't even find a place."
-    mc "Bana ait? Bir yer bile bulamıyorum."
-
-# game/code/d21/d21s06.rpy:1166
-translate turkish d21s06_wellness_spa_41e3722b:
-
-    # arj "You did. But not you. I meant Min."
-    arj "Yaptın. Ama sen değil. Min'i kastetmiştim."
-
-# game/code/d21/d21s06.rpy:1170
-translate turkish d21s06_wellness_spa_080a4b24:
-
-    # mes "My credit score? It's okay. But as I said, the investors will help big time. Might take some work, but securing funding isn't our main goal."
-    mes "Kredi puanım mı? Sorun değil. Ama dediğim gibi yatırımcılar çok yardımcı olacaktır. Biraz uğraştırabilir ama finansman sağlamak asıl amacımız değil."
-
-# game/code/d21/d21s06.rpy:1171
-translate turkish d21s06_wellness_spa_20ebb525:
-
-    # mes "Our main goal is the spa."
-    mes "Ana hedefimiz kaplıca."
-
 # game/code/d21/d21s06.rpy:1175
 translate turkish d21s06_wellness_spa_39ad58cf:
 
     # sy "Uh, sounds complicated."
     sy "Uh, kulağa karmaşık geliyor."
-
-# game/code/d21/d21s06.rpy:1177
-translate turkish d21s06_wellness_spa_5563f226:
-
-    # arj "It is."
-    arj "Öyle."
-
-# game/code/d21/d21s06.rpy:1179
-translate turkish d21s06_wellness_spa_26ee5270:
-
-    # mc "To be honest, you guys are focusing on the wrong thing. It's less about the spa as a watersport-business."
-    mc "Dürüst olmak gerekirse, siz çocuklar yanlış şeye odaklanıyorsunuz. Bu bir su sporları işi olarak spa'dan daha az önemli."
-
-# game/code/d21/d21s06.rpy:1180
-translate turkish d21s06_wellness_spa_50bfa3fd:
-
-    # mc "More of an excuse to form a imperial Chinese harem."
-    mc "Daha çok bir Çin imparatorluk haremi kurmak için bir bahane."
-
-# game/code/d21/d21s06.rpy:1184
-translate turkish d21s06_wellness_spa_378f0c06:
-
-    # mes "I'm Korean."
-    mes "Ben Koreliyim."
-
-# game/code/d21/d21s06.rpy:1185
-translate turkish d21s06_wellness_spa_5506f6cf:
-
-    # mc "I know, it's just what that structure is called."
-    mc "Biliyorum, o yapının adı bu."
-
-# game/code/d21/d21s06.rpy:1186
-translate turkish d21s06_wellness_spa_14702122:
-
-    # mes "I thought harem is an Arabic word."
-    mes "Ben haremin Arapça bir kelime olduğunu sanıyordum."
-
-# game/code/d21/d21s06.rpy:1190
-translate turkish d21s06_wellness_spa_54288f40:
-
-    # mc "It probably is but, uh..."
-    mc "Muhtemelen öyle ama, uh..."
-
-# game/code/d21/d21s06.rpy:1191
-translate turkish d21s06_wellness_spa_23cdc614:
-
-    # mc "Nevermind, what was I saying?"
-    mc "Boşver, ne diyordum?"
-
-# game/code/d21/d21s06.rpy:1192
-translate turkish d21s06_wellness_spa_c0683fe6:
-
-    # mes "You were bringing sex into a professional setting."
-    mes "Seksi profesyonel bir ortama getiriyordun."
-
-# game/code/d21/d21s06.rpy:1193
-translate turkish d21s06_wellness_spa_e1acbb60:
-
-    # mc "Isn't it about sex?"
-    mc "Seksle ilgili değil mi?"
-
-# game/code/d21/d21s06.rpy:1194
-translate turkish d21s06_wellness_spa_36a29d41:
-
-    # mes "No. The spa is professionally run. It will just have some extras."
-    mes "Hayır. Spa profesyonelce yönetiliyor. Sadece bazı ekstralar olacak."
-
-# game/code/d21/d21s06.rpy:1196
-translate turkish d21s06_wellness_spa_e4b4e4a6:
-
-    # mc "Hey, we have harems here too."
-    mc "Hey, burada da haremlerimiz var."
-
-# game/code/d21/d21s06.rpy:1198
-translate turkish d21s06_wellness_spa_d461c933:
-
-    # sy "You want to move somewhere?"
-    sy "Bir yere taşınmak ister misin?"
-
-# game/code/d21/d21s06.rpy:1200
-translate turkish d21s06_wellness_spa_1bf1e07c:
-
-    # mc "I'm not sure. Min, do you want to setup this business in Asia?"
-    mc "Emin değilim. Min, bu işi Asya'da mı kurmak istiyorsun?"
-
-# game/code/d21/d21s06.rpy:1204
-translate turkish d21s06_wellness_spa_b5098d8a:
-
-    # mes "No. They wouldn't allow spas of what we're proposing."
-    mes "Hayır. Önerdiğimiz şeyin spasına izin vermezler."
-
-# game/code/d21/d21s06.rpy:1208
-translate turkish d21s06_wellness_spa_a31340dd:
-
-    # mc "Really?"
-    mc "Gerçekten mi?"
-
-# game/code/d21/d21s06.rpy:1213
-translate turkish d21s06_wellness_spa_2da98b91:
-
-    # mc "I didn't mean that."
-    mc "Öyle demek istemedim."
-
-# game/code/d21/d21s06.rpy:1214
-translate turkish d21s06_wellness_spa_93902784:
-
-    # mc "Alright, so it'll be around here somewhere. Somewhere legal."
-    mc "Pekala, buralarda bir yerde olacak. Yasal bir yerde."
-
-# game/code/d21/d21s06.rpy:1216
-translate turkish d21s06_wellness_spa_efefd519:
-
-    # sy "Who are the investors? If you don't mind me asking."
-    sy "Yatırımcılar kim? Sormamın sakıncası yoksa."
-
-# game/code/d21/d21s06.rpy:1220
-translate turkish d21s06_wellness_spa_115dbcaf:
-
-    # mes "That we haven't decided. What we did decide on is who we're bringing along with this."
-    mes "Karar vermedik. Karar verdiğimiz şey, bununla birlikte kimi getireceğimiz."
-
-# game/code/d21/d21s06.rpy:1224
-translate turkish d21s06_wellness_spa_7454332c:
-
-    # mc "Actually, we have a working list."
-    mc "Aslında bir çalışma listemiz var."
-
-# game/code/d21/d21s06.rpy:1225
-translate turkish d21s06_wellness_spa_2cd4c788:
-
-    # mc "We just have to get them on board."
-    mc "Onları gemiye almamız yeterli."
-
-# game/code/d21/d21s06.rpy:1229
-translate turkish d21s06_wellness_spa_9bd64567:
-
-    # mes "I hope you have an idea. I'm going to drop out."
-    mes "Umarım bir fikriniz vardır. Bırakacağım."
-
-# game/code/d21/d21s06.rpy:1238
-translate turkish d21s06_wellness_spa_a437bdda:
-
-    # mes "Bye."
-    mes "Hoşçakal."
-
-# game/code/d21/d21s06.rpy:1243
-translate turkish d21s06_wellness_spa_2924e892:
-
-    # sy "So you're really doing this?"
-    sy "Demek bunu gerçekten yapıyorsun?"
-
-# game/code/d21/d21s06.rpy:1244
-translate turkish d21s06_wellness_spa_85107a33:
-
-    # sy "I'll go with you if you're sure this is going to work. Because this is a serious life decision."
-    sy "Bunun işe yarayacağından eminsen seninle geleceğim. Çünkü bu ciddi bir hayat kararı."
-
-# game/code/d21/d21s06.rpy:1247
-translate turkish d21s06_wellness_spa_4dc9a4dc:
-
-    # mc "I'm willing to try!"
-    mc "Denemeye hazırım!"
 
 translate turkish strings:
 
@@ -2785,4 +2419,66 @@ translate turkish strings:
     # game/code/d21/d21s06.rpy:1029
     old "No, I have to give it more thought."
     new "Hayır, daha fazla düşünmeliyim."
+
+# TODO: Translation updated at 2024-07-27 20:56
+
+# game/code/d21/d21s06.rpy:997
+translate turkish d21s06_waterfall_0992f61d:
+
+    # mc "Yes. I want to do this with you, Min."
+    mc "Yes. I want to do this with you, Min."
+
+# game/code/d21/d21s06.rpy:1052
+translate turkish d21s06_wellness_spa_2ece8a99:
+
+    # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+    mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+
+# game/code/d21/d21s06.rpy:1093
+translate turkish d21s06_wellness_spa_8a7edf54:
+
+    # mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+    mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+
+# game/code/d21/d21s06.rpy:1099
+translate turkish d21s06_wellness_spa_699caa95:
+
+    # arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+    arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+
+# game/code/d21/d21s06.rpy:1100
+translate turkish d21s06_wellness_spa_c425dcb9:
+
+    # arj "I need to finish college."
+    arj "I need to finish college."
+
+# game/code/d21/d21s06.rpy:1102
+translate turkish d21s06_wellness_spa_43c9e2c9:
+
+    # mes "Understandable. But you're still in, right [mcname]?"
+    mes "Understandable. But you're still in, right [mcname]?"
+
+# game/code/d21/d21s06.rpy:1104
+translate turkish d21s06_wellness_spa_5844ae44:
+
+    # mc "Hell yeah."
+    mc "Hell yeah."
+
+# game/code/d21/d21s06.rpy:1107
+translate turkish d21s06_wellness_spa_591bfaae:
+
+    # mes "Excellent. Then I'm going to continue on the planning."
+    mes "Excellent. Then I'm going to continue on the planning."
+
+# game/code/d21/d21s06.rpy:1110
+translate turkish d21s06_wellness_spa_dbcc212b:
+
+    # mes "You should come over and we can start working on the details."
+    mes "You should come over and we can start working on the details."
+
+# game/code/d21/d21s06.rpy:1111
+translate turkish d21s06_wellness_spa_546d00c0:
+
+    # mc "I'll be right there."
+    mc "I'll be right there."
 

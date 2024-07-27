@@ -250,3 +250,11 @@ translate spanish strings:
     old "Ending 16: Farm Animals"
     new "Ending 16: Farm Animals"
 
+# TODO: Translation updated at 2024-07-27 20:56
+
+translate spanish strings:
+
+    # game/code/data/extended/cg_gallery.rpy:122
+    old "Ending 16: Jessie & Kanya"
+    new "Ending 16: Jessie & Kanya"
+

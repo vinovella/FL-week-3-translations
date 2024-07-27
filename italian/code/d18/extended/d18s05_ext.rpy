@@ -570,12 +570,6 @@ translate italian d18s05_after_sex_d36f975d:
     # sb "I've been thinking about it for a bit now."
     sb "Ci pensavo da un po'."
 
-# game/code/d18/extended/d18s05_ext.rpy:617
-translate italian d18s05_after_sex_f26fa239:
-
-    # sb "I hate this place. It's a fucking concrete jungle. I've always wanted to get the hell out of here."
-    sb "Odio questo posto. È troppo grigio. Ho sempre desiderato andarmene."
-
 # game/code/d18/extended/d18s05_ext.rpy:618
 translate italian d18s05_after_sex_7102ee2c:
 
@@ -715,4 +709,12 @@ translate italian strings:
     # game/code/d18/extended/d18s05_ext.rpy:644
     old "No"
     new "No"
+
+# TODO: Translation updated at 2024-07-27 20:52
+
+# game/code/d18/extended/d18s05_ext.rpy:618
+translate italian d18s05_after_sex_ec16ba99:
+
+    # sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
+    sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
 

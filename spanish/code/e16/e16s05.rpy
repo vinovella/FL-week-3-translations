@@ -1428,3 +1428,17 @@ translate spanish strings:
     old "Do some chokeplay"
     new "Haz un poco de estrangulamiento"
 
+# TODO: Translation updated at 2024-07-27 20:56
+
+# game/code/e16/e16s05.rpy:563
+translate spanish e16s05_sex_996fd010:
+
+    # mc "This isn't about your pleasure, Kanya..."
+    mc "This isn't about your pleasure, Kanya..."
+
+# game/code/e16/e16s05.rpy:781
+translate spanish e16s05_sex_bb6ea926:
+
+    # kv "Mrhmmm... Happy to."
+    kv "Mrhmmm... Happy to."
+

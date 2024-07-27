@@ -1932,18 +1932,6 @@ translate russian d21s06_no_fl_6ec24262:
     # sy "Alright."
     sy "Ладно."
 
-# game/code/d21/d21s06.rpy:854
-translate russian d21s06_no_fl_0772c775:
-
-    # arj "[mcname]. Do you want to come with me?"
-    arj "[mcname]. Хочешь пойти со мной?"
-
-# game/code/d21/d21s06.rpy:856
-translate russian d21s06_no_fl_72d3767e:
-
-    # mc "Oh, I was hoping to talk to Stacy a little bit. Do you want me to walk you there?"
-    mc "О, я надеялся немного поговорить со Стейси. Хочешь, чтобы я проводил тебя?"
-
 # game/code/d21/d21s06.rpy:857
 translate russian d21s06_no_fl_db3325ec:
 
@@ -2130,42 +2118,6 @@ translate russian d21s06_waterfall_4e10ecd5:
     # arj "Well, if it's really quick."
     arj "Ну, если это действительно быстро."
 
-# game/code/d21/d21s06.rpy:950
-translate russian d21s06_waterfall_fabbae7d:
-
-    # sy "So what did you want to talk about?"
-    sy "Так о чем ты хотел поговорить?"
-
-# game/code/d21/d21s06.rpy:953
-translate russian d21s06_waterfall_3c70276f:
-
-    # mc "Since we were on the topic of starting a new business, I kinda had a proposal."
-    mc "Раз уж мы заговорили о начале нового бизнеса, у меня вроде как есть предложение."
-
-# game/code/d21/d21s06.rpy:957
-translate russian d21s06_waterfall_a0ae5ef0:
-
-    # arj "I told you, I'm not interested in Fetish Locator!"
-    arj "Я же сказала, меня не интересует Фетиш Локатор!"
-
-# game/code/d21/d21s06.rpy:959
-translate russian d21s06_waterfall_301468b6:
-
-    # mc "It's not that, I swear."
-    mc "Я не об этом, клянусь."
-
-# game/code/d21/d21s06.rpy:962
-translate russian d21s06_waterfall_6c8a3e95:
-
-    # sy "And this business, what is it? Is it going to be here?"
-    sy "А что это за бизнес? Будет ли он здесь?"
-
-# game/code/d21/d21s06.rpy:965
-translate russian d21s06_waterfall_ea280ad5:
-
-    # mc "Not exactly. It's going to be in a completely different direction. East instead of west."
-    mc "Не совсем. Это будет в совершенно другое направление. На восток, а не на запад."
-
 # game/code/d21/d21s06.rpy:969
 translate russian d21s06_waterfall_7ef67f79:
 
@@ -2238,12 +2190,6 @@ translate russian d21s06_waterfall_6612d04c:
     # mes "You might have noticed that [mcname] and I are into that type of stuff."
     mes "Вы, наверное, заметили, что мы с [mcname] увлекаемся подобными вещами."
 
-# game/code/d21/d21s06.rpy:1013
-translate russian d21s06_waterfall_eeb65300:
-
-    # sy "Yeah, the main event on your party was a big hint."
-    sy "Да, главное событие на вашем празднике было большим намеком."
-
 # game/code/d21/d21s06.rpy:1016
 translate russian d21s06_waterfall_7d45ad20:
 
@@ -2256,47 +2202,11 @@ translate russian d21s06_waterfall_ffe2788e:
     # mes "We were thinking about forming a wellness spa."
     mes "Мы думали о создании оздоровительного спа-центра."
 
-# game/code/d21/d21s06.rpy:1022
-translate russian d21s06_waterfall_a1e01b67:
-
-    # mes "You like squirting, right?"
-    mes "Тебе ведь нравится сквирт?"
-
-# game/code/d21/d21s06.rpy:1024
-translate russian d21s06_waterfall_17c9a9d8:
-
-    # sy "Not as much as you, but yeah."
-    sy "Не так сильно, как тебе, но да."
-
 # game/code/d21/d21s06.rpy:1026
 translate russian d21s06_waterfall_b11d2580:
 
     # mes "Before we go deeper, I want your opinion. Is this something that you really want to do, or not?"
     mes "Прежде чем мы углубимся, я хочу услышать ваше мнение. Это то, что вам действительно хочется сделать, или нет?"
-
-# game/code/d21/d21s06.rpy:1036
-translate russian d21s06_waterfall_d31e043e:
-
-    # sy "Is that what we're calling it?"
-    sy "Именно поэтому мы так это называем?"
-
-# game/code/d21/d21s06.rpy:1037
-translate russian d21s06_waterfall_2ece8a99:
-
-    # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
-    mes "Люди ищут опыт, который воплотит их сексуальные фантазии, и мы здесь, чтобы предоставить им его."
-
-# game/code/d21/d21s06.rpy:1039
-translate russian d21s06_waterfall_ebab741e:
-
-    # mc "At a spa?"
-    mc "В спа?"
-
-# game/code/d21/d21s06.rpy:1040
-translate russian d21s06_waterfall_fdcf3625:
-
-    # mes "Yes."
-    mes "Да."
 
 # game/code/d21/d21s06.rpy:1049
 translate russian d21s06_waterfall_9705fa57:
@@ -2394,24 +2304,6 @@ translate russian d21s06_wellness_spa_8519df16:
     # mes "Until they're satisfied."
     mes "Пока они не будут удовлетворены."
 
-# game/code/d21/d21s06.rpy:1100
-translate russian d21s06_wellness_spa_a14fb21a:
-
-    # arj "How much?"
-    arj "Насколько?"
-
-# game/code/d21/d21s06.rpy:1102
-translate russian d21s06_wellness_spa_da2002db:
-
-    # sy "Until they're satisfied, Min just told you."
-    sy "Пока они не будут удовлетворены, Мин только что сказала это."
-
-# game/code/d21/d21s06.rpy:1104
-translate russian d21s06_wellness_spa_f308289e:
-
-    # arj "Right."
-    arj "Точно."
-
 # game/code/d21/d21s06.rpy:1108
 translate russian d21s06_wellness_spa_690198d9:
 
@@ -2435,60 +2327,6 @@ translate russian d21s06_wellness_spa_8da06c74:
 
     # mes "And much more."
     mes "И многое другое."
-
-# game/code/d21/d21s06.rpy:1115
-translate russian d21s06_wellness_spa_626aaba9:
-
-    # sy "Come one, come all; that sort of thing?"
-    sy "Приходите одни, приходите все; все в таком духе?"
-
-# game/code/d21/d21s06.rpy:1116
-translate russian d21s06_wellness_spa_74b1c957:
-
-    # mes "It's all optional. People can pay to enjoy the vanilla spa experience."
-    mes "Все это по желанию. Люди могут заплатить, чтобы насладиться обычным спа."
-
-# game/code/d21/d21s06.rpy:1117
-translate russian d21s06_wellness_spa_c4ca3301:
-
-    # mes "They would have no idea what's going on next door."
-    mes "Они не будут знать, что происходит в соседней комнате."
-
-# game/code/d21/d21s06.rpy:1121
-translate russian d21s06_wellness_spa_bea752a5:
-
-    # mes "You will only find out if you choose to fly with us."
-    mes "Вы узнаете об этом, только если решите воспользоваться нашими услугами."
-
-# game/code/d21/d21s06.rpy:1122
-translate russian d21s06_wellness_spa_82dc0057:
-
-    # mes "A right amount of fun will be had by all. I came up with that slogan. What do you guys think?"
-    mes "Все получат истинное удовольствие. Я придумала этот слоган. Что думаете?"
-
-# game/code/d21/d21s06.rpy:1126
-translate russian d21s06_wellness_spa_3545488f:
-
-    # mc "It's a bit dry."
-    mc "Немного суховато."
-
-# game/code/d21/d21s06.rpy:1127
-translate russian d21s06_wellness_spa_40d0b7e7:
-
-    # mes "That's the point, dry slogan, wet experience."
-    mes "В этом-то и дело: сухой лозунг, влажный опыт."
-
-# game/code/d21/d21s06.rpy:1128
-translate russian d21s06_wellness_spa_9c3827ac:
-
-    # mc "It's a little too... abstruse for our purposes, maybe?"
-    mc "Может быть, это слишком... заумно для наших целей?"
-
-# game/code/d21/d21s06.rpy:1131
-translate russian d21s06_wellness_spa_907f9b61:
-
-    # arj "I like it?... contrasts with the non-traditional theme."
-    arj "А мне нравится?... контрастирует с нетрадиционной темой."
 
 # game/code/d21/d21s06.rpy:1133
 translate russian d21s06_wellness_spa_5ea4823b:
@@ -2538,18 +2376,6 @@ translate russian d21s06_wellness_spa_8fbe034e:
     # mes "It was either that or the Squirt Spa. That one might have been too obvious."
     mes "Либо это, либо Сквирт Спа. Это было слишком очевидно."
 
-# game/code/d21/d21s06.rpy:1154
-translate russian d21s06_wellness_spa_30f17f59:
-
-    # mes "If you have alternatives, you can think of some in the future."
-    mes "Если у вас есть альтернативы, можно прикинуть их в будущем."
-
-# game/code/d21/d21s06.rpy:1155
-translate russian d21s06_wellness_spa_20f6652d:
-
-    # mes "Right now is the pitching process."
-    mes "Сейчас идет процесс подготовки."
-
 # game/code/d21/d21s06.rpy:1159
 translate russian d21s06_wellness_spa_ebbfb5a8:
 
@@ -2562,203 +2388,11 @@ translate russian d21s06_wellness_spa_08f69221:
     # mes "We can make it work with an injection of capital. We know some people on campus who accomplished something similar. Loans and such."
     mes "Мы можем сделать это с помощью вливания капитала. Мы знаем некоторых людей в кампусе, которые добились похожего. Кредиты и тому подобное."
 
-# game/code/d21/d21s06.rpy:1162
-translate russian d21s06_wellness_spa_936da8a3:
-
-    # arj "How's your credit score?"
-    arj "Какова твоя кредитная история?"
-
-# game/code/d21/d21s06.rpy:1164
-translate russian d21s06_wellness_spa_81c2261b:
-
-    # mc "Mine? I can't even find a place."
-    mc "Моя? Я даже не могу найти место."
-
-# game/code/d21/d21s06.rpy:1166
-translate russian d21s06_wellness_spa_41e3722b:
-
-    # arj "You did. But not you. I meant Min."
-    arj "Да. Но не ты. Я имела в виду Мин."
-
-# game/code/d21/d21s06.rpy:1170
-translate russian d21s06_wellness_spa_080a4b24:
-
-    # mes "My credit score? It's okay. But as I said, the investors will help big time. Might take some work, but securing funding isn't our main goal."
-    mes "Моя кредитная история? Нормальная. Но, как я уже сказала, инвесторы очень помогут. Возможно, придется немного поработать, но обеспечение финансирования не является нашей главной целью."
-
-# game/code/d21/d21s06.rpy:1171
-translate russian d21s06_wellness_spa_20ebb525:
-
-    # mes "Our main goal is the spa."
-    mes "Наша главная цель - спа."
-
 # game/code/d21/d21s06.rpy:1175
 translate russian d21s06_wellness_spa_39ad58cf:
 
     # sy "Uh, sounds complicated."
     sy "Звучит непросто."
-
-# game/code/d21/d21s06.rpy:1177
-translate russian d21s06_wellness_spa_5563f226:
-
-    # arj "It is."
-    arj "Так и есть."
-
-# game/code/d21/d21s06.rpy:1179
-translate russian d21s06_wellness_spa_26ee5270:
-
-    # mc "To be honest, you guys are focusing on the wrong thing. It's less about the spa as a watersport-business."
-    mc "Честно говоря, вы, ребята, сосредоточены не на том. Речь идет не столько о спа, сколько о бизнесе, связанном с водным спортом."
-
-# game/code/d21/d21s06.rpy:1180
-translate russian d21s06_wellness_spa_50bfa3fd:
-
-    # mc "More of an excuse to form a imperial Chinese harem."
-    mc "Скорее, это повод для создания имперского китайского гарема."
-
-# game/code/d21/d21s06.rpy:1184
-translate russian d21s06_wellness_spa_378f0c06:
-
-    # mes "I'm Korean."
-    mes "Я кореянка."
-
-# game/code/d21/d21s06.rpy:1185
-translate russian d21s06_wellness_spa_5506f6cf:
-
-    # mc "I know, it's just what that structure is called."
-    mc "Я знаю, просто так называется эта структура."
-
-# game/code/d21/d21s06.rpy:1186
-translate russian d21s06_wellness_spa_14702122:
-
-    # mes "I thought harem is an Arabic word."
-    mes "Я думала, что гарем - это арабское слово."
-
-# game/code/d21/d21s06.rpy:1190
-translate russian d21s06_wellness_spa_54288f40:
-
-    # mc "It probably is but, uh..."
-    mc "Наверное, да, но..."
-
-# game/code/d21/d21s06.rpy:1191
-translate russian d21s06_wellness_spa_23cdc614:
-
-    # mc "Nevermind, what was I saying?"
-    mc "Неважно, о чем я говорил?"
-
-# game/code/d21/d21s06.rpy:1192
-translate russian d21s06_wellness_spa_c0683fe6:
-
-    # mes "You were bringing sex into a professional setting."
-    mes "Ты пытался внедрить секс в профессиональную среду."
-
-# game/code/d21/d21s06.rpy:1193
-translate russian d21s06_wellness_spa_e1acbb60:
-
-    # mc "Isn't it about sex?"
-    mc "Разве дело не в сексе?"
-
-# game/code/d21/d21s06.rpy:1194
-translate russian d21s06_wellness_spa_36a29d41:
-
-    # mes "No. The spa is professionally run. It will just have some extras."
-    mes "Нет. Спа-салон - это профессиональное управление. Просто с некоторыми дополнениями."
-
-# game/code/d21/d21s06.rpy:1196
-translate russian d21s06_wellness_spa_e4b4e4a6:
-
-    # mc "Hey, we have harems here too."
-    mc "Эй, у нас тут тоже есть гарем."
-
-# game/code/d21/d21s06.rpy:1198
-translate russian d21s06_wellness_spa_d461c933:
-
-    # sy "You want to move somewhere?"
-    sy "Вы хотите куда-то переехать?"
-
-# game/code/d21/d21s06.rpy:1200
-translate russian d21s06_wellness_spa_1bf1e07c:
-
-    # mc "I'm not sure. Min, do you want to setup this business in Asia?"
-    mc "Я не уверен. Мин, ты хочешь открыть этот бизнес в Азии?"
-
-# game/code/d21/d21s06.rpy:1204
-translate russian d21s06_wellness_spa_b5098d8a:
-
-    # mes "No. They wouldn't allow spas of what we're proposing."
-    mes "Нет. Они не допустят таких спа-центров, какие мы предлагаем."
-
-# game/code/d21/d21s06.rpy:1208
-translate russian d21s06_wellness_spa_a31340dd:
-
-    # mc "Really?"
-    mc "Правда?"
-
-# game/code/d21/d21s06.rpy:1213
-translate russian d21s06_wellness_spa_2da98b91:
-
-    # mc "I didn't mean that."
-    mc "Я не это имел в виду."
-
-# game/code/d21/d21s06.rpy:1214
-translate russian d21s06_wellness_spa_93902784:
-
-    # mc "Alright, so it'll be around here somewhere. Somewhere legal."
-    mc "Ладно, значит, это будет где-то здесь. В законном месте."
-
-# game/code/d21/d21s06.rpy:1216
-translate russian d21s06_wellness_spa_efefd519:
-
-    # sy "Who are the investors? If you don't mind me asking."
-    sy "А инвесторами кто будет? Если позволите, я спрошу."
-
-# game/code/d21/d21s06.rpy:1220
-translate russian d21s06_wellness_spa_115dbcaf:
-
-    # mes "That we haven't decided. What we did decide on is who we're bringing along with this."
-    mes "Этого мы еще не решили. Что мы решили, так это кого мы возьмем с собой."
-
-# game/code/d21/d21s06.rpy:1224
-translate russian d21s06_wellness_spa_7454332c:
-
-    # mc "Actually, we have a working list."
-    mc "На самом деле, у нас есть рабочий список."
-
-# game/code/d21/d21s06.rpy:1225
-translate russian d21s06_wellness_spa_2cd4c788:
-
-    # mc "We just have to get them on board."
-    mc "Нам осталось только заинтересовать их."
-
-# game/code/d21/d21s06.rpy:1229
-translate russian d21s06_wellness_spa_9bd64567:
-
-    # mes "I hope you have an idea. I'm going to drop out."
-    mes "Надеюсь, у тебя есть идеи. Мне пора уходить."
-
-# game/code/d21/d21s06.rpy:1238
-translate russian d21s06_wellness_spa_a437bdda:
-
-    # mes "Bye."
-    mes "Пока."
-
-# game/code/d21/d21s06.rpy:1243
-translate russian d21s06_wellness_spa_2924e892:
-
-    # sy "So you're really doing this?"
-    sy "Так ты действительно это сделаешь?"
-
-# game/code/d21/d21s06.rpy:1244
-translate russian d21s06_wellness_spa_85107a33:
-
-    # sy "I'll go with you if you're sure this is going to work. Because this is a serious life decision."
-    sy "Я пойду с тобой, если ты уверен, что все получится. Потому что это серьезное жизненное решение."
-
-# game/code/d21/d21s06.rpy:1247
-translate russian d21s06_wellness_spa_4dc9a4dc:
-
-    # mc "I'm willing to try!"
-    mc "Я хочу попробовать!"
 
 translate russian strings:
 
@@ -2785,4 +2419,66 @@ translate russian strings:
     # game/code/d21/d21s06.rpy:1029
     old "No, I have to give it more thought."
     new "Нет, мне нужно еще подумать."
+
+# TODO: Translation updated at 2024-07-27 20:55
+
+# game/code/d21/d21s06.rpy:997
+translate russian d21s06_waterfall_0992f61d:
+
+    # mc "Yes. I want to do this with you, Min."
+    mc "Yes. I want to do this with you, Min."
+
+# game/code/d21/d21s06.rpy:1052
+translate russian d21s06_wellness_spa_2ece8a99:
+
+    # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+    mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+
+# game/code/d21/d21s06.rpy:1093
+translate russian d21s06_wellness_spa_8a7edf54:
+
+    # mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+    mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+
+# game/code/d21/d21s06.rpy:1099
+translate russian d21s06_wellness_spa_699caa95:
+
+    # arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+    arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+
+# game/code/d21/d21s06.rpy:1100
+translate russian d21s06_wellness_spa_c425dcb9:
+
+    # arj "I need to finish college."
+    arj "I need to finish college."
+
+# game/code/d21/d21s06.rpy:1102
+translate russian d21s06_wellness_spa_43c9e2c9:
+
+    # mes "Understandable. But you're still in, right [mcname]?"
+    mes "Understandable. But you're still in, right [mcname]?"
+
+# game/code/d21/d21s06.rpy:1104
+translate russian d21s06_wellness_spa_5844ae44:
+
+    # mc "Hell yeah."
+    mc "Hell yeah."
+
+# game/code/d21/d21s06.rpy:1107
+translate russian d21s06_wellness_spa_591bfaae:
+
+    # mes "Excellent. Then I'm going to continue on the planning."
+    mes "Excellent. Then I'm going to continue on the planning."
+
+# game/code/d21/d21s06.rpy:1110
+translate russian d21s06_wellness_spa_dbcc212b:
+
+    # mes "You should come over and we can start working on the details."
+    mes "You should come over and we can start working on the details."
+
+# game/code/d21/d21s06.rpy:1111
+translate russian d21s06_wellness_spa_546d00c0:
+
+    # mc "I'll be right there."
+    mc "I'll be right there."
 

@@ -1138,3 +1138,11 @@ translate portuguese strings:
     old "Lick Molly's Armpit"
     new "Lamber a Axila da Molly"
 
+# TODO: Translation updated at 2024-07-27 20:57
+
+# game/code/e16/e16s04.rpy:622
+translate portuguese e16s04_sex_f1d18fba:
+
+    # mct "Okay that was definitely the word 'fuck'."
+    mct ""
+

@@ -570,12 +570,6 @@ translate portuguese d18s05_after_sex_d36f975d:
     # sb "I've been thinking about it for a bit now."
     sb "Eu estava pensando faz um tempo."
 
-# game/code/d18/extended/d18s05_ext.rpy:584
-translate portuguese d18s05_after_sex_f26fa239:
-
-    # sb "I hate this place. It's a fucking concrete jungle. I've always wanted to get the hell out of here."
-    sb "Eu odeio esse lugar. É uma porra duma selva de concreto. Sempre quis dar o fora daqui."
-
 # game/code/d18/extended/d18s05_ext.rpy:585
 translate portuguese d18s05_after_sex_7102ee2c:
 
@@ -715,4 +709,12 @@ translate portuguese strings:
     # game/code/d18/extended/d18s05_ext.rpy:611
     old "No"
     new "Não"
+
+# TODO: Translation updated at 2024-07-27 20:57
+
+# game/code/d18/extended/d18s05_ext.rpy:618
+translate portuguese d18s05_after_sex_ec16ba99:
+
+    # sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
+    sb ""
 

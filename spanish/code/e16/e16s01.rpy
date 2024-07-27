@@ -772,3 +772,35 @@ translate spanish strings:
     old "Kinky"
     new "Pervertido"
 
+# TODO: Translation updated at 2024-07-27 20:56
+
+# game/code/e16/e16s01.rpy:155
+translate spanish e16s01_1b15151c:
+
+    # jf "The last time I was just a kid, here for some relative's birthday party..."
+    jf "The last time I was just a kid, here for some relative's birthday party..."
+
+# game/code/e16/e16s01.rpy:458
+translate spanish e16s01_sex_2abc2dc8:
+
+    # mc "Good girl, Molly."
+    mc "Good girl, Molly."
+
+# game/code/e16/e16s01.rpy:500
+translate spanish e16s01_sex_79de7289:
+
+    # mc "Come here."
+    mc "Come here."
+
+# game/code/e16/e16s01.rpy:552
+translate spanish e16s01_sex_eb3d3767:
+
+    # mct "Fuck. She's getting so tight. She really loves it when she's just my pet to fuck and play with!"
+    mct "Fuck. She's getting so tight. She really loves it when she's just my pet to fuck and play with!"
+
+# game/code/e16/e16s01.rpy:600
+translate spanish e16s01_sex_4c88d238:
+
+    # jf "Yes. Come over here... I'm ready to go on another ride!"
+    jf "Yes. Come over here... I'm ready to go on another ride!"
+

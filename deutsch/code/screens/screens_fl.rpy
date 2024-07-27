@@ -221,3 +221,19 @@ translate deutsch strings:
     # game/code/screens/screens_fl.rpy:1263
     old "Skip Recap\nof Week-2"
     new "Zusammenfassung von\nWoche-2 überspringen"
+# TODO: Translation updated at 2024-07-27 20:51
+
+translate deutsch strings:
+
+    # game/code/screens/screens_fl.rpy:1307
+    old "Sync your saves using Ren'Py Sync server"
+    new "Sync your saves using Ren'Py Sync server"
+
+    # game/code/screens/screens_fl.rpy:1309
+    old "Upload Saves"
+    new "Upload Saves"
+
+    # game/code/screens/screens_fl.rpy:1310
+    old "Download Saves"
+    new "Download Saves"
+

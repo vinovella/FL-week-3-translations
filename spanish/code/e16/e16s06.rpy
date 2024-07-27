@@ -1278,3 +1278,29 @@ translate spanish strings:
     old "Three months later"
     new "Tres meses después"
 
+# TODO: Translation updated at 2024-07-27 20:56
+
+# game/code/e16/e16s06.rpy:361
+translate spanish e16s06_sex_ba37d53b:
+
+    # kk "Come on. You can go harder than that. I'm not a gentle little maiden, [mcname]."
+    kk "Come on. You can go harder than that. I'm not a gentle little maiden, [mcname]."
+
+# game/code/e16/e16s06.rpy:371
+translate spanish e16s06_sex_e8902fa0:
+
+    # mc "Mind if... never mind."
+    mc "Mind if... never mind."
+
+# game/code/e16/e16s06.rpy:455
+translate spanish e16s06_sex_6fa26231:
+
+    # mct "And Kristin might be the best yet!"
+    mct "And Kristin might be the best yet!"
+
+# game/code/e16/e16s06.rpy:480
+translate spanish e16s06_sex_4c2a54d1:
+
+    # kk "I hope my udders are to your liking, [mcname]."
+    kk "I hope my udders are to your liking, [mcname]."
+

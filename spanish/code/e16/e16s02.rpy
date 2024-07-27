@@ -994,3 +994,11 @@ translate spanish strings:
     old "After Jessie checks the website"
     new "Después de que Jessie revisa el sitio web"
 
+# TODO: Translation updated at 2024-07-27 20:56
+
+# game/code/e16/e16s02.rpy:399
+translate spanish e16s02_736fa6b5:
+
+    # rf "Like I said, I was surprised because obviously there has been some kind of mixup with my mother's will. The house and the farm belong to me."
+    rf "Like I said, I was surprised because obviously there has been some kind of mixup with my mother's will. The house and the farm belong to me."
+

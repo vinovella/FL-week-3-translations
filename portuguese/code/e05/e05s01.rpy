@@ -1882,3 +1882,29 @@ translate portuguese strings:
     old "Encourage Lyssa to take Oliver's virginity"
     new "Encorajar Lyssa a tirar a virgindade do Oliver"
 
+# TODO: Translation updated at 2024-07-27 20:57
+
+# game/code/e05/e05s01.rpy:434
+translate portuguese e05s01_7627ed9d:
+
+    # mc "How you pulled my cock out of your mouth, and covered youserlf in my warm, sticky cum. How {i}hot{/i} you looked, glazed in the reward from an incredible blowjob."
+    mc ""
+
+# game/code/e05/e05s01.rpy:858
+translate portuguese e05s01_mc_op_sex_7f5f2790:
+
+    # mc "And Lyssa, the way you're sucking my diccccck - Jeeeeyazzzusssss!"
+    mc ""
+
+# game/code/e05/e05s01.rpy:864
+translate portuguese e05s01_mc_op_sex_57d97c4a:
+
+    # op "Your ass is - {i}you{/i} are amazing, [mcname]!"
+    op ""
+
+# game/code/e05/e05s01.rpy:1191
+translate portuguese e05s01_sex_end_4592f61e:
+
+    # mc "Good, now if you'll excuse me, I was told I have something on my face I should wash off."
+    mc ""
+

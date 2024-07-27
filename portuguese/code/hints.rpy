@@ -1385,3 +1385,91 @@ translate portuguese strings:
     old "You don't eat the cum off Oliver's face."
     new ""
 
+# TODO: Translation updated at 2024-07-27 20:57
+
+translate portuguese strings:
+
+    # game/code/hints.rpy:5
+    old "Watch Gemma release on Stacy."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Gemma lets her enema go."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Drink some of Min's pee."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Don't drink Min's pee."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Stacy holds your dick while he pees."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Stacy gives you a rimjob while he pees."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Unlock more Male on Male content with Pete."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Locks Male on Male content with Pete."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Make Dahlia happy, and maybe she'll be nicer to you."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Agree to suck Pete's dick."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Avoid male on male content with Pete."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Be more confident with Samiya."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Let Samiya tease you."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Score some points with Samiya."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Agree that it would be good to get a bigger place."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Tell Samiya you'd love seeing her in the dress."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Samiya will be glad you care that much about her happiness."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Make Samiya say she wants to get fucked hard."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Ask her what is going on."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Unlock one more scene with male on male content."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Skip male on male content with Pete."
+    new ""
+

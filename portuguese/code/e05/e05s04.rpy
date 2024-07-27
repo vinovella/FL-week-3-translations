@@ -1390,3 +1390,23 @@ translate portuguese strings:
     old "Tell him he has something on his chin"
     new "Falar que ele tem algo no queixo"
 
+# TODO: Translation updated at 2024-07-27 20:57
+
+# game/code/e05/e05s04.rpy:205
+translate portuguese e05s04_659af4e7:
+
+    # mh "Do you want to look at the precedent set forth by {i}Tienda vs the State of Texas{/i}?"
+    mh ""
+
+# game/code/e05/e05s04.rpy:589
+translate portuguese e05s04_sex_12da81af:
+
+    # op "Just like you, Lyssa. I could never forget about [mcname]."
+    op ""
+
+# game/code/e05/e05s04.rpy:765
+translate portuguese e05s04_sex_eb6a1ba4:
+
+    # mh "Mmmm. You made a mess, Oliver."
+    mh ""
+

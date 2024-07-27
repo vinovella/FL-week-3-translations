@@ -1138,3 +1138,11 @@ translate spanish strings:
     old "Lick Molly's Armpit"
     new "Lamer la axila de Molly"
 
+# TODO: Translation updated at 2024-07-27 20:56
+
+# game/code/e16/e16s04.rpy:622
+translate spanish e16s04_sex_f1d18fba:
+
+    # mct "Okay that was definitely the word 'fuck'."
+    mct "Okay that was definitely the word 'fuck'."
+

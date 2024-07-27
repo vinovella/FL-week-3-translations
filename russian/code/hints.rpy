@@ -1337,3 +1337,115 @@ translate russian strings:
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
     new "Disappoint Lydia and be the loser."
+# TODO: Translation updated at 2024-07-27 20:55
+
+translate russian strings:
+
+    # game/code/hints.rpy:5
+    old "You take Oliver's anal virginity."
+    new "You take Oliver's anal virginity."
+
+    # game/code/hints.rpy:5
+    old "Lyssa takes Oliver's anal virginity."
+    new "Lyssa takes Oliver's anal virginity."
+
+    # game/code/hints.rpy:5
+    old "Oliver will felch out his own cum."
+    new "Oliver will felch out his own cum."
+
+    # game/code/hints.rpy:5
+    old "Oliver will lick up his own cum."
+    new "Oliver will lick up his own cum."
+
+    # game/code/hints.rpy:5
+    old "You eat the cum off Oliver's face."
+    new "You eat the cum off Oliver's face."
+
+    # game/code/hints.rpy:5
+    old "You don't eat the cum off Oliver's face."
+    new "You don't eat the cum off Oliver's face."
+
+    # game/code/hints.rpy:5
+    old "Watch Gemma release on Stacy."
+    new "Watch Gemma release on Stacy."
+
+    # game/code/hints.rpy:5
+    old "Gemma lets her enema go."
+    new "Gemma lets her enema go."
+
+    # game/code/hints.rpy:5
+    old "Drink some of Min's pee."
+    new "Drink some of Min's pee."
+
+    # game/code/hints.rpy:5
+    old "Don't drink Min's pee."
+    new "Don't drink Min's pee."
+
+    # game/code/hints.rpy:5
+    old "Stacy holds your dick while he pees."
+    new "Stacy holds your dick while he pees."
+
+    # game/code/hints.rpy:5
+    old "Stacy gives you a rimjob while he pees."
+    new "Stacy gives you a rimjob while he pees."
+
+    # game/code/hints.rpy:5
+    old "Unlock more Male on Male content with Pete."
+    new "Unlock more Male on Male content with Pete."
+
+    # game/code/hints.rpy:5
+    old "Locks Male on Male content with Pete."
+    new "Locks Male on Male content with Pete."
+
+    # game/code/hints.rpy:5
+    old "Make Dahlia happy, and maybe she'll be nicer to you."
+    new "Make Dahlia happy, and maybe she'll be nicer to you."
+
+    # game/code/hints.rpy:5
+    old "Agree to suck Pete's dick."
+    new "Agree to suck Pete's dick."
+
+    # game/code/hints.rpy:5
+    old "Avoid male on male content with Pete."
+    new "Avoid male on male content with Pete."
+
+    # game/code/hints.rpy:5
+    old "Be more confident with Samiya."
+    new "Be more confident with Samiya."
+
+    # game/code/hints.rpy:5
+    old "Let Samiya tease you."
+    new "Let Samiya tease you."
+
+    # game/code/hints.rpy:5
+    old "Score some points with Samiya."
+    new "Score some points with Samiya."
+
+    # game/code/hints.rpy:5
+    old "Agree that it would be good to get a bigger place."
+    new "Agree that it would be good to get a bigger place."
+
+    # game/code/hints.rpy:5
+    old "Tell Samiya you'd love seeing her in the dress."
+    new "Tell Samiya you'd love seeing her in the dress."
+
+    # game/code/hints.rpy:5
+    old "Samiya will be glad you care that much about her happiness."
+    new "Samiya will be glad you care that much about her happiness."
+
+    # game/code/hints.rpy:5
+    old "Make Samiya say she wants to get fucked hard."
+    new "Make Samiya say she wants to get fucked hard."
+
+    # game/code/hints.rpy:5
+    old "Ask her what is going on."
+    new "Ask her what is going on."
+
+    # game/code/hints.rpy:5
+    old "Unlock one more scene with male on male content."
+    new "Unlock one more scene with male on male content."
+
+    # game/code/hints.rpy:5
+    old "Skip male on male content with Pete."
+    new "Skip male on male content with Pete."
+

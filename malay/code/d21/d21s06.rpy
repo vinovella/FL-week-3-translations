@@ -1932,18 +1932,6 @@ translate malay d21s06_no_fl_6ec24262:
     # sy "Alright."
     sy "Baiklah."
 
-# game/code/d21/d21s06.rpy:854
-translate malay d21s06_no_fl_0772c775:
-
-    # arj "[mcname]. Do you want to come with me?"
-    arj "[mcname]. Aku nak ikut aku ke?"
-
-# game/code/d21/d21s06.rpy:856
-translate malay d21s06_no_fl_72d3767e:
-
-    # mc "Oh, I was hoping to talk to Stacy a little bit. Do you want me to walk you there?"
-    mc "Oh, aku berharap untuk bercakap dengan Stacy sedikit. Kau nak aku bawa kau ke sana?"
-
 # game/code/d21/d21s06.rpy:857
 translate malay d21s06_no_fl_db3325ec:
 
@@ -2130,42 +2118,6 @@ translate malay d21s06_waterfall_4e10ecd5:
     # arj "Well, if it's really quick."
     arj "Baiklah, kalau ia betul-betul cepat."
 
-# game/code/d21/d21s06.rpy:950
-translate malay d21s06_waterfall_fabbae7d:
-
-    # sy "So what did you want to talk about?"
-    sy "Jadi apa yang kau nak bincangkan?"
-
-# game/code/d21/d21s06.rpy:953
-translate malay d21s06_waterfall_3c70276f:
-
-    # mc "Since we were on the topic of starting a new business, I kinda had a proposal."
-    mc "Memandangkan kita dalam topik memulakan perniagaan baru, aku ada cadangan."
-
-# game/code/d21/d21s06.rpy:957
-translate malay d21s06_waterfall_a0ae5ef0:
-
-    # arj "I told you, I'm not interested in Fetish Locator!"
-    arj "Aku dah cakap, saya tak berminat dengan Fetish Locator!"
-
-# game/code/d21/d21s06.rpy:959
-translate malay d21s06_waterfall_301468b6:
-
-    # mc "It's not that, I swear."
-    mc "Bukan itu, aku sumpah."
-
-# game/code/d21/d21s06.rpy:962
-translate malay d21s06_waterfall_6c8a3e95:
-
-    # sy "And this business, what is it? Is it going to be here?"
-    sy "Dan perniagaan ini, apakah itu? Adakah ia akan berada di sini?"
-
-# game/code/d21/d21s06.rpy:965
-translate malay d21s06_waterfall_ea280ad5:
-
-    # mc "Not exactly. It's going to be in a completely different direction. East instead of west."
-    mc "Tak juga. Ia akan menuju ke arah yang sama sekali berbeza. Timur bukannya barat."
-
 # game/code/d21/d21s06.rpy:969
 translate malay d21s06_waterfall_7ef67f79:
 
@@ -2238,12 +2190,6 @@ translate malay d21s06_waterfall_6612d04c:
     # mes "You might have noticed that [mcname] and I are into that type of stuff."
     mes "Kau mungkin perasan yang [mcname] dan aku meminati jenis perkara itu."
 
-# game/code/d21/d21s06.rpy:1012
-translate malay d21s06_waterfall_eeb65300:
-
-    # sy "Yeah, the main event on your party was a big hint."
-    sy "Yeah, acara utama dalam parti kau adalah petunjuk besar."
-
 # game/code/d21/d21s06.rpy:1015
 translate malay d21s06_waterfall_7d45ad20:
 
@@ -2256,47 +2202,11 @@ translate malay d21s06_waterfall_ffe2788e:
     # mes "We were thinking about forming a wellness spa."
     mes "Kami sedang memikirkan tentang membentuk spa kesihatan."
 
-# game/code/d21/d21s06.rpy:1021
-translate malay d21s06_waterfall_a1e01b67:
-
-    # mes "You like squirting, right?"
-    mes "Kau suka memancut, kan?"
-
-# game/code/d21/d21s06.rpy:1023
-translate malay d21s06_waterfall_17c9a9d8:
-
-    # sy "Not as much as you, but yeah."
-    sy "Bukan macam kau, tapi yeah."
-
 # game/code/d21/d21s06.rpy:1025
 translate malay d21s06_waterfall_b11d2580:
 
     # mes "Before we go deeper, I want your opinion. Is this something that you really want to do, or not?"
     mes "Sebelum kita pergi lebih dalam, aku nak pendapat kau. Adakah ini sesuatu yang kau nak lakukan atau tak?"
-
-# game/code/d21/d21s06.rpy:1035
-translate malay d21s06_waterfall_d31e043e:
-
-    # sy "Is that what we're calling it?"
-    sy "Adakah itu yang kita panggil?"
-
-# game/code/d21/d21s06.rpy:1036
-translate malay d21s06_waterfall_2ece8a99:
-
-    # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
-    mes "Orang ramai mencari pengalaman yang akan memenuhi fantasi seksual mereka, dan kami berada di sini untuk memberikannya kepada mereka."
-
-# game/code/d21/d21s06.rpy:1038
-translate malay d21s06_waterfall_ebab741e:
-
-    # mc "At a spa?"
-    mc "Di spa?"
-
-# game/code/d21/d21s06.rpy:1039
-translate malay d21s06_waterfall_fdcf3625:
-
-    # mes "Yes."
-    mes "Ya."
 
 # game/code/d21/d21s06.rpy:1047
 translate malay d21s06_waterfall_9705fa57:
@@ -2394,24 +2304,6 @@ translate malay d21s06_wellness_spa_8519df16:
     # mes "Until they're satisfied."
     mes "Sehingga mereka berpuas hati."
 
-# game/code/d21/d21s06.rpy:1098
-translate malay d21s06_wellness_spa_a14fb21a:
-
-    # arj "How much?"
-    arj "Berapa banyak?"
-
-# game/code/d21/d21s06.rpy:1100
-translate malay d21s06_wellness_spa_da2002db:
-
-    # sy "Until they're satisfied, Min just told you."
-    sy "Sampai mereka puas hati, Min baru beritahu."
-
-# game/code/d21/d21s06.rpy:1102
-translate malay d21s06_wellness_spa_f308289e:
-
-    # arj "Right."
-    arj "Betul."
-
 # game/code/d21/d21s06.rpy:1106
 translate malay d21s06_wellness_spa_690198d9:
 
@@ -2435,60 +2327,6 @@ translate malay d21s06_wellness_spa_8da06c74:
 
     # mes "And much more."
     mes "Dan banyak lagi."
-
-# game/code/d21/d21s06.rpy:1113
-translate malay d21s06_wellness_spa_626aaba9:
-
-    # sy "Come one, come all; that sort of thing?"
-    sy "Datang satu, datang semua; perkara semacam itu?"
-
-# game/code/d21/d21s06.rpy:1114
-translate malay d21s06_wellness_spa_74b1c957:
-
-    # mes "It's all optional. People can pay to enjoy the vanilla spa experience."
-    mes "Semuanya pilihan. Orang ramai boleh membayar untuk menikmati pengalaman spa vanila."
-
-# game/code/d21/d21s06.rpy:1115
-translate malay d21s06_wellness_spa_c4ca3301:
-
-    # mes "They would have no idea what's going on next door."
-    mes "Mereka tak akan tahu apa yang berlaku di sebelah."
-
-# game/code/d21/d21s06.rpy:1119
-translate malay d21s06_wellness_spa_bea752a5:
-
-    # mes "You will only find out if you choose to fly with us."
-    mes "Kau hanya akan mengetahui kalau kau memilih untuk terbang bersama kami."
-
-# game/code/d21/d21s06.rpy:1120
-translate malay d21s06_wellness_spa_82dc0057:
-
-    # mes "A right amount of fun will be had by all. I came up with that slogan. What do you guys think?"
-    mes "Jumlah keseronokan yang betul akan dikecapi oleh semua. Aku mencipta slogan itu. Apa pendapat korang semua?"
-
-# game/code/d21/d21s06.rpy:1124
-translate malay d21s06_wellness_spa_3545488f:
-
-    # mc "It's a bit dry."
-    mc "Agak kering."
-
-# game/code/d21/d21s06.rpy:1125
-translate malay d21s06_wellness_spa_40d0b7e7:
-
-    # mes "That's the point, dry slogan, wet experience."
-    mes "Itulah maksudnya, slogan kering, pengalaman basah."
-
-# game/code/d21/d21s06.rpy:1126
-translate malay d21s06_wellness_spa_9c3827ac:
-
-    # mc "It's a little too... abstruse for our purposes, maybe?"
-    mc "Sedikit... musykil untuk tujuan kita, mungkin?"
-
-# game/code/d21/d21s06.rpy:1129
-translate malay d21s06_wellness_spa_907f9b61:
-
-    # arj "I like it?... contrasts with the non-traditional theme."
-    arj "Aku suka?... Berbeza dengan tema bukan tradisional."
 
 # game/code/d21/d21s06.rpy:1131
 translate malay d21s06_wellness_spa_5ea4823b:
@@ -2538,18 +2376,6 @@ translate malay d21s06_wellness_spa_8fbe034e:
     # mes "It was either that or the Squirt Spa. That one might have been too obvious."
     mes "Ia sama ada itu atau Spa Pancut. Itu mungkin terlalu jelas."
 
-# game/code/d21/d21s06.rpy:1152
-translate malay d21s06_wellness_spa_30f17f59:
-
-    # mes "If you have alternatives, you can think of some in the future."
-    mes "Kalau korang ada alternatif, korang boleh memikirkan beberapa pada masa hadapan."
-
-# game/code/d21/d21s06.rpy:1153
-translate malay d21s06_wellness_spa_20f6652d:
-
-    # mes "Right now is the pitching process."
-    mes "Sekarang adalah proses melontarkan idea."
-
 # game/code/d21/d21s06.rpy:1157
 translate malay d21s06_wellness_spa_ebbfb5a8:
 
@@ -2562,203 +2388,11 @@ translate malay d21s06_wellness_spa_08f69221:
     # mes "We can make it work with an injection of capital. We know some people on campus who accomplished something similar. Loans and such."
     mes "Kita boleh membuatnya berfungsi dengan suntikan modal. Kami mengenali beberapa orang di kampus yang mencapai sesuatu yang serupa. Pinjaman dan sebagainya."
 
-# game/code/d21/d21s06.rpy:1160
-translate malay d21s06_wellness_spa_936da8a3:
-
-    # arj "How's your credit score?"
-    arj "Macam mana dengan skor kredit kau?"
-
-# game/code/d21/d21s06.rpy:1162
-translate malay d21s06_wellness_spa_81c2261b:
-
-    # mc "Mine? I can't even find a place."
-    mc "Aku? Aku tak jumpa tempat pun."
-
-# game/code/d21/d21s06.rpy:1164
-translate malay d21s06_wellness_spa_41e3722b:
-
-    # arj "You did. But not you. I meant Min."
-    arj "Kau ada. Maksud aku, Min."
-
-# game/code/d21/d21s06.rpy:1168
-translate malay d21s06_wellness_spa_080a4b24:
-
-    # mes "My credit score? It's okay. But as I said, the investors will help big time. Might take some work, but securing funding isn't our main goal."
-    mes "Skor kredit aku? Tak mengapa. Tapi macam yang aku katakan, pelabur akan membantu. Mungkin mengambil sedikit kerja, tapi mendapatkan pembiayaan bukanlah matlamat utama kami."
-
-# game/code/d21/d21s06.rpy:1169
-translate malay d21s06_wellness_spa_20ebb525:
-
-    # mes "Our main goal is the spa."
-    mes "Matlamat utama kami ialah spa."
-
 # game/code/d21/d21s06.rpy:1173
 translate malay d21s06_wellness_spa_39ad58cf:
 
     # sy "Uh, sounds complicated."
     sy "Uh, kedengaran rumit."
-
-# game/code/d21/d21s06.rpy:1175
-translate malay d21s06_wellness_spa_5563f226:
-
-    # arj "It is."
-    arj "Ia adalah."
-
-# game/code/d21/d21s06.rpy:1177
-translate malay d21s06_wellness_spa_26ee5270:
-
-    # mc "To be honest, you guys are focusing on the wrong thing. It's less about the spa as a watersport-business."
-    mc "Sejujurnya, korang semua memberi tumpuan kepada perkara yang salah. Ia kurang mengenai spa sebagai perniagaan sukan air."
-
-# game/code/d21/d21s06.rpy:1178
-translate malay d21s06_wellness_spa_50bfa3fd:
-
-    # mc "More of an excuse to form a imperial Chinese harem."
-    mc "Lebih daripada alasan untuk membentuk harem Cina empayar."
-
-# game/code/d21/d21s06.rpy:1182
-translate malay d21s06_wellness_spa_378f0c06:
-
-    # mes "I'm Korean."
-    mes "Aku orang Korea."
-
-# game/code/d21/d21s06.rpy:1183
-translate malay d21s06_wellness_spa_5506f6cf:
-
-    # mc "I know, it's just what that structure is called."
-    mc "Aku tahu, itu hanya apa yang dipanggil strukturnya."
-    
-# game/code/d21/d21s06.rpy:1184
-translate malay d21s06_wellness_spa_14702122:
-
-    # mes "I thought harem is an Arabic word."
-    mes "Aku fikir harem adalah perkataan Arab."
-
-# game/code/d21/d21s06.rpy:1188
-translate malay d21s06_wellness_spa_54288f40:
-
-    # mc "It probably is but, uh..."
-    mc "Ianya mungkin, tapi, uh..."
-
-# game/code/d21/d21s06.rpy:1189
-translate malay d21s06_wellness_spa_23cdc614:
-
-    # mc "Nevermind, what was I saying?"
-    mc "Tak apalah, apa yang aku cakap tadi?"
-
-# game/code/d21/d21s06.rpy:1190
-translate malay d21s06_wellness_spa_c0683fe6:
-
-    # mes "You were bringing sex into a professional setting."
-    mes "Kau membawa seks ke dalam suasana profesional."
-
-# game/code/d21/d21s06.rpy:1191
-translate malay d21s06_wellness_spa_e1acbb60:
-
-    # mc "Isn't it about sex?"
-    mc "Bukan tentang seks?"
-
-# game/code/d21/d21s06.rpy:1192
-translate malay d21s06_wellness_spa_36a29d41:
-
-    # mes "No. The spa is professionally run. It will just have some extras."
-    mes "Tak. Spa ini dikendalikan secara profesional. Ia hanya akan mempunyai beberapa tambahan."
-    
-# game/code/d21/d21s06.rpy:1194
-translate malay d21s06_wellness_spa_e4b4e4a6:
-
-    # mc "Hey, we have harems here too."
-    mc "Hey, kami ada harem di sini juga."
-
-# game/code/d21/d21s06.rpy:1196
-translate malay d21s06_wellness_spa_d461c933:
-
-    # sy "You want to move somewhere?"
-    sy "Kau nak pindah tempat?"
-
-# game/code/d21/d21s06.rpy:1198
-translate malay d21s06_wellness_spa_1bf1e07c:
-
-    # mc "I'm not sure. Min, do you want to setup this business in Asia?"
-    mc "Aku tak pasti. Min, kau nak sediakan bisnes ini di Asia?"
-
-# game/code/d21/d21s06.rpy:1202
-translate malay d21s06_wellness_spa_b5098d8a:
-
-    # mes "No. They wouldn't allow spas of what we're proposing."
-    mes "Tak. Mereka tak akan benarkan spa apa yang kami cadangkan."
-
-# game/code/d21/d21s06.rpy:1206
-translate malay d21s06_wellness_spa_a31340dd:
-
-    # mc "Really?"
-    mc "Betul?"
-
-# game/code/d21/d21s06.rpy:1211
-translate malay d21s06_wellness_spa_2da98b91:
-
-    # mc "I didn't mean that."
-    mc "Aku tak bermaksud begitu."
-
-# game/code/d21/d21s06.rpy:1212
-translate malay d21s06_wellness_spa_93902784:
-
-    # mc "Alright, so it'll be around here somewhere. Somewhere legal."
-    mc "Baiklah, jadi ia akan berada di sekitar sini di suatu tempat. Di suatu tempat yang sah."
-
-# game/code/d21/d21s06.rpy:1214
-translate malay d21s06_wellness_spa_efefd519:
-
-    # sy "Who are the investors? If you don't mind me asking."
-    sy "Siapa pelaburnya? Kalau kau tak kisah aku tanya."
-
-# game/code/d21/d21s06.rpy:1218
-translate malay d21s06_wellness_spa_115dbcaf:
-
-    # mes "That we haven't decided. What we did decide on is who we're bringing along with this."
-    mes "Itu kami belum putuskan. Apa yang kami putuskan ialah siapa yang kami bawa bersama dengan ini."
-
-# game/code/d21/d21s06.rpy:1222
-translate malay d21s06_wellness_spa_7454332c:
-
-    # mc "Actually, we have a working list."
-    mc "Sebenarnya, kami ada senarai."
-
-# game/code/d21/d21s06.rpy:1223
-translate malay d21s06_wellness_spa_2cd4c788:
-
-    # mc "We just have to get them on board."
-    mc "Kita hanya perlu yakinkan mereka untuk sertai."
-
-# game/code/d21/d21s06.rpy:1227
-translate malay d21s06_wellness_spa_9bd64567:
-
-    # mes "I hope you have an idea. I'm going to drop out."
-    mes "Aku harap kau ada idea. Aku pergi dulu."
-
-# game/code/d21/d21s06.rpy:1236
-translate malay d21s06_wellness_spa_a437bdda:
-
-    # mes "Bye."
-    mes "Bye."
-
-# game/code/d21/d21s06.rpy:1241
-translate malay d21s06_wellness_spa_2924e892:
-
-    # sy "So you're really doing this?"
-    sy "Jadi kau betul-betul lakukan ini?"
-
-# game/code/d21/d21s06.rpy:1242
-translate malay d21s06_wellness_spa_85107a33:
-
-    # sy "I'll go with you if you're sure this is going to work. Because this is a serious life decision."
-    sy "Aku akan pergi dengan kau kalau kau pasti ini akan berjaya. Kerana ini adalah keputusan hidup yang serius."
-
-# game/code/d21/d21s06.rpy:1245
-translate malay d21s06_wellness_spa_4dc9a4dc:
-
-    # mc "I'm willing to try!"
-    mc "Aku sanggup cuba!"
 
 translate malay strings:
 
@@ -2785,3 +2419,65 @@ translate malay strings:
     # game/code/d21/d21s06.rpy:1028
     old "No, I have to give it more thought."
     new "Tidak, saya perlu memikirkannya."
+# TODO: Translation updated at 2024-07-27 20:54
+
+# game/code/d21/d21s06.rpy:997
+translate malay d21s06_waterfall_0992f61d:
+
+    # mc "Yes. I want to do this with you, Min."
+    mc "Yes. I want to do this with you, Min."
+
+# game/code/d21/d21s06.rpy:1052
+translate malay d21s06_wellness_spa_2ece8a99:
+
+    # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+    mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+
+# game/code/d21/d21s06.rpy:1093
+translate malay d21s06_wellness_spa_8a7edf54:
+
+    # mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+    mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+
+# game/code/d21/d21s06.rpy:1099
+translate malay d21s06_wellness_spa_699caa95:
+
+    # arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+    arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+
+# game/code/d21/d21s06.rpy:1100
+translate malay d21s06_wellness_spa_c425dcb9:
+
+    # arj "I need to finish college."
+    arj "I need to finish college."
+
+# game/code/d21/d21s06.rpy:1102
+translate malay d21s06_wellness_spa_43c9e2c9:
+
+    # mes "Understandable. But you're still in, right [mcname]?"
+    mes "Understandable. But you're still in, right [mcname]?"
+
+# game/code/d21/d21s06.rpy:1104
+translate malay d21s06_wellness_spa_5844ae44:
+
+    # mc "Hell yeah."
+    mc "Hell yeah."
+
+# game/code/d21/d21s06.rpy:1107
+translate malay d21s06_wellness_spa_591bfaae:
+
+    # mes "Excellent. Then I'm going to continue on the planning."
+    mes "Excellent. Then I'm going to continue on the planning."
+
+# game/code/d21/d21s06.rpy:1110
+translate malay d21s06_wellness_spa_dbcc212b:
+
+    # mes "You should come over and we can start working on the details."
+    mes "You should come over and we can start working on the details."
+
+# game/code/d21/d21s06.rpy:1111
+translate malay d21s06_wellness_spa_546d00c0:
+
+    # mc "I'll be right there."
+    mc "I'll be right there."
+

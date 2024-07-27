@@ -1326,3 +1326,23 @@ translate portuguese e05s06_sex_b85a48e2:
     # mh "Mmmkay..."
     mh "Tá booooom..."
 
+# TODO: Translation updated at 2024-07-27 20:57
+
+# game/code/e05/e05s06.rpy:190
+translate portuguese e05s06_57afd79d:
+
+    # mh "But, we should maybe hold off on the wedding bells talk. We don't need to give him any more reason to be nervous. Especially today."
+    mh ""
+
+# game/code/e05/e05s06.rpy:390
+translate portuguese e05s06_court_room_db2af079:
+
+    # op "We can also establish that this video was at least captured before posting, which would align with my client's, and the plaintiff's, timelines."
+    op ""
+
+# game/code/e05/e05s06.rpy:732
+translate portuguese e05s06_sex_d59042cb:
+
+    # mh "Deeper, [mcname], deeper! I want to {i}feel{/i} you tearing apart my ass!"
+    mh ""
+

@@ -1924,3 +1924,23 @@ translate portuguese strings:
     old "Let Oliver make his own decision"
     new "Deixar o Oliver decidir por conta própria"
 
+# TODO: Translation updated at 2024-07-27 20:57
+
+# game/code/e05/e05s02.rpy:109
+translate portuguese e05s02_a9f4d0a3:
+
+    # op "Taisia Lindquist. She was arrested last night on a charge of drunken disorderly and aggravated assault."
+    op ""
+
+# game/code/e05/e05s02.rpy:870
+translate portuguese e05s02_mh_takes_opanalvirginity_4d333980:
+
+    # mh "Good, because I feel the same! Your ass is unbelievably tight!"
+    mh ""
+
+# game/code/e05/e05s02.rpy:880
+translate portuguese e05s02_mh_takes_opanalvirginity_78343072:
+
+    # mh "But I think - mmmmmmpph - Between my dick buried in his tight ass, and your wonderful cock in my ass, that I'm the - fuuuuh - real winner!"
+    mh ""
+

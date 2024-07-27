@@ -1390,3 +1390,75 @@ translate turkish strings:
     old "Stacy gives [mcname] a rimjob while he pees."
     new "Stacy gives [mcname] a rimjob while he pees."
 
+# TODO: Translation updated at 2024-07-27 20:56
+
+translate turkish strings:
+
+    # game/code/hints.rpy:5
+    old "Stacy holds your dick while he pees."
+    new "Stacy holds your dick while he pees."
+
+    # game/code/hints.rpy:5
+    old "Stacy gives you a rimjob while he pees."
+    new "Stacy gives you a rimjob while he pees."
+
+    # game/code/hints.rpy:5
+    old "Unlock more Male on Male content with Pete."
+    new "Unlock more Male on Male content with Pete."
+
+    # game/code/hints.rpy:5
+    old "Locks Male on Male content with Pete."
+    new "Locks Male on Male content with Pete."
+
+    # game/code/hints.rpy:5
+    old "Make Dahlia happy, and maybe she'll be nicer to you."
+    new "Make Dahlia happy, and maybe she'll be nicer to you."
+
+    # game/code/hints.rpy:5
+    old "Agree to suck Pete's dick."
+    new "Agree to suck Pete's dick."
+
+    # game/code/hints.rpy:5
+    old "Avoid male on male content with Pete."
+    new "Avoid male on male content with Pete."
+
+    # game/code/hints.rpy:5
+    old "Be more confident with Samiya."
+    new "Be more confident with Samiya."
+
+    # game/code/hints.rpy:5
+    old "Let Samiya tease you."
+    new "Let Samiya tease you."
+
+    # game/code/hints.rpy:5
+    old "Score some points with Samiya."
+    new "Score some points with Samiya."
+
+    # game/code/hints.rpy:5
+    old "Agree that it would be good to get a bigger place."
+    new "Agree that it would be good to get a bigger place."
+
+    # game/code/hints.rpy:5
+    old "Tell Samiya you'd love seeing her in the dress."
+    new "Tell Samiya you'd love seeing her in the dress."
+
+    # game/code/hints.rpy:5
+    old "Samiya will be glad you care that much about her happiness."
+    new "Samiya will be glad you care that much about her happiness."
+
+    # game/code/hints.rpy:5
+    old "Make Samiya say she wants to get fucked hard."
+    new "Make Samiya say she wants to get fucked hard."
+
+    # game/code/hints.rpy:5
+    old "Ask her what is going on."
+    new "Ask her what is going on."
+
+    # game/code/hints.rpy:5
+    old "Unlock one more scene with male on male content."
+    new "Unlock one more scene with male on male content."
+
+    # game/code/hints.rpy:5
+    old "Skip male on male content with Pete."
+    new "Skip male on male content with Pete."
+

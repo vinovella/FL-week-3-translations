@@ -570,12 +570,6 @@ translate spanish d18s05_after_sex_d36f975d:
     # sb "I've been thinking about it for a bit now."
     sb "He estado pensando en ello durante un tiempo."
 
-# game/code/d18/extended/d18s05_ext.rpy:617
-translate spanish d18s05_after_sex_f26fa239:
-
-    # sb "I hate this place. It's a fucking concrete jungle. I've always wanted to get the hell out of here."
-    sb "Odio este lugar. Es una puta jungla de asfalto. Siempre he querido largarme de aquí."
-
 # game/code/d18/extended/d18s05_ext.rpy:618
 translate spanish d18s05_after_sex_7102ee2c:
 
@@ -715,4 +709,12 @@ translate spanish strings:
     # game/code/d18/extended/d18s05_ext.rpy:644
     old "No"
     new "No"
+
+# TODO: Translation updated at 2024-07-27 20:56
+
+# game/code/d18/extended/d18s05_ext.rpy:618
+translate spanish d18s05_after_sex_ec16ba99:
+
+    # sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
+    sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
 

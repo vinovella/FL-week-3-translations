@@ -1796,3 +1796,11 @@ translate spanish strings:
     old "You have finished playing Ending #05!"
     new "¡Has terminado de jugar al final n.° #05!"
 
+# TODO: Translation updated at 2024-07-27 20:56
+
+# game/code/e05/e05s07.rpy:208
+translate spanish e05s07_bar_0930b9cd:
+
+    # mh "In fact, most defense attorneys I know would have taken one look at her rap sheet and walked. Or agreed to that terrible plea deal and locked her up."
+    mh "In fact, most defense attorneys I know would have taken one look at her rap sheet and walked. Or agreed to that terrible plea deal and locked her up."
+

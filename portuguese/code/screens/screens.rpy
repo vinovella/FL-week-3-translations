@@ -370,3 +370,15 @@ translate portuguese strings:
     old "Connect Your Toy"
     new "Conecte Seu Brinquedo"
 
+# TODO: Translation updated at 2024-07-27 20:57
+
+translate portuguese strings:
+
+    # game/code/screens/screens.rpy:886
+    old "Ren'Py Save Sync"
+    new ""
+
+    # game/code/screens/screens.rpy:1056
+    old "Dialogue Box Opacity"
+    new ""
+

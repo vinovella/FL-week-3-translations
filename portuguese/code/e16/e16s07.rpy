@@ -1218,3 +1218,29 @@ translate portuguese strings:
     old "You have finished playing Ending #16!"
     new "Você concluiu o final #16!"
 
+# TODO: Translation updated at 2024-07-27 20:57
+
+# game/code/e16/e16s07.rpy:80
+translate portuguese e16s07_e95b86db:
+
+    # jf "Adamant."
+    jf ""
+
+# game/code/e16/e16s07.rpy:252
+translate portuguese e16s07_fc3e6a94:
+
+    # mc "We should have won in court anyhow. This way, we just saved a lot of time and money."
+    mc ""
+
+# game/code/e16/e16s07.rpy:314
+translate portuguese e16s07_sex_429eedb3:
+
+    # mc "You sure it's okay to have a little fun?"
+    mc ""
+
+# game/code/e16/e16s07.rpy:811
+translate portuguese e16s07_sex_ba643ad9:
+
+    # mc "No matter what happens, no matter how big this place gets, you know you'll always be my first duty."
+    mc ""
+

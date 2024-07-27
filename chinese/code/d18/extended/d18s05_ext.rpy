@@ -570,12 +570,6 @@ translate chinese d18s05_after_sex_d36f975d:
     # sb "I've been thinking about it for a bit now."
     sb "我已经考虑了一段时间了。"
 
-# game/code/d18/extended/d18s05_ext.rpy:583
-translate chinese d18s05_after_sex_f26fa239:
-
-    # sb "I hate this place. It's a fucking concrete jungle. I've always wanted to get the hell out of here."
-    sb "我讨厌这里。这他妈就是个水泥丛林。我一直都想离开这个鬼地方。"
-
 # game/code/d18/extended/d18s05_ext.rpy:584
 translate chinese d18s05_after_sex_7102ee2c:
 
@@ -709,4 +703,12 @@ translate chinese d18s05_after_sex_511784d8:
 
     # dw "Good luck! I actually hope it works out for you guys!"
     dw ""
+
+# TODO: Translation updated at 2024-07-27 20:47
+
+# game/code/d18/extended/d18s05_ext.rpy:618
+translate chinese d18s05_after_sex_ec16ba99:
+
+    # sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
+    sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
 

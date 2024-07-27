@@ -1932,18 +1932,6 @@ translate chinese d21s06_no_fl_6ec24262:
     # sy "Alright."
     sy "好吧。"
 
-# game/code/d21/d21s06.rpy:579
-translate chinese d21s06_no_fl_0772c775:
-
-    # arj "[mcname]. Do you want to come with me?"
-    arj "[mcname]，你想和我一起吗？"
-
-# game/code/d21/d21s06.rpy:580
-translate chinese d21s06_no_fl_72d3767e:
-
-    # mc "Oh, I was hoping to talk to Stacy a little bit. Do you want me to walk you there?"
-    mc "哦，我想和史黛西谈谈来着。你要我送你去吗？"
-
 # game/code/d21/d21s06.rpy:581
 translate chinese d21s06_no_fl_db3325ec:
 
@@ -2130,42 +2118,6 @@ translate chinese d21s06_waterfall_4e10ecd5:
     # arj "Well, if it's really quick."
     arj "嗯，如果它真的很快的话。"
 
-# game/code/d21/d21s06.rpy:643
-translate chinese d21s06_waterfall_fabbae7d:
-
-    # sy "So what did you want to talk about?"
-    sy "你想谈什么？"
-
-# game/code/d21/d21s06.rpy:645
-translate chinese d21s06_waterfall_3c70276f:
-
-    # mc "Since we were on the topic of starting a new business, I kinda had a proposal."
-    mc "既然我们的话题是创业，我还真有个提议。"
-
-# game/code/d21/d21s06.rpy:647
-translate chinese d21s06_waterfall_a0ae5ef0:
-
-    # arj "I told you, I'm not interested in Fetish Locator!"
-    arj "我说过了，我对性趣探测器不感兴趣！"
-
-# game/code/d21/d21s06.rpy:648
-translate chinese d21s06_waterfall_301468b6:
-
-    # mc "It's not that, I swear."
-    mc "不是那个，我发誓。"
-
-# game/code/d21/d21s06.rpy:650
-translate chinese d21s06_waterfall_6c8a3e95:
-
-    # sy "And this business, what is it? Is it going to be here?"
-    sy "那你说的这个生意，是什么？业务在这里吗？"
-
-# game/code/d21/d21s06.rpy:652
-translate chinese d21s06_waterfall_ea280ad5:
-
-    # mc "Not exactly. It's going to be in a completely different direction. East instead of west."
-    mc "不完全是。将会在一个完全不同的方向。东方而不是西方。"
-
 # game/code/d21/d21s06.rpy:654
 translate chinese d21s06_waterfall_7ef67f79:
 
@@ -2238,12 +2190,6 @@ translate chinese d21s06_waterfall_6612d04c:
     # mes "You might have noticed that [mcname] and I are into that type of stuff."
     mes "你可能已经注意到，[mcname]和我都很喜欢这种类型的东西。"
 
-# game/code/d21/d21s06.rpy:675
-translate chinese d21s06_waterfall_eeb65300:
-
-    # sy "Yeah, the main event on your party was a big hint."
-    sy "嗯，之前你们聚会上的主活动就是一个很大的暗示。"
-
 # game/code/d21/d21s06.rpy:677
 translate chinese d21s06_waterfall_7d45ad20:
 
@@ -2256,47 +2202,11 @@ translate chinese d21s06_waterfall_ffe2788e:
     # mes "We were thinking about forming a wellness spa."
     mes "我们在考虑组建一个健康水疗中心。"
 
-# game/code/d21/d21s06.rpy:680
-translate chinese d21s06_waterfall_a1e01b67:
-
-    # mes "You like squirting, right?"
-    mes "你喜欢潮吹，对吗？"
-
-# game/code/d21/d21s06.rpy:681
-translate chinese d21s06_waterfall_17c9a9d8:
-
-    # sy "Not as much as you, but yeah."
-    sy "没你那么喜欢。"
-
 # game/code/d21/d21s06.rpy:682
 translate chinese d21s06_waterfall_b11d2580:
 
     # mes "Before we go deeper, I want your opinion. Is this something that you really want to do, or not?"
     mes "在我们深入讨论之前，我想听听你的意见。这是你真正想做的事吗？"
-
-# game/code/d21/d21s06.rpy:690
-translate chinese d21s06_waterfall_d31e043e:
-
-    # sy "Is that what we're calling it?"
-    sy "我们是这么称呼它的吗？"
-
-# game/code/d21/d21s06.rpy:691
-translate chinese d21s06_waterfall_2ece8a99:
-
-    # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
-    mes "人们在寻找一种能满足他们性幻想的体验，而我们就是来为他们提供这种体验的。"
-
-# game/code/d21/d21s06.rpy:692
-translate chinese d21s06_waterfall_ebab741e:
-
-    # mc "At a spa?"
-    mc "在水疗中心？"
-
-# game/code/d21/d21s06.rpy:693
-translate chinese d21s06_waterfall_fdcf3625:
-
-    # mes "Yes."
-    mes "对。"
 
 # game/code/d21/d21s06.rpy:700
 translate chinese d21s06_waterfall_9705fa57:
@@ -2394,24 +2304,6 @@ translate chinese d21s06_wellness_spa_8519df16:
     # mes "Until they're satisfied."
     mes "直到他们满意为止。"
 
-# game/code/d21/d21s06.rpy:734
-translate chinese d21s06_wellness_spa_a14fb21a:
-
-    # arj "How much?"
-    arj "具体什么服务？"
-
-# game/code/d21/d21s06.rpy:735
-translate chinese d21s06_wellness_spa_da2002db:
-
-    # sy "Until they're satisfied, Min just told you."
-    sy "直到他们满意为止，明刚告诉你。"
-
-# game/code/d21/d21s06.rpy:736
-translate chinese d21s06_wellness_spa_f308289e:
-
-    # arj "Right."
-    arj "对。"
-
 # game/code/d21/d21s06.rpy:738
 translate chinese d21s06_wellness_spa_690198d9:
 
@@ -2435,60 +2327,6 @@ translate chinese d21s06_wellness_spa_8da06c74:
 
     # mes "And much more."
     mes "还不止呢。"
-
-# game/code/d21/d21s06.rpy:743
-translate chinese d21s06_wellness_spa_626aaba9:
-
-    # sy "Come one, come all; that sort of thing?"
-    sy "好酒不怕巷子深；我们靠口碑宣传？"
-
-# game/code/d21/d21s06.rpy:744
-translate chinese d21s06_wellness_spa_74b1c957:
-
-    # mes "It's all optional. People can pay to enjoy the vanilla spa experience."
-    mes "都可以啊。人们可以付费享受香草式的水疗体验。"
-
-# game/code/d21/d21s06.rpy:745
-translate chinese d21s06_wellness_spa_c4ca3301:
-
-    # mes "They would have no idea what's going on next door."
-    mes "他们根本不知道隔壁发生了什么。"
-
-# game/code/d21/d21s06.rpy:747
-translate chinese d21s06_wellness_spa_bea752a5:
-
-    # mes "You will only find out if you choose to fly with us."
-    mes "只有当你选择和我们一起体验时，才会发现。"
-
-# game/code/d21/d21s06.rpy:748
-translate chinese d21s06_wellness_spa_82dc0057:
-
-    # mes "A right amount of fun will be had by all. I came up with that slogan. What do you guys think?"
-    mes "所有人都会找到乐子。这个口号是我想出来的。你们觉得怎么样？"
-
-# game/code/d21/d21s06.rpy:750
-translate chinese d21s06_wellness_spa_3545488f:
-
-    # mc "It's a bit dry."
-    mc "有点干巴巴的。"
-
-# game/code/d21/d21s06.rpy:751
-translate chinese d21s06_wellness_spa_40d0b7e7:
-
-    # mes "That's the point, dry slogan, wet experience."
-    mes "这就是重点，干巴巴的口号，爽到飞起的水疗体验。"
-
-# game/code/d21/d21s06.rpy:752
-translate chinese d21s06_wellness_spa_9c3827ac:
-
-    # mc "It's a little too... abstruse for our purposes, maybe?"
-    mc "相比于我们的目的，这口号是不是有点，太...深奥了？"
-
-# game/code/d21/d21s06.rpy:754
-translate chinese d21s06_wellness_spa_907f9b61:
-
-    # arj "I like it?... contrasts with the non-traditional theme."
-    arj "我喜欢？...与非传统主题形成鲜明对比。"
 
 # game/code/d21/d21s06.rpy:755
 translate chinese d21s06_wellness_spa_5ea4823b:
@@ -2538,18 +2376,6 @@ translate chinese d21s06_wellness_spa_8fbe034e:
     # mes "It was either that or the Squirt Spa. That one might have been too obvious."
     mes "要么这个，要么是喷疗中心。那个可能太明显了。"
 
-# game/code/d21/d21s06.rpy:766
-translate chinese d21s06_wellness_spa_30f17f59:
-
-    # mes "If you have alternatives, you can think of some in the future."
-    mes "如果有替代选择，你可以在将来再想几个。"
-
-# game/code/d21/d21s06.rpy:767
-translate chinese d21s06_wellness_spa_20f6652d:
-
-    # mes "Right now is the pitching process."
-    mes "现在大家只是讨论。"
-
 # game/code/d21/d21s06.rpy:769
 translate chinese d21s06_wellness_spa_ebbfb5a8:
 
@@ -2562,203 +2388,11 @@ translate chinese d21s06_wellness_spa_08f69221:
     # mes "We can make it work with an injection of capital. We know some people on campus who accomplished something similar. Loans and such."
     mes "可以通过注资让它运转起来。我们在校园里认识的有些人，他们也做了类似的事。贷款之类的。"
 
-# game/code/d21/d21s06.rpy:771
-translate chinese d21s06_wellness_spa_936da8a3:
-
-    # arj "How's your credit score?"
-    arj "你的信用评分怎么样？"
-
-# game/code/d21/d21s06.rpy:772
-translate chinese d21s06_wellness_spa_81c2261b:
-
-    # mc "Mine? I can't even find a place."
-    mc "问我？我连住的地方都找不到。"
-
-# game/code/d21/d21s06.rpy:773
-translate chinese d21s06_wellness_spa_41e3722b:
-
-    # arj "You did. But not you. I meant Min."
-    arj "确实。但我不是问你。我是问明。"
-
-# game/code/d21/d21s06.rpy:775
-translate chinese d21s06_wellness_spa_080a4b24:
-
-    # mes "My credit score? It's okay. But as I said, the investors will help big time. Might take some work, but securing funding isn't our main goal."
-    mes "我的信用评分？还可以。但就像我说的，投资者会帮上大忙。可能要费点力，但获得资金并不是我们的主要目标。"
-
-# game/code/d21/d21s06.rpy:776
-translate chinese d21s06_wellness_spa_20ebb525:
-
-    # mes "Our main goal is the spa."
-    mes "我们的主要目标是温泉。"
-
 # game/code/d21/d21s06.rpy:778
 translate chinese d21s06_wellness_spa_39ad58cf:
 
     # sy "Uh, sounds complicated."
     sy "呃，听起来很复杂。"
-
-# game/code/d21/d21s06.rpy:779
-translate chinese d21s06_wellness_spa_5563f226:
-
-    # arj "It is."
-    arj "是的。"
-
-# game/code/d21/d21s06.rpy:780
-translate chinese d21s06_wellness_spa_26ee5270:
-
-    # mc "To be honest, you guys are focusing on the wrong thing. It's less about the spa as a watersport-business."
-    mc "说实话，你们关注错了。与其说水疗中心是一项水上运动业务。"
-
-# game/code/d21/d21s06.rpy:781
-translate chinese d21s06_wellness_spa_50bfa3fd:
-
-    # mc "More of an excuse to form a imperial Chinese harem."
-    mc "倒更像是一个组建中国皇室后宫的借口。"
-
-# game/code/d21/d21s06.rpy:783
-translate chinese d21s06_wellness_spa_378f0c06:
-
-    # mes "I'm Korean."
-    mes "我是韩国人。"
-
-# game/code/d21/d21s06.rpy:784
-translate chinese d21s06_wellness_spa_5506f6cf:
-
-    # mc "I know, it's just what that structure is called."
-    mc "我知道，只是按中国的说法就这么叫。"
-
-# game/code/d21/d21s06.rpy:785
-translate chinese d21s06_wellness_spa_14702122:
-
-    # mes "I thought harem is an Arabic word."
-    mes "我以为后宫是个阿拉伯语单词。"
-
-# game/code/d21/d21s06.rpy:787
-translate chinese d21s06_wellness_spa_54288f40:
-
-    # mc "It probably is but, uh..."
-    mc "可能是，但是，呃..."
-
-# game/code/d21/d21s06.rpy:788
-translate chinese d21s06_wellness_spa_23cdc614:
-
-    # mc "Nevermind, what was I saying?"
-    mc "算了吧，我刚才说什么了？"
-
-# game/code/d21/d21s06.rpy:789
-translate chinese d21s06_wellness_spa_c0683fe6:
-
-    # mes "You were bringing sex into a professional setting."
-    mes "你把性提升到了专业的词汇。"
-
-# game/code/d21/d21s06.rpy:790
-translate chinese d21s06_wellness_spa_e1acbb60:
-
-    # mc "Isn't it about sex?"
-    mc "不是关于性的吗？"
-
-# game/code/d21/d21s06.rpy:791
-translate chinese d21s06_wellness_spa_36a29d41:
-
-    # mes "No. The spa is professionally run. It will just have some extras."
-    mes "不是，水疗中心是专业经营。它只是会有一些额外功能。"
-
-# game/code/d21/d21s06.rpy:792
-translate chinese d21s06_wellness_spa_e4b4e4a6:
-
-    # mc "Hey, we have harems here too."
-    mc "嘿，我们这里也有后宫。"
-
-# game/code/d21/d21s06.rpy:793
-translate chinese d21s06_wellness_spa_d461c933:
-
-    # sy "You want to move somewhere?"
-    sy "你想搬到别的地方吗？"
-
-# game/code/d21/d21s06.rpy:794
-translate chinese d21s06_wellness_spa_1bf1e07c:
-
-    # mc "I'm not sure. Min, do you want to setup this business in Asia?"
-    mc "我不确定。明，你想在亚洲开展业务吗？"
-
-# game/code/d21/d21s06.rpy:796
-translate chinese d21s06_wellness_spa_b5098d8a:
-
-    # mes "No. They wouldn't allow spas of what we're proposing."
-    mes "不，我们所提议的水疗中心在亚洲不会被通过的。"
-
-# game/code/d21/d21s06.rpy:798
-translate chinese d21s06_wellness_spa_a31340dd:
-
-    # mc "Really?"
-    mc "真的吗？"
-
-# game/code/d21/d21s06.rpy:800
-translate chinese d21s06_wellness_spa_2da98b91:
-
-    # mc "I didn't mean that."
-    mc "我不是这个意思。"
-
-# game/code/d21/d21s06.rpy:801
-translate chinese d21s06_wellness_spa_93902784:
-
-    # mc "Alright, so it'll be around here somewhere. Somewhere legal."
-    mc "好吧，那就在这附近的某个地方开展业务。在一个合法的地方。"
-
-# game/code/d21/d21s06.rpy:802
-translate chinese d21s06_wellness_spa_efefd519:
-
-    # sy "Who are the investors? If you don't mind me asking."
-    sy "投资人是谁？如果你不介意我问的话。"
-
-# game/code/d21/d21s06.rpy:804
-translate chinese d21s06_wellness_spa_115dbcaf:
-
-    # mes "That we haven't decided. What we did decide on is who we're bringing along with this."
-    mes "这个我们还没有决定。我们所决定的是要带谁来。"
-
-# game/code/d21/d21s06.rpy:806
-translate chinese d21s06_wellness_spa_7454332c:
-
-    # mc "Actually, we have a working list."
-    mc "实际上，我们有个目标清单。"
-
-# game/code/d21/d21s06.rpy:807
-translate chinese d21s06_wellness_spa_2cd4c788:
-
-    # mc "We just have to get them on board."
-    mc "只要让他们同意加入进来就行了。"
-
-# game/code/d21/d21s06.rpy:809
-translate chinese d21s06_wellness_spa_9bd64567:
-
-    # mes "I hope you have an idea. I'm going to drop out."
-    mes "希望你有想法了。我要先挂了。"
-
-# game/code/d21/d21s06.rpy:817
-translate chinese d21s06_wellness_spa_a437bdda:
-
-    # mes "Bye."
-    mes "再见。"
-
-# game/code/d21/d21s06.rpy:819
-translate chinese d21s06_wellness_spa_2924e892:
-
-    # sy "So you're really doing this?"
-    sy "所以你真的要做这个？"
-
-# game/code/d21/d21s06.rpy:820
-translate chinese d21s06_wellness_spa_85107a33:
-
-    # sy "I'll go with you if you're sure this is going to work. Because this is a serious life decision."
-    sy "如果你确定这能行，我就和你一起去。因为这是个严肃的人生决定。"
-
-# game/code/d21/d21s06.rpy:822
-translate chinese d21s06_wellness_spa_4dc9a4dc:
-
-    # mc "I'm willing to try!"
-    mc "我愿意试试看！"
 
 translate chinese strings:
 
@@ -2785,3 +2419,65 @@ translate chinese strings:
     # game/code/d21/d21s06.rpy:685
     old "No, I have to give it more thought."
     new "不，我得再考虑一下。"
+# TODO: Translation updated at 2024-07-27 20:47
+
+# game/code/d21/d21s06.rpy:997
+translate chinese d21s06_waterfall_0992f61d:
+
+    # mc "Yes. I want to do this with you, Min."
+    mc "Yes. I want to do this with you, Min."
+
+# game/code/d21/d21s06.rpy:1052
+translate chinese d21s06_wellness_spa_2ece8a99:
+
+    # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+    mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+
+# game/code/d21/d21s06.rpy:1093
+translate chinese d21s06_wellness_spa_8a7edf54:
+
+    # mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+    mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+
+# game/code/d21/d21s06.rpy:1099
+translate chinese d21s06_wellness_spa_699caa95:
+
+    # arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+    arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+
+# game/code/d21/d21s06.rpy:1100
+translate chinese d21s06_wellness_spa_c425dcb9:
+
+    # arj "I need to finish college."
+    arj "I need to finish college."
+
+# game/code/d21/d21s06.rpy:1102
+translate chinese d21s06_wellness_spa_43c9e2c9:
+
+    # mes "Understandable. But you're still in, right [mcname]?"
+    mes "Understandable. But you're still in, right [mcname]?"
+
+# game/code/d21/d21s06.rpy:1104
+translate chinese d21s06_wellness_spa_5844ae44:
+
+    # mc "Hell yeah."
+    mc "Hell yeah."
+
+# game/code/d21/d21s06.rpy:1107
+translate chinese d21s06_wellness_spa_591bfaae:
+
+    # mes "Excellent. Then I'm going to continue on the planning."
+    mes "Excellent. Then I'm going to continue on the planning."
+
+# game/code/d21/d21s06.rpy:1110
+translate chinese d21s06_wellness_spa_dbcc212b:
+
+    # mes "You should come over and we can start working on the details."
+    mes "You should come over and we can start working on the details."
+
+# game/code/d21/d21s06.rpy:1111
+translate chinese d21s06_wellness_spa_546d00c0:
+
+    # mc "I'll be right there."
+    mc "I'll be right there."
+

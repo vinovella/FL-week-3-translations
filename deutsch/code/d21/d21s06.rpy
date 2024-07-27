@@ -1932,18 +1932,6 @@ translate deutsch d21s06_no_fl_6ec24262:
     # sy "Alright."
     sy "In Ordnung."
 
-# game/code/d21/d21s06.rpy:854
-translate deutsch d21s06_no_fl_0772c775:
-
-    # arj "[mcname]. Do you want to come with me?"
-    arj "[mcname]. Möchtest du mitkommen?"
-
-# game/code/d21/d21s06.rpy:856
-translate deutsch d21s06_no_fl_72d3767e:
-
-    # mc "Oh, I was hoping to talk to Stacy a little bit. Do you want me to walk you there?"
-    mc "Oh, ich wollte noch ein wenig mit Stacy reden. Soll ich dich hinbringen?"
-
 # game/code/d21/d21s06.rpy:857
 translate deutsch d21s06_no_fl_db3325ec:
 
@@ -2130,42 +2118,6 @@ translate deutsch d21s06_waterfall_4e10ecd5:
     # arj "Well, if it's really quick."
     arj "Nun, wenn es wirklich schnell geht."
 
-# game/code/d21/d21s06.rpy:950
-translate deutsch d21s06_waterfall_fabbae7d:
-
-    # sy "So what did you want to talk about?"
-    sy "Also, worüber wolltest du sprechen?"
-
-# game/code/d21/d21s06.rpy:953
-translate deutsch d21s06_waterfall_3c70276f:
-
-    # mc "Since we were on the topic of starting a new business, I kinda had a proposal."
-    mc "Da wir bereits über die Gründung eines neuen Unternehmens gesprochen haben, hätte ich einen Vorschlag."
-
-# game/code/d21/d21s06.rpy:957
-translate deutsch d21s06_waterfall_a0ae5ef0:
-
-    # arj "I told you, I'm not interested in Fetish Locator!"
-    arj "Ich habe dir gesagt, ich bin nicht an Fetish Locator interessiert!"
-
-# game/code/d21/d21s06.rpy:959
-translate deutsch d21s06_waterfall_301468b6:
-
-    # mc "It's not that, I swear."
-    mc "Es geht nicht darum, das schwöre ich."
-
-# game/code/d21/d21s06.rpy:962
-translate deutsch d21s06_waterfall_6c8a3e95:
-
-    # sy "And this business, what is it? Is it going to be here?"
-    sy "Und dieses Geschäft, was ist es? Wird es hier sein?"
-
-# game/code/d21/d21s06.rpy:965
-translate deutsch d21s06_waterfall_ea280ad5:
-
-    # mc "Not exactly. It's going to be in a completely different direction. East instead of west."
-    mc "Nicht direkt. Es wird in eine völlig andere Richtung gehen. Ost statt West."
-
 # game/code/d21/d21s06.rpy:969
 translate deutsch d21s06_waterfall_7ef67f79:
 
@@ -2238,12 +2190,6 @@ translate deutsch d21s06_waterfall_6612d04c:
     # mes "You might have noticed that [mcname] and I are into that type of stuff."
     mes "Du hast vielleicht bemerkt, dass [mcname] und ich auf diese Art von Dinge stehen."
 
-# game/code/d21/d21s06.rpy:1013
-translate deutsch d21s06_waterfall_eeb65300:
-
-    # sy "Yeah, the main event on your party was a big hint."
-    sy "Ja, das Hauptevent auf deiner Party war ein Hinweis."
-
 # game/code/d21/d21s06.rpy:1016
 translate deutsch d21s06_waterfall_7d45ad20:
 
@@ -2256,47 +2202,11 @@ translate deutsch d21s06_waterfall_ffe2788e:
     # mes "We were thinking about forming a wellness spa."
     mes "Wir haben daran gedacht, einen Wellness-Spa zu eröffnen."
 
-# game/code/d21/d21s06.rpy:1022
-translate deutsch d21s06_waterfall_a1e01b67:
-
-    # mes "You like squirting, right?"
-    mes "Du spritzt doch gern, oder?"
-
-# game/code/d21/d21s06.rpy:1024
-translate deutsch d21s06_waterfall_17c9a9d8:
-
-    # sy "Not as much as you, but yeah."
-    sy "Nicht so sehr wie du, aber ja."
-
 # game/code/d21/d21s06.rpy:1026
 translate deutsch d21s06_waterfall_b11d2580:
 
     # mes "Before we go deeper, I want your opinion. Is this something that you really want to do, or not?"
     mes "Bevor wir tiefer gehen, möchte ich deine Meinung hören. Ist das etwas, das du wirklich tun möchtest, oder nicht?"
-
-# game/code/d21/d21s06.rpy:1036
-translate deutsch d21s06_waterfall_d31e043e:
-
-    # sy "Is that what we're calling it?"
-    sy "Ist das, wie wir es nennen?"
-
-# game/code/d21/d21s06.rpy:1037
-translate deutsch d21s06_waterfall_2ece8a99:
-
-    # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
-    mes "Menschen suchen nach einer Erfahrung, die ihre sexuellen Fantasien erfüllt, und wir sind hier, um sie ihnen zu bieten."
-
-# game/code/d21/d21s06.rpy:1039
-translate deutsch d21s06_waterfall_ebab741e:
-
-    # mc "At a spa?"
-    mc "In einem Wellness-Spa?"
-
-# game/code/d21/d21s06.rpy:1040
-translate deutsch d21s06_waterfall_fdcf3625:
-
-    # mes "Yes."
-    mes "Ja."
 
 # game/code/d21/d21s06.rpy:1049
 translate deutsch d21s06_waterfall_9705fa57:
@@ -2394,24 +2304,6 @@ translate deutsch d21s06_wellness_spa_8519df16:
     # mes "Until they're satisfied."
     mes "Bis sie zufrieden sind."
 
-# game/code/d21/d21s06.rpy:1100
-translate deutsch d21s06_wellness_spa_a14fb21a:
-
-    # arj "How much?"
-    arj "Wie viel?"
-
-# game/code/d21/d21s06.rpy:1102
-translate deutsch d21s06_wellness_spa_da2002db:
-
-    # sy "Until they're satisfied, Min just told you."
-    sy "Bis sie zufrieden sind. Hat Min doch gerade gesagt."
-
-# game/code/d21/d21s06.rpy:1104
-translate deutsch d21s06_wellness_spa_f308289e:
-
-    # arj "Right."
-    arj "Richtig."
-
 # game/code/d21/d21s06.rpy:1108
 translate deutsch d21s06_wellness_spa_690198d9:
 
@@ -2435,60 +2327,6 @@ translate deutsch d21s06_wellness_spa_8da06c74:
 
     # mes "And much more."
     mes "Und vieles mehr."
-
-# game/code/d21/d21s06.rpy:1115
-translate deutsch d21s06_wellness_spa_626aaba9:
-
-    # sy "Come one, come all; that sort of thing?"
-    sy "Kommt einer, kommen alle. So etwas?"
-
-# game/code/d21/d21s06.rpy:1116
-translate deutsch d21s06_wellness_spa_74b1c957:
-
-    # mes "It's all optional. People can pay to enjoy the vanilla spa experience."
-    mes "Alles ist optional. Die Leute können bezahlen, um das traditionelle Spa-Erlebnis zu genießen."
-
-# game/code/d21/d21s06.rpy:1117
-translate deutsch d21s06_wellness_spa_c4ca3301:
-
-    # mes "They would have no idea what's going on next door."
-    mes "Sie hätten keine Ahnung, was nebenan passiert."
-
-# game/code/d21/d21s06.rpy:1121
-translate deutsch d21s06_wellness_spa_bea752a5:
-
-    # mes "You will only find out if you choose to fly with us."
-    mes "Du wirst es nur herausfinden, wenn du dich entscheidest, mit uns zu gehen."
-
-# game/code/d21/d21s06.rpy:1122
-translate deutsch d21s06_wellness_spa_82dc0057:
-
-    # mes "A right amount of fun will be had by all. I came up with that slogan. What do you guys think?"
-    mes "Jeder wird eine angemessene Menge an Spaß haben. Den Slogan habe ich mir ausgedacht. Was denkt ihr?"
-
-# game/code/d21/d21s06.rpy:1126
-translate deutsch d21s06_wellness_spa_3545488f:
-
-    # mc "It's a bit dry."
-    mc "Es ist etwas trocken."
-
-# game/code/d21/d21s06.rpy:1127
-translate deutsch d21s06_wellness_spa_40d0b7e7:
-
-    # mes "That's the point, dry slogan, wet experience."
-    mes "Das ist der Punkt, trockener Slogan, feuchtes Erlebnis."
-
-# game/code/d21/d21s06.rpy:1128
-translate deutsch d21s06_wellness_spa_9c3827ac:
-
-    # mc "It's a little too... abstruse for our purposes, maybe?"
-    mc "Es ist ein wenig zu... abstrus für unsere Zwecke, denkst du nicht?"
-
-# game/code/d21/d21s06.rpy:1131
-translate deutsch d21s06_wellness_spa_907f9b61:
-
-    # arj "I like it?... contrasts with the non-traditional theme."
-    arj "Ich mag es?... kontrastiert mit dem nicht-traditionellen Thema."
 
 # game/code/d21/d21s06.rpy:1133
 translate deutsch d21s06_wellness_spa_5ea4823b:
@@ -2538,18 +2376,6 @@ translate deutsch d21s06_wellness_spa_8fbe034e:
     # mes "It was either that or the Squirt Spa. That one might have been too obvious."
     mes "Entweder das oder das Spritz Spa. Das ist vielleicht zu offensichtlich."
 
-# game/code/d21/d21s06.rpy:1154
-translate deutsch d21s06_wellness_spa_30f17f59:
-
-    # mes "If you have alternatives, you can think of some in the future."
-    mes "Wenn du Alternativen hast, kannst du in Zukunft noch welche vorbringen."
-
-# game/code/d21/d21s06.rpy:1155
-translate deutsch d21s06_wellness_spa_20f6652d:
-
-    # mes "Right now is the pitching process."
-    mes "Jetzt ist gerade die Präsentation."
-
 # game/code/d21/d21s06.rpy:1159
 translate deutsch d21s06_wellness_spa_ebbfb5a8:
 
@@ -2562,203 +2388,11 @@ translate deutsch d21s06_wellness_spa_08f69221:
     # mes "We can make it work with an injection of capital. We know some people on campus who accomplished something similar. Loans and such."
     mes "Wir können es mit einer Kapitalspritze schaffen. Wir kennen Leute auf dem Campus, die etwas Ähnliches erreicht haben. Mit Darlehen und so."
 
-# game/code/d21/d21s06.rpy:1162
-translate deutsch d21s06_wellness_spa_936da8a3:
-
-    # arj "How's your credit score?"
-    arj "Wie ist dein Kredit-Score?"
-
-# game/code/d21/d21s06.rpy:1164
-translate deutsch d21s06_wellness_spa_81c2261b:
-
-    # mc "Mine? I can't even find a place."
-    mc "Meiner? Ich kann nicht einmal eine Wohnung finden."
-
-# game/code/d21/d21s06.rpy:1166
-translate deutsch d21s06_wellness_spa_41e3722b:
-
-    # arj "You did. But not you. I meant Min."
-    arj "Die hast du. Aber ich meinte nicht dich. Ich meinte Min."
-
-# game/code/d21/d21s06.rpy:1170
-translate deutsch d21s06_wellness_spa_080a4b24:
-
-    # mes "My credit score? It's okay. But as I said, the investors will help big time. Might take some work, but securing funding isn't our main goal."
-    mes "Mein Kredit-Score? Es geht. Aber wie gesagt, die Investoren werden eine große Hilfe sein. Es wird vielleicht etwas Zeit kosten, aber die Sicherung der Finanzierung ist nicht unser Hauptziel."
-
-# game/code/d21/d21s06.rpy:1171
-translate deutsch d21s06_wellness_spa_20ebb525:
-
-    # mes "Our main goal is the spa."
-    mes "Unser Hauptziel ist der Spa."
-
 # game/code/d21/d21s06.rpy:1175
 translate deutsch d21s06_wellness_spa_39ad58cf:
 
     # sy "Uh, sounds complicated."
     sy "Äh, klingt kompliziert."
-
-# game/code/d21/d21s06.rpy:1177
-translate deutsch d21s06_wellness_spa_5563f226:
-
-    # arj "It is."
-    arj "Ist es."
-
-# game/code/d21/d21s06.rpy:1179
-translate deutsch d21s06_wellness_spa_26ee5270:
-
-    # mc "To be honest, you guys are focusing on the wrong thing. It's less about the spa as a watersport-business."
-    mc "Um ehrlich zu sein, ihr konzentriert euch auf das falsche. Es geht weniger um den Spa als um das Wassersportgeschäft."
-
-# game/code/d21/d21s06.rpy:1180
-translate deutsch d21s06_wellness_spa_50bfa3fd:
-
-    # mc "More of an excuse to form a imperial Chinese harem."
-    mc "Eher eine Ausrede, um einen imperialen chinesischen Harem zu gründen."
-
-# game/code/d21/d21s06.rpy:1184
-translate deutsch d21s06_wellness_spa_378f0c06:
-
-    # mes "I'm Korean."
-    mes "Ich bin Koreanerin."
-
-# game/code/d21/d21s06.rpy:1185
-translate deutsch d21s06_wellness_spa_5506f6cf:
-
-    # mc "I know, it's just what that structure is called."
-    mc "Ich weiß, aber so wird doch diese Struktur genannt."
-
-# game/code/d21/d21s06.rpy:1186
-translate deutsch d21s06_wellness_spa_14702122:
-
-    # mes "I thought harem is an Arabic word."
-    mes "Ich dachte, Harem sei ein arabisches Wort."
-
-# game/code/d21/d21s06.rpy:1190
-translate deutsch d21s06_wellness_spa_54288f40:
-
-    # mc "It probably is but, uh..."
-    mc "Ist es wahrscheinlich, aber, ähm..."
-
-# game/code/d21/d21s06.rpy:1191
-translate deutsch d21s06_wellness_spa_23cdc614:
-
-    # mc "Nevermind, what was I saying?"
-    mc "Egal, was habe ich gesagt?"
-
-# game/code/d21/d21s06.rpy:1192
-translate deutsch d21s06_wellness_spa_c0683fe6:
-
-    # mes "You were bringing sex into a professional setting."
-    mes "Du hast Sex in ein berufliches Umfeld gebracht."
-
-# game/code/d21/d21s06.rpy:1193
-translate deutsch d21s06_wellness_spa_e1acbb60:
-
-    # mc "Isn't it about sex?"
-    mc "Geht es nicht um Sex?"
-
-# game/code/d21/d21s06.rpy:1194
-translate deutsch d21s06_wellness_spa_36a29d41:
-
-    # mes "No. The spa is professionally run. It will just have some extras."
-    mes "Nein. Das Spa wird professionell geführt. Es wird nur einige Extras haben."
-
-# game/code/d21/d21s06.rpy:1196
-translate deutsch d21s06_wellness_spa_e4b4e4a6:
-
-    # mc "Hey, we have harems here too."
-    mc "Hey, wir haben hier auch Harems."
-
-# game/code/d21/d21s06.rpy:1198
-translate deutsch d21s06_wellness_spa_d461c933:
-
-    # sy "You want to move somewhere?"
-    sy "Willst du irgendwohin anders ziehen?"
-
-# game/code/d21/d21s06.rpy:1200
-translate deutsch d21s06_wellness_spa_1bf1e07c:
-
-    # mc "I'm not sure. Min, do you want to setup this business in Asia?"
-    mc "Ich bin mir nicht sicher. Min, möchtest du dieses Geschäft in Asien aufbauen?"
-
-# game/code/d21/d21s06.rpy:1204
-translate deutsch d21s06_wellness_spa_b5098d8a:
-
-    # mes "No. They wouldn't allow spas of what we're proposing."
-    mes "Nein. Sie würden Spas mit dem, was wir vor haben, nicht erlauben."
-
-# game/code/d21/d21s06.rpy:1208
-translate deutsch d21s06_wellness_spa_a31340dd:
-
-    # mc "Really?"
-    mc "Wirklich?"
-
-# game/code/d21/d21s06.rpy:1213
-translate deutsch d21s06_wellness_spa_2da98b91:
-
-    # mc "I didn't mean that."
-    mc "Ich habe das nicht so gemeint."
-
-# game/code/d21/d21s06.rpy:1214
-translate deutsch d21s06_wellness_spa_93902784:
-
-    # mc "Alright, so it'll be around here somewhere. Somewhere legal."
-    mc "In Ordnung, also wird es hier irgendwo sein. Irgendwo, wo es legal ist."
-
-# game/code/d21/d21s06.rpy:1216
-translate deutsch d21s06_wellness_spa_efefd519:
-
-    # sy "Who are the investors? If you don't mind me asking."
-    sy "Wer sind die Investoren? Wenn ich fragen darf."
-
-# game/code/d21/d21s06.rpy:1220
-translate deutsch d21s06_wellness_spa_115dbcaf:
-
-    # mes "That we haven't decided. What we did decide on is who we're bringing along with this."
-    mes "Das haben wir noch nicht entschieden. Was wir entschieden haben, ist, wen wir mitnehmen."
-
-# game/code/d21/d21s06.rpy:1224
-translate deutsch d21s06_wellness_spa_7454332c:
-
-    # mc "Actually, we have a working list."
-    mc "Tatsächlich haben wir eine Arbeitsliste."
-
-# game/code/d21/d21s06.rpy:1225
-translate deutsch d21s06_wellness_spa_2cd4c788:
-
-    # mc "We just have to get them on board."
-    mc "Wir müssen sie nur an Bord holen."
-
-# game/code/d21/d21s06.rpy:1229
-translate deutsch d21s06_wellness_spa_9bd64567:
-
-    # mes "I hope you have an idea. I'm going to drop out."
-    mes "Ich hoffe, du hast eine Idee. Ich bin dann erstmal raus."
-
-# game/code/d21/d21s06.rpy:1238
-translate deutsch d21s06_wellness_spa_a437bdda:
-
-    # mes "Bye."
-    mes "Bye."
-
-# game/code/d21/d21s06.rpy:1243
-translate deutsch d21s06_wellness_spa_2924e892:
-
-    # sy "So you're really doing this?"
-    sy "Also machst du das wirklich?"
-
-# game/code/d21/d21s06.rpy:1244
-translate deutsch d21s06_wellness_spa_85107a33:
-
-    # sy "I'll go with you if you're sure this is going to work. Because this is a serious life decision."
-    sy "Ich mache mit, wenn du sicher bist, dass das funktioniert. Denn das ist eine ernsthafte Lebensentscheidung."
-
-# game/code/d21/d21s06.rpy:1247
-translate deutsch d21s06_wellness_spa_4dc9a4dc:
-
-    # mc "I'm willing to try!"
-    mc "Ich bin bereit, es zu versuchen!"
 
 translate deutsch strings:
 
@@ -2785,4 +2419,66 @@ translate deutsch strings:
     # game/code/d21/d21s06.rpy:1029
     old "No, I have to give it more thought."
     new "Nein, ich muss mir noch mehr Gedanken machen."
+
+# TODO: Translation updated at 2024-07-27 20:51
+
+# game/code/d21/d21s06.rpy:997
+translate deutsch d21s06_waterfall_0992f61d:
+
+    # mc "Yes. I want to do this with you, Min."
+    mc "Yes. I want to do this with you, Min."
+
+# game/code/d21/d21s06.rpy:1052
+translate deutsch d21s06_wellness_spa_2ece8a99:
+
+    # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+    mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+
+# game/code/d21/d21s06.rpy:1093
+translate deutsch d21s06_wellness_spa_8a7edf54:
+
+    # mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+    mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+
+# game/code/d21/d21s06.rpy:1099
+translate deutsch d21s06_wellness_spa_699caa95:
+
+    # arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+    arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+
+# game/code/d21/d21s06.rpy:1100
+translate deutsch d21s06_wellness_spa_c425dcb9:
+
+    # arj "I need to finish college."
+    arj "I need to finish college."
+
+# game/code/d21/d21s06.rpy:1102
+translate deutsch d21s06_wellness_spa_43c9e2c9:
+
+    # mes "Understandable. But you're still in, right [mcname]?"
+    mes "Understandable. But you're still in, right [mcname]?"
+
+# game/code/d21/d21s06.rpy:1104
+translate deutsch d21s06_wellness_spa_5844ae44:
+
+    # mc "Hell yeah."
+    mc "Hell yeah."
+
+# game/code/d21/d21s06.rpy:1107
+translate deutsch d21s06_wellness_spa_591bfaae:
+
+    # mes "Excellent. Then I'm going to continue on the planning."
+    mes "Excellent. Then I'm going to continue on the planning."
+
+# game/code/d21/d21s06.rpy:1110
+translate deutsch d21s06_wellness_spa_dbcc212b:
+
+    # mes "You should come over and we can start working on the details."
+    mes "You should come over and we can start working on the details."
+
+# game/code/d21/d21s06.rpy:1111
+translate deutsch d21s06_wellness_spa_546d00c0:
+
+    # mc "I'll be right there."
+    mc "I'll be right there."
 

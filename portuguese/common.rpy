@@ -1378,3 +1378,11 @@ translate portuguese strings:
     old "Retry"
     new "Tentar novamente"
 
+# TODO: Translation updated at 2024-07-27 20:57
+
+translate portuguese strings:
+
+    # renpy/common/00accessibility.rpy:197
+    old "Self-voicing support is limited when using a touch screen."
+    new ""
+

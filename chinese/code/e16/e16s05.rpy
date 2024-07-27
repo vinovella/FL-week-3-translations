@@ -1440,3 +1440,11 @@ translate chinese strings:
     old "Do some chokeplay"
     new "玩点窒息游戏"
 
+# TODO: Translation updated at 2024-07-27 20:47
+
+# game/code/e16/e16s05.rpy:741
+translate chinese e16s05_sex_db1b3ad1:
+
+    # jf "Yesss... Oh-my-godduaaah..."
+    jf "Yesss... Oh-my-godduaaah..."
+

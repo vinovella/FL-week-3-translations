@@ -364,3 +364,17 @@ translate korean strings:
     old "Fuck Her Anally"
     new "Fuck Her Anally"
 
+# TODO: Translation updated at 2024-07-27 20:53
+
+# game/code/e13/e13s02.rpy:86
+translate korean e13s02_e5e5853b:
+
+    # "Customer" "Aww, but..."
+    "Customer" "Aww, but..."
+
+# game/code/e13/e13s02.rpy:200
+translate korean replay_e13s02_e2a7aa61:
+
+    # nk "Actually... You know what? Sit down."
+    nk "Actually... You know what? Sit down."
+
