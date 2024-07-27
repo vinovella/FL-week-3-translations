@@ -1139,7 +1139,7 @@ translate malay e06s08_post_climax_077cb4e1:
 
     # lc "That sounds wonderful."
     lc "Baiklah..."
-	
+
 translate malay strings:
 
     # game/code/e06/e06s09.rpy:105

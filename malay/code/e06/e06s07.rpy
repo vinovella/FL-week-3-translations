@@ -269,7 +269,7 @@ translate malay e06s07_64d63c9d:
 
     # lc "You were the first man I ever touched in an intimate way."
     lc "Kaulah lelaki pertama yang aku pernah sentuh secara intim."
-	
+
 # game/code/e06/e06s07.rpy:143
 translate malay e06s07_4a1693dc:
 
@@ -413,7 +413,7 @@ translate malay e06s07_5f0f3c9d:
 
     # mh "Is that it?"
     mh "Itu sahaja?"
-	
+
 # game/code/e06/e06s07.rpy:203
 translate malay e06s07_2268550a:
 
@@ -442,7 +442,7 @@ translate malay e06s07_45a9d417:
 translate malay e06s07_66c8e88c:
 
     # mc "I will -"
-    mc "Aku akan...""
+    mc "Aku akan..."
 
 # game/code/e06/e06s07.rpy:217
 translate malay e06s07_1f4ae03a:

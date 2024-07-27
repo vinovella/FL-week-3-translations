@@ -59,7 +59,7 @@ translate malay e06s06_02592ba3:
 
     # mh "How can I help you today?"
     mh "Macam mana saya boleh tolong awak hari ini?"
-	
+
 # game/code/e06/e06s06.rpy:122
 translate malay e06s06_b53492da:
 
@@ -779,7 +779,7 @@ translate malay e06s06_fuck_mh_eb2a6d7d:
 translate malay e06s06_fuck_mh_588ab6f7:
 
     # mh "Oh god... Oh... baby... that's... oh my..."
-    mh "Oh... Sayang... Itu... Ya ampun...""
+    mh "Oh... Sayang... Itu... Ya ampun..."
 
 # game/code/e06/e06s06.rpy:636
 translate malay e06s06_fuck_mh_c06a8f9e:
@@ -1097,7 +1097,7 @@ translate malay e06s06_finish_1_731782b5:
 translate malay e06s06_finish_1_4d2e663a:
 
     # mh "Yes... go [mcname]!"
-    mh “Ya... Pergilah [mcname]!"
+    mh "Ya... Pergilah [mcname]!"
 
 # game/code/e06/e06s06.rpy:978
 translate malay e06s06_finish_1_738142d5:
@@ -1176,7 +1176,7 @@ translate malay e06s06_finish_2_b933b6e5:
 
     # mh "But that was legendary..."
     mh "Tapi itu sangatlah berlagenda..."
-	
+
 # game/code/e06/e06s06.rpy:1026
 translate malay e06s06_finish_2_da66423f:
 

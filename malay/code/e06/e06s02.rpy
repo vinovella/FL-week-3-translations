@@ -526,7 +526,7 @@ translate malay e06s02_inside_414e4e6f:
 translate malay e06s02_inside_83bf5d23:
 
     # mes "I'm so sorry. You just look ridiculous, Lydia."
-    mes “Aku minta maaf. Kau nampak mengarut, Lydia."
+    mes "Aku minta maaf. Kau nampak mengarut, Lydia."
 
 # game/code/e06/e06s02.rpy:377
 translate malay e06s02_inside_2bc8af86:
@@ -587,13 +587,13 @@ translate malay e06s02_inside_a755748b:
 
     # mes "She certainly neer could have learned all the unique... pleasures of watersports."
     mes "Dia pastinya mungkin mempelajari semua keunikan... Keseronokan sukan air."
-	
+
 # game/code/e06/e06s02.rpy:400
 translate malay e06s02_inside_5ae2ee77:
 
     # mes "Few things can match that level of level of freedom and intimacy. Certainly never anything Squizzle experienced."
     mes "Beberapa perkara boleh menandingi tahap kebebasan dan keintiman itu. Sudah tentu tak pernah apa-apa yang Squizzle alami."
-	
+
 # game/code/e06/e06s02.rpy:402
 translate malay e06s02_inside_ad21e7ac:
 

@@ -89,7 +89,7 @@ translate malay e06s04_b916dbc0:
 
     # mes "What kept you?"
     mes "Apa yang berlaku tadi?"
-	
+
 # game/code/e06/e06s04.rpy:94
 translate malay e06s04_454a3661:
 
@@ -329,7 +329,7 @@ translate malay e06s04_drinks_176560fe:
 
     # arj "Thank you, Lydia."
     arj "Terima kasih, Lydia."
-	
+
 # game/code/e06/e06s04.rpy:287
 translate malay e06s04_drinks_871bd10a:
 
@@ -575,7 +575,7 @@ translate malay e06s04_later_8e7a88ff:
 
     # mc "Is that alright with you, my darling?"
     mc "Kau okay dengannya, sayangku?"
-	
+
 # game/code/e06/e06s04.rpy:427
 translate malay e06s04_later_2061a105:
 

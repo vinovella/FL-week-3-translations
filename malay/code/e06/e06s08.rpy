@@ -544,7 +544,7 @@ translate malay d06s08_sy_d077eef2:
 translate malay d06s08_sy_68281a55:
 
     # sy "He said, \"You might have done something bad. You might even deserve to be punished for it\"."
-    sy "Dia kata, "Kau mungkin dah lakukan sesuatu yang buruk. Kau mungkin layak dihukum kerananya\"."
+    sy "Dia kata, \"Kau mungkin dah lakukan sesuatu yang buruk. Kau mungkin layak dihukum kerananya\"."
 
 # game/code/e06/e06s08.rpy:498
 translate malay d06s08_sy_92f79119:
@@ -1462,7 +1462,7 @@ translate malay d06s08_dd_cb9aeb7a:
 translate malay d06s08_dd_6dc97b00:
 
     # dd "God damn... mutherfucking... cocksucking dyke..."
-    dd "Woah... Keparat... Tanggul...
+    dd "Woah... Keparat... Tanggul..."
 
 # game/code/e06/e06s08.rpy:1091
 translate malay d06s08_dd_a3489bb8:

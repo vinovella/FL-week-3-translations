@@ -203,7 +203,7 @@ translate malay e06s03_1ed2c6f3:
 
     # mc "I touch her there, and she'll go weak in the knees."
     mc "Aku sentuh dia di sana, dan dia akan lemah di lutut."
-	
+
 translate malay e06s03_3f9e660c:
 
     # lc "Good to know."
@@ -1257,7 +1257,7 @@ translate malay e06s03_sex_chair_arj_f20becb6:
 translate malay e06s03_sex_chair_arj_4283be71:
 
     # sy "Don't forget about me."
-    sy "Jangan lupakan aku.
+    sy "Jangan lupakan aku."
 
 # game/code/e06/e06s03.rpy:804
 translate malay e06s03_sex_chair_arj_f5d9b31f:
@@ -1750,7 +1750,7 @@ translate malay e06s03_end_2d928dbe:
 
     # lc "When you fucked Amber-Rose on top of me...I felt goosebumps on my arms..."
     lc "Bila kau kongkek Amber-Rose di atas aku... Aku rasa merinding di lengan aku..."
-	
+
 # game/code/e06/e06s03.rpy:1123
 translate malay e06s03_end_1f7ba768:
 

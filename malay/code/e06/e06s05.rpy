@@ -2050,7 +2050,7 @@ translate malay e06s05_arj_enema_7c14008a:
 translate malay e06s05_arj_enema_cc3a9d55:
 
     # mc "Wow. This is really intense."
-    mc "Wow. Ini betul-betul sengit."!"
+    mc "Wow. Ini betul-betul sengit."
 
 # game/code/e06/e06s05.rpy:1114
 translate malay e06s05_arj_enema_7cf8890a:
@@ -2339,7 +2339,7 @@ translate malay e06s05_arj_fisting_674eae44:
 
     # dd "You're an adult now, AmRose. You get to do what you want."
     dd "Kau dah dewasa sekarang, AmRose. Kau boleh lakukan apa yang kau nak."
-	
+
 # game/code/e06/e06s05.rpy:1270
 translate malay e06s05_arj_fisting_038c5a04:
 
@@ -3023,7 +3023,7 @@ translate malay e06s05_dd_cross_c58f3250:
 
     # dd "Fucking amazing. Give me a couple more and I might climax."
     dd "Sungguh menakjubkan. Beri aku beberapa lagi dan aku mungkin mencapai klimaks."
-	
+
 # game/code/e06/e06s05.rpy:1651
 translate malay e06s05_dd_cross_4c6d584d:
 
