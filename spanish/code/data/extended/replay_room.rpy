@@ -394,3 +394,39 @@ translate spanish strings:
     old "Ending 16: Jessie, Molly, Sage & Kristen"
     new "Ending 16: Jessie, Molly, Sage & Kristen"
 
+# TODO: Translation updated at 2024-08-12 20:44
+
+translate spanish strings:
+
+    # game/code/data/extended/replay_room.rpy:178
+    old "Ending 15: Min & Stacy"
+    new "Ending 15: Min & Stacy"
+
+    # game/code/data/extended/replay_room.rpy:178
+    old "Ending 15: Watersports"
+    new "Ending 15: Watersports"
+
+    # game/code/data/extended/replay_room.rpy:178
+    old "Ending 15: Olivia, Bell & Annie"
+    new "Ending 15: Olivia, Bell & Annie"
+
+    # game/code/data/extended/replay_room.rpy:178
+    old "Ending 15: Lyssa, Stacy & Gemma"
+    new "Ending 15: Lyssa, Stacy & Gemma"
+
+    # game/code/data/extended/replay_room.rpy:178
+    old "Ending 15: Min, Stacy & Olivia"
+    new "Ending 15: Min, Stacy & Olivia"
+
+    # game/code/data/extended/replay_room.rpy:204
+    old "Ending 18: Samiya, Dahlia & Pete"
+    new "Ending 18: Samiya, Dahlia & Pete"
+
+    # game/code/data/extended/replay_room.rpy:204
+    old "Ending 18: Quartet, Londyn & Kendell"
+    new "Ending 18: Quartet, Londyn & Kendell"
+
+    # game/code/data/extended/replay_room.rpy:204
+    old "Ending 18: Samiya"
+    new "Ending 18: Samiya"
+

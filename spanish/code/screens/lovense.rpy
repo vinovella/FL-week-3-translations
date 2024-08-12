@@ -144,3 +144,19 @@ translate spanish strings:
     old "Get a toy now"
     new "Consigue un juguete ahora"
 
+# TODO: Translation updated at 2024-08-12 20:44
+
+translate spanish strings:
+
+    # game/code/screens/lovense.rpy:27
+    old "1. Click on the \"Discover\" tab"
+    new "1. Click on the \"Discover\" tab"
+
+    # game/code/screens/lovense.rpy:28
+    old "2. Then click on \"Game Mode\" option"
+    new "2. Then click on \"Game Mode\" option"
+
+    # game/code/screens/lovense.rpy:36
+    old "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+    new "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+
