@@ -2481,3 +2481,23 @@ translate chinese d21s06_wellness_spa_546d00c0:
     # mc "I'll be right there."
     mc "I'll be right there."
 
+# TODO: Translation updated at 2024-08-15 13:10
+
+# game/code/d21/d21s06.rpy:582
+translate chinese d21s06_reboot_fl_6d5e9610:
+
+    # mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
+    mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
+
+# game/code/d21/d21s06.rpy:584
+translate chinese d21s06_reboot_fl_304163ca:
+
+    # sy "I love it."
+    sy "I love it."
+
+# game/code/d21/d21s06.rpy:587
+translate chinese d21s06_reboot_fl_b23fc0ce:
+
+    # arj "It's perfect. On point and easy to understand."
+    arj "It's perfect. On point and easy to understand."
+
