@@ -2425,61 +2425,61 @@ translate chinese strings:
 translate chinese d21s06_waterfall_0992f61d:
 
     # mc "Yes. I want to do this with you, Min."
-    mc "Yes. I want to do this with you, Min."
+    mc "是的。我想和你一起做这件事，明。"
 
 # game/code/d21/d21s06.rpy:1052
 translate chinese d21s06_wellness_spa_2ece8a99:
 
     # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
-    mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+    mes "大众在寻找一种能满足他们性幻想的体验，而我们就是来为他们提供这种体验的。"
 
 # game/code/d21/d21s06.rpy:1093
 translate chinese d21s06_wellness_spa_8a7edf54:
 
     # mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
-    mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+    mes "大众在寻找一种能满足他们性幻想的体验，而我们就是来为他们提供这种体验的。"
 
 # game/code/d21/d21s06.rpy:1099
 translate chinese d21s06_wellness_spa_699caa95:
 
     # arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
-    arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+    arj "会的。很抱歉[mcname]，我不能加入你们。至少现在不行。"
 
 # game/code/d21/d21s06.rpy:1100
 translate chinese d21s06_wellness_spa_c425dcb9:
 
     # arj "I need to finish college."
-    arj "I need to finish college."
+    arj "我要完成大学学业。"
 
 # game/code/d21/d21s06.rpy:1102
 translate chinese d21s06_wellness_spa_43c9e2c9:
 
     # mes "Understandable. But you're still in, right [mcname]?"
-    mes "Understandable. But you're still in, right [mcname]?"
+    mes "可以理解。但你还在，对吧[mcname] ？"
 
 # game/code/d21/d21s06.rpy:1104
 translate chinese d21s06_wellness_spa_5844ae44:
 
     # mc "Hell yeah."
-    mc "Hell yeah."
+    mc "当然了。"
 
 # game/code/d21/d21s06.rpy:1107
 translate chinese d21s06_wellness_spa_591bfaae:
 
     # mes "Excellent. Then I'm going to continue on the planning."
-    mes "Excellent. Then I'm going to continue on the planning."
+    mes "很好。那我就继续做计划了。"
 
 # game/code/d21/d21s06.rpy:1110
 translate chinese d21s06_wellness_spa_dbcc212b:
 
     # mes "You should come over and we can start working on the details."
-    mes "You should come over and we can start working on the details."
+    mes "你应该过来，我们可以开始讨论细节问题了。"
 
 # game/code/d21/d21s06.rpy:1111
 translate chinese d21s06_wellness_spa_546d00c0:
 
     # mc "I'll be right there."
-    mc "I'll be right there."
+    mc "我马上就到。"
 
 # TODO: Translation updated at 2024-08-15 13:10
 
@@ -2487,17 +2487,17 @@ translate chinese d21s06_wellness_spa_546d00c0:
 translate chinese d21s06_reboot_fl_6d5e9610:
 
     # mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
-    mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
+    mc "就叫它{w} {b}重启之性趣探测器吧！{/b}"
 
 # game/code/d21/d21s06.rpy:584
 translate chinese d21s06_reboot_fl_304163ca:
 
     # sy "I love it."
-    sy "I love it."
+    sy "我喜欢。"
 
 # game/code/d21/d21s06.rpy:587
 translate chinese d21s06_reboot_fl_b23fc0ce:
 
     # arj "It's perfect. On point and easy to understand."
-    arj "It's perfect. On point and easy to understand."
+    arj "完美。重点突出，通俗易懂。"
 
