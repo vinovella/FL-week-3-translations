@@ -4,337 +4,337 @@
 translate chinese e15s01_32445995:
 
     # mct "Okay, Got all the appointments lined up."
-    mct "Okay, Got all the appointments lined up."
+    mct "好的，所有的预约都排好了。"
 
 # game/code/e15/e15s01.rpy:105
 translate chinese e15s01_37d7a224:
 
     # mct "It's hard work, but this spa makes nearly a hundred people a day relax."
-    mct "It's hard work, but this spa makes nearly a hundred people a day relax."
+    mct "这工作很辛苦，但这个水疗中心每天能让近百人得到放松。"
 
 # game/code/e15/e15s01.rpy:106
 translate chinese e15s01_056fd951:
 
     # mct "And that's not too shabby."
-    mct "And that's not too shabby."
+    mct "这已经很不错了。"
 
 # game/code/e15/e15s01.rpy:117
 translate chinese replay_e15s01_b9ad4c94:
 
     # mes "Are we ready for another day in paradise?"
-    mes "Are we ready for another day in paradise?"
+    mes "准备好迎接新的一天了吗？"
 
 # game/code/e15/e15s01.rpy:120
 translate chinese replay_e15s01_a979a41a:
 
     # mc "Yes. Just as soon as I've had my cofee."
-    mc "Yes. Just as soon as I've had my cofee."
+    mc "好了。我喝完咖啡就出发。"
 
 # game/code/e15/e15s01.rpy:123
 translate chinese replay_e15s01_8b504fcd:
 
     # mes "You better hurry up, [mcname]. You know we have a full day today."
-    mes "You better hurry up, [mcname]. You know we have a full day today."
+    mes "你最好快点，[mcname]。你知道我们今天安排得满满的。"
 
 # game/code/e15/e15s01.rpy:130
 translate chinese replay_e15s01_1bcbe113:
 
     # mes "Wait you dummy, I didn't mean-"
-    mes "Wait you dummy, I didn't mean-"
+    mes "等等，笨蛋，我不是说--"
 
 # game/code/e15/e15s01.rpy:137
 translate chinese replay_e15s01_d3237b61:
 
     # mc "*coughing* Oh fuck."
-    mc "*coughing* Oh fuck."
+    mc "*咳嗽* 哦，操。"
 
 # game/code/e15/e15s01.rpy:140
 translate chinese replay_e15s01_ab9491a9:
 
     # mc "Arrrhg. Such a good burn."
-    mc "Arrrhg. Such a good burn."
+    mc "啊啊啊。好烫。"
 
 # game/code/e15/e15s01.rpy:143
 translate chinese replay_e15s01_1406f86e:
 
     # mes "Will you ever be a less ridiculous person?"
-    mes "Will you ever be a less ridiculous person?"
+    mes "你能不能别这么可笑？"
 
 # game/code/e15/e15s01.rpy:146
 translate chinese replay_e15s01_b14c2c7c:
 
     # mc "Maybe when I'm old and boring. But I don't have time for that."
-    mc "Maybe when I'm old and boring. But I don't have time for that."
+    mc "也许等我老了，无聊了吧。但我没有时间。"
 
 # game/code/e15/e15s01.rpy:147
 translate chinese replay_e15s01_0d7d9f3e:
 
     # mc "Unless you forget my dear Min, I've got a business to run."
-    mc "Unless you forget my dear Min, I've got a business to run."
+    mc "我亲爱的明，除非你忘了，我还有生意要做。"
 
 # game/code/e15/e15s01.rpy:150
 translate chinese replay_e15s01_cf1743e6:
 
     # mes "Shockingly, I did not forget. But..."
-    mes "Shockingly, I did not forget. But..."
+    mes "令人震惊的是，我没有忘记。但是..."
 
 # game/code/e15/e15s01.rpy:153
 translate chinese replay_e15s01_4bac4f5c:
 
     # mes "In case {b}you{/b} forgot, there is one very important thing you have to do before you get to any of that."
-    mes "In case {b}you{/b} forgot, there is one very important thing you have to do before you get to any of that."
+    mes "我怕{b}你{/b}忘记了，在你开始做别的事情之前，有一件非常重要的事你必须做。"
 
 # game/code/e15/e15s01.rpy:165
 translate chinese replay_e15s01_55aee24f:
 
     # mes "It's time for a morning 'streaming' chat."
-    mes "It's time for a morning 'streaming' chat."
+    mes "现在是早晨‘液’聊的时间了。"
 
 # game/code/e15/e15s01.rpy:176
 translate chinese replay_e15s01_043d8bdc:
 
     # mc "Open wide."
-    mc "Open wide."
+    mc "张大嘴巴。"
 
 # game/code/e15/e15s01.rpy:181
 translate chinese replay_e15s01_7361d3c6:
 
     # mes "Awwwaah."
-    mes "Awwwaah."
+    mes "啊啊啊啊。"
 
 # game/code/e15/e15s01.rpy:195
 translate chinese replay_e15s01_a0e12b14:
 
     # mes "*gulp*"
-    mes "*gulp*"
+    mes "*吞咽*"
 
 # game/code/e15/e15s01.rpy:197
 translate chinese replay_e15s01_af98c741:
 
     # mes "Awwah. All gone."
-    mes "Awwah. All gone."
+    mes "啊呜。全没了。"
 
 # game/code/e15/e15s01.rpy:207
 translate chinese replay_e15s01_6a9191c5:
 
     # mes "Mmmm. There is truly nothing like a morning stream to brighten up the day."
-    mes "Mmmm. There is truly nothing like a morning stream to brighten up the day."
+    mes "嗯。没有什么比晨间的清流更能让人精神焕发了。"
 
 # game/code/e15/e15s01.rpy:210
 translate chinese replay_e15s01_39b8be14:
 
     # mc "Just remember, I'm more than just a handsome fountain for delicious piss."
-    mc "Just remember, I'm more than just a handsome fountain for delicious piss."
+    mc "记住，我可不只是用来供给美味小便的帅气喷泉。"
 
 # game/code/e15/e15s01.rpy:215
 translate chinese replay_e15s01_a6a9c522:
 
     # mes "Mmm. On schedule as always. I have a few items to alert you on."
-    mes "Mmm. On schedule as always. I have a few items to alert you on."
+    mes "嗯。一如既往的按计划进行。我有几件事要提醒你。"
 
 # game/code/e15/e15s01.rpy:218
 translate chinese replay_e15s01_e4a92053:
 
     # mc "Go for it."
-    mc "Go for it."
+    mc "说吧。"
 
 # game/code/e15/e15s01.rpy:222
 translate chinese replay_e15s01_7bfa7632:
 
     # mes "Looking over our treatment rankings, the 'Sprinkle and Mani-pedi' is still climbing the ranking system."
-    mes "Looking over our treatment rankings, the 'Sprinkle and Mani-pedi' is still climbing the ranking system."
+    mes "看看我们的治疗排名，‘喷淋和美甲’的排名还在攀升。"
 
 # game/code/e15/e15s01.rpy:223
 translate chinese replay_e15s01_27928fdc:
 
     # mes "But the 'Massage and Soak' still has the top ranking."
-    mes "But the 'Massage and Soak' still has the top ranking."
+    mes "但‘按摩和浸泡’仍然排名第一。"
 
 # game/code/e15/e15s01.rpy:232
 translate chinese replay_e15s01_82cd0a0c:
 
     # mc "Hmmm. Do you want me to make any price adjustments?"
-    mc "Hmmm. Do you want me to make any price adjustments?"
+    mc "嗯。您需要我调整一下价格吗？"
 
 # game/code/e15/e15s01.rpy:235
 translate chinese replay_e15s01_bba36958:
 
     # mes "Not yet. I'll continue monitoring and then work up some price suggestions, but I think we're doing nicely heading into the weekend."
-    mes "Not yet. I'll continue monitoring and then work up some price suggestions, but I think we're doing nicely heading into the weekend."
+    mes "还不用。我会继续监测，然后提出一些价格建议，但我认为我们周末应该会表现得很不错。"
 
 # game/code/e15/e15s01.rpy:238
 translate chinese replay_e15s01_9a14f337:
 
     # mc "And we still need a name for the super package."
-    mc "And we still need a name for the super package."
+    mc "我们还需要为超级套餐取个名字。"
 
 # game/code/e15/e15s01.rpy:241
 translate chinese replay_e15s01_b10e78d7:
 
     # mes "Right, the massage, then golden shower, then mani-pedi."
-    mes "Right, the massage, then golden shower, then mani-pedi."
+    mes "对，按摩，然后是金色淋浴，还有手足美甲。"
 
 # game/code/e15/e15s01.rpy:242
 translate chinese replay_e15s01_e179203f:
 
     # mes "What about the Golden Afternoon?"
-    mes "What about the Golden Afternoon?"
+    mes "金色下午套餐怎么样？"
 
 # game/code/e15/e15s01.rpy:245
 translate chinese replay_e15s01_c81409e8:
 
     # mc "Or Urina-Therapy."
-    mc "Or Urina-Therapy."
+    mc "或者尿液疗法。"
 
 # game/code/e15/e15s01.rpy:248
 translate chinese replay_e15s01_19c7d961:
 
     # mes "Hmmm. I think the Golden Afternoon package looks better on paper."
-    mes "Hmmm. I think the Golden Afternoon package looks better on paper."
+    mes "嗯。我认为金色下午套餐在纸面上看起来更好。"
 
 # game/code/e15/e15s01.rpy:251
 translate chinese replay_e15s01_b79db102:
 
     # mc "Awww. We never go with my ideas."
-    mc "Awww. We never go with my ideas."
+    mc "哇。我们从来不按照我的想法去做。"
 
 # game/code/e15/e15s01.rpy:254
 translate chinese replay_e15s01_70b4ab92:
 
     # mes "This whole place was your idea, [mcname]."
-    mes "This whole place was your idea, [mcname]."
+    mes "这整个地方都是你的主意，[mcname]。"
 
 # game/code/e15/e15s01.rpy:255
 translate chinese replay_e15s01_baaf53ee:
 
     # mes "A world-class spa complete with crash courses in watersports."
-    mes "A world-class spa complete with crash courses in watersports."
+    mes "一个世界级的水疗中心，还有水上运动速成班。"
 
 # game/code/e15/e15s01.rpy:259
 translate chinese replay_e15s01_b82bef2a:
 
     # mc "Don't sell yourself short, Min. Without your seed money, we wouldn't have survived the first month."
-    mc "Don't sell yourself short, Min. Without your seed money, we wouldn't have survived the first month."
+    mc "别小看自己，明。没有你的启动资金，我们连第一个月都熬不过。"
 
 # game/code/e15/e15s01.rpy:262
 translate chinese replay_e15s01_4b072a5f:
 
     # mes "I was just being humble."
-    mes "I was just being humble."
+    mes "我只是谦虚一下。"
 
 # game/code/e15/e15s01.rpy:270
 translate chinese replay_e15s01_ede99395:
 
     # mes "Mmmm."
-    mes "Mmmm."
+    mes "嗯。"
 
 # game/code/e15/e15s01.rpy:285
 translate chinese replay_e15s01_b468da05:
 
     # mc "I love getting to do this with you."
-    mc "I love getting to do this with you."
+    mc "我喜欢和你一起做这件事。"
 
 # game/code/e15/e15s01.rpy:295
 translate chinese replay_e15s01_c036fc90:
 
     # mes "You still need more coffee? Getting piss-blasted in the face always wakes me right up."
-    mes "You still need more coffee? Getting piss-blasted in the face always wakes me right up."
+    mes "你还需要咖啡吗？被人往脸上喷尿总是能让我清醒。"
 
 # game/code/e15/e15s01.rpy:298
 translate chinese replay_e15s01_fa01a032:
 
     # mc "Haha. Well I still need a litttle something-something."
-    mc "Haha. Well I still need a litttle something-something."
+    mc "哈哈。好吧，我还是需要一点东西。"
 
 # game/code/e15/e15s01.rpy:301
 translate chinese replay_e15s01_a861b7ba:
 
     # mes "You're worried about Stacy's visit?"
-    mes "You're worried about Stacy's visit?"
+    mes "你在担心史黛西的来访？"
 
 # game/code/e15/e15s01.rpy:304
 translate chinese replay_e15s01_a7b7eeb4:
 
     # mc "Me? Worried?"
-    mc "Me? Worried?"
+    mc "你说我？担心？"
 
 # game/code/e15/e15s01.rpy:307
 translate chinese replay_e15s01_c0a553c9:
 
     # mc "Well, maybe a little. Haven't seen her in months."
-    mc "Well, maybe a little. Haven't seen her in months."
+    mc "嗯，可能有点吧。好几个月没见到她了。"
 
 # game/code/e15/e15s01.rpy:310
 translate chinese replay_e15s01_0d4dc23a:
 
     # mc "But it's really the client meeting tomorrow that put a little rock in my stomach."
-    mc "But it's really the client meeting tomorrow that put a little rock in my stomach."
+    mc "但真正让我感到不安的是明天要见客户。"
 
 # game/code/e15/e15s01.rpy:313
 translate chinese replay_e15s01_5ed119fe:
 
     # mes "Ah, the Melvilles."
-    mes "Ah, the Melvilles."
+    mes "啊，梅尔维尔一家。"
 
 # game/code/e15/e15s01.rpy:317
 translate chinese replay_e15s01_89d72655:
 
     # mc "The Melvilles. One of the richest, snobbiest families in the city. And their daughter is coming here to check out the classes."
-    mc "The Melvilles. One of the richest, snobbiest families in the city. And their daughter is coming here to check out the classes."
+    mc "对，梅尔维尔一家。这个城里最富有，最势利的家族之一。他们的女儿也要来这里听课。"
 
 # game/code/e15/e15s01.rpy:319
 translate chinese replay_e15s01_ef5a7452:
 
     # mc "The Melvilles. One of the richest, snobbiest families in the city. And their maid is coming here to check out the classes."
-    mc "The Melvilles. One of the richest, snobbiest families in the city. And their maid is coming here to check out the classes."
+    mc "对，梅尔维尔一家。这个城里最富有，最势利的家族之一。他们的女仆也要来这里听课。"
 
 # game/code/e15/e15s01.rpy:320
 translate chinese replay_e15s01_f5cc45d7:
 
     # mc "She'll be the richest client we've had yet."
-    mc "She'll be the richest client we've had yet."
+    mc "她将是我们迄今为止最有钱的客户。"
 
 # game/code/e15/e15s01.rpy:323
 translate chinese replay_e15s01_0596bdb2:
 
     # mc "I don't want to fuck it up."
-    mc "I don't want to fuck it up."
+    mc "我不想搞砸了。"
 
 # game/code/e15/e15s01.rpy:327
 translate chinese replay_e15s01_f600830b:
 
     # mes "I'm not concerned, [mcname]. You know your way around every treatment we've designed so far."
-    mes "I'm not concerned, [mcname]. You know your way around every treatment we've designed so far."
+    mes "我不担心，[mcname]。到目前为止，你对我们设计的每一种疗法都了如指掌。"
 
 # game/code/e15/e15s01.rpy:328
 translate chinese replay_e15s01_429d91ea:
 
     # mes "Unless you're a little afraid of a rich bratty girl who could spell doom for our spa."
-    mes "Unless you're a little afraid of a rich bratty girl who could spell doom for our spa."
+    mes "除非你在担心这个富家女可能会给我们的水疗中心带来厄运。"
 
 # game/code/e15/e15s01.rpy:331
 translate chinese replay_e15s01_4e6877f6:
 
     # mc "Well, I am now."
-    mc "Well, I am now."
+    mc "好吧，我现在有点害怕了。"
 
 # game/code/e15/e15s01.rpy:336
 translate chinese replay_e15s01_a0a9576a:
 
     # mes "You'll do fine, [mcname]. Besides, I'll be with you every step of the way."
-    mes "You'll do fine, [mcname]. Besides, I'll be with you every step of the way."
+    mes "你会做得很好的，[mcname]。而且，我会全程陪伴你。"
 
 # game/code/e15/e15s01.rpy:340
 translate chinese replay_e15s01_04ba7b99:
 
     # mes "And when Min Eun-Soo is on the job, the job is going to get done {b}right{/b}."
-    mes "And when Min Eun-Soo is on the job, the job is going to get done {b}right{/b}."
+    mes "只要明恩秀在工作，工作就会{b}顺利完成{/b}。"
 
 # game/code/e15/e15s01.rpy:357
 translate chinese e15s01_end_of_day_0aece0f9:
 
     # mes "Look what I found in the lobby."
-    mes "Look what I found in the lobby."
+    mes "看看我在大堂发现了什么。"
 
 # game/code/e15/e15s01.rpy:362
 translate chinese e15s01_end_of_day_2306b455:
@@ -346,133 +346,133 @@ translate chinese e15s01_end_of_day_2306b455:
 translate chinese e15s01_end_of_day_eb89531e:
 
     # mc "Hey, sis!"
-    mc "Hey, sis!"
+    mc "嘿，老妹！"
 
 # game/code/e15/e15s01.rpy:369
 translate chinese e15s01_end_of_day_0687c8f1:
 
     # mc "Hey, Stacy!"
-    mc "Hey, Stacy!"
+    mc "嘿，史黛西！"
 
 # game/code/e15/e15s01.rpy:377
 translate chinese e15s01_end_of_day_21e673d7:
 
     # mc "Woah!"
-    mc "Woah!"
+    mc "哇！"
 
 # game/code/e15/e15s01.rpy:393
 translate chinese e15s01_end_of_day_c5358e7f:
 
     # sy "I've been waiting weeks to do that."
-    sy "I've been waiting weeks to do that."
+    sy "我等这个已经等了好几个星期了。"
 
 # game/code/e15/e15s01.rpy:396
 translate chinese e15s01_end_of_day_57b621c8:
 
     # sy "And this."
-    sy "And this."
+    sy "还有这个。"
 
 # game/code/e15/e15s01.rpy:397
 translate chinese e15s01_end_of_day_90ac93b1:
 
     # mct "What does she have in mind?"
-    mct "What does she have in mind?"
+    mct "她脑子里在想什么？"
 
 # game/code/e15/e15s01.rpy:403
 translate chinese e15s01_end_of_day_d41a020e:
 
     # sy "Hiyah!"
-    sy "Hiyah!"
+    sy "嗨呀！"
 
 # game/code/e15/e15s01.rpy:407
 translate chinese e15s01_end_of_day_217de8d8:
 
     # mc "Ahhh!"
-    mc "Ahhh!"
+    mc "啊！"
 
 # game/code/e15/e15s01.rpy:409
 translate chinese e15s01_end_of_day_01035352:
 
     # sy "That is for leaving me at college to go and make a sex spa!"
-    sy "That is for leaving me at college to go and make a sex spa!"
+    sy "这是为了你把我丢在大学里、跑去做性爱水疗！"
 
 # game/code/e15/e15s01.rpy:413
 translate chinese e15s01_end_of_day_80713ff5:
 
     # mc "Urrh... I think you broke my jaw."
-    mc "Urrh... I think you broke my jaw."
+    mc "呃...我想你把我的下巴弄断了。"
 
 # game/code/e15/e15s01.rpy:416
 translate chinese e15s01_end_of_day_f1dd8c98:
 
     # sy "Hmmph. Serves you right."
-    sy "Hmmph. Serves you right."
+    sy "噢。你活该。"
 
 # game/code/e15/e15s01.rpy:419
 translate chinese e15s01_end_of_day_3628f9cb:
 
     # mes "Stacy, I know you're mad, but please..."
-    mes "Stacy, I know you're mad, but please..."
+    mes "史黛西，我知道你很生气，但是请你..."
 
 # game/code/e15/e15s01.rpy:422
 translate chinese e15s01_end_of_day_7d61e03d:
 
     # mes "If you slap my partner like that again, it will be at your own peril..."
-    mes "If you slap my partner like that again, it will be at your own peril..."
+    mes "如果你再那样扇我的搭档，后果自负..."
 
 # game/code/e15/e15s01.rpy:425
 translate chinese e15s01_end_of_day_27dd4e39:
 
     # sy "Eeeep."
-    sy "Eeeep."
+    sy "噫呀。"
 
 # game/code/e15/e15s01.rpy:428
 translate chinese e15s01_end_of_day_585a18c8:
 
     # sy "I'm sorry, Min. I don't know what got ahold of me."
-    sy "I'm sorry, Min. I don't know what got ahold of me."
+    sy "对不起，明。我也不知道我是怎么了。"
 
 # game/code/e15/e15s01.rpy:431
 translate chinese e15s01_end_of_day_9309cdbd:
 
     # mes "It's understandable. And I am partially to blame."
-    mes "It's understandable. And I am partially to blame."
+    mes "可以理解。我也有一部分责任。"
 
 # game/code/e15/e15s01.rpy:434
 translate chinese e15s01_end_of_day_9a7b88a1:
 
     # mes "I could sense how much Lydia's actions were hurting, [mcname]."
-    mes "I could sense how much Lydia's actions were hurting, [mcname]."
+    mes "我能感觉到莉迪亚的行为有多伤人，[mcname]。"
 
 # game/code/e15/e15s01.rpy:437
 translate chinese e15s01_end_of_day_f00d74c8:
 
     # mes "So when we had the chance to begin the spa, I definitely urged him to make the choice quickly."
-    mes "So when we had the chance to begin the spa, I definitely urged him to make the choice quickly."
+    mes "所以当我们有机会开始做水疗时，我强烈要求他尽快做出选择。"
 
 # game/code/e15/e15s01.rpy:438
 translate chinese e15s01_end_of_day_b20a3353:
 
     # mes "I'm sorry that my actions put you in that position."
-    mes "I'm sorry that my actions put you in that position."
+    mes "很抱歉我的行为让你陷入这种境地。"
 
 # game/code/e15/e15s01.rpy:442
 translate chinese e15s01_end_of_day_d4cd11a3:
 
     # sy "It's okay, Min! I nearly forgot about the Lydia of it all."
-    sy "It's okay, Min! I nearly forgot about the Lydia of it all."
+    sy "没事的，明！我差点忘了莉迪亚这件事。"
 
 # game/code/e15/e15s01.rpy:443
 translate chinese e15s01_end_of_day_012343ab:
 
     # sy "She was your friend too, and that must have sucked when you learned everything she was involved with."
-    sy "She was your friend too, and that must have sucked when you learned everything she was involved with."
+    sy "她也是你的朋友，当你得知她参与的一切时，你一定很难过。"
 
 # game/code/e15/e15s01.rpy:446
 translate chinese e15s01_end_of_day_68bc50f3:
 
     # mes "I... I was fine."
-    mes "I... I was fine."
+    mes "我...我没事。"
 
 # game/code/e15/e15s01.rpy:452
 translate chinese e15s01_end_of_day_985a9c5e:
