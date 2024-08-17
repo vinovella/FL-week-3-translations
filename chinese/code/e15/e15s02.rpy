@@ -550,311 +550,311 @@ translate chinese e15s02_0221d1e4:
 translate chinese e15s02_5bb7407d:
 
     # ovs "Nothing, daddy. You know which program I want to try."
-    ovs "Nothing, daddy. You know which program I want to try."
+    ovs "没什么，爸爸。你知道我想尝试哪个项目。"
 
 # game/code/e15/e15s02.rpy:282
 translate chinese e15s02_a8b9ef49:
 
     # ceo "Yes..."
-    ceo "Yes..."
+    ceo "是啊..."
 
 # game/code/e15/e15s02.rpy:285
 translate chinese e15s02_b98cd9d9:
 
     # ovs "Nothing, Mr. Melville."
-    ovs "Nothing, Mr. Melville."
+    ovs "没有了，梅尔维尔先生。"
 
 # game/code/e15/e15s02.rpy:288
 translate chinese e15s02_81be7570:
 
     # ceo "Mr. Young, we will be happy to enroll in your most prestigious service."
-    ceo "Mr. Young, we will be happy to enroll in your most prestigious service."
+    ceo "杨先生，我们很乐意加入您最负盛名的服务。"
 
 # game/code/e15/e15s02.rpy:289
 translate chinese e15s02_2d9acac2:
 
     # ceo "Olivia will get Individual Training."
-    ceo "Olivia will get Individual Training."
+    ceo "奥利维亚将接受单独培训。"
 
 # game/code/e15/e15s02.rpy:293
 translate chinese e15s02_a871d654:
 
     # ceo "Nothing but the best for my darling."
-    ceo "Nothing but the best for my darling."
+    ceo "当然要把最好的送给我亲爱的宝贝。"
 
 # game/code/e15/e15s02.rpy:295
 translate chinese e15s02_4fb24938:
 
     # ceo "We will have nothing less than the best for our Maid."
-    ceo "We will have nothing less than the best for our Maid."
+    ceo "我们将为我们的女仆提供最好的服务。"
 
 # game/code/e15/e15s02.rpy:298
 translate chinese e15s02_03b84879:
 
     # ovs "You're too kind, Mr. Melville."
-    ovs "You're too kind, Mr. Melville."
+    ovs "您真是太好了，梅尔维尔先生。"
 
 # game/code/e15/e15s02.rpy:301
 translate chinese e15s02_c1fd4191:
 
     # mc "That is wonderful to hear, Sir."
-    mc "That is wonderful to hear, Sir."
+    mc "很高兴听到您这么说，先生。"
 
 # game/code/e15/e15s02.rpy:304
 translate chinese e15s02_d239993b:
 
     # mc "Ahem. Well, if everything is agreeable, then I'll have Ms. Eun-Soo reach out to you later today with the final details."
-    mc "Ahem. Well, if everything is agreeable, then I'll have Ms. Eun-Soo reach out to you later today with the final details."
+    mc "嗯哼。好吧，如果一切都没问题，那么我会让恩秀女士今天晚些时候跟您联系，告知最后的细节。"
 
 # game/code/e15/e15s02.rpy:308
 translate chinese e15s02_a150aad0:
 
     # mc "And once that is done, I'm sure we'll be seeing you soon, Olivia."
-    mc "And once that is done, I'm sure we'll be seeing you soon, Olivia."
+    mc "一旦完成，我相信我们很快就会见到你的，奥利维亚。"
 
 # game/code/e15/e15s02.rpy:311
 translate chinese e15s02_827d619e:
 
     # ovs "I hope so."
-    ovs "I hope so."
+    ovs "我希望如此。"
 
 # game/code/e15/e15s02.rpy:314
 translate chinese e15s02_667431f1:
 
     # ceo "Sounds like a deal, Mr. Young. We'll be waiting for your call."
-    ceo "Sounds like a deal, Mr. Young. We'll be waiting for your call."
+    ceo "听起来不错，杨先生。我们等你的电话。"
 
 # game/code/e15/e15s02.rpy:317
 translate chinese e15s02_18c26fdb:
 
     # mes "Thank you for your time."
-    mes "Thank you for your time."
+    mes "谢谢您的时间。"
 
 # game/code/e15/e15s02.rpy:320
 translate chinese e15s02_13d187d5:
 
     # ceo "The pleasure was all mine, Ms. Eun-Soo."
-    ceo "The pleasure was all mine, Ms. Eun-Soo."
+    ceo "这是我的荣幸，恩秀女士。"
 
 # game/code/e15/e15s02.rpy:333
 translate chinese e15s02_after_meeting_8da98d41:
 
     # sy "Is something wrong?"
-    sy "Is something wrong?"
+    sy "出什么事了吗？"
 
 # game/code/e15/e15s02.rpy:337
 translate chinese e15s02_after_meeting_4bc20081:
 
     # mc "Was it just me or was that like super-easy?"
-    mc "Was it just me or was that like super-easy?"
+    mc "是只有我一个人这么说想，还是他们太容易上手？"
 
 # game/code/e15/e15s02.rpy:340
 translate chinese e15s02_after_meeting_d022bb57:
 
     # mes "What do you mean? You did great. You're a natural salesman."
-    mes "What do you mean? You did great. You're a natural salesman."
+    mes "什么意思？你做得很好。简直是个天生的推销员。"
 
 # game/code/e15/e15s02.rpy:346
 translate chinese e15s02_after_meeting_dadb5b86:
 
     # mes "Mmm."
-    mes "Mmm."
+    mes "嗯。"
 
 # game/code/e15/e15s02.rpy:349
 translate chinese e15s02_after_meeting_87cf9b9b:
 
     # mc "Okay now what really happened?"
-    mc "Okay now what really happened?"
+    mc "好吧，到底发生了什么？"
 
 # game/code/e15/e15s02.rpy:352
 translate chinese e15s02_after_meeting_bca09261:
 
     # sy "Hehehe."
-    sy "Hehehe."
+    sy "哈哈。"
 
 # game/code/e15/e15s02.rpy:355
 translate chinese e15s02_after_meeting_37a82d4b:
 
     # mes "From the looks of it, they had made up their minds before they even walked in the door."
-    mes "From the looks of it, they had made up their minds before they even walked in the door."
+    mes "从表面上看，他们甚至在进门之前就已经下定了决心。"
 
 # game/code/e15/e15s02.rpy:357
 translate chinese e15s02_after_meeting_a31340dd:
 
     # mc "Really?"
-    mc "Really?"
+    mc "真的吗？"
 
 # game/code/e15/e15s02.rpy:360
 translate chinese e15s02_after_meeting_cc9c6620:
 
     # mes "Some rich people are like that. They just want to feel the fear coming off people as they pour their heart and soul into a pitch."
-    mes "Some rich people are like that. They just want to feel the fear coming off people as they pour their heart and soul into a pitch."
+    mes "有些富人就是这样。他们只是想感受人们全身心投入到一个项目中的恐惧。"
 
 # game/code/e15/e15s02.rpy:361
 translate chinese e15s02_after_meeting_02156dd0:
 
     # mes "But that doesn't mean you didn't do a great job. Precise and to the point. Just like we practiced."
-    mes "But that doesn't mean you didn't do a great job. Precise and to the point. Just like we practiced."
+    mes "但这并不意味着你做得不好。你得准确而切中要害。就像我们练习的那样。"
 
 # game/code/e15/e15s02.rpy:364
 translate chinese e15s02_after_meeting_56d61e24:
 
     # sy "See, you totally could have just taken your dick out."
-    sy "See, you totally could have just taken your dick out."
+    sy "看，你完全可以把你的老二掏出来。"
 
 # game/code/e15/e15s02.rpy:367
 translate chinese e15s02_after_meeting_433dd2a0:
 
     # mes "There will plenty of time for that once their money is in the bank."
-    mes "There will plenty of time for that once their money is in the bank."
+    mes "等他们的钱存进银行，有的是时间。"
 
 # game/code/e15/e15s02.rpy:369
 translate chinese e15s02_after_meeting_c0757c90:
 
     # sy "Good point."
-    sy "Good point."
+    sy "说得好。"
 
 # game/code/e15/e15s02.rpy:372
 translate chinese e15s02_after_meeting_9e02eb0d:
 
     # mc "I'm glad it's over, but it was pretty stressful."
-    mc "I'm glad it's over, but it was pretty stressful."
+    mc "我很高兴结束了，但是压力太大了。"
 
 # game/code/e15/e15s02.rpy:373
 translate chinese e15s02_after_meeting_1d9dcc5a:
 
     # mc "I don't know if I want to put up with more families like that."
-    mc "I don't know if I want to put up with more families like that."
+    mc "我不知道我是否还想忍受更多这样的家庭。"
 
 # game/code/e15/e15s02.rpy:376
 translate chinese e15s02_after_meeting_22203e97:
 
     # mes "So long as you do great training Olivia, the rest will come along more easily."
-    mes "So long as you do great training Olivia, the rest will come along more easily."
+    mes "只要你对奥利维亚好好训练，剩下的就会很容易了。"
 
 # game/code/e15/e15s02.rpy:377
 translate chinese e15s02_after_meeting_bf449d4e:
 
     # mes "And that means enough money for us to consider expanding."
-    mes "And that means enough money for us to consider expanding."
+    mes "这意味着我们有足够的资金考虑扩张。"
 
 # game/code/e15/e15s02.rpy:380
 translate chinese e15s02_after_meeting_f412cd70:
 
     # mc "That would be great."
-    mc "That would be great."
+    mc "那太好了。"
 
 # game/code/e15/e15s02.rpy:381
 translate chinese e15s02_after_meeting_32a40c8b:
 
     # mc "I just realized that having a full class of girls is a bit of a bummer."
-    mc "I just realized that having a full class of girls is a bit of a bummer."
+    mc "我刚刚意识到，班里全是女生有点让人扫兴。"
 
 # game/code/e15/e15s02.rpy:385
 translate chinese e15s02_after_meeting_c3b46e34:
 
     # sy "What is wrong?"
-    sy "What is wrong?"
+    sy "怎么了？"
 
 # game/code/e15/e15s02.rpy:388
 translate chinese e15s02_after_meeting_fd04e7e9:
 
     # mc "That means I'll have less time to spend with you, Stacy.."
-    mc "That means I'll have less time to spend with you, Stacy.."
+    mc "那就意味着我和你在一起的时间少了，史黛西..."
 
 # game/code/e15/e15s02.rpy:391
 translate chinese e15s02_after_meeting_054767fa:
 
     # sy "Well, so long as you don't mind me tagging along like in the meeting, we'll still get to hang out."
-    sy "Well, so long as you don't mind me tagging along like in the meeting, we'll still get to hang out."
+    sy "好吧，只要你不介意我像开会那样跟着你，我们还是可以一起玩的。"
 
 # game/code/e15/e15s02.rpy:393
 translate chinese e15s02_after_meeting_4925b4bf:
 
     # mc "That could work."
-    mc "That could work."
+    mc "那可以。"
 
 # game/code/e15/e15s02.rpy:396
 translate chinese e15s02_after_meeting_1f9727f8:
 
     # mes "Hmm."
-    mes "Hmm."
+    mes "嗯。"
 
 # game/code/e15/e15s02.rpy:399
 translate chinese e15s02_after_meeting_7e0d9905:
 
     # mc "Unless it doesn't."
-    mc "Unless it doesn't."
+    mc "除非情况不允许。"
 
 # game/code/e15/e15s02.rpy:402
 translate chinese e15s02_after_meeting_fb281ac6:
 
     # mes "Of course it could work. Just please make sure to follow [mcname]'s lead, Stacy."
-    mes "Of course it could work. Just please make sure to follow [mcname]'s lead, Stacy."
+    mes "当然可以。只是请确保听从[mcname]的领导，史黛西。"
 
 # game/code/e15/e15s02.rpy:403
 translate chinese e15s02_after_meeting_f84defe8:
 
     # mes "We have to put our best foot forward. Especially around Olivia."
-    mes "We have to put our best foot forward. Especially around Olivia."
+    mes "我们必须全力以赴。尤其是在奥利维亚身边。"
 
 # game/code/e15/e15s02.rpy:406
 translate chinese e15s02_after_meeting_af6b0d47:
 
     # sy "I will be the sexiest and most well-behaved intern you could ask for."
-    sy "I will be the sexiest and most well-behaved intern you could ask for."
+    sy "我会成为你能找到的最性感、最守规矩的实习生。"
 
 # game/code/e15/e15s02.rpy:409
 translate chinese e15s02_after_meeting_60314aff:
 
     # mes "Thank you."
-    mes "Thank you."
+    mes "谢谢你。"
 
 # game/code/e15/e15s02.rpy:412
 translate chinese e15s02_after_meeting_bd0a54f5:
 
     # mc "Great, it's settled."
-    mc "Great, it's settled."
+    mc "太好了，就这么说定了。"
 
 # game/code/e15/e15s02.rpy:413
 translate chinese e15s02_after_meeting_67928ced:
 
     # mc "Now it's time for us both to get back to work. I gotta start preparing for Olivia's training."
-    mc "Now it's time for us both to get back to work. I gotta start preparing for Olivia's training."
+    mc "现在我们俩都该回去工作了。我得开始准备奥利维亚的训练了。"
 
 # game/code/e15/e15s02.rpy:416
 translate chinese e15s02_after_meeting_33805e99:
 
     # mes "Good. I should have the Melville's payment plan organized within an hour."
-    mes "Good. I should have the Melville's payment plan organized within an hour."
+    mes "好。我应该能在一小时内安排好梅尔维尔的付款计划。"
 
 # game/code/e15/e15s02.rpy:417
 translate chinese e15s02_after_meeting_f0e1843b:
 
     # mes "With luck, I'll have their payment processed before lunch."
-    mes "With luck, I'll have their payment processed before lunch."
+    mes "运气好的话，我能在午饭前搞定他们的付款。"
 
 # game/code/e15/e15s02.rpy:418
 translate chinese e15s02_after_meeting_0bfe42a3:
 
     # mes "Oh, and don't forget, it's your turn to cook dinner tonight."
-    mes "Oh, and don't forget, it's your turn to cook dinner tonight."
+    mes "哦，别忘了，今晚轮到你做晚饭了。"
 
 # game/code/e15/e15s02.rpy:422
 translate chinese e15s02_after_meeting_757c4db5:
 
     # mc "What would I do without you?"
-    mc "What would I do without you?"
+    mc "没有你我该怎么办？"
 
 # game/code/e15/e15s02.rpy:425
 translate chinese e15s02_after_meeting_0e75f7c7:
 
     # mes "Fortunately for us both, you don't have to experience that."
-    mes "Fortunately for us both, you don't have to experience that."
+    mes "幸运的是，你不用经历这些。"
 
 # game/code/e15/e15s02.rpy:428
 translate chinese e15s02_after_meeting_60e11c93:
 
     # sy "Hahaha."
-    sy "Hahaha."
+    sy "哈哈哈。"
 
