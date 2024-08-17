@@ -4,259 +4,259 @@
 translate chinese e15s03_138b0c9e:
 
     # mc "Want to get the door, intern?"
-    mc "Want to get the door, intern?"
+    mc "实习生，你想开门吗？"
 
 # game/code/e15/e15s03.rpy:40
 translate chinese e15s03_b556f5a5:
 
     # mc "I'm sure it's Olivia."
-    mc "I'm sure it's Olivia."
+    mc "我敢肯定是奥利维亚。"
 
 # game/code/e15/e15s03.rpy:48
 translate chinese e15s03_165afe9d:
 
     # sy "Here she is."
-    sy "Here she is."
+    sy "她来了。"
 
 # game/code/e15/e15s03.rpy:51
 translate chinese e15s03_3ff1b6bf:
 
     # sy "Oh. I'm Stacy by the way."
-    sy "Oh. I'm Stacy by the way."
+    sy "哦。顺便说一下，我叫史黛西。"
 
 # game/code/e15/e15s03.rpy:55
 translate chinese e15s03_a5d18be6:
 
     # ovs "Oh, right. Mr. Young's intern."
-    ovs "Oh, right. Mr. Young's intern."
+    ovs "哦，对了。你是杨先生的实习生。"
 
 # game/code/e15/e15s03.rpy:59
 translate chinese e15s03_a15edffc:
 
     # sy "I do like helping out. But I'm actually [mcname]'s sister."
-    sy "I do like helping out. But I'm actually [mcname]'s sister."
+    sy "我确实喜欢帮忙。但我实际上是[mcname]的妹妹。"
 
 # game/code/e15/e15s03.rpy:61
 translate chinese e15s03_e33c06bd:
 
     # sy "I'm actually [mcname]'s best friend."
-    sy "I'm actually [mcname]'s best friend."
+    sy "我其实是[mcname]最好的朋友。"
 
 # game/code/e15/e15s03.rpy:66
 translate chinese e15s03_7d77dc9c:
 
     # ovs "Oh. Are you starting to work here too?"
-    ovs "Oh. Are you starting to work here too?"
+    ovs "哦。你也开始在这里工作了吗？"
 
 # game/code/e15/e15s03.rpy:69
 translate chinese e15s03_282bac82:
 
     # sy "No, just visiting."
-    sy "No, just visiting."
+    sy "不是，只是来看看。"
 
 # game/code/e15/e15s03.rpy:71
 translate chinese e15s03_82ed304c:
 
     # sy "Well, and having fun with my big bro."
-    sy "Well, and having fun with my big bro."
+    sy "嗯，和我哥哥玩得开心哈。"
 
 # game/code/e15/e15s03.rpy:73
 translate chinese e15s03_aec63524:
 
     # sy "Well, and having fun with the best guy I know."
-    sy "Well, and having fun with the best guy I know."
+    sy "嗯，和这个我认识的最棒的男人玩得开心哈。"
 
 # game/code/e15/e15s03.rpy:76
 translate chinese e15s03_b2ed675d:
 
     # ovs "I-I... I see."
-    ovs "I-I... I see."
+    ovs "我...我明白了。"
 
 # game/code/e15/e15s03.rpy:79
 translate chinese e15s03_e1cdaf4f:
 
     # ovs "Well, I am here, Mr. Young."
-    ovs "Well, I am here, Mr. Young."
+    ovs "嗯，我在这里，杨先生。"
 
 # game/code/e15/e15s03.rpy:82
 translate chinese e15s03_a16f44c5:
 
     # mc "Please, call me [mcname]."
-    mc "Please, call me [mcname]."
+    mc "别这么客气，请叫我[mcname]。"
 
 # game/code/e15/e15s03.rpy:85
 translate chinese e15s03_ee3ac4cd:
 
     # ovs "Okay. [mcname]."
-    ovs "Okay. [mcname]."
+    ovs "好的。[mcname]。"
 
 # game/code/e15/e15s03.rpy:93
 translate chinese e15s03_9461f77a:
 
     # mc "So. We're all set to go on my end."
-    mc "So. We're all set to go on my end."
+    mc "所以。我这边都准备好了。"
 
 # game/code/e15/e15s03.rpy:94
 translate chinese e15s03_a5ff7f01:
 
     # mc "But if there is anything you'd like to ask me, feel free."
-    mc "But if there is anything you'd like to ask me, feel free."
+    mc "但如果你有什么问题想问我，尽管问吧。"
 
 # game/code/e15/e15s03.rpy:98
 translate chinese e15s03_0c8d2218:
 
     # mc "Naturally, there might be some things that you'd like to ask without your parents around."
-    mc "Naturally, there might be some things that you'd like to ask without your parents around."
+    mc "当然，有些事情你可能想在父母不在场的情况下问。"
 
 # game/code/e15/e15s03.rpy:100
 translate chinese e15s03_df9800d6:
 
     # mc "I imagine there might be some things you'd like to ask without your employers around."
-    mc "I imagine there might be some things you'd like to ask without your employers around."
+    mc "我想，在老板不在的情况下，你可能想问一些问题。"
 
 # game/code/e15/e15s03.rpy:103
 translate chinese e15s03_06016055:
 
     # ovs "Nothing comes to mind."
-    ovs "Nothing comes to mind."
+    ovs "我什么也想不起来。"
 
 # game/code/e15/e15s03.rpy:106
 translate chinese e15s03_c8091ac8:
 
     # mc "Surely there is something you want to ask me."
-    mc "Surely there is something you want to ask me."
+    mc "你肯定有事要问我吧？"
 
 # game/code/e15/e15s03.rpy:109
 translate chinese e15s03_0eb4096d:
 
     # ovs "So... will we be having sex? You and I?"
-    ovs "So... will we be having sex? You and I?"
+    ovs "所以...我们会做爱吗？你和我？"
 
 # game/code/e15/e15s03.rpy:112
 translate chinese e15s03_bd05af93:
 
     # mc "We'll only ever do what you are comfortable with, Olivia."
-    mc "We'll only ever do what you are comfortable with, Olivia."
+    mc "我们只会做你觉得舒服的事，奥利维亚。"
 
 # game/code/e15/e15s03.rpy:115
 translate chinese e15s03_e0b23b80:
 
     # mc "Everyone is different, but I've definitely found a lot of success pairing lessons about watersports with sexual relief."
-    mc "Everyone is different, but I've definitely found a lot of success pairing lessons about watersports with sexual relief."
+    mc "每个人都不一样，但我发现水上运动课确实和性释放搭配起来效果很好。"
 
 # game/code/e15/e15s03.rpy:116
 translate chinese e15s03_c08c9551:
 
     # mc "But we also have people who prefer massages or yoga to get them into the right mindset to learn."
-    mc "But we also have people who prefer massages or yoga to get them into the right mindset to learn."
+    mc "但也有人喜欢按摩或瑜伽，让他们进入正确的学习心态。"
 
 # game/code/e15/e15s03.rpy:118
 translate chinese e15s03_95d36896:
 
     # mc "It's really up to you. But I can say that nothing beats the rush of pissing all over someone right after you had an incredible orgasm."
-    mc "It's really up to you. But I can say that nothing beats the rush of pissing all over someone right after you had an incredible orgasm."
+    mc "这完全取决于你。但我可以说，没有什么比在你达到高潮后撒尿更爽的了。"
 
 # game/code/e15/e15s03.rpy:120
 translate chinese e15s03_a2c9221f:
 
     # mc "So, did that answer your question?"
-    mc "So, did that answer your question?"
+    mc "所以，这回答了你的问题了吗？"
 
 # game/code/e15/e15s03.rpy:124
 translate chinese e15s03_e13ac3e6:
 
     # ovs "Yes. You know my friend Penny said that you made every lesson with her a very..."
-    ovs "Yes. You know my friend Penny said that you made every lesson with her a very..."
+    ovs "是的。你知道我的朋友佩妮你让她上的每节课都变得非常..."
 
 # game/code/e15/e15s03.rpy:125
 translate chinese e15s03_4ae78317:
 
     # ovs "Memorable, and... addictive experience."
-    ovs "Memorable, and... addictive experience."
+    ovs "令人难忘，而且...让人欲罢不能。"
 
 # game/code/e15/e15s03.rpy:128
 translate chinese e15s03_98dca92b:
 
     # mc "Well, I'm sure I can do the same for you."
-    mc "Well, I'm sure I can do the same for you."
+    mc "嗯，我相信我也可以为你做同样的事。"
 
 # game/code/e15/e15s03.rpy:131
 translate chinese e15s03_5b5c6427:
 
     # mc "Let's continue on."
-    mc "Let's continue on."
+    mc "我们继续吧。"
 
 # game/code/e15/e15s03.rpy:135
 translate chinese e15s03_0d666bbd:
 
     # ovs "Yes. I'm uh... I think I'm getting a little excited to begin our first class, [mcname]."
-    ovs "Yes. I'm uh... I think I'm getting a little excited to begin our first class, [mcname]."
+    ovs "好的。呃...一想到要开始我们的第一堂课了，我就有点兴奋，[mcname]。"
 
 # game/code/e15/e15s03.rpy:138
 translate chinese e15s03_989caefc:
 
     # mc "Patience, Olivia. We'll be in the thick of it soon enough."
-    mc "Patience, Olivia. We'll be in the thick of it soon enough."
+    mc "耐心点，奥利维亚。我们很快就会进入最激烈的阶段。"
 
 # game/code/e15/e15s03.rpy:141
 translate chinese e15s03_9824dec7:
 
     # ovs "Mmm."
-    ovs "Mmm."
+    ovs "嗯。"
 
 # game/code/e15/e15s03.rpy:159
 translate chinese e15s03_pool_69215ef5:
 
     # mc "And this is the pool room. It's perfect for a nice, relaxing dip if the training gets too hard."
-    mc "And this is the pool room. It's perfect for a nice, relaxing dip if the training gets too hard."
+    mc "这是水池。如果训练太辛苦，可以来这里好好放松一下。"
 
 # game/code/e15/e15s03.rpy:162
 translate chinese e15s03_pool_f7362dc6:
 
     # ovs "Does that happen often?"
-    ovs "Does that happen often?"
+    ovs "这种情况经常发生吗？"
 
 # game/code/e15/e15s03.rpy:165
 translate chinese e15s03_pool_b6e89f43:
 
     # mc "I haven't failed a student yet, Olivia. And I don't think you will be the first."
-    mc "I haven't failed a student yet, Olivia. And I don't think you will be the first."
+    mc "我还没有让一个学生失败过，奥利维亚。我想你也不会是第一个。"
 
 # game/code/e15/e15s03.rpy:168
 translate chinese e15s03_pool_ebffa31e:
 
     # mc "Min and I have put our heart and soul into this place. It's our proudest achievement."
-    mc "Min and I have put our heart and soul into this place. It's our proudest achievement."
+    mc "我和明全身心地投入到这个地方。这是我们最自豪的成就。"
 
 # game/code/e15/e15s03.rpy:170
 translate chinese e15s03_pool_6e286df8:
 
     # mc "We spent six months on just research alone, figuring out how to make the best spa experience possible."
-    mc "We spent six months on just research alone, figuring out how to make the best spa experience possible."
+    mc "我们花了六个月的时间进行研究，想知道如何尽可能提供最好的水疗体验。"
 
 # game/code/e15/e15s03.rpy:173
 translate chinese e15s03_pool_010dd85d:
 
     # mc "And now we're going steadily in our second year. But I still hold myself to the same standard as when we just started out."
-    mc "And now we're going steadily in our second year. But I still hold myself to the same standard as when we just started out."
+    mc "现在我们已经稳步进入第二年。但我仍然要求自己保持和刚开始时一样的标准。"
 
 # game/code/e15/e15s03.rpy:176
 translate chinese e15s03_pool_790bf7f7:
 
     # mc "I promise to be a determined and fair-minded teacher to you."
-    mc "I promise to be a determined and fair-minded teacher to you."
+    mc "我保证会做一个坚定而公正的老师。"
 
 # game/code/e15/e15s03.rpy:179
 translate chinese e15s03_pool_8fed5615:
 
     # ovs "That's very good to hear."
-    ovs "That's very good to hear."
+    ovs "听你这么说真是太好了。"
 
 # game/code/e15/e15s03.rpy:182
 translate chinese e15s03_pool_d5d0a7d2:
 
     # sy "And if he does anything dumb, you just tell me and I'll kick his butt for you."
-    sy "And if he does anything dumb, you just tell me and I'll kick his butt for you."
+    sy "如果他做了什么蠢事，你就告诉我，我会帮你教训他。"
 
 # game/code/e15/e15s03.rpy:185
 translate chinese e15s03_pool_aad98600:
