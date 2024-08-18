@@ -136,7 +136,7 @@ translate turkish e16s07_5e2a9873:
 translate turkish e16s07_f78f9ccd:
 
     # "Lawyer" "I trust this material is important to these proceedings, Mr. Young?"
-    "Lawyer" "I trust this material is important to these proceedings, Mr. Young?"
+    "Lawyer" "Bu materyalin bu davalar için önemli olduğuna inanıyorum, Bay Young?"
 
 # game/code/e16/e16s07.rpy:149
 translate turkish e16s07_7b813d9e:
@@ -586,7 +586,7 @@ translate turkish e16s07_sex_3b0a864f:
 translate turkish e16s07_sex_0e8b0ae2:
 
     # kk "You make this old heffer feel so good, coming back to her udders."
-    kk "You make this old heffer feel so good, coming back to her udders."
+    kk "Memelerine geri döndüğünde bu yaşlı öküzü çok iyi hissettiriyorsun."
 
 # game/code/e16/e16s07.rpy:461
 translate turkish e16s07_sex_f0595e36:
@@ -670,7 +670,7 @@ translate turkish e16s07_sex_faeb00b8:
 translate turkish e16s07_sex_9f346437:
 
     # kk "Mooouwaah... that's the good stuff-huaaah!"
-    kk "Mooouwaah... that's the good stuff-huaaah!"
+    kk "Mooouwaah... Bu iyi bir şey-huaaah!"
 
 # game/code/e16/e16s07.rpy:504
 translate turkish e16s07_sex_bd31872e:
@@ -724,7 +724,7 @@ translate turkish e16s07_sex_57d7f2a3:
 translate turkish e16s07_sex_6d707ca6:
 
     # kk "*moaning* We're all in this together, taking care of the farm."
-    kk "*moaning* We're all in this together, taking care of the farm."
+    kk "*inleme* Hepimiz bu işte birlikteyiz, çiftliğe bakıyoruz."
 
 # game/code/e16/e16s07.rpy:536
 translate turkish e16s07_sex_d4cf2a04:
@@ -850,7 +850,7 @@ translate turkish e16s07_sex_38b9571a:
 translate turkish e16s07_sex_877f8ee6:
 
     # mct "Lord beer me strength."
-    mct "Lord beer me strength."
+    mct "Tanrım bana güç ver."
 
 # game/code/e16/e16s07.rpy:615
 translate turkish e16s07_sex_f53f1977:
