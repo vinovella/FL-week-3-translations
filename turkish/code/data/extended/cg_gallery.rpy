@@ -227,15 +227,15 @@ translate turkish strings:
 
     # game/code/data/extended/cg_gallery.rpy:79
     old "Ending 05: Lyssa & Oliver"
-    new "Ending 05: Lyssa & Oliver"
+    new "5. Son: Lyssa & Oliver"
 
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Jessie & Kanya"
-    new "Ending 16: Jessie & Kanya"
+    new "16. Son: Jessie & Kanya"
 
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Farm Animals"
-    new "Ending 16: Farm Animals"
+    new "Son 16: Çiftlik Hayvanları"
 
 # TODO: Translation updated at 2024-08-18 16:13
 
@@ -243,17 +243,17 @@ translate turkish strings:
 
     # game/code/data/extended/cg_gallery.rpy:114
     old "Ending 15: Girls"
-    new "Ending 15: Girls"
+    new "15. Son: Kızlar"
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Samiya & Dahlia"
-    new "Ending 18: Samiya & Dahlia"
+    new "18. Son: Samiya & Dahlia"
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Kendell & Londyn"
-    new "Ending 18: Kendell & Londyn"
+    new "18. Son: Kendell & Londyn"
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Four Beauties"
-    new "Ending 18: Four Beauties"
+    new "18. Son: Dört Güzeller"
 
