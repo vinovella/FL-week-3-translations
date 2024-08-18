@@ -34,7 +34,7 @@ translate turkish e05s05_268f8b19:
 translate turkish e05s05_a12b8793:
 
     # mc "'The suit maketh the man.'"
-    mc "'The suit maketh the man.'"
+    mc "'Takım elbise adamı yapar.'"
 
 # game/code/e05/e05s05.rpy:57
 translate turkish e05s05_96116553:
@@ -106,7 +106,7 @@ translate turkish e05s05_c85b6e53:
 translate turkish e05s05_e92f94f5:
 
     # op "Wha-wait!"
-    op "Wha-wait!"
+    op "Ne-bekle!"
 
 # game/code/e05/e05s05.rpy:101
 translate turkish e05s05_261edf3d:
@@ -520,7 +520,7 @@ translate turkish e05s05_sex_a886c40f:
 translate turkish e05s05_sex_3638189c:
 
     # op "-Doing!?"
-    op "-Doing!?"
+    op "-Yapıyorsun!?"
 
 # game/code/e05/e05s05.rpy:327
 translate turkish e05s05_sex_c2e4ced4:
