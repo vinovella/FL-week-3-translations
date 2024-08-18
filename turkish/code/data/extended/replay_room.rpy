@@ -360,27 +360,27 @@ translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:103
     old "Ending 05: Oliver"
-    new "Ending 05: Oliver"
+    new "5. Son: Oliver"
 
     # game/code/data/extended/replay_room.rpy:103
     old "Ending 05: Lyssa"
-    new "Ending 05: Lyssa"
+    new "5. Son: Lyssa"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie and Molly"
-    new "Ending 16: Jessie and Molly"
+    new "16. Son : Jessie ve Molly"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie and Kanya"
-    new "Ending 16: Jessie and Kanya"
+    new "16. Son: Jessie ve Kanya"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Sage and Kristen"
-    new "Ending 16: Sage and Kristen"
+    new "16. Son: Sage ve Kristen"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie, Molly, Sage & Kristen"
-    new "Ending 16: Jessie, Molly, Sage & Kristen"
+    new "16. Son: Jessie, Molly, Sage & Kristen"
 
 # TODO: Translation updated at 2024-08-18 16:13
 
@@ -388,11 +388,11 @@ translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Min & Stacy"
-    new "Ending 15: Min & Stacy"
+    new "15. Son: Min & Stacy"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Watersports"
-    new "Ending 15: Watersports"
+    new "15. Son: Su Sporları"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Olivia, Bell & Annie"
