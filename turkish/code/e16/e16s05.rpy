@@ -244,7 +244,7 @@ translate turkish e16s05_sex_766d5b4a:
 translate turkish e16s05_sex_567d5e68:
 
     # mct "Be still my beating heart."
-    mct "Be still my beating heart."
+    mct "Sakin ol atan kalbim."
 
 # game/code/e16/e16s05.rpy:263
 translate turkish e16s05_sex_251f7fba:
@@ -304,7 +304,7 @@ translate turkish e16s05_sex_33be7a54:
 translate turkish e16s05_sex_911bcb8d:
 
     # jf "*softly* Now... do her, [mcname]."
-    jf "*softly* Now... do her, [mcname]."
+    jf "*yumuşakça* Şimdi... yap onu, [mcname]."
 
 # game/code/e16/e16s05.rpy:297
 translate turkish e16s05_sex_fe732612:
@@ -472,7 +472,7 @@ translate turkish e16s05_sex_e085dcee:
 translate turkish e16s05_sex_729a97ef:
 
     # jf "It feels weird... Oouhaah..."
-    jf "It feels weird... Oouhaah..."
+    jf "Garip hissettiriyor... Oouhaah..."
 
 # game/code/e16/e16s05.rpy:391
 translate turkish e16s05_sex_2a2a0d59:
@@ -688,7 +688,7 @@ translate turkish e16s05_sex_1afa5893:
 translate turkish e16s05_sex_32d96b22:
 
     # kv "*straining* H-Hold that pose for me for just a little bit, Master."
-    kv "*straining* H-Hold that pose for me for just a little bit, Master."
+    kv "*süzme* Bu pozu benim için biraz daha tutun, Usta."
 
 # game/code/e16/e16s05.rpy:525
 translate turkish e16s05_sex_e58bad11:
@@ -748,7 +748,7 @@ translate turkish e16s05_sex_5ad5b9d6:
 translate turkish e16s05_sex_03cb9c40:
 
     # jf "*whispers* She's into that."
-    jf "*whispers* She's into that."
+    jf "*fısıldar* Bunu seviyor."
 
 # game/code/e16/e16s05.rpy:554
 translate turkish e16s05_sex_bd676c55:
@@ -922,7 +922,7 @@ translate turkish e16s05_sex_6648eb91:
 translate turkish e16s05_sex_9af25032:
 
     # kv "*moaning* One-hundred percent!"
-    kv "*moaning* One-hundred percent!"
+    kv "*inleme* Yüzde yüz!"
 
 # game/code/e16/e16s05.rpy:647
 translate turkish e16s05_sex_8d7d4694:
@@ -934,7 +934,7 @@ translate turkish e16s05_sex_8d7d4694:
 translate turkish e16s05_sex_56c6e6fe:
 
     # mc "Fuck yeah..."
-    mc "Fuck yeah..."
+    mc "Siktirrr Evet..."
 
 # game/code/e16/e16s05.rpy:655
 translate turkish e16s05_sex_a289f2f1:
@@ -1126,7 +1126,7 @@ translate turkish e16s05_sex_0c3a8442:
 translate turkish e16s05_sex_21e673d7:
 
     # mc "Woah!"
-    mc "Woah!"
+    mc "Vay canına!"
 
 # game/code/e16/e16s05.rpy:774
 translate turkish e16s05_sex_1c75d360:
@@ -1150,7 +1150,7 @@ translate turkish e16s05_sex_916f2a22:
 translate turkish e16s05_sex_bb6ea926:
 
     # kv "Mrhmmm... Happy to."
-    kv "Mrhmmm... Happy to."
+    kv "Mrhmmm... Mutlu oldum."
 
 # game/code/e16/e16s05.rpy:787
 translate turkish e16s05_sex_efedc784:
@@ -1192,7 +1192,7 @@ translate turkish e16s05_sex_96abfd78:
 translate turkish e16s05_sex_1dbd861c:
 
     # jf "*softly* But I want you to cum inside me."
-    jf "*softly* But I want you to cum inside me."
+    jf "*yumuşakça* Ama içime boşalmanı istiyorum."
 
 # game/code/e16/e16s05.rpy:806
 translate turkish e16s05_sex_87d7894e:
