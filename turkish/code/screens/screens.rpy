@@ -356,9 +356,9 @@ translate turkish strings:
 
     # game/code/screens/screens.rpy:886
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Ren'Py Senkronizasyonu Kaydet"
 
     # game/code/screens/screens.rpy:1056
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Diyalog Kutusu Opaklığı"
 
