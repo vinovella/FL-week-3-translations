@@ -424,7 +424,7 @@ translate turkish e05s04_sex_531a8fe9:
 translate turkish e05s04_sex_2c3aa707:
 
     # op "B-but..."
-    op "B-but..."
+    op "A-Amaaa..."
 
 # game/code/e05/e05s04.rpy:278
 translate turkish e05s04_sex_c8472972:
@@ -520,13 +520,13 @@ translate turkish e05s04_sex_2bdcac86:
 translate turkish e05s04_sex_4acb7cde:
 
     # op "O-oh, g-goodness - Lyssa..."
-    op "O-oh, g-goodness - Lyssa..."
+    op "A-Aman, T-Tanrımmm - Lyssa..."
 
 # game/code/e05/e05s04.rpy:338
 translate turkish e05s04_sex_7ee35450:
 
     # op "That's a-amazing!"
-    op "That's a-amazing!"
+    op "Bu H-harika!"
 
 # game/code/e05/e05s04.rpy:342
 translate turkish e05s04_sex_c641a436:
@@ -538,7 +538,7 @@ translate turkish e05s04_sex_c641a436:
 translate turkish e05s04_sex_09a8f9bd:
 
     # op "I-I know it! Wowww..."
-    op "I-I know it! Wowww..."
+    op "B-Biliyorum! Wowww..."
 
 # game/code/e05/e05s04.rpy:351
 translate turkish e05s04_sex_bcdbebdd:
@@ -604,7 +604,7 @@ translate turkish e05s04_sex_9efa0005:
 translate turkish e05s04_sex_54c2cf83:
 
     # "*SCREEECH*"
-    "*SCREEECH*"
+    "*ÇEKMEE*"
 
 # game/code/e05/e05s04.rpy:390
 translate turkish e05s04_sex_f3f4f75f:
@@ -706,7 +706,7 @@ translate turkish e05s04_sex_3da2eccc:
 translate turkish e05s04_sex_a811e8a0:
 
     # op "Fuhhh - Goood, I want to cum already!"
-    op "Fuhhh - Goood, I want to cum already!"
+    op "SOKKTTTOO - İyyiiii, Şimdiden boşalmak istiyorum.!"
 
 # game/code/e05/e05s04.rpy:435
 translate turkish e05s04_sex_b73596ff:
@@ -736,7 +736,7 @@ translate turkish e05s04_sex_70d5204c:
 translate turkish e05s04_sex_3c781b37:
 
     # op "Fuh - Here it cooomes!"
-    op "Fuh - Here it cooomes!"
+    op "Sokktoo - İşte geliyor!"
 
 # game/code/e05/e05s04.rpy:452
 translate turkish e05s04_sex_b0d0cd1c:
@@ -1126,7 +1126,7 @@ translate turkish e05s04_sex_e76b0bbc:
 translate turkish e05s04_sex_fbc03911:
 
     # mct "But fuck is it hot!"
-    mct "But fuck is it hot!"
+    mct "Ama çok sıcak!"
 
 # game/code/e05/e05s04.rpy:670
 translate turkish e05s04_sex_426ac577:
@@ -1294,19 +1294,19 @@ translate turkish e05s04_sex_83e0075b:
 translate turkish e05s04_sex_28e26403:
 
     # op "Cum, I want you both to cum!"
-    op "Cum, I want you both to cum!"
+    op "Boşalın, ikinizin de boşalmasını istiyorum.!"
 
 # game/code/e05/e05s04.rpy:743
 translate turkish e05s04_sex_876aecd3:
 
     # mc "Oh shi- OH SHI-!"
-    mc "Oh shi- OH SHI-!"
+    mc "Oh Sikkt- OH Sikktt-!"
 
 # game/code/e05/e05s04.rpy:750
 translate turkish e05s04_sex_7f0daa4c:
 
     # mc "SHIT!"
-    mc "BOK!"
+    mc "SİKTİR!"
 
 # game/code/e05/e05s04.rpy:752
 translate turkish e05s04_sex_dd4917b0:
