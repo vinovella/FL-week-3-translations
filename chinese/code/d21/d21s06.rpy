@@ -1314,48 +1314,6 @@ translate chinese d21s06_reboot_fl_00d7d5cb:
     # sy "So what do you think we should name it?"
     sy "你们觉得，我们该给它取什么名字呢？"
 
-# game/code/d21/d21s06.rpy:403
-translate chinese d21s06_reboot_fl_334a8367:
-
-    # sy "[fl_rebooted_name]."
-    sy "[fl_rebooted_name]."
-
-# game/code/d21/d21s06.rpy:404
-translate chinese d21s06_reboot_fl_1923ec31:
-
-    # sy "That's a name."
-    sy "这个名字不错。"
-
-# game/code/d21/d21s06.rpy:406
-translate chinese d21s06_reboot_fl_db9edca0:
-
-    # arj "Is it?"
-    arj "是吗？"
-
-# game/code/d21/d21s06.rpy:408
-translate chinese d21s06_reboot_fl_6ae37544:
-
-    # sy "At least he didn't name it Locate Fetish."
-    sy "至少他没有给它取名为\"探测性癖\"。"
-
-# game/code/d21/d21s06.rpy:411
-translate chinese d21s06_reboot_fl_acaa56d1:
-
-    # sy "Locate Fetish? Really???"
-    sy "\"探测性癖\"？真的吗???"
-
-# game/code/d21/d21s06.rpy:414
-translate chinese d21s06_reboot_fl_f4d2de8b:
-
-    # mc "Hey, if you don't like it, then you come up with an alternative. If not, then don't complain."
-    mc "嘿，不喜欢的话，你就想出一个替代方案。如果你没想法，那就别抱怨。"
-
-# game/code/d21/d21s06.rpy:415
-translate chinese d21s06_reboot_fl_3efe3ff8:
-
-    # sy "I didn't say anything."
-    sy "我什么都没说。"
-
 # game/code/d21/d21s06.rpy:416
 translate chinese d21s06_reboot_fl_2bad061a:
 

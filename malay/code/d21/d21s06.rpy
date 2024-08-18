@@ -1314,48 +1314,6 @@ translate malay d21s06_reboot_fl_00d7d5cb:
     # sy "So what do you think we should name it?"
     sy "Jadi apa kita patut namakannya?"
 
-# game/code/d21/d21s06.rpy:601
-translate malay d21s06_reboot_fl_334a8367:
-
-    # sy "[fl_rebooted_name]."
-    sy "[fl_rebooted_name]."
-
-# game/code/d21/d21s06.rpy:602
-translate malay d21s06_reboot_fl_1923ec31:
-
-    # sy "That's a name."
-    sy "Itulah namanya."
-
-# game/code/d21/d21s06.rpy:605
-translate malay d21s06_reboot_fl_db9edca0:
-
-    # arj "Is it?"
-    arj "Betul?"
-
-# game/code/d21/d21s06.rpy:608
-translate malay d21s06_reboot_fl_6ae37544:
-
-    # sy "At least he didn't name it Locate Fetish."
-    sy "Sekurang-kurangnya dia tak namakannya Locate Fetish."
-
-# game/code/d21/d21s06.rpy:612
-translate malay d21s06_reboot_fl_acaa56d1:
-
-    # sy "Locate Fetish? Really???"
-    sy "Locate Fetish? Betul???"
-
-# game/code/d21/d21s06.rpy:616
-translate malay d21s06_reboot_fl_f4d2de8b:
-
-    # mc "Hey, if you don't like it, then you come up with an alternative. If not, then don't complain."
-    mc "Hey, kalau kau tak menyukainya, maka kau datang dengan alternatif. Kalau tak, jangan merungut."
-
-# game/code/d21/d21s06.rpy:618
-translate malay d21s06_reboot_fl_3efe3ff8:
-
-    # sy "I didn't say anything."
-    sy "aku tak berkata apa-apa."
-
 # game/code/d21/d21s06.rpy:619
 translate malay d21s06_reboot_fl_2bad061a:
 

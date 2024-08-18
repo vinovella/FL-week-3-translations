@@ -197,3 +197,23 @@ translate portuguese strings:
     old "Ending 16: Jessie & Kanya"
     new ""
 
+# TODO: Translation updated at 2024-08-18 16:35
+
+translate portuguese strings:
+
+    # game/code/data/extended/cg_gallery.rpy:114
+    old "Ending 15: Girls"
+    new "Ending 15: Girls"
+
+    # game/code/data/extended/cg_gallery.rpy:128
+    old "Ending 18: Samiya & Dahlia"
+    new "Ending 18: Samiya & Dahlia"
+
+    # game/code/data/extended/cg_gallery.rpy:128
+    old "Ending 18: Kendell & Londyn"
+    new "Ending 18: Kendell & Londyn"
+
+    # game/code/data/extended/cg_gallery.rpy:128
+    old "Ending 18: Four Beauties"
+    new "Ending 18: Four Beauties"
+
