@@ -708,5 +708,5 @@ translate turkish strings:
 translate turkish d18s05_after_sex_ec16ba99:
 
     # sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
-    sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
+    sb "Buradan nefret ediyorum. Lanet olası bir beton ormanı. Gevşemek için bir seyahate ihtiyacım var."
 
