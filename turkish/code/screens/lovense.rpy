@@ -148,13 +148,13 @@ translate turkish strings:
 
     # game/code/screens/lovense.rpy:27
     old "1. Click on the \"Discover\" tab"
-    new "1. Click on the \"Discover\" tab"
+    new "1. \“Keşfet\” sekmesine tıklayın"
 
     # game/code/screens/lovense.rpy:28
     old "2. Then click on \"Game Mode\" option"
-    new "2. Then click on \"Game Mode\" option"
+    new "2. Ardından \“Oyun Modu\” seçeneğine tıklayın"
 
     # game/code/screens/lovense.rpy:36
     old "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
-    new "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+    new "4. Uygulamada gösterilen \“Yerel IP\” ve \“Bağlantı Noktası\” bilgilerini girin\nArdından Bağlan'a tıklayın."
 
