@@ -532,7 +532,7 @@ translate turkish e16s04_sex_36dc46ce:
 translate turkish e16s04_sex_69d7a289:
 
     # mct "Gotta hold on a little longer."
-    mct "Gotta hold on a little longer."
+    mct "Biraz daha dayanmalıyım.."
 
 # game/code/e16/e16s04.rpy:388
 translate turkish e16s04_sex_6e29d8a8:
@@ -676,7 +676,7 @@ translate turkish e16s04_sex_69160d60:
 translate turkish e16s04_sex_089823e8:
 
     # jf "But-but I have a feeling it's going to happen very soon."
-    jf "But-but I have a feeling it's going to happen very soon."
+    jf "Ama içimde çok yakında olacakmış gibi bir his var."
 
 # game/code/e16/e16s04.rpy:460
 translate turkish e16s04_sex_bf158fcb:
