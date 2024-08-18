@@ -1126,7 +1126,7 @@ translate turkish e05s06_sex_41364fc3:
 translate turkish e05s06_sex_d97c6012:
 
     # mh "I - mmmmmnnnng - fuck, I don't know how much more I can take."
-    mh "I - mmmmmnnnng - fuck, I don't know how much more I can take."
+    mh "Ben - mmmmmnnnng - Lanet olsun, daha ne kadar dayanabilirim bilmiyorum."
 
 # game/code/e05/e05s06.rpy:745
 translate turkish e05s06_sex_ccebdc8c:
@@ -1174,13 +1174,13 @@ translate turkish e05s06_sex_82604a56:
 translate turkish e05s06_sex_348a857a:
 
     # mh "Yesss, pound me, [mcname]! Use me like you used me all day!"
-    mh "Yesss, vur bana, [mcname]! Beni bütün gün kullandığın gibi kullan!"
+    mh "Evetttt, vur bana, [mcname]! Beni bütün gün kullandığın gibi kullan!"
 
 # game/code/e05/e05s06.rpy:771
 translate turkish e05s06_sex_52ab5214:
 
     # mc "Are you just my little cum dumpster, Lyssa?"
-    mc "Are you just my little cum dumpster, Lyssa?"
+    mc "ASen sadece benim küçük döl çöplüğüm müsün, Lyssa?"
 
 # game/code/e05/e05s06.rpy:774
 translate turkish e05s06_sex_dea6c60d:
@@ -1222,7 +1222,7 @@ translate turkish e05s06_sex_858f867b:
 translate turkish e05s06_sex_f289c118:
 
     # mh "Oh myyyyy - fuh - fuh - fuhhhck, [mcname]!"
-    mh "Oh myyyyy - fuh - fuh - fuhhhck, [mcname]!"
+    mh "Amannn - Sikk - Sikkk - Siktirrrr, [mcname]!"
 
 # game/code/e05/e05s06.rpy:786
 translate turkish e05s06_sex_6eef1a45:
@@ -1246,7 +1246,7 @@ translate turkish e05s06_sex_0c6d4e7e:
 translate turkish e05s06_sex_8d08325c:
 
     # mh "Yes, yes, yeeEEEEESSS, GOD YES I'M CUMMING!"
-    mh "Evet, evet, yeeEEEEESSS, TANRI EVET KUMLUYORUM!"
+    mh "Evet, evet, eveeeeeTTTT, TANRIM EVET GELİYORUM!"
 
 # game/code/e05/e05s06.rpy:804
 translate turkish e05s06_sex_7147cce5:
