@@ -322,7 +322,7 @@ translate turkish e16s06_3523db78:
 translate turkish e16s06_263752a9:
 
     # mct "*phew* I fucking hate taking out weeds."
-    mct "*phew* I fucking hate taking out weeds."
+    mct "*Vay be* Yabani otları sökmekten nefret ediyorum.."
 
 # game/code/e16/e16s06.rpy:246
 translate turkish e16s06_5c58b4dc:
@@ -460,7 +460,7 @@ translate turkish e16s06_sex_0e054c33:
 translate turkish e16s06_sex_533f0980:
 
     # mct "Here goes nothing."
-    mct "Here goes nothing."
+    mct "Burada hiçbir şey yok.."
 
 # game/code/e16/e16s06.rpy:350
 translate turkish e16s06_sex_deac30c5:
@@ -964,13 +964,13 @@ translate turkish e16s06_sex_db97b7d0:
 translate turkish e16s06_sex_72ab5a74:
 
     # scat "Eeeeeh... Yes, Master."
-    scat "Eeeeeh... Yes, Master."
+    scat "Eeeeeh... Evet, efendim."
 
 # game/code/e16/e16s06.rpy:661
 translate turkish e16s06_sex_b85a9b41:
 
     # scat "It's with you... I can... meeouah... I can take it."
-    scat "It's with you... Yapabilirim... meeouah... Yapabilirim."
+    scat "O seninle... Yapabilirim... meeouah... Yapabilirim."
 
 # game/code/e16/e16s06.rpy:662
 translate turkish e16s06_sex_50fb42b4:
@@ -1060,13 +1060,13 @@ translate turkish e16s06_sex_6d407477:
 translate turkish e16s06_sex_54751bdd:
 
     # scat "*breathless* Whatever... whatever you like..."
-    scat "*breathless* Whatever... whatever you like..."
+    scat "*nefes nefese* Ne olursa olsun... ne istersen..."
 
 # game/code/e16/e16s06.rpy:715
 translate turkish e16s06_sex_18c71882:
 
     # scat "Mewoaahuah... It's so thick!"
-    scat "Mewoaahuah... It's so thick!"
+    scat "Mewoaahuah... Çok kalın!"
 
 # game/code/e16/e16s06.rpy:718
 translate turkish e16s06_sex_c8cf6f71:
@@ -1126,13 +1126,13 @@ translate turkish e16s06_sex_d9b1e5ae:
 translate turkish e16s06_sex_7bdeab5b:
 
     # mc "Ooouh, yeah..."
-    mc "Ooouh, yeah..."
+    mc "Ooouh, evet..."
 
 # game/code/e16/e16s06.rpy:742
 translate turkish e16s06_sex_dde5da10:
 
     # scat "*straining* I can't believe my ass can fit your whole dickahuaah..."
-    scat "*straining* I can't believe my ass can fit your whole dickahuaah..."
+    scat "*süzme* Kıçımın senin bütün aletine sığabileceğine inanamıyorumahuaah..."
 
 # game/code/e16/e16s06.rpy:745
 translate turkish e16s06_sex_a8471449:
@@ -1144,13 +1144,13 @@ translate turkish e16s06_sex_a8471449:
 translate turkish e16s06_sex_87527359:
 
     # scat "I love it. I love feeling your big cock pushing inside my tiny little hole."
-    scat "I love it. Büyük sikinin küçük deliğimin içine girmesine bayılıyorum."
+    scat "Bayıldım. Büyük sikinin küçük deliğimin içine girmesine bayılıyorum."
 
 # game/code/e16/e16s06.rpy:749
 translate turkish e16s06_sex_b9c65d8c:
 
     # scat "*straining harder* It's all for you. My ass... my pussy... it all... ah-huuaah..."
-    scat "*straining harder* It's all for you. Kıçım... amım... hepsi... ah-huuaah..."
+    scat "*daha çok zorlayarak* It's all for you. Kıçım... amım... hepsi... ah-huuaah..."
 
 # game/code/e16/e16s06.rpy:750
 translate turkish e16s06_sex_2dcff80a:
@@ -1174,19 +1174,19 @@ translate turkish e16s06_sex_1db079a7:
 translate turkish e16s06_sex_a6766a16:
 
     # scat "I want... I want to take me from behind. Please Master."
-    scat "I want... Beni arkadan almak istiyorum. Lütfen Usta."
+    scat "Ben istiyorum... Beni arkadan almak istiyorum. Lütfen Usta."
 
 # game/code/e16/e16s06.rpy:773
 translate turkish e16s06_sex_48c60541:
 
     # scat "YESSSSSAhuaha!"
-    scat "YESSSSSAhuaha!"
+    scat "EVETTTTTAhuaha!"
 
 # game/code/e16/e16s06.rpy:776
 translate turkish e16s06_sex_b12e26e5:
 
     # scat "I'm cumming... I'm cumming I'm cumming I'm cumminghuaah!"
-    scat "I'm cumming... Boşalıyorum, boşalıyorum, boşalıyorum!"
+    scat "Boşalıyorum... Boşalıyorum, boşalıyorum, boşalıyorum!"
 
 # game/code/e16/e16s06.rpy:780
 translate turkish e16s06_sex_20ffb8c4:
@@ -1204,7 +1204,7 @@ translate turkish e16s06_sex_48fe0e0e:
 translate turkish e16s06_sex_27d5a0eb:
 
     # scat "Ahuaaah... so hottuaaaah!"
-    scat "Ahuaaah... so hottuaaaah!"
+    scat "Ahuaaah... Çok sıcak.tuaaaah!"
 
 # game/code/e16/e16s06.rpy:790
 translate turkish e16s06_sex_b8bd009a:
