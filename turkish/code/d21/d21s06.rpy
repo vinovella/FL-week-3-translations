@@ -1314,48 +1314,6 @@ translate turkish d21s06_reboot_fl_00d7d5cb:
     # sy "So what do you think we should name it?"
     sy "Peki sizce adını ne koymalıyız?"
 
-# game/code/d21/d21s06.rpy:601
-translate turkish d21s06_reboot_fl_334a8367:
-
-    # sy "[fl_rebooted_name]."
-    sy "[fl_rebooted_name]."
-
-# game/code/d21/d21s06.rpy:602
-translate turkish d21s06_reboot_fl_1923ec31:
-
-    # sy "That's a name."
-    sy "Bu bir isim."
-
-# game/code/d21/d21s06.rpy:605
-translate turkish d21s06_reboot_fl_db9edca0:
-
-    # arj "Is it?"
-    arj "Bu mu?"
-
-# game/code/d21/d21s06.rpy:608
-translate turkish d21s06_reboot_fl_6ae37544:
-
-    # sy "At least he didn't name it Locate Fetish."
-    sy "En azından Locate Fetish adını vermedi."
-
-# game/code/d21/d21s06.rpy:612
-translate turkish d21s06_reboot_fl_acaa56d1:
-
-    # sy "Locate Fetish? Really???"
-    sy "Fetiş Bul? Gerçekten mi???"
-
-# game/code/d21/d21s06.rpy:616
-translate turkish d21s06_reboot_fl_f4d2de8b:
-
-    # mc "Hey, if you don't like it, then you come up with an alternative. If not, then don't complain."
-    mc "Hey, eğer beğenmediysen, o zaman bir alternatif bulursun. Beğenmediysen şikayet etme."
-
-# game/code/d21/d21s06.rpy:618
-translate turkish d21s06_reboot_fl_3efe3ff8:
-
-    # sy "I didn't say anything."
-    sy "Ben bir şey demedim."
-
 # game/code/d21/d21s06.rpy:619
 translate turkish d21s06_reboot_fl_2bad061a:
 
@@ -2481,4 +2439,24 @@ translate turkish d21s06_wellness_spa_546d00c0:
 
     # mc "I'll be right there."
     mc "I'll be right there."
+
+# TODO: Translation updated at 2024-08-18 16:13
+
+# game/code/d21/d21s06.rpy:582
+translate turkish d21s06_reboot_fl_6d5e9610:
+
+    # mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
+    mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
+
+# game/code/d21/d21s06.rpy:584
+translate turkish d21s06_reboot_fl_304163ca:
+
+    # sy "I love it."
+    sy "I love it."
+
+# game/code/d21/d21s06.rpy:587
+translate turkish d21s06_reboot_fl_b23fc0ce:
+
+    # arj "It's perfect. On point and easy to understand."
+    arj "It's perfect. On point and easy to understand."
 

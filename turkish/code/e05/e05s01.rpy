@@ -400,7 +400,7 @@ translate turkish e05s01_f30cf115:
 translate turkish e05s01_f395ca37:
 
     # op "[mcname], you can have anyone. {i}Anyone.{/i} I mean, you've got Ms. Harris! Why... Why me?"
-    op "[mcname], herkesi alabilirsin. {Herkes. Yani, Bayan Harris'e sahipsiniz! Neden... Neden ben?"
+    op "[mcname], herkesi alabilirsin. {i}Herkes.{/i} Yani, Bayan Harris'e sahipsiniz! Neden... Neden ben?"
 
 # game/code/e05/e05s01.rpy:318
 translate turkish e05s01_7e816463:

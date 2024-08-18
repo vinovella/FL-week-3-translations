@@ -1060,7 +1060,7 @@ translate turkish e05s04_sex_a7044c93:
 translate turkish e05s04_sex_02d7c95a:
 
     # op "I-I want to {i}fuck{/i} you, Lyssa."
-    op "Seni becermek {i}istiyorum, Lyssa."
+    op "Seni becermek {i}isti{/i} yorum, Lyssa."
 
 # game/code/e05/e05s04.rpy:640
 translate turkish e05s04_sex_10c4c8aa:

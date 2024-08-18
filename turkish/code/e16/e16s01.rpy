@@ -298,7 +298,7 @@ translate turkish e16s01_8414ebd2:
 translate turkish e16s01_233b868c:
 
     # jf "I'm sorry. I mean... in the letter I got from my aunt, I just remembered. It said \"take care of the dog\"."
-    jf "Özür dilerim. Yani... teyzemden aldığım mektupta, şimdi hatırladım. "Köpeğe iyi bak" yazıyordu."
+    jf "Özür dilerim. Yani... teyzemden aldığım mektupta, şimdi hatırladım. \"Köpeğe iyi bak\" yazıyordu."
 
 # game/code/e16/e16s01.rpy:271
 translate turkish e16s01_aa4bbbe8:

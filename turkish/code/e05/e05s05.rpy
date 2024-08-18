@@ -46,7 +46,7 @@ translate turkish e05s05_96116553:
 translate turkish e05s05_35af59c3:
 
     # mc "You know, 'the suit maketh the man.'{w} You didn't see that movie?"
-    "Bilirsin, 'takım elbise adamı yapar'."{w} O filmi izlemedin mi?"
+    mc "Bilirsin, 'takım elbise adamı yapar.'{w} O filmi izlemedin mi?"
 
 # game/code/e05/e05s05.rpy:63
 translate turkish e05s05_ec3d1897:
@@ -238,7 +238,7 @@ translate turkish e05s05_b09582e1:
 translate turkish e05s05_0c134722:
 
     # mc "I think you look {i}fucking great!{/i}"
-    mc "Bence harika görünüyorsun!{/i}"
+    mc "Bence harika {i}görünüyorsun!{/i}"
 
 # game/code/e05/e05s05.rpy:177
 translate turkish e05s05_f92c6259:
@@ -748,7 +748,7 @@ translate turkish e05s05_sex_f67c3544:
 translate turkish e05s05_sex_da3a7a9a:
 
     # op "G-good! It fits {i}perfectly!{/i}"
-    op "G-iyi! Tam oturdu!{/i}"
+    op "G-iyi! Tam {i}oturdu!{/i}"
 
 # game/code/e05/e05s05.rpy:457
 translate turkish e05s05_sex_1b6a10bf:
@@ -892,7 +892,7 @@ translate turkish e05s05_sex_2d008c24:
 translate turkish e05s05_sex_7165384b:
 
     # op "Whatever you've been doing, keep doing it! I want you to fuck me like this {i}every time.{/i}"
-    "Her ne yapıyorsan, yapmaya devam et! Beni her seferinde böyle becermeni istiyorum.{/i}"
+    "Her ne yapıyorsan, yapmaya devam et! Beni her seferinde böyle becermeni {i}istiyorum.{/i}"
 
 # game/code/e05/e05s05.rpy:536
 translate turkish e05s05_sex_96295afe:

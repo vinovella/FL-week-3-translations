@@ -742,7 +742,7 @@ translate turkish e05s06_court_room_0d2e3600:
 translate turkish e05s06_court_room_d6473316:
 
     # mh "You go home, relax. You've had a {i}long, hard{/i} day."
-    mh "Eve git, rahatla. Uzun ve zor bir {i}gün geçirdin."
+    mh "Eve git, rahatla. Uzun ve zor bir {i}gün geçirdin{/i}."
 
 # game/code/e05/e05s06.rpy:525
 translate turkish e05s06_court_room_d128ff95:
@@ -952,7 +952,7 @@ translate turkish e05s06_sex_a27b64ba:
 translate turkish e05s06_sex_21384838:
 
     # mh "Yes! Cum in me! {i}Shoot your thick ropes of semen deep into my stomach!{/i}"
-    "Evet! İçime boşal! {Kalın sperm iplerini karnımın derinliklerine fışkırt!"
+    "Evet! İçime boşal! {i}Kalın sperm iplerini karnımın derinliklerine fışkırt!{/i}"
 
 # game/code/e05/e05s06.rpy:659
 translate turkish e05s06_sex_dbadb8b0:

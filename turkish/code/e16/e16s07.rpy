@@ -244,7 +244,7 @@ translate turkish e16s07_6ccca8b8:
 translate turkish e16s07_6cc164d4:
 
     # ryan "You really think-"
-    Ryan "Gerçekten düşünüyorsun-"
+    ryan "Gerçekten düşünüyorsun-"
 
 # game/code/e16/e16s07.rpy:213
 translate turkish e16s07_ebe1ff9d:
