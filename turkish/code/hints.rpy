@@ -1344,51 +1344,51 @@ translate turkish strings:
 
     # game/code/hints.rpy:5
     old "You take Oliver's anal virginity."
-    new "You take Oliver's anal virginity."
+    new "Oliver'ın anal bekaretini alıyorsun."
 
     # game/code/hints.rpy:5
     old "Lyssa takes Oliver's anal virginity."
-    new "Lyssa takes Oliver's anal virginity."
+    new "Lyssa Oliver'ın anal bekaretini alıyor."
 
     # game/code/hints.rpy:5
     old "Oliver will felch out his own cum."
-    new "Oliver will felch out his own cum."
+    new "Oliver kendi dölünü akıtacak.."
 
     # game/code/hints.rpy:5
     old "Oliver will lick up his own cum."
-    new "Oliver will lick up his own cum."
+    new "Oliver kendi dölünü yalayacak."
 
     # game/code/hints.rpy:5
     old "You eat the cum off Oliver's face."
-    new "You eat the cum off Oliver's face."
+    new "Oliver'ın yüzündeki dölleri yiyorsun."
 
     # game/code/hints.rpy:5
     old "You don't eat the cum off Oliver's face."
-    new "You don't eat the cum off Oliver's face."
+    new "Oliver'ın yüzündeki dölleri yemiyorsun."
 
     # game/code/hints.rpy:5
     old "Watch Gemma release on Stacy."
-    new "Watch Gemma release on Stacy."
+    new "Gemma'nın Stacy'nin üzerine boşalmasını izle."
 
     # game/code/hints.rpy:5
     old "Gemma lets her enema go."
-    new "Gemma lets her enema go."
+    new "Gemma lavmanını bırakıyor."
 
     # game/code/hints.rpy:5
     old "Drink some of Min's pee."
-    new "Drink some of Min's pee."
+    new "Min'in çişinden biraz iç."
 
     # game/code/hints.rpy:5
     old "Don't drink Min's pee."
-    new "Don't drink Min's pee."
+    new "Min'in çişini içme."
 
     # game/code/hints.rpy:5
     old "Stacy holds [mcname]'s dick while he pees."
-    new "Stacy holds [mcname]'s dick while he pees."
+    new "Stacy işerken [mcname]'in aletini tutar."
 
     # game/code/hints.rpy:5
     old "Stacy gives [mcname] a rimjob while he pees."
-    new "Stacy gives [mcname] a rimjob while he pees."
+    new "Stacy [mcname] işerken ona oral seks yapıyor."
 
 # TODO: Translation updated at 2024-07-27 20:56
 
@@ -1396,69 +1396,69 @@ translate turkish strings:
 
     # game/code/hints.rpy:5
     old "Stacy holds your dick while he pees."
-    new "Stacy holds your dick while he pees."
+    new "Stacy işerken sikini tutuyor."
 
     # game/code/hints.rpy:5
     old "Stacy gives you a rimjob while he pees."
-    new "Stacy gives you a rimjob while he pees."
+    new "Stacy işerken sana oral seks yapıyor."
 
     # game/code/hints.rpy:5
     old "Unlock more Male on Male content with Pete."
-    new "Unlock more Male on Male content with Pete."
+    new "Pete ile daha fazla Erkek Erkeğe içeriğinin kilidini aç."
 
     # game/code/hints.rpy:5
     old "Locks Male on Male content with Pete."
-    new "Locks Male on Male content with Pete."
+    new "Pete ile Erkek Erkeğe içeriğini kilitler."
 
     # game/code/hints.rpy:5
     old "Make Dahlia happy, and maybe she'll be nicer to you."
-    new "Make Dahlia happy, and maybe she'll be nicer to you."
+    new "Dahlia'yı mutlu et, belki sana daha iyi davranır."
 
     # game/code/hints.rpy:5
     old "Agree to suck Pete's dick."
-    new "Agree to suck Pete's dick."
+    new "Pete'in aletini emmeyi kabul et."
 
     # game/code/hints.rpy:5
     old "Avoid male on male content with Pete."
-    new "Avoid male on male content with Pete."
+    new "Pete ile erkek erkeğe içerikten kaçının."
 
     # game/code/hints.rpy:5
     old "Be more confident with Samiya."
-    new "Be more confident with Samiya."
+    new "Samiya'ya karşı daha özgüvenli ol."
 
     # game/code/hints.rpy:5
     old "Let Samiya tease you."
-    new "Let Samiya tease you."
+    new "Samiya'nın seni kızdırmasına izin ver."
 
     # game/code/hints.rpy:5
     old "Score some points with Samiya."
-    new "Score some points with Samiya."
+    new "Samiya ile biraz puan kazan."
 
     # game/code/hints.rpy:5
     old "Agree that it would be good to get a bigger place."
-    new "Agree that it would be good to get a bigger place."
+    new "Daha büyük bir yer almanın iyi olacağına katılıyorum."
 
     # game/code/hints.rpy:5
     old "Tell Samiya you'd love seeing her in the dress."
-    new "Tell Samiya you'd love seeing her in the dress."
+    new "Samiya'ya onu elbisenin içinde görmeyi çok istediğini söyle."
 
     # game/code/hints.rpy:5
     old "Samiya will be glad you care that much about her happiness."
-    new "Samiya will be glad you care that much about her happiness."
+    new "Samiya onun mutluluğuna bu kadar önem verdiğin için memnun olacak"
 
     # game/code/hints.rpy:5
     old "Make Samiya say she wants to get fucked hard."
-    new "Make Samiya say she wants to get fucked hard."
+    new "Samiya'nın sertçe sikilmek istediğini söylemesini sağla."
 
     # game/code/hints.rpy:5
     old "Ask her what is going on."
-    new "Ask her what is going on."
+    new "Ona neler olduğunu sor."
 
     # game/code/hints.rpy:5
     old "Unlock one more scene with male on male content."
-    new "Unlock one more scene with male on male content."
+    new "Erkek erkeğe içerikli bir sahnenin daha kilidini aç."
 
     # game/code/hints.rpy:5
     old "Skip male on male content with Pete."
-    new "Skip male on male content with Pete."
+    new "Pete ile erkek erkeğe içeriği atla."
 
