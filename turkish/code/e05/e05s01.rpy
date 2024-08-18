@@ -712,7 +712,7 @@ translate turkish e05s01_sex_d715d796:
 translate turkish e05s01_sex_60d89f40:
 
     # op "Oh sweet goodness!"
-    op "Oh sweet goodness!"
+    op "Aman Tanrım!"
 
 # game/code/e05/e05s01.rpy:510
 translate turkish e05s01_sex_8fecc074:
@@ -1630,13 +1630,13 @@ translate turkish e05s01_mh_op_sex_38e98552:
 translate turkish e05s01_mh_op_sex_648b9a85:
 
     # mh "I'm just - Oh yes, just about to-!"
-    mh "I'm just - Oh yes, just about to-!"
+    mh "Ben sadece - Oh evet, hemen hemen-!"
 
 # game/code/e05/e05s01.rpy:1037
 translate turkish e05s01_mh_op_sex_66e4da2c:
 
     # mh "Yessssss, Olllliiiiiivvvverrrr!"
-    mh "Yessssss, Olllliiiiiivvverrrr!"
+    mh "Evettttt, Olllliiiiiivvverrrr!"
 
 # game/code/e05/e05s01.rpy:1039
 translate turkish e05s01_mh_op_sex_6b5f125a:
@@ -1744,13 +1744,13 @@ translate turkish e05s01_sex_end_9b6c6e2c:
 translate turkish e05s01_sex_end_b8b349f9:
 
     # op "Oh- Oh m-ma-my, I'm going to-!"
-    op "Oh- Oh m-ma-my, I'm going to-!"
+    op "Am-Amann Tanrımmm, Ben gidiyorum.-!"
 
 # game/code/e05/e05s01.rpy:1119
 translate turkish e05s01_sex_end_d41e9026:
 
     # op "I- Hooooolllyyy- I- I'm so, so sorry. I couldn't-t stop myself."
-    op "Ben- Hooooolllyyy- Ben- Ben çok, çok üzgünüm. Kendimi durduramadım."
+    op "Ben- Siktirrr- Ben- Ben çok, çok üzgünüm. Kendimi durduramadım."
 
 # game/code/e05/e05s01.rpy:1122
 translate turkish e05s01_sex_end_0df9dad6:
