@@ -141,7 +141,7 @@ translate turkish strings:
     new "Lily"
 
     old "Room Service"
-    new "Room Service"
+    new "Oda Servisi"
 
     old "Domina"
     new "Domina"
@@ -153,7 +153,7 @@ translate turkish strings:
     new "Gary"
 
     old "Molly the Dog"
-    new "Molly the Dog"
+    new "Köpek Molly"
 
     old "Ryan"
     new "Ryan"
