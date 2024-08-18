@@ -472,7 +472,7 @@ translate turkish e05s02_955a7b33:
 translate turkish e05s02_b1defc8b:
 
     # op "C-Come in!"
-    op "C-Come in!"
+    op "İçeri gel!"
 
 # game/code/e05/e05s02.rpy:291
 translate turkish e05s02_26b274f5:
@@ -886,7 +886,7 @@ translate turkish e05s02_sex_427d9157:
 translate turkish e05s02_sex_5ac242c9:
 
     # op "A-and what's t-that?"
-    op "A-and what's t-that?"
+    op "ve Bu da ne?"
 
 # game/code/e05/e05s02.rpy:503
 translate turkish e05s02_sex_f63d833a:
@@ -898,7 +898,7 @@ translate turkish e05s02_sex_f63d833a:
 translate turkish e05s02_sex_35dfd34c:
 
     # op "O-okay."
-    op "O-okay."
+    op "T-Tamam."
 
 # game/code/e05/e05s02.rpy:509
 translate turkish e05s02_sex_b0595498:
@@ -952,7 +952,7 @@ translate turkish e05s02_sex_8f751c25:
 translate turkish e05s02_sex_744a7f29:
 
     # mc "Mmmmmng, I, uh, don't mind!"
-    mc "Mmmmmng, I, uh, don't mind!"
+    mc "Mmmmmng, Ben, uh, sorun değil!"
 
 # game/code/e05/e05s02.rpy:546
 translate turkish e05s02_sex_0c706569:
@@ -1612,7 +1612,7 @@ translate turkish e05s02_mh_takes_opanalvirginity_4ba5fcc1:
 translate turkish e05s02_mh_takes_opanalvirginity_07825546:
 
     # op "T-This is ah-maz-zing!!"
-    op "T-This is ah-maz-zing!!"
+    op "B-Bu Ha-harika!!"
 
 # game/code/e05/e05s02.rpy:870
 translate turkish e05s02_mh_takes_opanalvirginity_4d333980:
@@ -1636,7 +1636,7 @@ translate turkish e05s02_mh_takes_opanalvirginity_7b536a5e:
 translate turkish e05s02_mh_takes_opanalvirginity_41db8c84:
 
     # op "Ohmy, ohmy - Goooooood!"
-    op "Ohmy, ohmy - Goooooood!"
+    op "Amann, Amann - Tannnrııımmmmm!"
 
 # game/code/e05/e05s02.rpy:878
 translate turkish e05s02_mh_takes_opanalvirginity_318dbe0e:
