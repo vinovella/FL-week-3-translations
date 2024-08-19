@@ -1018,7 +1018,7 @@ translate chinese replay_e15s04_535e8c66:
 translate chinese replay_e15s04_042755ed:
 
     # mc "Oh yeah, mmmm, right there..."
-    mc 哦，是的，嗯嗯嗯，就是那里..."
+    mc "哦，是的，嗯嗯嗯，就是那里..."
 
 # game/code/e15/e15s04.rpy:538
 translate chinese replay_e15s04_9c5b864f:
@@ -1516,5 +1516,5 @@ translate chinese strings:
 
     # game/code/e15/e15s04.rpy:54
     old "Olivia's first day of training"
-    new "奥利维亚第一天的训练""
+    new "奥利维亚第一天的训练"
 
