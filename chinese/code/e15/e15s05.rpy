@@ -4,13 +4,13 @@
 translate chinese replay_e15s05_6a958775:
 
     # mc "And this is where Lyssa holds most of her classes."
-    mc "And this is where Lyssa holds most of her classes."
+    mc "这就是丽莎上课的地方。"
 
 # game/code/e15/e15s05.rpy:76
 translate chinese replay_e15s05_ca99056f:
 
     # sy "Hi, Lyssa!"
-    sy "Hi, Lyssa!"
+    sy "嗨，丽莎！"
 
 # game/code/e15/e15s05.rpy:81
 translate chinese replay_e15s05_63f710a6:
@@ -22,883 +22,883 @@ translate chinese replay_e15s05_63f710a6:
 translate chinese replay_e15s05_d54f9479:
 
     # sy "Lyssa?"
-    sy "Lyssa?"
+    sy "丽莎？"
 
 # game/code/e15/e15s05.rpy:89
 translate chinese replay_e15s05_80eb0757:
 
     # mh "Hi, Stacy. [mcname]."
-    mh "Hi, Stacy. [mcname]."
+    mh "嗨，史黛西。[mcname]。"
 
 # game/code/e15/e15s05.rpy:90
 translate chinese replay_e15s05_c60c1f33:
 
     # mh "That's all for today, class. You are dismissed - but Gemma, if you wouldn't mind staying behind for a little bit."
-    mh "That's all for today, class. You are dismissed - but Gemma, if you wouldn't mind staying behind for a little bit."
+    mh "今天就到这里。同学们可以下课了--不过杰玛，如果你不介意的话，可以留下来待一会儿。"
 
 # game/code/e15/e15s05.rpy:104
 translate chinese replay_e15s05_014b4dcf:
 
     # mc "It seems we disturbed your meditation."
-    mc "It seems we disturbed your meditation."
+    mc "看来我们打扰了你的冥想。"
 
 # game/code/e15/e15s05.rpy:106
 translate chinese replay_e15s05_31295d70:
 
     # mh "It's quite alright."
-    mh "It's quite alright."
+    mh "没关系。"
 
 # game/code/e15/e15s05.rpy:109
 translate chinese replay_e15s05_c7e3751f:
 
     # mh "...{w}We were going to end our meditation a little early, is that all right, Gemma?"
-    mh "...{w}We were going to end our meditation a little early, is that all right, Gemma?"
+    mh "...{w}我们本来也打算早点结束冥想，可以吗，杰玛？"
 
 # game/code/e15/e15s05.rpy:112
 translate chinese replay_e15s05_533b8256:
 
     # ga "Yep. I understand how difficult new students can be."
-    ga "Yep. I understand how difficult new students can be."
+    ga "可以。我理解新来的学生有多难相处。"
 
 # game/code/e15/e15s05.rpy:115
 translate chinese replay_e15s05_abb4412f:
 
     # sy "Hey! I'm not difficult!"
-    sy "Hey! I'm not difficult!"
+    sy "嘿！我可不难搞！"
 
 # game/code/e15/e15s05.rpy:117
 translate chinese replay_e15s05_9d09e003:
 
     # mh "No, Stacy. You're just... new here. That's all."
-    mh "No, Stacy. You're just... new here. That's all."
+    mh "史黛西，你不难搞。你只是...刚来。仅此而已。"
 
 # game/code/e15/e15s05.rpy:120
 translate chinese replay_e15s05_80d713d7:
 
     # sy "I'm not {i}that new{/i} to getting peed on. I've done it before."
-    sy "I'm not {i}that new{/i} to getting peed on. I've done it before."
+    sy "在被尿尿这方面，我可{i}不是{/i}新手了。我以前做过。"
 
 # game/code/e15/e15s05.rpy:121
 translate chinese replay_e15s05_4fa95d60:
 
     # sy "Besides, how hard is it to get peed on?"
-    sy "Besides, how hard is it to get peed on?"
+    sy "再说了，被尿在身上有多难啊？"
 
 # game/code/e15/e15s05.rpy:125
 translate chinese replay_e15s05_3cd6e147:
 
     # mh "You have much to learn, young padawan."
-    mh "You have much to learn, young padawan."
+    mh "你还有很多要学的，小徒弟。"
 
 # game/code/e15/e15s05.rpy:127
 translate chinese replay_e15s05_43538b9f:
 
     # sy "Yeah, what is there to learn? I sit here, I get peed on, we fuck. Isn't that... everything?"
-    sy "Yeah, what is there to learn? I sit here, I get peed on, we fuck. Isn't that... everything?"
+    sy "是嘛，有什么可学的？我坐在这里，被人尿尿，然后做爱。不就是...这些吗？"
 
 # game/code/e15/e15s05.rpy:130
 translate chinese replay_e15s05_af0e26c5:
 
     # ga "No, there is {i}so much more than that!{/i}"
-    ga "No, there is {i}so much more than that!{/i}"
+    ga "不是的，还有比这{i}多得多的东西{/i}要学呢！"
 
 # game/code/e15/e15s05.rpy:132
 translate chinese replay_e15s05_634e46de:
 
     # sy "Oh yeah!? Like what, huh?"
-    sy "Oh yeah!? Like what, huh?"
+    sy "哦，是吗？比如说呢？"
 
 # game/code/e15/e15s05.rpy:134
 translate chinese replay_e15s05_51916fe9:
 
     # ga "You ever have more than one person pee on you? What about pee enemas?"
-    ga "You ever have more than one person pee on you? What about pee enemas?"
+    ga "你试过不止一个人尿在你身上吗？尿灌肠呢？"
 
 # game/code/e15/e15s05.rpy:135
 translate chinese replay_e15s05_c2b2fb5a:
 
     # ga "You ever been used as an all day public toilet? Ever had to be covered in pee for three days?"
-    ga "You ever been used as an all day public toilet? Ever had to be covered in pee for three days?"
+    ga "你试过被当作公共厕所一整天吗？有没有经历过连续三天浑身都是尿？"
 
 # game/code/e15/e15s05.rpy:139
 translate chinese replay_e15s05_afbc922f:
 
     # sy "Well... No..."
-    sy "Well... No..."
+    sy "嗯...没有..."
 
 # game/code/e15/e15s05.rpy:142
 translate chinese replay_e15s05_e12b399d:
 
     # sy "But I want to!"
-    sy "But I want to!"
+    sy "但是我想试试！"
 
 # game/code/e15/e15s05.rpy:145
 translate chinese replay_e15s05_385305ae:
 
     # mh "Wow, [mcname], such a willing student!"
-    mh "Wow, [mcname], such a willing student!"
+    mh "哇，[mcname]，真是个乐于学习的好学生！"
 
 # game/code/e15/e15s05.rpy:147
 translate chinese replay_e15s05_8555fbce:
 
     # mc "Oh, she's not my student."
-    mc "Oh, she's not my student."
+    mc "哦，她不是我的学生。"
 
 # game/code/e15/e15s05.rpy:150
 translate chinese replay_e15s05_2d020e3e:
 
     # mh "Does that mean she still needs to be assigned a teacher?"
-    mh "Does that mean she still needs to be assigned a teacher?"
+    mh "那是不是意味着她还需要一位老师？"
 
 # game/code/e15/e15s05.rpy:152
 translate chinese replay_e15s05_38f060f2:
 
     # mc "Oh no, she's just visiting for the weekend. Wanted to check out the spa."
-    mc "Oh no, she's just visiting for the weekend. Wanted to check out the spa."
+    mc "哦不，她只是周末来玩。想来体验一下水疗。"
 
 # game/code/e15/e15s05.rpy:155
 translate chinese replay_e15s05_c45bcda6:
 
     # mh "Ahhh. Just a visitor... That means we can do whatever we want, huh."
-    mh "Ahhh. Just a visitor... That means we can do whatever we want, huh."
+    mh "啊。只是一个访客...也就是说我们可以为所欲为，对吧。"
 
 # game/code/e15/e15s05.rpy:157
 translate chinese replay_e15s05_d5c5870b:
 
     # mc "Uh oh, Lyssa. What are you thinking?"
-    mc "Uh oh, Lyssa. What are you thinking?"
+    mc "呃，丽莎。你在想什么？"
 
 # game/code/e15/e15s05.rpy:160
 translate chinese replay_e15s05_71248560:
 
     # mh "Oh, nothing..."
-    mh "Oh, nothing..."
+    mh "哦，没什么..."
 
 # game/code/e15/e15s05.rpy:163
 translate chinese replay_e15s05_b61ae79d:
 
     # mc "Just remember, Lyssa, that is my sister."
-    mc "Just remember, Lyssa, that is my sister."
+    mc "记住，丽莎，她是我妹妹。"
 
 # game/code/e15/e15s05.rpy:165
 translate chinese replay_e15s05_8723f765:
 
     # mc "Just remember, Lyssa, that is my oldest friend."
-    mc "Just remember, Lyssa, that is my oldest friend."
+    mc "记住，丽莎，她是我最要好的朋友。"
 
 # game/code/e15/e15s05.rpy:168
 translate chinese replay_e15s05_d214de9b:
 
     # mc "So whatever you're thinking, you can probably do worse, and I want to be included."
-    mc "So whatever you're thinking, you can probably do worse, and I want to be included."
+    mc "所以不管你在想什么，你都可以做得更过分，我只想参与进来。"
 
 # game/code/e15/e15s05.rpy:170
 translate chinese replay_e15s05_292437b8:
 
     # mh "I knew you would be, which is perfect."
-    mh "I knew you would be, which is perfect."
+    mh "我就知道你会的，太好了。"
 
 # game/code/e15/e15s05.rpy:172
 translate chinese replay_e15s05_a848cb78:
 
     # mh "So, you want to do all those things Gemma was talking about?"
-    mh "So, you want to do all those things Gemma was talking about?"
+    mh "那么，杰玛说的那些事，你都想去做？"
 
 # game/code/e15/e15s05.rpy:174
 translate chinese replay_e15s05_c172bd12:
 
     # sy "Yes."
-    sy "Yes."
+    sy "是的。"
 
 # game/code/e15/e15s05.rpy:177
 translate chinese replay_e15s05_d3fd6cfe:
 
     # mh "What was that?"
-    mh "What was that?"
+    mh "你该说什么？"
 
 # game/code/e15/e15s05.rpy:179
 translate chinese replay_e15s05_a6baa874:
 
     # sy "...{i}Yes, ma'am.{/i}"
-    sy "...{i}Yes, ma'am.{/i}"
+    sy "...{i}是的，老师。{/i}"
 
 # game/code/e15/e15s05.rpy:182
 translate chinese replay_e15s05_4f9ef900:
 
     # mh "Good! In that case, we have a special treat today, Gemma."
-    mh "Good! In that case, we have a special treat today, Gemma."
+    mh "很好！那样的话，我们今天有个特别招待，杰玛。"
 
 # game/code/e15/e15s05.rpy:185
 translate chinese replay_e15s05_5be5a8d5:
 
     # mh "Stacy, clothes off, now."
-    mh "Stacy, clothes off, now."
+    mh "史黛西，快脱衣服。"
 
 # game/code/e15/e15s05.rpy:196
 translate chinese replay_e15s05_1be81529:
 
     # mh "Gemma, Stacy, on your hands and knees please."
-    mh "Gemma, Stacy, on your hands and knees please."
+    mh "杰玛，史黛西，请你们跪下。"
 
 # game/code/e15/e15s05.rpy:200
 translate chinese replay_e15s05_a25a4765:
 
     # mh "Very good."
-    mh "Very good."
+    mh "很好。"
 
 # game/code/e15/e15s05.rpy:202
 translate chinese replay_e15s05_b8a99aa5:
 
     # mc "Wow, Lyssa, you've made a lot of progress with Gemma."
-    mc "Wow, Lyssa, you've made a lot of progress with Gemma."
+    mc "哇，丽莎，你和杰玛相处得很好啊。"
 
 # game/code/e15/e15s05.rpy:205
 translate chinese replay_e15s05_9a29f203:
 
     # mh "Oh this? This is nothing. Just wait."
-    mh "Oh this? This is nothing. Just wait."
+    mh "哦，这个？这没什么。等着瞧吧。"
 
 # game/code/e15/e15s05.rpy:206
 translate chinese replay_e15s05_fc4bd5bf:
 
     # mh "Now, Gemma, how do we prepare?"
-    mh "Now, Gemma, how do we prepare?"
+    mh "现在，杰玛，我们该准备干嘛？"
 
 # game/code/e15/e15s05.rpy:209
 translate chinese replay_e15s05_d814d118:
 
     # ga "We center our bodies, our minds, our spirits."
-    ga "We center our bodies, our minds, our spirits."
+    ga "我们集中我们的身体，集中思想，集中精神。"
 
 # game/code/e15/e15s05.rpy:211
 translate chinese replay_e15s05_a25a4765_1:
 
     # mh "Very good."
-    mh "Very good."
+    mh "很好。"
 
 # game/code/e15/e15s05.rpy:214
 translate chinese replay_e15s05_f8533b8a:
 
     # sy "Should I also be doing this?"
-    sy "Should I also be doing this?"
+    sy "我也应该这样做吗？"
 
 # game/code/e15/e15s05.rpy:216
 translate chinese replay_e15s05_31835256:
 
     # mh "Yes, Stacy."
-    mh "Yes, Stacy."
+    mh "是的，史黛西。"
 
 # game/code/e15/e15s05.rpy:222
 translate chinese replay_e15s05_528c2347:
 
     # mh "Why are we centering ourselves, Gemma?"
-    mh "Why are we centering ourselves, Gemma?"
+    mh "为什么我们要集中注意力，杰玛？"
 
 # game/code/e15/e15s05.rpy:224
 translate chinese replay_e15s05_4b331ebc:
 
     # ga "To prepare ourselves..."
-    ga "To prepare ourselves..."
+    ga "让我们做好准备..."
 
 # game/code/e15/e15s05.rpy:227
 translate chinese replay_e15s05_60810f28:
 
     # mh "Stacy..."
-    mh "Stacy..."
+    mh "史黛西..."
 
 # game/code/e15/e15s05.rpy:230
 translate chinese replay_e15s05_f03505a6:
 
     # sy "Uhm, ohmmmmmmm..."
-    sy "Uhm, ohmmmmmmm..."
+    sy "嗯，哦哦噢..."
 
 # game/code/e15/e15s05.rpy:231
 translate chinese replay_e15s05_8114647d:
 
     # mh "Stacy, what are you thinking about right now?"
-    mh "Stacy, what are you thinking about right now?"
+    mh "史黛西，你现在在想什么？"
 
 # game/code/e15/e15s05.rpy:234
 translate chinese replay_e15s05_cad3274b:
 
     # sy "Uhm... Honestly?"
-    sy "Uhm... Honestly?"
+    sy "嗯...说实话？"
 
 # game/code/e15/e15s05.rpy:236
 translate chinese replay_e15s05_f5f0b52c:
 
     # mh "Yes, honestly."
-    mh "Yes, honestly."
+    mh "是的，说实话。"
 
 # game/code/e15/e15s05.rpy:237
 translate chinese replay_e15s05_e9e73a81:
 
     # sy "I'm thinking about you and [mcname] fucking me."
-    sy "I'm thinking about you and [mcname] fucking me."
+    sy "我在想你和[mcname]上我。"
 
 # game/code/e15/e15s05.rpy:240
 translate chinese replay_e15s05_f8da9238:
 
     # mh "Is that so?"
-    mh "Is that so?"
+    mh "是这样吗？"
 
 # game/code/e15/e15s05.rpy:242
 translate chinese replay_e15s05_d8e5a830:
 
     # sy "Uh huh... And the things you two are doing are... {i}pretty hot.{/i}"
-    sy "Uh huh... And the things you two are doing are... {i}pretty hot.{/i}"
+    sy "嗯哼...你们俩在做的事...{i}很性感{/i}。"
 
 # game/code/e15/e15s05.rpy:245
 translate chinese replay_e15s05_ba9e8499:
 
     # mh "This idea though, can it create expectation?"
-    mh "This idea though, can it create expectation?"
+    mh "这个想法会让你产生期待吗？"
 
 # game/code/e15/e15s05.rpy:247
 translate chinese replay_e15s05_cdec05d4:
 
     # sy "Maybeeee..."
-    sy "Maybeeee..."
+    sy "可能吧..."
 
 # game/code/e15/e15s05.rpy:248
 translate chinese replay_e15s05_e1433451:
 
     # mh "And can expectations not be met?"
-    mh "And can expectations not be met?"
+    mh "能不能达到预期呢？"
 
 # game/code/e15/e15s05.rpy:251
 translate chinese replay_e15s05_90a213af:
 
     # sy "I mean, I guess. But, the two of you-"
-    sy "I mean, I guess. But, the two of you-"
+    sy "我的意思是，我希望如此。可是，你们两个--"
 
 # game/code/e15/e15s05.rpy:253
 translate chinese replay_e15s05_f1d10c22:
 
     # mh "Did I say we were done meditating yet?"
-    mh "Did I say we were done meditating yet?"
+    mh "我说过我们冥想结束了吗？"
 
 # game/code/e15/e15s05.rpy:256
 translate chinese replay_e15s05_8d097fd4:
 
     # sy "No..."
-    sy "No..."
+    sy "没有..."
 
 # game/code/e15/e15s05.rpy:258
 translate chinese replay_e15s05_e6bb4e63:
 
     # mh "Good... We clear our mind of expectations, so that we make space for the unexpected."
-    mh "Good... We clear our mind of expectations, so that we make space for the unexpected."
+    mh "好...我们清空头脑中的期待，为意想不到的事情腾出空间。"
 
 # game/code/e15/e15s05.rpy:262
 translate chinese replay_e15s05_c1e27a96:
 
     # mh "Now, have you cleared your mind, Stacy?"
-    mh "Now, have you cleared your mind, Stacy?"
+    mh "现在，你清空了头脑吗，史黛西？"
 
 # game/code/e15/e15s05.rpy:264
 translate chinese replay_e15s05_cffa1504:
 
     # sy "Almost..."
-    sy "Almost..."
+    sy "差不多了..."
 
 # game/code/e15/e15s05.rpy:268
 translate chinese replay_e15s05_97cb09d1:
 
     # mh "Mmmmm, let go of yourself, Stacy... Open yourself up to a new world of experiences."
-    mh "Mmmmm, let go of yourself, Stacy... Open yourself up to a new world of experiences."
+    mh "嗯，放开你自己，史黛西...敞开心扉，迎接全新的体验世界。"
 
 # game/code/e15/e15s05.rpy:270
 translate chinese replay_e15s05_ac6141d0:
 
     # mh "Have you freed your mind, Stacy?"
-    mh "Have you freed your mind, Stacy?"
+    mh "你放空了头脑吗，史黛西？"
 
 # game/code/e15/e15s05.rpy:272
 translate chinese replay_e15s05_25209b33:
 
     # sy "I... I think so..."
-    sy "I... I think so..."
+    sy "我...我想是的..."
 
 # game/code/e15/e15s05.rpy:275
 translate chinese replay_e15s05_53e73ef1:
 
     # mh "No thoughts? No expectations?"
-    mh "No thoughts? No expectations?"
+    mh "现在没有思绪？没有期待了？"
 
 # game/code/e15/e15s05.rpy:277
 translate chinese replay_e15s05_8bb51845:
 
     # sy "No... I'm ready for a new experience I think."
-    sy "No... I'm ready for a new experience I think."
+    sy "没有...我想我已经准备好迎接新的体验了。"
 
 # game/code/e15/e15s05.rpy:280
 translate chinese replay_e15s05_83239112:
 
     # mh "Good."
-    mh "Good."
+    mh "很好。"
 
 # game/code/e15/e15s05.rpy:290
 translate chinese replay_e15s05_2985ba8a:
 
     # sy "Holy shit! I wasn't expecting that!"
-    sy "Holy shit! I wasn't expecting that!"
+    sy "天啊！我没想到会这样！"
 
 # game/code/e15/e15s05.rpy:292
 translate chinese replay_e15s05_4f8d47b7:
 
     # mh "Mmhmmm, and that was the point."
-    mh "Mmhmmm, and that was the point."
+    mh "嗯，这就是重点。"
 
 # game/code/e15/e15s05.rpy:293
 translate chinese replay_e15s05_c87956e2:
 
     # ga "Mmmmm, this is so good!"
-    ga "Mmmmm, this is so good!"
+    ga "哦哦哦，这也太爽了！"
 
 # game/code/e15/e15s05.rpy:296
 translate chinese replay_e15s05_4f8dfd69:
 
     # ga "Is... Is [mcname] peeing on me?"
-    ga "Is... Is [mcname] peeing on me?"
+    ga "是...[mcname]在我身上撒尿吗？"
 
 # game/code/e15/e15s05.rpy:297
 translate chinese replay_e15s05_574d8edb:
 
     # mh "Yes, he is."
-    mh "Yes, he is."
+    mh "是的，没错。"
 
 # game/code/e15/e15s05.rpy:299
 translate chinese replay_e15s05_bb01da69:
 
     # ga "Oh my..."
-    ga "Oh my..."
+    ga "哦，天哪..."
 
 # game/code/e15/e15s05.rpy:302
 translate chinese replay_e15s05_05f253f5:
 
     # mh "Is something wrong, Gemma?"
-    mh "Is something wrong, Gemma?"
+    mh "怎么了，杰玛？"
 
 # game/code/e15/e15s05.rpy:303
 translate chinese replay_e15s05_6ae76807:
 
     # ga "No, it's just been so long since [mcname] peed on me and...{w}{i}it's wonderful!{/i}"
-    ga "No, it's just been so long since [mcname] peed on me and...{w}{i}it's wonderful!{/i}"
+    ga "没什么，只是[mcname]很久没有在我身上撒尿了而且...{w}{i}感觉太棒了！{/i}"
 
 # game/code/e15/e15s05.rpy:304
 translate chinese replay_e15s05_785f550f:
 
     # mh "You hear that, [mcname]? Sounds like you have a little admirer!"
-    mh "You hear that, [mcname]? Sounds like you have a little admirer!"
+    mh "你听到了吗，[mcname]？听起来你有个小粉丝！"
 
 # game/code/e15/e15s05.rpy:313
 translate chinese replay_e15s05_f36ecbb8:
 
     # mc "Well, I admire you, Gemma, and your dedication to learning and growing here at the spa."
-    mc "Well, I admire you, Gemma, and your dedication to learning and growing here at the spa."
+    mc "嗯，我很欣赏你，杰玛，还有你在这里学习成长的奉献精神。"
 
 # game/code/e15/e15s05.rpy:314
 translate chinese replay_e15s05_180c24a6:
 
     # ga "R-really!?"
-    ga "R-really!?"
+    ga "真的吗!?"
 
 # game/code/e15/e15s05.rpy:315
 translate chinese replay_e15s05_7afbcad4:
 
     # mc "Of course, Gemma! I see how much you care and how much you've learned under Lyssa's tutelage. It's impressive to say the least."
-    mc "Of course, Gemma! I see how much you care and how much you've learned under Lyssa's tutelage. It's impressive to say the least."
+    mc "当然，杰玛！我看到了你的用心，也看到了你在丽莎的指导下学到了很多东西。至少可以说，你让人印象深刻。"
 
 # game/code/e15/e15s05.rpy:317
 translate chinese replay_e15s05_cd779ffa:
 
     # ga "Thank you!"
-    ga "Thank you!"
+    ga "谢谢！"
 
 # game/code/e15/e15s05.rpy:323
 translate chinese replay_e15s05_14a77953:
 
     # mc "I mean, I do run the place."
-    mc "I mean, I do run the place."
+    mc "我的意思是，我确实经营着这个地方。"
 
 # game/code/e15/e15s05.rpy:325
 translate chinese replay_e15s05_c2593782:
 
     # mh "Ooooo, cocky, huhu."
-    mh "Ooooo, cocky, huhu."
+    mh "喔喔，自大，喔喔。"
 
 # game/code/e15/e15s05.rpy:328
 translate chinese replay_e15s05_a83392d0:
 
     # mc "What! I'm just saying!"
-    mc "What! I'm just saying!"
+    mc "什么！我只是说说而已！"
 
 # game/code/e15/e15s05.rpy:330
 translate chinese replay_e15s05_d30859e9:
 
     # mh "Mmmhmmm, well you better be able to put your money where your mouth is, Mr. Head Honcho."
-    mh "Mmmhmmm, well you better be able to put your money where your mouth is, Mr. Head Honcho."
+    mh "嗯嗯嗯嗯，你最好说到做到，老板先生。"
 
 # game/code/e15/e15s05.rpy:351
 translate chinese e15s05_after_menu_f8d7f04e:
 
     # mc "Mmmm, now that the fun is starting, I want to save up a little bit."
-    mc "Mmmm, now that the fun is starting, I want to save up a little bit."
+    mc "嗯，现在好戏开始了，我想节约一点。"
 
 # game/code/e15/e15s05.rpy:353
 translate chinese e15s05_after_menu_77713b42:
 
     # mh "I think that's a good idea..."
-    mh "I think that's a good idea..."
+    mh "我觉得这是个好主意..."
 
 # game/code/e15/e15s05.rpy:356
 translate chinese e15s05_after_menu_334af233:
 
     # mh "Something on your mind, Gemma?"
-    mh "Something on your mind, Gemma?"
+    mh "你在想什么吗，杰玛？"
 
 # game/code/e15/e15s05.rpy:358
 translate chinese e15s05_after_menu_430aa596:
 
     # ga "Yes..."
-    ga "Yes..."
+    ga "是的..."
 
 # game/code/e15/e15s05.rpy:361
 translate chinese e15s05_after_menu_ddcfe9fe:
 
     # mh "I wonder what it could be."
-    mh "I wonder what it could be."
+    mh "我想知道你有什么想法。"
 
 # game/code/e15/e15s05.rpy:363
 translate chinese e15s05_after_menu_1cb71193:
 
     # ga "I... I want to clean [mcname]'s dick... I want to lick, and suck, and taste his sweat, his piss... I want to taste {i}every{/i} part of him..."
-    ga "I... I want to clean [mcname]'s dick... I want to lick, and suck, and taste his sweat, his piss... I want to taste {i}every{/i} part of him..."
+    ga "我...我想清理[mcname]的鸡巴...我想舔舐、吸吮、品尝他的汗、他的尿...我想品味他身体的{i}每一{/i}部分..."
 
 # game/code/e15/e15s05.rpy:366
 translate chinese e15s05_after_menu_54512424:
 
     # sy "Hey, what about me!"
-    sy "Hey, what about me!"
+    sy "嘿，那我呢！"
 
 # game/code/e15/e15s05.rpy:369
 translate chinese e15s05_after_menu_d87f5fe3:
 
     # mh "You'll need to wait patiently, Stacy. After all, it's a virtue, and we want you to learn something during your stay, right?"
-    mh "You'll need to wait patiently, Stacy. After all, it's a virtue, and we want you to learn something during your stay, right?"
+    mh "你需要耐心等待，史黛西。毕竟，耐心是一种美德，我们希望你在这里学到一些东西，对吧？"
 
 # game/code/e15/e15s05.rpy:371
 translate chinese e15s05_after_menu_122e876f:
 
     # sy "I guess..."
-    sy "I guess..."
+    sy "也许吧..."
 
 # game/code/e15/e15s05.rpy:374
 translate chinese e15s05_after_menu_e64acc8a:
 
     # mh "Now, what do you say, [mcname]? Cry Gemma and let slip the dogs of lust?"
-    mh "Now, what do you say, [mcname]? Cry Gemma and let slip the dogs of lust?"
+    mh "现在，你怎么说，[mcname]？满足杰玛，让欲望之犬放纵？"
 
 # game/code/e15/e15s05.rpy:375
 translate chinese e15s05_after_menu_745fad36:
 
     # mct "The fuck... Did Lyssa just quote the bard? I feel like I should be scared for whatever comes next..."
-    mct "The fuck... Did Lyssa just quote the bard? I feel like I should be scared for whatever comes next..."
+    mct "操...丽莎刚才是不是引用了诗人的话？我觉得我应该为接下来发生的事情感到害怕..."
 
 # game/code/e15/e15s05.rpy:378
 translate chinese e15s05_after_menu_b6c5db45:
 
     # mc "Uhm, yeah. Let's see what your student has learned."
-    mc "Uhm, yeah. Let's see what your student has learned."
+    mc "嗯，行啊。让我们看看你的学生学到了什么。"
 
 # game/code/e15/e15s05.rpy:380
 translate chinese e15s05_after_menu_849c92ea:
 
     # mh "I was hoping you'd say that... And Stacy, no touching yourself, otherwise you won't be able to participate in class anymore, understood?"
-    mh "I was hoping you'd say that... And Stacy, no touching yourself, otherwise you won't be able to participate in class anymore, understood?"
+    mh "我正希望你这么说呢...还有史黛西，不能摸自己，否则你就不能再上课了，明白吗？"
 
 # game/code/e15/e15s05.rpy:382
 translate chinese e15s05_after_menu_322f4ea1:
 
     # sy "Yes, Lyssa..."
-    sy "Yes, Lyssa..."
+    sy "好的，丽莎..."
 
 # game/code/e15/e15s05.rpy:387
 translate chinese e15s05_after_menu_5d32a06c:
 
     # mh "Begin."
-    mh "Begin."
+    mh "开始。"
 
 # game/code/e15/e15s05.rpy:397
 translate chinese e15s05_after_menu_5960bbfd:
 
     # mc "Holy shit, Gemma! This is incredible!"
-    mc "Holy shit, Gemma! This is incredible!"
+    mc "我的天，杰玛！真没想到！"
 
 # game/code/e15/e15s05.rpy:398
 translate chinese e15s05_after_menu_b638bd0c:
 
     # mc "I know you've had a great teacher, but this definitely exceeds expectations!"
-    mc "I know you've had a great teacher, but this definitely exceeds expectations!"
+    mc "我知道你遇到了一位很棒的老师，但这绝对超出了我的预期！"
 
 # game/code/e15/e15s05.rpy:404
 translate chinese e15s05_after_menu_e81b8f0d:
 
     # sy "It looks like it... Damn..."
-    sy "It looks like it... Damn..."
+    sy "看起来...该死的..."
 
 # game/code/e15/e15s05.rpy:406
 translate chinese e15s05_after_menu_83eb26f9:
 
     # mc "Are you taking notes, Stacy?"
-    mc "Are you taking notes, Stacy?"
+    mc "你在记笔记吗，史黛西？"
 
 # game/code/e15/e15s05.rpy:408
 translate chinese e15s05_after_menu_62167d6c:
 
     # sy "Mentally... Because if I move I'm going to jump on Lyssa's dick..."
-    sy "Mentally... Because if I move I'm going to jump on Lyssa's dick..."
+    sy "在脑子里记...因为如果我动一下，就会跳到丽莎的鸡巴上..."
 
 # game/code/e15/e15s05.rpy:413
 translate chinese e15s05_after_menu_ad55a87d:
 
     # mc "What about my dick huh, sis?"
-    mc "What about my dick huh, sis?"
+    mc "那我的鸡巴呢，老妹？"
 
 # game/code/e15/e15s05.rpy:415
 translate chinese e15s05_after_menu_6d1b38ff:
 
     # mc "What about my dick, Stacy?"
-    mc "What about my dick, Stacy?"
+    mc "那我的鸡巴怎么办，史黛西？"
 
 # game/code/e15/e15s05.rpy:418
 translate chinese e15s05_after_menu_12e63057:
 
     # sy "You look well taken care of..."
-    sy "You look well taken care of..."
+    sy "你看起来被照顾得很好..."
 
 # game/code/e15/e15s05.rpy:423
 translate chinese e15s05_after_menu_77e6216d:
 
     # sy "She is just {i}devouring{/i} your dick..."
-    sy "She is just {i}devouring{/i} your dick..."
+    sy "她正在{i}吞噬{/i}你的鸡巴..."
 
 # game/code/e15/e15s05.rpy:425
 translate chinese e15s05_after_menu_44bfb4c9:
 
     # sy "It is a sight to behold..."
-    sy "It is a sight to behold..."
+    sy "真是大饱眼福..."
 
 # game/code/e15/e15s05.rpy:426
 translate chinese e15s05_after_menu_4f43e9fe:
 
     # mc "Oh yeah?"
-    mc "Oh yeah?"
+    mc "哦，是吗？"
 
 # game/code/e15/e15s05.rpy:436
 translate chinese e15s05_after_menu_06c0c4ca:
 
     # sy "Yeah, Jesus... I don't think I've ever been this turned on watching someone suck your dick..."
-    sy "Yeah, Jesus... I don't think I've ever been this turned on watching someone suck your dick..."
+    sy "天啊，天啊...我想我从来没有在看别人给你口交的时候这么兴奋过..."
 
 # game/code/e15/e15s05.rpy:437
 translate chinese e15s05_after_menu_7dda0c8b:
 
     # sy "Gemma is licking all that piss right off your cock! Mmmmm..."
-    sy "Gemma is licking all that piss right off your cock! Mmmmm..."
+    sy "杰玛正在舔你鸡巴上的尿！嗯..."
 
 # game/code/e15/e15s05.rpy:439
 translate chinese e15s05_after_menu_0d3349bc:
 
     # mc "You better be careful, Stacy. You keep talking like that you might cave and start masturbating..."
-    mc "You better be careful, Stacy. You keep talking like that you might cave and start masturbating..."
+    mc "你最好小心点，史黛西。你再这样说下去，可能会忍不住开始自慰..."
 
 # game/code/e15/e15s05.rpy:441
 translate chinese e15s05_after_menu_89b7ae7f:
 
     # sy "I know! This is literal {i}torture!{/i}"
-    sy "I know! This is literal {i}torture!{/i}"
+    sy "我知道！这简直就是{i}折磨{/i}！"
 
 # game/code/e15/e15s05.rpy:447
 translate chinese e15s05_after_menu_2d70fa60:
 
     # ga "Lyssa gave me the signal to stop."
-    ga "Lyssa gave me the signal to stop."
+    ga "丽莎示意我停下。"
 
 # game/code/e15/e15s05.rpy:450
 translate chinese e15s05_after_menu_22287693:
 
     # mc "Damn, Lyssa. You taught her a dick sucking signal?"
-    mc "Damn, Lyssa. You taught her a dick sucking signal?"
+    mc "该死，丽莎。你教她口交怎么做了？"
 
 # game/code/e15/e15s05.rpy:452
 translate chinese e15s05_after_menu_881d7250:
 
     # mh "Like I said, [mcname], there's a whole lot of shown her."
-    mh "Like I said, [mcname], there's a whole lot of shown her."
+    mh "就像我说的，[mcname]，她学了很多。"
 
 # game/code/e15/e15s05.rpy:455
 translate chinese e15s05_after_menu_16c44f39:
 
     # mc "I'd say, Lord. I continue to be impressed."
-    mc "I'd say, Lord. I continue to be impressed."
+    mc "我不得不说，天啊。我真是印象深刻。"
 
 # game/code/e15/e15s05.rpy:456
 translate chinese e15s05_after_menu_2d22b876:
 
     # mc "But why'd you tell her to stop?"
-    mc "But why'd you tell her to stop?"
+    mc "但是你为什么要让她停下来呢？"
 
 # game/code/e15/e15s05.rpy:459
 translate chinese e15s05_after_menu_13201a74:
 
     # mh "Well, as the teacher, I felt like I wasn't receiving the attention I should."
-    mh "Well, as the teacher, I felt like I wasn't receiving the attention I should."
+    mh "嗯，作为老师，我觉得我没有得到应有的关注。"
 
 # game/code/e15/e15s05.rpy:462
 translate chinese e15s05_after_menu_37a97aec:
 
     # sy "I'm {i}literally{/i} right here."
-    sy "I'm {i}literally{/i} right here."
+    sy "看我啊，我{i}一直都在{/i}这里。"
 
 # game/code/e15/e15s05.rpy:464
 translate chinese e15s05_after_menu_afc60f31:
 
     # mh "Yes, you are. But I have something special for you, {i}if{/i} you're good."
-    mh "Yes, you are. But I have something special for you, {i}if{/i} you're good."
+    mh "是的，你是在这儿。但{i}如果{/i}你表现好，我有特别的东西给你。"
 
 # game/code/e15/e15s05.rpy:467
 translate chinese e15s05_after_menu_9e64f529:
 
     # sy "Fiiiiiiiiiiiiine..."
-    sy "Fiiiiiiiiiiiiine..."
+    sy "好吧..."
 
 # game/code/e15/e15s05.rpy:469
 translate chinese e15s05_after_menu_a5462dcb:
 
     # mh "I promise it will be worth the wait.{w} But in the meantime..."
-    mh "I promise it will be worth the wait.{w} But in the meantime..."
+    mh "我保证等待是值得的。{w}但与此同时..."
 
 # game/code/e15/e15s05.rpy:472
 translate chinese e15s05_after_menu_ee1f4af1:
 
     # ga "Yes?"
-    ga "Yes?"
+    ga "怎么了？"
 
 # game/code/e15/e15s05.rpy:474
 translate chinese e15s05_after_menu_05638fd6:
 
     # mh "What is one of our many lessons, Gemma?"
-    mh "What is one of our many lessons, Gemma?"
+    mh "杰玛，我们上了很多课，其中一课是什么？"
 
 # game/code/e15/e15s05.rpy:477
 translate chinese e15s05_after_menu_09beba51:
 
     # ga "If you receive, you should also give. Life is about balance."
-    ga "If you receive, you should also give. Life is about balance."
+    ga "如果你得到，你也应该给予。生活是关于平衡的学问。"
 
 # game/code/e15/e15s05.rpy:479
 translate chinese e15s05_after_menu_eee5dfbf:
 
     # mh "Exactly. But, don't forget about our visitor."
-    mh "Exactly. But, don't forget about our visitor."
+    mh "完全正确。不过，别忘了我们的客人。"
 
 # game/code/e15/e15s05.rpy:482
 translate chinese e15s05_after_menu_011b9786:
 
     # ga "Yes, ma'am."
-    ga "Yes, ma'am."
+    ga "遵命，老师。"
 
 # game/code/e15/e15s05.rpy:484
 translate chinese e15s05_after_menu_447a93b9:
 
     # mc "Damn, Lyssa... I need to visit your class more often!"
-    mc "Damn, Lyssa... I need to visit your class more often!"
+    mc "该死，丽莎...我得多去你的课堂看看！"
 
 # game/code/e15/e15s05.rpy:487
 translate chinese e15s05_after_menu_f7eb35d8:
 
     # mh "I don't think either of us would be opposed to that."
-    mh "I don't think either of us would be opposed to that."
+    mh "我想我们俩都不会反对。"
 
 # game/code/e15/e15s05.rpy:491
 translate chinese e15s05_after_menu_b124691e:
 
     # mc "Gah, Gemma... You have a gorgeous asshole."
-    mc "Gah, Gemma... You have a gorgeous asshole."
+    mc "啊，杰玛...你的屁眼真不错。"
 
 # game/code/e15/e15s05.rpy:493
 translate chinese e15s05_after_menu_3e980860:
 
     # ga "Thank you, [mcname]!"
-    ga "Thank you, [mcname]!"
+    ga "谢谢你，[mcname]!"
 
 # game/code/e15/e15s05.rpy:496
 translate chinese e15s05_after_menu_13f3c3ef:
 
     # mc "Are you ready?"
-    mc "Are you ready?"
+    mc "你准备好了吗？"
 
 # game/code/e15/e15s05.rpy:498
 translate chinese e15s05_after_menu_5250342a:
 
     # ga "I've been ready for you to fuck me since you walked into class."
-    ga "I've been ready for you to fuck me since you walked into class."
+    ga "自从你走进教室，我就准备好让你操我了。"
 
 # game/code/e15/e15s05.rpy:504
 translate chinese e15s05_after_menu_726b3a99:
 
     # ga "Oh fuuuuuuuuuck!"
-    ga "Oh fuuuuuuuuuck!"
+    ga "哦，操操操！"
 
 # game/code/e15/e15s05.rpy:506
 translate chinese e15s05_after_menu_c1121130:
 
     # mh "Mmmmm, variety is nice, isn't it?"
-    mh "Mmmmm, variety is nice, isn't it?"
+    mh "嗯，变化是好事，不是吗？"
 
 # game/code/e15/e15s05.rpy:509
 translate chinese e15s05_after_menu_92c62d37:
 
     # ga "Yes, holy shit yes it is!"
-    ga "Yes, holy shit yes it is!"
+    ga "是的，天哪，是的！"
 
 # game/code/e15/e15s05.rpy:511
 translate chinese e15s05_after_menu_7807aa7e:
 
     # mh "Now, open wide for me, Gemma."
-    mh "Now, open wide for me, Gemma."
+    mh "现在，给我张开，杰玛。"
 
 # game/code/e15/e15s05.rpy:521
 translate chinese e15s05_after_menu_435225ab:
 
     # mc "Holy shit, your ass is {i}tight!{/i}"
-    mc "Holy shit, your ass is {i}tight!{/i}"
+    mc "我的天，你的屁股{i}好紧{/i}！"
 
 # game/code/e15/e15s05.rpy:522
 translate chinese e15s05_after_menu_f2f548e2:
 
     # mh "It's one of the many - mmmm - things we work on in class!"
-    mh "It's one of the many - mmmm - things we work on in class!"
+    mh "这是我们在课堂上做的许多事情之一！"
 
 # game/code/e15/e15s05.rpy:525
 translate chinese e15s05_after_menu_d90750dd:
 
     # mc "You work on keeping her ass tight??"
-    mc "You work on keeping her ass tight??"
+    mc "你帮她保持屁股紧致??"
 
 # game/code/e15/e15s05.rpy:526
 translate chinese e15s05_after_menu_ea763fda:
 
     # mh "Of course! It's a - mmmmm, ohhh yes - a muscle just like any other!"
-    mh "Of course! It's a - mmmmm, ohhh yes - a muscle just like any other!"
+    mh "当然！这是一块--嗯嗯嗯肌肉--就像其他肌肉一样！"
 
 # game/code/e15/e15s05.rpy:529
 translate chinese e15s05_after_menu_1361cdec:
 
     # mc "You need to show me your lesson plans!"
-    mc "You need to show me your lesson plans!"
+    mc "你得给我看看你的课程计划！"
 
 # game/code/e15/e15s05.rpy:530
 translate chinese e15s05_after_menu_45ac3aa6:
