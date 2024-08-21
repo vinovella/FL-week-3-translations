@@ -1347,27 +1347,27 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "You take Oliver's anal virginity."
-    new "You take Oliver's anal virginity."
+    new "Le quitas la virginidad anal a Oliver."
 
     # game/code/hints.rpy:5
     old "Lyssa takes Oliver's anal virginity."
-    new "Lyssa takes Oliver's anal virginity."
+    new "Lyssa le quita la virginidad anal a Oliver."
 
     # game/code/hints.rpy:5
     old "Oliver will felch out his own cum."
-    new "Oliver will felch out his own cum."
+    new "Oliver vomitará su propio semen."
 
     # game/code/hints.rpy:5
     old "Oliver will lick up his own cum."
-    new "Oliver will lick up his own cum."
+    new "Oliver lamerá su propio semen."
 
     # game/code/hints.rpy:5
     old "You eat the cum off Oliver's face."
-    new "You eat the cum off Oliver's face."
+    new "Te comes el semen de la cara de Oliver."
 
     # game/code/hints.rpy:5
     old "You don't eat the cum off Oliver's face."
-    new "You don't eat the cum off Oliver's face."
+    new "No te comes el semen de la cara de Oliver."
 
 # TODO: Translation updated at 2024-07-27 20:56
 
@@ -1375,85 +1375,85 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Watch Gemma release on Stacy."
-    new "Watch Gemma release on Stacy."
+    new "Mira a Gemma liberarse sobre Stacy."
 
     # game/code/hints.rpy:5
     old "Gemma lets her enema go."
-    new "Gemma lets her enema go."
+    new "Gemma libera su enema."
 
     # game/code/hints.rpy:5
     old "Drink some of Min's pee."
-    new "Drink some of Min's pee."
+    new "Bebe un poco de la orina de Min."
 
     # game/code/hints.rpy:5
     old "Don't drink Min's pee."
-    new "Don't drink Min's pee."
+    new "No bebas la orina de Min."
 
     # game/code/hints.rpy:5
     old "Stacy holds your dick while he pees."
-    new "Stacy holds your dick while he pees."
+    new "Stacy sostiene tu polla mientras él orina."
 
     # game/code/hints.rpy:5
     old "Stacy gives you a rimjob while he pees."
-    new "Stacy gives you a rimjob while he pees."
+    new "Stacy te hace un beso negro mientras él orina."
 
     # game/code/hints.rpy:5
     old "Unlock more Male on Male content with Pete."
-    new "Unlock more Male on Male content with Pete."
+    new "Desbloquea más contenido de Hombre a Hombre con Pete."
 
     # game/code/hints.rpy:5
     old "Locks Male on Male content with Pete."
-    new "Locks Male on Male content with Pete."
+    new "Bloquea contenido de hombre a hombre con Pete."
 
     # game/code/hints.rpy:5
     old "Make Dahlia happy, and maybe she'll be nicer to you."
-    new "Make Dahlia happy, and maybe she'll be nicer to you."
+    new "Haz feliz a Dahlia y tal vez sea más amable contigo."
 
     # game/code/hints.rpy:5
     old "Agree to suck Pete's dick."
-    new "Agree to suck Pete's dick."
+    new "Acepta chuparle la polla a Pete."
 
     # game/code/hints.rpy:5
     old "Avoid male on male content with Pete."
-    new "Avoid male on male content with Pete."
+    new "Evita el contenido de hombre a hombre con Pete."
 
     # game/code/hints.rpy:5
     old "Be more confident with Samiya."
-    new "Be more confident with Samiya."
+    new "Ten más confianza con Samiya."
 
     # game/code/hints.rpy:5
     old "Let Samiya tease you."
-    new "Let Samiya tease you."
+    new "Deja que Samiya se burle de ti."
 
     # game/code/hints.rpy:5
     old "Score some points with Samiya."
-    new "Score some points with Samiya."
+    new "Gana algunos puntos con Samiya."
 
     # game/code/hints.rpy:5
     old "Agree that it would be good to get a bigger place."
-    new "Agree that it would be good to get a bigger place."
+    new "Estoy de acuerdo en que sería bueno conseguir un lugar más grande."
 
     # game/code/hints.rpy:5
     old "Tell Samiya you'd love seeing her in the dress."
-    new "Tell Samiya you'd love seeing her in the dress."
+    new "Dile a Samiya que te encantaría verla con el vestido."
 
     # game/code/hints.rpy:5
     old "Samiya will be glad you care that much about her happiness."
-    new "Samiya will be glad you care that much about her happiness."
+    new "Samiya se alegrará de que te preocupes tanto por su felicidad."
 
     # game/code/hints.rpy:5
     old "Make Samiya say she wants to get fucked hard."
-    new "Make Samiya say she wants to get fucked hard."
+    new "Haz que Samiya diga que quiere que la follen duro."
 
     # game/code/hints.rpy:5
     old "Ask her what is going on."
-    new "Ask her what is going on."
+    new "Pregúntale qué está pasando."
 
     # game/code/hints.rpy:5
     old "Unlock one more scene with male on male content."
-    new "Unlock one more scene with male on male content."
+    new "Desbloquea una escena más con contenido de hombre con hombre."
 
     # game/code/hints.rpy:5
     old "Skip male on male content with Pete."
-    new "Skip male on male content with Pete."
+    new "Saltar contenido de hombre con hombre con Pete."
 
