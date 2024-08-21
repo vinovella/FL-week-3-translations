@@ -240,11 +240,11 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:79
     old "Ending 05: Lyssa & Oliver"
-    new "Ending 05: Lyssa y Oliver"
+    new "Final 05: Lyssa y Oliver"
 
     # game/code/data/extended/cg_gallery.rpy:120
     old "Ending 16: Jessie & Kaniya"
-    new "Ending 16: Jessie y Kaniya"
+    new "Final 16: Jessie y Kaniya"
 
     # game/code/data/extended/cg_gallery.rpy:120
     old "Ending 16: Farm Animals"
@@ -268,7 +268,8 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Samiya & Dahlia"
-    new "Final 18: Samiya y Dalia"
+    new "Final 18: Samiya y Dahlia"
+
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Kendell & Londyn"
