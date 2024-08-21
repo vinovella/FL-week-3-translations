@@ -372,27 +372,27 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:103
     old "Ending 05: Oliver"
-    new "Ending 05: Oliver"
+    new "Final 05: Oliver"
 
     # game/code/data/extended/replay_room.rpy:103
     old "Ending 05: Lyssa"
-    new "Ending 05: Lyssa"
+    new "Final 05: Lyssa"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 16: Jessie and Molly"
-    new "Ending 16: Jessie and Molly"
+    new "Final 16: Jessie y Molly"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 16: Jessie and Kanya"
-    new "Ending 16: Jessie and Kanya"
+    new "Final 16: Jessie y Kanya"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 16: Sage and Kristen"
-    new "Ending 16: Sage and Kristen"
+    new "Final 16: Sage y Kristen"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 16: Jessie, Molly, Sage & Kristen"
-    new "Ending 16: Jessie, Molly, Sage & Kristen"
+    new "Final 16: Jessie, Molly, Sage y Kristen"
 
 # TODO: Translation updated at 2024-08-12 20:44
 
@@ -400,33 +400,33 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Min & Stacy"
-    new "Ending 15: Min & Stacy"
+    new "Final 15: Min y Stacy"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Watersports"
-    new "Ending 15: Watersports"
+    new "Final 15: Deportes acuáticos"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Olivia, Bell & Annie"
-    new "Ending 15: Olivia, Bell & Annie"
+    new "Final 15: Olivia, Bell y Annie"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Lyssa, Stacy & Gemma"
-    new "Ending 15: Lyssa, Stacy & Gemma"
+    new "Final 15: Lyssa, Stacy y Gemma"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Min, Stacy & Olivia"
-    new "Ending 15: Min, Stacy & Olivia"
+    new "Final 15: Min, Stacy y Olivia"
 
     # game/code/data/extended/replay_room.rpy:204
     old "Ending 18: Samiya, Dahlia & Pete"
-    new "Ending 18: Samiya, Dahlia & Pete"
+    new "Final 18: Samiya, Dahlia y Pete"
 
     # game/code/data/extended/replay_room.rpy:204
     old "Ending 18: Quartet, Londyn & Kendell"
-    new "Ending 18: Quartet, Londyn & Kendell"
+    new "Final 18: Cuarteto, Londyn y Kendell"
 
     # game/code/data/extended/replay_room.rpy:204
     old "Ending 18: Samiya"
-    new "Ending 18: Samiya"
+    new "Final 18: Samiya"
 
