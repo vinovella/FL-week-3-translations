@@ -2384,61 +2384,61 @@ translate spanish strings:
 translate spanish d21s06_waterfall_0992f61d:
 
     # mc "Yes. I want to do this with you, Min."
-    mc "Yes. I want to do this with you, Min."
+    mc "Sí. Quiero hacer esto contigo, Min."
 
 # game/code/d21/d21s06.rpy:1052
 translate spanish d21s06_wellness_spa_2ece8a99:
 
     # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
-    mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+    mes "La gente busca una experiencia que cumpla sus fantasías sexuales y estamos aquí para proporcionársela."
 
 # game/code/d21/d21s06.rpy:1093
 translate spanish d21s06_wellness_spa_8a7edf54:
 
     # mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
-    mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+    mes "Esa no será la parte difícil. La parte difícil será preparar el edificio y crear una base de clientes para obtener ganancias."
 
 # game/code/d21/d21s06.rpy:1099
 translate spanish d21s06_wellness_spa_699caa95:
 
     # arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
-    arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+    arj "Así será. Lo siento [mcname], pero no puedo unirme a ti para esto. Al menos no ahora."
 
 # game/code/d21/d21s06.rpy:1100
 translate spanish d21s06_wellness_spa_c425dcb9:
 
     # arj "I need to finish college."
-    arj "I need to finish college."
+    arj "Necesito terminar la universidad."
 
 # game/code/d21/d21s06.rpy:1102
 translate spanish d21s06_wellness_spa_43c9e2c9:
 
     # mes "Understandable. But you're still in, right [mcname]?"
-    mes "Understandable. But you're still in, right [mcname]?"
+    mes "Entendible. Pero todavía estás dentro, ¿verdad [mcname]?"
 
 # game/code/d21/d21s06.rpy:1104
 translate spanish d21s06_wellness_spa_5844ae44:
 
     # mc "Hell yeah."
-    mc "Hell yeah."
+    mc "Demonios, sí."
 
 # game/code/d21/d21s06.rpy:1107
 translate spanish d21s06_wellness_spa_591bfaae:
 
     # mes "Excellent. Then I'm going to continue on the planning."
-    mes "Excellent. Then I'm going to continue on the planning."
+    mes "Excelente. Entonces voy a continuar con la planificación."
 
 # game/code/d21/d21s06.rpy:1110
 translate spanish d21s06_wellness_spa_dbcc212b:
 
     # mes "You should come over and we can start working on the details."
-    mes "You should come over and we can start working on the details."
+    mes "Deberías venir y podemos empezar a trabajar en los detalles."
 
 # game/code/d21/d21s06.rpy:1111
 translate spanish d21s06_wellness_spa_546d00c0:
 
     # mc "I'll be right there."
-    mc "I'll be right there."
+    mc "Estaré ahí mismo."
 
 # TODO: Translation updated at 2024-08-18 16:37
 
@@ -2446,17 +2446,17 @@ translate spanish d21s06_wellness_spa_546d00c0:
 translate spanish d21s06_reboot_fl_6d5e9610:
 
     # mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
-    mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
+    mc "Llamémoslo{w} {b}¡Localizador de fetiches reiniciado!{/b}"
 
 # game/code/d21/d21s06.rpy:584
 translate spanish d21s06_reboot_fl_304163ca:
 
     # sy "I love it."
-    sy "I love it."
+    sy "Me encanta."
 
 # game/code/d21/d21s06.rpy:587
 translate spanish d21s06_reboot_fl_b23fc0ce:
 
     # arj "It's perfect. On point and easy to understand."
-    arj "It's perfect. On point and easy to understand."
+    arj "Es perfecto. Al grano y fácil de entender."
 
