@@ -256,7 +256,7 @@ translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Jessie & Kanya"
-    new "Ending 16: Jessie & Kanya"
+    new "Final 16: Jessie y Kanya"
 
 # TODO: Translation updated at 2024-08-12 20:44
 
@@ -269,6 +269,7 @@ translate spanish strings:
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Samiya & Dahlia"
     new "Final 18: Samiya y Dahlia"
+
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Kendell & Londyn"

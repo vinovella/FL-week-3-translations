@@ -716,5 +716,5 @@ translate spanish strings:
 translate spanish d18s05_after_sex_ec16ba99:
 
     # sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
-    sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
+    sb "Odio este lugar. Es una maldita jungla de cemento. Necesito un viaje para relajarme."
 
