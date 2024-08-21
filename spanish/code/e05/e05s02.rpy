@@ -1929,18 +1929,18 @@ translate spanish strings:
 # game/code/e05/e05s02.rpy:109
 translate spanish e05s02_a9f4d0a3:
 
-    # op "Taisia Lindquist. She was arrested last night on a charge of drunken disorderly and aggravated assault."
-    op "Taisia Lindquist. She was arrested last night on a charge of drunken disorderly and aggravated assault."
+   # op "Taisia Lindquist. She was arrested last night on a charge of drunken disorderly and aggravated assault."
+    op "Taisia Lindquist. Fue arrestada anoche acusada de alteración del orden público en estado de ebriedad y agresión agravada."
 
 # game/code/e05/e05s02.rpy:870
 translate spanish e05s02_mh_takes_opanalvirginity_4d333980:
 
     # mh "Good, because I feel the same! Your ass is unbelievably tight!"
-    mh "Good, because I feel the same! Your ass is unbelievably tight!"
+    mh "¡Bien, porque siento lo mismo! ¡Tu trasero está increíblemente apretado!"
 
 # game/code/e05/e05s02.rpy:880
 translate spanish e05s02_mh_takes_opanalvirginity_78343072:
 
     # mh "But I think - mmmmmmpph - Between my dick buried in his tight ass, and your wonderful cock in my ass, that I'm the - fuuuuh - real winner!"
-    mh "But I think - mmmmmmpph - Between my dick buried in his tight ass, and your wonderful cock in my ass, that I'm the - fuuuuh - real winner!"
+    mh "Pero creo, mmmmmmpph, entre mi polla enterrada en su culo apretado y tu maravillosa polla en mi culo, que soy la, fuuuuh, ¡verdadera ganadora!"
 
