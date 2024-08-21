@@ -1696,7 +1696,7 @@ translate chinese strings:
 
     # game/code/e15/e15s06.rpy:137
     old "Take the cup of pee"
-    new "拿着那杯尿"
+    new "喝下这杯尿"
 
     # game/code/e15/e15s06.rpy:137
     old "I'll celebrate when I'm done for the day"
