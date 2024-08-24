@@ -1498,169 +1498,169 @@ translate chinese e18s01_after_menu_63c93b2e:
 translate chinese e18s01_after_menu_8515c959:
 
     # dw "The worm? If you say so."
-    dw "The worm? If you say so."
+    dw "你说那个虫子？如果你这么说的话。"
 
 # game/code/e18/e18s01.rpy:1186
 translate chinese e18s01_after_menu_e07c3ac6:
 
     # dw "Alright. Out of my bed."
-    dw "Alright. Out of my bed."
+    dw "好了。别赖在我床上。"
 
 # game/code/e18/e18s01.rpy:1190
 translate chinese e18s01_after_menu_3eb2b63c:
 
     # pb "Ah come on. They're using that one."
-    pb "Ah come on. They're using that one."
+    pb "啊，别这样。那个床被他们用着呢。"
 
 # game/code/e18/e18s01.rpy:1195
 translate chinese e18s01_after_menu_4ad4c952:
 
     # dw "I'm thirsty. Get dressed and go buy us some ice water."
-    dw "I'm thirsty. Get dressed and go buy us some ice water."
+    dw "我渴了。穿好衣服，去给我们买些冰水。"
 
 # game/code/e18/e18s01.rpy:1212
 translate chinese e18s01_after_menu_3c92ee87:
 
     # sb "Hope you don't mind if we keep going?"
-    sb "Hope you don't mind if we keep going?"
+    sb "希望你不介意我们继续吧？"
 
 # game/code/e18/e18s01.rpy:1216
 translate chinese e18s01_after_menu_ca1aa68c:
 
     # dw "Knock yourself out. I think he actually tapped me out a little today."
-    dw "Knock yourself out. I think he actually tapped me out a little today."
+    dw "随便你。我觉得他今天确实让我有点筋疲力尽了。"
 
 # game/code/e18/e18s01.rpy:1217
 translate chinese e18s01_after_menu_145fa520:
 
     # dw "But it's probably just the jet lag."
-    dw "But it's probably just the jet lag."
+    dw "但可能只是时差的原因。"
 
 # game/code/e18/e18s01.rpy:1221
 translate chinese e18s01_after_menu_c2b42d0d:
 
     # sb "Okay. Give me your cock. You {i}worm{/i}..."
-    sb "Okay. Give me your cock. You {i}worm{/i}..."
+    sb "好的。把你的鸡巴给我。你个{i}小虫子{/i}..."
 
 # game/code/e18/e18s01.rpy:1222
 translate chinese e18s01_after_menu_8b78e3c7:
 
     # mct "Strange. When Samiya calls me that, she sounds a lot more playful."
-    mct "Strange. When Samiya calls me that, she sounds a lot more playful."
+    mct "奇怪。当萨米亚这么叫我的时候，她听起来要好玩得多。"
 
 # game/code/e18/e18s01.rpy:1228
 translate chinese e18s01_after_menu_84b50b17:
 
     # mc "Mrrrm. This is new."
-    mc "Mrrrm. This is new."
+    mc "唔呼。这是新花样。"
 
 # game/code/e18/e18s01.rpy:1232
 translate chinese e18s01_after_menu_04d5b35c:
 
     # sb "I can't believe I let you use my pussy before I used my amazing rack on you."
-    sb "I can't believe I let you use my pussy before I used my amazing rack on you."
+    sb "真不敢相信，在我蹂躏你之前，我就让你用我的小穴了。"
 
 # game/code/e18/e18s01.rpy:1233
 translate chinese e18s01_after_menu_fc96e3a3:
 
     # mc "I'm a lucky guy."
-    mc "I'm a lucky guy."
+    mc "我是个幸运的家伙。"
 
 # game/code/e18/e18s01.rpy:1234
 translate chinese e18s01_after_menu_8683f655:
 
     # sb "Haha."
-    sb "Haha."
+    sb "哈哈。"
 
 # game/code/e18/e18s01.rpy:1237
 translate chinese e18s01_after_menu_bf5be7de:
 
     # sb "Yeah. Lucky I still haven't killed you after you screwed me with Mr. Melville standing around."
-    sb "Yeah. Lucky I still haven't killed you after you screwed me with Mr. Melville standing around."
+    sb "是啊，你当时趁梅尔维尔先生就站在旁边的时候搞我，我这都没杀了你，真是幸运。"
 
 # game/code/e18/e18s01.rpy:1238
 translate chinese e18s01_after_menu_1d532823:
 
     # mc "Don't act like you didn't like it."
-    mc "Don't act like you didn't like it."
+    mc "别表现得好像你不喜欢一样。"
 
 # game/code/e18/e18s01.rpy:1239
 translate chinese e18s01_after_menu_c419f48f:
 
     # sb "Mmm. You like that?"
-    sb "Mmm. You like that?"
+    sb "嗯嗯嗯。你喜欢吗？"
 
 # game/code/e18/e18s01.rpy:1242
 translate chinese e18s01_after_menu_ea87fc8d:
 
     # mc "Yeah. Your boobs feel... almost as good as fucking your pussy."
-    mc "Yeah. Your boobs feel... almost as good as fucking your pussy."
+    mc "喜欢。你的胸部感觉...几乎和操你下面的洞一样爽。"
 
 # game/code/e18/e18s01.rpy:1243
 translate chinese e18s01_after_menu_464d8f08:
 
     # sb "Don't lie. Everyone loves my boobs."
-    sb "Don't lie. Everyone loves my boobs."
+    sb "别撒谎。每个人都喜欢我的奶子。"
 
 # game/code/e18/e18s01.rpy:1244
 translate chinese e18s01_after_menu_8d029485:
 
     # sb "And I know you've been suffering for a bit now."
-    sb "And I know you've been suffering for a bit now."
+    sb "我也知道你最近有点难受。"
 
 # game/code/e18/e18s01.rpy:1245
 translate chinese e18s01_after_menu_00df9151:
 
     # sb "I wanted to give you a heavenly treat."
-    sb "I wanted to give you a heavenly treat."
+    sb "我想好好招待你一下。"
 
 # game/code/e18/e18s01.rpy:1248
 translate chinese e18s01_after_menu_956ab453:
 
     # mc "Huh. Well, it's well... nrrnn... recieved."
-    mc "Huh. Well, it's well... nrrnn... recieved."
+    mc "啊。哦，这感觉...哼嗯...真不错。"
 
 # game/code/e18/e18s01.rpy:1249
 translate chinese e18s01_after_menu_0d3d123f:
 
     # sb "Ooouh. I think he's about to cum."
-    sb "Ooouh. I think he's about to cum."
+    sb "噢。我想他快要高潮了。"
 
 # game/code/e18/e18s01.rpy:1252
 translate chinese e18s01_after_menu_49ae15f5:
 
     # mc "Furrnn... from just a... houah... boobjob?"
-    mc "Furrnn... from just a... houah... boobjob?"
+    mc "呃呃呃...就凭...就凭你的...一个乳交？"
 
 # game/code/e18/e18s01.rpy:1255
 translate chinese e18s01_after_menu_59b15ab7:
 
     # mc "You've got to be jok-uihuaaah."
-    mc "You've got to be jok-uihuaaah."
+    mc "你一定会被打脸哈哈。"
 
 # game/code/e18/e18s01.rpy:1262
 translate chinese e18s01_after_menu_5d4d5933:
 
     # sb "Haha. Told you. My boobs are the best."
-    sb "Haha. Told you. My boobs are the best."
+    sb "哈哈。告诉你了。我的奶子天下最棒。"
 
 # game/code/e18/e18s01.rpy:1265
 translate chinese e18s01_after_menu_35324042:
 
     # mc "You can say that again."
-    mc "You can say that again."
+    mc "你说得对。"
 
 # game/code/e18/e18s01.rpy:1270
 translate chinese e18s01_after_menu_9bca5afb:
 
     # mc "Oh fuck, I gotta get off my feet. You two drained me."
-    mc "Oh fuck, I gotta get off my feet. You two drained me."
+    mc "哦，妈的，我得歇歇脚了。你们俩把我榨干了。"
 
 # game/code/e18/e18s01.rpy:1274
 translate chinese e18s01_after_menu_ea04b589:
 
     # sb "Don't get used to it."
-    sb "Don't get used to it."
+    sb "别爱上这种感觉哦。"
 
 # game/code/e18/e18s01.rpy:1276
 translate chinese e18s01_after_menu_46984ea3:
@@ -1672,67 +1672,67 @@ translate chinese e18s01_after_menu_46984ea3:
 translate chinese e18s01_after_menu_03fb3e88:
 
     # mc "Mmm?"
-    mc "Mmm?"
+    mc "嗯？"
 
 # game/code/e18/e18s01.rpy:1285
 translate chinese e18s01_after_menu_4b9d63a9:
 
     # sb "I'm glad you backed me up, [mcname]. You didn't have to do that."
-    sb "I'm glad you backed me up, [mcname]. You didn't have to do that."
+    sb "我很高兴你支持我，[mcname]。你不必这么做的。"
 
 # game/code/e18/e18s01.rpy:1292
 translate chinese e18s01_after_menu_557b02ef:
 
     # sb "Mmmm."
-    sb "Mmmm."
+    sb "嗯嗯嗯。"
 
 # game/code/e18/e18s01.rpy:1296
 translate chinese e18s01_after_menu_f19849c4:
 
     # sb "You really are a stand-up guy, [mcname]."
-    sb "You really are a stand-up guy, [mcname]."
+    sb "你真的是个很棒的人，[mcname]。"
 
 # game/code/e18/e18s01.rpy:1297
 translate chinese e18s01_after_menu_1658d38c:
 
     # sb "And your cock knows just how to break me down so right."
-    sb "And your cock knows just how to break me down so right."
+    sb "你的鸡巴也很不错，知道如何让我欲仙欲死。"
 
 # game/code/e18/e18s01.rpy:1298
 translate chinese e18s01_after_menu_63b26929:
 
     # sb "I'm glad you came with us."
-    sb "I'm glad you came with us."
+    sb "我很高兴你和我们一起来。"
 
 # game/code/e18/e18s01.rpy:1301
 translate chinese e18s01_after_menu_095317f6:
 
     # mc "Me too. I think I'm going to like it here."
-    mc "Me too. I think I'm going to like it here."
+    mc "我也是。我想我会喜欢这里的。"
 
 # game/code/e18/e18s01.rpy:1314
 translate chinese e18s01_after_menu_42966087:
 
     # dw "Worm. Come over here. I need a pillow."
-    dw "Worm. Come over here. I need a pillow."
+    dw "虫子。过来。我需要一个枕头。"
 
 # game/code/e18/e18s01.rpy:1318
 translate chinese e18s01_after_menu_4cde244e:
 
     # mc "Yes, Mistress..."
-    mc "Yes, Mistress..."
+    mc "好的，女主人..."
 
 translate chinese strings:
 
     # game/code/e18/e18s01.rpy:242
     old "In the Caribbean"
-    new "In the Caribbean"
+    new "在加勒比海"
 
     # game/code/e18/e18s01.rpy:948
     old "Watch Pete"
-    new "Watch Pete"
+    new "看皮特"
 
     # game/code/e18/e18s01.rpy:948
     old "Don't watch Pete"
-    new "Don't watch Pete"
+    new "不看皮特"
 
