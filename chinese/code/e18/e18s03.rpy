@@ -1552,307 +1552,307 @@ translate chinese e18s03_end_3eccb9c5:
 translate chinese e18s03_end_696814ed:
 
     # mc "Jesus, Samiya, how is your ass so tight!?"
-    mc "Jesus, Samiya, how is your ass so tight!?"
+    mc "老天，萨米亚，你的屁股怎么这么紧!?"
 
 # game/code/e18/e18s03.rpy:986
 translate chinese e18s03_end_5df85f7e:
 
     # sb "Anal fucking kegels! Wooooo!"
-    sb "Anal fucking kegels! Wooooo!"
+    sb "他妈的肛交凯格尔运动！哇哦！"
 
 # game/code/e18/e18s03.rpy:989
 translate chinese e18s03_end_d787de06:
 
     # dw "Come on, Pete, put your fucking back into it!"
-    dw "Come on, Pete, put your fucking back into it!"
+    dw "加油，皮特，用点力！"
 
 # game/code/e18/e18s03.rpy:990
 translate chinese e18s03_end_664e0cfb_1:
 
     # pb "Yes, Duchess."
-    pb "Yes, Duchess."
+    pb "好的，公爵夫人。"
 
 # game/code/e18/e18s03.rpy:991
 translate chinese e18s03_end_ccd93f3f:
 
     # dw "Mmmmm - there we go..."
-    dw "Mmmmm - there we go..."
+    dw "嗯嗯嗯嗯--就是这样..."
 
 # game/code/e18/e18s03.rpy:994
 translate chinese e18s03_end_0102ec6e:
 
     # sb "Fuck, deeper! Fuck me deeper!"
-    sb "Fuck, deeper! Fuck me deeper!"
+    sb "操，再深点！插到最深处！"
 
 # game/code/e18/e18s03.rpy:995
 translate chinese e18s03_end_89d946fa:
 
     # mc "Fucking hell, it's hard when you're squeezing my dick so tight!"
-    mc "Fucking hell, it's hard when you're squeezing my dick so tight!"
+    mc "我操，你这么用力夹我的鸡巴，我很难啊！"
 
 # game/code/e18/e18s03.rpy:996
 translate chinese e18s03_end_29047a6e:
 
     # sb "Quit complaining and fuck me harder!"
-    sb "Quit complaining and fuck me harder!"
+    sb "别抱怨了，用力干我！"
 
 # game/code/e18/e18s03.rpy:999
 translate chinese e18s03_end_030b1e53:
 
     # dw "Mmmm, at least I have a good show..."
-    dw "Mmmm, at least I have a good show..."
+    dw "嗯，至少我看到了精彩的表演..."
 
 # game/code/e18/e18s03.rpy:1000
 translate chinese e18s03_end_257522fd:
 
     # dw "Keep going, you fucking baboon. You might get me to cum. Maybe."
-    dw "Keep going, you fucking baboon. You might get me to cum. Maybe."
+    dw "继续，你这只该死的狒狒。你可能会让我高潮。也许呢。"
 
 # game/code/e18/e18s03.rpy:1003
 translate chinese e18s03_end_72d9e4e0:
 
     # sb "Oh God, just like that, fuck - yes, like that!"
-    sb "Oh God, just like that, fuck - yes, like that!"
+    sb "哦天哪，就这样，操--啊啊啊好爽啊！"
 
 # game/code/e18/e18s03.rpy:1005
 translate chinese e18s03_end_b50317ce:
 
     # mc "Fuck, Samiya, I'm getting close!"
-    mc "Fuck, Samiya, I'm getting close!"
+    mc "操，萨米亚，我快到了！"
 
 # game/code/e18/e18s03.rpy:1007
 translate chinese e18s03_end_929b8065:
 
     # sb "Don't you fucking {i}dare{/i} cum before I do!"
-    sb "Don't you fucking {i}dare{/i} cum before I do!"
+    sb "你他妈的{i}敢{/i}在我之前射！"
 
 # game/code/e18/e18s03.rpy:1008
 translate chinese e18s03_end_25af6535:
 
     # sb "I will paddle your ass so hard, that you won't be able to sit for a fucking week!"
-    sb "I will paddle your ass so hard, that you won't be able to sit for a fucking week!"
+    sb "我会狠狠地抽你的屁股，让你他妈的整整一周都坐不下去！"
 
 # game/code/e18/e18s03.rpy:1010
 translate chinese e18s03_end_57841f23:
 
     # sb "But fuuuuuck - I'm getting close!"
-    sb "But fuuuuuck - I'm getting close!"
+    sb "但是，操操操--我快来了！"
 
 # game/code/e18/e18s03.rpy:1012
 translate chinese e18s03_end_41e19fdd:
 
     # dw "Oh God... Yesss... [mcname]... So fucking hot..."
-    dw "Oh God... Yesss... [mcname]... So fucking hot..."
+    dw "哦，天哪...哦哦噢...[mcname]...太他妈刺激了..."
 
 # game/code/e18/e18s03.rpy:1015
 translate chinese e18s03_end_7779c892:
 
     # sb "Oh God, fuuuck - just like that [mcname], rearrange my guts with that fucking dick of yooooours!"
-    sb "Oh God, fuuuck - just like that [mcname], rearrange my guts with that fucking dick of yooooours!"
+    sb "哦，天哪，操--就是那样，[mcname]，用你那该死的鸡巴重新给我的肠子排个位！"
 
 # game/code/e18/e18s03.rpy:1016
 translate chinese e18s03_end_1a57eecd:
 
     # mc "Fuck, I'm right there - fuuuuck!"
-    mc "Fuck, I'm right there - fuuuuck!"
+    mc "操，我箭在弦上了--操！"
 
 # game/code/e18/e18s03.rpy:1019
 translate chinese e18s03_end_fb1c6d70:
 
     # dw "Oh God, yes, Pete, yes!"
-    dw "Oh God, yes, Pete, yes!"
+    dw "哦，天哪，就是这样，皮特，好舒服！"
 
 # game/code/e18/e18s03.rpy:1020
 translate chinese e18s03_end_9821636b:
 
     # dw "Pete, oh, I'm so close, Peeeeete!"
-    dw "Pete, oh, I'm so close, Peeeeete!"
+    dw "皮特，哦，我快到了，皮特啊啊啊！"
 
 # game/code/e18/e18s03.rpy:1023
 translate chinese e18s03_end_2f6376ce:
 
     # sb "Don't you fucking dare - don't you fucking -"
-    sb "Don't you fucking dare - don't you fucking -"
+    sb "你他妈的敢--你他妈的敢--"
 
 # game/code/e18/e18s03.rpy:1024
 translate chinese e18s03_end_ef089b35:
 
     # mc "Samiya, I - I'm -!"
-    mc "Samiya, I - I'm -!"
+    mc "萨米亚，我--我--！"
 
 # game/code/e18/e18s03.rpy:1027
 translate chinese e18s03_end_e3da0e71:
 
     # sb "Don't you fucking - fuck, fuck, FUCK! I'M GOING TO-!"
-    sb "Don't you fucking - fuck, fuck, FUCK! I'M GOING TO-!"
+    sb "你他妈的--操，操，操！我要--！"
 
 # game/code/e18/e18s03.rpy:1031
 translate chinese e18s03_end_39f1c1f8:
 
     # dw "Jesus, I'm cumming!"
-    dw "Jesus, I'm cumming!"
+    dw "天哪，我要喷了！"
 
 # game/code/e18/e18s03.rpy:1035
 translate chinese e18s03_end_16454a00:
 
     # sb "FUCK I'M CUMMING!!!"
-    sb "FUCK I'M CUMMING!!!"
+    sb "操，我要来了啊啊啊!!!"
 
 # game/code/e18/e18s03.rpy:1037
 translate chinese e18s03_end_70be13e2:
 
     # mc "Shit!!!"
-    mc "Shit!!!"
+    mc "该死!!!"
 
 # game/code/e18/e18s03.rpy:1041
 translate chinese e18s03_end_c5fec034:
 
     # mc "Fuuuuuuuuuuuuck!"
-    mc "Fuuuuuuuuuuuuck!"
+    mc "操操操操操！"
 
 # game/code/e18/e18s03.rpy:1043
 translate chinese e18s03_end_db1902cc:
 
     # dw "Oh God, yes! YES! FUCKING YES!"
-    dw "Oh God, yes! YES! FUCKING YES!"
+    dw "哦，天哪，太爽了！爽！爽死了！"
 
 # game/code/e18/e18s03.rpy:1048
 translate chinese e18s03_end_92dc04fe:
 
     # sb "Fuck... [mcname]..."
-    sb "Fuck... [mcname]..."
+    sb "操...[mcname]..."
 
 # game/code/e18/e18s03.rpy:1050
 translate chinese e18s03_end_7233be1b:
 
     # mc "I could say the same, Samiya."
-    mc "I could say the same, Samiya."
+    mc "我也想说这句话，萨米亚。"
 
 # game/code/e18/e18s03.rpy:1053
 translate chinese e18s03_end_6c1f9291:
 
     # sb "But there's one problem, [mcname]..."
-    sb "But there's one problem, [mcname]..."
+    sb "但有一个问题，[mcname]..."
 
 # game/code/e18/e18s03.rpy:1055
 translate chinese e18s03_end_c17ef8ec:
 
     # mc "What's that?"
-    mc "What's that?"
+    mc "什么问题？"
 
 # game/code/e18/e18s03.rpy:1058
 translate chinese e18s03_end_5bda0d90:
 
     # sb "You made another mess. Clean it up."
-    sb "You made another mess. Clean it up."
+    sb "你又弄乱了，把这里清理干净。"
 
 # game/code/e18/e18s03.rpy:1062
 translate chinese e18s03_end_502beac2:
 
     # sb "Actually, I want the baboon to clean me out."
-    sb "Actually, I want the baboon to clean me out."
+    sb "其实，我想让这只狒狒来清理我。"
 
 # game/code/e18/e18s03.rpy:1064
 translate chinese e18s03_end_d8f15f97:
 
     # pb "Yes, Mistress."
-    pb "Yes, Mistress."
+    pb "好的，女主人。"
 
 # game/code/e18/e18s03.rpy:1077
 translate chinese e18s03_end_8cce44ac:
 
     # sb "Actually, I changed my mind. I kind of like having my ass filled with your cum."
-    sb "Actually, I changed my mind. I kind of like having my ass filled with your cum."
+    sb "实际上，我改变主意了。我有点喜欢用你的精液填满我的屁股。"
 
 # game/code/e18/e18s03.rpy:1080
 translate chinese e18s03_end_66adcb90:
 
     # sb "Mmmm... That was good..."
-    sb "Mmmm... That was good..."
+    sb "嗯...感觉很好..."
 
 # game/code/e18/e18s03.rpy:1082
 translate chinese e18s03_end_7fe9d207:
 
     # dw "Yeah, it wasn't bad..."
-    dw "Yeah, it wasn't bad..."
+    dw "是的，还不错..."
 
 # game/code/e18/e18s03.rpy:1083
 translate chinese e18s03_end_e7fd565b:
 
     # sb "I think I might just stay here for a moment..."
-    sb "I think I might just stay here for a moment..."
+    sb "我想我可能要在这里待一会儿..."
 
 # game/code/e18/e18s03.rpy:1086
 translate chinese e18s03_end_66109ae4:
 
     # sb "Boys, make sure the 'closed' sign is up. I think I'm going to take a little nap, right here."
-    sb "Boys, make sure the 'closed' sign is up. I think I'm going to take a little nap, right here."
+    sb "孩子们，确保‘关门’的牌子挂好了。我想我要在这里小睡一会儿。"
 
 # game/code/e18/e18s03.rpy:1088
 translate chinese e18s03_end_f661beb5:
 
     # mc "Sounds good."
-    mc "Sounds good."
+    mc "听起来不错。"
 
 # game/code/e18/e18s03.rpy:1091
 translate chinese e18s03_end_4f2bde38:
 
     # dw "Oooo, and bring me some water. I'm feeling parched."
-    dw "Oooo, and bring me some water. I'm feeling parched."
+    dw "噢，给我拿点水来，我渴死了。"
 
 # game/code/e18/e18s03.rpy:1093
 translate chinese e18s03_end_1b829878:
 
     # pb "Of course, my Duchess."
-    pb "Of course, my Duchess."
+    pb "当然，我的公爵夫人。"
 
 # game/code/e18/e18s03.rpy:1098
 translate chinese e18s03_end_52cc3c36:
 
     # sb "What are you doing?"
-    sb "What are you doing?"
+    sb "你在干什么？"
 
 # game/code/e18/e18s03.rpy:1100
 translate chinese e18s03_end_6479d76e:
 
     # mc "Getting dressed?"
-    mc "Getting dressed?"
+    mc "穿衣服啊？"
 
 # game/code/e18/e18s03.rpy:1103
 translate chinese e18s03_end_9da1b8c2:
 
     # sb "Nuh uh. I like you like this. No clothes."
-    sb "Nuh uh. I like you like this. No clothes."
+    sb "不行，我喜欢你这样，不能穿衣服。"
 
 # game/code/e18/e18s03.rpy:1105
 translate chinese e18s03_end_eb3e8231:
 
     # mc "... Yes, my Queen."
-    mc "... Yes, my Queen."
+    mc "...好的，我的女王。"
 
 # game/code/e18/e18s03.rpy:1108
 translate chinese e18s03_end_9102ce65:
 
     # sb "Now, hop to. Before someone shows up and we give them a fright."
-    sb "Now, hop to. Before someone shows up and we give them a fright."
+    sb "现在，快点，免得有人进来吓到他们。"
 
 # game/code/e18/e18s03.rpy:1110
 translate chinese e18s03_end_c274b220:
 
     # mc "Yes, my Queen."
-    mc "Yes, my Queen."
+    mc "好的，我的女王。"
 
 translate chinese strings:
 
     # game/code/e18/e18s03.rpy:698
     old "Do it"
-    new "Do it"
+    new "做吧"
 
     # game/code/e18/e18s03.rpy:801
     old "Clean the Duchess's toes"
-    new "Clean the Duchess's toes"
+    new "给公爵夫人清理脚趾"
 
     # game/code/e18/e18s03.rpy:801
     old "Refuse to do it"
-    new "Refuse to do it"
+    new "拒绝"
 
