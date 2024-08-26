@@ -322,7 +322,7 @@ translate chinese e15s06_pool_room_42b95f3f:
 translate chinese e15s06_pool_room_4cdab421:
 
     # mc "Well, yeah. But you're also doing a really good job, so the confidence is earned."
-    mc "嗯，是的。但你的表现确实很好，所以自信是值得的。
+    mc "嗯，是的。但你的表现确实很好，所以自信是值得的。"
 
 # game/code/e15/e15s06.rpy:259
 translate chinese e15s06_pool_room_659b8039:

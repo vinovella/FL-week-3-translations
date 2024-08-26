@@ -40,7 +40,7 @@ translate turkish replay_e15s01_8b504fcd:
 translate turkish replay_e15s01_1bcbe113:
 
     # mes "Wait you dummy, I didn't mean-"
-    mes "Bekle seni aptal, ben-" demek istemedim.
+    mes "Bekle seni aptal, demek istemedim ben- "
 
 # game/code/e15/e15s01.rpy:137
 translate turkish replay_e15s01_d3237b61:
@@ -1330,7 +1330,7 @@ translate turkish e15s01_more_sex_f854b849:
 translate turkish e15s01_more_sex_75b9694d:
 
     # mes "Tch, I'll be worried when he-"
-    mes "Tch, o-" dediğinde endişeleneceğim.
+    mes "Tch, dediğinde endişeleneceğim o-"
 
 # game/code/e15/e15s01.rpy:955
 translate turkish e15s01_more_sex_57d7e537:

@@ -892,7 +892,7 @@ translate chinese e18s01_in_room_bc092c7c:
 translate chinese e18s01_in_room_f0301c37:
 
     # mc "Mistress, I'm getting close."
-    mc 主人，我快到了。"
+    mc "主人，我快到了。"
 
 # game/code/e18/e18s01.rpy:792
 translate chinese e18s01_in_room_ce0b2745:

@@ -250,7 +250,7 @@ translate chinese e18s02_07bc1600:
 translate chinese e18s02_2cb17a6b:
 
     # mc "Nothing. Just been cleaning up the place. Like you asked."
-    mc 没什么。我们一直在打扫这个地方。就像您要求的那样。好"
+    mc "没什么。我们一直在打扫这个地方。就像您要求的那样。好"
 
 # game/code/e18/e18s02.rpy:183
 translate chinese e18s02_1797c200:

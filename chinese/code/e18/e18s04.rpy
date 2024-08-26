@@ -364,7 +364,7 @@ translate chinese e18s04_9842b69d:
 translate chinese e18s04_6dd0c452:
 
     # mc "Thanks for visiting the car wash! I hope our service 'dommed'!"
-    mc "感谢光临洗车店！希望我们的服务能让您满意！
+    mc "感谢光临洗车店！希望我们的服务能让您满意！"
 
 # game/code/e18/e18s04.rpy:300
 translate chinese e18s04_120c2a89:

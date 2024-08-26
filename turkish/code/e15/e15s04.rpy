@@ -580,7 +580,7 @@ translate turkish replay_e15s04_cdb3d7e7:
 translate turkish replay_e15s04_6fdd782a:
 
     # be "Wonderful?"
-    be "Harika" olabilir mi?
+    be "Harika olabilir mi?"
 
 # game/code/e15/e15s04.rpy:323
 translate turkish replay_e15s04_a8a1db59:
