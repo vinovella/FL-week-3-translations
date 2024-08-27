@@ -514,7 +514,7 @@ translate turkish e18s05_ogling_menu_22fac45d:
 translate turkish e18s05_ogling_menu_c8e8afe7:
 
     # sb "Can't argue with that."
-    sb "Can't argue with that."
+    sb "Buna itiraz edemem."
 
 # game/code/e18/e18s05.rpy:376
 translate turkish e18s05_dressing_room_5687bc34:
@@ -538,7 +538,7 @@ translate turkish e18s05_dressing_room_ba5fec93:
 translate turkish e18s05_dressing_room_56a554a4:
 
     # sb "Don't be so dull, [mcname]."
-    sb "Don't be so dull, [mcname]."
+    sb "Bu kadar sıkıcı olma, [mcname]."
 
 # game/code/e18/e18s05.rpy:391
 translate turkish e18s05_dressing_room_177d3eb2:
@@ -610,7 +610,7 @@ translate turkish e18s05_dressing_room_e3e1d383:
 translate turkish e18s05_dressing_room_08ec8b3c:
 
     # mc "A dork with that big Dee you want!"
-    mc "A dork with that big Dee you want!"
+    mc "İstediğin o büyük geyiği olan bir aptal!"
 
 # game/code/e18/e18s05.rpy:430
 translate turkish e18s05_dressing_room_064257f1:
