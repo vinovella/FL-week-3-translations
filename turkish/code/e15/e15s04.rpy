@@ -1138,7 +1138,7 @@ translate turkish replay_e15s04_024672fe:
 translate turkish replay_e15s04_66cdaed7:
 
     # be "Me toooooo!"
-    be "Me toooooo!"
+    be "Bendeeeeee!"
 
 # game/code/e15/e15s04.rpy:590
 translate turkish replay_e15s04_20b8fde9:
@@ -1300,7 +1300,7 @@ translate turkish replay_e15s04_222f90da:
 translate turkish replay_e15s04_09352aa0:
 
     # mc "Kind offfff?"
-    mc "Kind offfff?"
+    mc "Nazikçeeee?"
 
 # game/code/e15/e15s04.rpy:657
 translate turkish replay_e15s04_64e24e4b:
