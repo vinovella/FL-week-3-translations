@@ -52,7 +52,7 @@ translate turkish e18s07_82393d01:
 translate turkish e18s07_b2bd18ee:
 
     # "Customer" "What have you got there?"
-    "Customer" "What have you got there?"
+    "Müşteri" "Elinizde ne var?"
 
 # game/code/e18/e18s07.rpy:96
 translate turkish e18s07_92bfa878:
@@ -652,7 +652,7 @@ translate turkish e18s07_beach_villa_8bedfbf4:
 translate turkish e18s07_beach_villa_d81a671d:
 
     # sb "Ahem, well..."
-    sb "Ahem, well..."
+    sb "Ahem, şey..."
 
 # game/code/e18/e18s07.rpy:417
 translate turkish e18s07_beach_villa_64fa0550:
@@ -748,7 +748,7 @@ translate turkish e18s07_beach_villa_823a982d:
 translate turkish e18s07_beach_villa_8bbb9917:
 
     # sb "Believing in me."
-    sb "Believing in me."
+    sb "Bana inanıyor."
 
 # game/code/e18/e18s07.rpy:459
 translate turkish e18s07_beach_villa_3e342916:
@@ -844,7 +844,7 @@ translate turkish e18s07_beach_villa_a995b8ec:
 translate turkish e18s07_beach_villa_157779e6:
 
     # pb "I gotta' try out this pool!"
-    pb "I gotta' try out this pool!"
+    pb "Bu havuzu denemeliyim!"
 
 # game/code/e18/e18s07.rpy:500
 translate turkish e18s07_beach_villa_e1432c89:
@@ -1066,7 +1066,7 @@ translate turkish e18s07_in_the_pool_6bd7fb18:
 translate turkish e18s07_in_the_pool_47a14746:
 
     # sb "Don't mind if I do."
-    sb "Don't mind if I do."
+    sb "Denememin sakıncası yok."
 
 # game/code/e18/e18s07.rpy:634
 translate turkish e18s07_in_the_pool_6c70c1cc:
@@ -1228,7 +1228,7 @@ translate turkish e18s07_in_the_pool_af415775:
 translate turkish e18s07_in_the_pool_a700a27b:
 
     # sb "Oh fuuuuucking hell - you've got a tongue on you, [mcname]!! Goooooooood!!"
-    sb "Oh fuuuuucking hell - you've got a tongue on you, [mcname]!! Goooooooood!!"
+    sb "Oh lanet olsun - sende bir dil var, [mcname]!! İyiiiiiiiiiii!!"
 
 # game/code/e18/e18s07.rpy:736
 translate turkish e18s07_in_the_pool_731b3441:
@@ -1660,7 +1660,7 @@ translate turkish e18s07_in_the_pool_cc485eaf:
 translate turkish e18s07_in_the_pool_df0eef10:
 
     # pb "I wouldn't d-dream of it, Mistress!"
-    pb "I wouldn't d-dream of it, Mistress!"
+    pb "Bunu hayal bile edemem, Hanımefendi!"
 
 # game/code/e18/e18s07.rpy:930
 translate turkish e18s07_in_the_pool_4369bf69:
@@ -2002,7 +2002,7 @@ translate turkish e18s07_mc_pb_36f3c175:
 translate turkish e18s07_mc_pb_c7a1aaa9:
 
     # mc "I am - fuuuuck - I am too!"
-    mc "I am - fuuuuck - I am too!"
+    mc "Ben - sikkktirrr - ben de öyleyim!"
 
 # game/code/e18/e18s07.rpy:1085
 translate turkish e18s07_mc_pb_a8a0b9bb:
