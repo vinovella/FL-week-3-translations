@@ -28,7 +28,7 @@ translate turkish e18s06_699878f6:
 translate turkish e18s06_f2dcd4a3:
 
     # sb "Just jerking your chain, [mcname]."
-    sb "Just jerking your chain, [mcname]."
+    sb "Sadece seninle dalga geçiyorum, [mcname]."
 
 # game/code/e18/e18s06.rpy:34
 translate turkish e18s06_539793cd:
