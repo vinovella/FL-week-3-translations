@@ -316,7 +316,7 @@ translate turkish e18s03_in_car_d73b33f8:
 translate turkish e18s03_in_car_49ecaa69:
 
     # pb "Skimpy speedos and mesh shirts."
-    pb "Skimpy speedos and mesh shirts."
+    pb "Cimri speedolar ve file tişörtler."
 
 # game/code/e18/e18s03.rpy:257
 translate turkish e18s03_in_car_3d4c23f1:
@@ -562,7 +562,7 @@ translate turkish e18s03_afternoon_77cd7509:
 translate turkish e18s03_afternoon_3e62d315:
 
     # mc "Twist and jerk more!"
-    mc "Twist and jerk more!"
+    mc "Daha fazla bükül ve sarsıl!"
 
 # game/code/e18/e18s03.rpy:418
 translate turkish e18s03_afternoon_d1602063:
@@ -640,7 +640,7 @@ translate turkish e18s03_afternoon_524a0000:
 translate turkish e18s03_afternoon_65430694:
 
     # sb "You haven't seen devious yet."
-    sb "You haven't seen devious yet."
+    sb "Henüz sinsi görmedin."
 
 # game/code/e18/e18s03.rpy:475
 translate turkish e18s03_afternoon_acce480f:
@@ -1348,7 +1348,7 @@ translate turkish e18s03_mm_scene_d4d1264c:
 translate turkish e18s03_mm_scene_0995cdd4:
 
     # mc "Uhm, uh, fuck..."
-    mc "Uhm, uh, fuck..."
+    mc "Uhm, uh, siktir..."
 
 # game/code/e18/e18s03.rpy:883
 translate turkish e18s03_mm_scene_7757fe8b:
@@ -1684,7 +1684,7 @@ translate turkish e18s03_end_ef089b35:
 translate turkish e18s03_end_e3da0e71:
 
     # sb "Don't you fucking - fuck, fuck, FUCK! I'M GOING TO-!"
-    sb "Don't you fucking - fuck, fuck, FUCK! I'M GOING TO-!"
+    sb "Sakın - siktir, siktir, siktir! BEN GIDIYORUM-!"
 
 # game/code/e18/e18s03.rpy:1031
 translate turkish e18s03_end_39f1c1f8:
