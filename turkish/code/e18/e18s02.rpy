@@ -334,7 +334,7 @@ translate turkish e18s02_41de9624:
 translate turkish e18s02_79488c24:
 
     # "{color=#03ad68}Pete{/color} and {color=#5480ff}[mcname]{/color}" "Yes Mistress!"
-    "{color=#03ad68}Pete{/color} and {color=#5480ff}[mcname]{/color}" "Yes Mistress!"
+    "{color=#03ad68}Pete{/color} ve {color=#5480ff}[mcname]{/color}" "Evet Hanımım!"
 
 # game/code/e18/e18s02.rpy:228
 translate turkish e18s02_2708b1c2:
@@ -1132,7 +1132,7 @@ translate turkish e18s02_apartment_0fb8c295:
 translate turkish e18s02_apartment_fba200ec:
 
     # sb "Hahaha. Always the charmer, Pete."
-    sb "Hahaha. Always the charmer, Pete."
+    sb "Hahaha. Her zaman büyüleyicisin, Pete."
 
 # game/code/e18/e18s02.rpy:708
 translate turkish e18s02_apartment_002b9b3f:
