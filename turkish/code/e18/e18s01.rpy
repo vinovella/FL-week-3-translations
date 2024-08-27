@@ -58,7 +58,7 @@ translate turkish e18s01_4ac738c0:
 translate turkish e18s01_c4781d68:
 
     # "{color=#a10028}Dahlia{/color} and {color=#e0a800}Samiya{/color}" "*laughing*"
-    "{color=#a10028}Dahlia{/color} and {color=#e0a800}Samiya{/color}" "*laughing*"
+    "{color=#a10028}Dahlia{/color} ve {color=#e0a800}Samiya{/color}" "*gülerek*"
 
 # game/code/e18/e18s01.rpy:139
 translate turkish e18s01_a9ec73ad:
@@ -82,7 +82,7 @@ translate turkish e18s01_20adeb73:
 translate turkish e18s01_9c8a432f:
 
     # mc "*chuckles nervously* No, of course not, Mistress."
-    mc "*chuckles nervously* No, of course not, Mistress."
+    mc "*Sinirli bir şekilde kıkırdar* Hayır, tabii ki hayır, Hanımefendi."
 
 # game/code/e18/e18s01.rpy:156
 translate turkish e18s01_9a5c5a46:
@@ -886,7 +886,7 @@ translate turkish e18s01_in_room_b7484bca:
 translate turkish e18s01_in_room_bc092c7c:
 
     # mct "She's squeezing me dry."
-    mct "She's squeezing me dry."
+    mct "Beni sıkıp kurutuyor."
 
 # game/code/e18/e18s01.rpy:789
 translate turkish e18s01_in_room_f0301c37:
@@ -1054,13 +1054,13 @@ translate turkish e18s01_in_room_7cfa9301:
 translate turkish e18s01_in_room_b2b57858:
 
     # pb "*grunting* Oh shit. You jus... oh damnuah!"
-    pb "*grunting* Oh shit. You jus... oh damnuah!"
+    pb "*Homurdanıyor* Oh kahretsin. Sadec... oh damnuah!"
 
 # game/code/e18/e18s01.rpy:894
 translate turkish e18s01_in_room_970d2436:
 
     # sb "Don't you dare cum inside me."
-    sb "Don't you dare cum inside me."
+    sb "Sakın içime boşalayım deme."
 
 # game/code/e18/e18s01.rpy:903
 translate turkish e18s01_in_room_d616d94a:
@@ -1108,13 +1108,13 @@ translate turkish e18s01_in_room_faa42600:
 translate turkish e18s01_in_room_b5298298:
 
     # pb "*high pitched* Mistress... my dickhuaah."
-    pb "*high pitched* Mistress... my dickhuaah."
+    pb "*yüksek perdeden* Sahibem...Sikimmhuahh"
 
 # game/code/e18/e18s01.rpy:929
 translate turkish e18s01_in_room_9b361b68:
 
     # pb "I just... phew... I could use a breather."
-    pb "I just... phew... Bir nefes alabilirim."
+    pb "Ben sadece... phew... Bir nefes alabilirim."
 
 # game/code/e18/e18s01.rpy:931
 translate turkish e18s01_in_room_8f9c3a4c:
@@ -1300,7 +1300,7 @@ translate turkish e18s01_after_menu_16c95d09:
 translate turkish e18s01_after_menu_7fc41713:
 
     # dw "Oouh my godhuaa-ffuraa-hhuah."
-    dw "Oouh my godhuaa-ffuraa-hhuah."
+    dw "Aammmannnn Tannrıımasdmm-ffuraa-hhuah."
 
 # game/code/e18/e18s01.rpy:1079
 translate turkish e18s01_after_menu_faed925c:
@@ -1330,7 +1330,7 @@ translate turkish e18s01_after_menu_7bab08dc:
 translate turkish e18s01_after_menu_9fbb45da:
 
     # mc "*breathing heavily* Thank you..."
-    mc "*breathing heavily* Thank you..."
+    mc "*ağır nefes alıyor* Teşekkür ederim..."
 
 # game/code/e18/e18s01.rpy:1098
 translate turkish e18s01_after_menu_c48e9380:
@@ -1438,7 +1438,7 @@ translate turkish e18s01_after_menu_87e4e467:
 translate turkish e18s01_after_menu_1aa212e4:
 
     # sb "Ohuraah... my pussy... is already on fire."
-    sb "Ohuraah... my pussy... is already on fire."
+    sb "Ohuraah... amım... zaten yanıyor."
 
 # game/code/e18/e18s01.rpy:1150
 translate turkish e18s01_after_menu_8b992c73:
@@ -1480,7 +1480,7 @@ translate turkish e18s01_after_menu_e71e724e:
 translate turkish e18s01_after_menu_35b320ed:
 
     # sb "*whimpering screams* [mcname]!"
-    sb "*whimpering screams* [mcname]!"
+    sb "*çığlık çığlığa* [mcname]!"
 
 # game/code/e18/e18s01.rpy:1169
 translate turkish e18s01_after_menu_04df3f29:
