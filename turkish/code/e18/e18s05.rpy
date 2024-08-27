@@ -262,7 +262,7 @@ translate turkish e18s05_shopping_eb979971:
 translate turkish e18s05_shopping_b7f35d41:
 
     # mc "Well, you were worried about the car earlier, and now we've parked it in plain sight again."
-mc "Daha önce araba için endişeleniyordun, şimdi yine göz önünde park ettik."
+    mc "Daha önce araba için endişeleniyordun, şimdi yine göz önünde park ettik."
 
 # game/code/e18/e18s05.rpy:200
 translate turkish e18s05_shopping_6c7f0bb6:
@@ -610,7 +610,7 @@ translate turkish e18s05_dressing_room_e3e1d383:
 translate turkish e18s05_dressing_room_08ec8b3c:
 
     # mc "A dork with that big Dee you want!"
-mc "A dork with that big Dee you want!"
+    mc "A dork with that big Dee you want!"
 
 # game/code/e18/e18s05.rpy:430
 translate turkish e18s05_dressing_room_064257f1:

@@ -616,7 +616,7 @@ translate turkish e18s02_f447885d:
 translate turkish e18s02_219a3859:
 
     # sb "You can say that again."
-sb "Bunu tekrar söyleyebilirsin."
+    sb "Bunu tekrar söyleyebilirsin."
 
 # game/code/e18/e18s02.rpy:415
 translate turkish e18s02_96e75788:

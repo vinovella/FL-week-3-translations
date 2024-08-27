@@ -748,7 +748,7 @@ translate turkish e18s04_in_beach_e4fb4ec7:
 translate turkish e18s04_in_beach_f19e877f:
 
     # sb "Mmmm, maybe we {i}will{/i} get a show. Let's see what you boys are made of.."
-    sb "Mmmm, belki {i}bir gösteri yaparız. Bakalım siz çocuklar neymişsiniz..."
+    sb "Mmmm, belki {i}bir{/i} gösteri yaparız. Bakalım siz çocuklar neymişsiniz..."
 
 # game/code/e18/e18s04.rpy:557
 translate turkish e18s04_in_beach_7eba6d03:
@@ -1306,7 +1306,7 @@ translate turkish e18s04_mc_pb_2_affd0801:
 translate turkish e18s04_mc_pb_2_e764ebcb:
 
     # dw "Oh my {i}God.{/i} This is hotter than I ever could have imagined!!!"
-    dw "Aman Tanrım.{/i} Bu hayal edebileceğimden çok daha ateşli!!!"
+    dw "Aman {i}Tanrım.{/i} Bu hayal edebileceğimden çok daha ateşli!!!"
 
 # game/code/e18/e18s04.rpy:903
 translate turkish e18s04_mc_pb_2_7b76468e:
@@ -1618,7 +1618,7 @@ translate turkish e18s04_continue_bde14eb8:
 translate turkish e18s04_continue_6631c4ce:
 
     # mc "Holllly shit. That was... Fuck, that was good."
-mc "Lanet olsun.. Bu... Siktir, bu iyiydi."
+    mc "Lanet olsun.. Bu... Siktir, bu iyiydi."
 
 # game/code/e18/e18s04.rpy:1120
 translate turkish e18s04_continue_b48c6312:

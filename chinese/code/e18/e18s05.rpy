@@ -1192,7 +1192,7 @@ translate chinese e18s05_sb_sex_5468b369:
 translate chinese e18s05_sb_sex_1f68e0df:
 
     # sb "Oohuaah. What... oouahh-ahh..."
-    sb 哦哦哦哦哦，啊啊啊...哦吼..."
+    sb "哦哦哦哦哦，啊啊啊...哦吼..."
 
 # game/code/e18/e18s05.rpy:755
 translate chinese e18s05_sb_sex_5eeb4d13:

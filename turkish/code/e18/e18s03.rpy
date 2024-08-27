@@ -1000,7 +1000,7 @@ translate turkish e18s03_punishment_e485b92b:
 translate turkish e18s03_punishment_cf23295c:
 
     # pb "Fuuuuuck - Dahlia, I don't know how long I can last doing this!"
-pb "Siktirrrrr - Dahlia, bunu yapmaya ne kadar dayanabilirim bilmiyorum!"
+    pb "Siktirrrrr - Dahlia, bunu yapmaya ne kadar dayanabilirim bilmiyorum!"
 
 # game/code/e18/e18s03.rpy:667
 translate turkish e18s03_punishment_38dbc3ce:
@@ -1186,7 +1186,7 @@ translate turkish e18s03_cum_toes_9b55a0eb:
 translate turkish e18s03_cum_toes_7caafcbd:
 
     # sb "Don't worry, we still have one naughty doggy who can get you there."
-sb "Merak etme, seni oraya götürebilecek yaramaz bir köpeğimiz var."
+    sb "Merak etme, seni oraya götürebilecek yaramaz bir köpeğimiz var."
 
 # game/code/e18/e18s03.rpy:782
 translate turkish e18s03_cum_toes_90cce21a:
@@ -1624,7 +1624,7 @@ translate turkish e18s03_end_b50317ce:
 translate turkish e18s03_end_929b8065:
 
     # sb "Don't you fucking {i}dare{/i} cum before I do!"
-    sb "Benden önce boşalmaya {i}cesaret{i} edemezsin!"
+    sb "Benden önce boşalmaya {i}cesaret{/i} edemezsin!"
 
 # game/code/e18/e18s03.rpy:1008
 translate turkish e18s03_end_25af6535:

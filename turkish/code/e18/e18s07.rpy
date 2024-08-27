@@ -1228,7 +1228,7 @@ translate turkish e18s07_in_the_pool_af415775:
 translate turkish e18s07_in_the_pool_a700a27b:
 
     # sb "Oh fuuuuucking hell - you've got a tongue on you, [mcname]!! Goooooooood!!"
-sb "Oh fuuuuucking hell - you've got a tongue on you, [mcname]!! Goooooooood!!"
+    sb "Oh fuuuuucking hell - you've got a tongue on you, [mcname]!! Goooooooood!!"
 
 # game/code/e18/e18s07.rpy:736
 translate turkish e18s07_in_the_pool_731b3441:

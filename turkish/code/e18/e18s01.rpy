@@ -1678,7 +1678,7 @@ translate turkish e18s01_after_menu_03fb3e88:
 translate turkish e18s01_after_menu_4b9d63a9:
 
     # sb "I'm glad you backed me up, [mcname]. You didn't have to do that."
-sb "Beni desteklediğine sevindim, [mcname]. Bunu yapmak zorunda değildin."
+    sb "Beni desteklediğine sevindim, [mcname]. Bunu yapmak zorunda değildin."
 
 # game/code/e18/e18s01.rpy:1292
 translate turkish e18s01_after_menu_557b02ef:
