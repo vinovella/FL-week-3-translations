@@ -370,11 +370,11 @@ translate turkish strings:
 translate turkish e13s02_e5e5853b:
 
     # "Customer" "Aww, but..."
-    "Customer" "Aww, but..."
+    "Müşteri" "Aww, fakat..."
 
 # game/code/e13/e13s02.rpy:200
 translate turkish replay_e13s02_e2a7aa61:
 
     # nk "Actually... You know what? Sit down."
-    nk "Actually... You know what? Sit down."
+    nk "Aslında... Ne var biliyor musun? Otursana."
 
