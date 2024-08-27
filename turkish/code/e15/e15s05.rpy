@@ -682,7 +682,7 @@ translate turkish e15s05_after_menu_12e63057:
 translate turkish e15s05_after_menu_77e6216d:
 
     # sy "She is just {i}devouring{/i} your dick..."
-    sy "She is just {i}devouring{/i} your dick..."
+    sy "O sadece senin sikini {i}yiyor{/i}."
 
 # game/code/e15/e15s05.rpy:425
 translate turkish e15s05_after_menu_44bfb4c9:
@@ -1156,7 +1156,7 @@ translate turkish e15s05_after_menu_41a26826:
 translate turkish e15s05_after_menu_f0f563bf:
 
     # sy "Uh huh, I do."
-    sy "Uh huh, I do."
+    sy "Evet, öyle."
 
 # game/code/e15/e15s05.rpy:635
 translate turkish e15s05_after_menu_056b21a8:
@@ -1180,7 +1180,7 @@ translate turkish e15s05_after_menu_090f9cfe:
 translate turkish e15s05_after_menu_17146a67:
 
     # sy "Ohmygodyes!"
-    sy "Ohmygodyes!"
+    sy "Amantanrımevet!"
 
 # game/code/e15/e15s05.rpy:645
 translate turkish e15s05_after_menu_40276f76:
@@ -1378,7 +1378,7 @@ translate turkish e15s05_after_menu_d301bac5:
 translate turkish e15s05_after_menu_ea32d966:
 
     # sy "Ohmygod, I'm in heaven!"
-    sy "Ohmygod, I'm in heaven!"
+    sy "Amantanrım, cennetteyim!"
 
 # game/code/e15/e15s05.rpy:747
 translate turkish e15s05_after_menu_c8fbdeff:
