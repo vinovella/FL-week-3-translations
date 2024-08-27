@@ -130,7 +130,7 @@ translate turkish e15s06_d595374e:
 translate turkish e15s06_ffa99bb9:
 
     # mc "A toast, eh?"
-    mc "A toast, eh?"
+    mc "Kadeh kaldıralım.?"
 
 # game/code/e15/e15s06.rpy:145
 translate turkish e15s06_1680a7b5:
@@ -616,7 +616,7 @@ translate turkish e15s06_pool_room_46bc6099:
 translate turkish e15s06_pool_room_3404de4a:
 
     # mes "Yes, you may."
-    mes "Yes, you may."
+    mes "Evet, yapabilirsin."
 
 # game/code/e15/e15s06.rpy:419
 translate turkish e15s06_pool_room_8fe5f06e:
