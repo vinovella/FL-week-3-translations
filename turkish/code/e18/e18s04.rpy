@@ -490,7 +490,7 @@ translate turkish e18s04_45eed974:
 translate turkish e18s04_82e558b6:
 
     # ke "Hell yeah, I'm in."
-    ke "Hell yeah, I'm in."
+    ke "Evet, ben de varım."
 
 # game/code/e18/e18s04.rpy:362
 translate turkish e18s04_e378b2e7:
@@ -556,7 +556,7 @@ translate turkish e18s04_in_beach_b6aec108:
 translate turkish e18s04_in_beach_30654b59:
 
     # ke "Hell yeah."
-    ke "Hell yeah."
+    ke "Tabiki."
 
 # game/code/e18/e18s04.rpy:438
 translate turkish e18s04_in_beach_bf699a2b:
@@ -976,7 +976,7 @@ translate turkish e18s04_in_beach_1db721dc:
 translate turkish e18s04_in_beach_a16e0270:
 
     # ke "Anything for you, Sir!"
-    ke "Anything for you, Sir!"
+    ke "Sizin için her şeyi yaparım, efendim!"
 
 # game/code/e18/e18s04.rpy:702
 translate turkish e18s04_in_beach_f3c88c98:
@@ -1198,7 +1198,7 @@ translate turkish e18s04_mc_pb_1_cec4ed1b:
 translate turkish e18s04_mc_pb_1_eafadc51:
 
     # mc "I'm just... not comfortable with it."
-    mc "I'm just... not comfortable with it."
+    mc "Ben sadece... bu konuda rahat değilim."
 
 # game/code/e18/e18s04.rpy:842
 translate turkish e18s04_mc_pb_1_1eeda495:
@@ -1234,7 +1234,7 @@ translate turkish e18s04_mc_pb_2_c26dbbb7:
 translate turkish e18s04_mc_pb_2_adddf156:
 
     # sb "Can't let them have all the fun, can we?"
-    sb "Can't let them have all the fun, can we?"
+    sb "Tüm eğlenceyi onlara bırakamayız, değil mi?"
 
 # game/code/e18/e18s04.rpy:864
 translate turkish e18s04_mc_pb_2_fc58bbdd:
@@ -1474,7 +1474,7 @@ translate turkish e18s04_continue_d2a6d17d:
 translate turkish e18s04_continue_96c54f97:
 
     # sb "Hell yeah it is!"
-    sb "Hell yeah it is!"
+    sb "Tabii ki öyle!"
 
 # game/code/e18/e18s04.rpy:1016
 translate turkish e18s04_continue_49ef07d4:
@@ -1534,7 +1534,7 @@ translate turkish e18s04_continue_c4b06637:
 translate turkish e18s04_continue_d72ae64f:
 
     # mc "Gahhh - I can - fuh - feel myself getting close!"
-    mc "Gahhh - I can - fuh - feel myself getting close!"
+    mc "Gahhh - Yaklaştığımı hissedebiliyorum!"
 
 # game/code/e18/e18s04.rpy:1047
 translate turkish e18s04_continue_2e7406be:
