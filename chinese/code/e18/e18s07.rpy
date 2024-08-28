@@ -2272,7 +2272,7 @@ translate chinese e18s07_finale_b105b95f:
 translate chinese e18s07_finale_9e1682d9:
 
     # dw "FUCK I'M CUMMING! YOU CAN CUM, YOU BABOON!"
-    dw "操，我要来了！你可以射了，你这个狒狒！
+    dw "操，我要来了！你可以射了，你这个狒狒！"
 
 # game/code/e18/e18s07.rpy:1190
 translate chinese e18s07_finale_a9e3213d:
