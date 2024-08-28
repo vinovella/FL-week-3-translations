@@ -862,685 +862,685 @@ translate chinese e18s07_beach_villa_0cadbf10:
 translate chinese e18s07_beach_villa_181d09de:
 
     # mc "Holy shit..."
-    mc "Holy shit..."
+    mc "我滴个去..."
 
 # game/code/e18/e18s07.rpy:512
 translate chinese e18s07_beach_villa_29340a0e:
 
     # pb "Right? This place is sick! {i}And{/i} we get our own rooms!"
-    pb "Right? This place is sick! {i}And{/i} we get our own rooms!"
+    pb "是吧？这地方太棒了！{i}而且{/i}我们有自己的房间！"
 
 # game/code/e18/e18s07.rpy:515
 translate chinese e18s07_beach_villa_65d890f8:
 
     # mc "Damn... This place is fucking nice. I can't believe Samiya bought it."
-    mc "Damn... This place is fucking nice. I can't believe Samiya bought it."
+    mc "天哪...这地方真他妈好。真不敢相信萨米亚买下了它。"
 
 # game/code/e18/e18s07.rpy:517
 translate chinese e18s07_beach_villa_d80debce:
 
     # pb "Yeah, I didn't know things were going that well with the car wash."
-    pb "Yeah, I didn't know things were going that well with the car wash."
+    pb "是啊，我不知道洗车店的生意进展得这么顺利。"
 
 # game/code/e18/e18s07.rpy:520
 translate chinese e18s07_beach_villa_55173e92:
 
     # mc "Same... But I'm glad we have a place to live."
-    mc "Same... But I'm glad we have a place to live."
+    mc "我也是...不过很高兴我们有了住的地方。"
 
 # game/code/e18/e18s07.rpy:522
 translate chinese e18s07_beach_villa_13a9885a:
 
     # pb "Me too. That apartment bed was killing me."
-    pb "Me too. That apartment bed was killing me."
+    pb "我也是。公寓的床快把我折磨死了。"
 
 # game/code/e18/e18s07.rpy:525
 translate chinese e18s07_beach_villa_ec1dc776:
 
     # mc "You know, Pete, I'm kind of surprised."
-    mc "You know, Pete, I'm kind of surprised."
+    mc "你知道吗，皮特，我有点惊讶。"
 
 # game/code/e18/e18s07.rpy:527
 translate chinese e18s07_beach_villa_4e08fbca:
 
     # pb "Yeah? Why?"
-    pb "Yeah? Why?"
+    pb "是吗？为什么？"
 
 # game/code/e18/e18s07.rpy:530
 translate chinese e18s07_beach_villa_ead5d7ba:
 
     # mc "I don't know. I just figured you'd want to take off at some point."
-    mc "I don't know. I just figured you'd want to take off at some point."
+    mc "我不知道。我只是觉得你总有一天会想离开的。"
 
 # game/code/e18/e18s07.rpy:532
 translate chinese e18s07_beach_villa_277cf9fb:
 
     # pb "Nah. I kind of like having a Mistress. It takes so much stress off of me."
-    pb "Nah. I kind of like having a Mistress. It takes so much stress off of me."
+    pb "不会。我挺喜欢有个女主人的。这让我压力减轻了很多。"
 
 # game/code/e18/e18s07.rpy:535
 translate chinese e18s07_beach_villa_05568fb5:
 
     # pb "Plus, she's super hot. So it's a win-win for me."
-    pb "Plus, she's super hot. So it's a win-win for me."
+    pb "另外，她超级性感。所以对我来说，这是双赢。"
 
 # game/code/e18/e18s07.rpy:536
 translate chinese e18s07_beach_villa_6727790e:
 
     # pb "I plan to stay around as long as she'll keep me around."
-    pb "I plan to stay around as long as she'll keep me around."
+    pb "只要她愿意，我打算一直待在这里。"
 
 # game/code/e18/e18s07.rpy:548
 translate chinese replay_e18s07_323dc10f:
 
     # sb "Like what you see?"
-    sb "Like what you see?"
+    sb "喜欢你眼前看到的景色吗？"
 
 # game/code/e18/e18s07.rpy:550
 translate chinese replay_e18s07_dc3ef5dc:
 
     # mc "Yeah... Holy shit..."
-    mc "Yeah... Holy shit..."
+    mc "是的...天哪..."
 
 # game/code/e18/e18s07.rpy:553
 translate chinese replay_e18s07_b9c8bb67:
 
     # sb "Pick your jaw of the floor, [mcname]."
-    sb "Pick your jaw of the floor, [mcname]."
+    sb "[mcname]，把你的下巴捡起来。"
 
 # game/code/e18/e18s07.rpy:555
 translate chinese replay_e18s07_4bbe5891:
 
     # mc "Sorry..."
-    mc "Sorry..."
+    mc "抱歉..."
 
 # game/code/e18/e18s07.rpy:558
 translate chinese replay_e18s07_ba326673:
 
     # dw "That pool does look great, maybe after getting some sun we can dip in for a swim."
-    dw "That pool does look great, maybe after getting some sun we can dip in for a swim."
+    dw "那个游泳池看起来很不错，晒完太阳后我们可以去游泳。"
 
 # game/code/e18/e18s07.rpy:561
 translate chinese replay_e18s07_178ffc86:
 
     # pb "Fuck yeah! I'm gonna go and grab my suit."
-    pb "Fuck yeah! I'm gonna go and grab my suit."
+    pb "太棒了！我去拿泳衣。"
 
 # game/code/e18/e18s07.rpy:563
 translate chinese replay_e18s07_6a86c3f1:
 
     # dw "No you're not."
-    dw "No you're not."
+    dw "不行，你不能去。"
 
 # game/code/e18/e18s07.rpy:566
 translate chinese replay_e18s07_60617de6:
 
     # pb "But, I want to-"
-    pb "But, I want to-"
+    pb "但是，我想--"
 
 # game/code/e18/e18s07.rpy:568
 translate chinese replay_e18s07_2b602934:
 
     # dw "You can swim. You just can't wear a suit."
-    dw "You can swim. You just can't wear a suit."
+    dw "你可以游泳。只是不能穿泳衣。"
 
 # game/code/e18/e18s07.rpy:569
 translate chinese replay_e18s07_bfdd1733:
 
     # pb "Then... what am I going to wear?"
-    pb "Then... what am I going to wear?"
+    pb "那...我该穿什么？"
 
 # game/code/e18/e18s07.rpy:573
 translate chinese replay_e18s07_02eb00eb:
 
     # dw "Nothing, you fucking baboon. You get nothing!"
-    dw "Nothing, you fucking baboon. You get nothing!"
+    dw "什么都不穿，你这只该死的狒狒。你什么都不能穿！"
 
 # game/code/e18/e18s07.rpy:575
 translate chinese replay_e18s07_e6c88eb5:
 
     # pb "Ohhhhhh."
-    pb "Ohhhhhh."
+    pb "哦哦哦哦哦。"
 
 # game/code/e18/e18s07.rpy:579
 translate chinese replay_e18s07_162e4be5:
 
     # sb "You too, [mcname]."
-    sb "You too, [mcname]."
+    sb "你也是，[mcname]。"
 
 # game/code/e18/e18s07.rpy:581
 translate chinese replay_e18s07_e0715dbc:
 
     # mc "But-"
-    mc "But-"
+    mc "但是--"
 
 # game/code/e18/e18s07.rpy:584
 translate chinese replay_e18s07_e27b4959:
 
     # sb "I am the Queen, these are my lands. My subjects will do what I tell them to.{w} Strip."
-    sb "I am the Queen, these are my lands. My subjects will do what I tell them to.{w} Strip."
+    sb "我是女王，这是我的领地。我的臣民会照我说的去做。{w}脱衣服。"
 
 # game/code/e18/e18s07.rpy:586
 translate chinese replay_e18s07_e7149e8d:
 
     # mc "Yes, my Queen..."
-    mc "Yes, my Queen..."
+    mc "好的，我的女王..."
 
 # game/code/e18/e18s07.rpy:595
 translate chinese replay_e18s07_d3c57c3c:
 
     # pb "Cannonbaaalllll!"
-    pb "Cannonbaaalllll!"
+    pb "我滴个去!"
 
 # game/code/e18/e18s07.rpy:601
 translate chinese replay_e18s07_d99ad6c4:
 
     # sb "You getting in?"
-    sb "You getting in?"
+    sb "你要下水吗？"
 
 # game/code/e18/e18s07.rpy:603
 translate chinese replay_e18s07_31f03ed8:
 
     # mc "Yeah. What about you two?"
-    mc "Yeah. What about you two?"
+    mc "是的。你们俩呢？"
 
 # game/code/e18/e18s07.rpy:606
 translate chinese replay_e18s07_0d0f8c94:
 
     # sb "I think we'll sit and watch for a minute. But I promise to enjoy you soon enough."
-    sb "I think we'll sit and watch for a minute. But I promise to enjoy you soon enough."
+    sb "我想我们还是坐下来看一会儿吧。但我保证很快就会好好享用你的。"
 
 # game/code/e18/e18s07.rpy:622
 translate chinese e18s07_in_the_pool_afa2c5d2:
 
     # sb "Water looks nice."
-    sb "Water looks nice."
+    sb "水看起来不错。"
 
 # game/code/e18/e18s07.rpy:624
 translate chinese e18s07_in_the_pool_6bd7fb18:
 
     # mc "It is, jump in."
-    mc "It is, jump in."
+    mc "确实，跳进去吧。"
 
 # game/code/e18/e18s07.rpy:628
 translate chinese e18s07_in_the_pool_47a14746:
 
     # sb "Don't mind if I do."
-    sb "Don't mind if I do."
+    sb "别介意我这么做。"
 
 # game/code/e18/e18s07.rpy:634
 translate chinese e18s07_in_the_pool_6c70c1cc:
 
     # dw "Mmmmm, looking good, Samiya."
-    dw "Mmmmm, looking good, Samiya."
+    dw "嗯嗯嗯，看起来不错，萨米亚。"
 
 # game/code/e18/e18s07.rpy:636
 translate chinese e18s07_in_the_pool_86bd9f7c:
 
     # sb "Oh, I know it."
-    sb "Oh, I know it."
+    sb "哦，我知道。"
 
 # game/code/e18/e18s07.rpy:654
 translate chinese e18s07_in_the_pool_4d8d1eeb:
 
     # sb "Hey, you."
-    sb "Hey, you."
+    sb "嘿，你。"
 
 # game/code/e18/e18s07.rpy:656
 translate chinese e18s07_in_the_pool_1d1d6aa2:
 
     # mc "Hey, yourself."
-    mc "Hey, yourself."
+    mc "嘿，你也是。"
 
 # game/code/e18/e18s07.rpy:659
 translate chinese e18s07_in_the_pool_0210a731:
 
     # sb "Enjoying your first day in the new house?"
-    sb "Enjoying your first day in the new house?"
+    sb "喜欢在新房子里的第一天吗？"
 
 # game/code/e18/e18s07.rpy:661
 translate chinese e18s07_in_the_pool_1499014b:
 
     # mc "Oh, you have no idea. This is incredible."
-    mc "Oh, you have no idea. This is incredible."
+    mc "哦，你都想象不到我有多激动。这太不可思议了。"
 
 # game/code/e18/e18s07.rpy:664
 translate chinese e18s07_in_the_pool_8bfdf518:
 
     # sb "Happy you came here with us?"
-    sb "Happy you came here with us?"
+    sb "你很高兴能和我们一起来吧？"
 
 # game/code/e18/e18s07.rpy:666
 translate chinese e18s07_in_the_pool_f6595241:
 
     # mc "Every. Damn. Day."
-    mc "Every. Damn. Day."
+    mc "靠，每一天。都很感恩。"
 
 # game/code/e18/e18s07.rpy:667
 translate chinese e18s07_in_the_pool_00d20734:
 
     # sb "That was the right answer."
-    sb "That was the right answer."
+    sb "回答正确。"
 
 # game/code/e18/e18s07.rpy:676
 translate chinese e18s07_in_the_pool_4d6d2f7f:
 
     # sb "I think...{w} I have the life I've always wanted."
-    sb "I think...{w} I have the life I've always wanted."
+    sb "我想...{w}我拥有了梦寐以求的生活。"
 
 # game/code/e18/e18s07.rpy:677
 translate chinese e18s07_in_the_pool_06339fce:
 
     # sb "Thank you."
-    sb "Thank you."
+    sb "谢谢。"
 
 # game/code/e18/e18s07.rpy:688
 translate chinese e18s07_in_the_pool_0cc257a5:
 
     # sb "There's only one thing that'll make this better."
-    sb "There's only one thing that'll make this better."
+    sb "只有一件事能让这一切变得更好。"
 
 # game/code/e18/e18s07.rpy:690
 translate chinese e18s07_in_the_pool_8487f92d:
 
     # mc "And what's that?"
-    mc "And what's that?"
+    mc "是什么？"
 
 # game/code/e18/e18s07.rpy:694
 translate chinese e18s07_in_the_pool_acf041b5:
 
     # sb "Come and service your Queen."
-    sb "Come and service your Queen."
+    sb "来服侍你的女王吧。"
 
 # game/code/e18/e18s07.rpy:696
 translate chinese e18s07_in_the_pool_e1bccc2c:
 
     # mc "Anything for you, your majesty."
-    mc "Anything for you, your majesty."
+    mc "女王陛下，您说什么都行。"
 
 # game/code/e18/e18s07.rpy:699
 translate chinese e18s07_in_the_pool_0dc0b53e:
 
     # dw "Oh, are we having a first fuck in the new place?"
-    dw "Oh, are we having a first fuck in the new place?"
+    dw "哦，我们要在新地方第一次做爱吗？"
 
 # game/code/e18/e18s07.rpy:701
 translate chinese e18s07_in_the_pool_17fcf9de:
 
     # sb "Damn straight."
-    sb "Damn straight."
+    sb "太对了。"
 
 # game/code/e18/e18s07.rpy:705
 translate chinese e18s07_in_the_pool_63a9ba43:
 
     # dw "Baboon! Get over here!"
-    dw "Baboon! Get over here!"
+    dw "狒狒！过来！"
 
 # game/code/e18/e18s07.rpy:707
 translate chinese e18s07_in_the_pool_bbb906ea:
 
     # pb "Yes, Mistress!"
-    pb "Yes, Mistress!"
+    pb "是的，女王！"
 
 # game/code/e18/e18s07.rpy:710
 translate chinese e18s07_in_the_pool_de924d31:
 
     # dw "Jerk off while I pleasure myself. I want to see you grovel for my pussy."
-    dw "Jerk off while I pleasure myself. I want to see you grovel for my pussy."
+    dw "在我取悦自己的时候打飞机。我想看你跪求我的小穴。"
 
 # game/code/e18/e18s07.rpy:712
 translate chinese e18s07_in_the_pool_18e4a55c:
 
     # pb "Of course, Mistress."
-    pb "Of course, Mistress."
+    pb "当然，主人。"
 
 # game/code/e18/e18s07.rpy:726
 translate chinese e18s07_in_the_pool_999994ad:
 
     # sb "Oh God, just like that [mcname]! Mmmmmm!"
-    sb "Oh God, just like that [mcname]! Mmmmmm!"
+    sb "哦，天哪，就像那样，[mcname]！嗯嗯嗯！"
 
 # game/code/e18/e18s07.rpy:727
 translate chinese e18s07_in_the_pool_a29e260f:
 
     # sb "Fuuuuck, flick my clit with your tongue! Just like that!"
-    sb "Fuuuuck, flick my clit with your tongue! Just like that!"
+    sb "操啊啊啊，用舌头弹我的阴蒂！就是那样！"
 
 # game/code/e18/e18s07.rpy:730
 translate chinese e18s07_in_the_pool_98baecf9:
 
     # dw "Mmmmm, I love watching you touch yourself while you stare at me, you baboon."
-    dw "Mmmmm, I love watching you touch yourself while you stare at me, you baboon."
+    dw "嗯嗯嗯，我喜欢看你一边盯着我看，一边抚摸自己，你这只狒狒。"
 
 # game/code/e18/e18s07.rpy:731
 translate chinese e18s07_in_the_pool_86d60818:
 
     # pb "Yes - Mistress!"
-    pb "Yes - Mistress!"
+    pb "是的--女主人！"
 
 # game/code/e18/e18s07.rpy:732
 translate chinese e18s07_in_the_pool_af415775:
 
     # dw "Grovel. I want you to grovel, worm."
-    dw "Grovel. I want you to grovel, worm."
+    dw "求我。我要你求我，小虫虫。"
 
 # game/code/e18/e18s07.rpy:735
 translate chinese e18s07_in_the_pool_a700a27b:
 
     # sb "Oh fuuuuucking hell - you've got a tongue on you, [mcname]!! Goooooooood!!"
-    sb "Oh fuuuuucking hell - you've got a tongue on you, [mcname]!! Goooooooood!!"
+    sb "呃啊啊啊--你的舌头可真不简单，[mcname]！！ 爽死了啊啊啊！！"
 
 # game/code/e18/e18s07.rpy:736
 translate chinese e18s07_in_the_pool_731b3441:
 
     # sb "Fuuuuuuhhhhh - keep going, keep going! Service your Queeeeeen!"
-    sb "Fuuuuuuhhhhh - keep going, keep going! Service your Queeeeeen!"
+    sb "次奥呃呃呃 - 继续，不要停！ 好好服务你的女王啊啊！"
 
 # game/code/e18/e18s07.rpy:739
 translate chinese e18s07_in_the_pool_a80b4ef6:
 
     # pb "You're so - nnnnggggh - hot, Mistress!"
-    pb "You're so - nnnnggggh - hot, Mistress!"
+    pb "你好--哇啊啊 --好性感，Mistress！"
 
 # game/code/e18/e18s07.rpy:740
 translate chinese e18s07_in_the_pool_5246d56a:
 
     # dw "More, Pete, more! Fucking, do better!"
-    dw "More, Pete, more! Fucking, do better!"
+    dw "还要，皮特，我还要！操，再卖力一点！"
 
 # game/code/e18/e18s07.rpy:743
 translate chinese e18s07_in_the_pool_1ca33f6b:
 
     # sb "That's right, worship your Queen, my knight! Give her everything she could ever ask for!"
-    sb "That's right, worship your Queen, my knight! Give her everything she could ever ask for!"
+    sb "没错，我的骑士，要崇拜你的女王！满足她的一切要求！"
 
 # game/code/e18/e18s07.rpy:744
 translate chinese e18s07_in_the_pool_7aadf8ee:
 
     # sb "Fuck! Just like that! I'm so close!"
-    sb "Fuck! Just like that! I'm so close!"
+    sb "操！就是这样！我快高潮了！"
 
 # game/code/e18/e18s07.rpy:747
 translate chinese e18s07_in_the_pool_979e267e:
 
     # pb "I, fuck - you're, you're the only person I think about when I touch myself!"
-    pb "I, fuck - you're, you're the only person I think about when I touch myself!"
+    pb "我，操--我撸我自己的时候脑子里想的只有你！"
 
 # game/code/e18/e18s07.rpy:748
 translate chinese e18s07_in_the_pool_f29d2f1a:
 
     # dw "I want you to {i}grovel, dammit!{/i}"
-    dw "I want you to {i}grovel, dammit!{/i}"
+    dw "我要你{i}卑微地求我，该死的！{/i}"
 
 # game/code/e18/e18s07.rpy:753
 translate chinese e18s07_in_the_pool_bd1147b9:
 
     # pb "I - I - I'd do anything to fuck you, Mistress! Anything!"
-    pb "I - I - I'd do anything to fuck you, Mistress! Anything!"
+    pb "我--我--我愿意做任何事，求您让我干你，女主人！做什么都可以！"
 
 # game/code/e18/e18s07.rpy:754
 translate chinese e18s07_in_the_pool_e3dda132:
 
     # dw "There we go... Would you really do anything to fuck me!"
-    dw "There we go... Would you really do anything to fuck me!"
+    dw "就是这样...你真的愿意做任何事来干我吗！"
 
 # game/code/e18/e18s07.rpy:755
 translate chinese e18s07_in_the_pool_6c8d52f8:
 
     # pb "Yes, Mistress! Anything!"
-    pb "Yes, Mistress! Anything!"
+    pb "好的，女主人！任何事！"
 
 # game/code/e18/e18s07.rpy:757
 translate chinese e18s07_in_the_pool_fc17860e:
 
     # sb "Fuck - [mcname] - fuck I'm - I'm-!"
-    sb "Fuck - [mcname] - fuck I'm - I'm-!"
+    sb "操--[mcname]--操--我--！"
 
 # game/code/e18/e18s07.rpy:765
 translate chinese e18s07_in_the_pool_30df8de8:
 
     # sb "Oh fuuuuuuuuuuuuck, [mcname]!"
-    sb "Oh fuuuuuuuuuuuuck, [mcname]!"
+    sb "哦，操啊啊啊啊，[mcname]！"
 
 # game/code/e18/e18s07.rpy:771
 translate chinese e18s07_in_the_pool_c0f7ba5a:
 
     # sb "Shit, [mcname]..."
-    sb "Shit, [mcname]..."
+    sb "妈的，[mcname]..."
 
 # game/code/e18/e18s07.rpy:774
 translate chinese e18s07_in_the_pool_4ef040b3:
 
     # dw "You're telling me, that was hot as fuck to watch."
-    dw "You're telling me, that was hot as fuck to watch."
+    dw "我跟你说，在一旁观看性感得要命，都赶上和做爱一样爽了。"
 
 # game/code/e18/e18s07.rpy:775
 translate chinese e18s07_in_the_pool_5deff3ca:
 
     # dw "Better than listening to this fuckin baboon's talking. I got a better use for his mouth anyway."
-    dw "Better than listening to this fuckin baboon's talking. I got a better use for his mouth anyway."
+    dw "比听这只该死的狒狒说话好多了。反正他的嘴有更好的用处。"
 
 # game/code/e18/e18s07.rpy:778
 translate chinese e18s07_in_the_pool_f2a90304:
 
     # sb "For your exemplary service to your Queen... you deserve a reward."
-    sb "For your exemplary service to your Queen... you deserve a reward."
+    sb "感谢你对女王的模范服务...你应该得到奖励。"
 
 # game/code/e18/e18s07.rpy:779
 translate chinese e18s07_in_the_pool_3ebfafb0:
 
     # sb "The best reward a Queen can give her knight."
-    sb "The best reward a Queen can give her knight."
+    sb "女王能给予骑士的最好奖励。"
 
 # game/code/e18/e18s07.rpy:795
 translate chinese e18s07_in_the_pool_e9a28baa:
 
     # mc "Shit, Samiya!"
-    mc "Shit, Samiya!"
+    mc "我靠，萨米亚！"
 
 # game/code/e18/e18s07.rpy:796
 translate chinese e18s07_in_the_pool_84a628b5:
 
     # sb "Fuuuuuck - [mcname]! Fuck me harder!"
-    sb "Fuuuuuck - [mcname]! Fuck me harder!"
+    sb "操啊啊啊--[mcname]！用力干我！"
 
 # game/code/e18/e18s07.rpy:799
 translate chinese e18s07_in_the_pool_7922727a:
 
     # dw "Goddddamn, you might be an idiot but you can do great things with that tongue, Pete!"
-    dw "Goddddamn, you might be an idiot but you can do great things with that tongue, Pete!"
+    dw "我的天哪，你可能脑子是不太好，但你的舌头可以干大事，皮特！"
 
 # game/code/e18/e18s07.rpy:800
 translate chinese e18s07_in_the_pool_da6af9fe:
 
     # dw "From now on, every session is going to start with you licking my pussy until I cuuuuum!"
-    dw "From now on, every session is going to start with you licking my pussy until I cuuuuum!"
+    dw "从现在开始，每次都要先舔我的小穴，直到我喷出来！"
 
 # game/code/e18/e18s07.rpy:803
 translate chinese e18s07_in_the_pool_93e1bd11:
 
     # sb "Fu - fu - fuck! Come on, you can do better! I want you to fucking pound my pussy!"
-    sb "Fu - fu - fuck! Come on, you can do better! I want you to fucking pound my pussy!"
+    sb "次-哦--操啊！用力，你可以做得更好！我要你用力干我的小穴！"
 
 # game/code/e18/e18s07.rpy:804
 translate chinese e18s07_in_the_pool_7acde421:
 
     # mc "Yes, my Queen!"
-    mc "Yes, my Queen!"
+    mc "是的，我的女王！"
 
 # game/code/e18/e18s07.rpy:805
 translate chinese e18s07_in_the_pool_5ffd860d:
 
     # sb "Come on! Fucking ravage me! Earn your knighthood!!!"
-    sb "Come on! Fucking ravage me! Earn your knighthood!!!"
+    sb "来吧！狠狠地蹂躏我！赢得你的骑士称号!!!"
 
 # game/code/e18/e18s07.rpy:808
 translate chinese e18s07_in_the_pool_4661393f:
 
     # sb "Show me, show me what you'll do for your Queen!"
-    sb "Show me, show me what you'll do for your Queen!"
+    sb "让我看看，让我看看你会为你的女王做什么！"
 
 # game/code/e18/e18s07.rpy:809
 translate chinese e18s07_in_the_pool_f33b6946:
 
     # mc "And her huge tracts of laaaaaand!"
-    mc "And her huge tracts of laaaaaand!"
+    mc "还有女王下面的那一大片花园呢！"
 
 # game/code/e18/e18s07.rpy:812
 translate chinese e18s07_in_the_pool_6f40946d:
 
     # dw "Yesssss, you baboon! You giant pervert! Fucking suck on my cliiiiiit!"
-    dw "Yesssss, you baboon! You giant pervert! Fucking suck on my cliiiiiit!"
+    dw "就是这样，你这个狒狒！你这个大变态！快舔我的阴蒂啊啊啊！"
 
 # game/code/e18/e18s07.rpy:813
 translate chinese e18s07_in_the_pool_7ea0b297:
 
     # dw "Keep going, swirl it around in your mouth - fuuuuck!"
-    dw "Keep going, swirl it around in your mouth - fuuuuck!"
+    dw "继续，让它在你嘴里不停搅动--操啊啊！"
 
 # game/code/e18/e18s07.rpy:818
 translate chinese e18s07_in_the_pool_5ecd914d:
 
     # dw "Mmmmm - at least you know how to please your Mistress! You might not be totally useless after all!"
-    dw "Mmmmm - at least you know how to please your Mistress! You might not be totally useless after all!"
+    dw "嗯...至少你知道如何取悦你的女主人！你可能也不是一无是处！"
 
 # game/code/e18/e18s07.rpy:819
 translate chinese e18s07_in_the_pool_7ae40488:
 
     # dw "The plans I have for you! This house! Everything! Fuuuuck!"
-    dw "The plans I have for you! This house! Everything! Fuuuuck!"
+    dw "我为你准备的计划！这所房子！这里的一切！操啊啊！"
 
 # game/code/e18/e18s07.rpy:822
 translate chinese e18s07_in_the_pool_19e68864:
 
     # sb "You better not cum, my little knight! I have so much more fun planned for you."
-    sb "You better not cum, my little knight! I have so much more fun planned for you."
+    sb "你最好别射，我的小骑士！我为你准备了更多有趣的事情。"
 
 # game/code/e18/e18s07.rpy:824
 translate chinese e18s07_in_the_pool_e595bdb2:
 
     # mc "Fuck, Samiya, I -"
-    mc "Fuck, Samiya, I -"
+    mc "妈的，萨米亚，我--"
 
 # game/code/e18/e18s07.rpy:825
 translate chinese e18s07_in_the_pool_12d7f662:
 
     # sb "Who!?"
-    sb "Who!?"
+    sb "谁!?"
 
 # game/code/e18/e18s07.rpy:827
 translate chinese e18s07_in_the_pool_f5e0925d:
 
     # mc "My Queen-"
-    mc "My Queen-"
+    mc "我的女王--"
 
 # game/code/e18/e18s07.rpy:828
 translate chinese e18s07_in_the_pool_37d74a64:
 
     # sb "Betttter!"
-    sb "Betttter!"
+    sb "好多了！"
 
 # game/code/e18/e18s07.rpy:833
 translate chinese e18s07_in_the_pool_c8218f08:
 
     # dw "Oh shit. Fuck me. You're gonna - I'm gonna'!"
-    dw "Oh shit. Fuck me. You're gonna - I'm gonna'!"
+    dw "哦，该死。我操。你--我要！"
 
 # game/code/e18/e18s07.rpy:836
 translate chinese e18s07_in_the_pool_8cfc3d95:
 
     # dw "Fuck, don't stop! Don't stop! Yes, yes, yes, yes, yes!"
-    dw "Fuck, don't stop! Don't stop! Yes, yes, yes, yes, yes!"
+    dw "妈的，别停下来！别停下！啊啊啊就是这样！"
 
 # game/code/e18/e18s07.rpy:838
 translate chinese e18s07_in_the_pool_ccc5c2af:
 
     # sb "Don't forget to let him breathe, Dahlia!"
-    sb "Don't forget to let him breathe, Dahlia!"
+    sb "别忘了让他呼吸，黛丽娅！"
 
 # game/code/e18/e18s07.rpy:839
 translate chinese e18s07_in_the_pool_dd218cc9:
 
     # dw "Oh my God... Oh... my God..."
-    dw "Oh my God... Oh... my God..."
+    dw "哦，我的天哪...哦...我的天..."
 
 # game/code/e18/e18s07.rpy:841
 translate chinese e18s07_in_the_pool_09b3fa89:
 
     # sb "Dahlia!"
-    sb "Dahlia!"
+    sb "黛丽娅!"
 
 # game/code/e18/e18s07.rpy:849
 translate chinese e18s07_in_the_pool_88f22d05:
 
     # dw "What?"
-    dw "What?"
+    dw "怎么了？"
 
 # game/code/e18/e18s07.rpy:851
 translate chinese e18s07_in_the_pool_4cd9d770:
 
     # sb "Pete needs air."
-    sb "Pete needs air."
+    sb "皮特需要透透气。"
 
 # game/code/e18/e18s07.rpy:853
 translate chinese e18s07_in_the_pool_d84a054d:
 
     # dw "Oh, yeah..."
-    dw "Oh, yeah..."
+    dw "哦，是的..."
 
 # game/code/e18/e18s07.rpy:857
 translate chinese e18s07_in_the_pool_b943b836:
 
     # mc "Are you good, Pete?"
-    mc "Are you good, Pete?"
+    mc "你还好吗，皮特？"
 
 # game/code/e18/e18s07.rpy:859
 translate chinese e18s07_in_the_pool_f9fdb2f4:
 
     # pb "Uh huh... Anything... for my... Mistress..."
-    pb "Uh huh... Anything... for my... Mistress..."
+    pb "嗯哼...任何事...为了我的...女主人..."
 
 # game/code/e18/e18s07.rpy:861
 translate chinese e18s07_in_the_pool_7075c3b9:
 
     # dw "See? He's fine."
-    dw "See? He's fine."
+    dw "看到了吗？他很好。"
 
 # game/code/e18/e18s07.rpy:864
 translate chinese e18s07_in_the_pool_5bfcdab9:
 
     # sb "Oh, poor Pete. God, Dahlia, one of these days you're gonna' break him."
-    sb "Oh, poor Pete. God, Dahlia, one of these days you're gonna' break him."
+    sb "哦，可怜的皮特。天哪，黛丽娅，总有一天你会击垮他的。"
 
 # game/code/e18/e18s07.rpy:866
 translate chinese e18s07_in_the_pool_8e62118c:
 
     # dw "And? That's the point."
-    dw "And? That's the point."
+    dw "所以呢？这才是重点。"
 
 # game/code/e18/e18s07.rpy:870
 translate chinese e18s07_in_the_pool_8594d9fe:
 
     # sb "Aye yeah yeah. You have to at least give him a little bit of aftercare."
-    sb "Aye yeah yeah. You have to at least give him a little bit of aftercare."
+    sb "是啊，是啊。你至少要给他一点善后照顾。"
 
 # game/code/e18/e18s07.rpy:871
 translate chinese e18s07_in_the_pool_aad8cd7a:
 
     # sb "Isn't that true, Pete?"
-    sb "Isn't that true, Pete?"
+    sb "是不是这样，皮特？"
 
 # game/code/e18/e18s07.rpy:875
 translate chinese e18s07_in_the_pool_7838a977:
 
     # pb "Mmmmmm..."
-    pb "Mmmmmm..."
+    pb "嗯嗯嗯..."
 
 # game/code/e18/e18s07.rpy:877
 translate chinese e18s07_in_the_pool_0bc554b3:
 
     # sb "You like my dirty feet, rubbing on your dick?"
-    sb "You like my dirty feet, rubbing on your dick?"
+    sb "你喜欢我的脏脚蹭你的鸡巴吗？"
 
 # game/code/e18/e18s07.rpy:879
 translate chinese e18s07_in_the_pool_8e5b9aba:
