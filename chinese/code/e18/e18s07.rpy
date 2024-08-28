@@ -4,451 +4,451 @@
 translate chinese e18s07_d474aa4e:
 
     # dw "Put your backs into it, you worms!"
-    dw "Put your backs into it, you worms!"
+    dw "你们这些蠕虫，给我加把劲！"
 
 # game/code/e18/e18s07.rpy:75
 translate chinese e18s07_6e3c108f:
 
     # pb "Yes, Duchess!"
-    pb "Yes, Duchess!"
+    pb "好的，公爵夫人！"
 
 # game/code/e18/e18s07.rpy:78
 translate chinese e18s07_e1f439c6:
 
     # mc "Anything you say, Mistress."
-    mc "Anything you say, Mistress."
+    mc "主人，您的话就是我的使命。"
 
 # game/code/e18/e18s07.rpy:80
 translate chinese e18s07_cc591906:
 
     # dw "Come on! Don't forget, {i}you are replaceable!{/i}"
-    dw "Come on! Don't forget, {i}you are replaceable!{/i}"
+    dw "动起来！别忘了，{i}你们是可以被取代的！{/i}"
 
 # game/code/e18/e18s07.rpy:84
 translate chinese e18s07_351317b7:
 
     # "Customer" "Man, you gals got a good thing going with this car wash."
-    "Customer" "Man, you gals got a good thing going with this car wash."
+    "顾客" "我去，你们洗车的生意做得不错。"
 
 # game/code/e18/e18s07.rpy:86
 translate chinese e18s07_de00d7ca:
 
     # sb "Uh huh."
-    sb "Uh huh."
+    sb "嗯哼。"
 
 # game/code/e18/e18s07.rpy:89
 translate chinese e18s07_e7acbd0c:
 
     # "Customer" "I love how in charge you two are...{w} Girl bosses, am I right?"
-    "Customer" "I love how in charge you two are...{w} Girl bosses, am I right?"
+    "顾客" "我喜欢你们两个的掌控力...{w}两个女老板，我说得对吗？"
 
 # game/code/e18/e18s07.rpy:91
 translate chinese e18s07_82393d01:
 
     # sb "Yep. I didn't realize we would do so well with this car wash."
-    sb "Yep. I didn't realize we would do so well with this car wash."
+    sb "是的。我没想到洗车生意会做得这么好。"
 
 # game/code/e18/e18s07.rpy:94
 translate chinese e18s07_b2bd18ee:
 
     # "Customer" "What have you got there?"
-    "Customer" "What have you got there?"
+    "顾客" "那里是什么？"
 
 # game/code/e18/e18s07.rpy:96
 translate chinese e18s07_92bfa878:
 
     # sb "That? It's, uhm... You know, some old junker that's been here forever."
-    sb "That? It's, uhm... You know, some old junker that's been here forever."
+    sb "那个？呃...你知道，这是一辆破旧的老车，在这里已经很久了。"
 
 # game/code/e18/e18s07.rpy:100
 translate chinese e18s07_06828dc2:
 
     # "Customer" "It looks like it's got good bones..."
-    "Customer" "It looks like it's got good bones..."
+    "顾客" "看起来车架不错..."
 
 # game/code/e18/e18s07.rpy:102
 translate chinese e18s07_212d20ac:
 
     # sb "It - what?"
-    sb "It - what?"
+    sb "车--什么？"
 
 # game/code/e18/e18s07.rpy:106
 translate chinese e18s07_64a1b7a1:
 
     # "Customer" "It's got good bones. I restore cars, and that one looks to be free of rust and whatnot."
-    "Customer" "It's got good bones. I restore cars, and that one looks to be free of rust and whatnot."
+    "顾客" "车架不错。我修车的，这辆车看起来没有生锈什么的。"
 
 # game/code/e18/e18s07.rpy:107
 translate chinese e18s07_a63c938a:
 
     # "Customer" "You interested in selling it?"
-    "Customer" "You interested in selling it?"
+    "顾客" "你有兴趣卖吗？"
 
 # game/code/e18/e18s07.rpy:110
 translate chinese e18s07_5e82ed90:
 
     # sb "You - you want to buy it?"
-    sb "You - you want to buy it?"
+    sb "你--你想买它？"
 
 # game/code/e18/e18s07.rpy:113
 translate chinese e18s07_c19e03b4:
 
     # "Customer" "Uh huh. I need a new project car, and that one looks perfect."
-    "Customer" "Uh huh. I need a new project car, and that one looks perfect."
+    "顾客" "嗯。我需要一辆新车，那辆车看起来非常完美。"
 
 # game/code/e18/e18s07.rpy:115
 translate chinese e18s07_64f8d91e:
 
     # sb "Uhm, give me one second to consult with my... associates."
-    sb "Uhm, give me one second to consult with my... associates."
+    sb "呃，请给我一点时间，让我咨询一下我的...同事。"
 
 # game/code/e18/e18s07.rpy:119
 translate chinese e18s07_709157f5:
 
     # sb "Dahlia! I need to talk to you."
-    sb "Dahlia! I need to talk to you."
+    sb "黛丽娅！我需要和你谈谈。"
 
 # game/code/e18/e18s07.rpy:123
 translate chinese e18s07_e04e0cae:
 
     # mc "What do you think they're talking about?"
-    mc "What do you think they're talking about?"
+    mc " 你觉得她们在聊什么？"
 
 # game/code/e18/e18s07.rpy:125
 translate chinese e18s07_2745dd2a:
 
     # pb "Dunno'. Think we should ask?"
-    pb "Dunno'. Think we should ask?"
+    pb "不知道。要问一下吗？"
 
 # game/code/e18/e18s07.rpy:129
 translate chinese e18s07_0a631105:
 
     # mc "Yeah. What's the worst that can happen."
-    mc "Yeah. What's the worst that can happen."
+    mc "好啊。大不了也不会怎么样。"
 
 # game/code/e18/e18s07.rpy:131
 translate chinese e18s07_2f4a014e:
 
     # pb "Dunno'. But my ass still hurts from the spanking I got after I called used Dahlia's real name."
-    pb "Dunno'. But my ass still hurts from the spanking I got after I called used Dahlia's real name."
+    pb "不知道。但因为我叫了黛丽娅的真名结果被打了一顿后，屁股到现在还疼。"
 
 # game/code/e18/e18s07.rpy:135
 translate chinese e18s07_c2fbca76:
 
     # mc "Don't be a baby. Come on."
-    mc "Don't be a baby. Come on."
+    mc "别孩子气了。走吧。"
 
 # game/code/e18/e18s07.rpy:140
 translate chinese e18s07_8c26cb31:
 
     # mc "What's going on?"
-    mc "What's going on?"
+    mc "怎么回事？"
 
 # game/code/e18/e18s07.rpy:142
 translate chinese e18s07_b7a99e23:
 
     # dw "Who said you could stop washing the car!?"
-    dw "Who said you could stop washing the car!?"
+    dw "谁让你们不洗车了!?"
 
 # game/code/e18/e18s07.rpy:145
 translate chinese e18s07_dd77af7e:
 
     # mc "We're done, D-"
-    mc "We're done, D-"
+    mc "我们干完了，黛--"
 
 # game/code/e18/e18s07.rpy:147
 translate chinese e18s07_a7e29435:
 
     # pb "Mistress."
-    pb "Mistress."
+    pb "女主人。"
 
 # game/code/e18/e18s07.rpy:150
 translate chinese e18s07_856a9230:
 
     # sb "Ugh, it's fine. They should be here anyways, they are the 'owners'."
-    sb "Ugh, it's fine. They should be here anyways, they are the 'owners'."
+    sb "唉，没关系。他们无论如何都应该在这里，他们是‘主人’。"
 
 # game/code/e18/e18s07.rpy:152
 translate chinese e18s07_eb371e83:
 
     # mc "Owners? Owners of what?"
-    mc "Owners? Owners of what?"
+    mc "主人？什么东西的主人？"
 
 # game/code/e18/e18s07.rpy:155
 translate chinese e18s07_0caa04f3:
 
     # sb "That piece of shit stolen car."
-    sb "That piece of shit stolen car."
+    sb "那辆偷来的破车。"
 
 # game/code/e18/e18s07.rpy:157
 translate chinese e18s07_aefdf1a5:
 
     # pb "Hey, I think it's a pretty cool car."
-    pb "Hey, I think it's a pretty cool car."
+    pb "嘿，我觉得这车挺酷的。"
 
 # game/code/e18/e18s07.rpy:160
 translate chinese e18s07_ed505828:
 
     # sb "Yeah, and that guy over there wants to buy it."
-    sb "Yeah, and that guy over there wants to buy it."
+    sb "是啊，那边那个人想买它。"
 
 # game/code/e18/e18s07.rpy:162
 translate chinese e18s07_701d2464:
 
     # mc "What!?"
-    mc "What!?"
+    mc "什么!?"
 
 # game/code/e18/e18s07.rpy:165
 translate chinese e18s07_d3700bc3:
 
     # dw "You've got to be kidding me."
-    dw "You've got to be kidding me."
+    dw "你一定是在开玩笑。"
 
 # game/code/e18/e18s07.rpy:167
 translate chinese e18s07_57a5c83f:
 
     # sb "No joke. Something about fixing it up, or something. I don't know, he was talking about bones or some shit."
-    sb "No joke. Something about fixing it up, or something. I don't know, he was talking about bones or some shit."
+    sb "不是玩笑。他说要修好它，还是别的什么。我不知道，他说的是构架还是什么鬼东西。"
 
 # game/code/e18/e18s07.rpy:170
 translate chinese e18s07_40e6c545:
 
     # dw "Shit, this is a stroke of good luck!"
-    dw "Shit, this is a stroke of good luck!"
+    dw "妈的，真是运气好啊！"
 
 # game/code/e18/e18s07.rpy:173
 translate chinese e18s07_fcf38b3c:
 
     # mc "What if we don't want to sell?"
-    mc "What if we don't want to sell?"
+    mc "如果我们不想卖呢？"
 
 # game/code/e18/e18s07.rpy:175
 translate chinese e18s07_659c8257:
 
     # pb "It's a pretty cool car..."
-    pb "It's a pretty cool car..."
+    pb "这车可是很酷的..."
 
 # game/code/e18/e18s07.rpy:178
 translate chinese e18s07_0f080f8c:
 
     # sb "Don't you idiots get it? This is a gift from above. We can get this thing out of here, and pretend like it never existed."
-    sb "Don't you idiots get it? This is a gift from above. We can get this thing out of here, and pretend like it never existed."
+    sb "你们这些白痴还不明白吗？这是上天赐予的礼物。我们可以把这辆车弄走，然后假装它从未存在过。"
 
 # game/code/e18/e18s07.rpy:180
 translate chinese e18s07_b8f4c487:
 
     # pb "But... We never got the trunk open."
-    pb "But... We never got the trunk open."
+    pb "可是...我们一直打不开后备箱。"
 
 # game/code/e18/e18s07.rpy:183
 translate chinese e18s07_263b566c:
 
     # dw "Ugggghhhhhhhh."
-    dw "Ugggghhhhhhhh."
+    dw "呃呃呃呃呃呃。"
 
 # game/code/e18/e18s07.rpy:185
 translate chinese e18s07_83090f0f:
 
     # sb "Fine, whatever. You two knuckleheads can go and try to open it one more time while Dahlia and I get the rest of the details figured out."
-    sb "Fine, whatever. You two knuckleheads can go and try to open it one more time while Dahlia and I get the rest of the details figured out."
+    sb "好吧，随便你们。你们两个笨蛋可以再去试一次，我和黛丽娅去解决剩下的细节问题。"
 
 # game/code/e18/e18s07.rpy:189
 translate chinese e18s07_ed690b20:
 
     # pb "Man, I don't want to sell the car..."
-    pb "Man, I don't want to sell the car..."
+    pb "伙计，我不想卖这辆车..."
 
 # game/code/e18/e18s07.rpy:191
 translate chinese e18s07_296444d7:
 
     # mc "I don't want to either, but what can we do?"
-    mc "I don't want to either, but what can we do?"
+    mc "我也不想，但我们能怎么办呢？"
 
 # game/code/e18/e18s07.rpy:192
 translate chinese e18s07_d7aaaeab:
 
     # pb "Got to keep the Duchess happy."
-    pb "Got to keep the Duchess happy."
+    pb "必须让公爵夫人高兴。"
 
 # game/code/e18/e18s07.rpy:195
 translate chinese e18s07_915c066a:
 
     # mc "All right, once more into the breach, dear friend."
-    mc "All right, once more into the breach, dear friend."
+    mc "好吧，亲爱的朋友，我们再来一次。"
 
 # game/code/e18/e18s07.rpy:197
 translate chinese e18s07_99032bf7:
 
     # pb "Uh huh."
-    pb "Uh huh."
+    pb "嗯。"
 
 # game/code/e18/e18s07.rpy:201
 translate chinese e18s07_2f9aab71:
 
     # mc "Okay. One...{w} Two...{w} Three!"
-    mc "Okay. One...{w} Two...{w} Three!"
+    mc "好，一...{w}二...{w}三！"
 
 # game/code/e18/e18s07.rpy:207
 translate chinese e18s07_256d2b42:
 
     # mc "Just... a... little... more!!!"
-    mc "Just... a... little... more!!!"
+    mc "就...再用力...一点点...!!!"
 
 # game/code/e18/e18s07.rpy:208
 translate chinese e18s07_302193bb:
 
     # pb "It's... almost there!"
-    pb "It's... almost there!"
+    pb "就...快好了！"
 
 # game/code/e18/e18s07.rpy:215
 translate chinese e18s07_181d09de:
 
     # mc "Holy shit..."
-    mc "Holy shit..."
+    mc "天哪..."
 
 # game/code/e18/e18s07.rpy:217
 translate chinese e18s07_c9279d7e:
 
     # pb "We got it open!"
-    pb "We got it open!"
+    pb "我们打开了！"
 
 # game/code/e18/e18s07.rpy:221
 translate chinese e18s07_4e1801e0:
 
     # mc "Now what have we got here..."
-    mc "Now what have we got here..."
+    mc "来看看我们在这里找到了什么..."
 
 # game/code/e18/e18s07.rpy:223
 translate chinese e18s07_21172d37:
 
     # pb "What the hell?"
-    pb "What the hell?"
+    pb "什么鬼？"
 
 # game/code/e18/e18s07.rpy:226
 translate chinese e18s07_6deb2b3c:
 
     # mc "It's just... a briefcase."
-    mc "It's just... a briefcase."
+    mc "只是一个...公文包。"
 
 # game/code/e18/e18s07.rpy:228
 translate chinese e18s07_5d4566b6:
 
     # pb "I wonder what's in it."
-    pb "I wonder what's in it."
+    pb "我想知道里面是什么。"
 
 # game/code/e18/e18s07.rpy:231
 translate chinese e18s07_bf0001fe:
 
     # mc "Let's find out."
-    mc "Let's find out."
+    mc "我们来看看。"
 
 # game/code/e18/e18s07.rpy:233
 translate chinese e18s07_d42f1124:
 
     # pb "It's probably locked, or something."
-    pb "It's probably locked, or something."
+    pb "可能锁上了，或者别的什么。"
 
 # game/code/e18/e18s07.rpy:236
 translate chinese e18s07_a1f184e9:
 
     # "*CLICK*"
-    "*CLICK*"
+    "*喀哒*"
 
 # game/code/e18/e18s07.rpy:238
 translate chinese e18s07_f7f77078:
 
     # mc "Finally."
-    mc "Finally."
+    mc "终于打开了。"
 
 # game/code/e18/e18s07.rpy:241
 translate chinese e18s07_f3fc916d:
 
     # pb "Well, come on! Open it!"
-    pb "Well, come on! Open it!"
+    pb "快点！打开它！"
 
 # game/code/e18/e18s07.rpy:243
 translate chinese e18s07_c9f82b35:
 
     # mc "What's behind door number two..."
-    mc "What's behind door number two..."
+    mc "二号门后面是什么..."
 
 # game/code/e18/e18s07.rpy:249
 translate chinese e18s07_181d09de_1:
 
     # mc "Holy shit..."
-    mc "Holy shit..."
+    mc "我靠..."
 
 # game/code/e18/e18s07.rpy:255
 translate chinese e18s07_5217d650:
 
     # "Customer" "Come on, you know it's a good deal."
-    "Customer" "Come on, you know it's a good deal."
+    "顾客" "别犹豫了哎，你知道这是笔好买卖。"
 
 # game/code/e18/e18s07.rpy:257
 translate chinese e18s07_09408374:
 
     # sb "I don't know... It does have a sentimental value."
-    sb "I don't know... It does have a sentimental value."
+    sb "我不知道...它确实有纪念价值。"
 
 # game/code/e18/e18s07.rpy:259
 translate chinese e18s07_33c16edf:
 
     # "Customer" "I could do... An extra hundred?"
-    "Customer" "I could do... An extra hundred?"
+    "顾客" "我可以...再加一百？"
 
 # game/code/e18/e18s07.rpy:262
 translate chinese e18s07_e9fd4342:
 
     # mc "Ahem, uhm Samiya?"
-    mc "Ahem, uhm Samiya?"
+    mc "咳咳，呃，萨米亚？"
 
 # game/code/e18/e18s07.rpy:265
 translate chinese e18s07_fa2815fa:
 
     # sb "What??"
-    sb "What??"
+    sb "干嘛??"
 
 # game/code/e18/e18s07.rpy:267
 translate chinese e18s07_a7138e00:
 
     # mc "Can I, uh, talk to you about something really quick?"
-    mc "Can I, uh, talk to you about something really quick?"
+    mc "呃，我能和你谈点事吗？"
 
 # game/code/e18/e18s07.rpy:270
 translate chinese e18s07_36dd14b1:
 
     # sb "Can it wait?"
-    sb "Can it wait?"
+    sb "能等等吗？"
 
 # game/code/e18/e18s07.rpy:272
 translate chinese e18s07_a9edf5d1:
 
     # mc "Uhm... Not really."
-    mc "Uhm... Not really."
+    mc "呃...不能。"
 
 # game/code/e18/e18s07.rpy:273
 translate chinese e18s07_cc788d53:
 
     # sb "Eeerrrgggh."
-    sb "Eeerrrgggh."
+    sb "呃呃呃呃..."
 
 # game/code/e18/e18s07.rpy:276
 translate chinese e18s07_137e5b57:
 
     # sb "Give me one second, just need to speak to my... associate."
-    sb "Give me one second, just need to speak to my... associate."
+    sb "稍等，我得和我的...同事说两句。"
 
 # game/code/e18/e18s07.rpy:280
 translate chinese e18s07_afc97520:
 
     # sb "What the fuck, [mcname]. We're just about to get rid of this-"
-    sb "What the fuck, [mcname]. We're just about to get rid of this-"
+    sb "搞什么鬼，[mcname]。我们正要处理掉这个--"
 
 # game/code/e18/e18s07.rpy:282
 translate chinese e18s07_603656b7:
 
     # mc "I'm sorry, but you need to see this."
-    mc "I'm sorry, but you need to see this."
+    mc "抱歉，但你们得看看这个。"
 
 # game/code/e18/e18s07.rpy:285
 translate chinese e18s07_9acb07a6:
