@@ -702,7 +702,7 @@ translate chinese strings:
 translate chinese d18s05_after_sex_511784d8:
 
     # dw "Good luck! I actually hope it works out for you guys!"
-    dw ""
+    dw "Good luck! I actually hope it works out for you guys!"
 
 # TODO: Translation updated at 2024-07-27 20:47
 
