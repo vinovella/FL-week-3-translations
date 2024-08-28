@@ -144,13 +144,13 @@ translate chinese strings:
 
     # game/code/screens/lovense.rpy:27
     old "1. Click on the \"Discover\" tab"
-    new "1. Click on the \"Discover\" tab"
+    new "1. 点击\"发现\"选项卡"
 
     # game/code/screens/lovense.rpy:28
     old "2. Then click on \"Game Mode\" option"
-    new "2. Then click on \"Game Mode\" option"
+    new "2. 然后点击\"游戏模式\"选项"
 
     # game/code/screens/lovense.rpy:36
     old "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
-    new "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+    new "4. 输入应用程序中显示的\"本地IP\"和\"端口\"\n然后单击连接"
 
