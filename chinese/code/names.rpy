@@ -166,3 +166,21 @@ translate chinese strings:
 
     old "Kristen"
     new "Kristen"
+
+    old "Olivia"
+    new "Olivia"
+
+    old "Dee"
+    new "Dee"
+
+    old "Annie"
+    new "Annie"
+
+    old "Bell"
+    new "Bell"
+
+    old "Londyn"
+    new "Londyn"
+
+    old "Kendell"
+    new "Kendell"
