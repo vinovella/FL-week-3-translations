@@ -454,49 +454,49 @@ translate chinese e18s07_603656b7:
 translate chinese e18s07_9acb07a6:
 
     # sb "See what?"
-    sb "See what?"
+    sb "看什么？"
 
 # game/code/e18/e18s07.rpy:294
 translate chinese e18s07_567fc04a:
 
     # sb "Holy shit..."
-    sb "Holy shit..."
+    sb "我靠..."
 
 # game/code/e18/e18s07.rpy:296
 translate chinese e18s07_7c8bee12:
 
     # mc "That's what I said."
-    mc "That's what I said."
+    mc "我也这么觉得。"
 
 # game/code/e18/e18s07.rpy:299
 translate chinese e18s07_dfc647d0:
 
     # dw "Who would just... leave this?"
-    dw "Who would just... leave this?"
+    dw "谁会...留下这个？"
 
 # game/code/e18/e18s07.rpy:301
 translate chinese e18s07_98095f22:
 
     # sb "Don't know. But, it's ours now."
-    sb "Don't know. But, it's ours now."
+    sb "不知道。不过，现在是我们的了。"
 
 # game/code/e18/e18s07.rpy:304
 translate chinese e18s07_f0f9c345:
 
     # pb "Does this mean we can keep the car?"
-    pb "Does this mean we can keep the car?"
+    pb "这是不是意味着我们可以保留这辆车？"
 
 # game/code/e18/e18s07.rpy:309
 translate chinese e18s07_2a47f41e:
 
     # sb "Absolutely not. We are getting rid of this stolen car, and that's final."
-    sb "Absolutely not. We are getting rid of this stolen car, and that's final."
+    sb "当然不行。我们要处理掉这辆被盗的车，就这么定了。"
 
 # game/code/e18/e18s07.rpy:311
 translate chinese e18s07_16707762:
 
     # mc "Fiiiiiine..."
-    mc "Fiiiiiine..."
+    mc "好吧..."
 
 # game/code/e18/e18s07.rpy:313
 translate chinese e18s07_46984ea3:
@@ -508,355 +508,355 @@ translate chinese e18s07_46984ea3:
 translate chinese e18s07_d984b8db:
 
     # sb "But, I've got a surprise for you after we're done here. 'Kay?"
-    sb "But, I've got a surprise for you after we're done here. 'Kay?"
+    sb "不过，等我们处理完这里的事情，我有个惊喜给你们。好吗？"
 
 # game/code/e18/e18s07.rpy:318
 translate chinese e18s07_84f16542:
 
     # mc "Okay..."
-    mc "Okay..."
+    mc "好的..."
 
 # game/code/e18/e18s07.rpy:320
 translate chinese e18s07_d8f15f97:
 
     # pb "Yes, Mistress."
-    pb "Yes, Mistress."
+    pb "好的，女主人。"
 
 # game/code/e18/e18s07.rpy:324
 translate chinese e18s07_7926bed9:
 
     # pb "What do you think the surprise is?"
-    pb "What do you think the surprise is?"
+    pb "你觉得惊喜是什么？"
 
 # game/code/e18/e18s07.rpy:326
 translate chinese e18s07_dab2298c:
 
     # mc "I honestly have no idea..."
-    mc "I honestly have no idea..."
+    mc "老实说，我不知道..."
 
 # game/code/e18/e18s07.rpy:330
 translate chinese e18s07_f3dbcdbe:
 
     # pb "If it's like any of Dahlia's surprises...{w} I don't think I can handle getting spanked anymore."
-    pb "If it's like any of Dahlia's surprises...{w} I don't think I can handle getting spanked anymore."
+    pb "如果和黛丽娅的惊喜一样...{w}我可不想再挨打了。"
 
 # game/code/e18/e18s07.rpy:332
 translate chinese e18s07_2cba1830:
 
     # mc "God... I hope it's not that."
-    mc "God... I hope it's not that."
+    mc "天啊...我希望不是那样。"
 
 # game/code/e18/e18s07.rpy:337
 translate chinese e18s07_d37946b1:
 
     # sb "All right, that's done. Come on, you two."
-    sb "All right, that's done. Come on, you two."
+    sb "好了，结束了。来吧，你们两个。"
 
 # game/code/e18/e18s07.rpy:339
 translate chinese e18s07_d2c80bad:
 
     # mc "Where are we going?"
-    mc "Where are we going?"
+    mc "我们要去哪里？"
 
 # game/code/e18/e18s07.rpy:342
 translate chinese e18s07_099015a9:
 
     # sb "Trust your Queen, and follow me."
-    sb "Trust your Queen, and follow me."
+    sb "相信你的女王，跟我来。"
 
 # game/code/e18/e18s07.rpy:344
 translate chinese e18s07_32637c85:
 
     # mc "Yes, Samiya."
-    mc "Yes, Samiya."
+    mc "好的，萨米亚。"
 
 # game/code/e18/e18s07.rpy:371
 translate chinese e18s07_beach_villa_177a961f:
 
     # sb "Ta-daaaaa."
-    sb "Ta-daaaaa."
+    sb "嗒--哒。"
 
 # game/code/e18/e18s07.rpy:373
 translate chinese e18s07_beach_villa_4a50e4f8:
 
     # pb "What is this, Mistress?"
-    pb "What is this, Mistress?"
+    pb "这是什么，女王？"
 
 # game/code/e18/e18s07.rpy:376
 translate chinese e18s07_beach_villa_e96dd510:
 
     # dw "It's a house, you baboon.{w} But seriously, what are we doing here, Samiya?"
-    dw "It's a house, you baboon.{w} But seriously, what are we doing here, Samiya?"
+    dw "这是房子，你个狒狒。{w}不过说真的，我们来这里做什么，萨米亚？"
 
 # game/code/e18/e18s07.rpy:378
 translate chinese e18s07_beach_villa_e3c2b911:
 
     # sb "Head inside, check it out. Walk around a little bit."
-    sb "Head inside, check it out. Walk around a little bit."
+    sb "进去看看。四处走走。"
 
 # game/code/e18/e18s07.rpy:385
 translate chinese e18s07_beach_villa_6719708d:
 
     # mc "Seriously, Samiya, what are we doing here?"
-    mc "Seriously, Samiya, what are we doing here?"
+    mc "说真的，萨米亚，我们来这里做什么？"
 
 # game/code/e18/e18s07.rpy:387
 translate chinese e18s07_beach_villa_c4536820:
 
     # sb "...{w} You said you trusted me, [mcname]. Right?"
-    sb "...{w} You said you trusted me, [mcname]. Right?"
+    sb "...{w}你说过你信任我，[mcname]。对吗？"
 
 # game/code/e18/e18s07.rpy:390
 translate chinese e18s07_beach_villa_f17b5fad:
 
     # mc "Yeah, I do."
-    mc "Yeah, I do."
+    mc "是的，我是信任你。"
 
 # game/code/e18/e18s07.rpy:392
 translate chinese e18s07_beach_villa_d63f4687:
 
     # sb "Then trust me. Go check it out."
-    sb "Then trust me. Go check it out."
+    sb "那就相信我。去看看吧。"
 
 # game/code/e18/e18s07.rpy:393
 translate chinese e18s07_beach_villa_84f16542:
 
     # mc "Okay..."
-    mc "Okay..."
+    mc "好吧..."
 
 # game/code/e18/e18s07.rpy:402
 translate chinese e18s07_beach_villa_518870a4:
 
     # sb "So, what do you think?"
-    sb "So, what do you think?"
+    sb "所以，你觉得怎么样？"
 
 # game/code/e18/e18s07.rpy:404
 translate chinese e18s07_beach_villa_ff4f99a6:
 
     # mc "This place is insane, holy shit."
-    mc "This place is insane, holy shit."
+    mc "这地方漂亮疯了，真他妈不可思议。"
 
 # game/code/e18/e18s07.rpy:407
 translate chinese e18s07_beach_villa_bf538e49:
 
     # sb "Good. That's the reaction I wanted."
-    sb "Good. That's the reaction I wanted."
+    sb "很好。这就是我想要的反应。"
 
 # game/code/e18/e18s07.rpy:409
 translate chinese e18s07_beach_villa_8bedfbf4:
 
     # mc "Seriously, Samiya, you gotta' tell me what we're doing here."
-    mc "Seriously, Samiya, you gotta' tell me what we're doing here."
+    mc "说真的，萨米亚，你得告诉我们来这里做什么。"
 
 # game/code/e18/e18s07.rpy:412
 translate chinese e18s07_beach_villa_d81a671d:
 
     # sb "Ahem, well..."
-    sb "Ahem, well..."
+    sb "咳咳，好吧..."
 
 # game/code/e18/e18s07.rpy:417
 translate chinese e18s07_beach_villa_64fa0550:
 
     # sb "You guys are standing in the middle of our new house."
-    sb "You guys are standing in the middle of our new house."
+    sb "你们现在站在我们新房子中间。"
 
 # game/code/e18/e18s07.rpy:419
 translate chinese e18s07_beach_villa_215c537b:
 
     # dw "Our house?"
-    dw "Our house?"
+    dw "我们的房子？"
 
 # game/code/e18/e18s07.rpy:422
 translate chinese e18s07_beach_villa_ad9e7e70:
 
     # sb "Uh huh. The car wash is doing great, and I had some really good luck with some investments, and on top of that we have that briefcase..."
-    sb "Uh huh. The car wash is doing great, and I had some really good luck with some investments, and on top of that we have that briefcase..."
+    sb "嗯。洗车店生意很好，我的几笔投资也很成功，除此之外，我们还有那个公文包..."
 
 # game/code/e18/e18s07.rpy:423
 translate chinese e18s07_beach_villa_3a5c0331:
 
     # sb "That apartment was too small for four people. So I figured, why not get a house?"
-    sb "That apartment was too small for four people. So I figured, why not get a house?"
+    sb "那套公寓对四个人来说太小了。所以我想，为什么不买套房子呢？"
 
 # game/code/e18/e18s07.rpy:426
 translate chinese e18s07_beach_villa_446ec5cb:
 
     # dw "Does that mean... we can do anything we want here?"
-    dw "Does that mean... we can do anything we want here?"
+    dw "这是不是意味着...我们在这里可以为所欲为？"
 
 # game/code/e18/e18s07.rpy:428
 translate chinese e18s07_beach_villa_b25262a1:
 
     # sb "Yep. It is {i}our{/i} house."
-    sb "Yep. It is {i}our{/i} house."
+    sb "是的。这是{i}我们的{/i}房子。"
 
 # game/code/e18/e18s07.rpy:431
 translate chinese e18s07_beach_villa_a031e569:
 
     # pb "Do I get my own room?"
-    pb "Do I get my own room?"
+    pb "我能有自己的房间吗？"
 
 # game/code/e18/e18s07.rpy:433
 translate chinese e18s07_beach_villa_b2aed270:
 
     # dw "And can I have a dungeon?"
-    dw "And can I have a dungeon?"
+    dw "我能有个地牢吗？"
 
 # game/code/e18/e18s07.rpy:436
 translate chinese e18s07_beach_villa_2b1c6bbc:
 
     # sb "Sure. I don't give a shit."
-    sb "Sure. I don't give a shit."
+    sb "当然。我才不在乎。"
 
 # game/code/e18/e18s07.rpy:440
 translate chinese e18s07_beach_villa_162fee70:
 
     # dw "Okay, I'm going to need a big space. Dark. Somewhere I can tie you up to a post..."
-    dw "Okay, I'm going to need a big space. Dark. Somewhere I can tie you up to a post..."
+    dw "好吧，我需要一个大空间。黑暗点的。可以把你绑在柱子上..."
 
 # game/code/e18/e18s07.rpy:442
 translate chinese e18s07_beach_villa_46940390:
 
     # pb "I am so excited to have my own door."
-    pb "I am so excited to have my own door."
+    pb "我太兴奋了，终于有自己的门了。"
 
 # game/code/e18/e18s07.rpy:446
 translate chinese e18s07_beach_villa_e793f429:
 
     # mc "Well, this is turning into a very long vacation."
-    mc "Well, this is turning into a very long vacation."
+    mc "好吧，这假期会变得很长很长。"
 
 # game/code/e18/e18s07.rpy:448
 translate chinese e18s07_beach_villa_818840f8:
 
     # sb "Shut it."
-    sb "Shut it."
+    sb "闭嘴。"
 
 # game/code/e18/e18s07.rpy:452
 translate chinese e18s07_beach_villa_4c7d8af3:
 
     # sb "...{w} Thank you."
-    sb "...{w} Thank you."
+    sb "...{w}谢谢你。"
 
 # game/code/e18/e18s07.rpy:454
 translate chinese e18s07_beach_villa_823a982d:
 
     # mc "For what?"
-    mc "For what?"
+    mc "为什么？"
 
 # game/code/e18/e18s07.rpy:457
 translate chinese e18s07_beach_villa_8bbb9917:
 
     # sb "Believing in me."
-    sb "Believing in me."
+    sb "因为你相信我啊。"
 
 # game/code/e18/e18s07.rpy:459
 translate chinese e18s07_beach_villa_3e342916:
 
     # mc "Of course. You are my queen after all. But..."
-    mc "Of course. You are my queen after all. But..."
+    mc "当然。你毕竟是我的女王。但是..."
 
 # game/code/e18/e18s07.rpy:463
 translate chinese e18s07_beach_villa_af9da176:
 
     # sb "But what?"
-    sb "But what?"
+    sb "但是什么？"
 
 # game/code/e18/e18s07.rpy:465
 translate chinese e18s07_beach_villa_ac85902c:
 
     # mc "You never struck me as the type of person to put roots down somewhere."
-    mc "You never struck me as the type of person to put roots down somewhere."
+    mc "我从来不觉得你是那种会在某个地方扎根的人。"
 
 # game/code/e18/e18s07.rpy:469
 translate chinese e18s07_beach_villa_91720577:
 
     # sb "I...{w} I've never lived anywhere longer than six months."
-    sb "I...{w} I've never lived anywhere longer than six months."
+    sb "我...{w}我从来没有在任何地方住过超过六个月。"
 
 # game/code/e18/e18s07.rpy:471
 translate chinese e18s07_beach_villa_55310c42:
 
     # mc "Seriously?"
-    mc "Seriously?"
+    mc "真的吗？"
 
 # game/code/e18/e18s07.rpy:474
 translate chinese e18s07_beach_villa_dba85358:
 
     # sb "The life I used to live was prone to... quick changes. I lived out of a bag and... I'm tired, [mcname]."
-    sb "The life I used to live was prone to... quick changes. I lived out of a bag and... I'm tired, [mcname]."
+    sb "我以前的生活很容易...快速变化。我一直都是背着行囊过活，而且...我累了，[mcname]。"
 
 # game/code/e18/e18s07.rpy:475
 translate chinese e18s07_beach_villa_6169ed4f:
 
     # sb "I'm tired of moving around, and worrying about if some dude is going to try and burn my life down or..."
-    sb "I'm tired of moving around, and worrying about if some dude is going to try and burn my life down or..."
+    sb "我厌倦了四处奔波，也受够了担心某个家伙会不会试图毁了我的生活，或者..."
 
 # game/code/e18/e18s07.rpy:479
 translate chinese e18s07_beach_villa_ab7400c4:
 
     # sb "I'm happy here. And I want to stay here. Getting a house seems like a thing people who want to stick around do."
-    sb "I'm happy here. And I want to stay here. Getting a house seems like a thing people who want to stick around do."
+    sb "我在这里很开心。我想留在这里。买房子似乎是想要扎根的人会做的事情。"
 
 # game/code/e18/e18s07.rpy:481
 translate chinese e18s07_beach_villa_c5397dee:
 
     # mc "I like that plan."
-    mc "I like that plan."
+    mc "我喜欢这个计划。"
 
 # game/code/e18/e18s07.rpy:484
 translate chinese e18s07_beach_villa_e1581dd1:
 
     # sb "Really?"
-    sb "Really?"
+    sb "真的吗？"
 
 # game/code/e18/e18s07.rpy:486
 translate chinese e18s07_beach_villa_e6b37108:
 
     # mc "Yeah. I've liked it here, a lot. I want to stay around, if you'll have me."
-    mc "Yeah. I've liked it here, a lot. I want to stay around, if you'll have me."
+    mc "是的。我非常喜欢这里。如果你愿意，我想留下来。"
 
 # game/code/e18/e18s07.rpy:490
 translate chinese e18s07_beach_villa_cd440b24:
 
     # sb "I need my knight."
-    sb "I need my knight."
+    sb "我需要我的骑士。"
 
 # game/code/e18/e18s07.rpy:492
 translate chinese e18s07_beach_villa_f8d679ea:
 
     # mc "Of course, my Queen."
-    mc "Of course, my Queen."
+    mc "当然，我的女王。"
 
 # game/code/e18/e18s07.rpy:495
 translate chinese e18s07_beach_villa_81b0358a:
 
     # pb "Samiya! This place is so fucking cool!"
-    pb "Samiya! This place is so fucking cool!"
+    pb "萨米亚！这个地方太酷了！"
 
 # game/code/e18/e18s07.rpy:496
 translate chinese e18s07_beach_villa_a995b8ec:
 
     # sb "I bought the house, Pete. Yeah, I knew it's cool."
-    sb "I bought the house, Pete. Yeah, I knew it's cool."
+    sb "这房子是我买的，皮特。是的，我知道这里很酷。"
 
 # game/code/e18/e18s07.rpy:498
 translate chinese e18s07_beach_villa_157779e6:
 
     # pb "I gotta' try out this pool!"
-    pb "I gotta' try out this pool!"
+    pb "我得去试试这个游泳池！"
 
 # game/code/e18/e18s07.rpy:500
 translate chinese e18s07_beach_villa_e1432c89:
 
     # mc "Can we go for a swim?"
-    mc "Can we go for a swim?"
+    mc "我们能去游泳吗？"
 
 # game/code/e18/e18s07.rpy:501
 translate chinese e18s07_beach_villa_0cadbf10:
 
     # sb "Yeah, should be all ready for us.Go check it out, I'll be right there."
-    sb "Yeah, should be all ready for us.Go check it out, I'll be right there."
+    sb "当然，应该已经准备好了。去看看吧，我马上就来。"
 
 # game/code/e18/e18s07.rpy:510
 translate chinese e18s07_beach_villa_181d09de:
