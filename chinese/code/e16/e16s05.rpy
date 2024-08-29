@@ -1446,5 +1446,5 @@ translate chinese strings:
 translate chinese e16s05_sex_db1b3ad1:
 
     # jf "Yesss... Oh-my-godduaaah..."
-    jf "Yesss... Oh-my-godduaaah..."
+    jf "好舒服...噢噢噢--天啊..."
 
