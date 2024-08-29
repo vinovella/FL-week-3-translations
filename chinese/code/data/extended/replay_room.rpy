@@ -400,27 +400,27 @@ translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:103
     old "Ending 05: Oliver"
-    new "结局 05：奥利弗"
+    new "结局05：奥利弗"
 
     # game/code/data/extended/replay_room.rpy:103
     old "Ending 05: Lyssa"
-    new "结局 05：丽莎"
+    new "结局05：丽莎"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie and Molly"
-    new "结局 16：杰西和莫莉"
+    new "结局16：杰西和莫莉"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie and Kanya"
-    new "结局 16：杰西和康雅"
+    new "结局16：杰西和康雅"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Sage and Kristen"
-    new "结局 16：杰西和克里斯汀"
+    new "结局16：杰西和克里斯汀"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie, Molly, Sage & Kristen"
-    new "结局 16：杰西、莫莉、赛奇和克里斯汀"
+    new "结局16：杰西、莫莉、赛奇和克里斯汀"
 
 # TODO: Translation updated at 2024-08-15 13:10
 
@@ -428,33 +428,33 @@ translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Min & Stacy"
-    new "Ending 15: Min & Stacy"
+    new "结局15：明和史黛西"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Watersports"
-    new "Ending 15: Watersports"
+    new "结局15：水上运动"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Olivia, Bell & Annie"
-    new "Ending 15: Olivia, Bell & Annie"
+    new "结局15：奥利维亚、贝尔和安妮"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Lyssa, Stacy & Gemma"
-    new "Ending 15: Lyssa, Stacy & Gemma"
+    new "结局15：丽莎、史黛西和杰玛"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Min, Stacy & Olivia"
-    new "Ending 15: Min, Stacy & Olivia"
+    new "结局15：明、史黛西和奥利维亚"
 
     # game/code/data/extended/replay_room.rpy:204
     old "Ending 18: Samiya, Dahlia & Pete"
-    new "Ending 18: Samiya, Dahlia & Pete"
+    new "结局18：萨米亚、黛丽娅和皮特"
 
     # game/code/data/extended/replay_room.rpy:204
     old "Ending 18: Quartet, Londyn & Kendell"
-    new "Ending 18: Quartet, Londyn & Kendell"
+    new "结局18：四重奏、朗迪恩和肯德尔"
 
     # game/code/data/extended/replay_room.rpy:204
     old "Ending 18: Samiya"
-    new "Ending 18: Samiya"
+    new "结局18：萨米亚"
 
