@@ -240,15 +240,15 @@ translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:79
     old "Ending 05: Lyssa & Oliver"
-    new "结局 05: 丽莎和奥利弗"
+    new "结局05: 丽莎和奥利弗"
 
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Jessie & Kanya"
-    new "结局 16：杰西和康雅"
+    new "结局16：杰西和康雅"
 
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Farm Animals"
-    new "结局 16：农场动物"
+    new "结局16：农场动物"
 
 # TODO: Translation updated at 2024-08-15 13:10
 
@@ -256,17 +256,17 @@ translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:114
     old "Ending 15: Girls"
-    new "Ending 15: Girls"
+    new "结局15：女孩们"
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Samiya & Dahlia"
-    new "Ending 18: Samiya & Dahlia"
+    new "结局18：萨米亚和黛丽娅"
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Kendell & Londyn"
-    new "Ending 18: Kendell & Londyn"
+    new "结局18：肯德尔和朗迪恩"
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Four Beauties"
-    new "Ending 18: Four Beauties"
+    new "结局18：四个美女"
 
