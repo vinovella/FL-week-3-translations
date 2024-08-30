@@ -702,7 +702,7 @@ translate chinese strings:
 translate chinese d18s05_after_sex_511784d8:
 
     # dw "Good luck! I actually hope it works out for you guys!"
-    dw "Good luck! I actually hope it works out for you guys!"
+    dw "祝你们好运！我真的希望你们能成功！"
 
 # TODO: Translation updated at 2024-07-27 20:47
 
@@ -710,5 +710,5 @@ translate chinese d18s05_after_sex_511784d8:
 translate chinese d18s05_after_sex_ec16ba99:
 
     # sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
-    sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
+    sb "我讨厌这个地方。这他妈就是个水泥丛林，我需要去旅行放松一下。"
 
