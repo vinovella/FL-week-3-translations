@@ -129,58 +129,58 @@ translate chinese strings:
     new "以斯拉"
 
     old "Debbie"
-    new "Debbie"
+    new "黛比"
 
     old "Gemma"
-    new "Gemma"
+    new "杰玛"
 
     old "Harry"
-    new "Harry"
+    new "哈里"
 
     old "Lily"
-    new "Lily"
+    new "莉莉"
 
     old "Room Service"
-    new "Room Service"
+    new "客房服务"
 
     old "Domina"
-    new "Domina"
+    new "多米纳"
 
     old "Janet"
-    new "Janet"
+    new "珍妮特"
 
     old "Gary"
-    new "Gary"
+    new "加里"
 
     old "Molly the Dog"
-    new "Molly the Dog"
+    new "狗狗莫莉"
 
     old "Ryan"
-    new "Ryan"
+    new "莱恩"
 
     old "Taisia"
-    new "Taisia"
+    new "泰西娅"
 
     old "Sage"
-    new "Sage"
+    new "赛奇"
 
     old "Kristen"
-    new "Kristen"
+    new "克里斯汀"
 
     old "Olivia"
-    new "Olivia"
+    new "奥利维亚"
 
     old "Dee"
-    new "Dee"
+    new "迪伊"
 
     old "Annie"
-    new "Annie"
+    new "安妮"
 
     old "Bell"
-    new "Bell"
+    new "贝尔"
 
     old "Londyn"
-    new "Londyn"
+    new "朗迪恩"
 
     old "Kendell"
-    new "Kendell"
+    new "肯德尔"
