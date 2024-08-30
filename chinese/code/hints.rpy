@@ -1388,85 +1388,85 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "Watch Gemma release on Stacy."
-    new "Watch Gemma release on Stacy."
+    new "欣赏杰玛在史黛西身上释放"
 
     # game/code/hints.rpy:5
     old "Gemma lets her enema go."
-    new "Gemma lets her enema go."
+    new "杰玛排空尿灌肠液"
 
     # game/code/hints.rpy:5
     old "Drink some of Min's pee."
-    new "Drink some of Min's pee."
+    new "喝点明的尿"
 
     # game/code/hints.rpy:5
     old "Don't drink Min's pee."
-    new "Don't drink Min's pee."
+    new "不喝明的尿"
 
     # game/code/hints.rpy:5
     old "Stacy holds your dick while he pees."
-    new "Stacy holds your dick while he pees."
+    new "史黛西在你尿尿的时候握住你的鸡巴"
 
     # game/code/hints.rpy:5
     old "Stacy gives you a rimjob while he pees."
-    new "Stacy gives you a rimjob while he pees."
+    new "史黛西在你尿尿的时候给你口交"
 
     # game/code/hints.rpy:5
     old "Unlock more Male on Male content with Pete."
-    new "Unlock more Male on Male content with Pete."
+    new "解锁更多和皮特的男男内容"
 
     # game/code/hints.rpy:5
     old "Locks Male on Male content with Pete."
-    new "Locks Male on Male content with Pete."
+    new "锁定和皮特的男男内容"
 
     # game/code/hints.rpy:5
     old "Make Dahlia happy, and maybe she'll be nicer to you."
-    new "Make Dahlia happy, and maybe she'll be nicer to you."
+    new "让黛丽娅开心，也许她会对你更好"
 
     # game/code/hints.rpy:5
     old "Agree to suck Pete's dick."
-    new "Agree to suck Pete's dick."
+    new "同意给皮特口交"
 
     # game/code/hints.rpy:5
     old "Avoid male on male content with Pete."
-    new "Avoid male on male content with Pete."
+    new "避开和皮特的男男内容"
 
     # game/code/hints.rpy:5
     old "Be more confident with Samiya."
-    new "Be more confident with Samiya."
+    new "对萨米亚更有信心"
 
     # game/code/hints.rpy:5
     old "Let Samiya tease you."
-    new "Let Samiya tease you."
+    new "让萨米亚逗弄你"
 
     # game/code/hints.rpy:5
     old "Score some points with Samiya."
-    new "Score some points with Samiya."
+    new "在萨米亚那里拿分"
 
     # game/code/hints.rpy:5
     old "Agree that it would be good to get a bigger place."
-    new "Agree that it would be good to get a bigger place."
+    new "同意找个更大的地方会更好"
 
     # game/code/hints.rpy:5
     old "Tell Samiya you'd love seeing her in the dress."
-    new "Tell Samiya you'd love seeing her in the dress."
+    new "告诉萨米亚，你很喜欢看她穿这条裙子"
 
     # game/code/hints.rpy:5
     old "Samiya will be glad you care that much about her happiness."
-    new "Samiya will be glad you care that much about her happiness."
+    new "萨米亚会很高兴你这么在乎她的幸福"
 
     # game/code/hints.rpy:5
     old "Make Samiya say she wants to get fucked hard."
-    new "Make Samiya say she wants to get fucked hard."
+    new "让萨米亚说出来，她想被狠狠操一顿"
 
     # game/code/hints.rpy:5
     old "Ask her what is going on."
-    new "Ask her what is going on."
+    new "问她发生了什么"
 
     # game/code/hints.rpy:5
     old "Unlock one more scene with male on male content."
-    new "Unlock one more scene with male on male content."
+    new "解锁一个男男内容的场景"
 
     # game/code/hints.rpy:5
     old "Skip male on male content with Pete."
-    new "Skip male on male content with Pete."
+    new "跳过和皮特的男男内容"
 
