@@ -1,1 +1,0 @@
-python check_translations.py
