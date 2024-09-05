@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d16/d16s02.rpy:24
 translate malay d16s02_0eb8c9ee:
 
@@ -262,10 +260,9 @@ translate malay strings:
     old "Not right now"
     new "Bukan sekarang"
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 translate malay strings:
 
     # game/code/d16/d16s02.rpy:22
     old "15 minutes later"
     new "15 minit kemudian"
+

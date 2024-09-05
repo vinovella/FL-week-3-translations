@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-22 23:46
-
 translate portuguese strings:
 
     # game/code/screens/screens.rpy:258
@@ -354,23 +352,17 @@ translate portuguese strings:
     old "Menu"
     new "Menu"
 
-# TODO: Translation updated at 2023-01-31 17:12
-
 translate portuguese strings:
 
     # game/code/screens/screens.rpy:354
     old "Endings"
     new "Finais"
 
-# TODO: Translation updated at 2023-04-18 22:49
-
 translate portuguese strings:
 
     # game/code/screens/screens.rpy:1033
     old "Connect Your Toy"
     new "Conecte Seu Brinquedo"
-
-# TODO: Translation updated at 2024-07-27 20:57
 
 translate portuguese strings:
 

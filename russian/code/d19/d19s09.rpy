@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-08-24 12:18
-
 # game/code/d19/d19s09.rpy:124
 translate russian d19s09_6670f26a:
 
@@ -927,8 +925,6 @@ translate russian strings:
     # game/code/d19/d19s09.rpy:595
     old "Switch"
     new "Поменяться"
-
-# TODO: Translation updated at 2022-12-30 19:37
 
 # game/code/d19/d19s09.rpy:988
 translate russian d19s09_end_8a44ad0b:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d16/d16s10.rpy:37
 translate chinese d16s10_d9159219:
 
@@ -1381,3 +1379,4 @@ translate chinese strings:
     # game/code/d16/d16s10.rpy:201
     old "Tell her how you came while she was under the table"
     new "告诉她你是怎么在她躲在桌下时高潮的"
+

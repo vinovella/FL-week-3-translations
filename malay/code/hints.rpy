@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 13:19
-
 translate malay strings:
 
     # game/code/hints.rpy:5
@@ -1142,8 +1140,6 @@ translate malay strings:
     old "No hints available."
     new "No hints available."
 
-# TODO: Translation updated at 2023-09-28 22:52
-
 translate malay strings:
 
     # game/code/hints.rpy:5
@@ -1190,8 +1186,6 @@ translate malay strings:
     old "Dahlia won't peg you."
     new "Dahlia won't peg you."
 
-# TODO: Translation updated at 2023-12-07 21:18
-
 translate malay strings:
 
     # game/code/hints.rpy:5
@@ -1209,8 +1203,6 @@ translate malay strings:
     # game/code/hints.rpy:5
     old "You have no will of you own. You are simply an extension of Dahlia."
     new "You have no will of you own. You are simply an extension of Dahlia."
-
-# TODO: Translation updated at 2024-02-06 17:01
 
 translate malay strings:
 
@@ -1349,7 +1341,6 @@ translate malay strings:
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
     new "Disappoint Lydia and be the loser."
-# TODO: Translation updated at 2024-07-27 20:54
 
 translate malay strings:
 

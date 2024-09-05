@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e15/e15s01.rpy:98
 translate french e15s01_32445995:
 

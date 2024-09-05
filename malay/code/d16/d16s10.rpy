@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d16/d16s10.rpy:28
 translate malay d16s10_d9159219:
 
@@ -1336,8 +1334,6 @@ translate malay strings:
     old "Tell her how you came while she was under the table"
     new "Beritahu dia bagaimana anda pancut semasa dia berada di bawah meja"
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d16/d16s10.rpy:272
 translate malay d16s10_5956f153:
 
@@ -1385,3 +1381,4 @@ translate malay strings:
     # game/code/d16/d16s10.rpy:26
     old "Later that evening"
     new "Pada sebelah petangnya"
+

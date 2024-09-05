@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d18/d18s02.rpy:30
 translate chinese d18s02_f772c18d:
 

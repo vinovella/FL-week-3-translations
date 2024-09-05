@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:02
-
 # game/code/e05/e05s06.rpy:62
 translate spanish e05s06_e682e474:
 
@@ -1325,8 +1323,6 @@ translate spanish e05s06_sex_b85a48e2:
 
     # mh "Mmmkay..."
     mh "Mmm está bien..."
-
-# TODO: Translation updated at 2024-07-27 20:56
 
 # game/code/e05/e05s06.rpy:190
 translate spanish e05s06_57afd79d:

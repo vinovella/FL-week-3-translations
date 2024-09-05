@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-03-10 21:05
-
 # game/code/d21/d21s02.rpy:26
 translate chinese d21s02_3a53d660:
 
@@ -1315,3 +1313,4 @@ translate chinese strings:
     # game/code/d21/d21s02.rpy:82
     old "Select Stacy"
     new "选择史黛西"
+

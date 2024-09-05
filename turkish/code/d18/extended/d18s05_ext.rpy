@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d18/extended/d18s05_ext.rpy:63
 translate turkish d18s05_ext_0d9b52ab:
 
@@ -701,8 +699,6 @@ translate turkish strings:
     # game/code/d18/extended/d18s05_ext.rpy:218
     old "Fuck Samiya"
     new "Samiya'yı Sik"
-
-# TODO: Translation updated at 2024-07-27 20:56
 
 # game/code/d18/extended/d18s05_ext.rpy:618
 translate turkish d18s05_after_sex_ec16ba99:

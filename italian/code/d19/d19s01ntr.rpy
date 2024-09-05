@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d19/d19s01ntr.rpy:21
 translate italian d19s01ntr_bef95491:
 
@@ -1073,8 +1071,6 @@ translate italian strings:
     # game/code/d19/d19s01ntr.rpy:412
     old "Go Fuck Yourself"
     new "Vai a fare in culo"
-
-# TODO: Translation updated at 2024-02-06 16:57
 
 # game/code/d19/d19s01ntr.rpy:424
 translate italian d19s01ntr_decision_aeef075e:

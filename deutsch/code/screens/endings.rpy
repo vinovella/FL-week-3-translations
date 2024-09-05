@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 translate deutsch strings:
 
     # game/code/screens/endings.rpy:11
@@ -29,8 +27,6 @@ translate deutsch strings:
     # game/code/screens/endings.rpy:79
     old "Exit to Mainmenu"
     new "Zurück zum Hauptmenü"
-
-# TODO: Translation updated at 2024-02-18 11:59
 
 translate deutsch strings:
 

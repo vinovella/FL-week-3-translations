@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 13:27
-
 # game/code/e06/e06s05.rpy:85
 translate russian e06s05_2357bc1b:
 
@@ -3397,8 +3395,6 @@ translate russian strings:
     # game/code/e06/e06s05.rpy:1716
     old "Do Not Invite Her to Join"
     new "Не предлагать ей присоединиться"
-
-# TODO: Translation updated at 2023-07-03 00:37
 
 translate russian strings:
 

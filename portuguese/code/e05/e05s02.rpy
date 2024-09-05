@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:03
-
 # game/code/e05/e05s02.rpy:63
 translate portuguese e05s02_e0133776:
 
@@ -1923,8 +1921,6 @@ translate portuguese strings:
     # game/code/e05/e05s02.rpy:659
     old "Let Oliver make his own decision"
     new "Deixar o Oliver decidir por conta própria"
-
-# TODO: Translation updated at 2024-07-27 20:57
 
 # game/code/e05/e05s02.rpy:109
 translate portuguese e05s02_a9f4d0a3:

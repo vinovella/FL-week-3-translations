@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-16 01:07
-
 # game/code/e16/e16s05.rpy:73
 translate turkish e16s05_983ab75e:
 
@@ -1439,3 +1437,4 @@ translate turkish strings:
     # game/code/e16/e16s05.rpy:555
     old "Do some chokeplay"
     new "Biraz boğulma oyunu yap"
+

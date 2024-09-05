@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d15/d15s06.rpy:73
 translate malay d15s06_1d052d6c:
 
@@ -1694,8 +1692,6 @@ translate malay strings:
     old "I love you too"
     new "Aku sayang kau juga"
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d15/d15s06.rpy:350
 translate malay d15s06_house_1c83b9e5:
 
@@ -1707,3 +1703,4 @@ translate malay strings:
     # game/code/d15/d15s06.rpy:148
     old "10 minutes later"
     new "10 minit kemudian"
+

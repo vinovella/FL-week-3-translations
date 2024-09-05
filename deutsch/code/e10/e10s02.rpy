@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e10/e10s02.rpy:17
 translate deutsch e10s02_b5278bcc:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:46
-
 translate spanish strings:
 
     # game/code/screens/extended/screens_fl.rpy:19
@@ -37,3 +35,4 @@ translate spanish strings:
     # game/code/screens/extended/screens_fl.rpy:135
     old "Coming Soon"
     new "Próximamente"
+

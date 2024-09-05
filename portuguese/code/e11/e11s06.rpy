@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-12-23 12:09
-
 # game/code/e11/e11s06.rpy:40
 translate portuguese e11s06_1a535474:
 

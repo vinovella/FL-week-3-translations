@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/d21/d21s04.rpy:39
 translate french d21s04_f426db53:
 

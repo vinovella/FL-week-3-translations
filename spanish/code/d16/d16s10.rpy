@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/d16/d16s10.rpy:37
 translate spanish d16s10_d9159219:
 

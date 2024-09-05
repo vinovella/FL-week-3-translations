@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 translate italian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -205,7 +203,6 @@ translate italian strings:
     # game/code/data/extended/cg_gallery.rpy:103
     old "Ending 14: Polly & Nora"
     new "Finale 14: Polly & Nora"
-# TODO: Translation updated at 2023-12-07 21:15
 
 translate italian strings:
 
@@ -217,8 +214,6 @@ translate italian strings:
     old "Ending 17: Dahlia"
     new "Ending 17: Dahlia"
 
-# TODO: Translation updated at 2024-02-09 23:47
-
 translate italian strings:
 
     # game/code/data/extended/cg_gallery.rpy:75
@@ -228,8 +223,6 @@ translate italian strings:
     # game/code/data/extended/cg_gallery.rpy:85
     old "Ending 07: Girls"
     new "Ending 07: Girls"
-
-# TODO: Translation updated at 2024-07-27 20:52
 
 translate italian strings:
 
@@ -244,8 +237,6 @@ translate italian strings:
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Farm Animals"
     new "Ending 16: Farm Animals"
-
-# TODO: Translation updated at 2024-08-18 16:33
 
 translate italian strings:
 

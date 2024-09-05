@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d20/d20s02zw.rpy:50
 translate malay d20s02zw_1bbcab10:
 
@@ -963,3 +961,4 @@ translate malay strings:
     # game/code/d20/d20s02zw.rpy:199
     old "Go to Lyssa and Zarah"
     new "Pergi ke Lyssa dan Zarah"
+

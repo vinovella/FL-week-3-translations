@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-01 02:05
-
 # game/code/e02/e02s01.rpy:81
 translate malay e02s01_e6009a2c:
 
@@ -1275,3 +1273,4 @@ translate malay strings:
     # game/code/e02/e02s01.rpy:517
     old "Why Not Both?"
     new "Mengapa tak kedua-dua?"
+

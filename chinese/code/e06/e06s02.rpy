@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-04-21 01:32
-
 # game/code/e06/e06s02.rpy:49
 translate chinese e06s02_87f8ba93:
 
@@ -1596,15 +1594,11 @@ translate chinese strings:
     old "Inside Min's house"
     new "在明房子里"
 
-# TODO: Translation updated at 2023-04-30 17:23
-
 translate chinese strings:
 
     # game/code/e06/e06s02.rpy:40
     old "The Next Day"
     new "第二天"
-
-# TODO: Translation updated at 2023-05-13 23:02
 
 # game/code/e06/e06s02.rpy:64
 translate chinese e06s02_40511e6c:

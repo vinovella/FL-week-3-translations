@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-05 14:57
-
 # game/code/d18/d18s06.rpy:8
 translate russian d18s06_59f5b92b:
 
@@ -575,8 +573,6 @@ translate russian d18s06_74866910:
 
     # arj "Maybe we can pick one up at your dorm. Let's go."
     arj "Может мы сможем подобрать тебе наряд в общежитии. Пойдем."
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 translate russian strings:
 

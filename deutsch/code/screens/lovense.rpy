@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/screens/lovense.rpy:172
 translate deutsch lovense_test_9e0ee773:
 
@@ -125,8 +123,6 @@ translate deutsch strings:
     # game/code/screens/lovense.rpy:159
     old "Save"
     new "Speichern"
-
-# TODO: Translation updated at 2024-08-18 16:32
 
 translate deutsch strings:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d20/d20s06.rpy:35
 translate malay d20s06_c4a32281:
 
@@ -525,3 +523,4 @@ translate malay strings:
     # game/code/d20/d20s06.rpy:294
     old "Eat Oliver's cum"
     new "Makan air mani Oliver"
+

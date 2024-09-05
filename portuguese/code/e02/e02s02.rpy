@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-05 17:01
-
 # game/code/e02/e02s02.rpy:12
 translate portuguese e02s02_08635dd6:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/e08/e08s06.rpy:71
 translate korean e08s06_ee0292ba:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d19/d19s05.rpy:53
 translate malay d19s05_57a1032f:
 
@@ -117,3 +115,4 @@ translate malay strings:
     # game/code/d19/d19s05.rpy:201
     old "Your total score is {}"
     new "Jumlah markah anda ialah {}"
+

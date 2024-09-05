@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-01-31 15:43
-
 # game/code/d16/d16s04.rpy:24
 translate russian d16s04_010937cb:
 
@@ -1176,8 +1174,6 @@ translate russian strings:
     old "I won't be able to come"
     new "Я не смогу приехать"
 
-# TODO: Translation updated at 2022-08-06 21:12
-
 # game/code/d16/d16s04.rpy:297
 translate russian d16s04_be6b3495:
 
@@ -1207,8 +1203,6 @@ translate russian d16s04_f1376ad1:
 
     # mc "I failed a challenge from FL. This was my new challenge."
     mc "Я провалил задание от ФЛ. И это теперь моё новое задание."
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 # game/code/d16/d16s04.rpy:360
 translate russian d16s04_637b7c7b:

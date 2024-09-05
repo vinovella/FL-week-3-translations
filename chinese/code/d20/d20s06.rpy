@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-12 12:59
-
 # game/code/d20/d20s06.rpy:35
 translate chinese d20s06_c4a32281:
 
@@ -525,3 +523,4 @@ translate chinese strings:
     # game/code/d20/d20s06.rpy:294
     old "Eat Oliver's cum"
     new "吃奥利弗的精液"
+

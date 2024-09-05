@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-12-19 11:46
-
 # game/code/d15/d15s04dd.rpy:26
 translate russian d15s04dd_ab7f1b7a:
 
@@ -910,15 +908,11 @@ translate russian strings:
     old "Don't"
     new "Не делать ничего"
 
-# TODO: Translation updated at 2022-01-31 15:43
-
 # game/code/d15/d15s04dd.rpy:531
 translate russian d15s04dd_1fac3b26:
 
     # "Doctor" "Thank you. Please, sit. I have your test results here..."
     "Doctor" "Спасибо. Пожалуйста, садитесь. Я получила результаты ваших анализов..."
-
-# TODO: Translation updated at 2022-08-06 21:12
 
 # game/code/d15/d15s04dd.rpy:362
 translate russian d15s04dd_23db955f:
@@ -931,8 +925,6 @@ translate russian strings:
     # game/code/d15/d15s04dd.rpy:21
     old "1 hour later"
     new "1 час спустя."
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 # game/code/d15/d15s04dd.rpy:183
 translate russian d15s04dd_ff7b6382:

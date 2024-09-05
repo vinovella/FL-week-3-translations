@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d16/d16s03.rpy:17
 translate malay d16s03_dd526ff9:
 
@@ -2001,3 +1999,4 @@ translate malay strings:
     # game/code/d16/d16s03.rpy:726
     old "Tell Lydia That You Enjoyed It As Well"
     new "Beritahu Lydia Yang Anda Juga Menikmatinya"
+

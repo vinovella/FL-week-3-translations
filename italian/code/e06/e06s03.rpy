@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/e06/e06s03.rpy:65
 translate italian e06s03_63dc63e8:
 

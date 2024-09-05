@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e02/e02s07.rpy:62
 translate french e02s07_c14c10e0:
 

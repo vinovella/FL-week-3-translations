@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 translate turkish strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1126,8 +1124,6 @@ translate turkish strings:
     old "Parsing the script failed."
     new "Komut dosyası ayrıştırılamadı."
 
-# TODO: Translation updated at 2024-02-10 01:01
-
 translate turkish strings:
 
     # renpy/common/00accessibility.rpy:120
@@ -1225,8 +1221,6 @@ translate turkish strings:
     # renpy/common/00updater.rpy:2089
     old "Retry"
     new "Retry"
-
-# TODO: Translation updated at 2024-07-16 01:07
 
 translate turkish strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-08 02:44
-
 # game/code/e07/e07s02.rpy:39
 translate malay e07s02_42fc7010:
 

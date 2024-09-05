@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/d18/d18s02.rpy:33
 translate korean d18s02_f772c18d:
 

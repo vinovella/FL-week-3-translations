@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d18/d18s08.rpy:9
 translate chinese d18s08_2004fe1c:
 
@@ -269,3 +267,4 @@ translate chinese d18s08_a2f0bfe0:
 
     # hr "Let's go find the new professor. We don't have time to waste."
     hr "我们去找新教授吧。没时间可以浪费了。"
+

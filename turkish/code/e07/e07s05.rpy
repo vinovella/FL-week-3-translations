@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-02-06 17:03
-
 # game/code/e07/e07s05.rpy:26
 translate turkish e07s05_eb4dfcb0:
 
@@ -1521,3 +1519,4 @@ translate turkish strings:
     # game/code/e07/e07s05.rpy:1142
     old "Clean [e07_lcname!t]"
     new "Temizle [e07_lcname!t]"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-06 10:42
-
 # game/code/d17/d17s01.rpy:49
 translate russian d17s01_918de26a:
 
@@ -1731,8 +1729,6 @@ translate russian strings:
     # game/code/d17/d17s01.rpy:332
     old "Decline"
     new "Пропустить"
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 translate russian strings:
 

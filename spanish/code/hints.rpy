@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:46
-
 translate spanish strings:
 
     # game/code/hints.rpy:5
@@ -1141,7 +1139,6 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "No hints available."
     new "No hay pistas disponibles."
-# TODO: Translation updated at 2023-09-28 22:55
 
 translate spanish strings:
 
@@ -1341,8 +1338,6 @@ translate spanish strings:
     old "Disappoint Lydia and be the loser."
     new "Decepcionar a Lydia y ser el perdedor."
 
-# TODO: Translation updated at 2024-05-05 22:02
-
 translate spanish strings:
 
     # game/code/hints.rpy:5
@@ -1368,8 +1363,6 @@ translate spanish strings:
     # game/code/hints.rpy:5
     old "You don't eat the cum off Oliver's face."
     new "No te comes el semen de la cara de Oliver."
-
-# TODO: Translation updated at 2024-07-27 20:56
 
 translate spanish strings:
 

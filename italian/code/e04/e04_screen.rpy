@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-09 23:47
-
 translate italian strings:
 
     # game/code/e04/e04_screen.rpy:12

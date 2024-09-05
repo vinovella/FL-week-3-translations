@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-08-06 21:12
-
 # game/code/d16/extended/d16s07_ext.rpy:52
 translate russian d16s07_ext_0f4c0f58:
 
@@ -901,8 +899,6 @@ translate russian strings:
     # game/code/d16/extended/d16s07_ext.rpy:273
     old "{i}{b}No{/b}{/i}"
     new "{i}{b}Нет{/b}{/i}"
-
-# TODO: Translation updated at 2022-12-30 19:37
 
 # game/code/d16/extended/d16s07_ext.rpy:283
 translate russian d16s07_ext_81c2725d:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-12-07 21:18
-
 # game/code/e17/e17s02.rpy:44
 translate malay e17s02_6edbf36c:
 

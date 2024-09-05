@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/d18/extended/d18s11b_ext.rpy:57
 translate french d18s11b_ext_c207e5d0:
 

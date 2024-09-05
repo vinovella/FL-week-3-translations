@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-05 14:57
-
 # game/code/d18/d18s10.rpy:72
 translate russian d18s10_0b2e1d6b:
 
@@ -744,23 +742,17 @@ translate russian d18s10_end_1da49de8_1:
     # mct "I can't even."
     mct "Я больше не могу."
 
-# TODO: Translation updated at 2022-08-24 12:18
-
 # game/code/d18/d18s10.rpy:284
 translate russian d18s10_lc_reveal_51ffbe39:
 
     # mct "Lydia has been manipulating me through the VIP Program???"
     mct "Лидия манипулировала мной через VIP-программу???"
 
-# TODO: Translation updated at 2022-12-30 19:37
-
 translate russian strings:
 
     # game/code/d18/d18s10.rpy:226
     old "What is your darkest fantasy about Lydia?"
     new "Какова твоя самая тайная фантазия о Лидии?"
-
-# TODO: Translation updated at 2023-05-27 13:27
 
 translate russian strings:
 

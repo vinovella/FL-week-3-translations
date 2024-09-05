@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d18/d18s01.rpy:25
 translate deutsch d18s01_f8914e3e:
 

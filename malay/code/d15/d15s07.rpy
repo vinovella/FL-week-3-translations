@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d15/d15s07.rpy:41
 translate malay d15s07_a875bc2a:
 
@@ -1186,8 +1184,6 @@ translate malay strings:
     old "I'm getting kinda bored of the watersports"
     new "Aku agak bosan dengan watersports sahaja"
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d15/d15s07.rpy:76
 translate malay d15s07_2c517df3:
 
@@ -1199,3 +1195,4 @@ translate malay strings:
     # game/code/d15/d15s07.rpy:35
     old "Later that day"
     new "Kemudiannya"
+

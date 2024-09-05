@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-04-16 20:02
-
 # game/code/d17/d17s05.rpy:26
 translate malay d17s05_de5c1d3a:
 
@@ -355,3 +353,4 @@ translate malay strings:
     # game/code/d17/d17s05.rpy:50
     old "Bring no one"
     new "Jangan bawa sesiapa"
+

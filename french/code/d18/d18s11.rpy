@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/d18/d18s11.rpy:21
 translate french d18s11_78df431c:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-01 02:05
-
 # game/code/e06/e06s06.rpy:90
 translate malay e06s06_820294b7:
 
@@ -242,7 +240,6 @@ translate malay e06s06_8eb5269b:
 
 # game/code/e06/e06s06.rpy:205
 translate malay e06s06_c6f8bab9:
-
 
     # mh "Mmm. Sounds like you have quite the appetite, [mcname]."
     mh "Mmm. Nampaknya kau ada selera yang besar, [mcname]."

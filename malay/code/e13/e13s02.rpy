@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/e13/e13s02.rpy:81
 translate malay e13s02_0ccad110:
 
@@ -363,8 +361,6 @@ translate malay strings:
     # game/code/e13/e13s02.rpy:240
     old "Fuck Her Anally"
     new "Fuck Her Anally"
-
-# TODO: Translation updated at 2024-07-27 20:54
 
 # game/code/e13/e13s02.rpy:86
 translate malay e13s02_e5e5853b:

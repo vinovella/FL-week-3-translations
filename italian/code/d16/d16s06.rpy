@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d16/d16s06.rpy:78
 translate italian d16s06_e9ce6c28:
 

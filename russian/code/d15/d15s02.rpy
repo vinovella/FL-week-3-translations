@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-12-19 11:46
-
 # game/code/d15/d15s02.rpy:15
 translate russian d15s02_ce86b6d4:
 
@@ -454,15 +452,11 @@ translate russian strings:
     old "Had Enough Fun for Now"
     new "На сегодня было достаточно веселья"
 
-# TODO: Translation updated at 2022-08-06 21:12
-
 translate russian strings:
 
     # game/code/d15/d15s02.rpy:10
     old "10 minutes of walking later"
     new "После 10 минут ходьбы."
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 # game/code/d15/d15s02.rpy:90
 translate russian d15s02_b6e0d059:

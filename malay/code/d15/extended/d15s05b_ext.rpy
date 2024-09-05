@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d15/extended/d15s05b_ext.rpy:65
 translate malay d15s05b_ext_247f8221:
 

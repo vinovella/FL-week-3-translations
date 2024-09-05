@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-05 14:57
-
 # game/code/d18/d18s03.rpy:53
 translate russian d18s03_ec5dba5c:
 
@@ -1739,8 +1737,6 @@ translate russian strings:
     # game/code/d18/d18s03.rpy:699
     old "No. Definitely NOT"
     new "Нет. Определенно НЕТ"
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 # game/code/d18/d18s03.rpy:536
 translate russian d18s03_sex_3ee327b2:

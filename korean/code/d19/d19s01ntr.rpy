@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/d19/d19s01ntr.rpy:21
 translate korean d19s01ntr_bef95491:
 
@@ -1073,8 +1071,6 @@ translate korean strings:
     # game/code/d19/d19s01ntr.rpy:412
     old "Go Fuck Yourself"
     new "엿 먹어라"
-
-# TODO: Translation updated at 2024-02-06 16:59
 
 # game/code/d19/d19s01ntr.rpy:424
 translate korean d19s01ntr_decision_aeef075e:

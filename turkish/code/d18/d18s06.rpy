@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d18/d18s06.rpy:13
 translate turkish d18s06_59f5b92b:
 
@@ -581,3 +579,4 @@ translate turkish strings:
     # game/code/d18/d18s06.rpy:6
     old "Some time later\nAt the college campus"
     new "Bir süre sonra\nüniversite kampüsünde"
+

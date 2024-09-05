@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-08-06 21:12
-
 # game/code/d15/extended/d15s05b_ext.rpy:65
 translate russian d15s05b_ext_247f8221:
 
@@ -2393,8 +2391,6 @@ translate russian strings:
     # game/code/d15/extended/d15s05b_ext.rpy:940
     old "Say that is enough for today"
     new "Сказать, что на сегодня достаточно"
-
-# TODO: Translation updated at 2022-12-30 19:37
 
 # game/code/d15/extended/d15s05b_ext.rpy:77
 translate russian d15s05b_ext_9b13a846:

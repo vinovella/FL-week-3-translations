@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d18/d18s04.rpy:75
 translate malay d18s04_09dff030:
 
@@ -1145,3 +1143,4 @@ translate malay strings:
     # game/code/d18/d18s04.rpy:526
     old "Remind Them You Are There"
     new "Ingatkan Mereka Anda Ada"
+

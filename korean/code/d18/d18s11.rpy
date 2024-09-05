@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/d18/d18s11.rpy:21
 translate korean d18s11_78df431c:
 
@@ -395,8 +393,6 @@ translate korean strings:
     # game/code/d18/d18s11.rpy:62
     old "Get Drunk in the Bar"
     new "술집에서 취할 때까지 마신다"
-
-# TODO: Translation updated at 2024-01-16 20:38
 
 translate korean strings:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d18/d18s03.rpy:68
 translate malay d18s03_ec5dba5c:
 
@@ -1751,3 +1749,4 @@ translate malay strings:
     # game/code/d18/d18s03.rpy:996
     old "No. Definitely NOT"
     new "Tak. Semestinya TAK"
+

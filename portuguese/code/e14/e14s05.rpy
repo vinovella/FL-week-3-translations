@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:47
-
 # game/code/e14/e14s05.rpy:26
 translate portuguese e14s05_8dcc27fc:
 

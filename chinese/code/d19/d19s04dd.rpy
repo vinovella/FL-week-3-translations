@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d19/d19s04dd.rpy:62
 translate chinese d19s04dd_e5b04d05:
 
@@ -1121,3 +1119,4 @@ translate chinese strings:
     # game/code/d19/d19s04dd.rpy:521
     old "I need time to think"
     new "我需要时间思考"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d15/d15s04dd.rpy:31
 translate italian d15s04dd_ab7f1b7a:
 

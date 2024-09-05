@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 translate french strings:
 
     # game/code/d21/d21s99.rpy:8

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d15/d15s08.rpy:16
 translate malay d15s08_ac30fa16:
 
@@ -1146,8 +1144,6 @@ translate malay d15s08_bcfe6e94:
     # mct "...zzZZZzzzz..."
     mct "...zzZZZzzzz..."
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d15/d15s08.rpy:75
 translate malay d15s08_1297c740:
 
@@ -1159,3 +1155,4 @@ translate malay d15s08_58dfa537:
 
     # mc "Okay, Angels! Let's recap. Fetish Locator should have a physical server and we're going to find it."
     mc "Baiklah, Angels! Mari kita imbas semula. Fetish Locator sepatutnya ada pelayan fizikal di dalam atau berhampiran kampus."
+

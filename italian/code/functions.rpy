@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 translate italian strings:
 
     # game/code/functions.rpy:251
@@ -30,10 +28,9 @@ translate italian strings:
     old "You can only select one out of Daisy and Dahlia"
     new "Puoi selezionarne solo uno tra Daisy e Dahlia"
 
-# TODO: Translation updated at 2023-06-15 00:07
-
 translate italian strings:
 
     # game/code/functions.rpy:23
     old "You have unlocked Ending #{}"
     new "Hai sbloccato il Finale #{}"
+

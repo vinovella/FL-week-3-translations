@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-12-07 21:21
-
 # game/code/e11/e11s02.rpy:62
 translate turkish e11s02_e3615efe:
 

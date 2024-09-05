@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:54
@@ -230,8 +228,6 @@ translate chinese strings:
     old "SKIP RECAP"
     new "跳过回顾"
 
-# TODO: Translation updated at 2022-11-12 12:59
-
 translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:248
@@ -245,8 +241,6 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:354
     old "{u}Done{/u}"
     new "{u}完成{/u}"
-
-# TODO: Translation updated at 2022-11-19 23:17
 
 translate chinese strings:
 
@@ -278,15 +272,11 @@ translate chinese strings:
     old "Did you give the password to Hana?"
     new "你把密码给哈娜了吗？"
 
-# TODO: Translation updated at 2022-12-06 22:18
-
 translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:444
     old "RETURN"
     new "返回"
-
-# TODO: Translation updated at 2023-05-20 02:53
 
 translate chinese strings:
 
@@ -297,8 +287,6 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:1322
     old "Skip Recap\nof Week-2"
     new "跳过\n第2周的回顾"
-
-# TODO: Translation updated at 2023-05-27 13:23
 
 translate chinese strings:
 
@@ -325,3 +313,4 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:1307
     old "Download Saves"
     new "下载存档"
+

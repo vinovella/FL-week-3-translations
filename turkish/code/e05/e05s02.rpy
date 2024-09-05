@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-16 01:07
-
 # game/code/e05/e05s02.rpy:63
 translate turkish e05s02_e0133776:
 
@@ -1941,3 +1939,4 @@ translate turkish strings:
     # game/code/e05/e05s02.rpy:659
     old "Let Oliver make his own decision"
     new "Oliver'ın kendi kararını vermesine izin verin."
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d19/d19s07.rpy:54
 translate malay d19s07_8f5cc00d:
 
@@ -1459,3 +1457,4 @@ translate malay strings:
     # game/code/d19/d19s07.rpy:200
     old "We aren't friends, but I need this."
     new "Kami bukan kawan, tapi saya perlukan ini."
+

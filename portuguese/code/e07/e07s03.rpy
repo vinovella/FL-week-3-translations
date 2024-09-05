@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-06 16:39
-
 # game/code/e07/e07s03.rpy:19
 translate portuguese e07s03_73111bf2:
 

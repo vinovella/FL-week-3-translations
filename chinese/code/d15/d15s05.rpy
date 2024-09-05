@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d15/d15s05.rpy:65
 translate chinese d15s05_c7c01bd8:
 
@@ -1423,3 +1421,4 @@ translate chinese strings:
     # game/code/d15/d15s05.rpy:262
     old "Wrap this Up"
     new "结束"
+

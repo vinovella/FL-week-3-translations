@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-06 10:42
-
 # game/code/d17/d17s03.rpy:8
 translate russian d17s03_9a6462db:
 
@@ -953,8 +951,6 @@ translate russian d17s03_2051d66a:
 
     # mc "Understood."
     mc "Понял."
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 # game/code/d17/d17s03.rpy:319
 translate russian d17s03_a531f536:

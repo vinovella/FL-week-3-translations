@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/e13/e13s02.rpy:83
 translate italian e13s02_0ccad110:
 
@@ -363,8 +361,6 @@ translate italian strings:
     # game/code/e13/e13s02.rpy:263
     old "Fuck Her Anally"
     new "Scoparla Analmente"
-
-# TODO: Translation updated at 2024-07-27 20:52
 
 # game/code/e13/e13s02.rpy:86
 translate italian e13s02_e5e5853b:

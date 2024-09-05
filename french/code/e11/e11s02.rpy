@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e11/e11s02.rpy:62
 translate french e11s02_e3615efe:
 

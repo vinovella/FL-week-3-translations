@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-20 17:15
-
 translate chinese strings:
 
     # game/code/hints.rpy:5
@@ -1142,15 +1140,11 @@ translate chinese strings:
     old "You will eat Stacy's ass and then potentially have your ass eaten (Giving and receiving)."
     new "你将品尝史黛西的屁股，然后有可能享受自己的屁股被品尝（施与和接受）。"
 
-# TODO: Translation updated at 2023-05-23 22:56
-
 translate chinese strings:
 
     # game/code/hints.rpy:5
     old "This is bad for Lydia's case . You maybe able to punish her yourself. Necessary for Ending-04."
     new "这对莉迪亚的案子不利。也许你可以自己惩罚她。此项为结局-04的必要条件。"
-
-# TODO: Translation updated at 2023-09-28 22:49
 
 translate chinese strings:
 
@@ -1198,8 +1192,6 @@ translate chinese strings:
     old "Dahlia won't peg you."
     new "黛丽娅不会鸡奸你。"
 
-# TODO: Translation updated at 2023-12-07 21:11
-
 translate chinese strings:
 
     # game/code/hints.rpy:5
@@ -1217,8 +1209,6 @@ translate chinese strings:
     # game/code/hints.rpy:5
     old "You have no will of you own. You are simply an extension of Dahlia."
     new "你没有自己的意志。你只是黛丽娅的延伸而已。"
-
-# TODO: Translation updated at 2024-02-06 16:42
 
 translate chinese strings:
 
@@ -1381,8 +1371,6 @@ translate chinese strings:
     # game/code/hints.rpy:5
     old "You don't eat the cum off Oliver's face."
     new "你不会吃掉奥利弗脸上的精液。"
-
-# TODO: Translation updated at 2024-07-27 20:47
 
 translate chinese strings:
 

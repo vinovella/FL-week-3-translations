@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d19/extended/d19s03_ext.rpy:65
 translate deutsch d19s03_ext_3960feb0:
 

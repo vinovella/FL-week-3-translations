@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-16 01:07
-
 # game/code/e16/e16s06.rpy:41
 translate turkish e16s06_3b7cfc98:
 
@@ -1301,3 +1299,4 @@ translate turkish strings:
     # game/code/e16/e16s06.rpy:33
     old "Three months later"
     new "Üç ay sonra"
+

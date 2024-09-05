@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:56
-
 # game/code/e12/e12s04.rpy:72
 translate turkish e12s04_3fbd998c:
 
@@ -1507,3 +1505,4 @@ translate turkish strings:
     # game/code/e12/e12s04.rpy:794
     old "I'm good Vanessa."
     new "Ben iyiyim Vanessa."
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-12-19 11:46
-
 # game/code/labels.rpy:322
 translate russian buzz_4377a2f7:
 
@@ -12,8 +10,6 @@ translate russian knock_40511e6c:
     # "*knock knock*"
     "*Тук тук*"
 
-# TODO: Translation updated at 2022-06-05 14:57
-
 # game/code/labels.rpy:334
 translate russian metalknock1_40511e6c:
 
@@ -25,8 +21,6 @@ translate russian metalknock2_40511e6c:
 
     # "*knock knock*"
     "*Тук тук*"
-
-# TODO: Translation updated at 2023-05-27 13:27
 
 # game/code/labels.rpy:103
 translate russian after_credits_583c0fde:
@@ -693,3 +687,4 @@ translate russian after_credits_f4cf666b:
 
     # sy "I can't wait to enjoy it with you."
     sy "I can't wait to enjoy it with you."
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 translate italian strings:
 
     # game/code/screens/endings.rpy:11
@@ -33,8 +31,6 @@ translate italian strings:
     # game/code/screens/endings.rpy:80
     old "Exit to Mainmenu"
     new "Ritorna al Menu Principale"
-
-# TODO: Translation updated at 2024-02-18 12:01
 
 translate italian strings:
 

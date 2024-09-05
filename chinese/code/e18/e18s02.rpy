@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-15 13:10
-
 # game/code/e18/e18s02.rpy:22
 translate chinese e18s02_c0e6955f:
 

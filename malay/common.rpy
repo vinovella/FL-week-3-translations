@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-03 19:39
-
 translate malay strings:
 
     # renpy/common/00action_other.rpy:703
@@ -17,8 +15,6 @@ translate malay strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "bisu utama"
-
-# TODO: Translation updated at 2023-06-01 02:05
 
 translate malay strings:
 
@@ -134,8 +130,6 @@ translate malay strings:
     old "Sync Error"
     new "Sync Error"
 
-# TODO: Translation updated at 2024-02-10 00:51
-
 translate malay strings:
 
     # renpy/common/00accessibility.rpy:120
@@ -233,8 +227,6 @@ translate malay strings:
     # renpy/common/00updater.rpy:2089
     old "Retry"
     new "Retry"
-
-# TODO: Translation updated at 2024-07-27 20:54
 
 translate malay strings:
 

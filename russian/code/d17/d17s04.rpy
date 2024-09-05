@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-06 10:42
-
 # game/code/d17/d17s04.rpy:45
 translate russian d17s04_e9a933c1:
 
@@ -1233,8 +1231,6 @@ translate russian strings:
     # game/code/d17/d17s04.rpy:131
     old "Refuse"
     new "Отказаться"
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 translate russian strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-18 16:34
-
 # game/code/e15/e15s01.rpy:98
 translate korean e15s01_32445995:
 

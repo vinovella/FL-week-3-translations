@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d21/d21s06.rpy:17
 translate italian d21s06_a1ce140a:
 
@@ -2378,8 +2376,6 @@ translate italian strings:
     old "No, I have to give it more thought."
     new "No, devo pensarci."
 
-# TODO: Translation updated at 2024-07-27 20:52
-
 # game/code/d21/d21s06.rpy:997
 translate italian d21s06_waterfall_0992f61d:
 
@@ -2439,8 +2435,6 @@ translate italian d21s06_wellness_spa_546d00c0:
 
     # mc "I'll be right there."
     mc "I'll be right there."
-
-# TODO: Translation updated at 2024-08-18 16:33
 
 # game/code/d21/d21s06.rpy:582
 translate italian d21s06_reboot_fl_6d5e9610:

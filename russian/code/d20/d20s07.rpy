@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-05 13:07
-
 # game/code/d20/d20s07.rpy:76
 translate russian d20s07_96d287b6:
 
@@ -1603,8 +1601,6 @@ translate russian strings:
     # game/code/d20/d20s07.rpy:346
     old "Go home"
     new "Уйти домой"
-
-# TODO: Translation updated at 2022-12-30 19:37
 
 # game/code/d20/d20s07.rpy:243
 translate russian d20s07_f7de081d:

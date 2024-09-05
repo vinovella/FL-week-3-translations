@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:56
-
 # game/code/e14/e14s03.rpy:55
 translate turkish e14s03_60cf1b26:
 
@@ -1301,3 +1299,4 @@ translate turkish strings:
     # game/code/e14/e14s03.rpy:432
     old "Take over for a bit"
     new "Bir süreliğine devral"
+

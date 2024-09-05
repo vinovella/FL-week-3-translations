@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-09-28 22:52
-
 # game/code/e14/e14s03.rpy:55
 translate malay e14s03_60cf1b26:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:17
-
 # game/code/e02/e02s06.rpy:16
 translate chinese e02s06_52e800c4:
 
@@ -1288,8 +1286,6 @@ translate chinese strings:
     old "Just give them some advice"
     new "给他们提点建议就行"
 
-# TODO: Translation updated at 2023-05-13 23:02
-
 # game/code/e02/e02s06.rpy:317
 translate chinese e02s06_experiment_d8b5fe3c:
 
@@ -1307,3 +1303,4 @@ translate chinese e02s06_experiment_aa4fa88f:
 
     # ac "I got real wet thinking about showing it off for you, [mcname]."
     ac "一想到要在你面前秀一下，我就浑身湿透了，[mcname]。"
+

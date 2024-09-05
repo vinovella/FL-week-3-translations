@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-08-24 12:18
-
 # game/code/d19/d19s08.rpy:23
 translate russian d19s08_7107f1b7:
 
@@ -577,8 +575,6 @@ translate russian strings:
     # game/code/d19/d19s08.rpy:111
     old "Ask for a picture"
     new "Попросить фотографию"
-
-# TODO: Translation updated at 2022-11-05 13:07
 
 # game/code/d19/d19s08.rpy:57
 translate russian d19s08_9ed673da:

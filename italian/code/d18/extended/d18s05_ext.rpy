@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d18/extended/d18s05_ext.rpy:63
 translate italian d18s05_ext_0d9b52ab:
 
@@ -709,8 +707,6 @@ translate italian strings:
     # game/code/d18/extended/d18s05_ext.rpy:644
     old "No"
     new "No"
-
-# TODO: Translation updated at 2024-07-27 20:52
 
 # game/code/d18/extended/d18s05_ext.rpy:618
 translate italian d18s05_after_sex_ec16ba99:

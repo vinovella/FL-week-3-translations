@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:02
-
 # game/code/e05/e05s07.rpy:65
 translate spanish e05s07_003978cc:
 
@@ -1795,8 +1793,6 @@ translate spanish strings:
     # game/code/e05/e05s07.rpy:1057
     old "You have finished playing Ending #05!"
     new "¡Has terminado de jugar al final n.° #05!"
-
-# TODO: Translation updated at 2024-07-27 20:56
 
 # game/code/e05/e05s07.rpy:208
 translate spanish e05s07_bar_0930b9cd:

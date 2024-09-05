@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-08-24 12:18
-
 # game/code/d19/d19s06mes.rpy:36
 translate russian d19s06mes_3f591a4b:
 
@@ -1098,8 +1096,6 @@ translate russian d19s06mes_ac9adf42:
     # mes "I haven't had that much fun since she went into the Pandora room."
     mes "Мне не было так весело с тех пор, как она вошла в комнату Пандоры."
 
-# TODO: Translation updated at 2022-11-05 13:07
-
 # game/code/d19/d19s06mes.rpy:434
 translate russian d19s06mes_e31c3d0a:
 
@@ -1129,8 +1125,6 @@ translate russian d19s06mes_95c2a186:
 
     # cl "I want it all over my face!"
     cl "Я хочу, чтобы это было на моем лице!"
-
-# TODO: Translation updated at 2022-12-30 19:37
 
 # game/code/d19/d19s06mes.rpy:674
 translate russian d19s06mes_a19ae317:

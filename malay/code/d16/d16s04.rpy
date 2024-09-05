@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d16/d16s04.rpy:24
 translate malay d16s04_010937cb:
 
@@ -1176,8 +1174,6 @@ translate malay strings:
     old "I won't be able to come"
     new "Tak dapat datang"
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d16/d16s04.rpy:295
 translate malay d16s04_be6b3495:
 
@@ -1219,3 +1215,4 @@ translate malay d16s04_f1376ad1:
 
     # mc "I failed a challenge from FL. This was my new challenge."
     mc "Aku gagal satu cabaran dari FL. Ini adalah cabaran baru aku."
+

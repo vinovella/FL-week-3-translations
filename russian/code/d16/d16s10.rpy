@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-01-31 15:43
-
 # game/code/d16/d16s10.rpy:28
 translate russian d16s10_d9159219:
 
@@ -1336,8 +1334,6 @@ translate russian strings:
     old "Tell her how you came while she was under the table"
     new "Рассказать ей, как ты кончил, пока она была под столом"
 
-# TODO: Translation updated at 2022-08-06 21:12
-
 # game/code/d16/d16s10.rpy:670
 translate russian d16s10_b08a13b4:
 
@@ -1355,8 +1351,6 @@ translate russian strings:
     # game/code/d16/d16s10.rpy:26
     old "Later that evening"
     new "Позже тем же вечером."
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 # game/code/d16/d16s10.rpy:272
 translate russian d16s10_5956f153:

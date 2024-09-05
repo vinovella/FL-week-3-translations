@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/labels.rpy:109
 translate turkish after_credits_583c0fde:
 
@@ -624,8 +622,6 @@ translate turkish after_credits_b06da193:
     # sy "I definitely should {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist the game on Steam{/u}{/a} then!"
     sy "Oyunu kesinlikle {a=steam://openurl/https://store.steampowered.com/app/2459350/Taboo_University_Book_One/}{u}wishlist Steam'de oynamalıyım{/u}{/a} O zaman!"
 
-# TODO: Translation updated at 2023-10-24 14:16
-
 # game/code/labels.rpy:170
 translate turkish after_credits_dcd001ba:
 
@@ -691,3 +687,4 @@ translate turkish after_credits_f4cf666b:
 
     # sy "I can't wait to enjoy it with you."
     sy "Seninle eğlenmek için sabırsızlanıyorum."
+

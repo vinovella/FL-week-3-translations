@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d21/d21s05.rpy:80
 translate turkish d21s05_2c96e7d1:
 
@@ -1211,3 +1209,4 @@ translate turkish strings:
     # game/code/d21/d21s05.rpy:614
     old "Just facefuck Aaleyah instead"
     new "Onun yerine Aaleyah'ı sik"
+

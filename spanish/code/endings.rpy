@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/endings.rpy:279
 translate spanish ending_not_available_f3f9fce0:
 

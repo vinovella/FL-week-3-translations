@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-22 23:46
-
 translate portuguese strings:
 
     # game/code/screens/extended/screens_fl.rpy:27
@@ -37,8 +35,6 @@ translate portuguese strings:
     # game/code/screens/extended/screens_fl.rpy:142
     old "Coming Soon"
     new "Em Breve"
-
-# TODO: Translation updated at 2022-12-26 00:31
 
 translate portuguese strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e01/e01s02.rpy:16
 translate french e01s02_fd8d44aa:
 

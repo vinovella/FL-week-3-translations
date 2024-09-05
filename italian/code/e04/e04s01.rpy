@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-01-25 23:29
-
 # game/code/e04/e04s01.rpy:44
 translate italian e04s01_49e08c15:
 

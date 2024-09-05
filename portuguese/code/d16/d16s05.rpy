@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d16/d16s05.rpy:18
 translate portuguese d16s05_7a5532ea:
 

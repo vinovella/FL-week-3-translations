@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e02/e02s01.rpy:82
 translate deutsch e02s01_e6009a2c:
 

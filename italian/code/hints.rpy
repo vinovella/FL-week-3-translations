@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 translate italian strings:
 
     # game/code/hints.rpy:5
@@ -1186,8 +1184,6 @@ translate italian strings:
     old "Dahlia won't peg you."
     new "Dahlia won't peg you."
 
-# TODO: Translation updated at 2023-12-07 21:15
-
 translate italian strings:
 
     # game/code/hints.rpy:5
@@ -1205,8 +1201,6 @@ translate italian strings:
     # game/code/hints.rpy:5
     old "You have no will of you own. You are simply an extension of Dahlia."
     new "You have no will of you own. You are simply an extension of Dahlia."
-
-# TODO: Translation updated at 2024-02-06 16:58
 
 translate italian strings:
 
@@ -1345,7 +1339,6 @@ translate italian strings:
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
     new "Disappoint Lydia and be the loser."
-# TODO: Translation updated at 2024-07-27 20:52
 
 translate italian strings:
 

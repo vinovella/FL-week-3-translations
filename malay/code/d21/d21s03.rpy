@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-03 19:39
-
 # game/code/d21/d21s03.rpy:9
 translate malay d21s03_28c93870:
 
@@ -684,3 +682,4 @@ translate malay strings:
     # game/code/d21/d21s03.rpy:183
     old "Don't mention it"
     new "Jangan sebut"
+

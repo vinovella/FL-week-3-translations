@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:17
-
 # game/code/e02/e02s01.rpy:37
 translate chinese e02s01_e6009a2c:
 
@@ -1262,18 +1260,15 @@ translate chinese strings:
     old "Give Lyssa pleasure"
     new "让丽莎开心"
 
-# TODO: Translation updated at 2023-05-17 01:28
-
 # game/code/e02/e02s01.rpy:713
 translate chinese e02s01_give_pleasure_f7d6991f:
 
     # mh "Fuck me harder!"
     mh "狠狠地插我！"
     
-# TODO: Translation updated at 2023-05-20 17:22
-
 translate chinese strings:
 
     # game/code/e02/e02s01.rpy:62
     old "Ending #2\nSnowy Peaks"
     new "Ending #2\n雪峰胜地"
+

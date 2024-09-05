@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d18/d18s02.rpy:33
 translate malay d18s02_f772c18d:
 
@@ -305,3 +303,4 @@ translate malay strings:
     # game/code/d18/d18s02.rpy:22
     old "1 hour later\nAt Stacy's house"
     new "Sejam kemudian\nDi rumah Stacy"
+

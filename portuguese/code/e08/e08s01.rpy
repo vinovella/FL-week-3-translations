@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-03-27 12:24
-
 # game/code/e08/e08s01.rpy:68
 translate portuguese e08s01_40e3b63d:
 

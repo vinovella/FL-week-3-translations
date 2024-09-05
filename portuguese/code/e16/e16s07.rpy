@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:03
-
 # game/code/e16/e16s07.rpy:77
 translate portuguese e16s07_60ab8d42:
 
@@ -1217,8 +1215,6 @@ translate portuguese strings:
     # game/code/e16/e16s07.rpy:893
     old "You have finished playing Ending #16!"
     new "Você concluiu o final #16!"
-
-# TODO: Translation updated at 2024-07-27 20:57
 
 # game/code/e16/e16s07.rpy:80
 translate portuguese e16s07_e95b86db:

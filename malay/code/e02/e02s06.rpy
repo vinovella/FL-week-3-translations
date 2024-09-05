@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-01 02:05
-
 # game/code/e02/e02s06.rpy:71
 translate malay e02s06_52e800c4:
 
@@ -1305,3 +1303,4 @@ translate malay strings:
     # game/code/e02/e02s06.rpy:272
     old "Just give them some advice"
     new "Beri mereka nasihat sahaja"
+

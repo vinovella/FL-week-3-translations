@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/d15/extended/d15s05b_ext.rpy:65
 translate french d15s05b_ext_247f8221:
 

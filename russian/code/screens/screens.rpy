@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-12-19 11:46
-
 translate russian strings:
 
     # game/code/screens/screens.rpy:258
@@ -386,8 +384,6 @@ translate russian strings:
     old "Menu"
     new "Меню"
 
-# TODO: Translation updated at 2023-05-27 13:27
-
 translate russian strings:
 
     # game/code/screens/screens.rpy:357
@@ -397,8 +393,6 @@ translate russian strings:
     # game/code/screens/screens.rpy:1045
     old "Connect Your Toy"
     new "Подключить Lovence устройство"
-
-# TODO: Translation updated at 2024-07-27 20:55
 
 translate russian strings:
 

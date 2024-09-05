@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-03-10 21:23
-
 # game/code/d21/d21s06.rpy:16
 translate portuguese d21s06_a1ce140a:
 
@@ -2378,8 +2376,6 @@ translate portuguese strings:
     old "No, I have to give it more thought."
     new "Não, tenho que pensar mais um pouco."
 
-# TODO: Translation updated at 2024-07-27 20:57
-
 # game/code/d21/d21s06.rpy:997
 translate portuguese d21s06_waterfall_0992f61d:
 
@@ -2439,8 +2435,6 @@ translate portuguese d21s06_wellness_spa_546d00c0:
 
     # mc "I'll be right there."
     mc ""
-
-# TODO: Translation updated at 2024-08-18 16:35
 
 # game/code/d21/d21s06.rpy:582
 translate portuguese d21s06_reboot_fl_6d5e9610:

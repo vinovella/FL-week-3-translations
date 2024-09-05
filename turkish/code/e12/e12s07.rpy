@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:56
-
 # game/code/e12/e12s07.rpy:67
 translate turkish e12s07_7d11eb9b:
 
@@ -1249,3 +1247,4 @@ translate turkish strings:
     # game/code/e12/e12s07.rpy:835
     old "You have finished playing Ending #12!"
     new "Son #12'yi oynamayı bitirdiniz!"
+

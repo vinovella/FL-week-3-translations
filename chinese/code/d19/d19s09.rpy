@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d19/d19s09.rpy:124
 translate chinese d19s09_6670f26a:
 
@@ -927,8 +925,6 @@ translate chinese strings:
     # game/code/d19/d19s09.rpy:595
     old "Switch"
     new "换人"
-
-# TODO: Translation updated at 2022-12-13 23:31
 
 # game/code/d19/d19s09.rpy:987
 translate chinese d19s09_end_8a44ad0b:

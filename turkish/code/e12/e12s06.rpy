@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:56
-
 # game/code/e12/e12s06.rpy:59
 translate turkish e12s06_99be6fb6:
 
@@ -1399,3 +1397,4 @@ translate turkish strings:
     # game/code/e12/e12s06.rpy:667
     old "Play with her ass"
     new "Kıçıyla oyna."
+

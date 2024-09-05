@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-01 02:05
-
 # game/code/e02/e02s02.rpy:30
 translate malay e02s02_08635dd6:
 
@@ -569,3 +567,4 @@ translate malay e02s02_e94ef34d:
 
     # mh "Bank left, follow the trail, and avoid crashing into those trees. I'll see you down there."
     mh "Belok kiri, ikuti denai dan elakkan merempuh pokok. Aku akan jumpa kau di bawah sana."
+

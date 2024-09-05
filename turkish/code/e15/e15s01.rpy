@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-08-18 16:13
-
 # game/code/e15/e15s01.rpy:98
 translate turkish e15s01_32445995:
 
@@ -1519,3 +1517,4 @@ translate turkish strings:
     # game/code/e15/e15s01.rpy:349
     old "At the end of the day"
     new "Günün sonunda"
+

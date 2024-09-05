@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-04-23 22:10
-
 # game/code/e06/e06s09.rpy:28
 translate portuguese e06s09_c22452ba:
 
@@ -1194,15 +1192,11 @@ translate portuguese strings:
     old "Check on Her"
     new "Dar uma Olhada Nela"
 
-# TODO: Translation updated at 2023-04-30 17:22
-
 translate portuguese strings:
 
     # game/code/e06/e06s09.rpy:23
     old "Later That Evening"
     new "Mais Tarde na Noite"
-
-# TODO: Translation updated at 2023-05-22 21:19
 
 translate portuguese strings:
 

@@ -1,5 +1,3 @@
-# TODO: Please reinvite me on ViNovella's Discord server: skyejordan666
-
 translate malay strings:
 
     # game/code/data/endings.rpy:3
@@ -179,3 +177,4 @@ translate malay strings:
 
     old "E18 - Quartet"
     new "E18 - Kuartet"
+

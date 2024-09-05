@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d18/d18s02.rpy:33
 translate deutsch d18s02_f772c18d:
 

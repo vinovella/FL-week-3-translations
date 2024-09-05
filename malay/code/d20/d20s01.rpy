@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d20/d20s01.rpy:20
 translate malay d20s01_ab231225:
 
@@ -567,3 +565,4 @@ translate malay strings:
     # game/code/d20/d20s01.rpy:113
     old "Do you want Stacy to pee on you?"
     new "Nak Stacy kencing atas anda?"
+

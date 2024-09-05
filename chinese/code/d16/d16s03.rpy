@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d16/d16s03.rpy:19
 translate chinese d16s03_dd526ff9:
 
@@ -2001,3 +1999,4 @@ translate chinese strings:
     # game/code/d16/d16s03.rpy:1026
     old "Tell Lydia That You Enjoyed It As Well"
     new "告诉莉迪亚，你也很享受"
+

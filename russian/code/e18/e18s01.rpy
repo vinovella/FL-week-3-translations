@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-18 16:36
-
 # game/code/e18/e18s01.rpy:103
 translate russian e18s01_046bee3f:
 

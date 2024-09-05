@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d17/extended/d17s07_ext.rpy:53
 translate malay d17s07_ext_360a8ee5:
 
@@ -637,3 +635,4 @@ translate malay strings:
     # game/code/d17/extended/d17s07_ext.rpy:466
     old "Agree to go with her"
     new "Setuju untuk pergi bersamanya"
+

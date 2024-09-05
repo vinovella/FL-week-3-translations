@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:03
-
 # game/code/e16/e16s02.rpy:23
 translate portuguese e16s02_051f13c5:
 
@@ -993,8 +991,6 @@ translate portuguese strings:
     # game/code/e16/e16s02.rpy:312
     old "After Jessie checks the website"
     new "Depois da Jessie visitar o site"
-
-# TODO: Translation updated at 2024-07-27 20:57
 
 # game/code/e16/e16s02.rpy:399
 translate portuguese e16s02_736fa6b5:

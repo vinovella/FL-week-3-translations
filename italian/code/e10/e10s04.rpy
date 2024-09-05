@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/e10/e10s04.rpy:21
 translate italian e10s04_b53797f0:
 

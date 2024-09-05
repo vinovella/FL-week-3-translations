@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/recap/w2_recap.rpy:109
 translate spanish week_2_recap_6e162b80:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-04-18 22:46
-
 # game/code/screens/lovense.rpy:141
 translate chinese lovense_test_9e0ee773:
 
@@ -102,8 +100,6 @@ translate chinese strings:
     old "Please enter your HTTP Port number:"
     new "请输入您的HTTP端口号:"
 
-# TODO: Translation updated at 2023-05-20 02:53
-
 translate chinese strings:
 
     # game/code/screens/lovense.rpy:71
@@ -126,8 +122,6 @@ translate chinese strings:
     old "{u}Connect your toy!{/u}"
     new "{u}连接您的玩具！{/u}"
 
-# TODO: Translation updated at 2023-07-05 01:05
-
 translate chinese strings:
 
     # game/code/screens/lovense.rpy:74
@@ -137,8 +131,6 @@ translate chinese strings:
     # game/code/screens/lovense.rpy:80
     old "Get a toy now"
     new "立即获取玩具"
-
-# TODO: Translation updated at 2024-08-15 13:10
 
 translate chinese strings:
 

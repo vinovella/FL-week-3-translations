@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-12-07 21:15
-
 # game/code/e17/e17s03.rpy:128
 translate italian e17s03_49cb4f05:
 
@@ -557,3 +555,4 @@ translate italian replay_e17s03_a823a6e3:
 
     # mc "I must go. My Mistress is summoning me."
     mc "I must go. My Mistress is summoning me."
+

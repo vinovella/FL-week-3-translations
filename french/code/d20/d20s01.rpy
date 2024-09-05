@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/d20/d20s01.rpy:27
 translate french d20s01_ab231225:
 

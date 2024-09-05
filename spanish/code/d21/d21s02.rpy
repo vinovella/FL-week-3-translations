@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/d21/d21s02.rpy:29
 translate spanish d21s02_3a53d660:
 

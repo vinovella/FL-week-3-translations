@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 translate portuguese strings:
 
     # game/code/credit_sprites.rpy:29
@@ -49,3 +47,4 @@ translate portuguese strings:
     # game/code/credit_sprites.rpy:170
     old "We'll see you soon!"
     new "Nos vemos em breve!"
+

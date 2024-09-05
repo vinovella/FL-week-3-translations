@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-12-07 21:19
-
 # game/code/e11/e11s04.rpy:45
 translate russian e11s04_74a4e049:
 

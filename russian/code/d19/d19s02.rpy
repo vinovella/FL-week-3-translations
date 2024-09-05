@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-08-24 12:18
-
 # game/code/d19/d19s02.rpy:17
 translate russian d19s02_0c7b4226:
 
@@ -766,15 +764,11 @@ translate russian strings:
     old "Go to her"
     new "Идти к ней"
 
-# TODO: Translation updated at 2022-12-30 19:37
-
 # game/code/d19/d19s02.rpy:541
 translate russian d19s02_d138a5d3:
 
     # mct "I forgot to ask AmRose while she is here."
     mct "Я забыл спросить АмРоуз, пока она была здесь."
-
-# TODO: Translation updated at 2023-05-27 13:27
 
 # game/code/d19/d19s02.rpy:510
 translate russian d19s02_b0400d74:

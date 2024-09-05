@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-01-26 00:02
-
 # game/code/e04/e04s04.rpy:15
 translate turkish e04s04_31d723d4:
 
@@ -1763,3 +1761,4 @@ translate turkish strings:
     # game/code/e04/e04s04.rpy:4
     old "Weeks later"
     new "Haftalar Sonra"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-11-14 09:23
-
 # game/code/e17/e17s01.rpy:61
 translate spanish e17s01_419854dc:
 
@@ -1145,3 +1143,4 @@ translate spanish e17s01_sex_fa5e65a4:
 
     # dw "Take your time, [mcname]. I have to invent new punishments for you now."
     dw "Tómate tu tiempo, [mcname]. Ahora, tengo que inventar nuevos castigos para ti."
+

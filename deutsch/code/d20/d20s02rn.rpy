@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d20/d20s02rn.rpy:45
 translate deutsch d20s02rn_8e860913:
 

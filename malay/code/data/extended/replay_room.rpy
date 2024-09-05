@@ -1,5 +1,3 @@
-# TODO: Please reinvite me on ViNovella's Discord server: skyejordan666
-
 translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -69,8 +67,6 @@ translate malay strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 16: Spinning Chair"
     new "Hari 16: Kerusi Berpusing"
-
-# TODO: Translation updated at 2023-02-01 00:18
 
 translate malay strings:
 
@@ -234,8 +230,6 @@ translate malay strings:
     old "Ending 10: Min & Nari"
     new "Pengakhiran 10: Min Dan Nari"
 
-# TODO: Translation updated at 2023-05-03 19:39
-
 translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -269,8 +263,6 @@ translate malay strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 08: Pregnant AmRose"
     new "Pengakhiran 08: AmRose Mengandung"
-
-# TODO: Translation updated at 2023-05-27 13:19
 
 translate malay strings:
 
@@ -310,8 +302,6 @@ translate malay strings:
     old "Ending 06: Wedding Reception"
     new "Pengakhiran 06: Majlis Perkahwinan"
 
-# TODO: Translation updated at 2023-09-28 22:52
-
 translate malay strings:
 
     # game/code/data/extended/replay_room.rpy:123
@@ -325,8 +315,6 @@ translate malay strings:
     # game/code/data/extended/replay_room.rpy:138
     old "Ending 14: Polly, Nora & Debbie"
     new "Pengakhiran 14: Polly, Nora Dan Debbie"
-
-# TODO: Translation updated at 2023-12-07 21:18
 
 translate malay strings:
 
@@ -345,7 +333,6 @@ translate malay strings:
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Pregnant Dahlia"
     new "Pengakhiran 17: Dahlia Mengandung"
-# TODO: Translation updated at 2024-02-08 02:44
 
 translate malay strings:
 
@@ -396,8 +383,6 @@ translate malay strings:
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia & AmRose"
     new "Ending 07: Lydia & AmRose"
-
-# TODO: Translation updated at 2024-07-27 20:54
 
 translate malay strings:
 

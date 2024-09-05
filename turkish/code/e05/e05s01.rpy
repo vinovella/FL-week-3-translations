@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-16 01:07
-
 # game/code/e05/e05s01.rpy:102
 translate turkish e05s01_40a7e867:
 
@@ -1905,3 +1903,4 @@ translate turkish strings:
     # game/code/e05/e05s01.rpy:764
     old "Encourage Lyssa to take Oliver's virginity"
     new "Lyssa'yı Oliver'ın bekaretini almaya teşvik et"
+

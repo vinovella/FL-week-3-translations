@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-01-26 00:02
-
 # game/code/e04/e04s03.rpy:54
 translate turkish e04s03_a5af4321:
 
@@ -1499,3 +1497,4 @@ translate turkish e04s03_end_0f4f597e:
 
     # sy "Hehe. Don't worry. With what I have in mind, it will be worth every penny."
     sy "Hehe. Merak etme. Aklımdaki şeyle, her kuruşuna değecek."
+

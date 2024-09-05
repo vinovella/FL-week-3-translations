@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d18/extended/d18s11b_ext.rpy:57
 translate deutsch d18s11b_ext_c207e5d0:
 

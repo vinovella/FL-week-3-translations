@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 13:27
-
 # game/code/screens/lovense.rpy:173
 translate russian lovense_test_9e0ee773:
 
@@ -122,8 +120,6 @@ translate russian strings:
     old "Please enter your HTTP Port number:"
     new "Введите номер порта HTTP:"
 
-# TODO: Translation updated at 2023-07-03 00:02
-
 translate russian strings:
 
     # game/code/screens/lovense.rpy:74
@@ -133,8 +129,6 @@ translate russian strings:
     # game/code/screens/lovense.rpy:80
     old "Get a toy now"
     new "Выберите игрушку прямо сейчас"
-
-# TODO: Translation updated at 2024-08-18 16:36
 
 translate russian strings:
 

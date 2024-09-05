@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -278,8 +276,6 @@ translate deutsch strings:
     old "Ending 10: Min & Nari"
     new "Ende 10: Min & Nari"
 
-# TODO: Translation updated at 2023-09-28 22:50
-
 translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:123
@@ -293,8 +289,6 @@ translate deutsch strings:
     # game/code/data/extended/replay_room.rpy:138
     old "Ending 14: Polly, Nora & Debbie"
     new "Ende 14: Polly, Nora & Debbie"
-
-# TODO: Translation updated at 2023-12-07 21:15
 
 translate deutsch strings:
 
@@ -313,8 +307,6 @@ translate deutsch strings:
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Pregnant Dahlia"
     new "Ende 17: Schwangere Dahlia"
-
-# TODO: Translation updated at 2024-02-08 02:51
 
 translate deutsch strings:
 
@@ -366,8 +358,6 @@ translate deutsch strings:
     old "Ending 07: Lydia & AmRose"
     new "Ending 07: Lydia & AmRose"
 
-# TODO: Translation updated at 2024-07-27 20:51
-
 translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:103
@@ -393,8 +383,6 @@ translate deutsch strings:
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie, Molly, Sage & Kristen"
     new "Ending 16: Jessie, Molly, Sage & Kristen"
-
-# TODO: Translation updated at 2024-08-18 16:32
 
 translate deutsch strings:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:46
-
 translate spanish strings:
 
     # game/code/screens/endings.rpy:11
@@ -33,8 +31,6 @@ translate spanish strings:
     # game/code/screens/endings.rpy:80
     old "Exit to Mainmenu"
     new "Salir al menú principal"
-
-# TODO: Translation updated at 2024-02-18 12:00
 
 translate spanish strings:
 

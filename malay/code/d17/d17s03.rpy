@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-04-16 20:02
-
 # game/code/d17/d17s03.rpy:8
 translate malay d17s03_9a6462db:
 
@@ -953,10 +951,10 @@ translate malay d17s03_2051d66a:
 
     # mc "Understood."
     mc "{i}Arahan diterima, puan!{/i}"
-# TODO: Translation updated at 2022-11-12 13:01
 
 # game/code/d17/d17s03.rpy:458
 translate malay d17s03_a531f536:
 
     # mct "That doesn't sound like jealousy at all."
     mct "Itu tak dengar macam cemburu."
+

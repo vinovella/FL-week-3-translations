@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d17/d17s05mh.rpy:61
 translate italian d17s05mh_80756f8d:
 

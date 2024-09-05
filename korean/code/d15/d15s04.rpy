@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/d15/d15s04.rpy:28
 translate korean d15s04_a13bdd91:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e05/e05s05.rpy:43
 translate french e05s05_c0c794a2:
 

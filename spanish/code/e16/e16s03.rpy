@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:02
-
 # game/code/e16/e16s03.rpy:15
 translate spanish e16s03_aa85840b:
 

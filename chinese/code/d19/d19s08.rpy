@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d19/d19s08.rpy:23
 translate chinese d19s08_7107f1b7:
 
@@ -578,8 +576,6 @@ translate chinese strings:
     old "Ask for a picture"
     new "让她拍照"
 
-# TODO: Translation updated at 2022-10-16 21:06
-
 # game/code/d19/d19s08.rpy:57
 translate chinese d19s08_9ed673da:
 
@@ -603,3 +599,4 @@ translate chinese d19s08_57356ffb:
 
     # mct "Yeah. Fuck that. There's nothing I can do about Zarah. But I'm still gonna call Lyssa."
     mct "算了。去他妈的。对于萨拉，我无能为力。但我还是要给丽莎打电话。"
+

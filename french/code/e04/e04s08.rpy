@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e04/e04s08.rpy:20
 translate french e04s08_42cc5e2a:
 

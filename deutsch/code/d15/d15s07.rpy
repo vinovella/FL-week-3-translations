@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d15/d15s07.rpy:47
 translate deutsch d15s07_a875bc2a:
 

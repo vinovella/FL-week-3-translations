@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-12-19 11:46
-
 # game/code/d15/d15s04dw.rpy:20
 translate russian d15s04dw_4290d7de:
 
@@ -1062,15 +1060,11 @@ translate russian strings:
     old "Let the girls think it was entirely up to them"
     new "Пусть девочки думают, что это полностью их заслуга"
 
-# TODO: Translation updated at 2022-08-06 21:12
-
 translate russian strings:
 
     # game/code/d15/d15s04dw.rpy:17
     old "30 minute later"
     new "30 минут спустя."
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 # game/code/d15/d15s04dw.rpy:323
 translate russian d15s04dw_eb3e097b:

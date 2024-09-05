@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 translate turkish strings:
 
     # game/code/screens/screens.rpy:259
@@ -349,8 +347,6 @@ translate turkish strings:
     # game/code/screens/screens.rpy:1720
     old "Menu"
     new "Menü"
-
-# TODO: Translation updated at 2024-07-16 01:07
 
 translate turkish strings:
 

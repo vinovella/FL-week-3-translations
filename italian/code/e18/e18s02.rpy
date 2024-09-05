@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-18 16:33
-
 # game/code/e18/e18s02.rpy:22
 translate italian e18s02_c0e6955f:
 

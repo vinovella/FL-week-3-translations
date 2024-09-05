@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-12-07 21:15
-
 # game/code/e17/e17s04.rpy:54
 translate italian e17s04_f538fcc5:
 

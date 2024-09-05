@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-12 12:59
-
 # game/code/d20/d20s07.rpy:76
 translate chinese d20s07_96d287b6:
 
@@ -1615,8 +1613,6 @@ translate chinese strings:
     # game/code/d20/d20s07.rpy:348
     old "Go home"
     new "回家"
-
-# TODO: Translation updated at 2022-12-06 22:18
 
 # game/code/d20/d20s07.rpy:754
 translate chinese d20s07_last_show_b9af505f:

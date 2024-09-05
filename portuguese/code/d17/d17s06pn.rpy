@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d17/d17s06pn.rpy:43
 translate portuguese d17s06pn_9f8e2b43:
 

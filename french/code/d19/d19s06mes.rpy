@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/d19/d19s06mes.rpy:48
 translate french d19s06mes_3f591a4b:
 

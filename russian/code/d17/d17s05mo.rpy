@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-06 10:42
-
 # game/code/d17/d17s05mo.rpy:6
 translate russian d17s05mo_7c42b679:
 
@@ -1127,8 +1125,6 @@ translate russian d17s05mo_be58e169:
 
     # mh "Well, I'm glad."
     mh "Что ж, я рада."
-
-# TODO: Translation updated at 2023-06-01 02:07
 
 # game/code/d17/d17s05mo.rpy:258
 translate russian d17s05mo_09d1334a:

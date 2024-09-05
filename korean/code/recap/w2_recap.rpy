@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/recap/w2_recap.rpy:109
 translate korean week_2_recap_6e162b80:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-06 10:42
-
 # game/code/d17/d17s08.rpy:51
 translate russian d17s08_15d395d8:
 
@@ -1151,8 +1149,6 @@ translate russian replay_d17s08_55d60f89:
 
     # mct "Oh, crap."
     mct "Вот дерьмо."
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 # game/code/d17/d17s08.rpy:360
 translate russian replay_d17s08_46a1f2b0:

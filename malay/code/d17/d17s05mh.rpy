@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-04-16 20:02
-
 # game/code/d17/d17s05mh.rpy:52
 translate malay d17s05mh_80756f8d:
 
@@ -563,3 +561,4 @@ translate malay strings:
     # game/code/d17/d17s05mh.rpy:337
     old "Cum in her ass"
     new "Pancut dalam bontotnya"
+

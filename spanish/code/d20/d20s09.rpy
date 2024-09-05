@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/d20/d20s09.rpy:19
 translate spanish d20s09_5763cea5:
 

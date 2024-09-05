@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-13 23:03
-
 # game/code/e02/e02s10.rpy:15
 translate portuguese e02s10_1cc9503b:
 
@@ -853,7 +851,6 @@ translate portuguese strings:
     # game/code/e02/e02s10.rpy:411
     old "A few months later"
     new "Alguns messe depois"
-# TODO: Translation updated at 2023-05-22 21:19
 
 translate portuguese strings:
 

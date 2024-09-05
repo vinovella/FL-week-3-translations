@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d19/d19s01lc.rpy:12
 translate malay d19s01lc_31455c3a:
 
@@ -773,3 +771,4 @@ translate malay strings:
     # game/code/d19/d19s01lc.rpy:205
     old "Tell Her It Was Fun"
     new "Beritahu Dia Ia Seronok"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-08-18 16:13
-
 # game/code/e18/e18s01.rpy:103
 translate turkish e18s01_046bee3f:
 
@@ -1735,3 +1733,4 @@ translate turkish strings:
     # game/code/e18/e18s01.rpy:948
     old "Don't watch Pete"
     new "Pete'i izleme."
+

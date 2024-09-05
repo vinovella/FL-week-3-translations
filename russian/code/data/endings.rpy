@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 13:27
-
 translate russian strings:
 
     # game/code/data/endings.rpy:3
@@ -179,3 +177,4 @@ translate russian strings:
 
     old "E18 - Quartet"
     new "E18 - Квартет"
+

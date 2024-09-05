@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d18/d18s10.rpy:86
 translate portuguese d18s10_0b2e1d6b:
 
@@ -750,15 +748,11 @@ translate portuguese d18s10_end_1da49de8_1:
     # mct "I can't even."
     mct "Não consigo."
 
-# TODO: Translation updated at 2022-12-13 23:34
-
 translate portuguese strings:
 
     # game/code/d18/d18s10.rpy:226
     old "What is your darkest fantasy about Lydia?"
     new "Qual é a sua maior fantasia sobre a Lydia?"
-
-# TODO: Translation updated at 2023-05-16 23:37
 
 translate portuguese strings:
 

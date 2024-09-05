@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-01-31 15:43
-
 # game/code/d16/d16s01.rpy:13
 translate russian d16s01_66e01943:
 
@@ -509,8 +507,6 @@ translate russian d16s01_fa3a59b5:
 
     # sy "Jackass."
     sy "Придурок."
-
-# TODO: Translation updated at 2022-08-06 21:12
 
 translate russian strings:
 

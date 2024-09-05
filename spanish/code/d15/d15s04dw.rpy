@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/d15/d15s04dw.rpy:28
 translate spanish d15s04dw_4290d7de:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-12-30 19:37
-
 # game/code/d19/extended/d19s03_ext.rpy:65
 translate russian d19s03_ext_3960feb0:
 

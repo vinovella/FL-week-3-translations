@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 translate turkish strings:
 
     # game/code/hints.rpy:5
@@ -1338,8 +1336,6 @@ translate turkish strings:
     old "Disappoint Lydia and be the loser."
     new "Lydia'yı hayal kırıklığına uğrat ve kaybeden ol."
 
-# TODO: Translation updated at 2024-07-16 01:07
-
 translate turkish strings:
 
     # game/code/hints.rpy:5
@@ -1389,8 +1385,6 @@ translate turkish strings:
     # game/code/hints.rpy:5
     old "Stacy gives [mcname] a rimjob while he pees."
     new "Stacy [mcname] işerken ona oral seks yapıyor."
-
-# TODO: Translation updated at 2024-07-27 20:56
 
 translate turkish strings:
 

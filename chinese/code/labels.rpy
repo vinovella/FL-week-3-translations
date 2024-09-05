@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-03 19:49
-
 # game/code/labels.rpy:110
 translate chinese after_credits_583c0fde:
 
@@ -612,8 +610,6 @@ translate chinese metalknock2_40511e6c:
     # "*knock knock*"
     "*咚咚咚*"
 
-# TODO: Translation updated at 2023-05-21 19:30
-
 translate chinese strings:
 
     # game/code/labels.rpy:71
@@ -691,3 +687,4 @@ translate chinese after_credits_f4cf666b:
 
     # sy "I can't wait to enjoy it with you."
     sy "我等不及要和你一起享受这个结局了！"
+

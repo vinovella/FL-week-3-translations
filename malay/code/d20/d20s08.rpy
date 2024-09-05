@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d20/d20s08.rpy:32
 translate malay d20s08_b3e81c75:
 
@@ -1505,3 +1503,4 @@ translate malay strings:
     # game/code/d20/d20s08.rpy:390
     old "No, I don't want to see that."
     new "Tak, tak nak tengok"
+

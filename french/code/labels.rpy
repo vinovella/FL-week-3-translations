@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/labels.rpy:112
 translate french after_credits_583c0fde:
 

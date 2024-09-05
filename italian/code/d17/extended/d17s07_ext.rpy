@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d17/extended/d17s07_ext.rpy:54
 translate italian d17s07_ext_360a8ee5:
 

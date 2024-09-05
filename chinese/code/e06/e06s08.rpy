@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-04-23 22:11
-
 # game/code/e06/e06s08.rpy:18
 translate chinese e06s08_4a8802e8:
 
@@ -1904,23 +1902,17 @@ translate chinese strings:
     old "Lydia should Blow Lyssa's mind (and cock)"
     new "莉迪亚应该让丽莎性奋起来，给她吹箫"
 
-# TODO: Translation updated at 2023-04-24 02:24
-
 # game/code/e06/e06s08.rpy:348
 translate chinese d06s08_sy_4a9a11a2:
 
     # sy "CREAMPIE ME [mcname!u]!!!"
     sy "我想被你内射，[mcname!u]!!!"
 
-# TODO: Translation updated at 2023-05-20 02:53
-
 translate chinese strings:
 
     # game/code/e06/e06s08.rpy:1185
     old "Lydia should Rim Lyssa's ass"
     new "莉迪亚应该给丽莎舔肛"
-
-# TODO: Translation updated at 2023-05-21 16:02
 
 # game/code/e06/e06s08.rpy:1233
 translate chinese d06s08_mh_0aa48b5e:

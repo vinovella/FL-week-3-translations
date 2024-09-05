@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-05 13:07
-
 # game/code/d20/d20s03.rpy:56
 translate russian d20s03_0d620d79:
 

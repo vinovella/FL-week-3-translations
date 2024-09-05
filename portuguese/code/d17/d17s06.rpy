@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d17/d17s06.rpy:20
 translate portuguese d17s06_2e4fe018:
 
@@ -105,3 +103,4 @@ translate portuguese strings:
     # game/code/d17/d17s06.rpy:51
     old "Go back to studying"
     new "Voltar a estudar"
+

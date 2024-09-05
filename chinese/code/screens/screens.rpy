@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 translate chinese strings:
 
     # game/code/screens/screens.rpy:258
@@ -362,15 +360,11 @@ translate chinese strings:
     old "Menu"
     new "菜单"
 
-# TODO: Translation updated at 2023-04-18 22:46
-
 translate chinese strings:
 
     # game/code/screens/screens.rpy:1033
     old "Connect Your Toy"
     new "连接玩具"
-
-# TODO: Translation updated at 2024-06-26 17:51
 
 translate chinese strings:
 

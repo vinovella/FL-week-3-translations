@@ -60,8 +60,6 @@ translate malay strings:
     old "Ending #18\nQuartet"
     new "Pengakhiran #18\nKuartet"
 
-# TODO: Translation updated at 2023-05-27 13:19
-
 # game/code/endings.rpy:279
 translate malay ending_not_available_f3f9fce0:
 
@@ -111,3 +109,4 @@ translate malay strings:
     # game/code/endings.rpy:169
     old "Ending #12\nRedhead Resort"
     new "Ending #12\nRedhead Resort"
+

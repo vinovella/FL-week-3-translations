@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d20/d20s07.rpy:76
 translate malay d20s07_96d287b6:
 
@@ -1616,10 +1614,9 @@ translate malay strings:
     old "Go home"
     new "Balik rumah"
 
-# TODO: Translation updated at 2023-02-01 00:18
-
 # game/code/d20/d20s07.rpy:756
 translate malay d20s07_last_show_b9af505f:
 
     # nk "You think they will do that?"
     nk "Kau fikir mereka akan lakukan itu?"
+

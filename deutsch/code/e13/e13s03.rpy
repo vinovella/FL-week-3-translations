@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e13/e13s03.rpy:30
 translate deutsch e13s03_9a2dcee3:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-01-28 10:56
-
 # game/code/e04/e04s06.rpy:21
 translate deutsch e04s06_5cf121d6:
 

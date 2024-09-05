@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-04-23 22:11
-
 # game/code/e06/e06s09.rpy:28
 translate chinese e06s09_c22452ba:
 
@@ -1188,23 +1186,17 @@ translate chinese strings:
     old "Check on Her"
     new "看看她"
 
-# TODO: Translation updated at 2023-04-30 17:23
-
 translate chinese strings:
 
     # game/code/e06/e06s09.rpy:23
     old "Later That Evening"
     new "那天晚上晚些时候"
 
-# TODO: Translation updated at 2023-05-03 19:47
-
 # game/code/e06/e06s09.rpy:479
 translate chinese e06s09_deep_450db347:
 
     # lc "FUCK THAT'S DEEP!"
     lc "啊，好深！"
-
-# TODO: Translation updated at 2023-05-22 21:18
 
 translate chinese strings:
 

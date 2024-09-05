@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-01-19 23:50
-
 translate chinese strings:
 
     # game/code/screens/extended/screens_fl.rpy:32

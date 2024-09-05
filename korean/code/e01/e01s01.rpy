@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/e01/e01s01.rpy:210
 translate korean e01s01_48c97c49:
 

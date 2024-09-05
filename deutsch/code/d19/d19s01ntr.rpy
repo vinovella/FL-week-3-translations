@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d19/d19s01ntr.rpy:21
 translate deutsch d19s01ntr_bef95491:
 
@@ -1073,8 +1071,6 @@ translate deutsch strings:
     # game/code/d19/d19s01ntr.rpy:412
     old "Go Fuck Yourself"
     new "Geh und fick dich selbst"
-
-# TODO: Translation updated at 2024-02-06 16:53
 
 # game/code/d19/d19s01ntr.rpy:424
 translate deutsch d19s01ntr_decision_aeef075e:

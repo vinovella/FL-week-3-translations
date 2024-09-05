@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-03-10 21:05
-
 translate chinese strings:
 
     # game/code/screens/endings.rpy:51
@@ -18,8 +16,6 @@ translate chinese strings:
     old "Play"
     new "开始游戏"
 
-# TODO: Translation updated at 2023-05-16 01:29
-
 translate chinese strings:
 
     # game/code/screens/endings.rpy:64
@@ -33,8 +29,6 @@ translate chinese strings:
     # game/code/screens/endings.rpy:82
     old "Exit to Mainmenu"
     new "退出主菜单"
-
-# TODO: Translation updated at 2024-02-18 11:58
 
 translate chinese strings:
 

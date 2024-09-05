@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 translate deutsch strings:
 
     # game/code/functions.rpy:29
@@ -33,3 +31,4 @@ translate deutsch strings:
     # game/code/functions.rpy:384
     old "You can only select one out of Daisy and Dahlia"
     new "Du kannst nur entweder Daisy oder Dahlia auswählen"
+

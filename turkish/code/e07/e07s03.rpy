@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-02-06 17:03
-
 # game/code/e07/e07s03.rpy:19
 translate turkish e07s03_73111bf2:
 
@@ -1743,3 +1741,4 @@ translate turkish strings:
     # game/code/e07/e07s03.rpy:471
     old "Give it your all!"
     new "Her şeyinizi verin!"
+

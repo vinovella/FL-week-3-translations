@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:46
-
 translate spanish strings:
 
     # game/code/d15/d15s00.rpy:12

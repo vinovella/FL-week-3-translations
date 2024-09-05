@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d19/d19s01ntr.rpy:21
 translate portuguese d19s01ntr_bef95491:
 
@@ -1073,8 +1071,6 @@ translate portuguese strings:
     # game/code/d19/d19s01ntr.rpy:394
     old "Go Fuck Yourself"
     new "Vai Se Foder"
-
-# TODO: Translation updated at 2024-02-06 16:39
 
 # game/code/d19/d19s01ntr.rpy:424
 translate portuguese d19s01ntr_decision_aeef075e:

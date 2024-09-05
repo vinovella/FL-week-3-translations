@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-08 02:51
-
 # game/code/e07/e07s05.rpy:26
 translate deutsch e07s05_eb4dfcb0:
 

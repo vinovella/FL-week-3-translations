@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 translate turkish strings:
 
     # game/code/data/endings.rpy:3
@@ -183,3 +181,4 @@ translate turkish strings:
 
     old "E18 - Quartet"
     new "E18 - Dörtlü"
+

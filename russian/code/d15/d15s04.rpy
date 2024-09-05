@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-12-19 11:46
-
 # game/code/d15/d15s04.rpy:22
 translate russian d15s04_a13bdd91:
 

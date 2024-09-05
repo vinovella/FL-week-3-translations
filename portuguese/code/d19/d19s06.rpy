@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d19/d19s06.rpy:21
 translate portuguese d19s06_417adba7:
 

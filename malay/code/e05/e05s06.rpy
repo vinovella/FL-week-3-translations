@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-07-27 20:54
-
 # game/code/e05/e05s06.rpy:62
 translate malay e05s06_e682e474:
 

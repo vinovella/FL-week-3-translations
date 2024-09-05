@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d19/d19s06mes.rpy:43
 translate chinese d19s06mes_3f591a4b:
 
@@ -1128,15 +1126,11 @@ translate chinese d19s06mes_ac9adf42:
     # mes "I haven't had that much fun since she went into the Pandora room."
     mes "自从她进入潘多拉房间后，我就没这么开心过了。"
 
-# TODO: Translation updated at 2022-11-12 12:59
-
 # game/code/d19/d19s06mes.rpy:477
 translate chinese d19s06mes_6edb2059:
 
     # cl "Oh fuck yes."
     cl "哦，操操操。"
-
-# TODO: Translation updated at 2022-12-13 23:31
 
 # game/code/d19/d19s06mes.rpy:673
 translate chinese d19s06mes_a19ae317:
@@ -1155,3 +1149,4 @@ translate chinese strings:
     # game/code/d19/d19s06mes.rpy:220
     old "Do you want to see watersports?"
     new "你想看水上运动吗?"
+

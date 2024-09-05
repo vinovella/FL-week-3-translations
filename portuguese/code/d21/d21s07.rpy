@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-03-10 21:23
-
 # game/code/d21/d21s07.rpy:44
 translate portuguese d21s07_84c0422b:
 
@@ -1963,3 +1961,4 @@ translate portuguese strings:
     # game/code/d21/d21s07.rpy:624
     old "Let Lydia Down"
     new "Rejeitar Lydia"
+

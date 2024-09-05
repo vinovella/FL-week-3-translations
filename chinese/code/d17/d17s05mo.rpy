@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d17/d17s05mo.rpy:10
 translate chinese d17s05mo_7c42b679:
 
@@ -1133,3 +1131,4 @@ translate chinese d17s05mo_be58e169:
 
     # mh "Well, I'm glad."
     mh "嗯，那就好。"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-08-18 16:13
-
 # game/code/e18/e18s03.rpy:68
 translate turkish e18s03_f9673a39:
 
@@ -1855,3 +1853,4 @@ translate turkish strings:
 # game/code/e18/e18s03.rpy:801
     old "Refuse to do it"
     new "Yapmayı reddet"
+

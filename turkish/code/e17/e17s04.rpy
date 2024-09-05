@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-12-07 21:21
-
 # game/code/e17/e17s04.rpy:54
 translate turkish e17s04_f538fcc5:
 
@@ -1411,3 +1409,4 @@ translate turkish strings:
     # game/code/e17/e17s04.rpy:534
     old "Remain completely submissive"
     new "Tamamen itaatkar kal"
+

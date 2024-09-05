@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 translate korean strings:
 
     # game/code/functions.rpy:251
@@ -30,10 +28,9 @@ translate korean strings:
     old "You can only select one out of Daisy and Dahlia"
     new "데이지와 달리아 중 한 명만 선택할 수 있습니다"
 
-# TODO: Translation updated at 2023-06-15 00:08
-
 translate korean strings:
 
     # game/code/functions.rpy:23
     old "You have unlocked Ending #{}"
     new "You have unlocked Ending #{}"
+

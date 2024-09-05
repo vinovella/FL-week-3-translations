@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-12-30 19:37
-
 # game/code/e10/e10s01.rpy:86
 translate russian e10s01_8b9374ed:
 
@@ -1171,8 +1169,6 @@ translate russian strings:
     # game/code/e10/e10s01.rpy:691
     old "Few minutes later"
     new "Несколько минут спустя"
-
-# TODO: Translation updated at 2023-05-27 13:27
 
 translate russian strings:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:03
-
 # game/code/e05/e05s01.rpy:102
 translate portuguese e05s01_40a7e867:
 
@@ -1881,8 +1879,6 @@ translate portuguese strings:
     # game/code/e05/e05s01.rpy:764
     old "Encourage Lyssa to take Oliver's virginity"
     new "Encorajar Lyssa a tirar a virgindade do Oliver"
-
-# TODO: Translation updated at 2024-07-27 20:57
 
 # game/code/e05/e05s01.rpy:434
 translate portuguese e05s01_7627ed9d:

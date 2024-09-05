@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/e06/e06s08.rpy:100
 translate turkish e06s08_4a8802e8:
 

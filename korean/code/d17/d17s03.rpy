@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/d17/d17s03.rpy:14
 translate korean d17s03_9a6462db:
 

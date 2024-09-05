@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/endings.rpy:279
 translate turkish ending_not_available_f3f9fce0:
 

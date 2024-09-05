@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d19/d19s06.rpy:20
 translate malay d19s06_417adba7:
 
@@ -1035,3 +1033,4 @@ translate malay strings:
     # game/code/d19/d19s06.rpy:396
     old "Both Cynthia and Her Mother"
     new "Cynthia dan Ibunya"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d20/d20s08.rpy:32
 translate portuguese d20s08_b3e81c75:
 
@@ -1505,3 +1503,4 @@ translate portuguese strings:
     # game/code/d20/d20s08.rpy:390
     old "No, I don't want to see that."
     new "Não, eu não quero ver isso."
+

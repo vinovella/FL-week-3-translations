@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-16 23:34
-
 # game/code/endings.rpy:279
 translate chinese ending_not_available_f3f9fce0:
 
@@ -109,3 +107,4 @@ translate chinese strings:
     # game/code/endings.rpy:239
     old "Ending #18\nQuartet"
     new "结局 #18\n四重奏"
+

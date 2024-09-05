@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e06/e06s03.rpy:65
 translate deutsch e06s03_63dc63e8:
 

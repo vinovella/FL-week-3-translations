@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d18/d18s04.rpy:76
 translate turkish d18s04_09dff030:
 

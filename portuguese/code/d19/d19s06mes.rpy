@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d19/d19s06mes.rpy:48
 translate portuguese d19s06mes_3f591a4b:
 
@@ -1133,8 +1131,6 @@ translate portuguese d19s06mes_ac9adf42:
 
     # mes "I haven't had that much fun since she went into the Pandora room."
     mes "Não me diverti tanto assim desde que ela foi no quarto Pandora."
-
-# TODO: Translation updated at 2022-12-13 23:34
 
 # game/code/d19/d19s06mes.rpy:673
 translate portuguese d19s06mes_a19ae317:

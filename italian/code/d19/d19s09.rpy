@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d19/d19s09.rpy:137
 translate italian d19s09_6670f26a:
 

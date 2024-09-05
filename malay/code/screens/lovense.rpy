@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-03 19:39
-
 # game/code/screens/lovense.rpy:141
 translate malay lovense_test_9e0ee773:
 
@@ -102,8 +100,6 @@ translate malay strings:
     old "Please enter your HTTP Port number:"
     new "Sila masukkan nombor Port HTTP anda:"
 
-# TODO: Translation updated at 2023-06-01 02:05
-
 translate malay strings:
 
     # game/code/screens/lovense.rpy:71
@@ -125,8 +121,6 @@ translate malay strings:
     # game/code/screens/lovense.rpy:86
     old "{u}Connect your toy!{/u}"
     new "{u}Connect your toy!{/u}"
-
-# TODO: Translation updated at 2023-07-05 01:09
 
 translate malay strings:
 

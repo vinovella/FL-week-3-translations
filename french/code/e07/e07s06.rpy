@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e07/e07s06.rpy:37
 translate french e07s06_7cbb521d:
 

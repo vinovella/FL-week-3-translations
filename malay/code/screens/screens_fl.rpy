@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:54
@@ -166,8 +164,6 @@ translate malay strings:
     old "SKIP RECAP"
     new "LANGKAUI"
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:199
@@ -250,8 +246,6 @@ translate malay strings:
     old "Did you give the password to her?"
     new "Adakah anda memberikan kata laluan kepadanya?"
 
-# TODO: Translation updated at 2022-11-19 23:16
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:819
@@ -282,8 +276,6 @@ translate malay strings:
     old "Did you give the password to Hana?"
     new "Awak bagi kata laluan pada Hana?"
 
-# TODO: Translation updated at 2023-02-01 00:18
-
 translate malay strings:
 
     # game/code/screens/screens_fl.rpy:40
@@ -293,8 +285,6 @@ translate malay strings:
     # game/code/screens/screens_fl.rpy:46
     old "You haven't unlocked this ending"
     new "Anda belum membuka pengakhiran ini"
-
-# TODO: Translation updated at 2023-05-27 13:19
 
 translate malay strings:
 
@@ -317,7 +307,6 @@ translate malay strings:
     # game/code/screens/screens_fl.rpy:180
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
     new "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
-# TODO: Translation updated at 2024-07-27 20:54
 
 translate malay strings:
 

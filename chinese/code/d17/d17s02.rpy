@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d17/d17s02.rpy:55
 translate chinese d17s02_31459df9:
 
@@ -815,3 +813,4 @@ translate chinese strings:
     # game/code/d17/d17s02.rpy:277
     old "Fuck her"
     new "操她"
+

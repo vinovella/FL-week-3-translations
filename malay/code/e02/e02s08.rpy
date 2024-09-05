@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-01 02:05
-
 # game/code/e02/e02s08.rpy:71
 translate malay e02s08_646c2663:
 
@@ -1593,3 +1591,4 @@ translate malay strings:
     # game/code/e02/e02s08.rpy:415
     old "Be submissive with Lyssa"
     new "Tunduk dengan Lyssa"
+

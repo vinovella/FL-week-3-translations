@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d15/d15s03.rpy:10
 translate malay d15s03_6150bb0b:
 
@@ -905,7 +903,6 @@ translate malay d15s03_end_2263a909:
 
     # pb "Anyway, I am heading out.{w} Later dude."
     pb "Apa-apa pun, aku keluar dulu. {w}Jumpa nanti."
-# TODO: Translation updated at 2022-11-12 13:01
 
 # game/code/d15/d15s03.rpy:251
 translate malay d15s03_middle_eb0418a8:
@@ -918,3 +915,4 @@ translate malay strings:
     # game/code/d15/d15s03.rpy:12
     old "20 minutes later"
     new "20 minit kemudian..."
+

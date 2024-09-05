@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d15/d15s08.rpy:25
 translate chinese d15s08_ac30fa16:
 
@@ -1157,3 +1155,4 @@ translate chinese d15s08_bcfe6e94:
 
     # mct "...zzZZZzzzz..."
     mct "...zzZZZzzzz..."
+

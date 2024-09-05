@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:03
-
 # game/code/e16/e16s05.rpy:73
 translate portuguese e16s05_983ab75e:
 
@@ -1427,8 +1425,6 @@ translate portuguese strings:
     # game/code/e16/e16s05.rpy:555
     old "Do some chokeplay"
     new "Engasgar"
-
-# TODO: Translation updated at 2024-07-27 20:57
 
 # game/code/e16/e16s05.rpy:563
 translate portuguese e16s05_sex_996fd010:

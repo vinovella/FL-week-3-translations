@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/e02/e02s03.rpy:37
 translate italian e02s03_da344b59:
 

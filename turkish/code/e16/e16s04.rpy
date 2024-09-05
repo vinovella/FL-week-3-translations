@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-16 01:07
-
 # game/code/e16/e16s04.rpy:57
 translate turkish e16s04_f0ae4e98:
 
@@ -1143,3 +1141,4 @@ translate turkish strings:
     # game/code/e16/e16s04.rpy:557
     old "Lick Molly's Armpit"
     new "Molly'nin Koltuk Altını Yala"
+

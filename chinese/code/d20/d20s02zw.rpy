@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-12 12:59
-
 # game/code/d20/d20s02zw.rpy:50
 translate chinese d20s02zw_1bbcab10:
 
@@ -963,3 +961,4 @@ translate chinese strings:
     # game/code/d20/d20s02zw.rpy:199
     old "Go to Lyssa and Zarah"
     new "去找丽莎和萨拉"
+

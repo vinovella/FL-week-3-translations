@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-08-24 12:18
-
 # game/code/d19/d19s06.rpy:20
 translate russian d19s06_417adba7:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-18 16:36
-
 # game/code/e15/e15s04.rpy:66
 translate russian replay_e15s04_f0846ef5:
 

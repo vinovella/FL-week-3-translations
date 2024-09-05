@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 translate chinese strings:
 
     # game/code/options.rpy:15

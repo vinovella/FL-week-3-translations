@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d19/d19s09.rpy:124
 translate malay d19s09_6670f26a:
 
@@ -928,8 +926,6 @@ translate malay strings:
     old "Switch"
     new "Tukar"
 
-# TODO: Translation updated at 2023-02-01 00:18
-
 # game/code/d19/d19s09.rpy:988
 translate malay d19s09_end_8a44ad0b:
 
@@ -941,3 +937,4 @@ translate malay d19s09_end_9cc11ce7:
 
     # sy "It's... actually kinda interesting. Whoever built it wasn't completely dumb."
     sy "Ianya... {w}agak menarik. Siapa yang membinanya bukanlah sebodoh mana..."
+

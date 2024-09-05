@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-01-28 10:53
-
 # game/code/e04/e04s06.rpy:21
 translate malay e04s06_5cf121d6:
 
@@ -1683,3 +1681,4 @@ translate malay strings:
     # game/code/e04/e04s06.rpy:643
     old "No need. I proved my point."
     new "Tak perlu. Aku dah buktikan maksud aku."
+

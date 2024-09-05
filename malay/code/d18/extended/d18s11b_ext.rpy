@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-02-01 00:18
-
 # game/code/d18/extended/d18s11b_ext.rpy:57
 translate malay d18s11b_ext_c207e5d0:
 
@@ -1167,3 +1165,4 @@ translate malay strings:
     # game/code/d18/extended/d18s11b_ext.rpy:387
     old "Just Fuck Her Ass"
     new "Kongkek Bontotnya Sahaja"
+

@@ -1,5 +1,3 @@
-# TODO: Please reinvite me on ViNovella's Discord server: skyejordan666
-
 # game/code/e01/e01s01.rpy:209
 translate malay e01s01_48c97c49:
 
@@ -1675,3 +1673,4 @@ translate malay strings:
     # game/code/e01/e01s01.rpy:1802
     old "Let's finish this"
     new "Mari kita selesaikan ini"
+

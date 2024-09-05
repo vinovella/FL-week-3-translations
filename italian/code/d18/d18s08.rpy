@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d18/d18s08.rpy:10
 translate italian d18s08_2004fe1c:
 

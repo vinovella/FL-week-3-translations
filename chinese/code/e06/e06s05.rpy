@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-04-30 17:23
-
 # game/code/e06/e06s05.rpy:25
 translate chinese e06s05_2357bc1b:
 

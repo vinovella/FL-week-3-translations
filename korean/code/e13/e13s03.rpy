@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/e13/e13s03.rpy:30
 translate korean e13s03_9a2dcee3:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d17/d17s01.rpy:60
 translate deutsch d17s01_918de26a:
 
@@ -1721,7 +1719,6 @@ translate deutsch d17s01_end_c1108e29:
 
     # mc "You're telling me."
     mc "Das sagst du mir."
-
 
 translate deutsch strings:
 

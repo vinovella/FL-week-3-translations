@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-06 14:06
-
 # game/code/e06/e06s06.rpy:20
 translate chinese e06s06_820294b7:
 
@@ -1245,8 +1243,6 @@ translate chinese strings:
     # game/code/e06/e06s06.rpy:656
     old "Fuck Lyssa while she fucks AmRose"
     new "在丽莎操爱洛丝的时候操她"
-
-# TODO: Translation updated at 2023-05-21 16:02
 
 # game/code/e06/e06s06.rpy:149
 translate chinese e06s06_d14a3c55:

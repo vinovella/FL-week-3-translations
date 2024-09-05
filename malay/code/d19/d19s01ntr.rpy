@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d19/d19s01ntr.rpy:19
 translate malay d19s01ntr_bef95491:
 
@@ -1073,7 +1071,6 @@ translate malay strings:
     # game/code/d19/d19s01ntr.rpy:287
     old "Go Fuck Yourself"
     new "Pergi Mampus"
-# TODO: Translation updated at 2024-02-06 17:01
 
 # game/code/d19/d19s01ntr.rpy:424
 translate malay d19s01ntr_decision_aeef075e:

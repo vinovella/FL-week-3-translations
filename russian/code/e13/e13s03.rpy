@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-08-06 21:12
-
 # game/code/e13/e13s03.rpy:30
 translate russian e13s03_9a2dcee3:
 

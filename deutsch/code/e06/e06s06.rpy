@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e06/e06s06.rpy:90
 translate deutsch e06s06_820294b7:
 

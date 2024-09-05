@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-09-28 22:45
-
 # game/code/e14/e14s07.rpy:63
 translate italian e14s07_c3ba4728:
 

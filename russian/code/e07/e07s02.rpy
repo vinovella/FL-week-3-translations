@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-09 23:58
-
 # game/code/e07/e07s02.rpy:60
 translate russian e07s02_42fc7010:
 
@@ -1189,3 +1187,4 @@ translate russian strings:
     # game/code/e07/e07s02.rpy:557
     old "Accept"
     new "Accept"
+

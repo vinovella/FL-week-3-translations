@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-01-25 23:47
-
 # game/code/e04/e04s07.rpy:17
 translate malay e04s07_0939b90e:
 
@@ -2101,3 +2099,4 @@ translate malay strings:
     # game/code/e04/e04s07.rpy:984
     old "Don't piss on Prisoner 001"
     new "Jangan kencing pada Banduan 001"
+

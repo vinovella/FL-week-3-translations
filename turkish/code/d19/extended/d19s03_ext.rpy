@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d19/extended/d19s03_ext.rpy:65
 translate turkish d19s03_ext_3960feb0:
 

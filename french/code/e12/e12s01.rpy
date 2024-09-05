@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e12/e12s01.rpy:101
 translate french e12s01_f612d9b5:
 

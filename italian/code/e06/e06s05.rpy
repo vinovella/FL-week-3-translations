@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/e06/e06s05.rpy:85
 translate italian e06s05_2357bc1b:
 

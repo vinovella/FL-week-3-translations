@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-08 02:44
-
 # game/code/e07/e07s04.rpy:19
 translate malay e07s04_13ff1a58:
 
@@ -1059,3 +1057,4 @@ translate malay strings:
     # game/code/e07/e07s04.rpy:95
     old "Volunteer"
     new "Volunteer"
+

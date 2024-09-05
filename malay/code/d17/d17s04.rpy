@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-04-16 20:02
-
 # game/code/d17/d17s04.rpy:45
 translate malay d17s04_e9a933c1:
 
@@ -1234,10 +1232,9 @@ translate malay strings:
     old "Refuse"
     new "Tolak"
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 translate malay strings:
 
     # game/code/d17/d17s04.rpy:43
     old "After a short journey by bus"
     new "Selepas perjalanan singkat dengan bas"
+

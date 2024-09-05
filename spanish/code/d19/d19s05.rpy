@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/d19/d19s05.rpy:59
 translate spanish d19s05_57a1032f:
 

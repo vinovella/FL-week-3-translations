@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-03-27 12:31
-
 translate chinese strings:
 
     # game/code/e01/e01_screen.rpy:10

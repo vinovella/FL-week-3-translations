@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-05 14:57
-
 # game/code/d18/d18s09.rpy:35
 translate russian d18s09_71d88fc7:
 
@@ -1035,8 +1033,6 @@ translate russian strings:
     # game/code/d18/d18s09.rpy:176
     old "Leave Her Wanting More"
     new "Оставить ее желать большего"
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 # game/code/d18/d18s09.rpy:213
 translate russian d18s09_continue_89a01f3b:

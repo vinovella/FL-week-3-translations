@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-03-10 21:05
-
 # game/code/d21/d21s07.rpy:44
 translate chinese d21s07_84c0422b:
 

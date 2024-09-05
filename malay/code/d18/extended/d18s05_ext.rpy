@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-02-01 00:18
-
 # game/code/d18/extended/d18s05_ext.rpy:63
 translate malay d18s05_ext_0d9b52ab:
 
@@ -701,7 +699,6 @@ translate malay strings:
     # game/code/d18/extended/d18s05_ext.rpy:213
     old "Fuck Samiya"
     new "Kongkek Samiya"
-# TODO: Translation updated at 2024-07-27 20:54
 
 # game/code/d18/extended/d18s05_ext.rpy:618
 translate malay d18s05_after_sex_ec16ba99:

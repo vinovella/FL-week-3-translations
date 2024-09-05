@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/e02/e02s02.rpy:30
 translate turkish e02s02_08635dd6:
 

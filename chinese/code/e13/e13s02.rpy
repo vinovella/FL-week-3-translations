@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/e13/e13s02.rpy:81
 translate chinese e13s02_0ccad110:
 
@@ -363,8 +361,6 @@ translate chinese strings:
     # game/code/e13/e13s02.rpy:240
     old "Fuck Her Anally"
     new "操她的肛门"
-
-# TODO: Translation updated at 2024-06-26 17:51
 
 # game/code/e13/e13s02.rpy:86
 translate chinese e13s02_e5e5853b:

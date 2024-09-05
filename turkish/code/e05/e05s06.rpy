@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-16 01:07
-
 # game/code/e05/e05s06.rpy:62
 translate turkish e05s06_e682e474:
 
@@ -1343,3 +1341,4 @@ translate turkish e05s06_sex_b85a48e2:
 
     # mh "Mmmkay..."
     mh "Mmmkay..."
+

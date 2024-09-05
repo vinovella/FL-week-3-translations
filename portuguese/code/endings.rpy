@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-16 23:37
-
 # game/code/endings.rpy:279
 translate portuguese ending_not_available_f3f9fce0:
 
@@ -105,3 +103,4 @@ translate portuguese strings:
     # game/code/endings.rpy:239
     old "Ending #18\nQuartet"
     new "Final #18\nQuarteto"
+

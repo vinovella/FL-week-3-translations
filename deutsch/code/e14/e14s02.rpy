@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-09-28 22:50
-
 # game/code/e14/e14s02.rpy:21
 translate deutsch e14s02_4e897067:
 

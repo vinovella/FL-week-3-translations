@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e10/e10s04.rpy:21
 translate deutsch e10s04_b53797f0:
 

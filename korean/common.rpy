@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-10 00:49
-
 translate korean strings:
 
     # renpy/common/00accessibility.rpy:120
@@ -1201,7 +1199,6 @@ translate korean strings:
     # renpy/common/_errorhandling.rpym:782
     old "Parsing the script failed."
     new "Parsing the script failed."
-# TODO: Translation updated at 2024-07-27 20:53
 
 translate korean strings:
 

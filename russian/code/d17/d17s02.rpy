@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-06 10:42
-
 # game/code/d17/d17s02.rpy:52
 translate russian d17s02_31459df9:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/d15/extended/d15s05b_ext.rpy:65
 translate spanish d15s05b_ext_247f8221:
 

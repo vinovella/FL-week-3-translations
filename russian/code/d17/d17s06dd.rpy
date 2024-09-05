@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-06 10:42
-
 # game/code/d17/d17s06dd.rpy:41
 translate russian d17s06dd_10938193:
 

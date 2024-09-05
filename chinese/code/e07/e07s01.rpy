@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-08 02:40
-
 # game/code/e07/e07s01.rpy:55
 translate chinese e07s01_4eb8b392:
 

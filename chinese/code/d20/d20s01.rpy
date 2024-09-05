@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-12 12:59
-
 # game/code/d20/d20s01.rpy:20
 translate chinese d20s01_ab231225:
 
@@ -567,3 +565,4 @@ translate chinese strings:
     # game/code/d20/d20s01.rpy:113
     old "Do you want Stacy to pee on you?"
     new "你想让史黛西在你身上撒尿吗？"
+

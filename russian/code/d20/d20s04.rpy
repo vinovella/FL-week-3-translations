@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-05 13:07
-
 # game/code/d20/d20s04.rpy:25
 translate russian d20s04_63ba38f0:
 
@@ -1379,8 +1377,6 @@ translate russian strings:
     # game/code/d20/d20s04.rpy:422
     old "Lie"
     new "Солгать"
-
-# TODO: Translation updated at 2022-12-30 19:37
 
 # game/code/d20/d20s04.rpy:125
 translate russian d20s04_tl_6c03c880:

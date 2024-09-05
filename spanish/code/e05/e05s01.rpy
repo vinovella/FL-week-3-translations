@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:02
-
 # game/code/e05/e05s01.rpy:102
 translate spanish e05s01_40a7e867:
 
@@ -1881,8 +1879,6 @@ translate spanish strings:
     # game/code/e05/e05s01.rpy:764
     old "Encourage Lyssa to take Oliver's virginity"
     new "Anima a Lyssa a quitarle la virginidad a Oliver."
-
-# TODO: Translation updated at 2024-07-27 20:56
 
 # game/code/e05/e05s01.rpy:434
 translate spanish e05s01_7627ed9d:

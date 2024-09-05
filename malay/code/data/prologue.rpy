@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 translate malay strings:
 
     # game/code/data/prologue.rpy:16
@@ -114,10 +112,9 @@ translate malay strings:
     old "adult magazines"
     new "majalah dewasa"
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 translate malay strings:
 
     # game/code/data/prologue.rpy:16
     old "Polly & Nora"
     new "Polly Dan Nora"
+

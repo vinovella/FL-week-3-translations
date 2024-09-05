@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d20/d20s04.rpy:27
 translate malay d20s04_63ba38f0:
 
@@ -1440,8 +1438,6 @@ translate malay strings:
     old "Lie"
     new "Tipu"
 
-# TODO: Translation updated at 2023-02-01 00:18
-
 # game/code/d20/d20s04.rpy:598
 translate malay d20s04_zw_wrong_6a261f5c:
 
@@ -1459,3 +1455,4 @@ translate malay strings:
     # game/code/d20/d20s04.rpy:545
     old "She was just visiting."
     new "Dia hanya melawat."
+

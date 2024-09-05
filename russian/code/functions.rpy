@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-12-19 11:46
-
 translate russian strings:
 
     # game/code/functions.rpy:107
@@ -22,8 +20,6 @@ translate russian strings:
     old "The game will try to replay the scene according to your current playthrough"
     new "Повтор будет воспроизведен как в вашем последнем прохождении"
 
-# TODO: Translation updated at 2022-01-31 15:43
-
 translate russian strings:
 
     # game/code/functions.rpy:221
@@ -34,10 +30,9 @@ translate russian strings:
     old "You can only select one out of Daisy and Dahlia"
     new "Вы можете выбрать только одну между Дейзи и Далией."
 
-# TODO: Translation updated at 2023-06-15 00:05
-
 translate russian strings:
 
     # game/code/functions.rpy:23
     old "You have unlocked Ending #{}"
     new "Вы разблокировали концовку #{}"
+

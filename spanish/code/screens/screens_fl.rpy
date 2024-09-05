@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:46
-
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:54
@@ -230,8 +228,6 @@ translate spanish strings:
     old "Skip Recap\nof Week-2"
     new "Omitir resumen\nde la semana 2"
 
-# TODO: Translation updated at 2023-05-27 13:26
-
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:265
@@ -242,15 +238,11 @@ translate spanish strings:
     old "Close the game"
     new "Cerrar el juego"
 
-# TODO: Translation updated at 2023-07-11 12:14
-
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:180
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
     new "Si decides continuar, es posible que no puedas cargar los guardados de la Semana 2. No se te volverá a informar. ¿Estás seguro?"
-
-# TODO: Translation updated at 2024-07-27 20:56
 
 translate spanish strings:
 

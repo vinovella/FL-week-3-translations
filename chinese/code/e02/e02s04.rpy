@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-13 23:02
-
 # game/code/e02/e02s04.rpy:12
 translate chinese e02s04_fa7cdc9b:
 
@@ -1535,3 +1533,4 @@ translate chinese strings:
     # game/code/e02/e02s04.rpy:532
     old "One shower later"
     new "冲澡后"
+

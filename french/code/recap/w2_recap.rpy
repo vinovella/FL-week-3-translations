@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/recap/w2_recap.rpy:109
 translate french week_2_recap_6e162b80:
 

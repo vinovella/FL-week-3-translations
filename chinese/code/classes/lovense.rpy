@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-21 16:02
-
 translate chinese strings:
 
     # game/code/classes/lovense.rpy:50

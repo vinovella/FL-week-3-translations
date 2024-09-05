@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-03-27 12:24
-
 # game/code/e08/e08s03.rpy:35
 translate portuguese e08s03_33275fb1:
 

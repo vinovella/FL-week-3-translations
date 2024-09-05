@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-05 14:57
-
 # game/code/d18/d18s08.rpy:9
 translate russian d18s08_2004fe1c:
 

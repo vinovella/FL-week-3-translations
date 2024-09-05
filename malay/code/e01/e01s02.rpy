@@ -1,5 +1,3 @@
-# TODO: Please reinvite me on ViNovella's Discord server: skyejordan666
-
 # game/code/e01/e01s02.rpy:16
 translate malay e01s02_fd8d44aa:
 
@@ -804,8 +802,6 @@ translate malay strings:
     old "At Subway Station"
     new "Di Stesen Kereta Api Bawah Tanah"
 
-# TODO: Translation updated at 2023-05-27 13:19
-
 translate malay strings:
 
     # game/code/e01/e01s02.rpy:400
@@ -819,3 +815,4 @@ translate malay strings:
     # game/code/e01/e01s02.rpy:402
     old "In Fetish Locator: S&M Studio!"
     new "Dalam {w}Fetish Locator: Studio S&M!"
+

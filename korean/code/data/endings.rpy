@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:47
-
 translate korean strings:
 
     # game/code/data/endings.rpy:3
@@ -183,3 +181,4 @@ translate korean strings:
 
     old "E18 - Quartet"
     new "E18 - Quartet"
+

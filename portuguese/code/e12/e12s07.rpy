@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:47
-
 # game/code/e12/e12s07.rpy:67
 translate portuguese e12s07_7d11eb9b:
 

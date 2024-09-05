@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-16 01:29
-
 translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
@@ -364,3 +362,4 @@ translate chinese strings:
     # game/code/data/extended/extra_gallery.rpy:715
     old "APPY"
     new "积极愉快"
+

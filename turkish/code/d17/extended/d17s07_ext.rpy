@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d17/extended/d17s07_ext.rpy:54
 translate turkish d17s07_ext_360a8ee5:
 

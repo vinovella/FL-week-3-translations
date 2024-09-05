@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-06-26 17:51
-
 # game/code/e16/e16s02.rpy:23
 translate chinese e16s02_051f13c5:
 

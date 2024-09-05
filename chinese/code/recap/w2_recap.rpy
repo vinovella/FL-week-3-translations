@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-20 02:53
-
 # game/code/recap/w2_recap.rpy:108
 translate chinese week_2_recap_6e162b80:
 
@@ -1601,3 +1599,4 @@ translate chinese strings:
     # game/code/recap/w2_recap.rpy:100
     old "Recap of Week-2 Events"
     new "第二周前情回顾"
+

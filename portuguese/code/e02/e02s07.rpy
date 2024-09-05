@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-13 23:03
-
 # game/code/e02/e02s07.rpy:15
 translate portuguese e02s07_c14c10e0:
 
@@ -1665,3 +1663,4 @@ translate portuguese strings:
     # game/code/e02/e02s07.rpy:448
     old "Let Lyssa Fuck You Instead"
     new "Deixar Lyssa te Foder ao Invés Disso"
+

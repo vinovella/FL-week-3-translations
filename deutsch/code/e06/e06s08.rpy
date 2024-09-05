@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e06/e06s08.rpy:100
 translate deutsch e06s08_4a8802e8:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:03
-
 # game/code/e16/e16s04.rpy:57
 translate portuguese e16s04_f0ae4e98:
 
@@ -1137,8 +1135,6 @@ translate portuguese strings:
     # game/code/e16/e16s04.rpy:557
     old "Lick Molly's Armpit"
     new "Lamber a Axila da Molly"
-
-# TODO: Translation updated at 2024-07-27 20:57
 
 # game/code/e16/e16s04.rpy:622
 translate portuguese e16s04_sex_f1d18fba:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e14/e14s07.rpy:63
 translate french e14s07_c3ba4728:
 

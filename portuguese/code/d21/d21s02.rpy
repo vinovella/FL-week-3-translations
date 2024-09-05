@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-03-10 21:23
-
 # game/code/d21/d21s02.rpy:26
 translate portuguese d21s02_3a53d660:
 

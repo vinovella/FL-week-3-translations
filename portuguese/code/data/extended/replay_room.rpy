@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -69,8 +67,6 @@ translate portuguese strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 16: Spinning Chair"
     new "Dia 16: Cadeira Giratória"
-
-# TODO: Translation updated at 2022-12-13 23:34
 
 translate portuguese strings:
 
@@ -274,15 +270,11 @@ translate portuguese strings:
     old "Ending 10: Min & Nari"
     new "Final 10: Min & Nari"
 
-# TODO: Translation updated at 2022-12-26 00:31
-
 translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 10: Montage"
     new "Final 10: Montagem"
-
-# TODO: Translation updated at 2023-04-30 17:16
 
 translate portuguese strings:
 
@@ -317,8 +309,6 @@ translate portuguese strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 08: Pregnant AmRose"
     new "Final 08: AmRose Grávida"
-
-# TODO: Translation updated at 2023-05-16 23:37
 
 translate portuguese strings:
 
@@ -366,8 +356,6 @@ translate portuguese strings:
     old "Ending 06: Lydia"
     new "Final 06: Lydia"
 
-# TODO: Translation updated at 2023-09-28 22:47
-
 translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:123
@@ -381,8 +369,6 @@ translate portuguese strings:
     # game/code/data/extended/replay_room.rpy:138
     old "Ending 14: Polly, Nora & Debbie"
     new "Final 14: Polly, Nora & Debbie"
-
-# TODO: Translation updated at 2023-12-07 21:18
 
 translate portuguese strings:
 
@@ -401,8 +387,6 @@ translate portuguese strings:
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Pregnant Dahlia"
     new "Ending 17: Dahlia Grávida"
-
-# TODO: Translation updated at 2024-02-08 02:38
 
 translate portuguese strings:
 
@@ -454,8 +438,6 @@ translate portuguese strings:
     old "Ending 07: Lydia & AmRose"
     new "Final 07: Lydia & AmRose"
 
-# TODO: Translation updated at 2024-05-05 22:03
-
 translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:103
@@ -481,8 +463,6 @@ translate portuguese strings:
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 16: Jessie, Molly, Sage & Kristen"
     new ""
-
-# TODO: Translation updated at 2024-08-18 16:35
 
 translate portuguese strings:
 

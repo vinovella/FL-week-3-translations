@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d18/d18s03.rpy:68
 translate portuguese d18s03_ec5dba5c:
 
@@ -1751,3 +1749,4 @@ translate portuguese strings:
     # game/code/d18/d18s03.rpy:996
     old "No. Definitely NOT"
     new "Não. Definitivamente NÃO"
+

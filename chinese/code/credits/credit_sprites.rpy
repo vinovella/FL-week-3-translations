@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-09-14 03:08
-
 translate chinese strings:
 
     # game/code/credit_sprites.rpy:29
@@ -65,3 +63,4 @@ translate chinese strings:
     # game/code/credits/credit_sprites.rpy:112
     old "Special Thanks -"
     new "特别感谢 -"
+

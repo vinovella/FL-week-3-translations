@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/e08/e08s01.rpy:84
 translate korean e08s01_40e3b63d:
 

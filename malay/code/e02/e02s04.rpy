@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-01 02:05
-
 # game/code/e02/e02s04.rpy:16
 translate malay e02s04_fa7cdc9b:
 
@@ -1535,3 +1533,4 @@ translate malay strings:
     # game/code/e02/e02s04.rpy:602
     old "One shower later"
     new "Satu mandian kemudiannya"
+

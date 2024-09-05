@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/endings.rpy:237
 translate deutsch ending_not_available_f3f9fce0:
 

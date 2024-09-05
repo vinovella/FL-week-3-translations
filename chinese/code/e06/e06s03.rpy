@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-04-18 22:46
-
 # game/code/e06/e06s03.rpy:12
 translate chinese e06s03_63dc63e8:
 
@@ -1883,8 +1881,6 @@ translate chinese strings:
     # game/code/e06/e06s03.rpy:237
     old "A few minutes and strange instructions later."
     new "几分钟后，奇怪的指示。"
-
-# TODO: Translation updated at 2023-04-30 17:23
 
 translate chinese strings:
 

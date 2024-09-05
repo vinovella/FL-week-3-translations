@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-16 01:07
-
 # game/code/e05/e05s05.rpy:43
 translate turkish e05s05_c0c794a2:
 
@@ -1071,3 +1069,4 @@ translate turkish strings:
     # game/code/e05/e05s05.rpy:92
     old "In the Suit Store"
     new "Takım Elbise Mağazasında"
+

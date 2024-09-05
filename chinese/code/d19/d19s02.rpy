@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d19/d19s02.rpy:17
 translate chinese d19s02_0c7b4226:
 
@@ -766,8 +764,6 @@ translate chinese strings:
     old "Go to her"
     new "去找她"
 
-# TODO: Translation updated at 2022-12-06 22:18
-
 # game/code/d19/d19s02.rpy:541
 translate chinese d19s02_d138a5d3:
 
@@ -779,3 +775,4 @@ translate chinese d19s02_b0400d74:
 
     # mct "I'll be there"
     mct "我会去的"
+

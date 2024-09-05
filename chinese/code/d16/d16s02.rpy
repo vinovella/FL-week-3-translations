@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d16/d16s02.rpy:31
 translate chinese d16s02_0eb8c9ee:
 

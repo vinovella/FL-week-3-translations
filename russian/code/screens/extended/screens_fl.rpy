@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-08-06 21:12
-
 translate russian strings:
 
     # game/code/screens/extended/screens_fl.rpy:23
@@ -17,8 +15,6 @@ translate russian strings:
     # game/code/screens/extended/screens_fl.rpy:46
     old "Page [page]"
     new "Страница [page]"
-
-# TODO: Translation updated at 2022-12-30 19:37
 
 translate russian strings:
 

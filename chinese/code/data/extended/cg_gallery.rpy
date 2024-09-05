@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -65,8 +63,6 @@ translate chinese strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 13: Pregnant Nora"
     new "结局13：怀孕的诺拉"
-
-# TODO: Translation updated at 2023-01-19 23:50
 
 translate chinese strings:
 
@@ -162,8 +158,6 @@ translate chinese strings:
     old "Ending 10: Min"
     new "结局10: 明"
 
-# TODO: Translation updated at 2023-05-20 23:18
-
 translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -198,8 +192,6 @@ translate chinese strings:
     old "Ending 08: AmRose & Stacy"
     new "结局08:爱洛丝和史黛西"
 
-# TODO: Translation updated at 2023-09-28 22:49
-
 translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:94
@@ -209,8 +201,6 @@ translate chinese strings:
     # game/code/data/extended/cg_gallery.rpy:103
     old "Ending 14: Polly & Nora"
     new "结局14:波莉和诺拉"
-
-# TODO: Translation updated at 2023-12-07 21:11
 
 translate chinese strings:
 
@@ -222,8 +212,6 @@ translate chinese strings:
     old "Ending 17: Dahlia"
     new "结局17:黛丽娅"
 
-# TODO: Translation updated at 2024-02-09 23:39
-
 translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:75
@@ -233,8 +221,6 @@ translate chinese strings:
     # game/code/data/extended/cg_gallery.rpy:85
     old "Ending 07: Girls"
     new "结局07:女孩们"
-
-# TODO: Translation updated at 2024-06-26 17:51
 
 translate chinese strings:
 
@@ -249,8 +235,6 @@ translate chinese strings:
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Farm Animals"
     new "结局16：农场动物"
-
-# TODO: Translation updated at 2024-08-15 13:10
 
 translate chinese strings:
 

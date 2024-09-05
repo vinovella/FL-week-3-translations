@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-07-27 20:51
-
 # game/code/e16/e16s05.rpy:73
 translate deutsch e16s05_983ab75e:
 

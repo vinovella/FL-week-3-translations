@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/d20/d20s04.rpy:31
 translate spanish d20s04_63ba38f0:
 
@@ -1450,3 +1448,4 @@ translate spanish strings:
     # game/code/d20/d20s04.rpy:545
     old "She was just visiting."
     new "Ella sólo estaba de visita"
+

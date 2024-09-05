@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-01-28 10:50
-
 # game/code/e04/e04s06.rpy:21
 translate turkish e04s06_5cf121d6:
 
@@ -1683,3 +1681,4 @@ translate turkish strings:
     # game/code/e04/e04s06.rpy:643
     old "No need. I proved my point."
     new "Gerek yok. Demek istediğimi kanıtladım."
+

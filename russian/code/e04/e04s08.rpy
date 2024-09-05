@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-09 23:58
-
 # game/code/e04/e04s08.rpy:20
 translate russian e04s08_42cc5e2a:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-12-30 19:37
-
 # game/code/d18/extended/d18s05_ext.rpy:63
 translate russian d18s05_ext_0d9b52ab:
 
@@ -701,8 +699,6 @@ translate russian strings:
     # game/code/d18/extended/d18s05_ext.rpy:213
     old "Fuck Samiya"
     new "Трахнуть Самию"
-
-# TODO: Translation updated at 2024-07-27 20:55
 
 # game/code/d18/extended/d18s05_ext.rpy:618
 translate russian d18s05_after_sex_ec16ba99:

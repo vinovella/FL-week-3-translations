@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d20/d20s03.rpy:56
 translate malay d20s03_0d620d79:
 
@@ -1291,3 +1289,4 @@ translate malay strings:
     # game/code/d20/d20s03.rpy:295
     old "I thought about it. The answer is no."
     new "Aku dah fikirkannya. Jawapannya tak."
+

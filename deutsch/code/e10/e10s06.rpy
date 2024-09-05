@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e10/e10s06.rpy:56
 translate deutsch e10s06_4379716e:
 

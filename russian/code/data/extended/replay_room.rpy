@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-08-06 21:12
-
 translate russian strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -69,8 +67,6 @@ translate russian strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Day 16: Spinning Chair"
     new "День 16: Вращающийся стул"
-
-# TODO: Translation updated at 2022-12-30 19:37
 
 translate russian strings:
 
@@ -238,8 +234,6 @@ translate russian strings:
     old "Ending 10: Min & Nari"
     new "Концовка 10: Мин и Нари"
 
-# TODO: Translation updated at 2023-05-27 13:27
-
 translate russian strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -302,8 +296,6 @@ translate russian strings:
     old "Ending 08: Pregnant AmRose"
     new "Ending 08: Pregnant AmRose"
 
-# TODO: Translation updated at 2023-09-28 22:53
-
 translate russian strings:
 
     # game/code/data/extended/replay_room.rpy:123
@@ -317,8 +309,6 @@ translate russian strings:
     # game/code/data/extended/replay_room.rpy:138
     old "Ending 14: Polly, Nora & Debbie"
     new "Ending 14: Polly, Nora & Debbie"
-
-# TODO: Translation updated at 2023-12-07 21:19
 
 translate russian strings:
 
@@ -337,8 +327,6 @@ translate russian strings:
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Pregnant Dahlia"
     new "Ending 17: Pregnant Dahlia"
-
-# TODO: Translation updated at 2024-02-08 02:42
 
 translate russian strings:
 
@@ -390,8 +378,6 @@ translate russian strings:
     old "Ending 07: Lydia & AmRose"
     new "Ending 07: Lydia & AmRose"
 
-# TODO: Translation updated at 2024-07-27 20:55
-
 translate russian strings:
 
     # game/code/data/extended/replay_room.rpy:103
@@ -417,8 +403,6 @@ translate russian strings:
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie, Molly, Sage & Kristen"
     new "Ending 16: Jessie, Molly, Sage & Kristen"
-
-# TODO: Translation updated at 2024-08-18 16:36
 
 translate russian strings:
 

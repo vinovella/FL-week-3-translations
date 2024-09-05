@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/e10/e10s06.rpy:56
 translate spanish e10s06_4379716e:
 
@@ -359,3 +357,4 @@ translate spanish strings:
     # game/code/e10/e10s06.rpy:46
     old "Few months later"
     new "Unos meses después"
+

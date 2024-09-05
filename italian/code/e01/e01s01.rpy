@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/e01/e01s01.rpy:210
 translate italian e01s01_48c97c49:
 

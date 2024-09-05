@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:03
-
 # game/code/e05/e05s04.rpy:61
 translate portuguese e05s04_0fae8f37:
 
@@ -1389,8 +1387,6 @@ translate portuguese strings:
     # game/code/e05/e05s04.rpy:526
     old "Tell him he has something on his chin"
     new "Falar que ele tem algo no queixo"
-
-# TODO: Translation updated at 2024-07-27 20:57
 
 # game/code/e05/e05s04.rpy:205
 translate portuguese e05s04_659af4e7:

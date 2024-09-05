@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/e13/e13s04.rpy:47
 translate chinese e13s04_b0f568c1:
 
@@ -216,15 +214,11 @@ translate chinese strings:
     old "One year later"
     new "一年后"
 
-# TODO: Translation updated at 2023-05-22 21:18
-
 translate chinese strings:
 
     # game/code/e13/e13s04.rpy:274
     old "You have finished playing ending number 13!"
     new "你已经完成了第13个结局！"
-
-# TODO: Translation updated at 2024-06-26 17:51
 
 # game/code/e13/e13s04.rpy:179
 translate chinese replay_e13s04_4ae8355d:

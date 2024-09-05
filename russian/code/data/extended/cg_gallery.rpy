@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-08-06 21:12
-
 translate russian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -65,8 +63,6 @@ translate russian strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 13: Pregnant Nora"
     new "Финал 13: Беременная Нора"
-
-# TODO: Translation updated at 2022-12-30 19:37
 
 translate russian strings:
 
@@ -154,8 +150,6 @@ translate russian strings:
     old "Ending 10: Min"
     new "Концовка 10: Мин"
 
-# TODO: Translation updated at 2023-05-27 13:27
-
 translate russian strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -206,8 +200,6 @@ translate russian strings:
     old "Ending 08: AmRose & Stacy"
     new "Концовка 08: АмРоуз и Стейси"
 
-# TODO: Translation updated at 2023-09-28 22:53
-
 translate russian strings:
 
     # game/code/data/extended/cg_gallery.rpy:94
@@ -217,8 +209,6 @@ translate russian strings:
     # game/code/data/extended/cg_gallery.rpy:103
     old "Ending 14: Polly & Nora"
     new "Ending 14: Polly & Nora"
-
-# TODO: Translation updated at 2023-12-07 21:19
 
 translate russian strings:
 
@@ -230,8 +220,6 @@ translate russian strings:
     old "Ending 17: Dahlia"
     new "Ending 17: Dahlia"
 
-# TODO: Translation updated at 2024-02-09 23:58
-
 translate russian strings:
 
     # game/code/data/extended/cg_gallery.rpy:75
@@ -241,8 +229,6 @@ translate russian strings:
     # game/code/data/extended/cg_gallery.rpy:85
     old "Ending 07: Girls"
     new "Ending 07: Girls"
-
-# TODO: Translation updated at 2024-07-27 20:55
 
 translate russian strings:
 
@@ -257,8 +243,6 @@ translate russian strings:
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Farm Animals"
     new "Ending 16: Farm Animals"
-
-# TODO: Translation updated at 2024-08-18 16:36
 
 translate russian strings:
 

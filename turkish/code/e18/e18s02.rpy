@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-08-18 16:13
-
 # game/code/e18/e18s02.rpy:22
 translate turkish e18s02_c0e6955f:
 
@@ -1151,3 +1149,4 @@ translate turkish e18s02_apartment_7fd3a623:
 
     # mc "Yes, Mistress."
     mc "Evet, Hanımefendi."
+

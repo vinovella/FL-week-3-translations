@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-12-30 19:37
-
 translate russian strings:
 
     # game/code/screens/extended/screens.rpy:20

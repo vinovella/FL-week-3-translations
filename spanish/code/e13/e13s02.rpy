@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/e13/e13s02.rpy:83
 translate spanish e13s02_0ccad110:
 
@@ -363,8 +361,6 @@ translate spanish strings:
     # game/code/e13/e13s02.rpy:263
     old "Fuck Her Anally"
     new "Fóllala analmente"
-
-# TODO: Translation updated at 2024-05-05 22:02
 
 # game/code/e13/e13s02.rpy:86
 translate spanish e13s02_e5e5853b:

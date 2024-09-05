@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-09-28 22:51
-
 # game/code/e12/e12s03.rpy:47
 translate korean e12s03_92d88967:
 

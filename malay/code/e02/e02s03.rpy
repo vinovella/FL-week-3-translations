@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-01 02:05
-
 # game/code/e02/e02s03.rpy:37
 translate malay e02s03_da344b59:
 
@@ -847,3 +845,4 @@ translate malay strings:
     # game/code/e02/e02s03.rpy:466
     old "That was amazing"
     new "Ianya menakjubkan"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 13:27
-
 translate russian strings:
 
     # game/code/hints.rpy:5
@@ -1337,7 +1335,6 @@ translate russian strings:
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
     new "Disappoint Lydia and be the loser."
-# TODO: Translation updated at 2024-07-27 20:55
 
 translate russian strings:
 

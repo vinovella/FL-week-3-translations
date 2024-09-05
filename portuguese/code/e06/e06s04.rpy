@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-04-30 17:16
-
 # game/code/e06/e06s04.rpy:16
 translate portuguese e06s04_882706cd:
 

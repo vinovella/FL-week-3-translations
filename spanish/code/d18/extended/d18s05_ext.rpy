@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/d18/extended/d18s05_ext.rpy:63
 translate spanish d18s05_ext_0d9b52ab:
 
@@ -709,8 +707,6 @@ translate spanish strings:
     # game/code/d18/extended/d18s05_ext.rpy:644
     old "No"
     new "No"
-
-# TODO: Translation updated at 2024-07-27 20:56
 
 # game/code/d18/extended/d18s05_ext.rpy:618
 translate spanish d18s05_after_sex_ec16ba99:

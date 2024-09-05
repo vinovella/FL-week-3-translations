@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d19/d19s04dd.rpy:62
 translate malay d19s04dd_e5b04d05:
 
@@ -1121,3 +1119,4 @@ translate malay strings:
     # game/code/d19/d19s04dd.rpy:522
     old "I need time to think"
     new "Aku perlukan masa untuk berfikir"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-12-07 21:21
-
 # game/code/e17/e17s01.rpy:61
 translate turkish e17s01_419854dc:
 
@@ -1145,3 +1143,4 @@ translate turkish e17s01_sex_fa5e65a4:
 
     # dw "Take your time, [mcname]. I have to invent new punishments for you now."
     dw "Acele etme, [mcname]. Şimdi senin için yeni cezalar icat etmek zorundayım."
+

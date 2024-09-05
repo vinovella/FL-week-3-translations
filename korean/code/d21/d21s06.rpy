@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/d21/d21s06.rpy:17
 translate korean d21s06_a1ce140a:
 
@@ -2378,8 +2376,6 @@ translate korean strings:
     old "No, I have to give it more thought."
     new "아니다, 더 생각해 봐야 한다."
 
-# TODO: Translation updated at 2024-07-27 20:53
-
 # game/code/d21/d21s06.rpy:997
 translate korean d21s06_waterfall_0992f61d:
 
@@ -2439,8 +2435,6 @@ translate korean d21s06_wellness_spa_546d00c0:
 
     # mc "I'll be right there."
     mc "I'll be right there."
-
-# TODO: Translation updated at 2024-08-18 16:34
 
 # game/code/d21/d21s06.rpy:582
 translate korean d21s06_reboot_fl_6d5e9610:

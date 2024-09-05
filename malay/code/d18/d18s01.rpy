@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d18/d18s01.rpy:20
 translate malay d18s01_f8914e3e:
 
@@ -1313,3 +1311,4 @@ translate malay strings:
     # game/code/d18/d18s01.rpy:14
     old "Thursday\nDay-18"
     new "Khamis\n Hari 18"
+

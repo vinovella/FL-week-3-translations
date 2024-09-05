@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d20/d20s08.rpy:35
 translate italian d20s08_b3e81c75:
 

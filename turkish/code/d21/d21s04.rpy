@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d21/d21s04.rpy:39
 translate turkish d21s04_f426db53:
 

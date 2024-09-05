@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-09-28 22:49
-
 # game/code/e14/e14s03.rpy:55
 translate chinese e14s03_60cf1b26:
 

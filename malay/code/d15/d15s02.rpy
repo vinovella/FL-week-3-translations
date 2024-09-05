@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d15/d15s02.rpy:19
 translate malay d15s02_ce86b6d4:
 
@@ -453,8 +451,6 @@ translate malay strings:
     # game/code/d15/d15s02.rpy:59
     old "Had Enough Fun for Now"
     new "Sudah Cukup Buat Masa Ini"
-
-# TODO: Translation updated at 2022-11-12 13:01
 
 # game/code/d15/d15s02.rpy:90
 translate malay d15s02_b6e0d059:

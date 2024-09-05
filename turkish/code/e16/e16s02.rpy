@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-16 01:07
-
 # game/code/e16/e16s02.rpy:23
 translate turkish e16s02_051f13c5:
 
@@ -999,3 +997,4 @@ translate turkish strings:
     # game/code/e16/e16s02.rpy:312
     old "After Jessie checks the website"
     new "Jessie web sitesini kontrol ettikten sonra"
+

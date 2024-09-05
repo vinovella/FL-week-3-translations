@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/e06/e06s04.rpy:20
 translate spanish e06s04_882706cd:
 

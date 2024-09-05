@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d20/d20s09.rpy:19
 translate turkish d20s09_5763cea5:
 

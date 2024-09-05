@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d20/d20s07.rpy:80
 translate deutsch d20s07_96d287b6:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-03 19:39
-
 # game/code/d21/d21s01.rpy:96
 translate malay d21s01_8ddcc085:
 
@@ -1349,3 +1347,4 @@ translate malay strings:
     # game/code/d21/d21s01.rpy:796
     old "Don't join her."
     new "Jangan sertai dia"
+

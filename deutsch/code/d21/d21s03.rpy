@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d21/d21s03.rpy:9
 translate deutsch d21s03_28c93870:
 

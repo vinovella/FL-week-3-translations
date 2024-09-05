@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/d18/d18s04.rpy:76
 translate spanish d18s04_09dff030:
 

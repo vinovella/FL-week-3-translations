@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-03-27 12:31
-
 # game/code/e08/e08s01.rpy:68
 translate chinese e08s01_40e3b63d:
 
@@ -1277,3 +1275,4 @@ translate chinese strings:
     # game/code/e08/e08s01.rpy:398
     old "After watching tv for some time"
     new "看了一段时间的电视后"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-01-31 15:43
-
 # game/code/d16/d16s06.rpy:66
 translate russian d16s06_e9ce6c28:
 
@@ -750,15 +748,11 @@ translate russian d16s06_89a8c10f:
     # flr "You have earned [d16s06_points] points."
     flr "Вы заработали [d16s06_points] очков."
 
-# TODO: Translation updated at 2022-06-05 14:57
-
 # game/code/d16/d16s06.rpy:595
 translate russian d16s06_d7755542:
 
     # aw "*Laughs* \"Emotions\" huh? Well, I'm sure glad I got to experience it."
     aw "*смеется* \"Эмоции?\" Да? Что ж, я очень рада, что мне довелось это испытать."
-
-# TODO: Translation updated at 2022-08-06 21:12
 
 # game/code/d16/d16s06.rpy:239
 translate russian d16s06_7fa6b07f:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/endings.rpy:237
 translate french ending_not_available_f3f9fce0:
 

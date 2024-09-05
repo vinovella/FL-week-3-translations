@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-03 19:39
-
 translate malay strings:
 
     # game/code/screens/endings.rpy:51
@@ -26,8 +24,6 @@ translate malay strings:
     old "Return to Mainmenu"
     new "Kembali ke menu utama"
 
-# TODO: Translation updated at 2023-05-27 13:19
-
 translate malay strings:
 
     # game/code/screens/endings.rpy:76
@@ -37,7 +33,6 @@ translate malay strings:
     # game/code/screens/endings.rpy:80
     old "Exit to Mainmenu"
     new "Exit to Mainmenu"
-# TODO: Translation updated at 2024-02-18 12:07
 
 translate malay strings:
 

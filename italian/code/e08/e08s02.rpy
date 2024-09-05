@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/e08/e08s02.rpy:76
 translate italian e08s02_bc4608e2:
 

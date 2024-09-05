@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d18/d18s11.rpy:18
 translate portuguese d18s11_78df431c:
 

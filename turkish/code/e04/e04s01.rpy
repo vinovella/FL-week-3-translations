@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-01-26 00:02
-
 # game/code/e04/e04s01.rpy:44
 translate turkish e04s01_49e08c15:
 
@@ -335,3 +333,4 @@ translate turkish strings:
     # game/code/e04/e04s01.rpy:33
     old "A few days later"
     new "Birkaç gün sonra"
+

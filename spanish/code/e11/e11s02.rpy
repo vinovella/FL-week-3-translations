@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-11-14 09:23
-
 # game/code/e11/e11s02.rpy:62
 translate spanish e11s02_e3615efe:
 

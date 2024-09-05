@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 translate turkish strings:
 
     # game/code/screens/endings.rpy:11
@@ -33,8 +31,6 @@ translate turkish strings:
     # game/code/screens/endings.rpy:80
     old "Exit to Mainmenu"
     new "Ana menüye çık"
-
-# TODO: Translation updated at 2024-02-18 12:02
 
 translate turkish strings:
 

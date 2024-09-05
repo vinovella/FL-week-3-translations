@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-13 23:02
-
 # game/code/e02/e02s10.rpy:15
 translate chinese e02s10_1cc9503b:
 
@@ -853,7 +851,6 @@ translate chinese strings:
     # game/code/e02/e02s10.rpy:411
     old "A few months later"
     new "几个月后"
-# TODO: Translation updated at 2023-05-22 21:18
 
 translate chinese strings:
 

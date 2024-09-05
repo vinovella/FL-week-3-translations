@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e16/e16s03.rpy:15
 translate french e16s03_aa85840b:
 

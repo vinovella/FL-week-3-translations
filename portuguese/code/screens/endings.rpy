@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-03-10 21:23
-
 translate portuguese strings:
 
     # game/code/screens/endings.rpy:51
@@ -18,8 +16,6 @@ translate portuguese strings:
     old "Play"
     new "Jogar"
 
-# TODO: Translation updated at 2023-05-16 01:31
-
 translate portuguese strings:
 
     # game/code/screens/endings.rpy:64
@@ -33,8 +29,6 @@ translate portuguese strings:
     # game/code/screens/endings.rpy:82
     old "Exit to Mainmenu"
     new "Sair para o Menu Principal"
-
-# TODO: Translation updated at 2024-02-17 14:11
 
 translate portuguese strings:
 

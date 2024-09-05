@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-04-30 17:16
-
 # game/code/e06/e06s06.rpy:17
 translate portuguese e06s06_820294b7:
 
@@ -1222,8 +1220,6 @@ translate portuguese strings:
     old "Fuck Lyssa while she fucks AmRose"
     new "Foder Lyssa enquanto ela fode AmRose"
 
-# TODO: Translation updated at 2023-05-03 19:50
-
 # game/code/e06/e06s06.rpy:176
 translate portuguese e06s06_mh_harem_beccaddc:
 
@@ -1242,14 +1238,11 @@ translate portuguese e06s06_finish_1_04a9c018:
     # mh "That's it, [mcname]. Show Lydia how you make me cum!"
     mh "Isso, [mcname]. Mostra para a Lydia que pode me dar um orgasmo!"
 
-# TODO: Translation updated at 2023-05-21 16:03
-
 # game/code/e06/e06s06.rpy:149
 translate portuguese e06s06_d14a3c55:
 
     # lc "Yes, so I am well aware of all the girls he's been with."
     lc "Sim, assim eu fico bem a par de todas garotas que ele tem ficado."
-# TODO: Translation updated at 2023-05-29 02:57
 
 # game/code/e06/e06s06.rpy:954
 translate portuguese e06s06_finish_1_2479bcce:

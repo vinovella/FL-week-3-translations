@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d20/d20s09.rpy:16
 translate portuguese d20s09_5763cea5:
 

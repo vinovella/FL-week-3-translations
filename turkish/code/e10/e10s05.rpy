@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/e10/e10s05.rpy:58
 translate turkish e10s05_7a026cc4:
 

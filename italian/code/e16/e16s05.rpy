@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-07-27 20:52
-
 # game/code/e16/e16s05.rpy:73
 translate italian e16s05_983ab75e:
 

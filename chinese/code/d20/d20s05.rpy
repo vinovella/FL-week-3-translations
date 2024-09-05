@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-12 12:59
-
 # game/code/d20/d20s05.rpy:34
 translate chinese d20s05_47e7cec6:
 
@@ -1346,10 +1344,9 @@ translate chinese strings:
     old "Talk About Your Summer Plans"
     new "谈谈你的暑期计划"
 
-# TODO: Translation updated at 2022-11-19 23:17
-
 # game/code/d20/d20s05.rpy:250
 translate chinese d20s05_pool_5f2ca332:
 
     # mc "Let's change things up a bit."
     mc "让我们稍微改变一下。"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e13/e13s02.rpy:83
 translate deutsch e13s02_0ccad110:
 
@@ -363,8 +361,6 @@ translate deutsch strings:
     # game/code/e13/e13s02.rpy:263
     old "Fuck Her Anally"
     new "Fick sie anal"
-
-# TODO: Translation updated at 2024-07-27 20:51
 
 # game/code/e13/e13s02.rpy:86
 translate deutsch e13s02_e5e5853b:

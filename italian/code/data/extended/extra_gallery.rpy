@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-27 22:27
-
 translate italian strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
@@ -365,3 +363,4 @@ translate italian strings:
     # game/code/data/extended/extra_gallery.rpy:715
     old "APPY"
     new "APPY"
+

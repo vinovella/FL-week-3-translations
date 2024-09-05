@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d15/d15s06.rpy:77
 translate chinese d15s06_1d052d6c:
 
@@ -1703,3 +1701,4 @@ translate chinese strings:
     # game/code/d15/d15s06.rpy:900
     old "I love you too"
     new "我也爱你"
+

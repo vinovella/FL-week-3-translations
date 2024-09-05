@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/recap/w2_recap.rpy:109
 translate deutsch week_2_recap_6e162b80:
 

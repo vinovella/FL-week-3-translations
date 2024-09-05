@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d19/d19s04dw.rpy:49
 translate malay d19s04dw_cc0d7a3e:
 
@@ -553,3 +551,4 @@ translate malay strings:
     # game/code/d19/d19s04dw.rpy:292
     old "No..."
     new "Tak..."
+

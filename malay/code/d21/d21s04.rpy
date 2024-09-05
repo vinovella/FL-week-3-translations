@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-03 19:39
-
 # game/code/d21/d21s04.rpy:39
 translate malay d21s04_f426db53:
 
@@ -837,3 +835,4 @@ translate malay strings:
     # game/code/d21/d21s04.rpy:385
     old "I need to think about this"
     new "Aku perlu fikir tentang ini"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-12-07 21:21
-
 # game/code/e17/e17s02.rpy:44
 translate turkish e17s02_6edbf36c:
 
@@ -1457,3 +1455,4 @@ translate turkish strings:
     # game/code/e17/e17s02.rpy:672
     old "Mistress, I want only to serve you tonight"
     new "Hanımefendi, bu gece sadece size hizmet etmek istiyorum"
+

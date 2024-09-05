@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-01-31 15:43
-
 # game/code/d16/d16s03.rpy:17
 translate russian d16s03_dd526ff9:
 

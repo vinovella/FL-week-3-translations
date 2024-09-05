@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-04-23 22:11
-
 # game/code/e06/e06s07.rpy:13
 translate chinese e06s07_177d3eb2:
 
@@ -683,8 +681,6 @@ translate chinese e06s07_55c2b00c:
 
     # mh "You may kiss the bride!"
     mh "你可以亲吻新娘了！"
-
-# TODO: Translation updated at 2023-04-30 17:23
 
 translate chinese strings:
 

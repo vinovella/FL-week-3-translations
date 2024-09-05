@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d18/d18s07.rpy:11
 translate malay d18s07_3f8d37de:
 
@@ -311,3 +309,4 @@ translate malay d18s07_7764a381:
 
     # mc "Alright. Let's go, she can clearly handle this."
     mc "Baiklah. Mari kita pergi, dia boleh tangani ini."
+

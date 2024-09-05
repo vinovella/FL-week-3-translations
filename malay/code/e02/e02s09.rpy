@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-01 02:05
-
 # game/code/e02/e02s09.rpy:17
 translate malay e02s09_c27de55b:
 
@@ -803,3 +801,4 @@ translate malay strings:
     # game/code/e02/e02s09.rpy:272
     old "Two weeks later"
     new "Dua minggu kemudian"
+

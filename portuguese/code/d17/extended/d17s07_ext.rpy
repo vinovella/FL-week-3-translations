@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d17/extended/d17s07_ext.rpy:53
 translate portuguese d17s07_ext_360a8ee5:
 

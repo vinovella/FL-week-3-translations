@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-08-12 20:44
-
 # game/code/e15/e15s05.rpy:73
 translate spanish replay_e15s05_6a958775:
 

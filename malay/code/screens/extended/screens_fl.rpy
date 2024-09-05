@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 translate malay strings:
 
     # game/code/screens/extended/screens_fl.rpy:11
@@ -34,10 +32,9 @@ translate malay strings:
     old ">"
     new ">"
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 translate malay strings:
 
     # game/code/screens/extended/screens_fl.rpy:142
     old "Coming Soon"
     new "Akan Datang"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d17/d17s01.rpy:52
 translate chinese d17s01_918de26a:
 
@@ -1735,3 +1733,4 @@ translate chinese strings:
     # game/code/d17/d17s01.rpy:335
     old "Decline"
     new "跳过"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d15/d15s03.rpy:19
 translate chinese d15s03_6150bb0b:
 
@@ -917,3 +915,4 @@ translate chinese strings:
     # game/code/d15/d15s03.rpy:12
     old "20 minutes later"
     new "20分钟后"
+

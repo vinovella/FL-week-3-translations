@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-03 19:39
-
 # game/code/labels.rpy:110
 translate malay after_credits_583c0fde:
 
@@ -588,8 +586,6 @@ translate malay after_credits_050e12e8:
     # dd "I'd like that very much."
     dd "Bagus kalau begitu..."
 
-# TODO: Translation updated at 2023-05-03 19:43
-
 # game/code/labels.rpy:742
 translate malay buzz_4377a2f7:
 
@@ -613,8 +609,6 @@ translate malay metalknock2_40511e6c:
 
     # "*knock knock*"
     "*ketuk ketuk*"
-
-# TODO: Translation updated at 2023-05-27 13:19
 
 translate malay strings:
 
@@ -693,3 +687,4 @@ translate malay after_credits_f4cf666b:
 
     # sy "I can't wait to enjoy it with you."
     sy "I can't wait to enjoy it with you."
+

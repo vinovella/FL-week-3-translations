@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/e13/e13s04.rpy:47
 translate spanish e13s04_b0f568c1:
 
@@ -215,8 +213,6 @@ translate spanish strings:
     # game/code/e13/e13s04.rpy:274
     old "You have finished playing ending number 13!"
     new "¡Has terminado de jugar el final n° 13!"
-
-# TODO: Translation updated at 2024-05-05 22:02
 
 # game/code/e13/e13s04.rpy:179
 translate spanish replay_e13s04_4ae8355d:

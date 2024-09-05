@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d19/d19s04dw.rpy:49
 translate chinese d19s04dw_cc0d7a3e:
 

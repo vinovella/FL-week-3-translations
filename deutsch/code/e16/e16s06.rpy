@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-07-27 20:51
-
 # game/code/e16/e16s06.rpy:41
 translate deutsch e16s06_3b7cfc98:
 

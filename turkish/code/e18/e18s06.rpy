@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-08-18 16:13
-
 # game/code/e18/e18s06.rpy:19
 translate turkish e18s06_7e23f7f5:
 
@@ -575,3 +573,4 @@ translate turkish e18s06_montage_2_dff79cab:
 
     # mc "You're right."
     mc "Haklısın."
+

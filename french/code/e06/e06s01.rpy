@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e06/e06s01.rpy:95
 translate french e06s01_0143d3aa:
 

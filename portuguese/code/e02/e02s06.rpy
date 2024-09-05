@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-05 17:01
-
 # game/code/e02/e02s06.rpy:16
 translate portuguese e02s06_52e800c4:
 
@@ -1305,3 +1303,4 @@ translate portuguese strings:
     # game/code/e02/e02s06.rpy:142
     old "Just give them some advice"
     new "Apenas aconselhá-los"
+

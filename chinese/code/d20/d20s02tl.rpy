@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-12 12:59
-
 # game/code/d20/d20s02tl.rpy:82
 translate chinese d20s02tl_56e9281f:
 
@@ -2218,10 +2216,9 @@ translate chinese strings:
     old "Whip Them Both Together"
     new "一起指导她们俩"
 
-# TODO: Translation updated at 2022-12-06 22:18
-
 # game/code/d20/d20s02tl.rpy:236
 translate chinese d20s02tl_pray_62f090f2:
 
     # mc "Finally, surrender yourself to my teaching."
     mc "最后，臣服于我的教导。"
+

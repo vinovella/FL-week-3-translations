@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-01-25 23:47
-
 # game/code/e04/e04s08.rpy:19
 translate malay e04s08_42cc5e2a:
 
@@ -89,7 +87,6 @@ translate malay e04s08_aa54ff21:
 
     # jdg "As long as you continue to impress me."
     jdg "Asalkan kau terus buat aku kagum."
-
 
 # game/code/e04/e04s08.rpy:51
 translate malay e04s08_ba65fe55:
@@ -580,3 +577,4 @@ translate malay strings:
     # game/code/e04/e04s08.rpy:293
     old "You have finished playing Ending #04!"
     new "Anda telah selesai bermain Pengakhiran #04!"
+

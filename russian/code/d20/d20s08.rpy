@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-05 13:07
-
 # game/code/d20/d20s08.rpy:32
 translate russian d20s08_b3e81c75:
 
@@ -1499,8 +1497,6 @@ translate russian strings:
     # game/code/d20/d20s08.rpy:390
     old "No, I don't want to see that."
     new "Нет, я не хочу этого видеть"
-
-# TODO: Translation updated at 2022-12-30 19:37
 
 # game/code/d20/d20s08.rpy:320
 translate russian d20s08_jumped_f1b34c0b:

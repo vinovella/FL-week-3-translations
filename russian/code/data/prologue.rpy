@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-12-19 11:46
-
 translate russian strings:
 
     # game/code/data/prologue.rpy:16
@@ -110,15 +108,11 @@ translate russian strings:
     old "adult magazines"
     new "журналы для взрослых"
 
-# TODO: Translation updated at 2022-01-31 15:43
-
 translate russian strings:
 
     # game/code/data/prologue.rpy:45
     old "Trans Content"
     new "Транс-контент"
-
-# TODO: Translation updated at 2022-08-06 21:12
 
 translate russian strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d15/d15s04.rpy:28
 translate chinese d15s04_a13bdd91:
 
@@ -265,3 +263,4 @@ translate chinese strings:
     # game/code/d15/d15s04.rpy:54
     old "Spend time with Daisy"
     new "与黛西共度时光"
+

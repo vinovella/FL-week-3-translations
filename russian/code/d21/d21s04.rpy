@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 13:27
-
 # game/code/d21/d21s04.rpy:39
 translate russian d21s04_f426db53:
 

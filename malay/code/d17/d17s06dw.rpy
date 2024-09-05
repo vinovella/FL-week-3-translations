@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-04-16 20:02
-
 # game/code/d17/d17s06dw.rpy:49
 translate malay d17s06dw_41176219:
 
@@ -1163,3 +1161,4 @@ translate malay d17s06dw_breakup_6525077f:
 
     # mct "What the fuck just happened?"
     mct "Apa yang berlaku?"
+

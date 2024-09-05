@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-12-07 21:21
-
 # game/code/e17/e17s06.rpy:45
 translate turkish e17s06_acabb117:
 
@@ -1041,3 +1039,4 @@ translate turkish strings:
     # game/code/e17/e17s06.rpy:609
     old "You have finished playing Ending #17!"
     new "Son #17'yi oynamayı bitirdiniz!"
+

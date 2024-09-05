@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-01 02:05
-
 # game/code/e02/e02s07.rpy:62
 translate malay e02s07_c14c10e0:
 
@@ -1665,3 +1663,4 @@ translate malay strings:
     # game/code/e02/e02s07.rpy:520
     old "Let Lyssa Fuck You Instead"
     new "Biarkan Lyssa Kongkek Awak Sebaliknya"
+

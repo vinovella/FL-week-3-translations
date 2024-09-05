@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-06-26 17:51
-
 # game/code/e16/e16s07.rpy:77
 translate chinese e16s07_60ab8d42:
 

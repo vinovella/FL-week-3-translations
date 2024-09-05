@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d18/d18s11.rpy:18
 translate malay d18s11_78df431c:
 
@@ -395,3 +393,4 @@ translate malay strings:
     # game/code/d18/d18s11.rpy:54
     old "Get Drunk in the Bar"
     new "Mabuk di Bar"
+

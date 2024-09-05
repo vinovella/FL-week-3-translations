@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/d19/d19s01lc.rpy:16
 translate french d19s01lc_31455c3a:
 

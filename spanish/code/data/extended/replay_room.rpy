@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:46
-
 translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -278,8 +276,6 @@ translate spanish strings:
     old "Ending 10: Min & Nari"
     new "Final 10: Min y Nari"
 
-# TODO: Translation updated at 2023-09-28 22:55
-
 translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:123
@@ -293,8 +289,6 @@ translate spanish strings:
     # game/code/data/extended/replay_room.rpy:138
     old "Ending 14: Polly, Nora & Debbie"
     new "Final 14: Polly, Nora y Debbie"
-
-# TODO: Translation updated at 2023-11-23 21:07
 
 translate spanish strings:
 
@@ -313,8 +307,6 @@ translate spanish strings:
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Pregnant Dahlia"
     new "Final 17: Dahlia embarazada"
-
-# TODO: Translation updated at 2024-02-08 02:38
 
 translate spanish strings:
 
@@ -366,8 +358,6 @@ translate spanish strings:
     old "Ending 07: Lydia & AmRose"
     new "Final 07: Lydia y AmRose"
 
-# TODO: Translation updated at 2024-05-05 22:02
-
 translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:103
@@ -393,8 +383,6 @@ translate spanish strings:
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 16: Jessie, Molly, Sage & Kristen"
     new "Final 16: Jessie, Molly, Sage y Kristen"
-
-# TODO: Translation updated at 2024-08-12 20:44
 
 translate spanish strings:
 

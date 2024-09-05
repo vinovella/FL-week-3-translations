@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d19/d19s01lc.rpy:16
 translate italian d19s01lc_31455c3a:
 

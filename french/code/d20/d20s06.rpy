@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/d20/d20s06.rpy:42
 translate french d20s06_c4a32281:
 

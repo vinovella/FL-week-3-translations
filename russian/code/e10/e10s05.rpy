@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-12-30 19:37
-
 # game/code/e10/e10s05.rpy:58
 translate russian e10s05_7a026cc4:
 

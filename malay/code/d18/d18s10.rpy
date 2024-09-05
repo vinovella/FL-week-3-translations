@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d18/d18s10.rpy:86
 translate malay d18s10_0b2e1d6b:
 
@@ -750,18 +748,15 @@ translate malay d18s10_end_1da49de8_1:
     # mct "I can't even."
     mct "Aku tak bolehlah."
 
-# TODO: Translation updated at 2023-02-01 00:18
-
 translate malay strings:
 
     # game/code/d18/d18s10.rpy:226
     old "What is your darkest fantasy about Lydia?"
     new "Apakah fantasi paling gelap anda tentang Lydia?"
 
-# TODO: Translation updated at 2023-05-27 13:19
-
 translate malay strings:
 
     # game/code/d18/d18s10.rpy:246
     old "Just Sex, a lot of Sex"
     new "Hanya Seks"
+

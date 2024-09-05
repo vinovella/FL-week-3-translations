@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -198,8 +196,6 @@ translate deutsch strings:
     old "Ending 13: Pregnant Nora"
     new "Ende 13: Schwangere Nora"
 
-# TODO: Translation updated at 2023-09-28 22:50
-
 translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:94
@@ -209,8 +205,6 @@ translate deutsch strings:
     # game/code/data/extended/cg_gallery.rpy:103
     old "Ending 14: Polly & Nora"
     new "Ende 14: Polly & Nora"
-
-# TODO: Translation updated at 2023-12-07 21:15
 
 translate deutsch strings:
 
@@ -222,8 +216,6 @@ translate deutsch strings:
     old "Ending 17: Dahlia"
     new "Ende 17: Dahlia"
 
-# TODO: Translation updated at 2024-02-09 23:44
-
 translate deutsch strings:
 
     # game/code/data/extended/cg_gallery.rpy:75
@@ -233,8 +225,6 @@ translate deutsch strings:
     # game/code/data/extended/cg_gallery.rpy:85
     old "Ending 07: Girls"
     new "Ending 07: Girls"
-
-# TODO: Translation updated at 2024-07-27 20:51
 
 translate deutsch strings:
 
@@ -249,8 +239,6 @@ translate deutsch strings:
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Farm Animals"
     new "Ending 16: Farm Animals"
-
-# TODO: Translation updated at 2024-08-18 16:32
 
 translate deutsch strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-08 02:38
-
 # game/code/e07/e07s02.rpy:39
 translate portuguese e07s02_42fc7010:
 
@@ -1189,3 +1187,4 @@ translate portuguese strings:
     # game/code/e07/e07s02.rpy:611
     old "Accept"
     new "Aceitar"
+

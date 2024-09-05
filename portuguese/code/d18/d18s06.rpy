@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d18/d18s06.rpy:13
 translate portuguese d18s06_59f5b92b:
 
@@ -581,3 +579,4 @@ translate portuguese strings:
     # game/code/d18/d18s06.rpy:6
     old "Some time later\nAt the college campus"
     new "Algum tempo depois\nNo campus da faculdade"
+

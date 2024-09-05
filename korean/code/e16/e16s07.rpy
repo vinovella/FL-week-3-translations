@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-07-27 20:53
-
 # game/code/e16/e16s07.rpy:77
 translate korean e16s07_60ab8d42:
 

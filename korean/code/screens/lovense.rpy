@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/screens/lovense.rpy:173
 translate korean lovense_test_9e0ee773:
 
@@ -130,8 +128,6 @@ translate korean strings:
     old "Save"
     new "Save"
 
-# TODO: Translation updated at 2023-07-05 01:08
-
 translate korean strings:
 
     # game/code/screens/lovense.rpy:74
@@ -141,8 +137,6 @@ translate korean strings:
     # game/code/screens/lovense.rpy:80
     old "Get a toy now"
     new "Get a toy now"
-
-# TODO: Translation updated at 2024-08-18 16:34
 
 translate korean strings:
 

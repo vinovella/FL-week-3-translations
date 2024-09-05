@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-12-30 19:37
-
 # game/code/e10/e10s06.rpy:56
 translate russian e10s06_4379716e:
 

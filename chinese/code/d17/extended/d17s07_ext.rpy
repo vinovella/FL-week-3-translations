@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d17/extended/d17s07_ext.rpy:52
 translate chinese d17s07_ext_360a8ee5:
 
@@ -637,3 +635,4 @@ translate chinese strings:
     # game/code/d17/extended/d17s07_ext.rpy:355
     old "Agree to go with her"
     new "同意跟她走"
+

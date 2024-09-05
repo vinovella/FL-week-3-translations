@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-01-31 17:14
-
 # game/code/e10/e10s01.rpy:86
 translate chinese e10s01_8b9374ed:
 

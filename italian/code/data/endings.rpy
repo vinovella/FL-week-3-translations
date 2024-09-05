@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 translate italian strings:
 
     # game/code/data/endings.rpy:3
@@ -183,3 +181,4 @@ translate italian strings:
 
     old "E18 - Quartet"
     new "F18 - Quartetto"
+

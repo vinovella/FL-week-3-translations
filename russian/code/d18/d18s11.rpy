@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-05 14:57
-
 # game/code/d18/d18s11.rpy:11
 translate russian d18s11_78df431c:
 
@@ -389,8 +387,6 @@ translate russian strings:
     # game/code/d18/d18s11.rpy:34
     old "Get Drunk in the Bar"
     new "Напиться в баре"
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 # game/code/d18/d18s11.rpy:17
 translate russian d18s11_b5c52f43:

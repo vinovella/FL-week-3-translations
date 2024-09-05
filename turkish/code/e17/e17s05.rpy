@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-12-07 21:21
-
 # game/code/e17/e17s05.rpy:40
 translate turkish e17s05_a7755d10:
 
@@ -1235,3 +1233,4 @@ translate turkish strings:
     # game/code/e17/e17s05.rpy:30
     old "Many Days Later"
     new "Günler Sonra"
+

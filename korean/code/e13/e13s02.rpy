@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/e13/e13s02.rpy:83
 translate korean e13s02_0ccad110:
 
@@ -363,8 +361,6 @@ translate korean strings:
     # game/code/e13/e13s02.rpy:263
     old "Fuck Her Anally"
     new "Fuck Her Anally"
-
-# TODO: Translation updated at 2024-07-27 20:53
 
 # game/code/e13/e13s02.rpy:86
 translate korean e13s02_e5e5853b:

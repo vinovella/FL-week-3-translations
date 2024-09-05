@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-03-27 12:31
-
 # game/code/e08/e08s07.rpy:93
 translate chinese e08s07_f90765bb:
 
@@ -944,14 +942,11 @@ translate chinese strings:
     old "Cum on your wife's face"
     new "在你老婆脸上射精"
 
-# TODO: Translation updated at 2023-04-18 22:46
-
 # game/code/e08/e08s07.rpy:1029
 translate chinese e08s07_next_day_191559e1:
 
     # mc "What's up?"
     mc "怎么了？"
-# TODO: Translation updated at 2023-05-22 21:18
 
 translate chinese strings:
 

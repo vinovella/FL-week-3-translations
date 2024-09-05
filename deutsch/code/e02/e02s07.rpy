@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e02/e02s07.rpy:62
 translate deutsch e02s07_c14c10e0:
 

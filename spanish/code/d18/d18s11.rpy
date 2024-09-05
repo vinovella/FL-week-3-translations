@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/d18/d18s11.rpy:21
 translate spanish d18s11_78df431c:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-12 12:59
-
 # game/code/d20/d20s08.rpy:32
 translate chinese d20s08_b3e81c75:
 

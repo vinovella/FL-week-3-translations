@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:02
-
 # game/code/e05/e05s04.rpy:61
 translate spanish e05s04_0fae8f37:
 
@@ -1389,8 +1387,6 @@ translate spanish strings:
     # game/code/e05/e05s04.rpy:526
     old "Tell him he has something on his chin"
     new "Dile que tiene algo en la barbilla."
-
-# TODO: Translation updated at 2024-07-27 20:56
 
 # game/code/e05/e05s04.rpy:205
 translate spanish e05s04_659af4e7:

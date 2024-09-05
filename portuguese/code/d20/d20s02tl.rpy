@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d20/d20s02tl.rpy:83
 translate portuguese d20s02tl_56e9281f:
 
@@ -2217,8 +2215,6 @@ translate portuguese strings:
     # game/code/d20/d20s02tl.rpy:668
     old "Whip Them Both Together"
     new "Chicotear Elas Juntas"
-
-# TODO: Translation updated at 2022-12-06 22:13
 
 # game/code/d20/d20s02tl.rpy:236
 translate portuguese d20s02tl_pray_62f090f2:

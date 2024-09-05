@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d18/d18s09.rpy:37
 translate malay d18s09_71d88fc7:
 
@@ -1047,3 +1045,4 @@ translate malay strings:
     # game/code/d18/d18s09.rpy:252
     old "Leave Her Wanting More"
     new "Biarkan Dia Nak Lagi"
+

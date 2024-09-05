@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
-
 translate malay strings:
 
     # game/code/functions.rpy:107
@@ -29,10 +27,10 @@ translate malay strings:
     # game/code/functions.rpy:223
     old "You can only select one out of Daisy and Dahlia"
     new "Anda hanya boleh memilih satu daripada Daisy dan Dahlia"
-# TODO: Translation updated at 2023-06-15 00:09
 
 translate malay strings:
 
     # game/code/functions.rpy:23
     old "You have unlocked Ending #{}"
     new "You have unlocked Ending #{}"
+

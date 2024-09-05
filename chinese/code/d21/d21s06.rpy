@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-03-10 21:05
-
 # game/code/d21/d21s06.rpy:16
 translate chinese d21s06_a1ce140a:
 
@@ -2377,7 +2375,6 @@ translate chinese strings:
     # game/code/d21/d21s06.rpy:685
     old "No, I have to give it more thought."
     new "不，我得再考虑一下。"
-# TODO: Translation updated at 2024-07-27 20:47
 
 # game/code/d21/d21s06.rpy:997
 translate chinese d21s06_waterfall_0992f61d:
@@ -2438,8 +2435,6 @@ translate chinese d21s06_wellness_spa_546d00c0:
 
     # mc "I'll be right there."
     mc "我马上就到。"
-
-# TODO: Translation updated at 2024-08-15 13:10
 
 # game/code/d21/d21s06.rpy:582
 translate chinese d21s06_reboot_fl_6d5e9610:

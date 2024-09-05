@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-16 01:07
-
 # game/code/e05/e05s04.rpy:61
 translate turkish e05s04_0fae8f37:
 
@@ -1407,3 +1405,4 @@ translate turkish strings:
     # game/code/e05/e05s04.rpy:526
     old "Tell him he has something on his chin"
     new "Ona çenesinde bir şey olduğunu söyle."
+

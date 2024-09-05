@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:03
-
 # game/code/e16/e16s01.rpy:78
 translate portuguese e16s01_2b35b6fe:
 
@@ -771,8 +769,6 @@ translate portuguese strings:
     # game/code/e16/e16s01.rpy:83
     old "Kinky"
     new "Pervertido"
-
-# TODO: Translation updated at 2024-07-27 20:57
 
 # game/code/e16/e16s01.rpy:155
 translate portuguese e16s01_1b15151c:

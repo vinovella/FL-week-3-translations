@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d17/d17s03.rpy:12
 translate chinese d17s03_9a6462db:
 

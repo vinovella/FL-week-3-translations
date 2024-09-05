@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 translate italian strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -289,7 +287,6 @@ translate italian strings:
     # game/code/data/extended/replay_room.rpy:138
     old "Ending 14: Polly, Nora & Debbie"
     new "Finale 14: Polly, Nora & Debbie"
-# TODO: Translation updated at 2023-12-07 21:15
 
 translate italian strings:
 
@@ -308,8 +305,6 @@ translate italian strings:
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Pregnant Dahlia"
     new "Ending 17: Pregnant Dahlia"
-
-# TODO: Translation updated at 2024-02-08 02:50
 
 translate italian strings:
 
@@ -361,8 +356,6 @@ translate italian strings:
     old "Ending 07: Lydia & AmRose"
     new "Ending 07: Lydia & AmRose"
 
-# TODO: Translation updated at 2024-07-27 20:52
-
 translate italian strings:
 
     # game/code/data/extended/replay_room.rpy:103
@@ -388,8 +381,6 @@ translate italian strings:
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie, Molly, Sage & Kristen"
     new "Ending 16: Jessie, Molly, Sage & Kristen"
-
-# TODO: Translation updated at 2024-08-18 16:33
 
 translate italian strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e02/e02s06.rpy:71
 translate deutsch e02s06_52e800c4:
 

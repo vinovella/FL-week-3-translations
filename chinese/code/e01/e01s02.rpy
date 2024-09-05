@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-03-27 12:31
-
 # game/code/e01/e01s02.rpy:12
 translate chinese e01s02_fd8d44aa:
 
@@ -803,8 +801,6 @@ translate chinese strings:
     # game/code/e01/e01s02.rpy:4
     old "At Subway Station"
     new "在地铁站"
-
-# TODO: Translation updated at 2023-05-22 21:18
 
 translate chinese strings:
 

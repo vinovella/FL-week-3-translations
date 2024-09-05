@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-06 10:42
-
 # game/code/d17/d17s06pn.rpy:34
 translate russian d17s06pn_9f8e2b43:
 
@@ -1131,8 +1129,6 @@ translate russian strings:
     # game/code/d17/d17s06pn.rpy:379
     old "We make a good trio"
     new "Мы составляем хорошее трио"
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 translate russian strings:
 

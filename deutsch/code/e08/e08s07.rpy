@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e08/e08s07.rpy:95
 translate deutsch e08s07_f90765bb:
 

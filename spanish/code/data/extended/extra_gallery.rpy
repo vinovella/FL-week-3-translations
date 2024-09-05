@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:46
-
 translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
@@ -369,3 +367,4 @@ translate spanish strings:
     # game/code/data/extended/extra_gallery.rpy:715
     old "APPY"
     new "APPY"
+

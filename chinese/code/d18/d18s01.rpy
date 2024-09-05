@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d18/d18s01.rpy:18
 translate chinese d18s01_f8914e3e:
 
@@ -1313,3 +1311,4 @@ translate chinese strings:
     # game/code/d18/d18s01.rpy:14
     old "Thursday\nDay-18"
     new "周四\n第18天"
+

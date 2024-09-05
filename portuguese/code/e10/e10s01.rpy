@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-01-31 17:12
-
 # game/code/e10/e10s01.rpy:86
 translate portuguese e10s01_8b9374ed:
 

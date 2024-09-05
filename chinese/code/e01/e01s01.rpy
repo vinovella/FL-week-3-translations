@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-03-27 12:31
-
 # game/code/e01/e01s01.rpy:197
 translate chinese e01s01_48c97c49:
 

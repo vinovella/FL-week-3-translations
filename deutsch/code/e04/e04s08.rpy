@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-01-25 23:28
-
 # game/code/e04/e04s08.rpy:19
 translate deutsch e04s08_42cc5e2a:
 

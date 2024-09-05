@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-01-26 00:02
-
 # game/code/e04/e04s07.rpy:17
 translate turkish e04s07_0939b90e:
 
@@ -2101,3 +2099,4 @@ translate turkish strings:
     # game/code/e04/e04s07.rpy:984
     old "Don't piss on Prisoner 001"
     new "Mahkum 001'in üzerine işemeyin."
+

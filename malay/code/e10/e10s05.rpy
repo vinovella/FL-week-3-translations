@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-02-01 00:18
-
 # game/code/e10/e10s05.rpy:58
 translate malay e10s05_7a026cc4:
 

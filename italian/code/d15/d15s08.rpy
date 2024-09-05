@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d15/d15s08.rpy:25
 translate italian d15s08_ac30fa16:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-09 23:51
-
 # game/code/e04/e04s04.rpy:66
 translate korean e04s04_31d723d4:
 

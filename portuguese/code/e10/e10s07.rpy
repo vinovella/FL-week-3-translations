@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-01-31 17:12
-
 # game/code/e10/e10s07.rpy:15
 translate portuguese e10s07_58e7fd20:
 
@@ -455,8 +453,6 @@ translate portuguese strings:
     # game/code/e10/e10s07.rpy:4
     old "Few days later"
     new "Alguns dias depois"
-
-# TODO: Translation updated at 2023-05-22 21:19
 
 translate portuguese strings:
 

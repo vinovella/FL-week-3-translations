@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d19/d19s06.rpy:20
 translate chinese d19s06_417adba7:
 
@@ -1035,3 +1033,4 @@ translate chinese strings:
     # game/code/d19/d19s06.rpy:396
     old "Both Cynthia and Her Mother"
     new "辛西娅和她妈妈都要在"
+

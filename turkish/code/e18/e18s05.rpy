@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-08-18 16:13
-
 # game/code/e18/e18s05.rpy:53
 translate turkish e18s05_93d4efce:
 
@@ -1373,3 +1371,4 @@ translate turkish strings:
     # game/code/e18/e18s05.rpy:439
     old "I don't understand."
     new "Anlamıyorum."
+

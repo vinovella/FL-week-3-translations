@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/e13/e13s04.rpy:47
 translate korean e13s04_b0f568c1:
 
@@ -215,8 +213,6 @@ translate korean strings:
     # game/code/e13/e13s04.rpy:274
     old "You have finished playing ending number 13!"
     new "You have finished playing ending number 13!"
-
-# TODO: Translation updated at 2024-07-27 20:53
 
 # game/code/e13/e13s04.rpy:179
 translate korean replay_e13s04_4ae8355d:

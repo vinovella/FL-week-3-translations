@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-12-19 11:46
-
 # game/code/d15/d15s08.rpy:14
 translate russian d15s08_ac30fa16:
 
@@ -1145,8 +1143,6 @@ translate russian d15s08_bcfe6e94:
 
     # mct "...zzZZZzzzz..."
     mct "...zzZZZzzzz..."
-
-# TODO: Translation updated at 2022-08-06 21:12
 
 # game/code/d15/d15s08.rpy:69
 translate russian d15s08_1297c740:

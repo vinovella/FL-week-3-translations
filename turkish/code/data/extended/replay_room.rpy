@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -354,8 +352,6 @@ translate turkish strings:
     old "Ending 07: Lydia & AmRose"
     new "Bitiş 07: Lydia & AmRose"
 
-# TODO: Translation updated at 2024-07-16 01:07
-
 translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:103
@@ -381,8 +377,6 @@ translate turkish strings:
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie, Molly, Sage & Kristen"
     new "16. Son: Jessie, Molly, Sage & Kristen"
-
-# TODO: Translation updated at 2024-08-18 16:13
 
 translate turkish strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d19/d19s01lc.rpy:16
 translate turkish d19s01lc_31455c3a:
 
@@ -773,3 +771,4 @@ translate turkish strings:
     # game/code/d19/d19s01lc.rpy:292
     old "Tell Her It Was Fun"
     new "Ona Eğlenceli Olduğunu Söyle"
+

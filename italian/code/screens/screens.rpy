@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 translate italian strings:
 
     # game/code/screens/screens.rpy:259
@@ -353,8 +351,6 @@ translate italian strings:
     # game/code/screens/screens.rpy:1722
     old "Menu"
     new "Menu"
-
-# TODO: Translation updated at 2024-07-27 20:52
 
 translate italian strings:
 

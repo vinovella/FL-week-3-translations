@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-01-25 23:47
-
 # game/code/e04/e04s04.rpy:15
 translate malay e04s04_31d723d4:
 
@@ -1763,3 +1761,4 @@ translate malay strings:
     # game/code/e04/e04s04.rpy:4
     old "Weeks later"
     new "Beberapa minggu kemudian"
+

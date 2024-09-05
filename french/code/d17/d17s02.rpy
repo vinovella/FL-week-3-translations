@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/d17/d17s02.rpy:56
 translate french d17s02_31459df9:
 

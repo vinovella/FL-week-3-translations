@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:56
-
 # game/code/e12/e12s01.rpy:101
 translate turkish e12s01_f612d9b5:
 

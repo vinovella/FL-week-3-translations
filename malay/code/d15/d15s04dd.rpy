@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d15/d15s04dd.rpy:28
 translate malay d15s04dd_ab7f1b7a:
 
@@ -915,8 +913,6 @@ translate malay strings:
     # game/code/d15/d15s04dd.rpy:570
     old "Don't"
     new "Jangan"
-
-# TODO: Translation updated at 2022-11-12 13:01
 
 # game/code/d15/d15s04dd.rpy:183
 translate malay d15s04dd_ff7b6382:

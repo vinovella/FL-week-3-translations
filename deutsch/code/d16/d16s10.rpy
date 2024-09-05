@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d16/d16s10.rpy:37
 translate deutsch d16s10_d9159219:
 
@@ -1381,3 +1379,4 @@ translate deutsch strings:
     # game/code/d16/d16s10.rpy:205
     old "Tell her how you came while she was under the table"
     new "Erzähl ihr, wie du gekommen bist, als sie unter dem Tisch war"
+

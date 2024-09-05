@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 13:27
-
 # game/code/e08/e08s04.rpy:68
 translate russian e08s04_623c1c05:
 

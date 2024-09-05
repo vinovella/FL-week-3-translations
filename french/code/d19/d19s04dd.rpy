@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/d19/d19s04dd.rpy:68
 translate french d19s04dd_e5b04d05:
 

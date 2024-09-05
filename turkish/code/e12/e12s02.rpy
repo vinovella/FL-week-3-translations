@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:56
-
 # game/code/e12/e12s02.rpy:58
 translate turkish e12s02_328a43e8:
 
@@ -983,3 +981,4 @@ translate turkish strings:
     # game/code/e12/e12s02.rpy:39
     old "Next day at the hotel gym"
     new "Ertesi gün otelin spor salonunda"
+

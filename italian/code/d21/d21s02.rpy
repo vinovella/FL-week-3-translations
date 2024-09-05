@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d21/d21s02.rpy:29
 translate italian d21s02_3a53d660:
 

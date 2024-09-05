@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-07-27 20:54
-
 # game/code/e16/e16s01.rpy:78
 translate malay e16s01_2b35b6fe:
 

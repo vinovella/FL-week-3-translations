@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/d19/extended/d19s03_ext.rpy:65
 translate french d19s03_ext_3960feb0:
 

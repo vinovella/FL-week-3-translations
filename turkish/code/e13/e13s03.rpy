@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/e13/e13s03.rpy:30
 translate turkish e13s03_9a2dcee3:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:56
-
 # game/code/e14/e14s06.rpy:107
 translate turkish e14s06_8e4b01e8:
 
@@ -2135,3 +2133,4 @@ translate turkish strings:
     # game/code/e14/e14s06.rpy:829
     old "I'm definitely more of a top"
     new "Ben kesinlikle daha üstteyim"
+

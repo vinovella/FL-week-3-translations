@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d15/d15s05.rpy:56
 translate malay d15s05_c7c01bd8:
 
@@ -1423,3 +1421,4 @@ translate malay strings:
     # game/code/d15/d15s05.rpy:245
     old "Wrap this Up"
     new "Selesaikan ini"
+

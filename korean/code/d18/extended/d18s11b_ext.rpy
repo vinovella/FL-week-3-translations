@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/d18/extended/d18s11b_ext.rpy:57
 translate korean d18s11b_ext_c207e5d0:
 

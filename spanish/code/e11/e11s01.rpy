@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-11-14 09:23
-
 # game/code/e11/e11s01.rpy:68
 translate spanish e11s01_66df9fc1:
 
@@ -533,3 +531,4 @@ translate spanish strings:
     # game/code/e11/e11s01.rpy:39
     old "Twenty years later"
     new "Veinte años después"
+

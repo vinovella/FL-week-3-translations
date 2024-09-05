@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d16/extended/d16s07_ext.rpy:50
 translate italian d16s07_ext_0f4c0f58:
 
@@ -927,3 +925,4 @@ translate italian strings:
     # game/code/d16/extended/d16s07_ext.rpy:662
     old "Cum outside"
     new "Vieni fuori"
+

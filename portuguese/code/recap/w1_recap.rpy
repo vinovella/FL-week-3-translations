@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-20 02:57
-
 # game/code/recap/w1_recap.rpy:71
 translate portuguese week_1_recap_1b0a7e0f:
 

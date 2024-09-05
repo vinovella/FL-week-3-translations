@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/e02/e02s07.rpy:62
 translate turkish e02s07_c14c10e0:
 
@@ -1665,3 +1663,4 @@ translate turkish strings:
     # game/code/e02/e02s07.rpy:520
     old "Let Lyssa Fuck You Instead"
     new "Onun yerine Lyssa'nın seni becermesine izin ver"
+

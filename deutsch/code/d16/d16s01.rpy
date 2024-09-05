@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d16/d16s01.rpy:22
 translate deutsch d16s01_66e01943:
 

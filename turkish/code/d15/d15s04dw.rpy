@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d15/d15s04dw.rpy:28
 translate turkish d15s04dw_4290d7de:
 

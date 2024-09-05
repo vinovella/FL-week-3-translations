@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e18/e18s04.rpy:72
 translate french e18s04_371ebce8:
 

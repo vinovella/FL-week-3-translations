@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d19/d19s06.rpy:21
 translate turkish d19s06_417adba7:
 
@@ -1035,3 +1033,4 @@ translate turkish strings:
     # game/code/d19/d19s06.rpy:589
     old "Both Cynthia and Her Mother"
     new "Hem Cynthia hem de Annesi"
+

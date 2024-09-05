@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d20/d20s02tl.rpy:82
 translate malay d20s02tl_56e9281f:
 
@@ -2218,10 +2216,9 @@ translate malay strings:
     old "Whip Them Both Together"
     new "Pukul Mereka berdua Bersama-sama"
 
-# TODO: Translation updated at 2023-02-01 00:18
-
 # game/code/d20/d20s02tl.rpy:243
 translate malay d20s02tl_pray_62f090f2:
 
     # mc "Finally, surrender yourself to my teaching."
     mc "Akhirnya, serahkan diri kau kepada ajaran aku."
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-06-26 17:51
-
 # game/code/e05/e05s06.rpy:62
 translate chinese e05s06_e682e474:
 

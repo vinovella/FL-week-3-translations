@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-01-19 23:50
-
 translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -222,8 +220,6 @@ translate chinese strings:
     old "Ending 10: Min & Nari"
     new "结尾10：明和娜丽"
 
-# TODO: Translation updated at 2023-04-30 17:23
-
 translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:15
@@ -257,8 +253,6 @@ translate chinese strings:
     # game/code/data/extended/replay_room.rpy:15
     old "Ending 08: Pregnant AmRose"
     new "结局08：怀孕的爱洛丝"
-
-# TODO: Translation updated at 2023-05-16 23:34
 
 translate chinese strings:
 
@@ -306,8 +300,6 @@ translate chinese strings:
     old "Ending 06: Lydia"
     new "结局06：莉迪亚"
 
-# TODO: Translation updated at 2023-09-28 22:49
-
 translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:123
@@ -321,8 +313,6 @@ translate chinese strings:
     # game/code/data/extended/replay_room.rpy:138
     old "Ending 14: Polly, Nora & Debbie"
     new "结局14：波莉、诺拉和黛比"
-
-# TODO: Translation updated at 2023-12-07 21:11
 
 translate chinese strings:
 
@@ -341,8 +331,6 @@ translate chinese strings:
     # game/code/data/extended/replay_room.rpy:150
     old "Ending 17: Pregnant Dahlia"
     new "结局17：怀孕的黛丽娅"
-
-# TODO: Translation updated at 2024-02-08 02:40
 
 translate chinese strings:
 
@@ -394,8 +382,6 @@ translate chinese strings:
     old "Ending 07: Lydia & AmRose"
     new "结局07：莉迪亚和爱洛丝"
 
-# TODO: Translation updated at 2024-06-26 17:51
-
 translate chinese strings:
 
     # game/code/data/extended/replay_room.rpy:103
@@ -421,8 +407,6 @@ translate chinese strings:
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie, Molly, Sage & Kristen"
     new "结局16：杰西、莫莉、赛奇和克里斯汀"
-
-# TODO: Translation updated at 2024-08-15 13:10
 
 translate chinese strings:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/screens/lovense.rpy:173
 translate spanish lovense_test_9e0ee773:
 
@@ -130,10 +128,6 @@ translate spanish strings:
     old "Save"
     new "Guardar"
 
-
-
-# TODO: Translation updated at 2023-07-05 00:54
-
 translate spanish strings:
 
     # game/code/screens/lovense.rpy:74
@@ -143,8 +137,6 @@ translate spanish strings:
     # game/code/screens/lovense.rpy:80
     old "Get a toy now"
     new "Consigue un juguete ahora"
-
-# TODO: Translation updated at 2024-08-12 20:44
 
 translate spanish strings:
 

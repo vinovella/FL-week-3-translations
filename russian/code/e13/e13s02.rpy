@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-08-06 21:12
-
 # game/code/e13/e13s02.rpy:81
 translate russian e13s02_0ccad110:
 
@@ -367,8 +365,6 @@ translate russian strings:
     # game/code/e13/e13s02.rpy:240
     old "Cum"
     new "Кончить"
-
-# TODO: Translation updated at 2024-07-27 20:55
 
 # game/code/e13/e13s02.rpy:86
 translate russian e13s02_e5e5853b:

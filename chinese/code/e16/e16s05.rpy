@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-06-26 17:51
-
 # game/code/e16/e16s05.rpy:73
 translate chinese e16s05_983ab75e:
 
@@ -1439,8 +1437,6 @@ translate chinese strings:
     # game/code/e16/e16s05.rpy:555
     old "Do some chokeplay"
     new "玩点窒息游戏"
-
-# TODO: Translation updated at 2024-07-27 20:47
 
 # game/code/e16/e16s05.rpy:741
 translate chinese e16s05_sex_db1b3ad1:

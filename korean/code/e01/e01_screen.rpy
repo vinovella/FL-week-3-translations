@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 translate korean strings:
 
     # game/code/e01/e01_screen.rpy:10

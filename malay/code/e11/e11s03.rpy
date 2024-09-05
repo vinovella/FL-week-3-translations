@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-12-07 21:18
-
 # game/code/e11/e11s03.rpy:71
 translate malay e11s03_9eb8e074:
 

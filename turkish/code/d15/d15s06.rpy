@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d15/d15s06.rpy:77
 translate turkish d15s06_1d052d6c:
 
@@ -1703,3 +1701,4 @@ translate turkish strings:
     # game/code/d15/d15s06.rpy:934
     old "I love you too"
     new "Ben de seni seviyorum"
+

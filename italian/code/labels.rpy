@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/labels.rpy:103
 translate italian after_credits_583c0fde:
 
@@ -689,3 +687,4 @@ translate italian after_credits_f4cf666b:
 
     # sy "I can't wait to enjoy it with you."
     sy "Non vedo l'ora di godermelo con te."
+

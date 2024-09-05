@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-08 02:50
-
 # game/code/e07/e07s07.rpy:20
 translate italian e07s07_ddc7908e:
 

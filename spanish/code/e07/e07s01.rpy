@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-02-08 02:37
-
 # game/code/e07/e07s01.rpy:55
 translate spanish e07s01_4eb8b392:
 

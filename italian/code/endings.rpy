@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/endings.rpy:279
 translate italian ending_not_available_f3f9fce0:
 

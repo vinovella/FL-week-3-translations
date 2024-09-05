@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-22 23:46
-
 translate portuguese strings:
 
     # game/code/functions.rpy:170
@@ -30,10 +28,9 @@ translate portuguese strings:
     old "You can only select one out of Daisy and Dahlia"
     new "Você só pode escolher ou Daisy ou Dahlia"
 
-# TODO: Translation updated at 2023-06-15 00:07
-
 translate portuguese strings:
 
     # game/code/functions.rpy:23
     old "You have unlocked Ending #{}"
     new "Você desbloqueou o Final #{}"
+

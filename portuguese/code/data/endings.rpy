@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-20 17:24
-
 translate portuguese strings:
 
     # game/code/data/endings.rpy:3
@@ -179,3 +177,4 @@ translate portuguese strings:
 
     old "E18 - Quartet"
     new "E18 - Quarteto"
+

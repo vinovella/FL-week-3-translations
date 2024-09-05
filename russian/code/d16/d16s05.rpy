@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-01-31 15:43
-
 # game/code/d16/d16s05.rpy:12
 translate russian d16s05_7a5532ea:
 
@@ -1091,8 +1089,6 @@ translate russian strings:
     # game/code/d16/d16s05.rpy:333
     old "Ask her if she got any pictures"
     new "Спросить ее, есть ли у нее фотографии."
-
-# TODO: Translation updated at 2022-08-06 21:12
 
 translate russian strings:
 

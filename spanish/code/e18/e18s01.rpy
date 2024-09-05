@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-08-12 20:44
-
 # game/code/e18/e18s01.rpy:103
 translate spanish e18s01_046bee3f:
 

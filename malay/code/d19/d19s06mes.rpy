@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d19/d19s06mes.rpy:43
 translate malay d19s06mes_3f591a4b:
 
@@ -1134,8 +1132,6 @@ translate malay d19s06mes_ac9adf42:
     # mes "I haven't had that much fun since she went into the Pandora room."
     mes "Aku tak begitu seronok sejak dia masuk ke bilik Pandora."
 
-# TODO: Translation updated at 2023-02-01 00:18
-
 # game/code/d19/d19s06mes.rpy:674
 translate malay d19s06mes_a19ae317:
 
@@ -1153,3 +1149,4 @@ translate malay strings:
     # game/code/d19/d19s06mes.rpy:220
     old "Do you want to see watersports?"
     new "Kau nak tengok sukan air?"
+

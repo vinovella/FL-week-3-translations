@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-01-31 15:43
-
 # game/code/d16/d16s02.rpy:24
 translate russian d16s02_0eb8c9ee:
 
@@ -244,8 +242,6 @@ translate russian strings:
     old "Not right now"
     new "Не сейчас"
 
-# TODO: Translation updated at 2022-04-11 19:23
-
 # game/code/d16/d16s02.rpy:55
 translate russian d16s02_4f3aca5a:
 
@@ -263,8 +259,6 @@ translate russian d16s02_71e9aca5:
 
     # fl "How will {i}you{/i} fare?"
     fl "Как {i}ты{/i} справишься?"
-
-# TODO: Translation updated at 2022-08-06 21:12
 
 translate russian strings:
 

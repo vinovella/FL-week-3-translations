@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d20/d20s02rn.rpy:41
 translate malay d20s02rn_8e860913:
 
@@ -937,3 +935,4 @@ translate malay strings:
     # game/code/d20/d20s02rn.rpy:237
     old "Let them keep going"
     new "Biarkan mereka teruskan"
+

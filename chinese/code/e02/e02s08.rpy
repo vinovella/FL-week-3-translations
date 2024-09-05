@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-13 23:02
-
 # game/code/e02/e02s08.rpy:15
 translate chinese e02s08_646c2663:
 
@@ -1593,3 +1591,4 @@ translate chinese strings:
     # game/code/e02/e02s08.rpy:329
     old "Be submissive with Lyssa"
     new "顺从丽莎"
+

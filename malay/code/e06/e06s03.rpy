@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-01 02:05
-
 # game/code/e06/e06s03.rpy:65
 translate malay e06s03_63dc63e8:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/e01/e01s02.rpy:16
 translate turkish e01s02_fd8d44aa:
 

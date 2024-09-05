@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d16/d16s06.rpy:66
 translate malay d16s06_e9ce6c28:
 
@@ -750,8 +748,6 @@ translate malay d16s06_89a8c10f:
     # flr "You have earned [d16s06_points] points."
     flr "Anda telah memperoleh [d16s06_points] mata."
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d16/d16s06.rpy:239
 translate malay d16s06_7fa6b07f:
 
@@ -781,3 +777,4 @@ translate malay d16s06_d7755542:
 
     # aw "*Laughs* \"Emotions\" huh? Well, I'm sure glad I got to experience it."
     aw "*Ketawa* \"Emosi\" huh? Aku pasti gembira kerana aku dapat mengalaminya."
+

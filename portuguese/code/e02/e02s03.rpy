@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-05 17:01
-
 # game/code/e02/e02s03.rpy:13
 translate portuguese e02s03_da344b59:
 
@@ -836,15 +834,11 @@ translate portuguese strings:
     old "That was amazing"
     new "Isso foi incrível"
 
-# TODO: Translation updated at 2023-05-13 23:03
-
 # game/code/e02/e02s03.rpy:298
 translate portuguese e02s03_lodge_64ffe7e5:
 
     # mh "Oh, how romantic. And I about to be dominated... like a beast in wild?"
     mh "Ah, que romântico. E eu vou ser dominada... como bicho selvagem?"
-
-# TODO: Translation updated at 2023-05-16 01:31
 
 # game/code/e02/e02s03.rpy:285
 translate portuguese e02s03_lodge_d9ce7b3b:

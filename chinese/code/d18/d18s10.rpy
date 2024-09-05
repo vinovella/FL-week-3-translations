@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d18/d18s10.rpy:84
 translate chinese d18s10_0b2e1d6b:
 
@@ -750,15 +748,11 @@ translate chinese d18s10_end_1da49de8_1:
     # mct "I can't even."
     mct "不敢相信。"
 
-# TODO: Translation updated at 2022-12-13 23:31
-
 translate chinese strings:
 
     # game/code/d18/d18s10.rpy:226
     old "What is your darkest fantasy about Lydia?"
     new "你对莉迪亚最黑暗的幻想是什么？"
-
-# TODO: Translation updated at 2023-05-16 23:34
 
 translate chinese strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d18/d18s03.rpy:70
 translate deutsch d18s03_ec5dba5c:
 
@@ -1751,3 +1749,4 @@ translate deutsch strings:
     # game/code/d18/d18s03.rpy:1050
     old "No. Definitely NOT"
     new "Nein, definitiv NICHT"
+

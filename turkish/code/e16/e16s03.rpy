@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-16 01:07
-
 # game/code/e16/e16s03.rpy:15
 translate turkish e16s03_aa85840b:
 

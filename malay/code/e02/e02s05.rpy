@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-01 02:05
-
 # game/code/e02/e02s05.rpy:24
 translate malay e02s05_71d34fa3:
 
@@ -711,3 +709,4 @@ translate malay strings:
     # game/code/e02/e02s05.rpy:381
     old "Enjoy Your Vacation And Go Home"
     new "Nikmati Percutian Awak Dan Pulang"
+

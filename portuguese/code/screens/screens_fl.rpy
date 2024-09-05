@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:54
@@ -230,15 +228,11 @@ translate portuguese strings:
     old "SKIP RECAP"
     new "PULAR RECAPITULAÇÃO"
 
-# TODO: Translation updated at 2022-12-06 22:13
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:444
     old "RETURN"
     new "VOLTAR"
-
-# TODO: Translation updated at 2023-05-20 02:57
 
 translate portuguese strings:
 
@@ -249,8 +243,6 @@ translate portuguese strings:
     # game/code/screens/screens_fl.rpy:1322
     old "Skip Recap\nof Week-2"
     new "Pular Recapitulação\nda Semana-2"
-
-# TODO: Translation updated at 2023-05-27 13:24
 
 translate portuguese strings:
 
@@ -265,7 +257,6 @@ translate portuguese strings:
     # game/code/screens/screens_fl.rpy:180
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
     new "Se decidir continuar, talvez não consiga carregar os jogos salvos da Semana-2. Você não receberá outra notificação. Tem certeza?"
-# TODO: Translation updated at 2024-07-27 20:57
 
 translate portuguese strings:
 

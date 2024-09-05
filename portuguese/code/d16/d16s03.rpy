@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d16/d16s03.rpy:19
 translate portuguese d16s03_dd526ff9:
 

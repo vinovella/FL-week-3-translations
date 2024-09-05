@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/d20/d20s01.rpy:27
 translate korean d20s01_ab231225:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Please reinvite me on ViNovella's Discord server: skyejordan666
-
 translate malay strings:
 
     # game/code/data/extended/extra_gallery.rpy:15
@@ -302,8 +300,6 @@ translate malay strings:
     old "The whole\nharem pregnant"
     new "Seluruh\nharem hamil"
 
-# TODO: Translation updated at 2024-02-09 23:53
-
 translate malay strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
@@ -369,3 +365,4 @@ translate malay strings:
     # game/code/data/extended/extra_gallery.rpy:715
     old "APPY"
     new "APPY"
+

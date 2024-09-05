@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d16/d16s05.rpy:12
 translate malay d16s05_7a5532ea:
 
@@ -1092,10 +1090,9 @@ translate malay strings:
     old "Ask her if she got any pictures"
     new "Tanya dia jika dia mendapat sebarang gambar"
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 translate malay strings:
 
     # game/code/d16/d16s05.rpy:9
     old "After the class"
     new "Selepas kelas"
+

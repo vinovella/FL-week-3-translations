@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/d19/d19s02.rpy:23
 translate korean d19s02_0c7b4226:
 

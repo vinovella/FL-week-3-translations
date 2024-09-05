@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-03-27 12:24
-
 # game/code/e01/e01s02.rpy:12
 translate portuguese e01s02_fd8d44aa:
 
@@ -803,8 +801,6 @@ translate portuguese strings:
     # game/code/e01/e01s02.rpy:4
     old "At Subway Station"
     new "No Metrô"
-
-# TODO: Translation updated at 2023-05-22 21:19
 
 translate portuguese strings:
 

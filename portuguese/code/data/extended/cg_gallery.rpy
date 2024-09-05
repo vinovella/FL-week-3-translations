@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -66,8 +64,6 @@ translate portuguese strings:
     old "Ending 13: Pregnant Nora"
     new "Final 13: Nora Grávida"
 
-# TODO: Translation updated at 2022-12-26 00:31
-
 translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -113,8 +109,6 @@ translate portuguese strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Day 20: Stacy & AmRose"
     new "Dia 20: Stacy & AmRose"
-
-# TODO: Translation updated at 2023-05-20 23:17
 
 translate portuguese strings:
 
@@ -173,7 +167,6 @@ translate portuguese strings:
     # game/code/data/extended/cg_gallery.rpy:85
     old "Ending 07: Girls"
     new "Final 07: Garotas"
-# TODO: Translation updated at 2024-05-05 22:03
 
 translate portuguese strings:
 
@@ -189,15 +182,11 @@ translate portuguese strings:
     old "Ending 16: Farm Animals"
     new ""
 
-# TODO: Translation updated at 2024-07-27 20:57
-
 translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Jessie & Kanya"
     new ""
-
-# TODO: Translation updated at 2024-08-18 16:35
 
 translate portuguese strings:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:56
-
 # game/code/e12/e12s03.rpy:47
 translate turkish e12s03_92d88967:
 
@@ -1217,3 +1215,4 @@ translate turkish e12s03_sex_4a53788f:
 
     # vw "Oh quiet you. Just hold me and let's watch the sun set before I go make dinner."
     vw "Oh sessiz ol. Sadece bana sarıl ve akşam yemeği yapmadan önce güneşin batışını izleyelim."
+

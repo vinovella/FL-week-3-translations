@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d15/d15s08.rpy:25
 translate turkish d15s08_ac30fa16:
 

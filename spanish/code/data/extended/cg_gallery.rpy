@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:46
-
 translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -198,8 +196,6 @@ translate spanish strings:
     old "Ending 13: Pregnant Nora"
     new "Final 13: Nora embarazada"
 
-# TODO: Translation updated at 2023-09-28 22:55
-
 translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:94
@@ -209,8 +205,6 @@ translate spanish strings:
     # game/code/data/extended/cg_gallery.rpy:103
     old "Ending 14: Polly & Nora"
     new "Final 14: Polly y Nora"
-
-# TODO: Translation updated at 2023-11-23 21:07
 
 translate spanish strings:
 
@@ -222,8 +216,6 @@ translate spanish strings:
     old "Ending 17: Dahlia"
     new "Final 17: Dahlia"
 
-# TODO: Translation updated at 2024-02-10 00:13
-
 translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:75
@@ -233,8 +225,6 @@ translate spanish strings:
     # game/code/data/extended/cg_gallery.rpy:85
     old "Ending 07: Girls"
     new "Final 07: Chicas"
-
-# TODO: Translation updated at 2024-05-05 22:02
 
 translate spanish strings:
 
@@ -250,15 +240,11 @@ translate spanish strings:
     old "Ending 16: Farm Animals"
     new "Final 16: Animales de granja"
 
-# TODO: Translation updated at 2024-07-27 20:56
-
 translate spanish strings:
 
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Jessie & Kanya"
     new "Final 16: Jessie y Kanya"
-
-# TODO: Translation updated at 2024-08-12 20:44
 
 translate spanish strings:
 
@@ -269,7 +255,6 @@ translate spanish strings:
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Samiya & Dahlia"
     new "Final 18: Samiya y Dahlia"
-
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Kendell & Londyn"

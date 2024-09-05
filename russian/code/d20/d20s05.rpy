@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-05 13:07
-
 # game/code/d20/d20s05.rpy:34
 translate russian d20s05_47e7cec6:
 
@@ -1345,8 +1343,6 @@ translate russian strings:
     # game/code/d20/d20s05.rpy:444
     old "Talk About Your Summer Plans"
     new "Рассказать о своих планах на лето"
-
-# TODO: Translation updated at 2022-12-30 19:37
 
 # game/code/d20/d20s05.rpy:366
 translate russian d20s05_pool_5f2ca332:

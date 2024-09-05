@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-05 13:07
-
 # game/code/d20/d20s02tl.rpy:81
 translate russian d20s02tl_56e9281f:
 
@@ -2217,8 +2215,6 @@ translate russian strings:
     # game/code/d20/d20s02tl.rpy:666
     old "Whip Them Both Together"
     new "Предложить им заняться друг дружкой"
-
-# TODO: Translation updated at 2022-12-30 19:37
 
 # game/code/d20/d20s02tl.rpy:243
 translate russian d20s02tl_pray_62f090f2:

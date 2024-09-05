@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-05 14:57
-
 # game/code/d18/d18s02.rpy:26
 translate russian d18s02_f772c18d:
 
@@ -299,8 +297,6 @@ translate russian d18s02_bfe3e635:
 
     # mc "...Welp, guess I got some time to kill before class."
     mc "... Ну, думаю, у меня есть немного времени, чтобы потратить его перед началом уроков."
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 translate russian strings:
 

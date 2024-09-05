@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 13:27
-
 # game/code/d21/d21s03.rpy:9
 translate russian d21s03_28c93870:
 

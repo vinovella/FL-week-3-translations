@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 translate malay strings:
 
     # game/code/screens/extended/screens.rpy:18
@@ -37,8 +35,6 @@ translate malay strings:
     # game/code/screens/extended/screens.rpy:207
     old "Endings"
     new "Pengakhiran"
-
-# TODO: Translation updated at 2022-11-19 23:16
 
 translate malay strings:
 

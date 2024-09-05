@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d18/d18s02.rpy:33
 translate turkish d18s02_f772c18d:
 

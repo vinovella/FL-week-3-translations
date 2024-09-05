@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d17/d17s06dd.rpy:45
 translate chinese d17s06dd_10938193:
 
@@ -1241,3 +1239,4 @@ translate chinese strings:
     # game/code/d17/d17s06dd.rpy:379
     old "Don't Care"
     new "不关心"
+

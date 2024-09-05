@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:56
-
 # game/code/e12/e12s05.rpy:110
 translate turkish e12s05_669664cb:
 
@@ -2253,3 +2251,4 @@ translate turkish strings:
     # game/code/e12/e12s05.rpy:1132
     old "Not now"
     new "Şimdi olmaz."
+

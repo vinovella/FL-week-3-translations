@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-12-19 11:46
-
 # game/code/d15/d15s06.rpy:64
 translate russian d15s06_1d052d6c:
 
@@ -1586,8 +1584,6 @@ translate russian strings:
     old "I love you too"
     new "Я тоже тебя люблю"
 
-# TODO: Translation updated at 2022-01-31 15:43
-
 # game/code/d15/d15s06.rpy:458
 translate russian d15s06_house_3d2533db:
 
@@ -1695,8 +1691,6 @@ translate russian d15s06_house_8f645d73:
 
     # mc "I want you to go deeper."
     mc "Я хочу, чтобы ты вошла глубже."
-
-# TODO: Translation updated at 2022-08-06 21:12
 
 # game/code/d15/d15s06.rpy:350
 translate russian d15s06_house_1c83b9e5:

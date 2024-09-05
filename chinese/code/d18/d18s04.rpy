@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d18/d18s04.rpy:72
 translate chinese d18s04_09dff030:
 
@@ -1145,3 +1143,4 @@ translate chinese strings:
     # game/code/d18/d18s04.rpy:382
     old "Remind Them You Are There"
     new "提醒她们你也在"
+

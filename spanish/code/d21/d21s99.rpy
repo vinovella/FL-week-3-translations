@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-07-05 00:54
-
 translate spanish strings:
 
     # game/code/d21/d21s99.rpy:8

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d15/extended/d15s05b_ext.rpy:65
 translate chinese d15s05b_ext_247f8221:
 
@@ -2411,3 +2409,4 @@ translate chinese strings:
     # game/code/d15/extended/d15s05b_ext.rpy:940
     old "Say that is enough for today"
     new "今天就到此为止吧"
+

@@ -1,11 +1,8 @@
-# TODO: Translation updated at 2023-02-01 00:18
-
 # game/code/d19/extended/d19s03_ext.rpy:65
 translate malay d19s03_ext_3960feb0:
 
     # mc "Oh, by the way, before you leave. Do you mind if I crash at your place after getting my stuff?"
     mc "Oh, sebelum kau pergi, kau tak kesah kalau aku duduk sini selepas mendapatkan barang aku?"
-
 
 # game/code/d19/extended/d19s03_ext.rpy:67
 translate malay d19s03_ext_50687228:
@@ -1046,3 +1043,4 @@ translate malay strings:
     # game/code/d19/extended/d19s03_ext.rpy:386
     old "Jerk off Lyssa"
     new "Lancapkan Lyssa"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:47
-
 translate korean strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -198,8 +196,6 @@ translate korean strings:
     old "Ending 13: Pregnant Nora"
     new "Ending 13: Pregnant Nora"
 
-# TODO: Translation updated at 2023-09-28 22:51
-
 translate korean strings:
 
     # game/code/data/extended/cg_gallery.rpy:94
@@ -209,8 +205,6 @@ translate korean strings:
     # game/code/data/extended/cg_gallery.rpy:103
     old "Ending 14: Polly & Nora"
     new "Ending 14: Polly & Nora"
-
-# TODO: Translation updated at 2023-12-07 21:17
 
 translate korean strings:
 
@@ -222,8 +216,6 @@ translate korean strings:
     old "Ending 17: Dahlia"
     new "Ending 17: Dahlia"
 
-# TODO: Translation updated at 2024-02-09 23:51
-
 translate korean strings:
 
     # game/code/data/extended/cg_gallery.rpy:75
@@ -233,8 +225,6 @@ translate korean strings:
     # game/code/data/extended/cg_gallery.rpy:85
     old "Ending 07: Girls"
     new "Ending 07: Girls"
-
-# TODO: Translation updated at 2024-07-27 20:53
 
 translate korean strings:
 
@@ -249,8 +239,6 @@ translate korean strings:
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Farm Animals"
     new "Ending 16: Farm Animals"
-
-# TODO: Translation updated at 2024-08-18 16:34
 
 translate korean strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e08/e08s01.rpy:85
 translate deutsch e08s01_40e3b63d:
 

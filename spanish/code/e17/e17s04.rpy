@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-11-14 09:23
-
 # game/code/e17/e17s04.rpy:54
 translate spanish e17s04_f538fcc5:
 

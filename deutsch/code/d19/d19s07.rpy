@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d19/d19s07.rpy:59
 translate deutsch d19s07_8f5cc00d:
 

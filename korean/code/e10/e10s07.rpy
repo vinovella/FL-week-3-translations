@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/e10/e10s07.rpy:15
 translate korean e10s07_58e7fd20:
 

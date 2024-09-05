@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-06-01 02:05
-
 # game/code/e02/e02s10.rpy:55
 translate malay e02s10_1cc9503b:
 
@@ -857,3 +855,4 @@ translate malay strings:
     # game/code/e02/e02s10.rpy:635
     old "You have finished playing Ending #02!"
     new "Anda telah selesai bermain Pengakhiran #02!"
+

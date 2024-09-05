@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-05-05 22:03
-
 # game/code/e16/e16s06.rpy:41
 translate portuguese e16s06_3b7cfc98:
 
@@ -1277,8 +1275,6 @@ translate portuguese strings:
     # game/code/e16/e16s06.rpy:33
     old "Three months later"
     new "Três meses depois"
-
-# TODO: Translation updated at 2024-07-27 20:57
 
 # game/code/e16/e16s06.rpy:361
 translate portuguese e16s06_sex_ba37d53b:

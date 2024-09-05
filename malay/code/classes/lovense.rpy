@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 13:19
-
 translate malay strings:
 
     # game/code/classes/lovense.rpy:50

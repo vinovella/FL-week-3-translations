@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d15/d15s01.rpy:170
 translate chinese d15s01_6dca3502:
 
@@ -2225,3 +2223,4 @@ translate chinese strings:
     # game/code/d15/d15s01.rpy:311
     old "Decide Which Cage to Wear"
     new "决定选哪个笼子"
+

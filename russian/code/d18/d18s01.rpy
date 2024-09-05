@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-05 14:57
-
 # game/code/d18/d18s01.rpy:15
 translate russian d18s01_f8914e3e:
 
@@ -1176,8 +1174,6 @@ translate russian d18s01_shower_lc_a49ed4f8:
     # mc "Okay."
     mc "Ладно."
 
-# TODO: Translation updated at 2022-08-24 12:18
-
 # game/code/d18/d18s01.rpy:220
 translate russian d18s01_shower_8b94327f:
 
@@ -1303,8 +1299,6 @@ translate russian strings:
     # game/code/d18/d18s01.rpy:14
     old "Thursday\nDay-18"
     new "Четверг\nДень-18."
-
-# TODO: Translation updated at 2022-11-05 13:07
 
 # game/code/d18/d18s01.rpy:217
 translate russian d18s01_shower_df6c05a7:

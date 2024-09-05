@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d20/d20s04.rpy:31
 translate turkish d20s04_63ba38f0:
 

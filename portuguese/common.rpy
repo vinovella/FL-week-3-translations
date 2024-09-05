@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 translate portuguese strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1278,8 +1276,6 @@ translate portuguese strings:
     old "Sync Error"
     new "Erro de Sync"
 
-# TODO: Translation updated at 2024-02-10 01:12
-
 translate portuguese strings:
 
     # renpy/common/00accessibility.rpy:120
@@ -1377,8 +1373,6 @@ translate portuguese strings:
     # renpy/common/00updater.rpy:2089
     old "Retry"
     new "Tentar novamente"
-
-# TODO: Translation updated at 2024-07-27 20:57
 
 translate portuguese strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/d20/d20s01.rpy:27
 translate italian d20s01_ab231225:
 

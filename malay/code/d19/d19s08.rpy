@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d19/d19s08.rpy:23
 translate malay d19s08_7107f1b7:
 
@@ -601,3 +599,4 @@ translate malay strings:
     # game/code/d19/d19s08.rpy:111
     old "Ask for a picture"
     new "Minta gambar"
+

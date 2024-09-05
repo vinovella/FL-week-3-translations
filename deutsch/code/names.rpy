@@ -166,3 +166,4 @@ translate deutsch strings:
 
     old "Kristen"
     new "Kristen"
+

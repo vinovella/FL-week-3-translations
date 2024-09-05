@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/d16/d16s01.rpy:22
 translate korean d16s01_66e01943:
 

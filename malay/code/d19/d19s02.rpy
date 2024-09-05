@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d19/d19s02.rpy:17
 translate malay d19s02_0c7b4226:
 
@@ -766,18 +764,15 @@ translate malay strings:
     old "Go to her"
     new "Pergi ke dia"
 
-# TODO: Translation updated at 2023-02-01 00:18
-
 # game/code/d19/d19s02.rpy:541
 translate malay d19s02_d138a5d3:
 
     # mct "I forgot to ask AmRose while she is here."
     mct "Aku terlupa untuk tanya kepada AmRose semasa dia berada di sini."
 
-# TODO: Translation updated at 2023-05-03 19:39
-
 # game/code/d19/d19s02.rpy:510
 translate malay d19s02_b0400d74:
 
     # mct "I'll be there"
     mct "Aku akan berada di sana"
+

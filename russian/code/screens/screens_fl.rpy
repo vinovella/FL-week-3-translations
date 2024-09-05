@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-12-19 11:46
-
 translate russian strings:
 
     # game/code/screens/screens_fl.rpy:54
@@ -126,8 +124,6 @@ translate russian strings:
     old "SKIP RECAP"
     new "ПРОПУСТИТЬ"
 
-# TODO: Translation updated at 2022-01-31 15:43
-
 translate russian strings:
 
     # game/code/screens/screens_fl.rpy:539
@@ -177,8 +173,6 @@ translate russian strings:
     # game/code/screens/screens_fl.rpy:947
     old "Did you let Pete hit on Samiya?"
     new "Вы позволили Питу остаться с Самией?"
-
-# TODO: Translation updated at 2022-08-06 21:12
 
 translate russian strings:
 
@@ -250,15 +244,11 @@ translate russian strings:
     old "Did you creampie Nora and agree to be the father?"
     new "Вы трахнули Нору и согласились быть отцом?"
 
-# TODO: Translation updated at 2022-08-24 12:18
-
 translate russian strings:
 
     # game/code/screens/screens_fl.rpy:1002
     old "Did you give the password to her?"
     new "Вы дали ей пароль?"
-
-# TODO: Translation updated at 2022-11-05 13:07
 
 translate russian strings:
 
@@ -269,8 +259,6 @@ translate russian strings:
     # game/code/screens/screens_fl.rpy:354
     old "{u}Done{/u}"
     new "{u}Готово{/u}"
-
-# TODO: Translation updated at 2022-12-30 19:37
 
 translate russian strings:
 
@@ -310,8 +298,6 @@ translate russian strings:
     old "Did you give the password to Hana?"
     new "Вы дали пароль Хане?"
 
-# TODO: Translation updated at 2023-05-27 13:27
-
 translate russian strings:
 
     # game/code/screens/screens_fl.rpy:265
@@ -333,7 +319,6 @@ translate russian strings:
     # game/code/screens/screens_fl.rpy:180
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
     new "Если вы решите продолжить, то, возможно, не сможете загрузить сохранения со второй недели. Вы больше не будете получать уведомления. Вы уверены?"
-# TODO: Translation updated at 2024-07-27 20:55
 
 translate russian strings:
 

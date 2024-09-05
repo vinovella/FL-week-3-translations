@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d19/d19s09.rpy:137
 translate turkish d19s09_6670f26a:
 

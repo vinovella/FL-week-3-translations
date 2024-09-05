@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-08-24 12:18
-
 # game/code/d19/d19s01lc.rpy:16
 translate russian d19s01lc_31455c3a:
 
@@ -767,8 +765,6 @@ translate russian strings:
     # game/code/d19/d19s01lc.rpy:209
     old "Tell Her It Was Fun"
     new "Сказать, что это было весело"
-
-# TODO: Translation updated at 2022-11-05 13:07
 
 # game/code/d19/d19s01lc.rpy:73
 translate russian d19s01lc_1d50fecb:

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/e13/e13s04.rpy:47
 translate malay e13s04_b0f568c1:
 
@@ -216,15 +214,11 @@ translate malay strings:
     old "One year later"
     new "One year later"
 
-# TODO: Translation updated at 2023-05-27 13:19
-
 translate malay strings:
 
     # game/code/e13/e13s04.rpy:274
     old "You have finished playing ending number 13!"
     new "You have finished playing ending number 13!"
-
-# TODO: Translation updated at 2024-07-27 20:54
 
 # game/code/e13/e13s04.rpy:179
 translate malay replay_e13s04_4ae8355d:

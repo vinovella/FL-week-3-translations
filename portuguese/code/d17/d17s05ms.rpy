@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d17/d17s05ms.rpy:15
 translate portuguese d17s05ms_88a52a16:
 
@@ -1259,3 +1257,4 @@ translate portuguese d17s05ms_be58e169:
 
     # mh "Well, I'm glad."
     mh "Opa, que bom."
+

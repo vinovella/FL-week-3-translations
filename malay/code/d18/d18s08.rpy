@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d18/d18s08.rpy:10
 translate malay d18s08_2004fe1c:
 
@@ -269,3 +267,4 @@ translate malay d18s08_a2f0bfe0:
 
     # hr "Let's go find the new professor. We don't have time to waste."
     hr "Jom cari profesor baru itu. Kita tak ada masa untuk membazir."
+

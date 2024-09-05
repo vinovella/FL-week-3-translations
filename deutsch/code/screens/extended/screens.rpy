@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 translate deutsch strings:
 
     # game/code/screens/extended/screens.rpy:120
@@ -77,8 +75,6 @@ translate deutsch strings:
     # game/code/screens/extended/screens.rpy:440
     old "BONUS CONTENT"
     new "BONUS INHALT"
-
-# TODO: Translation updated at 2024-02-18 11:59
 
 translate deutsch strings:
 

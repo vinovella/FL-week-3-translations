@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:47
-
 translate korean strings:
 
     # game/code/screens/endings.rpy:11
@@ -33,8 +31,6 @@ translate korean strings:
     # game/code/screens/endings.rpy:80
     old "Exit to Mainmenu"
     new "Exit to Mainmenu"
-
-# TODO: Translation updated at 2024-02-18 12:04
 
 translate korean strings:
 

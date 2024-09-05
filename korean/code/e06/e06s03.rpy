@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/e06/e06s03.rpy:65
 translate korean e06s03_63dc63e8:
 

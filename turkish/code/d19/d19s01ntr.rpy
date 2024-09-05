@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d19/d19s01ntr.rpy:21
 translate turkish d19s01ntr_bef95491:
 
@@ -1073,8 +1071,6 @@ translate turkish strings:
     # game/code/d19/d19s01ntr.rpy:412
     old "Go Fuck Yourself"
     new "Git kendini becer"
-
-# TODO: Translation updated at 2024-02-06 17:03
 
 # game/code/d19/d19s01ntr.rpy:424
 translate turkish d19s01ntr_decision_aeef075e:

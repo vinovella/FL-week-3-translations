@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/e02/e02s03.rpy:37
 translate spanish e02s03_da344b59:
 

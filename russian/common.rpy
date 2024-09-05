@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-10-15 09:58
-
 translate russian strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1146,15 +1144,11 @@ translate russian strings:
     old "Copies the errors.txt file to the clipboard as Markdown for Discord."
     new "Копирует файл errors.txt в буфер обмена для передачи в Discord."
 
-# TODO: Translation updated at 2021-10-16 09:34
-
 translate russian strings:
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
     new "Нажмите или переместите '[control!s]' [kind]."
-
-# TODO: Translation updated at 2021-10-18 22:08
 
 translate russian strings:
 
@@ -1210,8 +1204,6 @@ translate russian strings:
     old "Restart"
     new "Рестарт"
 
-# TODO: Translation updated at 2021-11-16 22:39
-
 translate russian strings:
 
     # renpy/common/00accessibility.rpy:180
@@ -1230,8 +1222,6 @@ translate russian strings:
     old "high contrast text"
     new "высококонтрастный текст"
 
-# TODO: Translation updated at 2023-05-23 16:07
-
 translate russian strings:
 
     # renpy/common/00action_other.rpy:703
@@ -1249,8 +1239,6 @@ translate russian strings:
     # renpy/common/00preferences.rpy:531
     old "mute main"
     new "заглушить звук"
-
-# TODO: Translation updated at 2023-06-01 13:49
 
 translate russian strings:
 
@@ -1461,7 +1449,6 @@ translate russian strings:
     # renpy/common/00updater.rpy:2089
     old "Retry"
     new "Retry"
-# TODO: Translation updated at 2024-07-27 20:55
 
 translate russian strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-05 13:07
-
 # game/code/d20/d20s02zw.rpy:50
 translate russian d20s02zw_1bbcab10:
 

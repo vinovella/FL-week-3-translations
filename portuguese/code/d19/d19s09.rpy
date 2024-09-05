@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d19/d19s09.rpy:125
 translate portuguese d19s09_6670f26a:
 
@@ -927,8 +925,6 @@ translate portuguese strings:
     # game/code/d19/d19s09.rpy:814
     old "Switch"
     new "Trocar"
-
-# TODO: Translation updated at 2022-12-13 23:34
 
 # game/code/d19/d19s09.rpy:987
 translate portuguese d19s09_end_8a44ad0b:

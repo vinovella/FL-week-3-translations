@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d16/extended/d16s07_ext.rpy:50
 translate portuguese d16s07_ext_0f4c0f58:
 
@@ -927,3 +925,4 @@ translate portuguese strings:
     # game/code/d16/extended/d16s07_ext.rpy:640
     old "Cum outside"
     new "Gozar fora"
+

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/e13/e13s03.rpy:30
 translate malay e13s03_9a2dcee3:
 

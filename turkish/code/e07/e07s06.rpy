@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-02-08 02:36
-
 # game/code/e07/e07s06.rpy:19
 translate turkish e07s06_7cbb521d:
 
@@ -1545,3 +1543,4 @@ translate turkish strings:
     # game/code/e07/e07s06.rpy:641
     old "Don't suck the dick"
     new "Aleti emme"
+

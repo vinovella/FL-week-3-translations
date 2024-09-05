@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d19/d19s07.rpy:54
 translate chinese d19s07_8f5cc00d:
 

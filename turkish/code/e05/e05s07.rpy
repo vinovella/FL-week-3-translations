@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-07-16 01:07
-
 # game/code/e05/e05s07.rpy:65
 translate turkish e05s07_003978cc:
 
@@ -1801,3 +1799,4 @@ translate turkish strings:
     # game/code/e05/e05s07.rpy:1057
     old "You have finished playing Ending #05!"
     new "Son #05'i oynamayı bitirdiniz!"
+

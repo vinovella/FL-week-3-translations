@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-03-10 21:23
-
 # game/code/d21/d21s03.rpy:8
 translate portuguese d21s03_28c93870:
 
@@ -685,3 +683,4 @@ translate portuguese strings:
     # game/code/d21/d21s03.rpy:129
     old "Don't mention it"
     new "Não mencionar"
+

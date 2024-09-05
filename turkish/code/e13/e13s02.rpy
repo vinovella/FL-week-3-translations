@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/e13/e13s02.rpy:83
 translate turkish e13s02_0ccad110:
 
@@ -363,8 +361,6 @@ translate turkish strings:
     # game/code/e13/e13s02.rpy:263
     old "Fuck Her Anally"
     new "Onu Anal Yoldan Sik"
-
-# TODO: Translation updated at 2024-07-16 01:07
 
 # game/code/e13/e13s02.rpy:86
 translate turkish e13s02_e5e5853b:

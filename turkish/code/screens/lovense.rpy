@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/screens/lovense.rpy:173
 translate turkish lovense_test_9e0ee773:
 
@@ -130,8 +128,6 @@ translate turkish strings:
     old "Save"
     new "Kaydet"
 
-# TODO: Translation updated at 2023-07-05 01:13
-
 translate turkish strings:
 
     # game/code/screens/lovense.rpy:74
@@ -141,8 +137,6 @@ translate turkish strings:
     # game/code/screens/lovense.rpy:80
     old "Get a toy now"
     new "Hemen bir oyuncak al"
-
-# TODO: Translation updated at 2024-08-18 16:13
 
 translate turkish strings:
 

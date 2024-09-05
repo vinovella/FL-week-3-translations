@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-01-19 23:50
-
 # game/code/d19/extended/d19s03_ext.rpy:65
 translate chinese d19s03_ext_3960feb0:
 

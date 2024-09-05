@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-12-26 00:31
-
 # game/code/d18/extended/d18s05_ext.rpy:63
 translate portuguese d18s05_ext_0d9b52ab:
 
@@ -709,8 +707,6 @@ translate portuguese strings:
     # game/code/d18/extended/d18s05_ext.rpy:611
     old "No"
     new "Não"
-
-# TODO: Translation updated at 2024-07-27 20:57
 
 # game/code/d18/extended/d18s05_ext.rpy:618
 translate portuguese d18s05_after_sex_ec16ba99:

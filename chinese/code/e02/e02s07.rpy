@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-13 23:02
-
 # game/code/e02/e02s07.rpy:15
 translate chinese e02s07_c14c10e0:
 
@@ -1665,3 +1663,4 @@ translate chinese strings:
     # game/code/e02/e02s07.rpy:448
     old "Let Lyssa Fuck You Instead"
     new "让丽莎来操你"
+

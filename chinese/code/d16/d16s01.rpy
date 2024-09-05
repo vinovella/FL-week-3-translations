@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d16/d16s01.rpy:22
 translate chinese d16s01_66e01943:
 
@@ -515,3 +513,4 @@ translate chinese strings:
     # game/code/d16/d16s01.rpy:8
     old "Tuesday\nDay-16"
     new "星期二\n第16天"
+

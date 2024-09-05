@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e17/e17s06.rpy:45
 translate french e17s06_acabb117:
 

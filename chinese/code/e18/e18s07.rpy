@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-15 13:10
-
 # game/code/e18/e18s07.rpy:73
 translate chinese e18s07_d474aa4e:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e13/e13s03.rpy:29
 translate french e13s03_9a2dcee3:
 

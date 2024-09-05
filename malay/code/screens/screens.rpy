@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 translate malay strings:
 
     # game/code/screens/screens.rpy:258
@@ -370,14 +368,11 @@ translate malay strings:
     old "Menu"
     new "Menu"
 
-# TODO: Translation updated at 2023-05-03 19:39
-
 translate malay strings:
 
     # game/code/screens/screens.rpy:1036
     old "Connect Your Toy"
     new "Sambungkan Mainan Anda"
-# TODO: Translation updated at 2024-07-27 20:54
 
 translate malay strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-01-25 23:26
-
 # game/code/e04/e04s02.rpy:45
 translate chinese e04s02_c212447d:
 

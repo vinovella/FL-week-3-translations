@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-10-24 14:57
-
 # game/code/labels.rpy:112
 translate deutsch after_credits_583c0fde:
 

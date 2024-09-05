@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d16/extended/d16s07_ext.rpy:50
 translate deutsch d16s07_ext_0f4c0f58:
 
@@ -928,10 +926,9 @@ translate deutsch strings:
     old "Cum outside"
     new "Draußen kommen"
 
-# TODO: Translation updated at 2023-09-28 22:50
-
 # game/code/d16/extended/d16s07_ext.rpy:377
 translate deutsch d16s07_ext_3b7535cc:
 
     # mc "Hi, nice to meet you."
     mc "Hallo, schön dich kennenzulernen."
+

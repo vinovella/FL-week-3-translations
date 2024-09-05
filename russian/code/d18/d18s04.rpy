@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-06-05 14:57
-
 # game/code/d18/d18s04.rpy:68
 translate russian d18s04_09dff030:
 
@@ -1149,8 +1147,6 @@ translate russian strings:
     # game/code/d18/d18s04.rpy:551
     old "Cum outside"
     new "Кончить снаружи"
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 translate russian strings:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-03 19:39
-
 # game/code/d21/d21s06.rpy:17
 translate malay d21s06_a1ce140a:
 
@@ -2377,7 +2375,6 @@ translate malay strings:
     # game/code/d21/d21s06.rpy:1028
     old "No, I have to give it more thought."
     new "Tidak, saya perlu memikirkannya."
-# TODO: Translation updated at 2024-07-27 20:54
 
 # game/code/d21/d21s06.rpy:997
 translate malay d21s06_waterfall_0992f61d:

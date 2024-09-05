@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-08-24 12:18
-
 # game/code/d19/d19s01ntr.rpy:26
 translate russian d19s01ntr_bef95491:
 
@@ -1068,15 +1066,11 @@ translate russian strings:
     old "Go Fuck Yourself"
     new "Иди нахуй!"
 
-# TODO: Translation updated at 2022-12-30 19:37
-
 # game/code/d19/d19s01ntr.rpy:386
 translate russian d19s01ntr_decision_e1a0041c:
 
     # lc "You see... Whom?"
     lc "Ты понимаешь?"
-
-# TODO: Translation updated at 2024-02-06 17:05
 
 # game/code/d19/d19s01ntr.rpy:424
 translate russian d19s01ntr_decision_aeef075e:

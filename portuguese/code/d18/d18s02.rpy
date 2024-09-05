@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d18/d18s02.rpy:33
 translate portuguese d18s02_f772c18d:
 

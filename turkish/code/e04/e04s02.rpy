@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-01-26 00:02
-
 # game/code/e04/e04s02.rpy:45
 translate turkish e04s02_c212447d:
 
@@ -857,3 +855,4 @@ translate turkish strings:
     # game/code/e04/e04s02.rpy:110
     old "What do you want Lydia to call you?"
     new "Lydia'nın sana ne demesini istiyorsun?"
+

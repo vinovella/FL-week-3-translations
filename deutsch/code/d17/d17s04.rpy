@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d17/d17s04.rpy:54
 translate deutsch d17s04_e9a933c1:
 

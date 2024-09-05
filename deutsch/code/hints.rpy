@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 translate deutsch strings:
 
     # game/code/hints.rpy:5
@@ -1142,8 +1140,6 @@ translate deutsch strings:
     old "No hints available."
     new "Keine Hinweise verfügbar."
 
-# TODO: Translation updated at 2023-09-28 22:50
-
 translate deutsch strings:
 
     # game/code/hints.rpy:5
@@ -1190,8 +1186,6 @@ translate deutsch strings:
     old "Dahlia won't peg you."
     new "Dahlia wird dich nicht festnageln."
 
-# TODO: Translation updated at 2023-12-07 21:15
-
 translate deutsch strings:
 
     # game/code/hints.rpy:5
@@ -1209,8 +1203,6 @@ translate deutsch strings:
     # game/code/hints.rpy:5
     old "You have no will of you own. You are simply an extension of Dahlia."
     new "Du hast keinen eigenen Willen. Du bist einfach eine Erweiterung von Dahlia."
-
-# TODO: Translation updated at 2024-02-06 16:53
 
 translate deutsch strings:
 
@@ -1349,7 +1341,6 @@ translate deutsch strings:
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
     new "Disappoint Lydia and be the loser."
-# TODO: Translation updated at 2024-07-27 20:51
 
 translate deutsch strings:
 

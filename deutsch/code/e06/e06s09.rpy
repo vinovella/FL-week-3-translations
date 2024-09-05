@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e06/e06s09.rpy:118
 translate deutsch e06s09_c22452ba:
 

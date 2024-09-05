@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d20/d20s04.rpy:27
 translate portuguese d20s04_63ba38f0:
 
@@ -1439,8 +1437,6 @@ translate portuguese strings:
     # game/code/d20/d20s04.rpy:424
     old "Lie"
     new "Mentir"
-
-# TODO: Translation updated at 2022-12-14 23:12
 
 # game/code/d20/d20s04.rpy:598
 translate portuguese d20s04_zw_wrong_6a261f5c:

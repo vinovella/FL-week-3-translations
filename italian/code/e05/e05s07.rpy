@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-07-27 20:52
-
 # game/code/e05/e05s07.rpy:65
 translate italian e05s07_003978cc:
 

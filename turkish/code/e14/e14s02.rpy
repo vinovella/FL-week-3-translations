@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:56
-
 # game/code/e14/e14s02.rpy:21
 translate turkish e14s02_4e897067:
 
@@ -809,3 +807,4 @@ translate turkish e14s02_fee50629:
 
     # pw "Fiiiiiiiine."
     pw "İyiiiiiiii."
+

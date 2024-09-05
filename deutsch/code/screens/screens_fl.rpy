@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:50
@@ -221,7 +219,6 @@ translate deutsch strings:
     # game/code/screens/screens_fl.rpy:1263
     old "Skip Recap\nof Week-2"
     new "Zusammenfassung von\nWoche-2 überspringen"
-# TODO: Translation updated at 2024-07-27 20:51
 
 translate deutsch strings:
 

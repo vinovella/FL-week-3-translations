@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d15/d15s07.rpy:47
 translate chinese d15s07_a875bc2a:
 

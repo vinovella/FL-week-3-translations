@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-11-12 12:59
-
 # game/code/d20/d20s02rn.rpy:41
 translate chinese d20s02rn_8e860913:
 
@@ -937,3 +935,4 @@ translate chinese strings:
     # game/code/d20/d20s02rn.rpy:237
     old "Let them keep going"
     new "让他们继续"
+

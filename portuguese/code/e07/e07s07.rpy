@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-08 02:38
-
 # game/code/e07/e07s07.rpy:20
 translate portuguese e07s07_ddc7908e:
 
@@ -1951,3 +1949,4 @@ translate portuguese strings:
     # game/code/e07/e07s07.rpy:996
     old "You have failed Ending #07!"
     new "Você falhou o Final #07!"
+

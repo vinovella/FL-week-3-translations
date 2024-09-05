@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-09-28 22:49
-
 # game/code/e12/e12s06.rpy:59
 translate chinese e12s06_99be6fb6:
 

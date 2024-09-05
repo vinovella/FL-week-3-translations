@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:46
-
 translate spanish strings:
 
     # game/code/screens/screens.rpy:259
@@ -353,8 +351,6 @@ translate spanish strings:
     # game/code/screens/screens.rpy:1722
     old "Menu"
     new "Menú"
-
-# TODO: Translation updated at 2024-07-27 20:56
 
 translate spanish strings:
 

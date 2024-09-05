@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d15/d15s01.rpy:175
 translate deutsch d15s01_6dca3502:
 
@@ -2225,3 +2223,4 @@ translate deutsch strings:
     # game/code/d15/d15s01.rpy:316
     old "Decide Which Cage to Wear"
     new "Entscheide dich welchen Käfig du trägst."
+

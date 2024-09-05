@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:56
-
 # game/code/e14/e14s04.rpy:26
 translate turkish e14s04_d635bce6:
 
@@ -1539,3 +1537,4 @@ translate turkish strings:
     # game/code/e14/e14s04.rpy:398
     old "A little later"
     new "Biraz sonra"
+

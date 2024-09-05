@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-18 16:39
-
 # game/code/e18/e18s07.rpy:73
 translate portuguese e18s07_d474aa4e:
 

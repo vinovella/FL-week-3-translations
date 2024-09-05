@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-02-01 00:18
-
 # game/code/e10/e10s07.rpy:15
 translate malay e10s07_58e7fd20:
 
@@ -455,8 +453,6 @@ translate malay strings:
     # game/code/e10/e10s07.rpy:4
     old "Few days later"
     new "Few days later"
-
-# TODO: Translation updated at 2023-05-27 13:19
 
 translate malay strings:
 

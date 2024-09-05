@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-12-07 21:15
-
 # game/code/e11/e11s03.rpy:71
 translate deutsch e11s03_9eb8e074:
 

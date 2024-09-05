@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/screens/lovense.rpy:171
 translate french lovense_test_9e0ee773:
 

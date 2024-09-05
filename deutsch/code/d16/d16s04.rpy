@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/d16/d16s04.rpy:30
 translate deutsch d16s04_010937cb:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-12-07 21:15
-
 # game/code/e17/e17s01.rpy:61
 translate deutsch e17s01_419854dc:
 

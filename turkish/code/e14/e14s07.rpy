@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:56
-
 # game/code/e14/e14s07.rpy:63
 translate turkish e14s07_c3ba4728:
 
@@ -1007,3 +1005,4 @@ translate turkish strings:
     # game/code/e14/e14s07.rpy:630
     old "You have finished playing ending number 14!"
     new "14 numaralı oyunun sonunu oynamayı bitirdiniz!"
+

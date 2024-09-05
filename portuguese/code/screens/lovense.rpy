@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-04-18 22:49
-
 # game/code/screens/lovense.rpy:141
 translate portuguese lovense_test_9e0ee773:
 
@@ -102,8 +100,6 @@ translate portuguese strings:
     old "Please enter your HTTP Port number:"
     new "Por favor, entre sua porta HTTP:"
 
-# TODO: Translation updated at 2023-05-20 02:57
-
 translate portuguese strings:
 
     # game/code/screens/lovense.rpy:71
@@ -126,8 +122,6 @@ translate portuguese strings:
     old "{u}Connect your toy!{/u}"
     new "{u}Conecte o seu brinquedo!{/u}"
 
-# TODO: Translation updated at 2023-07-05 01:10
-
 translate portuguese strings:
 
     # game/code/screens/lovense.rpy:74
@@ -137,8 +131,6 @@ translate portuguese strings:
     # game/code/screens/lovense.rpy:80
     old "Get a toy now"
     new "Comprar um brinquedo agora"
-
-# TODO: Translation updated at 2024-08-18 16:35
 
 translate portuguese strings:
 

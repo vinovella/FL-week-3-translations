@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 22:27
-
 translate italian strings:
 
     # renpy/common/00accessibility.rpy:28
@@ -1170,8 +1168,6 @@ translate italian strings:
     old "Parsing the script failed."
     new "Analisi dello script non riuscita."
 
-# TODO: Translation updated at 2023-06-01 02:00
-
 translate italian strings:
 
     # renpy/common/00director.rpy:1745
@@ -1377,7 +1373,6 @@ translate italian strings:
     # renpy/common/00updater.rpy:2089
     old "Retry"
     new "Retry"
-# TODO: Translation updated at 2024-07-27 20:52
 
 translate italian strings:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/recap/w2_recap.rpy:109
 translate turkish week_2_recap_6e162b80:
 

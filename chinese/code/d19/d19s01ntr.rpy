@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d19/d19s01ntr.rpy:26
 translate chinese d19s01ntr_bef95491:
 
@@ -1068,14 +1066,11 @@ translate chinese strings:
     old "Go Fuck Yourself"
     new "去你妈的"
 
-# TODO: Translation updated at 2022-11-12 12:59
-
 # game/code/d19/d19s01ntr.rpy:279
 translate chinese d19s01ntr_decision_e1a0041c:
 
     # lc "You see... Whom?"
     lc "你看...是谁？"
-# TODO: Translation updated at 2024-02-06 16:42
 
 # game/code/d19/d19s01ntr.rpy:424
 translate chinese d19s01ntr_decision_aeef075e:

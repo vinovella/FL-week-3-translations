@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-12-07 21:19
-
 # game/code/e11/e11s01.rpy:68
 translate russian e11s01_66df9fc1:
 

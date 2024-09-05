@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-08-18 16:36
-
 # game/code/e15/e15s06.rpy:78
 translate russian e15s06_ae933a96:
 

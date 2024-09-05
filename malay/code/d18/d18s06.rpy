@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d18/d18s06.rpy:13
 translate malay d18s06_59f5b92b:
 
@@ -581,3 +579,4 @@ translate malay strings:
     # game/code/d18/d18s06.rpy:6
     old "Some time later\nAt the college campus"
     new "Kemudiannya...\nDi kampus kolej"
+

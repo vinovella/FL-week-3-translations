@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/e13/e13s04.rpy:47
 translate turkish e13s04_b0f568c1:
 
@@ -215,8 +213,6 @@ translate turkish strings:
     # game/code/e13/e13s04.rpy:274
     old "You have finished playing ending number 13!"
     new "13 numaralı bitişi oynamayı bitirdiniz!"
-
-# TODO: Translation updated at 2024-07-16 01:07
 
 # game/code/e13/e13s04.rpy:179
 translate turkish replay_e13s04_4ae8355d:

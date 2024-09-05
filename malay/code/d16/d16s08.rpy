@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d16/d16s08.rpy:13
 translate malay d16s08_d60f6efd:
 
@@ -912,8 +910,6 @@ translate malay d16s08_719d7ead:
     # arj "Ha ha. Let's go, then."
     arj "Ha ha. Jomlah."
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d16/d16s08.rpy:104
 translate malay d16s08_94638573:
 
@@ -955,3 +951,4 @@ translate malay d16s08_92fd0e4a:
 
     # mc "Yeah. I really need to talk to her about some things tomorrow, so maybe I can work a little fun time in as well."
     mc "Yeah. Aku betul-betul kena bercakap dengannya tentang beberapa perkara esok, jadi mungkin aku boleh bekerja sedikit masa yang menyeronokkan juga."
+

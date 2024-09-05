@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d16/d16s09.rpy:19
 translate malay d16s09_8b63c9a4:
 
@@ -183,3 +181,4 @@ translate malay strings:
     # game/code/d16/d16s09.rpy:13
     old "Go to AmRose's House"
     new "Pergi ke Rumah AmRose"
+

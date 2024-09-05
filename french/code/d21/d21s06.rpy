@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/d21/d21s06.rpy:17
 translate french d21s06_a1ce140a:
 

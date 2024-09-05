@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-05 20:17
-
 # game/code/e02/e02s03.rpy:13
 translate chinese e02s03_da344b59:
 
@@ -836,15 +834,11 @@ translate chinese strings:
     old "That was amazing"
     new "太棒了"
 
-# TODO: Translation updated at 2023-05-13 23:02
-
 # game/code/e02/e02s03.rpy:298
 translate chinese e02s03_lodge_64ffe7e5:
 
     # mh "Oh, how romantic. And I about to be dominated... like a beast in wild?"
     mh "哦，真浪漫。我是不是要被支配了...你要像野兽一样吗？"
-
-# TODO: Translation updated at 2023-05-16 01:29
 
 # game/code/e02/e02s03.rpy:285
 translate chinese e02s03_lodge_d9ce7b3b:

@@ -184,3 +184,4 @@ translate chinese strings:
 
     old "Kendell"
     new "肯德尔"
+

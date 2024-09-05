@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-01-31 15:43
-
 # game/code/d16/d16s08.rpy:13
 translate russian d16s08_d60f6efd:
 
@@ -912,8 +910,6 @@ translate russian d16s08_719d7ead:
     # arj "Ha ha. Let's go, then."
     arj "Ха-ха. Тогда пошли."
 
-# TODO: Translation updated at 2022-08-06 21:12
-
 # game/code/d16/d16s08.rpy:104
 translate russian d16s08_94638573:
 
@@ -931,8 +927,6 @@ translate russian d16s08_83b91498:
 
     # mc "Oh, right."
     mc "Ох, верно."
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 # game/code/d16/d16s08.rpy:168
 translate russian d16s08_d5a669ec:

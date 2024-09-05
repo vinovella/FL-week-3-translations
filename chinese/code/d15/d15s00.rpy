@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-21 16:02
-
 translate chinese strings:
 
     # game/code/d15/d15s00.rpy:12

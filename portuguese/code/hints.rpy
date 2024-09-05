@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-20 17:12
-
 translate portuguese strings:
 
     # game/code/hints.rpy:5
@@ -1142,15 +1140,11 @@ translate portuguese strings:
     old "You will eat Stacy's ass and then potentially have your ass eaten (Giving and receiving)."
     new "Você vai lamber a bunda da Stacy, e potencialmente ter sua bunda lambida (Dando e recebendo)."
 
-# TODO: Translation updated at 2023-05-23 22:55
-
 translate portuguese strings:
 
     # game/code/hints.rpy:5
     old "This is bad for Lydia's case . You maybe able to punish her yourself. Necessary for Ending-04."
     new "Isso não é bom para o processo da Lydia. Você mesmo pode puni-la. Necessário para o Final-04."
-
-# TODO: Translation updated at 2023-09-28 22:47
 
 translate portuguese strings:
 
@@ -1198,8 +1192,6 @@ translate portuguese strings:
     old "Dahlia won't peg you."
     new "Dahlia não vai meter em você."
 
-# TODO: Translation updated at 2023-12-07 21:18
-
 translate portuguese strings:
 
     # game/code/hints.rpy:5
@@ -1217,8 +1209,6 @@ translate portuguese strings:
     # game/code/hints.rpy:5
     old "You have no will of you own. You are simply an extension of Dahlia."
     new "Você não tem vontade própria. Você é apenas uma extensão da Dahlia."
-
-# TODO: Translation updated at 2024-02-06 16:39
 
 translate portuguese strings:
 
@@ -1357,7 +1347,6 @@ translate portuguese strings:
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
     new "Decepcionar Lydia e ser o perdedor."
-# TODO: Translation updated at 2024-05-05 22:03
 
 translate portuguese strings:
 
@@ -1384,8 +1373,6 @@ translate portuguese strings:
     # game/code/hints.rpy:5
     old "You don't eat the cum off Oliver's face."
     new ""
-
-# TODO: Translation updated at 2024-07-27 20:57
 
 translate portuguese strings:
 

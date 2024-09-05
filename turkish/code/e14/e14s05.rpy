@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-09-28 22:56
-
 # game/code/e14/e14s05.rpy:26
 translate turkish e14s05_8dcc27fc:
 
@@ -653,3 +651,4 @@ translate turkish e14s05_b7ce241c:
 
     # pw "Yay!"
     pw "Yaşasın!"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-22 23:46
-
 # game/code/d15/d15s04dd.rpy:31
 translate portuguese d15s04dd_ab7f1b7a:
 

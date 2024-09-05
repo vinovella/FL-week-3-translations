@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2022-09-14 03:08
-
 # game/code/d18/d18s03.rpy:61
 translate chinese d18s03_ec5dba5c:
 
@@ -1751,3 +1749,4 @@ translate chinese strings:
     # game/code/d18/d18s03.rpy:710
     old "No. Definitely NOT"
     new "不，绝对不行"
+

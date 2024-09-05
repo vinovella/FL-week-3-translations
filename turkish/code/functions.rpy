@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 translate turkish strings:
 
     # game/code/functions.rpy:23
@@ -33,3 +31,4 @@ translate turkish strings:
     # game/code/functions.rpy:380
     old "You can only select one out of Daisy and Dahlia"
     new "Daisy ve Dahlia'dan sadece birini seçebilirsiniz"
+

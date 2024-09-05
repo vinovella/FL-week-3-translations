@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-04-16 20:02
-
 # game/code/d17/d17s06pn.rpy:34
 translate malay d17s06pn_9f8e2b43:
 
@@ -1132,10 +1130,9 @@ translate malay strings:
     old "We make a good trio"
     new "Kita bertiga memang terbaik"
 
-# TODO: Translation updated at 2022-11-12 13:01
-
 translate malay strings:
 
     # game/code/d17/d17s06pn.rpy:545
     old "Some time later"
     new "Kemudiannya"
+

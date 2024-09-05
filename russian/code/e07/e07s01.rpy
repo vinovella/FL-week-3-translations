@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-02-09 23:58
-
 # game/code/e07/e07s01.rpy:64
 translate russian e07s01_4eb8b392:
 

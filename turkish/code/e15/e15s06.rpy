@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-08-18 16:13
-
 # game/code/e15/e15s06.rpy:78
 translate turkish e15s06_ae933a96:
 
@@ -1713,3 +1711,4 @@ translate turkish strings:
     # game/code/e15/e15s06.rpy:969
     old "You have finished playing Ending #15!"
     new "Son #15'i oynamayı bitirdiniz!"
+

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:45
-
 # game/code/labels.rpy:103
 translate spanish after_credits_583c0fde:
 
@@ -618,8 +616,6 @@ translate spanish strings:
     old "The legendary Fetish Locator will return"
     new "El legendario Localizador de Fetiches regresará."
 
-# TODO: Translation updated at 2023-07-05 00:54
-
 # game/code/labels.rpy:431
 translate spanish after_credits_b06da193:
 
@@ -691,3 +687,4 @@ translate spanish after_credits_f4cf666b:
 
     # sy "I can't wait to enjoy it with you."
     sy "Estoy deseando disfrutarlo contigo."
+

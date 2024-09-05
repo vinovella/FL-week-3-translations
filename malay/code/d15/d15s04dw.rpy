@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d15/d15s04dw.rpy:21
 translate malay d15s04dw_4290d7de:
 
@@ -1061,7 +1059,6 @@ translate malay strings:
     # game/code/d15/d15s04dw.rpy:497
     old "Let the girls think it was entirely up to them"
     new "Biarkan mereka berfikir itu terpulang kepada mereka"
-# TODO: Translation updated at 2022-11-12 13:01
 
 # game/code/d15/d15s04dw.rpy:323
 translate malay d15s04dw_eb3e097b:
@@ -1074,3 +1071,4 @@ translate malay strings:
     # game/code/d15/d15s04dw.rpy:17
     old "30 minutes later"
     new "30 minit kemudian"
+

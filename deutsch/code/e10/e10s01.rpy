@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e10/e10s01.rpy:88
 translate deutsch e10s01_8b9374ed:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d15/d15s01.rpy:166
 translate malay d15s01_6dca3502:
 
@@ -1788,7 +1786,6 @@ translate malay d15s01_end_ac6f2180:
     # mct "In all the excitement I had forgotten why we were doing this."
     mct "Dalam semua keterujaan aku terlupa kenapa kami melakukan ini."
 
-
 # game/code/d15/d15s01.rpy:1330
 translate malay d15s01_end_a550e502:
 
@@ -2180,7 +2177,6 @@ translate malay strings:
     # game/code/d15/d15s01.rpy:307
     old "Decide Which Cage to Wear"
     new "Tentukan Sangkar Mana Yang Akan Dipakai"
-# TODO: Translation updated at 2022-11-12 13:01
 
 # game/code/d15/d15s01.rpy:343
 translate malay d15s01_readnote_ba7b3e0f:
@@ -2229,3 +2225,4 @@ translate malay strings:
     # game/code/d15/d15s01.rpy:141
     old "Week Three\nDay 15\nMonday"
     new "Minggu Ketiga\nHari 15\nIsnin"
+

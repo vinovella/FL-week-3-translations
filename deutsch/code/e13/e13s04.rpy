@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e13/e13s04.rpy:47
 translate deutsch e13s04_b0f568c1:
 
@@ -215,8 +213,6 @@ translate deutsch strings:
     # game/code/e13/e13s04.rpy:274
     old "You have finished playing ending number 13!"
     new "Du hast Ende #13 gespielt!"
-
-# TODO: Translation updated at 2024-07-27 20:51
 
 # game/code/e13/e13s04.rpy:179
 translate deutsch replay_e13s04_4ae8355d:

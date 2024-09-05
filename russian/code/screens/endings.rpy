@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-27 13:27
-
 translate russian strings:
 
     # game/code/screens/endings.rpy:52
@@ -25,8 +23,6 @@ translate russian strings:
     # game/code/screens/endings.rpy:80
     old "Exit to Mainmenu"
     new "Вернуться в Главное меню"
-
-# TODO: Translation updated at 2024-02-18 12:08
 
 translate russian strings:
 

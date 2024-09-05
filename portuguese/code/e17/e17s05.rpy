@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-12-23 12:09
-
 # game/code/e17/e17s05.rpy:40
 translate portuguese e17s05_a7755d10:
 

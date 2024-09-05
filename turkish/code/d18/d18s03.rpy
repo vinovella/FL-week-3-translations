@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d18/d18s03.rpy:70
 translate turkish d18s03_ec5dba5c:
 
@@ -1751,3 +1749,4 @@ translate turkish strings:
     # game/code/d18/d18s03.rpy:1050
     old "No. Definitely NOT"
     new "Hayır. kesinlikle olmaz"
+

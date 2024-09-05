@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-06-17 12:07
-
 # game/code/d16/d16s10.rpy:37
 translate turkish d16s10_d9159219:
 

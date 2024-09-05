@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-04-21 01:33
-
 # game/code/e06/e06s02.rpy:49
 translate portuguese e06s02_87f8ba93:
 
@@ -1596,15 +1594,11 @@ translate portuguese strings:
     old "Inside Min's house"
     new "Dentro da casa da Min"
 
-# TODO: Translation updated at 2023-04-30 17:16
-
 translate portuguese strings:
 
     # game/code/e06/e06s02.rpy:40
     old "The Next Day"
     new "O Próximo Dia"
-
-# TODO: Translation updated at 2023-05-13 23:03
 
 # game/code/e06/e06s02.rpy:64
 translate portuguese e06s02_40511e6c:

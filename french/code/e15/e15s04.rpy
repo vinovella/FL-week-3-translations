@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2024-09-01 22:39
-
 # game/code/e15/e15s04.rpy:66
 translate french replay_e15s04_f0846ef5:
 

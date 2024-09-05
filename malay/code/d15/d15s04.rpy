@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-03-02 02:41
-
 # game/code/d15/d15s04.rpy:24
 translate malay d15s04_a13bdd91:
 

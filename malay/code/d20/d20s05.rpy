@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2022-11-12 13:01
-
 # game/code/d20/d20s05.rpy:34
 translate malay d20s05_47e7cec6:
 
@@ -1346,10 +1344,9 @@ translate malay strings:
     old "Talk About Your Summer Plans"
     new "Bercakap Mengenai Rancangan Musim Panas Anda"
 
-# TODO: Translation updated at 2022-11-19 23:16
-
 # game/code/d20/d20s05.rpy:250
 translate malay d20s05_pool_5f2ca332:
 
     # mc "Let's change things up a bit."
     mc "Mari kita ubah keadaan sedikit."
+

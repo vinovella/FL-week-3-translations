@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-03 19:39
-
 # game/code/d21/d21s05.rpy:80
 translate malay d21s05_2c96e7d1:
 
@@ -1211,3 +1209,4 @@ translate malay strings:
     # game/code/d21/d21s05.rpy:611
     old "Just facefuck Aaleyah instead"
     new "Kongkek muka Aaleyah sahaja"
+

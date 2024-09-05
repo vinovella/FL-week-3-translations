@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/d18/extended/d18s05_ext.rpy:63
 translate korean d18s05_ext_0d9b52ab:
 
@@ -709,8 +707,6 @@ translate korean strings:
     # game/code/d18/extended/d18s05_ext.rpy:644
     old "No"
     new "아니다"
-
-# TODO: Translation updated at 2024-07-27 20:53
 
 # game/code/d18/extended/d18s05_ext.rpy:618
 translate korean d18s05_after_sex_ec16ba99:

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-26 11:47
-
 # game/code/d21/d21s03.rpy:9
 translate korean d21s03_28c93870:
 

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-03 19:39
-
 # game/code/d21/d21s02.rpy:29
 translate malay d21s02_3a53d660:
 
@@ -1315,3 +1313,4 @@ translate malay strings:
     # game/code/d21/d21s02.rpy:113
     old "Select Stacy"
     new "Pilih Stacy"
+

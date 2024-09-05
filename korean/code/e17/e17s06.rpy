@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-12-07 21:17
-
 # game/code/e17/e17s06.rpy:45
 translate korean e17s06_acabb117:
 

@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2021-12-19 11:46
-
 # game/code/d15/d15s01.rpy:162
 translate russian d15s01_6dca3502:
 
@@ -2180,8 +2178,6 @@ translate russian strings:
     old "Decide Which Cage to Wear"
     new "Решить, какую клетку надеть"
 
-# TODO: Translation updated at 2022-08-06 21:12
-
 # game/code/d15/d15s01.rpy:431
 translate russian d15s01_cagedecision_7e36f4f4:
 
@@ -2211,8 +2207,6 @@ translate russian strings:
     # game/code/d15/d15s01.rpy:141
     old "Week Three\nDay 15\nMonday"
     new "Третья неделя\nДень 15\nПонедельник"
-
-# TODO: Translation updated at 2022-08-24 12:18
 
 # game/code/d15/d15s01.rpy:343
 translate russian d15s01_readnote_ba7b3e0f:

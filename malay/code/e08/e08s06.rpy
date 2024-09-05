@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-05-03 19:39
-
 # game/code/e08/e08s06.rpy:71
 translate malay e08s06_ee0292ba:
 

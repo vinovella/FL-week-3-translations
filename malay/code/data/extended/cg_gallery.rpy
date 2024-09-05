@@ -1,5 +1,3 @@
-# TODO: Please reinvite me on ViNovella's Discord server: skyejordan666
-
 translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -65,8 +63,6 @@ translate malay strings:
     # game/code/data/extended/cg_gallery.rpy:21
     old "Ending 13: Pregnant Nora"
     new "Pengakhiran 13: Nora Mengandung"
-
-# TODO: Translation updated at 2023-02-01 00:18
 
 translate malay strings:
 
@@ -154,8 +150,6 @@ translate malay strings:
     old "Ending 10: Min"
     new "Pengakhiran 10: Min"
 
-# TODO: Translation updated at 2023-05-27 13:19
-
 translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:21
@@ -198,8 +192,6 @@ translate malay strings:
     old "Ending 08: AmRose & Stacy"
     new "Pengakhiran 08: AmRose Dan Stacy"
 
-# TODO: Translation updated at 2023-09-28 22:52
-
 translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:94
@@ -209,8 +201,6 @@ translate malay strings:
     # game/code/data/extended/cg_gallery.rpy:103
     old "Ending 14: Polly & Nora"
     new "Pengakhiran 14: Polly Dan Nora"
-
-# TODO: Translation updated at 2023-12-07 21:18
 
 translate malay strings:
 
@@ -222,8 +212,6 @@ translate malay strings:
     old "Ending 17: Dahlia"
     new "Pengakhiran 17: Dahlia"
 
-# TODO: Translation updated at 2024-02-09 23:53
-
 translate malay strings:
 
     # game/code/data/extended/cg_gallery.rpy:75
@@ -233,7 +221,6 @@ translate malay strings:
     # game/code/data/extended/cg_gallery.rpy:85
     old "Ending 07: Girls"
     new "Ending 07: Girls"
-# TODO: Translation updated at 2024-07-27 20:54
 
 translate malay strings:
 

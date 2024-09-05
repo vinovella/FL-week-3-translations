@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-07-05 01:09
-
 translate malay strings:
 
     # game/code/d21/d21s99.rpy:8
@@ -9,3 +7,4 @@ translate malay strings:
     # game/code/d21/d21s99.rpy:9
     old "Just not a good one"
     new "Cuma tak bagus"
+

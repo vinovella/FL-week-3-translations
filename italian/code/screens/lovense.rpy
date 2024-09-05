@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2023-05-27 22:27
-
 # game/code/screens/lovense.rpy:173
 translate italian lovense_test_9e0ee773:
 
@@ -130,8 +128,6 @@ translate italian strings:
     old "Save"
     new "Salva"
 
-# TODO: Translation updated at 2023-07-05 01:07
-
 translate italian strings:
 
     # game/code/screens/lovense.rpy:74
@@ -141,7 +137,6 @@ translate italian strings:
     # game/code/screens/lovense.rpy:80
     old "Get a toy now"
     new "Ottieni ora un giocattolo"
-# TODO: Translation updated at 2024-08-18 16:33
 
 translate italian strings:
 

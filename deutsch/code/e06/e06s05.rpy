@@ -1,5 +1,3 @@
-﻿# TODO: Translation updated at 2023-08-13 22:11
-
 # game/code/e06/e06s05.rpy:85
 translate deutsch e06s05_2357bc1b:
 
