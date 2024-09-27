@@ -314,3 +314,9 @@ translate chinese strings:
     old "Download Saves"
     new "下载存档"
 
+translate chinese strings:
+
+    # game/code/screens/screens_fl.rpy:1358
+    old "{u}Get Taboo University Book 1 on Steam{/u}"
+    new "{u}Get Taboo University Book 1 on Steam{/u}"
+

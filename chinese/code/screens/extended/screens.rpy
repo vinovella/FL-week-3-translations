@@ -96,3 +96,9 @@ translate chinese strings:
     old "Get free DLC containing 6 endings from Steam"
     new "从Steam免费获取包含6个结局的 DLC"
 
+translate chinese strings:
+
+    # game/code/screens/extended/screens.rpy:227
+    old "Buy Taboo University on Steam"
+    new "Buy Taboo University on Steam"
+
