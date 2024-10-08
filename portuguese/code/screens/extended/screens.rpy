@@ -84,3 +84,11 @@ translate portuguese strings:
     old "Get free DLC containing 6 endings from Steam"
     new "Pegue o DLC contendo 6 finais de graça na Steam"
 
+# TODO: Translation updated at 2024-10-08 17:43
+
+translate portuguese strings:
+
+    # game/code/screens/extended/screens.rpy:227
+    old "Buy Taboo University on Steam"
+    new ""
+

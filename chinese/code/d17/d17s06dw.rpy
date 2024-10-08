@@ -1162,3 +1162,9 @@ translate chinese d17s06dw_breakup_6525077f:
     # mct "What the fuck just happened?"
     mct "刚刚发生了什么？"
 
+# game/code/d17/d17s06dw.rpy:360
+translate chinese d17s06dw_clown_room_fa534cd1:
+
+    # dw "Slave! Listen to your Mistress. Come stand here in front of me."
+    dw "Slave! Listen to your Mistress. Come stand here in front of me."
+
