@@ -476,517 +476,517 @@ translate chinese e03s01_17842a42:
 translate chinese e03s01_013e19d5:
 
     # mh "You two coming?"
-    mh "You two coming?"
+    mh "你们俩来吗？"
 
 # game/code/e03/e03s01.rpy:412
 translate chinese e03s01_1cdab93e:
 
     # sy "Hey, wait for me."
-    sy "Hey, wait for me."
+    sy "嘿，等等我。"
 
 # game/code/e03/e03s01.rpy:429
 translate chinese e03s01_ab5eb033:
 
     # mh "I hope you don't think me too forward, Stacy. But after work today, nothing is at the forefront of my mind beyond being [mcname]'s plaything."
-    mh "I hope you don't think me too forward, Stacy. But after work today, nothing is at the forefront of my mind beyond being [mcname]'s plaything."
+    mh "我希望你不会觉得我太冒失了，史黛西。但今天下班后，我脑子里最想做的，就是成为[mcname]的玩物。"
 
 # game/code/e03/e03s01.rpy:433
 translate chinese e03s01_55e0c39b:
 
     # sy "It's your house, Lyssa. You do you."
-    sy "It's your house, Lyssa. You do you."
+    sy "这是你的房子，丽莎。你就做你想做的。"
 
 # game/code/e03/e03s01.rpy:436
 translate chinese e03s01_6520907a:
 
     # mh "In that case, why are you both still dressed?"
-    mh "In that case, why are you both still dressed?"
+    mh "既然这样，你们俩为什么还穿着衣服？"
 
 # game/code/e03/e03s01.rpy:442
 translate chinese e03s01_f57feabc:
 
     # sy "Weeeeheee!"
-    sy "Weeeeheee!"
+    sy "喔吼！"
 
 # game/code/e03/e03s01.rpy:448
 translate chinese e03s01_f5962a88:
 
     # sy "Oooouhaah..."
-    sy "Oooouhaah..."
+    sy "噢噢啊啊..."
 
 # game/code/e03/e03s01.rpy:451
 translate chinese e03s01_4cb4324d:
 
     # mh "Ooouhahh indeed."
-    mh "Ooouhahh indeed."
+    mh "啊哈，确实。"
 
 # game/code/e03/e03s01.rpy:453
 translate chinese e03s01_9a2da426:
 
     # mh "Come here, Sir. I want you to watch me with our absolute cutie."
-    mh "Come here, Sir. I want you to watch me with our absolute cutie."
+    mh "过来，这位先生。我想让你看着我和我们的小可爱。"
 
 # game/code/e03/e03s01.rpy:458
 translate chinese e03s01_db9c98e3:
 
     # sy "Ahuaaah. Ouhah..."
-    sy "Ahuaaah. Ouhah..."
+    sy "啊啊啊。哈啊..."
 
 # game/code/e03/e03s01.rpy:464
 translate chinese e03s01_f1364e8f:
 
     # mh "Delicious."
-    mh "Delicious."
+    mh "美味。"
 
 # game/code/e03/e03s01.rpy:467
 translate chinese e03s01_dd8e6e88:
 
     # mc "Just wait till you get a taste."
-    mc "Just wait till you get a taste."
+    mc "等着尝尝吧。"
 
 # game/code/e03/e03s01.rpy:471
 translate chinese e03s01_9362da58:
 
     # sy "Nope. Me first. I slaved over that meal, so I get the first taste."
-    sy "Nope. Me first. I slaved over that meal, so I get the first taste."
+    sy "不行，我先来。我辛辛苦苦做了一顿饭，所以我要先尝尝。"
 
 # game/code/e03/e03s01.rpy:475
 translate chinese e03s01_61fb1deb:
 
     # mh "She makes a compelling argument."
-    mh "She makes a compelling argument."
+    mh "她说的很有道理。"
 
 # game/code/e03/e03s01.rpy:479
 translate chinese e03s01_d57c333b:
 
     # sy "Both of you, on your backs, now."
-    sy "Both of you, on your backs, now."
+    sy "你们两个，现在都趴下。"
 
 # game/code/e03/e03s01.rpy:482
 translate chinese e03s01_6e4f2c78:
 
     # mc "I should mention, she's got a bossy streak."
-    mc "I should mention, she's got a bossy streak."
+    mc "我得提一下，她有专横的倾向。"
 
 # game/code/e03/e03s01.rpy:484
 translate chinese e03s01_7f20dddb:
 
     # mh "I love it."
-    mh "I love it."
+    mh "我喜欢。"
 
 # game/code/e03/e03s01.rpy:489
 translate chinese e03s01_9cbab69c:
 
     # sy "You have to be a little bossy around an airhead like my brother."
-    sy "You have to be a little bossy around an airhead like my brother."
+    sy "在我哥哥这样的傻瓜面前，你必须有点霸道。"
 
 # game/code/e03/e03s01.rpy:491
 translate chinese e03s01_2d848944:
 
     # sy "You have to be a little bossy around an airhead like this guy."
-    sy "You have to be a little bossy around an airhead like this guy."
+    sy "在像他这样的傻瓜面前，你必须有点霸道。"
 
 # game/code/e03/e03s01.rpy:493
 translate chinese e03s01_68c2c1a1:
 
     # sy "If I didn't push him or tease him, he'd never give me the time of day."
-    sy "If I didn't push him or tease him, he'd never give me the time of day."
+    sy "如果我不逼他或逗他，他永远不会理我。"
 
 # game/code/e03/e03s01.rpy:495
 translate chinese e03s01_07723a89:
 
     # mc "I don't know about that."
-    mc "I don't know about that."
+    mc "这我可不知道。"
 
 # game/code/e03/e03s01.rpy:497
 translate chinese e03s01_c3e30952:
 
     # sy "Hush now. This is 'Stacy Time'."
-    sy "Hush now. This is 'Stacy Time'."
+    sy "嘘！现在是‘史黛西时间’。"
 
 # game/code/e03/e03s01.rpy:501
 translate chinese e03s01_62da98c1:
 
     # mh "Mmmm. I like the sound of that."
-    mh "Mmmm. I like the sound of that."
+    mh "嗯。我喜欢这个称呼。"
 
 # game/code/e03/e03s01.rpy:504
 translate chinese e03s01_9b0253c1:
 
     # sy "I just really hope you like the feels of {i}this{/i}, Lyssa."
-    sy "I just really hope you like the feels of {i}this{/i}, Lyssa."
+    sy "我真的希望你喜欢{i}这种感觉{/i}，丽莎。"
 
 # game/code/e03/e03s01.rpy:505
 translate chinese e03s01_f5590ed1:
 
     # sy "If you're... okay with that."
-    sy "If you're... okay with that."
+    sy "如果你...没问题的话。"
 
 # game/code/e03/e03s01.rpy:508
 translate chinese e03s01_1b1ea6f3:
 
     # mh "Go right ahead, Stacy..."
-    mh "Go right ahead, Stacy..."
+    mh "来吧，史黛西..."
 
 # game/code/e03/e03s01.rpy:513
 translate chinese e03s01_8c4ef2f3:
 
     # sy "Ahuaaah..."
-    sy "Ahuaaah..."
+    sy "啊哇哇..."
 
 # game/code/e03/e03s01.rpy:524
 translate chinese e03s01_beb2c6cd:
 
     # sy "Mummmphuahh... lurrrphah..."
-    sy "Mummmphuahh... lurrrphah..."
+    sy "唔唔唔...啧啧啧..."
 
 # game/code/e03/e03s01.rpy:527
 translate chinese e03s01_13b2be84:
 
     # mh "That looks so good. Keep it up, Stacy."
-    mh "That looks so good. Keep it up, Stacy."
+    mh "看起来真不错。继续，史黛西。"
 
 # game/code/e03/e03s01.rpy:534
 translate chinese e03s01_fb49be96:
 
     # mc "Keep going, Lyssa. She gets all worked up with encouragement."
-    mc "Keep going, Lyssa. She gets all worked up with encouragement."
+    mc "继续，丽莎。她在鼓励下变得很兴奋。。"
 
 # game/code/e03/e03s01.rpy:537
 translate chinese e03s01_6bac1cd3:
 
     # mh "Yes, Sir... Mrmmm... Stacy, that feels amazing."
-    mh "Yes, Sir... Mrmmm... Stacy, that feels amazing."
+    mh "是的，主人...嗯嗯嗯...史黛西，这感觉太棒了。"
 
 # game/code/e03/e03s01.rpy:556
 translate chinese e03s01_975169a3:
 
     # sy "Oouhaahhh."
-    sy "Oouhaahhh."
+    sy "哦哈哈。"
 
 # game/code/e03/e03s01.rpy:559
 translate chinese e03s01_a8af7522:
 
     # mh "Mmm. Do you like that, my darling?"
-    mh "Mmm. Do you like that, my darling?"
+    mh "嗯。你喜欢吗，亲爱的？"
 
 # game/code/e03/e03s01.rpy:563
 translate chinese e03s01_1d91be5b:
 
     # sy "*breathless moaning* Ohuah... nuraahh..."
-    sy "*breathless moaning* Ohuah... nuraahh..."
+    sy "*喘不过气的呻吟* 啊...哦哈啊..."
 
 # game/code/e03/e03s01.rpy:565
 translate chinese e03s01_a7e8cd76:
 
     # mc "Lyssa asked you a question, Stacy."
-    mc "Lyssa asked you a question, Stacy."
+    mc "史黛西，丽莎在问你问题。"
 
 # game/code/e03/e03s01.rpy:567
 translate chinese e03s01_4e54c170:
 
     # sy "Fuck. Yes, that feels so good. Both of you."
-    sy "Fuck. Yes, that feels so good. Both of you."
+    sy "操。是的，感觉很好。你们两个都让我很舒服。"
 
 # game/code/e03/e03s01.rpy:569
 translate chinese e03s01_1c46cc53:
 
     # sy "You're spoiling me so much-huaah."
-    sy "You're spoiling me so much-huaah."
+    sy "你们太宠我了--哇啊。"
 
 # game/code/e03/e03s01.rpy:574
 translate chinese e03s01_7a718a92:
 
     # mh "*giggles* That's been the plan since our first goodnight kiss."
-    mh "*giggles* That's been the plan since our first goodnight kiss."
+    mh "*咯咯笑* 从我们的第一个晚安吻开始，这就是我们的计划。"
 
 # game/code/e03/e03s01.rpy:579
 translate chinese e03s01_c7a6e943:
 
     # sy "I need more than just some kissing and sucking."
-    sy "I need more than just some kissing and sucking."
+    sy "我需要的不仅仅是亲吻和吮吸。"
 
 # game/code/e03/e03s01.rpy:581
 translate chinese e03s01_280b58f7:
 
     # mh "Mmm, why don't you ask 'Sir'."
-    mh "Mmm, why don't you ask 'Sir'."
+    mh "嗯，你为什么不问‘主人’呢？"
 
 # game/code/e03/e03s01.rpy:585
 translate chinese e03s01_35d3cc07:
 
     # sy "Sir... can Lyssa please fuck me while you use my mouth?"
-    sy "Sir... can Lyssa please fuck me while you use my mouth?"
+    sy "主人...你用我的嘴的时候，能不能请丽莎操我？"
 
 # game/code/e03/e03s01.rpy:587
 translate chinese e03s01_ffedc3d0:
 
     # mc "Abso-fucking-lutely."
-    mc "Abso-fucking-lutely."
+    mc "他妈的当然可以。"
 
 # game/code/e03/e03s01.rpy:592
 translate chinese e03s01_f3fce757:
 
     # mh "Just tell me if I go to hard."
-    mh "Just tell me if I go to hard."
+    mh "如果我太用力了就告诉我。"
 
 # game/code/e03/e03s01.rpy:595
 translate chinese e03s01_5ff95ea3:
 
     # sy "I'm tough, I can take it."
-    sy "I'm tough, I can take it."
+    sy "我很强壮，可以承受的。"
 
 # game/code/e03/e03s01.rpy:598
 translate chinese e03s01_8fc3b5e3:
 
     # mh "Mmm. So spunky."
-    mh "Mmm. So spunky."
+    mh "嗯。真勇敢。"
 
 # game/code/e03/e03s01.rpy:601
 translate chinese e03s01_2773b03e:
 
     # mh "You're just like your brother."
-    mh "You're just like your brother."
+    mh "你和你哥哥一样。"
 
 # game/code/e03/e03s01.rpy:603
 translate chinese e03s01_93bfca74:
 
     # mh "Just like [mcname]."
-    mh "Just like [mcname]."
+    mh "你和[mcname]一样。"
 
 # game/code/e03/e03s01.rpy:608
 translate chinese e03s01_743f6e4a:
 
     # sy "Mrraaah... oh yes. It's inside. My pussy is finally getting to taste your cock, Lyssa."
-    sy "Mrraaah... oh yes. It's inside. My pussy is finally getting to taste your cock, Lyssa."
+    sy "啊...噢，终于。它在里面呢。我的阴部终于可以尝尝你的鸡巴了，丽莎。"
 
 # game/code/e03/e03s01.rpy:611
 translate chinese e03s01_d28c4a3f:
 
     # mh "I'm glad you're enjoying it."
-    mh "I'm glad you're enjoying it."
+    mh "我很高兴你喜欢它。"
 
 # game/code/e03/e03s01.rpy:613
 translate chinese e03s01_bd51f66f:
 
     # mh "But don't forget about our other partner."
-    mh "But don't forget about our other partner."
+    mh "但别忘了我们还有另一个伙伴。"
 
 # game/code/e03/e03s01.rpy:615
 translate chinese e03s01_73d195f4:
 
     # sy "Haha. Never."
-    sy "Haha. Never."
+    sy "哈哈。永远不会忘。"
 
 # game/code/e03/e03s01.rpy:619
 translate chinese e03s01_696c2bf8:
 
     # sy "Mrmmmuhah... yes!"
-    sy "Mrmmmuhah... yes!"
+    sy "嗯哼...嗯嗯嗯...好舒服！"
 
 # game/code/e03/e03s01.rpy:631
 translate chinese e03s01_3d36faf1:
 
     # sy "*Energetic sucking and splurping noises*"
-    sy "*Energetic sucking and splurping noises*"
+    sy "*充满活力的吮吸声和噗嗤水声"
 
 # game/code/e03/e03s01.rpy:634
 translate chinese e03s01_f1eeb951:
 
     # mc "Ohua fuck. Go easy on me, Stacy."
-    mc "Ohua fuck. Go easy on me, Stacy."
+    mc "哦，天哪。轻点，史黛西。"
 
 # game/code/e03/e03s01.rpy:638
 translate chinese e03s01_7e560c51:
 
     # mh "Haha. Sir, from what I'm feeling, she's been looking forward to this for a while."
-    mh "Haha. Sir, from what I'm feeling, she's been looking forward to this for a while."
+    mh "哈哈。主人，我感觉她期待这一刻已经很久了。"
 
 # game/code/e03/e03s01.rpy:642
 translate chinese e03s01_d83b72a7:
 
     # mc "Haha. Yeah, but it feels like she's going to suck out my soul while you hammer her pussy."
-    mc "Haha. Yeah, but it feels like she's going to suck out my soul while you hammer her pussy."
+    mc "哈哈。是的，但感觉你干她阴部的时候，她要把我的灵魂吸出来了。"
 
 # game/code/e03/e03s01.rpy:648
 translate chinese e03s01_c078abaf:
 
     # mh "Mmm, come on, Sir. You're not going to throw in the towel that easily are you?"
-    mh "Mmm, come on, Sir. You're not going to throw in the towel that easily are you?"
+    mh "嗯，不是吧，主人。你不会这么轻易就认输吧？"
 
 # game/code/e03/e03s01.rpy:653
 translate chinese e03s01_011b37b4:
 
     # mc "Not a chance."
-    mc "Not a chance."
+    mc "没门。"
 
 # game/code/e03/e03s01.rpy:659
 translate chinese e03s01_7ea6080c:
 
     # sy "Oouhaahh..."
-    sy "Oouhaahh..."
+    sy "噢噢噢..."
 
 # game/code/e03/e03s01.rpy:671
 translate chinese e03s01_b539a410:
 
     # mh "Come here."
-    mh "Come here."
+    mh "过来。"
 
 # game/code/e03/e03s01.rpy:675
 translate chinese e03s01_769f4cb0:
 
     # mh "Kiss me..."
-    mh "Kiss me..."
+    mh "吻我..."
 
 # game/code/e03/e03s01.rpy:685
 translate chinese e03s01_e61ba933:
 
     # mh "Care to let me enjoy that tight, gripping hole, my love?"
-    mh "Care to let me enjoy that tight, gripping hole, my love?"
+    mh "亲爱的，让我好好享受一下你那紧致的蜜穴吧？"
 
 # game/code/e03/e03s01.rpy:691
 translate chinese e03s01_e4a92053:
 
     # mc "Go for it."
-    mc "Go for it."
+    mc "来吧。"
 
 # game/code/e03/e03s01.rpy:697
 translate chinese e03s01_281689ac:
 
     # mc "Another time."
-    mc "Another time."
+    mc "下次吧。"
 
 # game/code/e03/e03s01.rpy:699
 translate chinese e03s01_53df588f:
 
     # mh "Sounds good."
-    mh "Sounds good."
+    mh "听起来不错。"
 
 # game/code/e03/e03s01.rpy:713
 translate chinese e03s01_anim3_8901db58:
 
     # mct "I can't believe I'm going to do this in front of Stacy."
-    mct "I can't believe I'm going to do this in front of Stacy."
+    mct "真不敢相信我竟然要在史黛西面前做这个。"
 
 # game/code/e03/e03s01.rpy:717
 translate chinese e03s01_anim3_b26681ff:
 
     # mc "Ready to see something crazy."
-    mc "Ready to see something crazy."
+    mc "准备好要看疯狂的事情了。"
 
 # game/code/e03/e03s01.rpy:719
 translate chinese e03s01_anim3_edd9d5ad:
 
     # sy "I thought you'd never ask."
-    sy "I thought you'd never ask."
+    sy "我以为你不会问的。"
 
 # game/code/e03/e03s01.rpy:723
 translate chinese e03s01_anim3_02584311:
 
     # mh "Mnuraah. Oh my god."
-    mh "Mnuraah. Oh my god."
+    mh "哦啊啊。我的天啊。"
 
 # game/code/e03/e03s01.rpy:726
 translate chinese e03s01_anim3_d573e2ed:
 
     # mc "Oh fuck. I forgot how large you are, Lyssa."
-    mc "Oh fuck. I forgot how large you are, Lyssa."
+    mc "哦，该死。丽莎，我都忘了你有这么大了。"
 
 # game/code/e03/e03s01.rpy:727
 translate chinese e03s01_anim3_1348de0d:
 
     # mh "Tell me if it's gets to be too much."
-    mh "Tell me if it's gets to be too much."
+    mh "如果太过的话，就告诉我。"
 
 # game/code/e03/e03s01.rpy:728
 translate chinese e03s01_anim3_54d186ca:
 
     # mc "No. It's fine. I can... take it."
-    mc "No. It's fine. I can... take it."
+    mc "不，没关系。我可以...接受。"
 
 # game/code/e03/e03s01.rpy:731
 translate chinese e03s01_anim3_2cd20d2a:
 
     # sy "Ooouhaah..."
-    sy "Ooouhaah..."
+    sy "哦啊啊..."
 
 # game/code/e03/e03s01.rpy:742
 translate chinese e03s01_anim3_c84448e9:
 
     # mc "*heavy panting*"
-    mc "*heavy panting*"
+    mc "*喘着粗气*"
 
 # game/code/e03/e03s01.rpy:746
 translate chinese e03s01_anim3_368a1de9:
 
     # mc "Nrrrrnn... so hot and full... I was worried..."
-    mc "Nrrrrnn... so hot and full... I was worried..."
+    mc "嗯嗯嗯...好带劲，好涨...我刚才还在担心..."
 
 # game/code/e03/e03s01.rpy:749
 translate chinese e03s01_anim3_ad7eaaaa:
 
     # mh "About what?"
-    mh "About what?"
+    mh "担心什么？"
 
 # game/code/e03/e03s01.rpy:752
 translate chinese e03s01_anim3_062a0b0a:
 
     # mc "About doing this, in front of Stacy."
-    mc "About doing this, in front of Stacy."
+    mc "担心当着史黛西的面做这个。"
 
 # game/code/e03/e03s01.rpy:753
 translate chinese e03s01_anim3_0398bda7:
 
     # sy "I think it's wonderful, [mcname]. Pleasure takes all forms."
-    sy "I think it's wonderful, [mcname]. Pleasure takes all forms."
+    sy "我觉得这画面太棒了，[mcname]。快乐有各种形式。"
 
 # game/code/e03/e03s01.rpy:756
 translate chinese e03s01_anim3_950f64bf:
 
     # mc "Mmhmm-maahuh... oh shit. Keep fucking me, Lyssa."
-    mc "Mmhmm-maahuh... oh shit. Keep fucking me, Lyssa."
+    mc "嗯嗯-啊啊啊...哦，靠靠靠。继续操我吧，丽莎。"
 
 # game/code/e03/e03s01.rpy:760
 translate chinese e03s01_anim3_f3482660:
 
     # mh "Mrmrmm... perfect."
-    mh "Mrmrmm... perfect."
+    mh "嗯...完美。"
 
 # game/code/e03/e03s01.rpy:763
 translate chinese e03s01_anim3_dc3e40ed:
 
     # sy "Huh? Wait, does his asshole feel better than my pussy?"
-    sy "Huh? Wait, does his asshole feel better than my pussy?"
+    sy "咦？等等，他的屁眼比我的小穴爽吗？"
 
 # game/code/e03/e03s01.rpy:767
 translate chinese e03s01_anim3_a7f13b08:
 
     # mh "Hahaha. Stacy, you must know I would never be so cruel to put someone above someone else."
-    mh "Hahaha. Stacy, you must know I would never be so cruel to put someone above someone else."
+    mh "哈哈哈。史黛西，你要知道，我决不会如此残忍地把一个人置于另一个人之上。"
 
 # game/code/e03/e03s01.rpy:771
 translate chinese e03s01_anim3_e9442654:
 
     # sy "Well he really seems to be enjoying it."
-    sy "Well he really seems to be enjoying it."
+    sy "好吧，他看起来真的很享受。"
 
 # game/code/e03/e03s01.rpy:772
 translate chinese e03s01_anim3_9d2d49ca:
 
     # sy "[mcname]. Your cock is getting so... hard."
-    sy "[mcname]. Your cock is getting so... hard."
+    sy "[mcname]。你的鸡巴变得好...硬。"
 
 # game/code/e03/e03s01.rpy:776
 translate chinese e03s01_anim3_d8abf008:
 
     # sy "I fucking love it."
-    sy "I fucking love it."
+    sy "我他妈爱死这个大家伙了。"
 
 # game/code/e03/e03s01.rpy:788
 translate chinese e03s01_anim3_13a1e1c9:
 
     # sy "Please, Lyssa. I want to feel you inside me again."
-    sy "Please, Lyssa. I want to feel you inside me again."
+    sy "求你了，丽莎。我想再感受一下你的身体。"
 
 # game/code/e03/e03s01.rpy:791
 translate chinese e03s01_anim3_c7cf2826:
@@ -998,467 +998,467 @@ translate chinese e03s01_anim3_c7cf2826:
 translate chinese e03s01_anim3_29ad700c:
 
     # mc "I'm good. Could use a break."
-    mc "I'm good. Could use a break."
+    mc "我很好。可以休息一下了。"
 
 # game/code/e03/e03s01.rpy:797
 translate chinese e03s01_anim3_fc94398f:
 
     # mh "Very well. You'll have what you want, Stacy."
-    mh "Very well. You'll have what you want, Stacy."
+    mh "很好。你会得到你想要的，史黛西。"
 
 # game/code/e03/e03s01.rpy:806
 translate chinese e03s01_anim4_e71dbcfe:
 
     # sy "Come on. Come on come on come on. I want you both to fuck me at the same time."
-    sy "Come on. Come on come on come on. I want you both to fuck me at the same time."
+    sy "来吧。来吧来吧来吧。我想让你们俩同时干我。"
 
 # game/code/e03/e03s01.rpy:808
 translate chinese e03s01_anim4_fed09163:
 
     # mh "Hhaaha. I love you two so much."
-    mh "Hhaaha. I love you two so much."
+    mh "哈哈。我太爱你们两个了。"
 
 # game/code/e03/e03s01.rpy:809
 translate chinese e03s01_anim4_656e3274:
 
     # mh "But Stacy, I had no idea you were such a greedy kittie."
-    mh "But Stacy, I had no idea you were such a greedy kittie."
+    mh "但是，史黛西，我不知道你是这么贪吃的小猫。"
 
 # game/code/e03/e03s01.rpy:810
 translate chinese e03s01_anim4_ac316b2e:
 
     # sy "Meow..."
-    sy "Meow..."
+    sy "喵..."
 
 # game/code/e03/e03s01.rpy:811
 translate chinese e03s01_anim4_301777d9:
 
     # mh "*giggles* Well, time to give you want you're craving."
-    mh "*giggles* Well, time to give you want you're craving."
+    mh "*咯咯笑* 好吧，是时候给你想要的了。"
 
 # game/code/e03/e03s01.rpy:817
 translate chinese e03s01_anim4_38253ee7:
 
     # sy "Oouah-ffuaaffrkk."
-    sy "Oouah-ffuaaffrkk."
+    sy "噢噢噢-操操操。"
 
 # game/code/e03/e03s01.rpy:821
 translate chinese e03s01_anim4_56779a2b:
 
     # mc "Loading door number two."
-    mc "Loading door number two."
+    mc "二号门正在上膛。"
 
 # game/code/e03/e03s01.rpy:825
 translate chinese e03s01_anim4_367fff95:
 
     # sy "Fwwaahuah... Yes. Give me your cock, big bro."
-    sy "Fwwaahuah... Yes. Give me your cock, big bro."
+    sy "唔哇啊啊...就是这样。把你的鸡巴给我，亲爱的哥哥。"
 
 # game/code/e03/e03s01.rpy:827
 translate chinese e03s01_anim4_58c25275:
 
     # sy "Fwaaahaha... Yes. Stick your cock in my ass, [mcname]."
-    sy "Fwaaahaha... Yes. Stick your cock in my ass, [mcname]."
+    sy "唔哇啊啊...就是这样。把你的鸡巴插进我屁股里，[mcname]。"
 
 # game/code/e03/e03s01.rpy:840
 translate chinese e03s01_anim4_d2877d86:
 
     # sy "Ahuaa-ffauaaa-eyeeiaaah."
-    sy "Ahuaa-ffauaaa-eyeeiaaah."
+    sy "哈啊-靠靠靠-咿啊啊啊。"
 
 # game/code/e03/e03s01.rpy:844
 translate chinese e03s01_anim4_341adba2:
 
     # mh "Mmm. Did you just cum, Stacy?"
-    mh "Mmm. Did you just cum, Stacy?"
+    mh "嗯。你刚才射了吗，史黛西？"
 
 # game/code/e03/e03s01.rpy:845
 translate chinese e03s01_anim4_a4cc0647:
 
     # sy "*wordless mumbling*"
-    sy "*wordless mumbling*"
+    sy "*无声的喃喃自语*"
 
 # game/code/e03/e03s01.rpy:848
 translate chinese e03s01_anim4_a667b85c:
 
     # mh "[mcname], maybe we should give her a break."
-    mh "[mcname], maybe we should give her a break."
+    mh "[mcname]，也许我们应该让她休息一下。"
 
 # game/code/e03/e03s01.rpy:851
 translate chinese e03s01_anim4_45281150:
 
     # sy "Shut your dirty mouth."
-    sy "Shut your dirty mouth."
+    sy "闭上你的臭嘴。"
 
 # game/code/e03/e03s01.rpy:852
 translate chinese e03s01_anim4_e89cfc50:
 
     # mh "Oh!"
-    mh "Oh!"
+    mh "哦！"
 
 # game/code/e03/e03s01.rpy:856
 translate chinese e03s01_anim4_21c3c2b6:
 
     # sy "I'm... fuahah... I'm sorry, Lyssa. But if you two stop fucking me right now, I think I'll go crazy."
-    sy "I'm... fuahah... I'm sorry, Lyssa. But if you two stop fucking me right now, I think I'll go crazy."
+    sy "我...操...对不起，丽莎。但如果你俩现在停止操我，我想我会疯掉的。"
 
 # game/code/e03/e03s01.rpy:859
 translate chinese e03s01_anim4_053f2649:
 
     # sy "Please keep going. This... this is like the greatest feeling I've ever known."
-    sy "Please keep going. This... this is like the greatest feeling I've ever known."
+    sy "求你们不要停。这...这是我所经历过的最美妙的感觉。"
 
 # game/code/e03/e03s01.rpy:860
 translate chinese e03s01_anim4_72d180c4:
 
     # mh "As you wish."
-    mh "As you wish."
+    mh "如你所愿。"
 
 # game/code/e03/e03s01.rpy:864
 translate chinese e03s01_anim4_a6a52ae6:
 
     # sy "Yes... hufaah... oh fuck... right there."
-    sy "Yes... hufaah... oh fuck... right there."
+    sy "好哎...呼...哦，操操操...就是那里。"
 
 # game/code/e03/e03s01.rpy:868
 translate chinese e03s01_anim4_e21a210a:
 
     # sy "There... fuaakah... my body is burning up. Oh fuck... fuck me... Keep pounding my holesuaaah!"
-    sy "There... fuaakah... my body is burning up. Oh fuck... fuck me... Keep pounding my holesuaaah!"
+    sy "那里...操啊...我的身体在燃烧。哦操...操我...继续撞击我的洞啊啊！"
 
 # game/code/e03/e03s01.rpy:882
 translate chinese e03s01_anim4_6cb8aa9d:
 
     # sy "Fukaahauah... I'm so close to cumming..."
-    sy "Fukaahauah... I'm so close to cumming..."
+    sy "天啊...我快要高潮了..."
 
 # game/code/e03/e03s01.rpy:884
 translate chinese e03s01_anim4_efdb2666:
 
     # sy "Lyssa. I want... I want to taste your cock again. I want to enjoy the taste of my pussy on your flesh."
-    sy "Lyssa. I want... I want to taste your cock again. I want to enjoy the taste of my pussy on your flesh."
+    sy "丽莎。我想...我想再尝尝你的鸡巴。我想享受我的小穴在你肉棒上的味道。"
 
 # game/code/e03/e03s01.rpy:885
 translate chinese e03s01_anim4_78c22884:
 
     # sy "Can I?"
-    sy "Can I?"
+    sy "可以吗？"
 
 # game/code/e03/e03s01.rpy:888
 translate chinese e03s01_anim4_73234760:
 
     # mh "Of course, my dear."
-    mh "Of course, my dear."
+    mh "当然可以，亲爱的。"
 
 # game/code/e03/e03s01.rpy:890
 translate chinese e03s01_anim4_0d2b0369:
 
     # mh "Like this?"
-    mh "Like this?"
+    mh "像这样吗？"
 
 # game/code/e03/e03s01.rpy:893
 translate chinese e03s01_anim4_c172bd12:
 
     # sy "Yes."
-    sy "Yes."
+    sy "是的。"
 
 # game/code/e03/e03s01.rpy:897
 translate chinese e03s01_anim4_c640ff94:
 
     # sy "Mrrrmaammmph."
-    sy "Mrrrmaammmph."
+    sy "嗯嗯嗯嗯"
 
 # game/code/e03/e03s01.rpy:901
 translate chinese e03s01_anim4_c6612078:
 
     # sy "Mmmurrm!!!"
-    sy "Mmmurrm!!!"
+    sy "嗯嗯嗯嗯!!!"
 
 # game/code/e03/e03s01.rpy:911
 translate chinese e03s01_anim4_a8e13667:
 
     # sy "*loud wet slurping*"
-    sy "*loud wet slurping*"
+    sy "*大声的吧嗒吧嗒的吃着*"
 
 # game/code/e03/e03s01.rpy:914
 translate chinese e03s01_anim4_4f53f3ad:
 
     # mh "Fuck me. She's like an animal."
-    mh "Fuck me. She's like an animal."
+    mh "我靠。她就像一头野兽。"
 
 # game/code/e03/e03s01.rpy:917
 translate chinese e03s01_anim4_1a271694:
 
     # mc "It's why I love her. But with you, she's gotten to a whole another level."
-    mc "It's why I love her. But with you, she's gotten to a whole another level."
+    mc "这就是我爱她的原因。但和你在一起时，她达到了一个全新的境界。"
 
 # game/code/e03/e03s01.rpy:921
 translate chinese e03s01_anim4_3a3fbb08:
 
     # mh "Is that true, Stacy? You like this so much that you're showing a side that even [mcname] didn't know?"
-    mh "Is that true, Stacy? You like this so much that you're showing a side that even [mcname] didn't know?"
+    mh "真的吗，史黛西？你很喜欢这样，以至于展现出连[mcname]都不知道的一面？"
 
 # game/code/e03/e03s01.rpy:925
 translate chinese e03s01_anim4_44f1c8d8:
 
     # sy "*moans of agreement*"
-    sy "*moans of agreement*"
+    sy "*同意的呻吟*"
 
 # game/code/e03/e03s01.rpy:928
 translate chinese e03s01_anim4_65608aef:
 
     # mh "Well I am... *moans*... taken aback."
-    mh "Well I am... *moans*... taken aback."
+    mh "好吧，我...*呻吟* ...吃了一惊。"
 
 # game/code/e03/e03s01.rpy:929
 translate chinese e03s01_anim4_fc4a9abb:
 
     # mh "And... phew... I'm going to cum."
-    mh "And... phew... I'm going to cum."
+    mh "我...唷...我要高潮了。"
 
 # game/code/e03/e03s01.rpy:933
 translate chinese e03s01_anim4_4f3791d8:
 
     # mh "I'm... *panting* I'm going to cum and drench your throat in my jizz."
-    mh "I'm... *panting* I'm going to cum and drench your throat in my jizz."
+    mh "我...*喘着气* 我要射出来，用我的精液浸透你的喉咙。"
 
 # game/code/e03/e03s01.rpy:938
 translate chinese e03s01_anim4_a5171e18:
 
     # mh "Sir, please make sure to creampie your sister while I fill her up from this end."
-    mh "Sir, please make sure to creampie your sister while I fill her up from this end."
+    mh "主人，我从这边给她灌满的时候，请一定要给你妹妹内射。"
 
 # game/code/e03/e03s01.rpy:940
 translate chinese e03s01_anim4_52a975c3:
 
     # mh "Sir, please make sure to creampie Stacy while I fill her up from this end."
-    mh "Sir, please make sure to creampie Stacy while I fill her up from this end."
+    mh "主人，我从这边给她灌满的时候，请一定要给史黛西内射。"
 
 # game/code/e03/e03s01.rpy:943
 translate chinese e03s01_anim4_16ed0628:
 
     # mh "I want her to be oozing with our juices."
-    mh "I want her to be oozing with our juices."
+    mh "我希望她能被我们的爱液浸透。"
 
 # game/code/e03/e03s01.rpy:946
 translate chinese e03s01_anim4_9e9d2e42:
 
     # mc "Fuck yes!"
-    mc "Fuck yes!"
+    mc "太棒了！"
 
 # game/code/e03/e03s01.rpy:953
 translate chinese e03s01_anim4_8f86d9bc:
 
     # mh "Yes. YES. YES!!!"
-    mh "Yes. YES. YES!!!"
+    mh "好，好爽，好爽!!!"
 
 # game/code/e03/e03s01.rpy:958
 translate chinese e03s01_anim4_4e87422f:
 
     # sy "Mllphra-ffphuaah..."
-    sy "Mllphra-ffphuaah..."
+    sy "唔唔-噗唔唔唔..."
 
 # game/code/e03/e03s01.rpy:959
 translate chinese e03s01_anim4_188863b3:
 
     # mh "*delirious moaning*"
-    mh "*delirious moaning*"
+    mh "*发狂的呻吟*"
 
 # game/code/e03/e03s01.rpy:961
 translate chinese e03s01_anim4_3f0a30c7:
 
     # mct "Fuck me. That's so hot."
-    mct "Fuck me. That's so hot."
+    mct "我靠，太爽了。"
 
 # game/code/e03/e03s01.rpy:969
 translate chinese e03s01_anim4_46b48836:
 
     # sy "Ahufaaa-fllprrphaa-ffaahuhh."
-    sy "Ahufaaa-fllprrphaa-ffaahuhh."
+    sy "啊呼-噗噗噗-唔唔唔。"
 
 # game/code/e03/e03s01.rpy:972
 translate chinese e03s01_anim4_a1e61105:
 
     # mc "Fuck... huhu-rraah..."
-    mc "Fuck... huhu-rraah..."
+    mc "操...呼--呃啊..."
 
 # game/code/e03/e03s01.rpy:975
 translate chinese e03s01_anim4_28087521:
 
     # sy "[mcname]... fuahuaah... Mrrmmaaah..."
-    sy "[mcname]... fuahuaah... Mrrmmaaah..."
+    sy "[mcname]...噗噗噗...嗯嗯嗯嗯..."
 
 # game/code/e03/e03s01.rpy:981
 translate chinese e03s01_anim4_5969416d:
 
     # sy "Delicious."
-    sy "Delicious."
+    sy "真好吃。"
 
 # game/code/e03/e03s01.rpy:985
 translate chinese e03s01_anim4_e62c0615:
 
     # mh "Such a perfect woman."
-    mh "Such a perfect woman."
+    mh "真是个完美的女人。"
 
 # game/code/e03/e03s01.rpy:987
 translate chinese e03s01_anim4_43dc5118:
 
     # sy "Heheh. I... phuraah... I do what I can."
-    sy "Heheh. I... phuraah... I do what I can."
+    sy "嘿嘿。我...嗯嗯...我尽我所能。"
 
 # game/code/e03/e03s01.rpy:991
 translate chinese e03s01_anim4_9e427061:
 
     # mh "Well, after that, I am absolutely famished. How about we finish up dinner before it gets too cold."
-    mh "Well, after that, I am absolutely famished. How about we finish up dinner before it gets too cold."
+    mh "好吧，运动完了，我要饿死了。趁晚饭还没凉，我们把它吃完吧。"
 
 # game/code/e03/e03s01.rpy:994
 translate chinese e03s01_anim4_23186544:
 
     # mc "Nothing like a naked dinner with you, Lyssa."
-    mc "Nothing like a naked dinner with you, Lyssa."
+    mc "没什么比和你共进一顿裸体晚餐更好的了，丽莎。"
 
 # game/code/e03/e03s01.rpy:1004
 translate chinese e03s01_anim4_6dc06b62:
 
     # mh "Ooooh, I almost forgot one thing."
-    mh "Ooooh, I almost forgot one thing."
+    mh "哦，我差点忘了件事。"
 
 # game/code/e03/e03s01.rpy:1006
 translate chinese e03s01_anim4_c17ef8ec:
 
     # mc "What's that?"
-    mc "What's that?"
+    mc "什么事？"
 
 # game/code/e03/e03s01.rpy:1010
 translate chinese e03s01_anim4_769932ca:
 
     # mh "Stacy?"
-    mh "Stacy?"
+    mh "史黛西？"
 
 # game/code/e03/e03s01.rpy:1012
 translate chinese e03s01_anim4_3cc3c3d5:
 
     # sy "Mmmm?"
-    sy "Mmmm?"
+    sy "嗯？"
 
 # game/code/e03/e03s01.rpy:1016
 translate chinese e03s01_anim4_72ef1af6:
 
     # mh "I know this is a little sudden, but I wanted to cordially invite you to stay over."
-    mh "I know this is a little sudden, but I wanted to cordially invite you to stay over."
+    mh "我知道这有点突然，但我还是想诚挚地邀请你留下来过夜。"
 
 # game/code/e03/e03s01.rpy:1020
 translate chinese e03s01_anim4_91833fde:
 
     # sy "Haha, why thank you, Lyssa. I'll admit, I thought that went without saying."
-    sy "Haha, why thank you, Lyssa. I'll admit, I thought that went without saying."
+    sy "哈哈，谢谢你，丽莎。我得承认，我以为这件事已经是不言而喻了。"
 
 # game/code/e03/e03s01.rpy:1021
 translate chinese e03s01_anim4_145547b5:
 
     # sy "Plus I don't even think my legs will move properly for a little bit anyhow."
-    sy "Plus I don't even think my legs will move properly for a little bit anyhow."
+    sy "另外，我觉得我的腿暂时没法正常走路。"
 
 # game/code/e03/e03s01.rpy:1025
 translate chinese e03s01_anim4_c9253e24:
 
     # mh "No my sweet dear, I meant... well. I actually would like to invite you to live here with me."
-    mh "No my sweet dear, I meant... well. I actually would like to invite you to live here with me."
+    mh "不，亲爱的，我的意思是...好吧。事实上，我想邀请你和我一起住在这里。"
 
 # game/code/e03/e03s01.rpy:1026
 translate chinese e03s01_anim4_75db383e:
 
     # mh "If that was something you're interested in."
-    mh "If that was something you're interested in."
+    mh "如果你对此感兴趣的话。"
 
 # game/code/e03/e03s01.rpy:1030
 translate chinese e03s01_anim4_b62edf9c:
 
     # sy "Really? Wait, are you two teasing me?"
-    sy "Really? Wait, are you two teasing me?"
+    sy "真的吗？等等，你们俩在逗我吗？"
 
 # game/code/e03/e03s01.rpy:1035
 translate chinese e03s01_anim4_29b7f854:
 
     # mh "Of course not."
-    mh "Of course not."
+    mh "当然不是。"
 
 # game/code/e03/e03s01.rpy:1036
 translate chinese e03s01_anim4_05217295:
 
     # mh "I already asked [mcname] to join me here, and he accepted. But I'd love to have you here as well."
-    mh "I already asked [mcname] to join me here, and he accepted. But I'd love to have you here as well."
+    mh "我已经邀请[mcname]和我一起住在这里了，他也答应了。但我也很希望你能来。"
 
 # game/code/e03/e03s01.rpy:1040
 translate chinese e03s01_anim4_9fa636ec:
 
     # mh "So, what do you say?"
-    mh "So, what do you say?"
+    mh "你觉得怎么样？"
 
 # game/code/e03/e03s01.rpy:1043
 translate chinese e03s01_anim4_00542bfd:
 
     # sy "Hell yes, Lyssa! Of course, I'd like to live here with you and [mcname]."
-    sy "Hell yes, Lyssa! Of course, I'd like to live here with you and [mcname]."
+    sy "太好了，丽莎！当然，我很乐意和你以及[mcname]一起住在这里。"
 
 # game/code/e03/e03s01.rpy:1047
 translate chinese e03s01_anim4_f34796f9:
 
     # mh "I'm so happy."
-    mh "I'm so happy."
+    mh "我太高兴了。"
 
 # game/code/e03/e03s01.rpy:1049
 translate chinese e03s01_anim4_a2535ccf:
 
     # sy "Mrmmmhmmm! Me too."
-    sy "Mrmmmhmmm! Me too."
+    sy "嗯嗯嗯！我也是。"
 
 # game/code/e03/e03s01.rpy:1051
 translate chinese e03s01_anim4_acd28f75:
 
     # mc "Man, I don't think I could ask for a more perfect moment."
-    mc "Man, I don't think I could ask for a more perfect moment."
+    mc "天啊，我觉得没有比这更完美的时刻了。"
 
 # game/code/e03/e03s01.rpy:1055
 translate chinese e03s01_anim4_6cce50a1:
 
     # sy "Can I ask for one favor?"
-    sy "Can I ask for one favor?"
+    sy "我能提个要求吗？"
 
 # game/code/e03/e03s01.rpy:1057
 translate chinese e03s01_anim4_c7bbff6d:
 
     # mh "Name it."
-    mh "Name it."
+    mh "说吧。"
 
 # game/code/e03/e03s01.rpy:1058
 translate chinese e03s01_anim4_d83c72cd:
 
     # sy "Can you guys help carry me off the bed? I was serious about my legs still needing some rest."
-    sy "Can you guys help carry me off the bed? I was serious about my legs still needing some rest."
+    sy "你们能帮我下床吗？我说真的，我的腿还需要休息。"
 
 # game/code/e03/e03s01.rpy:1061
 translate chinese e03s01_anim4_d5b8071a:
 
     # mc "Haha. Can do."
-    mc "Haha. Can do."
+    mc "哈哈。没问题。"
 
 translate chinese strings:
 
     # game/code/e03/e03s01.rpy:93
     old "A few days later in the afternoon"
-    new "A few days later in the afternoon"
+    new "几天后的下午"
 
     # game/code/e03/e03s01.rpy:189
     old "An hour later"
-    new "An hour later"
+    new "一个小时后"
 
     # game/code/e03/e03s01.rpy:687
     old "Go for it"
-    new "Go for it"
+    new "来吧"
 
     # game/code/e03/e03s01.rpy:687
     old "Another time"
-    new "Another time"
+    new "下次吧"
 
