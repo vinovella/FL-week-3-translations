@@ -8,259 +8,259 @@ translate chinese e03s02_76275066:
 translate chinese e03s02_b1552cc3:
 
     # mh "Mmmm... mmmm."
-    mh "Mmmm... mmmm."
+    mh "嗯...嗯嗯嗯。"
 
 # game/code/e03/e03s02.rpy:25
 translate chinese e03s02_a7430f50:
 
     # mct "Mmmm. This is so nice. And Lyssa mentioned she'd get to sleep in today."
-    mct "Mmmm. This is so nice. And Lyssa mentioned she'd get to sleep in today."
+    mct "哼嗯嗯。真舒服。丽莎说她今天可以睡懒觉。"
 
 # game/code/e03/e03s02.rpy:26
 translate chinese e03s02_ed84114e:
 
     # mct "After last night, we all could use the rest."
-    mct "After last night, we all could use the rest."
+    mct "昨晚之后，我们都需要休息。"
 
 # game/code/e03/e03s02.rpy:30
 translate chinese e03s02_f3bdfc6c:
 
     # mct "Woah. That is a beautiful sight to wake up to."
-    mct "Woah. That is a beautiful sight to wake up to."
+    mct "哇。一觉醒来，看到这样的景象真是太美了。"
 
 # game/code/e03/e03s02.rpy:33
 translate chinese e03s02_a355b082:
 
     # mct "And now it's even better than the last time I stayed over at Lyssa's."
-    mct "And now it's even better than the last time I stayed over at Lyssa's."
+    mct "现在这一幕比上次我在丽莎家过夜时还要美。"
 
 # game/code/e03/e03s02.rpy:40
 translate chinese e03s02_8c726e78:
 
     # mct "Crap. Now I have to pee."
-    mct "Crap. Now I have to pee."
+    mct "糟糕。现在我得去尿尿。"
 
 # game/code/e03/e03s02.rpy:47
 translate chinese e03s02_67129606:
 
     # mct "One."
-    mct "One."
+    mct "一。"
 
 # game/code/e03/e03s02.rpy:50
 translate chinese e03s02_1cd8aad7:
 
     # mct "And two."
-    mct "And two."
+    mct "二。"
 
 # game/code/e03/e03s02.rpy:59
 translate chinese e03s02_59dcd104:
 
     # mh "Mmmhawa."
-    mh "Mmmhawa."
+    mh "嗯嗯嗯哼。"
 
 # game/code/e03/e03s02.rpy:67
 translate chinese e03s02_bc9f4b26:
 
     # mh "Hey there."
-    mh "Hey there."
+    mh "你好呀。"
 
 # game/code/e03/e03s02.rpy:70
 translate chinese e03s02_8ddcc085:
 
     # mc "Good morning."
-    mc "Good morning."
+    mc "早上好。"
 
 # game/code/e03/e03s02.rpy:77
 translate chinese e03s02_c6a84ff6:
 
     # mc "Duty calls?"
-    mc "Duty calls?"
+    mc "工作的事？"
 
 # game/code/e03/e03s02.rpy:80
 translate chinese e03s02_28322233:
 
     # mh "Yes, except it's too early and Oliver shouldn't be in till after lunch."
-    mh "Yes, except it's too early and Oliver shouldn't be in till after lunch."
+    mh "是的，只是现在太早了。奥利弗午饭之后才该联系我的。"
 
 # game/code/e03/e03s02.rpy:87
 translate chinese e03s02_b5f8c29a:
 
     # mh "I told him that I'd be having a lazy morning."
-    mh "I told him that I'd be having a lazy morning."
+    mh "我告诉过他我今天早上会很懒。"
 
 # game/code/e03/e03s02.rpy:90
 translate chinese e03s02_742258ba:
 
     # mc "Mmm. Sounds good to me."
-    mc "Mmm. Sounds good to me."
+    mc "嗯，听起来不错。"
 
 # game/code/e03/e03s02.rpy:94
 translate chinese e03s02_5c41da91:
 
     # mc "Everything okay with Oliver?"
-    mc "Everything okay with Oliver?"
+    mc "奥利弗一切都好吗？"
 
 # game/code/e03/e03s02.rpy:97
 translate chinese e03s02_9de26d13:
 
     # mh "I assume so. This message isn't from him."
-    mh "I assume so. This message isn't from him."
+    mh "我想是的。这条信息不是他发的。"
 
 # game/code/e03/e03s02.rpy:100
 translate chinese e03s02_c672258c:
 
     # mc "Who is it from?"
-    mc "Who is it from?"
+    mc "那是谁发的？"
 
 # game/code/e03/e03s02.rpy:103
 translate chinese e03s02_a1a3210b:
 
     # mh "And old friend of mine named Stephanie."
-    mh "And old friend of mine named Stephanie."
+    mh "是我的一个老朋友，叫斯蒂芬妮。"
 
 # game/code/e03/e03s02.rpy:107
 translate chinese e03s02_20499bf7:
 
     # mh "I need to get showered and get dressed."
-    mh "I need to get showered and get dressed."
+    mh "我得去洗个澡，然后换衣服了。"
 
 # game/code/e03/e03s02.rpy:108
 translate chinese e03s02_34f838e3:
 
     # mh "There is a {i}sitaution{/i}."
-    mh "There is a {i}sitaution{/i}."
+    mh "有件{i}事{/i}要说。"
 
 # game/code/e03/e03s02.rpy:112
 translate chinese e03s02_211fede7:
 
     # sy "*half-asleep mumbling*"
-    sy "*half-asleep mumbling*"
+    sy "*半睡半醒的喃喃自语*"
 
 # game/code/e03/e03s02.rpy:116
 translate chinese e03s02_bdd043ec:
 
     # mh "Did you get any of that?"
-    mh "Did you get any of that?"
+    mh "你听懂她说什么了吗？"
 
 # game/code/e03/e03s02.rpy:120
 translate chinese e03s02_8f4ed3f9:
 
     # mc "Stacy asked if she can help."
-    mc "Stacy asked if she can help."
+    mc "史黛西问她能不能帮忙。"
 
 # game/code/e03/e03s02.rpy:121
 translate chinese e03s02_755b434d:
 
     # mc "And I'd like to extend my own offer of assitance."
-    mc "And I'd like to extend my own offer of assitance."
+    mc "我也想尽我所能的提供帮助。"
 
 # game/code/e03/e03s02.rpy:125
 translate chinese e03s02_6932f66c:
 
     # mh "You don't have to do that."
-    mh "You don't have to do that."
+    mh "你们不必这么做。"
 
 # game/code/e03/e03s02.rpy:128
 translate chinese e03s02_be1f8acc:
 
     # mc "At the very least, we can get you coffee and donuts."
-    mc "At the very least, we can get you coffee and donuts."
+    mc "至少，我们可以给你买咖啡和甜甜圈。"
 
 # game/code/e03/e03s02.rpy:139
 translate chinese e03s02_3df30b6e:
 
     # mh "*yawns* Mmm. You read my mind."
-    mh "*yawns* Mmm. You read my mind."
+    mh "*打哈欠* 嗯。你读懂了我的心思。"
 
 # game/code/e03/e03s02.rpy:142
 translate chinese e03s02_8362c9d0:
 
     # mh "Having you two live with me is already revealing hidden perks."
-    mh "Having you two live with me is already revealing hidden perks."
+    mh "让你们俩和我一起住，潜藏的好处已经开始显现出来了。"
 
 # game/code/e03/e03s02.rpy:143
 translate chinese e03s02_fa644a65:
 
     # mh "We should have done this a while ago."
-    mh "We should have done this a while ago."
+    mh "我们早该这么做了。"
 
 # game/code/e03/e03s02.rpy:147
 translate chinese e03s02_faa03e1a:
 
     # mc "Haha."
-    mc "Haha."
+    mc "哈哈。"
 
 # game/code/e03/e03s02.rpy:157
 translate chinese e03s02_3ed77072:
 
     # mh "Thank you, [mcname]."
-    mh "Thank you, [mcname]."
+    mh "谢谢你，[mcname]。"
 
 # game/code/e03/e03s02.rpy:161
 translate chinese e03s02_4c851011:
 
     # mh "This is Stephanie. Steph meet [mcname] and Stacy."
-    mh "This is Stephanie. Steph meet [mcname] and Stacy."
+    mh "这是斯蒂芬妮。斯蒂芬妮，这是[mcname]和史黛西。"
 
 # game/code/e03/e03s02.rpy:165
 translate chinese e03s02_8fd6f44a:
 
     # mc "Nice to meet you Stephanie."
-    mc "Nice to meet you Stephanie."
+    mc "很高兴认识你，斯蒂芬妮。"
 
 # game/code/e03/e03s02.rpy:167
 translate chinese e03s02_2e5453e4:
 
     # sw "It's a treat to meet you, [mcname]."
-    sw "It's a treat to meet you, [mcname]."
+    sw "很高兴见到你，[mcname]。"
 
 # game/code/e03/e03s02.rpy:171
 translate chinese e03s02_aa835752:
 
     # sw "And you too, Stacy."
-    sw "And you too, Stacy."
+    sw "还有你，史黛西。"
 
 # game/code/e03/e03s02.rpy:175
 translate chinese e03s02_d675a135:
 
     # sw "Lyssa caught me up with everything that has been going on with her."
-    sw "Lyssa caught me up with everything that has been going on with her."
+    sw "丽莎把她身上发生的一切都告诉了我。"
 
 # game/code/e03/e03s02.rpy:176
 translate chinese e03s02_67e9d906:
 
     # sw "Any friend of Lyssa's is a friend of mine."
-    sw "Any friend of Lyssa's is a friend of mine."
+    sw "丽莎的朋友就是我的朋友。"
 
 # game/code/e03/e03s02.rpy:181
 translate chinese e03s02_a8bfca86:
 
     # sw "But I'm afraid I didn't ask Lyssa here for just a reunion."
-    sw "But I'm afraid I didn't ask Lyssa here for just a reunion."
+    sw "但恐怕我请丽莎来不只是为了重聚。"
 
 # game/code/e03/e03s02.rpy:185
 translate chinese e03s02_f20a4142:
 
     # mc "Oh. Hey."
-    mc "Oh. Hey."
+    mc "哦。嘿。"
 
 # game/code/e03/e03s02.rpy:188
 translate chinese e03s02_debc5b84:
 
     # mct "Who is this girl?"
-    mct "Who is this girl?"
+    mct "这个女孩是谁？"
 
 # game/code/e03/e03s02.rpy:192
 translate chinese e03s02_18528579:
 
     # sw "*clears throat* And this is my friend. Rose."
-    sw "*clears throat* And this is my friend. Rose."
+    sw "*清了清嗓子* 她是我的朋友，萝丝。"
 
 # game/code/e03/e03s02.rpy:196
 translate chinese e03s02_730077fe:
 
     # sy "Hello Rose."
-    sy "Hello Rose."
+    sy "你好，萝丝。"
 
 # game/code/e03/e03s02.rpy:199
 translate chinese e03s02_2f48d092:
@@ -272,175 +272,175 @@ translate chinese e03s02_2f48d092:
 translate chinese e03s02_4e860e69:
 
     # mc "Is she alright?"
-    mc "Is she alright?"
+    mc "她还好吗？"
 
 # game/code/e03/e03s02.rpy:207
 translate chinese e03s02_f75cfc37:
 
     # sw "Are you sure about this?"
-    sw "Are you sure about this?"
+    sw "你确定要这样做吗？"
 
 # game/code/e03/e03s02.rpy:211
 translate chinese e03s02_676a9f70:
 
     # mh "I don't want to keep secrets from them."
-    mh "I don't want to keep secrets from them."
+    mh "我不想对他们隐瞒秘密。"
 
 # game/code/e03/e03s02.rpy:215
 translate chinese e03s02_66f39a12:
 
     # sw "*sigh*"
-    sw "*sigh*"
+    sw "*叹气*"
 
 # game/code/e03/e03s02.rpy:219
 translate chinese e03s02_7ec0e8ed:
 
     # sw "What I'm about to tell you is... well it's not for the faint of heart."
-    sw "What I'm about to tell you is... well it's not for the faint of heart."
+    sw "我要告诉你们的是...嗯，这不是胆小的人能承受的。"
 
 # game/code/e03/e03s02.rpy:223
 translate chinese e03s02_e5abe357:
 
     # mc "I've been through a lot recently. I don't faint easily."
-    mc "I've been through a lot recently. I don't faint easily."
+    mc "我最近经历了很多事。我可没那么容易被吓倒。"
 
 # game/code/e03/e03s02.rpy:226
 translate chinese e03s02_d03c94b3:
 
     # sy "Unless its kangaroos."
-    sy "Unless its kangaroos."
+    sy "除非是袋鼠。"
 
 # game/code/e03/e03s02.rpy:230
 translate chinese e03s02_9521fc39:
 
     # mc "What kind of an animal has a pouch to carry smaller versions of themselves?"
-    mc "What kind of an animal has a pouch to carry smaller versions of themselves?"
+    mc "什么样的动物会有个育儿袋来携带小一号的自己？"
 
 # game/code/e03/e03s02.rpy:234
 translate chinese e03s02_f3f141a0:
 
     # sw "Well, this has nothing to do with kangaroos."
-    sw "Well, this has nothing to do with kangaroos."
+    sw "嗯，反正和袋鼠没关系。"
 
 # game/code/e03/e03s02.rpy:238
 translate chinese e03s02_6ac3bf94:
 
     # mc "Can't believe you just blurted that out."
-    mc "Can't believe you just blurted that out."
+    mc "真不敢相信你就这么脱口而出了。"
 
 # game/code/e03/e03s02.rpy:242
 translate chinese e03s02_66d21bb4:
 
     # sw "Ahem, the situation, that I came here to share with Lyssa concerns a group of individuals."
-    sw "Ahem, the situation, that I came here to share with Lyssa concerns a group of individuals."
+    sw "咳咳，我是来和丽莎分享情况的，与一群人有关。"
 
 # game/code/e03/e03s02.rpy:243
 translate chinese e03s02_e447e5b6:
 
     # sw "A very insidious group."
-    sw "A very insidious group."
+    sw "非常阴险的一群人。"
 
 # game/code/e03/e03s02.rpy:247
 translate chinese e03s02_867a7058:
 
     # mc "But no kangaroos."
-    mc "But no kangaroos."
+    mc "但没有袋鼠吧。"
 
 # game/code/e03/e03s02.rpy:250
 translate chinese e03s02_6137529a:
 
     # sw "No. No kangaroos."
-    sw "No. No kangaroos."
+    sw "对，没有袋鼠。"
 
 # game/code/e03/e03s02.rpy:254
 translate chinese e03s02_905afbf6:
 
     # mh "Stephanie, please continue."
-    mh "Stephanie, please continue."
+    mh "斯蒂芬妮，请继续。"
 
 # game/code/e03/e03s02.rpy:257
 translate chinese e03s02_b4a000da:
 
     # sw "Right, this group is known as the Empyrean Dream. In my capacity as an employee of the District Attorney's office, I've been investigating them over the past year."
-    sw "Right, this group is known as the Empyrean Dream. In my capacity as an employee of the District Attorney's office, I've been investigating them over the past year."
+    sw "好，这个组织被称为‘天堂之梦’。作为地方检察官办公室的一名员工，我在过去的一年里一直在调查他们。"
 
 # game/code/e03/e03s02.rpy:258
 translate chinese e03s02_7131ce33:
 
     # sw "They practice strange archaic rituals. They believe that soon, the time of prophecy will be upon the world."
-    sw "They practice strange archaic rituals. They believe that soon, the time of prophecy will be upon the world."
+    sw "他们举行奇怪的古老仪式。他们相信，预言的时刻很快就会到来。"
 
 # game/code/e03/e03s02.rpy:259
 translate chinese e03s02_ce30b3cc:
 
     # sw "And their leader, the mysterious entity known as Dyma will return to reshape the world and bless all true believers with great power and wealth."
-    sw "And their leader, the mysterious entity known as Dyma will return to reshape the world and bless all true believers with great power and wealth."
+    sw "他们的领袖，被称为“迪玛”的神秘实体，将重返人间，重塑世界，并赐予所有忠实的信徒巨大的力量和财富。"
 
 # game/code/e03/e03s02.rpy:263
 translate chinese e03s02_fb58672e:
 
     # sw "But that's all just a cover for their nefarious acts."
-    sw "But that's all just a cover for their nefarious acts."
+    sw "但这都只是他们犯罪作恶的幌子。"
 
 # game/code/e03/e03s02.rpy:264
 translate chinese e03s02_12231dc1:
 
     # sw "Once you join the cult, they quickly cut off all contact to your friends and family. They isolate you, twisting you to their agenda."
-    sw "Once you join the cult, they quickly cut off all contact to your friends and family. They isolate you, twisting you to their agenda."
+    sw "一旦你加入这个邪教，他们就会迅速切断你与朋友和家人的联系。他们孤立你，把你扭曲成他们的囊中之物。"
 
 # game/code/e03/e03s02.rpy:268
 translate chinese e03s02_0f3fdaf5:
 
     # sw "Obviously, people have their own personal freedom to make their choices. Many people like to feel like they're part of something better."
-    sw "Obviously, people have their own personal freedom to make their choices. Many people like to feel like they're part of something better."
+    sw "显然，人们有自己的个人自由来做出选择。许多人喜欢都感觉自己是美好事物的一部分。"
 
 # game/code/e03/e03s02.rpy:271
 translate chinese e03s02_52907ee5:
 
     # sw "But, through Rose, I have learned that any who questions the cult, or... god-forbid, attempt to leave..."
-    sw "But, through Rose, I have learned that any who questions the cult, or... god-forbid, attempt to leave..."
+    sw "但是，通过萝丝，我了解到，任何质疑邪教的人，或者...违背邪教目的，试图离开的人..."
 
 # game/code/e03/e03s02.rpy:272
 translate chinese e03s02_e2aee869:
 
     # sw "Are imprisoned within their complex. And that, without a doubt, is against the law. These acts can be prosecuted."
-    sw "Are imprisoned within their complex. And that, without a doubt, is against the law. These acts can be prosecuted."
+    sw "都会被囚禁在他们的大楼里。毫无疑问，这是违法的。这些行为可以被起诉。"
 
 # game/code/e03/e03s02.rpy:276
 translate chinese e03s02_39c477b4:
 
     # mc "Cool, so you can take down this cult."
-    mc "Cool, so you can take down this cult."
+    mc "酷，这样你就能扳倒这个邪教了。"
 
 # game/code/e03/e03s02.rpy:280
 translate chinese e03s02_55f7655a:
 
     # sy "Bro, if she could take down the cult on her own, we wouldn't be talking."
-    sy "Bro, if she could take down the cult on her own, we wouldn't be talking."
+    sy "老哥，如果她能靠自己扳倒邪教，我们就不会在这儿谈这个了。"
 
 # game/code/e03/e03s02.rpy:282
 translate chinese e03s02_fddfcadd:
 
     # sy "[mcname], if she could take down the cult on her own, we wouldn't be talking."
-    sy "[mcname], if she could take down the cult on her own, we wouldn't be talking."
+    sy "[mcname]，如果她能靠自己扳倒这个邪教，我们就不会在这儿谈这个了。"
 
 # game/code/e03/e03s02.rpy:287
 translate chinese e03s02_3843887a:
 
     # mc "Oh yeah. So then what is the problem?"
-    mc "Oh yeah. So then what is the problem?"
+    mc "哦，也是。那么哪里出问题了？"
 
 # game/code/e03/e03s02.rpy:291
 translate chinese e03s02_506dabb3:
 
     # sw "In the perfect world, I could put Rose on the stand. She could tell a judge and jury about her experiences within the cult and I could bring them down."
-    sw "In the perfect world, I could put Rose on the stand. She could tell a judge and jury about her experiences within the cult and I could bring them down."
+    sw "在完美的世界里，我可以让萝丝出庭作证。她可以向法官和陪审团讲述她在邪教中的经历，然后我就能把他们打倒。"
 
 # game/code/e03/e03s02.rpy:294
 translate chinese e03s02_d38feb9e:
 
     # sw "But Rose has what some could call a checkered past. Putting her up on the witness stand would leave her open to cross-examination."
-    sw "But Rose has what some could call a checkered past. Putting her up on the witness stand would leave her open to cross-examination."
+    sw "但萝丝的过去可谓是不堪回首。让她出庭作证也意味着会让她受到交叉盘问。"
 
 # game/code/e03/e03s02.rpy:298
 translate chinese e03s02_c90a04da:
