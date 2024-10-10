@@ -446,407 +446,407 @@ translate chinese e03s02_d38feb9e:
 translate chinese e03s02_c90a04da:
 
     # mh "Any defense lawyer worth their salt would poke holes in her story. It's pretty basic stuff."
-    mh "Any defense lawyer worth their salt would poke holes in her story. It's pretty basic stuff."
+    mh "任何称职的辩护律师都会在她的证词中找出漏洞。这是非常基本的东西。"
 
 # game/code/e03/e03s02.rpy:301
 translate chinese e03s02_94481491:
 
     # sw "Exactly, and I don't want to put her in that situation unless I have no other choice."
-    sw "Exactly, and I don't want to put her in that situation unless I have no other choice."
+    sw "没错，我不想让她陷入那种境地，除非我别无选择。"
 
 # game/code/e03/e03s02.rpy:305
 translate chinese e03s02_fdea46ad:
 
     # rd "I'm sorry."
-    rd "I'm sorry."
+    rd "对不起。"
 
 # game/code/e03/e03s02.rpy:309
 translate chinese e03s02_ee9a28a0:
 
     # mh "Rose, this is not your fault. We all make mistakes, but that doesn't mean we don't deserve justice when someone hurts us."
-    mh "Rose, this is not your fault. We all make mistakes, but that doesn't mean we don't deserve justice when someone hurts us."
+    mh "萝丝，这不是你的错。我们都会犯错，但这并不意味着当有人伤害我们时，我们就不应该得到公正的对待。"
 
 # game/code/e03/e03s02.rpy:312
 translate chinese e03s02_3359e9ff:
 
     # mc "Damn straight."
-    mc "Damn straight."
+    mc "太对了。"
 
 # game/code/e03/e03s02.rpy:315
 translate chinese e03s02_406e0a6e:
 
     # sy "Mmhmm!"
-    sy "Mmhmm!"
+    sy "嗯！"
 
 # game/code/e03/e03s02.rpy:319
 translate chinese e03s02_55d17c65:
 
     # rd "Okay. So... so what does that mean?"
-    rd "Okay. So... so what does that mean?"
+    rd "好吧，那...那是什么意思？"
 
 # game/code/e03/e03s02.rpy:322
 translate chinese e03s02_37f92769:
 
     # mh "We're going to help you."
-    mh "We're going to help you."
+    mh "我们会帮你的。"
 
 # game/code/e03/e03s02.rpy:326
 translate chinese e03s02_d8fe1004:
 
     # sy "I don't understand. You work for the district attorney's office. Can't you just report in a tip to the police?"
-    sy "I don't understand. You work for the district attorney's office. Can't you just report in a tip to the police?"
+    sy "我不明白。你在地方检察官办公室工作。你就不能直接向警方举报吗？"
 
 # game/code/e03/e03s02.rpy:330
 translate chinese e03s02_4a9bcf60:
 
     # sw "I already tried that before, but the police have never been able to make something stick when they investigate."
-    sw "I already tried that before, but the police have never been able to make something stick when they investigate."
+    sw "我之前已经试过了，但是警方在调查的时候从来没有找到确凿的证据。"
 
 # game/code/e03/e03s02.rpy:331
 translate chinese e03s02_5c6b9f88:
 
     # sw "The cult seems especially capable at putting up a good front to cover their activities."
-    sw "The cult seems especially capable at putting up a good front to cover their activities."
+    sw "这个邪教似乎特别善于伪装来掩盖他们的活动。"
 
 # game/code/e03/e03s02.rpy:332
 translate chinese e03s02_36926c48:
 
     # sw "We don't have enough for a warrant to search inside the compound."
-    sw "We don't have enough for a warrant to search inside the compound."
+    sw "我们没有足够的证据来申请搜查令，没法搜查大楼内部。"
 
 # game/code/e03/e03s02.rpy:336
 translate chinese e03s02_c5188c41:
 
     # sw "It's been three months with no results. That's why I decided we are going to have to go a little... outside the law."
-    sw "It's been three months with no results. That's why I decided we are going to have to go a little... outside the law."
+    sw "已经三个月了，毫无结果。这就是为什么我决定我们得稍微...超越法律行事。"
 
 # game/code/e03/e03s02.rpy:340
 translate chinese e03s02_d7aec5ce:
 
     # mh "I always prefer to think we're bending the law in very specific times."
-    mh "I always prefer to think we're bending the law in very specific times."
+    mh "我总是倾向于认为我们是在特殊时期变通法律。"
 
 # game/code/e03/e03s02.rpy:343
 translate chinese e03s02_fd961af7:
 
     # mc "Haha. Call it what you like, sounds like an adventure to me."
-    mc "Haha. Call it what you like, sounds like an adventure to me."
+    mc "哈哈。随你怎么说，对我来说，这听起来就像一场冒险。
 
 # game/code/e03/e03s02.rpy:347
 translate chinese e03s02_d98dc015:
 
     # sy "Wait, you have to be joking. We can't just bring down a cult."
-    sy "Wait, you have to be joking. We can't just bring down a cult."
+    sy "等等，你们一定是在开玩笑。我们不能就这么试图打倒一个邪教组织。"
 
 # game/code/e03/e03s02.rpy:351
 translate chinese e03s02_fc683fac:
 
     # mc "Why not? We already brought down a secret sex app that was messing up people's lives."
-    mc "Why not? We already brought down a secret sex app that was messing up people's lives."
+    mc "为什么不能？我们已经搞垮了一个秘密约炮软件，它把人们的生活搞得一团糟。"
 
 # game/code/e03/e03s02.rpy:352
 translate chinese e03s02_3670c4ba:
 
     # mc "This can't be much harder."
-    mc "This can't be much harder."
+    mc "这个不会更难。"
 
 # game/code/e03/e03s02.rpy:356
 translate chinese e03s02_24e5a94b:
 
     # sy "You're crazy."
-    sy "You're crazy."
+    sy "你疯了。"
 
 # game/code/e03/e03s02.rpy:360
 translate chinese e03s02_ca3063fc:
 
     # mh "I thought the same at first. But then I thought of the other people who might still be locked up by the cult."
-    mh "I thought the same at first. But then I thought of the other people who might still be locked up by the cult."
+    mh "我一开始也这么想。但我又想到了其他可能还被邪教关着的人。"
 
 # game/code/e03/e03s02.rpy:361
 translate chinese e03s02_4f7f58f3:
 
     # mh "They're in trouble, and I couldn't look myself in the mirror if I didn't try to help."
-    mh "They're in trouble, and I couldn't look myself in the mirror if I didn't try to help."
+    mh "他们遇到了麻烦，如果我不尽力帮助他们，我就无法直面镜子里的自己。"
 
 # game/code/e03/e03s02.rpy:365
 translate chinese e03s02_051e3a1e:
 
     # sy "What is going on today? Lyssa, this is a cult, it could be dangerous."
-    sy "What is going on today? Lyssa, this is a cult, it could be dangerous."
+    sy "今天是怎么回事？丽莎，这是个邪教，可能很危险。"
 
 # game/code/e03/e03s02.rpy:368
 translate chinese e03s02_3e9b971d:
 
     # mh "Which is why, I thought instead of going it alone, I would ask the two of you to help me. It's like they always say."
-    mh "Which is why, I thought instead of going it alone, I would ask the two of you to help me. It's like they always say."
+    mh "这就是为什么，我想与其单打独斗，不如请你们两个来帮我。就像人们常说的。"
 
 # game/code/e03/e03s02.rpy:369
 translate chinese e03s02_88fdc42c:
 
     # mh "There is strength in numbers."
-    mh "There is strength in numbers."
+    mh "人多力量大。"
 
 # game/code/e03/e03s02.rpy:373
 translate chinese e03s02_a02527da:
 
     # mc "Yeah, we can be like the three amigos, protecting the villagers and taking down the corrupt landowners."
-    mc "Yeah, we can be like the three amigos, protecting the villagers and taking down the corrupt landowners."
+    mc "是啊，我们可以组成一个三角同盟，保护村民，打倒腐败的地主。"
 
 # game/code/e03/e03s02.rpy:374
 translate chinese e03s02_1ef99a76:
 
     # mc "Or in this case, some alien worshipping freaks."
-    mc "Or in this case, some alien worshipping freaks."
+    mc "或者在这种情况下，打倒那些崇拜外星人的怪胎。"
 
 # game/code/e03/e03s02.rpy:378
 translate chinese e03s02_6ec24262:
 
     # sy "Alright."
-    sy "Alright."
+    sy "好吧。"
 
 # game/code/e03/e03s02.rpy:382
 translate chinese e03s02_8ed6361e:
 
     # sy "But wait, how are we supposed to join the cult?"
-    sy "But wait, how are we supposed to join the cult?"
+    sy "等等，我们要怎么加入邪教？"
 
 # game/code/e03/e03s02.rpy:385
 translate chinese e03s02_3b6c75ff:
 
     # sy "It's not like any of us are actors or used to infiltrating groups of bad guys."
-    sy "It's not like any of us are actors or used to infiltrating groups of bad guys."
+    sy "我们又不是演员，也没有潜入坏人组织的经验。"
 
 # game/code/e03/e03s02.rpy:389
 translate chinese e03s02_88555dde:
 
     # mh "Stephanie can explain."
-    mh "Stephanie can explain."
+    mh "斯蒂芬妮可以解释。"
 
 # game/code/e03/e03s02.rpy:393
 translate chinese e03s02_d8271a63:
 
     # sw "So during the investigation, the police and private have kept coming up against brick-walls."
-    sw "So during the investigation, the police and private have kept coming up against brick-walls."
+    sw "所以在调查过程中，警方和我们的私人探员不断碰壁。"
 
 # game/code/e03/e03s02.rpy:394
 translate chinese e03s02_1e315682:
 
     # sw "Every time the cops come, the cults make sure nothing sordid is happening and the cops can't stick around."
-    sw "Every time the cops come, the cults make sure nothing sordid is happening and the cops can't stick around."
+    sw "每次警察来，邪教组织都会确保没有肮脏的事情发生，警察也就无法在附近逗留。"
 
 # game/code/e03/e03s02.rpy:395
 translate chinese e03s02_99e13afb:
 
     # sw "And none of the private eyes have managed to infiltrate the cult."
-    sw "And none of the private eyes have managed to infiltrate the cult."
+    sw "没有一个私家侦探能打入邪教内部。"
 
 # game/code/e03/e03s02.rpy:399
 translate chinese e03s02_d0d86ce7:
 
     # sw "But according to Rose, the cult has recently been interested in trans individuals."
-    sw "But according to Rose, the cult has recently been interested in trans individuals."
+    sw "但据萝丝说，邪教最近对变性人很感兴趣。"
 
 # game/code/e03/e03s02.rpy:400
 translate chinese e03s02_af1788a3:
 
     # sw "And naturally, with Lyssa's legal expertise, she'll be able to locate evidence of criminal wrong-doings."
-    sw "And naturally, with Lyssa's legal expertise, she'll be able to locate evidence of criminal wrong-doings."
+    sw "当然，凭借丽莎的法律专业知识，她一定能找到犯罪证据。"
 
 # game/code/e03/e03s02.rpy:404
 translate chinese e03s02_dc166a95:
 
     # mc "So if we get in, and we find evidence of what the cult is up to."
-    mc "So if we get in, and we find evidence of what the cult is up to."
+    mc "所以如果我们进去了，找到了邪教的证据。"
 
 # game/code/e03/e03s02.rpy:407
 translate chinese e03s02_a0a6a4c5:
 
     # sy "I'll figure out some devices to help us gather evidence. We'll catch those bastards red-handed."
-    sy "I'll figure out some devices to help us gather evidence. We'll catch those bastards red-handed."
+    sy "我会想办法搞一些设备来帮助我们收集证据。我们会当场抓住那些混蛋。"
 
 # game/code/e03/e03s02.rpy:411
 translate chinese e03s02_df544aa2:
 
     # mh "So... you two are sure about helping me on this?"
-    mh "So... you two are sure about helping me on this?"
+    mh "这么说...你们俩确定要帮我？"
 
 # game/code/e03/e03s02.rpy:415
 translate chinese e03s02_d7eb40b9:
 
     # sy "Mmmm. We're not letting you do this alone."
-    sy "Mmmm. We're not letting you do this alone."
+    sy "嗯。我们不会让你单独行动的。"
 
 # game/code/e03/e03s02.rpy:418
 translate chinese e03s02_00c5a493:
 
     # mc "Exactly!"
-    mc "Exactly!"
+    mc "没错！"
 
 # game/code/e03/e03s02.rpy:421
 translate chinese e03s02_fe62e788:
 
     # mh "Thanks, you two."
-    mh "Thanks, you two."
+    mh "谢谢你们俩。"
 
 # game/code/e03/e03s02.rpy:426
 translate chinese e03s02_359744ab:
 
     # mh "We're going to do this, Rose. For you and anyone else the cult has wronged."
-    mh "We're going to do this, Rose. For you and anyone else the cult has wronged."
+    mh "我们一定会成功的，萝丝。为了你和其他被邪教所伤害的人。"
 
 # game/code/e03/e03s02.rpy:430
 translate chinese e03s02_7066b6ff:
 
     # rd "Thank you, Lyssa."
-    rd "Thank you, Lyssa."
+    rd "谢谢你，丽莎。"
 
 # game/code/e03/e03s02.rpy:434
 translate chinese e03s02_ff76e382:
 
     # mh "You're welcome. And we'll need your help too."
-    mh "You're welcome. And we'll need your help too."
+    mh "不客气。我们也需要你的帮助。"
 
 # game/code/e03/e03s02.rpy:437
 translate chinese e03s02_46623084:
 
     # rd "I'll... I'll try my best."
-    rd "I'll... I'll try my best."
+    rd "我...我会尽力而为。"
 
 # game/code/e03/e03s02.rpy:440
 translate chinese e03s02_415b2565:
 
     # mh "Good. It's going to be easy."
-    mh "Good. It's going to be easy."
+    mh "很好。事情并不难。"
 
 # game/code/e03/e03s02.rpy:441
 translate chinese e03s02_94f00b05:
 
     # mh "We just need to know how to find one of the cult's recruiters..."
-    mh "We just need to know how to find one of the cult's recruiters..."
+    mh "我们只需要知道如何找到一个邪教的招募者..."
 
 # game/code/e03/e03s02.rpy:457
 translate chinese e03s02_21079fd8:
 
     # mc "I don't like this."
-    mc "I don't like this."
+    mc "我不喜欢这样。"
 
 # game/code/e03/e03s02.rpy:460
 translate chinese e03s02_39685004:
 
     # sy "Mmmm."
-    sy "Mmmm."
+    sy "唔。"
 
 # game/code/e03/e03s02.rpy:464
 translate chinese e03s02_6344eab6:
 
     # mc "I said 'I don't like this'."
-    mc "I said 'I don't like this'."
+    mc "我说‘我不喜欢这样’。"
 
 # game/code/e03/e03s02.rpy:467
 translate chinese e03s02_74c5dd65:
 
     # sy "Well, I didn't like it at the start either. But Lyssa is right, those people need our help."
-    sy "Well, I didn't like it at the start either. But Lyssa is right, those people need our help."
+    sy "嗯，一开始我也不喜欢。但丽莎说得对，那些人需要我们的帮助。"
 
 # game/code/e03/e03s02.rpy:471
 translate chinese e03s02_2fcc7ac5:
 
     # mc "Sure..."
-    mc "Sure..."
+    mc "当然..."
 
 # game/code/e03/e03s02.rpy:472
 translate chinese e03s02_4b15c8b8:
 
     # mct "That sentiment was a lot easier when Lyssa wasn't talking to some cultist weirdo."
-    mct "That sentiment was a lot easier when Lyssa wasn't talking to some cultist weirdo."
+    mct "如果丽莎不是在跟一个邪教怪胎说话，这种感觉就轻松多了。"
 
 # game/code/e03/e03s02.rpy:481
 translate chinese e03s02_9c79cf45:
 
     # mh "Phew."
-    mh "Phew."
+    mh "呼。"
 
 # game/code/e03/e03s02.rpy:485
 translate chinese e03s02_322fb95e:
 
     # mc "Thank god, she's coming over."
-    mc "Thank god, she's coming over."
+    mc "谢天谢地，她过来了。"
 
 # game/code/e03/e03s02.rpy:489
 translate chinese e03s02_94de3cc7:
 
     # mh "Blegh. I want a shower just thinking about how long I had to sit there making nice with them."
-    mh "Blegh. I want a shower just thinking about how long I had to sit there making nice with them."
+    mh "唉。一想到我得坐在那儿跟他们套近乎好久，我就想冲个澡。"
 
 # game/code/e03/e03s02.rpy:492
 translate chinese e03s02_f28b3ab9:
 
     # mc "Are you alright?"
-    mc "Are you alright?"
+    mc "你还好吗？"
 
 # game/code/e03/e03s02.rpy:496
 translate chinese e03s02_0928ef5a:
 
     # mh "Yes. But I'll feel a lot better once we get in there and start taking down this cult from the inside."
-    mh "Yes. But I'll feel a lot better once we get in there and start taking down this cult from the inside."
+    mh "没事。不过等我们进去，从内部摧毁这个邪教组织时，我就会感觉好多了。"
 
 # game/code/e03/e03s02.rpy:497
 translate chinese e03s02_926c074c:
 
     # mh "For now, I've got us our ticket in."
-    mh "For now, I've got us our ticket in."
+    mh "现在，我已经拿到了进去的门票。"
 
 # game/code/e03/e03s02.rpy:501
 translate chinese e03s02_53250ec5:
 
     # mc "Great. The sooner we're done with this, the sooner our life can return to normal."
-    mc "Great. The sooner we're done with this, the sooner our life can return to normal."
+    mc "好极了。我们越早结束这件事，我们的生活就能越早恢复正常。"
 
 # game/code/e03/e03s02.rpy:507
 translate chinese e03s02_ac3b5b40:
 
     # mh "Mmmhmm."
-    mh "Mmmhmm."
+    mh "嗯嗯嗯嗯。"
 
 # game/code/e03/e03s02.rpy:513
 translate chinese e03s02_2e749507:
 
     # mh "Come on now, [mcname]. I've gotten plenty of normal."
-    mh "Come on now, [mcname]. I've gotten plenty of normal."
+    mh "来吧，[mcname]。我已经过了够多的正常生活了。"
 
 # game/code/e03/e03s02.rpy:514
 translate chinese e03s02_284c4879:
 
     # mh "Plus, I didn't really get to help you take down Fetish Locator."
-    mh "Plus, I didn't really get to help you take down Fetish Locator."
+    mh "而且，我也没能帮你扳倒性趣探测器。"
 
 # game/code/e03/e03s02.rpy:518
 translate chinese e03s02_a05a6a04:
 
     # mh "But, if you want me to tell Stephanie we're out, I will."
-    mh "But, if you want me to tell Stephanie we're out, I will."
+    mh "但是，如果你想让我告诉斯蒂芬妮我们不干了，我会照做的。"
 
 # game/code/e03/e03s02.rpy:523
 translate chinese e03s02_2c3c3af8:
 
     # mc "Nah, you two are right. We have the chance to help."
-    mc "Nah, you two are right. We have the chance to help."
+    mc "不，你们两个说得对。我们现在有机会提供帮助。"
 
 # game/code/e03/e03s02.rpy:524
 translate chinese e03s02_c701bb82:
 
     # mc "We should take it."
-    mc "We should take it."
+    mc "那就应该抓住机会。"
 
 # game/code/e03/e03s02.rpy:528
 translate chinese e03s02_2ea47cee:
 
     # mh "Good. Then let's get out of here."
-    mh "Good. Then let's get out of here."
+    mh "很好。那我们走吧。"
 
 # game/code/e03/e03s02.rpy:529
 translate chinese e03s02_39abdb31:
 
     # mh "Tomorrow morning, we're putting the plan into action."
-    mh "Tomorrow morning, we're putting the plan into action."
+    mh "明天一早，我们就把计划付诸行动。"
 
