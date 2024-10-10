@@ -2,43 +2,43 @@
 translate chinese e03s03_3ccfda0a:
 
     # mh "Are you both ready for this?"
-    mh "Are you both ready for this?"
+    mh "你们准备好了吗？"
 
 # game/code/e03/e03s03.rpy:16
 translate chinese e03s03_40e34f92:
 
     # sy "Maybe? I've never tried to infiltrate a cult before."
-    sy "Maybe? I've never tried to infiltrate a cult before."
+    sy "也许吧？我以前从没试过潜入邪教组织。"
 
 # game/code/e03/e03s03.rpy:19
 translate chinese e03s03_9e8ee335:
 
     # mc "I mean... it can't be that tough, right?"
-    mc "I mean... it can't be that tough, right?"
+    mc "我想说...应该不会那么难吧？"
 
 # game/code/e03/e03s03.rpy:23
 translate chinese e03s03_c6e107ec:
 
     # mh "Just, keep your guards up, okay? This might take some... unexpected turns."
-    mh "Just, keep your guards up, okay? This might take some... unexpected turns."
+    mh "保持警惕，好吗？现实可能会有一些...意想不到的转折。"
 
 # game/code/e03/e03s03.rpy:26
 translate chinese e03s03_dbeba703:
 
     # sy "Don't you worry, Lyssa. We got this! You're super smart, and with that camera we'll be home before dinner!"
-    sy "Don't you worry, Lyssa. We got this! You're super smart, and with that camera we'll be home before dinner!"
+    sy "别担心，丽莎。我们能搞定！你超级聪明，有了那台相机，我们晚饭前就能回家了！"
 
 # game/code/e03/e03s03.rpy:29
 translate chinese e03s03_356d5220:
 
     # mh "I hope so... {w} Speaking of, how does the camera look?"
-    mh "I hope so... {w} Speaking of, how does the camera look?"
+    mh "希望如此...{w}说到这个，相机看起来怎么样？"
 
 # game/code/e03/e03s03.rpy:33
 translate chinese e03s03_f81c0707:
 
     # sy "Wow... You can't even tell it's there!"
-    sy "Wow... You can't even tell it's there!"
+    sy "哇...你甚至看不出那儿有相机！"
 
 # game/code/e03/e03s03.rpy:35
 translate chinese e03s03_2b35b6fe:
@@ -56,427 +56,427 @@ translate chinese e03s03_c122e1f8:
 translate chinese e03s03_c187d80d:
 
     # mc "Uhm, yeah?"
-    mc "Uhm, yeah?"
+    mc "嗯，你叫我？"
 
 # game/code/e03/e03s03.rpy:43
 translate chinese e03s03_d1bb3db4:
 
     # sy "You're just staring at Lyssa's tits, aren't you."
-    sy "You're just staring at Lyssa's tits, aren't you."
+    sy "你刚才在盯着丽莎的奶子看，是不是？"
 
 # game/code/e03/e03s03.rpy:47
 translate chinese e03s03_02bae7aa:
 
     # mc "And you're not!?"
-    mc "And you're not!?"
+    mc "你没有吗!?"
 
 # game/code/e03/e03s03.rpy:50
 translate chinese e03s03_2f588168:
 
     # sy "I can multitask!"
-    sy "I can multitask!"
+    sy "我可以一心多用！"
 
 # game/code/e03/e03s03.rpy:53
 translate chinese e03s03_697c5e42:
 
     # mh "You two are hopeless, you know that? Now, come on. We should get going."
-    mh "You two are hopeless, you know that? Now, come on. We should get going."
+    mh "你们俩真是没救了，知道吗？现在，来吧。我们该走了。"
 
 # game/code/e03/e03s03.rpy:55
 translate chinese e03s03_a968d8d4:
 
     # mh "I've arranged for a driver to drop us off. The compound is way out of town, and I don't much feel like leaving my car out there for them."
-    mh "I've arranged for a driver to drop us off. The compound is way out of town, and I don't much feel like leaving my car out there for them."
+    mh "我已经安排好司机送我们了。营地在城外很远的地方，我不太想把我的车留在那里。"
 
 # game/code/e03/e03s03.rpy:58
 translate chinese e03s03_b75784fa:
 
     # sy "Probably a good call."
-    sy "Probably a good call."
+    sy "也许是个好主意。"
 
 # game/code/e03/e03s03.rpy:61
 translate chinese e03s03_cf321adc:
 
     # mc "All right, well let's get this show on the road! I've always wanted to take down a cult."
-    mc "All right, well let's get this show on the road! I've always wanted to take down a cult."
+    mc "好吧，让我们开始行动吧！我一直想搞垮一个邪教组织。"
 
 # game/code/e03/e03s03.rpy:64
 translate chinese e03s03_f2348ec6:
 
     # mh "I'm glad that we can fulfill your... dreams, [mcname]."
-    mh "I'm glad that we can fulfill your... dreams, [mcname]."
+    mh "我很高兴我们能实现你的...梦想，[mcname]。"
 
 # game/code/e03/e03s03.rpy:69
 translate chinese e03s03_3b3f284c:
 
     # sy "I just want to be clear - he's the weirdo in the family. Most of my dreams at least make sense. Like, wanting you to fuck my ass, while [mcname]-"
-    sy "I just want to be clear - he's the weirdo in the family. Most of my dreams at least make sense. Like, wanting you to fuck my ass, while [mcname]-"
+    sy "我只想说清楚--他是家里的怪人。我的大多数梦想至少是有意义的。比如，想让你操我的屁股，而[mcname]--"
 
 # game/code/e03/e03s03.rpy:71
 translate chinese e03s03_0c7743aa:
 
     # sy "I just want to be clear - he's a weirdo. Most of my dreams at least make sense. Like, wanting you to fuck my ass, while [mcname]-"
-    sy "I just want to be clear - he's a weirdo. Most of my dreams at least make sense. Like, wanting you to fuck my ass, while [mcname]-"
+    sy "我只想说清楚--他是个怪人。我的大多数梦想至少是有意义的。比如，想让你操我的屁股，而[mcname]--"
 
 # game/code/e03/e03s03.rpy:74
 translate chinese e03s03_2d09f60b:
 
     # mh "Why don't we save that for after we dismantle this cult."
-    mh "Why don't we save that for after we dismantle this cult."
+    mh "我们为什么不把这个话题留到我们摧毁这个邪教之后呢？"
 
 # game/code/e03/e03s03.rpy:77
 translate chinese e03s03_a278a953:
 
     # sy "Okay! Then let's go tear down a cult!"
-    sy "Okay! Then let's go tear down a cult!"
+    sy "好吧！那我们就去摧毁邪教！"
 
 # game/code/e03/e03s03.rpy:81
 translate chinese e03s03_0eb1233b:
 
     # mh "Oh boy, she's really excited to infiltrate a cult we know nothing about."
-    mh "Oh boy, she's really excited to infiltrate a cult we know nothing about."
+    mh "天哪，她是真的很兴奋，尽管我们要潜入的是一个我们一无所知的邪教。"
 
 # game/code/e03/e03s03.rpy:84
 translate chinese e03s03_3a395c37:
 
     # mc "You promised her that you'd fulfill one of her sexual fantasies if we bring down the cult."
-    mc "You promised her that you'd fulfill one of her sexual fantasies if we bring down the cult."
+    mc "你答应过她，如果我们摧毁邪教，你会满足她的一个性幻想。"
 
 # game/code/e03/e03s03.rpy:87
 translate chinese e03s03_e8d21f63:
 
     # mh "You're right... Let's just hope I can deliver on whatever she's dreamt up."
-    mh "You're right... Let's just hope I can deliver on whatever she's dreamt up."
+    mh "你说得对...但愿我能实现她的梦想。"
 
 # game/code/e03/e03s03.rpy:89
 translate chinese e03s03_74fc6761:
 
     # mc "Me too."
-    mc "Me too."
+    mc "我也是。"
 
 # game/code/e03/e03s03.rpy:90
 translate chinese e03s03_7a6ca8b5:
 
     # mh "Now come on, they're expecting us. Hate to be late on our first day."
-    mh "Now come on, they're expecting us. Hate to be late on our first day."
+    mh "快点，他们在等我们呢。真不想第一天就迟到。"
 
 # game/code/e03/e03s03.rpy:102
 translate chinese e03s03_54e4bd25:
 
     # "Cult Member" "The High Priestess will be with you shortly."
-    "Cult Member" "The High Priestess will be with you shortly."
+    "邪教成员" "大祭司马上就来。"
 
 # game/code/e03/e03s03.rpy:106
 translate chinese e03s03_45fec6a4:
 
     # sy "Wow. They got some nice digs here."
-    sy "Wow. They got some nice digs here."
+    sy "哇哦，他们在这里住得真不错。"
 
 # game/code/e03/e03s03.rpy:109
 translate chinese e03s03_f55a1448:
 
     # mc "You're telling me, this is definitely not what I expected for a cult."
-    mc "You're telling me, this is definitely not what I expected for a cult."
+    mc "你说得对，这绝对不是我想象中邪教的样子。"
 
 # game/code/e03/e03s03.rpy:111
 translate chinese e03s03_f9cf443e:
 
     # mh "Looks can be deceiving."
-    mh "Looks can be deceiving."
+    mh "外表是会骗人的。"
 
 # game/code/e03/e03s03.rpy:114
 translate chinese e03s03_79873573:
 
     # mc "Ain't that the truth..."
-    mc "Ain't that the truth..."
+    mc "可不是嘛..."
 
 # game/code/e03/e03s03.rpy:116
 translate chinese e03s03_254b3aeb:
 
     # "*DOOR OPENING NOISE*"
-    "*DOOR OPENING NOISE*"
+    "*开门声*"
 
 # game/code/e03/e03s03.rpy:121
 translate chinese e03s03_deb03b3f:
 
     # hp "Good morning, fellow travelers."
-    hp "Good morning, fellow travelers."
+    hp "早上好，同行者们。"
 
 # game/code/e03/e03s03.rpy:124
 translate chinese e03s03_28173db9:
 
     # sy "Uhm, morning!"
-    sy "Uhm, morning!"
+    sy "呃，早上好！"
 
 # game/code/e03/e03s03.rpy:127
 translate chinese e03s03_ee1a4f68:
 
     # mh "Good morning, High Priestess."
-    mh "Good morning, High Priestess."
+    mh "早上好，大祭司。"
 
 # game/code/e03/e03s03.rpy:130
 translate chinese e03s03_f5da7559:
 
     # hp "What brings you three to my humble abode?"
-    hp "What brings you three to my humble abode?"
+    hp "你们三个为什么来到我这简陋的住所？"
 
 # game/code/e03/e03s03.rpy:133
 translate chinese e03s03_6efa2b4b:
 
     # mct "Man, this lady talks kind of funny."
-    mct "Man, this lady talks kind of funny."
+    mct "天，这位女士说话真有点滑稽。"
 
 # game/code/e03/e03s03.rpy:137
 translate chinese e03s03_0e320511:
 
     # mh "We find ourselves... adrift in this storm of life. And we hope to seek shelter in the embrace of your... beliefs."
-    mh "We find ourselves... adrift in this storm of life. And we hope to seek shelter in the embrace of your... beliefs."
+    mh "我们发现自己...在生活的风暴中漂泊。我们希望在您的...信仰的怀抱中寻求庇护。"
 
 # game/code/e03/e03s03.rpy:140
 translate chinese e03s03_88d0903e:
 
     # sy "Yeah, uh, what she said!"
-    sy "Yeah, uh, what she said!"
+    sy "呃，是，她说的没错！"
 
 # game/code/e03/e03s03.rpy:144
 translate chinese e03s03_56516eb7:
 
     # hp "Ahhh, more wayward souls... What about you, sir? Why are you here?"
-    hp "Ahhh, more wayward souls... What about you, sir? Why are you here?"
+    hp "啊哈，更多迷途的灵魂...你呢，先生？你为什么在这里？"
 
 # game/code/e03/e03s03.rpy:147
 translate chinese e03s03_fec5c6d5:
 
     # mc "Uhm, because I'm a, what'd you call it, wayward soul? And I need guidance."
-    mc "Uhm, because I'm a, what'd you call it, wayward soul? And I need guidance."
+    mc "呃，因为我是一个，您怎么说来着，迷途的灵魂？我需要指引。"
 
 # game/code/e03/e03s03.rpy:150
 translate chinese e03s03_3eedbc7f:
 
     # hp "And what guidance do you seek here?"
-    hp "And what guidance do you seek here?"
+    hp "你来这里寻求什么指引呢？"
 
 # game/code/e03/e03s03.rpy:152
 translate chinese e03s03_a8d5e985:
 
     # mc "Errmmmm..."
-    mc "Errmmmm..."
+    mc "呃呃呃..."
 
 # game/code/e03/e03s03.rpy:156
 translate chinese e03s03_b7a31753:
 
     # mh "We seek guidance not of this world. Something that will let us rise above, become whole. Become... healed."
-    mh "We seek guidance not of this world. Something that will let us rise above, become whole. Become... healed."
+    mh "我们寻求的指引不属于这个世界。它能让我们升华，变得完整。变得...痊愈。"
 
 # game/code/e03/e03s03.rpy:159
 translate chinese e03s03_7239a7e7:
 
     # hp "Then-"
-    hp "Then-"
+    hp "那么--"
 
 # game/code/e03/e03s03.rpy:163
 translate chinese e03s03_c610451e:
 
     # hp "Wait... You..."
-    hp "Wait... You..."
+    hp "等等...你..."
 
 # game/code/e03/e03s03.rpy:166
 translate chinese e03s03_50439325:
 
     # hp "Ahem. Those who seek wisdom are welcome."
-    hp "Ahem. Those who seek wisdom are welcome."
+    hp "咳咳。我们欢迎那些寻求智慧的人。"
 
 # game/code/e03/e03s03.rpy:168
 translate chinese e03s03_2b680cdb:
 
     # hp "First, you must shed yourselves of this materialistic world."
-    hp "First, you must shed yourselves of this materialistic world."
+    hp "首先，你们必须摆脱这个物欲横流的世界。"
 
 # game/code/e03/e03s03.rpy:171
 translate chinese e03s03_a9e7fb28:
 
     # sy "Like, give you my phone?"
-    sy "Like, give you my phone?"
+    sy "比如，把我的手机给你？"
 
 # game/code/e03/e03s03.rpy:174
 translate chinese e03s03_771de3d1:
 
     # hp "Your phone, clothes, everything. You must become detached from all that which tethers you to this plane, and blocks you from the next."
-    hp "Your phone, clothes, everything. You must become detached from all that which tethers you to this plane, and blocks you from the next."
+    hp "你的手机、衣服、一切。你们必须从所有束缚你们的东西中脱离出来，它们将你们束缚在这个世界上，阻碍你们进入下一个世界。"
 
 # game/code/e03/e03s03.rpy:177
 translate chinese e03s03_bdad02ad:
 
     # sy "Oh..."
-    sy "Oh..."
+    sy "哦..."
 
 # game/code/e03/e03s03.rpy:180
 translate chinese e03s03_58da6fff:
 
     # mct "Huh, that's a little kinky."
-    mct "Huh, that's a little kinky."
+    mct "嗯，这有点古怪。"
 
 # game/code/e03/e03s03.rpy:183
 translate chinese e03s03_37286174:
 
     # sy "I guess, we'll just... you know. Strip."
-    sy "I guess, we'll just... you know. Strip."
+    sy "我想，我们就...你知道的。脱衣服。"
 
 # game/code/e03/e03s03.rpy:188
 translate chinese e03s03_4369c504:
 
     # hp "And we want you to leave {i}all{/i} of your worldly attachments behind."
-    hp "And we want you to leave {i}all{/i} of your worldly attachments behind."
+    hp "我们希望你们抛开{i}所有{/i}世俗的羁绊。"
 
 # game/code/e03/e03s03.rpy:191
 translate chinese e03s03_50318932:
 
     # mc "Shit, all of it?"
-    mc "Shit, all of it?"
+    mc "妈的，全部？"
 
 # game/code/e03/e03s03.rpy:194
 translate chinese e03s03_738c1389:
 
     # sy "Including our underwear?"
-    sy "Including our underwear?"
+    sy "包括我们的内衣？"
 
 # game/code/e03/e03s03.rpy:197
 translate chinese e03s03_1660e828:
 
     # hp "Yes, including your underwear. You need to become naked; to this world, to us your commune, and to the spirit of everything."
-    hp "Yes, including your underwear. You need to become naked; to this world, to us your commune, and to the spirit of everything."
+    hp "是的，包括你们的内衣。你们需要赤身裸体；对这个世界，对这个你们要归属的社区，对万物之灵。"
 
 # game/code/e03/e03s03.rpy:200
 translate chinese e03s03_e0eeb5dc:
 
     # sy "Well, that's kind of hot, lady... Whatever you want."
-    sy "Well, that's kind of hot, lady... Whatever you want."
+    sy "嗯，这还挺性感的，女士...就听您的。"
 
 # game/code/e03/e03s03.rpy:207
 translate chinese e03s03_87bd4d8d:
 
     # hp "Oh my Goddess... I..."
-    hp "Oh my Goddess... I..."
+    hp "哦，我的女神...我..."
 
 # game/code/e03/e03s03.rpy:210
 translate chinese e03s03_899f6cfc:
 
     # hp "I, uhm, ahem. Now, one of your fellow members will come and collect your things, and give you your new coverings."
-    hp "I, uhm, ahem. Now, one of your fellow members will come and collect your things, and give you your new coverings."
+    hp "我，呃，咳咳。现在，你们的一位同伴会来取你们的东西，并给你们带来新的衣物。"
 
 # game/code/e03/e03s03.rpy:214
 translate chinese e03s03_5e5c6848:
 
     # hp "I need to, uhm... consult our literature. Your new friend will show you what you are going to be doing as a part of your first circle of learning."
-    hp "I need to, uhm... consult our literature. Your new friend will show you what you are going to be doing as a part of your first circle of learning."
+    hp "我需要，呃...查阅我们的资料。你们的新朋友会告诉你们，作为第一轮学习的一部分，你们要做什么。"
 
 # game/code/e03/e03s03.rpy:219
 translate chinese e03s03_715a28e7:
 
     # "Cult Member" "I will collect your things for the cleansing, and you will don the garb of the student."
-    "Cult Member" "I will collect your things for the cleansing, and you will don the garb of the student."
+    "邪教成员" "我会帮你们收拾好净化用的东西。你们要穿上学生的服装。"
 
 # game/code/e03/e03s03.rpy:222
 translate chinese e03s03_7db7c678:
 
     # mc "Wait, what's the garb of the student?"
-    mc "Wait, what's the garb of the student?"
+    mc "等等，什么是学生装？"
 
 # game/code/e03/e03s03.rpy:225
 translate chinese e03s03_e96a8a32:
 
     # sy "And what the hell is the cleansing?"
-    sy "And what the hell is the cleansing?"
+    sy "净化又是什么鬼东西？"
 
 # game/code/e03/e03s03.rpy:228
 translate chinese e03s03_00285952:
 
     # "Cult Member" "What I wear is the garb of the student. And the cleansing, well, the cleansing is the release of the material back to the material, through the most primal act we can muster."
-    "Cult Member" "What I wear is the garb of the student. And the cleansing, well, the cleansing is the release of the material back to the material, through the most primal act we can muster."
+    "邪教成员" "我穿的就是学生装。至于净化，嗯，净化就是通过我们所能采取的最原始的行动，将物质释放回物质。"
 
 # game/code/e03/e03s03.rpy:231
 translate chinese e03s03_14941c57:
 
     # mh "Primal... like fire? Are you going to burn our things."
-    mh "Primal... like fire? Are you going to burn our things."
+    mh "最原始的...比如火？你要烧掉我们的东西？"
 
 # game/code/e03/e03s03.rpy:234
 translate chinese e03s03_2271ac19:
 
     # "Cult Member" "Yes."
-    "Cult Member" "Yes."
+    "邪教成员" "是的。"
 
 # game/code/e03/e03s03.rpy:237
 translate chinese e03s03_3949dee1:
 
     # sy "But I really like this outfit!"
-    sy "But I really like this outfit!"
+    sy "但我真的很喜欢这套衣服！"
 
 # game/code/e03/e03s03.rpy:238
 translate chinese e03s03_5f24d370:
 
     # sy "And I worked hard getting us these outfits!"
-    sy "And I worked hard getting us these outfits!"
+    sy "而且我辛辛苦苦才给我们弄来这些衣服的！"
 
 # game/code/e03/e03s03.rpy:241
 translate chinese e03s03_9de07441:
 
     # mc "Stacy!"
-    mc "Stacy!"
+    mc "史黛西！"
 
 # game/code/e03/e03s03.rpy:247
 translate chinese e03s03_62174101:
 
     # sy "But, uhm, like you said. Attachments and whatever. Ugh."
-    sy "But, uhm, like you said. Attachments and whatever. Ugh."
+    sy "但是，嗯，就像你说的。这些都是世俗束缚什么的。唉。"
 
 # game/code/e03/e03s03.rpy:250
 translate chinese e03s03_ab6ce9d8:
 
     # "Cult Member" "You will see the garb on your way out. Please, put it on while I collect your things."
-    "Cult Member" "You will see the garb on your way out. Please, put it on while I collect your things."
+    "邪教成员" "你们出去的时候会看到学生装。请穿上它，我帮你们收拾东西。"
 
 # game/code/e03/e03s03.rpy:254
 translate chinese e03s03_d6dfd04e:
 
     # mc "*whispers* Lyssa, I hope this is a {i}really{/i} good friend of yours."
-    mc "*whispers* Lyssa, I hope this is a {i}really{/i} good friend of yours."
+    mc "*低声说* 丽莎，我希望这是你{i}真正{/i}的好朋友。"
 
 # game/code/e03/e03s03.rpy:257
 translate chinese e03s03_bef7405c:
 
     # mh "*whispers* Taking this cult will be worth it [mcname], I promise."
-    mh "*whispers* Taking this cult will be worth it [mcname], I promise."
+    mh "*低声说* [mcname]，拿下这个邪教是值得的，我保证。"
 
 # game/code/e03/e03s03.rpy:264
 translate chinese e03s03_6620a082:
 
     # sy "This thing is so fucking itchy."
-    sy "This thing is so fucking itchy."
+    sy "这东西真他妈痒。"
 
 # game/code/e03/e03s03.rpy:267
 translate chinese e03s03_b6ba9e7c:
 
     # mc "I know. Scratchy as hell."
-    mc "I know. Scratchy as hell."
+    mc "我知道。痒得要命。"
 
 # game/code/e03/e03s03.rpy:270
 translate chinese e03s03_f4d7102a:
 
     # mh "I want to thank you both for doing this, it means a lot."
-    mh "I want to thank you both for doing this, it means a lot."
+    mh "我想谢谢你们俩这么做。这对我意义重大。"
 
 # game/code/e03/e03s03.rpy:273
 translate chinese e03s03_307b9cb1:
 
     # mc "I hope you've got a plan."
-    mc "I hope you've got a plan."
+    mc "我希望你有个计划。"
 
 # game/code/e03/e03s03.rpy:276
 translate chinese e03s03_463fb6e9:
 
     # mh "I'm working on it, but I promise-"
-    mh "I'm working on it, but I promise-"
+    mh "我正在想办法，但我保证--"
 
 # game/code/e03/e03s03.rpy:285
 translate chinese e03s03_ddb56106:
