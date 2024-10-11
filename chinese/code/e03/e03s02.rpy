@@ -530,7 +530,7 @@ translate chinese e03s02_d7aec5ce:
 translate chinese e03s02_fd961af7:
 
     # mc "Haha. Call it what you like, sounds like an adventure to me."
-    mc "哈哈。随你怎么说，对我来说，这听起来就像一场冒险。
+    mc "哈哈。随你怎么说，对我来说，这听起来就像一场冒险。"
 
 # game/code/e03/e03s02.rpy:347
 translate chinese e03s02_d98dc015:

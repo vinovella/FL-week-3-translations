@@ -1164,9 +1164,3 @@ translate portuguese d17s06dw_breakup_6525077f:
 
 # TODO: Translation updated at 2024-10-08 17:43
 
-# game/code/d17/d17s06dw.rpy:360
-translate portuguese d17s06dw_clown_room_fa534cd1:
-
-    # dw "Slave! Listen to your Mistress. Come stand here in front of me."
-    dw ""
-
