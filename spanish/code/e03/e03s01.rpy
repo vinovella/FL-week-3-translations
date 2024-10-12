@@ -289,8 +289,8 @@ translate spanish e03s01_451b8225:
 # game/code/e03/e03s01.rpy:268
 translate spanish e03s01_6b3c4e16:
 
-    # mh "I'm a little too old to be a princess, Stacy,"
-    mh "I'm a little too old to be a princess, Stacy,"
+    # mh "I'm a little too old to be a princess, Stacy."
+    mh "I'm a little too old to be a princess, Stacy."
 
 # game/code/e03/e03s01.rpy:271
 translate spanish e03s01_e139783b:
