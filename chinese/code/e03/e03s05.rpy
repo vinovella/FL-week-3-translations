@@ -404,7 +404,7 @@ translate chinese e03s05_daca45ec:
 translate chinese e03s05_681a372c:
 
     # sy "[mcname]! You're back!"
-    sy "[mcname]！你回来了！
+    sy "[mcname]！你回来了！"
 
 # game/code/e03/e03s05.rpy:239
 translate chinese e03s05_a9e28f39:

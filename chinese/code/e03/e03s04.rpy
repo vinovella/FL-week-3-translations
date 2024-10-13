@@ -1094,7 +1094,7 @@ translate chinese e03s04_e220c8a7:
 translate chinese e03s04_7d1f9d46:
 
     # mc "Then I am going to shoot every bit of my hot seed deep inside you!"
-    mc "那么我要把我所有滚烫热辣的精液全都深深"地射进你洞穴里！
+    mc "那么我要把我所有滚烫热辣的精液全都深深地射进你洞穴里！"
 
 # game/code/e03/e03s04.rpy:631
 translate chinese e03s04_e4ee9be5:
