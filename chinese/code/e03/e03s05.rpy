@@ -2,529 +2,529 @@
 translate chinese e03s05_b48a7398:
 
     # mc "When do we get to see Lyssa?"
-    mc "When do we get to see Lyssa?"
+    mc "我们什么时候能见到丽莎？"
 
 # game/code/e03/e03s05.rpy:23
 translate chinese e03s05_d55d1581:
 
     # "Cult Member" "You can see the goddess when she deigns it. Now, get back to work."
-    "Cult Member" "You can see the goddess when she deigns it. Now, get back to work."
+    "邪教成员" "女神愿意的话，你们就能见到她。现在，回去工作吧。"
 
 # game/code/e03/e03s05.rpy:26
 translate chinese e03s05_6bdca591:
 
     # mc "But, we want-"
-    mc "But, we want-"
+    mc "可是，我们想--"
 
 # game/code/e03/e03s05.rpy:29
 translate chinese e03s05_ca14ed93:
 
     # "Cult Member" "A mortal does not get to make demands of a goddess, or of her loyal followers. Prove yourself, and maybe you'll be granted an audience!"
-    "Cult Member" "A mortal does not get to make demands of a goddess, or of her loyal followers. Prove yourself, and maybe you'll be granted an audience!"
+    "邪教成员" "凡人不能向女神或她的忠实信徒提出要求。证明自己吧，也许你们会被允许觐见！"
 
 # game/code/e03/e03s05.rpy:31
 translate chinese e03s05_6ad76365:
 
     # mc "Mrreeeegggh."
-    mc "Mrreeeegggh."
+    mc "嗐哎。"
 
 # game/code/e03/e03s05.rpy:42
 translate chinese e03s05_e87f98c8:
 
     # sy "We're never going to be able to sneak away and find Lyssa if this guy keeps watching us!"
-    sy "We're never going to be able to sneak away and find Lyssa if this guy keeps watching us!"
+    sy "如果这家伙一直盯着我们，我们永远无法溜走找到丽莎！"
 
 # game/code/e03/e03s05.rpy:44
 translate chinese e03s05_b6d6a269:
 
     # mc "I know. And he definitely doesn't trust us."
-    mc "I know. And he definitely doesn't trust us."
+    mc "我知道。他肯定不信任我们。"
 
 # game/code/e03/e03s05.rpy:45
 translate chinese e03s05_c09cb094:
 
     # sy "Which is crazy! We're like, the most trustable people ever."
-    sy "Which is crazy! We're like, the most trustable people ever."
+    sy "这太疯狂了！我们是最值得信赖的人。"
 
 # game/code/e03/e03s05.rpy:48
 translate chinese e03s05_40dc2f9e:
 
     # mc "I don't know about that. We did infiltrate this cult to bring it down."
-    mc "I don't know about that. We did infiltrate this cult to bring it down."
+    mc "这我倒是不确定。我们确实渗透进了这个邪教，还要把它摧毁。"
 
 # game/code/e03/e03s05.rpy:51
 translate chinese e03s05_a9ac7b62:
 
     # sy "Oh yeah..."
-    sy "Oh yeah..."
+    sy "哦，是哦..."
 
 # game/code/e03/e03s05.rpy:55
 translate chinese e03s05_af0df724:
 
     # mc "But we need to find an excuse to get away from him."
-    mc "But we need to find an excuse to get away from him."
+    mc "但我们需要找个借口摆脱他。"
 
 # game/code/e03/e03s05.rpy:59
 translate chinese e03s05_ad1e88ba:
 
     # sy "Oh, just leave that to me."
-    sy "Oh, just leave that to me."
+    sy "哦，交给我吧。"
 
 # game/code/e03/e03s05.rpy:63
 translate chinese e03s05_b96f5aa5:
 
     # sy "Hey! I'm getting pretty thirsty. Can we get some water?"
-    sy "Hey! I'm getting pretty thirsty. Can we get some water?"
+    sy "嘿！我渴得要命。能喝点水吗？"
 
 # game/code/e03/e03s05.rpy:66
 translate chinese e03s05_b5296078:
 
     # "Cult Member" "Mmergg. You two have barely done anything so far!"
-    "Cult Member" "Mmergg. You two have barely done anything so far!"
+    "邪教成员" "嗐哎。你们俩到现在几乎什么都没做！"
 
 # game/code/e03/e03s05.rpy:69
 translate chinese e03s05_3c854996:
 
     # sy "Well that's because we're city folks who've never done a hard day's work in our lives! We need a devoted cul- errr, Dyma follower to show us how to do it!"
-    sy "Well that's because we're city folks who've never done a hard day's work in our lives! We need a devoted cul- errr, Dyma follower to show us how to do it!"
+    sy "那是因为我们都是城里人，这辈子都没干过苦力活！我们需要一个狂热的邪--不是，迪玛的追随者来教我们怎么做！"
 
 # game/code/e03/e03s05.rpy:72
 translate chinese e03s05_06c9bdbc:
 
     # "Cult Member" "That couldn't hurt..."
-    "Cult Member" "That couldn't hurt..."
+    "邪教成员" "这倒不会有什么坏处的..."
 
 # game/code/e03/e03s05.rpy:75
 translate chinese e03s05_1e809d6a:
 
     # sy "Could you show me the right way to do it? I'm just so silly I don't think I'll ever figure it out on my own!"
-    sy "Could you show me the right way to do it? I'm just so silly I don't think I'll ever figure it out on my own!"
+    sy "你能教我怎么做吗？我太笨了，自己肯定搞不定！"
 
 # game/code/e03/e03s05.rpy:78
 translate chinese e03s05_d8ebcfbd:
 
     # "Cult Member" "Give me the axe and I'll show you how it's done."
-    "Cult Member" "Give me the axe and I'll show you how it's done."
+    "邪教成员" "把斧头给我，我来教你怎么做。"
 
 # game/code/e03/e03s05.rpy:82
 translate chinese e03s05_90a93b48:
 
     # sy "Oh, but what about that water?"
-    sy "Oh, but what about that water?"
+    sy "哦，但是水怎么办？"
 
 # game/code/e03/e03s05.rpy:84
 translate chinese e03s05_ab7e1e61:
 
     # "Cult Member" "I can get it after-"
-    "Cult Member" "I can get it after-"
+    "邪教成员" "我可以待会再--"
 
 # game/code/e03/e03s05.rpy:85
 translate chinese e03s05_95544ba0:
 
     # sy "But I am sooooo thirsty!"
-    sy "But I am sooooo thirsty!"
+    sy "可是我好--渴啊！"
 
 # game/code/e03/e03s05.rpy:89
 translate chinese e03s05_4f130a86:
 
     # "Cult Member" "You - go fetch the water. And come straight back. Don't wander around."
-    "Cult Member" "You - go fetch the water. And come straight back. Don't wander around."
+    "邪教成员" "你--去取水。然后直接回来。不要到处乱走。"
 
 # game/code/e03/e03s05.rpy:92
 translate chinese e03s05_d897cb82:
 
     # mc "Sure! I can do that."
-    mc "Sure! I can do that."
+    mc "好！没问题。"
 
 # game/code/e03/e03s05.rpy:96
 translate chinese e03s05_9532d588:
 
     # "Cult Member" "So first - your grip on the axe is the most important part of the swing."
-    "Cult Member" "So first - your grip on the axe is the most important part of the swing."
+    "邪教成员" "所以首先--握斧头是挥斧最重要的部分。"
 
 # game/code/e03/e03s05.rpy:99
 translate chinese e03s05_b7f8ff83:
 
     # sy "Oh! I never would have even thought about that!"
-    sy "Oh! I never would have even thought about that!"
+    sy "哦！我从来没想过这一点！"
 
 # game/code/e03/e03s05.rpy:103
 translate chinese e03s05_300fd1f9:
 
     # mct "Now, where would they keep Lyssa..."
-    mct "Now, where would they keep Lyssa..."
+    mct "现在，他们会把丽莎关在哪里..."
 
 # game/code/e03/e03s05.rpy:104
 translate chinese e03s05_b69ce303:
 
     # mct "Probably somewhere they could keep her secret. Wouldn't want her just walking around."
-    mct "Probably somewhere they could keep her secret. Wouldn't want her just walking around."
+    mct "可能是一个可以保守秘密的地方。他们可不想让她到处乱走。"
 
 # game/code/e03/e03s05.rpy:105
 translate chinese e03s05_3947be79:
 
     # mct "Hmmm... Where could it be?"
-    mct "Hmmm... Where could it be?"
+    mct "嗯...会是什么地方呢？"
 
 # game/code/e03/e03s05.rpy:108
 translate chinese e03s05_1bcdc53b:
 
     # mct "How have I never seen this before? It's a little obvious, but it's the perfect place."
-    mct "How have I never seen this before? It's a little obvious, but it's the perfect place."
+    mct "我怎么以前没看到过？这里虽然有点明显，但确实是绝佳地点。"
 
 # game/code/e03/e03s05.rpy:115
 translate chinese e03s05_e529a5ee:
 
     # mct "Well, this is super weird..."
-    mct "Well, this is super weird..."
+    mct "好吧，这太奇怪了..."
 
 # game/code/e03/e03s05.rpy:118
 translate chinese e03s05_0187112b:
 
     # mct "Creepy cave... What the hell do they do in here?"
-    mct "Creepy cave... What the hell do they do in here?"
+    mct "阴森的洞穴...他们在这里做什么？"
 
 # game/code/e03/e03s05.rpy:121
 translate chinese e03s05_a67d4c92:
 
     # "Guard" "Get into your cell!"
-    "Guard" "Get into your cell!"
+    "守卫" "回你的牢房去！"
 
 # game/code/e03/e03s05.rpy:123
 translate chinese e03s05_e88c3bd3:
 
     # mct "What the fuck?"
-    mct "What the fuck?"
+    mct "搞什么鬼？"
 
 # game/code/e03/e03s05.rpy:127
 translate chinese e03s05_796280e1:
 
     # "Guard" "You pretender. I cannot wait until your fate is decided before the High Priestess' tribunal."
-    "Guard" "You pretender. I cannot wait until your fate is decided before the High Priestess' tribunal."
+    "守卫" "你这个伪装者。我等不及要在大祭司的法庭上决定你的命运了。"
 
 # game/code/e03/e03s05.rpy:130
 translate chinese e03s05_500721c2:
 
     # "Lyssa?" "But I didn't do anything!"
-    "Lyssa?" "But I didn't do anything!"
+    "丽莎？" "但我什么都没做！"
 
 # game/code/e03/e03s05.rpy:133
 translate chinese e03s05_89f5ea72:
 
     # "Guard" "Impersonating a goddess is crime against nature itself!"
-    "Guard" "Impersonating a goddess is crime against nature itself!"
+    "守卫" "冒充女神本身就是对自然本身的亵渎！"
 
 # game/code/e03/e03s05.rpy:136
 translate chinese e03s05_dd7038df:
 
     # "Lyssa?" "But I didn't-"
-    "Lyssa?" "But I didn't-"
+    "丽莎？" "但我没有--"
 
 # game/code/e03/e03s05.rpy:139
 translate chinese e03s05_60cc6708:
 
     # "Guard" "Quiet! Before I get the flogger back out!"
-    "Guard" "Quiet! Before I get the flogger back out!"
+    "守卫" "安静！否则我就把鞭子拿回来！"
 
 # game/code/e03/e03s05.rpy:140
 translate chinese e03s05_c912de4a:
 
     # "Lyssa?" "..."
-    "Lyssa?" "..."
+    "丽莎？" "..."
 
 # game/code/e03/e03s05.rpy:143
 translate chinese e03s05_3c450893:
 
     # "Guard" "Good. Now I need to walk this stress off. The negativity your aura gives off is bringing me down."
-    "Guard" "Good. Now I need to walk this stress off. The negativity your aura gives off is bringing me down."
+    "守卫" "很好。现在我要去散散步，缓解一下压力。你的气场散发的负面能量让我很压抑。"
 
 # game/code/e03/e03s05.rpy:153
 translate chinese e03s05_1048953d:
 
     # "Lyssa?" "What, you come to ridicule me?"
-    "Lyssa?" "What, you come to ridicule me?"
+    "丽莎？" "怎么，你是来嘲笑我的吗？"
 
 # game/code/e03/e03s05.rpy:156
 translate chinese e03s05_2d8989b5:
 
     # mc "Lyssa! It's me - [mcname]! What the hell did they do to your hair?"
-    mc "Lyssa! It's me - [mcname]! What the hell did they do to your hair?"
+    mc "丽莎！是我--[mcname]！他们到底对你头发做了什么？"
 
 # game/code/e03/e03s05.rpy:159
 translate chinese e03s05_6c74b79f:
 
     # "Not Lyssa?" "Lyssa? Who the hell is Lyssa?"
-    "Not Lyssa?" "Lyssa? Who the hell is Lyssa?"
+    "不是丽莎？" "丽莎？丽莎是哪个？"
 
 # game/code/e03/e03s05.rpy:162
 translate chinese e03s05_e5b8c54e:
 
     # mc "Wait-"
-    mc "Wait-"
+    mc "等等--"
 
 # game/code/e03/e03s05.rpy:164
 translate chinese e03s05_dcb43eea:
 
     # mc "Wait, you're not Lyssa!"
-    mc "Wait, you're not Lyssa!"
+    mc "等等，你不是丽莎！"
 
 # game/code/e03/e03s05.rpy:167
 translate chinese e03s05_dba79029:
 
     # ca "No, I'm Chiara."
-    ca "No, I'm Chiara."
+    ca "不，我是琪亚拉。"
 
 # game/code/e03/e03s05.rpy:170
 translate chinese e03s05_5120d39e:
 
     # mc "Well, I guess it doesn't matter. We're here to help take down the cult!"
-    mc "Well, I guess it doesn't matter. We're here to help take down the cult!"
+    mc "好吧，我想这并不重要。我们是来帮助打倒邪教的！"
 
 # game/code/e03/e03s05.rpy:173
 translate chinese e03s05_b1f9b96c:
 
     # ca "You're doing a great job so far."
-    ca "You're doing a great job so far."
+    ca "到目前为止，你们做得可真好呀。"
 
 # game/code/e03/e03s05.rpy:176
 translate chinese e03s05_8303df1c:
 
     # mc "Hey! We're trying. They took our friend and we're trying to find her."
-    mc "Hey! We're trying. They took our friend and we're trying to find her."
+    mc "嘿！我们正在努力。他们带走了我们的朋友，我们正在努力找到她。"
 
 # game/code/e03/e03s05.rpy:180
 translate chinese e03s05_82388469:
 
     # ca "She wouldn't happen to be trans, would she?"
-    ca "She wouldn't happen to be trans, would she?"
+    ca "她不会碰巧是跨性别者吧？"
 
 # game/code/e03/e03s05.rpy:183
 translate chinese e03s05_5280f094:
 
     # mc "She is!"
-    mc "She is!"
+    mc "正是呢！"
 
 # game/code/e03/e03s05.rpy:186
 translate chinese e03s05_92a9d8b2:
 
     # ca "That explains why they set up the tribunal..."
-    ca "That explains why they set up the tribunal..."
+    ca "这就解释了为什么他们要设立特别法庭..."
 
 # game/code/e03/e03s05.rpy:188
 translate chinese e03s05_d98eb27e:
 
     # ca "Long story short, this cult thought I was their holy goddess until they found out I didn't have a dick. Then they locked me in here."
-    ca "Long story short, this cult thought I was their holy goddess until they found out I didn't have a dick. Then they locked me in here."
+    ca "长话短说，这个邪教组织一直认为我是他们的圣女，直到他们发现我没有鸡巴。然后他们就把我关在这里了。"
 
 # game/code/e03/e03s05.rpy:189
 translate chinese e03s05_050412f3:
 
     # ca "They thought that it still could be me though, so they kept me around. Until a few days ago, when suddenly I was told I have to go to a trial before the High Priestess for my crime against nature."
-    ca "They thought that it still could be me though, so they kept me around. Until a few days ago, when suddenly I was told I have to go to a trial before the High Priestess for my crime against nature."
+    ca "不过他们觉得还是有可能是我，所以一直留着我。直到几天前，突然有人告诉我，我必须去见大祭司，接受违反自然的罪行的审判。"
 
 # game/code/e03/e03s05.rpy:192
 translate chinese e03s05_5693a819:
 
     # mc "Huh..."
-    mc "Huh..."
+    mc "嗯..."
 
 # game/code/e03/e03s05.rpy:194
 translate chinese e03s05_f444d272:
 
     # mc "Good thing we're here to break you out! And, with what happened to you, you can help us bring down the cult!"
-    mc "Good thing we're here to break you out! And, with what happened to you, you can help us bring down the cult!"
+    mc "幸好我们来了，可以把你救出去！而且，你经历了这么多，可以帮助我们摧毁这个邪教！"
 
 # game/code/e03/e03s05.rpy:197
 translate chinese e03s05_3d325522:
 
     # ca "That's going to be awfully hard trapped in a cell."
-    ca "That's going to be awfully hard trapped in a cell."
+    ca "被关在牢房里可帮不到你们什么。"
 
 # game/code/e03/e03s05.rpy:199
 translate chinese e03s05_8bf087b3:
 
     # mc "Right, uhm..."
-    mc "Right, uhm..."
+    mc "对，嗯..."
 
 # game/code/e03/e03s05.rpy:202
 translate chinese e03s05_dd044037:
 
     # "Guard" "Mmmm, it feels so good to be cleaned of that negative energy."
-    "Guard" "Mmmm, it feels so good to be cleaned of that negative energy."
+    "守卫" "嗯，感觉好多了，那些负能量都清除了。"
 
 # game/code/e03/e03s05.rpy:205
 translate chinese e03s05_1200aa6f:
 
     # mc "Oh shit! She's coming back!"
-    mc "Oh shit! She's coming back!"
+    mc "糟糕！她回来了！"
 
 # game/code/e03/e03s05.rpy:208
 translate chinese e03s05_70d1e017:
 
     # ca "Go! If you get caught, they'll throw you in here with me!"
-    ca "Go! If you get caught, they'll throw you in here with me!"
+    ca "快跑！如果你被抓住了，他们会把你和我关在一起！"
 
 # game/code/e03/e03s05.rpy:211
 translate chinese e03s05_20207860:
 
     # mc "I promise, I'll figure out a way to get you out!"
-    mc "I promise, I'll figure out a way to get you out!"
+    mc "我保证，我会想办法把你救出去！"
 
 # game/code/e03/e03s05.rpy:214
 translate chinese e03s05_b7832ca1:
 
     # ca "Please, hurry!"
-    ca "Please, hurry!"
+    ca "求你了，快一点！"
 
 # game/code/e03/e03s05.rpy:221
 translate chinese e03s05_22e6dc99:
 
     # "Guard" "Now, do you promise to behave? Because you upset my tummy before and I don't like having an upset tummy."
-    "Guard" "Now, do you promise to behave? Because you upset my tummy before and I don't like having an upset tummy."
+    "守卫" "现在，你保证会乖乖听话吗？因为你之前惹恼了我的肚子，我不喜欢肚子不舒服。"
 
 # game/code/e03/e03s05.rpy:224
 translate chinese e03s05_03fcbda9:
 
     # ca "Yes, I promise..."
-    ca "Yes, I promise..."
+    ca "是的，我保证..."
 
 # game/code/e03/e03s05.rpy:229
 translate chinese e03s05_73f5f4be:
 
     # "Cult Member" "And all of that, with a good stance, is the best way to chop wood."
-    "Cult Member" "And all of that, with a good stance, is the best way to chop wood."
+    "邪教成员" "所有这些方法，加上一个好的站姿，这是劈柴的最佳方法。"
 
 # game/code/e03/e03s05.rpy:232
 translate chinese e03s05_daca45ec:
 
     # sy "Thank you! Wow, this has been super educational. I know I'm going to do so much better now!"
-    sy "Thank you! Wow, this has been super educational. I know I'm going to do so much better now!"
+    sy "谢谢！哇，这真是超级有教育意义。我知道我现在会做得更好！"
 
 # game/code/e03/e03s05.rpy:236
 translate chinese e03s05_681a372c:
 
     # sy "[mcname]! You're back!"
-    sy "[mcname]! You're back!"
+    sy "[mcname]！你回来了！
 
 # game/code/e03/e03s05.rpy:239
 translate chinese e03s05_a9e28f39:
 
     # "Cult Member" "Where's the water?"
-    "Cult Member" "Where's the water?"
+    "邪教成员" "水在哪呢？"
 
 # game/code/e03/e03s05.rpy:242
 translate chinese e03s05_029216a1:
 
     # mc "Oh, uhhhh, I couldn't find it?"
-    mc "Oh, uhhhh, I couldn't find it?"
+    mc "哦，呃，我没找到水？"
 
 # game/code/e03/e03s05.rpy:245
 translate chinese e03s05_bec1d562:
 
     # "Cult Member" "Useless city slicker...{w} I'll go get it. Don't go anywhere."
-    "Cult Member" "Useless city slicker...{w} I'll go get it. Don't go anywhere."
+    "邪教成员" "没用的城里人...{w}我去拿水。你哪儿也别去。"
 
 # game/code/e03/e03s05.rpy:250
 translate chinese e03s05_7e29e343:
 
     # sy "What took you so long if you weren't getting water?"
-    sy "What took you so long if you weren't getting water?"
+    sy "如果你不是去拿水，为什么去了这么久？"
 
 # game/code/e03/e03s05.rpy:253
 translate chinese e03s05_6ca1dde3:
 
     # mc "I found someone locked up in a prison cell!"
-    mc "I found someone locked up in a prison cell!"
+    mc "我发现有人被关在牢房里！"
 
 # game/code/e03/e03s05.rpy:256
 translate chinese e03s05_cf61b99f:
 
     # sy "What!?!"
-    sy "What!?!"
+    sy "什么!?!"
 
 # game/code/e03/e03s05.rpy:260
 translate chinese e03s05_eec2387a:
 
     # mc "Yeah! And she looked {i}just{/i} like Lyssa!"
-    mc "Yeah! And she looked {i}just{/i} like Lyssa!"
+    mc "是的！她看起来{i}就像{/i}丽莎！"
 
 # game/code/e03/e03s05.rpy:262
 translate chinese e03s05_7d9716f2:
 
     # sy "Are you sure it wasn't Lyssa?"
-    sy "Are you sure it wasn't Lyssa?"
+    sy "你确定那不是丽莎吗？"
 
 # game/code/e03/e03s05.rpy:263
 translate chinese e03s05_2b4e785c:
 
     # mc "Yeah, I talked to her."
-    mc "Yeah, I talked to her."
+    mc "确定，我和她聊过。"
 
 # game/code/e03/e03s05.rpy:267
 translate chinese e03s05_b866cfad:
 
     # sy "What! Why are they keeping her in a prison cell?"
-    sy "What! Why are they keeping her in a prison cell?"
+    sy "什么！为什么他们把她关在牢房里？"
 
 # game/code/e03/e03s05.rpy:270
 translate chinese e03s05_f9ccc5e6:
 
     # mc "It sounds like they thought she was their goddess, but she wasn't trans, so..."
-    mc "It sounds like they thought she was their goddess, but she wasn't trans, so..."
+    mc "听起来好像这些人认为她是他们的女神，但她不是变性人，所以..."
 
 # game/code/e03/e03s05.rpy:272
 translate chinese e03s05_e9828111:
 
     # sy "That would explain why she looks like Lyssa! But... wouldn't her friend have told her that?"
-    sy "That would explain why she looks like Lyssa! But... wouldn't her friend have told her that?"
+    sy "这就能解释为什么她看起来像丽莎！但是...难道她的朋友不会告诉她吗？"
 
 # game/code/e03/e03s05.rpy:273
 translate chinese e03s05_84f9d3b7:
 
     # mc "Yeah, I think-"
-    mc "Yeah, I think-"
+    mc "是的，我想--"
 
 # game/code/e03/e03s05.rpy:274
 translate chinese e03s05_3970fb4a:
 
     # sy "Shhh! He's coming back."
-    sy "Shhh! He's coming back."
+    sy "嘘！他回来了。"
 
 # game/code/e03/e03s05.rpy:278
 translate chinese e03s05_b63b81ff:
 
     # "Cult Member" "We are done for the day. Go back to your abode and freshen up."
-    "Cult Member" "We are done for the day. Go back to your abode and freshen up."
+    "邪教成员" "今天的工作已经完成了。回到你们的住处梳洗一下吧。"
 
 # game/code/e03/e03s05.rpy:281
 translate chinese e03s05_e07bc938:
 
     # sy "Hey, where's the water!?"
-    sy "Hey, where's the water!?"
+    sy "嘿，水在哪里!?"
 
 # game/code/e03/e03s05.rpy:283
 translate chinese e03s05_796532a9:
 
     # "Cult Member" "There are more important tasks to be done. The goddess Dyma has called for a gathering this evening."
-    "Cult Member" "There are more important tasks to be done. The goddess Dyma has called for a gathering this evening."
+    "邪教成员" "还有更重要的事情要做。女神迪玛今晚召集大家开会。"
 
 # game/code/e03/e03s05.rpy:287
 translate chinese e03s05_31e4feb6:
 
     # sy "Man... I just wanted some water..."
-    sy "Man... I just wanted some water..."
+    sy "天啊...我只是想喝点水..."
 
 # game/code/e03/e03s05.rpy:290
 translate chinese e03s05_af94d576:
 
     # mc "Come on, we should get ready. It sounds like Lyssa has something planned for tonight."
-    mc "Come on, we should get ready. It sounds like Lyssa has something planned for tonight."
+    mc "来吧，我们得准备一下。听上去丽莎今晚有安排。"
 
 # game/code/e03/e03s05.rpy:293
 translate chinese e03s05_8be626a8:
 
     # sy "What about the water! I'm a thirsty bitch."
-    sy "What about the water! I'm a thirsty bitch."
+    sy "水怎么办！我要渴死了。"
 
 # game/code/e03/e03s05.rpy:296
 translate chinese e03s05_d1da4f41:
