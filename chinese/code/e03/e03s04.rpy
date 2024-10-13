@@ -638,25 +638,25 @@ translate chinese e03s04_dc5e8f71:
 translate chinese e03s04_2af51066:
 
     # mc "Oh shit, she's clamped her throat around my dick! You're right, Lyssa! She's about to-"
-    mc "Oh shit, she's clamped her throat around my dick! You're right, Lyssa! She's about to-"
+    mc "哦，该死，她的喉咙夹住了我的鸡巴！你说得对，丽莎！她快要--"
 
 # game/code/e03/e03s04.rpy:396
 translate chinese e03s04_9db94b47:
 
     # sy "OHGODFUCKINGDAMNI'MCUMMMMMMING!"
-    sy "OHGODFUCKINGDAMNI'MCUMMMMMMING!"
+    sy "操啊啊啊我他妈的快要射了！"
 
 # game/code/e03/e03s04.rpy:400
 translate chinese e03s04_83a915a5:
 
     # sy "FUCKFUCKFUCKFUCKLYYSSSSA!"
-    sy "FUCKFUCKFUCKFUCKLYYSSSSA!"
+    sy "操操操操操丽莎啊啊啊！"
 
 # game/code/e03/e03s04.rpy:403
 translate chinese e03s04_6ff5dd93:
 
     # mh "Stacy, are you okay?"
-    mh "Stacy, are you okay?"
+    mh "史黛西，你还好吗？"
 
 # game/code/e03/e03s04.rpy:406
 translate chinese e03s04_5c2c7bcf:
@@ -668,595 +668,595 @@ translate chinese e03s04_5c2c7bcf:
 translate chinese e03s04_769932ca:
 
     # mh "Stacy?"
-    mh "Stacy?"
+    mh "史黛西？"
 
 # game/code/e03/e03s04.rpy:413
 translate chinese e03s04_68d6c732:
 
     # mc "Hello? Dear sweet sister? Are you still alive?"
-    mc "Hello? Dear sweet sister? Are you still alive?"
+    mc "喂？亲爱的老妹？你还活着吗？"
 
 # game/code/e03/e03s04.rpy:415
 translate chinese e03s04_ca9dbe07:
 
     # mc "Hello? Dear sweet Stacy? Are you still alive?"
-    mc "Hello? Dear sweet Stacy? Are you still alive?"
+    mc "喂？亲爱的史黛西？你还活着吗？"
 
 # game/code/e03/e03s04.rpy:418
 translate chinese e03s04_6e3aed41:
 
     # sy "Mrrrmmmnnngggg..."
-    sy "Mrrrmmmnnngggg..."
+    sy "哼嗯嗯嗯..."
 
 # game/code/e03/e03s04.rpy:422
 translate chinese e03s04_261e7b10:
 
     # mc "I think you melted her brain, Lyssa."
-    mc "I think you melted her brain, Lyssa."
+    mc "我觉得你把她的脑子融化了，丽莎。"
 
 # game/code/e03/e03s04.rpy:425
 translate chinese e03s04_c8c34050:
 
     # mh "Yeah, usually it takes a little longer to get her to cum like that."
-    mh "Yeah, usually it takes a little longer to get her to cum like that."
+    mh "是的，通常需要更长的时间才能让她达到这样的高潮。"
 
 # game/code/e03/e03s04.rpy:428
 translate chinese e03s04_a6fe721a:
 
     # mc "Maybe she really likes the breeding talk?"
-    mc "Maybe she really likes the breeding talk?"
+    mc "也许她真的很喜欢育种的话题？"
 
 # game/code/e03/e03s04.rpy:431
 translate chinese e03s04_d4d8ac7e:
 
     # sy "I do..."
-    sy "I do..."
+    sy "是的..."
 
 # game/code/e03/e03s04.rpy:435
 translate chinese e03s04_04d11454:
 
     # hp "You've succeeded in making one of them orgasm, but there is still one to go."
-    hp "You've succeeded in making one of them orgasm, but there is still one to go."
+    hp "你成功地让其中一个高潮了，但还有一个没到。"
 
 # game/code/e03/e03s04.rpy:439
 translate chinese e03s04_4ad70d38:
 
     # hp "When we meditate, we ask that you give, that you deliver us. But when we pray..."
-    hp "When we meditate, we ask that you give, that you deliver us. But when we pray..."
+    hp "当我们冥想时，我们请求您给予，请求您搭救我们。但当我们祈祷时..."
 
 # game/code/e03/e03s04.rpy:441
 translate chinese e03s04_ba59cdfd:
 
     # hp "We ask that you receive us... Are you a goddess that can receive?"
-    hp "We ask that you receive us... Are you a goddess that can receive?"
+    hp "我们请求您接纳我们...你是可以接纳我们的女神吗？"
 
 # game/code/e03/e03s04.rpy:444
 translate chinese e03s04_30b7c7c4:
 
     # mh "Mmmm, for [mcname]? Always."
-    mh "Mmmm, for [mcname]? Always."
+    mh "嗯，对于[mcname]？永远都准备好了。"
 
 # game/code/e03/e03s04.rpy:447
 translate chinese e03s04_84240cf2:
 
     # hp "Show me."
-    hp "Show me."
+    hp "证明给我看看。"
 
 # game/code/e03/e03s04.rpy:452
 translate chinese e03s04_7c9ed600:
 
     # hp "I can still feel how slick your cock is from your breedable sister's mouth. It should be perfect to slide right into our goddess's holiness."
-    hp "I can still feel how slick your cock is from your breedable sister's mouth. It should be perfect to slide right into our goddess's holiness."
+    hp "我仍然能感觉到，你的鸡巴从你那个待育种的妹妹嘴里滑过时有多光滑。它应该可以完美地滑入我们女神的圣殿。"
 
 # game/code/e03/e03s04.rpy:454
 translate chinese e03s04_07c6e93f:
 
     # hp "I can still feel how slick your cock is from that breedable slut's mouth. It should be perfect to slide right into our goddess's holiness."
-    hp "I can still feel how slick your cock is from that breedable slut's mouth. It should be perfect to slide right into our goddess's holiness."
+    hp "我仍然能感觉到，你的鸡巴从那个待育种的荡妇嘴里滑过时有多光滑。它应该可以完美地滑入我们女神的圣殿。"
 
 # game/code/e03/e03s04.rpy:457
 translate chinese e03s04_d9d300ad:
 
     # mc "Damn..."
-    mc "Damn..."
+    mc "该死..."
 
 # game/code/e03/e03s04.rpy:461
 translate chinese e03s04_e4c5d78f:
 
     # hp "Know that you are blessed, to be one who can feel the tightness of our goddess squeezing your cock... What I would give, to be you, even for a moment."
-    hp "Know that you are blessed, to be one who can feel the tightness of our goddess squeezing your cock... What I would give, to be you, even for a moment."
+    hp "要知道，你很幸运，因为你能感受到我们的女神挤压你的鸡巴时的紧实...我愿意付出一切，只要能成为你，哪怕只是片刻。"
 
 # game/code/e03/e03s04.rpy:464
 translate chinese e03s04_b4e67bb2:
 
     # sy "Don't leave me out!"
-    sy "Don't leave me out!"
+    sy "别把我排除在外！"
 
 # game/code/e03/e03s04.rpy:467
 translate chinese e03s04_efea644f:
 
     # mc "You weren't functional two seconds ago!"
-    mc "You weren't functional two seconds ago!"
+    mc "两秒钟前你还不行呢！"
 
 # game/code/e03/e03s04.rpy:470
 translate chinese e03s04_adb15cfe:
 
     # sy "Now I am! I can't stand yet, but there's still plenty I can do from down here."
-    sy "Now I am! I can't stand yet, but there's still plenty I can do from down here."
+    sy "现在我可以了！我虽然还站不稳，但在这里我还能做很多事情。"
 
 # game/code/e03/e03s04.rpy:480
 translate chinese e03s04_7601706f:
 
     # hp "Mmmmm, a true test... Can you handle such stimulation? Are you the goddess I believe you to be?"
-    hp "Mmmmm, a true test... Can you handle such stimulation? Are you the goddess I believe you to be?"
+    hp "嗯嗯嗯，这是真正的考验...你能承受这样的刺激吗？你真的是我心目中的女神吗？"
 
 # game/code/e03/e03s04.rpy:481
 translate chinese e03s04_515fd45b:
 
     # mh "Mmmmmmppppphhh!"
-    mh "Mmmmmmppppphhh!"
+    mh "嗯嗯嗯！"
 
 # game/code/e03/e03s04.rpy:486
 translate chinese e03s04_a82ad6c8:
 
     # hp "Mmmmm, you are proving yourself quite well, my goddess. Not many could handle this, and look this good while doing it."
-    hp "Mmmmm, you are proving yourself quite well, my goddess. Not many could handle this, and look this good while doing it."
+    hp "嗯，我的女神，你表现得很好。能应对这种场面的人不多，更不用说在做这件事的时候还能看起来这么漂亮。"
 
 # game/code/e03/e03s04.rpy:487
 translate chinese e03s04_5da42dda:
 
     # mh "Thank yooooou - mmmmmm, Stacy!"
-    mh "Thank yooooou - mmmmmm, Stacy!"
+    mh "谢谢你--嗯嗯嗯，史黛西！"
 
 # game/code/e03/e03s04.rpy:488
 translate chinese e03s04_a8d4e550:
 
     # sy "Glllccccck, glllllck, glllllck!"
-    sy "Glllccccck, glllllck, glllllck!"
+    sy "咕噜，咕噜，咕噜咕噜！"
 
 # game/code/e03/e03s04.rpy:492
 translate chinese e03s04_db38572b:
 
     # mc "Oh, fuck, Lyssa!"
-    mc "Oh, fuck, Lyssa!"
+    mc "我操，丽莎！"
 
 # game/code/e03/e03s04.rpy:494
 translate chinese e03s04_38d18b00:
 
     # hp "Oh, is this the cry of a mortal who succumb to his goddess?"
-    hp "Oh, is this the cry of a mortal who succumb to his goddess?"
+    hp "哦，这是一个凡人向他的女神屈服时的哭喊吗？"
 
 # game/code/e03/e03s04.rpy:498
 translate chinese e03s04_b85dd4c5:
 
     # mc "Not yet, fuuuuu-, not yet!"
-    mc "Not yet, fuuuuu-, not yet!"
+    mc "不是，次奥--，还不是！"
 
 # game/code/e03/e03s04.rpy:500
 translate chinese e03s04_9137e423:
 
     # hp "Goooood. Because I want you to save the fertile cum, and fill this little whore to the brim."
-    hp "Goooood. Because I want you to save the fertile cum, and fill this little whore to the brim."
+    hp "很好。因为我想让你把这些有活力的精液保存下来，把这个小婊子填满。"
 
 # game/code/e03/e03s04.rpy:501
 translate chinese e03s04_68bbfcd6:
 
     # mc "Nnnnnnggggh!"
-    mc "Nnnnnnggggh!"
+    mc "呃啊啊啊啊！"
 
 # game/code/e03/e03s04.rpy:506
 translate chinese e03s04_8bd87ee7:
 
     # mh "My God, Stacy! When did you learn to suck dick this good!?!"
-    mh "My God, Stacy! When did you learn to suck dick this good!?!"
+    mh "我的天啊，史黛西！你什么时候学会把鸡巴吸得这么爽的!?!"
 
 # game/code/e03/e03s04.rpy:508
 translate chinese e03s04_8794feeb:
 
     # hp "And still, you hold out? I want the same of you, goddess."
-    hp "And still, you hold out? I want the same of you, goddess."
+    hp "你还能坚持吗？我也希望你这样，女神。"
 
 # game/code/e03/e03s04.rpy:509
 translate chinese e03s04_2807aaa9:
 
     # hp "I want your healthy, potent seed to turn this little cum dump into nothing more than a vessel for your offspring."
-    hp "I want your healthy, potent seed to turn this little cum dump into nothing more than a vessel for your offspring."
+    hp "我希望你健康有力的种子能把这个小垃圾精液池变成孕育你后代的容器。"
 
 # game/code/e03/e03s04.rpy:513
 translate chinese e03s04_3973c10e:
 
     # mc "Shit, if you keep talking like that-"
-    mc "Shit, if you keep talking like that-"
+    mc "妈的，如果你继续这样说话--"
 
 # game/code/e03/e03s04.rpy:515
 translate chinese e03s04_5a56582b:
 
     # hp "Then you will orgasm, and prove that Dyma stands here, with us mortal!"
-    hp "Then you will orgasm, and prove that Dyma stands here, with us mortal!"
+    hp "然后你就会高潮，证明迪玛与我们凡人站在一起！"
 
 # game/code/e03/e03s04.rpy:516
 translate chinese e03s04_7c01a276:
 
     # mh "Mmmmmmmmmmmm!"
-    mh "Mmmmmmmmmmmm!"
+    mh "嗯嗯嗯嗯嗯！"
 
 # game/code/e03/e03s04.rpy:521
 translate chinese e03s04_ebe63f0a:
 
     # hp "Mmmm... No matter how much I want to see that though, I want you to cum in her."
-    hp "Mmmm... No matter how much I want to see that though, I want you to cum in her."
+    hp "嗯...虽然我很想看到这一幕，但我还是希望你射她里面。"
 
 # game/code/e03/e03s04.rpy:525
 translate chinese e03s04_12a2dd41:
 
     # hp "I think it is time to treat our little fertile slut."
-    hp "I think it is time to treat our little fertile slut."
+    hp "是时候好好对待我们这个能生育的小荡妇了。"
 
 # game/code/e03/e03s04.rpy:535
 translate chinese e03s04_978794b6:
 
     # hp "Look into her eyes, you worthless nothing. Ask the goddess to impregnate you, to put her seed inside you."
-    hp "Look into her eyes, you worthless nothing. Ask the goddess to impregnate you, to put her seed inside you."
+    hp "看着她的眼睛，你这个没用的东西。请求女神让你怀孕，把她的种子放进你的身体里。"
 
 # game/code/e03/e03s04.rpy:538
 translate chinese e03s04_36c2e3e8:
 
     # sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making you pregnant."
-    sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making you pregnant."
+    sy "丽莎...求你了，我要你射进我的身体深处。我想让你填满我，让我怀孕，让全世界知道我属于你。"
 
 # game/code/e03/e03s04.rpy:541
 translate chinese e03s04_6086e7a5:
 
     # hp "Good girl."
-    hp "Good girl."
+    hp "好孩子。"
 
 # game/code/e03/e03s04.rpy:545
 translate chinese e03s04_c7669cdd:
 
     # mc "Stacy, are you okay?"
-    mc "Stacy, are you okay?"
+    mc "史黛西，你还好吗？"
 
 # game/code/e03/e03s04.rpy:548
 translate chinese e03s04_19e9c024:
 
     # sy "Mmmhmmm... I think I've just unlocked a new kink though."
-    sy "Mmmhmmm... I think I've just unlocked a new kink though."
+    sy "嗯哼...我想我刚刚解锁了一个新癖好。"
 
 # game/code/e03/e03s04.rpy:551
 translate chinese e03s04_769932ca_1:
 
     # mh "Stacy?"
-    mh "Stacy?"
+    mh "史黛西？"
 
 # game/code/e03/e03s04.rpy:555
 translate chinese e03s04_ecae322e:
 
     # sy "{size=*0.6}[mcname], I want you to take your big, thick cock, and pump me full of so much cum I get pregnant.{/size}"
-    sy "{size=*0.6}[mcname], I want you to take your big, thick cock, and pump me full of so much cum I get pregnant.{/size}"
+    sy "{size=*0.6}[mcname]，我想让你用又大又粗的鸡巴，把我灌得满满的，让我怀孕。{/size}"
 
 # game/code/e03/e03s04.rpy:558
 translate chinese e03s04_9f7e4756:
 
     # mc "Holy fuck..."
-    mc "Holy fuck..."
+    mc "天啊..."
 
 # game/code/e03/e03s04.rpy:561
 translate chinese e03s04_8fc55906:
 
     # sy "{size=*0.6}I want to feel your warm, sticky semen deeeep inside my pussy.{/size}"
-    sy "{size=*0.6}I want to feel your warm, sticky semen deeeep inside my pussy.{/size}"
+    sy "{size=*0.6}我想要感受你温暖、黏糊的精液深深地进入我的小穴。{/size}"
 
 # game/code/e03/e03s04.rpy:565
 translate chinese e03s04_975dc915:
 
     # sy "{size=*0.6}What are you waiting for, big brother? Come and fuck your little sister until you fill her up with your cum.{/size}"
-    sy "{size=*0.6}What are you waiting for, big brother? Come and fuck your little sister until you fill her up with your cum.{/size}"
+    sy "{size=*0.6}你在等什么，哥哥？来吧，狠狠地干你的小妹妹，直到你用精液填满她。{/size}"
 
 # game/code/e03/e03s04.rpy:567
 translate chinese e03s04_6309eed0:
 
     # sy "{size=*0.6}What are you waiting for, stud? Come fill me up with your cum, make this little slut pregnant.{/size}"
-    sy "{size=*0.6}What are you waiting for, stud? Come fill me up with your cum, make this little slut pregnant.{/size}"
+    sy "{size=*0.6}你还在等什么，帅哥？快来用你的精液填满我，让这个小荡妇怀孕吧。{/size}"
 
 # game/code/e03/e03s04.rpy:570
 translate chinese e03s04_71e3e284:
 
     # mc "Fuuuuuuck!"
-    mc "Fuuuuuuck!"
+    mc "操操操操！"
 
 # game/code/e03/e03s04.rpy:574
 translate chinese e03s04_37e409bb:
 
     # hp "Wait! Dyma is supposed to be the one-"
-    hp "Wait! Dyma is supposed to be the one-"
+    hp "等等！迪玛应该是--"
 
 # game/code/e03/e03s04.rpy:577
 translate chinese e03s04_10ffe725:
 
     # mc "Lyssa, can you give me a hand?"
-    mc "Lyssa, can you give me a hand?"
+    mc "丽莎，你能帮我一下吗？"
 
 # game/code/e03/e03s04.rpy:580
 translate chinese e03s04_4b9175d9:
 
     # mh "Of course, [mcname]."
-    mh "Of course, [mcname]."
+    mh "当然，[mcname]。"
 
 # game/code/e03/e03s04.rpy:584
 translate chinese e03s04_3d6411de:
 
     # mh "You two look incredible... I hope you have room for one more, Stacy."
-    mh "You two look incredible... I hope you have room for one more, Stacy."
+    mh "你们俩看起来棒极了...我希望你还能再容纳一个，史黛西。"
 
 # game/code/e03/e03s04.rpy:587
 translate chinese e03s04_6000f635:
 
     # sy "Mmmmm, I always do for you, Lyssa. I want you to fill me up too, I want my ass to be overflowing with your cum."
-    sy "Mmmmm, I always do for you, Lyssa. I want you to fill me up too, I want my ass to be overflowing with your cum."
+    sy "嗯，我总是为你敞开怀抱，丽莎。我也想让你填满我，我想让我的屁股充满你的精液。"
 
 # game/code/e03/e03s04.rpy:591
 translate chinese e03s04_b9c0a5cf:
 
     # hp "But, our goddess-!"
-    hp "But, our goddess-!"
+    hp "但是，我们的女神--！"
 
 # game/code/e03/e03s04.rpy:600
 translate chinese e03s04_4cf3173a:
 
     # hp "The goddess is supposed to impregnate this useless slut!"
-    hp "The goddess is supposed to impregnate this useless slut!"
+    hp "让这个没用的荡妇怀孕的应该是我们的女神！"
 
 # game/code/e03/e03s04.rpy:602
 translate chinese e03s04_08c5ad46:
 
     # sy "This slut wants her brother to be the first to put a baby in her!"
-    sy "This slut wants her brother to be the first to put a baby in her!"
+    sy "这个荡妇想让她的哥哥第一个在她体内播种！"
 
 # game/code/e03/e03s04.rpy:603
 translate chinese e03s04_8c96c4b1:
 
     # hp "Hmmm. If the goddess wishes it."
-    hp "Hmmm. If the goddess wishes it."
+    hp "嗯。如果女神愿意的话。"
 
 # game/code/e03/e03s04.rpy:604
 translate chinese e03s04_e62f94bb:
 
     # mh " I do... *moans* I really do."
-    mh " I do... *moans* I really do."
+    mh " 我愿意...*呻吟* 我真的愿意。"
 
 # game/code/e03/e03s04.rpy:606
 translate chinese e03s04_1caf7915:
 
     # sy "This slut wants [mcname] to be the first to put a baby in her!"
-    sy "This slut wants [mcname] to be the first to put a baby in her!"
+    sy "这个荡妇想让[mcname]第一个在她体内播种！"
 
 # game/code/e03/e03s04.rpy:607
 translate chinese e03s04_56801014:
 
     # mc "Oh fuck, Stacy!"
-    mc "Oh fuck, Stacy!"
+    mc "哦，该死的，史黛西！"
 
 # game/code/e03/e03s04.rpy:610
 translate chinese e03s04_d55636fd:
 
     # sy "Oh, does the thought of filling me up make you want to cum?"
-    sy "Oh, does the thought of filling me up make you want to cum?"
+    sy "哦，一想到要把我灌饱，你就把持不住了？"
 
 # game/code/e03/e03s04.rpy:611
 translate chinese e03s04_fdd641ca:
 
     # mc "Y-yes!"
-    mc "Y-yes!"
+    mc "是--是的！"
 
 # game/code/e03/e03s04.rpy:612
 translate chinese e03s04_7eb139b2:
 
     # sy "Good! Fill my dirty pussy with your cum! Turn me into a nasty little cum dumpster until I get pregnant!"
-    sy "Good! Fill my dirty pussy with your cum! Turn me into a nasty little cum dumpster until I get pregnant!"
+    sy "很好！用你的精液填满我肮脏的阴道吧！把我变成一个下流的小精液垃圾箱，直到我怀孕！"
 
 # game/code/e03/e03s04.rpy:616
 translate chinese e03s04_131e7bbb:
 
     # mh "Stacy - nnngggggh!"
-    mh "Stacy - nnngggggh!"
+    mh "史黛西-- 嗯嗯嗯嗯嗯！"
 
 # game/code/e03/e03s04.rpy:617
 translate chinese e03s04_77701b98:
 
     # sy "You too, Lyssa! I want you to tear my ass apart - I want to feel your cum shoot deep inside me, to hold it in my ass the rest of the day!"
-    sy "You too, Lyssa! I want you to tear my ass apart - I want to feel your cum shoot deep inside me, to hold it in my ass the rest of the day!"
+    sy "你也是，丽莎！我要你撕开我的屁股--我要感受你的精液射入我的深处，让它在我的屁股里停留一整天！"
 
 # game/code/e03/e03s04.rpy:618
 translate chinese e03s04_27b66e02:
 
     # mc "Oh fuck - oh fuck!"
-    mc "Oh fuck - oh fuck!"
+    mc "哦，天哪--哦，天哪！"
 
 # game/code/e03/e03s04.rpy:619
 translate chinese e03s04_d97da509:
 
     # sy "You better not pull out, [mcname]! When you cum, I want to feel you cum into my womb!"
-    sy "You better not pull out, [mcname]! When you cum, I want to feel you cum into my womb!"
+    sy "你最好不要拔出来，[mcname]！当你射出来时，我想感受你的精液射进我的子宫里！"
 
 # game/code/e03/e03s04.rpy:623
 translate chinese e03s04_293532d1:
 
     # mc "Oh - mpppph - oh yeah!?"
-    mc "Oh - mpppph - oh yeah!?"
+    mc "哦--嗯嗯嗯--哦是吗!?"
 
 # game/code/e03/e03s04.rpy:624
 translate chinese e03s04_e220c8a7:
 
     # sy "Yes! God, yes, [mcname]!"
-    sy "Yes! God, yes, [mcname]!"
+    sy "是的！天啊，是的啊啊啊就是这样，[mcname]！"
 
 # game/code/e03/e03s04.rpy:625
 translate chinese e03s04_7d1f9d46:
 
     # mc "Then I am going to shoot every bit of my hot seed deep inside you!"
-    mc "Then I am going to shoot every bit of my hot seed deep inside you!"
+    mc "那么我要把我所有滚烫热辣的精液全都深深"地射进你洞穴里！
 
 # game/code/e03/e03s04.rpy:631
 translate chinese e03s04_e4ee9be5:
 
     # sy "Oh God, [mcname]!"
-    sy "Oh God, [mcname]!"
+    sy "天啊，[mcname]！"
 
 # game/code/e03/e03s04.rpy:632
 translate chinese e03s04_6bf92c57:
 
     # mc "And you better not let one drop fall out - I want you to be a good girl for me and get pregnant!"
-    mc "And you better not let one drop fall out - I want you to be a good girl for me and get pregnant!"
+    mc "而且你最好一滴也别漏出来--我希望你乖乖地为我怀孕！"
 
 # game/code/e03/e03s04.rpy:633
 translate chinese e03s04_12f55578:
 
     # sy "Yes, keep talking like that - I'm so close!"
-    sy "Yes, keep talking like that - I'm so close!"
+    sy "是的，继续说下去--我快到了！"
 
 # game/code/e03/e03s04.rpy:637
 translate chinese e03s04_f4b687db:
 
     # mh "Me too! I'm just about to cum!"
-    mh "Me too! I'm just about to cum!"
+    mh "我也是！我快要射了！"
 
 # game/code/e03/e03s04.rpy:639
 translate chinese e03s04_59f76234:
 
     # hp "Dyma, you need to be the one who cums in her pussy though!"
-    hp "Dyma, you need to be the one who cums in her pussy though!"
+    hp "迪玛，你得做那个射在她洞穴里的人！"
 
 # game/code/e03/e03s04.rpy:640
 translate chinese e03s04_78d02a2f:
 
     # mc "No! Because this bitch's pussy belongs to me! And I'm going to show everyone, when I pump her full of my seed!"
-    mc "No! Because this bitch's pussy belongs to me! And I'm going to show everyone, when I pump her full of my seed!"
+    mc "不行！因为这只小母狗的小穴属于我！当我把我的种子灌满她的小穴时，我要让所有人看着！"
 
 # game/code/e03/e03s04.rpy:641
 translate chinese e03s04_14656de4:
 
     # sy "Ohhhh, Goooooood!"
-    sy "Ohhhh, Goooooood!"
+    sy "哦哦哦，爽死了啊啊啊！"
 
 # game/code/e03/e03s04.rpy:645
 translate chinese e03s04_83cc6c01:
 
     # mc "Does the thought of being your brother's pregnant little cum slut turn you on that much!?"
-    mc "Does the thought of being your brother's pregnant little cum slut turn you on that much!?"
+    mc "一想到要成为你哥哥的怀孕小荡妇，你就这么兴奋吗？"
 
 # game/code/e03/e03s04.rpy:647
 translate chinese e03s04_0077bbda:
 
     # mc "Does the thought of being your my pregnant little cum slut turn you on that much!?"
-    mc "Does the thought of being your my pregnant little cum slut turn you on that much!?"
+    mc "一想到要成为专属于我的怀孕小荡妇，你就这么兴奋吗!?"
 
 # game/code/e03/e03s04.rpy:648
 translate chinese e03s04_95fcefdf:
 
     # sy "Yes, yes! Oh goddess, yes! It's gong to make me, I'm going to-"
-    sy "Yes, yes! Oh goddess, yes! It's gong to make me, I'm going to-"
+    sy "是的，是的！哦哦哦噢女神啊，是的！我要去了，我要--"
 
 # game/code/e03/e03s04.rpy:652
 translate chinese e03s04_a1b12bf1:
 
     # mc "Oh goddess, I'm cumming! I'm going to fill you up!"
-    mc "Oh goddess, I'm cumming! I'm going to fill you up!"
+    mc "哦哦哦噢女神啊，我要射了！我要把你填满！"
 
 # game/code/e03/e03s04.rpy:653
 translate chinese e03s04_a8da2d8d:
 
     # mh "Oh nnnnnggggghhhhh!"
-    mh "Oh nnnnnggggghhhhh!"
+    mh "哦，嗯嗯嗯！"
 
 # game/code/e03/e03s04.rpy:660
 translate chinese e03s04_e4583c41:
 
     # mc "I'm cummming! Get ready, Stacy!"
-    mc "I'm cummming! Get ready, Stacy!"
+    mc "我要射了！准备好，史黛西！"
 
 # game/code/e03/e03s04.rpy:662
 translate chinese e03s04_05f42e26:
 
     # sy "Oh goddess, yes [mcname], yes!!! Make me your pregnant little cum whoooooore!"
-    sy "Oh goddess, yes [mcname], yes!!! Make me your pregnant little cum whoooooore!"
+    sy "说我的女神，神啊神啊，来吧[mcname]，来吧让我成为你的怀孕小婊子！"
 
 # game/code/e03/e03s04.rpy:666
 translate chinese e03s04_d4f99ba3:
 
     # mh "Fuck, I'm just about to cum!"
-    mh "Fuck, I'm just about to cum!"
+    mh "妈的，我要高潮了！"
 
 # game/code/e03/e03s04.rpy:668
 translate chinese e03s04_1f2891cb:
 
     # hp "Wait! You must cum last!"
-    hp "Wait! You must cum last!"
+    hp "等等！你必须最后高潮！"
 
 # game/code/e03/e03s04.rpy:670
 translate chinese e03s04_422e1b90:
 
     # mc "That's not going to be a problem!"
-    mc "That's not going to be a problem!"
+    mc "这不是问题！"
 
 # game/code/e03/e03s04.rpy:681
 translate chinese e03s04_1b2b923a:
 
     # sy "Oh goddess, [mcname]! I can feel your warm, virile cum deep inside my woooomb!"
-    sy "Oh goddess, [mcname]! I can feel your warm, virile cum deep inside my woooomb!"
+    sy "哦，天哪，[mcname]！我能感受到你温暖、阳刚的精液就深深地埋在我的子宫深处！"
 
 # game/code/e03/e03s04.rpy:684
 translate chinese e03s04_968b6f9d:
 
     # mh "Oh fuck!"
-    mh "Oh fuck!"
+    mh "哦，操！"
 
 # game/code/e03/e03s04.rpy:693
 translate chinese e03s04_bdef803b:
 
     # sy "Yes, Lyssa, yes!!! Fill my ass up! I want to be full of your cum!"
-    sy "Yes, Lyssa, yes!!! Fill my ass up! I want to be full of your cum!"
+    sy "来吧，丽莎，来吧！填满我的屁股！我想被你的精液充满！"
 
 # game/code/e03/e03s04.rpy:700
 translate chinese e03s04_f1b851e3:
 
     # sy "I'm filled with cum from my two favorite people! I love you both so much!"
-    sy "I'm filled with cum from my two favorite people! I love you both so much!"
+    sy "我满肚子都是我最喜欢的两个人的精液！我太爱你们两个了！"
 
 # game/code/e03/e03s04.rpy:704
 translate chinese e03s04_d1d41db3:
 
     # hp "It seems that she has passed the trial."
-    hp "It seems that she has passed the trial."
+    hp "看来她已经通过了考验。"
 
 # game/code/e03/e03s04.rpy:708
 translate chinese e03s04_5e6d96c3:
 
     # hp "It is you. Our goddess, Dyma. I knew it was you."
-    hp "It is you. Our goddess, Dyma. I knew it was you."
+    hp "是你。我们的女神，迪玛。我就知道是你。"
 
 # game/code/e03/e03s04.rpy:712
 translate chinese e03s04_1723aa7a:
 
     # hp "Return these two to their tent. We must prepare the goddess."
-    hp "Return these two to their tent. We must prepare the goddess."
+    hp "把这两个人送回帐篷。我们必须为女神做准备。"
 
 # game/code/e03/e03s04.rpy:715
 translate chinese e03s04_62e01729:
 
     # "Cult Member" "Yes, High Priestess."
-    "邪教成员" "Yes, High Priestess."
+    "邪教成员" "遵命，大祭司。"
 
 # game/code/e03/e03s04.rpy:719
 translate chinese e03s04_10223704:
 
     # sy "{size=*0.6}Mmmm... Just a useless bitch to breed...{/size}"
-    sy "{size=*0.6}Mmmm... Just a useless bitch to breed...{/size}"
+    sy "{size=*0.6}嗯嗯嗯... 只是用来繁殖的无用婊子...{/size}"
 
 # game/code/e03/e03s04.rpy:727
 translate chinese e03s04_39da6fa0:
 
     # sy "Sooooo..."
-    sy "Sooooo..."
+    sy "那么..."
 
 # game/code/e03/e03s04.rpy:730
 translate chinese e03s04_2b35b6fe:
@@ -1268,179 +1268,179 @@ translate chinese e03s04_2b35b6fe:
 translate chinese e03s04_6c8c76d4:
 
     # sy "Are we going to talk about it?"
-    sy "Are we going to talk about it?"
+    sy "我们要谈谈吗？"
 
 # game/code/e03/e03s04.rpy:736
 translate chinese e03s04_05500ff6:
 
     # mc "Huh?"
-    mc "Huh?"
+    mc "嗯？"
 
 # game/code/e03/e03s04.rpy:740
 translate chinese e03s04_e0091528:
 
     # sy "Look, I had no idea that talking about cumming in me and breeding and all that was going to be such a turn on, okay?"
-    sy "Look, I had no idea that talking about cumming in me and breeding and all that was going to be such a turn on, okay?"
+    sy "听着，我不知道谈论在我体内射精和生育之类的话题会让我这么兴奋，好吗？"
 
 # game/code/e03/e03s04.rpy:743
 translate chinese e03s04_3034e3be:
 
     # sy "I am a little embarrassed about how horny I got, which is a new thing for me. But, I also want to do it again because it was super hot."
-    sy "I am a little embarrassed about how horny I got, which is a new thing for me. But, I also want to do it again because it was super hot."
+    sy "我对自己变得这么饥渴感到有点尴尬，这对我来说还是第一次。但是，我还想再做一次，因为太刺激了。"
 
 # game/code/e03/e03s04.rpy:746
 translate chinese e03s04_6f9c525c:
 
     # mc "Do you think Lyssa is okay?"
-    mc "Do you think Lyssa is okay?"
+    mc "你觉得丽莎还好吧？"
 
 # game/code/e03/e03s04.rpy:750
 translate chinese e03s04_fb482563:
 
     # sy "Did you hear what I just said? I'm over here bearing my perverted little soul to you, and you're thinking about Lyssa!?"
-    sy "Did you hear what I just said? I'm over here bearing my perverted little soul to you, and you're thinking about Lyssa!?"
+    sy "你听到我刚才说的话了吗？我在这儿向你袒露我变态的卑微灵魂，而你却在想着丽莎!?"
 
 # game/code/e03/e03s04.rpy:753
 translate chinese e03s04_0cded40e:
 
     # mc "Of course I am. I know you're a pervert Stacy, and I'll always love you - no matter how freaky things get."
-    mc "Of course I am. I know you're a pervert Stacy, and I'll always love you - no matter how freaky things get."
+    mc "当然了。我知道你是个变态，史黛西，无论事情变得多么怪异，我都会永远爱你。"
 
 # game/code/e03/e03s04.rpy:758
 translate chinese e03s04_e3988bc7:
 
     # mc "I love you, not just because you're my sister, but because I love {i}you{/i}, Stacy, for the person you are."
-    mc "I love you, not just because you're my sister, but because I love {i}you{/i}, Stacy, for the person you are."
+    mc "我爱你，不仅仅因为你是我妹妹，还因为我爱的是{i}你{/i}，史黛西，因为你这个人。"
 
 # game/code/e03/e03s04.rpy:760
 translate chinese e03s04_772f6d1f:
 
     # mc "I love you, not just because you're my best friend, but because I love {i}you{/i}, Stacy, for the person you are."
-    mc "I love you, not just because you're my best friend, but because I love {i}you{/i}, Stacy, for the person you are."
+    mc "我爱你，不仅仅因为你是我最好的朋友，还因为我爱的是{i}你{/i}，史黛西，因为你这个人。"
 
 # game/code/e03/e03s04.rpy:764
 translate chinese e03s04_5e5785e3:
 
     # sy "Oh, [mcname]..."
-    sy "Oh, [mcname]..."
+    sy "哦，[mcname]..."
 
 # game/code/e03/e03s04.rpy:767
 translate chinese e03s04_72deddfa:
 
     # mc "And I know you feel the same way."
-    mc "And I know you feel the same way."
+    mc "我知道你有同样的感觉。"
 
 # game/code/e03/e03s04.rpy:770
 translate chinese e03s04_2dc725b6:
 
     # sy "I... I..."
-    sy "I... I..."
+    sy "我...我..."
 
 # game/code/e03/e03s04.rpy:773
 translate chinese e03s04_5b503575:
 
     # mc "Plus, I heard what you said while you were in your post-creampie bliss about loving me and Lyssa."
-    mc "Plus, I heard what you said while you were in your post-creampie bliss about loving me and Lyssa."
+    mc "另外，我听到你在高潮后的幸福时刻说爱我以及丽莎。"
 
 # game/code/e03/e03s04.rpy:777
 translate chinese e03s04_6148297e:
 
     # sy "Hey! What I say in the throes of passion can't be used against me!"
-    sy "Hey! What I say in the throes of passion can't be used against me!"
+    sy "嘿！激情中说出来的话不能用来对付我！"
 
 # game/code/e03/e03s04.rpy:784
 translate chinese e03s04_a2e9a08a:
 
     # mc "I am worried about Lyssa, though."
-    mc "I am worried about Lyssa, though."
+    mc "不过我还是为丽莎担心。"
 
 # game/code/e03/e03s04.rpy:787
 translate chinese e03s04_12defc4e:
 
     # sy "Me too..."
-    sy "Me too..."
+    sy "我也是..."
 
 # game/code/e03/e03s04.rpy:791
 translate chinese e03s04_8a34f54e:
 
     # mc "What was all that stuff about Lyssa being a goddess?"
-    mc "What was all that stuff about Lyssa being a goddess?"
+    mc "关于丽莎是女神的那些话是什么意思？"
 
 # game/code/e03/e03s04.rpy:794
 translate chinese e03s04_9a5b5588:
 
     # mc "And why did Lyssa go along with it? I don't think she has any weird delusions of grandeur."
-    mc "And why did Lyssa go along with it? I don't think she has any weird delusions of grandeur."
+    mc "丽莎为什么愿意配合呢？我觉得她没有那种不切实际的妄想。"
 
 # game/code/e03/e03s04.rpy:797
 translate chinese e03s04_92235198:
 
     # sy "She has to have a plan, right?"
-    sy "She has to have a plan, right?"
+    sy "她肯定有计划的，对吗？"
 
 # game/code/e03/e03s04.rpy:801
 translate chinese e03s04_fc93c498:
 
     # mc "Knowing Lyssa, she definitely does."
-    mc "Knowing Lyssa, she definitely does."
+    mc "以我对丽莎的了解，她肯定有计划的。"
 
 # game/code/e03/e03s04.rpy:804
 translate chinese e03s04_c1ef3a7a:
 
     # sy "I guess we should just go along with it for now?"
-    sy "I guess we should just go along with it for now?"
+    sy "我想我们暂时只能顺其自然了？"
 
 # game/code/e03/e03s04.rpy:807
 translate chinese e03s04_88a8805c:
 
     # mc "Yeah. I mean, there's not much we can do about it. Right?"
-    mc "Yeah. I mean, there's not much we can do about it. Right?"
+    mc "是的。我是说，我们对此无能为力。对吗？"
 
 # game/code/e03/e03s04.rpy:811
 translate chinese e03s04_c51e8535:
 
     # sy "Uh huh..."
-    sy "Uh huh..."
+    sy "嗯..."
 
 # game/code/e03/e03s04.rpy:814
 translate chinese e03s04_0b966242:
 
     # mc "So I guess we just wait until that weird guy comes back and tells us what to do."
-    mc "So I guess we just wait until that weird guy comes back and tells us what to do."
+    mc "所以我想我们只能等那个怪人回来告诉我们该怎么做。"
 
 # game/code/e03/e03s04.rpy:817
 translate chinese e03s04_f232ee28:
 
     # sy "Uh huh....."
-    sy "Uh huh....."
+    sy "嗯..."
 
 # game/code/e03/e03s04.rpy:821
 translate chinese e03s04_ace2a57c:
 
     # mc "You know... I think I could go another round."
-    mc "You know... I think I could go another round."
+    mc "你知道...我想我可以再来一轮。"
 
 # game/code/e03/e03s04.rpy:824
 translate chinese e03s04_d9fc70c6:
 
     # mc "Stacy?"
-    mc "Stacy?"
+    mc "史黛西？"
 
 # game/code/e03/e03s04.rpy:825
 translate chinese e03s04_2ee4c6c9:
 
     # mc "Stacy? Hello?"
-    mc "Stacy? Hello?"
+    mc "史黛西？喂？"
 
 # game/code/e03/e03s04.rpy:830
 translate chinese e03s04_d88d270e:
 
     # mc "I guess a nap is a good way to pass the time too."
-    mc "I guess a nap is a good way to pass the time too."
+    mc "行吧，打个盹也是消磨时间的好方法。"
 
 translate chinese strings:
 
     # game/code/e03/e03s04.rpy:42
     old "The Next Day????"
-    new "The Next Day????"
+    new "第二天????"
 
