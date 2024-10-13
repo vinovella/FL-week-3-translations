@@ -530,527 +530,527 @@ translate chinese e03s05_8be626a8:
 translate chinese e03s05_d1da4f41:
 
     # mc "Don't worry, we'll get you some water."
-    mc "Don't worry, we'll get you some water."
+    mc "别担心，我们会给你拿点水。"
 
 # game/code/e03/e03s05.rpy:304
 translate chinese e03s05_649f2889:
 
     # hp "My followers, I am so happy to be standing here this evening. As was promised and foretold, our goddess has come to us!"
-    hp "My followers, I am so happy to be standing here this evening. As was promised and foretold, our goddess has come to us!"
+    hp "我的追随者们，今晚能站在这里我感到非常高兴。正如我们承诺和预言的那样，我们的女神降临了！"
 
 # game/code/e03/e03s05.rpy:311
 translate chinese e03s05_fccb765e:
 
     # hp "Tonight, I am proud to welcome Dyma, the goddess of beauty and love, to this mortal plane."
-    hp "Tonight, I am proud to welcome Dyma, the goddess of beauty and love, to this mortal plane."
+    hp "今晚，我很荣幸地欢迎美丽与爱之女神--迪玛，来到这个凡间。"
 
 # game/code/e03/e03s05.rpy:321
 translate chinese e03s05_dad73a2c:
 
     # "Cult Member" "Thank you, goddess! Thank you, Dyma!"
-    "Cult Member" "Thank you, goddess! Thank you, Dyma!"
+    "邪教成员" "谢谢您，女神！谢谢您，迪玛！"
 
 # game/code/e03/e03s05.rpy:325
 translate chinese e03s05_1687cf73:
 
     # mc "Oh my God..."
-    mc "Oh my God..."
+    mc "哦，我的天..."
 
 # game/code/e03/e03s05.rpy:328
 translate chinese e03s05_70960050:
 
     # sy "Uh huh. These people are all cuckoo for cocoa puffs!"
-    sy "Uh huh. These people are all cuckoo for cocoa puffs!"
+    sy "嗯哼。这些人都是失去理智的疯子！"
 
 # game/code/e03/e03s05.rpy:331
 translate chinese e03s05_ae4ea4c8:
 
     # mc "Yeah. This isn't going to be easy..."
-    mc "Yeah. This isn't going to be easy..."
+    mc "是的。这可不会容易..."
 
 # game/code/e03/e03s05.rpy:334
 translate chinese e03s05_fdc03554:
 
     # sy "But... is it just me, or is Lyssa kind of extra hot all painted in gold like that?"
-    sy "But... is it just me, or is Lyssa kind of extra hot all painted in gold like that?"
+    sy "但是...是只有我一个人这么想，还是丽莎涂成金色后真的特别性感？"
 
 # game/code/e03/e03s05.rpy:337
 translate chinese e03s05_cbd48e7f:
 
     # mc "Come on, Stacy. We need to stay focused!"
-    mc "Come on, Stacy. We need to stay focused!"
+    mc "拜托，史黛西。我们需要集中注意力！"
 
 # game/code/e03/e03s05.rpy:340
 translate chinese e03s05_827c900d:
 
     # sy "Right! Focused. Not thinking about Lyssa's golden cock."
-    sy "Right! Focused. Not thinking about Lyssa's golden cock."
+    sy "对哦！集中注意力。不要去想丽莎的金色鸡巴。"
 
 # game/code/e03/e03s05.rpy:348
 translate chinese e03s05_4edb5d8a:
 
     # hp "What is your first decree, my goddess?"
-    hp "What is your first decree, my goddess?"
+    hp "我的女神，您的第一道旨意是什么？"
 
 # game/code/e03/e03s05.rpy:351
 translate chinese e03s05_57386899:
 
     # mh "I think, I would like to get to know each member of my... church, personally."
-    mh "I think, I would like to get to know each member of my... church, personally."
+    mh "我想，我想亲自认识我的...教会的每一位成员。"
 
 # game/code/e03/e03s05.rpy:354
 translate chinese e03s05_9b1fdff9:
 
     # hp "Yes, my goddess! You should speak with-"
-    hp "Yes, my goddess! You should speak with-"
+    hp "好的，我的女神！您应该先和--"
 
 # game/code/e03/e03s05.rpy:357
 translate chinese e03s05_1330f1ad:
 
     # mh "I shall decide who speaks to me first."
-    mh "I shall decide who speaks to me first."
+    mh "我来决定谁先跟我说话。"
 
 # game/code/e03/e03s05.rpy:359
 translate chinese e03s05_453659db:
 
     # mh "First, I would like to speak to those two. They who helped me ascend."
-    mh "First, I would like to speak to those two. They who helped me ascend."
+    mh "首先，我想和那两个人谈谈。是他们帮助我登上了神坛。"
 
 # game/code/e03/e03s05.rpy:362
 translate chinese e03s05_13a52eb7:
 
     # hp "Of course, Dyma...{w} You two! Approach the goddess and pay your respects!"
-    hp "Of course, Dyma...{w} You two! Approach the goddess and pay your respects!"
+    hp "当然，迪玛...{w}你们两个！快向女神致敬！"
 
 # game/code/e03/e03s05.rpy:366
 translate chinese e03s05_6119b1c5:
 
     # mc "Hey, Ly-"
-    mc "Hey, Ly-"
+    mc "嘿，丽--"
 
 # game/code/e03/e03s05.rpy:368
 translate chinese e03s05_33184c6d:
 
     # hp "Kneel."
-    hp "Kneel."
+    hp "跪下。"
 
 # game/code/e03/e03s05.rpy:370
 translate chinese e03s05_5ef43fce:
 
     # sy "Huh?"
-    sy "Huh?"
+    sy "啊？"
 
 # game/code/e03/e03s05.rpy:371
 translate chinese e03s05_57516065:
 
     # hp "Show your respect and bow before the goddess!"
-    hp "Show your respect and bow before the goddess!"
+    hp "在女神面前表现出你的尊敬，鞠躬！"
 
 # game/code/e03/e03s05.rpy:374
 translate chinese e03s05_a5ec958e:
 
     # mc "Oh, uhm..."
-    mc "Oh, uhm..."
+    mc "哦，呃..."
 
 # game/code/e03/e03s05.rpy:376
 translate chinese e03s05_c097dd97:
 
     # mc "Uhm, thank you for choosing us, goddess, to speak to you."
-    mc "Uhm, thank you for choosing us, goddess, to speak to you."
+    mc "呃，感谢您选择我们，女神，谢谢您让我们与您对话。"
 
 # game/code/e03/e03s05.rpy:379
 translate chinese e03s05_410fd3af:
 
     # hp "Good. That is the right reverence to show the mighty Dyma."
-    hp "Good. That is the right reverence to show the mighty Dyma."
+    hp "很好。这才是对伟大的迪玛应有的尊敬。"
 
 # game/code/e03/e03s05.rpy:382
 translate chinese e03s05_41f05e1f:
 
     # mh "I would like to speak to my members alone, High Priestess."
-    mh "I would like to speak to my members alone, High Priestess."
+    mh "我想和我的成员们单独谈谈，大祭司。"
 
 # game/code/e03/e03s05.rpy:385
 translate chinese e03s05_98e313a2:
 
     # hp "But-"
-    hp "But-"
+    hp "但是--"
 
 # game/code/e03/e03s05.rpy:388
 translate chinese e03s05_dd395e92:
 
     # mh "You dare question your goddess?"
-    mh "You dare question your goddess?"
+    mh "你敢质疑你的女神？"
 
 # game/code/e03/e03s05.rpy:392
 translate chinese e03s05_c19c7ccb:
 
     # hp "No, Dyma. My deepest apologies. I will leave you to your grand plan."
-    hp "No, Dyma. My deepest apologies. I will leave you to your grand plan."
+    hp "不敢，迪玛。我深表歉意。我不再打扰您了，请继续您的宏伟计划吧。"
 
 # game/code/e03/e03s05.rpy:396
 translate chinese e03s05_68f30313:
 
     # mh "Boy, am I glad to see you two."
-    mh "Boy, am I glad to see you two."
+    mh "天哪，真高兴看到你们俩。"
 
 # game/code/e03/e03s05.rpy:399
 translate chinese e03s05_fabb0468:
 
     # mc "Lyssa! Are you okay?"
-    mc "Lyssa! Are you okay?"
+    mc "丽莎！你没事吧？"
 
 # game/code/e03/e03s05.rpy:402
 translate chinese e03s05_78eac12a:
 
     # mh "Minus being painted gold and looking absolutely ridiculous, I'm fine."
-    mh "Minus being painted gold and looking absolutely ridiculous, I'm fine."
+    mh "除了被涂成金色，看起来非常滑稽之外，我很好。"
 
 # game/code/e03/e03s05.rpy:405
 translate chinese e03s05_e1eddaa7:
 
     # sy "I think the gold makes you look hot."
-    sy "I think the gold makes you look hot."
+    sy "我觉得金色让你看起来很性感。"
 
 # game/code/e03/e03s05.rpy:408
 translate chinese e03s05_87089892:
 
     # mh "Thank you, Stacy."
-    mh "Thank you, Stacy."
+    mh "谢谢你，史黛西。"
 
 # game/code/e03/e03s05.rpy:412
 translate chinese e03s05_6736420a:
 
     # mc "What have they been doing to you?"
-    mc "What have they been doing to you?"
+    mc "他们对你做了什么？"
 
 # game/code/e03/e03s05.rpy:415
 translate chinese e03s05_3d35a7bb:
 
     # mh "Mostly pampering and propaganda. The High Priestess is a zealot, absolutely. I think she actually believes I'm a goddess."
-    mh "Mostly pampering and propaganda. The High Priestess is a zealot, absolutely. I think she actually believes I'm a goddess."
+    mh "主要是纵容和宣传。大祭司绝对是个狂热分子。我觉得她真的相信我是女神。"
 
 # game/code/e03/e03s05.rpy:418
 translate chinese e03s05_28fbe8b3:
 
     # mc "Apparently it's not the first time they've thought that about someone."
-    mc "Apparently it's not the first time they've thought that about someone."
+    mc "显然，他们不是第一次这么认为了。"
 
 # game/code/e03/e03s05.rpy:421
 translate chinese e03s05_9cf607e4:
 
     # mh "What?"
-    mh "What?"
+    mh "什么？"
 
 # game/code/e03/e03s05.rpy:424
 translate chinese e03s05_92bb3e78:
 
     # sy "[mcname] found someone locked up in a cell that looks exactly like you. They thought she was the goddess but I guess she didn't have the right bits."
-    sy "[mcname] found someone locked up in a cell that looks exactly like you. They thought she was the goddess but I guess she didn't have the right bits."
+    sy "[mcname]发现有人被关在牢房里，长得和你一模一样。他们以为她是女神，但我觉得她缺少了某些该有的部位。"
 
 # game/code/e03/e03s05.rpy:428
 translate chinese e03s05_bb334e41:
 
     # mh "Right bits?"
-    mh "Right bits?"
+    mh "该有的部位？"
 
 # game/code/e03/e03s05.rpy:431
 translate chinese e03s05_3443ddf9:
 
     # mc "She's got a vagina. Apparently, being trans is an important element to being Dyma."
-    mc "She's got a vagina. Apparently, being trans is an important element to being Dyma."
+    mc "她有阴道。显然，变性是成为迪玛的一个重要因素。"
 
 # game/code/e03/e03s05.rpy:434
 translate chinese e03s05_8b33030e:
 
     # mh "Ahh. But you said she's locked up?"
-    mh "Ahh. But you said she's locked up?"
+    mh "啊。但你说她被关起来了？"
 
 # game/code/e03/e03s05.rpy:438
 translate chinese e03s05_b05836d6:
 
     # mc "Uh huh. They've got prisoner cells in this cave."
-    mc "Uh huh. They've got prisoner cells in this cave."
+    mc "嗯。这个洞穴里有囚室。"
 
 # game/code/e03/e03s05.rpy:441
 translate chinese e03s05_26081f40:
 
     # mh "The High Priestess conveniently left that out of the tour..."
-    mh "The High Priestess conveniently left that out of the tour..."
+    mh "大祭司在参观时故意没提到这个..."
 
 # game/code/e03/e03s05.rpy:445
 translate chinese e03s05_7153c56d:
 
     # sy "But it sounds like we don't even need the camera anymore. If we can get her out, then we'll have all the proof we need!"
-    sy "But it sounds like we don't even need the camera anymore. If we can get her out, then we'll have all the proof we need!"
+    sy "但听起来我们甚至不需要相机了。如果我们能把她救出来，我们就能得到所有需要的证据！"
 
 # game/code/e03/e03s05.rpy:448
 translate chinese e03s05_098ab7a9:
 
     # mh "I managed to get the camera back after they took our clothes and I've been recording for a few days."
-    mh "I managed to get the camera back after they took our clothes and I've been recording for a few days."
+    mh "在他们拿走我们的衣服后，我设法把相机拿回来了，我已经录了几天了。"
 
 # game/code/e03/e03s05.rpy:449
 translate chinese e03s05_37f47cf0:
 
     # mh "But that, plus an eyewitness testimony is more than enough to get a warrant and to shut this place down."
-    mh "But that, plus an eyewitness testimony is more than enough to get a warrant and to shut this place down."
+    mh "凭借相机，再加上目击者的证词，足以让我们拿到搜查令，关闭这个地方了。"
 
 # game/code/e03/e03s05.rpy:452
 translate chinese e03s05_0b776a27:
 
     # sy "But how are we going to get her out?"
-    sy "But how are we going to get her out?"
+    sy "但是我们要怎么把她救出来呢？"
 
 # game/code/e03/e03s05.rpy:454
 translate chinese e03s05_cbba5259:
 
     # mc "What we need is a distraction."
-    mc "What we need is a distraction."
+    mc "我们需要分散注意力。"
 
 # game/code/e03/e03s05.rpy:458
 translate chinese e03s05_9f4ba8e2:
 
     # mh "I have just the thing."
-    mh "I have just the thing."
+    mh "我有办法。"
 
 # game/code/e03/e03s05.rpy:462
 translate chinese e03s05_17aa5b41:
 
     # mh "I have realized, that I have forgotten that this is a celebration! A veritable feast for my arrival!"
-    mh "I have realized, that I have forgotten that this is a celebration! A veritable feast for my arrival!"
+    mh "我刚意识到，我忘了今晚是庆祝活动！这是一场为欢迎我的到来而准备的盛宴！"
 
 # game/code/e03/e03s05.rpy:465
 translate chinese e03s05_75163ac9:
 
     # hp "My goddess, we did not prepare food for you to enjoy this evening."
-    hp "My goddess, we did not prepare food for you to enjoy this evening."
+    hp "我的女神，我们今晚没有准备食物让您享用。"
 
 # game/code/e03/e03s05.rpy:468
 translate chinese e03s05_a015c69c:
 
     # mh "I did not mean a feast of food, I mean of the more {i}carnal{/i} variety."
-    mh "I did not mean a feast of food, I mean of the more {i}carnal{/i} variety."
+    mh "我指的不是美食盛宴，而是更{i}肉欲的{/i}盛宴。"
 
 # game/code/e03/e03s05.rpy:470
 translate chinese e03s05_2628190a:
 
     # hp "My goddess?"
-    hp "My goddess?"
+    hp "我的女神？"
 
 # game/code/e03/e03s05.rpy:473
 translate chinese e03s05_9cefff57:
 
     # mh "Am I not the goddess of love?"
-    mh "Am I not the goddess of love?"
+    mh "我不是爱的女神吗？"
 
 # game/code/e03/e03s05.rpy:475
 translate chinese e03s05_8b555851:
 
     # mh "An orgy is the only festivity to consecrate my arrival!"
-    mh "An orgy is the only festivity to consecrate my arrival!"
+    mh "狂欢是庆祝我到来的唯一方式！"
 
 # game/code/e03/e03s05.rpy:484
 translate chinese e03s05_2409b2c6:
 
     # mc "{size=*0.6}Stacy! What are you doing?{/size}"
-    mc "{size=*0.6}Stacy! What are you doing?{/size}"
+    mc "{size=*0.6}史黛西！你在做什么？{/size}"
 
 # game/code/e03/e03s05.rpy:487
 translate chinese e03s05_b48392da:
 
     # sy "Getting ready for the orgy! What are you doing?"
-    sy "Getting ready for the orgy! What are you doing?"
+    sy "准备好狂欢啊！你又在做什么？"
 
 # game/code/e03/e03s05.rpy:490
 translate chinese e03s05_95462312:
 
     # mc "{size=*0.6}The orgy is a distraction so we can go free Chiara!{/size}"
-    mc "{size=*0.6}The orgy is a distraction so we can go free Chiara!{/size}"
+    mc "{size=*0.6}狂欢是为了分散他们的注意力，这样我们就可以去解救琪亚拉了！{/size}"
 
 # game/code/e03/e03s05.rpy:493
 translate chinese e03s05_6a58fdd4:
 
     # sy "Ohhh yeaaaaahhhh...{w} But what about the orgy?"
-    sy "Ohhh yeaaaaahhhh...{w} But what about the orgy?"
+    sy "哦是哦...{w}那狂欢派对怎么办？"
 
 # game/code/e03/e03s05.rpy:494
 translate chinese e03s05_d03c2a0d:
 
     # mc "{size=*0.6}We can have our own orgy later!{/size}"
-    mc "{size=*0.6}We can have our own orgy later!{/size}"
+    mc "{size=*0.6}我们可以晚点再狂欢！{/size}"
 
 # game/code/e03/e03s05.rpy:497
 translate chinese e03s05_17891617:
 
     # sy "Fiiiiiine."
-    sy "Fiiiiiine."
+    sy "那行吧。"
 
 # game/code/e03/e03s05.rpy:502
 translate chinese e03s05_6670dc23:
 
     # mh "Once they get started, we can make our escape."
-    mh "Once they get started, we can make our escape."
+    mh "他们一旦开始，我们就可以逃走了。"
 
 # game/code/e03/e03s05.rpy:505
 translate chinese e03s05_74c498aa:
 
     # mc "Sounds good to me."
-    mc "Sounds good to me."
+    mc "我觉得不错。"
 
 # game/code/e03/e03s05.rpy:516
 translate chinese e03s05_0e181c63:
 
     # mh "I think their attention is occupied. Let's go."
-    mh "I think their attention is occupied. Let's go."
+    mh "我觉得他们的注意力被吸引了。我们走吧。"
 
 # game/code/e03/e03s05.rpy:518
 translate chinese e03s05_68a5da2f:
 
     # sy "Lead the way, [mcname]!"
-    sy "Lead the way, [mcname]!"
+    sy "带路，[mcname]！"
 
 # game/code/e03/e03s05.rpy:530
 translate chinese e03s05_699878f6:
 
     # mc "Hey!"
-    mc "Hey!"
+    mc "嘿！"
 
 # game/code/e03/e03s05.rpy:533
 translate chinese e03s05_bf34bb1a:
 
     # ca "Is this the rescue party?"
-    ca "Is this the rescue party?"
+    ca "这是你们的救援队吗？"
 
 # game/code/e03/e03s05.rpy:536
 translate chinese e03s05_90c74f3e:
 
     # mc "It is! Let's get you out of here."
-    mc "It is! Let's get you out of here."
+    mc "是的！我们带你离开这里。"
 
 # game/code/e03/e03s05.rpy:539
 translate chinese e03s05_79cf2d46:
 
     # ca "Quick, before the guard gets back."
-    ca "Quick, before the guard gets back."
+    ca "快，趁守卫还没回来。"
 
 # game/code/e03/e03s05.rpy:542
 translate chinese e03s05_335a8173:
 
     # sy "Oh, you don't have to worry about that. Lyssa here demanded an orgy we're all missing so he's probably super distracted right now."
-    sy "Oh, you don't have to worry about that. Lyssa here demanded an orgy we're all missing so he's probably super distracted right now."
+    sy "哦，你不用担心这个。丽莎要求大家狂欢，我们错过了，所以他现在可能正心不在焉呢。"
 
 # game/code/e03/e03s05.rpy:546
 translate chinese e03s05_5e4216e8:
 
     # ca "Huh. Aren't you a little short to be a goddess?"
-    ca "Huh. Aren't you a little short to be a goddess?"
+    ca "嗯。你当女神是不是有点矮？"
 
 # game/code/e03/e03s05.rpy:549
 translate chinese e03s05_b2bd1c26:
 
     # mh "Maybe. But, we can talk about that later."
-    mh "Maybe. But, we can talk about that later."
+    mh "也许吧。不过，我们以后再讨论这个。"
 
 # game/code/e03/e03s05.rpy:552
 translate chinese e03s05_45df229a:
 
     # ca "There's one small hitch in the plan. The door is locked and I don't know where the key is."
-    ca "There's one small hitch in the plan. The door is locked and I don't know where the key is."
+    ca "计划中有一个小问题。门被锁上了，我不知道钥匙在哪里。"
 
 # game/code/e03/e03s05.rpy:556
 translate chinese e03s05_a865e238:
 
     # sy "Leave that to me."
-    sy "Leave that to me."
+    sy "交给我吧。"
 
 # game/code/e03/e03s05.rpy:559
 translate chinese e03s05_ba3dc4d0:
 
     # mc "Stacy, what are you doing?"
-    mc "Stacy, what are you doing?"
+    mc "史黛西，你在做什么？"
 
 # game/code/e03/e03s05.rpy:562
 translate chinese e03s05_0fb8c7e4:
 
     # sy "I'm going to pick the lock!"
-    sy "I'm going to pick the lock!"
+    sy "我要撬锁！"
 
 # game/code/e03/e03s05.rpy:564
 translate chinese e03s05_153e8d4e:
 
     # mh "You know how to pick locks?"
-    mh "You know how to pick locks?"
+    mh "你会撬锁？"
 
 # game/code/e03/e03s05.rpy:566
 translate chinese e03s05_21396c9c:
 
     # sy "Uh huh!"
-    sy "Uh huh!"
+    sy "嗯哼！"
 
 # game/code/e03/e03s05.rpy:569
 translate chinese e03s05_5cacd0ea:
 
     # mc "Bull shit."
-    mc "Bull shit."
+    mc "胡说八道。"
 
 # game/code/e03/e03s05.rpy:572
 translate chinese e03s05_4b8e46f1:
 
     # sy "You think all those times I walked in on you in the bathroom was because you 'accidentally' left the door unlocked?"
-    sy "You think all those times I walked in on you in the bathroom was because you 'accidentally' left the door unlocked?"
+    sy "你以为我每次在浴室撞见你都是因为你‘不小心’忘记锁门吗？"
 
 # game/code/e03/e03s05.rpy:575
 translate chinese e03s05_05206d8b:
 
     # mc "I knew I wasn't forgetting to lock the door!"
-    mc "I knew I wasn't forgetting to lock the door!"
+    mc "我就知道我没有忘记锁门！"
 
 # game/code/e03/e03s05.rpy:578
 translate chinese e03s05_e9b4b8ea:
 
     # sy "And, done!"
-    sy "And, done!"
+    sy "好了！"
 
 # game/code/e03/e03s05.rpy:583
 translate chinese e03s05_090c41a9:
 
     # mc "What do you say we blow this popsicle stand?"
-    mc "What do you say we blow this popsicle stand?"
+    mc "我们炸掉这个冰棒摊怎么样？"
 
 # game/code/e03/e03s05.rpy:586
 translate chinese e03s05_0d852b67:
 
     # ca "Please!"
-    ca "Please!"
+    ca "求之不得！"
 
 # game/code/e03/e03s05.rpy:594
 translate chinese e03s05_5e156a9d:
 
     # sy "Do you think they'll notice we've gone?"
-    sy "Do you think they'll notice we've gone?"
+    sy "你觉得他们会注意到我们离开了吗？"
 
 # game/code/e03/e03s05.rpy:598
 translate chinese e03s05_864af616:
 
     # mc "I doubt it. By the time they realize what's happened, we'll be long gone."
-    mc "I doubt it. By the time they realize what's happened, we'll be long gone."
+    mc "我表示怀疑。当他们意识到发生了什么时，我们早就走了。"
 
 # game/code/e03/e03s05.rpy:601
 translate chinese e03s05_931a3c6a:
 
     # ca "Can we not sit and talk about it, and get out of here?"
-    ca "Can we not sit and talk about it, and get out of here?"
+    ca "我们能不能不要坐在这里谈论这件事，直接离开不好吗？"
 
 # game/code/e03/e03s05.rpy:604
 translate chinese e03s05_2495ebb3:
 
     # mc "Yep! Yep, yep, yep!"
-    mc "Yep! Yep, yep, yep!"
+    mc "哦！对！对！对！"
 
 translate chinese strings:
 
     # game/code/e03/e03s05.rpy:3
     old "Later"
-    new "Later"
+    new "晚些时候"
 
