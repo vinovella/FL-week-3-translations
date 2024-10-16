@@ -1570,12 +1570,6 @@ translate korean d21s06_reboot_fl_e8bc5c3f:
     # sy "Do you want it to be in writing?"
     sy "서면으로 작성할까?"
 
-# game/code/d21/d21s06.rpy:716
-translate korean d21s06_reboot_fl_6d70e240:
-
-    # arj "Okay, okay. I don't think you guys have any ill will like the developers behind Fetish Locator."
-    arj "됐어, 됐어. 페티시 로케이터 배후에 있던 인간들처럼 너희가 나쁜 녀석이라고 생각하진 않으니까."
-
 # game/code/d21/d21s06.rpy:717
 translate korean d21s06_reboot_fl_e3616b15:
 
@@ -1605,12 +1599,6 @@ translate korean d21s06_reboot_fl_1e4e84ed:
 
     # sy "Can you be a little more specific? What don't you want to happen again?"
     sy "좀 더 구체적으로 말해 줄 수 있어? 무슨 문제가 되풀이되지 않길 원하는 거야?"
-
-# game/code/d21/d21s06.rpy:728
-translate korean d21s06_reboot_fl_bec7bdda:
-
-    # arj "All the cons I stated. No to lies, the deceit, the manipulation."
-    arj "내가 말했던 모든 단점들. 거짓말, 사기, 조작 전부 안 돼."
 
 # game/code/d21/d21s06.rpy:731
 translate korean d21s06_reboot_fl_d3a6634e:
@@ -1690,12 +1678,6 @@ translate korean d21s06_reboot_fl_a0e38f39:
     # arj "Oh, now you're going to make me blush."
     arj "오, 내 볼이 다 빨게 지겠다."
 
-# game/code/d21/d21s06.rpy:763
-translate korean d21s06_reboot_fl_ad278b3d:
-
-    # sy "Now, let's start putting together some of the finer details, and about how we start talking about initial people we can let into this offering."
-    sy "이제, 계획을 더 구체적으로 세워 보자구. 그리고 이 제품을 사용할 초기 인원에 대해서도 생각해 봐야지."
-
 # game/code/d21/d21s06.rpy:766
 translate korean d21s06_reboot_fl_8db8be57:
 
@@ -1713,96 +1695,6 @@ translate korean d21s06_reboot_fl_9e70a3cd:
 
     # mc "So where should we get started first?"
     mc "그럼 어디서부터 시작하지?"
-
-# game/code/d21/d21s06.rpy:772
-translate korean d21s06_reboot_fl_0d92e239:
-
-    # mc "Do you know anyone? Any investors?"
-    mc "아는 사람 있어? 투자자는?"
-
-# game/code/d21/d21s06.rpy:775
-translate korean d21s06_reboot_fl_0e58addf:
-
-    # sy "Investors?"
-    sy "투자자?"
-
-# game/code/d21/d21s06.rpy:778
-translate korean d21s06_reboot_fl_f0aedc6b:
-
-    # mc "Well, in order to start a business, you would have to have some, wouldn't you?"
-    mc "응, 사업을 시작해야 하니까, 투자를 좀 받아야지, 안 그래?"
-
-# game/code/d21/d21s06.rpy:781
-translate korean d21s06_reboot_fl_3da9e714:
-
-    # sy "Well, at first, I was thinking about actually having some content first before we start the company."
-    sy "음, 회사를 세우기 전에 내용부터 좀 만들 생각이었는데."
-
-# game/code/d21/d21s06.rpy:782
-translate korean d21s06_reboot_fl_018cbf7d:
-
-    # sy "Build a reputation, you know?"
-    sy "명성을 쌓아야 하잖아, 그치?"
-
-# game/code/d21/d21s06.rpy:785
-translate korean d21s06_reboot_fl_192c5851:
-
-    # mc "That's called marketing."
-    mc "그걸 홍보라고 하는 거야."
-
-# game/code/d21/d21s06.rpy:788
-translate korean d21s06_reboot_fl_e45dc7f1:
-
-    # sy "Yeah, but we are the brand, don't forget. We are the company. So we need to start thinking of films that we can shoot, and then we can form the company."
-    sy "그래, 근데 우리가 간판이고, 우리가 회사라는 점 잊지 마. 촬영할 영상에 관해서 먼저 생각해 봐. 그래야 회사를 설립할 수 있다구."
-
-# game/code/d21/d21s06.rpy:791
-translate korean d21s06_reboot_fl_3acfcab7:
-
-    # mc "In the legal sense."
-    mc "법적으론 사업 목적도 생각해야 하니까 말이지."
-
-# game/code/d21/d21s06.rpy:794
-translate korean d21s06_reboot_fl_4e12a8be:
-
-    # sy "Yeah."
-    sy "그래."
-
-# game/code/d21/d21s06.rpy:795
-translate korean d21s06_reboot_fl_a3a5f868:
-
-    # sy "Let's think of the name for the app."
-    sy "앱 이름도 생각해 보자."
-
-# game/code/d21/d21s06.rpy:798
-translate korean d21s06_reboot_fl_91c8e45d:
-
-    # mc "Any ideas?"
-    mc "좋은 생각 있어?"
-
-# game/code/d21/d21s06.rpy:801
-translate korean d21s06_reboot_fl_2af34ea1:
-
-    # sy "I'll make us some coffee, and we can have a back in forth."
-    sy "커피 좀 만들어 올게, 같이 가."
-
-# game/code/d21/d21s06.rpy:804
-translate korean d21s06_reboot_fl_e5455d01:
-
-    # sy "What about Stacy's Bone Zone?"
-    sy "스테이시의 은밀 구역은 어때?"
-
-# game/code/d21/d21s06.rpy:805
-translate korean d21s06_reboot_fl_69033c5a:
-
-    # sy "Or Finder. It's like that other dating app, except I replaced the first letter with an F."
-    sy "아니면 파인더나. 다른 데이팅 앱의 앞 글자를 F로 바꾼 거지."
-
-# game/code/d21/d21s06.rpy:808
-translate korean d21s06_reboot_fl_593599a5:
-
-    # mc "Let's ask AmRose."
-    mc "앰로즈한테 물어 보자."
 
 # game/code/d21/d21s06.rpy:817
 translate korean d21s06_no_fl_2cd1dfd8:
@@ -2453,4 +2345,22 @@ translate korean d21s06_reboot_fl_b23fc0ce:
 
     # arj "It's perfect. On point and easy to understand."
     arj "It's perfect. On point and easy to understand."
+
+# game/code/d21/d21s06.rpy:684
+translate korean d21s06_reboot_fl_d0e75550:
+
+    # arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+    arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+
+# game/code/d21/d21s06.rpy:696
+translate korean d21s06_reboot_fl_82e617fe:
+
+    # arj "All the cons I stated. No lies. No deceit, and no manipulation."
+    arj "All the cons I stated. No lies. No deceit, and no manipulation."
+
+# game/code/d21/d21s06.rpy:731
+translate korean d21s06_reboot_fl_041fcc70:
+
+    # sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
+    sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
 

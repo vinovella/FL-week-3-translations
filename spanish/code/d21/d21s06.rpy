@@ -1570,12 +1570,6 @@ translate spanish d21s06_reboot_fl_e8bc5c3f:
     # sy "Do you want it to be in writing?"
     sy "¿Quieres que sea por escrito?"
 
-# game/code/d21/d21s06.rpy:716
-translate spanish d21s06_reboot_fl_6d70e240:
-
-    # arj "Okay, okay. I don't think you guys have any ill will like the developers behind Fetish Locator."
-    arj "Bien, bien. No creo que tengan mala voluntad como los desarrolladores detrás del Localizador de Fetiches."
-
 # game/code/d21/d21s06.rpy:717
 translate spanish d21s06_reboot_fl_e3616b15:
 
@@ -1605,12 +1599,6 @@ translate spanish d21s06_reboot_fl_1e4e84ed:
 
     # sy "Can you be a little more specific? What don't you want to happen again?"
     sy "¿Podrías ser un poco más específica? ¿Qué no quieres que vuelva a pasar?"
-
-# game/code/d21/d21s06.rpy:728
-translate spanish d21s06_reboot_fl_bec7bdda:
-
-    # arj "All the cons I stated. No to lies, the deceit, the manipulation."
-    arj "Todos los contras que dije. No a la mentira, al engaño, a la manipulación."
 
 # game/code/d21/d21s06.rpy:731
 translate spanish d21s06_reboot_fl_d3a6634e:
@@ -1690,12 +1678,6 @@ translate spanish d21s06_reboot_fl_a0e38f39:
     # arj "Oh, now you're going to make me blush."
     arj "Oh, ahora vas a hacer que me sonroje."
 
-# game/code/d21/d21s06.rpy:763
-translate spanish d21s06_reboot_fl_ad278b3d:
-
-    # sy "Now, let's start putting together some of the finer details, and about how we start talking about initial people we can let into this offering."
-    sy "Ahora, comencemos a juntar algunos de los detalles más finos y cómo comenzamos a hablar sobre las personas iniciales que podemos permitir en esta oferta."
-
 # game/code/d21/d21s06.rpy:766
 translate spanish d21s06_reboot_fl_8db8be57:
 
@@ -1713,96 +1695,6 @@ translate spanish d21s06_reboot_fl_9e70a3cd:
 
     # mc "So where should we get started first?"
     mc "Entonces, ¿dónde deberíamos empezar primero?"
-
-# game/code/d21/d21s06.rpy:772
-translate spanish d21s06_reboot_fl_0d92e239:
-
-    # mc "Do you know anyone? Any investors?"
-    mc "¿Conoces a alguien? ¿Algún inversor?"
-
-# game/code/d21/d21s06.rpy:775
-translate spanish d21s06_reboot_fl_0e58addf:
-
-    # sy "Investors?"
-    sy "¿Inversores?"
-
-# game/code/d21/d21s06.rpy:778
-translate spanish d21s06_reboot_fl_f0aedc6b:
-
-    # mc "Well, in order to start a business, you would have to have some, wouldn't you?"
-    mc "Bueno, para iniciar un negocio, tendrías que tener algo, ¿no es así?"
-
-# game/code/d21/d21s06.rpy:781
-translate spanish d21s06_reboot_fl_3da9e714:
-
-    # sy "Well, at first, I was thinking about actually having some content first before we start the company."
-    sy "Bueno, al principio, estaba pensando en tener algo de contenido antes de comenzar la empresa."
-
-# game/code/d21/d21s06.rpy:782
-translate spanish d21s06_reboot_fl_018cbf7d:
-
-    # sy "Build a reputation, you know?"
-    sy "Construir una reputación, ¿sabes?"
-
-# game/code/d21/d21s06.rpy:785
-translate spanish d21s06_reboot_fl_192c5851:
-
-    # mc "That's called marketing."
-    mc "Eso se llama mercadeo."
-
-# game/code/d21/d21s06.rpy:788
-translate spanish d21s06_reboot_fl_e45dc7f1:
-
-    # sy "Yeah, but we are the brand, don't forget. We are the company. So we need to start thinking of films that we can shoot, and then we can form the company."
-    sy "Sí, pero nosotros somos la marca, no lo olvides. Somos la empresa. Entonces, debemos comenzar a pensar en películas que podamos filmar, y luego podemos formar la compañía."
-
-# game/code/d21/d21s06.rpy:791
-translate spanish d21s06_reboot_fl_3acfcab7:
-
-    # mc "In the legal sense."
-    mc "En el sentido legal."
-
-# game/code/d21/d21s06.rpy:794
-translate spanish d21s06_reboot_fl_4e12a8be:
-
-    # sy "Yeah."
-    sy "Sí."
-
-# game/code/d21/d21s06.rpy:795
-translate spanish d21s06_reboot_fl_a3a5f868:
-
-    # sy "Let's think of the name for the app."
-    sy "Pensemos en el nombre de la aplicación."
-
-# game/code/d21/d21s06.rpy:798
-translate spanish d21s06_reboot_fl_91c8e45d:
-
-    # mc "Any ideas?"
-    mc "¿Algunas ideas?"
-
-# game/code/d21/d21s06.rpy:801
-translate spanish d21s06_reboot_fl_2af34ea1:
-
-    # sy "I'll make us some coffee, and we can have a back in forth."
-    sy "Nos prepararé un poco de café, y podemos tener una conversación."
-
-# game/code/d21/d21s06.rpy:804
-translate spanish d21s06_reboot_fl_e5455d01:
-
-    # sy "What about Stacy's Bone Zone?"
-    sy "¿Qué pasa con la zona ósea de Stacy?"
-
-# game/code/d21/d21s06.rpy:805
-translate spanish d21s06_reboot_fl_69033c5a:
-
-    # sy "Or Finder. It's like that other dating app, except I replaced the first letter with an F."
-    sy "O Buscador. Es como esa otra aplicación de citas, excepto que reemplacé la primera letra con una F."
-
-# game/code/d21/d21s06.rpy:808
-translate spanish d21s06_reboot_fl_593599a5:
-
-    # mc "Let's ask AmRose."
-    mc "Preguntémosle a AmRose."
 
 # game/code/d21/d21s06.rpy:817
 translate spanish d21s06_no_fl_2cd1dfd8:
@@ -2453,4 +2345,22 @@ translate spanish d21s06_reboot_fl_b23fc0ce:
 
     # arj "It's perfect. On point and easy to understand."
     arj "Es perfecto. Al grano y fácil de entender."
+
+# game/code/d21/d21s06.rpy:684
+translate spanish d21s06_reboot_fl_d0e75550:
+
+    # arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+    arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+
+# game/code/d21/d21s06.rpy:696
+translate spanish d21s06_reboot_fl_82e617fe:
+
+    # arj "All the cons I stated. No lies. No deceit, and no manipulation."
+    arj "All the cons I stated. No lies. No deceit, and no manipulation."
+
+# game/code/d21/d21s06.rpy:731
+translate spanish d21s06_reboot_fl_041fcc70:
+
+    # sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
+    sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
 

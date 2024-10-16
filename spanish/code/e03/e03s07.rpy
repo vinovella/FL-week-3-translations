@@ -1538,3 +1538,9 @@ translate spanish strings:
     old "Five months later"
     new "Five months later"
 
+translate spanish strings:
+
+    # game/code/e03/e03s07.rpy:828
+    old "You have finished playing ending 03!"
+    new "You have finished playing ending 03!"
+

@@ -1570,12 +1570,6 @@ translate chinese d21s06_reboot_fl_e8bc5c3f:
     # sy "Do you want it to be in writing?"
     sy "你要把约定落实到书面上吗？"
 
-# game/code/d21/d21s06.rpy:483
-translate chinese d21s06_reboot_fl_6d70e240:
-
-    # arj "Okay, okay. I don't think you guys have any ill will like the developers behind Fetish Locator."
-    arj "好吧，好吧。我觉得你们不会像性趣探测器的开发者那样心怀恶意。"
-
 # game/code/d21/d21s06.rpy:484
 translate chinese d21s06_reboot_fl_e3616b15:
 
@@ -1605,12 +1599,6 @@ translate chinese d21s06_reboot_fl_1e4e84ed:
 
     # sy "Can you be a little more specific? What don't you want to happen again?"
     sy "你能说得更具体点吗？你不希望什么事再次发生？"
-
-# game/code/d21/d21s06.rpy:492
-translate chinese d21s06_reboot_fl_bec7bdda:
-
-    # arj "All the cons I stated. No to lies, the deceit, the manipulation."
-    arj "我说的所有弊端都不要再出现。不要有谎言、欺骗，还有操纵。"
 
 # game/code/d21/d21s06.rpy:494
 translate chinese d21s06_reboot_fl_d3a6634e:
@@ -1690,12 +1678,6 @@ translate chinese d21s06_reboot_fl_a0e38f39:
     # arj "Oh, now you're going to make me blush."
     arj "哦，我脸都要红了。"
 
-# game/code/d21/d21s06.rpy:515
-translate chinese d21s06_reboot_fl_ad278b3d:
-
-    # sy "Now, let's start putting together some of the finer details, and about how we start talking about initial people we can let into this offering."
-    sy "现在，咱们开始整理更精细的细节，讨论我们可以让哪些人参与软件的初次体验活动。"
-
 # game/code/d21/d21s06.rpy:517
 translate chinese d21s06_reboot_fl_8db8be57:
 
@@ -1713,96 +1695,6 @@ translate chinese d21s06_reboot_fl_9e70a3cd:
 
     # mc "So where should we get started first?"
     mc "那我们应该先从哪里开始？"
-
-# game/code/d21/d21s06.rpy:521
-translate chinese d21s06_reboot_fl_0d92e239:
-
-    # mc "Do you know anyone? Any investors?"
-    mc "你认识什么人吗？认识投资人吗？"
-
-# game/code/d21/d21s06.rpy:523
-translate chinese d21s06_reboot_fl_0e58addf:
-
-    # sy "Investors?"
-    sy "投资人？"
-
-# game/code/d21/d21s06.rpy:525
-translate chinese d21s06_reboot_fl_f0aedc6b:
-
-    # mc "Well, in order to start a business, you would have to have some, wouldn't you?"
-    mc "嗯，为了创业，必须要有几个投资人，不是吗？"
-
-# game/code/d21/d21s06.rpy:527
-translate chinese d21s06_reboot_fl_3da9e714:
-
-    # sy "Well, at first, I was thinking about actually having some content first before we start the company."
-    sy "一开始，我在想在开公司之前，咱们先打造内容。"
-
-# game/code/d21/d21s06.rpy:528
-translate chinese d21s06_reboot_fl_018cbf7d:
-
-    # sy "Build a reputation, you know?"
-    sy "建立声誉，你知道吧？"
-
-# game/code/d21/d21s06.rpy:530
-translate chinese d21s06_reboot_fl_192c5851:
-
-    # mc "That's called marketing."
-    mc "那叫营销。"
-
-# game/code/d21/d21s06.rpy:532
-translate chinese d21s06_reboot_fl_e45dc7f1:
-
-    # sy "Yeah, but we are the brand, don't forget. We are the company. So we need to start thinking of films that we can shoot, and then we can form the company."
-    sy "对，但别忘了，我们就是品牌。我们就是公司。所以我们需要开始考虑咱们可以拍的电影，然后组建公司。"
-
-# game/code/d21/d21s06.rpy:534
-translate chinese d21s06_reboot_fl_3acfcab7:
-
-    # mc "In the legal sense."
-    mc "法律意义上真正的公司。"
-
-# game/code/d21/d21s06.rpy:536
-translate chinese d21s06_reboot_fl_4e12a8be:
-
-    # sy "Yeah."
-    sy "是的。"
-
-# game/code/d21/d21s06.rpy:537
-translate chinese d21s06_reboot_fl_a3a5f868:
-
-    # sy "Let's think of the name for the app."
-    sy "我们来想一下软件的名字。"
-
-# game/code/d21/d21s06.rpy:539
-translate chinese d21s06_reboot_fl_91c8e45d:
-
-    # mc "Any ideas?"
-    mc "有什么想法吗？"
-
-# game/code/d21/d21s06.rpy:541
-translate chinese d21s06_reboot_fl_2af34ea1:
-
-    # sy "I'll make us some coffee, and we can have a back in forth."
-    sy "我去煮点咖啡，我们可以多讨论一下。"
-
-# game/code/d21/d21s06.rpy:543
-translate chinese d21s06_reboot_fl_e5455d01:
-
-    # sy "What about Stacy's Bone Zone?"
-    sy "叫“史黛西的约炮区”，怎么样？"
-
-# game/code/d21/d21s06.rpy:544
-translate chinese d21s06_reboot_fl_69033c5a:
-
-    # sy "Or Finder. It's like that other dating app, except I replaced the first letter with an F."
-    sy "或者“测测”怎么样。和那个约会软件一样，只不过我把叠音换成了测测。"
-
-# game/code/d21/d21s06.rpy:546
-translate chinese d21s06_reboot_fl_593599a5:
-
-    # mc "Let's ask AmRose."
-    mc "我们问问爱洛丝。"
 
 # game/code/d21/d21s06.rpy:553
 translate chinese d21s06_no_fl_2cd1dfd8:
@@ -2453,4 +2345,22 @@ translate chinese d21s06_reboot_fl_b23fc0ce:
 
     # arj "It's perfect. On point and easy to understand."
     arj "完美。重点突出，通俗易懂。"
+
+# game/code/d21/d21s06.rpy:684
+translate chinese d21s06_reboot_fl_d0e75550:
+
+    # arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+    arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+
+# game/code/d21/d21s06.rpy:696
+translate chinese d21s06_reboot_fl_82e617fe:
+
+    # arj "All the cons I stated. No lies. No deceit, and no manipulation."
+    arj "All the cons I stated. No lies. No deceit, and no manipulation."
+
+# game/code/d21/d21s06.rpy:731
+translate chinese d21s06_reboot_fl_041fcc70:
+
+    # sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
+    sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
 

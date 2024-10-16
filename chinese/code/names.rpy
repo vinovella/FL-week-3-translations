@@ -185,3 +185,21 @@ translate chinese strings:
     old "Kendell"
     new "肯德尔"
 
+    old "Isa"
+    new "Isa"
+
+    old "Stephanie"
+    new "Stephanie"
+
+    old "Rose"
+    new "Rose"
+
+    old "High Priestess"
+    new "High Priestess"
+
+    old "Chiara"
+    new "Chiara"
+
+    old "Claire"
+    new "Claire"
+

@@ -1570,12 +1570,6 @@ translate malay d21s06_reboot_fl_e8bc5c3f:
     # sy "Do you want it to be in writing?"
     sy "Kau nak ia dalam bentuk bertulis?"
 
-# game/code/d21/d21s06.rpy:716
-translate malay d21s06_reboot_fl_6d70e240:
-
-    # arj "Okay, okay. I don't think you guys have any ill will like the developers behind Fetish Locator."
-    arj "Okay, okay. Aku tak fikir korang semua mempunyai niat buruk seperti pemaju di belakang Fetish Locator."
-
 # game/code/d21/d21s06.rpy:717
 translate malay d21s06_reboot_fl_e3616b15:
 
@@ -1605,12 +1599,6 @@ translate malay d21s06_reboot_fl_1e4e84ed:
 
     # sy "Can you be a little more specific? What don't you want to happen again?"
     sy "Boleh kau lebih spesifik sedikit? Apa yang kau tak nak berlaku lagi?"
-
-# game/code/d21/d21s06.rpy:728
-translate malay d21s06_reboot_fl_bec7bdda:
-
-    # arj "All the cons I stated. No to lies, the deceit, the manipulation."
-    arj "Semua keburukan aku nyatakan. Tak kepada pembohongan, penipuan, manipulasi."
 
 # game/code/d21/d21s06.rpy:731
 translate malay d21s06_reboot_fl_d3a6634e:
@@ -1690,12 +1678,6 @@ translate malay d21s06_reboot_fl_a0e38f39:
     # arj "Oh, now you're going to make me blush."
     arj "Oh, sekarang kau akan buat aku tersipu-sipu."
 
-# game/code/d21/d21s06.rpy:763
-translate malay d21s06_reboot_fl_ad278b3d:
-
-    # sy "Now, let's start putting together some of the finer details, and about how we start talking about initial people we can let into this offering."
-    sy "Sekarang, mari kita mula menyusun beberapa butiran yang lebih baik, dan tentang cara kita mula bercakap tentang orang awal yang boleh kita berikan kepada tawaran ini."
-
 # game/code/d21/d21s06.rpy:766
 translate malay d21s06_reboot_fl_8db8be57:
 
@@ -1713,96 +1695,6 @@ translate malay d21s06_reboot_fl_9e70a3cd:
 
     # mc "So where should we get started first?"
     mc "Jadi di mana kita harus bermula dahulu?"
-
-# game/code/d21/d21s06.rpy:772
-translate malay d21s06_reboot_fl_0d92e239:
-
-    # mc "Do you know anyone? Any investors?"
-    mc "Kau kenal sesiapa? Ada pelabur ke?"
-
-# game/code/d21/d21s06.rpy:775
-translate malay d21s06_reboot_fl_0e58addf:
-
-    # sy "Investors?"
-    sy "Pelabur?"
-
-# game/code/d21/d21s06.rpy:778
-translate malay d21s06_reboot_fl_f0aedc6b:
-
-    # mc "Well, in order to start a business, you would have to have some, wouldn't you?"
-    mc "Untuk memulakan perniagaan, kau kena ada beberapa pelabur, bukan?"
-
-# game/code/d21/d21s06.rpy:781
-translate malay d21s06_reboot_fl_3da9e714:
-
-    # sy "Well, at first, I was thinking about actually having some content first before we start the company."
-    sy "Baiklah, pada mulanya, aku berfikir tentang betul-betul ada beberapa kandungan terlebih dahulu sebelum kita memulakan syarikat."
-
-# game/code/d21/d21s06.rpy:782
-translate malay d21s06_reboot_fl_018cbf7d:
-
-    # sy "Build a reputation, you know?"
-    sy "Membina reputasi, kau tahu?"
-
-# game/code/d21/d21s06.rpy:785
-translate malay d21s06_reboot_fl_192c5851:
-
-    # mc "That's called marketing."
-    mc "Itu namanya pemasaran."
-
-# game/code/d21/d21s06.rpy:788
-translate malay d21s06_reboot_fl_e45dc7f1:
-
-    # sy "Yeah, but we are the brand, don't forget. We are the company. So we need to start thinking of films that we can shoot, and then we can form the company."
-    sy "Yeah, tapi kita adalah jenama, jangan lupa. Kita adalah syarikat. Jadi kita perlu mula memikirkan filem yang boleh kita rakam, dan kemudian kita boleh membentuk syarikat itu."
-
-# game/code/d21/d21s06.rpy:791
-translate malay d21s06_reboot_fl_3acfcab7:
-
-    # mc "In the legal sense."
-    mc "Dalam pengertian undang-undang."
-
-# game/code/d21/d21s06.rpy:794
-translate malay d21s06_reboot_fl_4e12a8be:
-
-    # sy "Yeah."
-    sy "Yeah."
-
-# game/code/d21/d21s06.rpy:795
-translate malay d21s06_reboot_fl_a3a5f868:
-
-    # sy "Let's think of the name for the app."
-    sy "Mari kita fikirkan nama untuk apl itu."
-
-# game/code/d21/d21s06.rpy:798
-translate malay d21s06_reboot_fl_91c8e45d:
-
-    # mc "Any ideas?"
-    mc "Ada idea?"
-
-# game/code/d21/d21s06.rpy:801
-translate malay d21s06_reboot_fl_2af34ea1:
-
-    # sy "I'll make us some coffee, and we can have a back in forth."
-    sy "Aku akan buatkan kopi untuk kita sekejap."
-    
-# game/code/d21/d21s06.rpy:804
-translate malay d21s06_reboot_fl_e5455d01:
-
-    # sy "What about Stacy's Bone Zone?"
-    sy "Bagaimana dengan Zon Tulang Stacy?"
-
-# game/code/d21/d21s06.rpy:805
-translate malay d21s06_reboot_fl_69033c5a:
-
-    # sy "Or Finder. It's like that other dating app, except I replaced the first letter with an F."
-    sy "Atau Finder. Ia seperti aplikasi dating yang lain, kecuali saya menggantikan huruf pertama dengan F."
-
-# game/code/d21/d21s06.rpy:808
-translate malay d21s06_reboot_fl_593599a5:
-
-    # mc "Let's ask AmRose."
-    mc "Mari bertanya AmRose."
 
 # game/code/d21/d21s06.rpy:817
 translate malay d21s06_no_fl_2cd1dfd8:

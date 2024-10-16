@@ -80,3 +80,9 @@ translate french strings:
     old "BONUS CONTENT"
     new "BONUS CONTENT"
 
+translate french strings:
+
+    # game/code/screens/extended/screens.rpy:227
+    old "Buy Taboo University on Steam"
+    new "Buy Taboo University on Steam"
+

@@ -1588,12 +1588,6 @@ translate french d21s06_reboot_fl_e8bc5c3f:
     # sy "Do you want it to be in writing?"
     sy "Do you want it to be in writing?"
 
-# game/code/d21/d21s06.rpy:688
-translate french d21s06_reboot_fl_6d70e240:
-
-    # arj "Okay, okay. I don't think you guys have any ill will like the developers behind Fetish Locator."
-    arj "Okay, okay. I don't think you guys have any ill will like the developers behind Fetish Locator."
-
 # game/code/d21/d21s06.rpy:689
 translate french d21s06_reboot_fl_e3616b15:
 
@@ -1623,12 +1617,6 @@ translate french d21s06_reboot_fl_1e4e84ed:
 
     # sy "Can you be a little more specific? What don't you want to happen again?"
     sy "Can you be a little more specific? What don't you want to happen again?"
-
-# game/code/d21/d21s06.rpy:700
-translate french d21s06_reboot_fl_bec7bdda:
-
-    # arj "All the cons I stated. No to lies, the deceit, the manipulation."
-    arj "All the cons I stated. No to lies, the deceit, the manipulation."
 
 # game/code/d21/d21s06.rpy:703
 translate french d21s06_reboot_fl_d3a6634e:
@@ -1708,12 +1696,6 @@ translate french d21s06_reboot_fl_a0e38f39:
     # arj "Oh, now you're going to make me blush."
     arj "Oh, now you're going to make me blush."
 
-# game/code/d21/d21s06.rpy:735
-translate french d21s06_reboot_fl_ad278b3d:
-
-    # sy "Now, let's start putting together some of the finer details, and about how we start talking about initial people we can let into this offering."
-    sy "Now, let's start putting together some of the finer details, and about how we start talking about initial people we can let into this offering."
-
 # game/code/d21/d21s06.rpy:738
 translate french d21s06_reboot_fl_8db8be57:
 
@@ -1731,96 +1713,6 @@ translate french d21s06_reboot_fl_9e70a3cd:
 
     # mc "So where should we get started first?"
     mc "So where should we get started first?"
-
-# game/code/d21/d21s06.rpy:744
-translate french d21s06_reboot_fl_0d92e239:
-
-    # mc "Do you know anyone? Any investors?"
-    mc "Do you know anyone? Any investors?"
-
-# game/code/d21/d21s06.rpy:747
-translate french d21s06_reboot_fl_0e58addf:
-
-    # sy "Investors?"
-    sy "Investors?"
-
-# game/code/d21/d21s06.rpy:750
-translate french d21s06_reboot_fl_f0aedc6b:
-
-    # mc "Well, in order to start a business, you would have to have some, wouldn't you?"
-    mc "Well, in order to start a business, you would have to have some, wouldn't you?"
-
-# game/code/d21/d21s06.rpy:753
-translate french d21s06_reboot_fl_3da9e714:
-
-    # sy "Well, at first, I was thinking about actually having some content first before we start the company."
-    sy "Well, at first, I was thinking about actually having some content first before we start the company."
-
-# game/code/d21/d21s06.rpy:754
-translate french d21s06_reboot_fl_018cbf7d:
-
-    # sy "Build a reputation, you know?"
-    sy "Build a reputation, you know?"
-
-# game/code/d21/d21s06.rpy:757
-translate french d21s06_reboot_fl_192c5851:
-
-    # mc "That's called marketing."
-    mc "That's called marketing."
-
-# game/code/d21/d21s06.rpy:760
-translate french d21s06_reboot_fl_e45dc7f1:
-
-    # sy "Yeah, but we are the brand, don't forget. We are the company. So we need to start thinking of films that we can shoot, and then we can form the company."
-    sy "Yeah, but we are the brand, don't forget. We are the company. So we need to start thinking of films that we can shoot, and then we can form the company."
-
-# game/code/d21/d21s06.rpy:763
-translate french d21s06_reboot_fl_3acfcab7:
-
-    # mc "In the legal sense."
-    mc "In the legal sense."
-
-# game/code/d21/d21s06.rpy:766
-translate french d21s06_reboot_fl_4e12a8be:
-
-    # sy "Yeah."
-    sy "Yeah."
-
-# game/code/d21/d21s06.rpy:767
-translate french d21s06_reboot_fl_a3a5f868:
-
-    # sy "Let's think of the name for the app."
-    sy "Let's think of the name for the app."
-
-# game/code/d21/d21s06.rpy:770
-translate french d21s06_reboot_fl_91c8e45d:
-
-    # mc "Any ideas?"
-    mc "Any ideas?"
-
-# game/code/d21/d21s06.rpy:773
-translate french d21s06_reboot_fl_2af34ea1:
-
-    # sy "I'll make us some coffee, and we can have a back in forth."
-    sy "I'll make us some coffee, and we can have a back in forth."
-
-# game/code/d21/d21s06.rpy:776
-translate french d21s06_reboot_fl_e5455d01:
-
-    # sy "What about Stacy's Bone Zone?"
-    sy "What about Stacy's Bone Zone?"
-
-# game/code/d21/d21s06.rpy:777
-translate french d21s06_reboot_fl_69033c5a:
-
-    # sy "Or Finder. It's like that other dating app, except I replaced the first letter with an F."
-    sy "Or Finder. It's like that other dating app, except I replaced the first letter with an F."
-
-# game/code/d21/d21s06.rpy:780
-translate french d21s06_reboot_fl_593599a5:
-
-    # mc "Let's ask AmRose."
-    mc "Let's ask AmRose."
 
 # game/code/d21/d21s06.rpy:788
 translate french d21s06_no_fl_2cd1dfd8:
@@ -2449,4 +2341,22 @@ translate french strings:
     # game/code/d21/d21s06.rpy:977
     old "No, I have to give it more thought."
     new "No, I have to give it more thought."
+
+# game/code/d21/d21s06.rpy:684
+translate french d21s06_reboot_fl_d0e75550:
+
+    # arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+    arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+
+# game/code/d21/d21s06.rpy:696
+translate french d21s06_reboot_fl_82e617fe:
+
+    # arj "All the cons I stated. No lies. No deceit, and no manipulation."
+    arj "All the cons I stated. No lies. No deceit, and no manipulation."
+
+# game/code/d21/d21s06.rpy:731
+translate french d21s06_reboot_fl_041fcc70:
+
+    # sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
+    sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
 

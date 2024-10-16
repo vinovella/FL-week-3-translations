@@ -1570,12 +1570,6 @@ translate turkish d21s06_reboot_fl_e8bc5c3f:
     # sy "Do you want it to be in writing?"
     sy "Yazılı olmasını ister misiniz?"
 
-# game/code/d21/d21s06.rpy:716
-translate turkish d21s06_reboot_fl_6d70e240:
-
-    # arj "Okay, okay. I don't think you guys have any ill will like the developers behind Fetish Locator."
-    arj "Tamam, tamam. Fetish Locator'ın arkasındaki geliştiricilerden hoşlanmadığınızı düşünüyorum."
-
 # game/code/d21/d21s06.rpy:717
 translate turkish d21s06_reboot_fl_e3616b15:
 
@@ -1605,12 +1599,6 @@ translate turkish d21s06_reboot_fl_1e4e84ed:
 
     # sy "Can you be a little more specific? What don't you want to happen again?"
     sy "Biraz daha spesifik olabilir misin? Neyin tekrar olmasını istemiyorsun?"
-
-# game/code/d21/d21s06.rpy:728
-translate turkish d21s06_reboot_fl_bec7bdda:
-
-    # arj "All the cons I stated. No to lies, the deceit, the manipulation."
-    arj "Tüm eksilerini belirttim. Yalana, aldatmaya, manipülasyona hayır."
 
 # game/code/d21/d21s06.rpy:731
 translate turkish d21s06_reboot_fl_d3a6634e:
@@ -1690,12 +1678,6 @@ translate turkish d21s06_reboot_fl_a0e38f39:
     # arj "Oh, now you're going to make me blush."
     arj "Oh, şimdi beni utandıracaksın."
 
-# game/code/d21/d21s06.rpy:763
-translate turkish d21s06_reboot_fl_ad278b3d:
-
-    # sy "Now, let's start putting together some of the finer details, and about how we start talking about initial people we can let into this offering."
-    sy "Şimdi, bazı daha ince ayrıntıları bir araya getirmeye başlayalım ve bu sunuma dahil edebileceğimiz ilk kişiler hakkında nasıl konuşmaya başlayacağımız hakkında konuşalım."
-
 # game/code/d21/d21s06.rpy:766
 translate turkish d21s06_reboot_fl_8db8be57:
 
@@ -1713,96 +1695,6 @@ translate turkish d21s06_reboot_fl_9e70a3cd:
 
     # mc "So where should we get started first?"
     mc "Öyleyse ilk nereden başlayalım?"
-
-# game/code/d21/d21s06.rpy:772
-translate turkish d21s06_reboot_fl_0d92e239:
-
-    # mc "Do you know anyone? Any investors?"
-    mc "Kimseyi tanıyor musun? Herhangi bir yatırımcı?"
-
-# game/code/d21/d21s06.rpy:775
-translate turkish d21s06_reboot_fl_0e58addf:
-
-    # sy "Investors?"
-    sy "Yatırımcılar?"
-
-# game/code/d21/d21s06.rpy:778
-translate turkish d21s06_reboot_fl_f0aedc6b:
-
-    # mc "Well, in order to start a business, you would have to have some, wouldn't you?"
-    mc "Pekala, bir iş kurmak için biraz sahip olmanız gerekir, değil mi?"
-
-# game/code/d21/d21s06.rpy:781
-translate turkish d21s06_reboot_fl_3da9e714:
-
-    # sy "Well, at first, I was thinking about actually having some content first before we start the company."
-    sy "Şey, ilk başta, şirketi kurmadan önce gerçekten biraz içeriğe sahip olmayı düşünüyordum."
-
-# game/code/d21/d21s06.rpy:782
-translate turkish d21s06_reboot_fl_018cbf7d:
-
-    # sy "Build a reputation, you know?"
-    sy "Bir itibar oluşturun, biliyor musunuz?"
-
-# game/code/d21/d21s06.rpy:785
-translate turkish d21s06_reboot_fl_192c5851:
-
-    # mc "That's called marketing."
-    mc "Buna pazarlama denir."
-
-# game/code/d21/d21s06.rpy:788
-translate turkish d21s06_reboot_fl_e45dc7f1:
-
-    # sy "Yeah, but we are the brand, don't forget. We are the company. So we need to start thinking of films that we can shoot, and then we can form the company."
-    sy "Evet ama marka biziz, unutma. Biz şirketiz. O yüzden çekebileceğimiz filmleri düşünmeye başlamalıyız, sonra şirketi kurarız."
-
-# game/code/d21/d21s06.rpy:791
-translate turkish d21s06_reboot_fl_3acfcab7:
-
-    # mc "In the legal sense."
-    mc "Hukuki anlamda."
-
-# game/code/d21/d21s06.rpy:794
-translate turkish d21s06_reboot_fl_4e12a8be:
-
-    # sy "Yeah."
-    sy "Evet."
-
-# game/code/d21/d21s06.rpy:795
-translate turkish d21s06_reboot_fl_a3a5f868:
-
-    # sy "Let's think of the name for the app."
-    sy "Uygulamanın adını düşünelim."
-
-# game/code/d21/d21s06.rpy:798
-translate turkish d21s06_reboot_fl_91c8e45d:
-
-    # mc "Any ideas?"
-    mc "Herhangi bir fikir var mı?"
-
-# game/code/d21/d21s06.rpy:801
-translate turkish d21s06_reboot_fl_2af34ea1:
-
-    # sy "I'll make us some coffee, and we can have a back in forth."
-    sy "Bize biraz kahve yapacağım, ve tartışabiliriz."
-
-# game/code/d21/d21s06.rpy:804
-translate turkish d21s06_reboot_fl_e5455d01:
-
-    # sy "What about Stacy's Bone Zone?"
-    sy "Stacy'nin Kemik Bölgesi ne olacak?"
-
-# game/code/d21/d21s06.rpy:805
-translate turkish d21s06_reboot_fl_69033c5a:
-
-    # sy "Or Finder. It's like that other dating app, except I replaced the first letter with an F."
-    sy "Veya Finder. İlk harfi F ile değiştirmem dışında diğer flört uygulaması gibi."
-
-# game/code/d21/d21s06.rpy:808
-translate turkish d21s06_reboot_fl_593599a5:
-
-    # mc "Let's ask AmRose."
-    mc "AmRose'a soralım."
 
 # game/code/d21/d21s06.rpy:817
 translate turkish d21s06_no_fl_2cd1dfd8:
@@ -2453,4 +2345,22 @@ translate turkish d21s06_reboot_fl_b23fc0ce:
 
     # arj "It's perfect. On point and easy to understand."
     arj "Mükemmel. Tam yerinde ve anlaşılması kolay."
+
+# game/code/d21/d21s06.rpy:684
+translate turkish d21s06_reboot_fl_d0e75550:
+
+    # arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+    arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+
+# game/code/d21/d21s06.rpy:696
+translate turkish d21s06_reboot_fl_82e617fe:
+
+    # arj "All the cons I stated. No lies. No deceit, and no manipulation."
+    arj "All the cons I stated. No lies. No deceit, and no manipulation."
+
+# game/code/d21/d21s06.rpy:731
+translate turkish d21s06_reboot_fl_041fcc70:
+
+    # sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
+    sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
 
