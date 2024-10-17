@@ -324,49 +324,45 @@ translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:285
     old "Touch input supported"
-    new "Touch input supported"
+    new "支持触摸输入"
 
     # game/code/screens/screens_fl.rpy:286
     old "Navigation"
-    new "Navigation"
+    new "导航"
 
     # game/code/screens/screens_fl.rpy:287
     old "Pause Menu"
-    new "Pause Menu"
+    new "暂停菜单"
 
     # game/code/screens/screens_fl.rpy:288
     old "Quick Save"
-    new "Quick Save"
+    new "快速保存"
 
     # game/code/screens/screens_fl.rpy:290
     old "Roll Back"
-    new "Roll Back"
+    new "回滚"
 
     # game/code/screens/screens_fl.rpy:293
     old "{b}A{/b} - Select"
-    new "{b}A{/b} - Select"
+    new "A - 选择"
 
     # game/code/screens/screens_fl.rpy:294
     old "{b}B{/b} - Go Back"
-    new "{b}B{/b} - Go Back"
+    new "B - 返回"
 
     # game/code/screens/screens_fl.rpy:295
     old "{b}X{/b} - Skip"
-    new "{b}X{/b} - Skip"
+    new "X - 跳过"
 
     # game/code/screens/screens_fl.rpy:296
     old "{b}Y{/b} - Hide UI"
-    new "{b}Y{/b} - Hide UI"
+    new "Y - 隐藏用户界面"
 
     # game/code/screens/screens_fl.rpy:297
     old "Roll Forward"
-    new "Roll Forward"
+    new "向前滚动"
 
     # game/code/screens/screens_fl.rpy:300
     old "You can find this layout in the {b}Help{/b} menu"
-    new "You can find this layout in the {b}Help{/b} menu"
-
-    # game/code/screens/screens_fl.rpy:302
-    old "CLOSE"
-    new "CLOSE"
+    new "您可以在 “帮助” 菜单中找到该布局"
 
