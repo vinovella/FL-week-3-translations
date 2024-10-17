@@ -228,8 +228,6 @@ translate chinese strings:
     old "SKIP RECAP"
     new "跳过回顾"
 
-translate chinese strings:
-
     # game/code/screens/screens_fl.rpy:248
     old "4. After launching the game once, you can put the backed up \"FetishLocator\" file back to it's location to get your Previous Week's saves back."
     new "4. 启动一次游戏后，你可以把备份的\"FetishLocator\"文件放回原位置，以获得上周的游戏存档。"
@@ -241,8 +239,6 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:354
     old "{u}Done{/u}"
     new "{u}完成{/u}"
-
-translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:819
     old "AmRose Romance or Slave route?"
@@ -272,13 +268,9 @@ translate chinese strings:
     old "Did you give the password to Hana?"
     new "你把密码给哈娜了吗？"
 
-translate chinese strings:
-
     # game/code/screens/screens_fl.rpy:444
     old "RETURN"
     new "返回"
-
-translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:1316
     old "Skip Recap\nof Week-1"
@@ -287,8 +279,6 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:1322
     old "Skip Recap\nof Week-2"
     new "跳过\n第2周的回顾"
-
-translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:265
     old "Continue playing"
@@ -314,13 +304,9 @@ translate chinese strings:
     old "Download Saves"
     new "下载存档"
 
-translate chinese strings:
-
     # game/code/screens/screens_fl.rpy:1358
     old "{u}Get Taboo University Book 1 on Steam{/u}"
     new "{u}在Steam上获取《禁忌大学：第一册》{/u}"
-
-translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:285
     old "Touch input supported"
@@ -365,4 +351,8 @@ translate chinese strings:
     # game/code/screens/screens_fl.rpy:300
     old "You can find this layout in the {b}Help{/b} menu"
     new "您可以在 “帮助” 菜单中找到该布局"
+
+    # game/code/screens/screens_fl.rpy:302
+    old "CLOSE"
+    new "关闭"
 
