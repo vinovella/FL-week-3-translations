@@ -186,20 +186,20 @@ translate chinese strings:
     new "肯德尔"
 
     old "Isa"
-    new "Isa"
+    new "艾萨"
 
     old "Stephanie"
-    new "Stephanie"
+    new "斯蒂芬妮"
 
     old "Rose"
-    new "Rose"
+    new "萝丝"
 
     old "High Priestess"
-    new "High Priestess"
+    new "大祭司"
 
     old "Chiara"
-    new "Chiara"
+    new "琪娅拉"
 
     old "Claire"
-    new "Claire"
+    new "克莱尔"
 
