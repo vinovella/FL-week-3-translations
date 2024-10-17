@@ -318,7 +318,7 @@ translate chinese strings:
 
     # game/code/screens/screens_fl.rpy:1358
     old "{u}Get Taboo University Book 1 on Steam{/u}"
-    new "{u}Get Taboo University Book 1 on Steam{/u}"
+    new "{u}在Steam上获取《禁忌大学：第一册》{/u}"
 
 translate chinese strings:
 
