@@ -116,7 +116,7 @@ translate chinese after_credits_a17db195:
 translate chinese after_credits_870c1bff:
 
     # dd "Yeah, she is from Taboo University!"
-    dd "对呀，她是Taboo大学的!"
+    dd "对呀，她是禁忌大学的!"
 
 # game/code/labels.rpy:225
 translate chinese after_credits_66e7bad8:
@@ -284,7 +284,7 @@ translate chinese after_credits_73eb5eb5:
 translate chinese after_credits_826b65f0:
 
     # dd "But what about Taboo University though?"
-    dd "但是Taboo大学呢？"
+    dd "但是禁忌大学呢？"
 
 # game/code/labels.rpy:383
 translate chinese after_credits_47a5d0a5:
@@ -296,13 +296,13 @@ translate chinese after_credits_47a5d0a5:
 translate chinese after_credits_f1d2352a:
 
     # dd "How is Taboo University going? What's next?"
-    dd "Taboo大学怎么样了？下一步是什么？"
+    dd "禁忌大学怎么样了？下一步是什么？"
 
 # game/code/labels.rpy:387
 translate chinese after_credits_75e46767:
 
     # sm "Oh? Have you played TU?"
-    sm "哦？你玩过TU吗？"
+    sm "哦？你玩过禁忌大学吗？"
 
 # game/code/labels.rpy:390
 translate chinese after_credits_cf40d33d:
