@@ -1542,5 +1542,5 @@ translate chinese strings:
 
     # game/code/e03/e03s07.rpy:828
     old "You have finished playing ending 03!"
-    new "You have finished playing ending 03!"
+    new "你已经完成了结局03！"
 
