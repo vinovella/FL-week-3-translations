@@ -2350,17 +2350,17 @@ translate chinese d21s06_reboot_fl_b23fc0ce:
 translate chinese d21s06_reboot_fl_d0e75550:
 
     # arj "Okay, okay. I don't think you guys have any ill will like Lydia."
-    arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+    arj "好吧，好吧。我不认为你们像莉迪亚那样怀有恶意。"
 
 # game/code/d21/d21s06.rpy:696
 translate chinese d21s06_reboot_fl_82e617fe:
 
     # arj "All the cons I stated. No lies. No deceit, and no manipulation."
-    arj "All the cons I stated. No lies. No deceit, and no manipulation."
+    arj "注意我所说的不能突破的底线。不能有谎言、欺骗和操纵。"
 
 # game/code/d21/d21s06.rpy:731
 translate chinese d21s06_reboot_fl_041fcc70:
 
     # sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
-    sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
+    sy "现在，让我们开始整理一些更详细的细节，比如我们可以引进的第一批人是谁。"
 
