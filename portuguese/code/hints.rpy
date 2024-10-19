@@ -1460,3 +1460,31 @@ translate portuguese strings:
     old "Skip male on male content with Pete."
     new ""
 
+# TODO: Translation updated at 2024-10-20 00:43
+
+translate portuguese strings:
+
+    # game/code/hints.rpy:5
+    old "Lyssa will fuck you in the ass."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Lyssa will not fuck you in the ass."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "Watersports scene with Lyssa."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "This will skip the watersports scene with Lyssa."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "You and Allison fuck the Judge."
+    new ""
+
+    # game/code/hints.rpy:5
+    old "You don't fuck the Judge."
+    new ""
+
