@@ -2,31 +2,31 @@
 translate chinese e09s01_c9a4e483:
 
     # sy "Son of a bitch!"
-    sy "Son of a bitch!"
+    sy "狗娘养的！"
 
 # game/code/e09/e09s01.rpy:89
 translate chinese e09s01_d09b0352:
 
     # arj "What's wrong?"
-    arj "What's wrong?"
+    arj "怎么了？"
 
 # game/code/e09/e09s01.rpy:91
 translate chinese e09s01_5f6d066d:
 
     # sy "It's nothing. Just a little... technical disagreement."
-    sy "It's nothing. Just a little... technical disagreement."
+    sy "没什么。只是有点...技术上的问题。"
 
 # game/code/e09/e09s01.rpy:97
 translate chinese e09s01_4ca5f44e:
 
     # sy "Come on. That should work."
-    sy "Come on. That should work."
+    sy "支棱起来啊。应该能行的。"
 
 # game/code/e09/e09s01.rpy:99
 translate chinese e09s01_daf5dcc6:
 
     # mc "Did you say the magic word?"
-    mc "Did you say the magic word?"
+    mc "你说了那个魔法词吗？"
 
 # game/code/e09/e09s01.rpy:102
 translate chinese e09s01_5c2c7bcf:
@@ -38,397 +38,397 @@ translate chinese e09s01_5c2c7bcf:
 translate chinese e09s01_1d7ad725:
 
     # mc "Nevermind."
-    mc "Nevermind."
+    mc "当我没说。"
 
 # game/code/e09/e09s01.rpy:107
 translate chinese e09s01_646276ec:
 
     # arj "What is the problem?"
-    arj "What is the problem?"
+    arj "有什么问题吗？"
 
 # game/code/e09/e09s01.rpy:109
 translate chinese e09s01_49ac5077:
 
     # sy "It's this damn spyware that the app uses. I don't know how Jerome did it, but it seems like it's built into the main functions."
-    sy "It's this damn spyware that the app uses. I don't know how Jerome did it, but it seems like it's built into the main functions."
+    sy "是这个应用程序使用的该死的间谍软件。我不知道杰罗姆是怎么做到的，但它好像是内置在主要功能里面的。"
 
 # game/code/e09/e09s01.rpy:110
 translate chinese e09s01_8c5685c4:
 
     # sy "I can't remove it without taking a blow torch to everything. Which is becoming a very tempting option if you don't shape up!"
-    sy "I can't remove it without taking a blow torch to everything. Which is becoming a very tempting option if you don't shape up!"
+    sy "我要用喷灯把所有东西都烧了，才能把它删除掉。如果不能成功改进的话，烧掉会成为一个非常诱人的选择！"
 
 # game/code/e09/e09s01.rpy:113
 translate chinese e09s01_02f17e77:
 
     # arj "Alright. Deep breath, Stacy. The computer is our friend. It doesn't deserve to get torched because of the code."
-    arj "Alright. Deep breath, Stacy. The computer is our friend. It doesn't deserve to get torched because of the code."
+    arj "好吧。深呼吸，史黛西。电脑是我们的朋友。它不应该因为代码而被烧毁。"
 
 # game/code/e09/e09s01.rpy:115
 translate chinese e09s01_b0dd15fa:
 
     # sy "Grrrrr. Maybe you're right."
-    sy "Grrrrr. Maybe you're right."
+    sy "噶呃呃呃。也许你说得对。"
 
 # game/code/e09/e09s01.rpy:118
 translate chinese e09s01_194ec040:
 
     # sy "Can't we just keep the spyware stuff in. I can make it an optional function so new users can just opt in."
-    sy "Can't we just keep the spyware stuff in. I can make it an optional function so new users can just opt in."
+    sy "我们就不能保留间谍软件吗？我可以把它变成一个可选功能，这样新用户就可以选择加入了。"
 
 # game/code/e09/e09s01.rpy:119
 translate chinese e09s01_a5370fe6:
 
     # sy "It would be so easy."
-    sy "It would be so easy."
+    sy "这样的话就很简单了。"
 
 # game/code/e09/e09s01.rpy:122
 translate chinese e09s01_257f1b63:
 
     # arj "Not a chance. You remember the rules. No spyware."
-    arj "Not a chance. You remember the rules. No spyware."
+    arj "不可能。你还记得规则吧。不能有间谍软件。"
 
 # game/code/e09/e09s01.rpy:124
 translate chinese e09s01_866434c1:
 
     # sy "It would just be a little spyware."
-    sy "It would just be a little spyware."
+    sy "它就只会是一个安静呆着的小小间谍软件。"
 
 # game/code/e09/e09s01.rpy:127
 translate chinese e09s01_37f6adbe:
 
     # arj "No. Spyware."
-    arj "No. Spyware."
+    arj "不能。有。间谍软件。"
 
 # game/code/e09/e09s01.rpy:129
 translate chinese e09s01_10497f1b:
 
     # sy "Eeeeeh. Okay okay okay."
-    sy "Eeeeeh. Okay okay okay."
+    sy "咦咦。好吧好吧好吧。"
 
 # game/code/e09/e09s01.rpy:135
 translate chinese e09s01_b56cd04d:
 
     # sy "I'll keep working on it."
-    sy "I'll keep working on it."
+    sy "那我继续努力。"
 
 # game/code/e09/e09s01.rpy:137
 translate chinese e09s01_9c98f4fe:
 
     # arj "Good girl."
-    arj "Good girl."
+    arj "好姑娘。"
 
 # game/code/e09/e09s01.rpy:147
 translate chinese e09s01_37016854:
 
     # mc "Hey Allison. Thanks for coming."
-    mc "Hey Allison. Thanks for coming."
+    mc "嘿，艾莉森。谢谢你能来。"
 
 # game/code/e09/e09s01.rpy:149
 translate chinese e09s01_446d1dea:
 
     # aw "Of course."
-    aw "Of course."
+    aw "当然。"
 
 # game/code/e09/e09s01.rpy:150
 translate chinese e09s01_7b4e06ad:
 
     # mc "Come on in."
-    mc "Come on in."
+    mc "进来吧。"
 
 # game/code/e09/e09s01.rpy:153
 translate chinese e09s01_ea4accb1:
 
     # aw "Hi AmRose. Hey Stacy."
-    aw "Hi AmRose. Hey Stacy."
+    aw "嗨，爱洛丝。嗨，史黛西。"
 
 # game/code/e09/e09s01.rpy:156
 translate chinese e09s01_1c22507e:
 
     # sy "Hey Allison. Didn't expect to see you here today. Welcome to my home."
-    sy "Hey Allison. Didn't expect to see you here today. Welcome to my home."
+    sy "是艾莉森啊。没想到今天会在这儿见到你。欢迎来到我家。"
 
 # game/code/e09/e09s01.rpy:158
 translate chinese e09s01_f2a54122:
 
     # aw "It's perfect. Tight and functional, hehe."
-    aw "It's perfect. Tight and functional, hehe."
+    aw "太完美了。紧凑实用，嘿嘿。"
 
 # game/code/e09/e09s01.rpy:159
 translate chinese e09s01_9efe58aa:
 
     # aw "So like I said in the text, [mcname], I discovered something-"
-    aw "So like I said in the text, [mcname], I discovered something-"
+    aw "[mcname]，就像我在短信里说的，我发现了一些东西--"
 
 # game/code/e09/e09s01.rpy:162
 translate chinese e09s01_657ea69c:
 
     # aw "Oh right, there was something else too."
-    aw "Oh right, there was something else too."
+    aw "对了，还有别的东西。"
 
 # game/code/e09/e09s01.rpy:163
 translate chinese e09s01_9cf9db50:
 
     # aw "Is Fetish Locator working for any of you?"
-    aw "Is Fetish Locator working for any of you?"
+    aw "你们的性趣探测器都正常吗？"
 
 # game/code/e09/e09s01.rpy:166
 translate chinese e09s01_3d27b5af:
 
     # aw "I keep trying to load it to check the Daily Challenge and it gives me an error message."
-    aw "I keep trying to load it to check the Daily Challenge and it gives me an error message."
+    aw "我一直试图加载软件来查看每日挑战，但它给出了错误信息。"
 
 # game/code/e09/e09s01.rpy:168
 translate chinese e09s01_e28b635b:
 
     # mc "Ummm. About that. Uh... AmRose can explain."
-    mc "Ummm. About that. Uh... AmRose can explain."
+    mc "嗯嗯嗯。关于这个问题。呃...爱洛丝可以解释。"
 
 # game/code/e09/e09s01.rpy:173
 translate chinese e09s01_7a8f0156:
 
     # arj "We uh... we decided to take down Fetish Locator."
-    arj "We uh... we decided to take down Fetish Locator."
+    arj "我们呃...我们决定关闭性趣探测器。"
 
 # game/code/e09/e09s01.rpy:175
 translate chinese e09s01_3d042330:
 
     # aw "What the hell? You guys were behind Fetish Locator?"
-    aw "What the hell? You guys were behind Fetish Locator?"
+    aw "搞什么鬼？你们是性趣探测器的幕后黑手？"
 
 # game/code/e09/e09s01.rpy:178
 translate chinese e09s01_81f1b0fa:
 
     # mc "No, Lydia was behind it. And she was manipulating people without their knowledge."
-    mc "No, Lydia was behind it. And she was manipulating people without their knowledge."
+    mc "不，莉迪亚才是幕后黑手。她还在用户不知情的情况下操纵他们。"
 
 # game/code/e09/e09s01.rpy:179
 translate chinese e09s01_5e565c13:
 
     # mc "It was only a matter of time before someone got hurt."
-    mc "It was only a matter of time before someone got hurt."
+    mc "有人受伤只是时间问题。"
 
 # game/code/e09/e09s01.rpy:182
 translate chinese e09s01_5f2bc6ba:
 
     # aw "Ah so you guys did good by shutting it down."
-    aw "Ah so you guys did good by shutting it down."
+    aw "所以你们把它关掉是对的。"
 
 # game/code/e09/e09s01.rpy:185
 translate chinese e09s01_ce6f2d6b:
 
     # sy "Yes, but we want to restart it."
-    sy "Yes, but we want to restart it."
+    sy "是的，但我们想重启它。"
 
 # game/code/e09/e09s01.rpy:187
 translate chinese e09s01_340f9bf6:
 
     # aw "Huh? I'm confused. You shut it down, but now you're going to turn it on again?"
-    aw "Huh? I'm confused. You shut it down, but now you're going to turn it on again?"
+    aw "啊？我糊涂了。你们把它关了，但现在又要重新启动？"
 
 # game/code/e09/e09s01.rpy:190
 translate chinese e09s01_0ffd1b4c:
 
     # sy "Well, think of all the people who never got a chance to enjoy all the good Fetish Locator has to offer."
-    sy "Well, think of all the people who never got a chance to enjoy all the good Fetish Locator has to offer."
+    sy "嗯，想想那些没机会享受性趣探测器提供的好处的人吧。"
 
 # game/code/e09/e09s01.rpy:191
 translate chinese e09s01_e5d0950c:
 
     # sy "We can rebuild it. We have the technology."
-    sy "We can rebuild it. We have the technology."
+    sy "我们可以重建它。我们有技术。"
 
 # game/code/e09/e09s01.rpy:194
 translate chinese e09s01_3cd3ffef:
 
     # arj "That's the goal. But right now we have like no money and the code is turning out to be stubborn as a mule."
-    arj "That's the goal. But right now we have like no money and the code is turning out to be stubborn as a mule."
+    arj "这是我们的理想目标。但现在我们一没钱，二来代码也固执得像头骡子。"
 
 # game/code/e09/e09s01.rpy:196
 translate chinese e09s01_1ff55c09:
 
     # aw "Wow."
-    aw "Wow."
+    aw "哇。"
 
 # game/code/e09/e09s01.rpy:199
 translate chinese e09s01_c165df49:
 
     # aw "You three really know how to knock a girl off her feet."
-    aw "You three really know how to knock a girl off her feet."
+    aw "你们三个真会把女孩迷得神魂颠倒。"
 
 # game/code/e09/e09s01.rpy:201
 translate chinese e09s01_66f13cd6:
 
     # mc "Do you need some water or something?"
-    mc "Do you need some water or something?"
+    mc "你需要水什么的吗？"
 
 # game/code/e09/e09s01.rpy:204
 translate chinese e09s01_91fc9855:
 
     # aw "Yes. No. I mean yes. Yes to the water. But I just remembered why I came here in the first place."
-    aw "Yes. No. I mean yes. Yes to the water. But I just remembered why I came here in the first place."
+    aw "要的。不。我是说要的，是的，我要水。但我想起来我为什么要来这里了。"
 
 # game/code/e09/e09s01.rpy:205
 translate chinese e09s01_978ce72d:
 
     # aw "Hana is preparing some kind of exposé on Fetish Locator."
-    aw "Hana is preparing some kind of exposé on Fetish Locator."
+    aw "哈娜在准备关于性趣探测器的爆料。"
 
 # game/code/e09/e09s01.rpy:206
 translate chinese e09s01_0641ede7:
 
     # aw "It's going up in less than forty eight hours. She put a teaser piece online already."
-    aw "It's going up in less than forty eight hours. She put a teaser piece online already."
+    aw "还有不到四十八小时就要发布了。她已经在网上发布了预告。"
 
 # game/code/e09/e09s01.rpy:209
 translate chinese e09s01_68dba098:
 
     # aw "The preview says it's going to reveal all the dark secrets of Fetish Locator."
-    aw "The preview says it's going to reveal all the dark secrets of Fetish Locator."
+    aw "预告里说她会揭露性趣探测器的所有黑暗的秘密。"
 
 # game/code/e09/e09s01.rpy:210
 translate chinese e09s01_c8f1c548:
 
     # aw "Which I'm assuming would cover all the evil shit Lydia was up to."
-    aw "Which I'm assuming would cover all the evil shit Lydia was up to."
+    aw "我猜这将包括莉迪亚所做的一切邪恶勾当。"
 
 # game/code/e09/e09s01.rpy:212
 translate chinese e09s01_1b5000b6:
 
     # sy "What? We can't let her do that."
-    sy "What? We can't let her do that."
+    sy "什么？我们不能让她这么做。"
 
 # game/code/e09/e09s01.rpy:215
 translate chinese e09s01_2511d875:
 
     # mc "Yeah, if Hana puts out an article just diving into all the bad parts about the app, no one will want to use the new version."
-    mc "Yeah, if Hana puts out an article just diving into all the bad parts about the app, no one will want to use the new version."
+    mc "是啊，如果哈娜发表一篇文章，深入分析这个应用的所有坏处，就没人想用新版本了。"
 
 # game/code/e09/e09s01.rpy:217
 translate chinese e09s01_a61e563f:
 
     # aw "I was worried you were going to say something like that."
-    aw "I was worried you were going to say something like that."
+    aw "我还担心你会说这样的话呢。"
 
 # game/code/e09/e09s01.rpy:219
 translate chinese e09s01_afb178d3:
 
     # mc "Okay. I have Hana's phone number. I'll call her and see if I can convince her to stop the article."
-    mc "Okay. I have Hana's phone number. I'll call her and see if I can convince her to stop the article."
+    mc "好吧，我有哈娜的电话号码。我给她打个电话，看看能不能说服她不发这篇文章。"
 
 # game/code/e09/e09s01.rpy:222
 translate chinese e09s01_4d20b4c0:
 
     # sy "Good plan. I don't want to change the name."
-    sy "Good plan. I don't want to change the name."
+    sy "好计划。我可不想改名字。"
 
 # game/code/e09/e09s01.rpy:224
 translate chinese e09s01_eb289b05:
 
     # mc "Yeah people would see through it if we came up with something like Kink Finder."
-    mc "Yeah people would see through it if we came up with something like Kink Finder."
+    mc "是啊，如果我们起个性癖查探器这样的名字，人们会看穿的。"
 
 # game/code/e09/e09s01.rpy:225
 translate chinese e09s01_72d18ad9:
 
     # sy "No, I mean we can't change the name because it's catchy and I love it."
-    sy "No, I mean we can't change the name because it's catchy and I love it."
+    sy "不，我是说我们不能改名字，因为它朗朗上口，我很喜欢。"
 
 # game/code/e09/e09s01.rpy:228
 translate chinese e09s01_175f82e2:
 
     # aw "She brings up a good point."
-    aw "She brings up a good point."
+    aw "她说得有道理。"
 
 # game/code/e09/e09s01.rpy:231
 translate chinese e09s01_2283412a:
 
     # sy "Thanks Allison. You really rock."
-    sy "Thanks Allison. You really rock."
+    sy "谢谢。艾莉森，你真的很棒。"
 
 # game/code/e09/e09s01.rpy:233
 translate chinese e09s01_ae30dd78:
 
     # aw "Hehe. So... what's the move, [mcname]?"
-    aw "Hehe. So... what's the move, [mcname]?"
+    aw "嘿嘿。那么...你有什么打算，[mcname]？"
 
 # game/code/e09/e09s01.rpy:236
 translate chinese e09s01_6884bf61:
 
     # mc "Well, until that article comes out, it's business as usual here."
-    mc "Well, until that article comes out, it's business as usual here."
+    mc "嗯，在那篇文章出来之前，这里一切照旧。"
 
 # game/code/e09/e09s01.rpy:237
 translate chinese e09s01_3f6b4e1a:
 
     # mc "AmRose. Stacy. What do we need to fix that issue with the spyware?"
-    mc "AmRose. Stacy. What do we need to fix that issue with the spyware?"
+    mc "爱洛丝。史黛西。我们怎么才能解决间谍软件的问题？"
 
 # game/code/e09/e09s01.rpy:239
 translate chinese e09s01_9826074b:
 
     # sy "Well, if I could boost the computer power, that might help with my search to find the root of the problem."
-    sy "Well, if I could boost the computer power, that might help with my search to find the root of the problem."
+    sy "嗯，如果我能提高电脑的性能，也许能帮助我找到问题的根源。"
 
 # game/code/e09/e09s01.rpy:242
 translate chinese e09s01_4b052d35:
 
     # arj "That's a good plan. And at the very least, more power means maybe we can come up with a brute-force solution."
-    arj "That's a good plan. And at the very least, more power means maybe we can come up with a brute-force solution."
+    arj "这是个好计划。最起码，更强的性能意味着我们也许能想出一个暴力破解的办法。"
 
 # game/code/e09/e09s01.rpy:243
 translate chinese e09s01_cb7a4cfb:
 
     # sy "Bingo."
-    sy "Bingo."
+    sy "对头。"
 
 # game/code/e09/e09s01.rpy:248
 translate chinese e09s01_4890b1e9:
 
     # mc "This is all I have left for the month, go to the store and get whatever you can to help."
-    mc "This is all I have left for the month, go to the store and get whatever you can to help."
+    mc "我这个月就剩这么多了，你去商店买点能用的东西吧。"
 
 # game/code/e09/e09s01.rpy:250
 translate chinese e09s01_bf47456c:
 
     # sy "I'll make it work."
-    sy "I'll make it work."
+    sy "我会成功的。"
 
 # game/code/e09/e09s01.rpy:253
 translate chinese e09s01_faf1b2c8:
 
     # arj "I'll keep working on the data here. Maybe it just needs a fresh set of eyes."
-    arj "I'll keep working on the data here. Maybe it just needs a fresh set of eyes."
+    arj "我来继续处理这里的数据。也许它只是需要一双新的眼睛。"
 
 # game/code/e09/e09s01.rpy:255
 translate chinese e09s01_eb8243a0:
 
     # mc "Yeah. Maybe we'll get lucky."
-    mc "Yeah. Maybe we'll get lucky."
+    mc "是啊。也许我们会走运呢。"
 
 # game/code/e09/e09s01.rpy:260
 translate chinese e09s01_55b52ef9:
 
     # aw "What about me?"
-    aw "What about me?"
+    aw "那我呢？"
 
 # game/code/e09/e09s01.rpy:262
 translate chinese e09s01_c5b7c277:
 
     # mc "Oh. Um... so you-"
-    mc "Oh. Um... so you-"
+    mc "哦，嗯...那你--"
 
 # game/code/e09/e09s01.rpy:265
 translate chinese e09s01_8dd9f574:
 
     # aw "Want to help keep Fetish Locator going? Of course I do."
-    aw "Want to help keep Fetish Locator going? Of course I do."
+    aw "我想不想帮忙让性趣探测器继续运行吗？当然想。"
 
 # game/code/e09/e09s01.rpy:267
 translate chinese e09s01_088a8c6e:
 
     # mc "I mean, that's really great, Allison. We could use all the help we can get. I just... have to figure out what you could work on."
-    mc "I mean, that's really great, Allison. We could use all the help we can get. I just... have to figure out what you could work on."
+    mc "那真是太好了，艾莉森。我们可以利用一切能得到的帮助。我只是...得想想你能做什么。"
 
 # game/code/e09/e09s01.rpy:270
 translate chinese e09s01_7cd8ed16:
