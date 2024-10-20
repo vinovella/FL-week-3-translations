@@ -862,12 +862,6 @@ translate turkish e09s03_night_d21c8e63:
     # aw "This is going to be the best summer ever!"
     aw "This is going to be the best summer ever!"
 
-# game/code/e09/e09s03.rpy:506
-translate turkish e09s03_night_5ee8dc16:
-
-    # sy "Mmhmm."
-    sy "Mmhmm."
-
 # game/code/e09/e09s03.rpy:508
 translate turkish e09s03_night_30567333:
 
@@ -1360,30 +1354,6 @@ translate turkish e09s03_night_0edf3629:
     # aw "Did that make you jealous? Did it make you desperate to get his attention?"
     aw "Did that make you jealous? Did it make you desperate to get his attention?"
 
-# game/code/e09/e09s03.rpy:730
-translate turkish e09s03_night_214d3631_1:
-
-    # sy "A little."
-    sy "A little."
-
-# game/code/e09/e09s03.rpy:733
-translate turkish e09s03_night_6cc39c30:
-
-    # aw "Well, you didn't need to be jealous anymore. Look how far you have come."
-    aw "Well, you didn't need to be jealous anymore. Look how far you have come."
-
-# game/code/e09/e09s03.rpy:735
-translate turkish e09s03_night_235d3122_1:
-
-    # sy "Yes... I'm his personal slut now."
-    sy "Yes... I'm his personal slut now."
-
-# game/code/e09/e09s03.rpy:738
-translate turkish e09s03_night_d2ca170b_1:
-
-    # aw "Oooouha... How kinky."
-    aw "Oooouha... How kinky."
-
 # game/code/e09/e09s03.rpy:739
 translate turkish e09s03_night_224a56b6:
 
@@ -1449,12 +1419,6 @@ translate turkish e09s03_night_a0f612ba:
 
     # aw "Well then, allow me to continue."
     aw "Well then, allow me to continue."
-
-# game/code/e09/e09s03.rpy:759
-translate turkish e09s03_night_d6ce8cdb:
-
-    # sy "Mmhmmm."
-    sy "Mmhmmm."
 
 # game/code/e09/e09s03.rpy:762
 translate turkish e09s03_night_f8c55057:

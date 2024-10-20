@@ -754,12 +754,6 @@ translate spanish e03s06_watersports_381ada4e:
     # sy "Glad we can help, Lyssa!"
     sy "Glad we can help, Lyssa!"
 
-# game/code/e03/e03s06.rpy:353
-translate spanish e03s06_watersports_f6bdb11a:
-
-    # ca "Oh yeaaaaaa!"
-    ca "Oh yeaaaaaa!"
-
 # game/code/e03/e03s06.rpy:363
 translate spanish e03s06_watersports_8359762f:
 

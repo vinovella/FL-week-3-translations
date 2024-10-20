@@ -754,12 +754,6 @@ translate chinese e03s06_watersports_381ada4e:
     # sy "Glad we can help, Lyssa!"
     sy "很高兴能帮上忙，丽莎！"
 
-# game/code/e03/e03s06.rpy:353
-translate chinese e03s06_watersports_f6bdb11a:
-
-    # ca "Oh yeaaaaaa!"
-    ca "哦耶耶耶！"
-
 # game/code/e03/e03s06.rpy:363
 translate chinese e03s06_watersports_8359762f:
 
