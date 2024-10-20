@@ -896,847 +896,847 @@ translate chinese e09s01_continue_sex_fefdf6a6:
 translate chinese e09s01_continue_sex_741ad51c:
 
     # aw "Muraaahh... of course not, [mcname]."
-    aw "Muraaahh... of course not, [mcname]."
+    aw "哈啊啊啊...当然不会，[mcname]。"
 
 # game/code/e09/e09s01.rpy:492
 translate chinese e09s01_continue_sex_6d701e0b:
 
     # aw "I love sharing."
-    aw "I love sharing."
+    aw "我喜欢分享。"
 
 # game/code/e09/e09s01.rpy:496
 translate chinese e09s01_continue_sex_d2ef57ba:
 
     # arj "I... I can do it if that's what you want, Master."
-    arj "I... I can do it if that's what you want, Master."
+    arj "我...如果这是您想要的，我可以做到，主人。"
 
 # game/code/e09/e09s01.rpy:497
 translate chinese e09s01_continue_sex_0cd0e395:
 
     # mc "It is. Keep going."
-    mc "It is. Keep going."
+    mc "就是这样。继续。"
 
 # game/code/e09/e09s01.rpy:498
 translate chinese e09s01_continue_sex_f195d033:
 
     # arj "Yes, Master..."
-    arj "Yes, Master..."
+    arj "好的，主人..."
 
 # game/code/e09/e09s01.rpy:500
 translate chinese e09s01_continue_sex_e5b8eb20:
 
     # arj "Mrrahaa... Just remember, us sharing you means you better not quit on us."
-    arj "Mrrahaa... Just remember, us sharing you means you better not quit on us."
+    arj "啊啊...记住，我们分享你，意味着你最好不要放弃我们。"
 
 # game/code/e09/e09s01.rpy:501
 translate chinese e09s01_continue_sex_fa57c57e:
 
     # arj "Hehe. Not that I'm worried."
-    arj "Hehe. Not that I'm worried."
+    arj "嘿嘿。我并不担心。"
 
 # game/code/e09/e09s01.rpy:502
 translate chinese e09s01_continue_sex_de36c9c4:
 
     # arj "Mrrrahaamm..."
-    arj "Mrrrahaamm..."
+    arj "嗯哼..."
 
 # game/code/e09/e09s01.rpy:505
 translate chinese e09s01_continue_sex_a4708d12:
 
     # mct "Goram. This is a perfect start to a new adventure."
-    mct "Goram. This is a perfect start to a new adventure."
+    mct "哦吼。这是新冒险的完美开端。"
 
 # game/code/e09/e09s01.rpy:506
 translate chinese e09s01_continue_sex_5889ddb7:
 
     # aw "Mrrmmhaah... Mlupppaah."
-    aw "Mrrmmhaah... Mlupppaah."
+    aw "唔啊啊啊...嗯嗯嗯。"
 
 # game/code/e09/e09s01.rpy:509
 translate chinese e09s01_continue_sex_1ea7ed6d:
 
     # arj "Mwaahhh. I love Master's big cock so much!"
-    arj "Mwaahhh. I love Master's big cock so much!"
+    arj "嗯嗯嗯嗯。我太爱主人的大鸡巴了！"
 
 # game/code/e09/e09s01.rpy:511
 translate chinese e09s01_continue_sex_d4f10141:
 
     # arj "Ohuaah... she's doing very good, isn't she, [mcname]?"
-    arj "Ohuaah... she's doing very good, isn't she, [mcname]?"
+    arj "哈啊啊啊...她做得很好，不是吗，[mcname]？"
 
 # game/code/e09/e09s01.rpy:514
 translate chinese e09s01_continue_sex_aaf1e5b3:
 
     # mc "God. Oh fuck. Right there."
-    mc "God. Oh fuck. Right there."
+    mc "天啊，哦，操。就是那里。"
 
 # game/code/e09/e09s01.rpy:515
 translate chinese e09s01_continue_sex_f5cff9c8:
 
     # aw "Haha. I'm figuring out all your cock's weak points."
-    aw "Haha. I'm figuring out all your cock's weak points."
+    aw "哈哈。我正在找出你鸡巴的所有弱点。"
 
 # game/code/e09/e09s01.rpy:519
 translate chinese e09s01_continue_sex_1968e6bf:
 
     # arj "Master looks so pleased with us."
-    arj "Master looks so pleased with us."
+    arj "主人看起来对我们很满意。"
 
 # game/code/e09/e09s01.rpy:520
 translate chinese e09s01_continue_sex_3f309fe6:
 
     # aw "I hope you're having a good time too, AmRose."
-    aw "I hope you're having a good time too, AmRose."
+    aw "希望你也玩得开心，爱洛丝。"
 
 # game/code/e09/e09s01.rpy:523
 translate chinese e09s01_continue_sex_0b7eed54:
 
     # arj "Mrlrapah. If Master is enjoying himself, then so am I."
-    arj "Mrlrapah. If Master is enjoying himself, then so am I."
+    arj "呃啊啊啊。如果主人玩得开心，那我也开心。"
 
 # game/code/e09/e09s01.rpy:524
 translate chinese e09s01_continue_sex_ace69ec5:
 
     # aw "Hehe."
-    aw "Hehe."
+    aw "嘿嘿。"
 
 # game/code/e09/e09s01.rpy:526
 translate chinese e09s01_continue_sex_ade830e1:
 
     # arj "Hahaha. I think he loves every bit of it."
-    arj "Hahaha. I think he loves every bit of it."
+    arj "哈哈哈。我想他喜欢我们的每个动作。"
 
 # game/code/e09/e09s01.rpy:537
 translate chinese e09s01_continue_sex_20e7fc3e:
 
     # aw "Awwaaahuah... nothing better than sucking cock."
-    aw "Awwaaahuah... nothing better than sucking cock."
+    aw "啊哇哇...没有什么比口交更好了。"
 
 # game/code/e09/e09s01.rpy:539
 translate chinese e09s01_continue_sex_d26b3487:
 
     # aw "Except..."
-    aw "Except..."
+    aw "除了..."
 
 # game/code/e09/e09s01.rpy:542
 translate chinese e09s01_continue_sex_6e0e5363:
 
     # arj "Oh. Hello."
-    arj "Oh. Hello."
+    arj "哦，你好。"
 
 # game/code/e09/e09s01.rpy:544
 translate chinese e09s01_continue_sex_f4a04ff6:
 
     # aw "Hey there."
-    aw "Hey there."
+    aw "你好呀。"
 
 # game/code/e09/e09s01.rpy:549
 translate chinese e09s01_continue_sex_ace87c4d:
 
     # aw "Mrmmm."
-    aw "Mrmmm."
+    aw "嗯嗯嗯。"
 
 # game/code/e09/e09s01.rpy:552
 translate chinese e09s01_continue_sex_bcfedcd8:
 
     # arj "Ahuuaah..."
-    arj "Ahuuaah..."
+    arj "哦哇哇哇..."
 
 # game/code/e09/e09s01.rpy:556
 translate chinese e09s01_continue_sex_aed066a9:
 
     # mc "Alright, Allison. Time to really make you one of the gang."
-    mc "Alright, Allison. Time to really make you one of the gang."
+    mc "好了，艾莉森。是时候让你真正成为我们的一员了。"
 
 # game/code/e09/e09s01.rpy:558
 translate chinese e09s01_continue_sex_40fd9082:
 
     # aw "Sign me up, Captain."
-    aw "Sign me up, Captain."
+    aw "把我收入麾下吧，队长。"
 
 # game/code/e09/e09s01.rpy:562
 translate chinese e09s01_continue_sex_e46a5918:
 
     # arj "Great idea, Master."
-    arj "Great idea, Master."
+    arj "好主意，主人。"
 
 # game/code/e09/e09s01.rpy:564
 translate chinese e09s01_continue_sex_455b4000:
 
     # arj "Oooh. Sounds delicious."
-    arj "Oooh. Sounds delicious."
+    arj "哦。听起来很美味。"
 
 # game/code/e09/e09s01.rpy:567
 translate chinese e09s01_continue_sex_cb5ccddd:
 
     # aw "You two are so naughty."
-    aw "You two are so naughty."
+    aw "你们两个真淘气。"
 
 # game/code/e09/e09s01.rpy:569
 translate chinese e09s01_continue_sex_ad2570d1:
 
     # mc "You don't know the half of it."
-    mc "You don't know the half of it."
+    mc "你看到的还不到一半呢。"
 
 # game/code/e09/e09s01.rpy:572
 translate chinese e09s01_continue_sex_d86f4ce5:
 
     # aw "Mrrmm. This all looks perfect to me."
-    aw "Mrrmm. This all looks perfect to me."
+    aw "嗯嗯嗯。我觉得这一切都很完美。"
 
 # game/code/e09/e09s01.rpy:577
 translate chinese e09s01_continue_sex_cb873fd6:
 
     # arj "Room for one more, Allison?"
-    arj "Room for one more, Allison?"
+    arj "艾莉森，还有空位吗？"
 
 # game/code/e09/e09s01.rpy:579
 translate chinese e09s01_continue_sex_81be4804:
 
     # aw "As long as you've got some lube."
-    aw "As long as you've got some lube."
+    aw "只要你有润滑油。"
 
 # game/code/e09/e09s01.rpy:582
 translate chinese e09s01_continue_sex_630b5ec6:
 
     # arj "Of course."
-    arj "Of course."
+    arj "当然。"
 
 # game/code/e09/e09s01.rpy:585
 translate chinese e09s01_continue_sex_a5bf1899:
 
     # aw "Mmr... let's get this party started."
-    aw "Mmr... let's get this party started."
+    aw "啊啊啊...让我们开始派对吧。"
 
 # game/code/e09/e09s01.rpy:588
 translate chinese e09s01_continue_sex_5a0db278:
 
     # aw "Christ on fire-fruaah-foouhaah!"
-    aw "Christ on fire-fruaah-foouhaah!"
+    aw "我的老天--喔哈哈哈--啊啊啊！"
 
 # game/code/e09/e09s01.rpy:590
 translate chinese e09s01_continue_sex_c503b35b:
 
     # mc "Haha. Is that your first orgasm today?"
-    mc "Haha. Is that your first orgasm today?"
+    mc "哈哈。这是你今天的第一次高潮吗？"
 
 # game/code/e09/e09s01.rpy:593
 translate chinese e09s01_continue_sex_26511cce:
 
     # aw "*panting* Yes... but certainly not the last."
-    aw "*panting* Yes... but certainly not the last."
+    aw "*喘气* 是的...但肯定不是最后一次。"
 
 # game/code/e09/e09s01.rpy:595
 translate chinese e09s01_continue_sex_cdeea684:
 
     # mc "Buckle up."
-    mc "Buckle up."
+    mc "系好安全带。"
 
 # game/code/e09/e09s01.rpy:596
 translate chinese e09s01_continue_sex_48acfa9d:
 
     # aw "Oh I'm ready for anything."
-    aw "Oh I'm ready for anything."
+    aw "哦，我准备好了。"
 
 # game/code/e09/e09s01.rpy:599
 translate chinese e09s01_continue_sex_b2623d89:
 
     # arj "*whispers* Are you sure about that?"
-    arj "*whispers* Are you sure about that?"
+    arj "*低语* 你确定吗？"
 
 # game/code/e09/e09s01.rpy:601
 translate chinese e09s01_continue_sex_c4f05142:
 
     # aw "Uh... A little less sure than I was a bit ago."
-    aw "Uh... A little less sure than I was a bit ago."
+    aw "呃...有点不太确定。"
 
 # game/code/e09/e09s01.rpy:604
 translate chinese e09s01_continue_sex_831841fe:
 
     # aw "Oh fuck me!"
-    aw "Oh fuck me!"
+    aw "我操！"
 
 # game/code/e09/e09s01.rpy:606
 translate chinese e09s01_continue_sex_c917ff8c:
 
     # arj "Too much?"
-    arj "Too much?"
+    arj "太多了吗？"
 
 # game/code/e09/e09s01.rpy:609
 translate chinese e09s01_continue_sex_596881e3:
 
     # aw "*panting* No. It's perfect. Keep going, AmRose. I want both of you to fuck me!"
-    aw "*panting* No. It's perfect. Keep going, AmRose. I want both of you to fuck me!"
+    aw "*喘气* 不，太完美了。继续，爱洛丝。我要你们两个都来操我！"
 
 # game/code/e09/e09s01.rpy:611
 translate chinese e09s01_continue_sex_59394234:
 
     # aw "I really want to make the team."
-    aw "I really want to make the team."
+    aw "我真的很想入队。"
 
 # game/code/e09/e09s01.rpy:619
 translate chinese e09s01_continue_sex_c2979b03:
 
     # aw "Yes. YES! Give my holes a workout!"
-    aw "Yes. YES! Give my holes a workout!"
+    aw "是的，是的！让我的洞得到锻炼！"
 
 # game/code/e09/e09s01.rpy:622
 translate chinese e09s01_continue_sex_8c1da280:
 
     # aw "Mrwaa-huaah... Right there. I gotta *moans*... I gotta get those reps in."
-    aw "Mrwaa-huaah... Right there. I gotta *moans*... I gotta get those reps in."
+    aw "唔哈啊啊--啊啊啊...就是那里。我得... *呻吟* 我得把它们放进来。"
 
 # game/code/e09/e09s01.rpy:627
 translate chinese e09s01_continue_sex_99601140:
 
     # mc "Graah... Damnit. Your pussy keeps relaxing and tightening."
-    mc "Graah... Damnit. Your pussy keeps relaxing and tightening."
+    mc "噶啊...该死的。你的小穴一直不停地在放松和收紧。"
 
 # game/code/e09/e09s01.rpy:628
 translate chinese e09s01_continue_sex_bfc48fde:
 
     # aw "Puhaha... yeah... one of my special techniques."
-    aw "Puhaha... yeah... one of my special techniques."
+    aw "噗哈哈...对...我的特殊技巧之一。"
 
 # game/code/e09/e09s01.rpy:630
 translate chinese e09s01_continue_sex_05b3ecab:
 
     # aw "I have to pull out the big guns with both of you fucking me-huaaah!"
-    aw "I have to pull out the big guns with both of you fucking me-huaaah!"
+    aw "你们两个都干我，我得使出大招了--啊哈！"
 
 # game/code/e09/e09s01.rpy:633
 translate chinese e09s01_continue_sex_63a72735:
 
     # aw "That feels great. Both of you are shoving your dicks inside of me!"
-    aw "That feels great. Both of you are shoving your dicks inside of me!"
+    aw "感觉也太美了。你们两个都把老二插进我身体里！"
 
 # game/code/e09/e09s01.rpy:641
 translate chinese e09s01_continue_sex_ed7bf92f:
 
     # aw "Fuhaa-huaah... so great. I'm cum... I'm cummiingahaaa!"
-    aw "Fuhaa-huaah... so great. I'm cum... I'm cummiingahaaa!"
+    aw "操...啊啊啊...太棒了。我要去了...我要去了啊啊啊！"
 
 # game/code/e09/e09s01.rpy:645
 translate chinese e09s01_continue_sex_2fbe36d6:
 
     # mc "Oh fuck. Allison. I'm going to."
-    mc "Oh fuck. Allison. I'm going to."
+    mc "哦，我操。艾莉森。我要射了。"
 
 # game/code/e09/e09s01.rpy:646
 translate chinese e09s01_continue_sex_d00aa781:
 
     # aw "Inside. It's safe."
-    aw "Inside. It's safe."
+    aw "射里面。很安全。"
 
 # game/code/e09/e09s01.rpy:648
 translate chinese e09s01_continue_sex_f49fff8f:
 
     # mc "Yeah?"
-    mc "Yeah?"
+    mc "是吗？"
 
 # game/code/e09/e09s01.rpy:649
 translate chinese e09s01_continue_sex_3d0186a7:
 
     # aw "I love creampies. Just go... Cross the finish line."
-    aw "I love creampies. Just go... Cross the finish line."
+    aw "我喜欢内射。快来...冲过终点线。"
 
 # game/code/e09/e09s01.rpy:654
 translate chinese e09s01_continue_sex_8beb415c:
 
     # aw "*breathless* [mcname]..."
-    aw "*breathless* [mcname]..."
+    aw "*喘不过气* [mcname]..."
 
 # game/code/e09/e09s01.rpy:655
 translate chinese e09s01_continue_sex_33647ea0:
 
     # aw "Ooouhaah..."
-    aw "Ooouhaah..."
+    aw "哦哦噢噢..."
 
 # game/code/e09/e09s01.rpy:659
 translate chinese e09s01_continue_sex_1661ee3c:
 
     # mc "Are you taking a break?"
-    mc "Are you taking a break?"
+    mc "你在休息吗？"
 
 # game/code/e09/e09s01.rpy:661
 translate chinese e09s01_continue_sex_57b0796c:
 
     # aw "Phuaah... no. Of course not."
-    aw "Phuaah... no. Of course not."
+    aw "噗哈...不。当然不是。"
 
 # game/code/e09/e09s01.rpy:664
 translate chinese e09s01_continue_sex_4295966d:
 
     # mc "Good. Cause I want some of that ass."
-    mc "Good. Cause I want some of that ass."
+    mc "很好。因为我想尝尝你的屁股。"
 
 # game/code/e09/e09s01.rpy:666
 translate chinese e09s01_continue_sex_bb1f64c7:
 
     # aw "Huhh... Hehe. Give it your best shot."
-    aw "Huhh... Hehe. Give it your best shot."
+    aw "哈...哼嗯...尽你最大的努力。"
 
 # game/code/e09/e09s01.rpy:670
 translate chinese e09s01_continue_sex_daf92dd8:
 
     # mc "Tucker out already?"
-    mc "Tucker out already?"
+    mc "已经累了？"
 
 # game/code/e09/e09s01.rpy:672
 translate chinese e09s01_continue_sex_69487b62:
 
     # aw "Not... not a chance."
-    aw "Not... not a chance."
+    aw "我不...不可能。"
 
 # game/code/e09/e09s01.rpy:675
 translate chinese e09s01_continue_sex_f052576e:
 
     # mc "Mmmm. Let me have a piece of that ass then?"
-    mc "Mmmm. Let me have a piece of that ass then?"
+    mc "嗯嗯嗯。那让我尝尝你的屁股吧？"
 
 # game/code/e09/e09s01.rpy:677
 translate chinese e09s01_continue_sex_223caca1:
 
     # aw "You... you want to fuck my ass too."
-    aw "You... you want to fuck my ass too."
+    aw "你...你也想操我的屁股。"
 
 # game/code/e09/e09s01.rpy:678
 translate chinese e09s01_continue_sex_fd59e5dd:
 
     # aw "*giggles* Mmmm... try it if you dare."
-    aw "*giggles* Mmmm... try it if you dare."
+    aw "*咯咯笑* 嗯嗯嗯...有种你就试试。"
 
 # game/code/e09/e09s01.rpy:681
 translate chinese e09s01_continue_sex_759d4b68:
 
     # aw "It's even tighter than my pussy."
-    aw "It's even tighter than my pussy."
+    aw "比我的小穴还紧。"
 
 # game/code/e09/e09s01.rpy:683
 translate chinese e09s01_continue_sex_08d06b17:
 
     # mc "You say that like that will scare me."
-    mc "You say that like that will scare me."
+    mc "你这么说会吓到我的。"
 
 # game/code/e09/e09s01.rpy:684
 translate chinese e09s01_continue_sex_ace69ec5_1:
 
     # aw "Hehe."
-    aw "Hehe."
+    aw "嘿嘿。"
 
 # game/code/e09/e09s01.rpy:687
 translate chinese e09s01_continue_sex_6f0ef636:
 
     # arj "I want a taste first."
-    arj "I want a taste first."
+    arj "我想先尝尝。"
 
 # game/code/e09/e09s01.rpy:688
 translate chinese e09s01_continue_sex_b92d8504:
 
     # arj "Mrmrm... [mcname]'s thick cum. It's perfect."
-    arj "Mrmrm... [mcname]'s thick cum. It's perfect."
+    arj "啊啊啊...[mcname]的浓精。太完美了。"
 
 # game/code/e09/e09s01.rpy:692
 translate chinese e09s01_continue_sex_9de64d27:
 
     # aw "Oouhaah..."
-    aw "Oouhaah..."
+    aw "哦哦噢噢..."
 
 # game/code/e09/e09s01.rpy:701
 translate chinese e09s01_continue_sex_8584454a:
 
     # aw "I'm ready, [mcname]."
-    aw "I'm ready, [mcname]."
+    aw "我准备好了，[mcname]。"
 
 # game/code/e09/e09s01.rpy:704
 translate chinese e09s01_continue_sex_f14f6c86:
 
     # aw "Dive dive dive."
-    aw "Dive dive dive."
+    aw "往里，往里，往里。"
 
 # game/code/e09/e09s01.rpy:707
 translate chinese e09s01_continue_sex_3f7587d8:
 
     # aw "Too deep!"
-    aw "Too deep!"
+    aw "太深了啊啊！"
 
 # game/code/e09/e09s01.rpy:709
 translate chinese e09s01_continue_sex_022ec2eb:
 
     # mc "Not from where I'm sitting."
-    mc "Not from where I'm sitting."
+    mc "从我坐的地方看还不够。"
 
 # game/code/e09/e09s01.rpy:712
 translate chinese e09s01_continue_sex_767553ad:
 
     # aw "Fuccckhuaa-huffaohua... oh christ. My poor little asshole-huaah."
-    aw "Fuccckhuaa-huffaohua... oh christ. My poor little asshole-huaah."
+    aw "操啊啊啊--我操我操...哦，天哪。我可怜的小屁眼--哈啊。"
 
 # game/code/e09/e09s01.rpy:713
 translate chinese e09s01_continue_sex_6d73c8f9:
 
     # aw "Oh fuck... are you going to do what I think you're going to do."
-    aw "Oh fuck... are you going to do what I think you're going to do."
+    aw "我操...你该不会要做我想的那个吧？"
 
 # game/code/e09/e09s01.rpy:716
 translate chinese e09s01_continue_sex_67f0ef84_1:
 
     # arj "Mmhmm."
-    arj "Mmhmm."
+    arj "啊哇哇。"
 
 # game/code/e09/e09s01.rpy:718
 translate chinese e09s01_continue_sex_fe7a6c20:
 
     # aw "Awwauaah."
-    aw "Awwauaah."
+    aw "嗯嗯嗯。"
 
 # game/code/e09/e09s01.rpy:725
 translate chinese e09s01_continue_sex_ceedd93f:
 
     # mct "Fuck. She wasn't kidding."
-    mct "Fuck. She wasn't kidding."
+    mct "妈的。她没开玩笑。"
 
 # game/code/e09/e09s01.rpy:726
 translate chinese e09s01_continue_sex_29ccdc81:
 
     # mct "Her ass is so fucking tight!"
-    mct "Her ass is so fucking tight!"
+    mct "她的屁股真他妈紧！"
 
 # game/code/e09/e09s01.rpy:730
 translate chinese e09s01_continue_sex_704f2436:
 
     # mc "Allison, your walls are crushing me."
-    mc "Allison, your walls are crushing me."
+    mc "艾莉森。你的肉壁压得我喘不过气来。"
 
 # game/code/e09/e09s01.rpy:731
 translate chinese e09s01_continue_sex_cf53d41d:
 
     # aw "*gulp gulp*"
-    aw "*gulp gulp*"
+    aw "*咕噜咕噜*"
 
 # game/code/e09/e09s01.rpy:733
 translate chinese e09s01_continue_sex_ed692bc3:
 
     # aw "So pull out. Since it's too much for you."
-    aw "So pull out. Since it's too much for you."
+    aw "那就拔出来。既然你受不了。"
 
 # game/code/e09/e09s01.rpy:734
 translate chinese e09s01_continue_sex_92338827:
 
     # aw "Awhuaaah..."
-    aw "Awhuaaah..."
+    aw "啊啊啊哈..."
 
 # game/code/e09/e09s01.rpy:739
 translate chinese e09s01_continue_sex_b05d776b:
 
     # mct "No. Must... resist."
-    mct "No. Must... resist."
+    mct "不要，必须...抵抗。"
 
 # game/code/e09/e09s01.rpy:740
 translate chinese e09s01_continue_sex_a5e09f75:
 
     # mct "DAT ASS!"
-    mct "DAT ASS!"
+    mct "操，这屁股！"
 
 # game/code/e09/e09s01.rpy:743
 translate chinese e09s01_continue_sex_6b98d629:
 
     # arj "Oouhaah..."
-    arj "Oouhaah..."
+    arj "哦哦噢啊..."
 
 # game/code/e09/e09s01.rpy:744
 translate chinese e09s01_continue_sex_f46797af:
 
     # arj "Such a naughty girl."
-    arj "Such a naughty girl."
+    arj "真是个淘气的女孩。"
 
 # game/code/e09/e09s01.rpy:748
 translate chinese e09s01_continue_sex_9bdf06d9:
 
     # aw "You're... fuchkaah..."
-    aw "You're... fuchkaah..."
+    aw "你...操啊啊..."
 
 # game/code/e09/e09s01.rpy:749
 translate chinese e09s01_continue_sex_a3f213ba:
 
     # aw "You're the one feeding me a creampie."
-    aw "You're the one feeding me a creampie."
+    aw "是你把你的精液喂给我的。"
 
 # game/code/e09/e09s01.rpy:751
 translate chinese e09s01_continue_sex_a6b35874:
 
     # arj "Hehe. Fair point."
-    arj "Hehe. Fair point."
+    arj "呵呵。有道理。"
 
 # game/code/e09/e09s01.rpy:755
 translate chinese e09s01_continue_sex_3e8435ec:
 
     # sy "I'm home!"
-    sy "I'm home!"
+    sy "我回来了！"
 
 # game/code/e09/e09s01.rpy:761
 translate chinese e09s01_continue_sex_4f510295:
 
     # sy "Oouhaah!"
-    sy "Oouhaah!"
+    sy "哇哇哇！"
 
 # game/code/e09/e09s01.rpy:763
 translate chinese e09s01_continue_sex_a774ab94:
 
     # mc "Hey Stacy."
-    mc "Hey Stacy."
+    mc "嘿，史黛西。"
 
 # game/code/e09/e09s01.rpy:766
 translate chinese e09s01_continue_sex_78e9b920:
 
     # sy "Don't 'Hey Stacy' me! You three couldn't wait thirty minutes for me to get back?"
-    sy "Don't 'Hey Stacy' me! You three couldn't wait thirty minutes for me to get back?"
+    sy "别跟我打招呼！你们三个就不能等三十分钟让我回来吗？"
 
 # game/code/e09/e09s01.rpy:768
 translate chinese e09s01_continue_sex_a6435494:
 
     # arj "Sorry Stacy, we had to induct Allison into the gang."
-    arj "Sorry Stacy, we had to induct Allison into the gang."
+    arj "对不起，史黛西，我们得让艾莉森入伙了。"
 
 # game/code/e09/e09s01.rpy:771
 translate chinese e09s01_continue_sex_dec3aba1:
 
     # sy "Well I can see that, AmRose."
-    sy "Well I can see that, AmRose."
+    sy "看得出来，爱洛丝。"
 
 # game/code/e09/e09s01.rpy:772
 translate chinese e09s01_continue_sex_ce8c6a9f:
 
     # sy "Wait, are you on Team Reboot now, Allison?"
-    sy "Wait, are you on Team Reboot now, Allison?"
+    sy "等等，艾莉森，你现在是重启队的一员了吗？"
 
 # game/code/e09/e09s01.rpy:775
 translate chinese e09s01_continue_sex_648bfb5c:
 
     # arj "Yup. Muahah... [mcname] and I can be very convincing."
-    arj "Yup. Muahah... [mcname] and I can be very convincing."
+    arj "是的，哦哈哈...[mcname]。和我都很有说服力。"
 
 # game/code/e09/e09s01.rpy:776
 translate chinese e09s01_continue_sex_d4a37762:
 
     # sy "Well that's great to hear."
-    sy "Well that's great to hear."
+    sy "那真是太好了。"
 
 # game/code/e09/e09s01.rpy:779
 translate chinese e09s01_continue_sex_b68d05ac:
 
     # sy "Once you guys are done though, I expect some help with the computer stuff."
-    sy "Once you guys are done though, I expect some help with the computer stuff."
+    sy "不过等你们完事了，我希望有人能帮我弄弄电脑。"
 
 # game/code/e09/e09s01.rpy:782
 translate chinese e09s01_continue_sex_ced8c917:
 
     # sy "*whispers* Hehe. Kids these days. So horny."
-    sy "*whispers* Hehe. Kids these days. So horny."
+    sy "*低语* 呵呵。现在的孩子们啊。真是饥渴。"
 
 # game/code/e09/e09s01.rpy:788
 translate chinese e09s01_continue_sex_f8efe089:
 
     # mc "Time for someone to enjoy Master's cock."
-    mc "Time for someone to enjoy Master's cock."
+    mc "该有人享受主人的鸡巴了。"
 
 # game/code/e09/e09s01.rpy:790
 translate chinese e09s01_continue_sex_6060900a:
 
     # arj "Yes, Master! Please... ravish my pussy. I've been so patient."
-    arj "Yes, Master! Please... ravish my pussy. I've been so patient."
+    arj "是的，主人。求您...蹂躏我的小穴。我已经很耐心地等待了。"
 
 # game/code/e09/e09s01.rpy:794
 translate chinese e09s01_continue_sex_91214aee:
 
     # mc "Ready, AmRose?"
-    mc "Ready, AmRose?"
+    mc "准备好了吗，爱洛丝？"
 
 # game/code/e09/e09s01.rpy:796
 translate chinese e09s01_continue_sex_3ffe3b05:
 
     # arj "Are you kidding? I'm already soaking wet."
-    arj "Are you kidding? I'm already soaking wet."
+    arj "你在开玩笑吧？我已经湿透了。"
 
 # game/code/e09/e09s01.rpy:797
 translate chinese e09s01_continue_sex_1b7368d3:
 
     # arj "Give it to me, [mcname]!"
-    arj "Give it to me, [mcname]!"
+    arj "给我吧，[mcname]！"
 
 # game/code/e09/e09s01.rpy:800
 translate chinese e09s01_continue_sex_174bc89b:
 
     # arj "Nu... muaah... Yes!"
-    arj "Nu... muaah... Yes!"
+    arj "唔...啊啊啊...好舒服！"
 
 # game/code/e09/e09s01.rpy:802
 translate chinese e09s01_continue_sex_e60a2551:
 
     # aw "Oh fuck. [mcname]. You never turn off , do you?"
-    aw "Oh fuck. [mcname]. You never turn off , do you?"
+    aw "哦，操。[mcname]。你从不关机的，是吗？"
 
 # game/code/e09/e09s01.rpy:804
 translate chinese e09s01_continue_sex_6ff41185:
 
     # mc "Nope."
-    mc "Nope."
+    mc "没错。"
 
 # game/code/e09/e09s01.rpy:809
 translate chinese e09s01_continue_sex_20ab9b35:
 
     # arj "Yes!"
-    arj "Yes!"
+    arj "爽死了啊！"
 
 # game/code/e09/e09s01.rpy:810
 translate chinese e09s01_continue_sex_3d672c13:
 
     # arj "*moaning*"
-    arj "*moaning*"
+    arj "*呻吟*"
 
 # game/code/e09/e09s01.rpy:812
 translate chinese e09s01_continue_sex_b3cda1e4:
 
     # aw "Fuck. You fucked me so hard... but seeing her squeal like that..."
-    aw "Fuck. You fucked me so hard... but seeing her squeal like that..."
+    aw "操。你操得我好爽...但看到她那样尖叫..."
 
 # game/code/e09/e09s01.rpy:813
 translate chinese e09s01_continue_sex_a6ecce9a:
 
     # aw "I almost want to go for another rotation."
-    aw "I almost want to go for another rotation."
+    aw "我几乎想再来一次了。"
 
 # game/code/e09/e09s01.rpy:815
 translate chinese e09s01_continue_sex_7aab2b0e:
 
     # mc "Hahuaah. Don't be greedy, Allison."
-    mc "Hahuaah. Don't be greedy, Allison."
+    mc "哈哈哈哈。别太贪心，艾莉森。"
 
 # game/code/e09/e09s01.rpy:816
 translate chinese e09s01_continue_sex_b778140f:
 
     # aw "I know I shouldn't, but I already want your cock back inside me."
-    aw "I know I shouldn't, but I already want your cock back inside me."
+    aw "我知道我不应该贪心，但我心里已经想让你的鸡巴再插进来了。"
 
 # game/code/e09/e09s01.rpy:820
 translate chinese e09s01_continue_sex_eeef8c81:
 
     # mc "You really are a hopeless bitch."
-    mc "You really are a hopeless bitch."
+    mc "你真是个无可救药的婊子。"
 
 # game/code/e09/e09s01.rpy:821
 translate chinese e09s01_continue_sex_b5811c5e:
 
     # aw "Yes... Mrhuaah... yes I am..."
-    aw "Yes... Mrhuaah... yes I am..."
+    aw "是的...嗯啊啊...是的，我是..."
 
 # game/code/e09/e09s01.rpy:824
 translate chinese e09s01_continue_sex_94409132:
 
     # aw "Oouhah... but please keep finger-fucking me!"
-    aw "Oouhah... but please keep finger-fucking me!"
+    aw "啊...求您继续用手指操我！"
 
 # game/code/e09/e09s01.rpy:826
 translate chinese e09s01_continue_sex_dedbd66d:
 
     # mc "I'm sure you'll get another chance."
-    mc "I'm sure you'll get another chance."
+    mc "我相信你会有下一次机会的。"
 
 # game/code/e09/e09s01.rpy:827
 translate chinese e09s01_continue_sex_0945c04e:
 
     # aw "Promise?"
-    aw "Promise?"
+    aw "你保证？"
 
 # game/code/e09/e09s01.rpy:830
 translate chinese e09s01_continue_sex_797d3a32:
 
     # mc "Sure, I promise."
-    mc "Sure, I promise."
+    mc "当然，我保证。"
 
 # game/code/e09/e09s01.rpy:831
 translate chinese e09s01_continue_sex_25c62731:
 
     # aw "Good."
-    aw "Good."
+    aw "那好。"
 
 # game/code/e09/e09s01.rpy:834
 translate chinese e09s01_continue_sex_1681bb5e:
 
     # mc "Nuraah... AmRose. You're tightening up."
-    mc "Nuraah... AmRose. You're tightening up."
+    mc "呃啊...爱洛丝。你咬的我好紧。"
 
 # game/code/e09/e09s01.rpy:836
 translate chinese e09s01_continue_sex_8c0ca64e:
 
     # arj "Yes... *moan* I want to feel you cum inside of me, Master."
-    arj "Yes... *moan* I want to feel you cum inside of me, Master."
+    arj "是的... *呻吟* 我想感受你在我体内射精，主人。"
 
 # game/code/e09/e09s01.rpy:837
 translate chinese e09s01_continue_sex_223b3812:
 
     # arj "I can't resist. Not after seeing you shoot your baby batter inside, Allison."
-    arj "I can't resist. Not after seeing you shoot your baby batter inside, Allison."
+    arj "我忍不住。艾莉森，在看到你把精液射进我身体里之后，我就忍不住了。"
 
 # game/code/e09/e09s01.rpy:840
 translate chinese e09s01_continue_sex_bc15226b:
 
     # arj "*moans and squeals* Do it... please. I'm your best little slut-huaah!"
-    arj "*moans and squeals* Do it... please. I'm your best little slut-huaah!"
+    arj "*呻吟加尖叫* 来吧...求你了。我是你最好的荡妇！"
 
 # game/code/e09/e09s01.rpy:843
 translate chinese e09s01_continue_sex_d9a4e7c1:
 
     # arj "I want... I want to make you feel good, [mcname]."
-    arj "I want... I want to make you feel good, [mcname]."
+    arj "我想...我想让你舒服，[mcname]。"
 
 # game/code/e09/e09s01.rpy:844
 translate chinese e09s01_continue_sex_b411c07a:
 
     # arj "Nuaah... when... when we were talking earlier... I realized I was being stubborn..."
-    arj "Nuaah... when... when we were talking earlier... I realized I was being stubborn..."
+    arj "啊啊啊...当初...当初我们聊天的时候，我意识到我太固执了..."
 
 # game/code/e09/e09s01.rpy:847
 translate chinese e09s01_continue_sex_efc4e065:
 
     # arj "Maybe even a little rude to you."
-    arj "Maybe even a little rude to you."
+    arj "也许还对你有点无礼。"
 
 # game/code/e09/e09s01.rpy:848
 translate chinese e09s01_continue_sex_b626714e:
 
     # mc "Forget about it, AmRose. I know what you were doing."
-    mc "Forget about it, AmRose. I know what you were doing."
+    mc "算了吧，爱洛丝。我知道你在做什么。"
 
 # game/code/e09/e09s01.rpy:851
 translate chinese e09s01_continue_sex_83495ed0:
 
     # mc "I understand."
-    mc "I understand."
+    mc "我明白。"
 
 # game/code/e09/e09s01.rpy:852
 translate chinese e09s01_continue_sex_47b9d4dc:
 
     # arj "Oh [mcname]! I'm so happy being with you."
-    arj "Oh [mcname]! I'm so happy being with you."
+    arj "哦[mcname]！和你在一起我好开心。"
 
 # game/code/e09/e09s01.rpy:863
 translate chinese e09s01_continue_sex_d8fc6e11:
 
     # arj "Muraah... please... fuck me harder."
-    arj "Muraah... please... fuck me harder."
+    arj "啊啊啊...求你...用力干我。"
 
 # game/code/e09/e09s01.rpy:864
 translate chinese e09s01_continue_sex_3f8165a0:
 
     # arj "Use me till I explode!"
-    arj "Use me till I explode!"
+    arj "把我操到爆炸！"
 
 # game/code/e09/e09s01.rpy:868
 translate chinese e09s01_continue_sex_6a8c03cf:
 
     # arj "Oh fuck! It feels amazing. Keep going... I can take it."
-    arj "Oh fuck! It feels amazing. Keep going... I can take it."
+    arj "我操！感觉太棒了。继续...我受得了。"
 
 # game/code/e09/e09s01.rpy:869
 translate chinese e09s01_continue_sex_f3ffc1f0:
@@ -1748,275 +1748,275 @@ translate chinese e09s01_continue_sex_f3ffc1f0:
 translate chinese e09s01_continue_sex_89e99505:
 
     # mc "Nrrrrnnn."
-    mc "Nrrrrnnn."
+    mc "唔唔唔。"
 
 # game/code/e09/e09s01.rpy:876
 translate chinese e09s01_continue_sex_e7e6958f:
 
     # arj "Oh yesuuaaah!"
-    arj "Oh yesuuaaah!"
+    arj "哦哦哦，好爽！"
 
 # game/code/e09/e09s01.rpy:879
 translate chinese e09s01_continue_sex_119b5a1a:
 
     # aw "That's so hot... Mrrmmm... How's it feel, AmRose?"
-    aw "That's so hot... Mrrmmm... How's it feel, AmRose?"
+    aw "太性感了...嗯嗯嗯嗯...感觉怎么样，爱洛丝？"
 
 # game/code/e09/e09s01.rpy:882
 translate chinese e09s01_continue_sex_7ef38381:
 
     # arj "I feel like I'm home..."
-    arj "I feel like I'm home..."
+    arj "我感觉像回到了家..."
 
 # game/code/e09/e09s01.rpy:889
 translate chinese e09s01_continue_sex_039fc828:
 
     # arj "Mrmmm."
-    arj "Mrmmm."
+    arj "嗯哼哼哼。"
 
 # game/code/e09/e09s01.rpy:892
 translate chinese e09s01_continue_sex_c5bdaddb:
 
     # aw "Awwwhuaah."
-    aw "Awwwhuaah."
+    aw "啊哇哇。"
 
 # game/code/e09/e09s01.rpy:897
 translate chinese e09s01_continue_sex_512d1fad:
 
     # aw "I'm uh... I think I'm going to nap here for a bit."
-    aw "I'm uh... I think I'm going to nap here for a bit."
+    aw "我...我想在这里小睡一会儿。"
 
 # game/code/e09/e09s01.rpy:899
 translate chinese e09s01_continue_sex_d969f247:
 
     # mc "That's fine."
-    mc "That's fine."
+    mc "没关系。"
 
 # game/code/e09/e09s01.rpy:902
 translate chinese e09s01_continue_sex_533e4fd9:
 
     # aw "Yeah but, I feel like I'm forgetting something."
-    aw "Yeah but, I feel like I'm forgetting something."
+    aw "嗯，但我好像忘了什么东西。"
 
 # game/code/e09/e09s01.rpy:904
 translate chinese e09s01_continue_sex_ce330cfb:
 
     # mc "No worries."
-    mc "No worries."
+    mc "别担心。"
 
 # game/code/e09/e09s01.rpy:909
 translate chinese e09s01_continue_sex_dae3a98b:
 
     # aw "Shit!"
-    aw "Shit!"
+    aw "我靠！"
 
 # game/code/e09/e09s01.rpy:911
 translate chinese e09s01_continue_sex_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "怎么了？"
 
 # game/code/e09/e09s01.rpy:912
 translate chinese e09s01_continue_sex_9b40f58d:
 
     # aw "Hana! You said you were going to call her and see if you were going to stop her from running the article."
-    aw "Hana! You said you were going to call her and see if you were going to stop her from running the article."
+    aw "哈娜！你说你要给她打电话，看看能不能阻止她发表文章。"
 
 # game/code/e09/e09s01.rpy:915
 translate chinese e09s01_continue_sex_81bc5d6d:
 
     # mc "Oh fuck. Yes, I need to get on that."
-    mc "Oh fuck. Yes, I need to get on that."
+    mc "我操。是的，我得去办这件事。"
 
 # game/code/e09/e09s01.rpy:917
 translate chinese e09s01_continue_sex_ecb2cfc1:
 
     # arj "I'll have to nap later."
-    arj "I'll have to nap later."
+    arj "我等会儿要打个盹儿。"
 
 # game/code/e09/e09s01.rpy:920
 translate chinese e09s01_continue_sex_3dc6fcd3:
 
     # sy "Yup. Besides, I need some help over here."
-    sy "Yup. Besides, I need some help over here."
+    sy "理解。另外，我这里需要帮手。"
 
 # game/code/e09/e09s01.rpy:923
 translate chinese e09s01_continue_sex_ce766102:
 
     # mc "Mmm."
-    mc "Mmm."
+    mc "嗯嗯。"
 
 # game/code/e09/e09s01.rpy:926
 translate chinese e09s01_continue_sex_cfd8effb:
 
     # sy "We good?"
-    sy "We good?"
+    sy "我们还好吧？"
 
 # game/code/e09/e09s01.rpy:928
 translate chinese e09s01_continue_sex_f0ff93b1:
 
     # arj "Yeah we good, Stacy."
-    arj "Yeah we good, Stacy."
+    arj "我们没事，史黛西。"
 
 # game/code/e09/e09s01.rpy:931
 translate chinese e09s01_continue_sex_ea7e6e3e:
 
     # sy "Yay!"
-    sy "Yay!"
+    sy "耶！"
 
 # game/code/e09/e09s01.rpy:934
 translate chinese e09s01_continue_sex_eceb1b49:
 
     # mc "Hey, Hana it's me. Listen, I wanted to talk to you about... uh... things. Just Lydia and all that. Pretty crazy how it all played out, right?"
-    mc "Hey, Hana it's me. Listen, I wanted to talk to you about... uh... things. Just Lydia and all that. Pretty crazy how it all played out, right?"
+    mc "嘿，哈娜，是我。听着，我想和你谈谈...呃...事情。莉迪亚的事。这一切都太疯狂了，对吧？"
 
 # game/code/e09/e09s01.rpy:935
 translate chinese e09s01_continue_sex_7b8cb664:
 
     # mc "Anyhow, I'm free tomorrow. We can meet at the regular spot. Let me know, please."
-    mc "Anyhow, I'm free tomorrow. We can meet at the regular spot. Let me know, please."
+    mc "总之，我明天有空。我们可以在老地方见面。请告诉我一声。"
 
 # game/code/e09/e09s01.rpy:936
 translate chinese e09s01_continue_sex_4d9a5d86:
 
     # mc "Bye."
-    mc "Bye."
+    mc "再见。"
 
 # game/code/e09/e09s01.rpy:939
 translate chinese e09s01_continue_sex_82fe58fe:
 
     # mc "Well I left a message. Hopefully she'll reply before she posts the article..."
-    mc "Well I left a message. Hopefully she'll reply before she posts the article..."
+    mc "我留了言。希望她能在发表文章之前回复我..."
 
 # game/code/e09/e09s01.rpy:941
 translate chinese e09s01_continue_sex_67f0ef84_2:
 
     # arj "Mmhmm."
-    arj "Mmhmm."
+    arj "嗯嗯嗯。"
 
 # game/code/e09/e09s01.rpy:944
 translate chinese e09s01_continue_sex_c87ccc02:
 
     # sy "That's enough negative waves out of you, Mister. Come on, even if she puts out the article, we'll manage."
-    sy "That's enough negative waves out of you, Mister. Come on, even if she puts out the article, we'll manage."
+    sy "先生，你的负面情绪已经够多了。来吧，即使她发了文章，我们也能应付。"
 
 # game/code/e09/e09s01.rpy:945
 translate chinese e09s01_continue_sex_3b4efdf0:
 
     # sy "I know it."
-    sy "I know it."
+    sy "我很确定。"
 
 # game/code/e09/e09s01.rpy:948
 translate chinese e09s01_continue_sex_2138e6c6:
 
     # mc "I'm not so sure."
-    mc "I'm not so sure."
+    mc "我不确定。"
 
 # game/code/e09/e09s01.rpy:951
 translate chinese e09s01_continue_sex_e8b20923:
 
     # sy "In the meantime, we can start looking at all the data we've got here."
-    sy "In the meantime, we can start looking at all the data we've got here."
+    sy "同时，我们可以开始查看这里所有的数据。"
 
 # game/code/e09/e09s01.rpy:953
 translate chinese e09s01_continue_sex_43601aea:
 
     # arj "Yes, and deleting anything that is..."
-    arj "Yes, and deleting anything that is..."
+    arj "是的，删除所有..."
 
 # game/code/e09/e09s01.rpy:954
 translate chinese e09s01_continue_sex_bd18cddc:
 
     # arj "Meant to stay private."
-    arj "Meant to stay private."
+    arj "应该保密的。"
 
 # game/code/e09/e09s01.rpy:957
 translate chinese e09s01_continue_sex_b856a555:
 
     # sy "Whatever you say, boss."
-    sy "Whatever you say, boss."
+    sy "听你的，老大。"
 
 # game/code/e09/e09s01.rpy:973
 translate chinese e09s01_end_e4b234e1:
 
     # sy "Woahah! That's it."
-    sy "Woahah! That's it."
+    sy "喔吼吼！就是这样。"
 
 # game/code/e09/e09s01.rpy:974
 translate chinese e09s01_end_c2742266:
 
     # sy "At least I think that's it."
-    sy "At least I think that's it."
+    sy "至少我认为是这样。"
 
 # game/code/e09/e09s01.rpy:977
 translate chinese e09s01_end_069be3a2:
 
     # arj "Hmmm. Oh."
-    arj "Hmmm. Oh."
+    arj "嗯。哦。"
 
 # game/code/e09/e09s01.rpy:979
 translate chinese e09s01_end_5878dead:
 
     # sy "I'm right. Right?"
-    sy "I'm right. Right?"
+    sy "我是对的。对吗？"
 
 # game/code/e09/e09s01.rpy:982
 translate chinese e09s01_end_1b7a9172:
 
     # arj "It's certainly something."
-    arj "It's certainly something."
+    arj "肯定有什么。"
 
 # game/code/e09/e09s01.rpy:984
 translate chinese e09s01_end_6239c36e:
 
     # mc "Wait, what am I missing?"
-    mc "Wait, what am I missing?"
+    mc "等等，我错过了什么？"
 
 # game/code/e09/e09s01.rpy:987
 translate chinese e09s01_end_28f96eff:
 
     # arj "File HR2. Look at the names on the files."
-    arj "File HR2. Look at the names on the files."
+    arj "文件HR2。看看文件上的名字。"
 
 # game/code/e09/e09s01.rpy:988
 translate chinese e09s01_end_2168d3e8:
 
     # arj "It's on the messages too."
-    arj "It's on the messages too."
+    arj "留言上也有。"
 
 # game/code/e09/e09s01.rpy:991
 translate chinese e09s01_end_bc9db205:
 
     # mc "Wait. Is that-"
-    mc "Wait. Is that-"
+    mc "等等，那是--"
 
 # game/code/e09/e09s01.rpy:993
 translate chinese e09s01_end_df4369d9:
 
     # arj "Mmmhmm."
-    arj "Mmmhmm."
+    arj "嗯哼。"
 
 # game/code/e09/e09s01.rpy:996
 translate chinese e09s01_end_1320f91f:
 
     # arj "I think that is exactly the piece you need to get Hana on board."
-    arj "I think that is exactly the piece you need to get Hana on board."
+    arj "我想这正是让哈娜加入我们所需要的东西。"
 
 translate chinese strings:
 
     # game/code/e09/e09s01.rpy:272
     old "Hell yeah!"
-    new "Hell yeah!"
+    new "好极了！"
 
     # game/code/e09/e09s01.rpy:272
     old "I'll keep that in mind."
-    new "I'll keep that in mind."
+    new "我会记住的。"
 
     # game/code/e09/e09s01.rpy:429
     old "Rough"
-    new "Rough"
+    new "粗暴"
 
     # game/code/e09/e09s01.rpy:429
     old "Easy"
-    new "Easy"
+    new "轻松"
 
