@@ -434,463 +434,463 @@ translate chinese e09s01_088a8c6e:
 translate chinese e09s01_7cd8ed16:
 
     # aw "I can be the chief morale officer. Blowjobs and pussy licking for whenever the troops are down."
-    aw "I can be the chief morale officer. Blowjobs and pussy licking for whenever the troops are down."
+    aw "我可以当首席士气官。每当部队溃败时，我就为大家口交和舔穴。"
 
 # game/code/e09/e09s01.rpy:277
 translate chinese e09s01_3a17010e:
 
     # mc "Hell yeah!"
-    mc "Hell yeah!"
+    mc "我去，可以啊！"
 
 # game/code/e09/e09s01.rpy:279
 translate chinese e09s01_8e7f44ca:
 
     # aw "Haha. [mcname], I was just kidding."
-    aw "Haha. [mcname], I was just kidding."
+    aw "哈哈。[mcname]，我只是在开玩笑。"
 
 # game/code/e09/e09s01.rpy:282
 translate chinese e09s01_ef68120b:
 
     # aw "Or was I."
-    aw "Or was I."
+    aw "我也不知道。"
 
 # game/code/e09/e09s01.rpy:287
 translate chinese e09s01_3e99a565:
 
     # mc "I'll keep that position in mind."
-    mc "I'll keep that position in mind."
+    mc "我会记住这个位置的。"
 
 # game/code/e09/e09s01.rpy:289
 translate chinese e09s01_210ed5b9:
 
     # aw "I bet you will. Hehe."
-    aw "I bet you will. Hehe."
+    aw "我打赌你会的。嘿嘿。"
 
 # game/code/e09/e09s01.rpy:293
 translate chinese e09s01_88b6d363:
 
     # aw "I am sure that we will figure out something for me to do for the app."
-    aw "I am sure that we will figure out something for me to do for the app."
+    aw "我相信我们肯定能给我找点活干，让我为应用工作的。"
 
 # game/code/e09/e09s01.rpy:294
 translate chinese e09s01_04ce76fb:
 
     # aw "It sounds like Stacy and AmRose are going to be up to their tits in super-intense code monkey stuff."
-    aw "It sounds like Stacy and AmRose are going to be up to their tits in super-intense code monkey stuff."
+    aw "听起来史黛西和爱洛丝接下来工作会超级忙，要变身超级程序猿了。"
 
 # game/code/e09/e09s01.rpy:297
 translate chinese e09s01_00d98f5b:
 
     # aw "I bet they could use some food and fuel, so why don't I order up some pizza for the team?"
-    aw "I bet they could use some food and fuel, so why don't I order up some pizza for the team?"
+    aw "我想她们一定需要一些食物和燃料，要不我帮她们订点披萨？"
 
 # game/code/e09/e09s01.rpy:299
 translate chinese e09s01_dd770319:
 
     # mc "Really? That's super cool of you Allison."
-    mc "Really? That's super cool of you Allison."
+    mc "真的吗？艾莉森，你真棒！"
 
 # game/code/e09/e09s01.rpy:302
 translate chinese e09s01_4ed05861:
 
     # aw "No biggie. I get a decent per diem from my scholarship anyhow."
-    aw "No biggie. I get a decent per diem from my scholarship anyhow."
+    aw "没什么。反正我的奖学金也给了我一笔可观的每日生活费。"
 
 # game/code/e09/e09s01.rpy:305
 translate chinese e09s01_709c212a:
 
     # aw "Pizza is ordered. Should be here in like an hour."
-    aw "Pizza is ordered. Should be here in like an hour."
+    aw "披萨点好了。应该一小时后就到。"
 
 # game/code/e09/e09s01.rpy:307
 translate chinese e09s01_3433f2d3:
 
     # arj "Thanks again, Allison. That sounds like the perfect break time."
-    arj "Thanks again, Allison. That sounds like the perfect break time."
+    arj "再次谢谢你，艾莉森。这听起来像是最完美的休息时间。"
 
 # game/code/e09/e09s01.rpy:310
 translate chinese e09s01_42eb451f:
 
     # aw "You got it. Any luck on the dumb computer problem?"
-    aw "You got it. Any luck on the dumb computer problem?"
+    aw "没问题。那个破电脑有什么进展吗？"
 
 # game/code/e09/e09s01.rpy:312
 translate chinese e09s01_8225c0a3:
 
     # arj "*sighs* No. Not yet. Stacy was right. The way the code is built, it's going to take some elbow grease to figure out the solution."
-    arj "*sighs* No. Not yet. Stacy was right. The way the code is built, it's going to take some elbow grease to figure out the solution."
+    arj "*叹气* 没，还没有。史黛西说得对。从代码的构建方式来看，要想找到解决办法还得哈娜好一会儿功夫。"
 
 # game/code/e09/e09s01.rpy:315
 translate chinese e09s01_f5eb77c4:
 
     # aw "I'm sure you will figure it out, AmRose. I mean, I really hope you do. I'm already missing Fetish Locator."
-    aw "I'm sure you will figure it out, AmRose. I mean, I really hope you do. I'm already missing Fetish Locator."
+    aw "我相信你会想出办法的，爱洛丝。我是我真的希望你会成功。我已经开始想念性趣探测器了。"
 
 # game/code/e09/e09s01.rpy:316
 translate chinese e09s01_77034a1f:
 
     # aw "Like a lot."
-    aw "Like a lot."
+    aw "非常想念。"
 
 # game/code/e09/e09s01.rpy:319
 translate chinese e09s01_7512cabc:
 
     # arj "Hmmm. I'm not sure if I miss it. But it certainly had its good points."
-    arj "Hmmm. I'm not sure if I miss it. But it certainly had its good points."
+    arj "嗯嗯嗯。我不确定我有没有想它。但软件肯定有它的优点。"
 
 # game/code/e09/e09s01.rpy:322
 translate chinese e09s01_5677e805:
 
     # aw "Yup. Those parties were the fucking best. Oooh and the masks, the anonymous sexy situations you could get into."
-    aw "Yup. Those parties were the fucking best. Oooh and the masks, the anonymous sexy situations you could get into."
+    aw "是啊，那些派对太他妈棒了。哦，还有那些面具，还有那些你可以进入的匿名的性感场合。"
 
 # game/code/e09/e09s01.rpy:323
 translate chinese e09s01_0a09bafb:
 
     # aw "It almost feels like a dream now."
-    aw "It almost feels like a dream now."
+    aw "现在感觉就像在做梦。"
 
 # game/code/e09/e09s01.rpy:326
 translate chinese e09s01_2239ff73:
 
     # arj "I liked the parties, but the thing I liked the most were the subtle things."
-    arj "I liked the parties, but the thing I liked the most were the subtle things."
+    arj "我喜欢派对，但我最喜欢的是那些微妙的东西。"
 
 # game/code/e09/e09s01.rpy:329
 translate chinese e09s01_b07bc368:
 
     # aw "Subtle things. Like what?"
-    aw "Subtle things. Like what?"
+    aw "微妙的东西。比如什么？"
 
 # game/code/e09/e09s01.rpy:331
 translate chinese e09s01_130a4196:
 
     # arj "I should keep working."
-    arj "I should keep working."
+    arj "我应该继续工作。"
 
 # game/code/e09/e09s01.rpy:334
 translate chinese e09s01_a46cc9f4:
 
     # aw "What?! Come on, don't tease me, girl. That's no fun."
-    aw "What?! Come on, don't tease me, girl. That's no fun."
+    aw "什么?! 不是吧，别逗我啊，你这人。这可不好玩。"
 
 # game/code/e09/e09s01.rpy:335
 translate chinese e09s01_e1993b18:
 
     # aw "Well it's a little fun, but come on, tell me. I can feel it. You want to share."
-    aw "Well it's a little fun, but come on, tell me. I can feel it. You want to share."
+    aw "好吧，是有点好玩，但是说嘛，告诉我。我能感觉到。你想分享的。"
 
 # game/code/e09/e09s01.rpy:338
 translate chinese e09s01_a06c0c13:
 
     # arj "Before they used the app, a certain {b}someone{/b} was especially shy and thick-headed about certain other people's affections."
-    arj "Before they used the app, a certain {b}someone{/b} was especially shy and thick-headed about certain other people's affections."
+    arj "在使用这个应用程序之前，{b}某个人{/b}曾经特别害羞，对别人的感情特别迟钝。"
 
 # game/code/e09/e09s01.rpy:343
 translate chinese e09s01_4f329d1b:
 
     # aw "Shy [mcname]? Really? That's hard to imagine."
-    aw "Shy [mcname]? Really? That's hard to imagine."
+    aw "害羞的[mcname]？真的吗？真难以想象。"
 
 # game/code/e09/e09s01.rpy:344
 translate chinese e09s01_9fbd039d:
 
     # aw "Wait! Are you saying that you were putting out the vibes and he was missing all the signals, AmRose?"
-    aw "Wait! Are you saying that you were putting out the vibes and he was missing all the signals, AmRose?"
+    aw "等等！你是说你主动创造氛围，而他错过了所有信号，爱洛丝？"
 
 # game/code/e09/e09s01.rpy:347
 translate chinese e09s01_a145fff8:
 
     # arj "The three blind mice could have figured it out sooner than he did."
-    arj "The three blind mice could have figured it out sooner than he did."
+    arj "三只瞎老鼠都能比他更早发现。"
 
 # game/code/e09/e09s01.rpy:349
 translate chinese e09s01_1f5b224d:
 
     # mc "Hahaha."
-    mc "Hahaha."
+    mc "哈哈哈。"
 
 # game/code/e09/e09s01.rpy:352
 translate chinese e09s01_f5d982e2:
 
     # mc "I never said I was perfect."
-    mc "I never said I was perfect."
+    mc "我从没说过我是完美的。"
 
 # game/code/e09/e09s01.rpy:353
 translate chinese e09s01_4d1ed2eb:
 
     # mc "I missed a lot, including... what was right in front of me."
-    mc "I missed a lot, including... what was right in front of me."
+    mc "我错过了很多，包括...我眼前所拥有的。"
 
 # game/code/e09/e09s01.rpy:356
 translate chinese e09s01_370905ea:
 
     # mc "I admit that, and I kick myself every morning for not opening my eyes sooner."
-    mc "I admit that, and I kick myself every morning for not opening my eyes sooner."
+    mc "我承认，我每天早上都为自己没有早点睁开眼睛而自责。"
 
 # game/code/e09/e09s01.rpy:357
 translate chinese e09s01_b4b7b1a2:
 
     # mc "That's why I'm doing this. The good parts of Fetish Locator helped me out. It helped other people too, like Kevin and Chloe."
-    mc "That's why I'm doing this. The good parts of Fetish Locator helped me out. It helped other people too, like Kevin and Chloe."
+    mc "这就是我这么做的原因。性趣探测器有它好的部分，正是这些帮我发现了自己的失误。它也帮助了其他人，比如凯文和克洛伊。"
 
 # game/code/e09/e09s01.rpy:360
 translate chinese e09s01_fb0b9ccd:
 
     # aw "Totally. I've heard some friends at the university say the same thing."
-    aw "Totally. I've heard some friends at the university say the same thing."
+    aw "没错。我听大学里的一些朋友也这么说。"
 
 # game/code/e09/e09s01.rpy:361
 translate chinese e09s01_7ed719b6:
 
     # aw "Some probably wouldn't have survived all the studying for their finals without some of the stress relief the app gave them."
-    aw "Some probably wouldn't have survived all the studying for their finals without some of the stress relief the app gave them."
+    aw "如果没有这个软件给他们减压，有些人可能就熬不过期末考试的复习。"
 
 # game/code/e09/e09s01.rpy:364
 translate chinese e09s01_0c25f4dc:
 
     # mc "That's what I'm talking about. In the right hands, the new app will be amazing."
-    mc "That's what I'm talking about. In the right hands, the new app will be amazing."
+    mc "这就是我要说的。在合适的人手中，这款新应用将会非常棒。"
 
 # game/code/e09/e09s01.rpy:366
 translate chinese e09s01_4edfca69:
 
     # arj "Mmhmmm. Assuming Stacy and I can figure out this cursed spyware problem."
-    arj "Mmhmmm. Assuming Stacy and I can figure out this cursed spyware problem."
+    arj "嗯嗯。前提是史黛西和我能解决这个该死的间谍软件问题。"
 
 # game/code/e09/e09s01.rpy:367
 translate chinese e09s01_d8588fd9:
 
     # mc "If anyone can do it, you two can."
-    mc "If anyone can do it, you two can."
+    mc "如果有人能做到，那就是你们俩了。"
 
 # game/code/e09/e09s01.rpy:370
 translate chinese e09s01_275947fe:
 
     # mc "But you know, it sounds like you could use a break."
-    mc "But you know, it sounds like you could use a break."
+    mc "但你知道，听起来你们需要休息一下。"
 
 # game/code/e09/e09s01.rpy:373
 translate chinese e09s01_3776e5b3:
 
     # arj "Master, I can have a break when the pizza gets here."
-    arj "Master, I can have a break when the pizza gets here."
+    arj "主人，披萨到了我就可以休息了。"
 
 # game/code/e09/e09s01.rpy:375
 translate chinese e09s01_27e9d653:
 
     # arj "I'll have one when the pizza gets here, silly."
-    arj "I'll have one when the pizza gets here, silly."
+    arj "披萨到了我就休息，傻瓜。"
 
 # game/code/e09/e09s01.rpy:378
 translate chinese e09s01_d2db4978:
 
     # mc "Nah. I don't want to take the risk that one of our top coders gets burnt out on the first day."
-    mc "Nah. I don't want to take the risk that one of our top coders gets burnt out on the first day."
+    mc "不行。我可不想冒险让我们的顶级程序员在第一天就累垮了。"
 
 # game/code/e09/e09s01.rpy:380
 translate chinese e09s01_c2d10514:
 
     # arj "Ooooh. What did you have in mind?"
-    arj "Ooooh. What did you have in mind?"
+    arj "哦哦。你有什么想法？"
 
 # game/code/e09/e09s01.rpy:388
 translate chinese e09s01_18160cca:
 
     # mc "Allison, since you're down to help us make the new and improved Fetish Locator, I think you need to be initiated into the team."
-    mc "Allison, since you're down to help us make the new and improved Fetish Locator, I think you need to be initiated into the team."
+    mc "艾莉森，既然你来帮助我们制作优化的全新性趣探测器，我想你需要加入我们的团队。"
 
 # game/code/e09/e09s01.rpy:389
 translate chinese e09s01_d8f4df1a:
 
     # mc "Properly."
-    mc "Properly."
+    mc "完全成为我们的一员。"
 
 # game/code/e09/e09s01.rpy:392
 translate chinese e09s01_fa3e8b1b:
 
     # aw "I absolutely agree. What do I have to do?"
-    aw "I absolutely agree. What do I have to do?"
+    aw "我完全同意。我需要做什么？"
 
 # game/code/e09/e09s01.rpy:394
 translate chinese e09s01_abb874d2:
 
     # mc "Mmm. Pretty much whatever AmRose and I say."
-    mc "Mmm. Pretty much whatever AmRose and I say."
+    mc "嗯，我和爱洛丝说什么，你就做什么。"
 
 # game/code/e09/e09s01.rpy:397
 translate chinese e09s01_cdb5a6ae:
 
     # aw "This is the kind of team-building I really like."
-    aw "This is the kind of team-building I really like."
+    aw "这才是我真正喜欢的团队建设。"
 
 # game/code/e09/e09s01.rpy:405
 translate chinese e09s01_sex_1b568acb:
 
     # arj "Heheh. Someone is eager."
-    arj "Heheh. Someone is eager."
+    arj "嘿嘿。有人迫不及待了。"
 
 # game/code/e09/e09s01.rpy:408
 translate chinese e09s01_sex_5ee471b7:
 
     # aw "Well, I only got to fuck him twice last week."
-    aw "Well, I only got to fuck him twice last week."
+    aw "嗯，我上周只上了他两次。"
 
 # game/code/e09/e09s01.rpy:411
 translate chinese e09s01_sex_cccafc96:
 
     # arj "Hehe. You gotta pump those numbers up."
-    arj "Hehe. You gotta pump those numbers up."
+    arj "哈哈。你得把这些数字提上去。"
 
 # game/code/e09/e09s01.rpy:413
 translate chinese e09s01_sex_4f952f98:
 
     # aw "I did only get to fuck him once last week."
-    aw "I did only get to fuck him once last week."
+    aw "我上周才只干了他一次。"
 
 # game/code/e09/e09s01.rpy:416
 translate chinese e09s01_sex_eb25121d:
 
     # arj "Oh yeah. You poor baby."
-    arj "Oh yeah. You poor baby."
+    arj "啊。你这可怜的孩子。"
 
 # game/code/e09/e09s01.rpy:418
 translate chinese e09s01_sex_c4f355ce:
 
     # aw "All this Fetish Locator talk has me itching for some fun."
-    aw "All this Fetish Locator talk has me itching for some fun."
+    aw "这些性趣探测器的话题让我想找点乐子。"
 
 # game/code/e09/e09s01.rpy:425
 translate chinese e09s01_sex_42cc2ceb:
 
     # aw "Mrrmm. Just as juicy as the last time I saw it."
-    aw "Mrrmm. Just as juicy as the last time I saw it."
+    aw "哇。和我上次看到的一样多汁。"
 
 # game/code/e09/e09s01.rpy:428
 translate chinese e09s01_sex_74f95eb8:
 
     # mct "Hmmm. How should I handle this?"
-    mct "Hmmm. How should I handle this?"
+    mct "嗯嗯嗯。我该怎么处理？"
 
 # game/code/e09/e09s01.rpy:443
 translate chinese e09s01_continue_sex_f8b7809a:
 
     # mc "Get to work, my bitches."
-    mc "Get to work, my bitches."
+    mc "开工吧，我的小妞们。"
 
 # game/code/e09/e09s01.rpy:445
 translate chinese e09s01_continue_sex_7a7e0d07:
 
     # aw "Yes sir!"
-    aw "Yes sir!"
+    aw "是，主人！"
 
 # game/code/e09/e09s01.rpy:448
 translate chinese e09s01_continue_sex_c1a21c6f:
 
     # arj "Thank you, Master!"
-    arj "Thank you, Master!"
+    arj "谢谢您，主人！"
 
 # game/code/e09/e09s01.rpy:450
 translate chinese e09s01_continue_sex_05abf236:
 
     # arj "My pleasure, [mcname]."
-    arj "My pleasure, [mcname]."
+    arj "我的荣幸，[mcname]。"
 
 # game/code/e09/e09s01.rpy:454
 translate chinese e09s01_continue_sex_24d71b52:
 
     # aw "I hope you are ready for us, [mcname]."
-    aw "I hope you are ready for us, [mcname]."
+    aw "希望你准备好迎接我们了，[mcname]。"
 
 # game/code/e09/e09s01.rpy:456
 translate chinese e09s01_continue_sex_13f5628c:
 
     # mc "You're both so gorgeous."
-    mc "You're both so gorgeous."
+    mc "你们俩都太美了。"
 
 # game/code/e09/e09s01.rpy:457
 translate chinese e09s01_continue_sex_02731935:
 
     # aw "Oooh, gotta love a charmer."
-    aw "Oooh, gotta love a charmer."
+    aw "哦，我喜欢有魅力的人。"
 
 # game/code/e09/e09s01.rpy:461
 translate chinese e09s01_continue_sex_5f1dcd82:
 
     # arj "Master never needs to charm me."
-    arj "Master never needs to charm me."
+    arj "主人从不需要主动对我施展魅力。"
 
 # game/code/e09/e09s01.rpy:462
 translate chinese e09s01_continue_sex_cce161d8:
 
     # arj "All he has to do is ask and I obey."
-    arj "All he has to do is ask and I obey."
+    arj "只要他开口，我就完全服从他。"
 
 # game/code/e09/e09s01.rpy:464
 translate chinese e09s01_continue_sex_67f0ef84:
 
     # arj "Mmhmm."
-    arj "Mmhmm."
+    arj "嗯哼。"
 
 # game/code/e09/e09s01.rpy:473
 translate chinese e09s01_continue_sex_e84849e1:
 
     # mc "Fuck yeah."
-    mc "Fuck yeah."
+    mc "操。"
 
 # game/code/e09/e09s01.rpy:475
 translate chinese e09s01_continue_sex_11f6bcd4:
 
     # mc "Yes... That's it."
-    mc "Yes... That's it."
+    mc "对...就是这样。"
 
 # game/code/e09/e09s01.rpy:477
 translate chinese e09s01_continue_sex_bd4f4fd3:
 
     # mc "My two redheaded sluts are the best!"
-    mc "My two redheaded sluts are the best!"
+    mc "我的两个红发荡妇最棒了！"
 
 # game/code/e09/e09s01.rpy:478
 translate chinese e09s01_continue_sex_07172ac4:
 
     # aw "*happy sucking*"
-    aw "*happy sucking*"
+    aw "*快乐的吸吮*"
 
 # game/code/e09/e09s01.rpy:481
 translate chinese e09s01_continue_sex_cf47552a:
 
     # aw "Nuraah... We should set up double-blowjobs as the first daily test once the new app is up."
-    aw "Nuraah... We should set up double-blowjobs as the first daily test once the new app is up."
+    aw "唔呃呃呃...我们应该在新应用上线后的第一个日常测试中设置双人口交。"
 
 # game/code/e09/e09s01.rpy:482
 translate chinese e09s01_continue_sex_2d44ee6e:
 
     # arj "Yes. Or double-pussy licking."
-    arj "Yes. Or double-pussy licking."
+    arj "对，或者双人舔阴。"
 
 # game/code/e09/e09s01.rpy:485
 translate chinese e09s01_continue_sex_46f15ec0:
 
     # aw "Yes!"
-    aw "Yes!"
+    aw "好！"
 
 # game/code/e09/e09s01.rpy:486
 translate chinese e09s01_continue_sex_8da29109:
 
     # mc "Less talking, more worshiping."
-    mc "Less talking, more worshiping."
+    mc "少说话，多服从。"
 
 # game/code/e09/e09s01.rpy:487
 translate chinese e09s01_continue_sex_b2e7d115:
 
     # aw "Hahaha. Now who's eager?"
-    aw "Hahaha. Now who's eager?"
+    aw "哈哈哈。现在是谁迫不及待了？"
 
 # game/code/e09/e09s01.rpy:490
 translate chinese e09s01_continue_sex_fefdf6a6:
 
     # mc "Keep going. Share that cock. Don't be greedy."
-    mc "Keep going. Share that cock. Don't be greedy."
+    mc "继续。分享你的鸡巴。别太贪心。"
 
 # game/code/e09/e09s01.rpy:491
 translate chinese e09s01_continue_sex_741ad51c:
