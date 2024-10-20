@@ -2,97 +2,97 @@
 translate chinese e09s03_3ae2766c:
 
     # mc "Sorry we're turning your apartment into a dev studio, Stacy. Maybe at some point we can get an actual office."
-    mc "Sorry we're turning your apartment into a dev studio, Stacy. Maybe at some point we can get an actual office."
+    mc "真抱歉，我们把你的公寓变成了开发工作室，史黛西。也许以后我们能有个真正的办公室。"
 
 # game/code/e09/e09s03.rpy:56
 translate chinese e09s03_963f9360:
 
     # sy "It's okay. Now it's a {i}Studio Apartment{/i}."
-    sy "It's okay. Now it's a {i}Studio Apartment{/i}."
+    sy "没关系。现在它是一个{i}工作室公寓{/i}。"
 
 # game/code/e09/e09s03.rpy:61
 translate chinese e09s03_d44d9e81:
 
     # mct "Okay, time to check in."
-    mct "Okay, time to check in."
+    mct "好了，该验工了。"
 
 # game/code/e09/e09s03.rpy:64
 translate chinese e09s03_08635c64:
 
     # mc "Alright everyone. It's Day Three for Fetish Locator Rebooted."
-    mc "Alright everyone. It's Day Three for Fetish Locator Rebooted."
+    mc "好了，各位。这是重启性趣探测器的第三天。"
 
 # game/code/e09/e09s03.rpy:67
 translate chinese e09s03_b9c182ba:
 
     # mc "Time to see how our progress is going."
-    mc "Time to see how our progress is going."
+    mc "是时候看看我们的进展了。"
 
 # game/code/e09/e09s03.rpy:70
 translate chinese e09s03_2833e729:
 
     # mc "Stacy, have we removed the spyware from the code yet?"
-    mc "Stacy, have we removed the spyware from the code yet?"
+    mc "史黛西，我们从代码中删除间谍软件了吗？"
 
 # game/code/e09/e09s03.rpy:73
 translate chinese e09s03_ad5c5b73:
 
     # sy "No, but we're getting close."
-    sy "No, but we're getting close."
+    sy "没有，但我们越来越接近了。"
 
 # game/code/e09/e09s03.rpy:74
 translate chinese e09s03_dfe72637:
 
     # sy "I think I can figure it out by tomorrow."
-    sy "I think I can figure it out by tomorrow."
+    sy "我想我明天就能弄明白。"
 
 # game/code/e09/e09s03.rpy:77
 translate chinese e09s03_30f43fe5:
 
     # mc "No good. If we can't figure it out today, we need to have a serious conversation about building our own system for it."
-    mc "No good. If we can't figure it out today, we need to have a serious conversation about building our own system for it."
+    mc "不好。如果我们今天还弄不明白，我们就得认真讨论一下建立我们自己的系统了。"
 
 # game/code/e09/e09s03.rpy:80
 translate chinese e09s03_d5184a4e:
 
     # sy "That's insane. It would take twice as long."
-    sy "That's insane. It would take twice as long."
+    sy "这太疯狂了。那要哈娜两倍的时间。"
 
 # game/code/e09/e09s03.rpy:83
 translate chinese e09s03_d6e14785:
 
     # mc "Then you better get it fixed today."
-    mc "Then you better get it fixed today."
+    mc "那你最好今天就把它修好。"
 
 # game/code/e09/e09s03.rpy:86
 translate chinese e09s03_1400b4cd:
 
     # sy "Hmmph."
-    sy "Hmmph."
+    sy "噢。"
 
 # game/code/e09/e09s03.rpy:89
 translate chinese e09s03_54b74b44:
 
     # mc "AmRose."
-    mc "AmRose."
+    mc "爱洛丝。"
 
 # game/code/e09/e09s03.rpy:93
 translate chinese e09s03_c54847f4:
 
     # arj "Yes, Master?"
-    arj "Yes, Master?"
+    arj "怎么了，主人？"
 
 # game/code/e09/e09s03.rpy:95
 translate chinese e09s03_e50fbdff:
 
     # arj "Ready and waiting, [mcname]."
-    arj "Ready and waiting, [mcname]."
+    arj "准备就绪了，[mcname]。"
 
 # game/code/e09/e09s03.rpy:98
 translate chinese e09s03_4fbc319e:
 
     # mc "How are you doing on making sure this boat will sail once we start rebuilding the fan base?"
-    mc "How are you doing on making sure this boat will sail once we start rebuilding the fan base?"
+    mc "一旦我们开始重建粉丝群，你怎么确保这艘船能顺利航行？"
 
 # game/code/e09/e09s03.rpy:101
 translate chinese e09s03_dc479a43:
