@@ -1710,5 +1710,5 @@ translate portuguese strings:
 
     # game/code/e15/e15s06.rpy:969
     old "You have finished playing Ending #15!"
-    new "Você concluiu o Final #15!
+    new "Você concluiu o Final #15!"
 
