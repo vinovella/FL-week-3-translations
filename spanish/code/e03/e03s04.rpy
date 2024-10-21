@@ -1438,3 +1438,9 @@ translate spanish strings:
     old "The Next Day????"
     new "¿¿¿¿Al día siguiente????"
 
+# game/code/e03/e03s04.rpy:112
+translate spanish e03s04_9bef14b2:
+
+    # mc "Don't you remember? After that weird chick took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
+    mc "Don't you remember? After that weird chick took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
+

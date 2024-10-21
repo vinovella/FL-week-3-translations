@@ -364,3 +364,115 @@ translate portuguese strings:
     old "APPY"
     new "ELIZ"
 
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "36. Don't threaten me with a good time"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Finish all 6 Endings from DLC-2"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "37. I saw, I came, I conquered"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Have all Characters in last orgy in e09"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "38. Golden Pass"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Have all Characters in e15"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "39. She belongs in a museum"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Find golden Lyssa (e03)"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "40. Do Pulp Fiction Thing"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Finish Ending 18"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "41. Backdoor Cat Girl"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Finish Ending 16"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "42. Pee Bootcamp"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Begin Olivia's Training"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "43. Choo-choo"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Finish Ending 15"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "44. Londyn Twice"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Meet Londyn in Ending 09 and Ending 18"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "45. I've seen all the possible outcomes"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Finish all 18 Endings"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:762
+    old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:763
+    old "Fucking a girl"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:764
+    old "Fucking a catgirl"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:765
+    old "Hard to swallow pills"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:766
+    old "He will never run out of pee"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:767
+    old "NEXT STOP"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:768
+    old "PENETRATION STATION"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:769
+    old "They don't know that I can fit two dicks in my butt"
+    new ""
+

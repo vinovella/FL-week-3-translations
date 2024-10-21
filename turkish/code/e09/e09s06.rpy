@@ -2160,3 +2160,9 @@ translate turkish strings:
     old "Get ready for the main event"
     new "Get ready for the main event"
 
+# game/code/e09/e09s06.rpy:586
+translate turkish e09s06_part_3_f20e6459:
+
+    # sy "If we raise enough money to reach our goal, then everyone who donated will get a chance to come up here and have some fun with [mcname]!"
+    sy "If we raise enough money to reach our goal, then everyone who donated will get a chance to come up here and have some fun with [mcname]!"
+

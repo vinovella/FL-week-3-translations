@@ -1807,6 +1807,12 @@ translate portuguese e09s06_part_3_3e7699cb:
     sy ""
 
 # game/code/e09/e09s06.rpy:586
+translate portuguese e09s06_part_3_f20e6459:
+
+    # sy "If we raise enough money to reach our goal, then everyone who donated will get a chance to come up here and have some fun with [mcname]!"
+    sy ""
+
+# game/code/e09/e09s06.rpy:586
 translate portuguese e09s06_part_3_c23e08a6:
 
     # arj "Along with that, that money will be invested into being able to do more events like this!"

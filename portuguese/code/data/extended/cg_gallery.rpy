@@ -182,27 +182,35 @@ translate portuguese strings:
     old "Ending 16: Farm Animals"
     new ""
 
-translate portuguese strings:
-
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Jessie & Kanya"
     new ""
 
-translate portuguese strings:
-
     # game/code/data/extended/cg_gallery.rpy:114
     old "Ending 15: Girls"
-    new "Ending 15: Girls"
+    new ""
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Samiya & Dahlia"
-    new "Ending 18: Samiya & Dahlia"
+    new ""
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Kendell & Londyn"
-    new "Ending 18: Kendell & Londyn"
+    new ""
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Four Beauties"
-    new "Ending 18: Four Beauties"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:69
+    old "Ending 03: Girls"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:96
+    old "Ending 09: Girls"
+    new ""
+
+    # game/code/data/extended/cg_gallery.rpy:96
+    old "Ending 09: Greek Goddesses"
+    new ""
 
