@@ -68,7 +68,7 @@ translate turkish e03s04_e1798e18:
 translate turkish e03s04_f70c7460:
 
     # "Cult Member" "Good, you're awake. The High Priestess wants to see you both."
-    Tarikat Üyesi "Güzel, uyandınız. Baş Rahibe ikinizi de görmek istiyor."
+    "Tarikat Üyesi" "Güzel, uyandınız. Baş Rahibe ikinizi de görmek istiyor."
 
 # game/code/e03/e03s04.rpy:82
 translate turkish e03s04_23e08e00:
@@ -80,7 +80,7 @@ translate turkish e03s04_23e08e00:
 translate turkish e03s04_d9321915:
 
     # "Cult Member" "She will tell you everything you need to know. Now, come."
-    Tarikat Üyesi "Sana bilmen gereken her şeyi anlatacak. Şimdi gel."
+    "Tarikat Üyesi" "Sana bilmen gereken her şeyi anlatacak. Şimdi gel."
 
 # game/code/e03/e03s04.rpy:87
 translate turkish e03s04_e15b287d:
@@ -92,7 +92,7 @@ translate turkish e03s04_e15b287d:
 translate turkish e03s04_3aa1c965:
 
     # "Cult Member" "Where we're going, you won't need clothes."
-    Tarikat Üyesi "Gittiğimiz yerde kıyafete ihtiyacın olmayacak."
+    "Tarikat Üyesi" "Gittiğimiz yerde kıyafete ihtiyacın olmayacak."
 
 # game/code/e03/e03s04.rpy:96
 translate turkish e03s04_246fab28:
@@ -123,12 +123,6 @@ translate turkish e03s04_86b2ea0d:
 
     # sy "Wait, where the hell are we?"
     sy "Bekle, hangi cehennemdeyiz?"
-
-# game/code/e03/e03s04.rpy:110
-translate turkish e03s04_07b0bf7b:
-
-    # mc "Don't you remember? After that weird guy took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
-    mc "Hatırlamıyor musun? O garip adam Lyssa'yı kaçırdıktan sonra bizi kulübeye taşıdılar. 'Seçilmiş' olmakla falan ilgili bir şey."
 
 # game/code/e03/e03s04.rpy:113
 translate turkish e03s04_8e4997ba:
@@ -242,7 +236,7 @@ translate turkish e03s04_cf3718b7:
 translate turkish e03s04_6633e33c:
 
     # hp "'And she will appear before you, as blue as the sky, and she will be able to perform great miracles of endurance between the forests and the caves.'"
-    hp "'Ve o, gökyüzü kadar mavi olarak karşınızda belirecek ve ormanlar ile mağaralar arasında büyük dayanıklılık mucizeleri gerçekleştirebilecek.""
+    hp "'Ve o, gökyüzü kadar mavi olarak karşınızda belirecek ve ormanlar ile mağaralar arasında büyük dayanıklılık mucizeleri gerçekleştirebilecek.'"
 
 # game/code/e03/e03s04.rpy:180
 translate turkish e03s04_491e93bc:
@@ -308,13 +302,13 @@ translate turkish e03s04_3b99cf1f:
 translate turkish e03s04_69b7b10b:
 
     # mc "{size=*0.6}Stacy! The whole point is for us to get into the cult! You don't think Lyssa being their new leader, goddess, whatever would be really good for us learning their secrets!?{/size}"
-    mc "{size=*0.6}Stacy! Bütün mesele tarikata girmemiz! Lyssa'nın onların yeni lideri, tanrıçası ya da her neyse, sırlarını öğrenmemiz için gerçekten iyi olacağını düşünmüyor musun?"{/size}"
+    mc "{size=*0.6}Stacy! Bütün mesele tarikata girmemiz! Lyssa'nın onların yeni lideri, tanrıçası ya da her neyse, sırlarını öğrenmemiz için gerçekten iyi olacağını düşünmüyor musun?{/size}"
 
 # game/code/e03/e03s04.rpy:216
 translate turkish e03s04_2f3063d0:
 
     # sy "{size=*0.6}I don't care! That bitch just called my pussy a cave. I have my honor to uphold!{/size}"
-    {size=*0.6}Umurumda değil! O sürtük az önce amıma mağara dedi. Korumam gereken bir onurum var!{/size}
+    sy "{size=*0.6}Umurumda değil! O sürtük az önce amıma mağara dedi. Korumam gereken bir onurum var!{/size}"
 
 # game/code/e03/e03s04.rpy:219
 translate turkish e03s04_0acc0b32:
@@ -638,7 +632,7 @@ translate turkish e03s04_dc5e8f71:
 translate turkish e03s04_2af51066:
 
     # mc "Oh shit, she's clamped her throat around my dick! You're right, Lyssa! She's about to-"
-    Kahretsin, gırtlağını sikimin etrafına sıkıştırdı! Haklısın, Lyssa! Neredeyse-
+    mc "Kahretsin, gırtlağını sikimin etrafına sıkıştırdı! Haklısın, Lyssa! Neredeyse-"
 
 # game/code/e03/e03s04.rpy:396
 translate turkish e03s04_9db94b47:
@@ -1244,7 +1238,7 @@ translate turkish e03s04_1723aa7a:
 translate turkish e03s04_62e01729:
 
     # "Cult Member" "Yes, High Priestess."
-    Tarikat Üyesi "Evet, Baş Rahibe."
+    "Tarikat Üyesi" "Evet, Baş Rahibe."
 
 # game/code/e03/e03s04.rpy:719
 translate turkish e03s04_10223704:
@@ -1443,3 +1437,4 @@ translate turkish strings:
     # game/code/e03/e03s04.rpy:42
     old "The Next Day????"
     new "Ertesi Gün????"
+

@@ -92,7 +92,7 @@ translate turkish e03s05_3c854996:
 translate turkish e03s05_06c9bdbc:
 
     # "Cult Member" "That couldn't hurt..."
-    Cult Member "That couldn't hurt..."
+    "Cult Member" "That couldn't hurt..."
 
 # game/code/e03/e03s05.rpy:75
 translate turkish e03s05_1e809d6a:
@@ -188,7 +188,7 @@ translate turkish e03s05_0187112b:
 translate turkish e03s05_a67d4c92:
 
     # "Guard" "Get into your cell!"
-    ""Gardiyan"" "Hücrene gir!"
+    "Gardiyan" "Hücrene gir!"
 
 # game/code/e03/e03s05.rpy:123
 translate turkish e03s05_e88c3bd3:
@@ -224,7 +224,7 @@ translate turkish e03s05_dd7038df:
 translate turkish e03s05_60cc6708:
 
     # "Guard" "Quiet! Before I get the flogger back out!"
-    Guard "Quiet! Kırbacı tekrar çıkarmadan önce!"
+    "Guard" "Sessiz! Kırbacı tekrar çıkarmadan önce!"
 
 # game/code/e03/e03s05.rpy:140
 translate turkish e03s05_c912de4a:
@@ -350,7 +350,7 @@ translate turkish e03s05_8bf087b3:
 translate turkish e03s05_dd044037:
 
     # "Guard" "Mmmm, it feels so good to be cleaned of that negative energy."
-    Guard "Mmmm, o negatif enerjiden arınmak çok iyi hissettiriyor."
+    "Guard" "Mmmm, o negatif enerjiden arınmak çok iyi hissettiriyor."
 
 # game/code/e03/e03s05.rpy:205
 translate turkish e03s05_1200aa6f:
@@ -380,7 +380,7 @@ translate turkish e03s05_b7832ca1:
 translate turkish e03s05_22e6dc99:
 
     # "Guard" "Now, do you promise to behave? Because you upset my tummy before and I don't like having an upset tummy."
-    ""Gardiyan"" "Şimdi, uslu duracağına söz veriyor musun? Çünkü daha önce midemi bozdun ve ben de midemin bozulmasından hoşlanmıyorum."
+    "Gardiyan" "Şimdi, uslu duracağına söz veriyor musun? Çünkü daha önce midemi bozdun ve ben de midemin bozulmasından hoşlanmıyorum."
 
 # game/code/e03/e03s05.rpy:224
 translate turkish e03s05_03fcbda9:
@@ -1053,3 +1053,4 @@ translate turkish strings:
     # game/code/e03/e03s05.rpy:3
     old "Later"
     new "Daha Sonra"
+

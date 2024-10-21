@@ -1461,3 +1461,4 @@ translate turkish strings:
     # game/code/e03/e03s01.rpy:687
     old "Another time"
     new "Başka bir zaman"
+

@@ -124,12 +124,6 @@ translate chinese e03s04_86b2ea0d:
     # sy "Wait, where the hell are we?"
     sy "等等，我们到底在哪？"
 
-# game/code/e03/e03s04.rpy:110
-translate chinese e03s04_07b0bf7b:
-
-    # mc "Don't you remember? After that weird guy took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
-    mc "你不记得了吗？那个怪人带走丽莎后，他们把我们转移到了小屋。说什么被'选中'之类的。"
-
 # game/code/e03/e03s04.rpy:113
 translate chinese e03s04_8e4997ba:
 

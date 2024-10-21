@@ -362,7 +362,7 @@ translate turkish e03s02_905afbf6:
 translate turkish e03s02_b4a000da:
 
     # sw "Right, this group is known as the Empyrean Dream. In my capacity as an employee of the District Attorney's office, I've been investigating them over the past year."
-    Doğru, bu grup Empyrean Dream olarak biliniyor. Bölge Savcılığı'nın bir çalışanı olarak geçtiğimiz yıl boyunca onları araştırdım.
+    sw "Doğru, bu grup Empyrean Dream olarak biliniyor. Bölge Savcılığı'nın bir çalışanı olarak geçtiğimiz yıl boyunca onları araştırdım."
 
 # game/code/e03/e03s02.rpy:258
 translate turkish e03s02_7131ce33:
@@ -849,3 +849,4 @@ translate turkish e03s02_39abdb31:
 
     # mh "Tomorrow morning, we're putting the plan into action."
     mh "Yarın sabah, planı uygulamaya koyuyoruz."
+

@@ -116,7 +116,7 @@ translate turkish e03s03_3b3f284c:
 translate turkish e03s03_0c7743aa:
 
     # sy "I just want to be clear - he's a weirdo. Most of my dreams at least make sense. Like, wanting you to fuck my ass, while [mcname]-"
-    Açık olmak istiyorum, o bir tuhaf. Rüyalarımın çoğu en azından mantıklı. Mesela, [mcname] kıçımı sikmeni isterken -
+    sy "Açık olmak istiyorum, o bir tuhaf. Rüyalarımın çoğu en azından mantıklı. Mesela, [mcname] kıçımı sikmeni isterken -"
 
 # game/code/e03/e03s03.rpy:74
 translate turkish e03s03_2d09f60b:
@@ -524,7 +524,7 @@ translate turkish e03s03_176ce893:
 translate turkish e03s03_0cbf2aba:
 
     # "Cult Member" "And I have been instructed to have you watch them, to ensure they are doing the best job they can. {w}Do not allow them to slack off. If they do, there will be punishments."
-    Tarikat Üyesi "Ellerinden gelenin en iyisini yaptıklarından emin olmanız için onları izlemeniz talimatı aldım. {Kaytarmalarına izin vermeyin. Eğer yaparlarsa, cezaları olacaktır."
+    "Tarikat Üyesi" "Ellerinden gelenin en iyisini yaptıklarından emin olmanız için onları izlemeniz talimatı aldım. {w}Kaytarmalarına izin vermeyin. Eğer yaparlarsa, cezaları olacaktır."
 
 # game/code/e03/e03s03.rpy:313
 translate turkish e03s03_cb373b0e:
@@ -596,7 +596,7 @@ translate turkish e03s03_e5f3ffed:
 translate turkish e03s03_fcea57eb:
 
     # mh "Wait, Stacy-"
-    Bekle, Stacy-
+    mh "Bekle, Stacy-"
 
 # game/code/e03/e03s03.rpy:350
 translate turkish e03s03_a033e280:
@@ -614,7 +614,7 @@ translate turkish e03s03_3ec9e78b:
 translate turkish e03s03_ccb916c0:
 
     # "Cult Member" "What are you doing!?"
-    Tarikat Üyesi "Ne yapıyorsun!?"
+    "Tarikat Üyesi" "Ne yapıyorsun!?"
 
 # game/code/e03/e03s03.rpy:366
 translate turkish e03s03_14942003:
@@ -1028,13 +1028,13 @@ translate turkish e03s03_7830b479:
 translate turkish e03s03_4f4d4a36:
 
     # sy "Hey! Haven't you ever heard of knocking!? We were in the middle of something"
-    Hey! Kapı çalma diye bir şey duymadınız mı? Bir şeyin ortasındaydık.
+    sy "Hey! Kapı çalma diye bir şey duymadınız mı? Bir şeyin ortasındaydık."
 
 # game/code/e03/e03s03.rpy:625
 translate turkish e03s03_31b43a9b:
 
     # "Cult Member" "You... the High Priestess wants to see you."
-    "Tarikat Üyesi "Sen... Baş Rahibe seni görmek istiyor."
+    "Tarikat Üyesi" "Sen... Baş Rahibe seni görmek istiyor."
 
 # game/code/e03/e03s03.rpy:628
 translate turkish e03s03_380fc8e2:
@@ -1046,7 +1046,7 @@ translate turkish e03s03_380fc8e2:
 translate turkish e03s03_e0a6e81f:
 
     # "Cult Member" "No, her."
-    "Tarikat Üyesi "Hayır, o."
+    "Tarikat Üyesi" "Hayır, o."
 
 # game/code/e03/e03s03.rpy:634
 translate turkish e03s03_88ff8d33:
@@ -1058,7 +1058,7 @@ translate turkish e03s03_88ff8d33:
 translate turkish e03s03_ef760bfe:
 
     # "Cult Member" "The High Priestess can answer any questions you may have."
-    "Tarikat Üyesi "Baş Rahibe her türlü sorunuza cevap verebilir."
+    "Tarikat Üyesi" "Baş Rahibe her türlü sorunuza cevap verebilir."
 
 # game/code/e03/e03s03.rpy:641
 translate turkish e03s03_d79a47af:
@@ -1070,7 +1070,7 @@ translate turkish e03s03_d79a47af:
 translate turkish e03s03_187d8620:
 
     # "Cult Member" "You won't be needing them. We are all naked before the eyes of our goddess, we can all be naked as one."
-    Tarikat Üyesi "Onlara ihtiyacın olmayacak. Tanrıçamızın gözleri önünde hepimiz çıplağız, hepimiz bir olarak çıplak olabiliriz."
+    "Tarikat Üyesi" "Onlara ihtiyacın olmayacak. Tanrıçamızın gözleri önünde hepimiz çıplağız, hepimiz bir olarak çıplak olabiliriz."
 
 # game/code/e03/e03s03.rpy:646
 translate turkish e03s03_1fba4177:
@@ -1191,3 +1191,4 @@ translate turkish strings:
     # game/code/e03/e03s03.rpy:93
     old "Four hours and twenty-nine minutes later"
     new "Dört saat yirmi dokuz dakika sonra"
+

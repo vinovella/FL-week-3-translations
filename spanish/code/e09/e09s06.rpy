@@ -1810,12 +1810,6 @@ translate spanish e09s06_part_3_c23e08a6:
     # arj "Along with that, that money will be invested into being able to do more events like this!"
     arj "Además de eso, ¡ese dinero se invertirá para poder realizar más eventos como este!"
 
-# game/code/e09/e09s06.rpy:587
-translate spanish e09s06_part_3_fa2604c5:
-
-    # sy "If we raise enough money to reach our goal, than everyone who donated will get a chance to come up here and have some fun with [mcname]!"
-    sy "¡Si recaudamos suficiente dinero para alcanzar nuestra meta, todos los que donaron tendrán la oportunidad de venir aquí y divertirse con [mcname]!"
-
 # game/code/e09/e09s06.rpy:588
 translate spanish e09s06_part_3_7bdb3618:
 

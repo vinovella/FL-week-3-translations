@@ -62,7 +62,7 @@ translate turkish e03s06_80bff18e:
 translate turkish e03s06_99ea8e9e:
 
     # sy "I think you look {i}hot as fuck.{/i}"
-    sy "Bence çok seksi görünüyorsun.{/i}"
+    sy "Bence çok seksi görünüyorsun."
 
 # game/code/e03/e03s06.rpy:46
 translate turkish e03s06_792a466c:
@@ -332,7 +332,7 @@ translate turkish e03s06_44ae4298:
 translate turkish e03s06_92b20048:
 
     # mh "You've got a good point there... I do love watching my cock disappear down her throat..."
-    mh "İyi bir noktaya değindin... "Aletimin boğazında kaybolmasını izlemeye bayılıyorum..."
+    mh "İyi bir noktaya değindin... Aletimin boğazında kaybolmasını izlemeye bayılıyorum..."
 
 # game/code/e03/e03s06.rpy:159
 translate turkish e03s06_bd9d44ad:
@@ -842,7 +842,7 @@ translate turkish e03s06_watersports_4ece1325:
 translate turkish e03s06_watersports_8d53cc58:
 
     # sy "You have {i}no idea!{/i}"
-    sy "Hiçbir fikrin yok!{/i}"
+    sy "Hiçbir fikrin yok!"
 
 # game/code/e03/e03s06.rpy:396
 translate turkish e03s06_watersports_e57b1ccb:
@@ -1691,3 +1691,4 @@ translate turkish strings:
     # game/code/e03/e03s06.rpy:266
     old "Hurry, because I'm still ready to go!"
     new "Acele edin, çünkü ben hala gitmeye hazırım!"
+

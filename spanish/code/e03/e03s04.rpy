@@ -124,12 +124,6 @@ translate spanish e03s04_86b2ea0d:
     # sy "Wait, where the hell are we?"
     sy "Espera, ¿dónde diablos estamos?"
 
-# game/code/e03/e03s04.rpy:110
-translate spanish e03s04_07b0bf7b:
-
-    # mc "Don't you remember? After that weird guy took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
-    mc "¿No te acuerdas? Después de que ese tipo raro se llevó a Lyssa, nos trasladaron al albergue. Algo sobre ser \"elegido\", o algo así."
-
 # game/code/e03/e03s04.rpy:113
 translate spanish e03s04_8e4997ba:
 

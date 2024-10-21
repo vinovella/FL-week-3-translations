@@ -1520,7 +1520,7 @@ translate turkish e03s07_09fc2218:
 translate turkish e03s07_82b678e6:
 
     # "Both" "Yes dear."
-    "İkizler "Evet canım."
+    "İkizler" "Evet canım."
 
 # game/code/e03/e03s07.rpy:951
 translate turkish e03s07_77975f23:
@@ -1538,8 +1538,7 @@ translate turkish strings:
     old "Five months later"
     new "Beş ay sonra"
 
-    translate turkish strings:
-
     # game/code/e03/e03s07.rpy:828
     old "You have finished playing ending 03!"
     new "Son 3'ü oynamayı bitirdiniz!"
+
