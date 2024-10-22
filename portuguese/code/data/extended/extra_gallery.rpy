@@ -366,6 +366,10 @@ translate portuguese strings:
 
 translate portuguese strings:
 
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Finish Ending 4 and Ending 7"
+    new ""
+
     # game/code/data/extended/extra_gallery.rpy:60
     old "36. Don't threaten me with a good time"
     new ""
@@ -379,7 +383,7 @@ translate portuguese strings:
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Have all Characters in last orgy in e09"
+    old "Have all Characters in last orgy in Ending 9"
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
@@ -387,7 +391,7 @@ translate portuguese strings:
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Have all Characters in e15"
+    old "Have all Characters in Ending 15"
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
@@ -395,11 +399,11 @@ translate portuguese strings:
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Find golden Lyssa (e03)"
+    old "Find golden Lyssa (Ending 3)"
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "40. Do Pulp Fiction Thing"
+    old "40. Do the Pulp Fiction Thing"
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
@@ -435,7 +439,7 @@ translate portuguese strings:
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Meet Londyn in Ending 09 and Ending 18"
+    old "Meet Londyn in Ending 9 and Ending 18"
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
@@ -479,6 +483,6 @@ translate portuguese strings:
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:917
-    old "They don't know that\nI can fit two dicks in my butt"
+    old "They don't know that\nI appear in two endings"
     new ""
 

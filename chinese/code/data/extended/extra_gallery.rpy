@@ -365,6 +365,10 @@ translate chinese strings:
 
 translate chinese strings:
 
+    # game/code/data/extended/extra_gallery.rpy:51
+    old "Finish Ending 4 and Ending 7"
+    new "Finish Ending 4 and Ending 7"
+
     # game/code/data/extended/extra_gallery.rpy:60
     old "36. Don't threaten me with a good time"
     new "36. Don't threaten me with a good time"
@@ -378,28 +382,28 @@ translate chinese strings:
     new "37. I saw, I came, I conquered"
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Have all Characters in last orgy in e09"
-    new "Have all Characters in last orgy in e09"
+    old "Have all Characters in last orgy in Ending 9"
+    new "Have all Characters in last orgy in Ending 9"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "38. Golden Pass"
     new "38. Golden Pass"
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Have all Characters in e15"
-    new "Have all Characters in e15"
+    old "Have all Characters in Ending 15"
+    new "Have all Characters in Ending 15"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "39. She belongs in a museum"
     new "39. She belongs in a museum"
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Find golden Lyssa (e03)"
-    new "Find golden Lyssa (e03)"
+    old "Find golden Lyssa (Ending 3)"
+    new "Find golden Lyssa (Ending 3)"
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "40. Do Pulp Fiction Thing"
-    new "40. Do Pulp Fiction Thing"
+    old "40. Do the Pulp Fiction Thing"
+    new "40. Do the Pulp Fiction Thing"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Finish Ending 18"
@@ -434,8 +438,8 @@ translate chinese strings:
     new "44. Londyn Twice"
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Meet Londyn in Ending 09 and Ending 18"
-    new "Meet Londyn in Ending 09 and Ending 18"
+    old "Meet Londyn in Ending 9 and Ending 18"
+    new "Meet Londyn in Ending 9 and Ending 18"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "45. I've seen all the possible outcomes"
@@ -478,6 +482,6 @@ translate chinese strings:
     new "PENETRATION STATION"
 
     # game/code/data/extended/extra_gallery.rpy:917
-    old "They don't know that\nI can fit two dicks in my butt"
-    new "They don't know that\nI can fit two dicks in my butt"
+    old "They don't know that\nI appear in two endings"
+    new "They don't know that\nI appear in two endings"
 
