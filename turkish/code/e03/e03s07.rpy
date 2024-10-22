@@ -1542,3 +1542,9 @@ translate turkish strings:
     old "You have finished playing ending 03!"
     new "Son 3'ü oynamayı bitirdiniz!"
 
+translate turkish strings:
+
+    # game/code/e03/e03s07.rpy:841
+    old "You have finished playing Ending #03!"
+    new "You have finished playing Ending #03!"
+

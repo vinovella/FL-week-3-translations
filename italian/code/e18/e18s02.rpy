@@ -1138,3 +1138,15 @@ translate italian e18s02_apartment_7fd3a623:
     # mc "Yes, Mistress."
     mc "Yes, Mistress."
 
+# game/code/e18/e18s02.rpy:479
+translate italian e18s02_c33dd4f8:
+
+    # dw "Right. Well, we tried this out back home, but we were eager to try it out here." id e18s02_c33dd4f8
+    dw "Right. Well, we tried this out back home, but we were eager to try it out here." id e18s02_c33dd4f8
+
+# game/code/e18/e18s02.rpy:603
+translate italian e18s02_9317bad4:
+
+    # "Cop" "Of course. Welcome to Santa Domina. Be safe out there, gorgeous." id e18s02_9317bad4
+    "Cop" "Of course. Welcome to Santa Domina. Be safe out there, gorgeous." id e18s02_9317bad4
+

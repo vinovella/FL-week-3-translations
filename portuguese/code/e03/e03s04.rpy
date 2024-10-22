@@ -216,12 +216,6 @@ translate portuguese e03s04_63a9e153:
     # sy "What do you mean?"
     sy "Como assim?"
 
-# game/code/e03/e03s04.rpy:170
-translate portuguese e03s04_07e06be6:
-
-    # hp "She is not the first to appear before as, the proclaimed return of our goddess of love and wisdom. But she appears the truest, thus far."
-    hp "Ela não é a primeira a aparecer como o proclamado retorno da nossa deusa do amor e sabedoria. Mas até agora, ela parece ser a mais verdadeira."
-
 # game/code/e03/e03s04.rpy:171
 translate portuguese e03s04_b8e1f219:
 
@@ -1439,4 +1433,16 @@ translate portuguese e03s04_9bef14b2:
 
     # mc "Don't you remember? After that weird chick took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
     mc "Você não lembra? Depois que aquela esquisitona levou a Lyssa, eles trouxeram a gente pra outro lugar. Algo sobre ser 'escolhidos' ou sei lá."
+
+# game/code/e03/e03s04.rpy:177
+translate portuguese e03s04_01eddfbc:
+
+    # hp "She is not the first to appear before as goddess of love and wisdom, returned. But she appears the truest, thus far."
+    hp ""
+
+# game/code/e03/e03s04.rpy:504
+translate portuguese e03s04_0f1ec9d2:
+
+    # sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making me pregnant."
+    sy ""
 

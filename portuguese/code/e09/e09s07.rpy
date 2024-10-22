@@ -2770,3 +2770,27 @@ translate portuguese strings:
     old "You have finished playing Ending 09!"
     new ""
 
+# game/code/e09/e09s07.rpy:1046
+translate portuguese e09s07_sex_kb_cb_0b7d9083:
+
+    # kb "Ah it's all good man."
+    kb ""
+
+# game/code/e09/e09s07.rpy:1047
+translate portuguese e09s07_sex_kb_cb_363e3682:
+
+    # kb "I'm sure Chloe and I can find some more fun around here."
+    kb ""
+
+# game/code/e09/e09s07.rpy:1058
+translate portuguese e09s07_sex_kb_cb_continue_c215581a:
+
+    # mc "How could I ever say no to you two?"
+    mc ""
+
+translate portuguese strings:
+
+    # game/code/e09/e09s07.rpy:1430
+    old "You have finished playing Ending #09!"
+    new ""
+

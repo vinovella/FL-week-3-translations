@@ -1351,8 +1351,8 @@ translate korean strings:
     new "Totally."
 
     # game/code/e18/e18s05.rpy:321
-    old "Nah, but I want you to be happy"
-    new "Nah, but I want you to be happy"
+    old "Nah, but I want you to be happy."
+    new "Nah, but I want you to be happy."
 
     # game/code/e18/e18s05.rpy:351
     old "Do you want to dominate Samiya?"

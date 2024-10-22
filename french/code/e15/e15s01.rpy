@@ -1510,3 +1510,15 @@ translate french strings:
     old "At the end of the day"
     new "At the end of the day"
 
+# game/code/e15/e15s01.rpy:815
+translate french e15s01_more_sex_f0b4d32a:
+
+    # mes "Nurraaah. Woah, going right for it. I thought you'd-" id e15s01_more_sex_f0b4d32a
+    mes "Nurraaah. Woah, going right for it. I thought you'd-" id e15s01_more_sex_f0b4d32a
+
+# game/code/e15/e15s01.rpy:924
+translate french e15s01_more_sex_112bfe2a:
+
+    # sy "Oh no. We almost forgot about something." id e15s01_more_sex_112bfe2a
+    sy "Oh no. We almost forgot about something." id e15s01_more_sex_112bfe2a
+

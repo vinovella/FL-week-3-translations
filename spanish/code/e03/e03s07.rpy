@@ -1544,3 +1544,9 @@ translate spanish strings:
     old "You have finished playing ending 03!"
     new "¡Has terminado de jugar el final 03!"
 
+translate spanish strings:
+
+    # game/code/e03/e03s07.rpy:841
+    old "You have finished playing Ending #03!"
+    new "You have finished playing Ending #03!"
+

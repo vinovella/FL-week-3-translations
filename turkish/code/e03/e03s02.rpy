@@ -622,12 +622,6 @@ translate turkish e03s02_88555dde:
     # mh "Stephanie can explain."
     mh "Stephanie açıklayabilir."
 
-# game/code/e03/e03s02.rpy:393
-translate turkish e03s02_d8271a63:
-
-    # sw "So during the investigation, the police and private have kept coming up against brick-walls."
-    sw "Yani soruşturma sırasında, polis ve er tuğla duvarlarla karşılaşmaya devam etti."
-
 # game/code/e03/e03s02.rpy:394
 translate turkish e03s02_1e315682:
 
@@ -849,4 +843,10 @@ translate turkish e03s02_39abdb31:
 
     # mh "Tomorrow morning, we're putting the plan into action."
     mh "Yarın sabah, planı uygulamaya koyuyoruz."
+
+# game/code/e03/e03s02.rpy:335
+translate turkish e03s02_4294c82c:
+
+    # sw "So during the investigation, the police and private eyes have kept coming up against brick-walls."
+    sw "So during the investigation, the police and private eyes have kept coming up against brick-walls."
 

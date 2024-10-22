@@ -846,3 +846,9 @@ translate portuguese e03s02_39abdb31:
     # mh "Tomorrow morning, we're putting the plan into action."
     mh ""
 
+# game/code/e03/e03s02.rpy:335
+translate portuguese e03s02_4294c82c:
+
+    # sw "So during the investigation, the police and private eyes have kept coming up against brick-walls."
+    sw ""
+

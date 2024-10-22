@@ -214,12 +214,6 @@ translate turkish e03s04_63a9e153:
     # sy "What do you mean?"
     sy "Ne demek istiyorsun?"
 
-# game/code/e03/e03s04.rpy:170
-translate turkish e03s04_07e06be6:
-
-    # hp "She is not the first to appear before as, the proclaimed return of our goddess of love and wisdom. But she appears the truest, thus far."
-    hp "O, aşk ve bilgelik tanrıçamızın ilan edilen dönüşünden önce ortaya çıkan ilk kişi değil. Ama şu ana kadar en doğru görünen o."
-
 # game/code/e03/e03s04.rpy:171
 translate turkish e03s04_b8e1f219:
 
@@ -1437,4 +1431,16 @@ translate turkish e03s04_9bef14b2:
 
     # mc "Don't you remember? After that weird chick took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
     mc "Don't you remember? After that weird chick took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
+
+# game/code/e03/e03s04.rpy:177
+translate turkish e03s04_01eddfbc:
+
+    # hp "She is not the first to appear before as goddess of love and wisdom, returned. But she appears the truest, thus far."
+    hp "She is not the first to appear before as goddess of love and wisdom, returned. But she appears the truest, thus far."
+
+# game/code/e03/e03s04.rpy:504
+translate turkish e03s04_0f1ec9d2:
+
+    # sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making me pregnant."
+    sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making me pregnant."
 

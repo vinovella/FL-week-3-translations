@@ -364,3 +364,121 @@ translate italian strings:
     old "APPY"
     new "APPY"
 
+translate italian strings:
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "36. Don't threaten me with a good time"
+    new "36. Don't threaten me with a good time"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Finish all 6 Endings from DLC-2"
+    new "Finish all 6 Endings from DLC-2"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "37. I saw, I came, I conquered"
+    new "37. I saw, I came, I conquered"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Have all Characters in last orgy in e09"
+    new "Have all Characters in last orgy in e09"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "38. Golden Pass"
+    new "38. Golden Pass"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Have all Characters in e15"
+    new "Have all Characters in e15"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "39. She belongs in a museum"
+    new "39. She belongs in a museum"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Find golden Lyssa (e03)"
+    new "Find golden Lyssa (e03)"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "40. Do Pulp Fiction Thing"
+    new "40. Do Pulp Fiction Thing"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Finish Ending 18"
+    new "Finish Ending 18"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "41. Backdoor Cat Girl"
+    new "41. Backdoor Cat Girl"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Finish Ending 16"
+    new "Finish Ending 16"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "42. Pee Bootcamp"
+    new "42. Pee Bootcamp"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Begin Olivia's Training"
+    new "Begin Olivia's Training"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "43. Choo-choo"
+    new "43. Choo-choo"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Finish Ending 15"
+    new "Finish Ending 15"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "44. Londyn Twice"
+    new "44. Londyn Twice"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Meet Londyn in Ending 09 and Ending 18"
+    new "Meet Londyn in Ending 09 and Ending 18"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "45. I've seen all the possible outcomes"
+    new "45. I've seen all the possible outcomes"
+
+    # game/code/data/extended/extra_gallery.rpy:60
+    old "Finish all 18 Endings"
+    new "Finish all 18 Endings"
+
+    # game/code/data/extended/extra_gallery.rpy:802
+    old "SPIT ON THAT THANG!"
+    new "SPIT ON THAT THANG!"
+
+    # game/code/data/extended/extra_gallery.rpy:823
+    old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
+    new "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
+
+    # game/code/data/extended/extra_gallery.rpy:845
+    old "Fucking\na girl"
+    new "Fucking\na girl"
+
+    # game/code/data/extended/extra_gallery.rpy:847
+    old "Fucking\na catgirl"
+    new "Fucking\na catgirl"
+
+    # game/code/data/extended/extra_gallery.rpy:861
+    old "Hard to\nswallow\npills"
+    new "Hard to\nswallow\npills"
+
+    # game/code/data/extended/extra_gallery.rpy:863
+    old "He will never\nrun out of pee"
+    new "He will never\nrun out of pee"
+
+    # game/code/data/extended/extra_gallery.rpy:901
+    old "NEXT STOP"
+    new "NEXT STOP"
+
+    # game/code/data/extended/extra_gallery.rpy:903
+    old "PENETRATION STATION"
+    new "PENETRATION STATION"
+
+    # game/code/data/extended/extra_gallery.rpy:917
+    old "They don't know that\nI can fit two dicks in my butt"
+    new "They don't know that\nI can fit two dicks in my butt"
+

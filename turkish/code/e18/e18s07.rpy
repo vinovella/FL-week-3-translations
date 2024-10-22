@@ -124,12 +124,6 @@ translate turkish e18s07_0a631105:
     # mc "Yeah. What's the worst that can happen."
     mc "Evet. En kötü ne olabilir ki."
 
-# game/code/e18/e18s07.rpy:131
-translate turkish e18s07_2f4a014e:
-
-    # pb "Dunno'. But my ass still hurts from the spanking I got after I called used Dahlia's real name."
-    pb "Dunno'. Ama Dahlia'nın gerçek adını kullandıktan sonra yediğim şaplak yüzünden kıçım hala acıyor."
-
 # game/code/e18/e18s07.rpy:135
 translate turkish e18s07_c2fbca76:
 
@@ -2439,4 +2433,10 @@ translate turkish strings:
     # game/code/e18/e18s07.rpy:1277
     old "You have finished playing Ending #18!"
     new "Son #18'i oynamayı bitirdiniz!"
+
+# game/code/e18/e18s07.rpy:131
+translate turkish e18s07_37a31b1b:
+
+    # pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
+    pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
 

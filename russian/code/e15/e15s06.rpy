@@ -1700,3 +1700,15 @@ translate russian strings:
     old "You have finished playing Ending #15!"
     new "You have finished playing Ending #15!"
 
+# game/code/e15/e15s06.rpy:452
+translate russian e15s06_pool_room_c84af4a1:
+
+    # mc "Because your dirty talk is really making Stacy horny." id e15s06_pool_room_c84af4a1
+    mc "Because your dirty talk is really making Stacy horny." id e15s06_pool_room_c84af4a1
+
+# game/code/e15/e15s06.rpy:695
+translate russian e15s06_next_activity_f1d07023:
+
+    # mes "Mmmmm, you know, I think your student has been so good, I want to give her something more." id e15s06_next_activity_f1d07023
+    mes "Mmmmm, you know, I think your student has been so good, I want to give her something more." id e15s06_next_activity_f1d07023
+

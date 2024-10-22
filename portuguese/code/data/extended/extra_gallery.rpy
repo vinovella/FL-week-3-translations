@@ -364,6 +364,8 @@ translate portuguese strings:
     old "APPY"
     new "ELIZ"
 
+translate portuguese strings:
+
     # game/code/data/extended/extra_gallery.rpy:60
     old "36. Don't threaten me with a good time"
     new ""
@@ -444,35 +446,39 @@ translate portuguese strings:
     old "Finish all 18 Endings"
     new ""
 
-    # game/code/data/extended/extra_gallery.rpy:762
+    # game/code/data/extended/extra_gallery.rpy:802
+    old "SPIT ON THAT THANG!"
+    new ""
+
+    # game/code/data/extended/extra_gallery.rpy:823
     old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
     new ""
 
-    # game/code/data/extended/extra_gallery.rpy:763
-    old "Fucking a girl"
+    # game/code/data/extended/extra_gallery.rpy:845
+    old "Fucking\na girl"
     new ""
 
-    # game/code/data/extended/extra_gallery.rpy:764
-    old "Fucking a catgirl"
+    # game/code/data/extended/extra_gallery.rpy:847
+    old "Fucking\na catgirl"
     new ""
 
-    # game/code/data/extended/extra_gallery.rpy:765
-    old "Hard to swallow pills"
+    # game/code/data/extended/extra_gallery.rpy:861
+    old "Hard to\nswallow\npills"
     new ""
 
-    # game/code/data/extended/extra_gallery.rpy:766
-    old "He will never run out of pee"
+    # game/code/data/extended/extra_gallery.rpy:863
+    old "He will never\nrun out of pee"
     new ""
 
-    # game/code/data/extended/extra_gallery.rpy:767
+    # game/code/data/extended/extra_gallery.rpy:901
     old "NEXT STOP"
     new ""
 
-    # game/code/data/extended/extra_gallery.rpy:768
+    # game/code/data/extended/extra_gallery.rpy:903
     old "PENETRATION STATION"
     new ""
 
-    # game/code/data/extended/extra_gallery.rpy:769
-    old "They don't know that I can fit two dicks in my butt"
+    # game/code/data/extended/extra_gallery.rpy:917
+    old "They don't know that\nI can fit two dicks in my butt"
     new ""
 

@@ -622,12 +622,6 @@ translate chinese e03s02_88555dde:
     # mh "Stephanie can explain."
     mh "斯蒂芬妮可以解释。"
 
-# game/code/e03/e03s02.rpy:393
-translate chinese e03s02_d8271a63:
-
-    # sw "So during the investigation, the police and private have kept coming up against brick-walls."
-    sw "所以在调查过程中，警方和我们的私人探员不断碰壁。"
-
 # game/code/e03/e03s02.rpy:394
 translate chinese e03s02_1e315682:
 
@@ -849,4 +843,10 @@ translate chinese e03s02_39abdb31:
 
     # mh "Tomorrow morning, we're putting the plan into action."
     mh "明天一早，我们就把计划付诸行动。"
+
+# game/code/e03/e03s02.rpy:335
+translate chinese e03s02_4294c82c:
+
+    # sw "So during the investigation, the police and private eyes have kept coming up against brick-walls."
+    sw "So during the investigation, the police and private eyes have kept coming up against brick-walls."
 

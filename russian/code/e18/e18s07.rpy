@@ -124,12 +124,6 @@ translate russian e18s07_0a631105:
     # mc "Yeah. What's the worst that can happen."
     mc "Yeah. What's the worst that can happen."
 
-# game/code/e18/e18s07.rpy:131
-translate russian e18s07_2f4a014e:
-
-    # pb "Dunno'. But my ass still hurts from the spanking I got after I called used Dahlia's real name."
-    pb "Dunno'. But my ass still hurts from the spanking I got after I called used Dahlia's real name."
-
 # game/code/e18/e18s07.rpy:135
 translate russian e18s07_c2fbca76:
 
@@ -2421,4 +2415,28 @@ translate russian strings:
     # game/code/e18/e18s07.rpy:1277
     old "You have finished playing Ending #18!"
     new "You have finished playing Ending #18!"
+
+# game/code/e18/e18s07.rpy:131
+translate russian e18s07_37a31b1b:
+
+    # pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
+    pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
+
+# game/code/e18/e18s07.rpy:883
+translate russian e18s07_in_the_pool_6ecdedb4:
+
+    # dw "[mcname]. Get me over here and fuck me like you fucked Samiya." id e18s07_in_the_pool_6ecdedb4
+    dw "[mcname]. Get me over here and fuck me like you fucked Samiya." id e18s07_in_the_pool_6ecdedb4
+
+# game/code/e18/e18s07.rpy:1030
+translate russian e18s07_mc_pb_c31d0392:
+
+    # sb "Seems like we might not be the only ones with tight asses here, D!" id e18s07_mc_pb_c31d0392
+    sb "Seems like we might not be the only ones with tight asses here, D!" id e18s07_mc_pb_c31d0392
+
+# game/code/e18/e18s07.rpy:1148
+translate russian e18s07_finale_ca5d1c0e:
+
+    # mc "Your pussy is so tight, Samiya... And wet..." id e18s07_finale_ca5d1c0e
+    mc "Your pussy is so tight, Samiya... And wet..." id e18s07_finale_ca5d1c0e
 

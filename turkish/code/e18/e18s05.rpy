@@ -904,12 +904,6 @@ translate turkish e18s05_sb_sex_5c55f09b:
     # sb "Spank me or I'll run screaming from this room."
     sb "Şaplak at yoksa çığlık atarak bu odadan kaçarım."
 
-# game/code/e18/e18s05.rpy:606
-translate turkish e18s05_sb_sex_f98c9ec4:
-
-    # sb "You can take your changes."
-    sb "Değişikliklerini alabilirsin."
-
 # game/code/e18/e18s05.rpy:611
 translate turkish e18s05_sb_sex_12bbe5f9:
 
@@ -1357,8 +1351,8 @@ translate turkish strings:
     new "Tamamen."
 
     # game/code/e18/e18s05.rpy:321
-    old "Nah, but I want you to be happy"
-    new "Hayır, ama senin mutlu olmanı istiyorum"
+    old "Nah, but I want you to be happy."
+    new "Hayır, ama senin mutlu olmanı istiyorum."
 
     # game/code/e18/e18s05.rpy:351
     old "Do you want to dominate Samiya?"
@@ -1371,4 +1365,10 @@ translate turkish strings:
     # game/code/e18/e18s05.rpy:439
     old "I don't understand."
     new "Anlamıyorum."
+
+# game/code/e18/e18s05.rpy:606
+translate turkish e18s05_sb_sex_e35dff6a:
+
+    # sb "You can take your chances."
+    sb "You can take your chances."
 

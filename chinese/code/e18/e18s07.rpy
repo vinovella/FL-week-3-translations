@@ -124,12 +124,6 @@ translate chinese e18s07_0a631105:
     # mc "Yeah. What's the worst that can happen."
     mc "好啊。大不了也不会怎么样。"
 
-# game/code/e18/e18s07.rpy:131
-translate chinese e18s07_2f4a014e:
-
-    # pb "Dunno'. But my ass still hurts from the spanking I got after I called used Dahlia's real name."
-    pb "不知道。但因为我叫了黛丽娅的真名结果被打了一顿后，屁股到现在还疼。"
-
 # game/code/e18/e18s07.rpy:135
 translate chinese e18s07_c2fbca76:
 
@@ -2439,4 +2433,10 @@ translate chinese strings:
     # game/code/e18/e18s07.rpy:1277
     old "You have finished playing Ending #18!"
     new "你已经玩完了结局#18!"
+
+# game/code/e18/e18s07.rpy:131
+translate chinese e18s07_37a31b1b:
+
+    # pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
+    pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
 

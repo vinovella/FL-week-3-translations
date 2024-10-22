@@ -124,12 +124,6 @@ translate spanish e18s07_0a631105:
     # mc "Yeah. What's the worst that can happen."
     mc "Sí. ¿Qué es lo peor que puede pasar?"
 
-# game/code/e18/e18s07.rpy:131
-translate spanish e18s07_2f4a014e:
-
-    # pb "Dunno'. But my ass still hurts from the spanking I got after I called used Dahlia's real name."
-    pb "No sé. Pero todavía me duele el trasero por los azotes que recibí después de que llamé por el nombre real de Dahlia."
-
 # game/code/e18/e18s07.rpy:135
 translate spanish e18s07_c2fbca76:
 
@@ -2439,4 +2433,10 @@ translate spanish strings:
     # game/code/e18/e18s07.rpy:1277
     old "You have finished playing Ending #18!"
     new "¡Has terminado de jugar al final n.° 18!"
+
+# game/code/e18/e18s07.rpy:131
+translate spanish e18s07_37a31b1b:
+
+    # pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
+    pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
 

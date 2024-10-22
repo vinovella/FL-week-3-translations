@@ -1732,3 +1732,9 @@ translate french strings:
     old "Don't watch Pete"
     new "Don't watch Pete"
 
+# game/code/e18/e18s01.rpy:1248
+translate french e18s01_after_menu_956ab453:
+
+    # mc "Huh. Well, it's well... nrrnn... received." id e18s01_after_menu_956ab453
+    mc "Huh. Well, it's well... nrrnn... received." id e18s01_after_menu_956ab453
+

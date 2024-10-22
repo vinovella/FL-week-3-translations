@@ -408,3 +408,33 @@ translate french strings:
     old "Ending 18: Samiya"
     new "Ending 18: Samiya"
 
+translate french strings:
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 03: Lyssa & Stacy"
+    new "Ending 03: Lyssa & Stacy"
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 03: Lyssa, Chiara & Stacy"
+    new "Ending 03: Lyssa, Chiara & Stacy"
+
+    # game/code/data/extended/replay_room.rpy:148
+    old "Ending 09: AmRose & Allison"
+    new "Ending 09: AmRose & Allison"
+
+    # game/code/data/extended/replay_room.rpy:148
+    old "Ending 09: Stacy, AmRose & Allison"
+    new "Ending 09: Stacy, AmRose & Allison"
+
+    # game/code/data/extended/replay_room.rpy:148
+    old "Ending 09: Hana & Londyn"
+    new "Ending 09: Hana & Londyn"
+
+    # game/code/data/extended/replay_room.rpy:148
+    old "Ending 09: Hana & Allison"
+    new "Ending 09: Hana & Allison"
+
+    # game/code/data/extended/replay_room.rpy:148
+    old "Ending 09: Party Girls"
+    new "Ending 09: Party Girls"
+

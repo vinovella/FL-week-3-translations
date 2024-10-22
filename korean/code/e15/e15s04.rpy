@@ -484,12 +484,6 @@ translate korean replay_e15s04_06d6fa18:
     # ovs "Mmmhmmmm."
     ovs "Mmmhmmmm."
 
-# game/code/e15/e15s04.rpy:276
-translate korean replay_e15s04_5b9d52b1:
-
-    # mc "Right to get off the bench and into the game?"
-    mc "Right to get off the bench and into the game?"
-
 # game/code/e15/e15s04.rpy:278
 translate korean replay_e15s04_5140d4cb:
 

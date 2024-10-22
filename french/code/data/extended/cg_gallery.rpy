@@ -248,3 +248,17 @@ translate french strings:
     old "Ending 18: Four Beauties"
     new "Ending 18: Four Beauties"
 
+translate french strings:
+
+    # game/code/data/extended/cg_gallery.rpy:69
+    old "Ending 03: Girls"
+    new "Ending 03: Girls"
+
+    # game/code/data/extended/cg_gallery.rpy:96
+    old "Ending 09: Girls"
+    new "Ending 09: Girls"
+
+    # game/code/data/extended/cg_gallery.rpy:96
+    old "Ending 09: Greek Goddesses"
+    new "Ending 09: Greek Goddesses"
+

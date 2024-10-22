@@ -622,12 +622,6 @@ translate spanish e03s02_88555dde:
     # mh "Stephanie can explain."
     mh "Stephanie puede explicarlo."
 
-# game/code/e03/e03s02.rpy:393
-translate spanish e03s02_d8271a63:
-
-    # sw "So during the investigation, the police and private have kept coming up against brick-walls."
-    sw "Por eso, durante la investigación, la policía y los privados se toparon una y otra vez con muros de ladrillo."
-
 # game/code/e03/e03s02.rpy:394
 translate spanish e03s02_1e315682:
 
@@ -849,4 +843,10 @@ translate spanish e03s02_39abdb31:
 
     # mh "Tomorrow morning, we're putting the plan into action."
     mh "Mañana por la mañana pondremos el plan en acción."
+
+# game/code/e03/e03s02.rpy:335
+translate spanish e03s02_4294c82c:
+
+    # sw "So during the investigation, the police and private eyes have kept coming up against brick-walls."
+    sw "So during the investigation, the police and private eyes have kept coming up against brick-walls."
 

@@ -124,12 +124,6 @@ translate korean e18s07_0a631105:
     # mc "Yeah. What's the worst that can happen."
     mc "Yeah. What's the worst that can happen."
 
-# game/code/e18/e18s07.rpy:131
-translate korean e18s07_2f4a014e:
-
-    # pb "Dunno'. But my ass still hurts from the spanking I got after I called used Dahlia's real name."
-    pb "Dunno'. But my ass still hurts from the spanking I got after I called used Dahlia's real name."
-
 # game/code/e18/e18s07.rpy:135
 translate korean e18s07_c2fbca76:
 

@@ -1351,8 +1351,8 @@ translate italian strings:
     new "Totally."
 
     # game/code/e18/e18s05.rpy:321
-    old "Nah, but I want you to be happy"
-    new "Nah, but I want you to be happy"
+    old "Nah, but I want you to be happy."
+    new "Nah, but I want you to be happy."
 
     # game/code/e18/e18s05.rpy:351
     old "Do you want to dominate Samiya?"
@@ -1365,4 +1365,10 @@ translate italian strings:
     # game/code/e18/e18s05.rpy:439
     old "I don't understand."
     new "I don't understand."
+
+# game/code/e18/e18s05.rpy:606
+translate italian e18s05_sb_sex_e35dff6a:
+
+    # sb "You can take your chances."
+    sb "You can take your chances."
 

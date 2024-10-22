@@ -1048,3 +1048,9 @@ translate turkish strings:
     old "Later"
     new "Daha Sonra"
 
+# game/code/e03/e03s05.rpy:445
+translate turkish e03s05_da47c5ea:
+
+    # mh "We must honor my return with a celebration! A veritable feast for my arrival!"
+    mh "We must honor my return with a celebration! A veritable feast for my arrival!"
+

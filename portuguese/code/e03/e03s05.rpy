@@ -1050,3 +1050,9 @@ translate portuguese strings:
     old "Later"
     new "Depois"
 
+# game/code/e03/e03s05.rpy:445
+translate portuguese e03s05_da47c5ea:
+
+    # mh "We must honor my return with a celebration! A veritable feast for my arrival!"
+    mh ""
+

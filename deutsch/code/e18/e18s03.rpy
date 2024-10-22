@@ -1848,3 +1848,9 @@ translate deutsch strings:
     old "Refuse to do it"
     new "Refuse to do it"
 
+# game/code/e18/e18s03.rpy:650
+translate deutsch e18s03_punishment_9db71fb2:
+
+    # dw "Gooood, rub them all over that puny thing. Let my feet bring you to a climax!" id e18s03_punishment_9db71fb2
+    dw "Gooood, rub them all over that puny thing. Let my feet bring you to a climax!" id e18s03_punishment_9db71fb2
+

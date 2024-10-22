@@ -484,12 +484,6 @@ translate turkish replay_e15s04_06d6fa18:
     # ovs "Mmmhmmmm."
     ovs "Mmmhmmmm."
 
-# game/code/e15/e15s04.rpy:276
-translate turkish replay_e15s04_5b9d52b1:
-
-    # mc "Right to get off the bench and into the game?"
-    mc "Yedek kulübesinden çıkıp oyuna girme hakkı?"
-
 # game/code/e15/e15s04.rpy:278
 translate turkish replay_e15s04_5140d4cb:
 
@@ -765,12 +759,6 @@ translate turkish replay_e15s04_0a037358:
 
     # ovs "Uhm, okay..."
     ovs "Uhm, tamam..."
-
-# game/code/e15/e15s04.rpy:403
-translate turkish replay_e15s04_793324fe:
-
-    # be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'. It took a little bit, but I got over being a shy peer fast!"
-    be "İlk başladığım zamanki numaram gözlerimi kapatıp 'dizlerimi bük, kalçalarımı oynat, şelaleleri düşün' diye tekrarlamaktı. Biraz zaman aldı ama utangaç bir akran olmaktan hızla kurtuldum!"
 
 # game/code/e15/e15s04.rpy:405
 translate turkish replay_e15s04_6d354a13:
@@ -1515,4 +1503,22 @@ translate turkish strings:
     # game/code/e15/e15s04.rpy:54
     old "Olivia's first day of training"
     new "Olivia'nın eğitimdeki ilk günü"
+
+# game/code/e15/e15s04.rpy:276
+translate turkish replay_e15s04_d42bd72f:
+
+    # mc "Ready to get off the bench and into the game?"
+    mc "Ready to get off the bench and into the game?"
+
+# game/code/e15/e15s04.rpy:403
+translate turkish replay_e15s04_a3833f65:
+
+    # be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'."
+    be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'."
+
+# game/code/e15/e15s04.rpy:404
+translate turkish replay_e15s04_a81abfd2:
+
+    # be "It took a little bit, but I got over being a shy pretty fast!"
+    be "It took a little bit, but I got over being a shy pretty fast!"
 

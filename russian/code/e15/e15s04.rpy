@@ -484,12 +484,6 @@ translate russian replay_e15s04_06d6fa18:
     # ovs "Mmmhmmmm."
     ovs "Mmmhmmmm."
 
-# game/code/e15/e15s04.rpy:276
-translate russian replay_e15s04_5b9d52b1:
-
-    # mc "Right to get off the bench and into the game?"
-    mc "Right to get off the bench and into the game?"
-
 # game/code/e15/e15s04.rpy:278
 translate russian replay_e15s04_5140d4cb:
 
@@ -1503,4 +1497,28 @@ translate russian strings:
     # game/code/e15/e15s04.rpy:54
     old "Olivia's first day of training"
     new "Olivia's first day of training"
+
+# game/code/e15/e15s04.rpy:276
+translate russian replay_e15s04_d42bd72f:
+
+    # mc "Ready to get off the bench and into the game?"
+    mc "Ready to get off the bench and into the game?"
+
+# game/code/e15/e15s04.rpy:403
+translate russian replay_e15s04_a3833f65:
+
+    # be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'."
+    be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'."
+
+# game/code/e15/e15s04.rpy:404
+translate russian replay_e15s04_a81abfd2:
+
+    # be "It took a little bit, but I got over being a shy pretty fast!"
+    be "It took a little bit, but I got over being a shy pretty fast!"
+
+# game/code/e15/e15s04.rpy:631
+translate russian replay_e15s04_d088ab9d:
+
+    # mc "We're coming up on the final part of the lesson." id replay_e15s04_d088ab9d
+    mc "We're coming up on the final part of the lesson." id replay_e15s04_d088ab9d
 

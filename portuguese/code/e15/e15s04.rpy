@@ -484,12 +484,6 @@ translate portuguese replay_e15s04_06d6fa18:
     # ovs "Mmmhmmmm."
     ovs "Mmmhmmmm."
 
-# game/code/e15/e15s04.rpy:276
-translate portuguese replay_e15s04_5b9d52b1:
-
-    # mc "Right to get off the bench and into the game?"
-    mc "Pronta pra sair da reserva e entrar no jogo?"
-
 # game/code/e15/e15s04.rpy:278
 translate portuguese replay_e15s04_5140d4cb:
 
@@ -765,12 +759,6 @@ translate portuguese replay_e15s04_0a037358:
 
     # ovs "Uhm, okay..."
     ovs "Ahm, beleza..."
-
-# game/code/e15/e15s04.rpy:403
-translate portuguese replay_e15s04_793324fe:
-
-    # be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'. It took a little bit, but I got over being a shy peer fast!"
-    be "O meu truque quando eu comecei foi fechar os olhos e falar 'fica de joelho, balança a cintura e pensa em cachoeiras'. Foi complicado, mas eu superei a timidez num instante!"
 
 # game/code/e15/e15s04.rpy:405
 translate portuguese replay_e15s04_6d354a13:
@@ -1515,4 +1503,22 @@ translate portuguese strings:
     # game/code/e15/e15s04.rpy:54
     old "Olivia's first day of training"
     new "Primeiro dia de treino da Olivia"
+
+# game/code/e15/e15s04.rpy:276
+translate portuguese replay_e15s04_d42bd72f:
+
+    # mc "Ready to get off the bench and into the game?"
+    mc ""
+
+# game/code/e15/e15s04.rpy:403
+translate portuguese replay_e15s04_a3833f65:
+
+    # be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'."
+    be ""
+
+# game/code/e15/e15s04.rpy:404
+translate portuguese replay_e15s04_a81abfd2:
+
+    # be "It took a little bit, but I got over being a shy pretty fast!"
+    be ""
 

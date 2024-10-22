@@ -904,12 +904,6 @@ translate chinese e18s05_sb_sex_5c55f09b:
     # sb "Spank me or I'll run screaming from this room."
     sb "打我屁股，否则我就尖叫着跑出这个房间。"
 
-# game/code/e18/e18s05.rpy:606
-translate chinese e18s05_sb_sex_f98c9ec4:
-
-    # sb "You can take your changes."
-    sb "你可以找零了。"
-
 # game/code/e18/e18s05.rpy:611
 translate chinese e18s05_sb_sex_12bbe5f9:
 
@@ -1357,8 +1351,8 @@ translate chinese strings:
     new "完全同意。"
 
     # game/code/e18/e18s05.rpy:321
-    old "Nah, but I want you to be happy"
-    new "不，但我想让你开心"
+    old "Nah, but I want you to be happy."
+    new "不，但我想让你开心。"
 
     # game/code/e18/e18s05.rpy:351
     old "Do you want to dominate Samiya?"
@@ -1371,4 +1365,10 @@ translate chinese strings:
     # game/code/e18/e18s05.rpy:439
     old "I don't understand."
     new "我不明白。"
+
+# game/code/e18/e18s05.rpy:606
+translate chinese e18s05_sb_sex_e35dff6a:
+
+    # sb "You can take your chances."
+    sb "You can take your chances."
 

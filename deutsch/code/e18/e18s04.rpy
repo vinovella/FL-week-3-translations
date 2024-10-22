@@ -1648,3 +1648,15 @@ translate deutsch strings:
     old "Do you want gay content with Pete?"
     new "Do you want gay content with Pete?"
 
+# game/code/e18/e18s04.rpy:556
+translate deutsch e18s04_in_beach_f19e877f:
+
+    # sb "Mmmm, maybe we {i}will{/i} get a show. Let's see what you boys are made of..." id e18s04_in_beach_f19e877f
+    sb "Mmmm, maybe we {i}will{/i} get a show. Let's see what you boys are made of..." id e18s04_in_beach_f19e877f
+
+# game/code/e18/e18s04.rpy:753
+translate deutsch e18s04_in_beach_c86faa60:
+
+    # dw "Let's!" id e18s04_in_beach_c86faa60
+    dw "Let's!" id e18s04_in_beach_c86faa60
+

@@ -904,12 +904,6 @@ translate portuguese e18s05_sb_sex_5c55f09b:
     # sb "Spank me or I'll run screaming from this room."
     sb "Me bate ou eu vou sair gritando daqui."
 
-# game/code/e18/e18s05.rpy:606
-translate portuguese e18s05_sb_sex_f98c9ec4:
-
-    # sb "You can take your changes."
-    sb "Você arrisca se quiser."
-
 # game/code/e18/e18s05.rpy:611
 translate portuguese e18s05_sb_sex_12bbe5f9:
 
@@ -1357,7 +1351,7 @@ translate portuguese strings:
     new "Com certeza."
 
     # game/code/e18/e18s05.rpy:321
-    old "Nah, but I want you to be happy"
+    old "Nah, but I want you to be happy."
     new "Não, mas eu quero que você seja feliz."
 
     # game/code/e18/e18s05.rpy:351
@@ -1371,4 +1365,10 @@ translate portuguese strings:
     # game/code/e18/e18s05.rpy:439
     old "I don't understand."
     new "Não entendo."
+
+# game/code/e18/e18s05.rpy:606
+translate portuguese e18s05_sb_sex_e35dff6a:
+
+    # sb "You can take your chances."
+    sb ""
 

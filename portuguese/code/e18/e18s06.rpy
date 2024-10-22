@@ -446,7 +446,7 @@ translate portuguese e18s06_montage_1_2a7622ff:
 translate portuguese e18s06_montage_1_e030d7ef:
 
     # dw "There's only one thing that ass is useful for! {i}Punishment!{/i} Get over here!"
-    dw "Essa sua bunda só tem uma utilidade! {i}Punição!{/ia} Vem aqui!"
+    dw "Essa sua bunda só tem uma utilidade! {i}Punição!{/i} Vem aqui!"
 
 # game/code/e18/e18s06.rpy:328
 translate portuguese e18s06_montage_1_3f6c3913:
