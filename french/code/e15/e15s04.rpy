@@ -766,12 +766,6 @@ translate french replay_e15s04_0a037358:
     # ovs "Uhm, okay..."
     ovs "Uhm, okay..."
 
-# game/code/e15/e15s04.rpy:403
-translate french replay_e15s04_793324fe:
-
-    # be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'. It took a little bit, but I got over being a shy peer fast!"
-    be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'. It took a little bit, but I got over being a shy peer fast!"
-
 # game/code/e15/e15s04.rpy:405
 translate french replay_e15s04_6d354a13:
 
@@ -1245,12 +1239,6 @@ translate french replay_e15s04_6a641013:
 
     # mc "Then it's time for the final lesson! Get on your back, Olivia."
     mc "Then it's time for the final lesson! Get on your back, Olivia."
-
-# game/code/e15/e15s04.rpy:630
-translate french replay_e15s04_d088ab9d:
-
-    # mc "We're comming up on the final part of the lesson."
-    mc "We're comming up on the final part of the lesson."
 
 # game/code/e15/e15s04.rpy:634
 translate french replay_e15s04_1299346f:

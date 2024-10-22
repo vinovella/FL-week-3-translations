@@ -814,12 +814,6 @@ translate spanish e03s05_9f4ba8e2:
     # mh "I have just the thing."
     mh "Tengo justo lo que necesitas."
 
-# game/code/e03/e03s05.rpy:462
-translate spanish e03s05_17aa5b41:
-
-    # mh "I have realized, that I have forgotten that this is a celebration! A veritable feast for my arrival!"
-    mh "¡Me he dado cuenta que se me ha olvidado que esto es una celebración! ¡Un verdadero festín para mi llegada!"
-
 # game/code/e03/e03s05.rpy:465
 translate spanish e03s05_75163ac9:
 

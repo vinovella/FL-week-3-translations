@@ -814,12 +814,6 @@ translate turkish e03s05_9f4ba8e2:
     # mh "I have just the thing."
     mh "Bende tam o şey var."
 
-# game/code/e03/e03s05.rpy:462
-translate turkish e03s05_17aa5b41:
-
-    # mh "I have realized, that I have forgotten that this is a celebration! A veritable feast for my arrival!"
-    mh "Fark ettim ki, bunun bir kutlama olduğunu unutmuşum! Gelişim için gerçek bir şölen!"
-
 # game/code/e03/e03s05.rpy:465
 translate turkish e03s05_75163ac9:
 

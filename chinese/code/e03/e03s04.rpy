@@ -892,12 +892,6 @@ translate chinese e03s04_978794b6:
     # hp "Look into her eyes, you worthless nothing. Ask the goddess to impregnate you, to put her seed inside you."
     hp "看着她的眼睛，你这个没用的东西。请求女神让你怀孕，把她的种子放进你的身体里。"
 
-# game/code/e03/e03s04.rpy:538
-translate chinese e03s04_36c2e3e8:
-
-    # sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making you pregnant."
-    sy "丽莎...求你了，我要你射进我的身体深处。我想让你填满我，让我怀孕，让全世界知道我属于你。"
-
 # game/code/e03/e03s04.rpy:541
 translate chinese e03s04_6086e7a5:
 

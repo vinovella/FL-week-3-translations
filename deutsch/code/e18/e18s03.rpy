@@ -952,12 +952,6 @@ translate deutsch e18s03_punishment_3ade605e:
     # pb "Yes I do, your Royalty-ness. I love it!"
     pb "Yes I do, your Royalty-ness. I love it!"
 
-# game/code/e18/e18s03.rpy:650
-translate deutsch e18s03_punishment_9db71fb2:
-
-    # dw "Gooood, rub them all over that puny thing. Let me feet bring you to a climax!"
-    dw "Gooood, rub them all over that puny thing. Let me feet bring you to a climax!"
-
 # game/code/e18/e18s03.rpy:654
 translate deutsch e18s03_punishment_44e1cad9:
 

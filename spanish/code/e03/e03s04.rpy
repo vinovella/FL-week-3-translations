@@ -892,12 +892,6 @@ translate spanish e03s04_978794b6:
     # hp "Look into her eyes, you worthless nothing. Ask the goddess to impregnate you, to put her seed inside you."
     hp "Mírala a los ojos, nada inútil. Pídele a la diosa que te embarace, que ponga su semilla dentro de ti."
 
-# game/code/e03/e03s04.rpy:538
-translate spanish e03s04_36c2e3e8:
-
-    # sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making you pregnant."
-    sy "Lyssa... Por favor, quiero que te corras muy dentro de mí. Quiero que me llenes y le muestres al mundo que te pertenezco dejándote embarazada."
-
 # game/code/e03/e03s04.rpy:541
 translate spanish e03s04_6086e7a5:
 

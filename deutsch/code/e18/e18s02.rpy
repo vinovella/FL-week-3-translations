@@ -724,12 +724,6 @@ translate deutsch e18s02_94a3e78d:
     # sb "Excellent question. Dahlia?"
     sb "Excellent question. Dahlia?"
 
-# game/code/e18/e18s02.rpy:479
-translate deutsch e18s02_c33dd4f8:
-
-    # dw "Right. well we tried this out back home, but we were eager to try it out here."
-    dw "Right. well we tried this out back home, but we were eager to try it out here."
-
 # game/code/e18/e18s02.rpy:480
 translate deutsch e18s02_5d8e7e19:
 
@@ -933,12 +927,6 @@ translate deutsch e18s02_2c80157f:
 
     # sb "Oh. Well we'll be sure to consider it. Thanks for coming by."
     sb "Oh. Well we'll be sure to consider it. Thanks for coming by."
-
-# game/code/e18/e18s02.rpy:603
-translate deutsch e18s02_9317bad4:
-
-    # "Cop" "Of course. welcome to Santa Domina. Be safe out there, gorgeous."
-    "Cop" "Of course. welcome to Santa Domina. Be safe out there, gorgeous."
 
 # game/code/e18/e18s02.rpy:606
 translate deutsch e18s02_3f9d678b:

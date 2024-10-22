@@ -742,12 +742,6 @@ translate korean e18s04_in_beach_e4fb4ec7:
     # ke "Whatever you say, Daddy."
     ke "Whatever you say, Daddy."
 
-# game/code/e18/e18s04.rpy:556
-translate korean e18s04_in_beach_f19e877f:
-
-    # sb "Mmmm, maybe we {i}will{/i} get a show. Let's see what you boys are made of.."
-    sb "Mmmm, maybe we {i}will{/i} get a show. Let's see what you boys are made of.."
-
 # game/code/e18/e18s04.rpy:557
 translate korean e18s04_in_beach_7eba6d03:
 
@@ -1047,12 +1041,6 @@ translate korean e18s04_in_beach_37426b83:
 
     # sb "Now, we shouldn't let them have all the fun. Let's have a little of our own."
     sb "Now, we shouldn't let them have all the fun. Let's have a little of our own."
-
-# game/code/e18/e18s04.rpy:754
-translate korean e18s04_in_beach_c86faa60:
-
-    # dw "Lets!"
-    dw "Lets!"
 
 # game/code/e18/e18s04.rpy:764
 translate korean e18s04_in_beach_796e3781:

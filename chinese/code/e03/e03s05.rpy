@@ -814,12 +814,6 @@ translate chinese e03s05_9f4ba8e2:
     # mh "I have just the thing."
     mh "我有办法。"
 
-# game/code/e03/e03s05.rpy:462
-translate chinese e03s05_17aa5b41:
-
-    # mh "I have realized, that I have forgotten that this is a celebration! A veritable feast for my arrival!"
-    mh "我刚意识到，我忘了今晚是庆祝活动！这是一场为欢迎我的到来而准备的盛宴！"
-
 # game/code/e03/e03s05.rpy:465
 translate chinese e03s05_75163ac9:
 

@@ -816,12 +816,6 @@ translate portuguese e03s05_9f4ba8e2:
     # mh "I have just the thing."
     mh "Eu sei exatamente o que fazer."
 
-# game/code/e03/e03s05.rpy:462
-translate portuguese e03s05_17aa5b41:
-
-    # mh "I have realized, that I have forgotten that this is a celebration! A veritable feast for my arrival!"
-    mh "Eu tinha esquecido que isso é uma comemoração! Um verdadeiro banquete em honra à minha chegada!"
-
 # game/code/e03/e03s05.rpy:465
 translate portuguese e03s05_75163ac9:
 

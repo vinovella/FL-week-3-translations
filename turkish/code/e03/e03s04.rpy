@@ -892,12 +892,6 @@ translate turkish e03s04_978794b6:
     # hp "Look into her eyes, you worthless nothing. Ask the goddess to impregnate you, to put her seed inside you."
     hp "Gözlerinin içine bak, seni değersiz hiç. Tanrıçadan seni hamile bırakmasını, tohumunu içine koymasını iste."
 
-# game/code/e03/e03s04.rpy:538
-translate turkish e03s04_36c2e3e8:
-
-    # sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making you pregnant."
-    sy "Lyssa... Lütfen, içime boşalmanı istiyorum. Beni doldurmanı ve seni hamile bırakarak sana ait olduğumu tüm dünyaya göstermeni istiyorum."
-
 # game/code/e03/e03s04.rpy:541
 translate turkish e03s04_6086e7a5:
 

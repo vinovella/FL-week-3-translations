@@ -676,12 +676,6 @@ translate korean e15s06_pool_room_ba89206e:
     # mes "Oh? Why, [mcname]?"
     mes "Oh? Why, [mcname]?"
 
-# game/code/e15/e15s06.rpy:452
-translate korean e15s06_pool_room_c84af4a1:
-
-    # mc "Because you're dirty talk is really making Stacy horny."
-    mc "Because you're dirty talk is really making Stacy horny."
-
 # game/code/e15/e15s06.rpy:453
 translate korean e15s06_pool_room_9b49327f:
 
@@ -1173,12 +1167,6 @@ translate korean e15s06_next_activity_d0e8568a:
 
     # mc "If that's the case, I want to save just a little bit for the grand finale."
     mc "If that's the case, I want to save just a little bit for the grand finale."
-
-# game/code/e15/e15s06.rpy:695
-translate korean e15s06_next_activity_f1d07023:
-
-    # mes "Mmmmm, you know, I think you're student has been so good, I want to give her something more."
-    mes "Mmmmm, you know, I think you're student has been so good, I want to give her something more."
 
 # game/code/e15/e15s06.rpy:697
 translate korean e15s06_next_activity_302d449f:

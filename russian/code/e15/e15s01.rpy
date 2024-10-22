@@ -1060,12 +1060,6 @@ translate russian e15s01_more_sex_0f1f5fb8:
     # mes "Oh!"
     mes "Oh!"
 
-# game/code/e15/e15s01.rpy:815
-translate russian e15s01_more_sex_f0b4d32a:
-
-    # mes "Nurraaah. Woah, going right for it. I thought you'd."
-    mes "Nurraaah. Woah, going right for it. I thought you'd."
-
 # game/code/e15/e15s01.rpy:818
 translate russian e15s01_more_sex_844715b2:
 
@@ -1269,12 +1263,6 @@ translate russian e15s01_more_sex_a7c20a4a:
 
     # sy "Hehehe. Thanks, Min."
     sy "Hehehe. Thanks, Min."
-
-# game/code/e15/e15s01.rpy:924
-translate russian e15s01_more_sex_112bfe2a:
-
-    # sy "Oh no. We almost forget about something."
-    sy "Oh no. We almost forget about something."
 
 # game/code/e15/e15s01.rpy:927
 translate russian e15s01_more_sex_9c92b474:

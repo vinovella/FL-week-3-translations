@@ -1962,28 +1962,10 @@ translate portuguese e09s07_sex_kb_cb_06ac1251:
     # mc "I can't take your money dude."
     mc ""
 
-# game/code/e09/e09s07.rpy:767
-translate portuguese e09s07_sex_kb_cb_fca38314:
-
-    # kv "Ah it's all good man."
-    kv ""
-
-# game/code/e09/e09s07.rpy:768
-translate portuguese e09s07_sex_kb_cb_d0c4a857:
-
-    # kv "I'm sure Chloe and I can find some more fun around here."
-    kv ""
-
 # game/code/e09/e09s07.rpy:769
 translate portuguese e09s07_sex_kb_cb_75d0d357:
 
     # mc "Totally."
-    mc ""
-
-# game/code/e09/e09s07.rpy:777
-translate portuguese e09s07_sex_kb_cb_continue_89dcd564:
-
-    # mc "How could i ever say no to you two?"
     mc ""
 
 # game/code/e09/e09s07.rpy:781

@@ -1960,29 +1960,11 @@ translate spanish e09s07_sex_kb_cb_06ac1251:
     # mc "I can't take your money dude."
     mc "No puedo aceptar tu dinero, amigo."
 
-# game/code/e09/e09s07.rpy:767
-translate spanish e09s07_sex_kb_cb_fca38314:
-
-    # kv "Ah it's all good man."
-    kv "Ah, todo está bien, hombre."
-
-# game/code/e09/e09s07.rpy:768
-translate spanish e09s07_sex_kb_cb_d0c4a857:
-
-    # kv "I'm sure Chloe and I can find some more fun around here."
-    kv "Estoy seguro de que Chloe y yo podemos encontrar algo más de diversión por aquí."
-
 # game/code/e09/e09s07.rpy:769
 translate spanish e09s07_sex_kb_cb_75d0d357:
 
     # mc "Totally."
     mc "Totalmente."
-
-# game/code/e09/e09s07.rpy:777
-translate spanish e09s07_sex_kb_cb_continue_89dcd564:
-
-    # mc "How could i ever say no to you two?"
-    mc "¿Cómo podría alguna vez decirles que no a ustedes dos?"
 
 # game/code/e09/e09s07.rpy:781
 translate spanish e09s07_sex_kb_cb_continue_b1447eda:

@@ -1546,12 +1546,6 @@ translate french e18s07_in_the_pool_8e5b9aba:
     # pb "Mmhmmmm..."
     pb "Mmhmmmm..."
 
-# game/code/e18/e18s07.rpy:883
-translate french e18s07_in_the_pool_6ecdedb4:
-
-    # dw "[mcname]. Get me over here and fuck me like you fuck Samiya."
-    dw "[mcname]. Get me over here and fuck me like you fuck Samiya."
-
 # game/code/e18/e18s07.rpy:885
 translate french e18s07_in_the_pool_7fd3a623:
 
@@ -1858,12 +1852,6 @@ translate french e18s07_mc_pb_625fe33a:
     # mc "Y-Yeah. Just, fuck - go easy on me, Pete."
     mc "Y-Yeah. Just, fuck - go easy on me, Pete."
 
-# game/code/e18/e18s07.rpy:1030
-translate french e18s07_mc_pb_c31d0392:
-
-    # sb "Seems like we might not be the only one's with tight asses here, D!"
-    sb "Seems like we might not be the only one's with tight asses here, D!"
-
 # game/code/e18/e18s07.rpy:1031
 translate french e18s07_mc_pb_81140666:
 
@@ -2133,12 +2121,6 @@ translate french e18s07_finale_2a633bb0:
 
     # pb "Never, Mistress!"
     pb "Never, Mistress!"
-
-# game/code/e18/e18s07.rpy:1148
-translate french e18s07_finale_ca5d1c0e:
-
-    # mc "You're pussy is so tight, Samiya... And wet..."
-    mc "You're pussy is so tight, Samiya... And wet..."
 
 # game/code/e18/e18s07.rpy:1149
 translate french e18s07_finale_ef4b76f0:

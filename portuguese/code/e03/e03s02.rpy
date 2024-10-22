@@ -624,12 +624,6 @@ translate portuguese e03s02_88555dde:
     # mh "Stephanie can explain."
     mh ""
 
-# game/code/e03/e03s02.rpy:393
-translate portuguese e03s02_d8271a63:
-
-    # sw "So during the investigation, the police and private have kept coming up against brick-walls."
-    sw ""
-
 # game/code/e03/e03s02.rpy:394
 translate portuguese e03s02_1e315682:
 

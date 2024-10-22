@@ -1612,12 +1612,6 @@ translate italian e18s01_after_menu_00df9151:
     # sb "I wanted to give you a heavenly treat."
     sb "I wanted to give you a heavenly treat."
 
-# game/code/e18/e18s01.rpy:1248
-translate italian e18s01_after_menu_956ab453:
-
-    # mc "Huh. Well, it's well... nrrnn... recieved."
-    mc "Huh. Well, it's well... nrrnn... recieved."
-
 # game/code/e18/e18s01.rpy:1249
 translate italian e18s01_after_menu_0d3d123f:
 
