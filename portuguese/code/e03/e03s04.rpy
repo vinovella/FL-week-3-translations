@@ -1444,5 +1444,5 @@ translate portuguese strings:
 translate portuguese e03s04_9bef14b2:
 
     # mc "Don't you remember? After that weird chick took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
-    mc ""
+    mc "Você não lembra? Depois que aquela esquisitona levou a Lyssa, eles trouxeram a gente pra outro lugar. Algo sobre ser 'escolhidos' ou sei lá."
 
