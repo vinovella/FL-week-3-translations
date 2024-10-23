@@ -310,12 +310,6 @@ translate chinese e09s04_a2803bc7:
     # "The Senator" "Put our investigator on it. I heard that the Congressman likes to gamble and fuck whores. Give it a day, and he won't be a problem anymore."
     "参议员" "派我们的调查员去调查。我听说国会议员喜欢赌博还有嫖妓。再过一天，他就不再是个问题了。"
 
-# game/code/e09/e09s04.rpy:233
-translate chinese e09s04_4c6121d3:
-
-    # "The Senator" "Send her tickets to the game. Two. One for her and one for the little fella'. She'll like that."
-    "参议员" "给她送去游戏的票。要两张。一张给她，一张给小家伙。她会喜欢的。"
-
 # game/code/e09/e09s04.rpy:237
 translate chinese e09s04_4a51a480:
 
@@ -2137,4 +2131,10 @@ translate chinese strings:
     # game/code/e09/e09s04.rpy:361
     old "Three weeks later"
     new "三周后"
+
+# game/code/e09/e09s04.rpy:208
+translate chinese e09s04_8cd3f720:
+
+    # "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
+    "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
 

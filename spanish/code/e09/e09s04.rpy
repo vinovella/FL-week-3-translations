@@ -310,12 +310,6 @@ translate spanish e09s04_a2803bc7:
     # "The Senator" "Put our investigator on it. I heard that the Congressman likes to gamble and fuck whores. Give it a day, and he won't be a problem anymore."
     "el senador" "Pon a nuestro investigador en esto. Escuché que al congresista le gusta apostar y follar con putas. Dale un día y ya no será un problema."
 
-# game/code/e09/e09s04.rpy:233
-translate spanish e09s04_4c6121d3:
-
-    # "The Senator" "Send her tickets to the game. Two. One for her and one for the little fella'. She'll like that."
-    "el senador" "Envíale entradas para el juego. Dos. Uno para ella y otro para el pequeño. A ella le gustará eso."
-
 # game/code/e09/e09s04.rpy:237
 translate spanish e09s04_4a51a480:
 
@@ -2137,4 +2131,10 @@ translate spanish strings:
     # game/code/e09/e09s04.rpy:361
     old "Three weeks later"
     new "Tres semanas después"
+
+# game/code/e09/e09s04.rpy:208
+translate spanish e09s04_8cd3f720:
+
+    # "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
+    "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
 
