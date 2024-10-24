@@ -2,307 +2,307 @@
 translate chinese e09s06_7d2dfb04:
 
     # mes "Mmmmm... I never thought I was going to have another reason to put on a mask!"
-    mes "Mmmmm... I never thought I was going to have another reason to put on a mask!"
+    mes "嗯...我从没想过我还会有戴面具的机会！"
 
 # game/code/e09/e09s06.rpy:18
 translate chinese e09s06_6ef72a6a:
 
     # mc "I'm glad we were able to find you an excuse!"
-    mc "I'm glad we were able to find you an excuse!"
+    mc "很高兴我们能给你找个借口！"
 
 # game/code/e09/e09s06.rpy:20
 translate chinese e09s06_6e428610:
 
     # mes "After everything with Lydia, I just-"
-    mes "After everything with Lydia, I just-"
+    mes "莉迪亚的事发生之后，我--"
 
 # game/code/e09/e09s06.rpy:21
 translate chinese e09s06_1030bfa8:
 
     # mc "Hey, that's not a name we're saying tonight."
-    mc "Hey, that's not a name we're saying tonight."
+    mc "嘿，我们今晚不打算提这个名字。"
 
 # game/code/e09/e09s06.rpy:23
 translate chinese e09s06_42359c27:
 
     # mes "I know, but-"
-    mes "I know, but-"
+    mes "我知道，可是--"
 
 # game/code/e09/e09s06.rpy:24
 translate chinese e09s06_ac99824d:
 
     # mc "Nope. No buts! Those days are behind us, and Fetish Locator Rebooted isn't going to dwell in the past. On to bigger and better things!"
-    mc "Nope. No buts! Those days are behind us, and Fetish Locator Rebooted isn't going to dwell in the past. On to bigger and better things!"
+    mc "没有但是！那些日子已经过去了，重启的性趣探测器不会停留在过去。我们要向更大更好的目标前进！"
 
 # game/code/e09/e09s06.rpy:26
 translate chinese e09s06_c8356d2d:
 
     # mes "You know what? You're right!"
-    mes "You know what? You're right!"
+    mes "你知道吗？你说的太对了！"
 
 # game/code/e09/e09s06.rpy:27
 translate chinese e09s06_d81108e1:
 
     # mc "Damn right I am!"
-    mc "Damn right I am!"
+    mc "我当然没错！"
 
 # game/code/e09/e09s06.rpy:29
 translate chinese e09s06_511e0c25:
 
     # mes "All right, we should probably start getting ready. Guests should be arriving soon."
-    mes "All right, we should probably start getting ready. Guests should be arriving soon."
+    mes "好了，我们应该开始准备了。客人应该很快就到了。"
 
 # game/code/e09/e09s06.rpy:30
 translate chinese e09s06_2d932f9b:
 
     # mc "Got any tips you want to share about hosting one of these parties?"
-    mc "Got any tips you want to share about hosting one of these parties?"
+    mc "关于举办这样的派对，你有什么建议要分享吗？"
 
 # game/code/e09/e09s06.rpy:32
 translate chinese e09s06_fcbcda10:
 
     # mes "Viagra."
-    mes "Viagra."
+    mes "伟哥。"
 
 # game/code/e09/e09s06.rpy:33
 translate chinese e09s06_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "什么？"
 
 # game/code/e09/e09s06.rpy:35
 translate chinese e09s06_3e16022c:
 
     # mes "Everyone is showing up to get a taste of you tonight, [mcname]. And you can't disappoint. So be ready to fuck until the sun comes up. I recommend Viagra for that."
-    mes "Everyone is showing up to get a taste of you tonight, [mcname]. And you can't disappoint. So be ready to fuck until the sun comes up. I recommend Viagra for that."
+    mes "每个人今晚都来一睹你的风采，[mcname]。你不能让人失望。所以准备好干到天亮吧。我推荐你吃伟哥。"
 
 # game/code/e09/e09s06.rpy:36
 translate chinese e09s06_374b9c25:
 
     # mc "Hahaha - I meant about being a host."
-    mc "Hahaha - I meant about being a host."
+    mc "哈哈哈--我是说当主持人的建议啦。"
 
 # game/code/e09/e09s06.rpy:38
 translate chinese e09s06_13e9f2f0:
 
     # mes "You know, just be your charming self. Talk to everyone, keep them entertained. Make sure you don't get sucked into any lengthy conversations. That kind of stuff."
-    mes "You know, just be your charming self. Talk to everyone, keep them entertained. Make sure you don't get sucked into any lengthy conversations. That kind of stuff."
+    mes "你知道，做你迷人的自己就好。和每个人交谈，让他们乐在其中。确保你没有陷入任何冗长的谈话中。诸如此类的东西。"
 
 # game/code/e09/e09s06.rpy:39
 translate chinese e09s06_25255d0f:
 
     # mes "Oh, and be careful of the libations. You need to stay sharp and focused, and getting drunk will ruin all of that."
-    mes "Oh, and be careful of the libations. You need to stay sharp and focused, and getting drunk will ruin all of that."
+    mes "哦，还要小心酒。你需要保持明锐和专注，喝醉会毁了这一切。"
 
 # game/code/e09/e09s06.rpy:41
 translate chinese e09s06_421c0c79:
 
     # mc "Got it. Keep moving, no drinking."
-    mc "Got it. Keep moving, no drinking."
+    mc "明白了。要一直动起来，不要喝酒。"
 
 # game/code/e09/e09s06.rpy:42
 translate chinese e09s06_da1f2c91:
 
     # mes "And never take off your smile."
-    mes "And never take off your smile."
+    mes "还有永远不要收起你的笑容。"
 
 # game/code/e09/e09s06.rpy:46
 translate chinese e09s06_3ff24e1a:
 
     # mes "How does it look?"
-    mes "How does it look?"
+    mes "看起来怎么样？"
 
 # game/code/e09/e09s06.rpy:47
 translate chinese e09s06_cdd9ed92:
 
     # mc "Ravishing."
-    mc "Ravishing."
+    mc "迷死人了。"
 
 # game/code/e09/e09s06.rpy:49
 translate chinese e09s06_fc46ef02:
 
     # mes "Haha. That's the energy to keep up tonight! Now come on, let's get into position to receive our guests."
-    mes "Haha. That's the energy to keep up tonight! Now come on, let's get into position to receive our guests."
+    mes "哈哈。这就是今晚你要保持的能量！现在来吧，让我们准备迎接我们的客人。"
 
 # game/code/e09/e09s06.rpy:51
 translate chinese e09s06_df6def5f:
 
     # mes "And put your costume on! Can't start the party naked!"
-    mes "And put your costume on! Can't start the party naked!"
+    mes "把你的战服穿上！不能光着身子开派对！"
 
 # game/code/e09/e09s06.rpy:52
 translate chinese e09s06_3a7256c3:
 
     # mc "Oh, right!"
-    mc "Oh, right!"
+    mc "哦，对哦！"
 
 # game/code/e09/e09s06.rpy:56
 translate chinese e09s06_974e4b6f:
 
     # mc "Gah, I'm kind of nervous."
-    mc "Gah, I'm kind of nervous."
+    mc "啊，我有点紧张。"
 
 # game/code/e09/e09s06.rpy:57
 translate chinese e09s06_798f9c8b:
 
     # mes "Me too."
-    mes "Me too."
+    mes "我也是。"
 
 # game/code/e09/e09s06.rpy:59
 translate chinese e09s06_6208aa5e:
 
     # mc "Really? But you've done this before."
-    mc "Really? But you've done this before."
+    mc "真的吗？但你以前参加过派对啊。"
 
 # game/code/e09/e09s06.rpy:60
 translate chinese e09s06_c01f5900:
 
     # mes "Yeah, but it's been awhile. Plus, it's a nervous excitement."
-    mes "Yeah, but it's been awhile. Plus, it's a nervous excitement."
+    mes "是的，但那有一段时间了。另外，这是一种紧张的兴奋。"
 
 # game/code/e09/e09s06.rpy:62
 translate chinese e09s06_fa0222d6:
 
     # mc "Huh... maybe that's it too."
-    mc "Huh... maybe that's it too."
+    mc "嗯...也许这也是原因。"
 
 # game/code/e09/e09s06.rpy:64
 translate chinese e09s06_bfaac863:
 
     # mes "Looks like our first guests have arrived!"
-    mes "Looks like our first guests have arrived!"
+    mes "看来我们的第一批客人来了！"
 
 # game/code/e09/e09s06.rpy:65
 translate chinese e09s06_b3800c09:
 
     # mc "Wow. Very... prompt."
-    mc "Wow. Very... prompt."
+    mc "哇。非常...及时啊。"
 
 # game/code/e09/e09s06.rpy:67
 translate chinese e09s06_a0c4c5db:
 
     # mes "You know what they say about timeliness."
-    mes "You know what they say about timeliness."
+    mes "你知道人们是非常看重守时的。"
 
 # game/code/e09/e09s06.rpy:69
 translate chinese e09s06_1e476a9b:
 
     # mes "Aleyah, Tyrell. It's good to see you both."
-    mes "Aleyah, Tyrell. It's good to see you both."
+    mes "艾蕾亚，特雷尔。很高兴见到你们俩。"
 
 # game/code/e09/e09s06.rpy:70
 translate chinese e09s06_5498e6c0:
 
     # tr "Wait - are we not doing our usernames anymore?"
-    tr "Wait - are we not doing our usernames anymore?"
+    tr "等等--我们不再使用用户名了吗？"
 
 # game/code/e09/e09s06.rpy:72
 translate chinese e09s06_8c0fe45f:
 
     # mc "Nope! At least not tonight!"
-    mc "Nope! At least not tonight!"
+    mc "不用了！至少今晚不用！"
 
 # game/code/e09/e09s06.rpy:73
 translate chinese e09s06_c71ecc02:
 
     # ah "Oh, uhm... what about-"
-    ah "Oh, uhm... what about-"
+    ah "哦，嗯...那--"
 
 # game/code/e09/e09s06.rpy:75
 translate chinese e09s06_19dd9bcc:
 
     # mc "Don't worry - tonight is a private event. Everyone who's been invited knows the rules, and has agreed that 'what happens here, stays here'."
-    mc "Don't worry - tonight is a private event. Everyone who's been invited knows the rules, and has agreed that 'what happens here, stays here'."
+    mc "别担心，今晚是私人活动。每个被邀请的人都知道规则，并且都同意‘这里发生的事，就留在这里’。"
 
 # game/code/e09/e09s06.rpy:76
 translate chinese e09s06_94e943d9:
 
     # mc "So no need to worry about anything tonight outside of having a little bit of safe, fetish filled fun!"
-    mc "So no need to worry about anything tonight outside of having a little bit of safe, fetish filled fun!"
+    mc "所以今晚除了享受安全的、充满各种性癖的乐趣之外，什么都不用担心！"
 
 # game/code/e09/e09s06.rpy:78
 translate chinese e09s06_ec3fbc9c:
 
     # tr "Awesome. Thanks, [mcname]! We've both been really excited about tonight."
-    tr "Awesome. Thanks, [mcname]! We've both been really excited about tonight."
+    tr "太棒了。谢谢你，[mcname]！我们都对今晚感到非常兴奋。"
 
 # game/code/e09/e09s06.rpy:79
 translate chinese e09s06_2606b50a:
 
     # mc "And I'm happy you both could be here! Feel free to wander, you two are the first here, but we have some drinks and refreshments around the house."
-    mc "And I'm happy you both could be here! Feel free to wander, you two are the first here, but we have some drinks and refreshments around the house."
+    mc "我很高兴你们俩都能来！随便逛逛吧，你们俩是最先到的，屋里准备的有饮料和点心。"
 
 # game/code/e09/e09s06.rpy:81
 translate chinese e09s06_aeb80a67:
 
     # ah "Sounds good, thanks [mcname]!"
-    ah "Sounds good, thanks [mcname]!"
+    ah "听起来不错，谢啦mcname]！"
 
 # game/code/e09/e09s06.rpy:83
 translate chinese e09s06_f6496e84:
 
     # mes "Impressive, [mcname]."
-    mes "Impressive, [mcname]."
+    mes "真厉害，[mcname]。"
 
 # game/code/e09/e09s06.rpy:84
 translate chinese e09s06_11455b53_1:
 
     # mc "What?"
-    mc "What?"
+    mc "哪里厉害？"
 
 # game/code/e09/e09s06.rpy:86
 translate chinese e09s06_db41f4fe:
 
     # mes "You handled that well. I don't think you have anything to worry about hosting this event."
-    mes "You handled that well. I don't think you have anything to worry about hosting this event."
+    mes "你处理得很好。我觉得你主持这个活动没什么好担心的。"
 
 # game/code/e09/e09s06.rpy:87
 translate chinese e09s06_68b95aa2:
 
     # mc "Thanks, Min."
-    mc "Thanks, Min."
+    mc "谢谢，明。"
 
 # game/code/e09/e09s06.rpy:89
 translate chinese e09s06_ce0773c6:
 
     # mes "Another prompt arrival. People must be excited for tonight."
-    mes "Another prompt arrival. People must be excited for tonight."
+    mes "又是准时到达的。今晚大家一定很兴奋。"
 
 # game/code/e09/e09s06.rpy:91
 translate chinese e09s06_13f9877d:
 
     # mes "Hana, and..."
-    mes "Hana, and..."
+    mes "哈娜，还有..."
 
 # game/code/e09/e09s06.rpy:93
 translate chinese e09s06_f5abe090:
 
     # lo "Londyn, a pleasure, Miss-"
-    lo "Londyn, a pleasure, Miss-"
+    lo "朗迪恩，很高兴见到你，小姐--"
 
 # game/code/e09/e09s06.rpy:94
 translate chinese e09s06_4c7d18e8:
 
     # mes "Please, no need for formalities. I'm Min, welcome to my home."
-    mes "Please, no need for formalities. I'm Min, welcome to my home."
+    mes "请不要拘泥于礼节。我是明，欢迎来到我家。"
 
 # game/code/e09/e09s06.rpy:96
 translate chinese e09s06_97d371c9:
 
     # mc "Wow, I didn't expect you two to show up so early."
-    mc "Wow, I didn't expect you two to show up so early."
+    mc "哇，没想到你们俩来得这么早。"
 
 # game/code/e09/e09s06.rpy:97
 translate chinese e09s06_3c122800:
 
     # hr "Well, as the head of your Oversight Committee, I thought I should arrive early to make sure everything was above board."
-    hr "Well, as the head of your Oversight Committee, I thought I should arrive early to make sure everything was above board."
+    hr "嗯，作为你们监督委员会的主席，我想我应该早点到，以确保一切都是光明正大的。"
 
 # game/code/e09/e09s06.rpy:99
 translate chinese e09s06_535e3169:
 
     # hr "I also want to make sure my investment is being used wisely."
-    hr "I also want to make sure my investment is being used wisely."
+    hr "我也想确保我的投资得到了合理的使用。"
 
 # game/code/e09/e09s06.rpy:100
 translate chinese e09s06_5e4da1d1:
