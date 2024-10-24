@@ -730,12 +730,6 @@ translate portuguese e15s05_after_menu_22287693:
     # mc "Damn, Lyssa. You taught her a dick sucking signal?"
     mc "Caramba, Lyssa. Você ensinou um sinal de chupar pau?"
 
-# game/code/e15/e15s05.rpy:452
-translate portuguese e15s05_after_menu_881d7250:
-
-    # mh "Like I said, [mcname], there's a whole lot of shown her."
-    mh "Como eu disse, [mcname], ensinei bastante coisa para ela."
-
 # game/code/e15/e15s05.rpy:455
 translate portuguese e15s05_after_menu_16c44f39:
 
@@ -1191,12 +1185,6 @@ translate portuguese e15s05_after_menu_f75f205c:
 
     # sy "OHMYGODYES!"
     sy "MEUDEUSSIM!"
-
-# game/code/e15/e15s05.rpy:651
-translate portuguese e15s05_after_menu_7f8d06bf:
-
-    # sy "This is going tobesofun!"
-    sy "Isso vai ser tãodivertido!"
 
 # game/code/e15/e15s05.rpy:653
 translate portuguese e15s05_after_menu_b4cc9a4f:

@@ -730,12 +730,6 @@ translate turkish e15s05_after_menu_22287693:
     # mc "Damn, Lyssa. You taught her a dick sucking signal?"
     mc "Lanet olsun, Lyssa. Ona sik emme işaretini sen mi öğrettin?"
 
-# game/code/e15/e15s05.rpy:452
-translate turkish e15s05_after_menu_881d7250:
-
-    # mh "Like I said, [mcname], there's a whole lot of shown her."
-    mh "Dediğim gibi, [mcname], onu gösteren bir sürü şey var."
-
 # game/code/e15/e15s05.rpy:455
 translate turkish e15s05_after_menu_16c44f39:
 
@@ -1191,12 +1185,6 @@ translate turkish e15s05_after_menu_f75f205c:
 
     # sy "OHMYGODYES!"
     sy "AMANTANRIMEVET!"
-
-# game/code/e15/e15s05.rpy:651
-translate turkish e15s05_after_menu_7f8d06bf:
-
-    # sy "This is going tobesofun!"
-    sy "Bu çok eğlenceli olacak!"
 
 # game/code/e15/e15s05.rpy:653
 translate turkish e15s05_after_menu_b4cc9a4f:

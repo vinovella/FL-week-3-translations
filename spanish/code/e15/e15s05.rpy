@@ -730,12 +730,6 @@ translate spanish e15s05_after_menu_22287693:
     # mc "Damn, Lyssa. You taught her a dick sucking signal?"
     mc "Maldición, Lyssa. ¿Le enseñaste una señal para chupar pollas?"
 
-# game/code/e15/e15s05.rpy:452
-translate spanish e15s05_after_menu_881d7250:
-
-    # mh "Like I said, [mcname], there's a whole lot of shown her."
-    mh "Como dije, [mcname], se le muestran muchas cosas."
-
 # game/code/e15/e15s05.rpy:455
 translate spanish e15s05_after_menu_16c44f39:
 
@@ -1191,12 +1185,6 @@ translate spanish e15s05_after_menu_f75f205c:
 
     # sy "OHMYGODYES!"
     sy "¡OH DIOSES!"
-
-# game/code/e15/e15s05.rpy:651
-translate spanish e15s05_after_menu_7f8d06bf:
-
-    # sy "This is going tobesofun!"
-    sy "¡Esto va a ser muy divertido!"
 
 # game/code/e15/e15s05.rpy:653
 translate spanish e15s05_after_menu_b4cc9a4f:
@@ -1737,4 +1725,16 @@ translate spanish strings:
     # game/code/e15/e15s05.rpy:847
     old "Let Gemma release her enema"
     new "Deja que Gemma suelte su enema"
+
+# game/code/e15/e15s05.rpy:452
+translate spanish e15s05_after_menu_1387c466:
+
+    # mh "Like I said, [mcname]. I showed her a lot."
+    mh "Like I said, [mcname]. I showed her a lot."
+
+# game/code/e15/e15s05.rpy:651
+translate spanish e15s05_after_menu_7a1b0ad4:
+
+    # sy "This is going to be so fun!"
+    sy "This is going to be so fun!"
 

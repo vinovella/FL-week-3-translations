@@ -730,12 +730,6 @@ translate chinese e15s05_after_menu_22287693:
     # mc "Damn, Lyssa. You taught her a dick sucking signal?"
     mc "该死，丽莎。你教她口交怎么做了？"
 
-# game/code/e15/e15s05.rpy:452
-translate chinese e15s05_after_menu_881d7250:
-
-    # mh "Like I said, [mcname], there's a whole lot of shown her."
-    mh "就像我说的，[mcname]，她学了很多。"
-
 # game/code/e15/e15s05.rpy:455
 translate chinese e15s05_after_menu_16c44f39:
 
@@ -1191,12 +1185,6 @@ translate chinese e15s05_after_menu_f75f205c:
 
     # sy "OHMYGODYES!"
     sy "噢噢噢可以的！"
-
-# game/code/e15/e15s05.rpy:651
-translate chinese e15s05_after_menu_7f8d06bf:
-
-    # sy "This is going tobesofun!"
-    sy "肯定会很有趣！"
 
 # game/code/e15/e15s05.rpy:653
 translate chinese e15s05_after_menu_b4cc9a4f:
