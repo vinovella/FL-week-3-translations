@@ -409,8 +409,8 @@ translate malay strings:
     new "40. Do the Pulp Fiction Thing"
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Do pulp fiction thing (Ending 18)"
-    new "Do pulp fiction thing (Ending 18)"
+    old "Do the pulp fiction thing (Ending 18)"
+    new "Do the pulp fiction thing (Ending 18)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "41. Backdoor Cat Girl"
