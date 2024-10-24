@@ -2047,3 +2047,4 @@ translate turkish strings:
     # game/code/e09/e09s05.rpy:481
     old "Ask her how she wants it?"
     new "Ona nasıl istediğini sor?"
+

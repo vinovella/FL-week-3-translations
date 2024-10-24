@@ -1868,7 +1868,7 @@ translate turkish e09s01_continue_sex_ea7e6e3e:
 translate turkish e09s01_continue_sex_eceb1b49:
 
     # mc "Hey, Hana it's me. Listen, I wanted to talk to you about... uh... things. Just Lydia and all that. Pretty crazy how it all played out, right?"
-    Mc "Hey, Hana benim. Dinle, seninle bir şeyler hakkında konuşmak istiyordum. Lydia ve diğer şeyler. Her şeyin bu şekilde gelişmesi oldukça çılgınca, değil mi?"
+    mc "Hey, Hana benim. Dinle, seninle bir şeyler hakkında konuşmak istiyordum. Lydia ve diğer şeyler. Her şeyin bu şekilde gelişmesi oldukça çılgınca, değil mi?"
 
 # game/code/e09/e09s01.rpy:935
 translate turkish e09s01_continue_sex_7b8cb664:
@@ -2019,3 +2019,4 @@ translate turkish strings:
     # game/code/e09/e09s01.rpy:429
     old "Easy"
     new "Kolay"
+

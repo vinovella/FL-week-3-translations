@@ -1366,3 +1366,9 @@ translate korean strings:
     old "I don't understand."
     new "I don't understand."
 
+# game/code/e18/e18s05.rpy:606
+translate korean e18s05_sb_sex_e35dff6a:
+
+    # sb "You can take your chances."
+    sb "You can take your chances."
+

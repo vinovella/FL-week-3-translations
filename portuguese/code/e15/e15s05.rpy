@@ -1726,3 +1726,17 @@ translate portuguese strings:
     old "Let Gemma release her enema"
     new "Deixar que Gemma solte o enema"
 
+# TODO: Translation updated at 2024-10-25 00:44
+
+# game/code/e15/e15s05.rpy:452
+translate portuguese e15s05_after_menu_1387c466:
+
+    # mh "Like I said, [mcname]. I showed her a lot."
+    mh ""
+
+# game/code/e15/e15s05.rpy:651
+translate portuguese e15s05_after_menu_7a1b0ad4:
+
+    # sy "This is going to be so fun!"
+    sy ""
+

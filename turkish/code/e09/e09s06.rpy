@@ -1508,7 +1508,7 @@ translate turkish e09s06_jdg_780ec885:
 translate turkish e09s06_jdg_2480c9fe:
 
     # jdg "Pounding into me, harder, and harder... it hurts, but hurts {i}so good...{/i} Your balls slapping into me as you jackhammer your dick, cumming inside my asshole, filling me up-"
-    jdg "İçime vuruyor, daha sert, daha sert... Acıtıyor, ama çok iyi acıtıyor...{/i} Aletini kırarken taşakların içime çarpıyor, göt deliğimin içine boşalıyor, beni dolduruyor-"
+    jdg "İçime vuruyor, daha sert, daha sert... Acıtıyor, ama çok iyi acıtıyor... Aletini kırarken taşakların içime çarpıyor, göt deliğimin içine boşalıyor, beni dolduruyor-"
 
 # game/code/e09/e09s06.rpy:487
 translate turkish e09s06_jdg_10bafb80:
@@ -1809,12 +1809,6 @@ translate turkish e09s06_part_3_c23e08a6:
 
     # arj "Along with that, that money will be invested into being able to do more events like this!"
     arj "Bununla birlikte, bu para bunun gibi daha fazla etkinlik yapabilmek için harcanacak!"
-
-# game/code/e09/e09s06.rpy:587
-translate turkish e09s06_part_3_fa2604c5:
-
-    # sy "If we raise enough money to reach our goal, than everyone who donated will get a chance to come up here and have some fun with [mcname]!"
-    sy "Hedefimize ulaşmak için yeterli parayı toplarsak, bağış yapan herkes buraya gelip [mcname] ile biraz eğlenme şansı yakalayacak!"
 
 # game/code/e09/e09s06.rpy:588
 translate turkish e09s06_part_3_7bdb3618:
@@ -2165,3 +2159,10 @@ translate turkish strings:
     # game/code/e09/e09s06.rpy:305
     old "Get ready for the main event"
     new "Ana etkinliğe hazır olun"
+
+# game/code/e09/e09s06.rpy:860
+translate turkish e09s06_part_3_f20e6459:
+
+    # sy "If we raise enough money to reach our goal, then everyone who donated will get a chance to come up here and have some fun with [mcname]!"
+    sy "If we raise enough money to reach our goal, then everyone who donated will get a chance to come up here and have some fun with [mcname]!"
+

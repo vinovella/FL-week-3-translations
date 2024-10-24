@@ -2132,3 +2132,9 @@ translate french strings:
     old "Three weeks later"
     new "Three weeks later"
 
+# game/code/e09/e09s04.rpy:204
+translate french e09s04_8cd3f720:
+
+    # "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
+    "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
+

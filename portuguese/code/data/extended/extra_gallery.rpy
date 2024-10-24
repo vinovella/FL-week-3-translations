@@ -407,7 +407,7 @@ translate portuguese strings:
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Finish Ending 18"
+    old "Do pulp fiction thing (Ending 18)"
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
@@ -415,7 +415,7 @@ translate portuguese strings:
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Finish Ending 16"
+    old "Backdoor Cat Girl (Ending 16)"
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
@@ -431,7 +431,7 @@ translate portuguese strings:
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Finish Ending 15"
+    old "Choo-choo (Ending 5)"
     new ""
 
     # game/code/data/extended/extra_gallery.rpy:60

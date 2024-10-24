@@ -332,7 +332,7 @@ translate turkish e09s07_d69018e3:
 translate turkish e09s07_c87ae973:
 
     # hr "Y-yesss... I'm a good...{w} little...{w} {i}slut...{/i}"
-    hr "Evet... Ben iyi bir...{w} küçük...{w} {Sürtük...{/i}"
+    hr "Evet... Ben iyi bir...{w} küçük...{w} {i}sürtük...{/i}"
 
 # game/code/e09/e09s07.rpy:208
 translate turkish e09s07_0a4d3533:
@@ -1244,7 +1244,7 @@ translate turkish e09s07_sex_jdg_sex_df8e9adb:
 translate turkish e09s07_sex_jdg_sex_15b46a4b:
 
     # mc "That's your problem, you stupid bitch. {i}You fucking thought!{/i}"
-    mc "Bu senin sorunun, seni aptal sürtük. {Siktiğimin düşüncesi!"
+    mc "Bu senin sorunun, seni aptal sürtük. Siktiğimin düşüncesi!"
 
 # game/code/e09/e09s07.rpy:522
 translate turkish e09s07_sex_jdg_sex_3292734f:
@@ -1310,7 +1310,7 @@ translate turkish e09s07_sex_jdg_sex_87e0a79f:
 translate turkish e09s07_sex_jdg_sex_43a1baaa:
 
     # aw "Your cunt is soaking wet while you get double penetrated by two strangers at a sex party. {i}And you look like you're about to cum!{/i}"
-    aw "Bir seks partisinde iki yabancı tarafından çifte penetrasyona uğrarken amın sırılsıklam. {Ve boşalmak üzereymiş gibi görünüyorsun!"
+    aw "Bir seks partisinde iki yabancı tarafından çifte penetrasyona uğrarken amın sırılsıklam. {i}Ve boşalmak üzereymiş gibi görünüyorsun!{/i}"
 
 # game/code/e09/e09s07.rpy:540
 translate turkish e09s07_sex_jdg_sex_49f0244e:
@@ -1960,29 +1960,11 @@ translate turkish e09s07_sex_kb_cb_06ac1251:
     # mc "I can't take your money dude."
     mc "Paranı alamam dostum."
 
-# game/code/e09/e09s07.rpy:767
-translate turkish e09s07_sex_kb_cb_fca38314:
-
-    # kv "Ah it's all good man."
-    kv "Her şey yolunda dostum.."
-
-# game/code/e09/e09s07.rpy:768
-translate turkish e09s07_sex_kb_cb_d0c4a857:
-
-    # kv "I'm sure Chloe and I can find some more fun around here."
-    kv "Eminim Chloe ve ben buralarda daha fazla eğlence bulabiliriz."
-
 # game/code/e09/e09s07.rpy:769
 translate turkish e09s07_sex_kb_cb_75d0d357:
 
     # mc "Totally."
     mc "Kesinlikle."
-
-# game/code/e09/e09s07.rpy:777
-translate turkish e09s07_sex_kb_cb_continue_89dcd564:
-
-    # mc "How could i ever say no to you two?"
-    mc "İkinize nasıl hayır diyebilirim ki?"
 
 # game/code/e09/e09s07.rpy:781
 translate turkish e09s07_sex_kb_cb_continue_b1447eda:
@@ -2690,7 +2672,7 @@ translate turkish e09s07_part_4_ea7dfe3c:
 translate turkish e09s07_part_4_bec5d7e5:
 
     # hr "Look, you're always going to be fighting Fetish Locator's reputation here, right? But new place, fresh start - it's perfect for what you're doing."
-    Bak, burada Fetish Locator'ın itibarıyla her zaman savaşacaksın, değil mi? Ama yeni bir yer, yeni bir başlangıç - yaptığınız şey için mükemmel.
+    "Bak, burada Fetish Locator'ın itibarıyla her zaman savaşacaksın, değil mi? Ama yeni bir yer, yeni bir başlangıç - yaptığınız şey için mükemmel."
 
 # game/code/e09/e09s07.rpy:1021
 translate turkish e09s07_part_4_ea7dfe3c_1:
@@ -2785,3 +2767,28 @@ translate turkish strings:
     # game/code/e09/e09s07.rpy:1045
     old "You have finished playing Ending 09!"
     new "9. Sonu oynamayı bitirdiniz!"
+
+# game/code/e09/e09s07.rpy:1055
+translate turkish e09s07_sex_kb_cb_0b7d9083:
+
+    # kb "Ah it's all good man."
+    kb "Ah it's all good man."
+
+# game/code/e09/e09s07.rpy:1056
+translate turkish e09s07_sex_kb_cb_363e3682:
+
+    # kb "I'm sure Chloe and I can find some more fun around here."
+    kb "I'm sure Chloe and I can find some more fun around here."
+
+# game/code/e09/e09s07.rpy:1067
+translate turkish e09s07_sex_kb_cb_continue_c215581a:
+
+    # mc "How could I ever say no to you two?"
+    mc "How could I ever say no to you two?"
+
+translate turkish strings:
+
+    # game/code/e09/e09s07.rpy:1442
+    old "You have finished playing Ending #09!"
+    new "You have finished playing Ending #09!"
+

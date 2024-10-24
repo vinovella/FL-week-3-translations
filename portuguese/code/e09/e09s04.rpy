@@ -312,10 +312,10 @@ translate portuguese e09s04_a2803bc7:
     # "The Senator" "Put our investigator on it. I heard that the Congressman likes to gamble and fuck whores. Give it a day, and he won't be a problem anymore."
     "The Senator" ""
 
-# game/code/e09/e09s04.rpy:233
-translate portuguese e09s04_4c6121d3:
+# game/code/e09/e09s04.rpy:204
+translate portuguese e09s04_8cd3f720:
 
-    # "The Senator" "Send her tickets to the game. Two. One for her and one for the little fella'. She'll like that."
+    # "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
     "The Senator" ""
 
 # game/code/e09/e09s04.rpy:237

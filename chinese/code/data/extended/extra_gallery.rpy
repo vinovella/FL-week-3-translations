@@ -406,16 +406,16 @@ translate chinese strings:
     new "40. Do the Pulp Fiction Thing"
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Finish Ending 18"
-    new "Finish Ending 18"
+    old "Do pulp fiction thing (Ending 18)"
+    new "Do pulp fiction thing (Ending 18)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "41. Backdoor Cat Girl"
     new "41. Backdoor Cat Girl"
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Finish Ending 16"
-    new "Finish Ending 16"
+    old "Backdoor Cat Girl (Ending 16)"
+    new "Backdoor Cat Girl (Ending 16)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "42. Pee Bootcamp"
@@ -430,8 +430,8 @@ translate chinese strings:
     new "43. Choo-choo"
 
     # game/code/data/extended/extra_gallery.rpy:60
-    old "Finish Ending 15"
-    new "Finish Ending 15"
+    old "Choo-choo (Ending 5)"
+    new "Choo-choo (Ending 5)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "44. Londyn Twice"

@@ -357,3 +357,4 @@ translate turkish dlc_2_postcredits_92bd7057:
 
     # sy "And I'm happy you also got to finally launch your game!"
     sy "Ve ben de sonunda oyununuzu piyasaya sürdüğünüz için mutluyum!"
+

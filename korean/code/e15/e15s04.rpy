@@ -1498,3 +1498,27 @@ translate korean strings:
     old "Olivia's first day of training"
     new "Olivia's first day of training"
 
+# game/code/e15/e15s04.rpy:276
+translate korean replay_e15s04_d42bd72f:
+
+    # mc "Ready to get off the bench and into the game?"
+    mc "Ready to get off the bench and into the game?"
+
+# game/code/e15/e15s04.rpy:405
+translate korean replay_e15s04_a3833f65:
+
+    # be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'."
+    be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'."
+
+# game/code/e15/e15s04.rpy:406
+translate korean replay_e15s04_a81abfd2:
+
+    # be "It took a little bit, but I got over being a shy pretty fast!"
+    be "It took a little bit, but I got over being a shy pretty fast!"
+
+# game/code/e15/e15s04.rpy:633
+translate korean replay_e15s04_d088ab9d:
+
+    # mc "We're coming up on the final part of the lesson." id replay_e15s04_d088ab9d
+    mc "We're coming up on the final part of the lesson." id replay_e15s04_d088ab9d
+

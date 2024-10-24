@@ -1452,3 +1452,29 @@ translate korean strings:
     old "Skip male on male content with Pete."
     new "Skip male on male content with Pete."
 
+translate korean strings:
+
+    # game/code/hints.rpy:5
+    old "Lyssa will fuck you in the ass."
+    new "Lyssa will fuck you in the ass."
+
+    # game/code/hints.rpy:5
+    old "Lyssa will not fuck you in the ass."
+    new "Lyssa will not fuck you in the ass."
+
+    # game/code/hints.rpy:5
+    old "Watersports scene with Lyssa."
+    new "Watersports scene with Lyssa."
+
+    # game/code/hints.rpy:5
+    old "This will skip the watersports scene with Lyssa."
+    new "This will skip the watersports scene with Lyssa."
+
+    # game/code/hints.rpy:5
+    old "You and Allison fuck the Judge."
+    new "You and Allison fuck the Judge."
+
+    # game/code/hints.rpy:5
+    old "You don't fuck the Judge."
+    new "You don't fuck the Judge."
+

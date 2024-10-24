@@ -284,7 +284,7 @@ translate turkish e09s02_05500ff6:
 translate turkish e09s02_1358c426:
 
     # hr "You said 'you were going to be mad at {i}us.{/i} Who is 'us'?"
-    hr "Bize kızacağınızı söylemiştiniz.{/i} Kim 'biz'?"
+    hr "Bize kızacağınızı söylemiştiniz. Kim 'biz'?"
 
 # game/code/e09/e09s02.rpy:155
 translate turkish e09s02_a3575fd0:
@@ -673,3 +673,4 @@ translate turkish strings:
     # game/code/e09/e09s02.rpy:253
     old "I hope it buys me a little good will"
     new "Umarım bu bana biraz iyi niyet kazandırır."
+

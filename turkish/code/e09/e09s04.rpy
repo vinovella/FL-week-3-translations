@@ -310,12 +310,6 @@ translate turkish e09s04_a2803bc7:
     # "The Senator" "Put our investigator on it. I heard that the Congressman likes to gamble and fuck whores. Give it a day, and he won't be a problem anymore."
     "Senatör" "Müfettişimizi görevlendirin. Kongre üyesinin kumar oynamayı ve fahişelerle yatmayı sevdiğini duydum. Bir gün verin, artık sorun olmayacaktır."
 
-# game/code/e09/e09s04.rpy:190
-translate turkish e09s04_4c6121d3:
-
-    # "The Senator" "Send her tickets to the game. Two. One for her and one for the little fella'. She'll like that."
-    "Senatör" "Ona maç biletlerini gönder. İki tane. Biri onun için, biri de küçük dostumuz için. Bu hoşuna gidecektir."
-
 # game/code/e09/e09s04.rpy:193
 translate turkish e09s04_4a51a480:
 
@@ -668,7 +662,7 @@ translate turkish e09s04_3723ac23:
 translate turkish e09s04_c51e420a:
 
     # lo "Oh my God, Hana-"
-    Aman Tanrım, Hana-
+    "Aman Tanrım, Hana-"
 
 # game/code/e09/e09s04.rpy:351
 translate turkish e09s04_3a9e7958:
@@ -782,7 +776,7 @@ translate turkish e09s04_7f5ba0a1:
 translate turkish e09s04_9b18bfa7:
 
     # hr "But, they've already been authenticated and verified. The best he can hope for is a plea deal, which he won't take. And then it's off to trial."
-    Ama zaten doğrulandılar ve onaylandılar. Umabileceği en iyi şey, kabul etmeyeceği bir savunma anlaşması. Sonra da mahkemeye çıkar.
+    "Ama zaten doğrulandılar ve onaylandılar. Umabileceği en iyi şey, kabul etmeyeceği bir savunma anlaşması. Sonra da mahkemeye çıkar."
 
 # game/code/e09/e09s04.rpy:399
 translate turkish e09s04_56c4239f:
@@ -1844,7 +1838,7 @@ translate turkish e09s04_2d629d3d:
 translate turkish e09s04_92ddbb63:
 
     # lo "Maybe just a little bit.{w} Now come on, [mcname], I'm ready for the show!"
-    Belki birazcık. {w} Şimdi hadi, [mcname], gösteri için hazırım!
+    "Belki birazcık. {w} Şimdi hadi, [mcname], gösteri için hazırım!"
 
 # game/code/e09/e09s04.rpy:806
 translate turkish e09s04_49c39ad9:
@@ -1880,7 +1874,7 @@ translate turkish e09s04_30dd97af:
 translate turkish e09s04_dd0007ac:
 
     # hr "Yes, fucking {i}pound me!{/i} Harder, [mcname]! Fuck me {i}harder!{/i}"
-    hr "Evet, sik beni!{/i} Daha sert, [mcname]! Beni {i}daha sert sik!{/i}"
+    hr "Evet, sik beni! Daha sert, [mcname]! Beni {i}daha sert sik!{/i}"
 
 # game/code/e09/e09s04.rpy:820
 translate turkish e09s04_57c3bcfd:
@@ -2018,7 +2012,7 @@ translate turkish e09s04_d803abb8:
 translate turkish e09s04_714e2cdc:
 
     # mc "Are you kidding? I-"
-    Mc "Şaka mı yapıyorsun? I-"
+    mc "Şaka mı yapıyorsun? I-"
 
 # game/code/e09/e09s04.rpy:868
 translate turkish e09s04_a3c1803b:
@@ -2092,12 +2086,6 @@ translate turkish e09s04_03a7c0a9:
     # lo "Hahaha! That you did!"
     lo "Hahaha! İşte bunu yaptın!"
 
-# game/code/e09/e09s04.rpy:890
-translate turkish e09s04_0dc734b3:
-
-    # lo "I hope to see you around, [mcname] - and don't forget my invite!"
-    lo "Umarım görüşürüz, [mcname] - ve davetimi unutma!"
-
 # game/code/e09/e09s04.rpy:892
 translate turkish e09s04_164e0f5d:
 
@@ -2119,3 +2107,34 @@ translate turkish e09s04_8cd3f720:
 
     # "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
     "Senatör" "Ve arkadaşımıza maç için iki bilet göndermeyi unutmayın. Biri onun için, biri de küçük dostumuz için. Bu hoşuna gidecektir."
+
+# game/code/e09/e09s04.rpy:1001
+translate turkish e09s04_fe57bf4e:
+
+    # mc "I should go to the bank to deposit the money."
+    mc "I should go to the bank to deposit the money."
+
+# game/code/e09/e09s04.rpy:1005
+translate turkish e09s04_841d143e:
+
+    # mc "But I'll find you later to talk about your role in the company, Hana."
+    mc "But I'll find you later to talk about your role in the company, Hana."
+
+# game/code/e09/e09s04.rpy:1007
+translate turkish e09s04_e7a66200:
+
+    # hr "Sure, my day is pretty open."
+    hr "Sure, my day is pretty open."
+
+# game/code/e09/e09s04.rpy:1008
+translate turkish e09s04_ea9e5841:
+
+    # mc "Bye Londyn."
+    mc "Bye Londyn."
+
+# game/code/e09/e09s04.rpy:1010
+translate turkish e09s04_88ceb9d3:
+
+    # lo "Until next time, [mcname] - and don't forget my invite!"
+    lo "Until next time, [mcname] - and don't forget my invite!"
+

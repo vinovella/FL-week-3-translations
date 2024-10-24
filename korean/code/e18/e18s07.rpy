@@ -2416,3 +2416,27 @@ translate korean strings:
     old "You have finished playing Ending #18!"
     new "You have finished playing Ending #18!"
 
+# game/code/e18/e18s07.rpy:131
+translate korean e18s07_37a31b1b:
+
+    # pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
+    pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
+
+# game/code/e18/e18s07.rpy:885
+translate korean e18s07_in_the_pool_6ecdedb4:
+
+    # dw "[mcname]. Get me over here and fuck me like you fucked Samiya." id e18s07_in_the_pool_6ecdedb4
+    dw "[mcname]. Get me over here and fuck me like you fucked Samiya." id e18s07_in_the_pool_6ecdedb4
+
+# game/code/e18/e18s07.rpy:1032
+translate korean e18s07_mc_pb_c31d0392:
+
+    # sb "Seems like we might not be the only ones with tight asses here, D!" id e18s07_mc_pb_c31d0392
+    sb "Seems like we might not be the only ones with tight asses here, D!" id e18s07_mc_pb_c31d0392
+
+# game/code/e18/e18s07.rpy:1150
+translate korean e18s07_finale_ca5d1c0e:
+
+    # mc "Your pussy is so tight, Samiya... And wet..." id e18s07_finale_ca5d1c0e
+    mc "Your pussy is so tight, Samiya... And wet..." id e18s07_finale_ca5d1c0e
+

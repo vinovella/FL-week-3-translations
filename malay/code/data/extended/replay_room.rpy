@@ -410,3 +410,65 @@ translate malay strings:
     old "Ending 16: Jessie, Molly, Sage & Kristen"
     new "Ending 16: Jessie, Molly, Sage & Kristen"
 
+translate malay strings:
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 03: Lyssa & Stacy"
+    new "Ending 03: Lyssa & Stacy"
+
+    # game/code/data/extended/replay_room.rpy:94
+    old "Ending 03: Lyssa, Chiara & Stacy"
+    new "Ending 03: Lyssa, Chiara & Stacy"
+
+    # game/code/data/extended/replay_room.rpy:148
+    old "Ending 09: AmRose & Allison"
+    new "Ending 09: AmRose & Allison"
+
+    # game/code/data/extended/replay_room.rpy:148
+    old "Ending 09: Stacy, AmRose & Allison"
+    new "Ending 09: Stacy, AmRose & Allison"
+
+    # game/code/data/extended/replay_room.rpy:148
+    old "Ending 09: Hana & Londyn"
+    new "Ending 09: Hana & Londyn"
+
+    # game/code/data/extended/replay_room.rpy:148
+    old "Ending 09: Hana & Allison"
+    new "Ending 09: Hana & Allison"
+
+    # game/code/data/extended/replay_room.rpy:148
+    old "Ending 09: Party Girls"
+    new "Ending 09: Party Girls"
+
+    # game/code/data/extended/replay_room.rpy:193
+    old "Ending 15: Min & Stacy"
+    new "Ending 15: Min & Stacy"
+
+    # game/code/data/extended/replay_room.rpy:193
+    old "Ending 15: Watersports"
+    new "Ending 15: Watersports"
+
+    # game/code/data/extended/replay_room.rpy:193
+    old "Ending 15: Olivia, Bell & Annie"
+    new "Ending 15: Olivia, Bell & Annie"
+
+    # game/code/data/extended/replay_room.rpy:193
+    old "Ending 15: Lyssa, Stacy & Gemma"
+    new "Ending 15: Lyssa, Stacy & Gemma"
+
+    # game/code/data/extended/replay_room.rpy:193
+    old "Ending 15: Min, Stacy & Olivia"
+    new "Ending 15: Min, Stacy & Olivia"
+
+    # game/code/data/extended/replay_room.rpy:219
+    old "Ending 18: Samiya, Dahlia & Pete"
+    new "Ending 18: Samiya, Dahlia & Pete"
+
+    # game/code/data/extended/replay_room.rpy:219
+    old "Ending 18: Quartet, Londyn & Kendell"
+    new "Ending 18: Quartet, Londyn & Kendell"
+
+    # game/code/data/extended/replay_room.rpy:219
+    old "Ending 18: Samiya"
+    new "Ending 18: Samiya"
+
