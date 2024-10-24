@@ -236,47 +236,47 @@ translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:285
     old "Touch input supported"
-    new "Touch input supported"
+    new "Dokunmatik giriş destekleniyor"
 
     # game/code/screens/screens_fl.rpy:286
     old "Navigation"
-    new "Navigation"
+    new "Navigasyon"
 
     # game/code/screens/screens_fl.rpy:287
     old "Pause Menu"
-    new "Pause Menu"
+    new "Menüyü Duraklat"
 
     # game/code/screens/screens_fl.rpy:288
     old "Quick Save"
-    new "Quick Save"
+    new "Hızlı Kaydet"
 
     # game/code/screens/screens_fl.rpy:290
     old "Roll Back"
-    new "Roll Back"
+    new "Geri Al"
 
     # game/code/screens/screens_fl.rpy:293
     old "{b}A{/b} - Select"
-    new "{b}A{/b} - Select"
+    new "{b}A{/b} - Seçin"
 
     # game/code/screens/screens_fl.rpy:294
     old "{b}B{/b} - Go Back"
-    new "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Geri Dön"
 
     # game/code/screens/screens_fl.rpy:295
     old "{b}X{/b} - Skip"
-    new "{b}X{/b} - Skip"
+    new "{b}X{/b} - Atla"
 
     # game/code/screens/screens_fl.rpy:296
     old "{b}Y{/b} - Hide UI"
-    new "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Gizle UI"
 
     # game/code/screens/screens_fl.rpy:297
     old "Roll Forward"
-    new "Roll Forward"
+    new "İleri Sar"
 
     # game/code/screens/screens_fl.rpy:300
     old "You can find this layout in the {b}Help{/b} menu"
-    new "You can find this layout in the {b}Help{/b} menu"
+    new "Bu düzeni {b} Yardım {/b} menüsünde bulabilirsiniz"
 
     # game/code/screens/screens_fl.rpy:302
     old "CLOSE"
