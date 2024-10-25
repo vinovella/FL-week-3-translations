@@ -280,9 +280,9 @@ translate turkish strings:
 
     # game/code/screens/screens_fl.rpy:302
     old "CLOSE"
-    new "CLOSE"
+    new "BİTTİ"
 
     # game/code/screens/screens_fl.rpy:1394
     old "{u}Get Taboo University Book 1 on Steam{/u}"
-    new "{u}Get Taboo University Book 1 on Steam{/u}"
+    new "{u}Tabu Üniversitesi 1. Kitabı Steam'den Alın{/u}"
 
