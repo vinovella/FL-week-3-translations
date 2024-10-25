@@ -1730,11 +1730,11 @@ translate turkish strings:
 translate turkish e15s05_after_menu_1387c466:
 
     # mh "Like I said, [mcname]. I showed her a lot."
-    mh "Like I said, [mcname]. I showed her a lot."
+    mh "Dediğim gibi, [mcname]. Ona çok şey gösterdim."
 
 # game/code/e15/e15s05.rpy:651
 translate turkish e15s05_after_menu_7a1b0ad4:
 
     # sy "This is going to be so fun!"
-    sy "This is going to be so fun!"
+    sy "Bu çok eğlenceli olacak!"
 
