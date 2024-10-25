@@ -1370,5 +1370,5 @@ translate portuguese strings:
 translate portuguese e18s05_sb_sex_e35dff6a:
 
     # sb "You can take your chances."
-    sb ""
+    sb "Você arrisca se quiser."
 
