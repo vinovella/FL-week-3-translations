@@ -530,13 +530,13 @@ translate turkish e03s06_de432360:
 translate turkish e03s06_badd4ae3:
 
     # ca "Gooooodessss I'm cummmmmmming!!!!!!!"
-    ca "Gooooodessss I'm cummmmmmming!!!!!!!"
+    ca "Tanrımmmmm Boşalıyorummmmm!!!!!!!"
 
 # game/code/e03/e03s06.rpy:233
 translate turkish e03s06_0b173d7d:
 
     # ca "YessssohGodyessskeepgoingkeepgoing!!! FuuuUUUUUUUCCCCCK!"
-    ca "YessssohGodyessskeepgoingkeepgoing!!! FuuuUUUUUUCCCCCK!"
+    ca "EvvveeettTTAnrımmmmDevammmETTDevammmeETTttt!!! SiiiikkktİRRRRRR!"
 
 # game/code/e03/e03s06.rpy:238
 translate turkish e03s06_ebe8ca8c:
@@ -686,7 +686,7 @@ translate turkish e03s06_watersports_6d7b73f1:
 translate turkish e03s06_watersports_4882167f:
 
     # ca "Kinky. I dig it."
-    ca "Kinky. I dig it."
+    ca "Tuhaf. Anladım."
 
 # game/code/e03/e03s06.rpy:315
 translate turkish e03s06_watersports_5bfe12b5:
@@ -740,7 +740,7 @@ translate turkish e03s06_watersports_a130f7ff:
 translate turkish e03s06_watersports_698cd2b0:
 
     # mc "Oh fuck yeah it does!"
-    mc "Oh fuck yeah it does!"
+    mc "Oh siktir evet öyle!"
 
 # game/code/e03/e03s06.rpy:350
 translate turkish e03s06_watersports_7a9d3b91:
@@ -830,7 +830,7 @@ translate turkish e03s06_watersports_83fc5346:
 translate turkish e03s06_watersports_31762599:
 
     # sy "Mmmhmmm, she's so fucking cute!"
-    sy "Mmmhmmm, she's so fucking cute!"
+    sy "Mmmhmmm, O çok tatlı.!"
 
 # game/code/e03/e03s06.rpy:393
 translate turkish e03s06_watersports_4ece1325:
@@ -866,7 +866,7 @@ translate turkish e03s06_watersports_dbf0bba8:
 translate turkish e03s06_watersports_a04edb7f:
 
     # ca "Oh goooooddddeeeessssss!"
-    ca "Oh goooooddddeeeessssss!"
+    ca "Oh tanrırıırırmmmmm!"
 
 # game/code/e03/e03s06.rpy:406
 translate turkish e03s06_watersports_8b9ba7d9:
@@ -998,7 +998,7 @@ translate turkish e03s06_continue_470c47ab:
 translate turkish e03s06_continue_e1b8e799:
 
     # sy "Patience is not my strong suit!"
-    sy "Patience is not my strong suit!"
+    sy "Sabır benim güçlü yanım değil.!"
 
 # game/code/e03/e03s06.rpy:479
 translate turkish e03s06_continue_bd88d5e7:
@@ -1538,7 +1538,7 @@ translate turkish e03s06_continue_9c7024ca:
 translate turkish e03s06_continue_262fbb7f:
 
     # sy "*mumbles* Two coffees, please."
-    sy "*mumbles* Two coffees, please."
+    sy "*mırıldanıyor* İki kahve, lütfen."
 
 # game/code/e03/e03s06.rpy:708
 translate turkish e03s06_continue_319b8c0f:
