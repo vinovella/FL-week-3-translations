@@ -1508,17 +1508,17 @@ translate turkish strings:
 translate turkish replay_e15s04_d42bd72f:
 
     # mc "Ready to get off the bench and into the game?"
-    mc "Ready to get off the bench and into the game?"
+    mc "Yedek kulübesinden çıkıp oyuna girmeye hazır?"
 
 # game/code/e15/e15s04.rpy:403
 translate turkish replay_e15s04_a3833f65:
 
     # be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'."
-    be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'."
+    be "İlk başladığımda yaptığım şey gözlerimi kapatıp 'dizlerimi bük, kalçalarımı oynat, şelaleleri düşün' diye tekrarlamaktı."
 
 # game/code/e15/e15s04.rpy:404
 translate turkish replay_e15s04_a81abfd2:
 
     # be "It took a little bit, but I got over being a shy pretty fast!"
-    be "It took a little bit, but I got over being a shy pretty fast!"
+    be "Biraz zaman aldı ama utangaçlığımı çok çabuk atlattım!"
 
