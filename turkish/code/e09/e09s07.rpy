@@ -2772,23 +2772,23 @@ translate turkish strings:
 translate turkish e09s07_sex_kb_cb_0b7d9083:
 
     # kb "Ah it's all good man."
-    kb "Ah it's all good man."
+    kb "Her şey yolunda dostum."
 
 # game/code/e09/e09s07.rpy:1056
 translate turkish e09s07_sex_kb_cb_363e3682:
 
     # kb "I'm sure Chloe and I can find some more fun around here."
-    kb "I'm sure Chloe and I can find some more fun around here."
+    kb "Eminim Chloe ve ben buralarda daha eğlenceli şeyler bulabiliriz."
 
 # game/code/e09/e09s07.rpy:1067
 translate turkish e09s07_sex_kb_cb_continue_c215581a:
 
     # mc "How could I ever say no to you two?"
-    mc "How could I ever say no to you two?"
+    mc "İkinize nasıl hayır diyebilirim ki?"
 
 translate turkish strings:
 
     # game/code/e09/e09s07.rpy:1442
     old "You have finished playing Ending #09!"
-    new "You have finished playing Ending #09!"
+    new "9. Son'u oynamayı bitirdiniz!"
 
