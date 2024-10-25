@@ -2112,29 +2112,29 @@ translate turkish e09s04_8cd3f720:
 translate turkish e09s04_fe57bf4e:
 
     # mc "I should go to the bank to deposit the money."
-    mc "I should go to the bank to deposit the money."
+    mc "Parayı yatırmak için bankaya gitmeliyim."
 
 # game/code/e09/e09s04.rpy:1005
 translate turkish e09s04_841d143e:
 
     # mc "But I'll find you later to talk about your role in the company, Hana."
-    mc "But I'll find you later to talk about your role in the company, Hana."
+    mc "Ama şirketteki rolün hakkında konuşmak için seni daha sonra bulacağım, Hana."
 
 # game/code/e09/e09s04.rpy:1007
 translate turkish e09s04_e7a66200:
 
     # hr "Sure, my day is pretty open."
-    hr "Sure, my day is pretty open."
+    hr "Elbette, günüm oldukça açık."
 
 # game/code/e09/e09s04.rpy:1008
 translate turkish e09s04_ea9e5841:
 
     # mc "Bye Londyn."
-    mc "Bye Londyn."
+    mc "Güle Güle Londyn."
 
 # game/code/e09/e09s04.rpy:1010
 translate turkish e09s04_88ceb9d3:
 
     # lo "Until next time, [mcname] - and don't forget my invite!"
-    lo "Until next time, [mcname] - and don't forget my invite!"
+    lo "Bir dahaki sefere kadar, [mcname] - ve davetiyemi unutma!"
 
