@@ -368,11 +368,11 @@ translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish Ending 4 and Ending 7"
-    new "Finish Ending 4 and Ending 7"
+    new "Son 4 ve Son 7'yi bitirin"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "36. Don't threaten me with a good time"
-    new "36. Don't threaten me with a good time"
+    new "36. Beni iyi vakit geçirmekle tehdit etme"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Finish all 6 Endings from DLC-2"
@@ -380,51 +380,51 @@ translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "37. I saw, I came, I conquered"
-    new "37. I saw, I came, I conquered"
+    new "37. Gördüm, geldim, fethettim"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Have all Characters in last orgy in Ending 9"
-    new "Have all Characters in last orgy in Ending 9"
+    new "Son 9'da tüm Karakterlerin son seks partisine katılmasını sağlayın"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "38. Golden Pass"
-    new "38. Golden Pass"
+    new "38. Altın Geçiş"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Have all Characters in Ending 15"
-    new "Have all Characters in Ending 15"
+    new "Tüm Karakterlerin Son 15'te olması"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "39. She belongs in a museum"
-    new "39. She belongs in a museum"
+    new "39. O bir müzeye ait"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Find golden Lyssa (Ending 3)"
-    new "Find golden Lyssa (Ending 3)"
+    new "Altın Lyssa'yı bulun (Son 3)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "40. Do the Pulp Fiction Thing"
-    new "40. Do the Pulp Fiction Thing"
+    new "40. Pulp Fiction Şeyini Yap"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Do the pulp fiction thing (Ending 18)"
-    new "Do the pulp fiction thing (Ending 18)"
+    new "Pulp fiction şeyini yap (18. Son)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "41. Backdoor Cat Girl"
-    new "41. Backdoor Cat Girl"
+    new "41. Arka Kapı Kedi Kız"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Backdoor Cat Girl (Ending 16)"
-    new "Backdoor Cat Girl (Ending 16)"
+    new "Arka Kapı Kedi Kız (16. Son)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "42. Pee Bootcamp"
-    new "42. Pee Bootcamp"
+    new "42. Pee Bot Kampı"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Begin Olivia's Training"
-    new "Begin Olivia's Training"
+    new "Olivia'nın Eğitimine Başlayın"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "43. Choo-choo"
@@ -432,57 +432,57 @@ translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Choo-choo (Ending 5)"
-    new "Choo-choo (Ending 5)"
+    new "Choo-choo (5. Son)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "44. Londyn Twice"
-    new "44. Londyn Twice"
+    new "44. Londyn İki Kez"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Meet Londyn in Ending 9 and Ending 18"
-    new "Meet Londyn in Ending 9 and Ending 18"
+    new "Son 9 ve Son 18'de Londyn ile tanışın"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "45. I've seen all the possible outcomes"
-    new "45. I've seen all the possible outcomes"
+    new "45. Tüm olası sonuçları gördüm."
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Finish all 18 Endings"
-    new "Finish all 18 Endings"
+    new "18 Sonun tamamını bitir"
 
     # game/code/data/extended/extra_gallery.rpy:802
     old "SPIT ON THAT THANG!"
-    new "SPIT ON THAT THANG!"
+    new "TÜKÜR O ŞEYIN ÜSTÜNE!"
 
     # game/code/data/extended/extra_gallery.rpy:823
     old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
-    new "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
+    new "HERKESI YENI SÜSLÜ SPA'NIZA GETIRMEYI BAŞARDIĞINDA"
 
     # game/code/data/extended/extra_gallery.rpy:845
     old "Fucking\na girl"
-    new "Fucking\na girl"
+    new "Sikik\na kız"
 
     # game/code/data/extended/extra_gallery.rpy:847
     old "Fucking\na catgirl"
-    new "Fucking\na catgirl"
+    new "Sikik\na kedikız"
 
     # game/code/data/extended/extra_gallery.rpy:861
     old "Hard to\nswallow\npills"
-    new "Hard to\nswallow\npills"
+    new "Yutması zor \nhaplar\n"
 
     # game/code/data/extended/extra_gallery.rpy:863
     old "He will never\nrun out of pee"
-    new "He will never\nrun out of pee"
+    new "Çişi asla\nbitmeyecek."
 
     # game/code/data/extended/extra_gallery.rpy:901
     old "NEXT STOP"
-    new "NEXT STOP"
+    new "SONRAKİ DURAK"
 
     # game/code/data/extended/extra_gallery.rpy:903
     old "PENETRATION STATION"
-    new "PENETRATION STATION"
+    new "PENETRASYON ISTASYONU"
 
     # game/code/data/extended/extra_gallery.rpy:917
     old "They don't know that\nI appear in two endings"
-    new "They don't know that\nI appear in two endings"
+    new "Bunu bilmiyorlar\nİki sonda görünüyorum"
 
