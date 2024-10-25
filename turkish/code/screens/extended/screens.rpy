@@ -84,5 +84,5 @@ translate turkish strings:
 
     # game/code/screens/extended/screens.rpy:227
     old "Buy Taboo University on Steam"
-    new "Buy Taboo University on Steam"
+    new "Taboo University ürününü Steam'den satın alın"
 
