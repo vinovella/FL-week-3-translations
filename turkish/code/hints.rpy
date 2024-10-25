@@ -1460,25 +1460,25 @@ translate turkish strings:
 
     # game/code/hints.rpy:5
     old "Lyssa will fuck you in the ass."
-    new "Lyssa will fuck you in the ass."
+    new "Lyssa seni götünden sikecek."
 
     # game/code/hints.rpy:5
     old "Lyssa will not fuck you in the ass."
-    new "Lyssa will not fuck you in the ass."
+    new "Lyssa seni götünden sikmeyecek."
 
     # game/code/hints.rpy:5
     old "Watersports scene with Lyssa."
-    new "Watersports scene with Lyssa."
+    new "Lyssa ile su sporları sahnesi."
 
     # game/code/hints.rpy:5
     old "This will skip the watersports scene with Lyssa."
-    new "This will skip the watersports scene with Lyssa."
+    new "Bu, Lyssa ile su sporları sahnesini atlayacak."
 
     # game/code/hints.rpy:5
     old "You and Allison fuck the Judge."
-    new "You and Allison fuck the Judge."
+    new "Sen ve Allison Yargıç'ı sikin."
 
     # game/code/hints.rpy:5
     old "You don't fuck the Judge."
-    new "You don't fuck the Judge."
+    new Yargıcı beceremezsin."
 
