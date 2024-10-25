@@ -1034,7 +1034,7 @@ translate turkish e09s06_kb_cb_a9491a1b:
 translate turkish e09s06_kb_cb_1b59afce:
 
     # cb "Just hoping to spend some quality time with you, is all."
-    cb "Just hoping to spend some quality time with you, is all."
+    cb "Sadece seninle biraz kaliteli zaman geçirmeyi umuyorum, hepsi bu."
 
 # game/code/e09/e09s06.rpy:344
 translate turkish e09s06_kb_cb_a9fc4718:
@@ -2164,5 +2164,5 @@ translate turkish strings:
 translate turkish e09s06_part_3_f20e6459:
 
     # sy "If we raise enough money to reach our goal, then everyone who donated will get a chance to come up here and have some fun with [mcname]!"
-    sy "If we raise enough money to reach our goal, then everyone who donated will get a chance to come up here and have some fun with [mcname]!"
+    sy "Hedefimize ulaşmak için yeterli parayı toplarsak, bağışta bulunan herkes buraya gelip [mcname] ile biraz eğlenme şansına sahip olacak!"
 
