@@ -692,7 +692,7 @@ translate turkish e03s01_4e54c170:
 translate turkish e03s01_1c46cc53:
 
     # sy "You're spoiling me so much-huaah."
-    sy "You're spoiling me so much-huaah."
+    sy "Beni çok şımartıyorsun, huaah."
 
 # game/code/e03/e03s01.rpy:574
 translate turkish e03s01_7a718a92:
