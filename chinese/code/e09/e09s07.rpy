@@ -2,1105 +2,1105 @@
 translate chinese e09s07_fffb9193:
 
     # lo "Our bids."
-    lo "Our bids."
+    lo "是我们出的价。"
 
 # game/code/e09/e09s07.rpy:103
 translate chinese e09s07_266f2fa4:
 
     # sy "Thank you! He's all yours, ladies."
-    sy "Thank you! He's all yours, ladies."
+    sy "谢谢！他是你们的了，女士们。"
 
 # game/code/e09/e09s07.rpy:105
 translate chinese e09s07_fb8822c9:
 
     # lo "Mmmmm, good."
-    lo "Mmmmm, good."
+    lo "嗯嗯嗯嗯，很好。"
 
 # game/code/e09/e09s07.rpy:107
 translate chinese e09s07_8332adac:
 
     # lo "Mmmmmm, you look good and ready for us."
-    lo "Mmmmmm, you look good and ready for us."
+    lo "嗯嗯，你看起来真不错，而且已经为我们准备好了。"
 
 # game/code/e09/e09s07.rpy:108
 translate chinese e09s07_3cec4d9b:
 
     # mc "That I am."
-    mc "That I am."
+    mc "没错。"
 
 # game/code/e09/e09s07.rpy:110
 translate chinese e09s07_d7d90976:
 
     # lo "Well, let's give people a show then, shall we?"
-    lo "Well, let's give people a show then, shall we?"
+    lo "好了，让我们给大家表演一下，好吗？"
 
 # game/code/e09/e09s07.rpy:111
 translate chinese e09s07_a63be6a1:
 
     # lo "Who should go first?"
-    lo "Who should go first?"
+    lo "谁先来？"
 
 # game/code/e09/e09s07.rpy:113
 translate chinese e09s07_6b6a4821:
 
     # hr "You bid first, so why don't you start us off?"
-    hr "You bid first, so why don't you start us off?"
+    hr "你先出价，不如你先来吧？"
 
 # game/code/e09/e09s07.rpy:114
 translate chinese e09s07_ac56af14:
 
     # lo "So I guess I'll go first then. How do you want me, [mcname]?"
-    lo "So I guess I'll go first then. How do you want me, [mcname]?"
+    lo "那就我先来吧。你想让我怎么做，[mcname]？"
 
 # game/code/e09/e09s07.rpy:116
 translate chinese e09s07_f94f18af:
 
     # mc "I recall that you really like getting your ass played with."
-    mc "I recall that you really like getting your ass played with."
+    mc "我记得你很喜欢被人玩弄屁股。"
 
 # game/code/e09/e09s07.rpy:117
 translate chinese e09s07_0fa424f6:
 
     # lo "Mmmhmmmm, I do."
-    lo "Mmmhmmmm, I do."
+    lo "嗯嗯嗯，我是很喜欢。"
 
 # game/code/e09/e09s07.rpy:118
 translate chinese e09s07_e737c461:
 
     # mc "And I didn't get a chance to fuck your ass."
-    mc "And I didn't get a chance to fuck your ass."
+    mc "我还没有机会操你的屁股呢。"
 
 # game/code/e09/e09s07.rpy:120
 translate chinese e09s07_9abd27bd:
 
     # lo "Well that's something we can fix right now!"
-    lo "Well that's something we can fix right now!"
+    lo "我们现在就可以解决这个问题！"
 
 # game/code/e09/e09s07.rpy:122
 translate chinese e09s07_3c12fcaa:
 
     # lo "Oh, this is going to be fantastic!"
-    lo "Oh, this is going to be fantastic!"
+    lo "哦，这一定会很棒！"
 
 # game/code/e09/e09s07.rpy:123
 translate chinese e09s07_6505eb59:
 
     # mc "Fuck, yes it is!"
-    mc "Fuck, yes it is!"
+    mc "操，没错！"
 
 # game/code/e09/e09s07.rpy:131
 translate chinese e09s07_2fe47fcb:
 
     # lo "Oh my Goooooood, Hana!"
-    lo "Oh my Goooooood, Hana!"
+    lo "哦，我的天啊啊，哈娜！"
 
 # game/code/e09/e09s07.rpy:134
 translate chinese e09s07_0ef77a4c:
 
     # lo "You fucking naughty, {i}naughty{/i} girl! Fuuuuuuuck!"
-    lo "You fucking naughty, {i}naughty{/i} girl! Fuuuuuuuck!"
+    lo "你这个{i}调皮、捣蛋{/i}的女孩！操操操！"
 
 # game/code/e09/e09s07.rpy:135
 translate chinese e09s07_8cf81567:
 
     # mc "Shit, you're ass is tiiiiiight!"
-    mc "Shit, you're ass is tiiiiiight!"
+    mc "妈的，你的屁股紧死我了！"
 
 # game/code/e09/e09s07.rpy:138
 translate chinese e09s07_5181283c:
 
     # lo "Fuck my tight little asshole like the dirty slut I am, [mcname]!"
-    lo "Fuck my tight little asshole like the dirty slut I am, [mcname]!"
+    lo "像操淫荡的荡妇一样操我的小屁眼，[mcname]！"
 
 # game/code/e09/e09s07.rpy:139
 translate chinese e09s07_315f5a90:
 
     # mc "Oh, I fuuucking will!!!"
-    mc "Oh, I fuuucking will!!!"
+    mc "哦，我他妈的还用你说!!!"
 
 # game/code/e09/e09s07.rpy:142
 translate chinese e09s07_5598784e:
 
     # lo "Oh, Haanaaaaa, fucking lick my dirty cunt! Yes, yes, yesssss!"
-    lo "Oh, Haanaaaaa, fucking lick my dirty cunt! Yes, yes, yesssss!"
+    lo "哦，哈娜啊啊啊，操她在舔我的小穴！哦，哦，好爽啊啊！"
 
 # game/code/e09/e09s07.rpy:143
 translate chinese e09s07_4dae9623:
 
     # mc "Your ass is squeezing me so tight!"
-    mc "Your ass is squeezing me so tight!"
+    mc "你的屁股把我挤得好紧！"
 
 # game/code/e09/e09s07.rpy:146
 translate chinese e09s07_136aa3ac:
 
     # lo "It's because I'm a dirty little whooooore! Whoooo likes to get her ass fuuuuuucked!"
-    lo "It's because I'm a dirty little whooooore! Whoooo likes to get her ass fuuuuuucked!"
+    lo "因为我是个淫荡的啊啊啊小荡妇！荡妇就喜欢被人干屁眼！"
 
 # game/code/e09/e09s07.rpy:147
 translate chinese e09s07_205746a1:
 
     # lo "I already feeeeel so clooooose!"
-    lo "I already feeeeel so clooooose!"
+    lo "我已经感觉好舒服了！"
 
 # game/code/e09/e09s07.rpy:150
 translate chinese e09s07_65f78f1d:
 
     # lo "Please, fuck me asssss harder! Make me cum from my ass, [mcname]!"
-    lo "Please, fuck me asssss harder! Make me cum from my ass, [mcname]!"
+    lo "求求你，用力操我的屁股！让我从屁股里射出来，[mcname]！"
 
 # game/code/e09/e09s07.rpy:151
 translate chinese e09s07_1de41fd7:
 
     # mc "Nggggggggh! Fuuuuuuck!"
-    mc "Nggggggggh! Fuuuuuuck!"
+    mc "嗯啊啊啊！操死你！"
 
 # game/code/e09/e09s07.rpy:154
 translate chinese e09s07_80bc0d24:
 
     # lo "Yes, just like that! Oh Gooooood!"
-    lo "Yes, just like that! Oh Gooooood!"
+    lo "是的，就像那样！哦哦哦，好舒服！"
 
 # game/code/e09/e09s07.rpy:155
 translate chinese e09s07_5f1342f2:
 
     # lo "H-Hana - don't stop, don't stoooooop!"
-    lo "H-Hana - don't stop, don't stoooooop!"
+    lo "哈--哈娜--别停，继续舔我啊啊啊！"
 
 # game/code/e09/e09s07.rpy:158
 translate chinese e09s07_a56af47c:
 
     # lo "Oh myyyyyy Goooooood, I'm going to-"
-    lo "Oh myyyyyy Goooooood, I'm going to-"
+    lo "哦，我的天啊啊啊啊，我要..."
 
 # game/code/e09/e09s07.rpy:159
 translate chinese e09s07_b5ca6170:
 
     # mc "That's right, you dirty ass slut! Cum all over my cock!"
-    mc "That's right, you dirty ass slut! Cum all over my cock!"
+    mc "没错，你这个下贱淫荡的荡妇！喷我鸡巴上！"
 
 # game/code/e09/e09s07.rpy:163
 translate chinese e09s07_44ec097c:
 
     # lo "Ohfuckohfuckohfuck!!!"
-    lo "Ohfuckohfuckohfuck!!!"
+    lo "哦，我操，我操，我操!!!"
 
 # game/code/e09/e09s07.rpy:165
 translate chinese e09s07_70d2c1e0:
 
     # lo "I'm cuuuuuuummmmiiiinnnnnggggg!!!"
-    lo "I'm cuuuuuuummmmiiiinnnnnggggg!!!"
+    lo "我要来了啊啊啊啊!!!"
 
 # game/code/e09/e09s07.rpy:166
 translate chinese e09s07_b761158b:
 
     # lo "Fuckfuckfuckfuckfuckfuckfuckfuck!"
-    lo "Fuckfuckfuckfuckfuckfuckfuckfuck!"
+    lo "我操我操我操我操！"
 
 # game/code/e09/e09s07.rpy:168
 translate chinese e09s07_ef7eb900:
 
     # lo "Oh Gooooood... that was... magnificent."
-    lo "Oh Gooooood... that was... magnificent."
+    lo "哈啊啊啊...太...太棒了。"
 
 # game/code/e09/e09s07.rpy:170
 translate chinese e09s07_19cd6b63:
 
     # hr "Glad you enjoyed it. I hope you left some of that for me, [mcname]."
-    hr "Glad you enjoyed it. I hope you left some of that for me, [mcname]."
+    hr "很高兴你喜欢。我希望你能给我留点，[mcname]。"
 
 # game/code/e09/e09s07.rpy:171
 translate chinese e09s07_ad291b80:
 
     # mc "Oh, you know I did."
-    mc "Oh, you know I did."
+    mc "哦，你知道我肯定会的。"
 
 # game/code/e09/e09s07.rpy:173
 translate chinese e09s07_1dbff283:
 
     # hr "Then come down here and show me what you do to dirty little sluts."
-    hr "Then come down here and show me what you do to dirty little sluts."
+    hr "那就下来，让我看看你是怎么对肮脏的小荡妇的。"
 
 # game/code/e09/e09s07.rpy:175
 translate chinese e09s07_1337de6c:
 
     # mc "Oh, I don't think you're ready for that."
-    mc "Oh, I don't think you're ready for that."
+    mc "哦，我想你还没准备好。"
 
 # game/code/e09/e09s07.rpy:176
 translate chinese e09s07_738ff9ec:
 
     # hr "Those are some big words, [mcname]."
-    hr "Those are some big words, [mcname]."
+    hr "话可别说这么大，[mcname]。"
 
 # game/code/e09/e09s07.rpy:178
 translate chinese e09s07_4f7ea4bd:
 
     # lo "That's okay, I can give him a helping hand."
-    lo "That's okay, I can give him a helping hand."
+    lo "没关系，我可以帮他一把。"
 
 # game/code/e09/e09s07.rpy:179
 translate chinese e09s07_4ac567f3:
 
     # hr "Londyn-"
-    hr "Londyn-"
+    hr "朗迪恩--"
 
 # game/code/e09/e09s07.rpy:181
 translate chinese e09s07_93f76318:
 
     # lo "You helped me cum, I'm only returning the favor."
-    lo "You helped me cum, I'm only returning the favor."
+    lo "你帮我高潮了，我只是还你人情。"
 
 # game/code/e09/e09s07.rpy:182
 translate chinese e09s07_aecbd9ba:
 
     # lo "I know what you like, you worthless piece of fuckable ass."
-    lo "I know what you like, you worthless piece of fuckable ass."
+    lo "我知道你喜欢什么，瞧你这个不争气的屁股。"
 
 # game/code/e09/e09s07.rpy:183
 translate chinese e09s07_8372f82c:
 
     # lo "What are you waiting for, [mcname]? Fuck this little slut like the useless fleshlight she is."
-    lo "What are you waiting for, [mcname]? Fuck this little slut like the useless fleshlight she is."
+    lo "你还在等什么，[mcname]？把这个小荡妇当没用的玩具一样操了吧。"
 
 # game/code/e09/e09s07.rpy:185
 translate chinese e09s07_16e15fac:
 
     # mct "Man, these two are fucking freaky."
-    mct "Man, these two are fucking freaky."
+    mct "我去，这俩人真他妈变态。"
 
 # game/code/e09/e09s07.rpy:191
 translate chinese e09s07_68754276:
 
     # hr "Yeeesssss, fuck me [mcname], fuck me as haaard as you can!"
-    hr "Yeeesssss, fuck me [mcname], fuck me as haaard as you can!"
+    hr "是啊，操我吧[mcname]，使劲操我吧！"
 
 # game/code/e09/e09s07.rpy:192
 translate chinese e09s07_a7761172:
 
     # mc "Nnnnggggggh!!!"
-    mc "Nnnnggggggh!!!"
+    mc "唔唔唔!!!"
 
 # game/code/e09/e09s07.rpy:194
 translate chinese e09s07_9161c00a:
 
     # hr "Yesss, come on - fuck my little slit with your big cock! Treat me like some whore off the street!!!"
-    hr "Yesss, come on - fuck my little slit with your big cock! Treat me like some whore off the street!!!"
+    hr "是的，来吧--用你的大鸡巴操我的小肉缝！把我当成街上的妓女!!!"
 
 # game/code/e09/e09s07.rpy:196
 translate chinese e09s07_e1e8b2c8:
 
     # lo "You like being a little piece of fuck meat, don't you? You freaky little slut!"
-    lo "You like being a little piece of fuck meat, don't you? You freaky little slut!"
+    lo "你喜欢当成肉一样被操，是吗？你这个古怪的小荡妇！"
 
 # game/code/e09/e09s07.rpy:197
 translate chinese e09s07_b1178e67:
 
     # mc "Nph - nphh!! Yeah - you worthless gutter trash!"
-    mc "Nph - nphh!! Yeah - you worthless gutter trash!"
+    mc "嗯--唔嗯嗯嗯！你这个没用的垃圾！"
 
 # game/code/e09/e09s07.rpy:198
 translate chinese e09s07_f44f18dd:
 
     # hr "Fuuuuccc... I can't... I..."
-    hr "Fuuuuccc... I can't... I..."
+    hr "次奥...我不能...我..."
 
 # game/code/e09/e09s07.rpy:201
 translate chinese e09s07_d709b038:
 
     # lo "Getting hard to breath, you useless slut? You think you deserve the air you're wasting?"
-    lo "Getting hard to breath, you useless slut? You think you deserve the air you're wasting?"
+    lo "你这没用的荡妇，呼吸困难了吗？你以为你值得浪费这些空气吗？"
 
 # game/code/e09/e09s07.rpy:202
 translate chinese e09s07_244f8141:
 
     # hr "N-nooo..."
-    hr "N-nooo..."
+    hr "不--值得..."
 
 # game/code/e09/e09s07.rpy:203
 translate chinese e09s07_1d2906d3:
 
     # lo "It's a good girl who knows her place."
-    lo "It's a good girl who knows her place."
+    lo "好女孩知道自己的位置。"
 
 # game/code/e09/e09s07.rpy:206
 translate chinese e09s07_d69018e3:
 
     # lo "You see that, [mcname]? She's a good little slut for your cock, aren't you, Hana?"
-    lo "You see that, [mcname]? She's a good little slut for your cock, aren't you, Hana?"
+    lo "你看到了吗，[mcname]？她这个听话的小荡妇很适配你的鸡巴，不是吗，哈娜？"
 
 # game/code/e09/e09s07.rpy:207
 translate chinese e09s07_c87ae973:
 
     # hr "Y-yesss... I'm a good...{w} little...{w} {i}slut...{/i}"
-    hr "Y-yesss... I'm a good...{w} little...{w} {i}slut...{/i}"
+    hr "是--是的...我是个好...{w}小...{w}{i}荡妇...{/i}"
 
 # game/code/e09/e09s07.rpy:208
 translate chinese e09s07_0a4d3533:
 
     # mc "Oh fuck, oh fuuuuuck!"
-    mc "Oh fuck, oh fuuuuuck!"
+    mc "噢噢噢，我操！"
 
 # game/code/e09/e09s07.rpy:211
 translate chinese e09s07_b741f62b:
 
     # mct "I can't cum yet! There are so many more women to please! Shit!"
-    mct "I can't cum yet! There are so many more women to please! Shit!"
+    mct "我还不能射！还有那么多女人要取悦呢！妈的！"
 
 # game/code/e09/e09s07.rpy:212
 translate chinese e09s07_73618a8e:
 
     # mct "Why are these two so fucking hot!?!"
-    mct "Why are these two so fucking hot!?!"
+    mct "这两个怎么这么要命!?!"
 
 # game/code/e09/e09s07.rpy:213
 translate chinese e09s07_ebec6aa4:
 
     # lo "Look at her, [mcname], your own personal cock sleeve. A totally useless woman, whose only real purpose is to be your cum dumpster."
-    lo "Look at her, [mcname], your own personal cock sleeve. A totally useless woman, whose only real purpose is to be your cum dumpster."
+    lo "看看她，[mcname]，你的私人鸡鸡套。一个完全没用的女人，她唯一的真正目的就是当你的精液垃圾箱。"
 
 # game/code/e09/e09s07.rpy:216
 translate chinese e09s07_80ae63f1:
 
     # hr "I'm... I'm..."
-    hr "I'm... I'm..."
+    hr "我...我..."
 
 # game/code/e09/e09s07.rpy:217
 translate chinese e09s07_1e6d58f0:
 
     # lo "You hear that? Your cock sleeve can talk! And I think she's going to cum."
-    lo "You hear that? Your cock sleeve can talk! And I think she's going to cum."
+    lo "听到了吗？你的鸡鸡套会说话！我觉得她要射了。"
 
 # game/code/e09/e09s07.rpy:220
 translate chinese e09s07_1290253a:
 
     # hr "Closssse... clooooose...!"
-    hr "Closssse... clooooose...!"
+    hr "来...了...来了啊啊啊...！"
 
 # game/code/e09/e09s07.rpy:221
 translate chinese e09s07_d7e13951:
 
     # lo "Is she allowed to orgasm, [mcname]? Can she cum all over your magnificent cock?"
-    lo "Is she allowed to orgasm, [mcname]? Can she cum all over your magnificent cock?"
+    lo "她可以高潮吗，[mcname]？她能把淫液喷到你伟大的鸡巴上吗？"
 
 # game/code/e09/e09s07.rpy:224
 translate chinese e09s07_fd320a91:
 
     # mc "Fuuuh - yes! Yes, Hana - you can cum!"
-    mc "Fuuuh - yes! Yes, Hana - you can cum!"
+    mc "操操操--可以！是的，哈娜--你可以高潮！"
 
 # game/code/e09/e09s07.rpy:225
 translate chinese e09s07_586ccad4:
 
     # lo "You hear that? You can-"
-    lo "You hear that? You can-"
+    lo "听到了吗？你可以--"
 
 # game/code/e09/e09s07.rpy:228
 translate chinese e09s07_87c24de5:
 
     # hr "SHHHHHhiiiiiitttt! I'm - cuh-cuh-cuuummmmiiiiinnnggg!"
-    hr "SHHHHHhiiiiiitttt! I'm - cuh-cuh-cuuummmmiiiiinnnggg!"
+    hr "靠靠靠靠！我--我要--射了啊啊啊！"
 
 # game/code/e09/e09s07.rpy:229
 translate chinese e09s07_83e45ff4:
 
     # hr "OH SWEEEET GOOOOOD - FUUUUUUUCK!"
-    hr "OH SWEEEET GOOOOOD - FUUUUUUUCK!"
+    hr "哦我滴个--操啊啊啊！"
 
 # game/code/e09/e09s07.rpy:231
 translate chinese e09s07_3830d8aa:
 
     # hr "Oh... oh that was... that was good..."
-    hr "Oh... oh that was... that was good..."
+    hr "哦...哦...刚刚真是...好爽..."
 
 # game/code/e09/e09s07.rpy:232
 translate chinese e09s07_7b92e17b:
 
     # lo "You looked like you really enjoyed that."
-    lo "You looked like you really enjoyed that."
+    lo "你看起来很享受啊。"
 
 # game/code/e09/e09s07.rpy:233
 translate chinese e09s07_1ccd9614:
 
     # lo "And what about you, [mcname]? I see you didn't turn Hana into a cream puff."
-    lo "And what about you, [mcname]? I see you didn't turn Hana into a cream puff."
+    lo "你呢，[mcname]？我看你没有把哈娜变成奶油泡芙。"
 
 # game/code/e09/e09s07.rpy:235
 translate chinese e09s07_82199418:
 
     # mc "Oh, I had a ton of fun - and any other night she would be a twinkie. But, I have a few more people to see tonight."
-    mc "Oh, I had a ton of fun - and any other night she would be a twinkie. But, I have a few more people to see tonight."
+    mc "哦，我玩得很开心--换作其他任何一个晚上，她都会是个小妖精。不过，我今晚还要见几个人。"
 
 # game/code/e09/e09s07.rpy:236
 translate chinese e09s07_a9f86527:
 
     # lo "Mmmm, I understand."
-    lo "Mmmm, I understand."
+    lo "嗯嗯，我明白。"
 
 # game/code/e09/e09s07.rpy:238
 translate chinese e09s07_4cba3d27:
 
     # lo "We still need to have a chat, but we can do it a little later. After the festivities wrap up. I'm going to make sure Hana gets hydrated as well."
-    lo "We still need to have a chat, but we can do it a little later. After the festivities wrap up. I'm going to make sure Hana gets hydrated as well."
+    lo "我们还是得聊聊，不过可以晚一点。庆祝活动结束后来找我们。我还要确保哈娜补充水分。"
 
 # game/code/e09/e09s07.rpy:239
 translate chinese e09s07_4bb7467a:
 
     # hr "Mmhmmmm..."
-    hr "Mmhmmmm..."
+    hr "嗯嗯嗯..."
 
 # game/code/e09/e09s07.rpy:241
 translate chinese e09s07_b3e27bcb:
 
     # mc "That's probably a good idea."
-    mc "That's probably a good idea."
+    mc "这也许是个好主意。"
 
 # game/code/e09/e09s07.rpy:245
 translate chinese e09s07_0daa3178:
 
     # sy "Damn, that was quite the kick off to the event."
-    sy "Damn, that was quite the kick off to the event."
+    sy "妈的，这真是个精彩的开场。"
 
 # game/code/e09/e09s07.rpy:246
 translate chinese e09s07_2e8e5829:
 
     # arj "I'd say... are you ready for the next person?"
-    arj "I'd say... are you ready for the next person?"
+    arj "我想说...你准备好迎接下一个人了吗？"
 
 # game/code/e09/e09s07.rpy:248
 translate chinese e09s07_1ac5b829:
 
     # sy "Potentially persons?"
-    sy "Potentially persons?"
+    sy "迎接下一个未知选手？"
 
 # game/code/e09/e09s07.rpy:249
 translate chinese e09s07_80fc00b2:
 
     # mc "Uhm... sure. Bring 'em on."
-    mc "Uhm... sure. Bring 'em on."
+    mc "嗯...当然。来吧。"
 
 # game/code/e09/e09s07.rpy:250
 translate chinese e09s07_53111809:
 
     # sy "Okay!"
-    sy "Okay!"
+    sy "好嘞！"
 
 # game/code/e09/e09s07.rpy:252
 translate chinese e09s07_5347077f:
 
     # sy "Who's next!?!"
-    sy "Who's next!?!"
+    sy "下一个是谁!?!"
 
 # game/code/e09/e09s07.rpy:259
 translate chinese e09s07_sex_ah_cl_baa09268:
 
     # mc "Aaleyah. Cynthia. I didn't expect you two would bid on me."
-    mc "Aaleyah. Cynthia. I didn't expect you two would bid on me."
+    mc "艾蕾亚。辛西娅。我没想到你们两个会竞拍我。"
 
 # game/code/e09/e09s07.rpy:262
 translate chinese e09s07_sex_ah_cl_057c32fd:
 
     # ah "Mmm. Well, let's just say I've gotten a taste for your cock, [mcname]."
-    ah "Mmm. Well, let's just say I've gotten a taste for your cock, [mcname]."
+    ah "嗯，这么说吧，我已经尝到了你鸡巴的滋味，[mcname]。"
 
 # game/code/e09/e09s07.rpy:263
 translate chinese e09s07_sex_ah_cl_0c6079e4:
 
     # ah "Being pounded by you and making Terrell watch was the highlight of my month."
-    ah "Being pounded by you and making Terrell watch was the highlight of my month."
+    ah "被你抽插，让特雷尔在一旁观看，是我这个月最大的高潮。"
 
 # game/code/e09/e09s07.rpy:265
 translate chinese e09s07_sex_ah_cl_b7cb04d9:
 
     # cl "Oh my god. You're so depraved, Aaleyah."
-    cl "Oh my god. You're so depraved, Aaleyah."
+    cl "我的天啊。你太堕落了，艾蕾亚。"
 
 # game/code/e09/e09s07.rpy:266
 translate chinese e09s07_sex_ah_cl_b968e065:
 
     # ah "Mmm. I blame Terrell, and that's why I'm willing to put down good money for another turn with [mcname]."
-    ah "Mmm. I blame Terrell, and that's why I'm willing to put down good money for another turn with [mcname]."
+    ah "嗯，我怪特雷尔，所以我才愿意花大价钱和[mcname]再来一次。"
 
 # game/code/e09/e09s07.rpy:269
 translate chinese e09s07_sex_ah_cl_501ee3a2:
 
     # cl "I'm just here to support Fetish Locator."
-    cl "I'm just here to support Fetish Locator."
+    cl "我只是来支持性趣探测器的。"
 
 # game/code/e09/e09s07.rpy:270
 translate chinese e09s07_sex_ah_cl_8566b7e2:
 
     # cl "It's the perfect tool for excersizing those... pesky inner demons."
-    cl "It's the perfect tool for excersizing those... pesky inner demons."
+    cl "它是最完美不过的工具，可以锻炼那些...讨厌的心魔。"
 
 # game/code/e09/e09s07.rpy:273
 translate chinese e09s07_sex_ah_cl_7305dfba:
 
     # cl "Plus, I wanted to feel my husband enjoying my pussy again."
-    cl "Plus, I wanted to feel my husband enjoying my pussy again."
+    cl "另外，我想让我丈夫再次享受我的小穴。"
 
 # game/code/e09/e09s07.rpy:274
 translate chinese e09s07_sex_ah_cl_28c009ca:
 
     # mct "Hah. I almost forgot about our roleplay."
-    mct "Hah. I almost forgot about our roleplay."
+    mct "哈。我差点忘了我们的角色扮演。"
 
 # game/code/e09/e09s07.rpy:276
 translate chinese e09s07_sex_ah_cl_a74a6bf0:
 
     # mct "Guess I left an impression."
-    mct "Guess I left an impression."
+    mct "看来我给你们留下了深刻印象。"
 
 # game/code/e09/e09s07.rpy:277
 translate chinese e09s07_sex_ah_cl_e247c7c1:
 
     # mc "Of course. Allow me to plow your heavenly fields, my wife."
-    mc "Of course. Allow me to plow your heavenly fields, my wife."
+    mc "当然。请允许我耕耘你如天堂般美妙的土地，我的妻子。"
 
 # game/code/e09/e09s07.rpy:281
 translate chinese e09s07_sex_ah_cl_5b930da0:
 
     # mct "Mmm. Who should I pick first?"
-    mct "Mmm. Who should I pick first?"
+    mct "嗯，我应该先选谁？"
 
 # game/code/e09/e09s07.rpy:283
 translate chinese e09s07_sex_ah_cl_57c9d674:
 
     # mc "Aaleyah, you're up first."
-    mc "Aaleyah, you're up first."
+    mc "艾蕾亚，你先来。"
 
 # game/code/e09/e09s07.rpy:284
 translate chinese e09s07_sex_ah_cl_9b3baeba:
 
     # cl "Hmmph."
-    cl "Hmmph."
+    cl "嗯哼。"
 
 # game/code/e09/e09s07.rpy:285
 translate chinese e09s07_sex_ah_cl_0b09830f:
 
     # mct "Annoying Cynthia will just make her more fun to fuck later."
-    mct "Annoying Cynthia will just make her more fun to fuck later."
+    mct "惹恼辛西娅只会让以后操她更有趣。"
 
 # game/code/e09/e09s07.rpy:287
 translate chinese e09s07_sex_ah_cl_bbc9faad:
 
     # mc "How do you want it, Aaleyah?"
-    mc "How do you want it, Aaleyah?"
+    mc "你想怎么做，艾蕾亚？"
 
 # game/code/e09/e09s07.rpy:289
 translate chinese e09s07_sex_ah_cl_bce8f745:
 
     # ah "You know exactly how I like it."
-    ah "You know exactly how I like it."
+    ah "你知道我喜欢怎么来。"
 
 # game/code/e09/e09s07.rpy:290
 translate chinese e09s07_sex_ah_cl_222dc96e:
 
     # ah "Master."
-    ah "Master."
+    ah "主人。"
 
 # game/code/e09/e09s07.rpy:292
 translate chinese e09s07_sex_ah_cl_a6745f2d:
 
     # ah "Umm... just treat me like your sex slave tonight. If that's okay with you."
-    ah "Umm... just treat me like your sex slave tonight. If that's okay with you."
+    ah "嗯...今晚就把我当成你的性奴吧。如果你没意见的话。"
 
 # game/code/e09/e09s07.rpy:293
 translate chinese e09s07_sex_ah_cl_1bf60051:
 
     # mc "Of course."
-    mc "Of course."
+    mc "当然可以。"
 
 # game/code/e09/e09s07.rpy:294
 translate chinese e09s07_sex_ah_cl_2534d30a:
 
     # ah "Mmm. That's perfect. Use me, Master. Use my hole for your pleasure."
-    ah "Mmm. That's perfect. Use me, Master. Use my hole for your pleasure."
+    ah "嗯嗯嗯。太好了。利用我吧，主人。用我的洞来取悦你。"
 
 # game/code/e09/e09s07.rpy:296
 translate chinese e09s07_sex_ah_cl_02ee619e:
 
     # ah "Oh my god!"
-    ah "Oh my god!"
+    ah "哦哦天啊！"
 
 # game/code/e09/e09s07.rpy:298
 translate chinese e09s07_sex_ah_cl_2f0b1d96:
 
     # cl "Hey?"
-    cl "Hey?"
+    cl "嘿？"
 
 # game/code/e09/e09s07.rpy:299
 translate chinese e09s07_sex_ah_cl_f8fdebac:
 
     # ah "Please don't mind me, Cynthia. I need... support while Master stabs my naughty, dripping slit."
-    ah "Please don't mind me, Cynthia. I need... support while Master stabs my naughty, dripping slit."
+    ah "请别介意，辛西娅。我需要...在主人捅我那淫荡滴水的骚穴时有个支撑。"
 
 # game/code/e09/e09s07.rpy:301
 translate chinese e09s07_sex_ah_cl_f5a38ea3:
 
     # cl "This wasn't the plan."
-    cl "This wasn't the plan."
+    cl "计划不是这样的。"
 
 # game/code/e09/e09s07.rpy:302
 translate chinese e09s07_sex_ah_cl_0cd0eb27:
 
     # cl "We pooled our money together so I could have some fun with him."
-    cl "We pooled our money together so I could have some fun with him."
+    cl "我们把钱凑在一起，为的是这样我就能和他玩玩了。"
 
 # game/code/e09/e09s07.rpy:304
 translate chinese e09s07_sex_ah_cl_601ceceb:
 
     # ah "Mmmm. Then you shouldn't have let him pick."
-    ah "Mmmm. Then you shouldn't have let him pick."
+    ah "嗯嗯嗯嗯。那你就不应该让他选。"
 
 # game/code/e09/e09s07.rpy:305
 translate chinese e09s07_sex_ah_cl_c1d7847c:
 
     # cl "Grrruaaah..."
-    cl "Grrruaaah..."
+    cl "哼..."
 
 # game/code/e09/e09s07.rpy:308
 translate chinese e09s07_sex_ah_cl_1013a4f3:
 
     # ah "Don't be mad, Cynthia. Your face doesn't look pretty when you frown."
-    ah "Don't be mad, Cynthia. Your face doesn't look pretty when you frown."
+    ah "别生气，辛西娅。你皱眉头的样子可不好看。"
 
 # game/code/e09/e09s07.rpy:309
 translate chinese e09s07_sex_ah_cl_a2c470a4:
 
     # cl "Now you're just being a bitch. A slutty bitch."
-    cl "Now you're just being a bitch. A slutty bitch."
+    cl "现在你就是个婊子。一个放荡的婊子。"
 
 # game/code/e09/e09s07.rpy:312
 translate chinese e09s07_sex_ah_cl_bd262bde:
 
     # ah "*moaning* Hahah. I know what I am. And I know what you are."
-    ah "*moaning* Hahah. I know what I am. And I know what you are."
+    ah "*呻吟* 哈哈。我知道我是什么。我也知道你是什么。"
 
 # game/code/e09/e09s07.rpy:313
 translate chinese e09s07_sex_ah_cl_29145b92:
 
     # ah "Oh fuck. That's so good, Master."
-    ah "Oh fuck. That's so good, Master."
+    ah "哦，他妈的。太爽了，主人。"
 
 # game/code/e09/e09s07.rpy:316
 translate chinese e09s07_sex_ah_cl_c343636a:
 
     # ah "Master, I've been naughty, I haven't been honest with you."
-    ah "Master, I've been naughty, I haven't been honest with you."
+    ah "主人，我很淘气，我没有对你说实话。"
 
 # game/code/e09/e09s07.rpy:317
 translate chinese e09s07_sex_ah_cl_8d56d45e:
 
     # mc "Heh. Oh. Do you have something to share, Aaleyah?"
-    mc "Heh. Oh. Do you have something to share, Aaleyah?"
+    mc "呵。哦。你有什么要分享的吗，艾蕾亚？"
 
 # game/code/e09/e09s07.rpy:320
 translate chinese e09s07_sex_ah_cl_b13836b6:
 
     # ah "*panting* Yes."
-    ah "*panting* Yes."
+    ah "*喘气* 是的。"
 
 # game/code/e09/e09s07.rpy:321
 translate chinese e09s07_sex_ah_cl_d6c2fabf:
 
     # cl "Aaleyah..."
-    cl "Aaleyah..."
+    cl "艾蕾亚..."
 
 # game/code/e09/e09s07.rpy:322
 translate chinese e09s07_sex_ah_cl_5c0249eb:
 
     # ah "Cynthia has been excited to have you fuck her since she got the invite."
-    ah "Cynthia has been excited to have you fuck her since she got the invite."
+    ah "辛西娅收到邀请后，就一直很期待你上她。"
 
 # game/code/e09/e09s07.rpy:325
 translate chinese e09s07_sex_ah_cl_c66cd36d:
 
     # ah "She was estatic. Cynthia said she didn't believe she'd be invited because of how mean she's been to you."
-    ah "She was estatic. Cynthia said she didn't believe she'd be invited because of how mean she's been to you."
+    ah "她很兴奋。辛西娅说她不相信自己会被邀请，因为她一直对你很刻薄。"
 
 # game/code/e09/e09s07.rpy:326
 translate chinese e09s07_sex_ah_cl_e57ab8cf:
 
     # cl "Shut up Aaleyah."
-    cl "Shut up Aaleyah."
+    cl "闭嘴，艾蕾亚。"
 
 # game/code/e09/e09s07.rpy:327
 translate chinese e09s07_sex_ah_cl_84debb69:
 
     # mc "Is that true, Cynthia? Are you just as horny as Aaleyah is?"
-    mc "Is that true, Cynthia? Are you just as horny as Aaleyah is?"
+    mc "是真的吗，辛西娅？你和艾蕾亚一样饥渴吗？"
 
 # game/code/e09/e09s07.rpy:330
 translate chinese e09s07_sex_ah_cl_a265eabe:
 
     # cl "No."
-    cl "No."
+    cl "不是。"
 
 # game/code/e09/e09s07.rpy:331
 translate chinese e09s07_sex_ah_cl_cd1f72f8:
 
     # ah "Oouhaah... Ahuaah... she's lying, Master. She wants you to dominate her."
-    ah "Oouhaah... Ahuaah... she's lying, Master. She wants you to dominate her."
+    ah "哦哈哈...哈啊...她在撒谎，主人。她想让你支配她。"
 
 # game/code/e09/e09s07.rpy:332
 translate chinese e09s07_sex_ah_cl_d1aa8607:
 
     # ah "She can't wait to feel what I'm feelling. Ouhaah."
-    ah "She can't wait to feel what I'm feelling. Ouhaah."
+    ah "她迫不及待地想体验我现在的感觉。啊哈。"
 
 # game/code/e09/e09s07.rpy:335
 translate chinese e09s07_sex_ah_cl_6cd51f8e:
 
     # ah "Masteruaaah!"
-    ah "Masteruaaah!"
+    ah "主人啊啊啊！"
 
 # game/code/e09/e09s07.rpy:337
 translate chinese e09s07_sex_ah_cl_b726cd2d:
 
     # ah "Ahuaaah. Please Master. Cum inside of me... give me that thick, load."
-    ah "Ahuaaah. Please Master. Cum inside of me... give me that thick, load."
+    ah "嗯哼嗯嗯。求你了主人，射进我身体里...把你那浓浓的精液给我。"
 
 # game/code/e09/e09s07.rpy:343
 translate chinese e09s07_sex_ah_cl_ae3d6ec0:
 
     # mc "Are you ready, my pet?"
-    mc "Are you ready, my pet?"
+    mc "准备好了吗，我的宝贝？"
 
 # game/code/e09/e09s07.rpy:344
 translate chinese e09s07_sex_ah_cl_dbd51352:
 
     # cl "I... I don't know."
-    cl "I... I don't know."
+    cl "我...我不知道。"
 
 # game/code/e09/e09s07.rpy:346
 translate chinese e09s07_sex_ah_cl_b7ffeb86:
 
     # mc "Come here. I know exactly what you need."
-    mc "Come here. I know exactly what you need."
+    mc "过来。我知道你需要什么。"
 
 # game/code/e09/e09s07.rpy:348
 translate chinese e09s07_sex_ah_cl_843076e8:
 
     # cl "What did you get me into?"
-    cl "What did you get me into?"
+    cl "瞧你给我惹了什么麻烦？"
 
 # game/code/e09/e09s07.rpy:349
 translate chinese e09s07_sex_ah_cl_a4f8ad51:
 
     # ah "Only what you crave. Admit it Cynthia. No matter how many retreats you go to..."
-    ah "Only what you crave. Admit it Cynthia. No matter how many retreats you go to..."
+    ah "我只是把你所渴望的东西给了你。承认吧，辛西娅。不管你去了多少次静修..."
 
 # game/code/e09/e09s07.rpy:351
 translate chinese e09s07_sex_ah_cl_76814fae:
 
     # ah "You can't escape your needs..."
-    ah "You can't escape your needs..."
+    ah "你无法逃避你的需求..."
 
 # game/code/e09/e09s07.rpy:352
 translate chinese e09s07_sex_ah_cl_3c8e0f53:
 
     # cl "You're... you're right."
-    cl "You're... you're right."
+    cl "你...你说得对。"
 
 # game/code/e09/e09s07.rpy:354
 translate chinese e09s07_sex_ah_cl_05f106f4:
 
     # cl "Aaleyah... can I?"
-    cl "Aaleyah... can I?"
+    cl "艾蕾亚...我可以吗？"
 
 # game/code/e09/e09s07.rpy:355
 translate chinese e09s07_sex_ah_cl_8ce8da4d:
 
     # ah "Yes. Kiss me while Master gives you what you crave."
-    ah "Yes. Kiss me while Master gives you what you crave."
+    ah "是的，主人给你你渴望的同时，吻我。"
 
 # game/code/e09/e09s07.rpy:357
 translate chinese e09s07_sex_ah_cl_7f6e98f4:
 
     # cl "Mrmmmm."
-    cl "Mrmmmm."
+    cl "嗯嗯。"
 
 # game/code/e09/e09s07.rpy:364
 translate chinese e09s07_sex_ah_cl_c895cc33:
 
     # cl "Mmmuaaah. Oh my god, [mcname]. Did your cock get bigger?"
-    cl "Mmmuaaah. Oh my god, [mcname]. Did your cock get bigger?"
+    cl "嗯啊啊啊。哦，我的天，[mcname]。你的鸡巴是不是变大了？"
 
 # game/code/e09/e09s07.rpy:365
 translate chinese e09s07_sex_ah_cl_357fa74e:
 
     # ah "Cynthia, remember who you're talking to."
-    ah "Cynthia, remember who you're talking to."
+    ah "辛西娅，记住你在和谁说话。"
 
 # game/code/e09/e09s07.rpy:366
 translate chinese e09s07_sex_ah_cl_0116fa1c:
 
     # cl "Right... Master... do you like my pussy?"
-    cl "Right... Master... do you like my pussy?"
+    cl "对...主人...你喜欢我的小穴吗？"
 
 # game/code/e09/e09s07.rpy:369
 translate chinese e09s07_sex_ah_cl_cbd0604b:
 
     # mc "You're a lot wetter than before."
-    mc "You're a lot wetter than before."
+    mc "你比以前湿多了。"
 
 # game/code/e09/e09s07.rpy:370
 translate chinese e09s07_sex_ah_cl_5d65f574:
 
     # mc "Did my slave get horny watching me play with Aaleyah."
-    mc "Did my slave get horny watching me play with Aaleyah."
+    mc "我的奴隶看我和艾蕾亚玩的时候是不是很兴奋？"
 
 # game/code/e09/e09s07.rpy:371
 translate chinese e09s07_sex_ah_cl_a04ba632:
 
     # cl "Yes. Now please... please do the same to me that you did to her!"
-    cl "Yes. Now please... please do the same to me that you did to her!"
+    cl "是的，现在请你...请你像对她那样对我！"
 
 # game/code/e09/e09s07.rpy:373
 translate chinese e09s07_sex_ah_cl_d669acb2:
 
     # mc "It's perfect, Cythnia. You're so wet and tight, and you keep pulling me in."
-    mc "It's perfect, Cythnia. You're so wet and tight, and you keep pulling me in."
+    mc "太完美了，辛西娅。你又湿又紧，一直在把我往里拉。"
 
 # game/code/e09/e09s07.rpy:382
 translate chinese e09s07_sex_ah_cl_5ad46677:
 
     # ah "Cynthia, you look so beautiful getting fucked."
-    ah "Cynthia, you look so beautiful getting fucked."
+    ah "辛西娅，你被人操的样子真美。"
 
 # game/code/e09/e09s07.rpy:383
 translate chinese e09s07_sex_ah_cl_00446572:
 
     # ah "This is what you were meant for. What we're both {i}meant{/i} for."
-    ah "This is what you were meant for. What we're both {i}meant{/i} for."
+    ah "这就是你的归宿。也是我们的{i}归宿{/i}。"
 
 # game/code/e09/e09s07.rpy:386
 translate chinese e09s07_sex_ah_cl_7229f3ec:
 
     # cl "Yes... Fuck-aahaah... Master... Master... I'm getting close!"
-    cl "Yes... Fuck-aahaah... Master... Master... I'm getting close!"
+    cl "是的...操啊啊啊...主人...主人...我快来了！"
 
 # game/code/e09/e09s07.rpy:387
 translate chinese e09s07_sex_ah_cl_b771ebe4:
 
     # mc "Then you better beg for me to keep going."
-    mc "Then you better beg for me to keep going."
+    mc "那你最好求我继续。"
 
 # game/code/e09/e09s07.rpy:390
 translate chinese e09s07_sex_ah_cl_3bd927c0:
 
     # mc "I haven't forgotten your earlier faults, Cynthia."
-    mc "I haven't forgotten your earlier faults, Cynthia."
+    mc "我没有忘记你之前的过错，辛西娅。"
 
 # game/code/e09/e09s07.rpy:391
 translate chinese e09s07_sex_ah_cl_e2a231d5:
 
     # cl "Yes Master. I'm so sorry. Whatever I did... that was the old me."
-    cl "Yes Master. I'm so sorry. Whatever I did... that was the old me."
+    cl "是的，主人。我很抱歉。无论我做了什么...那都是以前的我。"
 
 # game/code/e09/e09s07.rpy:392
 translate chinese e09s07_sex_ah_cl_ebf97acb:
 
     # cl "Now, I'll do whatever you {i}want{/i}."
-    cl "Now, I'll do whatever you {i}want{/i}."
+    cl "现在，你要我{i}做什么{/i}都行。"
 
 # game/code/e09/e09s07.rpy:397
 translate chinese e09s07_sex_ah_cl_51de4c73:
 
     # cl "*panting* Just please don't stop fucking me!"
-    cl "*panting* Just please don't stop fucking me!"
+    cl "*喘气* 请不要停止干我！"
 
 # game/code/e09/e09s07.rpy:402
 translate chinese e09s07_sex_ah_cl_a1cd2761:
 
     # cl "Ahuuaa-huffaaa-ahuaah..."
-    cl "Ahuuaa-huffaaa-ahuaah..."
+    cl "哈...哼嗯嗯嗯..."
 
 # game/code/e09/e09s07.rpy:406
 translate chinese e09s07_sex_ah_cl_3d8d67af:
 
     # cl "*surprised moaning*"
-    cl "*surprised moaning*"
+    cl "*惊讶的呻吟*"
 
 # game/code/e09/e09s07.rpy:407
 translate chinese e09s07_sex_ah_cl_5fe8c48a:
 
     # ah "Mrrrmmm."
-    ah "Mrrrmmm."
+    ah "嗯嗯嗯嗯"
 
 # game/code/e09/e09s07.rpy:409
 translate chinese e09s07_sex_ah_cl_29465c1e:
 
     # ah "I've never kissed a girl while she came."
-    ah "I've never kissed a girl while she came."
+    ah "我从没在女孩高潮的时候吻过她。"
 
 # game/code/e09/e09s07.rpy:410
 translate chinese e09s07_sex_ah_cl_531f9957:
 
     # cl "Mmm... we'll have to try that again sometime."
-    cl "Mmm... we'll have to try that again sometime."
+    cl "嗯...有机会我们得再试试。"
 
 # game/code/e09/e09s07.rpy:412
 translate chinese e09s07_sex_ah_cl_30156b30:
 
     # ah "Thank you so much, [mcname]. That felt great."
-    ah "Thank you so much, [mcname]. That felt great."
+    ah "太谢谢你了，[mcname]。感觉太棒了。"
 
 # game/code/e09/e09s07.rpy:413
 translate chinese e09s07_sex_ah_cl_255277dd:
 
     # cl "I know you're going to be busy soon, but don't forget to look me up later."
-    cl "I know you're going to be busy soon, but don't forget to look me up later."
+    cl "我知道你很快就会很忙，但别忘了完事了以后来找我。"
 
 # game/code/e09/e09s07.rpy:415
 translate chinese e09s07_sex_ah_cl_86f5d900:
 
     # cl "Master..."
-    cl "Master..."
+    cl "主人..."
 
 # game/code/e09/e09s07.rpy:416
 translate chinese e09s07_sex_ah_cl_335117bf:
 
     # mc "Haha. We'll see."
-    mc "Haha. We'll see."
+    mc "哈哈。到时候看。"
 
 # game/code/e09/e09s07.rpy:430
 translate chinese e09s07_sex_aw_jdg_973b29c4:
 
     # arj "Wow, I have to say thank you! Your contribution means a lot to us."
-    arj "Wow, I have to say thank you! Your contribution means a lot to us."
+    arj "哇，我得说声谢谢！你的贡献对我们意义重大。"
 
 # game/code/e09/e09s07.rpy:431
 translate chinese e09s07_sex_aw_jdg_ceb938ad:
 
     # jdg "Well I'm just happy to see Fetish Locator in better hands."
-    jdg "Well I'm just happy to see Fetish Locator in better hands."
+    jdg "嗯，我只是很高兴看到性趣探测器能得到更好的保护。"
 
 # game/code/e09/e09s07.rpy:433
 translate chinese e09s07_sex_aw_jdg_79b6ffab:
 
     # jdg "But, if you don't mind..."
-    jdg "But, if you don't mind..."
+    jdg "但是，如果你不介意的话..."
 
 # game/code/e09/e09s07.rpy:434
 translate chinese e09s07_sex_aw_jdg_64a6e5ee:
 
     # arj "Of course! Please, enjoy your time with [mcname]!"
-    arj "Of course! Please, enjoy your time with [mcname]!"
+    arj "当然！请尽情享受与[mcname]在一起的时光吧！"
 
 # game/code/e09/e09s07.rpy:435
 translate chinese e09s07_sex_aw_jdg_55b5769f:
 
     # jdg "Oh, {i}I will.{/i}"
-    jdg "Oh, {i}I will.{/i}"
+    jdg "哦，{i}我会的。{/i}"
 
 # game/code/e09/e09s07.rpy:437
 translate chinese e09s07_sex_aw_jdg_4a6fac66:
 
     # jdg "Mmmm... does this mean I finally get a turn with the hot, young stranger?"
-    jdg "Mmmm... does this mean I finally get a turn with the hot, young stranger?"
+    jdg "嗯...这是不是意味着我终于有机会和那个性感的年轻陌生人在一起了？"
 
 # game/code/e09/e09s07.rpy:439
 translate chinese e09s07_sex_aw_jdg_7c3eb453:
 
     # mc "Judge-"
-    mc "Judge-"
+    mc "法官--"
 
 # game/code/e09/e09s07.rpy:440
 translate chinese e09s07_sex_aw_jdg_98d9b4a2:
 
     # jdg "Mmmmm... but I don't think just you is enough. I think if we can't do our {i}usual{/i} fun, I'm going to need a little {i}extra.{/i}"
-    jdg "Mmmmm... but I don't think just you is enough. I think if we can't do our {i}usual{/i} fun, I'm going to need a little {i}extra.{/i}"
+    jdg "嗯嗯...但我觉得只有你还不够。我想，如果我们不能像{i}往常一样{/i}玩乐，我需要一点{i}额外的东西。{/i}"
 
 # game/code/e09/e09s07.rpy:442
 translate chinese e09s07_sex_aw_jdg_6b2e55df:
 
     # mc "Oh, well..."
-    mc "Oh, well..."
+    mc "哦，好吧..."
 
 # game/code/e09/e09s07.rpy:447
 translate chinese e09s07_sex_aw_jdg_d9a20a9f:
 
     # mc "All right, all right. Yeah, I can-"
-    mc "All right, all right. Yeah, I can-"
+    mc "这样啊，好吧。嗯，我可以--"
 
 # game/code/e09/e09s07.rpy:448
 translate chinese e09s07_sex_aw_jdg_11d63d62:
 
     # jdg "Oh, don't worry, I found someone already."
-    jdg "Oh, don't worry, I found someone already."
+    jdg "别担心，我已经找到人了。"
 
 # game/code/e09/e09s07.rpy:453
 translate chinese e09s07_sex_aw_jdg_24d5c6ad:
 
     # mc "I... I don't know."
-    mc "I... I don't know."
+    mc "我...我不知道。"
 
 # game/code/e09/e09s07.rpy:454
 translate chinese e09s07_sex_aw_jdg_ffd8ddb2:
 
     # jdg "Come on, it'll be fuuuuuuun."
-    jdg "Come on, it'll be fuuuuuuun."
+    jdg "来吧，会很很很好玩的。"
 
 # game/code/e09/e09s07.rpy:456
 translate chinese e09s07_sex_aw_jdg_71124d94:
 
     # mc "I just... not tonight."
-    mc "I just... not tonight."
+    mc "我只是...今晚不行。"
 
 # game/code/e09/e09s07.rpy:457
 translate chinese e09s07_sex_aw_jdg_fb192aed:
 
     # jdg "Shame. Well, at the very least I can have some fun watching."
-    jdg "Shame. Well, at the very least I can have some fun watching."
+    jdg "真遗憾。好吧，至少我可以看个过瘾。"
 
 # game/code/e09/e09s07.rpy:465
 translate chinese e09s07_sex_jdg_sex_373705dc:
 
     # jdg "I have a thing for redheads."
-    jdg "I have a thing for redheads."
+    jdg "我喜欢红头发的。"
 
 # game/code/e09/e09s07.rpy:466
 translate chinese e09s07_sex_jdg_sex_0dab8d2b:
 
     # mc "Don't we all?"
-    mc "Don't we all?"
+    mc "我们不都是这样吗？"
 
 # game/code/e09/e09s07.rpy:468
 translate chinese e09s07_sex_jdg_sex_3dba3788:
 
     # aw "You two ready for me?"
-    aw "You two ready for me?"
+    aw "你们俩准备好了吗？"
 
 # game/code/e09/e09s07.rpy:470
 translate chinese e09s07_sex_jdg_sex_299d06ca:
 
     # mc "It appears so."
-    mc "It appears so."
+    mc "看来是的。"
 
 # game/code/e09/e09s07.rpy:471
 translate chinese e09s07_sex_jdg_sex_3ae3f640:
 
     # jdg "I've waited long enough. Get over here, and {i}ravage me.{/i}"
-    jdg "I've waited long enough. Get over here, and {i}ravage me.{/i}"
+    jdg "我等得够久了。过来，{i}蹂躏{/i}我吧。"
 
 # game/code/e09/e09s07.rpy:473
 translate chinese e09s07_sex_jdg_sex_f340500f:
 
     # aw "I need to grab some lube-"
-    aw "I need to grab some lube-"
+    aw "我得去拿点润滑油--"
 
 # game/code/e09/e09s07.rpy:474
 translate chinese e09s07_sex_jdg_sex_55008519:
 
     # jdg "No, you do not. Just spit and fuck me. {i}Now.{/i}"
-    jdg "No, you do not. Just spit and fuck me. {i}Now.{/i}"
+    jdg "不，不需要那东西。直接吐口水，然后操我就行。{i}就现在{/i}。"
 
 # game/code/e09/e09s07.rpy:477
 translate chinese e09s07_sex_jdg_sex_fb26efab:
 
     # mc "It's best to just do as she says..."
-    mc "It's best to just do as she says..."
+    mc "最好照她说的做..."
 
 # game/code/e09/e09s07.rpy:478
 translate chinese e09s07_sex_jdg_sex_a178df96:
