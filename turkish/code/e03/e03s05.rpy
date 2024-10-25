@@ -92,7 +92,7 @@ translate turkish e03s05_3c854996:
 translate turkish e03s05_06c9bdbc:
 
     # "Cult Member" "That couldn't hurt..."
-    "Cult Member" "That couldn't hurt..."
+    "Tarikat Üyesi" "Bunun zararı olmaz...."
 
 # game/code/e03/e03s05.rpy:75
 translate turkish e03s05_1e809d6a:
@@ -1052,5 +1052,5 @@ translate turkish strings:
 translate turkish e03s05_da47c5ea:
 
     # mh "We must honor my return with a celebration! A veritable feast for my arrival!"
-    mh "We must honor my return with a celebration! A veritable feast for my arrival!"
+    mh "Dönüşümü bir kutlamayla onurlandırmalıyız! Gelişim için gerçek bir şölen!"
 
