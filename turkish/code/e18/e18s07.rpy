@@ -2438,5 +2438,5 @@ translate turkish strings:
 translate turkish e18s07_37a31b1b:
 
     # pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
-    pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
+    pb "Bir sürü şey. Dahlia'nın gerçek adını kullandıktan sonra yediğim şaplak yüzünden kıçım hala acıyor."
 
