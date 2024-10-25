@@ -1480,5 +1480,5 @@ translate turkish strings:
 
     # game/code/hints.rpy:5
     old "You don't fuck the Judge."
-    new Yargıcı beceremezsin."
+    new "Yargıcı beceremezsin."
 
