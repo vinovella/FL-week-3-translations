@@ -428,7 +428,7 @@ translate turkish e09s03_42049d6e:
 translate turkish e09s03_294381fc:
 
     # sy "Heheh. Go Team?"
-    sy "Heheh. Go Team?"
+    sy "Heheh. Haydi Takımm?"
 
 # game/code/e09/e09s03.rpy:256
 translate turkish e09s03_a6422911:
@@ -440,7 +440,7 @@ translate turkish e09s03_a6422911:
 translate turkish e09s03_fbe406fa:
 
     # mc "Alright, 'Go Team' on three."
-    mc "Tamam, 'Go Team' üç deyince."
+    mc "Tamam, 'Haydi Takım' üç deyince."
 
 # game/code/e09/e09s03.rpy:260
 translate turkish e09s03_81d35a91:
