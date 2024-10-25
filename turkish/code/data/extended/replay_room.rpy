@@ -390,55 +390,55 @@ translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Olivia, Bell & Annie"
-    new "Ending 15: Olivia, Bell & Annie"
+    new "15.Son: Olivia, Bell & Annie"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Lyssa, Stacy & Gemma"
-    new "Ending 15: Lyssa, Stacy & Gemma"
+    new "15. Son: Lyssa, Stacy & Gemma"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Min, Stacy & Olivia"
-    new "Ending 15: Min, Stacy & Olivia"
+    new "15. Son: Min, Stacy & Olivia"
 
     # game/code/data/extended/replay_room.rpy:204
     old "Ending 18: Samiya, Dahlia & Pete"
-    new "Ending 18: Samiya, Dahlia & Pete"
+    new "18. Son: Samiya, Dahlia & Pete"
 
     # game/code/data/extended/replay_room.rpy:204
     old "Ending 18: Quartet, Londyn & Kendell"
-    new "Ending 18: Quartet, Londyn & Kendell"
+    new "18. Son: Quartet, Londyn & Kendell"
 
     # game/code/data/extended/replay_room.rpy:204
     old "Ending 18: Samiya"
-    new "Ending 18: Samiya"
+    new "18. Son: Samiya"
 
 translate turkish strings:
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 03: Lyssa & Stacy"
-    new "Ending 03: Lyssa & Stacy"
+    new "3. Son: Lyssa & Stacy"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 03: Lyssa, Chiara & Stacy"
-    new "Ending 03: Lyssa, Chiara & Stacy"
+    new "3. Son: Lyssa, Chiara & Stacy"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: AmRose & Allison"
-    new "Ending 09: AmRose & Allison"
+    new "9. Son: AmRose & Allison"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: Stacy, AmRose & Allison"
-    new "Ending 09: Stacy, AmRose & Allison"
+    new "9. Son: Stacy, AmRose & Allison"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: Hana & Londyn"
-    new "Ending 09: Hana & Londyn"
+    new "9. Son: Hana & Londyn"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: Hana & Allison"
-    new "Ending 09: Hana & Allison"
+    new "9. Son: Hana & Allison"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: Party Girls"
-    new "Ending 09: Party Girls"
+    new "9. Son: Parti Kızları"
 
