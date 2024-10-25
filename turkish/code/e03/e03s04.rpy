@@ -1004,7 +1004,7 @@ translate turkish e03s04_8c96c4b1:
 translate turkish e03s04_e62f94bb:
 
     # mh " I do... *moans* I really do."
-    mh " I do... *moans* I really do."
+    mh " Seviyorum...*İnler*Gerçekten."
 
 # game/code/e03/e03s04.rpy:606
 translate turkish e03s04_1caf7915:
@@ -1016,7 +1016,7 @@ translate turkish e03s04_1caf7915:
 translate turkish e03s04_56801014:
 
     # mc "Oh fuck, Stacy!"
-    mc "Oh fuck, Stacy!"
+    mc "Oh siktir, Stacy!"
 
 # game/code/e03/e03s04.rpy:610
 translate turkish e03s04_d55636fd:
@@ -1430,17 +1430,17 @@ translate turkish strings:
 translate turkish e03s04_9bef14b2:
 
     # mc "Don't you remember? After that weird chick took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
-    mc "Don't you remember? After that weird chick took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
+    mc "Hatırlamıyor musun? O garip piliç Lyssa'yı kaçırdıktan sonra bizi kulübeye taşıdılar. Seçilmiş olmakla ilgili bir şeydi."
 
 # game/code/e03/e03s04.rpy:177
 translate turkish e03s04_01eddfbc:
 
     # hp "She is not the first to appear before as goddess of love and wisdom, returned. But she appears the truest, thus far."
-    hp "She is not the first to appear before as goddess of love and wisdom, returned. But she appears the truest, thus far."
+    hp "O, aşk ve bilgelik tanrıçası olarak ortaya çıkan ve geri dönen ilk kişi değildir. Ama şu ana kadar en doğrusu olarak görünüyor."
 
 # game/code/e03/e03s04.rpy:504
 translate turkish e03s04_0f1ec9d2:
 
     # sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making me pregnant."
-    sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making me pregnant."
+    sy "Lyssa... Lütfen, içime boşalmanı istiyorum. Beni doldurmanı ve beni hamile bırakarak sana ait olduğumu tüm dünyaya göstermeni istiyorum."
 
