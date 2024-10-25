@@ -614,7 +614,7 @@ translate turkish replay_e14s03_3827d03b:
 translate turkish replay_e14s03_ec672233:
 
     # pw "H-holy... oh holy shituaaah!"
-    pw "H-holy... oh holy shituaaah!"
+    pw "L-Lanet... oh lanet olsuntuaaah!"
 
 # game/code/e14/e14s03.rpy:410
 translate turkish replay_e14s03_91d8a70c:
@@ -764,7 +764,7 @@ translate turkish e14s03_let_pw_take_charge_35380ac4:
 translate turkish e14s03_let_pw_take_charge_29613640:
 
     # nk "I can't wait..."
-    nk "I can't wait..."
+    nk "Sabırsızlanıyorum...."
 
 # game/code/e14/e14s03.rpy:499
 translate turkish e14s03_let_pw_take_charge_cffff662:
@@ -788,7 +788,7 @@ translate turkish e14s03_let_pw_take_charge_c7b58889:
 translate turkish e14s03_let_pw_take_charge_3404e4a7:
 
     # pw "*panting* Oh goddess."
-    pw "*panting* Oh goddess."
+    pw "*nefes nefese* Oh tanrımm."
 
 # game/code/e14/e14s03.rpy:509
 translate turkish e14s03_let_pw_take_charge_8abc184d:
