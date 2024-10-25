@@ -254,13 +254,13 @@ translate turkish e03s02_debc5b84:
 translate turkish e03s02_18528579:
 
     # sw "*clears throat* And this is my friend. Rose."
-    sw "*clears throat* And this is my friend. Rose."
+    sw "*Boğazını temizler* Ve bu da benim arkadaşım. Rose."
 
 # game/code/e03/e03s02.rpy:196
 translate turkish e03s02_730077fe:
 
     # sy "Hello Rose."
-    sy "Merhaba Gül."
+    sy "Merhaba Rose."
 
 # game/code/e03/e03s02.rpy:199
 translate turkish e03s02_2f48d092:
@@ -848,5 +848,5 @@ translate turkish e03s02_39abdb31:
 translate turkish e03s02_4294c82c:
 
     # sw "So during the investigation, the police and private eyes have kept coming up against brick-walls."
-    sw "So during the investigation, the police and private eyes have kept coming up against brick-walls."
+    sw "Bu yüzden soruşturma sırasında polis ve özel dedektifler tuğla duvarlarla karşılaşmaya devam etti."
 
