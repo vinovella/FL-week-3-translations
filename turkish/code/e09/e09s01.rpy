@@ -812,7 +812,7 @@ translate turkish e09s01_continue_sex_13f5628c:
 translate turkish e09s01_continue_sex_02731935:
 
     # aw "Oooh, gotta love a charmer."
-    aw "Oooh, gotta love a charmer."
+    aw "Oooh, Bir büyücüyü sevmek lazım."
 
 # game/code/e09/e09s01.rpy:461
 translate turkish e09s01_continue_sex_5f1dcd82:
@@ -1460,7 +1460,7 @@ translate turkish e09s01_continue_sex_9bdf06d9:
 translate turkish e09s01_continue_sex_a3f213ba:
 
     # aw "You're the one feeding me a creampie."
-    aw "You're the one feeding me a creampie."
+    aw "Bana döl yediren sensin."
 
 # game/code/e09/e09s01.rpy:751
 translate turkish e09s01_continue_sex_a6b35874:
@@ -1832,7 +1832,7 @@ translate turkish e09s01_continue_sex_81bc5d6d:
 translate turkish e09s01_continue_sex_ecb2cfc1:
 
     # arj "I'll have to nap later."
-    arj "I'll have to nap later."
+    arj "Daha sonra kestirmem gerekecek.."
 
 # game/code/e09/e09s01.rpy:920
 translate turkish e09s01_continue_sex_3dc6fcd3:
