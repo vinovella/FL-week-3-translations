@@ -1376,505 +1376,505 @@ translate chinese e09s06_ah_tr_633a35b2:
 translate chinese e09s06_ah_tr_4147d0d9:
 
     # tr "Yeah man! I'll see you later, after I have some sex!"
-    tr "Yeah man! I'll see you later, after I have some sex!"
+    tr "行啊，哥们儿！待会儿见，等我做爱完事了再说！"
 
 # game/code/e09/e09s06.rpy:451
 translate chinese e09s06_jdg_c146a708:
 
     # mc "Hello to the both of you!"
-    mc "Hello to the both of you!"
+    mc "你们俩好啊！"
 
 # game/code/e09/e09s06.rpy:452
 translate chinese e09s06_jdg_38641e87:
 
     # jdg "Evening, [mcname]."
-    jdg "Evening, [mcname]."
+    jdg "晚上好，[mcname]。"
 
 # game/code/e09/e09s06.rpy:453
 translate chinese e09s06_jdg_863c4740:
 
     # mh "Hello."
-    mh "Hello."
+    mh "你好。"
 
 # game/code/e09/e09s06.rpy:455
 translate chinese e09s06_jdg_2aed7fe2:
 
     # mh "Perfect timing. I was just about to refresh our drinks. Mind keeping the Judge company while I'm gone?"
-    mh "Perfect timing. I was just about to refresh our drinks. Mind keeping the Judge company while I'm gone?"
+    mh "来得正是时候。我正要给我们的饮料续杯。我不在的时候，你能陪着法官吗？"
 
 # game/code/e09/e09s06.rpy:456
 translate chinese e09s06_jdg_caa62c4f:
 
     # mc "Yeah, not a problem at all!"
-    mc "Yeah, not a problem at all!"
+    mc "好啊，一点问题都没有！"
 
 # game/code/e09/e09s06.rpy:460
 translate chinese e09s06_jdg_eacf281f:
 
     # mc "I have to say, I'm a little surprised to see you here."
-    mc "I have to say, I'm a little surprised to see you here."
+    mc "我不得不说，在这里见到你我有点惊讶。"
 
 # game/code/e09/e09s06.rpy:461
 translate chinese e09s06_jdg_4d8a096e:
 
     # jdg "Mmmm, and why's that?"
-    jdg "Mmmm, and why's that?"
+    jdg "嗯，为什么呢？"
 
 # game/code/e09/e09s06.rpy:463
 translate chinese e09s06_jdg_78355d40:
 
     # mc "Well, this is your first Fetish Locator party, isn't it?"
-    mc "Well, this is your first Fetish Locator party, isn't it?"
+    mc "这是你第一次参加性趣探测器派对，对吧？"
 
 # game/code/e09/e09s06.rpy:464
 translate chinese e09s06_jdg_3909457a:
 
     # jdg "It is!"
-    jdg "It is!"
+    jdg "是的！"
 
 # game/code/e09/e09s06.rpy:466
 translate chinese e09s06_jdg_775ae4d9:
 
     # mc "Just... an odd time to be trying it out, kind of."
-    mc "Just... an odd time to be trying it out, kind of."
+    mc "只是...在这个时候来体验派对，有点奇怪。"
 
 # game/code/e09/e09s06.rpy:467
 translate chinese e09s06_jdg_f0f31325:
 
     # jdg "What, because of the rebrand, new management, that stuff?"
-    jdg "What, because of the rebrand, new management, that stuff?"
+    jdg "怎么，因为品牌重塑，新的管理层变动之类的因素吗？"
 
 # game/code/e09/e09s06.rpy:468
 translate chinese e09s06_jdg_ff380beb:
 
     # mc "Yep, that stuff. Especially with how familiar you are with the court case surrounding the... former owner."
-    mc "Yep, that stuff. Especially with how familiar you are with the court case surrounding the... former owner."
+    mc "是的，就是那些东西。尤其是考虑到你对围绕着...应用前任管理员的法庭案件的熟悉程度而言。"
 
 # game/code/e09/e09s06.rpy:470
 translate chinese e09s06_jdg_621b9218:
 
     # jdg "That I do. So I know what to look for."
-    jdg "That I do. So I know what to look for."
+    jdg "我确实很熟悉。所以我知道我要找什么。"
 
 # game/code/e09/e09s06.rpy:471
 translate chinese e09s06_jdg_57a9af52:
 
     # jdg "But, our mutual acquaintance has only said positive things about you and the new team running things."
-    jdg "But, our mutual acquaintance has only said positive things about you and the new team running things."
+    jdg "但是，我们共同的熟人对你和新团队的运作说的全部都是好话。"
 
 # game/code/e09/e09s06.rpy:473
 translate chinese e09s06_jdg_8075e0c3:
 
     # jdg "And I think I can have a little bit of fun here too."
-    jdg "And I think I can have a little bit of fun here too."
+    jdg "我想我在这里也能找到一点乐趣。"
 
 # game/code/e09/e09s06.rpy:474
 translate chinese e09s06_jdg_459aacbf:
 
     # mc "I don't think-"
-    mc "I don't think-"
+    mc "我不认为--"
 
 # game/code/e09/e09s06.rpy:476
 translate chinese e09s06_jdg_95d8cfbf:
 
     # jdg "Not my usual thing, of course, but I think I could get a good, rough fucking here."
-    jdg "Not my usual thing, of course, but I think I could get a good, rough fucking here."
+    jdg "当然，这不是我平时会做的事，但我想我可以在这里好好干上一炮。"
 
 # game/code/e09/e09s06.rpy:477
 translate chinese e09s06_jdg_addefb19:
 
     # jdg "Especially from a vicious brute like you."
-    jdg "Especially from a vicious brute like you."
+    jdg "尤其是从你这样一个凶猛的家伙那里。"
 
 # game/code/e09/e09s06.rpy:479
 translate chinese e09s06_jdg_023b5e2a:
 
     # mc "I don't know if-"
-    mc "I don't know if-"
+    mc "我不知道是不是--"
 
 # game/code/e09/e09s06.rpy:480
 translate chinese e09s06_jdg_51c6de4f:
 
     # jdg "Quiet, don't ruin this for me."
-    jdg "Quiet, don't ruin this for me."
+    jdg "安静，别毁了我的兴致。"
 
 # game/code/e09/e09s06.rpy:482
 translate chinese e09s06_jdg_780ec885:
 
     # jdg "I can imagine it, you, with your nice hard cock... fucking me. Mercilessly. Your shaft disappearing into my asshole."
-    jdg "I can imagine it, you, with your nice hard cock... fucking me. Mercilessly. Your shaft disappearing into my asshole."
+    jdg "我能想象得到，你，还有你那漂亮的硬鸡巴...操着我。毫不留情地操我。你的鸡巴插入我的屁眼，消失在两瓣中间。"
 
 # game/code/e09/e09s06.rpy:483
 translate chinese e09s06_jdg_2480c9fe:
 
     # jdg "Pounding into me, harder, and harder... it hurts, but hurts {i}so good...{/i} Your balls slapping into me as you jackhammer your dick, cumming inside my asshole, filling me up-"
-    jdg "Pounding into me, harder, and harder... it hurts, but hurts {i}so good...{/i} Your balls slapping into me as you jackhammer your dick, cumming inside my asshole, filling me up-"
+    jdg "你用力地撞击我，越来越用力...我很疼，但疼得{i}很爽...{/i}你的蛋蛋拍打着我，柱身撞击着我，在我屁眼里射精，把我填满--"
 
 # game/code/e09/e09s06.rpy:487
 translate chinese e09s06_jdg_10bafb80:
 
     # mh "Sorry, hope I'm not interrupting you two."
-    mh "Sorry, hope I'm not interrupting you two."
+    mh "对不起，希望我没有打扰到你们俩。"
 
 # game/code/e09/e09s06.rpy:488
 translate chinese e09s06_jdg_067c67a3:
 
     # jdg "Oh no! Not at all!"
-    jdg "Oh no! Not at all!"
+    jdg "哦，没啊！才没有呢！"
 
 # game/code/e09/e09s06.rpy:490
 translate chinese e09s06_jdg_8bd74ac0:
 
     # mc "Nope, definitely not interrupting, at all."
-    mc "Nope, definitely not interrupting, at all."
+    mc "不，绝对不打扰，一点也没有。"
 
 # game/code/e09/e09s06.rpy:491
 translate chinese e09s06_jdg_4911accd:
 
     # mh "Good! Here is your drink, Judge."
-    mh "Good! Here is your drink, Judge."
+    mh "那就好！这是你的酒，法官。"
 
 # game/code/e09/e09s06.rpy:493
 translate chinese e09s06_jdg_7422259f:
 
     # jdg "Thank you!"
-    jdg "Thank you!"
+    jdg "谢谢你！"
 
 # game/code/e09/e09s06.rpy:494
 translate chinese e09s06_jdg_abada4c3:
 
     # mc "Well, I hate to leave you two, but there are more guests to attend to."
-    mc "Well, I hate to leave you two, but there are more guests to attend to."
+    mc "好吧，我不想离开你们两个，但那边还有更多的客人要招待。"
 
 # game/code/e09/e09s06.rpy:496
 translate chinese e09s06_jdg_a5f365d6:
 
     # mh "Of course! You've been an excellent host, [mcname]. I'd hate to keep you from your adoring fans."
-    mh "Of course! You've been an excellent host, [mcname]. I'd hate to keep you from your adoring fans."
+    mh "当然！你是个很棒的主人，[mcname]。我不想让你远离仰慕你的粉丝。"
 
 # game/code/e09/e09s06.rpy:507
 translate chinese e09s06_tm_153c52c7:
 
     # mc "Hey, Talia! It's been awhile."
-    mc "Hey, Talia! It's been awhile."
+    mc "嘿，塔莉娅！有一段时间了。"
 
 # game/code/e09/e09s06.rpy:508
 translate chinese e09s06_tm_b12d888a:
 
     # tm "Yeah, probably since the last party."
-    tm "Yeah, probably since the last party."
+    tm "是啊，最近一次见面大概是上次派对了。"
 
 # game/code/e09/e09s06.rpy:510
 translate chinese e09s06_tm_cbd16d86:
 
     # mc "Uh huh. That one was pretty wild, right?"
-    mc "Uh huh. That one was pretty wild, right?"
+    mc "嗯哼。那次很疯狂，对吧？"
 
 # game/code/e09/e09s06.rpy:511
 translate chinese e09s06_tm_8f2b5929:
 
     # tm "It was... that it was."
-    tm "It was... that it was."
+    tm "那次...正是呢。"
 
 # game/code/e09/e09s06.rpy:513
 translate chinese e09s06_tm_364879f6:
 
     # mc "So what have you been up to since then?"
-    mc "So what have you been up to since then?"
+    mc "那从那以后你都在忙什么呢？"
 
 # game/code/e09/e09s06.rpy:514
 translate chinese e09s06_tm_906c499d:
 
     # tm "Well, the school year finished up, got a little summer gig. Nothing too crazy."
-    tm "Well, the school year finished up, got a little summer gig. Nothing too crazy."
+    tm "嗯，学年结束了，我得到了一份小小的暑期工作。没什么太疯狂的事。"
 
 # game/code/e09/e09s06.rpy:516
 translate chinese e09s06_tm_cf1adef2:
 
     # mc "Yeah."
-    mc "Yeah."
+    mc "这样啊。"
 
 # game/code/e09/e09s06.rpy:517
 translate chinese e09s06_tm_ae33d7ff:
 
     # tm "Sounds like you've had a bit more of a crazy summer though."
-    tm "Sounds like you've had a bit more of a crazy summer though."
+    tm "听起来你倒是过了一个疯狂的夏天啊。"
 
 # game/code/e09/e09s06.rpy:519
 translate chinese e09s06_tm_193f5899:
 
     # mc "Just a little bit... with the start up, and the-"
-    mc "Just a little bit... with the start up, and the-"
+    mc "有一点点吧...创业的事，还有--"
 
 # game/code/e09/e09s06.rpy:520
 translate chinese e09s06_tm_e047694a:
 
     # tm "Lydia's trial."
-    tm "Lydia's trial."
+    tm "莉迪亚的审判。"
 
 # game/code/e09/e09s06.rpy:521
 translate chinese e09s06_tm_529bb5d0:
 
     # mc "Uhm... yep. It's been pretty nuts to watch on the news."
-    mc "Uhm... yep. It's been pretty nuts to watch on the news."
+    mc "嗯...是的。看新闻的时候真是太疯狂了。"
 
 # game/code/e09/e09s06.rpy:523
 translate chinese e09s06_tm_e96c2eba:
 
     # tm "There's so much information coming out, with the servers, and the app, and... did you know about any of that stuff?"
-    tm "There's so much information coming out, with the servers, and the app, and... did you know about any of that stuff?"
+    tm "爆出来好多消息，服务器，应用程序，还有...你知道这些事吗？"
 
 # game/code/e09/e09s06.rpy:524
 translate chinese e09s06_tm_ae73f5de:
 
     # mc "I've... pretty much just seen what's on the news. That there was some shady stuff happening behind the scenes, that Lydia was behind it all, the whole 'retention program' being kind of super illegal..."
-    mc "I've... pretty much just seen what's on the news. That there was some shady stuff happening behind the scenes, that Lydia was behind it all, the whole 'retention program' being kind of super illegal..."
+    mc "我...我只是看了新闻而已。我知道幕后发生了一些见不得人的事情，莉迪亚是幕后主使，整个‘留存计划’都是超级非法的..."
 
 # game/code/e09/e09s06.rpy:525
 translate chinese e09s06_tm_0d8c912b:
 
     # tm "Yeah, that's wild."
-    tm "Yeah, that's wild."
+    tm "是啊，太疯狂了。"
 
 # game/code/e09/e09s06.rpy:527
 translate chinese e09s06_tm_99be7014:
 
     # mc "I have to say though, I never thought I'd see you here."
-    mc "I have to say though, I never thought I'd see you here."
+    mc "不过我得说，我从没想过会在这里见到你。"
 
 # game/code/e09/e09s06.rpy:528
 translate chinese e09s06_tm_53463c39:
 
     # tm "What can I say? I did always really enjoy these."
-    tm "What can I say? I did always really enjoy these."
+    tm "我能说什么呢？我一直都很喜欢这些。"
 
 # game/code/e09/e09s06.rpy:530
 translate chinese e09s06_tm_4e40cb16:
 
     # tm "Especially when you were there."
-    tm "Especially when you were there."
+    tm "尤其是当你在现场的时候。"
 
 # game/code/e09/e09s06.rpy:531
 translate chinese e09s06_tm_8db08738:
 
     # mc "Oh, well, what can I say? I just know how to liven up the place."
-    mc "Oh, well, what can I say? I just know how to liven up the place."
+    mc "哦，好吧，我还能说什么呢？我只知道如何让这个地方活跃起来。"
 
 # game/code/e09/e09s06.rpy:533
 translate chinese e09s06_tm_254e2cbe:
 
     # tm "I'll say..."
-    tm "I'll say..."
+    tm "我深有同感..."
 
 # game/code/e09/e09s06.rpy:534
 translate chinese e09s06_tm_d710b762:
 
     # mc "Well, uhm-"
-    mc "Well, uhm-"
+    mc "哦，嗯..."
 
 # game/code/e09/e09s06.rpy:536
 translate chinese e09s06_tm_877b9750:
 
     # tm "I... I know I was sounding a little stand offish, it's just kind of been a long summer... But I do think it's super cool what you're doing with Fetish Locator Rebooted."
-    tm "I... I know I was sounding a little stand offish, it's just kind of been a long summer... But I do think it's super cool what you're doing with Fetish Locator Rebooted."
+    tm "我...我知道我听起来有点冷淡，只是这个夏天太漫长了...但我确实认为你们的重启之性趣探测器非常酷。"
 
 # game/code/e09/e09s06.rpy:538
 translate chinese e09s06_tm_582c892d:
 
     # mc "Thank you, Talia."
-    mc "Thank you, Talia."
+    mc "谢谢你，塔莉娅。"
 
 # game/code/e09/e09s06.rpy:539
 translate chinese e09s06_tm_eb3ab090:
 
     # tm "I definitely hope that this isn't the last party that happens."
-    tm "I definitely hope that this isn't the last party that happens."
+    tm "我绝对希望这不是最后一次聚会。"
 
 # game/code/e09/e09s06.rpy:541
 translate chinese e09s06_tm_aa6adb89:
 
     # mc "Hey, if things go according to plan - it won't be."
-    mc "Hey, if things go according to plan - it won't be."
+    mc "嘿，如果一切按计划进行，那应该不会。"
 
 # game/code/e09/e09s06.rpy:542
 translate chinese e09s06_tm_4c1f6f9d:
 
     # tm "Good."
-    tm "Good."
+    tm "那就好。"
 
 # game/code/e09/e09s06.rpy:544
 translate chinese e09s06_tm_5d248130:
 
     # mc "Enjoy the party. Gotta make sure I say 'hello' to everyone."
-    mc "Enjoy the party. Gotta make sure I say 'hello' to everyone."
+    mc "好好享受派对吧。我得确保跟每个人都打了招呼。"
 
 # game/code/e09/e09s06.rpy:545
 translate chinese e09s06_tm_acbd71d9:
 
     # tm "Have fun, [mcname]."
-    tm "Have fun, [mcname]."
+    tm "玩得开心，[mcname]。"
 
 # game/code/e09/e09s06.rpy:554
 translate chinese e09s06_part_2_continue_38810eed:
 
     # mct "I should probably start getting ready for the main event..."
-    mct "I should probably start getting ready for the main event..."
+    mct "我应该开始为主活动做准备了..."
 
 # game/code/e09/e09s06.rpy:555
 translate chinese e09s06_part_2_continue_902d1357:
 
     # mct "Event though AmRose and Stacy told me absolutely nothing about what I was going to be doing."
-    mct "Event though AmRose and Stacy told me absolutely nothing about what I was going to be doing."
+    mct "不过，爱洛丝和史黛西完全没有告诉我我要做什么。"
 
 # game/code/e09/e09s06.rpy:557
 translate chinese e09s06_part_2_continue_48f637de:
 
     # mct "Except that I should be ready for a 'fuck-a-thon'... Which sounds pretty intense."
-    mct "Except that I should be ready for a 'fuck-a-thon'... Which sounds pretty intense."
+    mct "她们只说了我应该准备好‘操逼马拉松’...这听起来相当激烈啊。"
 
 # game/code/e09/e09s06.rpy:558
 translate chinese e09s06_part_2_continue_39c1a8e4:
 
     # mct "Well... here goes nothing!"
-    mct "Well... here goes nothing!"
+    mct "嗯...这里什么也没有！"
 
 # game/code/e09/e09s06.rpy:569
 translate chinese e09s06_part_3_8baf4c74:
 
     # arj "Good evening, everyone! Thank you so much for coming out to the first ever party for Fetish Locator Rebooted!"
-    arj "Good evening, everyone! Thank you so much for coming out to the first ever party for Fetish Locator Rebooted!"
+    arj "大家晚上好！非常感谢你们来参加性趣探测器重启的第一个派对！"
 
 # game/code/e09/e09s06.rpy:570
 translate chinese e09s06_part_3_0e9501a9:
 
     # "Everyone" "WOOOOOOOO!!!"
-    "Everyone" "WOOOOOOOO!!!"
+    "大家" "喔喔喔!!!"
 
 # game/code/e09/e09s06.rpy:572
 translate chinese e09s06_part_3_7cf3bb31:
 
     # sy "We can't tell you how much it means to us that you're all here. Seriously, this is better than we could have ever hoped for!"
-    sy "We can't tell you how much it means to us that you're all here. Seriously, this is better than we could have ever hoped for!"
+    sy "你们的到来对我们来说意义重大。说真的，现场的热烈程度比我们预想的还要好！"
 
 # game/code/e09/e09s06.rpy:573
 translate chinese e09s06_part_3_787adaa6:
 
     # arj "We have a ton of festivities planned tonight, for those of you who haven't already indulged! But, it's time to get into our main event!"
-    arj "We have a ton of festivities planned tonight, for those of you who haven't already indulged! But, it's time to get into our main event!"
+    arj "对于那些还没有沉浸其中的人来说，我们今晚计划了很多庆祝活动！但是，是时候进入我们的主活动了！"
 
 # game/code/e09/e09s06.rpy:575
 translate chinese e09s06_part_3_32387355:
 
     # sy "Being just a small, little start up - our first party has a {i}special{/i} event planned."
-    sy "Being just a small, little start up - our first party has a {i}special{/i} event planned."
+    sy "作为一个小小的创业公司，我们的第一个派对计划了一个{i}特别的{/i}活动。"
 
 # game/code/e09/e09s06.rpy:577
 translate chinese e09s06_part_3_b00fea3e:
 
     # arj "This is our dear [mcname], who most of you know and love!"
-    arj "This is our dear [mcname], who most of you know and love!"
+    arj "这是我们亲爱的[mcname]，你们大多数人都认识并爱着他！"
 
 # game/code/e09/e09s06.rpy:578
 translate chinese e09s06_part_3_9ff67e19:
 
     # sy "And tonight, a special few of you are going to have the chance to have some fun with him! Right here, right now!"
-    sy "And tonight, a special few of you are going to have the chance to have some fun with him! Right here, right now!"
+    sy "今晚，你们中的少数人将有机会和他一起玩乐！就在这里，就在此刻！"
 
 # game/code/e09/e09s06.rpy:580
 translate chinese e09s06_part_3_f95e14cf:
 
     # arj "Tonight's main event is a sort of auction, to spend some public sexy time with [mcname]."
-    arj "Tonight's main event is a sort of auction, to spend some public sexy time with [mcname]."
+    arj "今晚的主要活动是一场拍卖，与[mcname]共度一段公开的性感时光。"
 
 # game/code/e09/e09s06.rpy:581
 translate chinese e09s06_part_3_10b41a72:
 
     # arj "Just starting out, we are looking for every donor we can to help keep our dream going."
-    arj "Just starting out, we are looking for every donor we can to help keep our dream going."
+    arj "我们刚刚起步，所以正在寻找每一个捐赠者。来帮助我们的梦想继续下去。"
 
 # game/code/e09/e09s06.rpy:583
 translate chinese e09s06_part_3_409f0fd3:
 
     # sy "So the way the auction will work, is that you can start screaming out donations - we're looking to raise $10,000."
-    sy "So the way the auction will work, is that you can start screaming out donations - we're looking to raise $10,000."
+    sy "所以拍卖的方式是，你可以开始大声捐款--我们希望筹集1万美元。"
 
 # game/code/e09/e09s06.rpy:584
 translate chinese e09s06_part_3_3e7699cb:
 
     # sy "That money will go to servers, UI development, improving hardware-"
-    sy "That money will go to servers, UI development, improving hardware-"
+    sy "这笔钱将用于服务器、用户界面开发、硬件改进--"
 
 # game/code/e09/e09s06.rpy:586
 translate chinese e09s06_part_3_c23e08a6:
 
     # arj "Along with that, that money will be invested into being able to do more events like this!"
-    arj "Along with that, that money will be invested into being able to do more events like this!"
+    arj "除此之外，这些钱还将投入到更多类似的活动中！"
 
 # game/code/e09/e09s06.rpy:588
 translate chinese e09s06_part_3_7bdb3618:
 
     # sy "But only if we reach our goal. If we don't... than our poor stud will only have himself to play with tonight."
-    sy "But only if we reach our goal. If we don't... than our poor stud will only have himself to play with tonight."
+    sy "但前提是我们必须达到目标。如果达不到...我们可怜的种马今晚就只能和自己玩了。"
 
 # game/code/e09/e09s06.rpy:590
 translate chinese e09s06_part_3_800302ad:
 
     # arj "So - who would like to begin the bidding?"
-    arj "So - who would like to begin the bidding?"
+    arj "好了--谁想开始竞价？"
 
 # game/code/e09/e09s06.rpy:594
 translate chinese e09s06_part_3_ad68d355:
 
     # mct "All right, now we just have to hope this works... Please, let this work!"
-    mct "All right, now we just have to hope this works... Please, let this work!"
+    mct "好吧，现在我们只希望这能成功了...拜托上天，让它成功吧！"
 
 # game/code/e09/e09s06.rpy:595
 translate chinese e09s06_part_3_8e3a1c1b:
 
     # mct "Uh oh... it's too quiet. What are we going to do if no one donates?"
-    mct "Uh oh... it's too quiet. What are we going to do if no one donates?"
+    mct "哦...太安静了。如果没人捐款，我们该怎么办？"
 
 # game/code/e09/e09s06.rpy:596
 translate chinese e09s06_part_3_e001556b:
 
     # mct "Is Fetish Locator Rebooted really going to die before it even gets a chance to live?"
-    mct "Is Fetish Locator Rebooted really going to die before it even gets a chance to live?"
+    mct "重启之性趣探测器该不会在获得机会活下去之前就夭折吧？"
 
 # game/code/e09/e09s06.rpy:598
 translate chinese e09s06_part_3_2ae4ccc2:
 
     # "???" "Five hundred dollars!"
-    "???" "Five hundred dollars!"
+    "???" "五百美元！"
 
 # game/code/e09/e09s06.rpy:599
 translate chinese e09s06_part_3_15edbe28:
 
     # mct "Wait! Who said that!?"
-    mct "Wait! Who said that!?"
+    mct "等等，这是谁说的!?"
 
 # game/code/e09/e09s06.rpy:601
 translate chinese e09s06_part_3_501684c1:
 
     # lo "I'll put down five hundred bucks! His dick is worth that alone!"
-    lo "I'll put down five hundred bucks! His dick is worth that alone!"
+    lo "我出五百块！他的小弟弟值这个价！"
 
 # game/code/e09/e09s06.rpy:602
 translate chinese e09s06_part_3_49e0b9aa:
 
     # hr "And I'll match her bid!"
-    hr "And I'll match her bid!"
+    hr "我跟她出价！"
 
 # game/code/e09/e09s06.rpy:604
 translate chinese e09s06_part_3_153719a7:
 
     # arj "That's a thousand down! The first one is always the worst!"
-    arj "That's a thousand down! The first one is always the worst!"
+    arj "那就是一千块了！第一个总是最差的！"
 
 # game/code/e09/e09s06.rpy:605
 translate chinese e09s06_part_3_8b38a9a0:
 
     # sy "Come on, don't be shy! We all want a chance to fuck [mcname] tonight!"
-    sy "Come on, don't be shy! We all want a chance to fuck [mcname] tonight!"
+    sy "来吧，别害羞！我们今晚都想有机会干[mcname]！"
 
 # game/code/e09/e09s06.rpy:607
 translate chinese e09s06_part_3_61eaed39:
@@ -1898,67 +1898,67 @@ translate chinese e09s06_part_3_e856ac3e:
 translate chinese e09s06_part_3_8771642b:
 
     # kb "Shit, I'll do another $200!"
-    kb "Shit, I'll do another $200!"
+    kb "妈的，我再加200美元！"
 
 # game/code/e09/e09s06.rpy:613
 translate chinese e09s06_part_3_a5a45ae4:
 
     # mk "$300 for that dick!"
-    mk "$300 for that dick!"
+    mk "300美元买那个鸡巴！"
 
 # game/code/e09/e09s06.rpy:614
 translate chinese e09s06_part_3_d2b47255:
 
     # ah "I'll put up $300 too!"
-    ah "I'll put up $300 too!"
+    ah "我也出300美元！"
 
 # game/code/e09/e09s06.rpy:616
 translate chinese e09s06_part_3_7b68800c:
 
     # tr "Hey!"
-    tr "Hey!"
+    tr "嘿！"
 
 # game/code/e09/e09s06.rpy:617
 translate chinese e09s06_part_3_0ae3f307:
 
     # ah "Quiet, Tyrell. Don't act like you're not going to watch [mcname] fuck me."
-    ah "Quiet, Tyrell. Don't act like you're not going to watch [mcname] fuck me."
+    ah "安静，特雷尔。别装得好像你不打算看[mcname]操我似的。"
 
 # game/code/e09/e09s06.rpy:618
 translate chinese e09s06_part_3_b2aa17db:
 
     # tr "I-... Yeah..."
-    tr "I-... Yeah..."
+    tr "我--...是啊..."
 
 # game/code/e09/e09s06.rpy:620
 translate chinese e09s06_part_3_75836a6e:
 
     # "???" "A thousand dollars."
-    "???" "A thousand dollars."
+    "???" "一千美元。"
 
 # game/code/e09/e09s06.rpy:621
 translate chinese e09s06_part_3_9af50e64:
 
     # arj "Wow! Thank you... Whoever just bid a thousand!"
-    arj "Wow! Thank you... Whoever just bid a thousand!"
+    arj "哇！谢谢...是谁出价一千！"
 
 # game/code/e09/e09s06.rpy:622
 translate chinese e09s06_part_3_6debc8be:
 
     # sy "Yeah! Who is our highest bidder so far?"
-    sy "Yeah! Who is our highest bidder so far?"
+    sy "是啊！目前出价最高的是哪位呢？"
 
 # game/code/e09/e09s06.rpy:624
 translate chinese e09s06_part_3_16353084:
 
     # cl "That would be me."
-    cl "That would be me."
+    cl "是我。"
 
 # game/code/e09/e09s06.rpy:625
 translate chinese e09s06_part_3_8b6b0684:
 
     # mct "Holy shit, I did {u}not{/u} expect that from Lewald."
-    mct "Holy shit, I did {u}not{/u} expect that from Lewald."
+    mct "我靠，{u}没想到{/u}卢瓦尔德会出价这么高。"
 
 # game/code/e09/e09s06.rpy:626
 translate chinese e09s06_part_3_174c8f52:
@@ -1970,199 +1970,199 @@ translate chinese e09s06_part_3_174c8f52:
 translate chinese e09s06_part_3_4721c4f7:
 
     # mc "Allison! I was wondering where you were!"
-    mc "Allison! I was wondering where you were!"
+    mc "艾莉森！我还在想你在哪儿呢！"
 
 # game/code/e09/e09s06.rpy:629
 translate chinese e09s06_part_3_a3aaee3c:
 
     # aw "Running a company ain't easy."
-    aw "Running a company ain't easy."
+    aw "经营一家公司不容易。"
 
 # game/code/e09/e09s06.rpy:631
 translate chinese e09s06_part_3_5e109b9c:
 
     # mc "But come on, I can't let you donate! You work here."
-    mc "But come on, I can't let you donate! You work here."
+    mc "但拜托，我不能让你捐款，你在这里工作。"
 
 # game/code/e09/e09s06.rpy:632
 translate chinese e09s06_part_3_b3151ff4:
 
     # aw "Strictly speaking, it's not from me."
-    aw "Strictly speaking, it's not from me."
+    aw "严格来说，这不是我捐的。"
 
 # game/code/e09/e09s06.rpy:634
 translate chinese e09s06_part_3_dfa0697c:
 
     # mc "Oh, than who-?"
-    mc "Oh, than who-?"
+    mc "哦，那是谁--？"
 
 # game/code/e09/e09s06.rpy:635
 translate chinese e09s06_part_3_61b6af3e:
 
     # aw "That's a story for a different time. Right now, we've got an auction to run!"
-    aw "That's a story for a different time. Right now, we've got an auction to run!"
+    aw "那是以后的事了。现在，我们有一场拍卖会要办！"
 
 # game/code/e09/e09s06.rpy:636
 translate chinese e09s06_part_3_25346fd0:
 
     # mc "Oh shit! That's right!"
-    mc "Oh shit! That's right!"
+    mc "哦，该死！没错！"
 
 # game/code/e09/e09s06.rpy:638
 translate chinese e09s06_part_3_b78b779a:
 
     # sy "AmRose and I have also both decided to put in $500! Which brings us to the halfway mark!"
-    sy "AmRose and I have also both decided to put in $500! Which brings us to the halfway mark!"
+    sy "我和AmRose也都决定投入500美元！这样我们就完成了一半的任务！"
 
 # game/code/e09/e09s06.rpy:639
 translate chinese e09s06_part_3_b41dbd9c:
 
     # arj "We're doing great so far, we just need a little more to get us to the top! Who else would like to bid?"
-    arj "We're doing great so far, we just need a little more to get us to the top! Who else would like to bid?"
+    arj "目前我们做得很好，只需要再多一点就能达到顶峰！还有谁愿意出价？"
 
 # game/code/e09/e09s06.rpy:641
 translate chinese e09s06_part_3_5c08cb4a:
 
     # mct "Uh oh... We were doing so well. Come on, we just need a few more bids..."
-    mct "Uh oh... We were doing so well. Come on, we just need a few more bids..."
+    mct "哦...我们做得很好。来吧，我们还需要一些投标..."
 
 # game/code/e09/e09s06.rpy:642
 translate chinese e09s06_part_3_644131ea:
 
     # mct "Come on, there has to be someone else who wants to bid..."
-    mct "Come on, there has to be someone else who wants to bid..."
+    mct "拜托，肯定还有人想出价的..."
 
 # game/code/e09/e09s06.rpy:644
 translate chinese e09s06_part_3_34bfb492:
 
     # arj "Anyone else?"
-    arj "Anyone else?"
+    arj "还有人吗？"
 
 # game/code/e09/e09s06.rpy:645
 translate chinese e09s06_part_3_52dae0d4:
 
     # mct "Oh God... fuck. Fuck, fuck, fuck."
-    mct "Oh God... fuck. Fuck, fuck, fuck."
+    mct "哦，天哪...操，操，操。"
 
 # game/code/e09/e09s06.rpy:647
 translate chinese e09s06_part_3_96e75245:
 
     # sy "Going once?"
-    sy "Going once?"
+    sy "那就一次？"
 
 # game/code/e09/e09s06.rpy:648
 translate chinese e09s06_part_3_67b0897c:
 
     # arj "Twice?"
-    arj "Twice?"
+    arj "两次？"
 
 # game/code/e09/e09s06.rpy:649
 translate chinese e09s06_part_3_e3430734:
 
     # mct "This is it..."
-    mct "This is it..."
+    mct "就这样了..."
 
 # game/code/e09/e09s06.rpy:651
 translate chinese e09s06_part_3_f2efba4a:
 
     # jdg "Fuck it, $5,000!"
-    jdg "Fuck it, $5,000!"
+    jdg "操，5000美元！"
 
 # game/code/e09/e09s06.rpy:653
 translate chinese e09s06_part_3_40de551a:
 
     # mc "What!?!"
-    mc "What!?!"
+    mc "什么!?!"
 
 # game/code/e09/e09s06.rpy:654
 translate chinese e09s06_part_3_cc8f5506:
 
     # jdg "I want to have fun just as much as everyone else!"
-    jdg "I want to have fun just as much as everyone else!"
+    jdg "我和大家一样想玩得开心！"
 
 # game/code/e09/e09s06.rpy:656
 translate chinese e09s06_part_3_03d59e1e:
 
     # sy "Does that mean..."
-    sy "Does that mean..."
+    sy "这是不是意味着..."
 
 # game/code/e09/e09s06.rpy:657
 translate chinese e09s06_part_3_2bc35103:
 
     # arj "We made it! We reached our goal!"
-    arj "We made it! We reached our goal!"
+    arj "我们成功了！我们达到目标了！"
 
 # game/code/e09/e09s06.rpy:659
 translate chinese e09s06_part_3_27899f88:
 
     # sy "Holy shit! We actually did it!"
-    sy "Holy shit! We actually did it!"
+    sy "我靠我靠！我们真的做到了！"
 
 # game/code/e09/e09s06.rpy:660
 translate chinese e09s06_part_3_6484d21b:
 
     # aw "Not quite yet, you two."
-    aw "Not quite yet, you two."
+    aw "还没完呢，你们俩。"
 
 # game/code/e09/e09s06.rpy:662
 translate chinese e09s06_part_3_6aff02b1:
 
     # aw "First, our man here has to fulfill his part of the deal."
-    aw "First, our man here has to fulfill his part of the deal."
+    aw "首先，我们的主角要完成他的任务。"
 
 # game/code/e09/e09s06.rpy:663
 translate chinese e09s06_part_3_bda6dce1:
 
     # sy "That's right! [mcname], it's time to get to fucking!"
-    sy "That's right! [mcname], it's time to get to fucking!"
+    sy "没错！[mcname]，是时候开始做爱了！"
 
 # game/code/e09/e09s06.rpy:665
 translate chinese e09s06_part_3_4a8f1473:
 
     # sy "All right! Who wants to go first!?"
-    sy "All right! Who wants to go first!?"
+    sy "好吧，谁想先来!?"
 
 # game/code/e09/e09s06.rpy:666
 translate chinese e09s06_part_3_41ecc1f0:
 
     # arj "I think it's only fair that Londyn and Hana start off the festivities, as they were the first to bid!"
-    arj "I think it's only fair that Londyn and Hana start off the festivities, as they were the first to bid!"
+    arj "我认为由朗迪恩和哈娜开始庆祝才公平，因为她们是第一个出价的！"
 
 # game/code/e09/e09s06.rpy:668
 translate chinese e09s06_part_3_12ccb7bd:
 
     # sy "Sounds fair to me!"
-    sy "Sounds fair to me!"
+    sy "听起来很公平！"
 
 translate chinese strings:
 
     # game/code/e09/e09s06.rpy:9
     old "PARTY NIGHT!"
-    new "PARTY NIGHT!"
+    new "派对之夜！"
 
     # game/code/e09/e09s06.rpy:305
     old "Talk to Kevin and Chloe"
-    new "Talk to Kevin and Chloe"
+    new "与凯文和克洛伊交谈"
 
     # game/code/e09/e09s06.rpy:305
     old "Talk to Aleyah and Tyrell"
-    new "Talk to Aleyah and Tyrell"
+    new "与艾蕾亚和特雷尔交谈"
 
     # game/code/e09/e09s06.rpy:305
     old "Talk to the Judge"
-    new "Talk to the Judge"
+    new "与法官交谈"
 
     # game/code/e09/e09s06.rpy:305
     old "Talk to Talia"
-    new "Talk to Talia"
+    new "与塔莉娅交谈"
 
     # game/code/e09/e09s06.rpy:305
     old "Get ready for the main event"
-    new "Get ready for the main event"
+    new "为主活动做好准备"
 
 # game/code/e09/e09s06.rpy:586
 translate chinese e09s06_part_3_f20e6459:
 
     # sy "If we raise enough money to reach our goal, then everyone who donated will get a chance to come up here and have some fun with [mcname]!"
-    sy "If we raise enough money to reach our goal, then everyone who donated will get a chance to come up here and have some fun with [mcname]!"
+    sy "如果我们筹集到足够的资金，达到了我们的目标，那么所有捐款的人都将有机会上台来，与 [mcname]一起尽情欢乐！"
 
