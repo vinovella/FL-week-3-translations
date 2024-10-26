@@ -1732,11 +1732,11 @@ translate portuguese strings:
 translate portuguese e15s05_after_menu_1387c466:
 
     # mh "Like I said, [mcname]. I showed her a lot."
-    mh ""
+    mh "Como eu disse, [mcname], ensinei bastante coisa para ela."
 
 # game/code/e15/e15s05.rpy:651
 translate portuguese e15s05_after_menu_7a1b0ad4:
 
     # sy "This is going to be so fun!"
-    sy ""
+    sy "Isso vai ser tão divertido!"
 
