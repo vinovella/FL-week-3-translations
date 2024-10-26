@@ -1438,11 +1438,11 @@ translate portuguese e03s04_9bef14b2:
 translate portuguese e03s04_01eddfbc:
 
     # hp "She is not the first to appear before as goddess of love and wisdom, returned. But she appears the truest, thus far."
-    hp ""
+    hp "Ela não é a primeira a aparecer como o retorno da nossa deusa do amor e sabedoria. Mas até agora, ela parece ser a mais verdadeira."
 
 # game/code/e03/e03s04.rpy:504
 translate portuguese e03s04_0f1ec9d2:
 
     # sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making me pregnant."
-    sy ""
+    sy "Lyssa... Por favor, eu quero que você goze dentro. Quero que me encha todinha e me engravide pro mundo saber que eu pertenço a você."
 
