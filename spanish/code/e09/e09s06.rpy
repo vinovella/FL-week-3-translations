@@ -2145,7 +2145,7 @@ translate spanish strings:
     new "Habla con Kevin y Chloe"
 
     # game/code/e09/e09s06.rpy:305
-    old "Talk to Aleyah and Tyrell"
+    old "Talk to Aaleyah and Tyrell"
     new "Habla con Aleyah y Tyrell"
 
     # game/code/e09/e09s06.rpy:305

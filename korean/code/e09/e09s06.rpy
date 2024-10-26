@@ -2151,8 +2151,8 @@ translate korean strings:
     new "Talk to Kevin and Chloe"
 
     # game/code/e09/e09s06.rpy:456
-    old "Talk to Aleyah and Tyrell"
-    new "Talk to Aleyah and Tyrell"
+    old "Talk to Aaleyah and Tyrell"
+    new "Talk to Aaleyah and Tyrell"
 
     # game/code/e09/e09s06.rpy:456
     old "Talk to the Judge"

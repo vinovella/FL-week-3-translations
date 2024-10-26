@@ -104,7 +104,7 @@ translate chinese dlc_2_postcredits_c26adb8c:
 translate chinese dlc_2_postcredits_56d3ff98:
 
     # sy "Hey!"
-    sy ""嘿！
+    sy "嘿！"
 
 # game/code/e09/post_credit.rpy:53
 translate chinese dlc_2_postcredits_3abe3fb1:

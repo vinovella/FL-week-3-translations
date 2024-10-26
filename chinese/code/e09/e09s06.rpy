@@ -2145,7 +2145,7 @@ translate chinese strings:
     new "与凯文和克洛伊交谈"
 
     # game/code/e09/e09s06.rpy:305
-    old "Talk to Aleyah and Tyrell"
+    old "Talk to Aaleyah and Tyrell"
     new "与艾蕾亚和特雷尔交谈"
 
     # game/code/e09/e09s06.rpy:305

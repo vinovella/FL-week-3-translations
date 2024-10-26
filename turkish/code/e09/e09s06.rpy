@@ -2145,7 +2145,7 @@ translate turkish strings:
     new "Kevin ve Chloe ile konuş"
 
     # game/code/e09/e09s06.rpy:305
-    old "Talk to Aleyah and Tyrell"
+    old "Talk to Aaleyah and Tyrell"
     new "Aleyah ve Tyrell ile konuş"
 
     # game/code/e09/e09s06.rpy:305

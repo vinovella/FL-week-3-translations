@@ -2153,7 +2153,7 @@ translate portuguese strings:
     new "Conversar com Kevin e Chloe"
 
     # game/code/e09/e09s06.rpy:305
-    old "Talk to Aleyah and Tyrell"
+    old "Talk to Aaleyah and Tyrell"
     new "Conversar com Aaleyah e Tyrell"
 
     # game/code/e09/e09s06.rpy:305
