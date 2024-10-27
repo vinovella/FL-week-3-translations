@@ -2136,5 +2136,5 @@ translate chinese strings:
 translate chinese e09s04_8cd3f720:
 
     # "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
-    "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
+    "参议员" "别忘了给我们的朋友寄两张比赛的票。一个给她，一个给小家伙。她会喜欢的。"
 
