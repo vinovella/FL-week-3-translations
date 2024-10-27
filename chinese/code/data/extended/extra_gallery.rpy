@@ -403,7 +403,7 @@ translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "40. Do the Pulp Fiction Thing"
-    new "40. 做低俗小说里的事""
+    new "40. 做低俗小说里的事"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Do the pulp fiction thing (Ending 18)"
