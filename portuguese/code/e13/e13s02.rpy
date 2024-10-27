@@ -372,5 +372,5 @@ translate portuguese e13s02_e5e5853b:
 translate portuguese replay_e13s02_e2a7aa61:
 
     # nk "Actually... You know what? Sit down."
-    nk ""
+    nk "Aliás... Sabe uma coisa? Senta."
 
