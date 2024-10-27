@@ -167,6 +167,5 @@ translate turkish strings:
     old "Kristen"
     new "Kristen"
 
-    old "Baş Rahibe"
-    new "High Priestess"
-
+    old "High Priestess"
+    new "Baş Rahibe"
