@@ -1926,17 +1926,17 @@ translate portuguese strings:
 translate portuguese e05s02_a9f4d0a3:
 
     # op "Taisia Lindquist. She was arrested last night on a charge of drunken disorderly and aggravated assault."
-    op ""
+    op "Taisia Lindquist. Ela foi presa ontem de noite por desordem pública por intoxicação e lesão corporal grave."
 
 # game/code/e05/e05s02.rpy:870
 translate portuguese e05s02_mh_takes_opanalvirginity_4d333980:
 
     # mh "Good, because I feel the same! Your ass is unbelievably tight!"
-    mh ""
+    mh "Ótimo, porque eu também sinto o mesmo! A sua bunda é tão apertada!"
 
 # game/code/e05/e05s02.rpy:880
 translate portuguese e05s02_mh_takes_opanalvirginity_78343072:
 
     # mh "But I think - mmmmmmpph - Between my dick buried in his tight ass, and your wonderful cock in my ass, that I'm the - fuuuuh - real winner!"
-    mh ""
+    mh "Mas eu acho - mmmmmmpph - Entre o meu pau enterrado na bunda dele e o seu pau maravilhoso na minha, eu que - aih, porrhh - saí ganhando!"
 
