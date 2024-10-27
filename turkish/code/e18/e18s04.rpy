@@ -866,7 +866,7 @@ translate turkish e18s04_in_beach_7e77c7cb:
 translate turkish e18s04_in_beach_8498b57e:
 
     # sb "Mmmmmm, {i}shut it{/i}, Dahlia."
-    sb "Mmmmmm, {i}shut it{/i}, Dahlia."
+    sb "Mmmmmm, {i}Kapa çeneni{/i}, Dahlia."
 
 # game/code/e18/e18s04.rpy:636
 translate turkish e18s04_in_beach_4c90584d:
