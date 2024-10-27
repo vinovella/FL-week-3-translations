@@ -2438,5 +2438,5 @@ translate chinese strings:
 translate chinese e18s07_37a31b1b:
 
     # pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
-    pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
+    pb "那可太多了。我的屁股到现在还疼，就因为我叫了黛丽娅的真名后被打了屁股。"
 
