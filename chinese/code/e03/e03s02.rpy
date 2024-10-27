@@ -848,5 +848,5 @@ translate chinese e03s02_39abdb31:
 translate chinese e03s02_4294c82c:
 
     # sw "So during the investigation, the police and private eyes have kept coming up against brick-walls."
-    sw "So during the investigation, the police and private eyes have kept coming up against brick-walls."
+    sw "所以在调查过程中，警方和私家侦探不断碰壁。"
 
