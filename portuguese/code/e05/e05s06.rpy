@@ -1328,17 +1328,17 @@ translate portuguese e05s06_sex_b85a48e2:
 translate portuguese e05s06_57afd79d:
 
     # mh "But, we should maybe hold off on the wedding bells talk. We don't need to give him any more reason to be nervous. Especially today."
-    mh ""
+    mh "Mas talvez seja melhor deixar essa conversa de casamento para depois. Não queremos dar motivos para ele ficar nervoso. Especialmente hoje."
 
 # game/code/e05/e05s06.rpy:390
 translate portuguese e05s06_court_room_db2af079:
 
     # op "We can also establish that this video was at least captured before posting, which would align with my client's, and the plaintiff's, timelines."
-    op ""
+    op "Também podemos provar que no mínimo este vídeo foi gravado antes de ser postado, que se alinha com os depoimentos da minha cliente e do acusador."
 
 # game/code/e05/e05s06.rpy:732
 translate portuguese e05s06_sex_d59042cb:
 
     # mh "Deeper, [mcname], deeper! I want to {i}feel{/i} you tearing apart my ass!"
-    mh ""
+    mh "Mais fundo [mcname], mais fundo! Eu quero {i}sentir{/i} você acabando com a minha bunda!"
 
