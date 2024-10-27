@@ -1430,11 +1430,11 @@ translate portuguese strings:
 translate portuguese e16s05_sex_996fd010:
 
     # mc "This isn't about your pleasure, Kanya..."
-    mc ""
+    mc "Isso não é pro seu prazer, Kanya."
 
 # game/code/e16/e16s05.rpy:781
 translate portuguese e16s05_sex_bb6ea926:
 
     # kv "Mrhmmm... Happy to."
-    kv ""
+    kv "Mrhmmm... Com prazer."
 
