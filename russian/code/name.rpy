@@ -164,3 +164,6 @@ translate russian strings:
     old "Kristen"
     new "Kristen"
 
+    old "High Priestess"
+    new "High Priestess"
+
