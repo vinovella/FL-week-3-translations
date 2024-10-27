@@ -367,121 +367,121 @@ translate chinese strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish Ending 4 and Ending 7"
-    new "Finish Ending 4 and Ending 7"
+    new "F完成结局4和结局7 "
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "36. Don't threaten me with a good time"
-    new "36. Don't threaten me with a good time"
+    new "36. 别拿玩得开心来威胁我。 "
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Finish all 6 Endings from DLC-2"
-    new "Finish all 6 Endings from DLC-2"
+    new "完成DLC-2的全部6个结局 "
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "37. I saw, I came, I conquered"
-    new "37. I saw, I came, I conquered"
+    new "37. 我来，我见，我征服"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Have all Characters in last orgy in Ending 9"
-    new "Have all Characters in last orgy in Ending 9"
+    new "在结局9中，所有角色都在最后一次狂欢"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "38. Golden Pass"
-    new "38. Golden Pass"
+    new "38. 黄金通行证 "
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Have all Characters in Ending 15"
-    new "Have all Characters in Ending 15"
+    new "让所有角色都在结局15"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "39. She belongs in a museum"
-    new "39. She belongs in a museum"
+    new "39. 她应该进博物馆"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Find golden Lyssa (Ending 3)"
-    new "Find golden Lyssa (Ending 3)"
+    new "找到金色的丽莎（结局3） "
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "40. Do the Pulp Fiction Thing"
-    new "40. Do the Pulp Fiction Thing"
+    new "40. 做低俗小说里的事""
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Do the pulp fiction thing (Ending 18)"
-    new "Do the pulp fiction thing (Ending 18)"
+    new "做低俗小说里的事（结局18） "
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "41. Backdoor Cat Girl"
-    new "41. Backdoor Cat Girl"
+    new "41. 猫女的后门"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Backdoor Cat Girl (Ending 16)"
-    new "Backdoor Cat Girl (Ending 16)"
+    new "猫女的后门（结局16）"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "42. Pee Bootcamp"
-    new "42. Pee Bootcamp"
+    new "42. 小便训练营 "
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Begin Olivia's Training"
-    new "Begin Olivia's Training"
+    new "开始奥利维亚的训练 "
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "43. Choo-choo"
-    new "43. Choo-choo"
+    new "43. 性爱火车 "
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Choo-choo (Ending 5)"
-    new "Choo-choo (Ending 5)"
+    new "性爱火车（结局5） "
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "44. Londyn Twice"
-    new "44. Londyn Twice"
+    new "44. 两次朗迪恩 "
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Meet Londyn in Ending 9 and Ending 18"
-    new "Meet Londyn in Ending 9 and Ending 18"
+    new "在结局09和结局18中两次遇见朗迪恩 "
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "45. I've seen all the possible outcomes"
-    new "45. I've seen all the possible outcomes"
+    new "45. 我看到了所有可能的结果。"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Finish all 18 Endings"
-    new "Finish all 18 Endings"
+    new "完成全部18个结局 "
 
     # game/code/data/extended/extra_gallery.rpy:802
     old "SPIT ON THAT THANG!"
-    new "SPIT ON THAT THANG!"
+    new "朝那东西吐口水！"
 
     # game/code/data/extended/extra_gallery.rpy:823
     old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
-    new "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
+    new "当他设法让每个人都来你豪华的新水疗中心时"
 
     # game/code/data/extended/extra_gallery.rpy:845
     old "Fucking\na girl"
-    new "Fucking\na girl"
+    new "操\n一个女孩"
 
     # game/code/data/extended/extra_gallery.rpy:847
     old "Fucking\na catgirl"
-    new "Fucking\na catgirl"
+    new "操\n一个猫女"
 
     # game/code/data/extended/extra_gallery.rpy:861
     old "Hard to\nswallow\npills"
-    new "Hard to\nswallow\npills"
+    new "很难\n吞下\n药丸 "
 
     # game/code/data/extended/extra_gallery.rpy:863
     old "He will never\nrun out of pee"
-    new "He will never\nrun out of pee"
+    new "他的尿永远\n不会用完"
 
     # game/code/data/extended/extra_gallery.rpy:901
     old "NEXT STOP"
-    new "NEXT STOP"
+    new "下一站"
 
     # game/code/data/extended/extra_gallery.rpy:903
     old "PENETRATION STATION"
-    new "PENETRATION STATION"
+    new "抽插站"
 
     # game/code/data/extended/extra_gallery.rpy:917
     old "They don't know that\nI appear in two endings"
-    new "They don't know that\nI appear in two endings"
+    new "他们不知道\n我会出现在两个结局中。"
 
