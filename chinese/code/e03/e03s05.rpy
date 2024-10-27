@@ -1052,5 +1052,5 @@ translate chinese strings:
 translate chinese e03s05_da47c5ea:
 
     # mh "We must honor my return with a celebration! A veritable feast for my arrival!"
-    mh "We must honor my return with a celebration! A veritable feast for my arrival!"
+    mh "我们得庆祝一下我的归来！要为我的到来准备一场真正的盛宴！"
 
