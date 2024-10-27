@@ -258,13 +258,13 @@ translate chinese strings:
 
     # game/code/data/extended/cg_gallery.rpy:69
     old "Ending 03: Girls"
-    new "Ending 03: Girls"
+    new "结局03：女孩们"
 
     # game/code/data/extended/cg_gallery.rpy:96
     old "Ending 09: Girls"
-    new "Ending 09: Girls"
+    new "结局09：女孩们
 
     # game/code/data/extended/cg_gallery.rpy:96
     old "Ending 09: Greek Goddesses"
-    new "Ending 09: Greek Goddesses"
+    new "结局09：希腊女神"
 
