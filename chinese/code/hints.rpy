@@ -1462,25 +1462,25 @@ translate chinese strings:
 
     # game/code/hints.rpy:5
     old "Lyssa will fuck you in the ass."
-    new "Lyssa will fuck you in the ass."
+    new "丽莎会操你的屁股。"
 
     # game/code/hints.rpy:5
     old "Lyssa will not fuck you in the ass."
-    new "Lyssa will not fuck you in the ass."
+    new "丽莎不会操你的屁股。"
 
     # game/code/hints.rpy:5
     old "Watersports scene with Lyssa."
-    new "Watersports scene with Lyssa."
+    new "和丽莎水上运动的场景。"
 
     # game/code/hints.rpy:5
     old "This will skip the watersports scene with Lyssa."
-    new "This will skip the watersports scene with Lyssa."
+    new "这将跳过与丽莎的水上运动场景。"
 
     # game/code/hints.rpy:5
     old "You and Allison fuck the Judge."
-    new "You and Allison fuck the Judge."
+    new "你和艾莉森操法官。"
 
     # game/code/hints.rpy:5
     old "You don't fuck the Judge."
-    new "You don't fuck the Judge."
+    new "你不会操法官。"
 
