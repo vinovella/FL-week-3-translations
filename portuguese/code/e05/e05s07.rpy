@@ -1798,5 +1798,5 @@ translate portuguese strings:
 translate portuguese e05s07_bar_0930b9cd:
 
     # mh "In fact, most defense attorneys I know would have taken one look at her rap sheet and walked. Or agreed to that terrible plea deal and locked her up."
-    mh ""
+    mh "Na verdade, a maioria dos advogados de defesa que eu conheço teria dado uma olhada na ficha criminal nela e se mandado. Ou teria concordado com um acordo horroroso e prendido ela."
 
