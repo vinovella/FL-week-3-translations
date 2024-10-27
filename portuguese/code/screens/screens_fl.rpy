@@ -262,15 +262,15 @@ translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:1307
     old "Sync your saves using Ren'Py Sync server"
-    new ""
+    new "Sincroniza seus saves usando o Servidor de Sincronia Ren'Py"
 
     # game/code/screens/screens_fl.rpy:1309
     old "Upload Saves"
-    new ""
+    new "Upar Saves"
 
     # game/code/screens/screens_fl.rpy:1310
     old "Download Saves"
-    new ""
+    new "Baixar Saves"
 
 # TODO: Translation updated at 2024-10-08 17:43
 
@@ -278,53 +278,53 @@ translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:285
     old "Touch input supported"
-    new ""
+    new "Compatível com toque"
 
     # game/code/screens/screens_fl.rpy:286
     old "Navigation"
-    new ""
+    new "Navegação"
 
     # game/code/screens/screens_fl.rpy:287
     old "Pause Menu"
-    new ""
+    new "Menu de pausa"
 
     # game/code/screens/screens_fl.rpy:288
     old "Quick Save"
-    new ""
+    new "Save Rápido"
 
     # game/code/screens/screens_fl.rpy:290
     old "Roll Back"
-    new ""
+    new "Voltar"
 
     # game/code/screens/screens_fl.rpy:293
     old "{b}A{/b} - Select"
-    new ""
+    new "{b}A{/b} - Selecionar"
 
     # game/code/screens/screens_fl.rpy:294
     old "{b}B{/b} - Go Back"
-    new ""
+    new "{b}B{/b} - Voltar"
 
     # game/code/screens/screens_fl.rpy:295
     old "{b}X{/b} - Skip"
-    new ""
+    new "{b}X{/b} - Pular"
 
     # game/code/screens/screens_fl.rpy:296
     old "{b}Y{/b} - Hide UI"
-    new ""
+    new "{b}Y{/b} - Esconder UI"
 
     # game/code/screens/screens_fl.rpy:297
     old "Roll Forward"
-    new ""
+    new "Avançar"
 
     # game/code/screens/screens_fl.rpy:300
     old "You can find this layout in the {b}Help{/b} menu"
-    new ""
+    new "Você pode encontrar este layout no menu {b}Ajuda{/b}"
 
     # game/code/screens/screens_fl.rpy:302
     old "CLOSE"
-    new ""
+    new "FECHAR"
 
     # game/code/screens/screens_fl.rpy:1394
     old "{u}Get Taboo University Book 1 on Steam{/u}"
-    new ""
+    new "{u}Veja Taboo University Livro 1 na Steam{/u}"
 
