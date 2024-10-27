@@ -90,5 +90,5 @@ translate portuguese strings:
 
     # game/code/screens/extended/screens.rpy:227
     old "Buy Taboo University on Steam"
-    new ""
+    new "Compre Taboo University na Steam"
 
