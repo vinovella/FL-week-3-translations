@@ -1140,5 +1140,5 @@ translate portuguese strings:
 translate portuguese e16s04_sex_f1d18fba:
 
     # mct "Okay that was definitely the word 'fuck'."
-    mct ""
+    mct "Beleza, com certeza ela falou 'porra'."
 
