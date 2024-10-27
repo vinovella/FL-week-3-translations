@@ -774,29 +774,29 @@ translate portuguese strings:
 translate portuguese e16s01_1b15151c:
 
     # jf "The last time I was just a kid, here for some relative's birthday party..."
-    jf ""
+    jf "Da última vez eu era só uma criança, vim aqui por causa do aniversário de família..."
 
 # game/code/e16/e16s01.rpy:458
 translate portuguese e16s01_sex_2abc2dc8:
 
     # mc "Good girl, Molly."
-    mc ""
+    mc "Boa garota, Molly."
 
 # game/code/e16/e16s01.rpy:500
 translate portuguese e16s01_sex_79de7289:
 
     # mc "Come here."
-    mc ""
+    mc "Chega aqui."
 
 # game/code/e16/e16s01.rpy:552
 translate portuguese e16s01_sex_eb3d3767:
 
     # mct "Fuck. She's getting so tight. She really loves it when she's just my pet to fuck and play with!"
-    mct ""
+    mct "Porra. Ela tá apertando bastante. Ela adora quando não passa de um brinquedinho pra eu brincar e foder!"
 
 # game/code/e16/e16s01.rpy:600
 translate portuguese e16s01_sex_4c88d238:
 
     # jf "Yes. Come over here... I'm ready to go on another ride!"
-    jf ""
+    jf "Isso. Vem aqui... Eu quero brincar de novo!"
 
