@@ -169,3 +169,4 @@ translate turkish strings:
 
     old "High Priestess"
     new "Baş Rahibe"
+
