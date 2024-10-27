@@ -376,7 +376,7 @@ translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Finish all 6 Endings from DLC-2"
-    new "Finish all 6 Endings from DLC-2"
+    new "DLC-2'deki 6 Sonun tamamını bitirin"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "37. I saw, I came, I conquered"
