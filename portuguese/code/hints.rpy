@@ -1352,113 +1352,113 @@ translate portuguese strings:
 
     # game/code/hints.rpy:5
     old "You take Oliver's anal virginity."
-    new ""
+    new "Você tira a virgindade anal do Oliver."
 
     # game/code/hints.rpy:5
     old "Lyssa takes Oliver's anal virginity."
-    new ""
+    new "Lyssa tira a virgindade anal do Oliver."
 
     # game/code/hints.rpy:5
     old "Oliver will felch out his own cum."
-    new ""
+    new "Oliver vai chupar o próprio sêmen."
 
     # game/code/hints.rpy:5
     old "Oliver will lick up his own cum."
-    new ""
+    new "Oliver vai lamber o próprio semen."
 
     # game/code/hints.rpy:5
     old "You eat the cum off Oliver's face."
-    new ""
+    new "Você lambe o sêmen do rosto do Oliver."
 
     # game/code/hints.rpy:5
     old "You don't eat the cum off Oliver's face."
-    new ""
+    new "Você não lambe o sêmen do rosto do Oliver."
 
 translate portuguese strings:
 
     # game/code/hints.rpy:5
     old "Watch Gemma release on Stacy."
-    new ""
+    new "Ver Gemma soltar na Stacy."
 
     # game/code/hints.rpy:5
     old "Gemma lets her enema go."
-    new ""
+    new "Gemma solta o enema."
 
     # game/code/hints.rpy:5
     old "Drink some of Min's pee."
-    new ""
+    new "Beber um pouco da urina da Min."
 
     # game/code/hints.rpy:5
     old "Don't drink Min's pee."
-    new ""
+    new "Não beber a urina da Min."
 
     # game/code/hints.rpy:5
     old "Stacy holds your dick while he pees."
-    new ""
+    new "Stacy segura seu pau enquanto você urina."
 
     # game/code/hints.rpy:5
     old "Stacy gives you a rimjob while he pees."
-    new ""
+    new "Stacy lambe sua bunda enquanto você urina."
 
     # game/code/hints.rpy:5
     old "Unlock more Male on Male content with Pete."
-    new ""
+    new "Libera mais conteúdo de homem com homem com Pete."
 
     # game/code/hints.rpy:5
     old "Locks Male on Male content with Pete."
-    new ""
+    new "Bloqueia conteúdo de homem com homem com Pete."
 
     # game/code/hints.rpy:5
     old "Make Dahlia happy, and maybe she'll be nicer to you."
-    new ""
+    new "Deixe a Dahlia feliz, e talvez ela fique mais legal com você."
 
     # game/code/hints.rpy:5
     old "Agree to suck Pete's dick."
-    new ""
+    new "Concordar em chupar o Pete."
 
     # game/code/hints.rpy:5
     old "Avoid male on male content with Pete."
-    new ""
+    new "Evitar conteúdo homosexual com Pete."
 
     # game/code/hints.rpy:5
     old "Be more confident with Samiya."
-    new ""
+    new "Ser mais confiante com a Samiya."
 
     # game/code/hints.rpy:5
     old "Let Samiya tease you."
-    new ""
+    new "Deixar a Samiya provocá-lo."
 
     # game/code/hints.rpy:5
     old "Score some points with Samiya."
-    new ""
+    new "Ganhar uns pontinhos com a Samiya."
 
     # game/code/hints.rpy:5
     old "Agree that it would be good to get a bigger place."
-    new ""
+    new "Concordar que seria legal arrumar um lugar maior."
 
     # game/code/hints.rpy:5
     old "Tell Samiya you'd love seeing her in the dress."
-    new ""
+    new "Falar para Samiya que adora ver ela de vestido."
 
     # game/code/hints.rpy:5
     old "Samiya will be glad you care that much about her happiness."
-    new ""
+    new "Samiya vai ficar feliz que você se importa tanto com a felicidade dela."
 
     # game/code/hints.rpy:5
     old "Make Samiya say she wants to get fucked hard."
-    new ""
+    new "Fazer Samiya dizer que quer ser comida com força."
 
     # game/code/hints.rpy:5
     old "Ask her what is going on."
-    new ""
+    new "Perguntar o que mais está rolando."
 
     # game/code/hints.rpy:5
     old "Unlock one more scene with male on male content."
-    new ""
+    new "Liberar mais uma cena de conteúdo de homem com homem."
 
     # game/code/hints.rpy:5
     old "Skip male on male content with Pete."
-    new ""
+    new "Pular conteúdo homosexual com Pete."
 
 # TODO: Translation updated at 2024-10-20 00:43
 
@@ -1466,25 +1466,25 @@ translate portuguese strings:
 
     # game/code/hints.rpy:5
     old "Lyssa will fuck you in the ass."
-    new ""
+    new "Lyssa vai enfiar na sua bunda."
 
     # game/code/hints.rpy:5
     old "Lyssa will not fuck you in the ass."
-    new ""
+    new "Lyssa não vai enfiar na sua bunda."
 
     # game/code/hints.rpy:5
     old "Watersports scene with Lyssa."
-    new ""
+    new "Cena de urina com a Lyssa."
 
     # game/code/hints.rpy:5
     old "This will skip the watersports scene with Lyssa."
-    new ""
+    new "Isso pula a cena de urina com a Lyssa."
 
     # game/code/hints.rpy:5
     old "You and Allison fuck the Judge."
-    new ""
+    new "Você e Allison metem na Juíza."
 
     # game/code/hints.rpy:5
     old "You don't fuck the Judge."
-    new ""
+    new "Você não transa com a Juíza."
 
