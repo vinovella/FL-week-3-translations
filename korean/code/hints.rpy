@@ -1385,12 +1385,12 @@ translate korean strings:
     new "Don't drink Min's pee."
 
     # game/code/hints.rpy:5
-    old "Stacy holds your dick while he pees."
-    new "Stacy holds your dick while he pees."
+    old "Stacy holds your dick while you pee."
+    new "Stacy holds your dick while you pee."
 
     # game/code/hints.rpy:5
-    old "Stacy gives you a rimjob while he pees."
-    new "Stacy gives you a rimjob while he pees."
+    old "Stacy gives you a rimjob while you pee."
+    new "Stacy gives you a rimjob while you pee."
 
     # game/code/hints.rpy:5
     old "Unlock more Male on Male content with Pete."

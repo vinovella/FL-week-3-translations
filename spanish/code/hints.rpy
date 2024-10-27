@@ -1383,11 +1383,11 @@ translate spanish strings:
     new "No bebas la orina de Min."
 
     # game/code/hints.rpy:5
-    old "Stacy holds your dick while he pees."
+    old "Stacy holds your dick while you pee."
     new "Stacy sostiene tu polla mientras él orina."
 
     # game/code/hints.rpy:5
-    old "Stacy gives you a rimjob while he pees."
+    old "Stacy gives you a rimjob while you pee."
     new "Stacy te hace un beso negro mientras él orina."
 
     # game/code/hints.rpy:5

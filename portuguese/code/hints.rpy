@@ -1393,11 +1393,11 @@ translate portuguese strings:
     new "Não beber a urina da Min."
 
     # game/code/hints.rpy:5
-    old "Stacy holds your dick while he pees."
+    old "Stacy holds your dick while you pee."
     new "Stacy segura seu pau enquanto você urina."
 
     # game/code/hints.rpy:5
-    old "Stacy gives you a rimjob while he pees."
+    old "Stacy gives you a rimjob while you pee."
     new "Stacy lambe sua bunda enquanto você urina."
 
     # game/code/hints.rpy:5

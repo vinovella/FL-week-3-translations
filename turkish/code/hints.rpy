@@ -1389,11 +1389,11 @@ translate turkish strings:
 translate turkish strings:
 
     # game/code/hints.rpy:5
-    old "Stacy holds your dick while he pees."
+    old "Stacy holds your dick while you pee."
     new "Stacy işerken sikini tutuyor."
 
     # game/code/hints.rpy:5
-    old "Stacy gives you a rimjob while he pees."
+    old "Stacy gives you a rimjob while you pee."
     new "Stacy işerken sana oral seks yapıyor."
 
     # game/code/hints.rpy:5

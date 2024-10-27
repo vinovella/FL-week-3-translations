@@ -1391,11 +1391,11 @@ translate chinese strings:
     new "不喝明的尿"
 
     # game/code/hints.rpy:5
-    old "Stacy holds your dick while he pees."
+    old "Stacy holds your dick while you pee."
     new "史黛西在你尿尿的时候握住你的鸡巴"
 
     # game/code/hints.rpy:5
-    old "Stacy gives you a rimjob while he pees."
+    old "Stacy gives you a rimjob while you pee."
     new "史黛西在你尿尿的时候给你口交"
 
     # game/code/hints.rpy:5
