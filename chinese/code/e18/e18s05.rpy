@@ -1370,5 +1370,5 @@ translate chinese strings:
 translate chinese e18s05_sb_sex_e35dff6a:
 
     # sb "You can take your chances."
-    sb "You can take your chances."
+    sb "你可以抓住机会。"
 
