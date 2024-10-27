@@ -1430,17 +1430,17 @@ translate chinese strings:
 translate chinese e03s04_9bef14b2:
 
     # mc "Don't you remember? After that weird chick took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
-    mc "Don't you remember? After that weird chick took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
+    mc "你不记得了吗？那个怪女人带走丽莎后，他们让我们挪到了小屋。说什么被‘选中’之类的话。"
 
 # game/code/e03/e03s04.rpy:177
 translate chinese e03s04_01eddfbc:
 
     # hp "She is not the first to appear before as goddess of love and wisdom, returned. But she appears the truest, thus far."
-    hp "She is not the first to appear before as goddess of love and wisdom, returned. But she appears the truest, thus far."
+    hp "她并不是第一个以爱与智慧女神的身份出现的。但到目前为止，她似乎是最真实的。"
 
 # game/code/e03/e03s04.rpy:504
 translate chinese e03s04_0f1ec9d2:
 
     # sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making me pregnant."
-    sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making me pregnant."
+    sy "丽莎...求你了，我要你射进我的身体深处。我想让你填满我，让我怀孕，让全世界都知道，我是属于你的。"
 
