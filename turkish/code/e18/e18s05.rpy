@@ -1082,7 +1082,7 @@ translate turkish e18s05_sb_sex_0f9d27cf:
 translate turkish e18s05_sb_sex_f510ae44:
 
     # sb "P-pound... pound me..."
-    sb "P-pound... pound me..."
+    sb "V-vur... vur bana..."
 
 # game/code/e18/e18s05.rpy:703
 translate turkish e18s05_sb_sex_201b41e9:
