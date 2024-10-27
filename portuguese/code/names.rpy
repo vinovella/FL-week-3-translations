@@ -168,5 +168,5 @@ translate portuguese strings:
     new "Kristen"
 
     old "High Priestess"
-    new "High Priestess"
+    new "Sacerdotisa Mestra"
 
