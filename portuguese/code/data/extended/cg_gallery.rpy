@@ -172,45 +172,45 @@ translate portuguese strings:
 
     # game/code/data/extended/cg_gallery.rpy:79
     old "Ending 05: Lyssa & Oliver"
-    new ""
+    new "Final 05: Lyssa & Oliver"
 
     # game/code/data/extended/cg_gallery.rpy:120
     old "Ending 16: Jessie & Kaniya"
-    new ""
+    new "Final 16: Jessie & Kaniya"
 
     # game/code/data/extended/cg_gallery.rpy:120
     old "Ending 16: Farm Animals"
-    new ""
+    new "Final 16: Animais da Fazenda"
 
     # game/code/data/extended/cg_gallery.rpy:122
     old "Ending 16: Jessie & Kanya"
-    new ""
+    new "Final 16: Jessie & Kanya"
 
     # game/code/data/extended/cg_gallery.rpy:114
     old "Ending 15: Girls"
-    new ""
+    new "Final 15: Garotas"
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Samiya & Dahlia"
-    new ""
+    new "Final 18: Samiya & Dahlia"
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Kendell & Londyn"
-    new ""
+    new "Final 18: Kendell & Londyn"
 
     # game/code/data/extended/cg_gallery.rpy:128
     old "Ending 18: Four Beauties"
-    new ""
+    new "Final 18: Quatro Belezas"
 
     # game/code/data/extended/cg_gallery.rpy:69
     old "Ending 03: Girls"
-    new ""
+    new "Final 03: Garotas"
 
     # game/code/data/extended/cg_gallery.rpy:96
     old "Ending 09: Girls"
-    new ""
+    new "Final 09: Garotas"
 
     # game/code/data/extended/cg_gallery.rpy:96
     old "Ending 09: Greek Goddesses"
-    new ""
+    new "Final 09: Deusa Grega"
 
