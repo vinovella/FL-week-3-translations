@@ -436,7 +436,7 @@ translate portuguese e03s05_7e29e343:
 translate portuguese e03s05_6ca1dde3:
 
     # mc "I found someone locked up in a prison cell!"
-    mc "Eu encontrei uma pessoa trancada numa célula de prisão!"
+    mc "Eu encontrei uma pessoa trancada numa cela!"
 
 # game/code/e03/e03s05.rpy:256
 translate portuguese e03s05_cf61b99f:
@@ -658,7 +658,7 @@ translate portuguese e03s05_a5ec958e:
 translate portuguese e03s05_c097dd97:
 
     # mc "Uhm, thank you for choosing us, goddess, to speak to you."
-    mc "Ahm, obrigada por nos escolher, deusa, para falar com você."
+    mc "Ahm, obrigado por nos escolher, deusa, para falar com você."
 
 # game/code/e03/e03s05.rpy:379
 translate portuguese e03s05_410fd3af:
@@ -682,7 +682,7 @@ translate portuguese e03s05_98e313a2:
 translate portuguese e03s05_dd395e92:
 
     # mh "You dare question your goddess?"
-    mh "Você ousa questionar sua deusa??"
+    mh "Você ousa questionar sua deusa?"
 
 # game/code/e03/e03s05.rpy:392
 translate portuguese e03s05_c19c7ccb:
@@ -748,7 +748,7 @@ translate portuguese e03s05_9cf607e4:
 translate portuguese e03s05_92bb3e78:
 
     # sy "[mcname] found someone locked up in a cell that looks exactly like you. They thought she was the goddess but I guess she didn't have the right bits."
-    sy "O [mcname] encontrou uma pessoa idêntica a você presa numa célula. Eles pensaram que ela era a deusa, mas acho que ela não tinha as partes certas."
+    sy "O [mcname] encontrou uma pessoa idêntica a você presa numa cela. Eles pensaram que ela era a deusa, mas acho que ela não tinha as partes certas."
 
 # game/code/e03/e03s05.rpy:428
 translate portuguese e03s05_bb334e41:
@@ -760,7 +760,7 @@ translate portuguese e03s05_bb334e41:
 translate portuguese e03s05_3443ddf9:
 
     # mc "She's got a vagina. Apparently, being trans is an important element to being Dyma."
-    mc "Ela tem uma vagina. Parece que ser trans é bem importante de ser a Dyma."
+    mc "Ela tem uma vagina. Parece que ser trans é uma parte bem importante de ser a Dyma."
 
 # game/code/e03/e03s05.rpy:434
 translate portuguese e03s05_8b33030e:
