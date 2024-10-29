@@ -464,7 +464,7 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:847
     old "Fucking\na catgirl"
-    new "Fodendo\uma garota gato"
+    new "Fodendo\numa garota gato"
 
     # game/code/data/extended/extra_gallery.rpy:861
     old "Hard to\nswallow\npills"

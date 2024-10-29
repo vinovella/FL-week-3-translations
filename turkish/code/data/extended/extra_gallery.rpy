@@ -468,7 +468,7 @@ translate turkish strings:
 
     # game/code/data/extended/extra_gallery.rpy:861
     old "Hard to\nswallow\npills"
-    new "Yutması zor \nhaplar\n"
+    new "Yutması\nzor\nhaplar"
 
     # game/code/data/extended/extra_gallery.rpy:863
     old "He will never\nrun out of pee"
