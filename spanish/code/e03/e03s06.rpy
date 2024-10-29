@@ -1,4 +1,4 @@
-﻿# game/code/e03/e03s06.rpy:13
+# game/code/e03/e03s06.rpy:13
 translate spanish e03s06_57432737:
 
     # mc "It's a good thing you got your phone back, Lyssa. Otherwise I don't think we ever would have been able to get that cab home."
@@ -8,7 +8,7 @@ translate spanish e03s06_57432737:
 translate spanish e03s06_207dfdc5:
 
     # mh "It was the first thing I grabbed when they took me to start the goddess test."
-    mh "Fue lo primero que agarré cuando me llevaron a empezar la prueba de la diosa."
+    mh "Fue lo primero que agarré cuando me llevaron a hacer la prueba de la diosa."
 
 # game/code/e03/e03s06.rpy:19
 translate spanish e03s06_c43683c6:
@@ -26,13 +26,13 @@ translate spanish e03s06_eaa296e3:
 translate spanish e03s06_0693eb7f:
 
     # mh "You're welcome to spend the night here tonight, Chiara. You've been through so much."
-    mh "Eres bienvenida a pasar la noche aquí esta noche, Chiara. Has pasado por mucho."
+    mh "Eres bienvenida a pasar la noche aquí, Chiara. Has pasado por mucho."
 
 # game/code/e03/e03s06.rpy:28
 translate spanish e03s06_aae467b2:
 
     # mh "And in the morning we can bring you to the police station for your statement."
-    mh "Y por la mañana podremos llevarle a comisaría para su declaración."
+    mh "Y por la mañana podremos llevarte a comisaría para tu declaración."
 
 # game/code/e03/e03s06.rpy:29
 translate spanish e03s06_25f3fdbf:
@@ -56,7 +56,7 @@ translate spanish e03s06_e78cdd5a:
 translate spanish e03s06_80bff18e:
 
     # mh "Plus, I look absolutely ridiculous right now."
-    mh "Además, me veo absolutamente ridículo ahora mismo."
+    mh "Además, me veo absolutamente ridícula en este momento."
 
 # game/code/e03/e03s06.rpy:43
 translate spanish e03s06_99ea8e9e:
@@ -68,7 +68,7 @@ translate spanish e03s06_99ea8e9e:
 translate spanish e03s06_792a466c:
 
     # mh "Thank you, Stacy. But I can hardly walk into a police station with any expectation of being taken seriously right now."
-    mh "Gracias, Stacy. Pero en estos momentos difícilmente puedo entrar a una comisaría con la expectativa de que me tomen en serio."
+    mh "Gracias, Stacy. Pero no puedo entrar en una comisaría con la esperanza de que me tomen en serio."
 
 # game/code/e03/e03s06.rpy:49
 translate spanish e03s06_418b8335:
@@ -110,7 +110,7 @@ translate spanish e03s06_ebd8c917:
 translate spanish e03s06_d8dbe259:
 
     # sy "Lyssa is the most benevolent. A kind and caring lover, and she never fails to make my legs quiver."
-    sy "Lyssa es la más benevolente. Una amante amable y cariñosa, y nunca deja de hacerme temblar las piernas."
+    sy "Lyssa es la más benévola. Una amante amable y cariñosa, y nunca deja de hacerme temblar las piernas."
 
 # game/code/e03/e03s06.rpy:69
 translate spanish e03s06_56048133:
@@ -122,7 +122,7 @@ translate spanish e03s06_56048133:
 translate spanish e03s06_54d65eac:
 
     # ca "No, it's okay. I joined them for a reason. I believed in the message."
-    ca "No, está bien. Me uní a ellos por una razón. Creí en el mensaje."
+    ca "No, está bien. Me uní a ellos por una razón. Creía en el mensaje."
 
 # game/code/e03/e03s06.rpy:74
 translate spanish e03s06_7ca535e7:
@@ -134,7 +134,7 @@ translate spanish e03s06_7ca535e7:
 translate spanish e03s06_b6cdf341:
 
     # ca "At first, things were fine. I looked like her goddess so I was taken care of. Up until she realized that her goddess was also supposed to have a cock."
-    ca "Al principio las cosas iban bien. Parecía su diosa, así que me cuidaron. Hasta que se dio cuenta de que se suponía que su diosa también tenía polla."
+    ca "Al principio, las cosas iban bien. Lucía como su diosa, así que me cuidaban. Hasta que se dio cuenta de que su diosa también debía tener polla."
 
 # game/code/e03/e03s06.rpy:79
 translate spanish e03s06_3423acad:
@@ -194,19 +194,19 @@ translate spanish e03s06_54de7298:
 translate spanish e03s06_3669f6b9:
 
     # ca "Honestly, all I've wanted to do for the last week is get fucked. What do you say?"
-    ca "Honestamente, todo lo que quería hacer durante la última semana es que me jodan. ¿Qué dices?"
+    ca "Honestamente, todo lo que he querido hacer la última semana es follar. ¿Qué me dicen?"
 
 # game/code/e03/e03s06.rpy:108
 translate spanish e03s06_462bb255:
 
     # mh "Are you sure?"
-    mh "¿Está seguro?"
+    mh "¿Estás segura?"
 
 # game/code/e03/e03s06.rpy:109
 translate spanish e03s06_8314e8fd:
 
     # ca "I am {i}so sure.{/i}"
-    ca "Estoy {i}muy seguro.{/i}"
+    ca "Estoy {i}muy segura.{/i}"
 
 # game/code/e03/e03s06.rpy:113
 translate spanish e03s06_6fcd7cae:
@@ -230,7 +230,7 @@ translate spanish e03s06_0f3aad06:
 translate spanish e03s06_f47fb55a:
 
     # sy "Yay. Orgy time. The universe is balanced once again."
-    sy "Hurra. Tiempo de orgía. El universo vuelve a estar equilibrado."
+    sy "Sí. Es hora de la orgía. El universo está equilibrado una vez más."
 
 # game/code/e03/e03s06.rpy:123
 translate spanish e03s06_320e27aa:
@@ -278,7 +278,7 @@ translate spanish e03s06_8f5e4179:
 translate spanish e03s06_f8c43212:
 
     # mc "She wasn't kidding about being horny. She might suck it straight off my body!"
-    mc "Ella no estaba bromeando acerca de estar cachonda. ¡Podría chuparlo directamente de mi cuerpo!"
+    mc "Ella no estaba bromeando acerca de estar excitada. ¡Podría chuparlo directamente de mi cuerpo!"
 
 # game/code/e03/e03s06.rpy:146
 translate spanish e03s06_eab89944:
@@ -290,25 +290,25 @@ translate spanish e03s06_eab89944:
 translate spanish e03s06_686e3fef:
 
     # mh "But remind me to get Stacy this turned on more often. This is an amazing blowjob."
-    mh "Pero recuérdame que active esto para Stacy con más frecuencia. Esta es una mamada increíble."
+    mh "Pero recuérdame que excite más a menudo a Stacy. Esta es una mamada increíble."
 
 # game/code/e03/e03s06.rpy:148
 translate spanish e03s06_94138a81:
 
     # mc "Fuck - same here! The cultists were crazy for locking you up, Chiara!"
-    mc "Joder, ¡lo mismo aquí! ¡Los cultistas estaban locos por encerrarte, Chiara!"
+    mc "¡Joder, lo mismo digo! ¡Los cultistas estaban locos por encerrarte, Chiara!"
 
 # game/code/e03/e03s06.rpy:150
 translate spanish e03s06_fdcedc90:
 
     # mh "Mmmm, she looks so hot sucking your dick... Is this what you get to see every time I suck your cock?"
-    mh "Mmmm, se ve tan sexy chupándote la polla... ¿Es esto lo que puedes ver cada vez que te chupo la polla?"
+    mh "Mmmm, está tan buena chupándote la polla... ¿Esto es lo que ves cada vez que te chupo la polla?"
 
 # game/code/e03/e03s06.rpy:151
 translate spanish e03s06_8c2394a5:
 
     # mc "Every. Single. Time."
-    mc "Cada. Soltero. Tiempo."
+    mc "En todo momento."
 
 # game/code/e03/e03s06.rpy:152
 translate spanish e03s06_103b907f:
@@ -362,13 +362,13 @@ translate spanish e03s06_eaafbcca:
 translate spanish e03s06_11d97b5d:
 
     # sy "I think our guest deserves some attention too! Locked up in that cage... I bet no one even ate you out."
-    sy "¡Creo que nuestro invitado también merece atención! Encerrado en esa jaula... Apuesto a que nadie te comió."
+    sy "¡Creo que nuestra invitada también merece atención! Encerrada en esa celda... Apuesto a que nadie te comió."
 
 # game/code/e03/e03s06.rpy:173
 translate spanish e03s06_21387165:
 
     # ca "Are you offering?"
-    ca "¿Estás ofreciendo?"
+    ca "¿Te estás ofreciendo?"
 
 # game/code/e03/e03s06.rpy:176
 translate spanish e03s06_a4a625ea:
@@ -416,19 +416,19 @@ translate spanish e03s06_b066446d:
 translate spanish e03s06_0db60deb:
 
     # mh "How does her tongue feel, Chiara?"
-    mh "¿Cómo siente su lengua, Chiara?"
+    mh "¿Cómo se siente su lengua, Chiara?"
 
 # game/code/e03/e03s06.rpy:199
 translate spanish e03s06_0f609195:
 
     # ca "So so so so so gooood! Gah! This is exactly what I needed!"
-    ca "¡Tan tan tan tan tan bueno! ¡Ah! ¡Esto es exactamente lo que necesitaba!"
+    ca "¡Tan tan tan tan tan buena! ¡Ah! ¡Esto es exactamente lo que necesitaba!"
 
 # game/code/e03/e03s06.rpy:201
 translate spanish e03s06_3c9d24dd:
 
     # mh "I think we all needed a good fuck away from any cult supervision."
-    mh "Creo que todos necesitábamos un buen polvo lejos de cualquier supervisión de culto."
+    mh "Creo que todos necesitábamos una buena follada lejos de cualquier supervisión del culto."
 
 # game/code/e03/e03s06.rpy:202
 translate spanish e03s06_0dd09f36:
@@ -446,7 +446,7 @@ translate spanish e03s06_2c73cc8b:
 translate spanish e03s06_b0b0b643:
 
     # mh "Oh don't worry, [mcname] always has plenty of steam."
-    mh "Oh, no te preocupes, [mcname] siempre tiene mucho vapor."
+    mh "Oh, no te preocupes, [mcname] siempre tiene un montón de energía."
 
 # game/code/e03/e03s06.rpy:206
 translate spanish e03s06_001205ca:
@@ -458,7 +458,7 @@ translate spanish e03s06_001205ca:
 translate spanish e03s06_c5aadf3f:
 
     # mh "Classic Stacy - working hard to get you to cum so she can take a ride on [mcname]."
-    mh "Stacy clásica: trabajando duro para que te corras y ella pueda montar en [mcname]."
+    mh "Clásico de Stacy... trabajando duro para conseguir que te corras para que ella pueda montarse en [mcname]."
 
 # game/code/e03/e03s06.rpy:208
 translate spanish e03s06_e047367d:
@@ -476,7 +476,7 @@ translate spanish e03s06_c849718e:
 translate spanish e03s06_9f80706d:
 
     # ca "Oh my - fuuuuuuuuuhck! Jusssst like that!"
-    ca "Oh Dios, ¡fuuuuuuuuuhck! ¡Así es!"
+    ca "Oh Dios, ¡joooodeeeer! ¡Así es!"
 
 # game/code/e03/e03s06.rpy:212
 translate spanish e03s06_f95b13f6:
@@ -506,7 +506,7 @@ translate spanish e03s06_4e042873:
 translate spanish e03s06_e0d5d592:
 
     # ca "Oh please - please keep going! Lick my pusssssy just like that!"
-    ca "¡Oh, por favor, continúa! ¡Lame mi coño así sin más!"
+    ca "¡Oh, por favor, por favor, sigue! ¡Lame mi coño! ¡Así!"
 
 # game/code/e03/e03s06.rpy:218
 translate spanish e03s06_4c7f4e66:
@@ -530,13 +530,13 @@ translate spanish e03s06_de432360:
 translate spanish e03s06_badd4ae3:
 
     # ca "Gooooodessss I'm cummmmmmming!!!!!!!"
-    ca "¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡"
+    ca ¡¡¡¡¡¡¡Dioooooooosa me estoy coooorriiiieeeendo!!!!!!!
 
 # game/code/e03/e03s06.rpy:233
 translate spanish e03s06_0b173d7d:
 
     # ca "YessssohGodyessskeepgoingkeepgoing!!! FuuuUUUUUUUCCCCCK!"
-    ca "¡¡¡Sí, sí, Dios, sigue, sigue!!! FuuuUUUUUUUCCCCCK!"
+    ca "¡¡¡Sí, sí, Dios, sigue, sigue!!! ¡Miiiieeeerdaaaa!"
 
 # game/code/e03/e03s06.rpy:238
 translate spanish e03s06_ebe8ca8c:
@@ -548,7 +548,7 @@ translate spanish e03s06_ebe8ca8c:
 translate spanish e03s06_8c8df6d7:
 
     # ca "Mmmmmhmmmmmm... jusssssswhatIneeded..."
-    ca "Mmmmmhmmmmmm... jusssssslo que necesitaba..."
+    ca "Mmmmmhmmmmmm... lo necesitaba..."
 
 # game/code/e03/e03s06.rpy:241
 translate spanish e03s06_a73285c7:
@@ -560,7 +560,7 @@ translate spanish e03s06_a73285c7:
 translate spanish e03s06_f7ac6a54:
 
     # mc "Well, if she had been brainwashed by the cult, I think you just pressed the hard reset button on her brain."
-    mc "Bueno, si la secta le había lavado el cerebro, creo que simplemente presionaste el botón de reinicio completo de su cerebro."
+    mc "Bueno, si la secta le había lavado el cerebro, creo que acabas de presionar el botón de reinicio de su cerebro."
 
 # game/code/e03/e03s06.rpy:248
 translate spanish e03s06_bcbca355:
@@ -578,7 +578,7 @@ translate spanish e03s06_d4feeae4:
 translate spanish e03s06_4785abda:
 
     # sy "Promise."
-    sy "Promesa."
+    sy "Lo prometo."
 
 # game/code/e03/e03s06.rpy:255
 translate spanish e03s06_8a801012:
@@ -596,7 +596,7 @@ translate spanish e03s06_e93412e7:
 translate spanish e03s06_220a84aa:
 
     # mh "I promise we will in the future. I will go out and buy the body paint and everything."
-    mh "Prometo que lo haremos en el futuro. Saldré a comprar pintura para la carrocería y todo."
+    mh "Prometo que lo haremos en el futuro. Compraré la pintura y todo lo demás."
 
 # game/code/e03/e03s06.rpy:262
 translate spanish e03s06_43d86a00:
@@ -620,7 +620,7 @@ translate spanish e03s06_031b81d4:
 translate spanish e03s06_575233cf:
 
     # sy "Uggggh - how long have you been holding on to that one?"
-    sy "Uggggh, ¿cuánto tiempo llevas aferrándote a ese?"
+    sy "Uggggh, ¿cuánto tiempo llevas aferrándote a eso?"
 
 # game/code/e03/e03s06.rpy:276
 translate spanish e03s06_4d0b7004:
@@ -650,13 +650,13 @@ translate spanish e03s06_a5767469:
 translate spanish e03s06_62195381:
 
     # mh "Two minutes. Promise."
-    mh "Dos minutos. Promesa."
+    mh "Dos minutos. Lo prometo."
 
 # game/code/e03/e03s06.rpy:293
 translate spanish e03s06_9c92adf5:
 
     # sy "Well hurry up! I still want to get fucked so hard I can't walk straight!"
-    sy "¡Pues date prisa! ¡Todavía quiero que me follen tan fuerte que no puedo caminar derecho!"
+    sy "¡Pues date prisa! ¡Todavía quiero que me follen tan fuerte que no pueda caminar derecho!"
 
 # game/code/e03/e03s06.rpy:301
 translate spanish e03s06_watersports_fe251381:
@@ -668,7 +668,7 @@ translate spanish e03s06_watersports_fe251381:
 translate spanish e03s06_watersports_5d653962:
 
     # ca "Mmmmmparty?"
-    ca "Mmmmmfiesta?"
+    ca "Mmmmm ¿fiesta?"
 
 # game/code/e03/e03s06.rpy:308
 translate spanish e03s06_watersports_ee3b825e:
@@ -686,7 +686,7 @@ translate spanish e03s06_watersports_6d7b73f1:
 translate spanish e03s06_watersports_4882167f:
 
     # ca "Kinky. I dig it."
-    ca "Rizado. Lo entiendo."
+    ca "Pervertido. Me gusta."
 
 # game/code/e03/e03s06.rpy:315
 translate spanish e03s06_watersports_5bfe12b5:
@@ -746,7 +746,7 @@ translate spanish e03s06_watersports_698cd2b0:
 translate spanish e03s06_watersports_7a9d3b91:
 
     # ca "And it's so hot to watch, mmmmmm!"
-    ca "¡Y hace tanto calor verlo, mmmmmm!"
+    ca "¡Y es tan sexy verlo, mmmmmm!"
 
 # game/code/e03/e03s06.rpy:352
 translate spanish e03s06_watersports_381ada4e:
@@ -776,7 +776,7 @@ translate spanish e03s06_watersports_4a1d7d89:
 translate spanish e03s06_watersports_b744e846:
 
     # mh "Just because I'm no longer golden, doesn't mean the golden shower needs to end."
-    mh "Sólo porque ya no soy dorado no significa que la lluvia dorada deba terminar."
+    mh "Sólo porque ya no soy dorada no significa que la lluvia dorada deba terminar."
 
 # game/code/e03/e03s06.rpy:373
 translate spanish e03s06_watersports_85569df5:
@@ -818,7 +818,7 @@ translate spanish e03s06_watersports_ea87ca7c:
 translate spanish e03s06_watersports_38be756b:
 
     # ca "Ohmmmyyygaaaaawd!"
-    ca "Ohmmmyyygaaaaawd!"
+    ca "¡Ohmmmyyygaaaaawd!"
 
 # game/code/e03/e03s06.rpy:391
 translate spanish e03s06_watersports_83fc5346:
@@ -854,25 +854,25 @@ translate spanish e03s06_watersports_e57b1ccb:
 translate spanish e03s06_watersports_109bb7bd:
 
     # ca "Oh God, oh God, I'm going to cum - I'm going to cum, goddess!!"
-    ca "¡¡Oh Dios, oh Dios, me voy a correr - ¡¡Me voy a correr, diosa!!"
+    ca "Oh Dios, oh Dios, me voy a correr - ¡¡me voy a correr, diosa!!"
 
 # game/code/e03/e03s06.rpy:400
 translate spanish e03s06_watersports_dbf0bba8:
 
     # mh "Yes, cum for me, Chiara. I want you to cum."
-    mh "Sí, ven para mí, Chiara. Quiero que te corras."
+    mh "Sí, ven a mí, Chiara. Quiero que te corras."
 
 # game/code/e03/e03s06.rpy:401
 translate spanish e03s06_watersports_a04edb7f:
 
     # ca "Oh goooooddddeeeessssss!"
-    ca "¡Oh, qué buenoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo"
+    ca "¡Oh dioooooosaaaaaa!"
 
 # game/code/e03/e03s06.rpy:406
 translate spanish e03s06_watersports_8b9ba7d9:
 
     # ca "Holy shiiiiiiiiiiit!"
-    ca "¡Santo cieloiiiiiiit!"
+    ca "¡Santa miiiieeeerdaaaa!"
 
 # game/code/e03/e03s06.rpy:419
 translate spanish e03s06_watersports_1956399c:
@@ -902,13 +902,13 @@ translate spanish e03s06_watersports_00a8f1c2:
 translate spanish e03s06_watersports_9a8be96d:
 
     # sy "Hurry! I am super horny and need some of [mcname]'s dick!"
-    sy "¡Apurarse! ¡Estoy súper cachonda y necesito un poco de la polla de [mcname]!"
+    sy "¡Deprisa! ¡Estoy super caliente y necesito un poco de la polla de [mcname]!"
 
 # game/code/e03/e03s06.rpy:429
 translate spanish e03s06_watersports_d66d0173:
 
     # mh "I'll be quick, I promise."
-    mh "Seré rápido, lo prometo."
+    mh "Seré rápida, lo prometo."
 
 # game/code/e03/e03s06.rpy:439
 translate spanish e03s06_continue_b95b31a4:
@@ -932,13 +932,13 @@ translate spanish e03s06_continue_8bdd2fdb:
 translate spanish e03s06_continue_3797c6d9:
 
     # mc "But what about-"
-    mc "Pero ¿qué pasa-"
+    mc "Pero, ¿qué hay de...?"
 
 # game/code/e03/e03s06.rpy:449
 translate spanish e03s06_continue_8591fe43:
 
     # sy "She can join in when she gets back. My pussy is aching for your hard cock. So get on the bed."
-    sy "Ella podrá unirse cuando regrese. Me duele el coño por tu polla dura. Así que métete en la cama."
+    sy "Ella puede unirse cuando regrese. Mi coño está deseando tu polla dura. Así que sube a la cama."
 
 # game/code/e03/e03s06.rpy:451
 translate spanish e03s06_continue_b1f2782b:
@@ -974,7 +974,7 @@ translate spanish e03s06_continue_081dd40b:
 translate spanish e03s06_continue_f7b967b7:
 
     # ca "I needed that... so badly..."
-    ca "Necesitaba eso... tanto..."
+    ca "Necesitaba tanto... eso..."
 
 # game/code/e03/e03s06.rpy:468
 translate spanish e03s06_continue_f1528d89:
@@ -986,7 +986,7 @@ translate spanish e03s06_continue_f1528d89:
 translate spanish e03s06_continue_44d98b48:
 
     # mh "Getting started without me?"
-    mh "¿Empezar sin mí?"
+    mh "¿Empiezan sin mí?"
 
 # game/code/e03/e03s06.rpy:476
 translate spanish e03s06_continue_470c47ab:
@@ -1010,7 +1010,7 @@ translate spanish e03s06_continue_bd88d5e7:
 translate spanish e03s06_continue_78e0728d:
 
     # mh "Seems like Stacy has already laid claim to [mcname]..."
-    mh "Parece que Stacy ya ha reclamado [mcname]..."
+    mh "Parece que Stacy ya ha reclamado a [mcname]..."
 
 # game/code/e03/e03s06.rpy:485
 translate spanish e03s06_continue_b00a4ece:
@@ -1046,7 +1046,7 @@ translate spanish e03s06_continue_fcf7601e:
 translate spanish e03s06_continue_03daa122:
 
     # ca "Ohhhhh grahhhhhhH!"
-    ca "Ohhhhh grahhhhhhH!"
+    ca "¡Ohhhhh grahhhhhhH!"
 
 # game/code/e03/e03s06.rpy:506
 translate spanish e03s06_continue_f8c8c6df:
@@ -1058,7 +1058,7 @@ translate spanish e03s06_continue_f8c8c6df:
 translate spanish e03s06_continue_e77dd63c:
 
     # ca "Fu-fu-fu-fu - yes!"
-    ca "Fu-fu-fu-fu - yes!"
+    ca "Fu-fu-fu-fu - ¡sí!"
 
 # game/code/e03/e03s06.rpy:508
 translate spanish e03s06_continue_fa99b64a:
@@ -1076,31 +1076,31 @@ translate spanish e03s06_continue_c5de6ccf:
 translate spanish e03s06_continue_9e52e4c3:
 
     # mc "Stacy! Shiiiit! You're so wet and tight!"
-    mc "Stacy! ¡Mierda! ¡Estás tan mojado y apretado!"
+    mc "Stacy! ¡Mierda! ¡Estás tan mojada y apretada!"
 
 # game/code/e03/e03s06.rpy:512
 translate spanish e03s06_continue_2958592a:
 
     # sy "I've been horny since we saw that orgy! All I've been able to do is picture your amazing cock buried deep inside my pussy!"
-    sy "¡Estoy cachonda desde que vimos esa orgía! ¡Todo lo que he podido hacer es imaginarme tu increíble polla enterrada profundamente dentro de mi coño!"
+    sy "¡Estoy excitada desde que vimos esa orgía! ¡Todo lo que he podido hacer es imaginarme tu increíble polla enterrada profundamente dentro de mi coño!"
 
 # game/code/e03/e03s06.rpy:513
 translate spanish e03s06_continue_67bbfda0:
 
     # mc "Mmmmmmggggghh!"
-    mc "Mmmmmmmggggghh!"
+    mc "¡Mmmmmmmggggghh!"
 
 # game/code/e03/e03s06.rpy:514
 translate spanish e03s06_continue_f0ad5eea:
 
     # sy "I want you to fill my little pussy up with your hot cum, [mcname]! I want you to fill meeee uuuppp!"
-    sy "¡Quiero que llenes mi coñito con tu semen caliente, [mcname]! ¡Quiero que me lleneseee uuuppp!"
+    sy "¡Quiero que llenes mi coñito con tu semen caliente, [mcname]! ¡Quiero que me llenes!"
 
 # game/code/e03/e03s06.rpy:516
 translate spanish e03s06_continue_93a29d2c:
 
     # mh "Mmmmm, Chiaaarraaaa!"
-    mh "Mmmmm, Chiaaarraaaa!"
+    mh "Mmmmm, Chiaaaraaaa!"
 
 # game/code/e03/e03s06.rpy:517
 translate spanish e03s06_continue_a6f1e38e:
@@ -1118,7 +1118,7 @@ translate spanish e03s06_continue_7dae7f40:
 translate spanish e03s06_continue_3ed91b43:
 
     # ca "I love it. Keep pleasuring yourself with my pussy. Yes, *moans* YES!"
-    ca "Me encanta. Sigue complaciéndote con mi coño. Sí, *geme* ¡SÍ!"
+    ca "Me encanta. Sigue complaciéndote con mi coño. Sí, *gime* ¡SÍ!"
 
 # game/code/e03/e03s06.rpy:521
 translate spanish e03s06_continue_a016eb68:
@@ -1130,13 +1130,13 @@ translate spanish e03s06_continue_a016eb68:
 translate spanish e03s06_continue_2f32ddcb:
 
     # sy "Yes! I am just a little cum dump for your fertile seed! Fuck me, breed me, make me yours!"
-    sy "¡Sí! ¡Soy solo un pequeño basurero para tu semilla fértil! ¡Fóllame, críame, hazme tuyo!"
+    sy "¡Sí! ¡Soy solo un pequeño basurero para tu semilla fértil! ¡Fóllame, embarazame , hazme tuyo!"
 
 # game/code/e03/e03s06.rpy:523
 translate spanish e03s06_continue_a33a4ab4:
 
     # mc "Yes, Stacy, yes! Nnnnngggghhh!!!"
-    mc "¡Sí, Stacy, sí! Nnnnngggghhh!!!"
+    mc "¡Sí, Stacy, sí! ¡¡¡Nnnnngggghhh!!!"
 
 # game/code/e03/e03s06.rpy:525
 translate spanish e03s06_continue_4da5dd6a:
@@ -1148,7 +1148,7 @@ translate spanish e03s06_continue_4da5dd6a:
 translate spanish e03s06_continue_c64afefa:
 
     # mh "Living up to your fantasy?"
-    mh "¿Estar a la altura de tu fantasía?"
+    mh "¿A la altura de tu fantasía?"
 
 # game/code/e03/e03s06.rpy:527
 translate spanish e03s06_continue_9337174d:
@@ -1160,7 +1160,7 @@ translate spanish e03s06_continue_9337174d:
 translate spanish e03s06_continue_7cbe2b3b:
 
     # ca "*moans* Mmmmm, Lyssa! Fuck me! Let me worship before your cock! This is the most incredible thing that's ever happened to me, fuuuuck!"
-    ca "*gime* ¡Mmmmm, Lyssa! ¡Fóllame! ¡Déjame adorar ante tu polla! ¡Esto es lo más increíble que me ha pasado jamás, joder!"
+    ca "*gime* ¡Mmmmm, Lyssa! ¡Fóllame! ¡Déjame adorarte ante tu polla! ¡Esto es lo más increíble que me ha pasado nunca, joder!"
 
 # game/code/e03/e03s06.rpy:536
 translate spanish e03s06_continue_e4f4ebaa:
@@ -1190,7 +1190,7 @@ translate spanish e03s06_continue_505b218b:
 translate spanish e03s06_continue_62ebde00:
 
     # sy "Oh this is going to be so hot."
-    sy "Oh, esto va a hacer mucho calor."
+    sy "Oh, esto será tan excitante."
 
 # game/code/e03/e03s06.rpy:552
 translate spanish e03s06_continue_0cec8f20:
@@ -1202,7 +1202,7 @@ translate spanish e03s06_continue_0cec8f20:
 translate spanish e03s06_continue_9e33fd19:
 
     # sy "Mmmmm-!"
-    sy "Mmmmm-!"
+    sy "¡Mmmmm-!"
 
 # game/code/e03/e03s06.rpy:565
 translate spanish e03s06_continue_3d30b6c6:
@@ -1214,7 +1214,7 @@ translate spanish e03s06_continue_3d30b6c6:
 translate spanish e03s06_continue_c623fdc2:
 
     # mh "Oh, Stacy - you're the perfect little pussy for me to breed!"
-    mh "Oh, Stacy, ¡eres el gatito perfecto para criar!"
+    mh "Oh, Stacy, ¡eres la gatita perfecta para embarazar!"
 
 # game/code/e03/e03s06.rpy:568
 translate spanish e03s06_continue_713b441d:
@@ -1232,7 +1232,7 @@ translate spanish e03s06_continue_5e67e2af:
 translate spanish e03s06_continue_48e59e10:
 
     # mc "Oh fuuuh - I - ngggg - have no idea, because I feel like I'm right there with you!"
-    mc "Oh fuuuh - Yo - ngggg - ¡No tengo idea, porque siento que estoy ahí contigo!"
+    mc "Oh fuuuh - Yo - ngggg -  no tengo ni idea, ¡porque me siento como si estuviera allí contigo!"
 
 # game/code/e03/e03s06.rpy:573
 translate spanish e03s06_continue_0ce3a6af:
@@ -1262,13 +1262,13 @@ translate spanish e03s06_continue_6a37ceb6:
 translate spanish e03s06_continue_28575098:
 
     # mc "Oh, Chiaaarrraaa!"
-    mc "¡Ay, Chiaaarrraaa!"
+    mc "¡Ay, Chiaaaraaa!"
 
 # game/code/e03/e03s06.rpy:580
 translate spanish e03s06_continue_6bd359fe:
 
     # ca "That's good. Right there. Yessuah. Oh, this feels soooo goood! Mmmph - mmmph!"
-    ca "Eso es bueno. Ahí mismo. Sí. ¡Oh, esto se siente tan bien! Mmmm - ¡mmm!"
+    ca "Muy bien. Justo ahí. Yessuah. ¡Oh, esto se siente taaaan bien! ¡Mmmph - mmmph!"
 
 # game/code/e03/e03s06.rpy:581
 translate spanish e03s06_continue_70d607d6:
@@ -1298,7 +1298,7 @@ translate spanish e03s06_continue_ca9f71db:
 translate spanish e03s06_continue_c60d9be0:
 
     # sy "YES! Please, goddess, yes! Fill my slutty little hole with your seed!"
-    sy "¡SÍ! ¡Por favor, diosa, sí! ¡Llena mi pequeño agujero cachondo con tu semilla!"
+    sy "¡SÍ! ¡Por favor, diosa, sí! ¡Llena mi agujerito de puta con tu semilla!"
 
 # game/code/e03/e03s06.rpy:588
 translate spanish e03s06_continue_21afe068:
@@ -1310,7 +1310,7 @@ translate spanish e03s06_continue_21afe068:
 translate spanish e03s06_continue_d72a31f2:
 
     # ca "Cum inside me! Please!"
-    ca "¡Corre dentro de mí! ¡Por favor!"
+    ca "¡Córrete dentro de mí! ¡Por favor!"
 
 # game/code/e03/e03s06.rpy:590
 translate spanish e03s06_continue_ad20d587:
@@ -1328,13 +1328,13 @@ translate spanish e03s06_continue_2e304861:
 translate spanish e03s06_continue_d7cf0cbf:
 
     # sy "Oh god, it is! Yes! YesyesyesyesyesyesYASSS!"
-    sy "¡Dios mío, lo es! ¡Sí! Sisisisisisisi¡YASSS!"
+    sy "¡Dios mío, lo está! ¡Sí! ¡Sisisisisisisi!"
 
 # game/code/e03/e03s06.rpy:598
 translate spanish e03s06_continue_db22c2af:
 
     # sy "Oh I can feel your cum so deep inside me fuuuuHHHHUUUCK! I'M CUMMING!!!"
-    sy "¡Oh, puedo sentir tu semen tan profundamente dentro de mí! ¡¡¡ME CORRIÉ!!!"
+    sy "¡Oh, puedo sentir tu semen tan profundamente dentro de mí! ¡¡¡ME ESTOY CORRIENDO!!!"
 
 # game/code/e03/e03s06.rpy:601
 translate spanish e03s06_continue_4f80dcb9:
@@ -1346,13 +1346,13 @@ translate spanish e03s06_continue_4f80dcb9:
 translate spanish e03s06_continue_c271bd71:
 
     # mh "Yes, take every drop! I'm going to fill up your womb!"
-    mh "¡Sí, toma cada gota! ¡Voy a llenar tu vientre!"
+    mh "¡Sí, toma cada gota! ¡Voy a llenar tu útero!"
 
 # game/code/e03/e03s06.rpy:607
 translate spanish e03s06_continue_be1d5457:
 
     # mc "Ohhhhgggaawwdd!"
-    mc "¡¡Ohhhhgggaawwdd!"
+    mc "¡Ohhhhgggaawwdd!"
 
 # game/code/e03/e03s06.rpy:610
 translate spanish e03s06_continue_399f84f5:
@@ -1376,13 +1376,13 @@ translate spanish e03s06_continue_5807c951:
 translate spanish e03s06_continue_e08aa39b:
 
     # ca "There, every drop taken care of."
-    ca "Allí se cuida hasta la última gota."
+    ca "Ya está, hasta la última gota."
 
 # game/code/e03/e03s06.rpy:626
 translate spanish e03s06_continue_a4bcf03a:
 
     # mh "Thank you, Chiara."
-    mh "Gracias Chiara."
+    mh "Gracias, Chiara."
 
 # game/code/e03/e03s06.rpy:627
 translate spanish e03s06_continue_2f24f5b3:
@@ -1442,7 +1442,7 @@ translate spanish e03s06_continue_5e0a1e8d:
 translate spanish e03s06_continue_7d777826:
 
     # mc "Home is wherever you and Stacy are."
-    mc "El hogar es dondequiera que estéis Stacy y tú."
+    mc "El hogar está donde tú y Stacy estén."
 
 # game/code/e03/e03s06.rpy:651
 translate spanish e03s06_continue_42f8915e:
@@ -1454,7 +1454,7 @@ translate spanish e03s06_continue_42f8915e:
 translate spanish e03s06_continue_615fac77:
 
     # mc "But I am happy to be sleeping in our bed. Those cult mattresses absolutely sucked."
-    mc "Pero estoy feliz de estar durmiendo en nuestra cama. Esos colchones de culto apestaban absolutamente."
+    mc "Pero estoy feliz de dormir en nuestra cama. Esos colchones de la secta apestaban."
 
 # game/code/e03/e03s06.rpy:658
 translate spanish e03s06_continue_a598fda6:
@@ -1466,7 +1466,7 @@ translate spanish e03s06_continue_a598fda6:
 translate spanish e03s06_continue_07735f34:
 
     # mc "Maybe after the investigation they'll let us take it."
-    mc "Quizás después de la investigación nos dejen tomarlo."
+    mc "Quizás después de la investigación nos dejen tomarla."
 
 # game/code/e03/e03s06.rpy:664
 translate spanish e03s06_continue_7b7775f4:
@@ -1502,7 +1502,7 @@ translate spanish e03s06_continue_52ed503a:
 translate spanish e03s06_continue_483a2173:
 
     # sy "Mmmmrrrrnnng?"
-    sy "Mmmmrrrrnnng?"
+    sy "¿Mmmmrrrrnnng?"
 
 # game/code/e03/e03s06.rpy:690
 translate spanish e03s06_continue_58a800f8:
@@ -1514,7 +1514,7 @@ translate spanish e03s06_continue_58a800f8:
 translate spanish e03s06_continue_e23e26d0:
 
     # mh "No, you two looked so peaceful, and we've had a crazy couple of days, so I thought I'd let you both catch up on some rest."
-    mh "No, ustedes dos parecían muy pacíficos y hemos tenido un par de días locos, así que pensé en dejarlos descansar un poco."
+    mh "No, ustedes dos se veían tan tranquilos, y hemos tenido un par de días locos, así que pensé en dejarlos descansar un poco."
 
 # game/code/e03/e03s06.rpy:695
 translate spanish e03s06_continue_9e229c2c:
@@ -1544,7 +1544,7 @@ translate spanish e03s06_continue_262fbb7f:
 translate spanish e03s06_continue_319b8c0f:
 
     # mc "Two coffees, coming right up!"
-    mc "¡Dos cafés, en breve!"
+    mc "¡Dos cafés, enseguida!"
 
 # game/code/e03/e03s06.rpy:716
 translate spanish e03s06_continue_6ce2793e:
@@ -1556,7 +1556,7 @@ translate spanish e03s06_continue_6ce2793e:
 translate spanish e03s06_continue_325dd691:
 
     # mh "Already at the police station. She was up early with me, figured we could go and get everything over with."
-    mh "Ya en la comisaría. Se levantó temprano conmigo y pensó que podríamos ir y terminar con todo de una vez."
+    mh "Ya está en la comisaría. Se levantó temprano conmigo, supuse que podríamos ir y acabar con todo de una vez por todas."
 
 # game/code/e03/e03s06.rpy:721
 translate spanish e03s06_continue_a9c93a1e:
@@ -1568,7 +1568,7 @@ translate spanish e03s06_continue_a9c93a1e:
 translate spanish e03s06_continue_473db64c:
 
     # mh "It went well. She was able to answer all of their questions, stayed calm. An ideal witness, honestly."
-    mh "Todo salió bien. Ella pudo responder todas sus preguntas y mantuvo la calma. Un testigo ideal, sinceramente."
+    mh "Salió bien. Fue capaz de responder a todas sus preguntas, mantuvo la calma. Honestamente, una testigo ideal."
 
 # game/code/e03/e03s06.rpy:727
 translate spanish e03s06_continue_10bd942e:
@@ -1580,7 +1580,7 @@ translate spanish e03s06_continue_10bd942e:
 translate spanish e03s06_continue_edfe98b7:
 
     # mh "Well it sounds like Chiara moved to Crowning for the cult. Before that, she lived two hours away in Lordridge."
-    mh "Bueno, parece que Chiara se mudó a Crowning para el culto. Antes de eso, vivía a dos horas de distancia, en Lordridge."
+    mh "Bueno, parece que Chiara se mudó a Crowning por el culto. Antes de eso, ella vivía a dos horas de distancia en Lordridge."
 
 # game/code/e03/e03s06.rpy:731
 translate spanish e03s06_continue_32484cf5:
@@ -1616,7 +1616,7 @@ translate spanish e03s06_continue_b33a8e3d:
 translate spanish e03s06_continue_f92ae8b4:
 
     # mh "They'll find a place for her to stay, keep some marshals with her. They'll be able to keep an eye on her. Keep her safe."
-    mh "Encontrarán un lugar donde quedarse y se quedarán con algunos alguaciles. Podrán vigilarla. Mantenla a salvo."
+    mh "Encontrarán un lugar para que se quede, mantendrán a algunos alguaciles con ella. Podrán vigilarla. Mantenerla a salvo."
 
 # game/code/e03/e03s06.rpy:745
 translate spanish e03s06_continue_960b0be9:
@@ -1676,7 +1676,7 @@ translate spanish e03s06_continue_922b03f0:
 translate spanish e03s06_continue_bc4f1a33:
 
     # mc "Right?"
-    mc "¿Bien?"
+    mc "¿Verdad?"
 
 translate spanish strings:
 
