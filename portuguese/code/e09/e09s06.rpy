@@ -226,7 +226,7 @@ translate portuguese e09s06_94e943d9:
 translate portuguese e09s06_ec3fbc9c:
 
     # tr "Awesome. Thanks, [mcname]! We've both been really excited about tonight."
-    tr "Maravilha. Valeu, [mcname]! A gente ficou tão empolgado sobre hoje."
+    tr "Maravilha. Valeu, [mcname]! A gente se empolgoou tanto com hoje."
 
 # game/code/e09/e09s06.rpy:79
 translate portuguese e09s06_2606b50a:
@@ -484,7 +484,7 @@ translate portuguese e09s06_b2875ff7:
 translate portuguese e09s06_c08a6a6c:
 
     # mh "Hello, [mcname]."
-    mh "Oi, [mcname]"
+    mh "Oi, [mcname]."
 
 # game/code/e09/e09s06.rpy:151
 translate portuguese e09s06_8c5d3386:
