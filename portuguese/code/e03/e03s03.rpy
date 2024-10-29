@@ -166,7 +166,7 @@ translate portuguese e03s03_7a6ca8b5:
 translate portuguese e03s03_54e4bd25:
 
     # "Cult Member" "The High Priestess will be with you shortly."
-    "Cultista" "A sacerdotisa mestra logo virá."
+    "Cultista" "A Sacerdotisa Mestra logo virá."
 
 # game/code/e03/e03s03.rpy:106
 translate portuguese e03s03_45fec6a4:
@@ -328,7 +328,7 @@ translate portuguese e03s03_37286174:
 translate portuguese e03s03_4369c504:
 
     # hp "And we want you to leave {i}all{/i} of your worldly attachments behind."
-    hp "E queremos que vocês deixem {i}todas{/i} suas postas materiais para trás."
+    hp "E queremos que vocês deixem {i}todas{/i} suas posses materiais para trás."
 
 # game/code/e03/e03s03.rpy:191
 translate portuguese e03s03_50318932:
@@ -346,7 +346,7 @@ translate portuguese e03s03_738c1389:
 translate portuguese e03s03_1660e828:
 
     # hp "Yes, including your underwear. You need to become naked; to this world, to us your commune, and to the spirit of everything."
-    hp "Sim, incluindo suas roupas íntimas. Vocês precisam ficar nus; A esse mundo, a nós da sua comunidade, e ao espírito de tudo."
+    hp "Sim, incluindo suas roupas íntimas. Vocês precisam ficar nus; a esse mundo, a nós da sua comunidade, e ao espírito de tudo."
 
 # game/code/e03/e03s03.rpy:200
 translate portuguese e03s03_e0eeb5dc:
@@ -382,7 +382,7 @@ translate portuguese e03s03_715a28e7:
 translate portuguese e03s03_7db7c678:
 
     # mc "Wait, what's the garb of the student?"
-    mc "Calma aí, o que seriam as vs eu aprendiz?"
+    mc "Calma aí, o que seriam as vestes do aprendiz?"
 
 # game/code/e03/e03s03.rpy:225
 translate portuguese e03s03_e96a8a32:
@@ -526,7 +526,7 @@ translate portuguese e03s03_176ce893:
 translate portuguese e03s03_0cbf2aba:
 
     # "Cult Member" "And I have been instructed to have you watch them, to ensure they are doing the best job they can. {w}Do not allow them to slack off. If they do, there will be punishments."
-    "Cultista" "Eu recebi instrução para fazer que você as vigie, e certifique deem o seu melhor. {w}Não permita que relaxem. Se o fizerem, haverá punição."
+    "Cultista" "Eu recebi instrução para fazer que você os vigie, e certifique deem o seu melhor. {w}Não permita que relaxem. Se o fizerem, haverá punição."
 
 # game/code/e03/e03s03.rpy:313
 translate portuguese e03s03_cb373b0e:
@@ -838,7 +838,7 @@ translate portuguese e03s03_f42343e6:
 translate portuguese e03s03_b7aca05c:
 
     # mh "Stacy, calm down."
-    mh "Stacy se acalma."
+    mh "Stacy, se acalma."
 
 # game/code/e03/e03s03.rpy:517
 translate portuguese e03s03_b8cb0f62:
