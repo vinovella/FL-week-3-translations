@@ -1884,23 +1884,23 @@ translate portuguese strings:
 translate portuguese e05s01_7627ed9d:
 
     # mc "How you pulled my cock out of your mouth, and covered youserlf in my warm, sticky cum. How {i}hot{/i} you looked, glazed in the reward from an incredible blowjob."
-    mc ""
+    mc "Como você tirou o meu pau da boca e se cobriu de porra quentinha. Como você estava {i}gostoso{/i}, melado na recompensa de um ótimo boquete."
 
 # game/code/e05/e05s01.rpy:858
 translate portuguese e05s01_mc_op_sex_7f5f2790:
 
     # mc "And Lyssa, the way you're sucking my diccccck - Jeeeeyazzzusssss!"
-    mc ""
+    mc "E Lyssa, o jeito que você está chupando o meu paaaaaau - Meuhddheeeeusss!"
 
 # game/code/e05/e05s01.rpy:864
 translate portuguese e05s01_mc_op_sex_57d97c4a:
 
     # op "Your ass is - {i}you{/i} are amazing, [mcname]!"
-    op ""
+    op "A sua bunda é - {i}você{/i} é incrível, [mcname]!"
 
 # game/code/e05/e05s01.rpy:1191
 translate portuguese e05s01_sex_end_4592f61e:
 
     # mc "Good, now if you'll excuse me, I was told I have something on my face I should wash off."
-    mc ""
+    mc "Ótimo, agora se me dá licença, me falaram que tenho uma coisa na na cara que preciso limpar."
 
