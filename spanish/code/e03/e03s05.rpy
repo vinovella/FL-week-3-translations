@@ -1,4 +1,4 @@
-﻿# game/code/e03/e03s05.rpy:20
+# game/code/e03/e03s05.rpy:20
 translate spanish e03s05_b48a7398:
 
     # mc "When do we get to see Lyssa?"
@@ -8,7 +8,7 @@ translate spanish e03s05_b48a7398:
 translate spanish e03s05_d55d1581:
 
     # "Cult Member" "You can see the goddess when she deigns it. Now, get back to work."
-    "Miembro de culto" "Puedes ver a la diosa cuando lo digna. Ahora, vuelve al trabajo."
+    "Miembro del culto" "Podrás ver a la diosa cuando ella lo decida. Ahora, vuelve al trabajo."
 
 # game/code/e03/e03s05.rpy:26
 translate spanish e03s05_6bdca591:
@@ -20,7 +20,7 @@ translate spanish e03s05_6bdca591:
 translate spanish e03s05_ca14ed93:
 
     # "Cult Member" "A mortal does not get to make demands of a goddess, or of her loyal followers. Prove yourself, and maybe you'll be granted an audience!"
-    "Miembro de culto" "Un mortal no puede hacer exigencias a una diosa ni a sus leales seguidores. ¡Pruébate a ti mismo y tal vez te concedan una audiencia!"
+    "Miembro del culto" "Un mortal no puede hacer exigencias a una diosa ni a sus leales seguidores. ¡Pruébate a ti mismo y tal vez te concedan una audiencia!"
 
 # game/code/e03/e03s05.rpy:31
 translate spanish e03s05_6ad76365:
@@ -32,7 +32,7 @@ translate spanish e03s05_6ad76365:
 translate spanish e03s05_e87f98c8:
 
     # sy "We're never going to be able to sneak away and find Lyssa if this guy keeps watching us!"
-    sy "¡Nunca podremos escaparnos y encontrar a Lyssa si este tipo sigue vigilándonos!"
+    sy "¡Nunca podremos escabullirnos y encontrar a Lyssa si este tipo sigue vigilándonos!"
 
 # game/code/e03/e03s05.rpy:44
 translate spanish e03s05_b6d6a269:
@@ -74,37 +74,37 @@ translate spanish e03s05_ad1e88ba:
 translate spanish e03s05_b96f5aa5:
 
     # sy "Hey! I'm getting pretty thirsty. Can we get some water?"
-    sy "¡Ey! Tengo mucha sed. ¿Podemos conseguir un poco de agua?"
+    sy "¡Oye! Tengo mucha sed. ¿Podemos beber un poco de agua?"
 
 # game/code/e03/e03s05.rpy:66
 translate spanish e03s05_b5296078:
 
     # "Cult Member" "Mmergg. You two have barely done anything so far!"
-    "Miembro de culto" "Mmerg. ¡Ustedes dos apenas han hecho nada hasta ahora!"
+    "Miembro del culto" "Mmerg. ¡Ustedes dos apenas han hecho nada hasta ahora!"
 
 # game/code/e03/e03s05.rpy:69
 translate spanish e03s05_3c854996:
 
     # sy "Well that's because we're city folks who've never done a hard day's work in our lives! We need a devoted cul- errr, Dyma follower to show us how to do it!"
-    sy "Bueno, eso es porque somos gente de ciudad que nunca hemos trabajado duro en nuestras vidas. ¡Necesitamos un cultivador devoto, seguidor de Dyma, que nos muestre cómo hacerlo!"
+    sy "Bueno, eso es porque somos gente de ciudad que nunca hemos trabajado duro en nuestras vidas. ¡Necesitamos un devoto seguidor de Dyma que nos enseñe cómo hacerlo!"
 
 # game/code/e03/e03s05.rpy:72
 translate spanish e03s05_06c9bdbc:
 
     # "Cult Member" "That couldn't hurt..."
-    "Miembro de culto" "Eso no podría doler..."
+    "Miembro del culto" "Eso no podría doler..."
 
 # game/code/e03/e03s05.rpy:75
 translate spanish e03s05_1e809d6a:
 
     # sy "Could you show me the right way to do it? I'm just so silly I don't think I'll ever figure it out on my own!"
-    sy "¿Podrías mostrarme la forma correcta de hacerlo? ¡Soy tan tonto que no creo que lo pueda resolver por mi cuenta!"
+    sy "¿Podrías mostrarme la forma correcta de hacerlo? ¡Soy tan tonta que no creo que lo pueda resolver por mi cuenta!"
 
 # game/code/e03/e03s05.rpy:78
 translate spanish e03s05_d8ebcfbd:
 
     # "Cult Member" "Give me the axe and I'll show you how it's done."
-    "Miembro de culto" "Dame el hacha y te mostraré cómo se hace."
+    "Miembro del culto" "Dame el hacha y te mostraré cómo se hace."
 
 # game/code/e03/e03s05.rpy:82
 translate spanish e03s05_90a93b48:
@@ -116,7 +116,7 @@ translate spanish e03s05_90a93b48:
 translate spanish e03s05_ab7e1e61:
 
     # "Cult Member" "I can get it after-"
-    "Miembro de culto" "Puedo conseguirlo después-"
+    "Miembro del culto" "Puedo traerla después-"
 
 # game/code/e03/e03s05.rpy:85
 translate spanish e03s05_95544ba0:
@@ -128,7 +128,7 @@ translate spanish e03s05_95544ba0:
 translate spanish e03s05_4f130a86:
 
     # "Cult Member" "You - go fetch the water. And come straight back. Don't wander around."
-    "Miembro de culto" "Tú... ve a buscar agua. Y vuelve inmediatamente. No deambule."
+    "Miembro del culto" "Tú... ve a buscar agua. Y regresa inmediatamente. No deambules por ahí."
 
 # game/code/e03/e03s05.rpy:92
 translate spanish e03s05_d897cb82:
@@ -140,7 +140,7 @@ translate spanish e03s05_d897cb82:
 translate spanish e03s05_9532d588:
 
     # "Cult Member" "So first - your grip on the axe is the most important part of the swing."
-    "Miembro de culto" "Primero, agarrar el hacha es la parte más importante del swing."
+    "Miembro del culto" "Primero, agarrar el hacha es la parte más importante del golpe."
 
 # game/code/e03/e03s05.rpy:99
 translate spanish e03s05_b7f8ff83:
@@ -152,13 +152,13 @@ translate spanish e03s05_b7f8ff83:
 translate spanish e03s05_300fd1f9:
 
     # mct "Now, where would they keep Lyssa..."
-    mct "Ahora, ¿dónde guardarían a Lyssa...?"
+    mct "Ahora, dónde tendrían a Lyssa..."
 
 # game/code/e03/e03s05.rpy:104
 translate spanish e03s05_b69ce303:
 
     # mct "Probably somewhere they could keep her secret. Wouldn't want her just walking around."
-    mct "Probablemente en algún lugar pudieran guardar su secreto. No la querría simplemente caminando por ahí."
+    mct "Probablemente en algún lugar donde pudieran mantenerla en secreto. No querrían que anduviera por ahí."
 
 # game/code/e03/e03s05.rpy:105
 translate spanish e03s05_3947be79:
@@ -182,13 +182,13 @@ translate spanish e03s05_e529a5ee:
 translate spanish e03s05_0187112b:
 
     # mct "Creepy cave... What the hell do they do in here?"
-    mct "Cueva espeluznante... ¿Qué diablos hacen aquí?"
+    mct "Una cueva espeluznante... ¿Qué diablos hacen aquí?"
 
 # game/code/e03/e03s05.rpy:121
 translate spanish e03s05_a67d4c92:
 
     # "Guard" "Get into your cell!"
-    "Guardiaia" "¡Métete en tu celda!"
+    "Guardia" "¡Métete en tu celda!"
 
 # game/code/e03/e03s05.rpy:123
 translate spanish e03s05_e88c3bd3:
@@ -200,67 +200,67 @@ translate spanish e03s05_e88c3bd3:
 translate spanish e03s05_796280e1:
 
     # "Guard" "You pretender. I cannot wait until your fate is decided before the High Priestess' tribunal."
-    "Guardiaia" "Tú pretendiente. No puedo esperar hasta que se decida tu destino ante el tribunal de la Suma Sacerdotisa."
+    "Guardia" "Tú, pretendiente. No puedo esperar a que tu destino se decida ante el tribunal de la Suma Sacerdotisa."
 
 # game/code/e03/e03s05.rpy:130
 translate spanish e03s05_500721c2:
 
     # "Lyssa?" "But I didn't do anything!"
-    "¿Lissa?" "¡Pero no hice nada!"
+    "¿Lyssa?" "¡Pero no hice nada!"
 
 # game/code/e03/e03s05.rpy:133
 translate spanish e03s05_89f5ea72:
 
     # "Guard" "Impersonating a goddess is crime against nature itself!"
-    "Guardiaia" "¡Hacerse pasar por una diosa es un crimen contra la naturaleza misma!"
+    "Guardia" "¡Hacerse pasar por una diosa es un crimen contra la naturaleza misma!"
 
 # game/code/e03/e03s05.rpy:136
 translate spanish e03s05_dd7038df:
 
     # "Lyssa?" "But I didn't-"
-    "¿Lissa?" "Pero yo no-"
+    "¿Lyssa?" "Pero yo no-"
 
 # game/code/e03/e03s05.rpy:139
 translate spanish e03s05_60cc6708:
 
     # "Guard" "Quiet! Before I get the flogger back out!"
-    "Guardiaia" "¡Tranquilo! ¡Antes de que saque el látigo!"
+    "Guardia" "¡Silencio! ¡Antes de que vuelva a sacar el látigo!"
 
 # game/code/e03/e03s05.rpy:140
 translate spanish e03s05_c912de4a:
 
     # "Lyssa?" "..."
-    "¿Lissa?" "..."
+    "¿Lyssa?" "..."
 
 # game/code/e03/e03s05.rpy:143
 translate spanish e03s05_3c450893:
 
     # "Guard" "Good. Now I need to walk this stress off. The negativity your aura gives off is bringing me down."
-    "Guardiaia" "Bien. Ahora necesito liberarme de este estrés. La negatividad que desprende tu aura me está deprimiendo."
+    "Guardia" "Bien. Ahora necesito liberarme de este estrés. La negatividad que desprende tu aura me está deprimiendo."
 
 # game/code/e03/e03s05.rpy:153
 translate spanish e03s05_1048953d:
 
     # "Lyssa?" "What, you come to ridicule me?"
-    "¿Lissa?" "¿Vienes a ridiculizarme?"
+    "¿Lyssa?" "¿Vienes a ridiculizarme?"
 
 # game/code/e03/e03s05.rpy:156
 translate spanish e03s05_2d8989b5:
 
     # mc "Lyssa! It's me - [mcname]! What the hell did they do to your hair?"
-    mc "¡Lisa! ¡Soy yo - [mcname]! ¿Qué diablos le hicieron a tu cabello?"
+    mc "¡Lyssa! ¡Soy yo - [mcname]! ¿Qué diablos le hicieron a tu cabello?"
 
 # game/code/e03/e03s05.rpy:159
 translate spanish e03s05_6c74b79f:
 
     # "Not Lyssa?" "Lyssa? Who the hell is Lyssa?"
-    "¿No Lyssa?" "¿Lissa? ¿Quién diablos es Lyssa?"
+    "¿No Lyssa?" "¿Lyssa? ¿Quién diablos es Lyssa?"
 
 # game/code/e03/e03s05.rpy:162
 translate spanish e03s05_e5b8c54e:
 
     # mc "Wait-"
-    mc "Esperar-"
+    mc "Espera-"
 
 # game/code/e03/e03s05.rpy:164
 translate spanish e03s05_dcb43eea:
@@ -302,7 +302,7 @@ translate spanish e03s05_82388469:
 translate spanish e03s05_5280f094:
 
     # mc "She is!"
-    mc "¡Ella es!"
+    mc "¡Es ella!"
 
 # game/code/e03/e03s05.rpy:186
 translate spanish e03s05_92a9d8b2:
@@ -338,7 +338,7 @@ translate spanish e03s05_f444d272:
 translate spanish e03s05_3d325522:
 
     # ca "That's going to be awfully hard trapped in a cell."
-    ca "Va a ser terriblemente duro estar atrapado en una celda."
+    ca "Eso va a ser terriblemente duro atrapada en una celda."
 
 # game/code/e03/e03s05.rpy:199
 translate spanish e03s05_8bf087b3:
@@ -350,19 +350,19 @@ translate spanish e03s05_8bf087b3:
 translate spanish e03s05_dd044037:
 
     # "Guard" "Mmmm, it feels so good to be cleaned of that negative energy."
-    "Guardiaia" "Mmmm, se siente tan bien estar limpio de esa energía negativa."
+    "Guardia" "Mmmm, se siente tan bien estar limpia de esa energía negativa."
 
 # game/code/e03/e03s05.rpy:205
 translate spanish e03s05_1200aa6f:
 
     # mc "Oh shit! She's coming back!"
-    mc "Oh, mierda! ¡Ella va a volver!"
+    mc "¡Oh, mierda! ¡Está regresando!"
 
 # game/code/e03/e03s05.rpy:208
 translate spanish e03s05_70d1e017:
 
     # ca "Go! If you get caught, they'll throw you in here with me!"
-    ca "¡Ir! ¡Si te atrapan, te arrojarán aquí conmigo!"
+    ca "¡Vete! ¡Si te atrapan, te arrojarán aquí conmigo!"
 
 # game/code/e03/e03s05.rpy:211
 translate spanish e03s05_20207860:
@@ -380,7 +380,7 @@ translate spanish e03s05_b7832ca1:
 translate spanish e03s05_22e6dc99:
 
     # "Guard" "Now, do you promise to behave? Because you upset my tummy before and I don't like having an upset tummy."
-    "Guardiaia" "Ahora, ¿prometes comportarte? Porque antes me molestaste la barriga y no me gusta tener malestar estomacal."
+    "Guardia" "Ahora, ¿prometes comportarte? Porque antes me has revuelto el estómago y no me gusta tenerlo revuelto."
 
 # game/code/e03/e03s05.rpy:224
 translate spanish e03s05_03fcbda9:
@@ -392,7 +392,7 @@ translate spanish e03s05_03fcbda9:
 translate spanish e03s05_73f5f4be:
 
     # "Cult Member" "And all of that, with a good stance, is the best way to chop wood."
-    "Miembro de culto" "Y todo eso, con una buena postura, es la mejor forma de cortar leña."
+    "Miembro del culto" "Y todo eso, con una buena postura, es la mejor forma de cortar leña."
 
 # game/code/e03/e03s05.rpy:232
 translate spanish e03s05_daca45ec:
@@ -404,25 +404,25 @@ translate spanish e03s05_daca45ec:
 translate spanish e03s05_681a372c:
 
     # sy "[mcname]! You're back!"
-    sy "[mcname]! ¡Has vuelto!"
+    sy "¡[mcname]! ¡Has vuelto!"
 
 # game/code/e03/e03s05.rpy:239
 translate spanish e03s05_a9e28f39:
 
     # "Cult Member" "Where's the water?"
-    "Miembro de culto" "¿Dónde está el agua?"
+    "Miembro del culto" "¿Dónde está el agua?"
 
 # game/code/e03/e03s05.rpy:242
 translate spanish e03s05_029216a1:
 
     # mc "Oh, uhhhh, I couldn't find it?"
-    mc "Oh, uhhhh, ¿no pude encontrarlo?"
+    mc "Oh, uhhhh, ¿no pude encontrarla?"
 
 # game/code/e03/e03s05.rpy:245
 translate spanish e03s05_bec1d562:
 
     # "Cult Member" "Useless city slicker...{w} I'll go get it. Don't go anywhere."
-    "Miembro de culto" "Inútil urbanita...{w} Iré a buscarlo. No vayas a ningún lado."
+    "Miembro del culto" "Inútil citadino...{w} Iré a buscarla. No vayas a ninguna parte."
 
 # game/code/e03/e03s05.rpy:250
 translate spanish e03s05_7e29e343:
@@ -434,7 +434,7 @@ translate spanish e03s05_7e29e343:
 translate spanish e03s05_6ca1dde3:
 
     # mc "I found someone locked up in a prison cell!"
-    mc "¡Encontré a alguien encerrado en una celda de prisión!"
+    mc "¡Encontré a alguien encerrada en una celda!"
 
 # game/code/e03/e03s05.rpy:256
 translate spanish e03s05_cf61b99f:
@@ -446,13 +446,13 @@ translate spanish e03s05_cf61b99f:
 translate spanish e03s05_eec2387a:
 
     # mc "Yeah! And she looked {i}just{/i} like Lyssa!"
-    mc "¡Sí! ¡Y se parecía {i}justo{/i} a Lyssa!"
+    mc "¡Sí! {i}Y se parecía{/i} a Lyssa."
 
 # game/code/e03/e03s05.rpy:262
 translate spanish e03s05_7d9716f2:
 
     # sy "Are you sure it wasn't Lyssa?"
-    sy "¿Estás seguro de que no fue Lyssa?"
+    sy "¿Estás seguro de que no era Lyssa?"
 
 # game/code/e03/e03s05.rpy:263
 translate spanish e03s05_2b4e785c:
@@ -464,7 +464,7 @@ translate spanish e03s05_2b4e785c:
 translate spanish e03s05_b866cfad:
 
     # sy "What! Why are they keeping her in a prison cell?"
-    sy "¡Qué! ¿Por qué la mantienen en una celda de prisión?"
+    sy "¡Qué! ¿Por qué la mantienen prisionera?"
 
 # game/code/e03/e03s05.rpy:270
 translate spanish e03s05_f9ccc5e6:
@@ -494,7 +494,7 @@ translate spanish e03s05_3970fb4a:
 translate spanish e03s05_b63b81ff:
 
     # "Cult Member" "We are done for the day. Go back to your abode and freshen up."
-    "Miembro de culto" "Hemos terminado por hoy. Vuelve a tu morada y refréscate."
+    "Miembro del culto" "Hemos terminado por hoy. Regresa a tu morada y refréscate."
 
 # game/code/e03/e03s05.rpy:281
 translate spanish e03s05_e07bc938:
@@ -506,7 +506,7 @@ translate spanish e03s05_e07bc938:
 translate spanish e03s05_796532a9:
 
     # "Cult Member" "There are more important tasks to be done. The goddess Dyma has called for a gathering this evening."
-    "Miembro de culto" "Hay tareas más importantes por hacer. La diosa Dyma ha convocado una reunión esta noche."
+    "Miembro del culto" "Hay tareas más importantes por hacer. La diosa Dyma ha convocado una reunión esta noche."
 
 # game/code/e03/e03s05.rpy:287
 translate spanish e03s05_31e4feb6:
@@ -542,13 +542,13 @@ translate spanish e03s05_649f2889:
 translate spanish e03s05_fccb765e:
 
     # hp "Tonight, I am proud to welcome Dyma, the goddess of beauty and love, to this mortal plane."
-    hp "Esta noche, estoy orgulloso de darle la bienvenida a Dyma, la diosa de la belleza y el amor, a este plano mortal."
+    hp "Esta noche, estoy orgullosa de darle la bienvenida a Dyma, la diosa de la belleza y el amor, a este plano mortal."
 
 # game/code/e03/e03s05.rpy:321
 translate spanish e03s05_dad73a2c:
 
     # "Cult Member" "Thank you, goddess! Thank you, Dyma!"
-    "Miembro de culto" "¡Gracias diosa! ¡Gracias Dyma!"
+    "Miembro del culto" "¡Gracias, diosa! ¡Gracias, Dyma!"
 
 # game/code/e03/e03s05.rpy:325
 translate spanish e03s05_1687cf73:
@@ -572,7 +572,7 @@ translate spanish e03s05_ae4ea4c8:
 translate spanish e03s05_fdc03554:
 
     # sy "But... is it just me, or is Lyssa kind of extra hot all painted in gold like that?"
-    sy "Pero... ¿soy sólo yo, o Lyssa está muy sexy toda pintada en oro así?"
+    sy "Pero... ¿soy sólo yo, o Lyssa está muy sexy toda pintada en oro?"
 
 # game/code/e03/e03s05.rpy:337
 translate spanish e03s05_cbd48e7f:
@@ -584,7 +584,7 @@ translate spanish e03s05_cbd48e7f:
 translate spanish e03s05_827c900d:
 
     # sy "Right! Focused. Not thinking about Lyssa's golden cock."
-    sy "¡Bien! Centrado. Sin pensar en la polla dorada de Lyssa."
+    sy "¡Bien! Concentrado. Sin pensar en la polla dorada de Lyssa."
 
 # game/code/e03/e03s05.rpy:348
 translate spanish e03s05_4edb5d8a:
@@ -602,7 +602,7 @@ translate spanish e03s05_57386899:
 translate spanish e03s05_9b1fdff9:
 
     # hp "Yes, my goddess! You should speak with-"
-    hp "¡Sí, diosa mía! Deberías hablar con-"
+    hp "¡Sí, diosa mía! Deberías hablar con..."
 
 # game/code/e03/e03s05.rpy:357
 translate spanish e03s05_1330f1ad:
@@ -620,19 +620,19 @@ translate spanish e03s05_453659db:
 translate spanish e03s05_13a52eb7:
 
     # hp "Of course, Dyma...{w} You two! Approach the goddess and pay your respects!"
-    hp "Por supuesto, Dyma...{w} ¡Ustedes dos! ¡Acércate a la diosa y presenta tus respetos!"
+    hp "Por supuesto, Dyma...{w} ¡Ustedes dos! ¡Acérquense a la diosa y presenten sus respetos!"
 
 # game/code/e03/e03s05.rpy:366
 translate spanish e03s05_6119b1c5:
 
     # mc "Hey, Ly-"
-    mc "Oye, Ly-"
+    mc "Oye, Ly..."
 
 # game/code/e03/e03s05.rpy:368
 translate spanish e03s05_33184c6d:
 
     # hp "Kneel."
-    hp "Arrodillarse."
+    hp "De rodillas."
 
 # game/code/e03/e03s05.rpy:370
 translate spanish e03s05_5ef43fce:
@@ -656,13 +656,13 @@ translate spanish e03s05_a5ec958e:
 translate spanish e03s05_c097dd97:
 
     # mc "Uhm, thank you for choosing us, goddess, to speak to you."
-    mc "Uhm, gracias por elegirnos, diosa, para hablar contigo."
+    mc "Uhm, gracias por elegirnos, diosa, para hablar con usted."
 
 # game/code/e03/e03s05.rpy:379
 translate spanish e03s05_410fd3af:
 
     # hp "Good. That is the right reverence to show the mighty Dyma."
-    hp "Bien. Ésa es la reverencia adecuada para mostrarle al poderoso Dyma."
+    hp "Bien. Esa es la reverencia correcta para mostrar a la poderosa Dyma."
 
 # game/code/e03/e03s05.rpy:382
 translate spanish e03s05_41f05e1f:
@@ -674,7 +674,7 @@ translate spanish e03s05_41f05e1f:
 translate spanish e03s05_98e313a2:
 
     # hp "But-"
-    hp "Pero-"
+    hp "Pero..."
 
 # game/code/e03/e03s05.rpy:388
 translate spanish e03s05_dd395e92:
@@ -692,25 +692,25 @@ translate spanish e03s05_c19c7ccb:
 translate spanish e03s05_68f30313:
 
     # mh "Boy, am I glad to see you two."
-    mh "Chico, me alegro de verlos a los dos."
+    mh "Me alegro de verlos a los dos."
 
 # game/code/e03/e03s05.rpy:399
 translate spanish e03s05_fabb0468:
 
     # mc "Lyssa! Are you okay?"
-    mc "¡Lisa! ¿Estás bien?"
+    mc "¡Lyssa! ¿Estás bien?"
 
 # game/code/e03/e03s05.rpy:402
 translate spanish e03s05_78eac12a:
 
     # mh "Minus being painted gold and looking absolutely ridiculous, I'm fine."
-    mh "Excepto estar pintado de dorado y lucir absolutamente ridículo, estoy bien."
+    mh "Aparte de estar pintada de dorado y parecer absolutamente ridícula, estoy bien."
 
 # game/code/e03/e03s05.rpy:405
 translate spanish e03s05_e1eddaa7:
 
     # sy "I think the gold makes you look hot."
-    sy "Creo que el oro te hace lucir sexy."
+    sy "Creo que el dorado te hace lucir sexy."
 
 # game/code/e03/e03s05.rpy:408
 translate spanish e03s05_87089892:
@@ -728,7 +728,7 @@ translate spanish e03s05_6736420a:
 translate spanish e03s05_3d35a7bb:
 
     # mh "Mostly pampering and propaganda. The High Priestess is a zealot, absolutely. I think she actually believes I'm a goddess."
-    mh "Principalmente mimos y propaganda. La Suma Sacerdotisa es una fanática, absolutamente. Creo que ella realmente cree que soy una diosa."
+    mh "Principalmente mimos y propaganda. La Gran Sacerdotisa es una fanática absoluta. Creo que en realidad cree que soy una diosa."
 
 # game/code/e03/e03s05.rpy:418
 translate spanish e03s05_28fbe8b3:
@@ -746,7 +746,7 @@ translate spanish e03s05_9cf607e4:
 translate spanish e03s05_92bb3e78:
 
     # sy "[mcname] found someone locked up in a cell that looks exactly like you. They thought she was the goddess but I guess she didn't have the right bits."
-    sy "[mcname] encontró a alguien encerrado en una celda que se parece exactamente a ti. Pensaban que ella era la diosa pero supongo que no tenía las partes correctas."
+    sy "[mcname] encontró a alguien encerrada en una celda que se parece exactamente a ti. Pensaban que ella era la diosa pero supongo que no tenía las partes correctas."
 
 # game/code/e03/e03s05.rpy:428
 translate spanish e03s05_bb334e41:
@@ -866,7 +866,7 @@ translate spanish e03s05_95462312:
 translate spanish e03s05_6a58fdd4:
 
     # sy "Ohhh yeaaaaahhhh...{w} But what about the orgy?"
-    sy "Ohhh síaaaaahhhh...{w} ¿Pero qué pasa con la orgía?"
+    sy "Ohhh sí...{w} ¿Pero qué pasa con la orgía?"
 
 # game/code/e03/e03s05.rpy:494
 translate spanish e03s05_d03c2a0d:
@@ -878,7 +878,7 @@ translate spanish e03s05_d03c2a0d:
 translate spanish e03s05_17891617:
 
     # sy "Fiiiiiine."
-    sy "Fiiiiino."
+    sy "Biiieeen."
 
 # game/code/e03/e03s05.rpy:502
 translate spanish e03s05_6670dc23:
@@ -920,19 +920,19 @@ translate spanish e03s05_bf34bb1a:
 translate spanish e03s05_90c74f3e:
 
     # mc "It is! Let's get you out of here."
-    mc "¡Es! Vamos a sacarte de aquí."
+    mc "¡Lo es! Vamos a sacarte de aquí."
 
 # game/code/e03/e03s05.rpy:539
 translate spanish e03s05_79cf2d46:
 
     # ca "Quick, before the guard gets back."
-    ca "Rápido, antes de que regrese el guardia."
+    ca "Rápido, antes de que regrese la guardia."
 
 # game/code/e03/e03s05.rpy:542
 translate spanish e03s05_335a8173:
 
     # sy "Oh, you don't have to worry about that. Lyssa here demanded an orgy we're all missing so he's probably super distracted right now."
-    sy "Ah, no tienes que preocuparte por eso. Lyssa exigió una orgía que todos nos estamos perdiendo así que probablemente esté muy distraído en este momento."
+    sy "Oh, no tienes que preocuparte por eso. Lyssa aquí exigió una orgía que todos nos estamos perdiendo por lo que probablemente está super distraída en este momento."
 
 # game/code/e03/e03s05.rpy:546
 translate spanish e03s05_5e4216e8:
@@ -1028,7 +1028,7 @@ translate spanish e03s05_5e156a9d:
 translate spanish e03s05_864af616:
 
     # mc "I doubt it. By the time they realize what's happened, we'll be long gone."
-    mc "Dudo. Para cuando se den cuenta de lo que pasó, ya habremos desaparecido."
+    mc "Lo dudo. Para cuando se den cuenta de lo que pasó, ya habremos desaparecido."
 
 # game/code/e03/e03s05.rpy:601
 translate spanish e03s05_931a3c6a:
@@ -1052,5 +1052,5 @@ translate spanish strings:
 translate spanish e03s05_da47c5ea:
 
     # mh "We must honor my return with a celebration! A veritable feast for my arrival!"
-    mh "We must honor my return with a celebration! A veritable feast for my arrival!"
+    mh "¡Debemos honrar mi regreso con una celebración! ¡Un verdadero festín por mi llegada!"
 
