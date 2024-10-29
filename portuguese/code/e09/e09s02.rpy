@@ -490,7 +490,7 @@ translate portuguese e09s02_3441ca52:
 translate portuguese e09s02_c763d3fe:
 
     # hr "This is something I've wanted for a long time..."
-    hr "Isso é algo que eu estava querendo faz tanto temp..."
+    hr "Isso é algo que eu estava querendo faz tanto tempo..."
 
 # game/code/e09/e09s02.rpy:249
 translate portuguese e09s02_0d6c32d5:
