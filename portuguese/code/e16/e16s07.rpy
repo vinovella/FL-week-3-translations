@@ -1220,23 +1220,23 @@ translate portuguese strings:
 translate portuguese e16s07_e95b86db:
 
     # jf "Adamant."
-    jf ""
+    jf "Inflexível."
 
 # game/code/e16/e16s07.rpy:252
 translate portuguese e16s07_fc3e6a94:
 
     # mc "We should have won in court anyhow. This way, we just saved a lot of time and money."
-    mc ""
+    mc "E a gente teria ganhado no tribunal de qualquer forma. Assim vamos poupar bastante tempo e dinheiro."
 
 # game/code/e16/e16s07.rpy:314
 translate portuguese e16s07_sex_429eedb3:
 
     # mc "You sure it's okay to have a little fun?"
-    mc ""
+    mc "Tem certeza que não tem problema brincar um pouco?"
 
 # game/code/e16/e16s07.rpy:811
 translate portuguese e16s07_sex_ba643ad9:
 
     # mc "No matter what happens, no matter how big this place gets, you know you'll always be my first duty."
-    mc ""
+    mc "Independente do que aconteça, do tamanho que esse lugar fique, você sabe que sempre vai ser a número um."
 
