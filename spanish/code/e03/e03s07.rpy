@@ -1,8 +1,8 @@
-﻿# game/code/e03/e03s07.rpy:63
+# game/code/e03/e03s07.rpy:63
 translate spanish e03s07_36c560ce:
 
     # mct "Hmm. What could the two of them be up to?"
-    mct "Mmm. ¿Qué podrían estar haciendo ellos dos?"
+    mct "Hmm. ¿Qué podrían estar haciendo esas dos?"
 
 # game/code/e03/e03s07.rpy:64
 translate spanish e03s07_af452318:
@@ -62,19 +62,19 @@ translate spanish e03s07_11455b53:
 translate spanish e03s07_4e7a1c8d:
 
     # mc "Me? What did I do, Stacy?"
-    mc "¿A mí? ¿Qué hice, Stacy?"
+    mc "¿Yo? ¿Qué hice, Stacy?"
 
 # game/code/e03/e03s07.rpy:95
 translate spanish e03s07_a25ab4f0:
 
     # sy "Hah. Playing dumb. That's not going to work this time, bro."
-    sy "Ja. Hacerse el tonto. Eso no va a funcionar esta vez, hermano."
+    sy "Hah. Haciéndote el tonto. Eso no va a funcionar esta vez, hermano."
 
 # game/code/e03/e03s07.rpy:97
 translate spanish e03s07_dc0d71fb:
 
     # sy "Hah. Playing dumb. That's not going to work this time, [mcname]."
-    sy "Ja. Hacerse el tonto. Eso no va a funcionar esta vez, [mcname]."
+    sy "Hah. Haciéndote el tonto. Eso no va a funcionar esta vez, [mcname]."
 
 # game/code/e03/e03s07.rpy:102
 translate spanish e03s07_b3bf0800:
@@ -104,7 +104,7 @@ translate spanish e03s07_11455b53_1:
 translate spanish e03s07_8201c446:
 
     # sy "Chickenbutt."
-    sy "Pollo trasero."
+    sy "Trasero de pollo."
 
 # game/code/e03/e03s07.rpy:123
 translate spanish e03s07_e6c62e50:
@@ -116,13 +116,13 @@ translate spanish e03s07_e6c62e50:
 translate spanish e03s07_c7cf2826:
 
     # mh "[mcname]?"
-    mh "[mcname]?"
+    mh "¿[mcname]?"
 
 # game/code/e03/e03s07.rpy:129
 translate spanish e03s07_558f0a53:
 
     # mc "Woah, uh... that was... phew. Wait..."
-    mc "Woah, uh... eso fue... uf. Esperar..."
+    mc "Woah, uh... eso fue... uf. Espera..."
 
 # game/code/e03/e03s07.rpy:131
 translate spanish e03s07_3f734093:
@@ -146,7 +146,7 @@ translate spanish e03s07_0b1d69a3:
 translate spanish e03s07_b37fbdc5:
 
     # mc "All the way, Stacy. I love you. This is the greatest surprise I've ever gotten."
-    mc "Hasta el final, Stacy. Te amo. Esta es la mayor sorpresa que he recibido jamás."
+    mc "Hasta el final, Stacy. Te amo. Esta es la mayor sorpresa que he recibido en mi vida."
 
 # game/code/e03/e03s07.rpy:148
 translate spanish e03s07_fd0e5e90:
@@ -158,7 +158,7 @@ translate spanish e03s07_fd0e5e90:
 translate spanish e03s07_bf80a9a1:
 
     # sy "So..."
-    sy "So..."
+    sy "Entonces..."
 
 # game/code/e03/e03s07.rpy:155
 translate spanish e03s07_44c2fc79:
@@ -170,7 +170,7 @@ translate spanish e03s07_44c2fc79:
 translate spanish e03s07_9520085e:
 
     # sy "Any second thoughts on uh... or I guess {i}me{/i} staying here still?"
-    sy "¿Alguna duda sobre... o supongo que {i}yo{/i} me quedo aquí todavía?"
+    sy "¿Alguna duda sobre si {i}yo{/i} debo quedarme aquí?"
 
 # game/code/e03/e03s07.rpy:160
 translate spanish e03s07_6435aacb:
@@ -182,7 +182,7 @@ translate spanish e03s07_6435aacb:
 translate spanish e03s07_dd21312f:
 
     # sy "I mean, this changes things. Like, I mean it's the biggest change I can think of."
-    sy "Quiero decir, esto cambia las cosas. Quiero decir, es el cambio más grande que se me ocurre."
+    sy "Quiero decir, esto cambia las cosas. Es el mayor cambio que se me ocurre."
 
 # game/code/e03/e03s07.rpy:168
 translate spanish e03s07_5c2c7bcf:
@@ -212,7 +212,7 @@ translate spanish e03s07_09d8c7a0:
 translate spanish e03s07_14a25797:
 
     # sy "*sniff* Lyssa. You're the greatest."
-    sy "*olfatea* Lyssa. Eres el mejor."
+    sy "*llorando* Lyssa. Eres la mejor."
 
 # game/code/e03/e03s07.rpy:181
 translate spanish e03s07_f0b9dfa5:
@@ -224,13 +224,13 @@ translate spanish e03s07_f0b9dfa5:
 translate spanish e03s07_58ac5ca5:
 
     # mh "*sniff*"
-    mh "*oler*"
+    mh "*llorando*"
 
 # game/code/e03/e03s07.rpy:189
 translate spanish e03s07_f9821d4d:
 
     # mh "Now... ahem. *sniff* God..."
-    mh "Ahora... ejem. *olfatea* Dios..."
+    mh "Ahora... ejem. *llorando* Dios..."
 
 # game/code/e03/e03s07.rpy:191
 translate spanish e03s07_4a6a2ec4:
@@ -266,13 +266,13 @@ translate spanish e03s07_e5d33aad:
 translate spanish e03s07_08645ddb:
 
     # mct "I nearly had a heart attack when the doctor told us that."
-    mct "Casi me da un infarto cuando el médico nos dijo eso."
+    mct "Casi me da un infarto cuando la doctora nos dijo eso."
 
 # game/code/e03/e03s07.rpy:217
 translate spanish e03s07_ed79f18a:
 
     # mct "And now we're back to make sure both babies are nice and healthy."
-    mct "Y ahora volvemos para asegurarnos de que ambos bebés estén bien y sanos."
+    mct "Y ahora volvemos para asegurarnos de que los dos bebés están bien y saludables."
 
 # game/code/e03/e03s07.rpy:221
 translate spanish e03s07_fe4e8155:
@@ -320,7 +320,7 @@ translate spanish e03s07_16ca4425:
 translate spanish e03s07_2bcb6894:
 
     # mh "Hello Doctor."
-    mh "Hola doctora."
+    mh "Hola Doctora."
 
 # game/code/e03/e03s07.rpy:245
 translate spanish e03s07_c05eb257:
@@ -332,13 +332,13 @@ translate spanish e03s07_c05eb257:
 translate spanish e03s07_1a68c3e3:
 
     # "Doctor" "Yes, Miss Young. Everything is going perfectly. We got all your test results back and both babies passed with flying colors."
-    "Doctor" "Sí, señorita Young. Todo va perfectamente. Recibimos todos los resultados de sus pruebas y ambos bebés aprobaron con gran éxito."
+    "Doctora" "Sí, Srta. Young. Todo va perfectamente. Tenemos todos los resultados de sus pruebas y ambos bebés están saludables."
 
 # game/code/e03/e03s07.rpy:251
 translate spanish e03s07_c1011b41:
 
     # "Doctor" "Yes, Miss Brown. Everything is going perfectly. We got all your test results back and both babies passed with flying colors."
-    "Doctor" "Sí, señorita Brown. Todo va perfectamente. Recibimos todos los resultados de sus pruebas y ambos bebés aprobaron con gran éxito."
+    "Doctora" "Sí, Srta. Young. Todo va perfectamente. Tenemos todos los resultados de sus pruebas y ambos bebés están saludables."
 
 # game/code/e03/e03s07.rpy:255
 translate spanish e03s07_1aba552e:
@@ -350,7 +350,7 @@ translate spanish e03s07_1aba552e:
 translate spanish e03s07_8c608616:
 
     # "Doctor" "There is one thing."
-    "Doctor" "Hay una cosa."
+    "Doctora" "Hay una cosa."
 
 # game/code/e03/e03s07.rpy:261
 translate spanish e03s07_6aaafe3b:
@@ -374,7 +374,7 @@ translate spanish e03s07_9cfa4a0c:
 translate spanish e03s07_0d00beff:
 
     # "Doctor" "Well as it turns out, Stacy is carrying a child from [mcname] and one from you."
-    "Doctor" "Bueno, resulta que Stacy está embarazada de un hijo de [mcname] y uno tuyo."
+    "Doctora" "Pues resulta que Stacy lleva un hijo de [mcname] y otro tuyo."
 
 # game/code/e03/e03s07.rpy:274
 translate spanish e03s07_4da4e63f:
@@ -386,19 +386,19 @@ translate spanish e03s07_4da4e63f:
 translate spanish e03s07_cdd9c147:
 
     # "Doctor" "It's actually not. It is rare naturally, but not nonexistant. It's called heteropaternal superfecundation."
-    "Doctor" "En realidad no lo es. Es raro naturalmente, pero no inexistente. Se llama superfecundación heteropaternal."
+    "Doctora" "En realidad no lo es. Es raro naturalmente, pero no imposible. Se llama superfecundación heteropaternal."
 
 # game/code/e03/e03s07.rpy:279
 translate spanish e03s07_c474c1dc:
 
     # sy "Woah. I mean I know I'm amazing and special, but this takes the cake."
-    sy "Vaya. Quiero decir, sé que soy increíble y especial, pero esto se lleva la palma."
+    sy "Guau. Quiero decir, sé que soy increíble y especial, pero esto se lleva el premio."
 
 # game/code/e03/e03s07.rpy:283
 translate spanish e03s07_c726154e:
 
     # sy "Lyssa, you're going to be a father too. Or a mother. Or mother slash father. Whatever you want."
-    sy "Lyssa, tú también vas a ser padre. O una madre. O madre corta a padre. Lo que quieras."
+    sy "Lyssa, tú también vas a ser padre. O madre. O madre y padre. Lo que tú quieras."
 
 # game/code/e03/e03s07.rpy:284
 translate spanish e03s07_e5a59fd2:
@@ -428,7 +428,7 @@ translate spanish e03s07_32acb959:
 translate spanish e03s07_b942d77c:
 
     # mh "To quote Stacy, 'I'm so flipping excited'. I... well I kind of gave up the idea of children at a certain point."
-    mh "Para citar a Stacy, \"Estoy muy emocionada\". Yo... bueno, en cierto modo abandoné la idea de tener niños en cierto momento."
+    mh "Citando a Stacy, \"Estoy tan emocionada\". Yo... bueno, en cierto punto abandoné la idea de tener hijos."
 
 # game/code/e03/e03s07.rpy:300
 translate spanish e03s07_c8c8a9c6:
@@ -476,19 +476,19 @@ translate spanish e03s07_e1944a0b:
 translate spanish e03s07_5ec0898a:
 
     # sy "Rush things? Are you crazy?"
-    sy "¿Cosas apresuradas? ¿Estás loco?"
+    sy "¿Apresurar las cosas? ¿Estás loco?"
 
 # game/code/e03/e03s07.rpy:344
 translate spanish e03s07_eac5b122:
 
     # sy "The doctor said I can finally have sex again. For months I've only been able to do mouth things with you two."
-    sy "El médico dijo que por fin puedo volver a tener relaciones sexuales. Durante meses sólo he podido hacer cosas bucales con ustedes dos."
+    sy "La doctora dijo que por fin puedo volver a tener sexo. Durante meses sólo he podido hacer cosas con la boca con ustedes dos."
 
 # game/code/e03/e03s07.rpy:346
 translate spanish e03s07_9889f8cf:
 
     # sy "Stacy horny, [mcname]! If I don't get laid quickly, I don't know what will happen."
-    sy "Stacy cachonda, [mcname]! Si no me acuesto rápido, no sé qué pasará."
+    sy "¡Stacy está excitada, [mcname]! Si no tengo sexo rápido, no sé qué pasará."
 
 # game/code/e03/e03s07.rpy:350
 translate spanish e03s07_900586e1:
@@ -518,13 +518,13 @@ translate spanish e03s07_a94981bb:
 translate spanish e03s07_05e7d9e9:
 
     # sy "Mmmm. That's more like it."
-    sy "Mmmm. Eso es más parecido."
+    sy "Mmmm. Así me gusta más."
 
 # game/code/e03/e03s07.rpy:371
 translate spanish e03s07_4c4f5202:
 
     # sy "Mrmmmm."
-    sy "Señormmmm."
+    sy "Mrmmmm."
 
 # game/code/e03/e03s07.rpy:378
 translate spanish e03s07_a5bd9651:
@@ -536,7 +536,7 @@ translate spanish e03s07_a5bd9651:
 translate spanish e03s07_ae0f7eba:
 
     # sy "*heavy breathing* Come on.... come on you two. My pussy is not going to fuck itself."
-    sy "*respiración pesada* Vamos... vamos ustedes dos. Mi coño no se va a joder solo."
+    sy "*respiración pesada* Vamos... vamos ustedes dos. Mi coño no se va a follar solo."
 
 # game/code/e03/e03s07.rpy:386
 translate spanish e03s07_7f18de4a:
@@ -554,19 +554,19 @@ translate spanish e03s07_2ff7434b:
 translate spanish e03s07_b5389f57:
 
     # mh "Why don't you get my cock nice and ready, Stacy. I'll fuck your brains out all night long."
-    mh "¿Por qué no preparas mi polla, Stacy? Te joderé los sesos toda la noche."
+    mh "¿Por qué no preparas mi polla, Stacy? Te follaré los sesos toda la noche."
 
 # game/code/e03/e03s07.rpy:393
 translate spanish e03s07_a987b9f7:
 
     # mh "But I want to be sure that I'm oozing with your drool so we don't go to hard on you."
-    mh "Pero quiero estar seguro de que estoy rezumando tu baba para no ser duros contigo."
+    mh "Pero quiero estar segura de que estoy chorreando tus babas para no ser demasiado dura contigo."
 
 # game/code/e03/e03s07.rpy:397
 translate spanish e03s07_2288f91e:
 
     # sy "Mmmm. Yes, Lyssa."
-    sy "Mmmm. Sí, Lysa."
+    sy "Mmmm. Sí, Lyssa."
 
 # game/code/e03/e03s07.rpy:405
 translate spanish e03s07_998d9f0b:
@@ -602,7 +602,7 @@ translate spanish e03s07_4a14b454:
 translate spanish e03s07_1532f9a7:
 
     # sy "Mrrmmmlllmmm."
-    sy "Señormmmmlllmmm."
+    sy "Mrrmmmlllmmm."
 
 # game/code/e03/e03s07.rpy:427
 translate spanish e03s07_247339d5:
@@ -620,7 +620,7 @@ translate spanish e03s07_af18a047:
 translate spanish e03s07_0f53803c:
 
     # mh "Mmm. Then we must not fail. {w} For family..."
-    mh "Mmm. Entonces no debemos fallar. {w} Para la familia..."
+    mh "Mmm. Entonces no debemos fallar. {w} Por la familia..."
 
 # game/code/e03/e03s07.rpy:435
 translate spanish e03s07_efdbf241:
@@ -662,7 +662,7 @@ translate spanish e03s07_2f58c1c1:
 translate spanish e03s07_83ce080d:
 
     # mct "Not having sex sucked big giant blue balls. Especially once Stacy got that sweet-ass preggo body."
-    mct "No tener relaciones sexuales chupaba grandes bolas azules gigantes. Especialmente una vez que Stacy consiguió ese dulce cuerpo de embarazada."
+    mct "No tener sexo era una gran mierda. Especialmente una vez que Stacy tuvo ese dulce cuerpo de embarazada."
 
 # game/code/e03/e03s07.rpy:458
 translate spanish e03s07_d456b31f:
@@ -680,7 +680,7 @@ translate spanish e03s07_7a94066c:
 translate spanish e03s07_d09ead42:
 
     # mct "I'm not thinking about anything else. My whole world is them."
-    mct "No estoy pensando en nada más. Todo mi mundo son ellos."
+    mct "No estoy pensando en nada más. Todo mi mundo son ellas."
 
 # game/code/e03/e03s07.rpy:466
 translate spanish e03s07_cc3ab8e5:
@@ -692,13 +692,13 @@ translate spanish e03s07_cc3ab8e5:
 translate spanish e03s07_0724fbc1:
 
     # mct "After Stacy has the baby and things get back to normal, I should think about about getting a job."
-    mct "Después de que Stacy tenga el bebé y las cosas vuelvan a la normalidad, debería pensar en conseguir un trabajo."
+    mct "Después de que Stacy tenga a los bebés y las cosas regresen a la normalidad, debería pensar en conseguir un trabajo."
 
 # game/code/e03/e03s07.rpy:471
 translate spanish e03s07_18eaa5d0:
 
     # mct "Lyssa is so selfless, she'd probably continue letting us just stay here forever without giving her a dollar."
-    mct "Lyssa es tan desinteresada que probablemente seguiría dejándonos quedarnos aquí para siempre sin darle un dólar."
+    mct "Lyssa es tan desinteresada que probablemente seguiría dejando que nos quedáramos aquí para siempre sin darle un dólar."
 
 # game/code/e03/e03s07.rpy:474
 translate spanish e03s07_5eaa9f32:
@@ -734,7 +734,7 @@ translate spanish e03s07_05a594be:
 translate spanish e03s07_1dd8a758:
 
     # mh "Mmm. I might have to try that myself."
-    mh "Mmm. Quizás tenga que intentarlo yo mismo."
+    mh "Mmm. Quizás tenga que intentarlo yo misma."
 
 # game/code/e03/e03s07.rpy:499
 translate spanish e03s07_2d2cd0d0:
@@ -752,13 +752,13 @@ translate spanish e03s07_e9d3cc8f:
 translate spanish e03s07_7a50598a:
 
     # sy "Mmm. What are you doing, [mcname]."
-    sy "Mmm. ¿Qué estás haciendo? [mcname]."
+    sy "Mmm. ¿Qué estás haciendo, [mcname]?"
 
 # game/code/e03/e03s07.rpy:508
 translate spanish e03s07_a5f9fa74:
 
     # mc "This."
-    mc "Este."
+    mc "Esto."
 
 # game/code/e03/e03s07.rpy:514
 translate spanish e03s07_5546ff94:
@@ -800,13 +800,13 @@ translate spanish e03s07_82c3bc18:
 translate spanish e03s07_890f763f:
 
     # mh "Hehehe. I'd be delighted to."
-    mh "Jejeje. Estaría encantado de hacerlo."
+    mh "Jejeje. Estaría encantada de hacerlo."
 
 # game/code/e03/e03s07.rpy:542
 translate spanish e03s07_f2792cfc:
 
     # sy "Mrmmmhmm."
-    sy "Señormmmmmm."
+    sy "Mrmmmhmm."
 
 # game/code/e03/e03s07.rpy:543
 translate spanish e03s07_da8d400b:
@@ -854,7 +854,7 @@ translate spanish e03s07_55e524ef:
 translate spanish e03s07_ac77cd5e:
 
     # mh "When I met your brother at the Fetish Locator party, I never imagined I would be here, facefucking his sister."
-    mh "Cuando conocí a tu hermano en la fiesta Fetish Locator, nunca imaginé que estaría aquí, follándome la cara a su hermana."
+    mh "Cuando conocí a tu hermano en la fiesta del Localizador de Fetiches, nunca imaginé que estaría aquí, follándome la cara de su hermana."
 
 # game/code/e03/e03s07.rpy:561
 translate spanish e03s07_973d45a6:
@@ -866,13 +866,13 @@ translate spanish e03s07_973d45a6:
 translate spanish e03s07_8c475752:
 
     # mh "When I met [mcname] at the Fetish Locator party, I never imagined I would be here, facefucking his best friend."
-    mh "Cuando conocí a [mcname] en la fiesta Fetish Locator, nunca imaginé que estaría aquí, follándome la cara a su mejor amigo."
+    mh "Cuando conocí a [mcname] en la fiesta del Localizador de Fetiches, nunca imaginé que estaría aquí, follándome la cara de su mejor amiga."
 
 # game/code/e03/e03s07.rpy:564
 translate spanish e03s07_f63d14b6:
 
     # mh "And never in a million years did I think I'd end up falling for you both, or that one of you would end up carrying my child."
-    mh "Y nunca en un millón de años pensé que terminaría enamorándome de ustedes dos, o que uno de ustedes terminaría embarazada de mi hijo."
+    mh "Y nunca en un millón de años pensé que terminaría enamorándome de ustedes dos, o que uno de ustedes terminaría llevando a mi hijo."
 
 # game/code/e03/e03s07.rpy:568
 translate spanish e03s07_63a9f805:
@@ -956,7 +956,7 @@ translate spanish e03s07_163da401:
 translate spanish e03s07_e000ec2c:
 
     # mc "Haha. Of course. So like... nothing has really changed after I knocked you up."
-    mc "Ja ja. Por supuesto. Así que... nada ha cambiado realmente después de que te dejé embarazada."
+    mc "Jaja. Por supuesto. Así que... nada ha cambiado realmente después de que te dejé embarazada."
 
 # game/code/e03/e03s07.rpy:620
 translate spanish e03s07_6dbd38bb:
@@ -1052,7 +1052,7 @@ translate spanish e03s07_0cb97a91:
 translate spanish e03s07_90a1b76d:
 
     # mh "[mcname] always knows just where to push, and how to thrust."
-    mh "[mcname] siempre sabe exactamente dónde empujar y cómo empujar."
+    mh "[mcname] siempre sabe dónde empujar y cómo hacerlo."
 
 # game/code/e03/e03s07.rpy:679
 translate spanish e03s07_a9546a8c:
@@ -1064,13 +1064,13 @@ translate spanish e03s07_a9546a8c:
 translate spanish e03s07_db99be63:
 
     # mh "If we keep going like this, I'm going to have to call in sick at work."
-    mh "Si seguimos así, tendré que reportarme enfermo en el trabajo."
+    mh "Si seguimos así, tendré que reportarme enferma en el trabajo."
 
 # game/code/e03/e03s07.rpy:686
 translate spanish e03s07_e9d8a4b3:
 
     # sy "Haha. Good. Then we can all cuddle up and have sex all day tomorrow."
-    sy "Ja ja. Bien. Entonces podremos acurrucarnos todos y tener sexo todo el día mañana."
+    sy "Jaja. Bien. Entonces podremos acurrucarnos y tener sexo todo el día de mañana."
 
 # game/code/e03/e03s07.rpy:689
 translate spanish e03s07_481695ad:
@@ -1100,7 +1100,7 @@ translate spanish e03s07_066b4111:
 translate spanish e03s07_df6bec71:
 
     # mh "Oh fuck... [mcname]. Darling... I'm cumminuaah!"
-    mh "Oh joder... [mcname]. Cariño... ¡estoy cumminuaah!"
+    mh "Oh joder... [mcname]. Cariño... ¡Me estoy corriendo!"
 
 # game/code/e03/e03s07.rpy:711
 translate spanish e03s07_78fe4937:
@@ -1124,7 +1124,7 @@ translate spanish e03s07_e2e563a2:
 translate spanish e03s07_8795cc12:
 
     # mc "Yup. One down, one to go."
-    mc "Sí. Uno menos, uno por irse."
+    mc "Sí. Una menos, falta una."
 
 # game/code/e03/e03s07.rpy:726
 translate spanish e03s07_c437efe9:
@@ -1148,7 +1148,7 @@ translate spanish e03s07_199c12a0:
 translate spanish e03s07_8fb93cd6:
 
     # sy "Of course. I'm sure I can have more milk ready once the little two are out."
-    sy "Por supuesto. Estoy seguro de que podré tener más leche lista una vez que los dos pequeños salgan."
+    sy "Por supuesto. Estoy segura de que podré tener más leche lista una vez que los dos pequeños salgan."
 
 # game/code/e03/e03s07.rpy:739
 translate spanish e03s07_b7781ce1:
@@ -1166,7 +1166,7 @@ translate spanish e03s07_70149b2a:
 translate spanish e03s07_697d2b11:
 
     # mh "Mmmm. I had no idea your milk would taste so good."
-    mh "Mmmm. No tenía idea de que tu leche sabría tan bien."
+    mh "Mmmm. No tenía ni idea de que tu leche tuviera tan buen sabor."
 
 # game/code/e03/e03s07.rpy:747
 translate spanish e03s07_e8a147c1:
@@ -1184,7 +1184,7 @@ translate spanish e03s07_8f92138e:
 translate spanish e03s07_3da2daeb:
 
     # mh "*hungry slurping*"
-    mh "*sorbiendo hambriento*"
+    mh "*sorbos hambrientos*"
 
 # game/code/e03/e03s07.rpy:762
 translate spanish e03s07_351ec13c:
@@ -1268,13 +1268,13 @@ translate spanish e03s07_93ec3eaf:
 translate spanish e03s07_07cb297e:
 
     # sy "Good, because I can't fall asleep if I don't make both of you cum."
-    sy "Bien, porque no puedo quedarme dormido si no hago que los dos os corrais."
+    sy "Bien, porque no puedo quedarme dormida si no hago que los dos se corran."
 
 # game/code/e03/e03s07.rpy:809
 translate spanish e03s07_27145d84:
 
     # sy "I want you...... my ass."
-    sy "Te quiero... mi culo."
+    sy "Te quiero... en mi culo."
 
 # game/code/e03/e03s07.rpy:811
 translate spanish e03s07_11455b53_2:
@@ -1322,7 +1322,7 @@ translate spanish e03s07_e66ebf88:
 translate spanish e03s07_024c7f1b:
 
     # sy "*happy sucking*"
-    sy "*feliz chupando*"
+    sy "*chupando felizmente*"
 
 # game/code/e03/e03s07.rpy:841
 translate spanish e03s07_793595e3:
@@ -1370,7 +1370,7 @@ translate spanish e03s07_1bde4120:
 translate spanish e03s07_16ef6f4d:
 
     # mc "Haha. Well, we'll just have to take it one day at a time."
-    mc "Ja ja. Bueno, tendremos que hacerlo un día a la vez."
+    mc "Jaja. Bueno, tendremos que ir paso a paso."
 
 # game/code/e03/e03s07.rpy:860
 translate spanish e03s07_87a82051:
@@ -1382,7 +1382,7 @@ translate spanish e03s07_87a82051:
 translate spanish e03s07_6e81441d:
 
     # mc "Heh. Nah. Been there, done that."
-    mc "Je. No. Estuve allí, lo hice."
+    mc "Je. No. Estuve allí, hice eso."
 
 # game/code/e03/e03s07.rpy:865
 translate spanish e03s07_8299270b:
@@ -1406,7 +1406,7 @@ translate spanish e03s07_4666f87a:
 translate spanish e03s07_8e34da50:
 
     # mc "I'm going to-"
-    mc "voy a-"
+    mc "voy a..."
 
 # game/code/e03/e03s07.rpy:874
 translate spanish e03s07_53d08b5d:
@@ -1442,13 +1442,13 @@ translate spanish e03s07_b59cd05b:
 translate spanish e03s07_ae841aa3:
 
     # mh "My god you're ravenous."
-    mh "Dios mío, estás hambriento."
+    mh "Dios mío, estás hambrienta."
 
 # game/code/e03/e03s07.rpy:902
 translate spanish e03s07_320dd6c3:
 
     # sy "Mmmm. Always have been."
-    sy "Mmmm. Siempre lo he sido."
+    sy "Mmmm. Siempre lo he estado."
 
 # game/code/e03/e03s07.rpy:904
 translate spanish e03s07_39685004_1:
@@ -1460,7 +1460,7 @@ translate spanish e03s07_39685004_1:
 translate spanish e03s07_5d5be3e8:
 
     # mc "Good night you two. I'm so grateful to be right here, at this exact moment."
-    mc "Buenas noches a los dos. Estoy muy agradecido de estar aquí, en este momento exacto."
+    mc "Buenas noches a las dos. Estoy tan agradecido de estar aquí, en este preciso momento."
 
 # game/code/e03/e03s07.rpy:911
 translate spanish e03s07_dc60b9f6:
@@ -1478,7 +1478,7 @@ translate spanish e03s07_dd3c13c2:
 translate spanish e03s07_83828830:
 
     # mh "Even though I couldn't imagine living like this a year ago, I wouldn't trade sharing my bed with you two for anything else in the world."
-    mh "Aunque no podía imaginarme vivir así hace un año, no cambiaría compartir mi cama con ustedes dos por nada en el mundo."
+    mh "Aunque no podía imaginarme vivir de esta manera hace un año, no cambiaría compartir mi cama con ustedes dos por nada en el mundo."
 
 # game/code/e03/e03s07.rpy:922
 translate spanish e03s07_8e824e39:
@@ -1508,7 +1508,7 @@ translate spanish e03s07_953a34ff:
 translate spanish e03s07_f9ede429:
 
     # sy "*softly* I love you both so much."
-    sy "*suavemente* Los amo mucho a ambos."
+    sy "*suavemente* Los amo mucho a los dos."
 
 # game/code/e03/e03s07.rpy:944
 translate spanish e03s07_09fc2218:
@@ -1532,7 +1532,7 @@ translate spanish strings:
 
     # game/code/e03/e03s07.rpy:207
     old "Two weeks ater at the Doctor's office"
-    new "Dos semanas después en el consultorio del doctor."
+    new "Dos semanas después en el consultorio de la doctora."
 
     # game/code/e03/e03s07.rpy:330
     old "Five months later"
@@ -1548,5 +1548,5 @@ translate spanish strings:
 
     # game/code/e03/e03s07.rpy:841
     old "You have finished playing Ending #03!"
-    new "You have finished playing Ending #03!"
+    new "¡Has terminado de jugar el final #03!"
 
