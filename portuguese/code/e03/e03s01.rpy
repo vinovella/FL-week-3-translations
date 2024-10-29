@@ -1012,7 +1012,7 @@ translate portuguese e03s01_anim3_fc94398f:
 translate portuguese e03s01_anim4_e71dbcfe:
 
     # sy "Come on. Come on come on come on. I want you both to fuck me at the same time."
-    sy "Bora. Anda, anda, anda. Quero que vocês me comem ao mesmo tempo."
+    sy "Bora. Anda, anda, anda. Quero que vocês me comam ao mesmo tempo."
 
 # game/code/e03/e03s01.rpy:808
 translate portuguese e03s01_anim4_fed09163:
@@ -1138,7 +1138,7 @@ translate portuguese e03s01_anim4_6cb8aa9d:
 translate portuguese e03s01_anim4_efdb2666:
 
     # sy "Lyssa. I want... I want to taste your cock again. I want to enjoy the taste of my pussy on your flesh."
-    sy "Lyssa. Eu quero... Quero seu pau de novo. Eu quero sentir a minha boceta apertando no seu pau."
+    sy "Lyssa. Eu quero... Quero seu pau de novo. Eu quero sentir o gosto da minha boceta no seu pau."
 
 # game/code/e03/e03s01.rpy:885
 translate portuguese e03s01_anim4_78c22884:
