@@ -106,7 +106,7 @@ translate portuguese e09s04_a977d63c:
 translate portuguese e09s04_1955500d:
 
     # mc "We saw what he did to you... You're not the only one."
-    mc "A gente viu tem feito com você... Não é só você."
+    mc "Vimos o que ele fez com você... Não é só você."
 
 # game/code/e09/e09s04.rpy:98
 translate portuguese e09s04_b1359d23:
@@ -244,7 +244,7 @@ translate portuguese e09s04_3f929e09:
 translate portuguese e09s04_a0a205a1:
 
     # hr "I'll meet you outside of the Senator's estate in a few hours. Wear something sneaky."
-    hr "Vejo você lá fora da casa do Senador em algumas horas. Veste algo mais sorrateiro."
+    hr "Vejo você lá fora da casa do Senador em algumas horas. Veste algo mais discreto."
 
 # game/code/e09/e09s04.rpy:195
 translate portuguese e09s04_cadc87c4:
@@ -478,7 +478,7 @@ translate portuguese e09s04_f8199e01:
 translate portuguese e09s04_2cfd30ec:
 
     # hr "{size=*0.6}I finally got you, you son of a bitch.{/size}"
-    hr "{size=*0.6}Finalmente peguei seu filho da puta.{/size}"
+    hr "{size=*0.6}Finalmente te peguei seu arrombado.{/size}"
 
 # game/code/e09/e09s04.rpy:346
 translate portuguese e09s04_b0fbd2fb:
@@ -742,7 +742,7 @@ translate portuguese e09s04_7c03f607:
 translate portuguese e09s04_1b94c7b2:
 
     # mc "Aww, come on. I was just a part of the team."
-    mc "Ah fala sério. Eu só era parte do time."
+    mc "Ah fala sério. Eu só fui parte do time."
 
 # game/code/e09/e09s04.rpy:487
 translate portuguese e09s04_809f0dba:
@@ -850,7 +850,7 @@ translate portuguese e09s04_d25b2d2b:
 translate portuguese e09s04_0db88fdf:
 
     # hr "Fetish Locator helped me. In a weird, roundabout way. It was able to do something for me I've wanted to happen for so long. I'd be a hypocrite to criticize it now."
-    hr "O Fetish Locator me ajudou. De uma forma bem estranha. Ele conseguiu fazer uma coisa por mim que eu queria que acontecesse faz tanto tempo. Ser hipocrisia minha criticar isso agora."
+    hr "O Fetish Locator me ajudou. De uma forma bem estranha. Ele conseguiu fazer uma coisa por mim que eu queria que acontecesse faz tanto tempo. Seria hipocrisia minha criticar isso agora."
 
 # game/code/e09/e09s04.rpy:541
 translate portuguese e09s04_87cedd7b_1:
@@ -1486,7 +1486,7 @@ translate portuguese e09s04_b1fc69d9:
 translate portuguese e09s04_6e8598fc:
 
     # hr "True... but this is your audition."
-    hr "Verdade... mas essa é a sua entrevista."
+    hr "Verdade... mas essa é a sua prova."
 
 # game/code/e09/e09s04.rpy:845
 translate portuguese e09s04_f92d680b:
