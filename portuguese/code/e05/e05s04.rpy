@@ -1392,17 +1392,17 @@ translate portuguese strings:
 translate portuguese e05s04_659af4e7:
 
     # mh "Do you want to look at the precedent set forth by {i}Tienda vs the State of Texas{/i}?"
-    mh ""
+    mh "Quer dar uma olhada no precedente causado por {i}Tienda contra o Estado do Texas{/i}?"
 
 # game/code/e05/e05s04.rpy:589
 translate portuguese e05s04_sex_12da81af:
 
     # op "Just like you, Lyssa. I could never forget about [mcname]."
-    op ""
+    op "Que nem você, Lyssa. Eu nunca me esqueceria do [mcname]."
 
 # game/code/e05/e05s04.rpy:765
 translate portuguese e05s04_sex_eb6a1ba4:
 
     # mh "Mmmm. You made a mess, Oliver."
-    mh ""
+    mh "Mmmm. Oliver, você fez uma bagunça."
 
