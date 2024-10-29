@@ -1,8 +1,8 @@
-﻿# game/code/e03/e03s04.rpy:52
+# game/code/e03/e03s04.rpy:52
 translate spanish e03s04_3399e772:
 
     # sy "Mmmm, Lyssa?"
-    sy "Mmmm, ¿Lissa?"
+    sy "Mmmm, ¿Lyssa?"
 
 # game/code/e03/e03s04.rpy:55
 translate spanish e03s04_f71549ee:
@@ -38,7 +38,7 @@ translate spanish e03s04_160b1cb6:
 translate spanish e03s04_140e605c:
 
     # mc "I'm up, I'm up..."
-    mc "Estoy arriba, estoy arriba..."
+    mc "Estoy despierto, estoy despierto..."
 
 # game/code/e03/e03s04.rpy:67
 translate spanish e03s04_8c26cb31:
@@ -50,7 +50,7 @@ translate spanish e03s04_8c26cb31:
 translate spanish e03s04_a135b10e:
 
     # sy "No Lyssa to cuddle."
-    sy "No hay Lyssa a quien abrazar."
+    sy "No hay Lyssa para abrazar."
 
 # game/code/e03/e03s04.rpy:74
 translate spanish e03s04_0abda2fa:
@@ -68,13 +68,13 @@ translate spanish e03s04_e1798e18:
 translate spanish e03s04_f70c7460:
 
     # "Cult Member" "Good, you're awake. The High Priestess wants to see you both."
-    "Miembro de culto" "Bien, estás despierto. La Suma Sacerdotisa quiere verlos a ambos."
+    "Miembro del culto" "Bien, están despiertos. La Suma Sacerdotisa quiere verlos a ambos."
 
 # game/code/e03/e03s04.rpy:82
 translate spanish e03s04_23e08e00:
 
     # mc "Why does she want to see us? Where's Lyssa?"
-    mc "¿Por qué quiere vernos? ¿Dónde está Lysa?"
+    mc "¿Por qué quiere vernos? ¿Dónde está Lyssa?"
 
 # game/code/e03/e03s04.rpy:85
 translate spanish e03s04_d9321915:
@@ -92,7 +92,7 @@ translate spanish e03s04_e15b287d:
 translate spanish e03s04_3aa1c965:
 
     # "Cult Member" "Where we're going, you won't need clothes."
-    "Miembro de culto" "A donde vamos, no necesitarás ropa."
+    "Miembro del culto" "A donde vamos, no necesitarás ropa."
 
 # game/code/e03/e03s04.rpy:96
 translate spanish e03s04_246fab28:
@@ -176,7 +176,7 @@ translate spanish e03s04_7edaf489:
 translate spanish e03s04_0afa29bf:
 
     # hp "You dare speak to a goddess like that!?"
-    hp "¿¡Te atreves a hablarle así a una diosa!?"
+    hp "¿¡Te atreves a hablarle de esa manera a una diosa!?"
 
 # game/code/e03/e03s04.rpy:152
 translate spanish e03s04_1c427631:
@@ -200,7 +200,7 @@ translate spanish e03s04_691ece54:
 translate spanish e03s04_c3177673:
 
     # hp "It is she, reincarnate, Dyma!"
-    hp "¡Es ella, reencarnada, Dyma!"
+    hp "¡Es ella, la reencarnada de Dyma!"
 
 # game/code/e03/e03s04.rpy:163
 translate spanish e03s04_012ac0a1:
@@ -272,13 +272,13 @@ translate spanish e03s04_11455b53:
 translate spanish e03s04_2911e73b:
 
     # mh "It's a sex thing."
-    mh "Es una cosa de sexo."
+    mh "Es una cosa sexual."
 
 # game/code/e03/e03s04.rpy:203
 translate spanish e03s04_f21a4fab:
 
     # hp "Exactly! You have brought a nice, hard tree here. And she, has provided us with a warm, wet cave. The prophecy tells of great endurance - the endurance to satisfy all before she herself is satisfied."
-    hp "¡Exactamente! Has traído aquí un árbol bonito y duro. Y ella nos ha proporcionado una cueva cálida y húmeda. La profecía habla de una gran resistencia: la resistencia para satisfacer a todos antes de que ella misma esté satisfecha."
+    hp "¡Exactamente! Has traído aquí un árbol bonito y duro. Y ella nos ha proporcionado una cueva cálida y húmeda. La profecía habla de una gran resistencia... la resistencia para satisfacer a todos antes de que ella misma esté satisfecha."
 
 # game/code/e03/e03s04.rpy:206
 translate spanish e03s04_22909253:
@@ -320,7 +320,7 @@ translate spanish e03s04_ecc4fbf0:
 translate spanish e03s04_98ac311d:
 
     # sy "Not at all!"
-    sy "¡De nada!"
+    sy "¡Para nada!"
 
 # game/code/e03/e03s04.rpy:229
 translate spanish e03s04_f8aeffc8:
@@ -386,7 +386,7 @@ translate spanish e03s04_76b95bc1:
 translate spanish e03s04_17efbc56:
 
     # mh "I think she has something to prove - she's sucking my dick harder than she's ever sucked it before."
-    mh "Creo que tiene algo que demostrar: me está chupando la polla más fuerte que nunca antes."
+    mh "Creo que tiene algo que demostrar... me está chupando la polla más fuerte que nunca antes."
 
 # game/code/e03/e03s04.rpy:269
 translate spanish e03s04_0e60235a:
@@ -404,7 +404,7 @@ translate spanish e03s04_2d213220:
 translate spanish e03s04_942725be:
 
     # mh "Shit - if she keeps swirling her tongue like that, she might prove you wrong."
-    mh "Mierda, si sigue moviendo la lengua así, podría demostrar que estás equivocado."
+    mh "Mierda, si sigue moviendo la lengua de esa manera, podría demostrar que estás equivocada."
 
 # game/code/e03/e03s04.rpy:276
 translate spanish e03s04_c8a0449b:
@@ -422,7 +422,7 @@ translate spanish e03s04_42db4300:
 translate spanish e03s04_f3f1344e:
 
     # mh "God, fire in her lips is right. Stacy - fuuuuuck!"
-    mh "Dios, el fuego en sus labios tiene razón. Stacy - ¡fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu!"
+    mh "Dios, el fuego en sus labios tiene razón. Stacy... !Miiieeerdaaa!"
 
 # game/code/e03/e03s04.rpy:287
 translate spanish e03s04_769e398e:
@@ -434,13 +434,13 @@ translate spanish e03s04_769e398e:
 translate spanish e03s04_5b453e1f:
 
     # hp "Mmmmmm, truer words have not been said in this hallowed hall."
-    hp "Mmmmmm, no se han dicho palabras más verdaderas en este salón sagrado."
+    hp "Mmmmmm, no se han dicho palabras más ciertas en este salón sagrado."
 
 # game/code/e03/e03s04.rpy:293
 translate spanish e03s04_c4f91c6a:
 
     # mh "Oh, Stacy... Stacy... Keep going, just like that..."
-    mh "Oh, Stacy... Stacy... Sigue adelante, así de simple..."
+    mh "Oh, Stacy... Stacy... Continúa, sigue así..."
 
 # game/code/e03/e03s04.rpy:294
 translate spanish e03s04_c158a322:
@@ -476,7 +476,7 @@ translate spanish e03s04_76d64bd3:
 translate spanish e03s04_345ef9db:
 
     # sy "I'd also love that. Having Lyssa's wonderful cock down my throat has made me so incredibly horny."
-    sy "A mí también me encantaría. Tener la maravillosa polla de Lyssa en mi garganta me ha puesto increíblemente cachonda."
+    sy "A mí también me encantaría. Tener la maravillosa polla de Lyssa en mi garganta me ha puesto increíblemente excitada."
 
 # game/code/e03/e03s04.rpy:321
 translate spanish e03s04_da87bf46:
@@ -512,7 +512,7 @@ translate spanish e03s04_fc192383:
 translate spanish e03s04_6f9c0eb5:
 
     # mc "You know, you weren't wrong talking about the fire of her lips. She is sucking my cock so damn hard right now!"
-    mc "Sabes, no te equivocaste al hablar del fuego de sus labios. ¡Ella está chupando mi polla tan fuerte ahora mismo!"
+    mc "Sabes, no te equivocaste al hablar del fuego de sus labios. ¡Ella está chupando mi polla tan fuerte en este momento!"
 
 # game/code/e03/e03s04.rpy:347
 translate spanish e03s04_ca99b92f:
@@ -524,7 +524,7 @@ translate spanish e03s04_ca99b92f:
 translate spanish e03s04_3da53a1a:
 
     # hp "I want to watch you take her... Breed this mortal, fill her with your goddess cum!"
-    hp "Quiero verte tomarla... ¡Cría a esta mortal, llénala con tu semen de diosa!"
+    hp "Quiero verte tomarla... ¡Embaraza a esta mortal, llénala con tu semen de diosa!"
 
 # game/code/e03/e03s04.rpy:353
 translate spanish e03s04_140f5ed5:
@@ -554,37 +554,37 @@ translate spanish e03s04_99c35910:
 translate spanish e03s04_500098ee:
 
     # hp "You, too. I want you both to fill her. Breed this lowly woman. Treat her like the filthy unbeliever she is."
-    hp "Tú también. Quiero que ambos la llenéis. Cría a esta humilde mujer. Trátala como la sucia incrédula que es."
+    hp "Tú también. Quiero que los dos la llenen. Embaraza a esta humilde mujer. Trátala como la sucia incrédula que es."
 
 # game/code/e03/e03s04.rpy:365
 translate spanish e03s04_bfd7e04d:
 
     # mc "Yes, uhm, High Priestess."
-    mc "Sí, uhm, suma sacerdotisa."
+    mc "Sí, uhm, Suma Sacerdotisa."
 
 # game/code/e03/e03s04.rpy:367
 translate spanish e03s04_2aa11021:
 
     # mc "You hear that? My filthy, slutty little sister is only good enough for breeding!"
-    mc "¿Oíste eso? ¡Mi hermanita sucia y cachonda sólo es lo suficientemente buena para reproducirse!"
+    mc "¿Oíste eso? ¡Mi hermanita sucia y excitada sólo es lo suficientemente buena para embarazarse!"
 
 # game/code/e03/e03s04.rpy:369
 translate spanish e03s04_29003b4e:
 
     # mc "You hear that, Stacy? Your slutty pussy is only good for breeding now!"
-    mc "¿Oíste eso, Stacy? ¡Tu coño cachondo ahora solo sirve para reproducirse!"
+    mc "¿Oíste eso, Stacy? ¡Tu coño de zorra ahora solo sirve para embarazarse!"
 
 # game/code/e03/e03s04.rpy:370
 translate spanish e03s04_f5d37234:
 
     # mh "Mmmm, and it's so wet in hear, I feel like I can push my dick all the way to your cervix, fill you up all the way with cum and guarantee you get pregnant!"
-    mh "Mmmm, y está tan húmedo al oído que siento que puedo empujar mi polla hasta tu cuello uterino, llenarte completamente con semen y garantizar que quedes embarazada."
+    mh "Mmmm, y está tan mojada que siento que puedo empujar mi polla hasta el cuello uterino, llenarte de semen y garantizar que te quedes embarazada."
 
 # game/code/e03/e03s04.rpy:375
 translate spanish e03s04_e3ff2c28:
 
     # hp "I can see, whereas my goddess has had plenty of practice with sex, she needs more lessons in breeding us."
-    hp "Puedo ver que, si bien mi diosa ha tenido mucha práctica con el sexo, necesita más lecciones para criarnos."
+    hp "Ya veo, mientras que mi diosa ha tenido mucha práctica con el sexo, necesita más lecciones para procrear."
 
 # game/code/e03/e03s04.rpy:376
 translate spanish e03s04_83b70946:
@@ -626,19 +626,19 @@ translate spanish e03s04_dc5e8f71:
 translate spanish e03s04_2af51066:
 
     # mc "Oh shit, she's clamped her throat around my dick! You're right, Lyssa! She's about to-"
-    mc "¡Oh, mierda, me ha apretado la garganta con la polla! ¡Tienes razón, Lysa! Ella está a punto de-"
+    mc "¡Oh, mierda, me ha apretado la garganta con la polla! ¡Tienes razón, Lyssa! Ella está a punto de..."
 
 # game/code/e03/e03s04.rpy:396
 translate spanish e03s04_9db94b47:
 
     # sy "OHGODFUCKINGDAMNI'MCUMMMMMMING!"
-    sy "¡OH DIOS MALditoDAMNI'MCUMMMMMMMING!"
+    sy "¡OH DIOS MALDITO!"
 
 # game/code/e03/e03s04.rpy:400
 translate spanish e03s04_83a915a5:
 
     # sy "FUCKFUCKFUCKFUCKLYYSSSSA!"
-    sy "¡JODERJODERJODERFOLLYSSSSA!"
+    sy "¡MIERDA, MIERDA, MIERDA, LYSSA!"
 
 # game/code/e03/e03s04.rpy:403
 translate spanish e03s04_6ff5dd93:
@@ -656,19 +656,19 @@ translate spanish e03s04_5c2c7bcf:
 translate spanish e03s04_769932ca:
 
     # mh "Stacy?"
-    mh "Stacy?"
+    mh "¿Stacy?"
 
 # game/code/e03/e03s04.rpy:413
 translate spanish e03s04_68d6c732:
 
     # mc "Hello? Dear sweet sister? Are you still alive?"
-    mc "¿Hola? ¿Querida y dulce hermana? ¿Sigues vivo?"
+    mc "¿Hola? ¿Querida y dulce hermana? ¿Sigues viva?"
 
 # game/code/e03/e03s04.rpy:415
 translate spanish e03s04_ca9dbe07:
 
     # mc "Hello? Dear sweet Stacy? Are you still alive?"
-    mc "¿Hola? ¿Querida y dulce Stacy? ¿Sigues vivo?"
+    mc "¿Hola? ¿Querida y dulce Stacy? ¿Sigues viva?"
 
 # game/code/e03/e03s04.rpy:418
 translate spanish e03s04_6e3aed41:
@@ -686,13 +686,13 @@ translate spanish e03s04_261e7b10:
 translate spanish e03s04_c8c34050:
 
     # mh "Yeah, usually it takes a little longer to get her to cum like that."
-    mh "Sí, normalmente lleva un poco más de tiempo conseguir que se corra así."
+    mh "Sí, normalmente lleva un poco más de tiempo conseguir que se corra de esa manera."
 
 # game/code/e03/e03s04.rpy:428
 translate spanish e03s04_a6fe721a:
 
     # mc "Maybe she really likes the breeding talk?"
-    mc "¿Quizás a ella realmente le gusta la charla sobre crianza?"
+    mc "¿Quizás a ella realmente le gusta la conversación sobre embarazos?"
 
 # game/code/e03/e03s04.rpy:431
 translate spanish e03s04_d4d8ac7e:
@@ -722,7 +722,7 @@ translate spanish e03s04_ba59cdfd:
 translate spanish e03s04_30b7c7c4:
 
     # mh "Mmmm, for [mcname]? Always."
-    mh "Mmmm, ¿para [mcname]? Siempre."
+    mh "Mmmm, ¿por [mcname]? Siempre."
 
 # game/code/e03/e03s04.rpy:447
 translate spanish e03s04_84240cf2:
@@ -734,13 +734,13 @@ translate spanish e03s04_84240cf2:
 translate spanish e03s04_7c9ed600:
 
     # hp "I can still feel how slick your cock is from your breedable sister's mouth. It should be perfect to slide right into our goddess's holiness."
-    hp "Todavía puedo sentir lo resbaladiza que está tu polla en la boca de tu hermana criable. Debería ser perfecto para deslizarnos directamente hacia la santidad de nuestra diosa."
+    hp "Todavía puedo sentir lo resbaladiza que está tu polla por la boca de tu hermana reproductora. Debe ser perfecto para deslizarse justo en la santidad de nuestra diosa."
 
 # game/code/e03/e03s04.rpy:454
 translate spanish e03s04_07c6e93f:
 
     # hp "I can still feel how slick your cock is from that breedable slut's mouth. It should be perfect to slide right into our goddess's holiness."
-    hp "Todavía puedo sentir lo resbaladiza que está tu polla en la boca de esa zorra reproducible. Debería ser perfecto para deslizarnos directamente hacia la santidad de nuestra diosa."
+    hp "Todavía puedo sentir lo resbaladiza que está tu polla en la boca de esa zorra reproductora. Debe ser perfecto para deslizarse justo en la santidad de nuestra diosa."
 
 # game/code/e03/e03s04.rpy:457
 translate spanish e03s04_d9d300ad:
@@ -770,7 +770,7 @@ translate spanish e03s04_efea644f:
 translate spanish e03s04_adb15cfe:
 
     # sy "Now I am! I can't stand yet, but there's still plenty I can do from down here."
-    sy "¡Ahora lo soy! No puedo soportarlo todavía, pero todavía hay mucho que puedo hacer desde aquí abajo."
+    sy "¡Ahora lo estoy! Aún no puedo estar de pie, pero todavía puedo hacer muchas cosas desde aquí abajo."
 
 # game/code/e03/e03s04.rpy:480
 translate spanish e03s04_7601706f:
@@ -782,7 +782,7 @@ translate spanish e03s04_7601706f:
 translate spanish e03s04_515fd45b:
 
     # mh "Mmmmmmppppphhh!"
-    mh "Mmmmmmppppphhh!"
+    mh "¡Mmmmmmppppphhh!"
 
 # game/code/e03/e03s04.rpy:486
 translate spanish e03s04_a82ad6c8:
@@ -818,7 +818,7 @@ translate spanish e03s04_38d18b00:
 translate spanish e03s04_b85dd4c5:
 
     # mc "Not yet, fuuuuu-, not yet!"
-    mc "¡Aún no, fuuuuu-, todavía no!"
+    mc "¡Aún no, mieeerda... todavía no!"
 
 # game/code/e03/e03s04.rpy:500
 translate spanish e03s04_9137e423:
@@ -854,7 +854,7 @@ translate spanish e03s04_2807aaa9:
 translate spanish e03s04_3973c10e:
 
     # mc "Shit, if you keep talking like that-"
-    mc "Mierda, si sigues hablando así-"
+    mc "Mierda, si sigues hablando de esa manera..."
 
 # game/code/e03/e03s04.rpy:515
 translate spanish e03s04_5a56582b:
@@ -902,13 +902,13 @@ translate spanish e03s04_c7669cdd:
 translate spanish e03s04_19e9c024:
 
     # sy "Mmmhmmm... I think I've just unlocked a new kink though."
-    sy "Mmmhmmm... Aunque creo que acabo de desbloquear un nuevo problema."
+    sy "Mmmhmmm... Aunque creo que acabo de descubrir un nuevo fetiche."
 
 # game/code/e03/e03s04.rpy:551
 translate spanish e03s04_769932ca_1:
 
     # mh "Stacy?"
-    mh "Stacy?"
+    mh "¿Stacy?"
 
 # game/code/e03/e03s04.rpy:555
 translate spanish e03s04_ecae322e:
@@ -932,7 +932,7 @@ translate spanish e03s04_8fc55906:
 translate spanish e03s04_975dc915:
 
     # sy "{size=*0.6}What are you waiting for, big brother? Come and fuck your little sister until you fill her up with your cum.{/size}"
-    sy "{size=*0.6}¿A qué estás esperando, hermano mayor? Ven y folla a tu hermana pequeña hasta llenarla con tu semen.{/size}"
+    sy "{size=*0.6}¿Qué estás esperando, hermano mayor? Ven y folla a tu hermana pequeña hasta llenarla con tu semen.{/size}"
 
 # game/code/e03/e03s04.rpy:567
 translate spanish e03s04_6309eed0:
@@ -950,7 +950,7 @@ translate spanish e03s04_71e3e284:
 translate spanish e03s04_37e409bb:
 
     # hp "Wait! Dyma is supposed to be the one-"
-    hp "¡Esperar! Se supone que Dyma es la indicada."
+    hp "¡Espera! Se supone que Dyma es la indicada."
 
 # game/code/e03/e03s04.rpy:577
 translate spanish e03s04_10ffe725:
@@ -968,7 +968,7 @@ translate spanish e03s04_4b9175d9:
 translate spanish e03s04_3d6411de:
 
     # mh "You two look incredible... I hope you have room for one more, Stacy."
-    mh "Ustedes dos se ven increíbles... Espero que tengas espacio para uno más, Stacy."
+    mh "Ustedes dos se ven increíbles... Espero que tengas espacio para una más, Stacy."
 
 # game/code/e03/e03s04.rpy:587
 translate spanish e03s04_6000f635:
@@ -1004,7 +1004,7 @@ translate spanish e03s04_8c96c4b1:
 translate spanish e03s04_e62f94bb:
 
     # mh " I do... *moans* I really do."
-    mh "Lo hago... *gime* Realmente lo hago."
+    mh "Lo deseo... *gime* Realmente lo deseo."
 
 # game/code/e03/e03s04.rpy:606
 translate spanish e03s04_1caf7915:
@@ -1040,13 +1040,13 @@ translate spanish e03s04_7eb139b2:
 translate spanish e03s04_131e7bbb:
 
     # mh "Stacy - nnngggggh!"
-    mh "Stacy: ¡nnngggggh!"
+    mh "Stacy... ¡nnngggggh!"
 
 # game/code/e03/e03s04.rpy:617
 translate spanish e03s04_77701b98:
 
     # sy "You too, Lyssa! I want you to tear my ass apart - I want to feel your cum shoot deep inside me, to hold it in my ass the rest of the day!"
-    sy "¡Tú también, Lyssa! Quiero que me destroces el culo. ¡Quiero sentir tu semen dispararse profundamente dentro de mí, para sostenerlo en mi culo el resto del día!"
+    sy "¡Tú también, Lyssa! Quiero que me destroces el culo. ¡Quiero sentir tu semen dispararse profundamente dentro de mí, para tenerlo en mi culo el resto del día!"
 
 # game/code/e03/e03s04.rpy:618
 translate spanish e03s04_27b66e02:
@@ -1094,7 +1094,7 @@ translate spanish e03s04_6bf92c57:
 translate spanish e03s04_12f55578:
 
     # sy "Yes, keep talking like that - I'm so close!"
-    sy "Sí, sigue hablando así, ¡estoy tan cerca!"
+    sy "Sí, sigue hablando de esa manera, ¡estoy tan cerca!"
 
 # game/code/e03/e03s04.rpy:637
 translate spanish e03s04_f4b687db:
@@ -1118,7 +1118,7 @@ translate spanish e03s04_78d02a2f:
 translate spanish e03s04_14656de4:
 
     # sy "Ohhhh, Goooooood!"
-    sy "Ohhhh, ¡bueno!"
+    sy "Ohhhh, ¡Biiieeen!"
 
 # game/code/e03/e03s04.rpy:645
 translate spanish e03s04_83cc6c01:
@@ -1142,7 +1142,7 @@ translate spanish e03s04_95fcefdf:
 translate spanish e03s04_a1b12bf1:
 
     # mc "Oh goddess, I'm cumming! I'm going to fill you up!"
-    mc "¡Oh diosa, me estoy acabando! ¡Te voy a llenar!"
+    mc "¡Oh diosa, me estoy corriendo! ¡Te voy a llenar!"
 
 # game/code/e03/e03s04.rpy:653
 translate spanish e03s04_a8da2d8d:
@@ -1154,13 +1154,13 @@ translate spanish e03s04_a8da2d8d:
 translate spanish e03s04_e4583c41:
 
     # mc "I'm cummming! Get ready, Stacy!"
-    mc "¡Me estoy acabando! ¡Prepárate, Stacy!"
+    mc "¡Me estoy corriendo! ¡Prepárate, Stacy!"
 
 # game/code/e03/e03s04.rpy:662
 translate spanish e03s04_05f42e26:
 
     # sy "Oh goddess, yes [mcname], yes!!! Make me your pregnant little cum whoooooore!"
-    sy "¡¡¡Oh diosa, sí [mcname], sí!!! ¡Hazme tu pequeño semen embarazada!"
+    sy "¡¡¡Oh diosa, sí [mcname], sí!!! ¡Embaraza a tu pequeña zorra!"
 
 # game/code/e03/e03s04.rpy:666
 translate spanish e03s04_d4f99ba3:
@@ -1172,7 +1172,7 @@ translate spanish e03s04_d4f99ba3:
 translate spanish e03s04_1f2891cb:
 
     # hp "Wait! You must cum last!"
-    hp "¡Esperar! ¡Debes correrte al final!"
+    hp "¡Espera! ¡Debes correrte al final!"
 
 # game/code/e03/e03s04.rpy:670
 translate spanish e03s04_422e1b90:
@@ -1184,7 +1184,7 @@ translate spanish e03s04_422e1b90:
 translate spanish e03s04_1b2b923a:
 
     # sy "Oh goddess, [mcname]! I can feel your warm, virile cum deep inside my woooomb!"
-    sy "¡Oh diosa, [mcname]! ¡Puedo sentir tu semen cálido y viril en lo profundo de mi woooomb!"
+    sy "¡Oh diosa, [mcname]! ¡Puedo sentir tu semen cálido y viril en lo profundo de mi útero!"
 
 # game/code/e03/e03s04.rpy:684
 translate spanish e03s04_968b6f9d:
@@ -1196,13 +1196,13 @@ translate spanish e03s04_968b6f9d:
 translate spanish e03s04_bdef803b:
 
     # sy "Yes, Lyssa, yes!!! Fill my ass up! I want to be full of your cum!"
-    sy "¡¡¡Sí, Lyssa, sí!!! ¡Lléname el culo! ¡Quiero estar lleno de tu semen!"
+    sy "¡¡¡Sí, Lyssa, sí!!! ¡Lléname el culo! ¡Quiero estar llena de tu semen!"
 
 # game/code/e03/e03s04.rpy:700
 translate spanish e03s04_f1b851e3:
 
     # sy "I'm filled with cum from my two favorite people! I love you both so much!"
-    sy "¡Estoy lleno de semen de mis dos personas favoritas! ¡Los amo mucho a ambos!"
+    sy "¡Estoy llena de semen de mis dos personas favoritas! ¡Los amo mucho a ambos!"
 
 # game/code/e03/e03s04.rpy:704
 translate spanish e03s04_d1d41db3:
@@ -1226,19 +1226,19 @@ translate spanish e03s04_1723aa7a:
 translate spanish e03s04_62e01729:
 
     # "Cult Member" "Yes, High Priestess."
-    "Miembro de culto" "Sí, suma sacerdotisa."
+    "Miembro del culto" "Sí, Suma Sacerdotisa."
 
 # game/code/e03/e03s04.rpy:719
 translate spanish e03s04_10223704:
 
     # sy "{size=*0.6}Mmmm... Just a useless bitch to breed...{/size}"
-    sy "{size=*0.6}Mmmm... Sólo una perra inútil para criar...{/size}"
+    sy "{size=*0.6}Mmmm... Sólo una perra inútil para embarazarse...{/size}"
 
 # game/code/e03/e03s04.rpy:727
 translate spanish e03s04_39da6fa0:
 
     # sy "Sooooo..."
-    sy "Muuuuuy..."
+    sy "Entonces..."
 
 # game/code/e03/e03s04.rpy:730
 translate spanish e03s04_2b35b6fe:
@@ -1262,13 +1262,13 @@ translate spanish e03s04_05500ff6:
 translate spanish e03s04_e0091528:
 
     # sy "Look, I had no idea that talking about cumming in me and breeding and all that was going to be such a turn on, okay?"
-    sy "Mira, no tenía idea de que hablar de correrse dentro de mí y de procrear y todo eso iba a ser tan excitante, ¿vale?"
+    sy "Mira, no tenía idea de que hablar de correrse dentro de mí y de procrear y todo eso iba a ser tan excitante, ¿de acuerdo?"
 
 # game/code/e03/e03s04.rpy:743
 translate spanish e03s04_3034e3be:
 
     # sy "I am a little embarrassed about how horny I got, which is a new thing for me. But, I also want to do it again because it was super hot."
-    sy "Me da un poco de vergüenza lo caliente que me puse, lo cual es algo nuevo para mí. Pero también quiero volver a hacerlo porque hacía mucho calor."
+    sy "Me da un poco de vergüenza lo caliente que me puse, lo cual es algo nuevo para mí. Pero también quiero volver a hacerlo porque era súper sexy."
 
 # game/code/e03/e03s04.rpy:746
 translate spanish e03s04_6f9c525c:
@@ -1286,7 +1286,7 @@ translate spanish e03s04_fb482563:
 translate spanish e03s04_0cded40e:
 
     # mc "Of course I am. I know you're a pervert Stacy, and I'll always love you - no matter how freaky things get."
-    mc "Por supuesto que lo soy. Sé que eres una pervertida, Stacy, y siempre te amaré, sin importar lo raras que se pongan las cosas."
+    mc "Por supuesto que lo estoy. Sé que eres una pervertida, Stacy, y siempre te amaré, sin importar lo raras que se pongan las cosas."
 
 # game/code/e03/e03s04.rpy:758
 translate spanish e03s04_e3988bc7:
@@ -1316,7 +1316,7 @@ translate spanish e03s04_72deddfa:
 translate spanish e03s04_2dc725b6:
 
     # sy "I... I..."
-    sy "I... I..."
+    sy "Yo... Yo..."
 
 # game/code/e03/e03s04.rpy:773
 translate spanish e03s04_5b503575:
@@ -1334,7 +1334,7 @@ translate spanish e03s04_6148297e:
 translate spanish e03s04_a2e9a08a:
 
     # mc "I am worried about Lyssa, though."
-    mc "Pero estoy preocupada por Lyssa."
+    mc "Pero estoy preocupado por Lyssa."
 
 # game/code/e03/e03s04.rpy:787
 translate spanish e03s04_12defc4e:
@@ -1364,7 +1364,7 @@ translate spanish e03s04_92235198:
 translate spanish e03s04_fc93c498:
 
     # mc "Knowing Lyssa, she definitely does."
-    mc "Conociendo a Lyssa, definitivamente lo sabe."
+    mc "Conociendo a Lyssa, definitivamente lo tiene."
 
 # game/code/e03/e03s04.rpy:804
 translate spanish e03s04_c1ef3a7a:
@@ -1376,7 +1376,7 @@ translate spanish e03s04_c1ef3a7a:
 translate spanish e03s04_88a8805c:
 
     # mc "Yeah. I mean, there's not much we can do about it. Right?"
-    mc "Sí. Quiero decir, no hay mucho que podamos hacer al respecto. ¿Bien?"
+    mc "Sí. Quiero decir, no hay mucho que podamos hacer al respecto. ¿Verdad?"
 
 # game/code/e03/e03s04.rpy:811
 translate spanish e03s04_c51e8535:
@@ -1400,13 +1400,13 @@ translate spanish e03s04_f232ee28:
 translate spanish e03s04_ace2a57c:
 
     # mc "You know... I think I could go another round."
-    mc "Sabes... creo que podría dar otra ronda."
+    mc "Sabes... creo que podría tener otra ronda."
 
 # game/code/e03/e03s04.rpy:824
 translate spanish e03s04_d9fc70c6:
 
     # mc "Stacy?"
-    mc "Stacy?"
+    mc "¿Stacy?"
 
 # game/code/e03/e03s04.rpy:825
 translate spanish e03s04_2ee4c6c9:
@@ -1430,17 +1430,17 @@ translate spanish strings:
 translate spanish e03s04_9bef14b2:
 
     # mc "Don't you remember? After that weird chick took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
-    mc "Don't you remember? After that weird chick took Lyssa, they moved us into the lodge. Something about being 'chosen', or something."
+    mc "¿No te acuerdas? Después de que esa chica rara se llevara a Lyssa, nos trasladaron a la cabaña. Algo sobre ser «elegidos», o algo así."
 
 # game/code/e03/e03s04.rpy:177
 translate spanish e03s04_01eddfbc:
 
     # hp "She is not the first to appear before as goddess of love and wisdom, returned. But she appears the truest, thus far."
-    hp "She is not the first to appear before as goddess of love and wisdom, returned. But she appears the truest, thus far."
+    hp "Ella no es la primera en aparecer ante como la diosa del amor y la sabiduría. Pero parece ser la que más se ajusta a la real, hasta ahora."
 
 # game/code/e03/e03s04.rpy:504
 translate spanish e03s04_0f1ec9d2:
 
     # sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making me pregnant."
-    sy "Lyssa... Please, I want you to cum deep inside me. I want you to fill me up and show the world I belong to you by making me pregnant."
+    sy "Lyssa... Por favor, quiero que te corras dentro de mí. Quiero que me llenes y demuestres al mundo que te pertenezco dejándome embarazada."
 
