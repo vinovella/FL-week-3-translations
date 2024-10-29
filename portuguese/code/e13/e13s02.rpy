@@ -356,21 +356,21 @@ translate portuguese strings:
 
     # game/code/e13/e13s02.rpy:240
     old "Fuck Her Vaginally"
-    new "Vaginal"
+    new "Sexo Vaginal"
 
     # game/code/e13/e13s02.rpy:240
     old "Fuck Her Anally"
-    new "Anal"
+    new "Sexo Anal"
 
 # game/code/e13/e13s02.rpy:86
 translate portuguese e13s02_e5e5853b:
 
     # "Customer" "Aww, but..."
-    "Customer" ""
+    "Cliente" "Aaah, mas..."
 
 # game/code/e13/e13s02.rpy:200
 translate portuguese replay_e13s02_e2a7aa61:
 
     # nk "Actually... You know what? Sit down."
-    nk ""
+    nk "Aliás... Sabe uma coisa? Senta"
 
