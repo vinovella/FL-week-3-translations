@@ -218,17 +218,17 @@ translate portuguese strings:
 
     # game/code/e13/e13s04.rpy:274
     old "You have finished playing ending number 13!"
-    new "Você concluiu o final número 13!"
+    new "Você concluiu o Final número #13!"
 
 # game/code/e13/e13s04.rpy:179
 translate portuguese replay_e13s04_4ae8355d:
 
     # nk "God... That was amazing..."
-    nk ""
+    nk "Meu Deus... Isso foi incrível...."
 
 # game/code/e13/e13s04.rpy:214
 translate portuguese replay_e13s04_c133408e:
 
     # nk "*Loud moans* Yes, fuck... Yes! I love you, [mcname]."
-    nk ""
+    nk "*Gemidos altoso* Isso, porra... Isso! [mcname], eu te amo."
 
