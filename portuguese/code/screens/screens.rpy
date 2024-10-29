@@ -368,9 +368,9 @@ translate portuguese strings:
 
     # game/code/screens/screens.rpy:886
     old "Ren'Py Save Sync"
-    new ""
+    new "Sincronia do Save Ren'py"
 
     # game/code/screens/screens.rpy:1056
     old "Dialogue Box Opacity"
-    new ""
+    new "Opacidade da Caixa de Diálogo"
 
