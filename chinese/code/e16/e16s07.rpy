@@ -38,7 +38,7 @@ translate chinese e16s07_ed3851f7:
 translate chinese e16s07_b25d84ba:
 
     # "Everyone" "*laughs*"
-    ""每个人" *大笑*"
+    "每个人" "*大笑*"
 
 # game/code/e16/e16s07.rpy:97
 translate chinese e16s07_3b548776:
