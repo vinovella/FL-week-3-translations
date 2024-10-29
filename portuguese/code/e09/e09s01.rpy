@@ -592,13 +592,13 @@ translate portuguese e09s01_a06c0c13:
 translate portuguese e09s01_4f329d1b:
 
     # aw "Shy [mcname]? Really? That's hard to imagine."
-    aw "O [mcname] acanhado Sério? Difícil de imaginar."
+    aw "O [mcname] acanhado? Sério? Difícil de imaginar."
 
 # game/code/e09/e09s01.rpy:344
 translate portuguese e09s01_9fbd039d:
 
     # aw "Wait! Are you saying that you were putting out the vibes and he was missing all the signals, AmRose?"
-    aw "Espera! Você tá falando que estava dando os sinais e ele perdeu tudo, AmRose?"
+    aw "Espera! Você tá falando que estava mandando os sinais e ele nao percebeu, AmRose?"
 
 # game/code/e09/e09s01.rpy:347
 translate portuguese e09s01_a145fff8:
@@ -766,7 +766,7 @@ translate portuguese e09s01_sex_c4f355ce:
 translate portuguese e09s01_sex_42cc2ceb:
 
     # aw "Mrrmm. Just as juicy as the last time I saw it."
-    aw "Mrrmm. Tão gostoso que a última vez que eu vi."
+    aw "Mrrmm. Tão gostoso quanto a última vez que vi."
 
 # game/code/e09/e09s01.rpy:428
 translate portuguese e09s01_sex_74f95eb8:
