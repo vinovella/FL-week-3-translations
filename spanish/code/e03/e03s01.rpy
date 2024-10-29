@@ -1,4 +1,4 @@
-﻿# game/code/e03/e03s01.rpy:102
+# game/code/e03/e03s01.rpy:102
 translate spanish e03s01_03c8965c:
 
     # sy "Since when do you have a key to Lyssa's place?"
@@ -8,7 +8,7 @@ translate spanish e03s01_03c8965c:
 translate spanish e03s01_8b03cecf:
 
     # mc "She gave it to be for emergencies. And for kinky booty call stuff."
-    mc "Ella lo dio para emergencias. Y para cosas pervertidas de llamadas de botín."
+    mc "Ella me lo dio para emergencias. Y para cosas pervertidas."
 
 # game/code/e03/e03s01.rpy:107
 translate spanish e03s01_df8abb1f:
@@ -20,7 +20,7 @@ translate spanish e03s01_df8abb1f:
 translate spanish e03s01_7bf9ba69:
 
     # mct "Haha. Stacy doesn't suspect a thing."
-    mct "Ja ja. Stacy no sospecha nada."
+    mct "Jaja. Stacy no sospecha nada."
 
 # game/code/e03/e03s01.rpy:111
 translate spanish e03s01_dcdecb79:
@@ -38,7 +38,7 @@ translate spanish e03s01_aa45acfd:
 translate spanish e03s01_8356419c:
 
     # sy "Great. Let's do our best. Lyssa deserves it."
-    sy "Excelente. Hagamos nuestro mejor esfuerzo. Lysa se lo merece."
+    sy "Genial. Hagámoslo lo mejor que podamos. Lyssa se lo merece."
 
 # game/code/e03/e03s01.rpy:119
 translate spanish e03s01_2e3ad38d:
@@ -68,7 +68,7 @@ translate spanish e03s01_d46b1d66:
 translate spanish e03s01_64e6e182:
 
     # sy "I wasn't going to snoop."
-    sy "No iba a fisgonear."
+    sy "No iba a husmear...."
 
 # game/code/e03/e03s01.rpy:132
 translate spanish e03s01_30f96559:
@@ -86,7 +86,7 @@ translate spanish e03s01_c12302a7:
 translate spanish e03s01_df7544db:
 
     # mc "I'm not about to lose my key privileges because of you."
-    mc "No voy a perder mis privilegios clave por tu culpa."
+    mc "No voy a perder mis privilegios de llave por tu culpa."
 
 # game/code/e03/e03s01.rpy:141
 translate spanish e03s01_88cb1728:
@@ -152,7 +152,7 @@ translate spanish e03s01_7a767835:
 translate spanish e03s01_12889333:
 
     # sy "I do. And Lyssa doesn't either, or we wouldn't be having this conversation in her house, dummy."
-    sy "Sí. Y Lyssa tampoco, o no estaríamos teniendo esta conversación en su casa, tonto."
+    sy "Sí, me gusta. Y a Lyssa también, o no estaríamos teniendo esta conversación en su casa, tonto."
 
 # game/code/e03/e03s01.rpy:174
 translate spanish e03s01_737dedcc:
@@ -164,7 +164,7 @@ translate spanish e03s01_737dedcc:
 translate spanish e03s01_a406333b:
 
     # sy "I'm full of them."
-    sy "Estoy lleno de ellos."
+    sy "Estoy llena de ellos."
 
 # game/code/e03/e03s01.rpy:180
 translate spanish e03s01_d403c3d3:
@@ -200,7 +200,7 @@ translate spanish e03s01_91a067d3:
 translate spanish e03s01_06a5a5e5:
 
     # mc "Let me get that."
-    mc "Déjame entender eso."
+    mc "Déjame tomar eso."
 
 # game/code/e03/e03s01.rpy:208
 translate spanish e03s01_0f2e2404:
@@ -236,7 +236,7 @@ translate spanish e03s01_392abeb9:
 translate spanish e03s01_56fdf4ab:
 
     # sy "Hello Lyssa!"
-    sy "Hola Lyssa!"
+    sy "¡Hola Lyssa!"
 
 # game/code/e03/e03s01.rpy:232
 translate spanish e03s01_8b2b05c1:
@@ -254,13 +254,13 @@ translate spanish e03s01_6562c38c:
 translate spanish e03s01_c0b182b2:
 
     # mh "*sighs* I've been excited for date night the whole day."
-    mh "*suspira* He estado emocionado por la cita nocturna todo el día."
+    mh "*suspira* He estado emocionada por la cita nocturna todo el día."
 
 # game/code/e03/e03s01.rpy:246
 translate spanish e03s01_c74f00b3:
 
     # sy "Perfect. Now you can take a load off and let us wine and dine you, Lyssa."
-    sy "Perfecto. Ahora puedes relajarte y dejar que te bebamos y cenemos, Lyssa."
+    sy "Perfecto. Ahora puedes relajarte y dejar que te sirvamos el vino y la cena, Lyssa."
 
 # game/code/e03/e03s01.rpy:248
 translate spanish e03s01_22ab3ab9:
@@ -278,13 +278,13 @@ translate spanish e03s01_284ba5fe:
 translate spanish e03s01_60f8f34b:
 
     # sy "We're glad you like it. I'm even thinking of giving you a little massage later and washing your hair."
-    sy "Nos alegra que te guste. Incluso estoy pensando en darte un masajecito más tarde y lavarte el pelo."
+    sy "Nos alegramos de que te guste. Incluso estoy pensando en darte un pequeño masaje más tarde y lavarte el pelo."
 
 # game/code/e03/e03s01.rpy:260
 translate spanish e03s01_451b8225:
 
     # sy "I call it the Total Princess Package."
-    sy "Yo lo llamo el Paquete Princesa Total."
+    sy "Lo llamo el Paquete Completo para la Princesa."
 
 # game/code/e03/e03s01.rpy:268
 translate spanish e03s01_6b3c4e16:
@@ -356,19 +356,19 @@ translate spanish e03s01_d283ddcd:
 translate spanish e03s01_e9673bdc:
 
     # mh "Better help her stick the landing [mcname]."
-    mh "Será mejor que la ayudes a mantener el rellano [mcname]."
+    mh "Será mejor que la ayudes a mantener el relleno [mcname]."
 
 # game/code/e03/e03s01.rpy:317
 translate spanish e03s01_fec8649a:
 
     # mc "Righty-O."
-    mc "Derecho-O."
+    mc "Seguro."
 
 # game/code/e03/e03s01.rpy:328
 translate spanish e03s01_cefc69c4:
 
     # sy "Bro... bro and Lyssa. Like me. They both like me. Fuaah..."
-    sy "Hermano... hermano y Lyssa. Como yo. A ambos les gusto. Fuaa..."
+    sy "Hermano... hermano y Lyssa. Como yo. Les gusto a los dos. Fuaah..."
 
 # game/code/e03/e03s01.rpy:330
 translate spanish e03s01_8fa04e3b:
@@ -422,7 +422,7 @@ translate spanish e03s01_5fd5478a:
 translate spanish e03s01_5b67ed04:
 
     # mh "Looking forward to it."
-    mh "Espero con ansias."
+    mh "Lo espero con ansias."
 
 # game/code/e03/e03s01.rpy:363
 translate spanish e03s01_1c5d72a7:
@@ -446,7 +446,7 @@ translate spanish e03s01_e0ca0d92:
 translate spanish e03s01_7948c5d5:
 
     # mh "I'm sure we'll work out something."
-    mh "Estoy seguro de que resolveremos algo."
+    mh "Estoy segura de que se nos ocurrirá algo."
 
 # game/code/e03/e03s01.rpy:380
 translate spanish e03s01_1270c83a:
@@ -458,7 +458,7 @@ translate spanish e03s01_1270c83a:
 translate spanish e03s01_0c351496:
 
     # mh "Haha. No need to worry on that account, Stacy."
-    mh "Ja ja. No hay necesidad de preocuparse por eso, Stacy."
+    mh "Jaja. No hay necesidad de preocuparse por eso, Stacy."
 
 # game/code/e03/e03s01.rpy:385
 translate spanish e03s01_ea7e6e3e:
@@ -470,7 +470,7 @@ translate spanish e03s01_ea7e6e3e:
 translate spanish e03s01_17842a42:
 
     # mh "Mmmm. You know, I appreciate how much work you two put into dinner, but I'm a little peckish for something else."
-    mh "Mmmm. Sabes, aprecio cuánto trabajo pusieron ustedes dos en la cena, pero tengo un poco de hambre por algo más."
+    mh "Mmmm. Saben, aprecio cuánto trabajo pusieron ustedes dos en la cena, pero tengo un poco de hambre por algo más."
 
 # game/code/e03/e03s01.rpy:407
 translate spanish e03s01_013e19d5:
@@ -488,13 +488,13 @@ translate spanish e03s01_1cdab93e:
 translate spanish e03s01_ab5eb033:
 
     # mh "I hope you don't think me too forward, Stacy. But after work today, nothing is at the forefront of my mind beyond being [mcname]'s plaything."
-    mh "Espero que no me consideres demasiado atrevido, Stacy. Pero hoy, después del trabajo, no tengo nada en mente más allá de ser el juguete de [mcname]."
+    mh "Espero que no me consideres demasiado atrevida, Stacy. Pero hoy, después del trabajo, no tengo nada en mente más allá de ser el juguete de [mcname]."
 
 # game/code/e03/e03s01.rpy:433
 translate spanish e03s01_55e0c39b:
 
     # sy "It's your house, Lyssa. You do you."
-    sy "Es tu casa, Lyssa. Tú lo haces."
+    sy "Es tu casa, Lyssa. Se hará como tu digas."
 
 # game/code/e03/e03s01.rpy:436
 translate spanish e03s01_6520907a:
@@ -506,7 +506,7 @@ translate spanish e03s01_6520907a:
 translate spanish e03s01_f57feabc:
 
     # sy "Weeeeheee!"
-    sy "¡¡Weeeeheee!"
+    sy "¡Weeeeheee!"
 
 # game/code/e03/e03s01.rpy:448
 translate spanish e03s01_f5962a88:
@@ -524,7 +524,7 @@ translate spanish e03s01_4cb4324d:
 translate spanish e03s01_9a2da426:
 
     # mh "Come here, Sir. I want you to watch me with our absolute cutie."
-    mh "Venga aquí, señor. Quiero que me mires con nuestra absoluta belleza."
+    mh "Venga aquí, señor. Quiero que me veas con nuestra absoluta belleza."
 
 # game/code/e03/e03s01.rpy:458
 translate spanish e03s01_db9c98e3:
@@ -578,13 +578,13 @@ translate spanish e03s01_7f20dddb:
 translate spanish e03s01_9cbab69c:
 
     # sy "You have to be a little bossy around an airhead like my brother."
-    sy "Tienes que ser un poco mandón con un cabeza hueca como mi hermano."
+    sy "Tienes que ser un poco mandona con un cabeza hueca como mi hermano."
 
 # game/code/e03/e03s01.rpy:491
 translate spanish e03s01_2d848944:
 
     # sy "You have to be a little bossy around an airhead like this guy."
-    sy "Tienes que ser un poco mandón con un cabeza hueca como este tipo."
+    sy "Tienes que ser un poco mandona con un cabeza hueca como este tipo."
 
 # game/code/e03/e03s01.rpy:493
 translate spanish e03s01_68c2c1a1:
@@ -686,7 +686,7 @@ translate spanish e03s01_a7e8cd76:
 translate spanish e03s01_4e54c170:
 
     # sy "Fuck. Yes, that feels so good. Both of you."
-    sy "Mierda. Sí, eso se siente tan bien. Vosotros dos."
+    sy "Mierda. Sí, eso se siente tan bien. Los dos."
 
 # game/code/e03/e03s01.rpy:569
 translate spanish e03s01_1c46cc53:
@@ -710,7 +710,7 @@ translate spanish e03s01_c7a6e943:
 translate spanish e03s01_280b58f7:
 
     # mh "Mmm, why don't you ask 'Sir'."
-    mh "Mmm, ¿por qué no le pregunta a 'Señor'?"
+    mh "Mmm, ¿por qué no le pregunta al 'Señor'?"
 
 # game/code/e03/e03s01.rpy:585
 translate spanish e03s01_35d3cc07:
@@ -722,19 +722,19 @@ translate spanish e03s01_35d3cc07:
 translate spanish e03s01_ffedc3d0:
 
     # mc "Abso-fucking-lutely."
-    mc "Absolutamente jodidamente."
+    mc "Absolutamente."
 
 # game/code/e03/e03s01.rpy:592
 translate spanish e03s01_f3fce757:
 
     # mh "Just tell me if I go to hard."
-    mh "Sólo dime si me esfuerzo demasiado."
+    mh "Sólo dime si soy demasiado dura."
 
 # game/code/e03/e03s01.rpy:595
 translate spanish e03s01_5ff95ea3:
 
     # sy "I'm tough, I can take it."
-    sy "Soy duro, puedo soportarlo."
+    sy "Soy dura, puedo soportarlo."
 
 # game/code/e03/e03s01.rpy:598
 translate spanish e03s01_8fc3b5e3:
@@ -752,7 +752,7 @@ translate spanish e03s01_2773b03e:
 translate spanish e03s01_93bfca74:
 
     # mh "Just like [mcname]."
-    mh "Igual que [mcname]."
+    mh "Eres igual que [mcname]."
 
 # game/code/e03/e03s01.rpy:608
 translate spanish e03s01_743f6e4a:
@@ -776,7 +776,7 @@ translate spanish e03s01_bd51f66f:
 translate spanish e03s01_73d195f4:
 
     # sy "Haha. Never."
-    sy "Ja ja. Nunca."
+    sy "Jaja. Nunca."
 
 # game/code/e03/e03s01.rpy:619
 translate spanish e03s01_696c2bf8:
@@ -800,13 +800,13 @@ translate spanish e03s01_f1eeb951:
 translate spanish e03s01_7e560c51:
 
     # mh "Haha. Sir, from what I'm feeling, she's been looking forward to this for a while."
-    mh "Ja ja. Señor, por lo que siento, ella ha estado esperando esto por un tiempo."
+    mh "Jaja. Señor, por lo que estoy sintiendo, ella ha estado esperando esto durante un tiempo."
 
 # game/code/e03/e03s01.rpy:642
 translate spanish e03s01_d83b72a7:
 
     # mc "Haha. Yeah, but it feels like she's going to suck out my soul while you hammer her pussy."
-    mc "Ja ja. Sí, pero siento que va a chuparme el alma mientras le martillas el coño."
+    mc "Jaja. Sí, pero siento que va a chuparme el alma mientras le martillas el coño."
 
 # game/code/e03/e03s01.rpy:648
 translate spanish e03s01_c078abaf:
@@ -848,7 +848,7 @@ translate spanish e03s01_e61ba933:
 translate spanish e03s01_e4a92053:
 
     # mc "Go for it."
-    mc "A por ello."
+    mc "Ve por ello."
 
 # game/code/e03/e03s01.rpy:697
 translate spanish e03s01_281689ac:
@@ -872,7 +872,7 @@ translate spanish e03s01_anim3_8901db58:
 translate spanish e03s01_anim3_b26681ff:
 
     # mc "Ready to see something crazy."
-    mc "Listo para ver algo loco."
+    mc "Lista para ver algo loco."
 
 # game/code/e03/e03s01.rpy:719
 translate spanish e03s01_anim3_edd9d5ad:
@@ -902,7 +902,7 @@ translate spanish e03s01_anim3_1348de0d:
 translate spanish e03s01_anim3_54d186ca:
 
     # mc "No. It's fine. I can... take it."
-    mc "No, está bien. Puedo... aceptarlo."
+    mc "No, está bien. Puedo... tomarlo."
 
 # game/code/e03/e03s01.rpy:731
 translate spanish e03s01_anim3_2cd20d2a:
@@ -920,13 +920,13 @@ translate spanish e03s01_anim3_c84448e9:
 translate spanish e03s01_anim3_368a1de9:
 
     # mc "Nrrrrnn... so hot and full... I was worried..."
-    mc "Nrrrrnn... tan caliente y llena... estaba preocupada..."
+    mc "Nrrrrnn... tan caliente y llena... estaba preocupado..."
 
 # game/code/e03/e03s01.rpy:749
 translate spanish e03s01_anim3_ad7eaaaa:
 
     # mh "About what?"
-    mh "¿Acerca de?"
+    mh "¿Sobre qué?"
 
 # game/code/e03/e03s01.rpy:752
 translate spanish e03s01_anim3_062a0b0a:
@@ -968,7 +968,7 @@ translate spanish e03s01_anim3_a7f13b08:
 translate spanish e03s01_anim3_e9442654:
 
     # sy "Well he really seems to be enjoying it."
-    sy "Bueno, realmente parece estar disfrutandolo."
+    sy "Parece que realmente lo está disfrutando."
 
 # game/code/e03/e03s01.rpy:772
 translate spanish e03s01_anim3_9d2d49ca:
@@ -986,13 +986,13 @@ translate spanish e03s01_anim3_d8abf008:
 translate spanish e03s01_anim3_13a1e1c9:
 
     # sy "Please, Lyssa. I want to feel you inside me again."
-    sy "Por favor, Lysa. Quiero volver a sentirte dentro de mí."
+    sy "Por favor, Lyssa. Quiero volver a sentirte dentro de mí."
 
 # game/code/e03/e03s01.rpy:791
 translate spanish e03s01_anim3_c7cf2826:
 
     # mh "[mcname]?"
-    mh "[mcname]?"
+    mh "¿[mcname]?"
 
 # game/code/e03/e03s01.rpy:794
 translate spanish e03s01_anim3_29ad700c:
@@ -1010,7 +1010,7 @@ translate spanish e03s01_anim3_fc94398f:
 translate spanish e03s01_anim4_e71dbcfe:
 
     # sy "Come on. Come on come on come on. I want you both to fuck me at the same time."
-    sy "Vamos. Vamos, vamos, vamos. Quiero que ambos me foléis al mismo tiempo."
+    sy "Vamos, vamos. Vamos, vamos, vamos. Quiero que ambos me follen al mismo tiempo."
 
 # game/code/e03/e03s01.rpy:808
 translate spanish e03s01_anim4_fed09163:
@@ -1058,7 +1058,7 @@ translate spanish e03s01_anim4_367fff95:
 translate spanish e03s01_anim4_58c25275:
 
     # sy "Fwaaahaha... Yes. Stick your cock in my ass, [mcname]."
-    sy "Fwaaahaha... Sí. Métete la polla en mi culo, [mcname]."
+    sy "Fwaaahaha... Sí. Méteme la polla en el culo, [mcname]."
 
 # game/code/e03/e03s01.rpy:840
 translate spanish e03s01_anim4_d2877d86:
@@ -1094,13 +1094,13 @@ translate spanish e03s01_anim4_45281150:
 translate spanish e03s01_anim4_e89cfc50:
 
     # mh "Oh!"
-    mh "Oh!"
+    mh "¡Oh!"
 
 # game/code/e03/e03s01.rpy:856
 translate spanish e03s01_anim4_21c3c2b6:
 
     # sy "I'm... fuahah... I'm sorry, Lyssa. But if you two stop fucking me right now, I think I'll go crazy."
-    sy "Yo... fuahah... Lo siento, Lyssa. Pero si ustedes dos dejan de joderme ahora mismo, creo que me volveré loco."
+    sy "Yo... fuahah... Lo siento, Lyssa. Pero si ustedes dos dejan de follarme ahora mismo, creo que me volveré loca."
 
 # game/code/e03/e03s01.rpy:859
 translate spanish e03s01_anim4_053f2649:
@@ -1136,7 +1136,7 @@ translate spanish e03s01_anim4_6cb8aa9d:
 translate spanish e03s01_anim4_efdb2666:
 
     # sy "Lyssa. I want... I want to taste your cock again. I want to enjoy the taste of my pussy on your flesh."
-    sy "Lysa. Quiero... quiero probar tu polla otra vez. Quiero disfrutar el sabor de mi coño sobre tu carne."
+    sy "Lyssa. Quiero... quiero probar tu polla otra vez. Quiero disfrutar el sabor de mi coño sobre tu carne."
 
 # game/code/e03/e03s01.rpy:885
 translate spanish e03s01_anim4_78c22884:
@@ -1154,7 +1154,7 @@ translate spanish e03s01_anim4_73234760:
 translate spanish e03s01_anim4_0d2b0369:
 
     # mh "Like this?"
-    mh "¿Como esto?"
+    mh "¿Así?"
 
 # game/code/e03/e03s01.rpy:893
 translate spanish e03s01_anim4_c172bd12:
@@ -1172,7 +1172,7 @@ translate spanish e03s01_anim4_c640ff94:
 translate spanish e03s01_anim4_c6612078:
 
     # sy "Mmmurrm!!!"
-    sy "Mmmmm!!!"
+    sy "¡¡¡Mmmmm!!!"
 
 # game/code/e03/e03s01.rpy:911
 translate spanish e03s01_anim4_a8e13667:
@@ -1208,7 +1208,7 @@ translate spanish e03s01_anim4_44f1c8d8:
 translate spanish e03s01_anim4_65608aef:
 
     # mh "Well I am... *moans*... taken aback."
-    mh "Bueno, estoy... *gemidos*... desconcertado."
+    mh "Bueno, estoy... *gemidos*... sorprendida."
 
 # game/code/e03/e03s01.rpy:929
 translate spanish e03s01_anim4_fc4a9abb:
@@ -1268,7 +1268,7 @@ translate spanish e03s01_anim4_188863b3:
 translate spanish e03s01_anim4_3f0a30c7:
 
     # mct "Fuck me. That's so hot."
-    mct "Fóllame. Eso hace mucho calor."
+    mct "Fóllame. Eso es tan sexy."
 
 # game/code/e03/e03s01.rpy:969
 translate spanish e03s01_anim4_46b48836:
@@ -1316,7 +1316,7 @@ translate spanish e03s01_anim4_9e427061:
 translate spanish e03s01_anim4_23186544:
 
     # mc "Nothing like a naked dinner with you, Lyssa."
-    mc "Nada como cenar desnuda contigo, Lyssa."
+    mc "Nada como una cena desnudo contigo, Lyssa."
 
 # game/code/e03/e03s01.rpy:1004
 translate spanish e03s01_anim4_6dc06b62:
@@ -1334,13 +1334,13 @@ translate spanish e03s01_anim4_c17ef8ec:
 translate spanish e03s01_anim4_769932ca:
 
     # mh "Stacy?"
-    mh "Stacy?"
+    mh "¿Stacy?"
 
 # game/code/e03/e03s01.rpy:1012
 translate spanish e03s01_anim4_3cc3c3d5:
 
     # sy "Mmmm?"
-    sy "Mmmm?"
+    sy "¿Mmmm?"
 
 # game/code/e03/e03s01.rpy:1016
 translate spanish e03s01_anim4_72ef1af6:
@@ -1376,7 +1376,7 @@ translate spanish e03s01_anim4_75db383e:
 translate spanish e03s01_anim4_b62edf9c:
 
     # sy "Really? Wait, are you two teasing me?"
-    sy "¿En realidad? Espera, ¿ustedes dos se están burlando de mí?"
+    sy "¿De verdad? Espera, ¿ustedes dos se están burlando de mí?"
 
 # game/code/e03/e03s01.rpy:1035
 translate spanish e03s01_anim4_29b7f854:
@@ -1388,7 +1388,7 @@ translate spanish e03s01_anim4_29b7f854:
 translate spanish e03s01_anim4_05217295:
 
     # mh "I already asked [mcname] to join me here, and he accepted. But I'd love to have you here as well."
-    mh "Ya le pedí a [mcname] que me acompañara aquí y aceptó. Pero me encantaría tenerte aquí también."
+    mh "Ya le pedí a [mcname] que se uniera a mí aquí, y aceptó. Pero me encantaría tenerte aquí también."
 
 # game/code/e03/e03s01.rpy:1040
 translate spanish e03s01_anim4_9fa636ec:
@@ -1430,19 +1430,19 @@ translate spanish e03s01_anim4_6cce50a1:
 translate spanish e03s01_anim4_c7bbff6d:
 
     # mh "Name it."
-    mh "Nómbrelo."
+    mh "Dilo."
 
 # game/code/e03/e03s01.rpy:1058
 translate spanish e03s01_anim4_d83c72cd:
 
     # sy "Can you guys help carry me off the bed? I was serious about my legs still needing some rest."
-    sy "¿Pueden ayudarme a levantarme de la cama? Hablaba en serio que mis piernas todavía necesitaban descansar un poco."
+    sy "¿Pueden ayudarme a levantarme de la cama? Hablaba en serio cuando dije que mis piernas necesitaban descansar."
 
 # game/code/e03/e03s01.rpy:1061
 translate spanish e03s01_anim4_d5b8071a:
 
     # mc "Haha. Can do."
-    mc "Ja ja. Puedo hacerlo."
+    mc "Jaja. Puedo hacerlo."
 
 translate spanish strings:
 
@@ -1452,11 +1452,11 @@ translate spanish strings:
 
     # game/code/e03/e03s01.rpy:189
     old "An hour later"
-    new "una hora mas tarde"
+    new "una hora más tarde"
 
     # game/code/e03/e03s01.rpy:687
     old "Go for it"
-    new "A por ello"
+    new "Ve por ello"
 
     # game/code/e03/e03s01.rpy:687
     old "Another time"
