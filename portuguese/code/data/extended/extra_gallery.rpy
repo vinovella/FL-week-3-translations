@@ -338,7 +338,7 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish e04 and e07"
-    new "Complte e04 e e07"
+    new "Complete e04 e e07"
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "35. A lucky dozen"
@@ -368,51 +368,51 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish Ending 4 and Ending 7"
-    new ""
+    new "Complete o Final 4 e Final 7"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "36. Don't threaten me with a good time"
-    new ""
+    new "36. Não me ameace com coisa boa"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Finish all 6 Endings from DLC-2"
-    new ""
+    new "Termine todos os Finais do DLC-2"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "37. I saw, I came, I conquered"
-    new ""
+    new "37. Eu vi, eu vim, eu conquistei"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Have all Characters in last orgy in Ending 9"
-    new ""
+    new "Tenha todos os Personagens na última orgia do Final 9"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "38. Golden Pass"
-    new ""
+    new "38. Passe Dourado"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Have all Characters in Ending 15"
-    new ""
+    new "Tenha todos os Personagens no Final 15"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "39. She belongs in a museum"
-    new ""
+    new "39. Ela pertence num museu"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Find golden Lyssa (Ending 3)"
-    new ""
+    new "Encontre a Lyssa dourada (Final 3)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "40. Do the Pulp Fiction Thing"
-    new ""
+    new "40. Faz a Parada do Pulp Fiction"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Do the pulp fiction thing (Ending 18)"
-    new ""
+    new "Faça a parada do pulp fiction (Final 18)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "41. Backdoor Cat Girl"
-    new ""
+    new "41. "
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Backdoor Cat Girl (Ending 16)"
@@ -420,69 +420,69 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "42. Pee Bootcamp"
-    new ""
+    new "42. Escola da Urina"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Begin Olivia's Training"
-    new ""
+    new "Comece o Treinamento da Olivia"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "43. Choo-choo"
-    new ""
+    new "43. Choo-choo"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Choo-choo (Ending 5)"
-    new ""
+    new "Choo-choo (Final 5)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "44. Londyn Twice"
-    new ""
+    new "44. Londyn Dupla"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Meet Londyn in Ending 9 and Ending 18"
-    new ""
+    new "Encontre Londyn no Final 9 e Final 18"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "45. I've seen all the possible outcomes"
-    new ""
+    new "45. Vi todos resultados possíveis"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Finish all 18 Endings"
-    new ""
+    new "Complete todos os 18 Finais"
 
     # game/code/data/extended/extra_gallery.rpy:802
     old "SPIT ON THAT THANG!"
-    new ""
+    new "COSPE NESSA COISA!"
 
     # game/code/data/extended/extra_gallery.rpy:823
     old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
-    new ""
+    new "QUANDO ELE FAZ TODO MUNDO VIR NO SEU NOVO SPA CHIQUE"
 
     # game/code/data/extended/extra_gallery.rpy:845
     old "Fucking\na girl"
-    new ""
+    new "Fodendo\numa garota"
 
     # game/code/data/extended/extra_gallery.rpy:847
     old "Fucking\na catgirl"
-    new ""
+    new "Fodendo\uma garota gato"
 
     # game/code/data/extended/extra_gallery.rpy:861
     old "Hard to\nswallow\npills"
-    new ""
+    new "Difícil\nde\naceitar"
 
     # game/code/data/extended/extra_gallery.rpy:863
     old "He will never\nrun out of pee"
-    new ""
+    new "Nunca vai acabar\na urina dele"
 
     # game/code/data/extended/extra_gallery.rpy:901
     old "NEXT STOP"
-    new ""
+    new "PRÓXIMA PARADA"
 
     # game/code/data/extended/extra_gallery.rpy:903
     old "PENETRATION STATION"
-    new ""
+    new "ESTAÇÃO DA PENETRAÇÃO"
 
     # game/code/data/extended/extra_gallery.rpy:917
     old "They don't know that\nI appear in two endings"
-    new ""
+    new "Não fazem ideia que\neu apareço em dois finais"
 
