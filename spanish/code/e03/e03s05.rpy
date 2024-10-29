@@ -1,4 +1,4 @@
-# game/code/e03/e03s05.rpy:20
+﻿# game/code/e03/e03s05.rpy:20
 translate spanish e03s05_b48a7398:
 
     # mc "When do we get to see Lyssa?"

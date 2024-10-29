@@ -1,4 +1,4 @@
-# game/code/e03/e03s04.rpy:52
+﻿# game/code/e03/e03s04.rpy:52
 translate spanish e03s04_3399e772:
 
     # sy "Mmmm, Lyssa?"

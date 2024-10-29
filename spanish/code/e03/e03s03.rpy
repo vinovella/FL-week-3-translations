@@ -1,4 +1,4 @@
-# game/code/e03/e03s03.rpy:13
+﻿# game/code/e03/e03s03.rpy:13
 translate spanish e03s03_3ccfda0a:
 
     # mh "Are you both ready for this?"

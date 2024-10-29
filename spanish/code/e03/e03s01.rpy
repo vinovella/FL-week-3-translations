@@ -1,4 +1,4 @@
-# game/code/e03/e03s01.rpy:102
+﻿# game/code/e03/e03s01.rpy:102
 translate spanish e03s01_03c8965c:
 
     # sy "Since when do you have a key to Lyssa's place?"

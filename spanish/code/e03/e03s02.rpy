@@ -1,4 +1,4 @@
-# game/code/e03/e03s02.rpy:17
+﻿# game/code/e03/e03s02.rpy:17
 translate spanish e03s02_76275066:
 
     # sy "Zzzzzz."

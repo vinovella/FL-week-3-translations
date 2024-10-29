@@ -1,4 +1,4 @@
-# game/code/e03/e03s06.rpy:13
+﻿# game/code/e03/e03s06.rpy:13
 translate spanish e03s06_57432737:
 
     # mc "It's a good thing you got your phone back, Lyssa. Otherwise I don't think we ever would have been able to get that cab home."
@@ -530,7 +530,7 @@ translate spanish e03s06_de432360:
 translate spanish e03s06_badd4ae3:
 
     # ca "Gooooodessss I'm cummmmmmming!!!!!!!"
-    ca ¡¡¡¡¡¡¡Dioooooooosa me estoy coooorriiiieeeendo!!!!!!!
+    ca "¡¡¡¡¡¡¡Dioooooooosa me estoy coooorriiiieeeendo!!!!!!!"
 
 # game/code/e03/e03s06.rpy:233
 translate spanish e03s06_0b173d7d:

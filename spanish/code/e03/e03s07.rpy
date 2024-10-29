@@ -1,4 +1,4 @@
-# game/code/e03/e03s07.rpy:63
+﻿# game/code/e03/e03s07.rpy:63
 translate spanish e03s07_36c560ce:
 
     # mct "Hmm. What could the two of them be up to?"
