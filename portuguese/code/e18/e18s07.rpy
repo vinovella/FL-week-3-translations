@@ -2438,5 +2438,5 @@ translate portuguese strings:
 translate portuguese e18s07_37a31b1b:
 
     # pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
-    pb ""
+    pb "Muita coisa. Mas a minha bunda ainda tá doendo das pancadas que levei depois de usar o nome verdadeiro da Dahlia."
 
