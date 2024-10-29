@@ -400,7 +400,7 @@ translate portuguese e09s05_5a8ada4f:
 translate portuguese e09s05_266247d0:
 
     # mc "Yes, I figured that Hana could work as a bit of a watchdog, make sure we don't slide."
-    mc "Sim, acho que a Hana poderia trabalhar como supervisora pra garantir que a gente não faz and errado."
+    mc "Sim, acho que a Hana poderia trabalhar como supervisora pra garantir que a gente não faz nada errado."
 
 # game/code/e09/e09s05.rpy:207
 translate portuguese e09s05_7f71e32d:
@@ -958,7 +958,7 @@ translate portuguese e09s05_61dd0daa:
 translate portuguese e09s05_e2edb263:
 
     # mc "Alright. I'll find a way to manage."
-    mc "Beleza. Eu dou um jeito."
+    mc "Beleza. Eu me viro."
 
 # game/code/e09/e09s05.rpy:432
 translate portuguese e09s05_e9555d0e:
@@ -1144,7 +1144,7 @@ translate portuguese e09s05_09e8a1c3:
 translate portuguese e09s05_3d0cd47e:
 
     # hr "You're just giving in that quick?"
-    hr "Já tá sedento tão cedo?"
+    hr "Já cedendo tão cedo?"
 
 # game/code/e09/e09s05.rpy:512
 translate portuguese e09s05_6e043f3f:
@@ -1156,7 +1156,7 @@ translate portuguese e09s05_6e043f3f:
 translate portuguese e09s05_159fc4d2:
 
     # aw "What do you like, Hana?"
-    aw "Você gosta do que Hana?"
+    aw "Do que você gosta, Hana?"
 
 # game/code/e09/e09s05.rpy:515
 translate portuguese e09s05_f65bb4b2:
@@ -1534,7 +1534,7 @@ translate portuguese e09s05_b06da8e1:
 translate portuguese e09s05_756fc92f:
 
     # aw "Hey. Can I tag in yet? My poor pussy needs some loving too."
-    aw "Ei. Já posso entrar? A minha bocetinha também precisa de um carinho."
+    aw "Ei. Já pode ser a minha vez? A minha bocetinha também precisa de um carinho."
 
 # game/code/e09/e09s05.rpy:660
 translate portuguese e09s05_7c5388f8:
@@ -1702,7 +1702,7 @@ translate portuguese e09s05_f95b15bd:
 translate portuguese e09s05_5fe23dd1:
 
     # mc "Come on, you can do better than that."
-    mc "Fala Sério você pode fazer melhor que isso."
+    mc "Fala sério, você pode fazer melhor que isso."
 
 # game/code/e09/e09s05.rpy:743
 translate portuguese e09s05_356e6b80:
