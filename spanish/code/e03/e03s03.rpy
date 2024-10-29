@@ -1,8 +1,8 @@
-﻿# game/code/e03/e03s03.rpy:13
+# game/code/e03/e03s03.rpy:13
 translate spanish e03s03_3ccfda0a:
 
     # mh "Are you both ready for this?"
-    mh "¿Están ambos listos para esto?"
+    mh "¿Están los dos listos para esto?"
 
 # game/code/e03/e03s03.rpy:16
 translate spanish e03s03_40e34f92:
@@ -20,7 +20,7 @@ translate spanish e03s03_9e8ee335:
 translate spanish e03s03_c6e107ec:
 
     # mh "Just, keep your guards up, okay? This might take some... unexpected turns."
-    mh "Sólo mantén la guardia alta, ¿vale? Esto podría tomar algunos... giros inesperados."
+    mh "Sólo mantén la guardia alta, ¿de acuerdo? Esto podría tomar algunos... giros inesperados."
 
 # game/code/e03/e03s03.rpy:26
 translate spanish e03s03_dbeba703:
@@ -50,7 +50,7 @@ translate spanish e03s03_2b35b6fe:
 translate spanish e03s03_c122e1f8:
 
     # sy "[mcname]?"
-    sy "[mcname]?"
+    sy "¿[mcname]?"
 
 # game/code/e03/e03s03.rpy:40
 translate spanish e03s03_c187d80d:
@@ -68,7 +68,7 @@ translate spanish e03s03_d1bb3db4:
 translate spanish e03s03_02bae7aa:
 
     # mc "And you're not!?"
-    mc "¿¡Y tú no lo eres!?"
+    mc "¿¡Y tú no estás haciendo lo mismo!?"
 
 # game/code/e03/e03s03.rpy:50
 translate spanish e03s03_2f588168:
@@ -86,7 +86,7 @@ translate spanish e03s03_697c5e42:
 translate spanish e03s03_a968d8d4:
 
     # mh "I've arranged for a driver to drop us off. The compound is way out of town, and I don't much feel like leaving my car out there for them."
-    mh "He hecho arreglos para que un conductor nos deje. El complejo está muy lejos de la ciudad y no tengo muchas ganas de dejarles mi coche allí."
+    mh "He contratado a un conductor para que nos lleve. El complejo está muy lejos de la ciudad y no me apetece mucho dejarles mi auto allí."
 
 # game/code/e03/e03s03.rpy:58
 translate spanish e03s03_b75784fa:
@@ -110,13 +110,13 @@ translate spanish e03s03_f2348ec6:
 translate spanish e03s03_3b3f284c:
 
     # sy "I just want to be clear - he's the weirdo in the family. Most of my dreams at least make sense. Like, wanting you to fuck my ass, while [mcname]-"
-    sy "Sólo quiero dejarlo claro: él es el bicho raro de la familia. La mayoría de mis sueños al menos tienen sentido. Como querer que me folles el culo, mientras [mcname]-"
+    sy "Sólo quiero dejarlo claro... él es el bicho raro de la familia. La mayoría de mis sueños al menos tienen sentido. Como querer que me folles el culo, mientras [mcname]..."
 
 # game/code/e03/e03s03.rpy:71
 translate spanish e03s03_0c7743aa:
 
     # sy "I just want to be clear - he's a weirdo. Most of my dreams at least make sense. Like, wanting you to fuck my ass, while [mcname]-"
-    sy "Sólo quiero ser claro: es un bicho raro. La mayoría de mis sueños al menos tienen sentido. Como querer que me folles el culo, mientras [mcname]-"
+    sy "Sólo quiero ser clara... él es un bicho raro. La mayoría de mis sueños al menos tienen sentido. Como querer que me folles el culo, mientras [mcname]..."
 
 # game/code/e03/e03s03.rpy:74
 translate spanish e03s03_2d09f60b:
@@ -134,7 +134,7 @@ translate spanish e03s03_a278a953:
 translate spanish e03s03_0eb1233b:
 
     # mh "Oh boy, she's really excited to infiltrate a cult we know nothing about."
-    mh "Vaya, está muy emocionada de infiltrarse en una secta de la que no sabemos nada."
+    mh "Vaya, está muy emocionada por infiltrarse en una secta de la que no sabemos nada."
 
 # game/code/e03/e03s03.rpy:84
 translate spanish e03s03_3a395c37:
@@ -164,7 +164,7 @@ translate spanish e03s03_7a6ca8b5:
 translate spanish e03s03_54e4bd25:
 
     # "Cult Member" "The High Priestess will be with you shortly."
-    "Miembro de culto" "La Suma Sacerdotisa estará contigo en breve."
+    "Miembro del culto" "La Suma Sacerdotisa estará con ustedes en breve."
 
 # game/code/e03/e03s03.rpy:106
 translate spanish e03s03_45fec6a4:
@@ -212,7 +212,7 @@ translate spanish e03s03_28173db9:
 translate spanish e03s03_ee1a4f68:
 
     # mh "Good morning, High Priestess."
-    mh "Buenos días, suma sacerdotisa."
+    mh "Buenos días, Suma Sacerdotisa."
 
 # game/code/e03/e03s03.rpy:130
 translate spanish e03s03_f5da7559:
@@ -242,7 +242,7 @@ translate spanish e03s03_88d0903e:
 translate spanish e03s03_56516eb7:
 
     # hp "Ahhh, more wayward souls... What about you, sir? Why are you here?"
-    hp "Ahhh, más almas descarriadas... ¿Y usted, señor? ¿Por qué estás aquí?"
+    hp "Ahhh, más almas descarriadas... ¿Y usted, señor? ¿Por qué está aquí?"
 
 # game/code/e03/e03s03.rpy:147
 translate spanish e03s03_fec5c6d5:
@@ -266,7 +266,7 @@ translate spanish e03s03_a8d5e985:
 translate spanish e03s03_b7a31753:
 
     # mh "We seek guidance not of this world. Something that will let us rise above, become whole. Become... healed."
-    mh "Buscamos guía no de este mundo. Algo que nos permitirá elevarnos, volvernos completos. Vuélvete... curado."
+    mh "Buscamos una guía que no sea de este mundo. Algo que nos permita elevarnos, volvernos completos. Sanarnos."
 
 # game/code/e03/e03s03.rpy:159
 translate spanish e03s03_7239a7e7:
@@ -290,7 +290,7 @@ translate spanish e03s03_50439325:
 translate spanish e03s03_2b680cdb:
 
     # hp "First, you must shed yourselves of this materialistic world."
-    hp "Primero, debéis despojaros de este mundo materialista."
+    hp "Primero, deben despojarse de este mundo materialista."
 
 # game/code/e03/e03s03.rpy:171
 translate spanish e03s03_a9e7fb28:
@@ -302,7 +302,7 @@ translate spanish e03s03_a9e7fb28:
 translate spanish e03s03_771de3d1:
 
     # hp "Your phone, clothes, everything. You must become detached from all that which tethers you to this plane, and blocks you from the next."
-    hp "Tu teléfono, ropa, todo. Debes desapegarte de todo lo que te ata a este plano y te bloquea del siguiente."
+    hp "Tu teléfono, tu ropa, todo. Debes desprenderte de todo aquello que te ata a este plano, y te bloquea del siguiente."
 
 # game/code/e03/e03s03.rpy:177
 translate spanish e03s03_bdad02ad:
@@ -320,13 +320,13 @@ translate spanish e03s03_58da6fff:
 translate spanish e03s03_37286174:
 
     # sy "I guess, we'll just... you know. Strip."
-    sy "Supongo que simplemente... ya sabes. Banda."
+    sy "Supongo que... ya saben. Desnúdense."
 
 # game/code/e03/e03s03.rpy:188
 translate spanish e03s03_4369c504:
 
     # hp "And we want you to leave {i}all{/i} of your worldly attachments behind."
-    hp "Y queremos que dejes atrás {i}todos{/i} tus apegos mundanos."
+    hp "Y queremos que dejen atrás {i}todos{/i} sus apegos mundanos."
 
 # game/code/e03/e03s03.rpy:191
 translate spanish e03s03_50318932:
@@ -344,7 +344,7 @@ translate spanish e03s03_738c1389:
 translate spanish e03s03_1660e828:
 
     # hp "Yes, including your underwear. You need to become naked; to this world, to us your commune, and to the spirit of everything."
-    hp "Sí, incluida tu ropa interior. Necesitas desnudarte; a este mundo, a nosotros tu comuna, y al espíritu de todo."
+    hp "Sí, incluida tu ropa interior. Necesitas desnudarte; para este mundo, para nosotros tu comunidad, y para el espíritu de todo."
 
 # game/code/e03/e03s03.rpy:200
 translate spanish e03s03_e0eeb5dc:
@@ -356,13 +356,13 @@ translate spanish e03s03_e0eeb5dc:
 translate spanish e03s03_87bd4d8d:
 
     # hp "Oh my Goddess... I..."
-    hp "Oh Diosa mía... yo..."
+    hp "Oh Diosa mía... Yo..."
 
 # game/code/e03/e03s03.rpy:210
 translate spanish e03s03_899f6cfc:
 
     # hp "I, uhm, ahem. Now, one of your fellow members will come and collect your things, and give you your new coverings."
-    hp "Yo, uhm, ejem. Ahora, uno de tus compañeros vendrá a recoger tus cosas y te dará tus nuevas cubiertas."
+    hp "Yo... Ahora, uno de sus compañeros vendrá a recoger sus cosas, y le dará sus nuevas ropas."
 
 # game/code/e03/e03s03.rpy:214
 translate spanish e03s03_5e5c6848:
@@ -374,7 +374,7 @@ translate spanish e03s03_5e5c6848:
 translate spanish e03s03_715a28e7:
 
     # "Cult Member" "I will collect your things for the cleansing, and you will don the garb of the student."
-    "Miembro de culto" "Recogeré tus cosas para la limpieza y te pondrás el traje de estudiante."
+    "Miembro del culto" "Recogeré sus cosas para la limpieza y se pondrán el atuendo del estudiante."
 
 # game/code/e03/e03s03.rpy:222
 translate spanish e03s03_7db7c678:
@@ -392,7 +392,7 @@ translate spanish e03s03_e96a8a32:
 translate spanish e03s03_00285952:
 
     # "Cult Member" "What I wear is the garb of the student. And the cleansing, well, the cleansing is the release of the material back to the material, through the most primal act we can muster."
-    "Miembro de culto" "Lo que llevo es el atuendo del estudiante. Y la limpieza, bueno, la limpieza es la liberación del material de regreso al material, a través del acto más primario que podamos realizar."
+    "Miembro del culto" "Lo que llevo es el atuendo del estudiante. Y la limpieza, bueno, la limpieza es la liberación de lo material de vuelta a lo material, a través del acto más primario que podemos realizar."
 
 # game/code/e03/e03s03.rpy:231
 translate spanish e03s03_14941c57:
@@ -404,7 +404,7 @@ translate spanish e03s03_14941c57:
 translate spanish e03s03_2271ac19:
 
     # "Cult Member" "Yes."
-    "Miembro de culto" "Sí."
+    "Miembro del culto" "Sí."
 
 # game/code/e03/e03s03.rpy:237
 translate spanish e03s03_3949dee1:
@@ -422,7 +422,7 @@ translate spanish e03s03_5f24d370:
 translate spanish e03s03_9de07441:
 
     # mc "Stacy!"
-    mc "Stacy!"
+    mc "¡Stacy!"
 
 # game/code/e03/e03s03.rpy:247
 translate spanish e03s03_62174101:
@@ -434,7 +434,7 @@ translate spanish e03s03_62174101:
 translate spanish e03s03_ab6ce9d8:
 
     # "Cult Member" "You will see the garb on your way out. Please, put it on while I collect your things."
-    "Miembro de culto" "Verás el atuendo al salir. Por favor, póntelo mientras recojo tus cosas."
+    "Miembro del culto" "Verás el atuendo al salir. Por favor, póntelo mientras recojo sus cosas."
 
 # game/code/e03/e03s03.rpy:254
 translate spanish e03s03_d6dfd04e:
@@ -458,7 +458,7 @@ translate spanish e03s03_6620a082:
 translate spanish e03s03_b6ba9e7c:
 
     # mc "I know. Scratchy as hell."
-    mc "Lo sé. Rasca como el infierno."
+    mc "Lo sé. Pica como el infierno."
 
 # game/code/e03/e03s03.rpy:270
 translate spanish e03s03_f4d7102a:
@@ -488,13 +488,13 @@ translate spanish e03s03_ddb56106:
 translate spanish e03s03_c2ea84bb:
 
     # mc "Oh shit!"
-    mc "Oh, mierda!"
+    mc "¡Oh, mierda!"
 
 # game/code/e03/e03s03.rpy:291
 translate spanish e03s03_cc6b389f:
 
     # "Cult Member" "You've been given an highly honored task. You shall be providing the fuel for the cleansing."
-    "Miembro de culto" "Se le ha asignado una tarea muy honorable. Tú estarás proporcionando el combustible para la limpieza."
+    "Miembro del culto" "Se le ha asignado una tarea muy honorable. Tú estarás proporcionando el combustible para la limpieza."
 
 # game/code/e03/e03s03.rpy:294
 translate spanish e03s03_de52578e:
@@ -506,7 +506,7 @@ translate spanish e03s03_de52578e:
 translate spanish e03s03_13d64bec:
 
     # "Cult Member" "Why else do you think I had this tool for you to use?"
-    "Miembro de culto" "¿Por qué más crees que tenía esta herramienta para que la usaras?"
+    "Miembro del culto" "¿Para qué otra cosa crees que tendría esta herramienta para que la usaras?"
 
 # game/code/e03/e03s03.rpy:299
 translate spanish e03s03_715f28ed:
@@ -518,13 +518,13 @@ translate spanish e03s03_715f28ed:
 translate spanish e03s03_176ce893:
 
     # "Cult Member" "It is your job, as the man, to carry the wood to be piled."
-    "Miembro de culto" "Es su trabajo, como hombre, transportar la madera para apilarla."
+    "Miembro del culto" "Es tu trabajo, como hombre, transportar la leña para apilarla."
 
 # game/code/e03/e03s03.rpy:307
 translate spanish e03s03_0cbf2aba:
 
     # "Cult Member" "And I have been instructed to have you watch them, to ensure they are doing the best job they can. {w}Do not allow them to slack off. If they do, there will be punishments."
-    "Miembro de culto" "Y me han ordenado que usted los vigile para asegurarse de que estén haciendo el mejor trabajo posible. {w}No les permitas holgazanear. Si lo hacen, habrá castigos."
+    "Miembro del culto" "Y me han ordenado que usted los vigile para asegurarse de que estén haciendo el mejor trabajo posible. {w}No les permitas holgazanear. Si lo hacen, habrá castigos."
 
 # game/code/e03/e03s03.rpy:313
 translate spanish e03s03_cb373b0e:
@@ -560,19 +560,19 @@ translate spanish e03s03_7c767d8a:
 translate spanish e03s03_a5fc2d38:
 
     # mc "You have like twenty more at home of that {i}exact{/i} same shirt, Stacy."
-    mc "Tienes como veinte más en casa de esa {i}exactamente{/i} misma camiseta, Stacy."
+    mc "Tienes como veinte más de esa {i}misma{/i} camisa en casa, Stacy."
 
 # game/code/e03/e03s03.rpy:331
 translate spanish e03s03_cc80a764:
 
     # sy "Yeah, but I liked that one the most!"
-    sy "¡Sí, pero ese fue el que más me gustó!"
+    sy "¡Sí, pero ese fue la que más me gustó!"
 
 # game/code/e03/e03s03.rpy:334
 translate spanish e03s03_4b15b8f7:
 
     # mh "All right, quit your bickering. Come on, we need to start chopping wood or they'll get suspicious."
-    mh "Muy bien, dejad de discutir. Vamos, tenemos que empezar a cortar leña o sospecharán."
+    mh "Muy bien, dejen de discutir. Vamos, tenemos que empezar a cortar leña o sospecharán."
 
 # game/code/e03/e03s03.rpy:338
 translate spanish e03s03_cc089779:
@@ -614,7 +614,7 @@ translate spanish e03s03_3ec9e78b:
 translate spanish e03s03_ccb916c0:
 
     # "Cult Member" "What are you doing!?"
-    "Miembro de culto" "¿¡Qué estás haciendo!?"
+    "Miembro del culto" "¿¡Qué estás haciendo!?"
 
 # game/code/e03/e03s03.rpy:366
 translate spanish e03s03_14942003:
@@ -626,7 +626,7 @@ translate spanish e03s03_14942003:
 translate spanish e03s03_e893d01e:
 
     # "Cult Member" "You don't need to cut down trees! We have logs ready to split over there!"
-    "Miembro de culto" "¡No es necesario talar árboles! ¡Tenemos troncos listos para partir allí!"
+    "Miembro del culto" "¡No es necesario talar árboles! ¡Tenemos troncos listos para partir allí!"
 
 # game/code/e03/e03s03.rpy:373
 translate spanish e03s03_bdad02ad_1:
@@ -638,13 +638,13 @@ translate spanish e03s03_bdad02ad_1:
 translate spanish e03s03_9fd017bb:
 
     # mc "Uhm, sorry about that. Someone is just, uhm, excited for her first day at cult camp!"
-    mc "Uhm, lo siento por eso. ¡Alguien está simplemente emocionado por su primer día en el campamento de culto!"
+    mc "Uhm, lo siento por eso. ¡Alguien está simplemente emocionada por su primer día en el campamento de la secta!"
 
 # game/code/e03/e03s03.rpy:379
 translate spanish e03s03_6df022c1:
 
     # "Cult Member" "This isn't a cult! Or a camp! This is an isolated retreat where we can reconnect with nature."
-    "Miembro de culto" "¡Esto no es una secta! ¡O un campamento! Este es un retiro aislado donde podemos reconectarnos con la naturaleza."
+    "Miembro del culto" "¡Esto no es una secta! ¡O un campamento! Este es un retiro aislado donde podemos reconectarnos con la naturaleza."
 
 # game/code/e03/e03s03.rpy:382
 translate spanish e03s03_0d50d371:
@@ -656,7 +656,7 @@ translate spanish e03s03_0d50d371:
 translate spanish e03s03_fd6d1b9d:
 
     # "Cult Member" "It's not a camp!"
-    "Miembro de culto" "¡No es un campamento!"
+    "Miembro del culto" "¡No es un campamento!"
 
 # game/code/e03/e03s03.rpy:388
 translate spanish e03s03_f12007d4:
@@ -668,19 +668,19 @@ translate spanish e03s03_f12007d4:
 translate spanish e03s03_0b3f81bc:
 
     # "Cult Member" "...{w} Start splitting logs."
-    "Miembro de culto" "...{w} Comience a dividir registros."
+    "Miembro del culto" "...{w}Empieza a partir los troncos."
 
 # game/code/e03/e03s03.rpy:395
 translate spanish e03s03_7981aa99:
 
     # sy "Does that mean... this is cult summer camp?"
-    sy "¿Eso significa... que este es un campamento de verano de culto?"
+    sy "¿Eso significa... que este es un campamento de verano de la secta?"
 
 # game/code/e03/e03s03.rpy:398
 translate spanish e03s03_148dcd82:
 
     # mh "You two need to stop antagonizing them. We're trying to blend in, remember?"
-    mh "Ustedes dos deben dejar de enfadarse con ellos. Estamos tratando de integrarnos, ¿recuerdas?"
+    mh "Ustedes dos tienen que dejar de enemistarse con ellos. Estamos tratando de integrarnos, ¿recuerdan?"
 
 # game/code/e03/e03s03.rpy:401
 translate spanish e03s03_d523d31e:
@@ -704,7 +704,7 @@ translate spanish e03s03_396e7aa6:
 translate spanish e03s03_97b80adf:
 
     # mh "It's not. I love you both exactly as you are."
-    mh "Que no es. Los amo a ambos exactamente como son."
+    mh "No lo es. Los amo a los dos exactamente como son."
 
 # game/code/e03/e03s03.rpy:414
 translate spanish e03s03_844c73e6:
@@ -716,7 +716,7 @@ translate spanish e03s03_844c73e6:
 translate spanish e03s03_6c3e001d:
 
     # mh "Of course I do. Now, get to chopping before that cultist comes back over here."
-    mh "Por supuesto que sí. Ahora, empieza a cortar antes de que ese cultista regrese aquí."
+    mh "Por supuesto que sí. Ahora, empieza a cortar antes de que esa cultista regrese aquí."
 
 # game/code/e03/e03s03.rpy:421
 translate spanish e03s03_06668156:
@@ -728,7 +728,7 @@ translate spanish e03s03_06668156:
 translate spanish e03s03_a4c0970e:
 
     # sy "Annnnnd, hiyah!"
-    sy "¡Annnnd, hola!"
+    sy "¡Y, hola!"
 
 # game/code/e03/e03s03.rpy:431
 translate spanish e03s03_d8951d58:
@@ -740,7 +740,7 @@ translate spanish e03s03_d8951d58:
 translate spanish e03s03_f0d313cb:
 
     # sy "Fuck, I'm tired..."
-    sy "Joder, estoy cansado..."
+    sy "Joder, estoy cansada..."
 
 # game/code/e03/e03s03.rpy:461
 translate spanish e03s03_83fee524:
@@ -770,7 +770,7 @@ translate spanish e03s03_1243c0e1:
 translate spanish e03s03_155ff369:
 
     # "Cult Member" "The hour grows late. You have done a satisfactory job. Follow me to your lodgings."
-    "Miembro de culto" "La hora se hace tarde. Has hecho un trabajo satisfactorio. Sígueme hasta tu alojamiento."
+    "Miembro del culto" "Se hace tarde. Han hecho un trabajo satisfactorio. Síganme hasta su alojamiento."
 
 # game/code/e03/e03s03.rpy:478
 translate spanish e03s03_462ed5d8:
@@ -818,7 +818,7 @@ translate spanish e03s03_4b937e77:
 translate spanish e03s03_f0f23cc4:
 
     # "Cult Member" "And this is where you'll be staying while you are here!"
-    "Miembro de culto" "¡Y aquí es donde te hospedarás mientras estés aquí!"
+    "Miembro del culto" "¡Y aquí es donde te hospedarás mientras estés aquí!"
 
 # game/code/e03/e03s03.rpy:506
 translate spanish e03s03_1ad67744:
@@ -830,7 +830,7 @@ translate spanish e03s03_1ad67744:
 translate spanish e03s03_f42343e6:
 
     # "Cult Member" "Isolated retreat!"
-    "Miembro de culto" "¡Retiro aislado!"
+    "Miembro del culto" "¡Retiro aislado!"
 
 # game/code/e03/e03s03.rpy:513
 translate spanish e03s03_b7aca05c:
@@ -848,7 +848,7 @@ translate spanish e03s03_b8cb0f62:
 translate spanish e03s03_f47d420b:
 
     # "Cult Member" "I... I can find forgiveness for her, for your sake. But, see to it that she begins to learn her place in the world."
-    "Miembro de culto" "Yo... puedo encontrar el perdón para ella, por tu bien. Pero asegúrese de que comience a aprender cuál es su lugar en el mundo."
+    "Miembro del culto" "Yo... Puedo encontrar el perdón para ella, por tu bien. Pero, encárgate de que ella empiece a aprender su lugar en el mundo."
 
 # game/code/e03/e03s03.rpy:524
 translate spanish e03s03_2485f401:
@@ -860,7 +860,7 @@ translate spanish e03s03_2485f401:
 translate spanish e03s03_9de07441_1:
 
     # mc "Stacy!"
-    mc "Stacy!"
+    mc "¡Stacy!"
 
 # game/code/e03/e03s03.rpy:531
 translate spanish e03s03_71363271:
@@ -926,13 +926,13 @@ translate spanish e03s03_ac04d723:
 translate spanish e03s03_ab3c4e59:
 
     # mh "It's... quiet here. I don't get quiet in the office. Or in court. Or at home. It's... peaceful here."
-    mh "Está... tranquilo aquí. No me quedo callado en la oficina. O en los tribunales. O en casa. Es... pacífico aquí."
+    mh "Está... tranquilo aquí. No me quedo callada en la oficina. O en la corte. O en casa. Es... tranquilo aquí."
 
 # game/code/e03/e03s03.rpy:567
 translate spanish e03s03_9ce3427f:
 
     # sy "This is how they get you! This is classic Cult 101 playbook shit!"
-    sy "¡Así te atrapan! ¡Esto es un clásico libro de jugadas de Cult 101!"
+    sy "¡Así es como te atrapan! ¡Esto es la clásica mierda del libro de jugadas de Secta 101!"
 
 # game/code/e03/e03s03.rpy:571
 translate spanish e03s03_8da99853:
@@ -950,7 +950,7 @@ translate spanish e03s03_392d7d1f:
 translate spanish e03s03_dadc89e6:
 
     # mh "Everything that my friend warned us about."
-    mh "Todo lo que nos advirtió mi amigo."
+    mh "Todo lo que nos advirtió mi amiga."
 
 # game/code/e03/e03s03.rpy:580
 translate spanish e03s03_c48cac1d:
@@ -980,7 +980,7 @@ translate spanish e03s03_df3c4faf:
 translate spanish e03s03_a78be0fe:
 
     # mc "You know, just the tent, and infiltrating, and-"
-    mc "Ya sabes, solo la tienda, la infiltración y..."
+    mc "Ya sabes, solo la tienda, y la infiltración y..."
 
 # game/code/e03/e03s03.rpy:598
 translate spanish e03s03_2130bfd5:
@@ -1022,31 +1022,31 @@ translate spanish e03s03_634be540:
 translate spanish e03s03_7830b479:
 
     # sy "Now... which one do I suck first?"
-    sy "Ahora… ¿a cuál mamo primero?"
+    sy "Ahora... ¿cuál chupo primero?"
 
 # game/code/e03/e03s03.rpy:621
 translate spanish e03s03_4f4d4a36:
 
     # sy "Hey! Haven't you ever heard of knocking!? We were in the middle of something"
-    sy "¡Ey! ¿¡Nunca has oído hablar de tocar la puerta!? Estábamos en medio de algo"
+    sy "¡Ey! ¿¡Nunca has oído hablar de golpear la puerta!? Estábamos en medio de algo."
 
 # game/code/e03/e03s03.rpy:625
 translate spanish e03s03_31b43a9b:
 
     # "Cult Member" "You... the High Priestess wants to see you."
-    "Miembro de culto" "Tú... la Suma Sacerdotisa quiere verte."
+    "Miembro del culto" "Tú... la Suma Sacerdotisa quiere verte."
 
 # game/code/e03/e03s03.rpy:628
 translate spanish e03s03_380fc8e2:
 
     # sy "Me?"
-    sy "Me?"
+    sy "¿A mí?"
 
 # game/code/e03/e03s03.rpy:631
 translate spanish e03s03_e0a6e81f:
 
     # "Cult Member" "No, her."
-    "Miembro de culto" "No, ella."
+    "Miembro del culto" "No, ella."
 
 # game/code/e03/e03s03.rpy:634
 translate spanish e03s03_88ff8d33:
@@ -1058,7 +1058,7 @@ translate spanish e03s03_88ff8d33:
 translate spanish e03s03_ef760bfe:
 
     # "Cult Member" "The High Priestess can answer any questions you may have."
-    "Miembro de culto" "La Suma Sacerdotisa puede responder cualquier pregunta que pueda tener."
+    "Miembro del culto" "La Suma Sacerdotisa puede responder cualquier pregunta que puedas tener."
 
 # game/code/e03/e03s03.rpy:641
 translate spanish e03s03_d79a47af:
@@ -1070,7 +1070,7 @@ translate spanish e03s03_d79a47af:
 translate spanish e03s03_187d8620:
 
     # "Cult Member" "You won't be needing them. We are all naked before the eyes of our goddess, we can all be naked as one."
-    "Miembro de culto" "No los necesitarás. Todos estamos desnudos ante los ojos de nuestra diosa, todos podemos estar desnudos como uno solo."
+    "Miembro del culto" "No las necesitarás. Todos estamos desnudos ante los ojos de nuestra diosa, todos podemos estar desnudos como uno solo."
 
 # game/code/e03/e03s03.rpy:646
 translate spanish e03s03_1fba4177:
@@ -1082,7 +1082,7 @@ translate spanish e03s03_1fba4177:
 translate spanish e03s03_8cdfc70f:
 
     # mc "Wait, Lyssa!"
-    mc "¡Espera, Lysa!"
+    mc "¡Espera, Lyssa!"
 
 # game/code/e03/e03s03.rpy:653
 translate spanish e03s03_d7095f14:
@@ -1124,13 +1124,13 @@ translate spanish e03s03_c49b4378:
 translate spanish e03s03_6d1bcd4c:
 
     # mc "In the meantime-"
-    mc "Mientras tanto-"
+    mc "Mientras tanto..."
 
 # game/code/e03/e03s03.rpy:672
 translate spanish e03s03_c20a8741:
 
     # sy "The weirdo killed the vibe."
-    sy "El bicho raro acabó con la vibra."
+    sy "El bicho raro mató el ambiente."
 
 # game/code/e03/e03s03.rpy:676
 translate spanish e03s03_726ffa2d:
@@ -1148,7 +1148,7 @@ translate spanish e03s03_d90681f8:
 translate spanish e03s03_d9fc70c6:
 
     # mc "Stacy?"
-    mc "Stacy?"
+    mc "¿Stacy?"
 
 # game/code/e03/e03s03.rpy:689
 translate spanish e03s03_87fa0086:
