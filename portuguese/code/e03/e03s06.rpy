@@ -406,7 +406,7 @@ translate portuguese e03s06_7f2d2d9b:
 translate portuguese e03s06_c5cf4ac4:
 
     # mc "Oh I have too! Your ass is incredible!"
-    mc "Ah, eu também! Essa sua bunda eh incrível!"
+    mc "Ah, eu também! Essa sua bunda é incrível!"
 
 # game/code/e03/e03s06.rpy:196
 translate portuguese e03s06_b066446d:
@@ -418,7 +418,7 @@ translate portuguese e03s06_b066446d:
 translate portuguese e03s06_0db60deb:
 
     # mh "How does her tongue feel, Chiara?"
-    mh "Chiara como está a língua?"
+    mh "Chiara, como está a língua?"
 
 # game/code/e03/e03s06.rpy:199
 translate portuguese e03s06_0f609195:
@@ -1378,7 +1378,7 @@ translate portuguese e03s06_continue_5807c951:
 translate portuguese e03s06_continue_e08aa39b:
 
     # ca "There, every drop taken care of."
-    ca "Pronto, até´a última gota."
+    ca "Pronto, até a última gota."
 
 # game/code/e03/e03s06.rpy:626
 translate portuguese e03s06_continue_a4bcf03a:
@@ -1582,7 +1582,7 @@ translate portuguese e03s06_continue_10bd942e:
 translate portuguese e03s06_continue_edfe98b7:
 
     # mh "Well it sounds like Chiara moved to Crowning for the cult. Before that, she lived two hours away in Lordridge."
-    mh "Bem,, parece que a Chiara se mudou para Crowning por causa do culto. Antes ela morava duas horas daqui em Lordridge."
+    mh "Bem, parece que a Chiara se mudou para Crowning por causa do culto. Antes ela morava duas horas daqui em Lordridge."
 
 # game/code/e03/e03s06.rpy:731
 translate portuguese e03s06_continue_32484cf5:
