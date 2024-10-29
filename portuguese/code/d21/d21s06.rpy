@@ -2272,95 +2272,95 @@ translate portuguese strings:
 translate portuguese d21s06_waterfall_0992f61d:
 
     # mc "Yes. I want to do this with you, Min."
-    mc ""
+    mc "Sim. Eu quero fazer isso com você, Min."
 
 # game/code/d21/d21s06.rpy:1052
 translate portuguese d21s06_wellness_spa_2ece8a99:
 
     # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
-    mes ""
+    mes "As pessoas estão atrás de uma experiência que satisfaça suas fantasias sexuais, e estamos aqui pra dar isso."
 
 # game/code/d21/d21s06.rpy:1093
 translate portuguese d21s06_wellness_spa_8a7edf54:
 
     # mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
-    mes ""
+    mes "Essa não vai ser a parte difícil. A parte difícil vai ser preparar o prédio e criar uma base de clientes para ter lucro."
 
 # game/code/d21/d21s06.rpy:1099
 translate portuguese d21s06_wellness_spa_699caa95:
 
     # arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
-    arj ""
+    arj "Sim. Desculpa [mcname], mas não posso entrar nessa com você. Pelo menos não ainda."
 
 # game/code/d21/d21s06.rpy:1100
 translate portuguese d21s06_wellness_spa_c425dcb9:
 
     # arj "I need to finish college."
-    arj ""
+    arj "Tenho que terminar a faculdade."
 
 # game/code/d21/d21s06.rpy:1102
 translate portuguese d21s06_wellness_spa_43c9e2c9:
 
     # mes "Understandable. But you're still in, right [mcname]?"
-    mes ""
+    mes "Faz sentido. Mas você ainda está dentro né, [mcname]?"
 
 # game/code/d21/d21s06.rpy:1104
 translate portuguese d21s06_wellness_spa_5844ae44:
 
     # mc "Hell yeah."
-    mc ""
+    mc "Com certeza."
 
 # game/code/d21/d21s06.rpy:1107
 translate portuguese d21s06_wellness_spa_591bfaae:
 
     # mes "Excellent. Then I'm going to continue on the planning."
-    mes ""
+    mes "Excelente. Então vou continuar o planejamento."
 
 # game/code/d21/d21s06.rpy:1110
 translate portuguese d21s06_wellness_spa_dbcc212b:
 
     # mes "You should come over and we can start working on the details."
-    mes ""
+    mes "Acho bom você dar uma passada, aí a gente pode ver os detalhes."
 
 # game/code/d21/d21s06.rpy:1111
 translate portuguese d21s06_wellness_spa_546d00c0:
 
     # mc "I'll be right there."
-    mc ""
+    mc "Já vou."
 
 # game/code/d21/d21s06.rpy:582
 translate portuguese d21s06_reboot_fl_6d5e9610:
 
     # mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
-    mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
+    mc "Vamos chamar de {w} {b}Fetish Locator Rebootado!{/b}"
 
 # game/code/d21/d21s06.rpy:584
 translate portuguese d21s06_reboot_fl_304163ca:
 
     # sy "I love it."
-    sy "I love it."
+    sy "Adorei."
 
 # game/code/d21/d21s06.rpy:587
 translate portuguese d21s06_reboot_fl_b23fc0ce:
 
     # arj "It's perfect. On point and easy to understand."
-    arj "It's perfect. On point and easy to understand."
+    arj "Perfeito. Direto ao ponto e fácil de entender."
 
 # game/code/d21/d21s06.rpy:684
 translate portuguese d21s06_reboot_fl_d0e75550:
 
     # arj "Okay, okay. I don't think you guys have any ill will like Lydia."
-    arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+    arj "Tá bom, eu sei que vocês não têm más intenções que nem a Lydia."
 
 # game/code/d21/d21s06.rpy:696
 translate portuguese d21s06_reboot_fl_82e617fe:
 
     # arj "All the cons I stated. No lies. No deceit, and no manipulation."
-    arj "All the cons I stated. No lies. No deceit, and no manipulation."
+    arj "Todos os pontos negativos que eu disse. Sem mentiras. Sem enganação, e sem manipulação."
 
 # game/code/d21/d21s06.rpy:731
 translate portuguese d21s06_reboot_fl_041fcc70:
 
     # sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
-    sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
+    sy "Agora vamos ajustar os menores detalhes, tipo quem seriam as primeiras pessoas a trazer."
 
