@@ -1280,23 +1280,23 @@ translate portuguese strings:
 translate portuguese e16s06_sex_ba37d53b:
 
     # kk "Come on. You can go harder than that. I'm not a gentle little maiden, [mcname]."
-    kk ""
+    kk "Fala sério. Você pode usar mais força. [mcname], eu não sou uma mocinha delicada."
 
 # game/code/e16/e16s06.rpy:371
 translate portuguese e16s06_sex_e8902fa0:
 
     # mc "Mind if... never mind."
-    mc ""
+    mc "Se importa se eu... deixa."
 
 # game/code/e16/e16s06.rpy:455
 translate portuguese e16s06_sex_6fa26231:
 
     # mct "And Kristin might be the best yet!"
-    mct ""
+    mct "E a Kristin talvez seja a melhor!"
 
 # game/code/e16/e16s06.rpy:480
 translate portuguese e16s06_sex_4c2a54d1:
 
     # kk "I hope my udders are to your liking, [mcname]."
-    kk ""
+    kk "Espero que você esteja gostando das minhas tetas, [mcname]."
 
