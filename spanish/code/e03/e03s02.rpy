@@ -1,4 +1,4 @@
-﻿# game/code/e03/e03s02.rpy:17
+# game/code/e03/e03s02.rpy:17
 translate spanish e03s02_76275066:
 
     # sy "Zzzzzz."
@@ -38,7 +38,7 @@ translate spanish e03s02_a355b082:
 translate spanish e03s02_8c726e78:
 
     # mct "Crap. Now I have to pee."
-    mct "Tonterías. Ahora tengo que orinar."
+    mct "Mierda. Ahora tengo que orinar."
 
 # game/code/e03/e03s02.rpy:47
 translate spanish e03s02_67129606:
@@ -116,7 +116,7 @@ translate spanish e03s02_c672258c:
 translate spanish e03s02_a1a3210b:
 
     # mh "And old friend of mine named Stephanie."
-    mh "Y una vieja amiga mía llamada Stephanie."
+    mh "De una vieja amiga mía llamada Stephanie."
 
 # game/code/e03/e03s02.rpy:107
 translate spanish e03s02_20499bf7:
@@ -152,7 +152,7 @@ translate spanish e03s02_8f4ed3f9:
 translate spanish e03s02_755b434d:
 
     # mc "And I'd like to extend my own offer of assitance."
-    mc "Y me gustaría extender mi propia oferta de asistencia."
+    mc "Y me gustaría extender mi propia oferta de ayuda."
 
 # game/code/e03/e03s02.rpy:125
 translate spanish e03s02_6932f66c:
@@ -170,25 +170,25 @@ translate spanish e03s02_be1f8acc:
 translate spanish e03s02_3df30b6e:
 
     # mh "*yawns* Mmm. You read my mind."
-    mh "*bosteza* Mmm. Tú lees mi mente."
+    mh "*bosteza* Mmm. Tú me lees la mente."
 
 # game/code/e03/e03s02.rpy:142
 translate spanish e03s02_8362c9d0:
 
     # mh "Having you two live with me is already revealing hidden perks."
-    mh "Tenerlos a ustedes dos viviendo conmigo ya está revelando ventajas ocultas."
+    mh "Tenerlos a los dos viviendo conmigo ya está revelando ventajas ocultas."
 
 # game/code/e03/e03s02.rpy:143
 translate spanish e03s02_fa644a65:
 
     # mh "We should have done this a while ago."
-    mh "Deberíamos haber hecho esto hace un tiempo."
+    mh "Deberíamos haberlo hecho hace tiempo."
 
 # game/code/e03/e03s02.rpy:147
 translate spanish e03s02_faa03e1a:
 
     # mc "Haha."
-    mc "Ja ja."
+    mc "Jaja."
 
 # game/code/e03/e03s02.rpy:157
 translate spanish e03s02_3ed77072:
@@ -200,13 +200,13 @@ translate spanish e03s02_3ed77072:
 translate spanish e03s02_4c851011:
 
     # mh "This is Stephanie. Steph meet [mcname] and Stacy."
-    mh "Esta es Estefanía. Steph conoce a [mcname] y Stacy."
+    mh "Esta es Stephanie. Steph conoce a [mcname] y Stacy."
 
 # game/code/e03/e03s02.rpy:165
 translate spanish e03s02_8fd6f44a:
 
     # mc "Nice to meet you Stephanie."
-    mc "Encantado de conocerte Estefanía."
+    mc "Encantado de conocerte Stephanie."
 
 # game/code/e03/e03s02.rpy:167
 translate spanish e03s02_2e5453e4:
@@ -254,13 +254,13 @@ translate spanish e03s02_debc5b84:
 translate spanish e03s02_18528579:
 
     # sw "*clears throat* And this is my friend. Rose."
-    sw "*se aclara la garganta* Y este es mi amigo. Rosa."
+    sw "*se aclara la garganta* Y este es mi amiga. Rose."
 
 # game/code/e03/e03s02.rpy:196
 translate spanish e03s02_730077fe:
 
     # sy "Hello Rose."
-    sy "Hola rosa."
+    sy "Hola Rose."
 
 # game/code/e03/e03s02.rpy:199
 translate spanish e03s02_2f48d092:
@@ -272,13 +272,13 @@ translate spanish e03s02_2f48d092:
 translate spanish e03s02_4e860e69:
 
     # mc "Is she alright?"
-    mc "¿Está ella bien?"
+    mc "¿Ella está bien?"
 
 # game/code/e03/e03s02.rpy:207
 translate spanish e03s02_f75cfc37:
 
     # sw "Are you sure about this?"
-    sw "¿Estás seguro de esto?"
+    sw "¿Estás segura de esto?"
 
 # game/code/e03/e03s02.rpy:211
 translate spanish e03s02_676a9f70:
@@ -296,7 +296,7 @@ translate spanish e03s02_66f39a12:
 translate spanish e03s02_7ec0e8ed:
 
     # sw "What I'm about to tell you is... well it's not for the faint of heart."
-    sw "Lo que voy a decirte es... bueno, no es para cardíacos."
+    sw "Lo que voy a decirles es... bueno, no es para cardíacos."
 
 # game/code/e03/e03s02.rpy:223
 translate spanish e03s02_e5abe357:
@@ -332,7 +332,7 @@ translate spanish e03s02_6ac3bf94:
 translate spanish e03s02_66d21bb4:
 
     # sw "Ahem, the situation, that I came here to share with Lyssa concerns a group of individuals."
-    sw "Ejem, la situación que vine aquí a compartir con Lyssa se refiere a un grupo de personas."
+    sw "Ejem, la situación, que he venido a compartir con Lyssa concierne a un grupo de personas."
 
 # game/code/e03/e03s02.rpy:243
 translate spanish e03s02_e447e5b6:
@@ -356,13 +356,13 @@ translate spanish e03s02_6137529a:
 translate spanish e03s02_905afbf6:
 
     # mh "Stephanie, please continue."
-    mh "Estefanía, por favor continúa."
+    mh "Stephanie, por favor continúa."
 
 # game/code/e03/e03s02.rpy:257
 translate spanish e03s02_b4a000da:
 
     # sw "Right, this group is known as the Empyrean Dream. In my capacity as an employee of the District Attorney's office, I've been investigating them over the past year."
-    sw "Bien, este grupo se conoce como Empyrean Dream. En mi calidad de empleado de la Fiscalía, los he estado investigando durante el año pasado."
+    sw "Bien, este grupo es conocido como el Sueño Empíreo. En mi calidad de empleada de la oficina del Fiscal del Distrito, los he estado investigando durante el último año."
 
 # game/code/e03/e03s02.rpy:258
 translate spanish e03s02_7131ce33:
@@ -398,13 +398,13 @@ translate spanish e03s02_0f3fdaf5:
 translate spanish e03s02_52907ee5:
 
     # sw "But, through Rose, I have learned that any who questions the cult, or... god-forbid, attempt to leave..."
-    sw "Pero, a través de Rose, he aprendido que cualquiera que cuestione el culto, o... Dios no lo quiera, intente irse..."
+    sw "Pero, a través de Rose, he aprendido que cualquiera que cuestione la secta, o... Dios no lo quiera, intente irse..."
 
 # game/code/e03/e03s02.rpy:272
 translate spanish e03s02_e2aee869:
 
     # sw "Are imprisoned within their complex. And that, without a doubt, is against the law. These acts can be prosecuted."
-    sw "Están encarcelados dentro de su complejo. Y eso, sin duda, va contra la ley. Estos actos pueden ser perseguidos."
+    sw "Están encarcelados dentro de su recinto. Y eso, sin duda, va contra la ley. Estos actos pueden ser perseguidos."
 
 # game/code/e03/e03s02.rpy:276
 translate spanish e03s02_39c477b4:
@@ -458,7 +458,7 @@ translate spanish e03s02_94481491:
 translate spanish e03s02_fdea46ad:
 
     # rd "I'm sorry."
-    rd "Lo lamento."
+    rd "Lo siento."
 
 # game/code/e03/e03s02.rpy:309
 translate spanish e03s02_ee9a28a0:
@@ -512,7 +512,7 @@ translate spanish e03s02_5c6b9f88:
 translate spanish e03s02_36926c48:
 
     # sw "We don't have enough for a warrant to search inside the compound."
-    sw "No tenemos suficiente orden para registrar el interior del complejo."
+    sw "No tenemos suficiente evidencia para una orden de registro dentro del recinto."
 
 # game/code/e03/e03s02.rpy:336
 translate spanish e03s02_c5188c41:
@@ -530,7 +530,7 @@ translate spanish e03s02_d7aec5ce:
 translate spanish e03s02_fd961af7:
 
     # mc "Haha. Call it what you like, sounds like an adventure to me."
-    mc "Ja ja. Llámalo como quieras, me parece una aventura."
+    mc "Jaja. Llámalo como quieras, me parece una aventura."
 
 # game/code/e03/e03s02.rpy:347
 translate spanish e03s02_d98dc015:
@@ -560,7 +560,7 @@ translate spanish e03s02_24e5a94b:
 translate spanish e03s02_ca3063fc:
 
     # mh "I thought the same at first. But then I thought of the other people who might still be locked up by the cult."
-    mh "Pensé lo mismo al principio. Pero luego pensé en las otras personas que aún podrían estar encerradas por la secta."
+    mh "Al principio pensé lo mismo. Pero luego pensé en las otras personas que aún podrían estar encerradas por la secta."
 
 # game/code/e03/e03s02.rpy:361
 translate spanish e03s02_4f7f58f3:
@@ -578,7 +578,7 @@ translate spanish e03s02_051e3a1e:
 translate spanish e03s02_3e9b971d:
 
     # mh "Which is why, I thought instead of going it alone, I would ask the two of you to help me. It's like they always say."
-    mh "Por eso pensé que en lugar de hacerlo solo, les pediría a ustedes dos que me ayudaran. Es como siempre dicen."
+    mh "Por eso pensé que en lugar de hacerlo sola, les pediría a ustedes dos que me ayudaran. Es como siempre dicen."
 
 # game/code/e03/e03s02.rpy:369
 translate spanish e03s02_88fdc42c:
@@ -590,7 +590,7 @@ translate spanish e03s02_88fdc42c:
 translate spanish e03s02_a02527da:
 
     # mc "Yeah, we can be like the three amigos, protecting the villagers and taking down the corrupt landowners."
-    mc "Sí, podemos ser como los tres amigos, protegiendo a los aldeanos y acabando con los terratenientes corruptos."
+    mc "Sí, podemos ser como los tres amigos, proteger a los aldeanos y derribar a los terratenientes corruptos."
 
 # game/code/e03/e03s02.rpy:374
 translate spanish e03s02_1ef99a76:
@@ -614,7 +614,7 @@ translate spanish e03s02_8ed6361e:
 translate spanish e03s02_3b6c75ff:
 
     # sy "It's not like any of us are actors or used to infiltrating groups of bad guys."
-    sy "No es que ninguno de nosotros seamos actores o estémos acostumbrados a infiltrarnos en grupos de tipos malos."
+    sy "No es que ninguno de nosotros sea actor o esté acostumbrado a infiltrarse en grupos de malos."
 
 # game/code/e03/e03s02.rpy:389
 translate spanish e03s02_88555dde:
@@ -626,7 +626,7 @@ translate spanish e03s02_88555dde:
 translate spanish e03s02_1e315682:
 
     # sw "Every time the cops come, the cults make sure nothing sordid is happening and the cops can't stick around."
-    sw "Cada vez que viene la policía, las sectas se aseguran de que no pase nada sórdido y que la policía no pueda quedarse."
+    sw "Cada vez que viene la policía, los sectarios se aseguran de que no ocurra nada sospechoso y de que la policía no pueda quedarse."
 
 # game/code/e03/e03s02.rpy:395
 translate spanish e03s02_99e13afb:
@@ -650,7 +650,7 @@ translate spanish e03s02_af1788a3:
 translate spanish e03s02_dc166a95:
 
     # mc "So if we get in, and we find evidence of what the cult is up to."
-    mc "Entonces, si entramos y encontramos evidencia de lo que está haciendo la secta."
+    mc "Así que si entramos, y encontramos pruebas de lo que la secta está haciendo."
 
 # game/code/e03/e03s02.rpy:407
 translate spanish e03s02_a0a6a4c5:
@@ -668,7 +668,7 @@ translate spanish e03s02_df544aa2:
 translate spanish e03s02_d7eb40b9:
 
     # sy "Mmmm. We're not letting you do this alone."
-    sy "Mmmm. No te dejaremos hacer esto solo."
+    sy "Mmmm. No te dejaremos hacer esto sola."
 
 # game/code/e03/e03s02.rpy:418
 translate spanish e03s02_00c5a493:
@@ -680,19 +680,19 @@ translate spanish e03s02_00c5a493:
 translate spanish e03s02_fe62e788:
 
     # mh "Thanks, you two."
-    mh "Gracias a ustedes dos."
+    mh "Gracias a los dos."
 
 # game/code/e03/e03s02.rpy:426
 translate spanish e03s02_359744ab:
 
     # mh "We're going to do this, Rose. For you and anyone else the cult has wronged."
-    mh "Vamos a hacer esto, Rose. Para ti y para cualquier otra persona, la secta ha hecho daño."
+    mh "Vamos a hacer esto, Rose. Por ti y por todos a los que la secta ha lastimado."
 
 # game/code/e03/e03s02.rpy:430
 translate spanish e03s02_7066b6ff:
 
     # rd "Thank you, Lyssa."
-    rd "Gracias, Lysa."
+    rd "Gracias, Lyssa."
 
 # game/code/e03/e03s02.rpy:434
 translate spanish e03s02_ff76e382:
@@ -752,7 +752,7 @@ translate spanish e03s02_2fcc7ac5:
 translate spanish e03s02_4b15c8b8:
 
     # mct "That sentiment was a lot easier when Lyssa wasn't talking to some cultist weirdo."
-    mct "Ese sentimiento era mucho más fácil cuando Lyssa no estaba hablando con algún cultista raro."
+    mct "Ese sentimiento era mucho más fácil cuando Lyssa no estaba hablando con algún bicho raro cultista."
 
 # game/code/e03/e03s02.rpy:481
 translate spanish e03s02_9c79cf45:
@@ -770,7 +770,7 @@ translate spanish e03s02_322fb95e:
 translate spanish e03s02_94de3cc7:
 
     # mh "Blegh. I want a shower just thinking about how long I had to sit there making nice with them."
-    mh "Blegh. Quiero una ducha sólo de pensar en cuánto tiempo tuve que sentarme ahí siendo amable con ellos."
+    mh "Blegh. Quiero una ducha sólo con pensar en el tiempo que he tenido que estar ahí sentada haciéndome la simpática con ellos."
 
 # game/code/e03/e03s02.rpy:492
 translate spanish e03s02_f28b3ab9:
@@ -812,7 +812,7 @@ translate spanish e03s02_2e749507:
 translate spanish e03s02_284c4879:
 
     # mh "Plus, I didn't really get to help you take down Fetish Locator."
-    mh "Además, realmente no pude ayudarte a acabar con Fetish Locator."
+    mh "Además, no pude ayudarte a desmontar el localizador de fetiches."
 
 # game/code/e03/e03s02.rpy:518
 translate spanish e03s02_a05a6a04:
@@ -848,5 +848,5 @@ translate spanish e03s02_39abdb31:
 translate spanish e03s02_4294c82c:
 
     # sw "So during the investigation, the police and private eyes have kept coming up against brick-walls."
-    sw "So during the investigation, the police and private eyes have kept coming up against brick-walls."
+    sw "Durante la investigación, la policía y los investigadores privados se han encontrado con obstáculos."
 
