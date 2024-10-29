@@ -376,7 +376,7 @@ translate portuguese e03s02_7131ce33:
 translate portuguese e03s02_ce30b3cc:
 
     # sw "And their leader, the mysterious entity known as Dyma will return to reshape the world and bless all true believers with great power and wealth."
-    sw "E que seu líder, a entidade misteriosa conhecida como Dyma, retornará para remodelar o mundo e abençoar todos os crentes com poder e fortuna."
+    sw "E que sua líder, a entidade misteriosa conhecida como Dyma, retornará para remodelar o mundo e abençoar todos os crentes com poder e fortuna."
 
 # game/code/e03/e03s02.rpy:263
 translate portuguese e03s02_fb58672e:
@@ -586,7 +586,7 @@ translate portuguese e03s02_3e9b971d:
 translate portuguese e03s02_88fdc42c:
 
     # mh "There is strength in numbers."
-    mh "A união faz a forças."
+    mh "A união faz a força."
 
 # game/code/e03/e03s02.rpy:373
 translate portuguese e03s02_a02527da:
