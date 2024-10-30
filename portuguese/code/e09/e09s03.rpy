@@ -202,7 +202,7 @@ translate portuguese e09s03_ae2cfa2e:
 translate portuguese e09s03_b8de4b44:
 
     # arj "I hate to say it, but the only real solution for this is more money."
-    arj "Odeio admitir, mas a única solução é mais dinheiro,"
+    arj "Odeio admitir, mas a única solução é mais dinheiro."
 
 # game/code/e09/e09s03.rpy:150
 translate portuguese e09s03_86174713:
@@ -730,7 +730,7 @@ translate portuguese e09s03_night_ed59d313:
 translate portuguese e09s03_night_7ba7c6df:
 
     # aw "I'm all for some grub, but first things first. We need to get cleaned up."
-    aw "Eu topo um rango, mas primeiro de tudo. É bom limpar isso aqui."
+    aw "Eu topo um rango, mas primeiro de tudo. A gente precisa se limpar aqui."
 
 # game/code/e09/e09s03.rpy:438
 translate portuguese e09s03_night_b2b9e19d:
@@ -1180,7 +1180,7 @@ translate portuguese e09s03_night_6bfc74d9:
 translate portuguese e09s03_night_f9f99069:
 
     # aw "No she's right. I can get so greedy."
-    aw "Não tem razão. Eu posso ser bem gananciosa."
+    aw "Não, ela tem razão. Eu posso ser bem gananciosa."
 
 # game/code/e09/e09s03.rpy:648
 translate portuguese e09s03_night_b31b3358:
