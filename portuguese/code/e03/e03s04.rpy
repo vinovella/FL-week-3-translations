@@ -316,13 +316,13 @@ translate portuguese e03s04_0acc0b32:
 translate portuguese e03s04_ecc4fbf0:
 
     # hp "If that is the strength of your belief, then you should have no problem proving it before me."
-    hp "Se sua criança é tão forte, então não deve ter problema algum em me mostrar."
+    hp "Se sua crença é tão forte, então não deve ter problema algum em me mostrar."
 
 # game/code/e03/e03s04.rpy:226
 translate portuguese e03s04_98ac311d:
 
     # sy "Not at all!"
-    sy "Problema nenhum!"
+    sy "Sem problema!"
 
 # game/code/e03/e03s04.rpy:229
 translate portuguese e03s04_f8aeffc8:
@@ -766,7 +766,7 @@ translate portuguese e03s04_b4e67bb2:
 translate portuguese e03s04_efea644f:
 
     # mc "You weren't functional two seconds ago!"
-    mc "Você não estava nem consciente nos segundos atrás!"
+    mc "Você não estava nem consciente dois segundos atrás!"
 
 # game/code/e03/e03s04.rpy:470
 translate portuguese e03s04_adb15cfe:
