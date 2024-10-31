@@ -422,29 +422,29 @@ translate spanish strings:
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 03: Lyssa & Stacy"
-    new "Ending 03: Lyssa & Stacy"
+    new "Final 03: Lyssa y Stacy"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 03: Lyssa, Chiara & Stacy"
-    new "Ending 03: Lyssa, Chiara & Stacy"
+    new "Final 03: Lyssa, Chiara y Stacy"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: AmRose & Allison"
-    new "Ending 09: AmRose & Allison"
+    new "Final 09: AmRose y Allison"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: Stacy, AmRose & Allison"
-    new "Ending 09: Stacy, AmRose & Allison"
+    new "Final 09: Stacy, AmRose y Allison"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: Hana & Londyn"
-    new "Ending 09: Hana & Londyn"
+    new "Final 09: Hana y Londyn"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: Hana & Allison"
-    new "Ending 09: Hana & Allison"
+    new "Final 09: Hana y Allison"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: Party Girls"
-    new "Ending 09: Party Girls"
+    new "Final 09: Fiesta de chicas"
 
