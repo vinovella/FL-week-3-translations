@@ -1,4 +1,4 @@
-# game/code/e09/e09s01.rpy:86
+﻿# game/code/e09/e09s01.rpy:86
 translate spanish e09s01_c9a4e483:
 
     # sy "Son of a bitch!"

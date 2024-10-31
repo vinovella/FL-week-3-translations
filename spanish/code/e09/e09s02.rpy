@@ -62,7 +62,7 @@ translate spanish e09s02_209ca301:
 translate spanish e09s02_fd306723:
 
     # mc "I, erm, wanted to talk to you about Fetish Locator."
-    mc "Yo, ejem, quería hablarte sobre Fetish Locator."
+    mc "Yo, ejem, quería hablarte sobre el Localizador de Fetiches."
 
 # game/code/e09/e09s02.rpy:50
 translate spanish e09s02_0c2882e7:
@@ -128,7 +128,7 @@ translate spanish e09s02_b3ae8984:
 translate spanish e09s02_e19144ef:
 
     # hr "Come on, it can't be that bad, [mcname]. It's not like you're telling me that you're going to be running Fetish Locator now or something."
-    hr "Vamos, que no puede ser tan malo, [mcname]. No es como si me estuvieras diciendo que vas a ejecutar Fetish Locator ahora o algo así."
+    hr "Vamos, no puede ser tan malo, [mcname]. Ni que me estuvieras diciendo que ahora te vas a encargar del Localizador de Fetiches o algo parecido."
 
 # game/code/e09/e09s02.rpy:79
 translate spanish e09s02_b9644dff:
@@ -152,7 +152,7 @@ translate spanish e09s02_01192fd3:
 translate spanish e09s02_87cedd7b:
 
     # mc "Hana-"
-    mc "Hana-"
+    mc "Hana..."
 
 # game/code/e09/e09s02.rpy:91
 translate spanish e09s02_e004033d:
@@ -164,7 +164,7 @@ translate spanish e09s02_e004033d:
 translate spanish e09s02_ec12635a:
 
     # mc "Just, hang on-"
-    mc "Solo, espera-"
+    mc "Sólo, espera..."
 
 # game/code/e09/e09s02.rpy:97
 translate spanish e09s02_dcd413db:
@@ -176,7 +176,7 @@ translate spanish e09s02_dcd413db:
 translate spanish e09s02_a9a12348:
 
     # mc "And that's why I'm perfect to run it!"
-    mc "¡Y por eso soy perfecto para ejecutarlo!"
+    mc "¡Y por eso soy perfecto para encargarme de él!"
 
 # game/code/e09/e09s02.rpy:103
 translate spanish e09s02_ef358b0b:
@@ -188,7 +188,7 @@ translate spanish e09s02_ef358b0b:
 translate spanish e09s02_2106929e:
 
     # mc "Now, come on Hana-"
-    mc "Ahora, vamos Hana-"
+    mc "Ahora, vamos Hana..."
 
 # game/code/e09/e09s02.rpy:109
 translate spanish e09s02_883bf903:
@@ -212,7 +212,7 @@ translate spanish e09s02_1b5e359d:
 translate spanish e09s02_d378c643:
 
     # mc "It's about the Senator!"
-    mc "¡Se trata del senador!"
+    mc "¡Se trata del Senador!"
 
 # game/code/e09/e09s02.rpy:121
 translate spanish e09s02_e15a29ea:
@@ -224,13 +224,13 @@ translate spanish e09s02_e15a29ea:
 translate spanish e09s02_8b7ad9b8:
 
     # mc "He was on Fetish Locator."
-    mc "Estaba en Fetish Locator."
+    mc "Estaba en el Localizador de Fetiches."
 
 # game/code/e09/e09s02.rpy:127
 translate spanish e09s02_0ddf9e98:
 
     # hr "I could have guessed-"
-    hr "Podría haberlo adivinado-"
+    hr "Podría haberlo adivinado..."
 
 # game/code/e09/e09s02.rpy:130
 translate spanish e09s02_518fcf79:
@@ -242,7 +242,7 @@ translate spanish e09s02_518fcf79:
 translate spanish e09s02_97a5a5e2:
 
     # hr "That's exactly the reason that no one should be in charge. That the app should be shut down."
-    hr "Ésa es exactamente la razón por la que nadie debería estar a cargo. Que la aplicación debería cerrarse."
+    hr "Esa es exactamente la razón por la que nadie debería estar a cargo. Por lo que la aplicación debería cerrarse."
 
 # game/code/e09/e09s02.rpy:136
 translate spanish e09s02_ca9f0b0e:
@@ -254,19 +254,19 @@ translate spanish e09s02_ca9f0b0e:
 translate spanish e09s02_e8a2feea:
 
     # mc "That's why I called. Look, I knew you were going to be mad about us taking over Fetish Locator."
-    mc "Por eso llamé. Mira, sabía que te enojarías porque nos hicimos cargo de Fetish Locator."
+    mc "Por eso te llamé. Mira, sabía que te enojarías porque nos hicimos cargo del Localizador de Fetiches."
 
 # game/code/e09/e09s02.rpy:138
 translate spanish e09s02_a4fbefb4:
 
     # mc "But really, I called to tell you that we have a way for you to take down the Senator. Once and for all."
-    mc "Pero en realidad te llamé para decirte que tenemos una manera de derrotar al senador. De una vez por todas."
+    mc "Pero en realidad te llamé para decirte que tenemos una manera de derrotar al Senador. De una vez por todas."
 
 # game/code/e09/e09s02.rpy:143
 translate spanish e09s02_f4cebbeb:
 
     # mc "Please, Hana. No matter what you decide to do, at the very least let Fetish Locator do something good for your life."
-    mc "Por favor, Hana. No importa lo que decidas hacer, al menos deja que Fetish Locator haga algo bueno por tu vida."
+    mc "Por favor, Hana. No importa lo que decidas hacer, al menos deja que el Localizador de Fetiches haga algo bueno por tu vida."
 
 # game/code/e09/e09s02.rpy:146
 translate spanish e09s02_9084db76:
@@ -284,7 +284,7 @@ translate spanish e09s02_05500ff6:
 translate spanish e09s02_1358c426:
 
     # hr "You said 'you were going to be mad at {i}us.{/i} Who is 'us'?"
-    hr "Dijiste \"ibas a enojarte con {i}nosotros\".{/i} ¿Quiénes somos \"nosotros\"?"
+    hr "Dijiste \"ibas a enojarte con {i}nosotros\".{/i} ¿Quiénes son \"nosotros\"?"
 
 # game/code/e09/e09s02.rpy:155
 translate spanish e09s02_a3575fd0:
@@ -296,13 +296,13 @@ translate spanish e09s02_a3575fd0:
 translate spanish e09s02_18296b5b:
 
     # hr "Really?"
-    hr "¿En realidad?"
+    hr "¿En serio?"
 
 # game/code/e09/e09s02.rpy:161
 translate spanish e09s02_eda4c3b3:
 
     # mc "Yeah, technically AmRose is the president of whatever we're doing."
-    mc "Sí, técnicamente AmRose es el presidente de todo lo que estemos haciendo."
+    mc "Sí, técnicamente AmRose es la presidenta de todo lo que estamos haciendo."
 
 # game/code/e09/e09s02.rpy:164
 translate spanish e09s02_08aa6528:
@@ -320,7 +320,7 @@ translate spanish e09s02_93ba2302:
 translate spanish e09s02_85c18855:
 
     # mc "What we want to do is build a better Fetish Locator. Something new. Something that stays true to all the promises that Lydia made to us."
-    mc "Lo que queremos hacer es construir un mejor localizador de fetiches. Algo nuevo. Algo que se mantenga fiel a todas las promesas que Lydia nos hizo."
+    mc "Lo que queremos hacer es construir un mejor Localizador de Fetiches. Algo nuevo. Algo que se mantenga fiel a todas las promesas que Lydia nos hizo."
 
 # game/code/e09/e09s02.rpy:169
 translate spanish e09s02_c1542b17:
@@ -380,7 +380,7 @@ translate spanish e09s02_36d31e51:
 translate spanish e09s02_b76a0f4c:
 
     # hr "Wait..."
-    hr "Esperar..."
+    hr "Espera..."
 
 # game/code/e09/e09s02.rpy:197
 translate spanish e09s02_def0ad19:
@@ -392,19 +392,19 @@ translate spanish e09s02_def0ad19:
 translate spanish e09s02_da94bd26:
 
     # hr "I know her..."
-    hr "la conozco..."
+    hr "La conozco..."
 
 # game/code/e09/e09s02.rpy:203
 translate spanish e09s02_3b24b5ba:
 
     # hr "She used to be the Senator's old assistant."
-    hr "Solía ser la antigua asistente del senador."
+    hr "Solía ser la antigua asistente del Senador."
 
 # game/code/e09/e09s02.rpy:206
 translate spanish e09s02_989d2f33:
 
     # mc "No shit..."
-    mc "No shit..."
+    mc "No me digas..."
 
 # game/code/e09/e09s02.rpy:209
 translate spanish e09s02_9305b68e:
@@ -422,7 +422,7 @@ translate spanish e09s02_81a47386:
 translate spanish e09s02_301d1507:
 
     # hr "It's so much more than that. He was coming after her career, her school admittance... Everything."
-    hr "Es mucho más que eso. Él venía detrás de su carrera, su admisión a la escuela... Todo."
+    hr "Es mucho más que eso. Él venía detrás de su carrera, su admisión a la universidad... Todo."
 
 # game/code/e09/e09s02.rpy:218
 translate spanish e09s02_44efead0:
@@ -452,7 +452,7 @@ translate spanish e09s02_822aa5c3:
 translate spanish e09s02_feda2459:
 
     # hr "You need her to prove the story. She previously worked for the Senator, she was the one who received his messages, she needs to verify everything."
-    hr "La necesitas para probar la historia. Ella anteriormente trabajó para el Senador, ella era quien recibía sus mensajes, necesita verificar todo."
+    hr "Necesitas que ella verifique la historia. Antes trabajaba para el Senador, era la que recibía sus mensajes, necesita verificarlo todo."
 
 # game/code/e09/e09s02.rpy:231
 translate spanish e09s02_e36f326f:
@@ -494,7 +494,7 @@ translate spanish e09s02_c763d3fe:
 translate spanish e09s02_0d6c32d5:
 
     # hr "The Senator has thought himself untouchable for so long... paid the right bribes, put pressure on the right people..."
-    hr "El senador se ha considerado intocable durante tanto tiempo... pagó los sobornos adecuados, presionó a las personas adecuadas..."
+    hr "El Senador se ha considerado intocable durante tanto tiempo... pagó los sobornos adecuados, presionó a las personas adecuadas..."
 
 # game/code/e09/e09s02.rpy:252
 translate spanish e09s02_2c39462b:
@@ -524,25 +524,25 @@ translate spanish e09s02_79db870d:
 translate spanish e09s02_2fb8635c:
 
     # hr "I'm still going to run my piece on Fetish Locator. About how it's a bad thing, and anyone and everyone involved with it should be taken down."
-    hr "Todavía voy a publicar mi artículo en Fetish Locator. Sobre que es algo malo y que todos los involucrados en ello deberían ser eliminados."
+    hr "Todavía voy a publicar mi artículo sobre el Localizador de Fetiches. Sobre cómo es algo malo, y cualquiera o todos los involucrados con él deben ser eliminados."
 
 # game/code/e09/e09s02.rpy:271
 translate spanish e09s02_ff0f1aa3:
 
     # mc "Look..."
-    mc "Mirar..."
+    mc "Mira..."
 
 # game/code/e09/e09s02.rpy:273
 translate spanish e09s02_97237892:
 
     # mc "You're going to do whatever you're going to do Hana. I'm not here to stop you."
-    mc "Vas a hacer lo que sea que vayas a hacer Hana. No estoy aquí para detenerte."
+    mc "Harás lo que tengas que hacer, Hana. No estoy aquí para detenerte."
 
 # game/code/e09/e09s02.rpy:274
 translate spanish e09s02_dbae253b:
 
     # mc "But I want you to have that, at the very least. I don't know the whole story between you and the Senator, but I know it's bad."
-    mc "Pero quiero que tengas eso, al menos. No conozco toda la historia entre usted y el senador, pero sé que es mala."
+    mc "Pero quiero que tengas eso, al menos. No conozco toda la historia entre ti y el Senador, pero sé que es mala."
 
 # game/code/e09/e09s02.rpy:277
 translate spanish e09s02_e6096730:
@@ -554,7 +554,7 @@ translate spanish e09s02_e6096730:
 translate spanish e09s02_3ef8e497:
 
     # mc "This isn't a bargaining chip, and it's not a demand. You can walk away right now and post the story, and I'll still know I did the right thing giving you this information."
-    mc "Esto no es una moneda de cambio ni una exigencia. Puedes marcharte ahora mismo y publicar la historia, y aún así sabré que hice lo correcto al brindarte esta información."
+    mc "Esto no es una moneda de cambio ni una exigencia. Puedes marcharte en este momento y publicar la historia, y aún así sabré que hice lo correcto al brindarte esta información."
 
 # game/code/e09/e09s02.rpy:279
 translate spanish e09s02_7efb2494:
@@ -578,25 +578,25 @@ translate spanish e09s02_82eb6e68:
 translate spanish e09s02_99bf0349:
 
     # mc "That we won't put up with the kind of behavior that Lydia perpetuated. Or the Senator. That we're going to do everything in our power to take them down."
-    mc "Que no toleraremos el tipo de comportamiento que Lydia perpetuó. O el senador. Que vamos a hacer todo lo que esté a nuestro alcance para acabar con ellos."
+    mc "Que no toleraremos el tipo de comportamiento que Lydia perpetuó. O el Senador. Que vamos a hacer todo lo que esté a nuestro alcance para acabar con ellos."
 
 # game/code/e09/e09s02.rpy:286
 translate spanish e09s02_345f02c3:
 
     # mc "But, I can't stop you. If you decide to run the Fetish Locator piece, that's your decision."
-    mc "Pero no puedo detenerte. Si decides ejecutar la pieza Fetish Locator, es tu decisión."
+    mc "Pero no puedo detenerte. Si decides publicar el Localizador de Fetiches, es tu decisión."
 
 # game/code/e09/e09s02.rpy:287
 translate spanish e09s02_0fb6980b:
 
     # mc "Just know, the Fetish Locator Rebooted would be different."
-    mc "Solo sé que Fetish Locator Rebooted sería diferente."
+    mc "Solo sé que el Localizador de Fetiches Reiniciado sería diferente."
 
 # game/code/e09/e09s02.rpy:290
 translate spanish e09s02_1c218da5:
 
     # hr "Maybe... I can hold off for a while. Finding Londyn is going to take up a lot of my time."
-    hr "Quizás... pueda esperar un rato. Encontrar a Londyn me ocupará mucho tiempo."
+    hr "Quizás... pueda esperar un rato. Encontrar a Londyn me tomará mucho tiempo."
 
 # game/code/e09/e09s02.rpy:291
 translate spanish e09s02_ec3d9c96:
@@ -632,7 +632,7 @@ translate spanish e09s02_1de86c0f:
 translate spanish e09s02_6c8cfbea:
 
     # mct "Well, that could have gone better..."
-    mct "Bueno, eso podría haber ido mejor..."
+    mct "Bueno, eso podría haber sido mejor..."
 
 # game/code/e09/e09s02.rpy:307
 translate spanish e09s02_fb4323a0:
@@ -644,13 +644,13 @@ translate spanish e09s02_fb4323a0:
 translate spanish e09s02_bd578b32:
 
     # mct "What was I expecting? That Hana would just up and accept that Fetish Locator being under new management was a good thing."
-    mct "¿Qué esperaba? Que Hana simplemente se levantara y aceptara que Fetish Locator estuviera bajo una nueva dirección era algo bueno."
+    mct "¿Qué esperaba? Que Hana aceptara que la nueva dirección del Localizador de Fetiches era algo bueno."
 
 # game/code/e09/e09s02.rpy:312
 translate spanish e09s02_591960cc:
 
     # mct "But somehow I feel like we just wandered into a whole new world of difficult... This Senator guy sounds like he's dangerous... or at the very least, powerful."
-    mct "Pero de alguna manera siento que acabamos de adentrarnos en un mundo completamente nuevo y difícil... Este senador suena como si fuera peligroso... o al menos, poderoso."
+    mct "Pero de alguna manera siento que acabamos de adentrarnos en un mundo completamente nuevo y difícil... Este Senador suena como si fuera peligroso... o al menos, poderoso."
 
 # game/code/e09/e09s02.rpy:313
 translate spanish e09s02_02e36cbf:
@@ -662,7 +662,7 @@ translate spanish e09s02_02e36cbf:
 translate spanish e09s02_4e726346:
 
     # mct "Well, I better get back. I've got a brand to get back together!"
-    mct "Bueno, será mejor que regrese. ¡Tengo una marca para volver a estar juntos!"
+    mct "Bueno, será mejor que regrese. ¡Tengo una marca que recuperar!"
 
 translate spanish strings:
 
@@ -672,5 +672,5 @@ translate spanish strings:
 
     # game/code/e09/e09s02.rpy:253
     old "I hope it buys me a little good will"
-    new "Espero que me compre un poco de buena voluntad."
+    new "Espero que me compre un poco de buena voluntad"
 

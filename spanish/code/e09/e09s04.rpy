@@ -44,13 +44,13 @@ translate spanish e09s04_850c9523:
 translate spanish e09s04_cc8d69a3:
 
     # lo "I've moved past the Senator. I have my own life, I've finally built something. I got out. And I just...{w} don't want to get dragged back into this."
-    lo "Ya pasé al Senador. Tengo mi propia vida, finalmente he construido algo. Salí. Y yo simplemente...{w} no quiero volver a verme arrastrado a esto."
+    lo "He dejado atrás al Senador. Tengo mi propia vida, por fin he construido algo. Me salí. Y yo sólo...{w} no quiero ser arrastrada de nuevo a esto."
 
 # game/code/e09/e09s04.rpy:75
 translate spanish e09s04_2b7ffeda:
 
     # hr "Come on, Londyn-"
-    hr "Vamos, Londres-"
+    hr "Vamos, Londyn-"
 
 # game/code/e09/e09s04.rpy:76
 translate spanish e09s04_953f2d35:
@@ -80,7 +80,7 @@ translate spanish e09s04_09bfa695:
 translate spanish e09s04_8f4fd857:
 
     # mc "The Senator is a shitty person. He is a bad man, and someone needs to stop him."
-    mc "El senador es una persona de mierda. Es un mal hombre y alguien tiene que detenerlo."
+    mc "El Senador es una persona de mierda. Es un mal hombre y alguien tiene que detenerlo."
 
 # game/code/e09/e09s04.rpy:91
 translate spanish e09s04_1f26d0ae:
@@ -104,7 +104,7 @@ translate spanish e09s04_a977d63c:
 translate spanish e09s04_1955500d:
 
     # mc "We saw what he did to you... You're not the only one."
-    mc "Vimos lo que te hizo... No eres el único."
+    mc "Vimos lo que te hizo... No eres la única."
 
 # game/code/e09/e09s04.rpy:98
 translate spanish e09s04_b1359d23:
@@ -134,13 +134,13 @@ translate spanish e09s04_42c79807:
 translate spanish e09s04_15b977dc:
 
     # lo "I never really saw inside it, but if there's anything incriminating on the Senator, it's in there."
-    lo "Realmente nunca vi su interior, pero si hay algo que incrimine al senador, está ahí."
+    lo "Realmente nunca vi su interior, pero si hay algo que incrimine al Senador, está ahí."
 
 # game/code/e09/e09s04.rpy:113
 translate spanish e09s04_ebe589c5:
 
     # hr "Do you know how to open it?"
-    hr "¿Sabes cómo abrirlo?"
+    hr "¿Sabes cómo abrirla?"
 
 # game/code/e09/e09s04.rpy:116
 translate spanish e09s04_ab9a771a:
@@ -152,7 +152,7 @@ translate spanish e09s04_ab9a771a:
 translate spanish e09s04_a67474b5:
 
     # lo "6 - 9 - 6 - 9. Then you hit the pound key."
-    lo "6 - 9 - 6 - 9. Luego presionas la tecla almohadilla."
+    lo "6 - 9 - 6 - 9. Luego pulsa la tecla de numeral."
 
 # game/code/e09/e09s04.rpy:121
 translate spanish e09s04_1f0c8d59:
@@ -164,13 +164,13 @@ translate spanish e09s04_1f0c8d59:
 translate spanish e09s04_b0eee977:
 
     # lo "But that's all I can do for you two. I...{w} He scares me. I know the Senator is powerful, and... I'm just getting my life back on track."
-    lo "Pero eso es todo lo que puedo hacer por ustedes dos. Yo...{w} Él me asusta. Sé que el senador es poderoso y... estoy empezando a recuperar mi vida."
+    lo "Pero eso es todo lo que puedo hacer por ustedes dos. Yo...{w} Él me asusta. Sé que el Senador es poderoso y... estoy empezando a recuperar mi vida."
 
 # game/code/e09/e09s04.rpy:127
 translate spanish e09s04_d9519919:
 
     # mc "This is more than enough Londyn-"
-    mc "Esto es más que suficiente Londres-"
+    mc "Esto es más que suficiente Londyn-"
 
 # game/code/e09/e09s04.rpy:130
 translate spanish e09s04_0b67f068:
@@ -230,7 +230,7 @@ translate spanish e09s04_b050afd9:
 translate spanish e09s04_7098e6ec:
 
     # mc "No, not because of the story. But because she's just a subject to you. You know that these stories are about {i}people{/i}, right?"
-    mc "No, no por la historia. Sino porque ella es sólo un súbdito para ti. Sabes que estas historias tratan sobre {i}personas{/i}, ¿verdad?"
+    mc "No, no por la historia. Sino porque ella es sólo un sujeto para ti. Sabes que estas historias tratan sobre {i}personas{/i}, ¿verdad?"
 
 # game/code/e09/e09s04.rpy:166
 translate spanish e09s04_3f929e09:
@@ -242,7 +242,7 @@ translate spanish e09s04_3f929e09:
 translate spanish e09s04_a0a205a1:
 
     # hr "I'll meet you outside of the Senator's estate in a few hours. Wear something sneaky."
-    hr "Nos reuniremos con usted afuera de la finca del Senador en unas horas. Ponte algo disimulado."
+    hr "Me reuniré contigo fuera de la finca del Senador en unas horas. Ponte algo discreto."
 
 # game/code/e09/e09s04.rpy:195
 translate spanish e09s04_cadc87c4:
@@ -260,7 +260,7 @@ translate spanish e09s04_a3455d6c:
 translate spanish e09s04_e064d2c9:
 
     # hr "But focus. We need to get out of here before the Senator comes up here."
-    hr "Pero concéntrate. Necesitamos salir de aquí antes de que suba el senador."
+    hr "Pero concéntrate. Tenemos que salir de aquí antes de que el Senador venga."
 
 # game/code/e09/e09s04.rpy:203
 translate spanish e09s04_7d00b826:
@@ -278,7 +278,7 @@ translate spanish e09s04_4cd6c681:
 translate spanish e09s04_1b6b9ffc:
 
     # mc "But the hard part is over! All we need to do is grab the file and get out."
-    mc "¡Pero lo difícil ya pasó! Todo lo que tenemos que hacer es coger el archivo y salir."
+    mc "¡Pero lo difícil ya pasó! Todo lo que tenemos que hacer es tomar el archivo y salir."
 
 # game/code/e09/e09s04.rpy:213
 translate spanish e09s04_a9ff15db:
@@ -290,13 +290,13 @@ translate spanish e09s04_a9ff15db:
 translate spanish e09s04_faf38c14:
 
     # mc "Say what?"
-    mc "¿Que qué?"
+    mc "¿Decir qué?"
 
 # game/code/e09/e09s04.rpy:216
 translate spanish e09s04_43e224be:
 
     # hr "Every time-"
-    hr "Cada vez-"
+    hr "Cada vez..."
 
 # game/code/e09/e09s04.rpy:221
 translate spanish e09s04_cf3cc3cc:
@@ -308,19 +308,19 @@ translate spanish e09s04_cf3cc3cc:
 translate spanish e09s04_a2803bc7:
 
     # "The Senator" "Put our investigator on it. I heard that the Congressman likes to gamble and fuck whores. Give it a day, and he won't be a problem anymore."
-    "el senador" "Pon a nuestro investigador en esto. Escuché que al congresista le gusta apostar y follar con putas. Dale un día y ya no será un problema."
+    "El Senador" "Pon a nuestro investigador en esto. Escuché que al congresista le gusta apostar y follar con putas. Dale un día y ya no será un problema."
 
 # game/code/e09/e09s04.rpy:237
 translate spanish e09s04_4a51a480:
 
     # "The Senator" "And-{w} Wait a minute..."
-    "el senador" "Y-{w} Espera un minuto..."
+    "El Senador" "Y-{w} Espera un minuto..."
 
 # game/code/e09/e09s04.rpy:254
 translate spanish e09s04_16723422:
 
     # "The Senator" "It's nothing. I thought I had... left the stove on."
-    "el senador" "No es nada. Pensé que había... dejado la estufa encendida."
+    "El Senador" "No es nada. Pensé que había... dejado la estufa encendida."
 
 # game/code/e09/e09s04.rpy:259
 translate spanish e09s04_3b3da206:
@@ -332,7 +332,7 @@ translate spanish e09s04_3b3da206:
 translate spanish e09s04_69705684:
 
     # mc "Hana?"
-    mc "¿¿Hana?"
+    mc "¿Hana?"
 
 # game/code/e09/e09s04.rpy:264
 translate spanish e09s04_d204f323:
@@ -344,7 +344,7 @@ translate spanish e09s04_d204f323:
 translate spanish e09s04_a6926ac9:
 
     # hr "He... We... We have to go. We have to leave. Right now."
-    hr "Él... Nosotros... Tenemos que irnos. Tenemos que irnos. Ahora mismo."
+    hr "Él... Nosotros... Tenemos que irnos. Tenemos que irnos. Justo ahora."
 
 # game/code/e09/e09s04.rpy:269
 translate spanish e09s04_87cedd7b:
@@ -404,7 +404,7 @@ translate spanish e09s04_fed322e8:
 translate spanish e09s04_87c830e4:
 
     # mc "I got your back, okay? Nothing bad is going to happen. I just need you to get out from under the desk, okay?"
-    mc "Te cubro la espalda, ¿vale? No va a pasar nada malo. Sólo necesito que salgas de debajo del escritorio, ¿vale?"
+    mc "Te cubro la espalda, ¿bien? No va a pasar nada malo. Sólo necesito que salgas de debajo del escritorio, ¿de acuerdo?"
 
 # game/code/e09/e09s04.rpy:301
 translate spanish e09s04_84611f0d:
@@ -416,13 +416,13 @@ translate spanish e09s04_84611f0d:
 translate spanish e09s04_4a603bbf:
 
     # mc "No buts. Just baby steps, okay?"
-    mc "Sin peros. Sólo pequeños pasos, ¿vale?"
+    mc "Sin peros. Sólo pequeños pasos, ¿de acuerdo?"
 
 # game/code/e09/e09s04.rpy:312
 translate spanish e09s04_89368725:
 
     # mc "See? He's gone. Now, let's grab-"
-    mc "¿Ver? Se ha ido. Ahora, agarremos-"
+    mc "¿Lo ves? Se ha ido. Ahora, agarremos-"
 
 # game/code/e09/e09s04.rpy:315
 translate spanish e09s04_25f2152a:
@@ -446,7 +446,7 @@ translate spanish e09s04_8df0fec6:
 translate spanish e09s04_5d1fa015:
 
     # hr "I... I..."
-    hr "I... I..."
+    hr "Yo... Yo..."
 
 # game/code/e09/e09s04.rpy:326
 translate spanish e09s04_d6a82366:
@@ -458,7 +458,7 @@ translate spanish e09s04_d6a82366:
 translate spanish e09s04_3b076d13:
 
     # mc "Literally any time. Now come on, let's grab these files and blow this popsicle stand!"
-    mc "Literalmente en cualquier momento. ¡Ahora vamos, tomemos estos archivos y explotemos este puesto de paletas!"
+    mc "Literalmente en cualquier momento. ¡Ahora vamos, agarremos estos archivos y volemos este puesto de paletas!"
 
 # game/code/e09/e09s04.rpy:332
 translate spanish e09s04_f8199e01:
@@ -500,13 +500,13 @@ translate spanish e09s04_fc7b2e90:
 translate spanish e09s04_e7822d07:
 
     # lo "[mcname]! Hi!"
-    lo "[mcname]! Hi!"
+    lo "¡[mcname]! ¡Hola!"
 
 # game/code/e09/e09s04.rpy:373
 translate spanish e09s04_76b71d0f:
 
     # mc "Hey, Londyn! Didn't think I was going to see you here."
-    mc "¡Hola, Londres! No pensé que te iba a ver aquí."
+    mc "¡Hola, Londyn! No pensé que te iba a ver aquí."
 
 # game/code/e09/e09s04.rpy:376
 translate spanish e09s04_1a2ed7cc:
@@ -524,7 +524,7 @@ translate spanish e09s04_4bca7deb:
 translate spanish e09s04_7b8de1f4:
 
     # lo "Excited?"
-    lo "¿Entusiasmado?"
+    lo "¿Entusiasmada?"
 
 # game/code/e09/e09s04.rpy:386
 translate spanish e09s04_ff4ca9e2:
@@ -536,19 +536,19 @@ translate spanish e09s04_ff4ca9e2:
 translate spanish e09s04_e378b2e7:
 
     # lo "Same."
-    lo "Mismo."
+    lo "También."
 
 # game/code/e09/e09s04.rpy:392
 translate spanish e09s04_d8eaba52:
 
     # hr "Londyn! [mcname]!"
-    hr "¡Londres! [mcname]!"
+    hr "¡Londyn! ¡[mcname]!"
 
 # game/code/e09/e09s04.rpy:394
 translate spanish e09s04_05eaaa65:
 
     # hr "Come aboard!"
-    hr "¡Sube a bordo!"
+    hr "¡Suban a bordo!"
 
 # game/code/e09/e09s04.rpy:397
 translate spanish e09s04_2bf2731b:
@@ -602,13 +602,13 @@ translate spanish e09s04_6417dd43:
 translate spanish e09s04_40641187:
 
     # hr "It's actually why I called you both, I wanted you to be the first to know."
-    hr "De hecho, es por eso que los llamé a ambos, quería que fueran los primeros en saberlo."
+    hr "De hecho, es por eso que los llamé a los dos, quería que fueran los primeros en saberlo."
 
 # game/code/e09/e09s04.rpy:421
 translate spanish e09s04_b708cbf4:
 
     # hr "But, you both need a glass of bubbly before I tell you."
-    hr "Pero ambos necesitan un vaso de champán antes de que se lo diga."
+    hr "Pero ambos necesitan una copa de champán antes de que se lo diga."
 
 # game/code/e09/e09s04.rpy:424
 translate spanish e09s04_90c44ba6:
@@ -626,25 +626,25 @@ translate spanish e09s04_ffa89625:
 translate spanish e09s04_1f5f79eb:
 
     # mc "All right, we have our glasses, we're on your boat - the hell is going on with you Hana?"
-    mc "Muy bien, tenemos nuestras gafas, estamos en tu barco. ¿Qué diablos te pasa, Hana?"
+    mc "Muy bien, tenemos nuestras copas, estamos en tu barco. ¿Qué diablos te pasa, Hana?"
 
 # game/code/e09/e09s04.rpy:433
 translate spanish e09s04_2dccb318:
 
     # hr "Tomorrow, the DA is officially charging the Senator with pretty much every white collar crime in the book."
-    hr "Mañana, el fiscal del distrito acusará oficialmente al senador de casi todos los delitos de cuello blanco del libro."
+    hr "Mañana, el fiscal del distrito acusará oficialmente al Senador de casi todos los delitos de cuello blanco del libro."
 
 # game/code/e09/e09s04.rpy:436
 translate spanish e09s04_d38b89e3:
 
     # lo "What!? Really?"
-    lo "¿¡Qué!? ¿En realidad?"
+    lo "¿¡Qué!? ¿De verdad?"
 
 # game/code/e09/e09s04.rpy:439
 translate spanish e09s04_7c10c730:
 
     # hr "Yep. Blackmail, extortion, racketeering - you name it, it's on the list."
-    hr "Sí. Chantaje, extorsión, extorsión... lo que sea, está en la lista."
+    hr "Sí. Chantaje, extorsión, crimen organizado... lo que sea, está en la lista."
 
 # game/code/e09/e09s04.rpy:440
 translate spanish e09s04_3e841471:
@@ -716,7 +716,7 @@ translate spanish e09s04_80181d29:
 translate spanish e09s04_ffdbdd72:
 
     # hr "You helped a lot. You're the one who found the data on the Fetish Locator drive. You're the one who convinced Londyn."
-    hr "Ayudaste mucho. Tú eres quien encontró los datos en la unidad Fetish Locator. Tú fuiste quien convenció a Londyn."
+    hr "Ayudaste mucho. Tú eres el que encontró los datos en la unidad del Localizador de Fetiches. Tú fuiste quien convenció a Londyn."
 
 # game/code/e09/e09s04.rpy:477
 translate spanish e09s04_52ba6f21:
@@ -728,7 +728,7 @@ translate spanish e09s04_52ba6f21:
 translate spanish e09s04_7c03f607:
 
     # hr "This wouldn't have been possible without you, [mcname]."
-    hr "Esto no habría sido posible sin vosotros, [mcname]."
+    hr "Esto no habría sido posible sin ustedes, [mcname]."
 
 # game/code/e09/e09s04.rpy:484
 translate spanish e09s04_1b94c7b2:
@@ -770,7 +770,7 @@ translate spanish e09s04_4acab406:
 translate spanish e09s04_7f5ba0a1:
 
     # hr "He'll bring in all his lawyers, they'll all try and disprove the authenticity of the ledger, and say the USB documents are forged."
-    hr "Llamará a todos sus abogados, todos intentarán refutar la autenticidad del libro mayor y dirán que los documentos USB son falsos."
+    hr "Llamará a todos sus abogados, todos intentarán refutar la autenticidad del libro mayor y dirán que los documentos en el USB son falsos."
 
 # game/code/e09/e09s04.rpy:511
 translate spanish e09s04_9b18bfa7:
@@ -806,7 +806,7 @@ translate spanish e09s04_12d0b4a4:
 translate spanish e09s04_5b9dd8cc:
 
     # hr "In fact, that's going to be so busy, it's going to be my sole focus."
-    hr "De hecho, va a estar tan ocupado que será mi único enfoque."
+    hr "De hecho, va a estar tan ocupado que va a ser mi único objetivo."
 
 # game/code/e09/e09s04.rpy:524
 translate spanish e09s04_b84f6b76:
@@ -824,7 +824,7 @@ translate spanish e09s04_f18fa32b:
 translate spanish e09s04_95bb6ff4:
 
     # hr "Yep. I decided not to run the hit piece on Fetish Locator."
-    hr "Sí. Decidí no publicar el artículo en Fetish Locator."
+    hr "Sí. Decidí no publicar el artículo sobre el Localizador de Fetiches."
 
 # game/code/e09/e09s04.rpy:533
 translate spanish e09s04_701d2464:
@@ -842,7 +842,7 @@ translate spanish e09s04_d25b2d2b:
 translate spanish e09s04_0db88fdf:
 
     # hr "Fetish Locator helped me. In a weird, roundabout way. It was able to do something for me I've wanted to happen for so long. I'd be a hypocrite to criticize it now."
-    hr "El localizador de fetiches me ayudó. De una manera extraña y indirecta. Pudo hacer algo por mí que había deseado durante tanto tiempo. Sería un hipócrita si lo criticara ahora."
+    hr "El Localizador de Fetiches me ayudó. De una forma extraña e indirecta. Fue capaz de hacer por mí algo que llevaba tanto tiempo deseando que ocurriera. Sería una hipócrita si lo criticara ahora."
 
 # game/code/e09/e09s04.rpy:541
 translate spanish e09s04_87cedd7b_1:
@@ -854,7 +854,7 @@ translate spanish e09s04_87cedd7b_1:
 translate spanish e09s04_ff5eeea3:
 
     # hr "I also made another decision about Fetish Locator Rebooted."
-    hr "También tomé otra decisión sobre Fetish Locator Rebooted."
+    hr "También tomé otra decisión sobre el Localizador de Fetiches Reiniciado."
 
 # game/code/e09/e09s04.rpy:548
 translate spanish e09s04_22513c67:
@@ -890,7 +890,7 @@ translate spanish e09s04_8852e77f:
 translate spanish e09s04_c0f2af16:
 
     # hr "I figured I could do that, in a more official capacity."
-    hr "Pensé que podría hacer eso, en una capacidad más oficial."
+    hr "Me imaginé que podría hacerlo, de forma más oficial."
 
 # game/code/e09/e09s04.rpy:564
 translate spanish e09s04_9d24f9bf:
@@ -920,7 +920,7 @@ translate spanish e09s04_4a86df7f:
 translate spanish e09s04_ede1bc3b:
 
     # hr "Think of it as a thank you for your help with the mansion."
-    hr "Piense en ello como un agradecimiento por su ayuda con la mansión."
+    hr "Piensa en ello como un agradecimiento por tu ayuda con la mansión."
 
 # game/code/e09/e09s04.rpy:582
 translate spanish e09s04_be22ebf4:
@@ -956,13 +956,13 @@ translate spanish e09s04_1c7e36b6:
 translate spanish e09s04_30dbfcd5:
 
     # hr "She had grown to distrust the Senator, and for good reason."
-    hr "Había llegado a desconfiar del senador, y con razón."
+    hr "Había llegado a desconfiar del Senador, y con razón."
 
 # game/code/e09/e09s04.rpy:599
 translate spanish e09s04_f4d8e616:
 
     # hr "After she was... gone, he ended up blocking Iona and I from touching the money. He couldn't get to it, but he made damn sure we couldn't either."
-    hr "Después de que ella... se fue, terminó impidiendo que Iona y yo tocáramos el dinero. Él no pudo alcanzarlo, pero se aseguró de que nosotros tampoco pudiéramos."
+    hr "Después de que ella... se fue, terminó impidiendo que Iona y yo tocáramos el dinero. Él no pudo tenerlo, pero se aseguró de que nosotras tampoco pudiéramos."
 
 # game/code/e09/e09s04.rpy:600
 translate spanish e09s04_09abc85b:
@@ -974,7 +974,7 @@ translate spanish e09s04_09abc85b:
 translate spanish e09s04_2778c62e:
 
     # mc "So what, you're rich now?"
-    mc "¿Y qué? ¿Ahora eres rico?"
+    mc "¿Y qué? ¿Ahora eres rica?"
 
 # game/code/e09/e09s04.rpy:607
 translate spanish e09s04_d39d44fa:
@@ -986,13 +986,13 @@ translate spanish e09s04_d39d44fa:
 translate spanish e09s04_cde91d48:
 
     # hr "I figure Fetish Locator Rebooted is a great place to start. Wherever it goes, I'm sure it is going to do great. Especially with you at the helm."
-    hr "Creo que Fetish Locator Rebooted es un excelente lugar para comenzar. Vaya donde vaya, estoy seguro de que le irá genial. Especialmente contigo al mando."
+    hr "Creo que el Localizador de Fetiches Reiniciado es un buen lugar para empezar. Vaya donde vaya, estoy segura de que le irá muy bien. Especialmente contigo al mando."
 
 # game/code/e09/e09s04.rpy:612
 translate spanish e09s04_f70f854e:
 
     # lo "Wait... wasn't Fetish Locator like just shut down?"
-    lo "Espera... ¿No se acababa de cerrar Fetish Locator?"
+    lo "Espera... ¿No se acababa de cerrar el Localizador de Fetiches?"
 
 # game/code/e09/e09s04.rpy:615
 translate spanish e09s04_a878c943:
@@ -1010,7 +1010,7 @@ translate spanish e09s04_ae7f6f3c:
 translate spanish e09s04_d93437d0:
 
     # mc "Because we think we can do it better. Create a safe place for people to explore their fetishes, meet other like-minded individuals."
-    mc "Porque creemos que podemos hacerlo mejor. Cree un lugar seguro para que las personas exploren sus fetiches y conozcan a otras personas con ideas afines."
+    mc "Porque creemos que podemos hacerlo mejor. Crear un lugar seguro para que las personas exploren sus fetiches, conozcan a otras personas con sus mismos intereses."
 
 # game/code/e09/e09s04.rpy:622
 translate spanish e09s04_35408e54:
@@ -1052,7 +1052,7 @@ translate spanish e09s04_69c25b65:
 translate spanish e09s04_12aa1085:
 
     # lo "Wait. Was that you?"
-    lo "Esperar. ¿Eras tú?"
+    lo "Espera. ¿Eras tú?"
 
 # game/code/e09/e09s04.rpy:638
 translate spanish e09s04_57975ea9:
@@ -1100,7 +1100,7 @@ translate spanish e09s04_33814526:
 translate spanish e09s04_d5b033e6:
 
     # hr "Go - he headlined one of them."
-    hr "Vaya - encabezó uno de ellos."
+    hr "Vaya - encabezó uno de ellas."
 
 # game/code/e09/e09s04.rpy:659
 translate spanish e09s04_901dd638:
@@ -1118,19 +1118,19 @@ translate spanish e09s04_b9ec9bb0:
 translate spanish e09s04_926eaf9a:
 
     # lo "Yeah. I always wanted to go to one. But, you know, I don't go to college in Crowning."
-    lo "Sí. Siempre quise ir a uno. Pero sabes, no voy a la universidad en Crowning."
+    lo "Sí. Siempre quise ir a una. Pero sabes, no voy a la universidad en Crowning."
 
 # game/code/e09/e09s04.rpy:667
 translate spanish e09s04_35513a5e:
 
     # hr "Wait, Londyn, you {i}wanted{/i} to go to one?"
-    hr "Espera, Londyn, ¿{i}querías{/i} ir a uno?"
+    hr "Espera, Londyn, ¿{i}querías{/i} ir a una?"
 
 # game/code/e09/e09s04.rpy:669
 translate spanish e09s04_52f0346f:
 
     # lo "Uh huh! They always sounded like so much fun!"
-    lo "¡Ajá! ¡Siempre sonaron muy divertidos!"
+    lo "¡Ajá! ¡Siempre sonaron muy divertidas!"
 
 # game/code/e09/e09s04.rpy:670
 translate spanish e09s04_1c90f3db:
@@ -1148,19 +1148,19 @@ translate spanish e09s04_99cc6b2e:
 translate spanish e09s04_ef4ceb53:
 
     # mc "It's funny that you bring up the parties, because we're actually going to be hosting a launch party for Fetish Locator Rebooted."
-    mc "Es curioso que menciones las fiestas, porque en realidad vamos a organizar una fiesta de lanzamiento de Fetish Locator Rebooted."
+    mc "Es curioso que menciones las fiestas, porque en realidad vamos a organizar una fiesta de lanzamiento del Localizador de Fetiches Reiniciado."
 
 # game/code/e09/e09s04.rpy:679
 translate spanish e09s04_3accbd82:
 
     # lo "Can I come? Please!"
-    lo "¿Puedo venir? ¡Por favor!"
+    lo "¿Puedo ir? ¡Por favor!"
 
 # game/code/e09/e09s04.rpy:682
 translate spanish e09s04_680ddc1e:
 
     # mc "Absolutely! You can be Hana's plus one."
-    mc "¡Absolutamente! Puedes ser el acompañante de Hana."
+    mc "¡Absolutamente! Puedes ser la acompañante de Hana."
 
 # game/code/e09/e09s04.rpy:685
 translate spanish e09s04_88545f1f:
@@ -1226,7 +1226,7 @@ translate spanish e09s04_b3910520:
 translate spanish e09s04_3ca22a14:
 
     # lo "And it's even better that I've maybe heard all these rumors about you.{w} I intend to find out if they're true."
-    lo "Y es aún mejor que tal vez haya escuchado todos estos rumores sobre usted.{w} Tengo la intención de descubrir si son ciertos."
+    lo "Y es aún mejor que haya oído todos esos rumores sobre ti.{w} Tengo la intención de averiguar si son ciertos."
 
 # game/code/e09/e09s04.rpy:715
 translate spanish e09s04_4425b5a8:
@@ -1304,25 +1304,25 @@ translate spanish e09s04_c2d4f017:
 translate spanish e09s04_cc6d887f:
 
     # mc "God, you two in sync is pretty incredible, holy shit."
-    mc "Dios, ustedes dos sincronizados es bastante increíble, santa mierda."
+    mc "Dios, ustedes dos sincronizadas es bastante increíble, santa mierda."
 
 # game/code/e09/e09s04.rpy:757
 translate spanish e09s04_5a2c0bab:
 
     # lo "Mmmmmmmmm!"
-    lo "¡¡Mmmmmmmmm!"
+    lo "¡Mmmmmmmmm!"
 
 # game/code/e09/e09s04.rpy:761
 translate spanish e09s04_05800ef5:
 
     # mc "Ooooooo, when you move our lips like that - oh fuuuuck!"
-    mc "Ooooooo, cuando mueves nuestros labios así, ¡oh, joder!"
+    mc "Ooooooo, cuando mueven sus labios de esa manera, ¡oh, joder!"
 
 # game/code/e09/e09s04.rpy:762
 translate spanish e09s04_e6fc20b7:
 
     # lo "Mmmmmmmmmm!!"
-    lo "Mmmmmmmmm!!"
+    lo "¡¡Mmmmmmmmm!!"
 
 # game/code/e09/e09s04.rpy:763
 translate spanish e09s04_7f59a92b:
@@ -1346,7 +1346,7 @@ translate spanish e09s04_e991408f:
 translate spanish e09s04_41e3b610:
 
     # lo "Mmmm-mmmm-mmmm!"
-    lo "Mmmm-mmmm-mmmm!"
+    lo "¡Mmmm-mmmm-mmmm!"
 
 # game/code/e09/e09s04.rpy:773
 translate spanish e09s04_703664f3:
@@ -1358,7 +1358,7 @@ translate spanish e09s04_703664f3:
 translate spanish e09s04_b95e302d:
 
     # mc "God, have you two done this before? You have the technique down perfect!"
-    mc "Dios, ¿ustedes dos han hecho esto antes? ¡Tienes la técnica perfecta!"
+    mc "Dios, ¿ustedes dos han hecho esto antes? ¡Tienen la técnica perfecta!"
 
 # game/code/e09/e09s04.rpy:778
 translate spanish e09s04_33ac13df:
@@ -1370,13 +1370,13 @@ translate spanish e09s04_33ac13df:
 translate spanish e09s04_066ddc13:
 
     # lo "I'm glad you liked my opener, [mcname]."
-    lo "Me alegra que te haya gustado mi abridor, [mcname]."
+    lo "Me alegro de que te haya gustado mi presentación, [mcname]."
 
 # game/code/e09/e09s04.rpy:789
 translate spanish e09s04_afdcff90:
 
     # mc "How could I not?"
-    mc "¿Cómo podría no hacerlo?"
+    mc "¿Cómo podría no gustarme?"
 
 # game/code/e09/e09s04.rpy:793
 translate spanish e09s04_27337bb9:
@@ -1388,19 +1388,19 @@ translate spanish e09s04_27337bb9:
 translate spanish e09s04_97ba0a15:
 
     # hr "Oh?"
-    hr "Oh?"
+    hr "¿Oh?"
 
 # game/code/e09/e09s04.rpy:799
 translate spanish e09s04_bce85b10:
 
     # lo "I just figured I should tell you before we fuck [mcname] together."
-    lo "Pensé que debería decírtelo antes de que follemos a [mcname] juntos."
+    lo "Pensé que debería decírtelo antes de que nos follemos a [mcname] juntas."
 
 # game/code/e09/e09s04.rpy:801
 translate spanish e09s04_3fbd5ce7:
 
     # hr "Well you're pretty hot too, Londyn."
-    hr "Bueno, tú también estás muy buena, Londyn."
+    hr "Bueno, tú también eres sexy, Londyn."
 
 # game/code/e09/e09s04.rpy:805
 translate spanish e09s04_b17185a3:
@@ -1424,13 +1424,13 @@ translate spanish e09s04_94830b8f:
 translate spanish e09s04_db898359:
 
     # mc "Pinch me."
-    mc "Pellizcame."
+    mc "Pellízcame."
 
 # game/code/e09/e09s04.rpy:817
 translate spanish e09s04_bc898f0f:
 
     # mc "Ow!"
-    mc "Ow!"
+    mc "¡Ow!"
 
 # game/code/e09/e09s04.rpy:820
 translate spanish e09s04_f462fe68:
@@ -1454,7 +1454,7 @@ translate spanish e09s04_6586895e:
 translate spanish e09s04_08f35ebd:
 
     # mct "I wonder what else these two have in mind..."
-    mct "Me pregunto qué más tienen estos dos en mente..."
+    mct "Me pregunto qué más tienen estas dos en mente..."
 
 # game/code/e09/e09s04.rpy:833
 translate spanish e09s04_89cca5e1:
@@ -1484,13 +1484,13 @@ translate spanish e09s04_6e8598fc:
 translate spanish e09s04_f92d680b:
 
     # lo "But I would feel rude getting the first ride."
-    lo "Pero me sentiría grosero si me llevaran primero."
+    lo "Pero me sentiría mal si me dieran el primer paseo."
 
 # game/code/e09/e09s04.rpy:847
 translate spanish e09s04_f67fe336:
 
     # hr "Hmmm, I think I have an idea that'll work for us both."
-    hr "Hmmm, creo que tengo una idea que funcionará para ambos."
+    hr "Hmmm, creo que tengo una idea que funcionará para las dos."
 
 # game/code/e09/e09s04.rpy:853
 translate spanish e09s04_88b52d98:
@@ -1568,7 +1568,7 @@ translate spanish e09s04_b17c79f4:
 translate spanish e09s04_675e11f5:
 
     # lo "I'm going to have to come back and visit more often to fuck [mcname]! Yeeesss!"
-    lo "¡Tendré que volver a visitarte más seguido para follar [mcname]! ¡Sí!"
+    lo "¡Voy a tener que volver a visitarte más a menudo para follarme a [mcname]! ¡Sí!"
 
 # game/code/e09/e09s04.rpy:895
 translate spanish e09s04_1dbcd59d:
@@ -1586,7 +1586,7 @@ translate spanish e09s04_678fb0d0:
 translate spanish e09s04_5bcaab85:
 
     # lo "Oh fuuuck, oh fuuuuuuuck!"
-    lo "¡Oh joder, oh joder!"
+    lo "¡Oh joder, oh jooooodeeeeer!"
 
 # game/code/e09/e09s04.rpy:901
 translate spanish e09s04_1b5dc12b:
@@ -1610,7 +1610,7 @@ translate spanish e09s04_02e0bdb6:
 translate spanish e09s04_046329eb:
 
     # lo "Nuh uh, the first time I'm going to cum, I'm going to cum on your dick!"
-    lo "¡No, la primera vez que me voy a correr, me voy a correr en tu polla!"
+    lo "Nuh uh, la primera vez que me corra, ¡será en tu polla!"
 
 # game/code/e09/e09s04.rpy:919
 translate spanish e09s04_4dbc4ae9:
@@ -1634,7 +1634,7 @@ translate spanish e09s04_1b91b0e0:
 translate spanish e09s04_0cb357c0:
 
     # lo "Thank you, Hana!"
-    lo "¡Gracias Hanna!"
+    lo "¡Gracias, Hanna!"
 
 # game/code/e09/e09s04.rpy:933
 translate spanish e09s04_2a3d712b:
@@ -1658,7 +1658,7 @@ translate spanish e09s04_d6ee56a5:
 translate spanish e09s04_e560da30:
 
     # hr "I think I know what I'm having for a little mid fuck snack."
-    hr "Creo que sé lo que voy a tomar como refrigerio a mitad de la cogida."
+    hr "Creo que sé lo que voy a tomar como refrigerio a mitad de la follada."
 
 # game/code/e09/e09s04.rpy:948
 translate spanish e09s04_ce4b6e2f:
@@ -1688,13 +1688,13 @@ translate spanish e09s04_44956fb4:
 translate spanish e09s04_b57edcb6:
 
     # lo "The little minx is eating my ass! Fuuuuuhhuuuuuck!"
-    lo "¡La pequeña descarada me está comiendo el culo! ¡Fuuuuuhhuuuuuuck!"
+    lo "¡La pequeña descarada me está comiendo el culo! ¡Miiiieeeerdaaaa!"
 
 # game/code/e09/e09s04.rpy:965
 translate spanish e09s04_0c70f883:
 
     # mc "Mmmm, I see someone likes getting their asshole played with!"
-    mc "Mmmm, ¡veo que a alguien le gusta que le jueguen el culo!"
+    mc "Mmmm, Veo que a alguien le gusta que jueguen con su culo."
 
 # game/code/e09/e09s04.rpy:967
 translate spanish e09s04_55a8cd7d:
@@ -1706,25 +1706,25 @@ translate spanish e09s04_55a8cd7d:
 translate spanish e09s04_6806294f:
 
     # lo "Oh God, yes Hana - keep licking, just like that!"
-    lo "Oh Dios, sí Hana, ¡sigue lamiendo, así como así!"
+    lo "Oh Dios, sí Hana - sigue lamiendo, ¡así!"
 
 # game/code/e09/e09s04.rpy:972
 translate spanish e09s04_c352a586:
 
     # lo "Fuuuuck me! Fuck me, [mcname]! Fuck, fuck, fuck!"
-    lo "¡Que me jodan! ¡Fóllame, [mcname]! ¡Joder, joder, joder!"
+    lo "¡Fóllame! ¡Fóllame, [mcname]! ¡Joder, joder, joder!"
 
 # game/code/e09/e09s04.rpy:976
 translate spanish e09s04_b17973e4:
 
     # mct "I have to remember how much Londyn likes her ass getting played with for next time!"
-    mct "¡Tengo que recordar cuánto le gusta a Londyn que le jueguen el culo la próxima vez!"
+    mct "¡Tengo que recordar cuánto le gusta a Londyn que jueguen con su culo la próxima vez!"
 
 # game/code/e09/e09s04.rpy:979
 translate spanish e09s04_2a7d27ec:
 
     # mct "God, I hope there's a next time!"
-    mct "Dios, espero que haya una próxima vez!"
+    mct "¡Dios, espero que haya una próxima vez!"
 
 # game/code/e09/e09s04.rpy:983
 translate spanish e09s04_b4c98b77:
@@ -1736,31 +1736,31 @@ translate spanish e09s04_b4c98b77:
 translate spanish e09s04_22c5de5a:
 
     # mc "Nnnnggggh!!!"
-    mc "¡¡¡¡¡¡Nnnnggggh!!!"
+    mc "¡¡¡¡¡¡Nnnnggggh!!!!!!"
 
 # game/code/e09/e09s04.rpy:989
 translate spanish e09s04_dc48c560:
 
     # lo "Yes, fuck meeeee! Gaaaaaaah!"
-    lo "¡Sí, jódeme! Gaaaaaah!"
+    lo "¡Sí, fóllame! ¡Gaaaaaah!"
 
 # game/code/e09/e09s04.rpy:993
 translate spanish e09s04_8635709b:
 
     # lo "Ohhhh fuck - here it - I'm gooonnnnnnna!"
-    lo "Ohhhh joder - aquí está - ¡Estoy gooonnnnnnna!"
+    lo "Ohhhh joder - aquí está - ¡Me estoy...!"
 
 # game/code/e09/e09s04.rpy:996
 translate spanish e09s04_142c0fa6:
 
     # mc "Do it, Londyn! Come all over my dick!"
-    mc "¡Hazlo, Londres! ¡Ven sobre mi polla!"
+    mc "¡Hazlo, Londyn! ¡Córrete sobre mi polla!"
 
 # game/code/e09/e09s04.rpy:1000
 translate spanish e09s04_7394ebb0:
 
     # lo "Ohhh hoolllyyyy fffUUUUUCK!"
-    lo "¡¡Ohhh hoolllyyyy fffUUUUUCK!"
+    lo "¡¡Ohhh Saaantaaa miiieeerdaaa!"
 
 # game/code/e09/e09s04.rpy:1008
 translate spanish e09s04_90158922:
@@ -1808,13 +1808,13 @@ translate spanish e09s04_1796c195:
 translate spanish e09s04_69df1f0b:
 
     # mct "Man, these two can sure be bossy... But what have I got to complain about?"
-    mct "Hombre, estos dos pueden ser mandones... ¿Pero de qué tengo que quejarme?"
+    mct "Hombre, estas dos pueden ser mandonas... ¿Pero de qué tengo que quejarme?"
 
 # game/code/e09/e09s04.rpy:1032
 translate spanish e09s04_01551058:
 
     # lo "Wait!"
-    lo "¡Esperar!"
+    lo "¡Espera!"
 
 # game/code/e09/e09s04.rpy:1034
 translate spanish e09s04_a9eb7194:
@@ -1838,13 +1838,13 @@ translate spanish e09s04_2d629d3d:
 translate spanish e09s04_92ddbb63:
 
     # lo "Maybe just a little bit.{w} Now come on, [mcname], I'm ready for the show!"
-    lo "Quizás sólo un poquito.{w} Ahora vamos, [mcname], ¡estoy listo para el espectáculo!"
+    lo "Quizás sólo un poquito.{w} Ahora vamos, [mcname], ¡estoy lista para el espectáculo!"
 
 # game/code/e09/e09s04.rpy:1049
 translate spanish e09s04_49c39ad9:
 
     # lo "Oh shit, this is turning me on so much right now."
-    lo "Oh, mierda, esto me está excitando mucho ahora mismo."
+    lo "Oh, mierda, esto me está excitando mucho en este momento."
 
 # game/code/e09/e09s04.rpy:1050
 translate spanish e09s04_96cdf7ad:
@@ -1856,13 +1856,13 @@ translate spanish e09s04_96cdf7ad:
 translate spanish e09s04_409655e3:
 
     # lo "I like watching her get fucked, {i}by you.{/i}"
-    lo "Me gusta ver cómo la follan {i}tú.{/i}"
+    lo "Me gusta ver como es follada, {i}por ti.{/i}"
 
 # game/code/e09/e09s04.rpy:1055
 translate spanish e09s04_fd06df1a:
 
     # hr "I loooooove getting fucked by you too, [mcname]!"
-    hr "¡A mí también me encanta que me follen tú, [mcname]!"
+    hr "¡A mí también me encanta que tú me folles, [mcname]!"
 
 # game/code/e09/e09s04.rpy:1056
 translate spanish e09s04_30dd97af:
@@ -1886,7 +1886,7 @@ translate spanish e09s04_57c3bcfd:
 translate spanish e09s04_3ef06770:
 
     # hr "Gaaaah! FUCK ME HAAARDER!!!"
-    hr "¡Gaaaa! ¡¡¡FOLLAME MÁS !!!"
+    hr "¡Gaaaa! ¡¡¡FÓLLAME MÁS DURO!!!"
 
 # game/code/e09/e09s04.rpy:1069
 translate spanish e09s04_3b52db0f:
@@ -1898,7 +1898,7 @@ translate spanish e09s04_3b52db0f:
 translate spanish e09s04_8f60b2e0:
 
     # lo "Mmmmm, I love watching you pound heeerrr!"
-    lo "Mmmmm, ¡me encanta verte golpear heeerrr!"
+    lo "Mmmmm, ¡me encanta verte golpearla!"
 
 # game/code/e09/e09s04.rpy:1074
 translate spanish e09s04_55facde0:
@@ -1910,7 +1910,7 @@ translate spanish e09s04_55facde0:
 translate spanish e09s04_a4db6afc:
 
     # hr "Me too, me too!!! Keep fuuuuucking me!! Rail me like the dirty, fucking slut I am!"
-    hr "Yo también, yo también!!! ¡¡Sigue follándome!! ¡Me criticas como la puta sucia y jodida que soy!"
+    hr "Yo también, yo también. ¡Sigue follándome! ¡Golpéame como la puta sucia que soy!"
 
 # game/code/e09/e09s04.rpy:1079
 translate spanish e09s04_3a26ed88:
@@ -1922,13 +1922,13 @@ translate spanish e09s04_3a26ed88:
 translate spanish e09s04_a9db91bb:
 
     # mc "Oh God, Hana - I'm, I'm -"
-    mc "Oh Dios, Hana - Soy, soy -"
+    mc "Oh Dios, Hana - Estoy, estoy -"
 
 # game/code/e09/e09s04.rpy:1081
 translate spanish e09s04_839bfd43:
 
     # hr "I'm so close!! Keep fucking - keep fucking!"
-    hr "¡¡Estoy tan cerca!! ¡Sigue jodiendo, sigue jodiendo!"
+    hr "¡¡Estoy tan cerca!! ¡Sigue follándome, sigue follándome!"
 
 # game/code/e09/e09s04.rpy:1085
 translate spanish e09s04_892f3ffb:
@@ -1940,7 +1940,7 @@ translate spanish e09s04_892f3ffb:
 translate spanish e09s04_e4bba819:
 
     # hr "GOD, THAT'S IT!! I'M CUUMMMMIIIIINGGGGGG!"
-    hr "DIOS, ¡¡ESO ES!! ¡ESTOY CUUMMMMIIIIINGGGGGGG!"
+    hr "DIOS, ¡¡ESO ES!! ¡ME ESTOY COOOORRIIIIEEEENDOOOO!"
 
 # game/code/e09/e09s04.rpy:1090
 translate spanish e09s04_605e6576:
@@ -1952,7 +1952,7 @@ translate spanish e09s04_605e6576:
 translate spanish e09s04_59cefc79:
 
     # mc "Ohhhhhhh fuuuuuuuccck!"
-    mc "Ohhhhhhh fuuuuuuuccck!"
+    mc "¡Ohhhhhhh miiieeerdaaa!"
 
 # game/code/e09/e09s04.rpy:1099
 translate spanish e09s04_112f0185:
@@ -1976,7 +1976,7 @@ translate spanish e09s04_4e3d7c13:
 translate spanish e09s04_0a8e2e53:
 
     # hr "Haha. I wouldn't have minded."
-    hr "Ja ja. No me hubiera importado."
+    hr "Jaja. No me hubiera importado."
 
 # game/code/e09/e09s04.rpy:1109
 translate spanish e09s04_b29965b0:
@@ -2000,7 +2000,7 @@ translate spanish e09s04_b5e6b2e7:
 translate spanish e09s04_c952b201:
 
     # mc "Oh, with flying colors. I'll be seeing both of you at the release party."
-    mc "Oh, con gran éxito. Los veré a ambos en la fiesta de lanzamiento."
+    mc "Oh, con gran éxito. Las veré a las en la fiesta de lanzamiento."
 
 # game/code/e09/e09s04.rpy:1118
 translate spanish e09s04_d803abb8:
@@ -2012,7 +2012,7 @@ translate spanish e09s04_d803abb8:
 translate spanish e09s04_714e2cdc:
 
     # mc "Are you kidding? I-"
-    mc "¿Estás bromeando? I-"
+    mc "¿Estás bromeando? Yo..."
 
 # game/code/e09/e09s04.rpy:1122
 translate spanish e09s04_a3c1803b:
@@ -2030,7 +2030,7 @@ translate spanish e09s04_c1dff962:
 translate spanish e09s04_b411156b:
 
     # lo "But I did have a great time! Was it always like this when Fetish Locator was around?"
-    lo "¡Pero lo pasé muy bien! ¿Siempre fue así cuando Fetish Locator estaba presente?"
+    lo "¡Pero lo pasé muy bien! ¿Siempre era de esta manera cuando el Localizador de Fetiches estaba presente?"
 
 # game/code/e09/e09s04.rpy:1130
 translate spanish e09s04_8fd7233d:
@@ -2048,7 +2048,7 @@ translate spanish e09s04_8a2fdab2:
 translate spanish e09s04_371e8585:
 
     # hr "What are you thinking, Londyn?"
-    hr "¿Qué estás pensando, Londres?"
+    hr "¿Qué estás pensando, Londyn?"
 
 # game/code/e09/e09s04.rpy:1136
 translate spanish e09s04_c8e893ce:
@@ -2060,7 +2060,7 @@ translate spanish e09s04_c8e893ce:
 translate spanish e09s04_ac10fc91:
 
     # mc "I hate to jet, but I should probably get back to the office. Being a... well, whomever in the company that gets shit done, is a lot of work."
-    mc "Odio volar, pero probablemente debería volver a la oficina. Ser... bueno, cualquiera en la empresa que haga las cosas, es mucho trabajo."
+    mc "Odio volar, pero probablemente debería volver a la oficina. Ser... bueno, quien sea en la empresa que hace las cosas, es mucho trabajo."
 
 # game/code/e09/e09s04.rpy:1141
 translate spanish e09s04_7a861c52:
@@ -2108,7 +2108,7 @@ translate spanish e09s04_e7a66200:
 translate spanish e09s04_ea9e5841:
 
     # mc "Bye Londyn."
-    mc "Adiós Londres."
+    mc "Adiós Londyn."
 
 # game/code/e09/e09s04.rpy:1160
 translate spanish e09s04_88ceb9d3:
@@ -2136,5 +2136,5 @@ translate spanish strings:
 translate spanish e09s04_8cd3f720:
 
     # "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
-    "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
+    "El Senador" "Y no olvides enviar a nuestra amiga dos entradas para el juego. Una para ella y otra para el pequeño. Le gustará."
 

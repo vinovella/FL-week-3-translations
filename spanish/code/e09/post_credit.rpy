@@ -56,7 +56,7 @@ translate spanish dlc_2_postcredits_c4bdd5ab:
 translate spanish dlc_2_postcredits_658b381c:
 
     # sy "Wait! Does that mean this is an inception of post-credit scenes? Like a post-post credit scene?"
-    sy "¡Esperar! ¿Eso significa que este es el inicio de las escenas post-créditos? ¿Te gusta una escena post-créditos?"
+    sy "¡Espera! ¿Eso significa que este es el inicio de las escenas post-créditos? ¿Te gusta una escena post-créditos?"
 
 # game/code/e09/post_credit.rpy:34
 translate spanish dlc_2_postcredits_ba95a998:
@@ -74,13 +74,13 @@ translate spanish dlc_2_postcredits_50c5e362:
 translate spanish dlc_2_postcredits_6cb4af98:
 
     # dd "Oh my! I was so focused on all the endings..."
-    dd "¡Dios mío! Estaba tan concentrado en todos los finales..."
+    dd "¡Dios mío! Estaba tan concentrada en todos los finales..."
 
 # game/code/e09/post_credit.rpy:40
 translate spanish dlc_2_postcredits_6e11ce0a:
 
     # sy "Woah. A year already? Does that mean you guys finished Taboo University?"
-    sy "Vaya. ¿Un año ya? ¿Eso significa que terminaron la Universidad Taboo?"
+    sy "Vaya. ¿Un año ya? ¿Eso significa que terminaron Taboo University?"
 
 # game/code/e09/post_credit.rpy:42
 translate spanish dlc_2_postcredits_9e7d1137:
@@ -98,7 +98,7 @@ translate spanish dlc_2_postcredits_e1cd0241:
 translate spanish dlc_2_postcredits_c26adb8c:
 
     # ima "Guys! Stacy!"
-    ima "¡Tipo! Stacy!"
+    ima "¡Chicas! ¡Stacy!"
 
 # game/code/e09/post_credit.rpy:51
 translate spanish dlc_2_postcredits_56d3ff98:
@@ -116,7 +116,7 @@ translate spanish dlc_2_postcredits_3abe3fb1:
 translate spanish dlc_2_postcredits_88c72947:
 
     # dd "I'm so excited to play it. I loved the premise, but I wanted to wait till the whole game was out."
-    dd "Estoy muy emocionado de jugarlo. Me encantó la premisa, pero quería esperar hasta que saliera todo el juego."
+    dd "Estoy muy emocionada de jugarlo. Me encantó la premisa, pero quería esperar hasta que saliera todo el juego."
 
 # game/code/e09/post_credit.rpy:57
 translate spanish dlc_2_postcredits_3ef46ea2:
@@ -158,13 +158,13 @@ translate spanish dlc_2_postcredits_109f1f2a:
 translate spanish dlc_2_postcredits_0c9ec02f:
 
     # dd "Hey, it's Nari!"
-    dd "¡Oye, soy Nari!"
+    dd "¡Oye, es Nari!"
 
 # game/code/e09/post_credit.rpy:71
 translate spanish dlc_2_postcredits_1e48c2ba:
 
     # ns "Hello, Daisy!"
-    ns "¡Hola Margarita!"
+    ns "¡Hola, Daisy!"
 
 # game/code/e09/post_credit.rpy:75
 translate spanish dlc_2_postcredits_f824e9a4:
@@ -176,7 +176,7 @@ translate spanish dlc_2_postcredits_f824e9a4:
 translate spanish dlc_2_postcredits_ed45fd5b:
 
     # dd "Yes, this is Nari from Min's Ending!"
-    dd "¡Sí, esta es Nari de Min's Ending!"
+    dd "¡Sí, esta es Nari del final de Min!"
 
 # game/code/e09/post_credit.rpy:79
 translate spanish dlc_2_postcredits_98c7116d:
@@ -200,19 +200,19 @@ translate spanish dlc_2_postcredits_bb2b44dd:
 translate spanish dlc_2_postcredits_0a41e7b0:
 
     # ns "I've been so honored that the team decided to give me a larger role in S&M."
-    ns "Me siento muy honrado de que el equipo haya decidido darme un papel más importante en S&M."
+    ns "Me siento muy honrada de que el equipo haya decidido darme un papel importante en S&M."
 
 # game/code/e09/post_credit.rpy:85
 translate spanish dlc_2_postcredits_d655f890:
 
     # ns "But I did miss out on being in Min's other ending. I think it was called Weather Fall? How was it? I really wanted to be there."
-    ns "Pero me perdí estar en el otro final de Min. Creo que se llamaba Weather Fall. ¿Cómo fue? Tenía muchas ganas de estar allí."
+    ns "Pero me perdí estar en el otro final de Min. Creo que se llamaba Weather Fall. ¿Cómo estuvo? Tenía muchas ganas de estar allí."
 
 # game/code/e09/post_credit.rpy:87
 translate spanish dlc_2_postcredits_dd7885b6:
 
     # sy "We named it Waterfall - and it was great! The team went to the bottom of the ocean and beyond there! Very deep and wet!"
-    sy "Lo llamamos Cascada, ¡y fue genial! ¡El equipo fue al fondo del océano y más allá! ¡Muy profundo y húmedo!"
+    sy "Lo llamamos Cascada, ¡y estuvo genial! ¡El equipo fue al fondo del océano y más allá! ¡Muy profundo y húmedo!"
 
 # game/code/e09/post_credit.rpy:89
 translate spanish dlc_2_postcredits_e52d2c60:
@@ -230,13 +230,13 @@ translate spanish dlc_2_postcredits_9200a0a8:
 translate spanish dlc_2_postcredits_0a240be1:
 
     # cw "I'm sure you'll get the chance, Nari. Just make sure not to do it during work hours."
-    cw "Estoy seguro de que tendrás la oportunidad, Nari. Solo asegúrese de no hacerlo durante el horario laboral."
+    cw "Estoy segura de que tendrás la oportunidad, Nari. Solo asegúrate de no hacerlo durante el horario laboral."
 
 # game/code/e09/post_credit.rpy:94
 translate spanish dlc_2_postcredits_7189db6e:
 
     # ns "Of course, Miss Watts."
-    ns "Por supuesto, señorita Watts."
+    ns "Por supuesto, Señorita Watts."
 
 # game/code/e09/post_credit.rpy:95
 translate spanish dlc_2_postcredits_74bf83a4:
@@ -254,7 +254,7 @@ translate spanish dlc_2_postcredits_df9591cc:
 translate spanish dlc_2_postcredits_d1feb732:
 
     # sy "Haha. Like Nari said, there is already plenty of naughty stuff to find in S&M."
-    sy "Ja ja. Como dijo Nari, ya hay muchas cosas malas que encontrar en S&M."
+    sy "Jaja. Como dijo Nari, ya hay muchas cosas malas que encontrar en S&M."
 
 # game/code/e09/post_credit.rpy:101
 translate spanish dlc_2_postcredits_bc0e204b:
@@ -284,7 +284,7 @@ translate spanish dlc_2_postcredits_4d35b44e:
 translate spanish dlc_2_postcredits_1a2b7353:
 
     # ns "And we've also added money mechanics and time management. These elements are part of the player building their Porn Studio."
-    ns "Y también hemos agregado mecánicas de dinero y gestión del tiempo. Estos elementos son parte del jugador que construye su estudio porno."
+    ns "También hemos añadido la mecánica del dinero y la gestión del tiempo. Estos elementos forman parte de la construcción por parte del jugador de su Estudio Porno."
 
 # game/code/e09/post_credit.rpy:110
 translate spanish dlc_2_postcredits_7972ed09:

@@ -20,7 +20,7 @@ translate spanish e09s07_fb8822c9:
 translate spanish e09s07_8332adac:
 
     # lo "Mmmmmm, you look good and ready for us."
-    lo "Mmmmmm, te ves bien y listo para nosotros."
+    lo "Mmmmmm, te ves bien y listo para nosotras."
 
 # game/code/e09/e09s07.rpy:108
 translate spanish e09s07_3cec4d9b:
@@ -44,7 +44,7 @@ translate spanish e09s07_a63be6a1:
 translate spanish e09s07_6b6a4821:
 
     # hr "You bid first, so why don't you start us off?"
-    hr "Tú pujas primero, así que ¿por qué no nos inicias?"
+    hr "Tú pujaste primero, así que ¿por qué no empiezas tú?"
 
 # game/code/e09/e09s07.rpy:114
 translate spanish e09s07_ac56af14:
@@ -56,13 +56,13 @@ translate spanish e09s07_ac56af14:
 translate spanish e09s07_f94f18af:
 
     # mc "I recall that you really like getting your ass played with."
-    mc "Recuerdo que te gusta mucho que te jueguen el culo."
+    mc "Recuerdo que te gusta mucho que jueguen con tu culo."
 
 # game/code/e09/e09s07.rpy:117
 translate spanish e09s07_0fa424f6:
 
     # lo "Mmmhmmmm, I do."
-    lo "Mmmmmmmmm, lo hago."
+    lo "Mmmmmmmmm, me encanta."
 
 # game/code/e09/e09s07.rpy:118
 translate spanish e09s07_e737c461:
@@ -74,7 +74,7 @@ translate spanish e09s07_e737c461:
 translate spanish e09s07_9abd27bd:
 
     # lo "Well that's something we can fix right now!"
-    lo "Bueno, ¡eso es algo que podemos solucionar ahora mismo!"
+    lo "Bueno, ¡eso es algo que podemos solucionar en este momento!"
 
 # game/code/e09/e09s07.rpy:122
 translate spanish e09s07_3c12fcaa:
@@ -98,7 +98,7 @@ translate spanish e09s07_2fe47fcb:
 translate spanish e09s07_0ef77a4c:
 
     # lo "You fucking naughty, {i}naughty{/i} girl! Fuuuuuuuck!"
-    lo "¡Maldita chica traviesa, {i}traviesa{/i}! ¡Qué suerte!"
+    lo "¡Maldita chica {i}traviesa{/i}! ¡Miiieeerdaaa!"
 
 # game/code/e09/e09s07.rpy:135
 translate spanish e09s07_8cf81567:
@@ -122,7 +122,7 @@ translate spanish e09s07_315f5a90:
 translate spanish e09s07_5598784e:
 
     # lo "Oh, Haanaaaaa, fucking lick my dirty cunt! Yes, yes, yesssss!"
-    lo "¡Oh, Haanaaaaa, jodidamente lame mi coño sucio! ¡Sí, sí, sí!"
+    lo "¡Oh, Haanaaaaa,  ¡Lame mi sucio coño! ¡Sí, sí, sí!"
 
 # game/code/e09/e09s07.rpy:143
 translate spanish e09s07_4dae9623:
@@ -146,13 +146,13 @@ translate spanish e09s07_205746a1:
 translate spanish e09s07_65f78f1d:
 
     # lo "Please, fuck me asssss harder! Make me cum from my ass, [mcname]!"
-    lo "¡Por favor, fóllame más fuerte! ¡Hazme correrme por el culo, [mcname]!"
+    lo "¡Por favor, fóllame más fuerte! ¡Haz que me corra por el culo, [mcname]!"
 
 # game/code/e09/e09s07.rpy:151
 translate spanish e09s07_1de41fd7:
 
     # mc "Nggggggggh! Fuuuuuuck!"
-    mc "¡Ngggggggh! ¡Qué suerte!"
+    mc "¡Ngggggggh! ¡Miiieeerdaaa!"
 
 # game/code/e09/e09s07.rpy:154
 translate spanish e09s07_80bc0d24:
@@ -164,7 +164,7 @@ translate spanish e09s07_80bc0d24:
 translate spanish e09s07_5f1342f2:
 
     # lo "H-Hana - don't stop, don't stoooooop!"
-    lo "H-Hana: ¡no te detengas, no te agaches!"
+    lo "H-Hana... ¡no te detengas, no te agaches!"
 
 # game/code/e09/e09s07.rpy:158
 translate spanish e09s07_a56af47c:
@@ -176,7 +176,7 @@ translate spanish e09s07_a56af47c:
 translate spanish e09s07_b5ca6170:
 
     # mc "That's right, you dirty ass slut! Cum all over my cock!"
-    mc "¡Así es, puta sucia! ¡Correte por toda mi polla!"
+    mc "¡Así es, puta sucia! ¡Córrete por toda mi polla!"
 
 # game/code/e09/e09s07.rpy:163
 translate spanish e09s07_44ec097c:
@@ -188,7 +188,7 @@ translate spanish e09s07_44ec097c:
 translate spanish e09s07_70d2c1e0:
 
     # lo "I'm cuuuuuuummmmiiiinnnnnggggg!!!"
-    lo "¡¡¡Estoy cuuuuuuummmmiiiinnnnnggggg!!!"
+    lo "¡¡¡Me estoy cooooorriiiiieeeeendooooo!!!"
 
 # game/code/e09/e09s07.rpy:166
 translate spanish e09s07_b761158b:
@@ -224,13 +224,13 @@ translate spanish e09s07_1dbff283:
 translate spanish e09s07_1337de6c:
 
     # mc "Oh, I don't think you're ready for that."
-    mc "Oh, no creo que estés preparado para eso."
+    mc "Oh, no creo que estés preparada para eso."
 
 # game/code/e09/e09s07.rpy:176
 translate spanish e09s07_738ff9ec:
 
     # hr "Those are some big words, [mcname]."
-    hr "Esas son algunas palabras importantes, [mcname]."
+    hr "Esas son palabras mayores, [mcname]."
 
 # game/code/e09/e09s07.rpy:178
 translate spanish e09s07_4f7ea4bd:
@@ -242,7 +242,7 @@ translate spanish e09s07_4f7ea4bd:
 translate spanish e09s07_4ac567f3:
 
     # hr "Londyn-"
-    hr "Londres-"
+    hr "Londyn-"
 
 # game/code/e09/e09s07.rpy:181
 translate spanish e09s07_93f76318:
@@ -260,13 +260,13 @@ translate spanish e09s07_aecbd9ba:
 translate spanish e09s07_8372f82c:
 
     # lo "What are you waiting for, [mcname]? Fuck this little slut like the useless fleshlight she is."
-    lo "¿Qué estás esperando, [mcname]? Que se joda esta pequeña zorra como la inútil Fleshlight que es."
+    lo "¿Qué esperas, [mcname]? Fóllate a esta zorra como la inútil que es."
 
 # game/code/e09/e09s07.rpy:185
 translate spanish e09s07_16e15fac:
 
     # mct "Man, these two are fucking freaky."
-    mct "Hombre, estos dos son jodidamente extraños."
+    mct "Hombre, estas dos son jodidamente raras."
 
 # game/code/e09/e09s07.rpy:191
 translate spanish e09s07_68754276:
@@ -284,7 +284,7 @@ translate spanish e09s07_a7761172:
 translate spanish e09s07_9161c00a:
 
     # hr "Yesss, come on - fuck my little slit with your big cock! Treat me like some whore off the street!!!"
-    hr "Sí, vamos, ¡fóllame mi pequeña raja con tu gran polla! ¡¡¡Trátame como a una puta de la calle!!!"
+    hr "Sí, vamos, ¡folla mi pequeña raja con tu gran polla! ¡¡¡Trátame como a una puta de la calle!!!"
 
 # game/code/e09/e09s07.rpy:196
 translate spanish e09s07_e1e8b2c8:
@@ -302,7 +302,7 @@ translate spanish e09s07_b1178e67:
 translate spanish e09s07_f44f18dd:
 
     # hr "Fuuuuccc... I can't... I..."
-    hr "Fuuuuccc... no puedo... yo..."
+    hr "Miiieee... no puedo... yo..."
 
 # game/code/e09/e09s07.rpy:201
 translate spanish e09s07_d709b038:
@@ -332,7 +332,7 @@ translate spanish e09s07_d69018e3:
 translate spanish e09s07_c87ae973:
 
     # hr "Y-yesss... I'm a good...{w} little...{w} {i}slut...{/i}"
-    hr "S-sí... Soy una buena...{w} pequeña...{w} {i}zorra...{/i}"
+    hr "S-sí... Soy una buena...{w} pequeña...{w} {i}putita...{/i}"
 
 # game/code/e09/e09s07.rpy:208
 translate spanish e09s07_0a4d3533:
@@ -350,7 +350,7 @@ translate spanish e09s07_b741f62b:
 translate spanish e09s07_73618a8e:
 
     # mct "Why are these two so fucking hot!?!"
-    mct "¡¿Por qué estos dos son tan jodidamente calientes?!"
+    mct "¡¿Por qué estas dos son tan jodidamente sexys?!"
 
 # game/code/e09/e09s07.rpy:213
 translate spanish e09s07_ebec6aa4:
@@ -374,7 +374,7 @@ translate spanish e09s07_1e6d58f0:
 translate spanish e09s07_1290253a:
 
     # hr "Closssse... clooooose...!"
-    hr "Clossse... cloooose...!"
+    hr "¡Cerca... cerca...!"
 
 # game/code/e09/e09s07.rpy:221
 translate spanish e09s07_d7e13951:
@@ -398,13 +398,13 @@ translate spanish e09s07_586ccad4:
 translate spanish e09s07_87c24de5:
 
     # hr "SHHHHHhiiiiiitttt! I'm - cuh-cuh-cuuummmmiiiiinnnggg!"
-    hr "¡SHHHHHiiiiiitttt! Estoy... cuh-cuh-cuuummmiiiiinnnggg!"
+    hr "¡MMMMMiiieeerdaaa! Me estoy... co-co-coooorriiiieeeendoooo!"
 
 # game/code/e09/e09s07.rpy:229
 translate spanish e09s07_83e45ff4:
 
     # hr "OH SWEEEET GOOOOOD - FUUUUUUUCK!"
-    hr "OH DULCE BUENO - ¡FUUUUUUUCK!"
+    hr "OH DULCE DIOOOOS - ¡MIIIEEERDAAA!"
 
 # game/code/e09/e09s07.rpy:231
 translate spanish e09s07_3830d8aa:
@@ -458,7 +458,7 @@ translate spanish e09s07_b3e27bcb:
 translate spanish e09s07_0daa3178:
 
     # sy "Damn, that was quite the kick off to the event."
-    sy "Maldita sea, ese fue todo el inicio del evento."
+    sy "Maldita sea, ese fue solo el inicio del evento."
 
 # game/code/e09/e09s07.rpy:246
 translate spanish e09s07_2e8e5829:
@@ -494,7 +494,7 @@ translate spanish e09s07_5347077f:
 translate spanish e09s07_sex_ah_cl_baa09268:
 
     # mc "Aaleyah. Cynthia. I didn't expect you two would bid on me."
-    mc "Aaleyah. Cintia. No esperaba que ustedes dos pujaran por mí."
+    mc "Aaleyah. Cynthia. No esperaba que ustedes dos pujaran por mí."
 
 # game/code/e09/e09s07.rpy:262
 translate spanish e09s07_sex_ah_cl_057c32fd:
@@ -506,7 +506,7 @@ translate spanish e09s07_sex_ah_cl_057c32fd:
 translate spanish e09s07_sex_ah_cl_0c6079e4:
 
     # ah "Being pounded by you and making Terrell watch was the highlight of my month."
-    ah "Ser golpeado por ti y hacer que Terrell mirara fue lo más destacado de mi mes."
+    ah "Ser golpeada por ti y hacer que Terrell mirara fue lo más destacado de mi mes."
 
 # game/code/e09/e09s07.rpy:265
 translate spanish e09s07_sex_ah_cl_b7cb04d9:
@@ -518,13 +518,13 @@ translate spanish e09s07_sex_ah_cl_b7cb04d9:
 translate spanish e09s07_sex_ah_cl_b968e065:
 
     # ah "Mmm. I blame Terrell, and that's why I'm willing to put down good money for another turn with [mcname]."
-    ah "Mmm. Culpo a Terrell y es por eso que estoy dispuesto a apostar un buen dinero por otro turno con [mcname]."
+    ah "Mmm. Culpo a Terrell y es por eso que estoy dispuesta a apostar un buen dinero por otro turno con [mcname]."
 
 # game/code/e09/e09s07.rpy:269
 translate spanish e09s07_sex_ah_cl_501ee3a2:
 
     # cl "I'm just here to support Fetish Locator."
-    cl "Sólo estoy aquí para apoyar a Fetish Locator."
+    cl "Sólo estoy aquí para apoyar al Localizador de Fetiches."
 
 # game/code/e09/e09s07.rpy:270
 translate spanish e09s07_sex_ah_cl_8566b7e2:
@@ -668,7 +668,7 @@ translate spanish e09s07_sex_ah_cl_1013a4f3:
 translate spanish e09s07_sex_ah_cl_a2c470a4:
 
     # cl "Now you're just being a bitch. A slutty bitch."
-    cl "Ahora sólo estás siendo una perra. Una perra guarra."
+    cl "Ahora sólo estás siendo una perra."
 
 # game/code/e09/e09s07.rpy:312
 translate spanish e09s07_sex_ah_cl_bd262bde:
@@ -686,7 +686,7 @@ translate spanish e09s07_sex_ah_cl_29145b92:
 translate spanish e09s07_sex_ah_cl_c343636a:
 
     # ah "Master, I've been naughty, I haven't been honest with you."
-    ah "Maestro, he sido travieso, no he sido honesto con usted."
+    ah "Maestro, he sido traviesa, no he sido honesta con usted."
 
 # game/code/e09/e09s07.rpy:317
 translate spanish e09s07_sex_ah_cl_8d56d45e:
@@ -728,7 +728,7 @@ translate spanish e09s07_sex_ah_cl_e57ab8cf:
 translate spanish e09s07_sex_ah_cl_84debb69:
 
     # mc "Is that true, Cynthia? Are you just as horny as Aaleyah is?"
-    mc "¿Es eso cierto, Cintia? ¿Estás tan cachonda como Aaleyah?"
+    mc "¿Es eso cierto, Cynthia? ¿Estás tan excitada como Aaleyah?"
 
 # game/code/e09/e09s07.rpy:330
 translate spanish e09s07_sex_ah_cl_a265eabe:
@@ -746,19 +746,19 @@ translate spanish e09s07_sex_ah_cl_cd1f72f8:
 translate spanish e09s07_sex_ah_cl_d1aa8607:
 
     # ah "She can't wait to feel what I'm feelling. Ouhaah."
-    ah "No puede esperar a sentir lo que yo siento. Ojalá."
+    ah "No puede esperar a sentir lo que yo siento. Ouhaah."
 
 # game/code/e09/e09s07.rpy:335
 translate spanish e09s07_sex_ah_cl_6cd51f8e:
 
     # ah "Masteruaaah!"
-    ah "Masteruaaah!"
+    ah "¡Maestroooo!"
 
 # game/code/e09/e09s07.rpy:337
 translate spanish e09s07_sex_ah_cl_b726cd2d:
 
     # ah "Ahuaaah. Please Master. Cum inside of me... give me that thick, load."
-    ah "Ahuaaah. Por favor Maestro. Cum dentro de mí... dame esa carga espesa."
+    ah "Ahuaaah. Por favor Maestro. Córrete dentro de mí... dame esa carga espesa."
 
 # game/code/e09/e09s07.rpy:343
 translate spanish e09s07_sex_ah_cl_ae3d6ec0:
@@ -788,7 +788,7 @@ translate spanish e09s07_sex_ah_cl_843076e8:
 translate spanish e09s07_sex_ah_cl_a4f8ad51:
 
     # ah "Only what you crave. Admit it Cynthia. No matter how many retreats you go to..."
-    ah "Sólo lo que anhelas. Admítelo Cintia. No importa a cuántos retiros vayas..."
+    ah "Sólo lo que anhelas. Admítelo Cynthia. No importa a cuántos retiros vayas..."
 
 # game/code/e09/e09s07.rpy:351
 translate spanish e09s07_sex_ah_cl_76814fae:
@@ -818,7 +818,7 @@ translate spanish e09s07_sex_ah_cl_8ce8da4d:
 translate spanish e09s07_sex_ah_cl_7f6e98f4:
 
     # cl "Mrmmmm."
-    cl "Señormmmm."
+    cl "Mrmmmm."
 
 # game/code/e09/e09s07.rpy:364
 translate spanish e09s07_sex_ah_cl_c895cc33:
@@ -848,7 +848,7 @@ translate spanish e09s07_sex_ah_cl_cbd0604b:
 translate spanish e09s07_sex_ah_cl_5d65f574:
 
     # mc "Did my slave get horny watching me play with Aaleyah."
-    mc "¿Mi esclava se puso cachonda al verme jugar con Aaleyah?"
+    mc "¿Mi esclava se excitó al verme jugar con Aaleyah?"
 
 # game/code/e09/e09s07.rpy:371
 translate spanish e09s07_sex_ah_cl_a04ba632:
@@ -872,7 +872,7 @@ translate spanish e09s07_sex_ah_cl_5ad46677:
 translate spanish e09s07_sex_ah_cl_00446572:
 
     # ah "This is what you were meant for. What we're both {i}meant{/i} for."
-    ah "Esto es para lo que estabas destinado. Para qué estamos {i}destinados{/i}."
+    ah "Esto es para lo que estabas destinada. Para lo qué estamos {i}destinadas{/i}."
 
 # game/code/e09/e09s07.rpy:386
 translate spanish e09s07_sex_ah_cl_7229f3ec:
@@ -896,7 +896,7 @@ translate spanish e09s07_sex_ah_cl_3bd927c0:
 translate spanish e09s07_sex_ah_cl_e2a231d5:
 
     # cl "Yes Master. I'm so sorry. Whatever I did... that was the old me."
-    cl "Sí Maestro. Lo siento mucho. Lo que sea que hice... ese era el viejo yo."
+    cl "Sí Maestro. Lo siento mucho. Lo que sea que hice... esa era la vieja yo."
 
 # game/code/e09/e09s07.rpy:392
 translate spanish e09s07_sex_ah_cl_ebf97acb:
@@ -926,7 +926,7 @@ translate spanish e09s07_sex_ah_cl_3d8d67af:
 translate spanish e09s07_sex_ah_cl_5fe8c48a:
 
     # ah "Mrrrmmm."
-    ah "Señorrmmmm."
+    ah "Mrrrmmm."
 
 # game/code/e09/e09s07.rpy:409
 translate spanish e09s07_sex_ah_cl_29465c1e:
@@ -962,7 +962,7 @@ translate spanish e09s07_sex_ah_cl_86f5d900:
 translate spanish e09s07_sex_ah_cl_335117bf:
 
     # mc "Haha. We'll see."
-    mc "Ja ja. Ya veremos."
+    mc "Jaja. Ya veremos."
 
 # game/code/e09/e09s07.rpy:430
 translate spanish e09s07_sex_aw_jdg_973b29c4:
@@ -974,7 +974,7 @@ translate spanish e09s07_sex_aw_jdg_973b29c4:
 translate spanish e09s07_sex_aw_jdg_ceb938ad:
 
     # jdg "Well I'm just happy to see Fetish Locator in better hands."
-    jdg "Bueno, estoy feliz de ver Fetish Locator en mejores manos."
+    jdg "Bueno, estoy feliz de ver el Localizador de Fetiches en mejores manos."
 
 # game/code/e09/e09s07.rpy:433
 translate spanish e09s07_sex_aw_jdg_79b6ffab:
@@ -1004,13 +1004,13 @@ translate spanish e09s07_sex_aw_jdg_4a6fac66:
 translate spanish e09s07_sex_aw_jdg_7c3eb453:
 
     # mc "Judge-"
-    mc "Juez-"
+    mc "Jueza-"
 
 # game/code/e09/e09s07.rpy:440
 translate spanish e09s07_sex_aw_jdg_98d9b4a2:
 
     # jdg "Mmmmm... but I don't think just you is enough. I think if we can't do our {i}usual{/i} fun, I'm going to need a little {i}extra.{/i}"
-    jdg "Mmmmm... pero no creo que solo tú sea suficiente. Creo que si no podemos divertirnos {i}habitualmente{/i}, necesitaré un poco {i}extra.{/i}"
+    jdg "Mmmmm... pero no creo que sólo contigo sea suficiente. Creo que si no podemos hacer nuestra {i}usual{/i} diversión, voy a necesitar un poco de {i}extra.{/i}"
 
 # game/code/e09/e09s07.rpy:442
 translate spanish e09s07_sex_aw_jdg_6b2e55df:
@@ -1040,13 +1040,13 @@ translate spanish e09s07_sex_aw_jdg_24d5c6ad:
 translate spanish e09s07_sex_aw_jdg_ffd8ddb2:
 
     # jdg "Come on, it'll be fuuuuuuun."
-    jdg "Vamos, será fuuuuuun."
+    jdg "Vamos, será divertido."
 
 # game/code/e09/e09s07.rpy:456
 translate spanish e09s07_sex_aw_jdg_71124d94:
 
     # mc "I just... not tonight."
-    mc "Yo simplemente... no esta noche."
+    mc "Yo sólo... no esta noche."
 
 # game/code/e09/e09s07.rpy:457
 translate spanish e09s07_sex_aw_jdg_fb192aed:
@@ -1064,7 +1064,7 @@ translate spanish e09s07_sex_jdg_sex_373705dc:
 translate spanish e09s07_sex_jdg_sex_0dab8d2b:
 
     # mc "Don't we all?"
-    mc "¿No lo hacemos todos?"
+    mc "¿No lo tenemos todos?"
 
 # game/code/e09/e09s07.rpy:468
 translate spanish e09s07_sex_jdg_sex_3dba3788:
@@ -1094,7 +1094,7 @@ translate spanish e09s07_sex_jdg_sex_f340500f:
 translate spanish e09s07_sex_jdg_sex_55008519:
 
     # jdg "No, you do not. Just spit and fuck me. {i}Now.{/i}"
-    jdg "No, no lo haces. Sólo escupe y fóllame. {i}Ahora.{/i}"
+    jdg "No, no lo necesitas. Sólo escupe y fóllame. {i}Ahora.{/i}"
 
 # game/code/e09/e09s07.rpy:477
 translate spanish e09s07_sex_jdg_sex_fb26efab:
@@ -1112,7 +1112,7 @@ translate spanish e09s07_sex_jdg_sex_a178df96:
 translate spanish e09s07_sex_jdg_sex_ef62eace:
 
     # mc "{size=*0.6}Also, the Judge is into... some rougher stuff. So, be warned that it might get a little intense.{/size}"
-    mc "{size=*0.6}Además, al juez le gustan... algunas cosas más difíciles. Por lo tanto, tenga en cuenta que podría volverse un poco intenso.{/size}"
+    mc "{size=*0.6}Además, a la jueza le gustan... algunas cosas más duras. Por lo tanto, tenga en cuenta que podría volverse un poco intenso.{/size}"
 
 # game/code/e09/e09s07.rpy:481
 translate spanish e09s07_sex_jdg_sex_859b0663:
@@ -1172,7 +1172,7 @@ translate spanish e09s07_sex_jdg_sex_c42c7b82:
 translate spanish e09s07_sex_jdg_sex_215f85c7:
 
     # mc "Is this more your speed?"
-    mc "¿Es esta más tu velocidad?"
+    mc "¿Es esto más de tu estilo?"
 
 # game/code/e09/e09s07.rpy:497
 translate spanish e09s07_sex_jdg_sex_1b31a03a:
@@ -1184,7 +1184,7 @@ translate spanish e09s07_sex_jdg_sex_1b31a03a:
 translate spanish e09s07_sex_jdg_sex_19c2af19:
 
     # mc "Then be a good girl, and spit on my dick. Get it ready for me to fuck you."
-    mc "Entonces sé una buena chica y escúpeme en la polla. Prepáralo para que te folle."
+    mc "Entonces sé una buena chica y escúpeme en la polla. Prepárala para que te folle."
 
 # game/code/e09/e09s07.rpy:500
 translate spanish e09s07_sex_jdg_sex_d38abf4a:
@@ -1220,7 +1220,7 @@ translate spanish e09s07_sex_jdg_sex_f575aa8b:
 translate spanish e09s07_sex_jdg_sex_3387bc17:
 
     # mc "Now, I'm a little happier."
-    mc "Ahora soy un poco más feliz."
+    mc "Ahora, estoy un poco más feliz."
 
 # game/code/e09/e09s07.rpy:513
 translate spanish e09s07_sex_jdg_sex_0b952f66:
@@ -1232,13 +1232,13 @@ translate spanish e09s07_sex_jdg_sex_0b952f66:
 translate spanish e09s07_sex_jdg_sex_002ee47c:
 
     # jdg "Wait a fucking-"
-    jdg "Espera un puto-"
+    jdg "Espera un maldito..."
 
 # game/code/e09/e09s07.rpy:518
 translate spanish e09s07_sex_jdg_sex_df8e9adb:
 
     # jdg "I fucking thought-!"
-    jdg "¡Pensé que-!"
+    jdg "¡Pensé...!"
 
 # game/code/e09/e09s07.rpy:519
 translate spanish e09s07_sex_jdg_sex_15b46a4b:
@@ -1262,13 +1262,13 @@ translate spanish e09s07_sex_jdg_sex_8a2b8345:
 translate spanish e09s07_sex_jdg_sex_7f8b432c:
 
     # aw "When I get bored of fucking this soaking wet, dirty slit, I might just have to try that out!"
-    aw "Cuando me aburra de follarme esta raja sucia y empapada, ¡quizá tenga que probarlo!"
+    aw "Cuando me aburra de follarme esta raja sucia y mojada, ¡quizá tenga que probarlo!"
 
 # game/code/e09/e09s07.rpy:526
 translate spanish e09s07_sex_jdg_sex_54b14474:
 
     # jdg "How dare you speak of me like that! You insignificant..."
-    jdg "¿Cómo te atreves a hablar así de mí? Eres insignificante..."
+    jdg "¿Cómo te atreves a hablar de esa manera de mí? Eres insignificante..."
 
 # game/code/e09/e09s07.rpy:527
 translate spanish e09s07_sex_jdg_sex_8b5b3e20:
@@ -1280,13 +1280,13 @@ translate spanish e09s07_sex_jdg_sex_8b5b3e20:
 translate spanish e09s07_sex_jdg_sex_6bd66a77:
 
     # jdg "I-I-!"
-    jdg "I-I-!"
+    jdg "¡Yo-Yo-!"
 
 # game/code/e09/e09s07.rpy:531
 translate spanish e09s07_sex_jdg_sex_b63faeca:
 
     # mct "Holy shit, I didn't even know I knew the word gall! What the hell..."
-    mct "¡Mierda, ni siquiera sabía que conocía la palabra hiel! Qué demonios..."
+    mct "¡Mierda, ni siquiera sabía que conocía la palabra insignificante! Qué demonios..."
 
 # game/code/e09/e09s07.rpy:532
 translate spanish e09s07_sex_jdg_sex_f6a7e510:
@@ -1310,7 +1310,7 @@ translate spanish e09s07_sex_jdg_sex_87e0a79f:
 translate spanish e09s07_sex_jdg_sex_43a1baaa:
 
     # aw "Your cunt is soaking wet while you get double penetrated by two strangers at a sex party. {i}And you look like you're about to cum!{/i}"
-    aw "Tu coño está empapado mientras dos extraños te penetran dos veces en una fiesta sexual. {i}¡Y parece que estás a punto de correrte!{/i}"
+    aw "Tu coño está empapado mientras te penetran dos desconocidos en una fiesta sexual. {i}¡Y parece que estás a punto de correrte!{/i}"
 
 # game/code/e09/e09s07.rpy:540
 translate spanish e09s07_sex_jdg_sex_49f0244e:
@@ -1340,13 +1340,13 @@ translate spanish e09s07_sex_jdg_sex_4de90983:
 translate spanish e09s07_sex_jdg_sex_ffb16b02:
 
     # mc "Knowing you're worse than a fucking pocket pussy going to make you cum? Are you really that pathetic?"
-    mc "¿Saber que eres peor que un maldito coño de bolsillo te hará correrte? ¿De verdad eres tan patético?"
+    mc "¿Saber que eres peor que un maldito coño de bolsillo que va a hacer que te corras? ¿De verdad eres tan patética?"
 
 # game/code/e09/e09s07.rpy:549
 translate spanish e09s07_sex_jdg_sex_e5acb73b:
 
     # jdg "Gaaaawwwwd, yes! Yes I am! I am that pathe - patheti - fuuuuuuck!"
-    jdg "¡Gaaaawwwwd, sí! ¡Sí, lo soy! ¡Yo soy ese pathe - patheti - fuuuuuuck!"
+    jdg "¡Gaaaawwwwd, sí! ¡Sí, lo soy! ¡Yo soy tan pat... patética,,,miiieeerda!"
 
 # game/code/e09/e09s07.rpy:552
 translate spanish e09s07_sex_jdg_sex_349dc6ea:
@@ -1358,13 +1358,13 @@ translate spanish e09s07_sex_jdg_sex_349dc6ea:
 translate spanish e09s07_sex_jdg_sex_a056617e:
 
     # jdg "I'm cum- I'm cummmmmm -"
-    jdg "Estoy cum- estoy cummmmmmm -"
+    jdg "Me estoy co... me estoy cooorriiieeendoo."
 
 # game/code/e09/e09s07.rpy:556
 translate spanish e09s07_sex_jdg_sex_edcb375f:
 
     # jdg "Fuuuyyyuuuuucccckkkk yooooooouuuuu!"
-    jdg "¡Fuuyyyuuuuuccckkkk yooooouuuuu!"
+    jdg "¡Miiieeerdaaa!"
 
 # game/code/e09/e09s07.rpy:557
 translate spanish e09s07_sex_jdg_sex_8efa6f26:
@@ -1376,31 +1376,31 @@ translate spanish e09s07_sex_jdg_sex_8efa6f26:
 translate spanish e09s07_sex_jdg_sex_9161a74e:
 
     # aw "Well, that was a job well fucked."
-    aw "Bueno, ese fue un trabajo bien jodido."
+    aw "Bueno, ha sido un trabajo bien hecho."
 
 # game/code/e09/e09s07.rpy:560
 translate spanish e09s07_sex_jdg_sex_86f9bab7:
 
     # mc "Agreed."
-    mc "Acordado."
+    mc "Estoy de acuerdo."
 
 # game/code/e09/e09s07.rpy:562
 translate spanish e09s07_sex_jdg_sex_2ae64793:
 
     # jdg "What the fuck!"
-    jdg "¡Qué carajo!"
+    jdg "¡Qué mierda!"
 
 # game/code/e09/e09s07.rpy:563
 translate spanish e09s07_sex_jdg_sex_cd80b591:
 
     # mc "What? That's what I do with shitty fucks when I'm done. I throw them out."
-    mc "¿Qué? Eso es lo que hago con los cabrones de mierda cuando termino. Los tiro."
+    mc "¿Qué? Eso es lo que hago con los imbéciles cuando termino. Los tiro."
 
 # game/code/e09/e09s07.rpy:565
 translate spanish e09s07_sex_jdg_sex_80cfaef5:
 
     # jdg "I swear to God, you..."
-    jdg "Lo juro por Dios, usted..."
+    jdg "Lo juro por Dios, tú..."
 
 # game/code/e09/e09s07.rpy:566
 translate spanish e09s07_sex_jdg_sex_3b888902:
@@ -1412,7 +1412,7 @@ translate spanish e09s07_sex_jdg_sex_3b888902:
 translate spanish e09s07_sex_jdg_sex_37036116:
 
     # jdg "I..."
-    jdg "I..."
+    jdg "Yo..."
 
 # game/code/e09/e09s07.rpy:570
 translate spanish e09s07_sex_jdg_sex_39261276:
@@ -1424,7 +1424,7 @@ translate spanish e09s07_sex_jdg_sex_39261276:
 translate spanish e09s07_sex_jdg_sex_21723415:
 
     # jdg "Ciao."
-    jdg "Hola."
+    jdg "Ciao."
 
 # game/code/e09/e09s07.rpy:574
 translate spanish e09s07_sex_jdg_sex_5d78cf3f:
@@ -1442,7 +1442,7 @@ translate spanish e09s07_sex_jdg_sex_8fd7233d:
 translate spanish e09s07_sex_jdg_sex_626f0cca:
 
     # mc "Yeah she is, holy shit... but that was kind of fun."
-    mc "Sí, lo es, mierda... pero eso fue divertido."
+    mc "Sí, lo está, mierda... pero eso fue divertido."
 
 # game/code/e09/e09s07.rpy:580
 translate spanish e09s07_sex_jdg_sex_28e06ae1:
@@ -1478,7 +1478,7 @@ translate spanish e09s07_sex_jdg_sex_a7c0f7cc:
 translate spanish e09s07_sex_jdg_sex_90dff8e3:
 
     # mc "No, I guess... I've just never thought about people watching me do this stuff and jerking off. Or jilling off, whatever. It's strange..."
-    mc "No, supongo... Simplemente nunca pensé en la gente mirándome hacer estas cosas y masturbándome. O masturbarse, lo que sea. Es extraño..."
+    mc "No, supongo... Simplemente nunca pensé en la gente mirándome hacer estas cosas y masturbándose. O masturbarse, lo que sea. Es extraño..."
 
 # game/code/e09/e09s07.rpy:588
 translate spanish e09s07_sex_jdg_sex_aa3d995f:
@@ -1496,7 +1496,7 @@ translate spanish e09s07_sex_jdg_sex_6ff490e5:
 translate spanish e09s07_sex_jdg_sex_7fbf3d56:
 
     # sy "That's right! You ready for the next contestant on 'Come and Fuck [mcname]?"
-    sy "¡Así es! ¿Estás listo para el próximo concursante de 'Come and Fuck [mcname]?"
+    sy "¡Así es! ¿Estás listo para el próximo concursante de 'Ven y fóllate a [mcname]'?"
 
 # game/code/e09/e09s07.rpy:596
 translate spanish e09s07_sex_jdg_sex_6c5c068d:
@@ -1526,7 +1526,7 @@ translate spanish e09s07_sex_mk_tm_5568c58a:
 translate spanish e09s07_sex_mk_tm_d65c23f3:
 
     # mc "I really appreciate you guys coming, and that you'd like me to help you cum too."
-    mc "Realmente aprecio que hayan venido y que quieran que los ayude a correrse también."
+    mc "Les agradezco mucho que hayan venido y que también quieran que les ayude a correrse."
 
 # game/code/e09/e09s07.rpy:611
 translate spanish e09s07_sex_mk_tm_43e98e46:
@@ -1550,19 +1550,19 @@ translate spanish e09s07_sex_mk_tm_bb0a2c7c:
 translate spanish e09s07_sex_mk_tm_f91081fa:
 
     # tm "Good. Then give me your best shot, [mcname]."
-    tm "Bien. Entonces dame tu mejor oportunidad, [mcname]."
+    tm "Bien. Entonces dame tu mejor disparo, [mcname]."
 
 # game/code/e09/e09s07.rpy:617
 translate spanish e09s07_sex_mk_tm_d58b5908:
 
     # mk "Are you ready, Talia?"
-    mk "¿Estás lista, Talía?"
+    mk "¿Estás lista, Talia?"
 
 # game/code/e09/e09s07.rpy:618
 translate spanish e09s07_sex_mk_tm_134ecbce:
 
     # tm "Ready for what? I'll be suprrised if he has any gas in the tank after fucking the other girls."
-    tm "¿Listo para qué? Me sorprendería si le quedara algo de gasolina en el tanque después de follarse a las otras chicas."
+    tm "¿Lista para qué? Me sorprendería si le quedara algo de gasolina en el tanque después de follarse a las otras chicas."
 
 # game/code/e09/e09s07.rpy:620
 translate spanish e09s07_sex_mk_tm_6d9728dd:
@@ -1592,7 +1592,7 @@ translate spanish e09s07_sex_mk_tm_4f2af1c1:
 translate spanish e09s07_sex_mk_tm_b62c1f94:
 
     # tm "So good. When we did it before... it was like a dream."
-    tm "Muy bien. Cuando lo hicimos antes... fue como un sueño."
+    tm "Muy bien. Cuando lo hicimos antes... era como un sueño."
 
 # game/code/e09/e09s07.rpy:632
 translate spanish e09s07_sex_mk_tm_5d8cd8e4:
@@ -1616,7 +1616,7 @@ translate spanish e09s07_sex_mk_tm_2b856946:
 translate spanish e09s07_sex_mk_tm_8edaccbe:
 
     # mct "Good to see both of them having a great time."
-    mct "Es bueno ver que ambos se lo pasan genial."
+    mct "Es bueno ver que las dos se lo pasan genial."
 
 # game/code/e09/e09s07.rpy:650
 translate spanish e09s07_sex_mk_tm_bbf1b2b4:
@@ -1646,7 +1646,7 @@ translate spanish e09s07_sex_mk_tm_9fc96011:
 translate spanish e09s07_sex_mk_tm_f35cea0d:
 
     # tm "Fuck. Right there. It's so good."
-    tm "Mierda. Ahí mismo. Es tan bueno."
+    tm "Mierda. Justo ahí. Es tan bueno."
 
 # game/code/e09/e09s07.rpy:662
 translate spanish e09s07_sex_mk_tm_c8195b57:
@@ -1664,7 +1664,7 @@ translate spanish e09s07_sex_mk_tm_8af65b96:
 translate spanish e09s07_sex_mk_tm_8caff497:
 
     # mk "Tell him him how happy you are that Fetish Locator is coming back."
-    mk "Dile lo feliz que estás de que Fetish Locator regrese."
+    mk "Dile lo feliz que estás de que el Localizador de Fetiches regrese."
 
 # game/code/e09/e09s07.rpy:667
 translate spanish e09s07_sex_mk_tm_37eb4308:
@@ -1676,7 +1676,7 @@ translate spanish e09s07_sex_mk_tm_37eb4308:
 translate spanish e09s07_sex_mk_tm_482d3af7:
 
     # mk "Haha. You're fucking her so hard, you're scrambling her brains!"
-    mk "Ja ja. ¡La estás follando tan fuerte que le estás revolviendo el cerebro!"
+    mk "Jaja. ¡La estás follando tan fuerte que le estás revolviendo el cerebro!"
 
 # game/code/e09/e09s07.rpy:671
 translate spanish e09s07_sex_mk_tm_76d55b98:
@@ -1700,7 +1700,7 @@ translate spanish e09s07_sex_mk_tm_84ff6d7e:
 translate spanish e09s07_sex_mk_tm_0f1ae237:
 
     # mk "*hungry licking*"
-    mk "*lamiendo hambriento*"
+    mk "*Lamido hambriento*"
 
 # game/code/e09/e09s07.rpy:684
 translate spanish e09s07_sex_mk_tm_ae1df518:
@@ -1712,7 +1712,7 @@ translate spanish e09s07_sex_mk_tm_ae1df518:
 translate spanish e09s07_sex_mk_tm_b5f4bac2:
 
     # mk "Go on, Talia. I'm ready."
-    mk "Continúa, Talía. Estoy listo."
+    mk "Continúa, Talia. Estoy lista."
 
 # game/code/e09/e09s07.rpy:688
 translate spanish e09s07_sex_mk_tm_9a93fbe6:
@@ -1736,7 +1736,7 @@ translate spanish e09s07_sex_mk_tm_7985cd09:
 translate spanish e09s07_sex_mk_tm_f69855f0:
 
     # mk "Mwaaah. Hello Mr. Best Cock."
-    mk "Mwaaa. Hola Sr. Mejor Polla."
+    mk "Mwaaah. Hola Sr. Polla hermosa."
 
 # game/code/e09/e09s07.rpy:695
 translate spanish e09s07_sex_mk_tm_020a8894:
@@ -1766,7 +1766,7 @@ translate spanish e09s07_sex_mk_tm_0e16c107:
 translate spanish e09s07_sex_mk_tm_2a5f0a9e:
 
     # tm "Yes... Keep going, [mcname]."
-    tm "Sí... Sigue adelante, [mcname]."
+    tm "Sí... Continúa, [mcname]."
 
 # game/code/e09/e09s07.rpy:703
 translate spanish e09s07_sex_mk_tm_cd9a4a3f:
@@ -1838,7 +1838,7 @@ translate spanish e09s07_sex_mk_tm_13295370:
 translate spanish e09s07_sex_kb_cb_2abdff55:
 
     # mc "Hello hello, you two."
-    mc "Hola hola ustedes dos."
+    mc "Hola a ustedes dos."
 
 # game/code/e09/e09s07.rpy:731
 translate spanish e09s07_sex_kb_cb_2b4a0050:
@@ -1850,7 +1850,7 @@ translate spanish e09s07_sex_kb_cb_2b4a0050:
 translate spanish e09s07_sex_kb_cb_1f5f9cfe:
 
     # mc "Haha. Are you sure about this?"
-    mc "Ja ja. ¿Estás seguro de esto?"
+    mc "Jaja. ¿Estás seguro de esto?"
 
 # game/code/e09/e09s07.rpy:734
 translate spanish e09s07_sex_kb_cb_42c640cf:
@@ -1862,13 +1862,13 @@ translate spanish e09s07_sex_kb_cb_42c640cf:
 translate spanish e09s07_sex_kb_cb_556cae9c:
 
     # cb "And I never skip a chance to get pounded by the man who knocked me up."
-    cb "Y nunca pierdo la oportunidad de ser golpeado por el hombre que me dejó embarazada."
+    cb "Y nunca pierdo la oportunidad de ser golpeada por el hombre que me dejó embarazada."
 
 # game/code/e09/e09s07.rpy:737
 translate spanish e09s07_sex_kb_cb_8db0c093:
 
     # mc "Really? That's great news."
-    mc "¿En realidad? Esa es una gran noticia."
+    mc "¿De verdad? Esa es una gran noticia."
 
 # game/code/e09/e09s07.rpy:739
 translate spanish e09s07_sex_kb_cb_e9cb005d:
@@ -1922,7 +1922,7 @@ translate spanish e09s07_sex_kb_cb_346de54f:
 translate spanish e09s07_sex_kb_cb_09998757:
 
     # kb "And I'm going to watch."
-    kb "Y voy a mirar."
+    kb "Y yo voy a mirar."
 
 # game/code/e09/e09s07.rpy:753
 translate spanish e09s07_sex_kb_cb_32dcd9fd:
@@ -1970,7 +1970,7 @@ translate spanish e09s07_sex_kb_cb_75d0d357:
 translate spanish e09s07_sex_kb_cb_continue_b1447eda:
 
     # cb "Yes... pound my sweet meat, [mcname]."
-    cb "Sí... machacar mi dulce carne, [mcname]."
+    cb "Sí... machaca mi dulce carne, [mcname]."
 
 # game/code/e09/e09s07.rpy:783
 translate spanish e09s07_sex_kb_cb_continue_9e26efc2:
@@ -2000,7 +2000,7 @@ translate spanish e09s07_sex_kb_cb_continue_093055cf:
 translate spanish e09s07_sex_kb_cb_continue_a6252c56:
 
     # cb "Not just at fucking. A bunch of people here all loved Fetish Locator."
-    cb "No sólo para follar. A mucha gente aquí le encantó Fetish Locator."
+    cb "No sólo a la hora de follar. A mucha gente de aquí le encantó el Localizador de Fetiches."
 
 # game/code/e09/e09s07.rpy:800
 translate spanish e09s07_sex_kb_cb_continue_3be4c0ee:
@@ -2024,7 +2024,7 @@ translate spanish e09s07_sex_kb_cb_continue_f41c8580:
 translate spanish e09s07_sex_kb_cb_continue_ef5be3f8:
 
     # mc "You're welcome, Chloe."
-    mc "De nada, Cloe."
+    mc "De nada, Chloe."
 
 # game/code/e09/e09s07.rpy:808
 translate spanish e09s07_sex_kb_cb_continue_29057fd4:
@@ -2042,7 +2042,7 @@ translate spanish e09s07_sex_kb_cb_continue_44a9c918:
 translate spanish e09s07_sex_kb_cb_continue_24562d2c:
 
     # kb "Chloe!"
-    kb "¡cloe!"
+    kb "¡Chloe!"
 
 # game/code/e09/e09s07.rpy:817
 translate spanish e09s07_sex_kb_cb_continue_b004cbf5:
@@ -2102,7 +2102,7 @@ translate spanish e09s07_sex_sy_arj_62550ba7:
 translate spanish e09s07_sex_sy_arj_32f7bf56:
 
     # arj "You sound like you're surprised."
-    arj "Parece que estás sorprendido."
+    arj "Parece que estás sorprendida."
 
 # game/code/e09/e09s07.rpy:841
 translate spanish e09s07_sex_sy_arj_7e86a4d9:
@@ -2180,7 +2180,7 @@ translate spanish e09s07_sex_sy_arj_5a238bd8:
 translate spanish e09s07_sex_sy_arj_cb0b4ee6:
 
     # arj "As the CEO, I think I need to have first dibs on him fucking me. You know, to review his performance."
-    arj "Como director ejecutivo, creo que tengo que tener la prioridad de que él me folle. Ya sabes, para revisar su actuación."
+    arj "Como directora ejecutiva, creo que tengo que tener la prioridad de que él me folle. Ya sabes, para revisar su actuación."
 
 # game/code/e09/e09s07.rpy:862
 translate spanish e09s07_sex_sy_arj_56d3ff98:
@@ -2222,7 +2222,7 @@ translate spanish e09s07_sex_sy_arj_1d5434da:
 translate spanish e09s07_sex_sy_arj_e5da3b47:
 
     # arj "Mmmmm - fuck it good! Fuck your boss' assssss!"
-    arj "Mmmmm - ¡joder que bien! ¡Que le jodan el culo a tu jefe!"
+    arj "Mmmmm - ¡Fóllatela bien! ¡Fóllate el culo de tu jefa!"
 
 # game/code/e09/e09s07.rpy:877
 translate spanish e09s07_sex_sy_arj_0d99661a:
@@ -2258,7 +2258,7 @@ translate spanish e09s07_sex_sy_arj_95883db0:
 translate spanish e09s07_sex_sy_arj_b9f2dafa:
 
     # arj "New rule, you have to fuck the CEO once a day!"
-    arj "Nueva regla: ¡tienes que follarte al director ejecutivo una vez al día!"
+    arj "Nueva regla, ¡tienes que follarte a la directora ejecutiva una vez al día!"
 
 # game/code/e09/e09s07.rpy:889
 translate spanish e09s07_sex_sy_arj_db275e0b:
@@ -2276,7 +2276,7 @@ translate spanish e09s07_sex_sy_arj_354ec9c8:
 translate spanish e09s07_sex_sy_arj_01e532a5:
 
     # arj "Mmmmmmmmooooooohhhh - oh God, I needed this sooooo bad!"
-    arj "Mmmmmmmmoooooooohhhh - ¡oh Dios, necesitaba esto muchísimo!"
+    arj "Mmmmmmmmoooooooohhhh - ¡oh Dios, necesitaba muchísimo esto!"
 
 # game/code/e09/e09s07.rpy:896
 translate spanish e09s07_sex_sy_arj_f295858d:
@@ -2372,7 +2372,7 @@ translate spanish e09s07_sex_sy_arj_5fa43dad:
 translate spanish e09s07_sex_sy_arj_b0f777e7:
 
     # mc "Fuuuuuck, I'm going to cum so faaaaaast..."
-    mc "Fuuuuuck, me voy a correr tan faaaaaast..."
+    mc "miiieeerdaaa, me voy a correr tan rápido..."
 
 # game/code/e09/e09s07.rpy:929
 translate spanish e09s07_sex_sy_arj_5f38bbdd:
@@ -2396,19 +2396,19 @@ translate spanish e09s07_sex_sy_arj_fc976266:
 translate spanish e09s07_sex_sy_arj_75daa811:
 
     # arj "Oh shit, Stacy! Oh shit, she's going to make me cuuuuuum!"
-    arj "¡Mierda, Stacy! ¡Oh, mierda, ella me va a hacer cuuuuuum!"
+    arj "¡Mierda, Stacy! ¡Oh, mierda, ella me va a hacer que me corra!"
 
 # game/code/e09/e09s07.rpy:935
 translate spanish e09s07_sex_sy_arj_ef54ec55:
 
     # mc "S-same! I'm - fuuuuuckinnnggggggg..."
-    mc "¡Lo mismo! Estoy... jodidamente jodido."
+    mc "¡Lo mismo! Estoy... jodidamente cerca."
 
 # game/code/e09/e09s07.rpy:936
 translate spanish e09s07_sex_sy_arj_86aeda7e:
 
     # arj "Mmmmmm, [mcname], do it... Cum deep inside her!"
-    arj "Mmmmmm, [mcname], hazlo... ¡Corre profundamente dentro de ella!"
+    arj "Mmmmmm, [mcname], hazlo... ¡Córrete profundamente dentro de ella!"
 
 # game/code/e09/e09s07.rpy:941
 translate spanish e09s07_sex_sy_arj_f19916cb:
@@ -2426,13 +2426,13 @@ translate spanish e09s07_sex_sy_arj_19356fe0:
 translate spanish e09s07_sex_sy_arj_e807a672:
 
     # mc "I can feel her pussy getting tighter! I think - I think-!"
-    mc "¡Puedo sentir su coño cada vez más apretado! ¡Creo - creo-!"
+    mc "¡Puedo sentir su coño cada vez más apretado! ¡Creo... creo!"
 
 # game/code/e09/e09s07.rpy:948
 translate spanish e09s07_sex_sy_arj_38acfc5c:
 
     # arj "Fuuuuuck - let's all cum together! We can - oh God, Stacy! Juuuuust likkke- fuuuuuuck!"
-    arj "Fuuuuuck, ¡corramos todos juntos! Podemos... ¡oh Dios, Stacy! Juuuuust Likkke- fuuuuuuck!"
+    arj "Jooodeeer, ¡vamos a corrernos todos juntos! Podemos! Igual que... joder!"
 
 # game/code/e09/e09s07.rpy:949
 translate spanish e09s07_sex_sy_arj_d1dec9bf:
@@ -2450,7 +2450,7 @@ translate spanish e09s07_sex_sy_arj_2e7ee41c:
 translate spanish e09s07_sex_sy_arj_cf27d213:
 
     # mc "Ohhhhhh Gaaaaaahhhhhhhh fuuuuuuuuuuucccck!"
-    mc "Ohhhhhh Gaaaaaahhhhhhhh fuuuuuuuuuuuucccck!"
+    mc "Ohhhhhh Gaaaaaahhhhhhhh miiiieeeerdaaaa!"
 
 # game/code/e09/e09s07.rpy:958
 translate spanish e09s07_sex_sy_arj_ec18537e:
@@ -2468,7 +2468,7 @@ translate spanish e09s07_sex_sy_arj_99c5c814:
 translate spanish e09s07_sex_sy_arj_58b7c83e:
 
     # mc "OH grafffuucccsshhiiiittttt!"
-    mc "¡OH grafffuucccsshhiiiitttttt!"
+    mc "¡OH grafffuucccscshhiiiitttttt!"
 
 # game/code/e09/e09s07.rpy:963
 translate spanish e09s07_sex_sy_arj_9131e067:
@@ -2492,13 +2492,13 @@ translate spanish e09s07_sex_sy_arj_d17a047f:
 translate spanish e09s07_sex_sy_arj_a7f6b10f:
 
     # arj "It does... It also looks scrumptious..."
-    arj "Lo hace... También se ve delicioso..."
+    arj "Lo es... También se ve delicioso..."
 
 # game/code/e09/e09s07.rpy:968
 translate spanish e09s07_sex_sy_arj_a29adba6:
 
     # sy "Does it now?"
-    sy "¿Lo hace ahora?"
+    sy "¿Lo es ahora?"
 
 # game/code/e09/e09s07.rpy:969
 translate spanish e09s07_sex_sy_arj_eabdc057:
@@ -2516,13 +2516,13 @@ translate spanish e09s07_sex_sy_arj_6bc899e9:
 translate spanish e09s07_sex_sy_arj_950d3d10:
 
     # sy "Oh shiiiit - AmRose! I'm still sensi-"
-    sy "Oh, mierda, ¡AmRose! Todavía estoy sensible"
+    sy "Oh, mierda, ¡AmRose! Todavía estoy sensible."
 
 # game/code/e09/e09s07.rpy:975
 translate spanish e09s07_sex_sy_arj_428d5b00:
 
     # sy "Fuckfuckfuckfuckfucccccck! I'm cumming again!!!"
-    sy "¡Joderjoderjoderfuckfuccccck! ¡¡¡Me estoy acabando de nuevo!!!"
+    sy "¡Joderjoderjoder! ¡¡¡Me estoy corriendo de nuevo!!!"
 
 # game/code/e09/e09s07.rpy:976
 translate spanish e09s07_sex_sy_arj_971fcf33:
@@ -2546,13 +2546,13 @@ translate spanish e09s07_sex_sy_arj_295281bf:
 translate spanish e09s07_sex_sy_arj_ad1b22c2:
 
     # mc "Same..."
-    mc "Mismo..."
+    mc "Yo también..."
 
 # game/code/e09/e09s07.rpy:983
 translate spanish e09s07_sex_sy_arj_ca7c8482:
 
     # arj "I'll get you both some water, and your clothes."
-    arj "Les traeré a ambos un poco de agua y su ropa."
+    arj "Les traeré a los dos un poco de agua y su ropa."
 
 # game/code/e09/e09s07.rpy:992
 translate spanish e09s07_part_4_861e3bb3:
@@ -2630,7 +2630,7 @@ translate spanish e09s07_part_4_1431ea23:
 translate spanish e09s07_part_4_79cb218a:
 
     # lo "I'm sold."
-    lo "Estoy vendido."
+    lo "Estoy vendida."
 
 # game/code/e09/e09s07.rpy:1010
 translate spanish e09s07_part_4_05500ff6:
@@ -2642,13 +2642,13 @@ translate spanish e09s07_part_4_05500ff6:
 translate spanish e09s07_part_4_022c0d9f:
 
     # lo "I'm sold, on Fetish Locator Rebooted."
-    lo "Estoy vendido, en Fetish Locator reiniciado."
+    lo "Estoy vendida, en el Localizador de Fetiches reiniciado."
 
 # game/code/e09/e09s07.rpy:1013
 translate spanish e09s07_part_4_fe7c242f:
 
     # mc "What do you mean...?"
-    mc "Qué quieres decir...?"
+    mc "¿Qué quieres decir...?"
 
 # game/code/e09/e09s07.rpy:1015
 translate spanish e09s07_part_4_e3d0358b:
@@ -2660,7 +2660,7 @@ translate spanish e09s07_part_4_e3d0358b:
 translate spanish e09s07_part_4_4ac1b5e0:
 
     # lo "So, I go to a different college, and I think that it would be perfect for Fetish Locator Rebooted."
-    lo "Entonces, voy a una universidad diferente y creo que sería perfecta para Fetish Locator Rebooted."
+    lo "Entonces, voy a una universidad diferente y creo que sería perfecta para el Localizador de Fetiches Reiniciado."
 
 # game/code/e09/e09s07.rpy:1018
 translate spanish e09s07_part_4_ea7dfe3c:
@@ -2672,7 +2672,7 @@ translate spanish e09s07_part_4_ea7dfe3c:
 translate spanish e09s07_part_4_bec5d7e5:
 
     # hr "Look, you're always going to be fighting Fetish Locator's reputation here, right? But new place, fresh start - it's perfect for what you're doing."
-    hr "Mira, aquí siempre vas a estar luchando contra la reputación de Fetish Locator, ¿verdad? Pero un lugar nuevo, un nuevo comienzo: es perfecto para lo que estás haciendo."
+    hr "Mira, aquí siempre vas a estar luchando contra la reputación del Localizador de Fetiches, ¿verdad? Pero un lugar nuevo, un nuevo comienzo... es perfecto para lo que estás haciendo."
 
 # game/code/e09/e09s07.rpy:1021
 translate spanish e09s07_part_4_ea7dfe3c_1:
@@ -2684,7 +2684,7 @@ translate spanish e09s07_part_4_ea7dfe3c_1:
 translate spanish e09s07_part_4_73466313:
 
     # lo "Yes, yes we are!"
-    lo "¡Sí, sí lo somos!"
+    lo "Sí, ¡sí lo estamos!"
 
 # game/code/e09/e09s07.rpy:1023
 translate spanish e09s07_part_4_61409f80:
@@ -2696,7 +2696,7 @@ translate spanish e09s07_part_4_61409f80:
 translate spanish e09s07_part_4_7023e871:
 
     # lo "And, we both have enough money to fund you."
-    lo "Y ambos tenemos suficiente dinero para financiarte."
+    lo "Y las dos tenemos suficiente dinero para financiarte."
 
 # game/code/e09/e09s07.rpy:1026
 translate spanish e09s07_part_4_3879969a:
@@ -2720,31 +2720,31 @@ translate spanish e09s07_part_4_1b7bb0b2:
 translate spanish e09s07_part_4_68bcca73:
 
     # lo "Go tell them, and let's set up a meeting, start getting everything figured out."
-    lo "Ve a decirles y programemos una reunión y empecemos a resolver todo."
+    lo "Ve a decírselo y organicemos una reunión para empezar a organizarlo todo."
 
 # game/code/e09/e09s07.rpy:1033
 translate spanish e09s07_part_4_48a457e3:
 
     # mc "I will! I - oh God, Stacy! AmRose!"
-    mc "¡Lo haré! Yo... ¡oh Dios, Stacy! ¡SoyRose!"
+    mc "¡Lo haré! Yo... ¡oh Dios, Stacy! ¡AmRose!"
 
 # game/code/e09/e09s07.rpy:1035
 translate spanish e09s07_part_4_8ae14c14:
 
     # hr "Are you sure about this?"
-    hr "¿Estás seguro de esto?"
+    hr "¿Estás segura de esto?"
 
 # game/code/e09/e09s07.rpy:1036
 translate spanish e09s07_part_4_fe16c8b3:
 
     # lo "Were you at this party? I'm absolutely sure."
-    lo "¿Estuviste en esta fiesta? Estoy absolutamente seguro."
+    lo "¿Estuviste en esta fiesta? Estoy absolutamente segura."
 
 # game/code/e09/e09s07.rpy:1037
 translate spanish e09s07_part_4_eea68890:
 
     # lo "I'm excited to see where this goes..."
-    lo "Estoy emocionado de ver a dónde va esto..."
+    lo "Estoy emocionada de ver a dónde va esto..."
 
 translate spanish strings:
 
@@ -2758,37 +2758,37 @@ translate spanish strings:
 
     # game/code/e09/e09s07.rpy:758
     old "Fuck Chloe"
-    new "Joder cloe"
+    new "Fóllate a Chloe"
 
     # game/code/e09/e09s07.rpy:758
     old "Politely decline"
-    new "Rechazar cortésmente"
+    new "Rechaza cortésmente"
 
     # game/code/e09/e09s07.rpy:1045
     old "You have finished playing Ending 09!"
-    new "¡Has terminado de jugar Ending 09!"
+    new "¡Has terminado de jugar el Final 09!"
 
 # game/code/e09/e09s07.rpy:1046
 translate spanish e09s07_sex_kb_cb_0b7d9083:
 
     # kb "Ah it's all good man."
-    kb "Ah it's all good man."
+    kb "Ah está todo bien hombre."
 
 # game/code/e09/e09s07.rpy:1047
 translate spanish e09s07_sex_kb_cb_363e3682:
 
     # kb "I'm sure Chloe and I can find some more fun around here."
-    kb "I'm sure Chloe and I can find some more fun around here."
+    kb "Estoy seguro de que Chloe y yo podemos encontrar más diversión por aquí."
 
 # game/code/e09/e09s07.rpy:1058
 translate spanish e09s07_sex_kb_cb_continue_c215581a:
 
     # mc "How could I ever say no to you two?"
-    mc "How could I ever say no to you two?"
+    mc "¿Cómo podría decirles que no a ustedes dos?"
 
 translate spanish strings:
 
     # game/code/e09/e09s07.rpy:1430
     old "You have finished playing Ending #09!"
-    new "You have finished playing Ending #09!"
+    new "¡Has terminado de jugar el Final #09!"
 

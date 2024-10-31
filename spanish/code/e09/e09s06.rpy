@@ -2,7 +2,7 @@
 translate spanish e09s06_7d2dfb04:
 
     # mes "Mmmmm... I never thought I was going to have another reason to put on a mask!"
-    mes "Mmmmm... ¡Nunca pensé que iba a tener otro motivo para ponerme una mascarilla!"
+    mes "Mmmmm... ¡Nunca pensé que iba a tener otra razón para ponerme una máscara!"
 
 # game/code/e09/e09s06.rpy:18
 translate spanish e09s06_6ef72a6a:
@@ -32,19 +32,19 @@ translate spanish e09s06_42359c27:
 translate spanish e09s06_ac99824d:
 
     # mc "Nope. No buts! Those days are behind us, and Fetish Locator Rebooted isn't going to dwell in the past. On to bigger and better things!"
-    mc "No. ¡Sin peros! Esos días quedaron atrás y Fetish Locator Rebooted no se quedará en el pasado. ¡A cosas más grandes y mejores!"
+    mc "No. Nada de peros. Esos días han quedado atrás, y el Localizador de Fetiches Reiniciado no va a quedarse en el pasado. ¡Vamos por cosas más grandes y mejores!"
 
 # game/code/e09/e09s06.rpy:26
 translate spanish e09s06_c8356d2d:
 
     # mes "You know what? You're right!"
-    mes "¿Sabes que? ¡Tienes razón!"
+    mes "¿Sabes qué? ¡Tienes razón!"
 
 # game/code/e09/e09s06.rpy:27
 translate spanish e09s06_d81108e1:
 
     # mc "Damn right I am!"
-    mc "¡Maldita sea, lo tengo!"
+    mc "¡Maldita sea, la tengo!"
 
 # game/code/e09/e09s06.rpy:29
 translate spanish e09s06_511e0c25:
@@ -56,7 +56,7 @@ translate spanish e09s06_511e0c25:
 translate spanish e09s06_2d932f9b:
 
     # mc "Got any tips you want to share about hosting one of these parties?"
-    mc "¿Tiene algún consejo que quiera compartir sobre cómo organizar una de estas fiestas?"
+    mc "¿Tienes algún consejo que quieras compartir sobre cómo organizar una de estas fiestas?"
 
 # game/code/e09/e09s06.rpy:32
 translate spanish e09s06_fcbcda10:
@@ -74,7 +74,7 @@ translate spanish e09s06_11455b53:
 translate spanish e09s06_3e16022c:
 
     # mes "Everyone is showing up to get a taste of you tonight, [mcname]. And you can't disappoint. So be ready to fuck until the sun comes up. I recommend Viagra for that."
-    mes "Todo el mundo se presentará para probarte esta noche, [mcname]. Y no puedes decepcionarte. Así que prepárate para follar hasta que salga el sol. Recomiendo Viagra para eso."
+    mes "Todo el mundo quiere probarte esta noche, [mcname]. Y no puedes decepcionar. Así que prepárate para follar hasta que salga el sol. Te recomiendo que tomes Viagra."
 
 # game/code/e09/e09s06.rpy:36
 translate spanish e09s06_374b9c25:
@@ -86,13 +86,13 @@ translate spanish e09s06_374b9c25:
 translate spanish e09s06_13e9f2f0:
 
     # mes "You know, just be your charming self. Talk to everyone, keep them entertained. Make sure you don't get sucked into any lengthy conversations. That kind of stuff."
-    mes "Ya sabes, sé tu mismo encantador. Habla con todos, mantenlos entretenidos. Asegúrese de no dejarse atrapar por conversaciones prolongadas. Ese tipo de cosas."
+    mes "Ya sabes, sé encantador. Habla con todo el mundo, mantenlos entretenidos. Asegúrate de que no te atrapen en largas conversaciones. Ese tipo de cosas."
 
 # game/code/e09/e09s06.rpy:39
 translate spanish e09s06_25255d0f:
 
     # mes "Oh, and be careful of the libations. You need to stay sharp and focused, and getting drunk will ruin all of that."
-    mes "Ah, y cuidado con las libaciones. Necesitas mantenerte alerta y concentrado, y emborracharte arruinará todo eso."
+    mes "Ah, y ten cuidado con las bebidas. Tienes que estar atento y concentrado, y emborracharte arruinará todo eso."
 
 # game/code/e09/e09s06.rpy:41
 translate spanish e09s06_421c0c79:
@@ -104,7 +104,7 @@ translate spanish e09s06_421c0c79:
 translate spanish e09s06_da1f2c91:
 
     # mes "And never take off your smile."
-    mes "Y nunca te quites la sonrisa."
+    mes "Y nunca dejes de sonreír."
 
 # game/code/e09/e09s06.rpy:46
 translate spanish e09s06_3ff24e1a:
@@ -122,13 +122,13 @@ translate spanish e09s06_cdd9ed92:
 translate spanish e09s06_fc46ef02:
 
     # mes "Haha. That's the energy to keep up tonight! Now come on, let's get into position to receive our guests."
-    mes "Ja ja. ¡Esa es la energía para mantener el ritmo esta noche! Ahora vamos, pongámonos en posición para recibir a nuestros invitados."
+    mes "Jaja. ¡Esa es la energía para mantener el ritmo esta noche! Ahora vamos, pongámonos en posición para recibir a nuestros invitados."
 
 # game/code/e09/e09s06.rpy:51
 translate spanish e09s06_df6def5f:
 
     # mes "And put your costume on! Can't start the party naked!"
-    mes "¡Y ponte tu disfraz! ¡No puedo empezar la fiesta desnudo!"
+    mes "¡Y ponte tu disfraz! ¡No puedes empezar la fiesta desnudo!"
 
 # game/code/e09/e09s06.rpy:52
 translate spanish e09s06_3a7256c3:
@@ -152,7 +152,7 @@ translate spanish e09s06_798f9c8b:
 translate spanish e09s06_6208aa5e:
 
     # mc "Really? But you've done this before."
-    mc "¿En realidad? Pero ya has hecho esto antes."
+    mc "¿En serio? Pero ya has hecho esto antes."
 
 # game/code/e09/e09s06.rpy:60
 translate spanish e09s06_c01f5900:
@@ -188,7 +188,7 @@ translate spanish e09s06_a0c4c5db:
 translate spanish e09s06_1e476a9b:
 
     # mes "Aleyah, Tyrell. It's good to see you both."
-    mes "Aleyah, Tyrell. Es bueno verlos a ambos."
+    mes "Aaleyah, Tyrell. Es bueno verlos a los dos."
 
 # game/code/e09/e09s06.rpy:70
 translate spanish e09s06_5498e6c0:
@@ -224,13 +224,13 @@ translate spanish e09s06_94e943d9:
 translate spanish e09s06_ec3fbc9c:
 
     # tr "Awesome. Thanks, [mcname]! We've both been really excited about tonight."
-    tr "Impresionante. ¡Gracias, [mcname]! Ambos hemos estado muy emocionados por lo de esta noche."
+    tr "Genial. ¡Gracias, [mcname]! Los dos estamos muy emocionados por lo de esta noche."
 
 # game/code/e09/e09s06.rpy:79
 translate spanish e09s06_2606b50a:
 
     # mc "And I'm happy you both could be here! Feel free to wander, you two are the first here, but we have some drinks and refreshments around the house."
-    mc "¡Y estoy feliz de que ambos pudieran estar aquí! Siéntanse libres de vagar, ustedes dos son los primeros en llegar, pero tenemos algunas bebidas y refrescos en la casa."
+    mc "¡Me alegro de que hayan venido! Siéntase libre para recorrer, ustedes dos son los primeros aquí, pero tenemos algunas bebidas y refrescos en de la casa."
 
 # game/code/e09/e09s06.rpy:81
 translate spanish e09s06_aeb80a67:
@@ -260,7 +260,7 @@ translate spanish e09s06_db41f4fe:
 translate spanish e09s06_68b95aa2:
 
     # mc "Thanks, Min."
-    mc "Gracias Min."
+    mc "Gracias, Min."
 
 # game/code/e09/e09s06.rpy:89
 translate spanish e09s06_ce0773c6:
@@ -278,13 +278,13 @@ translate spanish e09s06_13f9877d:
 translate spanish e09s06_f5abe090:
 
     # lo "Londyn, a pleasure, Miss-"
-    lo "Londres, un placer, señorita."
+    lo "Londyn, un placer, Señorita."
 
 # game/code/e09/e09s06.rpy:94
 translate spanish e09s06_4c7d18e8:
 
     # mes "Please, no need for formalities. I'm Min, welcome to my home."
-    mes "Por favor, no hay necesidad de trámites. Soy Min, bienvenido a mi casa."
+    mes "Por favor, no hay necesidad de formalidades. Soy Min, bienvenida a mi casa."
 
 # game/code/e09/e09s06.rpy:96
 translate spanish e09s06_97d371c9:
@@ -296,7 +296,7 @@ translate spanish e09s06_97d371c9:
 translate spanish e09s06_3c122800:
 
     # hr "Well, as the head of your Oversight Committee, I thought I should arrive early to make sure everything was above board."
-    hr "Bueno, como jefe de su Comité de Supervisión, pensé que debería llegar temprano para asegurarme de que todo estuviera en orden."
+    hr "Bueno, como jefa de tu Comité de Supervisión, pensé que debería llegar temprano para asegurarme de que todo estuviera en orden."
 
 # game/code/e09/e09s06.rpy:99
 translate spanish e09s06_535e3169:
@@ -320,19 +320,19 @@ translate spanish e09s06_f22d0bba:
 translate spanish e09s06_9c513855:
 
     # mc "Wow, thank you, Londyn! But you didn't have to do this. You've already done more than enough."
-    mc "¡Guau, gracias Londres! Pero no tenías que hacer esto. Ya has hecho más que suficiente."
+    mc "¡Guau, gracias Londyn! Pero no tenías que hacer esto. Ya has hecho más que suficiente."
 
 # game/code/e09/e09s06.rpy:105
 translate spanish e09s06_a21ca05a:
 
     # lo "I want to! I think Fetish Locator Rebooted is going to do great. Which reminds me, we should actually have a little chat."
-    lo "¡Yo quiero! Creo que Fetish Locator Rebooted funcionará muy bien. Lo que me recuerda que deberíamos tener una pequeña charla."
+    lo "¡Yo quiero! Creo que el Localizador de Fetiches Reiniciado funcionará muy bien. Lo que me recuerda que deberíamos tener una pequeña conversación."
 
 # game/code/e09/e09s06.rpy:106
 translate spanish e09s06_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "¿Oh?"
 
 # game/code/e09/e09s06.rpy:108
 translate spanish e09s06_5454e114:
@@ -368,13 +368,13 @@ translate spanish e09s06_d34ab663:
 translate spanish e09s06_c71aece3:
 
     # hr "Thought you might like these."
-    hr "Pensé que te podrían gustar estos."
+    hr "Pensé que te podrían gustar estas."
 
 # game/code/e09/e09s06.rpy:119
 translate spanish e09s06_a3c72bac:
 
     # mc "Yeah, you're definitely right about me liking those!"
-    mc "¡Sí, definitivamente tienes razón en que me gustan esos!"
+    mc "¡Sí, definitivamente tienes razón en que me gustan esas!"
 
 # game/code/e09/e09s06.rpy:120
 translate spanish e09s06_732d905a:
@@ -386,7 +386,7 @@ translate spanish e09s06_732d905a:
 translate spanish e09s06_a7b7557f:
 
     # hr "I'm going to make sure everything is all set up. Definitely come find us later."
-    hr "Voy a asegurarme de que todo esté configurado. Definitivamente ven a buscarnos más tarde."
+    hr "Voy a asegurarme de que todo esté preparado. Definitivamente ven a buscarnos más tarde."
 
 # game/code/e09/e09s06.rpy:123
 translate spanish e09s06_103d76df:
@@ -416,7 +416,7 @@ translate spanish e09s06_8d54e3a3:
 translate spanish e09s06_805bc405:
 
     # mes "Cynthia, Professor Lewald - happy you could be here."
-    mes "Cynthia, profesor Lewald, feliz de que pudieran estar aquí."
+    mes "Cynthia, Profesora Lewald, feliz de que pudieran estar aquí."
 
 # game/code/e09/e09s06.rpy:131
 translate spanish e09s06_826a7d71:
@@ -428,7 +428,7 @@ translate spanish e09s06_826a7d71:
 translate spanish e09s06_c9bb5188:
 
     # mes "Actually-"
-    mes "De hecho-"
+    mes "De hecho..."
 
 # game/code/e09/e09s06.rpy:135
 translate spanish e09s06_f4fae707:
@@ -440,13 +440,13 @@ translate spanish e09s06_f4fae707:
 translate spanish e09s06_981b3208:
 
     # cl "Thank you, Min."
-    cl "Gracias min."
+    cl "Gracias, min."
 
 # game/code/e09/e09s06.rpy:138
 translate spanish e09s06_bfb3bd02:
 
     # mes "Actually, it may be my home, but [mcname] is your host for the evening. You should thank him."
-    mes "En realidad, puede que sea mi casa, pero [mcname] es tu anfitrión de la noche. Deberías agradecerle."
+    mes "En realidad, puede que sea mi casa, pero [mcname] es el anfitrión de la noche. Deberías agradecerle."
 
 # game/code/e09/e09s06.rpy:140
 translate spanish e09s06_b68b0792:
@@ -458,25 +458,25 @@ translate spanish e09s06_b68b0792:
 translate spanish e09s06_aae27cb7:
 
     # mc "Yep! But it's good to see you, Professor Lewald."
-    mc "¡Sí! Pero es bueno verlo, profesor Lewald."
+    mc "¡Sí! Me alegro de verla, Profesora Lewald."
 
 # game/code/e09/e09s06.rpy:142
 translate spanish e09s06_2c7307ba:
 
     # tl "I-"
-    tl "I-"
+    tl "Yo..."
 
 # game/code/e09/e09s06.rpy:144
 translate spanish e09s06_be846052:
 
     # mes "I hate to be rude, but I see more of our guests arriving."
-    mes "Odio ser grosero, pero veo llegar a más invitados nuestros."
+    mes "Odio ser grosera, pero veo llegar a más de nuestros invitados."
 
 # game/code/e09/e09s06.rpy:145
 translate spanish e09s06_b2875ff7:
 
     # tl "Later then. Come along, Cynthia."
-    tl "Más tarde entonces. Vamos, Cintia."
+    tl "Hasta más tarde entonces. Vamos, Cynthia."
 
 # game/code/e09/e09s06.rpy:149
 translate spanish e09s06_c08a6a6c:
@@ -488,7 +488,7 @@ translate spanish e09s06_c08a6a6c:
 translate spanish e09s06_8c5d3386:
 
     # mc "Lyssa! Judge! It's good to see you both."
-    mc "¡Lisa! ¡Juez! Es bueno verlos a ambos."
+    mc "¡Lyssa! ¡Jueza! Es bueno verlas a las dos."
 
 # game/code/e09/e09s06.rpy:153
 translate spanish e09s06_e474fd06:
@@ -500,13 +500,13 @@ translate spanish e09s06_e474fd06:
 translate spanish e09s06_37368d11:
 
     # mh "This is a friend of mine who has heard my stories about the old Fetish Locator parties and wanted to see one for herself."
-    mh "Esta es una amiga mía que escuchó mis historias sobre las antiguas fiestas de Fetish Locator y quería ver una con sus propios ojos."
+    mh "Esta es una amiga mía que escuchó mis historias sobre las antiguas fiestas del Localizador de Fetiches y quería ver una con sus propios ojos."
 
 # game/code/e09/e09s06.rpy:155
 translate spanish e09s06_97bf87a0:
 
     # mc "Well, welcome to the show!"
-    mc "Bueno, ¡bienvenido al espectáculo!"
+    mc "Bueno, ¡bienvenida al espectáculo!"
 
 # game/code/e09/e09s06.rpy:157
 translate spanish e09s06_aa8945bd:
@@ -518,13 +518,13 @@ translate spanish e09s06_aa8945bd:
 translate spanish e09s06_ad78ad9e:
 
     # jdg "Oh?"
-    jdg "Oh?"
+    jdg "¿Oh?"
 
 # game/code/e09/e09s06.rpy:160
 translate spanish e09s06_eb63447f:
 
     # mc "Yeah. Lewald never liked me, saved me from a very uncomfortable conversation most likely."
-    mc "Sí. Nunca le agrado a Lewald, probablemente me salvó de una conversación muy incómoda."
+    mc "SSí. Nunca le agradé a Lewald, así que probablemente me salves de una conversación muy incómoda."
 
 # game/code/e09/e09s06.rpy:161
 translate spanish e09s06_018d14fe:
@@ -566,19 +566,19 @@ translate spanish e09s06_025833af:
 translate spanish e09s06_8900eea7:
 
     # mh "AmRose called saying that Fetish Locator Rebooted is looking for new sponsors. We both brought a little something to contribute."
-    mh "AmRose llamó diciendo que Fetish Locator Rebooted está buscando nuevos patrocinadores. Ambos trajimos algo para aportar."
+    mh "AmRose llamó diciendo que el Localizador de Fetiches Reiniciado está buscando nuevos patrocinadores. Ambas trajimos algo para aportar."
 
 # game/code/e09/e09s06.rpy:171
 translate spanish e09s06_41038cda:
 
     # mc "You are too kind! Thank you!"
-    mc "¡Eres demasiado amable! ¡Gracias!"
+    mc "Son muy amables. ¡Gracias!"
 
 # game/code/e09/e09s06.rpy:173
 translate spanish e09s06_ed77b286:
 
     # mh "Just make sure you do a better job than your predecessor."
-    mh "Sólo asegúrese de hacer un mejor trabajo que su predecesor."
+    mh "Sólo asegúrate de hacer un mejor trabajo que su predecesor."
 
 # game/code/e09/e09s06.rpy:174
 translate spanish e09s06_77174c15:
@@ -602,7 +602,7 @@ translate spanish e09s06_5996c639:
 translate spanish e09s06_2ae0495a:
 
     # mc "That there has been. But I promise you, Fetish Locator Rebooted is totally different, with a higher standard of security, anonymity, and safety."
-    mc "Eso ha habido. Pero te lo prometo, Fetish Locator Rebooted es totalmente diferente, con un estándar más alto de seguridad, anonimato y protección."
+    mc "Que los ha habido. Pero te prometo que el Localizador de Fetiches Reiniciado es totalmente diferente, con un estándar más alto de seguridad, anonimato y protección."
 
 # game/code/e09/e09s06.rpy:183
 translate spanish e09s06_eca35345:
@@ -620,19 +620,19 @@ translate spanish e09s06_1d96052d:
 translate spanish e09s06_ee0ad0d8:
 
     # mes "They are!"
-    mes "¡Ellos son!"
+    mes "¡Lo son!"
 
 # game/code/e09/e09s06.rpy:187
 translate spanish e09s06_b63785e7:
 
     # jdg "This is set to be the party of the year, so I can't say I'm surprised. We'll chat more later!"
-    jdg "Esta será la fiesta del año, así que no puedo decir que me sorprenda. ¡Charlaremos más después!"
+    jdg "Esta será la fiesta del año, así que no puedo decir que me sorprenda. ¡Hablaremos más después!"
 
 # game/code/e09/e09s06.rpy:191
 translate spanish e09s06_2a0a0205:
 
     # mes "Hello. Welcome to the Fetish Locator Rebooted soft launch!"
-    mes "Hola. ¡Bienvenido al lanzamiento suave de Fetish Locator Rebooted!"
+    mes "Hola. Bienvenidos al lanzamiento de la nueva versión del Localizador de Fetiches Reiniciado."
 
 # game/code/e09/e09s06.rpy:193
 translate spanish e09s06_09697e1a:
@@ -662,19 +662,19 @@ translate spanish e09s06_d16cc58e:
 translate spanish e09s06_bd4fb164:
 
     # mc "Oh, you guys! You didn't need to do that!"
-    mc "¡Oh, chicos! ¡No necesitabas hacer eso!"
+    mc "¡Oh, chicos! ¡No necesitaban hacer eso!"
 
 # game/code/e09/e09s06.rpy:201
 translate spanish e09s06_8dac1e97:
 
     # kb "Believe me, we both see this as an investment. We plan to cash that in tonight!"
-    kb "Créame, ambos vemos esto como una inversión. ¡Planeamos cobrar eso esta noche!"
+    kb "Créeme, ambos vemos esto como una inversión. ¡Planeamos cobrar eso esta noche!"
 
 # game/code/e09/e09s06.rpy:202
 translate spanish e09s06_f05c6718:
 
     # mc "Well then get in here! Wander around a bit, get some good food and drink, and I promise tonight is going to be a ton of fun."
-    mc "¡Pues entonces entra aquí! Pasee un poco, coma y beba bien y le prometo que esta noche será muy divertida."
+    mc "Pues entren. Paseen un poco, tomen algo de comer y beber, y les prometo que esta noche va a ser muy divertida."
 
 # game/code/e09/e09s06.rpy:208
 translate spanish e09s06_5ea51810:
@@ -686,13 +686,13 @@ translate spanish e09s06_5ea51810:
 translate spanish e09s06_a41b3158:
 
     # mc "Polly! Hey! I see you found some friends!"
-    mc "Polly! ¡Ey! ¡Veo que encontraste algunos amigos!"
+    mc "¡Polly! ¡Ey! ¡Veo que encontraste algunas amigas!"
 
 # game/code/e09/e09s06.rpy:211
 translate spanish e09s06_92d135ab:
 
     # pw "I did! We were all walking the same direction, looking ridiculous, and figured we were all going to the same place!"
-    pw "¡Hice! ¡Todos caminábamos en la misma dirección, luciendo ridículos, y pensamos que todos íbamos al mismo lugar!"
+    pw "¡Lo hice! ¡Todas caminábamos en la misma dirección, luciendo ridículas, y pensamos que todas íbamos al mismo lugar!"
 
 # game/code/e09/e09s06.rpy:213
 translate spanish e09s06_52640fb4:
@@ -710,7 +710,7 @@ translate spanish e09s06_dd54446d:
 translate spanish e09s06_6f854b8c:
 
     # mk "And I thought I was the freaky one..."
-    mk "Y pensé que yo era el raro..."
+    mk "Y pensé que yo era la rara..."
 
 # game/code/e09/e09s06.rpy:217
 translate spanish e09s06_2482543f:
@@ -752,25 +752,25 @@ translate spanish e09s06_20dc6ccb:
 translate spanish e09s06_4b79667e:
 
     # mc "Thank you, Polly!"
-    mc "¡Gracias Polly!"
+    mc "¡Gracias, Polly!"
 
 # game/code/e09/e09s06.rpy:230
 translate spanish e09s06_d590b98b:
 
     # pw "Don't mention it. But, maybe swing by and buy some coffee from Nora."
-    pw "No lo menciones. Pero quizás pases y le compres un poco de café a Nora."
+    pw "Ni lo menciones. Pero, tal vez puedas pasar y comprarle un café a Nora."
 
 # game/code/e09/e09s06.rpy:236
 translate spanish e09s06_42ece7e3:
 
     # mc "Hey Daisy, hey Dahlia!"
-    mc "¡Hola Daisy, hola Dalia!"
+    mc "¡Hola Daisy, hola Dahlia!"
 
 # game/code/e09/e09s06.rpy:237
 translate spanish e09s06_f9d69186:
 
     # dd "Hi, [mcname]!"
-    dd "Hi, [mcname]!"
+    dd "¡Hola, [mcname]!"
 
 # game/code/e09/e09s06.rpy:239
 translate spanish e09s06_945c546f:
@@ -800,13 +800,13 @@ translate spanish e09s06_c1fe913b:
 translate spanish e09s06_0221312a:
 
     # mc "Excited for the festivities tonight?"
-    mc "¿Emocionado por las festividades de esta noche?"
+    mc "¿Emocionada por las festividades de esta noche?"
 
 # game/code/e09/e09s06.rpy:246
 translate spanish e09s06_30b98b25:
 
     # dd "We are! Right, Dahlia?"
-    dd "¡Somos! ¿Verdad, Dalia?"
+    dd "¡Lo estamos! ¿Verdad, Dahlia?"
 
 # game/code/e09/e09s06.rpy:247
 translate spanish e09s06_481059e6:
@@ -830,19 +830,19 @@ translate spanish e09s06_a7beeb9b:
 translate spanish e09s06_97665a5c:
 
     # mc "Oh, Dahlia, I-"
-    mc "Oh, Dalia, yo-"
+    mc "Oh, Dahlia, yo-"
 
 # game/code/e09/e09s06.rpy:253
 translate spanish e09s06_52093321:
 
     # dw "Daisy and I have both always enjoyed Fetish Locator. We are both very happy to see it back."
-    dw "Daisy y yo siempre hemos disfrutado de Fetish Locator. Ambos estamos muy felices de verlo de regreso."
+    dw "Daisy y yo siempre hemos disfrutado con el Localizador de Fetiches. Estamos felices de que esté de vuelta."
 
 # game/code/e09/e09s06.rpy:255
 translate spanish e09s06_78ef128a:
 
     # mc "Oh, wow! Thank you! I-"
-    mc "¡Oh, vaya! ¡Gracias! I-"
+    mc "¡Oh, vaya! ¡Gracias! Yo-"
 
 # game/code/e09/e09s06.rpy:257
 translate spanish e09s06_53c5b8d7:
@@ -938,7 +938,7 @@ translate spanish e09s06_part_2_a2228166:
 translate spanish e09s06_part_2_eefd4697:
 
     # arj "That's true, but do Stacy and I look worried?"
-    arj "Eso es cierto, pero ¿Stacy y yo parecemos preocupados?"
+    arj "Eso es cierto, pero ¿Stacy y yo parecemos preocupadas?"
 
 # game/code/e09/e09s06.rpy:289
 translate spanish e09s06_part_2_ba993c2c:
@@ -950,7 +950,7 @@ translate spanish e09s06_part_2_ba993c2c:
 translate spanish e09s06_part_2_3685004b:
 
     # arj "Well, we're not, so you've got nothing to worry about."
-    arj "Bueno, no lo somos, así que no tienes nada de qué preocuparte."
+    arj "Bueno, no lo estamos, así que no tienes nada de qué preocuparte."
 
 # game/code/e09/e09s06.rpy:293
 translate spanish e09s06_part_2_4b7cf689:
@@ -992,7 +992,7 @@ translate spanish e09s06_kb_cb_559e5307:
 translate spanish e09s06_kb_cb_2cef4bc3:
 
     # mc "True! Can't imagine a Fetish Locator Party without you, man!"
-    mc "¡Verdadero! ¡No puedo imaginar una fiesta de Fetish Locator sin ti, hombre!"
+    mc "¡Cierto! ¡No puedo imaginar una fiesta del Localizador de Fetiches sin ti, hombre!"
 
 # game/code/e09/e09s06.rpy:332
 translate spanish e09s06_kb_cb_ee784c1f:
@@ -1010,7 +1010,7 @@ translate spanish e09s06_kb_cb_9866b01e:
 translate spanish e09s06_kb_cb_511d798e:
 
     # mc "It's good to see you, Chloe!"
-    mc "¡Qué bueno verte, Cloe!"
+    mc "¡Qué bueno verte, Chloe!"
 
 # game/code/e09/e09s06.rpy:336
 translate spanish e09s06_kb_cb_9deac059:
@@ -1022,13 +1022,13 @@ translate spanish e09s06_kb_cb_9deac059:
 translate spanish e09s06_kb_cb_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "¿Oh?"
 
 # game/code/e09/e09s06.rpy:340
 translate spanish e09s06_kb_cb_a9491a1b:
 
     # cb "You know, after last time... I'm happy to see you again."
-    cb "Sabes, después de la última vez... estoy feliz de verte de nuevo."
+    cb "Sabes, después de la última vez... estoy feliz de verlos de nuevo."
 
 # game/code/e09/e09s06.rpy:342
 translate spanish e09s06_kb_cb_1b59afce:
@@ -1058,19 +1058,19 @@ translate spanish e09s06_kb_cb_f365b6cd:
 translate spanish e09s06_kb_cb_5bc7523c:
 
     # mc "Well, I'm happy you both can make it."
-    mc "Bueno, estoy feliz de que ambos puedan asistir."
+    mc "Bueno, estoy feliz de que los dos pudieran asistir."
 
 # game/code/e09/e09s06.rpy:351
 translate spanish e09s06_kb_cb_ff6a782d:
 
     # mc "Oh, I've been meaning to ask you! When are you two leaving for the big day?"
-    mc "¡Oh, tenía ganas de preguntarte! ¿Cuándo se van ustedes dos para el gran día?"
+    mc "¡Oh, quería preguntarles! ¿Cuándo se van para el gran día?"
 
 # game/code/e09/e09s06.rpy:352
 translate spanish e09s06_kb_cb_b1646c6f:
 
     # kb "We actually just got our tickets this morning!"
-    kb "¡De hecho, acabamos de recibir nuestras entradas esta mañana!"
+    kb "¡De hecho, acabamos de recibir nuestros boletos esta mañana!"
 
 # game/code/e09/e09s06.rpy:354
 translate spanish e09s06_kb_cb_02be20d2:
@@ -1112,7 +1112,7 @@ translate spanish e09s06_kb_cb_cdc9669d:
 translate spanish e09s06_kb_cb_eb8df0c8:
 
     # mc "How long are you two planning on being gone?"
-    mc "¿Cuánto tiempo planean estar fuera ustedes dos?"
+    mc "¿Cuánto tiempo planean estar fuera?"
 
 # game/code/e09/e09s06.rpy:364
 translate spanish e09s06_kb_cb_bd7cd95b:
@@ -1130,7 +1130,7 @@ translate spanish e09s06_kb_cb_d2f20cb6:
 translate spanish e09s06_kb_cb_147f9810:
 
     # cb "It is! We both can't wait."
-    cb "¡Es! Ambos no podemos esperar."
+    cb "¡Así es! Los dos estamos impacientes."
 
 # game/code/e09/e09s06.rpy:369
 translate spanish e09s06_kb_cb_503243e5:
@@ -1142,7 +1142,7 @@ translate spanish e09s06_kb_cb_503243e5:
 translate spanish e09s06_kb_cb_fd29c83b:
 
     # mc "Well you're in the right place!"
-    mc "¡Pues estás en el lugar correcto!"
+    mc "¡Pues están en el lugar correcto!"
 
 # game/code/e09/e09s06.rpy:371
 translate spanish e09s06_kb_cb_83b8d1b8:
@@ -1160,13 +1160,13 @@ translate spanish e09s06_kb_cb_03afeafd:
 translate spanish e09s06_kb_cb_ccccee20:
 
     # cb "We'll {i}definitely{/i} see you later!"
-    cb "¡Nos {i}definitivamente{/i} nos vemos más tarde!"
+    cb "¡{i}Definitivamente{/i} nos vemos más tarde!"
 
 # game/code/e09/e09s06.rpy:386
 translate spanish e09s06_ah_tr_160f0cff:
 
     # mc "Aleyah! What a pleasant surprise!"
-    mc "¡Aleyah! ¡Qué agradable sorpresa!"
+    mc "¡Aaleyah! ¡Qué agradable sorpresa!"
 
 # game/code/e09/e09s06.rpy:387
 translate spanish e09s06_ah_tr_6bd3d9c1:
@@ -1178,7 +1178,7 @@ translate spanish e09s06_ah_tr_6bd3d9c1:
 translate spanish e09s06_ah_tr_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh?"
+    mc "¿Oh?"
 
 # game/code/e09/e09s06.rpy:390
 translate spanish e09s06_ah_tr_4a058a88:
@@ -1196,7 +1196,7 @@ translate spanish e09s06_ah_tr_ea27b8f0:
 translate spanish e09s06_ah_tr_7ce86ad5:
 
     # ah "Mmmmmhmmmmm... It's a very {i}fond{/i} memory for me."
-    ah "Mmmmmhmmmmm... Es un recuerdo muy {i}cariñoso{/i} para mí."
+    ah "Mmmmmhmmmmm... Es un recuerdo muy {i}bonito{/i} para mí."
 
 # game/code/e09/e09s06.rpy:394
 translate spanish e09s06_ah_tr_7dc1228a:
@@ -1214,7 +1214,7 @@ translate spanish e09s06_ah_tr_d6fd3d27:
 translate spanish e09s06_ah_tr_b5b52c1a:
 
     # mc "Hey, Aleyah!"
-    mc "¡Hola, Aleya!"
+    mc "¡Hola, Aaleyah!"
 
 # game/code/e09/e09s06.rpy:399
 translate spanish e09s06_ah_tr_b5a6b9cd:
@@ -1262,7 +1262,7 @@ translate spanish e09s06_ah_tr_da42b7f5:
 translate spanish e09s06_ah_tr_4892890b:
 
     # mc "What's up with Aleyah?"
-    mc "¿Qué pasa con Aleyah?"
+    mc "¿Qué pasa con Aaleyah?"
 
 # game/code/e09/e09s06.rpy:412
 translate spanish e09s06_ah_tr_e89c876a:
@@ -1274,13 +1274,13 @@ translate spanish e09s06_ah_tr_e89c876a:
 translate spanish e09s06_ah_tr_eaa8ee47:
 
     # mc "About what?"
-    mc "¿Acerca de?"
+    mc "¿Sobre qué?"
 
 # game/code/e09/e09s06.rpy:415
 translate spanish e09s06_ah_tr_c2c6a2fd:
 
     # tr "She decided to transfer schools."
-    tr "Ella decidió transferirse de escuela."
+    tr "Ella decidió cambiar de universidad."
 
 # game/code/e09/e09s06.rpy:417
 translate spanish e09s06_ah_tr_9ab85d26:
@@ -1292,7 +1292,7 @@ translate spanish e09s06_ah_tr_9ab85d26:
 translate spanish e09s06_ah_tr_b39889e6:
 
     # tr "Uh huh... she's actually going to be going to the same school as that super hot chick that's here."
-    tr "Uh huh... en realidad irá a la misma escuela que esa chica súper sexy que está aquí."
+    tr "Uh huh... en realidad irá a la misma universidad que esa chica súper sexy que está aquí."
 
 # game/code/e09/e09s06.rpy:420
 translate spanish e09s06_ah_tr_7ccc0e2d:
@@ -1304,13 +1304,13 @@ translate spanish e09s06_ah_tr_7ccc0e2d:
 translate spanish e09s06_ah_tr_92cc02e3:
 
     # tr "Uhm... her name is... France? I think?"
-    tr "Uhm... su nombre es... ¿Francia? ¿Creo?"
+    tr "Uhm... su nombre es... ¿France? ¿Creo?"
 
 # game/code/e09/e09s06.rpy:422
 translate spanish e09s06_ah_tr_0ba9643b:
 
     # mc "Do you mean Londyn?"
-    mc "¿Te refieres a Londres?"
+    mc "¿Te refieres a Londyn?"
 
 # game/code/e09/e09s06.rpy:424
 translate spanish e09s06_ah_tr_3bb82cff:
@@ -1328,7 +1328,7 @@ translate spanish e09s06_ah_tr_e5b6ebc4:
 translate spanish e09s06_ah_tr_1d819de4:
 
     # tr "What do you mean 'spelled her name wrong'?"
-    tr "¿Qué quieres decir con \"escribió mal su nombre\"?"
+    tr "¿Qué quieres decir con que \"escribí mal su nombre\"?"
 
 # game/code/e09/e09s06.rpy:428
 translate spanish e09s06_ah_tr_658994d8:
@@ -1340,7 +1340,7 @@ translate spanish e09s06_ah_tr_658994d8:
 translate spanish e09s06_ah_tr_805b4b2a:
 
     # tr "But yeah, she decided that she's moving and I don't know if our relationship will survive long distance. But I'm willing to give it a shot."
-    tr "Pero sí, ella decidió que se mudará y no sé si nuestra relación sobrevivirá a la larga distancia. Pero estoy dispuesto a intentarlo."
+    tr "Pero sí, ella decidió que se mudaba y no sé si nuestra relación sobrevivirá a larga distancia. Pero estoy dispuesto a intentarlo."
 
 # game/code/e09/e09s06.rpy:431
 translate spanish e09s06_ah_tr_503d6bd1:
@@ -1352,7 +1352,7 @@ translate spanish e09s06_ah_tr_503d6bd1:
 translate spanish e09s06_ah_tr_45e779d9:
 
     # tr "Anyways, man, appreciate the party! I'm looking forward to having some sex with some women!"
-    tr "De todos modos, hombre, ¡aprecia la fiesta! ¡Tengo muchas ganas de tener sexo con algunas mujeres!"
+    tr "De todos modos, hombre, ¡agradezco la fiesta! ¡Tengo muchas ganas de tener sexo con algunas mujeres!"
 
 # game/code/e09/e09s06.rpy:434
 translate spanish e09s06_ah_tr_7689727d:
@@ -1364,7 +1364,7 @@ translate spanish e09s06_ah_tr_7689727d:
 translate spanish e09s06_ah_tr_c2272e22:
 
     # tr "As long as it's not Aleyah."
-    tr "Siempre y cuando no sea Aleyah."
+    tr "Siempre y cuando no sea Aaleyah."
 
 # game/code/e09/e09s06.rpy:437
 translate spanish e09s06_ah_tr_633a35b2:
@@ -1388,7 +1388,7 @@ translate spanish e09s06_jdg_c146a708:
 translate spanish e09s06_jdg_38641e87:
 
     # jdg "Evening, [mcname]."
-    jdg "Tarde, [mcname]."
+    jdg "Buenas tardes, [mcname]."
 
 # game/code/e09/e09s06.rpy:453
 translate spanish e09s06_jdg_863c4740:
@@ -1400,7 +1400,7 @@ translate spanish e09s06_jdg_863c4740:
 translate spanish e09s06_jdg_2aed7fe2:
 
     # mh "Perfect timing. I was just about to refresh our drinks. Mind keeping the Judge company while I'm gone?"
-    mh "Momento perfecto. Estaba a punto de refrescar nuestras bebidas. ¿Te importaría hacerle compañía al juez mientras estoy fuera?"
+    mh "Es el momento perfecto. Estaba a punto de refrescar nuestras bebidas. ¿Te importaría hacerle compañía a la jueza mientras estoy fuera?"
 
 # game/code/e09/e09s06.rpy:456
 translate spanish e09s06_jdg_caa62c4f:
@@ -1418,19 +1418,19 @@ translate spanish e09s06_jdg_eacf281f:
 translate spanish e09s06_jdg_4d8a096e:
 
     # jdg "Mmmm, and why's that?"
-    jdg "Mmmm y ¿por qué?"
+    jdg "Mmmm, y ¿por qué?"
 
 # game/code/e09/e09s06.rpy:463
 translate spanish e09s06_jdg_78355d40:
 
     # mc "Well, this is your first Fetish Locator party, isn't it?"
-    mc "Bueno, esta es tu primera fiesta de Fetish Locator, ¿no?"
+    mc "Bueno, esta es tu primera fiesta del Localizador de Fetiches, ¿no?"
 
 # game/code/e09/e09s06.rpy:464
 translate spanish e09s06_jdg_3909457a:
 
     # jdg "It is!"
-    jdg "¡Es!"
+    jdg "¡Lo es!"
 
 # game/code/e09/e09s06.rpy:466
 translate spanish e09s06_jdg_775ae4d9:
@@ -1448,7 +1448,7 @@ translate spanish e09s06_jdg_f0f31325:
 translate spanish e09s06_jdg_ff380beb:
 
     # mc "Yep, that stuff. Especially with how familiar you are with the court case surrounding the... former owner."
-    mc "Sí, esas cosas. Especialmente por lo familiarizado que está con el caso judicial que rodea al... antiguo propietario."
+    mc "Sí, esas cosas. Especialmente por lo familiarizada que está con el caso judicial que rodea al... antiguo propietario."
 
 # game/code/e09/e09s06.rpy:470
 translate spanish e09s06_jdg_621b9218:
@@ -1472,13 +1472,13 @@ translate spanish e09s06_jdg_8075e0c3:
 translate spanish e09s06_jdg_459aacbf:
 
     # mc "I don't think-"
-    mc "No creo-"
+    mc "No creo..."
 
 # game/code/e09/e09s06.rpy:476
 translate spanish e09s06_jdg_95d8cfbf:
 
     # jdg "Not my usual thing, of course, but I think I could get a good, rough fucking here."
-    jdg "No es lo habitual, por supuesto, pero creo que aquí podría tener un buen polvo."
+    jdg "No es lo habitual, por supuesto, pero creo que aquí podría tener un buen sexo."
 
 # game/code/e09/e09s06.rpy:477
 translate spanish e09s06_jdg_addefb19:
@@ -1502,13 +1502,13 @@ translate spanish e09s06_jdg_51c6de4f:
 translate spanish e09s06_jdg_780ec885:
 
     # jdg "I can imagine it, you, with your nice hard cock... fucking me. Mercilessly. Your shaft disappearing into my asshole."
-    jdg "Me lo imagino, tú, con tu bonita y dura polla... follándome. Sin piedad. Tu eje desaparece en mi culo."
+    jdg "Me lo imagino, tú, con tu bonita y dura polla... follándome sin piedad. Tu eje desapareciendo en mi culo."
 
 # game/code/e09/e09s06.rpy:483
 translate spanish e09s06_jdg_2480c9fe:
 
     # jdg "Pounding into me, harder, and harder... it hurts, but hurts {i}so good...{/i} Your balls slapping into me as you jackhammer your dick, cumming inside my asshole, filling me up-"
-    jdg "Golpeando dentro de mí, cada vez más fuerte... duele, pero duele {i}tan bien...{/i} Tus pelotas me golpean mientras golpeas tu polla con un martillo neumático, corriéndote dentro de mi culo, llenándome."
+    jdg "Golpeándome, cada vez más fuerte... duele, pero duele {i}tan bien...{/i} Tus pelotas golpeándome mientras martilleas tu polla, corriéndote dentro de mi culo, llenándome..."
 
 # game/code/e09/e09s06.rpy:487
 translate spanish e09s06_jdg_10bafb80:
@@ -1520,19 +1520,19 @@ translate spanish e09s06_jdg_10bafb80:
 translate spanish e09s06_jdg_067c67a3:
 
     # jdg "Oh no! Not at all!"
-    jdg "¡Oh, no! ¡De nada!"
+    jdg "¡Oh, no! ¡Para nada!"
 
 # game/code/e09/e09s06.rpy:490
 translate spanish e09s06_jdg_8bd74ac0:
 
     # mc "Nope, definitely not interrupting, at all."
-    mc "No, definitivamente no interrumpo, en absoluto."
+    mc "No, definitivamente no interrumpes, en absoluto."
 
 # game/code/e09/e09s06.rpy:491
 translate spanish e09s06_jdg_4911accd:
 
     # mh "Good! Here is your drink, Judge."
-    mh "¡Bien! Aquí está su bebida, juez."
+    mh "¡Bien! Aquí está su bebida, jueza."
 
 # game/code/e09/e09s06.rpy:493
 translate spanish e09s06_jdg_7422259f:
@@ -1544,7 +1544,7 @@ translate spanish e09s06_jdg_7422259f:
 translate spanish e09s06_jdg_abada4c3:
 
     # mc "Well, I hate to leave you two, but there are more guests to attend to."
-    mc "Bueno, lamento tener que dejarlos a ustedes dos, pero hay más invitados que atender."
+    mc "Bueno, lamento tener que dejarlas a ustedes dos, pero hay más invitados que atender."
 
 # game/code/e09/e09s06.rpy:496
 translate spanish e09s06_jdg_a5f365d6:
@@ -1568,13 +1568,13 @@ translate spanish e09s06_tm_b12d888a:
 translate spanish e09s06_tm_cbd16d86:
 
     # mc "Uh huh. That one was pretty wild, right?"
-    mc "Ajá. Ese fue bastante salvaje, ¿verdad?"
+    mc "Ajá. Esa fue bastante salvaje, ¿verdad?"
 
 # game/code/e09/e09s06.rpy:511
 translate spanish e09s06_tm_8f2b5929:
 
     # tm "It was... that it was."
-    tm "Fue... que fue."
+    tm "Lo fue."
 
 # game/code/e09/e09s06.rpy:513
 translate spanish e09s06_tm_364879f6:
@@ -1610,7 +1610,7 @@ translate spanish e09s06_tm_193f5899:
 translate spanish e09s06_tm_e047694a:
 
     # tm "Lydia's trial."
-    tm "El juicio de Lidia."
+    tm "El juicio de Lydia."
 
 # game/code/e09/e09s06.rpy:521
 translate spanish e09s06_tm_529bb5d0:
@@ -1676,13 +1676,13 @@ translate spanish e09s06_tm_d710b762:
 translate spanish e09s06_tm_877b9750:
 
     # tm "I... I know I was sounding a little stand offish, it's just kind of been a long summer... But I do think it's super cool what you're doing with Fetish Locator Rebooted."
-    tm "Yo... sé que sonaba un poco distante, simplemente ha sido un verano largo... Pero creo que es genial lo que estás haciendo con Fetish Locator Rebooted."
+    tm "Yo... sé que sonaba un poco distante, simplemente ha sido un verano largo... Pero creo que es genial lo que estás haciendo con el Localizador de Fetiches Reiniciado."
 
 # game/code/e09/e09s06.rpy:538
 translate spanish e09s06_tm_582c892d:
 
     # mc "Thank you, Talia."
-    mc "Gracias Talía."
+    mc "Gracias, Talía."
 
 # game/code/e09/e09s06.rpy:539
 translate spanish e09s06_tm_eb3ab090:
@@ -1736,19 +1736,19 @@ translate spanish e09s06_part_2_continue_48f637de:
 translate spanish e09s06_part_2_continue_39c1a8e4:
 
     # mct "Well... here goes nothing!"
-    mct "Bueno... ¡aquí va nada!"
+    mct "Bueno... ¡ahora o nunca!"
 
 # game/code/e09/e09s06.rpy:569
 translate spanish e09s06_part_3_8baf4c74:
 
     # arj "Good evening, everyone! Thank you so much for coming out to the first ever party for Fetish Locator Rebooted!"
-    arj "¡Buenas noches a todos! ¡Muchas gracias por asistir a la primera fiesta de Fetish Locator Rebooted!"
+    arj "¡Buenas noches a todos! ¡Muchas gracias por asistir a la primera fiesta del Localizador de Fetiches Reiniciado!"
 
 # game/code/e09/e09s06.rpy:570
 translate spanish e09s06_part_3_0e9501a9:
 
     # "Everyone" "WOOOOOOOO!!!"
-    "Todos" "¡¡¡GUAOOOOOO!!!"
+    "Todos" "¡¡¡WOOOOOOOO!!!"
 
 # game/code/e09/e09s06.rpy:572
 translate spanish e09s06_part_3_7cf3bb31:
@@ -1778,7 +1778,7 @@ translate spanish e09s06_part_3_b00fea3e:
 translate spanish e09s06_part_3_9ff67e19:
 
     # sy "And tonight, a special few of you are going to have the chance to have some fun with him! Right here, right now!"
-    sy "¡Y esta noche, algunos de ustedes tendrán la oportunidad de divertirse con él! ¡Aquí mismo, ahora mismo!"
+    sy "Y esta noche, unos pocos tendrán la oportunidad de divertirse con él. ¡Aquí y ahora!"
 
 # game/code/e09/e09s06.rpy:580
 translate spanish e09s06_part_3_f95e14cf:
@@ -1796,7 +1796,7 @@ translate spanish e09s06_part_3_10b41a72:
 translate spanish e09s06_part_3_409f0fd3:
 
     # sy "So the way the auction will work, is that you can start screaming out donations - we're looking to raise $10,000."
-    sy "Entonces, la forma en que funcionará la subasta es que puedes comenzar a gritar donaciones: estamos buscando recaudar $10,000."
+    sy "La subasta funcionará de la siguiente manera: puedes empezar a hacer donativos gritando... queremos recaudar $10.000."
 
 # game/code/e09/e09s06.rpy:584
 translate spanish e09s06_part_3_3e7699cb:
@@ -1814,7 +1814,7 @@ translate spanish e09s06_part_3_c23e08a6:
 translate spanish e09s06_part_3_7bdb3618:
 
     # sy "But only if we reach our goal. If we don't... than our poor stud will only have himself to play with tonight."
-    sy "Pero sólo si alcanzamos nuestro objetivo. Si no lo hacemos... entonces nuestro pobre semental sólo tendrá él mismo para jugar esta noche."
+    sy "Pero sólo si alcanzamos nuestro objetivo. Si no lo hacemos... entonces nuestro pobre semental sólo se tendrá a sí mismo para jugar esta noche."
 
 # game/code/e09/e09s06.rpy:590
 translate spanish e09s06_part_3_800302ad:
@@ -1838,7 +1838,7 @@ translate spanish e09s06_part_3_8e3a1c1b:
 translate spanish e09s06_part_3_e001556b:
 
     # mct "Is Fetish Locator Rebooted really going to die before it even gets a chance to live?"
-    mct "¿Fetish Locator Rebooted realmente va a morir antes de tener la oportunidad de vivir?"
+    mct "¿El Localizador de Fetiches Reiniciado realmente va a morir antes de tener la oportunidad de vivir?"
 
 # game/code/e09/e09s06.rpy:598
 translate spanish e09s06_part_3_2ae4ccc2:
@@ -1850,7 +1850,7 @@ translate spanish e09s06_part_3_2ae4ccc2:
 translate spanish e09s06_part_3_15edbe28:
 
     # mct "Wait! Who said that!?"
-    mct "¡Esperar! ¿Quién dijo eso?"
+    mct "¡Espera! ¿Quién dijo eso?"
 
 # game/code/e09/e09s06.rpy:601
 translate spanish e09s06_part_3_501684c1:
@@ -1862,7 +1862,7 @@ translate spanish e09s06_part_3_501684c1:
 translate spanish e09s06_part_3_49e0b9aa:
 
     # hr "And I'll match her bid!"
-    hr "¡Y igualaré su oferta!"
+    hr "¡Igualaré su oferta!"
 
 # game/code/e09/e09s06.rpy:604
 translate spanish e09s06_part_3_153719a7:
@@ -1874,25 +1874,25 @@ translate spanish e09s06_part_3_153719a7:
 translate spanish e09s06_part_3_8b38a9a0:
 
     # sy "Come on, don't be shy! We all want a chance to fuck [mcname] tonight!"
-    sy "¡Vamos, no seas tímido! ¡Todos queremos tener la oportunidad de follar [mcname] esta noche!"
+    sy "¡Vamos, no seas tímidos! ¡Todos queremos tener la oportunidad de follar [mcname] esta noche!"
 
 # game/code/e09/e09s06.rpy:607
 translate spanish e09s06_part_3_61eaed39:
 
     # cb "$400!"
-    cb "$400!"
+    cb "¡$400!"
 
 # game/code/e09/e09s06.rpy:608
 translate spanish e09s06_part_3_a4f948ee:
 
     # kb "$200!"
-    kb "$200!"
+    kb "¡$200!"
 
 # game/code/e09/e09s06.rpy:610
 translate spanish e09s06_part_3_e856ac3e:
 
     # tm "$100!"
-    tm "¡¡$100!"
+    tm "¡$100!"
 
 # game/code/e09/e09s06.rpy:611
 translate spanish e09s06_part_3_8771642b:
@@ -1928,7 +1928,7 @@ translate spanish e09s06_part_3_0ae3f307:
 translate spanish e09s06_part_3_b2aa17db:
 
     # tr "I-... Yeah..."
-    tr "Yo-... Sí..."
+    tr "Yo... Sí..."
 
 # game/code/e09/e09s06.rpy:620
 translate spanish e09s06_part_3_75836a6e:
@@ -1940,19 +1940,19 @@ translate spanish e09s06_part_3_75836a6e:
 translate spanish e09s06_part_3_9af50e64:
 
     # arj "Wow! Thank you... Whoever just bid a thousand!"
-    arj "¡Guau! Gracias... ¡Quien acaba de ofertar mil!"
+    arj "¡Guau! Gracias... ¡Quién acaba de ofertar mil!"
 
 # game/code/e09/e09s06.rpy:622
 translate spanish e09s06_part_3_6debc8be:
 
     # sy "Yeah! Who is our highest bidder so far?"
-    sy "¡Sí! ¿Quién es nuestro mejor postor hasta ahora?"
+    sy "¡Sí! ¿Quién es nuestro mejor ofertante hasta ahora?"
 
 # game/code/e09/e09s06.rpy:624
 translate spanish e09s06_part_3_16353084:
 
     # cl "That would be me."
-    cl "Ese sería yo."
+    cl "Esa sería yo."
 
 # game/code/e09/e09s06.rpy:625
 translate spanish e09s06_part_3_8b6b0684:
@@ -1964,7 +1964,7 @@ translate spanish e09s06_part_3_8b6b0684:
 translate spanish e09s06_part_3_174c8f52:
 
     # aw "$500!!"
-    aw "$500!!"
+    aw "¡¡$500!!"
 
 # game/code/e09/e09s06.rpy:628
 translate spanish e09s06_part_3_4721c4f7:
@@ -2048,13 +2048,13 @@ translate spanish e09s06_part_3_52dae0d4:
 translate spanish e09s06_part_3_96e75245:
 
     # sy "Going once?"
-    sy "¿Ir una vez?"
+    sy "¿Se va a la una?"
 
 # game/code/e09/e09s06.rpy:648
 translate spanish e09s06_part_3_67b0897c:
 
     # arj "Twice?"
-    arj "¿Dos veces?"
+    arj "¿A las dos?"
 
 # game/code/e09/e09s06.rpy:649
 translate spanish e09s06_part_3_e3430734:
@@ -2126,7 +2126,7 @@ translate spanish e09s06_part_3_4a8f1473:
 translate spanish e09s06_part_3_41ecc1f0:
 
     # arj "I think it's only fair that Londyn and Hana start off the festivities, as they were the first to bid!"
-    arj "Creo que es justo que Londyn y Hana comiencen las festividades, ¡ya que fueron los primeros en ofertar!"
+    arj "Creo que es justo que Londyn y Hana comiencen las festividades, ¡ya que fueron las primeras en ofertar!"
 
 # game/code/e09/e09s06.rpy:668
 translate spanish e09s06_part_3_12ccb7bd:
@@ -2145,7 +2145,7 @@ translate spanish strings:
     new "Habla con Kevin y Chloe"
 
     # game/code/e09/e09s06.rpy:305
-    old "Talk to Aaleyah and Tyrell"
+    old "Talk to Aleyah and Tyrell"
     new "Habla con Aleyah y Tyrell"
 
     # game/code/e09/e09s06.rpy:305
@@ -2164,5 +2164,5 @@ translate spanish strings:
 translate spanish e09s06_part_3_f20e6459:
 
     # sy "If we raise enough money to reach our goal, then everyone who donated will get a chance to come up here and have some fun with [mcname]!"
-    sy "If we raise enough money to reach our goal, then everyone who donated will get a chance to come up here and have some fun with [mcname]!"
+    sy "Si recaudamos lo suficiente para alcanzar nuestro objetivo, todos los donantes tendrán la oportunidad de subir aquí y divertirse con [mcname]."
 

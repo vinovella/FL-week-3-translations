@@ -1225,3 +1225,4 @@ translate turkish strings:
     # renpy/common/00updater.rpy:2090
     old "Retry"
     new "Yeniden Dene"
+
