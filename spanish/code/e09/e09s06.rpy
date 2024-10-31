@@ -2134,6 +2134,12 @@ translate spanish e09s06_part_3_12ccb7bd:
     # sy "Sounds fair to me!"
     sy "¡Me parece justo!"
 
+# game/code/e09/e09s06.rpy:586
+translate spanish e09s06_part_3_f20e6459:
+
+    # sy "If we raise enough money to reach our goal, then everyone who donated will get a chance to come up here and have some fun with [mcname]!"
+    sy "Si recaudamos lo suficiente para alcanzar nuestro objetivo, todos los donantes tendrán la oportunidad de subir aquí y divertirse con [mcname]."
+
 translate spanish strings:
 
     # game/code/e09/e09s06.rpy:9
@@ -2145,8 +2151,8 @@ translate spanish strings:
     new "Habla con Kevin y Chloe"
 
     # game/code/e09/e09s06.rpy:305
-    old "Talk to Aleyah and Tyrell"
-    new "Habla con Aleyah y Tyrell"
+    old "Talk to Aaleyah and Tyrell"
+    new "Habla con Aaleyah y Tyrell"
 
     # game/code/e09/e09s06.rpy:305
     old "Talk to the Judge"
@@ -2159,10 +2165,4 @@ translate spanish strings:
     # game/code/e09/e09s06.rpy:305
     old "Get ready for the main event"
     new "Prepárate para el evento principal"
-
-# game/code/e09/e09s06.rpy:586
-translate spanish e09s06_part_3_f20e6459:
-
-    # sy "If we raise enough money to reach our goal, then everyone who donated will get a chance to come up here and have some fun with [mcname]!"
-    sy "Si recaudamos lo suficiente para alcanzar nuestro objetivo, todos los donantes tendrán la oportunidad de subir aquí y divertirse con [mcname]."
 
