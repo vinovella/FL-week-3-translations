@@ -248,57 +248,57 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:1307
     old "Sync your saves using Ren'Py Sync server"
-    new "Sync your saves using Ren'Py Sync server"
+    new "Sincroniza tus archivos de guardado con el servidor de sincronización de Ren'Py"
 
     # game/code/screens/screens_fl.rpy:1309
     old "Upload Saves"
-    new "Upload Saves"
+    new "Cargar archivos guardados"
 
     # game/code/screens/screens_fl.rpy:1310
     old "Download Saves"
-    new "Download Saves"
+    new "Descargar archivos guardados"
 
 translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:285
     old "Touch input supported"
-    new "Touch input supported"
+    new "Compatible con entrada táctil"
 
     # game/code/screens/screens_fl.rpy:286
     old "Navigation"
-    new "Navigation"
+    new "Navegación"
 
     # game/code/screens/screens_fl.rpy:287
     old "Pause Menu"
-    new "Pause Menu"
+    new "Menú de pausa"
 
     # game/code/screens/screens_fl.rpy:288
     old "Quick Save"
-    new "Quick Save"
+    new "Guardado rápido"
 
     # game/code/screens/screens_fl.rpy:290
     old "Roll Back"
-    new "Roll Back"
+    new "Retroceder"
 
     # game/code/screens/screens_fl.rpy:293
     old "{b}A{/b} - Select"
-    new "{b}A{/b} - Select"
+    new "{b}A{/b} - Seleccionar"
 
     # game/code/screens/screens_fl.rpy:294
     old "{b}B{/b} - Go Back"
-    new "{b}B{/b} - Go Back"
+    new "{b}B{/b} - Regresar"
 
     # game/code/screens/screens_fl.rpy:295
     old "{b}X{/b} - Skip"
-    new "{b}X{/b} - Skip"
+    new "{b}X{/b} - Saltar"
 
     # game/code/screens/screens_fl.rpy:296
     old "{b}Y{/b} - Hide UI"
-    new "{b}Y{/b} - Hide UI"
+    new "{b}Y{/b} - Ocultar interfaz de usuario"
 
     # game/code/screens/screens_fl.rpy:297
     old "Roll Forward"
-    new "Roll Forward"
+    new "Avanzar"
 
     # game/code/screens/screens_fl.rpy:300
     old "You can find this layout in the {b}Help{/b} menu"
@@ -306,9 +306,9 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:302
     old "CLOSE"
-    new "CLOSE"
+    new "CERRAR"
 
     # game/code/screens/screens_fl.rpy:1394
     old "{u}Get Taboo University Book 1 on Steam{/u}"
-    new "{u}Get Taboo University Book 1 on Steam{/u}"
+    new "{u}Consigue Taboo University Libro 1 en Steam{/u}"
 
