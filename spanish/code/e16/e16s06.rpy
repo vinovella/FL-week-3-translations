@@ -1280,23 +1280,23 @@ translate spanish strings:
 translate spanish e16s06_sex_ba37d53b:
 
     # kk "Come on. You can go harder than that. I'm not a gentle little maiden, [mcname]."
-    kk "Come on. You can go harder than that. I'm not a gentle little maiden, [mcname]."
+    kk "Vamos. Puedes ir más fuerte que eso. No soy una gentil doncella, [mcname]."
 
 # game/code/e16/e16s06.rpy:371
 translate spanish e16s06_sex_e8902fa0:
 
     # mc "Mind if... never mind."
-    mc "Mind if... never mind."
+    mc "Me importaría si... no importa."
 
 # game/code/e16/e16s06.rpy:455
 translate spanish e16s06_sex_6fa26231:
 
     # mct "And Kristin might be the best yet!"
-    mct "And Kristin might be the best yet!"
+    mct "¡Y Kristin podría ser la mejor hasta ahora!"
 
 # game/code/e16/e16s06.rpy:480
 translate spanish e16s06_sex_4c2a54d1:
 
     # kk "I hope my udders are to your liking, [mcname]."
-    kk "I hope my udders are to your liking, [mcname]."
+    kk "Espero que mis ubres sean de tu agrado, [mcname]."
 
