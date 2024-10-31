@@ -142,13 +142,13 @@ translate spanish strings:
 
     # game/code/screens/lovense.rpy:27
     old "1. Click on the \"Discover\" tab"
-    new "1. Click on the \"Discover\" tab"
+    new "1. Haga clic en la pestaña \"Descubrir\""
 
     # game/code/screens/lovense.rpy:28
     old "2. Then click on \"Game Mode\" option"
-    new "2. Then click on \"Game Mode\" option"
+    new "2. A continuación, haga clic en la opción \"Modo de juego\""
 
     # game/code/screens/lovense.rpy:36
     old "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
-    new "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+    new "4. Introduzca la \"IP local\" y el \"puerto\" que aparecen en la aplicación y haga clic en Conectar."
 
