@@ -1226,17 +1226,17 @@ translate spanish e16s07_e95b86db:
 translate spanish e16s07_fc3e6a94:
 
     # mc "We should have won in court anyhow. This way, we just saved a lot of time and money."
-    mc "We should have won in court anyhow. This way, we just saved a lot of time and money."
+    mc "De todos modos, habríamos ganado en los tribunales. De este modo, nos ahorramos mucho tiempo y dinero."
 
 # game/code/e16/e16s07.rpy:314
 translate spanish e16s07_sex_429eedb3:
 
     # mc "You sure it's okay to have a little fun?"
-    mc "You sure it's okay to have a little fun?"
+    mc "¿Estás de acuerdo en divertirte un poco?"
 
 # game/code/e16/e16s07.rpy:811
 translate spanish e16s07_sex_ba643ad9:
 
     # mc "No matter what happens, no matter how big this place gets, you know you'll always be my first duty."
-    mc "No matter what happens, no matter how big this place gets, you know you'll always be my first duty."
+    mc "No importa lo que pase, no importa lo grande que se haga este lugar, sabes que siempre serás mi primera obligación."
 
