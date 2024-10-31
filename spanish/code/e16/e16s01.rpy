@@ -774,29 +774,29 @@ translate spanish strings:
 translate spanish e16s01_1b15151c:
 
     # jf "The last time I was just a kid, here for some relative's birthday party..."
-    jf "The last time I was just a kid, here for some relative's birthday party..."
+    jf "La última vez era sólo una niña, aquí para la fiesta de cumpleaños de algún pariente..."
 
 # game/code/e16/e16s01.rpy:458
 translate spanish e16s01_sex_2abc2dc8:
 
     # mc "Good girl, Molly."
-    mc "Good girl, Molly."
+    mc "Buena chica, Molly."
 
 # game/code/e16/e16s01.rpy:500
 translate spanish e16s01_sex_79de7289:
 
     # mc "Come here."
-    mc "Come here."
+    mc "Ven aquí."
 
 # game/code/e16/e16s01.rpy:552
 translate spanish e16s01_sex_eb3d3767:
 
     # mct "Fuck. She's getting so tight. She really loves it when she's just my pet to fuck and play with!"
-    mct "Fuck. She's getting so tight. She really loves it when she's just my pet to fuck and play with!"
+    mct "Joder. Se está poniendo tan apretada. ¡Le encanta cuando es mi mascota para follar y jugar con ella!"
 
 # game/code/e16/e16s01.rpy:600
 translate spanish e16s01_sex_4c88d238:
 
     # jf "Yes. Come over here... I'm ready to go on another ride!"
-    jf "Yes. Come over here... I'm ready to go on another ride!"
+    jf "Sí. Ven aquí... ¡Estoy lista para otro paseo!"
 
