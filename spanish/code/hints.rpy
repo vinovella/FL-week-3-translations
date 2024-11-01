@@ -1454,25 +1454,25 @@ translate spanish strings:
 
     # game/code/hints.rpy:5
     old "Lyssa will fuck you in the ass."
-    new "Lyssa will fuck you in the ass."
+    new "Lyssa te follará por el culo."
 
     # game/code/hints.rpy:5
     old "Lyssa will not fuck you in the ass."
-    new "Lyssa will not fuck you in the ass."
+    new "Lyssa no te follará por el culo."
 
     # game/code/hints.rpy:5
     old "Watersports scene with Lyssa."
-    new "Watersports scene with Lyssa."
+    new "Escena de deportes acuáticos con Lyssa."
 
     # game/code/hints.rpy:5
     old "This will skip the watersports scene with Lyssa."
-    new "This will skip the watersports scene with Lyssa."
+    new "Esto omitirá la escena de deportes acuáticos con Lyssa."
 
     # game/code/hints.rpy:5
     old "You and Allison fuck the Judge."
-    new "You and Allison fuck the Judge."
+    new "Tú y Allison se follan a la Jueza."
 
     # game/code/hints.rpy:5
     old "You don't fuck the Judge."
-    new "You don't fuck the Judge."
+    new "Tú y Allison no se follan a la Jueza."
 

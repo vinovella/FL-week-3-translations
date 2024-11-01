@@ -168,5 +168,5 @@ translate spanish strings:
     new "Kristen"
 
     old "High Priestess"
-    new "High Priestess"
+    new "Suma Sacerdotisa"
 
