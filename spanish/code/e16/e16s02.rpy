@@ -996,5 +996,5 @@ translate spanish strings:
 translate spanish e16s02_736fa6b5:
 
     # rf "Like I said, I was surprised because obviously there has been some kind of mixup with my mother's will. The house and the farm belong to me."
-    rf "Like I said, I was surprised because obviously there has been some kind of mixup with my mother's will. The house and the farm belong to me."
+    rf "Como dije, me sorprendió porque obviamente ha habido algún tipo de confusión con el testamento de mi madre. La casa y la granja me pertenecen."
 
