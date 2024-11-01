@@ -78,13 +78,13 @@ translate spanish strings:
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"
-    new "Consigue gratis DLC con 6 finales en Steam"
+    new "Consigue gratis el DLC con los 6 finales en Steam"
 
     # game/code/screens/extended/screens.rpy:227
     old "Buy Taboo University on Steam"
-    new "Buy Taboo University on Steam"
+    new "Compra Taboo University en Steam"
 
     # game/code/screens/extended/screens.rpy:267
     old "Get DLC-2 containing 6 additional endings from Steam"
-    new "Get DLC-2 containing 6 additional endings from Steam"
+    new "Consigue el DLC-2 que contiene los 6 finales adicionales en Steam"
 
