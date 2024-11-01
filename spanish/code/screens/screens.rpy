@@ -10,11 +10,11 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:266
     old "Q.Save"
-    new "R.Guardado"
+    new "Guardado rápido"
 
     # game/code/screens/screens.rpy:267
     old "Q.Load"
-    new "G.Rápido"
+    new "Cargado rápido"
 
     # game/code/screens/screens.rpy:268
     old "Prefs"
@@ -186,7 +186,7 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:1062
     old "Sound Volume"
-    new "Volumen de sonido"
+    new "Volumen del sonido"
 
     # game/code/screens/screens.rpy:1068
     old "Test"
@@ -274,11 +274,11 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:1322
     old "Rolls back to earlier dialogue."
-    new "Vuelve al diálogo anterior."
+    new "Regresa al diálogo anterior."
 
     # game/code/screens/screens.rpy:1325
     old "Page Down"
-    new "Página abajo"
+    new "Bajar la página"
 
     # game/code/screens/screens.rpy:1326
     old "Rolls forward to later dialogue."
@@ -290,7 +290,7 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:1334
     old "Takes a screenshot."
-    new "Toma una captura de pantalla."
+    new "Realiza una captura de pantalla."
 
     # game/code/screens/screens.rpy:1338
     old "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
@@ -356,9 +356,9 @@ translate spanish strings:
 
     # game/code/screens/screens.rpy:886
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Sincronización del archivo de guardado de Ren'Py"
 
     # game/code/screens/screens.rpy:1056
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Opacidad del cuadro de diálogo"
 

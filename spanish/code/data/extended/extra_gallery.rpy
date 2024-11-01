@@ -372,19 +372,19 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish Ending 4 and Ending 7"
-    new "Finish Ending 4 and Ending 7"
+    new "Termina los finales 4 y 7"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "36. Don't threaten me with a good time"
-    new "36. Don't threaten me with a good time"
+    new "36. No me amenaces con pasar un buen rato"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Finish all 6 Endings from DLC-2"
-    new "Finish all 6 Endings from DLC-2"
+    new "Termina los 6 finales del DLC-2"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "37. I saw, I came, I conquered"
-    new "37. I saw, I came, I conquered"
+    new "37. Yo vi, yo vine, yo vencí"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Have all Characters in last orgy in Ending 9"
@@ -392,35 +392,35 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "38. Golden Pass"
-    new "38. Golden Pass"
+    new "38. Pase Dorado"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Have all Characters in Ending 15"
-    new "Have all Characters in Ending 15"
+    new "Consigue a todos los personajes del final 15"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "39. She belongs in a museum"
-    new "39. She belongs in a museum"
+    new "39. Ella pertenece a un museo"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Find golden Lyssa (Ending 3)"
-    new "Find golden Lyssa (Ending 3)"
+    new "Encuentra a la Lyssa dorada (Final 3)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "40. Do the Pulp Fiction Thing"
-    new "40. Do the Pulp Fiction Thing"
+    new "40. Haz lo de Pulp Fiction"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Do the pulp fiction thing (Ending 18)"
-    new "Do the pulp fiction thing (Ending 18)"
+    new "Haz lo de pulp fiction (Final 18)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "41. Backdoor Cat Girl"
-    new "41. Backdoor Cat Girl"
+    new "41. La chica gata por la puerta trasera"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Backdoor Cat Girl (Ending 16)"
-    new "Backdoor Cat Girl (Ending 16)"
+    new "41. La chica gata por la puerta trasera (Final 16)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "42. Pee Bootcamp"
@@ -428,7 +428,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Begin Olivia's Training"
-    new "Begin Olivia's Training"
+    new "Comienza el entrenamiento de Olivia"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "43. Choo-choo"
@@ -436,57 +436,57 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Choo-choo (Ending 5)"
-    new "Choo-choo (Ending 5)"
+    new "Choo-choo (Final 5)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "44. Londyn Twice"
-    new "44. Londyn Twice"
+    new "44. Londyn Dos Veces"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Meet Londyn in Ending 9 and Ending 18"
-    new "Meet Londyn in Ending 9 and Ending 18"
+    new "Conoce a Londyn en los finales 9 y 18"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "45. I've seen all the possible outcomes"
-    new "45. I've seen all the possible outcomes"
+    new "45. He visto todos los resultados posibles"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Finish all 18 Endings"
-    new "Finish all 18 Endings"
+    new "Completa los 18 finales"
 
     # game/code/data/extended/extra_gallery.rpy:802
     old "SPIT ON THAT THANG!"
-    new "SPIT ON THAT THANG!"
+    new "¡ESCUPE SOBRE ESA COSA!"
 
     # game/code/data/extended/extra_gallery.rpy:823
     old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
-    new "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
+    new "CUANDO SE LAS ARREGLA PARA QUE TODO EL MUNDO VAYA A TU NUEVO Y LUJOSO SPA"
 
     # game/code/data/extended/extra_gallery.rpy:845
     old "Fucking\na girl"
-    new "Fucking\na girl"
+    new "Fóllate\na una chica"
 
     # game/code/data/extended/extra_gallery.rpy:847
     old "Fucking\na catgirl"
-    new "Fucking\na catgirl"
+    new "Fóllate\na una chica gata"
 
     # game/code/data/extended/extra_gallery.rpy:861
     old "Hard to\nswallow\npills"
-    new "Hard to\nswallow\npills"
+    new "Pastillas\ndifíciles\nde tragar"
 
     # game/code/data/extended/extra_gallery.rpy:863
     old "He will never\nrun out of pee"
-    new "He will never\nrun out of pee"
+    new "Nunca se quedará\nsin orina."
 
     # game/code/data/extended/extra_gallery.rpy:901
     old "NEXT STOP"
-    new "NEXT STOP"
+    new "SIGUIENTE PARADA"
 
     # game/code/data/extended/extra_gallery.rpy:903
     old "PENETRATION STATION"
-    new "PENETRATION STATION"
+    new "ESTACIÓN PENETRACIÓN"
 
     # game/code/data/extended/extra_gallery.rpy:917
     old "They don't know that\nI appear in two endings"
-    new "They don't know that\nI appear in two endings"
+    new "No saben\nque aparezco en dos finales"
 

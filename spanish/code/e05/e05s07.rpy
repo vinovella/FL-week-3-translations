@@ -1792,11 +1792,11 @@ translate spanish strings:
 
     # game/code/e05/e05s07.rpy:1057
     old "You have finished playing Ending #05!"
-    new "¡Has terminado de jugar al final n.° #05!"
+    new "¡Has terminado de jugar al final 05!"
 
 # game/code/e05/e05s07.rpy:208
 translate spanish e05s07_bar_0930b9cd:
 
     # mh "In fact, most defense attorneys I know would have taken one look at her rap sheet and walked. Or agreed to that terrible plea deal and locked her up."
-    mh "In fact, most defense attorneys I know would have taken one look at her rap sheet and walked. Or agreed to that terrible plea deal and locked her up."
+    mh "De hecho, la mayoría de los abogados defensores que conozco habrían echado un vistazo a sus antecedentes penales y se habrían largado. O aceptado ese terrible acuerdo y la habrían encerrado."
 

@@ -1328,17 +1328,17 @@ translate spanish e05s06_sex_b85a48e2:
 translate spanish e05s06_57afd79d:
 
     # mh "But, we should maybe hold off on the wedding bells talk. We don't need to give him any more reason to be nervous. Especially today."
-    mh "But, we should maybe hold off on the wedding bells talk. We don't need to give him any more reason to be nervous. Especially today."
+    mh "Pero, tal vez deberíamos dejar de hablar de campanas de boda. No necesitamos darle más razones para estar nervioso. Especialmente hoy."
 
 # game/code/e05/e05s06.rpy:390
 translate spanish e05s06_court_room_db2af079:
 
     # op "We can also establish that this video was at least captured before posting, which would align with my client's, and the plaintiff's, timelines."
-    op "We can also establish that this video was at least captured before posting, which would align with my client's, and the plaintiff's, timelines."
+    op "También podemos determinar que este vídeo se grabó antes de publicarse, lo que coincidiría con los plazos de mi cliente y del demandante."
 
 # game/code/e05/e05s06.rpy:732
 translate spanish e05s06_sex_d59042cb:
 
     # mh "Deeper, [mcname], deeper! I want to {i}feel{/i} you tearing apart my ass!"
-    mh "Deeper, [mcname], deeper! I want to {i}feel{/i} you tearing apart my ass!"
+    mh "¡Más profundo, [mcname], más profundo! ¡Quiero {i}sentir{/i} cómo me desgarras el culo!"
 

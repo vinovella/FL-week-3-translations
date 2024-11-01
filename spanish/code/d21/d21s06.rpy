@@ -2350,17 +2350,17 @@ translate spanish d21s06_reboot_fl_b23fc0ce:
 translate spanish d21s06_reboot_fl_d0e75550:
 
     # arj "Okay, okay. I don't think you guys have any ill will like Lydia."
-    arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+    arj "De acuerdo. No creo que ustedes tengan mala voluntad como Lydia."
 
 # game/code/d21/d21s06.rpy:696
 translate spanish d21s06_reboot_fl_82e617fe:
 
     # arj "All the cons I stated. No lies. No deceit, and no manipulation."
-    arj "All the cons I stated. No lies. No deceit, and no manipulation."
+    arj "Todos los inconvenientes que he dicho. Sin mentiras. Sin engaños ni manipulaciones."
 
 # game/code/d21/d21s06.rpy:731
 translate spanish d21s06_reboot_fl_041fcc70:
 
     # sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
-    sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
+    sy "Ahora, empecemos a reunir algunos de los detalles más pequeños, como quiénes son las personas a las que inicialmente podemos incorporar."
 

@@ -218,11 +218,11 @@ translate spanish strings:
 translate spanish replay_e13s04_4ae8355d:
 
     # nk "God... That was amazing..."
-    nk "God... That was amazing..."
+    nk "Dios... Eso fue increíble..."
 
 # game/code/e13/e13s04.rpy:214
 translate spanish replay_e13s04_c133408e:
 
     # nk "*Loud moans* Yes, fuck... Yes! I love you, [mcname]."
-    nk "*Loud moans* Yes, fuck... Yes! I love you, [mcname]."
+    nk "**Gimidos fuertes* Sí, joder... ¡Sí! Te amo, [mcname]."
 
