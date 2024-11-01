@@ -1736,5 +1736,5 @@ translate spanish e15s05_after_menu_1387c466:
 translate spanish e15s05_after_menu_7a1b0ad4:
 
     # sy "This is going to be so fun!"
-    sy "¡Esto va a ser muy divertido!"
+    sy "¡Esto será muy divertido!"
 
