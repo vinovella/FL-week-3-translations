@@ -388,7 +388,7 @@ translate spanish strings:
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Have all Characters in last orgy in Ending 9"
-    new "Have all Characters in last orgy in Ending 9"
+    new "Tener a todos los Personajes en la última orgía del Final 9"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "38. Golden Pass"
