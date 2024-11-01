@@ -2438,5 +2438,5 @@ translate spanish strings:
 translate spanish e18s07_37a31b1b:
 
     # pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
-    pb "Tons of stuff. My ass still hurts from the spanking I got after I called used Dahlia's real name."
+    pb "Toneladas de cosas. Todavía me duelen las nalgadas que me dieron cuando dije el verdadero nombre de Dahlia."
 
