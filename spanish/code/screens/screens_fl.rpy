@@ -302,7 +302,7 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:300
     old "You can find this layout in the {b}Help{/b} menu"
-    new "You can find this layout in the {b}Help{/b} menu"
+    new "Encontrará esta disposición en el menú {b}Ayuda{/b}."
 
     # game/code/screens/screens_fl.rpy:302
     old "CLOSE"
@@ -310,5 +310,5 @@ translate spanish strings:
 
     # game/code/screens/screens_fl.rpy:1394
     old "{u}Get Taboo University Book 1 on Steam{/u}"
-    new "{u}Consigue Taboo University Libro 1 en Steam{/u}"
+    new "{u}Obtén Taboo University Libro 1 en Steam{/u}"
 
