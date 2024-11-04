@@ -1640,17 +1640,17 @@ translate spanish strings:
 translate spanish e09s03_night_92a22c14:
 
     # sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
-    sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
+    sy "Sí, así es. Ahora date prisa y haz que Allison se corra para que pueda tener mi turno."
 
 # game/code/e09/e09s03.rpy:761
 translate spanish e09s03_night_a92c83eb:
 
     # aw "*Giggles* She's right. I've been hogging you for a bit."
-    aw "*Giggles* She's right. I've been hogging you for a bit."
+    aw "*Risitas* Tiene razón. Te he estado acaparando un poco."
 
 # game/code/e09/e09s03.rpy:764
 translate spanish e09s03_night_072da321:
 
     # aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
-    aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
+    aw "Date prisa y termina conmigo, [mcname]. Fóllame hasta que me desmaye."
 
