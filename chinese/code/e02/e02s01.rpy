@@ -1264,11 +1264,11 @@ translate chinese strings:
 translate chinese e02s01_hot_bath_d6431c08:
 
     # mc "It's true that you learn most about people through adversity."
-    mc "It's true that you learn most about people through adversity."
+    mc "通过逆境最能了解人，这话一点不假。"
 
 # game/code/e02/e02s01.rpy:423
 translate chinese e02s01_hot_bath_c527c472:
 
     # mh "Adversity."
-    mh "Adversity."
+    mh "逆境啊。"
 
