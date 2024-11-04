@@ -96,5 +96,5 @@ translate portuguese strings:
 
     # game/code/screens/extended/screens.rpy:267
     old "Get DLC-2 containing 6 additional endings from Steam"
-    new "Get DLC-2 containing 6 additional endings from Steam"
+    new "Compre o DLC-2, contendo 6 finais adicionais na Steam"
 
