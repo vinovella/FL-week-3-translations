@@ -530,5 +530,5 @@ translate turkish strings:
 translate turkish e11s01_76c691b8:
 
     # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
-    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
+    ly "Bu iyi bir şey! İngilizce yazmada sınıf birincisiyim. Ve astronomi üzerine gerçekten heyecan verici bir dersim var."
 
