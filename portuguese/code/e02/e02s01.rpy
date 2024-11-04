@@ -1258,17 +1258,17 @@ translate portuguese strings:
 
     # game/code/e02/e02s01.rpy:62
     old "Ending #2\nSnowy Peaks"
-    new "Ending #02\nSnowy Peaks"
+    new "Final #02\nSnowy Peaks"
 
 # game/code/e02/e02s01.rpy:417
 translate portuguese e02s01_hot_bath_d6431c08:
 
     # mc "It's true that you learn most about people through adversity."
-    mc "It's true that you learn most about people through adversity."
+    mc "É verdade que se aprende mais sobre as pessoas durante adversidade."
 
 # game/code/e02/e02s01.rpy:423
 translate portuguese e02s01_hot_bath_c527c472:
 
     # mh "Adversity."
-    mh "Adversity."
+    mh "Adversidade."
 
