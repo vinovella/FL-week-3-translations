@@ -104,3 +104,9 @@ translate malay strings:
     old "Buy Taboo University on Steam"
     new "Buy Taboo University on Steam"
 
+translate malay strings:
+
+    # game/code/screens/extended/screens.rpy:267
+    old "Get DLC-2 containing 6 additional endings from Steam"
+    new "Get DLC-2 containing 6 additional endings from Steam"
+

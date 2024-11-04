@@ -712,12 +712,6 @@ translate korean e02s01_hot_bath_75a144f0:
     # mh "Hmm, I guess you're right, I am becoming a little bourgeois."
     mh "으으음, 당신 말이 맞아. 내가 부르주아지 속물이 됐나 봐. 뭘 타는 게 중요한 게 아닌데, 내가 하나 배웠어."
 
-# game/code/e02/e02s01.rpy:417
-translate korean e02s01_hot_bath_1ec01878:
-
-    # mc "It's true that you learn most about people through adversary."
-    mc "함께 여행을 하면 서로 배우는 게 있다잖아."
-
 # game/code/e02/e02s01.rpy:420
 translate korean e02s01_hot_bath_47631e6c:
 
@@ -729,12 +723,6 @@ translate korean e02s01_hot_bath_454ecb0d:
 
     # mc "Much of what?"
     mc "배우기만 하는 게 아니라니?"
-
-# game/code/e02/e02s01.rpy:423
-translate korean e02s01_hot_bath_79bd615b:
-
-    # mh "Adversary."
-    mh "불화가 생기기도 하니까."
 
 # game/code/e02/e02s01.rpy:424
 translate korean e02s01_hot_bath_d1f576cc:
@@ -1273,4 +1261,16 @@ translate korean strings:
     # game/code/e02/e02s01.rpy:517
     old "Why Not Both?"
     new "둘 다 하지 않을 이유가 뭔가?"
+
+# game/code/e02/e02s01.rpy:417
+translate korean e02s01_hot_bath_d6431c08:
+
+    # mc "It's true that you learn most about people through adversity."
+    mc "It's true that you learn most about people through adversity."
+
+# game/code/e02/e02s01.rpy:423
+translate korean e02s01_hot_bath_c527c472:
+
+    # mh "Adversity."
+    mh "Adversity."
 

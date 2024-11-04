@@ -86,3 +86,9 @@ translate turkish strings:
     old "Buy Taboo University on Steam"
     new "Taboo University ürününü Steam'den satın alın"
 
+translate turkish strings:
+
+    # game/code/screens/extended/screens.rpy:267
+    old "Get DLC-2 containing 6 additional endings from Steam"
+    new "Get DLC-2 containing 6 additional endings from Steam"
+

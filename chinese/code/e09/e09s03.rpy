@@ -1156,12 +1156,6 @@ translate chinese e09s03_night_c1706536:
     # arj "His cock is the best."
     arj "他的鸡巴是最棒的。"
 
-# game/code/e09/e09s03.rpy:641
-translate chinese e09s03_night_6ea19a72:
-
-    # sy "Yes, it is. Now hurry and make Allison cum again so I can get a turn."
-    sy "没错。现在赶紧让艾莉森再射一次，这样我就有机会了。"
-
 # game/code/e09/e09s03.rpy:643
 translate chinese e09s03_night_5e2affbf:
 
@@ -1173,24 +1167,6 @@ translate chinese e09s03_night_6bfc74d9:
 
     # sy "What?"
     sy "什么？"
-
-# game/code/e09/e09s03.rpy:647
-translate chinese e09s03_night_f9f99069:
-
-    # aw "No she's right. I can get so greedy."
-    aw "不，她是对的。我太贪心了。"
-
-# game/code/e09/e09s03.rpy:648
-translate chinese e09s03_night_b31b3358:
-
-    # aw "I almost want to tie them both up and have you ravish me for hours."
-    aw "我几乎想把她们俩绑起来，让你来蹂躏我几个小时。"
-
-# game/code/e09/e09s03.rpy:650
-translate chinese e09s03_night_3aa573b5:
-
-    # aw "So keep going, [mcname]. Fucking drill me until I faint."
-    aw "那就继续吧，[mcname]。操到我晕倒为止。"
 
 # game/code/e09/e09s03.rpy:651
 translate chinese e09s03_night_42b0c128:
@@ -1659,4 +1635,22 @@ translate chinese strings:
     # game/code/e09/e09s03.rpy:44
     old "Back at HQ"
     new "回到总部"
+
+# game/code/e09/e09s03.rpy:755
+translate chinese e09s03_night_92a22c14:
+
+    # sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
+    sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
+
+# game/code/e09/e09s03.rpy:761
+translate chinese e09s03_night_a92c83eb:
+
+    # aw "*Giggles* She's right. I've been hogging you for a bit."
+    aw "*Giggles* She's right. I've been hogging you for a bit."
+
+# game/code/e09/e09s03.rpy:764
+translate chinese e09s03_night_072da321:
+
+    # aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
+    aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
 

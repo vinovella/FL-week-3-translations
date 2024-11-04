@@ -712,12 +712,6 @@ translate portuguese e02s01_hot_bath_75a144f0:
     # mh "Hmm, I guess you're right, I am becoming a little bourgeois."
     mh "Hmm, acho que você está certo, estou ficando um tanto burguesa."
 
-# game/code/e02/e02s01.rpy:326
-translate portuguese e02s01_hot_bath_1ec01878:
-
-    # mc "It's true that you learn most about people through adversary."
-    mc "É verdade que se aprende mais sobre as pessoas durante adversidade."
-
 # game/code/e02/e02s01.rpy:329
 translate portuguese e02s01_hot_bath_47631e6c:
 
@@ -729,12 +723,6 @@ translate portuguese e02s01_hot_bath_454ecb0d:
 
     # mc "Much of what?"
     mc "Muito do quê?"
-
-# game/code/e02/e02s01.rpy:332
-translate portuguese e02s01_hot_bath_79bd615b:
-
-    # mh "Adversary."
-    mh "Adversidade."
 
 # game/code/e02/e02s01.rpy:333
 translate portuguese e02s01_hot_bath_d1f576cc:
@@ -1271,4 +1259,16 @@ translate portuguese strings:
     # game/code/e02/e02s01.rpy:62
     old "Ending #2\nSnowy Peaks"
     new "Ending #02\nSnowy Peaks"
+
+# game/code/e02/e02s01.rpy:417
+translate portuguese e02s01_hot_bath_d6431c08:
+
+    # mc "It's true that you learn most about people through adversity."
+    mc "It's true that you learn most about people through adversity."
+
+# game/code/e02/e02s01.rpy:423
+translate portuguese e02s01_hot_bath_c527c472:
+
+    # mh "Adversity."
+    mh "Adversity."
 

@@ -712,12 +712,6 @@ translate italian e02s01_hot_bath_75a144f0:
     # mh "Hmm, I guess you're right, I am becoming a little bourgeois."
     mh "Hmm, immagino tu abbia ragione, sto diventando un po' borghese."
 
-# game/code/e02/e02s01.rpy:417
-translate italian e02s01_hot_bath_1ec01878:
-
-    # mc "It's true that you learn most about people through adversary."
-    mc "E' vero che hai imparato molto dalle persone facendo l'avvocato."
-
 # game/code/e02/e02s01.rpy:420
 translate italian e02s01_hot_bath_47631e6c:
 
@@ -729,12 +723,6 @@ translate italian e02s01_hot_bath_454ecb0d:
 
     # mc "Much of what?"
     mc "Molto di che?"
-
-# game/code/e02/e02s01.rpy:423
-translate italian e02s01_hot_bath_79bd615b:
-
-    # mh "Adversary."
-    mh "Di cui parlare."
 
 # game/code/e02/e02s01.rpy:424
 translate italian e02s01_hot_bath_d1f576cc:
@@ -1273,4 +1261,16 @@ translate italian strings:
     # game/code/e02/e02s01.rpy:517
     old "Why Not Both?"
     new "Perchè non entrambi?"
+
+# game/code/e02/e02s01.rpy:417
+translate italian e02s01_hot_bath_d6431c08:
+
+    # mc "It's true that you learn most about people through adversity."
+    mc "It's true that you learn most about people through adversity."
+
+# game/code/e02/e02s01.rpy:423
+translate italian e02s01_hot_bath_c527c472:
+
+    # mh "Adversity."
+    mh "Adversity."
 

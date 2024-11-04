@@ -1156,12 +1156,6 @@ translate turkish e09s03_night_c1706536:
     # arj "His cock is the best."
     arj "Onun siki en iyisi."
 
-# game/code/e09/e09s03.rpy:641
-translate turkish e09s03_night_6ea19a72:
-
-    # sy "Yes, it is. Now hurry and make Allison cum again so I can get a turn."
-    sy "Evet, öyle. Şimdi acele et ve Allison'ı tekrar boşalt ki sıra bana gelsin."
-
 # game/code/e09/e09s03.rpy:643
 translate turkish e09s03_night_5e2affbf:
 
@@ -1173,24 +1167,6 @@ translate turkish e09s03_night_6bfc74d9:
 
     # sy "What?"
     sy "Ne?"
-
-# game/code/e09/e09s03.rpy:647
-translate turkish e09s03_night_f9f99069:
-
-    # aw "No she's right. I can get so greedy."
-    aw "Hayır o haklı. Çok açgözlü olabilirim."
-
-# game/code/e09/e09s03.rpy:648
-translate turkish e09s03_night_b31b3358:
-
-    # aw "I almost want to tie them both up and have you ravish me for hours."
-    aw "Neredeyse ikisini de bağlamak ve saatlerce bana tecavüz etmeni istiyorum."
-
-# game/code/e09/e09s03.rpy:650
-translate turkish e09s03_night_3aa573b5:
-
-    # aw "So keep going, [mcname]. Fucking drill me until I faint."
-    aw "Devam et, [mcname]. Bayılana kadar sik beni."
 
 # game/code/e09/e09s03.rpy:651
 translate turkish e09s03_night_42b0c128:
@@ -1659,4 +1635,22 @@ translate turkish strings:
     # game/code/e09/e09s03.rpy:44
     old "Back at HQ"
     new "Merkeze Dönüş"
+
+# game/code/e09/e09s03.rpy:755
+translate turkish e09s03_night_92a22c14:
+
+    # sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
+    sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
+
+# game/code/e09/e09s03.rpy:761
+translate turkish e09s03_night_a92c83eb:
+
+    # aw "*Giggles* She's right. I've been hogging you for a bit."
+    aw "*Giggles* She's right. I've been hogging you for a bit."
+
+# game/code/e09/e09s03.rpy:764
+translate turkish e09s03_night_072da321:
+
+    # aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
+    aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
 

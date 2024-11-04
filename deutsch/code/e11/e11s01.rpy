@@ -64,12 +64,6 @@ translate deutsch e11s01_608e8e51:
     # mc "Speaking of studying! How is University?"
     mc "Speaking of studying! How is University?"
 
-# game/code/e11/e11s01.rpy:105
-translate deutsch e11s01_aad99233:
-
-    # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astrology."
-    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astrology."
-
 # game/code/e11/e11s01.rpy:108
 translate deutsch e11s01_ffc39c14:
 
@@ -531,4 +525,10 @@ translate deutsch strings:
     # game/code/e11/e11s01.rpy:39
     old "Twenty years later"
     new "Twenty years later"
+
+# game/code/e11/e11s01.rpy:105
+translate deutsch e11s01_76c691b8:
+
+    # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
+    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
 

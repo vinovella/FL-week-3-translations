@@ -64,12 +64,6 @@ translate portuguese e11s01_608e8e51:
     # mc "Speaking of studying! How is University?"
     mc "Falando em estudar! Como vai a universidade?"
 
-# game/code/e11/e11s01.rpy:105
-translate portuguese e11s01_aad99233:
-
-    # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astrology."
-    ly "Bem! Na verdade, eu sou a melhor da turma em inglês. E tem essa palestra bem legal em astrologia."
-
 # game/code/e11/e11s01.rpy:108
 translate portuguese e11s01_ffc39c14:
 
@@ -531,4 +525,10 @@ translate portuguese strings:
     # game/code/e11/e11s01.rpy:39
     old "Twenty years later"
     new "Vinte anos depois"
+
+# game/code/e11/e11s01.rpy:105
+translate portuguese e11s01_76c691b8:
+
+    # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
+    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
 

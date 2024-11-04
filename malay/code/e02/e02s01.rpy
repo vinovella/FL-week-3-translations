@@ -712,12 +712,6 @@ translate malay e02s01_hot_bath_75a144f0:
     # mh "Hmm, I guess you're right, I am becoming a little bourgeois."
     mh "Hmm, aku rasa kau betul, aku jadi sedikit borjuasi."
 
-# game/code/e02/e02s01.rpy:417
-translate malay e02s01_hot_bath_1ec01878:
-
-    # mc "It's true that you learn most about people through adversary."
-    mc "Memang betul yang kau banyak belajar tentang orang melalui musuh."
-
 # game/code/e02/e02s01.rpy:420
 translate malay e02s01_hot_bath_47631e6c:
 
@@ -729,12 +723,6 @@ translate malay e02s01_hot_bath_454ecb0d:
 
     # mc "Much of what?"
     mc "Banyak apa?"
-
-# game/code/e02/e02s01.rpy:423
-translate malay e02s01_hot_bath_79bd615b:
-
-    # mh "Adversary."
-    mh "Musuh."
 
 # game/code/e02/e02s01.rpy:424
 translate malay e02s01_hot_bath_d1f576cc:
@@ -1273,4 +1261,16 @@ translate malay strings:
     # game/code/e02/e02s01.rpy:517
     old "Why Not Both?"
     new "Mengapa tak kedua-dua?"
+
+# game/code/e02/e02s01.rpy:417
+translate malay e02s01_hot_bath_d6431c08:
+
+    # mc "It's true that you learn most about people through adversity."
+    mc "It's true that you learn most about people through adversity."
+
+# game/code/e02/e02s01.rpy:423
+translate malay e02s01_hot_bath_c527c472:
+
+    # mh "Adversity."
+    mh "Adversity."
 

@@ -64,12 +64,6 @@ translate spanish e11s01_608e8e51:
     # mc "Speaking of studying! How is University?"
     mc "¡Hablando de estudiar! ¿Qué tal la Universidad?"
 
-# game/code/e11/e11s01.rpy:105
-translate spanish e11s01_aad99233:
-
-    # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astrology."
-    ly "¡Está bien! De hecho soy la mejor de mi clase en escritura inglesa. Y tengo una conferencia muy emocionante sobre astrología."
-
 # game/code/e11/e11s01.rpy:108
 translate spanish e11s01_ffc39c14:
 
@@ -531,4 +525,10 @@ translate spanish strings:
     # game/code/e11/e11s01.rpy:39
     old "Twenty years later"
     new "Veinte años después"
+
+# game/code/e11/e11s01.rpy:105
+translate spanish e11s01_76c691b8:
+
+    # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
+    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
 

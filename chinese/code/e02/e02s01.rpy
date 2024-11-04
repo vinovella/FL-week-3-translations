@@ -712,12 +712,6 @@ translate chinese e02s01_hot_bath_75a144f0:
     # mh "Hmm, I guess you're right, I am becoming a little bourgeois."
     mh "嗯，我想你是对的，我变得有点小资了。"
 
-# game/code/e02/e02s01.rpy:326
-translate chinese e02s01_hot_bath_1ec01878:
-
-    # mc "It's true that you learn most about people through adversary."
-    mc "的确，通过对手能最大限度的了解一个人。"
-
 # game/code/e02/e02s01.rpy:329
 translate chinese e02s01_hot_bath_47631e6c:
 
@@ -729,12 +723,6 @@ translate chinese e02s01_hot_bath_454ecb0d:
 
     # mc "Much of what?"
     mc "你指什么？"
-
-# game/code/e02/e02s01.rpy:332
-translate chinese e02s01_hot_bath_79bd615b:
-
-    # mh "Adversary."
-    mh "对手。"
 
 # game/code/e02/e02s01.rpy:333
 translate chinese e02s01_hot_bath_d1f576cc:
@@ -1271,4 +1259,16 @@ translate chinese strings:
     # game/code/e02/e02s01.rpy:62
     old "Ending #2\nSnowy Peaks"
     new "Ending #2\n雪峰胜地"
+
+# game/code/e02/e02s01.rpy:417
+translate chinese e02s01_hot_bath_d6431c08:
+
+    # mc "It's true that you learn most about people through adversity."
+    mc "It's true that you learn most about people through adversity."
+
+# game/code/e02/e02s01.rpy:423
+translate chinese e02s01_hot_bath_c527c472:
+
+    # mh "Adversity."
+    mh "Adversity."
 

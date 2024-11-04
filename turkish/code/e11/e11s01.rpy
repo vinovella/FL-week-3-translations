@@ -64,12 +64,6 @@ translate turkish e11s01_608e8e51:
     # mc "Speaking of studying! How is University?"
      mc "Ders çalışmaktan bahsetmişken! Üniversite nasıl?"
 
-# game/code/e11/e11s01.rpy:105
-translate turkish e11s01_aad99233:
-
-    # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astrology."
-     ly "Bu iyi! Aslında İngilizce yazmada sınıf birincisiyim. Ve astroloji üzerine gerçekten heyecan verici bir dersim var."
-
 # game/code/e11/e11s01.rpy:108
 translate turkish e11s01_ffc39c14:
 
@@ -531,4 +525,10 @@ translate turkish strings:
     # game/code/e11/e11s01.rpy:39
     old "Twenty years later"
     new "Yirmi yıl sonra"
+
+# game/code/e11/e11s01.rpy:105
+translate turkish e11s01_76c691b8:
+
+    # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
+    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
 

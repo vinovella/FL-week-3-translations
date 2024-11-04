@@ -64,12 +64,6 @@ translate chinese e11s01_608e8e51:
     # mc "Speaking of studying! How is University?"
     mc "说到学习！你的大学生活怎么样？"
 
-# game/code/e11/e11s01.rpy:105
-translate chinese e11s01_aad99233:
-
-    # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astrology."
-    ly "很好！我的英语写作在班上名列前茅。我还要上一堂非常精彩的占星学课。"
-
 # game/code/e11/e11s01.rpy:108
 translate chinese e11s01_ffc39c14:
 
@@ -531,4 +525,10 @@ translate chinese strings:
     # game/code/e11/e11s01.rpy:39
     old "Twenty years later"
     new "二十年后"
+
+# game/code/e11/e11s01.rpy:105
+translate chinese e11s01_76c691b8:
+
+    # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
+    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
 

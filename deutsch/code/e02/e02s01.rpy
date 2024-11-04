@@ -712,12 +712,6 @@ translate deutsch e02s01_hot_bath_75a144f0:
     # mh "Hmm, I guess you're right, I am becoming a little bourgeois."
     mh "Hmm, ich nehme an, du hast recht, ich werde ein bisschen gutbürgerlich."
 
-# game/code/e02/e02s01.rpy:418
-translate deutsch e02s01_hot_bath_1ec01878:
-
-    # mc "It's true that you learn most about people through adversary."
-    mc "Es stimmt, dass man durch Gegner am meisten über Menschen lernt."
-
 # game/code/e02/e02s01.rpy:421
 translate deutsch e02s01_hot_bath_47631e6c:
 
@@ -729,12 +723,6 @@ translate deutsch e02s01_hot_bath_454ecb0d:
 
     # mc "Much of what?"
     mc "Viele von was?"
-
-# game/code/e02/e02s01.rpy:424
-translate deutsch e02s01_hot_bath_79bd615b:
-
-    # mh "Adversary."
-    mh "Gegner."
 
 # game/code/e02/e02s01.rpy:425
 translate deutsch e02s01_hot_bath_d1f576cc:
@@ -1273,4 +1261,16 @@ translate deutsch strings:
     # game/code/e02/e02s01.rpy:518
     old "Why Not Both?"
     new "Warum nicht beides?"
+
+# game/code/e02/e02s01.rpy:417
+translate deutsch e02s01_hot_bath_d6431c08:
+
+    # mc "It's true that you learn most about people through adversity."
+    mc "It's true that you learn most about people through adversity."
+
+# game/code/e02/e02s01.rpy:423
+translate deutsch e02s01_hot_bath_c527c472:
+
+    # mh "Adversity."
+    mh "Adversity."
 

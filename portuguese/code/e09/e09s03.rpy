@@ -1158,12 +1158,6 @@ translate portuguese e09s03_night_c1706536:
     # arj "His cock is the best."
     arj "O pau dele é demais."
 
-# game/code/e09/e09s03.rpy:641
-translate portuguese e09s03_night_6ea19a72:
-
-    # sy "Yes, it is. Now hurry and make Allison cum again so I can get a turn."
-    sy "É mesmo. Agora anda logo e faz a Allison gozar de novo pra chegar a minha vez."
-
 # game/code/e09/e09s03.rpy:643
 translate portuguese e09s03_night_5e2affbf:
 
@@ -1175,24 +1169,6 @@ translate portuguese e09s03_night_6bfc74d9:
 
     # sy "What?"
     sy "O quê?"
-
-# game/code/e09/e09s03.rpy:647
-translate portuguese e09s03_night_f9f99069:
-
-    # aw "No she's right. I can get so greedy."
-    aw "Não, ela tem razão. Eu posso ser bem gananciosa."
-
-# game/code/e09/e09s03.rpy:648
-translate portuguese e09s03_night_b31b3358:
-
-    # aw "I almost want to tie them both up and have you ravish me for hours."
-    aw "Eu quase quero amarrar as duas e fazer você me atacar por horas."
-
-# game/code/e09/e09s03.rpy:650
-translate portuguese e09s03_night_3aa573b5:
-
-    # aw "So keep going, [mcname]. Fucking drill me until I faint."
-    aw "Então continua, [mcname]. Enfia esse pau até eu desmaiar."
 
 # game/code/e09/e09s03.rpy:651
 translate portuguese e09s03_night_42b0c128:
@@ -1661,4 +1637,22 @@ translate portuguese strings:
     # game/code/e09/e09s03.rpy:44
     old "Back at HQ"
     new "De volta ao QG"
+
+# game/code/e09/e09s03.rpy:755
+translate portuguese e09s03_night_92a22c14:
+
+    # sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
+    sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
+
+# game/code/e09/e09s03.rpy:761
+translate portuguese e09s03_night_a92c83eb:
+
+    # aw "*Giggles* She's right. I've been hogging you for a bit."
+    aw "*Giggles* She's right. I've been hogging you for a bit."
+
+# game/code/e09/e09s03.rpy:764
+translate portuguese e09s03_night_072da321:
+
+    # aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
+    aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
 
