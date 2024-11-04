@@ -1266,11 +1266,11 @@ translate spanish strings:
 translate spanish e02s01_hot_bath_d6431c08:
 
     # mc "It's true that you learn most about people through adversity."
-    mc "It's true that you learn most about people through adversity."
+    mc "Es verdad que se aprende más sobre las personas a través de la adversidad."
 
 # game/code/e02/e02s01.rpy:423
 translate spanish e02s01_hot_bath_c527c472:
 
     # mh "Adversity."
-    mh "Adversity."
+    mh "Adversidad."
 
