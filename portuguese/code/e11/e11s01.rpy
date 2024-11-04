@@ -530,5 +530,5 @@ translate portuguese strings:
 translate portuguese e11s01_76c691b8:
 
     # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
-    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
+    ly "Bem! Na verdade, eu sou a melhor da turma em inglês. E tem essa palestra bem legal em astronomia."
 
