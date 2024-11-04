@@ -530,5 +530,5 @@ translate spanish strings:
 translate spanish e11s01_76c691b8:
 
     # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
-    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
+    ly "¡Qué bien! De hecho soy la mejor de mi clase en escritura inglesa. Y tengo una clase muy emocionante sobre astronomía."
 
