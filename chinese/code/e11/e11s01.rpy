@@ -530,5 +530,5 @@ translate chinese strings:
 translate chinese e11s01_76c691b8:
 
     # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
-    ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
+    ly "太好了！我的英语写作可是班上最好的。而且我还要上一堂非常精彩的天文学课。"
 
