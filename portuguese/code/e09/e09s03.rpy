@@ -1642,17 +1642,17 @@ translate portuguese strings:
 translate portuguese e09s03_night_92a22c14:
 
     # sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
-    sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
+    sy "É mesmo. Agora anda logo e faz a Allison gozar pra chegar a minha vez."
 
 # game/code/e09/e09s03.rpy:761
 translate portuguese e09s03_night_a92c83eb:
 
     # aw "*Giggles* She's right. I've been hogging you for a bit."
-    aw "*Giggles* She's right. I've been hogging you for a bit."
+    aw "*Risada* Não, ela tem razão. Eu estava te monoppolizando."
 
 # game/code/e09/e09s03.rpy:764
 translate portuguese e09s03_night_072da321:
 
     # aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
-    aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
+    aw "Anda e faz eu gozar, [mcname]. Enfia esse pau até eu desmaiar."
 
