@@ -1640,17 +1640,17 @@ translate turkish strings:
 translate turkish e09s03_night_92a22c14:
 
     # sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
-    sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
+    sy "Evet, öyle. Şimdi acele et ve Allison'ı boşalt ki ben de sıramı alabileyim."
 
 # game/code/e09/e09s03.rpy:761
 translate turkish e09s03_night_a92c83eb:
 
     # aw "*Giggles* She's right. I've been hogging you for a bit."
-    aw "*Giggles* She's right. I've been hogging you for a bit."
+    aw "*Kıkırdar* O haklı. Seni biraz oyaladım."
 
 # game/code/e09/e09s03.rpy:764
 translate turkish e09s03_night_072da321:
 
     # aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
-    aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
+    aw "Acele et ve işimi bitir, [mcname]. Bayılana kadar del beni."
 
