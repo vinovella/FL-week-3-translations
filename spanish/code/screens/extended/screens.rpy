@@ -66,7 +66,7 @@ translate spanish strings:
 
     # game/code/screens/extended/screens.rpy:95
     old "Wishlist Taboo University on Steam"
-    new "Añada Taboo University a su lista de deseados en Steam"
+    new "Añade Taboo University a su lista de deseados en Steam"
 
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
