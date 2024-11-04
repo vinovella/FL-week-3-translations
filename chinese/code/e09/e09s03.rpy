@@ -1640,17 +1640,17 @@ translate chinese strings:
 translate chinese e09s03_night_92a22c14:
 
     # sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
-    sy "Yes, it is. Now hurry and make Allison cum so I can get a turn."
+    sy "没错没错。现在快点让艾莉森高潮，这样就能轮到我了。"
 
 # game/code/e09/e09s03.rpy:761
 translate chinese e09s03_night_a92c83eb:
 
     # aw "*Giggles* She's right. I've been hogging you for a bit."
-    aw "*Giggles* She's right. I've been hogging you for a bit."
+    aw "*咯咯笑* 她说得没错。我已经霸占你很久了。"
 
 # game/code/e09/e09s03.rpy:764
 translate chinese e09s03_night_072da321:
 
     # aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
-    aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
+    aw "快点把我送走吧，[mcname]。把我操到晕倒为止。"
 
