@@ -1898,7 +1898,7 @@ translate chinese d21s07_breakup_f9fcd8d1:
 translate chinese d21s07_breakup_747f0a0e:
 
     # lc "That didn't come out right. I really want to thank you."
-    lc 这样说不对。我真的想谢谢你。""
+    lc "这样说不对。我真的想谢谢你。"
 
 # game/code/d21/d21s07.rpy:717
 translate chinese d21s07_breakup_0ccd157f:
