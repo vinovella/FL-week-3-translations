@@ -34,7 +34,7 @@ translate spanish strings:
 
     # game/code/data/endings.rpy:3
     old "Fetish Locator: Rebooted"
-    new "Localizador de Fetiches: Reiniciado"
+    new "Fetish Locator: Reiniciado"
 
     # game/code/data/endings.rpy:3
     old "Runaway"
@@ -153,7 +153,7 @@ translate spanish strings:
     new "E08 - Mi Familia Feliz de Jengibre"
 
     old "E09 - Fetish Locator: Rebooted"
-    new "E09 - Localizador de Fetiches: Reiniciado"
+    new "E09 - Fetish Locator: Reiniciado"
 
     old "E10 - Runaway"
     new "E10 - Fugitivo"

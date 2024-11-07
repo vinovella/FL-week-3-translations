@@ -54,7 +54,7 @@ translate spanish strings:
 
     # game/code/endings.rpy:124
     old "Ending #09\nFetish Locator: Rebooted"
-    new "Final #09\nLocalizador de Fetiches: Reiniciado"
+    new "Final #09\nFetish Locator: Reiniciado"
 
     # game/code/endings.rpy:154
     old "Ending #11\nRed Diamond"
