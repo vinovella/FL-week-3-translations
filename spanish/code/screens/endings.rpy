@@ -32,9 +32,11 @@ translate spanish strings:
     old "Exit to Mainmenu"
     new "Salir al menú principal"
 
-translate spanish strings:
-
     # game/code/screens/endings.rpy:66
     old "Download free DLC containing this ending"
     new "Descarga gratis el DLC que contiene este final"
+
+    # game/code/screens/endings.rpy:69
+    old "Get DLC-2 containing this ending"
+    new "Consigue el DLC-2 que contiene este final"
 

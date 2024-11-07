@@ -16,8 +16,6 @@ translate chinese strings:
     old "Play"
     new "开始游戏"
 
-translate chinese strings:
-
     # game/code/screens/endings.rpy:64
     old "Starting this ending will lose unsaved progress.\nAre you sure you want to do this?"
     new "开始这个结局会丢失未保存的进度。\n你确定要这么做吗？"
@@ -30,9 +28,11 @@ translate chinese strings:
     old "Exit to Mainmenu"
     new "退出主菜单"
 
-translate chinese strings:
-
     # game/code/screens/endings.rpy:66
     old "Download free DLC containing this ending"
     new "下载包含此结局的免费DLC。"
+
+    # game/code/screens/endings.rpy:69
+    old "Get DLC-2 containing this ending"
+    new " 获取包含该结局的 DLC-2"
 

@@ -16,8 +16,6 @@ translate portuguese strings:
     old "Play"
     new "Jogar"
 
-translate portuguese strings:
-
     # game/code/screens/endings.rpy:64
     old "Starting this ending will lose unsaved progress.\nAre you sure you want to do this?"
     new "Começar este final perderá progresso não salvo.\nTem certeza que deseja fazer isso?"
@@ -30,9 +28,11 @@ translate portuguese strings:
     old "Exit to Mainmenu"
     new "Sair para o Menu Principal"
 
-translate portuguese strings:
-
     # game/code/screens/endings.rpy:66
     old "Download free DLC containing this ending"
     new "Baixe DLC grátis contendo este final"
+
+    # game/code/screens/endings.rpy:69
+    old "Get DLC-2 containing this ending"
+    new " Obter o DLC-2 que contém este final"
 

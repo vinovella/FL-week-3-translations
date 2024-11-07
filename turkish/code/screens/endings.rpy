@@ -32,9 +32,11 @@ translate turkish strings:
     old "Exit to Mainmenu"
     new "Ana menüye çık"
 
-translate turkish strings:
-
     # game/code/screens/endings.rpy:66
     old "Download free DLC containing this ending"
     new "Bu sonu içeren ücretsiz DLC'yi indirin"
+
+    # game/code/screens/endings.rpy:69
+    old "Get DLC-2 containing this ending"
+    new "Bu sonu içeren DLC-2'yi indirin"
 
