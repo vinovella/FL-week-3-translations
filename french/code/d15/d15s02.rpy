@@ -444,6 +444,7 @@ translate french d15s02_a041029e:
 
     # mct "A gold star? What did I get this for?"
     mct "Une étoile d'or ? Pourquoi ai-je eu ça ?"
+
 translate french strings:
 
     # game/code/d15/d15s02.rpy:10
