@@ -6,9 +6,9 @@ translate french strings:
 
     # game/code/d15/prologue.rpy:5
     old "Not_Mike"
-    new "Not_Mike"
+    new "Pas_Mike"
 
     # game/code/d15/prologue.rpy:85
     old "Not_"
-    new "Not_"
+    new "Pas_"
 
