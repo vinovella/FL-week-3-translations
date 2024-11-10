@@ -2,7 +2,7 @@
 translate french d15s01_6dca3502:
 
     # "female voice" "Wake up. Breakfast is almost ready."
-    "female voice" "Réveillez-vous. Le petit déjeuner est presque prêt."
+    "voix féminine" "Réveillez-vous. Le petit déjeuner est presque prêt."
 
 # game/code/d15/d15s01.rpy:179
 translate french d15s01_89d29ebf:
