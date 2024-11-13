@@ -26,7 +26,7 @@ translate french d15s08_3a3d693a:
 translate french d15s08_549ef43a:
 
     # arj "Studying for finals?"
-    arj « Vous étudiez pour les examens ?
+    arj "Vous étudiez pour les examens ?"
 
 # game/code/d15/d15s08.rpy:43
 translate french d15s08_cc91bdf5:
@@ -38,7 +38,7 @@ translate french d15s08_cc91bdf5:
 translate french d15s08_295d6e58:
 
     # hr "I suppose we can get started now? Is the magical field of protection working correctly?"
-    hr « Je suppose que nous pouvons commencer maintenant ? Le champ magique de protection fonctionne-t-il correctement ?
+    hr "Je suppose que nous pouvons commencer maintenant ? Le champ magique de protection fonctionne-t-il correctement ?"
 
 # game/code/d15/d15s08.rpy:49
 translate french d15s08_d2b0df8c:
@@ -296,7 +296,7 @@ translate french d15s08_0194250e:
 translate french d15s08_050d60b4:
 
     # mc "Relatively reasonable?"
-    mc « Relativement raisonnable ?
+    mc "Relativement raisonnable ?"
 
 # game/code/d15/d15s08.rpy:164
 translate french d15s08_993bb9cc:
@@ -314,7 +314,7 @@ translate french d15s08_5206a696:
 translate french d15s08_5d78a982:
 
     # sy "How do you feel about carrying around a couple of car batteries?"
-    sy « Que pensez-vous de transporter quelques batteries de voiture ? »
+    sy "Que pensez-vous de transporter quelques batteries de voiture ?"
 
 # game/code/d15/d15s08.rpy:172
 translate french d15s08_15ed3dad:
@@ -422,7 +422,7 @@ translate french d15s08_eb990079:
 translate french d15s08_ff6f2411:
 
     # mc "I'm sure Hana will be willing to help as needed, right?"
-    mc « Je suis sûr qu'Hana sera prête à aider si nécessaire, n'est-ce pas ?
+    mc "Je suis sûr qu'Hana sera prête à aider si nécessaire, n'est-ce pas ?"
 
 # game/code/d15/d15s08.rpy:224
 translate french d15s08_591aca2b:
@@ -560,7 +560,7 @@ translate french d15s08_cc047e58:
 translate french d15s08_d5929f3e:
 
     # hr "Let me know when you have that device working. Just text me \"Game on\" or something."
-    hr "Faites-moi savoir quand cet appareil fonctionne. Envoyez-moi simplement "Jeu prêt" ou quelque chose du genre."
+    hr "Faites-moi savoir quand cet appareil fonctionne. Envoyez-moi simplement \"Jeu prêt\" ou quelque chose du genre."
 
 # game/code/d15/d15s08.rpy:290
 translate french d15s08_e443bcb9:
@@ -962,7 +962,7 @@ translate french d15s08_27955139:
 translate french d15s08_93cf0c31:
 
     # sy "Shall we just get ready for bed?"
-    sy « Devrions-nous juste nous préparer à aller au lit ? »
+    sy "Devrions-nous juste nous préparer à aller au lit ?"
 
 # game/code/d15/d15s08.rpy:477
 translate french d15s08_9c0e2798:
@@ -1112,7 +1112,7 @@ translate french d15s08_cedd6a8e:
 translate french d15s08_3c862b57:
 
     # mc "Don't you two need to sleep?"
-    mc « Vous n'avez pas besoin de dormir tous les deux ?
+    mc "Vous n'avez pas besoin de dormir tous les deux ?"
 
 # game/code/d15/d15s08.rpy:556
 translate french d15s08_9c7431d1:
@@ -1155,4 +1155,3 @@ translate french d15s08_bcfe6e94:
 
     # mct "...zzZZZzzzz..."
     mct "...zzZZZzzzz..."
-

@@ -164,7 +164,7 @@ translate french d15s06_94dfa815:
 translate french d15s06_55db923e:
 
     # mh "What's a handsome little thing like you doing out here alone, hm?"
-    mh « Qu'est-ce qu'une belle petite chose comme toi fait ici seul, hm ? »
+    mh "Qu'est-ce qu'une belle petite chose comme toi fait ici seul, hm ?"
 
 # game/code/d15/d15s06.rpy:167
 translate french d15s06_a0b43782:
@@ -254,7 +254,7 @@ translate french d15s06_59571f7e:
 translate french d15s06_38288503:
 
     # op "Hiya!"
-    op « Salut ! »
+    op "Salut !"
 
 # game/code/d15/d15s06.rpy:224
 translate french d15s06_8971613c:
@@ -926,7 +926,7 @@ translate french d15s06_pillowtalk_5f1d9eb3:
 translate french d15s06_pillowtalk_54ede8e1:
 
     # mc "Wonder what Oliver's up to?"
-    mc « Je me demande ce que fait Oliver ?
+    mc "Je me demande ce que fait Oliver ?"
 
 # game/code/d15/d15s06.rpy:810
 translate french d15s06_pillowtalk_ce83ab0e:
@@ -980,7 +980,7 @@ translate french d15s06_pillowtalk_b2b2b038:
 translate french d15s06_pillowtalk_dc3c9d63:
 
     # mc "About tha— Wait, are you saying that he needs to fuck some more to stop being so shy and timid?"
-    mc « À propos de… Attends, tu es en train de dire qu'il a besoin de baiser encore pour arrêter d'être si timide et timide ?
+    mc "À propos de… Attends, tu es en train de dire qu'il a besoin de baiser encore pour arrêter d'être si timide et timide ?"
 
 # game/code/d15/d15s06.rpy:849
 translate french d15s06_pillowtalk_76c98c3f:
@@ -1442,7 +1442,7 @@ translate french d15s06_end_55982688:
 translate french d15s06_end_bc94f890:
 
     # op "Is..is this about what happened at the party?"
-    op « Est-ce que c'est à propos de ce qui s'est passé à la fête ?
+    op  "Est-ce que c'est à propos de ce qui s'est passé à la fête ?"
 
 # game/code/d15/d15s06.rpy:1157
 translate french d15s06_end_4099f70b:
@@ -1592,7 +1592,7 @@ translate french d15s06_end_e492dd52:
 translate french d15s06_end_d4bab8be:
 
     # op "Wait, are {i}you{/i}—?"
-    op "Attendez, est-ce que {i}vous{/i}— ? »
+    op "Attendez, est-ce que {i}vous{/i}— ?"
 
 # game/code/d15/d15s06.rpy:1213
 translate french d15s06_end_13a8b996:
@@ -1701,4 +1701,3 @@ translate french strings:
     # game/code/d15/d15s06.rpy:922
     old "I love you too"
     new "Je t'aime aussi"
-

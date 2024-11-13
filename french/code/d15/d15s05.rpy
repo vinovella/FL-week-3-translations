@@ -56,7 +56,7 @@ translate french d15s05_ce2b4b7f:
 translate french d15s05_ada86d40:
 
     # mk "From this side?"
-    mk « De ce côté ?
+    mk "De ce côté ?"
 
 # game/code/d15/d15s05.rpy:93
 translate french d15s05_a931bcf7:
@@ -194,7 +194,7 @@ translate french d15s05_help_edc75021:
 translate french d15s05_help_aaf727b0:
 
     # mk "I need you to see this! I need you!"
-    mk « J'ai besoin que tu voies ça ! J'ai besoin de toi !
+    mk "J'ai besoin que tu voies ça ! J'ai besoin de toi !"
 
 # game/code/d15/d15s05.rpy:182
 translate french d15s05_help_ff34d3a0:
@@ -584,7 +584,7 @@ translate french d15s05_pussyfuck_f4000c40:
 translate french d15s05_pussyfuck_5311e5de:
 
     # mc "Are you on any sort of birth control?"
-    mc « Êtes-vous sous forme de contraception ? »
+    mc "Êtes-vous sous forme de contraception ?"
 
 # game/code/d15/d15s05.rpy:445
 translate french d15s05_pussyfuck_0bd4ebf9:
@@ -1268,13 +1268,13 @@ translate french d15s05_end_d45fbd0e:
 translate french d15s05_end_80b36585:
 
     # mc "Eventually you'll have to leave this toilet wearing nothing but dried cum and piss."
-    mc « Finalement, tu devras quitter ces toilettes en ne portant rien d'autre que du sperme séché et de la pisse. »
+    mc "Finalement, tu devras quitter ces toilettes en ne portant rien d'autre que du sperme séché et de la pisse."
 
 # game/code/d15/d15s05.rpy:834
 translate french d15s05_end_492d8f3a:
 
     # mc "Eventually you'll have to leave this toilet wearing nothing but dried cum."
-    mc « Finalement, tu devras quitter ces toilettes en ne portant rien d'autre que du sperme séché. »
+    mc "Finalement, tu devras quitter ces toilettes en ne portant rien d'autre que du sperme séché."
 
 # game/code/d15/d15s05.rpy:836
 translate french d15s05_end_080a3e66:
@@ -1420,4 +1420,3 @@ translate french strings:
     # game/code/d15/d15s05.rpy:262
     old "Wrap this Up"
     new "Conclure ça"
-

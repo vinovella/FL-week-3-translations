@@ -107,7 +107,7 @@ translate french d15s02_1a62b135:
 translate french d15s02_caa60e4a:
 
     # nk "Raring to go for another 20?"
-    nk « Vous êtes impatient d'en faire 20 autres ?
+    nk "Vous êtes impatient d'en faire 20 autres ?"
 
 # game/code/d15/d15s02.rpy:76
 translate french d15s02_a53b8e94:
@@ -311,7 +311,7 @@ translate french d15s02_3b0b41f7:
 translate french d15s02_b55219f0:
 
     # nk "And I suggest you do that as well.{w} This isn't something you just \"decide.\""
-    nk "Et je vous suggère de le faire également.{w} Ce n'est pas quelque chose que vous simplement "décidez"."
+    nk "Et je vous suggère de le faire également.{w} Ce n'est pas quelque chose que vous simplement \"décidez\"."
 
 # game/code/d15/d15s02.rpy:166
 translate french d15s02_9971da35:
@@ -453,9 +453,8 @@ translate french strings:
 
     # game/code/d15/d15s02.rpy:62
     old "Itching to Break Free"
-    new « Démangeaisons de se libérer »
+    new "Démangeaisons de se libérer"
 
     # game/code/d15/d15s02.rpy:62
     old "Had Enough Fun for Now"
     new "Je me suis assez amusé pour le moment"
-

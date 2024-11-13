@@ -80,7 +80,7 @@ translate french d15s04dw_d195d6d5:
 translate french d15s04dw_5a0d161f:
 
     # mc "Anyway, I got to thinking about how upset you are at-"
-    mc « Quoi qu'il en soit, je dois réfléchir à quel point tu es bouleversé… »
+    mc "Quoi qu'il en soit, je dois réfléchir à quel point tu es bouleversé…"
 
 # game/code/d15/d15s04dw.rpy:69
 translate french d15s04dw_f612b808:
@@ -110,7 +110,7 @@ translate french d15s04dw_5e4d9ef7:
 translate french d15s04dw_fd0b7c7b:
 
     # dw "Did you call her over here to ambush me?"
-    dw « L'avez-vous appelée ici pour me tendre une embuscade ?
+    dw "L'avez-vous appelée ici pour me tendre une embuscade ?"
 
 # game/code/d15/d15s04dw.rpy:88
 translate french d15s04dw_4af78df2:
@@ -188,7 +188,7 @@ translate french d15s04dw_018cc069:
 translate french d15s04dw_ed5dede8:
 
     # dw "PANTS OFF!"
-    dw « ENLEVEZ LE PANTALON ! »
+    dw "ENLEVEZ LE PANTALON !"
 
 # game/code/d15/d15s04dw.rpy:127
 translate french d15s04dw_11455b53:
@@ -410,7 +410,7 @@ translate french d15s04dw_b838406d:
 translate french d15s04dw_0e5edf1f:
 
     # dw "Tell me you are my slave."
-    dw "Dis-moi que tu es mon esclave.
+    dw "Dis-moi que tu es mon esclave."
 
 # game/code/d15/d15s04dw.rpy:257
 translate french d15s04dw_6ce6f705:
@@ -458,7 +458,7 @@ translate french d15s04dw_6b71b605:
 translate french d15s04dw_51821582:
 
     # sb "I take it you don't want to touch this?"
-    sb « Je suppose que tu ne veux pas toucher à ça ?
+    sb "Je suppose que tu ne veux pas toucher à ça ?"
 
 # game/code/d15/d15s04dw.rpy:283
 translate french d15s04dw_4a7e053b:
@@ -494,7 +494,7 @@ translate french d15s04dw_b8e773d6:
 translate french d15s04dw_add6793a:
 
     # sb "Head's or tails, [mcname]?"
-    sb « Pile ou face, [mcname] ? »
+    sb "Pile ou face, [mcname] ?"
 
 # game/code/d15/d15s04dw.rpy:312
 translate french d15s04dw_11455b53_1:
@@ -548,7 +548,7 @@ translate french d15s04dw_de6636c2:
 translate french d15s04dw_75592bb9:
 
     # dw "Do you object?"
-    dw « Est-ce que vous vous y opposez ? »
+    dw "Est-ce que vous vous y opposez ?"
 
 # game/code/d15/d15s04dw.rpy:343
 translate french d15s04dw_9b77be13:
@@ -824,7 +824,7 @@ translate french d15s04dw_aa9977f0:
 translate french d15s04dw_a922091f:
 
     # dw "Which part of \"shut up\" did you not understand?"
-    dw "Quelle partie de "tais-toi" tu n'as pas compris ?"
+    dw "Quelle partie de \"tais-toi\" tu n'as pas compris ?"
 
 # game/code/d15/d15s04dw.rpy:536
 translate french d15s04dw_f98f627b:
@@ -1004,7 +1004,7 @@ translate french d15s04dw_2e0d465a:
 translate french d15s04dw_8f0eb6da:
 
     # dw "Honestly? Same."
-    dw « Honnêtement ? Pareil.
+    dw "Honnêtement ? Pareil."
 
 # game/code/d15/d15s04dw.rpy:649
 translate french d15s04dw_3afdea69:
@@ -1069,4 +1069,3 @@ translate french strings:
     # game/code/d15/d15s04dw.rpy:525
     old "Let the girls think it was entirely up to them"
     new "Laissons les filles penser que cela dépend entièrement d'elles"
-

@@ -56,7 +56,7 @@ translate french d15s04_84f16542:
 translate french d15s04_aea53328:
 
     # mc "What should I do now?" nointeract
-    mc « Que dois-je faire maintenant ? ne pas interagir
+    mc "Que dois-je faire maintenant ? ne pas interagir"
 
 # game/code/d15/d15s04.rpy:57
 translate french d15s04_c448f643:
@@ -181,7 +181,7 @@ translate french d15s04_7e053e33:
 translate french d15s04_37511836:
 
     # mct "Dorm?"
-    mct « Dortoir ? »
+    mct "Dortoir ?"
 
 # game/code/d15/d15s04.rpy:125
 translate french d15s04_4e4b315f:
@@ -262,4 +262,3 @@ translate french strings:
     # game/code/d15/d15s04.rpy:53
     old "Spend time with Daisy"
     new "Passez du temps avec Daisy"
-

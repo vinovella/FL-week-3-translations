@@ -80,7 +80,7 @@ translate french d15s07_a97e6b0b:
 translate french d15s07_6f1f01ee:
 
     # mes "Perfect timing!"
-    mes « Moment parfait ! »
+    mes "Moment parfait !"
 
 # game/code/d15/d15s07.rpy:87
 translate french d15s07_df51a2bf:
@@ -146,7 +146,7 @@ translate french d15s07_f8d554f1:
 translate french d15s07_ef353ec7:
 
     # mc "So, I'm here for moral support? To help Lydia get through this?"
-    mc « Alors, je suis là pour un soutien moral ? Pour aider Lydia à traverser ça ?
+    mc "Alors, je suis là pour un soutien moral ? Pour aider Lydia à traverser ça ?"
 
 # game/code/d15/d15s07.rpy:122
 translate french d15s07_d2e9ac07:
@@ -770,7 +770,7 @@ translate french d15s07_ntr_path_2a8543a8:
 translate french d15s07_ntr_path_6fd4fa7e:
 
     # lc "This worthless piss-slut is my best friend."
-    lc "Vous avez tort," Cette salope sans valeur est ma meilleure amie. "[mcname]."
+    lc "Vous avez tort,\" Cette salope sans valeur est ma meilleure amie. \"[mcname]."
 
 # game/code/d15/d15s07.rpy:552
 translate french d15s07_ntr_path_1eb7b39c:
@@ -1193,4 +1193,3 @@ translate french strings:
     # game/code/d15/d15s07.rpy:738
     old "I'm getting kinda bored of the watersports"
     new "Je commence à m'ennuyer des sports nautiques"
-

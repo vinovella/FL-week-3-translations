@@ -266,7 +266,7 @@ translate french d15s04dd_521f3fb8:
 translate french d15s04dd_ea82eaf3:
 
     # mc "Have you thought about getting away from all of this?"
-    mc « As-tu pensé à t'éloigner de tout ça ?
+    mc "As-tu pensé à t'éloigner de tout ça ?"
 
 # game/code/d15/d15s04dd.rpy:164
 translate french d15s04dd_c9621baf:
@@ -362,7 +362,7 @@ translate french d15s04dd_ba8cad00:
 translate french d15s04dd_5f4b341e:
 
     # "???" "Are you waiting for Dr. Bier?"
-    "???" « Attendez-vous le Dr Bier ?
+    "???" " Attendez-vous le Dr Bier ?"
 
 # game/code/d15/d15s04dd.rpy:205
 translate french d15s04dd_b6261cce_1:
@@ -410,7 +410,7 @@ translate french d15s04dd_973a3103:
 translate french d15s04dd_890bb8d1:
 
     # dd "Are you alri—?"
-    dd « Etes-vous déjà… ?
+    dd "Etes-vous déjà… ?"
 
 # game/code/d15/d15s04dd.rpy:227
 translate french d15s04dd_7bad3c49:
@@ -500,7 +500,7 @@ translate french d15s04dd_96420425:
 translate french d15s04dd_c176a51f:
 
     # dd "Are you really going to deny a dying woman her last wishes?"
-    dd « Allez-vous vraiment refuser à une femme mourante ses dernières volontés ?
+    dd "Allez-vous vraiment refuser à une femme mourante ses dernières volontés ?"
 
 # game/code/d15/d15s04dd.rpy:285
 translate french d15s04dd_19fd4f88:
@@ -512,7 +512,7 @@ translate french d15s04dd_19fd4f88:
 translate french d15s04dd_d2d36880:
 
     # mc "Second of all, the doctor might come in soon. What if you get caught?"
-    mc « Deuxièmement, le médecin pourrait bientôt arriver. Et si vous vous faites prendre ?
+    mc "Deuxièmement, le médecin pourrait bientôt arriver. Et si vous vous faites prendre ?"
 
 # game/code/d15/d15s04dd.rpy:289
 translate french d15s04dd_a54e99bc:
@@ -536,7 +536,7 @@ translate french d15s04dd_30e0fae5:
 translate french d15s04dd_ccec9586:
 
     # dd "What do you think? How do I look?"
-    dd « Qu'en pensez-vous ? À quoi je ressemble ?
+    dd "Qu'en pensez-vous ? À quoi je ressemble ?"
 
 # game/code/d15/d15s04dd.rpy:305
 translate french d15s04dd_409434b2:
@@ -662,7 +662,7 @@ translate french d15s04dd_538b2734:
 translate french d15s04dd_7462c650:
 
     # dd "Are you alright? Does it hurt?"
-    dd « Est-ce que ça va ? Est-ce que ça fait mal ?
+    dd "Est-ce que ça va ? Est-ce que ça fait mal ?"
 
 # game/code/d15/d15s04dd.rpy:388
 translate french d15s04dd_6db3050f:
@@ -895,7 +895,7 @@ translate french d15s04dd_798bd0d2:
 translate french d15s04dd_d5097eba:
 
     # mc "I better go. I'll talk to you later, alright?"
-    mc « Je ferais mieux d'y aller. Je te parlerai plus tard, d'accord ?
+    mc "Je ferais mieux d'y aller. Je te parlerai plus tard, d'accord ?"
 
 # game/code/d15/d15s04dd.rpy:623
 translate french d15s04dd_929e436f:
@@ -939,4 +939,3 @@ translate french strings:
     # game/code/d15/d15s04dd.rpy:596
     old "Don't"
     new "Ne le faites pas"
-

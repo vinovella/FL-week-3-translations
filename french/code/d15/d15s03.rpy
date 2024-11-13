@@ -162,7 +162,7 @@ translate french d15s03_hr_theft_d605adfd:
 translate french d15s03_hr_theft_143f9b57:
 
     # mct "Would Hana have done that? Would she have told me if she did?"
-    mct « Est-ce qu'Hana aurait fait ça ? Me l'aurait-elle dit si elle l'avait fait ?
+    mct "Est-ce qu'Hana aurait fait ça ? Me l'aurait-elle dit si elle l'avait fait ?"
 
 # game/code/d15/d15s03.rpy:112
 translate french d15s03_hr_theft_0c8bbe21:
@@ -240,7 +240,7 @@ translate french d15s03_hr_theft_1feb4308:
 translate french d15s03_hr_theft_c98a8c37:
 
     # pb "So, I just gotta say, \"It's gone\" and move on with my life."
-    pb "Alors, je dois juste dire : "C'est parti" et continuer ma vie."
+    pb "Alors, je dois juste dire : \"C'est parti\" et continuer ma vie."
 
 # game/code/d15/d15s03.rpy:148
 translate french d15s03_hr_theft_bac0670c:
@@ -414,7 +414,7 @@ translate french d15s03_middle_65401d68:
 translate french d15s03_middle_7f4c9957:
 
     # mc "I guess that depends on the rumors. What are people saying?"
-    mc « Je suppose que cela dépend des rumeurs. Que disent les gens ?
+    mc "Je suppose que cela dépend des rumeurs. Que disent les gens ?"
 
 # game/code/d15/d15s03.rpy:239
 translate french d15s03_middle_b689bae8:
@@ -569,7 +569,7 @@ translate french d15s03_dw_setup_a34f14d1:
 translate french d15s03_dw_setup_3e311433:
 
     # mc "She said something about Samiya fucking someone else's boyfriend \"again\"."
-    mc "Elle a dit quelque chose à propos de Samiya qui baisait "encore" le petit ami de quelqu'un d'autre. "
+    mc "Elle a dit quelque chose à propos de Samiya qui baisait \"encore\" le petit ami de quelqu'un d'autre. "
 
 # game/code/d15/d15s03.rpy:319
 translate french d15s03_dw_setup_e2abdc52:
@@ -833,7 +833,7 @@ translate french d15s03_dw_setup_daf3be7c:
 translate french d15s03_dw_setup_9d9b6936:
 
     # mc "What's the business?"
-    mc « Quelle est l'affaire ? »
+    mc "Quelle est l'affaire ?"
 
 # game/code/d15/d15s03.rpy:433
 translate french d15s03_dw_setup_ae3df913:
@@ -893,7 +893,7 @@ translate french d15s03_dw_setup_870be842:
 translate french d15s03_dw_setup_336ed57f:
 
     # mc "Let's get through finals first. Maybe we can do that during the Summer."
-    mc « Passons d'abord aux finales. Peut-être que nous pourrons le faire pendant l'été.
+    mc "Passons d'abord aux finales. Peut-être que nous pourrons le faire pendant l'été."
 
 # game/code/d15/d15s03.rpy:463
 translate french d15s03_dw_setup_621ae14d:
