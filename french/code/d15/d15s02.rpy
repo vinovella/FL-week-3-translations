@@ -458,3 +458,4 @@ translate french strings:
     # game/code/d15/d15s02.rpy:62
     old "Had Enough Fun for Now"
     new "Je me suis assez amusé pour le moment"
+

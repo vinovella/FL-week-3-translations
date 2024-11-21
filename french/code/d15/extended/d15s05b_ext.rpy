@@ -464,13 +464,13 @@ translate french d15s05b_ext_5b4783eb:
 translate french d15s05b_ext_91567b8a:
 
     # mc "No!{w} This should be fun to watch, and I can protect you if anything hinky occurs."
-    mc "Non !{w} Cela devrait être amusant à regarder, et je peux vous protéger si quelque chose de bizarre se produit."
+    mc "Non !{w} Cela devrait être amusant à regarder, et je peux vous protéger si quelque chose de bizarre se produit."
 
 # game/code/d15/extended/d15s05b_ext.rpy:262
 translate french d15s05b_ext_03467ac8:
 
     # pw "Hinky?"
-    pw « Hinky ? »
+    pw "Hinky ?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:265
 translate french d15s05b_ext_452f0f26:
@@ -1640,7 +1640,7 @@ translate french d15s05b_post_lesbians_4d9ff9e8:
 translate french d15s05b_post_lesbians_c2a77b6c:
 
     # pw "What if we peg [mcname]?"
-    pw « Et si nous attachons [mcname] ? »
+    pw "Et si nous attachons [mcname] ?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:904
 translate french d15s05b_post_lesbians_085722e2:
@@ -1892,13 +1892,13 @@ translate french d15s05b_pegging_d192fcd6:
 translate french d15s05b_pegging_d7c22cd3:
 
     # nk "Too much? Do I have your attention now?"
-    nk « Trop ? Est-ce que j'ai votre attention maintenant ?
+    nk "Trop ? Est-ce que j'ai votre attention maintenant ?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1031
 translate french d15s05b_pegging_1396cf78:
 
     # mc "Wow!{w} I was just surprised..."
-    mc "Wow !{w} J'étais juste surpris..."
+    mc "Wow !{w} J'étais juste surpris..."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1033
 translate french d15s05b_pegging_4d9ff9e8:

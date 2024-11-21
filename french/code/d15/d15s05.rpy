@@ -1420,3 +1420,4 @@ translate french strings:
     # game/code/d15/d15s05.rpy:262
     old "Wrap this Up"
     new "Conclure ça"
+

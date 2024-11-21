@@ -262,3 +262,4 @@ translate french strings:
     # game/code/d15/d15s04.rpy:53
     old "Spend time with Daisy"
     new "Passez du temps avec Daisy"
+

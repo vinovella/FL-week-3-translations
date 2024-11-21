@@ -2223,3 +2223,4 @@ translate french strings:
     # game/code/d15/d15s01.rpy:303
     old "Decide Which Cage to Wear"
     new "Décidez quelle cage porter"
+

@@ -1701,3 +1701,4 @@ translate french strings:
     # game/code/d15/d15s06.rpy:922
     old "I love you too"
     new "Je t'aime aussi"
+

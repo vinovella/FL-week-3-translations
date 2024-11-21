@@ -1069,3 +1069,4 @@ translate french strings:
     # game/code/d15/d15s04dw.rpy:525
     old "Let the girls think it was entirely up to them"
     new "Laissons les filles penser que cela dépend entièrement d'elles"
+

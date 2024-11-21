@@ -1193,3 +1193,4 @@ translate french strings:
     # game/code/d15/d15s07.rpy:738
     old "I'm getting kinda bored of the watersports"
     new "Je commence à m'ennuyer des sports nautiques"
+

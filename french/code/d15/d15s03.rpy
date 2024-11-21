@@ -912,3 +912,4 @@ translate french strings:
     # game/code/d15/d15s03.rpy:12
     old "20 minutes later"
     new "20 minutes plus tard"
+

@@ -939,3 +939,4 @@ translate french strings:
     # game/code/d15/d15s04dd.rpy:596
     old "Don't"
     new "Ne le faites pas"
+
