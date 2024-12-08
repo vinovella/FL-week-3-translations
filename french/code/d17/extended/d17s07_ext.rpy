@@ -1,8 +1,8 @@
 # game/code/d17/extended/d17s07_ext.rpy:54
 translate french d17s07_ext_360a8ee5:
 
-    # mct "Seems like Jessie sent me a text. « Can you come over? Please. »"
-    mct "On dirait que Jessie m'a envoyé un texto. « Tu peux venir ? S'il te plaît »."
+    # mct "Seems like Jessie sent me a text. \"Can you come over? Please.\""
+    mct "On dirait que Jessie m'a envoyé un texto. \"Tu peux venir ? S'il te plaît\""
 
 # game/code/d17/extended/d17s07_ext.rpy:55
 translate french d17s07_ext_cb7a1173:
