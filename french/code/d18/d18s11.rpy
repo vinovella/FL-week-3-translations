@@ -2,7 +2,7 @@
 translate french d18s11_78df431c:
 
     # mct "That bitch!{w} I still can't believe that she's been behind all this."
-    mct "Cette salope !{w} Je n'arrive toujours pas à croire qu'elle soit derrière tout ça."
+    mct "Cette salope!{w} Je n'arrive toujours pas à croire qu'elle soit derrière tout ça."
 
 # game/code/d18/d18s11.rpy:22
 translate french d18s11_9782218f:
@@ -14,7 +14,7 @@ translate french d18s11_9782218f:
 translate french d18s11_b5c52f43:
 
     # mct "Pretending like she knew nothing about Fetish Locator when she's running it!"
-    mct "Comme si elle ne savait rien de Fetish Locator alors qu'elle l'utilisait !"
+    mct "Comme si elle ne savait rien de Fetish Locator alors qu'elle l'utilisait!"
 
 # game/code/d18/d18s11.rpy:28
 translate french d18s11_a27d733d:
@@ -26,19 +26,19 @@ translate french d18s11_a27d733d:
 translate french d18s11_e5e45ec9:
 
     # mct "She was behind the whole damn thing!!!"
-    mct "Elle était derrière tout ça !!!"
+    mct "Elle était derrière tout ça!!!"
 
 # game/code/d18/d18s11.rpy:33
 translate french d18s11_3834711a:
 
     # mc "Muther Fucker!!!"
-    mc "Enculée !!!"
+    mc "Enculée!!!"
 
 # game/code/d18/d18s11.rpy:36
 translate french d18s11_fdc5bb68:
 
     # mct "Ow! Fuck!!!"
-    mct "Aïe ! Putain!!!"
+    mct "Aïe! Putain!!!"
 
 # game/code/d18/d18s11.rpy:37
 translate french d18s11_d0de64d3:
@@ -62,7 +62,7 @@ translate french d18s11_cc5cd429:
 translate french d18s11_f0738fc1:
 
     # mct "Where the fuck am I?"
-    mct "Où je suis, putain ?"
+    mct "Où je suis, putain?"
 
 # game/code/d18/d18s11.rpy:46
 translate french d18s11_d4f0651a:
@@ -86,25 +86,25 @@ translate french d18s11_ff056564:
 translate french d18s11_bar_635a8e96:
 
     # "Bartender" "What will you have?"
-    "Barman" "Qu'est-ce que ce sera ?"
+    "Barman" "Qu'est-ce que ce sera?"
 
 # game/code/d18/d18s11.rpy:99
 translate french d18s11_bar_49249960:
 
     # mc "What's strong and cheap?"
-    mc "Un truc fort et pas cher ?"
+    mc "Un truc fort et pas cher?"
 
 # game/code/d18/d18s11.rpy:102
 translate french d18s11_bar_3995efea:
 
     # "Bartender" "Are you thinking Tequila or Lily?"
-    "Barman" "Tu penses à la Tequila ou à Lily ?"
+    "Barman" "Tu penses à la Tequila ou à Lily?"
 
 # game/code/d18/d18s11.rpy:105
 translate french d18s11_bar_db78e4ee:
 
     # mc "That depends. Who's Lily?"
-    mc "Ça dépend. Qui est Lily ?"
+    mc "Ça dépend. Qui est Lily?"
 
 # game/code/d18/d18s11.rpy:108
 translate french d18s11_bar_77dee9d8:
@@ -146,7 +146,7 @@ translate french d18s11_bar_94f973c6:
 translate french d18s11_bar_496a5f58:
 
     # "Bartender" "Girl trouble?"
-    "Barman" "Un problème de fille ?"
+    "Barman" "Un problème de fille?"
 
 # game/code/d18/d18s11.rpy:131
 translate french d18s11_bar_ecffbb80:
@@ -212,13 +212,13 @@ translate french d18s11_bar_eda20da5:
 translate french d18s11_bar_36fe7b33:
 
     # ts "Hey baby. I'm Tracey. What's your name?"
-    ts "Hé bébé. Je m'appelle Tracey. Quel est ton nom ?"
+    ts "Hé bébé. Je m'appelle Tracey. Quel est ton nom?"
 
 # game/code/d18/d18s11.rpy:172
 translate french d18s11_bar_f16aca29:
 
     # ts "You come here often?{w} Maybe you're looking for a good time?"
-    ts "Tu viens souvent ici ?{w} Peut-être que tu cherches à passer un bon moment ?"
+    ts "Tu viens souvent ici?{w} Peut-être que tu cherches à passer un bon moment?"
 
 # game/code/d18/d18s11.rpy:173
 translate french d18s11_bar_5ce6af97:
@@ -248,7 +248,7 @@ translate french d18s11_bar_31d056d9:
 translate french d18s11_bar_a7ff490f:
 
     # ts "Hello?{w} No?{w} Fuck."
-    ts "Allo ?{w}  Non ?{w}  Putain."
+    ts "Allo?{w}  Non?{w}  Putain."
 
 # game/code/d18/d18s11.rpy:184
 translate french d18s11_bar_cd71dfe4:
@@ -266,7 +266,7 @@ translate french d18s11_bar_3d1ff738:
 translate french d18s11_bar_d8b345ef:
 
     # "Stranger" "You alright, man?"
-    "Etranger" "Ça va, mec ?"
+    "Etranger" "Ça va, mec?"
 
 # game/code/d18/d18s11.rpy:193
 translate french d18s11_bar_b492d5a1:
@@ -284,19 +284,19 @@ translate french d18s11_bar_837aa8de:
 translate french d18s11_bar_be6d2955:
 
     # mc "AmRose? Stacy? Can I fucking trust anyone right now?"
-    mc "AmRose ? Stacy ? Puis-je faire confiance à quelqu'un en ce moment ?"
+    mc "AmRose? Stacy? Puis-je faire confiance à quelqu'un en ce moment?"
 
 # game/code/d18/d18s11.rpy:202
 translate french d18s11_bar_015117ed:
 
     # "Stranger 2" "Is that guy just talking to himself?"
-    "Etranger 2" "Est-ce que ce type parle juste à lui-même ?"
+    "Etranger 2" "Est-ce que ce type parle juste à lui-même?"
 
 # game/code/d18/d18s11.rpy:205
 translate french d18s11_bar_e262e5fb:
 
     # "Stranger 1" "You see how much Tequila he's put down already? Just leave him alone."
-    "Etranger 1 " " Tu vois combien de tequila il a déjà bu ? Laissez-le tranquille."
+    "Etranger 1 " " Tu vois combien de tequila il a déjà bu? Laissez-le tranquille."
 
 # game/code/d18/d18s11.rpy:206
 translate french d18s11_bar_f9c72e95:
@@ -308,7 +308,7 @@ translate french d18s11_bar_f9c72e95:
 translate french d18s11_bar_fe776140:
 
     # "Stranger 3" "Isn't this a cop bar? Shouldn't someone do something?"
-    "Etranger 3 " " C'est pas un bar de flic ? Quelqu'un ne devrait pas faire quelque chose ?"
+    "Etranger 3 " " C'est pas un bar de flic? Quelqu'un ne devrait pas faire quelque chose?"
 
 # game/code/d18/d18s11.rpy:212
 translate french d18s11_bar_8e15db1d:
@@ -338,7 +338,7 @@ translate french d18s11_bar_d02c9132:
 translate french d18s11_bar_5f0d0114:
 
     # "Bartender" "Hey buddy, I'm back.{w} How you doing?"
-    "Barman" "Hé mon pote, je suis de retour.{w} Comment vas-tu ?"
+    "Barman" "Hé mon pote, je suis de retour.{w} Comment vas-tu?"
 
 # game/code/d18/d18s11.rpy:225
 translate french d18s11_bar_7ddc4a5e:
@@ -362,7 +362,7 @@ translate french d18s11_bar_eeb06356:
 translate french d18s11_bar_8802af05:
 
     # "Bartender" "I wouldn't say that.{w} Look, you want me to call you a Taxi or something before they haul you into the drunk tank?"
-    "Barman" "Je ne dirais pas ça.{w} Écoute, tu veux que je t'appelle un taxi ou quelque chose comme ça avant qu'ils ne t'emmene en cellule de dégrisement ?"
+    "Barman" "Je ne dirais pas ça.{w} Écoute, tu veux que je t'appelle un taxi ou quelque chose comme ça avant qu'ils ne t'emmene en cellule de dégrisement?"
 
 # game/code/d18/d18s11.rpy:239
 translate french d18s11_bar_83d2babf:
@@ -374,7 +374,7 @@ translate french d18s11_bar_83d2babf:
 translate french d18s11_bar_bd4c1a8f:
 
     # "Bartender" "Alright... where?"
-    "Barman" "Très bien... Où ?"
+    "Barman" "Très bien... Où?"
 
 translate french strings:
 
@@ -393,3 +393,4 @@ translate french strings:
     # game/code/d18/d18s11.rpy:62
     old "Get Drunk in the Bar"
     new "Saoule-toi au bar"
+

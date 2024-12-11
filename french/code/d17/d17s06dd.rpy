@@ -2,19 +2,19 @@
 translate french d17s06dd_10938193:
 
     # dd "[mcname]!"
-    dd "[mcname] !"
+    dd "[mcname]!"
 
 # game/code/d17/d17s06dd.rpy:54
 translate french d17s06dd_724d1c83:
 
     # mc "Daisy! "
-    mc "Daisy !"
+    mc "Daisy!"
 
 # game/code/d17/d17s06dd.rpy:59
 translate french d17s06dd_8473c4fe:
 
     # dd "Who's this little guy?"
-    dd "Qui est ce petit gars ?"
+    dd "Qui est ce petit gars?"
 
 # game/code/d17/d17s06dd.rpy:62
 translate french d17s06dd_63af0f3b:
@@ -38,7 +38,7 @@ translate french d17s06dd_1c40f1e8:
 translate french d17s06dd_1bd9c240:
 
     # dd "I didn't say that!"
-    dd "Je n'ai pas dit ça !"
+    dd "Je n'ai pas dit ça!"
 
 # game/code/d17/d17s06dd.rpy:74
 translate french d17s06dd_12aaf176:
@@ -50,7 +50,7 @@ translate french d17s06dd_12aaf176:
 translate french d17s06dd_62fd9121:
 
     # mc "Any idea what his name is?"
-    mc "Tu as une idée de son nom ?"
+    mc "Tu as une idée de son nom?"
 
 # game/code/d17/d17s06dd.rpy:80
 translate french d17s06dd_494b318b:
@@ -74,13 +74,13 @@ translate french d17s06dd_4b7ef142:
 translate french d17s06dd_95f8edf5:
 
     # dd "Why don't we think of one?"
-    dd "Pourquoi pas en trouver un ?"
+    dd "Pourquoi pas en trouver un?"
 
 # game/code/d17/d17s06dd.rpy:91
 translate french d17s06dd_5ffa9bb3:
 
     # mc "Hmm... Bodo Bass?"
-    mc "Hmm... Bodo Bass ?"
+    mc "Hmm... Bodo Bass?"
 
 # game/code/d17/d17s06dd.rpy:94
 translate french d17s06dd_cff7c7bb:
@@ -92,25 +92,25 @@ translate french d17s06dd_cff7c7bb:
 translate french d17s06dd_f613bff3:
 
     # mc "I don't think he likes that. What about Logan?"
-    mc "Je ne pense pas qu'il aime ça. Et Logan ?"
+    mc "Je ne pense pas qu'il aime ça. Et Logan?"
 
 # game/code/d17/d17s06dd.rpy:100
 translate french d17s06dd_fe409d65:
 
     # mc "I don't think he likes that. What about Lucas?"
-    mc "Humm. Et Lucas ?"
+    mc "Humm. Et Lucas?"
 
 # game/code/d17/d17s06dd.rpy:103
 translate french d17s06dd_197dd42e:
 
     # dd "No, no... {w}Wait, did you hear that?"
-    dd "Non, non... {w}Attends, tu as entendu ça ?"
+    dd "Non, non... {w}Attends, tu as entendu ça?"
 
 # game/code/d17/d17s06dd.rpy:106
 translate french d17s06dd_c6c61c06:
 
     # mc "I didn't. What did he say?"
-    mc "Non. Qu'est-ce qu'il a dit ?"
+    mc "Non. Qu'est-ce qu'il a dit?"
 
 # game/code/d17/d17s06dd.rpy:111
 translate french d17s06dd_d4e56ca0:
@@ -128,7 +128,7 @@ translate french d17s06dd_49a87e86:
 translate french d17s06dd_40fd60a7:
 
     # dd "There you go! What do you think, [d17s06_teddy_name!t]? Is that a good name?"
-    dd "Voilà ! Qu'en penses-tu, [d17s06_teddy_name!t] ? Est-ce un bon nom ?"
+    dd "Voilà! Qu'en penses-tu, [d17s06_teddy_name!t]? Est-ce un bon nom?"
 
 # game/code/d17/d17s06dd.rpy:120
 translate french d17s06dd_2136e9fe:
@@ -152,7 +152,7 @@ translate french d17s06dd_b49313c9:
 translate french d17s06dd_40fd60a7_1:
 
     # dd "There you go! What do you think, [d17s06_teddy_name!t]? Is that a good name?"
-    dd "Voilà ! Qu'en penses-tu, [d17s06_teddy_name!t] ? Est-ce un bon nom ?"
+    dd "Voilà! Qu'en penses-tu, [d17s06_teddy_name!t]? Est-ce un bon nom?"
 
 # game/code/d17/d17s06dd.rpy:132
 translate french d17s06dd_0b48190e:
@@ -170,7 +170,7 @@ translate french d17s06dd_9094b13f:
 translate french d17s06dd_64801887:
 
     # dd "Who's my little [d17s06_teddy_name!t]? Yes you are. Yes you are."
-    dd "Qui est mon petit [d17s06_teddy_name!t] ?  C'est toi.  Oui, tu l'es."
+    dd "Qui est mon petit [d17s06_teddy_name!t]?  C'est toi.  Oui, tu l'es."
 
 # game/code/d17/d17s06dd.rpy:140
 translate french d17s06dd_5d0f1a51:
@@ -200,7 +200,7 @@ translate french d17s06dd_9c205424:
 translate french d17s06dd_12d34f4c:
 
     # mc "Baby?!"
-    mc "Bébé ?!"
+    mc "Bébé?!"
 
 # game/code/d17/d17s06dd.rpy:153
 translate french d17s06dd_ff1cd5cc:
@@ -224,13 +224,13 @@ translate french d17s06dd_6cb5382c:
 translate french d17s06dd_6387b492:
 
     # mc "Shall we take a ride, my dear?"
-    mc "On peut faire un tour, ma chérie ?"
+    mc "On peut faire un tour, ma chérie?"
 
 # game/code/d17/d17s06dd.rpy:166
 translate french d17s06dd_f9076417:
 
     # dd "Oh! Thank you, kind sir."
-    dd "Oh ! Merci gentil Monsieur."
+    dd "Oh! Merci gentil Monsieur."
 
 # game/code/d17/d17s06dd.rpy:173
 translate french d17s06dd_f912b040:
@@ -266,7 +266,7 @@ translate french d17s06dd_3714c19c:
 translate french d17s06dd_1e0e2a9b:
 
     # dd "*sigh* Don't you want to be alive?"
-    dd "*soupir* Tu ne veux pas être en vie ?"
+    dd "*soupir* Tu ne veux pas être en vie?"
 
 # game/code/d17/d17s06dd.rpy:193
 translate french d17s06dd_c0ba4450:
@@ -284,7 +284,7 @@ translate french d17s06dd_98a71c87:
 translate french d17s06dd_35b1b695:
 
     # mc "Does this have something to do with... {w}I don't know what to call them. Your fainting spells?"
-    mc "Est-ce que ça a quelque chose à voir avec... {w} Je ne sais pas comment les appeler. Tes évanouissements ?"
+    mc "Est-ce que ça a quelque chose à voir avec... {w} Je ne sais pas comment les appeler. Tes évanouissements?"
 
 # game/code/d17/d17s06dd.rpy:202
 translate french d17s06dd_137bc0b4:
@@ -296,13 +296,13 @@ translate french d17s06dd_137bc0b4:
 translate french d17s06dd_618ea7d3:
 
     # mc "It sounds sexy when you say that...{w} but I guess it isn't sexy at all, is it?"
-    mc "Ça a l'air sexy quand tu dis ça...{w} mais je suppose que ce n'est pas sexy du tout, n'est-ce pas ?"
+    mc "Ça a l'air sexy quand tu dis ça...{w} mais je suppose que ce n'est pas sexy du tout, n'est-ce pas?"
 
 # game/code/d17/d17s06dd.rpy:208
 translate french d17s06dd_d6e92d26:
 
     # dd "You really want to know about that?"
-    dd "Tu veux vraiment savoir ça ?"
+    dd "Tu veux vraiment savoir ça?"
 
 # game/code/d17/d17s06dd.rpy:211
 translate french d17s06dd_66cc106c:
@@ -344,7 +344,7 @@ translate french d17s06dd_4c2d0c2c:
 translate french d17s06dd_f929e888:
 
     # mc "Oh my God, Daisy. Is there anything they can do?"
-    mc "Oh mon Dieu, Daisy. Y a-t-il quelque chose qu'ils peuvent faire ?"
+    mc "Oh mon Dieu, Daisy. Y a-t-il quelque chose qu'ils peuvent faire?"
 
 # game/code/d17/d17s06dd.rpy:227
 translate french d17s06dd_dd2df230:
@@ -362,7 +362,7 @@ translate french d17s06dd_235a79dc:
 translate french d17s06dd_e4e60bdf:
 
     # mc "What about a transplant? Are you on a list?"
-    mc "Et une greffe ? Tu es sur une liste?"
+    mc "Et une greffe? Tu es sur une liste?"
 
 # game/code/d17/d17s06dd.rpy:234
 translate french d17s06dd_46b8f200:
@@ -374,7 +374,7 @@ translate french d17s06dd_46b8f200:
 translate french d17s06dd_8f83b359:
 
     # mc "Why not? You're young, otherwise healthy, have a lot going for you-"
-    mc "Pourquoi pas ? Tu es jeune, en bonne santé, tu as beaucoup à faire pour toi-."
+    mc "Pourquoi pas? Tu es jeune, en bonne santé, tu as beaucoup à faire pour toi-."
 
 # game/code/d17/d17s06dd.rpy:239
 translate french d17s06dd_d6258ee5:
@@ -392,7 +392,7 @@ translate french d17s06dd_30358b5b:
 translate french d17s06dd_3c2d8018:
 
     # mc "But there are symptoms. They must be able to do something!"
-    mc "Mais il y a des symptômes. Ils doivent être capables de faire quelque chose !"
+    mc "Mais il y a des symptômes. Ils doivent être capables de faire quelque chose!"
 
 # game/code/d17/d17s06dd.rpy:246
 translate french d17s06dd_44b99781:
@@ -410,7 +410,7 @@ translate french d17s06dd_94f3e1d9:
 translate french d17s06dd_c6232d24:
 
     # mc "How can you be so calm about this?!"
-    mc "Comment peux-tu être si calme à propos de ça ?!"
+    mc "Comment peux-tu être si calme à propos de ça?!"
 
 # game/code/d17/d17s06dd.rpy:253
 translate french d17s06dd_d2942ee7:
@@ -446,7 +446,7 @@ translate french d17s06dd_ca4d072f:
 translate french d17s06dd_36ba7389:
 
     # mc "I don't know how to handle this. {w}Did they give you any idea of how long you have?"
-    mc "Je ne sais pas comment gérer ça. {w}Est-ce qu'ils t'ont donné une idée du temps dont tu disposais ?"
+    mc "Je ne sais pas comment gérer ça. {w}Est-ce qu'ils t'ont donné une idée du temps dont tu disposais?"
 
 # game/code/d17/d17s06dd.rpy:267
 translate french d17s06dd_d7a662f5:
@@ -482,13 +482,13 @@ translate french d17s06dd_a03d244e:
 translate french d17s06dd_d4b37bb6:
 
     # mc "Sounds pleasant. {w}Is that what you want to do?"
-    mc "Ça a l'air sympa. {w}C'est ce que tu veux faire ?"
+    mc "Ça a l'air sympa. {w}C'est ce que tu veux faire?"
 
 # game/code/d17/d17s06dd.rpy:281
 translate french d17s06dd_5e87d142:
 
     # dd "Don't you get it? {w}No. I want to live."
-    dd "Tu ne comprends pas ? {w}Non. Je veux vivre ma vie."
+    dd "Tu ne comprends pas? {w}Non. Je veux vivre ma vie."
 
 # game/code/d17/d17s06dd.rpy:283
 translate french d17s06dd_790efdec:
@@ -506,7 +506,7 @@ translate french d17s06dd_ec4cad17:
 translate french d17s06dd_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "Qu'est-ce que tu veux dire ?"
+    mc "Qu'est-ce que tu veux dire?"
 
 # game/code/d17/d17s06dd.rpy:290
 translate french d17s06dd_529897a9:
@@ -542,7 +542,7 @@ translate french d17s06dd_bf12febe:
 translate french d17s06dd_9bc1581a:
 
     # dd "I could be happy enough at the cabin. Is it worth it?"
-    dd "Je pourrais être assez heureuse au chalet. Est-ce que ça vaut le coup ?"
+    dd "Je pourrais être assez heureuse au chalet. Est-ce que ça vaut le coup?"
 
 # game/code/d17/d17s06dd.rpy:303
 translate french d17s06dd_37cd1a65:
@@ -554,7 +554,7 @@ translate french d17s06dd_37cd1a65:
 translate french d17s06dd_ef8af51c:
 
     # dd "What if it is you? What if we are together when it happens?"
-    dd "Et si c'était toi ? Et si nous étions ensemble quand ça arrive ?"
+    dd "Et si c'était toi? Et si nous étions ensemble quand ça arrive?"
 
 # game/code/d17/d17s06dd.rpy:306
 translate french d17s06dd_63dcad17:
@@ -584,7 +584,7 @@ translate french d17s06dd_c4d9cd98:
 translate french d17s06dd_e2b16bd3:
 
     # dd "Really?"
-    dd "Vraiment ?"
+    dd "Vraiment?"
 
 # game/code/d17/d17s06dd.rpy:321
 translate french d17s06dd_cf1adef2:
@@ -596,7 +596,7 @@ translate french d17s06dd_cf1adef2:
 translate french d17s06dd_9f456bf7:
 
     # dd "REALLY Really?"
-    dd "VRAIMENT, vraiment ?"
+    dd "VRAIMENT, vraiment?"
 
 # game/code/d17/d17s06dd.rpy:327
 translate french d17s06dd_546f6e46:
@@ -608,7 +608,7 @@ translate french d17s06dd_546f6e46:
 translate french d17s06dd_0474e74b:
 
     # dd "What happened?"
-    dd "Qu'est ce qui se passe ?"
+    dd "Qu'est ce qui se passe?"
 
 # game/code/d17/d17s06dd.rpy:335
 translate french d17s06dd_d323eb1f:
@@ -632,7 +632,7 @@ translate french d17s06dd_675d9f35:
 translate french d17s06dd_aa00444a:
 
     # mc "The rest of the city seems to be... whaaa?!?"
-    mc "Le reste de la ville semble être... quoooi ?!?"
+    mc "Le reste de la ville semble être... quoooi?!?"
 
 # game/code/d17/d17s06dd.rpy:349
 translate french d17s06dd_3eb06dcc:
@@ -644,19 +644,19 @@ translate french d17s06dd_3eb06dcc:
 translate french d17s06dd_47b57bc5:
 
     # mc "Is this really the right time? Shouldn't we be doing something?"
-    mc "C'est vraiment le bon moment ? Ne devrions-nous pas faire quelque chose ?"
+    mc "C'est vraiment le bon moment? Ne devrions-nous pas faire quelque chose?"
 
 # game/code/d17/d17s06dd.rpy:355
 translate french d17s06dd_eb8a0aa5:
 
     # dd "Don't you get it? It could be hours before the power comes back on."
-    dd "Tu ne comprends pas ? Ça peut prendre des heures avant que le courant ne revienne."
+    dd "Tu ne comprends pas? Ça peut prendre des heures avant que le courant ne revienne."
 
 # game/code/d17/d17s06dd.rpy:356
 translate french d17s06dd_786c21a0:
 
     # dd "Right here, right now, this is all we get. Do you want to just sit here waiting?"
-    dd "Ici, maintenant, c'est tout ce qu'on a. Tu veux juste rester assis ici à attendre ?"
+    dd "Ici, maintenant, c'est tout ce qu'on a. Tu veux juste rester assis ici à attendre?"
 
 # game/code/d17/d17s06dd.rpy:359
 translate french d17s06dd_e9b9ef80:
@@ -668,13 +668,13 @@ translate french d17s06dd_e9b9ef80:
 translate french d17s06dd_3db6c014:
 
     # dd "Let's LIVE damn it!"
-    dd "Profitons de la vie bon sang !"
+    dd "Profitons de la vie bon sang!"
 
 # game/code/d17/d17s06dd.rpy:365
 translate french d17s06dd_9f6cc566:
 
     # mc "Fuck, umm... {w}Alright!"
-    mc "Merde, euh... {w}d'accord !"
+    mc "Merde, euh... {w}d'accord!"
 
 # game/code/d17/d17s06dd.rpy:373
 translate french d17s06dd_91c4d4dc:
@@ -710,7 +710,7 @@ translate french d17s06dd_5bc9b990:
 translate french d17s06dd_27a0807d:
 
     # dd "You like that, don't you?"
-    dd "Tu aimes ça, n'est-ce pas ?"
+    dd "Tu aimes ça, n'est-ce pas?"
 
 # game/code/d17/d17s06dd.rpy:395
 translate french d17s06dd_2d6aa081:
@@ -740,7 +740,7 @@ translate french d17s06dd_45ef8ad9:
 translate french d17s06dd_c6c64dce:
 
     # mc "What do we do if the lights come back on?"
-    mc "Qu'est-ce qu'on fait si les lumières se rallument ?"
+    mc "Qu'est-ce qu'on fait si les lumières se rallument?"
 
 # game/code/d17/d17s06dd.rpy:418
 translate french d17s06dd_973f4fd6:
@@ -758,13 +758,13 @@ translate french d17s06dd_2bf98d84:
 translate french d17s06dd_e1425c9e:
 
     # mct "Why is she sucking her finger? My cock is right there?"
-    mct "Pourquoi elle suce son doigt ? Ma bite est juste là ?"
+    mct "Pourquoi elle suce son doigt? Ma bite est juste là?"
 
 # game/code/d17/d17s06dd.rpy:436
 translate french d17s06dd_4ecb8a04:
 
     # mc "What are you doing now?"
-    mc "Qu'est-ce que tu fais ?"
+    mc "Qu'est-ce que tu fais?"
 
 # game/code/d17/d17s06dd.rpy:440
 translate french d17s06dd_d91680a9:
@@ -776,7 +776,7 @@ translate french d17s06dd_d91680a9:
 translate french d17s06dd_f49dde62:
 
     # mc "Am I going to like it?"
-    mc "Est-ce que je vais aimer ça ?"
+    mc "Est-ce que je vais aimer ça?"
 
 # game/code/d17/d17s06dd.rpy:446
 translate french d17s06dd_c009278a:
@@ -794,7 +794,7 @@ translate french d17s06dd_a5c2218c:
 translate french d17s06dd_c7a38b33:
 
     # mct "Oh! Is that what she has in mind?"
-    mct "Oh ! Est-ce ce qu'elle a en tête ?"
+    mct "Oh! Est-ce ce qu'elle a en tête?"
 
 # game/code/d17/d17s06dd.rpy:476
 translate french d17s06dd_92dda02e:
@@ -812,7 +812,7 @@ translate french d17s06dd_543c5ead:
 translate french d17s06dd_b14538b0:
 
     # mc "You are fucking amazing!"
-    mc "Tu es incroyable !"
+    mc "Tu es incroyable!"
 
 # game/code/d17/d17s06dd.rpy:493
 translate french d17s06dd_6795e10a:
@@ -824,7 +824,7 @@ translate french d17s06dd_6795e10a:
 translate french d17s06dd_7d4458e1:
 
     # mc "Should I stop?"
-    mc "Je devrais arrêter ?"
+    mc "Je devrais arrêter?"
 
 # game/code/d17/d17s06dd.rpy:502
 translate french d17s06dd_7c98d5fd:
@@ -842,7 +842,7 @@ translate french d17s06dd_50c0d6c7:
 translate french d17s06dd_76f2cf66:
 
     # mc "OoooOOOOooooOOOooohhhh yeeeeah!!!"
-    mc "OoooOOOOooooOOOooohhhh ouais !!!"
+    mc "OoooOOOOooooOOOooohhhh ouais!!!"
 
 # game/code/d17/d17s06dd.rpy:527
 translate french d17s06dd_82876f0c:
@@ -878,7 +878,7 @@ translate french d17s06dd_5b5060f1:
 translate french d17s06dd_813fda86:
 
     # mc "Already?"
-    mc "Déjà ?"
+    mc "Déjà?"
 
 # game/code/d17/d17s06dd.rpy:542
 translate french d17s06dd_f2adc67e:
@@ -890,7 +890,7 @@ translate french d17s06dd_f2adc67e:
 translate french d17s06dd_54eb03a8:
 
     # mc "FUCK!"
-    mc "Putain !"
+    mc "Putain!"
 
 # game/code/d17/d17s06dd.rpy:550
 translate french d17s06dd_c2b41df9:
@@ -908,19 +908,19 @@ translate french d17s06dd_a133ce6a:
 translate french d17s06dd_c3e1b04e:
 
     # mc "Let's do this!"
-    mc "Faisons ça !"
+    mc "Faisons ça!"
 
 # game/code/d17/d17s06dd.rpy:559
 translate french d17s06dd_f0fea648:
 
     # mc "You know, the Fetish of the Day?"
-    mc "Tu connais le fétiche du jour ?"
+    mc "Tu connais le fétiche du jour?"
 
 # game/code/d17/d17s06dd.rpy:561
 translate french d17s06dd_f50ff7cc:
 
     # dd "What is it?"
-    dd "Qu'est-ce que c'est ?"
+    dd "Qu'est-ce que c'est?"
 
 # game/code/d17/d17s06dd.rpy:564
 translate french d17s06dd_5cfbf308:
@@ -932,7 +932,7 @@ translate french d17s06dd_5cfbf308:
 translate french d17s06dd_6e082b8e:
 
     # dd "Fuck that game. I need your cum in my cunt!"
-    dd "J'emmerde ce jeu. J'ai besoin de ton sperme dans ma chatte !"
+    dd "J'emmerde ce jeu. J'ai besoin de ton sperme dans ma chatte!"
 
 # game/code/d17/d17s06dd.rpy:570
 translate french d17s06dd_8380a5f2:
@@ -944,25 +944,25 @@ translate french d17s06dd_8380a5f2:
 translate french d17s06dd_0555ffab:
 
     # dd "Shut up and fuck me more!"
-    dd "Tais-toi et baise-moi encore !"
+    dd "Tais-toi et baise-moi encore!"
 
 # game/code/d17/d17s06dd.rpy:579
 translate french d17s06dd_0a570d47:
 
     # mc "Is it safe?"
-    mc "C'est sûr ?"
+    mc "C'est sûr?"
 
 # game/code/d17/d17s06dd.rpy:582
 translate french d17s06dd_31655f87:
 
     # dd "What do you mean?"
-    dd "Qu'est-ce que tu veux dire ?"
+    dd "Qu'est-ce que tu veux dire?"
 
 # game/code/d17/d17s06dd.rpy:585
 translate french d17s06dd_a63f6ef5:
 
     # mc "Are you on birth control?"
-    mc "Tu prends la pilule ?"
+    mc "Tu prends la pilule?"
 
 # game/code/d17/d17s06dd.rpy:586
 translate french d17s06dd_8644a22a:
@@ -974,7 +974,7 @@ translate french d17s06dd_8644a22a:
 translate french d17s06dd_c16df516:
 
     # mc "Oh, good!"
-    mc "Oh, bien !"
+    mc "Oh, bien!"
 
 # game/code/d17/d17s06dd.rpy:595
 translate french d17s06dd_bbd402dd:
@@ -986,7 +986,7 @@ translate french d17s06dd_bbd402dd:
 translate french d17s06dd_c17ef8ec:
 
     # mc "What's that?"
-    mc "De quoi ?"
+    mc "De quoi?"
 
 # game/code/d17/d17s06dd.rpy:601
 translate french d17s06dd_238ac228:
@@ -998,13 +998,13 @@ translate french d17s06dd_238ac228:
 translate french d17s06dd_b27f40f7:
 
     # mc "Honestly? I'd thought about it."
-    mc "Honnêtement ? J'y avais pensé."
+    mc "Honnêtement? J'y avais pensé."
 
 # game/code/d17/d17s06dd.rpy:606
 translate french d17s06dd_29d0f309:
 
     # dd "And?"
-    dd "Et ?"
+    dd "Et?"
 
 # game/code/d17/d17s06dd.rpy:609
 translate french d17s06dd_b91fec45:
@@ -1046,7 +1046,7 @@ translate french d17s06dd_397661e4:
 translate french d17s06dd_b16ce6a6:
 
     # mc "That works too!"
-    mc "Ça marche aussi !"
+    mc "Ça marche aussi!"
 
 # game/code/d17/d17s06dd.rpy:628
 translate french d17s06dd_e317640e:
@@ -1118,7 +1118,7 @@ translate french d17s06dd_f4f2e167:
 translate french d17s06dd_9f6d3b0c:
 
     # dd "I'M SO CLOSE"
-    dd "Je suis si PROCHE !"
+    dd "Je suis si PROCHE!"
 
 # game/code/d17/d17s06dd.rpy:649
 translate french d17s06dd_85aa1628:
@@ -1130,13 +1130,13 @@ translate french d17s06dd_85aa1628:
 translate french d17s06dd_6eced205:
 
     # dd "YES! {w}YESSS!! {w}YESSSSSS!!!!"
-    dd "OUI ! {w}OUIIII !! {w}OOOOUUUUIIIIII!!!!"
+    dd "OUI! {w}OUIIII!! {w}OOOOUUUUIIIIII!!!!"
 
 # game/code/d17/d17s06dd.rpy:659
 translate french d17s06dd_ab58db53:
 
     # dd "NOW!!! DO IT!!!"
-    dd "MAINTENANT !!! FAIS-LE!!!"
+    dd "MAINTENANT!!! FAIS-LE!!!"
 
 # game/code/d17/d17s06dd.rpy:660
 translate french d17s06dd_113b97ce:
@@ -1148,7 +1148,7 @@ translate french d17s06dd_113b97ce:
 translate french d17s06dd_6562866c:
 
     # mc "FUCK YEEAAAAAAAHHHH!!!!!"
-    mc "PUTAIN OOOUUUIIII !!!!!"
+    mc "PUTAIN OOOUUUIIII!!!!!"
 
 # game/code/d17/d17s06dd.rpy:669
 translate french d17s06dd_a8488999:
@@ -1178,19 +1178,19 @@ translate french d17s06dd_63cc8248:
 translate french d17s06dd_150e680f:
 
     # mc "hmm?"
-    mc "Hein ?"
+    mc "Hein?"
 
 # game/code/d17/d17s06dd.rpy:695
 translate french d17s06dd_cd51dfc9:
 
     # dd "Oh, [mcname]?"
-    dd "Oh, [mcname] ?"
+    dd "Oh, [mcname]?"
 
 # game/code/d17/d17s06dd.rpy:697
 translate french d17s06dd_def0ad19:
 
     # mc "What is it?"
-    mc "Qu'est-ce qu'il y a ?"
+    mc "Qu'est-ce qu'il y a?"
 
 # game/code/d17/d17s06dd.rpy:700
 translate french d17s06dd_214eeab7:
@@ -1234,7 +1234,7 @@ translate french strings:
 
     # game/code/d17/d17s06dd.rpy:572
     old "Wait - Is it safe?"
-    new "Attends, c'est sûr ?"
+    new "Attends, c'est sûr?"
 
     # game/code/d17/d17s06dd.rpy:572
     old "Don't Care"

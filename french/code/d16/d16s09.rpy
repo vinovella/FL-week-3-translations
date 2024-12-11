@@ -2,7 +2,7 @@
 translate french d16s09_8b63c9a4:
 
     # mc "You ready?"
-    mc "Tu es prêt ?"
+    mc "Tu es prêt?"
 
 # game/code/d16/d16s09.rpy:38
 translate french d16s09_18f4fc33:
@@ -32,13 +32,13 @@ translate french d16s09_4d9ff9e8:
 translate french d16s09_57c9484e:
 
     # mc "Any thoughts on how to get this off?"
-    mc "Une idée sur la façon de retirer ça ?"
+    mc "Une idée sur la façon de retirer ça?"
 
 # game/code/d16/d16s09.rpy:57
 translate french d16s09_e605f8c3:
 
     # nk "Sledgehammer? Bolt cutters?"
-    nk "Marteau ? Coupe-boulons ?"
+    nk "Marteau? Coupe-boulons?"
 
 # game/code/d16/d16s09.rpy:63
 translate french d16s09_b39c3dfd:
@@ -74,7 +74,7 @@ translate french d16s09_04a8f54f:
 translate french d16s09_c078d059:
 
     # nk "Please. Do you know how complicated espresso machines are?{w} That was easy by comparison."
-    nk "S'il vous plaît. Savez-vous à quel point les machines à expresso sont compliquées ?{w} C'était facile en comparaison."
+    nk "S'il vous plaît. Savez-vous à quel point les machines à expresso sont compliquées?{w} C'était facile en comparaison."
 
 # game/code/d16/d16s09.rpy:88
 translate french d16s09_8695dbec:
@@ -104,19 +104,19 @@ translate french d16s09_da78966e:
 translate french d16s09_52bbbabc:
 
     # nk "What about your friends and fuckbuddies?"
-    nk "Et tes amis et copains ?"
+    nk "Et tes amis et copains?"
 
 # game/code/d16/d16s09.rpy:99
 translate french d16s09_e515632a:
 
     # mc "What about Polly - your blind date?"
-    mc "Et Polly, ton rendez-vous à l'aveugle ?"
+    mc "Et Polly, ton rendez-vous à l'aveugle?"
 
 # game/code/d16/d16s09.rpy:102
 translate french d16s09_385343d0:
 
     # nk "We're really going to just leave it all behind us?"
-    nk "Nous allons vraiment tout laisser derrière nous ?"
+    nk "Nous allons vraiment tout laisser derrière nous?"
 
 # game/code/d16/d16s09.rpy:104
 translate french d16s09_56bb8903:
@@ -128,7 +128,7 @@ translate french d16s09_56bb8903:
 translate french d16s09_9f8a53b3:
 
     # nk "And monogamy? Do you think it will suit you?"
-    nk "Et la monogamie ? Pensez-vous que cela vous conviendra ?"
+    nk "Et la monogamie? Pensez-vous que cela vous conviendra?"
 
 # game/code/d16/d16s09.rpy:109
 translate french d16s09_f7b5ac95:

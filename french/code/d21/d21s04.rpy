@@ -2,7 +2,7 @@
 translate french d21s04_f426db53:
 
     # mh "[mcname]? What are you doing here?"
-    mh "[mcname] ? Que fait-tu ici?"
+    mh "[mcname]? Que fait-tu ici?"
 
 # game/code/d21/d21s04.rpy:40
 translate french d21s04_bc4ad43e:
@@ -98,7 +98,7 @@ translate french d21s04_44ea61c0:
 translate french d21s04_7248cfeb:
 
     # mh "...I don't know. But what I {i}do{/i} know is that you said what you feel is right."
-    mh "...Je ne sais pas. Mais ce que je {/i}sais{/i}, c'est que tu as dit ce que tu pensais être juste."
+    mh "...Je ne sais pas. Mais ce que je {i}sais{/i}, c'est que tu as dit ce que tu pensais être juste."
 
 # game/code/d21/d21s04.rpy:84
 translate french d21s04_23142ba5:
@@ -200,7 +200,7 @@ translate french d21s04_77a00fc4:
 translate french d21s04_4672ec34:
 
     # mc "Oh? Miss Harris, you're not asking me out on a date are you?"
-    mc "Oh ? Miss Harris, tu ne m'invite pas à sortir avec toi, n'est-ce pas?"
+    mc "Oh? Miss Harris, tu ne m'invite pas à sortir avec toi, n'est-ce pas?"
 
 # game/code/d21/d21s04.rpy:136
 translate french d21s04_19d636c2:
@@ -374,7 +374,7 @@ translate french d21s04_5ad9c0b3:
 translate french d21s04_8b3f2d0a:
 
     # mc "*Chuckles* What {i}are{/i} your kinks, though? We never talked about it."
-    mc "*Rires* Mais quels {/i}sont{/i} tes défauts?  Nous n'en avons jamais parlé."
+    mc "*Rires* Mais quels {i}sont{/i} tes défauts?  Nous n'en avons jamais parlé."
 
 # game/code/d21/d21s04.rpy:218
 translate french d21s04_3834bfd1:
@@ -422,7 +422,7 @@ translate french d21s04_d97d3dbb:
 translate french d21s04_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh ?"
+    mc "Oh?"
 
 # game/code/d21/d21s04.rpy:239
 translate french d21s04_baebac66:
@@ -434,7 +434,7 @@ translate french d21s04_baebac66:
 translate french d21s04_b3fb2609:
 
     # mc "Do you now? Looks like someone's gunning for my position."
-    mc "Tu le fais maintenant ? On dirait que quelqu'un veut ma position."
+    mc "Tu le fais maintenant? On dirait que quelqu'un veut ma position."
 
 # game/code/d21/d21s04.rpy:246
 translate french d21s04_6b48f9fb:
@@ -446,7 +446,7 @@ translate french d21s04_6b48f9fb:
 translate french d21s04_12b698e2:
 
     # mc "Have you ever wanted to be dominant with me?"
-    mc "As-tu déjà voulu être dominante avec moi ?"
+    mc "As-tu déjà voulu être dominante avec moi?"
 
 # game/code/d21/d21s04.rpy:252
 translate french d21s04_3ad2175c:
@@ -536,13 +536,13 @@ translate french d21s04_507f6d30:
 translate french d21s04_95ded377:
 
     # mc "I guess you could say that I really {i}showed you the world{/i}, huh?"
-    mc "Je suppose qu'on pourrait dire que je t'ai vraiment {i}montré le monde{/i}, hein ?"
+    mc "Je suppose qu'on pourrait dire que je t'ai vraiment {i}montré le monde{/i}, hein?"
 
 # game/code/d21/d21s04.rpy:289
 translate french d21s04_bd227405:
 
     # mc "...But I'm assuming there's more to it?"
-    mc "...Mais je suppose qu'il y a plus que ça ?"
+    mc "...Mais je suppose qu'il y a plus que ça?"
 
 # game/code/d21/d21s04.rpy:295
 translate french d21s04_d2ad5870:
@@ -554,7 +554,7 @@ translate french d21s04_d2ad5870:
 translate french d21s04_6b4fbc68:
 
     # mc "Lyssa. You know you can tell me anything, right?"
-    mc "Lyssa. Tu sais que tu peux tout me dire, n'est-ce pas ?"
+    mc "Lyssa. Tu sais que tu peux tout me dire, n'est-ce pas?"
 
 # game/code/d21/d21s04.rpy:301
 translate french d21s04_76c4883b:
@@ -644,7 +644,7 @@ translate french d21s04_ebd5fb90:
 translate french d21s04_d9fc70c6:
 
     # mc "Stacy?"
-    mc "Stacy ?"
+    mc "Stacy?"
 
 # game/code/d21/d21s04.rpy:346
 translate french d21s04_f410ec84:
@@ -668,7 +668,7 @@ translate french d21s04_50a11e79:
 translate french d21s04_59571f7e:
 
     # mc "Oliver?"
-    mc "Oliver ?"
+    mc "Oliver?"
 
 # game/code/d21/d21s04.rpy:357
 translate french d21s04_7b99f48e:
@@ -770,7 +770,7 @@ translate french d21s04_3913f7ac:
 translate french d21s04_mcgoeswithmh_8c13f155:
 
     # mh "Really? Are you really ready to leave all your other girls behind?"
-    mh "Vraiment? Tu es vraiment prêt à laisser toutes tes autres filles derrière toi ?"
+    mh "Vraiment? Tu es vraiment prêt à laisser toutes tes autres filles derrière toi?"
 
 # game/code/d21/d21s04.rpy:466
 translate french d21s04_mcgoeswithmh_d7218884:
@@ -835,3 +835,4 @@ translate french strings:
     # game/code/d21/d21s04.rpy:389
     old "I need to think about this"
     new "Je dois réfléchir à ça"
+

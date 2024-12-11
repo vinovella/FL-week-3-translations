@@ -56,7 +56,7 @@ translate french d19s06_b450fe5b:
 translate french d19s06_dce0c845:
 
     # mct "Holy shit, this is exactly what I need. A whole video!"
-    mct "Putain de merde, c'est exactement ce dont j'ai besoin. Toute une vidéo !"
+    mct "Putain de merde, c'est exactement ce dont j'ai besoin. Toute une vidéo!"
 
 # game/code/d19/d19s06.rpy:40
 translate french d19s06_2b62923a:
@@ -104,13 +104,13 @@ translate french d19s06_c07ea2bb:
 translate french d19s06_64362d5a:
 
     # mct "[d19s06_video_points] points for a single video!? What the fuck!?"
-    mct "[d19s06_video_points] points pour une seule vidéo !? C'est quoi ce bordel !?"
+    mct "[d19s06_video_points] points pour une seule vidéo!? C'est quoi ce bordel!?"
 
 # game/code/d19/d19s06.rpy:54
 translate french d19s06_ee60463e:
 
     # mct "How many points do I even have?"
-    mct "Combien j'ai de points ?"
+    mct "Combien j'ai de points?"
 
 # game/code/d19/d19s06.rpy:60
 translate french d19s06_421b409e:
@@ -152,7 +152,7 @@ translate french d19s06_bfb5898c:
 translate french d19s06_0e0412e8:
 
     # mct "Fuck!"
-    mct "Putain !"
+    mct "Putain!"
 
 # game/code/d19/d19s06.rpy:87
 translate french d19s06_fbe7d66f:
@@ -164,7 +164,7 @@ translate french d19s06_fbe7d66f:
 translate french d19s06_0edf5cc0:
 
     # mct "What can I do to get Lewald on my side?"
-    mct "Que puis-je faire pour avoir Lewald de mon côté ?"
+    mct "Que puis-je faire pour avoir Lewald de mon côté?"
 
 # game/code/d19/d19s06.rpy:89
 translate french d19s06_4fce1700:
@@ -188,7 +188,7 @@ translate french d19s06_83c41775:
 translate french d19s06_47ddb690:
 
     # mct "Hm... I wonder what Maria is up to?"
-    mct "Hm... Je me demande ce que Maria fait ?"
+    mct "Hm... Je me demande ce que Maria fait?"
 
 # game/code/d19/d19s06.rpy:110
 translate french d19s06_4495e3a0:
@@ -218,7 +218,7 @@ translate french d19s06_e5073018:
 translate french d19s06_video_choice_03f8a2f2:
 
     # mct "Should I purchase the video?"
-    mct "Dois-je acheter la vidéo ?"
+    mct "Dois-je acheter la vidéo?"
 
 # game/code/d19/d19s06.rpy:132
 translate french d19s06_video_choice_bd9cd835:
@@ -271,8 +271,8 @@ translate french d19s06_video_57243e4b:
 # game/code/d19/d19s06.rpy:167
 translate french d19s06_video_df262461:
 
-    # mct "« Sister? AmRose is an only child. Why would she lie?"
-    mct "« Sœur »? AmRose est fille unique. Pourquoi mentirait-elle ?"
+    # mct ""Sister? AmRose is an only child. Why would she lie?"
+    mct "\"Sœur\"? AmRose est fille unique. Pourquoi mentirait-elle?"
 
 # game/code/d19/d19s06.rpy:170
 translate french d19s06_video_720cf2b8:
@@ -302,7 +302,7 @@ translate french d19s06_video_5de0d4d0:
 translate french d19s06_video_c7418181:
 
     # mct "What is she trying to do here?"
-    mct "Qu'est-ce qu'elle essaie de faire ici ?"
+    mct "Qu'est-ce qu'elle essaie de faire ici?"
 
 # game/code/d19/d19s06.rpy:186
 translate french d19s06_video_77ec00c6:
@@ -320,13 +320,13 @@ translate french d19s06_video_16b04a89:
 translate french d19s06_video_23674ee5:
 
     # cl "I uh...I like being choked?"
-    cl "Je euh... j'aime être étouffée ?"
+    cl "Je euh... j'aime être étouffée?"
 
 # game/code/d19/d19s06.rpy:193
 translate french d19s06_video_57a83b75:
 
     # tl "{i}Choking{/i}. Oh my Lord, what did I do to deserve such a lost daughter? You're a disgrace to our kind."
-    tl "{i}Étouffé{/i}. Oh mon Seigneur, qu'ai-je fait pour mériter une fille aussi perdue ? Tu es une honte pour notre espèce."
+    tl "{i}Étouffé{/i}. Oh mon Seigneur, qu'ai-je fait pour mériter une fille aussi perdue? Tu es une honte pour notre espèce."
 
 # game/code/d19/d19s06.rpy:199
 translate french d19s06_video_9d5709da:
@@ -362,7 +362,7 @@ translate french d19s06_video_23c408d6:
 translate french d19s06_video_0bd39603:
 
     # mct "What is she whispering? She's up to something."
-    mct "Qu'est-ce qu'elle murmure ? Elle prépare quelque chose."
+    mct "Qu'est-ce qu'elle murmure? Elle prépare quelque chose."
 
 # game/code/d19/d19s06.rpy:223
 translate french d19s06_video_ccca6fe7:
@@ -398,7 +398,7 @@ translate french d19s06_video_43027c3f:
 translate french d19s06_video_4112cadb:
 
     # arj "Understood?"
-    arj "Tu as compris ?"
+    arj "Tu as compris?"
 
 # game/code/d19/d19s06.rpy:253
 translate french d19s06_video_63a86619:
@@ -416,19 +416,19 @@ translate french d19s06_video_a57533ab:
 translate french d19s06_video_106b4703:
 
     # cl "No! No! *Choked moans* Please! I beg of you! Stop!"
-    cl "Non! Non! *Gémissements étouffés* S'il te plaît ! Je t'en supplie! Arrête !"
+    cl "Non! Non! *Gémissements étouffés* S'il te plaît! Je t'en supplie! Arrête!"
 
 # game/code/d19/d19s06.rpy:270
 translate french d19s06_video_b0ff35e2:
 
     # cl "I can't take anymore! My precious breasts! Oh lord have mercy!"
-    cl "Je n'en peux plus ! Mes précieux seins ! Oh Seigneur, aie pitié !"
+    cl "Je n'en peux plus! Mes précieux seins! Oh Seigneur, aie pitié!"
 
 # game/code/d19/d19s06.rpy:273
 translate french d19s06_video_1c9d3277:
 
     # tl "This {i}is{/i} mercy, Cynthia. Learn, learn before you subject yourself to the eternal fires of hell!"
-    tl "C'{i}est{/i} de la pitié, Cynthia. Apprends, apprends avant de te soumettre aux feux éternels de l’enfer !"
+    tl "C'{i}est{/i} de la pitié, Cynthia. Apprends, apprends avant de te soumettre aux feux éternels de l’enfer!"
 
 # game/code/d19/d19s06.rpy:276
 translate french d19s06_video_c49cde62:
@@ -446,7 +446,7 @@ translate french d19s06_video_be5e38fb:
 translate french d19s06_video_ba760293:
 
     # cl "Please! {i}{b}Please{/b}{/i}! As God is my witness, I'm free of lust! Please, stop this terrible pain!"
-    cl "S'il te plaît! {i}{b}S'il te plaît{/b}{/i} !  Dieu m'en soit témoin, je suis libre de convoitise !  S'il te plaît, arrête cette terrible douleur !"
+    cl "S'il te plaît! {i}{b}S'il te plaît{/b}{/i}!  Dieu m'en soit témoin, je suis libre de convoitise!  S'il te plaît, arrête cette terrible douleur!"
 
 # game/code/d19/d19s06.rpy:285
 translate french d19s06_video_3978731e:
@@ -500,7 +500,7 @@ translate french d19s06_video_6b4f116b:
 translate french d19s06_video_c4c6bc85:
 
     # arj "You break your poor mother's heart with your sinful ways. Is that kindness?"
-    arj "Tu brises le cœur de ta pauvre mère avec tes manières pécheresses. C'est de la gentillesse ?"
+    arj "Tu brises le cœur de ta pauvre mère avec tes manières pécheresses. C'est de la gentillesse?"
 
 # game/code/d19/d19s06.rpy:317
 translate french d19s06_video_966cca35:
@@ -554,7 +554,7 @@ translate french d19s06_video_08c7ec7a:
 translate french d19s06_video_489d90e2:
 
     # arj "She will now. Won't you?"
-    arj "Elle le fera maintenant. N'est-ce pas ?"
+    arj "Elle le fera maintenant. N'est-ce pas?"
 
 # game/code/d19/d19s06.rpy:341
 translate french d19s06_video_4965b1e9:
@@ -644,7 +644,7 @@ translate french d19s06_video_67ceea6a:
 translate french d19s06_video_2d03808f:
 
     # arj "Do you now understand, whore? Do you understand what happens when you stray from your flock?"
-    arj "Tu comprends maintenant, putain ? Comprends tu ce qui arrive lorsque tu t'éloignes de ton troupeau ?"
+    arj "Tu comprends maintenant, putain? Comprends tu ce qui arrive lorsque tu t'éloignes de ton troupeau?"
 
 # game/code/d19/d19s06.rpy:385
 translate french d19s06_video_2ac67add:
@@ -656,19 +656,19 @@ translate french d19s06_video_2ac67add:
 translate french d19s06_video_014fa9b3:
 
     # tl "Yes! Yes! Exactly!"
-    tl "Oui ! Oui! Exactement!"
+    tl "Oui! Oui! Exactement!"
 
 # game/code/d19/d19s06.rpy:404
 translate french d19s06_video_4af89432:
 
     # mct "Huh?{w} That's it!?"
-    mct "Hein?{w} C'est tout !?"
+    mct "Hein?{w} C'est tout!?"
 
 # game/code/d19/d19s06.rpy:405
 translate french d19s06_video_80b1a574:
 
     # mct "All those points and that's all I fucking get!?"
-    mct "Tous ces points et c'est tout ce que j'ai !?"
+    mct "Tous ces points et c'est tout ce que j'ai!?"
 
 # game/code/d19/d19s06.rpy:406
 translate french d19s06_video_6646b278:
@@ -710,19 +710,19 @@ translate french d19s06_video_c0e89e79:
 translate french d19s06_mes_text_15a883b5:
 
     # mct "Min?"
-    mct "Min ?"
+    mct "Min?"
 
 # game/code/d19/d19s06.rpy:440
 translate french d19s06_mes_text_99677f8a:
 
     # mes "Can you come over? I got a surprise for you."
-    mes "Tu peux venir ? J'ai une surprise pour toi."
+    mes "Tu peux venir? J'ai une surprise pour toi."
 
 # game/code/d19/d19s06.rpy:446
 translate french d19s06_mes_text_0a73e5c7:
 
     # mct "Whats the surprise?"
-    mct "Quelle surprise ?"
+    mct "Quelle surprise?"
 
 # game/code/d19/d19s06.rpy:448
 translate french d19s06_mes_text_b1af2f77:
@@ -758,19 +758,19 @@ translate french d19s06_lewald_1b6af0af:
 translate french d19s06_lewald_0c1e0e90:
 
     # tl "Hello?"
-    tl "Bonjour ?"
+    tl "Bonjour?"
 
 # game/code/d19/d19s06.rpy:486
 translate french d19s06_lewald_93b0f908:
 
     # mc "*Clears throat* Yes, hello. Is this Professor Lewald?"
-    mc "*Racle la gorge* Oui, bonjour. C'est le professeur Lewald ?"
+    mc "*Racle la gorge* Oui, bonjour. C'est le professeur Lewald?"
 
 # game/code/d19/d19s06.rpy:490
 translate french d19s06_lewald_5b767825:
 
     # tl "Yes, it is. Who is this?"
-    tl "Oui. Qui est-ce ?"
+    tl "Oui. Qui est-ce?"
 
 # game/code/d19/d19s06.rpy:495
 translate french d19s06_lewald_fdf663ba:
@@ -794,7 +794,7 @@ translate french d19s06_lewald_1d02bbe7:
 translate french d19s06_lewald_6ca21aa1:
 
     # tl "I do?"
-    tl "Ah oui ?"
+    tl "Ah oui?"
 
 # game/code/d19/d19s06.rpy:513
 translate french d19s06_lewald_69b8e986:
@@ -806,7 +806,7 @@ translate french d19s06_lewald_69b8e986:
 translate french d19s06_lewald_44dac2b1:
 
     # tl "[mclogin], you say? Are you one of the faithful?"
-    tl "[mclogin], dites vous ? Êtes-vous un fidèle ?"
+    tl "[mclogin], dites vous? Êtes-vous un fidèle?"
 
 # game/code/d19/d19s06.rpy:524
 translate french d19s06_lewald_3539018f:
@@ -830,7 +830,7 @@ translate french d19s06_lewald_260878c8:
 translate french d19s06_lewald_3dd3a7af:
 
     # tl "So, you're not part of our spiritual collective? I'm not sure-"
-    tl "Alors vous ne faites pas partie de notre collectif spirituel ? Je ne suis pas sûr-"
+    tl "Alors vous ne faites pas partie de notre collectif spirituel? Je ne suis pas sûr-"
 
 # game/code/d19/d19s06.rpy:535
 translate french d19s06_lewald_3a9ec2cd:
@@ -854,7 +854,7 @@ translate french d19s06_lewald_1bf5ec34:
 translate french d19s06_lewald_a20e89f7:
 
     # tl "Do I need to provide payment?"
-    tl "Dois-je effectuer un paiement ?"
+    tl "Dois-je effectuer un paiement?"
 
 # game/code/d19/d19s06.rpy:553
 translate french d19s06_lewald_412f71aa:
@@ -884,7 +884,7 @@ translate french d19s06_lewald_a28f1892:
 translate french d19s06_lewald_48e23eb2:
 
     # tl "Your performance will influence my decision. Is that it?"
-    tl "Ta performance influencera ma décision. C'est ça ?"
+    tl "Ta performance influencera ma décision. C'est ça?"
 
 # game/code/d19/d19s06.rpy:574
 translate french d19s06_lewald_950e9092:
@@ -908,7 +908,7 @@ translate french d19s06_lewald_5fe6a184:
 translate french d19s06_lewald_5a402f79:
 
     # tl "Oh?"
-    tl "Oh ?"
+    tl "Oh?"
 
 # game/code/d19/d19s06.rpy:590
 translate french d19s06_lewald_fbee7c8d:
@@ -926,7 +926,7 @@ translate french d19s06_lewald_abfe16b9:
 translate french d19s06_lewald_e76cdf58:
 
     # tl "Excuse me?"
-    tl "Excuse-moi ?"
+    tl "Excuse-moi?"
 
 # game/code/d19/d19s06.rpy:608
 translate french d19s06_lewald_421687c6:
@@ -968,7 +968,7 @@ translate french d19s06_lewald_7c267f1b:
 translate french d19s06_lewald_bcbd57e8:
 
     # tl "Master?"
-    tl "Maître ?"
+    tl "Maître?"
 
 # game/code/d19/d19s06.rpy:632
 translate french d19s06_lewald_51e0f28b:
@@ -998,7 +998,7 @@ translate french d19s06_lewald_1657cf69:
 translate french d19s06_lewald_dfe53d08:
 
     # mct "It worked!!! I can't believe I pulled that off!"
-    mct "Ça a marché !!! Je n'arrive pas à croire que j'ai réussi ça !"
+    mct "Ça a marché!!! Je n'arrive pas à croire que j'ai réussi ça!"
 
 # game/code/d19/d19s06.rpy:656
 translate french d19s06_lewald_a17f5287:
@@ -1010,7 +1010,7 @@ translate french d19s06_lewald_a17f5287:
 translate french d19s06_lewald_ca64317a:
 
     # mct "Oh, shit! What the hell am I going to do tomorrow?!"
-    mct "Oh merde ! Qu'est-ce que je vais faire demain ?!"
+    mct "Oh merde! Qu'est-ce que je vais faire demain?!"
 
 translate french strings:
 
@@ -1033,3 +1033,4 @@ translate french strings:
     # game/code/d19/d19s06.rpy:587
     old "Both Cynthia and Her Mother"
     new "Cynthia et sa mère"
+

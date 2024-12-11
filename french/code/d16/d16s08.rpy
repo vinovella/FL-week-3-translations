@@ -2,7 +2,7 @@
 translate french d16s08_d60f6efd:
 
     # arj "Did you call Lydia before coming over here?"
-    arj "As-tu appelé Lydia avant de venir ici ?"
+    arj "As-tu appelé Lydia avant de venir ici?"
 
 # game/code/d16/d16s08.rpy:24
 translate french d16s08_96b21177:
@@ -26,7 +26,7 @@ translate french d16s08_219a3ecf:
 translate french d16s08_1521dd2a:
 
     # mc "Well, it's Finals Week. {w}Mind if I study a bit?"
-    mc "Eh bien, c'est la semaine des examens. {w}Ça vous dérange si j'étudie un peu ?"
+    mc "Eh bien, c'est la semaine des examens. {w}Ça vous dérange si j'étudie un peu?"
 
 # game/code/d16/d16s08.rpy:39
 translate french d16s08_792e2594:
@@ -62,7 +62,7 @@ translate french d16s08_1a299b8b:
 translate french d16s08_28459e19:
 
     # mc "Okay, so who...{w} or what do you have in mind?"
-    mc "D'accord, alors qui...{w} ou qu'est-ce que tu as en tête ?"
+    mc "D'accord, alors qui...{w} ou qu'est-ce que tu as en tête?"
 
 # game/code/d16/d16s08.rpy:59
 translate french d16s08_594a9b43:
@@ -74,7 +74,7 @@ translate french d16s08_594a9b43:
 translate french d16s08_f229661e:
 
     # mc "You mean you and Lydia?"
-    mc "Tu veux dire toi et Lydia ?"
+    mc "Tu veux dire toi et Lydia?"
 
 # game/code/d16/d16s08.rpy:65
 translate french d16s08_c8388a22:
@@ -170,13 +170,13 @@ translate french d16s08_2d5b8083:
 translate french d16s08_eca55081:
 
     # arj "You think Hana will convince her to do something with you?"
-    arj "Tu penses qu'Hana va la convaincre de faire quelque chose avec toi ?"
+    arj "Tu penses qu'Hana va la convaincre de faire quelque chose avec toi?"
 
 # game/code/d16/d16s08.rpy:117
 translate french d16s08_fd6f8d26:
 
     # mc "I don't need Hana to convince her. Remember?"
-    mc "Je n'ai pas besoin d'Hana pour la convaincre. Tu te souviens ?"
+    mc "Je n'ai pas besoin d'Hana pour la convaincre. Tu te souviens?"
 
 # game/code/d16/d16s08.rpy:120
 translate french d16s08_3a994f92:
@@ -188,7 +188,7 @@ translate french d16s08_3a994f92:
 translate french d16s08_5cad2e1b:
 
     # arj "What about Polly and Nora? You had something going with both of them, right?"
-    arj "Et Polly et Nora ? Il y avait quelque chose qui se passait entre elles, n'est-ce pas ?"
+    arj "Et Polly et Nora? Il y avait quelque chose qui se passait entre elles, n'est-ce pas?"
 
 # game/code/d16/d16s08.rpy:129
 translate french d16s08_3fe466db:
@@ -206,7 +206,7 @@ translate french d16s08_56b51bcb:
 translate french d16s08_af347610:
 
     # mc "What can I say? I'm awesome."
-    mc "Que puis-je dire ? Je suis génial."
+    mc "Que puis-je dire? Je suis génial."
 
 # game/code/d16/d16s08.rpy:137
 translate french d16s08_921584d2:
@@ -224,7 +224,7 @@ translate french d16s08_0e75454c:
 translate french d16s08_14387a1e:
 
     # arj "What? You're losing interest in her?"
-    arj "Quoi ? Tu perds tout intérêt pour elle ?"
+    arj "Quoi? Tu perds tout intérêt pour elle?"
 
 # game/code/d16/d16s08.rpy:148
 translate french d16s08_455a3c97:
@@ -272,7 +272,7 @@ translate french d16s08_ceec81e5:
 translate french d16s08_d5a669ec:
 
     # arj "Close? She doesn't seem like the type to get close with anyone."
-    arj "Proche ? Elle ne semble pas être du genre à se rapprocher de qui que ce soit."
+    arj "Proche? Elle ne semble pas être du genre à se rapprocher de qui que ce soit."
 
 # game/code/d16/d16s08.rpy:171
 translate french d16s08_d3c78865:
@@ -284,7 +284,7 @@ translate french d16s08_d3c78865:
 translate french d16s08_08e7303e:
 
     # arj "Didn't she almost kill you once?"
-    arj "N'a-t-elle pas failli te tuer une fois ?"
+    arj "N'a-t-elle pas failli te tuer une fois?"
 
 # game/code/d16/d16s08.rpy:177
 translate french d16s08_cfa86b8c:
@@ -338,19 +338,19 @@ translate french d16s08_b5fbd5a1:
 translate french d16s08_76f0c0de:
 
     # arj "What about that guy at the party?"
-    arj "Et ce type à la fête ?"
+    arj "Et ce type à la fête?"
 
 # game/code/d16/d16s08.rpy:207
 translate french d16s08_be588e81:
 
     # mc "Oliver? He and I are..."
-    mc "Oliver ? Lui et moi sommes..."
+    mc "Oliver? Lui et moi sommes..."
 
 # game/code/d16/d16s08.rpy:210
 translate french d16s08_bb47339e:
 
     # arj "You two are?"
-    arj "Vous l'êtes tous les deux ?"
+    arj "Vous l'êtes tous les deux?"
 
 # game/code/d16/d16s08.rpy:213
 translate french d16s08_6e10e723:
@@ -434,13 +434,13 @@ translate french d16s08_cd28c321:
 translate french d16s08_9271e0af:
 
     # sy "Oh! Carry on, then!"
-    sy "Oh ! Continue alors !"
+    sy "Oh! Continue alors!"
 
 # game/code/d16/d16s08.rpy:257
 translate french d16s08_d6301483:
 
     # arj "What about that... odd girl?"
-    arj "Et cette... fille étrange ?"
+    arj "Et cette... fille étrange?"
 
 # game/code/d16/d16s08.rpy:261
 translate french d16s08_0740ffde:
@@ -452,7 +452,7 @@ translate french d16s08_0740ffde:
 translate french d16s08_6280a62d:
 
     # arj "The cosplayer? The one that was swimming around Lydia's aquarium at the party?"
-    arj "Le cosplayer ? Celui qui nageait autour de l'aquarium de Lydia à la fête ?"
+    arj "Le cosplayer? Celui qui nageait autour de l'aquarium de Lydia à la fête?"
 
 # game/code/d16/d16s08.rpy:267
 translate french d16s08_70a444bd:
@@ -512,7 +512,7 @@ translate french d16s08_1f426f2d:
 translate french d16s08_1ae263e8:
 
     # arj "Anyone else come to mind?"
-    arj "Quelqu'un d'autre vous vient à l'esprit ?"
+    arj "Quelqu'un d'autre vous vient à l'esprit?"
 
 # game/code/d16/d16s08.rpy:295
 translate french d16s08_11b0942a:
@@ -530,13 +530,13 @@ translate french d16s08_143a9b1c:
 translate french d16s08_92fd0e4a:
 
     # mc "Yeah. I really need to talk to her about some things tomorrow, so maybe I can work a little fun time in as well."
-    mc "La MILF." "Ouais. J'ai vraiment besoin de lui parler de certaines choses demain, alors peut-être que je pourrai aussi m'amuser un peu."
+    mc "La MILF. Ouais. J'ai vraiment besoin de lui parler de certaines choses demain, alors peut-être que je pourrai aussi m'amuser un peu."
 
 # game/code/d16/d16s08.rpy:303
 translate french d16s08_0ca5ea8e:
 
     # arj "What's her kink?"
-    arj "Quel est son problème ? "
+    arj "Quel est son problème? "
 
 # game/code/d16/d16s08.rpy:305
 translate french d16s08_c59d2f17:
@@ -584,7 +584,7 @@ translate french d16s08_9de59375:
 translate french d16s08_3bf67e8e:
 
     # mc "I don't know. Has there been any sort of pattern?"
-    mc "Je ne sais pas. Y a-t-il eu une sorte de schéma ?"
+    mc "Je ne sais pas. Y a-t-il eu une sorte de schéma?"
 
 # game/code/d16/d16s08.rpy:329
 translate french d16s08_7503fc34:
@@ -620,7 +620,7 @@ translate french d16s08_ad08edd6:
 translate french d16s08_ebe86b9b:
 
     # mc "What about Sundays?"
-    mc "Et le dimanche ?"
+    mc "Et le dimanche?"
 
 # game/code/d16/d16s08.rpy:346
 translate french d16s08_1414bc97:
@@ -632,7 +632,7 @@ translate french d16s08_1414bc97:
 translate french d16s08_36be32a5:
 
     # mc "Wasn't creampie a Saturday? That didn't seem so difficult."
-    mc "Le creampie n'était-il pas un samedi ? Cela ne semblait pas si difficile."
+    mc "Le creampie n'était-il pas un samedi? Cela ne semblait pas si difficile."
 
 # game/code/d16/d16s08.rpy:352
 translate french d16s08_67ca6189:
@@ -644,7 +644,7 @@ translate french d16s08_67ca6189:
 translate french d16s08_45696812:
 
     # mc "Good point. Okay, so what about tomorrow?"
-    mc "Bon point. D'accord, et demain ?"
+    mc "Bon point. D'accord, et demain?"
 
 # game/code/d16/d16s08.rpy:358
 translate french d16s08_32f48951:
@@ -656,13 +656,13 @@ translate french d16s08_32f48951:
 translate french d16s08_cd28428c:
 
     # sy "Suggestions?"
-    sy "Des suggestions ?"
+    sy "Des suggestions?"
 
 # game/code/d16/d16s08.rpy:364
 translate french d16s08_2c738a41:
 
     # mc "It was foot fetishes a couple weeks ago and {w}was it outercourse last week?"
-    mc "C'était des fétichismes de pieds il y a quelques semaines et {w}c'était des cours la semaine dernière ?"
+    mc "C'était des fétichismes de pieds il y a quelques semaines et {w}c'était des cours la semaine dernière?"
 
 # game/code/d16/d16s08.rpy:367
 translate french d16s08_1b525247:
@@ -716,7 +716,7 @@ translate french d16s08_103c580f:
 translate french d16s08_6d18a2e8:
 
     # arj "You do realize just how important this is, don't you?"
-    arj "Tu réalises à quel point c'est important, n'est-ce pas ?"
+    arj "Tu réalises à quel point c'est important, n'est-ce pas?"
 
 # game/code/d16/d16s08.rpy:394
 translate french d16s08_4a11e60c:
@@ -746,7 +746,7 @@ translate french d16s08_8b4917bf:
 translate french d16s08_7e4e9101:
 
     # arj "Hey Stacy, how is that data looking?"
-    arj "Hé Stacy, à quoi ressemblent ces données ?"
+    arj "Hé Stacy, à quoi ressemblent ces données?"
 
 # game/code/d16/d16s08.rpy:410
 translate french d16s08_193b1787:
@@ -758,7 +758,7 @@ translate french d16s08_193b1787:
 translate french d16s08_e6f389ef:
 
     # arj "Reeeaaaalllly? {w}What did you get up to today, [mcname]?"
-    arj "Reeeaaaally ? {w}Qu'as-tu fait aujourd'hui, [mcname] ?"
+    arj "Reeeaaaally? {w}Qu'as-tu fait aujourd'hui, [mcname]?"
 
 # game/code/d16/d16s08.rpy:416
 translate french d16s08_e14609a8:
@@ -782,7 +782,7 @@ translate french d16s08_7e913a3a:
 translate french d16s08_1bcbfe16:
 
     # mc "Can't you write a program to do that for you?"
-    mc "Tu ne peux pas écrire un programme pour faire ça à ta place ?"
+    mc "Tu ne peux pas écrire un programme pour faire ça à ta place?"
 
 # game/code/d16/d16s08.rpy:426
 translate french d16s08_fef1817e:
@@ -794,7 +794,7 @@ translate french d16s08_fef1817e:
 translate french d16s08_65945d80:
 
     # mc "Oh, well, shouldn't that be easy? We're just looking for location-"
-    mc "Oh, eh bien, cela ne devrait-il pas être facile ? Nous cherchons juste un emplacement-"
+    mc "Oh, eh bien, cela ne devrait-il pas être facile? Nous cherchons juste un emplacement-"
 
 # game/code/d16/d16s08.rpy:432
 translate french d16s08_8cc3d172:
@@ -812,7 +812,7 @@ translate french d16s08_94507c05:
 translate french d16s08_497147a5:
 
     # arj "Never use the word, \"just\". If anything was \"just\" as easy as you think then it would be done already."
-    arj "N'utilisez jamais le mot "juste". Si quelque chose était \"juste\" aussi simple que vous le pensez, ce serait déjà fait."
+    arj "N'utilisez jamais le mot \"juste\". Si quelque chose était \"juste\" aussi simple que vous le pensez, ce serait déjà fait."
 
 # game/code/d16/d16s08.rpy:441
 translate french d16s08_0031a960:
@@ -830,7 +830,7 @@ translate french d16s08_c19a7e30:
 translate french d16s08_21400053:
 
     # mc "We do? {w}Where are we going?"
-    mc "Nous le faisons ? {w}Où allons-nous ?"
+    mc "Nous le faisons? {w}Où allons-nous?"
 
 # game/code/d16/d16s08.rpy:453
 translate french d16s08_c174a290:
@@ -848,7 +848,7 @@ translate french d16s08_e4c94bee:
 translate french d16s08_ac209658:
 
     # sy "Oh! I'd love to join you both, but-"
-    sy "Oh ! J'adorerais vous rejoindre tous les deux, mais-"
+    sy "Oh! J'adorerais vous rejoindre tous les deux, mais-"
 
 # game/code/d16/d16s08.rpy:463
 translate french d16s08_b62b749e:
@@ -914,7 +914,7 @@ translate french d16s08_b45b3cee:
 translate french d16s08_11872730:
 
     # arj "Well, are you coming?"
-    arj "Eh bien, tu viens ?"
+    arj "Eh bien, tu viens?"
 
 # game/code/d16/d16s08.rpy:494
 translate french d16s08_84d80062:

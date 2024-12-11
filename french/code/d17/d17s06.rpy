@@ -44,13 +44,13 @@ translate french d17s06_9819c11e:
 translate french d17s06_edbe786e:
 
     # mct "Hmm. Polly also says that she & Nora are going to the amusement park... and they're horny as hell?!"
-    mct "Hmm. Polly dit aussi qu'elle et Nora vont au parc d'attractions... Et elles sont super excitées ?!"
+    mct "Hmm. Polly dit aussi qu'elle et Nora vont au parc d'attractions... Et elles sont super excitées?!"
 
 # game/code/d17/d17s06.rpy:53
 translate french d17s06_4b93c4f9:
 
     # mct "Hmm. Polly says that she & Nora are going to the amusement park... and they're horny as hell?!"
-    mct "Hmm. Polly dit qu'elle et Nora vont au parc d'attractions... Et elles sont super excitées ?!"
+    mct "Hmm. Polly dit qu'elle et Nora vont au parc d'attractions... Et elles sont super excitées?!"
 
 # game/code/d17/d17s06.rpy:56
 translate french d17s06_b9aaa68f:
@@ -74,7 +74,7 @@ translate french d17s06_study_2f8d2368:
 translate french d17s06_study_2ee29c4b:
 
     # mct "Damn. Why is studying always so boring?"
-    mct "Putain. Pourquoi étudier est-il toujours aussi ennuyeux ?"
+    mct "Putain. Pourquoi étudier est-il toujours aussi ennuyeux?"
 
 # game/code/d17/d17s06.rpy:102
 translate french d17s06_study_6f7e0983:
@@ -103,3 +103,4 @@ translate french strings:
     # game/code/d17/d17s06.rpy:58
     old "Go back to studying"
     new "Retourne étudier"
+

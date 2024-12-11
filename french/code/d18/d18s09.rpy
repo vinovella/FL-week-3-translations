@@ -8,7 +8,7 @@ translate french d18s09_71d88fc7:
 translate french d18s09_9972a67e:
 
     # mc "Don't you know how to pick locks?"
-    mc "Tu ne sais pas crocheter les serrures ?"
+    mc "Tu ne sais pas crocheter les serrures?"
 
 # game/code/d18/d18s09.rpy:42
 translate french d18s09_d387428d:
@@ -44,7 +44,7 @@ translate french d18s09_d22aa9b5:
 translate french d18s09_8461a8bc:
 
     # hr "*whispers loudly* Quick! Hide!"
-    hr "*chuchote fort* Vite ! Cache-toi !"
+    hr "*chuchote fort* Vite! Cache-toi!"
 
 # game/code/d18/d18s09.rpy:72
 translate french d18s09_917751d3:
@@ -62,7 +62,7 @@ translate french d18s09_ff857aae:
 translate french d18s09_a701c598:
 
     # cf "Who are you?"
-    cf "Qui êtes-vous ?"
+    cf "Qui êtes-vous?"
 
 # game/code/d18/d18s09.rpy:84
 translate french d18s09_aa4a0645:
@@ -80,7 +80,7 @@ translate french d18s09_cfb99c7a:
 translate french d18s09_8088461d:
 
     # cf "Do I know you? Why are you in my office?"
-    cf "Est-ce que je vous connais ? Pourquoi êtes-vous dans mon bureau ?"
+    cf "Est-ce que je vous connais? Pourquoi êtes-vous dans mon bureau?"
 
 # game/code/d18/d18s09.rpy:91
 translate french d18s09_6ed7de61:
@@ -116,13 +116,13 @@ translate french d18s09_a69718c4:
 translate french d18s09_275d287b:
 
     # mct "Video? What video?"
-    mct "Vidéo ? Quelle vidéo?"
+    mct "Vidéo? Quelle vidéo?"
 
 # game/code/d18/d18s09.rpy:106
 translate french d18s09_52225630:
 
     # cf "Is there something I can do for you?"
-    cf "Est-ce que je peux faire quelque chose pour vous ?"
+    cf "Est-ce que je peux faire quelque chose pour vous?"
 
 # game/code/d18/d18s09.rpy:109
 translate french d18s09_001b9825:
@@ -152,13 +152,13 @@ translate french d18s09_6ab11e88:
 translate french d18s09_25346253:
 
     # cf "Mr. Young, you're trying to seduce me?"
-    cf "M. Young, vous essayez de me séduire ?"
+    cf "M. Young, vous essayez de me séduire?"
 
 # game/code/d18/d18s09.rpy:130
 translate french d18s09_07d133b8:
 
     # mc "Of course not.{w} Would you like me to seduce you?"
-    mc "Bien sûr que non.{w} Voulez-vous que je vous séduise ?"
+    mc "Bien sûr que non.{w} Voulez-vous que je vous séduise?"
 
 # game/code/d18/d18s09.rpy:133
 translate french d18s09_3eb54527:
@@ -170,13 +170,13 @@ translate french d18s09_3eb54527:
 translate french d18s09_f1c8de29:
 
     # mc "Is that what you're trying to tell me?{w} Do you want me to seduce you?"
-    mc "C'est ce que tu essaies de me dire ?{w} Tu veux que je te séduise ?"
+    mc "C'est ce que tu essaies de me dire?{w} Tu veux que je te séduise?"
 
 # game/code/d18/d18s09.rpy:138
 translate french d18s09_dffe9c23:
 
     # cf "Are we on camera right now? Is this some kind of prank?"
-    cf "On est filmés en ce moment ? Est-ce une sorte de farce ?"
+    cf "On est filmés en ce moment? Est-ce une sorte de farce?"
 
 # game/code/d18/d18s09.rpy:140
 translate french d18s09_dc7de5f8:
@@ -218,7 +218,7 @@ translate french d18s09_6c477f9c:
 translate french d18s09_5736827e:
 
     # mc "Consenting?"
-    mc "Consentant ?"
+    mc "Consentant?"
 
 # game/code/d18/d18s09.rpy:156
 translate french d18s09_e9d700ad:
@@ -230,25 +230,25 @@ translate french d18s09_e9d700ad:
 translate french d18s09_5d3615c5:
 
     # mc "Then what are we waiting for?"
-    mc "Alors qu'est-ce qu'on attend ?"
+    mc "Alors qu'est-ce qu'on attend?"
 
 # game/code/d18/d18s09.rpy:165
 translate french d18s09_c167d9f8:
 
     # mct "I can't believe this is working!"
-    mct "Je n'arrive pas à croire que ça marche !"
+    mct "Je n'arrive pas à croire que ça marche!"
 
 # game/code/d18/d18s09.rpy:171
 translate french d18s09_013491ca:
 
     # mct "I am a sex god!!!"
-    mct "Je suis un dieu du sexe !!!"
+    mct "Je suis un dieu du sexe!!!"
 
 # game/code/d18/d18s09.rpy:178
 translate french d18s09_d32e78dd:
 
     # cf "Wait!"
-    cf "Attends !"
+    cf "Attends!"
 
 # game/code/d18/d18s09.rpy:181
 translate french d18s09_bb2d8104:
@@ -272,7 +272,7 @@ translate french d18s09_ffe7c7f6:
 translate french d18s09_71570531:
 
     # cf "What about you? What are your limits?"
-    cf "Et toi ? Quelles sont tes limites ?"
+    cf "Et toi? Quelles sont tes limites?"
 
 # game/code/d18/d18s09.rpy:193
 translate french d18s09_db0bb4a7:
@@ -284,7 +284,7 @@ translate french d18s09_db0bb4a7:
 translate french d18s09_b511f237:
 
     # cf "Oh my!"
-    cf "Oh mon Dieu !"
+    cf "Oh mon Dieu!"
 
 # game/code/d18/d18s09.rpy:204
 translate french d18s09_d8c36aa3:
@@ -296,13 +296,13 @@ translate french d18s09_d8c36aa3:
 translate french d18s09_c8f3330b:
 
     # mct "Maybe she's just crazy!"
-    mct "Peut-être qu'elle est juste folle !"
+    mct "Peut-être qu'elle est juste folle!"
 
 # game/code/d18/d18s09.rpy:210
 translate french d18s09_59415168:
 
     # cf "What are we waiting for then?"
-    cf "Qu'est-ce qu'on attend alors ?"
+    cf "Qu'est-ce qu'on attend alors?"
 
 # game/code/d18/d18s09.rpy:212
 translate french d18s09_8bac5718:
@@ -314,19 +314,19 @@ translate french d18s09_8bac5718:
 translate french d18s09_b08e1842:
 
     # cf "Fuck me! Yeessss!"
-    cf "Baise-moi ! Ouais!"
+    cf "Baise-moi! Ouais!"
 
 # game/code/d18/d18s09.rpy:222
 translate french d18s09_e054ce99:
 
     # mc "I'm going to cum!"
-    mc "Je vais jouir !"
+    mc "Je vais jouir!"
 
 # game/code/d18/d18s09.rpy:225
 translate french d18s09_5cf428df:
 
     # cf "Fill me up!!!{w} I'M BARREN!!!"
-    cf "Remplis-moi !!!{w} JE SUIS STÉRILE !!!"
+    cf "Remplis-moi!!!{w} JE SUIS STÉRILE!!!"
 
 # game/code/d18/d18s09.rpy:226
 translate french d18s09_1a5a036a:
@@ -338,13 +338,13 @@ translate french d18s09_1a5a036a:
 translate french d18s09_2ab58eab:
 
     # mc "I'MMMM CUMMMMINNNGGG!!!!"
-    mc "Je suis MMMMh JOOUUII !!!!"
+    mc "Je suis MMMMh JOOUUII!!!!"
 
 # game/code/d18/d18s09.rpy:246
 translate french d18s09_642f959a:
 
     # mct "I almost forgot why I am here.{w} How's Hana doing?"
-    mct "J'ai presque oublié pourquoi je suis ici.{w} Comment va Hana ?"
+    mct "J'ai presque oublié pourquoi je suis ici.{w} Comment va Hana?"
 
 # game/code/d18/d18s09.rpy:248
 translate french d18s09_559c5397:
@@ -374,13 +374,13 @@ translate french d18s09_101545b3:
 translate french d18s09_3f871f46:
 
     # mc "Hmm?"
-    mc "Hum ?"
+    mc "Hum?"
 
 # game/code/d18/d18s09.rpy:264
 translate french d18s09_2ca56f18:
 
     # cf "Please don't stop. I haven't come yet.{w} Please keep fucking me!"
-    cf "S'il te plaît, ne t'arrête pas. Je ne suis pas encore venu.{w} S'il te plaît, continue de me baiser !"
+    cf "S'il te plaît, ne t'arrête pas. Je ne suis pas encore venu.{w} S'il te plaît, continue de me baiser!"
 
 # game/code/d18/d18s09.rpy:278
 translate french d18s09_continue_95baf71c:
@@ -392,7 +392,7 @@ translate french d18s09_continue_95baf71c:
 translate french d18s09_continue_f164655d:
 
     # cf "I bet!"
-    cf "Je parie !"
+    cf "Je parie!"
 
 # game/code/d18/d18s09.rpy:283
 translate french d18s09_continue_edacd72a:
@@ -410,7 +410,7 @@ translate french d18s09_continue_9cecc2fe:
 translate french d18s09_continue_ffad4269:
 
     # mc "While you suck on that...{w} do you mind if I ask you a few questions?"
-    mc "Pendant que me suce...{w} ça te dérange si je te pose quelques questions ?"
+    mc "Pendant que me suce...{w} ça te dérange si je te pose quelques questions?"
 
 # game/code/d18/d18s09.rpy:297
 translate french d18s09_continue_80f1c16c:
@@ -422,13 +422,13 @@ translate french d18s09_continue_80f1c16c:
 translate french d18s09_continue_ad5f494d:
 
     # mc "Excellent.{w} What video are you talking about?"
-    mc "Excellent.{w} De quelle vidéo parles-tu ?"
+    mc "Excellent.{w} De quelle vidéo parles-tu?"
 
 # game/code/d18/d18s09.rpy:305
 translate french d18s09_continue_9a3fc75f:
 
     # cf "You don't know?"
-    cf "Tu ne sais pas ?"
+    cf "Tu ne sais pas?"
 
 # game/code/d18/d18s09.rpy:308
 translate french d18s09_continue_91909424:
@@ -446,7 +446,7 @@ translate french d18s09_continue_8acad000:
 translate french d18s09_continue_df5d5a94:
 
     # mct "The spinning chair?{w} At AmRose's house?"
-    mct "La chaise qui tourne?{w} Chez AmRose ?"
+    mct "La chaise qui tourne?{w} Chez AmRose?"
 
 # game/code/d18/d18s09.rpy:317
 translate french d18s09_continue_1d6bde53:
@@ -470,7 +470,7 @@ translate french d18s09_continue_71cee56b:
 translate french d18s09_continue_d552965b:
 
     # mc "You like the taste?"
-    mc "Tu aimes le goût ?"
+    mc "Tu aimes le goût?"
 
 # game/code/d18/d18s09.rpy:323
 translate french d18s09_continue_c637ae80:
@@ -482,7 +482,7 @@ translate french d18s09_continue_c637ae80:
 translate french d18s09_continue_606db920:
 
     # mc "You like the taste of your own pussy on my cock?"
-    mc "Tu aimes le goût de ta propre chatte sur ma queue ?"
+    mc "Tu aimes le goût de ta propre chatte sur ma queue?"
 
 # game/code/d18/d18s09.rpy:327
 translate french d18s09_continue_0668a9e4:
@@ -506,7 +506,7 @@ translate french d18s09_continue_f7c2e0cb:
 translate french d18s09_continue_946abf56:
 
     # cf "Huh?"
-    cf "Hein ?"
+    cf "Hein?"
 
 # game/code/d18/d18s09.rpy:340
 translate french d18s09_continue_157f5028:
@@ -518,7 +518,7 @@ translate french d18s09_continue_157f5028:
 translate french d18s09_continue_fde98347:
 
     # cf "YES!!!"
-    cf "OUI !!!"
+    cf "OUI!!!"
 
 # game/code/d18/d18s09.rpy:347
 translate french d18s09_continue_0932bce3:
@@ -530,97 +530,97 @@ translate french d18s09_continue_0932bce3:
 translate french d18s09_continue_b48bff46:
 
     # cf "Anything!"
-    cf "N'importe quoi !"
+    cf "N'importe quoi!"
 
 # game/code/d18/d18s09.rpy:354
 translate french d18s09_continue_492d3453:
 
     # mc "What do you know?!"
-    mc "Qu'est-ce que tu sais ?!"
+    mc "Qu'est-ce que tu sais?!"
 
 # game/code/d18/d18s09.rpy:356
 translate french d18s09_continue_dabde0cf:
 
     # cf "Anything you want!!!"
-    cf "Tout ce que tu veux !!!"
+    cf "Tout ce que tu veux!!!"
 
 # game/code/d18/d18s09.rpy:357
 translate french d18s09_continue_e6aebc3e:
 
     # mc "About Fetish Locator!!!"
-    mc "A propos de Fetish Locator !!!"
+    mc "A propos de Fetish Locator!!!"
 
 # game/code/d18/d18s09.rpy:358
 translate french d18s09_continue_e0a47e99:
 
     # cf "JUST KEEP FUCKING ME!!!"
-    cf "Continue de me baiser !!!"
+    cf "Continue de me baiser!!!"
 
 # game/code/d18/d18s09.rpy:362
 translate french d18s09_continue_1e8fe81a:
 
     # mc "TELL ME!!!"
-    mc "Dis-moi !!!"
+    mc "Dis-moi!!!"
 
 # game/code/d18/d18s09.rpy:365
 translate french d18s09_continue_0a76a0f8:
 
     # cf "WHATEVER YOU WANT!!!"
-    cf "CE QUE TU VEUX !!!"
+    cf "CE QUE TU VEUX!!!"
 
 # game/code/d18/d18s09.rpy:368
 translate french d18s09_continue_e5e50392:
 
     # mct "Is Wayne Brady gonna have to actually choke a bitch?!"
-    mct "Est-ce que Wayne Brady va devoir étouffer une salope ?!"
+    mct "Est-ce que Wayne Brady va devoir étouffer une salope?!"
 
 # game/code/d18/d18s09.rpy:371
 translate french d18s09_continue_094b926f:
 
     # cf "HARDER! FASTER!! STRONGER!!!"
-    cf "PLUS DUR ! PLUS RAPIDE!! PLUS FORT!!!"
+    cf "PLUS DUR! PLUS RAPIDE!! PLUS FORT!!!"
 
 # game/code/d18/d18s09.rpy:378
 translate french d18s09_continue_bec9e8c9:
 
     # mc "TELL ME WHAT YOU KNOW ABOUT FETISH LOCATOR!!!"
-    mc "DIT-MOI CE QUE TU SAIS SUR FETISH LOCATOR !!!"
+    mc "DIT-MOI CE QUE TU SAIS SUR FETISH LOCATOR!!!"
 
 # game/code/d18/d18s09.rpy:383
 translate french d18s09_continue_e148324c:
 
     # cf "NOTHING!!!"
-    cf "RIEN !!!"
+    cf "RIEN!!!"
 
 # game/code/d18/d18s09.rpy:386
 translate french d18s09_continue_ac5b3485:
 
     # mct "FUCK!!!"
-    mct "Putain !!!"
+    mct "Putain!!!"
 
 # game/code/d18/d18s09.rpy:388
 translate french d18s09_continue_0647381b:
 
     # cf "I'M CUMMMINNGGGGG!!!"
-    cf "Je JJJOOOUUUUUIIIIEE !!!"
+    cf "Je JJJOOOUUUUUIIIIEE!!!"
 
 # game/code/d18/d18s09.rpy:389
 translate french d18s09_continue_29f162fd:
 
     # mct "Son of a Bitch!!!"
-    mct "Fils de pute !!!"
+    mct "Fils de pute!!!"
 
 # game/code/d18/d18s09.rpy:390
 translate french d18s09_continue_0cd936e5:
 
     # mc "I'M GONNA CUM TOO!!!"
-    mc "Je vais jouir aussi !!!"
+    mc "Je vais jouir aussi!!!"
 
 # game/code/d18/d18s09.rpy:392
 translate french d18s09_continue_e09d3871:
 
     # cf "FILL MY BARREN CUNTHOLE WITH YOUR SEED!!!"
-    cf "REMPLIS MON TROU STÉRILE AVEC TA SEMENCE !!!"
+    cf "REMPLIS MON TROU STÉRILE AVEC TA SEMENCE!!!"
 
 # game/code/d18/d18s09.rpy:393
 translate french d18s09_continue_295bbea7:
@@ -632,13 +632,13 @@ translate french d18s09_continue_295bbea7:
 translate french d18s09_continue_19d9ca39:
 
     # mc "AGAGGAAHHHAAAHAHAAAAA!!!"
-    mc "AGAGGAAHHHAAAHAHAAAAA !!!"
+    mc "AGAGGAAHHHAAAHAHAAAAA!!!"
 
 # game/code/d18/d18s09.rpy:406
 translate french d18s09_continue_05500ff6:
 
     # mc "Huh?"
-    mc "Hein ?"
+    mc "Hein?"
 
 # game/code/d18/d18s09.rpy:408
 translate french d18s09_continue_cae94cf0:
@@ -704,7 +704,7 @@ translate french d18s09_continue_a7ce6108:
 translate french d18s09_continue_2dc02600:
 
     # mc "Probably. Mind if I ask you a question?"
-    mc "Probablement. Ça te dérange si je te pose une question ?"
+    mc "Probablement. Ça te dérange si je te pose une question?"
 
 # game/code/d18/d18s09.rpy:439
 translate french d18s09_continue_fadecefc:
@@ -722,13 +722,13 @@ translate french d18s09_continue_68b85f86:
 translate french d18s09_continue_0b257092:
 
     # cf "Fuck. What do you want?"
-    cf "Putain. Qu'est-ce que tu veux ?"
+    cf "Putain. Qu'est-ce que tu veux?"
 
 # game/code/d18/d18s09.rpy:446
 translate french d18s09_continue_989634e3:
 
     # mc "What do you know about Fetish Locator?"
-    mc "Que sais-tu de Fetish Locator ?"
+    mc "Que sais-tu de Fetish Locator?"
 
 # game/code/d18/d18s09.rpy:449
 translate french d18s09_continue_d12f3e71:
@@ -746,25 +746,25 @@ translate french d18s09_continue_9bf0c4f0:
 translate french d18s09_continue_22d68fc7:
 
     # cf "I did?{w} I don't remember anything like that."
-    cf "J'ai fait ça?{w} Je ne me souviens de rien de ce genre."
+    cf "J'ai faitça?{w} Je ne me souviens de rien de ce genre."
 
 # game/code/d18/d18s09.rpy:455
 translate french d18s09_continue_20b41f49:
 
     # mc "How else would they have gotten access?"
-    mc "Comment auraient-ils pu avoir accès autrement ?"
+    mc "Comment auraient-ils pu avoir accès autrement?"
 
 # game/code/d18/d18s09.rpy:458
 translate french d18s09_continue_8fce2fd5:
 
     # cf "I mean, I don't know. The previous professor?"
-    cf "Je veux dire, je ne sais pas. L'ancien professeur ?"
+    cf "Je veux dire, je ne sais pas. L'ancien professeur?"
 
 # game/code/d18/d18s09.rpy:460
 translate french d18s09_continue_de886803:
 
     # mc "You're telling me you don't know who has access to the campus servers?"
-    mc "Tu me dis que tu ne sais pas qui a accès aux serveurs du campus ?"
+    mc "Tu me dis que tu ne sais pas qui a accès aux serveurs du campus?"
 
 # game/code/d18/d18s09.rpy:462
 translate french d18s09_continue_6d0be4b6:
@@ -788,7 +788,7 @@ translate french d18s09_continue_05ad153f:
 translate french d18s09_continue_3b015f4e:
 
     # mc "So you're not the mastermind behind the Fetish Locator app?"
-    mc "Donc tu n'es pas le cerveau derrière l'application Fetish Locator ?"
+    mc "Donc tu n'es pas le cerveau derrière l'application Fetish Locator?"
 
 # game/code/d18/d18s09.rpy:470
 translate french d18s09_continue_77255cd5:
@@ -824,7 +824,7 @@ translate french d18s09_continue_0a6bf505:
 translate french d18s09_continue_eb979f7d:
 
     # mc "Was it good for you?"
-    mc "C'était bon pour toi ?"
+    mc "C'était bon pour toi?"
 
 # game/code/d18/d18s09.rpy:483
 translate french d18s09_continue_d0d6a4c2:
@@ -884,7 +884,7 @@ translate french d18s09_continue_33c9f371:
 translate french d18s09_continue_7aa934f5:
 
     # cf "This got kinda awkward, didn't it?"
-    cf "C'est devenu un peu gênant, n'est-ce pas ?"
+    cf "C'est devenu un peu gênant, n'est-ce pas?"
 
 # game/code/d18/d18s09.rpy:505
 translate french d18s09_continue_13010eef:
@@ -920,13 +920,13 @@ translate french d18s09_continue_f4d19e27:
 translate french d18s09_continue_d32e78dd:
 
     # cf "Wait!"
-    cf "Attends !"
+    cf "Attends!"
 
 # game/code/d18/d18s09.rpy:518
 translate french d18s09_continue_7e5ab074:
 
     # mc "Yes, Professor?"
-    mc "Oui, professeur ?"
+    mc "Oui, professeur?"
 
 # game/code/d18/d18s09.rpy:521
 translate french d18s09_continue_df32bca7:
@@ -938,7 +938,7 @@ translate french d18s09_continue_df32bca7:
 translate french d18s09_continue_05500ff6_1:
 
     # mc "Huh?"
-    mc "Hein ?"
+    mc "Hein?"
 
 # game/code/d18/d18s09.rpy:527
 translate french d18s09_continue_3b92c85b:
@@ -956,7 +956,7 @@ translate french d18s09_continue_ba733db2:
 translate french d18s09_continue_24e778ad:
 
     # mc "Um.{w}.. thanks?"
-    mc "Euh.{w}.. Merci ?"
+    mc "Euh.{w}.. Merci?"
 
 # game/code/d18/d18s09.rpy:534
 translate french d18s09_continue_4ca6cc05:
@@ -980,7 +980,7 @@ translate french d18s09_continue_4bedaeaf:
 translate french d18s09_stop_b3ee5253:
 
     # mc "Oh my - is that the time?"
-    mc "Oh mon Dieu, c'est le moment ?"
+    mc "Oh mon Dieu, c'est le moment?"
 
 # game/code/d18/d18s09.rpy:555
 translate french d18s09_stop_89f02100:
@@ -992,7 +992,7 @@ translate french d18s09_stop_89f02100:
 translate french d18s09_stop_4bc88fba:
 
     # cf "Are you serious?"
-    cf "Tu es sérieux ?"
+    cf "Tu es sérieux?"
 
 # game/code/d18/d18s09.rpy:560
 translate french d18s09_stop_045f55c2:
@@ -1045,3 +1045,4 @@ translate french strings:
     # game/code/d18/d18s09.rpy:265
     old "Leave Her Wanting More"
     new "Laisse-la vouloir plus"
+

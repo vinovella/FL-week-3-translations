@@ -2,7 +2,7 @@
 translate french d17s02_31459df9:
 
     # vw "Hey you there?"
-    vw "Hé, tu es là ?"
+    vw "Hé, tu es là?"
 
 # game/code/d17/d17s02.rpy:60
 translate french d17s02_a10511cd:
@@ -32,7 +32,7 @@ translate french d17s02_5792cbc4:
 translate french d17s02_eed7da57:
 
     # vw "What!? What's the news?? Can you come over now?"
-    vw "Quoi !? Quelles sont les nouvelles ?? Pouvez-vous venir maintenant ?"
+    vw "Quoi!? Quelles sont les nouvelles?? Pouvez-vous venir maintenant?"
 
 # game/code/d17/d17s02.rpy:73
 translate french d17s02_374e2fbf:
@@ -50,7 +50,7 @@ translate french d17s02_03c5ef27:
 translate french d17s02_be991112:
 
     # vw "Have time for a house call?"
-    vw "Vous avez le temps pour une visite à domicile ?"
+    vw "Vous avez le temps pour une visite à domicile?"
 
 # game/code/d17/d17s02.rpy:80
 translate french d17s02_3b3d85e6:
@@ -74,19 +74,19 @@ translate french d17s02_bdfd6709:
 translate french d17s02_06a04454:
 
     # mc "I'll be there. Why don't you start getting ready for me?"
-    mc "Je serai là. Pourquoi ne commences-tu pas à te préparer pour moi ?"
+    mc "Je serai là. Pourquoi ne commences-tu pas à te préparer pour moi?"
 
 # game/code/d17/d17s02.rpy:118
 translate french replay_d17s02_cafec360:
 
     # vw "So? How did it go?"
-    vw "Et alors ? Comment ça s'est passé ?"
+    vw "Et alors? Comment ça s'est passé?"
 
 # game/code/d17/d17s02.rpy:121
 translate french replay_d17s02_5db09cbc:
 
     # mc "Well, damn. I just came in. Don't I even get something to drink?"
-    mc "Eh bien, putain. Je viens d'entrer. Je ne prends même pas quelque chose à boire ?"
+    mc "Eh bien, putain. Je viens d'entrer. Je ne prends même pas quelque chose à boire?"
 
 # game/code/d17/d17s02.rpy:124
 translate french replay_d17s02_e46105de:
@@ -104,7 +104,7 @@ translate french replay_d17s02_155a2f91:
 translate french replay_d17s02_7f82756a:
 
     # vw "So, uhm... What did she say? Is she still mad at me about what happened at the party?"
-    vw "Alors, euh... Qu'a-t-elle dit ? Est-elle toujours en colère contre moi à propos de ce qui s'est passé à la fête ?"
+    vw "Alors, euh... Qu'a-t-elle dit? Est-elle toujours en colère contre moi à propos de ce qui s'est passé à la fête?"
 
 # game/code/d17/d17s02.rpy:133
 translate french replay_d17s02_2fbb7006:
@@ -116,13 +116,13 @@ translate french replay_d17s02_2fbb7006:
 translate french replay_d17s02_43f9529e:
 
     # vw "Oh God, I ruined everything!"
-    vw "Oh mon Dieu, j'ai tout gâché !"
+    vw "Oh mon Dieu, j'ai tout gâché!"
 
 # game/code/d17/d17s02.rpy:138
 translate french replay_d17s02_68804eff:
 
     # mc "Hey, look at me. I said I had good news, didn't I?"
-    mc "Hé, regarde-moi. J'ai dit que j'avais de bonnes nouvelles, n'est-ce pas ?"
+    mc "Hé, regarde-moi. J'ai dit que j'avais de bonnes nouvelles, n'est-ce pas?"
 
 # game/code/d17/d17s02.rpy:139
 translate french replay_d17s02_07ab8719:
@@ -146,13 +146,13 @@ translate french replay_d17s02_b47e3561:
 translate french replay_d17s02_9f0d1355:
 
     # vw "That's all I wanted! Oh my God, I'll be able to talk to my baby again."
-    vw "C'est tout ce que je voulais ! Oh mon Dieu, je pourrai à nouveau parler à mon bébé."
+    vw "C'est tout ce que je voulais! Oh mon Dieu, je pourrai à nouveau parler à mon bébé."
 
 # game/code/d17/d17s02.rpy:148
 translate french replay_d17s02_280246a3:
 
     # vw "That's all I wanted! Oh my God, I'll be able to talk to her again."
-    vw "C'est tout ce que je voulais ! Oh mon Dieu, je pourrai lui reparler."
+    vw "C'est tout ce que je voulais! Oh mon Dieu, je pourrai lui reparler."
 
 # game/code/d17/d17s02.rpy:151
 translate french replay_d17s02_a11704b1:
@@ -176,7 +176,7 @@ translate french replay_d17s02_7d10f966:
 translate french replay_d17s02_f95fb9ae:
 
     # vw "Oh, that's actually great! You'll be able to help her listen to me and mediate."
-    vw "Oh, c'est vraiment génial ! Vous pourrez l'aider à m'écouter et à servir de médiateur."
+    vw "Oh, c'est vraiment génial! Vous pourrez l'aider à m'écouter et à servir de médiateur."
 
 # game/code/d17/d17s02.rpy:159
 translate french replay_d17s02_c76dbc9c:
@@ -188,7 +188,7 @@ translate french replay_d17s02_c76dbc9c:
 translate french replay_d17s02_04a7c106:
 
     # vw "You'll do great. I trust you. And considering she picked you for this, she must really trust you as well.{w} When is she willing to talk?"
-    vw "Tu t'en sortiras très bien. Je te fais confiance. Et étant donné qu'elle t'a choisi pour ça, elle doit vraiment te faire confiance aussi.{w} Quand est-elle prête à parler ?"
+    vw "Tu t'en sortiras très bien. Je te fais confiance. Et étant donné qu'elle t'a choisi pour ça, elle doit vraiment te faire confiance aussi.{w} Quand est-elle prête à parler?"
 
 # game/code/d17/d17s02.rpy:164
 translate french replay_d17s02_52ed006c:
@@ -230,7 +230,7 @@ translate french replay_d17s02_3ec0b7b7:
 translate french replay_d17s02_4fa6b770:
 
     # vw "Thank you so much, [mcname]!"
-    vw "Merci beaucoup, [mcname] !"
+    vw "Merci beaucoup, [mcname]!"
 
 # game/code/d17/d17s02.rpy:185
 translate french replay_d17s02_f5bd4db7:
@@ -242,13 +242,13 @@ translate french replay_d17s02_f5bd4db7:
 translate french replay_d17s02_9af9da82:
 
     # vw "I will be. Do you think I need to do anything to prepare?"
-    vw "Je le serai. Pensez-vous que je dois faire quelque chose pour me préparer ?"
+    vw "Je le serai. Pensez-vous que je dois faire quelque chose pour me préparer?"
 
 # game/code/d17/d17s02.rpy:189
 translate french replay_d17s02_6455b73c:
 
     # mc "Well...{w} How do I put this politely?"
-    mc "Eh bien...{w} Comment puis-je dire ça poliment ?"
+    mc "Eh bien...{w} Comment puis-je dire ça poliment?"
 
 # game/code/d17/d17s02.rpy:192
 translate french replay_d17s02_c89e0947:
@@ -284,7 +284,7 @@ translate french replay_d17s02_f2700582:
 translate french replay_d17s02_b6eccd10:
 
     # vw "So what? Do I need to be submissive? Why do I have to be..."
-    vw "Et alors ? Dois-je être soumis ? Pourquoi dois-je être..."
+    vw "Et alors? Dois-je être soumis? Pourquoi dois-je être..."
 
 # game/code/d17/d17s02.rpy:207
 translate french replay_d17s02_53ba7708:
@@ -308,7 +308,7 @@ translate french replay_d17s02_b7f7559b:
 translate french replay_d17s02_ff6bdcbc:
 
     # vw "Surprisingly insightful? I know. I've been trying to figure out what I can do to...grow, I suppose.{w} And I want you to teach me."
-    vw "Étonnamment perspicace ? Je sais. J'ai essayé de comprendre ce que je pouvais faire pour... grandir, je suppose.{w} Et je veux que tu m'apprennes."
+    vw "Étonnamment perspicace? Je sais. J'ai essayé de comprendre ce que je pouvais faire pour... grandir, je suppose.{w} Et je veux que tu m'apprennes."
 
 # game/code/d17/d17s02.rpy:217
 translate french replay_d17s02_9e7c094c:
@@ -344,13 +344,13 @@ translate french replay_d17s02_5dfa3cab:
 translate french replay_d17s02_b44e752d:
 
     # mc "Okay, so... Let me get this straight.{w} You want me to dominate you so that you can learn to be more \"submissive\" in your personal relationships and give people more control."
-    mc "D'accord, alors... Laissez-moi comprendre.{w} Vous voulez que je vous domine pour que vous puissiez apprendre à être plus "soumise" dans vos relations personnelles et donner plus de contrôle aux gens."
+    mc "D'accord, alors... Laissez-moi comprendre.{w} Vous voulez que je vous domine pour que vous puissiez apprendre à être plus \"soumise\" dans vos relations personnelles et donner plus de contrôle aux gens."
 
 # game/code/d17/d17s02.rpy:232
 translate french replay_d17s02_5df320ab:
 
     # vw "You don't have to make it sound that weird!"
-    vw "Tu n'es pas obligé de donner l'impression que ça semble si bizarre !"
+    vw "Tu n'es pas obligé de donner l'impression que ça semble si bizarre!"
 
 # game/code/d17/d17s02.rpy:233
 translate french replay_d17s02_1341cebf:
@@ -380,7 +380,7 @@ translate french replay_d17s02_cd16eeee:
 translate french replay_d17s02_51a5f091:
 
     # vw "Great! You can be a little rough with me, I don't mind."
-    vw "Super ! Tu peux être un peu dur avec moi, ça ne me dérange pas."
+    vw "Super! Tu peux être un peu dur avec moi, ça ne me dérange pas."
 
 # game/code/d17/d17s02.rpy:256
 translate french replay_d17s02_83419b0f:
@@ -392,7 +392,7 @@ translate french replay_d17s02_83419b0f:
 translate french replay_d17s02_2bc216d6:
 
     # mct "Hm... What should I make her do to teach her submission?"
-    mct "Hm... Que dois-je lui faire faire pour lui apprendre la soumission ?"
+    mct "Hm... Que dois-je lui faire faire pour lui apprendre la soumission?"
 
 # game/code/d17/d17s02.rpy:260
 translate french replay_d17s02_b323a4ae:
@@ -410,13 +410,13 @@ translate french replay_d17s02_dbd3ea4e:
 translate french replay_d17s02_76a1e1a2:
 
     # mc "Well, you certainly have a persuasive way about you."
-    mc "Eh bien, vous avez certainement un côté persuasif à votre égard. »
+    mc "Eh bien, vous avez certainement un côté persuasif à votre égard."
 
 # game/code/d17/d17s02.rpy:270
 translate french replay_d17s02_20db13e2:
 
     # vw "Mm, do I now?"
-    vw "Mm, est-ce que je le fais maintenant ?"
+    vw "Mm, est-ce que je le fais maintenant?"
 
 # game/code/d17/d17s02.rpy:271
 translate french replay_d17s02_a01a3759:
@@ -434,7 +434,7 @@ translate french replay_d17s02_cbfe82a9:
 translate french replay_d17s02_29876a0a:
 
     # mc "Let loose? You sure you can handle me?"
-    mc "Que je me lâche ? Vous êtes sûr de pouvoir me gérer ?"
+    mc "Que je me lâche? Vous êtes sûr de pouvoir me gérer?"
 
 # game/code/d17/d17s02.rpy:292
 translate french replay_d17s02_4e328013:
@@ -476,7 +476,7 @@ translate french d17s02_menu_b517f40a:
 translate french d17s02_menu_3783ce26:
 
     # mc "I want you to focus on nothing else but me, understand?"
-    mc « Je veux que tu te concentres sur rien d'autre que moi, tu comprends ?
+    mc "Je veux que tu te concentres sur rien d'autre que moi, tu comprends?"
 
 # game/code/d17/d17s02.rpy:315
 translate french d17s02_menu_4d52808f:
@@ -512,13 +512,13 @@ translate french d17s02_menu_74880cd4:
 translate french d17s02_menu_3783ce26_1:
 
     # mc "I want you to focus on nothing else but me, understand?"
-    mc « Je veux que tu te concentres sur rien d'autre que moi, tu comprends ?
+    mc "Je veux que tu te concentres sur rien d'autre que moi, tu comprends?"
 
 # game/code/d17/d17s02.rpy:335
 translate french d17s02_menu_33943bd9:
 
     # mc "Do you understand me, slut?"
-    mc "Tu me comprends, salope ?"
+    mc "Tu me comprends, salope?"
 
 # game/code/d17/d17s02.rpy:338
 translate french d17s02_menu_2da595b6:
@@ -542,13 +542,13 @@ translate french d17s02_menu_5435be6c:
 translate french d17s02_vw_footjob_79843d82:
 
     # mc "Well? What are you waiting for?"
-    mc "Eh bien ? Qu'est-ce que tu attends ?"
+    mc "Eh bien? Qu'est-ce que tu attends?"
 
 # game/code/d17/d17s02.rpy:380
 translate french d17s02_vw_footjob_630c317a:
 
     # mc "Mm... You have amazing fucking feet, you know that right?. You know just how to make me hard with those feet of yours."
-    mc "Mm… Tu as des putains de pieds incroyables, tu le sais, n'est-ce pas ?. Tu sais comment me faire bander avec tes pieds."
+    mc "Mm… Tu as des putains de pieds incroyables, tu le sais, n'est-ce pas?. Tu sais comment me faire bander avec tes pieds."
 
 # game/code/d17/d17s02.rpy:381
 translate french d17s02_vw_footjob_f92dad88:
@@ -566,7 +566,7 @@ translate french d17s02_vw_footjob_8b9ee863:
 translate french d17s02_vw_footjob_04ff3331:
 
     # vw "Would you please fuck me now, Sir?"
-    vw "Voudriez-vous s'il vous plaît me baiser maintenant, Monsieur ?"
+    vw "Voudriez-vous s'il vous plaît me baiser maintenant, Monsieur?"
 
 # game/code/d17/d17s02.rpy:400
 translate french d17s02_vw_footjob_b24a575a:
@@ -584,7 +584,7 @@ translate french d17s02_vw_footjob_74880cd4:
 translate french d17s02_vw_footjob_33943bd9:
 
     # mc "Do you understand me, slut?"
-    mc "Tu me comprends, salope ?"
+    mc "Tu me comprends, salope?"
 
 # game/code/d17/d17s02.rpy:405
 translate french d17s02_vw_footjob_2da595b6:
@@ -602,13 +602,13 @@ translate french d17s02_vw_footjob_5435be6c:
 translate french d17s02_vw_cockworship_79843d82:
 
     # mc "Well? What are you waiting for?"
-    mc "Eh bien ? Qu'est-ce que tu attends ?"
+    mc "Eh bien? Qu'est-ce que tu attends?"
 
 # game/code/d17/d17s02.rpy:446
 translate french d17s02_vw_cockworship_6fa2ccc3:
 
     # vw "*Gasps lightly for air* Did you— Did you like that, Sir?"
-    vw "*Elle cherche légèrement de l'air* ​​Avez-vous— Avez-vous aimé ça, Monsieur ?"
+    vw "*Elle cherche légèrement de l'air* ​​Avez-vous— Avez-vous aimé ça, Monsieur?"
 
 # game/code/d17/d17s02.rpy:449
 translate french d17s02_vw_cockworship_cc20ed55:
@@ -626,7 +626,7 @@ translate french d17s02_vw_cockworship_8b9ee863:
 translate french d17s02_vw_cockworship_04ff3331:
 
     # vw "Would you please fuck me now, Sir?"
-    vw "Voudriez-vous s'il vous plaît me baiser maintenant, Monsieur ?"
+    vw "Voudriez-vous s'il vous plaît me baiser maintenant, Monsieur?"
 
 # game/code/d17/d17s02.rpy:474
 translate french d17s02_vw_cockworship_70e7de7c:
@@ -644,7 +644,7 @@ translate french d17s02_vw_cockworship_b517f40a:
 translate french d17s02_vw_cockworship_3783ce26:
 
     # mc "I want you to focus on nothing else but me, understand?"
-    mc "Je veux que tu te concentres sur rien d'autre que moi, tu comprends ?"
+    mc "Je veux que tu te concentres sur rien d'autre que moi, tu comprends?"
 
 # game/code/d17/d17s02.rpy:479
 translate french d17s02_vw_cockworship_4d52808f:
@@ -656,7 +656,7 @@ translate french d17s02_vw_cockworship_4d52808f:
 translate french d17s02_vw_fucking_e35203c6:
 
     # mc "I'm going to fuck you into the table, and you're going to take it. Understood?"
-    mc "Je vais te baiser à table, et tu vas la prendre. Compris ?"
+    mc "Je vais te baiser à table, et tu vas la prendre. Compris?"
 
 # game/code/d17/d17s02.rpy:496
 translate french d17s02_vw_fucking_1552c749:
@@ -674,7 +674,7 @@ translate french d17s02_vw_fucking_6bbd07ce:
 translate french d17s02_vw_fucking_f06a99e2:
 
     # vw "Yes, right there!"
-    vw "Oui, juste là !"
+    vw "Oui, juste là!"
 
 # game/code/d17/d17s02.rpy:537
 translate french d17s02_vw_fucking_1d933d9e:
@@ -686,13 +686,13 @@ translate french d17s02_vw_fucking_1d933d9e:
 translate french d17s02_vw_fucking_fdad1b11:
 
     # mc "Oh? You probably got turned on by it, didn't you?"
-    mc "Oh ? Ça t'a probablement excité, n'est-ce pas ?"
+    mc "Oh? Ça t'a probablement excité, n'est-ce pas?"
 
 # game/code/d17/d17s02.rpy:542
 translate french d17s02_vw_fucking_b461b547:
 
     # mc "Did you get caught?"
-    mc "Est-ce que tu t'es fait prendre ?"
+    mc "Est-ce que tu t'es fait prendre?"
 
 # game/code/d17/d17s02.rpy:543
 translate french d17s02_vw_fucking_ca9751f7:
@@ -704,7 +704,7 @@ translate french d17s02_vw_fucking_ca9751f7:
 translate french d17s02_vw_fucking_c61dc592:
 
     # mc "And let me guess, that turned you on as well, didn't it?"
-    mc "Et laisse-moi deviner, ça t'a excité aussi, n'est-ce pas ?"
+    mc "Et laisse-moi deviner, ça t'a excité aussi, n'est-ce pas?"
 
 # game/code/d17/d17s02.rpy:553
 translate french d17s02_vw_fucking_30785034:
@@ -716,19 +716,19 @@ translate french d17s02_vw_fucking_30785034:
 translate french d17s02_vw_fucking_b647c696:
 
     # vw "Yes, yes, God, fuck me. Harder!"
-    vw "Oui, oui, mon Dieu, baise-moi. Plus fort !"
+    vw "Oui, oui, mon Dieu, baise-moi. Plus fort!"
 
 # game/code/d17/d17s02.rpy:579
 translate french d17s02_vw_fucking_2d541ac9:
 
     # vw "Yes! Stretch me out! God, that feels so good."
-    vw "Oui ! Étirez-moi ! Mon Dieu, ça fait du bien."
+    vw "Oui! Étirez-moi! Mon Dieu, ça fait du bien."
 
 # game/code/d17/d17s02.rpy:602
 translate french d17s02_vw_fucking_c61f130f:
 
     # vw "Please, please! Cum inside of me! Fill me up! I want your cum, I want every drop of it. Give it to me!"
-    vw "S'il te plaît, s'il te plaît ! Jouis en moi ! Remplis-moi ! Je veux ton sperme, j'en veux chaque goutte. Donne-le-moi !"
+    vw "S'il te plaît, s'il te plaît! Jouis en moi! Remplis-moi! Je veux ton sperme, j'en veux chaque goutte. Donne-le-moi!"
 
 # game/code/d17/d17s02.rpy:626
 translate french d17s02_vw_fucking_65e2de22:
@@ -782,7 +782,7 @@ translate french d17s02_vw_fucking_035ab2f7:
 translate french d17s02_vw_fucking_ff4c204d:
 
     # mc "Do you like that side?"
-    mc "Est-ce que tu aimes ce côté-là ?"
+    mc "Est-ce que tu aimes ce côté-là?"
 
 # game/code/d17/d17s02.rpy:656
 translate french d17s02_vw_fucking_a5f6f3fd:

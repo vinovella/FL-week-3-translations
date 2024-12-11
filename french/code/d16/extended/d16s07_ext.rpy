@@ -2,7 +2,7 @@
 translate french d16s07_ext_0f4c0f58:
 
     # mct "Wonder what Jessie wanted out of nowhere?"
-    mct "Je me demande ce que Jessie voulait sortir de nulle part ?"
+    mct "Je me demande ce que Jessie voulait sortir de nulle part?"
 
 # game/code/d16/extended/d16s07_ext.rpy:54
 translate french d16s07_ext_b57d7645:
@@ -20,7 +20,7 @@ translate french d16s07_ext_a20cefa7:
 translate french d16s07_ext_3ce1c492:
 
     # mc "Jessie? You there?"
-    mc "Jessie ? Tu es là?"
+    mc "Jessie? Tu es là?"
 
 # game/code/d16/extended/d16s07_ext.rpy:63
 translate french d16s07_ext_0eee3cb3:
@@ -32,7 +32,7 @@ translate french d16s07_ext_0eee3cb3:
 translate french d16s07_ext_09b2beec:
 
     # mc "Jesus fuck! Jessie!?"
-    mc "Putain de Jésus ! Jessie !?"
+    mc "Putain de Jésus! Jessie!?"
 
 # game/code/d16/extended/d16s07_ext.rpy:75
 translate french d16s07_ext_8ec33342:
@@ -50,7 +50,7 @@ translate french d16s07_ext_2b0b7b0e:
 translate french d16s07_ext_c0a693f4:
 
     # mc "Can you get out of that to talk?"
-    mc "Peux-tu sortir de là pour parler ?"
+    mc "Peux-tu sortir de là pour parler?"
 
 # game/code/d16/extended/d16s07_ext.rpy:94
 translate french d16s07_ext_103283d1:
@@ -62,7 +62,7 @@ translate french d16s07_ext_103283d1:
 translate french d16s07_ext_8815fa6e:
 
     # mc "Right... What {i}are{/i} you doing anyway? You told me to come over but didn't say why."
-    mc "Bien... Qu'est-ce que tu fais de toute façon ? Tu m'as dit de venir mais tu n'as pas dit pourquoi."
+    mc "Bien... Qu'est-ce que tu fais de toute façon? Tu m'as dit de venir mais tu n'as pas dit pourquoi."
 
 # game/code/d16/extended/d16s07_ext.rpy:100
 translate french d16s07_ext_6d9c8873:
@@ -74,13 +74,13 @@ translate french d16s07_ext_6d9c8873:
 translate french d16s07_ext_6b0ec256:
 
     # jf "Look! I've been doing like you said, and my God, I'm making almost triple what I used to make!"
-    jf "Ecoute ! J'ai fait ce que tu as dit, et mon Dieu, je gagne presque le triple de ce que je faisais avant !"
+    jf "Ecoute! J'ai fait ce que tu as dit, et mon Dieu, je gagne presque le triple de ce que je faisais avant!"
 
 # game/code/d16/extended/d16s07_ext.rpy:109
 translate french d16s07_ext_d9b3879c:
 
     # mc "Holy shit! That's great!"
-    mc "Putain de merde ! C'est génial !"
+    mc "Putain de merde! C'est génial!"
 
 # game/code/d16/extended/d16s07_ext.rpy:112
 translate french d16s07_ext_00845d03:
@@ -116,7 +116,7 @@ translate french d16s07_ext_2165a5e2:
 translate french d16s07_ext_0bef3d81:
 
     # jf "Think about it! This is just with little ol' me. Solo. But I want to expand!"
-    jf "Pensez-y ! C'est juste avec mon petit vieux moi. Solo. Mais je veux m'étendre !"
+    jf "Pensez-y! C'est juste avec mon petit vieux moi. Solo. Mais je veux m'étendre!"
 
 # game/code/d16/extended/d16s07_ext.rpy:134
 translate french d16s07_ext_c9d92f8b:
@@ -128,7 +128,7 @@ translate french d16s07_ext_c9d92f8b:
 translate french d16s07_ext_dc7120f5:
 
     # jf "I want to take them under my wing and give them a place where they can work, be free, and earn what they're worth!"
-    jf "Je veux les prendre sous mon aile et leur offrir un endroit où ils pourront travailler, être libres et gagner ce qu'ils valent !"
+    jf "Je veux les prendre sous mon aile et leur offrir un endroit où ils pourront travailler, être libres et gagner ce qu'ils valent!"
 
 # game/code/d16/extended/d16s07_ext.rpy:138
 translate french d16s07_ext_dbfad203:
@@ -140,7 +140,7 @@ translate french d16s07_ext_dbfad203:
 translate french d16s07_ext_53927da4:
 
     # jf "Yeah! I'm glad you agree."
-    jf "Ouais ! Je suis content que tu sois d'accord."
+    jf "Ouais! Je suis content que tu sois d'accord."
 
 # game/code/d16/extended/d16s07_ext.rpy:142
 translate french d16s07_ext_1ed467c1:
@@ -152,7 +152,7 @@ translate french d16s07_ext_1ed467c1:
 translate french d16s07_ext_8403ad17:
 
     # mc "So you want me to help you branch out? Get your name out on socials?"
-    mc "Alors tu veux que je t'aide à te diversifier ? Faire connaître ton nom sur les réseaux sociaux ?"
+    mc "Alors tu veux que je t'aide à te diversifier? Faire connaître ton nom sur les réseaux sociaux?"
 
 # game/code/d16/extended/d16s07_ext.rpy:148
 translate french d16s07_ext_59bc1df6:
@@ -170,13 +170,13 @@ translate french d16s07_ext_0d2214f1:
 translate french d16s07_ext_70121afd:
 
     # jf "Yeah. I've thought about that as well. But all the forms and bureaucracy are just... mind-numbing. I don't have the brain for that."
-    jf "Ouais. J'y ai pensé aussi. Mais tous les formulaires et la bureaucratie sont juste... abrutissants. Je n'ai pas le cerveau pour ça."t."
+    jf "Ouais. J'y ai pensé aussi. Mais tous les formulaires et la bureaucratie sont juste... abrutissants. Je n'ai pas le cerveau pour çat."
 
 # game/code/d16/extended/d16s07_ext.rpy:157
 translate french d16s07_ext_613e3a1f:
 
     # jf "But! You helped me out, you made this happen in the first place. And you're a business major."
-    jf "Mais ! Vous m'avez aidé, vous avez rendu cela possible en premier lieu. Et vous êtes un étudiant en affaires."
+    jf "Mais! Vous m'avez aidé, vous avez rendu cela possible en premier lieu. Et vous êtes un étudiant en affaires."
 
 # game/code/d16/extended/d16s07_ext.rpy:158
 translate french d16s07_ext_e956c468:
@@ -236,13 +236,13 @@ translate french d16s07_ext_0132ec37:
 translate french d16s07_ext_221177c7:
 
     # jf "Agh! I'm so excited! Thank you, [mcname]."
-    jf "Agh ! Je suis tellement excité ! Merci, [mcname]."
+    jf "Agh! Je suis tellement excité! Merci, [mcname]."
 
 # game/code/d16/extended/d16s07_ext.rpy:182
 translate french d16s07_ext_1e0901c9:
 
     # jf "Oh! Uhm, there was another favor I wanted to ask of you."
-    jf "Oh ! Euh, il y avait une autre faveur que je voulais te demander."
+    jf "Oh! Euh, il y avait une autre faveur que je voulais te demander."
 
 # game/code/d16/extended/d16s07_ext.rpy:185
 translate french d16s07_ext_2da3e5fd:
@@ -254,13 +254,13 @@ translate french d16s07_ext_2da3e5fd:
 translate french d16s07_ext_2a567508:
 
     # jf "Well, this costume actually isn't going to be sold. The client commissioned it but only wanted pics of me with it on, {i}plus{/i} pics of me...\"using\" it..."
-    jf "Eh bien, en fait, ce costume ne sera pas vendu. Le client l'a commandé mais voulait seulement des photos de moi avec, {i}plus{/i} des photos de moi...\"l'utilisant\"... ".
+    jf "Eh bien, en fait, ce costume ne sera pas vendu. Le client l'a commandé mais voulait seulement des photos de moi avec, {i}plus{/i} des photos de moi...\"l'utilisant\"... "
 
 # game/code/d16/extended/d16s07_ext.rpy:191
 translate french d16s07_ext_01f21684:
 
     # mc "...So they wanted you to take pictures of you...what, fucking in it?"
-    mc "... Alors ils voulaient que tu prennes des photos de toi... quoi, en train de baiser dedans ?"
+    mc "... Alors ils voulaient que tu prennes des photos de toi... quoi, en train de baiser dedans?"
 
 # game/code/d16/extended/d16s07_ext.rpy:194
 translate french d16s07_ext_47d19dd8:
@@ -272,7 +272,7 @@ translate french d16s07_ext_47d19dd8:
 translate french d16s07_ext_71b8dc2c:
 
     # mc "*Chuckles* I think we're past the point of being embarrassed about this stuff, don't you think?"
-    mc "*Rires* Je pense que nous avons dépassé le point d'être gêné par tout ça, tu ne penses pas ?"
+    mc "*Rires* Je pense que nous avons dépassé le point d'être gêné par tout ça, tu ne penses pas?"
 
 # game/code/d16/extended/d16s07_ext.rpy:200
 translate french d16s07_ext_42077b12:
@@ -314,7 +314,7 @@ translate french d16s07_ext_e60a81d1:
 translate french d16s07_ext_278ee114:
 
     # jf "I...am not sure I understand. So you can't have sex?"
-    jf "Je… ne suis pas sûr de comprendre. Alors tu ne peux pas faire l'amour ?"
+    jf "Je… ne suis pas sûr de comprendre. Alors tu ne peux pas faire l'amour?"
 
 # game/code/d16/extended/d16s07_ext.rpy:220
 translate french d16s07_ext_a87a337b:
@@ -338,7 +338,7 @@ translate french d16s07_ext_3d967461:
 translate french d16s07_ext_1a800d87:
 
     # mc "No, it's alright. You need my help with anything else?"
-    mc "Non, ça va. Tu as besoin de mon aide pour autre chose ?"
+    mc "Non, ça va. Tu as besoin de mon aide pour autre chose?"
 
 # game/code/d16/extended/d16s07_ext.rpy:230
 translate french d16s07_ext_193fe6bc:
@@ -362,7 +362,7 @@ translate french d16s07_ext_c315f7ad:
 translate french d16s07_ext_65399a81:
 
     # jf "Oh, okay. I understand. Thank you for coming over!"
-    jf "Oh, d'accord. Je comprends. Merci d'être venu !"
+    jf "Oh, d'accord. Je comprends. Merci d'être venu!"
 
 # game/code/d16/extended/d16s07_ext.rpy:238
 translate french d16s07_ext_f494676b:
@@ -398,7 +398,7 @@ translate french d16s07_ext_d083f9c0:
 translate french d16s07_ext_d50668ef:
 
     # mc "Are they paying you well?"
-    mc "Est-ce qu'ils vous paient bien ?"
+    mc "Est-ce qu'ils vous paient bien?"
 
 # game/code/d16/extended/d16s07_ext.rpy:272
 translate french d16s07_ext_2df688ed:
@@ -446,7 +446,7 @@ translate french d16s07_ext_c315f7ad_1:
 translate french d16s07_ext_65399a81_1:
 
     # jf "Oh, okay. I understand. Thank you for coming over!"
-    jf "Oh, d'accord. Je comprends. Merci d'être venu !"
+    jf "Oh, d'accord. Je comprends. Merci d'être venu!"
 
 # game/code/d16/extended/d16s07_ext.rpy:289
 translate french d16s07_ext_f494676b_1:
@@ -494,7 +494,7 @@ translate french d16s07_ext_8da21b95:
 translate french d16s07_ext_a4c34b21:
 
     # mc "Can't we just take pics ourselves? Do we really {i}need{/i} another person here?"
-    mc "Ne pouvons-nous pas simplement prendre des photos nous-mêmes ? Avons-nous vraiment {i}besoin{/i} d'une autre personne ici ?"
+    mc "Ne pouvons-nous pas simplement prendre des photos nous-mêmes? Avons-nous vraiment {i}besoin{/i} d'une autre personne ici?"
 
 # game/code/d16/extended/d16s07_ext.rpy:320
 translate french d16s07_ext_88f96f7c:
@@ -512,19 +512,19 @@ translate french d16s07_ext_07ecb0cf:
 translate french d16s07_ext_1e9d3770:
 
     # jf "Oh, Kanya! Are you free right now?"
-    jf "Oh, Kanya ! Es-tu libre maintenant ?"
+    jf "Oh, Kanya! Es-tu libre maintenant?"
 
 # game/code/d16/extended/d16s07_ext.rpy:327
 translate french d16s07_ext_d07da4be:
 
     # jf "Great, okay, can you come over to my dorm real quick?"
-    jf "Super, d'accord, peux-tu venir dans mon dortoir très vite ?"
+    jf "Super, d'accord, peux-tu venir dans mon dortoir très vite?"
 
 # game/code/d16/extended/d16s07_ext.rpy:328
 translate french d16s07_ext_7568b862:
 
     # jf "Yes! Thank you, you're God sent."
-    jf "Oui ! Merci, tu es envoyé par Dieu."
+    jf "Oui! Merci, tu es envoyé par Dieu."
 
 # game/code/d16/extended/d16s07_ext.rpy:329
 translate french d16s07_ext_28cd10bc:
@@ -542,13 +542,13 @@ translate french d16s07_ext_be532628:
 translate french d16s07_ext_13cc03f4:
 
     # jf "Okay, she's in! She'll be here in about 10 minutes."
-    jf "D'accord, elle est là ! Elle sera là dans environ 10 minutes."
+    jf "D'accord, elle est là! Elle sera là dans environ 10 minutes."
 
 # game/code/d16/extended/d16s07_ext.rpy:340
 translate french d16s07_ext_900ea4a3:
 
     # mc "Wow, these are really not all that breathable, huh?"
-    mc "Wow, ils ne sont vraiment pas si respirants, hein ?"
+    mc "Wow, ils ne sont vraiment pas si respirants, hein?"
 
 # game/code/d16/extended/d16s07_ext.rpy:343
 translate french d16s07_ext_08ca6348:
@@ -572,7 +572,7 @@ translate french d16s07_ext_1f426f2d:
 translate french d16s07_ext_60dda06b:
 
     # jf "Oh, that must be Kanya!"
-    jf "Oh, ça doit être Kanya !"
+    jf "Oh, ça doit être Kanya!"
 
 # game/code/d16/extended/d16s07_ext.rpy:355
 translate french d16s07_ext_4084853c:
@@ -596,7 +596,7 @@ translate french d16s07_ext_a5a6d074:
 translate french d16s07_ext_824e387c:
 
     # mc "Hm? Sorry."
-    mc "Hein ? Désolé."
+    mc "Hein? Désolé."
 
 # game/code/d16/extended/d16s07_ext.rpy:372
 translate french d16s07_ext_292aaa47:
@@ -626,7 +626,7 @@ translate french d16s07_ext_d5920b6e:
 translate french d16s07_ext_85cccf97:
 
     # mc "All good things?"
-    mc "Toutes de bonnes choses ?"
+    mc "Toutes de bonnes choses?"
 
 # game/code/d16/extended/d16s07_ext.rpy:385
 translate french d16s07_ext_1363433c:
@@ -644,7 +644,7 @@ translate french d16s07_ext_db2e9cf0:
 translate french d16s07_ext_13bbb2e7:
 
     # kv "Are you two ready for the shoot?"
-    kv "Êtes-vous tous les deux prêts pour le tournage ?"
+    kv "Êtes-vous tous les deux prêts pour le tournage?"
 
 # game/code/d16/extended/d16s07_ext.rpy:394
 translate french d16s07_ext_14f8898a:
@@ -656,7 +656,7 @@ translate french d16s07_ext_14f8898a:
 translate french d16s07_ext_dd330e9f:
 
     # mc "Are we doing this on the floor?"
-    mc "Est-ce qu'on fait ça par terre ?"
+    mc "Est-ce qu'on fait ça par terre?"
 
 # game/code/d16/extended/d16s07_ext.rpy:405
 translate french d16s07_ext_bd288db5:
@@ -674,7 +674,7 @@ translate french d16s07_ext_51048004:
 translate french d16s07_ext_27739a4d:
 
     # mc "So how are we doing this? Is there a script? Is there any foreplay? Are we just going to jump into it?"
-    mc "Alors, comment faisons-nous cela ? Y a-t-il un script ? Y a-t-il des préliminaires ? Allons-nous simplement nous y lancer ?"
+    mc "Alors, comment faisons-nous cela? Y a-t-il un script? Y a-t-il des préliminaires? Allons-nous simplement nous y lancer?"
 
 # game/code/d16/extended/d16s07_ext.rpy:412
 translate french d16s07_ext_4f1947be:
@@ -716,7 +716,7 @@ translate french d16s07_ext_23b58a28:
 translate french d16s07_ext_211f3772:
 
     # jf "Oh! I like that."
-    jf "Oh ! J'aime ça."
+    jf "Oh! J'aime ça."
 
 # game/code/d16/extended/d16s07_ext.rpy:430
 translate french d16s07_ext_74c498aa:
@@ -728,7 +728,7 @@ translate french d16s07_ext_74c498aa:
 translate french d16s07_ext_1a94bea2:
 
     # kv "Great! Let's do it then."
-    kv "Super ! Faisons-le alors."
+    kv "Super! Faisons-le alors."
 
 # game/code/d16/extended/d16s07_ext.rpy:465
 translate french d16s07_ext_af3a51b3:
@@ -746,13 +746,13 @@ translate french d16s07_ext_0b1674ec:
 translate french d16s07_ext_6064d3e2:
 
     # kv "Do it! That's great."
-    kv "Fais-le ! C'est super."
+    kv "Fais-le! C'est super."
 
 # game/code/d16/extended/d16s07_ext.rpy:487
 translate french d16s07_ext_71aca759:
 
     # kv "Don't forget her asshole!"
-    kv "N'oublie pas son connard !"
+    kv "N'oublie pas son connard!"
 
 # game/code/d16/extended/d16s07_ext.rpy:490
 translate french d16s07_ext_ad04bba8:
@@ -776,7 +776,7 @@ translate french d16s07_ext_3b7fdde5:
 translate french d16s07_ext_cbbdd8ee:
 
     # jf "Yes! Faster! I'm so close!"
-    jf "Oui ! Plus vite ! Je suis si proche !"
+    jf "Oui! Plus vite! Je suis si proche!"
 
 # game/code/d16/extended/d16s07_ext.rpy:527
 translate french d16s07_ext_e944dc8f:
@@ -818,7 +818,7 @@ translate french d16s07_ext_2dcd21b1:
 translate french d16s07_ext_0db65141:
 
     # jf "God, I'm gonna cum!"
-    jf "Mon Dieu, je vais jouir !"
+    jf "Mon Dieu, je vais jouir!"
 
 # game/code/d16/extended/d16s07_ext.rpy:694
 translate french d16s07_ext_f96c02be:
@@ -860,7 +860,7 @@ translate french d16s07_ext_92841047:
 translate french d16s07_ext_2597aafe:
 
     # kv "That was really fun! Probably the most fun I've had in a photoshoot ever. We should do this again."
-    kv "C'était vraiment amusant ! Probablement la plus amusante que j'ai jamais eue lors d'une séance photo. Nous devrions refaire ça."
+    kv "C'était vraiment amusant! Probablement la plus amusante que j'ai jamais eue lors d'une séance photo. Nous devrions refaire ça."
 
 # game/code/d16/extended/d16s07_ext.rpy:729
 translate french d16s07_ext_bdeb7b06:
@@ -878,7 +878,7 @@ translate french d16s07_ext_09f996e0:
 translate french d16s07_ext_070b060c:
 
     # jf "Oh my God, yes! We need to do that."
-    jf "Oh mon Dieu, oui ! Nous devons faire ça."
+    jf "Oh mon Dieu, oui! Nous devons faire ça."
 
 # game/code/d16/extended/d16s07_ext.rpy:738
 translate french d16s07_ext_ef226e7c:

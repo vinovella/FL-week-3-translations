@@ -38,7 +38,7 @@ translate french d16s04_8c363274:
 translate french d16s04_699dca67:
 
     # mc "What are you reading there?"
-    mc "Qu'est-ce que tu lis là ?"
+    mc "Qu'est-ce que tu lis là?"
 
 # game/code/d16/d16s04.rpy:58
 translate french d16s04_806b6e77:
@@ -110,13 +110,13 @@ translate french d16s04_1eb783f0:
 translate french d16s04_8b2b4c89:
 
     # mes "And I dunno. This sounded interesting, so I thought why not?"
-    mes "Et je ne sais pas. Cela avait l'air intéressant, alors je me suis demandé pourquoi pas ?"
+    mes "Et je ne sais pas. Cela avait l'air intéressant, alors je me suis demandé pourquoi pas?"
 
 # game/code/d16/d16s04.rpy:85
 translate french d16s04_d593c6be:
 
     # mc "So how is it then?"
-    mc "Alors, comment ça va ?"
+    mc "Alors, comment ça va?"
 
 # game/code/d16/d16s04.rpy:88
 translate french d16s04_5961d47e:
@@ -188,7 +188,7 @@ translate french d16s04_37f88c26:
 translate french d16s04_727efb9b:
 
     # mes "...Read it to you?"
-    mes "... Je te l'ai lu ?"
+    mes "... Je te l'ai lu?"
 
 # game/code/d16/d16s04.rpy:114
 translate french d16s04_0446baf7:
@@ -248,7 +248,7 @@ translate french d16s04_c1a03056:
 translate french d16s04_0c24fc52:
 
     # mc "I was wondering if you'd be down to help me study?{w} If it's not a bother."
-    mc "Je me demandais si tu serais prêt à m'aider à étudier ?{w} Si ce n'est pas un problème."
+    mc "Je me demandais si tu serais prêt à m'aider à étudier?{w} Si ce n'est pas un problème."
 
 # game/code/d16/d16s04.rpy:136
 translate french d16s04_366a8bf5:
@@ -290,13 +290,13 @@ translate french d16s04_869fb62d:
 translate french d16s04_6d1546a5:
 
     # kb "Hey! [mcname]. Sup, man?"
-    kb "Hé ! [mcname]. Sup, mec ?"
+    kb "Hé! [mcname]. Sup, mec?"
 
 # game/code/d16/d16s04.rpy:162
 translate french d16s04_ce5b0bbc:
 
     # mc "Just waiting for the class to start.{w} What's up?"
-    mc "J'attends juste que le cours commence.{w} Quoi de neuf ?"
+    mc "J'attends juste que le cours commence.{w} Quoi de neuf?"
 
 # game/code/d16/d16s04.rpy:165
 translate french d16s04_d50a618d:
@@ -308,19 +308,19 @@ translate french d16s04_d50a618d:
 translate french d16s04_6d38857e:
 
     # mc "Mood. The fuck you been up to anyway?"
-    mc "Humeur. Qu'est-ce que tu as fait de toute façon ?"
+    mc "Humeur. Qu'est-ce que tu as fait de toute façon?"
 
 # game/code/d16/d16s04.rpy:171
 translate french d16s04_4f46d7aa:
 
     # kb "Eh, the usual, y'know? Hanging with Chloe. Studying. Oh, I got a part-time gig actually."
-    kb "Eh, comme d'habitude, tu sais ? Je traîne avec Chloé. J'étudie. Oh, j'ai un travail à temps partiel en fait."
+    kb "Eh, comme d'habitude, tu sais? Je traîne avec Chloé. J'étudie. Oh, j'ai un travail à temps partiel en fait."
 
 # game/code/d16/d16s04.rpy:173
 translate french d16s04_a9bf6c3e:
 
     # mc "Oh shit, nice! Mr. Moneybags over here."
-    mc "Oh merde, sympa ! M. Moneybags par ici."
+    mc "Oh merde, sympa! M. Moneybags par ici."
 
 # game/code/d16/d16s04.rpy:176
 translate french d16s04_345e5edc:
@@ -332,7 +332,7 @@ translate french d16s04_345e5edc:
 translate french d16s04_a3c3928e:
 
     # mc "Oof. Welp, something's better than nothing, right?"
-    mc "Oof. Eh bien, quelque chose vaut mieux que rien, non ?"
+    mc "Oof. Eh bien, quelque chose vaut mieux que rien, non?"
 
 # game/code/d16/d16s04.rpy:181
 translate french d16s04_7860a471:
@@ -356,7 +356,7 @@ translate french d16s04_9c009f15:
 translate french d16s04_ee1225c5:
 
     # mc "You're not gonna kill yourself, right?"
-    mc "Tu ne vas pas te suicider, n'est-ce pas ?"
+    mc "Tu ne vas pas te suicider, n'est-ce pas?"
 
 # game/code/d16/d16s04.rpy:189
 translate french d16s04_3232c1bf:
@@ -410,7 +410,7 @@ translate french d16s04_3449f278:
 translate french d16s04_14738c89:
 
     # kb "Interesting? Fucked up? Awoke something in you?"
-    kb "Intéressant ? C'est foutu ? Ça a réveillé quelque chose en toi ?"
+    kb "Intéressant? C'est foutu? Ça a réveillé quelque chose en toi?"
 
 # game/code/d16/d16s04.rpy:211
 translate french d16s04_7c42d2f9:
@@ -434,7 +434,7 @@ translate french d16s04_cc125d32:
 translate french d16s04_e990ba22:
 
     # kb "Good stuff or bad stuff?"
-    kb "De bonnes ou de mauvaises choses ?"
+    kb "De bonnes ou de mauvaises choses?"
 
 # game/code/d16/d16s04.rpy:217
 translate french d16s04_bf42f129:
@@ -452,13 +452,13 @@ translate french d16s04_7815532d:
 translate french d16s04_234ed0af:
 
     # mc "You felched my cum outta your sister's ass!"
-    mc "Tu as vidé mon sperme du cul de ta sœur !"
+    mc "Tu as vidé mon sperme du cul de ta sœur!"
 
 # game/code/d16/d16s04.rpy:225
 translate french d16s04_f03c27e1:
 
     # mc "You felched my cum outta your girlfriend's ass!"
-    mc "Tu as vidé mon sperme du cul de ta copine !"
+    mc "Tu as vidé mon sperme du cul de ta copine!"
 
 # game/code/d16/d16s04.rpy:226
 translate french d16s04_936d7eeb:
@@ -517,7 +517,7 @@ translate french d16s04_7c3a755d:
 translate french d16s04_d6d6c7d8:
 
     # kb "And, I forgot to mention. I got a Gold Star for that. So who's the creampie sucker now?"
-    kb "Et j'ai oublié de le mentionner. J'ai eu une étoile d'or pour ça. Alors, qui est le suceur de creampie maintenant ?"
+    kb "Et j'ai oublié de le mentionner. J'ai eu une étoile d'or pour ça. Alors, qui est le suceur de creampie maintenant?"
 
 # game/code/d16/d16s04.rpy:250
 translate french d16s04_618fb559:
@@ -547,7 +547,7 @@ translate french d16s04_981ad90a:
 translate french d16s04_72d80bea:
 
     # mc "Wait, what? Why?"
-    mc "Attends, quoi ? Pourquoi ?"
+    mc "Attends, quoi? Pourquoi?"
 
 # game/code/d16/d16s04.rpy:261
 translate french d16s04_1f4fa4b2:
@@ -589,7 +589,7 @@ translate french d16s04_51bdb5ec:
 translate french d16s04_08de66b0:
 
     # mc "A Gold Star, huh?"
-    mc "Une étoile d'or, hein ?"
+    mc "Une étoile d'or, hein?"
 
 # game/code/d16/d16s04.rpy:280
 translate french d16s04_f5a65b9a:
@@ -613,13 +613,13 @@ translate french d16s04_09dcb738:
 translate french d16s04_be6b3495:
 
     # mc "Are you in the VIP program?"
-    mc « Êtes-vous dans le programme VIP ?
+    mc "Êtes-vous dans le programme VIP?"
 
 # game/code/d16/d16s04.rpy:291
 translate french d16s04_9f3a4ad8:
 
     # mc "Are you in the retention program?"
-    mc « Êtes-vous dans le programme de rétention ?
+    mc "Êtes-vous dans le programme de rétention?"
 
 # game/code/d16/d16s04.rpy:294
 translate french d16s04_9c47bf8b:
@@ -637,7 +637,7 @@ translate french d16s04_a9dde11e:
 translate french d16s04_5e2a19bc:
 
     # mc "Huh, what else did it say?"
-    mc "Hein, qu'est-ce que ça dit d'autre ?"
+    mc "Hein, qu'est-ce que ça dit d'autre?"
 
 # game/code/d16/d16s04.rpy:301
 translate french d16s04_fc1e93aa:
@@ -649,13 +649,13 @@ translate french d16s04_fc1e93aa:
 translate french d16s04_375fc6c7:
 
     # mc "And what does it do exactly?"
-    mc "Et qu'est-ce que ça fait exactement ?"
+    mc "Et qu'est-ce que ça fait exactement?"
 
 # game/code/d16/d16s04.rpy:307
 translate french d16s04_17b00802:
 
     # kb "The Gold Stars?"
-    kb "Les étoiles d'or ?"
+    kb "Les étoiles d'or?"
 
 # game/code/d16/d16s04.rpy:311
 translate french d16s04_355c13d1:
@@ -697,19 +697,19 @@ translate french d16s04_bf750554:
 translate french d16s04_35cde387:
 
     # mc "And you got one for felching Chloe?"
-    mc "Et tu en as un pour avoir tété Chloé ?"
+    mc "Et tu en as un pour avoir tété Chloé?"
 
 # game/code/d16/d16s04.rpy:329
 translate french d16s04_c68fbcba:
 
     # mc "And you got one with Chloe?"
-    mc "Et tu en as un avec Chloé ?"
+    mc "Et tu en as un avec Chloé?"
 
 # game/code/d16/d16s04.rpy:330
 translate french d16s04_2ff9bd83:
 
     # mct "What did he even do with her?"
-    mct "Qu'est-ce qu'il a fait d'elle ?"
+    mct "Qu'est-ce qu'il a fait d'elle?"
 
 # game/code/d16/d16s04.rpy:333
 translate french d16s04_c1b16753:
@@ -751,7 +751,7 @@ translate french d16s04_3d8d5fdd:
 translate french d16s04_cb724e06:
 
     # mct "What does this mean? Has the function of the Stars changed?"
-    mct "Qu'est-ce que cela signifie ? La fonction des étoiles a-t-elle changé?"
+    mct "Qu'est-ce que cela signifie? La fonction des étoiles a-t-elle changé?"
 
 # game/code/d16/d16s04.rpy:352
 translate french d16s04_637b7c7b:
@@ -769,13 +769,13 @@ translate french d16s04_92e0675f:
 translate french d16s04_f0193a30:
 
     # kb "You alright, man?"
-    kb "Ça va, mec ?"
+    kb "Ça va, mec?"
 
 # game/code/d16/d16s04.rpy:360
 translate french d16s04_437c9daa:
 
     # mc "Hm? Yeah. Yeah, I'm alright."
-    mc "Hm ? Ouais. Ouais, je vais bien."
+    mc "Hm? Ouais. Ouais, je vais bien."
 
 # game/code/d16/d16s04.rpy:362
 translate french d16s04_cabd4770:
@@ -811,25 +811,25 @@ translate french d16s04_8f99a0e1:
 translate french d16s04_aa4b18fa:
 
     # mct "Says here that I have one ongoing challenge and that I can reduce the length of it for three Gold Stars!"
-    mct "Il est dit ici que j'ai un défi en cours et que je peux en réduire la longueur pour trois étoiles d'or !"
+    mct "Il est dit ici que j'ai un défi en cours et que je peux en réduire la longueur pour trois étoiles d'or!"
 
 # game/code/d16/d16s04.rpy:382
 translate french d16s04_795648f9:
 
     # mct "Says here that I have one ongoing punishment and that I can reduce the length of it for three Gold Stars!"
-    mct "Il est dit ici que j'ai une punition en cours et que je peux en réduire la durée pour trois étoiles d'or !"
+    mct "Il est dit ici que j'ai une punition en cours et que je peux en réduire la durée pour trois étoiles d'or!"
 
 # game/code/d16/d16s04.rpy:386
 translate french d16s04_b746fd4f:
 
     # mct "And apparently I've gone through this challenge long enough that I could end it right now!"
-    mct "Et apparemment, j'ai relevé ce défi assez longtemps pour pouvoir y mettre fin maintenant !"
+    mct "Et apparemment, j'ai relevé ce défi assez longtemps pour pouvoir y mettre fin maintenant!"
 
 # game/code/d16/d16s04.rpy:388
 translate french d16s04_da1dc5f0:
 
     # mct "And apparently I've gone through the punishment long enough that I can end it right now!"
-    mct "Et apparemment, j'ai enduré la punition assez longtemps pour pouvoir y mettre fin maintenant !"
+    mct "Et apparemment, j'ai enduré la punition assez longtemps pour pouvoir y mettre fin maintenant!"
 
 # game/code/d16/d16s04.rpy:391
 translate french d16s04_9a7fe382:
@@ -841,13 +841,13 @@ translate french d16s04_9a7fe382:
 translate french d16s04_faa5165f:
 
     # mct "But I can end this!"
-    mct "Mais je peux y mettre fin !"
+    mct "Mais je peux y mettre fin!"
 
 # game/code/d16/d16s04.rpy:394
 translate french d16s04_0c7bd4c0:
 
     # mct "Wait... Should I do this later tonight or right now?"
-    mct "Attends... Dois-je faire ça plus tard ce soir ou maintenant ?"
+    mct "Attends... Dois-je faire ça plus tard ce soir ou maintenant?"
 # game/code/d16/d16s04.rpy:397
 translate french d16s04_f2e2abd3:
 
@@ -864,13 +864,13 @@ translate french d16s04_2fdc61a1:
 translate french d16s04_f6ad261b:
 
     # mct "What now?"
-    mct "Quoi maintenant ?"
+    mct "Quoi maintenant?"
 
 # game/code/d16/d16s04.rpy:418
 translate french d16s04_72a6c3b3:
 
     # flr "Your request has been received and approved. Enjoy your freedom!"
-    flr "Votre demande a été reçue et approuvée. Profitez de votre liberté !"
+    flr "Votre demande a été reçue et approuvée. Profitez de votre liberté!"
 
 # game/code/d16/d16s04.rpy:424
 translate french d16s04_f0c9a692:
@@ -936,7 +936,7 @@ translate french d16s04_579a9020:
 translate french d16s04_6a21c158:
 
     # kb "Can I have it?"
-    kb "Puis-je l'avoir ?"
+    kb "Puis-je l'avoir?"
 
 # game/code/d16/d16s04.rpy:461
 translate french d16s04_3f9df27f:
@@ -954,7 +954,7 @@ translate french d16s04_e7960abc:
 translate french d16s04_d4d3861f:
 
     # mc "...You want the cock cage that I wore?"
-    mc "...Tu veux la cage à bite que je portais ?"
+    mc "...Tu veux la cage à bite que je portais?"
 
 # game/code/d16/d16s04.rpy:468
 translate french d16s04_c1b16753_1:
@@ -984,7 +984,7 @@ translate french d16s04_9d8390ca:
 translate french d16s04_cccf76b8:
 
     # mc "No problem. Reduce, reuse, recycle, right?"
-    mc "Pas de problème. Réduire, réutiliser, recycler, n'est-ce pas ?"
+    mc "Pas de problème. Réduire, réutiliser, recycler, n'est-ce pas?"
 
 # game/code/d16/d16s04.rpy:490
 translate french d16s04_17ee4e25:
@@ -1038,7 +1038,7 @@ translate french d16s04_51194012:
 translate french d16s04_ad1c152e:
 
     # mct "Do I even have any?"
-    mct "Est-ce que j'en ai au moins ?"
+    mct "Est-ce que j'en ai au moins?"
 
 # game/code/d16/d16s04.rpy:519
 translate french d16s04_a20cefa7:
@@ -1068,13 +1068,13 @@ translate french d16s04_ba765917:
 translate french d16s04_1d0b4138:
 
     # mct "Now where the hell do I find {i}{b}three{/b}{/i} Gold Stars...?"
-    mct "Maintenant, où puis-je trouver {i}{b}trois{/b}{/i} étoiles d'or... ?"
+    mct "Maintenant, où puis-je trouver {i}{b}trois{/b}{/i}étoiles d'or...?"
 
 # game/code/d16/d16s04.rpy:531
 translate french d16s04_86ded4ec:
 
     # sy "Oi are you out of class yet?"
-    sy "Hé, tu n'es pas encore en cours ? »
+    sy "Hé, tu n'es pas encore en cours?"
 
 # game/code/d16/d16s04.rpy:532
 translate french d16s04_f5d64e17:
@@ -1098,7 +1098,7 @@ translate french d16s04_1bd45c8f:
 translate french d16s04_b0435d59:
 
     # sy "Could you pick me up after class?"
-    sy "Pourrais-tu venir me chercher après les cours ?"
+    sy "Pourrais-tu venir me chercher après les cours?"
 
 # game/code/d16/d16s04.rpy:540
 translate french d16s04_62590352:
@@ -1134,19 +1134,19 @@ translate french d16s04_9a3c5809:
 translate french d16s04_757942ea:
 
     # aw "Hey, are you busy?"
-    aw "Hé, tu es occupé ?"
+    aw "Hé, tu es occupé?"
 
 # game/code/d16/d16s04.rpy:555
 translate french d16s04_71f12e7a:
 
     # mct "Depends what's up?"
-    mct "Ça dépend, qu'est-ce qui se passe ?"
+    mct "Ça dépend, qu'est-ce qui se passe?"
 
 # game/code/d16/d16s04.rpy:557
 translate french d16s04_e28ed308:
 
     # aw "Can you come over for a bit?"
-    aw "Tu peux venir un peu ?"
+    aw "Tu peux venir un peu?"
 
 # game/code/d16/d16s04.rpy:561
 translate french d16s04_bc02264d:
@@ -1170,7 +1170,7 @@ translate french d16s04_8da67c47:
 translate french d16s04_e242fd49:
 
     # aw "Great! Thank you."
-    aw "Super ! Merci."
+    aw "Super! Merci."
 
 # game/code/d16/d16s04.rpy:577
 translate french d16s04_e43814e1:
@@ -1194,7 +1194,7 @@ translate french d16s04_fa09a3e5:
 translate french d16s04_2ff01f73:
 
     # rn "Alright. Let's get started then, shall we?"
-    rn "Très bien. Commençons alors, d'accord ?"
+    rn "Très bien. Commençons alors, d'accord?"
 
 translate french strings:
 

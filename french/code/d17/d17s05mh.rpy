@@ -8,7 +8,7 @@ translate french d17s05mh_80756f8d:
 translate french d17s05mh_5dfb1f09:
 
     # mc "Had to build some anticipation, didn't I?"
-    mc "J'ai dû créer une certaine anticipation, n'est-ce pas ?"
+    mc "J'ai dû créer une certaine anticipation, n'est-ce pas?"
 
 # game/code/d17/d17s05mh.rpy:103
 translate french d17s05mh_ae7906b9:
@@ -26,7 +26,7 @@ translate french d17s05mh_afef87c8:
 translate french d17s05mh_3b9f4fb8:
 
     # mc "Oh? And how {i}exactly{/i} weren't you patient, hm?"
-    mc "Oh ? Et comment {i}exactement{/i} n'as-tu pas été patiente, hein ?"
+    mc "Oh? Et comment {i}exactement{/i} n'as-tu pas été patiente, hein?"
 
 # game/code/d17/d17s05mh.rpy:112
 translate french d17s05mh_768aa326:
@@ -74,13 +74,13 @@ translate french d17s05mh_9cac6dd8:
 translate french d17s05mh_4cb69df0:
 
     # mc "Oh? You {i}want{/i} to get punished?"
-    mc "Oh ? Vous {i}voulez{/i} être puni ?"
+    mc "Oh? Vous {i}voulez{/i} être puni?"
 
 # game/code/d17/d17s05mh.rpy:128
 translate french d17s05mh_eb2382c8:
 
     # mc "Maybe I {i}shouldn't{/i} punish you then?"
-    mc "Peut-être que je {i}ne devrais pas{/i} te punir alors ?"
+    mc "Peut-être que je {i}ne devrais pas{/i} te punir alors?"
 
 # game/code/d17/d17s05mh.rpy:131
 translate french d17s05mh_ae8f1760:
@@ -128,13 +128,13 @@ translate french d17s05mh_50509e15:
 translate french d17s05mh_98993dee:
 
     # mc "Well? Come on. {w}You {i}do{/i} need to be punished still."
-    mc "Eh bien ? Allez. {w}Vous {i}avez{/i} encore besoin d'être puni."
+    mc "Eh bien? Allez. {w}Vous {i}avez{/i} encore besoin d'être puni."
 
 # game/code/d17/d17s05mh.rpy:180
 translate french d17s05mh_9316b739:
 
     # mc "You're being such a good obedient girl for me right now. But you still need to be punished, don't you?"
-    mc "Tu es une si bonne fille obéissante pour moi en ce moment. Mais tu as quand même besoin d'être puni, n'est-ce pas ?"
+    mc "Tu es une si bonne fille obéissante pour moi en ce moment. Mais tu as quand même besoin d'être puni, n'est-ce pas?"
 
 # game/code/d17/d17s05mh.rpy:183
 translate french d17s05mh_ee046721:
@@ -152,7 +152,7 @@ translate french d17s05mh_2d75e991:
 translate french d17s05mh_5fadbe7b:
 
     # mh "Ah! Yes— That hurts!"
-    mh "Ah ! Oui... Ça fait mal !"
+    mh "Ah! Oui... Ça fait mal!"
 
 # game/code/d17/d17s05mh.rpy:206
 translate french d17s05mh_d9e1e63f:
@@ -218,7 +218,7 @@ translate french d17s05mh_89630a3d:
 translate french d17s05mh_f3f34b97:
 
     # mc "I can feel you twitching already, but I want you to hold it in, okay?"
-    mc "Je peux déjà te sentir trembler, mais je veux que tu retiennes, d'accord ?"
+    mc "Je peux déjà te sentir trembler, mais je veux que tu retiennes, d'accord?"
 
 # game/code/d17/d17s05mh.rpy:267
 translate french d17s05mh_87e26eb2:
@@ -326,13 +326,13 @@ translate french d17s05mh_c1c70d14:
 translate french d17s05mh_22612e79:
 
     # mh "I— I'm cumming!"
-    mh "Je—je jouis !"
+    mh "Je—je jouis!"
 
 # game/code/d17/d17s05mh.rpy:484
 translate french d17s05mh_3c80fd6d:
 
     # mc "You want to feel me fill you up? Alright. Open your mouth."
-    mc "Tu veux me sentir te remplir ? Très bien. Ouvre la bouche."
+    mc "Tu veux me sentir te remplir? Très bien. Ouvre la bouche."
 
 # game/code/d17/d17s05mh.rpy:487
 translate french d17s05mh_66fd117c:
@@ -368,13 +368,13 @@ translate french d17s05mh_cuddle_489a9a82:
 translate french d17s05mh_cuddle_3f2f5915:
 
     # mc "Oh? Are you getting bored of me already?"
-    mc "Oh ? Tu en as déjà marre de moi ?"
+    mc "Oh? Tu en as déjà marre de moi?"
 
 # game/code/d17/d17s05mh.rpy:548
 translate french d17s05mh_cuddle_654ff5ed:
 
     # mc "Ow! Why'd you pinch me!?"
-    mc "Aïe ! Pourquoi m'as-tu pincé !?"
+    mc "Aïe! Pourquoi m'as-tu pincé!?"
 
 # game/code/d17/d17s05mh.rpy:551
 translate french d17s05mh_cuddle_674b884d:
@@ -392,7 +392,7 @@ translate french d17s05mh_cuddle_201436dc:
 translate french d17s05mh_cuddle_2fd79a02:
 
     # mh "Didn't you enjoy the paddle? I certainly did."
-    mh "Tu n'as pas apprécié la pagaie ? Moi, certainement."
+    mh "Tu n'as pas apprécié la pagaie? Moi, certainement."
 
 # game/code/d17/d17s05mh.rpy:565
 translate french d17s05mh_cuddle_84fefbca:
@@ -440,7 +440,7 @@ translate french d17s05mh_cuddle_08bd6008:
 translate french d17s05mh_cuddle_b512f1d5:
 
     # mc "Define \"stuff.\""
-    mc "Définies des "trucs"."
+    mc "Définies des \"trucs\"."
 
 # game/code/d17/d17s05mh.rpy:586
 translate french d17s05mh_cuddle_5243a774:
@@ -470,19 +470,19 @@ translate french d17s05mh_cuddle_4a6de014:
 translate french d17s05mh_cuddle_f51dc403:
 
     # mh "But maybe we could talk about it later over some coffee?{w} A friend of mine opened a nice place close to here."
-    mh "Mais peut-être pourrions-nous en parler plus tard autour d'un café ?{w} Un de mes amis a ouvert un endroit sympa près d'ici."
+    mh "Mais peut-être pourrions-nous en parler plus tard autour d'un café?{w} Un de mes amis a ouvert un endroit sympa près d'ici."
 
 # game/code/d17/d17s05mh.rpy:598
 translate french d17s05mh_cuddle_483c9257:
 
     # mc "So, basically, hang out with you and talk while drinking good coffee?"
-    mc "Alors, en gros, sortir avec toi et discuter en buvant un bon café ?"
+    mc "Alors, en gros, sortir avec toi et discuter en buvant un bon café?"
 
 # game/code/d17/d17s05mh.rpy:599
 translate french d17s05mh_cuddle_e26a96ad:
 
     # mc "Did you expect me to reject that offer?"
-    mc "Vous attendiez-vous à ce que je rejette cette offre ?"
+    mc "Vous attendiez-vous à ce que je rejette cette offre?"
 
 # game/code/d17/d17s05mh.rpy:603
 translate french d17s05mh_cuddle_5f41d96c:
@@ -506,7 +506,7 @@ translate french d17s05mh_cuddle_19389179:
 translate french d17s05mh_cuddle_e9e754e8:
 
     # mc "Uhm, sure? {w}That sounds pretty fun."
-    mc "Euh, bien sûr ? {w}Ça a l'air plutôt amusant."
+    mc "Euh, bien sûr? {w}Ça a l'air plutôt amusant."
 
 # game/code/d17/d17s05mh.rpy:617
 translate french d17s05mh_cuddle_dc4ae1fa:

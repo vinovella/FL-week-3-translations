@@ -2,7 +2,7 @@
 translate french d20s02zw_1bbcab10:
 
     # mh "Are you sure this will work? I would think that she would definitely notice and question a random person coming into the lounge."
-    mh "Tu es sûr que ça va marcher ? Je pense qu'elle va certainement me remarquer et m'interroger sur ma présence ici."
+    mh "Tu es sûr que ça va marcher? Je pense qu'elle va certainement me remarquer et m'interroger sur ma présence ici."
 
 # game/code/d20/d20s02zw.rpy:58
 translate french d20s02zw_1d40b4cf:
@@ -26,7 +26,7 @@ translate french d20s02zw_0702be1a:
 translate french d20s02zw_eb2f43cd:
 
     # mh "Is she really that bad?"
-    mh "Est-ce qu'elle est vraiment si mauvaise ?"
+    mh "Est-ce qu'elle est vraiment si mauvaise?"
 
 # game/code/d20/d20s02zw.rpy:66
 translate french d20s02zw_97efd22d:
@@ -44,7 +44,7 @@ translate french d20s02zw_ca909deb:
 translate french d20s02zw_62547674:
 
     # mc "Exactly. You ready?"
-    mc "Exactement. Tu es prête ?"
+    mc "Exactement. Tu es prête?"
 
 # game/code/d20/d20s02zw.rpy:75
 translate french d20s02zw_7f4a0c40:
@@ -62,7 +62,7 @@ translate french d20s02zw_f2e84f03:
 translate french d20s02zw_4e87f20c:
 
     # zw "Mister Young? What do you think you're doing here?"
-    zw "Monsieur Young ? Que pensez-vous faire ici ?"
+    zw "Monsieur Young? Que pensez-vous faire ici?"
 
 # game/code/d20/d20s02zw.rpy:103
 translate french d20s02zw_79c98bae:
@@ -86,13 +86,13 @@ translate french d20s02zw_7a27fbef:
 translate french d20s02zw_bbfc957e:
 
     # mc "Oh, uhm, congratulations. When did you get married?"
-    mc "Oh, euh, félicitations. Depuis quand êtes vous mariée ?"
+    mc "Oh, euh, félicitations. Depuis quand êtes vous mariée?"
 
 # game/code/d20/d20s02zw.rpy:116
 translate french d20s02zw_54524b42:
 
     # zw "I don't care about having small talk with you [mcname] Young. What are you doing here wasting my time?"
-    zw "Je m'en fiche d'avoir une petite conversation avec vous [mcname] Young. Qu'est-ce que vous faites ici à part me faire perdre mon temps ?"
+    zw "Je m'en fiche d'avoir une petite conversation avec vous [mcname] Young. Qu'est-ce que vous faites ici à part me faire perdre mon temps?"
 
 # game/code/d20/d20s02zw.rpy:119
 translate french d20s02zw_35178471:
@@ -110,7 +110,7 @@ translate french d20s02zw_5cd46aa0:
 translate french d20s02zw_f92fc82b:
 
     # zw "Oh? Finally realized that you couldn't make it with your lackluster academic performance and came running to me with your tail between your legs for help, did you?"
-    zw "Oh ? Vous avez finalement réalisé que vous ne pouviez pas y arriver avec vos résultats scolaires médiocres et vous êtes venu en courant vers moi avec la queue entre les jambes pour demander de l'aide, n'est-ce pas ?"
+    zw "Oh? Vous avez finalement réalisé que vous ne pouviez pas y arriver avec vos résultats scolaires médiocres et vous êtes venu en courant vers moi avec la queue entre les jambes pour demander de l'aide, n'est-ce pas?"
 
 # game/code/d20/d20s02zw.rpy:126
 translate french d20s02zw_e576c958:
@@ -146,7 +146,7 @@ translate french d20s02zw_a0785693:
 translate french d20s02zw_4a043ef4:
 
     # mc "Why? What have I ever done to piss you off like this?"
-    mc "Pourquoi ? Qu'ai-je déjà fait pour vous énerver comme ça ?"
+    mc "Pourquoi? Qu'ai-je déjà fait pour vous énerver comme ça?"
 
 # game/code/d20/d20s02zw.rpy:140
 translate french d20s02zw_cb54cbab:
@@ -164,7 +164,7 @@ translate french d20s02zw_6f131565:
 translate french d20s02zw_ae4adb61:
 
     # mc "Tell me why! I deserve that much, damn it."
-    mc "Dites-moi pourquoi ! Je mérite ça, bon sang."
+    mc "Dites-moi pourquoi! Je mérite ça, bon sang."
 
 # game/code/d20/d20s02zw.rpy:151
 translate french d20s02zw_a16822d8:
@@ -176,7 +176,7 @@ translate french d20s02zw_a16822d8:
 translate french d20s02zw_116b818d:
 
     # mc "Why the fuck do you hate me so much!?"
-    mc "Pourquoi me détestez autant ?"
+    mc "Pourquoi me détestez autant?"
 
 # game/code/d20/d20s02zw.rpy:155
 translate french d20s02zw_9e96733c:
@@ -266,25 +266,25 @@ translate french d20s02zw_influenced_3d230580:
 translate french d20s02zw_influenced_fe5705ee:
 
     # zw "Fuck me? Fuck me!?"
-    zw "Baiser ? Baiser !?"
+    zw "Baiser? Baiser!?"
 
 # game/code/d20/d20s02zw.rpy:207
 translate french d20s02zw_influenced_031eb4fb:
 
     # zw "Do you have any fucking idea the shit I've gone through, you piece of shit!?"
-    zw "Tu as une putain d'idée de la merde que j'ai vécue, espèce de merde !?"
+    zw "Tu as une putain d'idée de la merde que j'ai vécue, espèce de merde!?"
 
 # game/code/d20/d20s02zw.rpy:210
 translate french d20s02zw_influenced_6b5b813d:
 
     # zw "All the tears I've shed because of people like you!?"
-    zw "Toutes les larmes que j'ai versées à cause de gens comme toi !?"
+    zw "Toutes les larmes que j'ai versées à cause de gens comme toi!?"
 
 # game/code/d20/d20s02zw.rpy:211
 translate french d20s02zw_influenced_2de9e3f9:
 
     # zw "All you do is take, take, and take! Leaving behind a hollow husk of nothing!"
-    zw "Tout ce que tu fais c'est prendre, prendre et prendre ! Laissant derrière lui du vide !"
+    zw "Tout ce que tu fais c'est prendre, prendre et prendre! Laissant derrière lui du vide!"
 
 # game/code/d20/d20s02zw.rpy:214
 translate french d20s02zw_influenced_fe9f61fd:
@@ -296,7 +296,7 @@ translate french d20s02zw_influenced_fe9f61fd:
 translate french d20s02zw_influenced_e15bc0f5:
 
     # mc "What happened to you, Zarah?"
-    mc "Qu'est-ce qui t'est arrivé, Zarah ?"
+    mc "Qu'est-ce qui t'est arrivé, Zarah?"
 
 # game/code/d20/d20s02zw.rpy:223
 translate french d20s02zw_influenced_4895bdc2:
@@ -320,7 +320,7 @@ translate french d20s02zw_influenced_ba6e98c1:
 translate french d20s02zw_influenced_a7c3c1af:
 
     # zw "Who are you?"
-    zw "Qui es-tu ?"
+    zw "Qui es-tu?"
 
 # game/code/d20/d20s02zw.rpy:235
 translate french d20s02zw_influenced_047588d7:
@@ -350,7 +350,7 @@ translate french d20s02zw_influenced_f5a3ff24:
 translate french d20s02zw_influenced_006408a5:
 
     # zw "What's the point? He wouldn't understand anyway."
-    zw "A quoi ça sert ? De toute façon, il ne comprendrait pas."
+    zw "A quoi ça sert? De toute façon, il ne comprendrait pas."
 
 # game/code/d20/d20s02zw.rpy:244
 translate french d20s02zw_influenced_c294de66:
@@ -434,7 +434,7 @@ translate french d20s02zw_influenced_5d38e6be:
 translate french d20s02zw_influenced_998705ea:
 
     # zw "I don't even know you. Why should I take your advice?"
-    zw "Je ne te connais même pas. Pourquoi devrais-je suivre ton conseil ?"
+    zw "Je ne te connais même pas. Pourquoi devrais-je suivre ton conseil?"
 
 # game/code/d20/d20s02zw.rpy:277
 translate french d20s02zw_influenced_13d19c3e:
@@ -500,7 +500,7 @@ translate french d20s02zw_influenced_e60aab64:
 translate french d20s02zw_influenced_2101a8ac:
 
     # mh "It was. But it went well. Don't you think?"
-    mh "Ça l'était. Mais ça s'est bien passé. Tu ne penses pas ?"
+    mh "Ça l'était. Mais ça s'est bien passé. Tu ne penses pas?"
 
 # game/code/d20/d20s02zw.rpy:312
 translate french d20s02zw_influenced_1d611ba4:
@@ -530,7 +530,7 @@ translate french d20s02zw_sex_57d29633:
 translate french d20s02zw_sex_73a10a3a:
 
     # zw "What's there to be sorry for? You haven't even done anything."
-    zw "Qu'est-ce qu'il y a à regretter ? Tu n'a même rien fait."
+    zw "Qu'est-ce qu'il y a à regretter? Tu n'a même rien fait."
 
 # game/code/d20/d20s02zw.rpy:334
 translate french d20s02zw_sex_29917095:
@@ -560,7 +560,7 @@ translate french d20s02zw_sex_0b5275bf:
 translate french d20s02zw_sex_3dd3c766:
 
     # mh "But do you really want to stop?"
-    mh "Mais tu veux vraiment arrêter ?"
+    mh "Mais tu veux vraiment arrêter?"
 
 # game/code/d20/d20s02zw.rpy:358
 translate french d20s02zw_sex_2d2e32bf:
@@ -572,7 +572,7 @@ translate french d20s02zw_sex_2d2e32bf:
 translate french d20s02zw_sex_091e08de:
 
     # mh "I assume there's no one else here?"
-    mh "Je suppose qu'il n'y a personne d'autre ici ?"
+    mh "Je suppose qu'il n'y a personne d'autre ici?"
 
 # game/code/d20/d20s02zw.rpy:365
 translate french d20s02zw_sex_a0785693:
@@ -590,7 +590,7 @@ translate french d20s02zw_sex_83239112:
 translate french d20s02zw_sex_6ed50736:
 
     # mh "[mcname], would you mind helping her get out of those clothes while I tidy her spot here?"
-    mh "[mcname], ça vous dérangerait de l'aider à enlever ces vêtements ?"
+    mh "[mcname], ça vous dérangerait de l'aider à enlever ces vêtements?"
 
 # game/code/d20/d20s02zw.rpy:372
 translate french d20s02zw_sex_5a86862f:
@@ -620,7 +620,7 @@ translate french d20s02zw_sex_9f3dccb6:
 translate french d20s02zw_sex_e13725b5:
 
     # mh "Would you like to taste me as well?"
-    mh "Tu aimerais me goûter aussi ?"
+    mh "Tu aimerais me goûter aussi?"
 
 # game/code/d20/d20s02zw.rpy:413
 translate french d20s02zw_sex_35efa5ea:
@@ -644,7 +644,7 @@ translate french d20s02zw_sex_7fbfd802:
 translate french d20s02zw_sex_07fb5270:
 
     # mh "Is there anything wrong?"
-    mh "Il y a quelque chose qui ne va pas ?"
+    mh "Il y a quelque chose qui ne va pas?"
 
 # game/code/d20/d20s02zw.rpy:427
 translate french d20s02zw_sex_f15084f1:
@@ -656,7 +656,7 @@ translate french d20s02zw_sex_f15084f1:
 translate french d20s02zw_sex_788ba263:
 
     # mh "Do you want to try?"
-    mh "Tu veux essayer ?"
+    mh "Tu veux essayer?"
 
 # game/code/d20/d20s02zw.rpy:431
 translate french d20s02zw_sex_63b511cb:
@@ -674,7 +674,7 @@ translate french d20s02zw_sex_bbc942cb:
 translate french d20s02zw_sex_e2a0abf5:
 
     # mh "Can you take me a little deeper? I think you can."
-    mh "Tu veux approfondir un peu ? Je pense que tu peux."
+    mh "Tu veux approfondir un peu? Je pense que tu peux."
 
 # game/code/d20/d20s02zw.rpy:473
 translate french d20s02zw_sex_0cc41321:
@@ -686,7 +686,7 @@ translate french d20s02zw_sex_0cc41321:
 translate french d20s02zw_sex_7a7e9088:
 
     # mc "Does that mean you're ready for me?"
-    mc "Ça veut dire que tu es prête pour moi ?"
+    mc "Ça veut dire que tu es prête pour moi?"
 
 # game/code/d20/d20s02zw.rpy:476
 translate french d20s02zw_sex_c7e63bef:
@@ -812,19 +812,19 @@ translate french d20s02zw_sex_6b251707:
 translate french d20s02zw_zarah_failed_52751c89:
 
     # mh "Excuse me?"
-    mh "Excusez-moi ?"
+    mh "Excusez-moi?"
 
 # game/code/d20/d20s02zw.rpy:608
 translate french d20s02zw_zarah_failed_98e9f75e:
 
     # mh "Who do you think you are to talk to him like that? You know nothing about him."
-    mh "Vous vous prennez pour qui pour lui parler comme ça ? Vous ne savez rien de lui."
+    mh "Vous vous prennez pour qui pour lui parler comme ça? Vous ne savez rien de lui."
 
 # game/code/d20/d20s02zw.rpy:611
 translate french d20s02zw_zarah_failed_3828b8ff:
 
     # zw "Who am I? Who the hell are you!?"
-    zw "Qui suis-je ? Qui diable êtes-vous!?"
+    zw "Qui suis-je? Qui diable êtes-vous!?"
 
 # game/code/d20/d20s02zw.rpy:614
 translate french d20s02zw_zarah_failed_7be12d73:
@@ -872,7 +872,7 @@ translate french d20s02zw_zarah_failed_c761b8e7:
 translate french d20s02zw_zarah_failed_7ea5ee57:
 
     # zw "I'll be looking forward to seeing you at the exams, Mister Young!"
-    zw "J'ai hâte de te voir aux examens, Monsieur Young !"
+    zw "J'ai hâte de te voir aux examens, Monsieur Young!"
 
 # game/code/d20/d20s02zw.rpy:638
 translate french d20s02zw_zarah_failed_8e69e273:
@@ -926,7 +926,7 @@ translate french d20s02zw_zarah_failed_a20cefa7:
 translate french d20s02zw_zarah_failed_03aa5ac8:
 
     # mh "You wanna go get something to eat before we head back?"
-    mh "Tu veux aller manger quelque chose avant de rentrer ?"
+    mh "Tu veux aller manger quelque chose avant de rentrer?"
 
 # game/code/d20/d20s02zw.rpy:660
 translate french d20s02zw_zarah_failed_a46ea8d2:
@@ -961,3 +961,4 @@ translate french strings:
     # game/code/d20/d20s02zw.rpy:263
     old "Go to Lyssa and Zarah"
     new "Va voir Lyssa et Zarah."
+

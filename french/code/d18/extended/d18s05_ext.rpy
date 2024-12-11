@@ -8,25 +8,25 @@ translate french d18s05_ext_0d9b52ab:
 translate french d18s05_ext_e88c3bd3:
 
     # mct "What the fuck?"
-    mct "C'est quoi ce bordel ?"
+    mct "C'est quoi ce bordel?"
 
 # game/code/d18/extended/d18s05_ext.rpy:91
 translate french d18s05_ext_e36172dc:
 
     # mc "Pete, what the fuck are you doing?"
-    mc "Pete, qu'est-ce que tu fous ?"
+    mc "Pete, qu'est-ce que tu fous?"
 
 # game/code/d18/extended/d18s05_ext.rpy:101
 translate french d18s05_ext_2356b882:
 
     # sb "Look at what you just did! You got me all dirty."
-    sb "Regarde ce que tu viens de faire ! Tu m'as sali."
+    sb "Regarde ce que tu viens de faire! Tu m'as sali."
 
 # game/code/d18/extended/d18s05_ext.rpy:104
 translate french d18s05_ext_57e77cd0:
 
     # mc "And you came on my fucking pants!"
-    mc "Et tu es venu sur mon putain de pantalon !"
+    mc "Et tu es venu sur mon putain de pantalon!"
 
 # game/code/d18/extended/d18s05_ext.rpy:107
 translate french d18s05_ext_96540db5:
@@ -56,13 +56,13 @@ translate french d18s05_ext_20e9106d:
 translate french d18s05_ext_e2a4e5b8:
 
     # mc "What the fuck is going on here? \"Mistress\"?"
-    mc "Qu'est-ce qui se passe ici ? \" Maîtresse\"?"
+    mc "Qu'est-ce qui se passe ici? \" Maîtresse\"?"
 
 # game/code/d18/extended/d18s05_ext.rpy:139
 translate french d18s05_ext_8d200d45:
 
     # sb "Did you not tell him? Tisk, tisk."
-    sb "Tu ne lui as pas dit ? Tisk, tisk."
+    sb "Tu ne lui as pas dit? Tisk, tisk."
 
 # game/code/d18/extended/d18s05_ext.rpy:141
 translate french d18s05_ext_f15275b0:
@@ -74,7 +74,7 @@ translate french d18s05_ext_f15275b0:
 translate french d18s05_ext_e0ae9d2d:
 
     # sb "Isn't that right?"
-    sb "C'est pas vrai ?"
+    sb "C'est pas vrai?"
 
 # game/code/d18/extended/d18s05_ext.rpy:147
 translate french d18s05_ext_d8f15f97:
@@ -92,7 +92,7 @@ translate french d18s05_ext_69a6df63:
 translate french d18s05_ext_48aa6509:
 
     # mc "But did you really have to cum all over the entire fucking apartment, man? It's gonna smell like cum in here for months."
-    mc "Mais étais-tu vraiment obligé de jouir dans tout ce putain d'appartement, mec ? Ça va sentir le sperme ici pendant des mois."
+    mc "Mais étais-tu vraiment obligé de jouir dans tout ce putain d'appartement, mec? Ça va sentir le sperme ici pendant des mois."
 
 # game/code/d18/extended/d18s05_ext.rpy:154
 translate french d18s05_ext_3fee1eb1:
@@ -104,19 +104,19 @@ translate french d18s05_ext_3fee1eb1:
 translate french d18s05_ext_00764d53:
 
     # sb "But he'll still clean up after himself, won't he?"
-    sb "Mais il fera quand même le ménage après, n'est-ce pas ?"
+    sb "Mais il fera quand même le ménage après, n'est-ce pas?"
 
 # game/code/d18/extended/d18s05_ext.rpy:159
 translate french d18s05_ext_0b222aa7:
 
     # pb "I'll clean it up!"
-    pb "Je vais nettoyer !"
+    pb "Je vais nettoyer!"
 
 # game/code/d18/extended/d18s05_ext.rpy:161
 translate french d18s05_ext_f0a783f8:
 
     # mct "Pete cleaning up after himself? Huh, maybe this might actually be a good development."
-    mct "Pete fait le ménage après ?  Euh, peut-être que ça pourrait être une bonne évolution."
+    mct "Pete fait le ménage après?  Euh, peut-être que ça pourrait être une bonne évolution."
 
 # game/code/d18/extended/d18s05_ext.rpy:164
 translate french d18s05_ext_1cd279e4:
@@ -128,7 +128,7 @@ translate french d18s05_ext_1cd279e4:
 translate french d18s05_ext_6a98e6ea:
 
     # sb "What do you mean?"
-    sb "Qu'est-ce que tu veux dire ?"
+    sb "Qu'est-ce que tu veux dire?"
 
 # game/code/d18/extended/d18s05_ext.rpy:170
 translate french d18s05_ext_2bf392c6:
@@ -140,13 +140,13 @@ translate french d18s05_ext_2bf392c6:
 translate french d18s05_ext_faa42600:
 
     # sb "Seriously?"
-    sb "Sérieusement ?"
+    sb "Sérieusement?"
 
 # game/code/d18/extended/d18s05_ext.rpy:176
 translate french d18s05_ext_1fb5cd3c:
 
     # pb "Damn, dude, you're famous! It's all over the Fetish Feed."
-    pb "Putain, tu es célèbre ! C'est partout dans le fil fétichiste."
+    pb "Putain, tu es célèbre! C'est partout dans le fil fétichiste."
 
 # game/code/d18/extended/d18s05_ext.rpy:179
 translate french d18s05_ext_11455b53:
@@ -188,7 +188,7 @@ translate french d18s05_ext_278ddde7:
 translate french d18s05_ext_60199fed:
 
     # sb "*Snorts* He's still out of commission, huh?"
-    sb "*Renifle* Il est toujours hors service, hein ?"
+    sb "*Renifle* Il est toujours hors service, hein?"
 
 # game/code/d18/extended/d18s05_ext.rpy:203
 translate french d18s05_ext_7ee0cab6:
@@ -206,13 +206,13 @@ translate french d18s05_ext_50f85b12:
 translate french d18s05_ext_643a2b29:
 
     # sb "I'm fine with it. What do you say?"
-    sb "Ça me va. Qu'est-ce que tu dis ?"
+    sb "Ça me va. Qu'est-ce que tu dis?"
 
 # game/code/d18/extended/d18s05_ext.rpy:213
 translate french d18s05_ext_1185f6a6:
 
     # mc "What exactly do you want from me?"
-    mc "Qu'est-ce que tu veux de moi exactement ?"
+    mc "Qu'est-ce que tu veux de moi exactement?"
 
 # game/code/d18/extended/d18s05_ext.rpy:216
 translate french d18s05_ext_8c4f8c0d:
@@ -236,7 +236,7 @@ translate french d18s05_ext_28faf18e:
 translate french d18s05_ext_0f97ddd9:
 
     # sb "And you, I want to stand near the wall and jerk off that flaccid cock of yours while you watch him fuck me, understood?"
-    sb "Et toi, je veux que tu te tienne près du mur et branle ta bite flasque pendant que tu le regardes me baiser, compris ?"
+    sb "Et toi, je veux que tu te tienne près du mur et branle ta bite flasque pendant que tu le regardes me baiser, compris?"
 
 # game/code/d18/extended/d18s05_ext.rpy:231
 translate french d18s05_ext_d8f15f97_1:
@@ -254,7 +254,7 @@ translate french d18s05_ext_11d08885:
 translate french d18s05_ext_535545d3:
 
     # pb "Come on, man! Jus—"
-    pb "Allez, mec ! Jus-"
+    pb "Allez, mec! Jus-"
 
 # game/code/d18/extended/d18s05_ext.rpy:247
 translate french d18s05_ext_4133720c:
@@ -284,7 +284,7 @@ translate french d18s05_sex_4facc25a:
 translate french d18s05_sex_32c1bf8b:
 
     # sb "Yes! Yes! Harder, pound me harder!"
-    sb "Oui ! Oui! Plus fort, frappe-moi plus fort !"
+    sb "Oui! Oui! Plus fort, frappe-moi plus fort!"
 
 # game/code/d18/extended/d18s05_ext.rpy:316
 translate french d18s05_sex_cbc835f7:
@@ -320,7 +320,7 @@ translate french d18s05_sex_bee79c5a:
 translate french d18s05_sex_e62c707c:
 
     # dw "And you, aren't you tired of taking my men?"
-    dw "Et toi, tu n'en as pas marre de prendre mes hommes ?"
+    dw "Et toi, tu n'en as pas marre de prendre mes hommes?"
 
 # game/code/d18/extended/d18s05_ext.rpy:335
 translate french d18s05_sex_1cc95c5d:
@@ -344,7 +344,7 @@ translate french d18s05_sex_47c60f57:
 translate french d18s05_sex_faabca89:
 
     # dw "Oh, did he now?"
-    dw "Oh, est-ce qu'il fait maintenant ?"
+    dw "Oh, est-ce qu'il fait maintenant?"
 
 # game/code/d18/extended/d18s05_ext.rpy:344
 translate french d18s05_sex_a15c2108:
@@ -386,7 +386,7 @@ translate french d18s05_sex_03864990:
 translate french d18s05_sex_0467280e:
 
     # sb "Oh? Did [mcname] worshiping her feet make you hard? Or was it seeing him fuck me while you couldn't?"
-    sb "Oh ? Est-ce que [mcname] vénérant ses pieds t'a fait bander ? Ou était-ce le voir me baiser alors que tu ne pouvais pas ?"
+    sb "Oh? Est-ce que [mcname] vénérant ses pieds t'a fait bander? Ou était-ce le voir me baiser alors que tu ne pouvais pas?"
 
 # game/code/d18/extended/d18s05_ext.rpy:370
 translate french d18s05_sex_2a08c5a7:
@@ -404,25 +404,25 @@ translate french d18s05_sex_57c29744:
 translate french d18s05_sex_9057efc9:
 
     # dw "How the hell did you turn him into a sub?"
-    dw "Comment diable as-tu fait de lui un soumis ?"
+    dw "Comment diable as-tu fait de lui un soumis?"
 
 # game/code/d18/extended/d18s05_ext.rpy:400
 translate french d18s05_sex_e595ca08:
 
     # sb "Mmm, him? He came to me."
-    sb "Mmm, lui ? Il est venu vers moi."
+    sb "Mmm, lui? Il est venu vers moi."
 
 # game/code/d18/extended/d18s05_ext.rpy:403
 translate french d18s05_sex_eae04d0a:
 
     # sb "Harder. All that muscle and is this the best you can do?"
-    sb "Plus fort. Tout ce muscle et est-ce le mieux que tu puisses faire ?"
+    sb "Plus fort. Tout ce muscle et est-ce le mieux que tu puisses faire?"
 
 # game/code/d18/extended/d18s05_ext.rpy:408
 translate french d18s05_sex_e70578a2:
 
     # dw "He came to you asked to be your sub? Surprising."
-    dw "Il est venu te voir et t'a demandé d'être ton soumis ? Surprenant."
+    dw "Il est venu te voir et t'a demandé d'être ton soumis? Surprenant."
 
 # game/code/d18/extended/d18s05_ext.rpy:409
 translate french d18s05_sex_296b3dd9:
@@ -434,13 +434,13 @@ translate french d18s05_sex_296b3dd9:
 translate french d18s05_sex_4fb80f38:
 
     # sb "Fuck, yes, yes!"
-    sb "Putain, oui, oui !"
+    sb "Putain, oui, oui!"
 
 # game/code/d18/extended/d18s05_ext.rpy:416
 translate french d18s05_sex_e2ea486f:
 
     # sb "Hah! Never judge a book by its cover and all that."
-    sb "Hah ! Ne jugez jamais un livre à sa couverture et tout ça."
+    sb "Hah! Ne jugez jamais un livre à sa couverture et tout ça."
 
 # game/code/d18/extended/d18s05_ext.rpy:421
 translate french d18s05_sex_1bab0303:
@@ -476,25 +476,25 @@ translate french d18s05_sex_9566cc04:
 translate french d18s05_sex_ca6b8b57:
 
     # mc "Mistress, I'm close!"
-    mc "Maîtresse, je suis proche !"
+    mc "Maîtresse, je suis proche!"
 
 # game/code/d18/extended/d18s05_ext.rpy:547
 translate french d18s05_sex_6b3abdb9:
 
     # pb "Me too!"
-    pb "Moi aussi !"
+    pb "Moi aussi!"
 
 # game/code/d18/extended/d18s05_ext.rpy:550
 translate french d18s05_sex_c0313beb:
 
     # sb "In me!"
-    sb "En moi !"
+    sb "En moi!"
 
 # game/code/d18/extended/d18s05_ext.rpy:553
 translate french d18s05_sex_01d41846:
 
     # dw "On me! Don't you dare cum inside!"
-    dw "Sur moi ! N'ose pas jouir à l'intérieur !"
+    dw "Sur moi! N'ose pas jouir à l'intérieur!"
 
 # game/code/d18/extended/d18s05_ext.rpy:580
 translate french d18s05_after_sex_7eb0b5dd:
@@ -512,7 +512,7 @@ translate french d18s05_after_sex_af667783:
 translate french d18s05_after_sex_f679945d:
 
     # dw "What? What are you smirking about?"
-    dw "Quoi? Pourquoi tu souries ?"
+    dw "Quoi? Pourquoi tu souries?"
 
 # game/code/d18/extended/d18s05_ext.rpy:592
 translate french d18s05_after_sex_60d72752:
@@ -554,13 +554,13 @@ translate french d18s05_after_sex_e16297d8:
 translate french d18s05_after_sex_a4489dec:
 
     # dw "You what!?"
-    dw "Tu quoi !?"
+    dw "Tu quoi!?"
 
 # game/code/d18/extended/d18s05_ext.rpy:614
 translate french d18s05_after_sex_f87e0cc4:
 
     # sb "Calm down."
-    sb Calme-toi.."
+    sb "Calme-toi.."
 
 # game/code/d18/extended/d18s05_ext.rpy:615
 translate french d18s05_after_sex_d36f975d:
@@ -584,13 +584,13 @@ translate french d18s05_after_sex_7102ee2c:
 translate french d18s05_after_sex_0ded540c:
 
     # dw "And he's coming with you? How long have you two even been together?"
-    dw Et il vient avec toi ? Depuis combien de temps êtes-vous ensemble ?"
+    dw "Et il vient avec toi? Depuis combien de temps êtes-vous ensemble?"
 
 # game/code/d18/extended/d18s05_ext.rpy:625
 translate french d18s05_after_sex_fea7b848:
 
     # sb "Yes. And does it matter?"
-    sb "Oui. Et est-ce important ?
+    sb "Oui. Et est-ce important?"
 
 # game/code/d18/extended/d18s05_ext.rpy:626
 translate french d18s05_after_sex_bdc0ec11:
@@ -620,7 +620,7 @@ translate french d18s05_after_sex_b61e361e:
 translate french d18s05_after_sex_d6e7046c:
 
     # dw "What do you think?"
-    dw "Qu'en penses-tu ?"
+    dw "Qu'en penses-tu?"
 
 # game/code/d18/extended/d18s05_ext.rpy:642
 translate french d18s05_after_sex_2485f494:
@@ -632,7 +632,7 @@ translate french d18s05_after_sex_2485f494:
 translate french d18s05_after_sex_3110016f:
 
     # mct "Even without the exams and Fetish Locator, is this something I would actually want?"
-    mct "Même sans les examens et sans Fetish Locator, est-ce quelque chose que je voudrais réellement ?"
+    mct "Même sans les examens et sans Fetish Locator, est-ce quelque chose que je voudrais réellement?"
 
 # game/code/d18/extended/d18s05_ext.rpy:651
 translate french d18s05_after_sex_a771e1d4:
@@ -698,10 +698,11 @@ translate french d18s05_after_sex_fdd61d2f:
 translate french d18s05_after_sex_511784d8:
 
     # dw "Good luck! I actually hope it works out for you guys!"
-    dw "Bonne chance ! En fait, j'espère que ça marchera pour vous les gars !"
+    dw "Bonne chance! En fait, j'espère que ça marchera pour vous les gars!"
 
 translate french strings:
 
     # game/code/d18/extended/d18s05_ext.rpy:217
     old "Fuck Samiya"
     new "Baise Samiya"
+

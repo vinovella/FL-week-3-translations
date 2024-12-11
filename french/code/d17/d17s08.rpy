@@ -32,7 +32,7 @@ translate french d17s08_2c2aaf9f:
 translate french d17s08_6b138f69:
 
     # lc "Can I ask you a weird question?"
-    lc "Je peux te poser une question bizarre ?"
+    lc "Je peux te poser une question bizarre?"
 
 # game/code/d17/d17s08.rpy:77
 translate french d17s08_1bf60051:
@@ -56,7 +56,7 @@ translate french d17s08_9ed7cd70:
 translate french d17s08_39448b0e:
 
     # lc "Do you think that's what I am?"
-    lc "Tu penses que c'est ce que je suis ?"
+    lc "Tu penses que c'est ce que je suis?"
 
 # game/code/d17/d17s08.rpy:87
 translate french d17s08_126a07ec:
@@ -68,7 +68,7 @@ translate french d17s08_126a07ec:
 translate french d17s08_06c4f335:
 
     # lc "Okay, so the other side of voyeur is an exhibitionist. Do you think of yourself as an exhibitionist?"
-    lc "Ok, donc l'autre côté du voyeur c'est l'exhibitionniste. Tu te considères comme un exhibitionniste ?"
+    lc "Ok, donc l'autre côté du voyeur c'est l'exhibitionniste. Tu te considères comme un exhibitionniste?"
 
 # game/code/d17/d17s08.rpy:93
 translate french d17s08_6c0d3478:
@@ -92,7 +92,7 @@ translate french d17s08_2553d9ad:
 translate french d17s08_426091d1:
 
     # lc "Hmm. {w}So, what if I ran into some real exhibitionists on campus?"
-    lc "Hmm. {w}Alors, et si je tombais sur de vrais exhibitionnistes sur le campus ?"
+    lc "Hmm. {w}Alors, et si je tombais sur de vrais exhibitionnistes sur le campus?"
 
 # game/code/d17/d17s08.rpy:105
 translate french d17s08_24383b45:
@@ -116,7 +116,7 @@ translate french d17s08_4d01cb71:
 translate french d17s08_822cfe95:
 
     # lc "Oh?"
-    lc "Oh ?"
+    lc "Oh?"
 
 # game/code/d17/d17s08.rpy:119
 translate french d17s08_d9113434:
@@ -140,7 +140,7 @@ translate french d17s08_37cc0643:
 translate french d17s08_3e858d5a:
 
     # lc "O.M.G. Did you freak out?"
-    lc "O.M.G. Tu as paniqué ?"
+    lc "O.M.G. Tu as paniqué?"
 
 # game/code/d17/d17s08.rpy:127
 translate french d17s08_894f0408:
@@ -188,13 +188,13 @@ translate french d17s08_b48aef40:
 translate french d17s08_45f000f5:
 
     # lc "Is that Polly?"
-    lc "C'est Polly ?"
+    lc "C'est Polly?"
 
 # game/code/d17/d17s08.rpy:146
 translate french d17s08_5df4435f:
 
     # mc "Yeah, how did you know?"
-    mc "Ouais, comment le sais-tu ?"
+    mc "Ouais, comment le sais-tu?"
 
 # game/code/d17/d17s08.rpy:149
 translate french d17s08_c300e12c:
@@ -212,7 +212,7 @@ translate french d17s08_49840bce:
 translate french d17s08_ff3faf4d:
 
     # lc "I didn't know she had a girlfriend. {w}Anyone I know?"
-    lc "Je ne savais pas qu'elle avait une petite amie. {w}Quelqu'un que je connais ?"
+    lc "Je ne savais pas qu'elle avait une petite amie. {w}Quelqu'un que je connais?"
 
 # game/code/d17/d17s08.rpy:158
 translate french d17s08_9754d78a:
@@ -260,7 +260,7 @@ translate french d17s08_01bf0ad5:
 translate french d17s08_10eefcb6:
 
     # lc "She did what?!"
-    lc "Elle a fait quoi ?!"
+    lc "Elle a fait quoi?!"
 
 # game/code/d17/d17s08.rpy:182
 translate french d17s08_711264e3:
@@ -272,7 +272,7 @@ translate french d17s08_711264e3:
 translate french d17s08_d504498b:
 
     # lc "During class?!"
-    lc "Pendant les cours ?!"
+    lc "Pendant les cours?!"
 
 # game/code/d17/d17s08.rpy:188
 translate french d17s08_39aeb091:
@@ -284,7 +284,7 @@ translate french d17s08_39aeb091:
 translate french d17s08_fc575ea8:
 
     # lc "How is that possible?"
-    lc "Comment est-ce possible ?"
+    lc "Comment est-ce possible?"
 
 # game/code/d17/d17s08.rpy:194
 translate french d17s08_6ec69743:
@@ -296,7 +296,7 @@ translate french d17s08_6ec69743:
 translate french d17s08_12dfdedf:
 
     # lc "Did they notice you watching?"
-    lc "Est-ce qu'ils ont remarqué que tu regardais ?"
+    lc "Est-ce qu'ils ont remarqué que tu regardais?"
 
 # game/code/d17/d17s08.rpy:200
 translate french d17s08_ff97718e:
@@ -308,7 +308,7 @@ translate french d17s08_ff97718e:
 translate french d17s08_9a16fa05:
 
     # lc "Did you ever say anything to them about that?"
-    lc "Tu leur as déjà dit quelque chose à ce sujet ?"
+    lc "Tu leur as déjà dit quelque chose à ce sujet?"
 
 # game/code/d17/d17s08.rpy:206
 translate french d17s08_b5672634:
@@ -320,7 +320,7 @@ translate french d17s08_b5672634:
 translate french d17s08_c5d1a1c0:
 
     # lc "Not even after we all saw them together at Min's Party?"
-    lc "Même pas après qu'on les ait tous vus ensemble à la fête de Min ?"
+    lc "Même pas après qu'on les ait tous vus ensemble à la fête de Min?"
 
 # game/code/d17/d17s08.rpy:212
 translate french d17s08_3b16a04a:
@@ -356,7 +356,7 @@ translate french d17s08_c7a05202:
 translate french d17s08_92c2a729:
 
     # lc "Oh, wow. Did they notice you?"
-    lc "Oh, wow. Ils t'ont remarqué ?"
+    lc "Oh, wow. Ils t'ont remarqué?"
 
 # game/code/d17/d17s08.rpy:229
 translate french d17s08_558d79f6:
@@ -392,7 +392,7 @@ translate french d17s08_01c3c599:
 translate french d17s08_ee882241:
 
     # lc "Did that bother them at all?"
-    lc "Est-ce que ça les a dérangés ?"
+    lc "Est-ce que ça les a dérangés?"
 
 # game/code/d17/d17s08.rpy:247
 translate french d17s08_5f912cb7:
@@ -416,7 +416,7 @@ translate french d17s08_5ebfe654:
 translate french d17s08_8d8099b9:
 
     # lc "But then, why would they do something like that in the first place?"
-    lc "Mais alors, pourquoi auraient-ils fait quelque chose comme ça en premier lieu ?"
+    lc "Mais alors, pourquoi auraient-ils fait quelque chose comme ça en premier lieu?"
 
 # game/code/d17/d17s08.rpy:259
 translate french d17s08_6ad233fc:
@@ -434,7 +434,7 @@ translate french d17s08_0949eed3:
 translate french d17s08_cc19cac6:
 
     # lc "Could I watch discreetly while I'm pretending to do something else?"
-    lc "Je peux regarder discrètement pendant que je fais semblant de faire autre chose ?"
+    lc "Je peux regarder discrètement pendant que je fais semblant de faire autre chose?"
 
 # game/code/d17/d17s08.rpy:267
 translate french d17s08_ac50f58f:
@@ -452,7 +452,7 @@ translate french d17s08_16dd4f34:
 translate french d17s08_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh ?"
+    mc "Oh?"
 
 # game/code/d17/d17s08.rpy:275
 translate french d17s08_6952e266:
@@ -470,7 +470,7 @@ translate french d17s08_a49ed4f8:
 translate french replay_d17s08_d9fc70c6:
 
     # mc "Stacy?"
-    mc "Stacy ?"
+    mc "Stacy?"
 
 # game/code/d17/d17s08.rpy:295
 translate french replay_d17s08_f453bbd3:
@@ -482,7 +482,7 @@ translate french replay_d17s08_f453bbd3:
 translate french replay_d17s08_9d83a8e2:
 
     # mc "What are you doing here?"
-    mc "Qu'est-ce que tu fais ici ?"
+    mc "Qu'est-ce que tu fais ici?"
 
 # game/code/d17/d17s08.rpy:300
 translate french replay_d17s08_39848f85:
@@ -494,7 +494,7 @@ translate french replay_d17s08_39848f85:
 translate french replay_d17s08_60740d9f:
 
     # mc "But, I mean, how are you here?"
-    mc "Mais je veux dire, comment est tu entré ?"
+    mc "Mais je veux dire, comment est tu entré?"
 
 # game/code/d17/d17s08.rpy:306
 translate french replay_d17s08_3fc417d4:
@@ -536,7 +536,7 @@ translate french replay_d17s08_ba347f77:
 translate french replay_d17s08_ee35b364:
 
     # sy "How long does your girlfriend take in the shower?"
-    sy "Combien de temps ta copine passe-t-elle sous la douche ?"
+    sy "Combien de temps ta copine passe-t-elle sous la douche?"
 
 # game/code/d17/d17s08.rpy:326
 translate french replay_d17s08_e8f7b771:
@@ -560,7 +560,7 @@ translate french replay_d17s08_1f519986:
 translate french replay_d17s08_315d7bee:
 
     # mc "Probably 30 minutes to an hour?"
-    mc "Probablement 30 minutes à une heure ?"
+    mc "Probablement 30 minutes à une heure?"
 
 # game/code/d17/d17s08.rpy:336
 translate french replay_d17s08_06cc84b6:
@@ -626,7 +626,7 @@ translate french replay_d17s08_d9d0b6cc:
 translate french replay_d17s08_0dbea11a:
 
     # sy "How was that?"
-    sy "Comment c'était ?"
+    sy "Comment c'était?"
 
 # game/code/d17/d17s08.rpy:402
 translate french replay_d17s08_dfe3b92b:
@@ -638,7 +638,7 @@ translate french replay_d17s08_dfe3b92b:
 translate french replay_d17s08_ece54638:
 
     # sy "Just my mouth?"
-    sy "Juste ma bouche ?"
+    sy "Juste ma bouche?"
 
 # game/code/d17/d17s08.rpy:408
 translate french replay_d17s08_d81ea2ae:
@@ -686,7 +686,7 @@ translate french replay_d17s08_76346d47:
 translate french replay_d17s08_33d2db8d:
 
     # mc "You want me to fuck your face?"
-    mc "Tu veux que je te baise le visage ?"
+    mc "Tu veux que je te baise le visage?"
 
 # game/code/d17/d17s08.rpy:424
 translate french replay_d17s08_b1d2190a:
@@ -740,7 +740,7 @@ translate french replay_d17s08_d64a2696:
 translate french replay_d17s08_8678e9c7:
 
     # mc "How did you get so good at that?"
-    mc "Comment es-tu devenu si bonne là dedans ?"
+    mc "Comment es-tu devenu si bonne là dedans?"
 
 # game/code/d17/d17s08.rpy:458
 translate french replay_d17s08_01f0c2ac:
@@ -752,7 +752,7 @@ translate french replay_d17s08_01f0c2ac:
 translate french replay_d17s08_0a7ca4c7:
 
     # mc "Research?"
-    mc "Recherche ?"
+    mc "Recherche?"
 
 # game/code/d17/d17s08.rpy:464
 translate french replay_d17s08_fd1425ca:
@@ -788,19 +788,19 @@ translate french replay_d17s08_40ba64dd:
 translate french replay_d17s08_386a2729:
 
     # sy "So, how's things?"
-    sy "Alors, comment ça va ?"
+    sy "Alors, comment ça va?"
 
 # game/code/d17/d17s08.rpy:485
 translate french replay_d17s08_7187a437:
 
     # mc "Um... good?"
-    mc "Euh... Ça va ?"
+    mc "Euh... Ça va?"
 
 # game/code/d17/d17s08.rpy:488
 translate french replay_d17s08_f10db3de:
 
     # sy "You own clothes, don't you?"
-    sy "Tu possèdes des vêtements, n'est-ce pas ?"
+    sy "Tu possèdes des vêtements, n'est-ce pas?"
 
 # game/code/d17/d17s08.rpy:491
 translate french replay_d17s08_fcaf3220:
@@ -824,7 +824,7 @@ translate french replay_d17s08_e46b7572:
 translate french replay_d17s08_9af6b524:
 
     # sy "Are you even allowed to wear clothing in this house?"
-    sy "Es-tu au moins autorisé à porter des vêtements dans cette maison ?"
+    sy "Es-tu au moins autorisé à porter des vêtements dans cette maison?"
 
 # game/code/d17/d17s08.rpy:503
 translate french replay_d17s08_2f5731d3:
@@ -848,19 +848,19 @@ translate french replay_d17s08_0acdabbb:
 translate french replay_d17s08_afad4af1:
 
     # mc "So, when did you modify your phone to download data on-?"
-    mc "Alors, quand as-tu modifié ton téléphone pour télécharger des données sur- ?"
+    mc "Alors, quand as-tu modifié ton téléphone pour télécharger des données sur-?"
 
 # game/code/d17/d17s08.rpy:514
 translate french replay_d17s08_a49d7f40:
 
     # sy "Finding Mira? Oh, earlier today."
-    sy "Tu trouves Mira ? Oh, plus tôt dans la journée."
+    sy "Tu trouves Mira? Oh, plus tôt dans la journée."
 
 # game/code/d17/d17s08.rpy:516
 translate french replay_d17s08_ccdf5709:
 
     # mc "Mira?"
-    mc "Mira ?"
+    mc "Mira?"
 
 # game/code/d17/d17s08.rpy:518
 translate french replay_d17s08_ac4ccd5d:
@@ -896,7 +896,7 @@ translate french replay_d17s08_be98a638:
 translate french replay_d17s08_d289b245:
 
     # mc "So, is there any progress on finding... Mira?"
-    mc "Alors, y a-t-il des progrès dans la recherche... de Mira ?"
+    mc "Alors, y a-t-il des progrès dans la recherche... de Mira?"
 
 # game/code/d17/d17s08.rpy:534
 translate french replay_d17s08_4bd7bded:
@@ -980,7 +980,7 @@ translate french replay_d17s08_61f2fd92:
 translate french replay_d17s08_64559936:
 
     # mc "Too much time studying for finals?"
-    mc "Tu passes trop de temps à étudier pour les examens ?"
+    mc "Tu passes trop de temps à étudier pour les examens?"
 
 # game/code/d17/d17s08.rpy:575
 translate french replay_d17s08_8e9ab5b6:
@@ -992,13 +992,13 @@ translate french replay_d17s08_8e9ab5b6:
 translate french replay_d17s08_bac69fdd:
 
     # lc "Did you hear-?"
-    lc "Tu as entendu... ?"
+    lc "Tu as entendu...?"
 
 # game/code/d17/d17s08.rpy:597
 translate french replay_d17s08_daeb626d:
 
     # lc "What was that for?"
-    lc "C'était pour quoi ?"
+    lc "C'était pour quoi?"
 
 # game/code/d17/d17s08.rpy:599
 translate french replay_d17s08_6195c941:
@@ -1016,7 +1016,7 @@ translate french replay_d17s08_e8044916:
 translate french replay_d17s08_43ddfa89:
 
     # mc "So, you were telling me about your neighbor?"
-    mc "Alors tu me parlais de ton voisin ?"
+    mc "Alors tu me parlais de ton voisin?"
 
 # game/code/d17/d17s08.rpy:608
 translate french replay_d17s08_9f4d732b:
@@ -1028,7 +1028,7 @@ translate french replay_d17s08_9f4d732b:
 translate french replay_d17s08_cc9c6425:
 
     # mc "Was I supposed to forget about it?"
-    mc "J'étais censé oublier ça ?"
+    mc "J'étais censé oublier ça?"
 
 # game/code/d17/d17s08.rpy:613
 translate french replay_d17s08_3cc7853c:
@@ -1046,7 +1046,7 @@ translate french replay_d17s08_3270b79d:
 translate french replay_d17s08_da60c4c6:
 
     # lc "Yeah?"
-    lc "Quoi ?"
+    lc "Quoi?"
 
 # game/code/d17/d17s08.rpy:620
 translate french replay_d17s08_7cad9df1:
@@ -1070,7 +1070,7 @@ translate french replay_d17s08_442b70ed:
 translate french replay_d17s08_6274a69b:
 
     # lc "Okay, okay! {w}I promise to make it up to you in the morning."
-    lc "D'accord, d'accord ! {w}Je promets de me rattraper demain matin."
+    lc "D'accord, d'accord! {w}Je promets de me rattraper demain matin."
 
 # game/code/d17/d17s08.rpy:631
 translate french replay_d17s08_5e2b3f7d:
@@ -1106,13 +1106,13 @@ translate french replay_d17s08_e18b2360:
 translate french replay_d17s08_05500ff6:
 
     # mc "Huh?"
-    mc "Hein ?"
+    mc "Hein?"
 
 # game/code/d17/d17s08.rpy:648
 translate french replay_d17s08_f53778bb:
 
     # lc "What did you say?"
-    lc "Qu'est-ce que tu as dit ?"
+    lc "Qu'est-ce que tu as dit?"
 
 # game/code/d17/d17s08.rpy:650
 translate french replay_d17s08_4ccba40f:
@@ -1142,7 +1142,7 @@ translate french replay_d17s08_3e257e18:
 translate french replay_d17s08_c17ef8ec:
 
     # mc "What's that?"
-    mc "Quoi donc ?"
+    mc "Quoi donc?"
 
 # game/code/d17/d17s08.rpy:662
 translate french replay_d17s08_78cf9394:

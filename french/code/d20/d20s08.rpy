@@ -8,7 +8,7 @@ translate french d20s08_b3e81c75:
 translate french d20s08_c4c28fdb:
 
     # mc "What question was that?"
-    mc "Quelle question ?"
+    mc "Quelle question?"
 
 # game/code/d20/d20s08.rpy:40
 translate french d20s08_87dff618:
@@ -20,7 +20,7 @@ translate french d20s08_87dff618:
 translate french d20s08_15543b99:
 
     # mc "Nope, not me. What's Stacy doing?"
-    mc "Non c'est pas moi. Que fait Stacy ?"
+    mc "Non c'est pas moi. Que fait Stacy?"
 
 # game/code/d20/d20s08.rpy:45
 translate french d20s08_e32434d9:
@@ -38,7 +38,7 @@ translate french d20s08_19503875:
 translate french d20s08_65a8942d:
 
     # mc "Good thinking. So, is anyone there?"
-    mc "Bonne réflexion. Alors, il y a quelqu'un ?"
+    mc "Bonne réflexion. Alors, il y a quelqu'un?"
 
 # game/code/d20/d20s08.rpy:52
 translate french d20s08_fcfa2a0c:
@@ -80,7 +80,7 @@ translate french d20s08_6031c609:
 translate french d20s08_4b9e804c:
 
     # arj "But two more hours?!"
-    arj "Mais encore deux heures ?!"
+    arj "Mais encore deux heures?!"
 
 # game/code/d20/d20s08.rpy:66
 translate french d20s08_b2fb2fd9:
@@ -98,7 +98,7 @@ translate french d20s08_62a634d0:
 translate french d20s08_56749ab7:
 
     # sy "Either that, or go find me a fuck ton of antennas so I can scan more than one point at a time!"
-    sy "Soit ça, soit va me trouver une putain de tonne d'antennes pour que je puisse scanner plus d'un point à la fois !"
+    sy "Soit ça, soit va me trouver une putain de tonne d'antennes pour que je puisse scanner plus d'un point à la fois!"
 
 # game/code/d20/d20s08.rpy:72
 translate french d20s08_abe36f75:
@@ -116,7 +116,7 @@ translate french d20s08_9ca60387:
 translate french d20s08_3b577ca0:
 
     # mc "W.T.F. girl?"
-    mc "W.T.F. ma fille ?"
+    mc "W.T.F. ma fille?"
 
 # game/code/d20/d20s08.rpy:78
 translate french d20s08_7e7637dc:
@@ -128,7 +128,7 @@ translate french d20s08_7e7637dc:
 translate french d20s08_1811aa38:
 
     # arj "Okay. We get that. So, Plan B?"
-    arj "D'accord. Nous comprenons ça. Alors, plan B ?"
+    arj "D'accord. Nous comprenons ça. Alors, plan B?"
 
 # game/code/d20/d20s08.rpy:82
 translate french d20s08_325305d4:
@@ -152,7 +152,7 @@ translate french d20s08_01d10b59:
 translate french d20s08_555e3ef4:
 
     # sy "Oh, B as in Brute force?"
-    sy "Oh, B comme dans Brute Force ?"
+    sy "Oh, B comme dans Brute Force?"
 
 # game/code/d20/d20s08.rpy:91
 translate french d20s08_48b1a42f:
@@ -176,7 +176,7 @@ translate french d20s08_6311216f:
 translate french d20s08_9a103691:
 
     # sy "Either of you want anything?"
-    sy "L'un de vous veut quelque chose ?"
+    sy "L'un de vous veut quelque chose?"
 
 # game/code/d20/d20s08.rpy:99
 translate french d20s08_443c3954:
@@ -230,7 +230,7 @@ translate french d20s08_mc_arj_10bf1c62:
 translate french d20s08_mc_arj_80b16c74:
 
     # mct "Wha?"
-    mct "Quoi ?"
+    mct "Quoi?"
 
 # game/code/d20/d20s08.rpy:129
 translate french d20s08_mc_arj_c71966eb:
@@ -272,7 +272,7 @@ translate french d20s08_mc_arj_34bae63f:
 translate french d20s08_mc_arj_d178a770:
 
     # mc "Uh huh. So, what are we really doing?"
-    mc "Euh, hein. Alors, qu'est-ce qu'on fait vraiment ?"
+    mc "Euh, hein. Alors, qu'est-ce qu'on fait vraiment?"
 
 # game/code/d20/d20s08.rpy:145
 translate french d20s08_mc_arj_256a3bf1:
@@ -284,7 +284,7 @@ translate french d20s08_mc_arj_256a3bf1:
 translate french d20s08_mc_arj_346682d4:
 
     # arj "We're going behind Stacy's back... what else could I have in mind?"
-    arj "On y va dans le dos de Stacy... qu'est-ce que je pourrais avoir d'autre en tête ?"
+    arj "On y va dans le dos de Stacy... qu'est-ce que je pourrais avoir d'autre en tête?"
 
 # game/code/d20/d20s08.rpy:149
 translate french d20s08_mc_arj_7c0dbed2:
@@ -296,7 +296,7 @@ translate french d20s08_mc_arj_7c0dbed2:
 translate french d20s08_mc_arj_007e04f0:
 
     # arj "Viola!"
-    arj "Viola !"
+    arj "Viola!"
 
 # game/code/d20/d20s08.rpy:154
 translate french d20s08_mc_arj_deebf87d:
@@ -314,7 +314,7 @@ translate french d20s08_mc_arj_44edcad4:
 translate french d20s08_mc_arj_e2ad2999:
 
     # mc "Even though it's not safe?"
-    mc "Même si ce n'est pas sûr ?"
+    mc "Même si ce n'est pas sûr?"
 
 # game/code/d20/d20s08.rpy:159
 translate french d20s08_mc_arj_99ebb93d:
@@ -338,19 +338,19 @@ translate french d20s08_mc_arj_3106a8a9:
 translate french d20s08_mc_arj_e087903f:
 
     # mc "So, what's stopping you?"
-    mc "Alors, qu'est-ce qui t'arrête ?"
+    mc "Alors, qu'est-ce qui t'arrête?"
 
 # game/code/d20/d20s08.rpy:166
 translate french d20s08_mc_arj_ed5cac84:
 
     # arj "What's with all the questions? Just open the door already."
-    arj "C'est quoi toutes ces questions ? Ouvre déjà la porte."
+    arj "C'est quoi toutes ces questions? Ouvre déjà la porte."
 
 # game/code/d20/d20s08.rpy:168
 translate french d20s08_mc_arj_a191ee20:
 
     # mc "Hana didn't give you the code?"
-    mc "Hana ne t'a pas donné le code ?"
+    mc "Hana ne t'a pas donné le code?"
 
 # game/code/d20/d20s08.rpy:170
 translate french d20s08_mc_arj_0e0b2fc7:
@@ -362,7 +362,7 @@ translate french d20s08_mc_arj_0e0b2fc7:
 translate french d20s08_mc_arj_b7f0cd64:
 
     # mc "And Stacy didn't tell you the code?"
-    mc "Et Stacy ne t'a pas dit le code ?"
+    mc "Et Stacy ne t'a pas dit le code?"
 
 # game/code/d20/d20s08.rpy:175
 translate french d20s08_mc_arj_518a1ac8:
@@ -374,7 +374,7 @@ translate french d20s08_mc_arj_518a1ac8:
 translate french d20s08_mc_arj_fe9b69f2:
 
     # mc "What's on there that you're so afraid of?"
-    mc "Qu'est-ce qu'il y a là-dedans dont tu as si peur ?"
+    mc "Qu'est-ce qu'il y a là-dedans dont tu as si peur?"
 
 # game/code/d20/d20s08.rpy:180
 translate french d20s08_mc_arj_065a46b1:
@@ -416,7 +416,7 @@ translate french d20s08_mc_arj_8a55921a:
 translate french d20s08_mc_arj_d732ac31:
 
     # arj "What do you want?"
-    arj "Qu'est-ce que tu veux ?"
+    arj "Qu'est-ce que tu veux?"
 
 # game/code/d20/d20s08.rpy:197
 translate french d20s08_mc_arj_f32ac7d7:
@@ -428,7 +428,7 @@ translate french d20s08_mc_arj_f32ac7d7:
 translate french d20s08_mc_arj_a5518da0:
 
     # mc "I have something you want. What are you willing to give for it?"
-    mc "J'ai quelque chose que tu veux. Qu'es-tu prêt à donner pour ça ?"
+    mc "J'ai quelque chose que tu veux. Qu'es-tu prêt à donner pour ça?"
 
 # game/code/d20/d20s08.rpy:200
 translate french d20s08_mc_arj_46748081:
@@ -464,7 +464,7 @@ translate french d20s08_mc_arj_4708eb9c:
 translate french d20s08_mc_arj_53314c55:
 
     # arj "Seriously, what do you want?"
-    arj "Sérieusement, qu'est-ce que tu veux ?"
+    arj "Sérieusement, qu'est-ce que tu veux?"
 
 # game/code/d20/d20s08.rpy:213
 translate french d20s08_mc_arj_13e1ca09:
@@ -476,13 +476,13 @@ translate french d20s08_mc_arj_13e1ca09:
 translate french d20s08_mc_arj_4cf59934:
 
     # arj "You're siding with her?! You want copies of everyone's blackmail just out there somewhere???"
-    arj "Tu es de son côté?! Tu veux des copies du chantage de tout le monde quelque part ???"
+    arj "Tu es de son côté?! Tu veux des copies du chantage de tout le monde quelque part???"
 
 # game/code/d20/d20s08.rpy:218
 translate french d20s08_mc_arj_150bdbc7:
 
     # arj "You're siding with her?! You want copies of everything anyone did just out there somewhere???"
-    arj "Tu es de son côté ?! Tu veux des copies de tout ce que quelqu'un a fait quelque part ???"
+    arj "Tu es de son côté?! Tu veux des copies de tout ce que quelqu'un a fait quelque part???"
 
 # game/code/d20/d20s08.rpy:220
 translate french d20s08_mc_arj_b572c3be:
@@ -524,7 +524,7 @@ translate french d20s08_mc_arj_95dd623e:
 translate french d20s08_mc_arj_d717c792:
 
     # mc "And you stay out here?"
-    mc "Et tu restes ici ?"
+    mc "Et tu restes ici?"
 
 # game/code/d20/d20s08.rpy:236
 translate french d20s08_mc_arj_f9d0537b:
@@ -542,7 +542,7 @@ translate french d20s08_mc_arj_67bccabd:
 translate french d20s08_mc_arj_d23e5400:
 
     # arj "So, you agree?"
-    arj "Alors tu es d'accord ?"
+    arj "Alors tu es d'accord?"
 
 # game/code/d20/d20s08.rpy:243
 translate french d20s08_mc_arj_49870eab:
@@ -578,7 +578,7 @@ translate french d20s08_mc_arj_8be3fd77:
 translate french d20s08_mc_arj_69c106ef:
 
     # arj "I just need to get in there before Stacy gets back!"
-    arj "Je dois juste y entrer avant que Stacy ne revienne !"
+    arj "Je dois juste y entrer avant que Stacy ne revienne!"
 
 # game/code/d20/d20s08.rpy:253
 translate french d20s08_mc_arj_8b10ba74:
@@ -590,7 +590,7 @@ translate french d20s08_mc_arj_8b10ba74:
 translate french d20s08_mc_arj_99c3c284:
 
     # arj "Really? You're into that?!"
-    arj "Vraiment? Ça t'intéresse ?!"
+    arj "Vraiment? Ça t'intéresse?!"
 
 # game/code/d20/d20s08.rpy:258
 translate french d20s08_mc_arj_6ebe037a:
@@ -602,7 +602,7 @@ translate french d20s08_mc_arj_6ebe037a:
 translate french d20s08_mc_arj_1837b2bb:
 
     # arj "Done. Agreed. Whatever. Just hurry up before she gets back!!!"
-    arj "C'est fait. D'accord. Peu importe. Dépêche-toi avant qu'elle ne revienne !!!"
+    arj "C'est fait. D'accord. Peu importe. Dépêche-toi avant qu'elle ne revienne!!!"
 
 # game/code/d20/d20s08.rpy:262
 translate french d20s08_mc_arj_6f2723db:
@@ -614,7 +614,7 @@ translate french d20s08_mc_arj_6f2723db:
 translate french d20s08_mc_arj_a7b19d3b:
 
     # arj "Anything else?"
-    arj "Autre chose ?"
+    arj "Autre chose?"
 
 # game/code/d20/d20s08.rpy:268
 translate french d20s08_mc_arj_2e43f49c:
@@ -638,7 +638,7 @@ translate french d20s08_mc_arj_6651ab87:
 translate french d20s08_jumped_46d15704:
 
     # arj "What was the code anyway?"
-    arj "C'était quoi le code au fait ?"
+    arj "C'était quoi le code au fait?"
 
 # game/code/d20/d20s08.rpy:289
 translate french d20s08_jumped_8008afe8:
@@ -650,19 +650,19 @@ translate french d20s08_jumped_8008afe8:
 translate french d20s08_jumped_0672618c:
 
     # js "Die, motherfucker!!"
-    js "Meurs, enfoiré !!"
+    js "Meurs, enfoiré!!"
 
 # game/code/d20/d20s08.rpy:301
 translate french d20s08_jumped_afc4f453:
 
     # arj "Oh, fuck!"
-    arj "Oh putain !"
+    arj "Oh putain!"
 
 # game/code/d20/d20s08.rpy:303
 translate french d20s08_jumped_114aff64:
 
     # mc "AmRose, Run!"
-    mc "AmRose, cours !"
+    mc "AmRose, cours!"
 
 # game/code/d20/d20s08.rpy:320
 translate french d20s08_jumped_f1b34c0b:
@@ -680,31 +680,31 @@ translate french d20s08_jumped_8dbea7a4:
 translate french d20s08_jumped_5f2d4b62:
 
     # pb "Yaahaahaaah!!!"
-    pb "Yaahaahaaah !!!"
+    pb "Yaahaahaaah!!!"
 
 # game/code/d20/d20s08.rpy:345
 translate french d20s08_jumped_67615b61:
 
     # mc "Go AmRose!{w} Hit this fucker next!!"
-    mc "Vas-y AmRose!{w} Frappe ce connard ensuite !!"
+    mc "Vas-y AmRose!{w} Frappe ce connard ensuite!!"
 
 # game/code/d20/d20s08.rpy:347
 translate french d20s08_jumped_b4f3a8f9:
 
     # arj "It was single use only!"
-    arj "C'était à usage unique !"
+    arj "C'était à usage unique!"
 
 # game/code/d20/d20s08.rpy:351
 translate french d20s08_jumped_a7f7c2f5:
 
     # mct "Fuck! I missed!"
-    mct "Putain ! J'ai raté!"
+    mct "Putain! J'ai raté!"
 
 # game/code/d20/d20s08.rpy:359
 translate french d20s08_jumped_be6cfd97:
 
     # js "What did five fingers say to the face!"
-    js "Qu'est-ce que cinq doigts ont dit au visage !"
+    js "Qu'est-ce que cinq doigts ont dit au visage!"
 
 # game/code/d20/d20s08.rpy:361
 translate french d20s08_jumped_ca3ea80d:
@@ -716,19 +716,19 @@ translate french d20s08_jumped_ca3ea80d:
 translate french d20s08_jumped_33030db4:
 
     # js "You sucker punched me this morning, bitch!"
-    js "Tu m'as frappé ce matin, salope !"
+    js "Tu m'as frappé ce matin, salope!"
 
 # game/code/d20/d20s08.rpy:366
 translate french d20s08_jumped_e2ea12b1:
 
     # mc "You had me strapped to a chair!"
-    mc "Tu m'as attaché à une chaise !"
+    mc "Tu m'as attaché à une chaise!"
 
 # game/code/d20/d20s08.rpy:371
 translate french d20s08_jumped_727ff46a:
 
     # js "You should still be there!"
-    js "Tu devrais toujours y être !"
+    js "Tu devrais toujours y être!"
 
 # game/code/d20/d20s08.rpy:373
 translate french d20s08_jumped_628ba702:
@@ -740,7 +740,7 @@ translate french d20s08_jumped_628ba702:
 translate french d20s08_jumped_eebe21ea:
 
     # mc "When the hell did you get so good at this?"
-    mc "Quand diable es-tu devenu si bon dans ce domaine ?"
+    mc "Quand diable es-tu devenu si bon dans ce domaine?"
 
 # game/code/d20/d20s08.rpy:379
 translate french d20s08_jumped_937ff1cd:
@@ -770,13 +770,13 @@ translate french d20s08_jumped_50ea7555:
 translate french d20s08_jumped_e70e550b:
 
     # mc "When you tried to rape Lydia?!"
-    mc "Quand tu as essayé de violer Lydia ?!"
+    mc "Quand tu as essayé de violer Lydia?!"
 
 # game/code/d20/d20s08.rpy:389
 translate french d20s08_jumped_fe9a8a2a:
 
     # js "She deserved it!"
-    js "Elle le méritait !"
+    js "Elle le méritait!"
 
 # game/code/d20/d20s08.rpy:405
 translate french d20s08_jumped_f9c0f835:
@@ -788,7 +788,7 @@ translate french d20s08_jumped_f9c0f835:
 translate french d20s08_jumped_232b0fd6:
 
     # js "Yeah?! Go ahead, big man. Hit me with your best shot."
-    js "Ouais ?! Vas-y, mon grand. Frappe-moi avec ton meilleur coup."
+    js "Ouais?! Vas-y, mon grand. Frappe-moi avec ton meilleur coup."
 
 # game/code/d20/d20s08.rpy:408
 translate french d20s08_jumped_91530f15:
@@ -806,7 +806,7 @@ translate french d20s08_jumped_7773e91c:
 translate french d20s08_jumped_f4632d48:
 
     # mc "Just{w} fucking{w} die{w} already!"
-    mc "Je viens de{w} putain{w} mourir{w} déjà !"
+    mc "Je viens de{w} putain{w} mourir{w} déjà!"
 
 # game/code/d20/d20s08.rpy:430
 translate french d20s08_jumped_91b8981a:
@@ -836,7 +836,7 @@ translate french d20s08_server_113d8eb2:
 translate french d20s08_server_4fde0944:
 
     # sy "What the fuck?!"
-    sy "C'est quoi ce bordel ?!"
+    sy "C'est quoi ce bordel?!"
 
 # game/code/d20/d20s08.rpy:454
 translate french d20s08_server_61bf1a88:
@@ -854,7 +854,7 @@ translate french d20s08_server_7c20cc55:
 translate french d20s08_server_018e5ff5:
 
     # sy "Fuck that. Should I call the police?"
-    sy "Merde. Dois-je appeler la police ?"
+    sy "Merde. Dois-je appeler la police?"
 
 # game/code/d20/d20s08.rpy:461
 translate french d20s08_server_70e7de7c:
@@ -872,7 +872,7 @@ translate french d20s08_server_be39b315:
 translate french d20s08_server_7f1ac111:
 
     # mc "AmRose - shouldn't you be sucking my dick right now?"
-    mc "AmRose, tu ne devrais pas me sucer la bite en ce moment ?"
+    mc "AmRose, tu ne devrais pas me sucer la bite en ce moment?"
 
 # game/code/d20/d20s08.rpy:473
 translate french d20s08_server_d1e19447:
@@ -884,7 +884,7 @@ translate french d20s08_server_d1e19447:
 translate french d20s08_server_3d75f043:
 
     # sy "What are you two talking about?"
-    sy "De quoi parlez-vous tous les deux ?"
+    sy "De quoi parlez-vous tous les deux?"
 
 # game/code/d20/d20s08.rpy:478
 translate french d20s08_server_8a552a87:
@@ -896,7 +896,7 @@ translate french d20s08_server_8a552a87:
 translate french d20s08_server_cf8b5861:
 
     # sy "Okay. [mcname] would you mind getting out of my chair?"
-    sy "D'accord. [mcname], ça te dérangerait de sortir de ma chaise ?"
+    sy "D'accord. [mcname], ça te dérangerait de sortir de ma chaise?"
 
 # game/code/d20/d20s08.rpy:484
 translate french d20s08_server_7625bbb7:
@@ -914,7 +914,7 @@ translate french d20s08_server_c7adb7ba:
 translate french d20s08_server_8ebaf9d8:
 
     # sy "Oh! It's easy."
-    sy "Oh ! C'est facile."
+    sy "Oh! C'est facile."
 
 # game/code/d20/d20s08.rpy:490
 translate french d20s08_server_398469b7:
@@ -944,7 +944,7 @@ translate french d20s08_server_3eb224ae:
 translate french d20s08_server_3fce756f:
 
     # arj "Even mine?"
-    arj "Même le mien ?"
+    arj "Même le mien?"
 
 # game/code/d20/d20s08.rpy:503
 translate french d20s08_server_0d525817:
@@ -956,7 +956,7 @@ translate french d20s08_server_0d525817:
 translate french d20s08_server_3199fd88:
 
     # mc "What about mine?"
-    mc "Et le mien ?"
+    mc "Et le mien?"
 
 # game/code/d20/d20s08.rpy:507
 translate french d20s08_server_80782097:
@@ -1028,7 +1028,7 @@ translate french d20s08_server_16c4a301:
 translate french d20s08_server_4b2206cf:
 
     # arj "What about backups? Or anything the police already copied?"
-    arj "Et les sauvegardes? Ou quelque chose que la police a déjà copié ?"
+    arj "Et les sauvegardes? Ou quelque chose que la police a déjà copié?"
 
 # game/code/d20/d20s08.rpy:533
 translate french d20s08_server_91964404:
@@ -1076,7 +1076,7 @@ translate french d20s08_server_4016fc00:
 translate french d20s08_server_1b733e16:
 
     # mc "Not cool!"
-    mc "Pas cool !"
+    mc "Pas cool!"
 
 # game/code/d20/d20s08.rpy:554
 translate french d20s08_server_6ab1f4b5:
@@ -1094,13 +1094,13 @@ translate french d20s08_server_7c352e2c:
 translate french d20s08_server_6ede2012:
 
     # sy "May I back-up the other files to an external drive before deleting everything?"
-    sy "Puis-je sauvegarder les autres fichiers sur un disque externe avant de tout supprimer ?"
+    sy "Puis-je sauvegarder les autres fichiers sur un disque externe avant de tout supprimer?"
 
 # game/code/d20/d20s08.rpy:559
 translate french d20s08_server_827ff077:
 
     # sy "Or am I just deleting everything?"
-    sy "Ou je supprime tout simplement ?"
+    sy "Ou je supprime tout simplement?"
 
 # game/code/d20/d20s08.rpy:562
 translate french d20s08_server_e5d22710:
@@ -1160,7 +1160,7 @@ translate french d20s08_server_b2e2c0dd:
 translate french d20s08_server_731cab7e:
 
     # sy "Before I do this... can I show you something?"
-    sy "Avant de faire ça... je peux te montrer quelque chose ?"
+    sy "Avant de faire ça... je peux te montrer quelque chose?"
 
 # game/code/d20/d20s08.rpy:592
 translate french d20s08_server_bc8b2f36:
@@ -1178,7 +1178,7 @@ translate french d20s08_server_f852bda8:
 translate french d20s08_server_def0ad19:
 
     # mc "What is it?"
-    mc "Qu'est-ce qu'il y a ?"
+    mc "Qu'est-ce qu'il y a?"
 
 # game/code/d20/d20s08.rpy:599
 translate french d20s08_server_7dd11821:
@@ -1190,7 +1190,7 @@ translate french d20s08_server_7dd11821:
 translate french d20s08_server_a8c0c7eb:
 
     # sy "You know that bartender? Iona?"
-    sy "Tu connais ce barman ? Iona ?"
+    sy "Tu connais ce barman? Iona?"
 
 # game/code/d20/d20s08.rpy:601
 translate french d20s08_server_95d7c88e:
@@ -1202,19 +1202,19 @@ translate french d20s08_server_95d7c88e:
 translate french d20s08_server_9d8f1889:
 
     # arj "Seriously?"
-    arj "Sérieusement ?"
+    arj "Sérieusement?"
 
 # game/code/d20/d20s08.rpy:607
 translate french d20s08_server_4f22d9d9:
 
     # sy "It's in the standard files - not the blackmail. Are you telling me you don't want to see it?"
-    sy "C'est dans les fichiers standards - pas le chantage. Tu me dis que tu ne veux pas le voir ?"
+    sy "C'est dans les fichiers standards - pas le chantage. Tu me dis que tu ne veux pas le voir?"
 
 # game/code/d20/d20s08.rpy:609
 translate french d20s08_server_2948461b:
 
     # sy "Are you telling me you don't want a peek at that?"
-    sy "Tu es en train de me dire que tu ne veux pas jeter un coup d'oeil à ça ?"
+    sy "Tu es en train de me dire que tu ne veux pas jeter un coup d'oeil à ça?"
 
 # game/code/d20/d20s08.rpy:611
 translate french d20s08_server_4596aa34:
@@ -1226,7 +1226,7 @@ translate french d20s08_server_4596aa34:
 translate french d20s08_server_526b6fdf:
 
     # sy "See? [mcname], what do you think?"
-    sy "Tu vois ? [mcname], qu'en penses-tu ?"
+    sy "Tu vois? [mcname], qu'en penses-tu?"
 
 # game/code/d20/d20s08.rpy:619
 translate french d20s08_server_8bc9cabf:
@@ -1250,7 +1250,7 @@ translate french d20s08_ir_video_ba403123:
 translate french d20s08_ir_video_6778eefd:
 
     # sy "Are you sure?"
-    sy "Tu es sûr ?"
+    sy "Tu es sûr?"
 
 # game/code/d20/d20s08.rpy:656
 translate french d20s08_ir_video_c951392b:
@@ -1280,7 +1280,7 @@ translate french d20s08_end_5616b712:
 translate french d20s08_end_4594637c:
 
     # mc "Alright, Stacy. Is your copy finished?"
-    mc "Très bien, Stacy. Ta copie est terminée ?"
+    mc "Très bien, Stacy. Ta copie est terminée?"
 
 # game/code/d20/d20s08.rpy:673
 translate french d20s08_end_4277f12b:
@@ -1316,7 +1316,7 @@ translate french d20s08_end_269f47b0:
 translate french d20s08_end_67dca890:
 
     # sy "Are you sure we want to do this?"
-    sy "Tu es sûr qu'on veut faire ça ?"
+    sy "Tu es sûr qu'on veut faire ça?"
 
 # game/code/d20/d20s08.rpy:684
 translate french d20s08_end_c268d141:
@@ -1346,7 +1346,7 @@ translate french d20s08_end_18a1a642:
 translate french d20s08_end_05500ff6:
 
     # mc "Huh?"
-    mc "Hein ?"
+    mc "Hein?"
 
 # game/code/d20/d20s08.rpy:696
 translate french d20s08_end_1cb8a3a2:
@@ -1364,7 +1364,7 @@ translate french d20s08_end_7b471f6f:
 translate french d20s08_end_73103e03:
 
     # arj "How long will this take?"
-    arj "Combien de temps ça va prendre ?"
+    arj "Combien de temps ça va prendre?"
 
 # game/code/d20/d20s08.rpy:702
 translate french d20s08_end_d945b122:
@@ -1376,13 +1376,13 @@ translate french d20s08_end_d945b122:
 translate french d20s08_end_3bcf9a38:
 
     # mc "*sigh* Really?"
-    mc "*soupir* Vraiment ?"
+    mc "*soupir* Vraiment?"
 
 # game/code/d20/d20s08.rpy:705
 translate french d20s08_end_06c1f73f:
 
     # sy "Did I say hours? I meant minutes."
-    sy "J'ai dit des heures ? Je voulais dire des minutes."
+    sy "J'ai dit des heures? Je voulais dire des minutes."
 
 # game/code/d20/d20s08.rpy:708
 translate french d20s08_end_7ba72145:
@@ -1442,7 +1442,7 @@ translate french d20s08_end_54531bfa:
 translate french d20s08_end_a1fc69e1:
 
     # mc "How are we like those spider guys? Do you expect us to break our backs falling from dangerous heights on-stage?"
-    mc "En quoi sommes-nous comme ces gars-araignées ? Vous attendez-vous à ce que nous nous cassions le dos en tombant de hauteurs dangereuses ?"
+    mc "En quoi sommes-nous comme ces gars-araignées? Vous attendez-vous à ce que nous nous cassions le dos en tombant de hauteurs dangereuses?"
 
 # game/code/d20/d20s08.rpy:732
 translate french d20s08_end_0a0ddac3:
@@ -1466,25 +1466,25 @@ translate french d20s08_end_1e5254f8:
 translate french d20s08_end_65e8e6c8:
 
     # sy "It's done!"
-    sy "C'est fait !"
+    sy "C'est fait!"
 
 # game/code/d20/d20s08.rpy:742
 translate french d20s08_end_7a294e88:
 
     # arj "Sent the report!"
-    arj "J'ai envoyé le rapport !"
+    arj "J'ai envoyé le rapport!"
 
 # game/code/d20/d20s08.rpy:744
 translate french d20s08_end_ddb38190:
 
     # mc "That means the cops are coming, right?"
-    mc "Ça veut dire que les flics arrivent, non ?"
+    mc "Ça veut dire que les flics arrivent, non?"
 
 # game/code/d20/d20s08.rpy:746
 translate french d20s08_end_ea2f7d71:
 
     # arj "Fuck! Run!!!"
-    arj "Putain ! On dégage !!!"
+    arj "Putain! On dégage!!!"
 
 translate french strings:
 
@@ -1503,3 +1503,4 @@ translate french strings:
     # game/code/d20/d20s08.rpy:615
     old "No, I don't want to see that."
     new "Non, je ne veux pas voir ça."
+

@@ -68,7 +68,7 @@ translate french d21s01_4dddd7ca:
 translate french d21s01_91234c53:
 
     # mc "Is this when you usually get up?"
-    mc "C'est à ce moment-là que tu te lèves habituellement ?"
+    mc "C'est à ce moment-là que tu te lèves habituellement?"
 
 # game/code/d21/d21s01.rpy:124
 translate french d21s01_5fd69dce:
@@ -104,7 +104,7 @@ translate french d21s01_244baee1:
 translate french d21s01_84451cdc:
 
     # hr "What do you do?"
-    hr "Qu'est-ce que tu fais ?"
+    hr "Qu'est-ce que tu fais?"
 
 # game/code/d21/d21s01.rpy:161
 translate french d21s01_722ff071:
@@ -134,13 +134,13 @@ translate french d21s01_6ddddd1f:
 translate french d21s01_21434510:
 
     # mc "Did you tell Iona?"
-    mc "Tu l'as dit à Iona ?"
+    mc "Tu l'as dit à Iona?"
 
 # game/code/d21/d21s01.rpy:172
 translate french d21s01_315faff7:
 
     # hr "Tell her what?"
-    hr "Lui dire quoi ?"
+    hr "Lui dire quoi?"
 
 # game/code/d21/d21s01.rpy:175
 translate french d21s01_b6818d71:
@@ -158,19 +158,19 @@ translate french d21s01_e010194f:
 translate french d21s01_72f1f557:
 
     # hr "Hey, do you think if I stuff a bag with whiskey, anyone would recognize it? I guess the glass clinking would give it away."
-    hr "Hé, tu crois que si je remplis un sac de whisky, n'importe qui le reconnaîtrait ? Je suppose que le tintement du verre le trahirait."
+    hr "Hé, tu crois que si je remplis un sac de whisky, n'importe qui le reconnaîtrait? Je suppose que le tintement du verre le trahirait."
 
 # game/code/d21/d21s01.rpy:182
 translate french d21s01_6d7a16a0:
 
     # mc "Are you guys really that close?"
-    mc "Vous êtes vraiment si proches ?"
+    mc "Vous êtes vraiment si proches?"
 
 # game/code/d21/d21s01.rpy:185
 translate french d21s01_55a06a0d:
 
     # hr "Take a guess. Are you really that close to Pete?"
-    hr "Devine. Tu es vraiment si proche de Pete ?"
+    hr "Devine. Tu es vraiment si proche de Pete?"
 
 # game/code/d21/d21s01.rpy:189
 translate french d21s01_422c4f43:
@@ -188,7 +188,7 @@ translate french d21s01_7f08e5f1:
 translate french d21s01_2c078b4e:
 
     # hr "What do you get someone that really knows her drinks? Maybe I'll get her some sparkling wine instead..."
-    hr "Qu'est-ce qu'on offre à quelqu'un qui connaît vraiment ses boissons ? Peut-être que je vais lui offrir du vin mousseux à la place..."
+    hr "Qu'est-ce qu'on offre à quelqu'un qui connaît vraiment ses boissons? Peut-être que je vais lui offrir du vin mousseux à la place..."
 
 # game/code/d21/d21s01.rpy:199
 translate french d21s01_d5e797f7:
@@ -200,7 +200,7 @@ translate french d21s01_d5e797f7:
 translate french d21s01_a6c2b9f7:
 
     # mc "You miss her? It's only been what, a day?"
-    mc "Elle te manque ? Ça ne fait que quoi, un jour ?"
+    mc "Elle te manque? Ça ne fait que quoi, un jour?"
 
 # game/code/d21/d21s01.rpy:203
 translate french d21s01_04f7eab7:
@@ -212,13 +212,13 @@ translate french d21s01_04f7eab7:
 translate french d21s01_229f11cf:
 
     # mc "Does she even know who Jerome is?"
-    mc "Est-ce qu'elle sait au moins qui est Jérôme ?"
+    mc "Est-ce qu'elle sait au moins qui est Jérôme?"
 
 # game/code/d21/d21s01.rpy:209
 translate french d21s01_fdd13a3e:
 
     # hr "Do you?"
-    hr "Et toi ?"
+    hr "Et toi?"
 
 # game/code/d21/d21s01.rpy:212
 translate french d21s01_988b709b:
@@ -284,7 +284,7 @@ translate french d21s01_d43d4dcf:
 translate french d21s01_cf030795:
 
     # mc "Mush?"
-    mc "Musher ?"
+    mc "Musher?"
 
 # game/code/d21/d21s01.rpy:245
 translate french d21s01_68fef9db:
@@ -302,7 +302,7 @@ translate french d21s01_877a78be:
 translate french d21s01_57db6b56:
 
     # hr "What happened to Pete?"
-    hr "Qu'est-il arrivé à Pete ?"
+    hr "Qu'est-il arrivé à Pete?"
 
 # game/code/d21/d21s01.rpy:257
 translate french d21s01_e1de4829:
@@ -356,13 +356,13 @@ translate french d21s01_8a3a155d:
 translate french d21s01_096c6b6b:
 
     # mc "Anyway.{w}.. why don't you call her?"
-    mc "Bref.{w}.. Pourquoi tu ne l'appelles pas ?"
+    mc "Bref.{w}.. Pourquoi tu ne l'appelles pas?"
 
 # game/code/d21/d21s01.rpy:286
 translate french d21s01_3e2c315e:
 
     # hr "Call who?"
-    hr "Appeller qui ?"
+    hr "Appeller qui?"
 
 # game/code/d21/d21s01.rpy:289
 translate french d21s01_9a6462db:
@@ -404,7 +404,7 @@ translate french d21s01_3c1180a8:
 translate french d21s01_ae9fb21f:
 
     # mc "Come on, what do you take me as, some kind of person who would jump at the opportunity of having sex?"
-    mc "Allez, tu me prends pour qui, une sorte de personne qui sauterait sur n'importe quel occasion de faire l'amour ?"
+    mc "Allez, tu me prends pour qui, une sorte de personne qui sauterait sur n'importe quel occasion de faire l'amour?"
 
 # game/code/d21/d21s01.rpy:306
 translate french d21s01_08c6e20a:
@@ -416,13 +416,13 @@ translate french d21s01_08c6e20a:
 translate french d21s01_90a09b9b:
 
     # mc "I was psyching myself up a little bit with some music. Thinking about what I'll say to Lydia. I mean, what possibly can she say? There's nothing."
-    mc "Je me préparais un peu avec de la musique. Je pense à ce que je vais dire à Lydia. Je veux dire, que peut-elle dire ? Il n'y a rien."
+    mc "Je me préparais un peu avec de la musique. Je pense à ce que je vais dire à Lydia. Je veux dire, que peut-elle dire? Il n'y a rien."
 
 # game/code/d21/d21s01.rpy:312
 translate french d21s01_3143cb06:
 
     # hr "Nothing?"
-    hr "Rien ?"
+    hr "Rien?"
 
 # game/code/d21/d21s01.rpy:315
 translate french d21s01_6edc0e6e:
@@ -482,7 +482,7 @@ translate french d21s01_5e7b1e02:
 translate french d21s01_76202ad3:
 
     # mc "Did you come to the dorm {i}just{/i} to pick up the mic?"
-    mc "Tu es venu au dortoir {i}juste{/i} pour prendre le micro ?"
+    mc "Tu es venu au dortoir {i}juste{/i} pour prendre le micro?"
 
 # game/code/d21/d21s01.rpy:352
 translate french d21s01_107cc1fe:
@@ -506,13 +506,13 @@ translate french d21s01_09706997:
 translate french d21s01_27ddac29:
 
     # mc "So why are you really here?"
-    mc "Alors pourquoi es-tu vraiment là ?"
+    mc "Alors pourquoi es-tu vraiment là?"
 
 # game/code/d21/d21s01.rpy:362
 translate french d21s01_7296b833:
 
     # mc "Were you secretly hoping I was still in here?"
-    mc "Espérais-tu secrètement que je sois toujours là ?"
+    mc "Espérais-tu secrètement que je sois toujours là?"
 
 # game/code/d21/d21s01.rpy:365
 translate french d21s01_9fa19e88:
@@ -536,7 +536,7 @@ translate french d21s01_67cbbc31:
 translate french d21s01_8187cb7a:
 
     # mc "So that's it?"
-    mc "Alors c'est tout ?"
+    mc "Alors c'est tout?"
 
 # game/code/d21/d21s01.rpy:371
 translate french d21s01_892d9132:
@@ -548,7 +548,7 @@ translate french d21s01_892d9132:
 translate french d21s01_cad63284:
 
     # hr "Aw, you look so sad. Was I leading you on?"
-    hr "Oh, tu as l'air si triste. Est-ce que je t'ai déçue ?"
+    hr "Oh, tu as l'air si triste. Est-ce que je t'ai déçue?"
 
 # game/code/d21/d21s01.rpy:376
 translate french d21s01_c99f1a03:
@@ -566,7 +566,7 @@ translate french d21s01_95e47bf1:
 translate french d21s01_7f82932b:
 
     # mc "So what, you ride off into the sunset with Iona?"
-    mc "Et alors, tu pars au coucher du soleil avec Iona ?"
+    mc "Et alors, tu pars au coucher du soleil avec Iona?"
 
 # game/code/d21/d21s01.rpy:382
 translate french d21s01_c68c82f6:
@@ -578,13 +578,13 @@ translate french d21s01_c68c82f6:
 translate french d21s01_3191ba7b:
 
     # mc "Would we ever see each other again?"
-    mc "On se reverra un jour ?"
+    mc "On se reverra un jour?"
 
 # game/code/d21/d21s01.rpy:387
 translate french d21s01_bea1b512:
 
     # hr "Do you want to?"
-    hr "Tu voudrais ?"
+    hr "Tu voudrais?"
 
 # game/code/d21/d21s01.rpy:390
 translate french d21s01_2f03b6fe:
@@ -602,7 +602,7 @@ translate french d21s01_91806e04:
 translate french d21s01_9cc57bf3:
 
     # hr "Was that all?"
-    hr "C'était tout ?"
+    hr "C'était tout?"
 
 # game/code/d21/d21s01.rpy:401
 translate french d21s01_a8cbddf2:
@@ -638,7 +638,7 @@ translate french d21s01_bf8212fc:
 translate french d21s01_f54372b2:
 
     # hr "Oh, really?"
-    hr "Oh, vraiment ?"
+    hr "Oh, vraiment?"
 
 # game/code/d21/d21s01.rpy:418
 translate french d21s01_caf908ab:
@@ -662,7 +662,7 @@ translate french d21s01_24903ba6:
 translate french d21s01_6920c952:
 
     # mc "You don't want to?"
-    mc "Tu ne veux pas ?"
+    mc "Tu ne veux pas?"
 
 # game/code/d21/d21s01.rpy:430
 translate french d21s01_f5543d10:
@@ -686,7 +686,7 @@ translate french d21s01_7b659423:
 translate french d21s01_d070eade:
 
     # mc "You don't want to suck some dick from time to time?"
-    mc "Tu ne veux pas sucer des bites de temps en temps ?"
+    mc "Tu ne veux pas sucer des bites de temps en temps?"
 
 # game/code/d21/d21s01.rpy:438
 translate french d21s01_73b09465:
@@ -704,7 +704,7 @@ translate french d21s01_85f078c5:
 translate french d21s01_a09b11a5:
 
     # mc "No sex?"
-    mc "Pas de sexe ?"
+    mc "Pas de sexe?"
 
 # game/code/d21/d21s01.rpy:445
 translate french d21s01_67114929:
@@ -722,19 +722,19 @@ translate french d21s01_bj_eb2148af:
 translate french d21s01_bj_177d024f:
 
     # hr "Do it? No foreplay? No calling me daddy?"
-    hr "On le fait? Pas de préliminaires? Je t'appelles pas papa ?"
+    hr "On le fait? Pas de préliminaires? Je t'appelles pas papa?"
 
 # game/code/d21/d21s01.rpy:467
 translate french d21s01_bj_3c140d5c:
 
     # mc "Do you want that?"
-    mc "Tu veux ça ?"
+    mc "Tu veux ça?"
 
 # game/code/d21/d21s01.rpy:470
 translate french d21s01_bj_d0bc1e60:
 
     # hr "...{w}do you want it?"
-    hr "...{w}tu le veux ?"
+    hr "...{w}tu le veux?"
 
 # game/code/d21/d21s01.rpy:475
 translate french d21s01_bj_d92439d9:
@@ -782,7 +782,7 @@ translate french d21s01_bj_3d996037:
 translate french d21s01_bj_32e62eb3:
 
     # hr "Did you take that women's studies course?"
-    hr "Tu as suivi ce cours d'études sur les femmes ?"
+    hr "Tu as suivi ce cours d'études sur les femmes?"
 
 # game/code/d21/d21s01.rpy:493
 translate french d21s01_bj_d9af6597:
@@ -836,7 +836,7 @@ translate french d21s01_bj_7839eb81:
 translate french d21s01_bj_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "Qu'est-ce que tu veux dire ?"
+    mc "Qu'est-ce que tu veux dire?"
 
 # game/code/d21/d21s01.rpy:521
 translate french d21s01_bj_e99a1e64:
@@ -878,13 +878,13 @@ translate french d21s01_bj_3fe738bd:
 translate french d21s01_bj_db8a1120:
 
     # hr "Guh?!?"
-    hr "Guh ?!?"
+    hr "Guh?!?"
 
 # game/code/d21/d21s01.rpy:535
 translate french d21s01_bj_67a83c75:
 
     # mc "What's wrong? You don't want to have a relationship with me right?"
-    mc "Qu'est-ce qui ne va pas? Tu ne veux pas avoir de relation avec moi, n'est-ce pas ?"
+    mc "Qu'est-ce qui ne va pas? Tu ne veux pas avoir de relation avec moi, n'est-ce pas?"
 
 # game/code/d21/d21s01.rpy:536
 translate french d21s01_bj_1c2913ce:
@@ -908,7 +908,7 @@ translate french d21s01_bj_d3ee3f3e:
 translate french d21s01_bj_94d8acd1:
 
     # hr "Who'd want to suck on that thing?"
-    hr "Qui voudrait sucer ce truc ?"
+    hr "Qui voudrait sucer ce truc?"
 
 # game/code/d21/d21s01.rpy:546
 translate french d21s01_bj_3e7b94f8:
@@ -926,7 +926,7 @@ translate french d21s01_bj_d4544fb1:
 translate french d21s01_bj_c55cffed:
 
     # mc "Am I wrong about you wanting it?"
-    mc "Je me trompe, tu la veux ?"
+    mc "Je me trompe, tu la veux?"
 
 # game/code/d21/d21s01.rpy:558
 translate french d21s01_bj_904b0856:
@@ -950,7 +950,7 @@ translate french d21s01_bj_187d4e92:
 translate french d21s01_bj_c5be0fe8:
 
     # mc "You're just a little teeny slut, aren't you?"
-    mc "Tu n'es qu'une petite salope, n'est-ce pas ?"
+    mc "Tu n'es qu'une petite salope, n'est-ce pas?"
 
 # game/code/d21/d21s01.rpy:570
 translate french d21s01_bj_210fa6f6:
@@ -962,7 +962,7 @@ translate french d21s01_bj_210fa6f6:
 translate french d21s01_bj_b0a4c331:
 
     # hr "Why don't you make me?"
-    hr "Pourquoi tu ne m'y obliges pas ?"
+    hr "Pourquoi tu ne m'y obliges pas?"
 
 # game/code/d21/d21s01.rpy:576
 translate french d21s01_bj_9585e0b2:
@@ -998,7 +998,7 @@ translate french d21s01_bj_cff10f79:
 translate french d21s01_bj_e89a01fc:
 
     # hr "Harder, stop being such a limp dick pussy and slap me harder. What, you're not man enough?"
-    hr "Plus fort, arrête d'être une chatte si molle et gifle-moi plus fort. Quoi, tu n'es pas assez un homme ?"
+    hr "Plus fort, arrête d'être une chatte si molle et gifle-moi plus fort. Quoi, tu n'es pas assez un homme?"
 
 # game/code/d21/d21s01.rpy:606
 translate french d21s01_bj_8695592e:
@@ -1010,13 +1010,13 @@ translate french d21s01_bj_8695592e:
 translate french d21s01_bj_f3429eee:
 
     # hr "Afraid I'd turn into another Lydia?"
-    hr "Tu as peur de me transformer en une autre Lydia ?"
+    hr "Tu as peur de me transformer en une autre Lydia?"
 
 # game/code/d21/d21s01.rpy:611
 translate french d21s01_bj_8970543a:
 
     # hr "That's the only reason you got any pussy anyway. So why are you so angry at her? I'd thank her for turning you into a man."
-    hr "C'est la seule raison pour laquelle tu as une chatte de toute façon. Alors pourquoi es-tu si en colère contre elle ? Je la remercierais de t'avoir transformé en homme."
+    hr "C'est la seule raison pour laquelle tu as une chatte de toute façon. Alors pourquoi es-tu si en colère contre elle? Je la remercierais de t'avoir transformé en homme."
 
 # game/code/d21/d21s01.rpy:625
 translate french d21s01_bj_129ae31b:
@@ -1034,7 +1034,7 @@ translate french d21s01_bj_6f2b0d97:
 translate french d21s01_bj_60f4795f:
 
     # mc "Have you been a bad girl?"
-    mc "Tu as été une mauvaise fille ?"
+    mc "Tu as été une mauvaise fille?"
 
 # game/code/d21/d21s01.rpy:632
 translate french d21s01_bj_152bfbe5:
@@ -1094,7 +1094,7 @@ translate french d21s01_bj_24754fb9:
 translate french d21s01_bj_845c4c57:
 
     # mc "What was that?"
-    mc "C'était quoi ça ?"
+    mc "C'était quoi ça?"
 
 # game/code/d21/d21s01.rpy:688
 translate french d21s01_bj_7ed23f8a:
@@ -1118,7 +1118,7 @@ translate french d21s01_bj_7e71aed0:
 translate french d21s01_bj_dfeb7569:
 
     # mc "What, you can't breathe?"
-    mc "Quoi, tu ne peux pas respirer ?"
+    mc "Quoi, tu ne peux pas respirer?"
 
 # game/code/d21/d21s01.rpy:761
 translate french d21s01_bj_8ea8187c:
@@ -1130,7 +1130,7 @@ translate french d21s01_bj_8ea8187c:
 translate french d21s01_bj_ad1ee1ac:
 
     # mc "Amazing?"
-    mc "Incroyable ?"
+    mc "Incroyable?"
 
 # game/code/d21/d21s01.rpy:767
 translate french d21s01_bj_782fd913:
@@ -1142,7 +1142,7 @@ translate french d21s01_bj_782fd913:
 translate french d21s01_bj_c0767eb9:
 
     # mc "Should I have?"
-    mc "J'aurais dû ?"
+    mc "J'aurais dû?"
 
 # game/code/d21/d21s01.rpy:770
 translate french d21s01_bj_46b45c98:
@@ -1154,13 +1154,13 @@ translate french d21s01_bj_46b45c98:
 translate french d21s01_bj_722e4b05:
 
     # mc "So did you mean anything you said?"
-    mc "Alors tu pensais ce que tu as dit ?"
+    mc "Alors tu pensais ce que tu as dit?"
 
 # game/code/d21/d21s01.rpy:778
 translate french d21s01_bj_31c14eec:
 
     # hr "What, about you being a bitch?"
-    hr "Quoi, que tu es une garce ?"
+    hr "Quoi, que tu es une garce?"
 
 # game/code/d21/d21s01.rpy:781
 translate french d21s01_bj_0c916fa9:
@@ -1172,7 +1172,7 @@ translate french d21s01_bj_0c916fa9:
 translate french d21s01_bj_b3ef7e88:
 
     # hr "Nah. Just came out at the spur of the moment, you know?"
-    hr "Non. Je viens de sortir sur un coup de tête, tu sais ?"
+    hr "Non. Je viens de sortir sur un coup de tête, tu sais?"
 
 # game/code/d21/d21s01.rpy:787
 translate french d21s01_bj_1991c0e8:
@@ -1196,7 +1196,7 @@ translate french d21s01_bj_fe3168ff:
 translate french d21s01_bj_c1a892cf:
 
     # mc "And what am I?"
-    mc "Et qu'est-ce que je suis ?"
+    mc "Et qu'est-ce que je suis?"
 
 # game/code/d21/d21s01.rpy:798
 translate french d21s01_bj_a0da38e7:
@@ -1220,7 +1220,7 @@ translate french d21s01_bj_50b9b826:
 translate french d21s01_bj_b49f41be:
 
     # mc "Is anal out of the question?"
-    mc "Est-ce que l'anal est hors de question ?"
+    mc "Est-ce que l'anal est hors de question?"
 
 # game/code/d21/d21s01.rpy:813
 translate french d21s01_bj_2b0232fa:
@@ -1238,7 +1238,7 @@ translate french d21s01_bj_8a5f29b0:
 translate french d21s01_bj_435bfe3f:
 
     # hr "After all that, you're not going to join me?"
-    hr "Après tout ça, tu ne vas pas me rejoindre ?"
+    hr "Après tout ça, tu ne vas pas me rejoindre?"
 
 # game/code/d21/d21s01.rpy:824
 translate french d21s01_bj_dc0ff26a:
@@ -1347,3 +1347,4 @@ translate french strings:
     # game/code/d21/d21s01.rpy:799
     old "Don't join her."
     new "Ne la rejoins pas."
+

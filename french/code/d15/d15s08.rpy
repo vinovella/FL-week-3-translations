@@ -26,7 +26,7 @@ translate french d15s08_3a3d693a:
 translate french d15s08_549ef43a:
 
     # arj "Studying for finals?"
-    arj "Vous étudiez pour les examens ?"
+    arj "Vous étudiez pour les examens?"
 
 # game/code/d15/d15s08.rpy:43
 translate french d15s08_cc91bdf5:
@@ -38,7 +38,7 @@ translate french d15s08_cc91bdf5:
 translate french d15s08_295d6e58:
 
     # hr "I suppose we can get started now? Is the magical field of protection working correctly?"
-    hr "Je suppose que nous pouvons commencer maintenant ? Le champ magique de protection fonctionne-t-il correctement ?"
+    hr "Je suppose que nous pouvons commencer maintenant? Le champ magique de protection fonctionne-t-il correctement?"
 
 # game/code/d15/d15s08.rpy:49
 translate french d15s08_d2b0df8c:
@@ -50,7 +50,7 @@ translate french d15s08_d2b0df8c:
 translate french d15s08_4007d27d:
 
     # hr "But it's working? You're sure of that?"
-    hr "Mais ça marche ? Tu en es sûr ?"
+    hr "Mais ça marche? Tu en es sûr?"
 
 # game/code/d15/d15s08.rpy:55
 translate french d15s08_f3a007f2:
@@ -68,13 +68,13 @@ translate french d15s08_2751cb01:
 translate french d15s08_6e81277a:
 
     # mc "Well, we're about as safe as we can be. What are we talking about?"
-    mc "Eh bien, nous sommes aussi en sécurité que possible. De quoi parlons-nous ?"
+    mc "Eh bien, nous sommes aussi en sécurité que possible. De quoi parlons-nous?"
 
 # game/code/d15/d15s08.rpy:64
 translate french d15s08_54ebe514:
 
     # sy "Oh, we were talking about shades of lipstick. {w}Did you know that we're running out of the color blue?"
-    sy "Oh, nous parlions de nuances de rouge à lèvres. {w}Saviez-vous que nous manquons de couleur bleue ?"
+    sy "Oh, nous parlions de nuances de rouge à lèvres. {w}Saviez-vous que nous manquons de couleur bleue?"
 
 # game/code/d15/d15s08.rpy:65
 translate french d15s08_13410f5f:
@@ -98,19 +98,19 @@ translate french d15s08_e01f00bd:
 translate french d15s08_1297c740:
 
     # sy "The business of discovering who is behind Fetish Locator and winning the treasure?"
-    sy "L'affaire de découvrir qui se cache derrière Fetish Locator et de gagner le trésor ?"
+    sy "L'affaire de découvrir qui se cache derrière Fetish Locator et de gagner le trésor?"
 
 # game/code/d15/d15s08.rpy:77
 translate french d15s08_89ee06c8:
 
     # sy "The business of saving the world from the horrors of Fetish Locator?"
-    sy "L'affaire consistant à sauver le monde des horreurs de Fetish Locator ?"
+    sy "L'affaire consistant à sauver le monde des horreurs de Fetish Locator?"
 
 # game/code/d15/d15s08.rpy:80
 translate french d15s08_01090978:
 
     # mc "Yes. That.{w} So, where are we?"
-    mc "Oui. Ça.{w} Alors, où en sommes-nous ?"
+    mc "Oui. Ça.{w} Alors, où en sommes-nous?"
 
 # game/code/d15/d15s08.rpy:83
 translate french d15s08_d6b088f7:
@@ -122,7 +122,7 @@ translate french d15s08_d6b088f7:
 translate french d15s08_3df59673:
 
     # sy "I'm working on the software!"
-    sy "Je travaille sur le logiciel !"
+    sy "Je travaille sur le logiciel!"
 
 # game/code/d15/d15s08.rpy:89
 translate french d15s08_d10ed000:
@@ -134,7 +134,7 @@ translate french d15s08_d10ed000:
 translate french d15s08_501673eb:
 
     # sy "Did you know she cloned Pete's phone?"
-    sy "Saviez-vous qu'elle a cloné le téléphone de Pete ?"
+    sy "Saviez-vous qu'elle a cloné le téléphone de Pete?"
 
 # game/code/d15/d15s08.rpy:94
 translate french d15s08_f800bed0:
@@ -230,7 +230,7 @@ translate french d15s08_a5914113:
 translate french d15s08_58dfa537:
 
     # mc "Okay, Angels! Let's recap. Fetish Locator should have a physical server and we're going to find it."
-    mc "D'accord, les Anges ! Récapitulons. Fetish Locator devrait avoir un serveur physique et nous allons le trouver."
+    mc "D'accord, les Anges! Récapitulons. Fetish Locator devrait avoir un serveur physique et nous allons le trouver."
 
 # game/code/d15/d15s08.rpy:137
 translate french d15s08_321e912e:
@@ -242,7 +242,7 @@ translate french d15s08_321e912e:
 translate french d15s08_498d9ff7:
 
     # mc "Is there any basis for that assumption? I mean, it could be anywhere online, right?"
-    mc "Y a-t-il une base pour cette hypothèse ? Je veux dire, cela pourrait être n'importe où en ligne, n'est-ce pas ?"
+    mc "Y a-t-il une base pour cette hypothèse? Je veux dire, cela pourrait être n'importe où en ligne, n'est-ce pas?"
 
 # game/code/d15/d15s08.rpy:143
 translate french d15s08_0cdf4f68:
@@ -266,7 +266,7 @@ translate french d15s08_ce4181e7:
 translate french d15s08_4f684b4c:
 
     # mc "Okay. And if they aren't?"
-    mc "D'accord. Et s'ils ne le sont pas ?"
+    mc "D'accord. Et s'ils ne le sont pas?"
 
 # game/code/d15/d15s08.rpy:153
 translate french d15s08_dcecc625:
@@ -278,7 +278,7 @@ translate french d15s08_dcecc625:
 translate french d15s08_6cd8a6f7:
 
     # mc "Fair enough. AmRose, how's the hardware going?"
-    mc "Très bien. AmRose, comment va le matériel ?"
+    mc "Très bien. AmRose, comment va le matériel?"
 
 # game/code/d15/d15s08.rpy:158
 translate french d15s08_a0d9db8e:
@@ -296,7 +296,7 @@ translate french d15s08_0194250e:
 translate french d15s08_050d60b4:
 
     # mc "Relatively reasonable?"
-    mc "Relativement raisonnable ?"
+    mc "Relativement raisonnable?"
 
 # game/code/d15/d15s08.rpy:164
 translate french d15s08_993bb9cc:
@@ -308,13 +308,13 @@ translate french d15s08_993bb9cc:
 translate french d15s08_5206a696:
 
     # mc "How bad are we talking about?"
-    mc "De quelle gravité parlons-nous ?"
+    mc "De quelle gravité parlons-nous?"
 
 # game/code/d15/d15s08.rpy:169
 translate french d15s08_5d78a982:
 
     # sy "How do you feel about carrying around a couple of car batteries?"
-    sy "Que pensez-vous de transporter quelques batteries de voiture ?"
+    sy "Que pensez-vous de transporter quelques batteries de voiture?"
 
 # game/code/d15/d15s08.rpy:172
 translate french d15s08_15ed3dad:
@@ -344,7 +344,7 @@ translate french d15s08_bd61ff24:
 translate french d15s08_ef3fbef1:
 
     # mc "Good enough for me. Stacy, how's the software going?"
-    mc "Assez bien pour moi. Stacy, comment va le logiciel ?"
+    mc "Assez bien pour moi. Stacy, comment va le logiciel?"
 
 # game/code/d15/d15s08.rpy:187
 translate french d15s08_56114331:
@@ -368,7 +368,7 @@ translate french d15s08_1b1f96e3:
 translate french d15s08_e5b9c1f4:
 
     # sy "Hey! He's got the most important job of all{w} - [mcname] is the bait!"
-    sy "Hé ! Il a le travail le plus important de tous{w} - [mcname] est l'appât !"
+    sy "Hé! Il a le travail le plus important de tous{w} - [mcname] est l'appât!"
 
 # game/code/d15/d15s08.rpy:199
 translate french d15s08_5c59d086:
@@ -410,7 +410,7 @@ translate french d15s08_108bda6c:
 translate french d15s08_7268b34f:
 
     # hr "You are his sister... right?"
-    hr "Tu es sa sœur... n'est-ce pas ?"
+    hr "Tu es sa sœur... n'est-ce pas?"
 
 # game/code/d15/d15s08.rpy:218
 translate french d15s08_eb990079:
@@ -422,7 +422,7 @@ translate french d15s08_eb990079:
 translate french d15s08_ff6f2411:
 
     # mc "I'm sure Hana will be willing to help as needed, right?"
-    mc "Je suis sûr qu'Hana sera prête à aider si nécessaire, n'est-ce pas ?"
+    mc "Je suis sûr qu'Hana sera prête à aider si nécessaire, n'est-ce pas?"
 
 # game/code/d15/d15s08.rpy:224
 translate french d15s08_591aca2b:
@@ -434,7 +434,7 @@ translate french d15s08_591aca2b:
 translate french d15s08_0377b702:
 
     # mc "You're not interested in seeing this through to the finish?"
-    mc "Tu n'es pas intéressé à aller jusqu'au bout ?"
+    mc "Tu n'es pas intéressé à aller jusqu'au bout?"
 
 # game/code/d15/d15s08.rpy:230
 translate french d15s08_d91408a2:
@@ -452,7 +452,7 @@ translate french d15s08_8852e77f:
 translate french d15s08_867ccf2e:
 
     # hr "I'm willing to help, but you're not going to be calling me up for every challenge, right?"
-    hr "Je suis prêt à aider, mais tu ne vas pas m'appeler pour chaque défi, n'est-ce pas ?"
+    hr "Je suis prêt à aider, mais tu ne vas pas m'appeler pour chaque défi, n'est-ce pas?"
 
 # game/code/d15/d15s08.rpy:239
 translate french d15s08_b7dbf86a:
@@ -482,7 +482,7 @@ translate french d15s08_424b35cd:
 translate french d15s08_df938662:
 
     # sy "Is that a problem?"
-    sy "Est-ce que c'est un problème ?"
+    sy "Est-ce que c'est un problème?"
 
 # game/code/d15/d15s08.rpy:253
 translate french d15s08_87a6b4f8:
@@ -506,13 +506,13 @@ translate french d15s08_61f9b11c:
 translate french d15s08_2d893182:
 
     # sy "You don't want to stay for a... what's a threesome when there are four people?"
-    sy "Tu ne veux pas rester pour un... qu'est-ce qu'un plan à trois quand il y a quatre personnes ?"
+    sy "Tu ne veux pas rester pour un... qu'est-ce qu'un plan à trois quand il y a quatre personnes?"
 
 # game/code/d15/d15s08.rpy:265
 translate french d15s08_9fadbafb:
 
     # arj "A foursome?"
-    arj "Un quatuor ?"
+    arj "Un quatuor?"
 
 # game/code/d15/d15s08.rpy:268
 translate french d15s08_9ed40617:
@@ -548,7 +548,7 @@ translate french d15s08_f84e5613:
 translate french d15s08_224fe1ae:
 
     # hr "... I don't want to know, do I?"
-    hr "... Je ne veux pas savoir, n'est-ce pas ?"
+    hr "... Je ne veux pas savoir, n'est-ce pas?"
 
 # game/code/d15/d15s08.rpy:285
 translate french d15s08_cc047e58:
@@ -596,13 +596,13 @@ translate french d15s08_e7b0741c:
 translate french d15s08_0c5c6be2:
 
     # mc "Take care. {w}Are you feeling okay about this?"
-    mc "Faites attention. {w}Est-ce que ça vous va ?"
+    mc "Faites attention. {w}Est-ce que ça vous va?"
 
 # game/code/d15/d15s08.rpy:304
 translate french d15s08_db1e0241:
 
     # hr "Hmm? Yeah, it's just..."
-    hr "Hmm ? Ouais, c'est juste..."
+    hr "Hmm? Ouais, c'est juste..."
 
 # game/code/d15/d15s08.rpy:306
 translate french d15s08_def0ad19:
@@ -632,13 +632,13 @@ translate french d15s08_8f11ff52:
 translate french d15s08_3c19008f:
 
     # hr "So, why do you three all choose to sleep together here?"
-    hr "Alors, pourquoi vous trois choisissez de dormir ensemble ici ?"
+    hr "Alors, pourquoi vous trois choisissez de dormir ensemble ici?"
 
 # game/code/d15/d15s08.rpy:319
 translate french d15s08_fff5a592:
 
     # mc "What? No. {w}Stacy was joking about the orgy."
-    mc "Quoi ? Non. {w}Stacy plaisantait à propos de l'orgie."
+    mc "Quoi? Non. {w}Stacy plaisantait à propos de l'orgie."
 
 # game/code/d15/d15s08.rpy:322
 translate french d15s08_c3480691:
@@ -680,7 +680,7 @@ translate french d15s08_27bfff70:
 translate french d15s08_222fc999:
 
     # sy "What took you so long? Did she suck your cock on the way out?"
-    sy "Qu'est-ce qui t'a pris si longtemps ? Est-ce qu'elle t'a sucé la bite en sortant ?"
+    sy "Qu'est-ce qui t'a pris si longtemps? Est-ce qu'elle t'a sucé la bite en sortant?"
 
 # game/code/d15/d15s08.rpy:343
 translate french d15s08_bb1229e0:
@@ -698,19 +698,19 @@ translate french d15s08_25c2280f:
 translate french d15s08_5a3ef2d8:
 
     # mc "AmRose? What did you mention?"
-    mc "AmRose ? Qu'as-tu mentionné ?"
+    mc "AmRose? Qu'as-tu mentionné?"
 
 # game/code/d15/d15s08.rpy:352
 translate french d15s08_a8abc6a4:
 
     # arj "Just girl talk. {w}Um, now that you're inside the Faraday cage... did anything change?"
-    arj "Juste une conversation entre filles. {w}Euh, maintenant que tu es dans la cage de Faraday... est-ce que quelque chose a changé ?"
+    arj "Juste une conversation entre filles. {w}Euh, maintenant que tu es dans la cage de Faraday... est-ce que quelque chose a changé?"
 
 # game/code/d15/d15s08.rpy:354
 translate french d15s08_9897ef07:
 
     # mc "You mean? No, I'm guessing it needs a signal to unlock."
-    mc "Tu veux dire ? Non, je suppose qu'il a besoin d'un signal pour le déverrouiller."
+    mc "Tu veux dire? Non, je suppose qu'il a besoin d'un signal pour le déverrouiller."
 
 # game/code/d15/d15s08.rpy:357
 translate french d15s08_9e33d733:
@@ -752,7 +752,7 @@ translate french d15s08_bc24c532:
 translate french d15s08_1a50b22f:
 
     # mct "What the hell is she doing?! AmRose is right there!"
-    mct "Qu'est-ce qu'elle fait ?! AmRose est juste là !"
+    mct "Qu'est-ce qu'elle fait?! AmRose est juste là!"
 
 # game/code/d15/d15s08.rpy:387
 translate french d15s08_07172b26:
@@ -764,25 +764,25 @@ translate french d15s08_07172b26:
 translate french d15s08_26bd28ee:
 
     # mc "Stacy?! What the hell was that?!"
-    mc "Stacy ?! Qu'est-ce que c'était que ça ?!"
+    mc "Stacy?! Qu'est-ce que c'était que ça?!"
 
 # game/code/d15/d15s08.rpy:394
 translate french d15s08_96f60888:
 
     # sy "What? I can't show a little affection to my brother?"
-    sy "Quoi ? Je ne peux pas montrer un peu d'affection à mon frère ?"
+    sy "Quoi? Je ne peux pas montrer un peu d'affection à mon frère?"
 
 # game/code/d15/d15s08.rpy:396
 translate french d15s08_c3268d41:
 
     # sy "What? I can't show a little affection to my closest friend?"
-    sy "Quoi ? Je ne peux pas montrer un peu d'affection à mon ami le plus proche ?"
+    sy "Quoi? Je ne peux pas montrer un peu d'affection à mon ami le plus proche?"
 
 # game/code/d15/d15s08.rpy:399
 translate french d15s08_0d636223:
 
     # mc "That felt like more than a little affection!"
-    mc "C'était plus qu'un peu d'affection !"
+    mc "C'était plus qu'un peu d'affection!"
 
 # game/code/d15/d15s08.rpy:402
 translate french d15s08_cc7e7a66:
@@ -794,7 +794,7 @@ translate french d15s08_cc7e7a66:
 translate french d15s08_c5bceaae:
 
     # mc "What the fuck?!"
-    mc "C'est quoi ce bordel ?!"
+    mc "C'est quoi ce bordel?!"
 
 # game/code/d15/d15s08.rpy:409
 translate french d15s08_7c536c3f:
@@ -824,7 +824,7 @@ translate french d15s08_b204a7d0:
 translate french d15s08_6893f8a2:
 
     # sy "What are sisters for?"
-    sy "A quoi servent les sœurs ?"
+    sy "A quoi servent les sœurs?"
 
 # game/code/d15/d15s08.rpy:424
 translate french d15s08_3e8f28f7:
@@ -860,7 +860,7 @@ translate french d15s08_499f9dd2:
 translate french d15s08_db0ad907:
 
     # mc "Fuck the what?!"
-    mc "Putain quoi ?!"
+    mc "Putain quoi?!"
 
 # game/code/d15/d15s08.rpy:438
 translate french d15s08_34bdddd0:
@@ -908,7 +908,7 @@ translate french d15s08_7f49add2:
 translate french d15s08_f7f8564c:
 
     # arj "It's not like with Lydia, ya'know? I don't feel like it is a competition."
-    arj "Ce n'est pas comme avec Lydia, tu sais ? Je n'ai pas l'impression que ce soit une compétition."
+    arj "Ce n'est pas comme avec Lydia, tu sais? Je n'ai pas l'impression que ce soit une compétition."
 
 # game/code/d15/d15s08.rpy:457
 translate french d15s08_d480ee7e:
@@ -962,7 +962,7 @@ translate french d15s08_27955139:
 translate french d15s08_93cf0c31:
 
     # sy "Shall we just get ready for bed?"
-    sy "Devrions-nous juste nous préparer à aller au lit ?"
+    sy "Devrions-nous juste nous préparer à aller au lit?"
 
 # game/code/d15/d15s08.rpy:477
 translate french d15s08_9c0e2798:
@@ -986,7 +986,7 @@ translate french d15s08_91800d2e:
 translate french d15s08_1597a043:
 
     # sy "[mcname], do you need some help getting undressed?"
-    sy "[mcname], as-tu besoin d'aide pour te déshabiller ?"
+    sy "[mcname], as-tu besoin d'aide pour te déshabiller?"
 
 # game/code/d15/d15s08.rpy:488
 translate french d15s08_2b35b6fe:
@@ -1112,7 +1112,7 @@ translate french d15s08_cedd6a8e:
 translate french d15s08_3c862b57:
 
     # mc "Don't you two need to sleep?"
-    mc "Vous n'avez pas besoin de dormir tous les deux ?"
+    mc "Vous n'avez pas besoin de dormir tous les deux?"
 
 # game/code/d15/d15s08.rpy:556
 translate french d15s08_9c7431d1:
@@ -1136,19 +1136,19 @@ translate french d15s08_0dfc1d08:
 translate french d15s08_0d61d35a:
 
     # sy "Hey AmRose, do you think we could wire something to know when he cums?"
-    sy "Hey AmRose, tu penses qu'on pourrait câbler quelque chose pour savoir quand il jouit ?"
+    sy "Hey AmRose, tu penses qu'on pourrait câbler quelque chose pour savoir quand il jouit?"
 
 # game/code/d15/d15s08.rpy:565
 translate french d15s08_edb86fe3:
 
     # mct "What... what did she just say?"
-    mct "Qu'est-ce... qu'est-ce qu'elle vient de dire ?"
+    mct "Qu'est-ce... qu'est-ce qu'elle vient de dire?"
 
 # game/code/d15/d15s08.rpy:567
 translate french d15s08_6643a8b6:
 
     # arj "You mean as a trigger for the tracking device?"
-    arj "Vous voulez dire comme déclencheur du dispositif de localisation ?"
+    arj "Vous voulez dire comme déclencheur du dispositif de localisation?"
 
 # game/code/d15/d15s08.rpy:572
 translate french d15s08_bcfe6e94:

@@ -31,7 +31,7 @@ translate french d15s02_4bfe2e0d:
 translate french d15s02_1147813b:
 
     # nk "What did you lose—if anything?"
-    nk "Qu'as-tu perdu, si quelque chose ?"
+    nk "Qu'as-tu perdu, si quelque chose?"
 # game/code/d15/d15s02.rpy:38
 translate french d15s02_5f1ed132:
 
@@ -42,7 +42,7 @@ translate french d15s02_5f1ed132:
 translate french d15s02_613fe0a5:
 
     # nk "Your what now?"
-    nk "Tu fais quoi maintenant ?"
+    nk "Tu fais quoi maintenant?"
 
 # game/code/d15/d15s02.rpy:44
 translate french d15s02_57872f86:
@@ -107,7 +107,7 @@ translate french d15s02_1a62b135:
 translate french d15s02_caa60e4a:
 
     # nk "Raring to go for another 20?"
-    nk "Vous êtes impatient d'en faire 20 autres ?"
+    nk "Vous êtes impatient d'en faire 20 autres?"
 
 # game/code/d15/d15s02.rpy:76
 translate french d15s02_a53b8e94:
@@ -137,7 +137,7 @@ translate french d15s02_c5717414:
 translate french d15s02_b6e0d059:
 
     # nk "Was 20, one-after-the-other, too much?"
-    nk "Est-ce que 20, l'un après l'autre, c'était trop ?"
+    nk "Est-ce que 20, l'un après l'autre, c'était trop?"
 
 # game/code/d15/d15s02.rpy:93
 translate french d15s02_93033456:
@@ -155,7 +155,7 @@ translate french d15s02_9a219ed5:
 translate french d15s02_6c883706:
 
     # mc "What's up with those?"
-    mc "Qu'est-ce qu'il y a avec ça ?"
+    mc "Qu'est-ce qu'il y a avec ça?"
 
 # game/code/d15/d15s02.rpy:102
 translate french d15s02_e63a7265:
@@ -167,7 +167,7 @@ translate french d15s02_e63a7265:
 translate french d15s02_20e8688c:
 
     # mc "What, you in with the mafia now?"
-    mc "Quoi, tu es dans la mafia maintenant ?"
+    mc "Quoi, tu es dans la mafia maintenant?"
 
 # game/code/d15/d15s02.rpy:107
 translate french d15s02_cf996605:
@@ -227,7 +227,7 @@ translate french d15s02_e170f30a:
 translate french d15s02_343159d4:
 
     # mc "...So it's certain then?"
-    mc "...Alors c'est sûr ?"
+    mc "...Alors c'est sûr?"
 
 # game/code/d15/d15s02.rpy:130
 translate french d15s02_708291b4:
@@ -431,19 +431,19 @@ translate french d15s02_b356462c:
 translate french d15s02_330e3387:
 
     # flr "Congratulations! You earned a GOLD STAR!"
-    flr "Félicitations ! Vous avez gagné une ETOILE D'OR !"
+    flr "Félicitations! Vous avez gagné une ETOILE D'OR!"
 
 # game/code/d15/d15s02.rpy:219
 translate french d15s02_3549c985:
 
     # mct "Another one? What did I get this one for?"
-    mct "Encore un ? Pourquoi ai-je acheté celui-ci ?"
+    mct "Encore un? Pourquoi ai-je acheté celui-ci?"
 
 # game/code/d15/d15s02.rpy:221
 translate french d15s02_a041029e:
 
     # mct "A gold star? What did I get this for?"
-    mct "Une étoile d'or ? Pourquoi ai-je eu ça ?"
+    mct "Une étoile d'or? Pourquoi ai-je eu ça?"
 
 translate french strings:
 

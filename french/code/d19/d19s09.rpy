@@ -8,7 +8,7 @@ translate french d19s09_6670f26a:
 translate french d19s09_ba44cacc:
 
     # sy "Aw, you already finished talking with Lyssa?"
-    sy "Oh, tu as déjà fini de parler avec Lyssa ?"
+    sy "Oh, tu as déjà fini de parler avec Lyssa?"
 
 # game/code/d19/d19s09.rpy:149
 translate french d19s09_90d3119b:
@@ -26,13 +26,13 @@ translate french d19s09_da464676:
 translate french d19s09_ddf50ce7:
 
     # arj "Could use some help!"
-    arj "J'aurais besoin d'aide !"
+    arj "J'aurais besoin d'aide!"
 
 # game/code/d19/d19s09.rpy:170
 translate french d19s09_82657862:
 
     # mc "What's all this?"
-    mc "C'est quoi tout ça ?"
+    mc "C'est quoi tout ça?"
 
 # game/code/d19/d19s09.rpy:172
 translate french d19s09_8d7bb6bb:
@@ -44,7 +44,7 @@ translate french d19s09_8d7bb6bb:
 translate french d19s09_b2f5bca8:
 
     # sy "I have not! And even if I was, chicken has a lot of protein!"
-    sy "Ce n'est pas vrai ! Et même si c’était le cas, le poulet contient beaucoup de protéines !"
+    sy "Ce n'est pas vrai! Et même si c’était le cas, le poulet contient beaucoup de protéines!"
 
 # game/code/d19/d19s09.rpy:177
 translate french d19s09_3e0a6680:
@@ -56,7 +56,7 @@ translate french d19s09_3e0a6680:
 translate french d19s09_e1ad65a4:
 
     # sy "Well, what are you planning on making anyway?"
-    sy "Qu'est-ce que tu comptes faire de toute façon ?"
+    sy "Qu'est-ce que tu comptes faire de toute façon?"
 
 # game/code/d19/d19s09.rpy:183
 translate french d19s09_29b38be6:
@@ -68,7 +68,7 @@ translate french d19s09_29b38be6:
 translate french d19s09_d36320f3:
 
     # mc "Cauliflower rice?"
-    mc "Du riz au chou-fleur ?"
+    mc "Du riz au chou-fleur?"
 
 # game/code/d19/d19s09.rpy:189
 translate french d19s09_3f6542e1:
@@ -86,7 +86,7 @@ translate french d19s09_6173e8e2:
 translate french d19s09_380fc8e2:
 
     # sy "Me?"
-    sy "Moi ?"
+    sy "Moi?"
 
 # game/code/d19/d19s09.rpy:196
 translate french d19s09_4264d781:
@@ -116,25 +116,25 @@ translate french d19s09_66a5117a:
 translate french d19s09_2a176151:
 
     # arj "And what are you laughing about? You need to help as well. We have lots of chopping to do."
-    arj "Et pourquoi tu ris ?  Viens nous aider. Nous avons beaucoup de choses à faire."
+    arj "Et pourquoi tu ris?  Viens nous aider. Nous avons beaucoup de choses à faire."
 
 # game/code/d19/d19s09.rpy:209
 translate french d19s09_42bd829d:
 
     # mc "Wait, what?"
-    mc "Attends, quoi ?"
+    mc "Attends, quoi?"
 
 # game/code/d19/d19s09.rpy:241
 translate french d19s09_f6b37dd4:
 
     # sy "You don't mind, do you?"
-    sy "Ça ne te dérange pas, n'est-ce pas ?"
+    sy "Ça ne te dérange pas, n'est-ce pas?"
 
 # game/code/d19/d19s09.rpy:242
 translate french d19s09_354de6de:
 
     # sy "You've already seen me naked. So what's the point?"
-    sy "Tu m'as déjà vu nue. Donc... ?"
+    sy "Tu m'as déjà vu nue. Donc...?"
 
 # game/code/d19/d19s09.rpy:245
 translate french d19s09_9d7c5246:
@@ -146,7 +146,7 @@ translate french d19s09_9d7c5246:
 translate french d19s09_5461071a:
 
     # sy "Well then, we should give them a good show, shouldn't we?"
-    sy "Alors, on devrait leur faire un bon spectacle, n'est-ce pas ?"
+    sy "Alors, on devrait leur faire un bon spectacle, n'est-ce pas?"
 
 # game/code/d19/d19s09.rpy:256
 translate french d19s09_b44ced33:
@@ -230,7 +230,7 @@ translate french d19s09_df75062a:
 translate french d19s09_cdb83171:
 
     # arj "Stacy! Can you help me her—?"
-    arj "Stacy !  Tu-peux m'aider à...?"
+    arj "Stacy!  Tu-peux m'aider à...?"
 
 # game/code/d19/d19s09.rpy:419
 translate french d19s09_335a5fd8:
@@ -278,13 +278,13 @@ translate french d19s09_6ff2c17d:
 translate french d19s09_37dbd3ed:
 
     # arj "Have you actually done anything with a woman before?"
-    arj "As-tu déjà fait quelque chose avec une femme ?"
+    arj "As-tu déjà fait quelque chose avec une femme?"
 
 # game/code/d19/d19s09.rpy:456
 translate french d19s09_092c2241:
 
     # sy "What? Of course I have!"
-    sy "Quoi? Bien sûr que oui !"
+    sy "Quoi? Bien sûr que oui!"
 
 # game/code/d19/d19s09.rpy:458
 translate french d19s09_92af81f7:
@@ -308,7 +308,7 @@ translate french d19s09_a8b27efb:
 translate french d19s09_ca5ae3d6:
 
     # sy "Wait, what?"
-    sy "Attends, quoi ?"
+    sy "Attends, quoi?"
 
 # game/code/d19/d19s09.rpy:468
 translate french d19s09_5ec055eb:
@@ -344,7 +344,7 @@ translate french d19s09_6581f7b4:
 translate french d19s09_296fcc3a:
 
     # sy "*Moans* Am... Fuck. God, what are you doing to me right now?"
-    sy "*Gémissements*  Je... putain.  Mon Dieu, qu'est-ce que tu me fais là ?"
+    sy "*Gémissements*  Je... putain.  Mon Dieu, qu'est-ce que tu me fais là?"
 
 # game/code/d19/d19s09.rpy:502
 translate french d19s09_67143216:
@@ -368,13 +368,13 @@ translate french d19s09_cc73457d:
 translate french d19s09_b82de23e:
 
     # sy "*Moans get loader and more staggered* I—Fuck, God, fuck I'm gonna cum. I'm gonna cum!"
-    sy "*Gémissements lourds*  Je—Putain, mon Dieu, putain, je vais jouir. Je vais jouir !"
+    sy "*Gémissements lourds*  Je—Putain, mon Dieu, putain, je vais jouir. Je vais jouir!"
 
 # game/code/d19/d19s09.rpy:542
 translate french d19s09_c07d3743:
 
     # arj "Do you want to suck him off together?"
-    arj "Tu veux qu'on le suce ensemble ?"
+    arj "Tu veux qu'on le suce ensemble?"
 
 # game/code/d19/d19s09.rpy:544
 translate french d19s09_7c7664d1:
@@ -446,7 +446,7 @@ translate french d19s09_arj_rim_59b4d8ff:
 translate french d19s09_arj_rim_abb2a254:
 
     # arj "Aw, no cum for me?"
-    arj "Oh, pas de sperme pour moi ?"
+    arj "Oh, pas de sperme pour moi?"
 
 # game/code/d19/d19s09.rpy:680
 translate french d19s09_arj_rim_889a3d88:
@@ -494,25 +494,25 @@ translate french d19s09_double_bj_2c786c63:
 translate french d19s09_double_bj_a3dde1ce:
 
     # sy "AmRose has \"helped\" us both tonight. I think it's time to give her a little reward, don't you?"
-    sy "AmRose nous a \"aidés\" tous les deux ce soir. Je pense qu'il est temps de lui donner une petite récompense, n'est-ce pas ?"
+    sy "AmRose nous a \"aidés\" tous les deux ce soir. Je pense qu'il est temps de lui donner une petite récompense, n'est-ce pas?"
 
 # game/code/d19/d19s09.rpy:749
 translate french d19s09_double_bj_533d1576:
 
     # mc "Oh absolutely.{w} How about this? You two get into a sixty-nine position. I'll then fuck her while you eat her out."
-    mc "Oh, absolument.{w}  Que pensez vous de ça ?  Toutes les deux en position soixante-neuf. Je vais la baiser pendant que tu la manges la touffe."
+    mc "Oh, absolument.{w}  Que pensez vous de ça?  Toutes les deux en position soixante-neuf. Je vais la baiser pendant que tu la manges la touffe."
 
 # game/code/d19/d19s09.rpy:751
 translate french d19s09_double_bj_60ad1080:
 
     # sy "Yes! I'm down!"
-    sy "Oui ! Je suis partante !"
+    sy "Oui! Je suis partante!"
 
 # game/code/d19/d19s09.rpy:754
 translate french d19s09_double_bj_8086a7fe:
 
     # sy "C'o! Sith on me!"
-    sy "Assieds-toi sur moi !"
+    sy "Assieds-toi sur moi!"
 
 # game/code/d19/d19s09.rpy:763
 translate french d19s09_double_bj_0835f995:
@@ -524,13 +524,13 @@ translate french d19s09_double_bj_0835f995:
 translate french d19s09_double_bj_e5d02404:
 
     # arj "Please... Fuck. I'm close! Just a little more!"
-    arj "S'il te plaît... putain. Je suis proche ! Juste un petit peu plus!"
+    arj "S'il te plaît... putain. Je suis proche! Juste un petit peu plus!"
 
 # game/code/d19/d19s09.rpy:788
 translate french d19s09_double_bj_f608533b:
 
     # sy "Wow! I didn't know you were a squirter."
-    sy "Wow ! Je ne savais pas que tu étais une gicleuse."
+    sy "Wow! Je ne savais pas que tu étais une gicleuse."
 
 # game/code/d19/d19s09.rpy:791
 translate french d19s09_double_bj_7313cafa:
@@ -542,13 +542,13 @@ translate french d19s09_double_bj_7313cafa:
 translate french d19s09_double_bj_1b04b723:
 
     # sy "No, it's fucking hot!"
-    sy "Non, c'est putain de chaud !"
+    sy "Non, c'est putain de chaud!"
 
 # game/code/d19/d19s09.rpy:810
 translate french d19s09_double_bj_09d3abe9:
 
     # sy "Wow, did it feel that good?"
-    sy "Wow, est-ce que ça faisait du bien ?"
+    sy "Wow, est-ce que ça faisait du bien?"
 
 # game/code/d19/d19s09.rpy:813
 translate french d19s09_double_bj_8fd61c8a:
@@ -566,13 +566,13 @@ translate french d19s09_double_bj_c11e235b:
 translate french d19s09_double_bj_cd0d7472:
 
     # sy "Now it's my turn! I want to feel you inside me again."
-    sy "Maintenant c'est mon tour ! Je veux te sentir à nouveau en moi."
+    sy "Maintenant c'est mon tour! Je veux te sentir à nouveau en moi."
 
 # game/code/d19/d19s09.rpy:823
 translate french d19s09_double_bj_3a3db23f:
 
     # arj "Why don't we do this?"
-    arj "Pourquoi on ne fait pas ça ?"
+    arj "Pourquoi on ne fait pas ça?"
 
 # game/code/d19/d19s09.rpy:832
 translate french d19s09_double_bj_a02b9658:
@@ -620,7 +620,7 @@ translate french d19s09_fuck_arj_06734da2:
 translate french d19s09_fuck_arj_87e31955:
 
     # sy "Fuck even harder, make her feel you. Do it!"
-    sy "Baise encore plus fort, fais-lui sentir. Fais-le !"
+    sy "Baise encore plus fort, fais-lui sentir. Fais-le!"
 
 # game/code/d19/d19s09.rpy:896
 translate french d19s09_fuck_arj_e79b6722:
@@ -632,13 +632,13 @@ translate french d19s09_fuck_arj_e79b6722:
 translate french d19s09_fuck_arj_5951a8c3:
 
     # arj "Yes, yes! Cum inside me!"
-    arj "Oui, oui ! Jouis en moi !"
+    arj "Oui, oui! Jouis en moi!"
 
 # game/code/d19/d19s09.rpy:908
 translate french d19s09_fuck_arj_0a3a28e3:
 
     # sy "Wait! I want—!"
-    sy "Attends ! Je veux-!"
+    sy "Attends! Je veux-!"
 
 # game/code/d19/d19s09.rpy:919
 translate french d19s09_fuck_arj_5452cbf2:
@@ -668,7 +668,7 @@ translate french d19s09_fuck_sy_883ac000:
 translate french d19s09_fuck_sy_c75a6b90:
 
     # sy "Harder. Fuck me harder!"
-    sy "Plus fort. Baise-moi plus fort !"
+    sy "Plus fort. Baise-moi plus fort!"
 
 # game/code/d19/d19s09.rpy:981
 translate french d19s09_fuck_sy_35c562ad:
@@ -686,13 +686,13 @@ translate french d19s09_fuck_sy_cb82f864:
 translate french d19s09_fuck_sy_ff3710bd:
 
     # sy "*Moans* Yes, yes! Fill me up!"
-    sy "*Gémissements* Oui, oui ! Remplis-moi!"
+    sy "*Gémissements* Oui, oui! Remplis-moi!"
 
 # game/code/d19/d19s09.rpy:1012
 translate french d19s09_fuck_sy_94a6f507:
 
     # sy "It's a safe day!"
-    sy "C'est une journée sûre !"
+    sy "C'est une journée sûre!"
 
 # game/code/d19/d19s09.rpy:1018
 translate french d19s09_fuck_sy_c0332576:
@@ -728,7 +728,7 @@ translate french d19s09_end_d6537549:
 translate french d19s09_end_ffff1501:
 
     # sy "But we'd never make it as well as you though!"
-    sy "Mais nous ne réussirons jamais aussi bien que toi !"
+    sy "Mais nous ne réussirons jamais aussi bien que toi!"
 
 # game/code/d19/d19s09.rpy:1071
 translate french d19s09_end_82ce24cc:
@@ -740,13 +740,13 @@ translate french d19s09_end_82ce24cc:
 translate french d19s09_end_dc54b2b5:
 
     # sy "So... Are we gonna talk about Fetish Locator at all?"
-    sy "Alors... est-ce qu'on va parler de Fetish Locator ?"
+    sy "Alors... est-ce qu'on va parler de Fetish Locator?"
 
 # game/code/d19/d19s09.rpy:1079
 translate french d19s09_end_a2376b4a:
 
     # arj "What's there to talk about? We know where it is. I say we just destroy it."
-    arj "Parler de quoi ?  Nous savons où il se trouve. Je dis juste, détruisons-le."
+    arj "Parler de quoi?  Nous savons où il se trouve. Je dis juste, détruisons-le."
 
 # game/code/d19/d19s09.rpy:1082
 translate french d19s09_end_8a44ad0b:
@@ -812,19 +812,19 @@ translate french d19s09_end_55ee2605:
 translate french d19s09_end_fb556bd6:
 
     # sy "That's the thing though! It's not anyone, it's {i}us{/i}. We can use it for good!"
-    sy "C'est ça le truc !  Ce n'est quiconque, c'est {i}nous{/i}.  On peut l'utiliser pour quelque chose de bon !"
+    sy "C'est ça le truc!  Ce n'est quiconque, c'est {i}nous{/i}.  On peut l'utiliser pour quelque chose de bon!"
 
 # game/code/d19/d19s09.rpy:1105
 translate french d19s09_end_136b7d4d:
 
     # arj "*Sigh* [mcname]? What do you think?"
-    arj "*Soupir* [mcname] ? Qu'en penses-tu?"
+    arj "*Soupir* [mcname]? Qu'en penses-tu?"
 
 # game/code/d19/d19s09.rpy:1108
 translate french d19s09_end_e11701dc:
 
     # mc "Hm? Sorry. It's just...a lot."
-    mc "Hum ? Désolé. C'est juste... beaucoup."
+    mc "Hum? Désolé. C'est juste... beaucoup."
 
 # game/code/d19/d19s09.rpy:1109
 translate french d19s09_end_64106560:
@@ -860,7 +860,7 @@ translate french d19s09_end_7746d1e7:
 translate french d19s09_end_5e418b85:
 
     # sy "Yes! Me too."
-    sy "Oui ! Moi aussi."
+    sy "Oui! Moi aussi."
 
 # game/code/d19/d19s09.rpy:1139
 translate french d19s09_end_da2e9e24:
@@ -872,13 +872,13 @@ translate french d19s09_end_da2e9e24:
 translate french d19s09_end_ffdb59d7:
 
     # mc "Jesus, Stacy! Didn't anyone tell you to not snoop on other people?"
-    mc "Jésus, Stacy ! Personne ne t'a jamais dit de ne pas espionner les autres ?"
+    mc "Jésus, Stacy! Personne ne t'a jamais dit de ne pas espionner les autres?"
 
 # game/code/d19/d19s09.rpy:1146
 translate french d19s09_end_313c8026:
 
     # sy "I was curious! That was Lyssa, right?"
-    sy "J'étais curieuse ! C'était Lyssa, n'est-ce pas ?"
+    sy "J'étais curieuse! C'était Lyssa, n'est-ce pas?"
 
 # game/code/d19/d19s09.rpy:1149
 translate french d19s09_end_a0ecb5c1:
@@ -890,7 +890,7 @@ translate french d19s09_end_a0ecb5c1:
 translate french d19s09_end_2c7249b5:
 
     # sy "C'mon! You're so lucky. And I can't even get a glimpse.{w} Unfair."
-    sy "Allez ! Tu es si chanceux. Et je ne peux même pas avoir un aperçu.{w} C'est injuste."
+    sy "Allez! Tu es si chanceux. Et je ne peux même pas avoir un aperçu.{w} C'est injuste."
 
 # game/code/d19/d19s09.rpy:1154
 translate french d19s09_end_321c8ca0:
@@ -937,3 +937,4 @@ translate french strings:
     # game/code/d19/d19s09.rpy:898
     old "Switch"
     new "Switch"
+

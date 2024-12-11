@@ -32,7 +32,7 @@ translate french d16s05_10d8c479:
 translate french d16s05_7562bd6c:
 
     # sy "And then came in right away!"
-    sy "Et puis je suis entré tout de suite !"
+    sy "Et puis je suis entré tout de suite!"
 
 # game/code/d16/d16s05.rpy:48
 translate french d16s05_6a1c34dd:
@@ -56,7 +56,7 @@ translate french d16s05_26ed2594:
 translate french d16s05_74991b70:
 
     # mc "What are you dressing up for anyway?"
-    mc "Pourquoi tu t'habilles d'ailleurs ?"
+    mc "Pourquoi tu t'habilles d'ailleurs?"
 
 # game/code/d16/d16s05.rpy:63
 translate french d16s05_70db20f4:
@@ -104,7 +104,7 @@ translate french d16s05_7f2fb618:
 translate french d16s05_6cb2efbb:
 
     # sy "Why is that surprising?"
-    sy "Pourquoi est-ce surprenant ?"
+    sy "Pourquoi est-ce surprenant?"
 
 # game/code/d16/d16s05.rpy:80
 translate french d16s05_49e314c7:
@@ -152,7 +152,7 @@ translate french d16s05_c537ddd1:
 translate french d16s05_e9eba40c:
 
     # sy "How do I look?"
-    sy "De quoi ai-je l'air ?"
+    sy "De quoi ai-je l'air?"
 
 # game/code/d16/d16s05.rpy:98
 translate french d16s05_215e1dcd:
@@ -188,7 +188,7 @@ translate french d16s05_168a01a4:
 translate french d16s05_69fed768:
 
     # mc "Fair enough.{w} So what's this gig anyway?"
-    mc "Assez juste.{w} Alors, c'est quoi ce job de toute façon ?"
+    mc "Assez juste.{w} Alors, c'est quoi ce job de toute façon?"
 
 # game/code/d16/d16s05.rpy:118
 translate french d16s05_c36c5785:
@@ -200,7 +200,7 @@ translate french d16s05_c36c5785:
 translate french d16s05_d78f366c:
 
     # sy "But I found a flyer saying that the CPD was looking for people with \"computer knowledge.\" Whatever that might mean."
-    sy "Mais j'ai trouvé un dépliant disant que le CPD recherchait des personnes ayant des "connaissances en informatique". Quoi que cela puisse signifier."
+    sy "Mais j'ai trouvé un dépliant disant que le CPD recherchait des personnes ayant des \"connaissances en informatique\". Quoi que cela puisse signifier."
 
 # game/code/d16/d16s05.rpy:120
 translate french d16s05_d36be2f6:
@@ -212,7 +212,7 @@ translate french d16s05_d36be2f6:
 translate french d16s05_3ef4a176:
 
     # mc "You're gonna work for the cops?"
-    mc "Tu vas travailler pour les flics ?"
+    mc "Tu vas travailler pour les flics?"
 
 # game/code/d16/d16s05.rpy:127
 translate french d16s05_54051cea:
@@ -224,7 +224,7 @@ translate french d16s05_54051cea:
 translate french d16s05_347ea5e9:
 
     # mc "Do you even know how much they're paying?"
-    mc "Savez-vous au moins combien ils paient ?"
+    mc "Savez-vous au moins combien ils paient?"
 
 # game/code/d16/d16s05.rpy:131
 translate french d16s05_1558ad73:
@@ -284,7 +284,7 @@ translate french d16s05_da464676:
 translate french d16s05_01d4eb83:
 
     # sy "Oh! How's the uh...{i}situation{/i} by the way?"
-    sy "Oh ! Au fait, comment est la euh...{i}situation{/i} d'ailleurs?"
+    sy "Oh! Au fait, comment est la euh...{i}situation{/i} d'ailleurs?"
 
 # game/code/d16/d16s05.rpy:160
 translate french d16s05_f183c907:
@@ -308,7 +308,7 @@ translate french d16s05_66c2169b:
 translate french d16s05_8ff2e7d6:
 
     # sy "What? That's great! How?"
-    sy "Quoi ? C'est génial ! Comment ?"
+    sy "Quoi? C'est génial! Comment?"
 
 # game/code/d16/d16s05.rpy:172
 translate french d16s05_993e9628:
@@ -332,7 +332,7 @@ translate french d16s05_c8325d75:
 translate french d16s05_27b0f30f:
 
     # sy "Huh, well, that's great! You finally got your dick back."
-    sy "Euh, eh bien, c'est super ! Tu as enfin récupéré ta bite."
+    sy "Euh, eh bien, c'est super! Tu as enfin récupéré ta bite."
 
 # game/code/d16/d16s05.rpy:179
 translate french d16s05_44d41454:
@@ -356,7 +356,7 @@ translate french d16s05_14e8906d:
 translate french d16s05_1363aa37:
 
     # sy "Well... Maybe we try and see what we can do about that later tonight."
-    sy "Merde..." "Eh bien... Peut-être que nous essaierons de voir ce que nous pouvons faire à ce sujet plus tard ce soir."
+    sy "Merde... Eh bien... Peut-être que nous essaierons de voir ce que nous pouvons faire à ce sujet plus tard ce soir."
 
 # game/code/d16/d16s05.rpy:191
 translate french d16s05_78620014:
@@ -410,7 +410,7 @@ translate french d16s05_b3d7a39e:
 translate french d16s05_0d1bb08d:
 
     # sy "Who cares? Fuck 'em."
-    sy "On s'en fiche ? Baise-les."
+    sy "On s'en fiche? Baise-les."
 
 # game/code/d16/d16s05.rpy:211
 translate french d16s05_c63def3f:
@@ -440,7 +440,7 @@ translate french d16s05_7e23f439:
 translate french d16s05_cbabdc91:
 
     # sy "Why? Why can't we just jump in?"
-    sy "Pourquoi ? Pourquoi ne pouvons-nous pas simplement intervenir ?"
+    sy "Pourquoi? Pourquoi ne pouvons-nous pas simplement intervenir?"
 
 # game/code/d16/d16s05.rpy:223
 translate french d16s05_b8900318:
@@ -500,7 +500,7 @@ translate french d16s05_4908f658:
 translate french d16s05_b684d49f:
 
     # sy "Ugh, how much longer is this going to take?"
-    sy « Ugh, combien de temps cela va-t-il prendre ?
+    sy "Ugh, combien de temps cela va-t-il prendre?"
 
 # game/code/d16/d16s05.rpy:276
 translate french d16s05_7adf0993:
@@ -524,13 +524,13 @@ translate french d16s05_91b3f912:
 translate french d16s05_048bc1c1:
 
     # sy "That's 15 minutes too much!"
-    sy "C'est 15 minutes de trop !"
+    sy "C'est 15 minutes de trop!"
 
 # game/code/d16/d16s05.rpy:286
 translate french d16s05_0dad097d:
 
     # sy "You know how much you could do in 15 minutes!?"
-    sy "Tu sais tout ce que tu pourrais faire en 15 minutes !?"
+    sy "Tu sais tout ce que tu pourrais faire en 15 minutes!?"
 
 # game/code/d16/d16s05.rpy:300
 translate french d16s05_82b03971:
@@ -542,7 +542,7 @@ translate french d16s05_82b03971:
 translate french d16s05_b18aa2bc:
 
     # sy "Is that an innuendo?"
-    sy "Est-ce une insinuation ?"
+    sy "Est-ce une insinuation?"
 
 # game/code/d16/d16s05.rpy:306
 translate french d16s05_cad3d574:
@@ -560,7 +560,7 @@ translate french d16s05_c281cb0e:
 translate french d16s05_2461b2d6:
 
     # mc "Why'd you apply to this anyway?"
-    mc "Pourquoi as-tu postulé pour ça de toute façon ?"
+    mc "Pourquoi as-tu postulé pour ça de toute façon?"
 
 # game/code/d16/d16s05.rpy:316
 translate french d16s05_63a9e153:
@@ -572,13 +572,13 @@ translate french d16s05_63a9e153:
 translate french d16s05_aedb874a:
 
     # mc "I'm sure there must be plenty of other tech jobs, right? Even internships."
-    mc "Je suis sûr qu'il doit y avoir beaucoup d'autres emplois dans le secteur technologique, n'est-ce pas ? Même des stages."
+    mc "Je suis sûr qu'il doit y avoir beaucoup d'autres emplois dans le secteur technologique, n'est-ce pas? Même des stages."
 
 # game/code/d16/d16s05.rpy:321
 translate french d16s05_d7df31c3:
 
     # mc "So why CPD?"
-    mc "Alors pourquoi le CPD ?"
+    mc "Alors pourquoi le CPD?"
 
 # game/code/d16/d16s05.rpy:325
 translate french d16s05_165c3630:
@@ -608,19 +608,19 @@ translate french d16s05_b086d03e:
 translate french d16s05_4a258fbd:
 
     # mc "*Chuckles* Well, is this what you want to do in the future as well?"
-    mc "*Rires* Eh bien, est-ce que c'est aussi ce que tu veux faire à l'avenir ?"
+    mc "*Rires* Eh bien, est-ce que c'est aussi ce que tu veux faire à l'avenir?"
 
 # game/code/d16/d16s05.rpy:336
 translate french d16s05_6d530aab:
 
     # sy "Fuck no! I'm going to start my own company. Make my own damn destiny instead of living under someone else's for 50 years and then dying."
-    sy "Putain non ! Je vais créer ma propre entreprise. Faire mon propre destin au lieu de vivre sous celui de quelqu'un d'autre pendant 50 ans et ensuite mourir."
+    sy "Putain non! Je vais créer ma propre entreprise. Faire mon propre destin au lieu de vivre sous celui de quelqu'un d'autre pendant 50 ans et ensuite mourir."
 
 # game/code/d16/d16s05.rpy:338
 translate french d16s05_4271e38e:
 
     # mc "So this is just a stepping stone then?"
-    mc "Alors ce n'est qu'un tremplin ?"
+    mc "Alors ce n'est qu'un tremplin?"
 
 # game/code/d16/d16s05.rpy:342
 translate french d16s05_e7d4bd91:
@@ -644,7 +644,7 @@ translate french d16s05_e370279e:
 translate french d16s05_e5394031:
 
     # sy "How would it be a problem?"
-    sy "En quoi cela poserait-il un problème ?"
+    sy "En quoi cela poserait-il un problème?"
 
 # game/code/d16/d16s05.rpy:369
 translate french d16s05_382815eb:
@@ -674,31 +674,31 @@ translate french d16s05_953e3e62:
 translate french d16s05_7e001053:
 
     # sy "Oh! How's Lyssa by the way?"
-    sy "Oh ! Au fait, comment va Lyssa ?"
+    sy "Oh! Au fait, comment va Lyssa?"
 
 # game/code/d16/d16s05.rpy:384
 translate french d16s05_d6853969:
 
     # mc "Lyssa? Why are you asking about her all of a sudden?"
-    mc "Lyssa ? Pourquoi tu poses des questions sur elle tout d'un coup ?"
+    mc "Lyssa? Pourquoi tu poses des questions sur elle tout d'un coup?"
 
 # game/code/d16/d16s05.rpy:387
 translate french d16s05_2817129d:
 
     # sy "You two went on that date, right? The one I crashed."
-    sy "Vous êtes allés à ce rendez-vous tous les deux, n'est-ce pas ? Celui avec lequel j'ai eu un accident."
+    sy "Vous êtes allés à ce rendez-vous tous les deux, n'est-ce pas? Celui avec lequel j'ai eu un accident."
 
 # game/code/d16/d16s05.rpy:388
 translate french d16s05_d9225ff6:
 
     # sy "How was it before that though? Are you two getting serious now? What's going on? Give me the deets."
-    sy "Mais comment c'était avant ça ? Est-ce que vous devenez sérieux maintenant ? Que se passe-t-il ? Donnez-moi les détails."
+    sy "Mais comment c'était avant ça? Est-ce que vous devenez sérieux maintenant? Que se passe-t-il? Donnez-moi les détails."
 
 # game/code/d16/d16s05.rpy:391
 translate french d16s05_1dc0a15b:
 
     # mc "Uh... Well, I guess? We're getting closer. And I want to continue seeing her."
-    mc "Euh... Eh bien, je suppose ? Nous nous rapprochons. Et je veux continuer à la voir."
+    mc "Euh... Eh bien, je suppose? Nous nous rapprochons. Et je veux continuer à la voir."
 
 # game/code/d16/d16s05.rpy:394
 translate french d16s05_211e3808:
@@ -710,13 +710,13 @@ translate french d16s05_211e3808:
 translate french d16s05_81b02185:
 
     # mc "Well what do you want from me!?"
-    mc "Eh bien, qu'est-ce que tu veux de moi !?"
+    mc "Eh bien, qu'est-ce que tu veux de moi!?"
 
 # game/code/d16/d16s05.rpy:400
 translate french d16s05_b77fbf83:
 
     # sy "I wanna know the spicy deets!"
-    sy "Je veux connaître les détails épicés !"
+    sy "Je veux connaître les détails épicés!"
 
 # game/code/d16/d16s05.rpy:403
 translate french d16s05_7a743563:
@@ -728,19 +728,19 @@ translate french d16s05_7a743563:
 translate french d16s05_41d06e53:
 
     # sy "Come on! Please?"
-    sy "Allez ! S'il te plaît ?"
+    sy "Allez! S'il te plaît?"
 
 # game/code/d16/d16s05.rpy:409
 translate french d16s05_3a799a88:
 
     # mc "Why are you so interested in her anyway?"
-    mc "Pourquoi es-tu si intéressé par elle de toute façon ?"
+    mc "Pourquoi es-tu si intéressé par elle de toute façon?"
 
 # game/code/d16/d16s05.rpy:412
 translate french d16s05_3614f832:
 
     # sy "Who wouldn't be interested in her? Have you {i}seen{/i} son?"
-    sy "Qui ne serait pas intéressé par elle ? L'avez-vous {i}vue{/i} ?"
+    sy "Qui ne serait pas intéressé par elle? L'avez-vous {i}vue{/i}?"
 
 # game/code/d16/d16s05.rpy:413
 translate french d16s05_ab33ffd2:
@@ -752,7 +752,7 @@ translate french d16s05_ab33ffd2:
 translate french d16s05_bc396837:
 
     # mct "*Chuckles* Dom, huh?"
-    mct "*Rires* Dom, hein ?"
+    mct "*Rires* Dom, hein?"
 
 # game/code/d16/d16s05.rpy:418
 translate french d16s05_da626596:
@@ -776,19 +776,19 @@ translate french d16s05_0057bd7c:
 translate french d16s05_f76aedcb:
 
     # "Woman" "Stacy Young? Do we have a Stacy Young in here?"
-    "Femme" "Stacy Young ? Avons-nous une Stacy Young ici ?"
+    "Femme" "Stacy Young? Avons-nous une Stacy Young ici?"
 
 # game/code/d16/d16s05.rpy:429
 translate french d16s05_7e30f1b5:
 
     # "Woman" "Stacy Brawn? Do we have a Stacy Brawn in here?"
-    "Femme" "Stacy Brawn ? Avons-nous une Stacy Brawn ici ?"
+    "Femme" "Stacy Brawn? Avons-nous une Stacy Brawn ici?"
 
 # game/code/d16/d16s05.rpy:432
 translate french d16s05_b8161c52:
 
     # sy "Oh shit. Uh, yes! That's me."
-    sy "Oh merde. Euh, oui ! C'est moi."
+    sy "Oh merde. Euh, oui! C'est moi."
 
 # game/code/d16/d16s05.rpy:435
 translate french d16s05_9aaae8ae:
@@ -836,7 +836,7 @@ translate french d16s05_53fdf96d:
 translate french d16s05_0de19143:
 
     # mc "Hey. How'd it go?"
-    mc "Hé. Comment ça s'est passé ?"
+    mc "Hé. Comment ça s'est passé?"
 
 # game/code/d16/d16s05.rpy:473
 translate french d16s05_888ebf2e:
@@ -854,7 +854,7 @@ translate french d16s05_a3958bf9:
 translate french d16s05_7bdf47c4:
 
     # sy "Like, seriously, who the fuck does drug tests these days!?"
-    sy " Genre, sérieusement, qui fait des tests de dépistage de drogues ces jours-ci !?"
+    sy " Genre, sérieusement, qui fait des tests de dépistage de drogues ces jours-ci!?"
 
 # game/code/d16/d16s05.rpy:482
 translate french d16s05_6ea7d144:
@@ -878,7 +878,7 @@ translate french d16s05_304c149c:
 translate french d16s05_c3f9317d:
 
     # mc "Did you get any pictures though?"
-    mc "Mais as-tu pris des photos ?"
+    mc "Mais as-tu pris des photos?"
 
 # game/code/d16/d16s05.rpy:494
 translate french d16s05_80238046:
@@ -896,13 +896,13 @@ translate french d16s05_407cebc9:
 translate french d16s05_069d84bc:
 
     # sy "Oh, and a fucking polygraph test on top of all that!? For a fucking data entry position!?"
-    sy "Oh, et un putain de test polygraphique en plus de tout ça !? Pour un putain de poste de saisie de données !?"
+    sy "Oh, et un putain de test polygraphique en plus de tout ça!? Pour un putain de poste de saisie de données!?"
 
 # game/code/d16/d16s05.rpy:509
 translate french d16s05_a3182c70:
 
     # sy "What do they think I'm going to do? Wikileaks 2: Electric Boogaloo?"
-    sy « Que pensent-ils que je vais faire ? Wikileaks 2 : Boogaloo électrique ?
+    sy "Que pensent-ils que je vais faire? Wikileaks 2 : Boogaloo électrique?"
 
 # game/code/d16/d16s05.rpy:512
 translate french d16s05_66a5117a:
@@ -920,7 +920,7 @@ translate french d16s05_d0356af7:
 translate french d16s05_a75d6526:
 
     # mc "I'm guessing you're gonna pass on the job then?"
-    mc "Je suppose que tu vas laisser tomber le poste alors ?"
+    mc "Je suppose que tu vas laisser tomber le poste alors?"
 
 # game/code/d16/d16s05.rpy:521
 translate french d16s05_0da34214:
@@ -980,7 +980,7 @@ translate french d16s05_ec4db3fe:
 translate french d16s05_1bdd6e0d:
 
     # mc "Wanna go get ice cream before we go home?"
-    mc "Tu veux aller chercher une glace avant de rentrer à la maison ?"
+    mc "Tu veux aller chercher une glace avant de rentrer à la maison?"
 
 # game/code/d16/d16s05.rpy:543
 translate french d16s05_b4bbb763:
@@ -998,19 +998,19 @@ translate french d16s05_9a3c5809:
 translate french d16s05_757942ea:
 
     # aw "Hey, are you busy?"
-    aw "Hé, tu es occupé ?"
+    aw "Hé, tu es occupé?"
 
 # game/code/d16/d16s05.rpy:553
 translate french d16s05_71f12e7a:
 
     # mct "Depends what's up?"
-    mct "Ça dépend, qu'est-ce qui se passe ?"
+    mct "Ça dépend, qu'est-ce qui se passe?"
 
 # game/code/d16/d16s05.rpy:555
 translate french d16s05_e28ed308:
 
     # aw "Can you come over for a bit?"
-    aw "Tu peux venir un peu ?"
+    aw "Tu peux venir un peu?"
 
 # game/code/d16/d16s05.rpy:558
 translate french d16s05_bc02264d:
@@ -1034,7 +1034,7 @@ translate french d16s05_8da67c47:
 translate french d16s05_e242fd49:
 
     # aw "Great! Thank you."
-    aw "Super ! Merci."
+    aw "Super! Merci."
 
 # game/code/d16/d16s05.rpy:574
 translate french d16s05_e43814e1:
@@ -1058,7 +1058,7 @@ translate french d16s05_fa09a3e5:
 translate french d16s05_dd34295a:
 
     # sy "Everything alright?"
-    sy "Tout va bien ?"
+    sy "Tout va bien?"
 
 # game/code/d16/d16s05.rpy:585
 translate french d16s05_cf1adef2:
@@ -1076,7 +1076,7 @@ translate french d16s05_e0a106af:
 translate french d16s05_3fa818ba:
 
     # mc "Cookie dough? You're gonna get salmonella or something."
-    mc "Pâte à biscuits ? Tu vas attraper de la salmonelle ou quelque chose comme ça."
+    mc "Pâte à biscuits? Tu vas attraper de la salmonelle ou quelque chose comme ça."
 
 # game/code/d16/d16s05.rpy:592
 translate french d16s05_f7e4f4e5:

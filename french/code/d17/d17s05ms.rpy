@@ -2,7 +2,7 @@
 translate french d17s05ms_88a52a16:
 
     # mc "You alright? You look like you're about to throw up."
-    mc "Ça va ? On dirait que tu es sur le point de vomir."
+    mc "Ça va? On dirait que tu es sur le point de vomir."
 
 # game/code/d17/d17s05ms.rpy:18
 translate french d17s05ms_c84fcd78:
@@ -20,7 +20,7 @@ translate french d17s05ms_f36ffea4:
 translate french d17s05ms_d0bbce7f:
 
     # mc "Talk to me, what's wrong?"
-    mc "Parle-moi, qu'est-ce qui ne va pas ?"
+    mc "Parle-moi, qu'est-ce qui ne va pas?"
 
 # game/code/d17/d17s05ms.rpy:25
 translate french d17s05ms_05edc1ef:
@@ -32,7 +32,7 @@ translate french d17s05ms_05edc1ef:
 translate french d17s05ms_3db0f2b5:
 
     # mc "...That it?"
-    mc "...C'est ça ?"
+    mc "...C'est ça?"
 
 # game/code/d17/d17s05ms.rpy:30
 translate french d17s05ms_00c805b8:
@@ -44,7 +44,7 @@ translate french d17s05ms_00c805b8:
 translate french d17s05ms_c42b05ac:
 
     # mc "And?"
-    mc "Et ?"
+    mc "Et?"
 
 # game/code/d17/d17s05ms.rpy:36
 translate french d17s05ms_b3669d60:
@@ -56,7 +56,7 @@ translate french d17s05ms_b3669d60:
 translate french d17s05ms_cdb6db60:
 
     # mc "Worried that she won't like you or something?"
-    mc "Tu as peur qu'elle ne t'aime pas ou quelque chose comme ça ?"
+    mc "Tu as peur qu'elle ne t'aime pas ou quelque chose comme ça?"
 
 # game/code/d17/d17s05ms.rpy:41
 translate french d17s05ms_5c2c7bcf:
@@ -80,7 +80,7 @@ translate french d17s05ms_da82bbda:
 translate french d17s05ms_19a2f426:
 
     # sy "I don't have a crush on her!"
-    sy "Je n'ai pas le béguin pour elle !"
+    sy "Je n'ai pas le béguin pour elle!"
 
 # game/code/d17/d17s05ms.rpy:55
 translate french d17s05ms_b6dd4bf4:
@@ -110,7 +110,7 @@ translate french d17s05ms_0413c3df:
 translate french d17s05ms_89c7f027:
 
     # sy "It's really that obvious?"
-    sy "C'est vraiment aussi évident ?"
+    sy "C'est vraiment aussi évident?"
 
 # game/code/d17/d17s05ms.rpy:68
 translate french d17s05ms_223ea099:
@@ -170,7 +170,7 @@ translate french d17s05ms_db00d39d:
 translate french d17s05ms_b1b0620a:
 
     # mh "Stacy, right? I haven't seen you in a while."
-    mh "Stacy, n'est-ce pas ? Je ne t'ai pas vu depuis un moment."
+    mh "Stacy, n'est-ce pas? Je ne t'ai pas vu depuis un moment."
 
 # game/code/d17/d17s05ms.rpy:110
 translate french d17s05ms_0e0f46ef:
@@ -218,7 +218,7 @@ translate french d17s05ms_e3501cf0:
 translate french d17s05ms_e8ab7aaa:
 
     # mh "Can I get you two something to drink?"
-    mh "Je peux vous offrir quelque chose à boire ?"
+    mh "Je peux vous offrir quelque chose à boire?"
 
 # game/code/d17/d17s05ms.rpy:128
 translate french d17s05ms_04102043:
@@ -230,13 +230,13 @@ translate french d17s05ms_04102043:
 translate french d17s05ms_60fc136c:
 
     # sy "Does that mean you expect it to get that fucked up?"
-    sy "Ça veut dire que tu t'attends à ce que ça soit aussi foutu ?"
+    sy "Ça veut dire que tu t'attends à ce que ça soit aussi foutu?"
 
 # game/code/d17/d17s05ms.rpy:134
 translate french d17s05ms_c1d497d2:
 
     # mh "*Laughs* Tea? Coffee? Some fresh juice perhaps?"
-    mh "*Rires* Du thé ? Café? Un jus de fruits frais peut-être ?"
+    mh "*Rires* Du thé? Café? Un jus de fruits frais peut-être?"
 
 # game/code/d17/d17s05ms.rpy:137
 translate french d17s05ms_9b6ab1bb:
@@ -248,7 +248,7 @@ translate french d17s05ms_9b6ab1bb:
 translate french d17s05ms_893545f5:
 
     # mh "Great. [mcname], you sure you don't want anything?"
-    mh "Super. [mcname], tu es sûr que tu ne veux rien ?"
+    mh "Super. [mcname], tu es sûr que tu ne veux rien?"
 
 # game/code/d17/d17s05ms.rpy:143
 translate french d17s05ms_98daeb95:
@@ -278,7 +278,7 @@ translate french d17s05ms_43531043:
 translate french d17s05ms_f80ba368:
 
     # sy "I have no clue what I'm doing!"
-    sy "Je n'ai aucune idée de ce que je fais !"
+    sy "Je n'ai aucune idée de ce que je fais!"
 
 # game/code/d17/d17s05ms.rpy:157
 translate french d17s05ms_1c9fe717:
@@ -290,7 +290,7 @@ translate french d17s05ms_1c9fe717:
 translate french d17s05ms_2ec91354:
 
     # mc "Lyssa! Where are the games? I can set 'em up while you do that."
-    mc "Lyssa ! Où sont les jeux ? Je peux les installer pendant que tu fais ça."
+    mc "Lyssa! Où sont les jeux? Je peux les installer pendant que tu fais ça."
 
 # game/code/d17/d17s05ms.rpy:163
 translate french d17s05ms_65f34967:
@@ -302,13 +302,13 @@ translate french d17s05ms_65f34967:
 translate french d17s05ms_63332afb:
 
     # mh "How about we play some Cards Against Humans? See where we go from there."
-    mh "Et si on jouait aux cartes Against Humans ? Voyez où nous allons à partir de là."
+    mh "Et si on jouait aux cartes Against Humans? Voyez où nous allons à partir de là."
 
 # game/code/d17/d17s05ms.rpy:173
 translate french d17s05ms_836758cd:
 
     # sy "Oh, that could be fun!"
-    sy "Oh, ça pourrait être amusant !"
+    sy "Oh, ça pourrait être amusant!"
 
 # game/code/d17/d17s05ms.rpy:176
 translate french d17s05ms_ccabab35:
@@ -326,19 +326,19 @@ translate french d17s05ms_2b2c20be:
 translate french d17s05ms_8d26754f:
 
     # mh "So... Who went to the bathroom most recently?"
-    mh "Alors... qui est allé aux toilettes le plus récemment ?"
+    mh "Alors... qui est allé aux toilettes le plus récemment?"
 
 # game/code/d17/d17s05ms.rpy:183
 translate french d17s05ms_bc9eef2a:
 
     # mc "I'm sorry, what?"
-    mc "Je suis désolé, quoi ?"
+    mc "Je suis désolé, quoi?"
 
 # game/code/d17/d17s05ms.rpy:186
 translate french d17s05ms_7a67e85b:
 
     # mh "Have you never played Cards Against Humans?"
-    mh "Tu n'as jamais joué aux cartes Against Humans ?"
+    mh "Tu n'as jamais joué aux cartes Against Humans?"
 
 # game/code/d17/d17s05ms.rpy:189
 translate french d17s05ms_918bef5e:
@@ -349,7 +349,7 @@ translate french d17s05ms_918bef5e:
 # game/code/d17/d17s05ms.rpy:192
 translate french d17s05ms_30df9cf2:
 
-    # mh "Well, the game starts by picking the most recent person that went uh...« potty. »"
+    # mh "Well, the game starts by picking the most recent person that went uh...\" potty.\""
     mh "Et bien, le jeu commence par choisir la personne la plus récente qui est allée euh... au chiotte."
 
 # game/code/d17/d17s05ms.rpy:195
@@ -362,7 +362,7 @@ translate french d17s05ms_947f8759:
 translate french d17s05ms_448cce68:
 
     # mc "Uhm, I think I might be the one that most recently took a shit then?"
-    mc "Euh, je pense que je pourrais être celui qui a chié le plus récemment, alors ?"
+    mc "Euh, je pense que je pourrais être celui qui a chié le plus récemment, alors?"
 
 # game/code/d17/d17s05ms.rpy:199
 translate french d17s05ms_687edec7:
@@ -379,14 +379,14 @@ translate french d17s05ms_3a3eb881:
 # game/code/d17/d17s05ms.rpy:207
 translate french d17s05ms_9f6c0018:
 
-    # mc "« Men like... »"
-    mc "« Les hommes aiment... »"
+    # mc "Men like..."
+    mc "Les hommes aiment..."
 
 # game/code/d17/d17s05ms.rpy:208
 translate french d17s05ms_cbf39a11:
 
     # mc "Oh this'll be fun. You two have to pick the most heinous white card, right?"
-    mc "Oh, ça va être amusant. Vous devez choisir toutes les deux la carte blanche la plus odieuse, c'est ça ?"
+    mc "Oh, ça va être amusant. Vous devez choisir toutes les deux la carte blanche la plus odieuse, c'est ça?"
 
 # game/code/d17/d17s05ms.rpy:211
 translate french d17s05ms_43e491ee:
@@ -403,14 +403,14 @@ translate french d17s05ms_6ad7a9cd:
 # game/code/d17/d17s05ms.rpy:221
 translate french d17s05ms_58dc21dd:
 
-    # mc "The cards you two picked are, « Men like... \"Women with daddy Issues.\""
+    # mc "The cards you two picked are, "Men like... \"Women with daddy Issues.\""
     mc "Les cartes que vous avez choisies sont : \"Les hommes aiment... Les femmes avec des problèmes de papa.\""
 
 # game/code/d17/d17s05ms.rpy:222
 translate french d17s05ms_f394a532:
 
-    # mc "and, « Men like... Shitting out a part of a turd, sucking it back in, and shitting it back out over and over so you're basically fucking yourself with your own shit... »"
-    mc "Et  « Les hommes aiment... Chier un morceau de crotte, l'aspirer à nouveau, et la chier encore et encore, donc en gros, tu te fous de toi-même avec ta propre merde... »"
+    # mc "and, \" Men like... Shitting out a part of a turd, sucking it back in, and shitting it back out over and over so you're basically fucking yourself with your own shit...\""
+    mc "Et  \" Les hommes aiment... Chier un morceau de crotte, l'aspirer à nouveau, et la chier encore et encore, donc en gros, tu te fous de toi-même avec ta propre merde...\""
 
 # game/code/d17/d17s05ms.rpy:225
 translate french d17s05ms_41880a7e:
@@ -458,7 +458,7 @@ translate french d17s05ms_c1981157:
 translate french d17s05ms_e95e1241:
 
     # mc "I'm playing the game the way it was meant to be played!"
-    mc "Je joue au jeu comme il se doit !"
+    mc "Je joue au jeu comme il se doit!"
 
 # game/code/d17/d17s05ms.rpy:261
 translate french d17s05ms_0967333f:
@@ -500,7 +500,7 @@ translate french d17s05ms_881c4397:
 translate french d17s05ms_5484cf21:
 
     # sy "It is! Thank you for inviting me over."
-    sy "C'est vrai ! Merci de m'avoir invité."
+    sy "C'est vrai! Merci de m'avoir invité."
 
 # game/code/d17/d17s05ms.rpy:283
 translate french d17s05ms_30592f4d:
@@ -512,7 +512,7 @@ translate french d17s05ms_30592f4d:
 translate french d17s05ms_4e098d40:
 
     # mh "You said you were still studying, right? Or I think it might've been [mcname] that said it."
-    mh "Tu as dit que tu étudiais, n'est-ce pas ? Ou je pense que c'est peut-être [mcname] qui l'a dit."
+    mh "Tu as dit que tu étudiais, n'est-ce pas? Ou je pense que c'est peut-être [mcname] qui l'a dit."
 
 # game/code/d17/d17s05ms.rpy:291
 translate french d17s05ms_33f0e9f8:
@@ -548,7 +548,7 @@ translate french d17s05ms_e8329c6c:
 translate french d17s05ms_8173f193:
 
     # mh "Oh? You applied to CPD?"
-    mh "Oh ? Tu as postulé au CPD ?"
+    mh "Oh? Tu as postulé au CPD?"
 
 # game/code/d17/d17s05ms.rpy:305
 translate french d17s05ms_52178f1a:
@@ -566,7 +566,7 @@ translate french d17s05ms_925db1c1:
 translate french d17s05ms_e5daed2f:
 
     # sy "Really? Wow, you must be well connected."
-    sy "Vraiment ? Wow, tu dois avoir beaucoup de relation."
+    sy "Vraiment? Wow, tu dois avoir beaucoup de relation."
 
 # game/code/d17/d17s05ms.rpy:314
 translate french d17s05ms_4bdfe8ba:
@@ -596,7 +596,7 @@ translate french d17s05ms_c6cecfdd:
 translate french d17s05ms_a7938c7d:
 
     # sy "No, yeah, that would be great! I, uhm, actually..."
-    sy "Non, ouais, ce serait génial ! Je, euh, en fait..."
+    sy "Non, ouais, ce serait génial! Je, euh, en fait..."
 
 # game/code/d17/d17s05ms.rpy:328
 translate french d17s05ms_fc6fc7ac:
@@ -608,7 +608,7 @@ translate french d17s05ms_fc6fc7ac:
 translate french d17s05ms_8ef66a5c:
 
     # mc "What have you two been gossiping about without me?"
-    mc "De quoi avez-vous bavardé sans moi ?"
+    mc "De quoi avez-vous bavardé sans moi?"
 
 # game/code/d17/d17s05ms.rpy:334
 translate french d17s05ms_2aafa8fd:
@@ -620,7 +620,7 @@ translate french d17s05ms_2aafa8fd:
 translate french d17s05ms_4f43e9fe:
 
     # mc "Oh yeah?"
-    mc "Oh ouais ?"
+    mc "Oh ouais?"
 
 # game/code/d17/d17s05ms.rpy:340
 translate french d17s05ms_925526c9:
@@ -644,7 +644,7 @@ translate french d17s05ms_d8309af7:
 translate french d17s05ms_8e166129:
 
     # mh "And you want me to see if I can get you that instead?"
-    mh "Et tu veux que je vois si je peux t'offrir ça à la place ?"
+    mh "Et tu veux que je vois si je peux t'offrir ça à la place?"
 
 # game/code/d17/d17s05ms.rpy:350
 translate french d17s05ms_fd8400f5:
@@ -668,7 +668,7 @@ translate french d17s05ms_72ecdcaa:
 translate french d17s05ms_b44fc933:
 
     # mc "Man, it sure is helpful having friends in high places, huh?"
-    mc "Ça aide vraiment d'avoir des amis haut placés, hein ?"
+    mc "Ça aide vraiment d'avoir des amis haut placés, hein?"
 
 # game/code/d17/d17s05ms.rpy:360
 translate french d17s05ms_380f3a59:
@@ -686,7 +686,7 @@ translate french d17s05ms_7f4a0c40:
 translate french d17s05ms_5180b0c1:
 
     # mh "Shall we get back to the game?"
-    mh "On retourne au jeu ?"
+    mh "On retourne au jeu?"
 
 # game/code/d17/d17s05ms.rpy:367
 translate french d17s05ms_f8b60313:
@@ -722,7 +722,7 @@ translate french d17s05ms_29ce3f2e:
 translate french d17s05ms_19c94722:
 
     # sy "And someone else said, A romantic, candlelit dinner would be incomplete without... *Chuckling* Fucking my sister."
-    sy "Et quelqu'un d'autre a dit : « Un dîner romantique aux chandelles serait incomplet sans... *rires* Je baise ma sœur. »"
+    sy "Et quelqu'un d'autre a dit : \"Un dîner romantique aux chandelles serait incomplet sans... *rires* Je baise ma sœur. \""
 
 # game/code/d17/d17s05ms.rpy:392
 translate french d17s05ms_c2182fbf:
@@ -752,25 +752,25 @@ translate french d17s05ms_b2c78739:
 translate french d17s05ms_d09f83d7:
 
     # mh "Oh?"
-    mh "Oh ?"
+    mh "Oh?"
 
 # game/code/d17/d17s05ms.rpy:404
 translate french d17s05ms_0357eabf:
 
     # mh "Are you two—?"
-    mh "Vous êtes tous les deux... ?"
+    mh "Vous êtes tous les deux...?"
 
 # game/code/d17/d17s05ms.rpy:407
 translate french d17s05ms_1fc0dfbb:
 
     # sy "What!? No, hah! Of course not."
-    sy "Quoi!? Non, ah ! Bien sûr que non."
+    sy "Quoi!? Non, ah! Bien sûr que non."
 
 # game/code/d17/d17s05ms.rpy:410
 translate french d17s05ms_4a2218aa:
 
     # mh "Oh my God. I don't believe you!"
-    mh "Oh mon Dieu. Je ne te crois pas !"
+    mh "Oh mon Dieu. Je ne te crois pas!"
 
 # game/code/d17/d17s05ms.rpy:413
 translate french d17s05ms_af415a9c:
@@ -800,7 +800,7 @@ translate french d17s05ms_834b86a7:
 translate french d17s05ms_303e220d:
 
     # sy "I— What?"
-    sy "Je... Quoi ?"
+    sy "Je... Quoi?"
 
 # game/code/d17/d17s05ms.rpy:428
 translate french d17s05ms_a76affa3:
@@ -812,7 +812,7 @@ translate french d17s05ms_a76affa3:
 translate french d17s05ms_f081a5ef:
 
     # mc "Alright. You want proof?"
-    mc "Très bien. Tu veux une preuve ?"
+    mc "Très bien. Tu veux une preuve?"
 
 # game/code/d17/d17s05ms.rpy:453
 translate french d17s05ms_af460b14:
@@ -848,7 +848,7 @@ translate french d17s05ms_d2829dfa:
 translate french d17s05ms_8f40946f:
 
     # mh "Oh, you didn't explain to her?"
-    mh "Oh, tu ne lui as pas expliqué ?"
+    mh "Oh, tu ne lui as pas expliqué?"
 
 # game/code/d17/d17s05ms.rpy:470
 translate french d17s05ms_f825409f:
@@ -902,7 +902,7 @@ translate french d17s05ms_ac8382a6:
 translate french d17s05ms_cba91f7c:
 
     # mh "So you don't have to worry about me knowing. Got it?"
-    mh "Alors tu n'as pas à t'inquiéter que je le sache. Compris ?"
+    mh "Alors tu n'as pas à t'inquiéter que je le sache. Compris?"
 
 # game/code/d17/d17s05ms.rpy:495
 translate french d17s05ms_96e9f8d5:
@@ -938,7 +938,7 @@ translate french d17s05ms_7dff4cbe:
 translate french d17s05ms_bdb9a6cc:
 
     # mh "You two want to continue playing?"
-    mh "Vous voulez continuer à jouer ?"
+    mh "Vous voulez continuer à jouer?"
 
 # game/code/d17/d17s05ms.rpy:513
 translate french d17s05ms_5e9a0238:
@@ -992,13 +992,13 @@ translate french d17s05ms_6afa3dd7:
 translate french d17s05ms_52d3ac68:
 
     # sy "Off with his head!"
-    sy "Coupe-lui la tête !"
+    sy "Coupe-lui la tête!"
 
 # game/code/d17/d17s05ms.rpy:550
 translate french d17s05ms_bd309634:
 
     # mc "This is tyranny!"
-    mc "C'est de la tyrannie !"
+    mc "C'est de la tyrannie!"
 
 # game/code/d17/d17s05ms.rpy:558
 translate french d17s05ms_c554c70c:
@@ -1022,7 +1022,7 @@ translate french d17s05ms_cfe447c7:
 translate french d17s05ms_7222a23f:
 
     # mc "Are you two seriously sleepy right now?"
-    mc "Vous avez vraiment sommeil en ce moment ?"
+    mc "Vous avez vraiment sommeil en ce moment?"
 
 # game/code/d17/d17s05ms.rpy:570
 translate french d17s05ms_634cfb6a:
@@ -1052,7 +1052,7 @@ translate french d17s05ms_60dd5920:
 translate french d17s05ms_d1eac3b7:
 
     # sy "Aww, do we have to?"
-    sy "Ahh, est-ce qu'on est obligé de le faire ?"
+    sy "Ahh, est-ce qu'on est obligé de le faire?"
 
 # game/code/d17/d17s05ms.rpy:586
 translate french d17s05ms_e8a46634:
@@ -1070,13 +1070,13 @@ translate french d17s05ms_2ab92e05:
 translate french d17s05ms_ea7c32c4:
 
     # sy "I— You—!"
-    sy "Je... tu... !"
+    sy "Je... tu...!"
 
 # game/code/d17/d17s05ms.rpy:593
 translate french d17s05ms_c28d1521:
 
     # mh "You were anxious? Why?"
-    mh "Tu étais anxieuse ? Pourquoi?"
+    mh "Tu étais anxieuse? Pourquoi?"
 
 # game/code/d17/d17s05ms.rpy:596
 translate french d17s05ms_688af9f2:
@@ -1106,7 +1106,7 @@ translate french d17s05ms_59aa8867:
 translate french d17s05ms_4cc34481:
 
     # mc "Why does it always come around to me being blamed?"
-    mc "Pourquoi est-ce qu'on me blâme toujours ?"
+    mc "Pourquoi est-ce qu'on me blâme toujours?"
 
 # game/code/d17/d17s05ms.rpy:609
 translate french d17s05ms_afe118df:
@@ -1135,8 +1135,8 @@ translate french d17s05ms_8a8091e3:
 # game/code/d17/d17s05ms.rpy:623
 translate french d17s05ms_dd43b5b2:
 
-    # mc "I'm not sure I'd call it « relaxing » exactly, though. I was fighting for my life out there."
-    mc "Je ne suis pas sûr d'appeler ça exactement « relaxant ». Je me battais pour ma vie."
+    # mc "I'm not sure I'd call it \" relaxing\" exactly, though. I was fighting for my life out there."
+    mc "Je ne suis pas sûr d'appeler ça exactement \" relaxant\". Je me battais pour ma vie."
 
 # game/code/d17/d17s05ms.rpy:631
 translate french d17s05ms_1794fc3c:
@@ -1166,7 +1166,7 @@ translate french d17s05ms_3f65b53c:
 translate french d17s05ms_3f058dd1:
 
     # mh "Be safe, alright?"
-    mh "Sois prudent, d'accord ?"
+    mh "Sois prudent, d'accord?"
 
 # game/code/d17/d17s05ms.rpy:653
 translate french d17s05ms_0817892e:
@@ -1178,7 +1178,7 @@ translate french d17s05ms_0817892e:
 translate french d17s05ms_9e458d2a:
 
     # sy "Heh, don't I get a kiss too?"
-    sy "Hé, je n'aurais pas un bisou aussi ?"
+    sy "Hé, je n'aurais pas un bisou aussi?"
 
 # game/code/d17/d17s05ms.rpy:661
 translate french d17s05ms_3c57babb:
@@ -1190,7 +1190,7 @@ translate french d17s05ms_3c57babb:
 translate french d17s05ms_96ab23d6:
 
     # mh "Happy?"
-    mh "Heureuse ?"
+    mh "Heureuse?"
 
 # game/code/d17/d17s05ms.rpy:674
 translate french d17s05ms_3928b1fa:
@@ -1238,7 +1238,7 @@ translate french d17s05ms_60c8c16b:
 translate french d17s05ms_2b0983e3:
 
     # sy "Hm? Yeah. Goodnight, Lyssa."
-    sy "Hum ? Ouais. Bonne nuit, Lyssa."
+    sy "Hum? Ouais. Bonne nuit, Lyssa."
 
 # game/code/d17/d17s05ms.rpy:710
 translate french d17s05ms_4da25e08:

@@ -2,25 +2,25 @@
 translate french d15s06_1d052d6c:
 
     # mct "Huh. Who is calling me?"
-    mct "Hein. Qui m'appelle ?"
+    mct "Hein. Qui m'appelle?"
 
 # game/code/d15/d15s06.rpy:80
 translate french d15s06_a6953c1d:
 
     # mc "Hey. Lyssa?"
-    mc "Hé. Lyssa ?"
+    mc "Hé. Lyssa?"
 
 # game/code/d15/d15s06.rpy:82
 translate french d15s06_bc672ce4:
 
     # mh "Hey. Are you busy right now?"
-    mh "Hé. Tu es occupé en ce moment ?"
+    mh "Hé. Tu es occupé en ce moment?"
 
 # game/code/d15/d15s06.rpy:85
 translate french d15s06_98a9acf6:
 
     # mc "No, is everything alright?"
-    mc "Non, est-ce que tout va bien ?"
+    mc "Non, est-ce que tout va bien?"
 
 # game/code/d15/d15s06.rpy:87
 translate french d15s06_8740b823:
@@ -44,19 +44,19 @@ translate french d15s06_b6e04664:
 translate french d15s06_eb834df9:
 
     # mc "Wait, what? Right now?"
-    mc "Attends, quoi ? Tout de suite ?"
+    mc "Attends, quoi? Tout de suite?"
 
 # game/code/d15/d15s06.rpy:97
 translate french d15s06_197edeec:
 
     # mh "Yes. Don't worry about dressing up. You'll be fine as is."
-    mh "Attends, quoi ? Tout de suite ?"
+    mh "Attends, quoi? Tout de suite?"
 
 # game/code/d15/d15s06.rpy:100
 translate french d15s06_2cec29e2:
 
     # mc "What if I'm naked right now?"
-    mc "Et si je suis nu en ce moment ?"
+    mc "Et si je suis nu en ce moment?"
 
 # game/code/d15/d15s06.rpy:102
 translate french d15s06_1c6493e1:
@@ -86,13 +86,13 @@ translate french d15s06_d7c09966:
 translate french d15s06_a6953c1d_1:
 
     # mc "Hey. Lyssa?"
-    mc"Hé. Lyssa ?"
+    mc"Hé. Lyssa?"
 
 # game/code/d15/d15s06.rpy:121
 translate french d15s06_bc672ce4_1:
 
     # mh "Hey. Are you busy right now?"
-    mh "Hé. Tu es occupé en ce moment ?"
+    mh "Hé. Tu es occupé en ce moment?"
 
 # game/code/d15/d15s06.rpy:123
 translate french d15s06_8114a09f:
@@ -128,7 +128,7 @@ translate french d15s06_b6e04664_1:
 translate french d15s06_eb834df9_1:
 
     # mc "Wait, what? Right now?"
-    mc "Attends, quoi ? Tout de suite ?"
+    mc "Attends, quoi? Tout de suite?"
 
 # game/code/d15/d15s06.rpy:134
 translate french d15s06_197edeec_1:
@@ -140,7 +140,7 @@ translate french d15s06_197edeec_1:
 translate french d15s06_2cec29e2_1:
 
     # mc "What if I'm naked right now?"
-    mc "Et si je suis nu en ce moment ?"
+    mc "Et si je suis nu en ce moment?"
 
 # game/code/d15/d15s06.rpy:137
 translate french d15s06_4643500e:
@@ -164,7 +164,7 @@ translate french d15s06_94dfa815:
 translate french d15s06_55db923e:
 
     # mh "What's a handsome little thing like you doing out here alone, hm?"
-    mh "Qu'est-ce qu'une belle petite chose comme toi fait ici seul, hm ?"
+    mh "Qu'est-ce qu'une belle petite chose comme toi fait ici seul, hm?"
 
 # game/code/d15/d15s06.rpy:167
 translate french d15s06_a0b43782:
@@ -182,7 +182,7 @@ translate french d15s06_5ee810c7:
 translate french d15s06_5d0f36c6:
 
     # mh "Why don't you forget about her and come with me? I'm sure I could..."
-    mh "Pourquoi ne l'oublies-tu pas et ne viens-tu pas avec moi ? Je suis sûr que je pourrais..."
+    mh "Pourquoi ne l'oublies-tu pas et ne viens-tu pas avec moi? Je suis sûr que je pourrais..."
 
 # game/code/d15/d15s06.rpy:173
 translate french d15s06_b7bc0101:
@@ -254,13 +254,13 @@ translate french d15s06_59571f7e:
 translate french d15s06_38288503:
 
     # op "Hiya!"
-    op "Salut !"
+    op "Salut!"
 
 # game/code/d15/d15s06.rpy:224
 translate french d15s06_8971613c:
 
     # mc "You're...{w} our driver?"
-    mc "Vous êtes...{w} notre chauffeur ?"
+    mc "Vous êtes...{w} notre chauffeur?"
 
 # game/code/d15/d15s06.rpy:227
 translate french d15s06_bd48798d:
@@ -278,13 +278,13 @@ translate french d15s06_53226ea5:
 translate french d15s06_360363d0:
 
     # op "Scenic route or the fast route?"
-    op "Route panoramique ou route rapide ?"
+    op "Route panoramique ou route rapide?"
 
 # game/code/d15/d15s06.rpy:236
 translate french d15s06_50bdc99f:
 
     # mh "What's the rush? I want to enjoy ourselves."
-    mh "Qu'est-ce qui est pressé ? Je veux nous amuser."
+    mh "Qu'est-ce qui est pressé? Je veux nous amuser."
 
 # game/code/d15/d15s06.rpy:239
 translate french d15s06_552f6731:
@@ -302,7 +302,7 @@ translate french d15s06_289d8872:
 translate french d15s06_21dd06c0:
 
     # mc "Where were we?"
-    mc "Où étions-nous ?"
+    mc "Où étions-nous?"
 
 # game/code/d15/d15s06.rpy:263
 translate french d15s06_cd8b9f64:
@@ -374,7 +374,7 @@ translate french d15s06_house_92ddbdb4:
 translate french d15s06_house_1bc43ab6:
 
     # mh "Huh? What's this?"
-    mh "Hein ? Qu'est-ce que c'est ?"
+    mh "Hein? Qu'est-ce que c'est?"
 
 # game/code/d15/d15s06.rpy:345
 translate french d15s06_house_65f898e7:
@@ -416,7 +416,7 @@ translate french d15s06_house_b3e488c2:
 translate french d15s06_house_0050c15f:
 
     # mh "Does it hurt you?"
-    mh "Est-ce que ça te fait mal ?"
+    mh "Est-ce que ça te fait mal?"
 
 # game/code/d15/d15s06.rpy:366
 translate french d15s06_house_b999aef4:
@@ -458,7 +458,7 @@ translate french d15s06_house_c7e94c22:
 translate french d15s06_house_488f6fc6:
 
     # mc "Mmm. Aren't you raring to go?"
-    mc "Mmm. Tu n'as pas hâte d'y aller ?"
+    mc "Mmm. Tu n'as pas hâte d'y aller?"
 
 # game/code/d15/d15s06.rpy:389
 translate french d15s06_house_712e2e14:
@@ -482,7 +482,7 @@ translate french d15s06_house_2f558f0c:
 translate french d15s06_house_5c1b5237:
 
     # mc "You like it, don't you?"
-    mc "Tu aimes ça, n'est-ce pas ?"
+    mc "Tu aimes ça, n'est-ce pas?"
 
 # game/code/d15/d15s06.rpy:400
 translate french d15s06_house_32acb959:
@@ -500,13 +500,13 @@ translate french d15s06_house_199d9315:
 translate french d15s06_house_63bab0ca:
 
     # mc "You're about cum, aren't you?"
-    mc "Tu es sur le point de jouir, n'est-ce pas ?"
+    mc "Tu es sur le point de jouir, n'est-ce pas?"
 
 # game/code/d15/d15s06.rpy:426
 translate french d15s06_house_1edcdb7d:
 
     # mc "Do you want me to make you cum?"
-    mc "Tu veux que je te fasse jouir ?"
+    mc "Tu veux que je te fasse jouir?"
 
 # game/code/d15/d15s06.rpy:427
 translate french d15s06_house_25951fb6:
@@ -518,7 +518,7 @@ translate french d15s06_house_25951fb6:
 translate french d15s06_house_2e2f8e41:
 
     # mc "Yes please who?"
-    mc "Oui, s'il te plaît, qui ?"
+    mc "Oui, s'il te plaît, qui?"
 
 # game/code/d15/d15s06.rpy:434
 translate french d15s06_house_7696660e:
@@ -536,7 +536,7 @@ translate french d15s06_house_87e26eb2:
 translate french d15s06_house_9f88b79e:
 
     # mc "Don't make me repeat it, okay?"
-    mc "Ne m'oblige pas à le répéter, d'accord ?"
+    mc "Ne m'oblige pas à le répéter, d'accord?"
 
 # game/code/d15/d15s06.rpy:452
 translate french d15s06_house_1b829755:
@@ -614,7 +614,7 @@ translate french d15s06_house_6002ea16:
 translate french d15s06_house_ec783adb:
 
     # mh "How was that, Sir?"
-    mh "Comment c'était, Monsieur ?"
+    mh "Comment c'était, Monsieur?"
 
 # game/code/d15/d15s06.rpy:501
 translate french d15s06_house_74ee891f:
@@ -626,7 +626,7 @@ translate french d15s06_house_74ee891f:
 translate french d15s06_house_f441918d:
 
     # mh "How was that?"
-    mh "Comment c'était ?"
+    mh "Comment c'était?"
 
 # game/code/d15/d15s06.rpy:505
 translate french d15s06_house_3c25ce2c:
@@ -668,7 +668,7 @@ translate french d15s06_house_c68c6107:
 translate french d15s06_house_ffe55632:
 
     # mh "Sir... May I fuck your ass, Sir?"
-    mh "Monsieur... Puis-je vous baiser le cul, Monsieur ?"
+    mh "Monsieur... Puis-je vous baiser le cul, Monsieur?"
 
 # game/code/d15/d15s06.rpy:528
 translate french d15s06_house_0a3b7887:
@@ -692,7 +692,7 @@ translate french d15s06_house_4bb679bb:
 translate french d15s06_house_61feea41:
 
     # mct "And I wonder what she'd feel like?"
-    mct "Et je me demande ce qu'elle ressentirait ?"
+    mct "Et je me demande ce qu'elle ressentirait?"
 
 # game/code/d15/d15s06.rpy:540
 translate french d15s06_house_6f801dd5:
@@ -740,7 +740,7 @@ translate french d15s06_house_ac398b86:
 translate french d15s06_house_35d46112:
 
     # mh "How does that feel? I'm not too big, am I?"
-    mh "Qu'est-ce que ça fait ? Je ne suis pas trop grand, n'est-ce pas ?"
+    mh "Qu'est-ce que ça fait? Je ne suis pas trop grand, n'est-ce pas?"
 
 # game/code/d15/d15s06.rpy:570
 translate french d15s06_house_9eaaf0e1:
@@ -830,13 +830,13 @@ translate french d15s06_house_f8e20de3:
 translate french d15s06_house_5036cb88:
 
     # mct "Fuck, how does this feel good!?"
-    mct "Putain, qu'est-ce que ça fait du bien !?"
+    mct "Putain, qu'est-ce que ça fait du bien!?"
 
 # game/code/d15/d15s06.rpy:678
 translate french d15s06_house_cee7e138:
 
     # mct "The cage feels like it's gonna burst!"
-    mct "On dirait que la cage va éclater !"
+    mct "On dirait que la cage va éclater!"
 
 # game/code/d15/d15s06.rpy:698
 translate french d15s06_house_cc79a600:
@@ -848,13 +848,13 @@ translate french d15s06_house_cc79a600:
 translate french d15s06_house_3250d2f7:
 
     # mc "Yeah! Lets go!"
-    mc"Ouais ! Allons-y !"
+    mc"Ouais! Allons-y!"
 
 # game/code/d15/d15s06.rpy:734
 translate french d15s06_house_e663372d:
 
     # mc "Fuuuck, Lyssa, I'm gonna fucking cum!"
-    mc "Fuuuck, Lyssa, je vais jouir putain !"
+    mc "Fuuuck, Lyssa, je vais jouir putain!"
 
 # game/code/d15/d15s06.rpy:758
 translate french d15s06_house_68b654e0:
@@ -902,7 +902,7 @@ translate french d15s06_house_37f8aeaf:
 translate french d15s06_house_8860d05f:
 
     # mc "Maybe we can just cuddle and talk? What do you think?"
-    mc "Peut-être qu'on pourrait juste se faire des câlins et parler ? Qu'en penses-tu ?"
+    mc "Peut-être qu'on pourrait juste se faire des câlins et parler? Qu'en penses-tu?"
 
 # game/code/d15/d15s06.rpy:781
 translate french d15s06_house_9c3479f9:
@@ -926,7 +926,7 @@ translate french d15s06_pillowtalk_5f1d9eb3:
 translate french d15s06_pillowtalk_54ede8e1:
 
     # mc "Wonder what Oliver's up to?"
-    mc "Je me demande ce que fait Oliver ?"
+    mc "Je me demande ce que fait Oliver?"
 
 # game/code/d15/d15s06.rpy:810
 translate french d15s06_pillowtalk_ce83ab0e:
@@ -950,7 +950,7 @@ translate french d15s06_pillowtalk_c15d806b:
 translate french d15s06_pillowtalk_3dc08474:
 
     # mh "The one that you threw?"
-    mh "Celui que tu as lancé ?"
+    mh "Celui que tu as lancé?"
 
 # game/code/d15/d15s06.rpy:838
 translate french d15s06_pillowtalk_cf1adef2:
@@ -974,13 +974,13 @@ translate french d15s06_pillowtalk_6c480847:
 translate french d15s06_pillowtalk_b2b2b038:
 
     # mh "Did you see him with a girl? He could use someone like that to be honest."
-    mh "L'as-tu vu avec une fille ? Il pourrait avoir besoin de quelqu'un comme ça pour être honnête."
+    mh "L'as-tu vu avec une fille? Il pourrait avoir besoin de quelqu'un comme ça pour être honnête."
 
 # game/code/d15/d15s06.rpy:847
 translate french d15s06_pillowtalk_dc3c9d63:
 
     # mc "About tha— Wait, are you saying that he needs to fuck some more to stop being so shy and timid?"
-    mc "À propos de… Attends, tu es en train de dire qu'il a besoin de baiser encore pour arrêter d'être si timide et timide ?"
+    mc "À propos de… Attends, tu es en train de dire qu'il a besoin de baiser encore pour arrêter d'être si timide et timide?"
 
 # game/code/d15/d15s06.rpy:849
 translate french d15s06_pillowtalk_76c98c3f:
@@ -998,13 +998,13 @@ translate french d15s06_pillowtalk_0f50e2e4:
 translate french d15s06_pillowtalk_4f4cb852:
 
     # mh "What were you going to say?"
-    mh "Qu'allais-tu dire ?"
+    mh "Qu'allais-tu dire?"
 
 # game/code/d15/d15s06.rpy:858
 translate french d15s06_pillowtalk_720dc31f:
 
     # mc "I'm like 86.59%% sure that he's interested in me and is sorta gay."
-    mc "Je suis sûr à 86,59% qu'il s'intéresse à moi et qu'il est plutôt gay."
+    mc "Je suis sûr à 86,59%% qu'il s'intéresse à moi et qu'il est plutôt gay."
 
 # game/code/d15/d15s06.rpy:861
 translate french d15s06_pillowtalk_80303ef9:
@@ -1016,7 +1016,7 @@ translate french d15s06_pillowtalk_80303ef9:
 translate french d15s06_pillowtalk_cbb7edac:
 
     # mh "God, how did I not notice it till now?"
-    mh "Mon Dieu, comment je ne l'ai pas remarqué jusqu'à maintenant ?"
+    mh "Mon Dieu, comment je ne l'ai pas remarqué jusqu'à maintenant?"
 
 # game/code/d15/d15s06.rpy:868
 translate french d15s06_pillowtalk_4ec1cb6c:
@@ -1052,7 +1052,7 @@ translate french d15s06_pillowtalk_4d333ed5:
 translate french d15s06_pillowtalk_c2ee9bda:
 
     # mh "*Fake gasp* The sneaky minx is trying to steal my man from under me!"
-    mh "*Faux halètement* Cette minx sournoise essaie de voler mon homme sous moi !"
+    mh "*Faux halètement* Cette minx sournoise essaie de voler mon homme sous moi!"
 
 # game/code/d15/d15s06.rpy:885
 translate french d15s06_pillowtalk_290938c8:
@@ -1106,7 +1106,7 @@ translate french d15s06_pillowtalk_1670b272:
 translate french d15s06_pillowtalk_d65d8c7a:
 
     # mh "What are you contemplating so deeply, hm?"
-    mh "A quoi réfléchis-tu si profondément, hm ?"
+    mh "A quoi réfléchis-tu si profondément, hm?"
 
 # game/code/d15/d15s06.rpy:911
 translate french d15s06_pillowtalk_3a58ef16:
@@ -1160,7 +1160,7 @@ translate french d15s06_pillowtalk_bffea011:
 translate french d15s06_pillowtalk_163f2b59:
 
     # mh "Are you hungry? I'll make something"
-    mh "Tu as faim ? Je vais préparer quelque chose"
+    mh "Tu as faim? Je vais préparer quelque chose"
 
 # game/code/d15/d15s06.rpy:940
 translate french d15s06_pillowtalk_d2488c62:
@@ -1196,7 +1196,7 @@ translate french d15s06_pillowtalk_b761493a:
 translate french d15s06_pillowtalk_584cdb21:
 
     # mc "And made by the amazing Melissa Harris of all people? I really am a lucky man."
-    mc "Et réalisé par l'incroyable Melissa Harris ? Je suis vraiment un homme chanceux."
+    mc "Et réalisé par l'incroyable Melissa Harris? Je suis vraiment un homme chanceux."
 
 # game/code/d15/d15s06.rpy:956
 translate french d15s06_pillowtalk_dc61be70:
@@ -1214,7 +1214,7 @@ translate french d15s06_kitchen_39afce87:
 translate french d15s06_kitchen_81741dd5:
 
     # mc "Are we gonna be cooking naked?"
-    mc "Est-ce qu'on va cuisiner nus ?"
+    mc "Est-ce qu'on va cuisiner nus?"
 
 # game/code/d15/d15s06.rpy:974
 translate french d15s06_kitchen_a8aaa7da:
@@ -1232,7 +1232,7 @@ translate french d15s06_kitchen_a66f9e39:
 translate french d15s06_kitchen_e8e49d2c:
 
     # mh "Right? This is one of my favorite dishes. I love the explosion of flavors."
-    mh "N'est-ce pas ? C'est l'un de mes plats préférés. J'adore l'explosion de saveurs."
+    mh "N'est-ce pas? C'est l'un de mes plats préférés. J'adore l'explosion de saveurs."
 
 # game/code/d15/d15s06.rpy:1023
 translate french d15s06_kitchen_809522c1:
@@ -1262,7 +1262,7 @@ translate french d15s06_kitchen_94104fdc:
 translate french d15s06_kitchen_65bf3354:
 
     # mh "Everything alright?"
-    mh "Tout va bien ?"
+    mh "Tout va bien?"
 
 # game/code/d15/d15s06.rpy:1038
 translate french d15s06_kitchen_ec2a61a4:
@@ -1328,13 +1328,13 @@ translate french d15s06_end_2c04e53f:
 translate french d15s06_end_f9272a43:
 
     # op "Did you two have fun?"
-    op "Vous vous êtes bien amusés tous les deux ?"
+    op "Vous vous êtes bien amusés tous les deux?"
 
 # game/code/d15/d15s06.rpy:1098
 translate french d15s06_end_9371c63f:
 
     # mc "Hm? Oh, yeah. It was great. I really need to up my date game."
-    mc "Hm ? Oh, ouais. C'était génial. J'ai vraiment besoin d'améliorer mon jeu de rendez-vous."
+    mc "Hm? Oh, ouais. C'était génial. J'ai vraiment besoin d'améliorer mon jeu de rendez-vous."
 
 # game/code/d15/d15s06.rpy:1101
 translate french d15s06_end_ffd83674:
@@ -1346,7 +1346,7 @@ translate french d15s06_end_ffd83674:
 translate french d15s06_end_2597200c:
 
     # mc "She talks about me?"
-    mc "Elle parle de moi ?"
+    mc "Elle parle de moi?"
 
 # game/code/d15/d15s06.rpy:1107
 translate french d15s06_end_d882a74c:
@@ -1370,13 +1370,13 @@ translate french d15s06_end_15a883b5:
 translate french d15s06_end_4ae26937:
 
     # mes "Hey can you come to Lydia's place now?"
-    mes "Hé, tu peux venir chez Lydia maintenant ?"
+    mes "Hé, tu peux venir chez Lydia maintenant?"
 
 # game/code/d15/d15s06.rpy:1117
 translate french d15s06_end_49ef765f:
 
     # mc "Sure I guess. What's up?"
-    mc "Bien sûr, je suppose. Quoi de neuf ?"
+    mc "Bien sûr, je suppose. Quoi de neuf?"
 
 # game/code/d15/d15s06.rpy:1119
 translate french d15s06_end_b3065beb:
@@ -1388,25 +1388,25 @@ translate french d15s06_end_b3065beb:
 translate french d15s06_end_07b5879c:
 
     # mct "Why does Min want me to come to Lydia's place all of a sudden?"
-    mct "Pourquoi Min veut-il que je vienne tout d'un coup chez Lydia ?"
+    mct "Pourquoi Min veut-il que je vienne tout d'un coup chez Lydia?"
 
 # game/code/d15/d15s06.rpy:1125
 translate french d15s06_end_b063725f:
 
     # mc "Hey, Oliver, instead of going to my place, can you drop me off somewhere else?"
-    mc "Hé, Oliver, au lieu d'aller chez moi, tu peux me déposer ailleurs ?"
+    mc "Hé, Oliver, au lieu d'aller chez moi, tu peux me déposer ailleurs?"
 
 # game/code/d15/d15s06.rpy:1128
 translate french d15s06_end_909025d0:
 
     # op "Sure, where do you want to go?"
-    op "Bien sûr, où veux-tu aller ?"
+    op "Bien sûr, où veux-tu aller?"
 
 # game/code/d15/d15s06.rpy:1131
 translate french d15s06_end_e686d6fc:
 
     # mc "Remember the place where I had the party?{w} Take me there."
-    mc "Tu te souviens de l'endroit où j'ai fait la fête ?{w} Prends-moi lere."
+    mc "Tu te souviens de l'endroit où j'ai fait la fête?{w} Prends-moi lere."
 
 # game/code/d15/d15s06.rpy:1134
 translate french d15s06_end_dcf174f4:
@@ -1424,7 +1424,7 @@ translate french d15s06_end_b92c1478:
 translate french d15s06_end_5de35a1f:
 
     # mc "So... How's everything been?"
-    mc "Alors... Comment ça s'est passé ?"
+    mc "Alors... Comment ça s'est passé?"
 
 # game/code/d15/d15s06.rpy:1148
 translate french d15s06_end_b7746bfe:
@@ -1442,7 +1442,7 @@ translate french d15s06_end_55982688:
 translate french d15s06_end_bc94f890:
 
     # op "Is..is this about what happened at the party?"
-    op  "Est-ce que c'est à propos de ce qui s'est passé à la fête ?"
+    op  "Est-ce que c'est à propos de ce qui s'est passé à la fête?"
 
 # game/code/d15/d15s06.rpy:1157
 translate french d15s06_end_4099f70b:
@@ -1490,7 +1490,7 @@ translate french d15s06_end_21fb92d7:
 translate french d15s06_end_b524fc43:
 
     # op "You've told her about me!?"
-    op "Tu lui as parlé de moi !?"
+    op "Tu lui as parlé de moi!?"
 
 # game/code/d15/d15s06.rpy:1176
 translate french d15s06_end_75650aed:
@@ -1574,7 +1574,7 @@ translate french d15s06_end_95076d15:
 translate french d15s06_end_0e745242:
 
     # mc "Hm. Have you told her yet?"
-    mc "Hm. Tu lui as déjà dit ?"
+    mc "Hm. Tu lui as déjà dit?"
 
 # game/code/d15/d15s06.rpy:1207
 translate french d15s06_end_7e712d43:
@@ -1592,7 +1592,7 @@ translate french d15s06_end_e492dd52:
 translate french d15s06_end_d4bab8be:
 
     # op "Wait, are {i}you{/i}—?"
-    op "Attendez, est-ce que {i}vous{/i}— ?"
+    op "Attendez, est-ce que {i}vous{/i}—?"
 
 # game/code/d15/d15s06.rpy:1213
 translate french d15s06_end_13a8b996:
@@ -1664,19 +1664,19 @@ translate french d15s06_end_2c20fa58:
 translate french d15s06_end_4df2f447:
 
     # flr "Congratulations! You also earned a GOLD STAR!"
-    flr "Félicitations ! Vous avez également gagné une ETOILE D'OR !"
+    flr "Félicitations! Vous avez également gagné une ETOILE D'OR!"
 
 # game/code/d15/d15s06.rpy:1248
 translate french d15s06_end_3549c985:
 
     # mct "Another one? What did I get this one for?"
-    mct "Encore une ? Pourquoi ai-je acheté celui-ci ?"
+    mct "Encore une? Pourquoi ai-je acheté celui-ci?"
 
 # game/code/d15/d15s06.rpy:1251
 translate french d15s06_end_a041029e:
 
     # mct "A gold star? What did I get this for?"
-    mct "Une étoile d'or ? Pourquoi ai-je eu ça ?"
+    mct "Une étoile d'or? Pourquoi ai-je eu ça?"
 
 # game/code/d15/d15s06.rpy:1254
 translate french d15s06_end_fd62af63:

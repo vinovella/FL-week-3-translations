@@ -2,31 +2,31 @@
 translate french d19s08_7107f1b7:
 
     # mct "Is Stacy not home?"
-    mct "Stacy n'est pas à la maison ?"
+    mct "Stacy n'est pas à la maison?"
 
 # game/code/d19/d19s08.rpy:39
 translate french d19s08_5c097ccd:
 
     # sy "Hello!? Did someone come in?"
-    sy "Bonjour !? Il y a quelqu'un qui est entré ?"
+    sy "Bonjour!? Il y a quelqu'un qui est entré?"
 
 # game/code/d19/d19s08.rpy:43
 translate french d19s08_a3d98269:
 
     # mc "Yeah! It's me!"
-    mc "Ouais ! C'est moi!"
+    mc "Ouais! C'est moi!"
 
 # game/code/d19/d19s08.rpy:47
 translate french d19s08_c4ee96db:
 
     # sy "Jesus, [mcname]! Don't sneak up on a girl like that! Christ."
-    sy "Merde [mcname] ! Ne surprends pas une fille comme ça ! Bordel."
+    sy "Merde [mcname]! Ne surprends pas une fille comme ça! Bordel."
 
 # game/code/d19/d19s08.rpy:51
 translate french d19s08_6ae9a97f:
 
     # mc "I knocked! You weren't there."
-    mc "J'ai frappé !"
+    mc "J'ai frappé!"
 
 # game/code/d19/d19s08.rpy:52
 translate french d19s08_2bf63ecd:
@@ -74,25 +74,25 @@ translate french d19s08_a545f62b:
 translate french d19s08_abcee40e:
 
     # mct "Oh wow!"
-    mct "Oh wow !"
+    mct "Oh wow!"
 
 # game/code/d19/d19s08.rpy:80
 translate french d19s08_31831625:
 
     # mct "Oh shit, right! I wanted to call Lyssa to talk about what to do with Zarah."
-    mct "Oh merde, c'est vrai ! Je voulais appeler Lyssa pour savoir quoi faire avec Zarah."
+    mct "Oh merde, c'est vrai! Je voulais appeler Lyssa pour savoir quoi faire avec Zarah."
 
 # game/code/d19/d19s08.rpy:82
 translate french d19s08_9ed673da:
 
     # mct "But is it even worth it? I {i}know{/i} that Zarah will not vote for me no matter what."
-    mct "Mais est-ce que ça vaut le coup ? Je {i}sache{/i} que Zarah ne votera pas pour moi quoi qu'il arrive."
+    mct "Mais est-ce que ça vaut le coup? Je {i}sache{/i} que Zarah ne votera pas pour moi quoi qu'il arrive."
 
 # game/code/d19/d19s08.rpy:83
 translate french d19s08_811695fa:
 
     # mct "What's the point of trying? It'd just be a waste of time anyway."
-    mct "A quoi ça sert d'essayer ? De toute façon, ce serait juste une perte de temps."
+    mct "A quoi ça sert d'essayer? De toute façon, ce serait juste une perte de temps."
 
 # game/code/d19/d19s08.rpy:89
 translate french d19s08_eb096e82:
@@ -110,7 +110,7 @@ translate french d19s08_57356ffb:
 translate french d19s08_036ce397:
 
     # mh "[mcname]? Miss me already?"
-    mh "[mcname] ? Je te manque déjà ?"
+    mh "[mcname]? Je te manque déjà?"
 
 # game/code/d19/d19s08.rpy:108
 translate french d19s08_c28bd21f:
@@ -170,13 +170,13 @@ translate french d19s08_7da54aa4:
 translate french d19s08_b714ea90:
 
     # mc "She will absolutely tank me no matter how well I— What's that sound?"
-    mc "Elle va absolument me tanker, peu importe à quel point je... c'est quoi ce bruit ?"
+    mc "Elle va absolument me tanker, peu importe à quel point je... c'est quoi ce bruit?"
 
 # game/code/d19/d19s08.rpy:129
 translate french d19s08_4838dcea:
 
     # mc "How are you doing? I know we haven't exactly been able to talk that much lately."
-    mc "Comment vas-tu ? Je sais que nous n'avons pas vraiment pu parler autant ces derniers temps."
+    mc "Comment vas-tu? Je sais que nous n'avons pas vraiment pu parler autant ces derniers temps."
 
 # game/code/d19/d19s08.rpy:132
 translate french d19s08_8611bf40:
@@ -188,13 +188,13 @@ translate french d19s08_8611bf40:
 translate french d19s08_28856802:
 
     # mh "I {i}have{/i} missed you, a little."
-    mh "Tu {/i}m'as{/i} un peu manqué."
+    mh "Tu {i}m'as{/i} un peu manqué."
 
 # game/code/d19/d19s08.rpy:136
 translate french d19s08_56a02c1a:
 
     # mc "Only a little? I'm sensing a lie."
-    mc "Seulement un peu ? Je sens un mensonge."
+    mc "Seulement un peu? Je sens un mensonge."
 
 # game/code/d19/d19s08.rpy:138
 translate french d19s08_f65a5919:
@@ -206,13 +206,13 @@ translate french d19s08_f65a5919:
 translate french d19s08_be99836a:
 
     # mc "*Sigh* I'm sorry, Lyssa. I— What's that sound?"
-    mc "*Soupir* Je suis désolé, Lyssa. Je... C'est quoi ce bruit ?"
+    mc "*Soupir* Je suis désolé, Lyssa. Je... C'est quoi ce bruit?"
 
 # game/code/d19/d19s08.rpy:144
 translate french d19s08_6292202b:
 
     # mh "...What sound?"
-    mh "...Quel bruit ?"
+    mh "...Quel bruit?"
 
 # game/code/d19/d19s08.rpy:148
 translate french d19s08_04c95104:
@@ -224,13 +224,13 @@ translate french d19s08_04c95104:
 translate french d19s08_ce527ce8:
 
     # mc "You're jerking off right now, are you?"
-    mc "Tu te branles en ce moment, n'est-ce pas ?"
+    mc "Tu te branles en ce moment, n'est-ce pas?"
 
 # game/code/d19/d19s08.rpy:153
 translate french d19s08_0422e76d:
 
     # mh "Absolutely not. What could possibly make you think that?"
-    mh "Absolument pas. Qu'est-ce qui pourrait bien te faire penser ça ?"
+    mh "Absolument pas. Qu'est-ce qui pourrait bien te faire penser ça?"
 
 # game/code/d19/d19s08.rpy:157
 translate french d19s08_7eeaa414:
@@ -350,7 +350,7 @@ translate french d19s08_8803674d:
 translate french d19s08_d81f879d:
 
     # mc "*Sigh* So in the end, talking with her is my only option, huh?"
-    mc "*Soupirs* Donc à la fin, parler avec elle est ma seule option, hein ?"
+    mc "*Soupirs* Donc à la fin, parler avec elle est ma seule option, hein?"
 
 # game/code/d19/d19s08.rpy:202
 translate french d19s08_67e02b8f:
@@ -374,19 +374,19 @@ translate french d19s08_4871d245:
 translate french d19s08_1adb0c3c:
 
     # mc "Oi, dummy! Lyssa says that you're smart."
-    mc "Oh, idiote ! Lyssa dit que tu es intelligente."
+    mc "Oh, idiote! Lyssa dit que tu es intelligente."
 
 # game/code/d19/d19s08.rpy:213
 translate french d19s08_54d540ae:
 
     # sy "*High-pitched noises of elation* AREYOUONCALLWITHLYSSARIGHTNOW?"
-    sy "*Bruits aigus d'exaltation* TU AS UN APPEL AVEC LYSSA MAINTENANT ?"
+    sy "*Bruits aigus d'exaltation* TU AS UN APPEL AVEC LYSSA MAINTENANT?"
 
 # game/code/d19/d19s08.rpy:214
 translate french d19s08_d232cf46:
 
     # sy "Tell her to come over!"
-    sy "Dis-lui de venir !"
+    sy "Dis-lui de venir!"
 
 # game/code/d19/d19s08.rpy:217
 translate french d19s08_3d4e06d4:
@@ -404,7 +404,7 @@ translate french d19s08_d4c6998b:
 translate french d19s08_9cbf2aa8:
 
     # mc "I barely even tease her!"
-    mc "Je la taquine à peine !"
+    mc "Je la taquine à peine!"
 
 # game/code/d19/d19s08.rpy:223
 translate french d19s08_42b4b617:
@@ -428,7 +428,7 @@ translate french d19s08_e7608abd:
 translate french d19s08_a4fc5b00:
 
     # mc "Are you free tomorrow?"
-    mc "Tu es libre demain ?"
+    mc "Tu es libre demain?"
 
 # game/code/d19/d19s08.rpy:231
 translate french d19s08_1367b8a9:
@@ -506,19 +506,19 @@ translate french d19s08_5c88c4c1:
 translate french d19s08_fee9bc20:
 
     # mc "Oi, dummy! Lyssa says that we should go on a date, all three."
-    mc "Oh, idiote ! Lyssa dit que nous devrions avoir un rendez-vous tous les trois."
+    mc "Oh, idiote! Lyssa dit que nous devrions avoir un rendez-vous tous les trois."
 
 # game/code/d19/d19s08.rpy:265
 translate french d19s08_54d540ae_1:
 
     # sy "*High-pitched noises of elation* AREYOUONCALLWITHLYSSARIGHTNOW?"
-    sy "*Bruits aigus d'exaltation* TU AS UN APPEL AVEC LYSSA MAINTENANT ?"
+    sy "*Bruits aigus d'exaltation* TU AS UN APPEL AVEC LYSSA MAINTENANT?"
 
 # game/code/d19/d19s08.rpy:266
 translate french d19s08_d232cf46_1:
 
     # sy "Tell her to come over!"
-    sy "Dis-lui de venir !"
+    sy "Dis-lui de venir!"
 
 # game/code/d19/d19s08.rpy:269
 translate french d19s08_3451ac07:
@@ -536,7 +536,7 @@ translate french d19s08_d4c6998b_1:
 translate french d19s08_9cbf2aa8_1:
 
     # mc "I barely even tease her!"
-    mc "Je la taquine à peine !"
+    mc "Je la taquine à peine!"
 
 # game/code/d19/d19s08.rpy:275
 translate french d19s08_50f5d27b:
@@ -560,7 +560,7 @@ translate french d19s08_ced82187:
 translate french d19s08_2387ac05:
 
     # mc "You sure are in high demand tonight, huh?"
-    mc "Tu es sûr, tu es très demandé ce soir, hein ?"
+    mc "Tu es sûr, tu es très demandé ce soir, hein?"
 
 # game/code/d19/d19s08.rpy:287
 translate french d19s08_6d282c74:
@@ -599,3 +599,4 @@ translate french strings:
     # game/code/d19/d19s08.rpy:158
     old "Ask for a picture"
     new "Demande une photo"
+

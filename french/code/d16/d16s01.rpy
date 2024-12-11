@@ -2,7 +2,7 @@
 translate french d16s01_66e01943:
 
     # sy "Oh shit, it compiled on the first try! That doesn't bode well..."
-    sy "Oh merde, c'est compilé du premier coup ! Ça n'augure rien de bon..."
+    sy "Oh merde, c'est compilé du premier coup! Ça n'augure rien de bon..."
 
 # game/code/d16/d16s01.rpy:26
 translate french d16s01_a20cefa7:
@@ -74,7 +74,7 @@ translate french d16s01_e205fc38:
 translate french d16s01_887e498b:
 
     # mc "You two didn't get a lick of sleep last night, did you?"
-    mc "Vous n'avez pas dormi un peu la nuit dernière, n'est-ce pas ?"
+    mc "Vous n'avez pas dormi un peu la nuit dernière, n'est-ce pas?"
 
 # game/code/d16/d16s01.rpy:110
 translate french d16s01_fa532572:
@@ -92,7 +92,7 @@ translate french d16s01_47876170:
 translate french d16s01_0f2e2912:
 
     # sy "Working title: {b}Fetish-Locator-Locator-Inator™{/b}."
-    sy "Titre provisoire : {b}Fetish-Locator-Locator-Inator™{/b}."
+    sy "Titre provisoire: {b}Fetish-Locator-Locator-Inator™{/b}."
 
 # game/code/d16/d16s01.rpy:119
 translate french d16s01_ce907ec8:
@@ -122,7 +122,7 @@ translate french d16s01_b6fc2dde:
 translate french d16s01_ddc04b62:
 
     # sy "With only a 36.72%% chance of blowing up in your face!"
-    sy "Avec seulement 36,72%% de chances de vous exploser au visage !"
+    sy "Avec seulement 36,72%% de chances de vous exploser au visage!"
 
 # game/code/d16/d16s01.rpy:136
 translate french d16s01_e4546705:
@@ -134,7 +134,7 @@ translate french d16s01_e4546705:
 translate french d16s01_d81db1dc:
 
     # mc "Woah, you should be. This is great!"
-    mc "Woah, tu devrais l'être. C'est génial !"
+    mc "Woah, tu devrais l'être. C'est génial!"
 
 # game/code/d16/d16s01.rpy:142
 translate french d16s01_f9b6f25d:
@@ -176,7 +176,7 @@ translate french d16s01_aa80ef70:
 translate french d16s01_f713aeb6:
 
     # mc "Are you sure that it is ready?"
-    mc "Es-tu sûr que c'est prêt ?"
+    mc "Es-tu sûr que c'est prêt?"
 
 # game/code/d16/d16s01.rpy:164
 translate french d16s01_f7160c32:
@@ -224,7 +224,7 @@ translate french d16s01_34351075:
 translate french d16s01_a2a49102:
 
     # mc "That's great. So all I have to do is just connect to Fetish Locator and we'll get its location?"
-    mc "C'est super. Donc tout ce que j'ai à faire c'est simplement de me connecter à Fetish Locator et nous obtiendrons sa localisation ?"
+    mc "C'est super. Donc tout ce que j'ai à faire c'est simplement de me connecter à Fetish Locator et nous obtiendrons sa localisation?"
 
 # game/code/d16/d16s01.rpy:186
 translate french d16s01_6517cb86:
@@ -278,7 +278,7 @@ translate french d16s01_9c483341:
 translate french d16s01_a278c733:
 
     # mc "Still, what do we do about that then? Or are we just dead in the water?"
-    mc "Pourtant, que faisons-nous à ce sujet alors ? Ou sommes-nous simplement morts dans l'eau ?"
+    mc "Pourtant, que faisons-nous à ce sujet alors? Ou sommes-nous simplement morts dans l'eau?"
 
 # game/code/d16/d16s01.rpy:211
 translate french d16s01_f626f797:
@@ -374,13 +374,13 @@ translate french d16s01_e31627a6:
 translate french d16s01_9fd9f3f2:
 
     # mc "Speaking of which. What kind of data do we need to give it?"
-    mc "En parlant de ça. De quel type de données avons-nous besoin pour lui fournir ?"
+    mc "En parlant de ça. De quel type de données avons-nous besoin pour lui fournir?"
 
 # game/code/d16/d16s01.rpy:246
 translate french d16s01_5002f737:
 
     # mc "I'm guessing I can't just open and close the app a bunch of times and be done with it?"
-    mc "Je suppose que je ne peux pas simplement ouvrir et fermer l'application plusieurs fois et en finir avec elle ?"
+    mc "Je suppose que je ne peux pas simplement ouvrir et fermer l'application plusieurs fois et en finir avec elle?"
 
 # game/code/d16/d16s01.rpy:249
 translate french d16s01_dfb80f38:
@@ -446,7 +446,7 @@ translate french d16s01_643eeddb:
 translate french d16s01_f8c4c766:
 
     # mc "Everything alright?"
-    mc "Tout va bien ?"
+    mc "Tout va bien?"
 
 # game/code/d16/d16s01.rpy:277
 translate french d16s01_fdf97050:
@@ -464,7 +464,7 @@ translate french d16s01_824c8852:
 translate french d16s01_3b88d080:
 
     # mc "I need to wash up first though. Can you wait for me?"
-    mc "Mais je dois d'abord me laver. Pouvez-vous m'attendre ?"
+    mc "Mais je dois d'abord me laver. Pouvez-vous m'attendre?"
 
 # game/code/d16/d16s01.rpy:285
 translate french d16s01_58678aea:
@@ -488,7 +488,7 @@ translate french d16s01_489c170f:
 translate french d16s01_f6570e6b:
 
     # sy "Hey! Be careful!"
-    sy "Hé ! Fais attention !"
+    sy "Hé! Fais attention!"
 
 # game/code/d16/d16s01.rpy:302
 translate french d16s01_7499d70f:
@@ -500,7 +500,7 @@ translate french d16s01_7499d70f:
 translate french d16s01_89c03462:
 
     # mc "I'll be out in a bit!"
-    mc "Je serai dehors dans un instant !"
+    mc "Je serai dehors dans un instant!"
 
 # game/code/d16/d16s01.rpy:306
 translate french d16s01_fa3a59b5:

@@ -38,7 +38,7 @@ translate french d19s05_20c3377c:
 translate french d19s05_876b945d:
 
     # mct "I need something to wake me up. AmRose has a bath here, doesn't she...?"
-    mct "J'ai besoin de quelque chose pour me réveiller. AmRose prend un bain ici, n'est-ce pas... ?"
+    mct "J'ai besoin de quelque chose pour me réveiller. AmRose prend un bain ici, n'est-ce pas...?"
 
 # game/code/d19/d19s05.rpy:91
 translate french d19s05_1f2f2a2e:
@@ -80,7 +80,7 @@ translate french d19s05_minigame_c9c3c71d:
 translate french d19s05_after_minigame_4dcd0d3e:
 
     # mct "For the first time in weeks, I actually feel like I learned something. I might actually have a chance here!"
-    mct "Pour la première fois depuis des semaines, j'ai l'impression d'avoir appris quelque chose. J'ai peut-être une chance ici !"
+    mct "Pour la première fois depuis des semaines, j'ai l'impression d'avoir appris quelque chose. J'ai peut-être une chance ici!"
 
 # game/code/d19/d19s05.rpy:299
 translate french d19s05_after_minigame_475bb67e:
@@ -92,13 +92,13 @@ translate french d19s05_after_minigame_475bb67e:
 translate french d19s05_after_minigame_87a927db:
 
     # mct "Now if I can just get the judges on my side, I'm sure I can ace this!"
-    mct "Maintenant, si je peux juste avoir les juges de mon côté, je suis sûr que je peux réussir !"
+    mct "Maintenant, si je peux juste avoir les juges de mon côté, je suis sûr que je peux réussir!"
 
 # game/code/d19/d19s05.rpy:308
 translate french d19s05_after_minigame_0e903342:
 
     # mct "All that work just to end up back on square one. I've learned jack shit!"
-    mct "Tout ce travail juste pour revenir à la case départ. J'ai appris de la merde !"
+    mct "Tout ce travail juste pour revenir à la case départ. J'ai appris de la merde!"
 
 # game/code/d19/d19s05.rpy:309
 translate french d19s05_after_minigame_9aa6a2fb:
@@ -115,3 +115,4 @@ translate french strings:
     # game/code/d19/d19s05.rpy:284
     old "Your total score is {}"
     new "Ton score total est de {}"
+

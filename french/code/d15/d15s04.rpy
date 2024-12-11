@@ -2,19 +2,19 @@
 translate french d15s04_a13bdd91:
 
     # mct "Hm. I got some time to kill. Wonder what I should do?"
-    mct "Hm. J'ai du temps à tuer. Je me demande ce que je devrais faire ?"
+    mct "Hm. J'ai du temps à tuer. Je me demande ce que je devrais faire?"
 
 # game/code/d15/d15s04.rpy:31
 translate french d15s04_9f527ffc:
 
     # mk "Hey can you meet me today? The place you and AmRose sent me to."
-    mk "Hé, peux-tu me rencontrer aujourd'hui ? L'endroit où toi et AmRose m'avez envoyé."
+    mk "Hé, peux-tu me rencontrer aujourd'hui? L'endroit où toi et AmRose m'avez envoyé."
 
 # game/code/d15/d15s04.rpy:33
 translate french d15s04_d15b5473:
 
     # mct "Maria? What does she want?"
-    mct "Maria ? Que veut-elle ?"
+    mct "Maria? Que veut-elle?"
 
 # game/code/d15/d15s04.rpy:36
 translate french d15s04_0b6ea275:
@@ -26,19 +26,19 @@ translate french d15s04_0b6ea275:
 translate french d15s04_7e4ded34:
 
     # mct "Now what?"
-    mct "Et maintenant ?"
+    mct "Et maintenant?"
 
 # game/code/d15/d15s04.rpy:44
 translate french d15s04_ba007f2d:
 
     # mes "Hey can you come to Lydia's place a bit later?"
-    mes "Hé, tu peux venir chez Lydia un peu plus tard ?"
+    mes "Hé, tu peux venir chez Lydia un peu plus tard?"
 
 # game/code/d15/d15s04.rpy:47
 translate french d15s04_49ef765f:
 
     # mc "Sure I guess. What's up?"
-    mc "Bien sûr, je suppose. Quoi de neuf ?"
+    mc "Bien sûr, je suppose. Quoi de neuf?"
 
 # game/code/d15/d15s04.rpy:48
 translate french d15s04_b3065beb:
@@ -56,7 +56,7 @@ translate french d15s04_84f16542:
 translate french d15s04_aea53328:
 
     # mc "What should I do now?" nointeract
-    mc "Que dois-je faire maintenant ? ne pas interagir"
+    mc "Que dois-je faire maintenant? ne pas interagir"
 
 # game/code/d15/d15s04.rpy:57
 translate french d15s04_c448f643:
@@ -109,7 +109,7 @@ translate french d15s04_67a8b4aa:
 translate french d15s04_f92f8d1f:
 
     # mct "Hm... I wonder if I have enough time to write a will?"
-    mct "Hm... je me demande si j'ai assez de temps pour rédiger un testament ?"
+    mct "Hm... je me demande si j'ai assez de temps pour rédiger un testament?"
 
 # game/code/d15/d15s04.rpy:97
 translate french d15s04_a6b44dbe:
@@ -133,7 +133,7 @@ translate french d15s04_7725a5d4:
 translate french d15s04_3aa67ef3:
 
     # dd "Hey you free?"
-    dd "Hé, tu es libre ?"
+    dd "Hé, tu es libre?"
 
 # game/code/d15/d15s04.rpy:106
 translate french d15s04_db6882f8:
@@ -145,7 +145,7 @@ translate french d15s04_db6882f8:
 translate french d15s04_55bafd6d:
 
     # dd "Haha perfect timing. I was wondering if you could pick me up?"
-    dd "Haha, timing parfait. Je me demandais si tu pouvais venir me chercher ?"
+    dd "Haha, timing parfait. Je me demandais si tu pouvais venir me chercher?"
 
 # game/code/d15/d15s04.rpy:111
 translate french d15s04_dcaba903:
@@ -157,7 +157,7 @@ translate french d15s04_dcaba903:
 translate french d15s04_3bc88a55:
 
     # mct "When? Is everything alright?"
-    mct "Quand ? Est-ce que tout va bien ?"
+    mct "Quand? Est-ce que tout va bien?"
 
 # game/code/d15/d15s04.rpy:116
 translate french d15s04_d4d8f96f:
@@ -181,7 +181,7 @@ translate french d15s04_7e053e33:
 translate french d15s04_37511836:
 
     # mct "Dorm?"
-    mct "Dortoir ?"
+    mct "Dortoir?"
 
 # game/code/d15/d15s04.rpy:125
 translate french d15s04_4e4b315f:
@@ -211,7 +211,7 @@ translate french d15s04_f18826f5:
 translate french d15s04_2ff711c8:
 
     # dd "Great! I'll be waiting."
-    dd "Super ! J'attendrai."
+    dd "Super! J'attendrai."
 
 # game/code/d15/d15s04.rpy:136
 translate french d15s04_64d401e5:

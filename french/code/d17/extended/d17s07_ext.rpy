@@ -2,7 +2,7 @@
 translate french d17s07_ext_360a8ee5:
 
     # mct "Seems like Jessie sent me a text. \"Can you come over? Please.\""
-    mct "On dirait que Jessie m'a envoyé un texto. \"Tu peux venir ? S'il te plaît.\""
+    mct "On dirait que Jessie m'a envoyé un texto. \"Tu peux venir? S'il te plaît.\""
 
 # game/code/d17/extended/d17s07_ext.rpy:55
 translate french d17s07_ext_cb7a1173:
@@ -38,7 +38,7 @@ translate french d17s07_ext_571843c0:
 translate french d17s07_ext_598cbda9:
 
     # mc "What's up? You alright?"
-    mc "Quoi de neuf ? Ça va ?"
+    mc "Quoi de neuf? Ça va?"
 
 # game/code/d17/extended/d17s07_ext.rpy:73
 translate french d17s07_ext_7643c293:
@@ -68,7 +68,7 @@ translate french d17s07_ext_ea54f9a3:
 translate french d17s07_ext_ab5e0ffa:
 
     # jf "I've never really been all that honest, have I?"
-    jf "Je n'ai jamais vraiment été aussi honnête, n'est-ce pas ?"
+    jf "Je n'ai jamais vraiment été aussi honnête, n'est-ce pas?"
 
 # game/code/d17/extended/d17s07_ext.rpy:95
 translate french d17s07_ext_dfac120e:
@@ -92,7 +92,7 @@ translate french d17s07_ext_0ed3abc5:
 translate french d17s07_ext_436d1313:
 
     # jf "Like a normal girl?"
-    jf "Comme une fille normale ?"
+    jf "Comme une fille normale?"
 
 # game/code/d17/extended/d17s07_ext.rpy:115
 translate french d17s07_ext_d92439d9:
@@ -164,19 +164,19 @@ translate french d17s07_ext_75df400e:
 translate french d17s07_ext_c7c8bd04:
 
     # mc "Do you feel better now?"
-    mc "Est-ce que tu te sens mieux maintenant ??"
+    mc "Est-ce que tu te sens mieux maintenant??"
 
 # game/code/d17/extended/d17s07_ext.rpy:299
 translate french d17s07_ext_36091a3b:
 
     # jf "You didn't believe me for a second did you?"
-    jf "Tu ne m'as pas cru une seconde, n'est-ce pas ?"
+    jf "Tu ne m'as pas cru une seconde, n'est-ce pas?"
 
 # game/code/d17/extended/d17s07_ext.rpy:302
 translate french d17s07_ext_2a8c112f:
 
     # mc "Would you have?"
-    mc  L'aurais-tu fait ?
+    mc  "L'aurais-tu fait?"
 
 # game/code/d17/extended/d17s07_ext.rpy:305
 translate french d17s07_ext_2518141d:
@@ -194,7 +194,7 @@ translate french d17s07_ext_cfd27420:
 translate french d17s07_ext_fe54932d:
 
     # mc "Do you want to talk about anything?"
-    mc "Veux-tu parler de quelque chose ?"
+    mc "Veux-tu parler de quelque chose?"
 
 # game/code/d17/extended/d17s07_ext.rpy:317
 translate french d17s07_ext_6b292323:
@@ -206,13 +206,13 @@ translate french d17s07_ext_6b292323:
 translate french d17s07_ext_d77fb916:
 
     # mc "You asked me if I liked you, like a \"normal girl\"."
-    mc "Tu m'as demandé si je t'aimais, comme une "fille normale"."
+    mc "Tu m'as demandé si je t'aimais, comme une \"fille normale\"."
 
 # game/code/d17/extended/d17s07_ext.rpy:323
 translate french d17s07_ext_ace89548:
 
     # jf "*Smiles* I did, didn't I?"
-    jf "*Sourit* Je l'ai fait, n'est-ce pas ?"
+    jf "*Sourit* Je l'ai fait, n'est-ce pas?"
 
 # game/code/d17/extended/d17s07_ext.rpy:324
 translate french d17s07_ext_99a71a50:
@@ -224,13 +224,13 @@ translate french d17s07_ext_99a71a50:
 translate french d17s07_ext_7f7d1aeb:
 
     # mc "You're about to get your period?"
-    mc "Tu es sur le point d'avoir tes règles ?"
+    mc "Tu es sur le point d'avoir tes règles?"
 
 # game/code/d17/extended/d17s07_ext.rpy:335
 translate french d17s07_ext_d9fbe98f:
 
     # mc "*Laughing* Sorry!"
-    mc "*Rire* Désolé !"
+    mc "*Rire* Désolé!"
 
 # game/code/d17/extended/d17s07_ext.rpy:338
 translate french d17s07_ext_b27ba66d:
@@ -332,7 +332,7 @@ translate french d17s07_ext_02ec3fe6:
 translate french d17s07_ext_60f741d8:
 
     # jf "Who cares if Mirim Arotsu gets feelings for someone but then gets those feelings crushed. She isn't real, right? *Sad chuckle*"
-    jf "Peu importe si Mirim Arotsu éprouve des sentiments pour quelqu'un mais que ces sentiments sont ensuite écrasés. Elle n'est pas réelle, n'est-ce pas ? *Rire triste*"
+    jf "Peu importe si Mirim Arotsu éprouve des sentiments pour quelqu'un mais que ces sentiments sont ensuite écrasés. Elle n'est pas réelle, n'est-ce pas? *Rire triste*"
 
 # game/code/d17/extended/d17s07_ext.rpy:371
 translate french d17s07_ext_32bd2707:
@@ -344,7 +344,7 @@ translate french d17s07_ext_32bd2707:
 translate french d17s07_ext_0105e50c:
 
     # jf "God, maybe my period {i}is{/i} starting."
-    jf "Mon Dieu, peut-être que mes règles {/i}commencent{/i}."
+    jf "Mon Dieu, peut-être que mes règles {i}commencent{/i}."
 
 # game/code/d17/extended/d17s07_ext.rpy:379
 translate french d17s07_ext_c98b31fd:
@@ -356,7 +356,7 @@ translate french d17s07_ext_c98b31fd:
 translate french d17s07_ext_1914c827:
 
     # mc "Jessie. Do you have something to say to me?"
-    mc "Jessie. As-tu quelque chose à me dire ?"
+    mc "Jessie. As-tu quelque chose à me dire?"
 
 # game/code/d17/extended/d17s07_ext.rpy:392
 translate french d17s07_ext_d98f7d81:
@@ -404,7 +404,7 @@ translate french d17s07_ext_9b36ef1f:
 translate french d17s07_ext_8422dc2b:
 
     # jf "*Sniffling* Can we still be friends?"
-    jf "*Reniflant* Pouvons-nous toujours être amis ?"
+    jf "*Reniflant* Pouvons-nous toujours être amis?"
 
 # game/code/d17/extended/d17s07_ext.rpy:417
 translate french d17s07_ext_1bf60051:
@@ -428,7 +428,7 @@ translate french d17s07_ext_25d45362:
 translate french d17s07_ext_77c50657:
 
     # jf "Oh! I'm so sorry!"
-    jf "Oh ! Je suis vraiment désolé !"
+    jf "Oh! Je suis vraiment désolé!"
 
 # game/code/d17/extended/d17s07_ext.rpy:440
 translate french d17s07_ext_30c9edb8:
@@ -452,7 +452,7 @@ translate french d17s07_ext_6b242045:
 translate french d17s07_ext_3b64f817:
 
     # mc "Next part? How many parts are there?"
-    mc "Partie suivante ? Combien y a-t-il de parties ?"
+    mc "Partie suivante? Combien y a-t-il de parties?"
 
 # game/code/d17/extended/d17s07_ext.rpy:452
 translate french d17s07_ext_773c6a26:
@@ -464,7 +464,7 @@ translate french d17s07_ext_773c6a26:
 translate french d17s07_ext_9fc91e94:
 
     # jf "I told you about my aunt, right?"
-    jf "Je t'ai parlé de ma tante, n'est-ce pas ?"
+    jf "Je t'ai parlé de ma tante, n'est-ce pas?"
 
 # game/code/d17/extended/d17s07_ext.rpy:456
 translate french d17s07_ext_9637fff8:
@@ -482,19 +482,19 @@ translate french d17s07_ext_464bb70e:
 translate french d17s07_ext_d23f732d:
 
     # jf "I'm getting her farm estate!"
-    jf "Je récupère son domaine agricole !"
+    jf "Je récupère son domaine agricole!"
 
 # game/code/d17/extended/d17s07_ext.rpy:463
 translate french d17s07_ext_2f9b64c6:
 
     # mc "That's great! Wait, is it?"
-    mc "C'est super ! Attends, n'est-ce pas ?"
+    mc "C'est super! Attends, n'est-ce pas?"
 
 # game/code/d17/extended/d17s07_ext.rpy:466
 translate french d17s07_ext_709ab2b7:
 
     # jf "I wasn't sure at first, but I thought about it some more and, yeah, I think it's great!"
-    jf "Je n'étais pas sûr au début, mais j'y ai réfléchi encore et, oui, je trouve ça génial !"
+    jf "Je n'étais pas sûr au début, mais j'y ai réfléchi encore et, oui, je trouve ça génial!"
 
 # game/code/d17/extended/d17s07_ext.rpy:467
 translate french d17s07_ext_5daa645e:
@@ -506,7 +506,7 @@ translate french d17s07_ext_5daa645e:
 translate french d17s07_ext_e4c75b8a:
 
     # jf "Something like this might be just what I need to set up my workshop properly!"
-    jf "Quelque chose comme ça pourrait être exactement ce dont j'ai besoin pour aménager correctement mon atelier !"
+    jf "Quelque chose comme ça pourrait être exactement ce dont j'ai besoin pour aménager correctement mon atelier!"
 
 # game/code/d17/extended/d17s07_ext.rpy:475
 translate french d17s07_ext_87986acb:
@@ -608,13 +608,13 @@ translate french d17s07_ext_83495ed0:
 translate french d17s07_ext_08de1fb5:
 
     # mc "Promise to stay in touch?"
-    mc "Promis de rester en contact ?"
+    mc "Promis de rester en contact?"
 
 # game/code/d17/extended/d17s07_ext.rpy:528
 translate french d17s07_ext_c18eff2f:
 
     # jf "Of course! You're not getting rid of me that easily."
-    jf "Bien sûr ! Tu ne te débarrasseras pas de moi si facilement."
+    jf "Bien sûr! Tu ne te débarrasseras pas de moi si facilement."
 
 # game/code/d17/extended/d17s07_ext.rpy:542
 translate french d17s07_end_cf220f30:

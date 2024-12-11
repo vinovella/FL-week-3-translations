@@ -2,19 +2,19 @@
 translate french d20s06_c4a32281:
 
     # mct "Is that Lyssa's car?"
-    mct "C'est la voiture de Lyssa ?"
+    mct "C'est la voiture de Lyssa?"
 
 # game/code/d20/d20s06.rpy:46
 translate french d20s06_49a0506a:
 
     # op "Hey! It's great to see you!"
-    op "Hé ! C'est bon de te voir!"
+    op "Hé! C'est bon de te voir!"
 
 # game/code/d20/d20s06.rpy:51
 translate french d20s06_9f9c3dc7:
 
     # mc "Hey! Same here. For a sec I thought Lyssa was going to be joining in as well."
-    mc "Hé ! Pareil ici. Pendant une seconde, j'ai pensé que Lyssa allait également se joindre à nous."
+    mc "Hé! Pareil ici. Pendant une seconde, j'ai pensé que Lyssa allait également se joindre à nous."
 
 # game/code/d20/d20s06.rpy:54
 translate french d20s06_780588a1:
@@ -38,7 +38,7 @@ translate french d20s06_ae8d8df0:
 translate french d20s06_2681b642:
 
     # mc "What is this?"
-    mc "Qu'est-ce que c'est ?"
+    mc "Qu'est-ce que c'est?"
 
 # game/code/d20/d20s06.rpy:67
 translate french d20s06_00a6e120:
@@ -56,7 +56,7 @@ translate french d20s06_868ff2d6:
 translate french d20s06_cdf7410d:
 
     # op "Oh, I didn't buy it! My landlady has a nice garden and I thought about you and..."
-    op "Oh, je ne l'ai pas acheté ! Ma logeuse a un joli jardin et j'ai pensé à toi et..."
+    op "Oh, je ne l'ai pas acheté! Ma logeuse a un joli jardin et j'ai pensé à toi et..."
 
 # game/code/d20/d20s06.rpy:76
 translate french d20s06_487cc80e:
@@ -86,13 +86,13 @@ translate french d20s06_e5742c49:
 translate french d20s06_731f0798:
 
     # mc "Oh, this? Thanks, but don't worry about it. I'm coming straight from my finals, so I'm the one that's overdressed here."
-    mc "Oh, ça ? Merci, mais ne vous inquiétez pas. Je reviens tout droit de mes examens, donc c'est moi qui suis trop habillé ici."
+    mc "Oh, ça? Merci, mais ne vous inquiétez pas. Je reviens tout droit de mes examens, donc c'est moi qui suis trop habillé ici."
 
 # game/code/d20/d20s06.rpy:94
 translate french d20s06_a75d21a3:
 
     # op "Oh? You had your finals today? How'd it go?"
-    op "Oh ? Tu as eu tes examens aujourd'hui ? Comment ça s'est-il passé?"
+    op "Oh? Tu as eu tes examens aujourd'hui? Comment ça s'est-il passé?"
 
 # game/code/d20/d20s06.rpy:98
 translate french d20s06_8fbefc84:
@@ -110,7 +110,7 @@ translate french d20s06_afa294d8:
 translate french d20s06_2e708197:
 
     # op "Fuck yeah! That's great to hear."
-    op "Putain ouais ! C'est bon à entendre."
+    op "Putain ouais! C'est bon à entendre."
 
 # game/code/d20/d20s06.rpy:107
 translate french d20s06_a65ed318:
@@ -128,7 +128,7 @@ translate french d20s06_14f2d80e:
 translate french d20s06_031f4b17:
 
     # op "Hey, a win is a win, right?"
-    op "Hé, une victoire est une victoire, non ?"
+    op "Hé, une victoire est une victoire, non?"
 
 # game/code/d20/d20s06.rpy:114
 translate french d20s06_716019b8:
@@ -164,19 +164,19 @@ translate french d20s06_b583ec43:
 translate french d20s06_4db03926:
 
     # mc "What about you?"
-    mc "Et toi ?"
+    mc "Et toi?"
 
 # game/code/d20/d20s06.rpy:133
 translate french d20s06_d24609fb:
 
     # op "Hm? What about me?"
-    op "Hum ? Et moi?"
+    op "Hum? Et moi?"
 
 # game/code/d20/d20s06.rpy:136
 translate french d20s06_aa77c4f1:
 
     # mc "Do you not have any exams or whatever?"
-    mc "Tu n'as pas d'examens ou quoi ?"
+    mc "Tu n'as pas d'examens ou quoi?"
 
 # game/code/d20/d20s06.rpy:139
 translate french d20s06_9e7743a3:
@@ -194,13 +194,13 @@ translate french d20s06_cd83b6eb:
 translate french d20s06_0453e361:
 
     # mc "Really? Huh, that's interesting. I've been meaning to ask what you did for ages now."
-    mc "Vraiment ? Euh, c'est intéressant. Je voulais te demander ce que tu as fait depuis des lustres maintenant."
+    mc "Vraiment? Euh, c'est intéressant. Je voulais te demander ce que tu as fait depuis des lustres maintenant."
 
 # game/code/d20/d20s06.rpy:146
 translate french d20s06_7df5afa8:
 
     # op "You didn't know? What did you think I was doing?"
-    op "Tu ne savais pas ? Que pensais-tu que je faisais ?"
+    op "Tu ne savais pas? Que pensais-tu que je faisais?"
 
 # game/code/d20/d20s06.rpy:149
 translate french d20s06_d03eb177:
@@ -236,13 +236,13 @@ translate french d20s06_b6c19f2e:
 translate french d20s06_c220849d:
 
     # mc "What are we gonna be watching, by the way? Did you have anything planned?"
-    mc "Qu'est-ce qu'on va regarder, au fait ? Aviez-vous quelque chose de prévu ?"
+    mc "Qu'est-ce qu'on va regarder, au fait? Aviez-vous quelque chose de prévu?"
 
 # game/code/d20/d20s06.rpy:168
 translate french d20s06_3848feb0:
 
     # op "Oh, yes. I found a nice French movie that I thought might be nice. It's called \"Amélie.\" Have you heard of it?"
-    op "Oh, oui. J'ai trouvé un bon film français qui me semblait peut-être sympa. Ça s'appelle \"Amélie.\" Tu en as entendu parler ?"
+    op "Oh, oui. J'ai trouvé un bon film français qui me semblait peut-être sympa. Ça s'appelle \"Amélie.\" Tu en as entendu parler?"
 
 # game/code/d20/d20s06.rpy:171
 translate french d20s06_115a7891:
@@ -272,13 +272,13 @@ translate french d20s06_29108510:
 translate french d20s06_61829ebb:
 
     # op "Yep!"
-    op "Ouais !"
+    op "Ouais!"
 
 # game/code/d20/d20s06.rpy:195
 translate french d20s06_694f1dea:
 
     # op "Hey... Would you mind if I put my head on your shoulder?"
-    op "Hé... Ça te dérangerait si je mets ma tête sur ton épaule ?"
+    op "Hé... Ça te dérangerait si je mets ma tête sur ton épaule?"
 
 # game/code/d20/d20s06.rpy:198
 translate french d20s06_d79d36da:
@@ -290,13 +290,13 @@ translate french d20s06_d79d36da:
 translate french d20s06_b635d06e:
 
     # mc "Oliver? What are you doing?"
-    mc "Oliver ? Que fais-tu?"
+    mc "Oliver? Que fais-tu?"
 
 # game/code/d20/d20s06.rpy:228
 translate french d20s06_15032104:
 
     # op "I... Do you want me to stop?"
-    op "Je... Tu veux que j'arrête ?"
+    op "Je... Tu veux que j'arrête?"
 
 # game/code/d20/d20s06.rpy:231
 translate french d20s06_fd22e77e:
@@ -326,7 +326,7 @@ translate french d20s06_ab1452dc:
 translate french d20s06_33f0086e:
 
     # "Employee" "Hey! You two! You can't do that here!"
-    "Employé" "Hé ! Toi aussi! Vous ne pouvez pas faire ça ici !"
+    "Employé" "Hé! Toi aussi! Vous ne pouvez pas faire ça ici!"
 
 # game/code/d20/d20s06.rpy:277
 translate french d20s06_c316efd8:
@@ -356,13 +356,13 @@ translate french d20s06_7cad15aa:
 translate french d20s06_00c83c67:
 
     # op "I know! It was kinda exciting."
-    op "Je sais ! C'était plutôt excitant."
+    op "Je sais! C'était plutôt excitant."
 
 # game/code/d20/d20s06.rpy:295
 translate french d20s06_49c46858:
 
     # op "Do you, uhm, want to continue in the car?"
-    op "Tu veux continuer dans la voiture ?"
+    op "Tu veux continuer dans la voiture?"
 
 # game/code/d20/d20s06.rpy:298
 translate french d20s06_bc78f11b:
@@ -404,7 +404,7 @@ translate french d20s06_48af2446:
 translate french d20s06_2e684139:
 
     # op "[mcname]? What are you—?"
-    op "[mcname] ? Qu'est-ce que tu es-?"
+    op "[mcname]? Qu'est-ce que tu es-?"
 
 # game/code/d20/d20s06.rpy:390
 translate french d20s06_be2e857d:
@@ -440,7 +440,7 @@ translate french d20s06_16b11a77:
 translate french d20s06_5474fbb5:
 
     # mc "All ready to go, huh?"
-    mc "Tout est prêt à partir, hein ?"
+    mc "Tout est prêt à partir, hein?"
 
 # game/code/d20/d20s06.rpy:415
 translate french d20s06_2ac732ac:
@@ -458,7 +458,7 @@ translate french d20s06_6e9abe15:
 translate french d20s06_bf24e17a:
 
     # op "*Staggered moans* [mcname], I'm gonna c-cum!"
-    op "*Gémissements décalés* [mcname], je vais jouir !"
+    op "*Gémissements décalés* [mcname], je vais jouir!"
 
 # game/code/d20/d20s06.rpy:446
 translate french d20s06_acc5afa0:
@@ -482,7 +482,7 @@ translate french d20s06_e5585a76:
 translate french d20s06_71fb43c5:
 
     # op "You're amazing!"
-    op "Tu es incroyable !"
+    op "Tu es incroyable!"
 
 # game/code/d20/d20s06.rpy:470
 translate french d20s06_7ab10b16:
@@ -506,7 +506,7 @@ translate french d20s06_bdf4ba29:
 translate french d20s06_4622265b:
 
     # op "*Chuckles* Yeah, we should. But uhm... Would you mind if we stayed like this for just a bit longer?"
-    op "*Rires* Ouais, nous devrions. Mais euh... Ça te dérangerait si nous restions comme ça encore un peu ?"
+    op "*Rires* Ouais, nous devrions. Mais euh... Ça te dérangerait si nous restions comme ça encore un peu?"
 
 # game/code/d20/d20s06.rpy:498
 translate french d20s06_c2eb53da:
@@ -523,3 +523,4 @@ translate french strings:
     # game/code/d20/d20s06.rpy:471
     old "Eat Oliver's cum"
     new "Mange le sperme d'Oliver"
+

@@ -20,7 +20,7 @@ translate french d20s04_5e842538:
 translate french d20s04_dc4b0614:
 
     # mct "\"RU Okay? I'm about to take my final exams. Can it wait until after that?\""
-    mct "\"D'accord ? Je suis sur le point de passer mes examens finaux. Ça peut attendre après ça?\""
+    mct "\"D'accord? Je suis sur le point de passer mes examens finaux. Ça peut attendre après ça?\""
 
 # game/code/d20/d20s04.rpy:38
 translate french d20s04_376cd0fa:
@@ -44,19 +44,19 @@ translate french d20s04_a03f01e6:
 translate french d20s04_a244f320:
 
     # mct "Oliver?"
-    mct "Oliver ?"
+    mct "Oliver?"
 
 # game/code/d20/d20s04.rpy:51
 translate french d20s04_bd7408ae:
 
     # mc "Hello? Oliver?"
-    mc "Bonjour ? Olivier ?"
+    mc "Bonjour? Olivier?"
 
 # game/code/d20/d20s04.rpy:53
 translate french d20s04_714b9446:
 
     # op "Hey, hi, [mcname]! Uhm, I'm not bothering you, am I?"
-    op "Hé, salut, [mcname] ! Euh, je ne vous dérange pas, n'est-ce pas ?"
+    op "Hé, salut, [mcname]! Euh, je ne vous dérange pas, n'est-ce pas?"
 
 # game/code/d20/d20s04.rpy:55
 translate french d20s04_d5f8af4e:
@@ -68,7 +68,7 @@ translate french d20s04_d5f8af4e:
 translate french d20s04_d5b5e247:
 
     # op "Uh, do you remember when I, uhm, asked if you were free this week?"
-    op "Tu te souviens quand je t'ai demandé si tu étais libre cette semaine ?"
+    op "Tu te souviens quand je t'ai demandé si tu étais libre cette semaine?"
 
 # game/code/d20/d20s04.rpy:59
 translate french d20s04_a91c304d:
@@ -86,7 +86,7 @@ translate french d20s04_a7776486:
 translate french d20s04_42e379e3:
 
     # mc "Oliver, calm down. I remember. Are you calling to ask if I'm free today?"
-    mc "Oliver, calme-toi. Je m'en souviens. Tu appelles pour me demander si je suis libre aujourd'hui ?"
+    mc "Oliver, calme-toi. Je m'en souviens. Tu appelles pour me demander si je suis libre aujourd'hui?"
 
 # game/code/d20/d20s04.rpy:65
 translate french d20s04_26580048:
@@ -110,19 +110,19 @@ translate french d20s04_cc9bbdc5:
 translate french d20s04_d05a6a49:
 
     # mc "How does that sound?"
-    mc "Ça te dit quoi ?"
+    mc "Ça te dit quoi?"
 
 # game/code/d20/d20s04.rpy:73
 translate french d20s04_e33e1ff8:
 
     # op "That sounds great! I was thinking we could go watch a movie, or uh, something like that."
-    op "Ça a l'air génial ! Je pensais qu'on pourrait aller voir un film, ou quelque chose comme ça."
+    op "Ça a l'air génial! Je pensais qu'on pourrait aller voir un film, ou quelque chose comme ça."
 
 # game/code/d20/d20s04.rpy:75
 translate french d20s04_83c97d36:
 
     # mc "*Chuckles* A movie sounds great, Oliver. How about I call you when I'm free then?"
-    mc "*rires* Un film à l'air génial, Oliver. Et si je t'appelais quand je serai libre alors ?"
+    mc "*rires* Un film à l'air génial, Oliver. Et si je t'appelais quand je serai libre alors?"
 
 # game/code/d20/d20s04.rpy:76
 translate french d20s04_4e637203:
@@ -236,7 +236,7 @@ translate french d20s04_tl_03716724:
 translate french d20s04_tl_8d29c93e:
 
     # mc "Am I permitted to take any other position than standing upright here?"
-    mc "Suis-je autorisé à prendre une autre position que de me tenir debout ici ?"
+    mc "Suis-je autorisé à prendre une autre position que de me tenir debout ici?"
 
 # game/code/d20/d20s04.rpy:140
 translate french d20s04_tl_31947ed0:
@@ -272,7 +272,7 @@ translate french d20s04_tl_b3a7c5dc:
 translate french d20s04_tl_66cbc6a4:
 
     # mc "I'm sorry, what was the question?"
-    mc "Je suis désolé, quelle était la question ?"
+    mc "Je suis désolé, quelle était la question?"
 
 # game/code/d20/d20s04.rpy:161
 translate french d20s04_tl_79e8de0c:
@@ -338,7 +338,7 @@ translate french d20s04_tl_8bd9ed77:
 translate french d20s04_tl_80bd254d:
 
     # mc "Uhh... of course. What else could I be referring to?"
-    mc "Euh... bien sûr. A quoi d'autre pourrais-je faire référence ?"
+    mc "Euh... bien sûr. A quoi d'autre pourrais-je faire référence?"
 
 # game/code/d20/d20s04.rpy:190
 translate french d20s04_tl_add74bd1:
@@ -350,7 +350,7 @@ translate french d20s04_tl_add74bd1:
 translate french d20s04_tl_2620e82d:
 
     # mc "1992, All Ladies Do It?"
-    mc "1992, Toutes les dames le font ?"
+    mc "1992, Toutes les dames le font?"
 
 # game/code/d20/d20s04.rpy:196
 translate french d20s04_tl_79f72d2e:
@@ -362,7 +362,7 @@ translate french d20s04_tl_79f72d2e:
 translate french d20s04_tl_622ec643:
 
     # mc "Umm... yes?"
-    mc "Euh... Oui ?"
+    mc "Euh... Oui?"
 
 # game/code/d20/d20s04.rpy:199
 translate french d20s04_tl_f4496bcc:
@@ -374,7 +374,7 @@ translate french d20s04_tl_f4496bcc:
 translate french d20s04_tl_85ece5ce:
 
     # mc "Is that the last of the questions?"
-    mc "C'est la dernière des questions ?"
+    mc "C'est la dernière des questions?"
 
 # game/code/d20/d20s04.rpy:205
 translate french d20s04_tl_484e6fa1:
@@ -398,7 +398,7 @@ translate french d20s04_tl_854d8130:
 translate french d20s04_tl_75b6cb32:
 
     # mc "Was it close?"
-    mc "C'était proche ?"
+    mc "C'était proche?"
 
 # game/code/d20/d20s04.rpy:216
 translate french d20s04_tl_3453c172:
@@ -469,8 +469,8 @@ translate french d20s04_rn_qa_22a48ec2:
 # game/code/d20/d20s04.rpy:261
 translate french d20s04_rn_qa_edb0901e:
 
-    # rn "Who famously wrote, « Death may beget life, but oppression can beget nothing other than itsel?"
-    rn "Qui a écrit, « La mort peut engendrer la vie, mais l'oppression ne peut engendrer rien d'autre qu'elle-même » ?"
+    # rn "Who famously wrote, \" Death may beget life, but oppression can beget nothing other than itsel?"
+    rn "Qui a écrit, \" La mort peut engendrer la vie, mais l'oppression ne peut engendrer rien d'autre qu'elle-même\"?"
 
 # game/code/d20/d20s04.rpy:264
 translate french d20s04_rn_qa_a0716513:
@@ -608,13 +608,13 @@ translate french d20s04_zw_03293aad:
 translate french d20s04_zw_a87aa640:
 
     # zw "Are you prepared?"
-    zw "Es-tu prêt ?"
+    zw "Es-tu prêt?"
 
 # game/code/d20/d20s04.rpy:341
 translate french d20s04_zw_79215d7a:
 
     # mc "Do I have a choice?"
-    mc "Est-ce que j'ai le choix ?"
+    mc "Est-ce que j'ai le choix?"
 
 # game/code/d20/d20s04.rpy:344
 translate french d20s04_zw_7b7ac9bd:
@@ -632,13 +632,13 @@ translate french d20s04_zw_0b802acd:
 translate french d20s04_zw_qa_65b1d7a8:
 
     # zw "Good enough.{w} Question 1."
-    zw "Ça suffit.{w} Question 1."
+    zw "Ça suffit.{w} Question1."
 
 # game/code/d20/d20s04.rpy:355
 translate french d20s04_zw_qa_0c90e855:
 
     # zw "Sun Tzu famously wrote, \"The Art of War\". In that book, what is the supreme art of war?"
-    zw "Sun Tzu a écrit \"L'art de la guerre\". Dans ce livre, quel est l'art suprême de la guerre ?"
+    zw "Sun Tzu a écrit \"L'art de la guerre\". Dans ce livre, quel est l'art suprême de la guerre?"
 
 # game/code/d20/d20s04.rpy:365
 translate french d20s04_zw_qa_087eec4e:
@@ -662,19 +662,19 @@ translate french d20s04_zw_qa_b92713a2:
 translate french d20s04_zw_qa_2318a1a5:
 
     # mct "That's easy.{w} Oh fuck!"
-    mct "C'est facile.{w} Oh putain !"
+    mct "C'est facile.{w} Oh putain!"
 
 # game/code/d20/d20s04.rpy:382
 translate french d20s04_zw_qa_9803af1a:
 
     # mct "I know this. Why is my mind completely blank?"
-    mct "Je sais ça. Pourquoi mon esprit est-il complètement vide ?"
+    mct "Je sais ça. Pourquoi mon esprit est-il complètement vide?"
 
 # game/code/d20/d20s04.rpy:383
 translate french d20s04_zw_qa_7c8bf0b9:
 
     # mct "Think brain think!!!"
-    mct "Pense cerveau ...pense !!!"
+    mct "Pense cerveau ...pense!!!"
 
 # game/code/d20/d20s04.rpy:401
 translate french d20s04_zw_qa_087eec4e_1:
@@ -722,7 +722,7 @@ translate french d20s04_zw_qa_331a0051:
 translate french d20s04_zw_qa_01918773:
 
     # rn "Miss Wallace, are we going to be here all day with this?"
-    rn "Miss Wallace, allons-nous rester ici toute la journée avec ça ?"
+    rn "Miss Wallace, allons-nous rester ici toute la journée avec ça?"
 
 # game/code/d20/d20s04.rpy:447
 translate french d20s04_zw_qa_abcf150e:
@@ -770,25 +770,25 @@ translate french d20s04_zw_wrong_7f5db7c4:
 translate french d20s04_zw_wrong_97d33089:
 
     # zw "Three weeks ago, I saw a tattooed whore leaving your dorm room. What was she doing there?"
-    zw "Il y a trois semaines, j'ai vu une pute tatouée quitter ton dortoir. Qu'est-ce qu'elle faisait là ?"
+    zw "Il y a trois semaines, j'ai vu une pute tatouée quitter ton dortoir. Qu'est-ce qu'elle faisait là?"
 
 # game/code/d20/d20s04.rpy:473
 translate french d20s04_zw_wrong_d620ed46:
 
     # rn "I must object!"
-    rn "Je dois m'y opposer !"
+    rn "Je dois m'y opposer!"
 
 # game/code/d20/d20s04.rpy:476
 translate french d20s04_zw_wrong_d78ccbd5:
 
     # tl "I must object!"
-    tl "Je dois m'y opposer !"
+    tl "Je dois m'y opposer!"
 
 # game/code/d20/d20s04.rpy:479
 translate french d20s04_zw_wrong_d557b1fc:
 
     # mc "What?! How is that even a question?!"
-    mc "Quoi?! Comment est-ce même une question ?!"
+    mc "Quoi?! Comment est-ce même une question?!"
 
 # game/code/d20/d20s04.rpy:482
 translate french d20s04_zw_wrong_92c838df:
@@ -806,7 +806,7 @@ translate french d20s04_zw_wrong_abcf150e:
 translate french d20s04_zw_wrong_5a61a16c:
 
     # rn "Noted.{w} Do I make myself clear?"
-    rn "C'est noté.{w} Suis-je clair ?"
+    rn "C'est noté.{w} Suis-je clair?"
 
 # game/code/d20/d20s04.rpy:491
 translate french d20s04_zw_wrong_2c05702c:
@@ -854,7 +854,7 @@ translate french d20s04_zw_wrong_f8786ace:
 translate french d20s04_zw_wrong_8d30382e:
 
     # rn "Hmm.{w} Theresa, what do you think?"
-    rn "Hmm.{w} Theresa, qu'en penses-tu ?"
+    rn "Hmm.{w} Theresa, qu'en penses-tu?"
 
 # game/code/d20/d20s04.rpy:515
 translate french d20s04_zw_wrong_af446d87:
@@ -884,7 +884,7 @@ translate french d20s04_zw_wrong_4f70858c:
 translate french d20s04_zw_wrong_8a340642:
 
     # mc "What does that mean?"
-    mc "Qu'est-ce que ça veut dire ?"
+    mc "Qu'est-ce que ça veut dire?"
 
 # game/code/d20/d20s04.rpy:530
 translate french d20s04_zw_wrong_7fab63ac:
@@ -902,7 +902,7 @@ translate french d20s04_zw_wrong_ad4fd01c:
 translate french d20s04_zw_wrong_a93cf401:
 
     # zw "Fine.{w} Do you need me to repeat the question, [mcname]?"
-    zw "Très bien.{w} As-tu besoin que je répète la question, [mcname] ?"
+    zw "Très bien.{w} As-tu besoin que je répète la question, [mcname]?"
 
 # game/code/d20/d20s04.rpy:538
 translate french d20s04_zw_wrong_496eed91:
@@ -914,7 +914,7 @@ translate french d20s04_zw_wrong_496eed91:
 translate french d20s04_zw_wrong_b26656d8:
 
     # zw "Three weeks ago, I saw a tattooed whore leaving your dorm room. What had she been doing there?"
-    zw "Il y a trois semaines, j'ai vu une pute tatouée quitter ton dortoir. Qu'est-ce qu'elle faisait là-bas ?"
+    zw "Il y a trois semaines, j'ai vu une pute tatouée quitter ton dortoir. Qu'est-ce qu'elle faisait là-bas?"
 
 # game/code/d20/d20s04.rpy:542
 translate french d20s04_zw_wrong_f6ef1880:
@@ -944,7 +944,7 @@ translate french d20s04_zw_wrong_9f87bb70:
 translate french d20s04_zw_wrong_c2ee9226:
 
     # zw "That's it?"
-    zw "C'est ça ?"
+    zw "C'est ça?"
 
 # game/code/d20/d20s04.rpy:554
 translate french d20s04_zw_wrong_dc96fa56:
@@ -992,7 +992,7 @@ translate french d20s04_zw_wrong_a9793360:
 translate french d20s04_zw_wrong_e1bbb1e2:
 
     # zw "Why-?"
-    zw "Pourquoi ?"
+    zw "Pourquoi?"
 
 # game/code/d20/d20s04.rpy:583
 translate french d20s04_zw_wrong_9ec65998:
@@ -1082,7 +1082,7 @@ translate french d20s04_results_e6743844:
 translate french d20s04_results_eb0184f1:
 
     # mc "You mean, I passed?"
-    mc "Tu veux dire, j'ai réussi ?"
+    mc "Tu veux dire, j'ai réussi?"
 
 # game/code/d20/d20s04.rpy:639
 translate french d20s04_results_312a9970:
@@ -1100,7 +1100,7 @@ translate french d20s04_results_77c62dc0:
 translate french d20s04_results_525bee79:
 
     # mc "Wow! Thanks."
-    mc "Wow ! Merci."
+    mc "Wow! Merci."
 
 # game/code/d20/d20s04.rpy:648
 translate french d20s04_results_157da13a:
@@ -1112,7 +1112,7 @@ translate french d20s04_results_157da13a:
 translate french d20s04_results_ce0b739c:
 
     # zw "What can he?..."
-    zw "Qu'est-ce qu'il peut ?..."
+    zw "Qu'est-ce qu'il peut?..."
 
 # game/code/d20/d20s04.rpy:654
 translate french d20s04_results_8105f73f:
@@ -1136,7 +1136,7 @@ translate french d20s04_results_a6668040:
 translate french d20s04_results_7a0e86b4:
 
     # mc "What is that?"
-    mc "Qu'est-ce que c'est ?"
+    mc "Qu'est-ce que c'est?"
 
 # game/code/d20/d20s04.rpy:663
 translate french d20s04_results_106afa1e:
@@ -1172,13 +1172,13 @@ translate french d20s04_results_7b7738e3:
 translate french d20s04_results_5697c8c5:
 
     # zw "Before you leave, may I give you some advice as well?"
-    zw "Avant de partir, puis-je te donner quelques conseils également ?"
+    zw "Avant de partir, puis-je te donner quelques conseils également?"
 
 # game/code/d20/d20s04.rpy:683
 translate french d20s04_results_eb8c16ff:
 
     # mc "Sure, why not?"
-    mc "Bien sûr, pourquoi pas ?"
+    mc "Bien sûr, pourquoi pas?"
 
 # game/code/d20/d20s04.rpy:685
 translate french d20s04_results_806cdb24:
@@ -1280,7 +1280,7 @@ translate french d20s04_results_df150250:
 translate french d20s04_results_71b5572f:
 
     # mc "But I can come back, right?"
-    mc "Mais je peux revenir, non ?"
+    mc "Mais je peux revenir, non?"
 
 # game/code/d20/d20s04.rpy:736
 translate french d20s04_results_97b203b5:
@@ -1384,11 +1384,11 @@ translate french strings:
 
     # game/code/d20/d20s04.rpy:276
     old "Charles Dickens?"
-    new "Charles Dickens ?"
+    new "Charles Dickens?"
 
     # game/code/d20/d20s04.rpy:356
     old "Who shot who in the what now?"
-    new "Qui a tiré sur qui dans quoi maintenant ?"
+    new "Qui a tiré sur qui dans quoi maintenant?"
 
     # game/code/d20/d20s04.rpy:356
     old "Subdue the enemy without fighting"
@@ -1420,7 +1420,7 @@ translate french strings:
 
     # game/code/d20/d20s04.rpy:407
     old "The Snowball: Warren Buffett and the Business of Life"
-    new "La boule de neige : Warren Buffett et les affaires de la vie"
+    new "La boule de neige: Warren Buffett et les affaires de la vie"
 
     # game/code/d20/d20s04.rpy:407
     old "Liar's Poker"
@@ -1449,3 +1449,4 @@ translate french strings:
     # game/code/d20/d20s04.rpy:545
     old "She was just visiting."
     new "Elle était juste en visite."
+

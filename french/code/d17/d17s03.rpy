@@ -14,7 +14,7 @@ translate french d17s03_bf0f175d:
 translate french d17s03_432b9380:
 
     # mc "Hana texted me that I should meet you here?"
-    mc "Hana m'a envoyé un texto pour que je te retrouve ici ?"
+    mc "Hana m'a envoyé un texto pour que je te retrouve ici?"
 
 # game/code/d17/d17s03.rpy:25
 translate french d17s03_169b0a47:
@@ -26,7 +26,7 @@ translate french d17s03_169b0a47:
 translate french d17s03_aa151550:
 
     # mc "Oh? Why didn't she just tell me where to meet her?"
-    mc "Oh ? Pourquoi ne m'a-t-elle pas simplement dit où la rencontrer ?"
+    mc "Oh? Pourquoi ne m'a-t-elle pas simplement dit où la rencontrer?"
 
 # game/code/d17/d17s03.rpy:31
 translate french d17s03_ba060b17:
@@ -44,7 +44,7 @@ translate french d17s03_970234c8:
 translate french d17s03_66ccf78a:
 
     # mc "Boat? The nearest water I know of-"
-    mc "Bateau ? L'eau la plus proche que je connaisse-"
+    mc "Bateau? L'eau la plus proche que je connaisse-"
 
 # game/code/d17/d17s03.rpy:45
 translate french d17s03_a1d859f4:
@@ -68,7 +68,7 @@ translate french d17s03_67bdf8f9:
 translate french d17s03_94524693:
 
     # mc "You're a bartender, right?"
-    mc "Tu es barman, n'est-ce pas ?"
+    mc "Tu es barman, n'est-ce pas?"
 
 # game/code/d17/d17s03.rpy:57
 translate french d17s03_0ee986a9:
@@ -86,13 +86,13 @@ translate french d17s03_77749042:
 translate french d17s03_7fe5264a:
 
     # ir "There are three things under the bar if I need them: a shotgun, a fubar, and a phone."
-    ir "Il y a trois choses sous le bar si j'en ai besoin : un fusil de chasse, un fubar et un téléphone."
+    ir "Il y a trois choses sous le bar si j'en ai besoin: un fusil de chasse, un fubar et un téléphone."
 
 # game/code/d17/d17s03.rpy:66
 translate french d17s03_6f4a3553:
 
     # mc "What's a fubar?"
-    mc "Qu'est-ce qu'un fubar ?"
+    mc "Qu'est-ce qu'un fubar?"
 
 # game/code/d17/d17s03.rpy:69
 translate french d17s03_73a840f5:
@@ -110,7 +110,7 @@ translate french d17s03_a4969e9f:
 translate french d17s03_394bb1a6:
 
     # mc "Okay...{w} So why was Hana so concerned about your safety at Min's Party last week?"
-    mc "D'accord...{w} Alors pourquoi Hana était-elle si inquiète pour votre sécurité à la fête de Min la semaine dernière ?"
+    mc "D'accord...{w} Alors pourquoi Hana était-elle si inquiète pour votre sécurité à la fête de Min la semaine dernière?"
 
 # game/code/d17/d17s03.rpy:76
 translate french d17s03_0e0d712c:
@@ -146,7 +146,7 @@ translate french d17s03_725489d6:
 translate french d17s03_02f17912:
 
     # mc "You're an athlete? I don't think I knew that."
-    mc "Vous êtes un athlète ? Je ne pense pas que je le savais."
+    mc "Vous êtes un athlète? Je ne pense pas que je le savais."
 
 # game/code/d17/d17s03.rpy:94
 translate french d17s03_e8ba2497:
@@ -170,7 +170,7 @@ translate french d17s03_4788bebf:
 translate french d17s03_842391ed:
 
     # mc "Right, so why was Hana so concerned?"
-    mc "Bien, alors pourquoi Hana était-elle si inquiète ?"
+    mc "Bien, alors pourquoi Hana était-elle si inquiète?"
 
 # game/code/d17/d17s03.rpy:106
 translate french d17s03_6956461d:
@@ -200,7 +200,7 @@ translate french d17s03_4951df19:
 translate french d17s03_16c7e2c3:
 
     # mc "Aren't we?"
-    mc "N'est-ce pas ?"
+    mc "N'est-ce pas?"
 
 # game/code/d17/d17s03.rpy:119
 translate french d17s03_d6b60c55:
@@ -248,7 +248,7 @@ translate french d17s03_9ef1538a:
 translate french d17s03_c9398f28:
 
     # ir "You're friends, right? Has she ever told you about the Senator?"
-    ir "Vous êtes amis, n'est-ce pas ? Vous a-t-elle déjà parlé du sénateur ?"
+    ir "Vous êtes amis, n'est-ce pas? Vous a-t-elle déjà parlé du sénateur?"
 
 # game/code/d17/d17s03.rpy:142
 translate french d17s03_fca52711:
@@ -290,7 +290,7 @@ translate french d17s03_a49ed4f8:
 translate french d17s03_29038136:
 
     # ir "What do you know about us?"
-    ir "Que sais-tu de nous ?"
+    ir "Que sais-tu de nous?"
 
 # game/code/d17/d17s03.rpy:162
 translate french d17s03_5f0df690:
@@ -308,7 +308,7 @@ translate french d17s03_00d11d1e:
 translate french d17s03_52a7c10d:
 
     # ir "Uh huh. What else?"
-    ir "Euh, hein. Quoi d'autre ?"
+    ir "Euh, hein. Quoi d'autre?"
 
 # game/code/d17/d17s03.rpy:170
 translate french d17s03_4c416fa5:
@@ -326,7 +326,7 @@ translate french d17s03_a339e64a:
 translate french d17s03_fd1c4c3c:
 
     # mc "You're twins?"
-    mc "Vous êtes jumeaux ?"
+    mc "Vous êtes jumeaux?"
 
 # game/code/d17/d17s03.rpy:180
 translate french d17s03_301866cf:
@@ -374,7 +374,7 @@ translate french d17s03_627afdbd:
 translate french d17s03_9bb2efdf:
 
     # mc "How long ago was this? You can't smoke in a hospital."
-    mc "C'était il y a combien de temps ? On ne peut pas fumer dans un hôpital."
+    mc "C'était il y a combien de temps? On ne peut pas fumer dans un hôpital."
 
 # game/code/d17/d17s03.rpy:203
 translate french d17s03_f75e9b9d:
@@ -386,7 +386,7 @@ translate french d17s03_f75e9b9d:
 translate french d17s03_610adb2b:
 
     # mc "So the Senator is your father?"
-    mc "Donc le sénateur est ton père ?"
+    mc "Donc le sénateur est ton père?"
 
 # game/code/d17/d17s03.rpy:209
 translate french d17s03_2c5489d3:
@@ -398,7 +398,7 @@ translate french d17s03_2c5489d3:
 translate french d17s03_5ac11b20:
 
     # mc "So, your family is elite with political ties, and her family...?"
-    mc "Donc, votre famille est une élite avec des liens politiques, et sa famille... ?"
+    mc "Donc, votre famille est une élite avec des liens politiques, et sa famille...?"
 
 # game/code/d17/d17s03.rpy:215
 translate french d17s03_4726ba3a:
@@ -422,7 +422,7 @@ translate french d17s03_1f0413af:
 translate french d17s03_50e6e228:
 
     # mc "Did something happen? Something involving this Senator?"
-    mc "Est-ce qu'il s'est passé quelque chose ? Quelque chose impliquant ce sénateur ?"
+    mc "Est-ce qu'il s'est passé quelque chose? Quelque chose impliquant ce sénateur?"
 
 # game/code/d17/d17s03.rpy:227
 translate french d17s03_4fc6ca93:
@@ -440,7 +440,7 @@ translate french d17s03_a4c573c4:
 translate french d17s03_4db8c305:
 
     # mc "Who is he?"
-    mc "Qui est-il ?"
+    mc "Qui est-il?"
 
 # game/code/d17/d17s03.rpy:237
 translate french d17s03_707a4309:
@@ -458,7 +458,7 @@ translate french d17s03_b8de06d3:
 translate french d17s03_0c3f13f9:
 
     # mc "Is there something you want to tell me about him?"
-    mc "Y a-t-il quelque chose que tu veux me dire à son sujet ?"
+    mc "Y a-t-il quelque chose que tu veux me dire à son sujet?"
 
 # game/code/d17/d17s03.rpy:244
 translate french d17s03_ccf066fe:
@@ -494,7 +494,7 @@ translate french d17s03_81782d78:
 translate french d17s03_64fb5e5b:
 
     # mc "Not Yours?"
-    mc "Pas le vôtre ?"
+    mc "Pas le vôtre?"
 
 # game/code/d17/d17s03.rpy:261
 translate french d17s03_fdb4be8b:
@@ -512,13 +512,13 @@ translate french d17s03_4404bf99:
 translate french d17s03_7db52811:
 
     # ir "Is that some kind of joke? I don't need psychotherapy - I need information and an outside perspective."
-    ir "Est-ce une sorte de blague ? Je n'ai pas besoin de psychothérapie, j'ai besoin d'informations et d'un point de vue extérieur."
+    ir "Est-ce une sorte de blague? Je n'ai pas besoin de psychothérapie, j'ai besoin d'informations et d'un point de vue extérieur."
 
 # game/code/d17/d17s03.rpy:270
 translate french d17s03_1772109f:
 
     # mc "Not a joke. Not therapy.{w} What does your mother think about her behavior?"
-    mc "Ce n'est pas une blague. Ce n'est pas une thérapie.{w} Que pense votre mère de son comportement ?"
+    mc "Ce n'est pas une blague. Ce n'est pas une thérapie.{w} Que pense votre mère de son comportement?"
 
 # game/code/d17/d17s03.rpy:274
 translate french d17s03_2e72dac9:
@@ -548,7 +548,7 @@ translate french d17s03_1cec77c8:
 translate french d17s03_0ace437b:
 
     # mc "She wasn't interested in being a mother?"
-    mc "Elle n'était pas intéressée à être mère ?"
+    mc "Elle n'était pas intéressée à être mère?"
 
 # game/code/d17/d17s03.rpy:289
 translate french d17s03_4c5925da:
@@ -602,7 +602,7 @@ translate french d17s03_02767222:
 translate french d17s03_cea2f1fd:
 
     # mc "I can't even imagine.{w} So, your dad - sorry, the Senator - was just as distant?"
-    mc "Je ne peux même pas imaginer.{w} Alors, votre père - désolé, le sénateur - était tout aussi distant ?"
+    mc "Je ne peux même pas imaginer.{w} Alors, votre père - désolé, le sénateur - était tout aussi distant?"
 
 # game/code/d17/d17s03.rpy:315
 translate french d17s03_4f796d84:
@@ -650,7 +650,7 @@ translate french d17s03_dcfdfbab:
 translate french d17s03_faf27fc3:
 
     # mc "But she's gotten more distant?"
-    mc "Mais elle est devenue plus distante ?"
+    mc "Mais elle est devenue plus distante?"
 
 # game/code/d17/d17s03.rpy:335
 translate french d17s03_7202b2d0:
@@ -710,19 +710,19 @@ translate french d17s03_9c0afb95:
 translate french d17s03_8f64fa6b:
 
     # ir "What?! No!{w} Hell no!"
-    ir "Quoi ?! Non !{w} Bon sang non !"
+    ir "Quoi?! Non!{w} Bon sang non!"
 
 # game/code/d17/d17s03.rpy:363
 translate french d17s03_580b897a:
 
     # ir "Dude, she's my twin sister!"
-    ir "Mec, c'est ma sœur jumelle !"
+    ir "Mec, c'est ma sœur jumelle!"
 
 # game/code/d17/d17s03.rpy:366
 translate french d17s03_48bcbe36:
 
     # mc "Sorry, I guess I misunderstood.{w} But you're both sexy, single, and attracted to women?"
-    mc "Désolé, je suppose que j'ai mal compris.{w} Mais vous êtes tous les deux sexy, célibataires et attirés par les femmes ?"
+    mc "Désolé, je suppose que j'ai mal compris.{w} Mais vous êtes tous les deux sexy, célibataires et attirés par les femmes?"
 
 # game/code/d17/d17s03.rpy:371
 translate french d17s03_802c10eb:
@@ -746,7 +746,7 @@ translate french d17s03_98e7d701:
 translate french d17s03_2616146b:
 
     # mc "Wait a sec...{w} What's the difference?"
-    mc "Attends une seconde...{w} Quelle est la différence ?"
+    mc "Attends une seconde...{w} Quelle est la différence?"
 
 # game/code/d17/d17s03.rpy:383
 translate french d17s03_70fed4bb:
@@ -770,7 +770,7 @@ translate french d17s03_8e8419da:
 translate french d17s03_e9a15b63:
 
     # mc "You both fucked the entire volleyball team?!"
-    mc "Vous avez tous les deux baisé toute l'équipe de volley-ball ?!"
+    mc "Vous avez tous les deux baisé toute l'équipe de volley-ball?!"
 
 # game/code/d17/d17s03.rpy:395
 translate french d17s03_d5b31a14:
@@ -782,7 +782,7 @@ translate french d17s03_d5b31a14:
 translate french d17s03_d1d5807d:
 
     # mc "Oh.{w} Did that involve fucking most of the volleyball team?"
-    mc "Oh.{w} Est-ce que ça impliquait de baiser la plupart des membres de l'équipe de volley-ball ?"
+    mc "Oh.{w} Est-ce que ça impliquait de baiser la plupart des membres de l'équipe de volley-ball?"
 
 # game/code/d17/d17s03.rpy:401
 translate french d17s03_a08cda53:
@@ -854,7 +854,7 @@ translate french d17s03_91a7a99d:
 translate french d17s03_9473d6ef:
 
     # mc "And you suspect something is wrong with that?"
-    mc "Et tu penses que quelque chose ne va pas avec ça ?"
+    mc "Et tu penses que quelque chose ne va pas avec ça?"
 
 # game/code/d17/d17s03.rpy:438
 translate french d17s03_dd6b8657:
@@ -866,7 +866,7 @@ translate french d17s03_dd6b8657:
 translate french d17s03_f95aad16:
 
     # mc "You're sure you're not jealous?"
-    mc "Tu es sûr que tu n'es pas jalouse ?"
+    mc "Tu es sûr que tu n'es pas jalouse?"
 
 # game/code/d17/d17s03.rpy:444
 translate french d17s03_846091c5:
@@ -878,7 +878,7 @@ translate french d17s03_846091c5:
 translate french d17s03_bd13bba7:
 
     # mc "Fuck! Whoa!! Whoa!!!"
-    mc "Putain ! Whoa !! Whoa !!!"
+    mc "Putain! Whoa!! Whoa!!!"
 
 # game/code/d17/d17s03.rpy:450
 translate french d17s03_cfb1c03e:
@@ -920,7 +920,7 @@ translate french d17s03_9ec69ab0:
 translate french d17s03_93bb9e45:
 
     # mc "I'll see what I can find out!{w} Please don't hurt me."
-    mc "Je vais voir ce que je peux découvrir !{w} S'il te plaît, ne me fais pas de mal."
+    mc "Je vais voir ce que je peux découvrir!{w} S'il te plaît, ne me fais pas de mal."
 
 # game/code/d17/d17s03.rpy:469
 translate french d17s03_3ad8df31:

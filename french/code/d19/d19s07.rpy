@@ -20,7 +20,7 @@ translate french d19s07_4122f32c:
 translate french d19s07_adec973e:
 
     # mc "What can I say? I'm here."
-    mc "Qu'est-ce que je peux dire ? Je suis là."
+    mc "Qu'est-ce que je peux dire? Je suis là."
 
 # game/code/d19/d19s07.rpy:72
 translate french d19s07_094f77db:
@@ -50,7 +50,7 @@ translate french d19s07_bf855c53:
 translate french d19s07_fc6b1f3b:
 
     # mc "I did.{w} Do you hate me?"
-    mc "Je l'ai fait.{w} Est-ce que tu me détestes ?"
+    mc "Je l'ai fait.{w} Est-ce que tu me détestes?"
 
 # game/code/d19/d19s07.rpy:84
 translate french d19s07_d11caa0d:
@@ -62,7 +62,7 @@ translate french d19s07_d11caa0d:
 translate french d19s07_0b03baf9:
 
     # mc "Wha-?"
-    mc "Quoi ?"
+    mc "Quoi?"
 
 # game/code/d19/d19s07.rpy:91
 translate french d19s07_30cdf997:
@@ -92,13 +92,13 @@ translate french d19s07_e142ff49:
 translate french d19s07_31713316:
 
     # mk "Pleasantries aside, what did you want me for?"
-    mk "Plaisanteries mises à part, pourquoi voulais-tu me voir ?"
+    mk "Plaisanteries mises à part, pourquoi voulais-tu me voir?"
 
 # game/code/d19/d19s07.rpy:104
 translate french d19s07_2994ccaf:
 
     # mc "No nonsense, huh?"
-    mc "Pas de bêtises, hein ?"
+    mc "Pas de bêtises, hein?"
 
 # game/code/d19/d19s07.rpy:107
 translate french d19s07_5ad6bfb5:
@@ -116,7 +116,7 @@ translate french d19s07_60cf9924:
 translate french d19s07_c2907ace:
 
     # mk "Ew.{w} Seriously?"
-    mk "Ew.{w} Sérieusement ?"
+    mk "Ew.{w} Sérieusement?"
 
 # game/code/d19/d19s07.rpy:121
 translate french d19s07_aa9655b3:
@@ -134,31 +134,31 @@ translate french d19s07_7b4092ce:
 translate french d19s07_59544e26:
 
     # mc "Agreed, but it's necessary. Can you do it?"
-    mc "D'accord, mais c'est nécessaire. Tu peux le faire ?"
+    mc "D'accord, mais c'est nécessaire. Tu peux le faire?"
 
 # game/code/d19/d19s07.rpy:132
 translate french d19s07_b4d620d1:
 
     # mk "You want him to fuck my virgin pussy?"
-    mk "Tu veux qu'il baise ma chatte vierge ?"
+    mk "Tu veux qu'il baise ma chatte vierge?"
 
 # game/code/d19/d19s07.rpy:134
 translate french d19s07_e0974dc0:
 
     # mk "You want him to fuck my well-used cunt?"
-    mk "Tu veux qu'il baise ma chatte bien utilisée ?"
+    mk "Tu veux qu'il baise ma chatte bien utilisée?"
 
 # game/code/d19/d19s07.rpy:136
 translate french d19s07_6cbb759f:
 
     # mk "I assume you want it to be vaginal sex?"
-    mk "Je suppose que tu veux que ce soit du sexe vaginal ?"
+    mk "Je suppose que tu veux que ce soit du sexe vaginal?"
 
 # game/code/d19/d19s07.rpy:139
 translate french d19s07_258a5a39:
 
     # mc "I guess so.{w} Is that a problem?"
-    mc "Je suppose.{w} Est-ce un problème ?"
+    mc "Je suppose.{w} Est-ce un problème?"
 
 # game/code/d19/d19s07.rpy:146
 translate french d19s07_84f82413:
@@ -170,13 +170,13 @@ translate french d19s07_84f82413:
 translate french d19s07_55310c42:
 
     # mc "Seriously?"
-    mc "Sérieusement ?"
+    mc "Sérieusement?"
 
 # game/code/d19/d19s07.rpy:149
 translate french d19s07_928c986b:
 
     # mk "Do you want me to put up a fight? I'll do this for you."
-    mk "Tu veux que je me batte ? Je vais faire ça pour toi."
+    mk "Tu veux que je me batte? Je vais faire ça pour toi."
 
 # game/code/d19/d19s07.rpy:152
 translate french d19s07_804b617c:
@@ -188,7 +188,7 @@ translate french d19s07_804b617c:
 translate french d19s07_b32bb931:
 
     # mk "Get over it.{w} What do you want me to do?"
-    mk "Surmonte-le.{w} Que veux-tu que je fasse ?"
+    mk "Surmonte-le.{w} Que veux-tu que je fasse?"
 
 # game/code/d19/d19s07.rpy:165
 translate french d19s07_c2a2959a:
@@ -200,7 +200,7 @@ translate french d19s07_c2a2959a:
 translate french d19s07_f0f8b3e0:
 
     # mk "Me? Down to fuck you?"
-    mk "Moi ? Envie de te baiser ?"
+    mk "Moi? Envie de te baiser?"
 
 # game/code/d19/d19s07.rpy:172
 translate french d19s07_46dc80ae:
@@ -218,7 +218,7 @@ translate french d19s07_c280376c:
 translate french d19s07_e94f2edc:
 
     # mk "What about AmRose?"
-    mk "Et AmRose ?"
+    mk "Et AmRose?"
 
 # game/code/d19/d19s07.rpy:180
 translate french d19s07_d577cfb8:
@@ -236,13 +236,13 @@ translate french d19s07_7c1797d9:
 translate french d19s07_be743df6:
 
     # mc "Just like that?"
-    mc "Juste comme ça ?"
+    mc "Juste comme ça?"
 
 # game/code/d19/d19s07.rpy:189
 translate french d19s07_30f03d88:
 
     # mk "Did you want me to put up more of a fight?"
-    mk "Tu voulais que je me batte davantage ?"
+    mk "Tu voulais que je me batte davantage?"
 
 # game/code/d19/d19s07.rpy:191
 translate french d19s07_92884dfd:
@@ -260,13 +260,13 @@ translate french d19s07_problem_4d3b0bc7:
 translate french d19s07_problem_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh ?"
+    mc "Oh?"
 
 # game/code/d19/d19s07.rpy:204
 translate french d19s07_problem_5c561284:
 
     # mk "Why don't you do it?"
-    mk "Pourquoi tu ne le fais pas ?"
+    mk "Pourquoi tu ne le fais pas?"
 
 # game/code/d19/d19s07.rpy:207
 translate french d19s07_problem_7f32657c:
@@ -284,7 +284,7 @@ translate french d19s07_problem_8bf1b8ae:
 translate french d19s07_problem_e269ecd8:
 
     # mc "Repulsive?"
-    mc "Répugnant ?"
+    mc "Répugnant?"
 
 # game/code/d19/d19s07.rpy:213
 translate french d19s07_problem_f67ccd32:
@@ -296,7 +296,7 @@ translate french d19s07_problem_f67ccd32:
 translate french d19s07_problem_0dcfe0f2:
 
     # mc "Really? So I just imagined you sucking and fucking every guy you could in that toilet stall?"
-    mc "Vraiment ? Alors j'ai juste imaginé que tu suçais et baisais tous les mecs possibles dans ces toilettes ?"
+    mc "Vraiment? Alors j'ai juste imaginé que tu suçais et baisais tous les mecs possibles dans ces toilettes?"
 
 # game/code/d19/d19s07.rpy:219
 translate french d19s07_problem_470dfd09:
@@ -350,13 +350,13 @@ translate french d19s07_problem_be0ff9ea:
 translate french d19s07_problem_ed052b85:
 
     # mk "Yeah, well.{w} I guess I just have to ask... how important is this to you?"
-    mk "Ouais, eh bien.{w} Je suppose que je dois juste demander... à quel point est-ce important pour toi ?"
+    mk "Ouais, eh bien.{w} Je suppose que je dois juste demander... à quel point est-ce important pour toi?"
 
 # game/code/d19/d19s07.rpy:239
 translate french d19s07_problem_ed87226f:
 
     # mc "What do you want?"
-    mc "Qu'est-ce que tu veux ?"
+    mc "Qu'est-ce que tu veux?"
 
 # game/code/d19/d19s07.rpy:240
 translate french d19s07_problem_e2e84311:
@@ -386,7 +386,7 @@ translate french d19s07_problem_e93f92e9:
 translate french d19s07_problem_f9767825:
 
     # mk "So, I guess I need to know. Are we friends? And if so, do you need me to do this?"
-    mk "Alors, je suppose que j'ai besoin de savoir. On est amis ? Et si oui, as-tu besoin que je fasse ça ?"
+    mk "Alors, je suppose que j'ai besoin de savoir. On est amis? Et si oui, as-tu besoin que je fasse ça?"
 
 # game/code/d19/d19s07.rpy:270
 translate french d19s07_problem_e41d2498:
@@ -398,7 +398,7 @@ translate french d19s07_problem_e41d2498:
 translate french d19s07_problem_dcd9a351:
 
     # mk "Really?"
-    mk "Vraiment ?"
+    mk "Vraiment?"
 
 # game/code/d19/d19s07.rpy:275
 translate french d19s07_problem_a263db75:
@@ -416,7 +416,7 @@ translate french d19s07_problem_2ffe5a32:
 translate french d19s07_problem_e52f875c:
 
     # mk "Not because of the sex?"
-    mk "Pas à cause du sexe ?"
+    mk "Pas à cause du sexe?"
 
 # game/code/d19/d19s07.rpy:281
 translate french d19s07_problem_b7cba9af:
@@ -512,7 +512,7 @@ translate french d19s07_problem_cb2b9892:
 translate french d19s07_problem_a31340dd:
 
     # mc "Really?"
-    mc "Vraiment ?"
+    mc "Vraiment?"
 
 # game/code/d19/d19s07.rpy:323
 translate french d19s07_problem_31283a1a:
@@ -530,7 +530,7 @@ translate french d19s07_problem_2fd6a80c:
 translate french d19s07_problem_6d89934f:
 
     # mk "I am.{w} What do you want me to do?"
-    mk "Je le suis.{w} Que veux-tu que je fasse ?"
+    mk "Je le suis.{w} Que veux-tu que je fasse?"
 
 # game/code/d19/d19s07.rpy:333
 translate french d19s07_problem_a88ced14:
@@ -602,7 +602,7 @@ translate french d19s07_roleplay_cfed9ebf:
 translate french d19s07_roleplay_8ad7f512:
 
     # mk "Let me guess - you play Professor Nordin?"
-    mk "Laisse-moi deviner, tu joues le professeur Nordin ?"
+    mk "Laisse-moi deviner, tu joues le professeur Nordin?"
 
 # game/code/d19/d19s07.rpy:376
 translate french d19s07_roleplay_007821d2:
@@ -614,7 +614,7 @@ translate french d19s07_roleplay_007821d2:
 translate french d19s07_roleplay_b12dd9b3:
 
     # mk "And then I fuck you, right?"
-    mk "Et puis je te baise, hein ?"
+    mk "Et puis je te baise, hein?"
 
 # game/code/d19/d19s07.rpy:382
 translate french d19s07_roleplay_0ca4aa74:
@@ -626,7 +626,7 @@ translate french d19s07_roleplay_0ca4aa74:
 translate french d19s07_roleplay_375aac44:
 
     # mc "Would you prefer that you lose your virginity to the old man?"
-    mc "Tu préférerais perdre ta virginité avec le vieil homme ?"
+    mc "Tu préférerais perdre ta virginité avec le vieil homme?"
 
 # game/code/d19/d19s07.rpy:388
 translate french d19s07_roleplay_6b4090a4:
@@ -662,7 +662,7 @@ translate french d19s07_roleplay_dce95668:
 translate french d19s07_roleplay_8312726b:
 
     # mc "Is that going to be a problem?"
-    mc "Est-ce que ça va être un problème ?"
+    mc "Est-ce que ça va être un problème?"
 
 # game/code/d19/d19s07.rpy:401
 translate french d19s07_roleplay_612cb833:
@@ -680,7 +680,7 @@ translate french d19s07_roleplay_814c4eac:
 translate french d19s07_roleplay_013fe832:
 
     # mc "There's no classes tomorrow, but maybe we can get him to the classroom for some reason?"
-    mc "Il n'y a pas de cours demain, mais peut-être qu'on pourrait l'amener en classe pour une raison quelconque ?"
+    mc "Il n'y a pas de cours demain, mais peut-être qu'on pourrait l'amener en classe pour une raison quelconque?"
 
 # game/code/d19/d19s07.rpy:408
 translate french d19s07_roleplay_77710560:
@@ -710,13 +710,13 @@ translate french d19s07_roleplay_58b69c06:
 translate french d19s07_roleplay_ad18ea1b:
 
     # mk "Professor Nordin, may I have a moment of your time?"
-    mk "Professeur Nordin, puis-je avoir un moment de votre temps ?"
+    mk "Professeur Nordin, puis-je avoir un moment de votre temps?"
 
 # game/code/d19/d19s07.rpy:423
 translate french d19s07_roleplay_80911e33:
 
     # mc "Ah, Miss Kovalevich. Did you find your pencil?"
-    mc "Ah, Miss Kovalevich. Tu as trouvé ton crayon ?"
+    mc "Ah, Miss Kovalevich. Tu as trouvé ton crayon?"
 
 # game/code/d19/d19s07.rpy:426
 translate french d19s07_roleplay_c240a5ef:
@@ -728,7 +728,7 @@ translate french d19s07_roleplay_c240a5ef:
 translate french d19s07_roleplay_2310f1b4:
 
     # mc "Oh? What do you mean?"
-    mc "Oh ? Que veux-tu dire?"
+    mc "Oh? Que veux-tu dire?"
 
 # game/code/d19/d19s07.rpy:432
 translate french d19s07_roleplay_b5503647:
@@ -740,7 +740,7 @@ translate french d19s07_roleplay_b5503647:
 translate french d19s07_roleplay_9a737d2c:
 
     # mc "Do you really want to be that obvious from the beginning? You could leave my name out of it."
-    mc "Tu veux vraiment être aussi évidente dès le début ? Tu pourrais laisser mon nom en dehors."
+    mc "Tu veux vraiment être aussi évidente dès le début? Tu pourrais laisser mon nom en dehors."
 
 # game/code/d19/d19s07.rpy:438
 translate french d19s07_roleplay_9297ce39:
@@ -770,7 +770,7 @@ translate french d19s07_roleplay_7dc57f3b:
 translate french d19s07_roleplay_1a114e9b:
 
     # mc "Miss Kovalevich! I must object!!!"
-    mc "Mademoiselle Kovalevich ! Je dois m'y opposer !!!"
+    mc "Mademoiselle Kovalevich! Je dois m'y opposer!!!"
 
 # game/code/d19/d19s07.rpy:458
 translate french d19s07_roleplay_1a1bd218:
@@ -794,7 +794,7 @@ translate french d19s07_roleplay_bb4267b1:
 translate french d19s07_roleplay_05500ff6:
 
     # mc "Huh?"
-    mc "Hein ?"
+    mc "Hein?"
 
 # game/code/d19/d19s07.rpy:468
 translate french d19s07_roleplay_c538f358:
@@ -824,19 +824,19 @@ translate french d19s07_roleplay_889da061:
 translate french d19s07_roleplay_5a61db4b:
 
     # mk "What happens if I end up like the secretary in the Maltese Falcon?"
-    mk "Que se passe-t-il si je finis comme la secrétaire du Maltese Falcon ?"
+    mk "Que se passe-t-il si je finis comme la secrétaire du Maltese Falcon?"
 
 # game/code/d19/d19s07.rpy:480
 translate french d19s07_roleplay_78b66f11:
 
     # mc "You mean if you do everything right down to licking his cigarette and he doesn't stick his dick in you?"
-    mc "Tu veux dire si tu fais tout jusqu'à lécher sa cigarette et qu'il ne te fourre pas sa bite ?"
+    mc "Tu veux dire si tu fais tout jusqu'à lécher sa cigarette et qu'il ne te fourre pas sa bite?"
 
 # game/code/d19/d19s07.rpy:483
 translate french d19s07_roleplay_cf377cb2:
 
     # mk "Exactly. What happens if he ignores my advances?"
-    mk "Exactement. Que se passe-t-il s'il ignore mes avances ?"
+    mk "Exactement. Que se passe-t-il s'il ignore mes avances?"
 
 # game/code/d19/d19s07.rpy:486
 translate french d19s07_roleplay_80222b35:
@@ -848,7 +848,7 @@ translate french d19s07_roleplay_80222b35:
 translate french d19s07_roleplay_c1957251:
 
     # mk "Either rape him or walk away?"
-    mk "Soit tu le violes, soit tu t'en vas ?"
+    mk "Soit tu le violes, soit tu t'en vas?"
 
 # game/code/d19/d19s07.rpy:492
 translate french d19s07_roleplay_d3e03ec8:
@@ -860,7 +860,7 @@ translate french d19s07_roleplay_d3e03ec8:
 translate french d19s07_roleplay_68e17287:
 
     # mk "What exactly do you need me to do?"
-    mk "Qu'est-ce que tu veux que je fasse exactement ?"
+    mk "Qu'est-ce que tu veux que je fasse exactement?"
 
 # game/code/d19/d19s07.rpy:498
 translate french d19s07_roleplay_ed18f73c:
@@ -872,7 +872,7 @@ translate french d19s07_roleplay_ed18f73c:
 translate french d19s07_roleplay_7dec7728:
 
     # mk "With the door closed, how will you know what's going on?"
-    mk "Avec la porte fermée, comment sauras-tu ce qui se passe ?"
+    mk "Avec la porte fermée, comment sauras-tu ce qui se passe?"
 
 # game/code/d19/d19s07.rpy:503
 translate french d19s07_roleplay_16839143:
@@ -896,7 +896,7 @@ translate french d19s07_roleplay_f0528888:
 translate french d19s07_roleplay_b8e65c22:
 
     # mk "And then you leverage that to get his vote on your Final Exam?"
-    mk "Et ensuite tu exploites ça pour obtenir son vote à ton examen final ?"
+    mk "Et ensuite tu exploites ça pour obtenir son vote à ton examen final?"
 
 # game/code/d19/d19s07.rpy:513
 translate french d19s07_roleplay_debd6ae0:
@@ -914,7 +914,7 @@ translate french d19s07_roleplay_f36e5aec:
 translate french d19s07_roleplay_cd2ea23b:
 
     # mk "So, all you really need is his dick inside me.{w} Oral, anal, vaginal... it doesn't make a difference, right?"
-    mk "Alors tout ce dont tu as vraiment besoin, c'est de sa bite en moi.{w} Orale, anale, vaginale... Ça ne fait aucune différence, n'est-ce pas ?"
+    mk "Alors tout ce dont tu as vraiment besoin, c'est de sa bite en moi.{w} Orale, anale, vaginale... Ça ne fait aucune différence, n'est-ce pas?"
 
 # game/code/d19/d19s07.rpy:522
 translate french d19s07_roleplay_6f1d711b:
@@ -944,7 +944,7 @@ translate french d19s07_roleplay_850d9e7f:
 translate french d19s07_roleplay_5bdfe3c8:
 
     # mc "You're sure?"
-    mc "Tu es sûr ?"
+    mc "Tu es sûr?"
 
 # game/code/d19/d19s07.rpy:535
 translate french d19s07_roleplay_055726e8:
@@ -968,13 +968,13 @@ translate french d19s07_roleplay_2c0d475f:
 translate french d19s07_roleplay_404acd8d:
 
     # mc "I forget - I've been with so many people lately...{w} Are you on birth control?"
-    mc "J'oublie - j'ai été avec tellement de gens ces derniers temps...{w} Est-ce que tu prends un contrôle des naissances ?"
+    mc "J'oublie - j'ai été avec tellement de gens ces derniers temps...{w} Est-ce que tu prends un contrôle des naissances?"
 
 # game/code/d19/d19s07.rpy:549
 translate french d19s07_roleplay_f4ccd8b3:
 
     # mk "Doesn't matter.{w} Are you gonna pump me full of your seed or not?"
-    mk "Ça n'a pas d'importance.{w} Tu vas me pomper plein de ta semence ou pas ?"
+    mk "Ça n'a pas d'importance.{w} Tu vas me pomper plein de ta semence ou pas?"
 
 # game/code/d19/d19s07.rpy:551
 translate french d19s07_roleplay_3059ff20:
@@ -986,13 +986,13 @@ translate french d19s07_roleplay_3059ff20:
 translate french d19s07_sex_3d9a556a:
 
     # mk "Bring it on, sex machine!"
-    mk "Viens ici, machine à sexe !"
+    mk "Viens ici, machine à sexe!"
 
 # game/code/d19/d19s07.rpy:564
 translate french d19s07_sex_4ab88f94:
 
     # mc "Alright! How do you want it?!"
-    mc "Très bien ! Comment tu le veux?!"
+    mc "Très bien! Comment tu le veux?!"
 
 # game/code/d19/d19s07.rpy:567
 translate french d19s07_sex_a4cf39f5:
@@ -1016,19 +1016,19 @@ translate french d19s07_sex_2514e22a:
 translate french d19s07_sex_6e78594b:
 
     # mc "Okay...{w} Wait, what?"
-    mc "Ok...{w} Attends, quoi ?"
+    mc "Ok...{w} Attends, quoi?"
 
 # game/code/d19/d19s07.rpy:579
 translate french d19s07_sex_0233ee00:
 
     # mk "Do you remember how we were atop that roof when you deflowered me?"
-    mk "Tu te souviens comment nous étions sur ce toit quand tu m'as défloré ?"
+    mk "Tu te souviens comment nous étions sur ce toit quand tu m'as défloré?"
 
 # game/code/d19/d19s07.rpy:580
 translate french d19s07_sex_79f3400c:
 
     # mk "When your penis was the first to penetrate my virgin vagina?"
-    mk "Quand ton pénis a été le premier à pénétrer dans mon vagin vierge ?"
+    mk "Quand ton pénis a été le premier à pénétrer dans mon vagin vierge?"
 
 # game/code/d19/d19s07.rpy:583
 translate french d19s07_sex_6f35afe5:
@@ -1094,7 +1094,7 @@ translate french d19s07_sex_9d5c06d4:
 translate french d19s07_sex_fc41bcf6:
 
     # mct "Like a virgin. Hey! Touched for the very first time."
-    mct "Comme une vierge. Hé ! Touché pour la toute première fois."
+    mct "Comme une vierge. Hé! Touché pour la toute première fois."
 
 # game/code/d19/d19s07.rpy:618
 translate french d19s07_sex_b5ec67e0:
@@ -1124,7 +1124,7 @@ translate french d19s07_sex_9d54577c:
 translate french d19s07_sex_0f4c5785:
 
     # mk "Where are you?{w} What are you thinking about?"
-    mk "Où es-tu ?{w} À quoi penses-tu ?"
+    mk "Où es-tu?{w} À quoi penses-tu?"
 
 # game/code/d19/d19s07.rpy:644
 translate french d19s07_sex_45e51c5f:
@@ -1166,7 +1166,7 @@ translate french d19s07_sex_085722e2:
 translate french d19s07_sex_5f00bd2a:
 
     # mk "Push me off the roof.{w} DO IT!!!"
-    mk "Pousse-moi du toit.{w} FAIS-LE !!!"
+    mk "Pousse-moi du toit.{w} FAIS-LE!!!"
 
 # game/code/d19/d19s07.rpy:660
 translate french d19s07_sex_a49ed4f8:
@@ -1178,13 +1178,13 @@ translate french d19s07_sex_a49ed4f8:
 translate french d19s07_sex_74ea6252:
 
     # mk "Hahahahahahahahaha!!!"
-    mk "Hahahahahahahahaha !!!"
+    mk "Hahahahahahahahaha!!!"
 
 # game/code/d19/d19s07.rpy:670
 translate french d19s07_sex_dbc96d1b:
 
     # mc "Was that your second condition?"
-    mc "C'était ta deuxième condition ?"
+    mc "C'était ta deuxième condition?"
 
 # game/code/d19/d19s07.rpy:677
 translate french d19s07_sex_cf18519b:
@@ -1202,7 +1202,7 @@ translate french d19s07_sex_ec97f9c8:
 translate french d19s07_sex_84893d63:
 
     # mk "Yes! Thank you."
-    mk "Oui ! Merci."
+    mk "Oui! Merci."
 
 # game/code/d19/d19s07.rpy:685
 translate french d19s07_sex_ba37a473:
@@ -1226,19 +1226,19 @@ translate french d19s07_sex_4652b9fb:
 translate french d19s07_sex_72cfdd9f:
 
     # mc "So, what's your second condition?"
-    mc "Alors, quelle est ta deuxième condition ?"
+    mc "Alors, quelle est ta deuxième condition?"
 
 # game/code/d19/d19s07.rpy:692
 translate french d19s07_sex_ca2daa80:
 
     # mk "I want you to rape the shit out of me!!!"
-    mk "Je veux que tu me violes à fond !!!"
+    mk "Je veux que tu me violes à fond!!!"
 
 # game/code/d19/d19s07.rpy:694
 translate french d19s07_sex_5c9dbef6:
 
     # mk "I want you to fuck the shit out of me!!!"
-    mk "Je veux que tu me foutes en l'air !!!"
+    mk "Je veux que tu me foutes en l'air!!!"
 
 # game/code/d19/d19s07.rpy:695
 translate french d19s07_sex_085722e2_1:
@@ -1250,25 +1250,25 @@ translate french d19s07_sex_085722e2_1:
 translate french d19s07_sex_caae2f68:
 
     # mk "Do me! As roughly as possible!!"
-    mk "Fais-le ! Le plus grossièrement possible !!"
+    mk "Fais-le! Le plus grossièrement possible!!"
 
 # game/code/d19/d19s07.rpy:699
 translate french d19s07_sex_36678b68:
 
     # mk "Choke me! Pound me!! Throw me on the floor and have your way with me!!!"
-    mk "Étouffe-moi ! Frappe-moi !! Jete-moi par terre et faites ton chemin en moi !!!"
+    mk "Étouffe-moi! Frappe-moi!! Jete-moi par terre et faites ton chemin en moi!!!"
 
 # game/code/d19/d19s07.rpy:700
 translate french d19s07_sex_a8e4600f:
 
     # mk "Think of every rough sex porn you've ever seen and do it all to me!!!!!"
-    mk "Pense à tous les pornos sexuels brutaux que tu as jamais vu et fais moi tout !!!!!"
+    mk "Pense à tous les pornos sexuels brutaux que tu as jamais vu et fais moi tout!!!!!"
 
 # game/code/d19/d19s07.rpy:708
 translate french d19s07_sex_8e9a6e98:
 
     # mk "YESSS!!!!!"
-    mk "OUI !!!!!"
+    mk "OUI!!!!!"
 
 # game/code/d19/d19s07.rpy:710
 translate french d19s07_sex_29f70063:
@@ -1280,25 +1280,25 @@ translate french d19s07_sex_29f70063:
 translate french d19s07_ending_bd9b6938:
 
     # mk "OH FUCK YESSS YOU BASTARD!!!"
-    mk "OH PUTAIN OUI, BÂTARD !!!"
+    mk "OH PUTAIN OUI, BÂTARD!!!"
 
 # game/code/d19/d19s07.rpy:751
 translate french d19s07_ending_40db1085:
 
     # mc "Wait, what?!"
-    mc "Attends, quoi ?!"
+    mc "Attends, quoi?!"
 
 # game/code/d19/d19s07.rpy:753
 translate french d19s07_ending_f6dd34ec:
 
     # mk "PUMP ME FULL OF YOUR SEED!!! I HOPE I GET PREGNANT WITH YOUR BASTARD CHILD!!!"
-    mk "POMPE-MOI PLEIN DE TA GRAINE !!! J'espère que je serai enceinte de votre enfant bâtard !!!"
+    mk "POMPE-MOI PLEIN DE TA GRAINE!!! J'espère que je serai enceinte de votre enfant bâtard!!!"
 
 # game/code/d19/d19s07.rpy:759
 translate french d19s07_ending_59282fc7:
 
     # mct "Is she insane?"
-    mct "Est-ce qu'elle est folle ?"
+    mct "Est-ce qu'elle est folle?"
 
 # game/code/d19/d19s07.rpy:762
 translate french d19s07_ending_c89b9e8e:
@@ -1322,7 +1322,7 @@ translate french d19s07_ending_9960f6af:
 translate french d19s07_ending_b5b9720b:
 
     # mc "You are more than a little crazy, aren't you?"
-    mc "Tu es plus qu'un peu folle, n'est-ce pas ?"
+    mc "Tu es plus qu'un peu folle, n'est-ce pas?"
 
 # game/code/d19/d19s07.rpy:776
 translate french d19s07_ending_a7f6c372:
@@ -1334,7 +1334,7 @@ translate french d19s07_ending_a7f6c372:
 translate french d19s07_ending_0408020e:
 
     # mc "Is there some medication or counseling...?"
-    mc "Y a-t-il des médicaments ou des conseils... ?"
+    mc "Y a-t-il des médicaments ou des conseils...?"
 
 # game/code/d19/d19s07.rpy:781
 translate french d19s07_ending_ae53e6b4:
@@ -1358,7 +1358,7 @@ translate french d19s07_ending_19124428:
 translate french d19s07_ending_5cf90a8c:
 
     # mc "You're on drugs or something?"
-    mc "Tu te drogues ou quoi ?"
+    mc "Tu te drogues ou quoi?"
 
 # game/code/d19/d19s07.rpy:792
 translate french d19s07_ending_e40d5272:
@@ -1406,19 +1406,19 @@ translate french d19s07_ending_beeb2206:
 translate french d19s07_ending_9bf2f172:
 
     # mc "Weren't you a lesbian?"
-    mc "Tu n'es pas lesbienne ?"
+    mc "Tu n'es pas lesbienne?"
 
 # game/code/d19/d19s07.rpy:812
 translate french d19s07_ending_0b76b4e3:
 
     # mk "Wait. You mean you aren't really a woman?!"
-    mk "Attends. Tu veux dire que tu n'es pas une femme ?!"
+    mk "Attends. Tu veux dire que tu n'es pas une femme?!"
 
 # game/code/d19/d19s07.rpy:814
 translate french d19s07_ending_085722e2:
 
     # mc "What?!"
-    mc "Qu'est ce que tu racontes ?!"
+    mc "Qu'est ce que tu racontes?!"
 
 # game/code/d19/d19s07.rpy:817
 translate french d19s07_ending_448e48ea:
@@ -1457,3 +1457,4 @@ translate french strings:
     # game/code/d19/d19s07.rpy:251
     old "We aren't friends, but I need this."
     new "Nous ne sommes pas amis, mais j'en ai besoin."
+

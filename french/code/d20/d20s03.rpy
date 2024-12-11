@@ -8,7 +8,7 @@ translate french d20s03_0d620d79:
 translate french d20s03_a18094f9:
 
     # mc "Kevin. What are you doing here?"
-    mc "Kevin. Qu'est-ce que tu fais ici ?"
+    mc "Kevin. Qu'est-ce que tu fais ici?"
 
 # game/code/d20/d20s03.rpy:65
 translate french d20s03_35c2dd21:
@@ -32,7 +32,7 @@ translate french d20s03_835a5a3a:
 translate french d20s03_4286a517:
 
     # kb "How about you, what are you doing here?"
-    kb "Et toi, que fait-tu ici ?"
+    kb "Et toi, que fait-tu ici?"
 
 # game/code/d20/d20s03.rpy:76
 translate french d20s03_19321a77:
@@ -50,7 +50,7 @@ translate french d20s03_e71f1081:
 translate french d20s03_a358d6bb:
 
     # kb "Fair enough. Right now, or?"
-    kb "Je comprends. Tout de suite, ou ?"
+    kb "Je comprends. Tout de suite, ou?"
 
 # game/code/d20/d20s03.rpy:83
 translate french d20s03_78493afd:
@@ -74,7 +74,7 @@ translate french d20s03_82e96f3f:
 translate french d20s03_21e825cc:
 
     # kb "So did you study for the exam?"
-    kb "Alors tu as étudié pour l'examen ?"
+    kb "Alors tu as étudié pour l'examen?"
 
 # game/code/d20/d20s03.rpy:92
 translate french d20s03_f800bed0:
@@ -200,13 +200,13 @@ translate french d20s03_154c59e7:
 translate french d20s03_a045f41f:
 
     # mc "So what's going on?"
-    mc "Alors qu'est-ce qui se passe ?"
+    mc "Alors qu'est-ce qui se passe?"
 
 # game/code/d20/d20s03.rpy:133
 translate french d20s03_aca08af7:
 
     # mc "You just worried about the exam or is there something else?"
-    mc "Tu t'inquiètes juste pour l'examen ou il y a autre chose ?"
+    mc "Tu t'inquiètes juste pour l'examen ou il y a autre chose?"
 
 # game/code/d20/d20s03.rpy:135
 translate french d20s03_bc3a2306:
@@ -230,7 +230,7 @@ translate french d20s03_06c0ca6e:
 translate french d20s03_40081f0d:
 
     # kb "Are we still friends?"
-    kb "On est toujours amis ?"
+    kb "On est toujours amis?"
 
 # game/code/d20/d20s03.rpy:143
 translate french d20s03_e61e997e:
@@ -242,7 +242,7 @@ translate french d20s03_e61e997e:
 translate french d20s03_14f48410:
 
     # kb "Why are we friends?"
-    kb "Pourquoi sommes-nous amis ?"
+    kb "Pourquoi sommes-nous amis?"
 
 # game/code/d20/d20s03.rpy:147
 translate french d20s03_400b4a5c:
@@ -278,7 +278,7 @@ translate french d20s03_eca8edc0:
 translate french d20s03_b3f29482:
 
     # mct "What should I even say here?"
-    mct "Que dois-je dire ici ?"
+    mct "Que dois-je dire ici?"
 
 # game/code/d20/d20s03.rpy:160
 translate french d20s03_2733996e:
@@ -332,7 +332,7 @@ translate french d20s03_d26b9e33:
 translate french d20s03_62531da2:
 
     # kb "But if memories are all we have, then, doesn't that mean we're just living in the past? That there's nowhere for this to go?"
-    kb "Mais si les souvenirs sont tout ce que nous avons, cela ne veut-il pas dire que nous vivons simplement dans le passé ? Qu'il n'y a nulle part où aller ?"
+    kb "Mais si les souvenirs sont tout ce que nous avons, cela ne veut-il pas dire que nous vivons simplement dans le passé? Qu'il n'y a nulle part où aller?"
 
 # game/code/d20/d20s03.rpy:176
 translate french d20s03_eb19af2d:
@@ -374,13 +374,13 @@ translate french d20s03_7502dc42:
 translate french d20s03_91e7fe9e:
 
     # mc "I'm wondering. Where is this all coming from?"
-    mc "Je me demande. D'où ça vient tout ça ?"
+    mc "Je me demande. D'où ça vient tout ça?"
 
 # game/code/d20/d20s03.rpy:187
 translate french d20s03_d070cdab:
 
     # mc "What's bringing this on?"
-    mc "Qu'est-ce qui provoque ça ?"
+    mc "Qu'est-ce qui provoque ça?"
 
 # game/code/d20/d20s03.rpy:190
 translate french d20s03_18dca563:
@@ -410,7 +410,7 @@ translate french d20s03_ae7de870:
 translate french d20s03_58e6bd3e:
 
     # kb "It is. [mcname], you're surrounded by how many women?"
-    kb "C'est vrai. [mcname], tu es entouré de combien de femmes ?"
+    kb "C'est vrai. [mcname], tu es entouré de combien de femmes?"
 
 # game/code/d20/d20s03.rpy:199
 translate french d20s03_3634247a:
@@ -446,7 +446,7 @@ translate french d20s03_3cdd043a:
 translate french d20s03_6ada18e2:
 
     # mc "As a friend! As a friend."
-    mc "En tant qu'ami ! Comme un ami."
+    mc "En tant qu'ami! Comme un ami."
 
 # game/code/d20/d20s03.rpy:212
 translate french d20s03_5a020e24:
@@ -464,7 +464,7 @@ translate french d20s03_730b8bb9:
 translate french d20s03_7868a094:
 
     # mc "A lot of people will judge you, call you names, whatever. As long as you're happy, isn't that what matters?"
-    mc "Beaucoup de gens vont te juger, t'insulter, peu importe. Tant que tu es heureux, n'est-ce pas ce qui compte ?"
+    mc "Beaucoup de gens vont te juger, t'insulter, peu importe. Tant que tu es heureux, n'est-ce pas ce qui compte?"
 
 # game/code/d20/d20s03.rpy:218
 translate french d20s03_2b62f101:
@@ -518,7 +518,7 @@ translate french d20s03_709bc3ad:
 translate french d20s03_be6fa98b:
 
     # mc "Going away? Going where? I just got here!"
-    mc "Tu pars ? Pour aller où ?  Tu viens juste d'arriver!"
+    mc "Tu pars? Pour aller où?  Tu viens juste d'arriver!"
 
 # game/code/d20/d20s03.rpy:235
 translate french d20s03_771f9583:
@@ -566,13 +566,13 @@ translate french d20s03_76105528:
 translate french d20s03_3f871f46:
 
     # mc "Hmm?"
-    mc "Hum ?"
+    mc "Hum?"
 
 # game/code/d20/d20s03.rpy:251
 translate french d20s03_a8c4d259:
 
     # kb "We made a decision, that we were going to go away and elope. Get married. Screw what our parents want. We only have one life to live, right?"
-    kb "Nous avons pris la décision de partir et de nous enfuir. Et de ce marier. J'emmerde ce que veulent nos parents. Nous n'avons qu'une seule vie, n'est-ce pas ?"
+    kb "Nous avons pris la décision de partir et de nous enfuir. Et de ce marier. J'emmerde ce que veulent nos parents. Nous n'avons qu'une seule vie, n'est-ce pas?"
 
 # game/code/d20/d20s03.rpy:253
 translate french d20s03_a3b1a71e:
@@ -596,13 +596,13 @@ translate french d20s03_53cf85a0:
 translate french d20s03_f4b72fa4:
 
     # kb "Because I'm going to go away. Maybe you'll join me?"
-    kb "Parce que je vais partir. Peut-être que tu me rejoindras ?"
+    kb "Parce que je vais partir. Peut-être que tu me rejoindras?"
 
 # game/code/d20/d20s03.rpy:260
 translate french d20s03_2ffde6f3:
 
     # mc "I don't think that'll be necessary. I mean, aren't you going to stay until after the exam, at least?"
-    mc "Je ne pense pas que ce sera nécessaire. Je veux dire, tu ne vas pas rester au moins jusqu'après l'examen ?"
+    mc "Je ne pense pas que ce sera nécessaire. Je veux dire, tu ne vas pas rester au moins jusqu'après l'examen?"
 
 # game/code/d20/d20s03.rpy:263
 translate french d20s03_a5f3f6ef:
@@ -614,13 +614,13 @@ translate french d20s03_a5f3f6ef:
 translate french d20s03_def0ad19:
 
     # mc "What is it?"
-    mc "Qu'est-ce que c'est ?"
+    mc "Qu'est-ce que c'est?"
 
 # game/code/d20/d20s03.rpy:282
 translate french d20s03_40cabd70:
 
     # cb "Surprise!"
-    cb "Surprise !"
+    cb "Surprise!"
 
 # game/code/d20/d20s03.rpy:286
 translate french d20s03_55a984cf:
@@ -632,13 +632,13 @@ translate french d20s03_55a984cf:
 translate french d20s03_2e71f394:
 
     # mc "Holy shit! What the fuck was that?"
-    mc "Putain de merde ! C'est quoi, ce bordel ?"
+    mc "Putain de merde! C'est quoi, ce bordel?"
 
 # game/code/d20/d20s03.rpy:298
 translate french d20s03_3f831623:
 
     # cb "Did I get him?"
-    cb "Je l'ai eu ?"
+    cb "Je l'ai eu?"
 
 # game/code/d20/d20s03.rpy:301
 translate french d20s03_5593d4c1:
@@ -650,7 +650,7 @@ translate french d20s03_5593d4c1:
 translate french d20s03_f362e56a:
 
     # mc "Are you guys kidding me? I was legitimately fearing for my life there."
-    mc "Vous vous foutez de moi ? Je craignais pour ma vie là."
+    mc "Vous vous foutez de moi? Je craignais pour ma vie là."
 
 # game/code/d20/d20s03.rpy:307
 translate french d20s03_e6c611b1:
@@ -680,7 +680,7 @@ translate french d20s03_b5249d10:
 translate french d20s03_9a536f89:
 
     # cb "Are you really that unhappy?"
-    cb "Tu es vraiment si malheureux ?"
+    cb "Tu es vraiment si malheureux?"
 
 # game/code/d20/d20s03.rpy:322
 translate french d20s03_dc3ec4e8:
@@ -746,7 +746,7 @@ translate french d20s03_e11ffd84:
 translate french d20s03_42bd829d:
 
     # mc "Wait, what?"
-    mc "Attends, quoi ?"
+    mc "Attends, quoi?"
 
 # game/code/d20/d20s03.rpy:348
 translate french d20s03_6328cd53:
@@ -758,7 +758,7 @@ translate french d20s03_6328cd53:
 translate french d20s03_e2e930a6:
 
     # mc "Huh? What does Kevin think about this?"
-    mc "Huh ?  Kévin ?"
+    mc "Huh?  Kévin?"
 
 # game/code/d20/d20s03.rpy:354
 translate french d20s03_b1a0b4e2:
@@ -770,19 +770,19 @@ translate french d20s03_b1a0b4e2:
 translate french d20s03_7e5d939a:
 
     # cb "So? What do you think?"
-    cb "Alors ?  Qu'en penses-tu?"
+    cb "Alors?  Qu'en penses-tu?"
 
 # game/code/d20/d20s03.rpy:357
 translate french d20s03_ef6bcf87:
 
     # mc "But why? Would I ever see this kid if he was born?"
-    mc "Mais pourquoi ?  Si je voulais un jour voir cet enfant ?"
+    mc "Mais pourquoi?  Si je voulais un jour voir cet enfant?"
 
 # game/code/d20/d20s03.rpy:360
 translate french d20s03_69e92fe9:
 
     # cb "Do you want to?"
-    cb "Tu voudrais ?"
+    cb "Tu voudrais?"
 
 # game/code/d20/d20s03.rpy:363
 translate french d20s03_7a6d41cc:
@@ -830,31 +830,31 @@ translate french d20s03_711975da:
 translate french d20s03_01f4b8e5:
 
     # mc "Kevin, you hearing this, man? This is crazy."
-    mc "Kevin, tu entends ça, mec ? C'est fou."
+    mc "Kevin, tu entends ça, mec? C'est fou."
 
 # game/code/d20/d20s03.rpy:380
 translate french d20s03_315d4781:
 
     # kb "Come on, bro. Say yes!"
-    kb "Allez, mon frère. Dis oui !"
+    kb "Allez, mon frère. Dis oui!"
 
 # game/code/d20/d20s03.rpy:381
 translate french d20s03_bb0360f9:
 
     # kb "Think of it as a parting gift!"
-    kb "Considère ça comme un cadeau d'adieu !"
+    kb "Considère ça comme un cadeau d'adieu!"
 
 # game/code/d20/d20s03.rpy:384
 translate french d20s03_15f26458:
 
     # mc "No worries, Kev! I totally know what you mean by that."
-    mc "Pas de soucis, Kev ! Je sais totalement ce que tu veux dire."
+    mc "Pas de soucis, Kev! Je sais totalement ce que tu veux dire."
 
 # game/code/d20/d20s03.rpy:385
 translate french d20s03_d2132efb:
 
     # mc "Chloe, what are you getting out of this?"
-    mc "Chloé, qu'est-ce que tu retires de ça ?"
+    mc "Chloé, qu'est-ce que tu retires de ça?"
 
 # game/code/d20/d20s03.rpy:388
 translate french d20s03_7103565e:
@@ -878,13 +878,13 @@ translate french d20s03_42521367:
 translate french d20s03_f1a54659:
 
     # cb "Do you want some time to think about it?"
-    cb "Tu veux un peu de temps pour y réfléchir ?"
+    cb "Tu veux un peu de temps pour y réfléchir?"
 
 # game/code/d20/d20s03.rpy:404
 translate french d20s03_498e69de:
 
     # cb "Really?"
-    cb "Vraiment ?"
+    cb "Vraiment?"
 
 # game/code/d20/d20s03.rpy:407
 translate french d20s03_c90ce615:
@@ -902,7 +902,7 @@ translate french d20s03_43309f22:
 translate french d20s03_continue_498e69de:
 
     # cb "Really?"
-    cb "Vraiment ?"
+    cb "Vraiment?"
 
 # game/code/d20/d20s03.rpy:421
 translate french d20s03_continue_a4ea137b:
@@ -914,13 +914,13 @@ translate french d20s03_continue_a4ea137b:
 translate french d20s03_continue_c4fa14ce:
 
     # kb "Fuck yeah! Let's get started then."
-    kb "Putain ouais ! Commençons alors."
+    kb "Putain ouais! Commençons alors."
 
 # game/code/d20/d20s03.rpy:426
 translate french d20s03_continue_bd72ad49:
 
     # mc "Aren't you going to sit and watch?"
-    mc "Tu ne vas pas t'asseoir et regarder ?"
+    mc "Tu ne vas pas t'asseoir et regarder?"
 
 # game/code/d20/d20s03.rpy:429
 translate french d20s03_continue_9365438e:
@@ -938,7 +938,7 @@ translate french d20s03_continue_3dd3cbf7:
 translate french d20s03_continue_80d981a3:
 
     # cb "What's the matter? What are you waiting for?"
-    cb "Qu'est-ce qu'il y a ? Qu'est-ce que tu attends?"
+    cb "Qu'est-ce qu'il y a? Qu'est-ce que tu attends?"
 
 # game/code/d20/d20s03.rpy:441
 translate french d20s03_continue_f13e7946:
@@ -956,25 +956,25 @@ translate french d20s03_continue_82a535be:
 translate french d20s03_continue_de3b1664:
 
     # kb "Don't worry about it, man!"
-    kb "Ne t'inquiète pas pour ça, mec !"
+    kb "Ne t'inquiète pas pour ça, mec!"
 
 # game/code/d20/d20s03.rpy:446
 translate french d20s03_continue_2ccaa55c:
 
     # kb "I like fucked up!"
-    kb "J'aime la merde !"
+    kb "J'aime la merde!"
 
 # game/code/d20/d20s03.rpy:447
 translate french d20s03_continue_37e2ddef:
 
     # kb "Don't you remember fucking her in the ass before?"
-    kb "Tu ne te souviens pas de lui avoir déjà baisé le cul ?"
+    kb "Tu ne te souviens pas de lui avoir déjà baisé le cul?"
 
 # game/code/d20/d20s03.rpy:451
 translate french d20s03_continue_826fb9c5:
 
     # mc "How could I forget?"
-    mc "Comment pourrais-je oublier ?"
+    mc "Comment pourrais-je oublier?"
 
 # game/code/d20/d20s03.rpy:454
 translate french d20s03_continue_f7f0c998:
@@ -992,7 +992,7 @@ translate french d20s03_continue_28e189c8:
 translate french d20s03_continue_c2ea84bb:
 
     # mc "Oh shit!"
-    mc "Oh merde !"
+    mc "Oh merde!"
 
 # game/code/d20/d20s03.rpy:502
 translate french d20s03_continue_6b285331:
@@ -1004,7 +1004,7 @@ translate french d20s03_continue_6b285331:
 translate french d20s03_continue_a67d98e8:
 
     # mc "How much time do we have?"
-    mc "Combien de temps avons-nous ?"
+    mc "Combien de temps avons-nous?"
 
 # game/code/d20/d20s03.rpy:517
 translate french d20s03_continue_e567f1e5:
@@ -1040,7 +1040,7 @@ translate french d20s03_continue_989c6cb7:
 translate french d20s03_continue_9ee018df:
 
     # mct "First time we had sex, I fucked her in the ass with Kevin watching, and now, I end up impregnating her?"
-    mct "La première fois qu'on a fait l'amour, je l'ai enculée sous les yeux de Kevin, et maintenant, je finis par l'imprégner ?"
+    mct "La première fois qu'on a fait l'amour, je l'ai enculée sous les yeux de Kevin, et maintenant, je finis par l'imprégner?"
 
 # game/code/d20/d20s03.rpy:543
 translate french d20s03_continue_0336eadd:
@@ -1082,7 +1082,7 @@ translate french d20s03_continue_93989da8:
 translate french d20s03_continue_4a3c1415:
 
     # mc "Do you like how I fuck you?"
-    mc "Tu aimes comment je te baise ?"
+    mc "Tu aimes comment je te baise?"
 
 # game/code/d20/d20s03.rpy:592
 translate french d20s03_continue_753aef48:
@@ -1094,7 +1094,7 @@ translate french d20s03_continue_753aef48:
 translate french d20s03_continue_da7c5b2c:
 
     # cb "I'm coming!"
-    cb "J'arrive !"
+    cb "J'arrive!"
 
 # game/code/d20/d20s03.rpy:612
 translate french d20s03_continue_bc20e9e9:
@@ -1106,7 +1106,7 @@ translate french d20s03_continue_bc20e9e9:
 translate french d20s03_continue_2731bd11:
 
     # mct "Holy shit! I almost came."
-    mct "Putain de merde ! J'ai failli venir."
+    mct "Putain de merde! J'ai failli venir."
 
 # game/code/d20/d20s03.rpy:617
 translate french d20s03_continue_1e9c8598:
@@ -1136,7 +1136,7 @@ translate french d20s03_continue_467b0828:
 translate french d20s03_continue_9160cad3:
 
     # cb "Let it all out!"
-    cb "Laisse tout sortir !"
+    cb "Laisse tout sortir!"
 
 # game/code/d20/d20s03.rpy:638
 translate french d20s03_continue_446cc46c:
@@ -1160,13 +1160,13 @@ translate french d20s03_continue_1cff1d47:
 translate french d20s03_continue_d15e9c67:
 
     # mc "*Ahh!*"
-    mc "*Ahh !*"
+    mc "*Ahh!*"
 
 # game/code/d20/d20s03.rpy:655
 translate french d20s03_continue_51fbe59c:
 
     # mct "I'm coming so hard!"
-    mct "J'arrive si fort !"
+    mct "J'arrive si fort!"
 
 # game/code/d20/d20s03.rpy:659
 translate french d20s03_continue_bb86bdb9:
@@ -1232,13 +1232,13 @@ translate french d20s03_continue_a3ce470e:
 translate french d20s03_continue_c37675ca:
 
     # kb "So have we decided where we're going?"
-    kb "Alors on doit décidé où on va ?"
+    kb "Alors on doit décidé où on va?"
 
 # game/code/d20/d20s03.rpy:700
 translate french d20s03_continue_c5c88398:
 
     # mc "Going? Going where?"
-    mc "Où vous aller ?  Comment ça ?"
+    mc "Où vous aller?  Comment ça?"
 
 # game/code/d20/d20s03.rpy:701
 translate french d20s03_continue_ef07d6ca:
@@ -1256,7 +1256,7 @@ translate french d20s03_continue_bb3ca3ae:
 translate french d20s03_continue_d99f856b:
 
     # mc "What time is it?"
-    mc "Quelle heure est-il ?"
+    mc "Quelle heure est-il?"
 
 # game/code/d20/d20s03.rpy:708
 translate french d20s03_continue_2c64e823:
@@ -1284,8 +1284,9 @@ translate french strings:
 
     # game/code/d20/d20s03.rpy:395
     old "Let's do it!"
-    new "Faisons-le !"
+    new "Faisons-le!"
 
     # game/code/d20/d20s03.rpy:395
     old "I thought about it. The answer is no."
     new "J'y ai pensé. La réponse est non."
+

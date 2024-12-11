@@ -14,13 +14,13 @@ translate french d16s06_23535841:
 translate french d16s06_5e531ec9:
 
     # aw "Hey! You came."
-    aw "Hé ! Tu es venu."
+    aw "Hé! Tu es venu."
 
 # game/code/d16/d16s06.rpy:97
 translate french d16s06_46750735:
 
     # mc "I said I would, didn't I?"
-    mc « J'ai dit que je le ferais, n'est-ce pas ?
+    mc "J'ai dit que je le ferais, n'est-ce pas?"
 
 # game/code/d16/d16s06.rpy:100
 translate french d16s06_d952f264:
@@ -50,7 +50,7 @@ translate french d16s06_0aabcf23:
 translate french d16s06_802579eb:
 
     # aw "Oh? About what?"
-    aw "Oh ? A propos de quoi ?"
+    aw "Oh? A propos de quoi?"
 
 # game/code/d16/d16s06.rpy:122
 translate french d16s06_a021263f:
@@ -62,7 +62,7 @@ translate french d16s06_a021263f:
 translate french d16s06_1100d8c6:
 
     # aw "Oh. Can we not? I'd much rather—"
-    aw "Oh. Ne pouvons-nous pas ? Je préférerais de loin—"
+    aw "Oh. Ne pouvons-nous pas? Je préférerais de loin—"
 
 # game/code/d16/d16s06.rpy:131
 translate french d16s06_98a839d5:
@@ -104,31 +104,31 @@ translate french d16s06_6a7fe3d5:
 translate french d16s06_dcfd2e8f:
 
     # aw "She asked you? To do what exactly? {i}Persuade{/i} me?"
-    aw "Elle vous a demandé ? De faire quoi exactement ? Me {i}persuader{/i} ?"
+    aw "Elle vous a demandé? De faire quoi exactement? Me {i}persuader{/i}?"
 
 # game/code/d16/d16s06.rpy:151
 translate french d16s06_cd59fcce:
 
     # aw "Did she want you to try and gaslight me as well?"
-    aw « Est-ce qu'elle voulait que tu essaies de m'allumer aussi ?
+    aw "Est-ce qu'elle voulait que tu essaies de m'allumer aussi?"
 
 # game/code/d16/d16s06.rpy:155
 translate french d16s06_38785104:
 
     # aw "Get me to come back as her submissive little daughter?"
-    aw "Tu me fais revenir en tant que petite fille soumise ?"
+    aw "Tu me fais revenir en tant que petite fille soumise?"
 
 # game/code/d16/d16s06.rpy:157
 translate french d16s06_79b4f258:
 
     # aw "Get me to come back as her submissive little plaything?"
-    aw "Tu me fais revenir comme son petit jouet soumis ?"
+    aw "Tu me fais revenir comme son petit jouet soumis?"
 
 # game/code/d16/d16s06.rpy:158
 translate french d16s06_2b42c842:
 
     # aw "The daughter she never had?"
-    aw "La fille qu'elle n'a jamais eue ?"
+    aw "La fille qu'elle n'a jamais eue?"
 
 # game/code/d16/d16s06.rpy:170
 translate french d16s06_bd589c0b:
@@ -140,7 +140,7 @@ translate french d16s06_bd589c0b:
 translate french d16s06_35ec306e:
 
     # aw "Well sorry ain't fucking enough!"
-    aw "Eh bien, désolé, ce n'est pas assez, putain !"
+    aw "Eh bien, désolé, ce n'est pas assez, putain!"
 
 # game/code/d16/d16s06.rpy:176
 translate french d16s06_12436050:
@@ -254,7 +254,7 @@ translate french d16s06_b62de387:
 translate french d16s06_890a7222:
 
     # mc "*Laughs* I kinda derailed this whole thing, didn't I?"
-    mc "*Rires* J'ai un peu fait dérailler tout ça, n'est-ce pas ?"
+    mc "*Rires* J'ai un peu fait dérailler tout ça, n'est-ce pas?"
 
 # game/code/d16/d16s06.rpy:219
 translate french d16s06_3fa1e80b:
@@ -302,7 +302,7 @@ translate french d16s06_2fd3b885:
 translate french d16s06_4ebf4ad5:
 
     # aw "I know that you can always get the...{i}most{/i} out of me, so here we are."
-    aw "Je sais que tu peux toujours obtenir le...{i}le plus{/i} de moi, alors nous voilà.
+    aw "Je sais que tu peux toujours obtenir le...{i}le plus{/i} de moi, alors nous voilà."
 
 # game/code/d16/d16s06.rpy:248
 translate french d16s06_33b763ee:
@@ -332,13 +332,13 @@ translate french d16s06_8c2e37d7:
 translate french d16s06_297b1c03:
 
     # aw "What? Why not?"
-    aw "Quoi ? Pourquoi pas ?"
+    aw "Quoi? Pourquoi pas?"
 
 # game/code/d16/d16s06.rpy:264
 translate french d16s06_560195fb:
 
     # mc "Do you know why I threw that party?"
-    mc "Sais-tu pourquoi j'ai organisé cette fête ?"
+    mc "Sais-tu pourquoi j'ai organisé cette fête?"
 
 # game/code/d16/d16s06.rpy:267
 translate french d16s06_f591ea0b:
@@ -356,7 +356,7 @@ translate french d16s06_dac61d50:
 translate french d16s06_f0cca32f:
 
     # aw "What? Why?"
-    aw "Quoi ? Pourquoi ?"
+    aw "Quoi? Pourquoi?"
 
 # game/code/d16/d16s06.rpy:276
 translate french d16s06_94880495:
@@ -386,7 +386,7 @@ translate french d16s06_a87a337b:
 translate french d16s06_9f0d57c3:
 
     # aw "I... Can you not get out of it? Are you alright?"
-    aw "Je... Tu ne peux pas t'en sortir ? Est-ce que tu vas bien ?"    
+    aw "Je... Tu ne peux pas t'en sortir? Est-ce que tu vas bien?"
 
 # game/code/d16/d16s06.rpy:290
 translate french d16s06_a35a5a5a:
@@ -458,7 +458,7 @@ translate french d16s06_ae31ede1:
 translate french d16s06_8038d1e5:
 
     # mc "Maybe we can do something with other stuff? The toys perhaps?"
-    mc "Peut-être qu'on pourrait faire quelque chose avec d'autres trucs ? Les jouets peut-être ?"
+    mc "Peut-être qu'on pourrait faire quelque chose avec d'autres trucs? Les jouets peut-être?"
 
 # game/code/d16/d16s06.rpy:322
 translate french d16s06_7cd820d6:
@@ -494,19 +494,19 @@ translate french d16s06_84e555fa:
 translate french d16s06_20640c20:
 
     # mc "A movie? This smells a lot like a date."
-    mc "Un film ? Ça ressemble beaucoup à un rendez-vous."
+    mc "Un film? Ça ressemble beaucoup à un rendez-vous."
 
 # game/code/d16/d16s06.rpy:339
 translate french d16s06_bbe34ccb:
 
     # aw "What, you scared?"
-    aw "Quoi, tu as peur ?"
+    aw "Quoi, tu as peur?"
 
 # game/code/d16/d16s06.rpy:343
 translate french d16s06_629a982c:
 
     # mc "Oh please. Alright. What movie are we watching?"
-    mc "Oh s'il te plait. Très bien. Quel film regardons-nous ?"
+    mc "Oh s'il te plait. Très bien. Quel film regardons-nous?"
 
 # game/code/d16/d16s06.rpy:346
 translate french d16s06_141e7714:
@@ -524,7 +524,7 @@ translate french d16s06_a2c7bbf1:
 translate french d16s06_51e1153b:
 
     # mc "What about your fans?"
-    mc "Et tes fans ?"
+    mc "Et tes fans?"
 
 # game/code/d16/d16s06.rpy:352
 translate french d16s06_141d361e:
@@ -620,7 +620,7 @@ translate french d16s06_f4af65e8:
 translate french d16s06_e0465729:
 
     # aw "*Staggered moans* I'm close!"
-    aw "*Gémissements décalés* Je suis proche !"
+    aw "*Gémissements décalés* Je suis proche!"
 
 # game/code/d16/d16s06.rpy:446
 translate french d16s06_e2b6ce7c:
@@ -632,13 +632,13 @@ translate french d16s06_e2b6ce7c:
 translate french d16s06_e02d42a2:
 
     # aw "What do you all think? Should I give him a little reward?"
-    aw "Qu'en pensez-vous tous ? Dois-je lui donner une petite récompense ?"
+    aw "Qu'en pensez-vous tous? Dois-je lui donner une petite récompense?"
 
 # game/code/d16/d16s06.rpy:452
 translate french d16s06_2957cac1:
 
     # aw "Hm? Oh my."
-    aw "Hm ? Oh mon..."
+    aw "Hm? Oh mon..."
 
 # game/code/d16/d16s06.rpy:455
 translate french d16s06_3694dc87:
@@ -680,7 +680,7 @@ translate french d16s06_bdcf079a:
 translate french d16s06_8924eb9b:
 
     # aw "*Moans louder and louder* Yes! Yes! Fuuuck, right there!"
-    aw "*Gémit de plus en plus fort* Oui ! Oui ! Putaiinnn, juste là !"
+    aw "*Gémit de plus en plus fort* Oui! Oui! Putaiinnn, juste là!"
 
 # game/code/d16/d16s06.rpy:559
 translate french d16s06_ea53c38d:
@@ -692,7 +692,7 @@ translate french d16s06_ea53c38d:
 translate french d16s06_25ca1602:
 
     # aw "*Choked moans* F-FUCK! You're hitting me so...deep!"
-    aw "*Gémissements étouffés* P-PUTAIN! Tu me frappes si... profondément !"
+    aw "*Gémissements étouffés* P-PUTAIN! Tu me frappes si... profondément!"
 
 # game/code/d16/d16s06.rpy:595
 translate french d16s06_f066036a:
@@ -770,7 +770,7 @@ translate french d16s06_58c6d057:
 translate french d16s06_d7755542:
 
     # aw "*Laughs* \"Emotions\" huh? Well, I'm sure glad I got to experience it."
-    aw "*Rires* \"Émotions\", hein ? Eh bien, je suis vraiment content d'avoir pu en faire l'expérience."
+    aw "*Rires* \"Émotions\", hein? Eh bien, je suis vraiment content d'avoir pu en faire l'expérience."
 
 # game/code/d16/d16s06.rpy:637
 translate french d16s06_89a8c10f:

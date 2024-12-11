@@ -2,13 +2,13 @@
 translate french d20s05_47e7cec6:
 
     # mes "So... Tell me about your exams!!!{w} How did you do?!"
-    mes "Alors... parle-moi de tes examens !!!{w} Comment c'était ?!"
+    mes "Alors... parle-moi de tes examens!!!{w} Comment c'était?!"
 
 # game/code/d20/d20s05.rpy:50
 translate french d20s05_ea49ab8a:
 
     # mc "I passed!"
-    mc "J'ai réussi !"
+    mc "J'ai réussi!"
 
 # game/code/d20/d20s05.rpy:53
 translate french d20s05_c759461c:
@@ -26,13 +26,13 @@ translate french d20s05_1b01f16f:
 translate french d20s05_3f89a3fa:
 
     # mes "Oh really?"
-    mes "Oh vraiment ?"
+    mes "Oh vraiment?"
 
 # game/code/d20/d20s05.rpy:62
 translate french d20s05_0d376d44:
 
     # mc "Not literally...{w} Why? What do you have planned?"
-    mc "Pas littéralement...{w}  Mais pourquoi ? Qu'a tu prévu ?"
+    mc "Pas littéralement...{w}  Mais pourquoi? Qu'a tu prévu?"
 
 # game/code/d20/d20s05.rpy:72
 translate french d20s05_3284fcce:
@@ -50,7 +50,7 @@ translate french d20s05_6ea2b6b7:
 translate french d20s05_2afe14dd:
 
     # mc "How did you know?"
-    mc "Comment tu le sais ?"
+    mc "Comment tu le sais?"
 
 # game/code/d20/d20s05.rpy:81
 translate french d20s05_41694f02:
@@ -86,13 +86,13 @@ translate french d20s05_1f75fccf:
 translate french d20s05_a0338b27:
 
     # mes "Damn. How is that possible? I thought you were doing well."
-    mes "Putain. Comment est-ce possible ? Je pensais que tu allais reussir."
+    mes "Putain. Comment est-ce possible? Je pensais que tu allais reussir."
 
 # game/code/d20/d20s05.rpy:104
 translate french d20s05_1c4d33e7:
 
     # mc "I don't know. What can I say?{w} I fucked up."
-    mc "Je ne sais pas. Qu'est-ce que je peux dire ?{w} J'ai merdé."
+    mc "Je ne sais pas. Qu'est-ce que je peux dire?{w} J'ai merdé."
 
 # game/code/d20/d20s05.rpy:107
 translate french d20s05_4d4c8af0:
@@ -104,13 +104,13 @@ translate french d20s05_4d4c8af0:
 translate french d20s05_d33a399c:
 
     # mc "You're not particularly comforting, you know that?"
-    mc "Tu n'es pas particulièrement réconfortante, tu sais ça ?"
+    mc "Tu n'es pas particulièrement réconfortante, tu sais ça?"
 
 # game/code/d20/d20s05.rpy:113
 translate french d20s05_38b34d4a:
 
     # mes "Yeah, my bad. What are you going to do?"
-    mes "Ouais, c'est ma faute. Qu'est-ce que tu vas faire ?"
+    mes "Ouais, c'est ma faute. Qu'est-ce que tu vas faire?"
 
 # game/code/d20/d20s05.rpy:116
 translate french d20s05_84b3d257:
@@ -122,7 +122,7 @@ translate french d20s05_84b3d257:
 translate french d20s05_d17db2ce:
 
     # mes "Oh. That makes sense.{w} Do you want some company?"
-    mes "Oh. C'est logique.{w} Tu veux de la compagnie ?"
+    mes "Oh. C'est logique.{w} Tu veux de la compagnie?"
 
 # game/code/d20/d20s05.rpy:122
 translate french d20s05_715fb94e:
@@ -158,13 +158,13 @@ translate french d20s05_celebrate_71b562c5:
 translate french d20s05_celebrate_57962156:
 
     # mc "I assume you passed your exams as well?"
-    mc "Je suppose que tu as réussi tes examens aussi ?"
+    mc "Je suppose que tu as réussi tes examens aussi?"
 
 # game/code/d20/d20s05.rpy:150
 translate french d20s05_celebrate_6c016274:
 
     # mes "Did you ever have any doubts?"
-    mes "Tu avais des doutes ?"
+    mes "Tu avais des doutes?"
 
 # game/code/d20/d20s05.rpy:153
 translate french d20s05_celebrate_10e7419a:
@@ -218,13 +218,13 @@ translate french d20s05_mes_house_33256f49:
 translate french d20s05_mes_house_0a84842c:
 
     # mc "You don't mean...?"
-    mc "Tu ne veux dire... ?"
+    mc "Tu ne veux dire...?"
 
 # game/code/d20/d20s05.rpy:191
 translate french d20s05_mes_house_c3fb5ca3:
 
     # mes "Did you think I just had this pole here for decoration...{w} or maybe for parties?"
-    mes "Tu pensais que j'avais juste ce poteau pour la décoration...{w} ou peut-être pour les fêtes ?"
+    mes "Tu pensais que j'avais juste ce poteau pour la décoration...{w} ou peut-être pour les fêtes?"
 
 # game/code/d20/d20s05.rpy:193
 translate french d20s05_mes_house_956dc698:
@@ -260,19 +260,19 @@ translate french d20s05_mes_house_6fb9ff83:
 translate french d20s05_mes_house_fb25044c:
 
     # mes "And I'm gonna win!"
-    mes "Et je vais gagner !"
+    mes "Et je vais gagner!"
 
 # game/code/d20/d20s05.rpy:227
 translate french d20s05_mes_house_b3c69a7b:
 
     # mct "Where on earth did she learn to dance like that?"
-    mct "Où diable a-t-elle appris à danser comme ça ?"
+    mct "Où diable a-t-elle appris à danser comme ça?"
 
 # game/code/d20/d20s05.rpy:235
 translate french d20s05_mes_house_2dda7cc2:
 
     # mct "Did she come up with this herself? I need to get her some lessons somewhere."
-    mct "Est-ce qu'elle a inventé ça elle-même ?"
+    mct "Est-ce qu'elle a inventé ça elle-même?"
 
 # game/code/d20/d20s05.rpy:238
 translate french d20s05_mes_house_c5a10614:
@@ -314,13 +314,13 @@ translate french d20s05_mes_house_e5e1ba57:
 translate french d20s05_mes_house_68c91ff2:
 
     # mes "I'm all pelvic thrust...{w} and I'm on the prowl for you!"
-    mes "Je suis entièrement en poussée pelvienne...{w} et je suis à l'affût pour toi !"
+    mes "Je suis entièrement en poussée pelvienne...{w} et je suis à l'affût pour toi!"
 
 # game/code/d20/d20s05.rpy:272
 translate french d20s05_mes_house_e41d701d:
 
     # mct "... What{w} the fuck did she say?"
-    mct "... Qu'est-ce qu'elle a dit, putain ?"
+    mct "... Qu'est-ce qu'elle a dit, putain?"
 
 # game/code/d20/d20s05.rpy:273
 translate french d20s05_mes_house_5d8b07ef:
@@ -350,7 +350,7 @@ translate french d20s05_pool_0a1dca60:
 translate french d20s05_pool_e0227d59:
 
     # mc "Shouldn't I be the one fucking you?"
-    mc "Je ne devrais pas être celui qui te baise ?"
+    mc "Je ne devrais pas être celui qui te baise?"
 
 # game/code/d20/d20s05.rpy:354
 translate french d20s05_pool_79863230:
@@ -362,7 +362,7 @@ translate french d20s05_pool_79863230:
 translate french d20s05_pool_32ad1ed8:
 
     # mc "You've never had sex in this pool?"
-    mc "Tu n'as jamais fait l'amour dans cette piscine ?"
+    mc "Tu n'as jamais fait l'amour dans cette piscine?"
 
 # game/code/d20/d20s05.rpy:357
 translate french d20s05_pool_f5a4c2e5:
@@ -380,25 +380,25 @@ translate french d20s05_pool_5f2ca332:
 translate french d20s05_pool_10e59414:
 
     # mc "I'm going to fucking cum so deep in you!"
-    mc "Je vais jouir si profondément en toi !"
+    mc "Je vais jouir si profondément en toi!"
 
 # game/code/d20/d20s05.rpy:409
 translate french d20s05_pool_87534738:
 
     # mc "I'm gonna cum! I'm going to fucking cum!!!"
-    mc "Je vais jouir ! Je vais jouir putain !!!"
+    mc "Je vais jouir! Je vais jouir putain!!!"
 
 # game/code/d20/d20s05.rpy:417
 translate french d20s05_pool_6bf8ee2c:
 
     # mes "I'MMMMMmm CUMMMMmmminnnggg!!!!"
-    mes "Je vais...AaMMMMMmmMMmmWaH !!!!
+    mes "Je vais...AaMMMMMmmMMmmWaH!!!!"
 
 # game/code/d20/d20s05.rpy:422
 translate french d20s05_pool_2d352764:
 
     # mc "FUUUUuuCCCKkkkk YEEEAAaaahhhh!!!"
-    mc "PUUUTTTAAAIIINNNNN OUUUUIIIIIIIIIIII !!!"
+    mc "PUUUTTTAAAIIINNNNN OUUUUIIIIIIIIIIII!!!"
 
 # game/code/d20/d20s05.rpy:427
 translate french d20s05_pool_51e715e7:
@@ -416,7 +416,7 @@ translate french d20s05_pool_ca027513:
 translate french d20s05_pool_fa4ce4dc:
 
     # mc "Really?{w} ...what the fuck was that???"
-    mc "Vraiment?{w} ...c'était quoi ce bordel ???"
+    mc "Vraiment?{w} ...c'était quoi ce bordel???"
 
 # game/code/d20/d20s05.rpy:434
 translate french d20s05_pool_b61ae22a:
@@ -488,7 +488,7 @@ translate french d20s05_pool_63121e7c:
 translate french d20s05_pool_talk_74638f27:
 
     # mes "How many points do you think we'll get for that?"
-    mes "Combien de points penses-tu qu'on obtiendra pour ça ?"
+    mes "Combien de points penses-tu qu'on obtiendra pour ça?"
 
 # game/code/d20/d20s05.rpy:472
 translate french d20s05_pool_talk_c009deee:
@@ -500,13 +500,13 @@ translate french d20s05_pool_talk_c009deee:
 translate french d20s05_pool_talk_3da5731e:
 
     # mes "The app is still working. It doesn't say anything about points being suspended. What makes you say that?"
-    mes "L'application fonctionne toujours. Qu'est-ce qui te fait dire ça ?"
+    mes "L'application fonctionne toujours. Qu'est-ce qui te fait dire ça?"
 
 # game/code/d20/d20s05.rpy:478
 translate french d20s05_pool_talk_42e4023f:
 
     # mc "Well, I mean, Lydia...{w} You don't know?"
-    mc "Eh bien, je veux dire, Lydia...{w} Tu ne sais pas ?"
+    mc "Eh bien, je veux dire, Lydia...{w} Tu ne sais pas?"
 
 # game/code/d20/d20s05.rpy:481
 translate french d20s05_pool_talk_ba69763f:
@@ -548,7 +548,7 @@ translate french d20s05_pool_talk_9f71c577:
 translate french d20s05_pool_talk_3dcd77fd:
 
     # mes "Why not?"
-    mes "Pourquoi pas ?"
+    mes "Pourquoi pas?"
 
 # game/code/d20/d20s05.rpy:502
 translate french d20s05_pool_talk_746d654c:
@@ -572,7 +572,7 @@ translate french d20s05_pool_talk_1bd50ac7:
 translate french d20s05_pool_talk_61ea67f6:
 
     # mes "You better fucking explain!"
-    mes "Tu ferais mieux d'expliquer !"
+    mes "Tu ferais mieux d'expliquer!"
 
 # game/code/d20/d20s05.rpy:517
 translate french d20s05_pool_talk_5cbdbffd:
@@ -698,13 +698,13 @@ translate french d20s05_pool_talk_61f3c404:
 translate french d20s05_pool_talk_a31340dd:
 
     # mc "Really?"
-    mc "Vraiment ?"
+    mc "Vraiment?"
 
 # game/code/d20/d20s05.rpy:564
 translate french d20s05_pool_talk_5c220284:
 
     # mes "I should have realized...{w} but wait, why is she in jail?"
-    mes "J'aurais dû réaliser...{w} mais attends, pourquoi est-elle en prison ?"
+    mes "J'aurais dû réaliser...{w} mais attends, pourquoi est-elle en prison?"
 
 # game/code/d20/d20s05.rpy:568
 translate french d20s05_pool_talk_317dca48:
@@ -776,13 +776,13 @@ translate french d20s05_pool_talk_7ec541ad:
 translate french d20s05_pool_talk_387cd596:
 
     # mes "She gets a phone call. Why didn't she call me?"
-    mes "Elle doit pouvoir faire un appel téléphonique. Pourquoi ne m'a-t-elle pas appelé ?"
+    mes "Elle doit pouvoir faire un appel téléphonique. Pourquoi ne m'a-t-elle pas appelé?"
 
 # game/code/d20/d20s05.rpy:594
 translate french d20s05_pool_talk_03969d8c:
 
     # mc "It's only one call, right? Maybe she called her parents or a lawyer?"
-    mc "C'est qu'un seul appel, non ? Peut-être qu'elle a appelé ses parents ou un avocat ?"
+    mc "C'est qu'un seul appel, non? Peut-être qu'elle a appelé ses parents ou un avocat?"
 
 # game/code/d20/d20s05.rpy:597
 translate french d20s05_pool_talk_c158f27c:
@@ -794,7 +794,7 @@ translate french d20s05_pool_talk_c158f27c:
 translate french d20s05_pool_talk_30293434:
 
     # mc "Maybe she's feeling guilty because you got so involved in playing the app?"
-    mc "Peut-être qu'elle se sent coupable parce que tu t'es tellement impliqué avec l'application ?"
+    mc "Peut-être qu'elle se sent coupable parce que tu t'es tellement impliqué avec l'application?"
 
 # game/code/d20/d20s05.rpy:603
 translate french d20s05_pool_talk_5d4e553a:
@@ -806,7 +806,7 @@ translate french d20s05_pool_talk_5d4e553a:
 translate french d20s05_pool_talk_835507d3:
 
     # mes "Why didn't she try to abduct me?"
-    mes "Pourquoi n'a-t-elle pas essayé de m'enlever ?"
+    mes "Pourquoi n'a-t-elle pas essayé de m'enlever?"
 
 # game/code/d20/d20s05.rpy:609
 translate french d20s05_pool_talk_7f84fd12:
@@ -823,8 +823,8 @@ translate french d20s05_pool_talk_0a078fe2:
 # game/code/d20/d20s05.rpy:616
 translate french d20s05_pool_talk_09d05969:
 
-    # mc "She did tell me that you weren't \"ripe\" yet. She didn't want to « pluck » you until you were completely her sex slave."
-    mc "Elle m'a dit que tu n'étais pas encore \"mûr\". Elle ne voulait pas te « plumer » jusqu'à ce que tu sois complètement son esclave sexuelle."
+    # mc "She did tell me that you weren't \"ripe\" yet. She didn't want to \" pluck\" you until you were completely her sex slave."
+    mc "Elle m'a dit que tu n'étais pas encore \"mûr\". Elle ne voulait pas te \" plumer\" jusqu'à ce que tu sois complètement son esclave sexuelle."
 
 # game/code/d20/d20s05.rpy:619
 translate french d20s05_pool_talk_c4dc7027:
@@ -872,13 +872,13 @@ translate french d20s05_plans_cb70afb1:
 translate french d20s05_plans_e967717a:
 
     # mes "Huh?{w} Oh, what were you saying?"
-    mes "Hein ?{w} Oh, qu'est-ce que tu disais ?"
+    mes "Hein?{w} Oh, qu'est-ce que tu disais?"
 
 # game/code/d20/d20s05.rpy:649
 translate french d20s05_plans_071d1a5c:
 
     # mc "I was just wondering...{w} Are you planning to work for your father this summer?"
-    mc "Je me demandais juste...{w}  Tu comptes travailler pour ton père cet été ?"
+    mc "Je me demandais juste...{w}  Tu comptes travailler pour ton père cet été?"
 
 # game/code/d20/d20s05.rpy:652
 translate french d20s05_plans_e04812b0:
@@ -902,7 +902,7 @@ translate french d20s05_plans_49e1cfda:
 translate french d20s05_plans_eec24df4:
 
     # mc "Yeah. But not this summer?"
-    mc "Ouais. Mais pas cet été ?"
+    mc "Ouais. Mais pas cet été?"
 
 # game/code/d20/d20s05.rpy:660
 translate french d20s05_plans_d4dd894d:
@@ -920,7 +920,7 @@ translate french d20s05_plans_e0388910:
 translate french d20s05_plans_e761b3b0:
 
     # mc "You talked about high frequency trading. Is that still something you're interested in?"
-    mc "Tu as parlé de trading à haute fréquence. Est-ce que c'est toujours quelque chose qui t'intéresse ?"
+    mc "Tu as parlé de trading à haute fréquence. Est-ce que c'est toujours quelque chose qui t'intéresse?"
 
 # game/code/d20/d20s05.rpy:667
 translate french d20s05_plans_e6f7e59b:
@@ -950,7 +950,7 @@ translate french d20s05_plans_0e8da6d7:
 translate french d20s05_plans_4b33265b:
 
     # mc "So, while you're bumming here this summer you could create something like that?"
-    mc "Alors, pendant que tu te démerdes ici cet été, tu pourrais créer quelque chose comme ça ?"
+    mc "Alors, pendant que tu te démerdes ici cet été, tu pourrais créer quelque chose comme ça?"
 
 # game/code/d20/d20s05.rpy:681
 translate french d20s05_plans_42afde29:
@@ -962,7 +962,7 @@ translate french d20s05_plans_42afde29:
 translate french d20s05_plans_c9f53e58:
 
     # mes "Anyway, what about you? Any plans for this summer?"
-    mes "Au fait, et toi ? Des projets pour cet été ?"
+    mes "Au fait, et toi? Des projets pour cet été?"
 
 # game/code/d20/d20s05.rpy:700
 translate french d20s05_plans_de0b2124:
@@ -974,7 +974,7 @@ translate french d20s05_plans_de0b2124:
 translate french d20s05_plans_2c1c462d:
 
     # mes "Oh?"
-    mes "Oh ?"
+    mes "Oh?"
 
 # game/code/d20/d20s05.rpy:706
 translate french d20s05_plans_e192bf39:
@@ -986,7 +986,7 @@ translate french d20s05_plans_e192bf39:
 translate french d20s05_plans_0b3249af:
 
     # mes "Sure, what do you have in mind?"
-    mes "Bien sûr, qu'est-ce que tu as en tête ?"
+    mes "Bien sûr, qu'est-ce que tu as en tête?"
 
 # game/code/d20/d20s05.rpy:712
 translate french d20s05_plans_f921cdd7:
@@ -998,7 +998,7 @@ translate french d20s05_plans_f921cdd7:
 translate french d20s05_plans_cc06df70:
 
     # mes "Just like that? Forget about everyone and everything?"
-    mes "Juste comme ça ? Oublier tout le monde et tout ?"
+    mes "Juste comme ça? Oublier tout le monde et tout?"
 
 # game/code/d20/d20s05.rpy:718
 translate french d20s05_plans_29c81d78:
@@ -1010,7 +1010,7 @@ translate french d20s05_plans_29c81d78:
 translate french d20s05_plans_daf401ff:
 
     # mes "Wait...{w} are you joking?"
-    mes "Attends...{w} tu plaisantes ?"
+    mes "Attends...{w} tu plaisantes?"
 
 # game/code/d20/d20s05.rpy:724
 translate french d20s05_plans_9a1a3649:
@@ -1028,7 +1028,7 @@ translate french d20s05_plans_f71aa26f:
 translate french d20s05_plans_f21bbfd8:
 
     # mc "All this Fetish Locator bullshit and Lydia and everything else that's happened the past few weeks?"
-    mc "Toutes ces conneries de Fetish Locator et Lydia et tout ce qui s'est passé ces dernières semaines ?"
+    mc "Toutes ces conneries de Fetish Locator et Lydia et tout ce qui s'est passé ces dernières semaines?"
 
 # game/code/d20/d20s05.rpy:731
 translate french d20s05_plans_00ca0ae7:
@@ -1058,7 +1058,7 @@ translate french d20s05_plans_01d897a5:
 translate french d20s05_plans_cafdbda1:
 
     # mes "What do you mean?"
-    mes "Qu'est-ce que tu veux dire ?"
+    mes "Qu'est-ce que tu veux dire?"
 
 # game/code/d20/d20s05.rpy:744
 translate french d20s05_plans_0f10a4e5:
@@ -1082,13 +1082,13 @@ translate french d20s05_plans_22e067b4:
 translate french d20s05_plans_f49fff8f:
 
     # mc "Yeah?"
-    mc "Ouais ?"
+    mc "Ouais?"
 
 # game/code/d20/d20s05.rpy:754
 translate french d20s05_plans_da26ae48:
 
     # mes "You really want to go somewhere with me for the summer?"
-    mes "Tu veux vraiment aller quelque part avec moi pour l'été ?"
+    mes "Tu veux vraiment aller quelque part avec moi pour l'été?"
 
 # game/code/d20/d20s05.rpy:757
 translate french d20s05_plans_8673ca60:
@@ -1100,7 +1100,7 @@ translate french d20s05_plans_8673ca60:
 translate french d20s05_plans_6a94d091:
 
     # mes "Alright. I'll call the airport.{w} Have you ever flown a private charter?"
-    mes "Très bien. Je vais appeler l'aéroport.{w} As-tu déjà pris un vol charter privé ?"
+    mes "Très bien. Je vais appeler l'aéroport.{w} As-tu déjà pris un vol charter privé?"
 
 # game/code/d20/d20s05.rpy:763
 translate french d20s05_plans_626befea:
@@ -1112,7 +1112,7 @@ translate french d20s05_plans_626befea:
 translate french d20s05_plans_3c5c814b:
 
     # mes "Let's see what he can arrange.{w} Where do you want to go?"
-    mes "Voyons ce que peut organiser.{w} Où veux-tu aller ?"
+    mes "Voyons ce que peut organiser.{w} Où veux-tu aller?"
 
 # game/code/d20/d20s05.rpy:769
 translate french d20s05_plans_597c5e13:
@@ -1130,7 +1130,7 @@ translate french d20s05_plans_299b8702:
 translate french d20s05_plans_3f05fc45:
 
     # mct "Where did she say her family was? Japan? South Korea? Something like that."
-    mct "Où a-t-elle dit que sa famille était ? Japon? Corée du Sud? Quelque chose comme ca."
+    mct "Où a-t-elle dit que sa famille était? Japon? Corée du Sud? Quelque chose comme ca."
 
 # game/code/d20/d20s05.rpy:776
 translate french d20s05_plans_2330d738:
@@ -1142,7 +1142,7 @@ translate french d20s05_plans_2330d738:
 translate french d20s05_plans_3caef39e:
 
     # mes "Really?"
-    mes "Vraiment ?"
+    mes "Vraiment?"
 
 # game/code/d20/d20s05.rpy:782
 translate french d20s05_plans_6e50e4b2:
@@ -1172,7 +1172,7 @@ translate french d20s05_plans_ddf41207:
 translate french d20s05_plans_928fbac8:
 
     # mes "Oh? How so?"
-    mes "Oh ? Comment ça?"
+    mes "Oh? Comment ça?"
 
 # game/code/d20/d20s05.rpy:803
 translate french d20s05_plans_cb949a07:
@@ -1184,19 +1184,19 @@ translate french d20s05_plans_cb949a07:
 translate french d20s05_plans_cafdbda1_1:
 
     # mes "What do you mean?"
-    mes "Qu'est-ce que tu veux dire ?"
+    mes "Qu'est-ce que tu veux dire?"
 
 # game/code/d20/d20s05.rpy:809
 translate french d20s05_plans_8ba609e6:
 
     # mc "Have you ever experienced one of those life altering experiences - where everything you planned suddenly got turned on it's head?"
-    mc "As-tu déjà vécu une de ces expériences qui changent ta vie, où tout ce que tu avais prévu se retrouve soudainement bouleversé ?"
+    mc "As-tu déjà vécu une de ces expériences qui changent ta vie, où tout ce que tu avais prévu se retrouve soudainement bouleversé?"
 
 # game/code/d20/d20s05.rpy:812
 translate french d20s05_plans_0ab20ded:
 
     # mes "You mean like when Antony broke up with me?"
-    mes "Tu veux dire comme quand Antony a rompu avec moi ?"
+    mes "Tu veux dire comme quand Antony a rompu avec moi?"
 
 # game/code/d20/d20s05.rpy:815
 translate french d20s05_plans_981c8ccf:
@@ -1280,7 +1280,7 @@ translate french d20s05_plans_96ed09e7:
 translate french d20s05_plans_1e63852c:
 
     # mes "So, what do you want to do?"
-    mes "Alors, qu'est-ce que tu veux faire ?"
+    mes "Alors, qu'est-ce que tu veux faire?"
 
 # game/code/d20/d20s05.rpy:843
 translate french d20s05_plans_1f3678d3:
@@ -1310,7 +1310,7 @@ translate french d20s05_plans_527938b7:
 translate french d20s05_plans_f49fff8f_1:
 
     # mc "Yeah?"
-    mc "Ouais ?"
+    mc "Ouais?"
 
 # game/code/d20/d20s05.rpy:858
 translate french d20s05_plans_f7a12d51:
@@ -1349,3 +1349,4 @@ translate french strings:
     # game/code/d20/d20s05.rpy:688
     old "Talk About Your Summer Plans"
     new "Parle de tes projets d'été"
+

@@ -14,13 +14,13 @@ translate french d18s01_cb2813b8:
 translate french d18s01_628384fd:
 
     # mct "Someone's actually on my dick!"
-    mct "Quelqu'un est sur ma bite !"
+    mct "Quelqu'un est sur ma bite!"
 
 # game/code/d18/d18s01.rpy:42
 translate french d18s01_ntr_e30287dd:
 
     # mc "Lydia!?!"
-    mc "Lydia !?!"
+    mc "Lydia!?!"
 
 # game/code/d18/d18s01.rpy:45
 translate french d18s01_ntr_d0dbdef0:
@@ -32,13 +32,13 @@ translate french d18s01_ntr_d0dbdef0:
 translate french d18s01_ntr_91167db8:
 
     # mct "Oh my fucking cuddely fuzzy Lord I can't believe it!"
-    mct "Oh mon putain de Seigneur de câlin pelucheux, je n'arrive pas à y croire !"
+    mct "Oh mon putain de Seigneur de câlin pelucheux, je n'arrive pas à y croire!"
 
 # game/code/d18/d18s01.rpy:47
 translate french d18s01_ntr_1c9d5afd:
 
     # mct "I'm laying here asleep and she's working my fucking cock like a professional fluffer!!"
-    mct "Je dors ici et elle travaille ma putain de bite comme une pro !!"
+    mct "Je dors ici et elle travaille ma putain de bite comme une pro!!"
 
 # game/code/d18/d18s01.rpy:50
 translate french d18s01_ntr_874b2b18:
@@ -80,13 +80,13 @@ translate french d18s01_ntr_19109c3b:
 translate french d18s01_ntr_b40852bc:
 
     # mct "I'm gonna cum all over you!"
-    mct "Je vais jouir partout sur toi !"
+    mct "Je vais jouir partout sur toi!"
 
 # game/code/d18/d18s01.rpy:77
 translate french d18s01_ntr_92906074:
 
     # mc "Oh!{w} Ew!!"
-    mc "Oh !{w} Ew !!"
+    mc "Oh!{w} Ew!!"
 
 # game/code/d18/d18s01.rpy:80
 translate french d18s01_ntr_55860a02:
@@ -116,13 +116,13 @@ translate french d18s01_ntr_881e1ab2:
 translate french d18s01_ntr_5cbeedee:
 
     # mct "Especially after...{w} When was the last time I came?"
-    mct "Surtout après...{w} Quand suis-je venu pour la dernière fois ?"
+    mct "Surtout après...{w} Quand suis-je venu pour la dernière fois?"
 
 # game/code/d18/d18s01.rpy:96
 translate french d18s01_lc_e30287dd:
 
     # mc "Lydia!?!"
-    mc "Lydia !?!"
+    mc "Lydia!?!"
 
 # game/code/d18/d18s01.rpy:99
 translate french d18s01_lc_d0dbdef0:
@@ -134,13 +134,13 @@ translate french d18s01_lc_d0dbdef0:
 translate french d18s01_lc_278d74cd:
 
     # mct "Oh my fucking snuggly fluffy Lord I can't believe it!"
-    mct "Oh mon putain de Seigneur moelleux et douillet, je n'arrive pas à y croire !"
+    mct "Oh mon putain de Seigneur moelleux et douillet, je n'arrive pas à y croire!"
 
 # game/code/d18/d18s01.rpy:105
 translate french d18s01_lc_4b21ebe1:
 
     # mct "I'm laying here asleep and she's sucking my fucking cock like a cheap whore!!"
-    mct "Je dors ici et elle me suce ma putain de bite comme une pute bon marché !!"
+    mct "Je dors ici et elle me suce ma putain de bite comme une pute bon marché!!"
 
 # game/code/d18/d18s01.rpy:108
 translate french d18s01_lc_874b2b18:
@@ -164,13 +164,13 @@ translate french d18s01_lc_6bc628d3:
 translate french d18s01_lc_22ae7eaf:
 
     # mct "Or maybe get up and take her virginity by force!"
-    mct "Ou peut-être se lever et lui prendre sa virginité de force !"
+    mct "Ou peut-être se lever et lui prendre sa virginité de force!"
 
 # game/code/d18/d18s01.rpy:122
 translate french d18s01_lc_85977c59:
 
     # mct "Or maybe get up and fuck the virginity right out of her!"
-    mct "Ou peut-être que tu te lèves et que tu lui baises la virginité !"
+    mct "Ou peut-être que tu te lèves et que tu lui baises la virginité!"
 
 # game/code/d18/d18s01.rpy:124
 translate french d18s01_lc_ae276db1:
@@ -200,13 +200,13 @@ translate french d18s01_lc_19109c3b:
 translate french d18s01_lc_b40852bc:
 
     # mct "I'm gonna cum all over you!"
-    mct "Je vais jouir partout sur toi !"
+    mct "Je vais jouir partout sur toi!"
 
 # game/code/d18/d18s01.rpy:163
 translate french d18s01_lc_dcc73c46:
 
     # mc "Oh!{w} Yeah!!"
-    mc "Oh !{w} Ouais !!"
+    mc "Oh!{w} Ouais!!"
 
 # game/code/d18/d18s01.rpy:167
 translate french d18s01_lc_55860a02:
@@ -230,7 +230,7 @@ translate french d18s01_lc_881e1ab2:
 translate french d18s01_lc_5cbeedee:
 
     # mct "Especially after...{w} When was the last time I came?"
-    mct "Surtout après...{w} Quand suis-je venu pour la dernière fois ?"
+    mct "Surtout après...{w} Quand suis-je venu pour la dernière fois?"
 
 # game/code/d18/d18s01.rpy:184
 translate french d18s01_cuddle_f357d20e:
@@ -266,7 +266,7 @@ translate french d18s01_cuddle_e538d841:
 translate french d18s01_cuddle_516d03e6:
 
     # mct "Punch and pie? What does she think this is, South Park?"
-    mct "Punch et tarte ? Qu'est-ce qu'elle pense que c'est, South Park ?"
+    mct "Punch et tarte? Qu'est-ce qu'elle pense que c'est, South Park?"
 
 # game/code/d18/d18s01.rpy:202
 translate french d18s01_cuddle_be966c83:
@@ -284,13 +284,13 @@ translate french d18s01_cuddle_56efa737:
 translate french d18s01_cuddle_ab85f5de:
 
     # mct "Yeah, yeah. I get the joke. Does everyone use this?"
-    mct "Ouais, ouais. Je comprends la blague. Est-ce que tout le monde utilise ça ?"
+    mct "Ouais, ouais. Je comprends la blague. Est-ce que tout le monde utilise ça?"
 
 # game/code/d18/d18s01.rpy:207
 translate french d18s01_cuddle_ce87cd97:
 
     # mct "\"Study. Finals. My place. Be there. Yes?\""
-    mct "\"Étude. Finale. Chez moi. Sois là. Ok ?\""
+    mct "\"Étude. Finale. Chez moi. Sois là. Ok?\""
 
 # game/code/d18/d18s01.rpy:209
 translate french d18s01_cuddle_e5a76e6a:
@@ -314,13 +314,13 @@ translate french d18s01_cuddle_8886eb8c:
 translate french d18s01_cuddle_9a96f73c:
 
     # mc "What's up, hon?"
-    mc "Oui, chérie ?"
+    mc "Oui, chérie?"
 
 # game/code/d18/d18s01.rpy:221
 translate french d18s01_cuddle_6b88fd97:
 
     # lc "Is this a good time to set up my Fetish Locator account?"
-    lc "Est-ce le bon moment pour créer mon compte Fetish Locator ?"
+    lc "Est-ce le bon moment pour créer mon compte Fetish Locator?"
 
 # game/code/d18/d18s01.rpy:224
 translate french d18s01_cuddle_b8de06d3:
@@ -332,13 +332,13 @@ translate french d18s01_cuddle_b8de06d3:
 translate french d18s01_cuddle_57b9760e:
 
     # lc "You don't want me to have one?{w} I mean, I'd only get points for the things we do together."
-    lc "Tu ne veux pas que j'en ai un ?{w} Je veux dire, je n'obtiendrais des points que pour les choses que nous faisons ensemble."
+    lc "Tu ne veux pas que j'en ai un?{w} Je veux dire, je n'obtiendrais des points que pour les choses que nous faisons ensemble."
 
 # game/code/d18/d18s01.rpy:228
 translate french d18s01_cuddle_dd8d715b:
 
     # lc "You know that, right?"
-    lc "Tu le sais, n'est-ce pas ?"
+    lc "Tu le sais, n'est-ce pas?"
 
 # game/code/d18/d18s01.rpy:232
 translate french d18s01_cuddle_87d45447:
@@ -362,7 +362,7 @@ translate french d18s01_cuddle_4f2cb487:
 translate french d18s01_cuddle_017fbef6:
 
     # mc "Is it okay if we shower together?"
-    mc "Est-ce que ça va si on se douche ensemble ?"
+    mc "Est-ce que ça va si on se douche ensemble?"
 
 # game/code/d18/d18s01.rpy:240
 translate french d18s01_cuddle_92f0bad7:
@@ -380,7 +380,7 @@ translate french d18s01_cuddle_d885ffc5:
 translate french d18s01_cuddle_79ddccd7:
 
     # lc "FUCK YES!!!"
-    lc "Putain OUI !!!"
+    lc "Putain OUI!!!"
 
 # game/code/d18/d18s01.rpy:246
 translate french d18s01_cuddle_224f840a:
@@ -398,7 +398,7 @@ translate french d18s01_shower_d6f4bed4:
 translate french d18s01_shower_31c22ce3:
 
     # lc "What are you thinking?"
-    lc "A quoi tu penses ?"
+    lc "A quoi tu penses?"
 
 # game/code/d18/d18s01.rpy:264
 translate french d18s01_shower_7a6fa90a:
@@ -434,7 +434,7 @@ translate french d18s01_shower_5640a6ac:
 translate french d18s01_shower_83085384:
 
     # mc "It's a short list?"
-    mc "C'est une courte liste ?"
+    mc "C'est une courte liste?"
 
 # game/code/d18/d18s01.rpy:279
 translate french d18s01_shower_ffcf7d5a:
@@ -458,7 +458,7 @@ translate french d18s01_shower_8aa7658c:
 translate french d18s01_shower_c32ad2c1:
 
     # lc "Without plucking my virginity?"
-    lc "Sans m'arracher ma virginité ?"
+    lc "Sans m'arracher ma virginité?"
 
 # game/code/d18/d18s01.rpy:288
 translate french d18s01_shower_b4b5c39b:
@@ -488,7 +488,7 @@ translate french d18s01_shower_0f95584f:
 translate french d18s01_shower_9927fb89:
 
     # mc "There was?"
-    mc "Il y avait ?"
+    mc "Il y avait?"
 
 # game/code/d18/d18s01.rpy:299
 translate french d18s01_shower_ed38f8ed:
@@ -500,19 +500,19 @@ translate french d18s01_shower_ed38f8ed:
 translate french d18s01_shower_c3be93af:
 
     # mc "Before you were naked, wet, and lathering in front of me?"
-    mc "Avant tu étais nue, mouillée et en train de mousser devant moi ?"
+    mc "Avant tu étais nue, mouillée et en train de mousser devant moi?"
 
 # game/code/d18/d18s01.rpy:304
 translate french d18s01_shower_56e97989:
 
     # lc "Something about that app...?"
-    lc "Quelque chose à propos de cette application... ?"
+    lc "Quelque chose à propos de cette application...?"
 
 # game/code/d18/d18s01.rpy:307
 translate french d18s01_shower_2d3d611a:
 
     # mc "FUCK! Fetish Locator.{w} I'm sorry, my brain was..."
-    mc "Putain ! Fetish Locator.{w} Je suis désolé, mon cerveau était..."
+    mc "Putain! Fetish Locator.{w} Je suis désolé, mon cerveau était..."
 
 # game/code/d18/d18s01.rpy:309
 translate french d18s01_shower_c76d9a83:
@@ -530,19 +530,19 @@ translate french d18s01_shower_a73ef0e9:
 translate french d18s01_shower_ee7cd7ab:
 
     # lc "Is this helping?"
-    lc "Est-ce que ça aide ?"
+    lc "Est-ce que ça aide?"
 
 # game/code/d18/d18s01.rpy:320
 translate french d18s01_shower_43d8d2e4:
 
     # mc "Yeah.{w} Fuck.{w} No... Yes?"
-    mc "Ouais.{w} Putain.{w} Non... Oui ?"
+    mc "Ouais.{w} Putain.{w} Non... Oui?"
 
 # game/code/d18/d18s01.rpy:321
 translate french d18s01_shower_50253c25:
 
     # lc "What exactly is it you want to tell me about that sex game you're playing?"
-    lc "Qu'est-ce que tu veux me dire exactement à propos de ce jeu sexuel auquel tu joues ?"
+    lc "Qu'est-ce que tu veux me dire exactement à propos de ce jeu sexuel auquel tu joues?"
 
 # game/code/d18/d18s01.rpy:324
 translate french d18s01_shower_519b4418:
@@ -560,7 +560,7 @@ translate french d18s01_shower_cf63b3c8:
 translate french d18s01_shower_9e21f727:
 
     # mct "Think, THink, THINK!!!"
-    mct "Réfléchis, réfléchis, réfléchis !!!"
+    mct "Réfléchis, réfléchis, réfléchis!!!"
 
 # game/code/d18/d18s01.rpy:334
 translate french d18s01_shower_df6c05a7:
@@ -608,7 +608,7 @@ translate french d18s01_shower_111d3da7:
 translate french d18s01_shower_03d34473:
 
     # lc "You're telling me that this stupid sex app somehow has $$1kk to give away???"
-    lc "Tu es en train de me dire que cette stupide application sexuelle a d'une manière ou d'une autre 1M$ à offrir ???"
+    lc "Tu es en train de me dire que cette stupide application sexuelle a d'une manière ou d'une autre 1M$ à offrir???"
 
 # game/code/d18/d18s01.rpy:353
 translate french d18s01_shower_c5263efa:
@@ -620,31 +620,31 @@ translate french d18s01_shower_c5263efa:
 translate french d18s01_shower_4194cc84:
 
     # lc "You're telling me that this stupid sex app is somehow blackmailing you???"
-    lc "Tu es en train de me dire que cette stupide application sexuelle te fait chanter d'une manière ou d'une autre ???"
+    lc "Tu es en train de me dire que cette stupide application sexuelle te fait chanter d'une manière ou d'une autre???"
 
 # game/code/d18/d18s01.rpy:357
 translate french d18s01_shower_65c3dd73:
 
     # lc "Your pictures are already all over it!!"
-    lc "Tes photos sont déjà partout !!"
+    lc "Tes photos sont déjà partout!!"
 
 # game/code/d18/d18s01.rpy:358
 translate french d18s01_shower_23f35fcc:
 
     # lc "How many women you've fucked... it's public knowledge by now!"
-    lc "Combien de femmes tu as baisée... c'est de notoriété publique maintenant !"
+    lc "Combien de femmes tu as baisée... c'est de notoriété publique maintenant!"
 
 # game/code/d18/d18s01.rpy:360
 translate french d18s01_shower_b51f167a:
 
     # lc "You're doing all this for money?! Isn't that prostitution?!?!"
-    lc "Tu fais tout ça pour de l'argent ?! N'est-ce pas de la prostitution ?!?!"
+    lc "Tu fais tout ça pour de l'argent?! N'est-ce pas de la prostitution?!?!"
 
 # game/code/d18/d18s01.rpy:362
 translate french d18s01_shower_e999bac1:
 
     # lc "What the fuck could it be blackmailing you with?!?!"
-    lc "Avec quoi ça pourrait bien te faire chanter ?!?!"
+    lc "Avec quoi ça pourrait bien te faire chanter?!?!"
 
 # game/code/d18/d18s01.rpy:365
 translate french d18s01_shower_cfd3c85f:
@@ -674,7 +674,7 @@ translate french d18s01_shower_4cf2b5db:
 translate french d18s01_shower_d856606d:
 
     # lc "I don't... why?"
-    lc "Je ne... pourquoi ?"
+    lc "Je ne... pourquoi?"
 
 # game/code/d18/d18s01.rpy:377
 translate french d18s01_shower_3c692a03:
@@ -692,13 +692,13 @@ translate french d18s01_shower_8f83b23d:
 translate french d18s01_shower_ntr_8ae5be1a:
 
     # lc "You're doing all this for money?"
-    lc "Tu fais tout ça pour l'argent ?"
+    lc "Tu fais tout ça pour l'argent?"
 
 # game/code/d18/d18s01.rpy:393
 translate french d18s01_shower_ntr_5a2c76ad:
 
     # lc "You're blackmailed?"
-    lc "Tu es victime de chantage ?"
+    lc "Tu es victime de chantage?"
 
 # game/code/d18/d18s01.rpy:395
 translate french d18s01_shower_ntr_f800bed0:
@@ -710,31 +710,31 @@ translate french d18s01_shower_ntr_f800bed0:
 translate french d18s01_shower_ntr_35ce70c6:
 
     # lc "All the things you've done!{w} You're basically the poster child for sex on this campus. You've probably fucked every willing woman in town... is it every willing man too?"
-    lc "Tout ce que tu as fait !{w} Tu es l'exemple du sexe sur ce campus. Tu as probablement baisé toutes les femmes consentantes de la ville... Est-ce que c'est aussi tous les hommes consentants ?"
+    lc "Tout ce que tu as fait!{w} Tu es l'exemple du sexe sur ce campus. Tu as probablement baisé toutes les femmes consentantes de la ville... Est-ce que c'est aussi tous les hommes consentants?"
 
 # game/code/d18/d18s01.rpy:400
 translate french d18s01_shower_ntr_70dd9322:
 
     # lc "What did you do?!{w} You're basically the poster child for sex. Did you fuck a guy or something?"
-    lc "Qu'as-tu fait ?!{w} Tu es l'enfant modèle du sexe. Tu as baisé un mec ou quoi ?"
+    lc "Qu'as-tu fait?!{w} Tu es l'enfant modèle du sexe. Tu as baisé un mec ou quoi?"
 
 # game/code/d18/d18s01.rpy:403
 translate french d18s01_shower_ntr_8be2e01e:
 
     # mc "No, nothing like that.{w} Do you think I would care if it was gay sex?"
-    mc "Non. {w} Tu penses que ça m'intéresserait si c'était du sexe gay ?"
+    mc "Non. {w} Tu penses que ça m'intéresserait si c'était du sexe gay?"
 
 # game/code/d18/d18s01.rpy:407
 translate french d18s01_shower_ntr_f4c1abd2:
 
     # lc "How did you find out about this? Why did you even start playing the game?!"
-    lc "Comment as-tu découvert ça ? Pourquoi as-tu commencé à jouer au jeu ?!"
+    lc "Comment as-tu découvert ça? Pourquoi as-tu commencé à jouer au jeu?!"
 
 # game/code/d18/d18s01.rpy:409
 translate french d18s01_shower_ntr_31c09226:
 
     # lc "Then what are you being blackmailed with?"
-    lc "Alors avec quoi te fais-tu chanter ?"
+    lc "Alors avec quoi te fais-tu chanter?"
 
 # game/code/d18/d18s01.rpy:412
 translate french d18s01_shower_ntr_e42480b7:
@@ -758,7 +758,7 @@ translate french d18s01_shower_ntr_a52ff328:
 translate french d18s01_shower_ntr_462e7f0a:
 
     # lc "So, what did it look like?"
-    lc "Alors, à quoi ça ressemblait ?"
+    lc "Alors, à quoi ça ressemblait?"
 
 # game/code/d18/d18s01.rpy:421
 translate french d18s01_shower_ntr_cc61871e:
@@ -770,25 +770,25 @@ translate french d18s01_shower_ntr_cc61871e:
 translate french d18s01_shower_ntr_7ea7e782:
 
     # lc "You can trust me. Did you hurt someone? Did you fuck someone you shouldn't have?"
-    lc "Tu peux me faire confiance. Tu as blessé quelqu'un ? As-tu baisé quelqu'un que tu n'aurais pas dû ?"
+    lc "Tu peux me faire confiance. Tu as blessé quelqu'un? As-tu baisé quelqu'un que tu n'aurais pas dû?"
 
 # game/code/d18/d18s01.rpy:425
 translate french d18s01_shower_ntr_135729c7:
 
     # lc "What is it?"
-    lc "Qu'est-ce qu'il y a ?"
+    lc "Qu'est-ce qu'il y a?"
 
 # game/code/d18/d18s01.rpy:427
 translate french d18s01_shower_ntr_db7f558a:
 
     # mc "Do you remember when we met?"
-    mc "Tu te souviens de notre rencontre ?"
+    mc "Tu te souviens de notre rencontre?"
 
 # game/code/d18/d18s01.rpy:429
 translate french d18s01_shower_ntr_747e37c8:
 
     # lc "At Min's Party? After Jerome tried to-"
-    lc "A la fête de Min ? Après que Jérôme ait essayé de..."
+    lc "A la fête de Min? Après que Jérôme ait essayé de..."
 
 # game/code/d18/d18s01.rpy:432
 translate french d18s01_shower_ntr_cf1adef2:
@@ -812,31 +812,31 @@ translate french d18s01_shower_ntr_62b40ff9:
 translate french d18s01_shower_ntr_6b128640:
 
     # lc "Oh fuck. What did you do to me while I was sleeping?!"
-    lc "Oh putain. Qu'est-ce que tu m'as fait pendant que je dormais ?!"
+    lc "Oh putain. Qu'est-ce que tu m'as fait pendant que je dormais?!"
 
 # game/code/d18/d18s01.rpy:440
 translate french d18s01_shower_ntr_5cf2e689:
 
     # mc "NOTHING!!!{w} Nothing. I just did all that to meet you."
-    mc "RIEN !!!{w} Rien. J'ai juste fait tout ça pour te rencontrer."
+    mc "RIEN!!!{w} Rien. J'ai juste fait tout ça pour te rencontrer."
 
 # game/code/d18/d18s01.rpy:442
 translate french d18s01_shower_ntr_8ab4a61b:
 
     # lc "You started playing Fetish Locator just to meet me?"
-    lc "Tu as commencé à jouer à Fetish Locator juste pour me rencontrer ?"
+    lc "Tu as commencé à jouer à Fetish Locator juste pour me rencontrer?"
 
 # game/code/d18/d18s01.rpy:444
 translate french d18s01_shower_ntr_8788e88b:
 
     # mc "NOTHING!!!{w} Nothing. It just looked like... something."
-    mc "RIEN !!!{w} Rien. Ça ressemblait juste à... Quelque chose."
+    mc "RIEN!!!{w} Rien. Ça ressemblait juste à... Quelque chose."
 
 # game/code/d18/d18s01.rpy:446
 translate french d18s01_shower_ntr_a40b7e12:
 
     # lc "What could it possibly look like?"
-    lc "A quoi ça pourrait bien ressembler ?"
+    lc "A quoi ça pourrait bien ressembler?"
 
 # game/code/d18/d18s01.rpy:450
 translate french d18s01_shower_ntr_2a2be8cd:
@@ -854,19 +854,19 @@ translate french d18s01_shower_ntr_41f0ab0f:
 translate french d18s01_shower_ntr_ff110d0b:
 
     # lc "WHAT THE FUCK?!"
-    lc "C'est quoi ce bordel ?!"
+    lc "C'est quoi ce bordel?!"
 
 # game/code/d18/d18s01.rpy:456
 translate french d18s01_shower_ntr_74aa6005:
 
     # mc "It wasn't like that!"
-    mc "Ce n'était pas comme ça !"
+    mc "Ce n'était pas comme ça!"
 
 # game/code/d18/d18s01.rpy:459
 translate french d18s01_shower_ntr_17cdd0a1:
 
     # lc "So what was it like?!"
-    lc "Alors, comment c'était ?!"
+    lc "Alors, comment c'était?!"
 
 # game/code/d18/d18s01.rpy:461
 translate french d18s01_shower_ntr_d160cd32:
@@ -878,7 +878,7 @@ translate french d18s01_shower_ntr_d160cd32:
 translate french d18s01_shower_ntr_2cdcc78c:
 
     # lc "And then you decided to jerk off to the thought of Jerome raping me?!?!?!"
-    lc "Et puis tu as décidé de te branler à l'idée que Jérôme me viole ?!?!?!"
+    lc "Et puis tu as décidé de te branler à l'idée que Jérôme me viole?!?!?!"
 
 # game/code/d18/d18s01.rpy:465
 translate french d18s01_shower_ntr_7fde8aa6:
@@ -890,7 +890,7 @@ translate french d18s01_shower_ntr_7fde8aa6:
 translate french d18s01_shower_ntr_c7aab6d4:
 
     # lc "You sleeze!!! You jacked off thinking about it!!!"
-    lc "Tu dors !!! Tu t'es branlé en y pensant !!!"
+    lc "Tu dors!!! Tu t'es branlé en y pensant!!!"
 
 # game/code/d18/d18s01.rpy:469
 translate french d18s01_shower_ntr_3c558b4a:
@@ -902,67 +902,67 @@ translate french d18s01_shower_ntr_3c558b4a:
 translate french d18s01_shower_ntr_c6f5a916:
 
     # lc "Then why are you hard now?!"
-    lc "Alors pourquoi es-tu dur maintenant ?!"
+    lc "Alors pourquoi es-tu dur maintenant?!"
 
 # game/code/d18/d18s01.rpy:474
 translate french d18s01_shower_ntr_e51b08ad:
 
     # mc "I don't know!{w} You're naked in the shower with me!"
-    mc "Je ne sais pas !{w} Tu es nue sous la douche avec moi !"
+    mc "Je ne sais pas!{w} Tu es nue sous la douche avec moi!"
 
 # game/code/d18/d18s01.rpy:477
 translate french d18s01_shower_ntr_5506ab0a:
 
     # lc "I'm not about to orgasm thinking about some girl involuntarily pegging your ass!!!"
-    lc "Je ne suis pas sur le point d'avoir un orgasme en pensant à une fille qui te colle involontairement le cul !!!"
+    lc "Je ne suis pas sur le point d'avoir un orgasme en pensant à une fille qui te colle involontairement le cul!!!"
 
 # game/code/d18/d18s01.rpy:479
 translate french d18s01_shower_ntr_9a3e5304:
 
     # mc "It's nothing like that!!!"
-    mc "Ce n'est rien de tout ça !!!"
+    mc "Ce n'est rien de tout ça!!!"
 
 # game/code/d18/d18s01.rpy:482
 translate french d18s01_shower_ntr_1a7be71d:
 
     # lc "You know what, we're done!"
-    lc "Tu sais quoi, c'est fini !"
+    lc "Tu sais quoi, c'est fini!"
 
 # game/code/d18/d18s01.rpy:484
 translate french d18s01_shower_ntr_887778da:
 
     # mc "Hear me out, please!"
-    mc "Ecoute-moi, s'il te plaît !"
+    mc "Ecoute-moi, s'il te plaît!"
 
 # game/code/d18/d18s01.rpy:485
 translate french d18s01_shower_ntr_ff340c22:
 
     # lc "You jerked off thinking I might get raped?!"
-    lc "Tu t'es branlé en pensant que je pourrais me faire violer ?!"
+    lc "Tu t'es branlé en pensant que je pourrais me faire violer?!"
 
 # game/code/d18/d18s01.rpy:488
 translate french d18s01_shower_ntr_40334a0b:
 
     # mc "It's nothing like that!"
-    mc "Pas du tout !"
+    mc "Pas du tout!"
 
 # game/code/d18/d18s01.rpy:490
 translate french d18s01_shower_ntr_8a81a357:
 
     # lc "Oh, really?"
-    lc "Oh, vraiment ?"
+    lc "Oh, vraiment?"
 
 # game/code/d18/d18s01.rpy:492
 translate french d18s01_shower_ntr_3039e535:
 
     # lc "You just happened to be jerking off while I was laying there asleep?"
-    lc "Tu etais juste en train de te branler pendant que j'étais allongé là, endormie ?"
+    lc "Tu etais juste en train de te branler pendant que j'étais allongé là, endormie?"
 
 # game/code/d18/d18s01.rpy:493
 translate french d18s01_shower_ntr_965b9385:
 
     # lc "It was some wild crazy coincidence?"
-    lc "C'était une folle coïncidence ?"
+    lc "C'était une folle coïncidence?"
 
 # game/code/d18/d18s01.rpy:496
 translate french d18s01_shower_ntr_af698f75:
@@ -980,7 +980,7 @@ translate french d18s01_shower_ntr_5640ea9e:
 translate french d18s01_shower_ntr_974660c6:
 
     # mc "WILL YOU SHUT UP AND LISTEN TO ME FOR A SECOND!!!!!!!"
-    mc "VEUX-TU LA FERMER ET M'ÉCOUTER UNE SECONDE !!!!!!!"
+    mc "VEUX-TU LA FERMER ET M'ÉCOUTER UNE SECONDE!!!!!!!"
 
 # game/code/d18/d18s01.rpy:503
 translate french d18s01_shower_ntr_4ed7dd1b:
@@ -1034,19 +1034,19 @@ translate french d18s01_shower_lc_a16db31d:
 translate french d18s01_shower_lc_431a84ef:
 
     # lc "How is that possible? Did you pay the app money to participate or something?"
-    lc "Comment est-ce possible ? Tu as payé l'application pour participer ou quelque chose du genre ?"
+    lc "Comment est-ce possible? Tu as payé l'application pour participer ou quelque chose du genre?"
 
 # game/code/d18/d18s01.rpy:530
 translate french d18s01_shower_lc_a3b105a3:
 
     # lc "How is that possible? Is it blackmailing every player???"
-    lc "Comment est-ce possible ? Est-ce que ça fait chanter tous les joueurs ???"
+    lc "Comment est-ce possible? Est-ce que ça fait chanter tous les joueurs???"
 
 # game/code/d18/d18s01.rpy:534
 translate french d18s01_shower_lc_a50f0f3f:
 
     # mc "No, of course not. I never really thought about where it got the money. Corporate sponsorship or something?"
-    mc "Non, bien sûr que non. Je n'ai jamais vraiment réfléchi à l'origine de l'argent. Parrainage d'entreprise ou quelque chose comme ça ?"
+    mc "Non, bien sûr que non. Je n'ai jamais vraiment réfléchi à l'origine de l'argent. Parrainage d'entreprise ou quelque chose comme ça?"
 
 # game/code/d18/d18s01.rpy:536
 translate french d18s01_shower_lc_ac9c1e4d:
@@ -1064,7 +1064,7 @@ translate french d18s01_shower_lc_07f5c28e:
 translate french d18s01_shower_lc_4e26919e:
 
     # lc "Us? Like you?{w} What has it made you do?"
-    lc "Nous ? Vous aimez ?{w} Qu'est-ce que ça vous a poussé à faire ?"
+    lc "Nous? Vous aimez?{w} Qu'est-ce que ça vous a poussé à faire?"
 
 # game/code/d18/d18s01.rpy:546
 translate french d18s01_shower_lc_02e40956:
@@ -1076,7 +1076,7 @@ translate french d18s01_shower_lc_02e40956:
 translate french d18s01_shower_lc_3f0118ce:
 
     # lc "You think it would hurt my popularity if I showed my ass on camera?"
-    lc "Tu penses que ça nuirait à ma popularité si je montrais mes fesses devant la caméra ?"
+    lc "Tu penses que ça nuirait à ma popularité si je montrais mes fesses devant la caméra?"
 
 # game/code/d18/d18s01.rpy:550
 translate french d18s01_shower_lc_6a90cbe9:
@@ -1088,7 +1088,7 @@ translate french d18s01_shower_lc_6a90cbe9:
 translate french d18s01_shower_lc_03c1889b:
 
     # lc "The Penis Cage?!?! Oh my-"
-    lc "La cage à pénis ?!?! Oh mon-"
+    lc "La cage à pénis?!?! Oh mon-"
 
 # game/code/d18/d18s01.rpy:556
 translate french d18s01_shower_lc_fa038335:
@@ -1100,7 +1100,7 @@ translate french d18s01_shower_lc_fa038335:
 translate french d18s01_shower_lc_d3ca6665:
 
     # lc "And it is up to you whether I expose myself or not?!"
-    lc "Et c'est à toi de décider si je m'expose ou non ?!"
+    lc "Et c'est à toi de décider si je m'expose ou non?!"
 
 # game/code/d18/d18s01.rpy:559
 translate french d18s01_shower_lc_7114d673:
@@ -1112,7 +1112,7 @@ translate french d18s01_shower_lc_7114d673:
 translate french d18s01_shower_lc_5e189005:
 
     # lc "And I pushed you to do it. I should have realized!"
-    lc "Et je t'ai poussé à le faire. J'aurais dû m'en rendre compte !"
+    lc "Et je t'ai poussé à le faire. J'aurais dû m'en rendre compte!"
 
 # game/code/d18/d18s01.rpy:564
 translate french d18s01_shower_lc_da4fb909:
@@ -1124,7 +1124,7 @@ translate french d18s01_shower_lc_da4fb909:
 translate french d18s01_shower_lc_1a41cc05:
 
     # lc "Tell me about the challenges. What sort of things do you think it would want me to do?"
-    lc "Parle-moi des défis. Quel genre de choses penses-tu que ça voudrait que je fasse ?"
+    lc "Parle-moi des défis. Quel genre de choses penses-tu que ça voudrait que je fasse?"
 
 # game/code/d18/d18s01.rpy:567
 translate french d18s01_shower_lc_44ce58e2:
@@ -1136,7 +1136,7 @@ translate french d18s01_shower_lc_44ce58e2:
 translate french d18s01_shower_lc_d541123f:
 
     # lc "Still... what else has it forced you to do?"
-    lc "Quand même... Qu'est-ce que ça t'a obligé à faire d'autre ?"
+    lc "Quand même... Qu'est-ce que ça t'a obligé à faire d'autre?"
 
 # game/code/d18/d18s01.rpy:569
 translate french d18s01_shower_lc_da4ec390:
@@ -1172,7 +1172,7 @@ translate french d18s01_shower_lc_cf740372:
 translate french d18s01_shower_lc_ee03e7f4:
 
     # lc "Bastard!"
-    lc "Salaud !"
+    lc "Salaud!"
 
 # game/code/d18/d18s01.rpy:582
 translate french d18s01_shower_lc_11455b53:
@@ -1184,19 +1184,19 @@ translate french d18s01_shower_lc_11455b53:
 translate french d18s01_shower_lc_2a82965b:
 
     # lc "It's been using you to get close to me, hasn't it?"
-    lc "Il t'a utilisé pour se rapprocher de moi, n'est-ce pas ?"
+    lc "Il t'a utilisé pour se rapprocher de moi, n'est-ce pas?"
 
 # game/code/d18/d18s01.rpy:585
 translate french d18s01_shower_lc_049a339f:
 
     # mc "I don't think so... why?"
-    mc "Je ne pense pas... Pourquoi ?"
+    mc "Je ne pense pas... Pourquoi?"
 
 # game/code/d18/d18s01.rpy:588
 translate french d18s01_shower_lc_8dae5738:
 
     # lc "FUCK!{w} We even met at that Fetish Locator Party."
-    lc "FUCK !{w} Nous nous sommes même rencontrés à cette Fetish Locator Party."
+    lc "FUCK!{w} Nous nous sommes même rencontrés à cette Fetish Locator Party."
 
 # game/code/d18/d18s01.rpy:590
 translate french d18s01_shower_lc_a1bc22a3:
@@ -1208,7 +1208,7 @@ translate french d18s01_shower_lc_a1bc22a3:
 translate french d18s01_shower_lc_71e9a754:
 
     # lc "Do you even like me at all? Or is it just the app pushing you at me???"
-    lc "Est-ce que tu m'aimes vraiment du tout ? Ou est-ce juste l'application qui vous pousse vers moi ???"
+    lc "Est-ce que tu m'aimes vraiment du tout? Ou est-ce juste l'application qui vous pousse vers moi???"
 
 # game/code/d18/d18s01.rpy:595
 translate french d18s01_shower_lc_497198fa:
@@ -1238,7 +1238,7 @@ translate french d18s01_shower_lc_a6b68b02:
 translate french d18s01_shower_lc_f30c76e8:
 
     # mc "Are you serious?"
-    mc "Tu es sérieux ?"
+    mc "Tu es sérieux?"
 
 # game/code/d18/d18s01.rpy:605
 translate french d18s01_shower_lc_1af886dc:
@@ -1256,13 +1256,13 @@ translate french d18s01_shower_lc_14a00e97:
 translate french d18s01_shower_lc_0071eb9d:
 
     # lc "You finished showering, right?"
-    lc "Tu as fini de te doucher, n'est-ce pas ?"
+    lc "Tu as fini de te doucher, n'est-ce pas?"
 
 # game/code/d18/d18s01.rpy:612
 translate french d18s01_shower_lc_dc7e7c45:
 
     # mc "Yeah, yeah. Maybe I can call you later?"
-    mc "Ouais, ouais. Je peux peut-être t'appeler plus tard ?"
+    mc "Ouais, ouais. Je peux peut-être t'appeler plus tard?"
 
 # game/code/d18/d18s01.rpy:613
 translate french d18s01_shower_lc_6fc34a32:
@@ -1311,3 +1311,4 @@ translate french strings:
     # game/code/d18/d18s01.rpy:15
     old "Thursday\nDay-18"
     new "Jeudi\nJour-18"
+

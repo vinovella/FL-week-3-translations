@@ -2,7 +2,7 @@
 translate french d20s02rn_8e860913:
 
     # mk "Is he there?{w} Do you have a good view of his desk?"
-    mk "Est-il là ?{w} As-tu une bonne vue de son bureau ?"
+    mk "Est-il là?{w} As-tu une bonne vue de son bureau?"
 
 # game/code/d20/d20s02rn.rpy:48
 translate french d20s02rn_29067eed:
@@ -14,7 +14,7 @@ translate french d20s02rn_29067eed:
 translate french d20s02rn_7e346a5a:
 
     # mk "Yeah, about that. Do you know why I asked you for rough sex yesterday?"
-    mk "Ouais, à propos de ça. Tu sais pourquoi je t'ai demandé du sexe brutal hier ?"
+    mk "Ouais, à propos de ça. Tu sais pourquoi je t'ai demandé du sexe brutal hier?"
 
 # game/code/d20/d20s02rn.rpy:56
 translate french d20s02rn_6df74e25:
@@ -109,14 +109,14 @@ translate french d20s02rn_df9b47a6:
 # game/code/d20/d20s02rn.rpy:105
 translate french d20s02rn_ac2ec447:
 
-    # mk "Professor... ?"
-    mk "Professeur... ?"
+    # mk "Professor...?"
+    mk "Professeur...?"
 
 # game/code/d20/d20s02rn.rpy:106
 translate french d20s02rn_2a2addeb:
 
     # mk "Professor Nordin?"
-    mk "Professeur Nordin ?"
+    mk "Professeur Nordin?"
 
 # game/code/d20/d20s02rn.rpy:111
 translate french d20s02rn_425d2016:
@@ -128,7 +128,7 @@ translate french d20s02rn_425d2016:
 translate french d20s02rn_c087d79f:
 
     # mk "Whew. Is it hot in here?"
-    mk "Ouf. Il fait chaud ici ?"
+    mk "Ouf. Il fait chaud ici?"
 
 # game/code/d20/d20s02rn.rpy:119
 translate french d20s02rn_a8efdf33:
@@ -146,7 +146,7 @@ translate french d20s02rn_81ceb85d:
 translate french d20s02rn_3df6c0ff:
 
     # rn "What can I do for you, Miss Kovalevich?"
-    rn "Que puis-je faire pour vous, Miss Kovalevich ?"
+    rn "Que puis-je faire pour vous, Miss Kovalevich?"
 
 # game/code/d20/d20s02rn.rpy:128
 translate french d20s02rn_0e728114:
@@ -164,7 +164,7 @@ translate french d20s02rn_3e554e0e:
 translate french d20s02rn_95ff38c8:
 
     # mk "Is it true, Professor Nordin?{w} Are you available?"
-    mk "C'est vrai, professeur Nordin?{w} Êtes-vous disponible ?"
+    mk "C'est vrai, professeur Nordin?{w} Êtes-vous disponible?"
 
 # game/code/d20/d20s02rn.rpy:137
 translate french d20s02rn_cf229ae4:
@@ -188,19 +188,19 @@ translate french d20s02rn_37a4fc0c:
 translate french d20s02rn_6746c586:
 
     # mk "Did you like it?"
-    mk "Tu as aimé ?"
+    mk "Tu as aimé?"
 
 # game/code/d20/d20s02rn.rpy:149
 translate french d20s02rn_a457aabb:
 
     # rn "Excuse me?"
-    rn "Excusez-moi ?"
+    rn "Excusez-moi?"
 
 # game/code/d20/d20s02rn.rpy:152
 translate french d20s02rn_5a429f0c:
 
     # mk "When I dropped my pencil.{w} Did you enjoy what you saw?"
-    mk "Quand j'ai laissé tomber mon crayon.{w} As-tu apprécié ce que tu as vu ?"
+    mk "Quand j'ai laissé tomber mon crayon.{w} As-tu apprécié ce que tu as vu?"
 
 # game/code/d20/d20s02rn.rpy:155
 translate french d20s02rn_550ebea7:
@@ -224,43 +224,43 @@ translate french d20s02rn_17ed4952:
 translate french d20s02rn_ca407678:
 
     # rn "Is this some kind of prank?"
-    rn "C'est une sorte de farce ?"
+    rn "C'est une sorte de farce?"
 
 # game/code/d20/d20s02rn.rpy:170
 translate french d20s02rn_f1c31fcb:
 
     # mk "Tell me, Professor, what name do you prefer?"
-    mk "Dit-moi, professeur, quel nom préfére-tu ?"
+    mk "Dit-moi, professeur, quel nom préfére-tu?"
 
 # game/code/d20/d20s02rn.rpy:172
 translate french d20s02rn_7b22bc3d:
 
     # mk "Ronald?"
-    mk "Ronald ?"
+    mk "Ronald?"
 
 # game/code/d20/d20s02rn.rpy:175
 translate french d20s02rn_63ef0589:
 
     # mk "Ron?"
-    mk "Ron ?"
+    mk "Ron?"
 
 # game/code/d20/d20s02rn.rpy:177
 translate french d20s02rn_1bcc09e4:
 
     # mk "Professor?"
-    mk "Professeur ?"
+    mk "Professeur?"
 
 # game/code/d20/d20s02rn.rpy:180
 translate french d20s02rn_76084783:
 
     # mk "Daddy?"
-    mk "Papa ?"
+    mk "Papa?"
 
 # game/code/d20/d20s02rn.rpy:183
 translate french d20s02rn_70b5e22b:
 
     # mk "Master?"
-    mk "Maître ?"
+    mk "Maître?"
 
 # game/code/d20/d20s02rn.rpy:186
 translate french d20s02rn_b1c28883:
@@ -314,7 +314,7 @@ translate french d20s02rn_6532cc34:
 translate french d20s02rn_777ba85b:
 
     # rn "What do you mean?"
-    rn "Qu'est-ce que tu veux dire ?"
+    rn "Qu'est-ce que tu veux dire?"
 
 # game/code/d20/d20s02rn.rpy:212
 translate french d20s02rn_e517272e:
@@ -332,7 +332,7 @@ translate french d20s02rn_797bd5a6:
 translate french d20s02rn_43e1ad76:
 
     # rn "You're... serious?"
-    rn "Tu es... Sérieuse ?"
+    rn "Tu es... Sérieuse?"
 
 # game/code/d20/d20s02rn.rpy:220
 translate french d20s02rn_529d4da0:
@@ -392,7 +392,7 @@ translate french d20s02rn_3e5c974a:
 translate french d20s02rn_dfa8b020:
 
     # rn "What do you have in mind?"
-    rn "Qu'est-ce que tu as en tête ?"
+    rn "Qu'est-ce que tu as en tête?"
 
 # game/code/d20/d20s02rn.rpy:248
 translate french d20s02rn_e02bb381:
@@ -422,7 +422,7 @@ translate french d20s02rn_d659ce55:
 translate french d20s02rn_d69ff8f2:
 
     # mk "Can you do that for me, Ronald?"
-    mk "Tu peux faire ça pour moi, Ronald ?"
+    mk "Tu peux faire ça pour moi, Ronald?"
 
 # game/code/d20/d20s02rn.rpy:264
 translate french d20s02rn_426e0919:
@@ -463,14 +463,14 @@ translate french d20s02rn_5bf24ab3:
 # game/code/d20/d20s02rn.rpy:289
 translate french d20s02rn_0757656f:
 
-    # rn "Call me, «\"Master\"."
+    # rn "Call me, "\"Master\"."
     rn "Appelle-moi \"Maître\"."
 
 # game/code/d20/d20s02rn.rpy:292
 translate french d20s02rn_4d7fd918:
 
     # mk "Yes, Master!"
-    mk "Oui, Maître !"
+    mk "Oui, Maître!"
 
 # game/code/d20/d20s02rn.rpy:309
 translate french d20s02rn_90e2cc8c:
@@ -542,7 +542,7 @@ translate french d20s02rn_cont_anal_72eac0f6:
 translate french d20s02rn_cont_anal_180e6698:
 
     # mk "Would you like to take my virginity, Master?"
-    mk "Voudrais-tu prendre ma virginité, Maître ?"
+    mk "Voudrais-tu prendre ma virginité, Maître?"
 
 # game/code/d20/d20s02rn.rpy:382
 translate french d20s02rn_cont_anal_3e913745:
@@ -566,19 +566,19 @@ translate french d20s02rn_cont_anal_646003be:
 translate french d20s02rn_cont_anal_cc84af09:
 
     # mk "OH FUCK!!"
-    mk "OH PUTAIN !!"
+    mk "OH PUTAIN!!"
 
 # game/code/d20/d20s02rn.rpy:399
 translate french d20s02rn_cont_anal_5f9a83ae:
 
     # rn "What was that, Cum Slut?"
-    rn "C'était quoi, Salope à sperme ?"
+    rn "C'était quoi, Salope à sperme?"
 
 # game/code/d20/d20s02rn.rpy:402
 translate french d20s02rn_cont_anal_c671b9de:
 
     # mk "Use me however you like, Master!"
-    mk "Utilise-moi comme tu veux, Maître !"
+    mk "Utilise-moi comme tu veux, Maître!"
 
 # game/code/d20/d20s02rn.rpy:405
 translate french d20s02rn_cont_anal_914d77d6:
@@ -590,7 +590,7 @@ translate french d20s02rn_cont_anal_914d77d6:
 translate french d20s02rn_cont_anal_42c8d75f:
 
     # mk "Yes, Master!!"
-    mk "Oui, Maître !!"
+    mk "Oui, Maître!!"
 
 # game/code/d20/d20s02rn.rpy:430
 translate french d20s02rn_cont_anal_4465365f:
@@ -602,19 +602,19 @@ translate french d20s02rn_cont_anal_4465365f:
 translate french d20s02rn_cont_atm_934a5eed:
 
     # mk "Master! Master!! Master!!!"
-    mk "Maître ! Maître!! Maître!!!"
+    mk "Maître! Maître!! Maître!!!"
 
 # game/code/d20/d20s02rn.rpy:446
 translate french d20s02rn_cont_atm_653b3274:
 
     # mk "Fuck Yes, Master!"
-    mk "Putain oui, maître !"
+    mk "Putain oui, maître!"
 
 # game/code/d20/d20s02rn.rpy:448
 translate french d20s02rn_cont_atm_16693ffa:
 
     # mk "Your Cum Slut Is Happy To Serve You, Master!!!"
-    mk "Ta Salope à sperme est heureuse de te servir, maître !!!"
+    mk "Ta Salope à sperme est heureuse de te servir, maître!!!"
 
 # game/code/d20/d20s02rn.rpy:454
 translate french d20s02rn_cont_atm_82e5d546:
@@ -686,7 +686,7 @@ translate french d20s02rn_cont_creampie_ebc2ab68:
 translate french d20s02rn_cont_creampie_777ec287:
 
     # mk "I'm your Cum Slut, Master!"
-    mk "Je suis ta Salope à sperme, Maître !"
+    mk "Je suis ta Salope à sperme, Maître!"
 
 # game/code/d20/d20s02rn.rpy:525
 translate french d20s02rn_cont_creampie_eddf5202:
@@ -698,37 +698,37 @@ translate french d20s02rn_cont_creampie_eddf5202:
 translate french d20s02rn_cont_creampie_589f6470:
 
     # rn "Say It Again!"
-    rn "Dis-le encore !"
+    rn "Dis-le encore!"
 
 # game/code/d20/d20s02rn.rpy:530
 translate french d20s02rn_cont_creampie_777ec287_1:
 
     # mk "I'm your Cum Slut, Master!"
-    mk "Je suis ta Salope à sperme, Maître !"
+    mk "Je suis ta Salope à sperme, Maître!"
 
 # game/code/d20/d20s02rn.rpy:538
 translate french d20s02rn_cont_creampie_159fc7c4:
 
     # rn "Again!!!"
-    rn "Encore !!!"
+    rn "Encore!!!"
 
 # game/code/d20/d20s02rn.rpy:541
 translate french d20s02rn_cont_creampie_4ae2254a:
 
     # mk "I'm your Cum Slut, Master!!"
-    mk "Je suis ta Salope à sperme, Maître !!"
+    mk "Je suis ta Salope à sperme, Maître!!"
 
 # game/code/d20/d20s02rn.rpy:561
 translate french d20s02rn_cont_creampie_146b37af:
 
     # rn "TAKE MY CUM YOU SLUT!!"
-    rn "Prends mon sperme, salope !!"
+    rn "Prends mon sperme, salope!!"
 
 # game/code/d20/d20s02rn.rpy:563
 translate french d20s02rn_cont_creampie_acef61a8:
 
     # mk "THANK YOU MASTER!!!"
-    mk "MERCI MAÎTRE !!!"
+    mk "MERCI MAÎTRE!!!"
 
 # game/code/d20/d20s02rn.rpy:570
 translate french d20s02rn_cont_creampie_9cf5f306:
@@ -752,7 +752,7 @@ translate french d20s02rn_interrupt_c7ce6a06:
 translate french d20s02rn_interrupt_ff05d783:
 
     # rn "Are you here to watch?"
-    rn "Tu es là pour regarder ?"
+    rn "Tu es là pour regarder?"
 
 # game/code/d20/d20s02rn.rpy:599
 translate french d20s02rn_interrupt_578e55e8:
@@ -770,7 +770,7 @@ translate french d20s02rn_interrupt_d74dc7ec:
 translate french d20s02rn_interrupt_c6457583:
 
     # rn "Quite satisfying.{w} Do you plan to blackmail me?"
-    rn "Plutôt satisfaisant.{w} Tu comptes me faire chanter ?"
+    rn "Plutôt satisfaisant.{w} Tu comptes me faire chanter?"
 
 # game/code/d20/d20s02rn.rpy:608
 translate french d20s02rn_interrupt_2e47a424:
@@ -842,7 +842,7 @@ translate french d20s02rn_interrupt_96e883a2:
 translate french d20s02rn_interrupt_ae7a8326:
 
     # mk "May I clean up and get dressed now?"
-    mk "Je peux me nettoyer et m'habiller maintenant ?"
+    mk "Je peux me nettoyer et m'habiller maintenant?"
 
 # game/code/d20/d20s02rn.rpy:645
 translate french d20s02rn_interrupt_44c1f3a1:
@@ -878,7 +878,7 @@ translate french d20s02rn_interrupt_1694a9c3:
 translate french d20s02rn_interrupt_89901b65:
 
     # mk "Sir?"
-    mk "Monsieur ?"
+    mk "Monsieur?"
 
 # game/code/d20/d20s02rn.rpy:666
 translate french d20s02rn_interrupt_4f1a4674:
@@ -935,3 +935,4 @@ translate french strings:
     # game/code/d20/d20s02rn.rpy:354
     old "Let them keep going"
     new "Laisse-les continuer"
+

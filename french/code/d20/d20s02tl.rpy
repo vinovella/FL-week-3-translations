@@ -20,7 +20,7 @@ translate french d20s02tl_d0af7cf1:
 translate french d20s02tl_27514ca7:
 
     # mc "You recognize me?"
-    mc "Tu me reconnais ?"
+    mc "Tu me reconnais?"
 
 # game/code/d20/d20s02tl.rpy:104
 translate french d20s02tl_1ae89f60:
@@ -44,7 +44,7 @@ translate french d20s02tl_54fa0602:
 translate french d20s02tl_8c832aa0:
 
     # mc "Theresa, where is your daughter?"
-    mc "Theresa, où est ta fille ?"
+    mc "Theresa, où est ta fille?"
 
 # game/code/d20/d20s02tl.rpy:113
 translate french d20s02tl_f045fcd6:
@@ -56,13 +56,13 @@ translate french d20s02tl_f045fcd6:
 translate french d20s02tl_bf29f5ca:
 
     # tl "Cynthia? I didn't-{w} You didn't say that she should be here."
-    tl "Cynthia ? Je n'ai pas-{w}  Tu n'as pas dit qu'elle devrait être là."
+    tl "Cynthia? Je n'ai pas-{w}  Tu n'as pas dit qu'elle devrait être là."
 
 # game/code/d20/d20s02tl.rpy:118
 translate french d20s02tl_b83222aa:
 
     # mc "Did that answer my question?"
-    mc "Est-ce que ça répond à ma question ?"
+    mc "Est-ce que ça répond à ma question?"
 
 # game/code/d20/d20s02tl.rpy:122
 translate french d20s02tl_3f68fe91:
@@ -80,7 +80,7 @@ translate french d20s02tl_9506b639:
 translate french d20s02tl_84508cf4:
 
     # tl "Do you want me to call her cell?"
-    tl "Tu veux que j'appelle son portable ?"
+    tl "Tu veux que j'appelle son portable?"
 
 # game/code/d20/d20s02tl.rpy:128
 translate french d20s02tl_d765a705:
@@ -104,7 +104,7 @@ translate french d20s02tl_00de4439:
 translate french d20s02tl_01e2df25:
 
     # mc "Is that clear, Theresa?"
-    mc "C'est clair, Theresa ?"
+    mc "C'est clair, Theresa?"
 
 # game/code/d20/d20s02tl.rpy:136
 translate french d20s02tl_7ea02eba:
@@ -116,7 +116,7 @@ translate french d20s02tl_7ea02eba:
 translate french d20s02tl_017fae01:
 
     # mc "You will address me as Teacher, understood?"
-    mc "Tu vas m'appeler professeur, compris ?"
+    mc "Tu vas m'appeler professeur, compris?"
 
 # game/code/d20/d20s02tl.rpy:142
 translate french d20s02tl_720c0dce:
@@ -152,7 +152,7 @@ translate french d20s02tl_4c9fd3a7:
 translate french d20s02tl_7631d455:
 
     # tl "Teacher?"
-    tl "Professeur ?"
+    tl "Professeur?"
 
 # game/code/d20/d20s02tl.rpy:159
 translate french d20s02tl_ee21e75a:
@@ -206,7 +206,7 @@ translate french d20s02tl_a4cd1341:
 translate french d20s02tl_bccffd51:
 
     # mc "What should I do with you next, Theresa?"
-    mc "Que dois-je faire de toi ensuite, Theresa ?"
+    mc "Que dois-je faire de toi ensuite, Theresa?"
 
 # game/code/d20/d20s02tl.rpy:189
 translate french d20s02tl_5ae88fa0:
@@ -242,7 +242,7 @@ translate french d20s02tl_pray_7271f94b:
 translate french d20s02tl_pray_8337ec34:
 
     # tl "Okay, Teacher... like this?"
-    tl "Ok, professeur... comme ça ?"
+    tl "Ok, professeur... comme ça?"
 
 # game/code/d20/d20s02tl.rpy:221
 translate french d20s02tl_pray_f31df6f9:
@@ -362,7 +362,7 @@ translate french d20s02tl_pray_60b8806e:
 translate french d20s02tl_pray_724587ca:
 
     # tl "Excuse me, Teacher?"
-    tl "Excusez-moi, professeur ?"
+    tl "Excusez-moi, professeur?"
 
 # game/code/d20/d20s02tl.rpy:271
 translate french d20s02tl_pray_be1f9178:
@@ -416,7 +416,7 @@ translate french d20s02tl_nude_7a2724fb:
 translate french d20s02tl_nude_d68e0bf4:
 
     # mc "I see that.{w} Tell me, what is the most important part of a man?"
-    mc "Je vois ça.{w} Dis-moi, quelle est la partie la plus importante d'un homme ?"
+    mc "Je vois ça.{w} Dis-moi, quelle est la partie la plus importante d'un homme?"
 
 # game/code/d20/d20s02tl.rpy:310
 translate french d20s02tl_nude_5918d933:
@@ -428,13 +428,13 @@ translate french d20s02tl_nude_5918d933:
 translate french d20s02tl_nude_1979ad85:
 
     # mc "How do you show your devotion to a man?"
-    mc "Comment montre-tu ton dévouement à un homme ?"
+    mc "Comment montre-tu ton dévouement à un homme?"
 
 # game/code/d20/d20s02tl.rpy:317
 translate french d20s02tl_nude_6f8aef89:
 
     # tl "Should I tell you or show you, Teacher?"
-    tl "Devrais-je te le dire ou te montrer, professeur ?"
+    tl "Devrais-je te le dire ou te montrer, professeur?"
 
 # game/code/d20/d20s02tl.rpy:318
 translate french d20s02tl_nude_4d329ffb:
@@ -452,7 +452,7 @@ translate french d20s02tl_nude_97b44d5d:
 translate french d20s02tl_nude_9d501fd0:
 
     # mc "Are you prepared to show your devotion to me, Theresa?"
-    mc "Es-tu prête à me montrer ton dévouement, Theresa ?"
+    mc "Es-tu prête à me montrer ton dévouement, Theresa?"
 
 # game/code/d20/d20s02tl.rpy:329
 translate french d20s02tl_nude_daef5cd8:
@@ -476,7 +476,7 @@ translate french d20s02tl_nude_0b7140b8:
 translate french d20s02tl_nude_3b6c45cf:
 
     # mc "Do you have something to say, Theresa?"
-    mc "Tu as quelque chose à dire, Theresa ?"
+    mc "Tu as quelque chose à dire, Theresa?"
 
 # game/code/d20/d20s02tl.rpy:344
 translate french d20s02tl_nude_c8f29e28:
@@ -494,7 +494,7 @@ translate french d20s02tl_nude_8591b451:
 translate french d20s02tl_nude_9c5dbc01:
 
     # tl "May I please show you my devotion, Teacher?"
-    tl "Puis-je s'il te plaît te montrer mon dévouement, professeur ?"
+    tl "Puis-je s'il te plaît te montrer mon dévouement, professeur?"
 
 # game/code/d20/d20s02tl.rpy:349
 translate french d20s02tl_nude_72c05a7a:
@@ -560,7 +560,7 @@ translate french d20s02tl_nude_e66f7e49:
 translate french d20s02tl_nude_3d344185:
 
     # mct "Is she about to do what I think she's about to do?"
-    mct "Est-ce qu'elle est sur le point de faire ce que je pense qu'elle est sur le point de faire ?"
+    mct "Est-ce qu'elle est sur le point de faire ce que je pense qu'elle est sur le point de faire?"
 
 # game/code/d20/d20s02tl.rpy:388
 translate french d20s02tl_nude_36552c30:
@@ -620,7 +620,7 @@ translate french d20s02tl_nude_90445424:
 translate french d20s02tl_nude_7631d455:
 
     # tl "Teacher?"
-    tl "Professeur ?"
+    tl "Professeur?"
 
 # game/code/d20/d20s02tl.rpy:429
 translate french d20s02tl_nude_265caea6:
@@ -698,13 +698,13 @@ translate french d20s02tl_whip_f9ca69bc:
 translate french d20s02tl_whip_f6872461:
 
     # mc "Do you enjoy this?"
-    mc "Tu aimes ça ?"
+    mc "Tu aimes ça?"
 
 # game/code/d20/d20s02tl.rpy:475
 translate french d20s02tl_whip_54dcf628:
 
     # tl "No, Teacher!"
-    tl "Non, professeur !"
+    tl "Non, professeur!"
 
 # game/code/d20/d20s02tl.rpy:481
 translate french d20s02tl_whip_c0cda155:
@@ -716,7 +716,7 @@ translate french d20s02tl_whip_c0cda155:
 translate french d20s02tl_whip_5d5d819c:
 
     # tl "But Teacher! Punishment is the only way!"
-    tl "Mais professeur ! La punition est le seul moyen !"
+    tl "Mais professeur! La punition est le seul moyen!"
 
 # game/code/d20/d20s02tl.rpy:491
 translate french d20s02tl_whip_74e430cc:
@@ -728,13 +728,13 @@ translate french d20s02tl_whip_74e430cc:
 translate french d20s02tl_whip_7eef85f2:
 
     # tl "Yes, Teacher!{w} You're right!!"
-    tl "Oui, professeur!{w} Tu as raison !!"
+    tl "Oui, professeur!{w} Tu as raison!!"
 
 # game/code/d20/d20s02tl.rpy:495
 translate french d20s02tl_whip_b55ba8fe:
 
     # tl "I LOVE IT!!!"
-    tl "J'adore !!!"
+    tl "J'adore!!!"
 
 # game/code/d20/d20s02tl.rpy:496
 translate french d20s02tl_whip_d45e1e92:
@@ -758,7 +758,7 @@ translate french d20s02tl_whip_7e2efdb0:
 translate french d20s02tl_whip_f01203ca:
 
     # tl "Oh Lord, what shall I do?"
-    tl "Oh Seigneur, que dois-je faire ?"
+    tl "Oh Seigneur, que dois-je faire?"
 
 # game/code/d20/d20s02tl.rpy:506
 translate french d20s02tl_whip_02aa3743:
@@ -770,19 +770,19 @@ translate french d20s02tl_whip_02aa3743:
 translate french d20s02tl_fuck_de565d48:
 
     # mc "When was the last time you were properly fucked, Theresa?"
-    mc "A quand remonte la dernière fois que tu t'es fait baiser correctement, Theresa ?"
+    mc "A quand remonte la dernière fois que tu t'es fait baiser correctement, Theresa?"
 
 # game/code/d20/d20s02tl.rpy:517
 translate french d20s02tl_fuck_aa1fc63b:
 
     # tl "Teacher, I don't remember.{w} A few weeks?"
-    tl "Professeur, je ne m'en souviens pas.{w} Quelques semaines ?"
+    tl "Professeur, je ne m'en souviens pas.{w} Quelques semaines?"
 
 # game/code/d20/d20s02tl.rpy:520
 translate french d20s02tl_fuck_6814f3eb:
 
     # mc "Did you enjoy it?"
-    mc "Tu as apprécié ?"
+    mc "Tu as apprécié?"
 
 # game/code/d20/d20s02tl.rpy:522
 translate french d20s02tl_fuck_1e8ec46f:
@@ -794,7 +794,7 @@ translate french d20s02tl_fuck_1e8ec46f:
 translate french d20s02tl_fuck_710ea832:
 
     # mc "Let me rephrase - when was the last time you had an orgasm during sex, Theresa?"
-    mc "Laisse-moi reformuler, à quand remonte la dernière fois que tu as eu un orgasme pendant un rapport sexuel, Theresa ?"
+    mc "Laisse-moi reformuler, à quand remonte la dernière fois que tu as eu un orgasme pendant un rapport sexuel, Theresa?"
 
 # game/code/d20/d20s02tl.rpy:525
 translate french d20s02tl_fuck_21dc6d56:
@@ -806,25 +806,25 @@ translate french d20s02tl_fuck_21dc6d56:
 translate french d20s02tl_fuck_2bb05851:
 
     # mc "Over twenty years?!"
-    mc "Plus de vingt ans ?!"
+    mc "Plus de vingt ans?!"
 
 # game/code/d20/d20s02tl.rpy:529
 translate french d20s02tl_fuck_67dff959:
 
     # tl "I was a young, unwed harlot, Teacher! I brought shame to my community!!"
-    tl "J'étais une jeune prostituée célibataire, professeur ! J'ai apporté la honte à ma communauté !!"
+    tl "J'étais une jeune prostituée célibataire, professeur! J'ai apporté la honte à ma communauté!!"
 
 # game/code/d20/d20s02tl.rpy:531
 translate french d20s02tl_fuck_a83d370a:
 
     # tl "Cynthia is following my old, disgusting, selfish, worthless path!"
-    tl "Cynthia suit mon ancien chemin dégoûtant, égoïste et sans valeur !"
+    tl "Cynthia suit mon ancien chemin dégoûtant, égoïste et sans valeur!"
 
 # game/code/d20/d20s02tl.rpy:532
 translate french d20s02tl_fuck_76993bb2:
 
     # tl "I must save her before she is too far gone!!!"
-    tl "Je dois la sauver avant qu'elle ne soit trop loin !!!"
+    tl "Je dois la sauver avant qu'elle ne soit trop loin!!!"
 
 # game/code/d20/d20s02tl.rpy:535
 translate french d20s02tl_fuck_f28403e9:
@@ -842,25 +842,25 @@ translate french d20s02tl_fuck_375bbd09:
 translate french d20s02tl_fuck_b20bda7e:
 
     # mc "Becoming a mother was the greatest thing that ever happened to you, yet you were tricked into thinking what?"
-    mc "Devenir mère a été la plus belle chose qui te soit jamais arrivée, et pourtant tu as été amené à penser quoi ?"
+    mc "Devenir mère a été la plus belle chose qui te soit jamais arrivée, et pourtant tu as été amené à penser quoi?"
 
 # game/code/d20/d20s02tl.rpy:540
 translate french d20s02tl_fuck_ee4da7f8:
 
     # tl "I had sinned. My daughter is a gift, but the pain... the pregnancy... my parents were right to turn their backs on me!"
-    tl "J'avais péché. Ma fille c'est un cadeau, mais la douleur... La grossesse... Mes parents ont eu raison de me tourner le dos !"
+    tl "J'avais péché. Ma fille c'est un cadeau, mais la douleur... La grossesse... Mes parents ont eu raison de me tourner le dos!"
 
 # game/code/d20/d20s02tl.rpy:542
 translate french d20s02tl_fuck_d4e0be7d:
 
     # mc "They were wrong, Theresa.{w} Would you turn your back on Cynthia for anything?"
-    mc "Ils avaient tort, Theresa.{w} Tournerais-tu le dos à Cynthia pour quoi que ce soit ?"
+    mc "Ils avaient tort, Theresa.{w} Tournerais-tu le dos à Cynthia pour quoi que ce soit?"
 
 # game/code/d20/d20s02tl.rpy:545
 translate french d20s02tl_fuck_7f7820d7:
 
     # tl "Never!"
-    tl "Jamais !"
+    tl "Jamais!"
 
 # game/code/d20/d20s02tl.rpy:548
 translate french d20s02tl_fuck_72710386:
@@ -878,7 +878,7 @@ translate french d20s02tl_fuck_0bbd56d9:
 translate french d20s02tl_fuck_5bcd6f4c:
 
     # tl "No! It must be my fault!!"
-    tl "Non! Ce doit être ma faute !!"
+    tl "Non! Ce doit être ma faute!!"
 
 # game/code/d20/d20s02tl.rpy:555
 translate french d20s02tl_fuck_fe282172:
@@ -902,7 +902,7 @@ translate french d20s02tl_fuck_5e2d2e67:
 translate french d20s02tl_fuck_e78b6589:
 
     # mc "Your body tells me you are ready to enjoy this. Do I have your permission, Theresa?"
-    mc "Ton corps me dit que tu es prête à en profiter. Ai-je ta permission, Theresa ?"
+    mc "Ton corps me dit que tu es prête à en profiter. Ai-je ta permission, Theresa?"
 
 # game/code/d20/d20s02tl.rpy:565
 translate french d20s02tl_fuck_d957818a:
@@ -932,7 +932,7 @@ translate french d20s02tl_fuck_b8770285:
 translate french d20s02tl_fuck_44657bc3:
 
     # mc "Let's try. Your body is wet and ready. Is your mind ready?"
-    mc "Essayons. Ton corps est mouillé et prêt. Ton esprit est prêt ?"
+    mc "Essayons. Ton corps est mouillé et prêt. Ton esprit est prêt?"
 
 # game/code/d20/d20s02tl.rpy:576
 translate french d20s02tl_fuck_18c234f7:
@@ -950,19 +950,19 @@ translate french d20s02tl_fuck_00e09d97:
 translate french d20s02tl_fuck_f94b0801:
 
     # tl "I'm sorry, Teacher!"
-    tl "Je suis désolée, professeur !"
+    tl "Je suis désolée, professeur!"
 
 # game/code/d20/d20s02tl.rpy:588
 translate french d20s02tl_fuck_645ff039:
 
     # mc "No, Theresa. That is a good thing! You should be enjoying this!!"
-    mc "Non, Theresa. C'est une bonne chose ! Tu devrais apprécier ça !!"
+    mc "Non, Theresa. C'est une bonne chose! Tu devrais apprécier ça!!"
 
 # game/code/d20/d20s02tl.rpy:590
 translate french d20s02tl_fuck_f0208f70:
 
     # tl "I am, Teacher. God forgive me, but you feel amazing inside me!"
-    tl "Je le fait, professeur. Dieu me pardonne, mais je me sens incroyablement bien en ce moement !"
+    tl "Je le fait, professeur. Dieu me pardonne, mais je me sens incroyablement bien en ce moement!"
 
 # game/code/d20/d20s02tl.rpy:595
 translate french d20s02tl_fuck_563136f5:
@@ -974,25 +974,25 @@ translate french d20s02tl_fuck_563136f5:
 translate french d20s02tl_fuck_d306b567:
 
     # tl "Fuck me like a dog, Teacher!!"
-    tl "Baise-moi comme une chienne, professeur !!"
+    tl "Baise-moi comme une chienne, professeur!!"
 
 # game/code/d20/d20s02tl.rpy:597
 translate french d20s02tl_fuck_cf5a2ba6:
 
     # tl "Make me feel it!!!"
-    tl "Fais la moi sentir !!!"
+    tl "Fais la moi sentir!!!"
 
 # game/code/d20/d20s02tl.rpy:600
 translate french d20s02tl_fuck_aa8854d0:
 
     # tl "Teacher! I don't know what to do!"
-    tl "Professeur ! Je ne sais pas quoi faire !"
+    tl "Professeur! Je ne sais pas quoi faire!"
 
 # game/code/d20/d20s02tl.rpy:601
 translate french d20s02tl_fuck_3d363093:
 
     # mc "What is it, Theresa?"
-    mc "Qu'est-ce qu'il y a, Theresa ?"
+    mc "Qu'est-ce qu'il y a, Theresa?"
 
 # game/code/d20/d20s02tl.rpy:602
 translate french d20s02tl_fuck_dda75ec2:
@@ -1010,13 +1010,13 @@ translate french d20s02tl_fuck_69b76e50:
 translate french d20s02tl_fuck_4bbda5f5:
 
     # tl "I'M GOING TO CUM!!!"
-    tl "Je vais jouir !!!"
+    tl "Je vais jouir!!!"
 
 # game/code/d20/d20s02tl.rpy:619
 translate french d20s02tl_cum_6cbbac04:
 
     # mc "Good! Do it, Theresa!! Cum for me!!!"
-    mc "Bien ! Fais-le, Theresa !! Jouis pour moi !!!"
+    mc "Bien! Fais-le, Theresa!! Jouis pour moi!!!"
 
 # game/code/d20/d20s02tl.rpy:630
 translate french d20s02tl_cum_945451f5:
@@ -1034,7 +1034,7 @@ translate french d20s02tl_cum_1fa80872:
 translate french d20s02tl_cum_e4fc6ae6:
 
     # tl "Can we do it again, please?"
-    tl "On peut recommencer, s'il te plaît ?"
+    tl "On peut recommencer, s'il te plaît?"
 
 # game/code/d20/d20s02tl.rpy:638
 translate french d20s02tl_cum_597d0c11:
@@ -1046,13 +1046,13 @@ translate french d20s02tl_cum_597d0c11:
 translate french d20s02tl_cum_28f9bd3b:
 
     # tl "Teacher, may I tell you what I really want right now?"
-    tl "Professeur, puis-je vous dire ce que je veux vraiment maintenant ?"
+    tl "Professeur, puis-je vous dire ce que je veux vraiment maintenant?"
 
 # game/code/d20/d20s02tl.rpy:642
 translate french d20s02tl_cum_def0ad19:
 
     # mc "What is it?"
-    mc "Oui, quoi ?"
+    mc "Oui, quoi?"
 
 # game/code/d20/d20s02tl.rpy:644
 translate french d20s02tl_cum_b481d889:
@@ -1070,7 +1070,7 @@ translate french d20s02tl_cum_97c6bdd0:
 translate french d20s02tl_cum_c4feab3e:
 
     # mc "Will that give you pleasure, Theresa?"
-    mc "Est-ce que ça te fera plaisir, Theresa ?"
+    mc "Est-ce que ça te fera plaisir, Theresa?"
 
 # game/code/d20/d20s02tl.rpy:649
 translate french d20s02tl_cum_3db4c83b:
@@ -1088,31 +1088,31 @@ translate french d20s02tl_cum_ceb3f515:
 translate french d20s02tl_cum_6c2cf287:
 
     # tl "Just like that! JUST LIKE THAT!!!"
-    tl "Juste comme ça ! JUSTE COMME ÇA!!!"
+    tl "Juste comme ça! JUSTE COMME ÇA!!!"
 
 # game/code/d20/d20s02tl.rpy:667
 translate french d20s02tl_cum_14794123:
 
     # tl "Harder! More!"
-    tl "Plus fort ! Plus!"
+    tl "Plus fort! Plus!"
 
 # game/code/d20/d20s02tl.rpy:671
 translate french d20s02tl_cum_715d9432:
 
     # tl "Fuck Me!!!"
-    tl "Baise-moi !!!"
+    tl "Baise-moi!!!"
 
 # game/code/d20/d20s02tl.rpy:674
 translate french d20s02tl_cum_6b02f0e0:
 
     # tl "Oh god. Oh God. OH GOD!!!"
-    tl "Oh mon Dieu. Oh mon Dieu. OH DIEU !!!"
+    tl "Oh mon Dieu. Oh mon Dieu. OH DIEU!!!"
 
 # game/code/d20/d20s02tl.rpy:678
 translate french d20s02tl_cum_9acb5636:
 
     # tl "I'M CUMMING, TEACHER!!!"
-    tl "Je jouis, PROFESSEUR !!!"
+    tl "Je jouis, PROFESSEUR!!!"
 
 # game/code/d20/d20s02tl.rpy:687
 translate french d20s02tl_cum_ab50a3ea:
@@ -1124,43 +1124,43 @@ translate french d20s02tl_cum_ab50a3ea:
 translate french d20s02tl_cum_7894753c:
 
     # tl "What stamina! How are you still going like this?!"
-    tl "Quelle endurance ! Comment peut-tu encore comme ça ?!"
+    tl "Quelle endurance! Comment peut-tu encore comme ça?!"
 
 # game/code/d20/d20s02tl.rpy:693
 translate french d20s02tl_cum_9efe0404:
 
     # mc "Theresa, I'm about to cum!"
-    mc "Theresa, je suis sur le point de jouir !"
+    mc "Theresa, je suis sur le point de jouir!"
 
 # game/code/d20/d20s02tl.rpy:694
 translate french d20s02tl_cum_e7d45d99:
 
     # tl "Please do!"
-    tl "S'il te plaît, fais-le !"
+    tl "S'il te plaît, fais-le!"
 
 # game/code/d20/d20s02tl.rpy:701
 translate french d20s02tl_cum_efb8a03b:
 
     # mc "Where do you want it?"
-    mc "Où le veux-tu ?"
+    mc "Où le veux-tu?"
 
 # game/code/d20/d20s02tl.rpy:704
 translate french d20s02tl_cum_f91f1872:
 
     # tl "Cover my face in it!!!"
-    tl "Couvre-moi le visage avec !!!"
+    tl "Couvre-moi le visage avec!!!"
 
 # game/code/d20/d20s02tl.rpy:706
 translate french d20s02tl_cum_8138aabd:
 
     # tl "Decorate me like the whore I am!"
-    tl "Décore-moi comme la pute que je suis !"
+    tl "Décore-moi comme la pute que je suis!"
 
 # game/code/d20/d20s02tl.rpy:711
 translate french d20s02tl_cum_3d00c3fd:
 
     # mc "GAAaaAAAaaaAAHHH!!! YESSSSSssss..."
-    mc "GAAaaAAAaaaAAHHH !!! OUISSSSssss..."
+    mc "GAAaaAAAaaaAAHHH!!! OUISSSSssss..."
 
 # game/code/d20/d20s02tl.rpy:716
 translate french d20s02tl_cum_e1b94239:
@@ -1172,19 +1172,19 @@ translate french d20s02tl_cum_e1b94239:
 translate french d20s02tl_fail_5c7ef722:
 
     # tl "By Heaven & Hell! I have been misled!!"
-    tl "Par le paradis et l'enfer ! J'ai été trompé !!"
+    tl "Par le paradis et l'enfer! J'ai été trompé!!"
 
 # game/code/d20/d20s02tl.rpy:733
 translate french d20s02tl_fail_db894aa1:
 
     # mc "Do as I say, Theresa!"
-    mc "Fais ce que je dis, Theresa !"
+    mc "Fais ce que je dis, Theresa!"
 
 # game/code/d20/d20s02tl.rpy:736
 translate french d20s02tl_fail_882ae0d9:
 
     # tl "You have no power over me, pervert!!!"
-    tl "Tu n'as aucun pouvoir sur moi, pervers !!!"
+    tl "Tu n'as aucun pouvoir sur moi, pervers!!!"
 
 # game/code/d20/d20s02tl.rpy:739
 translate french d20s02tl_fail_085722e2:
@@ -1196,7 +1196,7 @@ translate french d20s02tl_fail_085722e2:
 translate french d20s02tl_fail_1276e450:
 
     # tl "TURN AWAY FROM ME AND BEGONE!!!"
-    tl "Détourne-toi de moi et pars !!!"
+    tl "Détourne-toi de moi et pars!!!"
 
 # game/code/d20/d20s02tl.rpy:745
 translate french d20s02tl_fail_58bd9e48:
@@ -1208,19 +1208,19 @@ translate french d20s02tl_fail_58bd9e48:
 translate french d20s02tl_fail_5c7ef722_1:
 
     # tl "By Heaven & Hell! I have been misled!!"
-    tl "Par le paradis et l'enfer ! J'ai été trompé !!"
+    tl "Par le paradis et l'enfer! J'ai été trompé!!"
 
 # game/code/d20/d20s02tl.rpy:752
 translate french d20s02tl_fail_db894aa1_1:
 
     # mc "Do as I say, Theresa!"
-    mc "Fais ce que je dis, Theresa !"
+    mc "Fais ce que je dis, Theresa!"
 
 # game/code/d20/d20s02tl.rpy:755
 translate french d20s02tl_fail_882ae0d9_1:
 
     # tl "You have no power over me, pervert!!!"
-    tl "Tu n'as aucun pouvoir sur moi, pervers !!!"
+    tl "Tu n'as aucun pouvoir sur moi, pervers!!!"
 
 # game/code/d20/d20s02tl.rpy:758
 translate french d20s02tl_fail_085722e2_1:
@@ -1232,7 +1232,7 @@ translate french d20s02tl_fail_085722e2_1:
 translate french d20s02tl_fail_1276e450_1:
 
     # tl "TURN AWAY FROM ME AND BEGONE!!!"
-    tl "Détourne-toi de moi et pars !!!"
+    tl "Détourne-toi de moi et pars!!!"
 
 # game/code/d20/d20s02tl.rpy:764
 translate french d20s02tl_fail_58bd9e48_1:
@@ -1244,7 +1244,7 @@ translate french d20s02tl_fail_58bd9e48_1:
 translate french d20s02tl_fail_9c563731:
 
     # tl "You sought to corrupt me with your perverted ways???"
-    tl "Tu as cherché à me corrompre avec tes manières perverses ???"
+    tl "Tu as cherché à me corrompre avec tes manières perverses???"
 
 # game/code/d20/d20s02tl.rpy:771
 translate french d20s02tl_fail_5262839d:
@@ -1262,19 +1262,19 @@ translate french d20s02tl_fail_78956e20:
 translate french d20s02tl_fail_b0c2e114:
 
     # tl "GET OUT FOUL BEAST!!!"
-    tl "Sors de la bête !!!"
+    tl "Sors de la bête!!!"
 
 # game/code/d20/d20s02tl.rpy:787
 translate french d20s02tl_cl_ea1f2baa:
 
     # cl "I finished my prayers... WHAT THE HELL?! [mcname!u]??!! "
-    cl "J'ai fini mes prières... C'EST QUOI ?! [mcname!u] ??!!"
+    cl "J'ai fini mes prières... C'EST QUOI?! [mcname!u]??!!"
 
 # game/code/d20/d20s02tl.rpy:788
 translate french d20s02tl_cl_a3eb3b17:
 
     # cl "You're fucking my mother?!"
-    cl "Tu baises ma mère ?!"
+    cl "Tu baises ma mère?!"
 
 # game/code/d20/d20s02tl.rpy:793
 translate french d20s02tl_cl_0ced3dd0:
@@ -1304,7 +1304,7 @@ translate french d20s02tl_cl_12d284e4:
 translate french d20s02tl_cl_fa4eff14:
 
     # cl "You can't...{w} I mean, you were just inside my mother's...{w} You were inside my mom?!"
-    cl "Tu ne peux pas...{w} Je veux dire, tu étais juste dans celle de ma mère...{w} Tu étais dans ma mère ?!"
+    cl "Tu ne peux pas...{w} Je veux dire, tu étais juste dans celle de ma mère...{w} Tu étais dans ma mère?!"
 
 # game/code/d20/d20s02tl.rpy:807
 translate french d20s02tl_cl_6780dcf5:
@@ -1316,7 +1316,7 @@ translate french d20s02tl_cl_6780dcf5:
 translate french d20s02tl_cl_608a3dc7:
 
     # cl "It's not?"
-    cl "Ce n'est pas le cas ?"
+    cl "Ce n'est pas le cas?"
 
 # game/code/d20/d20s02tl.rpy:812
 translate french d20s02tl_cl_8086d13a:
@@ -1328,7 +1328,7 @@ translate french d20s02tl_cl_8086d13a:
 translate french d20s02tl_cl_aafa2576:
 
     # cl "What...{w} I don't know how to process this. You and me, and my mother?"
-    cl "Quoi...{w} Je ne sais pas comment gérer ça. Toi et moi, et ma mère ?"
+    cl "Quoi...{w} Je ne sais pas comment gérer ça. Toi et moi, et ma mère?"
 
 # game/code/d20/d20s02tl.rpy:817
 translate french d20s02tl_cl_702515d9:
@@ -1346,7 +1346,7 @@ translate french d20s02tl_cl_e5059fbd:
 translate french d20s02tl_cl_9ba99840:
 
     # cl "I...{w} Mom?"
-    cl "Je...{w} Maman ?"
+    cl "Je...{w} Maman?"
 
 # game/code/d20/d20s02tl.rpy:824
 translate french d20s02tl_cl_08bd85d2:
@@ -1364,7 +1364,7 @@ translate french d20s02tl_cl_bf1f7e84:
 translate french d20s02tl_cl_c167d9f8:
 
     # mct "I can't believe this is working!"
-    mct "Je n'arrive pas à croire que ça marche !"
+    mct "Je n'arrive pas à croire que ça marche!"
 
 # game/code/d20/d20s02tl.rpy:833
 translate french d20s02tl_cl_9f80c88c:
@@ -1646,7 +1646,7 @@ translate french d20s02tl_cl_whip_06d4f7dc:
 translate french d20s02tl_cl_whip_467f6e32:
 
     # mc "Very good. Shall I continue with your breasts or change to another part of your bodies, Theresa?"
-    mc "Très bien. Dois-je continuer avec tes seins ou passer à une autre partie de ton corps, Theresa ?"
+    mc "Très bien. Dois-je continuer avec tes seins ou passer à une autre partie de ton corps, Theresa?"
 
 # game/code/d20/d20s02tl.rpy:991
 translate french d20s02tl_cl_whip_08a0e0d9:
@@ -1688,7 +1688,7 @@ translate french d20s02tl_cl_whip_720c0dce:
 translate french d20s02tl_cl_whip_396c4a1f:
 
     # mc "Cynthia, do you know what you shall do next?"
-    mc "Cynthia, tu sais ce que tu vas faire ensuite ?"
+    mc "Cynthia, tu sais ce que tu vas faire ensuite?"
 
 # game/code/d20/d20s02tl.rpy:1010
 translate french d20s02tl_cl_whip_9d634b8b:
@@ -1712,55 +1712,55 @@ translate french d20s02tl_cl_whip_301c13a2:
 translate french d20s02tl_cl_whip_d3bf4b7c:
 
     # cl "Yes, [mcname]! One!"
-    cl "Oui, [mcname] ! Un!"
+    cl "Oui, [mcname]! Un!"
 
 # game/code/d20/d20s02tl.rpy:1027
 translate french d20s02tl_cl_whip_a40dcd27:
 
     # cl "Two, [mcname]!"
-    cl "Deux, [mcname] !"
+    cl "Deux, [mcname]!"
 
 # game/code/d20/d20s02tl.rpy:1033
 translate french d20s02tl_cl_whip_022bb707:
 
     # cl "Fuck! Three, [mcname]!"
-    cl "Putain ! Trois, [mcname] !"
+    cl "Putain! Trois, [mcname]!"
 
 # game/code/d20/d20s02tl.rpy:1039
 translate french d20s02tl_cl_whip_8bf32bd4:
 
     # cl "YES JUST-"
-    cl "OUI !"
+    cl "OUI!"
 
 # game/code/d20/d20s02tl.rpy:1041
 translate french d20s02tl_cl_whip_ae13ca85:
 
     # cl "I mean, Four, [mcname]!"
-    cl "Je veux dire, Quatre, [mcname] !"
+    cl "Je veux dire, Quatre, [mcname]!"
 
 # game/code/d20/d20s02tl.rpy:1047
 translate french d20s02tl_cl_whip_de1693cb:
 
     # cl "Five, [mcname]!"
-    cl "Cinq, [mcname] !"
+    cl "Cinq, [mcname]!"
 
 # game/code/d20/d20s02tl.rpy:1050
 translate french d20s02tl_cl_whip_22759f77:
 
     # mc "Well done. You may kneel.{w} Now, tell me honestly. Are you wet?"
-    mc "Bravo. Vous pouvez vous agenouiller.{w} Maintenant, dites-moi honnêtement. Etes-vous mouillées ?"
+    mc "Bravo. Vous pouvez vous agenouiller.{w} Maintenant, dites-moi honnêtement. Etes-vous mouillées?"
 
 # game/code/d20/d20s02tl.rpy:1053
 translate french d20s02tl_cl_whip_cddedeb5:
 
     # tl "Yes, Teacher!"
-    tl "Oui, professeur !"
+    tl "Oui, professeur!"
 
 # game/code/d20/d20s02tl.rpy:1056
 translate french d20s02tl_cl_whip_24598b2a:
 
     # cl "Yes! Dripping wet, [mcname]!"
-    cl "Oui ! Dégoulinante, [mcname] !"
+    cl "Oui! Dégoulinante, [mcname]!"
 
 # game/code/d20/d20s02tl.rpy:1059
 translate french d20s02tl_cl_whip_ae1b06f1:
@@ -1772,13 +1772,13 @@ translate french d20s02tl_cl_whip_ae1b06f1:
 translate french d20s02tl_cl_whip_263d25bc:
 
     # cl "Whatever pleases you, [mcname]!"
-    cl "Tout ce qui te plaît, [mcname] !"
+    cl "Tout ce qui te plaît, [mcname]!"
 
 # game/code/d20/d20s02tl.rpy:1070
 translate french d20s02tl_cl_fuck_8236248f:
 
     # mc "Theresa. Cynthia. Do you have any doubts about my authority?"
-    mc "Thérèse. Cynthia. Avez vous des doutes sur mon autorité ?"
+    mc "Thérèse. Cynthia. Avez vous des doutes sur mon autorité?"
 
 # game/code/d20/d20s02tl.rpy:1072
 translate french d20s02tl_cl_fuck_d3cf0d70:
@@ -1796,7 +1796,7 @@ translate french d20s02tl_cl_fuck_2876d52b:
 translate french d20s02tl_cl_fuck_cbbb8120:
 
     # mc "If I were to demand the worst of you, would you do it?"
-    mc "Si je devais exiger le pire de vous, vous le feriez ?"
+    mc "Si je devais exiger le pire de vous, vous le feriez?"
 
 # game/code/d20/d20s02tl.rpy:1079
 translate french d20s02tl_cl_fuck_445694df:
@@ -1832,13 +1832,13 @@ translate french d20s02tl_cl_fuck_c0655d39:
 translate french d20s02tl_cl_fuck_d96bdd87:
 
     # mc "Even if I required that you two become intimate together?"
-    mc "Même si j'exigeais que vous deveniez intimes ensemble ?"
+    mc "Même si j'exigeais que vous deveniez intimes ensemble?"
 
 # game/code/d20/d20s02tl.rpy:1092
 translate french d20s02tl_cl_fuck_b46f8407:
 
     # cl "If that is what you wish, but if I may make a request?"
-    cl "Si c'est ce que tu souhaites... mais je peux faire une demande ?"
+    cl "Si c'est ce que tu souhaites... mais je peux faire une demande?"
 
 # game/code/d20/d20s02tl.rpy:1095
 translate french d20s02tl_cl_fuck_ead79674:
@@ -1904,7 +1904,7 @@ translate french d20s02tl_cl_fuck_c2f20b3c:
 translate french d20s02tl_cl_fuck_d61c6ccf:
 
     # cl "Is that true, mama?"
-    cl "C'est vrai, maman ?"
+    cl "C'est vrai, maman?"
 
 # game/code/d20/d20s02tl.rpy:1144
 translate french d20s02tl_cl_fuck_8088833f:
@@ -1916,7 +1916,7 @@ translate french d20s02tl_cl_fuck_8088833f:
 translate french d20s02tl_cl_fuck_05a12aef:
 
     # mc "We're going to make sure the same thing doesn't happen to you, Cynthia. Aren't we Theresa?"
-    mc "Nous allons faire en sorte que la même chose ne t'arrive pas, Cynthia. N'est-ce pas Theresa ?"
+    mc "Nous allons faire en sorte que la même chose ne t'arrive pas, Cynthia. N'est-ce pas Theresa?"
 
 # game/code/d20/d20s02tl.rpy:1148
 translate french d20s02tl_cl_fuck_720c0dce:
@@ -1958,13 +1958,13 @@ translate french d20s02tl_cl_fuck_35dce81c:
 translate french d20s02tl_cl_fuck_3cc6e815:
 
     # tl "Just like that!"
-    tl "Oui !"
+    tl "Oui!"
 
 # game/code/d20/d20s02tl.rpy:1166
 translate french d20s02tl_cl_fuck_0c229a43:
 
     # tl "JUST LIKE THAT!!!"
-    tl "JUSTE COMME ÇA !!!"
+    tl "JUSTE COMME ÇA!!!"
 
 # game/code/d20/d20s02tl.rpy:1169
 translate french d20s02tl_cl_fuck_4effcd82:
@@ -1976,7 +1976,7 @@ translate french d20s02tl_cl_fuck_4effcd82:
 translate french d20s02tl_cl_fuck_759d7e9e:
 
     # mc "I'm so proud of you, Theresa.{w} How did that feel?"
-    mc "Je suis tellement fière de toi, Theresa.{w} Qu'est-ce que ça t'a fait ?"
+    mc "Je suis tellement fière de toi, Theresa.{w} Qu'est-ce que ça t'a fait?"
 
 # game/code/d20/d20s02tl.rpy:1181
 translate french d20s02tl_cl_fuck_e7b73187:
@@ -2030,7 +2030,7 @@ translate french d20s02tl_cl_fuck_8d5adb8b:
 translate french d20s02tl_cl_fuck_3e750f1b:
 
     # mc "Oh oh!"
-    mc "Oh oh !"
+    mc "Oh oh!"
 
 # game/code/d20/d20s02tl.rpy:1202
 translate french d20s02tl_cl_fuck_9476304a:
@@ -2066,7 +2066,7 @@ translate french d20s02tl_cl_fuck_f6ed8187:
 translate french d20s02tl_cl_fuck_23907a01:
 
     # cl "May I clean my mother's face, [mcname]?"
-    cl "Puis-je nettoyer le visage de ma mère, [mcname] ?"
+    cl "Puis-je nettoyer le visage de ma mère, [mcname]?"
 
 # game/code/d20/d20s02tl.rpy:1234
 translate french d20s02tl_cl_fuck_c2a448f3:
@@ -2156,7 +2156,7 @@ translate french d20s02tl_end_05f7d2af:
 translate french d20s02tl_end_23aa0c99:
 
     # tl "Was any of this real for you? Or was this just a game?"
-    tl "Est-ce que tout ça était réel pour toi ? Ou était-ce juste un jeu ?"
+    tl "Est-ce que tout ça était réel pour toi? Ou était-ce juste un jeu?"
 
 # game/code/d20/d20s02tl.rpy:1286
 translate french d20s02tl_end_e64d1d60:
@@ -2221,3 +2221,4 @@ translate french strings:
     # game/code/d20/d20s02tl.rpy:920
     old "Whip Them Both Together"
     new "Fouette-les tous les deux ensemble"
+

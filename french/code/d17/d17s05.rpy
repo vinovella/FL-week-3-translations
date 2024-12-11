@@ -26,19 +26,19 @@ translate french d17s05_4f33068e:
 translate french d17s05_05e6ccd4:
 
     # mc "For you? Always."
-    mc "Pour toi ? Toujours."
+    mc "Pour toi? Toujours."
 
 # game/code/d17/d17s05.rpy:52
 translate french d17s05_e56699f9:
 
     # mh "Good. I'm home today. I was wondering if you wanted to come over?"
-    mh "Bien. Je suis à la maison aujourd'hui. Je me demandais si tu voulais venir ?"
+    mh "Bien. Je suis à la maison aujourd'hui. Je me demandais si tu voulais venir?"
 
 # game/code/d17/d17s05.rpy:55
 translate french d17s05_e3619dc6:
 
     # mc "Come over? Hmm, but what oh what could we {i}possibly{/i} do together?"
-    mc "Viens ? Hmm, mais que pourrions-nous {i}éventuellement{/i} faire ensemble ?"
+    mc "Viens? Hmm, mais que pourrions-nous {i}éventuellement{/i} faire ensemble?"
 
 # game/code/d17/d17s05.rpy:58
 translate french d17s05_2818dd51:
@@ -56,7 +56,7 @@ translate french d17s05_9769b0ab:
 translate french d17s05_2b7b837a:
 
     # mc "Board games, huh?"
-    mc "Des jeux de société, hein ?"
+    mc "Des jeux de société, hein?"
 
 # game/code/d17/d17s05.rpy:63
 translate french d17s05_5d6a8122:
@@ -68,25 +68,25 @@ translate french d17s05_5d6a8122:
 translate french d17s05_665f6e6f:
 
     # mh "Maybe you can bring someone else over as well. It's more the merrier when it comes to {i}board games{/i}, right? I wouldn't mind."
-    mh "Peut-être que vous pouvez aussi inviter quelqu'un d'autre. C'est plus on est de fous lorsqu'il s'agit de {i}jeux de société{/i}, n'est-ce pas ? Cela ne me dérangerait pas."
+    mh "Peut-être que vous pouvez aussi inviter quelqu'un d'autre. C'est plus on est de fous lorsqu'il s'agit de {i}jeux de société{/i}, n'est-ce pas? Cela ne me dérangerait pas."
 
 # game/code/d17/d17s05.rpy:74
 translate french d17s05_650388e7:
 
     # mct "Whom should I invite?" nointeract
-    mct "Qui dois-je inviter ?" ne pas interagir
+    mct "Qui dois-je inviter?" nointeract
 
 # game/code/d17/d17s05.rpy:82
 translate french d17s05_64cf29f2:
 
     # mc "What about Oliver?"
-    mc « Et Olivier ?
+    mc "Et Olivier?"
 
 # game/code/d17/d17s05.rpy:85
 translate french d17s05_9ec605f7:
 
     # mh "Oliver? He's growing on you, isn't he?"
-    mh "Oliver ? Il a des vus sur toi, n'est-ce pas ?"
+    mh "Oliver? Il a des vus sur toi, n'est-ce pas?"
 
 # game/code/d17/d17s05.rpy:88
 translate french d17s05_efb8b782:
@@ -122,13 +122,13 @@ translate french d17s05_69e1eca0:
 translate french d17s05_a7050907:
 
     # mc "How about Stacy?"
-    mc "Et Stacy ?"
+    mc "Et Stacy?"
 
 # game/code/d17/d17s05.rpy:109
 translate french d17s05_01dd70b3:
 
     # mh "Stacy?{w} Sure. I've been meaning to talk to her a bit more."
-    mh "Stacy ?{w} Bien sûr. J'avais l'intention de lui parler un peu plus."
+    mh "Stacy?{w} Bien sûr. J'avais l'intention de lui parler un peu plus."
 
 # game/code/d17/d17s05.rpy:110
 translate french d17s05_7a23a047:
@@ -164,7 +164,7 @@ translate french d17s05_79186aae:
 translate french d17s05_20f75409:
 
     # mc "Why don't you prepare yourself for me in the meantime?"
-    mc "Pourquoi ne te prépares-tu pas pour moi en attendant ?"
+    mc "Pourquoi ne te prépares-tu pas pour moi en attendant?"
 
 # game/code/d17/d17s05.rpy:134
 translate french d17s05_66fd117c:
@@ -194,13 +194,13 @@ translate french d17s05_40a7e867:
 translate french d17s05_864608c0:
 
     # mc "Oliver? Sorry for the call out of nowhere."
-    mc "Oliver ? Désolé pour l'appel venu de nulle part."
+    mc "Oliver? Désolé pour l'appel venu de nulle part."
 
 # game/code/d17/d17s05.rpy:151
 translate french d17s05_4dc2a32c:
 
     # op "Oh, it's fine. What's up?"
-    op "Oh, ça va. Quoi de neuf ?"
+    op "Oh, ça va. Quoi de neuf?"
 
 # game/code/d17/d17s05.rpy:154
 translate french d17s05_3ace6ad6:
@@ -218,19 +218,19 @@ translate french d17s05_79919b94:
 translate french d17s05_9913aae3:
 
     # mc "Yeah. I was wondering if you'd wanna tag along?"
-    mc "Ouais. Je me demandais si tu voulais m'accompagner ?"
+    mc "Ouais. Je me demandais si tu voulais m'accompagner?"
 
 # game/code/d17/d17s05.rpy:163
 translate french d17s05_523302ac:
 
     # op "M—me? Why me?"
-    op "M-moi ? Pourquoi moi ?"
+    op "M-moi? Pourquoi moi?"
 
 # game/code/d17/d17s05.rpy:166
 translate french d17s05_a003905d:
 
     # mc "Well, Lyssa said she'd be fine with someone else tagging along, so I thought why not you?"
-    mc "Eh bien, Lyssa a dit qu'elle accepterait que quelqu'un d'autre la suive, alors je me suis dit, pourquoi pas toi ?"
+    mc "Eh bien, Lyssa a dit qu'elle accepterait que quelqu'un d'autre la suive, alors je me suis dit, pourquoi pas toi?"
 
 # game/code/d17/d17s05.rpy:167
 translate french d17s05_beebcd8c:
@@ -248,7 +248,7 @@ translate french d17s05_4be1fc12:
 translate french d17s05_d2d8c4cc:
 
     # mc "Does that mean you're in?"
-    mc "Est-ce que ça veut dire que tu es partant ?"
+    mc "Est-ce que ça veut dire que tu es partant?"
 
 # game/code/d17/d17s05.rpy:176
 translate french d17s05_26580048:
@@ -272,13 +272,13 @@ translate french d17s05_07c53869:
 translate french d17s05_2628cf35:
 
     # sy "Who's dead?"
-    sy "Qui est mort ?"
+    sy "Qui est mort?"
 
 # game/code/d17/d17s05.rpy:198
 translate french d17s05_1311c5f2:
 
     # mc "Wha—? Huh?"
-    mc "Quoi...? Hein ?"
+    mc "Quoi...? Hein?"
 
 # game/code/d17/d17s05.rpy:201
 translate french d17s05_113cd47c:
@@ -290,7 +290,7 @@ translate french d17s05_113cd47c:
 translate french d17s05_24319d89:
 
     # mc "And your first thought was to jump to {i}death{/i}?"
-    mc "Et votre première pensée a été de sauter vers la {i}mort{/i} ?"
+    mc "Et votre première pensée a été de sauter vers la {i}mort{/i}?"
 
 # game/code/d17/d17s05.rpy:207
 translate french d17s05_d62c9a92:
@@ -302,13 +302,13 @@ translate french d17s05_d62c9a92:
 translate french d17s05_beaa3d79:
 
     # mc "I— You know what? I refuse to engage with your inane dumbassery right now."
-    mc "Je... Tu sais quoi ? Je refuse de m'engager dans tes stupidités pour le moment."
+    mc "Je... Tu sais quoi? Je refuse de m'engager dans tes stupidités pour le moment."
 
 # game/code/d17/d17s05.rpy:211
 translate french d17s05_0ecce295:
 
     # mc "Do you wanna go over to Lyssa's—?"
-    mc « Veux-tu aller chez Lyssa… ? »
+    mc "Veux-tu aller chez Lyssa…?"
 
 # game/code/d17/d17s05.rpy:214
 translate french d17s05_b4bbb763:

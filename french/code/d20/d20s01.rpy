@@ -2,7 +2,7 @@
 translate french d20s01_ab231225:
 
     # mc "Stacy...?"
-    mc "Stacy... ?"
+    mc "Stacy...?"
 
 # game/code/d20/d20s01.rpy:32
 translate french d20s01_235bb718:
@@ -20,7 +20,7 @@ translate french d20s01_9c21972a:
 translate french d20s01_5f13ef96:
 
     # mc "Why would I go back to sleep if I'm already dreaming?"
-    mc "Pourquoi devrais-je me rendormir si je rêve déjà ?"
+    mc "Pourquoi devrais-je me rendormir si je rêve déjà?"
 
 # game/code/d20/d20s01.rpy:42
 translate french d20s01_398bcc1f:
@@ -68,13 +68,13 @@ translate french d20s01_df5ccbdd:
 translate french d20s01_6c37fdc0:
 
     # arj "Ugh, what are you two doing?"
-    arj "Ugh, qu'est-ce que vous faites tous les deux ?"
+    arj "Ugh, qu'est-ce que vous faites tous les deux?"
 
 # game/code/d20/d20s01.rpy:79
 translate french d20s01_f899fc02:
 
     # sy "Fighting for the bathroom!"
-    sy "Je me bats pour la salle de bain !"
+    sy "Je me bats pour la salle de bain!"
 
 # game/code/d20/d20s01.rpy:84
 translate french d20s01_3fa905d4:
@@ -86,7 +86,7 @@ translate french d20s01_3fa905d4:
 translate french d20s01_bd30cc58:
 
     # sy "[mcname]! Damn it, open this door right now! I have an interview today, asshole!"
-    sy "[mcname] ! Bon sang, ouvre cette porte maintenant ! J'ai un entretien aujourd'hui, connard !"
+    sy "[mcname]! Bon sang, ouvre cette porte maintenant! J'ai un entretien aujourd'hui, connard!"
 
 # game/code/d20/d20s01.rpy:92
 translate french d20s01_3a4a0428:
@@ -98,7 +98,7 @@ translate french d20s01_3a4a0428:
 translate french d20s01_83e1c942:
 
     # sy "I swear to God, [mcname], I'm gonna break in there and strangle you if you don't open this door right now!"
-    sy "Je le jure devant Dieu, [mcname], je vais entrer par effraction et t'étrangler si tu n'ouvres pas cette porte maintenant !"
+    sy "Je le jure devant Dieu, [mcname], je vais entrer par effraction et t'étrangler si tu n'ouvres pas cette porte maintenant!"
 
 # game/code/d20/d20s01.rpy:97
 translate french d20s01_fdb6e530:
@@ -110,7 +110,7 @@ translate french d20s01_fdb6e530:
 translate french d20s01_e1ac5135:
 
     # arj "Can you two knuckleheads keep it down a bit before the neighbors call in a domestic situation?"
-    arj "Vous deux bandes d'idiots, pouvez-vous garder le silence un peu avant que les voisins n'appellent pour un probleme domestique ?"
+    arj "Vous deux bandes d'idiots, pouvez-vous garder le silence un peu avant que les voisins n'appellent pour un probleme domestique?"
 
 # game/code/d20/d20s01.rpy:102
 translate french d20s01_f946fa06:
@@ -122,13 +122,13 @@ translate french d20s01_f946fa06:
 translate french d20s01_139de580:
 
     # arj "Just let him take a shower in peace, what's the rush?"
-    arj "Laisse-le prendre une douche en paix, qu'est-ce qui te presse ?"
+    arj "Laisse-le prendre une douche en paix, qu'est-ce qui te presse?"
 
 # game/code/d20/d20s01.rpy:108
 translate french d20s01_45dabd73:
 
     # sy "My interview? You promised you'd take me there."
-    sy "Mon entretien ?  Tu as promis de m'y emmener."
+    sy "Mon entretien?  Tu as promis de m'y emmener."
 
 # game/code/d20/d20s01.rpy:110
 translate french d20s01_4f4aed83:
@@ -182,19 +182,19 @@ translate french d20s01_48b1cccd:
 translate french d20s01_296f54ff:
 
     # sy "We showered all the time as kids. What's the point of being embarrassed?"
-    sy "On se douchait tout le temps ensemble quand on était enfants. A quoi ça sert d'être gêné ?"
+    sy "On se douchait tout le temps ensemble quand on était enfants. A quoi ça sert d'être gêné?"
 
 # game/code/d20/d20s01.rpy:138
 translate french d20s01_576d4e5a:
 
     # arj "See? She's a team player."
-    arj "Tu vois ? Elle a l'esprit d'équipe."
+    arj "Tu vois? Elle a l'esprit d'équipe."
 
 # game/code/d20/d20s01.rpy:148
 translate french d20s01_1b1d7607:
 
     # mc "Where are you two going anyway?"
-    mc "Où allez-vous toutes les deux ?"
+    mc "Où allez-vous toutes les deux?"
 
 # game/code/d20/d20s01.rpy:152
 translate french d20s01_d533fd15:
@@ -212,7 +212,7 @@ translate french d20s01_2a3a4df6:
 translate french d20s01_47189f20:
 
     # mc "Didn't you hate the gig they offered you?"
-    mc "Tu n'as pas détesté le poste qu'ils t'ont proposé ?"
+    mc "Tu n'as pas détesté le poste qu'ils t'ont proposé?"
 
 # game/code/d20/d20s01.rpy:160
 translate french d20s01_07afee0a:
@@ -260,19 +260,19 @@ translate french d20s01_9b627456:
 translate french d20s01_b2240063:
 
     # sy "Oh? Looks like he's feeling lonely."
-    sy "Oh ? On dirait qu'il se sent seul."
+    sy "Oh? On dirait qu'il se sent seul."
 
 # game/code/d20/d20s01.rpy:201
 translate french d20s01_1948d19c:
 
     # arj "What are you two doin—?"
-    arj "Qu'est-ce que vous faites tous les deux ?"
+    arj "Qu'est-ce que vous faites tous les deux?"
 
 # game/code/d20/d20s01.rpy:208
 translate french d20s01_310fa768:
 
     # arj "When did you two develop a piss fetish?"
-    arj "Quand est-ce que vous avez développé un fétichisme pour la pisse ?"
+    arj "Quand est-ce que vous avez développé un fétichisme pour la pisse?"
 
 # game/code/d20/d20s01.rpy:211
 translate french d20s01_ffbc692c:
@@ -290,7 +290,7 @@ translate french d20s01_7fe85b77:
 translate french d20s01_a06b9c52:
 
     # arj "You two are unbelievable. I wonder what else you're keeping from me?"
-    arj "Vous êtes incroyables tous les deux. Je me demande ce que tu me caches d'autre ?"
+    arj "Vous êtes incroyables tous les deux. Je me demande ce que tu me caches d'autre?"
 
 # game/code/d20/d20s01.rpy:223
 translate french d20s01_002caf2e:
@@ -326,13 +326,13 @@ translate french d20s01_2a3c515a:
 translate french d20s01_6d73e3d9:
 
     # arj "Moving on!"
-    arj "Continuons !"
+    arj "Continuons!"
 
 # game/code/d20/d20s01.rpy:254
 translate french d20s01_judges_5e678fdb:
 
     # arj "Did you figure out the situation with the judges, by the way?"
-    arj "Au fait, tu as avancé sur la situation avec les profs ?"
+    arj "Au fait, tu as avancé sur la situation avec les profs?"
 
 # game/code/d20/d20s01.rpy:259
 translate french d20s01_judges_919363d3:
@@ -344,7 +344,7 @@ translate french d20s01_judges_919363d3:
 translate french d20s01_judges_2503b0f8:
 
     # sy "How'd you do that?"
-    sy "Comment as-tu fait ça ?"
+    sy "Comment as-tu fait ça?"
 
 # game/code/d20/d20s01.rpy:265
 translate french d20s01_judges_c00d2290:
@@ -374,7 +374,7 @@ translate french d20s01_judges_d41f0a74:
 translate french d20s01_judges_de50287b:
 
     # sy "Maybe you should wear a big cross to the exam? Appeal to her religious side a bit."
-    sy "Peut-être que tu devrais porter une grosse croix à l'examen ? Fait un peu appel à son côté religieux."
+    sy "Peut-être que tu devrais porter une grosse croix à l'examen? Fait un peu appel à son côté religieux."
 
 # game/code/d20/d20s01.rpy:277
 translate french d20s01_judges_62ac7096:
@@ -440,7 +440,7 @@ translate french d20s01_judges_74b6769a:
 translate french d20s01_judges_de3240c1:
 
     # arj "Wait, what?"
-    arj "Attends, quoi ?"
+    arj "Attends, quoi?"
 
 # game/code/d20/d20s01.rpy:312
 translate french d20s01_judges_1867d12c:
@@ -452,7 +452,7 @@ translate french d20s01_judges_1867d12c:
 translate french d20s01_judges_2fe9d939:
 
     # sy "Who's Maria again?"
-    sy "Qui est Maria déjà ?"
+    sy "Qui est Maria déjà?"
 
 # game/code/d20/d20s01.rpy:318
 translate french d20s01_judges_5ffcd4c3:
@@ -524,13 +524,13 @@ translate french d20s01_judges_0cc74e29:
 translate french d20s01_judges_d59b693a:
 
     # sy "Considering you picked this place for me, whose fault is that exactly?"
-    sy "Etant donné que tu as choisi cet endroit pour moi, à qui la faute exactement ?"
+    sy "Etant donné que tu as choisi cet endroit pour moi, à qui la faute exactement?"
 
 # game/code/d20/d20s01.rpy:360
 translate french d20s01_judges_87153f36:
 
     # sy "Oh yeah, when are we going to the server room, by the way?"
-    sy "Oh ouais sinon, quand allons-nous dans la salle des serveurs, au fait ?"
+    sy "Oh ouais sinon, quand allons-nous dans la salle des serveurs, au fait?"
 
 # game/code/d20/d20s01.rpy:363
 translate french d20s01_judges_ff28303d:
@@ -565,3 +565,4 @@ translate french strings:
     # game/code/d20/d20s01.rpy:191
     old "Do you want Stacy to pee on you?"
     new "Tu veux que Stacy fasse pipi dessus?"
+

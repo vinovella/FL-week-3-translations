@@ -8,13 +8,13 @@ translate french d18s08_2004fe1c:
 translate french d18s08_c7d62d4d:
 
     # hr "Someone's in there. And they're...slapping something?"
-    hr "Il y a quelqu'un là-dedans. Et ils... giflent quelque chose ?"
+    hr "Il y a quelqu'un là-dedans. Et ils... giflent quelque chose?"
 
 # game/code/d18/d18s08.rpy:17
 translate french d18s08_4114c0e5:
 
     # arj "Slapping something?"
-    arj "Gifles quelque chose ?"
+    arj "Gifles quelque chose?"
 
 # game/code/d18/d18s08.rpy:21
 translate french d18s08_0db9ac34:
@@ -26,13 +26,13 @@ translate french d18s08_0db9ac34:
 translate french d18s08_f6256a06:
 
     # "{color=#c46c93}???{/color}" "I didn't raise you to be some common harlot!"
-    "{color=#c46c93}???{/color}" "Je ne t'ai pas élevé pour être une prostituée de base !"
+    "{color=#c46c93}???{/color}" "Je ne t'ai pas élevé pour être une prostituée de base!"
 
 # game/code/d18/d18s08.rpy:25
 translate french d18s08_384e1515:
 
     # arj "Is that Lewald? That sounds like her."
-    arj "C'est Lewald ? Ça lui ressemble."
+    arj "C'est Lewald? Ça lui ressemble."
 
 # game/code/d18/d18s08.rpy:38
 translate french d18s08_c669d142:
@@ -50,7 +50,7 @@ translate french d18s08_f4baa2a7:
 translate french d18s08_bc306e48:
 
     # "{color=#c46c93}???{/color}" "Who's there!?"
-    "{color=#c46c93}???{/color}" "Qui est là !?"
+    "{color=#c46c93}???{/color}" "Qui est là!?"
 
 # game/code/d18/d18s08.rpy:55
 translate french d18s08_628bf4a3:
@@ -62,19 +62,19 @@ translate french d18s08_628bf4a3:
 translate french d18s08_71db2c0d:
 
     # mct "Wait... Is that Cynthia?"
-    mct "Attends... c'est Cynthia ?"
+    mct "Attends... c'est Cynthia?"
 
 # game/code/d18/d18s08.rpy:65
 translate french d18s08_3920a63c:
 
     # tl "Who are you and what are you doing here?"
-    tl "Qui êtes-vous et que faites vous ici ?"
+    tl "Qui êtes-vous et que faites vous ici?"
 
 # game/code/d18/d18s08.rpy:68
 translate french d18s08_26b53298:
 
     # arj "We were told that the new I.T. professor was here? We had some questions to ask her..."
-    arj "On nous a dit que le nouveau professeur était là ? Nous avions quelques questions à lui poser..."
+    arj "On nous a dit que le nouveau professeur était là? Nous avions quelques questions à lui poser..."
 
 # game/code/d18/d18s08.rpy:71
 translate french d18s08_6256165d:
@@ -104,13 +104,13 @@ translate french d18s08_bed435d8:
 translate french d18s08_c1d587b6:
 
     # hr "Can I ask what's going on here?"
-    hr "Puis-je demander ce qui se passe ici ?"
+    hr "Puis-je demander ce qui se passe ici?"
 
 # game/code/d18/d18s08.rpy:85
 translate french d18s08_f0fee0bd:
 
     # tl "*Laughs* Hear that, Cynthia? Should I tell them?"
-    tl "*Rires* Tu entends ça, Cynthia ? Dois-je leur dire ?"
+    tl "*Rires* Tu entends ça, Cynthia? Dois-je leur dire?"
 
 # game/code/d18/d18s08.rpy:92
 translate french d18s08_b3b1f69c:
@@ -128,19 +128,19 @@ translate french d18s08_e354d71b:
 translate french d18s08_a76ff191:
 
     # tl "Within a week of having her purity, her womanhood, her virginity restored, she lost it once more!"
-    tl "Moins d'une semaine après avoir retrouvé sa pureté, sa féminité, sa virginité, elle l'a encore perdue !"
+    tl "Moins d'une semaine après avoir retrouvé sa pureté, sa féminité, sa virginité, elle l'a encore perdue!"
 
 # game/code/d18/d18s08.rpy:100
 translate french d18s08_edcf099b:
 
     # tl "One week!"
-    tl "Une semaine !"
+    tl "Une semaine!"
 
 # game/code/d18/d18s08.rpy:106
 translate french d18s08_c9e7fb64:
 
     # tl "Can you imagine the shame I feel as a woman and her mother? The shame that her wanton actions cause our family?"
-    tl "Vous imaginez la honte que je ressens en tant que femme et mère ?  La honte que ses actions gratuites causent à notre famille ?"
+    tl "Vous imaginez la honte que je ressens en tant que femme et mère?  La honte que ses actions gratuites causent à notre famille?"
 
 # game/code/d18/d18s08.rpy:109
 translate french d18s08_8a3f7763:
@@ -152,7 +152,7 @@ translate french d18s08_8a3f7763:
 translate french d18s08_887f8589:
 
     # tl "Are your virginities still intact? Are you pure from the corruption of lust?"
-    tl "Vos virginités sont toujours intactes ?  Êtes-vous pur de la corruption de la luxure ?"
+    tl "Vos virginités sont toujours intactes?  Êtes-vous pur de la corruption de la luxure?"
 
 # game/code/d18/d18s08.rpy:116
 translate french d18s08_0e872b16:
@@ -200,13 +200,13 @@ translate french d18s08_a998c557:
 translate french d18s08_b7d3c855:
 
     # tl "Can you accompany me?"
-    tl "Pouvez-vous m'accompagner ?"
+    tl "Pouvez-vous m'accompagner?"
 
 # game/code/d18/d18s08.rpy:140
 translate french d18s08_414b8be4:
 
     # arj "I— What?"
-    arj "Je... quoi ?"
+    arj "Je... quoi?"
 
 # game/code/d18/d18s08.rpy:143
 translate french d18s08_eb46f713:
@@ -260,10 +260,11 @@ translate french d18s08_a20cefa7:
 translate french d18s08_7e74acd3:
 
     # hr "What just happened?"
-    hr "Qu'est-ce qui vient de se passer ?"
+    hr "Qu'est-ce qui vient de se passer?"
 
 # game/code/d18/d18s08.rpy:175
 translate french d18s08_a2f0bfe0:
 
     # hr "Let's go find the new professor. We don't have time to waste."
     hr "Allons trouver le nouveau professeur. Nous n'avons pas de temps à perdre."
+

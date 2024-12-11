@@ -2,19 +2,19 @@
 translate french d19s04dd_e5b04d05:
 
     # mc "Hello?{w} Daisy?"
-    mc "Bonjour ?{w} Daisy ?"
+    mc "Bonjour?{w} Daisy?"
 
 # game/code/d19/d19s04dd.rpy:71
 translate french d19s04dd_114f7004:
 
     # dd "[mcname]? Oh, thank goodness.{w} I was starting to fear you wouldn't come."
-    dd "[mcname] ? Oh, Dieu merci.{w} Je commençais à craindre que tu ne viennes pas."
+    dd "[mcname]? Oh, Dieu merci.{w} Je commençais à craindre que tu ne viennes pas."
 
 # game/code/d19/d19s04dd.rpy:74
 translate french d19s04dd_f7ffb709:
 
     # mc "Of course I'm here. Are you okay?"
-    mc "Bien sûr que je suis là. Ça va ?"
+    mc "Bien sûr que je suis là. Ça va?"
 
 # game/code/d19/d19s04dd.rpy:77
 translate french d19s04dd_ee2eefb4:
@@ -44,7 +44,7 @@ translate french d19s04dd_5cce5225:
 translate french d19s04dd_ecb1e066:
 
     # mc "Did something happen?{w} Who did this to you?!"
-    mc "Est-ce qu'il s'est passé quelque chose?{w} Qui t'a fait ça ?!"
+    mc "Est-ce qu'il s'est passé quelque chose?{w} Qui t'a fait ça?!"
 
 # game/code/d19/d19s04dd.rpy:92
 translate french d19s04dd_b0a19c5a:
@@ -56,7 +56,7 @@ translate french d19s04dd_b0a19c5a:
 translate french d19s04dd_f66e6da4:
 
     # mc "Oh, really?"
-    mc "Oh, vraiment ?"
+    mc "Oh, vraiment?"
 
 # game/code/d19/d19s04dd.rpy:98
 translate french d19s04dd_9d006b53:
@@ -86,7 +86,7 @@ translate french d19s04dd_30903437:
 translate french d19s04dd_a6f7ed5d:
 
     # dd "Oh, dearie me.{w} Master, whatever will you do with me?"
-    dd "Oh, chérie.{w} Maître, que vas-tu faire de moi ?"
+    dd "Oh, chérie.{w} Maître, que vas-tu faire de moi?"
 
 # game/code/d19/d19s04dd.rpy:128
 translate french d19s04dd_e28205ae:
@@ -98,13 +98,13 @@ translate french d19s04dd_e28205ae:
 translate french d19s04dd_884841cd:
 
     # mc "The real question is...{w} Which will I do to you first?"
-    mc "La vraie question est...{w} Que vais-je te faire en premier ?"
+    mc "La vraie question est...{w} Que vais-je te faire en premier?"
 
 # game/code/d19/d19s04dd.rpy:140
 translate french d19s04dd_43cc7e65:
 
     # mc "What do you think if I do this?"
-    mc "Qu'est-ce que tu penses si je fais ça ?"
+    mc "Qu'est-ce que tu penses si je fais ça?"
 
 # game/code/d19/d19s04dd.rpy:143
 translate french d19s04dd_e15f9461:
@@ -152,13 +152,13 @@ translate french d19s04dd_1d4007a3:
 translate french d19s04dd_b5b4171e:
 
     # mc "Should we take it slow...?"
-    mc "On devrait y aller doucement... ?"
+    mc "On devrait y aller doucement...?"
 
 # game/code/d19/d19s04dd.rpy:216
 translate french d19s04dd_6a7a86b0:
 
     # dd "If I'm going to go, make it worth it!"
-    dd "Si je dois y aller, ça vaut le coup !"
+    dd "Si je dois y aller, ça vaut le coup!"
 
 # game/code/d19/d19s04dd.rpy:219
 translate french d19s04dd_22c3f1f2:
@@ -170,7 +170,7 @@ translate french d19s04dd_22c3f1f2:
 translate french d19s04dd_1091f5e4:
 
     # dd "Fuck me hard and deep!"
-    dd "Baise-moi fort et profondément !"
+    dd "Baise-moi fort et profondément!"
 
 # game/code/d19/d19s04dd.rpy:258
 translate french d19s04dd_9b25e971:
@@ -182,31 +182,31 @@ translate french d19s04dd_9b25e971:
 translate french d19s04dd_26656cfb:
 
     # mc "Balls Deep!"
-    mc "Couilles à fond !"
+    mc "Couilles à fond!"
 
 # game/code/d19/d19s04dd.rpy:264
 translate french d19s04dd_7dff2462:
 
     # dd "Hell yes!"
-    dd "Bon sang oui !"
+    dd "Bon sang oui!"
 
 # game/code/d19/d19s04dd.rpy:301
 translate french d19s04dd_e5b4f120:
 
     # dd "Cum with me, [mcname]!"
-    dd "Jouis avec moi, [mcname] !"
+    dd "Jouis avec moi, [mcname]!"
 
 # game/code/d19/d19s04dd.rpy:308
 translate french d19s04dd_0d83a2c9:
 
     # mc "FUCK YES!"
-    mc "PUTAIN OUI !"
+    mc "PUTAIN OUI!"
 
 # game/code/d19/d19s04dd.rpy:312
 translate french d19s04dd_2910e0c0:
 
     # dd "OAOoaoaoaoaoaoaAA!!!"
-    dd "OAOoaoaoaoaoaoaAA !!!"
+    dd "OAOoaoaoaoaoaoaAA!!!"
 
 # game/code/d19/d19s04dd.rpy:315
 translate french d19s04dd_f2ce3a58:
@@ -254,7 +254,7 @@ translate french d19s04dd_after_01e81fcf:
 translate french d19s04dd_after_2940e183:
 
     # dd "You seemed kinda stressed when you got here. Do you feel better now?"
-    dd "Tu avais l'air un peu stressé quand tu es arrivé ici. Tu te sens mieux maintenant ?"
+    dd "Tu avais l'air un peu stressé quand tu es arrivé ici. Tu te sens mieux maintenant?"
 
 # game/code/d19/d19s04dd.rpy:358
 translate french d19s04dd_after_4aeb0365:
@@ -278,13 +278,13 @@ translate french d19s04dd_after_10d88bfc:
 translate french d19s04dd_after_53720e3f:
 
     # mc "Oh no! Was he watching everything?"
-    mc "Oh non ! Est-ce qu'il a tout vu ?"
+    mc "Oh non! Est-ce qu'il a tout vu?"
 
 # game/code/d19/d19s04dd.rpy:377
 translate french d19s04dd_after_41e42ee3:
 
     # dd "Who?"
-    dd "Qui ?"
+    dd "Qui?"
 
 # game/code/d19/d19s04dd.rpy:380
 translate french d19s04dd_after_da3c0e5c:
@@ -308,7 +308,7 @@ translate french d19s04dd_after_ba9926ba:
 translate french d19s04dd_after_3b54b469:
 
     # dd "Hehe, what?"
-    dd "Héhé, quoi ?"
+    dd "Héhé, quoi?"
 
 # game/code/d19/d19s04dd.rpy:392
 translate french d19s04dd_after_407cc883:
@@ -326,7 +326,7 @@ translate french d19s04dd_after_5d7f960e:
 translate french d19s04dd_after_4030d63f:
 
     # mc "You were saying you needed to show me something?"
-    mc "Tu disais que tu devais me montrer quelque chose ?"
+    mc "Tu disais que tu devais me montrer quelque chose?"
 
 # game/code/d19/d19s04dd.rpy:410
 translate french d19s04dd_plushie_963e7c1d:
@@ -368,13 +368,13 @@ translate french d19s04dd_plushie_d92136cd:
 translate french d19s04dd_plushie_181931b7:
 
     # dd "He's just being silly.{w} Bad [mcname]! No biscuit for you."
-    dd "Il est juste idiot. {w} Mauvais [mcname] ! Pas de biscuit pour toi."
+    dd "Il est juste idiot. {w} Mauvais [mcname]! Pas de biscuit pour toi."
 
 # game/code/d19/d19s04dd.rpy:434
 translate french d19s04dd_plushie_2d357c92:
 
     # mc "Ha!{w} Sorry, I was distracted by your roommate. What did you say this list was?"
-    mc "Ha !{w} Désolé, j'ai été distrait par ta colocataire. Qu'est-ce que tu as dit que cette liste était ?"
+    mc "Ha!{w} Désolé, j'ai été distrait par ta colocataire. Qu'est-ce que tu as dit que cette liste était?"
 
 # game/code/d19/d19s04dd.rpy:437
 translate french d19s04dd_plushie_296c0a7b:
@@ -386,7 +386,7 @@ translate french d19s04dd_plushie_296c0a7b:
 translate french d19s04dd_plushie_4b79a920:
 
     # mc "Before you kick the bucket?"
-    mc "Avant de jeter le seau ?"
+    mc "Avant de jeter le seau?"
 
 # game/code/d19/d19s04dd.rpy:443
 translate french d19s04dd_plushie_52c02fc2:
@@ -404,7 +404,7 @@ translate french d19s04dd_plushie_c66f7dcb:
 translate french d19s04dd_plushie_17a1c7cb:
 
     # mc "So, what's on your bucket list?"
-    mc "Alors, qu'est-ce qu'il y a sur ta bucket list ?"
+    mc "Alors, qu'est-ce qu'il y a sur ta bucket list?"
 
 # game/code/d19/d19s04dd.rpy:450
 translate french d19s04dd_plushie_c53ceb03:
@@ -434,7 +434,7 @@ translate french d19s04dd_plushie_2e4358e4:
 translate french d19s04dd_plushie_bcdcd869:
 
     # dd "Are you sure?"
-    dd "Tu es sûr ?"
+    dd "Tu es sûr?"
 
 # game/code/d19/d19s04dd.rpy:465
 translate french d19s04dd_plushie_6b4305ce:
@@ -476,7 +476,7 @@ translate french d19s04dd_plushie_eaeaf2b7:
 translate french d19s04dd_plushie_241e14f3:
 
     # mc "Huh. What's next on the list?"
-    mc "Ok. Quelle est la prochaine chose sur la liste ?"
+    mc "Ok. Quelle est la prochaine chose sur la liste?"
 
 # game/code/d19/d19s04dd.rpy:486
 translate french d19s04dd_plushie_20997cee:
@@ -500,7 +500,7 @@ translate french d19s04dd_plushie_07df336c:
 translate french d19s04dd_plushie_7851b703:
 
     # mc "Makes sense. What would you do there?"
-    mc "C'est logique. Qu'est-ce que tu ferais là-bas ?"
+    mc "C'est logique. Qu'est-ce que tu ferais là-bas?"
 
 # game/code/d19/d19s04dd.rpy:498
 translate french d19s04dd_plushie_f1b11b6f:
@@ -512,7 +512,7 @@ translate french d19s04dd_plushie_f1b11b6f:
 translate french d19s04dd_plushie_07eef455:
 
     # mc "Wow!"
-    mc "Wow !"
+    mc "Wow!"
 
 # game/code/d19/d19s04dd.rpy:504
 translate french d19s04dd_plushie_2c4f23f0:
@@ -536,7 +536,7 @@ translate french d19s04dd_plushie_1baed6c5:
 translate french d19s04dd_plushie_74afe22d:
 
     # mc "I don't know too much about roulette. What kind of bet are you thinking of making?"
-    mc "Je ne connais pas grand-chose à la roulette. Quel genre de pari penses-tu faire ?"
+    mc "Je ne connais pas grand-chose à la roulette. Quel genre de pari penses-tu faire?"
 
 # game/code/d19/d19s04dd.rpy:514
 translate french d19s04dd_plushie_8d152bc0:
@@ -548,19 +548,19 @@ translate french d19s04dd_plushie_8d152bc0:
 translate french d19s04dd_plushie_47040ef1:
 
     # dd "Should I bet everything on something like Red/Black or Odd/Even, or go for something riskier like a Corner bet or a single number?"
-    dd "Dois-je tout miser sur quelque chose comme Rouge/Noir ou Impair/Pair, ou opter pour quelque chose de plus risqué comme un pari Corner ou un numéro unique ?"
+    dd "Dois-je tout miser sur quelque chose comme Rouge/Noir ou Impair/Pair, ou opter pour quelque chose de plus risqué comme un pari Corner ou un numéro unique?"
 
 # game/code/d19/d19s04dd.rpy:525
 translate french d19s04dd_plushie_05b8df15:
 
-    # mc "If films have taught me one thing about gambling, it is « Always bet on Black »."
-    mc "Si les films m'ont appris une chose sur le jeu, il faut « Toujours parier sur le noir »."
+    # mc "If films have taught me one thing about gambling, it is "Always bet on Black\"."
+    mc "Si les films m'ont appris une chose sur le jeu, il faut \"Toujours parier sur le noir\"."
 
 # game/code/d19/d19s04dd.rpy:528
 translate french d19s04dd_plushie_e0e7f8ad:
 
     # dd "Is that a quote from...{w} oh, what was that film? \"Hard Eigh\"?"
-    dd "C'est une citation de...{w} oh, c'était quoi ce film ? \"Hard Eigh\"?"
+    dd "C'est une citation de...{w} oh, c'était quoi ce film? \"Hard Eigh\"?"
 
 # game/code/d19/d19s04dd.rpy:531
 translate french d19s04dd_plushie_6fbe08e6:
@@ -578,13 +578,13 @@ translate french d19s04dd_plushie_116641dc:
 translate french d19s04dd_plushie_2493cc78:
 
     # mc "Passenger 57!"
-    mc "Passager 57 !"
+    mc "Passager 57!"
 
 # game/code/d19/d19s04dd.rpy:540
 translate french d19s04dd_plushie_3667c609:
 
     # dd "You get the way I think!"
-    dd "Tu vois ce que je pense !"
+    dd "Tu vois ce que je pense!"
 
 # game/code/d19/d19s04dd.rpy:543
 translate french d19s04dd_plushie_8cc105c3:
@@ -602,7 +602,7 @@ translate french d19s04dd_plushie_04e58636:
 translate french d19s04dd_plushie_f61150a6:
 
     # mct "Is that how her mind works? I can't even imagine..."
-    mct "C'est comme ça que son esprit fonctionne ? Je ne peux même pas imaginer..."
+    mct "C'est comme ça que son esprit fonctionne? Je ne peux même pas imaginer..."
 
 # game/code/d19/d19s04dd.rpy:557
 translate french d19s04dd_plushie_dec9fd30:
@@ -614,7 +614,7 @@ translate french d19s04dd_plushie_dec9fd30:
 translate french d19s04dd_plushie_f18884b9:
 
     # dd "Because we are?"
-    dd "Parce que nous le sommes ?"
+    dd "Parce que nous le sommes?"
 
 # game/code/d19/d19s04dd.rpy:563
 translate french d19s04dd_plushie_f36e5aec:
@@ -626,7 +626,7 @@ translate french d19s04dd_plushie_f36e5aec:
 translate french d19s04dd_plushie_88e6cc57:
 
     # mc "Can't you do bets like a third of the board?"
-    mc "Tu ne peux pas faire des paris sur un tiers du plateau ?"
+    mc "Tu ne peux pas faire des paris sur un tiers du plateau?"
 
 # game/code/d19/d19s04dd.rpy:574
 translate french d19s04dd_plushie_92c94d21:
@@ -656,7 +656,7 @@ translate french d19s04dd_plushie_36d2326a:
 translate french d19s04dd_plushie_bb108f15:
 
     # mc "What is a corner bet?"
-    mc "C'est quoi un corner ?"
+    mc "C'est quoi un corner?"
 
 # game/code/d19/d19s04dd.rpy:594
 translate french d19s04dd_plushie_e50a7106:
@@ -686,7 +686,7 @@ translate french d19s04dd_plushie_a8cd830e:
 translate french d19s04dd_plushie_884a5e04:
 
     # mc "What's your favorite number?"
-    mc "Quel est ton numéro préféré ?"
+    mc "Quel est ton numéro préféré?"
 
 # game/code/d19/d19s04dd.rpy:612
 translate french d19s04dd_plushie_f44034aa:
@@ -704,7 +704,7 @@ translate french d19s04dd_plushie_641e7ce0:
 translate french d19s04dd_plushie_5ec5257a:
 
     # dd "Thanks!"
-    dd "Merci !"
+    dd "Merci!"
 
 # game/code/d19/d19s04dd.rpy:622
 translate french d19s04dd_plushie_41fba244:
@@ -722,7 +722,7 @@ translate french d19s04dd_plushie_624056b0:
 translate french d19s04dd_plushie_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh ?"
+    mc "Oh?"
 
 # game/code/d19/d19s04dd.rpy:631
 translate french d19s04dd_plushie_2fdd4349:
@@ -734,7 +734,7 @@ translate french d19s04dd_plushie_2fdd4349:
 translate french d19s04dd_plushie_07111ef7:
 
     # mc "You mean that each one could trigger a fatal heart attack given your condition?"
-    mc "Tu veux dire que chacun pourrait déclencher une crise cardiaque mortelle étant donné ton état ?"
+    mc "Tu veux dire que chacun pourrait déclencher une crise cardiaque mortelle étant donné ton état?"
 
 # game/code/d19/d19s04dd.rpy:637
 translate french d19s04dd_plushie_2a12181a:
@@ -758,7 +758,7 @@ translate french d19s04dd_plushie_8743e204:
 translate french d19s04dd_plushie_a4fcb7ef:
 
     # mc "Oh!"
-    mc "Oh !"
+    mc "Oh!"
 
 # game/code/d19/d19s04dd.rpy:649
 translate french d19s04dd_plushie_f3d9db4f:
@@ -800,7 +800,7 @@ translate french d19s04dd_plushie_e629b25c:
 translate french d19s04dd_plushie_83589493:
 
     # mc "Good to know, but...?"
-    mc "C'est bon à savoir, mais... ?"
+    mc "C'est bon à savoir, mais...?"
 
 # game/code/d19/d19s04dd.rpy:669
 translate french d19s04dd_plushie_5b5338b3:
@@ -818,7 +818,7 @@ translate french d19s04dd_plushie_4eeb52a6:
 translate french d19s04dd_plushie_bb809d59:
 
     # dd "But... ya'know?"
-    dd "Mais... tu sais ?"
+    dd "Mais... tu sais?"
 
 # game/code/d19/d19s04dd.rpy:674
 translate french d19s04dd_plushie_652650d3:
@@ -836,7 +836,7 @@ translate french d19s04dd_plushie_51967b0c:
 translate french d19s04dd_plushie_8594c29f:
 
     # dd "Maybe, just maybe...{w} I could be selfish about this?"
-    dd "Peut-être, juste peut-être...{w} Je pourrais être égoïste à ce sujet ?"
+    dd "Peut-être, juste peut-être...{w} Je pourrais être égoïste à ce sujet?"
 
 # game/code/d19/d19s04dd.rpy:681
 translate french d19s04dd_plushie_5b87c1e3:
@@ -866,7 +866,7 @@ translate french d19s04dd_plushie_0cd36633:
 translate french d19s04dd_plushie_bf3d2628:
 
     # dd "What are you worrying about?"
-    dd "De quoi t'inquiètes-tu ?"
+    dd "De quoi t'inquiètes-tu?"
 
 # game/code/d19/d19s04dd.rpy:692
 translate french d19s04dd_plushie_0689a0fa:
@@ -895,8 +895,8 @@ translate french d19s04dd_plushie_75d5a80a:
 # game/code/d19/d19s04dd.rpy:704
 translate french d19s04dd_plushie_cf7d347c:
 
-    # mc "It's NOT that.{w} It's definitely not that.{w} I just don't know how to say « Yes » to this."
-    mc "Ce n'est PAS ça.{w} Ce n'est certainement pas ça.{w} Je ne sais tout simplement pas comment dire « Oui » à ça."
+    # mc "It's NOT that.{w} It's definitely not that.{w} I just don't know how to say "Yes\" to this."
+    mc "Ce n'est PAS ça.{w} Ce n'est certainement pas ça.{w} Je ne sais tout simplement pas comment dire \"Oui\" à ça."
 
 # game/code/d19/d19s04dd.rpy:707
 translate french d19s04dd_plushie_3bd7aa13:
@@ -944,19 +944,19 @@ translate french d19s04dd_plushie_f6051e7e:
 translate french d19s04dd_plushie_f8ce1c74:
 
     # dw "But how many businesses?"
-    dw "Mais de combien d'entreprises ?"
+    dw "Mais de combien d'entreprises?"
 
 # game/code/d19/d19s04dd.rpy:734
 translate french d19s04dd_plushie_85f81af2:
 
     # dd "Can we not talk about this right now? I'm trying to talk to [mcname]."
-    dd "On ne peut pas en parler maintenant ?  J'essaie de parler à [mcname]."
+    dd "On ne peut pas en parler maintenant?  J'essaie de parler à [mcname]."
 
 # game/code/d19/d19s04dd.rpy:737
 translate french d19s04dd_plushie_c8561570:
 
     # dw "He's a business management major, right?"
-    dw "Il étudie en gestion d'entreprise, non ?"
+    dw "Il étudie en gestion d'entreprise, non?"
 
 # game/code/d19/d19s04dd.rpy:739
 translate french d19s04dd_plushie_bf0e4d79:
@@ -986,13 +986,13 @@ translate french d19s04dd_plushie_51e9ae99:
 translate french d19s04dd_plushie_141cd573:
 
     # dd "Is that it? Are those the responsibilities and priorities you're talking about? Or is it someone or something else?"
-    dd "C'est ça ? S'agit-il de responsabilités et de priorités dont tu parles ? Ou est-ce quelqu'un ou quelque chose d'autre ?"
+    dd "C'est ça? S'agit-il de responsabilités et de priorités dont tu parles? Ou est-ce quelqu'un ou quelque chose d'autre?"
 
 # game/code/d19/d19s04dd.rpy:754
 translate french d19s04dd_plushie_2497d141:
 
     # mct "Fuck. How did I get here?"
-    mct "Putain. Comment suis-je arrivé ici ?"
+    mct "Putain. Comment suis-je arrivé ici?"
 
 # game/code/d19/d19s04dd.rpy:755
 translate french d19s04dd_plushie_abcff41f:
@@ -1010,7 +1010,7 @@ translate french d19s04dd_plushie_276f416d:
 translate french d19s04dd_plushie_d6697051:
 
     # mct "What the fuck am I going to do?"
-    mct "Qu'est-ce que je vais faire, bordel ?"
+    mct "Qu'est-ce que je vais faire, bordel?"
 
 # game/code/d19/d19s04dd.rpy:768
 translate french d19s04dd_plushie_3d4c735e:
@@ -1046,7 +1046,7 @@ translate french d19s04dd_plushie_198985af:
 translate french d19s04dd_plushie_62ae0283:
 
     # dd "Sounds reasonable. We can still be friends and lovers?"
-    dd "Ça semble raisonnable. On peut toujours être amis et amants ?"
+    dd "Ça semble raisonnable. On peut toujours être amis et amants?"
 
 # game/code/d19/d19s04dd.rpy:791
 translate french d19s04dd_plushie_1af397e9:
@@ -1106,7 +1106,7 @@ translate french strings:
 
     # game/code/d19/d19s04dd.rpy:518
     old "What's a Corner bet?"
-    new "C'est quoi un pari sur corner ?"
+    new "C'est quoi un pari sur corner?"
 
     # game/code/d19/d19s04dd.rpy:518
     old "Single Number"
@@ -1119,3 +1119,4 @@ translate french strings:
     # game/code/d19/d19s04dd.rpy:761
     old "I need time to think"
     new "J'ai besoin de temps pour réfléchir"
+

@@ -20,7 +20,7 @@ translate french d19s06mes_06a8c05a:
 translate french d19s06mes_def0ad19:
 
     # mc "What is it?"
-    mc "Qu'est-ce qu'il y a ?"
+    mc "Qu'est-ce qu'il y a?"
 
 # game/code/d19/d19s06mes.rpy:60
 translate french d19s06mes_2cf33212:
@@ -32,7 +32,7 @@ translate french d19s06mes_2cf33212:
 translate french d19s06mes_22ca8c4c:
 
     # mes "Tah-dah!!"
-    mes "Tah-dah !!"
+    mes "Tah-dah!!"
 
 # game/code/d19/d19s06mes.rpy:71
 translate french d19s06mes_71411d9b:
@@ -44,13 +44,13 @@ translate french d19s06mes_71411d9b:
 translate french d19s06mes_4c5d7d5d:
 
     # cl "OMG!{w} Is he... your assistant?"
-    cl "OMG!{w} C'est... ton assistant ?"
+    cl "OMG!{w} C'est... ton assistant?"
 
 # game/code/d19/d19s06mes.rpy:77
 translate french d19s06mes_9ea11347:
 
     # mct "Holy crap! What is going on here?!"
-    mct "Putain de merde ! Qu'est-ce qui se passe ici?!"
+    mct "Putain de merde! Qu'est-ce qui se passe ici?!"
 
 # game/code/d19/d19s06mes.rpy:79
 translate french d19s06mes_9070d188:
@@ -68,7 +68,7 @@ translate french d19s06mes_af291669:
 translate french d19s06mes_38a8a437:
 
     # mc "I have no idea what is going on here{w}, but I love it!"
-    mc "Je n'ai aucune idée de ce qui se passe ici{w}, mais j'adore ça !"
+    mc "Je n'ai aucune idée de ce qui se passe ici{w}, mais j'adore ça!"
 
 # game/code/d19/d19s06mes.rpy:88
 translate french d19s06mes_a15870b0:
@@ -98,7 +98,7 @@ translate french d19s06mes_054c5ee0:
 translate french d19s06mes_04e1db3e:
 
     # mes "Cynthia, why don't you tell [mcname] why you are here?"
-    mes "Cynthia, pourquoi tu ne dis pas à [mcname] pourquoi tu es ici ?"
+    mes "Cynthia, pourquoi tu ne dis pas à [mcname] pourquoi tu es ici?"
 
 # game/code/d19/d19s06mes.rpy:103
 translate french d19s06mes_ccee4743:
@@ -110,7 +110,7 @@ translate french d19s06mes_ccee4743:
 translate french d19s06mes_86d749d9:
 
     # mes "What else?"
-    mes "Quoi d'autre ?"
+    mes "Quoi d'autre?"
 
 # game/code/d19/d19s06mes.rpy:109
 translate french d19s06mes_50171a3d:
@@ -146,7 +146,7 @@ translate french d19s06mes_97fca8c8:
 translate french d19s06mes_7c14538b:
 
     # mes "Help me punish her, of course!"
-    mes "Aide-moi à la punir !"
+    mes "Aide-moi à la punir!"
 
 # game/code/d19/d19s06mes.rpy:125
 translate french d19s06mes_f118e3a1:
@@ -188,7 +188,7 @@ translate french d19s06mes_4fd9ccbb:
 translate french d19s06mes_539b9c87:
 
     # mes "YES! Within reason, of course."
-    mes "OUI ! Dans la limite du raisonnable, bien sûr."
+    mes "OUI! Dans la limite du raisonnable, bien sûr."
 
 # game/code/d19/d19s06mes.rpy:146
 translate french d19s06mes_593297b2:
@@ -260,7 +260,7 @@ translate french d19s06mes_26c5a85f:
 translate french d19s06mes_1a83e56d:
 
     # cl "mmumph?!"
-    cl "Mmmph ?!"
+    cl "Mmmph?!"
 
 # game/code/d19/d19s06mes.rpy:187
 translate french d19s06mes_22c5f1ee:
@@ -314,7 +314,7 @@ translate french d19s06mes_34ae6784:
 translate french d19s06mes_f2688c00:
 
     # mes "Alright, how do you want her? Face down or face up?"
-    mes "Très bien, comment tu la veux ? Face cachée ou face visible ?"
+    mes "Très bien, comment tu la veux? Face cachée ou face visible?"
 
 # game/code/d19/d19s06mes.rpy:214
 translate french d19s06mes_aed8af03:
@@ -332,7 +332,7 @@ translate french d19s06mes_85da8581:
 translate french d19s06mes_0603ef8a:
 
     # mc "How do you want to split this up? Should we take turns or-"
-    mc "Comment veux-tu partager ça ? Devrions-nous nous relayer ou..."
+    mc "Comment veux-tu partager ça? Devrions-nous nous relayer ou..."
 
 # game/code/d19/d19s06mes.rpy:247
 translate french d19s06mes_aecbbbc5:
@@ -350,7 +350,7 @@ translate french d19s06mes_74c498aa:
 translate french d19s06mes_b0d5138d:
 
     # mc "You're sure she's okay with this?"
-    mc "Tu es sûr qu'elle est d'accord avec ça ?"
+    mc "Tu es sûr qu'elle est d'accord avec ça?"
 
 # game/code/d19/d19s06mes.rpy:260
 translate french d19s06mes_cbdba660:
@@ -362,19 +362,19 @@ translate french d19s06mes_cbdba660:
 translate french d19s06mes_58847aef:
 
     # mc "You know what she would really love?"
-    mc "Tu sais ce qu'elle aimerait vraiment ?"
+    mc "Tu sais ce qu'elle aimerait vraiment?"
 
 # game/code/d19/d19s06mes.rpy:266
 translate french d19s06mes_c5ae3361:
 
     # mes "Not really, but if I had to guess... Figging?"
-    mes "Pas vraiment, mais si je devais deviner... fourrer son cul ?"
+    mes "Pas vraiment, mais si je devais deviner... fourrer son cul?"
 
 # game/code/d19/d19s06mes.rpy:269
 translate french d19s06mes_e65504cb:
 
     # mc "Do you mean just anal sex...{w} or with an actual ginger root?"
-    mc "Tu veux dire juste du sexe anal...{w} ou ... ?"
+    mc "Tu veux dire juste du sexe anal...{w} ou ...?"
 
 # game/code/d19/d19s06mes.rpy:273
 translate french d19s06mes_96a5cbca:
@@ -416,7 +416,7 @@ translate french d19s06mes_fb8b071c:
 translate french d19s06mes_9c997e74:
 
     # mes "Why did you ask?"
-    mes "Pourquoi tu as demandé ?"
+    mes "Pourquoi tu as demandé?"
 
 # game/code/d19/d19s06mes.rpy:294
 translate french d19s06mes_d66f1796:
@@ -434,7 +434,7 @@ translate french d19s06mes_53fab00c:
 translate french d19s06mes_c1182441:
 
     # mes "Wow! That definitely got a reaction."
-    mes "Wow ! Ça a certainement suscité une réaction."
+    mes "Wow! Ça a certainement suscité une réaction."
 
 # game/code/d19/d19s06mes.rpy:330
 translate french d19s06mes_54cc0264:
@@ -452,7 +452,7 @@ translate french d19s06mes_b8f6841e:
 translate french d19s06mes_98d3d6d6:
 
     # mc "Interesting.{w} How's her tits going?"
-    mc "Intéressant.{w} Comment vont ses seins ?"
+    mc "Intéressant.{w} Comment vont ses seins?"
 
 # game/code/d19/d19s06mes.rpy:343
 translate french d19s06mes_c25222da:
@@ -464,7 +464,7 @@ translate french d19s06mes_c25222da:
 translate french d19s06mes_b1486be5:
 
     # mc "Say Squizzle, could you fetch me a couple of ice cubes?"
-    mc "Dis Squizzle, tu pourrais m'apporter quelques glaçons ?"
+    mc "Dis Squizzle, tu pourrais m'apporter quelques glaçons?"
 
 # game/code/d19/d19s06mes.rpy:349
 translate french d19s06mes_4dbc8d57:
@@ -482,7 +482,7 @@ translate french d19s06mes_cdfecc54:
 translate french d19s06mes_f9707f5d:
 
     # mc "Min, would you kindly get me a couple of ice cubes, please?"
-    mc "Min, pourrais-tu m'apporter quelques glaçons, s'il te plaît ?"
+    mc "Min, pourrais-tu m'apporter quelques glaçons, s'il te plaît?"
 
 # game/code/d19/d19s06mes.rpy:356
 translate french d19s06mes_0a3b9ad3:
@@ -506,7 +506,7 @@ translate french d19s06mes_eab9a961:
 translate french d19s06mes_769407cc:
 
     # mc "Is that okay with you?"
-    mc "Est-ce que ça te va ?"
+    mc "Est-ce que ça te va?"
 
 # game/code/d19/d19s06mes.rpy:371
 translate french d19s06mes_82b0fa7f:
@@ -524,7 +524,7 @@ translate french d19s06mes_0d5902a1:
 translate french d19s06mes_1f1dcbb5:
 
     # mes "Here you are, [mcname]. Do you mind if I ride her face for a bit?"
-    mes "Voilà, [mcname]. Ça te dérange si je chevauche son visage ?"
+    mes "Voilà, [mcname]. Ça te dérange si je chevauche son visage?"
 
 # game/code/d19/d19s06mes.rpy:379
 translate french d19s06mes_388bf019:
@@ -566,7 +566,7 @@ translate french d19s06mes_6e03bfb6:
 translate french d19s06mes_5ac6c9a6:
 
     # mes "What are you doing back there?"
-    mes "Qu'est-ce que tu va faire ?"
+    mes "Qu'est-ce que tu va faire?"
 
 # game/code/d19/d19s06mes.rpy:422
 translate french d19s06mes_113ffcae:
@@ -578,7 +578,7 @@ translate french d19s06mes_113ffcae:
 translate french d19s06mes_a0f6c762:
 
     # mes "Like Bull Riding?"
-    mes "Comme Bull Riding ?"
+    mes "Comme Bull Riding?"
 
 # game/code/d19/d19s06mes.rpy:428
 translate french d19s06mes_f36e5aec:
@@ -590,55 +590,55 @@ translate french d19s06mes_f36e5aec:
 translate french d19s06mes_5856b83f:
 
     # mes "Woah! That got her going!!"
-    mes "Woah ! Ça l'a fait démarrer !!"
+    mes "Woah! Ça l'a fait démarrer!!"
 
 # game/code/d19/d19s06mes.rpy:458
 translate french d19s06mes_5c2c1ce5:
 
     # mc "Woo hoo!"
-    mc "Woo hoo !"
+    mc "Woo hoo!"
 
 # game/code/d19/d19s06mes.rpy:461
 translate french d19s06mes_e4ce173b:
 
     # mes "Fuck yes!!"
-    mes "Putain oui !!"
+    mes "Putain oui!!"
 
 # game/code/d19/d19s06mes.rpy:484
 translate french d19s06mes_ea92d3e8:
 
     # mes "FUCK YES!!!!!!"
-    mes "PUTAIN OUI !!!!!"
+    mes "PUTAIN OUI!!!!!"
 
 # game/code/d19/d19s06mes.rpy:487
 translate french d19s06mes_f5d586f7:
 
     # mc "Right Behind You!!!"
-    mc "Juste derrière toi !!!"
+    mc "Juste derrière toi!!!"
 
 # game/code/d19/d19s06mes.rpy:492
 translate french d19s06mes_6a471aa2:
 
     # mc "OOoooo FUCK!!!"
-    mc "OOooooh PUTAIN !!!"
+    mc "OOooooh PUTAIN!!!"
 
 # game/code/d19/d19s06mes.rpy:495
 translate french d19s06mes_7acf0f8d:
 
     # mes "Oooph!"
-    mes "Oooph !"
+    mes "Oooph!"
 
 # game/code/d19/d19s06mes.rpy:502
 translate french d19s06mes_571148e9:
 
     # mes "I'm okay! I'm okay!"
-    mes "Je vais bien ! Je vais bien!"
+    mes "Je vais bien! Je vais bien!"
 
 # game/code/d19/d19s06mes.rpy:505
 translate french d19s06mes_cfce055e:
 
     # mc "Are you sure?"
-    mc "Tu es sûr ?"
+    mc "Tu es sûr?"
 
 # game/code/d19/d19s06mes.rpy:508
 translate french d19s06mes_05278f13:
@@ -668,7 +668,7 @@ translate french d19s06mes_82d83e05:
 translate french d19s06mes_95c7633a:
 
     # mc "Are you okay?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/d19/d19s06mes.rpy:525
 translate french d19s06mes_2e7e5990:
@@ -704,7 +704,7 @@ translate french d19s06mes_77936dd0:
 translate french d19s06mes_3a745d95:
 
     # cl "What's that?"
-    cl "Quoi donc ?"
+    cl "Quoi donc?"
 
 # game/code/d19/d19s06mes.rpy:543
 translate french d19s06mes_3a1b171d:
@@ -752,7 +752,7 @@ translate french d19s06mes_ff178bcf:
 translate french d19s06mes_eaf7e778:
 
     # cl "Min... er, Mistress Min... er, whatever?"
-    cl "Min... euh, Maîtresse Min... euh, peu importe ?"
+    cl "Min... euh, Maîtresse Min... euh, peu importe?"
 
 # game/code/d19/d19s06mes.rpy:570
 translate french d19s06mes_d78cfcf5:
@@ -764,13 +764,13 @@ translate french d19s06mes_d78cfcf5:
 translate french d19s06mes_ac4b462a:
 
     # cl "Sure. Can I ask you a question?"
-    cl "D'accord. Je peux te poser une question ?"
+    cl "D'accord. Je peux te poser une question?"
 
 # game/code/d19/d19s06mes.rpy:577
 translate french d19s06mes_4678270c:
 
     # mes "Of course. What's up?"
-    mes "Bien sûr. Quoi ?"
+    mes "Bien sûr. Quoi?"
 
 # game/code/d19/d19s06mes.rpy:580
 translate french d19s06mes_0ca251ca:
@@ -782,7 +782,7 @@ translate french d19s06mes_0ca251ca:
 translate french d19s06mes_648f4985:
 
     # mes "If I had pee in my mouth?"
-    mes "Si j'avais de la pisse dans la bouche ?"
+    mes "Si j'avais de la pisse dans la bouche?"
 
 # game/code/d19/d19s06mes.rpy:586
 translate french d19s06mes_fffba1a8:
@@ -800,7 +800,7 @@ translate french d19s06mes_19bfe504:
 translate french d19s06mes_45055120:
 
     # cl "Huh? I'm confused."
-    cl "Huh ? Je suis confuse."
+    cl "Huh? Je suis confuse."
 
 # game/code/d19/d19s06mes.rpy:595
 translate french d19s06mes_1cb3e4d9:
@@ -818,13 +818,13 @@ translate french d19s06mes_a0586c16:
 translate french d19s06mes_8adb33ce:
 
     # cl "You were...{w} training her?"
-    cl "Tu étais...{w} Tu l'entraînais ?"
+    cl "Tu étais...{w} Tu l'entraînais?"
 
 # game/code/d19/d19s06mes.rpy:603
 translate french d19s06mes_21e010db:
 
     # mc "Yes. She's competitive, ya'know?"
-    mc "Oui. Elle est compétitive, tu sais ?"
+    mc "Oui. Elle est compétitive, tu sais?"
 
 # game/code/d19/d19s06mes.rpy:606
 translate french d19s06mes_d385bd31:
@@ -854,7 +854,7 @@ translate french d19s06mes_a5517efc:
 translate french d19s06mes_ed8199ec:
 
     # mes "I don't really remember the details. But, he agreed to help my get over my, uh...{w} urine phobia?"
-    mes "Je ne me souviens pas vraiment des détails. Mais il a accepté de m'aider à surmonter ma, euh...{w} phobie urinaire ?"
+    mes "Je ne me souviens pas vraiment des détails. Mais il a accepté de m'aider à surmonter ma, euh...{w} phobie urinaire?"
 
 # game/code/d19/d19s06mes.rpy:621
 translate french d19s06mes_ce6a6cf7:
@@ -890,13 +890,13 @@ translate french d19s06mes_9a01829f:
 translate french d19s06mes_2a950de3:
 
     # mes "Would you like to try?"
-    mes "Tu veux essayer ?"
+    mes "Tu veux essayer?"
 
 # game/code/d19/d19s06mes.rpy:639
 translate french d19s06mes_392cf699:
 
     # cl "You mean, as a punishment? For you to further humiliate me by pissing in my face."
-    cl "Tu veux dire, comme punition ?  Pour que tu m'humilies encore davantage en me pissant au visage."
+    cl "Tu veux dire, comme punition?  Pour que tu m'humilies encore davantage en me pissant au visage."
 
 # game/code/d19/d19s06mes.rpy:642
 translate french d19s06mes_a3579988:
@@ -944,13 +944,13 @@ translate french d19s06mes_125dbf35:
 translate french d19s06mes_715cbde0:
 
     # cl "Can you please do it as a humiliation? I think I could get off on that."
-    cl "Tu peux le faire comme une humiliation s'il te plaît ? Je pense que je pourrais m'en sortir."
+    cl "Tu peux le faire comme une humiliation s'il te plaît? Je pense que je pourrais m'en sortir."
 
 # game/code/d19/d19s06mes.rpy:666
 translate french d19s06mes_05500ff6:
 
     # mc "Huh?"
-    mc "Hein ?"
+    mc "Hein?"
 
 # game/code/d19/d19s06mes.rpy:669
 translate french d19s06mes_87b512f4:
@@ -986,7 +986,7 @@ translate french d19s06mes_9fd0118e:
 translate french d19s06mes_cc0ea599:
 
     # cl "Yes, ma'am!"
-    cl "Oui, madame !"
+    cl "Oui, madame!"
 
 # game/code/d19/d19s06mes.rpy:688
 translate french d19s06mes_e26b033f:
@@ -998,19 +998,19 @@ translate french d19s06mes_e26b033f:
 translate french d19s06mes_a19ae317:
 
     # cl "It's going to pee on me. How is that magnificent?"
-    cl "il va me pisser dessus. En quoi c'est magnifique ?"
+    cl "il va me pisser dessus. En quoi c'est magnifique?"
 
 # game/code/d19/d19s06mes.rpy:694
 translate french d19s06mes_a6c1de56:
 
     # mes "He's not just going to pee on you. Open your mouth wide, now!"
-    mes "Il ne va pas seulement te faire pipi dessus. Ouvre grand la bouche, maintenant !"
+    mes "Il ne va pas seulement te faire pipi dessus. Ouvre grand la bouche, maintenant!"
 
 # game/code/d19/d19s06mes.rpy:707
 translate french d19s06mes_6c4c9566:
 
     # cl "OMG! You're really doing it!"
-    cl "OMG ! Vous le faites vraiment !"
+    cl "OMG! Vous le faites vraiment!"
 
 # game/code/d19/d19s06mes.rpy:711
 translate french d19s06mes_0cf7857b:
@@ -1022,25 +1022,25 @@ translate french d19s06mes_0cf7857b:
 translate french d19s06mes_2f758ea1:
 
     # cl "Okay!"
-    cl "D'accord !"
+    cl "D'accord!"
 
 # game/code/d19/d19s06mes.rpy:720
 translate french d19s06mes_d9994a44:
 
     # cl "I'm ready!!!"
-    cl "Je suis prête !!!"
+    cl "Je suis prête!!!"
 
 # game/code/d19/d19s06mes.rpy:726
 translate french d19s06mes_940c05aa:
 
     # cl "GAAHAHHHAHAHHAAH!!!"
-    cl "GAAHAHHHAHAHHAAH !!!"
+    cl "GAAHAHHHAHAHHAAH!!!"
 
 # game/code/d19/d19s06mes.rpy:731
 translate french d19s06mes_17d6b412:
 
     # mes "Doesn't that feel and taste amazing?!"
-    mes "Est-ce que ça n'est pas délicieux et n'a pas un goût incroyable ?!"
+    mes "Est-ce que ça n'est pas délicieux et n'a pas un goût incroyable?!"
 
 # game/code/d19/d19s06mes.rpy:737
 translate french d19s06mes_184863f1:
@@ -1064,7 +1064,7 @@ translate french d19s06mes_3c17e561:
 translate french d19s06mes_d7eaf603:
 
     # mes "Don't forget about me!"
-    mes "Ne m'oublie pas !"
+    mes "Ne m'oublie pas!"
 
 # game/code/d19/d19s06mes.rpy:759
 translate french d19s06mes_6edb2059:
@@ -1076,7 +1076,7 @@ translate french d19s06mes_6edb2059:
 translate french d19s06mes_246614a6:
 
     # mc "You enjoy it?"
-    mc "Ça te plaît ?"
+    mc "Ça te plaît?"
 
 # game/code/d19/d19s06mes.rpy:766
 translate french d19s06mes_5a911799:
@@ -1088,19 +1088,19 @@ translate french d19s06mes_5a911799:
 translate french d19s06mes_95c2a186:
 
     # cl "I want it all over my face!"
-    cl "J'en veux sur tout mon visage !"
+    cl "J'en veux sur tout mon visage!"
 
 # game/code/d19/d19s06mes.rpy:774
 translate french d19s06mes_7cc091b5:
 
     # cl "FUCK YES!{w} HUMILIATE ME LIKE THE DIRTY PISS WHORE I AM!!"
-    cl "PUTAIN OUI!{w} HUMILIE-MOI COMME LA SALE PUTAIN PLEINE DE PISSE QUE JE SUIS !!"
+    cl "PUTAIN OUI!{w} HUMILIE-MOI COMME LA SALE PUTAIN PLEINE DE PISSE QUE JE SUIS!!"
 
 # game/code/d19/d19s06mes.rpy:777
 translate french d19s06mes_01cd45f9:
 
     # cl "NEXT TIME YOU NEED TO FILM THIS!!!"
-    cl "LA PROCHAINE FOIS TU DEVRAIS FILMER CA !!!"
+    cl "LA PROCHAINE FOIS TU DEVRAIS FILMER CA!!!"
 
 # game/code/d19/d19s06mes.rpy:786
 translate french d19s06mes_ddd58070:
@@ -1112,19 +1112,19 @@ translate french d19s06mes_ddd58070:
 translate french d19s06mes_c2689159:
 
     # cl "What do you mean?"
-    cl "Qu'est-ce que tu veux dire ?"
+    cl "Qu'est-ce que tu veux dire?"
 
 # game/code/d19/d19s06mes.rpy:792
 translate french d19s06mes_827309be:
 
     # mes "You know how I always carry a water bottle?"
-    mes "Tu sais que je porte toujours une bouteille d'eau ?"
+    mes "Tu sais que je porte toujours une bouteille d'eau?"
 
 # game/code/d19/d19s06mes.rpy:795
 translate french d19s06mes_f6a5e098:
 
     # cl "No.{w}.. really?"
-    cl "Non.{w}.. Vraiment ?"
+    cl "Non.{w}.. Vraiment?"
 
 # game/code/d19/d19s06mes.rpy:803
 translate french d19s06mes_e37d31e8:
@@ -1148,4 +1148,5 @@ translate french strings:
 
     # game/code/d19/d19s06mes.rpy:220
     old "Do you want to see watersports?"
-    new "Tu veux voir des sports nautiques ?"
+    new "Tu veux voir des sports nautiques?"
+

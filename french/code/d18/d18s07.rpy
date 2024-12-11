@@ -8,19 +8,19 @@ translate french d18s07_3f8d37de:
 translate french d18s07_284a9c53:
 
     # zw "Mr. Turner!"
-    zw "M. Turner !"
+    zw "M. Turner!"
 
 # game/code/d18/d18s07.rpy:16
 translate french d18s07_e60d061d:
 
     # zw "You better not be doing what I think you're doing inside there!"
-    zw "Vous feriez mieux de ne pas faire ce que je pense que vous faites là-dedans !"
+    zw "Vous feriez mieux de ne pas faire ce que je pense que vous faites là-dedans!"
 
 # game/code/d18/d18s07.rpy:20
 translate french d18s07_9bf063fb:
 
     # zw "Open this door {i}right now{/i}, young man!"
-    zw "Ouvrez cette porte {i}tout de suite{/i}, jeune homme !"
+    zw "Ouvrez cette porte {i}tout de suite{/i}, jeune homme!"
 
 # game/code/d18/d18s07.rpy:27
 translate french d18s07_9f31b11d:
@@ -74,7 +74,7 @@ translate french d18s07_3c182b6c:
 translate french d18s07_72a48ead:
 
     # arj "So what are we doing? One of us has to go talk with her."
-    arj "Alors qu'est-ce qu'on fait ? L'un de nous doit aller lui parler."
+    arj "Alors qu'est-ce qu'on fait? L'un de nous doit aller lui parler."
 
 # game/code/d18/d18s07.rpy:59
 translate french d18s07_d083e74d:
@@ -92,7 +92,7 @@ translate french d18s07_fd659fe9:
 translate french d18s07_1d5fcd4e:
 
     # mc "Stacy! What are you—!?"
-    mc "Stacy ! Qu'est-ce que tu-!?"
+    mc "Stacy! Qu'est-ce que tu-!?"
 
 # game/code/d18/d18s07.rpy:79
 translate french d18s07_37e00938:
@@ -104,13 +104,13 @@ translate french d18s07_37e00938:
 translate french d18s07_a0ab4bfd:
 
     # sy "Hi! You're Ms. Zarah Waller, I assume?"
-    sy "Salut ! Vous êtes Mme Zarah Waller, je suppose ?"
+    sy "Salut! Vous êtes Mme Zarah Waller, je suppose?"
 
 # game/code/d18/d18s07.rpy:85
 translate french d18s07_350f4fdb:
 
     # zw "Missus. And yes.{w} Who are you?"
-    zw "Madame. Et oui.{w} Qui êtes-vous ?"
+    zw "Madame. Et oui.{w} Qui êtes-vous?"
 
 # game/code/d18/d18s07.rpy:88
 translate french d18s07_98237dd5:
@@ -140,19 +140,19 @@ translate french d18s07_1a27b75f:
 translate french d18s07_284a9c53_1:
 
     # zw "Mr. Turner!"
-    zw "M. Turner !"
+    zw "M. Turner!"
 
 # game/code/d18/d18s07.rpy:111
 translate french d18s07_e1d174e3:
 
     # sy "Kids, am I right?"
-    sy "Ah les enfants, j'ai raison ?"
+    sy "Ah les enfants, j'ai raison?"
 
 # game/code/d18/d18s07.rpy:114
 translate french d18s07_c5806338:
 
     # zw "I'm sorry, how old are you again?"
-    zw "Je suis désolée, quel âge avez-vous ?"
+    zw "Je suis désolée, quel âge avez-vous?"
 
 # game/code/d18/d18s07.rpy:119
 translate french d18s07_65a83174:
@@ -176,7 +176,7 @@ translate french d18s07_a7405f4f:
 translate french d18s07_568f7d6e:
 
     # sy "Anyway. Where was I? Ah, right."
-    sy "De toute façon. Où étais-je ? Ah, c'est vrai."
+    sy "De toute façon. Où étais-je? Ah, c'est vrai."
 
 # game/code/d18/d18s07.rpy:130
 translate french d18s07_7fa7ffef:
@@ -194,7 +194,7 @@ translate french d18s07_b5687eb9:
 translate french d18s07_d1b26a21:
 
     # zw "Oh. Well, yes. But why would you need access to the I.T. room?"
-    zw "Oh. Eh bien, oui. Mais pourquoi avez-vous besoin d'accéder a la salle des systèmes informatique ?"
+    zw "Oh. Eh bien, oui. Mais pourquoi avez-vous besoin d'accéder a la salle des systèmes informatique?"
 
 # game/code/d18/d18s07.rpy:137
 translate french d18s07_e19153a9:
@@ -224,7 +224,7 @@ translate french d18s07_40ad50ce:
 translate french d18s07_8cf14d91:
 
     # zw "Really? I always knew those prissy rich kids weren't all that."
-    zw "Vraiment ? J'ai toujours su que ces enfants riches et minables n'étaient pas que ça."
+    zw "Vraiment? J'ai toujours su que ces enfants riches et minables n'étaient pas que ça."
 
 # game/code/d18/d18s07.rpy:149
 translate french d18s07_c39009eb:
@@ -266,7 +266,7 @@ translate french d18s07_5dd47cca:
 translate french d18s07_22f67d27:
 
     # zw "I could go ask now if you'd like? She's probably in the teacher's lounge. She might be able to help with your digital fire ma—"
-    zw "Je pourrais aller demander maintenant si vous voulez ? Elle est probablement dans la salle des professeurs. Elle pourrait peut-être vous aider avec les vérifications..."
+    zw "Je pourrais aller demander maintenant si vous voulez? Elle est probablement dans la salle des professeurs. Elle pourrait peut-être vous aider avec les vérifications..."
 
 # game/code/d18/d18s07.rpy:169
 translate french d18s07_bbc1bbf6:
@@ -278,7 +278,7 @@ translate french d18s07_bbc1bbf6:
 translate french d18s07_b34b6b14:
 
     # arj "What's she saying?"
-    arj "Qu'est-ce qu'elle dit ?"
+    arj "Qu'est-ce qu'elle dit?"
 
 # game/code/d18/d18s07.rpy:177
 translate french d18s07_47f3ffd5:
@@ -296,7 +296,7 @@ translate french d18s07_f768cdb9:
 translate french d18s07_9761728b:
 
     # zw "Oh?"
-    zw "Oh ?"
+    zw "Oh?"
 
 # game/code/d18/d18s07.rpy:187
 translate french d18s07_c3731423:
@@ -309,3 +309,4 @@ translate french d18s07_7764a381:
 
     # mc "Alright. Let's go, she can clearly handle this."
     mc "Très bien. Allons-y, elle peut clairement gérer ça."
+

@@ -2,7 +2,7 @@
 translate french d18s02_f772c18d:
 
     # mc "Morning.{w} You two are already at it, huh?"
-    mc "Bonjour.{w} Vous y êtes déjà toutes les deux, hein ?"
+    mc "Bonjour.{w} Vous y êtes déjà toutes les deux, hein?"
 
 # game/code/d18/d18s02.rpy:36
 translate french d18s02_9a113174:
@@ -14,7 +14,7 @@ translate french d18s02_9a113174:
 translate french d18s02_e71eaad4:
 
     # mc "Did we get enough data?"
-    mc "Avons-nous obtenu suffisamment de données ?"
+    mc "Avons-nous obtenu suffisamment de données?"
 
 # game/code/d18/d18s02.rpy:43
 translate french d18s02_4e7fb1f1:
@@ -44,7 +44,7 @@ translate french d18s02_e1d12b48:
 translate french d18s02_82493c25:
 
     # mc "...That it? Two IPs?"
-    mc "...C'est ça ? Deux IP ?"
+    mc "...C'est ça? Deux IP?"
 
 # game/code/d18/d18s02.rpy:56
 translate french d18s02_dc33935d:
@@ -74,7 +74,7 @@ translate french d18s02_5b1450a1:
 translate french d18s02_29aca1d9:
 
     # mc "Don't tell me you recognize some random IPs?"
-    mc "Ne me dis pas que tu reconnais des adresses IP aléatoires ?"
+    mc "Ne me dis pas que tu reconnais des adresses IP aléatoires?"
 
 # game/code/d18/d18s02.rpy:70
 translate french d18s02_fbe6f203:
@@ -98,7 +98,7 @@ translate french d18s02_9cd8858a:
 translate french d18s02_70679fc7:
 
     # mc "...So the college is responsible? Or someone hired by the college?"
-    mc "...Alors le collège est responsable ? Ou quelqu'un embauché par le collège ?"
+    mc "...Alors le collège est responsable? Ou quelqu'un embauché par le collège?"
 
 # game/code/d18/d18s02.rpy:80
 translate french d18s02_37a8f88c:
@@ -128,7 +128,7 @@ translate french d18s02_3258d5d5:
 translate french d18s02_dafe1e87:
 
     # sy "But if Fetish Locator is pinging the college's network, then whatever server it's running off of must be located somewhere in the college!"
-    sy "Mais si Fetish Locator envoie une requête ping au réseau de l'université, alors le serveur sur lequel il fonctionne doit être situé quelque part dans l'université !"
+    sy "Mais si Fetish Locator envoie une requête ping au réseau de l'université, alors le serveur sur lequel il fonctionne doit être situé quelque part dans l'université!"
 
 # game/code/d18/d18s02.rpy:92
 translate french d18s02_d6c5604a:
@@ -140,7 +140,7 @@ translate french d18s02_d6c5604a:
 translate french d18s02_3710037d:
 
     # mc "Well?"
-    mc "Eh bien ?"
+    mc "Eh bien?"
 
 # game/code/d18/d18s02.rpy:98
 translate french d18s02_b0a22a04:
@@ -170,7 +170,7 @@ translate french d18s02_9642800e:
 translate french d18s02_d6a0fb1b:
 
     # sy "But we can find out! We just need to figure out where in the college this server is."
-    sy "Mais on peut le découvrir ! Nous devons juste trouver où se trouve ce serveur dans l'université."
+    sy "Mais on peut le découvrir! Nous devons juste trouver où se trouve ce serveur dans l'université."
 
 # game/code/d18/d18s02.rpy:112
 translate french d18s02_27fb52f5:
@@ -188,7 +188,7 @@ translate french d18s02_9b9843f5:
 translate french d18s02_619538f8:
 
     # sy "Which we then burn to the ground!"
-    sy "Qu'on brûle direct !"
+    sy "Qu'on brûle direct!"
 
 # game/code/d18/d18s02.rpy:121
 translate french d18s02_116ea92d:
@@ -200,19 +200,19 @@ translate french d18s02_116ea92d:
 translate french d18s02_9b64e2fd:
 
     # arj "Oh what's wrong with a little arson?"
-    arj "Oh, qu'est-ce qui ne va pas avec un petit incendie criminel ?"
+    arj "Oh, qu'est-ce qui ne va pas avec un petit incendie criminel?"
 
 # game/code/d18/d18s02.rpy:127
 translate french d18s02_9d3de21d:
 
     # mc "God, she has infected you as well, hasn't she?"
-    mc "Mon Dieu, elle t'a infecté aussi, n'est-ce pas ?"
+    mc "Mon Dieu, elle t'a infecté aussi, n'est-ce pas?"
 
 # game/code/d18/d18s02.rpy:131
 translate french d18s02_177d3eb2:
 
     # mc "What are you doing?"
-    mc "Qu'est-ce que tu fais ?"
+    mc "Qu'est-ce que tu fais?"
 
 # game/code/d18/d18s02.rpy:134
 translate french d18s02_581fc4d9:
@@ -224,13 +224,13 @@ translate french d18s02_581fc4d9:
 translate french d18s02_e9ccf81a:
 
     # arj "Shopping?"
-    arj "Tu fais du shopping ?"
+    arj "Tu fais du shopping?"
 
 # game/code/d18/d18s02.rpy:140
 translate french d18s02_17460497:
 
     # sy "We can't have a super spy mission without something special to wear!"
-    sy "On ne peut pas faire une super mission d'espionnage sans quelque chose de spécial à porter !"
+    sy "On ne peut pas faire une super mission d'espionnage sans quelque chose de spécial à porter!"
 
 # game/code/d18/d18s02.rpy:143
 translate french d18s02_dc582705:
@@ -254,7 +254,7 @@ translate french d18s02_67424877:
 translate french d18s02_85b77400:
 
     # arj "Are you going?"
-    arj "Tu y vas aussi ?"
+    arj "Tu y vas aussi?"
 
 # game/code/d18/d18s02.rpy:156
 translate french d18s02_90233835:
@@ -278,19 +278,19 @@ translate french d18s02_f461623c:
 translate french d18s02_75e9589c:
 
     # arj "Oh, and I'll tell Stacy to meet up after lunch as well!"
-    arj "Oh, et je dirai aussi à Stacy de te retrouver après le déjeuner !"
+    arj "Oh, et je dirai aussi à Stacy de te retrouver après le déjeuner!"
 
 # game/code/d18/d18s02.rpy:180
 translate french d18s02_7a40da96:
 
     # mc "Good luck with your finals!"
-    mc "Bonne chance pour tes examens !"
+    mc "Bonne chance pour tes examens!"
 
 # game/code/d18/d18s02.rpy:181
 translate french d18s02_78ddbaa1:
 
     # arj "Bye!"
-    arj "A plus !"
+    arj "A plus!"
 
 # game/code/d18/d18s02.rpy:184
 translate french d18s02_bfe3e635:
@@ -303,3 +303,4 @@ translate french strings:
     # game/code/d18/d18s02.rpy:22
     old "1 hour later\nAt Stacy's house"
     new "1 heure plus tard\nChez Stacy"
+

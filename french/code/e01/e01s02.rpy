@@ -295,8 +295,8 @@ translate french e01s02_420e1232:
 # game/code/e01/e01s02.rpy:145
 translate french e01s02_69cecba4:
 
-    # mc "And that would be... ?"
-    mc "And that would be... ?"
+    # mc "And that would be...?"
+    mc "And that would be...?"
 
 # game/code/e01/e01s02.rpy:148
 translate french e01s02_764b69bb:

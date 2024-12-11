@@ -20,7 +20,7 @@ translate french d15s03_76b13bf6:
 translate french d15s03_55d596d1:
 
     # mc "Seriously? Next thing you're going to tell me you've been spending all your free time studying."
-    mc "Sérieusement ? La prochaine fois que tu vas me dire que tu passes tout ton temps libre à étudier."
+    mc "Sérieusement? La prochaine fois que tu vas me dire que tu passes tout ton temps libre à étudier."
 
 # game/code/d15/d15s03.rpy:35
 translate french d15s03_4f86996d:
@@ -62,13 +62,13 @@ translate french d15s03_191559e1:
 translate french d15s03_hr_theft_f4fa6ad1:
 
     # pb "You haven't been messing with my stuff, have you?"
-    pb "Tu n'as pas touché à mes affaires, n'est-ce pas ?"
+    pb "Tu n'as pas touché à mes affaires, n'est-ce pas?"
 
 # game/code/d15/d15s03.rpy:65
 translate french d15s03_hr_theft_05d9bc7e:
 
     # mc "What? No. {w}Why do you ask?"
-    mc "Quoi ? Non. {w}Pourquoi demandez-vous ?"
+    mc "Quoi? Non. {w}Pourquoi demandez-vous?"
 
 # game/code/d15/d15s03.rpy:68
 translate french d15s03_hr_theft_8617eabb:
@@ -80,7 +80,7 @@ translate french d15s03_hr_theft_8617eabb:
 translate french d15s03_hr_theft_7f3761cd:
 
     # mc "Did somebody steal it?"
-    mc "Est-ce que quelqu'un l'a volé ?"
+    mc "Est-ce que quelqu'un l'a volé?"
 
 # game/code/d15/d15s03.rpy:74
 translate french d15s03_hr_theft_5fab2127:
@@ -92,7 +92,7 @@ translate french d15s03_hr_theft_5fab2127:
 translate french d15s03_hr_theft_38f37c10:
 
     # mc "Fuck. That sucks. {w}Maybe one of the guys is pranking you?"
-    mc "Putain. C'est nul. {w}Peut-être qu'un des gars te fait une blague ?"
+    mc "Putain. C'est nul. {w}Peut-être qu'un des gars te fait une blague?"
 
 # game/code/d15/d15s03.rpy:80
 translate french d15s03_hr_theft_fc318384:
@@ -109,19 +109,19 @@ translate french d15s03_hr_theft_c5e43ef3:
 translate french d15s03_hr_theft_968572af:
 
     # pb "Maybe. {w}Are you sure you didn't... ya'know?"
-    pb "Peut-être. {w}Es-tu sûr de ne pas l'avoir fait... tu sais ?"
+    pb "Peut-être. {w}Es-tu sûr de ne pas l'avoir fait... tu sais?"
 
 # game/code/d15/d15s03.rpy:87
 translate french d15s03_hr_theft_b20eb1fa:
 
     # mc "Fuck no! Would I do that to you?"
-    mc "Putain non ! Est-ce que je te ferais ça ?"
+    mc "Putain non! Est-ce que je te ferais ça?"
 
 # game/code/d15/d15s03.rpy:90
 translate french d15s03_hr_theft_1c036d0e:
 
     # pb "It's just the other day... maybe a week or two ago? You were jerking off at my desk?"
-    pb "C'était juste l'autre jour... il y a peut-être une semaine ou deux ? Tu te branlais à mon bureau ?"
+    pb "C'était juste l'autre jour... il y a peut-être une semaine ou deux? Tu te branlais à mon bureau?"
 
 # game/code/d15/d15s03.rpy:93
 translate french d15s03_hr_theft_c1720aaf:
@@ -133,7 +133,7 @@ translate french d15s03_hr_theft_c1720aaf:
 translate french d15s03_hr_theft_6a089c4d:
 
     # pb "If you accidentally broke my laptop doing something... I could see why you'd try to hide it, but I wouldn't be pissed at you, ya'know?"
-    pb "Si tu cassais accidentellement mon ordinateur portable en faisant quelque chose... Je pourrais comprendre pourquoi tu essaierais de le cacher, mais je ne serais pas en colère contre toi, tu sais ?"
+    pb "Si tu cassais accidentellement mon ordinateur portable en faisant quelque chose... Je pourrais comprendre pourquoi tu essaierais de le cacher, mais je ne serais pas en colère contre toi, tu sais?"
 
 # game/code/d15/d15s03.rpy:99
 translate french d15s03_hr_theft_f0a28c3c:
@@ -156,13 +156,13 @@ translate french d15s03_hr_theft_ef8ba214:
 translate french d15s03_hr_theft_d605adfd:
 
     # pb "Thanks. So, anyone you can think of that would have taken it?"
-    pb "Merci. Alors, quelqu'un à qui vous pensez l'aurait pris ?"
+    pb "Merci. Alors, quelqu'un à qui vous pensez l'aurait pris?"
 
 # game/code/d15/d15s03.rpy:110
 translate french d15s03_hr_theft_143f9b57:
 
     # mct "Would Hana have done that? Would she have told me if she did?"
-    mct "Est-ce qu'Hana aurait fait ça ? Me l'aurait-elle dit si elle l'avait fait ?"
+    mct "Est-ce qu'Hana aurait fait ça? Me l'aurait-elle dit si elle l'avait fait?"
 
 # game/code/d15/d15s03.rpy:112
 translate french d15s03_hr_theft_0c8bbe21:
@@ -186,7 +186,7 @@ translate french d15s03_hr_theft_8c19081f:
 translate french d15s03_hr_theft_0b85de73:
 
     # pb "Samiya? {w}Huh. She does know where our room is."
-    pb "Samiya ? {w}Hein. Elle sait où se trouve notre chambre."
+    pb "Samiya? {w}Hein. Elle sait où se trouve notre chambre."
 
 # game/code/d15/d15s03.rpy:124
 translate french d15s03_hr_theft_37ec66f3:
@@ -228,7 +228,7 @@ translate french d15s03_hr_theft_5c3ffda3:
 translate french d15s03_hr_theft_35ab8f09:
 
     # mc "How's that?"
-    mc "Comment ça va ?"
+    mc "Comment ça va?"
 
 # game/code/d15/d15s03.rpy:144
 translate french d15s03_hr_theft_1feb4308:
@@ -258,13 +258,13 @@ translate french d15s03_hr_theft_c271ca67:
 translate french d15s03_hr_theft_5d6b333c:
 
     # mc "Really? How did you get into that?"
-    mc "Vraiment ? Comment en es-tu arrivé là ?"
+    mc "Vraiment? Comment en es-tu arrivé là?"
 
 # game/code/d15/d15s03.rpy:157
 translate french d15s03_hr_theft_889de772:
 
     # pb "Have you ever tried Hot Yoga? There are so many positions."
-    pb "Avez-vous déjà essayé le Hot Yoga ? Il y a tellement de positions."
+    pb "Avez-vous déjà essayé le Hot Yoga? Il y a tellement de positions."
 
 # game/code/d15/d15s03.rpy:160
 translate french d15s03_hr_theft_1bccd003:
@@ -276,13 +276,13 @@ translate french d15s03_hr_theft_1bccd003:
 translate french d15s03_hr_theft_bcf6fbd6:
 
     # pb "Ha! You'd love it, dude. {w}I'm the only guy in class."
-    pb "Ha ! Tu adorerais ça, mec. {w}Je suis le seul gars de la classe."
+    pb "Ha! Tu adorerais ça, mec. {w}Je suis le seul gars de la classe."
 
 # game/code/d15/d15s03.rpy:173
 translate french d15s03_middle_7953baa3:
 
     # pb "What the fuck...? Again?!"
-    pb "C'est quoi ce bordel... ? Encore ?!"
+    pb "C'est quoi ce bordel...? Encore?!"
 
 # game/code/d15/d15s03.rpy:176
 translate french d15s03_middle_def0ad19:
@@ -324,7 +324,7 @@ translate french d15s03_middle_5d501e32:
 translate french d15s03_middle_60259738:
 
     # mc "What is it trying to get you to do?"
-    mc "Qu'est-ce que ça essaie de te faire faire ?"
+    mc "Qu'est-ce que ça essaie de te faire faire?"
 
 # game/code/d15/d15s03.rpy:195
 translate french d15s03_middle_d19d36be:
@@ -336,7 +336,7 @@ translate french d15s03_middle_d19d36be:
 translate french d15s03_middle_0e97394d:
 
     # mc "So, you're not doing it?"
-    mc "Alors tu ne le fais pas ?"
+    mc "Alors tu ne le fais pas?"
 
 # game/code/d15/d15s03.rpy:202
 translate french d15s03_middle_12879622:
@@ -354,19 +354,19 @@ translate french d15s03_middle_357dd479:
 translate french d15s03_middle_c0af544d:
 
     # mc "Woah! Yeah, I don't blame you, but..."
-    mc "Woah ! Ouais, je ne t'en veux pas, mais..."
+    mc "Woah! Ouais, je ne t'en veux pas, mais..."
 
 # game/code/d15/d15s03.rpy:210
 translate french d15s03_middle_329283d3:
 
     # pb "But what?"
-    pb "Mais quoi ?"
+    pb "Mais quoi?"
 
 # game/code/d15/d15s03.rpy:213
 translate french d15s03_middle_99811563:
 
     # mc "What happens if you don't... {w}er, what do you get for doing that stuff, if you did it?"
-    mc "Que se passe-t-il si vous ne le faites pas... {w} euh, qu'obtenez-vous en faisant ce genre de choses, si vous l'avez fait ?"
+    mc "Que se passe-t-il si vous ne le faites pas... {w} euh, qu'obtenez-vous en faisant ce genre de choses, si vous l'avez fait?"
 
 # game/code/d15/d15s03.rpy:215
 translate french d15s03_middle_38219b40:
@@ -408,13 +408,13 @@ translate french d15s03_middle_b85746b1:
 translate french d15s03_middle_65401d68:
 
     # pb "I, uh... {w} I heard some rumors through the grapevine. Any truth to them?"
-    pb "Je, euh... {w} J'ai entendu des rumeurs à travers la vigne. Y a-t-il du vrai pour eux ?"
+    pb "Je, euh... {w} J'ai entendu des rumeurs à travers la vigne. Y a-t-il du vrai pour eux?"
 
 # game/code/d15/d15s03.rpy:236
 translate french d15s03_middle_7f4c9957:
 
     # mc "I guess that depends on the rumors. What are people saying?"
-    mc "Je suppose que cela dépend des rumeurs. Que disent les gens ?"
+    mc "Je suppose que cela dépend des rumeurs. Que disent les gens?"
 
 # game/code/d15/d15s03.rpy:239
 translate french d15s03_middle_b689bae8:
@@ -431,13 +431,13 @@ translate french d15s03_middle_633c9d5b:
 translate french d15s03_middle_84e288fc:
 
     # pb "Wedding bells ringing?"
-    pb "Les cloches du mariage sonnent ?"
+    pb "Les cloches du mariage sonnent?"
 
 # game/code/d15/d15s03.rpy:248
 translate french d15s03_middle_052cc958:
 
     # mc "Ha! I wish. {w}Wait, seriously? Is that what people are saying?"
-    mc "Ha ! J'aimerais bien. {w}Attendez, sérieusement ? C'est ce que les gens disent ?"
+    mc "Ha! J'aimerais bien. {w}Attendez, sérieusement? C'est ce que les gens disent?"
 
 # game/code/d15/d15s03.rpy:251
 translate french d15s03_middle_eb0418a8:
@@ -473,7 +473,7 @@ translate french d15s03_middle_f8ff5a4f:
 translate french d15s03_middle_ac904af0:
 
     # mc "That I'm screwing every woman I can get my hands on?"
-    mc "Que je baise toutes les femmes sur lesquelles je peux mettre la main ?"
+    mc "Que je baise toutes les femmes sur lesquelles je peux mettre la main?"
 
 # game/code/d15/d15s03.rpy:267
 translate french d15s03_middle_4c75576a:
@@ -497,7 +497,7 @@ translate french d15s03_middle_253448c2:
 translate french d15s03_dw_setup_32dd7cec:
 
     # mc "Ha! {w}I'll think about it. Was that all the rumors?"
-    mc "Ha ! {w}Je vais y réfléchir. C'était toutes les rumeurs ?"
+    mc "Ha! {w}Je vais y réfléchir. C'était toutes les rumeurs?"
 
 # game/code/d15/d15s03.rpy:287
 translate french d15s03_dw_setup_c7293e56:
@@ -515,7 +515,7 @@ translate french d15s03_dw_setup_38b5e631:
 translate french d15s03_dw_setup_1441e28e:
 
     # pb "Does she know about Lydia?"
-    pb "Est-ce qu'elle est au courant pour Lydia ?"
+    pb "Est-ce qu'elle est au courant pour Lydia?"
 
 # game/code/d15/d15s03.rpy:296
 translate french d15s03_dw_setup_2c647dc8:
@@ -527,13 +527,13 @@ translate french d15s03_dw_setup_2c647dc8:
 translate french d15s03_dw_setup_efb8aab1:
 
     # pb "Does she know about the other women you've been fucking?"
-    pb "Est-ce qu'elle est au courant des autres femmes que tu as baisées ?"
+    pb "Est-ce qu'elle est au courant des autres femmes que tu as baisées?"
 
 # game/code/d15/d15s03.rpy:302
 translate french d15s03_dw_setup_7f02325f:
 
     # mc "I don't know.{w}.. maybe? She should. I don't think I've told her, but it's not like I've been hiding it."
-    mc "Je ne sais pas.{w}.. peut-être ? Elle devrait. Je ne pense pas lui avoir dit, mais ce n'est pas comme si je l'avais caché."
+    mc "Je ne sais pas.{w}.. peut-être? Elle devrait. Je ne pense pas lui avoir dit, mais ce n'est pas comme si je l'avais caché."
 
 # game/code/d15/d15s03.rpy:303
 translate french d15s03_dw_setup_6def426a:
@@ -545,19 +545,19 @@ translate french d15s03_dw_setup_6def426a:
 translate french d15s03_dw_setup_ddbd9210:
 
     # pb "You were with Samiya?"
-    pb "Tu étais avec Samiya ?"
+    pb "Tu étais avec Samiya?"
 
 # game/code/d15/d15s03.rpy:309
 translate french d15s03_dw_setup_17d3c737:
 
     # mc "It was an event at a party, ya'know? {w}Started as mud wrestling, ended up being something else."
-    mc "C'était un événement lors d'une fête, tu sais ? {w}A commencé comme de la lutte dans la boue, a fini par être autre chose."
+    mc "C'était un événement lors d'une fête, tu sais? {w}A commencé comme de la lutte dans la boue, a fini par être autre chose."
 
 # game/code/d15/d15s03.rpy:312
 translate french d15s03_dw_setup_3a1fc5bb:
 
     # pb "Dahlia saw that?"
-    pb "Dahlia a vu ça ?"
+    pb "Dahlia a vu ça?"
 
 # game/code/d15/d15s03.rpy:315
 translate french d15s03_dw_setup_a34f14d1:
@@ -575,13 +575,13 @@ translate french d15s03_dw_setup_3e311433:
 translate french d15s03_dw_setup_e2abdc52:
 
     # pb "Yeah... {w}That girl is damaged goods, ya'know?"
-    pb "Ouais... {w}Cette fille est une marchandise endommagée, tu sais ?"
+    pb "Ouais... {w}Cette fille est une marchandise endommagée, tu sais?"
 
 # game/code/d15/d15s03.rpy:322
 translate french d15s03_dw_setup_7e609263:
 
     # mc "Samiya? I mean, she's a-"
-    mc "Samiya ? Je veux dire, c'est une-"
+    mc "Samiya? Je veux dire, c'est une-"
 
 # game/code/d15/d15s03.rpy:325
 translate french d15s03_dw_setup_74cb820e:
@@ -593,7 +593,7 @@ translate french d15s03_dw_setup_74cb820e:
 translate french d15s03_dw_setup_a67a551a:
 
     # mc "Huh? {w}I mean, she's a dominatrix, but-"
-    mc "Hein ? {w}Je veux dire, c'est une dominatrice, mais-"
+    mc "Hein? {w}Je veux dire, c'est une dominatrice, mais-"
 
 # game/code/d15/d15s03.rpy:331
 translate french d15s03_dw_setup_4d49cb6c:
@@ -617,7 +617,7 @@ translate french d15s03_dw_setup_3394b1c3:
 translate french d15s03_dw_setup_c1f2ceb3:
 
     # mc "Yeah, I heard about that, but what are you talking about?"
-    mc "Oui, j'en ai entendu parler, mais de quoi tu parles ?"
+    mc "Oui, j'en ai entendu parler, mais de quoi tu parles?"
 
 # game/code/d15/d15s03.rpy:343
 translate french d15s03_dw_setup_7b7a7f62:
@@ -635,7 +635,7 @@ translate french d15s03_dw_setup_37f3426e:
 translate french d15s03_dw_setup_5a7c0881:
 
     # mc "You're losing me with this whole predator/prey thing. What are you trying to say?"
-    mc "Tu es en train de me perdre avec toute cette histoire de prédateur/proie. Qu'est-ce que tu essaies de dire ?"
+    mc "Tu es en train de me perdre avec toute cette histoire de prédateur/proie. Qu'est-ce que tu essaies de dire?"
 
 # game/code/d15/d15s03.rpy:350
 translate french d15s03_dw_setup_1857c47e:
@@ -653,7 +653,7 @@ translate french d15s03_dw_setup_ad1eaa57:
 translate french d15s03_dw_setup_9f63a24e:
 
     # pb "So, unless you want Dahlia walking all over you... well, you know what you've gotta do, right?"
-    pb "Alors, à moins que tu veuilles que Dahlia te marche dessus... eh bien, tu sais ce que tu dois faire, n'est-ce pas ?"
+    pb "Alors, à moins que tu veuilles que Dahlia te marche dessus... eh bien, tu sais ce que tu dois faire, n'est-ce pas?"
 
 # game/code/d15/d15s03.rpy:359
 translate french d15s03_dw_setup_0b8535ba:
@@ -683,7 +683,7 @@ translate french d15s03_dw_setup_a67d8cc1:
 translate french d15s03_dw_setup_96696ce3:
 
     # pb "You still there? You tune out on me?"
-    pb "Tu es toujours là ? Tu ne me regardes pas ?"
+    pb "Tu es toujours là? Tu ne me regardes pas?"
 
 # game/code/d15/d15s03.rpy:369
 translate french d15s03_dw_setup_e93b0819:
@@ -713,7 +713,7 @@ translate french d15s03_dw_setup_57322dfc:
 translate french d15s03_dw_setup_35ab8f09:
 
     # mc "How's that?"
-    mc "Comment ça va ?"
+    mc "Comment ça va?"
 
 # game/code/d15/d15s03.rpy:385
 translate french d15s03_dw_setup_3feba662:
@@ -791,13 +791,13 @@ translate french d15s03_dw_setup_b2b9e19d:
 translate french d15s03_dw_setup_ea39b3cf:
 
     # pb "What if you and me - just grab a couple of girls and take off?"
-    pb "Et si toi et moi, nous attrapions juste quelques filles et partions ?"
+    pb "Et si toi et moi, nous attrapions juste quelques filles et partions?"
 
 # game/code/d15/d15s03.rpy:416
 translate french d15s03_dw_setup_693e803c:
 
     # mc "What? Where?"
-    mc "Quoi ? Où ?"
+    mc "Quoi? Où?"
 
 # game/code/d15/d15s03.rpy:419
 translate french d15s03_dw_setup_72993118:
@@ -833,19 +833,19 @@ translate french d15s03_dw_setup_daf3be7c:
 translate french d15s03_dw_setup_9d9b6936:
 
     # mc "What's the business?"
-    mc "Quelle est l'affaire ?"
+    mc "Quelle est l'affaire?"
 
 # game/code/d15/d15s03.rpy:433
 translate french d15s03_dw_setup_ae3df913:
 
     # pb "Rental cars. You believe it? He's pulling down almost seven figures a year renting caddies and fiats to tourists."
-    pb "Des voitures de location. Vous le croyez ? Il gagne près de sept chiffres par an en louant des caddies et des fiat aux touristes."
+    pb "Des voitures de location. Vous le croyez? Il gagne près de sept chiffres par an en louant des caddies et des fiat aux touristes."
 
 # game/code/d15/d15s03.rpy:436
 translate french d15s03_dw_setup_e6adb780:
 
     # mc "Damn. {w}Wait, do you even have a driver's license?"
-    mc "Merde. {w}Attends, tu as au moins un permis de conduire ?"
+    mc "Merde. {w}Attends, tu as au moins un permis de conduire?"
 
 # game/code/d15/d15s03.rpy:439
 translate french d15s03_dw_setup_6ea92305:
@@ -869,7 +869,7 @@ translate french d15s03_dw_setup_7718a20c:
 translate french d15s03_dw_setup_baddb19f:
 
     # mc "And for me?"
-    mc "Et pour moi ?"
+    mc "Et pour moi?"
 
 # game/code/d15/d15s03.rpy:451
 translate french d15s03_dw_setup_36a1bd2b:

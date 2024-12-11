@@ -158,7 +158,7 @@ translate french d21s05_a2b1f6fa:
 translate french d21s05_fdaadfa1:
 
     # mk "Um... You're welcome?"
-    mk "Euh... de rien ?"
+    mk "Euh... de rien?"
 
 # game/code/d21/d21s05.rpy:175
 translate french d21s05_e4e4a05f:
@@ -176,7 +176,7 @@ translate french d21s05_5106f980:
 translate french d21s05_42726bc3:
 
     # mc "You mean, sex?"
-    mc "Tu veux dire, du sexe ?"
+    mc "Tu veux dire, du sexe?"
 
 # game/code/d21/d21s05.rpy:179
 translate french d21s05_469f19d7:
@@ -278,7 +278,7 @@ translate french d21s05_c9eca468:
 translate french d21s05_9215de55:
 
     # mc "Would that be in keeping with the friends you plan on calling?"
-    mc "Est-ce que ça correspondrait aux amis que tu comptes appeler ?"
+    mc "Est-ce que ça correspondrait aux amis que tu comptes appeler?"
 
 # game/code/d21/d21s05.rpy:230
 translate french d21s05_c773b35f:
@@ -308,7 +308,7 @@ translate french d21s05_party_20edf723:
 translate french d21s05_party_e22b164f:
 
     # arj "Oh, I'll get it!"
-    arj "Oh, je vais ouvrir !"
+    arj "Oh, je vais ouvrir!"
 
 # game/code/d21/d21s05.rpy:263
 translate french d21s05_party_ed0bce6a:
@@ -350,19 +350,19 @@ translate french d21s05_party_40f174d9:
 translate french d21s05_party_5d74b9bd:
 
     # arj "Maria-{w} What the-?"
-    arj "Maria-{w} C'est quoi- ?"
+    arj "Maria-{w} C'est quoi-?"
 
 # game/code/d21/d21s05.rpy:287
 translate french d21s05_party_c89f3d5f:
 
     # tr "Now this is a party!"
-    tr "Maintenant c'est la fête !"
+    tr "Maintenant c'est la fête!"
 
 # game/code/d21/d21s05.rpy:288
 translate french d21s05_party_b5d0f4ff:
 
     # arj "There are guests!{w} Why are you sucking [mcname]'s cock?"
-    arj "Il y a des invités!{w} Pourquoi tu suces la bite de [mcname] ?"
+    arj "Il y a des invités!{w} Pourquoi tu suces la bite de [mcname]?"
 
 # game/code/d21/d21s05.rpy:292
 translate french d21s05_party_19d31945:
@@ -374,7 +374,7 @@ translate french d21s05_party_19d31945:
 translate french d21s05_party_69b97c04:
 
     # ah "Excuse me, lovely. Would you mind if I took over?"
-    ah "Excuse-moi, ma chérie. Ça te dérangerait si je prenais le relais ?"
+    ah "Excuse-moi, ma chérie. Ça te dérangerait si je prenais le relais?"
 
 # game/code/d21/d21s05.rpy:297
 translate french d21s05_party_fe0b4beb:
@@ -488,19 +488,19 @@ translate french d21s05_party_5cba9725:
 translate french d21s05_party_1c318800:
 
     # mk "Are you just going to watch? My asshole feels empty."
-    mk "Tu vas juste regarder ? Mon trou du cul est vide."
+    mk "Tu vas juste regarder? Mon trou du cul est vide."
 
 # game/code/d21/d21s05.rpy:399
 translate french d21s05_party_51620d67:
 
     # tr "Agh!"
-    tr "Agh !"
+    tr "Agh!"
 
 # game/code/d21/d21s05.rpy:403
 translate french d21s05_party_437cb506:
 
     # tr "Ooph!"
-    tr "Ooph !"
+    tr "Ooph!"
 
 # game/code/d21/d21s05.rpy:406
 translate french d21s05_party_5a7fd872:
@@ -692,7 +692,7 @@ translate french d21s05_party_666ab88c:
 translate french d21s05_party_b5eb687c:
 
     # mk "That would{w} be so good.{w} You should do that!"
-    mk "Ce serait{w} tellement bien.{w} Tu devrais faire ça !"
+    mk "Ce serait{w} tellement bien.{w} Tu devrais faire ça!"
 
 # game/code/d21/d21s05.rpy:599
 translate french d21s05_party_c0b181b8:
@@ -770,7 +770,7 @@ translate french d21s05_fuck_tr_b2fee71c:
 translate french d21s05_fuck_tr_4172b25d:
 
     # mc "And you, Aaleyah?"
-    mc "Et toi, Aaleyah ?"
+    mc "Et toi, Aaleyah?"
 
 # game/code/d21/d21s05.rpy:637
 translate french d21s05_fuck_tr_dbc0ab3c:
@@ -866,7 +866,7 @@ translate french d21s05_fuck_tr_c1e7f53c:
 translate french d21s05_fuck_tr_d2c14819:
 
     # ah "Oh?"
-    ah "Oh ?"
+    ah "Oh?"
 
 # game/code/d21/d21s05.rpy:680
 translate french d21s05_fuck_tr_181619cc:
@@ -1081,8 +1081,8 @@ translate french d21s05_end_36c4c552:
 # game/code/d21/d21s05.rpy:819
 translate french d21s05_end_e34f4673:
 
-    # arj "Give it to me! GIVE IT TO ME! FUCK ME !!! YESESSEESSSSSSS!!!!"
-    arj "Donne-le moi! DONNE LE MOI! BAISE-MOI !!! OUIESSSSSSSS!!!!"
+    # arj "Give it to me! GIVE IT TO ME! FUCK ME!!! YESESSEESSSSSSS!!!!"
+    arj "Donne-le moi! DONNE LE MOI! BAISE-MOI!!! OUIESSSSSSSS!!!!"
 
 # game/code/d21/d21s05.rpy:821
 translate french d21s05_end_8f311345:
@@ -1209,3 +1209,4 @@ translate french strings:
     # game/code/d21/d21s05.rpy:613
     old "Just facefuck Aaleyah instead"
     new "Baise juste Aaleyah à la place"
+

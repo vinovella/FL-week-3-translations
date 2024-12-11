@@ -2,19 +2,19 @@
 translate french d19s02_0c7b4226:
 
     # arj "[mcname]?"
-    arj "[mcname] ?"
+    arj "[mcname]?"
 
 # game/code/d19/d19s02.rpy:24
 translate french d19s02_2538facb:
 
     # arj "What happened to you? Are you alright? You weren't answering any of my calls!"
-    arj "Qu'est-ce qui t'est arrivé ? Est-ce que tu vas bien? Tu ne répondais à aucun de mes appels !"
+    arj "Qu'est-ce qui t'est arrivé? Est-ce que tu vas bien? Tu ne répondais à aucun de mes appels!"
 
 # game/code/d19/d19s02.rpy:27
 translate french d19s02_b34bb80d:
 
     # sy "Yeah, what the fuck? You just vanished."
-    sy "Ouais, c'est quoi ce bordel ? Tu venais de disparaître."
+    sy "Ouais, c'est quoi ce bordel? Tu venais de disparaître."
 
 # game/code/d19/d19s02.rpy:30
 translate french d19s02_5785e7c4:
@@ -26,7 +26,7 @@ translate french d19s02_5785e7c4:
 translate french d19s02_c450b584:
 
     # sy "What happened?"
-    sy "Que s'est-il passé ?"
+    sy "Que s'est-il passé?"
 
 # game/code/d19/d19s02.rpy:36
 translate french d19s02_86c6556c:
@@ -62,7 +62,7 @@ translate french d19s02_e2109ed8:
 translate french d19s02_c90ffba5:
 
     # sy "...Seriously? Fuck. Why would she...?"
-    sy "...Sérieusement? Putain. Pourquoi ferait-elle... ?"
+    sy "...Sérieusement? Putain. Pourquoi ferait-elle...?"
 
 # game/code/d19/d19s02.rpy:177
 translate french d19s02_7a9473dc:
@@ -86,7 +86,7 @@ translate french d19s02_3f0c44bd:
 translate french d19s02_f6dc076b:
 
     # sy "Pete? Wait, {i}your friend who you vouched for{/i} Pete?"
-    sy "Pete ? Attends, {i}ton ami dont tu t'es porté garant{/i} Pete ?"
+    sy "Pete? Attends, {i}ton ami dont tu t'es porté garant{/i} Pete?"
 
 # game/code/d19/d19s02.rpy:187
 translate french d19s02_4d088457:
@@ -110,7 +110,7 @@ translate french d19s02_b602ab1e:
 translate french d19s02_242258de:
 
     # sy "I'm so angry right now. Fucking serenity now. Who's the other cunt?"
-    sy "Je suis tellement en colère en ce moment. Putain de sérénité maintenant. Qui est l'autre connard ?"
+    sy "Je suis tellement en colère en ce moment. Putain de sérénité maintenant. Qui est l'autre connard?"
 
 # game/code/d19/d19s02.rpy:197
 translate french d19s02_bf1b5e2b:
@@ -128,13 +128,13 @@ translate french d19s02_f5af45e9:
 translate french d19s02_cbc203dd:
 
     # arj "Her {i}what{/i}?"
-    arj "Son {i}quoi{/i} ?"
+    arj "Son {i}quoi{/i}?"
 
 # game/code/d19/d19s02.rpy:204
 translate french d19s02_b205f7da:
 
     # sy "What do you mean \"from what I gathered\", where were you?"
-    sy "Qu'est-ce que tu veux dire par \"d'après ce que j'ai compris\", où étais-tu ?"
+    sy "Qu'est-ce que tu veux dire par \"d'après ce que j'ai compris\", où étais-tu?"
 
 # game/code/d19/d19s02.rpy:207
 translate french d19s02_29942233:
@@ -158,7 +158,7 @@ translate french d19s02_b0d0640a:
 translate french d19s02_5f58f77f:
 
     # arj "She kidnapped you!?"
-    arj "Elle t'a kidnappé !?"
+    arj "Elle t'a kidnappé!?"
 
 # game/code/d19/d19s02.rpy:216
 translate french d19s02_8cc105c3:
@@ -182,7 +182,7 @@ translate french d19s02_99ea59ed:
 translate french d19s02_89eeff59:
 
     # arj "How did you get out?"
-    arj "Comment tu t'en es sorti ?"
+    arj "Comment tu t'en es sorti?"
 
 # game/code/d19/d19s02.rpy:225
 translate french d19s02_bf2661bd:
@@ -194,7 +194,7 @@ translate french d19s02_bf2661bd:
 translate french d19s02_c1e8cd13:
 
     # sy "Did you call the cops?"
-    sy "Tu as appelé les flics ?"
+    sy "Tu as appelé les flics?"
 
 # game/code/d19/d19s02.rpy:231
 translate french d19s02_7222bac4:
@@ -254,7 +254,7 @@ translate french d19s02_0dd17438:
 translate french d19s02_5bd287fc:
 
     # arj "What...? How could she... After {i}everything{/i}??"
-    arj "Quoi...? Comment a-t-elle pu... Après {i}tout{/i} ? ?"
+    arj "Quoi...? Comment a-t-elle pu... Après {i}tout{/i}??"
 
 # game/code/d19/d19s02.rpy:278
 translate french d19s02_43fccd5a:
@@ -266,7 +266,7 @@ translate french d19s02_43fccd5a:
 translate french d19s02_63fd3f91:
 
     # arj "What do you mean?"
-    arj "Qu'est-ce que tu veux dire ?"
+    arj "Qu'est-ce que tu veux dire?"
 
 # game/code/d19/d19s02.rpy:283
 translate french d19s02_40d32486:
@@ -278,7 +278,7 @@ translate french d19s02_40d32486:
 translate french d19s02_5991dc63:
 
     # sy "How does that make any sense?"
-    sy "En quoi ça a du sens ?"
+    sy "En quoi ça a du sens?"
 
 # game/code/d19/d19s02.rpy:289
 translate french d19s02_2319f1e0:
@@ -290,7 +290,7 @@ translate french d19s02_2319f1e0:
 translate french d19s02_e8b4e94f:
 
     # arj "Who?"
-    arj "Qui ?"
+    arj "Qui?"
 
 # game/code/d19/d19s02.rpy:293
 translate french d19s02_377fc394:
@@ -301,8 +301,8 @@ translate french d19s02_377fc394:
 # game/code/d19/d19s02.rpy:296
 translate french d19s02_0c024d09:
 
-    # sy "What do you mean « gone?"
-    sy "Qu'est-ce que tu veux dire par « parti » ?"
+    # sy "What do you mean "gone?"
+    sy "Qu'est-ce que tu veux dire par \"parti\"?"
 
 # game/code/d19/d19s02.rpy:299
 translate french d19s02_a92e76dd:
@@ -338,7 +338,7 @@ translate french d19s02_4bbd0434:
 translate french d19s02_621addc9:
 
     # arj "What happened!? My God!"
-    arj "Que s'est-il passé !? Mon Dieu!"
+    arj "Que s'est-il passé!? Mon Dieu!"
 
 # game/code/d19/d19s02.rpy:315
 translate french d19s02_d08948d0:
@@ -374,7 +374,7 @@ translate french d19s02_d5990413:
 translate french d19s02_64178a0d:
 
     # sy "Well... What now?"
-    sy "Eh bien... et maintenant ?"
+    sy "Eh bien... et maintenant?"
 
 # game/code/d19/d19s02.rpy:334
 translate french d19s02_70a444bd:
@@ -386,7 +386,7 @@ translate french d19s02_70a444bd:
 translate french d19s02_54287bb5:
 
     # arj "Can't we just turn off this damn app? We have access to the servers, right?"
-    arj "On ne peut pas simplement désactiver cette foutue application ? Nous avons accès aux serveurs, oui?"
+    arj "On ne peut pas simplement désactiver cette foutue application? Nous avons accès aux serveurs, oui?"
 
 # game/code/d19/d19s02.rpy:344
 translate french d19s02_b7437bb6:
@@ -410,7 +410,7 @@ translate french d19s02_c960bf66:
 translate french d19s02_31307cb0:
 
     # arj "What are you going to do? Exam's tomorrow, right?"
-    arj "Alors qu'est-ce que tu vas faire ? L'examen est demain ?"
+    arj "Alors qu'est-ce que tu vas faire? L'examen est demain?"
 
 # game/code/d19/d19s02.rpy:363
 translate french d19s02_ac465c5b:
@@ -446,7 +446,7 @@ translate french d19s02_b7ebb8fe:
 translate french d19s02_4b0e095d:
 
     # sy "You're gonna bribe them?"
-    sy "Tu vas les soudoyer ?"
+    sy "Tu vas les soudoyer?"
 
 # game/code/d19/d19s02.rpy:386
 translate french d19s02_69d286d1:
@@ -464,7 +464,7 @@ translate french d19s02_cdd53ec4:
 translate french d19s02_bea97fa7:
 
     # arj "Hm, okay. We can do this. Your judges were Lewald, Nordin, and Zarah, right?"
-    arj "Hm, d'accord. Nous pouvons le faire. Tes juges étaient Lewald, Nordin et Zarah, n'est-ce pas ?"
+    arj "Hm, d'accord. Nous pouvons le faire. Tes juges étaient Lewald, Nordin et Zarah, n'est-ce pas?"
 
 # game/code/d19/d19s02.rpy:395
 translate french d19s02_cf1adef2:
@@ -506,7 +506,7 @@ translate french d19s02_47935497:
 translate french d19s02_62156bee:
 
     # sy "What, does [mcname] have to go molest a kid or something?"
-    sy "Quoi, est-ce que [mcname] doit aller agresser un enfant ou quelque chose comme ça ?"
+    sy "Quoi, est-ce que [mcname] doit aller agresser un enfant ou quelque chose comme ça?"
 
 # game/code/d19/d19s02.rpy:411
 translate french d19s02_e6b2e0a0:
@@ -536,7 +536,7 @@ translate french d19s02_286775e5:
 translate french d19s02_261658a7:
 
     # arj "No! Not that, it just makes me wonder if you could get to her through Cynthia."
-    arj "Non ! Non pas ça, je me demande juste si tu pourrais la joindre par l'intermédiaire de Cynthia."
+    arj "Non! Non pas ça, je me demande juste si tu pourrais la joindre par l'intermédiaire de Cynthia."
 
 # game/code/d19/d19s02.rpy:425
 translate french d19s02_2e2b325f:
@@ -566,7 +566,7 @@ translate french d19s02_0b22d473:
 translate french d19s02_5b8bbb15:
 
     # sy "Have you tried talking with her? She seemed like a decent enough person to me."
-    sy "As-tu essayé de parler avec elle ? Elle me semblait être une personne assez honnête."
+    sy "As-tu essayé de parler avec elle? Elle me semblait être une personne assez honnête."
 
 # game/code/d19/d19s02.rpy:438
 translate french d19s02_257855f5:
@@ -596,7 +596,7 @@ translate french d19s02_af55738d:
 translate french d19s02_82864113:
 
     # mc "Oh, by the way, do you still have the clothes I left here?"
-    mc "Au fait, tu as toujours les vêtements que j'ai laissés ici ?"
+    mc "Au fait, tu as toujours les vêtements que j'ai laissés ici?"
 
 # game/code/d19/d19s02.rpy:449
 translate french d19s02_f4bb8535:
@@ -638,31 +638,31 @@ translate french d19s02_113515db:
 translate french d19s02_2cc05c46:
 
     # mct "Daisy?"
-    mct "Daisy ?"
+    mct "Daisy?"
 
 # game/code/d19/d19s02.rpy:490
 translate french d19s02_cee6ed75:
 
     # dd "Hey dummy you busy?"
-    dd "Hé, idiot, tu es occupé ?"
+    dd "Hé, idiot, tu es occupé?"
 
 # game/code/d19/d19s02.rpy:493
 translate french d19s02_a02a1182:
 
     # mct "No whats up?"
-    mct "Non, quoi de neuf ?"
+    mct "Non, quoi de neuf?"
 
 # game/code/d19/d19s02.rpy:495
 translate french d19s02_1540e381:
 
     # dd "Can you come over?"
-    dd "Tu peux venir ?"
+    dd "Tu peux venir?"
 
 # game/code/d19/d19s02.rpy:498
 translate french d19s02_b472d70b:
 
     # mct "Is everything alright?"
-    mct "Est-ce que tout va bien ?"
+    mct "Est-ce que tout va bien?"
 
 # game/code/d19/d19s02.rpy:500
 translate french d19s02_a13242a8:
@@ -704,19 +704,19 @@ translate french d19s02_e05d1e89:
 translate french d19s02_29f49341:
 
     # dd "Oh okay! Thats alright. Good luck with your exam!"
-    dd "Oh ok ! C'est bon. Bonne chance pour ton examen !"
+    dd "Oh ok! C'est bon. Bonne chance pour ton examen!"
 
 # game/code/d19/d19s02.rpy:523
 translate french d19s02_2fd0ff4a:
 
     # mct "Dahlia?"
-    mct "Dahlia ?"
+    mct "Dahlia?"
 
 # game/code/d19/d19s02.rpy:525
 translate french d19s02_be2ca5ff:
 
     # dw "Pet? Where are you?"
-    dw "Animal de compagnie ? Où es-tu?"
+    dw "Animal de compagnie? Où es-tu?"
 
 # game/code/d19/d19s02.rpy:528
 translate french d19s02_636969ff:
@@ -734,7 +734,7 @@ translate french d19s02_14129912:
 translate french d19s02_5d105f49:
 
     # dw "I will be binding you today and incorporating ice.{w} I assume you're alright with this?"
-    dw "Je vais t'attacher et te foutre de la glace.{w} Je suppose que tu es d'accord avec ça ?"
+    dw "Je vais t'attacher et te foutre de la glace.{w} Je suppose que tu es d'accord avec ça?"
 
 # game/code/d19/d19s02.rpy:538
 translate french d19s02_21c239ee:
@@ -775,3 +775,4 @@ translate french strings:
     # game/code/d19/d19s02.rpy:503
     old "Go to her"
     new "Va la voir"
+

@@ -2,7 +2,7 @@
 translate french d19s03_ext_3960feb0:
 
     # mc "Oh, by the way, before you leave. Do you mind if I crash at your place after getting my stuff?"
-    mc "Oh, au fait, avant de partir. Ça te dérange si je m'arrête chez toi pour récupérer quelques affaires ?"
+    mc "Oh, au fait, avant de partir. Ça te dérange si je m'arrête chez toi pour récupérer quelques affaires?"
 
 # game/code/d19/extended/d19s03_ext.rpy:67
 translate french d19s03_ext_50687228:
@@ -14,7 +14,7 @@ translate french d19s03_ext_50687228:
 translate french d19s03_ext_118d4190:
 
     # sy "Who is it?"
-    sy "Qui est-ce ?"
+    sy "Qui est-ce?"
 
 # game/code/d19/extended/d19s03_ext.rpy:75
 translate french d19s03_ext_5cd1bd93:
@@ -32,13 +32,13 @@ translate french d19s03_ext_0401858e:
 translate french d19s03_ext_d499af39:
 
     # sy "Lyssa! Hey!"
-    sy "Lyssa ! Hey!"
+    sy "Lyssa! Hey!"
 
 # game/code/d19/extended/d19s03_ext.rpy:91
 translate french d19s03_ext_094fdaa7:
 
     # sy "How are you? I was wondering how you were doing."
-    sy "Comment vas-tu ? Je me demandais comment tu allais."
+    sy "Comment vas-tu? Je me demandais comment tu allais."
 
 # game/code/d19/extended/d19s03_ext.rpy:93
 translate french d19s03_ext_07707541:
@@ -56,7 +56,7 @@ translate french d19s03_ext_e58ea438:
 translate french d19s03_ext_58467069:
 
     # sy "Oh! Lyssa! Come in."
-    sy "Oh ! Lyssa ! Entre."
+    sy "Oh! Lyssa! Entre."
 
 # game/code/d19/extended/d19s03_ext.rpy:100
 translate french d19s03_ext_8ecc6b8c:
@@ -68,13 +68,13 @@ translate french d19s03_ext_8ecc6b8c:
 translate french d19s03_ext_706bcf8a:
 
     # sy "No, not at all. We were just about to leave actually. I'm guessing you're here to see [mcname], right?"
-    sy "Non, pas du tout. Nous étions sur le point de partir en fait. Je suppose que tu es ici pour voir [mcname], n'est-ce pas ?"
+    sy "Non, pas du tout. Nous étions sur le point de partir en fait. Je suppose que tu es ici pour voir [mcname], n'est-ce pas?"
 
 # game/code/d19/extended/d19s03_ext.rpy:105
 translate french d19s03_ext_998727b1:
 
     # mh "Read my mind, did you? *Slight laugh*"
-    mh "Tu lis dans mes pensées, n'est-ce pas ? *Léger rire*"
+    mh "Tu lis dans mes pensées, n'est-ce pas? *Léger rire*"
 
 # game/code/d19/extended/d19s03_ext.rpy:106
 translate french d19s03_ext_d2e383bc:
@@ -98,13 +98,13 @@ translate french d19s03_ext_a1def297:
 translate french d19s03_ext_afb27232:
 
     # sy "[mcname] got kidnapped by a crazy psycho!"
-    sy "[mcname] a été kidnappé par une psychopathe folle !"
+    sy "[mcname] a été kidnappé par une psychopathe folle!"
 
 # game/code/d19/extended/d19s03_ext.rpy:116
 translate french d19s03_ext_629d5e85:
 
     # sy "[mcname] got arrested!"
-    sy "[mcname] a été arrêté !"
+    sy "[mcname] a été arrêté!"
 
 # game/code/d19/extended/d19s03_ext.rpy:119
 translate french d19s03_ext_8e0175ab:
@@ -146,7 +146,7 @@ translate french d19s03_ext_d9904cbb:
 translate french d19s03_ext_94736aa8:
 
     # sy "But I'm sure [mcname] can keep you company though!"
-    sy "Mais je suis sûr que [mcname] peut te tenir compagnie !"
+    sy "Mais je suis sûr que [mcname] peut te tenir compagnie!"
 
 # game/code/d19/extended/d19s03_ext.rpy:136
 translate french d19s03_ext_f9b8edf7:
@@ -164,13 +164,13 @@ translate french d19s03_ext_45632657:
 translate french d19s03_ext_58b98b7f:
 
     # mc "Couldn't help but bring it up again, huh?"
-    mc "Tu n'a pas pu t'empêcher, hein ?"
+    mc "Tu n'a pas pu t'empêcher, hein?"
 
 # game/code/d19/extended/d19s03_ext.rpy:146
 translate french d19s03_ext_ffab208f:
 
     # sy "Okay, we should head off. I'll see you two later!"
-    sy "Ok, on devrait y aller. Je vous verrai plus tard !"
+    sy "Ok, on devrait y aller. Je vous verrai plus tard!"
 
 # game/code/d19/extended/d19s03_ext.rpy:149
 translate french d19s03_ext_0419d335:
@@ -182,13 +182,13 @@ translate french d19s03_ext_0419d335:
 translate french d19s03_bj_31781d18:
 
     # mh "So, {i}kidnapped{/i}, huh?"
-    mh "Alors, {i}kidnappé{/i}, hein ?"
+    mh "Alors, {i}kidnappé{/i}, hein?"
 
 # game/code/d19/extended/d19s03_ext.rpy:183
 translate french d19s03_bj_a916f093:
 
     # mh "So, {i}arrested{/i}, huh?"
-    mh "Alors, {i}arrêté{/i}, hein ?"
+    mh "Alors, {i}arrêté{/i}, hein?"
 
 # game/code/d19/extended/d19s03_ext.rpy:185
 translate french d19s03_bj_dd33f4c1:
@@ -212,7 +212,7 @@ translate french d19s03_bj_110ccc0a:
 translate french d19s03_bj_62785a9d:
 
     # mc "Are you sure you're not aching for something else instead?"
-    mc "Tu es sûr que tu n'as pas envie d'autre chose à la place ?"
+    mc "Tu es sûr que tu n'as pas envie d'autre chose à la place?"
 
 # game/code/d19/extended/d19s03_ext.rpy:196
 translate french d19s03_bj_620905d3:
@@ -230,7 +230,7 @@ translate french d19s03_bj_32c5a78d:
 translate french d19s03_bj_70496c8e:
 
     # mc "You're insatiable, aren't you?"
-    mc "Tu es insatiable, n'est-ce pas ?"
+    mc "Tu es insatiable, n'est-ce pas?"
 
 # game/code/d19/extended/d19s03_ext.rpy:211
 translate french d19s03_bj_b062bc1b:
@@ -242,7 +242,7 @@ translate french d19s03_bj_b062bc1b:
 translate french d19s03_bj_5e286f70:
 
     # mh "What the—?"
-    mh "Qu'est-ce que... ?"
+    mh "Qu'est-ce que...?"
 
 # game/code/d19/extended/d19s03_ext.rpy:217
 translate french d19s03_bj_3e7df1bb:
@@ -278,13 +278,13 @@ translate french d19s03_bj_91b34102:
 translate french d19s03_bj_b28f1c0a:
 
     # mh "I want to taste it, Sir. Please let me taste it?"
-    mh "Je veux y goûter, monsieur. S'il te plaît, laisse-moi le goûter ?"
+    mh "Je veux y goûter, monsieur. S'il te plaît, laisse-moi le goûter?"
 
 # game/code/d19/extended/d19s03_ext.rpy:246
 translate french d19s03_bj_8b3d9aa0:
 
     # mc "Oh? Alright. Get on your knees."
-    mc "Oh ? Bien. Mets-toi à genoux."
+    mc "Oh? Bien. Mets-toi à genoux."
 
 # game/code/d19/extended/d19s03_ext.rpy:248
 translate french d19s03_bj_ee9e5a42:
@@ -320,7 +320,7 @@ translate french d19s03_bj_36e154c8:
 translate french d19s03_bj_99bfa428:
 
     # mh "Please, Sir! I want to feel you cum down my throat."
-    mh "S'il te plaît, monsieur ! Je veux te sentir jouir dans ma gorge."
+    mh "S'il te plaît, monsieur! Je veux te sentir jouir dans ma gorge."
 
 # game/code/d19/extended/d19s03_ext.rpy:295
 translate french d19s03_bj_2e90e6d1:
@@ -332,13 +332,13 @@ translate french d19s03_bj_2e90e6d1:
 translate french d19s03_bj_6d6d5d5c:
 
     # mh "I want to feel you cum down my throat, [mcname]!"
-    mh "Je veux te sentir jouir dans ma gorge, [mcname] !"
+    mh "Je veux te sentir jouir dans ma gorge, [mcname]!"
 
 # game/code/d19/extended/d19s03_ext.rpy:306
 translate french d19s03_bj_650b599f:
 
     # mc "I better not see a single drop fall, understand?"
-    mc "Je ferais mieux de ne pas voir une seule goutte tomber, tu comprends ?"
+    mc "Je ferais mieux de ne pas voir une seule goutte tomber, tu comprends?"
 
 # game/code/d19/extended/d19s03_ext.rpy:309
 translate french d19s03_bj_66fd117c:
@@ -350,7 +350,7 @@ translate french d19s03_bj_66fd117c:
 translate french d19s03_bj_c729ebcd:
 
     # mc "I'll hold your head down, slap my thigh if it's too much, alright?"
-    mc "Je vais te baisser la tête, te gifler la cuisse si c'est trop, d'accord ?"
+    mc "Je vais te baisser la tête, te gifler la cuisse si c'est trop, d'accord?"
 
 # game/code/d19/extended/d19s03_ext.rpy:314
 translate french d19s03_bj_2df0c4c8:
@@ -446,13 +446,13 @@ translate french d19s03_sex_33ac1c71:
 translate french d19s03_sex_afe7be29:
 
     # mh "I'm gonna cum. Cum with me, [mcname]. Fill me up!"
-    mh "Je vais jouir. Jouis avec moi, [mcname]. Remplis-moi !"
+    mh "Je vais jouir. Jouis avec moi, [mcname]. Remplis-moi!"
 
 # game/code/d19/extended/d19s03_ext.rpy:494
 translate french d19s03_sex_afe7be29_1:
 
     # mh "I'm gonna cum. Cum with me, [mcname]. Fill me up!"
-    mh "Je vais jouir. Jouis avec moi, [mcname]. Remplis-moi !"
+    mh "Je vais jouir. Jouis avec moi, [mcname]. Remplis-moi!"
 
 # game/code/d19/extended/d19s03_ext.rpy:512
 translate french d19s03_sex_48c45880:
@@ -482,19 +482,19 @@ translate french d19s03_watersports_356a0ad7:
 translate french d19s03_watersports_3755c13d:
 
     # mc "Oh? Well that's not what Allison told me."
-    mc "Oh ? Eh bien, ce n'est pas ce qu'Allison m'a dit."
+    mc "Oh? Eh bien, ce n'est pas ce qu'Allison m'a dit."
 
 # game/code/d19/extended/d19s03_ext.rpy:536
 translate french d19s03_watersports_717d6a67:
 
     # mc "Oh? Well that's not what Allison tol— Uhm."
-    mc "Oh ? Eh bien, ce n'est pas ce qu'Allison a dit... euh."
+    mc "Oh? Eh bien, ce n'est pas ce qu'Allison a dit... euh."
 
 # game/code/d19/extended/d19s03_ext.rpy:539
 translate french d19s03_watersports_45d3e4d9:
 
     # mh "Allison? What did she tell you?"
-    mh "Allison ? Qu'est ce qu'elle t'a dit?"
+    mh "Allison? Qu'est ce qu'elle t'a dit?"
 
 # game/code/d19/extended/d19s03_ext.rpy:541
 translate french d19s03_watersports_9ad822f7:
@@ -512,7 +512,7 @@ translate french d19s03_watersports_7e4ef352:
 translate french d19s03_watersports_06c83c67:
 
     # mh "Allison told you something related to how perverted I am. Meaning, she must've told you something about my fetishes. Am I right?"
-    mh "Allison t'a dit quelque chose en rapport avec ma perversion. Ça veut dire, qu'elle a dû te parler de quelque chose à propos de mes fétiches. J'ai raison ?"
+    mh "Allison t'a dit quelque chose en rapport avec ma perversion. Ça veut dire, qu'elle a dû te parler de quelque chose à propos de mes fétiches. J'ai raison?"
 
 # game/code/d19/extended/d19s03_ext.rpy:548
 translate french d19s03_watersports_b1757273:
@@ -530,7 +530,7 @@ translate french d19s03_watersports_be1be8ef:
 translate french d19s03_watersports_e0890294:
 
     # mc "...Are you sure you're a lawyer and not a detective?"
-    mc "...tu es sûr d'être avocate et pas détective ?"
+    mc "...tu es sûr d'être avocate et pas détective?"
 
 # game/code/d19/extended/d19s03_ext.rpy:555
 translate french d19s03_watersports_fee66916:
@@ -548,7 +548,7 @@ translate french d19s03_watersports_9ecd5f64:
 translate french d19s03_watersports_ee87e6f3:
 
     # mc "Oh?"
-    mc "Oh ?"
+    mc "Oh?"
 
 # game/code/d19/extended/d19s03_ext.rpy:561
 translate french d19s03_watersports_d9c8ab45:
@@ -566,13 +566,13 @@ translate french d19s03_watersports_3208f08e:
 translate french d19s03_watersports_3741843f:
 
     # mh "Can I take that as interest, Sir?"
-    mh "Puis-je considérer ça comme un intérêt, monsieur ?"
+    mh "Puis-je considérer ça comme un intérêt, monsieur?"
 
 # game/code/d19/extended/d19s03_ext.rpy:574
 translate french d19s03_watersports_3413c50d:
 
     # mh "Can I take that as interest?"
-    mh "Je peux considérer ça comme un intérêt ?"
+    mh "Je peux considérer ça comme un intérêt?"
 
 # game/code/d19/extended/d19s03_ext.rpy:576
 translate french d19s03_watersports_d2f6c2a3:
@@ -596,7 +596,7 @@ translate french d19s03_watersports_bb066869:
 translate french d19s03_watersports_4f1df145:
 
     # mh "Look who's insatiable now.{w} Are you sure you can go again?"
-    mh "Regarde qui est insatiable maintenant.{w} Tu es sûr de pouvoir y retourner ?"
+    mh "Regarde qui est insatiable maintenant.{w} Tu es sûr de pouvoir y retourner?"
 
 # game/code/d19/extended/d19s03_ext.rpy:593
 translate french d19s03_watersports_b7c3e657:
@@ -614,7 +614,7 @@ translate french d19s03_watersports_bfb800d4:
 translate french d19s03_watersports_6ad325a1:
 
     # mh "*Squeals* Unfair!"
-    mh "*Crie* Injuste !"
+    mh "*Crie* Injuste!"
 
 # game/code/d19/extended/d19s03_ext.rpy:614
 translate french d19s03_watersports_4a044084:
@@ -650,7 +650,7 @@ translate french d19s03_watersports_289445d8:
 translate french d19s03_watersports_44e0a7eb:
 
     # mh "Yes! Yes! I will."
-    mh "Oui ! Oui! D'accord."
+    mh "Oui! Oui! D'accord."
 
 # game/code/d19/extended/d19s03_ext.rpy:631
 translate french d19s03_watersports_8b4d15c2:
@@ -674,7 +674,7 @@ translate french d19s03_watersports_b1bad84f:
 translate french d19s03_watersports_ce7a1f29:
 
     # mh "*Moans loudly* Fuuuck, I can feel it. I can feel your pee. It feels so good!"
-    mh "*Gémit fort* Putaaain, je peux la sentir. Je peux sentir ta pisse. Ça fait du bien !"
+    mh "*Gémit fort* Putaaain, je peux la sentir. Je peux sentir ta pisse. Ça fait du bien!"
 
 # game/code/d19/extended/d19s03_ext.rpy:696
 translate french d19s03_watersports_2b41adff:
@@ -686,7 +686,7 @@ translate french d19s03_watersports_2b41adff:
 translate french d19s03_watersports_0dd40abc:
 
     # mh "*Heaving* Me too! Cum with me!"
-    mh "*Crie* Moi aussi ! Jouis avec moi !"
+    mh "*Crie* Moi aussi! Jouis avec moi!"
 
 # game/code/d19/extended/d19s03_ext.rpy:738
 translate french d19s03_watersports_4ac502b5:
@@ -728,7 +728,7 @@ translate french d19s03_watersports_70d75732:
 translate french d19s03_watersports_032a7622:
 
     # mh "What do you mean?"
-    mh "Qu'est-ce que tu veux dire ?"
+    mh "Qu'est-ce que tu veux dire?"
 
 # game/code/d19/extended/d19s03_ext.rpy:760
 translate french d19s03_watersports_39c318ed:
@@ -752,7 +752,7 @@ translate french d19s03_watersports_77def31a:
 translate french d19s03_talk_2a46f20b:
 
     # mh "Really!? My God. Thank God you talked to the police about this already."
-    mh "Vraiment !? Mon Dieu. Dieu merci, tu en as déjà parlé à la police."
+    mh "Vraiment!? Mon Dieu. Dieu merci, tu en as déjà parlé à la police."
 
 # game/code/d19/extended/d19s03_ext.rpy:779
 translate french d19s03_talk_ab6925e5:
@@ -764,7 +764,7 @@ translate french d19s03_talk_ab6925e5:
 translate french d19s03_talk_5471239d:
 
     # mh "Why didn't you tell me any of this before?"
-    mh "Pourquoi tu ne m'as rien dit de ça avant ?"
+    mh "Pourquoi tu ne m'as rien dit de ça avant?"
 
 # game/code/d19/extended/d19s03_ext.rpy:781
 translate french d19s03_talk_cf790a2b:
@@ -800,19 +800,19 @@ translate french d19s03_talk_d4a2f771:
 translate french d19s03_talk_9ed673da:
 
     # mct "But is it even worth it? I {i}know{/i} that Zarah will not vote for me no matter what."
-    mct "Mais est-ce que ça vaut le coup ? Je {i}sais{/i} que Zarah ne votera pas pour moi quoi qu'il arrive."
+    mct "Mais est-ce que ça vaut le coup? Je {i}sais{/i} que Zarah ne votera pas pour moi quoi qu'il arrive."
 
 # game/code/d19/extended/d19s03_ext.rpy:795
 translate french d19s03_talk_811695fa:
 
     # mct "What's the point of trying? It'd just be a waste of time anyway."
-    mct "A quoi ça sert d'essayer ? De toute façon, ce serait juste une perte de temps."
+    mct "A quoi ça sert d'essayer? De toute façon, ce serait juste une perte de temps."
 
 # game/code/d19/extended/d19s03_ext.rpy:798
 translate french d19s03_talk_c3eae621:
 
     # mh "What are you thinking about?"
-    mh "A quoi tu penses ?"
+    mh "A quoi tu penses?"
 
 # game/code/d19/extended/d19s03_ext.rpy:809
 translate french d19s03_ask_mh_eb096e82:
@@ -926,7 +926,7 @@ translate french d19s03_ask_mh_8803674d:
 translate french d19s03_ask_mh_d81f879d:
 
     # mc "*Sigh* So in the end, talking with her is my only option, huh?"
-    mc "*Soupir* Donc en fin de compte, lui parler est ma seule option, hein ?"
+    mc "*Soupir* Donc en fin de compte, lui parler est ma seule option, hein?"
 
 # game/code/d19/extended/d19s03_ext.rpy:843
 translate french d19s03_ask_mh_67e02b8f:
@@ -986,7 +986,7 @@ translate french d19s03_ask_mh_e7608abd:
 translate french d19s03_ask_mh_a4fc5b00:
 
     # mc "Are you free tomorrow?"
-    mc "Tu es libre demain ?"
+    mc "Tu es libre demain?"
 
 # game/code/d19/extended/d19s03_ext.rpy:865
 translate french d19s03_ask_mh_1367b8a9:
@@ -1043,3 +1043,4 @@ translate french strings:
     # game/code/d19/extended/d19s03_ext.rpy:409
     old "Jerk off Lyssa"
     new "Branle Lyssa"
+

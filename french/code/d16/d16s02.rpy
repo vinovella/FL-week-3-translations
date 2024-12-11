@@ -8,7 +8,7 @@ translate french d16s02_0eb8c9ee:
 translate french d16s02_fad13f3c:
 
     # arj "Really? It kinda gives me anxiety, to be honest. I disabled all my notifications."
-    arj "Vraiment ? Cela me rend un peu anxieux, pour être honnête. J'ai désactivé toutes mes notifications."
+    arj "Vraiment? Cela me rend un peu anxieux, pour être honnête. J'ai désactivé toutes mes notifications."
 
 # game/code/d16/d16s02.rpy:37
 translate french d16s02_79dba188:
@@ -20,7 +20,7 @@ translate french d16s02_79dba188:
 translate french d16s02_917541a4:
 
     # arj "Everything alright?"
-    arj "Tout va bien ?"
+    arj "Tout va bien?"
 
 # game/code/d16/d16s02.rpy:43
 translate french d16s02_d6c09027:
@@ -44,7 +44,7 @@ translate french d16s02_d902729e:
 translate french d16s02_1e68b190:
 
     # mc "I think I better go back to her place and make sure everything's alright.{w} Wanna come with?"
-    mc "Je pense que je ferais mieux de retourner chez elle et de m'assurer que tout va bien. {w} Tu veux venir avec ?"
+    mc "Je pense que je ferais mieux de retourner chez elle et de m'assurer que tout va bien. {w} Tu veux venir avec?"
 
 # game/code/d16/d16s02.rpy:53
 translate french d16s02_1f49d9b2:
@@ -62,19 +62,19 @@ translate french d16s02_f0389dc6:
 translate french d16s02_42b42580:
 
     # mc "Lydia?{w} Lydia!?"
-    mc "Lydia ?{w} Lydia !?"
+    mc "Lydia?{w} Lydia!?"
 
 # game/code/d16/d16s02.rpy:69
 translate french d16s02_3e6d654b:
 
     # arj "Did you text her—?"
-    arj " Est-ce que tu lui as envoyé un texto… ?"
+    arj " Est-ce que tu lui as envoyé un texto…?"
 
 # game/code/d16/d16s02.rpy:73
 translate french d16s02_0dcd4e1c:
 
     # lc "I'm in the shower! I'll be out in a minute!"
-    lc "Je suis sous la douche ! Je sors dans une minute !"
+    lc "Je suis sous la douche! Je sors dans une minute!"
 
 # game/code/d16/d16s02.rpy:75
 translate french d16s02_5bfd7003:
@@ -104,13 +104,13 @@ translate french d16s02_c543ffcb:
 translate french d16s02_71e9aca5:
 
     # fl "How will {i}you{/i} fare?"
-    fl "Comment allez-vous vous en sortir ?"
+    fl "Comment allez-vous vous en sortir?"
 
 # game/code/d16/d16s02.rpy:88
 translate french d16s02_89c0a9cc:
 
     # arj "Hey! That's an easy one."
-    arj "Hé ! C'est facile."
+    arj "Hé! C'est facile."
 
 # game/code/d16/d16s02.rpy:90
 translate french d16s02_f9a39453:
@@ -146,13 +146,13 @@ translate french d16s02_8a1c74f8:
 translate french d16s02_5528ab4e:
 
     # mc "Oh, oh! Christ. Sorry. Slow on the uptake today."
-    mc "Oh, oh ! Bon Dieu. Désolé. Ralentissez votre rythme aujourd'hui."
+    mc "Oh, oh! Bon Dieu. Désolé. Ralentissez votre rythme aujourd'hui."
 
 # game/code/d16/d16s02.rpy:104
 translate french d16s02_57068398:
 
     # arj "*Giggles* So what do you say?"
-    arj "*Rires* Alors qu'en dis-tu ?"
+    arj "*Rires* Alors qu'en dis-tu?"
 
 # game/code/d16/d16s02.rpy:115
 translate french d16s02_afd74152:
@@ -170,7 +170,7 @@ translate french d16s02_7471c53c:
 translate french d16s02_470d82b2:
 
     # mc "Already wet? Well someone's an eager beaver."
-    mc "Déjà mouillé ? Eh bien, quelqu'un est un castor impatient."
+    mc "Déjà mouillé? Eh bien, quelqu'un est un castor impatient."
 
 # game/code/d16/d16s02.rpy:166
 translate french d16s02_4b405c2c:
@@ -194,13 +194,13 @@ translate french d16s02_9638e18e:
 translate french d16s02_3b0235b8:
 
     # mc "Can you spread yourself for me?"
-    mc "Pouvez-vous vous étendre pour moi ?"
+    mc "Pouvez-vous vous étendre pour moi?"
 
 # game/code/d16/d16s02.rpy:218
 translate french d16s02_1394344b:
 
     # mc "You're close aren't you? I can feel it."
-    mc "Tu es proche, n'est-ce pas ? Je peux le sentir."
+    mc "Tu es proche, n'est-ce pas? Je peux le sentir."
 
 # game/code/d16/d16s02.rpy:219
 translate french d16s02_1f25df7d:

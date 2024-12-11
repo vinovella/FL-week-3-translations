@@ -2,7 +2,7 @@
 translate french d17s06dw_41176219:
 
     # mc "Hello, ladies!"
-    mc "Bonjour les dames !"
+    mc "Bonjour les dames!"
 
 # game/code/d17/d17s06dw.rpy:61
 translate french d17s06dw_decb2652:
@@ -32,13 +32,13 @@ translate french d17s06dw_01f750c3:
 translate french d17s06dw_1e7fb7ce:
 
     # sb "Be nice, Dahlia. We're here to thank him!"
-    sb "Sois gentil, Dahlia. Nous sommes là pour le remercier !"
+    sb "Sois gentil, Dahlia. Nous sommes là pour le remercier!"
 
 # game/code/d17/d17s06dw.rpy:76
 translate french d17s06dw_583b0bfe:
 
     # mc "Thank me? {w}For what?"
-    mc "Remercier ? {w}Pour quoi ?"
+    mc "Remercier? {w}Pour quoi?"
 
 # game/code/d17/d17s06dw.rpy:79
 translate french d17s06dw_e062934c:
@@ -70,7 +70,6 @@ translate french d17s06dw_0b8d4785:
     # dw "Your next words had better be, \"Yes, Mistress. I'm sorry, Mistress."
     dw "Tes prochains mots feraient mieux d'être \"Oui, Maîtresse. Je suis désolé, Maîtresse."
 
-
 # game/code/d17/d17s06dw.rpy:94
 translate french d17s06dw_4f30b519:
 
@@ -81,7 +80,7 @@ translate french d17s06dw_4f30b519:
 translate french d17s06dw_faa42600:
 
     # sb "Seriously?"
-    sb "Sérieusement ?"
+    sb "Sérieusement?"
 
 # game/code/d17/d17s06dw.rpy:102
 translate french d17s06dw_171a1a5b:
@@ -93,7 +92,7 @@ translate french d17s06dw_171a1a5b:
 translate french d17s06dw_23d25068:
 
     # dw "Good boy. Tell me - are you afraid of heights?"
-    dw "Bon garçon. Dis-moi, As-tu le vertige ?"
+    dw "Bon garçon. Dis-moi, As-tu le vertige?"
 
 # game/code/d17/d17s06dw.rpy:108
 translate french d17s06dw_cfb40a80:
@@ -123,7 +122,7 @@ translate french d17s06dw_6e7cdecd:
 translate french d17s06dw_7a35e2f7:
 
     # sb "What was that all about?"
-    sb "C'était quoi tout ça ?"
+    sb "C'était quoi tout ça?"
 
 # game/code/d17/d17s06dw.rpy:126
 translate french d17s06dw_374e9d4c:
@@ -135,13 +134,13 @@ translate french d17s06dw_374e9d4c:
 translate french d17s06dw_4c0a3456:
 
     # sb "Undermines your authority? {w}I'm okay with that."
-    sb "Ça mine ton autorité ? {w}Je suis d'accord avec ça."
+    sb "Ça mine ton autorité? {w}Je suis d'accord avec ça."
 
 # game/code/d17/d17s06dw.rpy:132
 translate french d17s06dw_ee45e64d:
 
     # dw "Didn't you want [mcname] to have fun tonight?"
-    dw "Tu ne voulais pas que [mcname] s'amuse ce soir ?"
+    dw "Tu ne voulais pas que [mcname] s'amuse ce soir?"
 
 # game/code/d17/d17s06dw.rpy:135
 translate french d17s06dw_5fc388fc:
@@ -159,7 +158,7 @@ translate french d17s06dw_d15a51ba:
 translate french d17s06dw_b0d901e8:
 
     # sb "So, what - you expect me to break his balls?"
-    sb "Alors quoi... tu t'attends à ce que je lui casse les couilles ?"
+    sb "Alors quoi... tu t'attends à ce que je lui casse les couilles?"
 
 # game/code/d17/d17s06dw.rpy:144
 translate french d17s06dw_8156b0b0:
@@ -171,7 +170,7 @@ translate french d17s06dw_8156b0b0:
 translate french d17s06dw_9ad8f44d:
 
     # sb "What does that mean?"
-    sb "Qu'est-ce que ça veut dire ?"
+    sb "Qu'est-ce que ça veut dire?"
 
 # game/code/d17/d17s06dw.rpy:150
 translate french d17s06dw_71fa3616:
@@ -183,13 +182,13 @@ translate french d17s06dw_71fa3616:
 translate french d17s06dw_06ba8908:
 
     # sb "*sarcastically* Oh good, my way. Thank you Vizzini. {w}Which way is my way?"
-    sb "*sarcastiquement* Oh bien, à ma façon. Merci Vizzini. {w}Dans quel sens est mon chemin ?"
+    sb "*sarcastiquement* Oh bien, à ma façon. Merci Vizzini. {w}Dans quel sens est mon chemin?"
 
 # game/code/d17/d17s06dw.rpy:157
 translate french d17s06dw_2464f166:
 
     # mc "I have returned with the tickets, Mistress. {w}Uh, Mistresses?"
-    mc "Je suis revenu avec les billets, Maîtresse. {w}Euh, les maîtresses ?"
+    mc "Je suis revenu avec les billets, Maîtresse. {w}Euh, les maîtresses?"
 
 # game/code/d17/d17s06dw.rpy:160
 translate french d17s06dw_890329cc:
@@ -200,7 +199,7 @@ translate french d17s06dw_890329cc:
 # game/code/d17/d17s06dw.rpy:163
 translate french d17s06dw_9566cc04:
 
-   # mc "Thank you, Mistress."
+    # mc "Thank you, Mistress."
     mc "Merci, Maîtresse."
 
 # game/code/d17/d17s06dw.rpy:166
@@ -219,7 +218,7 @@ translate french d17s06dw_2ad44f96:
 translate french d17s06dw_fc889f24:
 
     # dw "Well, for now he'll have to stay off-leash. {w}Are you ready for Walkies?"
-    dw "Eh bien, pour l'instant, il devra rester sans laisse. {w}Es-tu prêt pour les Walkies ?"
+    dw "Eh bien, pour l'instant, il devra rester sans laisse. {w}Es-tu prêt pour les Walkies?"
 
 # game/code/d17/d17s06dw.rpy:175
 translate french d17s06dw_2b35b6fe:
@@ -261,13 +260,13 @@ translate french d17s06dw_54962c52:
 translate french d17s06dw_first_room_f01f33e7:
 
     # mc "Why does everything look like an abandoned sanatorium?"
-    mc "Pourquoi tout ressemble à un sanatorium abandonné ?"
+    mc "Pourquoi tout ressemble à un sanatorium abandonné?"
 
 # game/code/d17/d17s06dw.rpy:210
 translate french d17s06dw_first_room_26062f66:
 
     # dw "It does look like an old mental hospital, doesn't it?"
-    dw "Ça ressemble à un vieil hôpital psychiatrique, n'est-ce pas ?"
+    dw "Ça ressemble à un vieil hôpital psychiatrique, n'est-ce pas?"
 
 # game/code/d17/d17s06dw.rpy:213
 translate french d17s06dw_first_room_d8a71cca:
@@ -279,13 +278,13 @@ translate french d17s06dw_first_room_d8a71cca:
 translate french d17s06dw_first_room_0610bdc7:
 
     # mc "Did it suddenly just get a lot colder in here?"
-    mc "Est-ce qu'il fait soudainement beaucoup plus froid ici ?"
+    mc "Est-ce qu'il fait soudainement beaucoup plus froid ici?"
 
 # game/code/d17/d17s06dw.rpy:219
 translate french d17s06dw_first_room_ca4dd6e7:
 
     # dw "Aww, is the little man frightened already?"
-    dw "Aww, est-ce que le petit homme a déjà peur ?"
+    dw "Aww, est-ce que le petit homme a déjà peur?"
 
 # game/code/d17/d17s06dw.rpy:222
 translate french d17s06dw_first_room_2b6bf2b7:
@@ -321,7 +320,7 @@ translate french d17s06dw_first_room_8f818a35:
 translate french d17s06dw_first_room_58f95e0e:
 
     # dw "What do you think of this one? {w}Is it supposed to be creepy?"
-    dw "Que penses-tu de celui-ci ? {w}Est-ce censé être effrayant ?"
+    dw "Que penses-tu de celui-ci? {w}Est-ce censé être effrayant?"
 
 # game/code/d17/d17s06dw.rpy:247
 translate french d17s06dw_first_room_354af34e:
@@ -339,7 +338,7 @@ translate french d17s06dw_first_room_f7e35999:
 translate french d17s06dw_first_room_cbd9a474:
 
     # mc "GAHHH!"
-    mc "GAHHH !"
+    mc "GAHHH!"
 
 # game/code/d17/d17s06dw.rpy:261
 translate french d17s06dw_first_room_3b30dc63:
@@ -363,7 +362,7 @@ translate french d17s06dw_first_room_2ffab0e0:
 translate french d17s06dw_first_room_c35267a1:
 
     # mct "How can they be so chill about this?"
-    mct "Comment peuvent-elles être si calmes avec ça ?"
+    mct "Comment peuvent-elles être si calmes avec ça?"
 
 # game/code/d17/d17s06dw.rpy:271
 translate french d17s06dw_first_room_819282e8:
@@ -387,7 +386,7 @@ translate french d17s06dw_first_room_3be957d8:
 translate french d17s06dw_first_room_454de4aa:
 
     # sb "Did you do that?"
-    sb "C'est toi qui à fait ça ?"
+    sb "C'est toi qui à fait ça?"
 
 # game/code/d17/d17s06dw.rpy:288
 translate french d17s06dw_first_room_ed005be8:
@@ -399,13 +398,13 @@ translate french d17s06dw_first_room_ed005be8:
 translate french d17s06dw_first_room_24caa905:
 
     # mc "The sounds stopped. {w}Like, there were background noises before?"
-    mc "Les sons se sont arrêtés. {w}Comme, il y avait des bruits de fond avant ?"
+    mc "Les sons se sont arrêtés. {w}Comme, il y avait des bruits de fond avant?"
 
 # game/code/d17/d17s06dw.rpy:298
 translate french d17s06dw_first_room_a23f4dc3:
 
     # sb "Yeah. I don't think it's just us. I think the whole park went dark."
-    sb "Ouais. Je ne pense pas que ce soit juste nous. Je pense que tout le parc est devenu sombre. Plus d'électricité ?"
+    sb "Ouais. Je ne pense pas que ce soit juste nous. Je pense que tout le parc est devenu sombre. Plus d'électricité?"
 
 # game/code/d17/d17s06dw.rpy:301
 translate french d17s06dw_first_room_13400a0c:
@@ -429,7 +428,7 @@ translate french d17s06dw_first_room_5568c00f:
 translate french d17s06dw_first_room_aca56175:
 
     # dw "Yep. {w}Which do you find more terrifying - the dark, or the creepy lighting up ahead?"
-    dw "Ouais. {w}Qu'est-ce que tu trouves le plus terrifiant : L'obscurité ou l'éclairage effrayant qui s'annonce ?"
+    dw "Ouais. {w}Qu'est-ce que tu trouves le plus terrifiant: L'obscurité ou l'éclairage effrayant qui s'annonce?"
 
 # game/code/d17/d17s06dw.rpy:315
 translate french d17s06dw_first_room_0dd8a60e:
@@ -441,13 +440,13 @@ translate french d17s06dw_first_room_0dd8a60e:
 translate french d17s06dw_first_room_844f0afb:
 
     # mc "Yeah, sure. {w}The light doesn't make this place even more creepy, right?"
-    mc "Ouais, bien sûr. {w}La lumière ne rend pas cet endroit encore plus effrayant, n'est-ce pas ?"
+    mc "Ouais, bien sûr. {w}La lumière ne rend pas cet endroit encore plus effrayant, n'est-ce pas?"
 
 # game/code/d17/d17s06dw.rpy:339
 translate french d17s06dw_clown_room_ef394b1d:
 
     # mc "Fuck! {w}This is the scariest room yet."
-    mc "Putain ! {w}C'est la pièce la plus effrayante à ce jour."
+    mc "Putain! {w}C'est la pièce la plus effrayante à ce jour."
 
 # game/code/d17/d17s06dw.rpy:342
 translate french d17s06dw_clown_room_f2c62be9:
@@ -471,7 +470,7 @@ translate french d17s06dw_clown_room_716f8d2d:
 translate french d17s06dw_clown_room_19fe3dab:
 
     # mc "That doesn't bother you??? That thing freaks me the fuck out."
-    mc "Ça ne te dérange pas ??? Ce truc me fait vraiment flipper."
+    mc "Ça ne te dérange pas??? Ce truc me fait vraiment flipper."
 
 # game/code/d17/d17s06dw.rpy:354
 translate french d17s06dw_clown_room_2c8138e5:
@@ -483,19 +482,19 @@ translate french d17s06dw_clown_room_2c8138e5:
 translate french d17s06dw_clown_room_7f16e184:
 
     # mc "What thing?"
-    mc "Quoi ?"
+    mc "Quoi?"
 
 # game/code/d17/d17s06dw.rpy:360
 translate french d17s06dw_clown_room_3499f73a:
 
     # dw "Slave! Listen to your Mistress. Come stand her in front of me."
-    dw "Esclave ! Écoute ta Maîtresse. Viens la mettre devant moi."
+    dw "Esclave! Écoute ta Maîtresse. Viens la mettre devant moi."
 
 # game/code/d17/d17s06dw.rpy:363
 translate french d17s06dw_clown_room_afa307c1:
 
     # mc "In front of the scary clown?"
-    mc "Devant le clown effrayant ?"
+    mc "Devant le clown effrayant?"
 
 # game/code/d17/d17s06dw.rpy:366
 translate french d17s06dw_clown_room_f06a5419:
@@ -519,19 +518,19 @@ translate french d17s06dw_clown_room_0d68882e:
 translate french d17s06dw_clown_room_55310c42:
 
     # mc "Seriously?"
-    mc "Sérieusement ?"
+    mc "Sérieusement?"
 
 # game/code/d17/d17s06dw.rpy:379
 translate french d17s06dw_clown_room_0ab77972:
 
     # dw "Why not? {w}We've got the place all to ourselves."
-    dw "Pourquoi pas ? {w}Nous avons l'endroit pour nous tous seuls."
+    dw "Pourquoi pas? {w}Nous avons l'endroit pour nous tous seuls."
 
 # game/code/d17/d17s06dw.rpy:381
 translate french d17s06dw_clown_room_e8c922e5:
 
     # mc "Seriously??"
-    mc "Sérieusement ??"
+    mc "Sérieusement??"
 
 # game/code/d17/d17s06dw.rpy:384
 translate french d17s06dw_clown_room_8575e379:
@@ -543,7 +542,7 @@ translate french d17s06dw_clown_room_8575e379:
 translate french d17s06dw_clown_room_63572980:
 
     # dw "Listen to your Mistress. {w}NOW STRIP!"
-    dw "Écoute ta maîtresse. {w}MAINTENANT DÉSAPPE TOI !"
+    dw "Écoute ta maîtresse. {w}MAINTENANT DÉSAPPE TOI!"
 
 # game/code/d17/d17s06dw.rpy:390
 translate french d17s06dw_clown_room_c0052b5c:
@@ -561,7 +560,7 @@ translate french d17s06dw_clown_room_deee5d98:
 translate french d17s06dw_clown_room_1c19e85d:
 
     # sb "Does it? Why?"
-    sb "C'est vrai ? Pourquoi?"
+    sb "C'est vrai? Pourquoi?"
 
 # game/code/d17/d17s06dw.rpy:399
 translate french d17s06dw_clown_room_466bc830:
@@ -573,7 +572,7 @@ translate french d17s06dw_clown_room_466bc830:
 translate french d17s06dw_clown_room_cdb82408:
 
     # sb "What does that mean? He's going to pay my bills, get me some ice cream, and lick my cunt?"
-    sb "Qu'est-ce que ça veut dire ? Il va payer mes factures, m'acheter de la glace et me lécher la chatte ?"
+    sb "Qu'est-ce que ça veut dire? Il va payer mes factures, m'acheter de la glace et me lécher la chatte?"
 
 # game/code/d17/d17s06dw.rpy:405
 translate french d17s06dw_clown_room_79134cbc:
@@ -597,13 +596,13 @@ translate french d17s06dw_clown_room_fbc6352e:
 translate french d17s06dw_clown_room_80645560:
 
     # sb "What the hell, Dahlia?"
-    sb "Qu'est-ce que tu fous, Dahlia ?"
+    sb "Qu'est-ce que tu fous, Dahlia?"
 
 # game/code/d17/d17s06dw.rpy:415
 translate french d17s06dw_clown_room_d2be6260:
 
     # sb "You think that just because I'm a whore my favorite thing in the whole damn world is getting some dick in my ass?!"
-    sb "Tu penses que juste parce que je suis une pute, mon truc préféré au monde, c'est de me mettre une bite dans le cul ?!"
+    sb "Tu penses que juste parce que je suis une pute, mon truc préféré au monde, c'est de me mettre une bite dans le cul?!"
 
 # game/code/d17/d17s06dw.rpy:418
 translate french d17s06dw_clown_room_9f5841fe:
@@ -621,7 +620,7 @@ translate french d17s06dw_clown_room_6cefcbac:
 translate french d17s06dw_clown_room_dbad1d81:
 
     # dw "Do you even remember your 18th birthday party?"
-    dw "Tu te souviens au moins de ta fête de 18 ans ?"
+    dw "Tu te souviens au moins de ta fête de 18 ans?"
 
 # game/code/d17/d17s06dw.rpy:427
 translate french d17s06dw_clown_room_77213280:
@@ -633,7 +632,7 @@ translate french d17s06dw_clown_room_77213280:
 translate french d17s06dw_clown_room_ac33cf78:
 
     # dw "Has something changed since then?"
-    dw "Est-ce que quelque chose a changé depuis ?"
+    dw "Est-ce que quelque chose a changé depuis?"
 
 # game/code/d17/d17s06dw.rpy:433
 translate french d17s06dw_clown_room_9d6ea1fa:
@@ -645,7 +644,7 @@ translate french d17s06dw_clown_room_9d6ea1fa:
 translate french d17s06dw_clown_room_87aa7ebe:
 
     # dw "I'm sorry, what was that?"
-    dw "Je suis désolée, c'était quoi ?"
+    dw "Je suis désolée, c'était quoi?"
 
 # game/code/d17/d17s06dw.rpy:439
 translate french d17s06dw_clown_room_7abb6a1f:
@@ -657,7 +656,7 @@ translate french d17s06dw_clown_room_7abb6a1f:
 translate french d17s06dw_clown_room_baf550b7:
 
     # mct "Can girls even get blue balls?"
-    mct "Les filles peuvent-elles même avoir des couilles bleues ?"
+    mct "Les filles peuvent-elles même avoir des couilles bleues?"
 
 # game/code/d17/d17s06dw.rpy:452
 translate french d17s06dw_clown_room_f09e6461:
@@ -669,8 +668,7 @@ translate french d17s06dw_clown_room_f09e6461:
 translate french d17s06dw_clown_room_1e0599c7:
 
     # dw "OR ELSE. {w}Do I make myself understood?"
-    dw "OU SINON. {w}Est-ce que je me fais comprendre ?"
-
+    dw "OU SINON. {w}Est-ce que je me fais comprendre?"
 
 # game/code/d17/d17s06dw.rpy:458
 translate french d17s06dw_clown_room_7fd3a623_1:
@@ -694,7 +692,7 @@ translate french d17s06dw_clown_room_2bbbef16:
 translate french d17s06dw_clown_room_a8b964f8:
 
     # dw "Aww, does this scary little thing make your pee-pee all limp and useless?"
-    dw "Aww, est-ce que cette petite chose effrayante rend ton pipi tout mou et inutile ?"
+    dw "Aww, est-ce que cette petite chose effrayante rend ton pipi tout mou et inutile?"
 
 # game/code/d17/d17s06dw.rpy:472
 translate french d17s06dw_clown_room_fe33c121:
@@ -718,13 +716,13 @@ translate french d17s06dw_clown_room_c32ad71a:
 translate french d17s06dw_clown_room_15d94cc9:
 
     # mc "Wait. Is that a cadaver cart?"
-    mc "Attends. C'est un chariot à cadavres ?"
+    mc "Attends. C'est un chariot à cadavres?"
 
 # game/code/d17/d17s06dw.rpy:487
 translate french d17s06dw_clown_room_23056262:
 
     # sb "Are you ready for me yet, stud?"
-    sb "Tu es prêt pour moi, mon pote ?"
+    sb "Tu es prêt pour moi, mon pote?"
 
 # game/code/d17/d17s06dw.rpy:492
 translate french d17s06dw_clown_room_291f4320:
@@ -754,7 +752,7 @@ translate french d17s06dw_clown_room_56f45037:
 translate french d17s06dw_clown_room_ec1803f8:
 
     # mct "YES yes YES yes!"
-    mct "OUI oui OUI oui !"
+    mct "OUI oui OUI oui!"
 
 # game/code/d17/d17s06dw.rpy:505
 translate french d17s06dw_clown_room_344ff11c:
@@ -766,7 +764,7 @@ translate french d17s06dw_clown_room_344ff11c:
 translate french d17s06dw_clown_room_9419880a:
 
     # mct "This is a fucking dream cum true!"
-    mct "C'est un putain de rêve devenu réalité !"
+    mct "C'est un putain de rêve devenu réalité!"
 
 # game/code/d17/d17s06dw.rpy:513
 translate french d17s06dw_clown_room_e925112f:
@@ -856,13 +854,13 @@ translate french d17s06dw_clown_room_1dfaeb17:
 translate french d17s06dw_clown_room_e62a5954:
 
     # sb "So, are you a reluctant submissive?"
-    sb "Alors, tu es un soumis réticent ?"
+    sb "Alors, tu es un soumis réticent?"
 
 # game/code/d17/d17s06dw.rpy:575
 translate french d17s06dw_clown_room_fd4eab1d:
 
     # sb "Or do you just get off on Dahlia ordering you around?"
-    sb "Ou tu laisses faire Dahlia pour te donner des ordres ?"
+    sb "Ou tu laisses faire Dahlia pour te donner des ordres?"
 
 # game/code/d17/d17s06dw.rpy:578
 translate french d17s06dw_clown_room_a111d345:
@@ -880,19 +878,19 @@ translate french d17s06dw_clown_room_abd765d2:
 translate french d17s06dw_clown_room_a66be8e1:
 
     # sb "Fuck!"
-    sb "Putain !"
+    sb "Putain!"
 
 # game/code/d17/d17s06dw.rpy:632
 translate french d17s06dw_clown_room_def0ad19:
 
     # mc "What is it?"
-    mc "Qu'est-ce qu'il y a ?"
+    mc "Qu'est-ce qu'il y a?"
 
 # game/code/d17/d17s06dw.rpy:635
 translate french d17s06dw_clown_room_825db2af:
 
     # sb "I'M GOING TO CUM SOON!!"
-    sb "Je vais bientôt jouir !!"
+    sb "Je vais bientôt jouir!!"
 
 # game/code/d17/d17s06dw.rpy:640
 translate french d17s06dw_clown_room_026ac64a:
@@ -946,13 +944,13 @@ translate french d17s06dw_clown_room_48bac1de:
 translate french d17s06dw_clown_room_1b8fd748:
 
     # mc "She put my balls in a vise!"
-    mc "Elle m'a mis les couilles dans un étau !"
+    mc "Elle m'a mis les couilles dans un étau!"
 
 # game/code/d17/d17s06dw.rpy:679
 translate french d17s06dw_clown_room_236a5e27:
 
-    # dw "Is that a « Yes » or a \"No\", slave?"
-    dw "C'est un « Oui » ou un \"Non\", esclave ?"
+    # dw "Is that a "Yes\" or a \"No\", slave?"
+    dw "C'est un \"Oui\" ou un \"Non\", esclave?"
 
 # game/code/d17/d17s06dw.rpy:682
 translate french d17s06dw_clown_room_290eb067:
@@ -1030,7 +1028,7 @@ translate french d17s06dw_clown_room_3b14a328:
 translate french d17s06dw_clown_room_69cabffc:
 
     # mc "Ladies, ladies. Please. {w}Can we just get the hell out of here?"
-    mc "Mesdames, mesdames. S'il te plaît. {w}Pouvons-nous juste foutre le camp d'ici ?"
+    mc "Mesdames, mesdames. S'il te plaît. {w}Pouvons-nous juste foutre le camp d'ici?"
 
 # game/code/d17/d17s06dw.rpy:756
 translate french d17s06dw_clown_room_80d88165:
@@ -1042,7 +1040,7 @@ translate french d17s06dw_clown_room_80d88165:
 translate french d17s06dw_clown_room_b16113ca:
 
     # dw "Is that your phone?"
-    dw "C'est ton téléphone ?"
+    dw "C'est ton téléphone?"
 
 # game/code/d17/d17s06dw.rpy:763
 translate french d17s06dw_clown_room_2b618890:
@@ -1072,7 +1070,7 @@ translate french d17s06dw_clown_room_ae1dd831:
 translate french d17s06dw_clown_room_f49fff8f:
 
     # mc "Yeah?"
-    mc "Ouais ?"
+    mc "Ouais?"
 
 # game/code/d17/d17s06dw.rpy:788
 translate french d17s06dw_clown_room_a238b19c:
@@ -1108,19 +1106,19 @@ translate french d17s06dw_clown_room_6a1a3249_1:
 translate french d17s06dw_breakup_1538d80a:
 
     # mc "Heya Dahlia!"
-    mc "Salut Dahlia !"
+    mc "Salut Dahlia!"
 
 # game/code/d17/d17s06dw.rpy:830
 translate french d17s06dw_breakup_08226ef3:
 
     # dw "Hey, [mcname]. {w}Let's keep this short, okay?"
-    dw "Hé, [mcname]. {w}Soyons brefs, d'accord ?"
+    dw "Hé, [mcname]. {w}Soyons brefs, d'accord?"
 
 # game/code/d17/d17s06dw.rpy:833
 translate french d17s06dw_breakup_e2734edd:
 
     # mc "Huh? {w}What's going on?"
-    mc "Hein ? {w}Que se passe-t-il ?"
+    mc "Hein? {w}Que se passe-t-il?"
 
 # game/code/d17/d17s06dw.rpy:836
 translate french d17s06dw_breakup_17da9b8f:
@@ -1132,13 +1130,13 @@ translate french d17s06dw_breakup_17da9b8f:
 translate french d17s06dw_breakup_9a45d107:
 
     # mc "What?! {w}What are you talking about???"
-    mc "Quoi?! {w}De quoi tu parles ???"
+    mc "Quoi?! {w}De quoi tu parles???"
 
 # game/code/d17/d17s06dw.rpy:842
 translate french d17s06dw_breakup_0c74839a:
 
     # dw "Did I stutter? I'm done with you. Find yourself another mistress to displease."
-    dw "Est-ce que j'ai bégayé ? J'en ai fini avec toi. Trouve-toi une autre maîtresse à déplaire."
+    dw "Est-ce que j'ai bégayé? J'en ai fini avec toi. Trouve-toi une autre maîtresse à déplaire."
 
 # game/code/d17/d17s06dw.rpy:844
 translate french d17s06dw_breakup_528accdb:
@@ -1162,4 +1160,5 @@ translate french d17s06dw_breakup_5a5d11e7:
 translate french d17s06dw_breakup_6525077f:
 
     # mct "What the fuck just happened?"
-    mct "Qu'est-ce qui vient de se passer ?"
+    mct "Qu'est-ce qui vient de se passer?"
+

@@ -50,13 +50,13 @@ translate french d20s09_1d0c2ab8:
 translate french d20s09_2e11b3a0:
 
     # mct "What the fuck was I even thinking?"
-    mct "A quoi je pensais, putain ?"
+    mct "A quoi je pensais, putain?"
 
 # game/code/d20/d20s09.rpy:63
 translate french d20s09_69705684:
 
     # mc "Hana?"
-    mc "Hana ?"
+    mc "Hana?"
 
 # game/code/d20/d20s09.rpy:66
 translate french d20s09_c460b311:
@@ -68,7 +68,7 @@ translate french d20s09_c460b311:
 translate french d20s09_9d83a8e2:
 
     # mc "What are you doing here?"
-    mc "Qu'est-ce que tu fais ici ?"
+    mc "Qu'est-ce que tu fais ici?"
 
 # game/code/d20/d20s09.rpy:73
 translate french d20s09_75d4a30e:
@@ -92,7 +92,7 @@ translate french d20s09_725dd40d:
 translate french d20s09_5d16f2db:
 
     # mc "You bugged us!?"
-    mc "Tu nous as mis sur écoute !?"
+    mc "Tu nous as mis sur écoute!?"
 
 # game/code/d20/d20s09.rpy:88
 translate french d20s09_b19004c5:
@@ -122,7 +122,7 @@ translate french d20s09_40b15e29:
 translate french d20s09_6cdbfeb8:
 
     # mc "Anything to get the next scoop, huh?"
-    mc "Quelque chose pour avoir le prochain scoop, hein ?"
+    mc "Quelque chose pour avoir le prochain scoop, hein?"
 
 # game/code/d20/d20s09.rpy:101
 translate french d20s09_750ad2dc:
@@ -140,7 +140,7 @@ translate french d20s09_5e44a000:
 translate french d20s09_3c080419:
 
     # hr "So... How are you holding up?"
-    hr "Alors... Comment vas-tu ?"
+    hr "Alors... Comment vas-tu?"
 
 # game/code/d20/d20s09.rpy:112
 translate french d20s09_06479523:
@@ -170,19 +170,19 @@ translate french d20s09_2866c342:
 translate french d20s09_dbdca6d1:
 
     # mc "When have you ever worried about being rude to me, Hana? Spit it out."
-    mc "Quand as-tu déjà eu peur d'être impoli avec moi, Hana ? Crache le morceau."
+    mc "Quand as-tu déjà eu peur d'être impoli avec moi, Hana? Crache le morceau."
 
 # game/code/d20/d20s09.rpy:127
 translate french d20s09_ab0917df:
 
     # hr "Do you still give a shit about her?"
-    hr "Tu t'en fous toujours d'elle ?"
+    hr "Tu t'en fous toujours d'elle?"
 
 # game/code/d20/d20s09.rpy:128
 translate french d20s09_04019035:
 
     # hr "She's some spoiled little brat that got too big for her breeches. What do you even see in her beyond a pair of tits?"
-    hr "C'est une petite gamine gâtée qui est devenue trop grande pour sa culotte. Qu'est-ce que tu vois en elle à part une paire de seins ?"
+    hr "C'est une petite gamine gâtée qui est devenue trop grande pour sa culotte. Qu'est-ce que tu vois en elle à part une paire de seins?"
 
 # game/code/d20/d20s09.rpy:132
 translate french d20s09_d56e93fa:
@@ -206,13 +206,13 @@ translate french d20s09_dc1de0ea:
 translate french d20s09_0464fb34:
 
     # hr "Yeah? And? She didn't give a damn about you."
-    hr "Ouais ? Et? Elle s'en foutait de toi."
+    hr "Ouais? Et? Elle s'en foutait de toi."
 
 # game/code/d20/d20s09.rpy:143
 translate french d20s09_055e2526:
 
     # mc "What's your point, Hana? Did you just come here to tell me I'm a dumbass?"
-    mc "Qu'est-ce que tu veux dire, Hana ? Tu es juste venu ici pour me dire que je suis un idiot ?"
+    mc "Qu'est-ce que tu veux dire, Hana? Tu es juste venu ici pour me dire que je suis un idiot?"
 
 # game/code/d20/d20s09.rpy:146
 translate french d20s09_d222cb10:
@@ -236,7 +236,7 @@ translate french d20s09_45f40701:
 translate french d20s09_e24f7666:
 
     # mc "So why should I feel bad that she turned out to be what she is? Is that what you're saying?"
-    mc "Alors pourquoi devrais-je me sentir mal qu'elle soit devenue ce qu'elle est ? C'est ce que tu dis ?"
+    mc "Alors pourquoi devrais-je me sentir mal qu'elle soit devenue ce qu'elle est? C'est ce que tu dis?"
 
 # game/code/d20/d20s09.rpy:156
 translate french d20s09_6c1aec27:
@@ -260,13 +260,13 @@ translate french d20s09_50dc138f:
 translate french d20s09_09b12965:
 
     # mc "Hey. You wanna stay over?"
-    mc "Hé. Tu veux rester ici ?"
+    mc "Hé. Tu veux rester ici?"
 
 # game/code/d20/d20s09.rpy:168
 translate french d20s09_70eaa0aa:
 
     # hr "Hm? Here?"
-    hr "Hum ? Ici?"
+    hr "Hum? Ici?"
 
 # game/code/d20/d20s09.rpy:171
 translate french d20s09_786f7661:
@@ -290,19 +290,19 @@ translate french d20s09_ce301fad:
 translate french d20s09_84cf8415:
 
     # hr "Can I ask you a question?"
-    hr "Je peux te poser une question ?"
+    hr "Je peux te poser une question?"
 
 # game/code/d20/d20s09.rpy:182
 translate french d20s09_0008b03d:
 
     # mc "A question? Sure, as long as I don't get lamblasted again."
-    mc "Une question ? Bien sûr, tant que je ne me fais pas encore critiquer."
+    mc "Une question? Bien sûr, tant que je ne me fais pas encore critiquer."
 
 # game/code/d20/d20s09.rpy:184
 translate french d20s09_c1446c9d:
 
-    # hr "I'm pretty sure it's « lambasted. »"
-    hr "Je suis presque sûr que c'est « fustigé ». "
+    # hr "I'm pretty sure it's \" lambasted.\""
+    hr "Je suis presque sûr que c'est \" fustigé\". "
 
 # game/code/d20/d20s09.rpy:186
 translate french d20s09_f0659f60:
@@ -314,13 +314,13 @@ translate french d20s09_f0659f60:
 translate french d20s09_177c6fb0:
 
     # hr "*Chuckles* I guess. Anyway, I wanted to ask if you expected this to go somewhere?"
-    hr "*Rires* Je suppose. Bref, je voulais te demander si tu t'attendais à ce que ça aboutisse quelque part ?"
+    hr "*Rires* Je suppose. Bref, je voulais te demander si tu t'attendais à ce que ça aboutisse quelque part?"
 
 # game/code/d20/d20s09.rpy:192
 translate french d20s09_b86fdf8c:
 
-    # mc "Define « this. »"
-    mc "Définit « ça ». "
+    # mc "Define \" this.\""
+    mc "Définit \" ça\". "
 
 # game/code/d20/d20s09.rpy:195
 translate french d20s09_bdb52748:
@@ -332,7 +332,7 @@ translate french d20s09_bdb52748:
 translate french d20s09_996772e0:
 
     # mc "Are you asking if I expected us to have sex here or are you asking if I wanted more from our relationship?"
-    mc "Tu me demandes si je m'attendais à ce que nous fassions l'amour ici ou tu me demandes si je voulais plus de notre relation ?"
+    mc "Tu me demandes si je m'attendais à ce que nous fassions l'amour ici ou tu me demandes si je voulais plus de notre relation?"
 
 # game/code/d20/d20s09.rpy:200
 translate french d20s09_7da0eb33:
@@ -356,13 +356,13 @@ translate french d20s09_47781a9c:
 translate french d20s09_857d3f0f:
 
     # hr "*Chuckles* Fair enough. What can I say? I like to be comfortable."
-    hr "*Rires* Très bien. Qu'est-ce que je peux dire ? J'aime être à l'aise."
+    hr "*Rires* Très bien. Qu'est-ce que je peux dire? J'aime être à l'aise."
 
 # game/code/d20/d20s09.rpy:208
 translate french d20s09_06c92890:
 
     # hr "And what about the other thing?"
-    hr "Et qu'en est-il de l'autre chose ?"
+    hr "Et qu'en est-il de l'autre chose?"
 
 # game/code/d20/d20s09.rpy:211
 translate french d20s09_689943e9:
@@ -404,7 +404,7 @@ translate french d20s09_e847f435:
 translate french d20s09_2b528ca8:
 
     # mc "Other things? Like Iona and—"
-    mc "D'autres choses ? Comme Iona et..."
+    mc "D'autres choses? Comme Iona et..."
 
 # game/code/d20/d20s09.rpy:228
 translate french d20s09_79dba34b:
@@ -483,3 +483,4 @@ translate french d20s09_826b7f32:
 
     # mc "Goodnight, Hana."
     mc "Bonne nuit, Hana."
+

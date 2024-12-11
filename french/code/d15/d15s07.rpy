@@ -14,7 +14,7 @@ translate french d15s07_202c1813:
 translate french d15s07_bbe9c2b8:
 
     # mct "Wait. {w}Is Lydia singing?"
-    mct "Attendez. {w}Est-ce que Lydia chante ?"
+    mct "Attendez. {w}Est-ce que Lydia chante?"
 
 # game/code/d15/d15s07.rpy:61
 translate french d15s07_571dbfd7:
@@ -32,7 +32,7 @@ translate french d15s07_e108488d:
 translate french d15s07_b307f468:
 
     # lc "...You're everything to me. {w}Hey!"
-    lc "...Tu es tout pour moi. {w}Hé !"
+    lc "...Tu es tout pour moi. {w}Hé!"
 
 # game/code/d15/d15s07.rpy:66
 translate french d15s07_bdcc2157:
@@ -80,7 +80,7 @@ translate french d15s07_a97e6b0b:
 translate french d15s07_6f1f01ee:
 
     # mes "Perfect timing!"
-    mes "Moment parfait !"
+    mes "Moment parfait!"
 
 # game/code/d15/d15s07.rpy:87
 translate french d15s07_df51a2bf:
@@ -110,7 +110,7 @@ translate french d15s07_20d2d54c:
 translate french d15s07_4df762e2:
 
     # mc "Oh, right. What can I do for you two?"
-    mc "Oh, c'est vrai. Que puis-je faire pour vous deux ?"
+    mc "Oh, c'est vrai. Que puis-je faire pour vous deux?"
 
 # game/code/d15/d15s07.rpy:105
 translate french d15s07_47db7a19:
@@ -146,7 +146,7 @@ translate french d15s07_f8d554f1:
 translate french d15s07_ef353ec7:
 
     # mc "So, I'm here for moral support? To help Lydia get through this?"
-    mc "Alors, je suis là pour un soutien moral ? Pour aider Lydia à traverser ça ?"
+    mc "Alors, je suis là pour un soutien moral? Pour aider Lydia à traverser ça?"
 
 # game/code/d15/d15s07.rpy:122
 translate french d15s07_d2e9ac07:
@@ -164,7 +164,7 @@ translate french d15s07_a7ac26ef:
 translate french d15s07_ec8e46f3:
 
     # mes "That said... {w}would you like something to drink, [mcname]?"
-    mes "Cela dit... {w}voudriez-vous quelque chose à boire, [mcname] ?"
+    mes "Cela dit... {w}voudriez-vous quelque chose à boire, [mcname]?"
 
 # game/code/d15/d15s07.rpy:134
 translate french d15s07_ccaddf9b:
@@ -176,7 +176,7 @@ translate french d15s07_ccaddf9b:
 translate french d15s07_1960a343:
 
     # mes "Alright! Let's get naked and hop into the shower."
-    mes "Très bien ! Mettons-nous nus et sautons sous la douche."
+    mes "Très bien! Mettons-nous nus et sautons sous la douche."
 
 # game/code/d15/d15s07.rpy:146
 translate french d15s07_15a8abfe:
@@ -188,7 +188,7 @@ translate french d15s07_15a8abfe:
 translate french d15s07_e233d25b:
 
     # mes "Oh! Sure, let's get nude and hop into the shower."
-    mes "Oh ! Bien sûr, mettons-nous nus et sautons sous la douche."
+    mes "Oh! Bien sûr, mettons-nous nus et sautons sous la douche."
 
 # game/code/d15/d15s07.rpy:158
 translate french d15s07_5050c37d:
@@ -230,7 +230,7 @@ translate french d15s07_whatsthat_11ef2016:
 translate french d15s07_whatsthat_54e69afd:
 
     # mc "You told her about that?!"
-    mc "Tu lui en as parlé ?!"
+    mc "Tu lui en as parlé?!"
 
 # game/code/d15/d15s07.rpy:187
 translate french d15s07_whatsthat_79c07997:
@@ -272,13 +272,13 @@ translate french d15s07_whatsthat_cf60ecb4:
 translate french d15s07_whatsthat_757eec62:
 
     # mes "Right! Let's get down to business."
-    mes "Bien ! Passons aux choses sérieuses."
+    mes "Bien! Passons aux choses sérieuses."
 
 # game/code/d15/d15s07.rpy:208
 translate french d15s07_whatsthat_df9adb7d:
 
     # lc "To defeat... the Huns!"
-    lc "Pour vaincre... les Huns !"
+    lc "Pour vaincre... les Huns!"
 
 # game/code/d15/d15s07.rpy:223
 translate french d15s07_mes_pee_on_mc_30aa8a8b:
@@ -290,7 +290,7 @@ translate french d15s07_mes_pee_on_mc_30aa8a8b:
 translate french d15s07_mes_pee_on_mc_6880d8ee:
 
     # mc "Huh? What's wrong?"
-    mc "Hein ? Qu'est-ce qui ne va pas ?"
+    mc "Hein? Qu'est-ce qui ne va pas?"
 
 # game/code/d15/d15s07.rpy:231
 translate french d15s07_mes_pee_on_mc_c29a6966:
@@ -338,7 +338,7 @@ translate french d15s07_mes_pee_on_mc_c6b253e2:
 translate french d15s07_mes_pee_on_mc_7cef74fe:
 
     # mc "Are you okay if I pee on her, though?"
-    mc "Mais est-ce que ça va si je fais pipi sur elle ?"
+    mc "Mais est-ce que ça va si je fais pipi sur elle?"
 
 # game/code/d15/d15s07.rpy:259
 translate french d15s07_mes_pee_on_mc_8aafd34a:
@@ -356,7 +356,7 @@ translate french d15s07_mes_pee_on_mc_f60f089e:
 translate french d15s07_mes_pee_on_mc_5c7898e3:
 
     # mes "Would it be alright if I kiss him?"
-    mes "Est-ce que ça irait si je l'embrassais ?"
+    mes "Est-ce que ça irait si je l'embrassais?"
 
 # game/code/d15/d15s07.rpy:268
 translate french d15s07_mes_pee_on_mc_2aecf99c:
@@ -374,7 +374,7 @@ translate french d15s07_mes_pee_on_mc_0f6406fc:
 translate french d15s07_mes_pee_on_mc_e042bc51:
 
     # lc "Huh? {w}Why would you want to do that?"
-    lc "Hein ? {w}Pourquoi voudriez-vous faire ça ?"
+    lc "Hein? {w}Pourquoi voudriez-vous faire ça?"
 
 # game/code/d15/d15s07.rpy:276
 translate french d15s07_mes_pee_on_mc_c3e0048d:
@@ -398,7 +398,7 @@ translate french d15s07_mes_pee_on_mc_3f2807dd:
 translate french d15s07_mes_pee_on_mc_a483b787:
 
     # lc "Hmm. Is this one of those times when I'm supposed to get jealous?"
-    lc "Hmm. Est-ce que c'est un de ces moments où je suis censée devenir jalouse ?"
+    lc "Hmm. Est-ce que c'est un de ces moments où je suis censée devenir jalouse?"
 
 # game/code/d15/d15s07.rpy:286
 translate french d15s07_mes_pee_on_mc_84908641:
@@ -422,7 +422,7 @@ translate french d15s07_mes_pee_on_mc_cf2f760d:
 translate french d15s07_mes_pee_on_mc_11de420c:
 
     # mes "Are you good with this? Making out with me in front of your girlfriend?"
-    mes "Est-ce que tu es d'accord avec ça ? M'embrasser devant ta petite amie ?"
+    mes "Est-ce que tu es d'accord avec ça? M'embrasser devant ta petite amie?"
 
 # game/code/d15/d15s07.rpy:296
 translate french d15s07_mes_pee_on_mc_9c7a027a:
@@ -440,7 +440,7 @@ translate french d15s07_mes_pee_on_mc_aa78ecb4:
 translate french d15s07_mes_pee_on_mc_3d3b7a70:
 
     # lc "Okay. That is HOT!"
-    lc "D'accord. C'est CHAUD !"
+    lc "D'accord. C'est CHAUD!"
 
 # game/code/d15/d15s07.rpy:313
 translate french d15s07_mes_pee_on_mc_e1e1022a:
@@ -452,7 +452,7 @@ translate french d15s07_mes_pee_on_mc_e1e1022a:
 translate french d15s07_mc_pee_on_mes_c7a1d3bc:
 
     # mes "Huh. Is this going to be a problem?"
-    mes "Hein. Est-ce que ça va être un problème ?"
+    mes "Hein. Est-ce que ça va être un problème?"
 
 # game/code/d15/d15s07.rpy:330
 translate french d15s07_mc_pee_on_mes_822a27fe:
@@ -482,13 +482,13 @@ translate french d15s07_mc_pee_on_mes_b5960a3a:
 translate french d15s07_mc_pee_on_mes_71151f60:
 
     # lc "You mean because you've got one beautiful naked woman on her knees before your cock while your girlfriend is watching?"
-    lc "Tu veux dire parce que tu as une belle femme nue à genoux devant ta bite pendant que ta copine regarde ?"
+    lc "Tu veux dire parce que tu as une belle femme nue à genoux devant ta bite pendant que ta copine regarde?"
 
 # game/code/d15/d15s07.rpy:355
 translate french d15s07_mc_pee_on_mes_067eda88:
 
     # mes "How is that helpful?"
-    mes "En quoi est-ce utile ?"
+    mes "En quoi est-ce utile?"
 
 # game/code/d15/d15s07.rpy:357
 translate french d15s07_mc_pee_on_mes_5165b85b:
@@ -524,7 +524,7 @@ translate french d15s07_mc_pee_on_mes_8c51b289:
 translate french d15s07_mc_pee_on_mes_f03ff917:
 
     # lc "What? Oh! Dammit, I'm sorry."
-    lc "Quoi ? Oh ! Bon sang, je suis désolée."
+    lc "Quoi? Oh! Bon sang, je suis désolée."
 
 # game/code/d15/d15s07.rpy:409
 translate french d15s07_mc_pee_on_mes_ae54c048:
@@ -590,7 +590,7 @@ translate french d15s07_lc_pee_on_mes_d4df3209:
 translate french d15s07_lc_pee_on_mes_7dfe2fc2:
 
     # mc "Min, I want you to focus your self-control on not making physical contact with my girlfriend. Okay?"
-    mc "Min, je veux que tu concentres ta maîtrise de soi sur le fait de ne pas établir de contact physique avec ma petite amie. D'accord ?"
+    mc "Min, je veux que tu concentres ta maîtrise de soi sur le fait de ne pas établir de contact physique avec ma petite amie. D'accord?"
 
 # game/code/d15/d15s07.rpy:450
 translate french d15s07_lc_pee_on_mes_6edaaa2f:
@@ -602,7 +602,7 @@ translate french d15s07_lc_pee_on_mes_6edaaa2f:
 translate french d15s07_lc_pee_on_mes_5407c4f4:
 
     # mc "Now Lydia, if Min does lose control and accidentally makes physical contact, you're not going to run screaming out of the room. Right?"
-    mc "Maintenant Lydia, si Min perd le contrôle et établit accidentellement un contact physique, tu ne sortiras pas de la pièce en criant. N'est-ce pas ?"
+    mc "Maintenant Lydia, si Min perd le contrôle et établit accidentellement un contact physique, tu ne sortiras pas de la pièce en criant. N'est-ce pas?"
 
 # game/code/d15/d15s07.rpy:456
 translate french d15s07_lc_pee_on_mes_0bea1333:
@@ -614,13 +614,13 @@ translate french d15s07_lc_pee_on_mes_0bea1333:
 translate french d15s07_lc_pee_on_mes_abbd6ea7:
 
     # mc "No, you're not. Do you know why?"
-    mc "Non, tu ne le fera pas et Tu sais pourquoi ?"
+    mc "Non, tu ne le fera pas et Tu sais pourquoi?"
 
 # game/code/d15/d15s07.rpy:462
 translate french d15s07_lc_pee_on_mes_50c11154:
 
     # lc "No. {w}Why?"
-    lc "Non. {w}Pourquoi ?"
+    lc "Non. {w}Pourquoi?"
 
 # game/code/d15/d15s07.rpy:465
 translate french d15s07_lc_pee_on_mes_b376090a:
@@ -656,13 +656,13 @@ translate french d15s07_lc_pee_on_mes_1844739e:
 translate french d15s07_lc_pee_on_mes_d9477853:
 
     # mc "Just focus on Lydia's piss and we'll see what happens. Is that okay with you?"
-    mc "Concentre-toi juste sur la pisse de Lydia et nous verrons ce qui se passe. Est-ce que ça te va ?"
+    mc "Concentre-toi juste sur la pisse de Lydia et nous verrons ce qui se passe. Est-ce que ça te va?"
 
 # game/code/d15/d15s07.rpy:483
 translate french d15s07_lc_pee_on_mes_c4b378e0:
 
     # mes "That sounds great to me. Lydia? What do you think?"
-    mes "Ça me semble génial. Lydia ? Qu'en penses-tu ?"
+    mes "Ça me semble génial. Lydia? Qu'en penses-tu?"
 
 # game/code/d15/d15s07.rpy:485
 translate french d15s07_lc_pee_on_mes_f7f4adec:
@@ -734,7 +734,7 @@ translate french d15s07_lc_pee_on_mes_c1ac3d8d:
 translate french d15s07_lc_pee_on_mes_290ca639:
 
     # mc "Do you feel that? That soft pleasure as the liquid releases from you?"
-    mc "Est-ce que tu ressens ça ? Ce doux plaisir lorsque le liquide s'échappe de toi ?"
+    mc "Est-ce que tu ressens ça? Ce doux plaisir lorsque le liquide s'échappe de toi?"
 
 # game/code/d15/d15s07.rpy:533
 translate french d15s07_lc_pee_on_mes_00273a0a:
@@ -788,25 +788,25 @@ translate french d15s07_ntr_path_3eda1178:
 translate french d15s07_ntr_path_7ea164ec:
 
     # lc "Oh FUCK her tongue is amazing!"
-    lc "Oh putain, sa langue est incroyable !"
+    lc "Oh putain, sa langue est incroyable!"
 
 # game/code/d15/d15s07.rpy:572
 translate french d15s07_ntr_path_483dc101:
 
     # lc "I can't believe I'm still passing water while she's doing this!!"
-    lc "Je n'arrive pas à croire que j'ai encore de l'eau pendant qu'elle fait ça !!"
+    lc "Je n'arrive pas à croire que j'ai encore de l'eau pendant qu'elle fait ça!!"
 
 # game/code/d15/d15s07.rpy:575
 translate french d15s07_ntr_path_1d3954e2:
 
     # lc "I'm going to cum so hard after this!!!"
-    lc "Je vais jouir si fort après ça !!!"
+    lc "Je vais jouir si fort après ça!!!"
 
 # game/code/d15/d15s07.rpy:578
 translate french d15s07_ntr_path_ddfb6b3d:
 
     # lc "Oh god! Oh God! OH GOD!!!"
-    lc "Oh mon Dieu ! Oh mon Dieu ! OH DIEU !!!"
+    lc "Oh mon Dieu! Oh mon Dieu! OH DIEU!!!"
 
 # game/code/d15/d15s07.rpy:579
 translate french d15s07_ntr_path_410208b8:
@@ -818,7 +818,7 @@ translate french d15s07_ntr_path_410208b8:
 translate french d15s07_ntr_path_348cf1e5:
 
     # lc "How is this possible?!"
-    lc "Comment est-ce possible ?!"
+    lc "Comment est-ce possible?!"
 
 # game/code/d15/d15s07.rpy:584
 translate french d15s07_ntr_path_a7921833:
@@ -920,7 +920,7 @@ translate french d15s07_lc_path_c55be7ac:
 translate french d15s07_lc_path_be7c1a11:
 
     # mc "How does that make you feel?"
-    mc "Qu'est-ce que ça te fait de ressentir ?"
+    mc "Qu'est-ce que ça te fait de ressentir?"
 
 # game/code/d15/d15s07.rpy:643
 translate french d15s07_lc_path_c96c4835:
@@ -968,13 +968,13 @@ translate french d15s07_lc_path_ec035c98:
 translate french d15s07_lc_path_4f17adfc:
 
     # lc "Her tongue.{w}.. Min's tongue is inside me!"
-    lc "Sa langue.{w}.. La langue de Min est en moi !"
+    lc "Sa langue.{w}.. La langue de Min est en moi!"
 
 # game/code/d15/d15s07.rpy:655
 translate french d15s07_lc_path_2da1c531:
 
     # mc "How does it feel?"
-    mc "Qu'est-ce que ça fait ?"
+    mc "Qu'est-ce que ça fait?"
 
 # game/code/d15/d15s07.rpy:656
 translate french d15s07_lc_path_c7e0bb7c:
@@ -1010,7 +1010,7 @@ translate french d15s07_lc_path_0bbb96c3:
 translate french d15s07_lc_path_6b01de69:
 
     # lc "[mcname]! May I climax? Please!"
-    lc "[mcname] ! Puis-je jouir ? S'il vous plaît !"
+    lc "[mcname]! Puis-je jouir? S'il vous plaît!"
 
 # game/code/d15/d15s07.rpy:670
 translate french d15s07_lc_path_4908b346:
@@ -1022,7 +1022,7 @@ translate french d15s07_lc_path_4908b346:
 translate french d15s07_lc_path_1bfed957:
 
     # lc "I LOVE YOU BOTH!!!!!!!!!!"
-    lc "Je vous aime tous les deux !!!!!!!!"
+    lc "Je vous aime tous les deux!!!!!!!!"
 
 # game/code/d15/d15s07.rpy:677
 translate french d15s07_lc_path_d9a73c70:
@@ -1058,7 +1058,7 @@ translate french d15s07_lc_path_e882bbab:
 translate french d15s07_lc_path_5e5d0fa3:
 
     # mc "How was that?"
-    mc "Comment c'était ?"
+    mc "Comment c'était?"
 
 # game/code/d15/d15s07.rpy:698
 translate french d15s07_lc_path_1e79393b:
@@ -1076,7 +1076,7 @@ translate french d15s07_lc_path_ba7fd790:
 translate french d15s07_end_cb2fa992:
 
     # lc "[mcname]? Can you carry me to the bedroom?"
-    lc "[mcname] ? Peux-tu me porter jusqu'à la chambre ?"
+    lc "[mcname]? Peux-tu me porter jusqu'à la chambre?"
 
 # game/code/d15/d15s07.rpy:716
 translate french d15s07_end_1bf60051:
@@ -1100,7 +1100,7 @@ translate french d15s07_end_4b301816:
 translate french d15s07_end_99f38d98:
 
     # mc "Was it everything you hoped for, Min?"
-    mc "Est-ce que c'était tout ce que tu espérais, Min ?"
+    mc "Est-ce que c'était tout ce que tu espérais, Min?"
 
 # game/code/d15/d15s07.rpy:731
 translate french d15s07_end_46408d63:
@@ -1136,7 +1136,7 @@ translate french d15s07_end_8fc1d935:
 translate french d15s07_end_6e08783b:
 
     # mc "Huh. Lydia, what do you think about that?"
-    mc "Hein. Lydia, qu'est-ce que tu penses de ça ?"
+    mc "Hein. Lydia, qu'est-ce que tu penses de ça?"
 
 # game/code/d15/d15s07.rpy:757
 translate french d15s07_end_3e8d3e9b:
@@ -1148,7 +1148,7 @@ translate french d15s07_end_3e8d3e9b:
 translate french d15s07_end_d84dc8eb:
 
     # mes "Oh?{w} I'll keep that in mind."
-    mes "Oh ?{w} Je garderai ça à l'esprit."
+    mes "Oh?{w} Je garderai ça à l'esprit."
 
 # game/code/d15/d15s07.rpy:765
 translate french d15s07_end_d0a61a83:

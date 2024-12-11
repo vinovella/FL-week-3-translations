@@ -2,13 +2,13 @@
 translate french d21s03_28c93870:
 
     # arj "How'd it go?"
-    arj "Comment ça s'est passé ?"
+    arj "Comment ça s'est passé?"
 
 # game/code/d21/d21s03.rpy:13
 translate french d21s03_60199b33:
 
     # sy "What's she sayin'?"
-    sy "Qu'est-ce qu'elle dit ?"
+    sy "Qu'est-ce qu'elle dit?"
 
 # game/code/d21/d21s03.rpy:16
 translate french d21s03_6254e300:
@@ -26,7 +26,7 @@ translate french d21s03_ad95b155:
 translate french d21s03_60afe7cc:
 
     # mc "Uh, yes. Yeah. That's me. Why?"
-    mc "Euh, oui. Ouais. C'est moi. Pourquoi ?"
+    mc "Euh, oui. Ouais. C'est moi. Pourquoi?"
 
 # game/code/d21/d21s03.rpy:25
 translate french d21s03_f676bee1:
@@ -86,7 +86,7 @@ translate french d21s03_8082f9a9:
 translate french d21s03_486114ae:
 
     # mc "You guys good to head off on your own? I can handle this."
-    mc "Vous pouvez partir seules ? Je peux gérer ça."
+    mc "Vous pouvez partir seules? Je peux gérer ça."
 
 # game/code/d21/d21s03.rpy:49
 translate french d21s03_4e5a32f4:
@@ -110,7 +110,7 @@ translate french d21s03_2f8981b5:
 translate french d21s03_019699a5:
 
     # sy "Don't let him shake you down! Ask for a lawyer!"
-    sy "Ne le laisse pas te bousculer! Demande un avocat !"
+    sy "Ne le laisse pas te bousculer! Demande un avocat!"
 
 # game/code/d21/d21s03.rpy:59
 translate french d21s03_4f298059:
@@ -140,7 +140,7 @@ translate french d21s03_a953dc07:
 translate french d21s03_f92a21a7:
 
     # vumc "Now, what's your relation to Lydia Cox?"
-    vumc "Maintenant, quelle votre relation avec Lydia Cox ?"
+    vumc "Maintenant, quelle votre relation avec Lydia Cox?"
 
 # game/code/d21/d21s03.rpy:71
 translate french d21s03_20d24d29:
@@ -152,7 +152,7 @@ translate french d21s03_20d24d29:
 translate french d21s03_f57b570e:
 
     # vumc "Mm-hm, and when exactly did you meet her?"
-    vumc "Mm-hm, et quand l'avez-vous rencontrée exactement ?"
+    vumc "Mm-hm, et quand l'avez-vous rencontrée exactement?"
 
 # game/code/d21/d21s03.rpy:77
 translate french d21s03_0e7a09eb:
@@ -182,7 +182,7 @@ translate french d21s03_7f8b46da:
 translate french d21s03_5a98e3e0:
 
     # vumc "I'm sorry, {i}\"Min\"{/i}?"
-    vumc "Je suis désolé, {i}« Min »{/i} ?"
+    vumc "Je suis désolé, {i}\" Min\"{/i}?"
 
 # game/code/d21/d21s03.rpy:90
 translate french d21s03_27247a1b:
@@ -200,7 +200,7 @@ translate french d21s03_dd443c52:
 translate french d21s03_2fd31890:
 
     # vumc "Interesting. Did you feel like you were being coerced at any point during this event? Were you pressured to go to it perhaps?"
-    vumc "Intéressant. Avez vous eu l'impression d'être contraint à un moment donné pendant cet événement ? Peut-être avez-vous été poussé à y aller?"
+    vumc "Intéressant. Avez vous eu l'impression d'être contraint à un moment donné pendant cet événement? Peut-être avez-vous été poussé à y aller?"
 
 # game/code/d21/d21s03.rpy:98
 translate french d21s03_c84e89f0:
@@ -272,7 +272,7 @@ translate french d21s03_529fb3e1:
 translate french d21s03_decb4c60:
 
     # vumc "And how did this happen?"
-    vumc "Et comment est-ce arrivé ?"
+    vumc "Et comment est-ce arrivé?"
 
 # game/code/d21/d21s03.rpy:138
 translate french d21s03_7a2db2a1:
@@ -356,7 +356,7 @@ translate french d21s03_8dcca00e:
 translate french d21s03_e7a90f1f:
 
     # vumc "Did you feel coerced to download the app in any way? Did Kevin push you towards it?"
-    vumc "Vous vous êtes senti obligé de télécharger l'application d'une manière ou d'une autre ? Est-ce que Kevin vous a poussé vers ça?"
+    vumc "Vous vous êtes senti obligé de télécharger l'application d'une manière ou d'une autre? Est-ce que Kevin vous a poussé vers ça?"
 
 # game/code/d21/d21s03.rpy:171
 translate french d21s03_b14d18b6:
@@ -368,7 +368,7 @@ translate french d21s03_b14d18b6:
 translate french d21s03_61d79289:
 
     # vumc "And then what happened?"
-    vumc "Et puis que s'est-il passé ?"
+    vumc "Et puis que s'est-il passé?"
 
 # game/code/d21/d21s03.rpy:177
 translate french d21s03_5e69d79d:
@@ -464,7 +464,7 @@ translate french d21s03_f9e6a8ec:
 translate french d21s03_183983ea:
 
     # vumc "Are you sure?"
-    vumc "Tu es sûr ?"
+    vumc "Tu es sûr?"
 
 # game/code/d21/d21s03.rpy:231
 translate french d21s03_529fb3e1_1:
@@ -518,7 +518,7 @@ translate french d21s03_c5127659_1:
 translate french d21s03_7e17f42f_1:
 
     # vumc "Is this related to the 20 people challenge?"
-    vumc "Est-ce que c'est lié au défi des 20 personnes ?"
+    vumc "Est-ce que c'est lié au défi des 20 personnes?"
 
 # game/code/d21/d21s03.rpy:261
 translate french d21s03_43001986_1:
@@ -542,7 +542,7 @@ translate french d21s03_f9e6a8ec_1:
 translate french d21s03_183983ea_1:
 
     # vumc "Are you sure?"
-    vumc "Vous êtes sûr ?"
+    vumc "Vous êtes sûr?"
 
 # game/code/d21/d21s03.rpy:277
 translate french d21s03_529fb3e1_2:
@@ -584,13 +584,13 @@ translate french d21s03_9bda4024:
 translate french d21s03_beece006:
 
     # pm "You must be the 20-girls-guy?"
-    pm "Tu dois être le gars des 20 filles ?"
+    pm "Tu dois être le gars des 20 filles?"
 
 # game/code/d21/d21s03.rpy:303
 translate french d21s03_381b5bf6:
 
     # mc "Wow, does everybody know about that?"
-    mc "Wow, est-ce que tout le monde est au courant ?"
+    mc "Wow, est-ce que tout le monde est au courant?"
 
 # game/code/d21/d21s03.rpy:306
 translate french d21s03_78bebfac:
@@ -687,3 +687,4 @@ translate french strings:
     # game/code/d21/d21s03.rpy:183
     old "Don't mention it"
     new "N'en parle pas"
+

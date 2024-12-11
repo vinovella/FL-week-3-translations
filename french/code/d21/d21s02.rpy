@@ -14,7 +14,7 @@ translate french d21s02_b2d2a033:
 translate french d21s02_e694b56a:
 
     # sy "It's our mission outfit! Why aren't you wearing yours?"
-    sy "C'est notre tenue de mission ! Pourquoi tu ne portes pas le tienne ?"
+    sy "C'est notre tenue de mission! Pourquoi tu ne portes pas le tienne?"
 
 # game/code/d21/d21s02.rpy:39
 translate french d21s02_48033b73:
@@ -68,7 +68,7 @@ translate french d21s02_e00c48cb:
 translate french d21s02_175e7f8b:
 
     # arj "PLEASE STOP!"
-    arj "S'IL TE PLAIT ARRÊTE !"
+    arj "S'IL TE PLAIT ARRÊTE!"
 
 # game/code/d21/d21s02.rpy:65
 translate french d21s02_3d88cadd:
@@ -92,7 +92,7 @@ translate french d21s02_c7895dc4:
 translate french d21s02_d4ba5962:
 
     # sy "Let me at her. Let me at her!{w} I'll put that bitch away so long she'll never meet her great grandchildren!"
-    sy "Laisse-moi la voir. Laisse-moi la voir!{w} Je vais enfermer cette salope si longtemps qu'elle ne rencontrera jamais ses arrière-petits-enfants !"
+    sy "Laisse-moi la voir. Laisse-moi la voir!{w} Je vais enfermer cette salope si longtemps qu'elle ne rencontrera jamais ses arrière-petits-enfants!"
 
 # game/code/d21/d21s02.rpy:77
 translate french d21s02_51246772:
@@ -116,7 +116,7 @@ translate french d21s02_0f65ccd7:
 translate french d21s02_2a8f9b26:
 
     # mct "Shit. Which unhinged lunatic do I bring with me?"
-    mct "Merde. Quel folle dérangée dois-je amener avec moi ?"
+    mct "Merde. Quel folle dérangée dois-je amener avec moi?"
 
 # game/code/d21/d21s02.rpy:91
 translate french d21s02_a37460c3:
@@ -128,7 +128,7 @@ translate french d21s02_a37460c3:
 translate french d21s02_bcdad471:
 
     # arj "What about maiming?"
-    arj "Qu'en est-il de la mutilation ?"
+    arj "Qu'en est-il de la mutilation?"
 
 # game/code/d21/d21s02.rpy:97
 translate french d21s02_b384039a:
@@ -296,7 +296,7 @@ translate french d21s02_ntr_arj_6c834469:
 translate french d21s02_ntr_arj_a598cc7f:
 
     # lc "Why? Are you afraid I might eat you instead?"
-    lc "Pourquoi? As-tu peur que je te mange à la place ?"
+    lc "Pourquoi? As-tu peur que je te mange à la place?"
 
 # game/code/d21/d21s02.rpy:219
 translate french d21s02_ntr_arj_05dfc2f1:
@@ -332,7 +332,7 @@ translate french d21s02_ntr_arj_33c0d550:
 translate french d21s02_lc_arj_25905d2d:
 
     # lc "AmRose? Why is she here?"
-    lc "AmRose? Pourquoi est-elle ici ?"
+    lc "AmRose? Pourquoi est-elle ici?"
 
 # game/code/d21/d21s02.rpy:242
 translate french d21s02_lc_arj_2cd41cf7:
@@ -356,13 +356,13 @@ translate french d21s02_lc_arj_41b040b2:
 translate french d21s02_lc_arj_be6c8904:
 
     # lc "The shit I pulled? Look who's talking."
-    lc "La merde que j'ai fait ? Regardez qui parle."
+    lc "La merde que j'ai fait? Regardez qui parle."
 
 # game/code/d21/d21s02.rpy:252
 translate french d21s02_lc_arj_735cc388:
 
     # arj "Shut your fucking mouth right there!!!"
-    arj "Ferme ta putain de gueule là !!!"
+    arj "Ferme ta putain de gueule là!!!"
 
 # game/code/d21/d21s02.rpy:255
 translate french d21s02_lc_arj_375b2126:
@@ -398,7 +398,7 @@ translate french d21s02_lc_arj_79b9bb46:
 translate french d21s02_lc_arj_e9f97432:
 
     # arj "God dammit. Why are you doing this to me?"
-    arj "Bon sang. Pourquoi tu me fais ça ?"
+    arj "Bon sang. Pourquoi tu me fais ça?"
 
 # game/code/d21/d21s02.rpy:272
 translate french d21s02_lc_arj_2646f864:
@@ -416,7 +416,7 @@ translate french d21s02_lc_arj_b2bcb486:
 translate french d21s02_lc_arj_163c57e8:
 
     # lc "That wasn't me! Maybe that was Jerome. Maybe it was just the A.I."
-    lc "Ce n'était pas moi ! C'était peut-être Jérôme. C'était peut-être juste l'IA."
+    lc "Ce n'était pas moi! C'était peut-être Jérôme. C'était peut-être juste l'IA."
 
 # game/code/d21/d21s02.rpy:278
 translate french d21s02_lc_arj_3effccd7:
@@ -458,7 +458,7 @@ translate french d21s02_ntr_sy_1863c05d:
 translate french d21s02_ntr_sy_508f0b09:
 
     # sy "TALK, BITCH!"
-    sy "PARLE, SALOPE !"
+    sy "PARLE, SALOPE!"
 
 # game/code/d21/d21s02.rpy:302
 translate french d21s02_ntr_sy_0cb1b8bf:
@@ -470,7 +470,7 @@ translate french d21s02_ntr_sy_0cb1b8bf:
 translate french d21s02_ntr_sy_d2f34b83:
 
     # sy "Ah ha!{w} So, you admit that you're the mastermind behind Fetish Locator!"
-    sy "Ah ha!{w} Alors, tu admets que tu es le cerveau derrière Fetish Locator !"
+    sy "Ah ha!{w} Alors, tu admets que tu es le cerveau derrière Fetish Locator!"
 
 # game/code/d21/d21s02.rpy:308
 translate french d21s02_ntr_sy_7665101e:
@@ -482,7 +482,7 @@ translate french d21s02_ntr_sy_7665101e:
 translate french d21s02_ntr_sy_8ba53896:
 
     # sy "Don't play games with me, Slut!"
-    sy "Ne joue pas à des jeux avec moi, salope !"
+    sy "Ne joue pas à des jeux avec moi, salope!"
 
 # game/code/d21/d21s02.rpy:314
 translate french d21s02_ntr_sy_b310603e:
@@ -494,7 +494,7 @@ translate french d21s02_ntr_sy_b310603e:
 translate french d21s02_ntr_sy_61ba299b:
 
     # lc "You realize these \"visitations\" aren't recorded, and are illegal to record, right?"
-    lc "Tu réalises que ces \"visites\" ne sont pas enregistrées et qu'il est illégal de les enregistrer, n'est-ce pas ?"
+    lc "Tu réalises que ces \"visites\" ne sont pas enregistrées et qu'il est illégal de les enregistrer, n'est-ce pas?"
 
 # game/code/d21/d21s02.rpy:320
 translate french d21s02_ntr_sy_6bfc74d9:
@@ -512,7 +512,7 @@ translate french d21s02_ntr_sy_c32fd555:
 translate french d21s02_ntr_sy_8f36fd08:
 
     # lc "How exactly did you think this was going to play out? That I would sign a full confession or something?"
-    lc "Comment pensais-tu que ça allait se passer exactement? Que je signerais des aveux complets ou quelque chose comme ça ?"
+    lc "Comment pensais-tu que ça allait se passer exactement? Que je signerais des aveux complets ou quelque chose comme ça?"
 
 # game/code/d21/d21s02.rpy:329
 translate french d21s02_ntr_sy_3735fadb:
@@ -524,7 +524,7 @@ translate french d21s02_ntr_sy_3735fadb:
 translate french d21s02_ntr_sy_771266c5:
 
     # lc "Not gonna happen.{w} What about you? Why are you here?"
-    lc "Ça n'arrivera pas.{w} Et toi ? Pourquoi es-tu ici?"
+    lc "Ça n'arrivera pas.{w} Et toi? Pourquoi es-tu ici?"
 
 # game/code/d21/d21s02.rpy:335
 translate french d21s02_ntr_sy_4149803b:
@@ -548,7 +548,7 @@ translate french d21s02_ntr_sy_056249f8:
 translate french d21s02_ntr_sy_589d97b2:
 
     # sy "You want me to leave? I'm not done with her."
-    sy "Tu veux que je parte ? Je n'en ai pas fini avec elle."
+    sy "Tu veux que je parte? Je n'en ai pas fini avec elle."
 
 # game/code/d21/d21s02.rpy:347
 translate french d21s02_ntr_sy_620c664e:
@@ -572,7 +572,7 @@ translate french d21s02_ntr_sy_f9d63640:
 translate french d21s02_lc_sy_4d709f97:
 
     # sy "Shame. Shame! Shame!!!"
-    sy "Honte. Honte ! Honte!!!"
+    sy "Honte. Honte! Honte!!!"
 
 # game/code/d21/d21s02.rpy:364
 translate french d21s02_lc_sy_2c84abb6:
@@ -590,7 +590,7 @@ translate french d21s02_lc_sy_79944d50:
 translate french d21s02_lc_sy_f29157a5:
 
     # lc "I think so. What is all this?"
-    lc "Je pense que oui. C'est quoi tout ça ?"
+    lc "Je pense que oui. C'est quoi tout ça?"
 
 # game/code/d21/d21s02.rpy:373
 translate french d21s02_lc_sy_d381037a:
@@ -656,7 +656,7 @@ translate french d21s02_lc_sy_7b0cf382:
 translate french d21s02_lc_sy_2d81001a:
 
     # sy "Not that part. I mean, how did you get so many people playing?"
-    sy "Pas cette partie-là. Je veux dire, comment as-tu fait pour que autant de gens jouent ?"
+    sy "Pas cette partie-là. Je veux dire, comment as-tu fait pour que autant de gens jouent?"
 
 # game/code/d21/d21s02.rpy:406
 translate french d21s02_lc_sy_65aa357f:
@@ -716,7 +716,7 @@ translate french d21s02_lc_sy_0ec81f5a:
 translate french d21s02_lc_sy_acd6fe78:
 
     # sy "So, you found people - these social nexus or confluence points - and you provoked them into playing Fetish Locator?"
-    sy "Alors, tu as trouvé des gens, ces liens sociaux ou points de confluence, et tu les as incités à jouer à Fetish Locator ?"
+    sy "Alors, tu as trouvé des gens, ces liens sociaux ou points de confluence, et tu les as incités à jouer à Fetish Locator?"
 
 # game/code/d21/d21s02.rpy:432
 translate french d21s02_lc_sy_ecd82c3a:
@@ -776,7 +776,7 @@ translate french d21s02_lc_sy_5e2b3f7d:
 translate french d21s02_mc_ntr_16155179:
 
     # mc "What the hell happened to you?"
-    mc "Qu'est-ce qui t'est arrivé ?"
+    mc "Qu'est-ce qui t'est arrivé?"
 
 # game/code/d21/d21s02.rpy:462
 translate french d21s02_mc_ntr_f45100e6:
@@ -830,13 +830,13 @@ translate french d21s02_mc_ntr_4368fdea:
 translate french d21s02_mc_ntr_20f8ff86:
 
     # lc "Bullshit! I would never lie."
-    lc "Conneries ! Je ne mentirais jamais."
+    lc "Conneries! Je ne mentirais jamais."
 
 # game/code/d21/d21s02.rpy:486
 translate french d21s02_mc_ntr_a10db6de:
 
     # mc "Lie of omission?"
-    mc "Mensonge par omission ?"
+    mc "Mensonge par omission?"
 
 # game/code/d21/d21s02.rpy:489
 translate french d21s02_mc_ntr_c7bff8e0:
@@ -848,7 +848,7 @@ translate french d21s02_mc_ntr_c7bff8e0:
 translate french d21s02_mc_ntr_ca76cc0f:
 
     # mc "What the hell happened to the sweet girl I idolized? How did you become this twisted slut?"
-    mc "Qu'est-ce qui est arrivé à la gentille fille que j'idolâtrais? Comment es-tu devenue cette salope tordue ?"
+    mc "Qu'est-ce qui est arrivé à la gentille fille que j'idolâtrais? Comment es-tu devenue cette salope tordue?"
 
 # game/code/d21/d21s02.rpy:495
 translate french d21s02_mc_ntr_11cc6509:
@@ -860,7 +860,7 @@ translate french d21s02_mc_ntr_11cc6509:
 translate french d21s02_mc_ntr_50e758f9:
 
     # mc "They raised you to be like this?"
-    mc "Ils t'ont élevé pour être comme ça ?"
+    mc "Ils t'ont élevé pour être comme ça?"
 
 # game/code/d21/d21s02.rpy:501
 translate french d21s02_mc_ntr_42ae163d:
@@ -884,13 +884,13 @@ translate french d21s02_mc_ntr_921fada8:
 translate french d21s02_mc_ntr_f42aa410:
 
     # mc "What happened to them?"
-    mc "Que leur est-il arrivé ?"
+    mc "Que leur est-il arrivé?"
 
 # game/code/d21/d21s02.rpy:510
 translate french d21s02_mc_ntr_2abd3d33:
 
     # lc "I did. Don't you get it? I am unlovable."
-    lc "Je l'ai fait. Tu ne comprends pas ? Je ne suis pas aimable."
+    lc "Je l'ai fait. Tu ne comprends pas? Je ne suis pas aimable."
 
 # game/code/d21/d21s02.rpy:513
 translate french d21s02_mc_ntr_b1086b50:
@@ -914,7 +914,7 @@ translate french d21s02_mc_ntr_73ae9ee7:
 translate french d21s02_mc_ntr_efc2fc6b:
 
     # lc "Is it working?"
-    lc "Est-ce que ça marche ?"
+    lc "Est-ce que ça marche?"
 
 # game/code/d21/d21s02.rpy:525
 translate french d21s02_mc_ntr_678be779:
@@ -932,7 +932,7 @@ translate french d21s02_mc_ntr_8f33e9f0:
 translate french d21s02_mc_lc_95c7633a:
 
     # mc "Are you okay?"
-    mc "Ça va ?"
+    mc "Ça va?"
 
 # game/code/d21/d21s02.rpy:539
 translate french d21s02_mc_lc_e902fc60:
@@ -944,7 +944,7 @@ translate french d21s02_mc_lc_e902fc60:
 translate french d21s02_mc_lc_a7eb8292:
 
     # lc "Sure, I'm just delighted. How are you?"
-    lc "Bien sûr, je suis juste ravi. Comment vas-tu ?"
+    lc "Bien sûr, je suis juste ravi. Comment vas-tu?"
 
 # game/code/d21/d21s02.rpy:546
 translate french d21s02_mc_lc_3e926dde:
@@ -956,7 +956,7 @@ translate french d21s02_mc_lc_3e926dde:
 translate french d21s02_mc_lc_129ea37f:
 
     # mc "Has anyone hurt you? Is there anything I can do to help?"
-    mc "Est-ce que quelqu'un t'a fait du mal ? Puis-je faire quelque chose pour t'aider ?"
+    mc "Est-ce que quelqu'un t'a fait du mal? Puis-je faire quelque chose pour t'aider?"
 
 # game/code/d21/d21s02.rpy:550
 translate french d21s02_mc_lc_e8cce80e:
@@ -998,7 +998,7 @@ translate french d21s02_mc_lc_3a18c0b5:
 translate french d21s02_mc_lc_b071e8d2:
 
     # mc "Maybe you can recant your confession? Or get out on bail?"
-    mc "Peut-être que tu peux rétracter tes aveux? Ou sortir sous caution ?"
+    mc "Peut-être que tu peux rétracter tes aveux? Ou sortir sous caution?"
 
 # game/code/d21/d21s02.rpy:565
 translate french d21s02_mc_lc_b03f8025:
@@ -1010,7 +1010,7 @@ translate french d21s02_mc_lc_b03f8025:
 translate french d21s02_mc_lc_325dfe7b:
 
     # mc "What about the prostitute? Didn't she get a hearing?"
-    mc "Et la prostituée? N'a-t-elle pas été entendue ?"
+    mc "Et la prostituée? N'a-t-elle pas été entendue?"
 
 # game/code/d21/d21s02.rpy:571
 translate french d21s02_mc_lc_c4e8b9d3:
@@ -1220,7 +1220,7 @@ translate french d21s02_sy_ending_9767809c:
 translate french d21s02_sy_ending_77890279:
 
     # lc "Obviously. So, what is it?"
-    lc "Evidemment. Alors, qu'est-ce qu'il y a ?"
+    lc "Evidemment. Alors, qu'est-ce qu'il y a?"
 
 # game/code/d21/d21s02.rpy:673
 translate french d21s02_sy_ending_8f1299c0:
@@ -1313,3 +1313,4 @@ translate french strings:
     # game/code/d21/d21s02.rpy:112
     old "Select Stacy"
     new "Sélectionne Stacy"
+

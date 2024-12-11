@@ -20,13 +20,13 @@ translate french d15s04dw_b4feffc2:
 translate french d15s04dw_4e7267c0:
 
     # mc "Come in! It's open!"
-    mc "Entrez ! C'est ouvert !"
+    mc "Entrez! C'est ouvert!"
 
 # game/code/d15/d15s04dw.rpy:39
 translate french d15s04dw_45edb6c6:
 
     # dw "Hey, [mcname]. What's going on? {w}You sounded so serious over the phone."
-    dw "Hé, [mcname]. Que se passe-t-il ? {w}Tu avais l'air si sérieux au téléphone."
+    dw "Hé, [mcname]. Que se passe-t-il? {w}Tu avais l'air si sérieux au téléphone."
 
 # game/code/d15/d15s04dw.rpy:42
 translate french d15s04dw_6f08ef3f:
@@ -44,19 +44,19 @@ translate french d15s04dw_90238559:
 translate french d15s04dw_f7620a17:
 
     # mc "It's beautiful outside today, don't you think?"
-    mc "Il fait beau dehors aujourd'hui, tu ne trouves pas ?"
+    mc "Il fait beau dehors aujourd'hui, tu ne trouves pas?"
 
 # game/code/d15/d15s04dw.rpy:49
 translate french d15s04dw_0a4b5d60:
 
     # dw "Oh fuck. You're dying?"
-    dw "Oh putain. Tu es en train de mourir ?"
+    dw "Oh putain. Tu es en train de mourir?"
 
 # game/code/d15/d15s04dw.rpy:52
 translate french d15s04dw_4c515d56:
 
     # mc "No! Nothing like that. {w}Look, I was thinking about ways I could improve our relationship."
-    mc "Non ! Rien de tout cela. {w}Écoute, je réfléchissais aux façons dont je pourrais améliorer notre relation."
+    mc "Non! Rien de tout cela. {w}Écoute, je réfléchissais aux façons dont je pourrais améliorer notre relation."
 
 # game/code/d15/d15s04dw.rpy:55
 translate french d15s04dw_5a1150a9:
@@ -92,13 +92,13 @@ translate french d15s04dw_f612b808:
 translate french d15s04dw_bee4b226:
 
     # dw "What the fuck are you doing here?!"
-    dw "Qu'est-ce que tu fous ici ?!"
+    dw "Qu'est-ce que tu fous ici?!"
 
 # game/code/d15/d15s04dw.rpy:79
 translate french d15s04dw_d9331322:
 
     # sb "Oh, blow it somewhere else, sister. {w}[mcname], what am I doing here?"
-    sb "Oh, fais-le ailleurs, sœur. {w}[mcname], qu'est-ce que je fais ici ?"
+    sb "Oh, fais-le ailleurs, sœur. {w}[mcname], qu'est-ce que je fais ici?"
 
 # game/code/d15/d15s04dw.rpy:82
 translate french d15s04dw_5e4d9ef7:
@@ -110,13 +110,13 @@ translate french d15s04dw_5e4d9ef7:
 translate french d15s04dw_fd0b7c7b:
 
     # dw "Did you call her over here to ambush me?"
-    dw "L'avez-vous appelée ici pour me tendre une embuscade ?"
+    dw "L'avez-vous appelée ici pour me tendre une embuscade?"
 
 # game/code/d15/d15s04dw.rpy:88
 translate french d15s04dw_4af78df2:
 
     # sb "Fucking asshole! I don't want to see her lame ass!"
-    sb "Putain de connard ! Je ne veux pas voir son cul nul !"
+    sb "Putain de connard! Je ne veux pas voir son cul nul!"
 
 # game/code/d15/d15s04dw.rpy:91
 translate french d15s04dw_ccc2bcb3:
@@ -128,7 +128,7 @@ translate french d15s04dw_ccc2bcb3:
 translate french d15s04dw_0af3f775:
 
     # sb "So this is supposed to be some sort of intervention? Are we talking about her drinking?"
-    sb "Donc c'est censé être une sorte d'intervention ? Parlons-nous de sa consommation d'alcool ?"
+    sb "Donc c'est censé être une sorte d'intervention? Parlons-nous de sa consommation d'alcool?"
 
 # game/code/d15/d15s04dw.rpy:97
 translate french d15s04dw_e5d9c8e3:
@@ -146,19 +146,19 @@ translate french d15s04dw_27bfcfc1:
 translate french d15s04dw_d57fc437:
 
     # dw "Including my boyfriend!!!"
-    dw "Y compris mon petit ami !!!"
+    dw "Y compris mon petit ami!!!"
 
 # game/code/d15/d15s04dw.rpy:106
 translate french d15s04dw_a2f59126:
 
     # sb "How many times do we have to have this argument?!"
-    sb "Combien de fois devons-nous avoir cette dispute ?!"
+    sb "Combien de fois devons-nous avoir cette dispute?!"
 
 # game/code/d15/d15s04dw.rpy:109
 translate french d15s04dw_53221166:
 
     # dw "Yeah, [mcname]. How many times?!"
-    dw "Ouais, [mcname]. Combien de fois ?!"
+    dw "Ouais, [mcname]. Combien de fois?!"
 
 # game/code/d15/d15s04dw.rpy:112
 translate french d15s04dw_2fdfa84d:
@@ -176,7 +176,7 @@ translate french d15s04dw_4c012916:
 translate french d15s04dw_d325b541:
 
     # dw "You know what, [mcname]? I've got an idea. Let's try this."
-    dw "Tu sais quoi, [mcname] ? J'ai une idée. Essayons ça."
+    dw "Tu sais quoi, [mcname]? J'ai une idée. Essayons ça."
 
 # game/code/d15/d15s04dw.rpy:121
 translate french d15s04dw_018cc069:
@@ -188,7 +188,7 @@ translate french d15s04dw_018cc069:
 translate french d15s04dw_ed5dede8:
 
     # dw "PANTS OFF!"
-    dw "ENLEVEZ LE PANTALON !"
+    dw "ENLEVEZ LE PANTALON!"
 
 # game/code/d15/d15s04dw.rpy:127
 translate french d15s04dw_11455b53:
@@ -212,7 +212,7 @@ translate french d15s04dw_8152af41:
 translate french d15s04dw_361b64ba:
 
     # dw "GET YOUR FUCKING PANTS OFF NOW, SLAVE!!!"
-    dw "ENLEVE TON PUTAIN DE PANTALON MAINTENANT, ESCLAVE !!!"
+    dw "ENLEVE TON PUTAIN DE PANTALON MAINTENANT, ESCLAVE!!!"
 
 # game/code/d15/d15s04dw.rpy:137
 translate french d15s04dw_19aa576b:
@@ -236,7 +236,7 @@ translate french d15s04dw_66fdfbd9:
 translate french d15s04dw_57521fe8:
 
     # dw "No?! You want to disobey me?! HERE?! NOW?! IN FRONT OF THIS SLUT?!!!"
-    dw "Non ?! Tu veux me désobéir ?! ICI ?! MAINTENANT ?! DEVANT CETTE SALOPE ?!!!"
+    dw "Non?! Tu veux me désobéir?! ICI?! MAINTENANT?! DEVANT CETTE SALOPE?!!!"
 
 # game/code/d15/d15s04dw.rpy:148
 translate french d15s04dw_fe07d8b6:
@@ -254,13 +254,13 @@ translate french d15s04dw_83ec32a0:
 translate french d15s04dw_ce0f48fb:
 
     # sb "You want some help?"
-    sb "Tu veux de l'aide ?"
+    sb "Tu veux de l'aide?"
 
 # game/code/d15/d15s04dw.rpy:165
 translate french d15s04dw_f883159d:
 
     # dw "What. The. Fuck?"
-    dw "Quoi. Le. Putain ?"
+    dw "Quoi. Le. Putain?"
 
 # game/code/d15/d15s04dw.rpy:171
 translate french d15s04dw_c52b165d:
@@ -278,7 +278,7 @@ translate french d15s04dw_69afa652:
 translate french d15s04dw_10ef2a95:
 
     # dw "WHO HAS THE KEY?!"
-    dw "QUI A LA CLÉ ?!"
+    dw "QUI A LA CLÉ?!"
 
 # game/code/d15/d15s04dw.rpy:180
 translate french d15s04dw_2f2321d8:
@@ -290,7 +290,7 @@ translate french d15s04dw_2f2321d8:
 translate french d15s04dw_6df6e5cb:
 
     # dw "WHO HAS IT???!!!"
-    dw "QUI L'A ???!!!"
+    dw "QUI L'A???!!!"
 
 # game/code/d15/d15s04dw.rpy:185
 translate french d15s04dw_28432434:
@@ -422,7 +422,7 @@ translate french d15s04dw_6ce6f705:
 translate french d15s04dw_69fbc017:
 
     # dw "You're a total slut. Do you have a dildo or something?"
-    dw "Tu es une vraie salope. Tu as un gode ou quelque chose comme ça ?"
+    dw "Tu es une vraie salope. Tu as un gode ou quelque chose comme ça?"
 
 # game/code/d15/d15s04dw.rpy:263
 translate french d15s04dw_61c6fe1a:
@@ -434,7 +434,7 @@ translate french d15s04dw_61c6fe1a:
 translate french d15s04dw_a480edea:
 
     # dw "You have something on you?"
-    dw "Tu as quelque chose sur toi ?"
+    dw "Tu as quelque chose sur toi?"
 
 # game/code/d15/d15s04dw.rpy:268
 translate french d15s04dw_0d94eb98:
@@ -446,7 +446,7 @@ translate french d15s04dw_0d94eb98:
 translate french d15s04dw_32d47a27:
 
     # sb "Will this do?"
-    sb "Est-ce que ça fera l'affaire ?"
+    sb "Est-ce que ça fera l'affaire?"
 
 # game/code/d15/d15s04dw.rpy:277
 translate french d15s04dw_6b71b605:
@@ -458,7 +458,7 @@ translate french d15s04dw_6b71b605:
 translate french d15s04dw_51821582:
 
     # sb "I take it you don't want to touch this?"
-    sb "Je suppose que tu ne veux pas toucher à ça ?"
+    sb "Je suppose que tu ne veux pas toucher à ça?"
 
 # game/code/d15/d15s04dw.rpy:283
 translate french d15s04dw_4a7e053b:
@@ -470,7 +470,7 @@ translate french d15s04dw_4a7e053b:
 translate french d15s04dw_0c2ccf1f:
 
     # mc "FUCKING HELL!"
-    mc "Putain de merde !"
+    mc "Putain de merde!"
 
 # game/code/d15/d15s04dw.rpy:301
 translate french d15s04dw_fdfa3e4d:
@@ -482,7 +482,7 @@ translate french d15s04dw_fdfa3e4d:
 translate french d15s04dw_0e783d93:
 
     # sb "Thanks.{w}.. Do you mind if I ride his face?"
-    sb "Merci.{w}.. Est-ce que ça vous dérange si je chevauche son visage ?"
+    sb "Merci.{w}.. Est-ce que ça vous dérange si je chevauche son visage?"
 
 # game/code/d15/d15s04dw.rpy:305
 translate french d15s04dw_b8e773d6:
@@ -494,7 +494,7 @@ translate french d15s04dw_b8e773d6:
 translate french d15s04dw_add6793a:
 
     # sb "Head's or tails, [mcname]?"
-    sb "Pile ou face, [mcname] ?"
+    sb "Pile ou face, [mcname]?"
 
 # game/code/d15/d15s04dw.rpy:312
 translate french d15s04dw_11455b53_1:
@@ -512,7 +512,7 @@ translate french d15s04dw_1fbc723e:
 translate french d15s04dw_d18ee5e8:
 
     # dw "Would you mind holding his ankles?"
-    dw "Est-ce que ça te dérangerait de lui tenir les chevilles ?"
+    dw "Est-ce que ça te dérangerait de lui tenir les chevilles?"
 
 # game/code/d15/d15s04dw.rpy:326
 translate french d15s04dw_9a9492ed:
@@ -524,13 +524,13 @@ translate french d15s04dw_9a9492ed:
 translate french d15s04dw_56fd1604:
 
     # dw "He's got a talented tongue, don't you think?"
-    dw "Il a une langue talentueuse, tu ne trouves pas ?"
+    dw "Il a une langue talentueuse, tu ne trouves pas?"
 
 # game/code/d15/d15s04dw.rpy:331
 translate french d15s04dw_170f1148:
 
     # sb "He does. Are you going to spank his ass?"
-    sb "Il le fait. Tu vas lui donner une fessée ?"
+    sb "Il le fait. Tu vas lui donner une fessée?"
 
 # game/code/d15/d15s04dw.rpy:334
 translate french d15s04dw_eb3e097b:
@@ -548,7 +548,7 @@ translate french d15s04dw_de6636c2:
 translate french d15s04dw_75592bb9:
 
     # dw "Do you object?"
-    dw "Est-ce que vous vous y opposez ?"
+    dw "Est-ce que vous vous y opposez?"
 
 # game/code/d15/d15s04dw.rpy:343
 translate french d15s04dw_9b77be13:
@@ -560,7 +560,7 @@ translate french d15s04dw_9b77be13:
 translate french d15s04dw_b5d28d4d:
 
     # mc "FUCKING STOP IT!!!"
-    mc "Putain, arrête ça !!!"
+    mc "Putain, arrête ça!!!"
 
 # game/code/d15/d15s04dw.rpy:356
 translate french d15s04dw_93abcbdd:
@@ -578,7 +578,7 @@ translate french d15s04dw_47be7110:
 translate french d15s04dw_01d169cc:
 
     # mc "I DID NOT CONSENT TO THIS!!!"
-    mc "JE N'AI PAS CONSENTI À CELA !!!"
+    mc "JE N'AI PAS CONSENTI À CELA!!!"
 
 # game/code/d15/d15s04dw.rpy:365
 translate french d15s04dw_71818cb7:
@@ -590,7 +590,7 @@ translate french d15s04dw_71818cb7:
 translate french d15s04dw_1701e44a:
 
     # mc "JUST GET THE FUCK OUT!!! BOTH OF YOU!!!"
-    mc "SORTEZ-VOUS !!! VOUS TOUS LES DEUX !!!"
+    mc "SORTEZ-VOUS!!! VOUS TOUS LES DEUX!!!"
 
 # game/code/d15/d15s04dw.rpy:374
 translate french d15s04dw_5831213b:
@@ -632,7 +632,7 @@ translate french d15s04dw_63809e09:
 translate french d15s04dw_0e8c9c6d:
 
     # dw "Do you like it [mcname]?"
-    dw "Est-ce que tu l'aimes [mcname] ?"
+    dw "Est-ce que tu l'aimes [mcname]?"
 
 # game/code/d15/d15s04dw.rpy:417
 translate french d15s04dw_1155f7ba:
@@ -644,7 +644,7 @@ translate french d15s04dw_1155f7ba:
 translate french d15s04dw_c96a1955:
 
     # dw "I CAN'T {w}FUCKING {w}STAND {w}CHEATERS!!!"
-    dw "Je ne peux pas {w}putain {w}supporter {w}tricheurs !!!"
+    dw "Je ne peux pas {w}putain {w}supporter {w}tricheurs!!!"
 
 # game/code/d15/d15s04dw.rpy:431
 translate french d15s04dw_f336fe9a:
@@ -656,19 +656,19 @@ translate french d15s04dw_f336fe9a:
 translate french d15s04dw_698200b3:
 
     # dw "Fine? {w}What?"
-    dw "Bien ? {w}Quoi ?"
+    dw "Bien? {w}Quoi?"
 
 # game/code/d15/d15s04dw.rpy:438
 translate french d15s04dw_3425c3f0:
 
     # sb "Fine - I fucked your boyfriend! There. Are you happy? I've finally admitted it!"
-    sb "Bien, j'ai baisé ton petit-ami ! Voilà. Tu es heureux ? Je l'ai enfin admis !"
+    sb "Bien, j'ai baisé ton petit-ami! Voilà. Tu es heureux? Je l'ai enfin admis!"
 
 # game/code/d15/d15s04dw.rpy:441
 translate french d15s04dw_58ebe977:
 
     # dw "You... what?"
-    dw "Tu... quoi ?"
+    dw "Tu... quoi?"
 
 # game/code/d15/d15s04dw.rpy:444
 translate french d15s04dw_53a77101:
@@ -680,7 +680,7 @@ translate french d15s04dw_53a77101:
 translate french d15s04dw_335fbd4b:
 
     # dw "I KNEW IT! {w}Wait... why?"
-    dw "Je le savais ! {w}Attends... pourquoi ?"
+    dw "Je le savais! {w}Attends... pourquoi?"
 
 # game/code/d15/d15s04dw.rpy:452
 translate french d15s04dw_f3099e32:
@@ -704,7 +704,7 @@ translate french d15s04dw_ac2102c2:
 translate french d15s04dw_1c8f62fa:
 
     # dw "But he was always drooling over you. He even shouted out your name during sex!"
-    dw "Mais il bavait toujours sur toi. Il a même crié ton nom pendant les rapports sexuels !"
+    dw "Mais il bavait toujours sur toi. Il a même crié ton nom pendant les rapports sexuels!"
 
 # game/code/d15/d15s04dw.rpy:464
 translate french d15s04dw_f7c4dd58:
@@ -716,7 +716,7 @@ translate french d15s04dw_f7c4dd58:
 translate french d15s04dw_f52c35f3:
 
     # dw "You didn't even want him?"
-    dw "Tu ne voulais même pas de lui ?"
+    dw "Tu ne voulais même pas de lui?"
 
 # game/code/d15/d15s04dw.rpy:470
 translate french d15s04dw_50c839bd:
@@ -776,7 +776,7 @@ translate french d15s04dw_6ce329d5:
 translate french d15s04dw_69b87d6b:
 
     # dw "-a sex addict?"
-    dw "-un accro au sexe ?"
+    dw "-un accro au sexe?"
 
 # game/code/d15/d15s04dw.rpy:505
 translate french d15s04dw_9d05ae49:
@@ -794,13 +794,13 @@ translate french d15s04dw_56686d73:
 translate french d15s04dw_e1784103:
 
     # mc "What's so funny?"
-    mc "Qu'est-ce qu'il y a de si drôle ?"
+    mc "Qu'est-ce qu'il y a de si drôle?"
 
 # game/code/d15/d15s04dw.rpy:517
 translate french d15s04dw_dfbd4ab8:
 
     # sb "Shut it, [mcname]. {w}What is so funny?"
-    sb "Ferme-la, [mcname]. {w}Qu'est-ce qu'il y a de si drôle ?"
+    sb "Ferme-la, [mcname]. {w}Qu'est-ce qu'il y a de si drôle?"
 
 # game/code/d15/d15s04dw.rpy:520
 translate french d15s04dw_72a911b0:
@@ -824,7 +824,7 @@ translate french d15s04dw_aa9977f0:
 translate french d15s04dw_a922091f:
 
     # dw "Which part of \"shut up\" did you not understand?"
-    dw "Quelle partie de \"tais-toi\" tu n'as pas compris ?"
+    dw "Quelle partie de \"tais-toi\" tu n'as pas compris?"
 
 # game/code/d15/d15s04dw.rpy:536
 translate french d15s04dw_f98f627b:
@@ -842,7 +842,7 @@ translate french d15s04dw_4b0e57ee:
 translate french d15s04dw_5fc720b7:
 
     # mct "Mommy? {w}Help!"
-    mct "Maman ? {w}à l'Aide !"
+    mct "Maman? {w}à l'Aide!"
 
 # game/code/d15/d15s04dw.rpy:553
 translate french d15s04dw_5fd72cc0:
@@ -884,7 +884,7 @@ translate french d15s04dw_87177ee3:
 translate french d15s04dw_0665cf81:
 
     # dw "Did you hate me?"
-    dw "Est-ce que tu me détestais ?"
+    dw "Est-ce que tu me détestais?"
 
 # game/code/d15/d15s04dw.rpy:590
 translate french d15s04dw_1b364781:
@@ -896,7 +896,7 @@ translate french d15s04dw_1b364781:
 translate french d15s04dw_4323ba14:
 
     # dw "Do you think... maybe... {w}Could we be friends again?"
-    dw "Pensez-vous... peut-être... {w}Pourrions-nous redevenir amis ?"
+    dw "Pensez-vous... peut-être... {w}Pourrions-nous redevenir amis?"
 
 # game/code/d15/d15s04dw.rpy:596
 translate french d15s04dw_6be3a36c:
@@ -914,7 +914,7 @@ translate french d15s04dw_01992d43:
 translate french d15s04dw_76c236a6:
 
     # sb "So, what do we do with [mcname]?"
-    sb "Alors, qu'est-ce qu'on fait de [mcname] ?"
+    sb "Alors, qu'est-ce qu'on fait de [mcname]?"
 
 # game/code/d15/d15s04dw.rpy:604
 translate french d15s04dw_5e4ab070:
@@ -950,19 +950,19 @@ translate french d15s04dw_1d672962:
 translate french d15s04dw_ba14bff7:
 
     # mc "Have you considered a threesome?"
-    mc "Avez-vous envisagé un plan à trois ?"
+    mc "Avez-vous envisagé un plan à trois?"
 
 # game/code/d15/d15s04dw.rpy:622
 translate french d15s04dw_a8d44f5e:
 
     # dw "Do you still carry toys around with you wherever you go?"
-    dw "Est-ce que tu emportes toujours des jouets avec toi partout où tu vas ?"
+    dw "Est-ce que tu emportes toujours des jouets avec toi partout où tu vas?"
 
 # game/code/d15/d15s04dw.rpy:625
 translate french d15s04dw_885b35ba:
 
     # sb "Of course. What are you thinking?"
-    sb "Bien sûr. A quoi penses-tu ?"
+    sb "Bien sûr. A quoi penses-tu?"
 
 # game/code/d15/d15s04dw.rpy:628
 translate french d15s04dw_20b797db:
@@ -980,7 +980,7 @@ translate french d15s04dw_d59efa93:
 translate french d15s04dw_1e901623:
 
     # sb "So, one of us fucks his mouth while the other fucks his ass, and then we switch?"
-    sb "Alors, l'une de nous lui baise la bouche pendant que l'autre lui baise le cul, et puis on échange ?"
+    sb "Alors, l'une de nous lui baise la bouche pendant que l'autre lui baise le cul, et puis on échange?"
 
 # game/code/d15/d15s04dw.rpy:637
 translate french d15s04dw_c51a8805:
@@ -992,7 +992,7 @@ translate french d15s04dw_c51a8805:
 translate french d15s04dw_3231b000:
 
     # mct "I don't like this idea at all!"
-    mct "Je n'aime pas du tout cette idée !"
+    mct "Je n'aime pas du tout cette idée!"
 
 # game/code/d15/d15s04dw.rpy:643
 translate french d15s04dw_2e0d465a:
@@ -1004,7 +1004,7 @@ translate french d15s04dw_2e0d465a:
 translate french d15s04dw_8f0eb6da:
 
     # dw "Honestly? Same."
-    dw "Honnêtement ? Pareil."
+    dw "Honnêtement? Pareil."
 
 # game/code/d15/d15s04dw.rpy:649
 translate french d15s04dw_3afdea69:
@@ -1016,7 +1016,7 @@ translate french d15s04dw_3afdea69:
 translate french d15s04dw_c3981c17:
 
     # dw "Like.. friends?"
-    dw "Comme… des amis ?"
+    dw "Comme… des amis?"
 
 # game/code/d15/d15s04dw.rpy:655
 translate french d15s04dw_3969dcdb:
@@ -1028,7 +1028,7 @@ translate french d15s04dw_3969dcdb:
 translate french d15s04dw_28843389:
 
     # mc "Little help?"
-    mc "Un peu d'aide ?"
+    mc "Un peu d'aide?"
 
 # game/code/d15/d15s04dw.rpy:666
 translate french d15s04dw_d9af6597:

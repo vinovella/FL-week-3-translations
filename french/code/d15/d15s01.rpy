@@ -56,7 +56,7 @@ translate french d15s01_546d00c0:
 translate french d15s01_dbd1a0f1:
 
     # mct "Was she naked? {w}Why was she naked?"
-    mct "Était-elle nue ? {w}Pourquoi était-elle nue?"
+    mct "Était-elle nue? {w}Pourquoi était-elle nue?"
 
 # game/code/d15/d15s01.rpy:209
 translate french d15s01_98c8094a:
@@ -284,7 +284,7 @@ translate french d15s01_thoughts_LC_04686833:
 translate french d15s01_thoughts_LC_ca0a9de5:
 
     # mct "It reminds me of that \"Love Conquers All\" cut of \"Brazil\", where they chopped off the final minutes of the movie."
-    mct "Cela me rappelle ce extrait de « L'amour conquiert tout » de « Brésil », où ils ont coupé les dernières minutes du film.."
+    mct "Cela me rappelle ce extrait de \"L'amour conquiert tout\" de \"Brésil\", où ils ont coupé les dernières minutes du film.."
 
 # game/code/d15/d15s01.rpy:338
 translate french d15s01_thoughts_LC_ce95388b:
@@ -296,7 +296,7 @@ translate french d15s01_thoughts_LC_ce95388b:
 translate french d15s01_thoughts_LC_d78280ea:
 
     # mct "It seems like Studio Executives do that all the time - changing a film to make it appeal to a wider audience."
-    mct "Il semble que les dirigeants des studios fassent cela tout le temps : changer un film pour le rendre attrayant pour un public plus large.."
+    mct "Il semble que les dirigeants des studios fassent cela tout le temps: changer un film pour le rendre attrayant pour un public plus large.."
 
 # game/code/d15/d15s01.rpy:343
 translate french d15s01_thoughts_LC_2fbeeb00:
@@ -344,7 +344,7 @@ translate french d15s01_thoughts_NTR_66c12cfc:
 translate french d15s01_thoughts_NTR_7a02c46f:
 
     # mct "What does it want me to enter? {w}No, that's stupid. What the hell am I thinking?"
-    mct "Dans quoi veut-il que j'entre ? {w}Non, c'est stupide. À quoi je pense?"
+    mct "Dans quoi veut-il que j'entre? {w}Non, c'est stupide. À quoi je pense?"
 
 # game/code/d15/d15s01.rpy:364
 translate french d15s01_thoughts_NTR_87b9dc8f:
@@ -380,7 +380,7 @@ translate french d15s01_cagedecision_ecc974f8:
 translate french d15s01_cagedecision_025138ba:
 
     # arj "You can't do that! It would-"
-    arj "Vous ne pouvez pas faire ça ! Ce serait-"
+    arj "Vous ne pouvez pas faire ça! Ce serait-"
 
 # game/code/d15/d15s01.rpy:386
 translate french d15s01_cagedecision_dc4db0c7:
@@ -392,7 +392,7 @@ translate french d15s01_cagedecision_dc4db0c7:
 translate french d15s01_cagedecision_daf1ca7b:
 
     # lc "It would what? {w}AmRose, what do you mean?"
-    lc "Ce serait quoi ? {w}AmRose, que veux-tu dire?"
+    lc "Ce serait quoi? {w}AmRose, que veux-tu dire?"
 
 # game/code/d15/d15s01.rpy:392
 translate french d15s01_cagedecision_b479318b:
@@ -452,7 +452,7 @@ translate french d15s01_cagedecision_11455b53:
 translate french d15s01_cagedecision_a3c5d05f:
 
     # lc "You failed once. You failed a challenge. And now you want to give up? You want to just quit the game?"
-    lc "Vous avez échoué une fois. Vous avez échoué à un défi. Et maintenant tu veux abandonner ? Tu veux juste quitter le jeu?"
+    lc "Vous avez échoué une fois. Vous avez échoué à un défi. Et maintenant tu veux abandonner? Tu veux juste quitter le jeu?"
 
 # game/code/d15/d15s01.rpy:418
 translate french d15s01_cagedecision_3ab92e4b:
@@ -464,7 +464,7 @@ translate french d15s01_cagedecision_3ab92e4b:
 translate french d15s01_cagedecision_959126b6:
 
     # lc "Do you think they wanted you to fail? Do you think they want you to just give up?"
-    lc "Pensez-vous qu’ils voulaient que vous échouiez ? Pensez-vous qu'ils veulent que vous abandonniez?"
+    lc "Pensez-vous qu’ils voulaient que vous échouiez? Pensez-vous qu'ils veulent que vous abandonniez?"
 
 # game/code/d15/d15s01.rpy:422
 translate french d15s01_cagedecision_89673278:
@@ -494,7 +494,7 @@ translate french d15s01_cagedecision_fd6fc90b:
 translate french d15s01_cagedecision_019a10bc:
 
     # lc "Well you know what? Shit happens. Deal with it; Man up; Soldier on. You can do this."
-    lc "Eh bien, tu sais quoi ? Des merdes arrivent. Traitez-le ; Homme debout ; Soldat. Tu peux faire ça."
+    lc "Eh bien, tu sais quoi? Des merdes arrivent. Traitez-le; Homme debout; Soldat. Tu peux faire ça."
 
 # game/code/d15/d15s01.rpy:434
 translate french d15s01_cagedecision_db581ccd:
@@ -656,7 +656,7 @@ translate french d15s01_cagedecision_35bde775:
 translate french d15s01_cagedecision_ad4ce309:
 
     # lc "Why didn't someone tell me about these things before? What do these letters mean?"
-    lc "Pourquoi personne ne m’a parlé de ces choses avant ? Que signifient ces lettres?"
+    lc "Pourquoi personne ne m’a parlé de ces choses avant? Que signifient ces lettres?"
 
 # game/code/d15/d15s01.rpy:514
 translate french d15s01_cagedecision_e3898994:
@@ -908,13 +908,13 @@ translate french d15s01_arj_bj_48643e5c:
 translate french d15s01_arj_bj_adb345ba:
 
     # mct "What could possibly go wrong? Just a fucking cock cage labeled NTR."
-    mct "Qu’est-ce qui pourrait mal se passer ? Juste une putain de cage à bites étiquetée NTR."
+    mct "Qu’est-ce qui pourrait mal se passer? Juste une putain de cage à bites étiquetée NTR."
 
 # game/code/d15/d15s01.rpy:722
 translate french d15s01_arj_bj_bb7f624e:
 
     # mct "What could possibly go wrong? Just a fucking cock cage labeled LC."
-    mct "Qu’est-ce qui pourrait mal se passer ? Juste une putain de cage à bites étiquetée LC."
+    mct "Qu’est-ce qui pourrait mal se passer? Juste une putain de cage à bites étiquetée LC."
 
 # game/code/d15/d15s01.rpy:729
 translate french d15s01_arj_bj_a71f2947:
@@ -938,7 +938,7 @@ translate french d15s01_arj_bj_ca53ea96:
 translate french d15s01_arj_bj_9ffb2bca:
 
     # arj "See how he's twitching? He's about to cum."
-    arj "Tu vois comme il tremble ? Il est sur le point de jouir."
+    arj "Tu vois comme il tremble? Il est sur le point de jouir."
 
 # game/code/d15/d15s01.rpy:745
 translate french d15s01_arj_bj_8cad54d5:
@@ -1352,7 +1352,7 @@ translate french d15s01_face_fucking_5bb621ef:
 translate french d15s01_face_fucking_769474b6:
 
     # lc "She's more than just a friend, right? You have feelings for her."
-    lc "Elle est plus qu'une simple amie, n'est-ce pas ? Tu as des sentiments pour elle."
+    lc "Elle est plus qu'une simple amie, n'est-ce pas? Tu as des sentiments pour elle."
 
 # game/code/d15/d15s01.rpy:1058
 translate french d15s01_face_fucking_4fc3f502:
@@ -1364,7 +1364,7 @@ translate french d15s01_face_fucking_4fc3f502:
 translate french d15s01_face_fucking_9d3775d3:
 
     # lc "So, she's a fuckbuddy? You have sex sometimes, but are mostly just friends?"
-    lc "Alors, c'est une copine de baise ? Vous avez des relations sexuelles parfois, mais vous n'êtes pour la plupart que des amis?"
+    lc "Alors, c'est une copine de baise? Vous avez des relations sexuelles parfois, mais vous n'êtes pour la plupart que des amis?"
 
 # game/code/d15/d15s01.rpy:1064
 translate french d15s01_face_fucking_6f80d560:
@@ -1376,7 +1376,7 @@ translate french d15s01_face_fucking_6f80d560:
 translate french d15s01_face_fucking_3059131f:
 
     # lc "What did she say? I couldn't quite hear her with your cock in her mouth."
-    lc "Qu'a-t-elle dit ? Je ne pouvais pas vraiment l'entendre avec ta bite dans sa bouche."
+    lc "Qu'a-t-elle dit? Je ne pouvais pas vraiment l'entendre avec ta bite dans sa bouche."
 
 # game/code/d15/d15s01.rpy:1070
 translate french d15s01_face_fucking_3ea01a2c:
@@ -1514,7 +1514,7 @@ translate french d15s01_face_fucking_dd0dc79d:
 translate french d15s01_face_fucking_3d7180ba:
 
     # lc "You hear that?! She's loving this!"
-    lc "Vous entendez ça ?! Elle adore ça!"
+    lc "Vous entendez ça?! Elle adore ça!"
 
 # game/code/d15/d15s01.rpy:1143
 translate french d15s01_face_fucking_3df108b5:
@@ -1532,13 +1532,13 @@ translate french d15s01_face_fucking_124b75bc:
 translate french d15s01_face_fucking_b6d00219:
 
     # mc "OOoohhhFUCK!!! Oh FUCK!!! FUCK YEAH!!! FUCK!!!"
-    mc "OOoohhhFUCK!!! Oh PUTAIN !!! PUTAIN OUAIS !!! PUTAIN!!!"
+    mc "OOoohhhFUCK!!! Oh PUTAIN!!! PUTAIN OUAIS!!! PUTAIN!!!"
 
 # game/code/d15/d15s01.rpy:1155
 translate french d15s01_face_fucking_a71fedb2:
 
     # lc "Spray her! Now!!!"
-    lc "Ejacule ! Maintenant!!!"
+    lc "Ejacule! Maintenant!!!"
 
 # game/code/d15/d15s01.rpy:1159
 translate french d15s01_face_fucking_c225de4a:
@@ -1628,7 +1628,7 @@ translate french d15s01_face_fucking_5912a854:
 translate french d15s01_face_fucking_94f10360:
 
     # lc "What should it be, then? Slut, Slave, Slag? Or maybe not an S-word. There's a C-word that comes to mind."
-    lc "Que devrait-elle être alors ? Suceuse, soumise, salope ? Ou peut-être pas un mot en S. Il y a un mot en C qui me vient à l'esprit."
+    lc "Que devrait-elle être alors? Suceuse, soumise, salope? Ou peut-être pas un mot en S. Il y a un mot en C qui me vient à l'esprit."
 
 # game/code/d15/d15s01.rpy:1204
 translate french d15s01_face_fucking_4bfc32a3:
@@ -1850,7 +1850,7 @@ translate french d15s01_end_7ea95347:
 translate french d15s01_end_346893e6:
 
     # mct "What the hell is the point of this, though? Why does Fetish Locator want me caged?"
-    mct "Mais à quoi ça sert ? Pourquoi Fetish Locator veut-il que je sois en cage?"
+    mct "Mais à quoi ça sert? Pourquoi Fetish Locator veut-il que je sois en cage?"
 
 # game/code/d15/d15s01.rpy:1354
 translate french d15s01_end_c7d3eb14:
@@ -1880,7 +1880,7 @@ translate french d15s01_end_213654d5:
 translate french d15s01_end_828dcaf7:
 
     # arj "Hey [mcname]? It's AmRose."
-    arj "Hé [mcname] ? C'est AmRose."
+    arj "Hé [mcname]? C'est AmRose."
 
 # game/code/d15/d15s01.rpy:1365
 translate french d15s01_end_edff960a:
@@ -2102,7 +2102,7 @@ translate french d15s01_end_a9661f87:
 translate french d15s01_end_aa85105f:
 
     # mct "I earned points? {w}I'm getting points again?"
-    mct "J'ai gagné des points ? {w}Je reçois à nouveau des points?"
+    mct "J'ai gagné des points? {w}Je reçois à nouveau des points?"
 
 # game/code/d15/d15s01.rpy:1465
 translate french d15s01_end_a89b6bff:
@@ -2114,7 +2114,7 @@ translate french d15s01_end_a89b6bff:
 translate french d15s01_end_a8cf7fe0:
 
     # mct "How is that supposed to work now that I'm going around uncocked?"
-    mct "Comment est-ce censé fonctionner maintenant que je me promène sans armement ??"
+    mct "Comment est-ce censé fonctionner maintenant que je me promène sans armement??"
 
 # game/code/d15/d15s01.rpy:1471
 translate french d15s01_end_f495781b:
@@ -2150,7 +2150,7 @@ translate french d15s01_end_5aa30740:
 translate french d15s01_end_f61dc92e:
 
     # nk "Could you come by the coffee shop this morning? Or are you busy today?"
-    nk "Pourrais-tu passer au café ce matin ? Ou es-tu occupé aujourd'hui?"
+    nk "Pourrais-tu passer au café ce matin? Ou es-tu occupé aujourd'hui?"
 
 # game/code/d15/d15s01.rpy:1480
 translate french d15s01_end_aea53fd2:

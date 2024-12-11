@@ -20,7 +20,7 @@ translate french d19s04dw_5c386de0:
 translate french d19s04dw_55942bbd:
 
     # dw "I assume you still remember what I wanted you to do?"
-    dw "Je suppose que tu te souviens encore de ce que je voulais que tu fasses ?"
+    dw "Je suppose que tu te souviens encore de ce que je voulais que tu fasses?"
 
 # game/code/d19/d19s04dw.rpy:66
 translate french d19s04dw_7fd3a623:
@@ -38,7 +38,7 @@ translate french d19s04dw_9ec79316:
 translate french d19s04dw_cb94cf23:
 
     # dw "Tell me, pet. Have you ever played with ice before?"
-    dw "Dis-moi, animal de compagnie. As-tu déjà joué avec de la glace auparavant ?"
+    dw "Dis-moi, animal de compagnie. As-tu déjà joué avec de la glace auparavant?"
 
 # game/code/d19/d19s04dw.rpy:101
 translate french d19s04dw_cfb40a80:
@@ -56,7 +56,7 @@ translate french d19s04dw_5e021c60:
 translate french d19s04dw_2339a4f8:
 
     # dw "I don't want to hear a single peep from you. If I hear a sound or see your little dick twitch in anticipation again, it will only get worse, understand?"
-    dw "Je ne veux pas entendre un seul mot de ta part. Si j'entends un son ou si je vois ta petite bite trembler à nouveau par anticipation, ça ne fera qu'empirer, tu comprends ?"
+    dw "Je ne veux pas entendre un seul mot de ta part. Si j'entends un son ou si je vois ta petite bite trembler à nouveau par anticipation, ça ne fera qu'empirer, tu comprends?"
 
 # game/code/d19/d19s04dw.rpy:111
 translate french d19s04dw_7fd3a623_1:
@@ -68,7 +68,7 @@ translate french d19s04dw_7fd3a623_1:
 translate french d19s04dw_8e92386c:
 
     # dd "That looks neat. Can I join in?"
-    dd "Ça a l'air sympa. Je peux participer ?"
+    dd "Ça a l'air sympa. Je peux participer?"
 
 # game/code/d19/d19s04dw.rpy:138
 translate french d19s04dw_7171f033:
@@ -86,7 +86,7 @@ translate french d19s04dw_9d8752ea:
 translate french d19s04dw_c55c134b:
 
     # dw "Hm? I {i}assume{/i} you don't have a problem with doing as I say?"
-    dw "Hum ? Je {i}suppose{/i} que tu n'a aucun problème à faire ce que je dis ?"
+    dw "Hum? Je {i}suppose{/i} que tu n'a aucun problème à faire ce que je dis?"
 
 # game/code/d19/d19s04dw.rpy:145
 translate french d19s04dw_cfb40a80_1:
@@ -134,7 +134,7 @@ translate french d19s04dw_517c6d3a:
 translate french d19s04dw_88f28d6c:
 
     # dd "Can I continue with the ice? He's cute when he squirms."
-    dd "Je peux continuer avec la glace ? Il est mignon quand il se tortille."
+    dd "Je peux continuer avec la glace? Il est mignon quand il se tortille."
 
 # game/code/d19/d19s04dw.rpy:184
 translate french d19s04dw_b079c616:
@@ -152,7 +152,7 @@ translate french d19s04dw_db198c55:
 translate french d19s04dw_e907dbf6:
 
     # dw "I will ride you now, pet. And since you're so keen on getting hard, you will stay hard for me until I cum. But you won't cum, not a single drop. Am I understood?"
-    dw "Je vais te monter maintenant, animal de compagnie. Et comme tu as tellement envie de devenir dur, tu resteras dur pour moi jusqu'à ce que je jouisse. Mais tu ne jouiras pas, pas une seule goutte. Est-ce compris ?"
+    dw "Je vais te monter maintenant, animal de compagnie. Et comme tu as tellement envie de devenir dur, tu resteras dur pour moi jusqu'à ce que je jouisse. Mais tu ne jouiras pas, pas une seule goutte. Est-ce compris?"
 
 # game/code/d19/d19s04dw.rpy:203
 translate french d19s04dw_00e88e1b:
@@ -170,25 +170,25 @@ translate french d19s04dw_cbe64562:
 translate french d19s04dw_1f3a995d:
 
     # dw "Try!?"
-    dw "Essayer !?"
+    dw "Essayer!?"
 
 # game/code/d19/d19s04dw.rpy:218
 translate french d19s04dw_40e30145:
 
     # mc "I won't cum, Mistress!"
-    mc "Je ne jouirai pas, Maîtresse !"
+    mc "Je ne jouirai pas, Maîtresse!"
 
 # game/code/d19/d19s04dw.rpy:234
 translate french d19s04dw_8834d0c7:
 
     # dw "Who do you belong to, pet?"
-    dw "A qui es-tu, animal de compagnie ?"
+    dw "A qui es-tu, animal de compagnie?"
 
 # game/code/d19/d19s04dw.rpy:237
 translate french d19s04dw_4921ed58:
 
     # mc "I'm yours, Mistress! Only yours!"
-    mc "Je suis à toi, Maîtresse !  Seulement à toi !"
+    mc "Je suis à toi, Maîtresse!  Seulement à toi!"
 
 # game/code/d19/d19s04dw.rpy:248
 translate french d19s04dw_c1853f0b:
@@ -200,13 +200,13 @@ translate french d19s04dw_c1853f0b:
 translate french d19s04dw_76507fd8:
 
     # dw "Your dick belongs to me!"
-    dw "Ta bite m'appartient !"
+    dw "Ta bite m'appartient!"
 
 # game/code/d19/d19s04dw.rpy:263
 translate french d19s04dw_10189315:
 
     # mc "Yes, Mistress! Yes!"
-    mc "Oui, maîtresse ! Oui!"
+    mc "Oui, maîtresse! Oui!"
 
 # game/code/d19/d19s04dw.rpy:277
 translate french d19s04dw_a3f85ee0:
@@ -218,13 +218,13 @@ translate french d19s04dw_a3f85ee0:
 translate french d19s04dw_538a872f:
 
     # mc "Mistress, please! Please let me cum!"
-    mc "Maîtresse, s'il te plaît ! S'il te plaît, laisse-moi jouir !"
+    mc "Maîtresse, s'il te plaît! S'il te plaît, laisse-moi jouir!"
 
 # game/code/d19/d19s04dw.rpy:286
 translate french d19s04dw_93b40634:
 
     # dw "I said no! Don't make me repeat myself again."
-    dw "J'ai dit non ! Ne m'oblige pas à me répéter."
+    dw "J'ai dit non! Ne m'oblige pas à me répéter."
 
 # game/code/d19/d19s04dw.rpy:287
 translate french d19s04dw_db0d3f44:
@@ -236,7 +236,7 @@ translate french d19s04dw_db0d3f44:
 translate french d19s04dw_d7c2c553:
 
     # mc "Mistress, I can't! I'm gonna cum!"
-    mc "Maîtresse, je ne peux pas ! Je vais jouir !"
+    mc "Maîtresse, je ne peux pas! Je vais jouir!"
 
 # game/code/d19/d19s04dw.rpy:307
 translate french d19s04dw_53167eac:
@@ -284,13 +284,13 @@ translate french d19s04dw_7a82f74a:
 translate french d19s04dw_24340b5c:
 
     # dd "Aw, isn't he sweet?"
-    dd "Oh, il n'est pas gentil ?"
+    dd "Oh, il n'est pas gentil?"
 
 # game/code/d19/d19s04dw.rpy:350
 translate french d19s04dw_5fea85d6:
 
     # dw "*Chuckles* Can you untie him, Daisy?"
-    dw "*rires* Peux-tu le détacher, Daisy ?"
+    dw "*rires* Peux-tu le détacher, Daisy?"
 
 # game/code/d19/d19s04dw.rpy:355
 translate french d19s04dw_b18a06ec:
@@ -350,7 +350,7 @@ translate french d19s04dw_693e803c:
 translate french d19s04dw_204c445a:
 
     # mc "I-uhm, I mean, where are you planning on going, Mistress?"
-    mc "Je-euh, je veux dire, où compte-tu aller, Maîtresse ?"
+    mc "Je-euh, je veux dire, où compte-tu aller, Maîtresse?"
 
 # game/code/d19/d19s04dw.rpy:420
 translate french d19s04dw_13ca4a30:
@@ -392,7 +392,7 @@ translate french d19s04dw_ae0cabb5:
 translate french d19s04dw_bbe97997:
 
     # dw "...You done?"
-    dw "...c'est vrai ?"
+    dw "...c'est vrai?"
 
 # game/code/d19/d19s04dw.rpy:440
 translate french d19s04dw_089c23d6:
@@ -458,13 +458,13 @@ translate french d19s04dw_88f22d05:
 translate french d19s04dw_1573e260:
 
     # dd "You couldn't have dropped it a little softer?"
-    dd "Tu n'aurais pas pu le laisser tomber un peu plus doucement ?"
+    dd "Tu n'aurais pas pu le laisser tomber un peu plus doucement?"
 
 # game/code/d19/d19s04dw.rpy:474
 translate french d19s04dw_2df6e076:
 
     # dw "I calmly explained the situation. He's not a child. What more does he want?"
-    dw "J'ai expliqué calmement la situation. Ce n'est pas un enfant. Que veut-il de plus ?"
+    dw "J'ai expliqué calmement la situation. Ce n'est pas un enfant. Que veut-il de plus?"
 
 # game/code/d19/d19s04dw.rpy:477
 translate french d19s04dw_1ce1ea50:
@@ -476,13 +476,13 @@ translate french d19s04dw_1ce1ea50:
 translate french d19s04dw_170db055:
 
     # mc "Can I come with you?"
-    mc "Je peux venir avec toi ?"
+    mc "Je peux venir avec toi?"
 
 # game/code/d19/d19s04dw.rpy:481
 translate french d19s04dw_ecc58be6:
 
     # dw "You want to come with me? Seriously?"
-    dw "Tu veux venir avec moi ? Sérieusement?"
+    dw "Tu veux venir avec moi? Sérieusement?"
 
 # game/code/d19/d19s04dw.rpy:484
 translate french d19s04dw_e7a78c4e:
@@ -512,7 +512,7 @@ translate french d19s04dw_8a6c5f57:
 translate french d19s04dw_ca45755f:
 
     # dw "*Laughs* You're really that hellbent on coming with me?"
-    dw "*Rires* Tu es vraiment déterminé à venir avec moi ?"
+    dw "*Rires* Tu es vraiment déterminé à venir avec moi?"
 
 # game/code/d19/d19s04dw.rpy:496
 translate french d19s04dw_f800bed0:
@@ -551,3 +551,4 @@ translate french strings:
     # game/code/d19/d19s04dw.rpy:433
     old "No..."
     new "Non..."
+

@@ -2,7 +2,7 @@
 translate french d15s05b_ext_247f8221:
 
     # mc "Where are we going, again?"
-    mc "Où allons-nous, déjà ?"
+    mc "Où allons-nous, déjà?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:68
 translate french d15s05b_ext_1334b3b7:
@@ -26,7 +26,7 @@ translate french d15s05b_ext_407ab046:
 translate french d15s05b_ext_9b13a846:
 
     # mc "Sure. I just don't understand why we can't know where we are going?"
-    mc "Bien sûr. Je ne comprends tout simplement pas pourquoi nous ne pouvons pas savoir où nous allons ?"
+    mc "Bien sûr. Je ne comprends tout simplement pas pourquoi nous ne pouvons pas savoir où nous allons?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:80
 translate french d15s05b_ext_29305707:
@@ -128,7 +128,7 @@ translate french d15s05b_ext_1e348f28:
 translate french d15s05b_ext_12578c2b:
 
     # mc "What? Really?"
-    mc "Quoi ? Vraiment ?"
+    mc "Quoi? Vraiment?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:123
 translate french d15s05b_ext_34426ec3:
@@ -152,7 +152,7 @@ translate french d15s05b_ext_4d7e3b72:
 translate french d15s05b_ext_08dfd9f1:
 
     # mc "Cool, so can we know what the plan is now?"
-    mc "Cool, alors pouvons-nous savoir quel est le plan maintenant ?"
+    mc "Cool, alors pouvons-nous savoir quel est le plan maintenant?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:132
 translate french d15s05b_ext_a9796ef1:
@@ -170,7 +170,7 @@ translate french d15s05b_ext_62b9cbb5:
 translate french d15s05b_ext_2aa15037:
 
     # pw "Nora, did you bring your strap-on like I told you?"
-    pw "Nora, as-tu apporté ton gode-ceinture comme je te l'ai dit ?"
+    pw "Nora, as-tu apporté ton gode-ceinture comme je te l'ai dit?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:140
 translate french d15s05b_ext_5437f056:
@@ -188,7 +188,7 @@ translate french d15s05b_ext_6570e711:
 translate french d15s05b_ext_69c4f9ad:
 
     # pw "Do you two want to fuck around all day or do you want to hear my plan for how we can fuck each other?"
-    pw "Voulez-vous tous les deux baiser toute la journée ou voulez-vous entendre mon plan sur la façon dont nous pouvons nous baiser ?"
+    pw "Voulez-vous tous les deux baiser toute la journée ou voulez-vous entendre mon plan sur la façon dont nous pouvons nous baiser?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:148
 translate french d15s05b_ext_95544649:
@@ -242,25 +242,25 @@ translate french d15s05b_ext_547c778d:
 translate french d15s05b_ext_f8af25b5:
 
     # nk "Seriously? Right here?{w} Anyone could come along at any time."
-    nk "Sérieusement ? Juste ici ?{w} N'importe qui peut venir à tout moment."
+    nk "Sérieusement? Juste ici?{w} N'importe qui peut venir à tout moment."
 
 # game/code/d15/extended/d15s05b_ext.rpy:171
 translate french d15s05b_ext_f0e565d3:
 
     # pw "Would it help if you were handcuffed and tied up?"
-    pw "Est-ce que ça aiderait si tu étais menotté et attaché ?"
+    pw "Est-ce que ça aiderait si tu étais menotté et attaché?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:174
 translate french d15s05b_ext_6f31513f:
 
     # nk "Honestly?{w} Yes, please. I'd like that."
-    nk "Honnêtement ?{w} Oui, s'il vous plaît. J'aimerais ça."
+    nk "Honnêtement?{w} Oui, s'il vous plaît. J'aimerais ça."
 
 # game/code/d15/extended/d15s05b_ext.rpy:175
 translate french d15s05b_ext_a1137cf3:
 
     # nk "Who am I kidding?{w} I'd fucking love that."
-    nk "De qui je me moque ?{w} J'adorerais ça."
+    nk "De qui je me moque?{w} J'adorerais ça."
 
 # game/code/d15/extended/d15s05b_ext.rpy:178
 translate french d15s05b_ext_0fd0b318:
@@ -272,7 +272,7 @@ translate french d15s05b_ext_0fd0b318:
 translate french d15s05b_ext_be46e3dc:
 
     # mc "Then what happens?"
-    mc "Alors que se passe-t-il ?"
+    mc "Alors que se passe-t-il?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:184
 translate french d15s05b_ext_1cb9d682:
@@ -296,7 +296,7 @@ translate french d15s05b_ext_b7facf3b:
 translate french d15s05b_ext_b392aabd:
 
     # nk "Really? It seems..."
-    nk "Vraiment ? Il semble..."
+    nk "Vraiment? Il semble..."
 
 # game/code/d15/extended/d15s05b_ext.rpy:192
 translate french d15s05b_ext_9112a628:
@@ -332,7 +332,7 @@ translate french d15s05b_ext_b29be953:
 translate french d15s05b_ext_ec5968ee:
 
     # nk "I assume that's when the strap-on comes into play?"
-    nk "Je suppose que c'est à ce moment-là que le gode-ceinture entre en jeu ?"
+    nk "Je suppose que c'est à ce moment-là que le gode-ceinture entre en jeu?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:210
 translate french d15s05b_ext_3bac95c7:
@@ -350,13 +350,13 @@ translate french d15s05b_ext_95a7e131:
 translate french d15s05b_ext_618559e6:
 
     # pw "You want me to use my strap-on on your pussy?"
-    pw "Tu veux que j'utilise mon gode-ceinture sur ta chatte ?"
+    pw "Tu veux que j'utilise mon gode-ceinture sur ta chatte?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:215
 translate french d15s05b_ext_8818d563:
 
     # nk "Can you two spit-roast me?{w} I don't care which holes you use - as long as [mcname] doesn't cum in my pussy."
-    nk "Pouvez-vous me faire rôtir à la broche ?{w} Je me fiche des trous que vous utilisez - tant que [mcname] ne jouit pas dans ma chatte."
+    nk "Pouvez-vous me faire rôtir à la broche?{w} Je me fiche des trous que vous utilisez - tant que [mcname] ne jouit pas dans ma chatte."
 
 # game/code/d15/extended/d15s05b_ext.rpy:217
 translate french d15s05b_ext_979fcb2a:
@@ -398,7 +398,7 @@ translate french d15s05b_ext_e52d7654:
 translate french d15s05b_ext_fdffff29:
 
     # pw "Shall we get started?"
-    pw "On commence ?"
+    pw "On commence?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:229
 translate french d15s05b_ext_74cc5fd7:
@@ -422,13 +422,13 @@ translate french d15s05b_ext_1cd90951:
 translate french d15s05b_ext_2daca859:
 
     # nk "What? Why?"
-    nk "Quoi ? Pourquoi ?"
+    nk "Quoi? Pourquoi?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:242
 translate french d15s05b_ext_06a87d73:
 
     # pw "Can't you just take it off?{w} That would seriously fuck with the Fetish of the Day."
-    pw "Tu ne peux pas simplement l'enlever ?{w} Cela nuirait sérieusement au fétichisme du jour."
+    pw "Tu ne peux pas simplement l'enlever?{w} Cela nuirait sérieusement au fétichisme du jour."
 
 # game/code/d15/extended/d15s05b_ext.rpy:245
 translate french d15s05b_ext_a8f672a7:
@@ -440,7 +440,7 @@ translate french d15s05b_ext_a8f672a7:
 translate french d15s05b_ext_89033e80:
 
     # nk "Are you okay? Does it fit properly?"
-    nk "Est-ce que ça va ? Est-ce que ça va bien ?"
+    nk "Est-ce que ça va? Est-ce que ça va bien?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:249
 translate french d15s05b_ext_8cf7f864:
@@ -458,19 +458,19 @@ translate french d15s05b_ext_065bd3ce:
 translate french d15s05b_ext_5b4783eb:
 
     # pw "Is it going to bother you if we have fun without you? Did you want to leave?"
-    pw "Est-ce que ça va te déranger si on s'amuse sans toi ? Tu voulais partir ?"
+    pw "Est-ce que ça va te déranger si on s'amuse sans toi? Tu voulais partir?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:259
 translate french d15s05b_ext_91567b8a:
 
     # mc "No!{w} This should be fun to watch, and I can protect you if anything hinky occurs."
-    mc "Non !{w} Cela devrait être amusant à regarder, et je peux vous protéger si quelque chose de bizarre se produit."
+    mc "Non!{w} Cela devrait être amusant à regarder, et je peux vous protéger si quelque chose de bizarre se produit."
 
 # game/code/d15/extended/d15s05b_ext.rpy:262
 translate french d15s05b_ext_03467ac8:
 
     # pw "Hinky?"
-    pw "Hinky ?"
+    pw "Hinky?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:265
 translate french d15s05b_ext_452f0f26:
@@ -488,7 +488,7 @@ translate french d15s05b_ext_55310c42:
 translate french d15s05b_ext_0ca08c5a:
 
     # nk "Well, yeah.{w} I mean, it's just a sex toy, right? Toys are meant to be easy to take apart."
-    nk "Eh bien, ouais.{w} Je veux dire, c'est juste un jouet sexuel, n'est-ce pas ? Les jouets sont censés être faciles à démonter."
+    nk "Eh bien, ouais.{w} Je veux dire, c'est juste un jouet sexuel, n'est-ce pas? Les jouets sont censés être faciles à démonter."
 
 # game/code/d15/extended/d15s05b_ext.rpy:280
 translate french d15s05b_ext_13faf228:
@@ -500,13 +500,13 @@ translate french d15s05b_ext_13faf228:
 translate french d15s05b_ext_ef61e6dc:
 
     # nk "Also, well...{w} I wasn't always just a barista, ya'know?"
-    nk "Et bien...{w} Je n'ai pas toujours été qu'un barista, tu sais ?"
+    nk "Et bien...{w} Je n'ai pas toujours été qu'un barista, tu sais?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:284
 translate french d15s05b_ext_d9086256:
 
     # pw "Oh, you mean back when you busked?"
-    pw "Oh, tu veux dire quand tu jouais dans la rue ?"
+    pw "Oh, tu veux dire quand tu jouais dans la rue?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:286
 translate french d15s05b_ext_76ce10f5:
@@ -560,7 +560,7 @@ translate french d15s05b_ext_2b420f05:
 translate french d15s05b_ext_35ae0663:
 
     # nk "Will you let me tell this?"
-    nk "Voulez-vous me laisser dire ça ?"
+    nk "Voulez-vous me laisser dire ça?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:303
 translate french d15s05b_ext_64130f3c:
@@ -578,7 +578,7 @@ translate french d15s05b_ext_79e578bf:
 translate french d15s05b_ext_26bdabb3:
 
     # mc "Is that where you learned that you liked being tied up?"
-    mc "C'est là que tu as appris que tu aimais être attaché ?"
+    mc "C'est là que tu as appris que tu aimais être attaché?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:311
 translate french d15s05b_ext_320fb8db:
@@ -614,7 +614,7 @@ translate french d15s05b_ext_e9250c38:
 translate french d15s05b_ext_baaa53fe:
 
     # mc "What happened when you could escape?"
-    mc "Que s'est-il passé quand tu as pu t'échapper ?"
+    mc "Que s'est-il passé quand tu as pu t'échapper?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:325
 translate french d15s05b_ext_1335abd6:
@@ -716,7 +716,7 @@ translate french d15s05b_ext_ed61f28b:
 translate french d15s05b_fisto_8feb56a2:
 
     # pw "Should I lay down like I did last time?"
-    pw "Dois-je m'allonger comme je l'ai fait la dernière fois ?"
+    pw "Dois-je m'allonger comme je l'ai fait la dernière fois?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:394
 translate french d15s05b_fisto_a1a0fec0:
@@ -728,7 +728,7 @@ translate french d15s05b_fisto_a1a0fec0:
 translate french d15s05b_fisto_a1dff051:
 
     # nk "I've never tried this before. What positions are possible?"
-    nk "Je n'ai jamais essayé ça auparavant. Quelles positions sont possibles ?"
+    nk "Je n'ai jamais essayé ça auparavant. Quelles positions sont possibles?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:399
 translate french d15s05b_fisto_307b2d0c:
@@ -746,7 +746,7 @@ translate french d15s05b_fisto_0be7a93d:
 translate french d15s05b_fisto_56fe328a:
 
     # nk "What about squatting? Would that be comfortable?"
-    nk "Et si on s'accroupissait ? Est-ce que ce serait confortable ?"
+    nk "Et si on s'accroupissait? Est-ce que ce serait confortable?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:406
 translate french d15s05b_fisto_a0e1eb84:
@@ -770,13 +770,13 @@ translate french d15s05b_fisto_59a1cd24:
 translate french d15s05b_fisto_eaf70fdc:
 
     # pw "How does that look?"
-    pw "A quoi ça ressemble ?"
+    pw "A quoi ça ressemble?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:418
 translate french d15s05b_fisto_d0671d0c:
 
     # nk "Delicious. What's next?"
-    nk "Délicieux. Quelle est la prochaine étape ?"
+    nk "Délicieux. Quelle est la prochaine étape?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:421
 translate french d15s05b_fisto_36d186a3:
@@ -788,7 +788,7 @@ translate french d15s05b_fisto_36d186a3:
 translate french d15s05b_fisto_969ffc4f:
 
     # nk "Who's Karen?"
-    nk "Qui est Karen ?"
+    nk "Qui est Karen?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:426
 translate french d15s05b_fisto_38924ed8:
@@ -800,7 +800,7 @@ translate french d15s05b_fisto_38924ed8:
 translate french d15s05b_fisto_fae6f280:
 
     # pw "Did she enjoy anal?"
-    pw "Est-ce qu'elle aimait l'anal ?"
+    pw "Est-ce qu'elle aimait l'anal?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:432
 translate french d15s05b_fisto_51e34da1:
@@ -848,7 +848,7 @@ translate french d15s05b_fisto_5be031c1:
 translate french d15s05b_fisto_adcb82ae:
 
     # nk "So, how do I do this?"
-    nk "Alors, comment dois-je faire ça ?"
+    nk "Alors, comment dois-je faire ça?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:451
 translate french d15s05b_fisto_c4c95808:
@@ -872,7 +872,7 @@ translate french d15s05b_fisto_609f5851:
 translate french d15s05b_fisto_e7e3b888:
 
     # nk "Wow, really?!"
-    nk "Wow, vraiment ?!"
+    nk "Wow, vraiment?!"
 
 # game/code/d15/extended/d15s05b_ext.rpy:460
 translate french d15s05b_fisto_8a2cfc73:
@@ -908,25 +908,25 @@ translate french d15s05b_fisto_656cbfcd:
 translate french d15s05b_fisto_237acfcd:
 
     # nk "Okay, I think I've got this. What's next?"
-    nk "D'accord, je pense que j'ai compris. Quelle est la prochaine étape ?"
+    nk "D'accord, je pense que j'ai compris. Quelle est la prochaine étape?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:482
 translate french d15s05b_fisto_a1868500:
 
     # mc "Have you ever heard of the Silent Duck?"
-    mc "Avez-vous déjà entendu parler du Silent Duck ?"
+    mc "Avez-vous déjà entendu parler du Silent Duck?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:485
 translate french d15s05b_fisto_5949db7e:
 
     # nk "Does the Pope shit in the woods?"
-    nk "Est-ce que le Pape chie dans les bois ?"
+    nk "Est-ce que le Pape chie dans les bois?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:487
 translate french d15s05b_fisto_3a940123:
 
     # nk "Is that like a Red Herring or more like Gefilte Fish?"
-    nk "Est-ce que c'est comme un hareng rouge ou plutôt comme du Gefilte Fish ?"
+    nk "Est-ce que c'est comme un hareng rouge ou plutôt comme du Gefilte Fish?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:489
 translate french d15s05b_fisto_05500ff6:
@@ -1004,7 +1004,7 @@ translate french d15s05b_fisto_fb55fcb0:
 translate french d15s05b_fisto_17e7dcb7:
 
     # nk "Four down...{w} Let's see, how do I get my thumb in there?"
-    nk "Quatre en bas...{w} Voyons, comment puis-je mettre mon pouce là-dedans ?"
+    nk "Quatre en bas...{w} Voyons, comment puis-je mettre mon pouce là-dedans?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:518
 translate french d15s05b_fisto_8868f279:
@@ -1022,7 +1022,7 @@ translate french d15s05b_fisto_ddac711d:
 translate french d15s05b_fisto_5c57a6aa:
 
     # nk "Any other tips and tricks?"
-    nk "D'autres trucs et astuces ?"
+    nk "D'autres trucs et astuces?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:526
 translate french d15s05b_fisto_cb730f6b:
@@ -1046,13 +1046,13 @@ translate french d15s05b_fisto_b6c0b131:
 translate french d15s05b_fisto_0a916c00:
 
     # nk "Oops! Maybe not."
-    nk "Oups ! Peut-être pas."
+    nk "Oups! Peut-être pas."
 
 # game/code/d15/extended/d15s05b_ext.rpy:538
 translate french d15s05b_fisto_9ed14103:
 
     # pw "Do it again!"
-    pw "Refais-le !"
+    pw "Refais-le!"
 
 # game/code/d15/extended/d15s05b_ext.rpy:540
 translate french d15s05b_fisto_fe13b30d:
@@ -1064,7 +1064,7 @@ translate french d15s05b_fisto_fe13b30d:
 translate french d15s05b_fisto_e9a477b3:
 
     # pw "DO{w} IT{w} AGAIN!!"
-    pw "FAITES-LE{w} ENCORE !!"
+    pw "FAITES-LE{w} ENCORE!!"
 
 # game/code/d15/extended/d15s05b_ext.rpy:547
 translate french d15s05b_fisto_f9ab0fe1:
@@ -1082,13 +1082,13 @@ translate french d15s05b_fisto_25be8ab6:
 translate french d15s05b_fisto_ea9a7865:
 
     # pw "YESSS!!"
-    pw "OUIII !!"
+    pw "OUIII!!"
 
 # game/code/d15/extended/d15s05b_ext.rpy:564
 translate french d15s05b_fisto_cb4170ea:
 
     # pw "YESSSS!!!"
-    pw "OUIIIIIII !!"
+    pw "OUIIIIIII!!"
 
 # game/code/d15/extended/d15s05b_ext.rpy:568
 translate french d15s05b_fisto_7e60b93c:
@@ -1130,13 +1130,13 @@ translate french d15s05b_fisto_596f804f:
 translate french d15s05b_lesbians_d5be708e:
 
     # pw "[mcname], can you keep an eye out? This might get loud."
-    pw "[mcname], peux-tu garder un œil ouvert ? Cela pourrait devenir bruyant."
+    pw "[mcname], peux-tu garder un œil ouvert? Cela pourrait devenir bruyant."
 
 # game/code/d15/extended/d15s05b_ext.rpy:593
 translate french d15s05b_lesbians_4474354e:
 
     # nk "I like the sound of that. How do you want to do this?"
-    nk "J'aime le son de ça. Comment veux-tu faire ça ?"
+    nk "J'aime le son de ça. Comment veux-tu faire ça?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:595
 translate french d15s05b_lesbians_4c244689:
@@ -1190,19 +1190,19 @@ translate french d15s05b_lesbians_644c2e32:
 translate french d15s05b_lesbians_492fc88b:
 
     # nk "Do you need more lube?"
-    nk "As-tu besoin de plus de lubrifiant ?"
+    nk "As-tu besoin de plus de lubrifiant?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:641
 translate french d15s05b_lesbians_17f0cc70:
 
     # nk "Okay. Do you have any lube?"
-    nk "D'accord. As-tu du lubrifiant ?"
+    nk "D'accord. As-tu du lubrifiant?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:644
 translate french d15s05b_lesbians_294377ac:
 
     # pw "Nope!{w} Just ram it in there and make me beg."
-    pw "Non !{w} Il suffit de l'enfoncer là-dedans et de me faire supplier."
+    pw "Non!{w} Il suffit de l'enfoncer là-dedans et de me faire supplier."
 
 # game/code/d15/extended/d15s05b_ext.rpy:646
 translate french d15s05b_lesbians_3370d101:
@@ -1238,7 +1238,7 @@ translate french d15s05b_lesbians_nora_7b35dd2c:
 translate french d15s05b_lesbians_nora_2fdd42dc:
 
     # pw "How does this sort of thing feel for you?"
-    pw "Qu'est-ce que ce genre de chose te fait ?"
+    pw "Qu'est-ce que ce genre de chose te fait?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:685
 translate french d15s05b_lesbians_nora_0686abd0:
@@ -1250,7 +1250,7 @@ translate french d15s05b_lesbians_nora_0686abd0:
 translate french d15s05b_lesbians_nora_7416233d:
 
     # pw "So it's not just the physical sensation? It's some sort of power fantasy?"
-    pw "Donc ce n'est pas seulement une sensation physique ? C'est une sorte de fantasme de pouvoir ?"
+    pw "Donc ce n'est pas seulement une sensation physique? C'est une sorte de fantasme de pouvoir?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:691
 translate french d15s05b_lesbians_nora_0d325ece:
@@ -1322,7 +1322,7 @@ translate french d15s05b_lesbians_nora_860ffb78:
 translate french d15s05b_lesbians_nora_93f00841:
 
     # nk "How do you want to take me?"
-    nk "Comment veux-tu m'emmener ?"
+    nk "Comment veux-tu m'emmener?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:731
 translate french d15s05b_lesbians_nora_f8a6117d:
@@ -1334,7 +1334,7 @@ translate french d15s05b_lesbians_nora_f8a6117d:
 translate french d15s05b_lesbians_nora_a5561d99:
 
     # nk "Yeah? Just like this?"
-    nk "Ouais ? Juste comme ça ?"
+    nk "Ouais? Juste comme ça?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:739
 translate french d15s05b_lesbians_nora_204a544d:
@@ -1364,19 +1364,19 @@ translate french d15s05b_lesbians_nora_2b062beb:
 translate french d15s05b_lesbians_nora_e1404b16:
 
     # pw "You like that?"
-    pw "Tu aimes ça ?"
+    pw "Tu aimes ça?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:747
 translate french d15s05b_lesbians_nora_4187b119:
 
     # nk "Fuck yes!"
-    nk "Putain oui !"
+    nk "Putain oui!"
 
 # game/code/d15/extended/d15s05b_ext.rpy:749
 translate french d15s05b_lesbians_nora_818c0623:
 
     # pw "You really like that?"
-    pw "Tu aimes vraiment ça ?"
+    pw "Tu aimes vraiment ça?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:752
 translate french d15s05b_lesbians_nora_48ebb944:
@@ -1388,7 +1388,7 @@ translate french d15s05b_lesbians_nora_48ebb944:
 translate french d15s05b_lesbians_nora_ebc2e5c9:
 
     # nk "Your turn. How do you want it?"
-    nk "A ton tour. Comment le veux-tu ?"
+    nk "A ton tour. Comment le veux-tu?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:776
 translate french d15s05b_lesbians_nora_4ed7f149:
@@ -1406,7 +1406,7 @@ translate french d15s05b_lesbians_nora_81edbdb3:
 translate french d15s05b_lesbians_polly_7d79f888:
 
     # nk "You're sure you are ready for this?"
-    nk "Tu es sûr d'être prêt pour ça ?"
+    nk "Tu es sûr d'être prêt pour ça?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:787
 translate french d15s05b_lesbians_polly_1eddf4ba:
@@ -1418,7 +1418,7 @@ translate french d15s05b_lesbians_polly_1eddf4ba:
 translate french d15s05b_lesbians_polly_57499fdd:
 
     # nk "You're absolutely certain you want this inside you?"
-    nk "Tu es absolument certain de vouloir ça en toi ?"
+    nk "Tu es absolument certain de vouloir ça en toi?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:792
 translate french d15s05b_lesbians_polly_421fdccb:
@@ -1436,7 +1436,7 @@ translate french d15s05b_lesbians_polly_b5a954e7:
 translate french d15s05b_lesbians_polly_0cf20697:
 
     # pw "Please!{w} I'll do anything for it.{w} I'll eat your-"
-    pw "S'il te plaît !{w} Je ferai n'importe quoi pour ça.{w} Je mangerai ton-"
+    pw "S'il te plaît!{w} Je ferai n'importe quoi pour ça.{w} Je mangerai ton-"
 
 # game/code/d15/extended/d15s05b_ext.rpy:805
 translate french d15s05b_lesbians_polly_a0093022:
@@ -1448,7 +1448,7 @@ translate french d15s05b_lesbians_polly_a0093022:
 translate french d15s05b_lesbians_polly_6695827a:
 
     # pw "HOLY FUCK YES!!!"
-    pw "PUTAIN PUTAIN OUI !!!"
+    pw "PUTAIN PUTAIN OUI!!!"
 
 # game/code/d15/extended/d15s05b_ext.rpy:812
 translate french d15s05b_lesbians_polly_2c621b20:
@@ -1460,13 +1460,13 @@ translate french d15s05b_lesbians_polly_2c621b20:
 translate french d15s05b_lesbians_polly_3240e03f:
 
     # nk "Was that too much?"
-    nk "C'était trop ?"
+    nk "C'était trop?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:818
 translate french d15s05b_lesbians_polly_9ed14103:
 
     # pw "Do it again!"
-    pw "Refais-le !"
+    pw "Refais-le!"
 
 # game/code/d15/extended/d15s05b_ext.rpy:821
 translate french d15s05b_lesbians_polly_501c02c2:
@@ -1490,7 +1490,7 @@ translate french d15s05b_lesbians_polly_6b5e412e:
 translate french d15s05b_lesbians_polly_f31f867c:
 
     # pw "Anything!{w} Everything!"
-    pw "N'importe quoi !{w} Tout !"
+    pw "N'importe quoi!{w} Tout!"
 
 # game/code/d15/extended/d15s05b_ext.rpy:826
 translate french d15s05b_lesbians_polly_da89c4b0:
@@ -1520,7 +1520,7 @@ translate french d15s05b_lesbians_polly_9a24bdbe:
 translate french d15s05b_lesbians_polly_f06177e6:
 
     # nk "Should I stop?"
-    nk "Dois-je arrêter ?"
+    nk "Dois-je arrêter?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:838
 translate french d15s05b_lesbians_polly_09efa488:
@@ -1568,7 +1568,7 @@ translate french d15s05b_lesbians_polly_4870be22:
 translate french d15s05b_post_lesbians_6e361be2:
 
     # nk "Did anyone see us?"
-    nk "Est-ce que quelqu'un nous a vu ?"
+    nk "Est-ce que quelqu'un nous a vu?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:876
 translate french d15s05b_post_lesbians_765a3453:
@@ -1616,13 +1616,13 @@ translate french d15s05b_post_lesbians_eaf0bd61:
 translate french d15s05b_post_lesbians_f705e0fc:
 
     # pw "Is it because I'm a woman?"
-    pw "Est-ce parce que je suis une femme ?"
+    pw "Est-ce parce que je suis une femme?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:895
 translate french d15s05b_post_lesbians_91f0d73d:
 
     # nk "What? No!{w} I mean, I don't think so. It's just... different."
-    nk "Quoi ? Non !{w} Je veux dire, je ne pense pas. C'est juste... différent."
+    nk "Quoi? Non!{w} Je veux dire, je ne pense pas. C'est juste... différent."
 
 # game/code/d15/extended/d15s05b_ext.rpy:897
 translate french d15s05b_post_lesbians_775135a8:
@@ -1640,7 +1640,7 @@ translate french d15s05b_post_lesbians_4d9ff9e8:
 translate french d15s05b_post_lesbians_c2a77b6c:
 
     # pw "What if we peg [mcname]?"
-    pw "Et si nous attachons [mcname] ?"
+    pw "Et si nous attachons [mcname]?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:904
 translate french d15s05b_post_lesbians_085722e2:
@@ -1658,7 +1658,7 @@ translate french d15s05b_post_lesbians_fa88be01:
 translate french d15s05b_post_lesbians_e7a94b11:
 
     # mc "Do I get a say in this?"
-    mc "Est-ce que j'ai mon mot à dire ?"
+    mc "Est-ce que j'ai mon mot à dire?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:912
 translate french d15s05b_post_lesbians_f99b685b:
@@ -1694,13 +1694,13 @@ translate french d15s05b_post_lesbians_77d0b457:
 translate french d15s05b_post_lesbians_068582fd:
 
     # mc "What do you have in mind?"
-    mc "Qu'est-ce que tu as en tête ?"
+    mc "Qu'est-ce que tu as en tête?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:926
 translate french d15s05b_post_lesbians_f41d176d:
 
     # nk "Could you two both wear strapons and spitroast me?"
-    nk "Pourriez-vous tous les deux porter des strapons et me prendre a deux ?"
+    nk "Pourriez-vous tous les deux porter des strapons et me prendre a deux?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:928
 translate french d15s05b_post_lesbians_8b1c1e63:
@@ -1754,7 +1754,7 @@ translate french d15s05b_pegging_eb153f39:
 translate french d15s05b_pegging_995ea323:
 
     # mc "Sure. Why not?"
-    mc "Bien sûr. Pourquoi pas ?"
+    mc "Bien sûr. Pourquoi pas?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:968
 translate french d15s05b_pegging_37b145bc:
@@ -1772,7 +1772,7 @@ translate french d15s05b_pegging_9f1df25e:
 translate french d15s05b_pegging_1735dc62:
 
     # nk "You're doing really well. Ready for a second finger?"
-    nk "Tu vas vraiment bien. Prêt pour un deuxième doigt ?"
+    nk "Tu vas vraiment bien. Prêt pour un deuxième doigt?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:981
 translate french d15s05b_pegging_64814184:
@@ -1790,7 +1790,7 @@ translate french d15s05b_pegging_66391067:
 translate french d15s05b_pegging_7baa7554:
 
     # nk "Whoa! Relax.{w} I'm not going to fist your ass."
-    nk "Whoa ! Détends-toi.{w} Je ne vais pas te botter le cul."
+    nk "Whoa! Détends-toi.{w} Je ne vais pas te botter le cul."
 
 # game/code/d15/extended/d15s05b_ext.rpy:986
 translate french d15s05b_pegging_beb9f363:
@@ -1832,7 +1832,7 @@ translate french d15s05b_pegging_d54e3cfe:
 translate french d15s05b_pegging_1cd8aecc:
 
     # pw "Are you ready for this?"
-    pw "Es-tu prêt pour ça ?"
+    pw "Es-tu prêt pour ça?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1000
 translate french d15s05b_pegging_cf41f269:
@@ -1880,7 +1880,7 @@ translate french d15s05b_pegging_a24f1212:
 translate french d15s05b_pegging_76e0e410:
 
     # nk "I'M GONNA WRECK IT!!"
-    nk "Je vais le détruire !!"
+    nk "Je vais le détruire!!"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1024
 translate french d15s05b_pegging_d192fcd6:
@@ -1892,13 +1892,13 @@ translate french d15s05b_pegging_d192fcd6:
 translate french d15s05b_pegging_d7c22cd3:
 
     # nk "Too much? Do I have your attention now?"
-    nk "Trop ? Est-ce que j'ai votre attention maintenant ?"
+    nk "Trop? Est-ce que j'ai votre attention maintenant?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1031
 translate french d15s05b_pegging_1396cf78:
 
     # mc "Wow!{w} I was just surprised..."
-    mc "Wow !{w} J'étais juste surpris..."
+    mc "Wow!{w} J'étais juste surpris..."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1033
 translate french d15s05b_pegging_4d9ff9e8:
@@ -1928,37 +1928,37 @@ translate french d15s05b_pegging_ab331cb0:
 translate french d15s05b_pegging_b75ccc3e:
 
     # nk "Is this the way you like it?"
-    nk "Est-ce que c'est comme ça que tu l'aimes ?"
+    nk "Est-ce que c'est comme ça que tu l'aimes?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1052
 translate french d15s05b_pegging_3a3cc155:
 
     # mc "Are you sure you're doing anything back there?"
-    mc "Es-tu sûr de faire quelque chose là-bas ?"
+    mc "Es-tu sûr de faire quelque chose là-bas?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1056
 translate french d15s05b_pegging_4f3dcc7d:
 
     # nk "How's that, bitch?!"
-    nk "Comment ça, salope ?!"
+    nk "Comment ça, salope?!"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1058
 translate french d15s05b_pegging_a4e56879:
 
     # mc "Fuck me!{w} I guess I feel something."
-    mc "Baise-moi !{w} Je suppose que je ressens quelque chose."
+    mc "Baise-moi!{w} Je suppose que je ressens quelque chose."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1061
 translate french d15s05b_pegging_e829c90b:
 
     # nk "Ha!{w} Polly, will you shut his fool mouth?"
-    nk "Ha !{w} Polly, veux-tu fermer sa gueule ?"
+    nk "Ha!{w} Polly, veux-tu fermer sa gueule?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1064
 translate french d15s05b_pegging_8f02c363:
 
     # pw "Huh?{w} How would I-?"
-    pw "Hein ?{w} Comment pourrais-je- ?"
+    pw "Hein?{w} Comment pourrais-je-?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1068
 translate french d15s05b_pegging_e559548a:
@@ -2000,13 +2000,13 @@ translate french d15s05b_pegging_3c2b86fe:
 translate french d15s05b_pegging_81465485:
 
     # pw "So, this is part of a game or something?"
-    pw "Alors, ça fait partie d'un jeu ou quelque chose comme ça ?"
+    pw "Alors, ça fait partie d'un jeu ou quelque chose comme ça?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1093
 translate french d15s05b_pegging_7c87fa52:
 
     # nk "Yeah. He's really loving it. Can't you tell?"
-    nk "Ouais. Il adore vraiment ça. Tu ne peux pas le dire ?"
+    nk "Ouais. Il adore vraiment ça. Tu ne peux pas le dire?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1098
 translate french d15s05b_pegging_3db23076:
@@ -2018,7 +2018,7 @@ translate french d15s05b_pegging_3db23076:
 translate french d15s05b_pegging_4d9b9fb2:
 
     # pw "OH FUCK!{w} That's the spot!!!"
-    pw "OH FUCK !{w} C'est l'endroit !!!"
+    pw "OH FUCK!{w} C'est l'endroit!!!"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1107
 translate french d15s05b_pegging_89237db7:
@@ -2066,7 +2066,7 @@ translate french d15s05b_pegging_6b9716f6:
 translate french d15s05b_spitroast_230a1cb3:
 
     # mc "If I do this, does that make me an honorary lesbian?"
-    mc "Si je fais ça, est-ce que ça fait de moi une lesbienne honoraire ?"
+    mc "Si je fais ça, est-ce que ça fait de moi une lesbienne honoraire?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1147
 translate french d15s05b_spitroast_6206184c:
@@ -2078,7 +2078,7 @@ translate french d15s05b_spitroast_6206184c:
 translate french d15s05b_spitroast_892434f0:
 
     # pw "So, which do you want?"
-    pw "Alors, que veux-tu ?"
+    pw "Alors, que veux-tu?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1152
 translate french d15s05b_spitroast_99177b97:
@@ -2090,7 +2090,7 @@ translate french d15s05b_spitroast_99177b97:
 translate french d15s05b_spitroast_dcdd76ba:
 
     # nk "Do you want to fuck my pussy or my ass?"
-    nk "Tu veux baiser ma chatte ou mon cul ?"
+    nk "Tu veux baiser ma chatte ou mon cul?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1158
 translate french d15s05b_spitroast_0fe0b25c:
@@ -2102,7 +2102,7 @@ translate french d15s05b_spitroast_0fe0b25c:
 translate french d15s05b_spitroast_4ae1d977:
 
     # mc "Well, it's not going to feel any different to my dick. Which holes do you want us to plow?"
-    mc "Eh bien, ça ne sera pas différent pour ma bite. Quels trous veux-tu que j'utilse ?"
+    mc "Eh bien, ça ne sera pas différent pour ma bite. Quels trous veux-tu que j'utilse?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1163
 translate french d15s05b_spitroast_93e156ff:
@@ -2132,7 +2132,7 @@ translate french d15s05b_spitroast_3f1ca3d5:
 translate french d15s05b_spitroast_90fe9f55:
 
     # mc "So, where do you want me?"
-    mc "Alors, où me veux-tu ?"
+    mc "Alors, où me veux-tu?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1178
 translate french d15s05b_spitroast_a895175c:
@@ -2156,13 +2156,13 @@ translate french d15s05b_spitroast_bd6c2a04:
 translate french d15s05b_spitroast_bdd89754:
 
     # pw "What's so funny?"
-    pw "Qu'est-ce qu'il y a de si drôle ?"
+    pw "Qu'est-ce qu'il y a de si drôle?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1192
 translate french d15s05b_spitroast_6a729e73:
 
     # mc "Heads or Tails?{w} You've got her head. I've got her butt."
-    mc "Pile ou Face ?{w} Vous avez sa tête. J'ai ses fesses."
+    mc "Pile ou Face?{w} Vous avez sa tête. J'ai ses fesses."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1196
 translate french d15s05b_spitroast_37861dbc:
@@ -2180,7 +2180,7 @@ translate french d15s05b_spitroast_82fa97ee:
 translate french d15s05b_spitroast_eeabfc6b:
 
     # pw "Is this doing anything for you?{w} I feel like I could be replaced by some fucking machine."
-    pw "Est-ce que ça te fait quelque chose ?{w} J'ai l'impression que je pourrais être remplacé par une putain de machine."
+    pw "Est-ce que ça te fait quelque chose?{w} J'ai l'impression que je pourrais être remplacé par une putain de machine."
 
 # game/code/d15/extended/d15s05b_ext.rpy:1201
 translate french d15s05b_spitroast_c66428a4:
@@ -2204,7 +2204,7 @@ translate french d15s05b_spitroast_9029f111:
 translate french d15s05b_spitroast_1060693e:
 
     # mc "Look into her eyes. Is she loving this?"
-    mc "Regarde-la dans les yeux. Est-ce qu'elle aime ça ?"
+    mc "Regarde-la dans les yeux. Est-ce qu'elle aime ça?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1210
 translate french d15s05b_spitroast_1eddf4ba:
@@ -2216,13 +2216,13 @@ translate french d15s05b_spitroast_1eddf4ba:
 translate french d15s05b_spitroast_2d2973c8:
 
     # mc "Can you see the way your cock penetrates her?"
-    mc "Peux-tu voir la façon dont ta bite la pénètre ?"
+    mc "Peux-tu voir la façon dont ta bite la pénètre?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1213
 translate french d15s05b_spitroast_ba838bb9:
 
     # mc "Can you imagine the way that must feel to her?"
-    mc "Pouvez-vous imaginer ce que cela doit ressentir pour elle ?"
+    mc "Pouvez-vous imaginer ce que cela doit ressentir pour elle?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1214
 translate french d15s05b_spitroast_dee2a853:
@@ -2276,7 +2276,7 @@ translate french d15s05b_spitroast_f57aa948:
 translate french d15s05b_spitroast_71ddcbb2:
 
     # mc "Fantastic, don't you think?"
-    mc "Fantastique, tu ne trouves pas ?"
+    mc "Fantastique, tu ne trouves pas?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1238
 translate french d15s05b_spitroast_1379ce11:
@@ -2306,7 +2306,7 @@ translate french d15s05b_end_310cc2fc:
 translate french d15s05b_end_049ec7a6:
 
     # mc "Putting clothes back on?"
-    mc "Remettre des vêtements ?"
+    mc "Remettre des vêtements?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1263
 translate french d15s05b_end_e2f06565:
@@ -2318,7 +2318,7 @@ translate french d15s05b_end_e2f06565:
 translate french d15s05b_end_ff5e7ea9:
 
     # nk "Why don't you help me close up tonight?"
-    nk "Pourquoi ne m'aides-tu pas à fermer ce soir ?"
+    nk "Pourquoi ne m'aides-tu pas à fermer ce soir?"
 
 # game/code/d15/extended/d15s05b_ext.rpy:1269
 translate french d15s05b_end_aa5b01ee:

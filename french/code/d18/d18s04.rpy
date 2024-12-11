@@ -8,7 +8,7 @@ translate french d18s04_09dff030:
 translate french d18s04_0e6d9807:
 
     # vw "You want me to put on a little striptease for you?"
-    vw "Tu veux que je te fasse un petit strip-tease ?"
+    vw "Tu veux que je te fasse un petit strip-tease?"
 
 # game/code/d18/d18s04.rpy:82
 translate french d18s04_b10b6889:
@@ -26,7 +26,7 @@ translate french d18s04_8aaa3db5:
 translate french d18s04_c5e0d6aa:
 
     # vw "How do you want me?"
-    vw "Comment tu me veux ?"
+    vw "Comment tu me veux?"
 
 # game/code/d18/d18s04.rpy:98
 translate french d18s04_2dc8a1cd:
@@ -56,7 +56,7 @@ translate french d18s04_b19e8fe3:
 translate french d18s04_964671a1:
 
     # vw "What's next? Are you going to ravage me?"
-    vw "Quelle est la prochaine étape ? Vas-tu me ravager ?"
+    vw "Quelle est la prochaine étape? Vas-tu me ravager?"
 
 # game/code/d18/d18s04.rpy:126
 translate french d18s04_1868595f:
@@ -68,13 +68,13 @@ translate french d18s04_1868595f:
 translate french d18s04_af7c2927:
 
     # vw "What!?{w} What are you doing!?"
-    vw "Quoi !?{w} Qu'est-ce que tu fais !?"
+    vw "Quoi!?{w} Qu'est-ce que tu fais!?"
 
 # game/code/d18/d18s04.rpy:132
 translate french d18s04_4d2fd69f:
 
     # mc "Do you trust me?"
-    mc "Tu me fais confiance ?"
+    mc "Tu me fais confiance?"
 
 # game/code/d18/d18s04.rpy:135
 translate french d18s04_6c6f6178:
@@ -86,13 +86,13 @@ translate french d18s04_6c6f6178:
 translate french d18s04_3d58b3cc:
 
     # mc "Do you want to repair the relationship with your daughter?"
-    mc "Tu veux réparer la relation avec ta fille ?"
+    mc "Tu veux réparer la relation avec ta fille?"
 
 # game/code/d18/d18s04.rpy:141
 translate french d18s04_fde38d08:
 
     # mc "Do you want to repair your relationship with Allison?"
-    mc "Tu veux réparer ta relation avec Allison ?"
+    mc "Tu veux réparer ta relation avec Allison?"
 
 # game/code/d18/d18s04.rpy:144
 translate french d18s04_575e1f3d:
@@ -140,7 +140,7 @@ translate french d18s04_513655b1:
 translate french d18s04_8ed3894d:
 
     # vw "Why?"
-    vw "Pourquoi ?"
+    vw "Pourquoi?"
 
 # game/code/d18/d18s04.rpy:170
 translate french d18s04_244040f6:
@@ -206,19 +206,19 @@ translate french d18s04_669d4d85:
 translate french d18s04_3413a850:
 
     # aw "What...{w} Mom?"
-    aw "Quoi...{w} Maman ?"
+    aw "Quoi...{w} Maman?"
 
 # game/code/d18/d18s04.rpy:212
 translate french d18s04_bda5c274:
 
     # aw "What...{w} Vanessa?"
-    aw "Quoi...{w} Vanessa ?"
+    aw "Quoi...{w} Vanessa?"
 
 # game/code/d18/d18s04.rpy:215
 translate french d18s04_9155a923:
 
     # aw "I thought... What did you do to her?"
-    aw "Je pensais... Qu'est-ce que tu lui as fait ?"
+    aw "Je pensais... Qu'est-ce que tu lui as fait?"
 
 # game/code/d18/d18s04.rpy:218
 translate french d18s04_e62e230a:
@@ -230,7 +230,7 @@ translate french d18s04_e62e230a:
 translate french d18s04_700cd10e:
 
     # aw "And she's tied up and naked because...?"
-    aw "Et elle est ligotée et nue parce que... ?"
+    aw "Et elle est ligotée et nue parce que...?"
 
 # game/code/d18/d18s04.rpy:224
 translate french d18s04_4451cda1:
@@ -254,7 +254,7 @@ translate french d18s04_02b4206b:
 translate french d18s04_017265f7:
 
     # aw "I assume you can hear me?"
-    aw "Je suppose que tu m'entends ?"
+    aw "Je suppose que tu m'entends?"
 
 # game/code/d18/d18s04.rpy:237
 translate french d18s04_a264b887:
@@ -266,13 +266,13 @@ translate french d18s04_a264b887:
 translate french d18s04_226881f9:
 
     # aw "Hah! All these years and you had to be reduced to a blind and gagged piece of fuckmeat to actually {i}listen{/i} for one goddamn moment huh, Mom?"
-    aw "Hah ! Toutes ces années et il a fallu que tu sois réduit à un morceau de viande aveugle et bâillonné pour réellement {i}écouter{/i} un putain de moment, hein, maman ?"
+    aw "Hah! Toutes ces années et il a fallu que tu sois réduit à un morceau de viande aveugle et bâillonné pour réellement {i}écouter{/i} un putain de moment, hein, maman?"
 
 # game/code/d18/d18s04.rpy:245
 translate french d18s04_02159c46:
 
     # aw "Hah! All these years and you had to be reduced to a blind and gagged piece of fuckmeat to actually {i}listen{/i} for one goddamn moment huh, Vanessa?"
-    aw "Hah ! Toutes ces années et il a fallu que tu sois réduite à un morceau de viande aveugle et bâillonnée pour réellement {i}écouter{/i} un putain de moment, hein, Vanessa ?"
+    aw "Hah! Toutes ces années et il a fallu que tu sois réduite à un morceau de viande aveugle et bâillonnée pour réellement {i}écouter{/i} un putain de moment, hein, Vanessa?"
 
 # game/code/d18/d18s04.rpy:248
 translate french d18s04_882526d0:
@@ -290,13 +290,13 @@ translate french d18s04_46cfc669:
 translate french d18s04_7a731c17:
 
     # aw "*Voice shaking* Do you have any idea what that was like, Mom?"
-    aw "*Voix tremblante* As-tu une idée de ce que c'était, maman ?"
+    aw "*Voix tremblante* As-tu une idée de ce que c'était, maman?"
 
 # game/code/d18/d18s04.rpy:254
 translate french d18s04_9c3ce9ef:
 
     # aw "*Voice shaking* Do you have any idea what that was like, Vanessa?"
-    aw "*Voix tremblante* As-tu une idée de ce que c'était, Vanessa ?"
+    aw "*Voix tremblante* As-tu une idée de ce que c'était, Vanessa?"
 
 # game/code/d18/d18s04.rpy:260
 translate french d18s04_c28fd43c:
@@ -326,7 +326,7 @@ translate french d18s04_60d4b2e9:
 translate french d18s04_f26ec8a4:
 
     # aw "{b}WHERE THE FUCK WAS THAT LOVE WHEN I ACTUALLY NEEDED IT?{/b}"
-    aw "{b}OÙ ÉTAIT CET AMOUR QUAND J'EN AVAIS VRAIMENT BESOIN ?{/b}"
+    aw "{b}OÙ ÉTAIT CET AMOUR QUAND J'EN AVAIS VRAIMENT BESOIN?{/b}"
 
 # game/code/d18/d18s04.rpy:272
 translate french d18s04_e92eabf4:
@@ -356,13 +356,13 @@ translate french d18s04_f5dca5e9:
 translate french d18s04_ac22123a:
 
     # aw "Do you know what this is? I'm sure you do."
-    aw "Tu sais ce que c'est ? Je suis sûr que oui."
+    aw "Tu sais ce que c'est? Je suis sûr que oui."
 
 # game/code/d18/d18s04.rpy:291
 translate french d18s04_05dbdd3c:
 
     # aw "You're a saint to the outside world, but a fucking degenerate inside, aren't you?"
-    aw "Tu es une sainte pour le monde extérieur, mais une putain de dégénérée à l'intérieur, n'est-ce pas ?"
+    aw "Tu es une sainte pour le monde extérieur, mais une putain de dégénérée à l'intérieur, n'est-ce pas?"
 
 # game/code/d18/d18s04.rpy:304
 translate french d18s04_4b82ebe0:
@@ -374,7 +374,7 @@ translate french d18s04_4b82ebe0:
 translate french d18s04_b4186eac:
 
     # aw "That's why you hate me so much, isn't it!?"
-    aw "C'est pour ça que tu me détestes autant, n'est-ce pas !?"
+    aw "C'est pour ça que tu me détestes autant, n'est-ce pas!?"
 
 # game/code/d18/d18s04.rpy:318
 translate french d18s04_8c050a6a:
@@ -392,7 +392,7 @@ translate french d18s04_cce90b93:
 translate french d18s04_2aa70042:
 
     # aw "But you couldn't do that, could you?"
-    aw "Mais tu ne pouvais pas faire ça, n'est-ce pas ?"
+    aw "Mais tu ne pouvais pas faire ça, n'est-ce pas?"
 
 # game/code/d18/d18s04.rpy:351
 translate french d18s04_df6a1270:
@@ -416,13 +416,13 @@ translate french d18s04_c2c697ce:
 translate french d18s04_c3f83fa5:
 
     # aw "{b}DO YOU LIKE THAT, YOU HYPOCRITICAL BITCH!?{/b}"
-    aw "{b}TU AIMES CA CHIENNE D'HYPOCRITE !?{/b}"
+    aw "{b}TU AIMES CA CHIENNE D'HYPOCRITE!?{/b}"
 
 # game/code/d18/d18s04.rpy:372
 translate french d18s04_ee731ea0:
 
     # aw "{b}I BET IT REALLY FUCKING TURNS YOU ON, HUH!?{/b}"
-    aw "{b}Je parie que ça t'excite vraiment, hein !?{/b}"
+    aw "{b}Je parie que ça t'excite vraiment, hein!?{/b}"
 
 # game/code/d18/d18s04.rpy:375
 translate french d18s04_7819d875:
@@ -446,7 +446,7 @@ translate french d18s04_0beade47:
 translate french d18s04_cb9ba318:
 
     # mc "Allison, stop! Look at what you're doing! This isn't what you're here for!"
-    mc "Allison, arrête ! Regarde ce que tu fait ! Ce n'est pas pour ça que tu es là !"
+    mc "Allison, arrête! Regarde ce que tu fait! Ce n'est pas pour ça que tu es là!"
 
 # game/code/d18/d18s04.rpy:418
 translate french d18s04_8c827091:
@@ -464,7 +464,7 @@ translate french d18s04_8aaa70d0:
 translate french d18s04_806d1713:
 
     # vw "What did you do!?"
-    vw "Qu'est-ce que tu as fait !?"
+    vw "Qu'est-ce que tu as fait!?"
 
 # game/code/d18/d18s04.rpy:454
 translate french d18s04_3d8d5870:
@@ -476,7 +476,7 @@ translate french d18s04_3d8d5870:
 translate french d18s04_f1d757e0:
 
     # vw "Allison!"
-    vw "Allison !"
+    vw "Allison!"
 
 # game/code/d18/d18s04.rpy:461
 translate french d18s04_1e92ba76:
@@ -488,7 +488,7 @@ translate french d18s04_1e92ba76:
 translate french d18s04_c2225191:
 
     # mct "FUCK!"
-    mct "Putain !"
+    mct "Putain!"
 
 # game/code/d18/d18s04.rpy:476
 translate french d18s04_0beade47_1:
@@ -632,7 +632,7 @@ translate french d18s04_134dff8b:
 translate french d18s04_f89df913:
 
     # mc "I assume this is positive?"
-    mc "Je suppose que c'est positif ?"
+    mc "Je suppose que c'est positif?"
 
 # game/code/d18/d18s04.rpy:573
 translate french d18s04_8c0f55b6:
@@ -662,13 +662,13 @@ translate french d18s04_eebb4514:
 translate french d18s04_b265a657:
 
     # vw "We've both...{i}experienced{/i} you, so why not both at the same time?"
-    vw "Nous t'avons toutes les deux...{i}expérimenté{/i}, alors pourquoi pas les deux en même temps ?"
+    vw "Nous t'avons toutes les deux...{i}expérimenté{/i}, alors pourquoi pas les deux en même temps?"
 
 # game/code/d18/d18s04.rpy:587
 translate french d18s04_a7a8c500:
 
     # mc "How could I say no to that proposition?"
-    mc "Comment pourrais-je dire non à cette proposition ?"
+    mc "Comment pourrais-je dire non à cette proposition?"
 
 # game/code/d18/d18s04.rpy:615
 translate french d18s04_f5bc7100:
@@ -680,7 +680,7 @@ translate french d18s04_f5bc7100:
 translate french d18s04_fd1e9ba4:
 
     # vw "It's divine, isn't it?"
-    vw "C'est divin, n'est-ce pas ?"
+    vw "C'est divin, n'est-ce pas?"
 
 # game/code/d18/d18s04.rpy:622
 translate french d18s04_0d2fe250:
@@ -692,7 +692,7 @@ translate french d18s04_0d2fe250:
 translate french d18s04_4201b604:
 
     # vw "Oh God, Allison! This is so wrong! *Moans*"
-    vw "Oh mon Dieu, Allison ! C'est tellement mal! *Gémissements*"
+    vw "Oh mon Dieu, Allison! C'est tellement mal! *Gémissements*"
 
 # game/code/d18/d18s04.rpy:634
 translate french d18s04_e51661ed:
@@ -710,7 +710,7 @@ translate french d18s04_bfce66eb:
 translate french d18s04_f154b675:
 
     # vw "Allison! Ali—"
-    vw "Allison ! Ali—"
+    vw "Allison! Ali—"
 
 # game/code/d18/d18s04.rpy:650
 translate french d18s04_c01e9740:
@@ -782,19 +782,19 @@ translate french d18s04_d89000a6:
 translate french d18s04_84d642ff:
 
     # aw "Fuck her like you mean it!"
-    aw "Baise-la comme tu le penses !"
+    aw "Baise-la comme tu le penses!"
 
 # game/code/d18/d18s04.rpy:792
 translate french d18s04_f18f680d:
 
     # aw "Yes! Right there, lick me right there! *Moans*"
-    aw "Oui ! Juste là, lèche-moi juste là ! *Gémissements*"
+    aw "Oui! Juste là, lèche-moi juste là! *Gémissements*"
 
 # game/code/d18/d18s04.rpy:797
 translate french d18s04_00cc2976:
 
     # aw "Ahhhhh!"
-    aw "Ahhhhh !"
+    aw "Ahhhhh!"
 
 # game/code/d18/d18s04.rpy:838
 translate french d18s04_84c9e4e3:
@@ -812,7 +812,7 @@ translate french d18s04_fae9c31a:
 translate french d18s04_99336fff:
 
     # aw "Oh God, you're not pregnant are you?"
-    aw "Oh mon Dieu, tu n'es pas enceinte, n'est-ce pas ?"
+    aw "Oh mon Dieu, tu n'es pas enceinte, n'est-ce pas?"
 
 # game/code/d18/d18s04.rpy:845
 translate french d18s04_729fe4f3:
@@ -842,13 +842,13 @@ translate french d18s04_33d08fdd:
 translate french d18s04_3ca2c8ed:
 
     # vw "But anyway! That's not what I was going to say."
-    vw "Mais quand même ! Ce n'est pas ce que j'allais dire."
+    vw "Mais quand même! Ce n'est pas ce que j'allais dire."
 
 # game/code/d18/d18s04.rpy:858
 translate french d18s04_212b5c95:
 
     # aw "Then?"
-    aw "Alors ?"
+    aw "Alors?"
 
 # game/code/d18/d18s04.rpy:861
 translate french d18s04_eccf98b9:
@@ -866,7 +866,7 @@ translate french d18s04_dea526f1:
 translate french d18s04_92a493d5:
 
     # aw "You're going away?"
-    aw "Tu pars ?"
+    aw "Tu pars?"
 
 # game/code/d18/d18s04.rpy:867
 translate french d18s04_48f2a800:
@@ -896,7 +896,7 @@ translate french d18s04_56f2c153:
 translate french d18s04_d1672d6b:
 
     # aw "When did you plan all of this?"
-    aw "Quand as-tu planifié tout ça ?"
+    aw "Quand as-tu planifié tout ça?"
 
 # game/code/d18/d18s04.rpy:877
 translate french d18s04_2cd2ee79:
@@ -914,31 +914,31 @@ translate french d18s04_21eec4a7:
 translate french d18s04_30255030:
 
     # vw "Allison! Please, listen to me."
-    vw "Allison ! S'il te plait écoute moi."
+    vw "Allison! S'il te plait écoute moi."
 
 # game/code/d18/d18s04.rpy:886
 translate french d18s04_4ead628c:
 
     # aw "How do you even know I do kayaking?"
-    aw "Comment sais-tu que je fais du kayak ?"
+    aw "Comment sais-tu que je fais du kayak?"
 
 # game/code/d18/d18s04.rpy:890
 translate french d18s04_5cb86cb6:
 
     # vw "I'm your mother! Of course I know these things about you."
-    vw "Je suis ta mère ! Bien sûr, je sais ces choses à votre sujet."
+    vw "Je suis ta mère! Bien sûr, je sais ces choses à votre sujet."
 
 # game/code/d18/d18s04.rpy:891
 translate french d18s04_89c555f8:
 
     # vw "You didn't think that I didn't check up on my girl from time to time, did you?"
-    vw "Tu ne pensais pas que je ne surveillais pas ma copine de temps en temps, n'est-ce pas ?"
+    vw "Tu ne pensais pas que je ne surveillais pas ma copine de temps en temps, n'est-ce pas?"
 
 # game/code/d18/d18s04.rpy:895
 translate french d18s04_3f017285:
 
     # mct "That's why the room from the telescope looked familiar!"
-    mct "C'est pour ça que la pièce vue depuis le télescope me semblait familière !"
+    mct "C'est pour ça que la pièce vue depuis le télescope me semblait familière!"
 
 # game/code/d18/d18s04.rpy:898
 translate french d18s04_8fa2f449:
@@ -950,7 +950,7 @@ translate french d18s04_8fa2f449:
 translate french d18s04_a96466f7:
 
     # aw "Can you {i}please{/i} not do these sorts of things anymore?"
-    aw "Peux-tu {i}s'il te plaît{/i} ne plus faire ce genre de choses ?"
+    aw "Peux-tu {i}s'il te plaît{/i} ne plus faire ce genre de choses?"
 
 # game/code/d18/d18s04.rpy:900
 translate french d18s04_ee39fc95:
@@ -986,7 +986,7 @@ translate french d18s04_71fe0b19:
 translate french d18s04_628797cf:
 
     # aw "So you found an opening in a national kayaking team for me. Great, and?"
-    aw "Alors tu m'as trouvé une place dans une équipe nationale de kayak. Super, et ?"
+    aw "Alors tu m'as trouvé une place dans une équipe nationale de kayak. Super, et?"
 
 # game/code/d18/d18s04.rpy:914
 translate french d18s04_fed165ab:
@@ -1004,7 +1004,7 @@ translate french d18s04_6940fa07:
 translate french d18s04_00baae17:
 
     # aw "So, sure. Why not?"
-    aw "Alors, bien sûr. Pourquoi pas ?"
+    aw "Alors, bien sûr. Pourquoi pas?"
 
 # game/code/d18/d18s04.rpy:921
 translate french d18s04_d59e72da:
@@ -1028,13 +1028,13 @@ translate french d18s04_3b58b9f9:
 translate french d18s04_477fbb89:
 
     # vw "Oh my God, Allison. I'm so happy!"
-    vw "Oh mon Dieu, Allison. Je suis tellement contente !"
+    vw "Oh mon Dieu, Allison. Je suis tellement contente!"
 
 # game/code/d18/d18s04.rpy:936
 translate french d18s04_9688a590:
 
     # vw "I'd love to have you come with us as well!"
-    vw "J'adorerais que tu viennes avec nous aussi !"
+    vw "J'adorerais que tu viennes avec nous aussi!"
 
 # game/code/d18/d18s04.rpy:939
 translate french d18s04_3f4a77df:
@@ -1046,13 +1046,13 @@ translate french d18s04_3f4a77df:
 translate french d18s04_190badf5:
 
     # mc "Me? Go to the Caribbean with you two?"
-    mc "Moi ? Partir aux Caraïbes avec vous deux ?"
+    mc "Moi? Partir aux Caraïbes avec vous deux?"
 
 # game/code/d18/d18s04.rpy:945
 translate french d18s04_6d540f0b:
 
     # aw "You have anything else going on?"
-    aw "Tu as autre chose à faire ?"
+    aw "Tu as autre chose à faire?"
 
 # game/code/d18/d18s04.rpy:948
 translate french d18s04_c784151d:
@@ -1100,7 +1100,7 @@ translate french d18s04_53ebcdb1:
 translate french d18s04_f6dbd17e:
 
     # aw "Are you leaving now?"
-    aw "Tu pars maintenant ?"
+    aw "Tu pars maintenant?"
 
 # game/code/d18/d18s04.rpy:971
 translate french d18s04_987068b5:
@@ -1143,3 +1143,4 @@ translate french strings:
     # game/code/d18/d18s04.rpy:540
     old "Remind Them You Are There"
     new "Rappelle-leur que tu es là"
+

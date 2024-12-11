@@ -2,7 +2,7 @@
 translate french d19s01ntr_bef95491:
 
     # mc "Huh?{w} What?!{w} Where am I?"
-    mc "Hein?{w} Quoi?!{w} Où suis-je ?"
+    mc "Hein?{w} Quoi?!{w} Où suis-je?"
 
 # game/code/d19/d19s01ntr.rpy:24
 translate french d19s01ntr_1de62988:
@@ -14,7 +14,7 @@ translate french d19s01ntr_1de62988:
 translate french d19s01ntr_f42241db:
 
     # mc "Lydia?"
-    mc "Lydia ?"
+    mc "Lydia?"
 
 # game/code/d19/d19s01ntr.rpy:30
 translate french d19s01ntr_31d80bbc:
@@ -44,7 +44,7 @@ translate french d19s01ntr_044bb933:
 translate french d19s01ntr_6c1f8f67:
 
     # mc "What the fuck is going on here?"
-    mc "Qu'est-ce qui se passe ici ?"
+    mc "Qu'est-ce qui se passe ici?"
 
 # game/code/d19/d19s01ntr.rpy:49
 translate french d19s01ntr_659c72ed:
@@ -86,7 +86,7 @@ translate french d19s01ntr_8e211d0a:
 translate french d19s01ntr_cf942ace:
 
     # mc "Actually, I've just got a raging headache.{w} Do you have any Tylenol?"
-    mc "En fait, j'ai juste un violent mal de tête. {w} As-tu du Tylenol ?"
+    mc "En fait, j'ai juste un violent mal de tête. {w} As-tu du Tylenol?"
 
 # game/code/d19/d19s01ntr.rpy:84
 translate french d19s01ntr_7f1e4000:
@@ -98,7 +98,7 @@ translate french d19s01ntr_7f1e4000:
 translate french d19s01ntr_30ce0ad8:
 
     # mct "What the fuck!{w} This isn't some bizarre nightmare...{w} It is real."
-    mct "C'est quoi ce bordel !{w} Ce n'est pas un cauchemar bizarre...{w} C'est réel!"
+    mct "C'est quoi ce bordel!{w} Ce n'est pas un cauchemar bizarre...{w} C'est réel!"
 
 # game/code/d19/d19s01ntr.rpy:93
 translate french d19s01ntr_e09392dc:
@@ -128,7 +128,7 @@ translate french d19s01ntr_68ecd2b8:
 translate french d19s01ntr_a3a34f40:
 
     # lc "Isn't Pete such a lovely toy? I get bored of him so often, yet sometimes he's just wonderful."
-    lc "Pete n'est-il pas un si joli jouet ? Je m'ennuie si souvent de lui, et pourtant parfois il est tout simplement merveilleux."
+    lc "Pete n'est-il pas un si joli jouet? Je m'ennuie si souvent de lui, et pourtant parfois il est tout simplement merveilleux."
 
 # game/code/d19/d19s01ntr.rpy:134
 translate french d19s01ntr_flashback_89dd4b90:
@@ -146,13 +146,13 @@ translate french d19s01ntr_flashback_c0062715:
 translate french d19s01ntr_flashback_68dec3f8:
 
     # pb "Mistress?!"
-    pb "Maîtresse ?!"
+    pb "Maîtresse?!"
 
 # game/code/d19/d19s01ntr.rpy:142
 translate french d19s01ntr_flashback_d5158065:
 
     # lc "What alternative is there? This slave's app could bring me dozens or hundreds of fresh servants and slaves."
-    lc "Quelle alternative y a-t-il ? L'application de cet esclave pourrait m'apporter des dizaines ou des centaines de nouveaux serviteurs et esclaves."
+    lc "Quelle alternative y a-t-il? L'application de cet esclave pourrait m'apporter des dizaines ou des centaines de nouveaux serviteurs et esclaves."
 
 # game/code/d19/d19s01ntr.rpy:143
 translate french d19s01ntr_flashback_27c5aa17:
@@ -164,7 +164,7 @@ translate french d19s01ntr_flashback_27c5aa17:
 translate french d19s01ntr_flashback_12fd0565:
 
     # lc "What can you offer me that might compare?"
-    lc "Que peux-tu me proposer de comparable ?"
+    lc "Que peux-tu me proposer de comparable?"
 
 # game/code/d19/d19s01ntr.rpy:157
 translate french d19s01ntr_flashback_9130db2f:
@@ -230,7 +230,7 @@ translate french d19s01ntr_continue_55af8b90:
 translate french d19s01ntr_continue_66767435:
 
     # mct "My friends? Min? I don't understand..."
-    mct "Mes amis ? Min ? Je ne comprends pas..."
+    mct "Mes amis? Min? Je ne comprends pas..."
 
 # game/code/d19/d19s01ntr.rpy:204
 translate french d19s01ntr_continue_53db33b7:
@@ -260,19 +260,19 @@ translate french d19s01ntr_continue_12f51939:
 translate french d19s01ntr_continue_8fb1ce95:
 
     # lc "I know what you're thinking. What about my little gimp, Jerome?"
-    lc "Je sais à quoi tu penses. Et mon petit idiot, Jérôme ?"
+    lc "Je sais à quoi tu penses. Et mon petit idiot, Jérôme?"
 
 # game/code/d19/d19s01ntr.rpy:212
 translate french d19s01ntr_continue_0e7e6f43:
 
     # lc "That little play acting at Min's party? Where I let you play the hero, then lay silent while you jerked off?"
-    lc "Cette petite pièce de théâtre à la fête de Min ? Où je t'ai laissé jouer le héros, puis rester silencieux pendant que tu te branlais ?"
+    lc "Cette petite pièce de théâtre à la fête de Min? Où je t'ai laissé jouer le héros, puis rester silencieux pendant que tu te branlais?"
 
 # game/code/d19/d19s01ntr.rpy:215
 translate french d19s01ntr_continue_06d5d9c4:
 
     # lc "It was all calculated.{w} You never even realized the theme of that party, did you?"
-    lc "Tout était calculé.{w} Tu n'as même jamais réalisé le thème de cette fête, n'est-ce pas ?"
+    lc "Tout était calculé.{w} Tu n'as même jamais réalisé le thème de cette fête, n'est-ce pas?"
 
 # game/code/d19/d19s01ntr.rpy:216
 translate french d19s01ntr_continue_a4925949:
@@ -314,13 +314,13 @@ translate french d19s01ntr_continue_12a8b69e:
 translate french d19s01ntr_continue_23b387eb:
 
     # lc "You are my creation. Who knew you existed a few weeks ago?"
-    lc "Tu es ma création. Qui savait que tu existais il y a quelques semaines ?"
+    lc "Tu es ma création. Qui savait que tu existais il y a quelques semaines?"
 
 # game/code/d19/d19s01ntr.rpy:227
 translate french d19s01ntr_continue_f31b9430:
 
     # lc "You're popular! You're loved! You've fucked how many people?!"
-    lc "Tu es populaire ! Tu es aimé! Tu as baisé combien de personnes ?!"
+    lc "Tu es populaire! Tu es aimé! Tu as baisé combien de personnes?!"
 
 # game/code/d19/d19s01ntr.rpy:230
 translate french d19s01ntr_continue_f3390aa8:
@@ -332,13 +332,13 @@ translate french d19s01ntr_continue_f3390aa8:
 translate french d19s01ntr_continue_f8544acd:
 
     # lc "When you disappeared for weeks, who cared except for me and mine?"
-    lc "Quand tu as disparu pendant des semaines, qui s'en souciait à part moi et les miens ?"
+    lc "Quand tu as disparu pendant des semaines, qui s'en souciait à part moi et les miens?"
 
 # game/code/d19/d19s01ntr.rpy:232
 translate french d19s01ntr_continue_d53f7e3a:
 
     # lc "And now you get to enjoy pleasuring me for the rest of your existence. Isn't it wonderful?"
-    lc "Et maintenant tu peux profiter de me faire plaisir pour le reste de ton existence. Ce n'est pas merveilleux ?"
+    lc "Et maintenant tu peux profiter de me faire plaisir pour le reste de ton existence. Ce n'est pas merveilleux?"
 
 # game/code/d19/d19s01ntr.rpy:241
 translate french d19s01ntr_continue_4a5145d8:
@@ -380,7 +380,7 @@ translate french d19s01ntr_continue_ce472ccd:
 translate french d19s01ntr_continue_a40b5d13:
 
     # mc "MMmpph!"
-    mc "MMmpph !"
+    mc "MMmpph!"
 
 # game/code/d19/d19s01ntr.rpy:254
 translate french d19s01ntr_continue_b33c222c:
@@ -410,7 +410,7 @@ translate french d19s01ntr_continue_52e59d8c:
 translate french d19s01ntr_continue_b9d940a2:
 
     # lc "What is it, slave?"
-    lc "Quoi donc, esclave ?"
+    lc "Quoi donc, esclave?"
 
 # game/code/d19/d19s01ntr.rpy:293
 translate french d19s01ntr_questions_dbcb7dd4:
@@ -422,7 +422,7 @@ translate french d19s01ntr_questions_dbcb7dd4:
 translate french d19s01ntr_questions_bf2a546f:
 
     # mc "So, this place... this is part of your home?"
-    mc "Alors, cet endroit... Ça fait partie de ta maison ?"
+    mc "Alors, cet endroit... Ça fait partie de ta maison?"
 
 # game/code/d19/d19s01ntr.rpy:300
 translate french d19s01ntr_questions_abbbcf01:
@@ -488,13 +488,13 @@ translate french d19s01ntr_questions_41b52451:
 translate french d19s01ntr_questions_4475fd00:
 
     # lc "We're in my Sex Dungeon. Do you have brain damage?"
-    lc "Nous sommes dans mon donjon sexuel. Tu as des lésions cérébrales ?"
+    lc "Nous sommes dans mon donjon sexuel. Tu as des lésions cérébrales?"
 
 # game/code/d19/d19s01ntr.rpy:340
 translate french d19s01ntr_questions_525b73e7:
 
     # mc "Maybe, but where is this... really?"
-    mc "Peut-être, mais où est-ce... vraiment ?"
+    mc "Peut-être, mais où est-ce... vraiment?"
 
 # game/code/d19/d19s01ntr.rpy:343
 translate french d19s01ntr_questions_d341593a:
@@ -506,7 +506,7 @@ translate french d19s01ntr_questions_d341593a:
 translate french d19s01ntr_questions_4ebd8d90:
 
     # mc "You mean, we're in some basement of your parents' house?"
-    mc "Tu veux dire, nous sommes dans un sous-sol de la maison de tes parents ?"
+    mc "Tu veux dire, nous sommes dans un sous-sol de la maison de tes parents?"
 
 # game/code/d19/d19s01ntr.rpy:349
 translate french d19s01ntr_questions_a353f833:
@@ -578,7 +578,7 @@ translate french d19s01ntr_decision_449f68cf:
 translate french d19s01ntr_decision_446b3627:
 
     # mc "What is my other option, Mistress?"
-    mc "Quelle est mon autre option, Maîtresse ?"
+    mc "Quelle est mon autre option, Maîtresse?"
 
 # game/code/d19/d19s01ntr.rpy:398
 translate french d19s01ntr_decision_c2034f06:
@@ -602,7 +602,7 @@ translate french d19s01ntr_decision_ab6bd80e:
 translate french d19s01ntr_decision_e1a0041c:
 
     # lc "You see... Whom?"
-    lc "Tu vois... qui ?"
+    lc "Tu vois... qui?"
 
 # game/code/d19/d19s01ntr.rpy:407
 translate french d19s01ntr_decision_52e65e99:
@@ -650,19 +650,19 @@ translate french d19s01ntr_decision_1c645d62:
 translate french d19s01ntr_decision_822cfe95:
 
     # lc "Oh?"
-    lc "Oh ?"
+    lc "Oh?"
 
 # game/code/d19/d19s01ntr.rpy:442
 translate french d19s01ntr_decision_e69b3ca9:
 
     # mc "How about I give you the finger?"
-    mc "Et si je te faisais un doigt d'honneur ?"
+    mc "Et si je te faisais un doigt d'honneur?"
 
 # game/code/d19/d19s01ntr.rpy:445
 translate french d19s01ntr_decision_1fcc28c6:
 
     # mc "And then I want you to take a big step back{w} SHOVE YOUR HEAD UP YOUR ASS{w} AND FUCK YOUR OWN FACE!!!"
-    mc "Et puis je veux que tu fasses un grand pas en arrière{w}, PASSE TA TÊTE DANS TON CUL{w} ET BAISE TON PROPRE VISAGE !!!"
+    mc "Et puis je veux que tu fasses un grand pas en arrière{w}, PASSE TA TÊTE DANS TON CUL{w} ET BAISE TON PROPRE VISAGE!!!"
 
 # game/code/d19/d19s01ntr.rpy:448
 translate french d19s01ntr_decision_080d3df8:
@@ -686,7 +686,7 @@ translate french d19s01ntr_end_d1acc24f:
 translate french d19s01ntr_end_30a22e70:
 
     # mc "Oh no.{w} Is it time to "Bring Out the Gimp?"
-    mc "Oh non.{w} Est-il temps de "faire sortir les boiteux?" 
+    mc "Oh non.{w} Est-il temps de faire sortir les boiteux?"
 
 # game/code/d19/d19s01ntr.rpy:467
 translate french d19s01ntr_end_1bdeabce:
@@ -740,7 +740,7 @@ translate french d19s01ntr_end_27003b76:
 translate french d19s01ntr_end_66638917:
 
     # mc "Is there anyone else here?"
-    mc "Y a-t-il quelqu'un d'autre ici ?"
+    mc "Y a-t-il quelqu'un d'autre ici?"
 
 # game/code/d19/d19s01ntr.rpy:530
 translate french d19s01ntr_end_085d6520:
@@ -758,7 +758,7 @@ translate french d19s01ntr_end_aeadf034:
 translate french d19s01ntr_end_eaeb689f:
 
     # mc "Do you know where they put our clothes?"
-    mc "Tu sais où ils mettent nos vêtements ?"
+    mc "Tu sais où ils mettent nos vêtements?"
 
 # game/code/d19/d19s01ntr.rpy:539
 translate french d19s01ntr_end_9f8a7ad0:
@@ -794,19 +794,19 @@ translate french d19s01ntr_end_f69ff4bd:
 translate french d19s01ntr_end_98459161:
 
     # mc "Oh, my phone!"
-    mc "Oh, mon téléphone !"
+    mc "Oh, mon téléphone!"
 
 # game/code/d19/d19s01ntr.rpy:558
 translate french d19s01ntr_end_be872fef:
 
     # mct "There is something strange in this neighborhood. Whom am I gonna call?"
-    mct "Il y a quelque chose d'étrange. Qui vais-je appeler ?"
+    mct "Il y a quelque chose d'étrange. Qui vais-je appeler?"
 
 # game/code/d19/d19s01ntr.rpy:563
 translate french d19s01ntr_end_a913cdcc:
 
     # mc "Pick up!{w} AmRose!! Pick up!!!"
-    mc "Décroche!{w} AmRose !! Décroche !!!"
+    mc "Décroche!{w} AmRose!! Décroche!!!"
 
 # game/code/d19/d19s01ntr.rpy:564
 translate french d19s01ntr_end_367d2a5c:
@@ -824,13 +824,13 @@ translate french d19s01ntr_end_27e6e569:
 translate french d19s01ntr_end_9d54982a:
 
     # ah "Woah, woah, woah. Wait.{w} Is that really the smart move here?"
-    ah "Woah, woah, woah. Attends.{w} Est-ce vraiment la chose intelligente à faire ici ?"
+    ah "Woah, woah, woah. Attends.{w} Est-ce vraiment la chose intelligente à faire ici?"
 
 # game/code/d19/d19s01ntr.rpy:577
 translate french d19s01ntr_end_f30c76e8:
 
     # mc "Are you serious?"
-    mc "Tu es sérieux ?"
+    mc "Tu es sérieux?"
 
 # game/code/d19/d19s01ntr.rpy:581
 translate french d19s01ntr_end_9af20ee0:
@@ -842,7 +842,7 @@ translate french d19s01ntr_end_9af20ee0:
 translate french d19s01ntr_end_6e0c97a2:
 
     # mc "What the hell are you talking about?"
-    mc "De quoi tu parles ?"
+    mc "De quoi tu parles?"
 
 # game/code/d19/d19s01ntr.rpy:587
 translate french d19s01ntr_end_be1e3b25:
@@ -866,7 +866,7 @@ translate french d19s01ntr_end_1b5c4c7a:
 translate french d19s01ntr_end_eb575aaf:
 
     # mc "Jerk-ass Jerome over there hit me!"
-    mc "Le connard de Jérôme là-bas m'a frappé !"
+    mc "Le connard de Jérôme là-bas m'a frappé!"
 
 # game/code/d19/d19s01ntr.rpy:599
 translate french d19s01ntr_end_72213cbb:
@@ -938,19 +938,19 @@ translate french d19s01ntr_end_5bba03f7:
 translate french d19s01ntr_end_6e0c97a2_1:
 
     # mc "What the hell are you talking about?"
-    mc "De quoi tu parles ?"
+    mc "De quoi tu parles?"
 
 # game/code/d19/d19s01ntr.rpy:638
 translate french d19s01ntr_end_9e5f7973:
 
     # tr "What if we just wait here and ambush her when she gets back?"
-    tr "Et si on attendait ici et qu'on lui tendait une embuscade à son retour ?"
+    tr "Et si on attendait ici et qu'on lui tendait une embuscade à son retour?"
 
 # game/code/d19/d19s01ntr.rpy:641
 translate french d19s01ntr_end_36dfa511:
 
     # mc "And then what? We jump her and...?"
-    mc "Et après ? On lui saute dessus et... ?"
+    mc "Et après? On lui saute dessus et...?"
 
 # game/code/d19/d19s01ntr.rpy:644
 translate french d19s01ntr_end_bb39a2f3:
@@ -1058,19 +1058,19 @@ translate french strings:
 
     # game/code/d19/d19s01ntr.rpy:289
     old "How did I get here?"
-    new "Comment suis-je arrivé ici ?"
+    new "Comment suis-je arrivé ici?"
 
     # game/code/d19/d19s01ntr.rpy:289
     old "I thought you were a virgin!"
-    new "Je croyais que tu étais vierge !"
+    new "Je croyais que tu étais vierge!"
 
     # game/code/d19/d19s01ntr.rpy:289
     old "How is Kevin involved in all this"
-    new "Comment Kevin est-il impliqué dans tout ça ?"
+    new "Comment Kevin est-il impliqué dans tout ça?"
 
     # game/code/d19/d19s01ntr.rpy:289
     old "Where are we?"
-    new "Où sommes-nous ?"
+    new "Où sommes-nous?"
 
     # game/code/d19/d19s01ntr.rpy:289
     old "No Questions"
@@ -1083,3 +1083,4 @@ translate french strings:
     # game/code/d19/d19s01ntr.rpy:417
     old "Go Fuck Yourself"
     new "Va te faire foutre"
+

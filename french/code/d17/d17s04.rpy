@@ -2,7 +2,7 @@
 translate french d17s04_e9a933c1:
 
     # mc "If we aren't leaving the docks... {w}why are we here?"
-    mc "Si nous ne quittons pas les quais... {w}pourquoi sommes-nous ici ?"
+    mc "Si nous ne quittons pas les quais... {w}pourquoi sommes-nous ici?"
 
 # game/code/d17/d17s04.rpy:57
 translate french d17s04_2ae9b8c5:
@@ -32,7 +32,7 @@ translate french d17s04_3fc37bf2:
 translate french d17s04_3d74b540:
 
     # hr "Oh yes, I do. {w}There are two reasons for that. Do you want to hear what they are?"
-    hr "Oh oui, je le fais. {w}Il y a deux raisons à cela. Voulez-vous savoir de quoi il s'agit ?"
+    hr "Oh oui, je le fais. {w}Il y a deux raisons à cela. Voulez-vous savoir de quoi il s'agit?"
 
 # game/code/d17/d17s04.rpy:71
 translate french d17s04_771cd8e7:
@@ -56,7 +56,7 @@ translate french d17s04_a0571f51:
 translate french d17s04_2e93ea22:
 
     # mc "And your way involves screaming?"
-    mc "Et ta façon de faire implique de crier ?"
+    mc "Et ta façon de faire implique de crier?"
 
 # game/code/d17/d17s04.rpy:79
 translate french d17s04_b123170c:
@@ -68,13 +68,13 @@ translate french d17s04_b123170c:
 translate french d17s04_59ced1c9:
 
     # mc "Fucking hell. Why?"
-    mc "Putain de merde. Pourquoi ?"
+    mc "Putain de merde. Pourquoi?"
 
 # game/code/d17/d17s04.rpy:85
 translate french d17s04_aef16cde:
 
     # hr "Look, I'm not one of those \"Fuck me in the ass because I like Jebus\" assholes."
-    hr "Ecoute, je ne fais pas partie de ces connards de \"Baise-moi dans le cul parce que j'aime ça\".
+    hr "Ecoute, je ne fais pas partie de ces connards de \"Baise-moi dans le cul parce que j'aime ça\"."
 
 # game/code/d17/d17s04.rpy:86
 translate french d17s04_8af29978:
@@ -92,7 +92,7 @@ translate french d17s04_e05eac6c:
 translate french d17s04_a5289f41:
 
     # mc "... Why would you want that?"
-    mc "... Pourquoi voudrais-tu ça ?"
+    mc "... Pourquoi voudrais-tu ça?"
 
 # game/code/d17/d17s04.rpy:93
 translate french d17s04_3762db3e:
@@ -104,19 +104,19 @@ translate french d17s04_3762db3e:
 translate french d17s04_48857fa8:
 
     # mc "Let's be specific. {w}What do you want me to do?"
-    mc "Soyons précis. {w}Que veux-tu que je fasse ?"
+    mc "Soyons précis. {w}Que veux-tu que je fasse?"
 
 # game/code/d17/d17s04.rpy:109
 translate french d17s04_rough_c369618f:
 
     # hr "Have you ever done any roleplaying?"
-    hr "Avez-vous déjà fait du jeu de rôle ?"
+    hr "Avez-vous déjà fait du jeu de rôle?"
 
 # game/code/d17/d17s04.rpy:111
 translate french d17s04_rough_1805546a:
 
     # mc "Like playing doctor or sleeping with the sexy cheerleader?"
-    mc "Comme jouer au docteur ou coucher avec la pom-pom girl sexy ?"
+    mc "Comme jouer au docteur ou coucher avec la pom-pom girl sexy?"
 
 # game/code/d17/d17s04.rpy:114
 translate french d17s04_rough_a25e8883:
@@ -128,7 +128,7 @@ translate french d17s04_rough_a25e8883:
 translate french d17s04_rough_05f44c07:
 
     # mc "Slapping, choking, bondage, that sort of thing?"
-    mc "Gifles, étouffement, bondage, ce genre de choses ?"
+    mc "Gifles, étouffement, bondage, ce genre de choses?"
 
 # game/code/d17/d17s04.rpy:118
 translate french d17s04_rough_dad6d192:
@@ -200,7 +200,7 @@ translate french d17s04_rough_58020729:
 translate french d17s04_rough_960b3e4b:
 
     # mc "Maybe... is there anything else I should know?"
-    mc "Peut-être... y a-t-il autre chose que je devrais savoir ?"
+    mc "Peut-être... y a-t-il autre chose que je devrais savoir?"
 
 # game/code/d17/d17s04.rpy:156
 translate french d17s04_rough_0a46f7be:
@@ -272,19 +272,19 @@ translate french d17s04_anal_hard_15708d8f:
 translate french d17s04_anal_hard_2868d66f:
 
     # hr "You get to use me, abuse me, and fuck my ass. What else do you want?"
-    hr "Tu peux m'utiliser, me maltraiter et me baiser le cul. Que veux-tu d'autre ?"
+    hr "Tu peux m'utiliser, me maltraiter et me baiser le cul. Que veux-tu d'autre?"
 
 # game/code/d17/d17s04.rpy:208
 translate french d17s04_anal_hard_3760095f:
 
     # mc "I don't know. Some assurance that I won't suffer any consequences?"
-    mc "Je ne sais pas. Une certaine assurance que je ne subirai aucune conséquence ?"
+    mc "Je ne sais pas. Une certaine assurance que je ne subirai aucune conséquence?"
 
 # game/code/d17/d17s04.rpy:211
 translate french d17s04_anal_hard_21fc37d4:
 
     # hr "You want me to write you a permission slip?"
-    hr "Tu veux que je t'écrive une autorisation ?"
+    hr "Tu veux que je t'écrive une autorisation?"
 
 # game/code/d17/d17s04.rpy:215
 translate french d17s04_anal_hard_31d5b0ce:
@@ -302,7 +302,7 @@ translate french d17s04_anal_hard_924c48de:
 translate french d17s04_anal_hard_db44a9c7:
 
     # mc "You're sure about this?"
-    mc "Tu es sûr de ça ?"
+    mc "Tu es sûr de ça?"
 
 # game/code/d17/d17s04.rpy:223
 translate french d17s04_anal_hard_ef48d3f6:
@@ -326,7 +326,7 @@ translate french d17s04_anal_hard_b00747f6:
 translate french d17s04_anal_hard_86c2e81d:
 
     # mc "What would you prefer that I call you, Cunt?"
-    mc "Comment préférerais-tu que je t'appelle, Chienne ?"
+    mc "Comment préférerais-tu que je t'appelle, Chienne?"
 
 # game/code/d17/d17s04.rpy:234
 translate french d17s04_anal_hard_152bfbe5:
@@ -338,7 +338,7 @@ translate french d17s04_anal_hard_152bfbe5:
 translate french d17s04_anal_hard_bb99629b:
 
     # mc "Fine then, Cunt."
-    mc « Bien alors, Chienne. »
+    mc "Bien alors, Chienne."
 
 # game/code/d17/d17s04.rpy:240
 translate french d17s04_anal_hard_929acedb:
@@ -392,7 +392,7 @@ translate french d17s04_anal_hard_5aa42461:
 translate french d17s04_anal_hard_aadcba22:
 
     # mc "You think if you half-ass the blowjob you'll get out of this easily?"
-    mc "Tu penses que si tu fais une pipe à moitié, tu t'en sortiras facilement ?"
+    mc "Tu penses que si tu fais une pipe à moitié, tu t'en sortiras facilement?"
 
 # game/code/d17/d17s04.rpy:305
 translate french d17s04_anal_hard_21228682:
@@ -404,19 +404,19 @@ translate french d17s04_anal_hard_21228682:
 translate french d17s04_anal_hard_6c7f9d2e:
 
     # mc "No, sir?!"
-    mc "Non, monsieur ?!"
+    mc "Non, monsieur?!"
 
 # game/code/d17/d17s04.rpy:310
 translate french d17s04_anal_hard_827ffc2a:
 
     # mc "Who the fuck do you think you are?!"
-    mc "Putain, pour qui te prends-tu ?!"
+    mc "Putain, pour qui te prends-tu?!"
 
 # game/code/d17/d17s04.rpy:311
 translate french d17s04_anal_hard_48cbc10d:
 
     # mc "Who the fuck do you think I AM?!"
-    mc "Putain, qui penses-tu que je suis ?!"
+    mc "Putain, qui penses-tu que je suis?!"
 
 # game/code/d17/d17s04.rpy:314
 translate french d17s04_anal_hard_12fb0c2c:
@@ -428,7 +428,7 @@ translate french d17s04_anal_hard_12fb0c2c:
 translate french d17s04_anal_hard_c28759e2:
 
     # mc "Change your mind, Cunt?! Do you want me to stop this?!"
-    mc "Change d'avis, Chienne ?! Tu veux que j'arrête ça ?!"
+    mc "Change d'avis, Chienne?! Tu veux que j'arrête ça?!"
 
 # game/code/d17/d17s04.rpy:320
 translate french d17s04_anal_hard_f838d11f:
@@ -446,7 +446,7 @@ translate french d17s04_anal_hard_4bdbfbef:
 translate french d17s04_anal_hard_65c277ad:
 
     # mc "What did you say, Cunt?!"
-    mc "Qu'est-ce que tu as dit, Chienne ?!"
+    mc "Qu'est-ce que tu as dit, Chienne?!"
 
 # game/code/d17/d17s04.rpy:329
 translate french d17s04_anal_hard_e9975561:
@@ -512,49 +512,49 @@ translate french d17s04_anal_hard_daaa0ce7:
 translate french d17s04_anal_hard_5339b149:
 
     # mc "WHAT DID YOU SAY, CUNT?!"
-    mc "QU'AS-TU DIT, CHIENNE ?!"
+    mc "QU'AS-TU DIT, CHIENNE?!"
 
 # game/code/d17/d17s04.rpy:365
 translate french d17s04_anal_hard_fb5f1604:
 
     # hr "OH! {w}Fuck me, Master!"
-    hr "OH ! {w}Baise-moi, Maître !"
+    hr "OH! {w}Baise-moi, Maître!"
 
 # game/code/d17/d17s04.rpy:368
 translate french d17s04_anal_hard_94ef4685:
 
     # mc "That's not what you called me before, Slut!"
-    mc "Ce n'est pas comme ça que tu m'appelais avant, Salope !"
+    mc "Ce n'est pas comme ça que tu m'appelais avant, Salope!"
 
 # game/code/d17/d17s04.rpy:371
 translate french d17s04_anal_hard_6998238f:
 
     # hr "Please fuck my ass, sir!"
-    hr "S'il vous plaît, baisez-moi le cul, monsieur !"
+    hr "S'il vous plaît, baisez-moi le cul, monsieur!"
 
 # game/code/d17/d17s04.rpy:373
 translate french d17s04_anal_hard_eebf2a0f:
 
     # mc "Try again, Whore!"
-    mc "Essaye encore, putain !"
+    mc "Essaye encore, putain!"
 
 # game/code/d17/d17s04.rpy:376
 translate french d17s04_anal_hard_5f19fe49:
 
     # hr "PLEASE FUCK MY ASS DADDY!!!"
-    hr "S'IL VOUS PLAIT, BAISE MON CUL PAPA !!!"
+    hr "S'IL VOUS PLAIT, BAISE MON CUL PAPA!!!"
 
 # game/code/d17/d17s04.rpy:378
 translate french d17s04_anal_hard_55d777fb:
 
     # hr "PLEASE FUCK MY ASS SENATOR!!!"
-    hr "S'IL VOUS PLAÎT, BAISE MON CUL SÉNATEUR !!!"
+    hr "S'IL VOUS PLAÎT, BAISE MON CUL SÉNATEUR!!!"
 
 # game/code/d17/d17s04.rpy:384
 translate french d17s04_anal_hard_51fc60d5:
 
     # mc "That's more like it, Cunt!"
-    mc "C'est plutôt ça, Chienne !"
+    mc "C'est plutôt ça, Chienne!"
 
 # game/code/d17/d17s04.rpy:388
 translate french d17s04_anal_hard_bb13b81c:
@@ -590,7 +590,7 @@ translate french d17s04_anal_hard_b52947b2:
 translate french d17s04_anal_hard_96998a55:
 
     # mc "DID I TELL YOU TO TALK, WHORE?!"
-    mc "EST-CE QUE JE T'AI DIT DE PARLER, PUTAIN ?!"
+    mc "EST-CE QUE JE T'AI DIT DE PARLER, PUTAIN?!"
 
 # game/code/d17/d17s04.rpy:405
 translate french d17s04_anal_hard_c8dae9c7:
@@ -602,13 +602,13 @@ translate french d17s04_anal_hard_c8dae9c7:
 translate french d17s04_anal_hard_139274d2:
 
     # hr "PLEASE DADDY!!!"
-    hr "S'IL VOUS PLAIT PAPA !!!"
+    hr "S'IL VOUS PLAIT PAPA!!!"
 
 # game/code/d17/d17s04.rpy:427
 translate french d17s04_anal_hard_c6399ed9:
 
     # hr "PLEASE SENATOR!!!"
-    hr "S'IL VOUS PLAÎT, SÉNATEUR !!!"
+    hr "S'IL VOUS PLAÎT, SÉNATEUR!!!"
 
 # game/code/d17/d17s04.rpy:434
 translate french d17s04_anal_hard_6725d766:
@@ -620,13 +620,13 @@ translate french d17s04_anal_hard_6725d766:
 translate french d17s04_anal_hard_2a3705c3:
 
     # mct "Fuck. Did I go too far???"
-    mct "Putain. Est-ce que je suis allé trop loin ???"
+    mct "Putain. Est-ce que je suis allé trop loin???"
 
 # game/code/d17/d17s04.rpy:437
 translate french d17s04_anal_hard_c6342e9e:
 
     # hr "PLEASE FUCK MY WORTHLESS ASS!!!"
-    hr "S'IL VOUS PLAIT, BAISE MON CUL SANS VALEUR !!!"
+    hr "S'IL VOUS PLAIT, BAISE MON CUL SANS VALEUR!!!"
 
 # game/code/d17/d17s04.rpy:443
 translate french d17s04_anal_hard_87e26eb2:
@@ -650,7 +650,7 @@ translate french d17s04_anal_hard_717496c1:
 translate french d17s04_anal_hard_d0af0996:
 
     # mc "I'M GONNA CUM!!!"
-    mc "Je vais jouir !!!"
+    mc "Je vais jouir!!!"
 
 # game/code/d17/d17s04.rpy:466
 translate french d17s04_anal_hard_a5b857af:
@@ -680,7 +680,7 @@ translate french d17s04_anal_hard_fd0f6aec:
 translate french d17s04_anal_hard_eb6e5283:
 
     # mc "Fuck. {w}Are you okay?"
-    mc "Putain. {w} Est-ce que ça va ?"
+    mc "Putain. {w} Est-ce que ça va?"
 
 # game/code/d17/d17s04.rpy:486
 translate french d17s04_anal_hard_5d6f446a:
@@ -692,7 +692,7 @@ translate french d17s04_anal_hard_5d6f446a:
 translate french d17s04_anal_hard_747268da:
 
     # mc "What the hell was that all about?"
-    mc "Qu'est-ce que c'était que ça ?"
+    mc "Qu'est-ce que c'était que ça?"
 
 # game/code/d17/d17s04.rpy:491
 translate french d17s04_anal_hard_956a617e:
@@ -836,7 +836,7 @@ translate french d17s04_anal_soft_ef923976:
 translate french d17s04_anal_soft_d6e49b4e:
 
     # mc "Oh? Then what?"
-    mc "Oh ? Et alors ?"
+    mc "Oh? Et alors?"
 
 # game/code/d17/d17s04.rpy:557
 translate french d17s04_anal_soft_7adea4e7:
@@ -866,7 +866,7 @@ translate french d17s04_anal_soft_54b8d130:
 translate french d17s04_anal_soft_5bdfe3c8:
 
     # mc "You're sure?"
-    mc "Tu es sûr ?"
+    mc "Tu es sûr?"
 
 # game/code/d17/d17s04.rpy:568
 translate french d17s04_anal_soft_b61ad310:
@@ -1028,13 +1028,13 @@ translate french d17s04_anal_soft_cd113a7a:
 translate french d17s04_anal_soft_6ac5777b:
 
     # mct "I could spend the rest of my life fucking this hole!"
-    mct "Je pourrais passer le reste de ma vie à baiser ce trou !"
+    mct "Je pourrais passer le reste de ma vie à baiser ce trou!"
 
 # game/code/d17/d17s04.rpy:630
 translate french d17s04_anal_soft_45746e6c:
 
     # mc "FUCK I'm going to cum!"
-    mc "PUTAIN, je vais jouir !"
+    mc "PUTAIN, je vais jouir!"
 
 # game/code/d17/d17s04.rpy:641
 translate french d17s04_anal_soft_0dd920e0:
@@ -1058,7 +1058,7 @@ translate french d17s04_anal_soft_ca40d4b7:
 translate french d17s04_anal_soft_1c59a736:
 
     # mc "Look - are you going to be okay?"
-    mc "Écoute, est-ce que ça va aller ?"
+    mc "Écoute, est-ce que ça va aller?"
 
 # game/code/d17/d17s04.rpy:655
 translate french d17s04_anal_soft_19c74322:
@@ -1076,7 +1076,7 @@ translate french d17s04_end_704eb5c8:
 translate french d17s04_end_879a977b:
 
     # mc "Iona? {w}Were you-?"
-    mc "Iona ? {w} Étais-tu- ?"
+    mc "Iona? {w} Étais-tu-?"
 
 # game/code/d17/d17s04.rpy:673
 translate french d17s04_end_92b4fb11:
@@ -1088,13 +1088,13 @@ translate french d17s04_end_92b4fb11:
 translate french d17s04_end_334fbd05:
 
     # mc "Shit. Are you pissed at me?"
-    mc "Merde. Tu es en colère contre moi ?"
+    mc "Merde. Tu es en colère contre moi?"
 
 # game/code/d17/d17s04.rpy:679
 translate french d17s04_end_84350b3b:
 
     # ir "What? Why would you think that?"
-    ir "Quoi ? Pourquoi penses-tu ça ?"
+    ir "Quoi? Pourquoi penses-tu ça?"
 
 # game/code/d17/d17s04.rpy:681
 translate french d17s04_end_40105b01:
@@ -1124,7 +1124,7 @@ translate french d17s04_end_a5f86db5:
 translate french d17s04_end_bd09e081:
 
     # mc "You two going to be okay?"
-    mc "Ça va aller pour vous deux ?"
+    mc "Ça va aller pour vous deux?"
 
 # game/code/d17/d17s04.rpy:695
 translate french d17s04_end_8a682a2f:
@@ -1142,7 +1142,7 @@ translate french d17s04_end_4a35b8db:
 translate french d17s04_end_e7e0b83d:
 
     # ir "Hey, [mcname]!"
-    ir "Hé, [mcname] !"
+    ir "Hé, [mcname]!"
 
 # game/code/d17/d17s04.rpy:704
 translate french d17s04_end_7c927b78:
@@ -1172,19 +1172,19 @@ translate french d17s04_end_4c2c3694:
 translate french d17s04_end_dff6a0af:
 
     # mc "Huh? What was that?"
-    mc "Hein ? Qu'est-ce que c'était ?"
+    mc "Hein? Qu'est-ce que c'était?"
 
 # game/code/d17/d17s04.rpy:717
 translate french d17s04_end_0e248c8b:
 
     # ir "Given the option, you'd take the red pill or the blue pill?"
-    ir "Si vous aviez le choix, prendriez-vous la pilule rouge ou la pilule bleue ?"
+    ir "Si vous aviez le choix, prendriez-vous la pilule rouge ou la pilule bleue?"
 
 # game/code/d17/d17s04.rpy:720
 translate french d17s04_end_98964dee:
 
     # mc "Which witch was which?"
-    mc "Quelle sorcière était laquelle ?"
+    mc "Quelle sorcière était laquelle?"
 
 # game/code/d17/d17s04.rpy:723
 translate french d17s04_end_0b16fc3a:
@@ -1220,7 +1220,7 @@ translate french d17s04_end_8f5304a1:
 translate french d17s04_end_b61e02c0:
 
     # mct "Alright. Now how do I get back to college from here?"
-    mct "Très bien. Maintenant, comment puis-je retourner à l'université à partir d'ici ?"
+    mct "Très bien. Maintenant, comment puis-je retourner à l'université à partir d'ici?"
 
 translate french strings:
 

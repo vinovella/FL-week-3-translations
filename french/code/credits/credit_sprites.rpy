@@ -42,7 +42,7 @@ translate french strings:
 
     # game/code/credits/credit_sprites.rpy:168
     old "Thank you for playing the game!"
-    new "Merci d'avoir joué au jeu !"
+    new "Merci d'avoir joué au jeu!"
 
     # game/code/credits/credit_sprites.rpy:169
     old "We'll see you soon!"
