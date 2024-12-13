@@ -50,7 +50,7 @@ translate french strings:
 
     # game/code/data/prologue.rpy:16
     old "Chloe"
-    new "Chloe"
+    new "Chloé"
 
     # game/code/data/prologue.rpy:16
     old "Iona"
@@ -66,45 +66,44 @@ translate french strings:
 
     # game/code/data/prologue.rpy:16
     old "The Judge"
-    new "The Judge"
+    new "Le juge"
 
     # game/code/data/prologue.rpy:45
     old "Enema"
-    new "Enema"
+    new "Lavement"
 
     # game/code/data/prologue.rpy:45
     old "Watersports"
-    new "Watersports"
+    new "Sports nautiques"
 
     # game/code/data/prologue.rpy:45
     old "Footfetish"
-    new "Footfetish"
+    new "Fétichisme des pieds"
 
     # game/code/data/prologue.rpy:45
     old "Cumgarnish"
-    new "Cumgarnish"
+    new "Garniture de foutre"
 
     # game/code/data/prologue.rpy:45
     old "Fisting"
-    new "Fisting"
+    new "Fist"
 
     # game/code/data/prologue.rpy:45
     old "Pegging"
-    new "Pegging"
+    new "Rattachement"
 
     # game/code/data/prologue.rpy:45
     old "Trans Content"
-    new "Trans Content"
+    new "Contenu trans"
 
     # game/code/data/prologue.rpy:79
     old "dog"
-    new "dog"
+    new "Chien"
 
     # game/code/data/prologue.rpy:79
     old "cuddle"
-    new "cuddle"
+    new "Câlin"
 
     # game/code/data/prologue.rpy:79
     old "adult magazines"
-    new "adult magazines"
-
+    new "Magazines pour adultes"
