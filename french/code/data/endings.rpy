@@ -6,69 +6,68 @@ translate french strings:
 
     # game/code/data/endings.rpy:3
     old "Snowy Peaks"
-    new "Snowy Peaks"
+    new "Sommets enneigés"
 
     # game/code/data/endings.rpy:3
     old "Two Girls Two Dicks"
-    new "Two Girls Two Dicks"
+    new "Deux filles, deux bites"
 
     # game/code/data/endings.rpy:3
     old "My Sex Dungeon"
-    new "My Sex Dungeon"
+    new "Mon donjon sexuel"
 
     # game/code/data/endings.rpy:3
     old "Sausage Party"
-    new "Sausage Party"
+    new "Fête des saucisses"
 
     # game/code/data/endings.rpy:3
     old "Queen's Harem"
-    new "Queen's Harem"
+    new "Le harem de la reine"
 
     # game/code/data/endings.rpy:3
     old "A New Chair"
-    new "A New Chair"
+    new "Une nouvelle chaise"
 
     # game/code/data/endings.rpy:3
     old "My Happy Ginger Family"
-    new "My Happy Ginger Family"
+    new "Ma joyeuse famille Ginger"
 
     # game/code/data/endings.rpy:3
     old "Fetish Locator: Rebooted"
-    new "Fetish Locator: Rebooted"
+    new "Fetish Locator: Redémarré"
 
     # game/code/data/endings.rpy:3
     old "Runaway"
-    new "Runaway"
+    new "Fuyez"
 
     # game/code/data/endings.rpy:3
     old "Red Diamond"
-    new "Red Diamond"
+    new "Diamant rouge"
 
     # game/code/data/endings.rpy:3
     old "Redhead Resort"
-    new "Redhead Resort"
+    new "Rousse Resort"
 
     # game/code/data/endings.rpy:3
     old "Pregnant Nora"
-    new "Pregnant Nora"
+    new "Nora enceinte"
 
     # game/code/data/endings.rpy:3
     old "Polly & Nora"
-    new "Polly & Nora"
+    new "Polly et Nora"
 
     # game/code/data/endings.rpy:3
     old "Waterfall"
-    new "Waterfall"
+    new "Cascade"
 
     # game/code/data/endings.rpy:3
     old "Breeding Ponies"
-    new "Breeding Ponies"
+    new "Poneys reproducteurs"
 
     # game/code/data/endings.rpy:3
     old "Not Guilty"
-    new "Not Guilty"
+    new "Non coupable"
 
     # game/code/data/endings.rpy:3
     old "Quartet"
-    new "Quartet"
-
+    new "Quatuor"
