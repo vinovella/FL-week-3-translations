@@ -1238,4 +1238,4 @@ translate french strings:
 
     # game/code/e16/e16s07.rpy:893
     old "You have finished playing Ending #16!"
-    new "You have finished playing Ending #16!"
+    new "Vous avez fini de jouer à Ending #16!"
