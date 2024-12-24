@@ -236,7 +236,7 @@ translate french d17s05mo_a55d945b:
 translate french d17s05mo_93814797:
 
     # mc "...Well shit."
-    mc "...Well shit."
+    mc "...Eh bien, merde."
 
 # game/code/d17/d17s05mo.rpy:142
 translate french d17s05mo_97f9f301:
