@@ -446,7 +446,7 @@ translate french d17s01_534ceec3:
 translate french d17s01_81d96176:
 
     # lc "I don't think we're even the same blood type."
-    lc "I don't think we're even the same blood type."
+    lc "Je ne pense pas que nous soyons même du même groupe sanguin."
 
 # game/code/d17/d17s01.rpy:280
 translate french d17s01_1560f212:
@@ -1046,7 +1046,7 @@ translate french d17s01_no_ntr_11455b53:
 translate french d17s01_no_ntr_5d7689bd:
 
     # arj "It's like ripping off a band-aid.{w} You fuck my ass, I push back on you, and we get you balls deep as fast as possible."
-    arj "It's like ripping off a band-aid.{w} You fuck my ass, I push back on you, and we get you balls deep as fast as possible."
+    arj "C'est comme arracher un pansement.{w} Tu me baises le cul, je te repousse, et on t'enfonce les couilles le plus vite possible."
 
 # game/code/d17/d17s01.rpy:684
 translate french d17s01_no_ntr_cfce055e:
@@ -1070,7 +1070,7 @@ translate french d17s01_no_ntr_74aeb474:
 translate french d17s01_no_ntr_96f17797:
 
     # arj "If you're going to fucking fuck me in the shitter at least do what I tell you to do."
-    arj "If you're going to fucking fuck me in the shitter at least do what I tell you to do."
+    arj "Si tu veux me baiser dans la merde, fais au moins ce que je te dis de faire."
 
 # game/code/d17/d17s01.rpy:696
 translate french d17s01_no_ntr_a49ed4f8_1:
@@ -1286,7 +1286,7 @@ translate french d17s01_anal_sex_1f2b44e4:
 translate french d17s01_anal_sex_135521c7:
 
     # lc "That is so hot."
-    lc "That is so hot."
+    lc "C'est tellement chaud."
 
 # game/code/d17/d17s01.rpy:835
 translate french d17s01_anal_sex_fd6f33e0:
