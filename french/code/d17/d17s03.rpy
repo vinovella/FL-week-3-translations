@@ -224,7 +224,7 @@ translate french d17s03_41b72dd7:
 translate french d17s03_51b8dc9f:
 
     # mc "I'm not getting less confused."
-    mc "I'm not getting less confused."
+    mc "Je ne suis pas moins confus."
 
 # game/code/d17/d17s03.rpy:132
 translate french d17s03_a0328ac8:
