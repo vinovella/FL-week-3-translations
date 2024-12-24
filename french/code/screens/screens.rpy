@@ -22,7 +22,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:307
     old "Continue from week [FLSS.week.prev]"
-    new "Continue from week [FLSS.week.prev]"
+    new "Continuer à partir de la semaine [FLSS.week.prev]"
 
     # game/code/screens/screens.rpy:311
     old "Start"
