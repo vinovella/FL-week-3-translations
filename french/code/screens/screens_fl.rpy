@@ -290,5 +290,5 @@ translate french strings:
 
     # game/code/screens/screens_fl.rpy:1396
     old "{u}Get Taboo University Book 1 on GOG{/u}"
-    new "{u}Get Taboo University Book 1 on GOG{/u}"
+    new "{u}Obtenez le tome 1 de Taboo University sur GOG{/u}"
 
