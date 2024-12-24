@@ -125,7 +125,7 @@ translate french d15s02_b8a4f4f7:
 translate french d15s02_21b79718:
 
     # mc "*Chuckles* Maybe you're right."
-    mc "*Rires* Maybe you're right."
+    mc "*Rires* Peut-être que tu as raison."
 
 # game/code/d15/d15s02.rpy:87
 translate french d15s02_c5717414:
