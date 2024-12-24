@@ -1166,35 +1166,35 @@ translate french d17s06dw_breakup_6525077f:
 translate french d17s06dw_clown_room_ff373efe:
 
     # dw "She's really competitive if you hadn't noticed."
-    dw "She's really competitive if you hadn't noticed."
+    dw "Elle est vraiment compétitive si tu ne l'avais pas remarqué."
 
 # game/code/d17/d17s06dw.rpy:549
 translate french d17s06dw_clown_room_d051fb6f:
 
     # sb "You're one to talk."
-    sb "You're one to talk."
+    sb "Tu es du genre à parler."
 
 # game/code/d17/d17s06dw.rpy:564
 translate french d17s06dw_clown_room_5e9487ab:
 
     # sb "So, what about you, [mcname]?"
-    sb "So, what about you, [mcname]?"
+    sb "Alors, et toi, [mcname]?"
 
 # game/code/d17/d17s06dw.rpy:565
 translate french d17s06dw_clown_room_8a83b08b:
 
     # mc "I enjoy a healthy competition."
-    mc "I enjoy a healthy competition."
+    mc "J'apprécie une saine compétition."
 
 # game/code/d17/d17s06dw.rpy:570
 translate french d17s06dw_clown_room_9abb110b:
 
     # sb "I mean, you don't seem like a sub."
-    sb "I mean, you don't seem like a sub."
+    sb "Je veux dire, tu n'as pas l'air d'un soumis."
 
 # game/code/d17/d17s06dw.rpy:571
 translate french d17s06dw_clown_room_a6be913e:
 
     # mc "So?"
-    mc "So?"
+    mc "Donc?"
 
