@@ -308,7 +308,7 @@ translate french d15s06_21dd06c0:
 translate french d15s06_cd8b9f64:
 
     # op "Annnd we're here. I hope you enjoyed the ride!"
-    op "Annnd we're here. I hope you enjoyed the ride!"
+    op "Et nous sommes là. J'espère que vous avez apprécié la balade!"
 
 # game/code/d15/d15s06.rpy:270
 translate french d15s06_3f1c2f86:
