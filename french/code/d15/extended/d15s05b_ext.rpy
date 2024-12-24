@@ -1112,7 +1112,7 @@ translate french d15s05b_fisto_27b942ae:
 translate french d15s05b_fisto_32dd75f2:
 
     # nk "Domo arigato Fisto Robotto"
-    nk "Domo arigato Fisto Robotto"
+    nk "Domo arigato Fisto Robotto."
 
 # game/code/d15/extended/d15s05b_ext.rpy:576
 translate french d15s05b_fisto_0b53183b:
