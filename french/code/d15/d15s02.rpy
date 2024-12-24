@@ -119,13 +119,13 @@ translate french d15s02_a53b8e94:
 translate french d15s02_b8a4f4f7:
 
     # nk "*Snickers* Mm-hm."
-    nk "*Snickers* Mm-hm."
+    nk "*Des ricanements* Mm-hm."
 
 # game/code/d15/d15s02.rpy:86
 translate french d15s02_21b79718:
 
     # mc "*Chuckles* Maybe you're right."
-    mc "*Chuckles* Maybe you're right."
+    mc "*Rires* Maybe you're right."
 
 # game/code/d15/d15s02.rpy:87
 translate french d15s02_c5717414:
