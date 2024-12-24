@@ -2099,3 +2099,4 @@ translate french strings:
     # game/code/e04/e04s07.rpy:1283
     old "Don't piss on Prisoner 001"
     new "Ne pisse pas sur la prisonnière 001"
+

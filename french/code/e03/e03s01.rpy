@@ -286,12 +286,6 @@ translate french e03s01_451b8225:
     # sy "I call it the Total Princess Package."
     sy "Je l'appelle le forfait Total Princess."
 
-# game/code/e03/e03s01.rpy:262
-translate french e03s01_cf69a186:
-
-    # mh "I'm a little too old to be a princess, Stacy."
-    mh "Je suis un peu trop vieille pour être une princesse, Stacy."
-
 # game/code/e03/e03s01.rpy:266
 translate french e03s01_e139783b:
 
@@ -1461,4 +1455,10 @@ translate french strings:
     # game/code/e03/e03s01.rpy:624
     old "Another time"
     new "Une autre fois"
+
+# game/code/e03/e03s01.rpy:266
+translate french e03s01_6b3c4e16:
+
+    # mh "I'm a little too old to be a princess, Stacy." id e03s01_6b3c4e16
+    mh "Je suis un peu trop vieille pour être une princesse, Stacy." id e03s01_6b3c4e16
 

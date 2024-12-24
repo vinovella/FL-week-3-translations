@@ -441,3 +441,4 @@ translate french e11s06_hospital_2f0a1378:
 
     # mc "I just signed off on whatever they suggested."
     mc "Je venais d'accepter ce qu'ils me suggéraient."
+

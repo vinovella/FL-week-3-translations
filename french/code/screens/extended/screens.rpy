@@ -91,3 +91,14 @@ translate french strings:
     # game/code/screens/extended/screens.rpy:267
     old "Get DLC-2 containing 6 additional endings from Steam"
     new "Obtenez le DLC-2 contenant 6 fins supplémentaires de Steam"
+
+translate french strings:
+
+    # game/code/screens/extended/screens.rpy:229
+    old "Buy Taboo University on GOG"
+    new "Buy Taboo University on GOG"
+
+    # game/code/screens/extended/screens.rpy:242
+    old "Watch Fetish Locator: S&M Studio trailer"
+    new "Watch Fetish Locator: S&M Studio trailer"
+

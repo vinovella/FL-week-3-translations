@@ -387,3 +387,4 @@ translate french strings:
     # game/code/e10/e10s04.rpy:6
     old "Weeks later\nAt the end of Summer"
     new "Des semaines plus tard\nÀ la fin de l'été"
+

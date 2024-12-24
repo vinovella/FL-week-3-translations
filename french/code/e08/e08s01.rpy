@@ -1283,3 +1283,4 @@ translate french strings:
     # game/code/e08/e08s01.rpy:584
     old "After watching tv for some time"
     new "Après avoir regardé la télé pendant un moment"
+

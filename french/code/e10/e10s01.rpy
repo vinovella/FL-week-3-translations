@@ -1165,3 +1165,4 @@ translate french strings:
     # game/code/e10/e10s01.rpy:74
     old "Some time later\nIn Seoul with Min"
     new "Quelque temps plus tard\nÀ Séoul avec Min"
+

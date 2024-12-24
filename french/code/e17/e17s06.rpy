@@ -1039,3 +1039,4 @@ translate french strings:
     # game/code/e17/e17s06.rpy:646
     old "You have finished playing Ending #17!"
     new "Vous avez fini de jour la fin #17!"
+

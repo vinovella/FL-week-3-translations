@@ -1397,3 +1397,4 @@ translate french strings:
     # game/code/e12/e12s06.rpy:684
     old "Play with her ass"
     new "Joue avec son cul"
+

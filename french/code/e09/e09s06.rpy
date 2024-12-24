@@ -1210,12 +1210,6 @@ translate french e09s06_ah_tr_d6fd3d27:
     # ah "Good, good... In fact, I was thinking-"
     ah "Bien, bien... en fait, je pensais-"
 
-# game/code/e09/e09s06.rpy:577
-translate french e09s06_ah_tr_41c7db9b:
-
-    # mc "Hey, Aaleyah!"
-    mc "Hé, Aaleyah!"
-
 # game/code/e09/e09s06.rpy:579
 translate french e09s06_ah_tr_b5a6b9cd:
 
@@ -2165,3 +2159,10 @@ translate french strings:
     # game/code/e09/e09s06.rpy:453
     old "Get ready for the main event"
     new "Préparez-vous pour l'événement principal"
+
+# game/code/e09/e09s06.rpy:635
+translate french e09s06_ah_tr_b5b52c1a:
+
+    # mc "Hey, Aaleyah!" id e09s06_ah_tr_b5b52c1a
+    mc "Hé, Aaleyah!" id e09s06_ah_tr_b5b52c1a
+

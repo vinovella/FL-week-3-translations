@@ -2047,3 +2047,4 @@ translate french strings:
     # game/code/e09/e09s05.rpy:545
     old "Ask her how she wants it?"
     new "Demande-lui comment elle le veut?"
+

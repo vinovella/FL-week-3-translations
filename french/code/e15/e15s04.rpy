@@ -484,12 +484,6 @@ translate french replay_e15s04_06d6fa18:
     # ovs "Mmmhmmmm."
     ovs "Mmmhmmmm."
 
-# game/code/e15/e15s04.rpy:276
-translate french replay_e15s04_5b9d52b1:
-
-    # mc "Right to get off the bench and into the game?"
-    mc "Tu veux quitter le banc de touche et jouer avec nous ?"
-
 # game/code/e15/e15s04.rpy:278
 translate french replay_e15s04_5140d4cb:
 
@@ -765,12 +759,6 @@ translate french replay_e15s04_0a037358:
 
     # ovs "Uhm, okay..."
     ovs "Euh, d'accord..."
-
-# game/code/e15/e15s04.rpy:403
-translate french replay_e15s04_793324fe:
-
-    # be "My trick when I first started was to just close my eyes, and repeat 'bend my knees, wiggle my hips, think of waterfalls'. It took a little bit, but I got over being a shy peer fast!"
-    be "Mon truc quand j'ai commencé était de simplement fermer les yeux et de me répéter 'plie les genoux, remue les hanches, pense aux cascades'.  Ça a pris un peu de temps, mais j'ai rapidement surmonté ma timidité !"
 
 # game/code/e15/e15s04.rpy:405
 translate french replay_e15s04_6d354a13:
@@ -1539,3 +1527,4 @@ translate french replay_e15s04_d088ab9d:
 
     # mc "We're coming up on the final part of the lesson." id replay_e15s04_d088ab9d
     mc "Nous arrivons à la dernière partie de la leçon." id replay_e15s04_d088ab9d
+

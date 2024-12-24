@@ -1519,3 +1519,4 @@ translate french strings:
     # game/code/e07/e07s05.rpy:1150
     old "Clean [e07_lcname!t]"
     new "Propre [e07_lcname!t]"
+

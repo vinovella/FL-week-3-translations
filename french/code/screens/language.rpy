@@ -7,3 +7,4 @@ translate french strings:
     # game/code/screens/language.rpy:125
     old "Choose Language"
     new "Choisis la langue"
+

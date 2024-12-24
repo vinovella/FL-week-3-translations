@@ -687,3 +687,4 @@ translate french strings:
     # game/code/e06/e06s07.rpy:6
     old "Two Weeks Later"
     new "Deux semaines plus tard"
+

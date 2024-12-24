@@ -357,3 +357,4 @@ translate french strings:
     # game/code/e10/e10s06.rpy:46
     old "Few months later"
     new "Quelques mois plus tard"
+

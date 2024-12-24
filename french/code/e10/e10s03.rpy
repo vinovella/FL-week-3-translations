@@ -529,3 +529,4 @@ translate french strings:
     # game/code/e10/e10s03.rpy:277
     old "New day new beginning"
     new "Nouveau jour, nouveau départ"
+

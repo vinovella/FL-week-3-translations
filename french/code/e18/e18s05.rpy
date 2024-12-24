@@ -1371,3 +1371,4 @@ translate french e18s05_sb_sex_e35dff6a:
 
     # sb "You can take your chances."
     sb "Vous pouvez tenter votre chance."
+

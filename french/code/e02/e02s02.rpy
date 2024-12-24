@@ -573,3 +573,4 @@ translate french strings:
     # game/code/e02/e02s02.rpy:18
     old "The next day"
     new "Le lendemain"
+

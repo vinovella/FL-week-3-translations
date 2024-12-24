@@ -81,3 +81,4 @@ translate french strings:
     # game/code/e13/e13s03.rpy:6
     old "A month later"
     new "Un mois plus tard"
+

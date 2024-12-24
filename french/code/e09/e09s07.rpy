@@ -526,12 +526,6 @@ translate french e09s07_sex_ah_cl_501ee3a2:
     # cl "I'm just here to support Fetish Locator."
     cl "De mon coté, je suis juste là pour soutenir Fetish Locator."
 
-# game/code/e09/e09s07.rpy:339
-translate french e09s07_sex_ah_cl_747cc740:
-
-    # cl "It's the perfect tool for excorsizing those... pesky inner demons."
-    cl "C'est l'outil parfait pour exorciser mes... mes satanés démons intérieurs."
-
 # game/code/e09/e09s07.rpy:343
 translate french e09s07_sex_ah_cl_7305dfba:
 
@@ -855,12 +849,6 @@ translate french e09s07_sex_ah_cl_a04ba632:
 
     # cl "Yes. Now please... please do the same to me that you did to her!"
     cl "Oui. Maintenant s'il te plaît... s'il te plaît! Fais-moi la même chose!"
-
-# game/code/e09/e09s07.rpy:483
-translate french e09s07_sex_ah_cl_e18f5cb1:
-
-    # mc "It's perfect, Cynthia. You're so wet and tight, and you keep pulling me in."
-    mc "Parfaitement Cynthia."
 
 # game/code/e09/e09s07.rpy:492
 translate french e09s07_sex_ah_cl_5ad46677:
@@ -1492,12 +1480,6 @@ translate french e09s07_sex_jdg_sex_6ff490e5:
     # sy "That's right! You ready for the next contestant on 'Come and Fuck my Brother?'"
     sy "C'est vrai! Es-tu prêt pour le prochain round de 'Viens ici et baise mon frère?'"
 
-# game/code/e09/e09s07.rpy:796
-translate french e09s07_sex_jdg_sex_2d52bfdf:
-
-    # sy "That's right! You ready for the next contestant on 'Come and Fuck [mcname]?'"
-    sy "C'est vrai! Es-tu prêt pour le prochain round de 'Viens ici et baise [mcname]?'"
-
 # game/code/e09/e09s07.rpy:798
 translate french e09s07_sex_jdg_sex_6c5c068d:
 
@@ -1989,12 +1971,6 @@ translate french e09s07_sex_kb_cb_continue_b1447eda:
 
     # cb "Yes... pound my sweet meat, [mcname]."
     cb "Oui... tringle ma viande sucrée, [mcname]."
-
-# game/code/e09/e09s07.rpy:1065
-translate french e09s07_sex_kb_cb_continue_596f4163:
-
-    # cb "Get my womb all stirred up... and ready for your cum."
-    cb "Remue mon ventre... je suis prête pour ton foutre."
 
 # game/code/e09/e09s07.rpy:1067
 translate french e09s07_sex_kb_cb_continue_c65737d5:
@@ -2785,3 +2761,28 @@ translate french strings:
     # game/code/e09/e09s07.rpy:1430
     old "You have finished playing Ending #09!"
     new "Tu as fini de jouer la fin #09!"
+
+# game/code/e09/e09s07.rpy:376
+translate french e09s07_sex_ah_cl_8566b7e2:
+
+    # cl "It's the perfect tool for excorsizing those... pesky inner demons." id e09s07_sex_ah_cl_8566b7e2
+    cl "C'est l'outil parfait pour exorciser mes... mes satanés démons intérieurs." id e09s07_sex_ah_cl_8566b7e2
+
+# game/code/e09/e09s07.rpy:536
+translate french e09s07_sex_ah_cl_d669acb2:
+
+    # mc "It's perfect, Cynthia. You're so wet and tight, and you keep pulling me in." id e09s07_sex_ah_cl_d669acb2
+    mc "It's perfect, Cynthia. You're so wet and tight, and you keep pulling me in." id e09s07_sex_ah_cl_d669acb2
+
+# game/code/e09/e09s07.rpy:880
+translate french e09s07_sex_jdg_sex_7fbf3d56:
+
+    # sy "That's right! You ready for the next contestant on 'Come and Fuck [mcname]?'" id e09s07_sex_jdg_sex_7fbf3d56
+    sy "C'est vrai! Es-tu prêt pour le prochain round de 'Viens ici et baise [mcname]?'" id e09s07_sex_jdg_sex_7fbf3d56
+
+# game/code/e09/e09s07.rpy:1185
+translate french e09s07_sex_kb_cb_continue_9e26efc2:
+
+    # cb "Get my womb all stirred up... and ready for your cum." id e09s07_sex_kb_cb_continue_9e26efc2
+    cb "Remue mon ventre... je suis prête pour ton foutre." id e09s07_sex_kb_cb_continue_9e26efc2
+

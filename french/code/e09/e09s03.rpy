@@ -934,12 +934,6 @@ translate french e09s03_night_6917ddba:
     # arj "Please use me. Stick your cock deep inside my wet pussy."
     arj "S'il te plaît, utilise-moi. Enfonce ta bite au fond de ma chatte humide."
 
-# game/code/e09/e09s03.rpy:548
-translate french e09s03_night_c43c0b68:
-
-    # arj "*giggles* Do you even need to ask?"
-    arj "*rires* As-tu vraiment besoin de demander ?"
-
 # game/code/e09/e09s03.rpy:564
 translate french e09s03_night_97f56fa3:
 
@@ -1653,3 +1647,10 @@ translate french e09s03_night_072da321:
 
     # aw "Hurry up and finish me off, [mcname]. Fucking drill me until I faint."
     aw "Dépêchez-vous et achevez-moi, [mcname]. Putain, perce-moi jusqu'à ce que je m'évanouisse."
+
+# game/code/e09/e09s03.rpy:622
+translate french e09s03_night_639d5d2e:
+
+    # arj "*giggles* Do you even need to ask?" id e09s03_night_639d5d2e
+    arj "*rires* As-tu vraiment besoin de demander?" id e09s03_night_639d5d2e
+

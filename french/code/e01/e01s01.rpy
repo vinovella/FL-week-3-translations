@@ -1673,3 +1673,4 @@ translate french strings:
     # game/code/e01/e01s01.rpy:1802
     old "Let's finish this"
     new "Finissons ça"
+

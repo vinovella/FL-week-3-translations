@@ -1599,3 +1599,4 @@ translate french strings:
     # game/code/recap/w2_recap.rpy:101
     old "Recap of Week-2 Events"
     new "Récapitulatif des événements de la semaine 2"
+

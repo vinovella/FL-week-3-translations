@@ -373,3 +373,4 @@ translate french strings:
     # game/code/e13/e13s02.rpy:262
     old "Fuck Her Anally"
     new "Baise-la analement"
+

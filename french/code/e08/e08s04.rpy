@@ -1873,3 +1873,4 @@ translate french strings:
     # game/code/e08/e08s04.rpy:504
     old "Don't dunk her head in the water"
     new "Ne met pas sa tête dans l'eau"
+

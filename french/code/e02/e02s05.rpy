@@ -709,3 +709,4 @@ translate french strings:
     # game/code/e02/e02s05.rpy:379
     old "Enjoy Your Vacation And Go Home"
     new "Profite de tes vacances et rentre chez toi"
+

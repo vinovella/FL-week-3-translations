@@ -1737,3 +1737,4 @@ translate french e18s01_after_menu_956ab453:
 
     # mc "Huh. Well, it's well... nrrnn... received." id e18s01_after_menu_956ab453
     mc "Hein. Bon, c'est bien... nrrnn... reçu." id e18s01_after_menu_956ab453
+

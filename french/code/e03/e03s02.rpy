@@ -124,12 +124,6 @@ translate french e03s02_20499bf7:
     # mh "I need to get showered and get dressed."
     mh "Je dois me doucher et m'habiller."
 
-# game/code/e03/e03s02.rpy:102
-translate french e03s02_6648a58d:
-
-    # mh "There is a {i}situation{/i}."
-    mh "Il y a une {i}urgence{/i}."
-
 # game/code/e03/e03s02.rpy:105
 translate french e03s02_211fede7:
 
@@ -849,3 +843,10 @@ translate french e03s02_39abdb31:
 
     # mh "Tomorrow morning, we're putting the plan into action."
     mh "Demain matin, nous mettons le plan en action."
+
+# game/code/e03/e03s02.rpy:102
+translate french e03s02_34f838e3:
+
+    # mh "There is a {i}situation{/i}." id e03s02_34f838e3
+    mh "Il y a une {i}urgence{/i}." id e03s02_34f838e3
+

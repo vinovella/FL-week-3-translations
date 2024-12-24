@@ -1537,3 +1537,4 @@ translate french strings:
     # game/code/e02/e02s04.rpy:602
     old "One shower later"
     new "Une douche plus tard"
+

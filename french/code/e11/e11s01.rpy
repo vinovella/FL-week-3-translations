@@ -64,12 +64,6 @@ translate french e11s01_608e8e51:
     # mc "Speaking of studying! How is University?"
     mc "En parlant d'études ! Comment va l’université ?"
 
-# game/code/e11/e11s01.rpy:105
-translate french e11s01_aad99233:
-
-    # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astrology."
-    ly "C'est bon! En fait, je suis la premiere de ma classe en écriture anglaise. Et j'ai cette conférence vraiment passionnante sur l'astrologie."
-
 # game/code/e11/e11s01.rpy:108
 translate french e11s01_ffc39c14:
 
@@ -541,3 +535,4 @@ translate french e11s01_76c691b8:
 
     # ly "It's good! I'm actually top of my class in English writing. And I've got this really exciting lecture on astronomy."
     ly "C'est bon! En fait, je suis le premier de ma classe en écriture anglaise. Et j'ai cette conférence vraiment passionnante sur l'astronomie."
+

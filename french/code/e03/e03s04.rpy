@@ -1441,3 +1441,10 @@ translate french strings:
     # game/code/e03/e03s04.rpy:42
     old "The Next Day????"
     new "Le lendemain ????"
+
+# game/code/e03/e03s04.rpy:442
+translate french e03s04_7c9ed600:
+
+    # hp "I can still feel how slick your cock is from your breedable sister's mouth. It should be perfect to slide right into our goddess's holiness."
+    hp "I can still feel how slick your cock is from your breedable sister's mouth. It should be perfect to slide right into our goddess's holiness."
+

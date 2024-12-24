@@ -489,3 +489,4 @@ translate french strings:
     # game/code/recap/w1_recap.rpy:52
     old "Recap of Week-1 Events"
     new "Récapitulatif des événements de la semaine 1"
+

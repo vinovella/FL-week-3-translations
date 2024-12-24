@@ -2137,3 +2137,4 @@ translate french e09s04_8cd3f720:
 
     # "The Senator" "And don't forget to send our friend two tickets to the game. One for her and one for the little fella'. She'll like that."
     "Le Sénateur" "Et n'oubliez pas d'envoyer à notre ami deux billets pour le match. Un pour elle et un pour le petit gars. Elle va aimer ça."
+

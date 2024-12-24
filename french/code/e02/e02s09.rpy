@@ -801,3 +801,4 @@ translate french strings:
     # game/code/e02/e02s09.rpy:272
     old "Two weeks later"
     new "Deux semaines plus tard"
+

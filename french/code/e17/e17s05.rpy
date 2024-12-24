@@ -1233,3 +1233,4 @@ translate french strings:
     # game/code/e17/e17s05.rpy:30
     old "Many Days Later"
     new "Plusieurs jours plus tard"
+

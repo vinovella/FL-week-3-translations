@@ -1417,3 +1417,4 @@ translate french strings:
     # game/code/e11/e11s04.rpy:445
     old "Call me..."
     new "Appelle-moi..."
+

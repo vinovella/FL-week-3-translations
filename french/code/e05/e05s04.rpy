@@ -286,12 +286,6 @@ translate french e05s04_a6d7c1d9:
     # mh "You are more than welcome to come back here and read legal briefs."
     mh "Tu es plus que bienvenu pour revenir ici et lire des mémoires juridiques."
 
-# game/code/e05/e05s04.rpy:205
-translate french e05s04_1126945f:
-
-    # mh "Do you want to look at the precedent set forth by {i}Tienda vs the State of Texas{/i}?"
-    mh "Voulez-vous examiner le précédent établi par {i}Tienda contre l'État du Texas{/i}?"
-
 # game/code/e05/e05s04.rpy:207
 translate french e05s04_1b57a86a:
 
@@ -952,12 +946,6 @@ translate french e05s04_sex_468dc35b:
     # mh "Now, don't forget about [mcname]... He hasn't had any fun yet."
     mh "Maintenant, n'oublie pas [mcname]... Il ne s'est pas encore amusé."
 
-# game/code/e05/e05s04.rpy:589
-translate french e05s04_sex_cb427f49:
-
-    # op "Just like you, Lyssa. I could never forget about, [mcname]."
-    op "Tout comme toi, Lyssa. Je ne pourrais jamais oublier, [mcname]."
-
 # game/code/e05/e05s04.rpy:599
 translate french e05s04_sex_3944dfe1:
 
@@ -1324,12 +1312,6 @@ translate french e05s04_sex_691f51ee:
     # op "Fuuck, I'm cumming!"
     op "Putain, je jouis!"
 
-# game/code/e05/e05s04.rpy:765
-translate french e05s04_sex_27913b9c:
-
-    # mh "Mmmm. you made a mess, Oliver."
-    mh "Mmmm. Tu as fait des dégâts, Oliver."
-
 # game/code/e05/e05s04.rpy:767
 translate french e05s04_sex_716d096a:
 
@@ -1405,3 +1387,22 @@ translate french strings:
     # game/code/e05/e05s04.rpy:526
     old "Tell him he has something on his chin"
     new "Dis-lui qu'il a quelque chose sur le menton"
+
+# game/code/e05/e05s04.rpy:205
+translate french e05s04_659af4e7:
+
+    # mh "Do you want to look at the precedent set forth by {i}Tienda vs the State of Texas{/i}?"
+    mh "Voulez-vous examiner le précédent établi par {i}Tienda contre l'État du Texas{/i}?"
+
+# game/code/e05/e05s04.rpy:610
+translate french e05s04_sex_12da81af:
+
+    # op "Just like you, Lyssa. I could never forget about [mcname]."
+    op "Tout comme toi, Lyssa. Je ne pourrais jamais oublier, [mcname]."
+
+# game/code/e05/e05s04.rpy:802
+translate french e05s04_sex_eb6a1ba4:
+
+    # mh "Mmmm. You made a mess, Oliver."
+    mh "Mmmm. Tu as fait des dégâts, Oliver."
+

@@ -845,3 +845,4 @@ translate french strings:
     # game/code/e02/e02s03.rpy:442
     old "That was amazing"
     new "C'était incroyable"
+

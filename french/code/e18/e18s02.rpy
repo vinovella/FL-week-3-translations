@@ -1149,3 +1149,4 @@ translate french e18s02_9317bad4:
 
     # "Cop" "Of course. Welcome to Santa Domina. Be safe out there, gorgeous." id e18s02_9317bad4
     "Cop" "Bien sûr. Bienvenue à Santa Domina. Soyez en sécurité, beauté." id e18s02_9317bad4
+

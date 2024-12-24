@@ -1299,3 +1299,4 @@ translate french strings:
     # game/code/e16/e16s06.rpy:33
     old "Three months later"
     new "Trois mois plus tard"
+

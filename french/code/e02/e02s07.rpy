@@ -1663,3 +1663,4 @@ translate french strings:
     # game/code/e02/e02s07.rpy:519
     old "Let Lyssa Fuck You Instead"
     new "Laisse Lyssa te baiser à la place"
+

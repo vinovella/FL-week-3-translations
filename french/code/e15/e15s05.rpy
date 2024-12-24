@@ -730,12 +730,6 @@ translate french e15s05_after_menu_22287693:
     # mc "Damn, Lyssa. You taught her a dick sucking signal?"
     mc "Putain, Lyssa. Tu lui as appris un signal de succion de bite ?"
 
-# game/code/e15/e15s05.rpy:452
-translate french e15s05_after_menu_881d7250:
-
-    # mh "Like I said, [mcname], there's a whole lot of shown her."
-    mh "Comme je l'ai dit, [mcname], on lui a montré beaucoup de choses."
-
 # game/code/e15/e15s05.rpy:455
 translate french e15s05_after_menu_16c44f39:
 
@@ -1191,12 +1185,6 @@ translate french e15s05_after_menu_f75f205c:
 
     # sy "OHMYGODYES!"
     sy "OHBORDELOUI !"
-
-# game/code/e15/e15s05.rpy:651
-translate french e15s05_after_menu_7f8d06bf:
-
-    # sy "This is going tobesofun!"
-    sy "Ça va être très amusant !"
 
 # game/code/e15/e15s05.rpy:653
 translate french e15s05_after_menu_b4cc9a4f:
@@ -1749,3 +1737,4 @@ translate french e15s05_after_menu_7a1b0ad4:
 
     # sy "This is going to be so fun!"
     sy "Ça va être tellement amusant!"
+

@@ -225,3 +225,4 @@ translate french strings:
     # game/code/e13/e13s04.rpy:272
     old "You have finished playing ending number 13!"
     new "Vous avez fini de jouer la fin #13!"
+

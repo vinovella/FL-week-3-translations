@@ -1433,3 +1433,4 @@ translate french strings:
     # game/code/e10/e10s05.rpy:670
     old "Climax without watersports"
     new "Climax sans sports nautiques"
+

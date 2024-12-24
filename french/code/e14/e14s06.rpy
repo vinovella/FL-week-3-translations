@@ -2133,3 +2133,4 @@ translate french strings:
     # game/code/e14/e14s06.rpy:847
     old "I'm definitely more of a top"
     new "Je suis définitivement plus un top"
+

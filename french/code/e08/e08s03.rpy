@@ -1107,3 +1107,4 @@ translate french strings:
     # game/code/e08/e08s03.rpy:27
     old "One late afternoon"
     new "Une fin d'après-midi"
+

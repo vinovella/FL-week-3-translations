@@ -1249,3 +1249,4 @@ translate french strings:
     # game/code/e06/e06s06.rpy:921
     old "Fuck Lyssa while she fucks AmRose"
     new "Baise Lyssa pendant qu'elle baise AmRose"
+

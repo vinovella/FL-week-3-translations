@@ -28,3 +28,9 @@ translate french strings:
     old "Exit to Mainmenu"
     new "Quitte le menu principal"
 
+translate french strings:
+
+    # game/code/screens/endings.rpy:69
+    old "Get DLC-2 containing this ending"
+    new "Get DLC-2 containing this ending"
+

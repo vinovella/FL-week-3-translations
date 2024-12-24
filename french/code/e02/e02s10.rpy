@@ -855,3 +855,4 @@ translate french strings:
     # game/code/e02/e02s10.rpy:632
     old "You have finished playing Ending #02!"
     new "Vous avez fini de jouer la Fin #02!"
+

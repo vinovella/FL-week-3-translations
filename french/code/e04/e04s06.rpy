@@ -1681,3 +1681,4 @@ translate french strings:
     # game/code/e04/e04s06.rpy:631
     old "No need. I proved my point."
     new "Pas besoin. J'ai prouvé mon point de vue."
+

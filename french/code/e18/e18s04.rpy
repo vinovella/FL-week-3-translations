@@ -1659,3 +1659,4 @@ translate french e18s04_in_beach_c86faa60:
 
     # dw "Let's!" id e18s04_in_beach_c86faa60
     dw "Allons-y!" id e18s04_in_beach_c86faa60
+

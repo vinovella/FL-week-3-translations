@@ -357,3 +357,4 @@ translate french dlc_2_postcredits_92bd7057:
 
     # sy "And I'm happy you also got to finally launch your game!"
     sy "Et je suis heureuse que tu puisses enfin lancer ton jeu!"
+

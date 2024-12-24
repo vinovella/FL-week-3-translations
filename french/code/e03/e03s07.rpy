@@ -784,12 +784,6 @@ translate french e03s07_b47bd762:
     # mh "Let your brother treat you like the queen you are, Stacy."
     mh "Laisse ton frère te traiter comme la reine que tu es, Stacy."
 
-# game/code/e03/e03s07.rpy:455
-translate french e03s07_08275893:
-
-    # mh "Let [mcname] treat you like the queen you are, Stacy."
-    mh "Laisse [mcname] te traiter comme la reine que tu es, Stacy."
-
 # game/code/e03/e03s07.rpy:456
 translate french e03s07_82c3bc18:
 
@@ -1541,3 +1535,10 @@ translate french strings:
     # game/code/e03/e03s07.rpy:841
     old "You have finished playing Ending #03!"
     new "Tu as fini de jouer à Ending #03!"
+
+# game/code/e03/e03s07.rpy:465
+translate french e03s07_eda315df:
+
+    # mh "Let [mcname] treat you like the queen you are, Stacy." id e03s07_eda315df
+    mh "Laisse [mcname] te traiter comme la reine que tu es, Stacy." id e03s07_eda315df
+

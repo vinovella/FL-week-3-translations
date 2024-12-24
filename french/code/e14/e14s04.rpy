@@ -1537,3 +1537,4 @@ translate french strings:
     # game/code/e14/e14s04.rpy:394
     old "A little later"
     new "Un peu plus tard"
+

@@ -71,3 +71,4 @@ translate french strings:
     # game/code/data/endings.rpy:3
     old "Quartet"
     new "Quatuor"
+

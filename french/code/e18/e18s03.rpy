@@ -1853,3 +1853,4 @@ translate french e18s03_punishment_9db71fb2:
 
     # dw "Gooood, rub them all over that puny thing. Let my feet bring you to a climax!" id e18s03_punishment_9db71fb2
     dw "Bien, frotte-les partout sur ce truc chétif. Laissez mes pieds vous amener à un point culminant!" id e18s03_punishment_9db71fb2
+

@@ -236,7 +236,6 @@ translate french strings:
     old "30. What? You wanted more?"
     new "30. Quoi? Vous en vouliez plus?"
 
-
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish all 6 Endings from DLC-1"
     new "Termine les 6 fins du DLC-1"

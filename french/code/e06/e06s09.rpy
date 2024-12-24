@@ -1199,3 +1199,4 @@ translate french strings:
     # game/code/e06/e06s09.rpy:1130
     old "You have finished playing Ending #06!"
     new "Vous avez fini de jouer la fin #06!"
+

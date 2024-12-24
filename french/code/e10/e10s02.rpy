@@ -577,3 +577,4 @@ translate french strings:
     # game/code/e10/e10s02.rpy:224
     old "Tell them that she has other plans"
     new "Dis-leur qu'elle a d'autres projets"
+

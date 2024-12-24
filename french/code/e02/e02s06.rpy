@@ -1303,3 +1303,4 @@ translate french strings:
     # game/code/e02/e02s06.rpy:272
     old "Just give them some advice"
     new "Donne-leur juste quelques conseils"
+

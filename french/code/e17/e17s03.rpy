@@ -555,3 +555,4 @@ translate french replay_e17s03_a823a6e3:
 
     # mc "I must go. My Mistress is summoning me."
     mc "Je dois y aller. Ma maîtresse m'appelle."
+

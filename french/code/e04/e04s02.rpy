@@ -855,3 +855,4 @@ translate french strings:
     # game/code/e04/e04s02.rpy:118
     old "What do you want Lydia to call you?"
     new "Comment veux-tu que Lydia t'appelle?"
+

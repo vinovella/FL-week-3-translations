@@ -712,12 +712,6 @@ translate french e02s01_hot_bath_75a144f0:
     # mh "Hmm, I guess you're right, I am becoming a little bourgeois."
     mh "Hmm, je suppose que tu as raison, je deviens un peu bourgeoise."
 
-# game/code/e02/e02s01.rpy:417
-translate french e02s01_hot_bath_1ec01878:
-
-    # mc "It's true that you learn most about people through adversary."
-    mc "C'est vrai que c'est grâce à l'adversaire qu'on apprend le plus sur les gens."
-
 # game/code/e02/e02s01.rpy:420
 translate french e02s01_hot_bath_47631e6c:
 
@@ -729,12 +723,6 @@ translate french e02s01_hot_bath_454ecb0d:
 
     # mc "Much of what?"
     mc "Grand chose de quoi?"
-
-# game/code/e02/e02s01.rpy:423
-translate french e02s01_hot_bath_79bd615b:
-
-    # mh "Adversary."
-    mh "Adversaire."
 
 # game/code/e02/e02s01.rpy:424
 translate french e02s01_hot_bath_d1f576cc:

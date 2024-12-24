@@ -573,3 +573,4 @@ translate french e18s06_montage_2_dff79cab:
 
     # mc "You're right."
     mc "Tu as raison."
+

@@ -1162,3 +1162,39 @@ translate french d17s06dw_breakup_6525077f:
     # mct "What the fuck just happened?"
     mct "Qu'est-ce qui vient de se passer?"
 
+# game/code/d17/d17s06dw.rpy:546
+translate french d17s06dw_clown_room_ff373efe:
+
+    # dw "She's really competitive if you hadn't noticed."
+    dw "She's really competitive if you hadn't noticed."
+
+# game/code/d17/d17s06dw.rpy:549
+translate french d17s06dw_clown_room_d051fb6f:
+
+    # sb "You're one to talk."
+    sb "You're one to talk."
+
+# game/code/d17/d17s06dw.rpy:564
+translate french d17s06dw_clown_room_5e9487ab:
+
+    # sb "So, what about you, [mcname]?"
+    sb "So, what about you, [mcname]?"
+
+# game/code/d17/d17s06dw.rpy:565
+translate french d17s06dw_clown_room_8a83b08b:
+
+    # mc "I enjoy a healthy competition."
+    mc "I enjoy a healthy competition."
+
+# game/code/d17/d17s06dw.rpy:570
+translate french d17s06dw_clown_room_9abb110b:
+
+    # sb "I mean, you don't seem like a sub."
+    sb "I mean, you don't seem like a sub."
+
+# game/code/d17/d17s06dw.rpy:571
+translate french d17s06dw_clown_room_a6be913e:
+
+    # mc "So?"
+    mc "So?"
+

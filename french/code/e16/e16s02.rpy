@@ -997,3 +997,4 @@ translate french strings:
     # game/code/e16/e16s02.rpy:312
     old "After Jessie checks the website"
     new "Après que Jessie ait vérifié le site Web"
+

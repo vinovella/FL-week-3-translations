@@ -136,12 +136,6 @@ translate french e06s05_59062f92:
     # arj "In fact, he's not going to fuck any of us."
     arj "En fait, il ne va baiser aucune d'entre nous."
 
-# game/code/e06/e06s05.rpy:156
-translate french e06s05_dcd77fd:
-
-    # mes "Why not?"
-    mes "Pourquoi pas?"
-
 # game/code/e06/e06s05.rpy:158
 translate french e06s05_b7687316:
 
@@ -3399,3 +3393,10 @@ translate french strings:
     # game/code/e06/e06s05.rpy:1713
     old "Do Not Invite Her to Join"
     new "Ne l'invite pas à nous rejoindre"
+
+# game/code/e06/e06s05.rpy:156
+translate french e06s05_3dcd77fd:
+
+    # mes "Why not?"
+    mes "Pourquoi pas?"
+

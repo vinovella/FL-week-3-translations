@@ -793,3 +793,4 @@ translate french strings:
     # game/code/e16/e16s03.rpy:178
     old "Later during chores"
     new "Plus tard pendant les corvées"
+

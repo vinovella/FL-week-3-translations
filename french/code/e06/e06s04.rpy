@@ -723,3 +723,4 @@ translate french e06s04_later_35abc2db:
 
     # sy "Thanks Amrose."
     sy "Merci Amrose."
+

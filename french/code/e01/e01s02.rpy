@@ -813,3 +813,4 @@ translate french strings:
     # game/code/e01/e01s02.rpy:402
     old "In Fetish Locator: S&M Studio!"
     new "Fetish Locator: Studio S&M!"
+

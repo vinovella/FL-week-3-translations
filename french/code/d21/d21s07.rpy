@@ -1961,3 +1961,4 @@ translate french strings:
     # game/code/d21/d21s07.rpy:921
     old "Let Lydia Down"
     new "Laisse tomber Lydia"
+

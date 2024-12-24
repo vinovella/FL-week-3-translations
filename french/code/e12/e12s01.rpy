@@ -1105,3 +1105,4 @@ translate french strings:
     # game/code/e12/e12s01.rpy:83
     old "On the road to the airport"
     new "Sur la route de l'aéroport"
+

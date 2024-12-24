@@ -598,12 +598,6 @@ translate french e05s01_4a034223:
     # op "[mcname]-"
     op "[mcname]-"
 
-# game/code/e05/e05s01.rpy:434
-translate french e05s01_b7c6a403:
-
-    # mc "How you pulled my cock out of your mouth, and covered you in my warm, sticky cum. How {i}hot{/i} you looked, glazed in the reward from an incredible blowjob."
-    mc "Comment tu as sorti ma bite de ta bouche et t'as couvert de mon sperme chaud et collant. Comme tu étais {i}chaud{/i}, glacé par la récompense d'une incroyable pipe."
-
 # game/code/e05/e05s01.rpy:438
 translate french e05s01_6567c5e4:
 
@@ -1288,12 +1282,6 @@ translate french e05s01_mc_op_sex_03015f6c:
     # mc "God, Ollie, your dick is - fuck, I - I could do this way more often!"
     mc "Mon Dieu, Ollie, ta bite est - putain, je - je pourrais faire ça plus souvent!"
 
-# game/code/e05/e05s01.rpy:858
-translate french e05s01_mc_op_sex_325fcbb3:
-
-    # mc "And Lyssa, they way you're sucking my diccccck - Jeeeeyazzzusssss!"
-    mc "Et Lyssa, c'est comme ça que tu me suces la bite - Jeeeeyazzzusssss!"
-
 # game/code/e05/e05s01.rpy:859
 translate french e05s01_mc_op_sex_5b563b57:
 
@@ -1311,12 +1299,6 @@ translate french e05s01_mc_op_sex_59dd5d5e:
 
     # op "I don't- I don't know how much longer I can do this either!"
     op "Je ne sais pas non plus combien de temps je pourrai faire ça!"
-
-# game/code/e05/e05s01.rpy:864
-translate french e05s01_mc_op_sex_dcf6e6fd:
-
-    # op "You're ass is - {i}you{/i} are amazing, [mcname]!"
-    op "Ton cul est - {i}tu{/i} es incroyable, [mcname]!"
 
 # game/code/e05/e05s01.rpy:868
 translate french e05s01_mc_op_sex_8283df84:
@@ -1840,12 +1822,6 @@ translate french e05s01_sex_end_73d789a1:
     # op "I'm... Excited for that."
     op "Je suis... Excité pour ça."
 
-# game/code/e05/e05s01.rpy:1191
-translate french e05s01_sex_end_3f83f5a7:
-
-    # mc "Good, now if you'll excuse me, I was told I have something on my face I should wash of."
-    mc "Bien, maintenant si tu veux bien m'excuser, on m'a dit que j'avais quelque chose sur le visage dont je devrais me laver."
-
 # game/code/e05/e05s01.rpy:1194
 translate french e05s01_sex_end_90199963:
 
@@ -1907,3 +1883,28 @@ translate french strings:
     # game/code/e05/e05s01.rpy:764
     old "Encourage Lyssa to take Oliver's virginity"
     new "Encouragez Lyssa à prendre la virginité d'Oliver"
+
+# game/code/e05/e05s01.rpy:439
+translate french e05s01_7627ed9d:
+
+    # mc "How you pulled my cock out of your mouth, and covered youserlf in my warm, sticky cum. How {i}hot{/i} you looked, glazed in the reward from an incredible blowjob."
+    mc "Comment tu as sorti ma bite de ta bouche et t'as couvert de mon sperme chaud et collant. Comme tu étais {i}chaud{/i}, glacé par la récompense d'une incroyable pipe."
+
+# game/code/e05/e05s01.rpy:881
+translate french e05s01_mc_op_sex_7f5f2790:
+
+    # mc "And Lyssa, the way you're sucking my diccccck - Jeeeeyazzzusssss!"
+    mc "Et Lyssa, c'est comme ça que tu me suces la bite - Jeeeeyazzzusssss!"
+
+# game/code/e05/e05s01.rpy:888
+translate french e05s01_mc_op_sex_57d97c4a:
+
+    # op "Your ass is - {i}you{/i} are amazing, [mcname]!"
+    op "Ton cul est - {i}tu{/i} es incroyable, [mcname]!"
+
+# game/code/e05/e05s01.rpy:1234
+translate french e05s01_sex_end_4592f61e:
+
+    # mc "Good, now if you'll excuse me, I was told I have something on my face I should wash off."
+    mc "Bien, maintenant si tu veux bien m'excuser, on m'a dit que j'avais quelque chose sur le visage dont je devrais me laver."
+

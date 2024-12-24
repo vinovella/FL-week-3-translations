@@ -1221,3 +1221,4 @@ translate french strings:
     # game/code/e11/e11s03.rpy:740
     old "Finish in her pussy"
     new "Finis dans sa chatte"
+

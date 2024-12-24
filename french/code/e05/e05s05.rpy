@@ -1069,3 +1069,4 @@ translate french strings:
     # game/code/e05/e05s05.rpy:92
     old "In the Suit Store"
     new "Dans le magasin de costumes"
+

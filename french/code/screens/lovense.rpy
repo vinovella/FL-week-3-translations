@@ -123,3 +123,10 @@ translate french strings:
     # game/code/screens/lovense.rpy:158
     old "Save"
     new "Sauve"
+
+translate french strings:
+
+    # game/code/screens/lovense.rpy:36
+    old "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+    new "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+

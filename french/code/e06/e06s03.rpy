@@ -1885,3 +1885,4 @@ translate french strings:
     # game/code/e06/e06s03.rpy:387
     old "A few minutes and strange instructions later."
     new "Quelques minutes et des instructions étranges plus tard."
+

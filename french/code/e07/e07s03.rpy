@@ -1741,3 +1741,4 @@ translate french strings:
     # game/code/e07/e07s03.rpy:528
     old "Give it your all!"
     new "Donne tout !"
+

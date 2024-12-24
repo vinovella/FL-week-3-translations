@@ -1017,7 +1017,6 @@ translate french d21s06_762e9718:
     # sy "Helps men and women discover their sexual identities."
     sy "Aider les hommes et les femmes à découvrir leur identité sexuelle."
 
-
 # game/code/d21/d21s06.rpy:457
 translate french d21s06_e57560d9:
 
@@ -2356,3 +2355,4 @@ translate french d21s06_reboot_fl_041fcc70:
 
     # sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
     sy "Maintenant, commençons à rassembler certains des détails les plus fins, comme qui sont les premières personnes que nous pouvons faire venir."
+

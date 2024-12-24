@@ -1497,3 +1497,4 @@ translate french e04s03_end_0f4f597e:
 
     # sy "Hehe. Don't worry. With what I have in mind, it will be worth every penny."
     sy "Héhé. Ne t'inquiète pas. Avec ce que j'ai en tête, ça vaudra chaque centime."
+

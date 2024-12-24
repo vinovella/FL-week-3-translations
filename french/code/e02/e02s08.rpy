@@ -1591,3 +1591,4 @@ translate french strings:
     # game/code/e02/e02s08.rpy:414
     old "Be submissive with Lyssa"
     new "Sois soumis avec Lyssa"
+

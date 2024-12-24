@@ -1543,3 +1543,4 @@ translate french strings:
     # game/code/e07/e07s06.rpy:701
     old "Don't suck the dick"
     new "Ne suce pas cette bite"
+

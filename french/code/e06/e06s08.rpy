@@ -1919,3 +1919,4 @@ translate french strings:
     # game/code/e06/e06s08.rpy:1192
     old "Lydia should Blow Lyssa's mind (and cock)"
     new "Lydia devrait faire exploser l'esprit (et la bite) de Lyssa."
+

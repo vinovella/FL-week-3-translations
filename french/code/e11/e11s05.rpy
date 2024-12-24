@@ -847,3 +847,4 @@ translate french strings:
     # game/code/e11/e11s05.rpy:235
     old "A short walk later"
     new "Une petite promenade plus tard"
+

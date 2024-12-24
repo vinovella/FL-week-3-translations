@@ -1691,3 +1691,4 @@ translate french strings:
     # game/code/e03/e03s06.rpy:354
     old "Hurry, because I'm still ready to go!"
     new "Dépêche-toi, car je suis toujours prêt à y aller!"
+

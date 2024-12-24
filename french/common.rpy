@@ -1220,3 +1220,13 @@ translate french strings:
     old "Parsing the script failed."
     new "L'analyse du script a échoué."
 
+translate french strings:
+
+    # renpy/common/00action_file.rpy:26
+    old "{#weekday}Sunday"
+    new "{#weekday}Sunday"
+
+    # renpy/common/00action_file.rpy:47
+    old "{#month}August"
+    new "{#month}August"
+

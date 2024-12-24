@@ -1005,3 +1005,4 @@ translate french strings:
     # game/code/e11/e11s02.rpy:198
     old "Wait, why can't you keep watch?"
     new "Attends, pourquoi tu ne peux pas surveiller?"
+

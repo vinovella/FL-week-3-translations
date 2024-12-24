@@ -1505,3 +1505,4 @@ translate french strings:
     # game/code/e12/e12s04.rpy:811
     old "I'm good Vanessa."
     new "Non c'est bon, Vanessa."
+

@@ -457,3 +457,4 @@ translate french strings:
     # game/code/e10/e10s07.rpy:217
     old "You have finished playing ending 10!"
     new "Vous avez fini de jouer la fin #10!"
+

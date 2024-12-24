@@ -2251,3 +2251,4 @@ translate french strings:
     # game/code/e12/e12s05.rpy:1174
     old "Not now"
     new "Pas maintenant"
+

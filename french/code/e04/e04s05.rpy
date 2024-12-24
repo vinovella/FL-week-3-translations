@@ -1653,3 +1653,4 @@ translate french strings:
     # game/code/e04/e04s05.rpy:51
     old "A few weeks later"
     new "Quelques semaines plus tard"
+

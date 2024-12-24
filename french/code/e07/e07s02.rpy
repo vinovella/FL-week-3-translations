@@ -1191,3 +1191,4 @@ translate french strings:
     # game/code/e07/e07s02.rpy:569
     old "Accept"
     new "Accepte"
+

@@ -1191,3 +1191,4 @@ translate french strings:
     # game/code/e03/e03s03.rpy:95
     old "Four hours and twenty-nine minutes later"
     new "Quatre heures et vingt-neuf minutes plus tard"
+

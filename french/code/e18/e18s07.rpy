@@ -2439,3 +2439,4 @@ translate french e18s07_finale_ca5d1c0e:
 
     # mc "Your pussy is so tight, Samiya... And wet..." id e18s07_finale_ca5d1c0e
     mc "Ta chatte est si serrée, Samiya... Et mouillée..." id e18s07_finale_ca5d1c0e
+

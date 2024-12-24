@@ -807,3 +807,4 @@ translate french strings:
     # game/code/e16/e16s01.rpy:83
     old "Kinky"
     new "Coquin"
+

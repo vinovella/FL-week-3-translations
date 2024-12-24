@@ -1295,3 +1295,4 @@ translate french strings:
     # game/code/e14/e14s03.rpy:442
     old "Take over for a bit"
     new "Prends un peu le relais"
+

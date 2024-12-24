@@ -1053,3 +1053,4 @@ translate french strings:
     # game/code/e03/e03s05.rpy:6
     old "Later"
     new "Plus tard"
+

@@ -2297,3 +2297,4 @@ translate french strings:
     # game/code/e08/e08s05.rpy:1240
     old "Leave the door open"
     new "Laisse la porte ouverte"
+

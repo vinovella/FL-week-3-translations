@@ -981,3 +981,4 @@ translate french strings:
     # game/code/e12/e12s02.rpy:39
     old "Next day at the hotel gym"
     new "Le lendemain à la salle de sport de l'hôtel"
+

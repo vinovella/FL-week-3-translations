@@ -1149,3 +1149,4 @@ translate french strings:
     # game/code/e17/e17s01.rpy:41
     old "Ending #17\nNot Guilty"
     new "Fin #17\nNon coupable"
+

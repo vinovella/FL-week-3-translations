@@ -1057,3 +1057,4 @@ translate french strings:
     # game/code/e07/e07s04.rpy:128
     old "Volunteer"
     new "Bénévole"
+

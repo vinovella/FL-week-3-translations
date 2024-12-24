@@ -2363,3 +2363,4 @@ translate french strings:
     # game/code/e08/e08s02.rpy:271
     old "I'd rather not"
     new "Je préfère ne pas"
+

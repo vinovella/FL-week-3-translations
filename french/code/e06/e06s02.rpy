@@ -1599,3 +1599,4 @@ translate french strings:
     # game/code/e06/e06s02.rpy:243
     old "Inside Min's house"
     new "Dans la maison de Min"
+

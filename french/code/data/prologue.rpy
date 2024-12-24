@@ -107,3 +107,4 @@ translate french strings:
     # game/code/data/prologue.rpy:79
     old "adult magazines"
     new "Magazines pour adultes"
+

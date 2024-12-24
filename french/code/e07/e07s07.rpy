@@ -1949,3 +1949,4 @@ translate french strings:
     # game/code/e07/e07s07.rpy:1027
     old "You have failed Ending #07!"
     new "Vous avez échoué avec la fin #07!"
+

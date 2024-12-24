@@ -1437,3 +1437,4 @@ translate french strings:
     # game/code/e16/e16s05.rpy:555
     old "Do some chokeplay"
     new "Fais un peu de starter"
+

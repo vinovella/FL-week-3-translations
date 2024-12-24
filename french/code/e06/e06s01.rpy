@@ -431,3 +431,4 @@ translate french strings:
     # game/code/e06/e06s01.rpy:82
     old "Later That Day"
     new "Plus tard dans la journée"
+

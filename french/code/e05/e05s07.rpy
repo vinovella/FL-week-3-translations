@@ -250,12 +250,6 @@ translate french e05s07_bar_402e2ef5:
     # mh "Taisia is a good- Taisia didn't do anything wrong. She was a woman who acted in self defense. And most lawyers wouldn't have taken the time to prove that she had."
     mh "Taisia ​​est une bonne... Taisia ​​n'a rien fait de mal. C'était une femme qui agissait en état de légitime défense. Et la plupart des avocats n'auraient pas pris le temps de prouver qu'elle l'avait fait."
 
-# game/code/e05/e05s07.rpy:208
-translate french e05s07_bar_2d1b0aff:
-
-    # mh "In fact, most defense attornies I know would have taken one look at her rap sheet and walked. Or agreed to that terrible plea deal and locked her up."
-    mh "En fait, la plupart des avocats de la défense que je connais auraient jeté un coup d'œil à son casier judiciaire et juste rien fait. Ou accepté ce terrible accord de plaidoyer et l'aurait enfermée."
-
 # game/code/e05/e05s07.rpy:209
 translate french e05s07_bar_f3306a91:
 
@@ -1799,3 +1793,10 @@ translate french strings:
     # game/code/e05/e05s07.rpy:1057
     old "You have finished playing Ending #05!"
     new "Vous avez fini de jouer la fin #05!"
+
+# game/code/e05/e05s07.rpy:208
+translate french e05s07_bar_0930b9cd:
+
+    # mh "In fact, most defense attorneys I know would have taken one look at her rap sheet and walked. Or agreed to that terrible plea deal and locked her up."
+    mh "En fait, la plupart des avocats de la défense que je connais auraient jeté un coup d'œil à son casier judiciaire et juste rien fait. Ou accepté ce terrible accord de plaidoyer et l'aurait enfermée."
+

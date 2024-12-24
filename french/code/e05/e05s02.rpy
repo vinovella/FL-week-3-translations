@@ -88,12 +88,6 @@ translate french e05s02_269aa055:
     # op "Yes, Ms- Lyssa. You actually received a message from a..."
     op "Oui, Mme Lyssa. Tu as en fait reçu un message d'un..."
 
-# game/code/e05/e05s02.rpy:109
-translate french e05s02_24178306:
-
-    # op "Taisia Lindquist. She was arrested last night on a drunken disorderly and aggravated assault."
-    op "Taisia ​​Lindquist. Elle a été arrêtée hier soir pour ivresse désordonnée et voies de fait graves."
-
 # game/code/e05/e05s02.rpy:110
 translate french e05s02_d3cd0def:
 
@@ -1612,12 +1606,6 @@ translate french e05s02_mh_takes_opanalvirginity_07825546:
     # op "T-This is ah-maz-zing!!"
     op "T-C'est ah-maz-zing!!"
 
-# game/code/e05/e05s02.rpy:870
-translate french e05s02_mh_takes_opanalvirginity_aa1f2ff5:
-
-    # mh "Good. because I feel the same! Your ass is unbelievably tight!"
-    mh "Bien. Parce que je ressens la même chose! Ton cul est incroyablement serré!"
-
 # game/code/e05/e05s02.rpy:873
 translate french e05s02_mh_takes_opanalvirginity_0d5c9249:
 
@@ -1647,12 +1635,6 @@ translate french e05s02_mh_takes_opanalvirginity_b279b816:
 
     # mh "Mmm-mmmm, I - Oh God - Don't know who's enjoying it more!"
     mh "Mmm-mmmm, je - Oh mon Dieu - Je ne sais pas qui apprécie le plus!"
-
-# game/code/e05/e05s02.rpy:880
-translate french e05s02_mh_takes_opanalvirginity_6f53aee6:
-
-    # mh "But I think - mmmmmmpph - Between my dick buried in his tight ass, and you're wonderful cock in my ass, that I'm the - fuuuuh - real winner!"
-    mh "Mais je pense - mmmmmmpph - Entre ma bite enfouie dans son cul serré et ta merveilleuse bite dans mon cul, que je suis le - fuuuuh - le vrai gagnant!"
 
 # game/code/e05/e05s02.rpy:885
 translate french e05s02_mh_takes_opanalvirginity_413c45ec:
@@ -1943,3 +1925,22 @@ translate french strings:
     # game/code/e05/e05s02.rpy:659
     old "Let Oliver make his own decision"
     new "Laisse Oliver prendre sa propre décision"
+
+# game/code/e05/e05s02.rpy:109
+translate french e05s02_a9f4d0a3:
+
+    # op "Taisia Lindquist. She was arrested last night on a charge of drunken disorderly and aggravated assault."
+    op "Taisia ​​Lindquist. Elle a été arrêtée hier soir pour ivresse désordonnée et voies de fait graves."
+
+# game/code/e05/e05s02.rpy:892
+translate french e05s02_mh_takes_opanalvirginity_4d333980:
+
+    # mh "Good, because I feel the same! Your ass is unbelievably tight!"
+    mh "Bien. Parce que je ressens la même chose! Ton cul est incroyablement serré!"
+
+# game/code/e05/e05s02.rpy:902
+translate french e05s02_mh_takes_opanalvirginity_78343072:
+
+    # mh "But I think - mmmmmmpph - Between my dick buried in his tight ass, and your wonderful cock in my ass, that I'm the - fuuuuh - real winner!"
+    mh "Mais je pense - mmmmmmpph - Entre ma bite enfouie dans son cul serré et ta merveilleuse bite dans mon cul, que je suis le - fuuuuh - le vrai gagnant!"
+

@@ -1141,3 +1141,4 @@ translate french strings:
     # game/code/e16/e16s04.rpy:557
     old "Lick Molly's Armpit"
     new "Lèche l'aisselle de Molly"
+

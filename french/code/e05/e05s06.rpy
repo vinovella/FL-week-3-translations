@@ -262,12 +262,6 @@ translate french e05s06_ee0e3b4e:
     # mh "But something I'm pretty sure I could no longer live without."
     mh "Mais quelque chose dont je suis sûr que je ne pourrais plus vivre sans."
 
-# game/code/e05/e05s06.rpy:190
-translate french e05s06_4f948dfa:
-
-    # mh "But, we should maybe reserve the wedding bells for when Oliver is around. We don't need to give him any more reason to be nervous. Especially today."
-    mh "Mais on devrait peut-être réserver les cloches du mariage pour quand Oliver est là. On n'a pas besoin de lui donner plus de raisons d'être nerveux. Surtout aujourd'hui."
-
 # game/code/e05/e05s06.rpy:193
 translate french e05s06_dff79cab:
 
@@ -555,12 +549,6 @@ translate french e05s06_court_room_199b992a:
 
     # op "Again, counsel misses the point. I've just given another establishing link between the two. The video evidence, on its own, is what we are considering."
     op "Encore une fois, l'avocat n'a pas compris. Je viens de donner un autre lien établissant entre les deux. La preuve vidéo, à elle seule, est ce que nous considérons."
-
-# game/code/e05/e05s06.rpy:390
-translate french e05s06_court_room_2f20e525:
-
-    # op "We can also establish that this video was at least captured before posting, which would align with my clients, and the plaintiffs, timelines."
-    op "Nous pouvons également établir que cette vidéo a été capturée au moins avant sa publication, ce qui correspondrait aux délais de mes clients et des plaignants."
 
 # game/code/e05/e05s06.rpy:394
 translate french e05s06_court_room_15a2f320:
@@ -1084,12 +1072,6 @@ translate french e05s06_sex_7ac1412a:
     # mct "Fuck, this is great!"
     mct "Putain, c'est génial!"
 
-# game/code/e05/e05s06.rpy:732
-translate french e05s06_sex_312af215:
-
-    # mh "Depper, [mcname], deeper! I want to {i}feel{/i} you tearing apart my ass!"
-    mh "Plus profond, [mcname], plus profondément! Je veux te {i}sentir{/i} en train de me déchirer le cul!"
-
 # game/code/e05/e05s06.rpy:733
 translate french e05s06_sex_8e888c04:
 
@@ -1341,3 +1323,22 @@ translate french e05s06_sex_b85a48e2:
 
     # mh "Mmmkay..."
     mh "Mmm ok..."
+
+# game/code/e05/e05s06.rpy:190
+translate french e05s06_57afd79d:
+
+    # mh "But, we should maybe hold off on the wedding bells talk. We don't need to give him any more reason to be nervous. Especially today."
+    mh "Mais on devrait peut-être réserver les cloches du mariage pour quand Oliver est là. On n'a pas besoin de lui donner plus de raisons d'être nerveux. Surtout aujourd'hui."
+
+# game/code/e05/e05s06.rpy:399
+translate french e05s06_court_room_db2af079:
+
+    # op "We can also establish that this video was at least captured before posting, which would align with my client's, and the plaintiff's, timelines."
+    op "Nous pouvons également établir que cette vidéo a été capturée au moins avant sa publication, ce qui correspondrait aux délais de mes clients et des plaignants."
+
+# game/code/e05/e05s06.rpy:766
+translate french e05s06_sex_d59042cb:
+
+    # mh "Deeper, [mcname], deeper! I want to {i}feel{/i} you tearing apart my ass!"
+    mh "Plus profond, [mcname], plus profondément! Je veux te {i}sentir{/i} en train de me déchirer le cul!"
+
