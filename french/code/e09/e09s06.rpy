@@ -2162,10 +2162,6 @@ translate french strings:
     old "Talk to Talia"
     new "Parle à Talia"
 
-# game/code/e09/e09s06.rpy:453
+    # game/code/e09/e09s06.rpy:453
     old "Get ready for the main event"
     new "Préparez-vous pour l'événement principal"
-
-    # game/code/e09/e09s06.rpy:511
-    old "Get ready for the main event"
-    new "Prépare-toi pour l'événement principal"

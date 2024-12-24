@@ -1738,14 +1738,14 @@ translate french strings:
     old "Let Gemma release her enema"
     new "Laisse Gemma libérer son lavement"
 
-    # game/code/e15/e15s05.rpy:452
-    translate french e15s05_after_menu_1387c466:
+# game/code/e15/e15s05.rpy:452
+translate french e15s05_after_menu_1387c466:
 
     # mh "Like I said, [mcname]. I showed her a lot."
     mh "Comme je l'ai dit, [mcname]. Je lui ai beaucoup montré."
 
-    # game/code/e15/e15s05.rpy:651
-    translate french e15s05_after_menu_7a1b0ad4:
+# game/code/e15/e15s05.rpy:651
+translate french e15s05_after_menu_7a1b0ad4:
 
     # sy "This is going to be so fun!"
     sy "Ça va être tellement amusant!"

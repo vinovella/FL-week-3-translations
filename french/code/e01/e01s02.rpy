@@ -674,7 +674,7 @@ translate french e01s02_91c8e938:
 translate french e01s02_70a3db7f:
 
     # mc "Fisherwoman? Fisherperson? Fisher Gal? Fishgal?"
-    mc "Pêcheuse ? Pêcheresse ?
+    mc "Pêcheuse ? Pêcheresse ?"
 
 # game/code/e01/e01s02.rpy:336
 translate french e01s02_723a109b:

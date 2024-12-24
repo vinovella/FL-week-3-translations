@@ -714,7 +714,7 @@ translate french strings:
 
     # game/code/hints.rpy:5
     old "This option skips the sex scene between you and Chloe. "
-    new « Cette option permet de sauter la scène de sexe entre toi et Chloé. "
+    new "Cette option permet de sauter la scène de sexe entre toi et Chloé."
 
     # game/code/hints.rpy:5
     old "Incorrect."
@@ -722,7 +722,7 @@ translate french strings:
 
     # game/code/hints.rpy:5
     old "Correct, from \"A Tale of Two Cities\" Adds 1 Study Point."
-    new « Correct, tiré de \"Un conte de deux villes\" ajoute 1 point d'étude."
+    new "Correct, tiré de \"Un conte de deux villes\"ajoute 1 point d'étude."
 
     # game/code/hints.rpy:5
     old "Obviously wrong."

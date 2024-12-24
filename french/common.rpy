@@ -470,7 +470,7 @@ translate french strings:
 
     # renpy/common/00director.rpy:1857
     old "Audio Filename:"
-    new « Nom du fichier audio:"
+    new "Nom du fichier audio:"
 
     # renpy/common/00gui.rpy:448
     old "Are you sure?"

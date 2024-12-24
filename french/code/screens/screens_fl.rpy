@@ -210,7 +210,7 @@ translate french strings:
 
     # game/code/screens/screens_fl.rpy:1229
     old "Fetish Locator is intended for a mature audience\nof 18 years or older. Please abide by your local laws.\nAll characters are 18 years or older. No exceptions.\nThe characters in Fetish Locator explore relationships and their sexuality in both healthy and unhealthy ways. Some of these may be offensive to some players. Viewer discretion is advised. To that end, much of the content is optional and often there are alternative paths available. This is necessary to the story. The content explored should not be treated as an endorsement of particular fetishes, kinks, or patterns of behaviour. Please explore your own relationships and sexuality responsibly.\n\nEnjoy!"
-    new ""Fetish Locator est destiné à un public adulte\nde 18 ans ou plus. Veuillez respecter les lois locales.\nTous les personnages ont 18 ans ou plus. Aucune exception.\nLes personnages de Fetish Locator explorent les relations et leur sexualité de manière à la fois saine et malsaine. Certains d'entre eux peuvent être offensants pour certains joueurs. La discrétion du spectateur est conseillée. A cette fin, une grande partie du contenu est facultative et il existe souvent des chemins alternatifs disponibles. C'est nécessaire à l'histoire. Le contenu exploré ne doit pas être traité comme une approbation de fétiches, de défauts ou de modèles de comportement particuliers. SVP, explorez vos propres relations à la sexualité de manière responsable.\n\nProfitez-en!"
+    new "Fetish Locator est destiné à un public adulte\nde 18 ans ou plus. Veuillez respecter les lois locales.\nTous les personnages ont 18 ans ou plus. Aucune exception.\nLes personnages de Fetish Locator explorent les relations et leur sexualité de manière à la fois saine et malsaine. Certains d'entre eux peuvent être offensants pour certains joueurs. La discrétion du spectateur est conseillée. A cette fin, une grande partie du contenu est facultative et il existe souvent des chemins alternatifs disponibles. C'est nécessaire à l'histoire. Le contenu exploré ne doit pas être traité comme une approbation de fétiches, de défauts ou de modèles de comportement particuliers. SVP, explorez vos propres relations à la sexualité de manière responsable.\n\nProfitez-en!"
 
     # game/code/screens/screens_fl.rpy:1259
     old "Skip Recap\nof Week-1"
@@ -284,5 +284,5 @@ translate french strings:
 
     # game/code/screens/screens_fl.rpy:1394
     old "{u}Get Taboo University Book 1 on Steam{/u}"
-    new "{u}Obtenez le tome 1 de Taboo University sur Steam{/u}"
+    new "{u}Obtenez le tome 1 de Taboo University sur Steam{/u}"
 
