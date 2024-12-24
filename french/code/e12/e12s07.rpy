@@ -1246,4 +1246,4 @@ translate french strings:
 
     # game/code/e12/e12s07.rpy:874
     old "You have finished playing Ending #12!"
-    new "You have finished playing Ending #12!"
+    new "Vous avez fini de jouer à Ending #12!"
