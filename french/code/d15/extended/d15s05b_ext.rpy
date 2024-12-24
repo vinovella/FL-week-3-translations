@@ -1184,7 +1184,7 @@ translate french d15s05b_lesbians_6b686f45:
 translate french d15s05b_lesbians_644c2e32:
 
     # pw "Fantastic!{w} Nora, time for you to fuck my butt."
-    pw "Fantastic!{w} Nora, time for you to fuck my butt."
+    pw "Fantastique !{w} Nora, il est temps pour toi de me baiser les fesses."
 
 # game/code/d15/extended/d15s05b_ext.rpy:639
 translate french d15s05b_lesbians_492fc88b:
@@ -1808,7 +1808,7 @@ translate french d15s05b_pegging_deab4752:
 translate french d15s05b_pegging_403a622d:
 
     # nk "All done."
-    nk "All done."
+    nk "Tout est fait."
 
 # game/code/d15/extended/d15s05b_ext.rpy:991
 translate french d15s05b_pegging_7933dd29:
