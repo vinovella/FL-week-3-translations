@@ -278,7 +278,7 @@ translate french replay_d17s02_8d69b040:
 translate french replay_d17s02_f2700582:
 
     # mc "Intimidation and forcefulness aren't exactly the most useful tools to use when trying to mend a relationship."
-    mc "L'intimidation et la force ne sont pas exactement les outils les plus utiles à utiliser pour tenter de rétablir une relation.."
+    mc "L'intimidation et la force ne sont pas exactement les outils les plus utiles à utiliser pour tenter de rétablir une relation."
 
 # game/code/d17/d17s02.rpy:204
 translate french replay_d17s02_b6eccd10:
