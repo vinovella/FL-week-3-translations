@@ -294,11 +294,11 @@ translate french strings:
 
     # game/code/data/extended/extra_gallery.rpy:303
     old "YOU GOTTA PUMP THOSE NUMBERS UP.\nTHOSE ARE ROOKIE NUMBERS!"
-    new "TU DOIS AUGMENTER CES CHIFFRES.\nTHOSE SONT DES NUMÉROS DE ROOKIE !"
+    new "TU DOIS AUGMENTER CES CHIFFRES.\nTHOSE SONT DES NUMÉROS DE ROOKIE!"
 
     # game/code/data/extended/extra_gallery.rpy:326
     old "6 endings\naren't enough.\nI need all 18 now!!!"
-    new "6 fins\ne suffisent pas.\nI'ai besoin des 18 maintenant !!!"
+    new "6 fins e suffisent pas.\nI'ai besoin des\n18 maintenant!!!"
 
     # game/code/data/extended/extra_gallery.rpy:327
     old "{b}CHANGE MY MIND{/b}"
@@ -338,7 +338,7 @@ translate french strings:
 
     # game/code/data/extended/extra_gallery.rpy:573
     old "Cum in every pussy\nat the wedding"
-    new "Jouis dans chaque\chatte au mariage"
+    new "Jouis dans chaque\nchatte au mariage"
 
     # game/code/data/extended/extra_gallery.rpy:574
     old "You receive:"
@@ -358,11 +358,11 @@ translate french strings:
 
     # game/code/data/extended/extra_gallery.rpy:712
     old "UNGRY"
-    new "DÉGRÉ"
+    new "UNGRY"
 
     # game/code/data/extended/extra_gallery.rpy:713
     old "APPY"
-    new "POSTULER"
+    new "APPY"
 
 translate french strings:
 
@@ -452,7 +452,7 @@ translate french strings:
 
     # game/code/data/extended/extra_gallery.rpy:802
     old "SPIT ON THAT THANG!"
-    new "Crache dessus ce truc !"
+    new "Crache dessus ce truc!"
 
     # game/code/data/extended/extra_gallery.rpy:823
     old "WHEN HE MANAGES TO GET EVERYONE TO COME TO YOUR FANCY NEW SPA"
@@ -460,23 +460,23 @@ translate french strings:
 
     # game/code/data/extended/extra_gallery.rpy:845
     old "Fucking\na girl"
-    new "Putain\de fille"
+    new "Putain\nde fille"
 
     # game/code/data/extended/extra_gallery.rpy:847
     old "Fucking\na catgirl"
-    new "Putain\de catgirl"
+    new "Putain\nde catgirl"
 
     # game/code/data/extended/extra_gallery.rpy:861
     old "Hard to\nswallow\npills"
-    new "Difficile d'avaler\ndes pilules"
+    new "Difficile\nd'avaler\ndes pilules"
 
     # game/code/data/extended/extra_gallery.rpy:863
     old "He will never\nrun out of pee"
-    new "Il ne manquera\jamais de pipi"
+    new "Il ne manquera\njamais de pipi"
 
     # game/code/data/extended/extra_gallery.rpy:901
     old "NEXT STOP"
-    new "PROCHAIN ​​ARRÊT"
+    new "PROCHAIN ARRÊT"
 
     # game/code/data/extended/extra_gallery.rpy:903
     old "PENETRATION STATION"

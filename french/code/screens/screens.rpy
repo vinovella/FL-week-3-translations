@@ -46,7 +46,7 @@ translate french strings:
 
     # game/code/screens/screens.rpy:347
     old "Join Discord"
-    new "rejoins Discord"
+    new "Rejoins Discord"
 
     # game/code/screens/screens.rpy:356
     old "Endings"

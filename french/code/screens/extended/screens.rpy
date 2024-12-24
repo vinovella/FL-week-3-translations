@@ -14,7 +14,7 @@ translate french strings:
 
     # game/code/screens/extended/screens.rpy:152
     old "SETTINGS"
-    new "PARAMÈTRES"
+    new "PREFS"
 
     # game/code/screens/extended/screens.rpy:162
     old "LANGUAGE"
