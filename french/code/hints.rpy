@@ -718,7 +718,7 @@ translate french strings:
 
     # game/code/hints.rpy:5
     old "Incorrect."
-    new "Incorrect."
+    new "Incorrecte."
 
     # game/code/hints.rpy:5
     old "Correct, from \"A Tale of Two Cities\" Adds 1 Study Point."
