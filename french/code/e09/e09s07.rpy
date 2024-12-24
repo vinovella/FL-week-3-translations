@@ -2772,7 +2772,7 @@ translate french e09s07_sex_ah_cl_8566b7e2:
 translate french e09s07_sex_ah_cl_d669acb2:
 
     # mc "It's perfect, Cynthia. You're so wet and tight, and you keep pulling me in." id e09s07_sex_ah_cl_d669acb2
-    mc "It's perfect, Cynthia. You're so wet and tight, and you keep pulling me in." id e09s07_sex_ah_cl_d669acb2
+    mc "C'est parfait, Cynthia. Tu es tellement mouillée et serrée, et tu continues à m'attirer." id e09s07_sex_ah_cl_d669acb2
 
 # game/code/e09/e09s07.rpy:880
 translate french e09s07_sex_jdg_sex_7fbf3d56:
