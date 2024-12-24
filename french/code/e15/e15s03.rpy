@@ -614,7 +614,7 @@ translate french replay_e15s03_366442fb:
 translate french replay_e15s03_7359f156:
 
     # mk "And I have [mcname] to thank for that. And speaking of thanks, how about you freshen me up, [mcname]?"
-    mk "Et je dois remercier [mcname] pour ça. Et en parlant de remerciements, que dirais-tu de me rafraîchir, [mcname] ?"
+    mk "Et je dois remercier [mcname] pour ça. Et en parlant de remerciements, que dirais-tu de me rafraîchir, [mcname]?"
 
 # game/code/e15/e15s03.rpy:366
 translate french replay_e15s03_0859e1e5:
@@ -986,7 +986,7 @@ translate french e15s03_female_toiltes_6f28b3c1:
 translate french e15s03_female_toiltes_2fa76bf2:
 
     # sy "Ooouhah. Maybe {b}you{/b} should hire her here, [mcname]."
-    sy "Ooouhah. Peut-être que {/b}tu{/b} devrais l'embaucher ici, [mcname]."
+    sy "Ooouhah. Peut-être que {b}tu{/b} devrais l'embaucher ici, [mcname]."
 
 # game/code/e15/e15s03.rpy:532
 translate french e15s03_female_toiltes_6032ca26:
@@ -1118,7 +1118,7 @@ translate french e15s03_female_toiltes_73d3396d:
 translate french e15s03_female_toiltes_152f3378:
 
     # sy "Go Olivia!"
-    sy "Vas-y Olivia !"
+    sy "Vas-y Olivia!"
 
 # game/code/e15/e15s03.rpy:596
 translate french e15s03_female_toiltes_113db176:
@@ -1232,7 +1232,7 @@ translate french e15s03_female_toiltes_8adf95f5:
 translate french e15s03_female_toiltes_dbcdc248:
 
     # mc "Alright, are you ready to begin your training in earnest?"
-    mc "Très bien, es-tu prête à commencer sérieusement ton entraînement ?"
+    mc "Très bien, es-tu prête à commencer sérieusement ton entraînement?"
 
 # game/code/e15/e15s03.rpy:651
 translate french e15s03_female_toiltes_760dfa33:

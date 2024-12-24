@@ -1196,7 +1196,7 @@ translate french e09s06_ah_tr_ea27b8f0:
 translate french e09s06_ah_tr_7ce86ad5:
 
     # ah "Mmmmmhmmmmm... It's a very {i}fond{/i} memory for me."
-    ah "Mmmmmhmmmmm... c'est un très {/i}bon{/i} souvenir pour moi."
+    ah "Mmmmmhmmmmm... c'est un très {i}bon{/i} souvenir pour moi."
 
 # game/code/e09/e09s06.rpy:572
 translate french e09s06_ah_tr_7dc1228a:

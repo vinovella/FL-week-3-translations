@@ -416,7 +416,7 @@ translate french e04s02_sex_822219f9:
 translate french e04s02_sex_da9062a1:
 
     # mc "How do you ask {i}me?{/i}"
-    mc "Comment tu {/i}me{/i} demandes?"
+    mc "Comment tu {i}me{/i} demandes?"
 
 # game/code/e04/e04s02.rpy:308
 translate french e04s02_sex_83544064:

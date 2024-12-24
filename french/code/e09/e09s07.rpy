@@ -872,7 +872,7 @@ translate french e09s07_sex_ah_cl_5ad46677:
 translate french e09s07_sex_ah_cl_00446572:
 
     # ah "This is what you were meant for. What we're both {i}meant{/i} for."
-    ah "C'est à ça que tu es destiné. Que nous le sommes {/i}toutes{/i} les deux."
+    ah "C'est à ça que tu es destiné. Que nous le sommes {i}toutes{/i} les deux."
 
 # game/code/e09/e09s07.rpy:496
 translate french e09s07_sex_ah_cl_7229f3ec:

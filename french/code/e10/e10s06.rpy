@@ -200,7 +200,7 @@ translate french e10s06_e60b1f3d:
 translate french e10s06_4b6481a6:
 
     # mes "I know I'll be. But what will {i}you{/i} be?"
-    mes "Je sais que je le serai. Mais que seras- {/i}tu{/i}?"
+    mes "Je sais que je le serai. Mais que seras- {i}tu{/i}?"
 
 # game/code/e10/e10s06.rpy:224
 translate french e10s06_ebd9e565:
