@@ -1178,7 +1178,7 @@ translate french d17s06dw_clown_room_d051fb6f:
 translate french d17s06dw_clown_room_5e9487ab:
 
     # sb "So, what about you, [mcname]?"
-    sb "Alors, et toi, [mcname] ?"
+    sb "Alors, et toi, [mcname]?"
 
 # game/code/d17/d17s06dw.rpy:565
 translate french d17s06dw_clown_room_8a83b08b:
