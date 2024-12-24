@@ -1166,7 +1166,7 @@ translate french d16s10_1d1a3687:
 translate french d16s10_de9a9f38:
 
     # arj "Yes, that. {w}It seems to know more about us than anyone should."
-    arj "Yes, that. {w}It seems to know more about us than anyone should."
+    arj "Oui, ça. {w}Il semble en savoir plus sur nous que quiconque ne le devrait."
 
 # game/code/d16/d16s10.rpy:702
 translate french d16s10_8babcf10:
