@@ -26,7 +26,7 @@ translate french d16s03_81048389:
 translate french d16s03_713c969c:
 
     # lc "Mmmmm... {w}What is that taste?"
-    lc "Mmmmm... {w}What is that taste?"
+    lc "Mmmmm... {w}Quel est ce goût?"
 
 # game/code/d16/d16s03.rpy:47
 translate french d16s03_4bce5e48:
