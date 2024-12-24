@@ -710,7 +710,7 @@ translate french d17s04_anal_hard_d40addc2:
 translate french d17s04_anal_hard_c4943bbd:
 
     # hr "We don't know each other that well."
-    hr "We don't know each other that well."
+    hr "Nous ne nous connaissons pas très bien."
 
 # game/code/d17/d17s04.rpy:498
 translate french d17s04_anal_hard_9fcfe9ef:
