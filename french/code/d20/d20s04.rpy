@@ -254,7 +254,7 @@ translate french d20s04_tl_9dfa875f:
 translate french d20s04_tl_e3a2bc7d:
 
     # tl "Very well, let's start with Question #1."
-    tl "Very well, let's start with Question #1."
+    tl "Très bien, commençons par la question n°1."
 
 # game/code/d20/d20s04.rpy:146
 translate french d20s04_tl_bebb4bb6:
@@ -296,7 +296,7 @@ translate french d20s04_tl_0c6b8bda:
 translate french d20s04_tl_b4393546:
 
     # rn "Language."
-    rn "Language."
+    rn "Langage."
 
 # game/code/d20/d20s04.rpy:172
 translate french d20s04_tl_45a0d180:
