@@ -96,9 +96,9 @@ translate french strings:
 
     # game/code/screens/extended/screens.rpy:229
     old "Buy Taboo University on GOG"
-    new "Buy Taboo University on GOG"
+    new "Achetez Taboo University sur GOG"
 
     # game/code/screens/extended/screens.rpy:242
     old "Watch Fetish Locator: S&M Studio trailer"
-    new "Watch Fetish Locator: S&M Studio trailer"
+    new "Regardez Fetish Locator: bande-annonce de S&M Studio"
 
