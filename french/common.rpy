@@ -1224,9 +1224,9 @@ translate french strings:
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Sunday"
-    new "{#weekday}Sunday"
+    new "{#jour de la semaine}Dimanche"
 
     # renpy/common/00action_file.rpy:47
     old "{#month}August"
-    new "{#month}August"
+    new "{#mois}Aout"
 
