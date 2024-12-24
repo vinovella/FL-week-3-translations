@@ -128,5 +128,5 @@ translate french strings:
 
     # game/code/screens/lovense.rpy:36
     old "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
-    new "4. Enter the \"Local IP\" and \"Port\" shown in the app\nThen click Connect."
+    new "4. Entrez le \"Local IP\" et le \"Port\" affichés dans l'application\nPuis cliquez sur Connecter."
 
