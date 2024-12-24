@@ -488,7 +488,7 @@ translate french d20s06_71fb43c5:
 translate french d20s06_7ab10b16:
 
     # mc "*Chuckles* I've had practice with your Miss Harris."
-    mc "*Chuckles* I've had practice with your Miss Harris."
+    mc "*Rires* J'ai eu un entraînement avec votre Miss Harris."
 
 # game/code/d20/d20s06.rpy:482
 translate french d20s06_08b86d2d:
