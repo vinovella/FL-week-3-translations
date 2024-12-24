@@ -260,7 +260,7 @@ translate french d16s01_ad09b856:
 translate french d16s01_acf0c165:
 
     # sy "Yeep."
-    sy "Yeep."
+    sy "Ouais."
 
 # game/code/d16/d16s01.rpy:202
 translate french d16s01_730b04ca:
@@ -458,7 +458,7 @@ translate french d16s01_fdf97050:
 translate french d16s01_824c8852:
 
     # mc "Right, fuck. Me too."
-    mc "Right, fuck. Me too."
+    mc "C'est vrai, putain. Moi aussi."
 
 # game/code/d16/d16s01.rpy:281
 translate french d16s01_3b88d080:
