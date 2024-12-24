@@ -356,7 +356,7 @@ translate french e16s05_sex_831123fe:
 translate french e16s05_sex_c92cd931:
 
     # "{color=#4a99ed}Jessie{/color} and {color=#1fa281}Kanya{/color}" "*soft moaning*"
-    "{color=#4a99ed}Jessie{/color} and {color=#1fa281}Kanya{/color}" "*soft moaning*"
+    "{color=#4a99ed}Jessie{/color} et {color=#1fa281}Kanya{/color}" "*gémissements doux*"
 
 # game/code/e16/e16s05.rpy:340
 translate french e16s05_sex_192ea6a3:
