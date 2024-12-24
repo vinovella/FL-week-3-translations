@@ -1446,5 +1446,5 @@ translate french strings:
 translate french e03s04_7c9ed600:
 
     # hp "I can still feel how slick your cock is from your breedable sister's mouth. It should be perfect to slide right into our goddess's holiness."
-    hp "I can still feel how slick your cock is from your breedable sister's mouth. It should be perfect to slide right into our goddess's holiness."
+    hp "Je peux encore sentir à quel point ta bite est lisse dans la bouche de ta sœur reproductible. Elle devrait être parfaite pour se glisser directement dans la sainteté de notre déesse."
 
