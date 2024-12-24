@@ -2,23 +2,23 @@ translate french strings:
 
     # game/code/screens/extended/screens_fl.rpy:11
     old "CG Gallery"
-    new "CG Gallery"
+    new "Galerie CG"
 
     # game/code/screens/extended/screens_fl.rpy:17
     old "Replay Room"
-    new "Replay Room"
+    new "Salle de replay"
 
     # game/code/screens/extended/screens_fl.rpy:23
     old "Bonus Content"
-    new "Bonus Content"
+    new "Contenu bonus"
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints on"
-    new "Hints on"
+    new "Des conseils"
 
     # game/code/screens/extended/screens_fl.rpy:30
     old "Hints off"
-    new "Hints off"
+    new "Des indices"
 
     # game/code/screens/extended/screens_fl.rpy:39
     old "Page [page]"
