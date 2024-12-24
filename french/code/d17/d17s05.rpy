@@ -284,7 +284,7 @@ translate french d17s05_1311c5f2:
 translate french d17s05_113cd47c:
 
     # sy "You called, so something big must've happened."
-    sy "You called, so something big must've happened."
+    sy "Tu as appelé, donc quelque chose d'important a dû se produire."
 
 # game/code/d17/d17s05.rpy:204
 translate french d17s05_24319d89:
