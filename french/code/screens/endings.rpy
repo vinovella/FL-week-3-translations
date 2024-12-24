@@ -32,5 +32,5 @@ translate french strings:
 
     # game/code/screens/endings.rpy:69
     old "Get DLC-2 containing this ending"
-    new "Get DLC-2 containing this ending"
+    new "Obtenez le DLC-2 contenant cette fin"
 
