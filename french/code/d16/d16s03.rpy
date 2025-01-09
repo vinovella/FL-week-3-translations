@@ -1609,7 +1609,7 @@ translate french d16s03_23afd58d:
 translate french d16s03_eb2fb18c:
 
     # mc "3.{w=0.5}.. 2.{w=0.5}.. 1...."
-    mc "3.{w=0,5}.. 2.{w=0,5}.. 1...."
+    mc "3.{w=0.5}.. 2.{w=0.5}.. 1...."
 
 # game/code/d16/d16s03.rpy:871
 translate french d16s03_562bd5fc:
