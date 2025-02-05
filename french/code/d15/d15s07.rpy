@@ -86,7 +86,7 @@ translate french d15s07_6f1f01ee:
 translate french d15s07_df51a2bf:
 
     # lc "Agreed. It's always a perfect time to see the love of my life."
-    lc "D'accord. C'est toujours le moment idéal pour voir l'amour de ma vie."
+    lc "Super. C'est toujours le moment idéal pour voir l'amour de ma vie."
 
 # game/code/d15/d15s07.rpy:94
 translate french d15s07_5455b9fe:
@@ -98,7 +98,7 @@ translate french d15s07_5455b9fe:
 translate french d15s07_2334d2c3:
 
     # lc "Same."
-    lc "Même."
+    lc "Moi aussi."
 
 # game/code/d15/d15s07.rpy:99
 translate french d15s07_20d2d54c:
@@ -158,13 +158,13 @@ translate french d15s07_d2e9ac07:
 translate french d15s07_a7ac26ef:
 
     # mes "Lydia already had a couple glasses of water, so it's just a waiting game now."
-    mes "Lydia a déjà bu quelques verres d'eau, donc ce n'est plus qu'un jeu d'attente maintenant."
+    mes "Lydia a déjà bu quelques verres d'eau, donc ce n'est plus qu'une question de temps maintenant."
 
 # game/code/d15/d15s07.rpy:126
 translate french d15s07_ec8e46f3:
 
     # mes "That said... {w}would you like something to drink, [mcname]?"
-    mes "Cela dit... {w}voudriez-vous quelque chose à boire, [mcname]?"
+    mes "Cela dit... {w}voudrais-tu quelque chose à boire, [mcname]?"
 
 # game/code/d15/d15s07.rpy:134
 translate french d15s07_ccaddf9b:
@@ -266,7 +266,7 @@ translate french d15s07_whatsthat_7c73f7fe:
 translate french d15s07_whatsthat_cf60ecb4:
 
     # mc "Alright, sorry for my outburst."
-    mc "Très bien, désolé pour mon éclat."
+    mc "Très bien, désolé pour mon explosion."
 
 # game/code/d15/d15s07.rpy:205
 translate french d15s07_whatsthat_757eec62:
@@ -320,7 +320,7 @@ translate french d15s07_mes_pee_on_mc_5f27595e:
 translate french d15s07_mes_pee_on_mc_bdb994ee:
 
     # lc "I know this is something that is fun for you and I promise I'll watch it sometime, but right now-"
-    lc "Je sais que c'est quelque chose qui est amusant pour toi et je promets que je le regarderai un jour, mais pour le moment-"
+    lc "Je sais que c'est quelque chose qui est amusant pour toi et je promets que je le ferai un jour, mais pour le moment-"
 
 # game/code/d15/d15s07.rpy:248
 translate french d15s07_mes_pee_on_mc_78cab2df:
@@ -548,7 +548,7 @@ translate french d15s07_mc_pee_on_mes_f356ef7d:
 translate french d15s07_mc_pee_on_mes_9480419d:
 
     # mes "I'm sorry, I'm sorry. I got a little carried away for a moment there."
-    mes "Je suis désolé, je suis désolé. Je me suis un peu emporté un moment là."
+    mes "Je suis désolée, je suis désolée. Je me suis un peu emporté un moment là."
 
 # game/code/d15/d15s07.rpy:419
 translate french d15s07_mc_pee_on_mes_179e9620:
@@ -650,7 +650,7 @@ translate french d15s07_lc_pee_on_mes_c32d2465:
 translate french d15s07_lc_pee_on_mes_1844739e:
 
     # mes "Wait - now I'm confused. Am I supposed to-?"
-    mes "Attends, maintenant je suis confus. Suis-je censé-?"
+    mes "Attends, maintenant je suis confus. Suis-je censée-?"
 
 # game/code/d15/d15s07.rpy:480
 translate french d15s07_lc_pee_on_mes_d9477853:
@@ -704,7 +704,7 @@ translate french d15s07_lc_pee_on_mes_5a5b7723:
 translate french d15s07_lc_pee_on_mes_df8becc0:
 
     # mc "Nope. You're looking at a human toilet. She's just a receptacle for your pee."
-    mc "Non. Vous regardez des toilettes humaines. Ce n'est qu'un réceptacle pour votre pipi."
+    mc "Non. Tu regardes des toilettes humaines. Ce n'est qu'un réceptacle pour ta pisse."
 
 # game/code/d15/d15s07.rpy:512
 translate french d15s07_lc_pee_on_mes_8515f081:
@@ -716,7 +716,7 @@ translate french d15s07_lc_pee_on_mes_8515f081:
 translate french d15s07_lc_pee_on_mes_8bbe9877:
 
     # mc "You're relaxed and standing in front of a worthless piss-slut that wants to drink your urine."
-    mc "Tu es détendu et tu te tiens devant une salope sans valeur qui veut boire ton urine."
+    mc "Tu es détendue et tu te tiens devant une salope sans valeur qui veut boire ton urine."
 
 # game/code/d15/d15s07.rpy:520
 translate french d15s07_lc_pee_on_mes_113c5936:
@@ -770,7 +770,7 @@ translate french d15s07_ntr_path_2a8543a8:
 translate french d15s07_ntr_path_6fd4fa7e:
 
     # lc "This worthless piss-slut is my best friend."
-    lc "Vous avez tort,\" Cette salope sans valeur est ma meilleure amie. \"[mcname]."
+    lc "Vous avez tort, Cette salope sans valeur est ma meilleure amie."
 
 # game/code/d15/d15s07.rpy:552
 translate french d15s07_ntr_path_1eb7b39c:
@@ -794,7 +794,7 @@ translate french d15s07_ntr_path_7ea164ec:
 translate french d15s07_ntr_path_483dc101:
 
     # lc "I can't believe I'm still passing water while she's doing this!!"
-    lc "Je n'arrive pas à croire que j'ai encore de l'eau pendant qu'elle fait ça!!"
+    lc "Je n'arrive pas à croire que je pisse encore pendant qu'elle fait ça!!"
 
 # game/code/d15/d15s07.rpy:575
 translate french d15s07_ntr_path_1d3954e2:
@@ -854,7 +854,7 @@ translate french d15s07_ntr_path_d185721f:
 translate french d15s07_ntr_path_24010f18:
 
     # lc "oh, shit. I'm sorry."
-    lc "Oh, merde. Je suis désolé."
+    lc "Oh, merde. Je suis désolée."
 
 # game/code/d15/d15s07.rpy:604
 translate french d15s07_ntr_path_6b438ed9:
@@ -872,7 +872,7 @@ translate french d15s07_lc_path_5bd16e4b:
 translate french d15s07_lc_path_aa69a5e5:
 
     # mc "That's it. Receiving pleasure while releasing pressure."
-    mc "Ça y est. Recevoir du plaisir tout en relâchant la pression."
+    mc "C'est ça. Recevoir du plaisir tout en relâchant la pression."
 
 # game/code/d15/d15s07.rpy:615
 translate french d15s07_lc_path_3ef6bf88:
@@ -932,13 +932,13 @@ translate french d15s07_lc_path_c96c4835:
 translate french d15s07_lc_path_d7a12eac:
 
     # lc "I can't believe... {w}I'm still passing water... {w}even while she's doing this."
-    lc "Je n'arrive pas à croire... {w}J'ai toujours des fuites d'eau... {w}même pendant qu'elle fait ça."
+    lc "Je n'arrive pas à croire... {w}Je pisse encore... {w}même pendant qu'elle fait ça."
 
 # game/code/d15/d15s07.rpy:646
 translate french d15s07_lc_path_1cd989e0:
 
     # mc "Relax and enjoy. Release and receive pleasure."
-    mc "Détendez-vous et profitez. Libérez et recevez du plaisir."
+    mc "Détends-toi et profite. Libére et recois du plaisir."
 
 # game/code/d15/d15s07.rpy:648
 translate french d15s07_lc_path_420c1729:
@@ -1010,13 +1010,13 @@ translate french d15s07_lc_path_0bbb96c3:
 translate french d15s07_lc_path_6b01de69:
 
     # lc "[mcname]! May I climax? Please!"
-    lc "[mcname]! Puis-je jouir? S'il vous plaît!"
+    lc "[mcname]! Puis-je jouir? S'il te plaît!"
 
 # game/code/d15/d15s07.rpy:670
 translate french d15s07_lc_path_4908b346:
 
     # mc "Cum for me, Lydia. {w}Cum from your best friend's tongue."
-    mc "Jouis pour moi, Lydia. {w} Jouis de la langue de ta meilleure amie."
+    mc "Jouis pour moi, Lydia. {w} Jouis sur la langue de ta meilleure amie."
 
 # game/code/d15/d15s07.rpy:675
 translate french d15s07_lc_path_1bfed957:
