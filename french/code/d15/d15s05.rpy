@@ -2,7 +2,7 @@
 translate french d15s05_c7c01bd8:
 
     # mk "[mcname]. Good, you came."
-    mk "[mcname]. Bien, tu es venu."
+    mk "[mcname]. Bien, tu es venus."
 
 # game/code/d15/d15s05.rpy:68
 translate french d15s05_aa039def:
@@ -32,7 +32,7 @@ translate french d15s05_cbba9f12:
 translate french d15s05_23d530a7:
 
     # mc "Sorry, I'm just pissed off in general today. You just happen to be in range."
-    mc "Désolé, je suis juste énervé en général aujourd'hui. Il se trouve que vous êtes à portée."
+    mc "Désolé, je suis juste énervé aujourd'hui. Il se trouve que tu es à portée."
 
 # game/code/d15/d15s05.rpy:81
 translate french d15s05_c8dc9f71:
@@ -98,7 +98,7 @@ translate french d15s05_45b3b564:
 translate french d15s05_5b611cff:
 
     # mk "I'm not even a person to the guy on the other side of this wall. I'm just a hole."
-    mk "Je ne suis même pas une personne pour le gars de l'autre côté de ce mur. Je ne suis qu'un trou."
+    mk "Je ne suis même pas une personne, pour le gars de l'autre côté de ce mur. Je ne suis qu'un trou."
 
 # game/code/d15/d15s05.rpy:110
 translate french d15s05_c3b5b8a5:
@@ -116,7 +116,7 @@ translate french d15s05_7b674dc8:
 translate french d15s05_9a47c11d:
 
     # mk "Pissed? {w}Do I sound upset to you?"
-    mk "Énervé? {w}Est-ce que j'ai l'air contrarié?"
+    mk "Énervée? {w}Est-ce que j'ai l'air contrariée?"
 
 # game/code/d15/d15s05.rpy:119
 translate french d15s05_6b4efacf:
@@ -140,7 +140,7 @@ translate french d15s05_f0ad66d3:
 translate french d15s05_6d1e9db6:
 
     # mk "It's so much more than that. {w}That's what I want to show you."
-    mk "C'est bien plus que ça. {w}C'est ce que je veux vous montrer."
+    mk "C'est bien plus que ça. {w}C'est ce que je veux te montrer."
 
 # game/code/d15/d15s05.rpy:146
 translate french d15s05_gtfo_17614dc7:
@@ -158,13 +158,13 @@ translate french d15s05_gtfo_7a869c57:
 translate french d15s05_gtfo_32a985b1:
 
     # mc "Don't you get it? You're disgusting."
-    mc "Tu ne comprends pas? Tu es dégoûtant."
+    mc "Tu ne comprends pas? Tu es dégoûtante."
 
 # game/code/d15/d15s05.rpy:155
 translate french d15s05_gtfo_1e349e6b:
 
     # mk "You can keep all the money. They keep offering, but I've been giving it back."
-    mk "Vous pouvez garder tout l'argent. Ils continuent à offrir, mais je l'ai rendu."
+    mk "Tu pourras garder tout l'argent. Ils continuent à offrir, mais je les ai rendu."
 
 # game/code/d15/d15s05.rpy:158
 translate french d15s05_gtfo_cebfe215:
@@ -194,7 +194,7 @@ translate french d15s05_help_edc75021:
 translate french d15s05_help_aaf727b0:
 
     # mk "I need you to see this! I need you!"
-    mk "J'ai besoin que tu voies ça! J'ai besoin de toi!"
+    mk "J'ai besoin que tu vois ça! J'ai besoin de toi!"
 
 # game/code/d15/d15s05.rpy:182
 translate french d15s05_help_ff34d3a0:
@@ -218,7 +218,7 @@ translate french d15s05_help_85ae0836:
 translate french d15s05_help_c8b639e3:
 
     # mc "Put your clothes on."
-    mc "Mettez vos vêtements."
+    mc "Met tes vêtements."
 
 # game/code/d15/d15s05.rpy:192
 translate french d15s05_help_7c300ba7:
@@ -236,7 +236,7 @@ translate french d15s05_help_aea81677:
 translate french d15s05_help_52c751c4:
 
     # mc "You want to please me, right? You want to do what I would want - what AmRose would want you to do?"
-    mc "Tu veux me faire plaisir, n'est-ce pas? Tu veux faire ce que je voudrais – qu'est-ce qu'AmRose voudrait que tu fasses?"
+    mc "Tu veux me faire plaisir, n'est-ce pas? Tu veux faire ce que je veux – qu'est-ce qu'AmRose voudrait que tu fasses?"
 
 # game/code/d15/d15s05.rpy:199
 translate french d15s05_help_4029ac24:
@@ -272,7 +272,7 @@ translate french d15s05_help_58f21dfa:
 translate french d15s05_help_f9073c10:
 
     # mc "Be a good slave. Don't think - just do what you're told."
-    mc "Soyez un bon esclave. Ne réfléchissez pas, faites simplement ce qu'on vous dit."
+    mc "Soit une bonne esclave. Ne réfléchis pas, fait simplement ce que je te dit."
 
 # game/code/d15/d15s05.rpy:217
 translate french d15s05_help_15a04356:
@@ -296,7 +296,7 @@ translate french d15s05_help_45915287:
 translate french d15s05_help_b95ce373:
 
     # mc "Are you ready to go?"
-    mc "Es-tu prêt à partir?"
+    mc "Es-tu prête à partir?"
 
 # game/code/d15/d15s05.rpy:226
 translate french d15s05_help_d04fa45d:
@@ -410,7 +410,7 @@ translate french d15s05_bj_df794594:
 translate french d15s05_bj_b9550761:
 
     # mct "Fuck me. She's really swallowing it all."
-    mct "Baise-moi. Elle avale vraiment tout."
+    mct "Putain. Elle avale vraiment tout."
 
 # game/code/d15/d15s05.rpy:355
 translate french d15s05_bj_fa8e4c35:
@@ -464,7 +464,7 @@ translate french d15s05_bj_4d2245ac:
 translate french d15s05_bj_25b28015:
 
     # mc "You're supposed to keep the money."
-    mc "Tu es censé garder l'argent."
+    mc "Tu es censée garder l'argent."
 
 # game/code/d15/d15s05.rpy:380
 translate french d15s05_bj_4253f538:
@@ -506,7 +506,7 @@ translate french d15s05_pussyfuck_2d99e281:
 translate french d15s05_pussyfuck_88a762bb:
 
     # mc "Fuck your virgin pussy with that stranger's cock."
-    mc "Baise ta chatte vierge avec la bite de cet inconnu."
+    mc "Empale ta chatte vierge avec la bite de cet inconnu."
 
 # game/code/d15/d15s05.rpy:405
 translate french d15s05_pussyfuck_aabf15c1:
@@ -524,7 +524,7 @@ translate french d15s05_pussyfuck_b68fbc18:
 translate french d15s05_pussyfuck_ed76d291:
 
     # mc "Get your pussy against that strangers cock and fuck yourself."
-    mc "Amène ta chatte contre la bite d'un inconnu et va te faire foutre."
+    mc "Amène ta chatte contre la bite d'un inconnu et va baise la."
 
 # game/code/d15/d15s05.rpy:412
 translate french d15s05_pussyfuck_93a30771:
@@ -536,7 +536,7 @@ translate french d15s05_pussyfuck_93a30771:
 translate french d15s05_pussyfuck_54cae91e:
 
     # mc "That's it. Take it all the way. Get your dirty cunt touching the wall."
-    mc "C'est ça. Allez jusqu'au bout. Mettez votre sale chatte en contact avec le mur."
+    mc "C'est ça. Allez jusqu'au bout. Met ta sale chatte contre le mur."
 
 # game/code/d15/d15s05.rpy:423
 translate french d15s05_pussyfuck_1780db0c:
@@ -572,7 +572,7 @@ translate french d15s05_pussyfuck_a4f9f94e:
 translate french d15s05_pussyfuck_77940f84:
 
     # mc "Slam your pussy all the way down on his shaft."
-    mc "Frappe ta chatte jusqu'au bout sur son manche."
+    mc "Descend ta chatte jusqu'au bout sur son manche."
 
 # game/code/d15/d15s05.rpy:438
 translate french d15s05_pussyfuck_f4000c40:
@@ -584,7 +584,7 @@ translate french d15s05_pussyfuck_f4000c40:
 translate french d15s05_pussyfuck_5311e5de:
 
     # mc "Are you on any sort of birth control?"
-    mc "Êtes-vous sous forme de contraception?"
+    mc "Es-tu sous forme de contraception?"
 
 # game/code/d15/d15s05.rpy:445
 translate french d15s05_pussyfuck_0bd4ebf9:
@@ -614,7 +614,7 @@ translate french d15s05_pussyfuck_14497b3e:
 translate french d15s05_pussyfuck_149076da:
 
     # mc "Let that stranger fill your cunt with his seed."
-    mc "Laisse cet étranger remplir ta chatte de sa semence."
+    mc "Laisse cet étranger remplir ta chatte de sperme."
 
 # game/code/d15/d15s05.rpy:455
 translate french d15s05_pussyfuck_a83a7f1b:
@@ -632,7 +632,7 @@ translate french d15s05_pussyfuck_21b64958:
 translate french d15s05_pussyfuck_ad76b810:
 
     # mk "He's cum and gone, sir."
-    mk "Il a joui et est parti, monsieur."
+    mk "Il a joui et il est parti, monsieur."
 
 # game/code/d15/d15s05.rpy:467
 translate french d15s05_pussyfuck_fc86e50b:
@@ -686,7 +686,7 @@ translate french d15s05_assfuck_b5b3e59f:
 translate french d15s05_assfuck_df190e85:
 
     # mc "You're not remotely ready to even hear that."
-    mc "Tu n'es même pas prêt à entendre ça."
+    mc "Tu n'es même pas prête à entendre ça."
 
 # game/code/d15/d15s05.rpy:500
 translate french d15s05_assfuck_2828de91:
@@ -752,7 +752,7 @@ translate french d15s05_assfuck_3dd7abf9:
 translate french d15s05_assfuck_6dc5afd9:
 
     # mc "Do you want to stop?"
-    mc "Voulez-vous arrêter?"
+    mc "Veux-tu arrêter?"
 
 # game/code/d15/d15s05.rpy:532
 translate french d15s05_assfuck_467629ee:
@@ -782,7 +782,7 @@ translate french d15s05_assfuck_19f94aa0:
 translate french d15s05_assfuck_ae4e8b19:
 
     # mc "Keep your shithole pressed tight against that cock and let him do whatever he wants to you."
-    mc "Gardez votre trou de cul serré contre cette bite et laissez-le faire ce qu'il veut de vous."
+    mc "Gardez ton trou de cul serré contre cette bite et laissez-le faire ce qu'il veut de toi."
 
 # game/code/d15/d15s05.rpy:545
 translate french d15s05_assfuck_cfd55eb9:
@@ -830,7 +830,7 @@ translate french d15s05_assfuck_ca986f78:
 translate french d15s05_assfuck_3105fcfc:
 
     # mk "He's cumminnnngggg!!!!"
-    mk "Il est jouuuuiiiiiisssss!!!!!"
+    mk "Il jouuuuiiiiiisssss!!!!!"
 
 # game/code/d15/d15s05.rpy:566
 translate french d15s05_assfuck_3bdffc23:
@@ -872,7 +872,7 @@ translate french d15s05_assfuck_8caae68b:
 translate french d15s05_assfuck_3e601905:
 
     # mk "Maybe next time I can ATM someone?"
-    mk "Peut-être que la prochaine fois je pourrai ATM quelqu'un?"
+    mk "Peut-être que la prochaine fois je pourrai faire un cul-bouche à quelqu'un?"
 
 # game/code/d15/d15s05.rpy:585
 translate french d15s05_assfuck_850e4776:
@@ -890,7 +890,7 @@ translate french d15s05_rimmed_1269dbb7:
 translate french d15s05_rimmed_31f96bb3:
 
     # mc "Have you ever rimmed ass before?"
-    mc "As-tu déjà cerclé le cul auparavant?"
+    mc "As-tu déjà leché un cul auparavant?"
 
 # game/code/d15/d15s05.rpy:602
 translate french d15s05_rimmed_1bba3c11:
@@ -902,7 +902,7 @@ translate french d15s05_rimmed_1bba3c11:
 translate french d15s05_rimmed_c9733e92:
 
     # mc "Have you ever done it?"
-    mc "L'avez-vous déjà fait?"
+    mc "L'as tu déjà fait?"
 
 # game/code/d15/d15s05.rpy:608
 translate french d15s05_rimmed_480f0f3a:
@@ -962,7 +962,7 @@ translate french d15s05_rimmed_8f86db9d:
 translate french d15s05_rimmed_5281edfc:
 
     # mc "Get your tongue out and move forward."
-    mc "Sortez votre langue et avancez."
+    mc "Sort ta langue et avance."
 
 # game/code/d15/d15s05.rpy:651
 translate french d15s05_rimmed_85e511e1:
@@ -1106,7 +1106,7 @@ translate french d15s05_rimmed_6d02afc2:
 translate french d15s05_rimmed_7976839e:
 
     # mc "Rimming my shitbox, then licking my jizz off the floor of a public bathroom."
-    mc "Enfoncer ma merde, puis lécher mon sperme sur le sol des toilettes publiques."
+    mc "Me bouffer le cul, puis lécher mon sperme sur le sol des toilettes publiques."
 
 # game/code/d15/d15s05.rpy:739
 translate french d15s05_rimmed_f87d6ae6:
@@ -1238,13 +1238,13 @@ translate french d15s05_end_7e0c057e:
 translate french d15s05_end_81c83e8c:
 
     # mk "Unless what?"
-    mk "A moins que quoi?"
+    mk "Sauf si quoi?"
 
 # game/code/d15/d15s05.rpy:823
 translate french d15s05_end_e99ffdee:
 
     # mc "Unless you ask me not to take them."
-    mc "À moins que tu me demandes de ne pas les prendre."
+    mc "Sauf si tu me demandes de ne pas les prendre."
 
 # game/code/d15/d15s05.rpy:826
 translate french d15s05_end_0845611c:
@@ -1256,7 +1256,7 @@ translate french d15s05_end_0845611c:
 translate french d15s05_end_ea866bc0:
 
     # mc "That's it. Just ask me nicely. I'll leave your clothes here. You can leave with your dignity somewhat intact."
-    mc "C'est tout. Demandez-moi gentiment. Je vais laisser vos vêtements ici. Vous pouvez repartir avec votre dignité quelque peu intacte."
+    mc "C'est tout. Demande-moi gentiment. Je vais laisser tes vêtements ici. tu pourras repartir avec ta dignité quelque peu intacte."
 
 # game/code/d15/d15s05.rpy:830
 translate french d15s05_end_d45fbd0e:
@@ -1298,7 +1298,7 @@ translate french d15s05_end_55310c42:
 translate french d15s05_end_5e18549a:
 
     # mk "Just go."
-    mk "Allez-y."
+    mk "Vas-y."
 
 # game/code/d15/d15s05.rpy:848
 translate french d15s05_end_b617b4d4:
@@ -1328,7 +1328,7 @@ translate french d15s05_end_492a452c:
 translate french d15s05_end_01791ac7:
 
     # mc "When you get yourself out of here - seek professional help."
-    mc "Quand vous sortirez d'ici, demandez l'aide d'un professionnel."
+    mc "Quand tu sortiras d'ici, demande l'aide d'un professionnel."
 
 # game/code/d15/d15s05.rpy:859
 translate french d15s05_end_3a03bf2f:
