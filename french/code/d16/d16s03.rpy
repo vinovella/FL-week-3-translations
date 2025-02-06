@@ -62,7 +62,7 @@ translate french d16s03_822cfe95:
 translate french d16s03_89895e64:
 
     # arj "He was just eating me out downstairs."
-    arj "Il était juste en train de me manger en bas."
+    arj "Il était juste en train de me manger la chatte."
 
 # game/code/d16/d16s03.rpy:70
 translate french d16s03_a3163105:
@@ -152,13 +152,13 @@ translate french d16s03_20a5ea30:
 translate french d16s03_e1112ded:
 
     # lc "Really? {w}Why does it sound like you're being awfully cagey with the truth?"
-    lc "Vraiment? {w}Pourquoi avez-vous l'impression que vous êtes terriblement méfiant face à la vérité?"
+    lc "Vraiment? {w}Pourquoi est-ce que tu as l'air d'être terriblement méfiant avec la vérité?"
 
 # game/code/d16/d16s03.rpy:115
 translate french d16s03_c7d2d035:
 
     # arj "He's just trying to spare you the details. It didn't die, we were just visiting someplace that... couldn't get a signal."
-    arj "Il essaie juste de vous épargner les détails. Il n'est pas mort, nous visitions juste un endroit où... nous ne pouvions pas recevoir de signal."
+    arj "Il essaie juste de t'épargner les détails. Il n'est pas mort, nous visitions juste un endroit où... nous ne pouvions pas recevoir de signal."
 
 # game/code/d16/d16s03.rpy:118
 translate french d16s03_e1d634c8:
@@ -200,7 +200,7 @@ translate french d16s03_5e77f2a3:
 translate french d16s03_739572f1:
 
     # mc "I'll make sure to tell you if that happens again."
-    mc "Je ne manquerai pas de vous le dire si cela se reproduit."
+    mc "Je ne manquerai pas de te le dire si cela se reproduit."
 
 # game/code/d16/d16s03.rpy:136
 translate french d16s03_9acb4175:
@@ -230,7 +230,7 @@ translate french d16s03_7b4cf9cd:
 translate french d16s03_860c298e:
 
     # mc "I think you mentioned that. Something about my being caged is a turn-on for you?"
-    mc "Je pense que tu l'as mentionné. Quelque chose dans le fait que je sois en cage t'excite?"
+    mc "Je pense que tu l'as mentionnée. Quelque chose dans le fait que je sois en cage t'excite?"
 
 # game/code/d16/d16s03.rpy:148
 translate french d16s03_68ce535d:
@@ -243,6 +243,7 @@ translate french d16s03_99d0253c:
 
     # arj "You want to fuck him, but you don't want him to be able to fuck you."
     arj "Tu veux le baiser, mais tu ne veux pas qu'il puisse te baiser."
+
 # game/code/d16/d16s03.rpy:154
 translate french d16s03_2ef6dd82:
 
@@ -283,7 +284,7 @@ translate french d16s03_5e1e68ee:
 translate french d16s03_66eb0401:
 
     # mct "They both want AmRose to leave.{w} Hmm... I'm thinking..."
-    mct "Ils veulent tous les deux qu'AmRose parte.{w} Hmm... je pense..."
+    mct "Elle veux qu'AmRose parte.{w} Hmm... je pense..."
 
 # game/code/d16/d16s03.rpy:181
 translate french d16s03_c145daf5:
@@ -349,7 +350,7 @@ translate french d16s03_ed62ac63:
 translate french d16s03_4d33c580:
 
     # lc "Okay. Well, I guess you two had better get going."
-    lc "D'accord. Eh bien, je suppose que vous feriez mieux d'y aller."
+    lc "D'accord. Eh bien, je suppose que te ferai mieux d'y aller."
 
 # game/code/d16/d16s03.rpy:210
 translate french d16s03_6612ff16:
@@ -385,7 +386,7 @@ translate french d16s03_9bcea669:
 translate french d16s03_a93a47bc:
 
     # mc "AmRose - why don't you stay here and watch."
-    mc "AmRose – pourquoi ne restes-tu pas ici et regardes."
+    mc "AmRose – pourquoi ne restes-tu pas ici et regarder."
 
 # game/code/d16/d16s03.rpy:236
 translate french d16s03_d40d9d88:
@@ -499,7 +500,7 @@ translate french d16s03_be21f047:
 translate french d16s03_0a7df396:
 
     # lc "You look like a cut of fuckable meat. Are you?"
-    lc "Tu ressembles à un morceau de viande baisable. Et toi?"
+    lc "Tu ressembles à un morceau de viande baisable. Es-tu?"
 
 # game/code/d16/d16s03.rpy:300
 translate french d16s03_085722e2:
@@ -523,7 +524,7 @@ translate french d16s03_bc4fd44d:
 translate french d16s03_30ad6e63:
 
     # lc "You smell delicious"
-    lc "Tu sens délicieux"
+    lc "Tu sens bon"
 
 # game/code/d16/d16s03.rpy:312
 translate french d16s03_6111f88e:
@@ -607,7 +608,7 @@ translate french d16s03_a53c17b6:
 translate french d16s03_bae77c6e:
 
     # mc "Sure, but why don't you start face-up?"
-    mc "Bien sûr, mais pourquoi ne commences-tu pas face visible?"
+    mc "Bien sûr, mais pourquoi ne commences-tu pas face vers le haut?"
 
 # game/code/d16/d16s03.rpy:356
 translate french d16s03_d7d82a63:
@@ -637,7 +638,7 @@ translate french d16s03_2261600c:
 translate french d16s03_f160b298:
 
     # lc "I'm so conflicted. {w}You have the most glorious penis in all mankind, yet it frightens me so."
-    lc "Je suis tellement en conflit. {w}Vous avez le pénis le plus glorieux de toute l'humanité, et pourtant cela me fait tellement peur."
+    lc "Je suis tellement en conflit. {w}Tu as le pénis le plus glorieux de toute l'humanité, et pourtant cela me fait tellement peur."
 
 # game/code/d16/d16s03.rpy:369
 translate french d16s03_0dd93717:
@@ -679,7 +680,7 @@ translate french d16s03_55166482:
 translate french d16s03_ca8dc39e:
 
     # mc "You can trust me. {w}I'll make sure we always eat and stay hydrated."
-    mc "Vous pouvez me faire confiance. {w}Je veillerai à ce que nous mangions toujours et restions hydratés."
+    mc "Tu peux me faire confiance. {w}Je veillerai à ce que nous mangions toujours et restions hydratés."
 
 # game/code/d16/d16s03.rpy:389
 translate french d16s03_dda835d4:
@@ -703,7 +704,7 @@ translate french d16s03_dd04ae17:
 translate french d16s03_760c368e:
 
     # lc "I'll go down on any woman you want if you just fuck me now."
-    lc "Je vais tomber sur n'importe quelle femme que tu veux si tu me baises maintenant."
+    lc "Je vais tomber sur n'importe quelle femme que tu veux, si tu me baises maintenant."
 
 # game/code/d16/d16s03.rpy:398
 translate french d16s03_e0d2d992:
@@ -763,7 +764,7 @@ translate french d16s03_da1aa4fd:
 translate french d16s03_22a0abcf:
 
     # lc "[mcname]? Would you mind if we have some private time alone?"
-    lc "[mcname]? Cela vous dérangerait-il si nous passions du temps seul en privé?"
+    lc "[mcname]? Cela te dérangerait-il si nous passions du temps seul en privé?"
 
 # game/code/d16/d16s03.rpy:459
 translate french d16s03_92e65816:
@@ -787,7 +788,7 @@ translate french d16s03_68a898a7:
 translate french d16s03_b96402cf:
 
     # mc "What did you think? What did it feel like to watch us together?"
-    mc " Qu'en as-tu pensé? Qu'est-ce que ça fait de nous regarder ensemble? "
+    mc " Qu'en as-tu pensée? Qu'est-ce que ça fait de nous regarder ensemble? "
 
 # game/code/d16/d16s03.rpy:468
 translate french d16s03_0b8d5cc3:
@@ -805,7 +806,7 @@ translate french d16s03_ff6d21f4:
 translate french d16s03_9748209a:
 
     # arj "Then my brain kicked in. I realized that you like to be watched."
-    arj "Puis mon cerveau s'est mis en marche. J'ai réalisé que tu aimais être observé."
+    arj "Puis mon cerveau s'est mis en marche. J'ai réalisée que tu aimais être observé."
 
 # game/code/d16/d16s03.rpy:473
 translate french d16s03_242d0f26:
@@ -835,7 +836,7 @@ translate french d16s03_6e975733:
 translate french d16s03_2b2d760b:
 
     # arj "At first I thought you were punishing me. That I was supposed to feel humiliated."
-    arj "Au début, je pensais que tu me punissais. Que j'étais censé me sentir humiliée."
+    arj "Au début, je pensais que tu me punissais. Que j'étais censée me sentir humiliée."
 
 # game/code/d16/d16s03.rpy:482
 translate french d16s03_43393439:
@@ -871,7 +872,7 @@ translate french d16s03_9dca8a17:
 translate french d16s03_1dcdfb82:
 
     # arj "I guess I got pretty aroused watching you two together."
-    arj "Je suppose que j'ai été plutôt excité de vous voir ensemble."
+    arj "Je suppose que j'ai été plutôt excitée de vous voir ensemble."
 
 # game/code/d16/d16s03.rpy:494
 translate french d16s03_f49fff8f:
@@ -907,13 +908,13 @@ translate french d16s03_79e6baf1:
 translate french d16s03_0923cc2e:
 
     # mc "What about you, Lydia? How did you feel about AmRose watching us together?"
-    mc "Et toi, Lydia? Qu'as-tu ressenti à l'idée qu'AmRose nous regarde ensemble?"
+    mc "Et toi, Lydia? Qu'as-tu ressentie à l'idée qu'AmRose nous regarde ensemble?"
 
 # game/code/d16/d16s03.rpy:509
 translate french d16s03_5efa3f9f:
 
     # lc "Terrific. It was interesting being the one who is watched by someone else."
-    lc "Super. C'était intéressant d'être celui qui est surveillé par quelqu'un d'autre."
+    lc "Super. C'était intéressant d'être celle qui est surveillée par quelqu'un d'autre."
 
 # game/code/d16/d16s03.rpy:511
 translate french d16s03_78def226:
@@ -955,7 +956,7 @@ translate french d16s03_5205ff5d:
 translate french d16s03_096f711f:
 
     # lc "Maybe next time she could join in and service us both."
-    lc "Peut-être que la prochaine fois, elle pourrait nous rejoindre et nous servir tous les deux."
+    lc "Peut-être que la prochaine fois, elle pourrait nous rejoindre et nous pourrion s'en servir tous les deux."
 
 # game/code/d16/d16s03.rpy:527
 translate french d16s03_b1efcaec:
@@ -991,7 +992,7 @@ translate french d16s03_0055019b:
 translate french d16s03_7394e456:
 
     # mc "Alright, slave. You may go."
-    mc "Très bien, esclave. Vous pouvez y aller."
+    mc "Très bien, esclave. Tu peux y aller."
 
 # game/code/d16/d16s03.rpy:543
 translate french d16s03_a41c7f6f:
@@ -1093,13 +1094,13 @@ translate french d16s03_f6ae41a8:
 translate french d16s03_16b352d9:
 
     # mc "Tell me what it is, and then I'll agree."
-    mc "Dites-moi ce que c'est, et ensuite je serai d'accord."
+    mc "Dit-moi ce que c'est, et ensuite je serai d'accord."
 
 # game/code/d16/d16s03.rpy:607
 translate french d16s03_f856113d:
 
     # lc "Nope. Leap of faith. You trust me by agreeing to it. I'll trust you by telling you what you agreed to."
-    lc "Non. Acte de foi. Vous me faites confiance en l'acceptant. Je te ferai confiance en te disant ce que tu as accepté."
+    lc "Non. Acte de foi. Tu me faites confiance en l'acceptant. Je te ferai confiance en te disant ce que tu as accepté."
 
 # game/code/d16/d16s03.rpy:608
 translate french d16s03_b3494483:
@@ -1129,7 +1130,7 @@ translate french d16s03_a3b844ba:
 translate french d16s03_30b7c9d3:
 
     # lc "Okay. Brace yourself."
-    lc "D'accord. Préparez-vous."
+    lc "D'accord. Prépares-toi."
 
 # game/code/d16/d16s03.rpy:638
 translate french d16s03_9499e10d:
@@ -1159,7 +1160,7 @@ translate french d16s03_63badd04:
 translate french d16s03_8674f8a4:
 
     # lc "Have you ever heard of... tossing salad?"
-    lc "Avez-vous déjà entendu parler de... lancer de la salade?"
+    lc "As-tu déjà entendu parler de... manger la salade?"
 
 # game/code/d16/d16s03.rpy:653
 translate french d16s03_a6b4be57:
@@ -1243,7 +1244,7 @@ translate french d16s03_03850f06:
 translate french d16s03_a4c434cb:
 
     # lc "... I do."
-    lc "... Je fais."
+    lc "... Je le fais."
 
 # game/code/d16/d16s03.rpy:695
 translate french d16s03_70e13838:
@@ -1309,7 +1310,7 @@ translate french d16s03_cd0d1f18:
 translate french d16s03_864025cf:
 
     # lc "One in each hand. Another guy between my breasts. One each rubbing against my feet."
-    lc "Un dans chaque main. Un autre gars entre mes seins. Un chacun frottant contre mes pieds."
+    lc "Une dans chaque main. Un autre gars entre mes seins. Un chacun frottant contre mes pieds."
 
 # game/code/d16/d16s03.rpy:726
 translate french d16s03_7aeccb1c:
@@ -1417,7 +1418,7 @@ translate french d16s03_8d024ff5:
 translate french d16s03_4cde0d3d:
 
     # lc "Please don't arrange it. I'm not anywhere near ready to experience that."
-    lc "S'il vous plaît, ne faites pas d'arrangement. Je ne suis pas du tout prêt à vivre ça."
+    lc "S'il te plaît, ne fait pas d'arrangement. Je ne suis pas du tout prêt à vivre ça."
 
 # game/code/d16/d16s03.rpy:776
 translate french d16s03_f42fb501:
@@ -1447,7 +1448,7 @@ translate french d16s03_926ad1b0:
 translate french d16s03_72630d74:
 
     # lc "Well, then I guess you don't find out what it is."
-    lc "Eh bien, alors je suppose que tu ne découvres pas ce que c'est."
+    lc "Eh bien, alors je suppose que tu ne découvriras pas ce que c'est."
 
 # game/code/d16/d16s03.rpy:794
 translate french d16s03_9754930d:
@@ -1585,7 +1586,7 @@ translate french d16s03_f85dfd95_2:
 translate french d16s03_5526e4da:
 
     # mc "Have you ever experienced... no, you wouldn't have."
-    mc "Avez-vous déjà fait l'expérience... non, vous ne l'auriez pas fait."
+    mc "AS-tu déjà fait l'expérience... non, tu ne l'aurais pas fait."
 
 # game/code/d16/d16s03.rpy:856
 translate french d16s03_2f6f7f44:
@@ -1663,7 +1664,7 @@ translate french d16s03_237c3776:
 translate french d16s03_89213bd2:
 
     # mc "Someday... you know, when you're ready and practice with toys a bit and there's plenty of lube..."
-    mc "Un jour... tu sais, quand tu seras prêt et que tu t'entraîneras un peu avec des jouets et qu'il y aura beaucoup de lubrifiant..."
+    mc "Un jour... tu sais, quand tu seras prête et que tu t'entraîneras un peu avec des jouets et qu'il y aura beaucoup de lubrifiant..."
 
 # game/code/d16/d16s03.rpy:898
 translate french d16s03_e64f10fe:
@@ -1693,7 +1694,7 @@ translate french d16s03_ca172e97:
 translate french d16s03_f4a19101:
 
     # mc "More like urination and peeing."
-    mc "Plutôt uriner et faire pipi."
+    mc "Plutôt miction et pipi."
 
 # game/code/d16/d16s03.rpy:919
 translate french d16s03_05c0dfe4:
@@ -1705,13 +1706,13 @@ translate french d16s03_05c0dfe4:
 translate french d16s03_7e40d834:
 
     # mc "Someday, when you're ready... I'd like to piss on you."
-    mc "Un jour, quand tu seras prêt... j'aimerais pisser sur toi."
+    mc "Un jour, quand tu seras prête... j'aimerais pisser sur toi."
 
 # game/code/d16/d16s03.rpy:926
 translate french d16s03_34982273:
 
     # mc "In your hair, on your face, in your mouth, on your breasts and body..."
-    mc "Dans vos cheveux, sur votre visage, dans votre bouche, sur vos seins et sur votre corps..."
+    mc "Sur tes cheveux, sur ton visage, dans ta bouche, sur tes seins et sur ton corps..."
 
 # game/code/d16/d16s03.rpy:931
 translate french d16s03_1c40ad89:
@@ -1759,7 +1760,7 @@ translate french d16s03_9c451721:
 translate french d16s03_8f8d9177:
 
     # mc "Have you ever heard of BDSM?"
-    mc "Avez-vous déjà entendu parler du BDSM?"
+    mc "As-tu déjà entendue parlé du BDSM?"
 
 # game/code/d16/d16s03.rpy:962
 translate french d16s03_69911031:
@@ -1807,13 +1808,13 @@ translate french d16s03_096bcc92:
 translate french d16s03_97bd2ba9:
 
     # lc "I just don't know if I'll ever be ready for that."
-    lc "Je ne sais tout simplement pas si je serai un jour prêt pour ça."
+    lc "Je ne sais tout simplement pas si je serai un jour prête pour ça."
 
 # game/code/d16/d16s03.rpy:983
 translate french d16s03_5188117d:
 
     # mc "Don't worry. We don't ever need to do that. It's just a fantasy."
-    mc "Ne vous inquiétez pas. Nous n'avons jamais besoin de faire ça. C'est juste un fantasme."
+    mc "Ne t'inquiétes pas. Nous n'avons jamais besoin de faire ça. C'est juste un fantasme."
 
 # game/code/d16/d16s03.rpy:986
 translate french d16s03_70aef97a:
@@ -1825,7 +1826,7 @@ translate french d16s03_70aef97a:
 translate french d16s03_9e376fcc:
 
     # mc "Did I upset you?"
-    mc "Est-ce que je t'ai contrarié?"
+    mc "Est-ce que je t'ai contrariée?"
 
 # game/code/d16/d16s03.rpy:992
 translate french d16s03_e2f48147:
