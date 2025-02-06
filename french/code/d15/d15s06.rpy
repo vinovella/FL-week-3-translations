@@ -68,7 +68,7 @@ translate french d15s06_1c6493e1:
 translate french d15s06_88e263ac:
 
     # mc "Oh, I went out for a bit.{w} I am sending my location."
-    mc "Oh, je suis sorti un peu.{w} J'envoie ma position."
+    mc "Oh, je suis de sortie.{w} Je t'envoie ma position."
 
 # game/code/d15/d15s06.rpy:108
 translate french d15s06_9b3d54a1:

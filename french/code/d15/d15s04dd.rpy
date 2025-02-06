@@ -170,7 +170,7 @@ translate french d15s04dd_cb052f60:
 translate french d15s04dd_6077ef2a:
 
     # dd "*Snorts*"
-    dd "*Renfle*"
+    dd "*Renifle*"
 
 # game/code/d15/d15s04dd.rpy:124
 translate french d15s04dd_15bda0af:
