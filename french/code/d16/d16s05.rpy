@@ -14,7 +14,7 @@ translate french d16s05_01605c6d:
 translate french d16s05_95fb65d7:
 
     # sy "Oh please, like you haven't seen me naked before."
-    sy "Oh s'il te plaît, comme si tu ne m'avais jamais vu nu auparavant."
+    sy "Oh s'il te plaît, comme si tu ne m'avais jamais vu nue auparavant."
 
 # game/code/d16/d16s05.rpy:29
 translate french d16s05_c1f733bb:
@@ -158,7 +158,7 @@ translate french d16s05_e9eba40c:
 translate french d16s05_215e1dcd:
 
     # mc "Professional as fuck. Sleek and clean with a side of boss bitch."
-    mc "Professionnel à souhait. Élégant et propre avec un côté de patronne."
+    mc "Professionnelle à souhait. Élégante et propre avec un côté de patronne."
 
 # game/code/d16/d16s05.rpy:101
 translate french d16s05_e02ad694:
@@ -188,7 +188,7 @@ translate french d16s05_168a01a4:
 translate french d16s05_69fed768:
 
     # mc "Fair enough.{w} So what's this gig anyway?"
-    mc "Assez juste.{w} Alors, c'est quoi ce job de toute façon?"
+    mc "C'est pas faux.{w} Alors, c'est quoi ce job de toute façon?"
 
 # game/code/d16/d16s05.rpy:118
 translate french d16s05_c36c5785:
@@ -224,7 +224,7 @@ translate french d16s05_54051cea:
 translate french d16s05_347ea5e9:
 
     # mc "Do you even know how much they're paying?"
-    mc "Savez-vous au moins combien ils paient?"
+    mc "Sais-tu au moins combien ils paient?"
 
 # game/code/d16/d16s05.rpy:131
 translate french d16s05_1558ad73:
@@ -248,7 +248,7 @@ translate french d16s05_75cafdd2:
 translate french d16s05_e15e1041:
 
     # sy "I'm ready to go."
-    sy "Je suis prêt à partir."
+    sy "Je suis prête à partir."
 
 # game/code/d16/d16s05.rpy:145
 translate french d16s05_b2805601:
@@ -320,7 +320,7 @@ translate french d16s05_993e9628:
 translate french d16s05_32c9ed06:
 
     # mc "Short version of it is that you get a special token if you do wild, fetishy shit which you can then use to skip/shorten certain challenges."
-    mc "La version courte est que vous obtenez un jeton spécial si vous faites des conneries sauvages et fétichistes que vous pouvez ensuite utiliser pour sauter/raccourcir certains défis."
+    mc "La version courte est que tu obtiens un jeton spécial si tu fait des conneries sauvages et fétichistes que tu peux ensuite utiliser pour sauter/raccourcir certains défis."
 
 # game/code/d16/d16s05.rpy:175
 translate french d16s05_c8325d75:
@@ -404,13 +404,13 @@ translate french d16s05_2d160d94:
 translate french d16s05_b3d7a39e:
 
     # mc "If someone finds out about us..."
-    mc "Si quelqu'un découvre notre existence..."
+    mc "Si quelqu'un découvre notre relation..."
 
 # game/code/d16/d16s05.rpy:210
 translate french d16s05_0d1bb08d:
 
     # sy "Who cares? Fuck 'em."
-    sy "On s'en fiche? Baise-les."
+    sy "On s'en fiche? on les emmerdes."
 
 # game/code/d16/d16s05.rpy:211
 translate french d16s05_c63def3f:
@@ -428,7 +428,7 @@ translate french d16s05_dbfcac96:
 translate french d16s05_e3c6a6b7:
 
     # sy "People that can't keep to their fucking lane can go fuck themselves."
-    sy "Les gens qui ne peuvent pas rester dans leur putain de voie peuvent aller se faire foutre."
+    sy "Les gens qui ne peuvent pas rester dans leur putain de voie peuvent aller se faire enculés."
 
 # game/code/d16/d16s05.rpy:217
 translate french d16s05_7e23f439:
@@ -548,7 +548,7 @@ translate french d16s05_b18aa2bc:
 translate french d16s05_cad3d574:
 
     # mc "Only if you make it one. Now drink up."
-    mc "Seulement si tu en fais un. Maintenant, bois."
+    mc "Seulement si tu en fais une. Maintenant, bois."
 
 # game/code/d16/d16s05.rpy:309
 translate french d16s05_c281cb0e:
@@ -626,7 +626,7 @@ translate french d16s05_4271e38e:
 translate french d16s05_e7d4bd91:
 
     # sy "Pretty much."
-    sy "Assez bien."
+    sy "On peux dire ça."
 
 # game/code/d16/d16s05.rpy:346
 translate french d16s05_65a76881:
@@ -740,7 +740,7 @@ translate french d16s05_3a799a88:
 translate french d16s05_3614f832:
 
     # sy "Who wouldn't be interested in her? Have you {i}seen{/i} son?"
-    sy "Qui ne serait pas intéressé par elle? L'avez-vous {i}vue{/i}?"
+    sy "Qui ne serait pas intéressé par elle? L'as-tu {i}vue{/i}?"
 
 # game/code/d16/d16s05.rpy:413
 translate french d16s05_ab33ffd2:
@@ -794,7 +794,7 @@ translate french d16s05_b8161c52:
 translate french d16s05_9aaae8ae:
 
     # "Woman" "Great, come this way please."
-    "Femme" "Super, suivez-moi s'il te plaît."
+    "Femme" "Super, suivez-moi s'il vous plaît."
 
 # game/code/d16/d16s05.rpy:438
 translate french d16s05_567faf98:
@@ -866,7 +866,7 @@ translate french d16s05_6ea7d144:
 translate french d16s05_2905d6b4:
 
     # sy "They can go fuck themselves with that drug test shit."
-    sy "Ils peuvent aller se faire foutre avec ces conneries de tests antidopage."
+    sy "Ils peuvent aller se faire foutre avec leurs conneries de tests antidopage."
 
 # game/code/d16/d16s05.rpy:486
 translate french d16s05_304c149c:
