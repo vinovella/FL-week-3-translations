@@ -26,7 +26,7 @@ translate french d16s06_46750735:
 translate french d16s06_d952f264:
 
     # aw "Yes, but I kinda asked out of nowhere."
-    aw "Oui, mais j'ai un peu demandé de nulle part."
+    aw "Oui, mais j'ai un peu demandée précipitamment."
 
 # game/code/d16/d16s06.rpy:101
 translate french d16s06_be193682:
@@ -80,19 +80,19 @@ translate french d16s06_791a972a:
 translate french d16s06_92e3bb3c:
 
     # aw "I think it's sweet but very misguided."
-    aw "Je pense que c'est gentil mais très peu judicieux."
+    aw "Je pense que c'est gentil mais pas très judicieux."
 
 # game/code/d16/d16s06.rpy:139
 translate french d16s06_b1909416:
 
     # aw "I'm sorry about how I acted during the party. But it's not your place to butt into this."
-    aw "Je suis désolé de la façon dont j'ai agi pendant la fête. Mais ce n'est pas à vous de vous mêler de ça."
+    aw "Je suis désolée de la façon dont j'ai agie pendant la fête. Mais ce n'est pas à toi de te mêler de ça."
 
 # game/code/d16/d16s06.rpy:144
 translate french d16s06_042b3a51:
 
     # mc "You're right. It's not."
-    mc "Tu as raison. Ce n'est pas le cas."
+    mc "Tu as raison. ce n'est pas à moi de le faire."
 
 # game/code/d16/d16s06.rpy:145
 translate french d16s06_6a7fe3d5:
@@ -104,7 +104,7 @@ translate french d16s06_6a7fe3d5:
 translate french d16s06_dcfd2e8f:
 
     # aw "She asked you? To do what exactly? {i}Persuade{/i} me?"
-    aw "Elle vous a demandé? De faire quoi exactement? Me {i}persuader{/i}?"
+    aw "Elle te l'as demandé? De faire quoi exactement? Me {i}persuader{/i}?"
 
 # game/code/d16/d16s06.rpy:151
 translate french d16s06_cd59fcce:
@@ -140,7 +140,7 @@ translate french d16s06_bd589c0b:
 translate french d16s06_35ec306e:
 
     # aw "Well sorry ain't fucking enough!"
-    aw "Eh bien, désolé, ce n'est pas assez, putain!"
+    aw "Eh bien, désolée, ce n'est pas assez, putain!"
 
 # game/code/d16/d16s06.rpy:176
 translate french d16s06_12436050:
@@ -164,7 +164,7 @@ translate french d16s06_f61e4289:
 translate french d16s06_a151b4e8:
 
     # mc "It's not my place to say if she's grown or not."
-    mc "Ce n'est pas à moi de dire si elle a grandi ou pas."
+    mc "Ce n'est pas à moi de dire si elle a grandie ou pas."
 
 # game/code/d16/d16s06.rpy:184
 translate french d16s06_67f5166d:
@@ -404,7 +404,7 @@ translate french d16s06_ca683c95:
 translate french d16s06_acd02d33:
 
     # aw "Shit. I'm so sorry."
-    aw "Merde. Je suis vraiment désolé."
+    aw "Merde. Je suis vraiment désolée."
 
 # game/code/d16/d16s06.rpy:298
 translate french d16s06_fa1483e6:
@@ -416,7 +416,7 @@ translate french d16s06_fa1483e6:
 translate french d16s06_c0883fbc:
 
     # aw "Shit, uh, sorry. Do you want me to cover up or—"
-    aw "Merde, euh, désolé. Tu veux que je me couvre ou—"
+    aw "Merde, euh, désolée. Tu veux que je me couvre ou—"
 
 # game/code/d16/d16s06.rpy:304
 translate french d16s06_a533c3b3:
@@ -446,7 +446,7 @@ translate french d16s06_a87a337b_1:
 translate french d16s06_88c4cf1e:
 
     # aw "I'm sorry. I wouldn't have called if I had known."
-    aw "Je suis désolé. Je n'aurais pas appelé si j'avais su."
+    aw "Je suis désolée. Je n'aurais pas appelée si j'avais su."
 
 # game/code/d16/d16s06.rpy:318
 translate french d16s06_ae31ede1:
@@ -470,7 +470,7 @@ translate french d16s06_7cd820d6:
 translate french d16s06_9f16a0cd:
 
     # aw "We can see about doing it when you're out of that thing, don't worry about it."
-    aw "Nous pouvons voir comment le faire lorsque vous n'avez plus rien à faire, ne vous inquiétez pas."
+    aw "Nous pouvons voir comment le faire lorsque tu n'auras plus rien à faire, ne t'inquiétez pas."
 
 # game/code/d16/d16s06.rpy:326
 translate french d16s06_462b814d:
@@ -512,7 +512,7 @@ translate french d16s06_629a982c:
 translate french d16s06_141e7714:
 
     # aw "You're the guest, you pick."
-    aw "Vous êtes l'invité, vous choisissez."
+    aw "Tu es l'invité, tu choisis."
 
 # game/code/d16/d16s06.rpy:348
 translate french d16s06_a2c7bbf1:
@@ -662,7 +662,7 @@ translate french d16s06_a83c62ef:
 translate french d16s06_9940f75a:
 
     # aw "*Laughs* Ahem, I might've gone a little overboard it seems."
-    aw "*Rires* Ahem, je suis peut-être allé un peu trop loin, semble-t-il."
+    aw "*Rires* Ahem, je suis peut-être allée un peu trop loin, semble-t-il."
 
 # game/code/d16/d16s06.rpy:501
 translate french d16s06_8e92a963:
@@ -770,7 +770,7 @@ translate french d16s06_58c6d057:
 translate french d16s06_d7755542:
 
     # aw "*Laughs* \"Emotions\" huh? Well, I'm sure glad I got to experience it."
-    aw "*Rires* \"Émotions\", hein? Eh bien, je suis vraiment content d'avoir pu en faire l'expérience."
+    aw "*Rires* \"Émotions\", hein? Eh bien, je suis vraiment contente d'avoir pu en faire l'expérience."
 
 # game/code/d16/d16s06.rpy:637
 translate french d16s06_89a8c10f:
