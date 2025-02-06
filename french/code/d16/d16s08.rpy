@@ -14,7 +14,7 @@ translate french d16s08_96b21177:
 translate french d16s08_36e82f66:
 
     # sy "We shouldn't need that long. Let me see the device."
-    sy "Nous ne devrions pas avoir besoin d'aussi longtemps. Laissez-moi voir l'appareil."
+    sy "Nous ne devrions pas avoir besoin d'aussi longtemps. Laisse-moi voir l'appareil."
 
 # game/code/d16/d16s08.rpy:33
 translate french d16s08_219a3ecf:
@@ -26,7 +26,7 @@ translate french d16s08_219a3ecf:
 translate french d16s08_1521dd2a:
 
     # mc "Well, it's Finals Week. {w}Mind if I study a bit?"
-    mc "Eh bien, c'est la semaine des examens. {w}Ça vous dérange si j'étudie un peu?"
+    mc "Eh bien, c'est la semaine des examens. {w}Ça te dérange si j'étudie un peu?"
 
 # game/code/d16/d16s08.rpy:39
 translate french d16s08_792e2594:
@@ -80,7 +80,7 @@ translate french d16s08_f229661e:
 translate french d16s08_c8388a22:
 
     # arj "I meant Hana and myself. {w}I'm not sure you can rely on Lydia for points."
-    arj "Je voulais dire Hana et moi-même. {w}Je ne suis pas sûr que vous puissiez compter sur Lydia pour les points."
+    arj "Je voulais dire Hana et moi-même. {w}Je ne suis pas sûr que tu puisse compter sur Lydia pour les points."
 
 # game/code/d16/d16s08.rpy:69
 translate french d16s08_d5ae2301:
@@ -92,7 +92,7 @@ translate french d16s08_d5ae2301:
 translate french d16s08_5542739d:
 
     # arj "I'm always available, as you know. {w}Hana might be a bit more tricky..."
-    arj "Je suis toujours disponible, comme vous le savez. {w}Hana pourrait être un peu plus délicate..."
+    arj "Je suis toujours disponible, comme tu le sais. {w}Hana pourrait être un peu plus délicate..."
 
 # game/code/d16/d16s08.rpy:77
 translate french d16s08_a49e7683:
@@ -212,7 +212,7 @@ translate french d16s08_af347610:
 translate french d16s08_921584d2:
 
     # arj "They just seem so different."
-    arj "Ils semblent tellement différents."
+    arj "Elles semblent tellement différentes."
 
 # game/code/d16/d16s08.rpy:142
 translate french d16s08_0e75454c:
@@ -254,7 +254,7 @@ translate french d16s08_cf7d1e52:
 translate french d16s08_4eb2cdc7:
 
     # mc "Yeah. {w}If we do anything, it won't be just for the points. That would be...{w} wrong."
-    mc "Ouais. {w}Si nous faisons quelque chose, ce ne sera pas seulement pour les points. Ce serait...{w} mal."
+    mc "Ouais. {w}Si nous faisons quelque chose, ce ne sera pas seulement pour les points. Ce serait...{w} faux."
 
 # game/code/d16/d16s08.rpy:160
 translate french d16s08_92664674:
@@ -302,7 +302,7 @@ translate french d16s08_a536397a:
 translate french d16s08_e276753c:
 
     # mc "Good to know. {w}My red-headed avenger."
-    mc "Bon à savoir. {w}Mon vengeur aux cheveux roux."
+    mc "Bon à savoir. {w}Ma justicière aux cheveux roux."
 
 # game/code/d16/d16s08.rpy:189
 translate french d16s08_f2c0c8a6:
@@ -314,7 +314,7 @@ translate french d16s08_f2c0c8a6:
 translate french d16s08_b874045c:
 
     # arj "She's Stacy's landlord. She's a lawyer. And she's a bad ass motherfucker."
-    arj "C'est la propriétaire de Stacy. Elle est avocate. Et c'est un enfoiré méchant."
+    arj "C'est la propriétaire de Stacy. Elle est avocate. Et c'est une enfoiré méchante."
 
 # game/code/d16/d16s08.rpy:195
 translate french d16s08_5ec75c07:
@@ -428,7 +428,7 @@ translate french d16s08_64be4049:
 translate french d16s08_cd28c321:
 
     # arj "We were just discussing how [mcname] will make love to you."
-    arj "Nous discutions justement de la façon dont [mcname] allait vous faire l'amour."
+    arj "Nous discutions justement de la façon dont [mcname] allait te faire l'amour."
 
 # game/code/d16/d16s08.rpy:252
 translate french d16s08_9271e0af:
@@ -512,7 +512,7 @@ translate french d16s08_1f426f2d:
 translate french d16s08_1ae263e8:
 
     # arj "Anyone else come to mind?"
-    arj "Quelqu'un d'autre vous vient à l'esprit?"
+    arj "Quelqu'un d'autre te vient à l'esprit?"
 
 # game/code/d16/d16s08.rpy:295
 translate french d16s08_11b0942a:
@@ -692,7 +692,7 @@ translate french d16s08_def0ad19:
 translate french d16s08_953a7158:
 
     # sy "I checked it. I double checked it. I even double checked the hardware and software."
-    sy "Je l'ai vérifié. Je l'ai revérifié. J'ai même revérifié le matériel et les logiciels."
+    sy "Je l'ai vérifiée. Je l'ai revérifiée. J'ai même revérifiée le matériel et les logiciels."
 
 # game/code/d16/d16s08.rpy:382
 translate french d16s08_63aa7fd1:
@@ -740,7 +740,7 @@ translate french d16s08_f978479e:
 translate french d16s08_8b4917bf:
 
     # arj "I'll promise you, Stacy. I guarantee he'll log some data points tonight."
-    arj "Je te le promets, Stacy. Je te garantis qu'il enregistrera quelques points de données ce soir."
+    arj "Je te le promets, Stacy. Je te garanties qu'il enregistrera quelques points de données ce soir."
 
 # game/code/d16/d16s08.rpy:407
 translate french d16s08_7e4e9101:
@@ -758,7 +758,7 @@ translate french d16s08_193b1787:
 translate french d16s08_e6f389ef:
 
     # arj "Reeeaaaalllly? {w}What did you get up to today, [mcname]?"
-    arj "Reeeaaaally? {w}Qu'as-tu fait aujourd'hui, [mcname]?"
+    arj "Vraiment? {w}Qu'as-tu fait aujourd'hui, [mcname]?"
 
 # game/code/d16/d16s08.rpy:416
 translate french d16s08_e14609a8:
@@ -812,7 +812,7 @@ translate french d16s08_94507c05:
 translate french d16s08_497147a5:
 
     # arj "Never use the word, \"just\". If anything was \"just\" as easy as you think then it would be done already."
-    arj "N'utilisez jamais le mot \"juste\". Si quelque chose était \"juste\" aussi simple que vous le pensez, ce serait déjà fait."
+    arj "N'utilisez jamais le mot \"juste\". Si quelque chose était \"juste\" aussi simple que tu le penses, ce serait déjà fait."
 
 # game/code/d16/d16s08.rpy:441
 translate french d16s08_0031a960:
@@ -842,7 +842,7 @@ translate french d16s08_c174a290:
 translate french d16s08_e4c94bee:
 
     # arj "My house. {w}We'll get you some more data points before bedtime."
-    arj "Ma maison. {w}Nous vous fournirons quelques points de données supplémentaires avant de vous coucher."
+    arj "Ma maison. {w}Nous te fournirons quelques points de données supplémentaires avant de vous coucher."
 
 # game/code/d16/d16s08.rpy:460
 translate french d16s08_ac209658:
@@ -872,7 +872,7 @@ translate french d16s08_fbb696ac:
 translate french d16s08_bbfcccfa:
 
     # sy "Love you both."
-    sy "Je vous aime tous les deux."
+    sy "Je vous aimes tous les deux."
 
 # game/code/d16/d16s08.rpy:475
 translate french d16s08_81a4e083:
