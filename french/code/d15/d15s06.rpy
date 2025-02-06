@@ -38,7 +38,7 @@ translate french d15s06_c2ffbd64:
 translate french d15s06_b6e04664:
 
     # mh "Glad to hear. I'm coming to pick you up right now."
-    mh "Ravi de l'entendre. Je viens te chercher tout de suite."
+    mh "Ravie de l'entendre. Je viens te chercher tout de suite."
 
 # game/code/d15/d15s06.rpy:95
 translate french d15s06_eb834df9:
@@ -50,7 +50,7 @@ translate french d15s06_eb834df9:
 translate french d15s06_197edeec:
 
     # mh "Yes. Don't worry about dressing up. You'll be fine as is."
-    mh "Attends, quoi? Tout de suite?"
+    mh "Oui. Ne t'inquiétes pas de t'habiller. Tout ira bien comme ça?"
 
 # game/code/d15/d15s06.rpy:100
 translate french d15s06_2cec29e2:
@@ -68,7 +68,7 @@ translate french d15s06_1c6493e1:
 translate french d15s06_88e263ac:
 
     # mc "Oh, I went out for a bit.{w} I am sending my location."
-    mc "Oh, je suis sorti un peu.{w} J'envoie ma position."
+    mc "Oh, je suis de sortie.{w} Je t'envoie ma position."
 
 # game/code/d15/d15s06.rpy:108
 translate french d15s06_9b3d54a1:
