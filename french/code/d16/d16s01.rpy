@@ -14,7 +14,7 @@ translate french d16s01_a20cefa7:
 translate french d16s01_a9a0ec0c:
 
     # sy "99 dastardly bugs in the code, 99 dastardly bugs. Take one down, patch it around, 110 dastardly bugs in the code..."
-    sy "99 bugs ignobles dans le code, 99 bugs ignobles. Supprimez-en un, corrigez-le, 110 bugs ignobles dans le code..."
+    sy "99 bugs ignobles dans le code, 99 bugs ignobles. Supprimes-en un, corrige-le, 110 bugs ignobles dans le code..."
 
 # game/code/d16/d16s01.rpy:39
 translate french d16s01_a20cefa7_1:
@@ -62,7 +62,7 @@ translate french d16s01_8d0c707d:
 translate french d16s01_71399fd5:
 
     # sy "Oh, would you look at that. The man of the hour is awake as well. Perfect timing."
-    sy "Oh, pourriez-vous regarder ça. L'homme du moment est également réveillé. Le timing est parfait."
+    sy "Oh, peux-tu regarder ça. L'homme du moment est également réveillé. Le timing est parfait."
 
 # game/code/d16/d16s01.rpy:104
 translate french d16s01_e205fc38:
@@ -80,13 +80,13 @@ translate french d16s01_887e498b:
 translate french d16s01_fa532572:
 
     # sy "Yes we did!"
-    sy "Oui, nous l'avons fait!"
+    sy "non, nous l'avons pas fait!"
 
 # game/code/d16/d16s01.rpy:113
 translate french d16s01_47876170:
 
     # arj "We were too hyped up to sleep. So we decided to put that energy to use and keep working on the thing."
-    arj "Nous étions trop excités pour dormir. Nous avons donc décidé d'utiliser cette énergie et de continuer à travailler sur ce sujet."
+    arj "Nous étions trop excitées pour dormir. Nous avons donc décidée d'utiliser cette énergie et de continuer à travailler sur ce sujet."
 
 # game/code/d16/d16s01.rpy:116
 translate french d16s01_0f2e2912:
@@ -152,7 +152,7 @@ translate french d16s01_132b1d8b:
 translate french d16s01_fb49e021:
 
     # sy "Right."
-    sy "Droit."
+    sy "Très bien."
 
 # game/code/d16/d16s01.rpy:153
 translate french d16s01_b2e194ca:
@@ -170,7 +170,7 @@ translate french d16s01_a01d0df1:
 translate french d16s01_aa80ef70:
 
     # sy "Give me your phone."
-    sy "Donnez-moi votre téléphone."
+    sy "Donne-moi ton téléphone."
 
 # game/code/d16/d16s01.rpy:161
 translate french d16s01_f713aeb6:
@@ -182,7 +182,7 @@ translate french d16s01_f713aeb6:
 translate french d16s01_f7160c32:
 
     # sy "Let's find out."
-    sy "Découvreons."
+    sy "Découvreons-le."
 
 # game/code/d16/d16s01.rpy:170
 translate french d16s01_567ca41f:
@@ -200,19 +200,19 @@ translate french d16s01_04ba50c3:
 translate french d16s01_5bb29158:
 
     # sy "I connected your phone to the Fetish-Locator-Locator-Inator™ network."
-    sy "J'ai connecté votre téléphone au réseau Fetish-Locator-Locator-Inator™."
+    sy "J'ai connecté ton téléphone au réseau Fetish-Locator-Locator-Inator™."
 
 # game/code/d16/d16s01.rpy:177
 translate french d16s01_d53b0e53:
 
     # sy "Basically, Fetish-Locator-Locator-Inator™ allows you to use and connect to the internet, but all traffic that you send and receive gets logged into it."
-    sy "Fondamentalement, Fetish-Locator-Locator-Inator™ vous permet d'utiliser et de vous connecter à Internet, mais tout le trafic que vous envoyez et recevez y est connecté."
+    sy "Fondamentalement, Fetish-Locator-Locator-Inator™ te permet d'utiliser et de te connecter à Internet, mais tout le trafic que te envoyes et reçois y est connecté."
 
 # game/code/d16/d16s01.rpy:179
 translate french d16s01_0b0f857f:
 
     # sy "Meaning that when Fetish Locator sends anything to you or receives anything from you, the Fetish-Locator-Locator-Inator™ secretly writes all that info down."
-    sy "Cela signifie que lorsque Fetish Locator vous envoie ou reçoit quelque chose de votre part, Fetish-Locator-Locator-Inator™ écrit secrètement toutes ces informations."
+    sy "Cela signifie que lorsque Fetish Locator t'envoie ou reçoit quelque chose de ta part, Fetish-Locator-Locator-Inator™ écrit secrètement toutes ces informations."
 
 # game/code/d16/d16s01.rpy:180
 translate french d16s01_34351075:
@@ -284,13 +284,13 @@ translate french d16s01_a278c733:
 translate french d16s01_f626f797:
 
     # sy "Pish, have at least a {i}little{/i} confidence in us, [mcname]."
-    sy "Pish, aie au moins {i}un peu{/i} confiance en nous, [mcname]."
+    sy "Pfff, aie au moins {i}un peu{/i} confiance en nous, [mcname]."
 
 # game/code/d16/d16s01.rpy:212
 translate french d16s01_e4faede9:
 
     # sy "This is what I was working on all night long."
-    sy "C'est sur cela que j'ai travaillé toute la nuit."
+    sy "C'est sur cela que j'ai travaillée toute la nuit."
 
 # game/code/d16/d16s01.rpy:214
 translate french d16s01_b1ae83f7:
@@ -368,7 +368,7 @@ translate french d16s01_e2008202:
 translate french d16s01_e31627a6:
 
     # mc "So we should try to give it as much as we can first."
-    mc "Nous devrions donc d'abord essayer de donner autant que possible."
+    mc "Nous devrions donc d'abord essayer de lui en donner autant que possible."
 
 # game/code/d16/d16s01.rpy:244
 translate french d16s01_9fd9f3f2:
@@ -398,7 +398,7 @@ translate french d16s01_42ddb90f:
 translate french d16s01_0733307d:
 
     # arj "So, complete challenges, buy stuff, and just interact with Fetish Locator as much as you can I suppose."
-    arj "Alors, relevez des défis, achetez des trucs et interagissez avec Fetish Locator autant que vous le pouvez, je suppose."
+    arj "Alors, releves des défis, achetes des trucs et interagis avec Fetish Locator autant que tu le peux, je suppose."
 
 # game/code/d16/d16s01.rpy:254
 translate french d16s01_4898b166:
@@ -428,7 +428,7 @@ translate french d16s01_ae03c62f:
 translate french d16s01_05da6f3d:
 
     # sy "I'm sure you have plenty of other...{i}instruments{/i} that you can use to make it work."
-    sy "Je suis sûr que vous disposez de nombreux autres...{i}instruments{/i} que vous pouvez utiliser pour que cela fonctionne."
+    sy "Je suis sûr que tu disposes de nombreux autres...{i}instruments{/i} que tu pourrais utiliser pour que cela fonctionne."
 
 # game/code/d16/d16s01.rpy:268
 translate french d16s01_577fe339:
@@ -464,7 +464,7 @@ translate french d16s01_824c8852:
 translate french d16s01_3b88d080:
 
     # mc "I need to wash up first though. Can you wait for me?"
-    mc "Mais je dois d'abord me laver. Pouvez-vous m'attendre?"
+    mc "Mais je dois d'abord me laver. Peux-tu m'attendre?"
 
 # game/code/d16/d16s01.rpy:285
 translate french d16s01_58678aea:
