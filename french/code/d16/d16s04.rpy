@@ -98,7 +98,7 @@ translate french d16s04_617f9817:
 translate french d16s04_9a3a7b2d:
 
     # mes "And you're right, for the most part. I'm not big into books. I want to do stuff, not read about people doing stuff."
-    mes "Et tu as raison, pour l'essentiel. Je ne suis pas un grand amateur de livres. Je veux faire des trucs, pas lire sur les gens qui font des trucs."
+    mes "Et tu as raison, pour l'essentiel. Je ne suis pas un grande amatrice de livres. Je veux faire des trucs, pas lire sur les gens qui font des trucs."
 
 # game/code/d16/d16s04.rpy:81
 translate french d16s04_1eb783f0:
@@ -188,7 +188,7 @@ translate french d16s04_37f88c26:
 translate french d16s04_727efb9b:
 
     # mes "...Read it to you?"
-    mes "... Je te l'ai lu?"
+    mes "... Je te le lis?"
 
 # game/code/d16/d16s04.rpy:114
 translate french d16s04_0446baf7:
@@ -212,7 +212,7 @@ translate french d16s04_770c339e:
 translate french d16s04_6f0962be:
 
     # mc "Three, imagine us on the roof of your place with a nice bottle of wine and some cheese, reading under the stars. That sounds like a pretty amazing time to me."
-    mc "Troisièmement, imaginez-nous sur le toit de chez vous avec une bonne bouteille de vin et du fromage, en train de lire sous les étoiles. Cela me semble être un moment assez incroyable."
+    mc "Troisièmement, imagines-nous sur le toit de chez vous avec une bonne bouteille de vin et du fromage, en train de lire sous les étoiles. Cela me semble être un moment assez incroyable."
 
 # game/code/d16/d16s04.rpy:122
 translate french d16s04_e01d7967:
@@ -248,7 +248,7 @@ translate french d16s04_c1a03056:
 translate french d16s04_0c24fc52:
 
     # mc "I was wondering if you'd be down to help me study?{w} If it's not a bother."
-    mc "Je me demandais si tu serais prêt à m'aider à étudier?{w} Si ce n'est pas un problème."
+    mc "Je me demandais si tu serais prête à m'aider à étudier?{w} Si ce n'est pas un problème."
 
 # game/code/d16/d16s04.rpy:136
 translate french d16s04_366a8bf5:
@@ -326,7 +326,7 @@ translate french d16s04_a9bf6c3e:
 translate french d16s04_345e5edc:
 
     # kb "Moneybags my ass. It pays like dogshit."
-    kb "C'est de l'argent qui me met dans le cul. Ça rapporte comme de la merde."
+    kb "Moneybags mon cul. Ça rapporte presque rien."
 
 # game/code/d16/d16s04.rpy:178
 translate french d16s04_a3c3928e:
@@ -398,7 +398,7 @@ translate french d16s04_d0d3fcff:
 translate french d16s04_36037676:
 
     # mc "...Right."
-    mc "...Droit."
+    mc "...très bien."
 
 # game/code/d16/d16s04.rpy:206
 translate french d16s04_3449f278:
@@ -506,7 +506,8 @@ translate french d16s04_e8c5af83:
 translate french d16s04_fc6ccd1f:
 
     # kb "A day's gon' come where you have to suck a creampie—maybe even your own, I ain't judging—from the ass and/or pussy of a person you love, and I want you to remember your old pal Kevo when it happens."
-    kb "Un jour va venir où tu devras sucer un creampie, peut-être même le tien, je ne juge pas - du cul et/ou de la chatte d'une personne que tu aimes, et je veux que tu te souviennes de ton vieux copain Kevo quand ça arrivera."
+    kb "Un jour viendra où tu devras sucer un creampie, peut-être même le tien, je ne juge pas - du cul et/ou de la chatte d'une personne que tu aimes, et je veux que tu te souviennes de ton vieux copain Kevo quand ça arrivera."
+
 # game/code/d16/d16s04.rpy:244
 translate french d16s04_7c3a755d:
 
@@ -679,13 +680,13 @@ translate french d16s04_fca52711:
 translate french d16s04_0b3991e2:
 
     # kb "Well, FL has a thing called \"Gold Stars.\" Basically, if you do some wild fetishey thing, you have a chance to get one."
-    kb "Eh bien, FL a un truc appelé \"Etoile d'Or\". En gros, si vous faites un truc fétichiste sauvage, vous avez une chance d'en obtenir un."
+    kb "Eh bien, FL a un truc appelé \"Etoile d'Or\". En gros, si tu fais un truc fétichiste sauvage, tu auras une chance d'en obtenir une."
 
 # game/code/d16/d16s04.rpy:322
 translate french d16s04_deb4948d:
 
     # kb "The main criteria is that what you're doing has to be pretty unique and out there."
-    kb "Le principal critère est que ce que vous faites doit être assez unique et original."
+    kb "Le principal critère est que ce que te fais doit être assez unique et original."
 
 # game/code/d16/d16s04.rpy:323
 translate french d16s04_bf750554:
@@ -697,13 +698,13 @@ translate french d16s04_bf750554:
 translate french d16s04_35cde387:
 
     # mc "And you got one for felching Chloe?"
-    mc "Et tu en as un pour avoir tété Chloé?"
+    mc "Et tu en as une pour avoir tété Chloé?"
 
 # game/code/d16/d16s04.rpy:329
 translate french d16s04_c68fbcba:
 
     # mc "And you got one with Chloe?"
-    mc "Et tu en as un avec Chloé?"
+    mc "Et tu en as une avec Chloé?"
 
 # game/code/d16/d16s04.rpy:330
 translate french d16s04_2ff9bd83:
@@ -721,7 +722,7 @@ translate french d16s04_c1b16753:
 translate french d16s04_1526c621:
 
     # kb "It seems pretty interesting, said something about how you can restore daily streaks with it. Oh, you get cool badges and profile customization stuff. Discounts in the shop. Higher priority on any ads you post. Stuff like that."
-    kb "Cela semble assez intéressant, j'ai dit quelque chose sur la façon dont vous pouvez restaurer des séquences quotidiennes avec. Oh, vous obtenez des badges sympas et des trucs de personnalisation de profil. Des réductions dans la boutique. Une priorité plus élevée sur toutes les annonces que vous publiez etc...."
+    kb "Cela semble assez intéressant, j'ai dit quelque chose sur la façon dont tu peux restaurer des séquences quotidiennes avec. Oh, tu obtiens des badges sympas et des trucs de personnalisation de profil. Des réductions dans la boutique. Une priorité plus élevée sur toutes les annonces que vous publiez etc...."
 
 # game/code/d16/d16s04.rpy:338
 translate french d16s04_5693a819:
@@ -745,7 +746,7 @@ translate french d16s04_694ebda1:
 translate french d16s04_3d8d5fdd:
 
     # mct "It seems like the Gold Stars for the retention program was a beta test of sorts."
-    mct "Il semble que les Gold Stars pour le programme de rétention étaient une sorte de test bêta."
+    mct "Il semble que les Étoiles d'Or pour le programme de rétention étaient une sorte de test bêta."
 
 # game/code/d16/d16s04.rpy:348
 translate french d16s04_cb724e06:
@@ -763,7 +764,7 @@ translate french d16s04_637b7c7b:
 translate french d16s04_92e0675f:
 
     # mct "FL told me that I can use the Gold Stars to skip the punishment, but maybe that has changed now?"
-    mct "FL m'a dit que je pouvais utiliser les Gold Stars pour éviter la punition, mais peut-être que cela a changé maintenant?"
+    mct "FL m'a dit que je pouvais utiliser les Étoiles d'Or pour éviter la punition, mais peut-être que cela a changé maintenant?"
 
 # game/code/d16/d16s04.rpy:357
 translate french d16s04_f0193a30:
@@ -848,6 +849,7 @@ translate french d16s04_0c7bd4c0:
 
     # mct "Wait... Should I do this later tonight or right now?"
     mct "Attends... Dois-je faire ça plus tard ce soir ou maintenant?"
+
 # game/code/d16/d16s04.rpy:397
 translate french d16s04_f2e2abd3:
 
@@ -924,7 +926,7 @@ translate french d16s04_c6fdd931:
 translate french d16s04_a72857c3:
 
     # mc "You talking about the Gold Stars made me think and uh... yep."
-    mc "Tu parles des Etoiles d'Or m'a fait réfléchir et euh... ouais."
+    mc "Tu parles des Etoiles d'Or, ça m'a fait réfléchir et euh... ouais."
 
 # game/code/d16/d16s04.rpy:445
 translate french d16s04_579a9020:
