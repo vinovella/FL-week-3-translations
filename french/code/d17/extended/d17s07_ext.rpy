@@ -14,7 +14,7 @@ translate french d17s07_ext_cb7a1173:
 translate french d17s07_ext_193fc34b:
 
     # mct "Jessie has never sent me a text like that before."
-    mct "Jessie ne m'a jamais envoyé un texto comme celui-là auparavant."
+    mct "Jessie ne m'a jamais envoyé un texto comme celui-ci auparavant."
 
 # game/code/d17/extended/d17s07_ext.rpy:63
 translate french d17s07_ext_b57d7645:
@@ -26,7 +26,7 @@ translate french d17s07_ext_b57d7645:
 translate french d17s07_ext_66f22b41:
 
     # jf "Oh [mcname]. You are here."
-    jf "Oh [mcname]. Vous êtes là."
+    jf "Oh [mcname]. Tu es là."
 
 # game/code/d17/extended/d17s07_ext.rpy:67
 translate french d17s07_ext_571843c0:
@@ -80,7 +80,7 @@ translate french d17s07_ext_dfac120e:
 translate french d17s07_ext_4932cce5:
 
     # jf "Tell me."
-    jf "Dites-moi."
+    jf "Dit-moi."
 
 # game/code/d17/extended/d17s07_ext.rpy:106
 translate french d17s07_ext_0ed3abc5:
@@ -104,7 +104,7 @@ translate french d17s07_ext_d92439d9:
 translate french d17s07_ext_154a2834:
 
     # jf "I'm glad. I'm really, really glad."
-    jf "Je suis content. Je suis vraiment, vraiment content."
+    jf "Je suis contente. Je suis vraiment, vraiment contente."
 
 # game/code/d17/extended/d17s07_ext.rpy:134
 translate french d17s07_ext_59b53974:
@@ -248,7 +248,7 @@ translate french d17s07_ext_d6f01205:
 translate french d17s07_ext_63fc1ff1:
 
     # jf "It's just that thinking back on every moment we've been together. I've been in a mask."
-    jf "C'est juste en repensant à chaque instant que nous avons passé ensemble. J'étais masqué."
+    jf "C'est juste en repensant à chaque instant que nous avons passé ensemble. J'étais masquée."
 
 # game/code/d17/extended/d17s07_ext.rpy:347
 translate french d17s07_ext_fc856abc:
@@ -362,7 +362,7 @@ translate french d17s07_ext_1914c827:
 translate french d17s07_ext_d98f7d81:
 
     # jf "I think I'm in love with you, [mcname]. And I'm really scared."
-    jf "Je pense que je suis amoureux de toi, [mcname]. Et j'ai vraiment peur."
+    jf "Je pense que je suis amoureuse de toi, [mcname]. Et j'ai vraiment peur."
 
 # game/code/d17/extended/d17s07_ext.rpy:398
 translate french d17s07_ext_df2093b4:
@@ -434,7 +434,7 @@ translate french d17s07_ext_77c50657:
 translate french d17s07_ext_30c9edb8:
 
     # jf "I was just...really excited."
-    jf "J'étais juste... vraiment excité."
+    jf "J'étais juste... vraiment excitée."
 
 # game/code/d17/extended/d17s07_ext.rpy:443
 translate french d17s07_ext_337f794f:
@@ -494,7 +494,7 @@ translate french d17s07_ext_2f9b64c6:
 translate french d17s07_ext_709ab2b7:
 
     # jf "I wasn't sure at first, but I thought about it some more and, yeah, I think it's great!"
-    jf "Je n'étais pas sûr au début, mais j'y ai réfléchi encore et, oui, je trouve ça génial!"
+    jf "Je n'étais pas sûr au début, mais j'y ai réfléchie encore et, oui, je trouve ça génial!"
 
 # game/code/d17/extended/d17s07_ext.rpy:467
 translate french d17s07_ext_5daa645e:
@@ -512,7 +512,7 @@ translate french d17s07_ext_e4c75b8a:
 translate french d17s07_ext_87986acb:
 
     # mc "That sounds great. I can help you look into the tax situation and get—"
-    mc "Ça a l'air génial. Je peux vous aider à examiner la situation fiscale et à obtenir—"
+    mc "Ça a l'air génial. Je peux t'aider à examiner la situation fiscale et à obtenir—"
 
 # game/code/d17/extended/d17s07_ext.rpy:478
 translate french d17s07_ext_29373da5:
