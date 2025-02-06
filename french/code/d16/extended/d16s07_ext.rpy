@@ -38,7 +38,7 @@ translate french d16s07_ext_09b2beec:
 translate french d16s07_ext_8ec33342:
 
     # jf "*Neighing noises*"
-    jf "*Hennissements*"
+    jf "*Bruits de hennissement*"
 
 # game/code/d16/extended/d16s07_ext.rpy:82
 translate french d16s07_ext_2b0b7b0e:
@@ -110,13 +110,13 @@ translate french d16s07_ext_e72285f8:
 translate french d16s07_ext_2165a5e2:
 
     # mc "But I'm not sure how much more I could help. You seem to be doing a good enough job of it yourself."
-    mc "Mais je ne suis pas sûr de pouvoir aider davantage. Vous semblez faire du bon travail vous-même."
+    mc "Mais je ne suis pas sûr de pouvoir aider davantage. Tu sembles faire du bon travail toi-même."
 
 # game/code/d16/extended/d16s07_ext.rpy:133
 translate french d16s07_ext_0bef3d81:
 
     # jf "Think about it! This is just with little ol' me. Solo. But I want to expand!"
-    jf "Pensez-y! C'est juste avec mon petit vieux moi. Solo. Mais je veux m'étendre!"
+    jf "Penses-y! C'est juste avec mon petit vieux moi, Solo. Mais je veux élargir!"
 
 # game/code/d16/extended/d16s07_ext.rpy:134
 translate french d16s07_ext_c9d92f8b:
@@ -164,7 +164,7 @@ translate french d16s07_ext_59bc1df6:
 translate french d16s07_ext_0d2214f1:
 
     # mc "Hm... And you're making enough money at this point that forming a company would net you more by getting taxed less."
-    mc "Hm... Et vous gagnez suffisamment d'argent à ce stade pour que créer une entreprise vous rapporterait davantage en étant moins imposé."
+    mc "Hm... Et tu gagnes suffisamment d'argent à ce stade pour que tu crées une entreprise qui rapporterait davantage en étant moins imposé."
 
 # game/code/d16/extended/d16s07_ext.rpy:155
 translate french d16s07_ext_70121afd:
@@ -176,7 +176,7 @@ translate french d16s07_ext_70121afd:
 translate french d16s07_ext_613e3a1f:
 
     # jf "But! You helped me out, you made this happen in the first place. And you're a business major."
-    jf "Mais! Vous m'avez aidé, vous avez rendu cela possible en premier lieu. Et vous êtes un étudiant en affaires."
+    jf "Mais! Tu m'as aidé, tu as rendu cela possible en premier lieu. Et tu es un étudiant en affaires."
 
 # game/code/d16/extended/d16s07_ext.rpy:158
 translate french d16s07_ext_e956c468:
@@ -200,13 +200,13 @@ translate french d16s07_ext_8419eebc:
 translate french d16s07_ext_285a0d59:
 
     # mc "No, it's not like that. But I can't just jump on this either."
-    mc "Non, ce n'est pas comme ça. Mais je ne peux pas non plus me lancer là-dessus."
+    mc "Non, ce n'est pas comme ça. Mais je ne peux pas non plus me lancer là-dedans."
 
 # game/code/d16/extended/d16s07_ext.rpy:168
 translate french d16s07_ext_f3b951f6:
 
     # mc "Look. I'll absolutely help out with filing all the necessary forms and all that."
-    mc "Écoutez. Je vais absolument vous aider à remplir tous les formulaires nécessaires et tout ça."
+    mc "Écoute. Je veux absolument t'aider à remplir tous les formulaires nécessaires et tout ça."
 
 # game/code/d16/extended/d16s07_ext.rpy:171
 translate french d16s07_ext_c52e8bf6:
@@ -230,13 +230,13 @@ translate french d16s07_ext_35bad13a:
 translate french d16s07_ext_0132ec37:
 
     # mc "Great. Alright, well, I need some time to formulate a plan and see how to best get your name out there. See what we need to create a company and get the ball rolling."
-    mc "Super. Très bien, eh bien, j'ai besoin de temps pour formuler un plan et voir comment faire connaître au mieux votre nom. Voyez ce dont nous avons besoin pour créer une entreprise et lancer le bal."
+    mc "Super. Très bien, eh bien, j'ai besoin de temps pour formuler un plan et voir comment faire connaître au mieux ton nom. Vois ce dont tu as besoin pour créer une entreprise et lancer le bal."
 
 # game/code/d16/extended/d16s07_ext.rpy:181
 translate french d16s07_ext_221177c7:
 
     # jf "Agh! I'm so excited! Thank you, [mcname]."
-    jf "Agh! Je suis tellement excité! Merci, [mcname]."
+    jf "Agh! Je suis tellement excitée! Merci, [mcname]."
 
 # game/code/d16/extended/d16s07_ext.rpy:182
 translate french d16s07_ext_1e0901c9:
@@ -248,7 +248,7 @@ translate french d16s07_ext_1e0901c9:
 translate french d16s07_ext_2da3e5fd:
 
     # mc "Spit it out then."
-    mc "Crache-le alors."
+    mc "Crache-le morceau."
 
 # game/code/d16/extended/d16s07_ext.rpy:188
 translate french d16s07_ext_2a567508:
@@ -272,7 +272,7 @@ translate french d16s07_ext_47d19dd8:
 translate french d16s07_ext_71b8dc2c:
 
     # mc "*Chuckles* I think we're past the point of being embarrassed about this stuff, don't you think?"
-    mc "*Rires* Je pense que nous avons dépassé le point d'être gêné par tout ça, tu ne penses pas?"
+    mc "*Rires* Je pense que nous avons dépassé le point d'être gênés par tout ça, tu ne penses pas?"
 
 # game/code/d16/extended/d16s07_ext.rpy:200
 translate french d16s07_ext_42077b12:
@@ -332,7 +332,7 @@ translate french d16s07_ext_026d25ce:
 translate french d16s07_ext_3d967461:
 
     # jf "I'll figure something out. Sorry I asked."
-    jf "Je vais trouver une solution. Désolé d'avoir demandé."
+    jf "Je vais trouver une solution. Désolé d'avoir demandée."
 
 # game/code/d16/extended/d16s07_ext.rpy:227
 translate french d16s07_ext_1a800d87:
@@ -374,7 +374,7 @@ translate french d16s07_ext_f494676b:
 translate french d16s07_ext_1bedcab3:
 
     # jf "Be sure to come over once you're out of that pickle."
-    jf "Assurez-vous de venir une fois que vous n'aurez plus ce problème."
+    jf "Assures-toi de venir une fois que tu n'aura plus ce problème."
 
 # game/code/d16/extended/d16s07_ext.rpy:247
 translate french d16s07_ext_7b1f43ad:
@@ -398,7 +398,7 @@ translate french d16s07_ext_d083f9c0:
 translate french d16s07_ext_d50668ef:
 
     # mc "Are they paying you well?"
-    mc "Est-ce qu'ils vous paient bien?"
+    mc "Est-ce qu'ils te paient bien?"
 
 # game/code/d16/extended/d16s07_ext.rpy:272
 translate french d16s07_ext_2df688ed:
@@ -458,7 +458,7 @@ translate french d16s07_ext_f494676b_1:
 translate french d16s07_ext_e7191b61:
 
     # jf "Be sure to come over later. I'm sure I'll have something more up your alley."
-    jf "N'oubliez pas de revenir plus tard. Je suis sûr que j'aurai quelque chose de plus à vous proposer."
+    jf "N'oublie pas de revenir plus tard. Je suis sûr que j'aurai quelque chose de plus à te proposer."
 
 # game/code/d16/extended/d16s07_ext.rpy:298
 translate french d16s07_ext_7b1f43ad_1:
@@ -476,7 +476,7 @@ translate french d16s07_ext_451e94b8:
 translate french d16s07_ext_346cee80:
 
     # mc "If it'll help you out, I'm down."
-    mc "Si ça peut t'aider, je suis déprimé."
+    mc "Si ça peut t'aider, je suis en bas."
 
 # game/code/d16/extended/d16s07_ext.rpy:311
 translate french d16s07_ext_3e0eb0b8:
@@ -488,7 +488,7 @@ translate french d16s07_ext_3e0eb0b8:
 translate french d16s07_ext_8da21b95:
 
     # jf "I have a photographer friend that might be willing to help out with the shoot. Let me see if I can get her."
-    jf "J'ai un ami photographe qui pourrait vouloir m'aider pour la séance photo. Laissez-moi voir si je peux l'avoir."
+    jf "J'ai un ami photographe qui pourrait vouloir m'aider pour la séance photo. Laisse-moi voir si je peux l'avoir."
 
 # game/code/d16/extended/d16s07_ext.rpy:316
 translate french d16s07_ext_a4c34b21:
@@ -536,7 +536,7 @@ translate french d16s07_ext_28cd10bc:
 translate french d16s07_ext_be532628:
 
     # jf "{i}Oh, and wear something sexy.{/i} {w}{i}Slutty also works.{/i}"
-    jf "{i}Oh, et porte quelque chose de sexy.{/i} {w}{i}Slutty, ça marche aussi.{/i}"
+    jf "{i}Oh, et porte quelque chose de sexy.{/i} {w}{i}Salope, ça marche aussi.{/i}"
 
 # game/code/d16/extended/d16s07_ext.rpy:335
 translate french d16s07_ext_13cc03f4:
@@ -584,7 +584,7 @@ translate french d16s07_ext_4084853c:
 translate french d16s07_ext_055eb486:
 
     # mct "Holy..."
-    mct "Holy..."
+    mct "Sainte mère de..."
 
 # game/code/d16/extended/d16s07_ext.rpy:366
 translate french d16s07_ext_a5a6d074:
@@ -632,7 +632,7 @@ translate french d16s07_ext_85cccf97:
 translate french d16s07_ext_1363433c:
 
     # kv "*Giggles* Oh they were good alright."
-    kv "*Rires* Oh, ils étaient bien, d'accord."
+    kv "*Rires* Oh, elles étaient bonnes, d'accord."
 
 # game/code/d16/extended/d16s07_ext.rpy:388
 translate french d16s07_ext_db2e9cf0:
@@ -698,13 +698,13 @@ translate french d16s07_ext_ae302035:
 translate french d16s07_ext_30443ad9:
 
     # kv "Maybe [mcname] can smell her, grope her, build both your lusts."
-    kv "Peut-être que [mcname] peut la sentir, la peloter, développer vos deux désirs."
+    kv "Peut-être que [mcname] peut la sentir, la peloter, développer vos désirs."
 
 # game/code/d16/extended/d16s07_ext.rpy:422
 translate french d16s07_ext_0003d88e:
 
     # kv "And then he has enough and finally takes her in a passionate display."
-    kv "Et puis il en a assez et finalement l'emmène dans une démonstration passionnée."
+    kv "Et puis il en a assez et finalementn tu l'emmènes dans une démonstration passionnée."
 
 # game/code/d16/extended/d16s07_ext.rpy:425
 translate french d16s07_ext_23b58a28:
@@ -752,7 +752,7 @@ translate french d16s07_ext_6064d3e2:
 translate french d16s07_ext_71aca759:
 
     # kv "Don't forget her asshole!"
-    kv "N'oublie pas son connard!"
+    kv "N'oublie pas son cul!"
 
 # game/code/d16/extended/d16s07_ext.rpy:490
 translate french d16s07_ext_ad04bba8:
@@ -890,7 +890,7 @@ translate french d16s07_ext_ef226e7c:
 translate french d16s07_ext_a22b7892:
 
     # jf "Shut it, I know you'd enjoy it."
-    jf "Ferme-la, je sais que tu l'apprécierais."
+    jf "Ferme-la, je sais que tu l'apprécieras."
 
 # game/code/d16/extended/d16s07_ext.rpy:747
 translate french d16s07_ext_16093107:
