@@ -2,7 +2,7 @@
 translate french d18s05_ext_0d9b52ab:
 
     # mct "You spin me right 'round, baby right 'round, like a record, baby..."
-    mct "Tu me fais tourner en rond, bébé en rond, comme un disque, bébé..."
+    mct "Tu me fais tourner en rond, en rond, comme un disque, bébé..."
 
 # game/code/d18/extended/d18s05_ext.rpy:69
 translate french d18s05_ext_e88c3bd3:
@@ -20,7 +20,7 @@ translate french d18s05_ext_e36172dc:
 translate french d18s05_ext_2356b882:
 
     # sb "Look at what you just did! You got me all dirty."
-    sb "Regarde ce que tu viens de faire! Tu m'as sali."
+    sb "Regarde ce que tu viens de faire! Tu m'as salie."
 
 # game/code/d18/extended/d18s05_ext.rpy:104
 translate french d18s05_ext_57e77cd0:
@@ -230,7 +230,7 @@ translate french d18s05_ext_d06b3207:
 translate french d18s05_ext_28faf18e:
 
     # sb "Perfect."
-    sb "Parfait mec."
+    sb "Parfait."
 
 # game/code/d18/extended/d18s05_ext.rpy:228
 translate french d18s05_ext_0f97ddd9:
@@ -584,7 +584,7 @@ translate french d18s05_after_sex_7102ee2c:
 translate french d18s05_after_sex_0ded540c:
 
     # dw "And he's coming with you? How long have you two even been together?"
-    dw "Et il vient avec toi? Depuis combien de temps êtes-vous ensemble?"
+    dw "Et il va avec toi? Depuis combien de temps êtes-vous ensemble?"
 
 # game/code/d18/extended/d18s05_ext.rpy:625
 translate french d18s05_after_sex_fea7b848:
