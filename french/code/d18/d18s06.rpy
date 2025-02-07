@@ -356,7 +356,7 @@ translate french d18s06_c478c069:
 translate french d18s06_ca24c8f3:
 
     # hr "What do you mean, \" Nope?"
-    hr "Qu'est-ce que tu veux dire par \" Non\"?"
+    hr "Qu'est-ce que tu veux dire par \" Non?"
 
 # game/code/d18/d18s06.rpy:184
 translate french d18s06_0f89cf5e:
