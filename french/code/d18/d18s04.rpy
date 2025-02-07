@@ -146,7 +146,7 @@ translate french d18s04_8ed3894d:
 translate french d18s04_244040f6:
 
     # mc "Then you're going to lay there—naked, exposed, humiliated—and listen to her side of things."
-    mc "Alors tu vas rester allongé là, nue, exposé, humilié et écouter sa version des choses."
+    mc "Alors tu vas rester allongé là, nue, exposée, humiliée et écouter sa version des choses."
 
 # game/code/d18/d18s04.rpy:173
 translate french d18s04_81a63e96:
@@ -266,7 +266,7 @@ translate french d18s04_a264b887:
 translate french d18s04_226881f9:
 
     # aw "Hah! All these years and you had to be reduced to a blind and gagged piece of fuckmeat to actually {i}listen{/i} for one goddamn moment huh, Mom?"
-    aw "Hah! Toutes ces années et il a fallu que tu sois réduit à un morceau de viande aveugle et bâillonné pour réellement {i}écouter{/i} un putain de moment, hein, maman?"
+    aw "Hah! Toutes ces années et il a fallu que tu sois réduite à un morceau de viande aveugle et bâillonnée pour réellement {i}écouter{/i} un putain de moment, hein, maman?"
 
 # game/code/d18/d18s04.rpy:245
 translate french d18s04_02159c46:
@@ -350,7 +350,7 @@ translate french d18s04_ce476cfb:
 translate french d18s04_f5dca5e9:
 
     # aw "But I'm going to make you feel pain like you've never felt before."
-    aw "Mais je vais te faire ressentir une douleur comme tu n'en as jamais ressenti auparavant."
+    aw "Mais je vais te faire ressentir une douleur comme tu n'en as jamais ressentie auparavant."
 
 # game/code/d18/d18s04.rpy:290
 translate french d18s04_ac22123a:
@@ -944,7 +944,7 @@ translate french d18s04_3f017285:
 translate french d18s04_8fa2f449:
 
     # aw "I just... I want to be mad at you, but I'm so tired and spent, and just..."
-    aw "C'est juste... Je veux être en colère contre toi, mais je suis tellement fatigué et épuisé, et juste..."
+    aw "C'est juste... Je veux être en colère contre toi, mais je suis tellement fatiguée et épuisée, et juste..."
 
 # game/code/d18/d18s04.rpy:899
 translate french d18s04_a96466f7:
