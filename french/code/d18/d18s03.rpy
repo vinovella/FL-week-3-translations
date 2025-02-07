@@ -158,7 +158,7 @@ translate french d18s03_b697527e:
 translate french d18s03_45704880:
 
     # mes "We should study first. Then maybe we can get distracted by the meat you brought."
-    mes "On devrait étudier d'abord. Alors peut-être qu'on pourra se laisser distraire par la viande que tu as apportée."
+    mes "On devrait étudier d'abord. Alors peut-être qu'on pourra se laisser distraire par la saucisse que tu as apportée."
 
 # game/code/d18/d18s03.rpy:152
 translate french d18s03_43e0c08c:
@@ -182,7 +182,7 @@ translate french d18s03_bb823e8a:
 translate french d18s03_27191d71:
 
     # mes "Let's see. If I win, I fuck your brains out."
-    mes "Voyons voir. Si je gagne, je te fous la cervelle."
+    mes "Voyons voir. Si je gagne, je te retourne la cervelle."
 
 # game/code/d18/d18s03.rpy:164
 translate french d18s03_0a37a190:
@@ -194,7 +194,7 @@ translate french d18s03_0a37a190:
 translate french d18s03_a9034c72:
 
     # mes "Oh, no. If you win, you can do anything you want to me - and then I fuck your brains out."
-    mes "Oh, non. Si tu gagnes, tu peux me faire tout ce que tu veux, et ensuite je te fous la cervelle."
+    mes "Oh, non. Si tu gagnes, tu peux me faire tout ce que tu veux, et ensuite je te retourne la cervelle."
 
 # game/code/d18/d18s03.rpy:170
 translate french d18s03_34467054:
@@ -404,13 +404,13 @@ translate french d18s03_0ffb6638:
 translate french d18s03_106cfa2d:
 
     # mes "If n and p are both odd numbers, which of the following numbers must be an even number?"
-    mes "Si n et p sont tous deux des nombres impairs, lequel des nombres suivants doit être un nombre pair?"
+    mes "Si N et P sont tous deux des nombres impairs, lequel des nombres suivants doit être un nombre pair?"
 
 # game/code/d18/d18s03.rpy:290
 translate french d18s03_c0b7e7c8:
 
     # mc "If n and p are both odd numbers, then n plus p must be an even number."
-    mc "Si n et p sont tous deux des nombres impairs, alors n plus p doivent être un nombre pair."
+    mc "Si N et P sont tous deux des nombres impairs, alors N plus P doivent être un nombre pair."
 
 # game/code/d18/d18s03.rpy:293
 translate french d18s03_55f69be0:
@@ -422,7 +422,7 @@ translate french d18s03_55f69be0:
 translate french d18s03_29634f28:
 
     # mc "If n and p are both odd numbers, then n times p must be an even number."
-    mc "Si n et p sont tous deux des nombres impairs, alors n fois p doit être un nombre pair."
+    mc "Si N et P sont tous deux des nombres impairs, alors N fois P doit être un nombre pair."
 
 # game/code/d18/d18s03.rpy:301
 translate french d18s03_0ece7e56:
@@ -434,7 +434,7 @@ translate french d18s03_0ece7e56:
 translate french d18s03_a7e281de:
 
     # mc "Hmm... if n and p are both odd numbers, then n times p plus two must be even."
-    mc "Hmm... Si n et p sont tous deux des nombres impairs, alors n fois p plus deux doivent être pairs."
+    mc "Hmm... Si N et P sont tous deux des nombres impairs, alors N fois P plus deux doivent être pairs."
 
 # game/code/d18/d18s03.rpy:309
 translate french d18s03_42bc1c41:
@@ -446,7 +446,7 @@ translate french d18s03_42bc1c41:
 translate french d18s03_932b9a5c:
 
     # mc "If n and p are both odd numbers, then n plus p must be odd, so n plus p plus 1 must be even."
-    mc "Si n et p sont tous deux des nombres impairs, alors n plus p doit être impair, donc n plus p plus 1 doit être pair."
+    mc "Si N et P sont tous deux des nombres impairs, alors N plus P doit être impair, donc N plus P plus 1 doit être pair."
 
 # game/code/d18/d18s03.rpy:317
 translate french d18s03_2a8558e8:
@@ -530,7 +530,7 @@ translate french d18s03_3c285b10:
 translate french d18s03_1a7619cf:
 
     # mc "Oh, wait, that's CBT - Cock and Ball Torture."
-    mc "Oh, attends, c'est CBT - Cock and Ball Torture."
+    mc "Oh, attends, c'est TBC - Torture de la bite et des couilles."
 
 # game/code/d18/d18s03.rpy:365
 translate french d18s03_77b50799:
@@ -572,7 +572,7 @@ translate french d18s03_22d5a102:
 translate french d18s03_b3b0e397:
 
     # mc "Let's see...{w} Commercial...{w} Tax Based...{w} Tariff?"
-    mc "Voyons voir...{w} Commercial...{w} Tax Based...{w} Tarif?"
+    mc "Voyons voir...{w} Commercial...{w} Basé sur la taxe...{w} Tarif?"
 
 # game/code/d18/d18s03.rpy:393
 translate french d18s03_107d8b31:
@@ -662,7 +662,7 @@ translate french d18s03_ba40c75a:
 translate french d18s03_d3a642d7:
 
     # mes "Damn right I won!"
-    mes "C'est vrai, j'ai gagné!"
+    mes "C'est vrai, j'ai gagnée!"
 
 # game/code/d18/d18s03.rpy:465
 translate french d18s03_mc_victory_ae48e062:
@@ -914,7 +914,7 @@ translate french d18s03_watersports_12af64c5:
 translate french d18s03_watersports_9e493fa2:
 
     # mc "Not yet. GET. UP."
-    mc "Pas encore. OBTENEZ. Se pomponner."
+    mc "Pas encore."
 
 # game/code/d18/d18s03.rpy:654
 translate french d18s03_watersports_c9df1555:
@@ -1082,7 +1082,7 @@ translate french d18s03_sex_d504f190:
 translate french d18s03_sex_5a0026fb:
 
     # mes "It is a sex sling.{w} Are you ready for this?"
-    mes "C'est un harnais sexuelle.{w}  Tu es prêt pour ça?"
+    mes "C'est un harnais sexuelle.{w} Tu es prêt pour ça?"
 
 # game/code/d18/d18s03.rpy:776
 translate french d18s03_sex_4bea771d:
@@ -1094,7 +1094,7 @@ translate french d18s03_sex_4bea771d:
 translate french d18s03_sex_6d082a87:
 
     # mes "I expect that you will help me on that swing and fuck the every loving life out of me."
-    mes "J'espère que tu m'aideras sur ce machin et que tu me foutras toute ma vie hors de moi."
+    mes "J'espère que tu m'aideras sur ce machin et que tu foutras toute ma vie hors de moi."
 
 # game/code/d18/d18s03.rpy:782
 translate french d18s03_sex_d7c5c362:
@@ -1442,7 +1442,7 @@ translate french d18s03_sex_2034c056:
 translate french d18s03_sex_f736c0a1:
 
     # mes "That's fucking hot.{w} But seriously..."
-    mes "C'est putain de chaud.{w} Mais sérieusement..."
+    mes "Ca serai vraiment chaud.{w} Mais sérieusement..."
 
 # game/code/d18/d18s03.rpy:1072
 translate french d18s03_sex_b73ccbf7:
@@ -1454,7 +1454,7 @@ translate french d18s03_sex_b73ccbf7:
 translate french d18s03_sex_ac9e3733:
 
     # mes "That's fucking hot."
-    mes "C'est putain de très chaud."
+    mes "C'est vraiment très chaud."
 
 # game/code/d18/d18s03.rpy:1078
 translate french d18s03_sex_b2b9e19d:
