@@ -20,7 +20,7 @@ translate french d17s05_b8336e35:
 translate french d17s05_4f33068e:
 
     # mh "Are you free?"
-    mh "Êtes-vous libre?"
+    mh "Es-tu libre?"
 
 # game/code/d17/d17s05.rpy:49
 translate french d17s05_05e6ccd4:
@@ -38,7 +38,7 @@ translate french d17s05_e56699f9:
 translate french d17s05_e3619dc6:
 
     # mc "Come over? Hmm, but what oh what could we {i}possibly{/i} do together?"
-    mc "Viens? Hmm, mais que pourrions-nous {i}éventuellement{/i} faire ensemble?"
+    mc "Venir? Hmm, mais que pourrions-nous {i}éventuellement{/i} faire ensemble?"
 
 # game/code/d17/d17s05.rpy:58
 translate french d17s05_2818dd51:
@@ -68,13 +68,13 @@ translate french d17s05_5d6a8122:
 translate french d17s05_665f6e6f:
 
     # mh "Maybe you can bring someone else over as well. It's more the merrier when it comes to {i}board games{/i}, right? I wouldn't mind."
-    mh "Peut-être que vous pouvez aussi inviter quelqu'un d'autre. C'est plus on est de fous lorsqu'il s'agit de {i}jeux de société{/i}, n'est-ce pas? Cela ne me dérangerait pas."
+    mh "Peut-être que tu pourais aussi inviter quelqu'un d'autre. C'est plus on est de fous lorsqu'il s'agit de {i}jeux de société{/i}, n'est-ce pas? Cela ne me dérangerait pas."
 
 # game/code/d17/d17s05.rpy:74
 translate french d17s05_650388e7:
 
-    # mct "Whom should I invite?" nointeract
-    mct "Qui dois-je inviter?" nointeract
+    # mct "Whom should I invite?"
+    mct "Qui dois-je inviter?" 
 
 # game/code/d17/d17s05.rpy:82
 translate french d17s05_64cf29f2:
@@ -194,7 +194,7 @@ translate french d17s05_40a7e867:
 translate french d17s05_864608c0:
 
     # mc "Oliver? Sorry for the call out of nowhere."
-    mc "Oliver? Désolé pour l'appel venu de nulle part."
+    mc "Oliver? Désolé pour l'appel sortis de nul part."
 
 # game/code/d17/d17s05.rpy:151
 translate french d17s05_4dc2a32c:
@@ -230,7 +230,7 @@ translate french d17s05_523302ac:
 translate french d17s05_a003905d:
 
     # mc "Well, Lyssa said she'd be fine with someone else tagging along, so I thought why not you?"
-    mc "Eh bien, Lyssa a dit qu'elle accepterait que quelqu'un d'autre la suive, alors je me suis dit, pourquoi pas toi?"
+    mc "Eh bien, Lyssa a dit qu'elle accepterait que quelqu'un d'autre me suive, alors je me suis dit, pourquoi pas toi?"
 
 # game/code/d17/d17s05.rpy:167
 translate french d17s05_beebcd8c:
@@ -290,13 +290,13 @@ translate french d17s05_113cd47c:
 translate french d17s05_24319d89:
 
     # mc "And your first thought was to jump to {i}death{/i}?"
-    mc "Et votre première pensée a été de sauter vers la {i}mort{/i}?"
+    mc "Et ta première pensée a été QUI EST {i}MORT{/i}?"
 
 # game/code/d17/d17s05.rpy:207
 translate french d17s05_d62c9a92:
 
     # sy "I dunno man. It's your fault for calling when you could've just as easily sent a text."
-    sy "Je ne sais pas mec. C'est de ta faute si tu as appelé alors que tu aurais tout aussi bien pu envoyer un SMS."
+    sy "Je ne sais pas mec. C'est de ta faute, si tu as appelé alors que tu aurais tout aussi bien pu envoyer un SMS."
 
 # game/code/d17/d17s05.rpy:210
 translate french d17s05_beaa3d79:
@@ -332,13 +332,13 @@ translate french d17s05_7be27f7e:
 translate french d17s05_300d8de6:
 
     # mc "Alright then. Get ready, I'll pick you up—"
-    mc "Très bien alors. Préparez-vous, je viendrai vous chercher—"
+    mc "Très bien alors. Prépares-toi, je viens te chercher—"
 
 # game/code/d17/d17s05.rpy:226
 translate french d17s05_def5f643:
 
     # mct "She dropped the call before I could even finish my damn sentence."
-    mct "Elle a raccroché l'appel avant même que je puisse finir ma foutue phrase."
+    mct "Elle a raccrochéer l'appel avant même que je puisse finir ma foutue phrase."
 
 translate french strings:
 
