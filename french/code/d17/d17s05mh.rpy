@@ -14,19 +14,19 @@ translate french d17s05mh_5dfb1f09:
 translate french d17s05mh_ae7906b9:
 
     # mc "Have you been a good girl while I was away?"
-    mc "As-tu été une bonne fille pendant mon absence?"
+    mc "As-tu étais une bonne fille pendant mon absence?"
 
 # game/code/d17/d17s05mh.rpy:106
 translate french d17s05mh_afef87c8:
 
     # mh "I've been very naughty. I wasn't very patient at all."
-    mh "J'ai été très méchante. Je n'ai pas été très patiente du tout."
+    mh "J'ai étais très méchante. Je n'ai pas étais très patiente du tout."
 
 # game/code/d17/d17s05mh.rpy:109
 translate french d17s05mh_3b9f4fb8:
 
     # mc "Oh? And how {i}exactly{/i} weren't you patient, hm?"
-    mc "Oh? Et comment {i}exactement{/i} n'as-tu pas été patiente, hein?"
+    mc "Oh? Et comment {i}exactement{/i} n'as-tu pas étais patiente, hein?"
 
 # game/code/d17/d17s05mh.rpy:112
 translate french d17s05mh_768aa326:
@@ -44,13 +44,13 @@ translate french d17s05mh_fb5c228d:
 translate french d17s05mh_360413aa:
 
     # mh "How it felt to be in your arms."
-    mh "Qu'est-ce que ça fait d'être dans tes bras."
+    mh "Qu'est-ce que ça fait d'être dans mes bras."
 
 # game/code/d17/d17s05mh.rpy:118
 translate french d17s05mh_a3048b2c:
 
     # mh "How it felt to feel your warmth."
-    mh "Qu'est-ce que ça fait de sentir ta chaleur."
+    mh "Qu'est-ce que ça fait de sentir ma chaleur."
 
 # game/code/d17/d17s05mh.rpy:119
 translate french d17s05mh_f54178c1:
@@ -68,13 +68,13 @@ translate french d17s05mh_8d9227bf:
 translate french d17s05mh_9cac6dd8:
 
     # mh "I should get punished."
-    mh "Je devrais être puni."
+    mh "Je devrais être punie."
 
 # game/code/d17/d17s05mh.rpy:127
 translate french d17s05mh_4cb69df0:
 
     # mc "Oh? You {i}want{/i} to get punished?"
-    mc "Oh? Vous {i}voulez{/i} être puni?"
+    mc "Oh? Tu {i}veux{/i} être punie?"
 
 # game/code/d17/d17s05mh.rpy:128
 translate french d17s05mh_eb2382c8:
@@ -92,7 +92,7 @@ translate french d17s05mh_ae8f1760:
 translate french d17s05mh_7f26ea0b:
 
     # mh "I've really missed you. It's not as fun as it used to be to have the house all to myself."
-    mh "Tu m'as vraiment manqué. Ce n'est plus aussi amusant qu'avant d'avoir la maison pour moi tout seul."
+    mh "Tu m'as vraiment manqué. Ce n'est plus aussi amusant qu'avant d'avoir la maison pour moi toute seul."
 
 # game/code/d17/d17s05mh.rpy:136
 translate french d17s05mh_dcdc0120:
@@ -110,13 +110,13 @@ translate french d17s05mh_9b5b3ef6:
 translate french d17s05mh_9406d1b3:
 
     # mh "Give me a second. I have got something for you."
-    mh "Donnez-moi une seconde. J'ai quelque chose pour vous."
+    mh "Donne-moi une seconde. J'ai quelque chose pour toi."
 
 # game/code/d17/d17s05mh.rpy:172
 translate french d17s05mh_2e9df3de:
 
     # mh "Do you like it?"
-    mh "Aimez-vous?"
+    mh "Aimes-tu?"
 
 # game/code/d17/d17s05mh.rpy:174
 translate french d17s05mh_50509e15:
@@ -128,13 +128,13 @@ translate french d17s05mh_50509e15:
 translate french d17s05mh_98993dee:
 
     # mc "Well? Come on. {w}You {i}do{/i} need to be punished still."
-    mc "Eh bien? Allez. {w}Vous {i}avez{/i} encore besoin d'être puni."
+    mc "Eh bien? Allez. {w}Tu {i}as{/i} encore besoin d'être punie."
 
 # game/code/d17/d17s05mh.rpy:180
 translate french d17s05mh_9316b739:
 
     # mc "You're being such a good obedient girl for me right now. But you still need to be punished, don't you?"
-    mc "Tu es une si bonne fille obéissante pour moi en ce moment. Mais tu as quand même besoin d'être puni, n'est-ce pas?"
+    mc "Tu es une si bonne fille obéissante pour moi en ce moment. Mais tu as quand même besoin d'être punie, n'est-ce pas?"
 
 # game/code/d17/d17s05mh.rpy:183
 translate french d17s05mh_ee046721:
@@ -146,7 +146,7 @@ translate french d17s05mh_ee046721:
 translate french d17s05mh_2d75e991:
 
     # mh "Please, more, Sir."
-    mh "S'il vous plaît, plus, Monsieur."
+    mh "S'il vous plaît, encore plus, Monsieur."
 
 # game/code/d17/d17s05mh.rpy:200
 translate french d17s05mh_5fadbe7b:
@@ -212,7 +212,7 @@ translate french d17s05mh_0f9c27ac:
 translate french d17s05mh_89630a3d:
 
     # mc "I want you to focus on my hands. Feel every stroke."
-    mc "Je veux que tu te concentres sur mes mains. Ressentez chaque coup."
+    mc "Je veux que tu te concentres sur mes mains. Ressent chaque coup."
 
 # game/code/d17/d17s05mh.rpy:264
 translate french d17s05mh_f3f34b97:
@@ -302,19 +302,19 @@ translate french d17s05mh_13c5c40d:
 translate french d17s05mh_f311de19:
 
     # mh "*Primal moans* Right there, keep going... *Moans get even louder*."
-    mh "*Gémissements primordiaux* Juste là, continuez... *Les gémissements deviennent encore plus forts*."
+    mh "*Gémissements primordiaux* Juste là, continues... *Les gémissements deviennent encore plus forts*."
 
 # game/code/d17/d17s05mh.rpy:437
 translate french d17s05mh_7028cb9f:
 
     # mc "Tell me what you need."
-    mc "Dites-moi ce dont vous avez besoin."
+    mc "Dit-moi ce dont tu as besoin."
 
 # game/code/d17/d17s05mh.rpy:440
 translate french d17s05mh_822df7a9:
 
     # mh "I need you. I want to feel you fill me up. Please, [mcname]."
-    mh "J'ai besoin de toi. Je veux sentir que tu me remplis. S'il te plaît, [mcname]."
+    mh "J'ai besoin de toi. Je veux sentir que tu me remplisses. S'il te plaît, [mcname]."
 
 # game/code/d17/d17s05mh.rpy:461
 translate french d17s05mh_c1c70d14:
@@ -434,7 +434,7 @@ translate french d17s05mh_cuddle_b7baeaf2:
 translate french d17s05mh_cuddle_08bd6008:
 
     # mh "Hey.{w} I've been thinking about some stuff."
-    mh "Hé.{w} J'ai pensé à des trucs."
+    mh "Hé.{w} J'ai pensée à des trucs."
 
 # game/code/d17/d17s05mh.rpy:583
 translate french d17s05mh_cuddle_b512f1d5:
@@ -482,7 +482,7 @@ translate french d17s05mh_cuddle_483c9257:
 translate french d17s05mh_cuddle_e26a96ad:
 
     # mc "Did you expect me to reject that offer?"
-    mc "Vous attendiez-vous à ce que je rejette cette offre?"
+    mc "Tu t'attendais à ce que je rejette cette offre?"
 
 # game/code/d17/d17s05mh.rpy:603
 translate french d17s05mh_cuddle_5f41d96c:
@@ -512,7 +512,7 @@ translate french d17s05mh_cuddle_e9e754e8:
 translate french d17s05mh_cuddle_dc4ae1fa:
 
     # mc "Just let me know when and where and I'll be there."
-    mc "Dites-moi juste quand et où et je serai là."
+    mc "Dit-moi juste quand et où et je serai là."
 
 # game/code/d17/d17s05mh.rpy:620
 translate french d17s05mh_cuddle_ffc6a815:
