@@ -140,7 +140,7 @@ translate french d18s01_lc_278d74cd:
 translate french d18s01_lc_4b21ebe1:
 
     # mct "I'm laying here asleep and she's sucking my fucking cock like a cheap whore!!"
-    mct "Je dors ici et elle me suce ma putain de bite comme une pute bon marché!!"
+    mct "Je dors ici et elle suce ma putain de bite comme une pute bon marché!!"
 
 # game/code/d18/d18s01.rpy:108
 translate french d18s01_lc_874b2b18:
@@ -302,7 +302,7 @@ translate french d18s01_cuddle_e5a76e6a:
 translate french d18s01_cuddle_4fa04863:
 
     # mct "I alse got [d18s01_points] points. Nice."
-    mct "J'ai aussi eu [d18s01_points] points. Gentil."
+    mct "J'ai aussi eu [d18s01_points] points. Cool."
 
 # game/code/d18/d18s01.rpy:215
 translate french d18s01_cuddle_8886eb8c:
@@ -464,7 +464,7 @@ translate french d18s01_shower_c32ad2c1:
 translate french d18s01_shower_b4b5c39b:
 
     # mc "At the very least."
-    mc "Au moins."
+    mc "Au minimum."
 
 # game/code/d18/d18s01.rpy:291
 translate french d18s01_shower_a8a7df55:
@@ -584,7 +584,7 @@ translate french d18s01_shower_9c6839c8:
 translate french d18s01_shower_8b94327f:
 
     # mc "Fetish Locator has a VIP Program.{w}.. and I've teamed up with some other people to win the $$1kk prize."
-    mc "Fetish Locator a un programme VIP.{w}.. Et moi avons fait équipe avec d'autres personnes pour gagner le prix de 1000000$."
+    mc "Fetish Locator a un programme VIP.{w}.. Et moi je fait équipe avec d'autres personnes pour gagner le prix de 1000000$."
 
 # game/code/d18/d18s01.rpy:344
 translate french d18s01_shower_687e69d2:
@@ -734,7 +734,7 @@ translate french d18s01_shower_ntr_f4c1abd2:
 translate french d18s01_shower_ntr_31c09226:
 
     # lc "Then what are you being blackmailed with?"
-    lc "Alors avec quoi te fais-tu chanter?"
+    lc "Alors avec quoi te faire chanter?"
 
 # game/code/d18/d18s01.rpy:412
 translate french d18s01_shower_ntr_e42480b7:
@@ -1208,7 +1208,7 @@ translate french d18s01_shower_lc_a1bc22a3:
 translate french d18s01_shower_lc_71e9a754:
 
     # lc "Do you even like me at all? Or is it just the app pushing you at me???"
-    lc "Est-ce que tu m'aimes vraiment du tout? Ou est-ce juste l'application qui vous pousse vers moi???"
+    lc "Est-ce que tu m'aimes vraiment? Ou est-ce juste l'application qui te pousse vers moi???"
 
 # game/code/d18/d18s01.rpy:595
 translate french d18s01_shower_lc_497198fa:
@@ -1238,13 +1238,13 @@ translate french d18s01_shower_lc_a6b68b02:
 translate french d18s01_shower_lc_f30c76e8:
 
     # mc "Are you serious?"
-    mc "Tu es sérieux?"
+    mc "Tu es sérieuse?"
 
 # game/code/d18/d18s01.rpy:605
 translate french d18s01_shower_lc_1af886dc:
 
     # lc "This is just a lot to process. I need some time alone."
-    lc "C'est juste beaucoup de choses à traiter. J'ai besoin d'un peu de temps seul."
+    lc "C'est juste beaucoup de choses à traiter. J'ai besoin d'un peu de temps seule."
 
 # game/code/d18/d18s01.rpy:607
 translate french d18s01_shower_lc_14a00e97:
