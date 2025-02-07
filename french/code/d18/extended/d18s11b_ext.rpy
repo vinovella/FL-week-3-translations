@@ -644,7 +644,7 @@ translate french d18s11b_continue_78477e63:
 translate french d18s11b_continue_54af9ccf:
 
     # mc "But this Cunt's mouth has clearly practiced."
-    mc "Mais la bouche de cette garce s'est clairement entraînée."
+    mc "Mais la bouche de cette garce est clairement entraînée."
 
 # game/code/d18/extended/d18s11b_ext.rpy:370
 translate french d18s11b_continue_30027dee:
@@ -920,7 +920,7 @@ translate french d18s11b_continue_3d8949fa:
 translate french d18s11b_continue_a59551c0:
 
     # mct "Damn, this is so fucked up."
-    mct "Putain, c'est tellement foutu."
+    mct "Putain, c'est tellement bon."
 
 # game/code/d18/extended/d18s11b_ext.rpy:537
 translate french d18s11b_continue_6cd33735:
@@ -950,7 +950,7 @@ translate french d18s11b_continue_5df6d132:
 translate french d18s11b_continue_c07943cb:
 
     # mc "CUNT! TELL ME WHAT YOU LOVE!!!"
-    mc "SALE GARCE!  DIT-MOI CE QUE TU AIMES!!!"
+    mc "SALE GARCE! DIT-MOI CE QUE TU AIMES!!!"
 
 # game/code/d18/extended/d18s11b_ext.rpy:553
 translate french d18s11b_continue_85f3a441:
