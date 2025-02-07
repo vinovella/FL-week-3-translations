@@ -20,7 +20,7 @@ translate french d17s03_432b9380:
 translate french d17s03_169b0a47:
 
     # ir "Yup. I'm supposed to take you to her."
-    ir "Ouais. Je suis censé t'emmener vers elle."
+    ir "Ouais. Je suis censée t'emmener vers elle."
 
 # game/code/d17/d17s03.rpy:28
 translate french d17s03_aa151550:
@@ -110,7 +110,7 @@ translate french d17s03_a4969e9f:
 translate french d17s03_394bb1a6:
 
     # mc "Okay...{w} So why was Hana so concerned about your safety at Min's Party last week?"
-    mc "D'accord...{w} Alors pourquoi Hana était-elle si inquiète pour votre sécurité à la fête de Min la semaine dernière?"
+    mc "D'accord...{w} Alors pourquoi Hana était-elle si inquiète pour ta sécurité à la fête de Min la semaine dernière?"
 
 # game/code/d17/d17s03.rpy:76
 translate french d17s03_0e0d712c:
@@ -140,13 +140,13 @@ translate french d17s03_4f43c917:
 translate french d17s03_725489d6:
 
     # ir "Well, I used to be an athlete. I know some martial arts and taught a few self defense classes."
-    ir "Eh bien, j'étais un athlète. Je connais quelques arts martiaux et j'ai enseigné quelques cours d'autodéfense."
+    ir "Eh bien, j'étais une athlète. Je connais quelques arts martiaux et j'ai donnée quelques cours d'autodéfense."
 
 # game/code/d17/d17s03.rpy:91
 translate french d17s03_02f17912:
 
     # mc "You're an athlete? I don't think I knew that."
-    mc "Vous êtes un athlète? Je ne pense pas que je le savais."
+    mc "Tu es un athlète? Je ne pense pas que je le savais."
 
 # game/code/d17/d17s03.rpy:94
 translate french d17s03_e8ba2497:
@@ -158,7 +158,7 @@ translate french d17s03_e8ba2497:
 translate french d17s03_e28b8a06:
 
     # mc "I don't think there's anything stupid about being an athlete."
-    mc "Je ne pense pas qu'il y ait quoi que ce soit de stupide dans le fait d'être un athlète."
+    mc "Je ne pense pas qu'il y ait quoi que ce soit de stupide dans le fait d'être une athlète."
 
 # game/code/d17/d17s03.rpy:100
 translate french d17s03_4788bebf:
@@ -182,7 +182,7 @@ translate french d17s03_6956461d:
 translate french d17s03_3aa5c775:
 
     # mc "I can guess one of those. You were working at that Party for the same reason I was."
-    mc "Je peux en deviner un. Vous travailliez à ce Parti pour la même raison que moi."
+    mc "Je peux en deviner un. Tu travaillais à cette Partie pour la même raison que moi."
 
 # game/code/d17/d17s03.rpy:112
 translate french d17s03_e1c852b0:
@@ -248,7 +248,7 @@ translate french d17s03_9ef1538a:
 translate french d17s03_c9398f28:
 
     # ir "You're friends, right? Has she ever told you about the Senator?"
-    ir "Vous êtes amis, n'est-ce pas? Vous a-t-elle déjà parlé du sénateur?"
+    ir "Vous êtes amis, n'est-ce pas? t'a-t-elle déjà parlé du sénateur?"
 
 # game/code/d17/d17s03.rpy:142
 translate french d17s03_fca52711:
@@ -326,7 +326,7 @@ translate french d17s03_a339e64a:
 translate french d17s03_fd1c4c3c:
 
     # mc "You're twins?"
-    mc "Vous êtes jumeaux?"
+    mc "Vous êtes jumelles?"
 
 # game/code/d17/d17s03.rpy:180
 translate french d17s03_301866cf:
@@ -344,7 +344,7 @@ translate french d17s03_3593db5a:
 translate french d17s03_d803d26a:
 
     # ir "We shared a womb, not a zygote."
-    ir "Nous avons partagé un ventre, pas un zygote."
+    ir "Nous avons partagée un ventre, pas un zygote."
 
 # game/code/d17/d17s03.rpy:188
 translate french d17s03_e3d65452:
@@ -356,13 +356,13 @@ translate french d17s03_e3d65452:
 translate french d17s03_7c4325dc:
 
     # ir "Oh, right. College boy."
-    ir "Oh, c'est vrai. Un collégien."
+    ir "Oh, c'est vrai. Un vrai collégien."
 
 # game/code/d17/d17s03.rpy:194
 translate french d17s03_c5b6561f:
 
     # mc "So, you're twins and she's the older sister. She's protective of you."
-    mc "Donc, vous êtes jumelles et elle est la sœur aînée. Elle vous protège."
+    mc "Donc, vous êtes jumelles et elle est la sœur aînée. Elle te protèges."
 
 # game/code/d17/d17s03.rpy:197
 translate french d17s03_627afdbd:
@@ -404,7 +404,7 @@ translate french d17s03_5ac11b20:
 translate french d17s03_4726ba3a:
 
     # ir "You got it. She's always been reliable and trying to succeed while I was usually looking for trouble."
-    ir "Vous l'avez compris. Elle a toujours été fiable et a essayé de réussir alors que je cherchais habituellement les ennuis."
+    ir "Tu l'auras compris. Elle a toujours été fiable et a essayé de réussir alors que je cherchais habituellement les ennuis."
 
 # game/code/d17/d17s03.rpy:218
 translate french d17s03_a0a13cc1:
@@ -476,7 +476,7 @@ translate french d17s03_b725e9ca:
 translate french d17s03_4edcb9d8:
 
     # ir "You know that she used to hate the idea of tattoos?"
-    ir "Tu sais qu'elle détestait l'idée des tatouages ​​?"
+    ir "Tu sais qu'elle détestait l'idée des tatouages?"
 
 # game/code/d17/d17s03.rpy:253
 translate french d17s03_7da5a154:
@@ -608,13 +608,13 @@ translate french d17s03_cea2f1fd:
 translate french d17s03_4f796d84:
 
     # ir "Not when we were young. When we were children he was always there and always spoiled us both."
-    ir "Pas quand nous étions jeunes. Quand nous étions enfants, il était toujours là et nous gâtait toujours tous les deux."
+    ir "Pas quand nous étions jeunes. Quand nous étions enfants, il était toujours là et nous gâtait toujours toutes les deux."
 
 # game/code/d17/d17s03.rpy:317
 translate french d17s03_557c7ca6:
 
     # ir "Maybe me more than Hana. He always said that I was his favorite."
-    ir "Peut-être moi plus qu'Hana. Il a toujours dit que j'étais sa préférée."
+    ir "Peut-être même plus moi qu'Hana. Il a toujours dit que j'étais sa préférée."
 
 # game/code/d17/d17s03.rpy:320
 translate french d17s03_026c7681:
@@ -626,7 +626,7 @@ translate french d17s03_026c7681:
 translate french d17s03_0ea11d27:
 
     # ir "Maybe he spoiled me more than Hana, but he always included her. Made sure we had the best clothes and dolls and all that."
-    ir "Peut-être qu'il m'a gâté plus qu'Hana, mais il l'a toujours incluse. Il s'est assuré que nous avions les meilleurs vêtements et poupées et tout ça."
+    ir "Peut-être qu'il m'a gâtée plus qu'Hana, mais il l'a toujours incluse. Il s'est assuré que nous avions les meilleurs vêtements, poupées et tout ça."
 
 # game/code/d17/d17s03.rpy:325
 translate french d17s03_19d757ba:
@@ -674,7 +674,7 @@ translate french d17s03_64d07154:
 translate french d17s03_ce018735:
 
     # mc "Let me get this straight. You and Hana have known each other since before you were even born."
-    mc "Laisse-moi comprendre. Hana et toi vous connaissez depuis avant même votre naissance."
+    mc "Laisse-moi comprendre. Hana et toi, vous vous connaissez depuis avant même votre naissance.."
 
 # game/code/d17/d17s03.rpy:343
 translate french d17s03_a76a6e36:
@@ -722,7 +722,7 @@ translate french d17s03_580b897a:
 translate french d17s03_48bcbe36:
 
     # mc "Sorry, I guess I misunderstood.{w} But you're both sexy, single, and attracted to women?"
-    mc "Désolé, je suppose que j'ai mal compris.{w} Mais vous êtes tous les deux sexy, célibataires et attirés par les femmes?"
+    mc "Désolé, je suppose que j'ai mal compris.{w} Mais vous êtes toutes les deux sexy, célibataires et attirés par les femmes?"
 
 # game/code/d17/d17s03.rpy:371
 translate french d17s03_802c10eb:
@@ -752,7 +752,7 @@ translate french d17s03_2616146b:
 translate french d17s03_70fed4bb:
 
     # ir "As far as you're concerned, nothing. We both fuck whoever we find attractive."
-    ir "En ce qui te concerne, rien. Nous baisons tous les deux celui que nous trouvons attirant."
+    ir "En ce qui te concerne, rien. Nous baisons toutes les deux celui que nous trouvons attirant."
 
 # game/code/d17/d17s03.rpy:386
 translate french d17s03_c7f67f3e:
@@ -764,13 +764,13 @@ translate french d17s03_c7f67f3e:
 translate french d17s03_8e8419da:
 
     # ir "Someday I'll tell you all about our 18th birthday party. We invited the entire volleyball team."
-    ir "Un jour, je vous raconterai notre fête de 18 ans. Nous avons invité toute l'équipe de volley-ball."
+    ir "Un jour, je te raconterai notre fête de 18 ans. Nous avons invité toute l'équipe de volley-ball."
 
 # game/code/d17/d17s03.rpy:392
 translate french d17s03_e9a15b63:
 
     # mc "You both fucked the entire volleyball team?!"
-    mc "Vous avez tous les deux baisé toute l'équipe de volley-ball?!"
+    mc "Vous avez toutes les deux baisé toute l'équipe de volley-ball?!"
 
 # game/code/d17/d17s03.rpy:395
 translate french d17s03_d5b31a14:
@@ -806,13 +806,13 @@ translate french d17s03_3e80283a:
 translate french d17s03_d998dbeb:
 
     # ir "You were saying we are twins, known each other our entire lives, and are both sexually active."
-    ir "Vous disiez que nous sommes des jumeaux, que nous nous connaissons depuis toujours et que nous sommes tous les deux sexuellement actifs."
+    ir "Tu disais que nous sommes des jumelles, que nous nous connaissons depuis toujours et que nous sommes tous les deux sexuellement actifs."
 
 # game/code/d17/d17s03.rpy:413
 translate french d17s03_07f26a16:
 
     # mc "But not with each other."
-    mc "Mais pas les uns avec les autres."
+    mc "Mais pas les unes avec les autres."
 
 # game/code/d17/d17s03.rpy:416
 translate french d17s03_18fb98b0:
@@ -872,7 +872,7 @@ translate french d17s03_f95aad16:
 translate french d17s03_846091c5:
 
     # ir "Maybe I've changed my mind.{w} Maybe I should just beat the living shit out of you and make sure you're so brain damaged that you can't remember this conversation."
-    ir "Peut-être que j'ai changé d'avis.{w} Peut-être que je devrais juste te tabasser et m'assurer que ton cerveau est tellement endommagé que tu ne te souviens plus de cette conversation."
+    ir "Peut-être que j'ai changée d'avis.{w} Peut-être que je devrais juste te tabasser et m'assurer que ton cerveau est tellement endommagé que tu ne te souviens plus de cette conversation."
 
 # game/code/d17/d17s03.rpy:447
 translate french d17s03_bd13bba7:
@@ -914,7 +914,7 @@ translate french d17s03_03220b59:
 translate french d17s03_9ec69ab0:
 
     # ir "If he's hurting her - you need to tell me."
-    ir "S'il lui fait du mal, tu dois me le dire."
+    ir "Si il lui fait du mal, tu dois me le dire."
 
 # game/code/d17/d17s03.rpy:466
 translate french d17s03_93bb9e45:
@@ -938,7 +938,7 @@ translate french d17s03_c0052b5c:
 translate french d17s03_bd8167fa:
 
     # ir "And don't mention any of this - even on the bus. I don't want anyone else to hear about it."
-    ir "Et ne mentionnez rien de tout cela, même dans le bus. Je ne veux pas que quiconque en entende parler."
+    ir "Et ne mentionne rien de tout cela, même dans le bus. Je ne veux pas que quiconque en entende parler."
 
 # game/code/d17/d17s03.rpy:478
 translate french d17s03_8fbdcfd6:
