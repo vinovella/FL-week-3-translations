@@ -98,7 +98,7 @@ translate french d17s06dd_f613bff3:
 translate french d17s06dd_fe409d65:
 
     # mc "I don't think he likes that. What about Lucas?"
-    mc "Humm. Et Lucas?"
+    mc "Je ne pense pas qu'il aime ça Humm. Et Lucas?"
 
 # game/code/d17/d17s06dd.rpy:103
 translate french d17s06dd_197dd42e:
@@ -470,7 +470,7 @@ translate french d17s06dd_d5db5641:
 translate french d17s06dd_a043862d:
 
     # dd "My family owns a cabin in Vermont. It is filled with books."
-    dd "Ma famille possède une cabane dans le Vermont. Rempli de livres."
+    dd "Ma famille possède une cabane dans le Vermont. Remplis de livres."
 
 # game/code/d17/d17s06dd.rpy:275
 translate french d17s06dd_a03d244e:
@@ -578,7 +578,7 @@ translate french d17s06dd_52d87b95:
 translate french d17s06dd_c4d9cd98:
 
     # mc "I think I do. {w}I haven't had as much time to think about as you have, but my thoughts and instincts all say that I want to spend as much time with you as possible."
-    mc "Je pense que oui. {w}Je n'ai pas eu autant de temps pour réfléchir que toi, mais mes pensées et mon instinct me disent que je veux passer le plus de temps possible avec toi."
+    mc "Je pense que si. {w}Je n'ai pas eu autant de temps pour réfléchir que toi, mais mes pensées et mon instinct me disent que je veux passer le plus de temps possible avec toi."
 
 # game/code/d17/d17s06dd.rpy:318
 translate french d17s06dd_e2b16bd3:
