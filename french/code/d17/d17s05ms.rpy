@@ -302,7 +302,7 @@ translate french d17s05ms_65f34967:
 translate french d17s05ms_63332afb:
 
     # mh "How about we play some Cards Against Humans? See where we go from there."
-    mh "Et si on jouait aux cartes Against Humans? Voyez où nous allons à partir de là."
+    mh "Et si on jouait aux cartes contre les humains? Voyez où nous allons à partir de là."
 
 # game/code/d17/d17s05ms.rpy:173
 translate french d17s05ms_836758cd:
@@ -320,7 +320,7 @@ translate french d17s05ms_ccabab35:
 translate french d17s05ms_2b2c20be:
 
     # mh "Cards Against Humans it is then."
-    mh "C'est les cartes Against Humans alors."
+    mh "C'est les cartes contre les humains alors."
 
 # game/code/d17/d17s05ms.rpy:180
 translate french d17s05ms_8d26754f:
@@ -338,7 +338,7 @@ translate french d17s05ms_bc9eef2a:
 translate french d17s05ms_7a67e85b:
 
     # mh "Have you never played Cards Against Humans?"
-    mh "Tu n'as jamais joué aux cartes Against Humans?"
+    mh "Tu n'as jamais joué aux cartes contre les humains?"
 
 # game/code/d17/d17s05ms.rpy:189
 translate french d17s05ms_918bef5e:
@@ -368,7 +368,7 @@ translate french d17s05ms_448cce68:
 translate french d17s05ms_687edec7:
 
     # mh "Great. We found our Card Czar then."
-    mh "Super. Nous avons alors trouvé notre Tsar."
+    mh "Super. Nous avons alors trouvé notre Card Czar."
 
 # game/code/d17/d17s05ms.rpy:202
 translate french d17s05ms_3a3eb881:
@@ -572,7 +572,7 @@ translate french d17s05ms_e5daed2f:
 translate french d17s05ms_4bdfe8ba:
 
     # mh "It helps to know people in my profession. It helps to know people in any profession to be honest."
-    mh "Ça aide de connaître des gens dans ma profession. P ur être honnête, ça aide de connaître des gens dans n'importe quelle profession."
+    mh "Ça aide de connaître des gens dans ma profession. Pour être honnête, ça aide de connaître des gens dans n'importe quelle profession."
 
 # game/code/d17/d17s05ms.rpy:317
 translate french d17s05ms_12dfbe2f:
