@@ -56,7 +56,7 @@ translate french d17s01_85539b83:
 translate french d17s01_c3742bb7:
 
     # arj "Um, good morning, [mcname]. Did you forget we invited your girlfriend over for breakfast?"
-    arj "Euh, bonjour, [mcname]. As-tu oublié que nous avons invité ta petite amie pour le petit-déjeuner?"
+    arj "Euh, bonjour, [mcname]. As-tu oubliés que nous avons invité ta petite amie pour le petit-déjeuner?"
 
 # game/code/d17/d17s01.rpy:87
 translate french d17s01_aff36e20:
@@ -152,7 +152,7 @@ translate french d17s01_20436e1c:
 translate french d17s01_b0c45ef6:
 
     # lc "So, after we enjoy AmRose's delicious food I suppose we're just studying."
-    lc "Donc, après avoir dégusté la délicieuse nourriture d'AmRose, je suppose que nous sommes juste en train d'étudier."
+    lc "Donc, après avoir dégusté la délicieuse nourriture d'AmRose, je suppose que nous allons juste en train d'étudier."
 
 # game/code/d17/d17s01.rpy:135
 translate french d17s01_a245777f:
@@ -254,7 +254,7 @@ translate french d17s01_3b8eedef:
 translate french d17s01_04ea5c8f:
 
     # arj "Huh, I thought you two were close friends."
-    arj "Euh, je pensais que vous étiez des amis proches."
+    arj "Euh, je pensais que vous étiez des amies proches."
 
 # game/code/d17/d17s01.rpy:192
 translate french d17s01_fbd26564:
@@ -266,7 +266,7 @@ translate french d17s01_fbd26564:
 translate french d17s01_0542e115:
 
     # arj "Why would you be friends with someone like that?"
-    arj "Pourquoi serais-tu ami avec quelqu'un comme ça?"
+    arj "Pourquoi serais-tu amie avec quelqu'un comme ça?"
 
 # game/code/d17/d17s01.rpy:198
 translate french d17s01_64c28bdc:
@@ -344,31 +344,31 @@ translate french d17s01_656534e3:
 translate french d17s01_fee432f6:
 
     # lc "So, you cheated?"
-    lc "Alors tu as triché?"
+    lc "Alors tu as trichée?"
 
 # game/code/d17/d17s01.rpy:233
 translate french d17s01_49bf9173:
 
     # arj "I didn't cheat!{w} They gave each of us a puzzle to figure out. The solution was to..."
-    arj "Je n'ai pas triché!{w} Ils ont donné à chacun de nous un casse-tête à résoudre. La solution était de..."
+    arj "Je n'ai pas trichée!{w} Ils ont donné à chacun de nous un casse-tête à résoudre. La solution était de..."
 
 # game/code/d17/d17s01.rpy:234
 translate french d17s01_1f1cd9e0:
 
     # arj "I mean, I guess technically it's hacking, but-{w} Okay, I mean, maybe I cheated. But we're supposed to!"
-    arj "Je veux dire, je suppose que techniquement, c'est du piratage, mais-{w} Okay, je veux dire, peut-être que j'ai triché. Mais nous sommes censés le faire!"
+    arj "Je veux dire, je suppose que techniquement, c'est du piratage, mais-{w} Okay, je veux dire, peut-être que j'ai trichée. Mais nous sommes censés le faire!"
 
 # game/code/d17/d17s01.rpy:237
 translate french d17s01_713348b8:
 
     # lc "Sorry, I didn't realize it was such a nerve. Don't worry, I won't tell anyone."
-    lc "Désolé, je n'avais pas réalisé que c'était si nerveux. Ne t'inquiète pas, je ne le dirai à personne."
+    lc "Désolée, je n'avais pas réalisée que c'était si nerveux. Ne t'inquiète pas, je ne le dirai à personne."
 
 # game/code/d17/d17s01.rpy:240
 translate french d17s01_4452e293:
 
     # arj "What about you? Did they give you some musical puzzle?"
-    arj "Et vous? Vous ont-ils donné un puzzle musical?"
+    arj "Et toi? t'ont-ils donné un puzzle musical?"
 
 # game/code/d17/d17s01.rpy:243
 translate french d17s01_af6d3988:
@@ -398,7 +398,7 @@ translate french d17s01_f3ffc1f0:
 translate french d17s01_5c2e7144:
 
     # lc "You're right about Nordin and Lewald."
-    lc "Vous avez raison à propos de Nordin et Lewald."
+    lc "Tu as raison à propos de Nordin et Lewald."
 
 # game/code/d17/d17s01.rpy:256
 translate french d17s01_6a88576b:
@@ -458,7 +458,7 @@ translate french d17s01_1560f212:
 translate french d17s01_cfdb5771:
 
     # arj "Let's not get side-tracked.{w} Lydia, what would you want for this information?"
-    arj "Ne nous laissons pas distraire.{w} Lydia, que voudriez-vous comme information?"
+    arj "Ne nous laissons pas distraire.{w} Lydia, que voudrais-tu comme information?"
 
 # game/code/d17/d17s01.rpy:287
 translate french d17s01_49f46706:
@@ -470,7 +470,7 @@ translate french d17s01_49f46706:
 translate french d17s01_a16e7230:
 
     # lc "Well, let me put it this way...{w} [mcname], can I borrow your slave?"
-    lc "Eh bien, laissez-moi le dire de cette façon...{w} [mcname], puis-je emprunter votre esclave?"
+    lc "Eh bien, laissez-moi le dire de cette façon...{w} [mcname], puis-je emprunter ton esclave?"
 
 # game/code/d17/d17s01.rpy:292
 translate french d17s01_de3240c1:
@@ -506,7 +506,7 @@ translate french d17s01_11de9fde:
 translate french d17s01_3be6bd73:
 
     # mc "But, you have experimented.{w} It wouldn't be the first time."
-    mc "Mais vous avez expérimenté.{w} Ce ne serait pas la première fois."
+    mc "Mais tu es expérimenté.{w} Ce ne serait pas la première fois."
 
 # game/code/d17/d17s01.rpy:309
 translate french d17s01_de5ce96e:
@@ -548,7 +548,7 @@ translate french d17s01_de5ce96e_1:
 translate french d17s01_14b99a8d:
 
     # mc "But, you've played with toys.{w} It is only a matter of time before we do it."
-    mc "Mais vous avez joué avec des jouets.{w} Ce n'est qu'une question de temps avant que nous le fassions."
+    mc "Mais tu as jouée avec des jouets.{w} Ce n'est qu'une question de temps avant que nous le fassions."
 
 # game/code/d17/d17s01.rpy:329
 translate french d17s01_a2411c66:
@@ -560,7 +560,7 @@ translate french d17s01_a2411c66:
 translate french d17s01_4412e5c7:
 
     # mc "I don't even know yet.{w} It's a difficult question. How difficult would it be for you?"
-    mc "Je ne sais même pas encore.{w} C'est une question difficile. Dans quelle mesure ce serait difficile pour vous?"
+    mc "Je ne sais même pas encore.{w} C'est une question difficile. Dans quelle mesure ce serait difficile pour toi?"
 
 # game/code/d17/d17s01.rpy:335
 translate french d17s01_b8c40966:
@@ -578,7 +578,7 @@ translate french d17s01_5876ac99:
 translate french d17s01_57e03bfb:
 
     # mc "Fuck me.{w} {b}Zarah Waller{/b}?"
-    mc "Baise-moi.{w} {b}Zarah Waller{/b}?"
+    mc "Putain...{w} {b}Zarah Waller{/b}?"
 
 # game/code/d17/d17s01.rpy:344
 translate french d17s01_e59f0cc7:
@@ -596,7 +596,7 @@ translate french d17s01_0a8ba365:
 translate french d17s01_d2df089d:
 
     # mc "Fuck me."
-    mc "Baise-moi."
+    mc "Fais chié."
 
 # game/code/d17/d17s01.rpy:353
 translate french d17s01_2540360a:
@@ -614,7 +614,7 @@ translate french d17s01_7f5d6040:
 translate french d17s01_6860bf7d:
 
     # mc "She hates my guts."
-    mc "Elle déteste mes tripes."
+    mc "Elle me déteste."
 
 # game/code/d17/d17s01.rpy:362
 translate french d17s01_b9499276:
@@ -638,7 +638,7 @@ translate french d17s01_aaca2f5e:
 translate french d17s01_28a8c6c5:
 
     # mc "All semester she's been making threats that she could see to it that I didn't take finals, or that I wouldn't pass finals, etc."
-    mc "Tout le semestre, elle a menacé de faire en sorte que je ne passe pas les examens, ou que je ne réussisse pas les examens, etc."
+    mc "Tout le semestre, elle m'a menacé de faire en sorte que je ne passe pas les examens, ou que je ne réussisse pas les examens, etc."
 
 # game/code/d17/d17s01.rpy:372
 translate french d17s01_6664898b:
@@ -662,7 +662,7 @@ translate french d17s01_cf1adef2:
 translate french d17s01_5414f38f:
 
     # lc "I'm sorry, love.{w} I didn't realize..."
-    lc "Je suis désolé, mon amour.{w} Je n'avais pas réalisé..."
+    lc "Je suis désolée, mon amour.{w} Je n'avais pas réalisé..."
 
 # game/code/d17/d17s01.rpy:384
 translate french d17s01_6788f95d:
@@ -716,7 +716,7 @@ translate french d17s01_06269613:
 translate french d17s01_36ffa2f5:
 
     # arj "I'll do this thing for you. [mcname] will love to watch."
-    arj "Je ferai ce truc pour toi. [mcname] adorera regarder."
+    arj "Je ferai ce truc pour toi. [mcname] adorerai regarder."
 
 # game/code/d17/d17s01.rpy:411
 translate french d17s01_979c088d:
@@ -782,7 +782,7 @@ translate french d17s01_ntr_c835d811:
 translate french d17s01_ntr_a247aa22:
 
     # lc "This is wonderful.{w} You have a very talented tongue."
-    lc "C'est merveilleux.{w} Vous avez une langue très talentueuse."
+    lc "C'est merveilleux.{w} tu as une langue très talentueuse."
 
 # game/code/d17/d17s01.rpy:457
 translate french d17s01_ntr_f6edf5ae:
@@ -866,7 +866,7 @@ translate french d17s01_ntr_da005f97:
 translate french d17s01_ntr_5c425860:
 
     # lc "Be my guest."
-    lc "Soyez mon invité."
+    lc "Sois mon invité."
 
 # game/code/d17/d17s01.rpy:535
 translate french d17s01_lick_kitty_3095690c:
@@ -962,13 +962,13 @@ translate french d17s01_no_ntr_80a121ce:
 translate french d17s01_no_ntr_339324c3:
 
     # lc "Be gentle.{w} She's a virgin... sorta."
-    lc "Soyez doux.{w} Elle est vierge... en quelque sorte."
+    lc "Sois doux.{w} Elle est vierge... en quelque sorte."
 
 # game/code/d17/d17s01.rpy:644
 translate french d17s01_no_ntr_b9df5a98:
 
     # arj "*mumbling* thanks, cunt."
-    arj "*marmonne* merci, connard."
+    arj "*marmonne* merci, connasse."
 
 # game/code/d17/d17s01.rpy:646
 translate french d17s01_no_ntr_efa7c633:
@@ -1010,7 +1010,7 @@ translate french d17s01_no_ntr_ff2fe935:
 translate french d17s01_no_ntr_85fea182:
 
     # lc "Please don't.{w} I'd like to see what it's like...{w} raw. Is that the word?"
-    lc "S'il vous plaît, ne le faites pas.{w} J'aimerais voir à quoi ça ressemble...{w} brut. C'est le mot?"
+    lc "S'il te plaît, ne le fait pas.{w} J'aimerais voir à quoi ça ressemble...{w} brut. C'est le mot?"
 
 # game/code/d17/d17s01.rpy:668
 translate french d17s01_no_ntr_56124645:
@@ -1046,7 +1046,7 @@ translate french d17s01_no_ntr_11455b53:
 translate french d17s01_no_ntr_5d7689bd:
 
     # arj "It's like ripping off a band-aid.{w} You fuck my ass, I push back on you, and we get you balls deep as fast as possible."
-    arj "C'est comme arracher un pansement.{w} Tu me baises le cul, je te repousse, et on t'enfonce les couilles le plus vite possible."
+    arj "C'est comme arracher un pansement.{w} Tu me baises le cul, je te repousse, et tu t'enfonce jusqu'aux couilles le plus vite possible."
 
 # game/code/d17/d17s01.rpy:684
 translate french d17s01_no_ntr_cfce055e:
@@ -1058,7 +1058,7 @@ translate french d17s01_no_ntr_cfce055e:
 translate french d17s01_no_ntr_583c3dbf:
 
     # lc "That sounds like it would be incredibly painful."
-    lc "On dirait que ce serait incroyablement douloureux."
+    lc "On dirait que ce sera incroyablement douloureux."
 
 # game/code/d17/d17s01.rpy:691
 translate french d17s01_no_ntr_74aeb474:
@@ -1088,7 +1088,7 @@ translate french d17s01_anal_sex_700f5a57:
 translate french d17s01_anal_sex_c9fac30e:
 
     # lc "She asked for it."
-    lc "Elle l'a demandé."
+    lc "Elle l'a demandée."
 
 # game/code/d17/d17s01.rpy:720
 translate french d17s01_anal_sex_06a5de85:
@@ -1112,7 +1112,7 @@ translate french d17s01_anal_sex_457a2223:
 translate french d17s01_anal_sex_32e06c71:
 
     # arj "OW!!! OW!!! OW!!{w} STOP THAT!!!"
-    arj "OW!!! OW!!! OW!! {w} ARRÊTEZ ÇA!!! "
+    arj "OW!!! OW!!! OW!! {w} ARRÊTE ÇA!!! "
 
 # game/code/d17/d17s01.rpy:732
 translate french d17s01_anal_sex_f0eeda9a:
@@ -1124,7 +1124,7 @@ translate french d17s01_anal_sex_f0eeda9a:
 translate french d17s01_anal_sex_f3c8b7d1:
 
     # arj "Give me a second."
-    arj "Donnez-moi une seconde."
+    arj "Donne-moi une seconde."
 
 # game/code/d17/d17s01.rpy:737
 translate french d17s01_anal_sex_150ef387:
@@ -1208,7 +1208,7 @@ translate french d17s01_anal_sex_7acb55da:
 translate french d17s01_anal_sex_096bcc92:
 
     # mc "Too much?"
-    mc "Trop?"
+    mc "Trop fort?"
 
 # game/code/d17/d17s01.rpy:790
 translate french d17s01_anal_sex_84c11fbb:
@@ -1310,7 +1310,7 @@ translate french d17s01_anal_sex_bb44e802:
 translate french d17s01_anal_sex_145828ca:
 
     # arj "Fuck my dirty shitbox you whoremonger."
-    arj "J'emmerde ma sale boîte à merde, espèce de putain."
+    arj "Baise ma sale boîte à merde, espèce de putain."
 
 # game/code/d17/d17s01.rpy:848
 translate french d17s01_anal_sex_381db7d6:
@@ -1358,13 +1358,13 @@ translate french d17s01_anal_sex_a3865e3d:
 translate french d17s01_anal_sex_fc383192:
 
     # mc "I'm going to fuck your outhouse asterisk until I can't get enough!!!"
-    mc "Je vais baiser ton astérisque jusqu'à ce que je n'en ai plus assez!!!"
+    mc "Je vais baiser ton astérisque jusqu'à ce que je n'en ai assez!!!"
 
 # game/code/d17/d17s01.rpy:865
 translate french d17s01_anal_sex_f66617d4:
 
     # lc "DAMN! I'm going to cum soon!"
-    lc "DAMN! Je vais bientôt jouir!"
+    lc "BORDEL! Je vais bientôt jouir!"
 
 # game/code/d17/d17s01.rpy:867
 translate french d17s01_anal_sex_8c25dd17:
@@ -1496,7 +1496,7 @@ translate french d17s01_anal_sex_58ed1359:
 translate french d17s01_anal_sex_a1727faa:
 
     # mc "TAKE IT ALL SLAVE!!!"
-    mc "PRENDEZ TOUT ESCLAVE!!!"
+    mc "PREND TOUT ESCLAVE!!!"
 
 # game/code/d17/d17s01.rpy:940
 translate french d17s01_anal_sex_b4a5e3fe:
@@ -1520,7 +1520,7 @@ translate french d17s01_end_1ca8f44f:
 translate french d17s01_end_0b038bfc:
 
     # arj "You mean bribery, blackmail, that sort of thing?"
-    arj "Vous voulez dire corruption, chantage, ce genre de choses?"
+    arj "Tu veux dire corruption, chantage, ce genre de choses?"
 
 # game/code/d17/d17s01.rpy:974
 translate french d17s01_end_16fb724c:
@@ -1598,7 +1598,7 @@ translate french d17s01_end_c906d47d:
 translate french d17s01_end_2ae5f3ed:
 
     # lc "Prove that you're really excellent at marketing-"
-    lc "Prouvez que vous êtes vraiment excellent en marketing-"
+    lc "Prouve que tu es vraiment excellent en marketing-"
 
 # game/code/d17/d17s01.rpy:1012
 translate french d17s01_end_fb4ea995:
@@ -1622,7 +1622,7 @@ translate french d17s01_end_d821cc85:
 translate french d17s01_end_00ae5e39:
 
     # lc "Sorry. Prove that you're really excellent at business management. That you know how to..."
-    lc "Désolé. Prouve que tu es vraiment excellent en gestion d'entreprise. Que tu sais..."
+    lc "Désolée. Prouve que tu es vraiment excellent en gestion d'entreprise. Que tu sais..."
 
 # game/code/d17/d17s01.rpy:1024
 translate french d17s01_end_f7f8897e:
