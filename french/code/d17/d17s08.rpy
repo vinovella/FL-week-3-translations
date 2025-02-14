@@ -86,7 +86,7 @@ translate french d17s08_2579ed25:
 translate french d17s08_2553d9ad:
 
     # mc "True. I don't have a problem with other people watching, but I was always focused on my partner."
-    mc "C'est vrai. Je n'ai pas de problème avec le fait que d'autres personnes regardent, mais j'ai toujours été concentré sur ma partenaire."
+    mc "C'est vrai. Je n'ai pas de problème avec le fait que d'autres personnes regardent, mais j'ai toujours étais concentré sur ma partenaire."
 
 # game/code/d17/d17s08.rpy:102
 translate french d17s08_426091d1:
@@ -182,7 +182,7 @@ translate french d17s08_a7b504b1:
 translate french d17s08_b48aef40:
 
     # mc "One of them loves to be seen. She intentionally flashes people and would run around bareass naked everywhere if she could."
-    mc "L'une d'elle adore être vu. Elle se montre intentionnellement et pourrais courrir nue partout si elle le pouvait."
+    mc "L'une d'elle adore être vue. Elle se montre intentionnellement et pourrais courrir nue partout si elle le pouvait."
 
 # game/code/d17/d17s08.rpy:143
 translate french d17s08_45f000f5:
@@ -680,7 +680,7 @@ translate french replay_d17s08_04478ac2:
 translate french replay_d17s08_76346d47:
 
     # sy "Only if you promise to come down my throat."
-    sy "Seulement si tu promets de me foutre la gorge."
+    sy "Seulement si tu promets de me baisé la gorge."
 
 # game/code/d17/d17s08.rpy:422
 translate french replay_d17s08_33d2db8d:
