@@ -194,7 +194,7 @@ translate french d18s02_619538f8:
 translate french d18s02_116ea92d:
 
     # mc "Alright, that's good a plan, but let's try to only break one law at a time here. No need to add arson to our trespassing."
-    mc "Très bien, c'est un bon plan, mais essayons de n'enfreindre qu'une seule loi à la fois ici. Pas besoin d'ajouter un incendie criminel à notre intrusion."
+    mc "Très bien, c'est un bon plan, mais essayons de n'enfreindre qu'une seule loi à la fois. Pas besoin d'ajouter un incendie criminel à notre intrusion."
 
 # game/code/d18/d18s02.rpy:124
 translate french d18s02_9b64e2fd:
