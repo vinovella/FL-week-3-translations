@@ -206,7 +206,7 @@ translate french d17s06pn_4b9dea94:
 translate french d17s06pn_6cd93e8a:
 
     # mc "Fuck me. {w}You're so wet."
-    mc "Ahhh {w}Tu es tellement mouillé."
+    mc "Ahhh {w}Tu es tellement mouillée."
 
 # game/code/d17/d17s06pn.rpy:162
 translate french d17s06pn_94812e9d:
@@ -218,13 +218,13 @@ translate french d17s06pn_94812e9d:
 translate french d17s06pn_cdef5390:
 
     # mct "Damn! Dripping wet and tight as hell!"
-    mct "Putain! Dégoulinant et serré comme l'enfer!"
+    mct "Putain! Dégoulinante et serrée comme l'enfer!"
 
 # game/code/d17/d17s06pn.rpy:170
 translate french d17s06pn_fd41814b:
 
     # nk "Fuck me! You're hard dick feels massive!"
-    nk "Baise-moi! Ta queue dure est énorme!"
+    nk "Baise-moi! Ta queue dur est énorme!"
 
 # game/code/d17/d17s06pn.rpy:171
 translate french d17s06pn_48342ddb:
@@ -356,7 +356,7 @@ translate french d17s06pn_c41abca6:
 translate french d17s06pn_a3ddb668:
 
     # nk "No, no... {w}Just well fucked."
-    nk "Non, non... {w} Juste bien baisé."
+    nk "Non, non... {w}Juste bien baisé."
 
 # game/code/d17/d17s06pn.rpy:258
 translate french d17s06pn_b28d48f9:
@@ -662,7 +662,7 @@ translate french d17s06pn_625d9bea:
 translate french d17s06pn_52657b8c:
 
     # nk "What is this all about? I don't understand."
-    nk "De quoi ...?  Je ne comprends pas."
+    nk "De quoi ...? Je ne comprends pas."
 
 # game/code/d17/d17s06pn.rpy:389
 translate french d17s06pn_a40a43af:
@@ -884,7 +884,7 @@ translate french d17s06pn_1b73a469:
 translate french d17s06pn_3284ce9a:
 
     # mc "Anything you want. {w}Just keep riding my dick."
-    mc "Tout ce que tu veux. {w}Continue juste à chevaucher mon dard."
+    mc "Tout ce que tu veux. {w}Continue juste à chevaucher ma queue."
 
 # game/code/d17/d17s06pn.rpy:474
 translate french d17s06pn_5c9127d1:
@@ -1010,7 +1010,7 @@ translate french d17s06pn_61367668:
 translate french d17s06pn_948ebfa0:
 
     # pw "Thruple."
-    pw "Thruple."
+    pw "Trouple."
 
 # game/code/d17/d17s06pn.rpy:556
 translate french d17s06pn_3ffa32c1:
@@ -1022,7 +1022,7 @@ translate french d17s06pn_3ffa32c1:
 translate french d17s06pn_60dd78b4:
 
     # mc "We're an insanely hot and sexy as fuck threesome."
-    mc "Nous sommes un trio incroyablement chaud et sexy comme l'enfert."
+    mc "Nous sommes un trouple incroyablement chaud et sexy comme l'enfert."
 
 # game/code/d17/d17s06pn.rpy:560
 translate french d17s06pn_09c28ec4:
@@ -1128,7 +1128,7 @@ translate french strings:
 
     # game/code/d17/d17s06pn.rpy:623
     old "They make a cute couple"
-    new "Ils forment un joli couple"
+    new "elles forment un joli couple"
 
     # game/code/d17/d17s06pn.rpy:623
     old "We make a good trio"
