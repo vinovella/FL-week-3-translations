@@ -2,7 +2,7 @@
 translate french d17s06dw_41176219:
 
     # mc "Hello, ladies!"
-    mc "Bonjour les dames!"
+    mc "Bonjour mes dames!"
 
 # game/code/d17/d17s06dw.rpy:61
 translate french d17s06dw_decb2652:
@@ -488,7 +488,7 @@ translate french d17s06dw_clown_room_7f16e184:
 translate french d17s06dw_clown_room_3499f73a:
 
     # dw "Slave! Listen to your Mistress. Come stand her in front of me."
-    dw "Esclave! Écoute ta Maîtresse. Viens la mettre devant moi."
+    dw "Esclave! Écoute ta Maîtresse. Viens te mettre devant moi."
 
 # game/code/d17/d17s06dw.rpy:363
 translate french d17s06dw_clown_room_afa307c1:
@@ -704,7 +704,7 @@ translate french d17s06dw_clown_room_fe33c121:
 translate french d17s06dw_clown_room_6965627e:
 
     # dw "Well, man up, pussy. I demand that you get that dick hard immediately."
-    dw "Eh bien, debout pussy. J'exige que tu fasses bander cette bite immédiatement."
+    dw "Eh bien, debout chatte. J'exige que tu fasses bander cette bite immédiatement."
 
 # game/code/d17/d17s06dw.rpy:478
 translate french d17s06dw_clown_room_c32ad71a:
@@ -1028,7 +1028,7 @@ translate french d17s06dw_clown_room_3b14a328:
 translate french d17s06dw_clown_room_69cabffc:
 
     # mc "Ladies, ladies. Please. {w}Can we just get the hell out of here?"
-    mc "Mesdames, mesdames. S'il te plaît. {w}Pouvons-nous juste foutre le camp d'ici?"
+    mc "Mesdames, mesdames. S'il vous plaît. {w}Pouvons-nous juste foutre le camp d'ici?"
 
 # game/code/d17/d17s06dw.rpy:756
 translate french d17s06dw_clown_room_80d88165:
