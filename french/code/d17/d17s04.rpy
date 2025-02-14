@@ -32,13 +32,13 @@ translate french d17s04_3fc37bf2:
 translate french d17s04_3d74b540:
 
     # hr "Oh yes, I do. {w}There are two reasons for that. Do you want to hear what they are?"
-    hr "Oh oui, je le fais. {w}Il y a deux raisons à cela. Voulez-vous savoir de quoi il s'agit?"
+    hr "Oh oui, je le fais. {w}Il y a deux raisons à cela. Veux-tu savoir de quoi il s'agit?"
 
 # game/code/d17/d17s04.rpy:71
 translate french d17s04_771cd8e7:
 
     # mc "I'm intrigued. Go ahead."
-    mc "Je suis intrigué. Allez-y."
+    mc "Je suis intrigué. Vas-y."
 
 # game/code/d17/d17s04.rpy:73
 translate french d17s04_4ddead28:
@@ -62,7 +62,7 @@ translate french d17s04_2e93ea22:
 translate french d17s04_b123170c:
 
     # hr "It could. {w}It probably will."
-    hr "Cela pourrait. {w}Ce sera probablement le cas."
+    hr "Cela ce pourrait. {w}Ce sera probablement le cas."
 
 # game/code/d17/d17s04.rpy:82
 translate french d17s04_59ced1c9:
@@ -74,7 +74,7 @@ translate french d17s04_59ced1c9:
 translate french d17s04_aef16cde:
 
     # hr "Look, I'm not one of those \"Fuck me in the ass because I like Jebus\" assholes."
-    hr "Ecoute, je ne fais pas partie de ces connards de \"Baise-moi dans le cul parce que j'aime ça\"."
+    hr "Ecoute, je ne fais pas partie de ces connasses de \"Baise-moi dans le cul parce que j'aime ça\"."
 
 # game/code/d17/d17s04.rpy:86
 translate french d17s04_8af29978:
@@ -110,7 +110,7 @@ translate french d17s04_48857fa8:
 translate french d17s04_rough_c369618f:
 
     # hr "Have you ever done any roleplaying?"
-    hr "Avez-vous déjà fait du jeu de rôle?"
+    hr "As-tu déjà fait du jeu de rôle?"
 
 # game/code/d17/d17s04.rpy:111
 translate french d17s04_rough_1805546a:
@@ -470,13 +470,13 @@ translate french d17s04_anal_hard_f8cca428:
 translate french d17s04_anal_hard_0b7ea344:
 
     # hr "I'm sorry-"
-    hr "Je suis désolé-"
+    hr "Je suis désolée-"
 
 # game/code/d17/d17s04.rpy:340
 translate french d17s04_anal_hard_77c4db98:
 
     # mc "Less talking, more sucking..."
-    mc "Moins de paroles, plus de succions..."
+    mc "Moins de bla-bla, plus de gloup-gloup..."
 
 # game/code/d17/d17s04.rpy:346
 translate french d17s04_anal_hard_507e6b0a:
@@ -518,7 +518,7 @@ translate french d17s04_anal_hard_5339b149:
 translate french d17s04_anal_hard_fb5f1604:
 
     # hr "OH! {w}Fuck me, Master!"
-    hr "OH! {w}Baise-moi, Maître!"
+    hr "OH! {w}Baisez-moi, Maître!"
 
 # game/code/d17/d17s04.rpy:368
 translate french d17s04_anal_hard_94ef4685:
@@ -716,13 +716,13 @@ translate french d17s04_anal_hard_c4943bbd:
 translate french d17s04_anal_hard_9fcfe9ef:
 
     # mc "Maybe that's the point. {w}Maybe it would be easier to talk with someone you don't know so well."
-        mc "C'est peut-être le problème. {w}Peut-être qu'il serait plus facile de parler avec quelqu'un que vous ne connaissez pas très bien."
+    mc "C'est peut-être le problème. {w}Peut-être qu'il serait plus facile de parler avec quelqu'un que tu ne connaisses pas très bien."
 
 # game/code/d17/d17s04.rpy:501
 translate french d17s04_anal_hard_75e162be:
 
     # hr "You did your part. {w}You got what you wanted."
-    hr "Vous avez fait votre part. {w}Vous avez obtenu ce que vous vouliez."
+    hr "Tu as fait ta part. {w}Tu as obtenus ce que tu voulais."
 
 # game/code/d17/d17s04.rpy:503
 translate french d17s04_anal_hard_df1af95a:
@@ -770,13 +770,13 @@ translate french d17s04_anal_hard_bc01864b:
 translate french d17s04_anal_hard_b8698e08:
 
     # mc "If you ever want someone to talk to... "
-        mc "Si jamais tu veux parler à quelqu'un..."
+    mc "Si jamais tu veux parler à quelqu'un..."
 
 # game/code/d17/d17s04.rpy:522
 translate french d17s04_anal_hard_620bf83e:
 
     # hr "No offense. You won't be that person."
-    hr "Ne vous offensez pas. Vous ne serez pas cette personne."
+    hr "Ne t'offense pas. Tu ne seras pas cette personne."
 
 # game/code/d17/d17s04.rpy:524
 translate french d17s04_anal_hard_d5ae2301:
@@ -794,7 +794,7 @@ translate french d17s04_anal_soft_c81777fa:
 translate french d17s04_anal_soft_26092615:
 
     # hr "You don't get it. {w}I want this."
-    hr "Vous ne comprenez pas. {w}Je veux ça."
+    hr "Tu ne comprends pas. {w}Je veux ça."
 
 # game/code/d17/d17s04.rpy:540
 translate french d17s04_anal_soft_d1783fff:
@@ -830,7 +830,7 @@ translate french d17s04_anal_soft_bc4fd44d:
 translate french d17s04_anal_soft_ef923976:
 
     # hr "Don't go far. Just get out of my sight for a few minutes."
-    hr "N'allez pas loin. Sortez juste de ma vue pendant quelques minutes."
+    hr "Ne va pas trop loin. Sort juste de ma vue pendant quelques minutes."
 
 # game/code/d17/d17s04.rpy:555
 translate french d17s04_anal_soft_d6e49b4e:
@@ -848,13 +848,13 @@ translate french d17s04_anal_soft_7adea4e7:
 translate french d17s04_anal_soft_97bdc9be:
 
     # mc "Okay, I'll wait just up the stairs. You can tell me when you're ready."
-    mc "D'accord, je vais attendre juste en haut des escaliers. Tu pourras me dire quand tu seras prêt."
+    mc "D'accord, je vais attendre juste en haut des escaliers. Tu pourras me dire quand tu seras prête."
 
 # game/code/d17/d17s04.rpy:562
 translate french d17s04_anal_soft_c0ecab80:
 
     # hr "I won't... {w}Nevermind. I'll text you when I'm ready. You can take me after that."
-    hr "Je ne le ferai pas... {w}Peu importe. Je t'enverrai un message quand je serai prêt. Tu pourras m'emmener après ça."
+    hr "Je ne le ferai pas... {w}Peu importe. Je t'enverrai un message quand je serai prête. Tu pourras m'emmener après ça."
 
 # game/code/d17/d17s04.rpy:563
 translate french d17s04_anal_soft_54b8d130:
@@ -1004,7 +1004,7 @@ translate french d17s04_anal_soft_70947ce0:
 translate french d17s04_anal_soft_e58c7b90:
 
     # mct "Don't get me wrong - her ass feels wonderful wrapped around my cock."
-    mct "Ne vous méprenez pas, son cul est merveilleux, enroulé autour de ma bite."
+    mct "Ne te méprends pas, son cul est merveilleux, enroulé autour de ma bite."
 
 # game/code/d17/d17s04.rpy:621
 translate french d17s04_anal_soft_f877036c:
@@ -1016,7 +1016,7 @@ translate french d17s04_anal_soft_f877036c:
 translate french d17s04_anal_soft_f710a030:
 
     # mct "Screw it. Just enjoy it and get it over with."
-    mct "On s'en fout. Profitez-en et finissez-en."
+    mct "On s'en fout. Profitons-en et finissons-en."
 
 # game/code/d17/d17s04.rpy:625
 translate french d17s04_anal_soft_cd113a7a:
@@ -1118,7 +1118,7 @@ translate french d17s04_end_cf1adef2:
 translate french d17s04_end_a5f86db5:
 
     # ir "Get out of here. I assume you know the way."
-    ir "Sortez d'ici. Je suppose que vous connaissez le chemin."
+    ir "Sort d'ici. Je suppose que tu connais le chemin."
 
 # game/code/d17/d17s04.rpy:692
 translate french d17s04_end_bd09e081:
@@ -1178,7 +1178,7 @@ translate french d17s04_end_dff6a0af:
 translate french d17s04_end_0e248c8b:
 
     # ir "Given the option, you'd take the red pill or the blue pill?"
-    ir "Si vous aviez le choix, prendriez-vous la pilule rouge ou la pilule bleue?"
+    ir "Si tu avais le choix, prendrais-tu la pilule rouge ou la pilule bleue?"
 
 # game/code/d17/d17s04.rpy:720
 translate french d17s04_end_98964dee:
@@ -1190,13 +1190,13 @@ translate french d17s04_end_98964dee:
 translate french d17s04_end_0b16fc3a:
 
     # ir "You take the blue pill—the story ends, you believe whatever you want."
-    ir "Tu prends la pilule bleue, l'histoire se termine, tu crois ce que tu veux."
+    ir "Si tu prends la pilule bleue, l'histoire se termine, tu crois ce que tu veux."
 
 # game/code/d17/d17s04.rpy:724
 translate french d17s04_end_d9e9dc1b:
 
     # ir "You take the red pill—you learn deep, uncomfortable, and unpleasant truths."
-    ir "Vous prenez la pilule rouge : vous apprenez des vérités profondes, inconfortables et désagréables."
+    ir "Si tu prends la pilule rouge : tu apprendras des vérités profondes, inconfortables et désagréables."
 
 # game/code/d17/d17s04.rpy:727
 translate french d17s04_end_93de5ede:
