@@ -2,7 +2,7 @@
 translate french d17s01_918de26a:
 
     # mc "Good Morningwood, Mister Penis. Are you enjoying being free from that cage?"
-    mc "Bonjour, Monsieur Penis. Aimez-vous être libre de cette cage?"
+    mc "Bonjour, Monsieur Penis. Aimes-tu être libre de cette cage?"
 
 # game/code/d17/d17s01.rpy:61
 translate french d17s01_628e3044:
@@ -32,7 +32,7 @@ translate french d17s01_41495cb5:
 translate french d17s01_fff1664e:
 
     # mct "Me & my penis, that is."
-    mct "Moi et mon pénis, bien sûr."
+    mct "Moi et ma bite, bien sûr."
 
 # game/code/d17/d17s01.rpy:74
 translate french d17s01_bf9127c1:
@@ -56,7 +56,7 @@ translate french d17s01_85539b83:
 translate french d17s01_c3742bb7:
 
     # arj "Um, good morning, [mcname]. Did you forget we invited your girlfriend over for breakfast?"
-    arj "Euh, bonjour, [mcname]. As-tu oubliés que nous avons invité ta petite amie pour le petit-déjeuner?"
+    arj "Euh, bonjour, [mcname]. As-tu oublié que nous avons invité ta petite amie pour le petit-déjeuner ?"
 
 # game/code/d17/d17s01.rpy:87
 translate french d17s01_aff36e20:
@@ -74,7 +74,7 @@ translate french d17s01_efbea2b8:
 translate french d17s01_8114a09f:
 
     # mc "Uh..."
-    mc "Uh..."
+    mc "Euh..."
 
 # game/code/d17/d17s01.rpy:94
 translate french d17s01_ece10c0f:
@@ -152,7 +152,7 @@ translate french d17s01_20436e1c:
 translate french d17s01_b0c45ef6:
 
     # lc "So, after we enjoy AmRose's delicious food I suppose we're just studying."
-    lc "Donc, après avoir dégusté la délicieuse nourriture d'AmRose, je suppose que nous allons juste en train d'étudier."
+    lc "Donc, après avoir dégusté la délicieuse nourriture d'AmRose, je suppose que nous allons juste étudier."
 
 # game/code/d17/d17s01.rpy:135
 translate french d17s01_a245777f:
@@ -176,13 +176,13 @@ translate french d17s01_46a8e391:
 translate french d17s01_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "Que veux-tu dire?"
+    mc "Que veux-tu dire ?"
 
 # game/code/d17/d17s01.rpy:143
 translate french d17s01_46999ec7:
 
     # lc "What do you have in mind?"
-    lc "Qu'est-ce que tu as en tête?"
+    lc "Qu'est-ce que tu as en tête ?"
 
 # game/code/d17/d17s01.rpy:146
 translate french d17s01_8186c760:
@@ -278,7 +278,7 @@ translate french d17s01_64c28bdc:
 translate french d17s01_695b76ff:
 
     # lc "Cynthia knows she can't beat either of us straight up, so she's clever and tricky."
-    lc "Cynthia sait qu'elle ne peut battre aucun de nous, alors elle est intelligente et délicate."
+    lc "Cynthia sait qu'elle ne peut battre aucunes de nous, alors elle est intelligente et délicate."
 
 # game/code/d17/d17s01.rpy:200
 translate french d17s01_868151d4:
@@ -308,7 +308,7 @@ translate french d17s01_e935ee09:
 translate french d17s01_6b1b47e8:
 
     # lc "Who are the professors grading you this year?"
-    lc "Qui sont les professeurs qui vous notent cette année?"
+    lc "Qui sont les professeurs qui te notent cette année?"
 
 # game/code/d17/d17s01.rpy:215
 translate french d17s01_04bb67ca:
@@ -410,7 +410,7 @@ translate french d17s01_6a88576b:
 translate french d17s01_30e6bcf3:
 
     # lc "Of course, you're my boyfriend."
-    lc"Bien sûr, tu es mon petit-ami."
+    lc "Bien sûr, tu es mon petit-ami."
 
 # game/code/d17/d17s01.rpy:262
 translate french d17s01_6cfeb982:
