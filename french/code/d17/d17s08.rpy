@@ -206,7 +206,7 @@ translate french d17s08_c300e12c:
 translate french d17s08_49840bce:
 
     # mc "Oh, right. {w}Polly's girlfriend, on the other hand, isn't as comfortable with being seen in public."
-    mc "Oh, c'est vrai. {w}la petite amie de Polly, en revanche, n'est pas aussi à l'aise d'être vue en public."
+    mc "Oh, c'est vrai. {w}La petite amie de Polly, en revanche, n'est pas aussi à l'aise d'être vue en public."
 
 # game/code/d17/d17s08.rpy:155
 translate french d17s08_ff3faf4d:
@@ -494,13 +494,13 @@ translate french replay_d17s08_39848f85:
 translate french replay_d17s08_60740d9f:
 
     # mc "But, I mean, how are you here?"
-    mc "Mais je veux dire, comment est tu entré?"
+    mc "Mais je veux dire, comment est-tu ici?"
 
 # game/code/d17/d17s08.rpy:306
 translate french replay_d17s08_3fc417d4:
 
     # sy "I let myself in."
-    sy "Par moi-même."
+    sy "Je me suis laissé entrer."
 
 # game/code/d17/d17s08.rpy:309
 translate french replay_d17s08_1c43d221:
@@ -512,7 +512,7 @@ translate french replay_d17s08_1c43d221:
 translate french replay_d17s08_dc931c83:
 
     # sy "And it will be locked again after I leave."
-    sy "Et elle sera à nouveau verrouillé après mon départ."
+    sy "Et elle sera à nouveau verrouillée après mon départ."
 
 # game/code/d17/d17s08.rpy:315
 translate french replay_d17s08_11455b53:
@@ -542,13 +542,13 @@ translate french replay_d17s08_ee35b364:
 translate french replay_d17s08_e8f7b771:
 
     # mc "I mean, she's a girl, so..."
-    mc "Je veux dire, c'est une fille, alors..."
+    mc "Je veux dire, c'est une fille, donc..."
 
 # game/code/d17/d17s08.rpy:329
 translate french replay_d17s08_91362fe5:
 
     # sy "Hmm. I don't take very long in the shower."
-    sy "Hmm. Je ne passe pas beaucoup de temps sous la douche."
+    sy "Hmm. Je ne prends pas beaucoup de temps sous la douche."
 
 # game/code/d17/d17s08.rpy:332
 translate french replay_d17s08_1f519986:
@@ -566,7 +566,7 @@ translate french replay_d17s08_315d7bee:
 translate french replay_d17s08_06cc84b6:
 
     # sy "That should be plenty of time for the data transfer."
-    sy "Ça devrait laisser suffisamment de temps pour le transfert de données."
+    sy "Ça devrait être largement suffisant pour le transfert de données."
 
 # game/code/d17/d17s08.rpy:339
 translate french replay_d17s08_bc4fd44d:
@@ -578,7 +578,7 @@ translate french replay_d17s08_bc4fd44d:
 translate french replay_d17s08_a637bdbf:
 
     # sy "Actually... that should also be plenty of time for a little fun."
-    sy "En fait... Ça devrait aussi être suffisamment de temps pour s'amuser un peu."
+    sy "En fait... Ça devrait aussi être suffisamment de temps pour un peu de plaisir."
 
 # game/code/d17/d17s08.rpy:348
 translate french replay_d17s08_04e7cdbb:
@@ -680,7 +680,7 @@ translate french replay_d17s08_04478ac2:
 translate french replay_d17s08_76346d47:
 
     # sy "Only if you promise to come down my throat."
-    sy "Seulement si tu promets de me baisé la gorge."
+    sy "Seulement si tu promets de venir dans ma gorge."
 
 # game/code/d17/d17s08.rpy:422
 translate french replay_d17s08_33d2db8d:
@@ -713,19 +713,19 @@ translate french replay_d17s08_c1dff962:
     mc "Oh..."
 
 # game/code/d17/d17s08.rpy:435
-translate french replay_d17s08_715b63e4:
+translate english replay_d17s08_715b63e4:
 
     # mc "OH-"
     mc "OH-"
 
 # game/code/d17/d17s08.rpy:446
-translate french replay_d17s08_cff9e1b2:
+translate english replay_d17s08_cff9e1b2:
 
     # mc "OH FUCK YESSS"
     mc "OH PUTAIN OUI"
 
 # game/code/d17/d17s08.rpy:453
-translate french replay_d17s08_69bea1a5:
+translate english replay_d17s08_69bea1a5:
 
     # mc "That's-"
     mc "C'est-"
@@ -737,7 +737,7 @@ translate french replay_d17s08_d64a2696:
     mc "C'est vraiment génial."
 
 # game/code/d17/d17s08.rpy:455
-translate french replay_d17s08_8678e9c7:
+translate english replay_d17s08_8678e9c7:
 
     # mc "How did you get so good at that?"
     mc "Comment es-tu devenu si bonne là dedans?"
@@ -749,7 +749,7 @@ translate french replay_d17s08_01f0c2ac:
     sy "Recherche."
 
 # game/code/d17/d17s08.rpy:461
-translate french replay_d17s08_0a7ca4c7:
+translate english replay_d17s08_0a7ca4c7:
 
     # mc "Research?"
     mc "Recherche?"
@@ -761,7 +761,7 @@ translate french replay_d17s08_fd1425ca:
     sy "J'ai eu six mois pour parcourir ta boîte de porno."
 
 # game/code/d17/d17s08.rpy:467
-translate french replay_d17s08_7488ae3e:
+translate english replay_d17s08_7488ae3e:
 
     # mc "Oh yeah."
     mc "Oh ouais."
@@ -773,7 +773,7 @@ translate french replay_d17s08_e3c7e8fb:
     sy "Je sais exactement ce que tu veux et comment te le donner."
 
 # game/code/d17/d17s08.rpy:473
-translate french replay_d17s08_9270f444:
+translate english replay_d17s08_9270f444:
 
     # mc "You are incredible."
     mc "Tu es incroyable."
@@ -785,7 +785,7 @@ translate french replay_d17s08_40ba64dd:
     sy "Oh, regarde ça, nous avons [d17s08_points] points pour..."
 
 # game/code/d17/d17s08.rpy:482
-translate french replay_d17s08_386a2729:
+translate english replay_d17s08_386a2729:
 
     # sy "So, how's things?"
     sy "Alors, comment ça va?"
@@ -797,7 +797,7 @@ translate french replay_d17s08_7187a437:
     mc "Euh... Ça va?"
 
 # game/code/d17/d17s08.rpy:488
-translate french replay_d17s08_f10db3de:
+translate english replay_d17s08_f10db3de:
 
     # sy "You own clothes, don't you?"
     sy "Tu possèdes des vêtements, n'est-ce pas?"
@@ -809,7 +809,7 @@ translate french replay_d17s08_fcaf3220:
     mc "C'était juste ma petite amie et moi.{w}.. Je m'apprêtais à dormir."
 
 # game/code/d17/d17s08.rpy:494
-translate french replay_d17s08_4d7f0c0b:
+translate english replay_d17s08_4d7f0c0b:
 
     # sy "I'm not complaining. I'm just saying, after Sunday..."
     sy "Je ne me plains pas. Je dis juste qu'après dimanche..."
@@ -821,7 +821,7 @@ translate french replay_d17s08_e46b7572:
     mc "Toi et AmRose avez volé mes vêtements dimanche."
 
 # game/code/d17/d17s08.rpy:500
-translate french replay_d17s08_9af6b524:
+translate english replay_d17s08_9af6b524:
 
     # sy "Are you even allowed to wear clothing in this house?"
     sy "Es-tu au moins autorisé à porter des vêtements dans cette maison?"
@@ -833,7 +833,7 @@ translate french replay_d17s08_2f5731d3:
     mc "Oui. J'ai le droit de porter des vêtements."
 
 # game/code/d17/d17s08.rpy:505
-translate french replay_d17s08_bddb1774:
+translate english replay_d17s08_bddb1774:
 
     # mc "*mumbles* probably"
     mc "*marmonne* probablement"
@@ -845,7 +845,7 @@ translate french replay_d17s08_0acdabbb:
     sy "Très bien. Je te donne le bénéfice du doute."
 
 # game/code/d17/d17s08.rpy:511
-translate french replay_d17s08_afad4af1:
+translate english replay_d17s08_afad4af1:
 
     # mc "So, when did you modify your phone to download data on-?"
     mc "Alors, quand as-tu modifié ton téléphone pour télécharger des données sur-?"
@@ -857,7 +857,7 @@ translate french replay_d17s08_a49d7f40:
     sy "Tu trouves Mira? Oh, plus tôt dans la journée."
 
 # game/code/d17/d17s08.rpy:516
-translate french replay_d17s08_ccdf5709:
+translate english replay_d17s08_ccdf5709:
 
     # mc "Mira?"
     mc "Mira?"
@@ -869,7 +869,7 @@ translate french replay_d17s08_ac4ccd5d:
     sy "Ce shiba inu qu'on essaie de trouver. Tu sais de qui je parle."
 
 # game/code/d17/d17s08.rpy:521
-translate french replay_d17s08_46a1f2b0:
+translate english replay_d17s08_46a1f2b0:
 
     # mct "Oh, right. Fetish Locator might be listening."
     mct "Oh, c'est vrai. Fetish Locator écoute peut-être."
@@ -881,7 +881,7 @@ translate french replay_d17s08_60658749:
     mct "Oh, c'est vrai. Rétention, écoute..."
 
 # game/code/d17/d17s08.rpy:525
-translate french replay_d17s08_5850c7f6:
+translate english replay_d17s08_5850c7f6:
 
     # mc "Right, that lost... dog. I didn't realize it had a name."
     mc "C'est vrai, perdu... ce chien. Je n'avais pas réalisé qu'il avait un nom."
@@ -893,7 +893,7 @@ translate french replay_d17s08_be98a638:
     sy "Ne t'inquiète pas. Nous le trouverons."
 
 # game/code/d17/d17s08.rpy:531
-translate french replay_d17s08_d289b245:
+translate english replay_d17s08_d289b245:
 
     # mc "So, is there any progress on finding... Mira?"
     mc "Alors, y a-t-il des progrès dans la recherche... de Mira?"
@@ -905,7 +905,7 @@ translate french replay_d17s08_4bd7bded:
     sy "Eh bien, le transfert de données va dans les deux sens. Il y a une mise à jour du logiciel de recherche."
 
 # game/code/d17/d17s08.rpy:536
-translate french replay_d17s08_c7ca3906:
+translate english replay_d17s08_c7ca3906:
 
     # mc "That sounds nice."
     mc "Ça a l'air sympa."
@@ -917,7 +917,7 @@ translate french replay_d17s08_864e5c06:
     sy "J'espère que nous retrouverons Mira demain."
 
 # game/code/d17/d17s08.rpy:544
-translate french replay_d17s08_a1289911:
+translate english replay_d17s08_a1289911:
 
     # mc "Uh, sis. My girlfriend's coming this way."
     mc "Euh, soeurette. Lydia arrive par ici."
@@ -929,7 +929,7 @@ translate french replay_d17s08_242324f2:
     mc "Euh, Stacy. Lydia arrive par ici."
 
 # game/code/d17/d17s08.rpy:550
-translate french replay_d17s08_96f753dd:
+translate english replay_d17s08_96f753dd:
 
     # mc "Hey sexy lady."
     mc "Hé, dame sexy."
@@ -941,7 +941,7 @@ translate french replay_d17s08_63a926ed:
     lc "Hé toi-même, homme nu."
 
 # game/code/d17/d17s08.rpy:556
-translate french replay_d17s08_2376c239:
+translate english replay_d17s08_2376c239:
 
     # lc "Oh good, you jerked off while I was in the shower."
     lc "Oh, tu t'es branlé pendant que j'étais sous la douche."
@@ -953,7 +953,7 @@ translate french replay_d17s08_59332753:
     lc "Ce n'est pas que je ne voulais pas être là quand tu a pris ton pied, mais je suis fatiguée."
 
 # game/code/d17/d17s08.rpy:561
-translate french replay_d17s08_653e0ff8:
+translate english replay_d17s08_653e0ff8:
 
     # lc "Damn, you're so fucking sexy."
     lc "Putain, tu es tellement sexy."
@@ -965,7 +965,7 @@ translate french replay_d17s08_dfc6e236:
     lc "Si je n'étais pas si fatiguée, je te jetterais sur le lit et je me débrouillerais avec toi."
 
 # game/code/d17/d17s08.rpy:566
-translate french replay_d17s08_8280a992:
+translate english replay_d17s08_8280a992:
 
     # lc "Wow. You are so incredibly sexy right now."
     lc "Wow. Tu es incroyablement sexy en ce moment."
@@ -977,7 +977,7 @@ translate french replay_d17s08_61f2fd92:
     lc "Si je n'étais pas si fatiguée, je ferais des choses tellement horribles avec toi."
 
 # game/code/d17/d17s08.rpy:572
-translate french replay_d17s08_64559936:
+translate english replay_d17s08_64559936:
 
     # mc "Too much time studying for finals?"
     mc "Tu passes trop de temps à étudier pour les examens?"
@@ -989,7 +989,7 @@ translate french replay_d17s08_8e9ab5b6:
     lc "Tu n'as aucune idée à quel point j'ai mal à la gorge à force de m'entraîner au chant."
 
 # game/code/d17/d17s08.rpy:579
-translate french replay_d17s08_bac69fdd:
+translate english replay_d17s08_bac69fdd:
 
     # lc "Did you hear-?"
     lc "Tu as entendu...?"
@@ -998,10 +998,10 @@ translate french replay_d17s08_bac69fdd:
 translate french replay_d17s08_daeb626d:
 
     # lc "What was that for?"
-    lc "C'était pour quoi?"
+    lc "C'était pourquoi?"
 
 # game/code/d17/d17s08.rpy:599
-translate french replay_d17s08_6195c941:
+translate english replay_d17s08_6195c941:
 
     # mc "I was just overwhelmed with the desire to kiss you."
     mc "J'étais juste submergé par l'envie de t'embrasser."
@@ -1013,7 +1013,7 @@ translate french replay_d17s08_e8044916:
     lc "J'aime ça."
 
 # game/code/d17/d17s08.rpy:605
-translate french replay_d17s08_43ddfa89:
+translate english replay_d17s08_43ddfa89:
 
     # mc "So, you were telling me about your neighbor?"
     mc "Alors tu me parlais de ton voisin?"
@@ -1155,4 +1155,5 @@ translate french replay_d17s08_55d60f89:
 
     # mct "Oh, crap."
     mct "Oh, merde."
+
 
