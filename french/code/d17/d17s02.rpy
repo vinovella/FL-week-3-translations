@@ -86,7 +86,7 @@ translate french replay_d17s02_cafec360:
 translate french replay_d17s02_5db09cbc:
 
     # mc "Well, damn. I just came in. Don't I even get something to drink?"
-    mc "Eh bien, putain. Je viens d'entrer. Je ne prends même pas quelque chose à boire?"
+    mc "Bon, zut. Je viens d'arriver. Je n'ai même pas droit à quelque chose à boire?"
 
 # game/code/d17/d17s02.rpy:124
 translate french replay_d17s02_e46105de:
@@ -206,7 +206,7 @@ translate french replay_d17s02_751f8ae9:
 translate french replay_d17s02_4f3474da:
 
     # vw "Any time. Just let me know when and where and I'll be there."
-    vw "À tout moment. Fait-moi savoir quand et où et je serai là."
+    vw "À tout moment. Fait-moi savoir où et quand et je serai là."
 
 # game/code/d17/d17s02.rpy:169
 translate french replay_d17s02_7158eb1c:
@@ -260,7 +260,7 @@ translate french replay_d17s02_c89e0947:
 translate french replay_d17s02_2e5a2c67:
 
     # mc "I think you need to learn to be a bit more...open to listening."
-    mc "Je pense que tu dois apprendre à être un peu plus... ouvert à l'écoute."
+    mc "Je pense que tu dois apprendre à être un peu plus... ouverte à l'écoute."
 
 # game/code/d17/d17s02.rpy:196
 translate french replay_d17s02_01a92e8d:
@@ -284,13 +284,13 @@ translate french replay_d17s02_f2700582:
 translate french replay_d17s02_b6eccd10:
 
     # vw "So what? Do I need to be submissive? Why do I have to be..."
-    vw "Et alors? Dois-je être soumis? Pourquoi dois-je être..."
+    vw "Et alors? Dois-je être soumise? Pourquoi dois-je être..."
 
 # game/code/d17/d17s02.rpy:207
 translate french replay_d17s02_53ba7708:
 
     # mc "Well it's not submi—"
-    mc"Eh bien, ce n'est pas soumis—"
+    mc"Eh bien, ce n'est pas soumise—"
 
 # game/code/d17/d17s02.rpy:209
 translate french replay_d17s02_c089cc68:
@@ -368,7 +368,7 @@ translate french replay_d17s02_cdd0b035:
 translate french replay_d17s02_7ee9cf6f:
 
     # mct "But it {i}is{/i} a bit weird."
-    mct "Mais c'est {i}c'est{/i} un peu bizarre."
+    mct "Même si {i}c'est{/i} un peu bizarre."
 
 # game/code/d17/d17s02.rpy:250
 translate french replay_d17s02_cd16eeee:
@@ -722,7 +722,7 @@ translate french d17s02_vw_fucking_b647c696:
 translate french d17s02_vw_fucking_2d541ac9:
 
     # vw "Yes! Stretch me out! God, that feels so good."
-    vw "Oui! Étirez-moi! Mon Dieu, ça fait du bien."
+    vw "Oui! Étire-moi! Mon Dieu, ça fait du bien."
 
 # game/code/d17/d17s02.rpy:602
 translate french d17s02_vw_fucking_c61f130f:
