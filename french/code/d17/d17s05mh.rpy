@@ -92,7 +92,7 @@ translate french d17s05mh_ae8f1760:
 translate french d17s05mh_7f26ea0b:
 
     # mh "I've really missed you. It's not as fun as it used to be to have the house all to myself."
-    mh "Tu m'as vraiment manqué. Ce n'est plus aussi amusant qu'avant d'avoir la maison pour moi toute seul."
+    mh "Tu m'as vraiment manqué. Ce n'est plus aussi amusant qu'avant d'avoir la maison pour moi toute seule."
 
 # game/code/d17/d17s05mh.rpy:136
 translate french d17s05mh_dcdc0120:
@@ -248,7 +248,7 @@ translate french d17s05mh_b9bb1389:
 translate french d17s05mh_763002f5:
 
     # mh "That feels so {i}good{/i}."
-    mh "C'est tellement {i}bien{/i}."
+    mh "C'est tellement {i}bon{/i}."
 
 # game/code/d17/d17s05mh.rpy:318
 translate french d17s05mh_9bb74fbf:
@@ -290,7 +290,7 @@ translate french d17s05mh_3938e692:
 translate french d17s05mh_832c6529:
 
     # mh "*Staggered moans* I love you so much, [mcname]."
-    mh "*Gémissements décalés* Je t'aime tellement, [mcname]."
+    mh "*Gémissements saccadés* Je t'aime tellement, [mcname]."
 
 # game/code/d17/d17s05mh.rpy:376
 translate french d17s05mh_13c5c40d:
@@ -302,7 +302,7 @@ translate french d17s05mh_13c5c40d:
 translate french d17s05mh_f311de19:
 
     # mh "*Primal moans* Right there, keep going... *Moans get even louder*."
-    mh "*Gémissements primordiaux* Juste là, continues... *Les gémissements deviennent encore plus forts*."
+    mh "*Gémissements* Juste là, continues... *Les gémissements deviennent encore plus forts*."
 
 # game/code/d17/d17s05mh.rpy:437
 translate french d17s05mh_7028cb9f:
@@ -350,7 +350,7 @@ translate french d17s05mh_f20543ac:
 translate french d17s05mh_cuddle_71a48aed:
 
     # mh "I've been thinking."
-    mh "J'ai réfléchi."
+    mh "J'ai réfléchie."
 
 # game/code/d17/d17s05mh.rpy:540
 translate french d17s05mh_cuddle_ff7f394f:
@@ -416,7 +416,7 @@ translate french d17s05mh_cuddle_4a811451:
 translate french d17s05mh_cuddle_8fd49189:
 
     # mh "Well, good for you I've already been thinking about that."
-    mh "Eh bien, tant mieux pour toi, j'y ai déjà pensé."
+    mh "Eh bien, tant mieux pour toi, j'y ai déjà pensée."
 
 # game/code/d17/d17s05mh.rpy:576
 translate french d17s05mh_cuddle_3f7d0c9c:
@@ -428,7 +428,7 @@ translate french d17s05mh_cuddle_3f7d0c9c:
 translate french d17s05mh_cuddle_b7baeaf2:
 
     # mh "*Laughs softly*"
-    mh "*Rire doucement*"
+    mh "*Ries doucement*"
 
 # game/code/d17/d17s05mh.rpy:580
 translate french d17s05mh_cuddle_08bd6008:
@@ -464,7 +464,7 @@ translate french d17s05mh_cuddle_1006283e:
 translate french d17s05mh_cuddle_4a6de014:
 
     # mh "Not right now. I don't have it all sorted just yet."
-    mh "Pas pour le moment. Je n'ai pas encore tout réglée."
+    mh "Pas pour le moment. Je n'ai pas encore tout réglé."
 
 # game/code/d17/d17s05mh.rpy:594
 translate french d17s05mh_cuddle_f51dc403:
@@ -536,7 +536,7 @@ translate french strings:
 
     # game/code/d17/d17s05mh.rpy:234
     old "Jerk her off"
-    new "Branlez-la"
+    new "Branle-la"
 
     # game/code/d17/d17s05mh.rpy:234
     old "Give her a blowjob"
@@ -544,7 +544,7 @@ translate french strings:
 
     # game/code/d17/d17s05mh.rpy:322
     old "Edge Lyssa"
-    new "Border Lyssa"
+    new "Ne fais pas jouir Lyssa"
 
     # game/code/d17/d17s05mh.rpy:322
     old "Let Lyssa cum"
@@ -556,7 +556,7 @@ translate french strings:
 
     # game/code/d17/d17s05mh.rpy:480
     old "Cum in her mouth"
-    new "Sperme dans sa bouche"
+    new "Jouis dans sa bouche"
 
     # game/code/d17/d17s05mh.rpy:480
     old "Cum in her ass"
