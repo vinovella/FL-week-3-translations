@@ -26,7 +26,7 @@ translate french d17s04_09acea12:
 translate french d17s04_3fc37bf2:
 
     # mc "You don't have to-"
-    mc "Tu n'es pas obligé-"
+    mc "Tu n'es pas obligée-"
 
 # game/code/d17/d17s04.rpy:68
 translate french d17s04_3d74b540:
@@ -212,7 +212,7 @@ translate french d17s04_rough_0a46f7be:
 translate french d17s04_rough_d9468042:
 
     # hr "For this roleplay, you're going to be playing a rich and powerful man and I'm going to be pretending to be a submissive woman you're extorting."
-    hr "Pour ce jeu de rôle, vous allez jouer un homme riche et puissant et je vais faire semblant d'être une femme soumise que vous extorquez."
+    hr "Pour ce jeu de rôle, tu vas jouer un homme riche et puissant et je vais faire semblant d'être une femme soumise que t'extorque."
 
 # game/code/d17/d17s04.rpy:161
 translate french d17s04_rough_085722e2:
@@ -398,7 +398,7 @@ translate french d17s04_anal_hard_aadcba22:
 translate french d17s04_anal_hard_21228682:
 
     # hr "*struggling to speak* Nossir"
-    hr "*j'ai du mal à parler* Non monsieur"
+    hr "*Paroles étouffées* Non monsieur"
 
 # game/code/d17/d17s04.rpy:307
 translate french d17s04_anal_hard_6c7f9d2e:
@@ -422,13 +422,13 @@ translate french d17s04_anal_hard_48cbc10d:
 translate french d17s04_anal_hard_12fb0c2c:
 
     # hr "*struggling* Please..."
-    hr "*en difficulté* S'il te plaît..."
+    hr "*luttant* S'il te plaît..."
 
 # game/code/d17/d17s04.rpy:317
 translate french d17s04_anal_hard_c28759e2:
 
     # mc "Change your mind, Cunt?! Do you want me to stop this?!"
-    mc "Change d'avis, Chienne?! Tu veux que j'arrête ça?!"
+    mc "Tu change d'avis, Chienne?! Tu veux que j'arrête ça?!"
 
 # game/code/d17/d17s04.rpy:320
 translate french d17s04_anal_hard_f838d11f:
@@ -560,7 +560,7 @@ translate french d17s04_anal_hard_51fc60d5:
 translate french d17s04_anal_hard_bb13b81c:
 
     # mct "This is so fucked up."
-    mct "C'est tellement foutu."
+    mct "C'est tellement dingue."
 
 # game/code/d17/d17s04.rpy:389
 translate french d17s04_anal_hard_575ca38c:
@@ -632,7 +632,7 @@ translate french d17s04_anal_hard_c6342e9e:
 translate french d17s04_anal_hard_87e26eb2:
 
     # mc "Good girl."
-    mc "Bonne fille."
+    mc "Bonne chienne."
 
 # game/code/d17/d17s04.rpy:445
 translate french d17s04_anal_hard_ab8aa43c:
