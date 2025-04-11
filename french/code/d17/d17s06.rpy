@@ -74,7 +74,7 @@ translate french d17s06_study_2f8d2368:
 translate french d17s06_study_2ee29c4b:
 
     # mct "Damn. Why is studying always so boring?"
-    mct "Putain. Pourquoi étudier est-il toujours aussi ennuyeux?"
+    mct "Putain. Pourquoi étudier est-il toujours aussi casse couilles?"
 
 # game/code/d17/d17s06.rpy:102
 translate french d17s06_study_6f7e0983:
