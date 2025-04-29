@@ -92,7 +92,7 @@ translate french d18s10_spaceballs_8fd5cdb9:
 translate french d18s10_boobs_d5ff8839:
 
     # mct "Hehehehehehe... BOOB."
-    mct "Hehehehehehe... BOOB."
+    mct "Hehehehehehe... SEINS."
 
 # game/code/d18/d18s10.rpy:239
 translate french d18s10_boobs_84b76a9d:
@@ -122,7 +122,7 @@ translate french d18s10_open_door_2f61051d:
 translate french d18s10_open_door_084634ca:
 
     # mct "Not a spinning egg chair in sight..."
-    mct "Pas un fauteuil en vue..."
+    mct "Pas un fauteuil tournant en vue..."
 
 # game/code/d18/d18s10.rpy:296
 translate french d18s10_open_door_8717045e:
@@ -350,7 +350,7 @@ translate french d18s10_creampie_96fecfde:
 translate french d18s10_creampie_bcea1c0c:
 
     # lc "CREAMPIE MY PUSSY YOU CUNT!!!"
-    lc "REMPLIES MA CHATTE DE SALOPE!!!"
+    lc "REMPLIS MA CHATTE DE SALOPE!!!"
 
 # game/code/d18/d18s10.rpy:492
 translate french d18s10_creampie_32440a1d:
@@ -362,7 +362,7 @@ translate french d18s10_creampie_32440a1d:
 translate french d18s10_anal_1f40a01a:
 
     # lc "Please! Pete!! Please!!!"
-    lc "S'il te plaît! Pierre!! S'il te plaît!!!"
+    lc "S'il te plaît! pete!! S'il te plaît!!!"
 
 # game/code/d18/d18s10.rpy:508
 translate french d18s10_anal_70a4acf5:
@@ -374,7 +374,7 @@ translate french d18s10_anal_70a4acf5:
 translate french d18s10_anal_bcc3b2ff:
 
     # lc "Throw me on the couch and FUCK MY DIRTBOX!"
-    lc "Jette-moi sur le canapé et BAISE MA DIRTBOX!"
+    lc "Jette-moi sur le canapé et BAISE MON CUL!"
 
 # game/code/d18/d18s10.rpy:513
 translate french d18s10_anal_e89fb25a:
@@ -542,7 +542,7 @@ translate french d18s10_gag_9c9e0263:
 translate french d18s10_gag_3c1c866f:
 
     # lc "*GAGS, CHOKING ON CUM*"
-    lc "*GAGS, s'étouffe avec du sperme*"
+    lc "*BÂILLONNES, S'ÉTOUFFE AVEC DU SPERME*"
 
 # game/code/d18/d18s10.rpy:734
 translate french d18s10_bdsm_4279d849:
@@ -757,4 +757,5 @@ translate french strings:
     # game/code/d18/d18s10.rpy:246
     old "Just Sex, a lot of Sex"
     new "Juste du sexe, beaucoup de sexe"
+
 
