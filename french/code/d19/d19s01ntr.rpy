@@ -1,204 +1,170 @@
 # game/code/d19/d19s01ntr.rpy:21
 translate french d19s01ntr_bef95491:
-
     # mc "Huh?{w} What?!{w} Where am I?"
     mc "Hein?{w} Quoi?!{w} Où suis-je?"
 
 # game/code/d19/d19s01ntr.rpy:24
 translate french d19s01ntr_1de62988:
-
     # lc "You're finally awake."
     lc "Tu es enfin réveillé."
 
 # game/code/d19/d19s01ntr.rpy:27
 translate french d19s01ntr_f42241db:
-
     # mc "Lydia?"
     mc "Lydia?"
 
 # game/code/d19/d19s01ntr.rpy:30
 translate french d19s01ntr_31d80bbc:
-
     # lc "You may call me, \"Mistress\" here."
     lc "Tu peux m'appeler \"Maîtresse\" là."
 
 # game/code/d19/d19s01ntr.rpy:33
 translate french d19s01ntr_e065ec42:
-
     # mc "Fuck. I must be dreaming or having a nightmare or something."
     mc "Putain. Je dois être en train de rêver ou de faire un cauchemar ou quelque chose du genre."
 
 # game/code/d19/d19s01ntr.rpy:36
 translate french d19s01ntr_93f53efc:
-
     # lc "Do you want me to pinch you?{w} I'd rather have Jerome punch you."
     lc "Tu veux que je te pince?{w} Je préférerais que Jérôme te frappe."
 
 # game/code/d19/d19s01ntr.rpy:42
 translate french d19s01ntr_044bb933:
-
     # lc "That wasn't a request. Heel, bitch."
     lc "Ce n'était pas une demande. Salope."
 
 # game/code/d19/d19s01ntr.rpy:46
 translate french d19s01ntr_6c1f8f67:
-
     # mc "What the fuck is going on here?"
     mc "Qu'est-ce qui se passe ici?"
 
 # game/code/d19/d19s01ntr.rpy:49
 translate french d19s01ntr_659c72ed:
-
     # lc "Everything is going according to plan. Let me clear this up for you."
     lc "Tout se passe comme prévu. Laisse-moi clarifier ça pour toi."
 
 # game/code/d19/d19s01ntr.rpy:51
 translate french d19s01ntr_1a6acbc5:
-
     # lc "I'm the baddddd guy.{w} duh."
     lc "Je suis la méchante.{w} duh."
 
 # game/code/d19/d19s01ntr.rpy:69
 translate french d19s01ntr_c16c21b4:
-
     # mc "...?!"
     mc "...?!"
 
 # game/code/d19/d19s01ntr.rpy:72
 translate french d19s01ntr_765553a6:
-
     # lc "Welcome to my Dungeon, slave."
     lc "Bienvenue dans mon donjon, esclave."
 
 # game/code/d19/d19s01ntr.rpy:75
 translate french d19s01ntr_13f4d0c2:
-
     # mc "...?!?!"
     mc "...?!?!"
 
 # game/code/d19/d19s01ntr.rpy:78
 translate french d19s01ntr_8e211d0a:
-
     # lc "Good. You're at a complete loss for words. I thought this might happen."
     lc "Bien. Tu es complètement à court de mots. Je pensais que ça pourrait arriver."
 
 # game/code/d19/d19s01ntr.rpy:81
 translate french d19s01ntr_cf942ace:
-
     # mc "Actually, I've just got a raging headache.{w} Do you have any Tylenol?"
     mc "En fait, j'ai juste un violent mal de tête. {w} As-tu du Tylenol?"
 
 # game/code/d19/d19s01ntr.rpy:84
 translate french d19s01ntr_7f1e4000:
-
     # lc "Cute.{w} Gag him."
     lc "Mignon.{w} Bâillonne-le."
 
 # game/code/d19/d19s01ntr.rpy:90
 translate french d19s01ntr_30ce0ad8:
-
     # mct "What the fuck!{w} This isn't some bizarre nightmare...{w} It is real."
     mct "C'est quoi ce bordel!{w} Ce n'est pas un cauchemar bizarre...{w} C'est réel!"
 
 # game/code/d19/d19s01ntr.rpy:93
 translate french d19s01ntr_e09392dc:
-
     # lc "To answer your earlier statement - this dungeon is my dream. Fetish Locator was merely the audition.{w} This is your Reality now."
     lc "Pour répondre à ta déclaration précédente, ce donjon est mon rêve. Fetish Locator n'était qu'une audition.{w} C'est ta réalité maintenant."
 
 # game/code/d19/d19s01ntr.rpy:94
 translate french d19s01ntr_e00b46ee:
-
     # lc "I am your goddess; your sun & moon; your everything.{w} You are my latest creation."
     lc "Je suis ta déesse, ton soleil et ta lune. Ton tout.{w} Tu es ma dernière création."
 
 # game/code/d19/d19s01ntr.rpy:97
 translate french d19s01ntr_281e49fe:
-
     # lc "There have been others, of course."
     lc "Il y en a eu d'autres, bien sûr."
 
 # game/code/d19/d19s01ntr.rpy:98
 translate french d19s01ntr_68ecd2b8:
-
     # lc "Jerome here has his uses. And Pete, of course..."
     lc "Jérôme ici a son utilité. Et Pete, bien sûr..."
 
 # game/code/d19/d19s01ntr.rpy:99
 translate french d19s01ntr_a3a34f40:
-
     # lc "Isn't Pete such a lovely toy? I get bored of him so often, yet sometimes he's just wonderful."
     lc "Pete n'est-il pas un si joli jouet? Je m'ennuie si souvent de lui, et pourtant parfois il est tout simplement merveilleux."
 
 # game/code/d19/d19s01ntr.rpy:134
 translate french d19s01ntr_flashback_89dd4b90:
-
     # lc "*sigh* So very boring, yet so very useful. I'm half inclined to simply let it drown."
     lc "*soupir* Tellement ennuyeux, et pourtant tellement utile. Je suis à moitié enclin à le laisser se noyer."
 
 # game/code/d19/d19s01ntr.rpy:135
 translate french d19s01ntr_flashback_c0062715:
-
     # lc "Perhaps it is time for a change.{w} Peter, why don't you take Jerome's place for a few minutes."
     lc "Il est peut-être temps de changer.{w} Peter, pourquoi ne prends-tu pas la place de Jérôme pendant quelques minutes."
 
 # game/code/d19/d19s01ntr.rpy:136
 translate french d19s01ntr_flashback_68dec3f8:
-
     # pb "Mistress?!"
     pb "Maîtresse?!"
 
 # game/code/d19/d19s01ntr.rpy:142
 translate french d19s01ntr_flashback_d5158065:
-
     # lc "What alternative is there? This slave's app could bring me dozens or hundreds of fresh servants and slaves."
     lc "Quelle alternative y a-t-il? L'application de cet esclave pourrait m'apporter des dizaines ou des centaines de nouveaux serviteurs et esclaves."
 
 # game/code/d19/d19s01ntr.rpy:143
 translate french d19s01ntr_flashback_27c5aa17:
-
     # pb "Yes, mistress."
     pb "Oui, maîtresse."
 
 # game/code/d19/d19s01ntr.rpy:152
 translate french d19s01ntr_flashback_12fd0565:
-
     # lc "What can you offer me that might compare?"
     lc "Que peux-tu me proposer de comparable?"
 
 # game/code/d19/d19s01ntr.rpy:157
 translate french d19s01ntr_flashback_9130db2f:
-
     # pb "Perhaps a new game, mistress. A game you can play - with a new toy."
     pb "Peut-être un nouveau jeu, maîtresse. Un jeu auquel tu peux jouer, avec un nouveau jouet."
 
 # game/code/d19/d19s01ntr.rpy:165
 translate french d19s01ntr_flashback_c01637c1:
-
     # lc "Intrigue me."
     lc "Tu m'intrigue."
 
 # game/code/d19/d19s01ntr.rpy:188
 translate french d19s01ntr_continue_48970888:
-
     # lc "He told me about you. How infatuated you were with me{w} - with my public face."
     lc "Il m'a parlé de toi. Comme tu étais amoureux de moi{w}, de mon visage public."
 
 # game/code/d19/d19s01ntr.rpy:189
 translate french d19s01ntr_continue_12dc1552:
-
     # lc "How many times he suggested just drugging you and dragging you here. It would have been so easy."
     lc "Combien de fois il a suggéré de te droguer et de te traîner ici. Ça aurait été si facile."
 
 # game/code/d19/d19s01ntr.rpy:190
 translate french d19s01ntr_continue_14337a72:
-
     # lc "That would have been so boring."
     lc "Ça aurait été tellement ennuyeux."
 
 # game/code/d19/d19s01ntr.rpy:193
 translate french d19s01ntr_continue_2711870a:
-
     # lc "I fed your infatuation. Meanwhile Jerome here worked night & day on the app."
     lc "J'ai nourri ton engouement. Pendant ce temps, Jérôme travaillait nuit et jour sur l'application."
 
@@ -212,13 +178,13 @@ translate french d19s01ntr_continue_ba47ffe8:
 translate french d19s01ntr_continue_3504e0f5:
 
     # lc "It was a delicious coincidence. The app was ready just as you disappeared. No one knew what had happened to you."
-    lc "C'était une délicieuse coïncidence. L'application était prête au moment où tu disparaissais. Personne ne serai ce qui t'était arrivé."
+    lc "C'était une délicieuse coïncidence. L'application était prête au moment où tu disparaissais. Personne ne savait ce qui t'était arrivé."
 
 # game/code/d19/d19s01ntr.rpy:197
 translate french d19s01ntr_continue_f4a6da17:
 
     # lc "While Min danced to my perversions and your friends fell into my grasp you were nowhere to be found."
-    lc "Pendant que Min dansait sur mes perversions et que tes amis tombaient à ma portée, tu serai introuvable."
+    lc "Pendant que Min dansait sur mes perversions et que tes amis tombaient dans mes griffes, tu étais introuvable."
 
 # game/code/d19/d19s01ntr.rpy:198
 translate french d19s01ntr_continue_55af8b90:
@@ -242,19 +208,19 @@ translate french d19s01ntr_continue_53db33b7:
 translate french d19s01ntr_continue_a11d55c8:
 
     # lc "As for Min - we have competed with each other since the time we were little girls."
-    lc "Quant à Min, nous sommes en compétition depuis que nous sommes petites filles."
+    lc "Quant à Min, nous avons rivalisé depuis que nous étions petites filles."
 
 # game/code/d19/d19s01ntr.rpy:207
 translate french d19s01ntr_continue_3fb3e52a:
 
     # lc "Min is quite obsessed with sex these days. She has no idea that I've defeated her."
-    lc "Min est assez obsédé par le sexe ces jours-ci. Elle n'a encore aucune idée que je l'ai vaincue."
+    lc "Min est assez obsédée par le sexe ces jours-ci. Elle n'a aucune idée que je l'ai vaincue."
 
 # game/code/d19/d19s01ntr.rpy:208
 translate french d19s01ntr_continue_12f51939:
 
     # lc "She isn't ripe yet.{w} Min entertains me. I haven't decided to bend her will to my own... yet."
-    lc "Elle n'est pas encore mûre. {w} Min me divertit. Je n'ai pas encore décidé de plier sa volonté à la mienne... pour l'instant."
+    lc "Elle n'est pas encore mûre.{w} Min me divertit. Je n'ai pas encore décidé de plier sa volonté à la mienne... pour l'instant."
 
 # game/code/d19/d19s01ntr.rpy:211
 translate french d19s01ntr_continue_8fb1ce95:
@@ -290,7 +256,7 @@ translate french d19s01ntr_continue_c52739e2:
 translate french d19s01ntr_continue_30eb3135:
 
     # lc "Of course, there was always the possibility of someone like Chloe taking pity on you, but the best laid plans and all that."
-    lc "Bien sûr, il y avait toujours la possibilité que quelqu'un comme Chloé ait pitié de toi, mais les plans les mieux élaborés et tout ça..."
+    lc "Bien sûr, il y avait toujours la possibilité que quelqu'un comme Chloé ait pitié de toi, mais les meilleurs plans et tout ça..."
 
 # game/code/d19/d19s01ntr.rpy:220
 translate french d19s01ntr_continue_d26dc394:
@@ -515,13 +481,13 @@ translate french d19s01ntr_questions_a353f833:
     lc "Non.{w} Mes parents m'ont acheté la maison, mais j'en suis propriétaire. Et nous sommes dans... je suppose qu'on pourrait appeler ça un sous-sous-sol."
 
 # game/code/d19/d19s01ntr.rpy:352
-translate french d19s01ntr_questions_e90ecd40:
+translate french d19s01ntr.questions_e90ecd40:
 
     # mc "I didn't even realize there was a basement."
     mc "Je n'avais même pas réalisé qu'il y avait un sous-sol."
 
 # game/code/d19/d19s01ntr.rpy:355
-translate french d19s01ntr_questions_c8b5ed3f:
+translate french d19s01ntr.questions_c8b5ed3f:
 
     # lc "You're better at finding g-spots than hidden doors."
     lc "Tu es meilleur pour trouver des points G que des portes cachées."
@@ -685,7 +651,7 @@ translate french d19s01ntr_end_d1acc24f:
 # game/code/d19/d19s01ntr.rpy:464
 translate french d19s01ntr_end_30a22e70:
 
-    # mc "Oh no.{w} Is it time to "Bring Out the Gimp?"
+    # mc "Oh no.{w} Is it time to 'Bring Out the Gimp?'"
     mc "Oh non.{w} Est-il temps de faire sortir les boiteux?"
 
 # game/code/d19/d19s01ntr.rpy:467
@@ -710,7 +676,7 @@ translate french d19s01ntr_end_8fd91d57:
 translate french d19s01ntr_end_aad3e07c:
 
     # mc "*laughing* You're probably asking yourself why I'm smiling."
-    mc "*Rires* Tu te demande probablement pourquoi je rigole..."
+    mc "*Rires* Tu te demandes probablement pourquoi je rigole..."
 
 # game/code/d19/d19s01ntr.rpy:481
 translate french d19s01ntr_end_ade5c0b6:
@@ -788,7 +754,7 @@ translate french d19s01ntr_end_1a366ea7:
 translate french d19s01ntr_end_f69ff4bd:
 
     # mct "Weird thing to say..."
-    mct "C'est bizarre à dire...dans cette situation."
+    mct "C'est bizarre à dire... dans cette situation."
 
 # game/code/d19/d19s01ntr.rpy:555
 translate french d19s01ntr_end_98459161:
@@ -836,7 +802,7 @@ translate french d19s01ntr_end_f30c76e8:
 translate french d19s01ntr_end_9af20ee0:
 
     # ah "I know things look bad, but nothing is as fucked up as you think."
-    ah "Je sais que les choses paraisse mauvaise, mais rien n'est aussi foutu que tu le penses."
+    ah "Je sais que les choses paraissent mauvaises, mais rien n'est aussi foutu que tu le penses."
 
 # game/code/d19/d19s01ntr.rpy:584
 translate french d19s01ntr_end_6e0c97a2:
@@ -848,7 +814,7 @@ translate french d19s01ntr_end_6e0c97a2:
 translate french d19s01ntr_end_be1e3b25:
 
     # tr "Some of us are here willingly.{w} We kinda enjoy... submitting."
-    tr "Certains d'entre nous sont ici volontairement.{w} Nous apprécions plutôt... nous soumettres."
+    tr "Certains d'entre nous sont ici volontairement.{w} Nous apprécions plutôt... nous soumettre."
 
 # game/code/d19/d19s01ntr.rpy:590
 translate french d19s01ntr_end_597429b0:
@@ -890,7 +856,7 @@ translate french d19s01ntr_end_877b3d09:
 translate french d19s01ntr_end_dcd61b6f:
 
     # tr "Okay, but at least give some of us time to get out of here."
-    tr "D'accord, mais donne nous au moins le temps de sortir d'ici."
+    tr "D'accord, mais donne-nous au moins le temps de sortir d'ici."
 
 # game/code/d19/d19s01ntr.rpy:611
 translate french d19s01ntr_end_4068fda8:
@@ -962,7 +928,7 @@ translate french d19s01ntr_end_bb39a2f3:
 translate french d19s01ntr_end_6a57e384:
 
     # tr "We don't even have to hide the body. We just put it in one of these-"
-    tr "On n'a même pas besoin de cacher le corps. On vient de le mettre dans un de ces-"
+    tr "On n'a même pas besoin de cacher le corps. On le met juste dans un de ces-"
 
 # game/code/d19/d19s01ntr.rpy:650
 translate french d19s01ntr_end_75461c5d:
@@ -1054,33 +1020,32 @@ translate french d19s01ntr_end_9503211c:
     # mct "It's weird being back up here where everything is normal."
     mct "C'est bizarre d'être de retour ici où tout est normal."
 
-translate french strings:
+# game/code/d19/d19s01ntr.rpy:289
+old "How did I get here?"
+new "Comment suis-je arrivé ici?"
 
-    # game/code/d19/d19s01ntr.rpy:289
-    old "How did I get here?"
-    new "Comment suis-je arrivé ici?"
+# game/code/d19/d19s01ntr.rpy:289
+old "I thought you were a virgin!"
+new "Je croyais que tu étais vierge!"
 
-    # game/code/d19/d19s01ntr.rpy:289
-    old "I thought you were a virgin!"
-    new "Je croyais que tu étais vierge!"
+# game/code/d19/d19s01ntr.rpy:289
+old "How is Kevin involved in all this?"
+new "Comment Kevin est-il impliqué dans tout ça?"
 
-    # game/code/d19/d19s01ntr.rpy:289
-    old "How is Kevin involved in all this"
-    new "Comment Kevin est-il impliqué dans tout ça?"
+# game/code/d19/d19s01ntr.rpy:289
+old "Where are we?"
+new "Où sommes-nous?"
 
-    # game/code/d19/d19s01ntr.rpy:289
-    old "Where are we?"
-    new "Où sommes-nous?"
+# game/code/d19/d19s01ntr.rpy:289
+old "No Questions"
+new "Pas de questions"
 
-    # game/code/d19/d19s01ntr.rpy:289
-    old "No Questions"
-    new "Pas de questions"
+# game/code/d19/d19s01ntr.rpy:417
+old "That is a Really Good Deal"
+new "C'est un très bon marché"
 
-    # game/code/d19/d19s01ntr.rpy:417
-    old "That is a Really Good Deal"
-    new "C'est un très bon marché"
+# game/code/d19/d19s01ntr.rpy:417
+old "Go Fuck Yourself"
+new "Va te faire foutre"
 
-    # game/code/d19/d19s01ntr.rpy:417
-    old "Go Fuck Yourself"
-    new "Va te faire foutre"
 
