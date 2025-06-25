@@ -178,8 +178,7 @@ translate french d19s03_ext_0419d335:
     # mc "Later."
     mc "A plus tard."
 
-# game/code/d19/extended/d19s03_ext.rpy:181
-translate french d19s03_bj_31781d18:
+# game/code/d19/extended/d19s03_bj_31781d18:
 
     # mh "So, {i}kidnapped{/i}, huh?"
     mh "Alors, {i}kidnappé{/i}, hein?"
@@ -422,13 +421,13 @@ translate french d19s03_sex_48cabde0:
 translate french d19s03_sex_212ddd0e:
 
     # mh "*Lost in the bliss* Yes... Yes... Just like that. You feel so good."
-    mh "*Perdu dans le bonheur* Oui... Oui... juste comme ça. Je me sens si bien."
+    mh "*Perdue dans le bonheur* Oui... Oui... juste comme ça. Tu te sens tellement bien."
 
 # game/code/d19/extended/d19s03_ext.rpy:405
 translate french d19s03_sex_6708e611:
 
     # mc "Fuck, Lyssa. It feels like you've only gotten tighter."
-    mc "Putain, Lyssa. J'ai l'impression que tu es encore plus serré."
+    mc "Putain, Lyssa. J'ai l'impression que tu es devenue encore plus serrée."
 
 # game/code/d19/extended/d19s03_ext.rpy:418
 translate french d19s03_sex_8f6cdacc:
@@ -464,13 +463,13 @@ translate french d19s03_sex_48c45880:
 translate french d19s03_sex_e7848047:
 
     # mh "Me too. It feels so...comforting to get filled up by you."
-    mh "Moi aussi. C'est tellement... réconfortant que tu me remplisse."
+    mh "Moi aussi. C'est tellement... réconfortant de me faire remplir par toi."
 
 # game/code/d19/extended/d19s03_ext.rpy:528
 translate french d19s03_watersports_dd40f122:
 
     # mc "*Chuckles* I can't believe I ever thought you weren't as perverted as me."
-    mc "*rires* Je n'arrive pas à y croire, je n'ai jamais pensé que tu étais aussi perverse que moi."
+    mc "*Rires* Je n'arrive pas à y croire, je n'ai jamais pensé que tu étais aussi perverse que moi."
 
 # game/code/d19/extended/d19s03_ext.rpy:530
 translate french d19s03_watersports_356a0ad7:
@@ -494,7 +493,7 @@ translate french d19s03_watersports_717d6a67:
 translate french d19s03_watersports_45d3e4d9:
 
     # mh "Allison? What did she tell you?"
-    mh "Allison? Qu'est ce qu'elle t'a dit?"
+    mh "Allison? Qu'est-ce qu'elle t'a dit?"
 
 # game/code/d19/extended/d19s03_ext.rpy:541
 translate french d19s03_watersports_9ad822f7:
@@ -530,7 +529,7 @@ translate french d19s03_watersports_be1be8ef:
 translate french d19s03_watersports_e0890294:
 
     # mc "...Are you sure you're a lawyer and not a detective?"
-    mc "...tu es sûr d'être avocate et pas détective?"
+    mc "...Tu es sûr d'être avocate et pas détective?"
 
 # game/code/d19/extended/d19s03_ext.rpy:555
 translate french d19s03_watersports_fee66916:
@@ -644,7 +643,7 @@ translate french d19s03_watersports_3065e26f:
 translate french d19s03_watersports_289445d8:
 
     # mc "Tsk, tsk, so needy. I want you to pee as well while I fuck and piss inside of you. Just make a mess."
-    mc "Tsk, tsk, tellement de souhait... je veux que tu pisse aussi pendant que je te baise et que je te pisse dedans."
+    mc "Tsk, tsk, tellement de souhait... je veux que tu pisses aussi pendant que je te baise et que je te pisse dedans."
 
 # game/code/d19/extended/d19s03_ext.rpy:625
 translate french d19s03_watersports_44e0a7eb:
@@ -698,7 +697,7 @@ translate french d19s03_watersports_4ac502b5:
 translate french d19s03_watersports_3dcd4a47:
 
     # mc "I got you. I got you."
-    mc "Je te tient. C'est bon."
+    mc "Je te tiens. C'est bon."
 
 # game/code/d19/extended/d19s03_ext.rpy:743
 translate french d19s03_watersports_fa844195:
@@ -986,7 +985,7 @@ translate french d19s03_ask_mh_e7608abd:
 translate french d19s03_ask_mh_a4fc5b00:
 
     # mc "Are you free tomorrow?"
-    mc "Tu es libre demain?"
+    mc "Tu es libre demain ?"
 
 # game/code/d19/extended/d19s03_ext.rpy:865
 translate french d19s03_ask_mh_1367b8a9:
@@ -1004,7 +1003,7 @@ translate french d19s03_ask_mh_83078e78:
 translate french d19s03_dont_ask_91bd6abc:
 
     # mct "Yeah. Fuck that. There's nothing I can do about Zarah."
-    mct "Je t'aime."
+    mct "Ouais. Merde. Je ne peux rien faire pour Zarah."
 
 # game/code/d19/extended/d19s03_ext.rpy:885
 translate french d19s03_dont_ask_184ad5f2:
@@ -1043,4 +1042,5 @@ translate french strings:
     # game/code/d19/extended/d19s03_ext.rpy:409
     old "Jerk off Lyssa"
     new "Branle Lyssa"
+
 
