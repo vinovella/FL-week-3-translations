@@ -2,7 +2,7 @@
 translate french d17s06dw_41176219:
 
     # mc "Hello, ladies!"
-    mc "Bonjour mes dames!"
+    mc "Bonjour mesdames!"
 
 # game/code/d17/d17s06dw.rpy:61
 translate french d17s06dw_decb2652:
@@ -38,7 +38,7 @@ translate french d17s06dw_1e7fb7ce:
 translate french d17s06dw_583b0bfe:
 
     # mc "Thank me? {w}For what?"
-    mc "Remercier? {w}Pour quoi?"
+    mc "Remercier? {w}Pourquoi?"
 
 # game/code/d17/d17s06dw.rpy:79
 translate french d17s06dw_e062934c:
@@ -182,7 +182,7 @@ translate french d17s06dw_71fa3616:
 translate french d17s06dw_06ba8908:
 
     # sb "*sarcastically* Oh good, my way. Thank you Vizzini. {w}Which way is my way?"
-    sb "*sarcastiquement* Oh bien, à ma façon. Merci Vizzini. {w}Dans quel sens est mon chemin?"
+    sb "*sarcastique* Oh bien, à ma façon. Merci Vizzini. {w}Dans quel sens est mon chemin?"
 
 # game/code/d17/d17s06dw.rpy:157
 translate french d17s06dw_2464f166:
@@ -326,7 +326,7 @@ translate french d17s06dw_first_room_58f95e0e:
 translate french d17s06dw_first_room_354af34e:
 
     # mct "It {i}is{/i} creepy as hell, woman."
-    mct "C'est {i}c'est{/i} effrayant comme l'enfer, femme."
+    mct "C' {i}est{/i} effrayant comme l'enfer, femme."
 
 # game/code/d17/d17s06dw.rpy:250
 translate french d17s06dw_first_room_f7e35999:
@@ -344,7 +344,7 @@ translate french d17s06dw_first_room_cbd9a474:
 translate french d17s06dw_first_room_3b30dc63:
 
     # sb "Hell. I've dated fuckers uglier than this."
-    sb "L'enfer. Je suis sorti avec des connards plus laids que ça."
+    sb "Bordel. Je suis sorti avec des connards plus laids que ça."
 
 # game/code/d17/d17s06dw.rpy:264
 translate french d17s06dw_first_room_79325953:
@@ -446,7 +446,7 @@ translate french d17s06dw_first_room_844f0afb:
 translate french d17s06dw_clown_room_ef394b1d:
 
     # mc "Fuck! {w}This is the scariest room yet."
-    mc "Putain! {w}C'est la pièce la plus effrayante à ce jour."
+    mc "Putain! {w}C'est la pièce la plus effrayante."
 
 # game/code/d17/d17s06dw.rpy:342
 translate french d17s06dw_clown_room_f2c62be9:
@@ -542,7 +542,7 @@ translate french d17s06dw_clown_room_8575e379:
 translate french d17s06dw_clown_room_63572980:
 
     # dw "Listen to your Mistress. {w}NOW STRIP!"
-    dw "Écoute ta maîtresse. {w}MAINTENANT DÉSAPPE TOI!"
+    dw "Écoute ta maîtresse. {w}MAINTENANT DÉZAPPE TOI!"
 
 # game/code/d17/d17s06dw.rpy:390
 translate french d17s06dw_clown_room_c0052b5c:
@@ -620,7 +620,7 @@ translate french d17s06dw_clown_room_6cefcbac:
 translate french d17s06dw_clown_room_dbad1d81:
 
     # dw "Do you even remember your 18th birthday party?"
-    dw "Tu te souviens au moins de ta fête de 18 ans?"
+    dw "Tu te souviens au moins de la fête de tes 18 ans?"
 
 # game/code/d17/d17s06dw.rpy:427
 translate french d17s06dw_clown_room_77213280:
@@ -650,7 +650,7 @@ translate french d17s06dw_clown_room_87aa7ebe:
 translate french d17s06dw_clown_room_7abb6a1f:
 
     # sb "Fine, but he better do it properly. {w}I don't want him to creampie my ass and leave me with blue balls."
-    sb "Bien, mais il ferait mieux de le faire correctement. {w}Je ne veux pas qu'il me creampie le cul et me laisse avec des couilles bleues."
+    sb "Bien, mais il ferait mieux de le faire correctement. {w}Je ne veux pas qu'il me gicle dans le cul et me laisse avec des couilles bleues."
 
 # game/code/d17/d17s06dw.rpy:445
 translate french d17s06dw_clown_room_baf550b7:
@@ -680,7 +680,7 @@ translate french d17s06dw_clown_room_7fd3a623_1:
 translate french d17s06dw_clown_room_14026ad6:
 
     # dw "Good, now jerk that penis of yours until it is hard enough to be useful."
-    dw "Bien, maintenant branle ton pénis jusqu'à ce qu'il soit assez dur pour être utile."
+    dw "Bien, maintenant branle ta bite jusqu'à ce qu'elle soit assez dur pour être utile."
 
 # game/code/d17/d17s06dw.rpy:466
 translate french d17s06dw_clown_room_2bbbef16:
@@ -692,7 +692,7 @@ translate french d17s06dw_clown_room_2bbbef16:
 translate french d17s06dw_clown_room_a8b964f8:
 
     # dw "Aww, does this scary little thing make your pee-pee all limp and useless?"
-    dw "Aww, est-ce que cette petite chose effrayante rend ton pipi tout mou et inutile?"
+    dw "Aww, est-ce que cette petite chose effrayante rend ton zizi tout mou et inutile?"
 
 # game/code/d17/d17s06dw.rpy:472
 translate french d17s06dw_clown_room_fe33c121:
@@ -740,7 +740,7 @@ translate french d17s06dw_clown_room_13a6cac3:
 translate french d17s06dw_clown_room_db94aef2:
 
     # dw "You are going to make her orgasm from her asshole to make me happy."
-    dw "Tu vas lui faire jouir son trou du cul pour me rendre heureuse."
+    dw "Tu vas la faire jouir par le cul pour me rendre heureuse."
 
 # game/code/d17/d17s06dw.rpy:499
 translate french d17s06dw_clown_room_56f45037:
@@ -908,7 +908,7 @@ translate french d17s06dw_clown_room_6c665a24:
 translate french d17s06dw_clown_room_0be45825:
 
     # mc "Wait - if you rub your clit, I'll disappoint Dahlia. She wants you to cum just from anal sex."
-    mc "Attends, si tu frottes ton clitoris, je décevrai Dahlia. Elle veut que tu jouisses juste à cause du sexe anal."
+    mc "Attends, si tu frottes ton clitoris, je décevrai Dahlia. Elle veut que tu jouisses juste du sexe anal."
 
 # game/code/d17/d17s06dw.rpy:652
 translate french d17s06dw_clown_room_1544706b:
@@ -1022,7 +1022,7 @@ translate french d17s06dw_clown_room_140af9b4:
 translate french d17s06dw_clown_room_3b14a328:
 
     # sb "You're welcome, Señor Dickface."
-    sb "De rien, Senior Dickface."
+    sb "De rien, Seniorita Dickface."
 
 # game/code/d17/d17s06dw.rpy:753
 translate french d17s06dw_clown_room_69cabffc:
@@ -1082,7 +1082,7 @@ translate french d17s06dw_clown_room_a238b19c:
 translate french d17s06dw_clown_room_32c9aaa0:
 
     # mc "Your Welcome."
-    mc "Tu es la bienvenue."
+    mc "De rien."
 
 # game/code/d17/d17s06dw.rpy:794
 translate french d17s06dw_clown_room_1b1e5faf:
