@@ -1,188 +1,188 @@
 # game/code/d16/d16s10.rpy:37
 translate french d16s10_d9159219:
-
+    
     # mc "I should probably call Lydia in a little while."
     mc "Je devrais probablement appeler Lydia dans peu de temps."
 
 # game/code/d16/d16s10.rpy:43
 translate french d16s10_eebcbe44:
-
+    
     # arj "You really talk to her every night?"
-    arj "Tu lui parles vraiment tous les soirs?"
+    arj "Tu lui parles vraiment tous les soirs ?"
 
 # game/code/d16/d16s10.rpy:46
 translate french d16s10_1a3ce239:
-
+    
     # mc "Pretty much."
     mc "Assez bien."
 
 # game/code/d16/d16s10.rpy:48
 translate french d16s10_0c713261:
-
+    
     # arj "What do you talk about?"
-    arj "De quoi parles-tu?"
+    arj "De quoi parles-tu ?"
 
 # game/code/d16/d16s10.rpy:49
 translate french d16s10_8c6cfc3d:
-
+    
     # mc "Usually? Whatever I fucked that day."
     mc "D'habitude? Peu importe ce que j'ai baisé ce jour-là."
 
 # game/code/d16/d16s10.rpy:52
 translate french d16s10_8a2e451a:
-
+    
     # arj "What? Not who?"
     arj "Quoi? Pas qui?"
 
 # game/code/d16/d16s10.rpy:54
 translate french d16s10_b80ee824:
-
+    
     # mc "Sorry, I misspoke. Whomever I fucked."
     mc "Désolé, je me suis mal exprimé. Celui que j'ai baisé."
 
 # game/code/d16/d16s10.rpy:57
 translate french d16s10_a6d6ca7b:
-
+    
     # arj "I mean, if you're into-"
     arj "Je veux dire, si tu aimes-"
 
 # game/code/d16/d16s10.rpy:59
 translate french d16s10_5ee22f89:
-
+    
     # mc "NO."
     mc "NON."
 
 # game/code/d16/d16s10.rpy:61
 translate french d16s10_e7b8bab0:
-
+    
     # arj "Okay."
     arj "Okay."
 
 # game/code/d16/d16s10.rpy:64
 translate french d16s10_a978e95d:
-
+    
     # mc "Did you get a new chair?"
-    mc "As-tu acheté une nouvelle chaise?"
+    mc "As-tu acheté de nouvelles chaises ?"
 
 # game/code/d16/d16s10.rpy:67
 translate french d16s10_6877db0b:
-
+    
     # arj "Yeah, it arrived the other day. Those hard wooden chairs were killing me."
-    arj "Ouais, il est arrivé l'autre jour. Ces chaises en bois dur me tuaient."
+    arj "Ouais, elles sont arrivée l'autre jour. Ces chaises en bois dur me tuaient."
 
 # game/code/d16/d16s10.rpy:71
 translate french d16s10_cd2173ba:
-
+    
     # mc "That's a nice office chair... are you starting a business or something?"
-    mc "C'est une jolie chaise de bureau... tu démarres une entreprise ou quelque chose comme ça?"
+    mc "C'est une jolie chaise de bureau... tu démarres une entreprise ou quelque chose comme ça ?"
 
 # game/code/d16/d16s10.rpy:74
 translate french d16s10_0451b455:
-
+    
     # arj "It's comfortable.{w}.. and I wanted something for when I play games on my laptop."
     arj "C'est confortable.{w}.. et je voulais quelque chose pour jouer à des jeux sur mon ordinateur portable."
 
 # game/code/d16/d16s10.rpy:75
 translate french d16s10_d86c774a:
-
+    
     # mc "Really? What kind of games?"
-    mc "Vraiment? Quel genre de jeux?"
+    mc "Vraiment ? Quel genre de jeux ?"
 
 # game/code/d16/d16s10.rpy:77
 translate french d16s10_d41c84b6:
-
+    
     # arj "4X strategy games mostly. Stellaris, Civilization, that kinda thing."
-    arj "Jeux de stratégie 4X principalement. Stellaris, Civilization, ce genre de chose."
+    arj "Jeux de stratégie 4X principalement. Stellaris, Civilization, ce genre de choses."
 
 # game/code/d16/d16s10.rpy:79
 translate french d16s10_b8de06d3:
-
+    
     # mc "Oh."
     mc "Oh."
 
 # game/code/d16/d16s10.rpy:82
 translate french d16s10_59506057:
-
+    
     # arj "I also like factory games. They're a lot like working with computer hardware."
     arj "J'aime aussi les jeux d'usine. C'est un peu comme travailler avec du matériel informatique."
 
 # game/code/d16/d16s10.rpy:84
 translate french d16s10_ce233756:
-
+    
     # mc "Oh, okay. I should've guessed that we don't play the same stuff."
     mc "Oh, d'accord. J'aurais dû deviner que nous ne jouons pas les mêmes trucs."
 
 # game/code/d16/d16s10.rpy:87
 translate french d16s10_43ff28c1:
-
+    
     # arj "I'm guessing you just play first person shooters."
     arj "Je suppose que tu joues simplement à des jeux de tir à la première personne."
 
 # game/code/d16/d16s10.rpy:89
 translate french d16s10_97083a85:
-
+    
     # mc "Some. Mostly stuff like GTA, Ass's Creed, that sort of thing."
-    mc "Entre autre. Surtout des trucs comme GTA, Assassin's Creed, ce genre de choses."
+    mc "Entre autres. Surtout des trucs comme GTA, Assassin's Creed, ce genre de choses."
 
 # game/code/d16/d16s10.rpy:92
 translate french d16s10_36b1da51:
-
+    
     # arj "I absolutely loved Vice City when I was a kid. Didn't really get into the ones after that."
     arj "J'ai vraiment adoré Vice City quand j'étais enfant. Je ne me suis pas vraiment intéressé aux autres par la suite."
 
 # game/code/d16/d16s10.rpy:94
 translate french d16s10_663fe16d:
-
+    
     # mc "Really? I keep meaning to go back and try that, but it was before my time."
-    mc "Vraiment? J'ai toujours l'intention d'y retourner et d'essayer ça, mais c'était avant mon heure."
+    mc "Vraiment ? J'ai toujours l'intention d'y retourner et d'essayer ça, mais c'était avant mon heure."
 
 # game/code/d16/d16s10.rpy:97
 translate french d16s10_02d64f68:
-
+    
     # arj "We're the same age."
     arj "Nous avons le même âge."
 
 # game/code/d16/d16s10.rpy:99
 translate french d16s10_55fed089:
-
+    
     # mc "Yeah, but, ya'know. My parents thought I was too young."
     mc "Ouais, mais tu sais. Mes parents pensaient que j'étais trop jeune."
 
 # game/code/d16/d16s10.rpy:102
 translate french d16s10_7886b6da:
-
+    
     # arj "Huh. I suppose-"
     arj "Huh. Je suppose-"
 
 # game/code/d16/d16s10.rpy:106
 translate french d16s10_28b2f46f:
-
+    
     # arj "That's your phone."
     arj "C'est ton téléphone."
 
 # game/code/d16/d16s10.rpy:109
 translate french d16s10_6cf2988d:
-
+    
     # mc "It's Fetish Locator. It said, \"Surprise Me\". Then told me to invent a brand new fetish."
-    mc "C'est Fetish Locator. Il disait\"Surprend-moi\". Puis il m'a dit d'inventer un tout nouveau fétiche."
+    mc "C'est Fetish Locator. Il disait \"Surprend-moi\". Puis il m'a dit d'inventer un tout nouveau fétiche."
 
 # game/code/d16/d16s10.rpy:112
 translate french d16s10_be809229:
-
+    
     # arj "Well, that's different. {w}How are you supposed to do that?"
-    arj "Eh bien, c'est différent. {w}Comment es-tu censé faire ça?"
+    arj "Eh bien, c'est différent. {w}Comment es-tu censé faire ça ?"
 
 # game/code/d16/d16s10.rpy:116
 translate french d16s10_4653f496:
-
+    
     # mc "Yeah, especially with my dick caged."
     mc "Ouais, surtout avec ma bite en cage."
 
 # game/code/d16/d16s10.rpy:119
 translate french d16s10_e8cff355:
-
+    
     # arj "Does it have a time limit?"
-    arj "Est-ce qu'il y a une limite de temps?"
+    arj "Est-ce qu'il y a une limite de temps ?"
 
 # game/code/d16/d16s10.rpy:122
 translate french d16s10_bb456bed:
@@ -200,13 +200,13 @@ translate french d16s10_6743882a:
 translate french d16s10_81f95519:
 
     # arj "What's up?"
-    arj "Quoi de neuf?"
+    arj "Quoi ?"
 
 # game/code/d16/d16s10.rpy:127
 translate french d16s10_307300d8:
 
     # mc "I've got an idea. {w}I'll need your help."
-    mc "J'ai une idée. {w}J'aurai besoin de votre aide."
+    mc "J'ai une idée. {w}J'aurai besoin de ton aide."
 
 # game/code/d16/d16s10.rpy:130
 translate french d16s10_a11d4715:
@@ -224,13 +224,13 @@ translate french d16s10_d58a1705:
 translate french d16s10_177ecfe7:
 
     # arj "... huh?"
-    arj "... hein?"
+    arj "... hein ?"
 
 # game/code/d16/d16s10.rpy:142
 translate french d16s10_7c88af81:
 
     # arj "Okay, now what?"
-    arj "D'accord, et maintenant?"
+    arj "D'accord, et maintenant ?"
 
 # game/code/d16/d16s10.rpy:145
 translate french d16s10_f3270bbf:
@@ -260,13 +260,13 @@ translate french d16s10_5dbd8047:
 translate french d16s10_63e52f25:
 
     # mc "And I am going to spin the chair while you play with yourself."
-    mc "Et je vais faire tourner la chaise pendant que tu joues avec ta petite chatte."
+    mc "Et je vais faire tourner la chaise pendant que tu joues avec toi-même."
 
 # game/code/d16/d16s10.rpy:159
 translate french d16s10_4f9c1a45:
 
     # arj "... what?"
-    arj "... quoi?"
+    arj "... quoi ?"
 
 # game/code/d16/d16s10.rpy:162
 translate french d16s10_4eb1d80d:
@@ -290,13 +290,13 @@ translate french d16s10_646a4a27:
 translate french d16s10_a2e08c9c:
 
     # arj "Like scarfing or auto-erotic aphyxiation?"
-    arj "Comme le foulard ou l'aphyxie auto-érotique?"
+    arj "Comme le foulard ou l'asphyxie auto-érotique ?"
 
 # game/code/d16/d16s10.rpy:171
 translate french d16s10_bd5a73f5:
 
     # mc "Only safer, yeah."
-    mc "En plus sûr, ouais."
+    mc "Mais en plus sûr, ouais."
 
 # game/code/d16/d16s10.rpy:174
 translate french d16s10_ed5c164a:
@@ -308,37 +308,37 @@ translate french d16s10_ed5c164a:
 translate french d16s10_b42f70ac:
 
     # mc "On the other hand, when you squirt it should give a fountain effect."
-    mc "Par contre, quand tu giclera, cela doit donner un effet fontaine."
+    mc "Et d'autre part, quand tu gicleras, ça devrait faire un effet fontaine."
 
 # game/code/d16/d16s10.rpy:180
 translate french d16s10_a466da08:
 
     # arj "Fair enough. {w}I doubt anyone else has tried anything like this."
-    arj "Assez juste. {w}Je doute que quelqu'un d'autre ait essayé quelque chose comme ça."
+    arj "Pourquoi pas. {w}Je doute que quelqu'un d'autre ait essayé un truc comme ça."
 
 # game/code/d16/d16s10.rpy:182
 translate french d16s10_e5bb7d5c:
 
     # mc "On the other hand, the app did say, \"Surprise me.\""
-    mc "D'un autre côté, l'application disait\"Surprend-moi\""
+    mc "En même temps, l'appli disait bien \"Surprends-moi.\""
 
 # game/code/d16/d16s10.rpy:185
 translate french d16s10_ea62ab4e:
 
     # arj "Fair enough. {w}It is surprising."
-    arj "Assez juste. {w}C'est surprenant."
+    arj "Pourquoi pas. {w}C'est surprenant."
 
 # game/code/d16/d16s10.rpy:188
 translate french d16s10_404fd795:
 
     # mc "All set?"
-    mc "Tout est prêt?"
+    mc "Tout est prête ?"
 
 # game/code/d16/d16s10.rpy:191
 translate french d16s10_099e5150:
 
     # arj "Let me get myself going a bit before you start spinning me."
-    arj "Laisse-moi me lancer un peu avant de commencer à me faire tourner."
+    arj "Laisse-moi m'échauffer un peu avant que tu me fasses tourner."
 
 # game/code/d16/d16s10.rpy:193
 translate french d16s10_a49ed4f8:
@@ -362,13 +362,13 @@ translate french d16s10_afae13df:
 translate french d16s10_c17ef8ec:
 
     # mc "What's that?"
-    mc "Qu'est ce que c'est?"
+    mc "Quoi donc ?"
 
 # game/code/d16/d16s10.rpy:202
 translate french d16s10_bf23f537:
 
     # arj "Anything sexy. {w}Tell me something sexy to get me going."
-    arj "N'importe quoi de sexy. {w}Dit-moi quelque chose de sexy pour me faire avancer."
+    arj "N'importe quoi de sexy. {w}Dis-moi quelque chose de sexy pour me chauffer."
 
 # game/code/d16/d16s10.rpy:211
 translate french d16s10_0a104682:
@@ -380,79 +380,79 @@ translate french d16s10_0a104682:
 translate french d16s10_63710058:
 
     # mc "I thought about it sometimes even when we were just friends and I had no idea how you felt about me."
-    mc "J'y pensais parfois même quand nous n'étions que amis et je n'avais aucune idée de ce que tu ressentais pour moi."
+    mc "J'y pensais parfois même quand on n'était que des amis et que je n'avais aucune idée de ce que tu ressentais pour moi."
 
 # game/code/d16/d16s10.rpy:215
 translate french d16s10_80d9ad1c:
 
     # arj "Really? {w}You thought about me back then?"
-    arj "Vraiment? {w}Tu pensais à moi à l'époque?"
+    arj "Vraiment ? {w}Tu pensais à moi à ce moment-là ?"
 
 # game/code/d16/d16s10.rpy:218
 translate french d16s10_354ce4bf:
 
     # mc "Of course. I'm a guy, and you're fucking gorgeous."
-    mc "Bien sûr. Je suis un mec et tu es magnifique."
+    mc "Évidemment. Je suis un mec, et t'es canon."
 
 # game/code/d16/d16s10.rpy:221
 translate french d16s10_d366da11:
 
     # mc "So, it starts with the two of us on a camping trip. We're cosy and warm in our tent."
-    mc "Donc, tout commence avec nous deux en camping. Nous sommes bien au chaud dans notre tente."
+    mc "Donc, ça commence par nous deux en camping. On est bien au chaud dans notre tente."
 
 # game/code/d16/d16s10.rpy:222
 translate french d16s10_873d047b:
 
     # mc "It's deep winter. There's at least a foot of snow on the ground outside."
-    mc "C'est l'hiver profond. Il y a au moins un pied de neige sur le sol dehors."
+    mc "C'est le cœur de l'hiver. Il y a au moins trente centimètres de neige dehors."
 
 # game/code/d16/d16s10.rpy:224
 translate french d16s10_b1a37c3d:
 
     # mc "You're relaxing on top of your sleeping bag and talking to me while I look through the camp supplies we packed."
-    mc "Tu te détends sur ton sac de couchage et tu me parles pendant que je regarde les fournitures de camp que nous avons emballées."
+    mc "Tu te détends sur ton sac de couchage et tu me parles pendant que je fouille dans les affaires de camping."
 
 # game/code/d16/d16s10.rpy:226
 translate french d16s10_5fd28399:
 
     # mc "I find a bunch of lengths of rope in the bag, and that gives me an idea."
-    mc "Je trouve un tas de bouts de corde dans le sac, et ça me donne une idée."
+    mc "Je trouve quelques bouts de corde dans le sac, et ça me donne une idée."
 
 # game/code/d16/d16s10.rpy:228
 translate french d16s10_129fd42e:
 
     # mc "This gets kinda dark and rough. You okay with that?"
-    mc "Ça devient un peu sombre et dur. Ça te va?"
+    mc "Ça devient un peu sombre et brutal. Ça te va ?"
 
 # game/code/d16/d16s10.rpy:231
 translate french d16s10_d46237f5:
 
     # arj "Fuck yes. What happens next?"
-    arj "Putain oui. Que se passe-t-il ensuite?"
+    arj "Putain oui. Et ensuite ?"
 
 # game/code/d16/d16s10.rpy:234
 translate french d16s10_2910f7e7:
 
     # mc "Sometimes I convince you to walk outside with me. Sometimes I just grab you by the hair and drag you out of the tent."
-    mc "Parfois, je te convainc de sortir avec moi. Parfois, je te prends simplement par les cheveux et je te traîne hors de la tente."
+    mc "Parfois, je te convaincs de sortir avec moi. Parfois, je te saisis par les cheveux et je te tire hors de la tente."
 
 # game/code/d16/d16s10.rpy:235
 translate french d16s10_4d9c7789:
 
     # mc "Either way I press you against a tree and start tying you up."
-    mc "Dans tous les cas, je te plaque contre un arbre et je commence à t'attacher."
+    mc "Dans tous les cas, je te plaque contre un arbre et commence à t'attacher."
 
 # game/code/d16/d16s10.rpy:237
 translate french d16s10_959020ee:
 
     # mc "You struggle a little, but I can easily overpower you."
-    mc "Tu as un peu de mal, mais je peux facilement te maîtriser."
+    mc "Tu te débats un peu, mais je te maîtrise facilement."
 
 # game/code/d16/d16s10.rpy:238
 translate french d16s10_18164385:
 
     # mc "Pretty soon I've got your wrists bound to a thick limb above your head."
-    mc "Très bientôt, j'aurai tes poignets liés à un membre épais au-dessus de ta tête."
+    mc "Très vite, j'ai tes poignets attachés à une branche épaisse au-dessus de ta tête."
 
 # game/code/d16/d16s10.rpy:241
 translate french d16s10_0f12bcc3:
@@ -476,7 +476,7 @@ translate french d16s10_deb01f38:
 translate french d16s10_5d9bd2d4:
 
     # mc "You pull off your sweater and reveal that you aren't wearing anything underneath."
-    mc "Tu enleves ton pull et révéle que tu ne portes rien en dessous."
+    mc "Tu enlèves ton pull et révèles que tu ne portes rien en dessous."
 
 # game/code/d16/d16s10.rpy:248
 translate french d16s10_4883fcaa:
@@ -722,7 +722,7 @@ translate french d16s10_d347cff9:
 translate french d16s10_8c97d478:
 
     # arj "NOWWW!!!!"
-    arj "NOWWW!!!!"
+    arj "MAINTENANT!!!!"
 
 # game/code/d16/d16s10.rpy:427
 translate french d16s10_b8de06d3_1:
@@ -818,7 +818,7 @@ translate french d16s10_a8b44a2b:
 translate french d16s10_2a767e18:
 
     # mc "I suppose-"
-        mc "Je suppose-"
+    mc "Je suppose-"
 
 # game/code/d16/d16s10.rpy:472
 translate french d16s10_d718087e:
@@ -842,7 +842,7 @@ translate french d16s10_b3c38362:
 translate french d16s10_2a7fe30d_1:
 
     # mc "FREEDOM!!!"
-    mc "LIBERTÉ!!!"
+    mc "LIBERTÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉÉ!!!"
 
 # game/code/d16/d16s10.rpy:494
 translate french d16s10_dd97cb74:
@@ -884,7 +884,7 @@ translate french d16s10_586a62e8:
 translate french d16s10_1615cfcc:
 
     # mc "They could meet at your house."
-    mc "Ils pourraient se rencontrer chez vous."
+    mc "Ils pourraient se rencontrer chez toi."
 
 # game/code/d16/d16s10.rpy:519
 translate french d16s10_4f1f7e19:
@@ -914,7 +914,7 @@ translate french d16s10_ce770def:
 translate french d16s10_ed4fbec4:
 
     # arj "Have you done this sort of thing with your dentist?"
-    arj "AS-tu fait ce genre de chose avec votre dentiste?"
+    arj "As-tu fait ce genre de chose avec ton dentiste?"
 
 # game/code/d16/d16s10.rpy:533
 translate french d16s10_1fde495a:
@@ -1016,7 +1016,7 @@ translate french d16s10_62c43011:
 translate french d16s10_31610352:
 
     # arj "How do you feel?"
-    arj "Comment vous sentez-vous?"
+    arj "Comment te sens-tu?"
 
 # game/code/d16/d16s10.rpy:620
 translate french d16s10_c49b542f:
@@ -1040,7 +1040,7 @@ translate french d16s10_f90c17a8:
 translate french d16s10_a9b5ccc7:
 
     # arj "I bet we could figure out what the correct RPM is."
-    arj "Je parie que nous pourrions déterminer quel est la vitesse correct."
+    arj "Je parie que nous pourrions déterminer quel est la vitesse correcte."
 
 # game/code/d16/d16s10.rpy:629
 translate french d16s10_85e7d53d:
@@ -1268,7 +1268,7 @@ translate french d16s10_b913169d:
 translate french d16s10_577b4087:
 
     # arj "Just ask her about Mozart."
-    arj "Demandez-lui simplement à propos de Mozart."
+    arj "Demande-lui simplement à propos de Mozart."
 
 # game/code/d16/d16s10.rpy:744
 translate french d16s10_f9b7d414:
