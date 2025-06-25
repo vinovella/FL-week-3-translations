@@ -140,7 +140,7 @@ translate french d17s06pn_bd25caea:
 translate french d17s06pn_995e4868:
 
     # mc "Yes. Yes it does."
-    mc "Oui. Oui, c'est le cas."
+    mc "Putain Ouais, c'est le cas."
 
 # game/code/d17/d17s06pn.rpy:131
 translate french d17s06pn_fe6db62a:
@@ -152,7 +152,7 @@ translate french d17s06pn_fe6db62a:
 translate french d17s06pn_77dcebb2:
 
     # pw "Worry about that when we're back on the ground."
-    pw "Pense pas a ça. On verra bien de retour en bas."
+    pw "Pense pas à ça. On verra bien de retour en bas."
 
 # game/code/d17/d17s06pn.rpy:137
 translate french d17s06pn_60f763f4:
@@ -224,13 +224,13 @@ translate french d17s06pn_cdef5390:
 translate french d17s06pn_fd41814b:
 
     # nk "Fuck me! You're hard dick feels massive!"
-    nk "Baise-moi! Ta queue dur est énorme!"
+    nk "Baise-moi! Avec ta queue dure est énorme!"
 
 # game/code/d17/d17s06pn.rpy:171
 translate french d17s06pn_48342ddb:
 
     # mc "Tell me you want it!"
-    mc "Dis-moi que tu le veux!"
+    mc "Dis-moi que tu la veux!"
 
 # game/code/d17/d17s06pn.rpy:175
 translate french d17s06pn_f3394eff:
@@ -248,7 +248,7 @@ translate french d17s06pn_9b78eb21:
 translate french d17s06pn_05cafe76:
 
     # pw "Just remember that she's not on birth control, so no cumming inside her."
-    pw "Souviens-toi juste de faire gaffe, donc ne joui pas en elle."
+    pw "Souviens-toi juste de faire gaffe, donc ne jouis pas en elle."
 
 # game/code/d17/d17s06pn.rpy:186
 translate french d17s06pn_63491ffa:
@@ -272,7 +272,7 @@ translate french d17s06pn_02df8764:
 translate french d17s06pn_f48f2093:
 
     # nk "I'M GOING TO CUUUuuuuUUUUUMMMM!!!"
-    nk "Je vais GIIIIICCLLEEEERRRR!!!"
+    nk "Je vais JOOOOUUUIIIRRRRRR!!!"
 
 # game/code/d17/d17s06pn.rpy:218
 translate french d17s06pn_da9fbedc:
@@ -344,7 +344,7 @@ translate french d17s06pn_a6a92c62:
 translate french d17s06pn_76fe658a:
 
     # nk "Just recovering."
-    nk "Je récupére."
+    nk "Je récupère."
 
 # game/code/d17/d17s06pn.rpy:254
 translate french d17s06pn_c41abca6:
@@ -398,7 +398,7 @@ translate french d17s06pn_6faf598d:
 translate french d17s06pn_4f3f3766:
 
     # nk "I'm just thoughtful."
-    nk "Je ... juste je réfléchi."
+    nk "Je... je réfléchis."
 
 # game/code/d17/d17s06pn.rpy:273
 translate french d17s06pn_8aea760b:
@@ -500,7 +500,7 @@ translate french d17s06pn_978cbd83:
 translate french d17s06pn_7ec65c03:
 
     # mc "Hey! There's nothing wrong with taking a legitimate offer if it helps her."
-    mc "Hé! Il n'y a rien de mal à accepter une offre légitime si ça l'aide."
+    mc "Hé! Il n'y a rien de mal à accepter une offre légitime si ça aide."
 
 # game/code/d17/d17s06pn.rpy:317
 translate french d17s06pn_32d304d3:
@@ -620,7 +620,7 @@ translate french d17s06pn_c4d9784e:
 translate french d17s06pn_10576975:
 
     # pw "Let me make this easy for both of you."
-    pw "Laisse-moi te faciliter la tâche à tous les deux."
+    pw "Laissez-moi vous faciliter la tâche à tous les deux."
 
 # game/code/d17/d17s06pn.rpy:365
 translate french d17s06pn_a890dec3:
@@ -758,7 +758,7 @@ translate french d17s06pn_984993fc:
 translate french d17s06pn_afdffd0d:
 
     # mc "Yes, please."
-    mc "Oui, s'il te plaît."
+    mc "Oui, fais-toi plaisir."
 
 # game/code/d17/d17s06pn.rpy:431
 translate french d17s06pn_d3df108f:
@@ -1022,7 +1022,7 @@ translate french d17s06pn_3ffa32c1:
 translate french d17s06pn_60dd78b4:
 
     # mc "We're an insanely hot and sexy as fuck threesome."
-    mc "Nous sommes un trouple incroyablement chaud et sexy comme l'enfert."
+    mc "Nous sommes un trouple incroyablement chaud et sexy."
 
 # game/code/d17/d17s06pn.rpy:560
 translate french d17s06pn_09c28ec4:
@@ -1132,5 +1132,5 @@ translate french strings:
 
     # game/code/d17/d17s06pn.rpy:623
     old "We make a good trio"
-    new "On fait un bon trio"
+    new "On fait un bon trouple"
 
