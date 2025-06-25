@@ -953,3 +953,130 @@ translate french d16s08_719d7ead:
     arj "Ha ha. Allons-y alors."
 
 
+
+# game/code/d16/d16s08.rpy:332
+translate french d16s08_793927ec:
+
+    # mc "Yeah, I figured that out too. Mondays for Men, Tuesdays for Women."
+    mc "Yeah, I figured that out too. Mondays for Men, Tuesdays for Women."
+
+# game/code/d16/d16s08.rpy:337
+translate french d16s08_05500ff6:
+
+    # mc "Huh?"
+    mc "Huh?"
+
+# game/code/d16/d16s08.rpy:343
+translate french d16s08_ebe86b9b:
+
+    # mc "What about Sundays?"
+    mc "What about Sundays?"
+
+# game/code/d16/d16s08.rpy:349
+translate french d16s08_36be32a5:
+
+    # mc "Wasn't creampie a Saturday? That didn't seem so difficult."
+    mc "Wasn't creampie a Saturday? That didn't seem so difficult."
+
+# game/code/d16/d16s08.rpy:355
+translate french d16s08_45696812:
+
+    # mc "Good point. Okay, so what about tomorrow?"
+    mc "Good point. Okay, so what about tomorrow?"
+
+# game/code/d16/d16s08.rpy:361
+translate french d16s08_cd28428c:
+
+    # sy "Suggestions?"
+    sy "Suggestions?"
+
+# game/code/d16/d16s08.rpy:367
+translate french d16s08_1b525247:
+
+    # arj "I think so. I haven't been keeping track."
+    arj "I think so. I haven't been keeping track."
+
+# game/code/d16/d16s08.rpy:375
+translate french d16s08_fb7d39fc:
+
+    # sy "W.T.F. [mcname]???"
+    sy "W.T.F. [mcname]???"
+
+# game/code/d16/d16s08.rpy:381
+translate french d16s08_953a7158:
+
+    # sy "I checked it. I double checked it. I even double checked the hardware and software."
+    sy "I checked it. I double checked it. I even double checked the hardware and software."
+
+# game/code/d16/d16s08.rpy:385
+translate french d16s08_8f83852c:
+
+    # mc "Oh. Yeah, it was a busy day."
+    mc "Oh. Yeah, it was a busy day."
+
+# game/code/d16/d16s08.rpy:391
+translate french d16s08_6d18a2e8:
+
+    # arj "You do realize just how important this is, don't you?"
+    arj "You do realize just how important this is, don't you?"
+
+# game/code/d16/d16s08.rpy:397
+translate french d16s08_aef8b672:
+
+    # sy "Promise?"
+    sy "Promise?"
+
+# game/code/d16/d16s08.rpy:403
+translate french d16s08_8b4917bf:
+
+    # arj "I'll promise you, Stacy. I guarantee he'll log some data points tonight."
+    arj "I'll promise you, Stacy. I guarantee he'll log some data points tonight."
+
+# game/code/d16/d16s08.rpy:410
+translate french d16s08_193b1787:
+
+    # sy "We have...{w} a plethora."
+    sy "We have...{w} a plethora."
+
+# game/code/d16/d16s08.rpy:416
+translate french d16s08_e14609a8:
+
+    # mc "Just the usual. {w}I didn't think I did all that much today."
+    mc "Just the usual. {w}I didn't think I did all that much today."
+
+# game/code/d16/d16s08.rpy:420
+translate french d16s08_7e913a3a:
+
+    # sy "There's a few GB of data that I copied off this thing. I'm gonna have to crank through it all night just to figure out what's significant."
+    sy "There's a few GB of data that I copied off this thing. I'm gonna have to crank through it all night just to figure out what's significant."
+
+# game/code/d16/d16s08.rpy:426
+translate french d16s08_fef1817e:
+
+    # sy "Yes, but I need to analyze the data to write parameters for the program."
+    sy "Yes, but I need to analyze the data to write parameters for the program."
+
+# game/code/d16/d16s08.rpy:432
+translate french d16s08_8cc3d172:
+
+    # arj "Don't do that."
+    arj "Don't do that."
+
+# game/code/d16/d16s08.rpy:438
+translate french d16s08_497147a5:
+
+    # arj "Never use the word, \"just\". If anything was \"just\" as easy as you think then it would be done already."
+    arj "Never use the word, \"just\". If anything was \"just\" as easy as you think then it would be done already."
+
+# game/code/d16/d16s08.rpy:445
+translate french d16s08_c19a7e30:
+
+    # arj "Alright, we should get going. We have things to do tonight."
+    arj "Alright, we should get going. We have things to do tonight."
+
+# game/code/d16/d16s08.rpy:453
+translate french d16s08_c174a290:
+
+    # arj "My house. {w}We'll get you some data points before bedtime."
+    arj "My house. {w}We'll get you some data points before bedtime."
+

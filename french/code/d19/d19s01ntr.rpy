@@ -481,13 +481,13 @@ translate french d19s01ntr_questions_a353f833:
     lc "Non.{w} Mes parents m'ont acheté la maison, mais j'en suis propriétaire. Et nous sommes dans... je suppose qu'on pourrait appeler ça un sous-sous-sol."
 
 # game/code/d19/d19s01ntr.rpy:352
-translate french d19s01ntr.questions_e90ecd40:
+translate french d19s01ntr_questions_e90ecd40:
 
     # mc "I didn't even realize there was a basement."
     mc "Je n'avais même pas réalisé qu'il y avait un sous-sol."
 
 # game/code/d19/d19s01ntr.rpy:355
-translate french d19s01ntr.questions_c8b5ed3f:
+translate french d19s01ntr_questions_c8b5ed3f:
 
     # lc "You're better at finding g-spots than hidden doors."
     lc "Tu es meilleur pour trouver des points G que des portes cachées."
@@ -1020,32 +1020,41 @@ translate french d19s01ntr_end_9503211c:
     # mct "It's weird being back up here where everything is normal."
     mct "C'est bizarre d'être de retour ici où tout est normal."
 
-# game/code/d19/d19s01ntr.rpy:289
-old "How did I get here?"
-new "Comment suis-je arrivé ici?"
+translate french strings:
 
-# game/code/d19/d19s01ntr.rpy:289
-old "I thought you were a virgin!"
-new "Je croyais que tu étais vierge!"
+    # game/code/d19/d19s01ntr.rpy:289
+    old "How did I get here?"
+    new "Comment suis-je arrivé ici?"
 
-# game/code/d19/d19s01ntr.rpy:289
-old "How is Kevin involved in all this?"
-new "Comment Kevin est-il impliqué dans tout ça?"
+    # game/code/d19/d19s01ntr.rpy:289
+    old "I thought you were a virgin!"
+    new "Je croyais que tu étais vierge!"
 
-# game/code/d19/d19s01ntr.rpy:289
-old "Where are we?"
-new "Où sommes-nous?"
+    # game/code/d19/d19s01ntr.rpy:289
+    old "How is Kevin involved in all this?"
+    new "Comment Kevin est-il impliqué dans tout ça?"
 
-# game/code/d19/d19s01ntr.rpy:289
-old "No Questions"
-new "Pas de questions"
+    # game/code/d19/d19s01ntr.rpy:289
+    old "Where are we?"
+    new "Où sommes-nous?"
 
-# game/code/d19/d19s01ntr.rpy:417
-old "That is a Really Good Deal"
-new "C'est un très bon marché"
+    # game/code/d19/d19s01ntr.rpy:289
+    old "No Questions"
+    new "Pas de questions"
 
-# game/code/d19/d19s01ntr.rpy:417
-old "Go Fuck Yourself"
-new "Va te faire foutre"
+    # game/code/d19/d19s01ntr.rpy:417
+    old "That is a Really Good Deal"
+    new "C'est un très bon marché"
 
+    # game/code/d19/d19s01ntr.rpy:417
+    old "Go Fuck Yourself"
+    new "Va te faire foutre"
+
+
+
+translate french strings:
+
+    # game/code/d19/d19s01ntr.rpy:289
+    old "How is Kevin involved in all this"
+    new "How is Kevin involved in all this"
 

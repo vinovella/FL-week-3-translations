@@ -1044,3 +1044,10 @@ translate french strings:
     new "Branle Lyssa"
 
 
+
+# game/code/d19/extended/d19s03_ext.rpy:181
+translate french d19s03_bj_31781d18:
+
+    # mh "So, {i}kidnapped{/i}, huh?"
+    mh "So, {i}kidnapped{/i}, huh?"
+

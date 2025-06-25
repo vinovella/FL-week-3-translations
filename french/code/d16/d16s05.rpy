@@ -1088,3 +1088,10 @@ translate french strings:
     old "Ask her if she got any pictures"
     new "Demandez-lui si elle a des photos"
 
+
+# game/code/d16/d16s05.rpy:101
+translate french d16s05_e02ad694:
+
+    # sy "Fuck yeah, that's what I'm talking about."
+    sy "Fuck yeah, that's what I'm talking about."
+

@@ -362,7 +362,7 @@ translate french d18s06_ca24c8f3:
 translate french d18s06_0f89cf5e:
 
     # sy "I've tried everything I can think of... it all results in a best case scenario of a 0.3%% chance of success."
-    sy "J'ai essayé tout ce à quoi je pouvais penser... tout ça donne dans le meilleur des cas une chance de succès de 0,3%."
+    sy "J'ai essayé tout ce à quoi je pouvais penser... tout ça donne dans le meilleur des cas une chance de succès de 0.3%%."
 
 # game/code/d18/d18s06.rpy:187
 translate french d18s06_e4fd6d10:
@@ -574,9 +574,10 @@ translate french d18s06_74866910:
     # arj "Maybe we can pick one up at your dorm. Let's go."
     arj "Peut-être qu'on peut en prendre un dans ton dortoir. Allons-y."
 
-# game/code/d18/d18s06.rpy:6
-translate french d18s06_9e2e7c44:
 
-    # old "Some time later\nAt the college campus"
+translate french strings:
+
+    # game/code/d18/d18s06.rpy:6
+    old "Some time later\nAt the college campus"
     new "Quelques temps plus tard\nSur le campus universitaire"
 

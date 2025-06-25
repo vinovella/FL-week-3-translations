@@ -1157,3 +1157,166 @@ translate french replay_d17s08_55d60f89:
     mct "Oh, merde."
 
 
+
+# game/code/d17/d17s08.rpy:435
+translate french replay_d17s08_715b63e4:
+
+    # mc "OH-"
+    mc "OH-"
+
+# game/code/d17/d17s08.rpy:446
+translate french replay_d17s08_cff9e1b2:
+
+    # mc "OH FUCK YESSS"
+    mc "OH FUCK YESSS"
+
+# game/code/d17/d17s08.rpy:453
+translate french replay_d17s08_69bea1a5:
+
+    # mc "That's-"
+    mc "That's-"
+
+# game/code/d17/d17s08.rpy:455
+translate french replay_d17s08_8678e9c7:
+
+    # mc "How did you get so good at that?"
+    mc "How did you get so good at that?"
+
+# game/code/d17/d17s08.rpy:461
+translate french replay_d17s08_0a7ca4c7:
+
+    # mc "Research?"
+    mc "Research?"
+
+# game/code/d17/d17s08.rpy:467
+translate french replay_d17s08_7488ae3e:
+
+    # mc "Oh yeah."
+    mc "Oh yeah."
+
+# game/code/d17/d17s08.rpy:473
+translate french replay_d17s08_9270f444:
+
+    # mc "You are incredible."
+    mc "You are incredible."
+
+# game/code/d17/d17s08.rpy:482
+translate french replay_d17s08_386a2729:
+
+    # sy "So, how's things?"
+    sy "So, how's things?"
+
+# game/code/d17/d17s08.rpy:488
+translate french replay_d17s08_f10db3de:
+
+    # sy "You own clothes, don't you?"
+    sy "You own clothes, don't you?"
+
+# game/code/d17/d17s08.rpy:494
+translate french replay_d17s08_4d7f0c0b:
+
+    # sy "I'm not complaining. I'm just saying, after Sunday..."
+    sy "I'm not complaining. I'm just saying, after Sunday..."
+
+# game/code/d17/d17s08.rpy:500
+translate french replay_d17s08_9af6b524:
+
+    # sy "Are you even allowed to wear clothing in this house?"
+    sy "Are you even allowed to wear clothing in this house?"
+
+# game/code/d17/d17s08.rpy:505
+translate french replay_d17s08_bddb1774:
+
+    # mc "*mumbles* probably"
+    mc "*mumbles* probably"
+
+# game/code/d17/d17s08.rpy:511
+translate french replay_d17s08_afad4af1:
+
+    # mc "So, when did you modify your phone to download data on-?"
+    mc "So, when did you modify your phone to download data on-?"
+
+# game/code/d17/d17s08.rpy:516
+translate french replay_d17s08_ccdf5709:
+
+    # mc "Mira?"
+    mc "Mira?"
+
+# game/code/d17/d17s08.rpy:521
+translate french replay_d17s08_46a1f2b0:
+
+    # mct "Oh, right. Fetish Locator might be listening."
+    mct "Oh, right. Fetish Locator might be listening."
+
+# game/code/d17/d17s08.rpy:525
+translate french replay_d17s08_5850c7f6:
+
+    # mc "Right, that lost... dog. I didn't realize it had a name."
+    mc "Right, that lost... dog. I didn't realize it had a name."
+
+# game/code/d17/d17s08.rpy:531
+translate french replay_d17s08_d289b245:
+
+    # mc "So, is there any progress on finding... Mira?"
+    mc "So, is there any progress on finding... Mira?"
+
+# game/code/d17/d17s08.rpy:536
+translate french replay_d17s08_c7ca3906:
+
+    # mc "That sounds nice."
+    mc "That sounds nice."
+
+# game/code/d17/d17s08.rpy:544
+translate french replay_d17s08_a1289911:
+
+    # mc "Uh, sis. My girlfriend's coming this way."
+    mc "Uh, sis. My girlfriend's coming this way."
+
+# game/code/d17/d17s08.rpy:550
+translate french replay_d17s08_96f753dd:
+
+    # mc "Hey sexy lady."
+    mc "Hey sexy lady."
+
+# game/code/d17/d17s08.rpy:556
+translate french replay_d17s08_2376c239:
+
+    # lc "Oh good, you jerked off while I was in the shower."
+    lc "Oh good, you jerked off while I was in the shower."
+
+# game/code/d17/d17s08.rpy:561
+translate french replay_d17s08_653e0ff8:
+
+    # lc "Damn, you're so fucking sexy."
+    lc "Damn, you're so fucking sexy."
+
+# game/code/d17/d17s08.rpy:566
+translate french replay_d17s08_8280a992:
+
+    # lc "Wow. You are so incredibly sexy right now."
+    lc "Wow. You are so incredibly sexy right now."
+
+# game/code/d17/d17s08.rpy:572
+translate french replay_d17s08_64559936:
+
+    # mc "Too much time studying for finals?"
+    mc "Too much time studying for finals?"
+
+# game/code/d17/d17s08.rpy:579
+translate french replay_d17s08_bac69fdd:
+
+    # lc "Did you hear-?"
+    lc "Did you hear-?"
+
+# game/code/d17/d17s08.rpy:599
+translate french replay_d17s08_6195c941:
+
+    # mc "I was just overwhelmed with the desire to kiss you."
+    mc "I was just overwhelmed with the desire to kiss you."
+
+# game/code/d17/d17s08.rpy:605
+translate french replay_d17s08_43ddfa89:
+
+    # mc "So, you were telling me about your neighbor?"
+    mc "So, you were telling me about your neighbor?"
+

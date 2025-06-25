@@ -44,7 +44,7 @@ translate korean e10s07_f4bed3f6:
 translate korean e10s07_73074e14:
 
     # md "I already invested. Not in your funds, but in your business. I currently own 18 percent of the shares."
-    md "이미 돈은 썼다. 투자가 아니라 너희 회사 주식에. 현재 너희 회사 주식의 18%를 내가 가지고 있으니 말이다."
+    md "이미 돈은 썼다. 투자가 아니라 너희 회사 주식에. 현재 너희 회사 주식의 18%%를 내가 가지고 있으니 말이다."
 
 # game/code/e10/e10s07.rpy:36
 translate korean e10s07_f80ecf41:
