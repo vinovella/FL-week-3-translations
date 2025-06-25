@@ -362,7 +362,7 @@ translate french d18s11_bar_eeb06356:
 translate french d18s11_bar_8802af05:
 
     # "Bartender" "I wouldn't say that.{w} Look, you want me to call you a Taxi or something before they haul you into the drunk tank?"
-    "Barman" "Je ne dirais pas ça.{w} Écoute, tu veux que je t'appelle un taxi ou quelque chose comme ça avant qu'ils ne t'emmene en cellule de dégrisement?"
+    "Barman" "Je ne dirais pas ça.{w} Écoute, tu veux que je t'appelle un taxi ou quelque chose comme ça avant qu'ils ne t'emmènent en cellule de dégrisement?"
 
 # game/code/d18/d18s11.rpy:239
 translate french d18s11_bar_83d2babf:
@@ -393,4 +393,5 @@ translate french strings:
     # game/code/d18/d18s11.rpy:62
     old "Get Drunk in the Bar"
     new "Saoule-toi au bar"
+
 
