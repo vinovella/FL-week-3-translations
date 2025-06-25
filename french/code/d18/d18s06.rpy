@@ -32,13 +32,13 @@ translate french d18s06_6eff086c:
 translate french d18s06_fe1fefe0:
 
     # arj "You don't like it?"
-    arj "Tu n'aimes pas ça?"
+    arj "Tu n'aimes pas ça ?"
 
 # game/code/d18/d18s06.rpy:27
 translate french d18s06_c20b9a2e:
 
     # mc "I mean, it looks really sexy on you..."
-    mc "Oh mon Dieu."
+    mc "Je veux dire, ça te va vraiment bien..."
 
 # game/code/d18/d18s06.rpy:30
 translate french d18s06_a77d730c:
@@ -50,7 +50,7 @@ translate french d18s06_a77d730c:
 translate french d18s06_8cf1dd47:
 
     # sy "I'm telling you. This is tactical, practical, professional, and slutty. It's perfect for this mission!"
-    sy "Je te le dis. C'est tactique, pratique, professionnel et salope. C'est parfait pour cette mission!"
+    sy "Je te le dis. C'est tactique, pratique, professionnel et sexy. C'est parfait pour cette mission !"
 
 # game/code/d18/d18s06.rpy:45
 translate french d18s06_d4a293c1:
@@ -68,7 +68,7 @@ translate french d18s06_62c7b249:
 translate french d18s06_8ca87e26:
 
     # sy "Thank you!"
-    sy "Merci!"
+    sy "Merci !"
 
 # game/code/d18/d18s06.rpy:54
 translate french d18s06_4d5cbaf3:
@@ -80,7 +80,7 @@ translate french d18s06_4d5cbaf3:
 translate french d18s06_e434542d:
 
     # mc "Then why are you wearing it?"
-    mc "Alors pourquoi tu la portes?"
+    mc "Alors pourquoi tu la portes ?"
 
 # game/code/d18/d18s06.rpy:60
 translate french d18s06_1391c58d:
@@ -98,7 +98,7 @@ translate french d18s06_aa80ef70:
 translate french d18s06_11455b53:
 
     # mc "What?"
-    mc "Quoi?"
+    mc "Quoi ?"
 
 # game/code/d18/d18s06.rpy:68
 translate french d18s06_213f073e:
@@ -134,7 +134,7 @@ translate french d18s06_4905a812:
 translate french d18s06_abf4b14e:
 
     # hr "Duly noted, now will you please start trying."
-    hr "C'est dûment noté, maintenant vas-tu commencer à essayer."
+    hr "C'est dûment noté, maintenant vas-tu commencer à essayer ?"
 
 # game/code/d18/d18s06.rpy:81
 translate french d18s06_567faf98:
@@ -146,7 +146,7 @@ translate french d18s06_567faf98:
 translate french d18s06_4fbfb8e7:
 
     # sy "Here."
-    sy "Voila."
+    sy "Voilà."
 
 # game/code/d18/d18s06.rpy:86
 translate french d18s06_0993f42d:
@@ -170,7 +170,7 @@ translate french d18s06_328095f9:
 translate french d18s06_f1d5ac27:
 
     # sy "AmRose, can you help me with this?"
-    sy "AmRose, peux-tu m'aider avec ça?"
+    sy "AmRose, peux-tu m'aider avec ça ?"
 
 # game/code/d18/d18s06.rpy:97
 translate french d18s06_e7b8bab0:
@@ -182,7 +182,7 @@ translate french d18s06_e7b8bab0:
 translate french d18s06_00e5a56c:
 
     # mc "What exactly are they doing?"
-    mc "Qu'est-ce qu'elles font exactement?"
+    mc "Qu'est-ce qu'elles font exactement ?"
 
 # game/code/d18/d18s06.rpy:104
 translate french d18s06_ed25c8c3:
@@ -218,7 +218,7 @@ translate french d18s06_9eeb59b1:
 translate french d18s06_ff5fec6c:
 
     # hr "Think it will work?"
-    hr "Tu penses que ça va marcher?"
+    hr "Tu penses que ça va marcher ?"
 
 # game/code/d18/d18s06.rpy:117
 translate french d18s06_13f8def8:
@@ -248,7 +248,7 @@ translate french d18s06_ff0b6cc1:
 translate french d18s06_fd4cedf8:
 
     # hr "Can you bypass the alarm?"
-    hr "Tu peux contourner l'alarme?"
+    hr "Tu peux contourner l'alarme ?"
 
 # game/code/d18/d18s06.rpy:132
 translate french d18s06_e1e5649d:
@@ -284,7 +284,7 @@ translate french d18s06_86d5cd28:
 translate french d18s06_ed922d28:
 
     # hr "How do you know that?"
-    hr "Comment tu sais ça?"
+    hr "Comment tu sais ça ?"
 
 # game/code/d18/d18s06.rpy:150
 translate french d18s06_4bfeb4d5:
@@ -296,7 +296,7 @@ translate french d18s06_4bfeb4d5:
 translate french d18s06_f38de348:
 
     # hr "Who is it? Can you identify the... I dunno, the MAC Address or something?"
-    hr "Qui est-ce? Pouvez-vous identifier le... Je ne sais pas, l'adresse MAC ou quelque chose comme ça?"
+    hr "Qui est-ce ? Tu peux identifier le... je sais pas, l'adresse MAC ou quelque chose comme ça ?"
 
 # game/code/d18/d18s06.rpy:156
 translate french d18s06_0e49daff:
@@ -320,7 +320,7 @@ translate french d18s06_613353b8:
 translate french d18s06_14a3fb5c:
 
     # mc "So, why don't we just knock on the door and see if they open up?"
-    mc "Alors pourquoi ne pas frapper à la porte et voir s'ils s'ouvrent?"
+    mc "Alors pourquoi ne pas frapper à la porte et voir s'ils l'ouvrent ?"
 
 # game/code/d18/d18s06.rpy:166
 translate french d18s06_213e5f11:
@@ -332,7 +332,7 @@ translate french d18s06_213e5f11:
 translate french d18s06_78b15c95:
 
     # hr "No! If there's someone in there. I want to catch them in the act!"
-    hr "Non! S'il y a quelqu'un là-dedans. Je veux les prendre en flagrant délit!"
+    hr "Non ! S'il y a quelqu'un là-dedans. Je veux les prendre en flagrant délit !"
 
 # game/code/d18/d18s06.rpy:172
 translate french d18s06_7ede4c2b:
@@ -356,13 +356,13 @@ translate french d18s06_c478c069:
 translate french d18s06_ca24c8f3:
 
     # hr "What do you mean, \" Nope?"
-    hr "Qu'est-ce que tu veux dire par \" Non?"
+    hr "Qu'est-ce que tu veux dire par \"Non\" ?"
 
 # game/code/d18/d18s06.rpy:184
 translate french d18s06_0f89cf5e:
 
     # sy "I've tried everything I can think of... it all results in a best case scenario of a 0.3%% chance of success."
-    sy "J'ai essayé tout ce à quoi je pouvais penser... tout ça donne dans le meilleur des cas une chance de succès de 0,3%%."
+    sy "J'ai essayé tout ce à quoi je pouvais penser... tout ça donne dans le meilleur des cas une chance de succès de 0,3%."
 
 # game/code/d18/d18s06.rpy:187
 translate french d18s06_e4fd6d10:
@@ -392,7 +392,7 @@ translate french d18s06_df423365:
 translate french d18s06_ce447f4b:
 
     # mc "Knock on the door?"
-    mc "On frappe à la porte?"
+    mc "On frappe à la porte ?"
 
 # game/code/d18/d18s06.rpy:199
 translate french d18s06_c511493f:
@@ -410,7 +410,7 @@ translate french d18s06_599b3471:
 translate french d18s06_4a5aa1a5:
 
     # mc "Also, the person inside would call security."
-    mc "En plus, la personne à l'intérieur appelerai la sécurité."
+    mc "En plus, la personne à l'intérieur appellerait la sécurité."
 
 # game/code/d18/d18s06.rpy:208
 translate french d18s06_91840010:
@@ -422,19 +422,19 @@ translate french d18s06_91840010:
 translate french d18s06_4e85cb4d:
 
     # mc "Hello?"
-    mc "Bonjour?"
+    mc "Bonjour ?"
 
 # game/code/d18/d18s06.rpy:215
 translate french d18s06_bba20693:
 
     # sy "Land shark!"
-    sy "Requin terrestre!"
+    sy "Requin terrestre !"
 
 # game/code/d18/d18s06.rpy:218
 translate french d18s06_3cccfc57:
 
     # arj "You're not old enough to understand that reference."
-    arj "Tu n'es pas assez vieille pour comprendre cette référence."
+    arj "Tu n'es pas assez vieux pour comprendre cette référence."
 
 # game/code/d18/d18s06.rpy:221
 translate french d18s06_cfddcade:
@@ -446,7 +446,7 @@ translate french d18s06_cfddcade:
 translate french d18s06_aecf764a:
 
     # mc "HELLO?!"
-    mc "BONJOUR?!"
+    mc "BONJOUR ?!"
 
 # game/code/d18/d18s06.rpy:228
 translate french d18s06_e9671b08:
@@ -458,13 +458,13 @@ translate french d18s06_e9671b08:
 translate french d18s06_9052223b:
 
     # sy "Is that where we set everything on fire?"
-    sy "C'est là qu'on mets le feu?"
+    sy "C'est là qu'on met tout le feu ?"
 
 # game/code/d18/d18s06.rpy:234
 translate french d18s06_766fbcc4:
 
     # mc "What? No!"
-    mc "Quoi? Non!"
+    mc "Quoi ? Non !"
 
 # game/code/d18/d18s06.rpy:237
 translate french d18s06_dd422714:
@@ -476,25 +476,25 @@ translate french d18s06_dd422714:
 translate french d18s06_b82b80f4:
 
     # hr "How did I get teamed up with the 3 Stooges?"
-    hr "Comment ai-je fait équipe avec ces 3 Stooges?"
+    hr "Comment ai-je fait équipe avec ces 3 Stooges ?"
 
 # game/code/d18/d18s06.rpy:243
 translate french d18s06_03ddde42:
 
     # mc "You're definitely not old enough to-"
-    mc "Tu n'es définitivement pas assez vieille pour..."
+    mc "Tu n'es définitivement pas assez vieux pour..."
 
 # game/code/d18/d18s06.rpy:246
 translate french d18s06_cfd9c478:
 
     # arj "Waller!"
-    arj "Waller!"
+    arj "Waller !"
 
 # game/code/d18/d18s06.rpy:249
 translate french d18s06_87bcd6d7:
 
     # mc "Fuck! WHERE?!"
-    mc "Putain! OÙ?!"
+    mc "Putain ! OÙ ?!"
 
 # game/code/d18/d18s06.rpy:252
 translate french d18s06_993ab139:
@@ -512,19 +512,19 @@ translate french d18s06_f67dad6e:
 translate french d18s06_8615b09b:
 
     # arj "Well, she should still know."
-    arj "Eh bien, elle devrait toujours le savoir."
+    arj "Eh bien, elle devrait quand même le savoir."
 
 # game/code/d18/d18s06.rpy:261
 translate french d18s06_342182c1:
 
     # hr "Okay, where can we find her?"
-    hr "Ok, où peut-on la trouver?"
+    hr "Ok, où peut-on la trouver ?"
 
 # game/code/d18/d18s06.rpy:264
 translate french d18s06_e9c4a4c2:
 
     # mc "At this time of day?{w} She's probably on rounds at my dorm."
-    mc "A cette heure de la journée?{w} Elle est probablement en tournée dans mon dortoir."
+    mc "À cette heure de la journée ?{w} Elle est probablement en tournée dans mon dortoir."
 
 # game/code/d18/d18s06.rpy:267
 translate french d18s06_90db1d03:
@@ -542,7 +542,7 @@ translate french d18s06_35dec559:
 translate french d18s06_1473741d:
 
     # mc "Maybe we can be like the 3 Musketeers?{w} There were 4 of them."
-    mc "Peut-être qu'on pourrait être comme les 3 Mousquetaires?{w} Il y en avait 4."
+    mc "Peut-être qu'on pourrait être comme les 3 Mousquetaires ?{w} Il y en avait 4."
 
 # game/code/d18/d18s06.rpy:275
 translate french d18s06_87f50194:
@@ -554,7 +554,7 @@ translate french d18s06_87f50194:
 translate french d18s06_90d6aef7:
 
     # hr "Whatever.{w} Hey - why doesn't [mcname] have to wear a tactical slut outfit?"
-    hr "Peu importe.{w} Hé, pourquoi [mcname] ne doit-il pas porter une tenue tactique de salope?"
+    hr "Peu importe.{w} Hé, pourquoi [mcname] ne doit-il pas porter une tenue tactique de salope ?"
 
 # game/code/d18/d18s06.rpy:281
 translate french d18s06_f233ef6d:
@@ -566,7 +566,7 @@ translate french d18s06_f233ef6d:
 translate french d18s06_f5f84c7b:
 
     # mc "Was I supposed to wear a suit or something?"
-    mc "J'étais censé porter un costume ou quelque chose comme ça?"
+    mc "J'étais censé porter un costume ou quelque chose comme ça ?"
 
 # game/code/d18/d18s06.rpy:287
 translate french d18s06_74866910:
@@ -574,9 +574,9 @@ translate french d18s06_74866910:
     # arj "Maybe we can pick one up at your dorm. Let's go."
     arj "Peut-être qu'on peut en prendre un dans ton dortoir. Allons-y."
 
-translate french strings:
+# game/code/d18/d18s06.rpy:6
+translate french d18s06_9e2e7c44:
 
-    # game/code/d18/d18s06.rpy:6
-    old "Some time later\nAt the college campus"
+    # old "Some time later\nAt the college campus"
     new "Quelques temps plus tard\nSur le campus universitaire"
 
