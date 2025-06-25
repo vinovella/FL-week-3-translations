@@ -1,180 +1,150 @@
 # game/code/d18/d18s03.rpy:70
 translate french d18s03_ec5dba5c:
-
     # mc "Hey Minnie."
     mc "Salut Minnie."
 
 # game/code/d18/d18s03.rpy:73
 translate french d18s03_c57f559c:
-
     # mes "Don't call me that.{w} Did you bring...{w} cheese?"
     mes "Ne m'appelle pas comme ça.{w} As-tu apporté...{w} du fromage?"
 
 # game/code/d18/d18s03.rpy:76
 translate french d18s03_9631dfec:
-
     # mc "The best I could find."
     mc "Le meilleur que j'ai pu trouver."
 
 # game/code/d18/d18s03.rpy:79
 translate french d18s03_da2ccb3e:
-
     # mes "You know I'm lactose intolerant, right?"
     mes "Tu sais que je suis intolérant au lactose, n'est-ce pas?"
 
 # game/code/d18/d18s03.rpy:82
 translate french d18s03_b34166f2:
-
     # mc "Seriously?! I didn't-"
     mc "Sérieusement?! Je n'ai pas-"
 
 # game/code/d18/d18s03.rpy:85
 translate french d18s03_61a3b8b5:
-
     # mes "I'm just messing with you.{w} Although, my mother was killed by a giant cheese wheel."
-    mes "Je te taquine.{w}  Bien que ma mère ait été tuée par une meule de fromage géante."
+    mes "Je te taquine.{w} Bien que ma mère ait été tuée par une meule de fromage géante."
 
 # game/code/d18/d18s03.rpy:88
 translate french d18s03_130495f6:
-
     # mc "Now I know you're joking."
     mc "Maintenant je sais que tu plaisantes."
 
 # game/code/d18/d18s03.rpy:91
 translate french d18s03_3ae3eefb:
-
     # mes "German beer festivals can get out of control."
     mes "Les festivals de bière allemands peuvent devenir incontrôlables."
 
 # game/code/d18/d18s03.rpy:94
 translate french d18s03_fb7bcec0:
-
     # mc "Well, this gouda claims to be from Holland..."
     mc "Eh bien, ce gouda prétend venir de Hollande..."
 
 # game/code/d18/d18s03.rpy:97
 translate french d18s03_31732d27:
-
     # mes "Correction. The smoked gouda you brought is from {b}the{/b} province of South Holland in the Netherlands."
     mes "Correction. Le gouda fumé que tu as apporté vient de {b}la{/b} province de Hollande méridionale aux Pays-Bas."
 
 # game/code/d18/d18s03.rpy:100
 translate french d18s03_678ea6fa:
-
     # mc "Are you planning on busting my balls all day today?"
     mc "Tu comptes me casser les couilles toute la journée?"
 
 # game/code/d18/d18s03.rpy:103
 translate french d18s03_01a28e6c:
-
     # mes "If you're lucky.{w} Although I was serious about not calling me, \"Minnie\"."
     mes "Si tu as de la chance.{w} Même si j'étais sérieuse au sujet de ne pas m'appeler \"Minnie\"."
 
 # game/code/d18/d18s03.rpy:106
 translate french d18s03_a7f2d2d2:
-
     # mc "Noted. Neither the mouse nor small in stature."
     mc "C'est noté. Ni souris, ni la petite taille."
 
 # game/code/d18/d18s03.rpy:109
 translate french d18s03_a8cc2905:
-
     # mes "You did well. This is one of my favorites."
     mes "Tu as bien fait. C'est l'un de mes fromages préférés."
 
 # game/code/d18/d18s03.rpy:112
 translate french d18s03_019e500b:
-
     # mc "Well, it was either that or wine - and I figured you are particular about your wine."
     mc "Eh bien, c'était soit ça, soit le vin, et je pensais que tu étais calé à propos des vins."
 
 # game/code/d18/d18s03.rpy:115
 translate french d18s03_2093761c:
-
     # mes "I am. I know just the right Malbec to pair with this."
     mes "Je le suis. Je connais le Malbec, idéal pour accompagner ça."
 
 # game/code/d18/d18s03.rpy:121
 translate french d18s03_a91ab50d:
-
     # mc "So, your mom...?"
     mc "Alors, ta mère...?"
 
 # game/code/d18/d18s03.rpy:124
 translate french d18s03_2f74d4bf:
-
     # mes "Oh, she's perfectly healthy. I don't think she's ever even been to Germany."
     mes "Oh, elle est en parfaite santé. Je ne pense pas qu'elle soit déjà allée en Allemagne."
 
 # game/code/d18/d18s03.rpy:127
 translate french d18s03_a72c4b3e:
-
     # mc "Any other family tragedies I should know about?"
     mc "Y a-t-il d'autres tragédies familiales dont je devrais être au courant?"
 
 # game/code/d18/d18s03.rpy:130
 translate french d18s03_6dc107af:
-
     # mes "My brother is working for our father. They're both overseas somewhere these days.{w} South Korea, probably."
     mes "Mon frère travaille pour notre père. Ils sont tous les deux quelque part à l'étranger ces jours-ci.{w} Corée du Sud, probablement."
 
 # game/code/d18/d18s03.rpy:131
 translate french d18s03_83a8823b:
-
     # mes "Mom's currently visiting Tokyo."
     mes "Maman est actuellement en visite à Tokyo."
 
 # game/code/d18/d18s03.rpy:134
 translate french d18s03_1103ab79:
-
     # mc "So, you're all alone?"
     mc "Alors tu es toute seule?"
 
 # game/code/d18/d18s03.rpy:137
 translate french d18s03_6ca8a528:
-
     # mes "I wouldn't say that.{w} Although I was thinking that some sausage would go well with this."
     mes "Je ne dirais pas ça.{w} Même si je pensais que des saucisses iraient bien avec ça."
 
 # game/code/d18/d18s03.rpy:140
 translate french d18s03_0f83ba1f:
-
     # mc "Like, sausage sausage, or like... \"sausage\"?"
     mc "Genre, saucisse saucisse, ou genre... \"saucisse\"?"
 
 # game/code/d18/d18s03.rpy:143
 translate french d18s03_5d0a424c:
-
     # mes "I was thinking of some Estonian Kielbasa, but I like where your mind is going."
     mes "Je pensais à du Kielbasa estonien, mais j'aime où va ton esprit."
 
 # game/code/d18/d18s03.rpy:146
 translate french d18s03_b697527e:
-
     # mc "Maybe we should-"
     mc "Peut-être qu'on devrait-"
 
 # game/code/d18/d18s03.rpy:149
 translate french d18s03_45704880:
-
     # mes "We should study first. Then maybe we can get distracted by the meat you brought."
     mes "On devrait étudier d'abord. Alors peut-être qu'on pourra se laisser distraire par la saucisse que tu as apportée."
 
 # game/code/d18/d18s03.rpy:152
 translate french d18s03_43e0c08c:
-
     # mc "Good thinking. Study first.{w} Shall we make it a wager?"
     mc "Bonne réflexion. Etudions d'abord.{w} Devons-nous en faire un pari?"
 
 # game/code/d18/d18s03.rpy:155
 translate french d18s03_bf41a2d3:
-
     # mes "Of course. Competition brings out the best - and worst - in me."
     mes "Bien sûr. La compétition fait ressortir le meilleur, et le pire, de moi."
 
 # game/code/d18/d18s03.rpy:158
 translate french d18s03_bb823e8a:
-
     # mc "What are the terms?"
     mc "Quelles sont les conditions?"
 
@@ -356,43 +326,43 @@ translate french d18s03_42d9081e:
 translate french d18s03_8e359492:
 
     # mc "Fine."
-    mc "Bien."
+    mc "Très bien."
 
 # game/code/d18/d18s03.rpy:262
 translate french d18s03_3e071e38:
 
     # mc "Here's a really easy one for you - who was the author of \"Reminiscences of a Stock Operator\"?"
-    mc "En voici une très simple pour toi : Qui est l'auteur de \"Réminiscences d'un opérateur boursier\"?"
+    mc "En voici une très simple pour toi – qui est l’auteur de « Réminiscences d’un opérateur boursier » ?"
 
 # game/code/d18/d18s03.rpy:265
 translate french d18s03_1f4a94fb:
 
     # mes "Too easy. Jesse Livermore. I just told you that."
-    mes "Trop facile. Jesse Livermore. Je viens de te le dire."
+    mes "Trop facile. Jesse Livermore. Je viens juste de te le dire."
 
 # game/code/d18/d18s03.rpy:268
 translate french d18s03_fd66f41e:
 
     # mc "And you were wrong. Jesse Livermore was the main character of the book, but the author was Edwin Lefèvre."
-    mc "Et tu avais tort. Jesse Livermore était le personnage principal du livre, mais l'auteur était Edwin Lefèvre."
+    mc "Et tu avais tort. Jesse Livermore était le personnage principal du livre, mais l’auteur, c’était Edwin Lefèvre."
 
 # game/code/d18/d18s03.rpy:272
 translate french d18s03_df0cf6bc:
 
     # mes "What?! You're kidding me!!!"
-    mes "Quoi?! Tu plaisante!!!"
+    mes "Quoi ?! Tu te fous de moi !!!"
 
 # game/code/d18/d18s03.rpy:274
 translate french d18s03_d91d93d0:
 
     # mes "How did I never notice that?"
-    mes "Comment n'ai-je jamais remarqué ça?"
+    mes "Comment j’ai jamais remarqué ça ?"
 
 # game/code/d18/d18s03.rpy:277
 translate french d18s03_5627152c:
 
     # mc "Well, now you know..."
-    mc "Eh bien, maintenant tu sais..."
+    mc "Eh ben, maintenant tu sais..."
 
 # game/code/d18/d18s03.rpy:280
 translate french d18s03_0ffb6638:
@@ -404,67 +374,67 @@ translate french d18s03_0ffb6638:
 translate french d18s03_106cfa2d:
 
     # mes "If n and p are both odd numbers, which of the following numbers must be an even number?"
-    mes "Si N et P sont tous deux des nombres impairs, lequel des nombres suivants doit être un nombre pair?"
+    mes "Si n et p sont tous les deux des nombres impairs, lequel des nombres suivants doit être pair ?"
 
 # game/code/d18/d18s03.rpy:290
 translate french d18s03_c0b7e7c8:
 
     # mc "If n and p are both odd numbers, then n plus p must be an even number."
-    mc "Si N et P sont tous deux des nombres impairs, alors N plus P doivent être un nombre pair."
+    mc "Si n et p sont impairs, alors n + p doit être pair."
 
 # game/code/d18/d18s03.rpy:293
 translate french d18s03_55f69be0:
 
     # mes "True."
-    mes "C'est vrai."
+    mes "C’est vrai."
 
 # game/code/d18/d18s03.rpy:298
 translate french d18s03_29634f28:
 
     # mc "If n and p are both odd numbers, then n times p must be an even number."
-    mc "Si N et P sont tous deux des nombres impairs, alors N fois P doit être un nombre pair."
+    mc "Si n et p sont impairs, alors n multiplié par p doit être pair."
 
 # game/code/d18/d18s03.rpy:301
 translate french d18s03_0ece7e56:
 
     # mes "Nope. For example: Three times Five is Fifteen."
-    mes "Non. Par exemple: Trois fois cinq font quinze."
+    mes "Non. Par exemple : trois fois cinq font quinze."
 
 # game/code/d18/d18s03.rpy:306
 translate french d18s03_a7e281de:
 
     # mc "Hmm... if n and p are both odd numbers, then n times p plus two must be even."
-    mc "Hmm... Si N et P sont tous deux des nombres impairs, alors N fois P plus deux doivent être pairs."
+    mc "Hmm... si n et p sont impairs, alors n fois p plus deux doit être pair."
 
 # game/code/d18/d18s03.rpy:309
 translate french d18s03_42bc1c41:
 
     # mes "Nope. Not even close."
-    mes "Non. Même pas proche."
+    mes "Non. Pas du tout."
 
 # game/code/d18/d18s03.rpy:314
 translate french d18s03_932b9a5c:
 
     # mc "If n and p are both odd numbers, then n plus p must be odd, so n plus p plus 1 must be even."
-    mc "Si N et P sont tous deux des nombres impairs, alors N plus P doit être impair, donc N plus P plus 1 doit être pair."
+    mc "Si n et p sont impairs, alors n + p est impair, donc n + p + 1 est pair."
 
 # game/code/d18/d18s03.rpy:317
 translate french d18s03_2a8558e8:
 
     # mes "Nope. That is exactly backwards."
-    mes "Non. C'est exactement à l'envers."
+    mes "Non. C’est exactement l’inverse."
 
 # game/code/d18/d18s03.rpy:320
 translate french d18s03_5d02299f:
 
     # mct "I should try to put some pressure on her and see if I can get an edge."
-    mct "Je devrais essayer de lui mettre un peu de pression et voir si je peux prendre l'avantage."
+    mct "Je devrais essayer de lui mettre un peu la pression pour voir si je peux prendre l’avantage."
 
 # game/code/d18/d18s03.rpy:323
 translate french d18s03_5b2a287a:
 
     # mc "Think Fast: Every minister is a student. Every student is inexperienced. Therefore, what?!"
-    mc "Réfléchis vite: Chaque ministre est un étudiant. Chaque étudiant est inexpérimenté. Alors quoi?!"
+    mc "Réfléchis vite : chaque ministre est un étudiant. Chaque étudiant est inexpérimenté. Donc quoi ?!"
 
 # game/code/d18/d18s03.rpy:326
 translate french d18s03_68729103:
@@ -476,37 +446,37 @@ translate french d18s03_68729103:
 translate french d18s03_cfd721d7:
 
     # mc "Damn. I thought I could throw you off by putting pressure on you."
-    mc "Putain. Je pensais pouvoir te déstabiliser en te mettant la pression."
+    mc "Merde. Je pensais pouvoir te déstabiliser avec un peu de pression."
 
 # game/code/d18/d18s03.rpy:332
 translate french d18s03_dbc14ce6:
 
     # mes "Not going to happen. I thrive under pressure."
-    mes "Ça n'arrivera pas. Je prospère sous la pression."
+    mes "Ça n’arrivera pas. Je m’épanouis sous pression."
 
 # game/code/d18/d18s03.rpy:335
 translate french d18s03_f28eb19a:
 
     # mc "I should have realized that wouldn't work."
-    mc "J'aurais dû réaliser que ça ne marcherait pas."
+    mc "J’aurais dû me douter que ça marcherait pas."
 
 # game/code/d18/d18s03.rpy:338
 translate french d18s03_ba080a07:
 
     # mes "My turn. What does the acronym CTBT stand for?"
-    mes "A mon tour. Que signifie l'acronyme CTBT?"
+    mes "À mon tour. Que signifie l’acronyme CTBT ?"
 
 # game/code/d18/d18s03.rpy:343
 translate french d18s03_8ae901c4:
 
     # mc "Cognitive Therapy and Behavioral Therapy?"
-    mc "Thérapie cognitive et thérapie comportementale?"
+    mc "Thérapie cognitive et thérapie comportementale ?"
 
 # game/code/d18/d18s03.rpy:346
 translate french d18s03_a101669b:
 
     # mes "Sorry, no.{w} I think you are thinking of Cognitive Behavioral Therapy - or CBT."
-    mes "Désolé, non.{w} Je pense que tu penses à la thérapie cognitivo-comportementale - ou TCC."
+    mes "Désolée, non.{w} Je pense que tu penses à la thérapie cognitivo-comportementale – ou TCC."
 
 # game/code/d18/d18s03.rpy:349
 translate french d18s03_38b5e631:
@@ -518,157 +488,157 @@ translate french d18s03_38b5e631:
 translate french d18s03_cd67cd7b:
 
     # mc "Cock, Taint, and Ball Torture?"
-    mc "Bite, souillure et torture de balle?"
+    mc "Bite, raie et torture de couilles ?"
 
 # game/code/d18/d18s03.rpy:359
 translate french d18s03_3c285b10:
 
     # mes "*laughing* I hope not!"
-    mes "*riant* J'espère que non!"
+    mes "*rire* J’espère que non !"
 
 # game/code/d18/d18s03.rpy:362
 translate french d18s03_1a7619cf:
 
     # mc "Oh, wait, that's CBT - Cock and Ball Torture."
-    mc "Oh, attends, c'est TBC - Torture de la bite et des couilles."
+    mc "Ah, attends, ça c’est CBT – Cock and Ball Torture ( bite et torture de couilles)."
 
 # game/code/d18/d18s03.rpy:365
 translate french d18s03_77b50799:
 
     # mes "We can try that later if you want."
-    mes "On pourra essayer ça plus tard si tu veux."
+    mes "On peut essayer ça plus tard si tu veux."
 
 # game/code/d18/d18s03.rpy:369
 translate french d18s03_f748889d:
 
     # mc "No thanks. I'm not in the mood right now."
-    mc "Non merci. Je ne suis pas d'humeur en ce moment."
+    mc "Non merci. J’suis pas d’humeur là."
 
 # game/code/d18/d18s03.rpy:371
 translate french d18s03_af99ffb9:
 
     # mc "No thanks. I'll pass on that."
-    mc "Non merci. Je vais laisser de côté ça."
+    mc "Non merci. Je vais passer mon tour."
 
 # game/code/d18/d18s03.rpy:379
 translate french d18s03_6e485b39:
 
     # mc "CTBT stands for Comprehensive Test Ban Treaty."
-    mc "CTBT signifie Traité d’interdiction complète des essais nucléaires."
+    mc "CTBT signifie Traité d'interdiction complète des essais nucléaires."
 
 # game/code/d18/d18s03.rpy:382
 translate french d18s03_1187ac2a:
 
     # mes "Very good. I didn't expect you to know that."
-    mes "Très bien. Je ne m'attendais pas à ce que tu saches ça."
+    mes "Très bien. Je ne pensais pas que tu saurais ça."
 
 # game/code/d18/d18s03.rpy:385
 translate french d18s03_22d5a102:
 
     # mc "Thanks, I think."
-    mc "Merci, je pense."
+    mc "Merci, je crois."
 
 # game/code/d18/d18s03.rpy:390
 translate french d18s03_b3b0e397:
 
     # mc "Let's see...{w} Commercial...{w} Tax Based...{w} Tariff?"
-    mc "Voyons voir...{w} Commercial...{w} Basé sur la taxe...{w} Tarif?"
+    mc "Voyons voir...{w} Commercial...{w} Basé sur les taxes...{w} Tarif ?"
 
 # game/code/d18/d18s03.rpy:393
 translate french d18s03_107d8b31:
 
     # mes "Tariffs are taxes. What would a commercial tax based tariff even mean?"
-    mes "Les tarifs sont des taxes. Que signifierait un tarif basé sur une taxe commerciale?"
+    mes "Les tarifs sont déjà des taxes. Que voudrait dire un tarif basé sur une taxe commerciale ?"
 
 # game/code/d18/d18s03.rpy:396
 translate french d18s03_17868f0b:
 
     # mc "Hmm. I guess I got that wrong then."
-    mc "Hmm. Je suppose que je me suis trompé alors."
+    mc "Hmm. Je suppose que je me suis planté alors."
 
 # game/code/d18/d18s03.rpy:399
 translate french d18s03_58fad8c7:
 
     # mes "You are correct - that was a wrong answer."
-    mes "Tu as raison, c'était une mauvaise réponse."
+    mes "T'as raison, c'était une mauvaise réponse."
 
 # game/code/d18/d18s03.rpy:410
 translate french d18s03_70489cc2:
 
     # mes "The National Literacy Mission (NLM) seeks to achieve full literacy i.e. a sustainable threshold level of 75%% literacy by what year?"
-    mes "La Mission nationale d'alphabétisation (NLM) cherche à atteindre l'alphabétisation complète, c'est-à-dire un seuil durable de 75%% d'alphabétisation d'ici quelle année?"
+    mes "La Mission nationale d'alphabétisation (NLM) cherche à atteindre un seuil durable de 75%% d'alphabétisation d'ici quelle année ?"
 
 # game/code/d18/d18s03.rpy:416
 translate french d18s03_a2b89d72:
 
     # mc "By the year 2025?"
-    mc "D’ici 2025?"
+    mc "D'ici 2025 ?"
 
 # game/code/d18/d18s03.rpy:421
 translate french d18s03_dc6e30a7:
 
     # mc "By the year 2030?"
-    mc "D’ici 2030?"
+    mc "D'ici 2030 ?"
 
 # game/code/d18/d18s03.rpy:426
 translate french d18s03_32155ee0:
 
     # mc "By the year 2050?"
-    mc "D'ici 2050?"
+    mc "D'ici 2050 ?"
 
 # game/code/d18/d18s03.rpy:431
 translate french d18s03_d6efee7c:
 
     # mc "I have no clue. 2077?"
-    mc "Je n'en ai aucune idée. 2077?"
+    mc "Aucune idée. 2077 ?"
 
 # game/code/d18/d18s03.rpy:435
 translate french d18s03_b211cf6f:
 
     # mes "Incorrect. Their goal was 2005."
-    mes "C'est incorrect. Leur objectif était 2005."
+    mes "Incorrect. Leur objectif était 2005."
 
 # game/code/d18/d18s03.rpy:438
 translate french d18s03_e5b77563:
 
     # mc "What kind of question is that?"
-    mc "C'est quel genre de question?"
+    mc "C'est quoi cette question ?"
 
 # game/code/d18/d18s03.rpy:441
 translate french d18s03_3e15fa11:
 
     # mes "Don't blame me. It was on a 2014 final exam for a Business Admin student."
-    mes "Ne me blâme pas. C'était lors d'un examen final de 2014 pour un étudiant en administration des affaires."
+    mes "Me blâme pas. C'était dans un examen final de 2014 pour un étudiant en gestion."
 
 # game/code/d18/d18s03.rpy:444
 translate french d18s03_cb92ab5d:
 
     # mc "Still, that's kinda bullshit."
-    mc "C'est quand même un peu des conneries."
+    mc "Quand même, c'est un peu n'importe quoi."
 
 # game/code/d18/d18s03.rpy:447
 translate french d18s03_11cd28cf:
 
     # mes "You expect anything less than that from our final exams?"
-    mes "Tu attends quelque chose de moins que ça de nos examens finaux?"
+    mes "Tu t'attendais à mieux de nos examens finaux ?"
 
 # game/code/d18/d18s03.rpy:450
 translate french d18s03_ba40c75a:
 
     # mc "Fair point. You win."
-    mc "C'est vrai. Tu as gagné."
+    mc "Pas faux. T'as gagné."
 
 # game/code/d18/d18s03.rpy:453
 translate french d18s03_d3a642d7:
 
     # mes "Damn right I won!"
-    mes "C'est vrai, j'ai gagnée!"
+    mes "Putain ouais, j'ai gagné !"
 
 # game/code/d18/d18s03.rpy:465
 translate french d18s03_mc_victory_ae48e062:
 
     # mes "I can't believe it."
-    mes "Je n'arrive pas à y croire."
+    mes "J'arrive pas à y croire."
 
 # game/code/d18/d18s03.rpy:468
 translate french d18s03_mc_victory_ce706c9a:
@@ -680,7 +650,7 @@ translate french d18s03_mc_victory_ce706c9a:
 translate french d18s03_mc_victory_f0e9efea:
 
     # mes "You did."
-    mes "Tu as gagné."
+    mes "Ouais, t'as gagné."
 
 # game/code/d18/d18s03.rpy:474
 translate french d18s03_mc_victory_621080b1:
@@ -692,79 +662,79 @@ translate french d18s03_mc_victory_621080b1:
 translate french d18s03_mc_victory_0909c20c:
 
     # mes "True.{w} So, what would you like me to do?"
-    mes "C'est vrai.{w} Alors, que voudrais-tu que je fasse?"
+    mes "C'est vrai.{w} Alors, que veux-tu que je fasse ?"
 
 # game/code/d18/d18s03.rpy:480
 translate french d18s03_mc_victory_f1398715:
 
     # mc "Pucker up."
-    mc "Fais-toi plaisir."
+    mc "Fais une moue."
 
 # game/code/d18/d18s03.rpy:483
 translate french d18s03_mc_victory_6341b83f:
 
     # mes "Huh?"
-    mes "Hein?"
+    mes "Hein ?"
 
 # game/code/d18/d18s03.rpy:494
 translate french d18s03_mc_victory_d82624a8:
 
     # mc "You're going to loathe this...{w} but hopefully you'll love it too."
-    mc "Tu vas détester ça...{w} mais j'espère que tu l'aimeras aussi."
+    mc "Tu vas détester ça...{w} mais avec un peu de chance, tu vas aussi adorer."
 
 # game/code/d18/d18s03.rpy:501
 translate french d18s03_mc_victory_b58c27b2:
 
     # mc "You're going to love this."
-    mc "Tu vas adorer ça."
+    mc "Tu vas adorer."
 
 # game/code/d18/d18s03.rpy:512
 translate french d18s03_watersports_65013f27:
 
     # mc "Alright, strip."
-    mc "Très bien, déshabille-toi."
+    mc "Allez, déshabille-toi."
 
 # game/code/d18/d18s03.rpy:515
 translate french d18s03_watersports_1e9e637d:
 
     # mes "Everything?"
-    mes "Tout?"
+    mes "Tout ?"
 
 # game/code/d18/d18s03.rpy:518
 translate french d18s03_watersports_e8a4eb92:
 
     # mc "We're both getting fully nude...{w} are you familiar with the piledriver position?"
-    mc "Nous sommes tous les deux complètement nus...{w} tu connais la position du piledriver?"
+    mc "On va se mettre complètement nus...{w} tu connais la position du « piledriver » ?"
 
 # game/code/d18/d18s03.rpy:521
 translate french d18s03_watersports_bc6fb29b:
 
     # mes "Yes, but it's rarely used outside of porn. It puts too much pressure-"
-    mes "Oui, mais c'est rarement utilisé en dehors du porno. Ça met trop de pression-"
+    mes "Oui, mais c'est rarement utilisé en dehors du porno. Ça exerce trop de pression-"
 
 # game/code/d18/d18s03.rpy:525
 translate french d18s03_watersports_73832e46:
 
     # mc "Well, pretend you're a porn star."
-    mc "Eh bien, fais comme si tu étais une star du porno."
+    mc "Alors fais comme si tu étais une star du porno."
 
 # game/code/d18/d18s03.rpy:529
 translate french d18s03_watersports_c17242da:
 
     # mes "It puts too much pressure on the neck. It's not safe."
-    mes "Ça met trop de pression sur le cou. Ce n'est pas sûr."
+    mes "Ça met trop de pression sur le cou. Ce n'est pas sans danger."
 
 # game/code/d18/d18s03.rpy:533
 translate french d18s03_watersports_3ad79fad:
 
     # mc "Don't worry, I'm not going to fuck you like this..."
-    mc "Ne t'inquiète pas, je ne vais pas te baiser comme ça..."
+    mc "T'inquiète pas, je ne vais pas te baiser comme ça..."
 
 # game/code/d18/d18s03.rpy:535
 translate french d18s03_watersports_7e6613c5:
 
     # mc "Much."
-    mc "Beaucoup."
+    mc "Pas beaucoup."
 
 # game/code/d18/d18s03.rpy:542
 translate french d18s03_watersports_d9ae005f:
@@ -776,37 +746,37 @@ translate french d18s03_watersports_d9ae005f:
 translate french d18s03_watersports_37a0b343:
 
     # mc "I need to gape your ass."
-    mc "J'ai besoin de te boucher le cul."
+    mc "Je dois écarter ton cul."
 
 # game/code/d18/d18s03.rpy:549
 translate french d18s03_watersports_cfc921ad:
 
     # mes "You could have just told me!"
-    mes "Tu aurais pu me le dire!"
+    mes "Tu aurais pu simplement me le dire !"
 
 # game/code/d18/d18s03.rpy:552
 translate french d18s03_watersports_aeafe227:
 
     # mc "Where's the fun in that?"
-    mc "Où est le plaisir là-dedans?"
+    mc "Où serait le plaisir là-dedans ?"
 
 # game/code/d18/d18s03.rpy:558
 translate french d18s03_watersports_d7d3ca29:
 
     # mes "I have toys!"
-    mes "J'ai des jouets!"
+    mes "J'ai des jouets !"
 
 # game/code/d18/d18s03.rpy:561
 translate french d18s03_watersports_d4be761f:
 
     # mes "And a speculum!!"
-    mes "Et un spéculum!!"
+    mes "Et un spéculum !!"
 
 # game/code/d18/d18s03.rpy:570
 translate french d18s03_watersports_6699c62c:
 
     # mes "FUCK ME!{w} I've got a pear if you wanted!!!"
-    mes "BAISE-MOI!{w} J'ai une poire si tu voulais!!!"
+    mes "BAISE-MOI !{w} J'ai même une poire si tu veux !!!"
 
 # game/code/d18/d18s03.rpy:582
 translate french d18s03_watersports_ec41ae14:
@@ -818,109 +788,109 @@ translate french d18s03_watersports_ec41ae14:
 translate french d18s03_watersports_b210deab:
 
     # mes "Asshole."
-    mes "Connard."
+    mes "Enfoiré."
 
 # game/code/d18/d18s03.rpy:594
 translate french d18s03_watersports_ab12bcaf:
 
     # mc "Exactly.{w} I'm pissing in your asshole."
-    mc "Exactement.{w} Je pisse dans ton trou du cul."
+    mc "Exactement.{w} Je suis en train de pisser dans ton cul."
 
 # game/code/d18/d18s03.rpy:595
 translate french d18s03_watersports_6fb478c3:
 
     # mes "It's hot. Please continue."
-    mes "Il fait chaud. Continue s'il te plaît."
+    mes "C'est excitant. Continue, s'il te plaît."
 
 # game/code/d18/d18s03.rpy:599
 translate french d18s03_watersports_327c5f38:
 
     # mc "Uh oh. It looks like your gape is going to close soon."
-    mc "Euh oh. On dirait que ta bouche va bientôt se fermer."
+    mc "Oh oh. On dirait que ton trou va bientôt se refermer."
 
 # game/code/d18/d18s03.rpy:600
 translate french d18s03_watersports_dd224ac5:
 
     # mes "Are you going to fuck my ass some more?"
-    mes "Tu vas me baiser encore le cul?"
+    mes "Tu vas encore me baiser le cul ?"
 
 # game/code/d18/d18s03.rpy:601
 translate french d18s03_watersports_7f8ee28d:
 
     # mc "I have a different idea."
-    mc "J'ai une idée différente."
+    mc "J'ai une autre idée."
 
 # game/code/d18/d18s03.rpy:611
 translate french d18s03_watersports_9daa3f75:
 
     # mes "OH FUCK YES!!!"
-    mes "OH PUTAIN OUI!!!"
+    mes "OH PUTAIN OUI !!!"
 
 # game/code/d18/d18s03.rpy:614
 translate french d18s03_watersports_015d20de:
 
     # mct "Wow!"
-    mct "Wow!"
+    mct "Waouh !"
 
 # game/code/d18/d18s03.rpy:615
 translate french d18s03_watersports_3c7792bd:
 
     # mc "You realize that you're pissing on yourself?"
-    mc "Tu te rends compte que tu te pisses dessus?"
+    mc "Tu te rends compte que tu es en train de te pisser dessus ?"
 
 # game/code/d18/d18s03.rpy:616
 translate french d18s03_watersports_4af5aec5:
 
     # mes "FUCK ME!"
-    mes "BAISE-MOI!"
+    mes "BAISE-MOI !"
 
 # game/code/d18/d18s03.rpy:620
 translate french d18s03_watersports_da39440c:
 
     # mes "I LOVE IT!!!"
-    mes "Je l'adore!!!"
+    mes "J'ADORE ÇA !!!"
 
 # game/code/d18/d18s03.rpy:622
 translate french d18s03_watersports_2ffc811e:
 
     # mc "I need to get a sample of that."
-    mc "Je dois en prendre un échantillon."
+    mc "Je dois en prélever un échantillon."
 
 # game/code/d18/d18s03.rpy:639
 translate french d18s03_watersports_54bf4b07:
 
     # mc "MMM... fresh unbottled Min."
-    mc "MMM... Fraîchement débouteilleé Min."
+    mc "MMM... Min toute fraîche et non embouteillée."
 
 # game/code/d18/d18s03.rpy:643
 translate french d18s03_watersports_e021a94b:
 
     # mes "I WANT IT ALL OVER ME!!!"
-    mes "Je le veux partout sur moi!!!"
+    mes "JE VEUX EN ÊTRE COUVERTE !!!"
 
 # game/code/d18/d18s03.rpy:645
 translate french d18s03_watersports_8f31ba55:
 
     # mc "Alright, that's enough, get up."
-    mc "Très bien, ça suffit, lève-toi."
+    mc "D'accord, ça suffit, lève-toi."
 
 # game/code/d18/d18s03.rpy:648
 translate french d18s03_watersports_12af64c5:
 
     # mes "Seriously? You're not going to-"
-    mes "Sérieusement? Tu ne vas pas-"
+    mes "Sérieusement ? Tu ne vas pas-"
 
 # game/code/d18/d18s03.rpy:651
 translate french d18s03_watersports_9e493fa2:
 
     # mc "Not yet. GET. UP."
-    mc "Pas encore."
+    mc "Pas encore. LÈVE-TOI."
 
 # game/code/d18/d18s03.rpy:654
 translate french d18s03_watersports_c9df1555:
 
     # mes "Yes, sir!"
-    mes "Oui, monsieur!"
+    mes "Oui, monsieur !"
 
 # game/code/d18/d18s03.rpy:657
 translate french d18s03_watersports_b07240ff:
@@ -956,7 +926,7 @@ translate french d18s03_watersports_bbf7263a:
 translate french d18s03_watersports_c9df1555_1:
 
     # mes "Yes, sir!"
-    mes "Oui, monsieur!"
+    mes "Oui, mon chou!"
 
 # game/code/d18/d18s03.rpy:701
 translate french d18s03_no_watersports_cd3ac531:
@@ -1082,7 +1052,7 @@ translate french d18s03_sex_d504f190:
 translate french d18s03_sex_5a0026fb:
 
     # mes "It is a sex sling.{w} Are you ready for this?"
-    mes "C'est un harnais sexuelle.{w} Tu es prêt pour ça?"
+    mes "C'est un harnais sexuel.{w} Tu es prêt pour ça?"
 
 # game/code/d18/d18s03.rpy:776
 translate french d18s03_sex_4bea771d:
@@ -1136,7 +1106,7 @@ translate french d18s03_sex_695cbfae:
 translate french d18s03_sex_66856f49:
 
     # mc "How does that feel?"
-    mc "Comment tu te sent?"
+    mc "Comment tu te sens?"
 
 # game/code/d18/d18s03.rpy:807
 translate french d18s03_sex_a118506d:
@@ -1148,7 +1118,7 @@ translate french d18s03_sex_a118506d:
 translate french d18s03_sex_eb8ede8b:
 
     # mc "You'll need to sleep after I'm done with you."
-    mc "Tu pourra dormir quand j'en aurai fini avec toi."
+    mc "Tu pourras dormir quand j'en aurai fini avec toi."
 
 # game/code/d18/d18s03.rpy:813
 translate french d18s03_sex_833ec006:
@@ -1226,25 +1196,25 @@ translate french d18s03_sex_0e6cdafe:
 translate french d18s03_sex_19286006:
 
     # mc "Sir? I like that."
-    mc "Monsieur? J'aime ça."
+    mc "Monsieur ? J'aime ça."
 
 # game/code/d18/d18s03.rpy:899
 translate french d18s03_sex_d425adcb:
 
     # mes "Do You Like My Tight Little Cunt, Sir?"
-    mes "Aimez-vous ma petite chatte serrée, monsieur?"
+    mes "Aimes-tu ma petite chatte serrée, monsieur ?"
 
 # game/code/d18/d18s03.rpy:902
 translate french d18s03_sex_f7883096:
 
     # mc "You know I do{w}, but you know what I would like even more?"
-    mc "Tu sais que je le sais{w}, mais tu sais ce que j'aimerais encore plus?"
+    mc "Tu sais que je le sais{w}, mais tu sais ce que j'aimerais encore plus ?"
 
 # game/code/d18/d18s03.rpy:903
 translate french d18s03_sex_f8bea61d:
 
     # mes "You wouldn't-"
-    mes "Tu ne va pas..."
+    mes "Tu ne vas pas..."
 
 # game/code/d18/d18s03.rpy:910
 translate french d18s03_sex_681e3822:
@@ -1256,7 +1226,7 @@ translate french d18s03_sex_681e3822:
 translate french d18s03_sex_21bec6f3:
 
     # mc "THAT'S RIGHT"
-    mc "SI"
+    mc "C'EST ÇA"
 
 # game/code/d18/d18s03.rpy:918
 translate french d18s03_sex_f53706ef:
@@ -1268,7 +1238,7 @@ translate french d18s03_sex_f53706ef:
 translate french d18s03_sex_c22cd505:
 
     # mc "Stop Pretending. I'm not Antony. I know you love it."
-    mc "Arrête de faire semblant. Je ne suis pas Antony. Je sais que tu aimes ça."
+    mc "Arrête de faire semblant. Je ne suis pas Antony. Je sais que tu adores ça."
 
 # game/code/d18/d18s03.rpy:924
 translate french d18s03_sex_46dc1bdb:
@@ -1280,43 +1250,43 @@ translate french d18s03_sex_46dc1bdb:
 translate french d18s03_sex_7f3e5058:
 
     # mc "You knew this would happen. I can feel the lube working."
-    mc "Tu savais que ça arriverait. Je sens le lubrifiant agir."
+    mc "Tu savais que ça allait arriver. Je sens le lubrifiant agir."
 
 # game/code/d18/d18s03.rpy:947
 translate french d18s03_sex_58a64898:
 
     # mes "This lube is something new. It's not supposed to burn!"
-    mes "Ce lubrifiant est quelque chose de nouveau. C'est pas censé brûler!"
+    mes "Ce lubrifiant est quelque chose de nouveau. Ce n'est pas censé brûler !"
 
 # game/code/d18/d18s03.rpy:950
 translate french d18s03_sex_0c92c27e:
 
     # mes "It said a pleasant warming sensation!!!"
-    mes "Cela dit une agréable sensation de chaleur!!!"
+    mes "Il disait une agréable sensation de chaleur !!!"
 
 # game/code/d18/d18s03.rpy:951
 translate french d18s03_sex_7206ce56:
 
     # mc "You really want me to switch to another hole?"
-    mc "Tu veux vraiment que je change de trou?"
+    mc "Tu veux vraiment que je change de trou ?"
 
 # game/code/d18/d18s03.rpy:956
 translate french d18s03_sex_770a3a12:
 
     # mes "Anything! PLEASE!!!"
-    mes "N'importe quoi! S'IL TE PLAÎT!!!"
+    mes "N'importe quoi ! S'IL TE PLAÎT !!!"
 
 # game/code/d18/d18s03.rpy:961
 translate french d18s03_sex_f19067a7:
 
     # mc "Then you can suck your ass off my cock!"
-    mc "Alors tu va me sucer la bite qui sort tout juste de ton cul!"
+    mc "Alors tu vas me sucer la bite qui sort tout juste de ton cul !"
 
 # game/code/d18/d18s03.rpy:964
 translate french d18s03_sex_33e09f13:
 
     # mes "*glup* Okay!"
-    mes "*glup* D'accord!"
+    mes "*glup* D'accord !"
 
 # game/code/d18/d18s03.rpy:967
 translate french d18s03_sex_11b98cca:
@@ -1328,13 +1298,13 @@ translate french d18s03_sex_11b98cca:
 translate french d18s03_sex_413d94fc:
 
     # mes "YES SSSIR!!"
-    mes "OUI MMMMONSIEUR!!"
+    mes "OUI MMMMONSIEUR !!"
 
 # game/code/d18/d18s03.rpy:1008
 translate french d18s03_sex_421594a4:
 
     # mc "Have you ever been treated like that before?"
-    mc "As-tu déjà été traité comme ça auparavant?"
+    mc "As-tu déjà été traité comme ça auparavant ?"
 
 # game/code/d18/d18s03.rpy:1011
 translate french d18s03_sex_fc53cb43:
@@ -1346,13 +1316,13 @@ translate french d18s03_sex_fc53cb43:
 translate french d18s03_sex_7e79c0e0:
 
     # mc "So... what do you think is going to happen now?"
-    mc "Alors... que penses-tu qu'il va se passer maintenant?"
+    mc "Alors... que penses-tu qu'il va se passer maintenant ?"
 
 # game/code/d18/d18s03.rpy:1017
 translate french d18s03_sex_24ed16ef:
 
     # mes "You've got another round in you?"
-    mes "Tu as encore un tour en toi?"
+    mes "Tu as encore un tour en toi ?"
 
 # game/code/d18/d18s03.rpy:1020
 translate french d18s03_sex_892a47c0:
@@ -1364,7 +1334,7 @@ translate french d18s03_sex_892a47c0:
 translate french d18s03_sex_f1503a8f:
 
     # mes "You wouldn't."
-    mes "Tu ne le fera pas."
+    mes "Tu ne le feras pas."
 
 # game/code/d18/d18s03.rpy:1026
 translate french d18s03_sex_b4c3d882:
@@ -1388,31 +1358,31 @@ translate french d18s03_sex_11d801a8:
 translate french d18s03_sex_78416cce:
 
     # mes "Shit.{w} I mean... no one could see me except the neighbors."
-    mes "Merde.{w} Je veux dire... personne ne peux me voir à part les voisins."
+    mes "Merde.{w} Je veux dire... personne ne peut me voir à part les voisins."
 
 # game/code/d18/d18s03.rpy:1039
 translate french d18s03_sex_0e54c7df:
 
     # mc "Do you have any neighbors you should worry about?"
-    mc "As-tu des voisins dont tu devrais t'inquiéter?"
+    mc "As-tu des voisins dont tu devrais t'inquiéter ?"
 
 # game/code/d18/d18s03.rpy:1042
 translate french d18s03_sex_e3755b57:
 
     # mes "There is one kid.{w} Well, he's a man now, I guess.{w} Nerdy brat, goes to VU."
-    mes "Il y a un enfant.{w} Eh bien, c'est un homme maintenant, je suppose.{w} Un gosse ringard."
+    mes "Il y a un enfant.{w} Eh bien, c'est un homme maintenant, je suppose.{w} Un gosse ringard, il va à la VU."
 
 # game/code/d18/d18s03.rpy:1045
 translate french d18s03_sex_8acbcdc6:
 
     # mc "You want him to come over here and fuck you senseless?"
-    mc "Tu veux qu'il vienne ici et qu'il te baise?"
+    mc "Tu veux qu'il vienne ici et te baise comme une folle ?"
 
 # game/code/d18/d18s03.rpy:1048
 translate french d18s03_sex_f8f46bd5:
 
     # mes "No!{w} Do you want that?!"
-    mes "Non!{w} Tu veux ça?!"
+    mes "Non!{w} Tu veux ça ?!"
 
 # game/code/d18/d18s03.rpy:1055
 translate french d18s03_sex_d28b7a54:
@@ -1424,13 +1394,13 @@ translate french d18s03_sex_d28b7a54:
 translate french d18s03_sex_c7804123:
 
     # mes "You want to watch him fuck the shit out of me?"
-    mes "Tu veux le voir me foutre en l'air?"
+    mes "Tu veux le voir me baiser jusqu'à ce que je n'en puisse plus ?"
 
 # game/code/d18/d18s03.rpy:1059
 translate french d18s03_sex_d6711339:
 
     # mes "Anyway and everyway that his perverse mind could dream of?{w} Right here? In my own house?"
-    mes "De toute façon et de toutes les manières son esprit pervers ne pourrait pas en rêver?{w} Juste ici? Dans ma propre maison?"
+    mes "De toutes les manières dont son esprit pervers pourrait rêver ?{w} Ici même ? Dans ma propre maison ?"
 
 # game/code/d18/d18s03.rpy:1062
 translate french d18s03_sex_2034c056:
@@ -1442,7 +1412,7 @@ translate french d18s03_sex_2034c056:
 translate french d18s03_sex_f736c0a1:
 
     # mes "That's fucking hot.{w} But seriously..."
-    mes "Ca serai vraiment chaud.{w} Mais sérieusement..."
+    mes "C'est vraiment chaud.{w} Mais sérieusement..."
 
 # game/code/d18/d18s03.rpy:1072
 translate french d18s03_sex_b73ccbf7:
@@ -1460,7 +1430,7 @@ translate french d18s03_sex_ac9e3733:
 translate french d18s03_sex_b2b9e19d:
 
     # mc "What do you mean?"
-    mc "Qu'est-ce que tu veux dire?"
+    mc "Qu'est-ce que tu veux dire ?"
 
 # game/code/d18/d18s03.rpy:1083
 translate french d18s03_sex_7928b693:
@@ -1496,7 +1466,7 @@ translate french d18s03_sex_702c89e3:
 translate french d18s03_sex_3059b6d0:
 
     # mc "You're mine.{w} Whenever I want to fuck. No matter how I want to fuck you. You're D.T.F."
-    mc "Tu es à moi.{w} Chaque fois que je veux baiser. Peu importe à quel point je veux te baiser. Tu es D.T.F."
+    mc "Tu es à moi.{w} Chaque fois que je veux baiser. Peu importe comment je veux te baiser. Tu es D.T.F."
 
 # game/code/d18/d18s03.rpy:1102
 translate french d18s03_sex_509b5843:
@@ -1544,19 +1514,19 @@ translate french d18s03_post_coitus_28913db4:
 translate french d18s03_post_coitus_92e3a1a2:
 
     # mes "Does it have to do with those Gold Stars?"
-    mes "Est-ce que ça a à voir avec ces étoiles d'or?"
+    mes "Est-ce que ça a à voir avec ces étoiles d'or ?"
 
 # game/code/d18/d18s03.rpy:1137
 translate french d18s03_post_coitus_d22aeb69:
 
     # mct "Gold Stars? Oh, yeah.{w} That's pretty much all she knows about the VIP Program."
-    mct "Des étoiles d'or? Oh, ouais.{w} C'est à peu près tout ce qu'elle sait sur le programme VIP."
+    mct "Des étoiles d'or ? Oh, ouais.{w} C'est à peu près tout ce qu'elle sait du programme VIP."
 
 # game/code/d18/d18s03.rpy:1139
 translate french d18s03_post_coitus_cbf53139:
 
     # mct "Gold Stars? Oh, yeah.{w} That's what she knows about the Retention Program."
-    mct "Des étoiles d'or? Oh, ouais.{w} C'est ce qu'elle sait du programme de rétention."
+    mct "Des étoiles d'or ? Oh, ouais.{w} C'est ce qu'elle sait du programme de rétention."
 
 # game/code/d18/d18s03.rpy:1141
 translate french d18s03_post_coitus_a82c7a0e:
@@ -1568,19 +1538,19 @@ translate french d18s03_post_coitus_a82c7a0e:
 translate french d18s03_post_coitus_7f8c16f1:
 
     # mes "You should know...{w} I don't know what troubles your face, but I'm an excellent problem solver."
-    mes "Tu devrais savoir...{w} Je ne sais pas ce qui te dérange, mais je suis un excellent résolveur de problèmes."
+    mes "Tu devrais savoir...{w} Je ne sais pas ce qui te tracasse, mais je suis un excellent résolveur de problèmes."
 
 # game/code/d18/d18s03.rpy:1148
 translate french d18s03_post_coitus_7f404d4c:
 
     # mc "I believe you.{w} If it gets to that point, I'll definitely rely on you to get me out."
-    mc "Je te crois.{w} Si j'en arrive là, je compterai certainement sur toi pour me faire sortir."
+    mc "Je te crois.{w} Si j'en arrive là, je compterai certainement sur toi pour me sortir de là."
 
 # game/code/d18/d18s03.rpy:1151
 translate french d18s03_post_coitus_58315740:
 
     # mes "Anything you can tell me right now?"
-    mes "Tu peux me dire quelque chose maintenant?"
+    mes "Tu peux me dire quelque chose maintenant ?"
 
 # game/code/d18/d18s03.rpy:1155
 translate french d18s03_post_coitus_1908d73e:
@@ -1616,13 +1586,13 @@ translate french d18s03_post_coitus_a439977f:
 translate french d18s03_post_coitus_b253cc23:
 
     # mes "Exactly.{w} All done with diversions?"
-    mes "Exactement.{w} Tu en a fini avec les diversions?"
+    mes "Exactement.{w} Tu as fini avec les distractions ?"
 
 # game/code/d18/d18s03.rpy:1174
 translate french d18s03_post_coitus_7d8bad28:
 
     # mc "That depends. Are you going to keep asking me questions I can't answer?"
-    mc "Ça dépend. Tu vas continuer à me poser des questions auxquelles je ne peux pas répondre?"
+    mc "Ça dépend. Tu vas continuer à me poser des questions auxquelles je ne peux pas répondre ?"
 
 # game/code/d18/d18s03.rpy:1177
 translate french d18s03_post_coitus_15503ce6:
@@ -1634,7 +1604,7 @@ translate french d18s03_post_coitus_15503ce6:
 translate french d18s03_post_coitus_2fb2a7c6:
 
     # mc "I better get going."
-    mc "Je ferais mieux d'y aller."
+    mc "Je ferais mieux de partir."
 
 # game/code/d18/d18s03.rpy:1184
 translate french d18s03_post_coitus_94dcfef3:
@@ -1658,7 +1628,7 @@ translate french d18s03_post_coitus_e5a44c4a:
 translate french d18s03_post_coitus_39b02f5c:
 
     # mes "You let me know soon, okay?"
-    mes "Tu me préviens bientôt, d'accord?"
+    mes "Tu me préviens bientôt, d'accord ?"
 
 # game/code/d18/d18s03.rpy:1201
 translate french d18s03_post_coitus_2bd2b9d8:
