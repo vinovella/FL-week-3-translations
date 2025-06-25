@@ -1,516 +1,430 @@
 # game/code/d18/extended/d18s11b_ext.rpy:57
 translate french d18s11b_ext_c207e5d0:
-
     # mct "Hell yes. I love this film."
     mct "Bon sang oui. J'adore ce film."
 
 # game/code/d18/extended/d18s11b_ext.rpy:58
 translate french d18s11b_ext_ce4be831:
-
     # "TV" "Wait a minute. After we were together, you snuck into a guy's house?"
     "TV" "Attends une minute. Après qu'on soit ensemble, tu t'es faufilé dans la maison d'un mec?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:59
 translate french d18s11b_ext_58246c33:
-
     # mct "Some good dialogue and hard crime. Just what the doctor ordered."
     mct "Du bon dialogue et du crime pur et dur. C'est exactement ce que le médecin m'a prescrit."
 
 # game/code/d18/extended/d18s11b_ext.rpy:60
 translate french d18s11b_ext_c8dddaa7:
-
     # "TV" "Yeah. I went back to my office and found out that you took my gun..."
     "TV" "Ouais. Je suis retourné à mon bureau et j'ai découvert que tu avais pris mon arme..."
 
 # game/code/d18/extended/d18s11b_ext.rpy:63
 translate french d18s11b_ext_1c96c631:
-
     # mct "Just doing what the Judge asked me to do. I'm going to break that slut over my dick."
     mct "Je fais juste ce que le juge m'a demandé de faire. Je vais briser cette salope à coup de bite."
 
 # game/code/d18/extended/d18s11b_ext.rpy:64
 translate french d18s11b_ext_0bdd862b:
-
     # "TV" "You do that?"
     "TV" "Tu fais ça?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:65
 translate french d18s11b_ext_df05a35f:
-
     # mct "Fuck the Judge. Fuck Lydia. Fuck everyone."
     mct "J'emmerde la juge. J'emmerde Lydia. J'emmerde tout le monde."
 
 # game/code/d18/extended/d18s11b_ext.rpy:66
 translate french d18s11b_ext_38840e71:
-
     # "TV" "It's my job."
     "TV" "C'est mon travail."
 
 # game/code/d18/extended/d18s11b_ext.rpy:69
 translate french d18s11b_ext_4bc74166:
-
     # mct "I'm just going to unleash all my anger and disgust until I'm too exhausted to hurt anymore."
     mct "Je vais juste libérer toute ma colère et mon dégoût jusqu'à ce que je sois trop épuisé pour souffrir davantage."
 
 # game/code/d18/extended/d18s11b_ext.rpy:70
 translate french d18s11b_ext_d34b6bcc:
-
     # "TV" "Did you do that that night?"
     "TV" "Tu as fait ça ce soir-là?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:71
 translate french d18s11b_ext_72f130bd:
-
     # mct "Fucking bitch. She's going to get more than she asked for."
     mct "Putain de salope. Elle va avoir plus que ce qu'elle a demandé."
 
 # game/code/d18/extended/d18s11b_ext.rpy:72
 translate french d18s11b_ext_2521f265:
-
     # "TV" "Well, the guy never came home."
     "TV" "Eh bien, le gars n'est jamais rentré à la maison."
 
 # game/code/d18/extended/d18s11b_ext.rpy:75
 translate french d18s11b_ext_8403e866:
-
     # mct "Fuck. What am I waiting for? If she isn't home yet she's not coming here."
     mct "Putain. Qu'est-ce que j'attends? Si elle n'est pas encore là, elle ne viendra pas ici."
 
 # game/code/d18/extended/d18s11b_ext.rpy:76
 translate french d18s11b_ext_3f048ae4:
-
     # "TV" "But I'm sitting on his couch in the dark holding my stun gun."
     "TV" "Mais je suis assis sur son canapé dans le noir, tenant mon pistolet paralysant."
 
 # game/code/d18/extended/d18s11b_ext.rpy:77
 translate french d18s11b_ext_85b0cceb:
-
     # mct "Maybe another place. I should call that whore and make her tell me where the old cunt is."
     mct "Peut-être ailleurs. Je devrais appeler cette pute et lui demander où est cette vieille conne."
 
 # game/code/d18/extended/d18s11b_ext.rpy:78
 translate french d18s11b_ext_de857251:
-
     # "TV" "The whole house smells of cat pee."
     "TV" "Toute la maison sent le pipi de chat."
 
 # game/code/d18/extended/d18s11b_ext.rpy:81
 translate french d18s11b_ext_2c46453b:
-
     # mct "Then I can fuck them both to the breaking point."
     mct "Alors je pourrai les baiser tous les deux jusqu'au point de rupture."
 
 # game/code/d18/extended/d18s11b_ext.rpy:82
 translate french d18s11b_ext_e54f7cad:
-
     # "TV" "And after a couple of hours, I think..."
     "TV" "Et après quelques heures, je pense..."
 
 # game/code/d18/extended/d18s11b_ext.rpy:89
 translate french d18s11b_ext_930de9ee:
-
     # mct "What the hell am I doing?"
     mct "Qu'est-ce que je fais?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:90
 translate french d18s11b_ext_476a2fa2:
-
     # mct "I'm waiting here from some wealthy slitch to get home so I can fulfill her darkest fantasies-"
     mct "J'attends ici qu'une salope riche rentre à la maison pour pouvoir réaliser ses fantasmes les plus sombres."
 
 # game/code/d18/extended/d18s11b_ext.rpy:91
 translate french d18s11b_ext_2ccc3331:
-
     # mct "By taking my anger out on her?"
     mct "En rejetant ma colère sur elle?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:92
 translate french d18s11b_ext_56dff7fa:
-
     # mct "This isn't me."
     mct "Ce n'est pas moi."
 
 # game/code/d18/extended/d18s11b_ext.rpy:95
 translate french d18s11b_ext_4f5cfb1b:
-
     # mct "This was a terrible idea."
     mct "C'était une très mauvaise idée."
 
 # game/code/d18/extended/d18s11b_ext.rpy:96
 translate french d18s11b_ext_7c13c1a7:
-
     # mct "I should get out of here."
     mct "Je devrais sortir d'ici."
 
 # game/code/d18/extended/d18s11b_ext.rpy:102
 translate french d18s11b_ext_424f5984:
-
     # mct "Oh shit. What's that?"
     mct "Oh merde. Qu'est-ce que c'est?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:105
 translate french d18s11b_ext_f44e66ba:
-
     # mct "I guess I'm not leaving just yet."
     mct "Je suppose que je ne pars pas encore."
 
 # game/code/d18/extended/d18s11b_ext.rpy:108
 translate french d18s11b_ext_9a9dc60c:
-
     # mct "I'll just step into the shadows and listen."
     mct "Je vais juste rester dans l'ombre et écouter."
 
 # game/code/d18/extended/d18s11b_ext.rpy:111
 translate french d18s11b_ext_9c175c63:
-
     # mct "Maybe I can just sneak out..."
     mct "Peut-être que je peux juste me faufiler vers la sortie..."
 
 # game/code/d18/extended/d18s11b_ext.rpy:115
 translate french d18s11b_ext_f4bdf781:
-
     # jdg "Well, it's been fun."
     jdg "Eh bien, ça a été amusant."
 
 # game/code/d18/extended/d18s11b_ext.rpy:117
 translate french d18s11b_ext_cf41ffea:
-
     # "Male Voice" "It has. How about letting me in for a night cap?"
     "Voix masculine" "C'est vrai. Que dirais-tu de me laisser prendre un dernier verre?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:118
 translate french d18s11b_ext_a260a60d:
-
     # jdg "Don't you think you've had enough."
     jdg "Tu ne penses pas que tu en as assez."
 
 # game/code/d18/extended/d18s11b_ext.rpy:119
 translate french d18s11b_ext_ccde3962:
-
     # "Male Voice" "Then maybe just a coffee."
     "Voix masculine" "Alors peut-être juste un café."
 
 # game/code/d18/extended/d18s11b_ext.rpy:122
 translate french d18s11b_ext_8c6f0801:
-
     # jdg "Fine. Come on."
     jdg "Bien. Allez."
 
 # game/code/d18/extended/d18s11b_ext.rpy:124
 translate french d18s11b_ext_d2de97bd:
-
     # "Male Voice" "Do you have any Baileys?"
     "Voix masculine" "Tu as du Baileys?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:125
 translate french d18s11b_ext_a75f96e3:
-
     # "Male Voice" "Maybe we could Irish up those coffees."
     "Voix masculine" "Peut-être qu'on pourrait préparer ces cafés irlandais."
 
 # game/code/d18/extended/d18s11b_ext.rpy:128
 translate french d18s11b_ext_d1650546:
-
     # jdg "Huh?{w} Fuck me."
     jdg "Hein?{w} Baise-moi."
 
 # game/code/d18/extended/d18s11b_ext.rpy:131
 translate french d18s11b_ext_1da25ab4:
-
     # "Male Voice" "That's what I'm talking about. Why don't we skip-"
     "Voix masculine" "C'est de ça que je parle. Pourquoi ne pas sauter-"
 
 # game/code/d18/extended/d18s11b_ext.rpy:132
 translate french d18s11b_ext_d411bbb5:
-
     # "Male Voice" "Are you okay? What is it?"
     "Voix masculine" "Ça va? Qu'est-ce qu'il y a?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:135
 translate french d18s11b_ext_1616e968:
-
     # jdg "Well, you'd better hit him."
     jdg "Eh bien, tu ferais mieux de le frapper."
 
 # game/code/d18/extended/d18s11b_ext.rpy:138
 translate french d18s11b_ext_800093ff:
-
     # "Male Voice" "Who?"
     "Voix masculine" "Qui?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:156
 translate french d18s11b_ext_25a64127:
-
     # mc "I didn't mean to interrupt your date."
     mc "Je ne voulais pas interrompre ton rendez-vous."
 
 # game/code/d18/extended/d18s11b_ext.rpy:159
 translate french d18s11b_ext_31699d8a:
-
     # jdg "It sucked anyway. This looks more interesting."
     jdg "C'était nul de toute façon. Maintenant ça a l'air plus intéressant."
 
 # game/code/d18/extended/d18s11b_ext.rpy:162
 translate french d18s11b_ext_4b60c492:
-
     # mc "I've never knocked anyone out before. You think he's alright?"
     mc "Je n'ai jamais mis quelqu'un KO. Tu penses qu'il va bien?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:171
 translate french d18s11b_ext_b0f1bde9:
-
     # mc "Fuck that! I'm out of here!"
     mc "Merde! Je sors d'ici!"
 
 # game/code/d18/extended/d18s11b_ext.rpy:174
 translate french d18s11b_ext_c50b0888:
-
     # jdg "Well, that was disappointing."
     jdg "Eh bien...décevant."
 
 # game/code/d18/extended/d18s11b_ext.rpy:180
 translate french d18s11b_ext_91fc92bf:
-
     # mc "Damn. That was too close."
     mc "Putain. C'était proche."
 
 # game/code/d18/extended/d18s11b_ext.rpy:181
 translate french d18s11b_ext_9206ff75:
-
     # mc "I need a drink after that."
     mc "J'ai besoin d'un verre là."
 
 # game/code/d18/extended/d18s11b_ext.rpy:191
 translate french d18s11b_continue_fbca1f71:
-
     # jdg "He's fine. He drank so much you could have just pushed him over."
     jdg "Il va bien. Il a tellement bu que tu aurais pu le bousculer."
 
 # game/code/d18/extended/d18s11b_ext.rpy:194
 translate french d18s11b_continue_9943d8e7:
-
     # mc "Sorry. Bad timing. I should leave."
     mc "Désolé. Mauvais timing. Je devrais partir."
 
 # game/code/d18/extended/d18s11b_ext.rpy:197
 translate french d18s11b_continue_7aac5174:
-
     # jdg "You think so? No."
     jdg "C'est ce que tu crois? Non."
 
 # game/code/d18/extended/d18s11b_ext.rpy:199
 translate french d18s11b_continue_11455b53:
-
     # mc "What?"
     mc "Quoi?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:200
 translate french d18s11b_continue_33b4026f:
-
     # jdg "Tie him up."
     jdg "Attache-le."
 
 # game/code/d18/extended/d18s11b_ext.rpy:203
 translate french d18s11b_continue_a49ed4f8:
-
     # mc "Okay."
     mc "Okay."
 
 # game/code/d18/extended/d18s11b_ext.rpy:205
 translate french d18s11b_continue_4c2ac47c:
-
     # jdg "Oh, and you'd better tie me up as well."
     jdg "Oh, et tu ferais mieux de m'attacher aussi."
 
 # game/code/d18/extended/d18s11b_ext.rpy:206
 translate french d18s11b_continue_427ebf79:
-
     # mc "Meh. Sure, why not."
     mc "Meh. Bien sûr, pourquoi pas."
 
 # game/code/d18/extended/d18s11b_ext.rpy:218
 translate french d18s11b_continue_4cf3b967:
-
     # jdg "*gwack* *gwawk* *gawkwk*"
     jdg "*gwack* *gwawk* *gawkwk*"
 
 # game/code/d18/extended/d18s11b_ext.rpy:233
 translate french d18s11b_continue_f3aa0072:
-
     # "Male Voice" "gghhhuuuhh..."
     "Voix masculine" "gghhhuuuhh..."
 
 # game/code/d18/extended/d18s11b_ext.rpy:235
 translate french d18s11b_continue_d1ad8ccf:
-
     # mc "Sounds like he's waking up."
     mc "On dirait qu'il se réveille."
 
 # game/code/d18/extended/d18s11b_ext.rpy:236
 translate french d18s11b_continue_4db8c305:
-
     # mc "Who is he?"
     mc "Qui c'est?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:239
 translate french d18s11b_continue_f903ab23:
-
     # jdg "Victor.{w}.. Yates."
     jdg "Victor.{w}.. Yates."
 
 # game/code/d18/extended/d18s11b_ext.rpy:241
 translate french d18s11b_continue_54a55587:
-
     # mc "Like THE Victor Yates?"
     mc "Comme LE Victor Yates?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:242
 translate french d18s11b_continue_0629a197:
-
     # jdg "No. His son."
     jdg "Non. Son fils."
 
 # game/code/d18/extended/d18s11b_ext.rpy:247
 translate french d18s11b_continue_45323dd8:
-
     # mct "OH FUCK!{w} What has this bitch gotten me into?!"
     mct "OH MERDE!{w} Dans quoi cette salope m'a-t-elle embarqué?!"
 
 # game/code/d18/extended/d18s11b_ext.rpy:251
 translate french d18s11b_continue_7bda6653:
-
     # mc "Oh well, in for a penny, in for a-"
     mc "Eh bien, pour un centime, pour un-"
 
 # game/code/d18/extended/d18s11b_ext.rpy:254
 translate french d18s11b_continue_6e96757a:
-
     # mys "Mutherfucker!"
     mys "Enfoiré!"
 
 # game/code/d18/extended/d18s11b_ext.rpy:256
 translate french d18s11b_continue_c5be8444:
-
     # mc "Yep, he's awake."
     mc "Ouais, il est réveillé."
 
 # game/code/d18/extended/d18s11b_ext.rpy:258
 translate french d18s11b_continue_67efe648:
-
     # mys "DO YOU KNOW WHO I AM?!{w} DO YOU KNOW WHO MY FATHER IS?!?!"
-    mys "SAIS-TU QUI JE SUIS?!{w}  SAIS-TU QUI EST MON PÈRE?!?!"
+    mys "SAIS-TU QUI JE SUIS?!{w} SAIS-TU QUI EST MON PÈRE?!?!"
 
 # game/code/d18/extended/d18s11b_ext.rpy:261
 translate french d18s11b_continue_afd9ee2f:
-
     # mc "Tell this little daddy's boy to be cool, slut, or else this is going to get all kinds of out of control."
     mc "Dis à ce petit fils à papa d'être cool, salope, sinon ça va devenir incontrôlable."
 
 # game/code/d18/extended/d18s11b_ext.rpy:264
 translate french d18s11b_continue_307d3251:
-
     # mys "What did you say?"
     mys "Qu'est-ce que tu as dit?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:266
 translate french d18s11b_continue_c342da6a:
-
     # jdg "Victor, I need you to listen to me."
     jdg "Victor, j'ai besoin que tu m'écoutes."
 
 # game/code/d18/extended/d18s11b_ext.rpy:267
 translate french d18s11b_continue_04fa4a60:
-
     # mys "What?"
     mys "Quoi?"
 
 # game/code/d18/extended/d18s11b_ext.rpy:269
 translate french d18s11b_continue_324c6662:
-
     # jdg "You need to just chill out and get through this. This isn't about you."
-    jdg "Tu dois juste te détendre et surmonter ça. Ca ne te concerne pas."
+    jdg "Tu dois juste te détendre et surmonter ça. Ça ne te concerne pas."
 
 # game/code/d18/extended/d18s11b_ext.rpy:271
 translate french d18s11b_continue_b9a648f2:
-
     # mys "I don't understa-"
     mys "Je ne comprends pas-"
 
 # game/code/d18/extended/d18s11b_ext.rpy:273
 translate french d18s11b_continue_8c663b00:
-
     # mc "You don't need to understand, Vikki."
     mc "Tu n'as pas besoin de comprendre, Vikki."
 
 # game/code/d18/extended/d18s11b_ext.rpy:276
 translate french d18s11b_continue_26f749f8:
-
     # mys "It's Victor."
     mys "C'est Victor."
 
 # game/code/d18/extended/d18s11b_ext.rpy:278
 translate french d18s11b_continue_b089d3e4:
-
     # mc "Sure it is, kid. Listen to your girlfriend."
-    mc "Bien sûr, gamin. Ecoute ta copine."
+    mc "Bien sûr, gamin. Écoute ta copine."
 
 # game/code/d18/extended/d18s11b_ext.rpy:281
 translate french d18s11b_continue_4a7b6c90:
-
     # mc "This isn't about you."
-    mc "Ca ne te concerne pas."
+    mc "Ça ne te concerne pas."
 
 # game/code/d18/extended/d18s11b_ext.rpy:282
 translate french d18s11b_continue_3f19a0f3:
-
     # mc "You're just in the wrong place at the wrong time."
     mc "Tu es juste au mauvais endroit au mauvais moment."
 
 # game/code/d18/extended/d18s11b_ext.rpy:285
 translate french d18s11b_continue_5579438e:
-
     # mys "If you hurt her my driver is going to kill you."
     mys "Si tu lui fais du mal, mon chauffeur va te tuer."
 
 # game/code/d18/extended/d18s11b_ext.rpy:288
 translate french d18s11b_continue_ccb8e6b9:
-
     # mc "*laughs* That's hilarious.{w} You didn't tell me he was funny."
-    mc "*Rires* C'est hilarant.{w} Tu ne m'a pas dit qu'il était drôle."
+    mc "*Rires* C'est hilarant.{w} Tu ne m'as pas dit qu'il était drôle."
 
 # game/code/d18/extended/d18s11b_ext.rpy:292
 translate french d18s11b_continue_b9a4ff2e:
-
     # mc "This should shut him up for a while."
     mc "Ça devrait le faire taire pendant un moment."
 
 # game/code/d18/extended/d18s11b_ext.rpy:295
 translate french d18s11b_continue_6f02b75b:
-
     # jdg "Victor - listen to me."
     jdg "Victor, écoute-moi."
 
 # game/code/d18/extended/d18s11b_ext.rpy:296
 translate french d18s11b_continue_453af6f0:
-
     # jdg "This is between me and...{w} some other people. This doesn't involve you."
     jdg "C'est entre moi et...{w} d'autres personnes. Ça ne te concerne pas."
 
 # game/code/d18/extended/d18s11b_ext.rpy:297
 translate french d18s11b_continue_1221c5b5:
-
     # jdg "You and your father-"
     jdg "Toi et ton père-"
 
 # game/code/d18/extended/d18s11b_ext.rpy:300
 translate french d18s11b_continue_7f8840bb:
-
     # mc "*laughs* -and his driver-"
     mc "*Rires* -et son chauffeur-"
 
 # game/code/d18/extended/d18s11b_ext.rpy:302
 translate french d18s11b_continue_b23d2b54:
-
     # jdg "-have nothing to do with this."
     jdg "-n'avez rien à voir avec ça."
 
@@ -956,7 +870,7 @@ translate french d18s11b_continue_c07943cb:
 translate french d18s11b_continue_85f3a441:
 
     # jdg "I love it when you tear my asshole to shreds, sir!"
-    jdg "J'adore quand tu me déchire le trou du cul, monsieur!"
+    jdg "J'adore quand tu me déchires le trou du cul, monsieur!"
 
 # game/code/d18/extended/d18s11b_ext.rpy:559
 translate french d18s11b_continue_0769c7c9:
@@ -1082,7 +996,7 @@ translate french d18s11b_end_talk_314439ea:
 translate french d18s11b_end_talk_55516579:
 
     # jdg "Yes, sir."
-    jdg "Oui, monsieur."
+    jdg "Oui, mec."
 
 # game/code/d18/extended/d18s11b_ext.rpy:632
 translate french d18s11b_end_talk_211c8eb1:
@@ -1100,7 +1014,7 @@ translate french d18s11b_end_talk_f8b364a5:
 translate french d18s11b_end_talk_0ab0f98b:
 
     # jdg "Sorry, sir."
-    jdg "Désolé, monsieur."
+    jdg "Désolé, mec."
 
 # game/code/d18/extended/d18s11b_ext.rpy:638
 translate french d18s11b_end_talk_fd2f5169:
@@ -1112,7 +1026,7 @@ translate french d18s11b_end_talk_fd2f5169:
 translate french d18s11b_end_talk_08f52ce1:
 
     # jdg "Yes, sir. I'll take care of it."
-    jdg "Oui, monsieur. Je vais m'en occuper."
+    jdg "Oui, mec. Je vais m'en occuper."
 
 # game/code/d18/extended/d18s11b_ext.rpy:645
 translate french d18s11b_end_talk_db4acac5:
@@ -1165,4 +1079,5 @@ translate french strings:
     # game/code/d18/extended/d18s11b_ext.rpy:403
     old "Just Fuck Her Ass"
     new "Baise juste son cul"
+
 
