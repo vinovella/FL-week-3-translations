@@ -314,7 +314,7 @@ translate french d16s08_f2c0c8a6:
 translate french d16s08_b874045c:
 
     # arj "She's Stacy's landlord. She's a lawyer. And she's a bad ass motherfucker."
-    arj "C'est la propriétaire de Stacy. Elle est avocate. Et c'est une enfoiré méchante."
+    arj "C'est la propriétaire de Stacy. Elle est avocate. Et c'est une sacrée badasse."
 
 # game/code/d16/d16s08.rpy:195
 translate french d16s08_5ec75c07:
@@ -446,13 +446,13 @@ translate french d16s08_d6301483:
 translate french d16s08_0740ffde:
 
     # mc "You're going to have to narrow that down."
-    mc "Vous allez devoir affiner cela."
+    mc "Tu va devoir affiner cela."
 
 # game/code/d16/d16s08.rpy:264
 translate french d16s08_6280a62d:
 
     # arj "The cosplayer? The one that was swimming around Lydia's aquarium at the party?"
-    arj "Le cosplayer? Celui qui nageait autour de l'aquarium de Lydia à la fête?"
+    arj "Le cosplayer? Celui qui nageait dans l'aquarium de Lydia à la fête?"
 
 # game/code/d16/d16s08.rpy:267
 translate french d16s08_70a444bd:
@@ -470,7 +470,7 @@ translate french d16s08_63fd3f91:
 translate french d16s08_6df0603b:
 
     # mc "I think she may want me to dress up next time. {w}Get into some sort of costume."
-    mc "Je pense qu'elle voudra peut-être que je m'habille la prochaine fois. {w} Mets une sorte de costume."
+    mc "Je pense qu'elle voudra peut-être que je m'habille la prochaine fois. {w}Mettre une sorte de costume."
 
 # game/code/d16/d16s08.rpy:274
 translate french d16s08_cad3726a:
@@ -506,7 +506,7 @@ translate french d16s08_dae549fb:
 translate french d16s08_1f426f2d:
 
     # mc "True."
-    mc "Vrai."
+    mc "C'est vrai."
 
 # game/code/d16/d16s08.rpy:292
 translate french d16s08_1ae263e8:
@@ -536,13 +536,13 @@ translate french d16s08_92fd0e4a:
 translate french d16s08_0ca5ea8e:
 
     # arj "What's her kink?"
-    arj "Quel est son problème? "
+    arj "Quel est son problème?"
 
 # game/code/d16/d16s08.rpy:305
 translate french d16s08_c59d2f17:
 
     # mc "She's basically D.T.F., but her biggest fetish is probably feet."
-    mc "Elle est fondamentalement D.T.F., mais son plus grand fétiche, ce sont probablement les pieds."
+    mc "Elle est fondamentalement D.T.F. ( DTF: désireuse de s'engager dans une activité sexuelle), mais son plus grand fétiche, ce sont probablement les pieds."
 
 # game/code/d16/d16s08.rpy:308
 translate french d16s08_d5f65023:
@@ -578,7 +578,7 @@ translate french d16s08_c17ef8ec:
 translate french d16s08_9de59375:
 
     # arj "Any ideas what tomorrow's Fetish of the Day will be?"
-    arj "Avez-vous une idée de ce que sera le fétiche du jour de demain?"
+    arj "As-tu une idée de ce que sera le fétiche du jour de demain?"
 
 # game/code/d16/d16s08.rpy:326
 translate french d16s08_3bf67e8e:
@@ -593,7 +593,7 @@ translate french d16s08_7503fc34:
     arj "Juste les lundis et mardis."
 
 # game/code/d16/d16s08.rpy:332
-translate french d16s08_793927ec:
+translate english d16s08_793927ec:
 
     # mc "Yeah, I figured that out too. Mondays for Men, Tuesdays for Women."
     mc "Ouais, j'ai compris ça aussi. Les lundis pour les hommes, les mardis pour les femmes."
@@ -605,7 +605,7 @@ translate french d16s08_c93dd78f:
     arj "Le reste de la semaine... enfin, à part le modèle de mots croisés."
 
 # game/code/d16/d16s08.rpy:337
-translate french d16s08_05500ff6:
+translate english d16s08_05500ff6:
 
     # mc "Huh?"
     mc "Hein?"
@@ -617,7 +617,7 @@ translate french d16s08_ad08edd6:
     sy "Mots croisés dans les journaux. Lundi est le plus facile, samedi est le plus difficile."
 
 # game/code/d16/d16s08.rpy:343
-translate french d16s08_ebe86b9b:
+translate english d16s08_ebe86b9b:
 
     # mc "What about Sundays?"
     mc "Et le dimanche?"
@@ -629,7 +629,7 @@ translate french d16s08_1414bc97:
     arj "Aucun schéma à ma connaissance. Juste qu'ils ont tendance à devenir plus obscurs ou difficiles à mesure que la semaine avance."
 
 # game/code/d16/d16s08.rpy:349
-translate french d16s08_36be32a5:
+translate english d16s08_36be32a5:
 
     # mc "Wasn't creampie a Saturday? That didn't seem so difficult."
     mc "Le creampie n'était-il pas un samedi? Cela ne semblait pas si difficile."
@@ -641,7 +641,7 @@ translate french d16s08_67ca6189:
     arj "Tu es un tel gars. {w}Creampie signifie pas de préservatif, risque de grossesse, et tout ça."
 
 # game/code/d16/d16s08.rpy:355
-translate french d16s08_45696812:
+translate english d16s08_45696812:
 
     # mc "Good point. Okay, so what about tomorrow?"
     mc "Bon point. D'accord, et demain?"
@@ -653,7 +653,7 @@ translate french d16s08_32f48951:
     arj "Aucune idée. Cela pourrait être n'importe quoi."
 
 # game/code/d16/d16s08.rpy:361
-translate french d16s08_cd28428c:
+translate english d16s08_cd28428c:
 
     # sy "Suggestions?"
     sy "Des suggestions?"
@@ -665,7 +665,7 @@ translate french d16s08_2c738a41:
     mc "C'était des fétichismes de pieds il y a quelques semaines et {w}c'était des cours la semaine dernière?"
 
 # game/code/d16/d16s08.rpy:367
-translate french d16s08_1b525247:
+translate english d16s08_1b525247:
 
     # arj "I think so. I haven't been keeping track."
     arj "Je pense que oui. Je n'ai pas suivi."
@@ -677,7 +677,7 @@ translate french d16s08_2453ca8b:
     mc "Ouais. Quoi qu'il arrive demain, ça devrait être assez facile."
 
 # game/code/d16/d16s08.rpy:375
-translate french d16s08_fb7d39fc:
+translate english d16s08_fb7d39fc:
 
     # sy "W.T.F. [mcname]???"
     sy "W.T.F. [mcname]???"
@@ -689,7 +689,7 @@ translate french d16s08_def0ad19:
     mc "Qu'est-ce que c'est?"
 
 # game/code/d16/d16s08.rpy:381
-translate french d16s08_953a7158:
+translate english d16s08_953a7158:
 
     # sy "I checked it. I double checked it. I even double checked the hardware and software."
     sy "Je l'ai vérifiée. Je l'ai revérifiée. J'ai même revérifiée le matériel et les logiciels."
@@ -701,7 +701,7 @@ translate french d16s08_63aa7fd1:
     sy "Pourtant, il n'y a aucune foutue donnée à ce sujet."
 
 # game/code/d16/d16s08.rpy:385
-translate french d16s08_8f83852c:
+translate english d16s08_8f83852c:
 
     # mc "Oh. Yeah, it was a busy day."
     mc "Oh. Ouais, c'était une journée bien remplie."
@@ -713,7 +713,7 @@ translate french d16s08_103c580f:
     sy "Apparemment non."
 
 # game/code/d16/d16s08.rpy:391
-translate french d16s08_6d18a2e8:
+translate english d16s08_6d18a2e8:
 
     # arj "You do realize just how important this is, don't you?"
     arj "Tu réalises à quel point c'est important, n'est-ce pas?"
@@ -725,7 +725,7 @@ translate french d16s08_4a11e60c:
     mc "Je comprends. Aucun cours n'est nécessaire. {w}Je vous fournirai beaucoup de données demain."
 
 # game/code/d16/d16s08.rpy:397
-translate french d16s08_aef8b672:
+translate english d16s08_aef8b672:
 
     # sy "Promise?"
     sy "Promis?"
@@ -737,7 +737,7 @@ translate french d16s08_f978479e:
     mc "Je promets que je ferai de mon mieux."
 
 # game/code/d16/d16s08.rpy:403
-translate french d16s08_8b4917bf:
+translate english d16s08_8b4917bf:
 
     # arj "I'll promise you, Stacy. I guarantee he'll log some data points tonight."
     arj "Je te le promets, Stacy. Je te garanties qu'il enregistrera quelques points de données ce soir."
@@ -749,7 +749,7 @@ translate french d16s08_7e4e9101:
     arj "Hé Stacy, à quoi ressemblent ces données?"
 
 # game/code/d16/d16s08.rpy:410
-translate french d16s08_193b1787:
+translate english d16s08_193b1787:
 
     # sy "We have...{w} a plethora."
     sy "Nous en avons...{w} une pléthore."
@@ -761,7 +761,7 @@ translate french d16s08_e6f389ef:
     arj "Vraiment? {w}Qu'as-tu fait aujourd'hui, [mcname]?"
 
 # game/code/d16/d16s08.rpy:416
-translate french d16s08_e14609a8:
+translate english d16s08_e14609a8:
 
     # mc "Just the usual. {w}I didn't think I did all that much today."
     mc "Juste comme d'habitude. {w}Je ne pensais pas avoir fait grand-chose aujourd'hui."
@@ -773,7 +773,7 @@ translate french d16s08_cf7952b1:
     sy "Ce n'est pas ce qu'il a fait. C'est la quantité de données obscurcies que l'application utilise, je pense."
 
 # game/code/d16/d16s08.rpy:420
-translate french d16s08_7e913a3a:
+translate english d16s08_7e913a3a:
 
     # sy "There's a few GB of data that I copied off this thing. I'm gonna have to crank through it all night just to figure out what's significant."
     sy "J'ai copié quelques Giga de données sur ce truc. Je vais devoir les parcourir toute la nuit juste pour comprendre ce qui est important."
@@ -782,13 +782,13 @@ translate french d16s08_7e913a3a:
 translate french d16s08_1bcbfe16:
 
     # mc "Can't you write a program to do that for you?"
-    mc "Tu ne peux pas écrire un programme pour faire ça à ta place?"
+    mc "Tu ne peux pas créer un programme pour faire ça à ta place?"
 
 # game/code/d16/d16s08.rpy:426
-translate french d16s08_fef1817e:
+translate english d16s08_fef1817e:
 
     # sy "Yes, but I need to analyze the data to write parameters for the program."
-    sy "Oui, mais je dois analyser les données pour écrire les paramètres du programme."
+    sy "Si je peux, mais je dois analyser les données pour écrire les paramètres du programme."
 
 # game/code/d16/d16s08.rpy:429
 translate french d16s08_65945d80:
@@ -797,7 +797,7 @@ translate french d16s08_65945d80:
     mc "Oh, eh bien, cela ne devrait-il pas être facile? Nous cherchons juste un emplacement-"
 
 # game/code/d16/d16s08.rpy:432
-translate french d16s08_8cc3d172:
+translate english d16s08_8cc3d172:
 
     # arj "Don't do that."
     arj "Ne fais pas ça."
@@ -809,7 +809,7 @@ translate french d16s08_94507c05:
     mc "Faire quoi?"
 
 # game/code/d16/d16s08.rpy:438
-translate french d16s08_497147a5:
+translate english d16s08_497147a5:
 
     # arj "Never use the word, \"just\". If anything was \"just\" as easy as you think then it would be done already."
     arj "N'utilisez jamais le mot \"juste\". Si quelque chose était \"juste\" aussi simple que tu le penses, ce serait déjà fait."
@@ -821,7 +821,7 @@ translate french d16s08_0031a960:
     sy "Je te pardonne cette fois. En partie parce que j'ai trop de choses à faire ce soir pour essayer de donner l'impression que c'était facile."
 
 # game/code/d16/d16s08.rpy:445
-translate french d16s08_c19a7e30:
+translate english d16s08_c19a7e30:
 
     # arj "Alright, we should get going. We have things to do tonight."
     arj "Très bien, nous devrions y aller. Nous avons des choses à faire ce soir."
@@ -830,19 +830,19 @@ translate french d16s08_c19a7e30:
 translate french d16s08_21400053:
 
     # mc "We do? {w}Where are we going?"
-    mc "Nous le faisons? {w}Où allons-nous?"
+    mc "Faire quoi? {w}Où allons-nous?"
 
 # game/code/d16/d16s08.rpy:453
-translate french d16s08_c174a290:
+translate english d16s08_c174a290:
 
     # arj "My house. {w}We'll get you some data points before bedtime."
-    arj "Ma maison. {w}Nous vous fournirons quelques points de données avant de vous coucher."
+    arj "Ma maison. {w}Nous te fournirons quelques points de données avant de te coucher."
 
 # game/code/d16/d16s08.rpy:455
 translate french d16s08_e4c94bee:
 
     # arj "My house. {w}We'll get you some more data points before bedtime."
-    arj "Ma maison. {w}Nous te fournirons quelques points de données supplémentaires avant de vous coucher."
+    arj "Ma maison. {w}Nous te fournirons quelques points de données supplémentaires avant de te coucher."
 
 # game/code/d16/d16s08.rpy:460
 translate french d16s08_ac209658:
@@ -860,7 +860,7 @@ translate french d16s08_b62b749e:
 translate french d16s08_fb49e021:
 
     # sy "Right."
-    sy "okay."
+    sy "Okay."
 
 # game/code/d16/d16s08.rpy:469
 translate french d16s08_fbb696ac:
@@ -872,7 +872,7 @@ translate french d16s08_fbb696ac:
 translate french d16s08_bbfcccfa:
 
     # sy "Love you both."
-    sy "Je vous aimes tous les deux."
+    sy "Je vous aime tous les deux."
 
 # game/code/d16/d16s08.rpy:475
 translate french d16s08_81a4e083:
@@ -951,4 +951,5 @@ translate french d16s08_719d7ead:
 
     # arj "Ha ha. Let's go, then."
     arj "Ha ha. Allons-y alors."
+
 
