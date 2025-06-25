@@ -2,25 +2,25 @@
 translate french d19s01lc_31455c3a:
 
     # mc "Ugh.{w} Did anyone get the number of that bus?"
-    mc "Ugh.{w} Quelqu'un a-t-il eu le numéro de ce bus?"
+    mc "Ugh.{w} Quelqu'un a-t-il eu le numéro de ce bus ?"
 
 # game/code/d19/d19s01lc.rpy:19
 translate french d19s01lc_7459fb33:
 
     # lc "Was it the 0-0-7-1?"
-    lc "C'était le 0-0-7-1?"
+    lc "C'était le 0-0-7-1 ?"
 
 # game/code/d19/d19s01lc.rpy:22
 translate french d19s01lc_05500ff6:
 
     # mc "Huh?"
-    mc "Hein?"
+    mc "Hein ?"
 
 # game/code/d19/d19s01lc.rpy:27
 translate french d19s01lc_f6a1472b:
 
     # mc "Lydia?!{w} What are you doing in jail?"
-    mc "Lydia?!{w} Qu'est-ce que tu fais en prison?"
+    mc "Lydia ?!{w} Qu'est-ce que tu fais en prison ?"
 
 # game/code/d19/d19s01lc.rpy:30
 translate french d19s01lc_dbe7f12f:
@@ -32,7 +32,7 @@ translate french d19s01lc_dbe7f12f:
 translate french d19s01lc_22633b42:
 
     # mc "Oh.{w} Ugh, what happened to me?"
-    mc "Oh.{w} Ugh, qu'est-ce qui m'est arrivé?"
+    mc "Oh.{w} Ugh, qu'est-ce qui m'est arrivé ?"
 
 # game/code/d19/d19s01lc.rpy:36
 translate french d19s01lc_14ec0b13:
@@ -44,19 +44,19 @@ translate french d19s01lc_14ec0b13:
 translate french d19s01lc_726f871b:
 
     # mc "Oh, shit.{w} And officially?"
-    mc "Oh, merde.{w} Et officiellement?"
+    mc "Oh, merde.{w} Et officiellement ?"
 
 # game/code/d19/d19s01lc.rpy:42
 translate french d19s01lc_e9bba1fe:
 
     # lc "Officially, you were never here, never there, and expected never to go back there again."
-    lc "Officiellement, tu n'as jamais été ici, jamais là, et tu penses ne plus jamais y retourner."
+    lc "Officiellement, tu n'as jamais été ici, jamais là, et tu ne dois plus jamais y retourner."
 
 # game/code/d19/d19s01lc.rpy:45
 translate french d19s01lc_356b6405:
 
     # mc "Is the cop alright?"
-    mc "Est-ce que le flic va bien?"
+    mc "Est-ce que le flic va bien ?"
 
 # game/code/d19/d19s01lc.rpy:48
 translate french d19s01lc_ad9c99fc:
@@ -68,7 +68,7 @@ translate french d19s01lc_ad9c99fc:
 translate french d19s01lc_2124fe0f:
 
     # mc "So, can I get out of here?"
-    mc "Alors, je peux sortir d'ici?"
+    mc "Alors, je peux sortir d'ici ?"
 
 # game/code/d19/d19s01lc.rpy:53
 translate french d19s01lc_047f72c2:
@@ -86,7 +86,7 @@ translate french d19s01lc_eae65e6c:
 translate french d19s01lc_26b5e011:
 
     # mc "Um, why aren't you telling them that now?"
-    mc "Pourquoi tu ne leur dis pas ça maintenant?"
+    mc "Pourquoi tu ne leur dis pas ça maintenant ?"
 
 # game/code/d19/d19s01lc.rpy:60
 translate french d19s01lc_350d3aa5:
@@ -98,7 +98,7 @@ translate french d19s01lc_350d3aa5:
 translate french d19s01lc_cf68b792:
 
     # mc "What does that mean? I don't understand."
-    mc "Qu'est-ce que ça veut dire? Je ne comprends pas."
+    mc "Qu'est-ce que ça veut dire ? Je ne comprends pas."
 
 # game/code/d19/d19s01lc.rpy:66
 translate french d19s01lc_ffdafa71:
@@ -110,7 +110,7 @@ translate french d19s01lc_ffdafa71:
 translate french d19s01lc_72aa34fa:
 
     # lc "Why did you get smashed drunk in a random bar last night?"
-    lc "Pourquoi t'es-tu saoulé dans un bar au hasard hier soir?"
+    lc "Pourquoi t'es-tu saoulé dans un bar au hasard hier soir ?"
 
 # game/code/d19/d19s01lc.rpy:70
 translate french d19s01lc_871b7921:
@@ -392,7 +392,7 @@ translate french d19s01lc_404c6559:
 translate french d19s01lc_91ccba53:
 
     # mc "This is ridiculous! You're telling me that Fetish Locator is some sort of HAL 9000 of sex and smut!!!"
-    mc "C'est ridicule! Tu me dit que Fetish Locator est une sorte de HAL9000 de sexe et de cochonnerie!!!"
+    mc "C'est ridicule! Tu me dis que Fetish Locator est une sorte de HAL9000 du sexe et de cochonneries!!!"
 
 # game/code/d19/d19s01lc.rpy:191
 translate french d19s01lc_60444f69:
@@ -410,13 +410,13 @@ translate french d19s01lc_3defe89c:
 translate french d19s01lc_002a889a:
 
     # lc "No idea.{w} Nobody has seen him in about a week."
-    lc "Aucune idée. {w} Personne ne l'a vu depuis environ une semaine."
+    lc "Aucune idée.{w} Personne ne l'a vu depuis environ une semaine."
 
 # game/code/d19/d19s01lc.rpy:201
 translate french d19s01lc_3ab36586:
 
     # mc "Bullshit! He was at Min's Party harassing the bartender!"
-    mc "Conneries! Il était à la fête de Min et harçelait la barmaid!"
+    mc "Conneries! Il était à la fête de Min et harcelait la barmaid!"
 
 # game/code/d19/d19s01lc.rpy:204
 translate french d19s01lc_c0cb4cc7:
@@ -434,7 +434,7 @@ translate french d19s01lc_5642385e:
 translate french d19s01lc_9425a3b9:
 
     # mct "That was a joke, right?"
-    mct "C'était une blague, non??"
+    mct "C'était une blague, non ?"
 
 # game/code/d19/d19s01lc.rpy:211
 translate french d19s01lc_1ef5a556:
@@ -446,7 +446,7 @@ translate french d19s01lc_1ef5a556:
 translate french d19s01lc_2876efd9:
 
     # mc "Why?"
-    mc "Pourquoi?"
+    mc "Pourquoi ?"
 
 # game/code/d19/d19s01lc.rpy:217
 translate french d19s01lc_43ce2e2d:
@@ -458,7 +458,7 @@ translate french d19s01lc_43ce2e2d:
 translate french d19s01lc_630ea5ff:
 
     # mc "Fine. So, you had this dream."
-    mc "Bien. Alors, tu as ce rêve."
+    mc "Très bien. Alors, tu as ce rêve."
 
 # game/code/d19/d19s01lc.rpy:222
 translate french d19s01lc_cfa80054:
@@ -500,19 +500,19 @@ translate french d19s01lc_3d78d280:
 translate french d19s01lc_99f73c57:
 
     # mc "Is that all?"
-    mc "C'est tout?"
+    mc "C'est tout ?"
 
 # game/code/d19/d19s01lc.rpy:241
 translate french d19s01lc_e64f10fe:
 
     # lc "...?"
-    lc "...?"
+    lc "... ?"
 
 # game/code/d19/d19s01lc.rpy:244
 translate french d19s01lc_4d30b352:
 
     # mc "You wanted me to listen. Is that everything you had to say?"
-    mc "Tu voulais que j'écoute. C'est tout ce que tu avais à dire?"
+    mc "Tu voulais que j'écoute. C'est tout ce que tu avais à dire ?"
 
 # game/code/d19/d19s01lc.rpy:247
 translate french d19s01lc_6cb488f6:
@@ -530,13 +530,13 @@ translate french d19s01lc_60e6c864:
 translate french d19s01lc_d68d42d5:
 
     # lc "[mcname], can you ever forgive me?"
-    lc "[mcname], pourra-tu jamais me pardonner?"
+    lc "[mcname], pourras-tu jamais me pardonner ?"
 
 # game/code/d19/d19s01lc.rpy:256
 translate french d19s01lc_1196ae30:
 
     # mc "Maybe.{w} Maybe when you're not keeping me in a jail cell."
-    mc "Peut-être.{w} Peut-être quand tu aura fini de me garder dans une cellule de prison."
+    mc "Peut-être.{w} Peut-être quand tu auras fini de me garder dans une cellule de prison."
 
 # game/code/d19/d19s01lc.rpy:259
 translate french d19s01lc_a27a6d78:
@@ -546,229 +546,197 @@ translate french d19s01lc_a27a6d78:
 
 # game/code/d19/d19s01lc.rpy:262
 translate french d19s01lc_4c79738f:
-
     # mc "Have the cops release me?"
-    mc "Est-ce que les flics vont me libéré?"
+    mc "Est-ce que les flics vont me libérer?"
 
 # game/code/d19/d19s01lc.rpy:265
 translate french d19s01lc_9ddc7c13:
-
     # lc "Well, that.{w} And turning myself in."
     lc "Eh bien, ça.{w} Et je me rends."
 
 # game/code/d19/d19s01lc.rpy:268
 translate french d19s01lc_3d996037:
-
     # mc "What are you talking about?"
     mc "De quoi tu parles?"
 
 # game/code/d19/d19s01lc.rpy:272
 translate french d19s01lc_aa940d40:
-
     # lc "People are being lied to, and ultimately I am responsible."
     lc "On ment aux gens, et en fin de compte, j'en suis responsable."
 
 # game/code/d19/d19s01lc.rpy:274
 translate french d19s01lc_fee94fbe:
-
     # lc "People got hurt. People are being blackmailed. I'm responsible."
     lc "Des gens ont été blessés. Les gens sont victimes de chantage. Je suis responsable."
 
 # game/code/d19/d19s01lc.rpy:276
 translate french d19s01lc_66b4e40c:
-
     # mc "Ethically, sure. But legally, Jerome did all that."
     mc "Éthiquement, bien sûr. Mais légalement, Jérôme a fait tout ça."
 
 # game/code/d19/d19s01lc.rpy:279
 translate french d19s01lc_9bb37cf1:
-
     # lc "I'm responsible."
     lc "Je suis responsable."
 
 # game/code/d19/d19s01lc.rpy:282
 translate french d19s01lc_528accdb:
-
     # mc "I don't understand."
     mc "Je ne comprends pas."
 
 # game/code/d19/d19s01lc.rpy:285
 translate french d19s01lc_3be6d3ae:
-
     # lc "It's just something I need to do."
     lc "C'est juste quelque chose que je dois faire."
 
 # game/code/d19/d19s01lc.rpy:289
 translate french d19s01lc_86cc54ed:
-
     # mc "Lydia! Wait!"
     mc "Lydia! Attends!"
 
 # game/code/d19/d19s01lc.rpy:291
 translate french d19s01lc_e64f10fe_1:
-
     # lc "...?"
     lc "...?"
 
 # game/code/d19/d19s01lc.rpy:297
 translate french d19s01lc_ce62b3b9:
-
     # mc "I Still Love You."
     mc "Je t'aime toujours."
 
 # game/code/d19/d19s01lc.rpy:310
 translate french d19s01lc_5759ff2b:
-
     # mc "I don't care what you've done."
     mc "Je m'en fiche de ce que tu as fait."
 
 # game/code/d19/d19s01lc.rpy:311
 translate french d19s01lc_7dadeb1b:
-
     # mc "I don't care what you do."
     mc "Je m'en fiche de ce que tu fais."
 
 # game/code/d19/d19s01lc.rpy:312
 translate french d19s01lc_329486ef:
-
     # mc "You'll always be my girl."
     mc "Tu seras toujours ma copine."
 
 # game/code/d19/d19s01lc.rpy:315
 translate french d19s01lc_bf0ad310:
-
     # lc "Thank you."
     lc "Merci."
 
 # game/code/d19/d19s01lc.rpy:316
 translate french d19s01lc_e2cb8e1e:
-
     # lc "I love you too."
     lc "Je t'aime aussi."
 
 # game/code/d19/d19s01lc.rpy:317
 translate french d19s01lc_4d6b53e9:
-
     # lc "But I have to do this."
     lc "Mais je dois faire ça."
 
 # game/code/d19/d19s01lc.rpy:320
 translate french d19s01lc_83495ed0:
-
     # mc "I understand."
     mc "Je comprends."
 
 # game/code/d19/d19s01lc.rpy:328
 translate french d19s01lc_ea9058b2:
-
     # mc "I didn't like being lied to, but..."
     mc "Je n'ai pas aimé le mensonge, mais..."
 
 # game/code/d19/d19s01lc.rpy:330
 translate french d19s01lc_348fb56c:
-
     # mc "I didn't like the blackmail, but..."
     mc "Je n'ai pas aimé le chantage, mais..."
 
 # game/code/d19/d19s01lc.rpy:332
 translate french d19s01lc_688e6337:
-
     # lc "Yes?"
     lc "Oui?"
 
 # game/code/d19/d19s01lc.rpy:333
 translate french d19s01lc_247009df:
-
     # mc "I enjoyed the app. I enjoyed the game."
     mc "J'ai apprécié l'application. J'ai apprécié le jeu."
 
 # game/code/d19/d19s01lc.rpy:336
 translate french d19s01lc_f963485d:
-
     # lc "At least there's that, I guess."
     lc "Au moins il y a ça, je suppose."
 
 # game/code/d19/d19s01lc.rpy:338
 translate french d19s01lc_332ce41d:
-
     # mc "And I loved every moment I spent with you."
     mc "Et j'ai adoré chaque moment que j'ai passé avec toi."
 
 # game/code/d19/d19s01lc.rpy:341
 translate french d19s01lc_9be872d0:
-
     # lc "Thanks. Me too."
     lc "Merci. Moi aussi."
 
 # game/code/d19/d19s01lc.rpy:350
 translate french d19s01lc_28aec72e:
-
     # mc "It was fun, once."
-    mc "C'était amusant..une fois."
+    mc "C'était amusant.. une fois."
 
 # game/code/d19/d19s01lc.rpy:353
 translate french d19s01lc_f85dfd95:
-
     # lc "What's that?"
     lc "Qu'est-ce que ..?"
 
 # game/code/d19/d19s01lc.rpy:357
 translate french d19s01lc_1c1da538:
-
     # mc "Fetish Locator - it was fun, once.{w} Before... ya'know."
     mc "Fetish Locator, c'était amusant, une fois.{w} Avant... tu sais."
 
 # game/code/d19/d19s01lc.rpy:359
 translate french d19s01lc_a7bed98d:
-
     # mc "Fetish Locator - it was fun, once.{w} Before the blackmail."
     mc "Fetish Locator, c'était amusant, une fois.{w} Avant le chantage."
 
 # game/code/d19/d19s01lc.rpy:362
 translate french d19s01lc_24df0a15:
-
     # lc "Well, at least there is that."
     lc "Eh bien, au moins il y a ça."
 
 # game/code/d19/d19s01lc.rpy:366
 translate french d19s01lc_edcd5563:
-
     # mc "Just don't forget about me."
     mc "Ne m'oublie pas."
 
 # game/code/d19/d19s01lc.rpy:369
 translate french d19s01lc_55e95dde:
-
     # lc "I'll have them release you in a jiffy."
     lc "Je vais leur demander de te libérer tout de suite."
 
 # game/code/d19/d19s01lc.rpy:371
 translate french d19s01lc_e3d2f04a:
-
     # mc "That isn't what I meant."
     mc "Ce n'est pas ce que je voulais dire."
 
 # game/code/d19/d19s01lc.rpy:372
 translate french d19s01lc_89d262b0:
-
     # lc "I know."
     lc "Je sais."
 
+# game/code/d19/d19s01lc.rpy:4
 translate french strings:
-
-    # game/code/d19/d19s01lc.rpy:4
     old "Friday\nDay-19"
     new "Vendredi\nJour-19"
 
-    # game/code/d19/d19s01lc.rpy:292
+# game/code/d19/d19s01lc.rpy:292
+translate french strings:
     old "Kiss Her"
     new "Embrasse-la"
 
-    # game/code/d19/d19s01lc.rpy:292
+# game/code/d19/d19s01lc.rpy:292
+translate french strings:
     old "Say Something Nice"
     new "Dis quelque chose de gentil"
 
-    # game/code/d19/d19s01lc.rpy:292
+# game/code/d19/d19s01lc.rpy:292
+translate french strings:
     old "Tell Her It Was Fun"
     new "Dis-lui que c'était amusant"
+
 
