@@ -350,7 +350,7 @@ translate french strings:
 
     # renpy/common/00action_other.rpy:746
     old "Open [text] directory."
-    new "Ouvrir le répertoire [texte]."
+    new "Ouvrir le répertoire [text]."
 
     # renpy/common/00director.rpy:712
     old "The interactive director is not enabled here."
@@ -1002,7 +1002,7 @@ translate french strings:
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
-    new "Image [index] de [compte] verrouillée."
+    new "Image [index] de [count] verrouillée."
 
     # renpy/common/00gallery.rpy:647
     old "prev"
@@ -1098,7 +1098,7 @@ translate french strings:
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new "Cet ordinateur a un problème pour afficher les graphiques : [problème]."
+    new "Cet ordinateur a un problème pour afficher les graphiques: [problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
@@ -1134,7 +1134,7 @@ translate french strings:
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new "Calibrage de [nom] ([i]/[total])"
+    new "Calibrage de [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
