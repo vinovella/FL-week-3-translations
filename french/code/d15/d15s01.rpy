@@ -1574,7 +1574,7 @@ translate french d15s01_face_fucking_08015ac2:
 translate french d15s01_face_fucking_a61ecfde:
 
     # lc "You've picked an impressive little sex slave."
-    lc "Vous avez choisi une petite esclave sexuelle impressionnante."
+    lc "Tu as choisi une petite esclave sexuelle impressionnante."
 
 # game/code/d15/d15s01.rpy:1181
 translate french d15s01_face_fucking_96ef9b03:
