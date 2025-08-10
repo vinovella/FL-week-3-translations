@@ -1970,7 +1970,7 @@ translate french d15s01_end_ec323efe:
 translate french d15s01_end_7dad41db:
 
     # mc "Stop, stop. AmRose, I get it."
-    mc "Arrêtez, arrêtez. AmRose, j'ai compris."
+    mc "Arrêtes, arrêtes. AmRose, j'ai compris."
 
 # game/code/d15/d15s01.rpy:1407
 translate french d15s01_end_5e7a4c3d:
