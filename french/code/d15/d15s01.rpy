@@ -644,7 +644,7 @@ translate french d15s01_cagedecision_85e35563:
 translate french d15s01_cagedecision_0c399e49:
 
     # mct "Oh look, the Fetish of the Day is Cumshot. {w}Annnd my points have been zero'd out."
-    mct "Oh regarde, le fétiche du jour est l'éjaculation. {w}Annnd, mes points ont été nuls."
+    mct "Oh regarde, le fétiche du jour est l'éjaculation. {w}Eeet, mes points ont été remis a zéros."
 
 # game/code/d15/d15s01.rpy:509
 translate french d15s01_cagedecision_35bde775:
