@@ -332,7 +332,7 @@ translate french d15s01_thoughts_NTR_b8daeb45:
 translate french d15s01_thoughts_NTR_1ed699b0:
 
     # mct "There's a clue in there somewhere...{w} There's gotta be. hmm..."
-    mct "Il y a un indice quelque part...{w} Il doit y en avoir. hmm..."
+    mct "Il y a un indice quelque part...{w} Il doit y en avoir un. hmm..."
 
 # game/code/d15/d15s01.rpy:361
 translate french d15s01_thoughts_NTR_66c12cfc:
