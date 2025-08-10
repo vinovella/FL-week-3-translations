@@ -1460,13 +1460,13 @@ translate french d15s01_face_fucking_e89be398:
 translate french d15s01_face_fucking_05a0b37e:
 
     # lc "You like the way that feels?"
-    lc "Tu aimes la façon dont ont se sent?"
+    lc "Tu aimes cette sensation?"
 
 # game/code/d15/d15s01.rpy:1110
 translate french d15s01_face_fucking_1622c0cb:
 
     # lc "You both do. I can tell."
-    lc "Vous le faites tous les deux. je peux dire."
+    lc "Vous l'aimez tous les deux. Je le vois bien."
 
 # game/code/d15/d15s01.rpy:1113
 translate french d15s01_face_fucking_c743cd43:
