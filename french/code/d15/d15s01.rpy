@@ -1838,7 +1838,7 @@ translate french d15s01_end_cbcf6bb4:
 translate french d15s01_end_cfc6d65b:
 
     # mc "Well, it was fun while it lasted."
-    mc "Eh bien, c'était amusant le temps que ça à durait."
+    mc "Eh bien, c'était amusant le temps que ça a duré."
 
 # game/code/d15/d15s01.rpy:1351
 translate french d15s01_end_7ea95347:
