@@ -122,7 +122,7 @@ translate french d15s01_00a0358d:
 translate french d15s01_a77cb4fc:
 
     # arj "We figured it would make you more comfortable."
-    arj "Nous avons pensé que cela vous rendrait plus à l'aise."
+    arj "Nous avons pensé que cela te rendrais plus à l'aise."
 
 # game/code/d15/d15s01.rpy:250
 translate french d15s01_d5c07c74:
