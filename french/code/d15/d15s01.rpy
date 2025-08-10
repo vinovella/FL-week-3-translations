@@ -1436,7 +1436,7 @@ translate french d15s01_face_fucking_ebbc4375:
 translate french d15s01_face_fucking_c2e11d67:
 
     # lc "Cum in her mouth."
-    lc "Sperme dans sa bouche."
+    lc "Jouis dans sa bouche."
 
 # game/code/d15/d15s01.rpy:1100
 translate french d15s01_face_fucking_11455b53:
