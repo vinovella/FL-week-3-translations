@@ -1904,7 +1904,7 @@ translate french d15s01_end_2fde40af:
 translate french d15s01_end_c6f508a0:
 
     # arj "You seemed pretty lost in thought. Anything you want to talk about?"
-    arj "Vous sembliez plutôt perdu dans vos pensées. Tout ce dont tu veux parler?"
+    arj "Vous sembliez plutôt perdu dans vos pensées. Est-ce que tu veux parler de quelque chose?"
 
 # game/code/d15/d15s01.rpy:1379
 translate french d15s01_end_5c755881:
