@@ -1364,7 +1364,7 @@ translate french d15s01_face_fucking_4fc3f502:
 translate french d15s01_face_fucking_9d3775d3:
 
     # lc "So, she's a fuckbuddy? You have sex sometimes, but are mostly just friends?"
-    lc "Alors, c'est une copine de baise? Vous avez des relations sexuelles parfois, mais vous n'êtes pour la plupart que des amis?"
+    lc "Alors, c'est une copine de baise? Vous couchez parfois, mais la plupart du temps, vous êtes juste amis?"
 
 # game/code/d15/d15s01.rpy:1064
 translate french d15s01_face_fucking_6f80d560:
