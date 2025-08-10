@@ -902,7 +902,7 @@ translate french d15s01_arj_bj_5cfbf454:
 translate french d15s01_arj_bj_48643e5c:
 
     # mct "And I love them both."
-    mct "Et je les aiment toutes les deux."
+    mct "Et je les aime toutes les deux."
 
 # game/code/d15/d15s01.rpy:720
 translate french d15s01_arj_bj_adb345ba:
