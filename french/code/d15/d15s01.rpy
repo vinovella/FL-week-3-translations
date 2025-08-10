@@ -1208,7 +1208,7 @@ translate french d15s01_lc_bj_dcceb6a7:
 translate french d15s01_lc_bj_422b15a4:
 
     # arj "How deep can you take that pipe?"
-    arj "Jusqu'où peux-tu enfoncer ce tuyau?"
+    arj "Jusqu'où peux-tu prendre ce tuyau?"
 
 # game/code/d15/d15s01.rpy:946
 translate french d15s01_lc_bj_d54ef43f:
