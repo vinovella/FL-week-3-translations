@@ -1094,7 +1094,7 @@ translate french d15s01_arj_bj_2c73c6d8:
 translate french d15s01_arj_bj_82ceafd1:
 
     # arj "See how he's about to cum?"
-    arj "Voyez comment il est sur le point de jouir?"
+    arj "Tu vois comment il est sur le point de jouir?"
 
 # game/code/d15/d15s01.rpy:831
 translate french d15s01_arj_bj_7143665d:
