@@ -494,7 +494,7 @@ translate french d15s01_cagedecision_fd6fc90b:
 translate french d15s01_cagedecision_019a10bc:
 
     # lc "Well you know what? Shit happens. Deal with it; Man up; Soldier on. You can do this."
-    lc "Eh bien, tu sais quoi? Des merdes arrivent. Traitez-le; Homme debout; Soldat. Tu peux faire ça."
+    lc "Eh bien, tu sais quoi? Des merdes arrivent. Fait avec; Homme debout; Soldat. Tu peux faire ça."
 
 # game/code/d15/d15s01.rpy:434
 translate french d15s01_cagedecision_db581ccd:
