@@ -128,7 +128,7 @@ translate french d15s01_a77cb4fc:
 translate french d15s01_d5c07c74:
 
     # lc "I objected, but eventually AmRose convinced me."
-    lc "Je me suis opposé, mais AmRose a fini par me convaincre."
+    lc "Je m'y suis opposé, mais AmRose a fini par me convaincre."
 
 # game/code/d15/d15s01.rpy:253
 translate french d15s01_06a35ef6:
