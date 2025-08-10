@@ -1358,7 +1358,7 @@ translate french d15s01_face_fucking_769474b6:
 translate french d15s01_face_fucking_4fc3f502:
 
     # mc "We're not dating or anything, if that's what you're asking. You are my girlfriend."
-    mc "Nous ne sortons pas ensemble ou quoi que ce soit, si c'est ce que vous demandez. Tu es ma petite amie."
+    mc "Nous ne sortons pas ensemble ou quoi que ce soit, si c'est ce que tu demandes. Tu es ma petite amie."
 
 # game/code/d15/d15s01.rpy:1060
 translate french d15s01_face_fucking_9d3775d3:
