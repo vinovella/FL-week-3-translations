@@ -1016,7 +1016,7 @@ translate french d15s01_arj_bj_7756f3f4:
 translate french d15s01_arj_bj_c1146012:
 
     # lc "I'm not quite ready for that... just yet."
-    lc "Je ne suis pas encore tout à fait prêt pour ça... pour l'instant."
+    lc "Je ne suis pas encore tout à fait prête pour ça... pour l'instant."
 
 # game/code/d15/d15s01.rpy:786
 translate french d15s01_arj_bj_590a197c:
