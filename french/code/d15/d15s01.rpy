@@ -1742,7 +1742,7 @@ translate french d15s01_face_fucking_2aa37dcf:
 translate french d15s01_face_fucking_e14446bc:
 
     # lc "Pull your cock out and cum in her face again!!"
-    lc "Sortez votre bite et jouissez à nouveau sur son visage!!"
+    lc "Sorts ta bite et jouis à nouveau sur son visage!!"
 
 # game/code/d15/d15s01.rpy:1251
 translate french d15s01_face_fucking_822521bd:
