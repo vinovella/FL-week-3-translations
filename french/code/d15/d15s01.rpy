@@ -1418,7 +1418,7 @@ translate french d15s01_face_fucking_05429983:
 translate french d15s01_face_fucking_2c433fb4:
 
     # lc "I thought as much."
-    lc "je le pensais autant."
+    lc "Je m'en doutais."
 
 # game/code/d15/d15s01.rpy:1088
 translate french d15s01_face_fucking_0d68a069:
