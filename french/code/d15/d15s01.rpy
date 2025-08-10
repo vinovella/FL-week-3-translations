@@ -1046,7 +1046,7 @@ translate french d15s01_arj_bj_14e6427f:
 translate french d15s01_arj_bj_b04723f4:
 
     # mc "Fuck me, AmRose. {w}You're so good at this I could come on the floor and be glad about it."
-    mc "Baise-moi, AmRose. {w}Tu es si bon dans ce domaine que je pourrais venir par terre et m'en réjouir."
+    mc "Baise-moi, AmRose. {w}Tu es si bonne dans ce domaine que je pourrais venir par terre et m'en réjouir."
 
 # game/code/d15/d15s01.rpy:801
 translate french d15s01_arj_bj_cc652795:
