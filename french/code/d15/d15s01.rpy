@@ -422,7 +422,7 @@ translate french d15s01_cagedecision_0dea2f11:
 translate french d15s01_cagedecision_4f1d505f:
 
     # arj "If you stop playing the game, then everybody {i}on our team{/i} loses."
-    arj "Si vous arrêtez de jouer, alors tout le monde {i}dans notre équipe{/i} perd."
+    arj "Si tu arrêtes de jouer, alors tout le monde {i}dans notre équipe{/i} perd."
 
 # game/code/d15/d15s01.rpy:405
 translate french d15s01_cagedecision_7e36f4f4:
