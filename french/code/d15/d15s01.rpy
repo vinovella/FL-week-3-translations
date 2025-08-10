@@ -1292,7 +1292,7 @@ translate french d15s01_lc_bj_7348b99e:
 translate french d15s01_face_fucking_fbc7815a:
 
     # arj "Do you want to-"
-    arj "Voulez-vous-"
+    arj "Veux-tu-"
 
 # game/code/d15/d15s01.rpy:1025
 translate french d15s01_face_fucking_0d9a7d89:
