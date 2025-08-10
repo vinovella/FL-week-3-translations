@@ -434,7 +434,7 @@ translate french d15s01_cagedecision_7e36f4f4:
 translate french d15s01_cagedecision_ff627007:
 
     # mc "Shit, I know. I don't want to hurt you or anyone else, but-"
-    mc "Et merde, je sais. Je ne veux pas faire de mal à toi ou à quelqu'un d'autre, mais-"
+    mc "Et merde, je sais. Je ne veux pas te faire de mal ou à quelqu'un d'autre, mais-"
 
 # game/code/d15/d15s01.rpy:410
 translate french d15s01_cagedecision_78ba19ce:
