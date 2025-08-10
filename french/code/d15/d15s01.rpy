@@ -1646,7 +1646,7 @@ translate french d15s01_face_fucking_bbff5575:
 translate french d15s01_face_fucking_7c6a3550:
 
     # lc "You wouldn't mind sharing your little playtoy with me, would you [mcname]?"
-    lc "Cela ne vous dérangerait pas de partager votre petit jouet avec moi, n'est-ce pas [mcname]?"
+    lc "Cela ne te dérangerais pas de partager ton petit jouet avec moi, n'est-ce pas [mcname]?"
 
 # game/code/d15/d15s01.rpy:1211
 translate french d15s01_face_fucking_b7f7559b:
