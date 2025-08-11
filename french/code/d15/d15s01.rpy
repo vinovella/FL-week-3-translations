@@ -458,13 +458,13 @@ translate french d15s01_cagedecision_a3c5d05f:
 translate french d15s01_cagedecision_3ab92e4b:
 
     # lc "Think about how many people turned up and put out for you the last few days. Think about them."
-    lc "Pensez au nombre de personnes qui sont venues vous chercher ces derniers jours. Pensez à eux."
+    lc "Penses au nombre de personnes qui sont venues te chercher ces derniers jours. Penses à eux."
 
 # game/code/d15/d15s01.rpy:420
 translate french d15s01_cagedecision_959126b6:
 
     # lc "Do you think they wanted you to fail? Do you think they want you to just give up?"
-    lc "Pensez-vous qu’ils voulaient que vous échouiez? Pensez-vous qu'ils veulent que vous abandonniez?"
+    lc "Penses-tu qu’ils voulaient que tu échoues? Penses-tu qu'ils veulent que tu abandonnes?"
 
 # game/code/d15/d15s01.rpy:422
 translate french d15s01_cagedecision_89673278:
