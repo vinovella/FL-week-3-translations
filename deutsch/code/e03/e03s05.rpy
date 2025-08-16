@@ -254,7 +254,7 @@ translate deutsch e03s05_2d8989b5:
 translate deutsch e03s05_6c74b79f:
 
     # "Not Lyssa?" "Lyssa? Who the hell is Lyssa?"
-    "Nicht Lyssa?" "Lyssa? Wer zum Teufel ist Lyssa?""
+    "Nicht Lyssa?" "Lyssa? Wer zum Teufel ist Lyssa?"
 
 # game/code/e03/e03s05.rpy:160
 translate deutsch e03s05_e5b8c54e:
