@@ -398,7 +398,7 @@ translate deutsch e03s06_05fa4972:
 translate deutsch e03s06_7f2d2d9b:
 
     # mh "Oh goooooood, [mcname]! I've missed this!"
-    mh „Oh, wie schön, [mcname]! Das habe ich vermisst!"
+    mh "Oh, wie schön, [mcname]! Das habe ich vermisst!"
 
 # game/code/e03/e03s06.rpy:274
 translate deutsch e03s06_c5cf4ac4:
