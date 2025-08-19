@@ -200,7 +200,7 @@ translate deutsch e03s05_e88c3bd3:
 translate deutsch e03s05_796280e1:
 
     # "Guard" "You pretender. I cannot wait until your fate is decided before the High Priestess' tribunal."
-    "Wächter" "Du Heuchler. Ich kann es kaum erwarten, bis dein Schicksal vor dem Tribunal der Hohepriesterin entschieden wird."
+    "Wächter" "Du Heuchlerin. Ich kann es kaum erwarten, bis dein Schicksal vor dem Tribunal der Hohepriesterin entschieden wird."
 
 # game/code/e03/e03s05.rpy:128
 translate deutsch e03s05_500721c2:
