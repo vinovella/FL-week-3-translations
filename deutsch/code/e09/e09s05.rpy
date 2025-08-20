@@ -1358,7 +1358,7 @@ translate deutsch e09s05_05084573:
 translate deutsch e09s05_c716fdef:
 
     # aw "Ooouhah. Now the tiger wants to play."
-    aw "Ooouuhah. Jetzt will der Tiger spielen.
+    aw "Ooouuhah. Jetzt will der Tiger spielen."
 
 # game/code/e09/e09s05.rpy:692
 translate deutsch e09s05_9fe0d42e:
