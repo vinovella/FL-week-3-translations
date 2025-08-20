@@ -92,7 +92,7 @@ translate deutsch e09s03_e50fbdff:
 translate deutsch e09s03_4fbc319e:
 
     # mc "How are you doing on making sure this boat will sail once we start rebuilding the fan base?"
-    mc Wie läuft es mit der Sicherstellung, dass dieses Boot wieder segeln kann, sobald wir mit dem Wiederaufbau der Fangemeinde beginnen?"
+    mc "Wie läuft es mit der Sicherstellung, dass dieses Boot wieder segeln kann, sobald wir mit dem Wiederaufbau der Fangemeinde beginnen?"
 
 # game/code/e09/e09s03.rpy:101
 translate deutsch e09s03_dc479a43:
