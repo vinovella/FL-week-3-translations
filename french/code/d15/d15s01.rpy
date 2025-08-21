@@ -1484,7 +1484,7 @@ translate french d15s01_face_fucking_a4966a3e:
 translate french d15s01_face_fucking_03820e94:
 
     # lc "Start like this. {w}I want you to fuck her face."
-    lc "Commencez comme ça. {w}Je veux que tu lui baises le visage."
+    lc "Commences comme ça. {w}Je veux que tu lui baises le visage."
 
 # game/code/d15/d15s01.rpy:1124
 translate french d15s01_face_fucking_b0fa508f:
