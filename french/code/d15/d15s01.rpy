@@ -1664,7 +1664,7 @@ translate french d15s01_face_fucking_6795650f:
 translate french d15s01_face_fucking_2c4ca683:
 
     # lc "Is that so? Well now, let's ask her. [mcname] is your Master. Does that make me your Mistress?"
-    lc "Est-ce ainsi? Eh bien, maintenant, demandons-lui. [mcname] est votre maître. Est-ce que ça fait de moi ta maîtresse?"
+    lc "Est-ce ainsi? Eh bien, maintenant, demandons-lui. [mcname] est ton maître. Est-ce que ça fait de moi ta maîtresse?"
 
 # game/code/d15/d15s01.rpy:1217
 translate french d15s01_face_fucking_e18db772:
