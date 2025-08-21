@@ -44,7 +44,7 @@ translate french d15s01_21c1e969:
 translate french d15s01_3c39de12:
 
     # arj "Lydia's downstairs making breakfast. I'm heading down too. Get your ass out of bed and join us."
-    arj "Lydia est en bas et prépare le petit-déjeuner, je descends aussi! sors ton cul du lit et rejoins-nous."
+    arj "Lydia est en bas et prépare le petit-déjeuner, je descends aussi. Sors tes fesses du lit et rejoins-nous."
 
 # game/code/d15/d15s01.rpy:203
 translate french d15s01_546d00c0:
