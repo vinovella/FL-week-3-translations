@@ -50,7 +50,7 @@ translate french d15s01_3c39de12:
 translate french d15s01_546d00c0:
 
     # mc "I'll be right there."
-    mc "ok ok je descend."
+    mc "Ok ok je descend."
 
 # game/code/d15/d15s01.rpy:204
 translate french d15s01_dbd1a0f1:
