@@ -2186,7 +2186,7 @@ translate french d15s01_end_9422d260:
 translate french d15s01_end_a0a3ad1b:
 
     # nk "Good. I'll be waiting. Just come on in when you get here."
-    nk "Bien. J'attendrai. Entrez juste quand vous arrivez ici."
+    nk "Bien. J'attendrai. Entres juste quand tu arrivas ici."
 
 # game/code/d15/d15s01.rpy:1489
 translate french d15s01_end_22e42064:
