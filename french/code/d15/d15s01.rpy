@@ -566,7 +566,7 @@ translate french d15s01_cagedecision_bd88faff:
 translate french d15s01_cagedecision_046a3300:
 
     # lc "Pick one, slap that bad boy on."
-    lc "Choisissez-en un, giflez ce mauvais garçon."
+    lc "Choisis-en un, gifle ce mauvais garçon."
 
 # game/code/d15/d15s01.rpy:471
 translate french d15s01_cagedecision_bc8b2f36:
