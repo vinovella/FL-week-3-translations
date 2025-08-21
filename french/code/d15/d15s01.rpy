@@ -1514,7 +1514,7 @@ translate french d15s01_face_fucking_dd0dc79d:
 translate french d15s01_face_fucking_3d7180ba:
 
     # lc "You hear that?! She's loving this!"
-    lc "Vous entendez ça?! Elle adore ça!"
+    lc "Tu entends ça?! Elle adore ça!"
 
 # game/code/d15/d15s01.rpy:1143
 translate french d15s01_face_fucking_3df108b5:
