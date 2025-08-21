@@ -1238,7 +1238,7 @@ translate french d15s01_lc_bj_232c3f6d:
 translate french d15s01_lc_bj_43223b79:
 
     # arj "Okay, it looks like he's about to-"
-    arj "Okay, on dirait qu'il est sur le point de le faire-"
+    arj "Okay, on dirait qu'il est sur le point de-"
 
 # game/code/d15/d15s01.rpy:973
 translate french d15s01_lc_bj_d0feca9c:
