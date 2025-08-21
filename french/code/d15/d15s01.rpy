@@ -56,7 +56,7 @@ translate french d15s01_546d00c0:
 translate french d15s01_dbd1a0f1:
 
     # mct "Was she naked? {w}Why was she naked?"
-    mct "Était-elle nue? {w}Pourquoi était-elle nue?"
+    mct "Est-ce qu’elle était nue? {w}Pourquoi est-ce qu’elle était nue?"
 
 # game/code/d15/d15s01.rpy:209
 translate french d15s01_98c8094a:
