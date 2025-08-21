@@ -1118,7 +1118,7 @@ translate french d15s01_arj_bj_f85dfd95:
 translate french d15s01_lc_bj_0f423e28:
 
     # arj "He's still got a semi. I'm guessing one more load will do it."
-    arj "Il a encore un semi. Je suppose qu'une charge supplémentaire le fera."
+    arj "Il a encore une demi. Je suppose qu'une charge supplémentaire le fera."
 
 # game/code/d15/d15s01.rpy:871
 translate french d15s01_lc_bj_24af9c54:
