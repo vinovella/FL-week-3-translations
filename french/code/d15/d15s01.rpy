@@ -1130,7 +1130,7 @@ translate french d15s01_lc_bj_24af9c54:
 translate french d15s01_lc_bj_86aa193f:
 
     # arj "Go right ahead."
-    arj "Allez-y."
+    arj "Vas-y."
 
 # game/code/d15/d15s01.rpy:877
 translate french d15s01_lc_bj_4cb9b139:
@@ -1142,7 +1142,7 @@ translate french d15s01_lc_bj_4cb9b139:
 translate french d15s01_lc_bj_7e67fa7a:
 
     # arj "So, you just need to-"
-    arj "Il vous suffit donc de-"
+    arj "Il te suffit donc de-"
 
 # game/code/d15/d15s01.rpy:891
 translate french d15s01_lc_bj_a841da30:
