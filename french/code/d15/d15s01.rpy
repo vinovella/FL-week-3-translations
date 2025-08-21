@@ -2192,7 +2192,7 @@ translate french d15s01_end_a0a3ad1b:
 translate french d15s01_end_22e42064:
 
     # mc "Sounds good. I'll see you then."
-    mc "Ça a l'air bien. je te verrai alors."
+    mc "Ça a l'air bien. Au revoir alors."
 
 translate french strings:
 
