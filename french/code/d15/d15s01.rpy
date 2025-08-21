@@ -368,7 +368,7 @@ translate french d15s01_cagedecision_96a1c094:
 translate french d15s01_cagedecision_a9be34fe:
 
     # arj "Decided on which one?"
-    arj "Décider lequel?"
+    arj "Décidé lequel?"
 
 # game/code/d15/d15s01.rpy:382
 translate french d15s01_cagedecision_ecc974f8:
