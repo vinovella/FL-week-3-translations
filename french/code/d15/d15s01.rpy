@@ -1262,7 +1262,7 @@ translate french d15s01_lc_bj_b782bbe5:
 translate french d15s01_lc_bj_7a6624df:
 
     # arj "It's okay, it's okay. {w}You don't have to swallow."
-    arj "C'est bon, c'est bon. {w}Vous n'êtes pas obligé d'avaler."
+    arj "C'est bon, c'est bon. {w}Tu n'es pas obligé d'avaler."
 
 # game/code/d15/d15s01.rpy:994
 translate french d15s01_lc_bj_ff70ab12:
