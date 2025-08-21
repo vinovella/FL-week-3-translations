@@ -764,7 +764,7 @@ translate deutsch e09s01_sex_c4f355ce:
 translate deutsch e09s01_sex_42cc2ceb:
 
     # aw "Mrrmm. Just as juicy as the last time I saw it."
-    aw "Mmmh. Genauso saftig wie beim letzten Mal, als ich es gesehen habe."
+    aw "Mmmh. Genauso saftig wie beim letzten Mal, als ich ihn gesehen habe."
 
 # game/code/e09/e09s01.rpy:429
 translate deutsch e09s01_sex_74f95eb8:
@@ -1178,7 +1178,7 @@ translate deutsch e09s01_continue_sex_59394234:
 translate deutsch e09s01_continue_sex_c2979b03:
 
     # aw "Yes. YES! Give my holes a workout!"
-    aw "Ja. JA! Trainiere meine Löcher!"
+    aw "Ja. JA! Trainiert meine Löcher!"
 
 # game/code/e09/e09s01.rpy:623
 translate deutsch e09s01_continue_sex_8c1da280:
