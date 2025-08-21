@@ -614,7 +614,7 @@ translate deutsch e03s01_62da98c1:
 translate deutsch e03s01_9b0253c1:
 
     # sy "I just really hope you like the feels of {i}this{/i}, Lyssa."
-    sy "Ich hoffe nur, dass du das Gefühl von {i}diesem{/i} magst, Lyssa."
+    sy "Ich hoffe nur, dass du dieses {i}Gefühl{/i} magst, Lyssa."
 
 # game/code/e03/e03s01.rpy:476
 translate deutsch e03s01_f5590ed1:
