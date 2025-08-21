@@ -1424,7 +1424,7 @@ translate french d15s01_face_fucking_2c433fb4:
 translate french d15s01_face_fucking_0d68a069:
 
     # mc "You knew?"
-    mc "tu savais?"
+    mc "Tu savais?"
 
 # game/code/d15/d15s01.rpy:1094
 translate french d15s01_face_fucking_ebbc4375:
