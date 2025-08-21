@@ -164,7 +164,7 @@ translate french d15s01_def0ad19:
 translate french d15s01_5edc49c6:
 
     # lc "Just a box. It was delivered here this morning. Addressed to you."
-    lc "Juste une boîte. Il a été livré ici ce matin. Adressé à vous."
+    lc "Juste une boîte. Elle a été livré ici ce matin. Elle t'est adressé."
 
 # game/code/d15/d15s01.rpy:268
 translate french d15s01_0a0d77b3:
