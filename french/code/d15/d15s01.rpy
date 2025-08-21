@@ -482,13 +482,13 @@ translate french d15s01_cagedecision_dab0deea:
 translate french d15s01_cagedecision_5c07c7a4:
 
     # lc "If you are going to lose this game, it won't be because you weren't up for the challenge, or because you quit and gave up."
-    lc "Si vous allez perdre cette partie, ce ne sera pas parce que vous n'êtes pas prêt à relever le défi, ou parce que vous avez arrêtez et abandonnez.."
+    lc "Si tu vas perdre cette partie, ce ne sera pas parce que tu n'es pas prêt à relever le défi, ou parce que tu as arrêté et abandonné.."
 
 # game/code/d15/d15s01.rpy:428
 translate french d15s01_cagedecision_fd6fc90b:
 
     # lc "You lost a challenge. Sure, you're feeling down and disappointed with yourself."
-    lc "Vous avez perdu un défi. Bien sûr, vous vous sentez déprimé et déçu de vous-même."
+    lc "Tu as perdu un défi. Bien sûr, tu te sent déprimé et déçu de toi-même."
 
 # game/code/d15/d15s01.rpy:431
 translate french d15s01_cagedecision_019a10bc:
