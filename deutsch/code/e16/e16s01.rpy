@@ -722,7 +722,7 @@ translate deutsch e16s01_sex_2fe0f8c2:
 translate deutsch e16s01_sex_00355f8a:
 
     # mc "Now that was something."
-    mc Das war schon etwas Besonderes."
+    mc "Das war schon etwas Besonderes."
 
 # game/code/e16/e16s01.rpy:666
 translate deutsch e16s01_sex_73b2dd23:
