@@ -1388,7 +1388,7 @@ translate french d15s01_face_fucking_3ea01a2c:
 translate french d15s01_face_fucking_9c372f6a:
 
     # lc "Explain."
-    lc "Expliquer."
+    lc "Explique."
 
 # game/code/d15/d15s01.rpy:1073
 translate french d15s01_face_fucking_943ce31c:
