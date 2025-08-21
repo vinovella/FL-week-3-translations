@@ -452,7 +452,7 @@ translate french d15s01_cagedecision_11455b53:
 translate french d15s01_cagedecision_a3c5d05f:
 
     # lc "You failed once. You failed a challenge. And now you want to give up? You want to just quit the game?"
-    lc "Vous avez échoué une fois. Vous avez échoué à un défi. Et maintenant tu veux abandonner? Tu veux juste quitter le jeu?"
+    lc "Tu as échoué une fois. Tu as échoué à un défi. Et maintenant tu veux abandonner? Tu veux juste quitter le jeu?"
 
 # game/code/d15/d15s01.rpy:418
 translate french d15s01_cagedecision_3ab92e4b:
