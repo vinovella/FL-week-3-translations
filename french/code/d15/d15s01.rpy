@@ -380,7 +380,7 @@ translate french d15s01_cagedecision_ecc974f8:
 translate french d15s01_cagedecision_025138ba:
 
     # arj "You can't do that! It would-"
-    arj "Vous ne pouvez pas faire ça! Ce serait-"
+    arj "Tu ne peux pas faire ça! Ce serait-"
 
 # game/code/d15/d15s01.rpy:386
 translate french d15s01_cagedecision_dc4db0c7:
