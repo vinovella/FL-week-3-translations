@@ -1592,7 +1592,7 @@ translate french d15s01_face_fucking_7b96eaac:
 translate french d15s01_face_fucking_4a46eee1:
 
     # lc "I was talking about you. Learn the difference."
-    lc "Je parlais de toi. Apprenez la différence."
+    lc "Je parlais de toi. Apprends la différence."
 
 # game/code/d15/d15s01.rpy:1190
 translate french d15s01_face_fucking_04a5ef59:
