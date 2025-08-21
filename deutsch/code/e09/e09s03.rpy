@@ -410,7 +410,7 @@ translate deutsch e09s03_50037c10:
 translate deutsch e09s03_ec647b87:
 
     # mc "Bring it in."
-    mc "Bring es rein."
+    mc "Hände her."
 
 # game/code/e09/e09s03.rpy:247
 translate deutsch e09s03_5bad2f6d:
