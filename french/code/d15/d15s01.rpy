@@ -68,7 +68,7 @@ translate french d15s01_98c8094a:
 translate french d15s01_76c15206:
 
     # arj "You'll get them back after breakfast."
-    arj "Vous les récupérerez après le petit-déjeuner."
+    arj "Tu les récupéreras après le petit-déjeuner."
 
 # game/code/d15/d15s01.rpy:216
 translate french d15s01_e3ab8b2c:
