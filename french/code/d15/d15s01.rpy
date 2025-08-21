@@ -1370,7 +1370,7 @@ translate french d15s01_face_fucking_9d3775d3:
 translate french d15s01_face_fucking_6f80d560:
 
     # arj "I'm his."
-    arj "je suis à lui."
+    arj "Je suis à lui."
 
 # game/code/d15/d15s01.rpy:1069
 translate french d15s01_face_fucking_3059131f:
