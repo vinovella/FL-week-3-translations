@@ -626,7 +626,7 @@ translate deutsch e09s04_ffa89625:
 translate deutsch e09s04_1f5f79eb:
 
     # mc "All right, we have our glasses, we're on your boat - the hell is going on with you Hana?"
-    mc "Okay, wir haben unsere Brillen, wir sind auf deinem Boot – was zum Teufel ist mit dir los, Hana?"
+    mc "Okay, wir haben unsere Gläser, wir sind auf deinem Boot – was zum Teufel ist mit dir los, Hana?"
 
 # game/code/e09/e09s04.rpy:377
 translate deutsch e09s04_2dccb318:
