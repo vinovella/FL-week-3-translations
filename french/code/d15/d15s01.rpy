@@ -1616,7 +1616,7 @@ translate french d15s01_face_fucking_59f5b92b:
 translate french d15s01_face_fucking_0003c7cf:
 
     # lc "Yes, but when you're alone. Moments like this. What is your pet name for her?"
-    lc "Oui, mais quand tu es seul. Des moments comme celui-ci. Quel est ton nom d'animal pour elle?"
+    lc "Oui, mais quand vous etes seuls. Des moments comme celui-ci. Quel est ton nom d'animal pour elle?"
 
 # game/code/d15/d15s01.rpy:1200
 translate french d15s01_face_fucking_5912a854:
