@@ -1622,7 +1622,7 @@ translate deutsch e15s06_end_cae17a4b:
 translate deutsch e15s06_end_c4def86c:
 
     # mes "Take it you bitches."
-    mes „Nehmt das, ihr Schlampen."
+    mes "Nehmt das, ihr Schlampen."
 
 # game/code/e15/e15s06.rpy:911
 translate deutsch e15s06_end_31a21b8b:
