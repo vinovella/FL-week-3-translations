@@ -440,7 +440,7 @@ translate deutsch e15s01_end_of_day_9309cdbd:
 translate deutsch e15s01_end_of_day_9a7b88a1:
 
     # mes "I could sense how much Lydia's actions were hurting, [mcname]."
-    mes Ich konnte spüren, wie sehr Lydias Handlungen [mcname] verletzten."
+    mes "Ich konnte spüren, wie sehr Lydias Handlungen [mcname] verletzten."
 
 # game/code/e15/e15s01.rpy:437
 translate deutsch e15s01_end_of_day_f00d74c8:
