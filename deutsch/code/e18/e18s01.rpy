@@ -170,7 +170,7 @@ translate deutsch e18s01_2de3f307:
 translate deutsch e18s01_f800bed0_1:
 
     # mc "Yes."
-    mc ""
+    mc "Ja."
 
 # game/code/e18/e18s01.rpy:225
 translate deutsch e18s01_b5a2d71f:
