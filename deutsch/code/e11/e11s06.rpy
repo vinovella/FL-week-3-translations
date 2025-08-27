@@ -272,7 +272,7 @@ translate deutsch e11s06_sex_flashback_a244a992:
 translate deutsch e11s06_sex_flashback_8cc677a5:
 
     # mc "I'm not jealous... much."
-    mc Ich bin nicht eifersüchtig... nicht sehr."
+    mc "Ich bin nicht eifersüchtig... nicht sehr."
 
 # game/code/e11/e11s06.rpy:272
 translate deutsch e11s06_sex_flashback_0cefb0fa:
