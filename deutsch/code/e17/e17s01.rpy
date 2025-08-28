@@ -680,7 +680,7 @@ translate deutsch e17s01_hotel_bedroom_6451e86a:
 translate deutsch e17s01_hotel_bedroom_b252c13e:
 
     # dw "I'm American. We have a rule - always tip 20%%."
-    dw "Ich bin Amerikanerin. Wir haben eine Regel: Immer 20 % Trinkgeld geben."
+    dw "Ich bin Amerikanerin. Wir haben eine Regel: Immer 20%% Trinkgeld geben."
 
 # game/code/e17/e17s01.rpy:438
 translate deutsch e17s01_hotel_bedroom_fd670c12:
@@ -698,19 +698,19 @@ translate deutsch e17s01_hotel_bedroom_08a954ad:
 translate deutsch e17s01_hotel_bedroom_7f3e5540:
 
     # rs "I have to win to keep the 20%%?"
-    rs "Ich muss gewinnen, um die 20 % zu erhalten?"
+    rs "Ich muss gewinnen, um die 20%% zu erhalten?"
 
 # game/code/e17/e17s01.rpy:447
 translate deutsch e17s01_hotel_bedroom_2d07d280:
 
     # dw "No. The 20%% is what you get if you lose. I'll add a zero to that if you win."
-    dw "Nein. Die 20 % sind das, was du bekommst, wenn du verlierst. Wenn du gewinnst, füge ich noch eine Null hinzu."
+    dw "Nein. Die 20%% sind das, was du bekommst, wenn du verlierst. Wenn du gewinnst, füge ich noch eine Null hinzu."
 
 # game/code/e17/e17s01.rpy:450
 translate deutsch e17s01_hotel_bedroom_feffe374:
 
     # rs "200%% tip?!"
-    rs "200 % Trinkgeld?!"
+    rs "200%% Trinkgeld?!"
 
 # game/code/e17/e17s01.rpy:453
 translate deutsch e17s01_hotel_bedroom_c945c9ec:
@@ -854,7 +854,7 @@ translate deutsch e17s01_hotel_bedroom_479f11e2:
 translate deutsch e17s01_hotel_bedroom_a5e72c74:
 
     # rs "And if I lose, I still get a 20%% tip."
-    rs "Und wenn ich verliere, bekomme ich trotzdem 20 % Trinkgeld."
+    rs "Und wenn ich verliere, bekomme ich trotzdem 20%% Trinkgeld."
 
 # game/code/e17/e17s01.rpy:525
 translate deutsch e17s01_hotel_bedroom_2ba6b15c:
@@ -1112,13 +1112,13 @@ translate deutsch e17s01_sex_ec4d8ca8:
 translate deutsch e17s01_sex_4cce5c46:
 
     # dw "As for you, what did we agree on? 500%% tip?"
-    dw "Was hatten wir vereinbart? 500 % Trinkgeld?"
+    dw "Was hatten wir vereinbart? 500%% Trinkgeld?"
 
 # game/code/e17/e17s01.rpy:690
 translate deutsch e17s01_sex_17c060e9:
 
     # rs "I believe it was 200%%, Miss."
-    rs "Ich glaube, es waren 200 %, Fräulein."
+    rs "Ich glaube, es waren 200%%, Fräulein."
 
 # game/code/e17/e17s01.rpy:693
 translate deutsch e17s01_sex_55a24b5f:
