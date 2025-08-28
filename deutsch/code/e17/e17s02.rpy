@@ -992,7 +992,7 @@ translate deutsch replay_e17s02_75f87091:
 translate deutsch replay_e17s02_9336be7a:
 
     # gb "I am impressed so far with how well your submissive pleases you."
-    gb „Ich bin bisher beeindruckt, wie gut dein Unterwürfige dir gefällt."
+    gb "Ich bin bisher beeindruckt, wie gut dein Unterwürfiger dich erfreut."
 
 # game/code/e17/e17s02.rpy:558
 translate deutsch replay_e17s02_1038c451:
