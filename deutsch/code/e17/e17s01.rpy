@@ -818,13 +818,13 @@ translate deutsch e17s01_hotel_bedroom_c2d07d36:
 translate deutsch e17s01_hotel_bedroom_423c3dcb:
 
     # rs "I have over an hour to make him cum? In exchange for a 200%% tip on this order?"
-    rs "Ich habe über eine Stunde Zeit, um ihn zum Orgasmus zu bringen? Im Austausch für ein 200 %-Trinkgeld?"
+    rs "Ich habe über eine Stunde Zeit, um ihn zum Orgasmus zu bringen? Im Austausch für ein 200%%-Trinkgeld?"
 
 # game/code/e17/e17s01.rpy:507
 translate deutsch e17s01_hotel_bedroom_3029d6d3:
 
     # dw "Is it not enough? Shall I make it a 250%% tip?"
-    dw "Reicht das nicht? Soll ich 250 % Trinkgeld geben?"
+    dw "Reicht das nicht? Soll ich 250%% Trinkgeld geben?"
 
 # game/code/e17/e17s01.rpy:510
 translate deutsch e17s01_hotel_bedroom_7654a783:
