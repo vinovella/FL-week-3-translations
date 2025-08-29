@@ -998,7 +998,7 @@ translate deutsch replay_e17s02_9336be7a:
 translate deutsch replay_e17s02_1038c451:
 
     # dw "Thank you, Domina Gizela. It's taken a lot of work to get him here."
-    dw "Danke, Domina Gizela. Es hat viel Arbeit gekostet, ihn hierher zu bringen."
+    dw "Danke, Domina Gizela. Es hat viel Arbeit gekostet, ihn so weit zu kriegen."
 
 # game/code/e17/e17s02.rpy:559
 translate deutsch replay_e17s02_9f43283a:
