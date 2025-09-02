@@ -1080,7 +1080,7 @@ translate deutsch strings:
 
     # game/code/e07/e07s01.rpy:21
     old "Cuntlicker"
-    new "Fotzenlecker"
+    new "Fotzenleckerin"
 
     # game/code/e07/e07s01.rpy:22
     old "Skank"
