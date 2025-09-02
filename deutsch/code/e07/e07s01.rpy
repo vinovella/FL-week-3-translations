@@ -1040,7 +1040,7 @@ translate deutsch e07s01_after_choice_d191561c:
 translate deutsch e07s01_after_choice_b2e3cfa1:
 
     # lc "Clean up this mess."
-    lc "Räum dieses Chaos auf."
+    lc "Räumt dieses Chaos auf."
 
 # game/code/e07/e07s01.rpy:556
 translate deutsch e07s01_after_choice_119b38c9:
@@ -1072,7 +1072,7 @@ translate deutsch strings:
 
     # game/code/e07/e07s01.rpy:19
     old "Neanderthal"
-    new "Neanderthal"
+    new "Neanderthaler"
 
     # game/code/e07/e07s01.rpy:20
     old "Cocksucker"
