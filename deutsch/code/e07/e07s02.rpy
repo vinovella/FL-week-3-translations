@@ -992,7 +992,7 @@ translate deutsch e07s02_end_0d27b0b6:
 translate deutsch e07s02_end_7287520e:
 
     # lc "No. I was thinking that we could go have some fun in my friend's dungeon."
-    lc "Nein. Ich dachte, wir könnten uns in dem Verlies meines Freundes ein bisschen vergnügen."
+    lc "Nein. Ich dachte, wir könnten uns in dem Verlies einer Freundin ein bisschen vergnügen."
 
 # game/code/e07/e07s02.rpy:690
 translate deutsch e07s02_end_d83795d4:
