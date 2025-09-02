@@ -878,7 +878,7 @@ translate deutsch e07s02_bath_water_75bdccb5:
 translate deutsch e07s02_bath_water_f8900612:
 
     # lc "Your winnings, [e07_mcname!t]."
-    lc "Deine Gewinne, [e07_mcname!t]."
+    lc "Dein Gewinn, [e07_mcname!t]."
 
 # game/code/e07/e07s02.rpy:608
 translate deutsch e07s02_bath_water_b0ab7c45:
