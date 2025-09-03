@@ -440,7 +440,7 @@ translate deutsch e07s04_5d2ad08b:
 translate deutsch e07s04_b504e005:
 
     # pb "AmRose, you got some shit..."
-    pb "AmRose, du hast Scheiße..."
+    pb "AmRose, du hast da was..."
 
 # game/code/e07/e07s04.rpy:292
 translate deutsch e07s04_d31b49bc:
