@@ -1166,7 +1166,7 @@ translate deutsch e07s03_continue_3ab3c801:
 translate deutsch e07s03_continue_d3bc22cf:
 
     # gb "This one's nipples disgust me. Cover them up with some pincers and chain."
-    gb "Die Brustwarzen von dieser hier ekeln mich an. Bedeckt sie mit einer Zange und einer Kette."
+    gb "Die Brustwarzen von diesem hier ekeln mich an. Bedeckt sie mit Zangen und einer Kette."
 
 # game/code/e07/e07s03.rpy:672
 translate deutsch e07s03_continue_35fea058:
