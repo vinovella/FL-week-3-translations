@@ -1334,7 +1334,7 @@ translate deutsch e07s03_after_competition_789c9d8c:
 translate deutsch e07s03_after_competition_6000a6a7:
 
     # lc "Surely you didn't mean for your [e07_lcname!t] to not enjoy an orgasm because of your pathetic ego?"
-    lc "Du wolltest doch sicher nicht, dass deine [e07_lcname!t] wegen deines erbärmlichen Egos keinen Orgasmus hat?
+    lc "Du wolltest doch sicher nicht, dass deine [e07_lcname!t] wegen deines erbärmlichen Egos keinen Orgasmus hat?"
 
 # game/code/e07/e07s03.rpy:781
 translate deutsch e07s03_after_competition_3eb3e1a4:
