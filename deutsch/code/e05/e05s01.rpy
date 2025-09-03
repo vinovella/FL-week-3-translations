@@ -1814,7 +1814,7 @@ translate deutsch e05s01_sex_end_66f86de1:
 translate deutsch e05s01_sex_end_8f9e0ac5:
 
     # mh "Are you happy you decided to stay with us?"
-    mh "Bist du froh, dass er sich entschieden hast, bei uns zu bleiben?"
+    mh "Bist du froh, dass er sich entschieden hat, bei uns zu bleiben?"
 
 # game/code/e05/e05s01.rpy:1178
 translate deutsch e05s01_sex_end_8fd7233d:
