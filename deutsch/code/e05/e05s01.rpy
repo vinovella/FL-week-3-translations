@@ -866,7 +866,7 @@ translate deutsch e05s01_sex_1e9d0842:
 translate deutsch e05s01_sex_e77a2005:
 
     # op "Oh- Nnnnnng- Ms. Harris! [mcname]! If you-"
-    op "Oh- Nnnnnnng- Frau Harris! (mcname)! Wenn du..."
+    op "Oh- Nnnnnnng- Frau Harris! [mcname]! Wenn du..."
 
 # game/code/e05/e05s01.rpy:607
 translate deutsch e05s01_sex_287d4522:
