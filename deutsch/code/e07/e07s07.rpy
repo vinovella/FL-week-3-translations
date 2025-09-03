@@ -1532,7 +1532,7 @@ translate deutsch e07s07_vasectomy_7f2f5d4e:
 translate deutsch e07s07_vasectomy_918e2be4:
 
     # pb "What about me?"
-    pb Was ist mit mir?"
+    pb "Was ist mit mir?"
 
 # game/code/e07/e07s07.rpy:788
 translate deutsch e07s07_vasectomy_257fdfcb:
