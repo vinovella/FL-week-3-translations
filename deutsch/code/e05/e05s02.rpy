@@ -1466,7 +1466,7 @@ translate deutsch e05s02_mh_takes_opanalvirginity_61bf967a:
 translate deutsch e05s02_mh_takes_opanalvirginity_8654576d:
 
     # mh "I suddenly started needing it more ever since you showed up, [mcname]. So who's the real perv?"
-    mh "Seit du aufgetaucht bist, [McName], habe ich es plötzlich noch nötiger. Also, wer ist der echte Perverse?"
+    mh "Seit du aufgetaucht bist, [mcname], habe ich es plötzlich noch nötiger. Also, wer ist der echte Perverse?"
 
 # game/code/e05/e05s02.rpy:811
 translate deutsch e05s02_mh_takes_opanalvirginity_8d84c26d:
