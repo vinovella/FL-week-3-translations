@@ -200,7 +200,7 @@ translate deutsch e05s06_ac2ab937:
 translate deutsch e05s06_1b460de2:
 
     # mh "That's the other thing; 'one of us'. There are three of us - three opinions, three wants, and not to mention the law on polyamory."
-    mh "Das ist die andere Sache: "einer von uns". Wir sind zu dritt - drei Meinungen, drei Wünsche und nicht zu vergessen das Gesetz zur Polyamorie."
+    mh "Das ist die andere Sache: Einer von uns. Wir sind zu dritt - drei Meinungen, drei Wünsche und nicht zu vergessen das Gesetz zur Polyamorie."
 
 # game/code/e05/e05s06.rpy:166
 translate deutsch e05s06_6e919865:
