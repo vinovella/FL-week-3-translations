@@ -50,7 +50,7 @@ translate deutsch e05s04_d401431e:
 translate deutsch e05s04_c7d38c16:
 
     # tal "What'd I say about the 'Ms' shit?"
-    tal "Was habe ich über den "Frau"-Scheiß gesagt?"
+    tal "Was habe ich über den Frau-Scheiß gesagt?"
 
 # game/code/e05/e05s04.rpy:91
 translate deutsch e05s04_ed0803b9:
