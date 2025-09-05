@@ -32,7 +32,7 @@ translate deutsch e05s05_268f8b19:
 translate deutsch e05s05_a12b8793:
 
     # mc "'The suit maketh the man.'"
-    mc "Der Anzug macht den Mann"."
+    mc "Der Anzug macht den Mann."
 
 # game/code/e05/e05s05.rpy:57
 translate deutsch e05s05_96116553:
@@ -44,7 +44,7 @@ translate deutsch e05s05_96116553:
 translate deutsch e05s05_35af59c3:
 
     # mc "You know, 'the suit maketh the man.'{w} You didn't see that movie?"
-    mc "Du weißt ja: "Der Anzug macht den Mann." (w) Du hast den Film nicht gesehen?"
+    mc "Du weißt ja: Der Anzug macht den Mann.{w} Du hast den Film nicht gesehen?"
 
 # game/code/e05/e05s05.rpy:63
 translate deutsch e05s05_ec3d1897:
