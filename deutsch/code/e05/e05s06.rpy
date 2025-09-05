@@ -872,7 +872,7 @@ translate deutsch e05s06_sex_413b3480:
 translate deutsch e05s06_sex_ad686b65:
 
     # mh "God, yesss, please - Please fuck me, [mcname]."
-    mh "Gott, jaaaa, bitte - Bitte fick mich, [McName]."
+    mh "Gott, jaaaa, bitte - Bitte fick mich, [mcname]."
 
 # game/code/e05/e05s06.rpy:631
 translate deutsch e05s06_sex_0e37426f:
