@@ -608,7 +608,7 @@ translate deutsch e05s02_b7982340:
 translate deutsch e05s02_422c5eb0:
 
     # tal "Nope. If all you've got is 'plea deal', I'm out. So long, Fancy Pants."
-    tal "Nö. Wenn alles, was du zu bieten hast, "ein Deal" ist, bin ich raus. Mach's gut, Schickimicki."
+    tal "Nö. Wenn alles, was du zu bieten hast, ein Deal ist, bin ich raus. Mach's gut, Schickimicki."
 
 # game/code/e05/e05s02.rpy:357
 translate deutsch e05s02_31a14943:
