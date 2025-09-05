@@ -1172,7 +1172,7 @@ translate deutsch e05s06_sex_82604a56:
 translate deutsch e05s06_sex_348a857a:
 
     # mh "Yesss, pound me, [mcname]! Use me like you used me all day!"
-    mh "Jaaaa, schlag mich, [McName]! Benutze mich, wie du mich den ganzen Tag benutzt hast!"
+    mh "Jaaaa, fick mich, [mcname]! Benutze mich, wie du mich den ganzen Tag benutzt hast!"
 
 # game/code/e05/e05s06.rpy:771
 translate deutsch e05s06_sex_52ab5214:
