@@ -218,11 +218,11 @@ translate deutsch strings:
 translate deutsch replay_e13s04_4ae8355d:
 
     # nk "God... That was amazing..."
-    nk "God... That was amazing..."
+    nk "Gott... Das war unglaublich..."
 
 # game/code/e13/e13s04.rpy:214
 translate deutsch replay_e13s04_c133408e:
 
     # nk "*Loud moans* Yes, fuck... Yes! I love you, [mcname]."
-    nk "*Loud moans* Yes, fuck... Yes! I love you, [mcname]."
+    nk "*Lautes Stöhnen* Ja, fick mich... Ja! Ich liebe dich, [mcname]."
 
