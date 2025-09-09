@@ -1064,7 +1064,7 @@ translate deutsch e16s04_sex_d09e2509:
 translate deutsch e16s04_sex_54fd2e3d:
 
     # "Both" "*gulp*"
-    "Both" "*Schluck*"
+    "Beide" "*Schluck*"
 
 # game/code/e16/e16s04.rpy:698
 translate deutsch e16s04_sex_d9d4184c:
