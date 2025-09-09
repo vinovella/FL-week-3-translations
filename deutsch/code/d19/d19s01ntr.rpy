@@ -1076,11 +1076,11 @@ translate deutsch strings:
 translate deutsch d19s01ntr_decision_aeef075e:
 
     # lc "Easy words."
-    lc "Easy words."
+    lc "Einfache Worte."
 
 # game/code/d19/d19s01ntr.rpy:427
 translate deutsch d19s01ntr_decision_5b1e303f:
 
     # lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
-    lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
+    lc "Ich werde deine Hingabe auf die Probe stellen, sobald ich zurück bin, um dich zu holen... Wir nennen es eine kleine Überraschung."
 
