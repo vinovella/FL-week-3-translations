@@ -626,7 +626,7 @@ translate deutsch e17s05_sex_062d2acd:
 translate deutsch e17s05_sex_936e9f32:
 
     # dw "I know you do. I don't."
-    dw "I know you do. I don't."
+    dw "Ich weiß, dass du das tust. Ich habe es aber nicht."
 
 # game/code/e17/e17s05.rpy:344
 translate deutsch e17s05_sex_95b5e8e5:
