@@ -308,7 +308,7 @@ translate deutsch d15s01_thoughts_LC_2fbeeb00:
 translate deutsch d15s01_thoughts_LC_a9db4751:
 
     # mct "Love conquers the cage. Think about the name and what the note said."
-    "Liebe besiegt den Käfig. Denke über den Namen und was die Nachricht sagt."
+    mct "Liebe besiegt den Käfig. Denke über den Namen und was die Nachricht sagt."
 
 # game/code/d15/d15s01.rpy:372
 translate deutsch d15s01_thoughts_LC_8f6b4117:

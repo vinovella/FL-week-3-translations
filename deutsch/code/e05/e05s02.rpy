@@ -1340,7 +1340,7 @@ translate deutsch e05s02_mc_takes_opanalvirginity_0653d71b:
 translate deutsch e05s02_mc_takes_opanalvirginity_6050d384:
 
     # op "Wow. T-thank you, [mcname]."
-    op "Wow! D-Danke, [McName]."
+    op "Wow! D-Danke, [mcname]."
 
 # game/code/e05/e05s02.rpy:752
 translate deutsch e05s02_mc_takes_opanalvirginity_833dfcdd:

@@ -218,7 +218,7 @@ translate deutsch e06s07_47f7437f:
 translate deutsch e06s07_debd037a:
 
     # mh "*whisper* Let's start the show."
-    mc "*flüstert* Lasst uns mit der Show beginnen."
+    mh "*flüstert* Lasst uns mit der Show beginnen."
 
 # game/code/e06/e06s07.rpy:129
 translate deutsch e06s07_dc984fe9:
