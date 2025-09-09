@@ -352,7 +352,7 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Public Toilet"
-    new "Ending 07: Public Toilet"
+    new "Ending 07: Öffentliche Toilette"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia & AmRose"
@@ -370,15 +370,15 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie and Molly"
-    new "Ending 16: Jessie and Molly"
+    new "Ending 16: Jessie und Molly"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie and Kanya"
-    new "Ending 16: Jessie and Kanya"
+    new "Ending 16: Jessie und Kanya"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Sage and Kristen"
-    new "Ending 16: Sage and Kristen"
+    new "Ending 16: Sage und Kristen"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie, Molly, Sage & Kristen"
