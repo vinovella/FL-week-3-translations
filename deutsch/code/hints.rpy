@@ -1208,273 +1208,273 @@ translate deutsch strings:
 
     # game/code/hints.rpy:5
     old "Keep your name as it is."
-    new "Keep your name as it is."
+    new "Behalte deinen Namen so, wie er ist."
 
     # game/code/hints.rpy:5
     old "Change your name to \"Warden\"."
-    new "Change your name to \"Warden\"."
+    new "Ändere deinen Namen in \"Warden\"."
 
     # game/code/hints.rpy:5
     old "Enter your own name."
-    new "Enter your own name."
+    new "Gebe einen eigenen Namen ein."
 
     # game/code/hints.rpy:5
     old "Order Lydia to get started sucking cock."
-    new "Order Lydia to get started sucking cock."
+    new "Befiehl Lydia, mit dem Schwanzlutschen anzufangen."
 
     # game/code/hints.rpy:5
     old "Take Lydia home without making her work at the gloryhole."
-    new "Take Lydia home without making her work at the gloryhole."
+    new "Bring Lydia nach Hause, ohne sie am Gloryhole arbeiten zu lassen."
 
     # game/code/hints.rpy:5
     old "And they lived happily ever after."
-    new "And they lived happily ever after."
+    new "Und sie lebten glücklich bis ans Ende ihrer Tage."
 
     # game/code/hints.rpy:5
     old "Even a favorite toy is only happy when someone plays with it."
-    new "Even a favorite toy is only happy when someone plays with it."
+    new "Selbst ein Lieblingsspielzeug ist nur glücklich, wenn jemand auch damit spielt."
 
     # game/code/hints.rpy:5
     old "Annihilate the last threads of Lydia's existence."
-    new "Annihilate the last threads of Lydia's existence."
+    new "Vernichte die letzten Spuren von Lydias Existenz."
 
     # game/code/hints.rpy:5
     old "Might affect dialogue and nicknames for this ending."
-    new "Might affect dialogue and nicknames for this ending."
+    new "Kann sich auf Dialoge und Spitznamen für dieses Ende auswirken."
 
     # game/code/hints.rpy:5
     old "Uses default dialogue and nicknames for this ending."
-    new "Uses default dialogue and nicknames for this ending."
+    new "Verwendet Standarddialoge und Spitznamen für dieses Ende."
 
     # game/code/hints.rpy:5
     old "Might impact dialogue and nicknames for this ending."
-    new "Might impact dialogue and nicknames for this ending."
+    new "Könnte sich auf Dialoge und Spitznamen für dieses Ende auswirken."
 
     # game/code/hints.rpy:5
     old "Surrender and get kicked out of Lydia's home."
-    new "Surrender and get kicked out of Lydia's home."
+    new "Gib auf und werde aus Lydias Haus geworfen."
 
     # game/code/hints.rpy:5
     old "Drink your full and continue Lydia's contest."
-    new "Drink your full and continue Lydia's contest."
+    new "Trink dein Glas aus und mach mit bei Lydias Wettbewerb."
 
     # game/code/hints.rpy:5
     old "This is some scary shit."
-    new "This is some scary shit."
+    new "Das ist echt beängstigend."
 
     # game/code/hints.rpy:5
     old "Whatever Lydia wants, I'll give it to her."
-    new "Whatever Lydia wants, I'll give it to her."
+    new "Was auch immer Lydia will, ich werde es ihr geben."
 
     # game/code/hints.rpy:5
     old "Slow and steady loses the race this time."
-    new "Slow and steady loses the race this time."
+    new "Langsam und stetig verliert diesmal das Rennen."
 
     # game/code/hints.rpy:5
     old "Give 110 percent and win the match."
-    new "Give 110 percent and win the match."
+    new "Gib 110 Prozent und gewinne das Spiel."
 
     # game/code/hints.rpy:5
     old "Stick your finger in Pete's ass and win the gloryhole challenge."
-    new "Stick your finger in Pete's ass and win the gloryhole challenge."
+    new "Steck deinen Finger in Petes Arsch und gewinne die Gloryhole-Challenge."
 
     # game/code/hints.rpy:5
     old "Do your best, but eventually lose the gloryhole challenge."
-    new "Do your best, but eventually lose the gloryhole challenge."
+    new "Gib dein Bestes, aber verliere letztendlich die Gloryhole-Challenge."
 
     # game/code/hints.rpy:5
     old "Watch Pete creampie Lydia and AmRose, then get vasectomized by Jerome."
-    new "Watch Pete creampie Lydia and AmRose, then get vasectomized by Jerome."
+    new "Sieh zu, wie Pete Lydia und AmRose schwängert und lass dich dann von Jerome sterilisieren."
 
     # game/code/hints.rpy:5
     old "Refuse to see this ending to its proper conclusion"
-    new "Refuse to see this ending to its proper conclusion"
+    new "Weigere dich, dieses Ende bis zu seinem richtigen Abschluss zu sehen"
 
     # game/code/hints.rpy:5
     old "Slurp out Pete's cum from inside Am-Rose' pussy."
-    new "Slurp out Pete's cum from inside Am-Rose' pussy."
+    new "Schlürfe Petes Sperma aus Am-Roses Muschi."
 
     # game/code/hints.rpy:5
     old "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
-    new "Refuse to suck out Pete's cum from inside Am-Rose' pussy."
+    new "Weigere dich, Petes Sperma aus Am-Roses Muschi herauszusaugen."
 
     # game/code/hints.rpy:5
     old "Be prepared for the challenge, and improve your chances of winning."
-    new "Be prepared for the challenge, and improve your chances of winning."
+    new "Sei auf die Herausforderung vorbereitet und verbessere deine Gewinnchancen."
 
     # game/code/hints.rpy:5
     old "Maybe she'll choose someone else, take the risk of not being ready."
-    new "Maybe she'll choose someone else, take the risk of not being ready."
+    new "Vielleicht entscheidet sie sich für jemand anderen und geht das Risiko ein, noch nicht bereit zu sein."
 
     # game/code/hints.rpy:5
     old "What could be waiting for you?"
-    new "What could be waiting for you?"
+    new "Was könnte auf dich warten?"
 
     # game/code/hints.rpy:5
     old "What's she got planned next?"
-    new "What's she got planned next?"
+    new "Was hat sie als Nächstes vor?"
 
     # game/code/hints.rpy:5
     old "What's in store for you now?"
-    new "What's in store for you now?"
+    new "Was erwartet dich jetzt?"
 
     # game/code/hints.rpy:5
     old "Lose option for Polly & Nora Threesome ending."
-    new "Lose option for Polly & Nora Threesome ending."
+    new "Option auf das Polly & Nora Dreier-Ende verlieren."
 
     # game/code/hints.rpy:5
     old "Increases chance of Polly & Nora Threesome ending."
-    new "Increases chance of Polly & Nora Threesome ending."
+    new "Erhöht die Wahrscheinlichkeit auf ein Polly & Nora-Dreier-Ende."
 
     # game/code/hints.rpy:5
     old "This option skips the blowjob scene. Scene goes to indoors."
-    new "This option skips the blowjob scene. Scene goes to indoors."
+    new "Diese Option überspringt die Blowjob-Szene. Die Szene wechselt nach drinnen."
 
     # game/code/hints.rpy:5
     old "Disobey Lydia and lose the challenge."
-    new "Disobey Lydia and lose the challenge."
+    new "Lydia nicht gehorchen und die Herausforderung verlieren."
 
     # game/code/hints.rpy:5
     old "Prove your devotion to Lydia and win the challenge."
-    new "Prove your devotion to Lydia and win the challenge."
+    new "Beweise Lydia deine Hingabe und gewinne die Herausforderung."
 
     # game/code/hints.rpy:5
     old "Disappoint Lydia and be the loser."
-    new "Disappoint Lydia and be the loser."
+    new "Enttäusche Lydia und sei der Verlierer."
 
 translate deutsch strings:
 
     # game/code/hints.rpy:5
     old "You take Oliver's anal virginity."
-    new "You take Oliver's anal virginity."
+    new "Du nimmst Oliver seine anale Jungfräulichkeit."
 
     # game/code/hints.rpy:5
     old "Lyssa takes Oliver's anal virginity."
-    new "Lyssa takes Oliver's anal virginity."
+    new "Lyssa nimmt Oliver seine anale Jungfräulichkeit."
 
     # game/code/hints.rpy:5
     old "Oliver will felch out his own cum."
-    new "Oliver will felch out his own cum."
+    new "Oliver wird sein eigenes Sperma heraussaugen."
 
     # game/code/hints.rpy:5
     old "Oliver will lick up his own cum."
-    new "Oliver will lick up his own cum."
+    new "Oliver wird sein eigenes Sperma auflecken."
 
     # game/code/hints.rpy:5
     old "You eat the cum off Oliver's face."
-    new "You eat the cum off Oliver's face."
+    new "Du leckst das Sperma von Olivers Gesicht."
 
     # game/code/hints.rpy:5
     old "You don't eat the cum off Oliver's face."
-    new "You don't eat the cum off Oliver's face."
+    new "Du leckst nicht Olivers Sperma von seinem Gesicht."
 
     # game/code/hints.rpy:5
     old "Watch Gemma release on Stacy."
-    new "Watch Gemma release on Stacy."
+    new "Beobachte, wie Gemma sich auf Stacy ergießt."
 
     # game/code/hints.rpy:5
     old "Gemma lets her enema go."
-    new "Gemma lets her enema go."
+    new "Gemma lässt ihren Einlauf laufen."
 
     # game/code/hints.rpy:5
     old "Drink some of Min's pee."
-    new "Drink some of Min's pee."
+    new "Trink etwas von Mins Urin."
 
     # game/code/hints.rpy:5
     old "Don't drink Min's pee."
-    new "Don't drink Min's pee."
+    new "Trink nicht Mins Urin."
 
     # game/code/hints.rpy:5
     old "Stacy holds your dick while you pee."
-    new "Stacy holds your dick while you pee."
+    new "Stacy hält deinen Schwanz, während du pinkelst."
 
     # game/code/hints.rpy:5
     old "Stacy gives you a rimjob while you pee."
-    new "Stacy gives you a rimjob while you pee."
+    new "Stacy leckt dir den Anus, während du pinkelst."
 
     # game/code/hints.rpy:5
     old "Unlock more Male on Male content with Pete."
-    new "Unlock more Male on Male content with Pete."
+    new "Schalte mit Pete mehr Inhalte von Mann zu Mann frei."
 
     # game/code/hints.rpy:5
     old "Locks Male on Male content with Pete."
-    new "Locks Male on Male content with Pete."
+    new "Sperrt Mann zu Mann Inhalte mit Pete."
 
     # game/code/hints.rpy:5
     old "Make Dahlia happy, and maybe she'll be nicer to you."
-    new "Make Dahlia happy, and maybe she'll be nicer to you."
+    new "Mach Dahlia glücklich, dann ist sie vielleicht netter zu dir."
 
     # game/code/hints.rpy:5
     old "Agree to suck Pete's dick."
-    new "Agree to suck Pete's dick."
+    new "Einverstanden, Petes Schwanz zu lutschen."
 
     # game/code/hints.rpy:5
     old "Avoid male on male content with Pete."
-    new "Avoid male on male content with Pete."
+    new "Vermeide Mann zu Mann Inhalte mit Pete."
 
     # game/code/hints.rpy:5
     old "Be more confident with Samiya."
-    new "Be more confident with Samiya."
+    new "Sei selbstbewusster mit Samiya."
 
     # game/code/hints.rpy:5
     old "Let Samiya tease you."
-    new "Let Samiya tease you."
+    new "Lass dich von Samiya necken."
 
     # game/code/hints.rpy:5
     old "Score some points with Samiya."
-    new "Score some points with Samiya."
+    new "Sammel Punkte bei Samiya."
 
     # game/code/hints.rpy:5
     old "Agree that it would be good to get a bigger place."
-    new "Agree that it would be good to get a bigger place."
+    new "Ich stimme zu, dass es gut wäre, eine größere Wohnung zu suchen."
 
     # game/code/hints.rpy:5
     old "Tell Samiya you'd love seeing her in the dress."
-    new "Tell Samiya you'd love seeing her in the dress."
+    new "Sag Samiya, dass du sie gerne in dem Kleid sehen würdest."
 
     # game/code/hints.rpy:5
     old "Samiya will be glad you care that much about her happiness."
-    new "Samiya will be glad you care that much about her happiness."
+    new "Samiya wird sich freuen, dass dir ihr Glück so sehr am Herzen liegt."
 
     # game/code/hints.rpy:5
     old "Make Samiya say she wants to get fucked hard."
-    new "Make Samiya say she wants to get fucked hard."
+    new "Bring Samiya dazu, zu sagen, dass sie hart gefickt werden will."
 
     # game/code/hints.rpy:5
     old "Ask her what is going on."
-    new "Ask her what is going on."
+    new "Frag sie, was los ist."
 
     # game/code/hints.rpy:5
     old "Unlock one more scene with male on male content."
-    new "Unlock one more scene with male on male content."
+    new "Schalte eine weitere Mann zu Mann Szene frei."
 
     # game/code/hints.rpy:5
     old "Skip male on male content with Pete."
-    new "Skip male on male content with Pete."
+    new "Überspringe Inhalte von Mann zu Mann mit Pete."
 
 translate deutsch strings:
 
     # game/code/hints.rpy:5
     old "Lyssa will fuck you in the ass."
-    new "Lyssa will fuck you in the ass."
+    new "Lyssa wird dich in den Arsch ficken."
 
     # game/code/hints.rpy:5
     old "Lyssa will not fuck you in the ass."
-    new "Lyssa will not fuck you in the ass."
+    new "Lyssa wird dich nicht in den Arsch ficken."
 
     # game/code/hints.rpy:5
     old "Watersports scene with Lyssa."
-    new "Watersports scene with Lyssa."
+    new "Wassersportszene mit Lyssa."
 
     # game/code/hints.rpy:5
     old "This will skip the watersports scene with Lyssa."
-    new "This will skip the watersports scene with Lyssa."
+    new "Dadurch wird die Wassersportszene mit Lyssa übersprungen."
 
     # game/code/hints.rpy:5
     old "You and Allison fuck the Judge."
-    new "You and Allison fuck the Judge."
+    new "Du und Allison, fickt die Richterin."
 
     # game/code/hints.rpy:5
     old "You don't fuck the Judge."
-    new "You don't fuck the Judge."
+    new "Du fickst nicht die Richterin."
 
