@@ -2272,95 +2272,95 @@ translate deutsch strings:
 translate deutsch d21s06_waterfall_0992f61d:
 
     # mc "Yes. I want to do this with you, Min."
-    mc "Yes. I want to do this with you, Min."
+    mc "Ja. Ich möchte das mit dir machen, Min."
 
 # game/code/d21/d21s06.rpy:1052
 translate deutsch d21s06_wellness_spa_2ece8a99:
 
     # mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
-    mes "People are looking for an experience that will fulfill their sexual fantasies, and we're here to provide it to them."
+    mes "Die Menschen suchen nach einer Erfahrung, die ihre sexuellen Fantasien erfüllt, und wir sind hier, um ihnen diese zu bieten."
 
 # game/code/d21/d21s06.rpy:1093
 translate deutsch d21s06_wellness_spa_8a7edf54:
 
     # mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
-    mes "That won't be the hard part. The hard part will be getting the building ready and building a customer base so we turn a profit."
+    mes "Das wird nicht das Schwierige daran sein. Das Schwierige wird sein, das Gebäude fertigzustellen und einen Kundenstamm aufzubauen, damit wir Gewinne erzielen können."
 
 # game/code/d21/d21s06.rpy:1099
 translate deutsch d21s06_wellness_spa_699caa95:
 
     # arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
-    arj "It will be. I'm sorry [mcname], but I can't join you for this. At least not now."
+    arj "Das wird es auch. Es tut mir leid, [mcname], aber ich kann dabei nicht mitmachen. Zumindest jetzt noch nicht."
 
 # game/code/d21/d21s06.rpy:1100
 translate deutsch d21s06_wellness_spa_c425dcb9:
 
     # arj "I need to finish college."
-    arj "I need to finish college."
+    arj "Ich muss mein Studium beenden."
 
 # game/code/d21/d21s06.rpy:1102
 translate deutsch d21s06_wellness_spa_43c9e2c9:
 
     # mes "Understandable. But you're still in, right [mcname]?"
-    mes "Understandable. But you're still in, right [mcname]?"
+    mes "Verständlich. Aber du bist doch noch dabei, oder [mcname]?"
 
 # game/code/d21/d21s06.rpy:1104
 translate deutsch d21s06_wellness_spa_5844ae44:
 
     # mc "Hell yeah."
-    mc "Hell yeah."
+    mc "Verdammt ja."
 
 # game/code/d21/d21s06.rpy:1107
 translate deutsch d21s06_wellness_spa_591bfaae:
 
     # mes "Excellent. Then I'm going to continue on the planning."
-    mes "Excellent. Then I'm going to continue on the planning."
+    mes "Ausgezeichnet. Dann werde ich mit der Planung fortfahren."
 
 # game/code/d21/d21s06.rpy:1110
 translate deutsch d21s06_wellness_spa_dbcc212b:
 
     # mes "You should come over and we can start working on the details."
-    mes "You should come over and we can start working on the details."
+    mes "Du solltest vorbeikommen, dann können wir mit den Details anfangen."
 
 # game/code/d21/d21s06.rpy:1111
 translate deutsch d21s06_wellness_spa_546d00c0:
 
     # mc "I'll be right there."
-    mc "I'll be right there."
+    mc "Ich bin gleich da."
 
 # game/code/d21/d21s06.rpy:582
 translate deutsch d21s06_reboot_fl_6d5e9610:
 
     # mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
-    mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
+    mc "Nennen wir es{w} {b}Fetish Locator Rebooted!{/b}"
 
 # game/code/d21/d21s06.rpy:584
 translate deutsch d21s06_reboot_fl_304163ca:
 
     # sy "I love it."
-    sy "I love it."
+    sy "Ich liebe es."
 
 # game/code/d21/d21s06.rpy:587
 translate deutsch d21s06_reboot_fl_b23fc0ce:
 
     # arj "It's perfect. On point and easy to understand."
-    arj "It's perfect. On point and easy to understand."
+    arj "Es ist perfekt. Auf den Punkt gebracht und leicht verständlich."
 
 # game/code/d21/d21s06.rpy:684
 translate deutsch d21s06_reboot_fl_d0e75550:
 
     # arj "Okay, okay. I don't think you guys have any ill will like Lydia."
-    arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+    arj "Okay, okay. Ich glaube nicht, dass ihr so böse seid wie Lydia."
 
 # game/code/d21/d21s06.rpy:696
 translate deutsch d21s06_reboot_fl_82e617fe:
 
     # arj "All the cons I stated. No lies. No deceit, and no manipulation."
-    arj "All the cons I stated. No lies. No deceit, and no manipulation."
+    arj "Alle Nachteile habe ich genannt. Keine Lügen. Kein Betrug und keine Manipulation."
 
 # game/code/d21/d21s06.rpy:731
 translate deutsch d21s06_reboot_fl_041fcc70:
 
     # sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
-    sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
+    sy "Nun wollen wir damit beginnen, einige der Feinheiten zu klären, beispielsweise wer die ersten Personen sind, die wir mit einbeziehen."
 
