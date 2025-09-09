@@ -176,7 +176,7 @@ translate deutsch e11s05_39b9964b:
 translate deutsch e11s05_aa077571:
 
     # "Sir Douchebag" "You look so fine, you sweet thing. Tell me your name - I'm dying here."
-    "Sir Douchebag" "Du siehst so gut aus, du Süße. Sag mir deinen Namen – ich sterbe hier."
+    "Herr Arschloch" "Du siehst so gut aus, du Süße. Sag mir deinen Namen – ich sterbe sonst hier."
 
 # game/code/e11/e11s05.rpy:116
 translate deutsch e11s05_662a6887:
@@ -194,7 +194,7 @@ translate deutsch e11s05_86d8c7c1:
 translate deutsch e11s05_de993e8e:
 
     # "Sir Douchebag" "Sorry brah, I didn't realize."
-    "Sir Douchebag" "Tut mir leid, Mann, das war mir nicht klar."
+    "Herr Arschloch" "Tut mir leid, Mann, das war mir nicht klar."
 
 # game/code/e11/e11s05.rpy:124
 translate deutsch e11s05_5e28d062:
@@ -218,7 +218,7 @@ translate deutsch e11s05_31991183:
 translate deutsch e11s05_31092875:
 
     # "Elderly Gentleman" "Damn!"
-    "Elderly Gentleman" "Verdammt!"
+    "Älterer Herr" "Verdammt!"
 
 # game/code/e11/e11s05.rpy:135
 translate deutsch e11s05_ec108d23:
@@ -284,7 +284,7 @@ translate deutsch e11s05_3ec1a776:
 translate deutsch e11s05_edd2ba12:
 
     # "Sir Douchebag" "Holy Shit!"
-    "Sir Douchebag" "Heilige Scheiße!"
+    "Herr Arschloch" "Heilige Scheiße!"
 
 # game/code/e11/e11s05.rpy:168
 translate deutsch e11s05_eea1e680:
