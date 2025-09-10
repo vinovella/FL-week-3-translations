@@ -1748,7 +1748,7 @@ translate deutsch e09s06_part_3_8baf4c74:
 translate deutsch e09s06_part_3_0e9501a9:
 
     # "Everyone" "WOOOOOOOO!!!"
-    "Everyone" "WOOOOOOOO!!!"
+    "Jeder" "WOOOOOOOO!!!"
 
 # game/code/e09/e09s06.rpy:834
 translate deutsch e09s06_part_3_7cf3bb31:
