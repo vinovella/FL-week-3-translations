@@ -98,13 +98,13 @@ translate deutsch strings:
 
     # game/code/screens/extended/screens.rpy:236
     old "Wishlist Fetish Locator: S&M Studio on Steam"
-    new "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "Wunschliste Fetisch-Finder: S&M Studio auf Steam"
 
     # game/code/screens/extended/screens.rpy:238
     old "Get Fetish Locator: S&M Studio on Steam"
-    new "Get Fetish Locator: S&M Studio on Steam"
+    new "Hole dir Fetish Locator: S&M Studio auf Steam"
 
     # game/code/screens/extended/screens.rpy:251
     old "Watch Fetish Locator: S&M Studio trailer"
-    new "Watch Fetish Locator: S&M Studio trailer"
+    new "Trailer zu Fetish Locator: S&M Studio ansehen"
 
