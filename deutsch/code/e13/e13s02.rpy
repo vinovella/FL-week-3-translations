@@ -366,11 +366,11 @@ translate deutsch strings:
 translate deutsch e13s02_e5e5853b:
 
     # "Customer" "Aww, but..."
-    "Customer" "Aww, but..."
+    "Kunde" "Ach, aber..."
 
 # game/code/e13/e13s02.rpy:200
 translate deutsch replay_e13s02_e2a7aa61:
 
     # nk "Actually... You know what? Sit down."
-    nk "Actually... You know what? Sit down."
+    nk "Eigentlich... Weißt du was? Setz dich."
 
