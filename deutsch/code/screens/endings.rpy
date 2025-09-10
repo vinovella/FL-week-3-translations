@@ -34,3 +34,9 @@ translate deutsch strings:
     old "Download free DLC containing this ending"
     new "Lade den kostenlosen DLC mit diesem Ende herunter."
 
+translate deutsch strings:
+
+    # game/code/screens/endings.rpy:69
+    old "Get DLC-2 containing this ending"
+    new "Get DLC-2 containing this ending"
+

@@ -288,3 +288,17 @@ translate deutsch strings:
     old "{u}Get Taboo University Book 1 on Steam{/u}"
     new "{u}Hole dir Taboo University Book 1 auf Steam{/u}"
 
+translate deutsch strings:
+
+    # game/code/screens/screens_fl.rpy:1396
+    old "{u}Get Taboo University Book 1 on GOG{/u}"
+    new "{u}Get Taboo University Book 1 on GOG{/u}"
+
+    # game/code/screens/screens_fl.rpy:1423
+    old "Wishlist Fetish Locator: S&M Studio on GOG"
+    new "Wishlist Fetish Locator: S&M Studio on GOG"
+
+    # game/code/screens/screens_fl.rpy:1425
+    old "Get Fetish Locator: S&M Studio on GOG"
+    new "Get Fetish Locator: S&M Studio on GOG"
+
