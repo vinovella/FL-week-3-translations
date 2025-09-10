@@ -704,5 +704,5 @@ translate deutsch strings:
 translate deutsch d18s05_after_sex_ec16ba99:
 
     # sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
-    sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
+    sb "Ich hasse diesen Ort. Es ist eine verdammte Betonwüste. Ich brauche eine Reise, um mich zu entspannen."
 
