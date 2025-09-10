@@ -270,7 +270,7 @@ translate deutsch strings:
 
     # game/code/screens/screens_fl.rpy:296
     old "{b}Y{/b} - Hide UI"
-    new "{b}Y{/b} - Benutzeroberfläche ausblenden"
+    new "{b}Y{/b} - Hide UI"
 
     # game/code/screens/screens_fl.rpy:297
     old "Roll Forward"
