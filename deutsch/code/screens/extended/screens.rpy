@@ -70,7 +70,7 @@ translate deutsch strings:
 
     # game/code/screens/extended/screens.rpy:423
     old "REPLAY ROOM"
-    new "WIEDERHOLUNGS RAUM"
+    new "WIEDERHOLUNGS\nRAUM"
 
     # game/code/screens/extended/screens.rpy:440
     old "BONUS CONTENT"
