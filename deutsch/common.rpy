@@ -758,7 +758,7 @@ translate deutsch strings:
 
     # renpy/common/00gltest.rpy:97
     old "Enable"
-    new "Enable"
+    new "Aktivieren"
 
     # renpy/common/00gltest.rpy:131
     old "Powersave"
@@ -1266,7 +1266,7 @@ translate deutsch strings:
 
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
-    new "Sync downloaded."
+    new "Synchronisierung heruntergeladen."
 
     # renpy/common/00sync.rpy:190
     old "Could not connect to the Ren'Py Sync server."
@@ -1364,35 +1364,35 @@ translate deutsch strings:
 
     # renpy/common/00preferences.rpy:438
     old "self voicing enable"
-    new "self voicing enable"
+    new "Selbstausgabe aktivieren"
 
     # renpy/common/00preferences.rpy:440
     old "self voicing disable"
-    new "self voicing disable"
+    new "Selbstausgabe deaktivieren"
 
     # renpy/common/00preferences.rpy:455
     old "clipboard voicing enable"
-    new "clipboard voicing enable"
+    new "Zwischenablage-Sprachausgabe aktivieren"
 
     # renpy/common/00preferences.rpy:457
     old "clipboard voicing disable"
-    new "clipboard voicing disable"
+    new "Zwischenablage-Sprachausgabe deaktivieren"
 
     # renpy/common/00preferences.rpy:464
     old "debug voicing enable"
-    new "debug voicing enable"
+    new "Debug-Sprachausgabe aktivieren"
 
     # renpy/common/00preferences.rpy:466
     old "debug voicing disable"
-    new "debug voicing disable"
+    new "Debug-Sprachausgabe deaktivieren"
 
     # renpy/common/00preferences.rpy:586
     old "restore window position"
-    new "restore window position"
+    new "Fensterposition wiederherstellen"
 
     # renpy/common/00preferences.rpy:595
     old "reset"
-    new "reset"
+    new "zurücksetzen"
 
     # renpy/common/00speechbubble.rpy:408
     old "(clear retained bubbles)"
@@ -1438,49 +1438,49 @@ translate deutsch strings:
 
     # renpy/common/00accessibility.rpy:188
     old "Disable"
-    new "Disable"
+    new "Deaktivieren"
 
     # renpy/common/00accessibility.rpy:220
     old "Voice Volume"
-    new "Voice Volume"
+    new "Sprachlautstärke"
 
     # renpy/common/00accessibility.rpy:242
     old "Return"
-    new "Return"
+    new "Zurückkehren"
 
     # renpy/common/00action_file.rpy:675
     old "Page {}"
-    new "Page {}"
+    new "Seite {}"
 
     # renpy/common/00action_file.rpy:675
     old "Automatic saves"
-    new "Automatic saves"
+    new "Automatische Speicherung"
 
     # renpy/common/00action_file.rpy:675
     old "Quick saves"
-    new "Quick saves"
+    new "Schnellspeichern"
 
     # renpy/common/00sync.rpy:448
     old "Yes"
-    new "Yes"
+    new "Ja"
 
     # renpy/common/00sync.rpy:449
     old "No"
-    new "No"
+    new "Nein"
 
     # renpy/common/00sync.rpy:526
     old "Continue"
-    new "Continue"
+    new "Weiter"
 
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
-    new "Translation identifier: [identifier]"
+    new "Übersetzungs-ID: [identifier]"
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
-    new " translates [tl.filename]:[tl.linenumber]"
+    new " übersetzt [tl.filename]:[tl.linenumber]"
 
     # renpy/common/00translation.rpy:101
     old "\n{color=#fff}Copied to clipboard.{/color}"
-    new "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}In die Zwischenablage kopiert.{/color}"
 
