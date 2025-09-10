@@ -9,7 +9,7 @@ translate deutsch strings:
     new "Fetish Locator"
 
     old "Fetish Master"
-    new "Fetish Master"
+    new "Fetisch Meister"
 
     old "Pete"
     new "Pete"
@@ -141,7 +141,7 @@ translate deutsch strings:
     new "Lily"
 
     old "Room Service"
-    new "Room Service"
+    new "Zimmerservice"
 
     old "Domina"
     new "Domina"
@@ -153,7 +153,7 @@ translate deutsch strings:
     new "Gary"
 
     old "Molly the Dog"
-    new "Molly the Dog"
+    new "Molly die Hündin"
 
     old "Ryan"
     new "Ryan"
@@ -168,5 +168,5 @@ translate deutsch strings:
     new "Kristen"
 
     old "High Priestess"
-    new "High Priestess"
+    new "Hohepriesterin"
 
