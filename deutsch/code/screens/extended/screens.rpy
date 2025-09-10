@@ -70,7 +70,7 @@ translate deutsch strings:
 
     # game/code/screens/extended/screens.rpy:423
     old "REPLAY ROOM"
-    new "WIEDERHOLUNGS\nRAUM"
+    new "WIEDERHOLUNGS RAUM"
 
     # game/code/screens/extended/screens.rpy:440
     old "BONUS CONTENT"
@@ -80,17 +80,17 @@ translate deutsch strings:
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"
-    new "Get free DLC containing 6 endings from Steam"
+    new "Hole dir den kostenlosen DLC mit 6 Enden bei Steam."
 
 translate deutsch strings:
 
     # game/code/screens/extended/screens.rpy:227
     old "Buy Taboo University on Steam"
-    new "Buy Taboo University on Steam"
+    new "Kaufe Taboo University auf Steam"
 
 translate deutsch strings:
 
     # game/code/screens/extended/screens.rpy:267
     old "Get DLC-2 containing 6 additional endings from Steam"
-    new "Get DLC-2 containing 6 additional endings from Steam"
+    new "Hole dir DLC-2 mit 6 zusätzlichen Enden von Steam."
 
