@@ -460,11 +460,11 @@ translate deutsch strings:
 
     # game/code/data/extended/extra_gallery.rpy:845
     old "Fucking\na girl"
-    new "Ficke\nein Mädchen"
+    new "Ficke ein\nMädchen"
 
     # game/code/data/extended/extra_gallery.rpy:847
     old "Fucking\na catgirl"
-    new "Ficke\nein Katzenmädchen"
+    new "Ficke ein\nKatzenmädchen"
 
     # game/code/data/extended/extra_gallery.rpy:861
     old "Hard to\nswallow\npills"
