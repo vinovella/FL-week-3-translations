@@ -1266,11 +1266,11 @@ translate deutsch strings:
 translate deutsch e02s01_hot_bath_d6431c08:
 
     # mc "It's true that you learn most about people through adversity."
-    mc "It's true that you learn most about people through adversity."
+    mc "Es stimmt, dass man in schwierigen Zeiten am meisten über Menschen lernt."
 
 # game/code/e02/e02s01.rpy:423
 translate deutsch e02s01_hot_bath_c527c472:
 
     # mh "Adversity."
-    mh "Adversity."
+    mh "Widrigkeiten."
 
