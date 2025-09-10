@@ -1520,7 +1520,7 @@ translate deutsch e03s07_09fc2218:
 translate deutsch e03s07_82b678e6:
 
     # "Both" "Yes dear."
-    "Both" "Ja, Liebes."
+    "Beide" "Ja, Liebes."
 
 # game/code/e03/e03s07.rpy:826
 translate deutsch e03s07_77975f23:
