@@ -650,7 +650,7 @@ translate chinese e04s04_later_4dbe7200:
 translate chinese e04s04_later_c70bb696:
 
     # dd "Thank you, [alt_mcname]."
-    dd "谢谢你，[mcname]。"
+    dd "谢谢你，[alt_mcname]。"
 
 # game/code/e04/e04s04.rpy:369
 translate chinese e04s04_later_87e26eb2:

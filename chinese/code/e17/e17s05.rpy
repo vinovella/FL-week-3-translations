@@ -278,7 +278,7 @@ translate chinese e17s05_sex_2233d8cf:
 translate chinese e17s05_sex_f5855a84:
 
     # dw "Oh, [mcname]!"
-    dw "哦，[mc]！"
+    dw "哦，[mcname]！"
 
 # game/code/e17/e17s05.rpy:168
 translate chinese e17s05_sex_6bf2236e:

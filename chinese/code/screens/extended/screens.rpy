@@ -110,13 +110,13 @@ translate chinese strings:
 
     # game/code/screens/extended/screens.rpy:236
     old "Wishlist Fetish Locator: S&M Studio on Steam"
-    new "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "在Steam上将 Fetish Locator: S&M Studio 加入愿望单"
 
     # game/code/screens/extended/screens.rpy:238
     old "Get Fetish Locator: S&M Studio on Steam"
-    new "Get Fetish Locator: S&M Studio on Steam"
+    new "在Steam上获取 Fetish Locator: S&M Studio"
 
     # game/code/screens/extended/screens.rpy:251
     old "Watch Fetish Locator: S&M Studio trailer"
-    new "Watch Fetish Locator: S&M Studio trailer"
+    new "观看 Fetish Locator: S&M Studio 预告片"
 

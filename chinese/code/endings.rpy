@@ -77,23 +77,23 @@ translate chinese strings:
 translate chinese ending_not_available_9dcfd841:
 
     # "You have reached the current end of this story path."
-    "You have reached the current end of this story path."
+    "您已到达此故事路线的当前结局。"
 
 # game/code/endings.rpy:238
 translate chinese ending_not_available_889ce1af:
 
     # "This ending is available as a free DLC."
-    "This ending is available as a free DLC."
+    "此结局作为免费DLC提供。"
 
 # game/code/endings.rpy:240
 translate chinese ending_not_available_8fd50248:
 
     # "This ending is available as a paid DLC."
-    "This ending is available as a paid DLC."
+    "此结局作为付费DLC提供。"
 
 # game/code/endings.rpy:242
 translate chinese ending_not_available_fd68c670:
 
     # "This ending is available in our Patreon."
-    "This ending is available in our Patreon."
+    "此结局可在我们的Patreon获得。"
 

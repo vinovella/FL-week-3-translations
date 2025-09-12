@@ -40,13 +40,13 @@ translate chinese strings:
 
     # game/code/screens/endings.rpy:87
     old "Download this ending from Steam"
-    new "Download this ending from Steam"
+    new "从Steam下载此结局"
 
     # game/code/screens/endings.rpy:91
     old "Get this ending from Steam"
-    new "Get this ending from Steam"
+    new "在Steam获取此结局"
 
     # game/code/screens/endings.rpy:98
     old "Get this ending from our Patreon"
-    new "Get this ending from our Patreon"
+    new "在我们的Patreon获取此结局"
 

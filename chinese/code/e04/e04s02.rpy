@@ -440,7 +440,7 @@ translate chinese e04s02_sex_44e1c31b:
 translate chinese e04s02_sex_12ed8e5a:
 
     # lc "Please, [alt_mcname], can you slow down!?"
-    lc "拜托，[mcname]，你能慢点吗!?"
+    lc "拜托，[alt_mcname]，你能慢点吗!?"
 
 # game/code/e04/e04s02.rpy:278
 translate chinese e04s02_sex_6ff41185:

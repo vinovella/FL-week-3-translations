@@ -872,7 +872,7 @@ translate chinese e07s02_bath_water_7cc0f776:
 translate chinese e07s02_bath_water_75bdccb5:
 
     # mc "Yes, [e07_lcname!t]."
-    mc "是的，[e07_mcname!t]。"
+    mc "是的，[e07_lcname!t]。"
 
 # game/code/e07/e07s02.rpy:601
 translate chinese e07s02_bath_water_f8900612:

@@ -236,7 +236,7 @@ translate chinese e09s06_2606b50a:
 translate chinese e09s06_aeb80a67:
 
     # ah "Sounds good, thanks [mcname]!"
-    ah "听起来不错，谢啦mcname]！"
+    ah "听起来不错，谢啦，[mcname]！"
 
 # game/code/e09/e09s06.rpy:83
 translate chinese e09s06_f6496e84:
