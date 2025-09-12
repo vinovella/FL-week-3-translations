@@ -102,3 +102,13 @@ translate french strings:
     old "Watch Fetish Locator: S&M Studio trailer"
     new "Regardez Fetish Locator: bande-annonce de S&M Studio"
 
+translate french strings:
+
+    # game/code/screens/extended/screens.rpy:236
+    old "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "Wishlist Fetish Locator: S&M Studio on Steam"
+
+    # game/code/screens/extended/screens.rpy:238
+    old "Get Fetish Locator: S&M Studio on Steam"
+    new "Get Fetish Locator: S&M Studio on Steam"
+

@@ -106,3 +106,17 @@ translate chinese strings:
     old "Get DLC-2 containing 6 additional endings from Steam"
     new "从Steam上获取包含6个额外结局的DLC-2"
 
+translate chinese strings:
+
+    # game/code/screens/extended/screens.rpy:236
+    old "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "Wishlist Fetish Locator: S&M Studio on Steam"
+
+    # game/code/screens/extended/screens.rpy:238
+    old "Get Fetish Locator: S&M Studio on Steam"
+    new "Get Fetish Locator: S&M Studio on Steam"
+
+    # game/code/screens/extended/screens.rpy:251
+    old "Watch Fetish Locator: S&M Studio trailer"
+    new "Watch Fetish Locator: S&M Studio trailer"
+

@@ -80,3 +80,27 @@ translate deutsch strings:
     old "Ending #18\nQuartet"
     new "Ende #18\nQuartett"
 
+# game/code/endings.rpy:231
+translate deutsch ending_not_available_9dcfd841:
+
+    # "You have reached the current end of this story path."
+    "Du hast das aktuelle Ende dieses Story-Pfads erreicht."
+
+# game/code/endings.rpy:238
+translate deutsch ending_not_available_889ce1af:
+
+    # "This ending is available as a free DLC."
+    "Dieses Ende ist als kostenloses DLC verfügbar."
+
+# game/code/endings.rpy:240
+translate deutsch ending_not_available_8fd50248:
+
+    # "This ending is available as a paid DLC."
+    "Dieses Ende ist als kostenpflichtiges DLC verfügbar."
+
+# game/code/endings.rpy:242
+translate deutsch ending_not_available_fd68c670:
+
+    # "This ending is available in our Patreon."
+    "Dieses Ende ist auf unserem Patreon verfügbar."
+

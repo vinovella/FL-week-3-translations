@@ -292,3 +292,13 @@ translate french strings:
     old "{u}Get Taboo University Book 1 on GOG{/u}"
     new "{u}Obtenez le tome 1 de Taboo University sur GOG{/u}"
 
+translate french strings:
+
+    # game/code/screens/screens_fl.rpy:1423
+    old "Wishlist Fetish Locator: S&M Studio on GOG"
+    new "Wishlist Fetish Locator: S&M Studio on GOG"
+
+    # game/code/screens/screens_fl.rpy:1425
+    old "Get Fetish Locator: S&M Studio on GOG"
+    new "Get Fetish Locator: S&M Studio on GOG"
+

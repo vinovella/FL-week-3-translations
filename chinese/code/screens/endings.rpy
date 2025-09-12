@@ -36,3 +36,17 @@ translate chinese strings:
     old "Get DLC-2 containing this ending"
     new " 获取包含该结局的 DLC-2"
 
+translate chinese strings:
+
+    # game/code/screens/endings.rpy:87
+    old "Download this ending from Steam"
+    new "Download this ending from Steam"
+
+    # game/code/screens/endings.rpy:91
+    old "Get this ending from Steam"
+    new "Get this ending from Steam"
+
+    # game/code/screens/endings.rpy:98
+    old "Get this ending from our Patreon"
+    new "Get this ending from our Patreon"
+

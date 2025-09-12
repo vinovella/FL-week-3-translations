@@ -110,3 +110,17 @@ translate malay strings:
     old "Get DLC-2 containing 6 additional endings from Steam"
     new "Get DLC-2 containing 6 additional endings from Steam"
 
+translate malay strings:
+
+    # game/code/screens/extended/screens.rpy:236
+    old "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "Wishlist Fetish Locator: S&M Studio on Steam"
+
+    # game/code/screens/extended/screens.rpy:238
+    old "Get Fetish Locator: S&M Studio on Steam"
+    new "Get Fetish Locator: S&M Studio on Steam"
+
+    # game/code/screens/extended/screens.rpy:251
+    old "Watch Fetish Locator: S&M Studio trailer"
+    new "Watch Fetish Locator: S&M Studio trailer"
+

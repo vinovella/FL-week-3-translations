@@ -38,3 +38,21 @@ translate italian strings:
     old "Download free DLC containing this ending"
     new "Download free DLC containing this ending"
 
+translate italian strings:
+
+    # game/code/screens/endings.rpy:69
+    old "Get DLC-2 containing this ending"
+    new "Get DLC-2 containing this ending"
+
+    # game/code/screens/endings.rpy:87
+    old "Download this ending from Steam"
+    new "Download this ending from Steam"
+
+    # game/code/screens/endings.rpy:91
+    old "Get this ending from Steam"
+    new "Get this ending from Steam"
+
+    # game/code/screens/endings.rpy:98
+    old "Get this ending from our Patreon"
+    new "Get this ending from our Patreon"
+

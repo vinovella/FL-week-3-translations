@@ -84,3 +84,27 @@ translate italian strings:
     old "Ending #18\nQuartet"
     new "Finale #18\nQuartetto"
 
+# game/code/endings.rpy:231
+translate italian ending_not_available_9dcfd841:
+
+    # "You have reached the current end of this story path."
+    "You have reached the current end of this story path."
+
+# game/code/endings.rpy:238
+translate italian ending_not_available_889ce1af:
+
+    # "This ending is available as a free DLC."
+    "This ending is available as a free DLC."
+
+# game/code/endings.rpy:240
+translate italian ending_not_available_8fd50248:
+
+    # "This ending is available as a paid DLC."
+    "This ending is available as a paid DLC."
+
+# game/code/endings.rpy:242
+translate italian ending_not_available_fd68c670:
+
+    # "This ending is available in our Patreon."
+    "This ending is available in our Patreon."
+

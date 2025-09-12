@@ -40,3 +40,17 @@ translate deutsch strings:
     old "Get DLC-2 containing this ending"
     new "Get DLC-2 containing this ending"
 
+translate deutsch strings:
+
+    # game/code/screens/endings.rpy:87
+    old "Download this ending from Steam"
+    new "Lade dieses Ende von Steam herunter"
+
+    # game/code/screens/endings.rpy:91
+    old "Get this ending from Steam"
+    new "Erhalte dieses Ende von Steam"
+
+    # game/code/screens/endings.rpy:98
+    old "Get this ending from our Patreon"
+    new "Erhalte dieses Ende über unseren Patreon"
+
