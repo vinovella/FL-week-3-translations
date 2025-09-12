@@ -272,8 +272,6 @@ translate portuguese strings:
     old "Download Saves"
     new "Baixar Saves"
 
-# TODO: Translation updated at 2024-10-08 17:43
-
 translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:285

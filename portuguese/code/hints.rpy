@@ -1460,8 +1460,6 @@ translate portuguese strings:
     old "Skip male on male content with Pete."
     new "Pular conteúdo homosexual com Pete."
 
-# TODO: Translation updated at 2024-10-20 00:43
-
 translate portuguese strings:
 
     # game/code/hints.rpy:5

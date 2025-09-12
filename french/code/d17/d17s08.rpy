@@ -1156,8 +1156,6 @@ translate french replay_d17s08_55d60f89:
     # mct "Oh, crap."
     mct "Oh, merde."
 
-
-
 # game/code/d17/d17s08.rpy:435
 translate french replay_d17s08_715b63e4:
 

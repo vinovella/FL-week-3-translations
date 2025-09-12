@@ -952,8 +952,6 @@ translate french d16s08_719d7ead:
     # arj "Ha ha. Let's go, then."
     arj "Ha ha. Allons-y alors."
 
-
-
 # game/code/d16/d16s08.rpy:332
 translate french d16s08_793927ec:
 

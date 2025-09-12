@@ -1726,8 +1726,6 @@ translate portuguese strings:
     old "Let Gemma release her enema"
     new "Deixar que Gemma solte o enema"
 
-# TODO: Translation updated at 2024-10-25 00:44
-
 # game/code/e15/e15s05.rpy:452
 translate portuguese e15s05_after_menu_1387c466:
 

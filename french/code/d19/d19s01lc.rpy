@@ -739,4 +739,3 @@ translate french strings:
     old "Tell Her It Was Fun"
     new "Dis-lui que c'était amusant"
 
-

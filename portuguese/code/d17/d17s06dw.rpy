@@ -1162,5 +1162,3 @@ translate portuguese d17s06dw_breakup_6525077f:
     # mct "What the fuck just happened?"
     mct "Que porra que acabou de acontecer?"
 
-# TODO: Translation updated at 2024-10-08 17:43
-

@@ -758,4 +758,3 @@ translate french strings:
     old "Just Sex, a lot of Sex"
     new "Juste du sexe, beaucoup de sexe"
 
-

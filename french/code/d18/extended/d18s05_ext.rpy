@@ -627,4 +627,3 @@ translate french strings:
     old "Fuck Samiya"
     new "Baise Samiya"
 
-

@@ -1046,4 +1046,3 @@ translate french strings:
     old "Leave Her Wanting More"
     new "Laisse-la vouloir plus"
 
-

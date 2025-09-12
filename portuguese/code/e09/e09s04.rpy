@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-10-20 00:44
-
 # game/code/e09/e09s04.rpy:54
 translate portuguese e09s04_3e4f99cc:
 

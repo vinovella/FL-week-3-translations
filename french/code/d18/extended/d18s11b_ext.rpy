@@ -1080,4 +1080,3 @@ translate french strings:
     old "Just Fuck Her Ass"
     new "Baise juste son cul"
 
-

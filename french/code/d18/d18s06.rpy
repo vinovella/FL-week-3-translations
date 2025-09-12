@@ -574,7 +574,6 @@ translate french d18s06_74866910:
     # arj "Maybe we can pick one up at your dorm. Let's go."
     arj "Peut-être qu'on peut en prendre un dans ton dortoir. Allons-y."
 
-
 translate french strings:
 
     # game/code/d18/d18s06.rpy:6

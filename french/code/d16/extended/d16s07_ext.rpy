@@ -376,7 +376,6 @@ translate french d16s07_ext_1bedcab3:
     # jf "Be sure to come over once you're out of that pickle."
     jf "Assures-toi de venir une fois que tu n'auras plus ce problème."
 
-
 # game/code/d16/extended/d16s07_ext.rpy:247
 translate french d16s07_ext_7b1f43ad:
 

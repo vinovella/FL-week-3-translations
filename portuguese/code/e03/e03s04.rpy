@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-10-08 17:43
-
 # game/code/e03/e03s04.rpy:52
 translate portuguese e03s04_3399e772:
 

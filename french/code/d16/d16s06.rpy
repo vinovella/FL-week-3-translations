@@ -778,4 +778,3 @@ translate french d16s06_89a8c10f:
     # flr "You have earned [d16s06_points] points."
     flr "Vous avez gagné [d16s06_points] points."
 
-

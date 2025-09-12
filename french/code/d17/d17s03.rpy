@@ -958,4 +958,3 @@ translate french d17s03_2051d66a:
     # mc "Understood."
     mc "Compris."
 
-

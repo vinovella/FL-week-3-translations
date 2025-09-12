@@ -394,4 +394,3 @@ translate french strings:
     old "Get Drunk in the Bar"
     new "Saoule-toi au bar"
 
-

@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-10-18 03:07
-
 # game/code/e09/e09s01.rpy:86
 translate portuguese e09s01_c9a4e483:
 

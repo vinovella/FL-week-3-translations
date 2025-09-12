@@ -1144,4 +1144,3 @@ translate french strings:
     old "Remind Them You Are There"
     new "Rappelle-leur que tu es là"
 
-

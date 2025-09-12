@@ -1050,8 +1050,6 @@ translate french strings:
     old "Go Fuck Yourself"
     new "Va te faire foutre"
 
-
-
 translate french strings:
 
     # game/code/d19/d19s01ntr.rpy:289

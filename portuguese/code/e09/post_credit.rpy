@@ -1,5 +1,3 @@
-# TODO: Translation updated at 2024-10-20 00:43
-
 # game/code/e09/post_credit.rpy:12
 translate portuguese dlc_2_postcredits_f6b26d61:
 

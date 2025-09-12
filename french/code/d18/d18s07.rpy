@@ -310,4 +310,3 @@ translate french d18s07_7764a381:
     # mc "Alright. Let's go, she can clearly handle this."
     mc "Très bien. Allons-y, elle peut clairement gérer ça."
 
-

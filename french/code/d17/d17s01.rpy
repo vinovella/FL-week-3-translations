@@ -1644,7 +1644,6 @@ translate french strings:
     old "Decline"
     new "Refusé de lui baiser le cul"
 
-
 # game/code/d17/d17s01.rpy:662
 translate french d17s01_no_ntr_ff2fe935:
 

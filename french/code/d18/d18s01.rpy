@@ -1205,7 +1205,6 @@ translate french d18s01_shower_lc_a49ed4f8:
     # mc "Okay."
     mc "D'accord."
 
-
 translate french strings:
 
     # game/code/d18/d18s01.rpy:15
