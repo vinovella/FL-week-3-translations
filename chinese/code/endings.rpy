@@ -1,38 +1,3 @@
-# game/code/endings.rpy:279
-translate chinese ending_not_available_f3f9fce0:
-
-    # "You have reached the current end of this story path. This ending will be implemented in the future as free DLC."
-    "你已经到达了此故事路径的尽头。本结局将在未来推出，作为免费可下载内容。"
-
-# game/code/endings.rpy:281
-translate chinese ending_not_available_2ad33c15:
-
-    # "You have reached the current end of this story path. This ending will be implemented in the future as DLC."
-    "你已经到达了此故事路径的尽头。本结局将在未来推出，作为可下载内容。"
-
-# game/code/endings.rpy:282
-translate chinese ending_not_available_eb531d10:
-
-    # "Be sure to follow our Steam Page to stay up to date for all news related to Fetish Locator."
-    "请务必关注我们的Steam页面，以便及时了解与性趣探测器相关的所有消息。"
-
-# game/code/endings.rpy:284
-translate chinese ending_not_available_7495b934:
-
-    # "You have reached the current end of this story path. This ending will be implemented in the future."
-    "你已经到达了此故事路径的尽头。本结局将在未来推出。"
-
-# game/code/endings.rpy:285
-translate chinese ending_not_available_4bc3c22a:
-
-    # "Be sure to follow our Patreon to stay up to date for news."
-    "请务必关注我们的Patreon，以便及时了解最新消息。"
-
-# game/code/endings.rpy:286
-translate chinese ending_not_available_0b50ab45:
-
-    # "While this ending is not fully implemented, there are six other endings that are complete and available to explore."
-    "虽然此结局还没有完全完成，但还有其他六个结局是完整的，可供探索。"
 
 translate chinese strings:
 

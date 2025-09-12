@@ -1,38 +1,3 @@
-# game/code/endings.rpy:279
-translate italian ending_not_available_f3f9fce0:
-
-    # "You have reached the current end of this story path. This ending will be implemented in the future as free DLC."
-    "Hai raggiunto l'attuale fine di questo percorso narrativo. Questo finale sarà implementato in futuro come DLC gratuito."
-
-# game/code/endings.rpy:281
-translate italian ending_not_available_2ad33c15:
-
-    # "You have reached the current end of this story path. This ending will be implemented in the future as DLC."
-    "Hai raggiunto l'attuale fine di questo percorso narrativo. Questo finale sarà implementato in futuro come DLC."
-
-# game/code/endings.rpy:282
-translate italian ending_not_available_eb531d10:
-
-    # "Be sure to follow our Steam Page to stay up to date for all news related to Fetish Locator."
-    "Assicurati di seguire la nostra pagina Steam per rimanere aggiornato su tutte le notizie relative a Fetish Locator."
-
-# game/code/endings.rpy:284
-translate italian ending_not_available_7495b934:
-
-    # "You have reached the current end of this story path. This ending will be implemented in the future."
-    "Hai raggiunto l'attuale fine di questo percorso narrativo. Questo finale verrà implementato in futuro."
-
-# game/code/endings.rpy:285
-translate italian ending_not_available_4bc3c22a:
-
-    # "Be sure to follow our Patreon to stay up to date for news."
-    "Assicurati di seguire il nostro Patreon per rimanere aggiornato sulle novità."
-
-# game/code/endings.rpy:286
-translate italian ending_not_available_0b50ab45:
-
-    # "While this ending is not fully implemented, there are six other endings that are complete and available to explore."
-    "Sebbene questo finale non sia completamente implementato, ci sono altri sei finali completi e disponibili per l'esplorazione."
 
 translate italian strings:
 

@@ -1,38 +1,3 @@
-# game/code/endings.rpy:279
-translate korean ending_not_available_f3f9fce0:
-
-    # "You have reached the current end of this story path. This ending will be implemented in the future as free DLC."
-    "현재 이 이야기 분기는 이렇게 종결됩니다. 이 결말은 추후 무료 DLC로 구현됩니다."
-
-# game/code/endings.rpy:281
-translate korean ending_not_available_2ad33c15:
-
-    # "You have reached the current end of this story path. This ending will be implemented in the future as DLC."
-    "현재 이 이야기 분기는 이렇게 종결됩니다. 이 결말은 추후 DLC로 구현됩니다."
-
-# game/code/endings.rpy:282
-translate korean ending_not_available_eb531d10:
-
-    # "Be sure to follow our Steam Page to stay up to date for all news related to Fetish Locator."
-    "저희의 Steam 페이지를 팔로우 해 주세요. 페티시 로케이터에 관한 모든 소식을 확인하실 수 있습니다."
-
-# game/code/endings.rpy:284
-translate korean ending_not_available_7495b934:
-
-    # "You have reached the current end of this story path. This ending will be implemented in the future."
-    "현재 이 이야기 분기는 이렇게 종결됩니다. 이 결말은 추후에 구현됩니다."
-
-# game/code/endings.rpy:285
-translate korean ending_not_available_4bc3c22a:
-
-    # "Be sure to follow our Patreon to stay up to date for news."
-    "저희의 Patreon 계정을 팔로우 해 주세요. 새로운 소식을 확인하실 수 있습니다."
-
-# game/code/endings.rpy:286
-translate korean ending_not_available_0b50ab45:
-
-    # "While this ending is not fully implemented, there are six other endings that are complete and available to explore."
-    "이 결말이 구현되는 동안, 완성된 다른 여섯 가지 결말을 탐험해 보세요."
 
 translate korean strings:
 

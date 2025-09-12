@@ -36,42 +36,6 @@
     old "Ending #14"
     new "Концовка #14"
 
-# game/code/endings.rpy:279
-translate russian ending_not_available_f3f9fce0:
-
-    # "You have reached the current end of this story path. This ending will be implemented in the future as free DLC."
-    "Вы достигли завершения данного сюжетного пути. Эта концовка будет реализована в будущем в виде бесплатного DLC."
-
-# game/code/endings.rpy:281
-translate russian ending_not_available_2ad33c15:
-
-    # "You have reached the current end of this story path. This ending will be implemented in the future as DLC."
-    "Вы достигли завершения данного сюжетного пути. Эта концовка будет реализована в будущем в виде DLC."
-
-# game/code/endings.rpy:282
-translate russian ending_not_available_eb531d10:
-
-    # "Be sure to follow our Steam Page to stay up to date for all news related to Fetish Locator."
-    "Не забывайте следить за нашей страницей в Steam, чтобы быть в курсе всех новостей, связанных с Fetish Locator."
-
-# game/code/endings.rpy:284
-translate russian ending_not_available_7495b934:
-
-    # "You have reached the current end of this story path. This ending will be implemented in the future."
-    "Вы достигли завершения данного сюжетного пути. Эта концовка будет реализована в будущем."
-
-# game/code/endings.rpy:285
-translate russian ending_not_available_4bc3c22a:
-
-    # "Be sure to follow our Patreon to stay up to date for news."
-    "Следите за нашим Patreon, чтобы быть в курсе новостей."
-
-# game/code/endings.rpy:286
-translate russian ending_not_available_0b50ab45:
-
-    # "While this ending is not fully implemented, there are six other endings that are complete and available to explore."
-    "Несмотря на то, что эта концовка реализована не полностью, есть шесть других концовок, которые завершены и доступны для изучения."
-
 translate russian strings:
 
     # game/code/endings.rpy:34
