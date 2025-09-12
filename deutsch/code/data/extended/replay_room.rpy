@@ -312,139 +312,139 @@ translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia"
-    new "Ending 04: Lydia"
+    new "Ende 04: Lydia"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia, Stacy & AmRose"
-    new "Ending 04: Lydia, Stacy & AmRose"
+    new "Ende 04: Lydia, Stacy & AmRose"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Daisy, Lydia, Stacy & AmRose"
-    new "Ending 04: Daisy, Lydia, Stacy & AmRose"
+    new "Ende 04: Daisy, Lydia, Stacy & AmRose"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lyssa & Lydia"
-    new "Ending 04: Lyssa & Lydia"
+    new "Ende 04: Lyssa & Lydia"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Lydia & Maria"
-    new "Ending 04: Lydia & Maria"
+    new "Ende 04: Lydia & Maria"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 04: Harem"
-    new "Ending 04: Harem"
+    new "Ende 04: Harem"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: AmRose"
-    new "Ending 07: AmRose"
+    new "Ende 07: AmRose"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia"
-    new "Ending 07: Lydia"
+    new "Ende 07: Lydia"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia & Domina"
-    new "Ending 07: Lydia & Domina"
+    new "Ende 07: Lydia & Domina"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia Gangbang"
-    new "Ending 07: Lydia Gangbang"
+    new "Ende 07: Lydia Gangbang"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Public Toilet"
-    new "Ending 07: Öffentliche Toilette"
+    new "Ende 07: Öffentliche Toilette"
 
     # game/code/data/extended/replay_room.rpy:112
     old "Ending 07: Lydia & AmRose"
-    new "Ending 07: Lydia & AmRose"
+    new "Ende 07: Lydia & AmRose"
 
 translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:103
     old "Ending 05: Oliver"
-    new "Ending 05: Oliver"
+    new "Ende 05: Oliver"
 
     # game/code/data/extended/replay_room.rpy:103
     old "Ending 05: Lyssa"
-    new "Ending 05: Lyssa"
+    new "Ende 05: Lyssa"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie and Molly"
-    new "Ending 16: Jessie und Molly"
+    new "Ende 16: Jessie und Molly"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie and Kanya"
-    new "Ending 16: Jessie und Kanya"
+    new "Ende 16: Jessie und Kanya"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Sage and Kristen"
-    new "Ending 16: Sage und Kristen"
+    new "Ende 16: Sage und Kristen"
 
     # game/code/data/extended/replay_room.rpy:180
     old "Ending 16: Jessie, Molly, Sage & Kristen"
-    new "Ending 16: Jessie, Molly, Sage & Kristen"
+    new "Ende 16: Jessie, Molly, Sage & Kristen"
 
 translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Min & Stacy"
-    new "Ending 15: Min & Stacy"
+    new "Ende 15: Min & Stacy"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Watersports"
-    new "Ending 15: Watersports"
+    new "Ende 15: Watersports"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Olivia, Bell & Annie"
-    new "Ending 15: Olivia, Bell & Annie"
+    new "Ende 15: Olivia, Bell & Annie"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Lyssa, Stacy & Gemma"
-    new "Ending 15: Lyssa, Stacy & Gemma"
+    new "Ende 15: Lyssa, Stacy & Gemma"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Min, Stacy & Olivia"
-    new "Ending 15: Min, Stacy & Olivia"
+    new "Ende 15: Min, Stacy & Olivia"
 
     # game/code/data/extended/replay_room.rpy:204
     old "Ending 18: Samiya, Dahlia & Pete"
-    new "Ending 18: Samiya, Dahlia & Pete"
+    new "Ende 18: Samiya, Dahlia & Pete"
 
     # game/code/data/extended/replay_room.rpy:204
     old "Ending 18: Quartet, Londyn & Kendell"
-    new "Ending 18: Quartet, Londyn & Kendell"
+    new "Ende 18: Quartet, Londyn & Kendell"
 
     # game/code/data/extended/replay_room.rpy:204
     old "Ending 18: Samiya"
-    new "Ending 18: Samiya"
+    new "Ende 18: Samiya"
 
 translate deutsch strings:
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 03: Lyssa & Stacy"
-    new "Ending 03: Lyssa & Stacy"
+    new "Ende 03: Lyssa & Stacy"
 
     # game/code/data/extended/replay_room.rpy:94
     old "Ending 03: Lyssa, Chiara & Stacy"
-    new "Ending 03: Lyssa, Chiara & Stacy"
+    new "Ende 03: Lyssa, Chiara & Stacy"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: AmRose & Allison"
-    new "Ending 09: AmRose & Allison"
+    new "Ende 09: AmRose & Allison"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: Stacy, AmRose & Allison"
-    new "Ending 09: Stacy, AmRose & Allison"
+    new "Ende 09: Stacy, AmRose & Allison"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: Hana & Londyn"
-    new "Ending 09: Hana & Londyn"
+    new "Ende 09: Hana & Londyn"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: Hana & Allison"
-    new "Ending 09: Hana & Allison"
+    new "Ende 09: Hana & Allison"
 
     # game/code/data/extended/replay_room.rpy:148
     old "Ending 09: Party Girls"
-    new "Ending 09: Party Girls"
+    new "Ende 09: Party Girls"
 

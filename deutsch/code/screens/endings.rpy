@@ -38,7 +38,7 @@ translate deutsch strings:
 
     # game/code/screens/endings.rpy:69
     old "Get DLC-2 containing this ending"
-    new "Get DLC-2 containing this ending"
+    new "Erhalte DLC-2 mit diesem Ende"
 
 translate deutsch strings:
 

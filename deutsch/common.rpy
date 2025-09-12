@@ -278,7 +278,7 @@ translate deutsch strings:
 
     # renpy/common/00action_file.rpy:573
     old "File page [text]"
-    new "Datei Seite [Text]"
+    new "Datei Seite [text]"
 
     # renpy/common/00action_file.rpy:772
     old "Next file page."
@@ -302,7 +302,7 @@ translate deutsch strings:
 
     # renpy/common/00action_other.rpy:375
     old "Language [text]"
-    new "Sprache [Text]"
+    new "Sprache [text]"
 
     # renpy/common/00director.rpy:708
     old "The interactive director is not enabled here."
