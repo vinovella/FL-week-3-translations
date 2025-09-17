@@ -47,6 +47,10 @@ translate chinese strings:
     new "在Steam获取此结局"
 
     # game/code/screens/endings.rpy:98
-    old "Get this ending from our Patreon"
+    old "Get this ending from Patreon"
     new "在我们的Patreon获取此结局"
+
+    # game/code/screens/endings.rpy:98
+    old "Get this ending from GOG"
+    new "在我们的GOG获取此结局"
 

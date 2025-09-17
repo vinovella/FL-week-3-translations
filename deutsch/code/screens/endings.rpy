@@ -51,6 +51,10 @@ translate deutsch strings:
     new "Erhalte dieses Ende von Steam"
 
     # game/code/screens/endings.rpy:98
-    old "Get this ending from our Patreon"
+    old "Get this ending from Patreon"
     new "Erhalte dieses Ende über unseren Patreon"
+
+    # game/code/screens/endings.rpy:98
+    old "Get this ending from GOG"
+    new "Erhalte dieses Ende über unseren GOG"
 

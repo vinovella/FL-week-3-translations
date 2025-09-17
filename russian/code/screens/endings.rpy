@@ -24,13 +24,9 @@ translate russian strings:
     old "Exit to Mainmenu"
     new "Вернуться в Главное меню"
 
-translate russian strings:
-
     # game/code/screens/endings.rpy:66
     old "Download free DLC containing this ending"
     new "Download free DLC containing this ending"
-
-translate russian strings:
 
     # game/code/screens/endings.rpy:69
     old "Get DLC-2 containing this ending"
@@ -45,6 +41,11 @@ translate russian strings:
     new "Get this ending from Steam"
 
     # game/code/screens/endings.rpy:98
-    old "Get this ending from our Patreon"
-    new "Get this ending from our Patreon"
+    old "Get this ending from Patreon"
+    new "Get this ending from Patreon"
+
+    # game/code/screens/endings.rpy:98
+    old "Get this ending from GOG"
+    new "Get this ending from GOG"
+
 

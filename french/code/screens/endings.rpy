@@ -45,6 +45,10 @@ translate french strings:
     new "Obtenez cette fin sur Steam"
 
     # game/code/screens/endings.rpy:98
-    old "Get this ending from our Patreon"
+    old "Get this ending from Patreon"
     new "Obtenez cette fin sur notre Patreon"
+
+    # game/code/screens/endings.rpy:98
+    old "Get this ending from GOG"
+    new "Obtenez cette fin sur notre GOG"
 

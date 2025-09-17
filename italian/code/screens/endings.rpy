@@ -53,6 +53,11 @@ translate italian strings:
     new "Get this ending from Steam"
 
     # game/code/screens/endings.rpy:98
-    old "Get this ending from our Patreon"
-    new "Get this ending from our Patreon"
+    old "Get this ending from Patreon"
+    new "Get this ending from Patreon"
+
+    # game/code/screens/endings.rpy:98
+    old "Get this ending from GOG"
+    new "Get this ending from GOG"
+
 

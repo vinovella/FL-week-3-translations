@@ -40,8 +40,6 @@ translate turkish strings:
     old "Get DLC-2 containing this ending"
     new "Bu sonu içeren DLC-2'yi indirin"
 
-translate turkish strings:
-
     # game/code/screens/endings.rpy:87
     old "Download this ending from Steam"
     new "Bu sonu Steam'den indir"
@@ -51,6 +49,10 @@ translate turkish strings:
     new "Bu sonu Steam'den alın"
 
     # game/code/screens/endings.rpy:98
-    old "Get this ending from our Patreon"
+    old "Get this ending from Patreon"
     new "Bu sonu Patreon'umuzdan alın"
+
+    # game/code/screens/endings.rpy:98
+    old "Get this ending from GOG"
+    new "Bu sonu GOG'dan alın"
 

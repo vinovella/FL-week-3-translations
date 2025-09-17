@@ -24,8 +24,6 @@ translate malay strings:
     old "Return to Mainmenu"
     new "Kembali ke menu utama"
 
-translate malay strings:
-
     # game/code/screens/endings.rpy:76
     old "Return to the Main Story"
     new "Return to the Main Story"
@@ -34,13 +32,9 @@ translate malay strings:
     old "Exit to Mainmenu"
     new "Exit to Mainmenu"
 
-translate malay strings:
-
     # game/code/screens/endings.rpy:66
     old "Download free DLC containing this ending"
     new "Download free DLC containing this ending"
-
-translate malay strings:
 
     # game/code/screens/endings.rpy:69
     old "Get DLC-2 containing this ending"
@@ -55,6 +49,11 @@ translate malay strings:
     new "Get this ending from Steam"
 
     # game/code/screens/endings.rpy:98
-    old "Get this ending from our Patreon"
-    new "Get this ending from our Patreon"
+    old "Get this ending from Patreon"
+    new "Get this ending from Patreon"
+
+    # game/code/screens/endings.rpy:98
+    old "Get this ending from GOG"
+    new "Get this ending from GOG"
+
 

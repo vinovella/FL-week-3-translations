@@ -36,8 +36,6 @@ translate portuguese strings:
     old "Get DLC-2 containing this ending"
     new " Obter o DLC-2 que contém este final"
 
-translate portuguese strings:
-
     # game/code/screens/endings.rpy:87
     old "Download this ending from Steam"
     new "Baixe este final na Steam"
@@ -47,6 +45,11 @@ translate portuguese strings:
     new "Obtenha este final na Steam"
 
     # game/code/screens/endings.rpy:98
-    old "Get this ending from our Patreon"
-    new "Get this ending from our Patreon"
+    old "Get this ending from Patreon"
+    new "Obtenha este final no Patreon"
+
+    # game/code/screens/endings.rpy:98
+    old "Get this ending from GOG"
+    new "Obtenha este final no GOG"
+
 

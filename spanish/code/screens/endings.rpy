@@ -40,8 +40,6 @@ translate spanish strings:
     old "Get DLC-2 containing this ending"
     new "Consigue el DLC-2 que contiene este final"
 
-translate spanish strings:
-
     # game/code/screens/endings.rpy:87
     old "Download this ending from Steam"
     new "Descarga este final desde Steam"
@@ -51,6 +49,10 @@ translate spanish strings:
     new "Consigue este final desde Steam"
 
     # game/code/screens/endings.rpy:98
-    old "Get this ending from our Patreon"
+    old "Get this ending from Patreon"
     new "Consigue este final desde nuestro Patreon"
+
+    # game/code/screens/endings.rpy:98
+    old "Get this ending from GOG"
+    new "Consigue este final desde GOG"
 
