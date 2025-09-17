@@ -140,7 +140,7 @@ translate spanish week_2_recap_4399dff1:
 translate spanish week_2_recap_c09ec016:
 
     # "[mcname] explored new avenues of pleasure and tried out sucking Lyssa's cock."
-    "mcname] exploró nuevas vías de placer e intentó chupar la polla de Lyssa."
+    "[mcname] exploró nuevas vías de placer e intentó chupar la polla de Lyssa."
 
 # game/code/recap/w2_recap.rpy:169
 translate spanish week_2_recap_4cf74c55:

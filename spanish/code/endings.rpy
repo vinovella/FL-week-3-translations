@@ -52,23 +52,23 @@ translate spanish strings:
 translate spanish ending_not_available_9dcfd841:
 
     # "You have reached the current end of this story path."
-    "You have reached the current end of this story path."
+    "Has llegado al final actual de esta ruta de la historia."
 
 # game/code/endings.rpy:238
 translate spanish ending_not_available_889ce1af:
 
     # "This ending is available as a free DLC."
-    "This ending is available as a free DLC."
+    "Este final está disponible como un DLC gratuito."
 
 # game/code/endings.rpy:240
 translate spanish ending_not_available_8fd50248:
 
     # "This ending is available as a paid DLC."
-    "This ending is available as a paid DLC."
+    "Este final está disponible como un DLC de pago."
 
 # game/code/endings.rpy:242
 translate spanish ending_not_available_fd68c670:
 
     # "This ending is available in our Patreon."
-    "This ending is available in our Patreon."
+    "Este final está disponible en nuestro Patreon."
 
