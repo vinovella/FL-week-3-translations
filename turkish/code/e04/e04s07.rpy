@@ -1274,7 +1274,7 @@ translate turkish e04s07_ah_tr_cf337108:
 translate turkish e04s07_ah_tr_1b3c42fd:
 
     # ah "You can do it. You did it before. I think you enjoyed yourself...{w} Right?"
-    "Yapabilirsin. Daha önce de yapmıştın. Bence çok eğlendin...{w} Değil mi?"
+    ah "Yapabilirsin. Daha önce de yapmıştın. Bence çok eğlendin...{w} Değil mi?"
 
 # game/code/e04/e04s07.rpy:636
 translate turkish e04s07_ah_tr_7222bac4:
@@ -1610,7 +1610,7 @@ translate turkish e04s07_ah_tr_090f4b5c:
 translate turkish e04s07_ah_tr_2a907e2d:
 
     # ah "Well, look at that. What a degenerate fuck you are. Did you really cum watching him hammer my womb, Terrell. Did the thought of him knocking me up make you cum?"
-    "Şuna bak. Ne kadar yozlaşmış bir sikiksin sen. Onun rahmime vuruşunu izlerken gerçekten boşaldın mı, Terrell? Beni hamile bırakma düşüncesi seni boşalttı mı?"
+    ah "Şuna bak. Ne kadar yozlaşmış bir sikiksin sen. Onun rahmime vuruşunu izlerken gerçekten boşaldın mı, Terrell? Beni hamile bırakma düşüncesi seni boşalttı mı?"
 
 # game/code/e04/e04s07.rpy:762
 translate turkish e04s07_ah_tr_cf7441c4:
@@ -1910,7 +1910,7 @@ translate turkish e04s07_later_fdb406bb:
 translate turkish e04s07_later_173d652c:
 
     # lc "No it's just... I've been so worked up watching [alt_mcname] fuck the reset of you... I want it... but it's so muchuaaah!"
-    lc "Hayır sadece... alt_mcname]'in seni sıfırlamasını izlerken çok heyecanlandım... İstiyorum... ama bu çok fazla!"
+    lc "Hayır sadece... [alt_mcname]'in seni sıfırlamasını izlerken çok heyecanlandım... İstiyorum... ama bu çok fazla!"
 
 # game/code/e04/e04s07.rpy:952
 translate turkish e04s07_later_7b203d57:

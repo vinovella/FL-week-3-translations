@@ -488,7 +488,7 @@ translate turkish e03s01_1cdab93e:
 translate turkish e03s01_ab5eb033:
 
     # mh "I hope you don't think me too forward, Stacy. But after work today, nothing is at the forefront of my mind beyond being [mcname]'s plaything."
-    "Umarım beni çok ileri görüşlü bulmazsın, Stacy. Ama bugün işten sonra aklımda [mcname]'in oyuncağı olmaktan başka bir şey yok."
+    mh "Umarım beni çok ileri görüşlü bulmazsın, Stacy. Ama bugün işten sonra aklımda [mcname]'in oyuncağı olmaktan başka bir şey yok."
 
 # game/code/e03/e03s01.rpy:433
 translate turkish e03s01_55e0c39b:

@@ -566,7 +566,7 @@ translate turkish e16s06_sex_87b7b753:
 translate turkish e16s06_sex_428f5973:
 
     # kk "Then there is nothing to be sorry about, [mcname]. In fact, I think since seeing your lovely cowgirl got you this way, it's my chore to fix it."
-    "O zaman üzülecek bir şey yok, [mcname]. Aslında, sevgili kovboy kızını görmek seni bu hale getirdiğine göre, bunu düzeltmek benim görevim."
+    kk "O zaman üzülecek bir şey yok, [mcname]. Aslında, sevgili kovboy kızını görmek seni bu hale getirdiğine göre, bunu düzeltmek benim görevim."
 
 # game/code/e16/e16s06.rpy:428
 translate turkish e16s06_sex_cfce055e:
@@ -890,7 +890,7 @@ translate turkish e16s06_sex_e8eb06f2:
 translate turkish e16s06_sex_4a5ac473:
 
     # kk "Hehe. Hi kitty-kat. You want a taste of [mcname]'s thick cum?"
-    kk "Hehe. Merhaba kedicik. mcname]'in kalın dölünün tadına bakmak ister misin?"
+    kk "Hehe. Merhaba kedicik. [mcname]'in kalın dölünün tadına bakmak ister misin?"
 
 # game/code/e16/e16s06.rpy:615
 translate turkish e16s06_sex_349aa8cd:

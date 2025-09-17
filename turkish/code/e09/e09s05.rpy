@@ -254,7 +254,7 @@ translate turkish e09s05_b4c35391:
 translate turkish e09s05_a3d635de:
 
     # arj "Oh come on, Stacy. Don't torture [mcname] too much."
-    arj "Oh hadi, Stacy. Mcname]'e fazla işkence etme."
+    arj "Oh hadi, Stacy. [mcname]'e fazla işkence etme."
 
 # game/code/e09/e09s05.rpy:150
 translate turkish e09s05_8498cc88:

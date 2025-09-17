@@ -776,7 +776,7 @@ translate turkish e07s06_sneak_attack_af8d4e50:
 translate turkish e07s06_sneak_attack_c45754e2:
 
     # mct "But... now I can relax. There is no way Pete recovers from that"
-    "Ama... şimdi rahatlayabilirim. Pete'in bundan kurtulmasına imkan yok."
+    mct "Ama... şimdi rahatlayabilirim. Pete'in bundan kurtulmasına imkan yok."
 
 # game/code/e07/e07s06.rpy:414
 translate turkish e07s06_sneak_attack_0c054906:

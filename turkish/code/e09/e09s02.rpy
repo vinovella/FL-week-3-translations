@@ -8,7 +8,7 @@ translate turkish e09s02_4bbdb1fc:
 translate turkish e09s02_6f07ff68:
 
     # mct "I have like 18 different bombshells to drop on her...{w} And she hasn't always been totally cool with me..."
-    "Ona atacak 18 farklı bombam var...{w} Ve bana her zaman tamamen iyi davranmadı..."
+    mct "Ona atacak 18 farklı bombam var...{w} Ve bana her zaman tamamen iyi davranmadı..."
 
 # game/code/e09/e09s02.rpy:23
 translate turkish e09s02_3e4f99cc:

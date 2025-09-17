@@ -1124,7 +1124,7 @@ translate turkish e12s03_sex_0ff5dfca:
 translate turkish e12s03_sex_4172edf2:
 
     # vw "I'm going to, fuck, I'm going to-"
-    "Ben gidiyorum, lanet olsun, ben gidiyorum-"
+    vw "Ben gidiyorum, lanet olsun, ben gidiyorum-"
 
 # game/code/e12/e12s03.rpy:666
 translate turkish e12s03_sex_da578ebb:

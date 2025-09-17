@@ -26,7 +26,7 @@ translate turkish e11s06_ffe7c7f6:
 translate turkish e11s06_3de599a3:
 
     # ly "Anyway...{w} Did you both finish her bucket list?"
-    "Her neyse...{w} İkiniz de onun yapılacaklar listesini bitirdiniz mi?"
+    ly "Her neyse...{w} İkiniz de onun yapılacaklar listesini bitirdiniz mi?"
 
 # game/code/e11/e11s06.rpy:55
 translate turkish e11s06_06123067:
@@ -278,7 +278,7 @@ translate turkish e11s06_sex_flashback_8cc677a5:
 translate turkish e11s06_sex_flashback_0cefb0fa:
 
     # ly "*laughs loudly*"
-    "*yüksek sesle güler*"
+    ly "*yüksek sesle güler*"
 
 # game/code/e11/e11s06.rpy:275
 translate turkish e11s06_sex_flashback_09269347:

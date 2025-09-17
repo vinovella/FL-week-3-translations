@@ -146,7 +146,7 @@ translate turkish week_2_recap_c09ec016:
 translate turkish week_2_recap_4cf74c55:
 
     # "[mcname] set a very strict tone about Lyssa's access to his cock. She was happy to oblige him."
-    "[[mcname], Lyssa'nın aletine erişimi konusunda çok katı bir tavır takındı. Lyssa, onu memnun etmekten mutlu oldu."
+    "[mcname], Lyssa'nın aletine erişimi konusunda çok katı bir tavır takındı. Lyssa, onu memnun etmekten mutlu oldu."
 
 # game/code/recap/w2_recap.rpy:172
 translate turkish week_2_recap_777c73a3:
@@ -1454,7 +1454,7 @@ translate turkish week_2_day_14_p2_7d726555:
 translate turkish week_2_day_14_p2_8b6cd62d:
 
     # "[mcname] told Vanessa he'd try to help mend their broken bridges."
-    "[[mcname], Vanessa'ya kırık köprülerini onarmaya yardım edeceğini söyledi."
+    "[mcname], Vanessa'ya kırık köprülerini onarmaya yardım edeceğini söyledi."
 
 # game/code/recap/w2_recap.rpy:785
 translate turkish week_2_day_14_p2_c188bf5a:

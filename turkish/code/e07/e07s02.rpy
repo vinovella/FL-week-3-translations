@@ -26,7 +26,7 @@ translate turkish e07s02_bda8a039:
 translate turkish e07s02_33c0f773:
 
     # lc "This is dis-gus-ting. It's burnt, it's half cold, it's-"
-    "Bu çok kötü. Yanmış, yarı soğuk, bu-"
+    lc "Bu çok kötü. Yanmış, yarı soğuk, bu-"
 
 # game/code/e07/e07s02.rpy:60
 translate turkish e07s02_941cc3e0:

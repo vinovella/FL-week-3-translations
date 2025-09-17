@@ -872,7 +872,7 @@ translate turkish e07s05_door_3_a12aebc2:
 translate turkish e07s05_door_3_end_be77da05:
 
     # gc "Fuck, Lydia, if you keep doing that-"
-    "Lanet olsun, Lydia, eğer bunu yapmaya devam edersen-"
+    gc "Lanet olsun, Lydia, eğer bunu yapmaya devam edersen-"
 
 # game/code/e07/e07s05.rpy:687
 translate turkish e07s05_door_3_end_6d58248d:
@@ -1274,13 +1274,13 @@ translate turkish e07s05_grand_finale_b2a04f0d:
 translate turkish e07s05_grand_finale_4a5de0fb:
 
     # zo "Holy shit-"
-    "Lanet olsun-"
+    zo "Lanet olsun-"
 
 # game/code/e07/e07s05.rpy:1083
 translate turkish e07s05_grand_finale_526981bd:
 
     # dr "-I'm gonna fucking-"
-    "-Ben sikeceğim-"
+    dr "-Ben sikeceğim-"
 
 # game/code/e07/e07s05.rpy:1085
 translate turkish e07s05_grand_finale_5ae55f91:
@@ -1322,7 +1322,7 @@ translate turkish e07s05_grand_finale_741f7b08:
 translate turkish e07s05_grand_finale_45dce79e:
 
     # dr "But-"
-    "Ama-"
+    dr "Ama-"
 
 # game/code/e07/e07s05.rpy:1117
 translate turkish e07s05_grand_finale_2387a277:

@@ -182,7 +182,7 @@ translate turkish e05s02_2c38273c:
 translate turkish e05s02_a37b6ca2:
 
     # op "Wait, Ms. Har-"
-    "Bekleyin, Bayan Har-"
+    op "Bekleyin, Bayan Har-"
 
 # game/code/e05/e05s02.rpy:147
 translate turkish e05s02_9c2af6c7:
@@ -512,7 +512,7 @@ translate turkish e05s02_c8155816:
 translate turkish e05s02_85a8bc18:
 
     # tal "The fucking new guy.{w} And who the hell are you?"
-    "Lanet olası yeni adam. Ve sen de kimsin?"
+    tal "Lanet olası yeni adam. Ve sen de kimsin?"
 
 # game/code/e05/e05s02.rpy:309
 translate turkish e05s02_4ea1ee34:
@@ -530,13 +530,13 @@ translate turkish e05s02_a3e8ad14:
 translate turkish e05s02_939d44ac:
 
     # op "Okay, Ms. Lindquist, so-"
-    "Tamam, Bayan Lindquist, yani-"
+    op "Tamam, Bayan Lindquist, yani-"
 
 # game/code/e05/e05s02.rpy:317
 translate turkish e05s02_cf823cff:
 
     # tal "Hang on a sec there, little man. Just to be clear, I get some new guy instead of the badass lawyer lady. And there's some weirdo assistant here, too?"
-    "Bir saniye bekle, küçük adam. Açıklığa kavuşturmak için söylüyorum, sert avukat hanım yerine yeni bir adam aldım. Ve burada da tuhaf bir asistan mı var?"
+    tal "Bir saniye bekle, küçük adam. Açıklığa kavuşturmak için söylüyorum, sert avukat hanım yerine yeni bir adam aldım. Ve burada da tuhaf bir asistan mı var?"
 
 # game/code/e05/e05s02.rpy:320
 translate turkish e05s02_2c5db4f3:
@@ -566,7 +566,7 @@ translate turkish e05s02_530f00fb:
 translate turkish e05s02_69636847:
 
     # op "Oh, you're talking to me. Well- ahem- I reviewed your case thoroughly, and I think our best choice would be to arrange a plea deal with-"
-    "Oh, benimle konuşuyorsun. Davanızı baştan sona inceledim ve sanırım en iyi seçeneğimiz bir savunma anlaşması yapmak olacak-"
+    op "Oh, benimle konuşuyorsun. Davanızı baştan sona inceledim ve sanırım en iyi seçeneğimiz bir savunma anlaşması yapmak olacak-"
 
 # game/code/e05/e05s02.rpy:334
 translate turkish e05s02_bc171737:
@@ -590,7 +590,7 @@ translate turkish e05s02_488e7ba9:
 translate turkish e05s02_c0598c71:
 
     # op "I'm sorry, but with your record-"
-    "Özür dilerim ama siciliniz-"
+    op "Özür dilerim ama siciliniz-"
 
 # game/code/e05/e05s02.rpy:345
 translate turkish e05s02_ae319337:

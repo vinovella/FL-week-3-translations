@@ -500,7 +500,7 @@ translate turkish e12s05_sex_671c891f:
 translate turkish e12s05_sex_430e6871:
 
     # aw "FUCK [mcname]! You gotta give me some warning-"
-    "S.KTİR [mcname]! Beni biraz uyarmalısın-"
+    aw "S.KTİR [mcname]! Beni biraz uyarmalısın-"
 
 # game/code/e12/e12s05.rpy:375
 translate turkish e12s05_sex_a1877ae8:
@@ -1010,7 +1010,7 @@ translate turkish e12s05_sex_37694416:
 translate turkish e12s05_sex_dce6d8d0:
 
     # aw "When she dreams of getting facefucked? When all she can see is your tongue swirling around her pussy, your fingers in her ass, screaming your name as she cums?"
-    "Yüzünden sikilmeyi hayal ettiğinde mi? Tek görebildiği dilinin amının etrafında döndüğü, parmaklarının götünde olduğu, boşalırken adını haykırdığı zaman?"
+    aw "Yüzünden sikilmeyi hayal ettiğinde mi? Tek görebildiği dilinin amının etrafında döndüğü, parmaklarının götünde olduğu, boşalırken adını haykırdığı zaman?"
 
 # game/code/e12/e12s05.rpy:588
 translate turkish e12s05_sex_6fa10e63:

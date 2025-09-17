@@ -482,7 +482,7 @@ translate turkish e12s07_sex_cebba43a:
 translate turkish e12s07_lounge_9acf661c:
 
     # vw "Ah-h. Ever since [mcname] knocked me up, his cock just smells better."
-    vw "Ah-h. mcname] beni hamile bıraktığından beri, siki daha güzel kokuyor."
+    vw "Ah-h. [mcname] beni hamile bıraktığından beri, siki daha güzel kokuyor."
 
 # game/code/e12/e12s07.rpy:363
 translate turkish e12s07_lounge_c2b50ee2:
@@ -866,7 +866,7 @@ translate turkish e12s07_continue_73d59733:
 translate turkish e12s07_continue_f70f07f9:
 
     # aw "*hungry moans* With you and Vanessa with me-"
-    "*Aç inlemeler* Seninle ve Vanessa benimle-"
+    aw "*Aç inlemeler* Seninle ve Vanessa benimle-"
 
 # game/code/e12/e12s07.rpy:611
 translate turkish e12s07_continue_5b4715fc:

@@ -368,7 +368,7 @@ translate turkish e05s04_sex_59d760a1:
 translate turkish e05s04_sex_cd5e3930:
 
     # mh "A skillset, just like any other.{w} And I think I know the perfect way to work on it..."
-    "Tıpkı diğerleri gibi bir beceri seti. {w} Ve sanırım bunun üzerinde çalışmak için mükemmel bir yol biliyorum..."
+    mh "Tıpkı diğerleri gibi bir beceri seti. {w} Ve sanırım bunun üzerinde çalışmak için mükemmel bir yol biliyorum..."
 
 # game/code/e05/e05s04.rpy:257
 translate turkish e05s04_sex_731ec0cb:
@@ -782,7 +782,7 @@ translate turkish e05s04_sex_76d7f551:
 translate turkish e05s04_sex_077115bc:
 
     # op "N-no... It was... Just that good.{w} I really filled you up..."
-    "Hayır... Bu... Sadece o kadar iyiydi.{w} Seni gerçekten doldurdum..."
+    op "Hayır... Bu... Sadece o kadar iyiydi.{w} Seni gerçekten doldurdum..."
 
 # game/code/e05/e05s04.rpy:473
 translate turkish e05s04_sex_72859f03:
@@ -836,7 +836,7 @@ translate turkish e05s04_sex_9799e8fe:
 translate turkish e05s04_sex_df182e3a:
 
     # op "Wow... I really did.{w} I made a mess."
-    "Vay be... Gerçekten yaptım. {w} Karışıklık yarattım."
+    op "Vay be... Gerçekten yaptım. {w} Karışıklık yarattım."
 
 # game/code/e05/e05s04.rpy:505
 translate turkish e05s04_sex_fcd087ca:

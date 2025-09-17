@@ -212,7 +212,7 @@ translate turkish e16s01_89947bf6:
 translate turkish e16s01_0edf144d:
 
     # jf "I'm no farmer. Aunt Rose must have-"
-    "Ben çiftçi değilim. Rose Teyze olmalı-"
+    jf "Ben çiftçi değilim. Rose Teyze olmalı-"
 
 # game/code/e16/e16s01.rpy:217
 translate turkish e16s01_2d4b81e4:

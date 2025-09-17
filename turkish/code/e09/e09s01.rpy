@@ -854,7 +854,7 @@ translate turkish e09s01_continue_sex_bd4f4fd3:
 translate turkish e09s01_continue_sex_07172ac4:
 
     # aw "*happy sucking*"
-    "*mutlu emişler*"
+    aw "*mutlu emişler*"
 
 # game/code/e09/e09s01.rpy:481
 translate turkish e09s01_continue_sex_cf47552a:

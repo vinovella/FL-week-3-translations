@@ -662,7 +662,7 @@ translate turkish e09s04_3723ac23:
 translate turkish e09s04_c51e420a:
 
     # lo "Oh my God, Hana-"
-    "Aman Tanrım, Hana-"
+    lo "Aman Tanrım, Hana-"
 
 # game/code/e09/e09s04.rpy:351
 translate turkish e09s04_3a9e7958:
@@ -776,7 +776,7 @@ translate turkish e09s04_7f5ba0a1:
 translate turkish e09s04_9b18bfa7:
 
     # hr "But, they've already been authenticated and verified. The best he can hope for is a plea deal, which he won't take. And then it's off to trial."
-    "Ama zaten doğrulandılar ve onaylandılar. Umabileceği en iyi şey, kabul etmeyeceği bir savunma anlaşması. Sonra da mahkemeye çıkar."
+    hr "Ama zaten doğrulandılar ve onaylandılar. Umabileceği en iyi şey, kabul etmeyeceği bir savunma anlaşması. Sonra da mahkemeye çıkar."
 
 # game/code/e09/e09s04.rpy:399
 translate turkish e09s04_56c4239f:
@@ -1838,7 +1838,7 @@ translate turkish e09s04_2d629d3d:
 translate turkish e09s04_92ddbb63:
 
     # lo "Maybe just a little bit.{w} Now come on, [mcname], I'm ready for the show!"
-    "Belki birazcık. {w} Şimdi hadi, [mcname], gösteri için hazırım!"
+    lo "Belki birazcık. {w} Şimdi hadi, [mcname], gösteri için hazırım!"
 
 # game/code/e09/e09s04.rpy:806
 translate turkish e09s04_49c39ad9:

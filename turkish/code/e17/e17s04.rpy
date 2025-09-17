@@ -116,7 +116,7 @@ translate turkish e17s04_5941b02a:
 translate turkish e17s04_1f99b02d:
 
     # dw "{i}No matter what, I wasn't going to let that old cow win. I couldn't hear it. I made a mistake.{/i}"
-    "{i}Ne olursa olsun, o yaşlı ineğin kazanmasına izin vermeyecektim. Onu duyamadım. Bir hata yaptım.{/i}"
+    dw "{i}Ne olursa olsun, o yaşlı ineğin kazanmasına izin vermeyecektim. Onu duyamadım. Bir hata yaptım.{/i}"
 
 # game/code/e17/e17s04.rpy:122
 translate turkish e17s04_6c951bd8:
@@ -218,7 +218,7 @@ translate turkish e17s04_90240a80:
 translate turkish e17s04_return_91aee001:
 
     # dw "{i}Gizela said that I must have let my temper get to me. That I was mad at [mcname]. I was mad.{/i}"
-    dw "{i}Gizela sinirlerime hakim olamadığımı söyledi. mcname]'e kızgın olduğumu söyledi. Kızmıştım.{/i}"
+    dw "{i}Gizela sinirlerime hakim olamadığımı söyledi. [mcname]'e kızgın olduğumu söyledi. Kızmıştım.{/i}"
 
 # game/code/e17/e17s04.rpy:195
 translate turkish e17s04_return_fd141930:
@@ -758,7 +758,7 @@ translate turkish replay_e17s04_1f9a317a:
 translate turkish replay_e17s04_8c8661c9:
 
     # dw "{i}He was mine, completely and without reservation. I had a made a masterpiece, a masterpiece that could fuck its artist. I loved it. I loved-{/i}"
-    "{i}O benimdi, tamamen ve tereddütsüz. Bir başyapıt yapmıştım, sanatçısını sikebilecek bir başyapıt. Onu sevmiştim. Sevdim-{/i}"
+    dw "{i}O benimdi, tamamen ve tereddütsüz. Bir başyapıt yapmıştım, sanatçısını sikebilecek bir başyapıt. Onu sevmiştim. Sevdim-{/i}"
 
 # game/code/e17/e17s04.rpy:524
 translate turkish replay_e17s04_894f1a73:

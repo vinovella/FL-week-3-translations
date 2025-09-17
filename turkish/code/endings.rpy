@@ -52,23 +52,23 @@ translate turkish strings:
 translate turkish ending_not_available_9dcfd841:
 
     # "You have reached the current end of this story path."
-    "You have reached the current end of this story path."
+    "Bu hikaye yolunun şu anki sonuna ulaştınız."
 
 # game/code/endings.rpy:238
 translate turkish ending_not_available_889ce1af:
 
     # "This ending is available as a free DLC."
-    "This ending is available as a free DLC."
+    "Bu bitiş ücretsiz bir DLC olarak mevcuttur."
 
 # game/code/endings.rpy:240
 translate turkish ending_not_available_8fd50248:
 
     # "This ending is available as a paid DLC."
-    "This ending is available as a paid DLC."
+    "Bu bitiş ücretli bir DLC olarak mevcuttur."
 
 # game/code/endings.rpy:242
 translate turkish ending_not_available_fd68c670:
 
     # "This ending is available in our Patreon."
-    "This ending is available in our Patreon."
+    "Bu son Patreon'umuzda mevcut."
 

@@ -32,7 +32,7 @@ translate turkish e14s02_6a59de90:
 translate turkish e14s02_e5d5660a:
 
     # nk "What if this was a mistake? I barely survived the last cafe. What if I dragged you two hundreds of miles from home-"
-    "Ya bu bir hataysa? Son kafeden zar zor kurtuldum. Ya sizi evinizden yüzlerce kilometre uzağa sürüklediysem-"
+    nk "Ya bu bir hataysa? Son kafeden zar zor kurtuldum. Ya sizi evinizden yüzlerce kilometre uzağa sürüklediysem-"
 
 # game/code/e14/e14s02.rpy:36
 translate turkish e14s02_2fb5e979:
@@ -542,7 +542,7 @@ translate turkish e14s02_ed2cbe03:
 translate turkish e14s02_4ad64dcf:
 
     # pw "Eventually you have to, right? \"If you don't think about the future, you cannot have one.\""
-    "Eninde sonunda yapmak zorundasın, değil mi? \"Geleceği düşünmezsen, geleceğe sahip olamazsın."
+    pw "Eninde sonunda yapmak zorundasın, değil mi? \"Geleceği düşünmezsen, geleceğe sahip olamazsın."
 
 # game/code/e14/e14s02.rpy:251
 translate turkish e14s02_9b6ea46d:

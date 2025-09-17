@@ -356,7 +356,7 @@ translate turkish e12s04_66d45bc4:
 translate turkish e12s04_d9b68d4f:
 
     # mc "Woah, it's going to be okay Vanessa. I think it's just a lot for her. Let me go talk to her and see what's going on, okay?"
-    "Her şey yoluna girecek Vanessa. Sanırım bu onun için çok fazla. Gidip onunla konuşayım ve neler olduğuna bakayım, tamam mı?"
+    mc "Her şey yoluna girecek Vanessa. Sanırım bu onun için çok fazla. Gidip onunla konuşayım ve neler olduğuna bakayım, tamam mı?"
 
 # game/code/e12/e12s04.rpy:290
 translate turkish e12s04_da68eeef:
@@ -530,7 +530,7 @@ translate turkish e12s04_37db77d0:
 translate turkish e12s04_5e964e85:
 
     # aw "I mean, why wouldn't we get pregnant together? Our cycles are synced, we have a crazy amount of sex. I just started daydreaming about it one day and..."
-    "Yani, neden birlikte hamile kalmayalım ki? Döngülerimiz senkronize, çılgınca seks yapıyoruz. Bir gün bunun hayalini kurmaya başladım ve..."
+    aw "Yani, neden birlikte hamile kalmayalım ki? Döngülerimiz senkronize, çılgınca seks yapıyoruz. Bir gün bunun hayalini kurmaya başladım ve..."
 
 # game/code/e12/e12s04.rpy:381
 translate turkish e12s04_85466adc:

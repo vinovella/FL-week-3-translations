@@ -282,15 +282,15 @@ translate turkish strings:
 
     # renpy/common/00action_file.rpy:378
     old "Save slot %s: [text]"
-    new "%s yuvasını kaydet: [metin]"
+    new "%s yuvasını kaydet: [text]"
 
     # renpy/common/00action_file.rpy:461
     old "Load slot %s: [text]"
-    new "%s yuvasını yükle: [metin]"
+    new "%s yuvasını yükle: [text]"
 
     # renpy/common/00action_file.rpy:514
     old "Delete slot [text]"
-    new "Yuvayı sil [metin]"
+    new "Yuvayı sil [text]"
 
     # renpy/common/00action_file.rpy:593
     old "File page auto"
@@ -302,7 +302,7 @@ translate turkish strings:
 
     # renpy/common/00action_file.rpy:597
     old "File page [text]"
-    new "Dosya sayfası [metin]"
+    new "Dosya sayfası [text]"
 
     # renpy/common/00action_file.rpy:655
     old "Page {}"
@@ -338,11 +338,11 @@ translate turkish strings:
 
     # renpy/common/00action_other.rpy:381
     old "Language [text]"
-    new "Dil [metin]"
+    new "Dil [text]"
 
     # renpy/common/00action_other.rpy:722
     old "Open [text] directory."
-    new "[metin] dizini aç."
+    new "[text] dizini aç."
 
     # renpy/common/00director.rpy:705
     old "The interactive director is not enabled here."
@@ -550,7 +550,7 @@ translate turkish strings:
 
     # renpy/common/00preferences.rpy:330
     old "skip unseen [text]"
-    new "görünmeyeni atla [metin]"
+    new "görünmeyeni atla [text]"
 
     # renpy/common/00preferences.rpy:335
     old "skip unseen text"
@@ -906,7 +906,7 @@ translate turkish strings:
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
-    new "[count] görüntü [dizin] kilitli."
+    new "[count] görüntü [index] kilitli."
 
     # renpy/common/00gallery.rpy:647
     old "prev"
@@ -1002,7 +1002,7 @@ translate turkish strings:
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
-    new "Bu bilgisayarda grafikleri görüntülemede bir sorun var: [sorun]."
+    new "Bu bilgisayarda grafikleri görüntülemede bir sorun var: [problem]."
 
     # renpy/common/00gltest.rpy:255
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
@@ -1042,7 +1042,7 @@ translate turkish strings:
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new "'[kontrol!s] '[tür] düğmesine basın veya hareket ettirin."
+    new "'[control!s]' [kind] düğmesine basın veya hareket ettirin."
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
@@ -1230,13 +1230,13 @@ translate turkish strings:
 
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
-    new "Translation identifier: [identifier]"
+    new "Çeviri kimliği: [identifier]"
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
-    new " translates [tl.filename]:[tl.linenumber]"
+    new " çevirir [tl.filename]:[tl.linenumber]"
 
     # renpy/common/00translation.rpy:101
     old "\n{color=#fff}Copied to clipboard.{/color}"
-    new "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}Panoya kopyalandı.{/color}"
 

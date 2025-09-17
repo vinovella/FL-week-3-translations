@@ -632,7 +632,7 @@ translate turkish e05s05_sex_f8ffde48:
 translate turkish e05s05_sex_23412c22:
 
     # op "I-I feel your finger against my pr-prostate, and-"
-    "Parmağını prostatımda hissediyorum ve-"
+    op "Parmağını prostatımda hissediyorum ve-"
 
 # game/code/e05/e05s05.rpy:392
 translate turkish e05s05_sex_f8c77631:
@@ -890,7 +890,7 @@ translate turkish e05s05_sex_2d008c24:
 translate turkish e05s05_sex_7165384b:
 
     # op "Whatever you've been doing, keep doing it! I want you to fuck me like this {i}every time.{/i}"
-    "Her ne yapıyorsan, yapmaya devam et! Beni her seferinde böyle becermeni {i}istiyorum.{/i}"
+    op "Her ne yapıyorsan, yapmaya devam et! Beni her seferinde böyle becermeni {i}istiyorum.{/i}"
 
 # game/code/e05/e05s05.rpy:536
 translate turkish e05s05_sex_96295afe:

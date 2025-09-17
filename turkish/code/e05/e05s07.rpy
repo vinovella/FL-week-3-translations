@@ -446,7 +446,7 @@ translate turkish e05s07_bar_5f099e7d:
 translate turkish e05s07_bar_89dd02a3:
 
     # mh "Me? I won't do anything. But I'm good friends with the bar owner. And if you don't want to get kicked out and banned from the bar, you better leave now."
-    "Ben mi? Ben hiçbir şey yapmayacağım. Ama bar sahibiyle iyi arkadaşım. Ve eğer bardan kovulmak ve yasaklanmak istemiyorsan, şimdi gitsen iyi olur."
+    mh "Ben mi? Ben hiçbir şey yapmayacağım. Ama bar sahibiyle iyi arkadaşım. Ve eğer bardan kovulmak ve yasaklanmak istemiyorsan, şimdi gitsen iyi olur."
 
 # game/code/e05/e05s07.rpy:302
 translate turkish e05s07_bar_04ff570a:
@@ -992,7 +992,7 @@ translate turkish e05s07_sex_328cb18b:
 translate turkish e05s07_sex_eb1c02e0:
 
     # mh "Oliver, save some for the rest of us. We have plenty of time to make [mcname] cum."
-    mh "Oliver, biraz da bize sakla. mcname]'i boşaltmak için bolca vaktimiz var."
+    mh "Oliver, biraz da bize sakla. [mcname]'i boşaltmak için bolca vaktimiz var."
 
 # game/code/e05/e05s07.rpy:638
 translate turkish e05s07_sex_958a4dac:

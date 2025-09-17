@@ -458,7 +458,7 @@ translate turkish replay_e15s05_c87956e2:
 translate turkish replay_e15s05_4f8dfd69:
 
     # ga "Is... Is [mcname] peeing on me?"
-    ga "Is... mcname] üzerime mi işiyor?"
+    ga "Is... [mcname] üzerime mi işiyor?"
 
 # game/code/e15/e15s05.rpy:297
 translate turkish replay_e15s05_574d8edb:
@@ -1677,7 +1677,7 @@ translate turkish e15s05_last_test_1764eb2b:
 
     # ga "Thank you so much, for everything, Lyssa!"
     ga "Her şey için çok teşekkür ederim, Lyssa!"
- 
+
 # game/code/e15/e15s05.rpy:948
 translate turkish e15s05_last_test_77f4d16c:
 
@@ -1711,7 +1711,7 @@ translate turkish e15s05_last_test_87747d41:
 translate turkish strings:
 
     # game/code/e15/e15s05.rpy:308
-    old "It's a mutual admiration" 
+    old "It's a mutual admiration"
     new "Bu karşılıklı bir hayranlık"
 
     # game/code/e15/e15s05.rpy:308

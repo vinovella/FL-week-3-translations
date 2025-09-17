@@ -530,13 +530,13 @@ translate turkish replay_e12s06_b63e11d3:
 translate turkish replay_e12s06_136182e0:
 
     # aw "Take his clothes off, Mom. I'm sick of imagining [mcname]'s cock."
-    aw "Kıyafetlerini çıkar anne. Mcname]'in sikini hayal etmekten bıktım."
+    aw "Kıyafetlerini çıkar anne. [mcname]'in sikini hayal etmekten bıktım."
 
 # game/code/e12/e12s06.rpy:330
 translate turkish replay_e12s06_04df6f3d:
 
     # aw "Vanessa, take his clothes off. I'm sick of imagining [mcname]'s cock."
-    aw "Vanessa, elbiselerini çıkar. mcname]'in sikini hayal etmekten bıktım."
+    aw "Vanessa, elbiselerini çıkar. [mcname]'in sikini hayal etmekten bıktım."
 
 # game/code/e12/e12s06.rpy:333
 translate turkish replay_e12s06_bcea8c7c:

@@ -638,7 +638,7 @@ translate turkish e07s07_vasectomy_d8e208a3:
 translate turkish e07s07_vasectomy_6df92cf6:
 
     # lc "Don't think you're done. I expect you to be hard again in moments to show [e07_mcname!t] what a {i}real man{/i} is capable of doing."
-    lc "İşinin bittiğini düşünme. e07_mcname!t]'e {i}gerçek bir erkeğin{/i} neler yapabileceğini göstermek için birazdan tekrar sertleşmeni bekliyorum."
+    lc "İşinin bittiğini düşünme. [e07_mcname!t]'e {i}gerçek bir erkeğin{/i} neler yapabileceğini göstermek için birazdan tekrar sertleşmeni bekliyorum."
 
 # game/code/e07/e07s07.rpy:332
 translate turkish e07s07_vasectomy_9f696e41:

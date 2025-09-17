@@ -2672,7 +2672,7 @@ translate turkish e09s07_part_4_ea7dfe3c:
 translate turkish e09s07_part_4_bec5d7e5:
 
     # hr "Look, you're always going to be fighting Fetish Locator's reputation here, right? But new place, fresh start - it's perfect for what you're doing."
-    "Bak, burada Fetish Locator'ın itibarıyla her zaman savaşacaksın, değil mi? Ama yeni bir yer, yeni bir başlangıç - yaptığınız şey için mükemmel."
+    hr "Bak, burada Fetish Locator'ın itibarıyla her zaman savaşacaksın, değil mi? Ama yeni bir yer, yeni bir başlangıç - yaptığınız şey için mükemmel."
 
 # game/code/e09/e09s07.rpy:1021
 translate turkish e09s07_part_4_ea7dfe3c_1:

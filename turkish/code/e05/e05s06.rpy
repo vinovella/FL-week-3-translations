@@ -104,7 +104,7 @@ translate turkish e05s06_a265ea95:
 translate turkish e05s06_eb945cd7:
 
     # mh "Hang on a second, are you-"
-    "Bir saniye bekle, sen-"
+    mh "Bir saniye bekle, sen-"
 
 # game/code/e05/e05s06.rpy:120
 translate turkish e05s06_e318f4e2:
@@ -950,7 +950,7 @@ translate turkish e05s06_sex_a27b64ba:
 translate turkish e05s06_sex_21384838:
 
     # mh "Yes! Cum in me! {i}Shoot your thick ropes of semen deep into my stomach!{/i}"
-    "Evet! İçime boşal! {i}Kalın sperm iplerini karnımın derinliklerine fışkırt!{/i}"
+    mh "Evet! İçime boşal! {i}Kalın sperm iplerini karnımın derinliklerine fışkırt!{/i}"
 
 # game/code/e05/e05s06.rpy:659
 translate turkish e05s06_sex_dbadb8b0:

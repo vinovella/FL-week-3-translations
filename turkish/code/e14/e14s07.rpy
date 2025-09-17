@@ -836,7 +836,7 @@ translate turkish e14s07_sex_b84d3c99:
 translate turkish e14s07_sex_4e774577:
 
     # pw "Good. You're the only one I've let cum in me in... A long time. Many have wanted to, but you're the only one I've allowed."
-    "Güzel. İçime boşalmasına izin verdiğim tek kişi sensin. Uzun zamandır. Birçok kişi istedi ama izin verdiğim tek kişi sensin."
+    pw "Güzel. İçime boşalmasına izin verdiğim tek kişi sensin. Uzun zamandır. Birçok kişi istedi ama izin verdiğim tek kişi sensin."
 
 # game/code/e14/e14s07.rpy:533
 translate turkish e14s07_sex_ff7003e9:

@@ -260,7 +260,7 @@ translate turkish e04s06_20e8b1a4:
 translate turkish e04s06_a25d8514:
 
     # lc "Ugh, no thanks.{w} I'm already nauseous."
-    "Ugh, hayır teşekkürler. {w} Zaten midem bulanıyor."
+    lc "Ugh, hayır teşekkürler. {w} Zaten midem bulanıyor."
 
 # game/code/e04/e04s06.rpy:165
 translate turkish e04s06_4ecdf47c:

@@ -866,7 +866,7 @@ translate turkish e05s01_sex_1e9d0842:
 translate turkish e05s01_sex_e77a2005:
 
     # op "Oh- Nnnnnng- Ms. Harris! [mcname]! If you-"
-    "Oh- Nnnnnng- Bayan Harris! [mcname]! Eğer siz-"
+    op "Oh- Nnnnnng- Bayan Harris! [mcname]! Eğer siz-"
 
 # game/code/e05/e05s01.rpy:607
 translate turkish e05s01_sex_287d4522:
@@ -1862,7 +1862,7 @@ translate turkish e05s01_sex_end_d19df5e6:
 translate turkish e05s01_sex_end_2e98b7c2:
 
     # mh "Don't be silly. Sit, get some water, relax. Mi casa, su casa. I would never give one of my partner's the boot after such an exemplary performance."
-    "Saçmalama. Otur, biraz su iç, rahatla. Mi casa, su casa. Böyle örnek bir performanstan sonra ortaklarımdan birini asla kovmam."
+    mh "Saçmalama. Otur, biraz su iç, rahatla. Mi casa, su casa. Böyle örnek bir performanstan sonra ortaklarımdan birini asla kovmam."
 
 # game/code/e05/e05s01.rpy:1203
 translate turkish e05s01_sex_end_ee801e60:
@@ -1886,7 +1886,7 @@ translate turkish e05s01_sex_end_fdb7fec0:
 translate turkish e05s01_sex_end_5cf72035:
 
     # op "I- Just- Uh- I'm-"
-    "Ben- Sadece- Ben-"
+    op "Ben- Sadece- Ben-"
 
 # game/code/e05/e05s01.rpy:1215
 translate turkish e05s01_sex_end_5289993c:

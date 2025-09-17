@@ -674,7 +674,7 @@ translate turkish e04s03_bring_lc_411fd902:
 translate turkish e04s03_bring_lc_7c3b0c51:
 
     # lc "What? No. But I'll make you regret-"
-    "Ne? Hayır. Ama seni pişman edeceğim-"
+    lc "Ne? Hayır. Ama seni pişman edeceğim-"
 
 # game/code/e04/e04s03.rpy:378
 translate turkish e04s03_bring_lc_1bdb7bbd:

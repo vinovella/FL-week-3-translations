@@ -500,7 +500,7 @@ translate turkish replay_e17s03_ec3bd47f:
 translate turkish replay_e17s03_748a17f5:
 
     # dw "You don't know me! You don't know what I- we, what have we have- we have-"
-    "Beni tanımıyorsun! Benim, bizim, bizim neye sahip olduğumuzu bilmiyorsun."
+    dw "Beni tanımıyorsun! Benim, bizim, bizim neye sahip olduğumuzu bilmiyorsun."
 
 # game/code/e17/e17s03.rpy:504
 translate turkish replay_e17s03_ba07f164:

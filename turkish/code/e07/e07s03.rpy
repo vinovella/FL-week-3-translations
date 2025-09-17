@@ -266,7 +266,7 @@ translate turkish e07s03_91e9dfa5:
 translate turkish e07s03_e76f6ed1:
 
     # mct "Yes. This sounds great. I can't wait to show [e07_lcname!t] how good I can make her feel."
-    mct "Evet. Kulağa harika geliyor. e07_lcname!t]'e ona ne kadar iyi hissettirebileceğimi göstermek için sabırsızlanıyorum."
+    mct "Evet. Kulağa harika geliyor. [e07_lcname!t]'e ona ne kadar iyi hissettirebileceğimi göstermek için sabırsızlanıyorum."
 
 # game/code/e07/e07s03.rpy:170
 translate turkish e07s03_5771f538:
@@ -1046,7 +1046,7 @@ translate turkish e07s03_give_all_d164d344:
 translate turkish e07s03_give_all_e4ae2fe4:
 
     # lc "Come on. Come on. I'm so-"
-    "Haydi. Hadi ama. Ben çok-"
+    lc "Haydi. Hadi ama. Ben çok-"
 
 # game/code/e07/e07s03.rpy:600
 translate turkish e07s03_give_all_527cec94:

@@ -2,7 +2,7 @@
 translate turkish e15s01_32445995:
 
     # mct "Okay, Got all the appointments lined up."
-    "Tamam, tüm randevuları ayarladım."
+    mct "Tamam, tüm randevuları ayarladım."
 
 # game/code/e15/e15s01.rpy:105
 translate turkish e15s01_37d7a224:
@@ -536,7 +536,7 @@ translate turkish e15s01_end_of_day_c92b31d4:
 translate turkish e15s01_end_of_day_bc183626:
 
     # sy "In here?"
-    mes "Burada mı?"
+    sy "Burada mı?"
 
 # game/code/e15/e15s01.rpy:495
 translate turkish e15s01_end_of_day_6bea8183:
@@ -710,7 +710,7 @@ translate turkish e15s01_end_of_day_67d78466:
 translate turkish e15s01_end_of_day_a7300fd0:
 
     # mes "I need to make sure you're body is totally relaxed before the treatment really begins."
-    "Tedavi başlamadan önce vücudunuzun tamamen rahatladığından emin olmam gerekiyor."
+    mes "Tedavi başlamadan önce vücudunuzun tamamen rahatladığından emin olmam gerekiyor."
 
 # game/code/e15/e15s01.rpy:592
 translate turkish e15s01_end_of_day_6bab799b:

@@ -692,7 +692,7 @@ translate turkish e15s02_after_meeting_cc9c6620:
 translate turkish e15s02_after_meeting_02156dd0:
 
     # mes "But that doesn't mean you didn't do a great job. Precise and to the point. Just like we practiced."
-    "Ama bu harika bir iş çıkarmadığınız anlamına gelmez. Kesin ve isabetli. Tıpkı çalıştığımız gibi."
+    mes "Ama bu harika bir iş çıkarmadığınız anlamına gelmez. Kesin ve isabetli. Tıpkı çalıştığımız gibi."
 
 # game/code/e15/e15s02.rpy:364
 translate turkish e15s02_after_meeting_56d61e24:

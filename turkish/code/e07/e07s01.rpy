@@ -878,7 +878,7 @@ translate turkish e07s01_after_choice_6a774ca7:
 translate turkish e07s01_after_choice_eb92357b:
 
     # lc "This is delightful. Seeing [mcname]'s humiliation will never get old."
-    lc "Bu çok hoş. mcname]'in aşağılanmasını görmek asla eskimeyecek."
+    lc "Bu çok hoş. [mcname]'in aşağılanmasını görmek asla eskimeyecek."
 
 # game/code/e07/e07s01.rpy:482
 translate turkish e07s01_after_choice_4d026ffd:
@@ -938,7 +938,7 @@ translate turkish e07s01_after_choice_23a19793:
 translate turkish e07s01_after_choice_744694fb:
 
     # lc "She doesn't care about anyone or anything except her next orgasm.{w} This will be too easy."
-    "Bir sonraki orgazmı dışında kimseyi ya da hiçbir şeyi umursamıyor. {w} Bu çok kolay olacak."
+    lc "Bir sonraki orgazmı dışında kimseyi ya da hiçbir şeyi umursamıyor. {w} Bu çok kolay olacak."
 
 # game/code/e07/e07s01.rpy:506
 translate turkish e07s01_after_choice_ea67943c:

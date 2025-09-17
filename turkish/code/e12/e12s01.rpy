@@ -680,7 +680,7 @@ translate turkish e12s01_sex_b131e59b:
 translate turkish e12s01_sex_6d8123c3:
 
     # aw "You smell so amazing, Vanessa"
-    "Çok güzel kokuyorsun, Vanessa"
+    aw "Çok güzel kokuyorsun, Vanessa"
 
 # game/code/e12/e12s01.rpy:501
 translate turkish e12s01_sex_59008804:
