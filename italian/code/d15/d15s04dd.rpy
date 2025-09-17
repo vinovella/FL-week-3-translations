@@ -20,13 +20,13 @@ translate italian d15s04dd_66ed430a:
 translate italian d15s04dd_bb0a5689:
 
     # "Receptionist" "Oh, right. Let me see."
-    "Receptionist" "Oh, si. Mi faccia controllare."
+    "Donna" "Oh, si. Mi faccia controllare."
 
 # game/code/d15/d15s04dd.rpy:49
 translate italian d15s04dd_c2e660d7:
 
     # "Receptionist" "Right. Are you Ms. Daisy Diamond?"
-    "Receptionist" "Certo. Lei è Ms. Daisy Diamond?"
+    "Donna" "Certo. Lei è Ms. Daisy Diamond?"
 
 # game/code/d15/d15s04dd.rpy:52
 translate italian d15s04dd_b6261cce:
@@ -38,13 +38,13 @@ translate italian d15s04dd_b6261cce:
 translate italian d15s04dd_b0d91d49:
 
     # "Receptionist" "Wonderful."
-    "Receptionist" "Ottimo."
+    "Donna" "Ottimo."
 
 # game/code/d15/d15s04dd.rpy:55
 translate italian d15s04dd_4b43d90a:
 
     # "Receptionist" "You can go right in. It's over—"
-    "Receptionist" "Può entrare. E' proprio—"
+    "Donna" "Può entrare. E' proprio—"
 
 # game/code/d15/d15s04dd.rpy:57
 translate italian d15s04dd_9719365e:
@@ -56,7 +56,7 @@ translate italian d15s04dd_9719365e:
 translate italian d15s04dd_87db569c:
 
     # "Receptionist" "Great. The doctor might be away for a bit, but you can just wait inside until they're back."
-    "Receptionist" "Ottimo. La dottoressa potrebbe essere fuori per un pò, ma può aspettare dentro fino a che non torna."
+    "Donna" "Ottimo. La dottoressa potrebbe essere fuori per un pò, ma può aspettare dentro fino a che non torna."
 
 # game/code/d15/d15s04dd.rpy:63
 translate italian d15s04dd_b85f6643:

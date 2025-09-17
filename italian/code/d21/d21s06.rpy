@@ -2332,35 +2332,35 @@ translate italian d21s06_wellness_spa_546d00c0:
 translate italian d21s06_reboot_fl_6d5e9610:
 
     # mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
-    mc "Let's call it{w} {b}Fetish Locator Rebooted!{/b}"
+    mc "Chiamiamolo{w} {b}Fetish Locator Rebooted!{/b}"
 
 # game/code/d21/d21s06.rpy:584
 translate italian d21s06_reboot_fl_304163ca:
 
     # sy "I love it."
-    sy "I love it."
+    sy "Mi piace."
 
 # game/code/d21/d21s06.rpy:587
 translate italian d21s06_reboot_fl_b23fc0ce:
 
     # arj "It's perfect. On point and easy to understand."
-    arj "It's perfect. On point and easy to understand."
+    arj "È perfetto. Diretto e facile da capire."
 
 # game/code/d21/d21s06.rpy:684
 translate italian d21s06_reboot_fl_d0e75550:
 
     # arj "Okay, okay. I don't think you guys have any ill will like Lydia."
-    arj "Okay, okay. I don't think you guys have any ill will like Lydia."
+    arj "Va bene, va bene. Non penso che abbiate cattive intenzioni come Lydia."
 
 # game/code/d21/d21s06.rpy:696
 translate italian d21s06_reboot_fl_82e617fe:
 
     # arj "All the cons I stated. No lies. No deceit, and no manipulation."
-    arj "All the cons I stated. No lies. No deceit, and no manipulation."
+    arj "Tutti i contro che ho detto. Niente bugie. Niente inganni, e niente manipolazione."
 
 # game/code/d21/d21s06.rpy:731
 translate italian d21s06_reboot_fl_041fcc70:
 
     # sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
-    sy "Now, let's start putting together some of the finer details like who are the initial people we can bring in."
+    sy "Ora, iniziamo a mettere insieme alcuni dettagli come chi sono le persone iniziali che possiamo coinvolgere."
 

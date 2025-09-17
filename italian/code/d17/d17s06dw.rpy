@@ -98,7 +98,7 @@ translate italian d17s06dw_23d25068:
 translate italian d17s06dw_cfb40a80:
 
     # mc "No, Mistress."
-    mc "No, Mistress."
+    mc "No, Padrona."
 
 # game/code/d17/d17s06dw.rpy:111
 translate italian d17s06dw_f9699225:

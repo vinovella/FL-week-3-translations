@@ -1,4 +1,3 @@
-
 translate deutsch strings:
 
     # game/code/endings.rpy:13

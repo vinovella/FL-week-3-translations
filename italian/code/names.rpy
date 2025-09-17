@@ -141,7 +141,7 @@ translate italian strings:
     new "Lily"
 
     old "Room Service"
-    new "Room Service"
+    new "Servizio in camera"
 
     old "Domina"
     new "Domina"
@@ -153,7 +153,7 @@ translate italian strings:
     new "Gary"
 
     old "Molly the Dog"
-    new "Molly the Dog"
+    new "Molly il cane"
 
     old "Ryan"
     new "Ryan"
@@ -168,5 +168,5 @@ translate italian strings:
     new "Kristen"
 
     old "High Priestess"
-    new "High Priestess"
+    new "Somma Sacerdotessa"
 

@@ -1,4 +1,3 @@
-
 translate spanish strings:
 
     # game/code/endings.rpy:34

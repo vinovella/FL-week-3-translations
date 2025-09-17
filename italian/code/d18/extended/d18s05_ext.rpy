@@ -380,7 +380,7 @@ translate italian d18s05_sex_c9aa8332:
 translate italian d18s05_sex_03864990:
 
     # pb "Mistress..."
-    pb "Mistress..."
+    pb "Padrona..."
 
 # game/code/d18/extended/d18s05_ext.rpy:370
 translate italian d18s05_sex_0467280e:
@@ -712,5 +712,5 @@ translate italian strings:
 translate italian d18s05_after_sex_ec16ba99:
 
     # sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
-    sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
+    sb "Odio questo posto. È una dannata giungla di cemento. Ho bisogno di una vacanza per rilassarmi."
 

@@ -716,8 +716,7 @@ translate italian d18s01_shower_ntr_35ce70c6:
 translate italian d18s01_shower_ntr_70dd9322:
 
     # lc "What did you do?!{w} You're basically the poster child for sex. Did you fuck a guy or something?"
-    lc "
-Che cosa hai fatto?!{w} Praticamente sei il simbolo del sesso. Ti sei scopato un ragazzo o qualcosa del genere?"
+    lc "Che cosa hai fatto?!{w} Praticamente sei il simbolo del sesso. Ti sei scopato un ragazzo o qualcosa del genere?"
 
 # game/code/d18/d18s01.rpy:409
 translate italian d18s01_shower_ntr_8be2e01e:

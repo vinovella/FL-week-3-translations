@@ -1082,5 +1082,5 @@ translate italian d19s01ntr_decision_aeef075e:
 translate italian d19s01ntr_decision_5b1e303f:
 
     # lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
-    lc "I'll be certain to test your devotion once I get back from getting you... We'll call it a little surprise."
+    lc "Sarò sicura di mettere alla prova la tua devozione quando tornerò a prenderti... Chiamiamola una piccola sorpresa."
 

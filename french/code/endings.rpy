@@ -1,4 +1,3 @@
-
 translate french strings:
 
     # game/code/endings.rpy:13

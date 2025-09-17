@@ -44,7 +44,7 @@ translate italian d19s04dw_cb94cf23:
 translate italian d19s04dw_cfb40a80:
 
     # mc "No, Mistress."
-    mc "No, Mistress."
+    mc "No, Padrona."
 
 # game/code/d19/d19s04dw.rpy:103
 translate italian d19s04dw_5e021c60:
@@ -92,7 +92,7 @@ translate italian d19s04dw_c55c134b:
 translate italian d19s04dw_cfb40a80_1:
 
     # mc "No, Mistress."
-    mc "No, Mistress."
+    mc "No, Padrona."
 
 # game/code/d19/d19s04dw.rpy:147
 translate italian d19s04dw_71dea0c8:

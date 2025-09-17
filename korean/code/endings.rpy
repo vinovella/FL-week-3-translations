@@ -1,4 +1,3 @@
-
 translate korean strings:
 
     # game/code/endings.rpy:34
