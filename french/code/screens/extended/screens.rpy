@@ -106,9 +106,9 @@ translate french strings:
 
     # game/code/screens/extended/screens.rpy:236
     old "Wishlist Fetish Locator: S&M Studio on Steam"
-    new "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "Ajouter Fetish Locator : S&M Studio à la liste de souhaits sur Steam"
 
     # game/code/screens/extended/screens.rpy:238
     old "Get Fetish Locator: S&M Studio on Steam"
-    new "Get Fetish Locator: S&M Studio on Steam"
+    new "Obtenir Fetish Locator : S&M Studio sur Steam"
 

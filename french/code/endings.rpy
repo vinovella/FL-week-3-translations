@@ -13,23 +13,23 @@ translate french strings:
 translate french ending_not_available_9dcfd841:
 
     # "You have reached the current end of this story path."
-    "You have reached the current end of this story path."
+    "Vous avez atteint la fin actuelle de cette branche de l'histoire."
 
 # game/code/endings.rpy:238
 translate french ending_not_available_889ce1af:
 
     # "This ending is available as a free DLC."
-    "This ending is available as a free DLC."
+    "Cette fin est disponible en DLC gratuit."
 
 # game/code/endings.rpy:240
 translate french ending_not_available_8fd50248:
 
     # "This ending is available as a paid DLC."
-    "This ending is available as a paid DLC."
+    "Cette fin est disponible en DLC payant."
 
 # game/code/endings.rpy:242
 translate french ending_not_available_fd68c670:
 
     # "This ending is available in our Patreon."
-    "This ending is available in our Patreon."
+    "Cette fin est disponible sur notre Patreon."
 

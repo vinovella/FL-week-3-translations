@@ -956,7 +956,7 @@ translate french d16s08_719d7ead:
 translate french d16s08_793927ec:
 
     # mc "Yeah, I figured that out too. Mondays for Men, Tuesdays for Women."
-    mc "Yeah, I figured that out too. Mondays for Men, Tuesdays for Women."
+    mc "Oui, j'ai compris ça aussi. Lundi pour les hommes, mardi pour les femmes."
 
 # game/code/d16/d16s08.rpy:337
 translate french d16s08_05500ff6:
@@ -968,31 +968,31 @@ translate french d16s08_05500ff6:
 translate french d16s08_ebe86b9b:
 
     # mc "What about Sundays?"
-    mc "What about Sundays?"
+    mc "Et les dimanches ?"
 
 # game/code/d16/d16s08.rpy:349
 translate french d16s08_36be32a5:
 
     # mc "Wasn't creampie a Saturday? That didn't seem so difficult."
-    mc "Wasn't creampie a Saturday? That didn't seem so difficult."
+    mc "La creampie n'était pas le samedi ? Ça n'avait pas l'air si difficile."
 
 # game/code/d16/d16s08.rpy:355
 translate french d16s08_45696812:
 
     # mc "Good point. Okay, so what about tomorrow?"
-    mc "Good point. Okay, so what about tomorrow?"
+    mc "Bonne remarque. D'accord, et demain alors ?"
 
 # game/code/d16/d16s08.rpy:361
 translate french d16s08_cd28428c:
 
     # sy "Suggestions?"
-    sy "Suggestions?"
+    sy "Des suggestions ?"
 
 # game/code/d16/d16s08.rpy:367
 translate french d16s08_1b525247:
 
     # arj "I think so. I haven't been keeping track."
-    arj "I think so. I haven't been keeping track."
+    arj "Je crois. Je n'ai pas suivi."
 
 # game/code/d16/d16s08.rpy:375
 translate french d16s08_fb7d39fc:
@@ -1004,77 +1004,77 @@ translate french d16s08_fb7d39fc:
 translate french d16s08_953a7158:
 
     # sy "I checked it. I double checked it. I even double checked the hardware and software."
-    sy "I checked it. I double checked it. I even double checked the hardware and software."
+    sy "J'ai vérifié. J'ai revérifié. J'ai même revérifié le matériel et le logiciel."
 
 # game/code/d16/d16s08.rpy:385
 translate french d16s08_8f83852c:
 
     # mc "Oh. Yeah, it was a busy day."
-    mc "Oh. Yeah, it was a busy day."
+    mc "Oh. Oui, c'était une journée chargée."
 
 # game/code/d16/d16s08.rpy:391
 translate french d16s08_6d18a2e8:
 
     # arj "You do realize just how important this is, don't you?"
-    arj "You do realize just how important this is, don't you?"
+    arj "Tu te rends compte à quel point c'est important, n'est-ce pas ?"
 
 # game/code/d16/d16s08.rpy:397
 translate french d16s08_aef8b672:
 
     # sy "Promise?"
-    sy "Promise?"
+    sy "Promis ?"
 
 # game/code/d16/d16s08.rpy:403
 translate french d16s08_8b4917bf:
 
     # arj "I'll promise you, Stacy. I guarantee he'll log some data points tonight."
-    arj "I'll promise you, Stacy. I guarantee he'll log some data points tonight."
+    arj "Je te le promets, Stacy. Je garantis qu'il enregistrera des points de données ce soir."
 
 # game/code/d16/d16s08.rpy:410
 translate french d16s08_193b1787:
 
     # sy "We have...{w} a plethora."
-    sy "We have...{w} a plethora."
+    sy "Nous avons...{w} une pléthore."
 
 # game/code/d16/d16s08.rpy:416
 translate french d16s08_e14609a8:
 
     # mc "Just the usual. {w}I didn't think I did all that much today."
-    mc "Just the usual. {w}I didn't think I did all that much today."
+    mc "Juste la routine. {w}Je ne pensais pas avoir fait tant de choses aujourd'hui."
 
 # game/code/d16/d16s08.rpy:420
 translate french d16s08_7e913a3a:
 
     # sy "There's a few GB of data that I copied off this thing. I'm gonna have to crank through it all night just to figure out what's significant."
-    sy "There's a few GB of data that I copied off this thing. I'm gonna have to crank through it all night just to figure out what's significant."
+    sy "Il y a quelques Go de données que j'ai copiées de ce truc. Je vais devoir tout analyser cette nuit pour voir ce qui est important."
 
 # game/code/d16/d16s08.rpy:426
 translate french d16s08_fef1817e:
 
     # sy "Yes, but I need to analyze the data to write parameters for the program."
-    sy "Yes, but I need to analyze the data to write parameters for the program."
+    sy "Oui, mais je dois analyser les données pour écrire les paramètres du programme."
 
 # game/code/d16/d16s08.rpy:432
 translate french d16s08_8cc3d172:
 
     # arj "Don't do that."
-    arj "Don't do that."
+    arj "Ne fais pas ça."
 
 # game/code/d16/d16s08.rpy:438
 translate french d16s08_497147a5:
 
     # arj "Never use the word, \"just\". If anything was \"just\" as easy as you think then it would be done already."
-    arj "Never use the word, \"just\". If anything was \"just\" as easy as you think then it would be done already."
+    arj "N'utilise jamais le mot \"juste\". Si quelque chose était aussi facile que tu le penses, ce serait déjà fait."
 
 # game/code/d16/d16s08.rpy:445
 translate french d16s08_c19a7e30:
 
     # arj "Alright, we should get going. We have things to do tonight."
-    arj "Alright, we should get going. We have things to do tonight."
+    arj "Bon, on devrait y aller. On a des choses à faire ce soir."
 
 # game/code/d16/d16s08.rpy:453
 translate french d16s08_c174a290:
 
     # arj "My house. {w}We'll get you some data points before bedtime."
-    arj "My house. {w}We'll get you some data points before bedtime."
+    arj "Chez moi. {w}On te donnera des points de données avant d'aller dormir."
 

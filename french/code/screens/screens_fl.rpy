@@ -296,9 +296,9 @@ translate french strings:
 
     # game/code/screens/screens_fl.rpy:1423
     old "Wishlist Fetish Locator: S&M Studio on GOG"
-    new "Wishlist Fetish Locator: S&M Studio on GOG"
+    new "Ajouter Fetish Locator : S&M Studio à la liste de souhaits sur GOG"
 
     # game/code/screens/screens_fl.rpy:1425
     old "Get Fetish Locator: S&M Studio on GOG"
-    new "Get Fetish Locator: S&M Studio on GOG"
+    new "Obtenir Fetish Locator : S&M Studio sur GOG"
 

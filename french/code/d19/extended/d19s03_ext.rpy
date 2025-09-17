@@ -1047,5 +1047,5 @@ translate french strings:
 translate french d19s03_bj_31781d18:
 
     # mh "So, {i}kidnapped{/i}, huh?"
-    mh "So, {i}kidnapped{/i}, huh?"
+    mh "Alors, {i}kidnappé{/i}, hein ?"
 

@@ -1100,7 +1100,7 @@ translate french d17s05ms_30de715b:
 translate french d17s05ms_59aa8867:
 
     # mc "You shouldn't tease your friend so much, [mcname]."
-    mh "Tu ne devrais pas autant taquiner ton amie, [mcname]."
+    mc "Tu ne devrais pas autant taquiner ton amie, [mcname]."
 
 # game/code/d17/d17s05ms.rpy:606
 translate french d17s05ms_4cc34481:

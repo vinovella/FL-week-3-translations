@@ -224,7 +224,7 @@ translate french d15s06_e75c2ccb:
 translate french d15s06_952b811f:
 
     # "Both" "*Laughing*"
-    "Both" "*En riant*"
+    "Les deux" "*En riant*"
 
 # game/code/d15/d15s06.rpy:201
 translate french d15s06_5cc6b562:
@@ -992,7 +992,7 @@ translate french d15s06_pillowtalk_76c98c3f:
 translate french d15s06_pillowtalk_0f50e2e4:
 
     # "Both" "*Laughs*"
-    "Both" "*Rires*"
+    "Les deux" "*Rires*"
 
 # game/code/d15/d15s06.rpy:855
 translate french d15s06_pillowtalk_4f4cb852:
@@ -1058,7 +1058,7 @@ translate french d15s06_pillowtalk_c2ee9bda:
 translate french d15s06_pillowtalk_290938c8:
 
     # "Both" "Laughs"
-    "Both" "Rires"
+    "Les deux" "Rires"
 
 # game/code/d15/d15s06.rpy:888
 translate french d15s06_pillowtalk_1edd8be4:

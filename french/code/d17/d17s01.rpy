@@ -1648,19 +1648,19 @@ translate french strings:
 translate french d17s01_no_ntr_ff2fe935:
 
     # mc "You want me to get it?"
-    mc "You want me to get it?"
+    mc "Tu veux que je l'obtienne ?"
 
 # game/code/d17/d17s01.rpy:665
 translate french d17s01_no_ntr_85fea182:
 
     # lc "Please don't.{w} I'd like to see what it's like...{w} raw. Is that the word?"
-    lc "Please don't.{w} I'd like to see what it's like...{w} raw. Is that the word?"
+    lc "S'il te plaît, non.{w} J'aimerais voir ce que ça fait...{w} brut. C'est le mot ?"
 
 # game/code/d17/d17s01.rpy:668
 translate french d17s01_no_ntr_56124645:
 
     # arj "It's okay.{w} Fuck me raw. I want to feel what it's like."
-    arj "It's okay.{w} Fuck me raw. I want to feel what it's like."
+    arj "C'est bon.{w} Baise-moi sans protection. Je veux sentir ce que ça fait."
 
 # game/code/d17/d17s01.rpy:671
 translate french d17s01_no_ntr_a49ed4f8:
@@ -1672,49 +1672,49 @@ translate french d17s01_no_ntr_a49ed4f8:
 translate french d17s01_no_ntr_3ca42aaf:
 
     # lc "You might want to go slow at first."
-    lc "You might want to go slow at first."
+    lc "Tu devrais peut-être y aller doucement au début."
 
 # game/code/d17/d17s01.rpy:677
 translate french d17s01_no_ntr_85974aab:
 
     # arj "No!"
-    arj "No!"
+    arj "Non !"
 
 # game/code/d17/d17s01.rpy:679
 translate french d17s01_no_ntr_11455b53:
 
     # mc "What?"
-    mc "What?"
+    mc "Quoi ?"
 
 # game/code/d17/d17s01.rpy:682
 translate french d17s01_no_ntr_5d7689bd:
 
     # arj "It's like ripping off a band-aid.{w} You fuck my ass, I push back on you, and we get you balls deep as fast as possible."
-    arj "It's like ripping off a band-aid.{w} You fuck my ass, I push back on you, and we get you balls deep as fast as possible."
+    arj "C'est comme arracher un pansement.{w} Tu me baises, je repousse, et on va aussi profond que possible aussi vite que possible."
 
 # game/code/d17/d17s01.rpy:684
 translate french d17s01_no_ntr_cfce055e:
 
     # mc "Are you sure?"
-    mc "Are you sure?"
+    mc "Tu es sûr ?"
 
 # game/code/d17/d17s01.rpy:687
 translate french d17s01_no_ntr_583c3dbf:
 
     # lc "That sounds like it would be incredibly painful."
-    lc "That sounds like it would be incredibly painful."
+    lc "Ça a l'air incroyablement douloureux."
 
 # game/code/d17/d17s01.rpy:691
 translate french d17s01_no_ntr_74aeb474:
 
     # arj "If you're going to fucking rape my ass at least do what I tell you to do."
-    arj "If you're going to fucking rape my ass at least do what I tell you to do."
+    arj "Si tu vas vraiment me violer, fais au moins ce que je te dis."
 
 # game/code/d17/d17s01.rpy:693
 translate french d17s01_no_ntr_96f17797:
 
     # arj "If you're going to fucking fuck me in the shitter at least do what I tell you to do."
-    arj "If you're going to fucking fuck me in the shitter at least do what I tell you to do."
+    arj "Si tu vas vraiment me baiser dans le cul, fais au moins ce que je te dis."
 
 # game/code/d17/d17s01.rpy:696
 translate french d17s01_no_ntr_a49ed4f8_1:
@@ -1726,11 +1726,11 @@ translate french d17s01_no_ntr_a49ed4f8_1:
 translate french d17s01_anal_sex_700f5a57:
 
     # arj "FUUUUUuuuuuuuuUUUUUCCCCCCKKKINNNNGGGG HELL!!!"
-    arj "FUUUUUuuuuuuuuUUUUUCCCCCCKKKINNNNGGGG HELL!!!"
+    arj "PUTAIIIIIIIIIIIIIIIIIN DE MERDE !!!"
 
 # game/code/d17/d17s01.rpy:717
 translate french d17s01_anal_sex_c9fac30e:
 
     # lc "She asked for it."
-    lc "She asked for it."
+    lc "Elle l'a demandé."
 

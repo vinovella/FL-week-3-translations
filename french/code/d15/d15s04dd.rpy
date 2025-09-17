@@ -817,7 +817,7 @@ translate french d15s04dd_c0c1af84:
 translate french d15s04dd_82e18332:
 
     # "Doctor" "Ms. Diamond! I'm extremely sorry about the wait time. I had an emergency that I was called for."
-    "Doctor" "Mme Diamond! Je suis extrêmement désolé pour le temps d'attente. J'ai eu une urgence pour laquelle on m'a appelé."
+    "Docteur" "Mme Diamond! Je suis extrêmement désolé pour le temps d'attente. J'ai eu une urgence pour laquelle on m'a appelé."
 
 # game/code/d15/d15s04dd.rpy:554
 translate french d15s04dd_bfb7a12f:
@@ -829,7 +829,7 @@ translate french d15s04dd_bfb7a12f:
 translate french d15s04dd_1fac3b26:
 
     # "Doctor" "Thank you. Please, sit. I have your test results here..."
-    "Doctor" "Merci. S'il vous plaît, asseyez-vous. J'ai les résultats de vos tests ici..."
+    "Docteur" "Merci. S'il vous plaît, asseyez-vous. J'ai les résultats de vos tests ici..."
 
 # game/code/d15/d15s04dd.rpy:567
 translate french d15s04dd_93ffcb1f:
