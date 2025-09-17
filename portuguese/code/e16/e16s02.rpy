@@ -996,5 +996,5 @@ translate portuguese strings:
 translate portuguese e16s02_736fa6b5:
 
     # rf "Like I said, I was surprised because obviously there has been some kind of mixup with my mother's will. The house and the farm belong to me."
-    rf ""
+    rf "Como eu disse, fiquei surpreso porque obviamente houve algum engano com o testamento da minha mãe. A casa e a fazenda pertencem a mim."
 

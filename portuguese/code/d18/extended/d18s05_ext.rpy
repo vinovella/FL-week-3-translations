@@ -712,5 +712,5 @@ translate portuguese strings:
 translate portuguese d18s05_after_sex_ec16ba99:
 
     # sb "I hate this place. It's a fucking concrete jungle. I need a trip to unwind."
-    sb ""
+    sb "Eu odeio esse lugar. É uma selva de concreto do caralho. Eu preciso de uma viagem pra relaxar."
 

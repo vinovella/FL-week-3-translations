@@ -228,13 +228,9 @@ translate portuguese strings:
     old "SKIP RECAP"
     new "PULAR RECAPITULAÇÃO"
 
-translate portuguese strings:
-
     # game/code/screens/screens_fl.rpy:444
     old "RETURN"
     new "VOLTAR"
-
-translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:1316
     old "Skip Recap\nof Week-1"
@@ -243,8 +239,6 @@ translate portuguese strings:
     # game/code/screens/screens_fl.rpy:1322
     old "Skip Recap\nof Week-2"
     new "Pular Recapitulação\nda Semana-2"
-
-translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:265
     old "Continue playing"
@@ -258,8 +252,6 @@ translate portuguese strings:
     old "If you decide to continue, you might not be able to load saves from Week-2. You won't be notified again. Are you sure?"
     new "Se decidir continuar, talvez não consiga carregar os jogos salvos da Semana-2. Você não receberá outra notificação. Tem certeza?"
 
-translate portuguese strings:
-
     # game/code/screens/screens_fl.rpy:1307
     old "Sync your saves using Ren'Py Sync server"
     new "Sincroniza seus saves usando o Servidor de Sincronia Ren'Py"
@@ -271,8 +263,6 @@ translate portuguese strings:
     # game/code/screens/screens_fl.rpy:1310
     old "Download Saves"
     new "Baixar Saves"
-
-translate portuguese strings:
 
     # game/code/screens/screens_fl.rpy:285
     old "Touch input supported"
@@ -326,17 +316,15 @@ translate portuguese strings:
     old "{u}Get Taboo University Book 1 on Steam{/u}"
     new "{u}Veja Taboo University Livro 1 na Steam{/u}"
 
-translate portuguese strings:
-
     # game/code/screens/screens_fl.rpy:1396
     old "{u}Get Taboo University Book 1 on GOG{/u}"
-    new "{u}Get Taboo University Book 1 on GOG{/u}"
+    new "{u}Adquira Taboo University Livro 1 na GOG{/u}"
 
     # game/code/screens/screens_fl.rpy:1423
     old "Wishlist Fetish Locator: S&M Studio on GOG"
-    new "Wishlist Fetish Locator: S&M Studio on GOG"
+    new "Adicione Fetish Locator: S&M Studio à sua lista de desejos na GOG"
 
     # game/code/screens/screens_fl.rpy:1425
     old "Get Fetish Locator: S&M Studio on GOG"
-    new "Get Fetish Locator: S&M Studio on GOG"
+    new "Adquira Fetish Locator: S&M Studio na GOG"
 

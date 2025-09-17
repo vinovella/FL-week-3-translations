@@ -364,8 +364,6 @@ translate portuguese strings:
     old "APPY"
     new "ELIZ"
 
-translate portuguese strings:
-
     # game/code/data/extended/extra_gallery.rpy:51
     old "Finish Ending 4 and Ending 7"
     new "Complete o Final 4 e Final 7"
@@ -412,11 +410,11 @@ translate portuguese strings:
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "41. Backdoor Cat Girl"
-    new "41. "
+    new "41. Backdoor Cat Girl"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "Backdoor Cat Girl (Ending 16)"
-    new ""
+    new "Backdoor Cat Girl (Final 16)"
 
     # game/code/data/extended/extra_gallery.rpy:60
     old "42. Pee Bootcamp"

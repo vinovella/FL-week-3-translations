@@ -473,7 +473,7 @@ translate portuguese strings:
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Olivia, Bell & Annie"
-    new "Ending 15: Olivia, Bell & Annie"
+    new "Final 15: Olivia, Bell & Annie"
 
     # game/code/data/extended/replay_room.rpy:178
     old "Ending 15: Lyssa, Stacy & Gemma"

@@ -84,29 +84,23 @@ translate portuguese strings:
     old "Get free DLC containing 6 endings from Steam"
     new "Pegue o DLC contendo 6 finais de graça na Steam"
 
-translate portuguese strings:
-
     # game/code/screens/extended/screens.rpy:227
     old "Buy Taboo University on Steam"
     new "Compre Taboo University na Steam"
-
-translate portuguese strings:
 
     # game/code/screens/extended/screens.rpy:267
     old "Get DLC-2 containing 6 additional endings from Steam"
     new "Compre o DLC-2, contendo 6 finais adicionais na Steam"
 
-translate portuguese strings:
-
     # game/code/screens/extended/screens.rpy:236
     old "Wishlist Fetish Locator: S&M Studio on Steam"
-    new "Wishlist Fetish Locator: S&M Studio on Steam"
+    new "Adicione Fetish Locator: S&M Studio à sua lista de desejos na Steam"
 
     # game/code/screens/extended/screens.rpy:238
     old "Get Fetish Locator: S&M Studio on Steam"
-    new "Get Fetish Locator: S&M Studio on Steam"
+    new "Adquira Fetish Locator: S&M Studio na Steam"
 
     # game/code/screens/extended/screens.rpy:251
     old "Watch Fetish Locator: S&M Studio trailer"
-    new "Watch Fetish Locator: S&M Studio trailer"
+    new "Assista ao trailer de Fetish Locator: S&M Studio"
 

@@ -770,7 +770,7 @@ translate portuguese e11s04_back_4541064d:
 translate portuguese e11s04_back_da66f515:
 
     # dd "I did, [temp_mcname]."
-    dd "Disse, [mcname]."
+    dd "Disse, [temp_mcname]."
 
 # game/code/e11/e11s04.rpy:489
 translate portuguese e11s04_back_970d6e74:

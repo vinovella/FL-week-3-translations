@@ -40,11 +40,11 @@ translate portuguese strings:
 
     # game/code/screens/endings.rpy:87
     old "Download this ending from Steam"
-    new "Download this ending from Steam"
+    new "Baixe este final na Steam"
 
     # game/code/screens/endings.rpy:91
     old "Get this ending from Steam"
-    new "Get this ending from Steam"
+    new "Obtenha este final na Steam"
 
     # game/code/screens/endings.rpy:98
     old "Get this ending from our Patreon"
