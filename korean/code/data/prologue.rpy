@@ -2,109 +2,109 @@ translate korean strings:
 
     # game/code/data/prologue.rpy:16
     old "Min"
-    new "Min"
+    new "민"
 
     # game/code/data/prologue.rpy:16
     old "Lyssa"
-    new "Lyssa"
+    new "리사"
 
     # game/code/data/prologue.rpy:16
     old "Maria"
-    new "Maria"
+    new "마리아"
 
     # game/code/data/prologue.rpy:16
     old "Cynthia"
-    new "Cynthia"
+    new "신시아"
 
     # game/code/data/prologue.rpy:16
     old "Oliver"
-    new "Oliver"
+    new "올리버"
 
     # game/code/data/prologue.rpy:16
     old "Aaleyah"
-    new "Aaleyah"
+    new "알리야"
 
     # game/code/data/prologue.rpy:16
     old "Daisy"
-    new "Daisy"
+    new "데이지"
 
     # game/code/data/prologue.rpy:16
     old "Dahlia"
-    new "Dahlia"
+    new "달리아"
 
     # game/code/data/prologue.rpy:16
     old "Stacy"
-    new "Stacy"
+    new "스테이시"
 
     # game/code/data/prologue.rpy:16
     old "Vanessa"
-    new "Vanessa"
+    new "버네사"
 
     # game/code/data/prologue.rpy:16
     old "Allison"
-    new "Allison"
+    new "앨리슨"
 
     # game/code/data/prologue.rpy:16
     old "Jessie"
-    new "Jessie"
+    new "제시"
 
     # game/code/data/prologue.rpy:16
     old "Chloe"
-    new "Chloe"
+    new "클로이"
 
     # game/code/data/prologue.rpy:16
     old "Iona"
-    new "Iona"
+    new "아이오나"
 
     # game/code/data/prologue.rpy:16
     old "Hana"
-    new "Hana"
+    new "하나"
 
     # game/code/data/prologue.rpy:16
     old "Chase"
-    new "Chase"
+    new "체이스"
 
     # game/code/data/prologue.rpy:16
     old "The Judge"
-    new "The Judge"
+    new "판사"
 
     # game/code/data/prologue.rpy:45
     old "Enema"
-    new "Enema"
+    new "관장(Enema)"
 
     # game/code/data/prologue.rpy:45
     old "Watersports"
-    new "Watersports"
+    new "워터스포츠(Watersports)"
 
     # game/code/data/prologue.rpy:45
     old "Footfetish"
-    new "Footfetish"
+    new "발 성벽(Footfetish)"
 
     # game/code/data/prologue.rpy:45
     old "Cumgarnish"
-    new "Cumgarnish"
+    new "정액 고명(Cumgarnish)"
 
     # game/code/data/prologue.rpy:45
     old "Fisting"
-    new "Fisting"
+    new "피스팅(Fisting)"
 
     # game/code/data/prologue.rpy:45
     old "Pegging"
-    new "Pegging"
+    new "페깅(Pegging)"
 
     # game/code/data/prologue.rpy:45
     old "Trans Content"
-    new "Trans Content"
+    new "트랜스 콘텐트"
 
     # game/code/data/prologue.rpy:79
     old "dog"
-    new "dog"
+    new "개"
 
     # game/code/data/prologue.rpy:79
     old "cuddle"
-    new "cuddle"
+    new "포옹"
 
     # game/code/data/prologue.rpy:79
     old "adult magazines"
-    new "adult magazines"
+    new "성인 잡지"
 
