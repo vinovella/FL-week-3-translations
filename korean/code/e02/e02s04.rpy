@@ -14,7 +14,7 @@ translate korean e02s04_cba3e59a:
 translate korean e02s04_c9c374c5:
 
     # mh "I am not going to bother answering that. It is really a silly question."
-    mh "전 군말은 할 생각 없답니다. 질문 자체가 실없는걸."
+    mh "전 그런 질문엔 답할 생각 없답니다. 질문 자체가 실없는걸."
 
 # game/code/e02/e02s04.rpy:23
 translate korean e02s04_a4c2d21c:
@@ -38,13 +38,13 @@ translate korean e02s04_80cc9f92:
 translate korean e02s04_d09871a8:
 
     # mh "Yes. But we do not have to worry about me representing you because you will not be committing any crimes, correct?"
-    mh "맞아. 그런데 내가 당신을 변호해 줄까 같은 괜한 고민은 하지 않아도 돼. 애초에 당신은 어떤 범죄도 저지르지 않을 테니까, 그렇지?"
+    mh "맞아. 여하튼 변호가 필요한 상황에 대해서는 걱정하지 마. 애초에 당신은 어떤 범죄도 저지르지 않을 테니까, 그렇지?"
 
 # game/code/e02/e02s04.rpy:35
 translate korean e02s04_0cb50db4:
 
     # mc "Of course not, but I'm glad to know you'd be in my corner."
-    mc "당연히 그렇기야 하지. 그래도 리사가 그런 순간에도 내 곁에 있어 준다는 게 기쁜걸."
+    mc "당연히 그렇기야 하지. 그래도 리사가 내 편이 되어 준다는 게 기쁜걸."
 
 # game/code/e02/e02s04.rpy:36
 translate korean e02s04_cf37f363:
@@ -62,37 +62,37 @@ translate korean e02s04_42507f38:
 translate korean e02s04_ee087b37:
 
     # mh "I always keep my eyes open for talent."
-    mh "언제나 인재는 환영이야."
+    mh "인재는 언제나 환영이야."
 
 # game/code/e02/e02s04.rpy:43
 translate korean e02s04_40b79f60:
 
     # mc "Well there is no one more talented than me. And we work so well together in the bedroom. Just imagine what we could do outside of it."
-    mc "흠, 나 만한 인재는 없을 거라구. 침대에서도 궁합이 끝내주잖아, 밖에서 얼마나 쿵짝이 맞을지 상상해 봐."
+    mc "흠, 나만 한 인재는 없을 거라구. 침대에서도 궁합이 끝내주잖아, 밖에서 얼마나 쿵짝이 맞을지 상상해 봐."
 
 # game/code/e02/e02s04.rpy:46
 translate korean e02s04_8f355e21:
 
     # mh "I do not need to imagine. We are out of the bedroom as often as we are in it."
-    mh "상상할 필요도 없네요. 우린 침실 안팎 가리지 않고 자주 하니까."
+    mh "상상할 필요도 없네요. 우린 침실 안에 있는 만큼이나 밖에서도 늘 함께하니까."
 
 # game/code/e02/e02s04.rpy:50
 translate korean e02s04_debd7d22:
 
     # mc "Ha! True. {w}Still, what if I was interested in pitching in?"
-    mc "하! 맞아. {w}그래도, 나랑 같이 일하는 거 어떻게 생각해?"
+    mc "하! 맞아. {w}그래도 내가 정말로 일을 좀 돕고 싶다면?"
 
 # game/code/e02/e02s04.rpy:53
 translate korean e02s04_17707427:
 
     # mh "I think you are pulling my leg."
-    mh "난 당신이 장난으로 하는 말인 줄 생각했는데."
+    mh "난 당신이 날 놀리는 거라고 생각했는데."
 
 # game/code/e02/e02s04.rpy:56
 translate korean e02s04_27c6e311:
 
     # mc "Come on, I've always liked the law."
-    mc "어이, 난 항상 법을 좋아했다구요."
+    mc "어이, 난 항상 법을 좋아했다구."
 
 # game/code/e02/e02s04.rpy:59
 translate korean e02s04_d792eb3d:
@@ -104,13 +104,13 @@ translate korean e02s04_d792eb3d:
 translate korean e02s04_bef7a842:
 
     # mh "And you would need a lot of experience before working in any office."
-    mh "법률 사무소에서 일하려면 충분한 경험을 쌓아야 해."
+    mh "어느 사무소든지 일하려면 충분한 경험을 쌓아야 해."
 
 # game/code/e02/e02s04.rpy:63
 translate korean e02s04_427cce14:
 
     # mc "Even if I have an {i}in{/i} with a kickass lawyer?"
-    mc "내가 끝내주는 변호사 선생님 {i}안{/i}을 쫙 꿰고 있는 사람인데도?"
+    mc "내가 그 끝내주는 변호사 선생님 {i}안쪽{/i}을 쫙 꿰고 있는 사람인데도?"
 
 # game/code/e02/e02s04.rpy:67
 translate korean e02s04_cdd817d4:
@@ -122,13 +122,13 @@ translate korean e02s04_cdd817d4:
 translate korean e02s04_50dcb3f4:
 
     # mc "Just think about it. I could be your sexy intern, bending over a file cabinet."
-    mc "그냥 생각히라도 해 보라는 거지. 내가 리사의 섹시한 수습 직원이 되 줄게, 서류함 보면서 몸도 굽히고 말이야."
+    mc "그냥 한번 생각이라도 해 보라는 거지. 내가 리사의 섹시한 수습 직원이 되어 줄게, 서류함 보면서 몸도 굽히고 말이야."
 
 # game/code/e02/e02s04.rpy:72
 translate korean e02s04_589acb0b:
 
     # mc "Giving you a massage whenever your shoulders need a little rubbing..."
-    mc "리사의 어깨가 조금이라도 지뿌둥하면 언제든지 내가 안마도 해 주고..."
+    mc "리사의 어깨가 조금이라도 뻐근할 때마다 내가 안마도 해 주고..."
 
 # game/code/e02/e02s04.rpy:75
 translate korean e02s04_06a5d34c:
@@ -140,7 +140,7 @@ translate korean e02s04_06a5d34c:
 translate korean e02s04_bc692d24:
 
     # mc "Hahaha. Can't blame a guy for trying."
-    mc "하하하. 구직 그 자체로 의미가 있는 거라구."
+    mc "하하하. 시도해 본 거 가지고 뭐라 하진 마."
 
 # game/code/e02/e02s04.rpy:89
 translate korean e02s04_photo_845c4c57:
@@ -158,7 +158,7 @@ translate korean e02s04_photo_4dcc526a:
 translate korean e02s04_photo_bbdf5b32:
 
     # mh "Excuse me, did you want something? A picture perhaps?"
-    mh "실례합니다, 방금 무슨 일 때문에 그러신거죠? 저희 사진을 찍으셨죠?"
+    mh "실례합니다, 뭐 필요하신 게 있나요? 혹시 사진이라도?"
 
 # game/code/e02/e02s04.rpy:99
 translate korean e02s04_photo_8831022a:
@@ -170,7 +170,7 @@ translate korean e02s04_photo_8831022a:
 translate korean e02s04_photo_5ae2f27f:
 
     # atp "Hmmph. Yes, that's what happened."
-    atp "흐으흠. 네, 그러고 말아 버렸네요 ."
+    atp "흐으흠. 네, 그렇게 된 거예요."
 
 # game/code/e02/e02s04.rpy:102
 translate korean e02s04_photo_f432e7b9:
@@ -188,19 +188,19 @@ translate korean e02s04_photo_8c26cb31:
 translate korean e02s04_photo_a6c28f39:
 
     # atp "Relax. It was nothing sinister. We, uh, couldn't help but overhear your conversation."
-    atp "진정하세요. 악의는 없었어요. 저희는, 어, 어쩌다 보니 당신들 대화를 듣게 되서요."
+    atp "진정하세요. 악의는 없었어요. 저희가, 어, 어쩌다 보니 두 분 대화를 듣게 돼서요."
 
 # game/code/e02/e02s04.rpy:115
 translate korean e02s04_photo_e4002560:
 
     # ap "Can you..."
-    ap "그게 들렸어?"
+    ap "당신 적당히..."
 
 # game/code/e02/e02s04.rpy:117
 translate korean e02s04_photo_3135da05:
 
     # atp "Oh, grow up, Alexander."
-    atp "아, 눈치 좀 키워, 알렉산더."
+    atp "아, 철 좀 들어, 알렉산더."
 
 # game/code/e02/e02s04.rpy:120
 translate korean e02s04_photo_97733348:
@@ -212,7 +212,7 @@ translate korean e02s04_photo_97733348:
 translate korean e02s04_photo_05f710da:
 
     # ap "Oh, uh-huh. Yes. I didn't imagine you'd recognize me. This is my wife, Angela."
-    ap "아, 애고. 맞습니다. 절 알아보실 줄은 몰랐네요. 이쪽은 제 아내, 안젤라입니다."
+    ap "아, 에고. 맞습니다. 절 알아보실 줄은 몰랐네요. 이쪽은 제 아내, 안젤라입니다."
 
 # game/code/e02/e02s04.rpy:125
 translate korean e02s04_photo_e7da310f:
@@ -230,13 +230,13 @@ translate korean e02s04_photo_a2b13b41:
 translate korean e02s04_photo_85e6258a:
 
     # ap "So strict. It's not illegal to snap a few shots on vacation."
-    ap "너무 깐깐하게 구시네. 휴가 중에 사진 몇 방 찍는 게 불법은 아니지 않습니까."
+    ap "너무 깐깐하게 구시네. 휴가 중에 사진 몇 장 찍는 게 불법은 아니지 않습니까."
 
 # game/code/e02/e02s04.rpy:134
 translate korean e02s04_photo_9d06fa20:
 
     # mh "Then perhaps you could explain why you took a picture of us."
-    mh "그럼 왜 저희 두 사람의 사진을 찍은 이유부터 설명해 보시죠."
+    mh "그럼 왜 저희 사진을 찍으셨는지부터 설명해 보시죠."
 
 # game/code/e02/e02s04.rpy:142
 translate korean e02s04_photo_f63d5142:
@@ -254,19 +254,19 @@ translate korean e02s04_photo_a73f30b7:
 translate korean e02s04_photo_9dc3bfdf:
 
     # mh "So, what was this? You were going to post a scoop of me while I'm on vacation?"
-    mh "그래서, 방금 촌극은 왜 벌이신 거죠? 휴가 중인 절 가지고 기사라도 쓰실 생각이셨나요?"
+    mh "그래서, 방금 일은 뭐였죠? 휴가 중인 저를 특종이라도 삼으실 생각이었나요?"
 
 # game/code/e02/e02s04.rpy:151
 translate korean e02s04_photo_7798498a:
 
     # atp "Hahaha. I'd have to be pretty desperate to try selling that. No offense."
-    atp "하하하. 악의는 없는데, 그런 기사가 팔리기나 하겠어요."
+    atp "하하하. 악의는 없는데, 그런 기사가 팔아넘기려면 내가 정말 궁해야겠죠."
 
 # game/code/e02/e02s04.rpy:152
 translate korean e02s04_photo_38b50f82:
 
     # atp "You're a banging lawyer, but do you think anyone would care to find out that you summer up in the mountains?"
-    atp "당신이 끗발 좀 있는 변호사라지만, 그 정도잖아요. 선생님이 산에서 여름 휴가를 보내는 게 대단한 기삿거리가 되기나 하겠어요?"
+    atp "선생이 잘나가는 변호사인 건 맞지만, 산에서 여름을 보낸다는 게 사람들이 궁금해할 만한 기삿거리는 아니잖아요."
 
 # game/code/e02/e02s04.rpy:155
 translate korean e02s04_photo_9cdfd432:
@@ -278,19 +278,19 @@ translate korean e02s04_photo_9cdfd432:
 translate korean e02s04_photo_7bf185d4:
 
     # atp "Not excited, just bored. We've skied and skied and then we noticed you and..."
-    atp "들뜬 게 아니라, 지겨웠던 거잖아. 우린 스키만 연거푸 타다가 이렇게 나왔는데, 눈에 당신이랑..."
+    atp "들뜬 게 아니라, 그냥 지겨웠던 거지. 스키만 줄창 타다가 두 사람이 눈에 들어와서..."
 
 # game/code/e02/e02s04.rpy:159
 translate korean e02s04_photo_781f3ba4:
 
     # atp "Well you and I are like two peas in a pod, Ms. Harris."
-    atp "아무튼, 당신이랑 전 같은 입장이라는 게 중요해요, 해리스 선생님."
+    atp "아무튼, 당신과 저는 한 배를 탄 사이나 마찬가지에요, 해리스 선생."
 
 # game/code/e02/e02s04.rpy:162
 translate korean e02s04_photo_cb8e98cf:
 
     # mh "Two peas in a pod? {w}What do you mean by that?"
-    mh "같은 입장이라니요? {w}무슨 말씀이시죠?"
+    mh "한 배라니요? {w}무슨 말씀이시죠?"
 
 # game/code/e02/e02s04.rpy:165
 translate korean e02s04_photo_84bb0e2c:
@@ -308,7 +308,7 @@ translate korean e02s04_photo_57a303eb:
 translate korean e02s04_photo_35fd49b3:
 
     # atp "You're transgender right?"
-    atp "당신 성전환자 맞죠?"
+    atp "당신 성전환자죠?"
 
 # game/code/e02/e02s04.rpy:173
 translate korean e02s04_photo_aafe8056:
@@ -350,25 +350,25 @@ translate korean e02s04_photo_79cc4def:
 translate korean e02s04_photo_07644846:
 
     # ap "I think Angela just panicked."
-    ap "안젤라는 당황을 했네요."
+    ap "안젤라가 당황을 했네요."
 
 # game/code/e02/e02s04.rpy:191
 translate korean e02s04_photo_0bb4aecf:
 
     # atp "I did not panic. I just... well, I thought it was you but I didn't know it was you."
-    atp "당황 안 했거든. 전 그저... 음, 당신 같긴 한데, 확신을 못하겠더라구요."
+    atp "당황 안 했거든. 난 그저... 음, 당신 같긴 한데, 확신을 못하겠더라구요."
 
 # game/code/e02/e02s04.rpy:192
 translate korean e02s04_photo_39efc70a:
 
     # atp "But {i}then{/i} I realized it was you and I thought..."
-    atp "그런데 {i}그 순간{/i} 진짜 당신이라는 걸 알게 되니까. 전..."
+    atp "그런데 {i}그 순간{/i} 진짜 당신이라는 걸 알게 되니까, 난..."
 
 # game/code/e02/e02s04.rpy:193
 translate korean e02s04_photo_1b1c21ae:
 
     # atp "{i}But{/i} you're on vacation and I didn't want to bother you but I've wanted to meet you so I told Alexander to get your attention."
-    atp "{i}아무튼{/i} 당신은 휴가 중인 모양이였고 전 당신을 방해하고 싶지 않았어요. 그런데 당신이랑 직접 만나보곤 싶었죠. 그래서 알렉산더한테 관심을 끌라고 했어요."
+    atp "{i}아무튼{/i} 당신은 휴가 중이었고 전 당신을 방해하고 싶지 않았어요. 그런데 당신이랑 직접 만나보곤 싶었죠. 그래서 알렉산더한테 관심을 끌라고 했어요."
 
 # game/code/e02/e02s04.rpy:196
 translate korean e02s04_photo_21dcdaaf:
@@ -380,7 +380,7 @@ translate korean e02s04_photo_21dcdaaf:
 translate korean e02s04_photo_c7769a77:
 
     # atp "I will admit to being slightly flustered. It's uh... it's not easy for me... just."
-    atp "제가 좀 당황하긴 했나 보네요. 그러니까, 어... 쉽지가 않네요..."
+    atp "내가 좀 당황하긴 했나 보네요. 그러니까, 어... 쉽지가 않네요..."
 
 # game/code/e02/e02s04.rpy:200
 translate korean e02s04_photo_85e3c151:
@@ -392,7 +392,7 @@ translate korean e02s04_photo_85e3c151:
 translate korean e02s04_photo_c7c41f08:
 
     # mh "Peas in a pod, hmmm?"
-    mh "같은 입장이라, 이런 뜻이었군요?"
+    mh "한 배라, 그런 뜻이었군요?"
 
 # game/code/e02/e02s04.rpy:211
 translate korean e02s04_photo_9c8529b9:
@@ -440,7 +440,7 @@ translate korean e02s04_fireplace_8ee9cd18:
 translate korean e02s04_fireplace_20d2e621:
 
     # atp "How do they not care? I've had people just give me blank stares when I told them."
-    atp "어떻게 신경을 안 쓸 수가 있죠? 내가 그 말을 하면 죽은 눈이 되선 허공을 쳐다보던데."
+    atp "어떻게 신경을 안 쓸 수가 있죠? 내가 그런 말을 하면 다들 멍한 표정이 되선 허공을 쳐다보던데."
 
 # game/code/e02/e02s04.rpy:241
 translate korean e02s04_fireplace_e4778d74:
@@ -452,7 +452,7 @@ translate korean e02s04_fireplace_e4778d74:
 translate korean e02s04_fireplace_ea300e24:
 
     # atp "I'm one of the most accomplished executives at Channel Six. Not just in the company, but in the industry..."
-    atp "난 채널 식스에선 잘 나가는 임원이에요. 회사에서만 그런게 아니라, 이 업계에서도 그런데..."
+    atp "난 채널 식스에선 잘 나가는 임원이에요. 회사에서만 그런 게 아니라, 이 업계에서도 그런데..."
 
 # game/code/e02/e02s04.rpy:243
 translate korean e02s04_fireplace_3aa7a0f8:
@@ -482,7 +482,7 @@ translate korean e02s04_fireplace_398f637e:
 translate korean e02s04_fireplace_ba76b91e:
 
     # mh "Water under the bridge, my dear."
-    mh "이왕지사랍니다."
+    mh "이제 다 지난 일인걸요, 자기."
 
 # game/code/e02/e02s04.rpy:255
 translate korean e02s04_fireplace_dd3767f7:
@@ -494,13 +494,13 @@ translate korean e02s04_fireplace_dd3767f7:
 translate korean e02s04_fireplace_5c7ffc4b:
 
     # ap "We met in college, both working on our journalism degrees. And we've been together ever since."
-    ap "우린 대학에서 만났어요. 둘 다 신문 방송학과를 다녔죠. 그 후론 줄곧 같이있었죠."
+    ap "우린 대학에서 만났어요. 둘 다 신문 방송학과를 다녔죠. 그 후론 줄곧 함께했죠."
 
 # game/code/e02/e02s04.rpy:261
 translate korean e02s04_fireplace_03ffe92b:
 
     # mc "Working together in the same place. That's got to be nice."
-    mc "같은 회사에서 함께 일한다라. 좋겠네요."
+    mc "같은 곳에서 함께 일한다라. 좋겠네요."
 
 # game/code/e02/e02s04.rpy:264
 translate korean e02s04_fireplace_f9ab9b36:
@@ -518,7 +518,7 @@ translate korean e02s04_fireplace_78ac8cc7:
 translate korean e02s04_fireplace_56d100ce:
 
     # ap "Haha. You're very kind. With all the grit and effort that goes into it, it {i}looks{/i} like I run the show, but I just put my spin on whatever is on the teleprompter."
-    ap "하하. 말씀 감사합니다. 열심히 하다보니, 제가 뉴스를 진행하는 것처럼 {i}보일 수도{/i} 있겠네요. 그치만 제가 하는 건 텔레프롬프터에 나오는 걸 제 식으로 읽는 것뿐이에요."
+    ap "하하. 말씀 감사합니다. 열심히 하다 보니, 제가 뉴스를 진행하는 것처럼 {i}보일 수도{/i} 있겠네요. 그치만 제가 하는 건 텔레프롬프터에 나오는 걸 제 식으로 읽는 것뿐이에요."
 
 # game/code/e02/e02s04.rpy:271
 translate korean e02s04_fireplace_47e7a8fa:
@@ -548,7 +548,7 @@ translate korean e02s04_fireplace_e3956977:
 translate korean e02s04_fireplace_37e82bf7:
 
     # ap "Thanks. Yeah I call it my \"golden voice\". Usually it only comes out in the newsroom."
-    ap "감사합니다. 중요할 때만 내는 거라서이 목소리를 \"황금 목소리\"라고 부르고 있죠. 보통은 카메라 앞에서만 내지만요."
+    ap "감사합니다. 중요할 때만 내는 거라서 이 목소리를 \"황금 목소리\"라고 부르고 있죠. 보통은 뉴스 방송할 때만 내지만요."
 
 # game/code/e02/e02s04.rpy:286
 translate korean e02s04_fireplace_012064ef:
@@ -668,7 +668,7 @@ translate korean e02s04_fireplace_1efb1360:
 translate korean e02s04_fireplace_10ec4b3f:
 
     # mct "Wow. I got the feeling these two were a bit high-strung, but this is something else."
-    mct "와아. 두 사람 다 좀 예민한 유형이라서 그런가 했는데, 뭔가 사연이 있는 거 같은데."
+    mct "와아. 이 둘이 좀 예민한 편인가 했는데, 이건 또 다른 얘기네."
 
 # game/code/e02/e02s04.rpy:345
 translate korean e02s04_fireplace_5535f776:
@@ -698,7 +698,7 @@ translate korean e02s04_fireplace_bc655e72:
 translate korean e02s04_fireplace_38ecd124:
 
     # atp "Yes, but there is no point now because the dumb therapist didn't show up."
-    atp "그래. 그랬지. 그런데 그 등신 같이 상담가 양반께서 안 나타나신 걸 어떻게 해."
+    atp "그래. 그랬지. 그런데 그 등신 같은 상담가가 안 나타난 걸 어떻게 해."
 
 # game/code/e02/e02s04.rpy:360
 translate korean e02s04_fireplace_f1ca51c7:
@@ -728,7 +728,7 @@ translate korean e02s04_fireplace_8669d6dd:
 translate korean e02s04_fireplace_19f85401:
 
     # mc "{size=-10}*whispers* Well how about at least we go to our cabin. You know...{/size}"
-    mc "{size=-10}*속삭임* 뭐 우리 방갈로라도 가야 겠다는 거지. 이유야...{/size}"
+    mc "{size=-10}*속삭임* 뭐 우리 방갈로라도 가야겠다는 거지. 그러니까...{/size}"
 
 # game/code/e02/e02s04.rpy:372
 translate korean e02s04_fireplace_81a40b8d:
@@ -758,13 +758,13 @@ translate korean e02s04_fireplace_4bdbcff8:
 translate korean e02s04_fireplace_7f5e570f:
 
     # mc "{size=-10}*whispers* Don't they seem beyond help?{/size}"
-    mc "{size=-10}*속삭임* 도움이 먹힐 만한 단계는 진작에 지난 거 같은데?{/size}"
+    mc "{size=-10}*속삭임* 이미 도와줄 수 없는 상태 아닐까?{/size}"
 
 # game/code/e02/e02s04.rpy:383
 translate korean e02s04_fireplace_b8f60720:
 
     # mh "{size=-10}*whispers* No one is beyond help.{/size}"
-    mh "{size=-10}*속삭임* 도와주지 못할 사람은 없어.{/size}"
+    mh "{size=-10}*속삭임* 도와줄 수 없는 상태에 있는 사람은 없어.{/size}"
 
 # game/code/e02/e02s04.rpy:386
 translate korean e02s04_fireplace_a5d57ad0:
@@ -788,7 +788,7 @@ translate korean e02s04_fireplace_a2a77c34:
 translate korean e02s04_fireplace_9736ecb0:
 
     # ap "But the poor doctor got hurt or something on the trip here. So, he cancelled after we were already here."
-    ap "그런데 그 불쌍한 박사님이 오는 길에 다친 모양이더군요. 그래서 우리가 도착하자마자 상담이 취소됐습니다.."
+    ap "그런데 그 불쌍한 박사님이 오는 길에 다친 모양이더군요. 그래서 우리가 도착하자마자 상담이 취소됐습니다."
 
 # game/code/e02/e02s04.rpy:397
 translate korean e02s04_fireplace_97e3c859:
@@ -824,7 +824,7 @@ translate korean e02s04_fireplace_c1693c5f:
 translate korean e02s04_fireplace_3273322b:
 
     # atp "I'm open to trying something. Just last month I tried to shake things up with that couple's dating site."
-    atp "난 뭐라고 해 보는 게 중요하다고 생각하니까, 좋아요. 지난달만 해도 연인 대상으로 상대를 찾아 주는 사이트로 뒤져 보기도 했거든요."
+    atp "난 뭐라고 해 보는 게 중요하다고 생각하니까, 좋아요. 지난달만 해도 연인들에게 상대를 찾아 주는 사이트로 관계에 변화를 줘 보려고도 했거든요."
 
 # game/code/e02/e02s04.rpy:414
 translate korean e02s04_fireplace_7e6c4867:
@@ -872,7 +872,7 @@ translate korean e02s04_fireplace_f5592960:
 translate korean e02s04_fireplace_5cc5f5b2:
 
     # mh "You're unassuming, calm, rational, but you are not outspoken - which seems odd given what you do for a living."
-    mh "젠체하지 않고, 차분하며, 합리적이고, 의견을 절제해요. 알렉산더 씨의 직업을 고려할 때 아주 드문 성격이라고 할 수 있어요."
+    mh "젠체하지 않고, 차분하며, 합리적이고, 자기주장을 잘 하지 않아요. 알렉산더 씨의 직업을 고려할 때 아주 드문 성격이라고 할 수 있죠."
 
 # game/code/e02/e02s04.rpy:436
 translate korean e02s04_fireplace_3e8756fe:
@@ -884,7 +884,7 @@ translate korean e02s04_fireplace_3e8756fe:
 translate korean e02s04_fireplace_20c000d9:
 
     # mc "But that's just work. You're playing a specific role, but that doesn't mean you want to do that all the time."
-    mc "뉴스 앵커라고 하지만, 그건 일일 뿐이니까요. 알렉산더는 그 순간 앵커 역할을 수행하는 거지, 항상 앵커가 되고 싶은 건 아니라다는 거네요."
+    mc "뉴스 앵커라고 하지만, 그건 일일 뿐이니까요. 알렉산더는 그 순간 앵커 역할을 수행하는 거지, 항상 앵커가 되고 싶은 건 아니라는 거네요."
 
 # game/code/e02/e02s04.rpy:443
 translate korean e02s04_fireplace_fc1832b5:
@@ -914,7 +914,7 @@ translate korean e02s04_fireplace_ff4126cb:
 translate korean e02s04_fireplace_694e9cff:
 
     # mh "And I think that is part of the problem. You two are just so opposite that without good and open communication, I think that things will get worse."
-    mh "제 단견에 지금의 문제은 두 사람의 성격과 관련이 있어요. 두 분은 매우 다른 성격을 가지고 있죠. 그런데 소통이 원활하지 않아요. 이 상황에서 문제는 해결되기 어려워요."
+    mh "제 단견으로 지금 문제는 두 사람의 성격과 관련이 있어요. 정반대의 성격을 가지고 있다는 점을 인정하고 솔직하게 소통하지 않으면, 상황을 더 나빠질 거예요."
 
 # game/code/e02/e02s04.rpy:455
 translate korean e02s04_fireplace_88886ab0:
@@ -1088,13 +1088,13 @@ translate korean e02s04_next_day_ce8dad45:
 translate korean e02s04_next_day_5b48782b:
 
     # mh "Done. I hope that didn't spoil things."
-    mh "전송. 이 정도로 정리되면 좋겠어."
+    mh "전송. 망치지 않으면 좋겠는데."
 
 # game/code/e02/e02s04.rpy:548
 translate korean e02s04_next_day_c3121cc0:
 
     # mh "The more I step back into the work lake, the more my brain will leave vacation mountain."
-    mh "일이라는 호수에 발을 들일수록, 내 뇌에서 휴가라는 산의 풍광은 흐려질 텐데."
+    mh "일이라는 호수에 발을 들일수록, 내 뇌에서 휴가라는 산의 풍광은 흐려지겠지."
 
 # game/code/e02/e02s04.rpy:551
 translate korean e02s04_next_day_4b9c519b:
@@ -1124,7 +1124,7 @@ translate korean e02s04_next_day_aed80020:
 translate korean e02s04_next_day_c1b7a06d:
 
     # mc "I don't think it could hurt. Man, can you imagine coming all this way out there for some special couples therapy and the therapist doesn't make it?"
-    mc "해가 되진 않겠지. 세상에, 특별 연인 상담을 받으려고 다른 사람들은 그 먼 길을 막상 오니, 정작 중요한 상담가는 오지 못하다니."
+    mc "해가 되진 않겠지. 세상에, 특별 연인 상담을 받으려고 그 먼길을 왔는데, 정작 중요한 상담가는 오지 못하다니."
 
 # game/code/e02/e02s04.rpy:564
 translate korean e02s04_next_day_58ab3709:
@@ -1268,19 +1268,19 @@ translate korean e02s04_next_day_2_db4e95cc:
 translate korean e02s04_next_day_2_c7a8b484:
 
     # ms "That couple just couldn't leave you alone to enjoy your vacation."
-    ms "이제 두 사람이 부부들한테 시달려서 휴가를 즐기지 못할 테니까요."
+    ms "그 부부 때문에 두 분이 휴가를 편히 즐기지 못 했잖아요."
 
 # game/code/e02/e02s04.rpy:666
 translate korean e02s04_next_day_2_918a84b7:
 
     # dn "We certainly could have stuck around and maybe given you an out."
-    dn "우리가 껴서 빠질 수 있는 여지를 만들었어야 했는데."
+    dn "우리가 곁에 있으면서 두 분이 빠져나올 구실을 만들어 줬어야 했는데."
 
 # game/code/e02/e02s04.rpy:669
 translate korean e02s04_next_day_2_a770b5e8:
 
     # mc "That's really nice of you to be concerned, but it wasn't all bad."
-    mc "신경 써 주져서 정말 고마워요. 그래도 그렇게까지 나쁘진 않았어요."
+    mc "신경 써 주셔서 정말 감사합니다. 그래도 그렇게까지 나쁘진 않았어요."
 
 # game/code/e02/e02s04.rpy:672
 translate korean e02s04_next_day_2_122f888f:
@@ -1316,7 +1316,7 @@ translate korean e02s04_next_day_2_7b881570:
 translate korean e02s04_next_day_2_475e6bcc:
 
     # mh "They were curious about us because I am transgender. We ended up talking after that about our relationships."
-    mh "그 부부는 제가 성전환자라서 우리에게 관심을 갖게 되었던 거예요. 그 일이 있은 후 우리 사이에 관해서 이야기를 하게 되었죠."
+    mh "그 부부는 제가 성전환자라는 사실 때문에 저희에게 관심을 보였던 거예요. 그 일이 있은 후 우리 사이에 관해서 이야기를 하게 되었죠."
 
 # game/code/e02/e02s04.rpy:689
 translate korean e02s04_next_day_2_88ec7067:
@@ -1328,7 +1328,7 @@ translate korean e02s04_next_day_2_88ec7067:
 translate korean e02s04_next_day_2_8a48ee7c:
 
     # mc "Hehe, well we're not usually super open around strangers, but everyone kept their clothes on."
-    mc "히히, 평소엔 모르는 사람과 그런 이야길하진 않지만, 몸을 옷으로 가리고 있으니, 마음 정돈 터놓을 수 있더라구요."
+    mc "히히, 평소엔 모르는 사람과 그런 이야길 하진 않지만, 적어도 다들 옷은 입고 있었잖아요."
 
 # game/code/e02/e02s04.rpy:694
 translate korean e02s04_next_day_2_dfc3c9f2:
@@ -1346,7 +1346,7 @@ translate korean e02s04_next_day_2_dee28fdc:
 translate korean e02s04_next_day_2_10ee1c4d:
 
     # mh "Go ahead, I won't bite."
-    mh "물어보세요, 저는 물어 버리지 않는답니다."
+    mh "물어보세요, 저는 물지 않는답니다."
 
 # game/code/e02/e02s04.rpy:701
 translate korean e02s04_next_day_2_4cd089a0:
@@ -1358,7 +1358,7 @@ translate korean e02s04_next_day_2_4cd089a0:
 translate korean e02s04_next_day_2_6103a7f3:
 
     # mh "[mcname] and I have a very great relationship. Despite whatever obstacles we may face, we overcome them through communication and love."
-    mh "[mcname] 이이와 굳건하고 훌륭한 관계를 가지고 있어요. 우리 앞에 어떤 역경이 주어진다고 해도, 소통과 사랑으로 극복해 낼 수 있죠."
+    mh "저는 [mcname] 이이와 굳건하고 훌륭한 관계를 가지고 있어요. 우리에게 어떤 역경이 주어진다고 해도, 소통과 사랑으로 극복해 낼 수 있죠."
 
 # game/code/e02/e02s04.rpy:707
 translate korean e02s04_next_day_2_cc9b870d:
@@ -1418,7 +1418,7 @@ translate korean e02s04_next_day_2_aeddc368:
 translate korean e02s04_next_day_2_4b063db9:
 
     # ms "Maybe we don't need one. You two seem to have things figured out. Maybe... you could listen in and share some advice."
-    ms "잘하면 상담사 없이도 해결할 수 있을지도요. 두 분도 이미 사정을 잘 아시는 모양인데. 혹시... 시간 되시면 오셔서 이야기도 듣고 조언도 해 주세요."
+    ms "어쩌면 상담사 따윈 필요 없을지도 모르겠어요. 두 분은 이미 해답을 찾으신 것 같으니까요. 혹시... 시간 되시면 오셔서 이야기도 듣고 조언도 해 주세요."
 
 # game/code/e02/e02s04.rpy:731
 translate korean e02s04_next_day_2_f387c7fb:
@@ -1436,7 +1436,7 @@ translate korean e02s04_next_day_2_6ddfd566:
 translate korean e02s04_next_day_2_bd60aa95:
 
     # ms "I'm sure Frank and Ashley would love to get your thoughts too!"
-    ms "프랭크와 애슐리고 여러분 생각을 듣고 싶어할 거라구요!"
+    ms "프랭크와 애슐리도 여러분 생각을 듣고 싶어할 거라구요!"
 
 # game/code/e02/e02s04.rpy:738
 translate korean e02s04_next_day_2_9842eeae:
@@ -1448,7 +1448,7 @@ translate korean e02s04_next_day_2_9842eeae:
 translate korean e02s04_next_day_2_99625c33:
 
     # dn "Great. We'll stay in touch."
-    dn "좋아요. 이제 서로 아는 체 하자구요."
+    dn "좋아요. 이제 모르는 척 하기 없어요."
 
 # game/code/e02/e02s04.rpy:750
 translate korean e02s04_end_ecaafca1:
@@ -1478,19 +1478,19 @@ translate korean e02s04_end_3ddd033b:
 translate korean e02s04_end_2420c5da:
 
     # mh "Some people have issues opening up to doctors because it can be difficult when the subject is sexual."
-    mh "도리어 성적인 화제는 의사에게도 터놓고 이야기 어려운 사람들이 있다고 하더라고."
+    mh "도리어 성적인 주제라서 전문가에게 털어놓기 어려워하는 사람들도 있어."
 
 # game/code/e02/e02s04.rpy:760
 translate korean e02s04_end_33180752:
 
     # mh "I mean some professionals don't even have the vocabulary to cover it."
-    mh "전문가들도 그런 경향을 명명하기 어렵다고 하던걸."
+    mh "전문가들도 그런 문제를 적절하게 다루기 어려워 하고 말이야."
 
 # game/code/e02/e02s04.rpy:763
 translate korean e02s04_end_1a960296:
 
     # mc "And we do?"
-    mc "그래서 우리 어떻게 해?"
+    mc "그래서 우린 어떻게 할 건데?"
 
 # game/code/e02/e02s04.rpy:765
 translate korean e02s04_end_a69c749b:
