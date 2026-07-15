@@ -20,7 +20,7 @@ translate korean e02s08_18987b3e:
 translate korean e02s08_8b31b2aa:
 
     # mc "And I don't want you to waste a whole bunch of your time on something that isn't meant to be."
-    mc "그리고 난 리사가 해결 수 없는 일에 소중한 시간을 낭비하지 않으면 좋겠는걸."
+    mc "그리고 난 리사가 해결할 수 없는 일에 소중한 시간을 낭비하지 않으면 좋겠는걸."
 
 # game/code/e02/e02s08.rpy:82
 translate korean e02s08_b0a95d21:
@@ -104,7 +104,7 @@ translate korean e02s08_d4c907ad:
 translate korean e02s08_91a4ef87:
 
     # mc "Think of us like...a sounding board."
-    mc "방송국에서 하는 것처럼 저희... 의견을 청취한다고 생각해 주세요."
+    mc "저희를 상대로... 편하게 의견을 들려 주시면 돼요."
 
 # game/code/e02/e02s08.rpy:122
 translate korean e02s08_cd98e4f8:
@@ -464,7 +464,7 @@ translate korean e02s08_a170db42:
 translate korean e02s08_4c698f18:
 
     # mh "I knew it would."
-    mh "난 이렇게 되디라고 믿었어."
+    mh "난 이렇게 되리라고 믿었어."
 
 # game/code/e02/e02s08.rpy:267
 translate korean e02s08_e3ff4871:
@@ -926,7 +926,7 @@ translate korean e02s08_sex_d68c0417:
 translate korean e02s08_sex_c7ea26f0:
 
     # mc "They're not bad."
-    mc "저 둘은 나쁘지 않은데 ."
+    mc "저 둘은 나쁘지 않은데."
 
 # game/code/e02/e02s08.rpy:541
 translate korean e02s08_sex_93a894a3:
@@ -1184,7 +1184,7 @@ translate korean e02s08_sex_5165d19d:
 translate korean e02s08_sex_690f9cdc:
 
     # mh "You're such a good boy for me, my love."
-    mh "정말 나 없이는 못 사는 착한 소년이구나, 내 사랑."
+    mh "정말 착한 아이구나, 내 사랑."
 
 # game/code/e02/e02s08.rpy:706
 translate korean e02s08_sex_138fa8e9:
@@ -1232,7 +1232,7 @@ translate korean e02s08_foursome_44f486b2:
 translate korean e02s08_foursome_e3137491:
 
     # atp "Can you.. Before you cum, can you fuck me? Please, I want to get stretched out by you both."
-    atp "혹시.. 싸기 전에, 나 박아 줄 수 있어요? 제발요, 두 사람이 박아서 날 늘려 주면 좋겠어요."
+    atp "혹시.. 싸기 전에, 나 박아 줄 수 있어요? 제발요, 두 사람이 박아서 늘려 주면 좋겠어요."
 
 # game/code/e02/e02s08.rpy:787
 translate korean e02s08_foursome_e8c3c3c8:
@@ -1430,7 +1430,7 @@ translate korean e02s08_foursome_5ed948e8:
 translate korean e02s08_foursome_ca997221:
 
     # atp "Yes! If I can't, fucking make me!"
-    atp "내! 안 되면, 씨발 그렇게 만들어 줘요!"
+    atp "네! 안 되면, 씨발 그렇게 만들어 줘요!"
 
 # game/code/e02/e02s08.rpy:871
 translate korean e02s08_foursome_c0e191c2:
@@ -1478,7 +1478,7 @@ translate korean e02s08_foursome_56a19539:
 translate korean e02s08_foursome_76affe65:
 
     # mc "I don't— Fuck I don't think I can hold on much longer."
-    mc "나 오래— 씨발 나 오랜 못 버티겠어."
+    mc "나 오래— 씨발 나 오래는 못 버티겠어."
 
 # game/code/e02/e02s08.rpy:932
 translate korean e02s08_foursome_828a1e73:
@@ -1562,7 +1562,7 @@ translate korean e02s08_foursome_c53c7674:
 translate korean e02s08_foursome_0eb84d1a:
 
     # atp "*Laughs softly* I don't think I could walk even if I wanted to."
-    atp "*부드럽게 웃으며* 걷고 싶어도 해도 걸을 수 있을지 모르겠어."
+    atp "*부드럽게 웃으며* 걷고 싶어도 걸을 수 있을지 모르겠어."
 
 # game/code/e02/e02s08.rpy:1004
 translate korean e02s08_foursome_5b441c80:
