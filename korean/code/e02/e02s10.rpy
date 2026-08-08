@@ -110,7 +110,7 @@ translate korean e02s10_6af77995:
 translate korean e02s10_65e1f043:
 
     # mh "This is the greatest non-surprise surprise I have ever received."
-    mh "내가 평생 받은 깜짝 선물 중 가장 놀랍지 않게 놀라워."
+    mh "내가 평생 받은 깜짝 선물 중 가장 놀랍지 않은 놀라움이야."
 
 # game/code/e02/e02s10.rpy:108
 translate korean e02s10_5e558e86:
@@ -218,7 +218,7 @@ translate korean e02s10_89942c77:
 translate korean e02s10_f40db261:
 
     # mh "Indeed. We need to be sure it's up to our standards. Things can get very intense during our sessions."
-    mh "그렇게. 모든 게 우리 기준에 맞는지 확인해야 하는걸. 우리가 상담을 하면서 일이 꽤 격해질 수도 있으니까."
+    mh "그렇지. 모든 게 우리 기준에 맞는지 확인해야 하는걸. 우리가 상담을 하면서 일이 꽤 격해질 수도 있으니까."
 
 # game/code/e02/e02s10.rpy:179
 translate korean e02s10_sex_7fc9f5b5:
@@ -266,7 +266,7 @@ translate korean e02s10_sex_21ad2174:
 translate korean e02s10_sex_f5c98a1c:
 
     # mc "Well we've started christening the place."
-    mc "흠, 성수로 이 방을 축성이라도 기분인걸."
+    mc "이 장소에 세례라도 하듯 시작했네."
 
 # game/code/e02/e02s10.rpy:217
 translate korean e02s10_sex_158291f6:
@@ -374,7 +374,7 @@ translate korean e02s10_sex_a6db4e60:
 translate korean e02s10_sex_96e5f25e:
 
     # mc "I imagine we are really going to need to get this couch scotch-guarded."
-    mc "소파에 방수제 뿌려 두는 편이 좋겠네."
+    mc "소파에 방수 코팅을 제대로 해 둬야겠어."
 
 # game/code/e02/e02s10.rpy:290
 translate korean e02s10_sex_7ef83949:
@@ -404,13 +404,13 @@ translate korean e02s10_sex_ded3a615:
 translate korean e02s10_sex_179f54c7:
 
     # mh "I think it is past time we began the main course.{w} What do you say?"
-    mh "이제 본 요리를 먹을 시간인 거 같네.{w} 당신은 어떻게 생각해?"
+    mh "본 요리를 너무 오래 내버려둔 거 같아.{w} 당신은 어떻게 생각해?"
 
 # game/code/e02/e02s10.rpy:301
 translate korean e02s10_sex_a4653830:
 
     # mc "Yes ma'am."
-    mc "물론이죠, 마님."
+    mc "그럼 본 요리로 넘어가죠, 마님."
 
 # game/code/e02/e02s10.rpy:307
 translate korean e02s10_sex_0c4e6ed2:
@@ -554,7 +554,7 @@ translate korean e02s10_double_anal_94271316:
 translate korean e02s10_double_anal_f0cdd948:
 
     # mc "Oh man..."
-    mc "오, 하늘이시여..."
+    mc "오, 이런..."
 
 # game/code/e02/e02s10.rpy:414
 translate korean e02s10_double_anal_f822c1ea:
@@ -578,13 +578,13 @@ translate korean e02s10_double_anal_018c8609:
 translate korean e02s10_double_anal_a5015795:
 
     # mct "Is she getting bigger?"
-    mct "좀좀 더 커지는 거야?"
+    mct "더 커지는 거야?"
 
 # game/code/e02/e02s10.rpy:452
 translate korean e02s10_double_anal_7a613480:
 
     # mc "*tense breathing* You alright?"
-    mc "*긴장해 숨을 들이 내쉬며* 괜찮아?"
+    mc "*긴장해 숨을 들이 쉬며* 괜찮아?"
 
 # game/code/e02/e02s10.rpy:455
 translate korean e02s10_double_anal_fd573d45:
@@ -656,7 +656,7 @@ translate korean e02s10_double_anal_c7cf2826:
 translate korean e02s10_double_anal_66d01ea3:
 
     # mct "Captain, I think I have a problem with my brain missing."
-    mct "선장님, 제 내 뇌가 사라진 거 같아요."
+    mct "선장님, 제 뇌가 사라진 거 같아요."
 
 # game/code/e02/e02s10.rpy:523
 translate korean e02s10_double_anal_fc0fe1ba:
@@ -704,7 +704,7 @@ translate korean e02s10_sex_end_32a62fef:
 translate korean e02s10_sex_end_321f6a21:
 
     # mc "So my official title can be Master [mcname]?"
-    mc "그러면, 내 공식 직함이 [mcname] 스승님이나, 주인님이 되는건가?"
+    mc "그러면, 내 공식 직함이 [mcname] 스승님이나 주인님이 되는 건가?"
 
 # game/code/e02/e02s10.rpy:552
 translate korean e02s10_sex_end_3f47e7dd:
@@ -776,7 +776,7 @@ translate korean e02s10_months_later_a3812800:
 translate korean e02s10_months_later_ccd00e12:
 
     # mh "No matter what Silvercorp unleashed upon me, fixing up the space with you truly kept me going, [mcname]."
-    mh "실퍼코프가 온갖 짓은 다 했지만, 당신이 있어서, 당신과 함께 그곳을 고치면서 상담을 준비할 수 있어서, 내가 견딜 수 있었어, [mcname]."
+    mh "실버코프가 온갖 짓은 다 했지만, 당신이 있어서, 당신과 함께 그곳을 고치면서 상담을 준비할 수 있어서, 내가 견딜 수 있었어, [mcname]."
 
 # game/code/e02/e02s10.rpy:603
 translate korean e02s10_months_later_16ef91c9:
@@ -800,7 +800,7 @@ translate korean e02s10_months_later_a7c72ea4:
 translate korean e02s10_months_later_fd015de2:
 
     # mh "All this time, every broken fingernail and drop of sweat I received while we fixed up the space was more than just a distraction."
-    mh "지금껏 내내 그곳을 고치면서 부러진 손톱과 흘린 빰이 정말 좋은 기분 전환이 되었는걸."
+    mh "지금껏 내내 그곳을 고치면서 부러진 손톱과 흘린 땀이 정말 좋은 기분 전환이 되었는걸."
 
 # game/code/e02/e02s10.rpy:612
 translate korean e02s10_months_later_092d2c9f:
@@ -818,7 +818,7 @@ translate korean e02s10_months_later_68130550:
 translate korean e02s10_months_later_09f81a15:
 
     # mh "I just need to be sure I will have my partner in crime with me. If you think you are up to it."
-    mh "내 반려가 나와 함께한다면 나는 뭐든지 할 수 있어. 당신과 함께라면 뭐든지 할게."
+    mh "그저 내 공범이 함께해 줄지 확인하고 싶었을 뿐이야. 당신이 그럴 준비가 됐다면."
 
 # game/code/e02/e02s10.rpy:619
 translate korean e02s10_months_later_4ce195cc:
