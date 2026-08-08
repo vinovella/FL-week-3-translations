@@ -236,7 +236,7 @@ translate korean e02s09_0d2d82cc:
 translate korean e02s09_5420b870:
 
     # mc "So it's like baseball. If you're facing off against a home run champ, you can just walk him."
-    mc "그러니까 야구 같은 거네. 홈런을 빵빵 터트리는 타자가 나오면, 그냥 고의사구로 타자를 1루에 보내는 게 났다는 소리구나."
+    mc "그러니까 야구 같은 거네. 홈런을 빵빵 터트리는 타자가 나오면, 그냥 고의사구로 타자를 1루에 보내는 게 낫다는 소리구나."
 
 # game/code/e02/e02s09.rpy:135
 translate korean e02s09_77e3dc1b:
@@ -278,7 +278,7 @@ translate korean e02s09_68c58aa3:
 translate korean e02s09_c4bcff0d:
 
     # mh "Thank you, [mcname]. But here comes the hard part."
-    mh "당신이 있어 얼마나 힘이 되는지 몰라, [mcname]. 그런데 이제부터 힘들거야."
+    mh "당신이 있어 얼마나 힘이 되는지 몰라, [mcname]. 그런데 이제부터가 힘든 부분이야."
 
 # game/code/e02/e02s09.rpy:150
 translate korean e02s09_25275155:
@@ -410,7 +410,7 @@ translate korean e02s09_home_dd448649:
 translate korean e02s09_home_2b050c99:
 
     # mh "That would be amazing. But they are not evil. Distressing as this is, it is all just business."
-    mh "그렇 수 있으면 얼마나 좋을까. 하지만 그 기업이 별나게 악한 건 아냐. 사업이라는 건 결국 다 이렇게 사람을 괴롭히는 법인걸."
+    mh "그럴 수 있으면 얼마나 좋을까. 하지만 그 기업이 별나게 악한 건 아냐. 괴롭긴 하지만, 이건 그냥 다 사업일 뿐이니까."
 
 # game/code/e02/e02s09.rpy:216
 translate korean e02s09_home_93a616ce:
@@ -482,7 +482,7 @@ translate korean e02s09_home_14409332:
 translate korean e02s09_home_again_5d0a6fa7:
 
     # mct "Each day since then, things have been a little hectic."
-    mct "그때 이래로 매일, 일을 조금씩 격해졌다."
+    mct "그때 이래로 매일, 상황이 조금씩 격해졌다."
 
 # game/code/e02/e02s09.rpy:259
 translate korean e02s09_home_again_eebd886a:
@@ -494,7 +494,7 @@ translate korean e02s09_home_again_eebd886a:
 translate korean e02s09_home_again_dbb0860d:
 
     # mct "Not being able to help her smaller profile clients is certainly having an impact on her."
-    mct "작은 일을 맡기는 의뢰일들을 도울 수 없다는 점이 리사에게 큰 영향을 미치고 있다."
+    mct "비중이 작은 의뢰인들을 돕지 못하는 것이 리사에게 확실히 영향을 미치고 있다."
 
 # game/code/e02/e02s09.rpy:263
 translate korean e02s09_home_again_146a6909:
@@ -560,7 +560,7 @@ translate korean e02s09_home_again_25286423:
 translate korean e02s09_home_again_b8cab2dd:
 
     # mct "That sounded a little off for Lyssa."
-    mct "좀 리사 같지가 않을걸"
+    mct "좀 리사 같지가 않은데."
 
 # game/code/e02/e02s09.rpy:301
 translate korean e02s09_home_again_782143fc:
@@ -764,7 +764,7 @@ translate korean e02s09_next_morning_575910a6:
 translate korean e02s09_next_morning_bcf89bd3:
 
     # mc "I promise, if you don't like this one, you can punish me for a week."
-    mc "만약 마음에 만들면, 일주일 동안 나한테 벌을 줘도 돼."
+    mc "만약 마음에 안 들면, 일주일 동안 나한테 벌을 줘도 돼."
 
 # game/code/e02/e02s09.rpy:407
 translate korean e02s09_next_morning_d6553cee:
