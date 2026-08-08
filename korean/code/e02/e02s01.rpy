@@ -2,19 +2,19 @@
 translate korean e02s01_e6009a2c:
 
     # mc "It shouldn't be this hard to read something like this."
-    mc "종이 읽는 게 이렇게 어려우면 안 된다고 봐."
+    mc "지도 읽는 게 이렇게 어려울 리가 없는데."
 
 # game/code/e02/e02s01.rpy:83
 translate korean e02s01_66d79561:
 
     # mh "Reading a map is like any skill, you have to put it into use, or it goes away."
-    mh "독도법도 여느 기술과 같네. 쓰지 않으면, 사라져 버리니까."
+    mh "독도법도 여느 기술과 같아. 쓰지 않으면 잊어 버리니까."
 
 # game/code/e02/e02s01.rpy:85
 translate korean e02s01_52f884c3:
 
     # mc "When's the last time you followed a map?"
-    mc "마지막으로 지도 보고 길 찾아본 적이 언제야?"
+    mc "마지막으로 지도를 보고 길을 찾아본 게 언제야?"
 
 # game/code/e02/e02s01.rpy:87
 translate korean e02s01_d1b4fa83:
@@ -26,49 +26,49 @@ translate korean e02s01_d1b4fa83:
 translate korean e02s01_40f987b1:
 
     # mh "I use my personal device for everything related to geography. Satellite navigation for driving, a cellular phone for walking short distances, or on my way to public transport."
-    mh "지리와 관련된 모든 일에 개인용 기기를 사용하니까. 운전할 땐 내비게이션, 짧은 거리를 걸어가거나 대중 교통으로 이동할 때는 휴대폰."
+    mh "길 찾기와 관련된 모든 일에는 기계에 맡기니까. 운전할 땐 내비게이션, 가까운 거리를 걸어가거나 대중교통으로 이동할 때는 휴대폰."
 
 # game/code/e02/e02s01.rpy:92
 translate korean e02s01_c332e930:
 
     # mc "And a map for traveling the frozen wastelands, apparently."
-    mc "그리고 지금 같이 얼어붙은 황무지를 여행할 땐 지도로군."
+    mc "그리고 얼어붙은 황무지를 여행할 땐 종이 지도까지 쓰고 말이야."
 
 # game/code/e02/e02s01.rpy:94
 translate korean e02s01_06ae2c73:
 
     # mh "It's more analogue then you're used to, isn't it?"
-    mh "평소보다 아날로그적이지?"
+    mh "당신이 익숙한 방식보단 아날로그적이지?"
 
 # game/code/e02/e02s01.rpy:95
 translate korean e02s01_ce366297:
 
     # mc "I don't get your insistence on using this when we have a phone."
-    mc "우리 둘 다 폰이 있는데 쓰지 말자고 고집하는 이유를 모르겠어."
+    mc "폰이 있는데도 굳이 이걸 고집하는 이유를 모르겠어."
 
 # game/code/e02/e02s01.rpy:98
 translate korean e02s01_dc6ed5de:
 
     # mh "You have your phone with you, I don't."
-    mh "당신 품엔 휴대폰이 있겠지만, 내 품엔 없는걸."
+    mh "당신은 휴대폰을 가져 왔지만, 난 안 가져왔어."
 
 # game/code/e02/e02s01.rpy:100
 translate korean e02s01_3a0221ec:
 
     # mc "Don't tell me you left it on the bed."
-    mc "설마 침대 위에 두고 왔다는 건 아니지."
+    mc "침대 위에 두고 왔다는 말은 아니지?"
 
 # game/code/e02/e02s01.rpy:103
 translate korean e02s01_1706c70a:
 
     # mh "It was a deliberate choice on my end. I did not want to have any contact with work while being away."
-    mh "내 나름의 이유가 있어. 휴가 중에 일 관련해서 어떤 연락도 받고 싶지 않아서."
+    mh "일부러 두고 왔어. 휴가 중에는 일과 조금도 관련되고 싶지 않았거든."
 
 # game/code/e02/e02s01.rpy:104
 translate korean e02s01_a6490918:
 
     # mh "If I bring my phone, I might as well carry my pager around and pack my clothes in a briefcase, and bring reference books of constitutional law for reading material."
-    mh "품에 휴대폰을 챙길 요량이었다면, 한 쪽 춤에 삐삐도 챙겨 넣고, 서류 가방에 옷도 욱여넣고, 읽을거리로 헌법에 관한 참고 도서도 여러 권 집어 넣어서 왔겠지."
+    mh "휴대폰을 가져올 거였으면 호출기도 차고, 옷은 서류 가방에 싸고, 읽을거리로 헌법 참고서까지 챙겨 왔겠지."
 
 # game/code/e02/e02s01.rpy:107
 translate korean e02s01_a929cbd8:
@@ -86,19 +86,19 @@ translate korean e02s01_556504fd:
 translate korean e02s01_3772aa1f:
 
     # mc "With you."
-    mc "리사."
+    mc "자기."
 
 # game/code/e02/e02s01.rpy:112
 translate korean e02s01_1589b987:
 
     # mh "I don't call you that often."
-    mh "난 휴대폰을 보면 내가 떠오를 정도로 자주 전화하진 않았는걸."
+    mh "내가 당신에게 그렇게 자주 전화하진 않잖아."
 
 # game/code/e02/e02s01.rpy:113
 translate korean e02s01_32c8451a:
 
     # mc "You should, I associate my phone with you."
-    mc "휴대폰만 봐도 곧 리사가 전화하겠구나 고대하고 싶으니까, 앞으론 자주 전화해 줘."
+    mc "그럼 더 자주 해 줘. 난 휴대폰만 보면 리사가 떠오르거든."
 
 # game/code/e02/e02s01.rpy:116
 translate korean e02s01_9349d5d1:
@@ -122,7 +122,7 @@ translate korean e02s01_716019b8:
 translate korean e02s01_cb206782:
 
     # mc "Oliver sent me a text, I assume it's about you, but maybe it's about me."
-    mc "올리버가 문자를 보냈는데, 나한테 보낸 건지, 리사한테 보낸 건지 모르겠는걸."
+    mc "올리버가 문자를 보냈어. 리사 일인 것 같긴 한데, 어쩌면 내 일일지도 몰라."
 
 # game/code/e02/e02s01.rpy:125
 translate korean e02s01_dd658229:
@@ -134,13 +134,13 @@ translate korean e02s01_dd658229:
 translate korean e02s01_47dd15c0:
 
     # mc "How did people travel before the millennium? Did a group of people just make a vague plan saying they're going to meet someplace and give everyone a week to figure it out?"
-    mc "스마트폰이 생기기 전에 사람들은 어떻게 여행을 한걸까? 그냥 여행 가자는 사람들이 언제까지 어디에 모이자는 막연한 계획만 공유하고 일주일 지나서 각자 알아서 잘 도착했는지 확인한 건가?"
+    mc "새천년이 오기 전엔 사람들은 대체 어떻게 여행했을까? 대충 어디서 만나자고만 정한 다음, 각자 찾아올 시간을 일주일씩 준 건가?"
 
 # game/code/e02/e02s01.rpy:135
 translate korean e02s01_25b556c8:
 
     # mh "By the way, you were holding the map upside down. Doesn't really matter anymore."
-    mh "고민 중에 이런 말을 해서 유감이야. 당신 아까부터 지도를 뒤집어 들고 있던걸. 그러니 지도로 길 찾는 일은 이제 걱정 안 해도 돼."
+    mh "참, 당신 아까부터 지도를 거꾸로 들고 있었어. 뭐, 이제는 상관없지만."
 
 # game/code/e02/e02s01.rpy:137
 translate korean e02s01_18f5d0c9:
@@ -152,19 +152,19 @@ translate korean e02s01_18f5d0c9:
 translate korean e02s01_1b42f723:
 
     # mh "No, not the entire time."
-    mh "아니, 계속 그렇진 않았어."
+    mh "아니, 계속 그런 건 아냐."
 
 # game/code/e02/e02s01.rpy:142
 translate korean e02s01_d8316ff5:
 
     # mc "We should call for help. I think I have a flare in my backpack."
-    mc "도움 요청해야 돼. 내가 가방에 신호탄을 챙겨 뒀는데."
+    mc "도움 요청해야겠어. 배낭에 신호탄도 챙겨 둔 거 같은데."
 
 # game/code/e02/e02s01.rpy:144
 translate korean e02s01_a4666811:
 
     # mh "We can do this. It's important to try out new things."
-    mh "우린 할 수 있어. 지도로 길찾기 같은 새로운 일을 해 보는 것만으로도 가치있으니, 속 태우지 마."
+    mh "우리 둘이서도 도착할 수 있어. 새로운 일을 해 보는 것도 중요하잖아."
 
 # game/code/e02/e02s01.rpy:147
 translate korean e02s01_81f0012d:
@@ -200,19 +200,19 @@ translate korean e02s01_e85e691c:
 translate korean e02s01_fb8f6c72:
 
     # mc "Look, this is where we are. Right next to us should be the common area."
-    mc "자, 여기가 우리 현재 위치네. 그럼 바로 옆이 공용 공간이겠군."
+    mc "봐, 여기가 현위치네. 바로 옆에 공용 공간이 있겠네."
 
 # game/code/e02/e02s01.rpy:181
 translate korean e02s01_d1a4b78a:
 
     # mc "Oh wow, cool, there's a sauna, an indoor pool, massage therapy, and all sorts of indoor recreational activities. Where is our cabin?"
-    mc "아, 와아, 멋진걸. 사우나, 내부 수영장, 안마실, 온갖 실내 여가 활동. 우리 방갈로는 어디지?"
+    mc "아, 와아, 멋진걸. 사우나, 실내 수영장, 안마 요법, 온갖 실내 여가 활동. 우리 방갈로는 어디지?"
 
 # game/code/e02/e02s01.rpy:184
 translate korean e02s01_c85ea333:
 
     # mh "They're right next to us, in separate buildings. And out there should be the ski resort, on top of the mountain."
-    mh "방갈로는 우리 위치 근처에 있어. 별채 중 하나지. 그리고 저 바깥 산 정상에는 스키 리조트."
+    mh "숙소는 바로 옆 별채야. 저쪽 산 위에는 스키장이 있을 거고."
 
 # game/code/e02/e02s01.rpy:185
 translate korean e02s01_33d8a741:
@@ -236,13 +236,13 @@ translate korean e02s01_67a3f716:
 translate korean e02s01_994df957:
 
     # mh "You know the IDs they sent us in the mail? It has a NFC sensor. It's why the doors opened as we walked in."
-    mh "당신 우편 온 신분증 기억하지? 신분증에 NFC 센서가 내장되어 있어. 그래서 우리가 들어왔을 때 문이 열렸던 거야."
+    mh "우편으로 받은 출입 카드 기억하지? 거기에 NFC 센서가 들어 있어. 우리가 들어올 때 문이 자동으로 열린 것도 그래서야."
 
 # game/code/e02/e02s01.rpy:194
 translate korean e02s01_bca33c79:
 
     # mc "I guess all fancy, high-tech joints do that?"
-    mc "고급에 첨단인 곳은 다 이런가 봐?"
+    mc "고급 첨단 시설은 다 이런가 봐?"
 
 # game/code/e02/e02s01.rpy:197
 translate korean e02s01_d6a9e702:
@@ -254,25 +254,25 @@ translate korean e02s01_d6a9e702:
 translate korean e02s01_8af759e9:
 
     # mc "Big deal. The supermarket near me does the same thing."
-    mc "이건 물건인걸. 내가 자주 가는 슈퍼마켓도 자동문은 있긴 한데."
+    mc "별거 아니네. 우리 동네 슈퍼마켓 문도 똑같이 열리는데."
 
 # game/code/e02/e02s01.rpy:200
 translate korean e02s01_56d215a6:
 
     # mh "The doors back home cannot discern wealth and privilege."
-    mh "그 자동문은 부와 특권까진 따지지 않잖아."
+    mh "우리 동네 자동문은 부와 특권까진 구별하진 못하는걸."
 
 # game/code/e02/e02s01.rpy:203
 translate korean e02s01_de91d24a:
 
     # mc "I thought you wanted to escape from work, can't do that if this place is plugged into the matrix."
-    mc "난 리사가 변호사 일에서 벗어나 쉬고 싶어하는 줄 알았어. 그런데 여기에서 매트릭스로 들어가 버리면 쉬지도 못하겠네."
+    mc "일에서 벗어나고 싶다며. 여기가 매트릭스에 접속되어 있으면 그러기 어렵겠는데."
 
 # game/code/e02/e02s01.rpy:205
 translate korean e02s01_b72e0052:
 
     # mh "I fail to recall any lawyers in that movie..."
-    mh "내 기억으론 매트릭스에 들어가는 변호사는 기억나지 않는걸..."
+    mh "그 영화에 변호사가 나왔던 기억은 없는데..."
 
 # game/code/e02/e02s01.rpy:209
 translate korean e02s01_693b0567:
@@ -290,13 +290,13 @@ translate korean e02s01_e35ca2ef:
 translate korean e02s01_6a1ca8aa:
 
     # mc "Forget I mentioned it. Are we all good to go?"
-    mc "그 사실은 잊는 편이 좋아. 우리 그냥 가도 되겠네?"
+    mc "신작의 존재는 잊는 편이 좋아. 우리 그냥 가도 되는 거지?"
 
 # game/code/e02/e02s01.rpy:217
 translate korean e02s01_d7aee8fe:
 
     # mh "I believe so."
-    mh "그렇지."
+    mh "그렇다고 봐."
 
 # game/code/e02/e02s01.rpy:218
 translate korean e02s01_5d3615c5:
@@ -308,7 +308,7 @@ translate korean e02s01_5d3615c5:
 translate korean e02s01_242b6dd2:
 
     # mc "Wow. How much did this lodge cost?"
-    mc "와아. 이런 방갈로는 얼마나 할까?"
+    mc "와. 이 숙소는 얼마 들었어?"
 
 # game/code/e02/e02s01.rpy:248
 translate korean e02s01_6a56f27b:
@@ -320,13 +320,13 @@ translate korean e02s01_6a56f27b:
 translate korean e02s01_215e4a74:
 
     # mh "One of my clients recommended it."
-    mh "내 의뢰인 중 한 사람이 추천했어."
+    mh "내 의뢰인 중 한 사람이 추천해 줬어."
 
 # game/code/e02/e02s01.rpy:252
 translate korean e02s01_f16bed0a:
 
     # mh "\"Snowy Peaks enjoys the prestige of the international jet set, while being affordable and accessible to all\". I'm quoting the brochure, of course."
-    mh "\"눈 덮인 봉우리는 전 세계의 제트족의 기대에 부응합니다.모든 사람이 알맞은 비용에 이곳을 이용할 수 있습니다\". 소책자에 따르면 그렇다고 하네."
+    mh "\"눈 덮인 봉우리는 누구나 부담 없이 편리하게 이용할 수 있는 동시에 세계적인 상류층 사이에서 명성을 누리고 있습니다.\" 물론 안내 책자 문구에 따르면 말이지."
 
 # game/code/e02/e02s01.rpy:253
 translate korean e02s01_aea1060a:
@@ -338,7 +338,7 @@ translate korean e02s01_aea1060a:
 translate korean e02s01_e25a039b:
 
     # mh "[mcname], presidents and prime ministers stayed here."
-    mh "[mcname], 이곳엔 국가 정상도 묵어."
+    mh "[mcname], 대통령들과 총리들도 묵고 간 곳이야."
 
 # game/code/e02/e02s01.rpy:258
 translate korean e02s01_11809067:
@@ -356,25 +356,25 @@ translate korean e02s01_68999d96:
 translate korean e02s01_03a2f528:
 
     # mc "Even worse, this place is historic. I'll never repay my student loans at this rate."
-    mc "설상가상이네, 비싼데다가 역사적이기까지 하잖아. 이런 식이면 내 학자금 대출은 평생 못 값을 거야."
+    mc "설상가상이네, 비싼데다가 역사적이기까지 하잖아. 이런 식이면 내 학자금 대출은 평생 못 갚을 거야."
 
 # game/code/e02/e02s01.rpy:263
 translate korean e02s01_977cea68:
 
     # mh "Don't worry, I have an all-paid expenses account."
-    mh "걱정 마, 내가 전액 지불했으니까."
+    mh "걱정 마, 비용은 전부 내 계좌로 처리했어."
 
 # game/code/e02/e02s01.rpy:264
 translate korean e02s01_aa90d708:
 
     # mc "Hard cost to justify."
-    mc "그러니까 미안한데."
+    mc "그래도 이렇게 큰돈을 쓰게 하는 건 마음이 편치 않은데."
 
 # game/code/e02/e02s01.rpy:267
 translate korean e02s01_3df3c1e7:
 
     # mh "Consider it my bonus. I really don't take time off."
-    mh "내 선물이라고 생각해 줘. 당신 덕분에 이렇게 휴가를 보내게 되었는걸. 난 거의 쉬는 법이 없다구."
+    mh "당신 덕분에 이렇게 휴가를 보내게 되었는걸. 난 거의 쉬는 법이 없다구."
 
 # game/code/e02/e02s01.rpy:269
 translate korean e02s01_06f96365:
@@ -398,25 +398,25 @@ translate korean e02s01_4f503176:
 translate korean e02s01_c622759c:
 
     # mh "That wasn't time off. Before you came, that was a business meeting."
-    mh "그땐 쉬는 건 아니었어. 당신이 오기 전에 일 관련해서 이야기하고 있었거든."
+    mh "그땐 쉬는 건 아니었어. 당신이 오기 전까진 일 이야기하고 있었거든."
 
 # game/code/e02/e02s01.rpy:276
 translate korean e02s01_d765e5d2:
 
     # mc "I, too, conduct my business meetings in nothing but a bra and panties."
-    mc "나도 브라에 팬티만 입고 업무 회의해 보고 싶네."
+    mc "나도 브라에 팬티만 입고 회의해 보고 싶네."
 
 # game/code/e02/e02s01.rpy:280
 translate korean e02s01_74f825c8:
 
     # mh "It was a hot occasion."
-    mh "그 날은 더웠는걸."
+    mh "그날은 더웠는걸."
 
 # game/code/e02/e02s01.rpy:282
 translate korean e02s01_3d7000cf:
 
     # mc "Ha. You can say that again."
-    mc "하하. 그때 참 덥긴 했지."
+    mc "하하. 그때 그랬지."
 
 # game/code/e02/e02s01.rpy:286
 translate korean e02s01_e8b9fac9:
@@ -428,7 +428,7 @@ translate korean e02s01_e8b9fac9:
 translate korean e02s01_60a0e717:
 
     # mc "You convinced me. I'm going to put my phone from vibrate to silent."
-    mc "넘어가겠네. 휴대폰 진동에서 무음으로 변경해 둘게."
+    mc "설득됐어. 진동에서 무음으로 변경해 둘게."
 
 # game/code/e02/e02s01.rpy:289
 translate korean e02s01_6c55acfb:
@@ -446,7 +446,7 @@ translate korean e02s01_09f87bcf:
 translate korean e02s01_155ed413:
 
     # mh "I'm tempted to take a shower."
-    mh "난 샤워부터."
+    mh "난 샤워에 마음이 동하는걸."
 
 # game/code/e02/e02s01.rpy:294
 translate korean e02s01_1a3a815e:
@@ -458,7 +458,7 @@ translate korean e02s01_1a3a815e:
 translate korean e02s01_2f631098:
 
     # mh "Why?"
-    mh "무슨 이유라도 있어?"
+    mh "무슨 이유라도?"
 
 # game/code/e02/e02s01.rpy:304
 translate korean e02s01_8f363728:
@@ -476,7 +476,7 @@ translate korean e02s01_4d164db8:
 translate korean e02s01_134bfa5a:
 
     # mh "I know. I want to warm up first."
-    mh "당연히 그렇겠지. 준비부터 할게."
+    mh "당연히 그렇겠지. 난 먼저 몸부터 데우고 싶어."
 
 # game/code/e02/e02s01.rpy:311
 translate korean e02s01_22d13004:
@@ -500,7 +500,7 @@ translate korean e02s01_da950293:
 translate korean e02s01_93a4fabc:
 
     # mh "You'll need some crackers with that."
-    mh "캐비어는 크래커에 곁들여 먹는 게 좋아."
+    mh "캐비아는 크래커에 곁들여 먹는 게 좋아."
 
 # game/code/e02/e02s01.rpy:319
 translate korean e02s01_9ae350a6:
@@ -518,7 +518,7 @@ translate korean e02s01_f8134806:
 translate korean e02s01_9b735494:
 
     # mc "Coffee? I don't know what people drink with caviar. Cristal?"
-    mc "커피? 사람들이 캐비어 먹을 때 뭘 마시더라. 크리스탈, 스파클링 와인이든가?"
+    mc "커피? 사람들이 캐비어 먹을 때 뭘 마시더라. 크리스탈, 그러니까... 샴페인?"
 
 # game/code/e02/e02s01.rpy:325
 translate korean e02s01_2419caaf:
@@ -542,7 +542,7 @@ translate korean e02s01_53996ee4:
 translate korean e02s01_26b256be:
 
     # mct "Oh, right. It's not like they would automate room service."
-    mct "아, 맞다. 룸서비스까지 자동화할 순 없겠지."
+    mct "아, 맞다. 룸서비스까지 저절로 되진 않겠지."
 
 # game/code/e02/e02s01.rpy:336
 translate korean e02s01_98266f3b:
@@ -554,13 +554,13 @@ translate korean e02s01_98266f3b:
 translate korean e02s01_9cfab8d7:
 
     # mh "Well, what now?"
-    mh "음, 이제 어쩌지?"
+    mh "음, 이제 어쩐담?"
 
 # game/code/e02/e02s01.rpy:341
 translate korean e02s01_d98c9b43:
 
     # mc "I'll find wine somewhere. Be back soon."
-    mc "가서 와인 구해 봐야겠네. 금방 돌아올게."
+    mc "난 와인 구해야겠네. 금방 돌아올게."
 
 # game/code/e02/e02s01.rpy:343
 translate korean e02s01_b28f16bf:
@@ -578,7 +578,7 @@ translate korean e02s01_hot_bath_31a3613b:
 translate korean e02s01_hot_bath_03703d1f:
 
     # mc "The wine or the hot tub?"
-    mc "와인이 아니면 온수 욕조가?"
+    mc "와인 말이야, 아니면 온수 욕조가?"
 
 # game/code/e02/e02s01.rpy:366
 translate korean e02s01_hot_bath_eb8dbf96:
@@ -590,7 +590,7 @@ translate korean e02s01_hot_bath_eb8dbf96:
 translate korean e02s01_hot_bath_875c06c3:
 
     # mc "Are you implying I'm not a seasoned sommelier? Like I wouldn't know my way around wine tasting."
-    mc "내가 소믈리에로는 형편없다는 거 돌려서 말하는 거지? 시음하는 법도 제대로 모른다고 말이야."
+    mc "내가 노련한 소믈리에는 아니라고 돌려 말하는 거지? 와인 제대로 못 고른다고 말이야."
 
 # game/code/e02/e02s01.rpy:371
 translate korean e02s01_hot_bath_d913ce8b:
@@ -602,7 +602,7 @@ translate korean e02s01_hot_bath_d913ce8b:
 translate korean e02s01_hot_bath_6ff466be:
 
     # mc "Wine is an expensive hobby."
-    mc "이럴 때나 마실 수 있다니, 와인은 비싼 취미라니까."
+    mc "와인은 비싼 취미라니까."
 
 # game/code/e02/e02s01.rpy:376
 translate korean e02s01_hot_bath_9485771e:
@@ -614,7 +614,7 @@ translate korean e02s01_hot_bath_9485771e:
 translate korean e02s01_hot_bath_fbca3276:
 
     # mc "Sounds like you're justifying living a bourgeois lifestyle."
-    mc "돈을 안 쓸 수가 없다고 하면서 부르주아 생활을 정당화는 거처럼 들리는데."
+    mc "돈을 안 쓸 수가 없다고 하면서 부르주아 같은 생활을 정당화하는 것처럼 들리는데."
 
 # game/code/e02/e02s01.rpy:380
 translate korean e02s01_hot_bath_1eea5a3d:
@@ -632,7 +632,7 @@ translate korean e02s01_hot_bath_fa97395f:
 translate korean e02s01_hot_bath_32867f1d:
 
     # mh "I'll drink to that."
-    mh "그 정도 놀리는 건 안주로 할게. 건배."
+    mh "그 정돈 안주로 제격이네. 건배."
 
 # game/code/e02/e02s01.rpy:389
 translate korean e02s01_hot_bath_2266d627:
@@ -656,7 +656,7 @@ translate korean e02s01_hot_bath_cf1adef2:
 translate korean e02s01_hot_bath_9848d31b:
 
     # mh "I thought there would be a lot of this, relaxing, talking, skiing."
-    mh "지금처럼 쉬면서 이야기하고 나중에 스키도 타고."
+    mh "지금처럼 쉬고, 이야기하고, 나중에 스키도 타고."
 
 # game/code/e02/e02s01.rpy:398
 translate korean e02s01_hot_bath_02c200d9:
@@ -692,13 +692,13 @@ translate korean e02s01_hot_bath_11455b53:
 translate korean e02s01_hot_bath_71340f3b:
 
     # mh "Next, we'll start doing all sorts of activities on boards, surfing, skateboarding..."
-    mh "다음엔 온갖 판을 타자고 하겠지. 다이빙 판, 서핑 판, 스케이트 판..."
+    mh "다음엔 온갖 보드를 타자고 하겠지. 다이빙 보드, 서핑 보드, 스케이트 보드..."
 
 # game/code/e02/e02s01.rpy:411
 translate korean e02s01_hot_bath_8076646d:
 
     # mc "You don't want to? I mean, it's all custom designed and everything."
-    mc "스노보드 싫어했어? 그러니까, 요즘 스노보드는 맞춤 제작도 되고 왠만한 건 다 된다구. 싼 취미는 아닌데."
+    mc "스노보드 싫어했어? 그러니까, 스노보드도 맞춤 제작이고, 이것저것 다 된다구."
 
 # game/code/e02/e02s01.rpy:412
 translate korean e02s01_hot_bath_71eb615a:
@@ -710,13 +710,13 @@ translate korean e02s01_hot_bath_71eb615a:
 translate korean e02s01_hot_bath_75a144f0:
 
     # mh "Hmm, I guess you're right, I am becoming a little bourgeois."
-    mh "으으음, 당신 말이 맞아. 내가 부르주아지 속물이 됐나 봐. 뭘 타는 게 중요한 게 아닌데, 내가 하나 배웠어."
+    mh "으으음, 당신 말이 맞아. 내가 좀 부르주아지 속물이 됐나 봐. 뭘 타는 게 중요한 게 아닌데, 내가 하나 배웠어."
 
 # game/code/e02/e02s01.rpy:420
 translate korean e02s01_hot_bath_47631e6c:
 
     # mh "There won't be much of that."
-    mh "여행에선 배우기만 하는 건 아닌가 봐."
+    mh "배우기만 하는 건 아니야."
 
 # game/code/e02/e02s01.rpy:422
 translate korean e02s01_hot_bath_454ecb0d:
@@ -728,7 +728,7 @@ translate korean e02s01_hot_bath_454ecb0d:
 translate korean e02s01_hot_bath_d1f576cc:
 
     # mh "You know there's a bunch of other cabins next to us right?"
-    mh "우리 바로 옆에 방갈로가 여러 채 있지?"
+    mh "우리 바로 옆에 오두막이 여러 채 있지?"
 
 # game/code/e02/e02s01.rpy:425
 translate korean e02s01_hot_bath_cf1adef2_1:
@@ -740,13 +740,13 @@ translate korean e02s01_hot_bath_cf1adef2_1:
 translate korean e02s01_hot_bath_5243301c:
 
     # mh "I saw one couple fighting. I think they were married."
-    mh "그곳에서 한 쌍의 연인이 다투는 걸 봤어. 부부 사이로 보였지."
+    mh "오두막에서 연인들이 다투는 걸 봤어. 부부로 보였지."
 
 # game/code/e02/e02s01.rpy:433
 translate korean e02s01_hot_bath_76cf1578:
 
     # mc "Did you hear what they were fighting about?"
-    mc "뭐로 싸우는진 들었어?"
+    mc "뭐 때문에 싸우는지는 들었어?"
 
 # game/code/e02/e02s01.rpy:435
 translate korean e02s01_hot_bath_52670ba3:
@@ -770,13 +770,13 @@ translate korean e02s01_hot_bath_74d822c4:
 translate korean e02s01_hot_bath_37b62b8f:
 
     # mc "I feel like we had a good run of it so far, right?"
-    mc "난 우리가 이제까지 잘 해 왔잖아, 그치?"
+    mc "우린 지금까지 꽤 잘해 왔잖아, 그렇지?"
 
 # game/code/e02/e02s01.rpy:442
 translate korean e02s01_hot_bath_e628995b:
 
     # mh "I feel like there's a reason for that."
-    mh "그럴 만 했으니까."
+    mh "그럴 만한 이유가 있었으니까."
 
 # game/code/e02/e02s01.rpy:445
 translate korean e02s01_hot_bath_2e666d30:
@@ -794,7 +794,7 @@ translate korean e02s01_hot_bath_c74a71e6:
 translate korean e02s01_hot_bath_eda985d3:
 
     # mc "I feel that we have the best of both worlds."
-    mc "우린 둘 다 제대로 가졌나 봐."
+    mc "우린 둘 다 가진 거 같아."
 
 # game/code/e02/e02s01.rpy:471
 translate korean e02s01_hot_bath_40501f1b:
@@ -872,7 +872,7 @@ translate korean e02s01_hot_bath_e334e13f:
 translate korean e02s01_mh_control_2517c0d5:
 
     # mh "While you're down there, can you taste other parts of me?"
-    mh "물속에서 내 몸의 다른 부분도 맛볼 수 있겠어?"
+    mh "거기 있는 김에, 내 다른 곳도 맛봐 줄래?"
 
 # game/code/e02/e02s01.rpy:535
 translate korean e02s01_mh_control_06e93df0:
@@ -938,7 +938,7 @@ translate korean e02s01_mh_control_65c3b607:
 translate korean e02s01_mh_control_92b30756:
 
     # mc "I bet that was the hardest anyone's ever sucked you off in a hot tub."
-    mc "온수 욕수에서 리사를 빨아 준 사람 중에서 내가 가장 세게 빤 거 같은데."
+    mc "온수 욕조에서 이렇게 세게 빨아 준 건 내가 처음일걸."
 
 # game/code/e02/e02s01.rpy:606
 translate korean e02s01_mh_control_277f3ba3:
@@ -950,7 +950,7 @@ translate korean e02s01_mh_control_277f3ba3:
 translate korean e02s01_mh_control_50cd95c5:
 
     # mh "{i}I never had sex in a hot tub.{/i}"
-    mh "{i}온수 욕조에서 하는 건 이번이 처음이니까.{/i}"
+    mh "{i}온수 욕조에서 섹스하는 건 이번이 처음이니까.{/i}"
 
 # game/code/e02/e02s01.rpy:608
 translate korean e02s01_mh_control_faa03e1a:
@@ -986,7 +986,7 @@ translate korean e02s01_mh_control_c35bbb14:
 translate korean e02s01_mh_control_e006cfaa:
 
     # mh "You didn't warn me!"
-    mh "미래 말해 주지!"
+    mh "미리 말해 주지!"
 
 # game/code/e02/e02s01.rpy:623
 translate korean e02s01_mh_control_f6eeb7aa:
@@ -1076,7 +1076,7 @@ translate korean e02s01_mh_control_b568fdd2:
 translate korean e02s01_mh_control_c3c59ba0:
 
     # mc "I can see that, you're leaking pre-cum. Shoot it into your mouth."
-    mc "보면 알겠네, 물이 줄줄 흐르고 있잖아. 입에 싸."
+    mc "보기만 해도 알겠어, 물이 줄줄 흐르고 있잖아. 입에 싸 버려."
 
 # game/code/e02/e02s01.rpy:684
 translate korean e02s01_mh_control_87dc44fa:
@@ -1088,13 +1088,13 @@ translate korean e02s01_mh_control_87dc44fa:
 translate korean e02s01_mh_control_72c625bc:
 
     # mc "Yeah. You tasted your asshole, now taste how your cum tastes."
-    mc "그래. 자기 똥구멍 맛도 봤으니, 이제 자기 정액 맛도 봐야지."
+    mc "그래. 자기 항문 맛도 봤으니, 이제 자기 정액 맛도 봐야지."
 
 # game/code/e02/e02s01.rpy:688
 translate korean e02s01_mh_control_7247a403:
 
     # mh "It's too much, I'm going to cum!"
-    mh "너무 쎄, 쌀 거 같아!"
+    mh "너무 세, 쌀 거 같아!"
 
 # game/code/e02/e02s01.rpy:693
 translate korean e02s01_mh_control_c35bbb14_1:
@@ -1124,7 +1124,7 @@ translate korean e02s01_mh_control_32acb959:
 translate korean e02s01_mh_control_7b471f6f:
 
     # mc "Good."
-    mc "잘 했어."
+    mc "잘했어."
 
 # game/code/e02/e02s01.rpy:703
 translate korean e02s01_mh_control_7f5ce713:
@@ -1160,7 +1160,7 @@ translate korean e02s01_give_pleasure_dc8549ea:
 translate korean e02s01_give_pleasure_6b461d37:
 
     # mh "Please! Please fuck me harder! Make me cum! I'm going to come so hard!"
-    mh "부탁이야! 제발 절 더 세게 박아 주세요! 싸게 만들어! 엄청 세게 쌀거 같아!"
+    mh "부탁이야! 제발 절 더 세게 박아 주세요! 싸게 만들어! 엄청 세게 쌀 것 같아!"
 
 # game/code/e02/e02s01.rpy:782
 translate korean e02s01_give_pleasure_63b0e1dd:
@@ -1214,7 +1214,7 @@ translate korean e02s01_give_pleasure_fd67b3a8:
 translate korean e02s01_give_pleasure_63f4a0e8:
 
     # mh "Let's let it chill outside. We'll stay inside for the time being."
-    mh "와인은 밖에서 식게 두자. 우린 당분간 안에 있고."
+    mh "와인은 밖에 차갑게 두자. 우린 당분간 안에 있고."
 
 # game/code/e02/e02s01.rpy:841
 translate korean e02s01_give_pleasure_ae4e097b:
@@ -1256,21 +1256,21 @@ translate korean strings:
 
     # game/code/e02/e02s01.rpy:517
     old "Give Lyssa pleasure"
-    new "리사에게 기쁨을 준다"
+    new "리사에게 쾌감을 준다"
 
     # game/code/e02/e02s01.rpy:517
     old "Why Not Both?"
-    new "둘 다 하지 않을 이유가 뭔가?"
+    new "둘 다 하면 안 될 건 없지?"
 
 # game/code/e02/e02s01.rpy:417
 translate korean e02s01_hot_bath_d6431c08:
 
     # mc "It's true that you learn most about people through adversity."
-    mc "It's true that you learn most about people through adversity."
+    mc "함께 여행을 하면 서로 배우는 게 있다잖아."
 
 # game/code/e02/e02s01.rpy:423
 translate korean e02s01_hot_bath_c527c472:
 
     # mh "Adversity."
-    mh "Adversity."
+    mh "불화가 생기기도 하니까."
 
