@@ -152,7 +152,7 @@ translate korean e02s05_later_53b3ea05:
 translate korean e02s05_later_b527932b:
 
     # ap "No, she's right. Something feels off, but I couldn't tell you what it is."
-    ap "아냐, 안젤라 씨도 일리가 있어. 공유라고 하면 딱 집어 말하기 어렵지만 이상한 느낌이 들잖아."
+    ap "아냐, 안젤라 말에도 일리가 있어요. 공유라고 하면 딱 집어 말하기 어렵지만 이상한 느낌이 들잖아요."
 
 # game/code/e02/e02s05.rpy:129
 translate korean e02s05_later_de59d7ef:
@@ -206,7 +206,7 @@ translate korean e02s05_later_14383023:
 translate korean e02s05_later_e9dec84e:
 
     # ac "You know. Say your names, tell us a little about yourself and your issues."
-    ac "수순이 있잖아요. 이름 말하고, 여러분 자신과 여러분의 문제에 관해 조금이나마 저희에게 설명해 주시는 거요."
+    ac "그거 있잖아요. 이름 말하고, 자기소개랑 무슨 문제로 왔는지 간단히 말하는 거요."
 
 # game/code/e02/e02s05.rpy:149
 translate korean e02s05_later_056d84f8:
@@ -218,7 +218,7 @@ translate korean e02s05_later_056d84f8:
 translate korean e02s05_later_f333732d:
 
     # mh "Hi. I'm Melissa Harris and this is my boyfriend, [mcname]."
-    mh "안녕하세요. 저는 멀리사 해리스입니다. 그리고 이이는 제 남자친구인 [mcname] 영이에요."
+    mh "안녕하세요. 저는 멀리사 해리스입니다. 그리고 이이는 제 남자 친구, [mcname]이에요."
 
 # game/code/e02/e02s05.rpy:155
 translate korean e02s05_later_a58c992f:
@@ -230,7 +230,7 @@ translate korean e02s05_later_a58c992f:
 translate korean e02s05_later_31619ec5:
 
     # mc "Her friends call her Lyssa."
-    mc "제 여자 친구 친구들은 리사라고 부르니까, 그렇게 부르세요."
+    mc "친구들은 리사라고 부르니까, 그렇게 부르셔도 돼요."
 
 # game/code/e02/e02s05.rpy:161
 translate korean e02s05_later_ef8aa687:
@@ -386,7 +386,7 @@ translate korean e02s05_later_eaea8c40:
 translate korean e02s05_later_37b345bf:
 
     # ac "At one point on this trip, you said you might get a job and go back to college to help support a child."
-    ac "이번 여행 중엔 이런 말도 한 건 잊었나 보네. 애 키우는 데 돈이 많이 드니 일도 구하고, 다시 복학에서 학위 따겠다며."
+    ac "이번 여행 중에 당신, 일도 구하고 복학도 해서 애 키우는 데 보태겠다고 했잖아."
 
 # game/code/e02/e02s05.rpy:215
 translate korean e02s05_later_6146f097:
@@ -464,7 +464,7 @@ translate korean e02s05_later_77d3931e:
 translate korean e02s05_later_f7cfd336:
 
     # dn "Or they were when they thought the therapist would be here."
-    dn "보험 회사에서 상담사가 없다는 걸 알고도 휴가비를 내줄지는 모르겠지만요."
+    dn "상담사가 온다고 생각했을 때까진 그랬죠."
 
 # game/code/e02/e02s05.rpy:251
 translate korean e02s05_later_b3270a45:
@@ -476,7 +476,7 @@ translate korean e02s05_later_b3270a45:
 translate korean e02s05_later_8be8a8e2:
 
     # atp "I'm sure we'd all love that, but we've been going at this for a while now."
-    atp "나도 그러곤 싶은데, 우리 여기 너무 오래 모여있었다구요."
+    atp "다들 그러고 싶겠지만, 우리 여기 너무 오래 있었잖아요."
 
 # game/code/e02/e02s05.rpy:257
 translate korean e02s05_later_7afd6a06:
@@ -512,7 +512,7 @@ translate korean e02s05_later_639f0296:
 translate korean e02s05_later_4d6c00b5:
 
     # mh "Of course, I'm sure we all know how to get in touch with each other."
-    mh "물론이에요. 서로 시간이 되서 보고 싶으면 연략을 할 방법도 있을 테니까요."
+    mh "물론이에요. 서로 연락할 방법은 다들 알고 있을 테니까요."
 
 # game/code/e02/e02s05.rpy:275
 translate korean e02s05_later_3a8e84ea:
@@ -602,7 +602,7 @@ translate korean e02s05_menu_68625f7d:
 translate korean e02s05_menu_3229c053:
 
     # mc "Okay. Let's do that tomorrow. Which one?"
-    mc "알겠어. 내일부터 하면 되겠네. 누구 찍어 둔 사람들이도 있어?"
+    mc "알겠어. 내일부터 하면 되겠네. 누구 찍어 둔 사람들이라도 있어?"
 
 # game/code/e02/e02s05.rpy:330
 translate korean e02s05_menu_8bb50aca:
@@ -614,7 +614,7 @@ translate korean e02s05_menu_8bb50aca:
 translate korean e02s05_menu_37338b68:
 
     # mc "So, what do you want to do tomorrow, Brain?"
-    mc "그럼, 내일 하고 싶은 은 뭔데, 브레인?"
+    mc "그럼, 내일 하고 싶은 건 뭔데, 브레인?"
 
 # game/code/e02/e02s05.rpy:337
 translate korean e02s05_menu_ac0b9fc9:
@@ -656,7 +656,7 @@ translate korean e02s05_menu_59122bb5:
 translate korean e02s05_menu_de18fb8e:
 
     # mc "Chicken butt."
-    mc "게살 버거?"
+    mc "모르겠는데, 닭다리?"
 
 # game/code/e02/e02s05.rpy:362
 translate korean e02s05_menu_c8bdaec4:
@@ -668,7 +668,7 @@ translate korean e02s05_menu_c8bdaec4:
 translate korean e02s05_menu_d3387467:
 
     # mc "It's pretty obvious, there's one couple we haven't spent time with yet."
-    mc "그거야 뻔하지. 아직 같이 시간을 보내지 못한 연인이 있으니 말이야."
+    mc "그거야 뻔하지. 아직 같이 시간을 못 보낸 연인이 있잖아."
 
 # game/code/e02/e02s05.rpy:368
 translate korean e02s05_menu_c0f6d8d9:
