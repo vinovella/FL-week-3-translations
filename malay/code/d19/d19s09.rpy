@@ -602,7 +602,7 @@ translate malay d19s09_double_bj_2af2ebd5:
 translate malay d19s09_fuck_arj_9ea2bc96:
 
     # sy "It feels ridiculous, but the way your balls smack my clit is so hot."
-    sy "Rasanya tak masuk akal, tap[i cara kote kau memukul kelentit aku sangat menarik."
+    sy "Rasanya tak masuk akal, tapi cara kote kau memukul kelentit aku sangat menarik."
 
 # game/code/d19/d19s09.rpy:576
 translate malay d19s09_fuck_arj_3938a9bd:

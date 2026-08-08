@@ -105,7 +105,7 @@ translate malay d20s06_afa294d8:
 
     # mc "There was a lot of bullshit I had to deal with, but I somehow pulled through in the end."
     mc "Hanya ada banyak omong kosong yang aku kena hadapi, tapi entah macam mana aku berjaya melakukannya pada akhirnya."
-    
+
 # game/code/d20/d20s06.rpy:71
 translate malay d20s06_2e708197:
 
@@ -494,7 +494,7 @@ translate malay d20s06_7ab10b16:
 translate malay d20s06_08b86d2d:
 
     # mc "Hm. Sweeter than I thought it'd be."
-    mc "Hm. Lebih manis darip[ada apa yang aku sangka."
+    mc "Hm. Lebih manis daripada apa yang aku sangka."
 
 # game/code/d20/d20s06.rpy:309
 translate malay d20s06_bdf4ba29:
