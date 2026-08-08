@@ -326,7 +326,7 @@ translate korean e02s07_next_day_00cb26f7:
 translate korean e02s07_next_day_6f4494ba:
 
     # ms "I hope we didn't freak you out yesterday. It got a little weird."
-    ms "저희가 어려분 질리게 만든 건 아니면 좋겠네요. 저희가 좀 이상하게 굴었죠."
+    ms "저희가 여러분 질리게 만든 건 아니면 좋겠네요. 저희가 좀 이상하게 굴었죠."
 
 # game/code/e02/e02s07.rpy:253
 translate korean e02s07_next_day_8e3f8c24:
@@ -344,13 +344,13 @@ translate korean e02s07_next_day_cc61400c:
 translate korean e02s07_next_day_6c9dd2c6:
 
     # mc "We're just hoping to have a good time with new friends."
-    mc "저희는 새롭게 만난 사람들고 좋은 시간만 가지면 족한걸요."
+    mc "저희는 새롭게 만난 사람들과 좋은 시간만 가지면 족한걸요."
 
 # game/code/e02/e02s07.rpy:263
 translate korean e02s07_next_day_dea41dc3:
 
     # ms "That's sweet. I like that."
-    ms "정말 두 분 상냥도 하시지."
+    ms "정말 두 분 상냥하기도 하시지."
 
 # game/code/e02/e02s07.rpy:266
 translate korean e02s07_next_day_1ecac042:
@@ -548,7 +548,7 @@ translate korean e02s07_next_day_1d5cd55f:
 translate korean e02s07_next_day_f3f4be20:
 
     # ms "Makes sense to me."
-    ms "무쓴 말씀인지 알겠어요."
+    ms "무슨 말씀인지 알겠어요."
 
 # game/code/e02/e02s07.rpy:359
 translate korean e02s07_next_day_bad8c937:
@@ -920,7 +920,7 @@ translate korean e02s07_sex_b39ab373:
 translate korean e02s07_sex_d7a0865e:
 
     # mh "But a portion of your conscious mind - whether giving or receiving - has to be focused on avoiding injury."
-    mh "하지만 항상 의식해서 부상을 피하려는 데 주의를 기울어야 해요. 줄 때든 받을 때든 상관없이 말이에요."
+    mh "하지만 항상 의식해서 부상을 피하려는 데 주의를 기울여야 해요. 줄 때든 받을 때든 상관없이 말이에요."
 
 # game/code/e02/e02s07.rpy:555
 translate korean e02s07_sex_8adb63fe:
@@ -932,7 +932,7 @@ translate korean e02s07_sex_8adb63fe:
 translate korean e02s07_sex_6927c19c:
 
     # mc "The anus and anal canal are extremely sensitive to touch, and as a result the pleasure felt can be profound."
-    mc "항분과 항문관은 극도로 자극에 민감하죠. 그 결과 항문을 통한 즐거움은 아주 심원하죠."
+    mc "항문과 항문관은 극도로 자극에 민감하죠. 그 결과 항문을 통한 즐거움은 아주 심원하죠."
 
 # game/code/e02/e02s07.rpy:562
 translate korean e02s07_sex_0ab94a8f:
@@ -944,7 +944,7 @@ translate korean e02s07_sex_0ab94a8f:
 translate korean e02s07_sex_fbb0f273:
 
     # mh "Third, is the psychological aspect. About 90%% of sexual pleasure occurs in the brain."
-    mh "세 번째 요소는 심리적인 측면과 관련되요. 성적 쾌락의 약 90%%는 뇌에 의한 바예요."
+    mh "세 번째 요소는 심리적인 측면과 관련되요. 성적 쾌락의 약 90%%는 뇌에서 일어나는 거예요."
 
 # game/code/e02/e02s07.rpy:569
 translate korean e02s07_sex_956a52e4:
@@ -1124,13 +1124,13 @@ translate korean e02s07_sex_end_dfe618b0:
 translate korean e02s07_sex_end_08c00270:
 
     # dn "*laughs nervously* I hope you don't mind if we fuck and run."
-    dn "*신경질적으로 웃으며* 우리가 이런 상황에서 나가서 불편하게 만드는 건 아닌가 모르겠어요."
+    dn "*어색하게 웃으며* 이렇게 즐기고 바로 가 버리는 게 실례는 아니길 바라요."
 
 # game/code/e02/e02s07.rpy:772
 translate korean e02s07_sex_end_6a1f7c7d:
 
     # mh "Completely understandable. Hopefully we'll see you again soon."
-    mh "이제 나갈 때인걸요. 잘 알겠어요. 곧 다시 두 분을 뵙길 바라요."
+    mh "전혀 실례가 아니에요. 곧 다시 두 분을 뵙길 바라요."
 
 # game/code/e02/e02s07.rpy:775
 translate korean e02s07_sex_end_47dee278:
@@ -1334,7 +1334,7 @@ translate korean e02s07_next_day_2_a17c6c8c:
 translate korean e02s07_next_day_2_80981cf1:
 
     # mc "What is it? Lyssa wouldn't tell me."
-    mc "뭐가 들어 있나요? 리사가 저한텐 안 안려 줘서요."
+    mc "뭐가 들어 있나요? 리사가 저한텐 안 알려 줘서요."
 
 # game/code/e02/e02s07.rpy:900
 translate korean e02s07_next_day_2_546cbead:
@@ -1436,7 +1436,7 @@ translate korean e02s07_next_day_2_a41f3219:
 translate korean e02s07_next_day_2_e216a417:
 
     # mh "-this all led me to the belief that you should at least try experimenting with dildos, strap-ons, and other artificial phalluses."
-    mh "-이런 모든 사항을 종합해, 저는 다음과 같은 믿음을 갖게 되었어요. 즉, 두 분께서 딜도, 스트랩-온, 여가 인공 남근 형태의 도구를 시험해 봐야 한다는 것이죠."
+    mh "-이런 모든 사항을 종합해, 저는 다음과 같은 믿음을 갖게 되었어요. 즉, 두 분께서 딜도, 스트랩-온, 여타 인공 남근 형태의 도구를 시험해 봐야 한다는 것이죠."
 
 # game/code/e02/e02s07.rpy:939
 translate korean e02s07_next_day_2_b0adf478:
