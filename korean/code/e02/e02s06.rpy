@@ -2,7 +2,7 @@
 translate korean e02s06_52e800c4:
 
     # fc "Nice place. And a hot tub to boot!"
-    fc "멋진 곳이네요. 온수 욕수까지 있다니!"
+    fc "멋진 곳이네요. 온수 욕조까지 있다니!"
 
 # game/code/e02/e02s06.rpy:74
 translate korean e02s06_e5a4b140:
@@ -32,7 +32,7 @@ translate korean e02s06_13d0ef89:
 translate korean e02s06_bef97653:
 
     # mc "Amazing. I got some serious air on one of the jumps. Thought I was going to die when I landed."
-    mc "끝내주는 기분이죠. 허공에 뜨는 순간엔 별 생각이 다 들어요. 착지하는 순간 죽겠다 싶다니까요."
+    mc "끝내주는 기분이죠. 점프 한 번에 진짜 높이 떴다니까요. 착지하는 순간 죽겠다 싶었죠."
 
 # game/code/e02/e02s06.rpy:86
 translate korean e02s06_e1339cbe:
@@ -80,7 +80,7 @@ translate korean e02s06_0bc00de3:
 translate korean e02s06_100a95ba:
 
     # mh "I wanted to ask you two, is everything alright? Things seemed a little cold between you."
-    mh "저 두 분에게 묻고 싶던 점이 있었어요, 혹시 두 분 사이에 무슨 일이라도 있었나요? 여러분 사이에 약간 냉냉한 분위기가 감돌던데요."
+    mh "저 두 분에게 묻고 싶던 점이 있었어요, 혹시 두 분 사이에 무슨 일이라도 있었나요? 여러분 사이에 약간 냉랭한 분위기가 감돌던데요."
 
 # game/code/e02/e02s06.rpy:115
 translate korean e02s06_32053907:
@@ -416,7 +416,7 @@ translate korean e02s06_c39367a9:
 translate korean e02s06_a3d2fa26:
 
     # mh "Most times, an affair really involves more of a deception on the part of someone in the relationship."
-    mh "대부분의 경우, 혼회 정사에는 반려에 대한 거짓과 속임수가 개입되죠."
+    mh "대부분의 경우, 혼외 정사에는 반려에 대한 거짓과 속임수가 개입되죠."
 
 # game/code/e02/e02s06.rpy:250
 translate korean e02s06_40423552:
@@ -722,7 +722,7 @@ translate korean e02s06_experiment_29a1d749:
 translate korean e02s06_experiment_98190969:
 
     # ac "I might have to steal you and the gold..."
-    ac "너랑 금을 챙겨 가야하겠는데..."
+    ac "너랑 금을 챙겨 가야겠는데..."
 
 # game/code/e02/e02s06.rpy:428
 translate korean e02s06_experiment_a13d8157:
@@ -1040,7 +1040,7 @@ translate korean e02s06_experiment_68173d25:
 translate korean e02s06_experiment_af5992c0:
 
     # fc "Sweet mercy... that was a real treat."
-    fc "드디어... 정말 호사가 따로 없네."
+    fc "이런 세상에... 정말 호사가 따로 없네."
 
 # game/code/e02/e02s06.rpy:645
 translate korean e02s06_experiment_f1e7ccbb:
@@ -1298,7 +1298,7 @@ translate korean strings:
 
     # game/code/e02/e02s06.rpy:272
     old "Help them experiment"
-    new "두 사람의 시험을 돕는다"
+    new "두 사람의 실험을 돕는다"
 
     # game/code/e02/e02s06.rpy:272
     old "Just give them some advice"
