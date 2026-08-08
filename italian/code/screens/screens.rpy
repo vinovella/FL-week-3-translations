@@ -352,13 +352,15 @@ translate italian strings:
     old "Menu"
     new "Menu"
 
-translate italian strings:
-
     # game/code/screens/screens.rpy:886
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Sincronizzazione del salvataggio di Ren'Py"
 
     # game/code/screens/screens.rpy:1056
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Opacità della finestra del dialogo"
+
+    # game/code/screens/screens.rpy:373
+    old "Comic Books"
+    new "Fumetti"
 

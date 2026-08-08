@@ -64,45 +64,19 @@ translate turkish strings:
     old "BONUS CONTENT"
     new "BONUS İÇERİK"
 
-    # game/code/screens/extended/screens.rpy:95
-    old "Wishlist Taboo University on Steam"
-    new "İstek Listesi Taboo University Steam'de"
-
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
     new "Aşk oyuncağı al"
-
-    # game/code/screens/extended/screens.rpy:233
-    old "Try our new game Taboo University"
-    new "Yeni oyunumuz Tabu Üniversitesi'ni deneyin"
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"
     new "Steam'den 6 son içeren ücretsiz DLC alın"
 
-translate turkish strings:
-
-    # game/code/screens/extended/screens.rpy:227
-    old "Buy Taboo University on Steam"
-    new "Taboo University ürününü Steam'den satın alın"
-
-translate turkish strings:
-
     # game/code/screens/extended/screens.rpy:267
     old "Get DLC-2 containing 6 additional endings from Steam"
     new "Steam'den 6 ek son içeren DLC-2'yi edinin"
 
-translate turkish strings:
-
-    # game/code/screens/extended/screens.rpy:236
-    old "Wishlist Fetish Locator: S&M Studio on Steam"
-    new "Fetish Locator: S&M Studio'yu Steam'de istek listesine ekleyin"
-
-    # game/code/screens/extended/screens.rpy:238
-    old "Get Fetish Locator: S&M Studio on Steam"
-    new "Fetish Locator: S&M Studio'yu Steam'de edinin"
-
-    # game/code/screens/extended/screens.rpy:251
-    old "Watch Fetish Locator: S&M Studio trailer"
-    new "Fetish Locator: S&M Studio fragmanını izleyin"
+    # game/code/screens/extended/screens.rpy:425
+    old "COMIC BOOKS"
+    new "ÇİZGİ ROMANLAR"
 

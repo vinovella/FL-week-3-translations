@@ -368,19 +368,19 @@ translate malay strings:
     old "Menu"
     new "Menu"
 
-translate malay strings:
-
     # game/code/screens/screens.rpy:1036
     old "Connect Your Toy"
     new "Sambungkan Mainan Anda"
 
-translate malay strings:
-
     # game/code/screens/screens.rpy:886
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Ren'Py Simpanan Sync"
 
     # game/code/screens/screens.rpy:1056
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Ketelusan Kotak Dialog"
+
+    # game/code/screens/screens.rpy:373
+    old "Comic Books"
+    new "Buku Komik"
 

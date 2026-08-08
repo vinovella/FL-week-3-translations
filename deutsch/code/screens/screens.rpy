@@ -358,3 +358,9 @@ translate deutsch strings:
     old "Dialogue Box Opacity"
     new "Dialogfeld Opazität"
 
+translate deutsch strings:
+
+    # game/code/screens/screens.rpy:373
+    old "Comic Books"
+    new "Comicbücher"
+

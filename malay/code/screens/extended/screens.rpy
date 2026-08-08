@@ -82,45 +82,19 @@ translate malay strings:
     old "Quit Game"
     new "Henti"
 
-    # game/code/screens/extended/screens.rpy:95
-    old "Wishlist Taboo University on Steam"
-    new "Wishlist Taboo University on Steam"
-
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
-    new "Get a Lovense toy"
-
-    # game/code/screens/extended/screens.rpy:233
-    old "Try our new game Taboo University"
-    new "Try our new game Taboo University"
+    new "Dapatkan mainan Lovense"
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"
-    new "Get free DLC containing 6 endings from Steam"
-
-translate malay strings:
-
-    # game/code/screens/extended/screens.rpy:227
-    old "Buy Taboo University on Steam"
-    new "Buy Taboo University on Steam"
-
-translate malay strings:
+    new "Dapatkan DLC percuma yang mengandungi 6 pengakhiran dari Steam"
 
     # game/code/screens/extended/screens.rpy:267
     old "Get DLC-2 containing 6 additional endings from Steam"
-    new "Get DLC-2 containing 6 additional endings from Steam"
+    new "Dapatkan DLC-2 yang mengandungi 6 pengakhiran tambahan dari Steam"
 
-translate malay strings:
-
-    # game/code/screens/extended/screens.rpy:236
-    old "Wishlist Fetish Locator: S&M Studio on Steam"
-    new "Wishlist Fetish Locator: S&M Studio on Steam"
-
-    # game/code/screens/extended/screens.rpy:238
-    old "Get Fetish Locator: S&M Studio on Steam"
-    new "Get Fetish Locator: S&M Studio on Steam"
-
-    # game/code/screens/extended/screens.rpy:251
-    old "Watch Fetish Locator: S&M Studio trailer"
-    new "Watch Fetish Locator: S&M Studio trailer"
+    # game/code/screens/extended/screens.rpy:425
+    old "COMIC BOOKS"
+    new "BUKU KOMIK"
 

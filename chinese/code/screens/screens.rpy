@@ -360,13 +360,9 @@ translate chinese strings:
     old "Menu"
     new "菜单"
 
-translate chinese strings:
-
     # game/code/screens/screens.rpy:1033
     old "Connect Your Toy"
     new "连接玩具"
-
-translate chinese strings:
 
     # game/code/screens/screens.rpy:886
     old "Ren'Py Save Sync"
@@ -375,4 +371,8 @@ translate chinese strings:
     # game/code/screens/screens.rpy:1056
     old "Dialogue Box Opacity"
     new "对话框不透明"
+
+    # game/code/screens/screens.rpy:373
+    old "Comic Books"
+    new "漫画书"
 

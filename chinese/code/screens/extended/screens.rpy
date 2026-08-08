@@ -120,3 +120,9 @@ translate chinese strings:
     old "Watch Fetish Locator: S&M Studio trailer"
     new "观看 Fetish Locator: S&M Studio 预告片"
 
+translate chinese strings:
+
+    # game/code/screens/extended/screens.rpy:425
+    old "COMIC BOOKS"
+    new "漫画书"
+

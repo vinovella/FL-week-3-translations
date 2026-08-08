@@ -64,41 +64,19 @@ translate spanish strings:
     old "BONUS CONTENT"
     new "CONTENIDO EXTRA"
 
-    # game/code/screens/extended/screens.rpy:95
-    old "Wishlist Taboo University on Steam"
-    new "Añade Taboo University a su lista de deseados en Steam"
-
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
     new "Consigue un juguete Lovense"
-
-    # game/code/screens/extended/screens.rpy:233
-    old "Try our new game Taboo University"
-    new "Prueba nuestro nuevo juego Taboo University"
 
     # game/code/screens/extended/screens.rpy:246
     old "Get free DLC containing 6 endings from Steam"
     new "Consigue gratis el DLC con los 6 finales en Steam"
 
-    # game/code/screens/extended/screens.rpy:227
-    old "Buy Taboo University on Steam"
-    new "Compra Taboo University en Steam"
-
     # game/code/screens/extended/screens.rpy:267
     old "Get DLC-2 containing 6 additional endings from Steam"
     new "Consigue el DLC-2 que contiene los 6 finales adicionales en Steam"
 
-translate spanish strings:
-
-    # game/code/screens/extended/screens.rpy:236
-    old "Wishlist Fetish Locator: S&M Studio on Steam"
-    new "Añade Fetish Locator: S&M Studio a tu lista de deseos en Steam"
-
-    # game/code/screens/extended/screens.rpy:238
-    old "Get Fetish Locator: S&M Studio on Steam"
-    new "Consigue Fetish Locator: S&M Studio en Steam"
-
-    # game/code/screens/extended/screens.rpy:251
-    old "Watch Fetish Locator: S&M Studio trailer"
-    new "Mira el tráiler de Fetish Locator: S&M Studio"
+    # game/code/screens/extended/screens.rpy:425
+    old "COMIC BOOKS"
+    new "CÓMICS"
 
