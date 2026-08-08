@@ -362,5 +362,5 @@ translate korean strings:
 
     # game/code/screens/screens.rpy:373
     old "Comic Books"
-    new "Comic Books"
+    new "만화책"
 

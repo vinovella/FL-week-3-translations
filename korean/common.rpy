@@ -2,15 +2,15 @@ translate korean strings:
 
     # renpy/common/00accessibility.rpy:28
     old "Self-voicing disabled."
-    new "말하기 기능 비활성화."
+    new "대사 읽기 비활성화."
 
     # renpy/common/00accessibility.rpy:29
     old "Clipboard voicing enabled. "
-    new "클립보드 말하기 기능 활성화. "
+    new "클립보드 대사 읽기 활성화. "
 
     # renpy/common/00accessibility.rpy:30
     old "Self-voicing enabled. "
-    new "말하기 기능 활성화. "
+    new "대사 읽기 활성화. "
 
     # renpy/common/00accessibility.rpy:32
     old "bar"
@@ -18,11 +18,11 @@ translate korean strings:
 
     # renpy/common/00accessibility.rpy:33
     old "selected"
-    new "선택"
+    new "선택됨"
 
     # renpy/common/00accessibility.rpy:34
     old "viewport"
-    new "정보창"
+    new "뷰포트"
 
     # renpy/common/00accessibility.rpy:35
     old "horizontal scroll"
@@ -34,11 +34,11 @@ translate korean strings:
 
     # renpy/common/00accessibility.rpy:37
     old "activate"
-    new "활성"
+    new "활성화"
 
     # renpy/common/00accessibility.rpy:38
     old "deactivate"
-    new "비활성"
+    new "비활성화"
 
     # renpy/common/00accessibility.rpy:39
     old "increase"
@@ -90,7 +90,7 @@ translate korean strings:
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
-    new "셀프-보이싱"
+    new "대사 읽기"
 
     # renpy/common/00accessibility.rpy:197
     old "Off"
@@ -98,7 +98,7 @@ translate korean strings:
 
     # renpy/common/00accessibility.rpy:201
     old "Text-to-speech"
-    new "음성 변환"
+    new "택스트 음성 변환"
 
     # renpy/common/00accessibility.rpy:205
     old "Clipboard"
@@ -110,7 +110,7 @@ translate korean strings:
 
     # renpy/common/00accessibility.rpy:215
     old "Self-Voicing Volume Drop"
-    new "셀프-보이싱 볼륨 감소"
+    new "대사 읽기 볼륨 감소"
 
     # renpy/common/00accessibility.rpy:224
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
@@ -278,7 +278,7 @@ translate korean strings:
 
     # renpy/common/00action_file.rpy:363
     old "Save slot %s: [text]"
-    new "슬롯에 저장하기  %s: [text]"
+    new "슬롯에 저장 %s: [text]"
 
     # renpy/common/00action_file.rpy:444
     old "Load slot %s: [text]"
@@ -286,15 +286,15 @@ translate korean strings:
 
     # renpy/common/00action_file.rpy:497
     old "Delete slot [text]"
-    new "슬롯에서 삭제하기 [text]"
+    new "슬롯에서 삭제 [text]"
 
     # renpy/common/00action_file.rpy:576
     old "File page auto"
-    new "파일 페이지 자동"
+    new "자동 저장 페이지"
 
     # renpy/common/00action_file.rpy:578
     old "File page quick"
-    new "파일 페이지 빠른"
+    new "빠른 저장 페이지"
 
     # renpy/common/00action_file.rpy:580
     old "File page [text]"
@@ -358,7 +358,7 @@ translate korean strings:
 
     # renpy/common/00director.rpy:1562
     old "(tag)"
-    new "(꼬리표)"
+    new "(태그)"
 
     # renpy/common/00director.rpy:1563
     old "(attributes)"
@@ -366,11 +366,11 @@ translate korean strings:
 
     # renpy/common/00director.rpy:1564
     old "(transform)"
-    new "(변형)"
+    new "(변환)"
 
     # renpy/common/00director.rpy:1589
     old "(transition)"
-    new "(이행)"
+    new "(전환)"
 
     # renpy/common/00director.rpy:1601
     old "(channel)"
@@ -402,7 +402,7 @@ translate korean strings:
 
     # renpy/common/00director.rpy:1695
     old "Tag:"
-    new "꼬리표:"
+    new "태그:"
 
     # renpy/common/00director.rpy:1711
     old "Attributes:"
@@ -410,15 +410,15 @@ translate korean strings:
 
     # renpy/common/00director.rpy:1729
     old "Transforms:"
-    new "변형:"
+    new "변환:"
 
     # renpy/common/00director.rpy:1748
     old "Behind:"
-    new "이전:"
+    new "뒤에:"
 
     # renpy/common/00director.rpy:1767
     old "Transition:"
-    new "이행:"
+    new "전환:"
 
     # renpy/common/00director.rpy:1785
     old "Channel:"
@@ -430,7 +430,7 @@ translate korean strings:
 
     # renpy/common/00gui.rpy:423
     old "Are you sure?"
-    new "괜찮습니까?"
+    new "확실합니까?"
 
     # renpy/common/00gui.rpy:424
     old "Are you sure you want to delete this save?"
@@ -470,7 +470,7 @@ translate korean strings:
 
     # renpy/common/00keymap.rpy:306
     old "Failed to save screenshot as %s."
-    new "%s로 스크린샷 실패."
+    new "%s로 스크린샷을 저장 실패."
 
     # renpy/common/00keymap.rpy:318
     old "Saved screenshot as %s."
@@ -482,7 +482,7 @@ translate korean strings:
 
     # renpy/common/00library.rpy:281
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
-    new "이 프로그램은 MIT License와 GNU Lesser General Public License를 포함하는 여러 법적 권리를 따르는 자유 소프트웨어를 포함합니다. 해당 소프트웨어의 전체 목록, 전체 소스 코드를 포함하는 링크는 {a=https://www.renpy.org/l/license}이곳{/a}에서 확인하실 수 있습니다."
+    new "이 프로그램은 MIT License와 GNU Lesser General Public License를 포함하는 여러 라이선스의 적용을 받는 자유 소프트웨어를 포함합니다. 해당 소프트웨어의 전체 목록, 전체 소스 코드를 포함하는 링크는 {a=https://www.renpy.org/l/license}이곳{/a}에서 확인하실 수 있습니다."
 
     # renpy/common/00preferences.rpy:254
     old "display"
@@ -490,11 +490,11 @@ translate korean strings:
 
     # renpy/common/00preferences.rpy:266
     old "transitions"
-    new "이행"
+    new "화면 전환"
 
     # renpy/common/00preferences.rpy:275
     old "skip transitions"
-    new "이행 건너뛰기"
+    new "화면 전환 건너뛰기"
 
     # renpy/common/00preferences.rpy:277
     old "video sprites"
@@ -542,15 +542,15 @@ translate korean strings:
 
     # renpy/common/00preferences.rpy:333
     old "auto-forward time"
-    new "자동-넘기기 시간"
+    new "자동 진행 시간"
 
     # renpy/common/00preferences.rpy:347
     old "auto-forward"
-    new "자동-넘기기"
+    new "자동 진행"
 
     # renpy/common/00preferences.rpy:354
     old "Auto forward"
-    new "자동 넘기기"
+    new "자동 진행"
 
     # renpy/common/00preferences.rpy:357
     old "auto-forward after click"
@@ -570,11 +570,11 @@ translate korean strings:
 
     # renpy/common/00preferences.rpy:393
     old "self voicing"
-    new "셀프 보이싱"
+    new "대사 읽기"
 
     # renpy/common/00preferences.rpy:402
     old "self voicing volume drop"
-    new "셀프 보이싱 볼륨 감소"
+    new "대사 읽기 볼륨 감소"
 
     # renpy/common/00preferences.rpy:410
     old "clipboard voicing"
@@ -590,7 +590,7 @@ translate korean strings:
 
     # renpy/common/00preferences.rpy:437
     old "rollback side"
-    new "뒤로 가기"
+    new "되돌리기 영역"
 
     # renpy/common/00preferences.rpy:447
     old "gl powersave"
@@ -662,15 +662,15 @@ translate korean strings:
 
     # renpy/common/00preferences.rpy:599
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
-    new "클립보드 보이싱 실행. 끄려면 'shift+C'를 누르시오."
+    new "클립보드 보이싱 실행. 끄려면 'shift+C'를 누르십시오."
 
     # renpy/common/00preferences.rpy:601
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
-    new "셀프-보이싱 기능을 \"[renpy.display.tts.last]\" 문장을 말합니다. 끄려면 'alt+shift+V'를 누르시오."
+    new "대사 읽기 기능을 \"[renpy.display.tts.last]\"라고 읽습니다. 끄려면 'alt+shift+V'를 누르십시오."
 
     # renpy/common/00preferences.rpy:603
     old "Self-voicing enabled. Press 'v' to disable."
-    new "셀프 보이싱 실행. 끄려면 'v'를 누르시오."
+    new "대사 읽기 실행. 끄려면 'v'를 누르시오."
 
     # renpy/common/_compat/gamemenu.rpym:198
     old "Empty Slot."
@@ -730,7 +730,7 @@ translate korean strings:
 
     # renpy/common/_developer/developer.rpym:90
     old "[name] [attributes] (hidden)"
-    new "[name] [attributes] (hidden)"
+    new "[name] [attributes] (숨김)"
 
     # renpy/common/_developer/developer.rpym:94
     old "[name] [attributes]"
@@ -762,7 +762,7 @@ translate korean strings:
 
     # renpy/common/_developer/developer.rpym:453
     old "Right-click or escape to quit."
-    new "종료하려면 오른쪽-클릭 또는 이스케이프."
+    new "종료하려면 우클릭하거나 Esc 키를 누르십시오."
 
     # renpy/common/_developer/developer.rpym:485
     old "Rectangle copied to clipboard."
@@ -798,7 +798,7 @@ translate korean strings:
 
     # renpy/common/_developer/inspector.rpym:38
     old "Displayable Inspector"
-    new "출력 가능한 검사기"
+    new "디스플레이어블 검사기"
 
     # renpy/common/_developer/inspector.rpym:61
     old "Size"
@@ -818,7 +818,7 @@ translate korean strings:
 
     # renpy/common/_developer/inspector.rpym:139
     old "displayable:"
-    new "출력 가능:"
+    new "디스플레이어블:"
 
     # renpy/common/_developer/inspector.rpym:145
     old "        (no properties affect the displayable)"
@@ -842,7 +842,7 @@ translate korean strings:
 
     # renpy/common/00iap.rpy:219
     old "Contacting App Store\nPlease Wait..."
-    new "앱 스토어에 접촉 중\n기다려 주세요..."
+    new "앱 스토어에 연결 중\n기다려 주세요..."
 
     # renpy/common/00updater.rpy:391
     old "The Ren'Py Updater is not supported on mobile devices."
@@ -874,11 +874,11 @@ translate korean strings:
 
     # renpy/common/00updater.rpy:1031
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "업데이트 파일이 올바르게 소화되지 않았습니다 - 오염되었을 가능성이 있습니다."
+    new "업데이트 파일의 다이제스트가 올바르지 않습니다. 파일이 손상되었을 수 있습니다."
 
     # renpy/common/00updater.rpy:1181
     old "While unpacking {}, unknown type {}."
-    new "{} 언팩킹 중, {} 타일 비식별."
+    new "{} 언팩킹 중, {} 알 수 없는 유형."
 
     # renpy/common/00updater.rpy:1553
     old "Updater"
@@ -950,7 +950,7 @@ translate korean strings:
 
     # renpy/common/00gallery.rpy:613
     old "return"
-    new "반환"
+    new "돌아가기"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
@@ -986,7 +986,7 @@ translate korean strings:
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
-    new "실행 (차단 항목 목록 없음)"
+    new "활성화 (차단 목록 무시)"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
@@ -1026,7 +1026,7 @@ translate korean strings:
 
     # renpy/common/00gltest.rpy:249
     old "This game requires use of GL2 that can't be initialised."
-    new "이 게임은 GL2을 사용하나 이를 초기화할 수 없습니다."
+    new "이 게임은 GL2를 사용하나 이를 초기화할 수 없습니다."
 
     # renpy/common/00gltest.rpy:251
     old "This computer has a problem displaying graphics: [problem]."
@@ -1046,7 +1046,7 @@ translate korean strings:
 
     # renpy/common/00gltest.rpy:269
     old "Continue, Show this warning again"
-    new "속개, 이 경고를 다시 출력"
+    new "계속, 이 경고를 다시 출력"
 
     # renpy/common/00gltest.rpy:273
     old "Continue, Don't show warning again"
@@ -1066,11 +1066,11 @@ translate korean strings:
 
     # renpy/common/00gamepad.rpy:54
     old "Calibrating [name] ([i]/[total])"
-    new "조정 [name] ([i]/[total])"
+    new "[name] 보정 중 ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:58
     old "Press or move the '[control!s]' [kind]."
-    new "누르거나 이동 '[control!s]' [kind].."
+    new "'[control!s]' [kind]을 누르거나 움직이십시오."
 
     # renpy/common/00gamepad.rpy:68
     old "Skip (A)"
@@ -1134,7 +1134,7 @@ translate korean strings:
 
     # renpy/common/_errorhandling.rpym:632
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "디스크에서 게임을 리로드, 가능하다면 게임 상태를 저장하고 복수할 수 있음."
+    new "디스크에서 게임을 리로드, 가능하다면 게임 상태를 저장하고 복원할 수 있음."
 
     # renpy/common/_errorhandling.rpym:635
     old "Console"
@@ -1154,7 +1154,7 @@ translate korean strings:
 
     # renpy/common/00action_other.rpy:703
     old "Open [text] directory."
-    new "[text] 디렉토리 열기."
+    new "[text] 디렉터리 열기."
 
     # renpy/common/00preferences.rpy:507
     old "audio when minimized"
@@ -1162,45 +1162,45 @@ translate korean strings:
 
     # renpy/common/00preferences.rpy:527
     old "main volume"
-    new "메인 볼륨"
+    new "주 음량"
 
     # renpy/common/00preferences.rpy:531
     old "mute main"
-    new "메인 음소거"
+    new "주 음소거"
 
 translate korean strings:
 
     # renpy/common/00director.rpy:1745
     old "Click to toggle attribute, right click to toggle negative attribute."
-    new "클릭하여 속성을 전환하고, 오른쪽 클릭하여 부정 속성을 전환합니다."
+    new "클릭하면 속성을 전환하고, 오른쪽 클릭하면 반대 속성을 전환합니다."
 
     # renpy/common/00director.rpy:1768
     old "Click to set transform, right click to add to transform list."
-    new "클릭하여 변형을 설정하고, 오른쪽 클릭하여 변형 목록에 추가합니다."
+    new "클릭하면 변형을 설정하고, 오른쪽 클릭하면 변형 목록에 추가합니다."
 
     # renpy/common/00director.rpy:1789
     old "Click to set, right click to add to behind list."
-    new "클릭하여 설정하고, 오른쪽 클릭하여 뒤 목록에 추가합니다."
+    new "클릭하면 설정하고, 오른쪽 클릭하면 뒤 배치 목록에 추가합니다."
 
     # renpy/common/00gui.rpy:456
     old "This save was created on a different device. Maliciously constructed save files can harm your computer. Do you trust this save's creator and everyone who could have changed the file?"
-    new "이 저장 파일은 다른 기기에서 생성되었습니다. 악의적으로 생성된 저장 파일은 컴퓨터에 해를 끼칠 수 있습니다. 이 저장 파일의 생성자와 파일을 변경할 수 있었던 모든 사람을 신뢰하십니까?"
+    new "이 저장 파일은 다른 기기에서 만들어졌습니다. 악의적으로 조작된 저장 파일은 컴퓨터에 피해를 줄 수 있습니다. 이 저장 파일을 만든 사람과 파일을 변경할 수 있었던 모든 사람을 신뢰하십니까?"
 
     # renpy/common/00gui.rpy:457
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
-    new "저장 파일이 생성된 기기를 신뢰하십니까? 해당 기기의 유일한 사용자일 때만 '예'를 선택해야 합니다."
+    new "이 저장 파일이 생성된 기기를 신뢰하십니까? 본인만 해당 기기를 사용하는 경우에만 예를 선택해야 합니다."
 
     # renpy/common/00preferences.rpy:528
     old "audio when unfocused"
-    new "포커스 해제 시 오디오"
+    new "비활성화 시 오디오"
 
     # renpy/common/00preferences.rpy:537
     old "web cache preload"
-    new "웹 캐시 미리로드"
+    new "웹 캐시 미리 불러오기"
 
     # renpy/common/00preferences.rpy:552
     old "voice after game menu"
-    new "게임 메뉴 이후 음성"
+    new "게임 메뉴 후 음성"
 
     # renpy/common/00speechbubble.rpy:344
     old "Speech Bubble Editor"
@@ -1212,7 +1212,7 @@ translate korean strings:
 
     # renpy/common/00sync.rpy:70
     old "Sync downloaded."
-    new "동기화 다운로드 완료."
+    new "동기화 데이터를 다운로드했습니다."
 
     # renpy/common/00sync.rpy:190
     old "Could not connect to the Ren'Py Sync server."
@@ -1220,7 +1220,7 @@ translate korean strings:
 
     # renpy/common/00sync.rpy:192
     old "The Ren'Py Sync server timed out."
-    new "Ren'Py 동기화 서버가 시간 초과되었습니다."
+    new "Ren'Py 동기화 서버 연결 시간이 초과되었습니다."
 
     # renpy/common/00sync.rpy:194
     old "An unknown error occurred while connecting to the Ren'Py Sync server."
@@ -1228,11 +1228,11 @@ translate korean strings:
 
     # renpy/common/00sync.rpy:267
     old "The Ren'Py Sync server does not have a copy of this sync. The sync ID may be invalid, or it may have timed out."
-    new "Ren'Py 동기화 서버에 이 동기화의 복사본이 없습니다. 동기화 ID가 잘못되었거나 시간이 초과되었을 수 있습니다."
+    new "Ren'Py 동기화 서버에 이 동기화의 사본이 없습니다. 동기화 ID가 유효하지 않거나 만료되었을 수 있습니다."
 
     # renpy/common/00sync.rpy:409
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "생성한 동기화 ID를 입력하세요.\n직접 생성하지 않은 동기화 ID는 절대 입력하지 마세요."
+    new "생성한 동기화 ID를 입력해 주세요.\n직접 만들지 않은 동기화 ID는 절대 입력하지 마세요."
 
     # renpy/common/00sync.rpy:428
     old "The sync ID is not in the correct format."
@@ -1244,15 +1244,15 @@ translate korean strings:
 
     # renpy/common/00sync.rpy:471
     old "The sync belongs to a different game."
-    new "동기화가 다른 게임에 속해 있습니다."
+    new "이 동기화는 다른 게임의 것입니다."
 
     # renpy/common/00sync.rpy:476
     old "The sync contains a file with an invalid name."
-    new "동기화에 잘못된 이름의 파일이 포함되어 있습니다."
+    new "이 동기화에는 잘못된 파일 이름이 포함되어 있습니다."
 
     # renpy/common/00sync.rpy:529
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "이 작업은 저장 파일을 {a=https://sync.renpy.org}Ren'Py 동기화 서버{/a}에 업로드합니다.\n계속하시겠습니까?"
+    new "저장 파일을 {a=https://sync.renpy.org}Ren'Py 동기화 서버{/a}에 업로드합니다.\n계속하시겠습니까?"
 
     # renpy/common/00sync.rpy:558
     old "Enter Sync ID"
@@ -1260,7 +1260,7 @@ translate korean strings:
 
     # renpy/common/00sync.rpy:569
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
-    new "이 작업은 {a=https://sync.renpy.org}Ren'Py 동기화 서버{/a}에 연결합니다."
+    new "{a=https://sync.renpy.org}Ren'Py 동기화 서버{/a}에 연결합니다."
 
     # renpy/common/00sync.rpy:596
     old "Sync Success"
@@ -1272,7 +1272,7 @@ translate korean strings:
 
     # renpy/common/00sync.rpy:605
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "이 ID를 사용하여 다른 기기에서 저장 파일을 다운로드할 수 있습니다.\n이 동기화는 한 시간 후 만료됩니다.\nRen'Py 동기화는 {a=https://www.renpy.org/sponsors.html}Ren'Py의 후원자{/a}가 지원합니다."
+    new "이 ID를 사용하면 다른 기기에서 저장 파일을 다운로드할 수 있습니다.\n이 동기화는 1시간 후 만료됩니다.\nRen'Py 동기화는 {a=https://www.renpy.org/sponsors.html}Ren'Py 후원자{/a}의 지원을 받습니다."
 
     # renpy/common/00sync.rpy:631
     old "Sync Error"
@@ -1280,113 +1280,113 @@ translate korean strings:
 
     # renpy/common/00accessibility.rpy:121
     old "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
-    new "Accessibility Menu. Use up and down arrows to navigate, and enter to activate buttons and bars."
+    new "접근성 메뉴입니다. 위아래 화살표로 이동하고 Enter로 버튼과 막대를 활성화합니다."
 
     # renpy/common/00accessibility.rpy:198
     old "Self-voicing support is limited when using a touch screen."
-    new "Self-voicing support is limited when using a touch screen."
+    new "터치 스크린 사용 시 대사 읽기 기능 지원이 제한됩니다."
 
     # renpy/common/00director.rpy:1777
     old "Customize director.transforms to add more transforms."
-    new "Customize director.transforms to add more transforms."
+    new "더 많은 변형을 추가하려면 director.transforms를 사용자 지정하세요."
 
     # renpy/common/00director.rpy:1822
     old "Click to set."
-    new "Click to set."
+    new "클릭하여 설정."
 
     # renpy/common/00director.rpy:1823
     old "Customize director.transitions to add more transitions."
-    new "Customize director.transitions to add more transitions."
+    new "더 많은 전환을 추가하려면 director.transitions를 사용자 지정하세요."
 
     # renpy/common/00director.rpy:1846
     old "Customize director.audio_channels to add more channels."
-    new "Customize director.audio_channels to add more channels."
+    new "더 많은 채널을 추가하려면 director.audio_channels를 사용자 지정하세요."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
-    new "Are you sure you want to continue where you left off?"
+    new "중단한 지점에서 계속하시겠습니까?"
 
     # renpy/common/00preferences.rpy:440
     old "self voicing enable"
-    new "self voicing enable"
+    new "대사 읽기 활성화"
 
     # renpy/common/00preferences.rpy:442
     old "self voicing disable"
-    new "self voicing disable"
+    new "대사 읽기 비활성화"
 
     # renpy/common/00preferences.rpy:457
     old "clipboard voicing enable"
-    new "clipboard voicing enable"
+    new "클립보드 음성 활성화"
 
     # renpy/common/00preferences.rpy:459
     old "clipboard voicing disable"
-    new "clipboard voicing disable"
+    new "클립보드 음성 비활성화"
 
     # renpy/common/00preferences.rpy:466
     old "debug voicing enable"
-    new "debug voicing enable"
+    new "디버그 음성 활성화"
 
     # renpy/common/00preferences.rpy:468
     old "debug voicing disable"
-    new "debug voicing disable"
+    new "디버그 음성 비활성화"
 
     # renpy/common/00preferences.rpy:588
     old "restore window position"
-    new "restore window position"
+    new "창 위치 복원"
 
     # renpy/common/00preferences.rpy:597
     old "reset"
-    new "reset"
+    new "초기화"
 
     # renpy/common/00speechbubble.rpy:432
     old "(clear retained bubbles)"
-    new "(clear retained bubbles)"
+    new "(유지된 말풍선 지우기)"
 
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
-    new "Translation identifier: [identifier]"
+    new "번역 식별자: [identifier]"
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
-    new " translates [tl.filename]:[tl.linenumber]"
+    new " [tl.filename]:[tl.linenumber] 번역"
 
     # renpy/common/00translation.rpy:101
     old "\n{color=#fff}Copied to clipboard.{/color}"
-    new "\n{color=#fff}Copied to clipboard.{/color}"
+    new "\n{color=#fff}클립보드에 복사했습니다.{/color}"
 
     # renpy/common/00updater.rpy:505
     old "No update methods found."
-    new "No update methods found."
+    new "업데이트 방법을 찾을 수 없습니다."
 
     # renpy/common/00updater.rpy:552
     old "Could not download file list: "
-    new "Could not download file list: "
+    new "파일 목록을 다운로드할 수 없습니다: "
 
     # renpy/common/00updater.rpy:555
     old "File list digest does not match."
-    new "File list digest does not match."
+    new "파일 목록 다이제스트가 일치하지 않습니다."
 
     # renpy/common/00updater.rpy:2080
     old "Preparing to download the game data."
-    new "Preparing to download the game data."
+    new "게임 데이터 다운로드를 준비하는 중입니다."
 
     # renpy/common/00updater.rpy:2082
     old "Downloading the game data."
-    new "Downloading the game data."
+    new "게임 데이터를 다운로드하는 중입니다."
 
     # renpy/common/00updater.rpy:2084
     old "The game data has been downloaded."
-    new "The game data has been downloaded."
+    new "게임 데이터를 다운로드했습니다."
 
     # renpy/common/00updater.rpy:2086
     old "An error occured when trying to download game data:"
-    new "An error occured when trying to download game data:"
+    new "게임 데이터를 다운로드하는 중 오류가 발생했습니다:"
 
     # renpy/common/00updater.rpy:2091
     old "This game cannot be run until the game data has been downloaded."
-    new "This game cannot be run until the game data has been downloaded."
+    new "게임 데이터를 다운로드할 때까지 이 게임을 실행할 수 없습니다."
 
     # renpy/common/00updater.rpy:2098
     old "Retry"
-    new "Retry"
+    new "다시 시도"
 

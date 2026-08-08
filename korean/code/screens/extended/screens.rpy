@@ -38,7 +38,7 @@ translate korean strings:
 
     # game/code/screens/extended/screens.rpy:202
     old "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
-    new "ANSWER THE QUESTIONNAIRE AND START A NEW GAME"
+    new "설문에 답하고 새 게임 시작"
 
     # game/code/screens/extended/screens.rpy:212
     old "LOAD A SAVE FROM WEEK 2"
@@ -82,5 +82,5 @@ translate korean strings:
 
     # game/code/screens/extended/screens.rpy:425
     old "COMIC BOOKS"
-    new "COMIC BOOKS"
+    new "만화책"
 
