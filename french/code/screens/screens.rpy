@@ -352,3 +352,9 @@ translate french strings:
     old "Menu"
     new "Menu"
 
+translate french strings:
+
+    # game/code/screens/screens.rpy:373
+    old "Comic Books"
+    new "Bandes dessinées"
+

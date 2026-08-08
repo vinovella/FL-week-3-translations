@@ -112,3 +112,9 @@ translate french strings:
     old "Get Fetish Locator: S&M Studio on Steam"
     new "Obtenir Fetish Locator : S&M Studio sur Steam"
 
+translate french strings:
+
+    # game/code/screens/extended/screens.rpy:425
+    old "COMIC BOOKS"
+    new "BANDES DESSINÉES"
+

@@ -352,8 +352,6 @@ translate spanish strings:
     old "Menu"
     new "Menú"
 
-translate spanish strings:
-
     # game/code/screens/screens.rpy:886
     old "Ren'Py Save Sync"
     new "Sincronización del archivo de guardado de Ren'Py"
@@ -361,4 +359,8 @@ translate spanish strings:
     # game/code/screens/screens.rpy:1056
     old "Dialogue Box Opacity"
     new "Opacidad del cuadro de diálogo"
+
+    # game/code/screens/screens.rpy:373
+    old "Comic Books"
+    new "Cómics"
 

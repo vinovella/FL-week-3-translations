@@ -52,23 +52,23 @@ translate korean strings:
 translate korean ending_not_available_9dcfd841:
 
     # "You have reached the current end of this story path."
-    "You have reached the current end of this story path."
+    "현재 이 이야기 분기의 결말에 도달했습니다."
 
 # game/code/endings.rpy:238
 translate korean ending_not_available_889ce1af:
 
     # "This ending is available as a free DLC."
-    "This ending is available as a free DLC."
+    "이 결말은 무료 DLC로 제공됩니다."
 
 # game/code/endings.rpy:240
 translate korean ending_not_available_8fd50248:
 
     # "This ending is available as a paid DLC."
-    "This ending is available as a paid DLC."
+    "이 결말은 유료 DLC로 제공됩니다."
 
 # game/code/endings.rpy:242
 translate korean ending_not_available_fd68c670:
 
     # "This ending is available in our Patreon."
-    "This ending is available in our Patreon."
+    "이 결말은 저희 Patreon에서 제공됩니다."
 

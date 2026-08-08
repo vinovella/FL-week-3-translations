@@ -104,3 +104,7 @@ translate portuguese strings:
     old "Watch Fetish Locator: S&M Studio trailer"
     new "Assista ao trailer de Fetish Locator: S&M Studio"
 
+    # game/code/screens/extended/screens.rpy:425
+    old "COMIC BOOKS"
+    new "QUADRINHOS"
+

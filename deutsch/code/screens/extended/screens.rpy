@@ -108,3 +108,9 @@ translate deutsch strings:
     old "Watch Fetish Locator: S&M Studio trailer"
     new "Trailer zu Fetish Locator: S&M Studio ansehen"
 
+translate deutsch strings:
+
+    # game/code/screens/extended/screens.rpy:425
+    old "COMIC BOOKS"
+    new "COMIC BÜCHER"
+

@@ -348,8 +348,6 @@ translate turkish strings:
     old "Menu"
     new "Menü"
 
-translate turkish strings:
-
     # game/code/screens/screens.rpy:886
     old "Ren'Py Save Sync"
     new "Ren'Py Senkronizasyonu Kaydet"
@@ -357,4 +355,8 @@ translate turkish strings:
     # game/code/screens/screens.rpy:1056
     old "Dialogue Box Opacity"
     new "Diyalog Kutusu Opaklığı"
+
+    # game/code/screens/screens.rpy:373
+    old "Comic Books"
+    new "Çizgi Romanlar"
 

@@ -384,8 +384,6 @@ translate russian strings:
     old "Menu"
     new "Меню"
 
-translate russian strings:
-
     # game/code/screens/screens.rpy:357
     old "Endings"
     new "Концовки"
@@ -394,13 +392,15 @@ translate russian strings:
     old "Connect Your Toy"
     new "Подключить Lovence устройство"
 
-translate russian strings:
-
     # game/code/screens/screens.rpy:886
     old "Ren'Py Save Sync"
-    new "Ren'Py Save Sync"
+    new "Синхронизация сохранений Ren'Py"
 
     # game/code/screens/screens.rpy:1056
     old "Dialogue Box Opacity"
-    new "Dialogue Box Opacity"
+    new "Прозрачность диалогового окна"
+
+    # game/code/screens/screens.rpy:373
+    old "Comic Books"
+    new "Комиксы"
 

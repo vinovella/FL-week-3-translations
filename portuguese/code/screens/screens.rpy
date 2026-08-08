@@ -352,19 +352,13 @@ translate portuguese strings:
     old "Menu"
     new "Menu"
 
-translate portuguese strings:
-
     # game/code/screens/screens.rpy:354
     old "Endings"
     new "Finais"
 
-translate portuguese strings:
-
     # game/code/screens/screens.rpy:1033
     old "Connect Your Toy"
     new "Conecte Seu Brinquedo"
-
-translate portuguese strings:
 
     # game/code/screens/screens.rpy:886
     old "Ren'Py Save Sync"
@@ -373,4 +367,8 @@ translate portuguese strings:
     # game/code/screens/screens.rpy:1056
     old "Dialogue Box Opacity"
     new "Opacidade da Caixa de Diálogo"
+
+    # game/code/screens/screens.rpy:373
+    old "Comic Books"
+    new "Quadrinhos"
 

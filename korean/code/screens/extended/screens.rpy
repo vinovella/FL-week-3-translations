@@ -64,10 +64,6 @@ translate korean strings:
     old "BONUS CONTENT"
     new "추가 콘텐트"
 
-    # game/code/screens/extended/screens.rpy:95
-    old "Wishlist Taboo University on Steam"
-    new "Steam의 찜 목록에 터부 대학교 추가"
-
     # game/code/screens/extended/screens.rpy:216
     old "Get a Lovense toy"
     new "Lovense 토이 구매"
@@ -80,29 +76,11 @@ translate korean strings:
     old "Get free DLC containing 6 endings from Steam"
     new "Steam에서 6개 결말이 포함된 무료 DLC 받기"
 
-translate korean strings:
-
-    # game/code/screens/extended/screens.rpy:227
-    old "Buy Taboo University on Steam"
-    new "Steam에서 터부 대학교 구매"
-
-translate korean strings:
-
     # game/code/screens/extended/screens.rpy:267
     old "Get DLC-2 containing 6 additional endings from Steam"
     new "Steam에서 6개 추가 결말을 포함한 DLC-2 구매"
 
-translate korean strings:
-
-    # game/code/screens/extended/screens.rpy:236
-    old "Wishlist Fetish Locator: S&M Studio on Steam"
-    new "Steam에서 페티시 로케이터: S&M 스튜디오를 찜 목록에 추가 "
-
-    # game/code/screens/extended/screens.rpy:238
-    old "Get Fetish Locator: S&M Studio on Steam"
-    new "Steam에서 페티시 로케이터: S&M 스튜디오 구매"
-
-    # game/code/screens/extended/screens.rpy:251
-    old "Watch Fetish Locator: S&M Studio trailer"
-    new "페티시 로케이터: S&M 스튜디오 트레일러 보기"
+    # game/code/screens/extended/screens.rpy:425
+    old "COMIC BOOKS"
+    new "COMIC BOOKS"
 
