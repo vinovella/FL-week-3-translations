@@ -956,6 +956,9 @@ translate italian strings:
     old "prev"
     new "prec"
 
+    old "Prev"
+    new "Prec"
+
     # renpy/common/00gallery.rpy:648
     old "next"
     new "succ"

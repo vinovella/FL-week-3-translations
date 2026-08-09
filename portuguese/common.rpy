@@ -940,6 +940,9 @@ translate portuguese strings:
     old "prev"
     new "anter."
 
+    old "Prev"
+    new "Anter."
+
     # renpy/common/00gallery.rpy:611
     old "next"
     new "próxima"

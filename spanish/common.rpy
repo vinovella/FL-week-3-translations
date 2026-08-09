@@ -892,6 +892,9 @@ translate spanish strings:
     old "prev"
     new "anterior"
 
+    old "Prev"
+    new "Anterior"
+
     # renpy/common/00gallery.rpy:648
     old "next"
     new "próximo"

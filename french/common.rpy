@@ -1008,6 +1008,9 @@ translate french strings:
     old "prev"
     new "précédent"
 
+    old "Prev"
+    new "Précédent"
+
     # renpy/common/00gallery.rpy:648
     old "next"
     new "suivant"

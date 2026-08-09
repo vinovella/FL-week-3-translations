@@ -940,6 +940,9 @@ translate chinese strings:
     old "prev"
     new "上一页"
 
+    old "Prev"
+    new "上一页"
+
     # renpy/common/00gallery.rpy:611
     old "next"
     new "下一页"

@@ -916,6 +916,9 @@ translate russian strings:
     old "prev"
     new "пред"
 
+    old "Prev"
+    new "Пред"
+
     # renpy/common/00gallery.rpy:611
     old "next"
     new "след"

@@ -912,6 +912,9 @@ translate turkish strings:
     old "prev"
     new "önceki"
 
+    old "Prev"
+    new "Önceki"
+
     # renpy/common/00gallery.rpy:648
     old "next"
     new "sonraki"

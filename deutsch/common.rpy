@@ -720,6 +720,9 @@ translate deutsch strings:
     old "prev"
     new "prev"
 
+    old "Prev"
+    new "Prev"
+
     # renpy/common/00gallery.rpy:613
     old "next"
     new "zunächst"

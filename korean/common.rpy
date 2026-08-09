@@ -940,6 +940,9 @@ translate korean strings:
     old "prev"
     new "이전"
 
+    old "Prev"
+    new "이전"
+
     # renpy/common/00gallery.rpy:611
     old "next"
     new "다음"
